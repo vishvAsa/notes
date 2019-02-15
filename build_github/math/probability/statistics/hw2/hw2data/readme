@@ -1,4 +1,0 @@
-X: (N by d matrix) each row is an instance, represented by a d-dimensional vector
-labels: (N by 1 vector) the corresponding class labels
-
-N = 300 and d = 5.
