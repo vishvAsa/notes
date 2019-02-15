@@ -1,0 +1,121 @@
+\documentclass[oneside, article]{memoir}
+
+\input{../packages}
+\input{../packagesMemoir}
+\input{../macros}
+
+%opening
+\title{Computer networks: Survey}
+\author{vishvAs vAsuki}
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+\chapter{Representation}
+A computer network can in general be represented by a weighted directed graph with various node annotations. Commonly, other simpler representations suffice to study the problem at hand: Eg: undirected weighted graphs.
+
+\chapter{Themes}
+\section{Problems}
+\subsection{Protocol design}
+Network engineers design and implement protocols/ software to provide a certain service.
+
+\subsection{Analysis}
+Analysis is often done by modeling network rate mathematically, and then studying the properties implied by these models either theoretically or in simulation. Or, analysis of properties may be done by observing a system deployed in practice.
+
+Properties of common interest are performance (eg: throughput) and security.
+
+\section{Distributed computing connection}
+The study of networks is essentially about building infrastructure for enabling distributed computing which may not be specified fully.
+
+\chapter{Layered, modularized software}
+Given a computer network, suppose that we want to get any $k$ given computers to communicate accurately and easily in order to provide a variety of services to the users. This involves many common/ separate tasks which can be implemented as separate modules, which inturn can be arranged as a stack or hierarchy of layers. For details, see software architecture survey.
+
+Common layers are described below, with TCP/IP protocol stack as a specific common instantiation, which dominated other standards due to it being open-source.
+
+\section{Physical layer}
+At this lowest layer, one can place point to point communication protocols for transmitting certain messages across a single hop using electromagnetic waves/ currents.
+
+\section{Network layer}
+Protocols/ software at this layer are responsible for discovery, maintenance, utilization of routes between computers in the network.
+
+\subsection{IP protocol}
+\subsubsection{Hierarchy of networks}
+A beautiful way to deal with a huge network, for the purposes of routing, is to consider it as a network of networks, which may inturn contain subnetworks etc.. The biggest hierarchical network, consisting of computers from all over the  world and beyond, is the internet.
+
+\paragraph{Addressing}
+A natural way of specifying a hierarchy of networks is to use bit-strings. Suppose that one uses an n-bit string to denote the address of any computer in the Internet. Then, fixing $k$ higher order bits is equivalent to fixing a subnetwork, individual computers in which can then be addressed by specifying the remaining $n-k$ bits.
+
+\paragraph{Routing}
+The hierarchical structure of networks can be exploited in routing. For every sub-network, there is atleast one gateway - a computer which is also linked to another computer outside the subnetwork, which is generally connected to the rest of the internet. Rather than record routes to every possible computer, a router can determine the route to the gateway in a subnetwork, and rely on it to route the packet within its subnetwork.
+
+\subsubsection{IPv4 addresses}
+These are 4 bytes long. Certain addresses are reserved for local/ special use (Eg: 127.0.0.1 for local host, 192.168.124.* for computers within a subnetwork where using it would be unambiguous etc..). All of these addresses have already been assigned to various entities, hence the shift to IPv6 addresses.
+
+\subsubsection{IPv6}
+These addresses are 6 bytes long.
+
+\subsection{External link speed}
+Internet service providers (ISP's), when they advertise their service speed/ bandwidth, usually include bits taken up by the link and network layers (eg: ATM).
+
+\subsection{Mobile networks}
+\subsubsection{Standards}
+Standards compare capabilities of protocols - particularly data-transfer rate in highly mobile (bus or train) and low mobility settings. 3G guarantees 200kbps, while 4G provides 100Mbps in highly mobile settings and 1Gbps in low mobility settings.
+
+In 2011, LTE was the protocol most capable of achieving 4G.
+
+\section{Transport layer}
+This layer is responsible for routing the packet to the right application, in the right order, after sufficient efforts at ensuring accuracy and security. Includes TCP for sending an arbitrarily long packet stream, UDP (sending single packet).
+
+Applications of various types usually listen at certain predetermined 'ports' - 4 byte numbers, of which there exists a conventional mapping of ports to application types which need not be followed.
+
+\part{Application layer}
+\chapter{Domain name resolution}
+\section{Domain name}
+To connect to an application on a remote computer, one needs to know the IP address of that computer, which is often supplied to the application externally - by a user for example. Strings, called domain names, tend to be easier to remember than IP addresses. 
+
+\subsection{Translation}
+So domain name resolution can be considered a sub-module used for translating domain names to IP addresses.
+
+\subsection{Hierarchy}
+Domain names take the form A.B..C. C is called the top level domain (eg: com, in, ..). A.B is a subdomain of B etc..
+
+For each (sub)domain, there is a universally agreed upon primary DNS (Doman name server), which has a table which contains entries which describe how a domain name is to be resolved to get an IP address.
+
+These tables are often duplicated (and synchronized) in various locations for providing quick service accross the internet.
+
+Types of entries include: A, which directly map a given domain to an IP address, CNAME which translates a domain to a url, and a type of entry which says that, for resolution, one ought to refer to a table maintained by another DNS (Domain delegation). 
+
+\section{Registration}
+One registers with registrars, who often offer appropriate access to their DNS.
+
+\subsection{Economics}
+There is much demand for certain domains, and they fetch high prices. To attract registration, registrars ask for deceptively low 'first year prices' or low prices for very short-term registration, which places the burden of frequent renewal.
+
+\subsection{Whois}
+Using whois services, (usually) public contact details about the owner/ registration of a domain may be obtained.
+
+\chapter{Content delivery network}
+Transferring large files to the consumer is faster when it is cached at a location close to the consumer (in terms of time). Large companies may use their own special content delivery network, or provide such a service to others, in order to get more patronage from consumers whose ISp's have slow links to distant servers.
+
+Eg: Akamai.
+
+\chapter{http}
+This is a primitive protocol meant to transfer files from servers to clients, with annotation about meta-information.
+
+\section{Web hosting services}
+Google's appspot provides limited bandwidth, memory for website hosting.
+
+\chapter{Web Services architecture}
+\section{Broker, provider, consumer}
+There is a services broker/ directory, with which various service machines register details about their services, and which can be used by other machines to locate services fitting their needs. Having done that, the service consumer and provider interact directly.
+
+Various protocols define format for transmitting objects (SOAP XML), service descriptions (Web Service Description Language) etc..
+
+\chapter{Service oriented architecture (SOA)}
+The basic unit of communication is a message, rather than an operation. This is often implemented using web services.
+
+% \bibliographystyle{plain}
+% \bibliography{randomizedAlgorithms}
+\end{document}

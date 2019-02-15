@@ -1,0 +1,98 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+title: Parts
+contents:
+  - title: Places
+    contents:
+      - title: USA
+        contents:
+          - title: Intro
+            url: /artha/places/usa/intro/
+          - title: SF Bay
+            contents:
+              - title: Intro
+                url: /artha/places/usa/sf-bay/intro/
+              - title: Arts
+                url: /artha/places/usa/sf-bay/arts/
+      - title: India
+        contents:
+          - title: Intro
+            url: /artha/places/india/intro/
+          - title: Beṇgaḷūru
+            contents:
+              - title: Intro
+                url: /artha/places/india/bengaluuru/intro/
+  - title: Economics
+    contents:
+      - title: Businesses
+        contents:
+          - title: Intro
+            contents:
+              - url: dir://artha/economics/businesses/fundamentals
+          - url: dir://artha/economics/businesses/
+      - title: Goods and services
+        contents:
+            - url: dir://artha/economics/goods/
+      - title: Investing
+        contents:
+            - url: dir://artha/economics/investing/
+      - title: State level
+        contents:
+            - url: dir://artha/economics/state-level/
+      - title: Consumption + Donation
+        url: /artha/economics/spending/
+      - title: Trading
+        contents:
+            - url: dir://artha/economics/trading/
+      - title: Tax
+        url: /artha/economics/tax/
+      - title: Geo outlook
+        contents:
+            - url: dir://artha/economics/geo/
+  - title: Society
+    contents:
+      - title: Algorithmic game theory
+        url: /artha/society/gameTheory/gameTheory.pdf
+  - title: Skills
+    contents:
+      - title: Clothing
+        contents:
+          - url: dir://artha/skills/clothing/
+      - title: Learning
+        contents:
+          - url: dir://artha/skills/learning/
+      - title: Communication
+        contents:
+          - title: Real Time
+            contents:
+              - url: dir://artha/skills/communication/real-time/
+          - url: dir://artha/skills/communication/
+      - title: Moving
+        contents:
+          - url: dir://artha/skills/moving/
+      - title: Research
+        contents:
+          - url: dir://artha/skills/research/
+      - url: dir://artha/skills/
+  - title: Education
+    contents:
+      - title: Principles
+        url: /artha/education/principles/
+      - title: Home schooling
+        contents:
+        - title: Intro
+          url: /artha/education/home_school/
+        - title: FAQ
+          url: /artha/education/home_school/faq/
+        - title: India
+          url: /artha/education/home_school/india/
+        - title: USA
+          url: /artha/education/home_school/usa/
+      - title: Lecturing
+        url: /artha/education/lecturing/
+  - title: Notes Home
+    url: /
+  - title: Vishvas's home page
+    url: /../
+  - title: Blog
+    url: /assets/blog/

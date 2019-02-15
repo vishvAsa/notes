@@ -1,0 +1,10 @@
+baseURL = "https://vvasuki.github.io/notes/"
+languageCode = "en-us"
+title = "Vishvas's notes"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "build_github"
+[params]
+  githubEditMePathBase = "https://github.com/vvasuki/notes/edit/master/content/"
+  contactLink = "https://github.com/vvasuki/notes/issues/new"
+  env = "production"
+  disqusShortcode = "vvasuki-site"

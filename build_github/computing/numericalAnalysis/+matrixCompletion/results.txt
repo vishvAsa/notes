@@ -1,0 +1,37 @@
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 3.000000e-01, wtL1: 0, wtExpPower: 10 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 3.000000e-01, wtL1: 0, wtExpPower: 10 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 3.000000e-01, wtL1: 0, wtExpPower: 10 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 3.000000e-01, wtL1: 0, wtExpPower: 10 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 3.000000e-01, wtL1: 0, wtExpPower: 10 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 3.000000e-01, wtL1: 0, wtExpPower: 10 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 3.000000e-01, wtL1: 0, wtExpPower: 10 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 3.000000e-01, wtL1: 0, wtExpPower: 10 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 3.000000e-01, wtL1: 0, wtExpPower: 10 
+aucApprox: 4.911270e-01 aucSVDApprox: 3.656134e-01 aucRandom: 5.000000e-01 
+rank(Approx): 12 density(Approx): 9.850000e-02 
+rank(Approx): 12 density(Approx): 9.850000e-02 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 3.000000e-01, wtL1: 0, wtExpPower: 10 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 3.000000e-01, wtL1: 0, wtExpPower: 10 
+aucApprox: 4.911270e-01 aucSVDApprox: 3.656134e-01 aucRandom: 5.000000e-01 
+rank(Approx): 12 density(Approx): 9.850000e-02 
+rank(Approx): 12 density(Approx): 9.850000e-02 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 6.000000e-01, wtL1: 0, wtExpPower: 10 
+aucApprox: 5.194158e-01 aucSVDApprox: 5.969816e-01 aucRandom: 5.000000e-01 
+rank(Approx): 8 density(Approx): 4.325000e-02 
+rank(Approx): 8 density(Approx): 4.325000e-02 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 8.000000e-01, wtL1: 0, wtExpPower: 10 
+aucApprox: 5.630658e-01 aucSVDApprox: 5.335853e-01 aucRandom: 5.000000e-01 
+rank(Approx): 10 density(Approx): 1.055000e-01 
+rank(Approx): 10 density(Approx): 1.055000e-01 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 9.000000e-01, wtL1: 0, wtExpPower: 10 
+aucApprox: 5.569514e-01 aucSVDApprox: 6.029886e-01 aucRandom: 5.000000e-01 
+rank(Approx): 8 density(Approx): 7.800000e-02 
+rank(Approx): 8 density(Approx): 7.800000e-02 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 9.000000e-01, wtL1: 0, wtExpPower: 10 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 9.000000e-01, wtL1: 0, wtExpPower: 10 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 9.000000e-01, wtL1: 0, wtExpPower: 10 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 9.000000e-01, wtL1: 0, wtExpPower: 10 
+numRows: 200, numCols: 20, rank: 10, density: 1.200000e-01, wtNuc: 9.000000e-01, wtL1: 0, wtExpPower: 10 
+aucApprox: 4.975421e-01 aucSVDApprox: 4.715350e-01 aucRandom: 5.000000e-01 
+rank(Approx): 15 density(Approx): 1.405000e-01 
+rank(Approx): 15 density(Approx): 1.405000e-01 

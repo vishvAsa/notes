@@ -1,0 +1,287 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>683 Homework Assignment</title>
+</head>
+<body bgcolor="white" link="#0440dd" text="black" vlink="#0440dd">
+<h3 align="center"><font color="#0000ff" size="+2">Homework Assignment #4: Probabilistic Reasoning<br>
+
+Due: November 14, 2007
+</font></h3>
+
+
+<ol>
+
+
+  <li> (15%) Problem 13.9 from R&amp;N.
+It is quite often useful to consider the effect of some specific
+proposition in the context of some general background evidence that
+remains fixed, rather than the complete absense of information. 
+    <p>
+    </p>
+    <ol>
+
+      <li> Prove the conditionalized version of the general product rule:
+P(X,Y|<b>e</b>) = P(X|Y,<b>e</b>)P(Y|<b>e</b>). <br>
+ 
+        <p>
+        </p>
+      </li>
+      <li> Prove the conditionalized version of Bayes' rule:
+P(Y|X,<b>e</b>) = P(X|Y,<b>e</b>) P(Y|<b>e</b>) / P(X|<b>e</b>). <br>
+ 
+        <p>
+        </p>
+      </li>
+    </ol>
+ 
+    <p>
+
+    </p>
+  </li>
+  <li> (15%) Problem 13.15 from R&amp;N. 
+Suppose you are a witness to a nighttime hit-and-run accident involving
+a taxi in Athens.  All taxis in Athens are blue or green.  You swear,
+under oath, that the taxi was blue.  Extensive testing shows that, under
+the dim lighting conditions, discrimination between blue and green is
+75% reliable.  Is it possible to calculate the most likely color of the
+taxi?  (<i>Hint:</i> distinguish between the proposition that the taxi
+    <i>is</i> blue and the proposition that it <i>appears</i> blue.) <br>
+
+What about now, given that 9 out of 10 Athenian taxis are green? <br>
+
+    <p>
+
+    </p>
+  </li>
+  <li> (25%) 
+Consider the following Bayesian network: <br>
+ 
+    <p>
+
+    </p>
+    <center><img src="hw4_files/hw4f1.jpg" width="300"></center>
+    <br>
+
+
+    <ol>
+
+  <li> Suppose that all the variables are Boolean.  How many parameters
+  (real numbers) are needed to specify an arbitrary joint probability  
+  distribution over 8 variables?
+  How many parameters are needed to define the joint probability
+  distribution using the above Bayesian network? 
+        <p>
+
+  </p>
+      </li>
+      <li> Which of the following probabilistic relations are implied by the
+  structure of the above Bayesian network?  Explain briefly. <br>
+
+  
+        <table>
+
+  <tbody>
+            <tr>
+
+  <td>(a) &nbsp; </td>
+              <td> P(E|G) = P(E) </td>
+            </tr>
+
+  <tr>
+
+  <td>(b)</td>
+              <td> P(C|D) = P(C) </td>
+            </tr>
+
+  <tr>
+
+  <td>(c)</td>
+              <td> P(C|D,A) = P(C|A) </td>
+            </tr>
+
+  <tr>
+
+  <td>(d)</td>
+              <td> P(B|A,C) = P(B|A) </td>
+            </tr>
+
+  <tr>
+
+  <td>(e)</td>
+              <td> P(C,D|E) = P(C,D) </td>
+            </tr>
+
+  <tr>
+
+  <td>(f)</td>
+              <td> P(F|A,E,H) = P(F|A) </td>
+            </tr>
+
+  <tr>
+
+  <td>(g)</td>
+              <td> P(A,C|D,E,H) = P(A,C|D) </td>
+            </tr>
+
+  
+          </tbody>
+        </table>
+ 
+        <p>
+
+  </p>
+      </li>
+      <li> Express P(A|G) in terms of the probabilities
+  directly available in the network.  You will need to use Bayes' rule
+  and conditioning on one or more other variables. 
+        <p>
+  
+        </p>
+      </li>
+    </ol>
+ 
+    <p>
+
+    </p>
+  </li>
+  <li> (20%)
+Suppose that in a polytree network, X is an ancestor of Y and we
+wish to compute P(Y|X) in terms of the CPT entries of the network.
+Explain why this computation can be done using conditioning operations
+only and write a general expression for P(Y|X).
+(<i>Hint:</i> you may find
+it useful to consider an example such as the following, although the
+specific details of the example need not appear in your answer.) <br>
+ 
+    <p>
+
+    </p>
+    <center><img src="hw4_files/hw4f2.jpg" width="150"></center>
+    <br>
+
+
+  </li>
+  <li> (25%)
+You are an AI consultant for an auto insurance company.  Your task is to
+construct a Bayesian network that will allow the company to decide how
+much financial risk they run from various policy holders, given certain
+data about the policy holders.
+
+In order to design a Bayesian network, you need <i>output variables</i>
+and <i>evidence variables</i>.  The output variables are those for which
+the insurance company is trying to get a probability distribution for
+their possible values.  The evidence variables are those variables for
+which you can obtain information, on the basis of which it is legal to
+make decisions, and that are relevant to the decision.
+
+Output variables represent the cost of various catastrophic events that
+the insurance company might have to reimburse.  In the automobile
+insurance domain, the major output variables are the medical cost
+(<i>MedCost</i>), property cost (<i>PropCost</i>), and intangible liability cost
+(<i>ILiCost</i>).  Medical and property costs are those incurred by <i>all</i>
+individuals involved in an accident; auto theft or vandalism might also
+incur property cost.  Intangible liability costs are legal penalties for
+things like``pain and suffering,'' punitive damages, and so forth, that a
+driver might incur in an accident in which he or she is at fault.
+
+Evidence variables for this domain include the driver's age and record;
+whether or not he or she owns another car; how far he or she drives per
+year; the vehicle's make, model and year; whether it has safety
+equipment such as airbag and antilock brakes; where it is garaged and
+whether it has an antitheft device. 
+    <p>
+
+    </p>
+    <ol>
+
+
+      <li> Build a possible belief network for this problem.
+You will need to decide on
+suitable domains for the variables, bearing in mind the need to
+discretize.  You will also need to add intermediate nodes such as
+        <i>DrivingSkill</i> and <i>AutoRuggedness</i>. <br>
+ 
+        <p>
+
+        </p>
+      </li>
+      <li> Give reasonable conditional probability tables to a few (but not
+all!) nodes. <br>
+ 
+        <p>
+
+        </p>
+      </li>
+      <li> How many independent values are necessary to define the joint
+probability distribution of your model, assuming no conditional
+independence relations hold among the variables?  How many independent
+values are needed to complete your model using the conditional
+independence relations? <br>
+ 
+        <p>
+
+        </p>
+      </li>
+    </ol>
+ 
+    <p>
+
+    </p>
+  </li>
+  <li> (optional)
+Use one of the free belief networks software packages (or a
+free demo) to complete the assignment.  You can use Google's list of
+Bayes net software at <a href="http://directory.google.com/Top/Computers/Artificial_Intelligence/Belief_Networks/Software/">http://directory.google.com/Top/Computers/Artificial_Intelligence/Belief_Networks/Software/</a>.
+Some good packages for this project include JavaBayes, Netica from
+Norsys, and MSBN from Microsoft.  Confirm first that the free version 
+can handle the size and type of network you want to create. 
+    <p>
+Download one of these packages and build the network of question (5).
+Give plausible conditional probability tables for each node. </p>
+    <p>
+
+    </p>
+    <ol>
+
+
+      <li> Illustrate how your network performs with a some sample pieces of
+evidence. <br>
+ 
+        <p>
+
+        </p>
+      </li>
+      <li> Explain how an insurance company would obtain reliable probability
+estimated for the different CPTs in the network. <br>
+ 
+        <p>
+
+        </p>
+      </li>
+      <li> How would you convince the insurance company to adopt your model?
+        <br>
+ 
+        <p>
+
+        </p>
+      </li>
+    </ol>
+
+
+  </li>
+</ol>
+
+
+
+
+
+
+<p><br>
+<font size="-1">© 2007 Shlomo Zilberstein.  </font></p>
+
+
+<!--/font-->
+
+</body>
+</html>

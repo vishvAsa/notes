@@ -1,0 +1,227 @@
+\documentclass[oneside, article]{memoir}
+
+\input{../packages}
+\input{../packagesMemoir}
+\input{../macros}
+
+%opening
+\title{Inference: Quick reference}
+\author{vishvAs vAsuki}
+
+\begin{document}
+\maketitle
+
+Based on \cite{russellNorvig}, and a course by Shlomo Zilberstein.
+
+\part{Introduction}
+\chapter{Themes and Problems}
+\section{Boolean inference}
+At its most basic level, inference is concerned with determining the truth value of a statement.
+
+Thus, the following questions become important: What logic/ calculus is expressive enough, models the world naturally? How to reason about the the world? Is the logic/ calculus complete (ie: can we prove any true statement)?
+
+\subsection{Satisfiability vs validity}
+Given some axioms, can you prove a statement? When is a proposition with free variables satisfiable? Is it valid for all assignments?
+
+\subsubsection{Model checking}
+Often, we are given a knowledge-base, a set of statements $S1$ known to be true in a certain model. Then, there are statements $S2$ whose truth value is to be determined. Thus, we are to check whether the model given by $S1 \union S2$ is consistent.
+
+
+
+\section{Probabilistic inference}
+More generally, it is concerned with evaluation of probabilities of events. This is accomplished using the axioms of probability, with much theory and devices like graphical models. See statistics and randomized algorithms surveys.
+
+\chapter{Statement}
+Aka formula.
+
+\section{Language}
+\subsection{Syntax}
+All sentences are written with symbols/ words drawn from some alphabet, in a formal language. A statement/ formula is said to be well formed if it makes sense according to some formal grammar.
+
+\subsubsection{Values}
+The most basic statements are the values T / TRUE and F/ FALSE.
+
+\subsection{Semantics}
+Corresponding to languages of various levels of expressiveness, there are Logics/ calculii which specify the semantics. They, for example, specify what 'P', $\lnot P$ etc.. stand for. Truth of a proposition often follows from the semantics: $2>3$ is F.
+
+Statements assumed to be true (in the context of model checking or inference) in a given model is called an assertion.
+
+
+\section{Variables}
+A variable is a symbol used within a sentence which may be substituted for some value (T, F, objects in a set) or even by other symbols (Eg: $P \dfn Q \land R$).
+
+\subsection{Assignment}
+Assignment statements assign a value to a symbol. Notation when restricted to a particular statement $P$: $P[Q \assign T, R \assign F]$. Then, the semantics/ logic rules ensure that wherever the variable-symbol occurs in a given statement, the corresponding value may be substituted.
+
+\subsubsection{Model}
+Assignment statements, when part of a set of assertions, help specify a 'possible world' or model.
+
+\subsection{Free and bound variables}
+Variables occurring within a sentence or a set of sentences may require assignment (ie assignment sentences may need to be added) in order for us to be able to evaluate the truth value of a sentence. Such variables are called free variables. Variables which are not free are called bound variables.
+
+An expression with atleast one free variable is an open term.
+
+Eg: In the sentence $\forall a \in B, a<5c$, $a$ is $a$ bound variable, while $b$ is a free variable.
+
+Domain of discourse: The domain of $x, y$ and other free variables. 
+
+\subsection{Boolean valued}
+Boolean valued variables (aka Propositional symbols) constitute the atomic formulae of propositional calculus. These are usually denoted by CAPITAL letters.
+
+\section{Proposition}
+A proposition is a statement whose truth value can be evaluated.
+
+\subsection{Truth value}
+A statement $P$ may be TRUE or FALSE - depending on the 'possible world' or model we are considering.
+
+\subsubsection{Validity}
+Or, if it is a tautology, it is true in every possible world.
+
+\section{Predicates}
+Eg: x is sick: 'is sick' is a predicate; thence get isSick(x). Can talk about relations between objects: R(x, y).
+
+\subsection{Free variables}
+In predicate $R(x, y), x$ and $y$ are free variables. 
+
+\subsection{As a set}
+Every predicate defines a set of values for which it is true. Eg: $x>3$.
+
+\subsection{Quantification and assignment}
+Upon assignment, or quantification eg: $R(x\assign 3, y \assign 2)$, predicate becomes a proposition.
+
+\subsubsection{Special cases}
+$\forall x \in \nullSet: P(x)$ is true; $\exists x \in \nullSet : P(x)$ is false.
+
+\section{Types}
+Simple propositions are devoid of quantifiers and connectors.
+
+\subsection{Compound propositions}
+Compound propositions: simple propositions combined by logical connectives $\land \lor ..$; actually $\lor, \lnot $ enough.
+
+So, these are propositions involving boolean free variables.  They state some relationship among simple propositions.
+
+\subsubsection{Implication, equivalnce}
+$p \implies q$: $p$ 'stronger' than $q$. Equivalence $\equiv$: $(p \implies q) \land (q \implies p)$. This notion of strength is natural when $p$ and $q$ are viewed as events or sets in the sample space; then we see that $E_p \subseteq E_q$.
+
+\subsection{Quantification}
+One can use the universal and existential quantifiers to write statements such as $\forall x: x< 5$ and $\exists x: x< 5$.
+
+\subsubsection{Notations}
+$\forall x \in S: P(x)$.
+
+Or $\forall x: x \in S: P(x)$ or $\forall x: Q(x): P(x)$: second part specifies domain of $x$.
+
+\section{Other perspectives}
+A statement can be viewed in several ways, including as a set or an event. These perspectives are described in the boolean functions survey.
+
+\chapter{Degrees of expressiveness}
+\section{Propositional logic: 0th order logic}
+\subsection{Limitations}
+'Harry is sick' or 'sick' can be handled, but not 'x is sick'.
+
+\section{First order predicate logic}
+Propositional logic with predicates, quantifiers. See Propositional logic section: many properties carry over.
+
+
+\subsection{Limitations}
+Can't talk about relations over relations. Eg: G(R(x,y),z).
+
+\section{Fuzzy logic}
+Could be 0.7 correct: not just correct or incorrect.
+
+\section{Temporal logic}
+Entailment. Also see co operator in distributed computing ref.
+
+\chapter{Inference}
+\section{Proving validity of theorems}
+We are given a set of axioms and valid statements/ additional rules of inference $S = \set{s_i}$. Does $S \implies^{*} p$? Or is $p \equiv q$? So, want to see if a certain relationship between propositions holds.
+
+This is akin to the search for proofs.
+
+\section{Use rules of inference}
+Eg: Modus ponens: $(p \land (p \implies q)) \implies q$. Strengthening and weakening of implications.
+
+De Morgan law: $\lnot(p \land q) \equiv \lnot p \lor \lnot q$.
+
+Contrapositive: $(p \implies q) \equiv (\lnot q \implies \lnot p)$.
+
+\subsection{Resolution}
+Take $s_i \dfn a \land b$ and $s_j \dfn \lnot a \lor b$; get $s_i \land s_j \implies $.
+
+Resolution is complete.
+
+\subsection{Other Properties}
+$p \implies q \equiv \lnot p \lor q$. $\implies$ is transitive.
+
+\subsection{Implications: Strengthening and weakening}
+FALSE or $a \land \lnot a$: the strongest possible assertion; TRUE: weakest assertion.
+
+Can always strengthen LHS in implication, and weaken RHS. Eg: If $q \implies r; p \implies q$: Can say: $p \implies r$ or $p \implies q \lor s$.
+
+View p as $\set{b1, b2: p[q \assign b1, p \assign b2] = T}$, a predicate or propositinal fn. Sets of stronger p are smaller.
+
+\subsection{Using truth tables}
+Suppose ye got a compound statement p involving $\set{p_i}$. Show that for any assignment of T/F to these propositions, p is true.
+
+\section{Chaining}
+\subsection{Forward chaining}
+Start with predicates you have; combine them in various ways; keep doing this till you hit q. Look at this as a directed graph, with P as the root nodes.
+
+\subsubsection{Backward chaining}
+Start with q. Look at conditions Q which need to be satisfied for q to be true; now try to prove each condition in Q; do this recursively until you hit P.
+
+\section{Inference with quantifiers}
+De morgan's laws over $\forall$ and $\exists$ now exist.
+
+\subsection{Instantiation}
+Universal instantiation: $[\forall x :: A(x)] \implies A(a)$.
+
+Similarly existential instantiation.
+
+\section{Satisfiability}
+Satisfiability as a constraint satisfaction problem. \tbc
+
+\section{Applications}
+Planning: q could be some state of the world. Initial state may be set of actions/ transitions and current state of the world.
+
+\part{Knowledge storage and representation}
+\chapter{Ontology}
+\section{Theme}
+Ontology is concerned with entities: their classification and relationship. Every entity has certain properties.
+
+\subsection{Motivation}
+The main benefit of ontology is that one can reason about an entity using general statements about the corresponding entity type.
+
+Ontologies are very useful, for example, in the case of understanding speech - where many different words (eg: man, indian .. ) are used to hint at the same entity.
+
+\section{Entity-types}
+Entities having several properties in common can be viewed as being instances of a single entity-type. Various entity-types may be related by specialization (is-a) and composition (has-a) relationships.
+
+The collection of entity-types and their relationships is called an ontology.
+
+\subsection{Graph notation}
+This relationship among entity-types may be represented using a directed graph. Entity-types are represented by nodes. A Is-a B and A has-a B relationships are denoted by arrows directed from B to A. Nodes involved in composition are distinguished - example by a thick/ double-line boundary.
+
+\subsection{Taxonomy}
+Aka specialization trees. Entity-types are often composed to form a hierarchical specialization-tree - as in the case of biology interested in studying the descent of species.
+
+\subsection{Examples}
+Object oriented programming, where classes are related by specialization and composition relationships, focuses strongly on ontology.
+
+\section{Instantiation of ontology}
+Every object or concept can be viewed as an instantiation not just of a particular entity-type, but of the ontology, with its various specializations and compositions.
+
+\subsection{Motivation}
+This enables us to list various properties and identities associated with that object. This enables reasoning about it.
+
+
+\chapter{Storing statements}
+\section{Propositional statements}
+\subsection{The knowledge base in Horn form}
+Horn clause has at most 1 unnegated proposition.
+\tbc
+
+\bibliographystyle{plain}
+\bibliography{../ai/ai}
+
+\end{document}

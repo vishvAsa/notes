@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{cvx_boydVan}
+Stephen Boyd and Lieven Vandenberghe.
+\newblock {\em Convex Optimization}.
+\newblock Cambridge University Press, March 2004.
+
+\bibitem{hornJohnson}
+Horn and Johnson.
+\newblock {\em Matrix Analysis}.
+\newblock CUP, 1985.
+
+\bibitem{hornJohnsonTopics}
+Horn and Johnson.
+\newblock {\em Topics in Matrix Analysis}.
+\newblock CUP, 1991.
+
+\bibitem{matrixCookbook}
+K.~B. Petersen and M.~S. Pedersen.
+\newblock The matrix cookbook, oct 2008.
+\newblock Version 20081110.
+
+\bibitem{strang}
+Gilbert Strang.
+\newblock {\em Linear Algebra and its applications, 4e}.
+\newblock Thomson Brooks/ Cole, 2006.
+
+\bibitem{trefBau}
+Lloyd~N. Trefethen and David Bau~III.
+\newblock {\em Numerical Linear Algebra}.
+\newblock Siam, 1997.
+
+\end{thebibliography}

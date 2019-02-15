@@ -1,0 +1,18 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+title: Parts
+contents:
+  - title: अर्थः
+    url: /artha/economics/investing/portfolio/
+  - title: Math, Computing
+    url: /computing/programming/
+  - title: Misc परिशिष्टम्
+    url: /misc/
+  - title: संस्काराः
+    url: /../saMskAra/
+  - title: Poetry काव्यम्
+    url: /../kAvya/
+  - title: Vishvas's home page
+    url: /../
+  - title: Blog
+    url: /assets/blog/

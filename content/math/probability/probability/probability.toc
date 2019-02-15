@@ -1,0 +1,170 @@
+\contentsline {chapter}{Contents}{1}{section*.1}
+\contentsline {part}{\partnumberline {I}Probability Theory}{5}{part.1}
+\contentsline {chapter}{\chapternumberline {1}Sample space and Events}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Sample/ state space}{5}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}States/ sample points}{5}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Specification with state variables}{6}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Sample space notation}{6}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Events and Sigma algebra}{6}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Events}{6}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Sigma algebra}{6}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Space of events}{6}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Product probability space}{6}{subsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.1.1}Over the same sample space S}{6}{subsubsection.1.3.1.1}
+\contentsline {section}{\numberline {1.4}Counting}{7}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Count action sequence}{7}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}'Picking' phenomena: varieties}{7}{subsection.1.4.2}
+\contentsline {subsubsection}{\numberline {1.4.2.1}Permutation}{7}{subsubsection.1.4.2.1}
+\contentsline {paragraph}{Dealing with identical items}{7}{section*.6}
+\contentsline {subsubsection}{\numberline {1.4.2.2}Combinations without repetition}{7}{subsubsection.1.4.2.2}
+\contentsline {subsubsection}{\numberline {1.4.2.3}Choosing with repetition}{7}{subsubsection.1.4.2.3}
+\contentsline {subsection}{\numberline {1.4.3}Combinatorial proofs of equality}{8}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}Cardinality of sets}{8}{subsection.1.4.4}
+\contentsline {chapter}{\chapternumberline {2}Probability of events}{8}{chapter.2}
+\contentsline {section}{\numberline {2.1}Probability measure}{8}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Importance}{8}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Visualization: An area of atomic events}{8}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Subscript notation}{8}{subsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.3.1}Other notations}{9}{subsubsection.2.1.3.1}
+\contentsline {subsubsection}{\numberline {2.1.3.2}Importance}{9}{subsubsection.2.1.3.2}
+\contentsline {subsection}{\numberline {2.1.4}Empirical measure}{9}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}Conditional and unconditional probabilities}{9}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Common errors}{9}{subsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.1.1}Equal weight error}{9}{subsubsection.2.2.1.1}
+\contentsline {subsubsection}{\numberline {2.2.1.2}Misidentified prior error}{9}{subsubsection.2.2.1.2}
+\contentsline {subsubsection}{\numberline {2.2.1.3}Illustrations}{9}{subsubsection.2.2.1.3}
+\contentsline {subsection}{\numberline {2.2.2}Independence of events}{10}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Properties of the measure}{10}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Connection with expectation}{10}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}Probability with Multiple variables/ sigma algebras}{10}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}The product measure}{10}{subsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.1.1}Marginalization}{11}{subsubsection.2.4.1.1}
+\contentsline {subsection}{\numberline {2.4.2}Conditional probability inversion}{11}{subsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.2.1}Likelihood function}{11}{subsubsection.2.4.2.1}
+\contentsline {section}{\numberline {2.5}Associated quantities}{11}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Odds and log odds}{11}{subsection.2.5.1}
+\contentsline {part}{\partnumberline {II}Random variables}{11}{part.2}
+\contentsline {chapter}{\chapternumberline {3}Random variable (RV) X}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}Map sample space to measurable space}{11}{section.3.1}
+\contentsline {section}{\numberline {3.2}Induced Probability measure Pr}{12}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Probability density function (pdf) wrt measure m}{12}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}Notation}{12}{subsubsection.3.2.1.1}
+\contentsline {subsubsection}{\numberline {3.2.1.2}Not probability measure}{12}{subsubsection.3.2.1.2}
+\contentsline {subsubsection}{\numberline {3.2.1.3}Probability mass function (pmf)}{12}{subsubsection.3.2.1.3}
+\contentsline {subsubsection}{\numberline {3.2.1.4}Support}{12}{subsubsection.3.2.1.4}
+\contentsline {subsubsection}{\numberline {3.2.1.5}Improper densities}{12}{subsubsection.3.2.1.5}
+\contentsline {subsubsection}{\numberline {3.2.1.6}In terms of cdf}{12}{subsubsection.3.2.1.6}
+\contentsline {subsection}{\numberline {3.2.2}Cumulative density functions (CDF)}{13}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}Notation}{13}{subsubsection.3.2.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2.2}Properties}{13}{subsubsection.3.2.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.3}Connection to discreteness}{13}{subsubsection.3.2.2.3}
+\contentsline {subsubsection}{\numberline {3.2.2.4}Multidimensional case}{13}{subsubsection.3.2.2.4}
+\contentsline {subsubsection}{\numberline {3.2.2.5}Quantiles}{13}{subsubsection.3.2.2.5}
+\contentsline {subsection}{\numberline {3.2.3}Entropy}{13}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Importance}{13}{section.3.3}
+\contentsline {section}{\numberline {3.4}Random variable for probability space}{13}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Indicator RV}{14}{subsection.3.4.1}
+\contentsline {section}{\numberline {3.5}RV from a map}{14}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Monotonic maps}{14}{subsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.1.1}CDF}{14}{subsubsection.3.5.1.1}
+\contentsline {subsubsection}{\numberline {3.5.1.2}pdf}{14}{subsubsection.3.5.1.2}
+\contentsline {subsubsection}{\numberline {3.5.1.3}Utility}{14}{subsubsection.3.5.1.3}
+\contentsline {chapter}{\chapternumberline {4}Multiple random variables}{14}{chapter.4}
+\contentsline {section}{\numberline {4.1}Random vector}{14}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Marginalization}{15}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Conditional pdf}{15}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Inversion}{15}{subsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.1.1}Improper densities}{15}{subsubsection.4.2.1.1}
+\contentsline {section}{\numberline {4.3}Independence}{15}{section.4.3}
+\contentsline {section}{\numberline {4.4}Conditional Independence}{15}{section.4.4}
+\contentsline {chapter}{\chapternumberline {5}Averaging using the pdf}{16}{chapter.5}
+\contentsline {section}{\numberline {5.1}Mean/ Expectation of real valued RV}{16}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Subscript notation}{16}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Conditional Expectation}{16}{subsection.5.1.2}
+\contentsline {section}{\numberline {5.2}Expectation: Properties}{16}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Connection to probability measure}{16}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Products of independent RV}{16}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Linearity properties}{17}{subsection.5.2.3}
+\contentsline {subsubsection}{\numberline {5.2.3.1}Linearity in X}{17}{subsubsection.5.2.3.1}
+\contentsline {subsubsection}{\numberline {5.2.3.2}Importance}{17}{subsubsection.5.2.3.2}
+\contentsline {subsubsection}{\numberline {5.2.3.3}Linearity in pdf}{17}{subsubsection.5.2.3.3}
+\contentsline {subsection}{\numberline {5.2.4}Convex function of E[] inequality}{17}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}Expectation: Analysis tricks}{17}{section.5.3}
+\contentsline {section}{\numberline {5.4}Variance from mean}{17}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Concavity in p}{18}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Other properties}{18}{subsection.5.4.2}
+\contentsline {subsubsection}{\numberline {5.4.2.1}Translation invariance}{18}{subsubsection.5.4.2.1}
+\contentsline {section}{\numberline {5.5}Moments of RV X}{18}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}kth moment}{18}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}kth moment about the mean}{18}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Important moments}{18}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.4}Moment generating function}{18}{subsection.5.5.4}
+\contentsline {subsection}{\numberline {5.5.5}Characteristic function of X}{19}{subsection.5.5.5}
+\contentsline {subsection}{\numberline {5.5.6}For Poisson trials}{19}{subsection.5.5.6}
+\contentsline {chapter}{\chapternumberline {6}Random Vector properties}{19}{chapter.6}
+\contentsline {section}{\numberline {6.1}Mean}{19}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Linearity}{19}{subsection.6.1.1}
+\contentsline {section}{\numberline {6.2}Covariance}{19}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Definition}{19}{subsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.1.1}Extension to vectors}{19}{subsubsection.6.2.1.1}
+\contentsline {subsection}{\numberline {6.2.2}Correlation}{19}{subsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.2.1}Correlation vs Independence}{19}{subsubsection.6.2.2.1}
+\contentsline {section}{\numberline {6.3}Covariance matrix}{20}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Effect of linear transformation}{20}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Nonnegative definiteness}{20}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Precision matrix}{20}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Moment generating function}{20}{subsection.6.3.4}
+\contentsline {chapter}{\chapternumberline {7}Random variable sequence}{20}{chapter.7}
+\contentsline {section}{\numberline {7.1}Convergence in distribution to X}{20}{section.7.1}
+\contentsline {section}{\numberline {7.2}Convergence in probability to X}{20}{section.7.2}
+\contentsline {section}{\numberline {7.3}Almost sure convergence}{21}{section.7.3}
+\contentsline {section}{\numberline {7.4}Sure convergence}{21}{section.7.4}
+\contentsline {part}{\partnumberline {III}Inference and comparison of distributions}{21}{part.3}
+\contentsline {chapter}{\chapternumberline {8}Statistics}{21}{chapter.8}
+\contentsline {section}{\numberline {8.1}Estimating a probability with accuracy $\ensuremath {\epsilon }$}{21}{section.8.1}
+\contentsline {chapter}{\chapternumberline {9}Distances between distributions}{21}{chapter.9}
+\contentsline {section}{\numberline {9.1}Total variation distance between distributions}{21}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Largest deviation in event probability}{21}{subsection.9.1.1}
+\contentsline {section}{\numberline {9.2}Code-length divergence}{22}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Nonnegativity}{22}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}Other properties}{22}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.3}Connection with variation distance}{22}{subsection.9.2.3}
+\contentsline {chapter}{\chapternumberline {10}Inferences about distributions of function(RV)}{22}{chapter.10}
+\contentsline {section}{\numberline {10.1}Using $\frac {dg^{-1}(Y)}{dY}$}{22}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Extension to multidimensional distributions}{22}{subsection.10.1.1}
+\contentsline {section}{\numberline {10.2}Using moment generating functions}{23}{section.10.2}
+\contentsline {chapter}{\chapternumberline {11}Bounds on deviation probability}{23}{chapter.11}
+\contentsline {section}{\numberline {11.1}Expectation based deviation bound}{23}{section.11.1}
+\contentsline {section}{\numberline {11.2}Variance based deviation bound}{23}{section.11.2}
+\contentsline {subsection}{\numberline {11.2.1}Use in estimation of mean}{23}{subsection.11.2.1}
+\contentsline {section}{\numberline {11.3}Exponentially small deviation bounds}{23}{section.11.3}
+\contentsline {subsection}{\numberline {11.3.1}General technique}{23}{subsection.11.3.1}
+\contentsline {subsection}{\numberline {11.3.2}For random variable sequences}{23}{subsection.11.3.2}
+\contentsline {subsubsection}{\numberline {11.3.2.1}Pairwise independent RVs}{24}{subsubsection.11.3.2.1}
+\contentsline {subsection}{\numberline {11.3.3}Sum of n-wise independent RVs}{24}{subsection.11.3.3}
+\contentsline {subsubsection}{\numberline {11.3.3.1}Bounds from MGF's.}{24}{subsubsection.11.3.3.1}
+\contentsline {subsubsection}{\numberline {11.3.3.2}Goodness of empirical mean}{24}{subsubsection.11.3.3.2}
+\contentsline {subsubsection}{\numberline {11.3.3.3}Code length divergence bound}{24}{subsubsection.11.3.3.3}
+\contentsline {subsubsection}{\numberline {11.3.3.4}Additive deviation bounds}{24}{subsubsection.11.3.3.4}
+\contentsline {subsection}{\numberline {11.3.4}iid RV: Tightness of the Chernoff bound}{25}{subsection.11.3.4}
+\contentsline {part}{\partnumberline {IV}Probabilistic Analysis Techniques}{25}{part.4}
+\contentsline {chapter}{\chapternumberline {12}Existence proofs}{25}{chapter.12}
+\contentsline {section}{\numberline {12.1}For sparse dependency graphs}{25}{section.12.1}
+\contentsline {section}{\numberline {12.2}Threshold behavior}{25}{section.12.2}
+\contentsline {section}{\numberline {12.3}Explicit constructions}{25}{section.12.3}
+\contentsline {section}{\numberline {12.4}Make Existence proofs}{26}{section.12.4}
+\contentsline {chapter}{\chapternumberline {13}Extremal combinatorics}{26}{chapter.13}
+\contentsline {chapter}{\chapternumberline {14}Analysis strategies}{26}{chapter.14}
+\contentsline {section}{\numberline {14.1}General strategies}{26}{section.14.1}
+\contentsline {section}{\numberline {14.2}Bound probabilities and expectations}{26}{section.14.2}
+\contentsline {subsection}{\numberline {14.2.1}Break up big events into smaller cases}{26}{subsection.14.2.1}
+\contentsline {subsubsection}{\numberline {14.2.1.1}One of many events}{26}{subsubsection.14.2.1.1}
+\contentsline {subsubsection}{\numberline {14.2.1.2}Co-occurring events}{26}{subsubsection.14.2.1.2}
+\contentsline {subsubsection}{\numberline {14.2.1.3}Principle of deferred decisions}{26}{subsubsection.14.2.1.3}
+\contentsline {subsection}{\numberline {14.2.2}Identify independent events}{27}{subsection.14.2.2}
+\contentsline {subsection}{\numberline {14.2.3}Use super-events}{27}{subsection.14.2.3}
+\contentsline {subsection}{\numberline {14.2.4}Use concentration of measure around the mean}{27}{subsection.14.2.4}
+\contentsline {subsubsection}{\numberline {14.2.4.1}Means and variances}{27}{subsubsection.14.2.4.1}
+\contentsline {subsubsection}{\numberline {14.2.4.2}Dealing with lack of independence}{27}{subsubsection.14.2.4.2}
+\contentsline {chapter}{\chapternumberline {15}Results}{27}{chapter.15}
+\contentsline {chapter}{Bibliography}{27}{section*.11}

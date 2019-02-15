@@ -1,0 +1,152 @@
+Metacharacters
+char 	meaning
+\< \>	Matches the beginning (\<) or end (\>) or a word. 
+^ 	beginning of string
+$ 	end of string
+. 	any character except newline
+* 	match 0 or more times
++ 	match 1 or more times
+? 	match 0 or 1 times; or: shortest match
+| 	alternative
+( ) 	grouping; "storing"
+[ ] 	set of characters
+{ } 	repetition modifier
+\ 	quote or special
+
+Repetition
+a*	zero or more a's
+a+	one or more a's
+a?	zero or one a's (i.e., optional a)
+a{m}	exactly m a's
+a{m,}	at least m a's
+a{m,n}	at least m but at most n a's
+repetition? 	same as repetition but the shortest match is taken
+
+Single characters 
+\t 	tab
+\n 	newline
+\r 	return (CR)
+\xhh 	character with hex. code hh
+
+"Zero-width assertions" 
+\b 	"word" boundary
+\B 	not a "word" boundary
+
+Matching 
+\w 	matches any single character classified as a "word" character (alphanumeric or _)
+\W 	matches any non-"word" character
+\s 	matches any whitespace character (space, tab, newline)
+\S 	matches any non-whitespace character
+\d 	matches any digit character, equiv. to [0-9]
+\D 	matches any non-digit character
+
+Character sets: specialities inside [...]
+
+Different meanings apply inside a character set ("character class") denoted by [...] so that, instead of the normal rules given here, the following apply:
+[characters] 	matches any of the characters in the sequence
+[x-y] 	matches any of the characters from x to y (inclusively) in the ASCII code
+[\-]	matches the hyphen character -
+[\n]	matches the newline; other single character denotations with \ apply normally, too
+[^something] 	matches any character except those that [something]
+
+Examples
+expression 	matches...
+abc 	abc (that exact character sequence, but anywhere in the string)
+^abc 	abc at the beginning of the string
+abc$ 	abc at the end of the string
+a|b 	either of a and b
+^abc|abc$ 	the string abc at the beginning or at the end of the string
+ab{2,4}c 	an a followed by two, three or four b's followed by a c
+ab{2,}c 	an a followed by at least two b's followed by a c
+ab*c 	an a followed by any number (zero or more) of b's followed by a c
+ab+c 	an a followed by one or more b's followed by a c
+ab?c 	an a followed by an optional b followed by a c; that is, either abc or ac
+a.c 	an a followed by any single character (not newline) followed by a c
+a\.c 	a.c exactly
+[abc] 	any one of a, b and c
+[Aa]bc 	either of Abc and abc
+[abc]+ 	any (nonempty) string of a's, b's and c's (such as a, abba, acbabcacaa)
+[^abc]+ 	any (nonempty) string which does not contain any of a, b and c (such as defg)
+\d\d 	any two decimal digits, such as 42; same as \d{2}
+\w+ 	a "word": a nonempty sequence of alphanumeric characters and low lines (underscores), such as foo and 12bar8 and foo_1
+100\s*mk 	the strings 100 and mk optionally separated by any amount of white space (spaces, tabs, newlines)
+abc\b 	abc when followed by a word boundary (e.g. in abc! but not in abcd)
+perl\B 	perl when not followed by a word boundary (e.g. in perlert but not in perl stuff)
+
+Simple usage examples in Perl statements
+s/foo/bar/;
+replaces the first occurrence of the exact character sequence foo in the "current string" (in special variable $_) by the character sequence bar; for example, foolish bigfoot would become barlish bigfoot 
+
+[from http://www.cs.tut.fi/~jkorpela/perl/regexp.html]
+
+
+vi command 	What it does
+	
+:%s/ */ /g 	Change 1 or more spaces into a single space.
+:%s/ *$// 	Remove all spaces from the end of the line.
+:%s/^/ / 	Insert a space at the beginning of every line.
+:%s/^[0-9][0-9]* // 	Remove all numbers at the beginning of a line.
+:%s/b[aeio]g/bug/g 	Change all occurences of bag, beg, big, and bog, to
+bug. 
+:%s/t\([aou]\)g/h\1t/g 	Change all occurences of tag, tog, and tug to hat,
+hot, and hug respectively. 
+	
+grep command 	  	Description
+		
+grep '\t5-...1' phone.txt 		print all the lines in phone.txt where
+the phone number begins with 5 and ends with 1. Note that the tab character is
+represented by \t.
+grep '^S[^ ]* R' phone.txt 		print lines where the last name begins
+with S and first name begins with R.
+grep '^[JW]' phone.txt 		print lines where the last name begins with J
+or W
+grep ', ....\t' phone.txt 		print lines where the first name is 4
+characters. The tab character is represented by \t.
+grep -v '^[JW]' phone.txt 		print lines that do not begin with J
+or W
+grep '^[M-Z]' phone.txt 		print lines where the last name begins
+with any letter from M to Z.
+grep '^[M-Z].*[12]' phone.txt 		print lines where the last name begins
+with a letter from M to Z and where the phone number ends with a 1 or 2.
+
+env	. 	[ ] 	^ 	$ 	\( \) 	\{ \} 	? 	+ 	| 	( )
+
+vi 	 X  	 X  	 X  	 X  	 X  					
+Visual C++ 	 X  	 X  	 X  	 X  	 X  					
+awk 	 X  	 X  	 X  	 X  			 X  	 X  	 X	X 
+sed 	 X  	 X  	 X  	 X  	 X  	 X  				
+Tcl 	 X  	 X  	 X  	 X  	 X  		 X  	 X  	 X	X 
+ex 	 X  	 X  	 X  	 X  	 X  	 X  				
+grep 	 X  	 X  	 X  	 X  	 X  	 X  				
+egrep 	 X  	 X 	 X  	 X  	 X  		 X  	 X  	 X	X 
+fgrep 	 X  	 X  	 X  	 X  	 X  					
+perl 	X 	X 	X 	X 	X 		X 	X 	X	X
+
+(from http://sitescooper.org/tao_regexps.html)
+
+
+------------
+vim regexp examples:
+1,$s/#ifdef.*//
+1,$s/#endif.*//
+1,$s/#define \(\w\+\)\s\+\(\w\+\)/public static final int \1=\2;/
+1,$s/^#define \(\w\+\)\s\+\(.*\)/public static final int \1=\2;/
+1,$s/}.*/}/
+1,$s/TSUINT32/int/
+1,$s/TSUINT16/short/
+1,$s/TSUINT8/byte/
+1,$s/TSBOOL16/short/
+1,$s/typedef struct tag/\tstatic class /
+1,$s/^public static final int /\tpublic static final int /
+1,$s/^ \+/\t/
+1,$s/\(short\)\s\+\([\[\]_a-zA-Z0-9]\+\);/CapabilitySetFieldDefinition \2=new CapabilitySetFieldDefinition(\1\.class);/
+1,$s/\(int\)\s\+\([\[\]_a-zA-Z0-9]\+\);/CapabilitySetFieldDefinition \2=new CapabilitySetFieldDefinition(\1\.class);/
+1,$s/\(byte\)\s\+\([\[\]_a-zA-Z0-9]\+\);/CapabilitySetFieldDefinition \2=new CapabilitySetFieldDefinition(\1\.class);/
+1,$s/\tCapabilitySetFieldDefinition /\tpublic static final CapabilitySetFieldDefinition /
+1,43s/\tTS/\tpublic static final int /
+1,43s/,/;/
+1,$s/:/=/
+1,$s/\(short\)\s\+\([\[\]a-zA-Z1-9]\+\)\s\+=\s\+\([a-zA-Z0-9]\);/CapabilitySetFieldDefinition \2=new CapabilitySetFieldDefinition(\1\.class,new Short((short)\3));/
+1,$s/\tclass/\tstatic class/
+1,$s/public static final CapabilitySetFieldDefinition \([^=]*\)=new CapabilitySetFieldDefinition(\(.*\)/public static final CapabilitySetFieldDefinition \1=new CapabilitySetFieldDefinition(".\1",\2
+

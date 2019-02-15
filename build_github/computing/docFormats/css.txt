@@ -1,0 +1,128 @@
+CSS Cheat Sheet
+By:  	Abdul Habra
+Version:  	0.11
+Date:  	September 23, 2002
+1. Introduction
+
+This is a cheat sheet for creating Cascading Style Sheets (CSS) files.
+2. Usage
+
+Reference myStyle.css from an HTML file:
+
+    <link rel="stylesheet" type="text/css" href="myStyle.css">
+
+    Put this element in the <head> section of your HTML file. The only thing that you will change is the value of the href attribute to match your CSS file name.
+
+Define an inline style to make the current P with blue foreground:
+
+    <p style="color:blue">This is a blue paragraph</p>
+
+Make H1 with blue foreground:
+
+    h1 {color:blue}
+
+Make H1 with yellow foreground and black background
+
+    h1 {color: yellow; background-color: black}
+
+Make H2, H3, and B with green foreground:
+
+    h2,h3,b {color:green}
+
+Make P bold and red:
+
+    p {color:red; font-weight:bold}
+
+Make B that occurs within a P blue:
+
+    p b {color:blue}
+
+Make two P classes, one with black font and one with red font:
+
+    p.normal {color: black}
+    p.error { color: red}
+
+    To use in HTML:
+
+    <p class="normal">this is a normal paragraph</p>
+    <p class="error">this is an error paragraph</p>
+
+Make a class with red and bold font, without attaching to a specific element
+
+    .error1 { color:red; font-weight:bold }
+
+    To use in HTML:
+
+    <div class="error1">hello</div>
+
+Make a class with red, bold, and large font, without attaching to a specific element
+
+    .error2 { color:red; font-weight:bold; font-size:large }
+
+    To use in HTML:
+
+    <p class="error2">This uses error</p>
+
+3. Interesting Properties
+
+font-size:
+
+ xx-small , x-small , small , medium , large , x-large , xx-large
+ larger , smaller
+ 10px , 20pt , 0.5in
+
+font-style:
+
+ normal , italic , oblique
+
+font-weight:
+
+ normal , bold , bolder , lighter
+
+font-family:
+
+Example:
+
+ font-family: Arial, Helvetica, sans-serif
+
+  Means: Use Arial, if not available use Helvetica, if not available use sans-serif.
+
+text-decoration: Draw a line with text.
+
+ underline , overline , line-through
+
+text-align:
+
+ left , right , center , justify
+
+4. Properties List
+
+The following is a list of CSS1 properties:
+background, background-attachment, background-color, background-image, background-position, background-repeat
+border, border-bottom, border-bottom-width, border-color, border-left, border-left-width, border-right, border-right-width, border-style, border-top, border-top-width, border-width
+clear
+color
+display
+float
+font, font-family, font-size, font-style, font-variant, font-weight
+height
+letter-spacing
+line-height
+list-style-image, list-style-position, list-style-type
+margin, margin-bottom, margin-left, margin-right, margin-top
+padding, padding-bottom, padding-left, padding-right, padding-top
+text-align, text-decoration, text-indent, text-transform
+white-space
+width
+word-spacing
+
+The following are some CSS2 properties:
+
+bottom, left, position, right, top, visibility, width, z-index.
+
+5. References
+
+1. CSS1 Recommendation: www.w3.org/TR/REC-CSS1
+
+2. CSS2 Specification: www.w3.org/TR/REC-CSS2/
+

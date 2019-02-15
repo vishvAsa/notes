@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{leskovecThesis}
+Jure Leskovec.
+\newblock {\em Dynamics of large networks}.
+\newblock PhD thesis, CMU, 200?
+
+\bibitem{dln:link-prediction}
+David Liben-Nowell and Jon Kleinberg.
+\newblock The link-prediction problem for social networks.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 58(7):1019--1031, May 2007.
+
+\bibitem{zhelevaSocialAffiliationNw}
+Elena Zheleva, Hossam Sharara, and Lise Getoor.
+\newblock Co-evolution of social and affiliation networks.
+\newblock pages 1007--1016, 2009.
+
+\end{thebibliography}

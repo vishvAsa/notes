@@ -1,0 +1,306 @@
+\contentsline {chapter}{Contents}{1}{section*.1}
+\contentsline {part}{\partnumberline {I}Introduction}{8}{part.1}
+\contentsline {chapter}{\chapternumberline {1}Themes}{8}{chapter.1}
+\contentsline {section}{\numberline {1.1}References}{8}{section.1.1}
+\contentsline {section}{\numberline {1.2}Themes}{8}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Related surveys}{9}{subsection.1.2.1}
+\contentsline {section}{\numberline {1.3}Characterization of research effort}{9}{section.1.3}
+\contentsline {chapter}{\chapternumberline {2}Notation}{9}{chapter.2}
+\contentsline {part}{\partnumberline {II}Vectors and vector spaces}{9}{part.2}
+\contentsline {chapter}{\chapternumberline {3}Vectors and their combinations}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Definition, basic operations}{9}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Addition, scalar multiplication}{9}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Geometric model: coefficient sequence}{9}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}As a combination of standard basis vectors}{9}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Standard basis models what?}{10}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Equivalent representations of the same point}{10}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Combinations of vectors}{10}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Linear combination}{10}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Conic/ non-ve combination}{10}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Affine combination}{10}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Convex combination}{10}{subsection.3.3.4}
+\contentsline {chapter}{\chapternumberline {4}Interpretations, applications}{10}{chapter.4}
+\contentsline {section}{\numberline {4.1}Modelling the real world}{10}{section.4.1}
+\contentsline {section}{\numberline {4.2}Functions as vectors}{11}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Using coefficients}{11}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Using the domain}{11}{subsection.4.2.2}
+\contentsline {chapter}{\chapternumberline {5}Vector sets}{11}{chapter.5}
+\contentsline {section}{\numberline {5.1}Properties}{11}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Linear independence}{11}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Associated hyperplanes}{11}{subsection.5.1.2}
+\contentsline {section}{\numberline {5.2}Span of vectors in S}{11}{section.5.2}
+\contentsline {section}{\numberline {5.3}Affine set X}{11}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Affine hull of S}{11}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.4}Convex cone C}{12}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Pointed cone C}{12}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Proper cone C}{12}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Norm cones}{12}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}Dual $C^{*}$ of cone C}{12}{subsection.5.4.4}
+\contentsline {chapter}{\chapternumberline {6}Convex set}{13}{chapter.6}
+\contentsline {section}{\numberline {6.1}Containment of convex combinations}{13}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Containment of line-segments}{13}{subsection.6.1.1}
+\contentsline {section}{\numberline {6.2}Properties}{13}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Extreme points of convex set S}{13}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Separating hyperplane}{13}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Supporting hyperplane}{13}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Intersection of supporting half-spaces}{13}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}As domain of special barrier functionals}{13}{subsection.6.2.5}
+\contentsline {section}{\numberline {6.3}Convex hull of a set of points X in a real vector space V}{14}{section.6.3}
+\contentsline {section}{\numberline {6.4}Check convexity}{14}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Functions which preserve convexity in image, inverse image}{14}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Convexity preserving operations}{14}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Important convex sets}{14}{subsection.6.4.3}
+\contentsline {chapter}{\chapternumberline {7}Vector spaces and subtypes}{14}{chapter.7}
+\contentsline {section}{\numberline {7.1}Vector space V over field F}{14}{section.7.1}
+\contentsline {section}{\numberline {7.2}Inner product space}{14}{section.7.2}
+\contentsline {section}{\numberline {7.3}Normed vector space}{15}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Lebesgue space}{15}{subsection.7.3.1}
+\contentsline {section}{\numberline {7.4}Banach space}{15}{section.7.4}
+\contentsline {section}{\numberline {7.5}Hilbert space}{15}{section.7.5}
+\contentsline {chapter}{\chapternumberline {8}Common vector spaces}{15}{chapter.8}
+\contentsline {section}{\numberline {8.1}Complex vector space}{15}{section.8.1}
+\contentsline {section}{\numberline {8.2}Functional space V}{15}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}f() as dom(f) dim vector}{15}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Standard basis functionals}{15}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}Restriction to finite length}{16}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.4}Other representations}{16}{subsection.8.2.4}
+\contentsline {section}{\numberline {8.3}Euclidian space}{16}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Geometric properties}{16}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Box measure}{16}{subsection.8.3.2}
+\contentsline {subsubsection}{\numberline {8.3.2.1}Definition}{16}{subsubsection.8.3.2.1}
+\contentsline {subsubsection}{\numberline {8.3.2.2}Properties}{16}{subsubsection.8.3.2.2}
+\contentsline {section}{\numberline {8.4}Dual vector space $V^{*}$}{16}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}Basis: $\ensuremath {\left \{ e^{i} \right \}}$}{17}{subsection.8.4.1}
+\contentsline {chapter}{\chapternumberline {9}Topological properties of space V}{17}{chapter.9}
+\contentsline {section}{\numberline {9.1}Properties of $R^{n}, C^{n}$}{17}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Completeness of $R^{n}, C^{n}$}{17}{subsection.9.1.1}
+\contentsline {section}{\numberline {9.2}Dimension of V}{17}{section.9.2}
+\contentsline {section}{\numberline {9.3}Basis of vector space V}{17}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}Orthonormal and standard basis}{17}{subsection.9.3.1}
+\contentsline {section}{\numberline {9.4}Subspaces}{17}{section.9.4}
+\contentsline {subsection}{\numberline {9.4.1}Membership conditions}{18}{subsection.9.4.1}
+\contentsline {subsection}{\numberline {9.4.2}Invariant subspace}{18}{subsection.9.4.2}
+\contentsline {chapter}{\chapternumberline {10}Inner products, norms}{18}{chapter.10}
+\contentsline {section}{\numberline {10.1}Inner products}{18}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Properties}{18}{subsection.10.1.1}
+\contentsline {subsubsection}{\numberline {10.1.1.1}Orthogonality}{18}{subsubsection.10.1.1.1}
+\contentsline {subsubsection}{\numberline {10.1.1.2}Associated norm}{18}{subsubsection.10.1.1.2}
+\contentsline {subsubsection}{\numberline {10.1.1.3}2-norm Bound on size}{18}{subsubsection.10.1.1.3}
+\contentsline {subsubsection}{\numberline {10.1.1.4}General norm-bound on size}{18}{subsubsection.10.1.1.4}
+\contentsline {subsection}{\numberline {10.1.2}Standard inner product}{19}{subsection.10.1.2}
+\contentsline {subsubsection}{\numberline {10.1.2.1}Geometric interpretation}{19}{subsubsection.10.1.2.1}
+\contentsline {subsection}{\numberline {10.1.3}In function spaces}{19}{subsection.10.1.3}
+\contentsline {subsection}{\numberline {10.1.4}Orthogonality}{19}{subsection.10.1.4}
+\contentsline {subsection}{\numberline {10.1.5}Weighted Inner product}{19}{subsection.10.1.5}
+\contentsline {subsection}{\numberline {10.1.6}Specify inner product using Gram matrix G}{19}{subsection.10.1.6}
+\contentsline {section}{\numberline {10.2}Norms}{20}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Semi-norm properties}{20}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2}Norm: Defining properties}{20}{subsection.10.2.2}
+\contentsline {subsection}{\numberline {10.2.3}Variants}{20}{subsection.10.2.3}
+\contentsline {subsubsection}{\numberline {10.2.3.1}Absolute norms}{20}{subsubsection.10.2.3.1}
+\contentsline {subsection}{\numberline {10.2.4}Dual norm of pre-norm f}{20}{subsection.10.2.4}
+\contentsline {subsubsection}{\numberline {10.2.4.1}Normness proof}{21}{subsubsection.10.2.4.1}
+\contentsline {subsubsection}{\numberline {10.2.4.2}Geometric view}{21}{subsubsection.10.2.4.2}
+\contentsline {subsubsection}{\numberline {10.2.4.3}Importance}{21}{subsubsection.10.2.4.3}
+\contentsline {subsubsection}{\numberline {10.2.4.4}Common dual norms}{21}{subsubsection.10.2.4.4}
+\contentsline {subsection}{\numberline {10.2.5}Properties}{21}{subsection.10.2.5}
+\contentsline {subsubsection}{\numberline {10.2.5.1}New norms out of old}{21}{subsubsection.10.2.5.1}
+\contentsline {subsubsection}{\numberline {10.2.5.2}Convexity of the norm function}{21}{subsubsection.10.2.5.2}
+\contentsline {subsubsection}{\numberline {10.2.5.3}The closed unit ball}{21}{subsubsection.10.2.5.3}
+\contentsline {subsubsection}{\numberline {10.2.5.4}Isometry for a norm}{21}{subsubsection.10.2.5.4}
+\contentsline {subsubsection}{\numberline {10.2.5.5}Equivalence of norms in finite dimension}{22}{subsubsection.10.2.5.5}
+\contentsline {subsection}{\numberline {10.2.6}p norm for p atleast 1}{22}{subsection.10.2.6}
+\contentsline {subsubsection}{\numberline {10.2.6.1}Normness proof}{22}{subsubsection.10.2.6.1}
+\contentsline {subsubsection}{\numberline {10.2.6.2}The closed unit ball}{22}{subsubsection.10.2.6.2}
+\contentsline {subsubsection}{\numberline {10.2.6.3}2 norm}{22}{subsubsection.10.2.6.3}
+\contentsline {subsubsection}{\numberline {10.2.6.4}1, infty norms}{22}{subsubsection.10.2.6.4}
+\contentsline {subsection}{\numberline {10.2.7}Lp norms in function spaces Wrt measure p}{22}{subsection.10.2.7}
+\contentsline {subsection}{\numberline {10.2.8}$p \in (0,1)$ non-norms}{23}{subsection.10.2.8}
+\contentsline {subsubsection}{\numberline {10.2.8.1}Zero (not a) norm}{23}{subsubsection.10.2.8.1}
+\contentsline {subsection}{\numberline {10.2.9}Weighted p norm}{23}{subsection.10.2.9}
+\contentsline {subsection}{\numberline {10.2.10}Non-norm from convex function f}{23}{subsection.10.2.10}
+\contentsline {part}{\partnumberline {III}Vector functionals}{23}{part.3}
+\contentsline {chapter}{\chapternumberline {11}Functionals and scalar functions over vector spaces}{23}{chapter.11}
+\contentsline {section}{\numberline {11.1}Introduction}{23}{section.11.1}
+\contentsline {subsection}{\numberline {11.1.1}Definition}{23}{subsection.11.1.1}
+\contentsline {subsection}{\numberline {11.1.2}Restriction to a line}{24}{subsection.11.1.2}
+\contentsline {subsubsection}{\numberline {11.1.2.1}Importance}{24}{subsubsection.11.1.2.1}
+\contentsline {section}{\numberline {11.2}Properties}{24}{section.11.2}
+\contentsline {subsection}{\numberline {11.2.1}Superclasses}{24}{subsection.11.2.1}
+\contentsline {subsection}{\numberline {11.2.2}Conjugate of f}{24}{subsection.11.2.2}
+\contentsline {subsection}{\numberline {11.2.3}Algebraic properties}{24}{subsection.11.2.3}
+\contentsline {subsubsection}{\numberline {11.2.3.1}Minimax vs maximin}{24}{subsubsection.11.2.3.1}
+\contentsline {subsubsection}{\numberline {11.2.3.2}Homogeneity with degree a}{24}{subsubsection.11.2.3.2}
+\contentsline {subsection}{\numberline {11.2.4}Domain: Important domains}{24}{subsection.11.2.4}
+\contentsline {subsubsection}{\numberline {11.2.4.1}Sub-level set}{24}{subsubsection.11.2.4.1}
+\contentsline {subsubsection}{\numberline {11.2.4.2}Stationary point}{25}{subsubsection.11.2.4.2}
+\contentsline {subsubsection}{\numberline {11.2.4.3}Critical points}{25}{subsubsection.11.2.4.3}
+\contentsline {subsubsection}{\numberline {11.2.4.4}Equivalence}{25}{subsubsection.11.2.4.4}
+\contentsline {subsubsection}{\numberline {11.2.4.5}Associated sets: Epigraph and subgraph}{25}{subsubsection.11.2.4.5}
+\contentsline {section}{\numberline {11.3}Topological properties of functionals}{25}{section.11.3}
+\contentsline {subsection}{\numberline {11.3.1}Visualization}{25}{subsection.11.3.1}
+\contentsline {subsubsection}{\numberline {11.3.1.1}Plot in d+1 dim}{25}{subsubsection.11.3.1.1}
+\contentsline {paragraph}{Tangent hyperplanes to epigraph}{25}{section*.19}
+\contentsline {subsubsection}{\numberline {11.3.1.2}Contour surfaces in d dim}{25}{subsubsection.11.3.1.2}
+\contentsline {subsection}{\numberline {11.3.2}Bounding steepness}{26}{subsection.11.3.2}
+\contentsline {subsection}{\numberline {11.3.3}Measure flexibility}{26}{subsection.11.3.3}
+\contentsline {section}{\numberline {11.4}Sequences, series of functionals on metric space X}{26}{section.11.4}
+\contentsline {subsection}{\numberline {11.4.1}(Weierstrass) M test}{26}{subsection.11.4.1}
+\contentsline {subsection}{\numberline {11.4.2}Space C(X) of continuous bounded complex valued fns on X}{26}{subsection.11.4.2}
+\contentsline {subsection}{\numberline {11.4.3}f as limit of uniformly convergent sequence of polynomials}{26}{subsection.11.4.3}
+\contentsline {chapter}{\chapternumberline {12}Differential function}{27}{chapter.12}
+\contentsline {section}{\numberline {12.1}Definition}{27}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}Fixed direction differential fn}{27}{subsection.12.1.1}
+\contentsline {subsubsection}{\numberline {12.1.1.1}Affine approximation view}{27}{subsubsection.12.1.1.1}
+\contentsline {subsubsection}{\numberline {12.1.1.2}R to R case}{27}{subsubsection.12.1.1.2}
+\contentsline {subsection}{\numberline {12.1.2}Directional differentiability}{27}{subsection.12.1.2}
+\contentsline {subsection}{\numberline {12.1.3}Continuous differentiability}{27}{subsection.12.1.3}
+\contentsline {subsubsection}{\numberline {12.1.3.1}Connection to directional differentiability}{28}{subsubsection.12.1.3.1}
+\contentsline {subsection}{\numberline {12.1.4}Matrix functionals}{28}{subsection.12.1.4}
+\contentsline {section}{\numberline {12.2}Linearity}{28}{section.12.2}
+\contentsline {section}{\numberline {12.3}Connection to partial derivatives}{28}{section.12.3}
+\contentsline {subsection}{\numberline {12.3.1}Notation}{28}{subsection.12.3.1}
+\contentsline {subsubsection}{\numberline {12.3.1.1}Note about representation}{28}{subsubsection.12.3.1.1}
+\contentsline {subsection}{\numberline {12.3.2}D(f) as a Vector field}{28}{subsection.12.3.2}
+\contentsline {subsection}{\numberline {12.3.3}C1 smoothness}{28}{subsection.12.3.3}
+\contentsline {subsubsection}{\numberline {12.3.3.1}Differentiability vs smoothness}{29}{subsubsection.12.3.3.1}
+\contentsline {subsection}{\numberline {12.3.4}In contour graph}{29}{subsection.12.3.4}
+\contentsline {subsection}{\numberline {12.3.5}In the plot}{29}{subsection.12.3.5}
+\contentsline {section}{\numberline {12.4}Subgradients at convex points}{29}{section.12.4}
+\contentsline {section}{\numberline {12.5}Differential operator}{29}{section.12.5}
+\contentsline {subsection}{\numberline {12.5.1}Derivatives of important functionals}{29}{subsection.12.5.1}
+\contentsline {subsubsection}{\numberline {12.5.1.1}Linear functionals}{29}{subsubsection.12.5.1.1}
+\contentsline {subsubsection}{\numberline {12.5.1.2}Quadratic functionals}{30}{subsubsection.12.5.1.2}
+\contentsline {section}{\numberline {12.6}Higher order differential functions}{30}{section.12.6}
+\contentsline {subsection}{\numberline {12.6.1}Definition}{30}{subsection.12.6.1}
+\contentsline {subsubsection}{\numberline {12.6.1.1}Linear map from V}{30}{subsubsection.12.6.1.1}
+\contentsline {subsubsection}{\numberline {12.6.1.2}Directional higher order differential fn}{30}{subsubsection.12.6.1.2}
+\contentsline {subsubsection}{\numberline {12.6.1.3}Multi-Linear map from $V^k$}{30}{subsubsection.12.6.1.3}
+\contentsline {subsection}{\numberline {12.6.2}Properties}{30}{subsection.12.6.2}
+\contentsline {subsubsection}{\numberline {12.6.2.1}Symmetry}{30}{subsubsection.12.6.2.1}
+\contentsline {subsubsection}{\numberline {12.6.2.2}Wrt basis vectors}{31}{subsubsection.12.6.2.2}
+\contentsline {subsection}{\numberline {12.6.3}Tensor representation}{31}{subsection.12.6.3}
+\contentsline {subsubsection}{\numberline {12.6.3.1}2nd order case}{31}{subsubsection.12.6.3.1}
+\contentsline {section}{\numberline {12.7}Polynomial approximation}{31}{section.12.7}
+\contentsline {subsection}{\numberline {12.7.1}Polynomial approximation series}{31}{subsection.12.7.1}
+\contentsline {subsubsection}{\numberline {12.7.1.1}Multi-index notation}{31}{subsubsection.12.7.1.1}
+\contentsline {subsection}{\numberline {12.7.2}Connection with extreme values}{31}{subsection.12.7.2}
+\contentsline {chapter}{\chapternumberline {13}Convexity and functionals}{31}{chapter.13}
+\contentsline {section}{\numberline {13.1}Convex functional f}{31}{section.13.1}
+\contentsline {subsection}{\numberline {13.1.1}Domain, definitions}{32}{subsection.13.1.1}
+\contentsline {subsubsection}{\numberline {13.1.1.1}Smoothness along line segment in the domain}{32}{subsubsection.13.1.1.1}
+\contentsline {subsubsection}{\numberline {13.1.1.2}Extension of domain}{32}{subsubsection.13.1.1.2}
+\contentsline {subsection}{\numberline {13.1.2}Strict and strong convexity}{32}{subsection.13.1.2}
+\contentsline {subsubsection}{\numberline {13.1.2.1}Strict convexity}{32}{subsubsection.13.1.2.1}
+\contentsline {subsubsection}{\numberline {13.1.2.2}Strong convexity with constant m}{32}{subsubsection.13.1.2.2}
+\contentsline {subsection}{\numberline {13.1.3}f restricted to a line}{32}{subsection.13.1.3}
+\contentsline {subsection}{\numberline {13.1.4}Gradient tests}{32}{subsection.13.1.4}
+\contentsline {subsubsection}{\numberline {13.1.4.1}First order condition}{32}{subsubsection.13.1.4.1}
+\contentsline {subsubsection}{\numberline {13.1.4.2}First order condition for non-smooth f}{33}{subsubsection.13.1.4.2}
+\contentsline {subsubsection}{\numberline {13.1.4.3}Second order condition}{33}{subsubsection.13.1.4.3}
+\contentsline {subsection}{\numberline {13.1.5}Supporting hyperplane to the epigraph}{33}{subsection.13.1.5}
+\contentsline {subsubsection}{\numberline {13.1.5.1}Differntiable f}{33}{subsubsection.13.1.5.1}
+\contentsline {subsubsection}{\numberline {13.1.5.2}Non differentiable convex f: subdifferentials!}{33}{subsubsection.13.1.5.2}
+\contentsline {subsection}{\numberline {13.1.6}Supporting hyperplanes to sublevel sets}{33}{subsection.13.1.6}
+\contentsline {subsection}{\numberline {13.1.7}Finding Subdifferentials}{34}{subsection.13.1.7}
+\contentsline {subsubsection}{\numberline {13.1.7.1}Unlike finding gradients}{34}{subsubsection.13.1.7.1}
+\contentsline {subsubsection}{\numberline {13.1.7.2}Of non-negative linear combo}{34}{subsubsection.13.1.7.2}
+\contentsline {subsubsection}{\numberline {13.1.7.3}Of f(Ax + b)}{34}{subsubsection.13.1.7.3}
+\contentsline {subsubsection}{\numberline {13.1.7.4}Of max of functionals}{34}{subsubsection.13.1.7.4}
+\contentsline {subsubsection}{\numberline {13.1.7.5}Subdifferentials of norms}{34}{subsubsection.13.1.7.5}
+\contentsline {subsection}{\numberline {13.1.8}Operations which preserve convexity}{35}{subsection.13.1.8}
+\contentsline {subsubsection}{\numberline {13.1.8.1}Sum, max}{35}{subsubsection.13.1.8.1}
+\contentsline {subsubsection}{\numberline {13.1.8.2}Minimization over some dimensions}{35}{subsubsection.13.1.8.2}
+\contentsline {subsubsection}{\numberline {13.1.8.3}Composition with affine transform}{35}{subsubsection.13.1.8.3}
+\contentsline {subsubsection}{\numberline {13.1.8.4}Other compositions}{35}{subsubsection.13.1.8.4}
+\contentsline {subsubsection}{\numberline {13.1.8.5}Transformations}{35}{subsubsection.13.1.8.5}
+\contentsline {subsection}{\numberline {13.1.9}Important instances}{35}{subsection.13.1.9}
+\contentsline {subsubsection}{\numberline {13.1.9.1}In R}{35}{subsubsection.13.1.9.1}
+\contentsline {subsubsection}{\numberline {13.1.9.2}Matrix functionals}{35}{subsubsection.13.1.9.2}
+\contentsline {subsubsection}{\numberline {13.1.9.3}Log sum exponents}{36}{subsubsection.13.1.9.3}
+\contentsline {subsubsection}{\numberline {13.1.9.4}Other examples}{36}{subsubsection.13.1.9.4}
+\contentsline {subsubsection}{\numberline {13.1.9.5}Convex quadratic functionals}{36}{subsubsection.13.1.9.5}
+\contentsline {section}{\numberline {13.2}Other Functional-classes defined using convexity}{36}{section.13.2}
+\contentsline {subsection}{\numberline {13.2.1}Concave functionals}{36}{subsection.13.2.1}
+\contentsline {subsection}{\numberline {13.2.2}Linear functionals}{36}{subsection.13.2.2}
+\contentsline {subsection}{\numberline {13.2.3}Quasi-convex functionals}{36}{subsection.13.2.3}
+\contentsline {subsubsection}{\numberline {13.2.3.1}Convex sublevel sets}{36}{subsubsection.13.2.3.1}
+\contentsline {subsubsection}{\numberline {13.2.3.2}Smoothness along line segment in the domain}{37}{subsubsection.13.2.3.2}
+\contentsline {subsubsection}{\numberline {13.2.3.3}First order condition}{37}{subsubsection.13.2.3.3}
+\contentsline {subsubsection}{\numberline {13.2.3.4}Importance}{37}{subsubsection.13.2.3.4}
+\contentsline {subsection}{\numberline {13.2.4}Log concave functional f}{37}{subsection.13.2.4}
+\contentsline {subsubsection}{\numberline {13.2.4.1}Importance}{37}{subsubsection.13.2.4.1}
+\contentsline {subsubsection}{\numberline {13.2.4.2}Properties}{37}{subsubsection.13.2.4.2}
+\contentsline {chapter}{\chapternumberline {14}Homogenous forms}{37}{chapter.14}
+\contentsline {section}{\numberline {14.1}As Polynomials}{37}{section.14.1}
+\contentsline {subsection}{\numberline {14.1.1}Importance}{37}{subsection.14.1.1}
+\contentsline {section}{\numberline {14.2}Quadratic form}{38}{section.14.2}
+\contentsline {subsection}{\numberline {14.2.1}Representation}{38}{subsection.14.2.1}
+\contentsline {subsection}{\numberline {14.2.2}Symmetrification}{38}{subsection.14.2.2}
+\contentsline {subsection}{\numberline {14.2.3}Connection to triple matrix product}{38}{subsection.14.2.3}
+\contentsline {section}{\numberline {14.3}Generalizations}{38}{section.14.3}
+\contentsline {subsection}{\numberline {14.3.1}Monomial}{38}{subsection.14.3.1}
+\contentsline {subsection}{\numberline {14.3.2}Posynomial}{38}{subsection.14.3.2}
+\contentsline {chapter}{\chapternumberline {15}Other Important functional classes}{38}{chapter.15}
+\contentsline {section}{\numberline {15.1}Important functionals}{38}{section.15.1}
+\contentsline {subsection}{\numberline {15.1.1}Radial basis functionals}{38}{subsection.15.1.1}
+\contentsline {subsection}{\numberline {15.1.2}Barrier functional}{38}{subsection.15.1.2}
+\contentsline {section}{\numberline {15.2}Kernel function k}{38}{section.15.2}
+\contentsline {subsection}{\numberline {15.2.1}Importance}{39}{subsection.15.2.1}
+\contentsline {subsection}{\numberline {15.2.2}Kernel fn}{39}{subsection.15.2.2}
+\contentsline {subsubsection}{\numberline {15.2.2.1}Association with kernels of integral transforms}{39}{subsubsection.15.2.2.1}
+\contentsline {subsection}{\numberline {15.2.3}Kernel properties}{39}{subsection.15.2.3}
+\contentsline {subsection}{\numberline {15.2.4}Some kernels}{39}{subsection.15.2.4}
+\contentsline {subsubsection}{\numberline {15.2.4.1}Gaussian kernel}{39}{subsubsection.15.2.4.1}
+\contentsline {section}{\numberline {15.3}Self concordance}{39}{section.15.3}
+\contentsline {subsection}{\numberline {15.3.1}Definition}{39}{subsection.15.3.1}
+\contentsline {subsubsection}{\numberline {15.3.1.1}R to R functions}{39}{subsubsection.15.3.1.1}
+\contentsline {subsubsection}{\numberline {15.3.1.2}Functionals: restriction to a line}{39}{subsubsection.15.3.1.2}
+\contentsline {subsection}{\numberline {15.3.2}Examples in R}{40}{subsection.15.3.2}
+\contentsline {subsection}{\numberline {15.3.3}Invariance to operations}{40}{subsection.15.3.3}
+\contentsline {subsection}{\numberline {15.3.4}Importance}{40}{subsection.15.3.4}
+\contentsline {part}{\partnumberline {IV}Vector functions and relations}{40}{part.4}
+\contentsline {chapter}{\chapternumberline {16}Vector-valued functions}{40}{chapter.16}
+\contentsline {section}{\numberline {16.1}Functions across vector spaces}{40}{section.16.1}
+\contentsline {subsection}{\numberline {16.1.1}Functional sequence view}{40}{subsection.16.1.1}
+\contentsline {section}{\numberline {16.2}Properties}{40}{section.16.2}
+\contentsline {subsection}{\numberline {16.2.1}Topological properties}{40}{subsection.16.2.1}
+\contentsline {subsection}{\numberline {16.2.2}Linearity}{41}{subsection.16.2.2}
+\contentsline {subsubsection}{\numberline {16.2.2.1}Bilinearity}{41}{subsubsection.16.2.2.1}
+\contentsline {subsection}{\numberline {16.2.3}Generalized convexity}{41}{subsection.16.2.3}
+\contentsline {chapter}{\chapternumberline {17}Differential function}{41}{chapter.17}
+\contentsline {section}{\numberline {17.1}Directional differential function at x}{41}{section.17.1}
+\contentsline {section}{\numberline {17.2}Derivative matrix}{41}{section.17.2}
+\contentsline {subsection}{\numberline {17.2.1}Motivation using directional derivatives}{41}{subsection.17.2.1}
+\contentsline {subsection}{\numberline {17.2.2}Arrangement as rows}{41}{subsection.17.2.2}
+\contentsline {subsection}{\numberline {17.2.3}Note about dimensions}{42}{subsection.17.2.3}
+\contentsline {section}{\numberline {17.3}Differential operator}{42}{section.17.3}
+\contentsline {subsection}{\numberline {17.3.1}Row-valued functions}{42}{subsection.17.3.1}
+\contentsline {subsection}{\numberline {17.3.2}Product of functions}{42}{subsection.17.3.2}
+\contentsline {subsection}{\numberline {17.3.3}Composition of functions: chain rule}{42}{subsection.17.3.3}
+\contentsline {subsubsection}{\numberline {17.3.3.1}Directional differential functions}{42}{subsubsection.17.3.3.1}
+\contentsline {subsubsection}{\numberline {17.3.3.2}In matrix representation}{42}{subsubsection.17.3.3.2}
+\contentsline {subsection}{\numberline {17.3.4}Linear and constant functions}{42}{subsection.17.3.4}
+\contentsline {section}{\numberline {17.4}Non-triviality of inversion}{43}{section.17.4}
+\contentsline {chapter}{\chapternumberline {18}Notable types}{43}{chapter.18}
+\contentsline {section}{\numberline {18.1}Functions over N: Sequences of vectors}{43}{section.18.1}
+\contentsline {subsection}{\numberline {18.1.1}Convergence}{43}{subsection.18.1.1}
+\contentsline {section}{\numberline {18.2}Curve}{43}{section.18.2}
+\contentsline {subsection}{\numberline {18.2.1}Plane curves}{43}{subsection.18.2.1}
+\contentsline {subsubsection}{\numberline {18.2.1.1}Elliptic curve}{43}{subsubsection.18.2.1.1}
+\contentsline {subsubsection}{\numberline {18.2.1.2}$(E(F_{p}), +)$}{43}{subsubsection.18.2.1.2}
+\contentsline {section}{\numberline {18.3}Other V to V functions}{44}{section.18.3}
+\contentsline {subsection}{\numberline {18.3.1}Linear function}{44}{subsection.18.3.1}
+\contentsline {subsection}{\numberline {18.3.2}Generalized projection operation}{44}{subsection.18.3.2}
+\contentsline {subsection}{\numberline {18.3.3}Perspective function}{44}{subsection.18.3.3}
+\contentsline {subsection}{\numberline {18.3.4}Linear fractional fn}{44}{subsection.18.3.4}
+\contentsline {subsection}{\numberline {18.3.5}Affine functions between vector spaces}{44}{subsection.18.3.5}
+\contentsline {subsection}{\numberline {18.3.6}Soft-thresholding operator}{44}{subsection.18.3.6}
+\contentsline {chapter}{\chapternumberline {19}Relations over vector spaces}{44}{chapter.19}
+\contentsline {section}{\numberline {19.1}Majorization}{44}{section.19.1}
+\contentsline {subsection}{\numberline {19.1.1}Interleaving}{45}{subsection.19.1.1}
+\contentsline {subsection}{\numberline {19.1.2}Connection with stochastic matrices}{45}{subsection.19.1.2}
+\contentsline {subsection}{\numberline {19.1.3}Weak majorization}{45}{subsection.19.1.3}
+\contentsline {subsubsection}{\numberline {19.1.3.1}Connection with stochatic matrices}{45}{subsubsection.19.1.3.1}
+\contentsline {subsection}{\numberline {19.1.4}Weak Majorization and convex increasing fn}{45}{subsection.19.1.4}
+\contentsline {chapter}{Bibliography}{46}{section*.30}

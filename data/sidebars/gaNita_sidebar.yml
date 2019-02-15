@@ -1,0 +1,81 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+title: Parts
+contents:
+  - title: Mathematics
+    contents:
+      - title: Number Theory
+        url: /math/numberTheory/numberTheory.pdf
+      - title: Algebra
+        url: /math/algebra/algebra.pdf
+      - title: Linear algebra
+        url: /math/linAlg/linAlg.pdf
+      - title: Vector spaces
+        url: /math/vectorSpaces/vectorSpaces.pdf
+      - title: Topology
+        url: /math/topology/topology.pdf
+      - title: Complex analysis
+        url: /math/complexAnalysis/complexAnalysis.pdf
+      - title: Functional analysis
+        url: /math/functionalAnalysis/functionalAnalysis.pdf
+      - title: Boolean functions
+        url: /math/booleanFunctions/booleanFunctions.pdf
+      - title: Graph theory
+        url: /math/graphTheory/graphTheory.pdf
+      - title: Inference
+        url: /math/inference/inference.pdf
+      - title: Approximation theory
+        url: /math/approxTheory/approxTheory.pdf
+  - title: Probability and Statistics
+    contents:
+      - title: Probabilistic analysis
+        url: /probability/probability/probability.pdf
+      - title: Probabilistic models
+        url: /probability/probabilisticModels/probabilisticModels.pdf
+      - title: Statistics and pattern recognition
+        url: /probability/statistics/statistics.pdf
+  - title: Computing
+    contents:
+      - title: Computer Architecture
+        url: /computing/computerArchitecture/computerArchitecture.pdf
+      - title: Algorithms
+        url: /computing/algorithms/algorithms.pdf
+      - title: Randomized Algorithms
+        url: /computing/randomizedAlgorithms/randomizedAlgorithms.pdf
+      - title: Limits
+        contents:
+          - title: Computational complexity theory
+            url: /computing/computationalComplexity/computationalComplexity.pdf
+          - title: Computational learning theory
+            url: /computing/colt/colt.pdf
+      - title: Cryptography
+        url: /computing/cryptography/cryptography.pdf
+      - title: Language design
+        contents:
+          - url: dir://computing/programming/languageDesign/
+      - title: Programming
+        contents:
+          - title: Overview
+            url: /computing/programming/
+          - title: Tips
+            contents:
+              - url: dir://computing/programming/tips/
+          - title: UI
+            url: /computing/programming/ui/
+          - url: /computing/programming/profession/
+      - title: Distributed computing
+        url: /computing/distributedComputing/distributedComputing.pdf
+      - title: Numerical Analysis
+        url: /computing/numericalAnalysis/numericalAnalysis.pdf
+      - title: Optimization
+        url: /computing/optimization/optimization.pdf
+  - title: Communication
+    contents:
+      - title: Information and coding theory
+        url: /math/communication/informationCodingTheory/informationCodingTheory.pdf
+  - title: Notes Home
+    url: /
+  - title: Vishvas's home page
+    url: /../
+  - title: Blog
+    url: /assets/blog/

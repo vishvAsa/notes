@@ -1,0 +1,10 @@
+baseURL = "file:///storage/emulated/0/notesData/saMskAra"
+languageCode = "en-us"
+title = "संस्कारे विश्वासटिप्पणयः"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "build_offline_android"
+[params]
+  githubEditMePathBase = "https://github.com/vvasuki/notes/edit/master/content/"
+  contactLink = "https://github.com/vvasuki/notes/issues/new"
+  env = "production"
+  disqusShortcode = "vvasuki-site"

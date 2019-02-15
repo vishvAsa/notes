@@ -1,0 +1,97 @@
+\documentclass[oneside, article]{memoir}
+% \usepackage[left=3cm,top=1.5cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{caption}
+\input{/u/vvasuki/vishvas/work/packages}
+\input{/u/vvasuki/vishvas/work/macros}
+
+%opening
+\title{Discrete graphical model learning}
+\author{vishvAs vAsuki}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\section{Activities log}
+June 19: Completed implementation of the L1L2 based graphical model learning code and tested it by recovering graph structure using samples drawn from a 3 node chain graph structured probability distribution, where each variable could take one of 3 values, and where the edge couplings were chosen uniformly at random. Informed pradeep.
+
+June 20: Tried implementing $L1L\infty$ code. Did not work. See mail to pradeep for details.
+
+June 21: Met Chao and Pradeep. Introduced Chao to the code. Tried splitting work, but did not hear back from her about contributing to experiments.
+
+June 22: Tried to learn 4 and 64 node chain structured graphical models unsuccessfully. Found much better success with star structured graphical models.
+
+June 23: Arranged to meet Ali : seems to be arranged by pradeep and sujay.
+
+\section{Time required in various steps}
+64 node chain timings for sampling and learning are shown in Tables \ref{tab:timingSampling} and \ref{tab:timingStructureLearning}.
+
+\begin{table}[h]
+\begin{tabular}{| p{7 cm} | c | c |} \hline
+Samples drawn& & Time taken\\ \hline\hline
+1000& & 2.3s\\ \hline\hline
+15000& & 241s\\ \hline\hline
+\end{tabular}
+\caption{Time taken to sample from a 64 node chain graphical model.}
+\label{tab:timingSampling}
+\end{table}
+
+\begin{table}[h]
+\begin{tabular}{| p{2 cm} | c | p{2 cm} | |} \hline
+Samples drawn& & Time taken\\ \hline\hline
+150& & 279s (4.4s/node), 560s\\ \hline
+1000& & 107s\\ \hline
+10000& & 10000s (166.6m or 2h+46m).\\ \hline\hline
+15000& & 13203s (220m)\\ \hline
+\end{tabular}
+\caption{Time taken to learn the structure of a 64 node chain graphical model.}
+\label{tab:timingStructureLearning}
+\end{table}
+
+\section{Results}
+Results are described in Tables \ref{tab:chainStructureLearning} and \ref{tab:starStructureLearning}; and in figure \ref{fig:starStructureLearning}.
+
+NOTE: for many cases, it is possible that the negative log likelihood and the gradient were not averaged by dividing by the number of samples.
+
+\begin{table}[h]
+\begin{tabular}{| p{2 cm} | p{2 cm} | c | p{2 cm} |} \hline
+Nodes& Samples drawn& groupL1Bounds Explored (min, max region)& Probability of success\\ \hline\hline
+3& 1500& $[10^{-2} .. 2]$ & $\approx 1$\\ \hline
+3& 15000& $[10^{-2} .. 2]$ & $\approx 1$\\ \hline\hline
+4& 1000& $[10^{-2} .. 10^{2.0}]$ (? ,$10^{3}$)& at best, adds extra edge, omits needed edge\\ \hline
+4& 15000& $[10^{-2} .. 2]$ & close to 1, but not quite\\ \hline\hline
+64& 1000& $[10^{-5} .. 10^2]$ & like 63 wrong edges, 3 correct edges\\ \hline
+64& 10000& $10^{10}$& Many extra edges were learned\\ \hline\hline
+\end{tabular}
+\caption{Probability of success for chain graphical models.}
+\label{tab:chainStructureLearning}
+\end{table}
+
+\begin{table}[h]
+\begin{tabular}{| p{2 cm} | p{2 cm} | c | p{2 cm} |} \hline
+Nodes& Samples drawn& groupL1Bounds Explored (min, max region)& Probability of success\\ \hline\hline
+3& 1500& $[10^{-2} .. 2]$ & $\approx 1$\\ \hline
+3& 15000& $[10^{-2} .. 2]$ & $\approx 1$\\ \hline\hline
+30& $2^{14}$& $[10^{-2} .. 10^0]$ : $10^{-1}, 1$ seem good& $\approx 1$\\ \hline\hline
+50& $2^{14}$& $[10^{-2} .. 10^0]$ : $10^{-1}, 1$ seem good& $\approx 1$\\ \hline\hline
+70& $2^{14}$& $[10^{-2} .. 10^0]$ : $1$ seems too high& \\ \hline\hline
+\end{tabular}
+\caption{Probability of success for star graphical models.}
+\label{tab:starStructureLearning}
+\end{table}
+
+\begin{figure}[h]
+ \includegraphics[scale=0.25]{/u/vvasuki/projectsSvn/graphicalModels/log/star10n-3uniform2010-06-23-12:20:59:573.jpg}
+ \includegraphics[scale=0.25]{/u/vvasuki/projectsSvn/graphicalModels/log/star20n-3uniform2010-06-23-14:32:43:768.jpg}
+ \includegraphics[scale=0.25]{/u/vvasuki/projectsSvn/graphicalModels/log/star30n-3uniform2010-06-23-12:47:06:737.jpg}
+ \includegraphics[scale=0.25]{/u/vvasuki/projectsSvn/graphicalModels/log/star50n-3uniform2010-06-24-18:25:20:507.jpg}
+ \caption{Probability of success in learning star structured graphical models.}
+ \label{fig:starStructureLearning}
+\end{figure}
+
+
+
+% \bibliographystyle{plain}
+% \bibliography{../grantProposal/references}
+
+\end{document}

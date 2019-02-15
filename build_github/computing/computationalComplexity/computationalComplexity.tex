@@ -1,0 +1,254 @@
+\documentclass[oneside, article]{memoir}
+
+\input{../packages}
+\input{../packagesMemoir}
+\input{../macros}
+
+%opening
+\title{Computational Complexity Theory: Quick reference}
+\author{vishvAs vAsuki}
+
+\begin{document}
+\maketitle
+
+See \cite{papadimitriouCC}, \cite{aroraBarakCC}. Under construction.
+
+\part{Introduction}
+\chapter{Notation}
+Open problem: OP.
+
+\chapter{Research effort}
+\section{Themes}
+\subsection{Motivation: complexity of problems}
+Give algorithms researchers and engineers better understanding of the difficulty of the problem, if not practical algorithms.
+
+Efficient Computability: Complexity class P. Upper and lower bounds on efficiency of algorithms for various problems; classification of problems into complexity classes. Efficient computation with randomness. Relationship between complexity classes. Approximation algorithms.
+
+\subsubsection{Limitations of worst case results}
+Many algorithms which are exponential time for pathological cases, turn out to be highly efficient in practice: Eg: Simplex method for solving linear programs. Usually, can make these costly cases unlikely by the use of randomization: eg: quicksort.
+
+\subsection{Generating and checking mathematical proofs}
+With interaction. Proof complexity: Minimum length of proof for a statement.
+
+\subsection{Computing with exotic physics}
+Quantum/ String theory.
+
+\section{Characterization of research effort}
+Read many papers/ books, talk to others, know many theorems, understand proof strategies, digest core results into short sentences, note open problems.
+
+Attack open problems by trying out various ideas and strategies, fail many times, get a result, see what it implies, use the same strategy to get more results.
+
+Models: Both the strength and the weakness of theory: sometimes they don't change fast enough.
+
+\chapter{Models of computation to solve problems}
+Decision problems. Function problems.
+
+For grammars and automata, see Boolean Functions ref.
+
+\section{Turing machine}
+\subsection{k-tape Turing Machine (TM)}
+States (Q), Alphabet (S) with start and blank symbols, Transition function ($\delta$); 1 input tape, k-1 R/W tapes with 1 output tape, termination states. In practice, values assigned to registers represents state.
+
+\subsubsection{Directional restrictions: irrelevance}
+Bidirectionally $\infty$ TM  of time T(n) can be simulated by unidirecionally $\infty$ TM in O(T(n)).
+
+\subsection{Measuring complexity of problems}
+Given input X, time taken by TM to solve it is T(X); practically, this is the number of basic operations, which are commonly taken to be scalar ops: +, -, *, /. $T(n) = \max_X T(X)$.
+
+\subsection{Hypercomputation}
+Aka super-Turing computation. Computation of non Turing compatible functions. Eg: Precise computation of integrals and limits. Not known to be physically realizable.
+
+\subsection{Random Access Machines (RAM)}
+Can be simulated by a TM in time $O(T(n)^{2})$. Turing's thesis. Usual assumption: word size is $\Omega(\log n)$.
+
+\subsection{Time and space constructible functions}
+Time constructible function (Proper complexity fn): $T(n)>n$, $T(|x|)$ computable from $|x|$ in $T(|x|)$.
+
+\subsection{The Universal TM (UTM)}
+TM's as strings. 3-tape UTM can simulate TM of time T(n) in $O(T(n)^{2})$ naively.
+
+\subsubsection{Power of 3 tapes}
+3-tape UTM can simulate TM of time T(n) in $O(T(n)\log T)$: Put contents of k tapes (initially blank / input symbols) in 1 tape, each cell is k sim-cells; make zones $L_{i}$, $R_{i}$ of size $2^{i}$; zones always with 0 or $2^{i-1}$ (half) or $2^{i}$ (full) contents; $|L_{i} \cup R_{i}| \leq 2^{i}$; cursor always at $L_{0}$; tape contents moved to simulate head movement; initially zones half full with contents (blank / input symbols). To simulate right head movement: Find non-empty $R_{i}$; move contents to half fill $R_{0} \dots R_{i-1}$; adjust $L_{0} \dots L_{i}$. So, min $2^{i-1}$ shifts required before $2^{i}$ chars in $R_{i}$ shifted; So, UTM needs $O(\sum^{\log T} \frac{T}{2^{i-1}}2^{i}) = O(T(n)\log T)$.
+
+\subsection{Oblivious TM (OTM)}
+Head movements same for all inputs of same size, actions may differ. Make 1 work-tape Obl TM of time $O(T(n)^{2})$ from k tape TM of time T(n): Reserve T(n) cells for each of k (unidirecionally $\infty$) tapes; in simulation, force a visit to each cell, its left and right neighbor; overwrite cell, move simulated cursor as necessary. Make 2 work-tape Obl TM of time $O(T(n)\log T)$ from k tape TM of time T(n): Use the $O(T(n)\log T)$ UTM; mime the worst possible (constant leftward) movement for each sim-tape, but implement useful movement only.
+
+\subsection{Variant TM's}
+The probabilistic turing machine : has a fair coin.
+
+\subsubsection{Non deterministic turing machine}
+\textbf{Configuration} of turing machine. Configuration trees and computation paths.
+
+Given an input, visualize a computational tree.
+
+\section{Oracle machines}
+TM with a subroutine call to Oracle. Eg: $P^{SAT}$. $P^{NP} = NP$. $NP^{NP}$ not trivially NP: Can't take $NP^{NP}$ alg L and make new config tree for NP alg L': can't know when all branches of L's config tree yield false.
+
+\part{Classes of decision problems}
+\chapter{Computability and efficiency of problems}
+\section{Uncomputability by TM}
+Tabulate all TM strings vs all inputs; mark output (0, 1 or *); \textbf{diagonalize} (reverse output in diagonal) to get function UC no TM can solve. \textbf{Halting problem}: Uncomputable, else UC computable; Even model checking cannot predict halting of the twin primes (p, p+2) problem.
+
+\section{Decidability by TM}
+TM decides 'recursive languages'. Given query $x \in L?$, TM gives coorect answer eventually.
+
+\section{Acceptance by TM/ Recursive enumerability}
+Given query $x \in L?$, TM gives coorect answer eventually if $x \in L$. It may run for ever otherwise. TM accepts 'recursively enumerable lanugages'.
+
+\subsection{Enumerability}
+Strings in L can be enumerated. Create $S = \set{(x, n): x \in \set{0,1}^{*}, n \in N}$; S is countable as $\set{0,1}^{*}, N$ are countable. Generate one string after another from S, check to see if the simulated TM accepts x in exactly n steps, if so print x, else continue.
+
+\section{Hierarchy}
+Time and space hierarchy theorems. \tbc
+
+\section{Decision problems vs Function prolems}
+Efficiently convering decision problem alg (Eg: INDSET) to function problem alg with binary search. FP.
+
+\section{Reduction}
+Polynomial time / log space reduction from A to B $\implies A \preceq B$ (B atleast as hard as A). Reduction is transitive.
+
+\chapter{P and NP}
+\section{P}
+P=coP. P completeness. CIRCUIT VALUE is P complete: In P by Spira and $DSPACE(log^{k} n) \subseteq P$; . (Find out more.)
+
+\section{Non determinism}
+\subsection{NP}
+Evaluatable by a non-deterministic turning machine. All computation paths end in polytime.
+
+\subsubsection{Acceptance of x}
+If $x \in L$, there is at least 1 path which leads to acceptance of x. Else, all paths lead to rejection of x. Thus, assymetry in Acceptance/ Rejection criteria.
+
+\subsubsection{Other views}
+Membership queries $x \in L ?$ have poly-size certificates verifiable in poly time; there is a polynomial sized proof of membership. \textbf{OP}: Show $P \neq NP$ :-).
+
+\subsection{co-NP}
+NP: $\exists$ problems (SAT), coNP: $\forall$ problems (UNSAT). $NP \inters coNP$: $\exists$ both membership and disqualifier cert.
+
+\subsection{NP completeness}
+NP hardness vs completeness. TMSAT(TM string, input, time limit) NP compl.
+
+\subsubsection{SAT(b) is NP compl}
+(Cook - Levin): $SAT \in NP$; Take L in NP; for $x \in L$, $\exists$ cert u, oblivious 1 work-tape poly-time TM M with M(x,u)=1 of time $T'(n) = O((T(n))^{2})$; make vars for all T'(n) work-tape and input-tape cell visits: if cell is visited t times, there be t+1 vars to track t+1 values over time; make formula f from M!: (state, cells at T=0) $\land$ (deduction of state, cell visit at T=1) $\dots$; u and state sequence is certificate for satisfying f; size of formula is $O((T(n))^{2})$; f efficiently convertible to CNF: each clause takes $2^{c}$ time for constant c. For formula of size $O(T(n)\log T)$, use $O(T(n)\log T)$ OTM with similar trick, cert.
+
+Reduction from k-SAT to 3-SAT: Use this trick repeatedly: $(a \lor b \lor c \lor d) = (a \lor b \lor z) \land (\sim z \lor c \lor d)$.
+
+\subsubsection{coNP completeness}
+UNSAT is in coNP; Also coNP complete : for any L in coNP, use reduction to SAT used by $\bar{L} \in NP$ to get UNSAT version of L. \textbf{OP}: Is $coNP \neq NP$?
+
+\section{Approximation algorithms}
+Approximate optimal solution to NP hard problem. Performance ratio of approx alg wrt optimal alg. For approximation algs using approximation of IP problem using LP, see randomized algs ref.
+
+\chapter{Other classes}
+\section{Space-classes}
+$NTIME(f(n)) \subseteq DSPACE(f(n))$.\\
+L, NL, polylog space, $PSPACE = NSPACE$. $L \subseteq NL \subseteq P \subseteq NP \subseteq PSPACE$: One of these is $\subset$: from space hierarchy theorem.
+
+\textbf{Reachability method} on configuration graph: \\
+$NSPACE(f(n)) \subseteq DTIME(2^{f(n)})$.
+
+Directed reachability in $DSPACE(log^{2} n)$ (Savitch) \chk. So, by reachability method: $NSPACE(f(n)) = DSPACE((f(n))^{2})$. Reachability is NL complete. \why
+
+Immerman-Szelepcsenyi: $Unreachability \in NL$.\\
+So, coNSPACE(f(n)) = NSPACE(f(n)).
+
+\section{Boolean circuits}
+See Boolean fn ref.
+
+\subsection{Crictuit families and uniformity}
+Circuit family $\set{C_{n}}$: Circuits for various input size. Uniformity: TM can efficiently construct ckt given input size n (on input $1^{n}$). Log space uniform ckt family.
+
+\subsection{P/Poly : Non uniform}
+$P/Poly$ inlcudes non uniform ckts ('advice'). $P \subseteq P/Poly$: Take OTM for alg; Make ckt to sync with head movements and state change.
+
+\subsection{NC and AC}
+$NC_{k}$: (Nick's class) polylog depth, uniform, bounded fan-in. Also polylog space from defn.
+
+$AC_{k}$: $NC_{k}$ with unbounded fanin.
+
+\subsubsection{Their relationship}
+$AC_{k} \subseteq NC_{k+1}$. $AC_{0} \subset NC_{1}$: $PARITY \notin AC_{0}$ \why.
+
+$NC_{k} \subseteq L^{k}$: just need to store current path.
+
+\subsection{PRAM}
+RAM model with parallel processors, shared mem. Logspace uniform family of PRAMs. Parallel computation time: f(ckt depth). $AC_{k}$ = Languages L decided by concurrent read/ concurrent write PRAM programs with polynomial procs and $O(\log^{k}n)$ time: Take ckt for L; 1 proc for each edge, 1 mem location for each gate; AND gate initialized with 1, OR gates initialized with 0.
+
+\subsection{Arithmatic}
+a+b $\in AC_{0} \subset NC_{1}$: trivial ckt.
+
+\subsubsection{Multiplication}
+Find ab. $O(n^{2})$ school alg; $O(n\log n)$ FFT alg: \\
+$a = \sum a_{i}2^{i} = p(2), b = q(2)$: p and q are polynomials.
+
+$a*b \in AC_{1}$.
+
+\subsubsection{Matrix multiplication}
+$c_{i,j} = \sum_{k=1}^{n} A_{ik}B_{kj}$ : both * and $\sum$ doable in $O(\log n)$ ckt: $\in NC_{1}$.
+
+Boolean multiplication: $c_{i,j} = \lor A_{ik}B_{kj} \in AC_{0}$.
+
+Matrix powering by repeated squaring: $\in NC_{2}$.
+
+$DETERMINANT \in NC_{2}$: do gaussian elimination, multiply.
+
+Boolean powering $\in AC_{1}$: repeated squaring. So, $REACHABILITY \in AC_{1}$. So, $NL \subseteq AC_{1}$.
+
+\subsection{Randomized ckts}
+Random bits r, $C_{n}(x, r)$. Contains BPP. $RNC$: RP for NC ckts.
+
+\subsubsection{Non-uniformity stronger than randomness: \htext{$BPP \subseteq P/Poly$}{..}}
+Take BPP alg; get randomized ckt $C_{n}(x, r)$; reduce Pr ($C_{n}(x, r)$ wrong for fixed x, rand r) to $2^{-n-1}$; so Union bound: Pr ( rand r bad) $\leq 2^{-1} < 1$; so $\exists$ r for which $C_{n}(x, r)$ correct; get deterministic ckt.
+
+Can make $log_{\frac{3}{2}}n$ depth tree from any tree like ckt. So, polynomial size boolean formulae in $NC_{1}$.
+
+\section{Probabilistic computation}
+\subsection{One sided error: RP}
+Aka Monte Carlo alg h. RP: $Pr(h(x)=1|x \in L)\geq 0.5$, $Pr(h(x)=1|x \notin L) = 0$. Visualize the possible execution of an RP alg with computation tree: 2 types of leaves: yes or no.
+
+Also see randomized algorithms ref. Bounding error prob p. Boosting confidence: $(1-p)^{\frac{l}{p}} \leq e^{-l}$. $RP \subseteq NP$ (NP has one sided error too).
+
+\subsection{2 sided error: BPP}
+PP: $Pr(accept(x)|x \notin L)< 0.5$. No good if $Pr(accept(x)|x \notin L) = 0.5 - 2^{-O(n)}$
+
+Also see randomized algorithms ref. $BPP \subseteq PP$: $Pr(accept(x)|x \in L)\geq 0.5$, $Pr(accept(x)|x \notin L)\leq 0.5 - \frac{1}{q(.)}$; 2-sided bounded error; Boosting accuracy: Run many trials, take majority; use Chernoff. $RP \subseteq BPP$.
+
+\subsection{ZPP}
+$RP \cap coRP = ZPP$: Las Vegas alg by combining RP, coRP algs : both unsure when RP alg says $x \in L$ and coRP alg says $x \notin L$; (check).
+
+\chapter{Other notions of complexity}
+\section{Communication complexity}
+See Information and coding theory ref.
+
+\section{Komogrov complexity}
+Of a computational object: Resourses required to specify it. Eg: If P is a program which outputs a string x, then P is a description of x. The length of the description is just the length of P as a character string.
+
+\section{Smoothed complexity}
+\tbc
+
+\chapter{Other topics}
+\section{Explore further}
+Interactive proofs. Transperent proofs: a small error shows up every where - make combinations of atomic results.
+
+\section{Lower bounds}
+Crossing sequence: an important trick. \tbc Adverserial technique: Let adversary make an alg, you make an input to screw it up. \tbc Use information theory. Reduce to other hard problems. Construct input for which minimum processing is required.
+
+$P \neq NP$ proof is hard: natural proofs (satisfy constructivity and largeness) won't work: else you'll end up with an alg =f(proof) to solve NP prob in Poly time. \why
+
+\section{Problems}
+\subsection{Graph Problems}
+Graph G.
+
+NP complete: Is S the largest independent set in G? Does there exist a route for the travelling salesman in G, of cost c? Graph Isomorphism (G1, G2). Is G 3-colorable?
+
+Connectivity (G, u, v).
+
+\subsection{SAT Problems}
+TMSAT: (TM string M, input x, time limit) $|$ M accepts (x, u) with cert u. SAT: satisfiable (cnf). 3-SAT: satisfiable (3-cnf). UNSAT: unsatisfiable (b). Diophontine equations (Polynomial eqns with integer coeff) has integer solns?. Subset sum: (S,n). Linear programming (Soln to linear inequalities). Integer programming (Find integer soln).
+
+\subsection{Number Theory problems}
+Factoring(n). IsPrime(n).
+
+\bibliographystyle{plain}
+\bibliography{computationalComplexity}
+
+\end{document}

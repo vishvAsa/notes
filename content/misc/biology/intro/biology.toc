@@ -1,0 +1,89 @@
+\contentsline {chapter}{Contents}{1}{section*.1}
+\contentsline {chapter}{\chapternumberline {1}Prelude}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Themes}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Research approach}{3}{section.1.2}
+\contentsline {part}{\partnumberline {I}Organisms}{4}{part.1}
+\contentsline {chapter}{\chapternumberline {2}Introduction}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Defining life}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Phenes}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Origin and equilibria}{4}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Natural selection}{5}{subsection.2.3.1}
+\contentsline {chapter}{\chapternumberline {3}Hereditary information}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Heridity}{5}{section.3.1}
+\contentsline {section}{\numberline {3.2}Information type}{5}{section.3.2}
+\contentsline {section}{\numberline {3.3}Chemical encoding, expression}{5}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Genes}{5}{subsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.1.1}Genome, genotype}{5}{subsubsection.3.3.1.1}
+\contentsline {subsubsection}{\numberline {3.3.1.2}Gene expression}{5}{subsubsection.3.3.1.2}
+\contentsline {subsection}{\numberline {3.3.2}Variation}{5}{subsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2.1}Types}{5}{subsubsection.3.3.2.1}
+\contentsline {subsubsection}{\numberline {3.3.2.2}Source}{6}{subsubsection.3.3.2.2}
+\contentsline {section}{\numberline {3.4}Variation}{6}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Homology}{6}{subsection.3.4.1}
+\contentsline {section}{\numberline {3.5}Human genome}{6}{section.3.5}
+\contentsline {chapter}{\chapternumberline {4}Cells, capsules}{6}{chapter.4}
+\contentsline {section}{\numberline {4.1}Organelles}{6}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Nucleus}{6}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Cell}{6}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Differentiation}{6}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Reproduction}{6}{subsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.2.1}Asexual reproduction}{6}{subsubsection.4.2.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2.2}Gamete formation}{7}{subsubsection.4.2.2.2}
+\contentsline {subsubsection}{\numberline {4.2.2.3}Gamete combination}{7}{subsubsection.4.2.2.3}
+\contentsline {section}{\numberline {4.3}Chromosome Structure}{7}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Chromosome number}{7}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Special chromosomes}{7}{subsection.4.3.2}
+\contentsline {chapter}{\chapternumberline {5}Evolutionary tree}{7}{chapter.5}
+\contentsline {section}{\numberline {5.1}Species of cellular life}{7}{section.5.1}
+\contentsline {part}{\partnumberline {II}Adaptations}{7}{part.2}
+\contentsline {chapter}{\chapternumberline {6}Locomotion}{8}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Nutrient absorption}{8}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Feeding}{8}{chapter.8}
+\contentsline {section}{\numberline {8.1}Predation}{8}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Catching food}{8}{subsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8.1.1.1}Baiting}{8}{subsubsection.8.1.1.1}
+\contentsline {subsubsection}{\numberline {8.1.1.2}Overcoming a single prey}{8}{subsubsection.8.1.1.2}
+\contentsline {subsubsection}{\numberline {8.1.1.3}Catching multiple individuals}{8}{subsubsection.8.1.1.3}
+\contentsline {subsection}{\numberline {8.1.2}Protecting the food}{9}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.3}Digesting the food}{9}{subsection.8.1.3}
+\contentsline {subsection}{\numberline {8.1.4}Camoflage adaptations}{9}{subsection.8.1.4}
+\contentsline {section}{\numberline {8.2}Anti-predation adaptations}{9}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Behaviors}{9}{subsection.8.2.1}
+\contentsline {section}{\numberline {8.3}Symbiosis}{9}{section.8.3}
+\contentsline {chapter}{\chapternumberline {9}Social adaptations}{10}{chapter.9}
+\contentsline {section}{\numberline {9.1}Kindness}{10}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Reciprocal altruism}{10}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Social reputation}{10}{subsection.9.1.2}
+\contentsline {chapter}{\chapternumberline {10}Reproduction}{10}{chapter.10}
+\contentsline {section}{\numberline {10.1}Sexual vs asexual}{10}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Sexual reproduction}{10}{subsection.10.1.1}
+\contentsline {subsubsection}{\numberline {10.1.1.1}Combination of genes}{10}{subsubsection.10.1.1.1}
+\contentsline {subsubsection}{\numberline {10.1.1.2}Static parts of the genome}{11}{subsubsection.10.1.1.2}
+\contentsline {subsection}{\numberline {10.1.2}Asexual reproduction}{11}{subsection.10.1.2}
+\contentsline {section}{\numberline {10.2}Fertilization organs}{11}{section.10.2}
+\contentsline {chapter}{\chapternumberline {11}Signalling chemicals}{11}{chapter.11}
+\contentsline {section}{\numberline {11.1}Tracking time}{11}{section.11.1}
+\contentsline {section}{\numberline {11.2}Learning, attention, reward}{12}{section.11.2}
+\contentsline {subsection}{\numberline {11.2.1}Well-being, analgesia}{12}{subsection.11.2.1}
+\contentsline {section}{\numberline {11.3}Empathy, social trust, reciprocation}{12}{section.11.3}
+\contentsline {subsection}{\numberline {11.3.1}Inhibition}{12}{subsection.11.3.1}
+\contentsline {section}{\numberline {11.4}Fight or flight}{12}{section.11.4}
+\contentsline {part}{\partnumberline {III}Physiology}{12}{part.3}
+\contentsline {chapter}{\chapternumberline {12}Diseases}{13}{chapter.12}
+\contentsline {section}{\numberline {12.1}Cancer}{13}{section.12.1}
+\contentsline {chapter}{\chapternumberline {13}Human nervous system}{13}{chapter.13}
+\contentsline {section}{\numberline {13.1}Brain construction}{13}{section.13.1}
+\contentsline {subsection}{\numberline {13.1.1}Wiring and insulation}{13}{subsection.13.1.1}
+\contentsline {subsection}{\numberline {13.1.2}Plumbing}{13}{subsection.13.1.2}
+\contentsline {subsection}{\numberline {13.1.3}Protection}{13}{subsection.13.1.3}
+\contentsline {section}{\numberline {13.2}Brain parts and regions}{14}{section.13.2}
+\contentsline {subsection}{\numberline {13.2.1}Connection to function}{14}{subsection.13.2.1}
+\contentsline {subsection}{\numberline {13.2.2}Areas}{14}{subsection.13.2.2}
+\contentsline {subsubsection}{\numberline {13.2.2.1}Close to brain stem}{14}{subsubsection.13.2.2.1}
+\contentsline {subsubsection}{\numberline {13.2.2.2}Hippocampus}{14}{subsubsection.13.2.2.2}
+\contentsline {section}{\numberline {13.3}Development stages}{14}{section.13.3}
+\contentsline {subsection}{\numberline {13.3.1}Teenage}{14}{subsection.13.3.1}
+\contentsline {section}{\numberline {13.4}Learning}{14}{section.13.4}
+\contentsline {subsection}{\numberline {13.4.1}Fire together, wire together}{14}{subsection.13.4.1}
+\contentsline {subsection}{\numberline {13.4.2}Sequence prediction}{15}{subsection.13.4.2}
+\contentsline {part}{\partnumberline {IV}Ecology}{15}{part.4}
