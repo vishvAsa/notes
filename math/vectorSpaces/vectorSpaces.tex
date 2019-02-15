@@ -1,0 +1,1189 @@
+\documentclass[oneside, article]{memoir}
+\input{../packages}
+\input{../packagesMemoir}
+\input{../macros}
+
+
+%opening
+\title{Vector spaces and functions: Survey}
+\author{vishvAs vAsuki}
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+\part{Introduction}
+\chapter{Themes}
+\section{References}
+Based on \cite{strang}, \cite{trefBau}, \cite{hornJohnson} \cite{hornJohnsonTopics}, \cite{matrixCookbook}.
+
+\section{Themes}
+Vector spaces, their functions and functionals
+
+\subsection{Related surveys}
+For info on linear maps on vector spaces, see that survey.
+
+For numerical analysis, conditioning, stability, differnce equations, differential equations: see Numerical analysis ref.
+
+\section{Characterization of research effort}
+See linear algebra survey.
+
+\chapter{Notation}
+See survey on linear maps on vector spaces.
+
+\part{Vectors and vector spaces}
+\chapter{Vectors and their combinations}
+\section{Definition, basic operations}
+A sequence of n elements of $f$, v, is a vector.
+
+\subsection{Addition, scalar multiplication}
+Addition of vectors is naturally defined: $(u + v)_i = u_i + v_i$. Scalar multiplication is similarly defined.
+
+\section{Geometric model: coefficient sequence}
+Can be interpreted as a point in the cartesian space $F^{n}$; but which point? That depends on what the basis vectors model, the units, the inner product between them.
+
+\subsection{As a combination of standard basis vectors}
+Define standard basis vectors: $e_i$ as a vector with 1 in the ith position, 0 elesewhere.
+
+So, v can be viewed as a combination $v_i e_i$ of the standard basis vectors $\set{e_i}$.
+
+\subsection{Standard basis models what?}
+The standard basis are usually considered with the standard inner product: $\dprod{x, y} = \sum_i x_i y_i$. But this need not be the case. Other bases are possible.
+
+\subsection{Equivalent representations of the same point}
+So, the vector representing a point in a coordinate space changes, when the basis chosen is different. Change of basis operation is a linear operation, for details see linear algebra ref.
+
+\section{Combinations of vectors}
+\subsection{Linear combination}
+$\sum a_{i} v_{i} = p$.
+
+\subsection{Conic/ non-ve combination}
+Coefficients $a_{i} \geq 0$.
+
+\subsection{Affine combination}
+If coefficients $\sum a_{i} = 1$, this is an affine combination.
+
+\paragraph*{Colleniearity preserved}
+Make affine combo $p = ax + (1-a)y$; take vector $x - p = (1-a)(x-y)$; this has same inner product with the basis vectors as x-y.
+
+\subsection{Convex combination}
+Affine combo where $a_{i} \geq 0$: both affine and conic.
+
+\chapter{Interpretations, applications}
+Not necessarily just an abstraction of geometric 3-D or 2-D spaces. Many other things modelled by fixed length sequences of numbers.
+
+\section{Modelling the real world}
+A number can represent a weight, height etc.. It could mean a certain combination of weight, height etc..
+
+\section{Functions as vectors}
+\subsection{Using coefficients}
+Take the polynomial $P(x, t)$ of degree 6 with coefficients given by the vector t. Thus, one can 
+
+\subsection{Using the domain}
+See function spaces section.
+
+\chapter{Vector sets}
+\section{Properties}
+\subsection{Linear independence}
+A set of vectors $\set{t_i}$ is linearly independent if, for all i, $t_i$ can't be written as a linear combination of $\set{t_{j}: j \neq i}$.
+
+\subsection{Associated hyperplanes}
+Supporting hyperplane to C at boundary pt p: All C must lie on one side of the hyperplane.
+
+Separating hyperplanes between sets.
+
+\section{Span of vectors in S}
+Contains all linear combos of vectors in S. Any linear subspace expressible as Ax = 0. Eg: $a^{T}x = 0$
+
+$\linspan{a..b}$ represents space spanned by vectors $a .. b$.
+
+\section{Affine set X}
+X closed under affine combination. Eg: A line parallel to 1-d vector space, solution to Ax = b. Contains the line through any two points in X.
+
+\exclaim{If it included the origin, it would be a linear subspace!} Any affine set expressible as $\set{x: Ax + b = 0}$. Is convex.
+
+\subsection{Affine hull of S}
+aff(S): Smallest affine set which contains S.
+
+\paragraph*{Relative interior of S}
+$relint(S) = \set{x \in S: \exists \eps>0: N_\eps(x) \inters aff(S) \in S}$. A straight line segment and a plane in 3-d space have no interior, but have a relative interior.
+
+\section{Convex cone C}
+If $x, y \in C$, $\forall t_1, t_2 \geq 0: t_1 $x$ + t_2 y \in C$: encompasses all non-negative/ conic combinations of points. Is convex.
+
+Thence, conic hull of S is defined.
+
+Eg: Set of symmetric +ve semidefinite matrices.
+
+\subsection{Pointed cone C}
+If $p\in C$, $-p \notin C$. Smaller than halfspaces. Can delete 0 from them and still preserve convexity.
+
+\subsection{Proper cone C}
+$C$ is closed, pointed, solid. Eg: non-ve orthant, $S^n_+$. Dual cones $C'$ of proper cones are proper.
+
+\paragraph*{Generalized inequalities wrt C}
+$x \leq_C y \equiv y-x \in C; $x$ <_C y \equiv y-x \in int(C)$. For multiplication by scalar a, this behaves like inequalities on R.
+
+\exclaim{$x \geq_C 0$ is a fancy way of saying that $x \in C$}. Similarly, $x >_C 0$ means $x \in int(C)$.
+
+\paragraph*{Minima}
+In general, not a complete ordering; so minimal and minimum elements defined as in ordered sets and partially ordered sets.
+
+\paragraph*{Minima and dual cone}
+Minimum of C $ = \argmin_{x \in C} v^{T}x \forall v \in int(C')$.
+
+Minimal element of C $ = \argmin_{x \in C} v^{T}x$ for some $v \in C'$: think of a dual as set of normals to supporting hyperplanes.
+
+\subsection{Norm cones}
+$\set{(x, t): \norm{x} \leq t}$: Epigraph of the norm. For euclidian norm, get 'ice cream cone': aka 2nd order cone.
+
+\subsection{Dual \htext{$C^{*}$}{..} of cone C}
+$C^{*} = \set{y|y^{T}x \geq 0 \forall x}$. This is the dual subspace of linear, nonnegative functionals. This is a cone too! $C^{*}$ is set of normals to supporting hyperplanes of C.
+
+Eg: $R_+^{n}, S_{+}^{n}$ are self dual.
+
+Dual of a dual cone includes the primal cone.
+
+\paragraph*{Set of normals}
+So, dual cone is actually the set of normal vectors defining all supporting hyperplanes of C, at its boundaries facing 0 in the first quadrant.
+
+\chapter{Convex set}
+\section{Containment of convex combinations}
+X is convex if, for every $\set{x_{i}} \subseteq X$, its convex combination is in X. For convex combinations $c$, $[x, y \in C \implies c(x, y) \in C] \equiv [\set{x_i} \subseteq C \implies c((x_i)) \in C]$: from induction. extend this to possibly infinite number of points to get Jensen's inequality!
+
+\subsection{Containment of line-segments}
+Equivalently, convex combination of any pair of pts in X is in X: Can get the former condition by induction on number of points combined. So, join any 2 pts in X by a line, pick any pt p on that line; $p \in X$. So, easier to show that a set is non-convex than it is to show that it is convex.
+
+\section{Properties}
+\subsection{Extreme points of convex set S}
+A corner of S; not in any line between two pts in S. If S also compact, S is the convex hull of the extreme points (Krein Milman).
+
+\subsection{Separating hyperplane}
+If C and D are 2 disjoint convex sets, then they are separable by a hyperplane. Strict separation need additional assumptions.
+
+\subsection{Supporting hyperplane}
+C has a supporting hyperplane at every boundary point.
+
+\subsection{Intersection of supporting half-spaces}
+If C is closed, it is intersection of halfspaces formed by supporting hyperplanes.
+
+\subsection{As domain of special barrier functionals}
+Any open convex set can be written as the domain of a self-concordant barrier functional.
+
+\section{Convex hull of a set of points X in a real vector space V}
+The minimal convex set containing X. $H_{c}(X)$. X is the boundary of the convex set.
+
+If $|X|$ finite, convex hull is a polyhedron. Circle is the convex set of $\infty$ points.
+
+Convex set is a set whose convex hull is itself.
+
+\section{Check convexity}
+Use defn. Start with convex sets, apply functions known to preserve convexity. Derive set using convexity prserving operations on other sets.
+
+\subsection{Functions which preserve convexity in image, inverse image}
+Affine fns: f(x) = Ax + b: see from defn. Perspective fns: see from defn. Linear fractional function: from composition of affine, perspective fn.
+
+\subsection{Convexity preserving operations}
+$\inters$.
+
+\subsection{Important convex sets}
+Sublevelsets of (quasi)convex fn.
+
+Half-spaces, hyper-ellipsoids, polyhedra which are solutions of $Ax \leq b$. Norm ball.
+
+The probability simplex: $p \geq 0; 1^{T}p = 1$.
+
+\chapter{Vector spaces and subtypes}
+\section{Vector space V over field F}
+Vector space is closed under linear combination of a set of 'basis' vectors: A commutative group wrt +. Linear dependence of vectors: Any of the vectors expressible as a linear combo of the others.
+
+Basis sets of n-degree polynomials ($P_n$) and matrices also define vector spaces.
+
+\section{Inner product space}
+A vector space V with an inner product $\dprod{.}:V\times V \to F$.
+
+\section{Normed vector space}
+Space with a norm. Also a metric space. Thence inherit notion of completeness.
+
+\subsection{Lebesgue space}
+Aka $L^{p}$ or $l^{p}$ space. Infinite dimensional space with the p norm. (Minkowski) Triangle inequality still holds.
+
+\section{Banach space}
+Complete, normed, vector space.
+
+\section{Hilbert space}
+Hilbert noticed common theme: complete, normed, inner-product vector space.
+
+\chapter{Common vector spaces}
+\section{Complex vector space}
+C is a field; so multiplication is defined for complex numbers. So, a complex vector space $C^{n}$ is not equivalent to thinking about real vector space $R^{2n}$.
+
+\section{Functional space V}
+\subsection{f() as dom(f) dim vector}
+Look upon f(x) as a vector whose dimensions = domain size d. A dimension for each value of $x$ in a certain interval: $f(x_{1})$ is the projection of f(x) along the $x_{1}$ direction.
+
+\paragraph*{Infinite dimensions}
+Dimension of the function space could be $\infty$ or it could be finite depending on domain of f: see boolean functions ref.
+
+\subsection{Standard basis functionals}
+Let basis function/ direction along $x_{i}$ be $e_{i}$: then by usual notion of inner product, $e_{i} \perp e_{j}$.
+
+By geometric intuition, tringle inequality, cosine inequality hold. So, have a inner product vector space!
+
+\subsection{Restriction to finite length}
+Consider functionals f(x) which are of finite length, even if you are in an $\infty$ dimensional vector space : Eg: $f(x) = \sin x$ in $[0,2\pi]$, not $x^{-1}$ in $[0,2\pi]$. Otherwise, hard to make sense of triangle inequality.
+
+\subsection{Other representations}
+The space of all polynomials can be represented both as a functional space described above, and as a vector space, where each polynomial is represented by the vector formed by its coefficients.
+
+\section{Euclidian space}
+$R^{n}$ with the Euclidian structure (metric, inner product): $\dprod{a, b} = \sum a_{i}b_{i}$.
+
+\subsection{Geometric properties}
+For geometric properties of various objects in 3-d euclidian space, see topology ref.
+
+Orthant: a generalization of quadrant.
+
+\subsection{Box measure}
+Aka Lebesgue measure. This is the minimum cover measure described in the algebra survey.
+
+There exist sets which are not box-measurable!\why
+
+\subsubsection{Definition}
+For boxes, this is just the product measure: $m([a, b]) = \prod_{i=1}^{n}(b_i- a_i)$.
+
+Let $B_i(S)$ be a set of disjoint boxes which cover $S$. In general, $m(S) = \inf \set{B_i(S)}$.
+
+\subsubsection{Properties}
+It has all properties of a measure. In addition, observe that $m([a, a])=0$. So, the measure of any countable set of points is $0$. So, measure of rationals $m(Q) = 0$, whereas $m(R-Q) = 1$.
+
+\section{Dual vector space \htext{$V^{*}$}{..}}
+Vector space over F of all continuous linear (not affine) functionals: $V\to F$, with addition op: $(f+g)(x) = f(x) + g(x)$.
+
+Linear functionals $f(x)$ can always be specified as $f^{T}x$.
+
+If V has inner product, $V^{*}$ has inner product.
+
+Dual of a dual space includes the original space \chk.
+
+This concept finds important applicaitons: Eg: Dual cone, dual norms.
+
+\subsection{Basis: \htext{$\set{e^{i}}$}{..}}
+$\set{e^{i}: e^{i}(e_j) = 1 \texttt{iff j = i}}$. For the finite dimensional case, this is simply another finite dimensional vector space.
+
+\chapter{Topological properties of space V}
+For properties which arise when viewed as metric space, eg: compactness, boundedness, connectedness etc.., see topology ref.
+
+\section{Properties of \htext{$R^{n}, C^{n}$}{..}}
+See properties of k-cells in R in analysis of functions over fields ref.
+
+\subsection{Completeness of \htext{$R^{n}, C^{n}$}{..}}
+Take vector seq $(x_{i}) \to x$. If V is over R or C, $(x_{i}) \to x$ iff it is a Cauchy seq wrt norm: from equiv property over R and C.
+
+\section{Dimension of V}
+This is the maximal size of any linearly independent set of vectors in V.
+
+\section{Basis of vector space V}
+$T = \set{t_i}: \forall v\in V: v = \sum a_i t_i$, such that $T$ is linearly independent. Often written as a matrix T, so that we can write $Ta = v$ for any v in V. Any maximal set of independent vectors in V is a basis. All bases (eg T and T') have the same size: otherwise, you would have a contradiction. So, $|T| = dim(V)$.
+
+\subsection{Orthonormal and standard basis}
+Orthonormal basis: $t_i^{T}t_j = 0, \dprod{t_i, t_i} = 1$. Standard basis: see section on definiton of vectors.
+
+Can get an orthogonal basis using QR making algorithms.
+
+\section{Subspaces}
+Aka Linear subspace. For subspaces associated with a linear operator, see linear algebra ref.
+
+\subsection{Membership conditions}
+A vector $v\neq 0$ is in a subspace S iff it is some linear combination of its basis Q; so $v = Qx$.
+
+This happens only if $\exists i: v^{T}q_i \neq 0$: so v is not $\perp Q$ wrt standard inner product.
+
+
+
+\subsection{Invariant subspace}
+S is an invariant subspace of A if $AS \subseteq S$.
+
+\chapter{Inner products, norms}
+\section{Inner products}
+\subsection{Properties}
+Obeys Conjugate symmetry, bilinearity, homogeniety, non negativity, positive definiteness.
+
+Bilinearity: linear in a and b separately: $(\ga a)^{*}(\beta b) = \conj{\ga}\beta a^{*}b$. \exclaim{Range of $\dprod{}$ need not be $\Re$.}
+
+$\dprod{Ax + x, y} = \dprod{x, A^{*}y + y}$.
+
+\subsubsection{Orthogonality}
+If $\dprod{x, y} = 0$, $x$ orthogonal to y.
+
+\subsubsection{Associated norm}
+Defines norm $\norm{x}^{2} = \dprod{x,x}$.
+
+$\triangle$ ineq holds: Take $\norm{x- y}^{2} = \dprod{x - $y$, x-y}$, expand it, use cauchy schwartz.
+
+\subsubsection{2-norm Bound on size}
+(Cauchy, Schwarz). $|\dprod{a,b}| \leq \norm{a}\norm{b}$.
+
+\paragraph*{Proof}
+$0 \leq f(d) = \norm{u + dv}^{2} = \dprod{u, u} - 2d \dprod{u, v} + \dprod{v, v}$.
+
+Minimize f(d) wrt $d$ to get: $d = \dprod{u, v}\dprod{v, v}^{-1}$.\\ So, $0 \leq \dprod{u, u} - |\dprod{u, v}|\dprod{v, v}^{-1}$.
+
+\paragraph*{Tightness}
+$|\dprod{a,b}| = \norm{a}\norm{b}$ when $\dprod{a, b} = 0$.
+
+\subsubsection{General norm-bound on size}
+(Aka Holder's inequality) For $p, q \geq 1$, $p^{-1} + q^{-1} =1$: $p, q$ are Holder conjugates; then $|\dprod{a,b}| \leq \norm{a}_{p}\norm{b}_{q}$ : a tight bound.
+
+\pf{For $p, q > 1$, By Young's ineq, \\$|a_{i}b_{i}|\leq \frac{|a_{i}|^{p}}{p} + \frac{|b_{i}|^{q}}{q}$; \\$\frac{1}{\norm{a}_{p}\norm{b}_{q}}|\dprod{a,b}| \leq p^{-1} + q^{-1} =1$.}
+
+Taking the limiting case as $p \to 1$, we also have the $p=1, q = \infty$ case.
+
+\subsection{Standard inner product}
+$\dprod{a, b} = b^{T}a$. Can be generalized to $a, b \in C^{m}: b^{*}a$.
+
+\subsubsection{Geometric interpretation}
+$\dprod{a,b} = b^{T}a = \norm{a}\norm{b} \cos \gth$.
+
+So, orthogonality = perpendicularity.
+
+\paragraph*{Proof}
+Prove for 2 dimensions by seeing: $\mat{a_1\\a_2} = \mat{\norm{a} \cos \gth \\ \norm{a} \sin \gth}$, using $cos(A-B) = \cos A \cos B + \sin A \sin B$.
+
+Consider plane formed by a, b. Get new orthonormal basis Q [$QQ^{*} = I$], so that $q_1, q_2$ span this plane; so $Qe_i = q_i$. The representations of the points a, b wrt this new basis is Qa, Qb; their norm remains same. By the 2 dimensional case, $\dprod{Qa, Qb} = \norm{a}\norm{b}\cos \gth$. But, $\dprod{Qa, Qb} = \dprod{a, b}$ as $QQ^{*}=I$!
+
+\subsection{In function spaces}
+Consider functions with domain $X = [a,b]$, and let $p$ be a probability measure on $X$: $\int_X \conj{f(x)}g(x)dx= \int_{a}^{b}\conj{f(x)}g(x)p(x)dx$ for complex valued $f(x)$; can include weight function $W$ too. This defines norm too. Often scaled to make length of certain basis function vectors to be 1.
+
+\subsection{Orthogonality}
+Orthogonality of k vectors $\implies$ mutual independence - else contradiction. Orthogonal vector spaces. Orthogonality among bases $\implies$ orthogonality of vector spaces.
+
+\subsection{Weighted Inner product}
+Invertible matrix W, $A=W^{*}W$, A +ve semidefinite. Skew vectors before dot product: $\dprod{a,b}_{W} = \dprod{Wa, Wb} = b^{T}W^{*}Wa = b^{T}Aa$. Sometimes writ as $\dprod{a,b}_{A}$. a and b are A conjugate if $\dprod{a,b}_{A}=0$.
+
+\subsection{Specify inner product using Gram matrix G}
+Aka Gramian matrix. Take symmetric +ve semidefinite G. $G_{i,j} = \dprod{x_{i}, x_{j}}$ for some $\set{x_{i}}$; so $G = X^{T}X$ for $X = (x_{i})$. Then, for any $u = \sum c_{i}x_{i}, v = \sum b_{i}x_{i}$, can rewrite in $\set{x_{i}}$ basis as $c$, b and find $\dprod{.,.}$ using $\dprod{c,b} = c^{T}Gb$. As G +ve semi-def, $c^{T}Gc \geq 0$; $c^{T}Gc = 0$ iff $c^{T}X^{T}Xc = 0$ or Xc=0: meaning of normness preserved.
+
+G often normalized to make $G_{i,i} = 1$.
+
+Extension to $\infty$ dimensions: Mercer's theorem.
+
+\section{Norms}
+\subsection{Semi-norm properties}
+Aka pre-norm. Obeys triangle inequality, non negativity, homogeniety / scalability ($\norm{cv} = |c|\norm{v}$). But, not necessarily +ve definiteness ($\norm{x} = 0$ iff $x$ = 0.).
+
+\subsection{Norm: Defining properties}
+A seminorm which obeys \textbf{positive definiteness} ($\norm{x} = 0$ iff $x$ = 0.). Often triangle inequality is the only non trivial property to verify. Prenorm omits trinagle inequality.
+
+All norms are metrics (see topology ref).
+
+\subsection{Variants}
+\subsubsection{Absolute norms}
+$\norm{a} = \norm{|a|}$.
+
+\paragraph*{Monotonicity connection}
+$\norm{.}$ monotone ($|x|\leq |y| \implies \norm{x} \leq \norm{y}$) iff it is absolute.
+
+Pf: if monotone, take $y = |x|$; as $|y| = |x|$ get absoluteness. If absolute: take x; for $\ga \in [0, 1]$, replace $x_{i} \to \ga x_{i}$ to get x', replace $x_{i} \to -x_{i}$ to get x''; $\norm{x'} = \norm{2^{-1}(1-\ga)x'' + 2^{-1}(1-\ga)x + \ga x} \leq 2^{-1}(1-\ga)\norm{x''} + 2^{-1}(1-\ga)\norm{x} + \ga \norm{x} = \norm{x}$; by repetition get $\norm{(\ga_{i}x_{i})} \leq \norm{x}$; thus, for $|x| \leq |y|$: $\norm{x} = \norm{(\ga_{i}e^{i\gth_{i}}y_{i})} = \norm{(\ga_{i}|y_{i}|)} \leq \norm{y}$.
+
+\subsection{Dual norm of pre-norm f}
+Take pre norm $f$, $f^{D}(y) = \sup_{x:f(x) \leq 1} \Re \dprod{x, y}$ : like the matrix norm. This is a norm defined on the dual space of $dom(f)$; so it measures the size of continuous linear functionals operating on $dom(f)$; so it is an operator norm - more precisely a functional norm. It is the maximum value attained by $y(x)$ in the unit ball defined by $f$.
+
+For finite dimensional spaces, dual of dual norm is the original norm. \why
+
+\subsubsection{Normness proof}
++ve definiteness comes from +ve definiteness of $\dprod{}$. $\triangle$ inequality easily shown from linearity of $\dprod{}$.
+
+\subsubsection{Geometric view}
+The greatest inner product with y of any $x$ in the unit ball $\set{x: f(x) = 1}$.
+
+\subsubsection{Importance}
+Plays an important role in describing duality theory in optimization. Also important in describing the subdifferentials of many norms at 0.
+
+\subsubsection{Common dual norms}
+Dual of $\norm{.}_1$ is $\norm{.}_\infty$, and vice-versa: easily from definition.
+
+Dual of $\norm{.}_2$ is itself: from Cauchy Schwartz: $z^{T}x \leq \norm{z}\norm{x}$ is thight.
+
+\paragraph*{Applications}
+Steepest descent method in optimization.
+
+\subsection{Properties}
+\subsubsection{New norms out of old}
+Take norms $f_{1} .. f_{m}$ on F; norm g on R with $g(x) \leq g(x+y)$ (monotonicity); then $\norm{x} = g(f_{i}(x))$ also norm: Monotonicity ensures $\triangle$ ineq.
+
+So, sum/ multiples/ max of norms is a norm.
+
+Take $\norm{}$: $\norm{x}_{T} = \norm{Tx}$ also norm for non singular T.
+
+If vector space finite dimensional, $\norm{.}, \norm{.}'$ equivalent: see vector function properties. So, if vector seq $(x_{k}) \to x$ wrt 1 norm, it converges to the same vector wrt another.
+
+\subsubsection{Convexity of the norm function}
+Follows from homogeneity and $\triangle$ ineq. $\norm{\ga a+ (1- \ga)b} \leq \norm{\ga a} + \norm{(1- \ga)b} = \ga\norm{a} + (1- \ga)\norm{b}$.
+
+\subsubsection{The closed unit ball}
+$\set{x: \norm{x} = 1}$. This is closed and bounded, so compact; has non empty interior; is convex; is symmetric about the origin. Conversely, any region with these properties is unit ball B of the norm $\norm{x} = 1/(\sup_t (tx \in B))$.
+
+
+
+\subsubsection{Isometry for a norm}
+$B: \norm{Bx} = \norm{x}$. Set of isometries form a group: isometry group. \why
+
+\subsubsection{Equivalence of norms in finite dimension}
+$\forall \norm{.}_1, \norm{.}_2: \exists a, b: \forall x: a\norm{x}_1 \leq \norm{x}_2 \leq b\norm{x}_1 $. \why So, one norm can be approximated by another within a factor of b/a.
+
+Any norm can be approximated by a quadratic norm within a factor of $\sqrt{n}$.
+
+\paragraph*{Comaprison of p norms}
+$\norm{x}_{\infty} \leq \norm{x}_{p} \leq \norm{x}_{1}$. $\norm{x}_{1}\leq \sqrt{m}\norm{x}_{2}$: By induction. $\norm{x}_{p} \leq m^{\frac{1}{p}}\norm{x}_{\infty}$.
+
+\subsection{p norm for p atleast 1}
+$\norm{x}_{p} = (\sum |x_{i}|^{p})^{\frac{1}{p}}$.
+
+\subsubsection{Normness proof}
+Only $\triangle$ inequality proof needs some steps.
+
+(Minkowski): $\norm{a + b}^{p} = \sum_{i} |a_{i} + b_{i}||a_{i} + b_{i}|^{p-1} \leq \sum_{i} |a_{i}||a_{i} + b_{i}|^{p-1} + \sum_{i} |b_{i}||a_{i} + b_{i}|^{p-1} \\
+\leq (\norm{a}_{p} + \norm{b}_{p})(\sum_{i}|a_{i} + b_{i}|^{(p-1)(\frac{p}{p-1})})^{\frac{p-1}{p}} = (\norm{a}_{p} + \norm{b}_{p})\frac{\norm{a + b}_p^{p}}{\norm{a + b}_p}$.
+
+\subsubsection{The closed unit ball}
+Progression of shapes: $\norm{x}_{1}$ :rhombus, $\norm{x}_{2}$ :circle, $\norm{x}_{p}$, $\norm{x}_{\infty}$: square. 1 norm is $max_{i \in N} \norm{i}_{i}$.
+
+So, p norm not unitarily invariant. Take x; Ux, where U unitary; this is a combination of rotations and reflections; so projection Ux along various axes is different from that of x; so length differs: visualize with rhombus, square etc..
+
+\subsubsection{2 norm}
+Aka euclidian norm, $\norm{x}_{2} = \sqrt{x^{*}x}$. So, squared euclidian norm, $\norm{x}_2^{2}$ corresponds to $\dprod{a, b}\dfn b^{*}a$.
+
+For complex x: $\norm{x}^{2} = \norm{Re(x)}^{2} + \norm{Im(x)}^{2}$.
+
+\paragraph*{Add orthogonal vectors}
+(Pythagoras theorem) If $\dprod{x, y} = 0, \norm{x+y}_2^{2} = \norm{x}_2^{2} + \norm{y}_2^{2}$. Follows just from definition of the 2 norm.
+
+\subsubsection{1, infty norms}
+$\norm{x}_{\infty}$: Max norm, aka Chebyshev norm. 1 norm: manhattan distance.
+
+\subsection{Lp norms in function spaces Wrt measure p}
+$(\int_X |f(x)|^{p} dv)^{1/p} = (\int_X |f(x)|^{p} p(x)dx)^{1/p}$. This is well defined if $f$ is p-power integrable.
+
+\subsection{\htext{$p \in (0,1)$}{..} non-norms}
+Does not satisfy the triangle inequality. Not a norm, maybe a prenorm.
+
+\subsubsection{Zero (not a) norm}
+$\lim_{p \to 0} \norm{x}_{p}^{p}$; if $0^{0} \dfn 0$: $\norm{x}_{0} = \sum_{i} x_{i}^{0}$: number of non zero elements.
+
+\subsection{Weighted p norm}
+Aka quadratic norm.
+
+Corresponds to Weighted Inner product, W. $A = W^{*}W$ hermitian +ve definite. If W a diagonal matrix: $\norm{x}_{2,W}$, where W stretches x, shaped like ellipse. Sometimes writ as $\norm{x}_{A}$.
+
+\subsection{Non-norm from convex function f}
+(Bregman divergence). $d_f(x, y) = f(x) - f(y) - (x-y)^{T}\gradient f(y)$: Error at $x$ in 1st order approximation of $f$ rooted at y.
+
+Not necessarily a norm: in general, not symmetric. $d_f(x, y) \geq 0$ from gradient inequality.
+
+If $f(x) = \norm{x}_2^{2}: d_f = \norm{.}_2$.
+
+If $f(x) = \sum_{i}x_i \log x_i - x_i$: with -ve entropy term, get (Kullback, Leibler) $KL(x, y) = \sum x_i (\log \frac{x_i}{y_i} - x_i - y_i)$: has relative entropy term. For special case when applied to probability distrib vectors, see probability ref.
+
+\part{Vector functionals}
+\chapter{Functionals and scalar functions over vector spaces}
+\section{Introduction}
+\subsection{Definition}
+Let $dim(V) = d$. Any $f:V \to F$ is called a functional.
+
+If $V$ is a Euclidian space, you have a scalar field: a scalar value attached with every value in the space.
+
+Visualization, topological properties explored in another section.
+
+Gradient of a scalar field is a vector field, obtained by taking derivative at all points.
+
+\subsection{Restriction to a line}
+Take $f: R^{n} \to R$, get $g: R \to R$ defined by $g_{x,u}(t) = f(x + tu)$. Thus the domain of $g$ is dom(f) restricted to a single line in the vector space.
+
+\subsubsection{Importance}
+This is an important way of studying the properties of a functional. For example, the differential function corresponding to $f$ can be defined by means of the differential function of $g$.
+
+\section{Properties}
+\subsection{Superclasses}
+Properties of the more general class of real valued functions is described in the complex analysis survey.
+
+Properties of the more general class of functionals over vector spaces are described in another part of the vector spaces survey.
+
+\subsection{Conjugate of f}
+$f'(y) = \sup_{x \in dom(f)} (y^{T}x - f(x))$. How far below the hyperplane $y^{T}x$ through 0 does f(x) go? Visualize for $f:R \to R$ : $xy$ is a line, take intercept of farthest line which is tangent to f(x) and is parallel to xy.
+
+Easy to make mistakes while finding conjugate: errors in specifying values of $f$ at every point in domain, difficulty in maintaining rigor while maximizing some functions.
+
+Observe: This is affine in terms of y.
+
+\subsection{Algebraic properties}
+\subsubsection{Minimax vs maximin}
+Consider $\min_x \max_y f(x, y)$. This is not always equal to $\max_y \min_x f(x, y)$. Pf: Take binary x, $y$, Consider: $f(x, y) = \mat{1 & 3\\ 4 & 1.5}$.
+
+\subsubsection{Homogeneity with degree a}
+$f(tu) = |t|^{a}f(u)$.
+
+\subsection{Domain: Important domains}
+\subsubsection{Sub-level set}
+$\set{x | f(x) \leq c}$.
+
+\subsubsection{Stationary point}
+Local minima and maxima.
+
+\subsubsection{Critical points}
+Points of inflection, or maxima or minima: f'(x) = 0.
+
+
+\subsubsection{Equivalence}
+For finite dim V, take +ve definite, homogenous, continuous function $f_{1}, f_{2}$, $\exists a, b: af_{1}(x) \leq f_{2}(x) \leq b f_{1}(x)$. Pf: Take $\norm{}_{2}$ unit sphere surface: compact set, $h = f_{2}/f_{1}$; use Weierstrass, take min, max of h as a, b.
+
+\subsubsection{Associated sets: Epigraph and subgraph}
+Given $g: R^{D} \to (0,B)$, can consider subgraph:\\ $\set{(x, t): \forall x \in R^{D}, t \in R:: g(x) \geq t}$; visualize easily for $f:R \to R$: area below curve of $f$. Similar is epigraph.
+
+\section{Topological properties of functionals}
+Consider the properties of the more general class of real valued functions in the complex analysis survey.
+
+\subsection{Visualization}
+\subsubsection{Plot in d+1 dim}
+Need d+1 dimensions. This is $\set{(x, f(x))}$. Even there, can consider restriction to various lines: eg: $f(x) \forall x: x_i = c$.
+
+\paragraph{Tangent hyperplanes to epigraph}
+Take a C-1 smooth point $x_1$. Then, the plot of the first order  \\
+approximation of $f$ at $x_1$,
+$\set{(x, y)| y = f(x_1) + \gradient f(x_1)^T(f(x) - f(x_1)}$ is the tangent hyperplane to $\set{(x, f(x))}$; and $(\gradient f(x_1), -1)$ is the normal to this hyperplane.
+
+For convex $f$, this becomes the supporting hyperplane, a universal lower bound to $f$. This concept can even be extended to non-differentiable points: see section on supporting hyperplanes to convex functionals.
+
+\subsubsection{Contour surfaces in d dim}
+Else, to visualize in $d$ dimensions, can use contour lines corresponding to level sets $f(x) = a$: A 2 dim contour line for 2 dim functional. This is a $d$ dimensional (possibly closed) surface: can view as a relation $x_{d}= h(x_{1}, .. x_{d-1})$. This is the boundary of the sublevel set.
+
+For high-dimensional objects, see topology ref.
+
+Also see geometric properties of the gradient to observe connection between the gradient (and subdifferentials) and sublevel-sets.
+
+\subsection{Bounding steepness}
+Take $f(x_1) - f(x_2) = \gradient f(x_3) (x_1 - x_2)$ using MVT, upper bound $\gradient f(x_3)$, and ye got a lipshcitz function (See toplogy ref).
+
+\subsection{Measure flexibility}
+Aka Rademacher average. Take Rademacher RV $a_{i} \to \set{\pm 1}$.\\
+Given $\hat{R}_{\set{X_{i}}}(F) = E_{a}[\sup_{f\in F}n^{-1} \sum_{i} a_{i}f(X_{i})]$. Sees how well functions in F can match sign of $\set{a_{i}}$ on these points; thence measures complexity/ flexibility of F.
+
+
+\section{Sequences, series of functionals on metric space X}
+Also see topology ref.
+
+Series is just a sequence of partial sums.
+
+\subsection{(Weierstrass) M test}
+Let $|f_{n}| \leq M_{n}$. If $(M_{n})$ converges, $|\sum f_{n}|$ converges: use Cauchy criterion: $\forall \eps, \exists N: m, n > N \implies \sum_{m}^{n} |f_{i}| \leq \sum_{m}^{n} M_{i} \leq \eps$.
+
+\subsection{Space C(X) of continuous bounded complex valued fns on X}
+Take $\norm{f} = \sum_{x \in X} |f(x)|$: positive definiteness, $\triangle$ ineq hold; so this defines a metric on C(X): $d(f, g) = \norm{f-g}$. Like an $\leq |X|$ dimensional vector space.
+
+In context of C(X), $lt_{n\to \infty} f_{n} \to $f$ \equiv f_{n} \to f$ uniformly.
+
+C(X) is a complete metric space. Pf: Take Cauchy sequence in C(X); so $\exists f: f_{n} \to f$; so $f_{n} \to f$ uniformly; thence see $f$ is bounded, continuous; so $f\in C(X)$.
+
+\subsection{f as limit of uniformly convergent sequence of polynomials}
+(Stone, Weierstrass). $f$ continuous. Polynomials $p_{n}$. Express $f$ in terms of the basis functions $p_n$.
+
+\tbc
+
+\chapter{Differential function}
+\section{Definition}
+\subsection{Fixed direction differential fn}
+Aka directional derivative.
+
+Fixing the direction $v$, $D_v(f)$ can be taken to map $x$ to $D_v(f)(x)$. So, $D_v(f)(x): V \to F$ is a constricted version of the differential function $D(f)(x)$.
+
+$df(x; h) = D_h(f)(x)= \lim_{\change t \to 0} \frac{f(x+\change th) - f(x)}{\change t} = \frac{d}{dt}|_{t=0}f(x + th)$. Aka Gateaux differential.
+
+Alternate notation: $\gradient_{h}(f(x)) $ : not the gradient vector, but its applicaiton in a certain direction.
+
+\subsubsection{Affine approximation view}
+This definition of the directional derivative is equivalent to the defining $D_h(f)$ as the function such that the following holds: $t \to 0$, $f(x + th) = f(x) + tD_h(f)(x)$.
+
+\subsubsection{R to R case}
+In this special case, there is just one direction: $1$.
+
+\subsection{Directional differentiability}
+If, at $x$, the directional derivative exists in all directions, $f$ is said to be Gateaux differentiable at $x$.
+
+The differential of $f$ at the point $x$ in the direction $v$ is a function of two variables: $x, v$. We regard $D(f)(x): V \to F$, such that $D(f(x))[v] = \frac{df(x + tv)}{dt}$ is the directional derivative of $f$ at $x$ along $v$.
+
+So, $D(f): V \to L(V, F)$, where $L(V, F)$ is the space of continuous linear functionals $l:V \to F$. The fact that $D(f(x))$ is a linear functional follows from the affine approximation view of the directional derivative.
+
+But, this is unsatisfactory as directional differentiability does not imply continuity. \why
+
+\subsection{Continuous differentiability}
+If at $x$, $\exists a$ such that $\forall c, \norm{f(x+c) - f(x) - a^{T}c} = o(\norm{c})$, then $f$ is differentiable at $x$; and the derivative is $Df(x)[c] \dfn a^{T}c$, which maps $V \to F$. \exclaim{A measure of goodness of affine approximation!} The view $D(f): V \to L(V, F)$ still holds.
+
+Aka Frechet derivative, total derivative.
+
+\subsubsection{Connection to directional differentiability}
+In non pathological cases, both notions of differentiability are equivalent: This comes from applying the polynomial approximation theorem for $g: R \to R$, $f(x + th) \to f(x) + t D_h(f)(x)$.
+
+In the case of continuous differentiability, this follows from definition. In the case of directional differential functions, this can be seen using the polynomial approximation theorem for $f:R \to R$: $f(x + th) \to f(x) + t D_h(f)(x)$ as $t \to 0$.
+
+\subsection{Matrix functionals}
+Similar definition for differential functions for functionals over the vector space of matrices. Eg: See $\gradient tr(f(X))$ in linear algebra ref.
+
+\section{Linearity}
+The differential operator $D:f \to D(f)$ is linear: So $D(f+g) = D(f) + D(g)$: This follows from the affine approximation view  of the differential function.
+
+Note that this is separate from directional linearity.
+
+\section{Connection to partial derivatives}
+We suppose that linearity is established (simple in case of Frechet derivatives).
+
+From linearity, $D(f(x))[v] = \sum_i v_i D(f(x))[e_i]$. This can be written as a vector product: $D(f(x))e_i$, with D(f(x)) being a row vector. When written as a column vector, it is denoted by $\gradient(f(x)) $, in which case, $\gradient_v f(x) = \gradient(f(x))^{T}v$.
+
+\subsection{Notation}
+$\gradient f(x) := \frac{df(x)}{dx} := (\frac{\partial f(x)}{\partial x_{1}}, \dots) = (\partder{f(x)}{x_{1}}, ..)$.
+
+\subsubsection{Note about representation}
+Note that, as explained there, 'gradients' are defined wrt to vectors - without differentiating between their representation as row or column vectors. Such representations are secondary to the correctness of their values, and can be altered as necessary for convenience of expression.
+
+\subsection{D(f) as a Vector field}
+Hence, the derivative operator $D(f)(x)$ can be viewed as a vector field, such that $D(f)(x) = \gradient f(x)$, a vector. However, often, following the convention used for vector to vector functions, $D(f)(x)$ is denoted by the row vector $\gradient f(x)^{T}$.
+
+\subsection{C1 smoothness}
+$f \in C^{1}$ if $\partder{f}{x_i}$ exists. Similarly, $C^{n}$, even $C^{\infty}$ smoothness defined.
+
+\subsubsection{Differentiability vs smoothness}
+Gradient's existence does not guarantee differentiability; derivative must exist in all directions - in an open ball around $c$.
+
+\subsection{In contour graph}
+\subsubsection*{Perpendicular to contours}
+$\gradient f$ is $d$ dimensional vector. Always $\perp$ to every tangent to the contour of $f$ in $d$ dimensional space: else could move short distance along contour and increase value of f; or take $x$ and $x + \eps$ on contour, take Taylor expansion: $f(x + \eps) = f(x) + x^{T}\gradient f(x)$; thence get $x^{T}\gradient f(x) = 0$.
+
+\subsubsection*{Sublevel sets and gradient direction}
+Consider level-sets $f(x) = 0, f(x) = 0.1, f(x) = 0.2$. $\gradient f(x)$ will be oriented towards increasing $f(x)$, that is, away from the interior of the sublevel set $\set{x: f_i(x) \leq 0}$. So, points outwards if convex.
+
+\subsection{In the plot}
+Take the plot $(x, f(x))$. Then $\gradient f(x)$, if it exists, is sufficient to specify the tangent hyperplane to the plot at x: see subsection on tangent hyperplanes.
+
+\section{Subgradients at convex points}
+Extension of the gradient to non-differentiable functional f(x). See convex functional section.
+
+\section{Differential operator}
+Its general properties, including linearity, product rule and the chain rule, are considered under vector functions.
+
+\subsection{Derivatives of important functionals}
+For simplicity in remembering the rules it is easier to think in terms of the Differential operator, rather than the gradient (which is just $Df(x)^{T}$).
+
+\subsubsection{Linear functionals}
+$DAx = A : \gradient Ax = A^{T}, \gradient b^{T}x = b$ from Df(x) rules.
+
+\subsubsection{Quadratic functionals}
+$\gradient x^{T}Ax = (A^{T} + A )x$: \pf{expanding $(x+\del x_{i})^{T}A(x+\del x_{i})$.} Alternate \pf{$D(x^{T}Ax) = x^{T}A + D(x^{T}A) x$ (product rule) $ = x^{T}A + x^{T} D(A^{T}x) = x^{T}(A + A^{T})$}
+
+If $A = A^{T}$: $D(x^{T}Ax) = x^{T}(2A)$.
+
+\section{Higher order differential functions}
+\subsection{Definition}
+\subsubsection{Linear map from V}
+Take the differential functional $D(f)(x):V \to L(V, F)$. $L(V, F)$ is itself a vector space, and the space of continuous linear maps $L(V, L(V, F))$ is well defined. So, we can consider the differential function of $D(f)$. It is $D^2(f)(x): V \to L(V, L(V, F))$.
+
+Similarly, kth order differential function $D^{k}(f)(x)$ can be defined in general.
+
+Differential operators, of which $D^{k}f(x)$ are special cases, for general functions between vector spaces are described elsewhere.
+
+\subsubsection{Directional higher order differential fn}
+With $u$ fixed, $D_u(f)(x) = D(f)(x)[u]$ can be viewed as a  functional: $D(f):V \to F$. Once can consider the differential function of $D_u(f)$. Applying the definition, will be $D(D_u(f)):V \to L(V, F)$ such that $D(D_u(f))(x)$ is specified by $D(D_u(f))(x)[v] = lt_{\change t_v \to 0} \frac{D_u(f)(x + \change t_v v) - D_u(f)(x)}{\change t_v} = \\
+lt_{\change t_v, \change t_u \to 0} \frac{f(x + \change t_v v + \change t_u u) - f(x + \change t_u u)- f(x + \change t_v v ) + f(x)}{\change t_u \change t_v} \\
+= \frac{\partial^{2} }{\partial^{2} t_u t_v}|_{t_u, t_v = 0} f(x + t_u u + t_v v)$.
+
+\subsubsection{Multi-Linear map from \htext{$V^k$}{V-k}}
+Note that, as defined here, $D^2(f)(x)[u]$ is a continuous linear functional, which when provided another argument $D^2(f)(x)[u][v]$ maps to a scalar.
+
+So, using an isomorphism, it is convenient to view $D^2(f)(x): V^{2} \to F$.
+
+Hence, $D^2(f): V \to L^{2}(V, F)$, where $L^{k}(V, F)$ is the space spanned by k-linear maps $g:V^{k} \to F$. So, $D^2(f)$ maps each point $x$ to a bilinear map.
+
+Similarly, kth order differential functions can be defined in general.
+
+\subsection{Properties}
+\subsubsection{Symmetry}
+$D^{k}f(x)$ is symmetric, except in pathological cases which can be eliminated by a good definition. This may follow by looking at the form of $D^{2}f(x)[u, v]$ described earlier: $lt_{t_i \to 0} \frac{f(x + \sum t_i v_i)}{t_1 t_2}$.
+
+\subsubsection{Wrt basis vectors}
+The notation $D^{2}f(x)[e_i][e_j] = D_{ij}f(x)$ is used.
+
+\subsection{Tensor representation}
+$D^{2}f(x)[u][v] = \sum_{i, j} u_i v_j D_{i, j}^{2}f(x)$. \pf{By the distributive property of multilinear functions. This can also be proved by applying the chain rule, the directional linearity of the differential function and the linearity of the differential operator.}
+
+Similarly $D^{k}f(x)$ can be completely specified using kth order derivatives along the basis vectors.
+
+\subsubsection{2nd order case}
+In the 2nd order case, this is aka Hessian matrix. $H_{i,j} = D_{i}D_{j}f(x)$: Always symmetric. Aka $\gradient^{2} f(x) = \frac{\partial^{2} f(x)}{\partial x \partial x^{T}} = D \gradient f(x)$, using the notation for derivatives of general vector to vector functions.
+
+This matrix is important in tests for convexity at a critical point.
+
+\section{Polynomial approximation}
+See the 1-D case in complex analysis ref.
+
+Restrict $f$ to a line $g(t) = f(a + t(x-a))$. The polynomial approximation of this function leads us to: 
+$f(a+v) = f(a) + \sum_{k \in ..n-1}\frac{1}{k!}D^{k}f(x)[v]^{k} + \frac{D^{n}f(c)[v]^{n}}{n!}$ for some $c \in hull(a, a+v)$ in the line segment.
+
+$D^{k}f(a)[v]^{k}$ is often written using the product of k vectors with a k-th order tensor.
+
+\subsection{Polynomial approximation series}
+Aka Taylor series. Similarly, in the limit get: $f(x) = \sum_{|a|} D_a f(a)$. Here we have used the multi-index notation described below.
+
+\subsubsection{Multi-index notation}
+Take $b \in Z_+^{n},\ x \in V$. Then, $b! \dfn \prod b_i !,\ D_{b} \dfn D_{1}^{b_1}.., x^{b} = \prod x_i^{b_i}$.
+
+\subsection{Connection with extreme values}
+See optimization ref.
+
+\chapter{Convexity and functionals}
+\section{Convex functional f}
+Aka concave upwards, concave up or convex cup.
+
+\subsection{Domain, definitions}
+dom(f) always a convex set. Visualize as a cup. Epigraph of $f$ (see analysis of functions over fields ref) is a convex set.
+
+\exclaim{When they say 'convex function', they mean 'convex functional'.}
+
+\subsubsection{Smoothness along line segment in the domain}
+Equivalent definition (easy pf): Convex function: $f(tx + (1-t)y) \leq tf(x) + (1-t)f(y)$: comparing f(some pt on segment [x, y]) with similar pt on secant between f(x) and f(y).
+
+\paragraph*{Many points extension}
+By induction, can extend this to any convex combintation of n points. Jensen's inequality (see probability ref): simple extension of defn.
+
+\paragraph*{Convex sublevelsets}
+The level set $\set{x: f(x) \leq \ga}$ is a convex set: take $f(x), f(y) \leq \ga$; take convex combo z, see $f(z) \leq \ga$. This is important in convex optimization!
+
+
+\subsubsection{Extension of domain}
+For $x \notin dom(x): \hat{f}(x) \dfn +\infty$. Preserves $f(tx + (1-t)y) \leq tf(x) + (1-t)f(y)$, Simplifies notation. Similar extension for concave functions.
+
+\subsection{Strict and strong convexity}
+\subsubsection{Strict convexity}
+A cup, not a hyperplane: imposing curvature. $f(ax + (1-a)x) < af(x) + (1-a)f(x) \forall a \in [0, 1]$.
+
+\subsubsection{Strong convexity with constant m}
+$\gradient^{2} f(x) \succeq mI$. Implies strict convexity: consdier 2nd order approximation of convex function $f$.
+
+Restricted strong convexity at t wrt C when $d$ restricted to $d \in C$.
+
+\subsection{f restricted to a line}
+Take $f:R^{n} \to R$. $f$ convex iff $\forall t: g(t) = f(x + tv)$ is convex. $x + tv$ is a line in the domain. Good for showing convexity!
+
+\subsection{Gradient tests}
+\subsubsection{First order condition}
+If $f:R \to R$ differentiable, $f$ convex iff f'(x) non decreasing: $f(y) \geq f(x) + f'(x)(y-x)$. Aka first order condition.
+
+Pf: If $f$ convex, taking the convex combination of y and x: $\forall t: f(x + t(y-x)) \leq (1-t)f(x) + tf(y)$. So consider $f(y) \geq f(x) + \frac{f(x + t(y-x)) - f(x)}{t}$as $t\to 0$.
+
+Extend to $f:R^{n} \to R$ by considering $f$ restricted to a line: $f(y) \geq f(x) + \dprod{\gradient f(x),(y-x)}$. The RHS is the supporting hyperplane to the epigraph of $f$.
+
+\subsubsection{First order condition for non-smooth f}
+The subdifferential set $\subdifferential f(x) \neq \emptyset$ for any $x$.
+
+\subsubsection{Second order condition}
+So, if $f(x)$ twice differentiable, $f$ convex iff $f''(x) \geq 0$ ie: $f'$ non decreasing. By techniques similar to first order condition, $f$ convex if $\gradient^{2}f(x) \preceq 0$. Aka second order condition.
+
+\subsection{Supporting hyperplane to the epigraph}
+\subsubsection{Differntiable f}
+See description of tangent hyperplanes to epigraphs in the 'topological properties of functionals' subsection. For differentiable $f$, the tangent hyperplane at $(x_1, f(x_1))$ is specified by $(\gradient f(x_1), -1)$. \textbf{Pf}: From first order condition: $f(y) \geq f(x) + f'(x)(y-x)$.
+
+So, $f(x) + f'(x)(y-x)$ is a global lower bound on $f$.
+
+\subsubsection{Non differentiable convex f: subdifferentials!}
+Can extend the idea of a gradient to non-differentiable convex $f$. The \textbf{subdifferential set} $\subdifferential f(x) = \set{z: \forall x, f(y) \geq f(x) + \dprod{z,(y-x)}}$.
+
+Each $z \in \subdifferential f(x)$ is a \textbf{subgradient}, a \textbf{generalization} of the concept of gradient. $(z, -1)$ is a supporting hyperplane to the epigraph of $f$ at $(x, f(x))$. Also, $f(x) + \dprod{z,(y-x)}$ is a global lower bound on $f$.
+
+$\subdifferential f(x)$ is a closed, convex set.
+
+If $x \in int(dom(f))$, $\subdifferential f(x)$ is non-empty and bounded.
+
+\paragraph*{Non subdifferentiable functionals}
+Eg: $-\sqrt{x}$: supporting hyperplane at (0, 0) is vertical.
+
+\subsection{Supporting hyperplanes to sublevel sets}
+See the description of the connection between contour graphs and the gradient in the section on derivatives of functionals. At differentiable points, gradients define tangent hyperplanes to the contour; for convex functionals, these are also supporting hyperplanes to the sublevel set.
+
+At non differentiable points, the gradient can be substituted with the subgradient.
+
+\subsection{Finding Subdifferentials}
+First identify the non-differntiable point, then just apply the definition.
+
+If $f$ is differentiable, $\subdifferential f(x)$ contains just the gradient.
+
+\subsubsection{Unlike finding gradients}
+Where $f$ is differentiable, to find $\gradient f(x)$, once can merely compute $\partder{f(x)}{x_i} \forall i$, and arrange the result in a vector.
+
+For finding the subdifferential of $f$ at a non-differentiable point, this does not work. Taking the OR of conditions describing subdifferentials of restrictions of a function to individual axes yields a superset of that function's subdifferential! For example, applying this flawed technique to finding $\subdifferential \norm{0}_2$ yields the unit ball of $\norm{x}_\infty$. \exclaim{Can't do it one coordinate at a time.}
+
+\subsubsection{Of non-negative linear combo}
+Take $f(x) = ag(x) + a' r(x);\ a, a' \geq 0$. $\subdifferential f(x) \supseteq \set{z' + z: z' \in \subdifferential g(x) z \in \subdifferential r(x)}$: applying dfn.
+
+\paragraph*{Of penalties plus regularizers}
+Commonly encountered in statistics and modelling.
+
+If $f(x) = g(x) + r(x)$ is convex, g is differentiable but not r: $\subdifferential f(x) = \set{\gradient f(x) + z: z \in \subdifferential r(x)}$.
+
+eg: Take $f(x) = g(x) + l\norm{x}_1$, where g is convex. Here, \\
+$\subdifferential f(x) = \set{\gradient g(x) + lz| \forall i: x_i \neq 0, z_i = sgn(x_i); \texttt{ else }: |z_i| <= 1}$.
+
+\subsubsection{Of f(Ax + b)}
+$\subdifferential f(Ax + b) = A^{T} \subdifferential f(x)$. Pf: $\subdifferential f(Ax + b) = \\
+\set{t': \forall d: f(Ax + b + Ad) \geq f(Ax + b) + \dprod{t', d}} \\
+= \set{A^{T}t: \forall d: f(Ax + b + Ad) \geq f(Ax + b) + \dprod{A^{T}t, d}} \\
+= A^{T} \subdifferential f(x)$.
+
+So, linear shift $x \to x+b$ does not change the subdifferential.
+
+\subsubsection{Of max of functionals}
+Take $f(x) = \max \set{f_1(x) .. f_m(x)}$. Take $act(x) = \set{i: f_i(x) = f(x)}$; then $\subdifferential f(x) = conv(\union_{i \in act(x)} \subdifferential f_i(x))$.
+
+This property can be used to find subdifferential of the $\infty$ norm.
+
+\subsubsection{Subdifferentials of norms}
+For any norm, subdifferential at 0 is just the unit ball of the corresponding dual norm!
+
+\pf{$\subdifferential \norm{0} = \set{z: \forall d: \norm{0+d} \geq \norm{0} + \dprod{d, z}} = \set{z: \forall d: \norm{d} \geq \dprod{d, z}} \\= \set{z: \forall \norm{d} = 1: 1 \geq \dprod{d, z}} = \set{z: 1 \geq \norm{z}^{D}}$.}
+
+For $\norm{x}_\infty$, many other points are non differentiable. Using the form of $\subdifferential \max f_i(x)$, we get: $x\neq 0: \subdifferential \norm{x}_\infty = conv(\set{sgn(x_i)e_i: \forall |x_i| = \norm{x}_\infty})$.
+
+\subsection{Operations which preserve convexity}
+What preserves the curvature? Let $f$, g be convex.
+
+\subsubsection{Sum, max}
+$a_1 f(x)+ a_2 g(x): a_i \geq 0$ convex.
+
+max(f, g)(x), $sup_{f \in F}f(x)$  convex. Eg: $\sup_{c \in C} \norm{c-x}, \ew_max(A)$. This is widely used: eg: concavity of dual function, conjugate function.
+
+\subsubsection{Minimization over some dimensions}
+Take f(x, y) convex in both $x$ and $y$, C a convex set. From defn, $\inf_{y \in C} f(x, y)$ also convex.
+
+\subsubsection{Composition with affine transform}
+If f(x) is convex, so is g(x) = f(Ax+b): from defn; Even concavity preserved.
+
+\subsubsection{Other compositions}
+Take $h:R^{k}\to R$ convex. If $g:R^{n} \to R^{k}$ componentwise convex, $\hat{h}$ also componentwise non-decreasing, h(g(x)) convex: from defn. Also, if g concave, $\hat{h}$ also componentwise non-increasing h(g(x)) convex.
+
+\subsubsection{Transformations}
+Perspective of a functional (not same as perspective fn): See \cite{cvx_boydVan}.
+
+conjugate of $f$ also convex: supremum of affine functions.
+
+
+\subsection{Important instances}
+\subsubsection{In R}
+Affine functional: ax + b (also concave, so linear).
+
+Exponential $e^{ax} \forall a$.
+
+Powers $x^{a} \forall a \notin (0,1)$.
+
+Negative entropy: $x \log x$.
+
+\subsubsection{Matrix functionals}
+$f(Y) = \log \det Y; \gradient f(Y) = Y^{-1}$ \why.
+
+\subsubsection{Log sum exponents}
+$f(x) = \log \sum e^{x_i}$ is convex: its Hessian $H \succeq 0$ (can't simply use composition rules!). Pf: Let $z_i = e^{x_i}$; then $\gradient f(x) = (\sum_i z_i)^{-1}z$, Hessian is $H = (\sum_i z_i)^{-2}((\sum_i z_i)diag(z) -zz^{T})$. $(\sum_i z_i)^{2}x^{T}Hx = (\sum_i z_i)(\sum_i x_i^{2}z_i) - (x^{T}z)^{2}$. Take $a_i = z_i^{1/2}, b_i = x_i z_i^{1/2}$, use Cauchy schwartz to see $x^{T}Hx \geq 0$.
+
+So, its composition with Affine transformation: \\$\log \sum e^{a_i^{T}x + b_i}$.
+
+\paragraph*{Importance}
+The convexity of these functionals is important because they are used to specify the -ve log likelihood functions of exponential families of distributions, and they need to be minimized during maximum likelihood estimation.
+
+\subsubsection{Other examples}
+Norms. Each component of an affine function: $(Ax + b)_i$.
+
+\subsubsection{Convex quadratic functionals}
+Like this: $f(x) = x^{T}Ax + hx + c$, with $A \succeq 0$. Many level sets are ellipsoids.
+
+\section{Other Functional-classes defined using convexity}
+\subsection{Concave functionals}
+Concave function: -f is convex, domain is still convex.
+
+Any affine linear function y = ax+b is both concave and convex.
+
+f(x, y) = xy not simultaneously convex in $x$ and y: have a saddle point graph; but individually convex in $x$ and y.
+
+\subsection{Linear functionals}
+These are both convex and concave.
+
+\subsection{Quasi-convex functionals}
+\subsubsection{Convex sublevel sets}
+Any function with convex domain, convex sub-level sets. Eg: $|x|$. Similarly, quasi-concave, quasi-linear functionals are defined.
+
+So, can replace each sublevel set with a sublevelset of a convex functionals. This is used in quasi-convex programming.
+
+\subsubsection{Smoothness along line segment in the domain}
+$\forall t \in [0, 1]: f(tx + (1-t)y) \leq \max\set{f(x), f(y)}$: else $\max\set{f(x), f(y)}$ sublevel-set of $f$ would not be convex. So, there can't be local hills or craters, but there can be plateaus on the way down to any of the global minima.
+
+\subsubsection{First order condition}
+f quasiconvex iff $f(y) \leq f(x) \implies \gradient f(x)^{T}(y-x) \leq 0$ : otherwise, could take a small step along the segment connecting $x$ and $y$, and value of $f$ would be greater than f(x). Visualize with contour maps in case of 2D functional.
+
+\subsubsection{Importance}
+Sublevel sets of quasi-convex functions, being convex, can be used to specify feasible region of convex optimization program.
+
+\subsection{Log concave functional f}
+log $f$ is concave.
+
+\subsubsection{Importance}
+Many probability distributions log concave.
+
+\subsubsection{Properties}
+Directly from concavity of log f: $f(tx + (1-t)y) \geq f(x)^{t}f(y)^{1-t} $, if $f$ differentiable: $f(x)\gradient^{2}f(x) \preceq \gradient f(x) \gradient f(x)^{T}$.
+
+$g(x) = \int f(x, y)dy$ is also log concave, but sum of log concave functionals not necessarily log concave.
+
+Convolution of $f$ also log concave.
+
+\chapter{Homogenous forms}
+\section{As Polynomials}
+Homogenous Forms refer to homogenous polynomials of degree k. They can be viwed as $f:V^{k} \to F$.
+
+They can be written as Tensor vector products, as in the case of quadratic forms.
+
+\subsection{Importance}
+Differential functions of order $k$ are actually homogenous forms.
+
+\section{Quadratic form}
+\subsection{Representation}
+$x^{*}Bx = \sum_{i,j} B_{i,j}x_{i}x_{j}$.
+
+Reformulation: $tr(x^{*}Bx) = tr(Bxx^{*})$.
+
+\subsection{Symmetrification}
+If $x^{*}Bx \in R$: As $B = H+ H' = \frac{B+B^{*}}{2} + \frac{B-B^{*}}{2}$, skew hermitian part can be ignored: $x^{*}Bx = x^{*}Hx$.
+
+\subsection{Connection to triple matrix product}
+Similarly, in D = ABC has $D_{i,j} = a_{i,:}Bc_{i}$.
+
+\section{Generalizations}
+\subsection{Monomial}
+$f(x) = c \prod x_i^{a_i}$.
+
+\subsection{Posynomial}
+Sum of monomials. Used to define geometric programming.
+
+
+\chapter{Other Important functional classes}
+\section{Important functionals}
+\subsection{Radial basis functionals}
+$f_{c}(x) = g(\norm{x - c})$. Gaussian radial basis function is used to define the Gaussian kernel.
+
+\subsection{Barrier functional}
+$f(x) \to \infty$ as $x \to bnd(dom(f))$. Eg: $\log (1-x)$.
+
+Used to charactarize feasible region in optimization problems. Any set in $R^{n}$ is the domain as a barrier function.
+
+\section{Kernel function k}
+Implicitly (perhaps non-linearly) map $x$ to $\ftr(x)$ and give $\dprod{x, x'}$ in that space.
+
+\subsection{Importance}
+See kernel trick in statistics ref.
+
+\subsection{Kernel fn}
+$k(x, x') = \ftr(x')^{T} \ftr(x)$: This can be -ve, but $k(x, x) \geq 0$ for norm notion in ftr space: k must be +ve semi-definite. So its Gram matrix K whose elements are $k(x_{n}, x_{m})$ must be +ve semidefinite for all choices of $\set{x_{n}}$.
+
+\subsubsection{Association with kernels of integral transforms}
+See functional analysis ref. Integral transform: $T_{K}f(s) = \int_{x_{1}}^{x_{2}}K(x,s)f(x)dx$. Inner product $\int f(x)g(x)dx = \sum_{s,t} f(s)g(t)\int K(x,s)K(x,t)dx$: akin to inner product defined by gram matrix, which describes inner products between various basis vectors in the kernel space.
+
+\subsection{Kernel properties}
+Linear kernel: $k(x, x') = x^{T}x'$. Stationary kernel: $k(x, x') = k(x-x')$; Homogenous kernel: $k(x, x') = k(\norm{x - x'})$.
+
+\subsection{Some kernels}
+Polynomial kernel (inhomogenous): $(\dprod{x, x'}+1)^{d}$; homogenous: $(\dprod{x, x'})^{d}$.
+
+Hyperbolic tangent: $tanh(\dprod{kx,x'}+c)$ for some $k>0, c<0$.
+
+\subsubsection{Gaussian kernel}
+Using gaussian radial basis function:\\
+ $k(x,x') = e^{-\norm{x - x'}^{2}/c}$. Everything mapped to the same quadrant in the associated feature space, as $k(x, x') \geq 0$.
+
+\section{Self concordance}
+\subsection{Definition}
+\subsubsection{R to R functions}
+$|D^{3}f(x)| \leq 2 D^{2}f(x)^{3/2}$. This condition arises out of the need to bound the error term in the quadratic approximation to the functional $f$.
+
+\subsubsection{Functionals: restriction to a line}
+Functional $f$ is self concordant if $f$ restricted to every line is self concordant.
+
+\subsection{Examples in R}
+Linear, quadratic functions, -log $x$.
+
+\subsection{Invariance to operations}
+Let $f$ be self concordant (sc).
+
+If $a>1, af(x)$ also sc. $f(Ax +b)$ also sc.
+
+\subsection{Importance}
+Any convex set is the domain of a self concordant barrier functional.
+
+\part{Vector functions and relations}
+\chapter{Vector-valued functions}
+\section{Functions across vector spaces}
+$(y_{1} \dots) = f(x_{1}, \dots): C^{n} \to C^{m}$.
+
+Called Operators on vector space by viewing vectors as functions.
+
+If V is a Euclidian space, you have a vector field.
+
+Also see functions over convex and affine spaces.
+
+\subsection{Functional sequence view}
+An important way to view a vector function is as a sequence of vector functionals. Thus, many properties of vector functions can be easily understood in terms of the properties of functionals. For example, the differential function is defined by combining differential functions corresponding to the constituent functionals.
+
+\section{Properties}
+Also see analysis of functions over fields.
+
+\subsection{Topological properties}
+For properties which arise when viewed as a metric space, see topology ref. Continuity properties of functions carry over from the continuity properties of functionals.
+
+\subsection{Linearity}
+See subsection on linear functions.
+
+\subsubsection{Bilinearity}
+Bilinear function: $f(a+b, c) = f(a, c) + f(b, c)$: if ye hold one ip fixed, ye get linearity wrt other var.
+
+Eg: $f(x,y) = xy$.
+
+Similarly, multilinearity is defined.
+
+\paragraph*{Distributive law}
+Just like $xy$, the distributive law holds for all multilinear functions. \pf{Easy to see for bilinear function. The multilinear case then follows by induction.}
+
+\subsection{Generalized convexity}
+Consider inequalities defined by a pointed cone. If $f(tx + (1-t)y) \preceq tf(x) + (1-t)f(y)$, $f$ is convex. Many properties analogous to convexity of functionals, similarly proved. Epigraph of $f$ is convex. Sublevel-sets of $f$ are also convex.
+
+\chapter{Differential function}
+Aka derivative.
+
+\section{Directional differential function at x}
+This, with the various concepts of the differentiability, is simply defined using the sequence of  directional derivatives of the corresponding functionals. See the section on functionals' derivative for details.
+
+\section{Derivative matrix}
+\subsection{Motivation using directional derivatives}
+For every functional $f_i(x)$, we have $D(f_i)(x)[v] = \dprod{\gradient f_i(x), v}$. So, this single functional $D(f_i)(x)$ is the row vector from the functional case.
+
+\subsection{Arrangement as rows}
+So, due to the definition of the differential function of vector valued functions, $D(f)(x)[v] = Jv$, where $J_{i, :} = D(f_i)(x)$. So, $D(f)(x)$ is completely specified by $J$, which may remind one of the fact that every linear operator can be represented by a matrix vector product.
+
+This is aka Jacobian matrix. Notation: $J_f(x) = Df(x) = \partder{(y_{1} \dots)}{(x_{1} \dots)}$: $J_{i,j} = \partder{y_{i}}{x_{j}}$.
+
+\subsection{Note about dimensions}
+As explained in the case of derivatives of functionals, representations are secondary to the correctness of their values, and can be altered as necessary for convenience of expression. One must however pay attention to them to be consistent with other entities in the same algebraic expression.
+
+\section{Differential operator}
+Linearity follows from linearity of functional derivatives.
+
+\subsection{Row-valued functions}
+Sometimes, one encounters a function whose component functionals are arranged as a row vector $(f(x))^{T}$, rather than as a column vector $f(x)$. Though the actual derivative is the same, for the sake of consistency (eg: when it one wants to apply the product rule: $(x^{T}A)x$ and consider $D(x^{T}A)$), one can simply compute $[D_x(f(x))]^{T}$.
+
+\subsection{Product of functions}
+From scalar functional derivative product rule: $D_x f(x)^{T}g(x) = (D_x f(x))^{T} g(x) + f(x)D_x g(x)$. Note that this results in a column vector.
+
+\subsection{Composition of functions: chain rule}
+\subsubsection{Directional differential functions}
+Take $h(x) = g(f(x))$. Then $Dh(x)[v] = D(g)[f(x)]D(f)[v]$.
+
+\pf{We want $Dh(x)$ such that $lt_{t \to 0} g(f(x+tv)) = g(f(x)) + tDh(x)[v]$. We get the result using similar definitions for small $t$: $g(f(x+tv)) = g(f(x) + tD(f)(x)[v]) = g(f(x)) + tD(g)[f(x)]D(f)(x)[v]$}
+
+\subsubsection{In matrix representation}
+In terms of derivative matrices, this is a matrix product: $D(g)[D(f)(x)[v]] = J_g(f(x)) J_f(x) v$! Note that order matters: first differentiate wrt outer function, then wrt inner function.
+
+\exclaim{Observe how the dimensions match perfectly: for functional (function) compositions!}
+
+\subsection{Linear and constant functions}
+$D(Ax)[v] = Av$, and $D(Ax) = A$: from the affine approximation definition of a derivative. $D(k) = 0$.
+
+\section{Non-triviality of inversion}
+COnsider $f(x) = Mx$.
+
+If J is square and M is invertible: $J_{M^{-1}} = \partder{(x_{1} \dots)}{(y_{1} \dots)} = J_{M}^{-1}$: From inverse function thm \why. So, in general, $\partder{y_{j}}{x_{i}} = J_{j, i} \neq \frac{1}{\partder{x_{i}}{y_{j}}} = 1/J^{-1}_{i, j}$ unlike 1-D eqn $\frac{dx}{dy} = \frac{1}{\frac{dy}{dx}}$.
+
+\chapter{Notable types}
+\section{Functions over N: Sequences of vectors}
+Many properties carry over from sequences on R or C. See analysis of functions over fields ref.
+
+\subsection{Convergence}
+The limit corresponds to the limit of projection sequence in each dimension. Sums, inner products, scalar multiples of convergent sequences converge.
+
+(Bolzano, Weierstrass): Every bounded sequence has a subsequence which converges.
+
+\section{Curve}
+Continuous $f:R \to X$, where X is a topological space.
+
+\subsection{Plane curves}
+A curve in the Euclidian plane.
+
+Affine plane over field $F_{q}$: A 2 D affine space.
+
+\subsubsection{Elliptic curve}
+A plane curve with the equation $y^{2} = x^{3} + ax + b$. The set of points on this curve, with the point at $\infty$ form a commutative additive group. $\infty$ point is 0.
+
+\subsubsection{\htext{$(E(F_{p}), +)$}{..}}
+If defined over an affine plane over field $F_p$, it is a finite group. 0 is not in affine plane. (Hasse) Number of points in the group is close to the size of $F_p$. \why
+
+For use in cryptography, see cryptography ref.
+
+\section{Other V to V functions}
+\subsection{Linear function}
+$f(ax + by) = af(x) + bf(y)$. Aka linear maps/ transformations. Preserves linear combinations of $x, y$. Note that linear functions do not include affine functions.
+
+Equivalent to matrix multiplication $Ax$: see other section. See linear algebra ref.
+
+
+\subsection{Generalized projection operation}
+Take $A \subseteq V$, some norm: $\norm{.}$. $P_A(u) = argmin_{v \in A} \norm{u-v}$.
+
+\subsection{Perspective function}
+$P:R^{n+1} \to  R^n : P(x, t) = x/t$, $dom(P) = \set{(x, t): t>0}$: note domain. Preserves convexity in images, inverse images.
+
+\subsection{Linear fractional fn}
+$f(x) = \frac{Ax+b}{c^{T}x +d}$, $dom(x) = \set{x: c^{T}x +d>0}$: composition of affine and persepctive functions..
+
+\subsection{Affine functions between vector spaces}
+Aka affine \\
+transformation/ map. \exclaim{Linear transformation followed by translations.} Writeable as $ y= Ax + b$; or as $y' = \mat{y \\ 1} = \mat{A & b\\ 0  & 1} \mat{x \\ 1} = Mx'$, a linear transformation in a higher dimension space.
+
+Somewhat preserves all affine combinations: $M(ax + (1-a) x') = aMx+(1-a)Mx' = y$ with last component in y being 1.
+
+Invertible if A is invertible.
+
+\subsection{Soft-thresholding operator}
+Aka Winsorization. $f(v, l)_i = [v-l_i]_+$. This operator is often used in describing solutions to $l_\infty$ regularized regression problems.
+
+\chapter{Relations over vector spaces}
+\section{Majorization}
+Take $a, b \in C^{m}$, rearrange in descending\\
+ order to get $\set{a_{[i]}}, \set{b_{[i]}}$; and in ascending order to get $\set{a_{(i)}}, \set{b_{(i)}}$. $a \oleq b$ (b majorizes a) if $\sum_{i=1}^{m} a_{i} = \sum_{i=1}^{m} b_{i}, \sum_{i=1}^{k}a_{[i]} \leq \sum_{i=1}^{k}b_{[i]} \forall k$. $\equiv$ notion from using ascending order and saying a majorizes b.
+
+\subsection{Interleaving}
+If a majorizes $b \in R^{n}$, $\exists g \in R^{n-1}$ interleaved among a such that g majorizes $b' = b_{1:n-1}$.
+
+Pf: True for 2; suppose $n \geq 2$; take $d \in R^{n-1}$ interleaved among a (ineq A) with $\forall k \in [1, n-2]: \sum_{i=1}^{k} d_{(i)} \leq \sum_{i=1}^{k} b_{i}$ (ineq B); take their set D; $a' = a_{1:n-1}\in D$, D bounded, closed: so compact; D convex; $\norm{a'}_{1} \leq \norm{b'}_{1}$; take $d' = argmax_{d \in D} \norm{d}_{1}$, set $g(t) = \norm{ta' + (1-t)d'}_{1}$ is continuous over [0,1]; if $\norm{d'}_{1} \geq \norm{b'}_{1}$, $\exists t: g(t) = \norm{b'}_{1}$. To show $\norm{d'} \geq \norm{b'}$: if all ineq B are strict, all of ineq A must be equalities: else $\norm{d'} \neq max_{d} \norm{d}$: then, $\norm{a_{2:n}}\geq \norm{b'}$; if some ineq in ineq B is equality, take r = largest k for which this holds; then $\sum_{i}^{r}d'_{i} = \sum_{i}^{r} b_{i}$, $\forall k> r: d'_{k} = a_{k+1}$; thence again get $\norm{d'} \geq \norm{b'}$.
+
+\subsection{Connection with stochastic matrices}
+b majorizes a iff $\exists$ doubly stochastic S: $a = Sb$. Lem 1: If b maj a, can make real symmetric $B = Q\EW Q^{*}$ with diag a and ew b; B is normal matrix, so can say a = Sb for doubly stochastic S. Lem 2: Take a=Sb; as PSP' remains stochastic with permutation matrix ops P, P', wlog assume a, b in ascending order; take $w_{j}^{(k)} = \sum_{i=1}^{k}s_{i,j}$, with $\sum_{i=1}^{n}w_{j}^{(k)} = k$; see $\sum_{i=1}^{k} (a_{i} - b_{i}) = \sum_{j=1}^{n}w_{j}^{(k)}b_{j} - \sum_{i}^{k} b_{i} + b_{k}(k - \sum_{j=1}^{n} w_{j}^{(k)}) \geq 0$.
+
+So, by Birkhoff, b maj a iff $a = Sb = \sum_{i}p_{i}(Pb)$.
+
+\subsection{Weak majorization}
+Weak majorization ($\ogeq$) if $\sum_{i=1}^{m} a_{i} = \sum_{i=1}^{m} b_{i}$ condition omitted.
+
+\subsubsection{Connection with stochatic matrices}
+b weakly majorizes $a \geq 0$ iff $\exists$ doubly substochastic Q: $a = Qb$. Pf of if: $\exists$ doubly stochastic S: $Q \leq S$; so $\sum_{i=1}^{k}(Qb)_{[i]} \leq \sum_{i=1}^{k}(Sb)_{[i]} \leq \sum_{i=1}^{k}b_{[i]}$. Pf of $\to$: Let a have n nz elements; take $d= \sum b - \sum a$; extend b by adding m 0's to get b', extend a by adding m $d/m$ valued entries; then $\exists$ dbl stoch S with $a' = Sb'$; then Q is $n \times n$ principle submatrix.
+
+b weakly majorizes a iff $\exists$ doubly stochastic S: $a \leq Sb$. Pf of $\gets$: If $a \leq Sb, a \oleq Sb \oleq b$. Pf of $\to$: Pick k to get $a' = a+k1, b' = b + k1$; If $a \oleq b$, for substochastic Q, $a+k1 = Q(b + k1)$; so $a = Qb \leq Sb$ where S is stochastic dilation of Q.
+
+\subsection{Weak Majorization and convex increasing fn}
+Take convex increasing scalar function f; b weakly majorizes a; then $f(b)$ weakly majorizes $f(a)$. Pf; For doubly stochastic Q, $a \leq Qb$; using monotonicity, $f(a) \leq f(Qb)$; so $f(a) \oleq f(Qb)$; but by Birkhoff $f(Qb) = f((\sum \ga_{i}P_{i})b) \leq \sum \ga_{i}f((P_{i})b) = \sum \ga_{i}P_{i}f(b) = Qf(b)$, where $\sum \ga_{i} = 1$; so $f(Qb) \oleq f(b)$.
+
+If $0 \leq a$, $0 \leq b$, with entries in descending order, $\prod_{i=1}^{k}a_{i} \leq \prod_{i=1}^{k} b_{i}$, g is such that $g(e^{x})$ is convex increasing, then g(b) weakly majorizes ($\ogeq$) g(a): $\log a \oleq \log b$; use $f(x) = g(e^{x})$; take care of cases where $a_{i > k} = 0$ using induction.
+
+\bibliographystyle{plain}
+\bibliography{../linAlg/linAlg,../optimization/optimization}
+
+\end{document}

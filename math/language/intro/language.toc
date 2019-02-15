@@ -1,0 +1,63 @@
+\contentsline {chapter}{Contents}{1}{section*.1}
+\contentsline {part}{\partnumberline {I}General structure}{2}{part.1}
+\contentsline {chapter}{\chapternumberline {1}Themes}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Human vs programming languages}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Descriptive vs prescriptive}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Example applications/ problems}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Ambiguity: main challenge}{3}{section.1.4}
+\contentsline {section}{\numberline {1.5}Following research}{3}{section.1.5}
+\contentsline {chapter}{\chapternumberline {2}Language structure}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Sounds words sentences}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Word morphology}{4}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Morpheme}{4}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Inflection}{4}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Word/ phrase roles/ categories}{4}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Content vs function words}{4}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Parts of speech}{4}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Noun and verb sub-roles}{5}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Semantics and ambiguity}{5}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Word meaning ambiguity}{5}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Sentence ambiguity}{5}{subsection.2.4.2}
+\contentsline {section}{\numberline {2.5}Grammar}{5}{section.2.5}
+\contentsline {chapter}{\chapternumberline {3}Language and thought}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Complex thought and language}{5}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Examples/ evidence}{5}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}World-view and language}{6}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Examples}{6}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}Social interactions}{6}{section.3.3}
+\contentsline {chapter}{\chapternumberline {4}Models of communication}{6}{chapter.4}
+\contentsline {section}{\numberline {4.1}Speech generation}{6}{section.4.1}
+\contentsline {section}{\numberline {4.2}Speech comprehension}{7}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Tasks}{7}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Comprehenders: Manual vs automatic building}{7}{subsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.2.1}Manual design}{7}{subsubsection.4.2.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2.2}Automatic learning}{8}{subsubsection.4.2.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Non-Modularity}{8}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Part of speech tagging}{8}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Problem}{8}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Purpose}{8}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Approaches}{8}{subsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.1}Performance ideal}{8}{subsubsection.4.3.3.1}
+\contentsline {subsection}{\numberline {4.3.4}Using a tagged sample}{8}{subsection.4.3.4}
+\contentsline {subsubsection}{\numberline {4.3.4.1}Results}{8}{subsubsection.4.3.4.1}
+\contentsline {chapter}{\chapternumberline {5}Language models}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}Definition}{9}{section.5.1}
+\contentsline {section}{\numberline {5.2}Applications}{9}{section.5.2}
+\contentsline {section}{\numberline {5.3}Multi-set of words model}{9}{section.5.3}
+\contentsline {section}{\numberline {5.4}n-gram model}{9}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Performance}{9}{subsection.5.4.1}
+\contentsline {section}{\numberline {5.5}Finite state transducer (FST)}{9}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Definition}{9}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Transition graph}{10}{subsection.5.5.2}
+\contentsline {part}{\partnumberline {II}Languages}{10}{part.2}
+\contentsline {chapter}{\chapternumberline {6}Activity language}{10}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Japanese}{10}{chapter.7}
+\contentsline {section}{\numberline {7.1}Sounds}{10}{section.7.1}
+\contentsline {section}{\numberline {7.2}Words}{10}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Noun Inflections}{10}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Verb}{10}{subsection.7.2.2}
+\contentsline {subsubsection}{\numberline {7.2.2.1}Adverbs}{11}{subsubsection.7.2.2.1}
+\contentsline {section}{\numberline {7.3}Sentences}{11}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Greetings/ politeness}{11}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Questions and answers}{11}{subsection.7.3.2}
+\contentsline {chapter}{\chapternumberline {8}References}{11}{chapter.8}

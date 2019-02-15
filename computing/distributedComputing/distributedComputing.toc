@@ -1,0 +1,94 @@
+\contentsline {chapter}{Contents}{1}{section*.1}
+\contentsline {chapter}{\chapternumberline {1}Themes}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Characterization of research effort}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Safety and correctness: Use of formal methods}{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Efficiency: Implementation, Engineering}{4}{subsection.1.1.2}
+\contentsline {chapter}{\chapternumberline {2}Reasoning about distributed computation}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Common assumptions}{4}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Synchronized communication}{4}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Proving algorithm efficacy}{4}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Importance and need}{4}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Common tricks}{4}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Properties of programs}{4}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Safety of the computation: problems}{5}{subsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.1.1}Race conditions: Readers/ writers problem}{5}{subsubsection.2.3.1.1}
+\contentsline {subsection}{\numberline {2.3.2}Progress of the computation: Problems}{5}{subsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.2.1}Deadlock}{5}{subsubsection.2.3.2.1}
+\contentsline {subsubsection}{\numberline {2.3.2.2}Livelock}{5}{subsubsection.2.3.2.2}
+\contentsline {subsection}{\numberline {2.3.3}Maximality}{5}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Action systems}{5}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Motivation}{6}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Definition}{6}{subsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.2.1}Objects}{6}{subsubsection.2.4.2.1}
+\contentsline {subsubsection}{\numberline {2.4.2.2}States}{6}{subsubsection.2.4.2.2}
+\contentsline {subsubsection}{\numberline {2.4.2.3}Transitions or Actions}{6}{subsubsection.2.4.2.3}
+\contentsline {subsubsection}{\numberline {2.4.2.4}Execution rule}{6}{subsubsection.2.4.2.4}
+\contentsline {subsection}{\numberline {2.4.3}Reasoning about properties}{7}{subsection.2.4.3}
+\contentsline {subsubsection}{\numberline {2.4.3.1}Properties vs predicates, connectives}{7}{subsubsection.2.4.3.1}
+\contentsline {subsubsection}{\numberline {2.4.3.2}Auxiliary vs program variables}{7}{subsubsection.2.4.3.2}
+\contentsline {section}{\numberline {2.5}Safety properties of Action systems}{7}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}The constrains/ co operator}{7}{subsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.1.1}Properties of co}{7}{subsubsection.2.5.1.1}
+\contentsline {subsubsection}{\numberline {2.5.1.2}Formalizing safety properties}{7}{subsubsection.2.5.1.2}
+\contentsline {subsubsection}{\numberline {2.5.1.3}Elimination theorem}{8}{subsubsection.2.5.1.3}
+\contentsline {subsection}{\numberline {2.5.2}Stable predicates}{8}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Fixed point x}{8}{subsection.2.5.3}
+\contentsline {subsection}{\numberline {2.5.4}Invariant p}{8}{subsection.2.5.4}
+\contentsline {subsubsection}{\numberline {2.5.4.1}Substitution axiom}{8}{subsubsection.2.5.4.1}
+\contentsline {section}{\numberline {2.6}Progress properties of action systems}{8}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}transient p}{8}{subsection.2.6.1}
+\contentsline {subsubsection}{\numberline {2.6.1.1}Defn Under weak fairness exec rule}{8}{subsubsection.2.6.1.1}
+\contentsline {subsubsection}{\numberline {2.6.1.2}Defn Under minimal progress exec rule}{9}{subsubsection.2.6.1.2}
+\contentsline {subsection}{\numberline {2.6.2}p ensures q}{9}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Temporal logic}{9}{subsection.2.6.3}
+\contentsline {section}{\numberline {2.7}Ordering events in distributed computation}{9}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}An irreflexive partial ordering}{9}{subsection.2.7.1}
+\contentsline {subsubsection}{\numberline {2.7.1.1}Impossible orderings}{9}{subsubsection.2.7.1.1}
+\contentsline {subsection}{\numberline {2.7.2}Time-line graphs}{9}{subsection.2.7.2}
+\contentsline {subsection}{\numberline {2.7.3}Assign numbers to events: Logical clocks}{10}{subsection.2.7.3}
+\contentsline {subsubsection}{\numberline {2.7.3.1}Clock condition}{10}{subsubsection.2.7.3.1}
+\contentsline {subsubsection}{\numberline {2.7.3.2}Implementation rule}{10}{subsubsection.2.7.3.2}
+\contentsline {subsubsection}{\numberline {2.7.3.3}Imposing total order}{10}{subsubsection.2.7.3.3}
+\contentsline {section}{\numberline {2.8}Common knowledge}{10}{section.2.8}
+\contentsline {subsection}{\numberline {2.8.1}Coordinating attack problem}{10}{subsection.2.8.1}
+\contentsline {chapter}{\chapternumberline {3}Designing distributed computation}{10}{chapter.3}
+\contentsline {section}{\numberline {3.1}By designing action systems}{10}{section.3.1}
+\contentsline {section}{\numberline {3.2}Coordinating processes}{10}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}General signalling constructs}{10}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Synchronization}{11}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}Blocking}{11}{subsubsection.3.2.2.1}
+\contentsline {subsection}{\numberline {3.2.3}Resource allocation}{11}{subsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3.1}Resource starvation}{11}{subsubsection.3.2.3.1}
+\contentsline {subsubsection}{\numberline {3.2.3.2}The dining philosophers problem}{11}{subsubsection.3.2.3.2}
+\contentsline {subsubsection}{\numberline {3.2.3.3}Semaphores for mutual exclusion}{11}{subsubsection.3.2.3.3}
+\contentsline {subsection}{\numberline {3.2.4}Call-back}{12}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Randezvous}{12}{subsection.3.2.5}
+\contentsline {section}{\numberline {3.3}Distributed program paradigms}{12}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Central coordination}{12}{subsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.1.1}Master slave architecture}{12}{subsubsection.3.3.1.1}
+\contentsline {subsubsection}{\numberline {3.3.1.2}Using coordinator}{12}{subsubsection.3.3.1.2}
+\contentsline {subsection}{\numberline {3.3.2}Layered computation}{12}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Recursive process networks}{12}{subsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3.1}Factorial finding}{12}{subsubsection.3.3.3.1}
+\contentsline {subsection}{\numberline {3.3.4}Discovering a spanning tree for process network.}{13}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Diffusing computation}{13}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}'Underlying' computation}{13}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Termination detection}{14}{subsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.2.1}Solution with acknowledgements}{14}{subsubsection.3.4.2.1}
+\contentsline {subsubsection}{\numberline {3.4.2.2}Polling for state}{14}{subsubsection.3.4.2.2}
+\contentsline {subsubsection}{\numberline {3.4.2.3}The uni-directional ring: without acks}{14}{subsubsection.3.4.2.3}
+\contentsline {section}{\numberline {3.5}Global snapshot}{14}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Application}{14}{subsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.1.1}Checkpointing}{14}{subsubsection.3.5.1.1}
+\contentsline {subsubsection}{\numberline {3.5.1.2}Census}{14}{subsubsection.3.5.1.2}
+\contentsline {subsubsection}{\numberline {3.5.1.3}Consistant state}{14}{subsubsection.3.5.1.3}
+\contentsline {subsection}{\numberline {3.5.2}Algorithm}{14}{subsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.2.1}Proof of correctness}{15}{subsubsection.3.5.2.1}
+\contentsline {section}{\numberline {3.6}Fault tolerance}{15}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Motivation}{15}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Taking majority}{15}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Consensus}{15}{subsection.3.6.3}
+\contentsline {subsubsection}{\numberline {3.6.3.1}Byzantine generals problem}{15}{subsubsection.3.6.3.1}
+\contentsline {subsubsection}{\numberline {3.6.3.2}Consensus problem}{15}{subsubsection.3.6.3.2}
+\contentsline {chapter}{\chapternumberline {4}Problems}{16}{chapter.4}
+\contentsline {section}{\numberline {4.1}Agreement on public randomness}{16}{section.4.1}

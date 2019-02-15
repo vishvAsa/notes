@@ -1,0 +1,184 @@
+\contentsline {chapter}{Contents}{1}{section*.1}
+\contentsline {part}{\partnumberline {I}Introduction}{5}{part.1}
+\contentsline {chapter}{\chapternumberline {1}Themes}{6}{chapter.1}
+\contentsline {chapter}{\chapternumberline {2}Important Fields}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}General properties}{6}{section.2.1}
+\contentsline {section}{\numberline {2.2}Numbers}{6}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Supremum (GUB) vs infimum (GLB)}{6}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}The field of Rational numbers}{6}{subsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Absence of least upper bound}{6}{subsubsection.2.2.2.1}
+\contentsline {section}{\numberline {2.3}The field of Real numbers}{6}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Supremum property}{6}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}As Cuts from Q}{6}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Archimedian property of R}{7}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Misc Properties}{7}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Extended real number system}{7}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Irrationals}{7}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.3.7}Topological properties k cell in $R^k$}{7}{subsection.2.3.7}
+\contentsline {subsubsection}{\numberline {2.3.7.1}Nonemptiness of telescoping $\ensuremath {\cap }$ of cells}{7}{subsubsection.2.3.7.1}
+\contentsline {subsubsection}{\numberline {2.3.7.2}Compactness of k-cells in $R^k$}{7}{subsubsection.2.3.7.2}
+\contentsline {subsubsection}{\numberline {2.3.7.3}Compactness in $R^k$}{7}{subsubsection.2.3.7.3}
+\contentsline {subsection}{\numberline {2.3.8}Uncountability of R}{8}{subsection.2.3.8}
+\contentsline {subsubsection}{\numberline {2.3.8.1}Cantor set}{8}{subsubsection.2.3.8.1}
+\contentsline {subsubsection}{\numberline {2.3.8.2}Cardinality of $R^{k}$ is same as R}{8}{subsubsection.2.3.8.2}
+\contentsline {section}{\numberline {2.4}The field of Complex numbers C}{8}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Spherical form}{8}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Powers of z}{8}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Other Properties}{9}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}nth roots of 1}{9}{subsection.2.4.4}
+\contentsline {section}{\numberline {2.5}Quaternions}{9}{section.2.5}
+\contentsline {part}{\partnumberline {II}Real valued Functions and their properties}{9}{part.2}
+\contentsline {chapter}{\chapternumberline {3}Properties}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Topological properties}{9}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Limits}{9}{subsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.1.1}f:F to F: Find limits}{10}{subsubsection.3.1.1.1}
+\contentsline {subsubsection}{\numberline {3.1.1.2}Closed functional f}{10}{subsubsection.3.1.1.2}
+\contentsline {subsection}{\numberline {3.1.2}Continuity}{10}{subsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.2.1}Absolute continuity of f:Rm to Rn}{10}{subsubsection.3.1.2.1}
+\contentsline {subsubsection}{\numberline {3.1.2.2}Simple discontinuity}{10}{subsubsection.3.1.2.2}
+\contentsline {subsubsection}{\numberline {3.1.2.3}Extreme value existence, boundedness}{10}{subsubsection.3.1.2.3}
+\contentsline {subsubsection}{\numberline {3.1.2.4}Intermediate value theorem}{11}{subsubsection.3.1.2.4}
+\contentsline {chapter}{\chapternumberline {4}Definite-Integral function}{11}{chapter.4}
+\contentsline {section}{\numberline {4.1}Definitions}{11}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Integral as least Upper sum, greatest lower sum}{11}{subsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.1.1}Partitions of [a,b]}{11}{subsubsection.4.1.1.1}
+\contentsline {paragraph}{Refinement}{11}{section*.4}
+\contentsline {subsubsection}{\numberline {4.1.1.2}Upper, lower sums}{11}{subsubsection.4.1.1.2}
+\contentsline {subsubsection}{\numberline {4.1.1.3}Integrability}{11}{subsubsection.4.1.1.3}
+\contentsline {subsubsection}{\numberline {4.1.1.4}Limitations}{11}{subsubsection.4.1.1.4}
+\contentsline {subsection}{\numberline {4.1.2}Min-cover integral of measurable functions}{12}{subsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.2.1}Importance}{12}{subsubsection.4.1.2.1}
+\contentsline {subsection}{\numberline {4.1.3}Min-cover integral wrt to non decreasing g}{12}{subsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.3.1}Upper and lower sums view}{12}{subsubsection.4.1.3.1}
+\contentsline {subsubsection}{\numberline {4.1.3.2}Advantages}{12}{subsubsection.4.1.3.2}
+\contentsline {paragraph}{Series as Stieltjes integral}{13}{section*.5}
+\contentsline {section}{\numberline {4.2}Importance}{13}{section.4.2}
+\contentsline {section}{\numberline {4.3}Basic properties}{13}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Integral sandwiched between L and U}{13}{subsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.1.1}Closeness to any sum between L and U}{13}{subsubsection.4.3.1.1}
+\contentsline {subsection}{\numberline {4.3.2}Continuity implies integrability}{13}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Relationship with Uniform convergence}{13}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Continuity of semi-definite integral}{13}{subsection.4.3.4}
+\contentsline {section}{\numberline {4.4}Connection to derivative}{14}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Differential of integral over f}{14}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Definite integral = difference in antiderivative}{14}{subsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.2.1}Anti-derivative}{14}{subsubsection.4.4.2.1}
+\contentsline {subsubsection}{\numberline {4.4.2.2}Fundamental theorem of calculus}{14}{subsubsection.4.4.2.2}
+\contentsline {subsection}{\numberline {4.4.3}Inter-measure Derivative}{14}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Integration: evaluating definite integrals}{14}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Integration by parts}{14}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Sum, product, decomposition rules}{15}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Transform the integral}{15}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.4}Change of variables}{15}{subsection.4.5.4}
+\contentsline {subsubsection}{\numberline {4.5.4.1}Function composition: integrability}{15}{subsubsection.4.5.4.1}
+\contentsline {subsubsection}{\numberline {4.5.4.2}Integration}{15}{subsubsection.4.5.4.2}
+\contentsline {paragraph}{Utility}{15}{section*.6}
+\contentsline {subsection}{\numberline {4.5.5}Reversing limits}{15}{subsection.4.5.5}
+\contentsline {section}{\numberline {4.6}Over product measure spaces}{16}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Bounds}{16}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Use polar coordinates}{16}{subsection.4.6.2}
+\contentsline {section}{\numberline {4.7}Important integrals}{16}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}Normal integral}{16}{subsection.4.7.1}
+\contentsline {subsubsection}{\numberline {4.7.1.1}Importance}{16}{subsubsection.4.7.1.1}
+\contentsline {part}{\partnumberline {III}R to R functions}{17}{part.3}
+\contentsline {chapter}{\chapternumberline {5}Superclasses}{17}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}Functions over N: Sequences, series, convergence}{17}{chapter.6}
+\contentsline {section}{\numberline {6.1}Convergent sequences $(s_{n}), (t_{n})$ in a field}{17}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Boundedness}{17}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Montonicity}{17}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Upper and lower limits}{17}{subsection.6.1.3}
+\contentsline {section}{\numberline {6.2}Generating function of a sequence}{18}{section.6.2}
+\contentsline {section}{\numberline {6.3}Series}{18}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Convergence}{18}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Convergence tests}{18}{subsection.6.3.2}
+\contentsline {subsubsection}{\numberline {6.3.2.1}Ratio test}{18}{subsubsection.6.3.2.1}
+\contentsline {subsubsection}{\numberline {6.3.2.2}Root test}{18}{subsubsection.6.3.2.2}
+\contentsline {subsubsection}{\numberline {6.3.2.3}Alternating series test}{18}{subsubsection.6.3.2.3}
+\contentsline {subsection}{\numberline {6.3.3}Conditional convergence}{18}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Absolute convergence}{19}{subsection.6.3.4}
+\contentsline {subsection}{\numberline {6.3.5}Rearrangement}{19}{subsection.6.3.5}
+\contentsline {subsection}{\numberline {6.3.6}Series product}{19}{subsection.6.3.6}
+\contentsline {section}{\numberline {6.4}Special series}{19}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Arithmatic series}{19}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Geometric-like series}{19}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Harmonic-like series}{19}{subsection.6.4.3}
+\contentsline {subsection}{\numberline {6.4.4}Power series}{19}{subsection.6.4.4}
+\contentsline {subsection}{\numberline {6.4.5}Binomial theorem}{20}{subsection.6.4.5}
+\contentsline {subsection}{\numberline {6.4.6}e}{20}{subsection.6.4.6}
+\contentsline {section}{\numberline {6.5}Summation tricks}{20}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Summation by parts}{20}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Using binomial summation formula}{20}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.3}Derivative to estimate limit of partial sums}{20}{subsection.6.5.3}
+\contentsline {subsection}{\numberline {6.5.4}Integral to estimate limit of partial sums}{20}{subsection.6.5.4}
+\contentsline {chapter}{\chapternumberline {7}Differential function}{20}{chapter.7}
+\contentsline {section}{\numberline {7.1}Definition}{20}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Rate of change}{20}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Linear approximation view}{21}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {7.1.3}Other views and generalizations}{21}{subsection.7.1.3}
+\contentsline {section}{\numberline {7.2}Existence: Differentiability}{21}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Relationship with continuity}{21}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Smoothness}{21}{subsection.7.2.2}
+\contentsline {section}{\numberline {7.3}Differential operator}{21}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Definition}{21}{subsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.1.1}Notation}{21}{subsubsection.7.3.1.1}
+\contentsline {subsubsection}{\numberline {7.3.1.2}Higher order differentials}{22}{subsubsection.7.3.1.2}
+\contentsline {subsection}{\numberline {7.3.2}Inverse}{22}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.3}Linearity}{22}{subsection.7.3.3}
+\contentsline {subsection}{\numberline {7.3.4}Other properties}{22}{subsection.7.3.4}
+\contentsline {subsection}{\numberline {7.3.5}Composition (chain rule)}{22}{subsection.7.3.5}
+\contentsline {subsection}{\numberline {7.3.6}Parametrically defined functions}{22}{subsection.7.3.6}
+\contentsline {section}{\numberline {7.4}Differentiation}{22}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Differentiation tricks}{22}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}Differentials of important functions}{22}{subsection.7.4.2}
+\contentsline {subsubsection}{\numberline {7.4.2.1}Differentiation of powers and exponents}{23}{subsubsection.7.4.2.1}
+\contentsline {section}{\numberline {7.5}Other properties}{23}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}Geometry}{23}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}Connection with extrema}{23}{subsection.7.5.2}
+\contentsline {subsection}{\numberline {7.5.3}Effect of uniform convergence}{23}{subsection.7.5.3}
+\contentsline {section}{\numberline {7.6}Polynomial approximation of f}{23}{section.7.6}
+\contentsline {subsection}{\numberline {7.6.1}f(x): Mean change and the gradient}{23}{subsection.7.6.1}
+\contentsline {subsubsection}{\numberline {7.6.1.1}Interior extremum existance}{23}{subsubsection.7.6.1.1}
+\contentsline {subsubsection}{\numberline {7.6.1.2}Mean value theorem}{23}{subsubsection.7.6.1.2}
+\contentsline {subsubsection}{\numberline {7.6.1.3}Relative to another function}{24}{subsubsection.7.6.1.3}
+\contentsline {subsubsection}{\numberline {7.6.1.4}Definite integral view and the mean}{24}{subsubsection.7.6.1.4}
+\contentsline {subsection}{\numberline {7.6.2}Polynomial approximation}{24}{subsection.7.6.2}
+\contentsline {subsection}{\numberline {7.6.3}Associated series}{24}{subsection.7.6.3}
+\contentsline {subsection}{\numberline {7.6.4}Importance}{24}{subsection.7.6.4}
+\contentsline {section}{\numberline {7.7}Extensions}{25}{section.7.7}
+\contentsline {subsection}{\numberline {7.7.1}Extension to functionals}{25}{subsection.7.7.1}
+\contentsline {chapter}{\chapternumberline {8}Important functions}{25}{chapter.8}
+\contentsline {section}{\numberline {8.1}Classification by dependence on parameters}{25}{section.8.1}
+\contentsline {section}{\numberline {8.2}Recurrance equations}{25}{section.8.2}
+\contentsline {section}{\numberline {8.3}Polynomial P over field K}{25}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Multivariate polynomials}{25}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Symmetric polynomials}{26}{subsection.8.3.2}
+\contentsline {subsubsection}{\numberline {8.3.2.1}Probability of multivariate polynomials becoming 0}{26}{subsubsection.8.3.2.1}
+\contentsline {subsection}{\numberline {8.3.3}Roots of polynomial P over R}{26}{subsection.8.3.3}
+\contentsline {subsubsection}{\numberline {8.3.3.1}Quadratic eqn}{26}{subsubsection.8.3.3.1}
+\contentsline {section}{\numberline {8.4}Important functions over R and C}{26}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}Extrema}{26}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.2}Unit step function I(x)}{26}{subsection.8.4.2}
+\contentsline {subsection}{\numberline {8.4.3}Logarithm and exponential}{27}{subsection.8.4.3}
+\contentsline {subsection}{\numberline {8.4.4}Generalized binomial coefficient}{27}{subsection.8.4.4}
+\contentsline {subsubsection}{\numberline {8.4.4.1}Polynomial interpolation argument}{27}{subsubsection.8.4.4.1}
+\contentsline {subsection}{\numberline {8.4.5}Logistic sigmoid function}{27}{subsection.8.4.5}
+\contentsline {subsection}{\numberline {8.4.6}Normal function}{27}{subsection.8.4.6}
+\contentsline {subsection}{\numberline {8.4.7}Gamma function}{27}{subsection.8.4.7}
+\contentsline {part}{\partnumberline {IV}Bounding techniques}{27}{part.4}
+\contentsline {chapter}{\chapternumberline {9}Important limits and bounds}{28}{chapter.9}
+\contentsline {section}{\numberline {9.1}Bounds on combinatorial quantities}{28}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Bounds on n!}{28}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Bounds on (a choose b)}{28}{subsection.9.1.2}
+\contentsline {section}{\numberline {9.2}Bounds on powers and exponents}{28}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Bounds on $(1+b)^{n}$ and $e^{n}$}{28}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}Bounds on log x}{28}{subsection.9.2.2}
+\contentsline {section}{\numberline {9.3}Inequalities among means}{28}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}Bound ab with a convex combination of powers}{28}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}AM GM HM inequality}{29}{subsection.9.3.2}
+\contentsline {chapter}{\chapternumberline {10}Analysis/ bounding techniques}{29}{chapter.10}
+\contentsline {section}{\numberline {10.1}General ideas}{29}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Bound f over [a, b] with a constant c}{29}{subsection.10.1.1}
+\contentsline {section}{\numberline {10.2}Asymptotics}{29}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Hierarchy of growth of functions}{29}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2}Iterative logarithm}{29}{subsection.10.2.2}
+\contentsline {chapter}{Bibliography}{29}{section*.10}

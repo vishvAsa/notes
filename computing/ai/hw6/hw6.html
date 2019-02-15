@@ -1,0 +1,182 @@
+<html><head><title>683 Homework Assignment</title></head><body bgcolor="white" link="#0440dd" text="black" vlink="#0440dd">
+
+<font face="Verdana,Geneva,Arial,Helvetica">
+
+</font><h2 align="center"><table border="0" cellpadding="1" height="52" width="100%">
+   <tbody><tr>
+      <td>
+         <p>&nbsp;
+      </p></td><td>
+         <p align="center"><a href="http://www.umass.edu/">
+         University of Massachusetts Amherst</a><br>
+         <a href="http://www.cs.umass.edu/">
+         Department of Computer Science</a></p>
+         <p align="center">&nbsp;
+      </p></td><td>
+         <p align="right">&nbsp;
+      </p></td></tr>
+   <tr>
+      <td>
+         <p><font size="4">CMPSCI 683</font>
+      </p></td><td>
+         <p align="center"><b><font size="4">
+         Artificial Intelligence</font></b>
+      </p></td><td>
+         <p align="right"><font size="4">Fall 2007</font>
+      </p></td></tr>
+   <tr>
+      <td>
+         <p>&nbsp;
+      </p></td><td>
+         <p align="center"><font color="#000000">
+         <a href="http://www.cs.umass.edu/%7Eshlomo/">Shlomo
+Zilberstein</a></font>
+      </p></td><td>
+         <p align="right">&nbsp;
+      </p></td></tr>
+</tbody></table></h2>
+
+<h3 align="center"><font face="Verdana,Geneva,Arial,Helvetica"><font color="#0000ff" size="+2">
+Homework Assignment #6: Planning<br>
+Due: December 12, 2007
+</font></font></h3><font face="Verdana,Geneva,Arial,Helvetica"><br> </font><p>
+
+</p><ol>
+
+<font face="Verdana,Geneva,Arial,Helvetica"><li> (10%) Suppose you have have a STRIPS representation for actions A1
+and
+A2, and you want to define the STRIPS representation for the composite
+action A1;A2, which means that you do A1 then do A2.
+<ol>
+<li> What is the add list for this composite action?
+</li><li> What is the delete list?
+</li><li> What are the preconditions for this composite action?
+</li><li> Give a possible STRIPS representation of the actions
+     <b>Move(here,there)</b> and <b>Pickup(object)</b> and for the
+     composite action <b>Move(here,there);Pickup(object)</b>.
+</li></ol> <p>
+
+</p></li><li> (20%)
+The towers of Hanoi problem is to move a set of <i>n</i> disks
+of different sizes from one peg to another, using a third peg for
+temporary storage.  Disks are moved one at a time, and a larger disk
+cannot rest on a smaller one.  (You might be familiar with a recursive
+algorithm for solving this problem.)  Formulate this problem as a
+STRIPS-style planning problem.  You will need to specify the initial
+state, the goal state, and the set of STRIPS-style operators.  Feel free
+to use variables in operator description if needed. <p>
+
+</p></li><li> (20%) Let us consider a version of the milk/banana/drill shopping problem
+in which money is included, at least in a simple way.
+<ol>
+  <li> Let <i>CC</i> denote a credit card that the agent can use to buy
+  any object.  Modify the description of <i>Buy</i> so that the agent
+  has to have its credit card in order to buy anything.
+  </li><li> Write a <i>Pickup</i> operator that enables the agent to
+  <i>Have</i> an object if it is portable and at the same location as
+  the agent.
+  </li><li> Assume that the credit card is at home, but <i>Have(CC)</i> is
+  initially false.  Construct a partially ordered plan that achieves the
+  goal, showing both ordering constraints and causal links.
+  </li><li> Explain in detail what happens during the planning process when
+  the agent explores a partial plan in which it leaves home without the
+  card. 
+</li></ol> <p>
+
+</p></li><li> (12%) We have only considered planners that have goals of
+achievement: Take steps to ensure that a proposition is true at some
+time or in some situation.  In this exercise, we consider goals of
+<i>maintenance</i> and <i>prevention</i>.  Maintenance goals involve
+propositions that must remain true over a given interval of time.
+Prevention goals involve propositions that must never become true
+over a given interval of time.  Discuss how maintenance and prevention
+goals can be handled by least commitment planning (e.g. the POP
+algorithm). <p>
+
+
+</p></li><li> (14%) Sometimes MDPs are formulated with a reward function R(s,a) that
+depends on the action taken or a reward function R(s,a,s') that also
+depends on the outcome state.<p>
+</p><ol>
+<li> Write the Bellman equations for these formulations.
+</li><li> Show how an MDP with reward function R(s,a,s') can be transformed
+into a different MDP with reward function R(s,a), such that the optimal
+policies in the new MDP correspond exactly to optimal policies in the
+original MDP.
+</li><li> Now do the same to convert MDPs with R(s,a) into MDPs with R(s).
+</li></ol>
+<p>
+
+
+</p></li><li> (24%)
+The goal of this exercise is to give you an understanding of the
+possible disadvantages of using discounted rewards and to 
+introduce the average reward criterion.
+Discounted optimization is motivated by domains where reward can be
+interpreted as money that can earn interest, or where there is a fixed
+probability that a run will be terminated
+at any given time. However, many problems do not have either of these
+properties.
+Discounting in such domains tends to sacrifice long-term rewards in
+favor of short-term rewards.
+Moreover, the discounted optimal policy may depend on the choice of the
+the discount factor.
+It is true that for any finite MDP (an MDP with finite state and action
+spaces) there is some sufficiently large &#955;
+for which the discounted and undiscounted measures agree. However,
+proper choice of such &#955; requires detailed knowledge of the problem.
+Even with such knowledge, a parameter such as &#955;
+that needs to be tailored to suit individual problems is clearly undesirable.
+Therefore, the agent may prefer to compare policies on the basis of their
+average expected reward instead of their expected discounted reward. The aim 
+of the average reward MDP is to compute policies that yield the highest 
+expected payoff per time step. The average reward or <i>gain</i>
+associated with a policy &#960; at state <i>s</i>, is defined as follows
+(if the average reward exists):
+
+<center><img src="hw6_files/fig6x1.jpg" width="350"></center><br>
+<p>
+
+Consider the 14 state MDP whose state-transition diagram is given below.
+<i>All transitions are deterministic</i>. The agent receives a reward of +5 
+on moving from the Printer to Home and a reward of +20 on moving from the 
+Mailroom to Home, <i>all other rewards are zero</i>.
+
+</p><center><img src="hw6_files/domain.jpg" width="300"></center><br>
+<p>
+
+
+</p><ol>
+
+<li>How many distinct deterministic policies are there for this MDP?
+What are they?
+
+</li><li>For each policy, give an expression for the value of state 1
+(<i>assuming discounting</i>)?
+
+</li><li>For what values of &#955; in [0,1) does an optimal policy take
+the agent to the Printer?
+
+</li><li>For what values of &#955; in [0,1) does an optimal policy take
+the agent to the Mailroom?
+
+</li><li>A policy &#960; is called "Blackwell optimal" for a discounted MDP
+if there is a &#955;<sup>*</sup> in [0,1) such that &#960; is optimal for
+all &#955; in [&#955;<sup>*</sup>,1).  Does this problem have any
+Blackwell optimal policies?  Explain your answer.
+
+</li><li>For each policy, calculate the <i>average reward</i> of state 1.
+Which policy should the agent follow if it seeks to optimize the average
+reward?
+
+</li><li>For what range of values of the discount factor &#955;
+will the agent select a policy that maximizes the <i>average reward</i>?
+
+<ol>
+
+</ol>
+
+<p><br><font size="-1">© 2007 Shlomo Zilberstein.  </font></p>
+
+
+</li></ol></li></font></ol></body></html>
