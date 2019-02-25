@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "संस्कारे विश्वासटिप्पणयः"
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_offline_android"
+disablePathToLower = true
 [params]
   githubEditMePathBase = "https://github.com/vvasuki/notes/edit/master/content/"
   contactLink = "https://github.com/vvasuki/notes/issues/new"
