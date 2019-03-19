@@ -45,7 +45,8 @@ contents:
         contents:
             - url: dir://artha/economics/trading/
       - title: Tax
-        url: /artha/economics/tax/
+        contents:
+          - url: dir://artha/economics/tax/
       - title: Geo outlook
         contents:
             - url: dir://artha/economics/geo/
