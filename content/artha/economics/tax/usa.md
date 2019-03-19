@@ -37,5 +37,5 @@ Tax on withdrawls
 If moving to India while in a lower tax bracket, it might be advantageous to move these funds to Roth IRA.
 
 ### Roth IRA
-unclear US tax (but 30% withholding is mandated [[IRS pub 515](https://www.irs.gov/publications/p515#en_US_2013_publink1000224947)] and _might_ be recovered via refunds), only India tax on gains.
+unclear US tax (30% withholding is blithely followed [[IRS pub 515](https://www.irs.gov/publications/p515#en_US_2013_publink1000224947)] and may be recovered via refunds [(bogle19)[https://www.bogleheads.org/forum/viewtopic.php?f=22&t=276156&p=4443965&sid=25f92b8dc859b54abb3a6b628ba5686f#p4443965]] ), only India tax on gains.
 
