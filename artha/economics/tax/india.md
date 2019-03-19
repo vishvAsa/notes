@@ -2,6 +2,12 @@
 title: India
 ---
 
+## Tax residency
+Resident if one of the following is true
+
+- present in India for: 182 days or more in a fiscal year
+- 60 days or more in a fiscal year and 365 days or more during the preceding 4 fiscal years; the 60 days may be extended to 182 days in certain cases.
+
 ## Income tax
 
 
