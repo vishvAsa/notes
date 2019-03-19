@@ -1,0 +1,20 @@
+---
+title: India
+---
+
+## Income tax
+
+
+### Advance payments
+As the year progresses, one is expected to pay tax. Paying at the end of the year will attract interest.
+
+Advance tax schedule: [here](https://cleartax.in/s/interest-imposed-by-income-tax-department-under-section-234c).
+
+### Income earned abroad
+- If you are a resident of India, your global income will be taxed in India whether it is earned in India or outside India subject to DTAA(Double Taxation Avoidance Agreement) with the foreign countries.
+- Wealth tax is not applicable on equity - so it's 7 year exemption for NRI-s is pointless there. However, when equity (say within the Roth IRA account) is sold, not much is spent and wealth in excess of Rs 15,00,000 (as of 2019) is generated - that will attract the 1% tax after the 7 year exception for NRI.
+- Issues concerning distributions from US retirement funds - see [usa page](../usa/). 
+
+## Wealth tax
+Wealth-tax is being levied only on non-productive assets like urban land, buildings (except one house property), jewellery, bullion and vehicles, cash over Rs.50,000- etc. The current rate of Wealthtax is 1 % on the aggregate market value of chargeable assets as on 31st March every year in excess of Rs.1.5 million. 
+ 
