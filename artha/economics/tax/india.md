@@ -16,5 +16,12 @@ Advance tax schedule: [here](https://cleartax.in/s/interest-imposed-by-income-t
 - Issues concerning distributions from US retirement funds - see [usa page](../usa/). 
 
 ## Wealth tax
-Wealth-tax is being levied only on non-productive assets like urban land, buildings (except one house property), jewellery, bullion and vehicles, cash over Rs.50,000- etc. The current rate of Wealthtax is 1 % on the aggregate market value of chargeable assets as on 31st March every year in excess of Rs.1.5 million. 
+Reference: [it.gov doc](https://www.incometaxindia.gov.in/Tutorials/41.%20Wealth_Tax.pdf).
+
+Wealth-tax is being levied only on non-productive assets like urban land, buildings (except residence, rented space), jewellery, bullion and vehicles, cash over Rs.50,000- etc. The current rate of Wealthtax is 1 % on the aggregate market value of chargeable assets as on 31st March every year in excess of Rs.1.5 million. However, assets located outside India owned by NRI (not a resident) shall not come under wealth tax bracket.
  
+Penalties: The penalty for filing wealth tax returns is 1% per month from the due date. 
+
+
+## Customs
+The non residents returning also have to pay Customs Duties for goods brought into India in person. Transfer of Residence Rules provide for a clearance up to Rs 75,000 (US $ 1125). These should include used personal and personal effects. 
