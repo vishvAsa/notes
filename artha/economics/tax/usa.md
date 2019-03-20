@@ -39,3 +39,11 @@ If moving to India while in a lower tax bracket, it might be advantageous to mov
 ### Roth IRA
 unclear US tax (30% withholding is blithely followed [[IRS pub 515](https://www.irs.gov/publications/p515#en_US_2013_publink1000224947)] and may be recovered via refunds [(bogle19)[https://www.bogleheads.org/forum/viewtopic.php?f=22&t=276156&p=4443965&sid=25f92b8dc859b54abb3a6b628ba5686f#p4443965]] ), only India tax on gains.
 
+## Estate tax
+There is a "lifetime exemption" - Estates of up to $11.4 million are free of tax, and from that point on, anything additional above that mark gets taxed at 40%. - from [MF19](https://www.fool.com/taxes/2019/01/10/2019-estate-tax-rates.aspx)
+
+## Gift tax
+Exemptions: 
+- anything below $15,000 per recipient as of 2019
+- gifts to charities
+- gifts to US citizen spouse
