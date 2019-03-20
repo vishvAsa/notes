@@ -28,6 +28,8 @@ Wealth-tax is being levied only on non-productive assets like urban land, buildi
  
 Penalties: The penalty for filing wealth tax returns is 1% per month from the due date. 
 
+## Inheritance /Estate Tax
+None as of 2019.
 
-## Customs
+## Customs duty
 The non residents returning also have to pay Customs Duties for goods brought into India in person. Transfer of Residence Rules provide for a clearance up to Rs 75,000 (US $ 1125). These should include used personal and personal effects. 
