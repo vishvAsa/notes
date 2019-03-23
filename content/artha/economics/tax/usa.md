@@ -14,7 +14,7 @@ Pre tax retirement savings (taxed on withdrawal):
 - IRA
 
 Post tax retirement savings (not taxed on withdrawal):
-- Roth IRA
+- Roth IRA. Contributions can be withdrawn anytime. Earnings can be withdrawn after age 59.5 (5 years must have passed since account opening.)
 
 ## Non resident (both by visa and tax purpose test) aliens 
 - General flat rate (even divideds)- 30%
@@ -40,13 +40,13 @@ If moving to India while in a lower tax bracket, it might be advantageous to mov
 unclear US tax (30% withholding is blithely followed [[IRS pub 515](https://www.irs.gov/publications/p515#en_US_2013_publink1000224947)] and may be recovered via refunds [(bogle19)[https://www.bogleheads.org/forum/viewtopic.php?f=22&t=276156&p=4443965&sid=25f92b8dc859b54abb3a6b628ba5686f#p4443965]] ), only India tax on gains.
 
 ## Estate tax
-Paid by the recipient of the estate - so their citizenship matters.
+Not paid by the recipient of the estate (the inheritor), but by the estate. Csitizenship matters.
 
 ### Citizens/ residents
 There is a "lifetime exemption" - Estates of up to $11.4 million are free of tax, and from that point on, anything additional above that mark gets taxed at 40%. - from [MF19](https://www.fool.com/taxes/2019/01/10/2019-estate-tax-rates.aspx)
 
 ### Non resident aliens
-Non-resident aliens have a $60,000 exclusion instead in case of Indians.
+Non-resident aliens have a $60,000 exclusion in the absence of an estate tax treaty. Applies to Indians.
 
 ## Gift tax
 Exemptions: 
