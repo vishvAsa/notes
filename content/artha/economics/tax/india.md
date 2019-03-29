@@ -9,15 +9,15 @@ Resident if one of the following is true
 - 60 days or more in a fiscal year and 365 days or more during the preceding 4 fiscal years; the 60 days may be extended to 182 days in certain cases.
 
 ## Income tax
-
+Non-Residents are taxed on India income only. Residents are taxed on worldwide income (subject to DTAA(Double Taxation Avoidance Agreement) with the foreign countries.).
 
 ### Advance payments
 As the year progresses, one is expected to pay tax. Paying at the end of the year will attract interest.
 
 Advance tax schedule: [here](https://cleartax.in/s/interest-imposed-by-income-tax-department-under-section-234c).
 
+
 ### Income earned abroad
-- If you are a resident of India, your global income will be taxed in India whether it is earned in India or outside India subject to DTAA(Double Taxation Avoidance Agreement) with the foreign countries.
 - Wealth tax is not applicable on equity - so it's 7 year exemption for NRI-s is pointless there. However, when equity (say within the Roth IRA account) is sold, not much is spent and wealth in excess of Rs 15,00,000 (as of 2019) is generated - that will attract the 1% tax after the 7 year exception for NRI.
 - Issues concerning distributions from US retirement funds - see [usa page](../usa/). 
 
