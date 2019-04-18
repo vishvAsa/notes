@@ -1,7 +1,7 @@
 ---
 title: Pick language
 unicode_script: devanagari
-emphasis_as_inline_comments: true
+
 ---
 
 One must use the language most appropriate language to solve the problem at hand quickly and with computational efficiency.
