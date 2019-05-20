@@ -7,6 +7,7 @@ title: भारतेषु गृहे शिक्षणम्
 ## Certifications
 
 ### Summaries
+
 - homeschoolers.in [summary](http://homeschoolers.in/boards-and-homeschoolers/)
 - Summary by some BEd person - [YT](https://www.youtube.com/watch?v=j6wj8jKArvU)
 
@@ -15,6 +16,7 @@ title: भारतेषु गृहे शिक्षणम्
   - Karnataka SSLC eligibility criteria - age 18 [OB](http://www.onlinebangalore.com/educ/sslc/freq1.html)!
 
 ### IGCSE, IGCE AS Level
+
 - The International General Certificate of Secondary Education (IGCSE = class X) and the International General Certificate of Education (IGCE) examinations are the world’s most popular international qualifications for 14  to 16 year-olds. From Cambridge Assessment International Education. 
 - Exams can be taken at the British Council
 - To take the O Level exams as a private candidate, the child must be registered as a private candidate in a local school affiliated to the Cambridge board. Schools with the IGCSE syllabus also allow external students who need not attend regular classes but can sit for tests or use laboratory facilities.
@@ -22,6 +24,7 @@ title: भारतेषु गृहे शिक्षणम्
 
 ### NIOS
 National Institute of Open Schooling is an Autonomous Institution under Ministry of HRD, Govt. of India. It is the largest open schooling System in the world. 
+
 - nios.ac.in
 - [@niostwit](https://twitter.com/niostwit)
 - Info resources
@@ -37,6 +40,7 @@ National Institute of Open Schooling is an Autonomous Institution under Ministry
   - At both class X and XII Four subjects namely, Veda Adhyan, Sanskrit Vyakaran, Bharatiya Darshan and Sanskrit Sahitya are clubbed as Indian Knowledge Tradition along with Sanskrit Language are available only in Sanskrit medium.                
 
 ### State level open school boards
+
 - KA [web](http://www.kolskarnataka.com/About_us.aspx)
 
 ## Groups
