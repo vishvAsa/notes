@@ -1,6 +1,6 @@
 ---
 title: Homeschooling गृहे शिक्षणम्
----  
+---
 
 ## Intro
 
