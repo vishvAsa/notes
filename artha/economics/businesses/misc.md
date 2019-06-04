@@ -1,6 +1,6 @@
 ---
 title: Misc
----  
+---
 
 ## Arbitrage
 

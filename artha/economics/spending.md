@@ -1,6 +1,6 @@
 ---
 title: Individual spending
----   
+--- 
 
 ## Conspicuous consumption
 

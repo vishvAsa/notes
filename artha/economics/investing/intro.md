@@ -1,6 +1,6 @@
 ---
 title: Intro
----  
+---
 
 
 ## Core idea
