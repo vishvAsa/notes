@@ -1,5 +1,5 @@
 ---
-title: Misc stuff
+title: Skills
 ---
 
 ## सूत्राणि
@@ -11,15 +11,17 @@ title: Misc stuff
 साम्प्रदायिक-संस्कारेष्व् अनुष्ठानम् सूत्रितम् [अत्र](साम्प्रदायिक-संस्कारेष्व् अनुष्ठानम्)।
 
 ## Ability and achievement
+### Genetics
+In several sporting and intellectual fields, genetics plays a crucial role at the highest levels. Example: Long distance runners from Ethiopia, males vs females vs transgender females.
 
-### Achievement
+### Practice
 
 #### 10000 hour rule
 
 World-class performance in many cognitively complex fields requires
 around 10000 hours of focused practice.
 
-#### Role of opportunities
+### Opportunities and advantage amplification
 
 Canadian national hockey players were overwhelmingly likely to be born
 earlier in the year - being slightly bigger/ mature, they recieved

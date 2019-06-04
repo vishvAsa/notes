@@ -6,22 +6,16 @@ contents:
     contents:
       - title: USA
         contents:
-          - title: Intro
-            url: /artha/places/usa/intro/
+          - url: dir://artha/places/usa/
           - title: SF Bay
             contents:
-              - title: Intro
-                url: /artha/places/usa/sf-bay/intro/
-              - title: Arts
-                url: /artha/places/usa/sf-bay/arts/
+              - url: dir://artha/places/usa/sf-bay/
       - title: India
         contents:
-          - title: Intro
-            url: /artha/places/india/intro/
+          - url: dir://artha/places/india/
           - title: Beṇgaḷūru
             contents:
-              - title: Intro
-                url: /artha/places/india/bengaluuru/intro/
+              - url: dir://artha/places/india/bengaluuru/
   - title: Economics
     contents:
       - title: Businesses
@@ -81,14 +75,7 @@ contents:
         url: /artha/education/principles/
       - title: Home schooling
         contents:
-        - title: Intro
-          url: /artha/education/home_school/
-        - title: FAQ
-          url: /artha/education/home_school/faq/
-        - title: India
-          url: /artha/education/home_school/india/
-        - title: USA
-          url: /artha/education/home_school/usa/
+        - url: dir://artha/education/home_school/
       - title: Lecturing
         url: /artha/education/lecturing/
   - title: Notes Home
