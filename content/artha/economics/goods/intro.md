@@ -1,6 +1,6 @@
 ---
 title: Goods and services
----  
+---
 
 ## Public goods
 

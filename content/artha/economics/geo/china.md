@@ -1,6 +1,6 @@
 ---
 title: China
----  
+---
 
 Chinese economy is growing at a fast pace. Politically, China seems to be stable in the short to medium term.
 

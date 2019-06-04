@@ -1,6 +1,6 @@
 ---
 title: Funds
----    
+---  
 
 ## Relying on experts or algorithms
 

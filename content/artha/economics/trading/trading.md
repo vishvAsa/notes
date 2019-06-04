@@ -1,6 +1,6 @@
 ---
 title: Orders
----  
+---
 
 Here we consider basic (possibly multi-step) actions involving various negotiable instruments in the market.
 
