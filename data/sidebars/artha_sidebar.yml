@@ -2,6 +2,9 @@
 
 title: Parts
 contents:
+  - title: Environment
+    contents:
+      - url: dir://artha/environment/
   - title: Places
     contents:
       - title: USA
