@@ -31,6 +31,9 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 - Indian cooking smoke (indoor) said to equal 20 cigarettes a day (source: prakti promotional video).
 - Temperature at top: max 580°C ([IG18](https://www.instagram.com/p/BgLspLPlHN0/))
 
+## Realizations
+- mud stoves cost 250 Rs in 2018 and lasted 6 months.
+
 ## Cube with 2 sides open + holes for ventilation at the bottom and sides
 ### Realizations
 - Prakti woodstove.
@@ -52,15 +55,17 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 - One needs to keep pushing the wood in - with hand or with gravity to keep the stove burning.
 
 ### Key principles
-- Chimney effect - described seperately.
 - Air intake: One leaves generous space to suck in air from under the mesh which holds the wood fuel sticks - or one provides a separate air intake pipe at the bottom.
+- Chimney effect - described seperately.
+  - Needs a minimum height.
+- Even the smoke/ soot burns in good models.
 - Limited fuel consumption:
   - Only a small part of the wood ever burns - very efficiently at that, at high temperature.
-- Even the smoke/ soot burns in good models.
 - **Insulation**: Combustion, air-sucking and cooking efficiency keeps increasing with temperature increase. So, the stove body is ideally well insulated.
 
-### Good designs and videos
-<div class="videoEmbed" src="https://youtu.be/tbBilWdfPgM"> </div>
+### Construction videos
+- Clay moulds - [HS19](https://youtu.be/tbBilWdfPgM)
+- With just bricks - basic - [HS19](https://youtu.be/tbBilWdfPgM)
 
 ## Chimneys
 - The addition of chimneys, in all cases, reduces smoke pollution. It also increases combustion efficiency due to the chimney effect - more effectively pulling fresh air.
