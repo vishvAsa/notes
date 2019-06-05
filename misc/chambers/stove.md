@@ -5,6 +5,10 @@ title: Stove
 ## Cubes with 1 side open
 - Example: traditional homa-kUNDa-s. If the combustion area is large enough and not cramped, equivalent to burning wood out in the open. 
 
+{{< figure src="../images/tretAgni-kuNDas-AhavanIya-alight.jpg" title="" >}}
+{{< figure src="../images/tretAgni-kuNDas-with-fire-pots.jpg" title="" >}}
+
+
 ### Characteristics 
 - Consumes quite a bit of wood. 
 - Lot of smoke when the fire is low, and in the initial and terminal stages. 
