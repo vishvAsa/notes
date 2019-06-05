@@ -45,6 +45,7 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 ### Operation
 - Must clean up ash buildup at the bottom so as to not block air. 
 - One needs to keep pushing the wood in - with hand or with gravity to keep the stove burning.
+- Burns about 1 kg of fuel per hour ([himalayan video](https://youtu.be/tbBilWdfPgM)).
 
 ### Key principles
 - Chimney effect - height of the chimney is directly proportional to the pressure with which cold air gets sucked in. 
@@ -55,7 +56,7 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 - **Insulation**: Combustion, air-sucking and cooking efficiency keeps increasing with temperature increase. So, the stove body is ideally well insulated.
 
 ### Good designs and videos
-TBC
+<div class="videoEmbed" src="https://youtu.be/tbBilWdfPgM"> </div>
 
 ## Chimneys
 - The addition of chimneys, in all cases, reduces smoke pollution. It also increases combustion efficiency due to the chimney effect - more effectively pulling fresh air.
