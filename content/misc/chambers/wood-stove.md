@@ -29,6 +29,7 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 ### Characteristics 
 - Relatively inefficient burning - tends to produce charcoal besides ash, quite a bit of smoke.
 - Indian cooking smoke (indoor) said to equal 20 cigarettes a day (source: prakti promotional video).
+- Temperature at top: max 580°C ([IG18](https://www.instagram.com/p/BgLspLPlHN0/))
 
 ## Cube with 2 sides open + holes for ventilation at the bottom and sides
 ### Realizations
@@ -42,10 +43,13 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 - Good YT explanation [here](https://www.youtube.com/watch?v=4TmWvLyaGdk).
 - Types: L and J shapes.
 
+### Characteristics
+- Temperature at top: 715°C ([IG18](https://www.instagram.com/p/BgLspLPlHN0/)). With good insulation, can even reach 1100°C  ([IG18](https://www.instagram.com/p/BjkR34FBXob))
+- Burns about 1 kg of fuel per hour ([himalayan video](https://youtu.be/tbBilWdfPgM)).
+
 ### Operation
 - Must clean up ash buildup at the bottom so as to not block air. 
 - One needs to keep pushing the wood in - with hand or with gravity to keep the stove burning.
-- Burns about 1 kg of fuel per hour ([himalayan video](https://youtu.be/tbBilWdfPgM)).
 
 ### Key principles
 - Chimney effect - described seperately.
