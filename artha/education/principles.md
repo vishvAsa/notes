@@ -23,6 +23,8 @@ title: Principles
 
 ### प्रोत्साहन-माध्यमानि
 - आसक्तिजननम् अनुभवैः।
+- सहपाठिभिः प्रोत्साहनम्।
+  - Avoid age segregation. [PT08](https://www.psychologytoday.com/us/blog/freedom-learn/200809/why-we-should-stop-segregating-children-age-part-i?fbclid=IwAR3-DH9_fw4LezAM7L_cryu-C63i6jskdagRD-LmHJVT4_DXEB-Ta2ooToo)
 - सुरक्षा-प्रदानं यथापेक्षम्
     - This principle applies in general: A person needs a "secure base" from which he ventures out and learns about the world.
         - Initially, a child finds this "secure base" in the mother, father, surrounding family and friends.
@@ -31,12 +33,15 @@ title: Principles
   - Target standardized tests and milestones
 - परिश्रमप्रशंसनेन प्रोत्साहनम्।
 - दुष्कार्ये निन्दनेन प्रोत्साहनम्।
+  - तीक्ष्णदण्डो मास्तु।
+- कामपूरणेन प्रोत्साहनम्।
 
 ### विधिचयनम्
 #### आसक्तिः
 - आसक्तिजननम् अन्यत्रोक्तम्।
 - आसक्तायैव शिक्षणम् प्रायेण
   - Child should be hungry for knowledge - then he will pick up knowledge rapidly.
+  - don't replicate school at home - boxed syllabus, factory model.
 - अनासक्ताय शिक्षनम् क्वचित्
     - अन्यथा वक्रताऽश्रयणीया
         - randy-pausch head-fake [SM](https://groups.google.com/forum/#!topic/sadaswada/gdNblE48JhI)
@@ -48,11 +53,3 @@ title: Principles
 - वक्रता यथा सद्भावपूर्णताचोदने वयस्यप्रभावः, काव्यानि, अनुष्ठानञ्च (Personality shaping would have to be done in such an indirect way that the subject would not realize exactly how he is being shaped until it's just a deep essential part of who he is.)
 - सम्बद्ध-चर्चाः
     - randy-pausch head-fake [SM](https://groups.google.com/forum/#!topic/sadaswada/gdNblE48JhI)\]
-
-### दोषाः वारणीयाः
-- वैमुख्योत्पादकाः
-    - तीक्ष्णदण्डः
-    - कामापूरणम्
-- Syllabus
-    - don't replicate school at home - boxed syllabus, factory model.
-- Avoid age segregation. [PT08](https://www.psychologytoday.com/us/blog/freedom-learn/200809/why-we-should-stop-segregating-children-age-part-i?fbclid=IwAR3-DH9_fw4LezAM7L_cryu-C63i6jskdagRD-LmHJVT4_DXEB-Ta2ooToo)
