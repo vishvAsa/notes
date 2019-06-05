@@ -1,5 +1,5 @@
 ---
-title: Stove
+title: Wood Stove
 ---
 
 ## Cubes with 1 side open
@@ -7,9 +7,9 @@ title: Stove
 - Example: traditional homa-kUNDa-s (Idealized).  
 
 <div class="row">
-{{< figure src="../images/tretAgni-kuNDas-alight.jpg" title="" class="thumbnail">}}
-{{< figure src="../images/tretAgni-kuNDas-AhavanIya-alight.jpg" title="" class="thumbnail">}}
-{{< figure src="../images/tretAgni-kuNDas-with-fire-pots.jpg" title="" class="thumbnail">}}
+{{< figure src="../images/kuNDa/tretAgni-kuNDas-alight.jpg" title="" class="thumbnail">}}
+{{< figure src="../images/kuNDa/tretAgni-kuNDas-AhavanIya-alight.jpg" title="" class="thumbnail">}}
+{{< figure src="../images/kuNDa/tretAgni-kuNDas-with-fire-pots.jpg" title="" class="thumbnail">}}
 </div>
 
 ### Characteristics 
@@ -21,8 +21,8 @@ title: Stove
 This seems to achieve characteristics similar to "Cube with 2 sides open + holes for ventilation at the bottom and sides" type described below.
 
 <div class="row">
-{{< figure src="../images/homa-kuNDa-sieve-grill.jpg" title=""  class="thumbnail">}}
-{{< figure src="../images/homa-kuNDa-sieve-grill-post-combustion.jpg" title=""  class="thumbnail">}}
+{{< figure src="../images/kuNDa/homa-kuNDa-sieve-grill.jpg" title=""  class="thumbnail">}}
+{{< figure src="../images/kuNDa/homa-kuNDa-sieve-grill-post-combustion.jpg" title=""  class="thumbnail">}}
 </div>
 
 ## Cube with 2 sides open
@@ -48,7 +48,7 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 - Burns about 1 kg of fuel per hour ([himalayan video](https://youtu.be/tbBilWdfPgM)).
 
 ### Key principles
-- Chimney effect - height of the chimney is directly proportional to the pressure with which cold air gets sucked in. 
+- Chimney effect - described seperately.
 - Air intake: One leaves generous space to suck in air from under the mesh which holds the wood fuel sticks - or one provides a separate air intake pipe at the bottom.
 - Limited fuel consumption:
   - Only a small part of the wood ever burns - very efficiently at that, at high temperature.
@@ -60,3 +60,4 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 
 ## Chimneys
 - The addition of chimneys, in all cases, reduces smoke pollution. It also increases combustion efficiency due to the chimney effect - more effectively pulling fresh air.
+- Chimney effect - height of the chimney is directly proportional to the pressure with which cold air gets sucked in. 
