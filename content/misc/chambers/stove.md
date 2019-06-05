@@ -3,12 +3,14 @@ title: Stove
 ---
 
 ## Cubes with 1 side open
-- Example: traditional homa-kUNDa-s. If the combustion area is large enough and not cramped, equivalent to burning wood out in the open. 
+- If the combustion area is large enough and not cramped, equivalent to burning wood out in the open. Or in principle equivalent to a "Cube with 2 sides open" type stove with pot on top.  
+- Example: traditional homa-kUNDa-s (Idealized).  
 
+<div class="row">
 {{< figure src="../images/tretAgni-kuNDas-alight.jpg" title="" class="thumbnail">}}
 {{< figure src="../images/tretAgni-kuNDas-AhavanIya-alight.jpg" title="" class="thumbnail">}}
 {{< figure src="../images/tretAgni-kuNDas-with-fire-pots.jpg" title="" class="thumbnail">}}
-
+</div>
 
 ### Characteristics 
 - Consumes quite a bit of wood. 
@@ -18,9 +20,10 @@ title: Stove
 ### Improvement with grill and sieve
 This seems to achieve characteristics similar to "Cube with 2 sides open + holes for ventilation at the bottom and sides" type described below.
 
+<div class="row">
 {{< figure src="../images/homa-kuNDa-sieve-grill.jpg" title=""  class="thumbnail">}}
 {{< figure src="../images/homa-kuNDa-sieve-grill-post-combustion.jpg" title=""  class="thumbnail">}}
-
+</div>
 
 ## Cube with 2 sides open
 ### Characteristics 
