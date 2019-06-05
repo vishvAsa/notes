@@ -13,6 +13,8 @@ title: Stove
 ### Improvement with grill and sieve
 This seems to achieve characteristics similar to "Cube with 2 sides open + holes for ventilation at the bottom and sides" type described below.
 
+{{< figure src="../images/homa-kuNDa-sieve-grill.jpg" title="" >}}
+{{< figure src="../images/homa-kuNDa-sieve-grill-post-combustion.jpg" title="" >}}
 
 
 ## Cube with 2 sides open
@@ -25,7 +27,7 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 - Prakti woodstove.
 
 ### Characteristics 
-- Relatively efficient burning. 70 to 90% less smoke compared to basic "Cube with 2 sides open". (Numbers from prakti woodstove videos 2018.)
+- Relatively efficient burning. 70 to 90% less smoke compared to basic "Cube with 2 sides open". (Numbers from prakti woodstove videos 2018.) Is this still equal to 2 cigarettes a day (going by prakti promotional videos)?
 
 
 ## Rocket stove
@@ -45,4 +47,7 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 - **Insulation**: Combustion, air-sucking and cooking efficiency keeps increasing with temperature increase. So, the stove body is ideally well insulated.
 
 ### Good designs and videos
-- 
+TBC
+
+## Chimneys
+- The addition of chimneys, in all cases, reduces smoke pollution. It also increases combustion efficiency due to the chimney effect - more effectively pulling fresh air.
