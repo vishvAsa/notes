@@ -22,8 +22,12 @@ title: Principles
 - सुभाषितैः शिक्षणम्।
 
 ### प्रोत्साहन-माध्यमानि
+- ध्यानापकर्षक-वारणेन प्रोत्साहनम्।
 - आसक्तिजननम् अनुभवैः।
+- अनिवार्यतया प्रोत्साहनम्।
+  - तथैव खलु श्रुतिः संस्कृतभाषिणी, सुप्रत्ययो हॆब्बारद्राविडभाषी।
 - सहपाठिभिः प्रोत्साहनम्।
+  - सत्सङ्ग-रक्षणं विशिष्य।
   - Avoid age segregation. [PT08](https://www.psychologytoday.com/us/blog/freedom-learn/200809/why-we-should-stop-segregating-children-age-part-i?fbclid=IwAR3-DH9_fw4LezAM7L_cryu-C63i6jskdagRD-LmHJVT4_DXEB-Ta2ooToo)
 - सुरक्षा-प्रदानं यथापेक्षम्
     - This principle applies in general: A person needs a "secure base" from which he ventures out and learns about the world.
@@ -37,6 +41,8 @@ title: Principles
 - कामपूरणेन प्रोत्साहनम्।
 
 ### विधिचयनम्
+- “Hand Heart Head” इति क्रमम् इच्छन्ति केचित्।
+
 #### आसक्तिः
 - आसक्तिजननम् अन्यत्रोक्तम्।
 - आसक्तायैव शिक्षणम् प्रायेण
