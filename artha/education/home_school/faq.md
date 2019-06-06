@@ -7,6 +7,7 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 - People with narrow backgrounds (never having seen gifted and normal homeschooled kids, themselves products of "factory model" education) find it hard to appreciate the benefits of homeschooling, while finding it easy to see supposed downsides. Hence this section. Here we try to answer some common objections from our perspective.
 - But, please see other objection lists below. Where possible we try to avoid repeating answers.:
   - [NC](http://www.naturalchild.org/common_objections/).
+  - [Unschooling FAQ](https://unschoolingtouniversity.com/unschooling-faq/)
   - अमृतवर्षिण्य् [अत्र](https://www.youtube.com/watch?v=3D37Oy-p-TQ&feature=youtu.be&t=1517)।
 
 ## Socialization
@@ -16,6 +17,7 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 **Answer**:
 
 - Our kids will have plenty of opportunities to fight and cooperate with other kids - and even adults. They will be adequate (unsupervised) playtime.
+- "Forced association is not socialization."
 - Company that a child gains at school is pretty random - and not necessarily healthy overall. Several of the little brats will be mean bullies, dullards and otherwise indigent. We know of children lost and dispirited due to bullying. With our techniques, we will aim to provide a healthy and dhArmika peer group - while allowing for _small_ exposure to the mean, the bad and the ugly.
 
 ### Examples of activities
@@ -50,6 +52,8 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 - Discipline is important -
     - those of us responsible for educating the child are confident in our ability to firmly and calmly enforce rules required of a brahmachArin - while being careful not to spark counter-productive rebellion. (Eg. to note: we have experience increasing our household saMskAra-s.)
     - Discipline will be inculcated indirectly via special activities and classes (veda memorization, RSS shAkha-s, volunteering, ... ); and through sagely lore.  (Personality shaping would have to be done in such an indirect way that the subject would not realize exactly how he is being shaped until it's just a deep essential part of who he is.)
+
+## Peer learning
 - It is true that some skills and knowledge is imparted better in the company of other students. For example: vedic chanting and memorization, songs, dance, games.. We will ensure that such company is not lacking within those contexts.
 - Mastery over many other skills and branches of knowledge is a matter of (mostly) solitary effort - and our personal coaching more than suffices. This we know from our own learning experience - we did not benefit so much from peers in our studies of history, civics, chemistry or mathematics. That said, in the age of the internet ([https://math.stackexchange.com](https://math.stackexchange.com), [stackoverflow.com](http://stackoverflow.com), reddit, ...) and exams, learning will by no means happen in isolation.
 
@@ -64,6 +68,7 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 - Famous homeschoolers -
     - Promethea \[[AT](https://magazine.atavist.com/promethea-unbound-child-genius-montana)\]. US and world leaders - [HS](https://www.homeschoolacademy.com/a/famoushomeschoolers/), [Wiki](https://en.wikipedia.org/wiki/List_of_homeschooled_people).
 - See [India examples page](../india/examples/).
+- Canada: Most homeschooling families estimate that about 10 percent of homeschoolers unschool.
 
 ### USA
 
@@ -80,6 +85,9 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 - Various boards allow private candidates to take up public exams for school-leaving certificates. This is a well established practice, even in India. See below for links.
 - We will aim to have kids be more than academically ready for college far earlier than regular school going kids. (School tends to be a big waste of time.) Social readiness for hostel-life may have to wait for some time - or it may happen sooner.
     - Many young homeschooled kids in CA (as of 2018) happily take college courses at local community colleges.
+
+## Strain on parents
+"Homeschooling and unschooling are the easy choice. School is stressful. In unschooling, there is no homework, tests, PD days, lunches, inclement weather, extra-curricular activities, uniforms, overdue library books, field day permission slips, over-tired kids, science-fair projects, fundraising, classroom volunteering, and parent-teacher interviews. A typical day of unschooling is like a Saturday afternoon in July. Fun. Relaxing. Close relationships."
 
 ## Someone like you!
 
