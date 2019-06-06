@@ -69,6 +69,7 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
     - Promethea \[[AT](https://magazine.atavist.com/promethea-unbound-child-genius-montana)\]. US and world leaders - [HS](https://www.homeschoolacademy.com/a/famoushomeschoolers/), [Wiki](https://en.wikipedia.org/wiki/List_of_homeschooled_people).
 - See [India examples page](../india/examples/).
 - Canada: Most homeschooling families estimate that about 10 percent of homeschoolers unschool.
+- Australia- [HSAU](http://homeschoolaustralia.com/articles/quotes.html)
 
 ### USA
 
@@ -88,6 +89,10 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 
 ## Strain on parents
 "Homeschooling and unschooling are the easy choice. School is stressful. In unschooling, there is no homework, tests, PD days, lunches, inclement weather, extra-curricular activities, uniforms, overdue library books, field day permission slips, over-tired kids, science-fair projects, fundraising, classroom volunteering, and parent-teacher interviews. A typical day of unschooling is like a Saturday afternoon in July. Fun. Relaxing. Close relationships."
+
+## Don't experiment on your kids!
+- “Home-based education is not an experiment. It’s how people learned to function in the world for centuries. And there is no reason to think people today can’t do the same thing. School is the experiment, not the lack of it. And I think that experiment is in trouble.” Wendy Priesnitz, Author
+- “Everyone homeschools the first six years of their child’s life.  Some of us want to keep on doing it.” Judy Arnall
 
 ## Someone like you!
 
