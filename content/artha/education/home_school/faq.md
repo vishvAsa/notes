@@ -63,17 +63,13 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 - It is true that some kids resort to open/ home schooling out of compulsion as a second choice. On the other hand -highly gifted children, as well as normal kids, as well as those with learning disabilities **opt for** home-schooling. See examples listed below.
 - Famous homeschoolers -
     - Promethea \[[AT](https://magazine.atavist.com/promethea-unbound-child-genius-montana)\]. US and world leaders - [HS](https://www.homeschoolacademy.com/a/famoushomeschoolers/), [Wiki](https://en.wikipedia.org/wiki/List_of_homeschooled_people).
+- See [India examples page](../india/examples/).
 
 ### USA
 
 - California
     - San Francisco Bay Area Gifted Homeschoolers - site [here](http://www.sfbaghs.org/), talk by leader here - [201804](https://archive.org/details/Homeschooling_talks/2018-04-26-13_04_19_San_Jose.mp3).
     - 15k homeschools were registered in CA during ~2018.
-
-#### India
-See [India examples page](../india/examples/).
-
-#### News reports
 
 ## Degrees and college
 
@@ -106,3 +102,14 @@ See [India examples page](../india/examples/).
 - There are about 2.3 million home-educated students in the United States (as of spring 2016). This is up from one estimate that there were about 2 million children (in grades K to 12) home educated during the spring of 2010 in the United States (Ray, 2011). It appears the homeschool population is continuing to grow (at an estimated 2% to 8% per annum over the past few years). An estimated 3.4 million U.S. adults have been homeschooled for at least one year of their K-12 years, and they were homeschooled an average of 6 to 8 years. If one adds to this number the 2.3 million being homeschooled today, an estimated 5.7 million Americans have experienced being homeschooled. 
 - The home-educated typically score 15 to 30 percentile points above public-school students on standardized academic achievement tests. (The public school average is the 50th percentile; scores range from 1 to 99.) A 2015 study found Black homeschool students to be scoring 23 to 42 percentile points above Black public school students (Ray, 2015).
 - The home-educated are doing well, typically above average, on measures of social, emotional, and psychological development. Research measures include peer interaction, self-concept, leadership skills, family cohesion, participation in community service, and self-esteem.
+
+## What's wrong with regular schooling?
+- Factory model - near zero care for child's strengths, weaknesses, interests.
+- See lectures linked in the [intro page](../).
+- Passive learning, others' design: "The very structure of school makes children passive recipients of education designed by others. They cannot charge ahead fueled by curiosity, pursuing interests wherever they lead... the top priority in school is completing assignments correctly and scoring well on tests. Despite what individual children want to learn, value is given to what can be evaluated."
+- Age segregation - "They have little exposure to essential adult role models and minimal engagement in community life. "
+- Disembodied learning: "Movement is essential for learning. The emphasis in school, however, is almost entirely static, and almost entirely focused on left-brain analytical thinking."
+- Less trial and error: "Coming up with the correct answer leaves little room for trial and error... Emphasis on the correct answer squeezes out unconventional thinking. "
+- Overemphasis on early reading: "In school, reading is used to instruct in every other subject, so the child who doesn’t read at grade level quickly falls behind."
+- Same teaching techniques irrespective of age: "Conventional education takes the same approach to a six-year-old and an 18-year-old: assignments, grades, tests. "
+- Engendering cynicism - "Absorption and play are on one side in opposition to work and learning on another. This sets the inherent joy and meaning in all these things adrift. The energy that formerly prompted a child to explore, ask questions, and eagerly leap ahead becomes a social liability."
