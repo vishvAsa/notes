@@ -16,10 +16,16 @@ title: Principles
 ### शिक्षण-माध्यमानि
 - स्पष्टोत्तरदानेन शिक्षणम्। 
 - अनुभवेन शिक्षणम्।
+  - Volunteering
+  - Travel
+  - Games: Video games
 - विस्मयजनक-कथाभिः शिक्षणम्।
   - किन्तूत्तमश् शिक्षितो गाम्भीर्येण गृह्णीयात् पाठम्।
       - Make sure that the student is always convinced that there is something to it (eg. - sure that panchatantra is not just stupid animal stories, that oblations to the fire rivets one to the cosmic order).
 - सुभाषितैः शिक्षणम्।
+- पठनेन शिक्षणम्।
+- गायनेन शिक्षणम्।
+- वादैः शिक्षणम्।
 
 ### प्रोत्साहन-माध्यमानि
 - ध्यानापकर्षक-वारणेन प्रोत्साहनम्।
