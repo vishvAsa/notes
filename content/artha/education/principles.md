@@ -6,18 +6,19 @@ title: Principles
 
 कस्यचित् Checkvist-टिप्पणयो [ऽत्र](https://checkvist.com/checklists/575542-desiderata)।
 
-  
-
 प्राचीनेषु+उदाहरणानि -
 
 - [Paidea](https://en.wikipedia.org/wiki/Paideia) 
+
+## विषयचयने
+- "We are moving as a society from content to competencies. It is not just what you know, but what you can do with what you know."
+- "The worst we can do to those children is put them in online courses which is where our education system is heading now. Online courses are someone else’s’ agenda (usually the government) of what they think learners need to know. Learners must obey instructions because the learning is not their own."
 
 ## स्थूल-विधौ अपेक्षाः
 ### शिक्षण-माध्यमानि
 - स्पष्टोत्तरदानेन शिक्षणम्। 
 - अनुभवेन शिक्षणम्।
-  - Volunteering
-  - Travel
+  - Volunteering, Internships
   - Games: Video games
 - विस्मयजनक-कथाभिः शिक्षणम्।
   - किन्तूत्तमश् शिक्षितो गाम्भीर्येण गृह्णीयात् पाठम्।
@@ -30,6 +31,7 @@ title: Principles
 ### प्रोत्साहन-माध्यमानि
 - ध्यानापकर्षक-वारणेन प्रोत्साहनम्।
 - आसक्तिजननम् अनुभवैः।
+  - Travel and stays
 - अनिवार्यतया प्रोत्साहनम्।
   - तथैव खलु श्रुतिः संस्कृतभाषिणी, सुप्रत्ययो हॆब्बारद्राविडभाषी।
 - सहपाठिभिः प्रोत्साहनम्।
@@ -47,6 +49,8 @@ title: Principles
 - कामपूरणेन प्रोत्साहनम्।
 
 ### विधिचयनम्
+- पोषकेभ्यः किमिष्यते? अवधानम्, मुख्यतया।
+  - "More than anyone, these children need adults in their lives and resources are secondary. At the minimum, a library card and internet connection can help them, but a caring, attentive adult, who can give smaller ratio attention will be most beneficial in developing competencies."
 - “Hand Heart Head” इति क्रमम् इच्छन्ति केचित्।
 
 #### आसक्तिः
