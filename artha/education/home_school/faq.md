@@ -72,7 +72,7 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 - Australia- [HSAU](http://homeschoolaustralia.com/articles/quotes.html)
 
 ### USA
-
+- About 1.7 million school-aged children in the U.S. are home-schooled as of 2018.
 - California
     - San Francisco Bay Area Gifted Homeschoolers - site [here](http://www.sfbaghs.org/), talk by leader here - [201804](https://archive.org/details/Homeschooling_talks/2018-04-26-13_04_19_San_Jose.mp3).
     - 15k homeschools were registered in CA during ~2018.
