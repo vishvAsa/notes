@@ -78,7 +78,10 @@ contents:
         url: /artha/education/principles/
       - title: Home schooling
         contents:
-        - url: dir://artha/education/home_school/
+          - url: dir://artha/education/home_school/
+          - title: India
+            contents:
+              - url: dir://artha/education/home_school/india/
       - title: Lecturing
         url: /artha/education/lecturing/
   - title: Notes Home
