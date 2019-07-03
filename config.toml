@@ -5,7 +5,7 @@ theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_github"
 disablePathToLower = true
 [params]
-  githubEditMePathBase = "https://github.com/vvasuki/notes/edit/master/content/"
+  githubEditMePathBase = "https://github.com/vvasuki/notes/edit/hugo-source/content/"
   contactLink = "https://github.com/vvasuki/notes/issues/new"
   env = "production"
   disqusShortcode = "vvasuki-site"
