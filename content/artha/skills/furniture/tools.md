@@ -7,6 +7,7 @@ title: Tools
 - Work Gloves
 
 ## Holding
+- G clamp - 8+ inch.
 - Baby vice (clamp based)
 
 ## Cutting
@@ -24,4 +25,4 @@ Descending order of preference
     - Harder to control than jigsaw
   - Hand saw
   - Hack saw
-- Table saw
+- Table circle saw
