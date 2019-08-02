@@ -56,6 +56,9 @@ contents:
       - title: Clothing
         contents:
           - url: dir://artha/skills/clothing/
+      - title: Furniture
+        contents:
+          - url: dir://artha/skills/furniture/
       - title: Learning
         contents:
           - url: dir://artha/skills/learning/
