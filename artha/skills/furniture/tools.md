@@ -12,6 +12,7 @@ title: Tools
 
 ## Cutting
 - Shears for metal and branches.
+- Chisel set.
 
 ### Saw
 Descending order of preference
