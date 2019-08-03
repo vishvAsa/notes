@@ -19,7 +19,7 @@ Descending order of preference
 - Alert - blades can break - wear protection!
 
 - Reciprocating saws
-  - Slightline Pendulum Jigsaw
+  - Pendulum Jigsaw with sightline channel (better visibility)
     - Pendulum movement, where the blade goes back and forth as well as up and down, helps go through thick wood pieces more quickly.
   - Electric sabre saw
     - Can get cheaper reciprocating saw attachement for drills 
