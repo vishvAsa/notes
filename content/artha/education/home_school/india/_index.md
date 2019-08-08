@@ -47,9 +47,10 @@ National Institute of Open Schooling is an Autonomous Institution under Ministry
 
 - मेलनानि \- २०१६ [अत्र](https://svargaonearth.wordpress.com/2016/03/04/bye-bye-to-bras/comment-page-1/#comment-62)।
 - [Swashikshan - Indian Association of Homeschoolers](http://homeschoolers.in/) who hold [Conferences](http://homeschoolers.in/indian-homeschoolers-conference-2014/). [FB](https://www.facebook.com/pg/swashikshan/posts/).
-- [Shikshantar](http://www.swaraj.org/shikshantar/) that support homeschooling through [The Peoples' Institute for Rethinking Education and Development](http://www.swaraj.org/shikshantar/resisting.html)
+- [Shikshantar](http://www.swaraj.org/shikshantar/) that support homeschooling /unschooling through [The Peoples' Institute for Rethinking Education and Development](http://www.swaraj.org/shikshantar/resisting.html)
 -  RSS- शाखाम् अपि गच्छेत्! 
 - City groups
     - Pune Homeschoolers Google group
-    - Bengaluru - [FB](https://www.facebook.com/groups/bangalorehomeschoolers/)
-- Microschools - [LM15](http://www.livemint.com/Sundayapp/r8ESEnsr0UOnU0KiXDJT6M/Micro-schools-Going-beyond-textbooks.html)
+    - Bengaluru 
+      - [FB](https://www.facebook.com/groups/bangalorehomeschoolers/)
+      - Homeschoolers Nook [FB](https://www.facebook.com/groups/817319035022430)
