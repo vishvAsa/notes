@@ -23,6 +23,6 @@ title: Wood
 
 ### Properties
 
-- not as strong as MDF, liable to , but denser and cheaper.
 - Made by hot-pressing sawdust (not fiber) with resin.
+- not as strong as MDF, but stronger than wood, but denser and cheaper.
 - will expand when exposed to moisture. While it should never be used outdoors
