@@ -7,10 +7,10 @@ title: Un-schools
 ## Child-directed schools
 - The approach is to not teach, but to assist the child in learning and empower each child to become a better learner and to learn on its own. Freedom is provided to learn what the child is interested in. Freedom is provided to learn to the levels that a child is interested in and capable of.
 
-## Aarohi 
+### Aarohi 
 - beyond Hosur - [visit ppt](http://aarohilife.org/home/content/visiting-o-campus).
 
-## saMvidA
+### saMvidA
   - [www.samvida.org](https://www.google.com/url?q=http://www.samvida.org&sa=D&ust=1565281940547000)
   - Basavanagudi, Bangalore took shape in 2013
   - Supposedly costly.
@@ -33,3 +33,7 @@ title: Un-schools
     - ८ वर्षेभ्यः परमेवाक्षराभ्यासः! किञ्च शीघ्रमेव लभन्ते कौशलम् बालाः।
     - किञ्च “Spiritual but not religious” इति ते जनाः, भारतीयसम्प्रदायेन विच्युता इति केचन कृष्णभक्त-प्राय-पोषकाश् शालान्तरम् प्रारभन्त।
 - तत्र सूचनाप्रदः - भरतमहोदयो (IT क्षेत्रम् पुरा। अधुना पठनम् - BCom। पुत्रद्वयम् - ८ प्रह्लादवरदः। ६ हृषीकेशः।) ऽवदत्। सः स्वयं शिशुशिक्षणकेन्द्रं किञ्चिच् चालयति, यत्र संस्कृतादिकम् पाठयन्ति। ज्येष्ठबालो ऽधुनैवाक्षराभ्यासम् प्रारभते।
+
+## गुरुकुलानि
+- purna pramita mAdhva-shAlA - गिरिनगरपरिसरे।
+  - Students seated on floor study shAstra-s.
