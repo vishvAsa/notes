@@ -27,7 +27,8 @@ title: Materials
   - Local manufacturer - around 5 Rs less. 
 
 ## Glass
-- 4mm - 280-600 per sqft with installation.
+- 4mm often used for windows.
+- 280-600 per sqft with installation.
 
 ### Toughened glass
 - 12mm toughened glass very hard to break. Can sit on it.
