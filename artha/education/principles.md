@@ -18,6 +18,7 @@ title: Principles
 ### शिक्षण-माध्यमानि
 - प्रश्नैः शिक्षणम्।
 - स्पष्टोत्तरदानेन शिक्षणम्। 
+- क्रीडाभिः शिक्षणम्।
 - अनुभवेन शिक्षणम्।
   - Volunteering, Internships
   - Games: Video games
