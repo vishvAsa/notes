@@ -1,8 +1,9 @@
 ---
 title: News
 ---
-
-- पत्त्रिका-चित्राण्य् [अत्र](https://photos.app.goo.gl/NDVdrtWCa2pZzRS79)।
+- [AE13] Excess of structure in children's daily lives correlated with mental health problems (https://aeon.co/essays/children-today-are-suffering-a-severe-deficit-of-play)
+- [IE19] Supriya Narang, Bangalore-based homeschooler (https://indianexpress.com/article/parenting/blog/homeschooling-child-is-six-years-old-and-has-never-gone-to-a-school-5964235/)
+- [TOI19] Bengaluru homeschoolers talk about road-schooling and traveling as part of a homeschooling lifestyle. (https://timesofindia.indiatimes.com/city/bengaluru/life-is-a-highway-parents-and-kids-hit-road-for-experiential-learning/articleshow/70942958.cms)
 - Malvika Joshi (right), a 17-year-old homeschooled girl from Mumbai, was admitted to the famed Massachusetts Institute of Technology (MIT) for a degree programme in science. [HT16](https://www.hindustantimes.com/mumbai-news/i-dislike-the-entire-schooling-system-says-mom-of-homeschooled-teenager-who-makes-it-to-mit/story-hM4iJW9O19ACfmpp4z6zCP.html)
 - [TOI18](https://timesofindia.indiatimes.com/life-style/spotlight/homeschooling-as-a-way-of-life/articleshow/66265929.cms)
 - [TOI13](https://timesofindia.indiatimes.com/life-style/relationships/parenting/Is-home-schooling-good-for-your-child/articleshow/24804617.cms)
