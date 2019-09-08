@@ -4,9 +4,10 @@ title: Homeschooling गृहे शिक्षणम्
 
 ## Intro
 
-## Videos
+## Videos and audio
 - Ken Robinson [TED06](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity) \- critique of factory-model
 - अमृतवर्षिण्य् [अत्र](https://www.youtube.com/watch?v=3D37Oy-p-TQ&feature=youtu.be&t=1517)।
+- Homeschooling talk in San Jose, 2018 [SJ18] (https://archive.org/details/Homeschooling_talks/)
 
 ## College admission
 - Standardized test scores matter.
