@@ -26,8 +26,12 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 </div>
 
 ### Improvement with holes, fan fitted at bottom
+#### supernova model 
 - "this kund generates lowest % of carbon-monoxide and needs less quantity of yagna herbal material as the material is vaporized and gasified 100% without waste because the temperature attained by the kunda is always above 300°C along with the purified flames upto 1300°C, the Kund is designed from copper pot to get the uniform temperature along with the impact of copper oxygenation which play vital role in purification of atmosphere. "
 {{< figure src="../images/kuNDa/smokeless-kuNDa-supernova.jpg" title="Smokeless supernova havan kund"  class="thumbnail">}}
+- "The fallen ash collects in a bottom plate, above the fan, which can be disposed easily.
+   You can adjust the speed of the fan, or use it for initial jwalanam, then switch off. 
+   I think this will be more useful where charu, apoopa etc are offered as havis."
 
 ## Cube with 2 sides open
 ### Characteristics 
