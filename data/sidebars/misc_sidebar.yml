@@ -5,6 +5,9 @@ contents:
   - title: Chambers
     contents:
       - url: dir://misc/chambers/
+  - title: Power
+    contents:
+      - url: dir://misc/power/
   - title: Biology, Chemistry
     contents:
       - title: Animal cognition and affect
