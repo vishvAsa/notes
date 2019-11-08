@@ -3,8 +3,7 @@ title: Power
 ---
 
 ## Consumption estimate
-< 200 
-
+< 200 kWh (=units) per month in bengaLUru as of 2019
 
 ## Solar
 13 deg south slant (considering our latitude) to maximize winter production.
