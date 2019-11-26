@@ -2,7 +2,8 @@
 title: Homeschooling गृहे शिक्षणम्
 ---
 
-## Intro
+## School age
+"They say here that when all your milk teeth have fallen out, and when you can reach your right arm across your head to touch your left ear, you are ready. Ready for school. In India, the Gurukulam system started at seven or eight. This was the age you left home to go live with your guru and learn all that he could teach you. Rudolf Steiner also connected the milk teeth transition with a switch from the hands to the heart, from the physical to the emotional. Steiner schools tend to move children at this stage from the outdoor play-based kindergarten to the classroom where they learn, among other things, to read and write for the first time. And in some countries, like Finland, mainstream schooling itself starts not at four or five but at seven. "
 
 ## Videos and audio
 - Ken Robinson [TED06](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity) \- critique of factory-model
