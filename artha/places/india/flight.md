@@ -16,6 +16,7 @@ title: Flight
 ### Rides
 - AN Jakkur [here](https://www.adventurenation.com/trip/microlight-flying-in-bangalore).
 - MFl Jakkur [here](https://myflying.in/).
+- Viking Jakkur [here](https://www.vikingsaerosports.com/). They do Aeromodelling too.
 
 ## Hang gliding
 - License requirements [here](http://dgca.nic.in/aic/aic25-90.htm).
@@ -29,6 +30,16 @@ title: Flight
 
 - Bengaluru
     - Nandi hills
+
+## Aeromodelling
+- Aerotrix Blr [here](https://www.aerotrix.com/events/winter-training-quadrotor-and-rc-aircraft-bangalore-2020).
+- Viking Jakkur [here](https://www.vikingsaerosports.com/). They do Aeromodelling too.
+- RC bazaar - seller ([FB](https://www.facebook.com/RcBazaarbangalore)
+
+### Fields
+- Club RC Bazaar in Hennagara Lake bed near mAratahaLLI, bengaLuru
+- BAA Yellahanka field : 13.1324210, 77.5545510 .
+- Bangalore Flyers Club, with its runway near Anekal
 
 ## To check
 
