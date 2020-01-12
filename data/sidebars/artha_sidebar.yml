@@ -2,91 +2,28 @@
 
 title: Parts
 contents:
+  - title: Health
+    contents:
+      - url: recdir://artha/health/
+  - title: Economics
+    contents:
+      - url: recdir://artha/economics/
   - title: Environment
     contents:
       - url: dir://artha/environment/
   - title: Places
     contents:
-      - title: USA
-        contents:
-          - url: dir://artha/places/usa/
-          - title: SF Bay
-            contents:
-              - url: dir://artha/places/usa/sf-bay/
-      - title: India
-        contents:
-          - url: dir://artha/places/india/
-          - title: Beṇgaḷūru
-            contents:
-              - url: dir://artha/places/india/bengaluuru/
-  - title: Economics
-    contents:
-      - title: Businesses
-        contents:
-          - title: Intro
-            contents:
-              - url: dir://artha/economics/businesses/fundamentals
-          - url: dir://artha/economics/businesses/
-      - title: Goods and services
-        contents:
-            - url: dir://artha/economics/goods/
-      - title: Investing
-        contents:
-            - url: dir://artha/economics/investing/
-      - title: State level
-        contents:
-            - url: dir://artha/economics/state-level/
-      - title: Consumption + Donation
-        url: /artha/economics/spending/
-      - title: Trading
-        contents:
-            - url: dir://artha/economics/trading/
-      - title: Tax
-        contents:
-          - url: dir://artha/economics/tax/
-      - title: Geo outlook
-        contents:
-            - url: dir://artha/economics/geo/
+      - url: recdir://artha/places/usa/
   - title: Society
     contents:
       - title: Algorithmic game theory
         url: /artha/society/gameTheory/gameTheory.pdf
   - title: Skills
     contents:
-      - title: Clothing
-        contents:
-          - url: dir://artha/skills/clothing/
-      - title: Furniture
-        contents:
-          - url: dir://artha/skills/furniture/
-      - title: Learning
-        contents:
-          - url: dir://artha/skills/learning/
-      - title: Communication
-        contents:
-          - title: Real Time
-            contents:
-              - url: dir://artha/skills/communication/real-time/
-          - url: dir://artha/skills/communication/
-      - title: Moving
-        contents:
-          - url: dir://artha/skills/moving/
-      - title: Research
-        contents:
-          - url: dir://artha/skills/research/
-      - url: dir://artha/skills/
+      - url: recdir://artha/skills/
   - title: Education
     contents:
-      - title: Principles
-        url: /artha/education/principles/
-      - title: Home schooling
-        contents:
-          - url: dir://artha/education/home_school/
-          - title: India
-            contents:
-              - url: dir://artha/education/home_school/india/
-      - title: Lecturing
-        url: /artha/education/lecturing/
+      - url: recdir://artha/education/
   - title: Notes Home
     url: /
   - title: Vishvas's home page
