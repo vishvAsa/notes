@@ -21,13 +21,16 @@ Advance tax schedule: [here](https://cleartax.in/s/interest-imposed-by-income-t
 - If you sell your land / house / property within 36 months (3 years) of acquiring it, it’s considered to be a short term capital gain. Else it is long term gain.
 - Long term Capital Gains on sale of real estate are taxed at 20%, plus a cess of 3%, if the sale fulfils certain conditions.
 
+#### Postpone via CGAS
+- But what would happen if you are unable to invest your entire long-term capital gains in a residential property before the time to file income tax return for the fiscal year approaches? You need to convince the tax department that you intend to invest the capital gains, but need some more time to do so. To achieve this, you can open a Capital Gains Account Scheme (CGAS) with any scheduled bank. The amount you put in this can be withdrawn at any time to buy or construct a house and save long-term capital gains tax.
+- If you do this, you have 3 years in which to get your ducks in a row and get your property construction started. If not, the capital gain amount will be taxed as a long term capital gain (at 20% plus a 3% cess).
+
 #### Reinvestment in real estate
 - Tax is avoided if one reinvests in another long term property.  (under Section 54 of the Income Tax Act, 1961)
-- If you can’t construct a house immediately after benefitting from a capital gain (but plan to do so sometime in the near future), then you can put the profit amount in any public sector bank under the Capital Gains Account Scheme (CGAS). If you do this, you have 3 years in which to get your ducks in a row and get your property construction started. If not, the capital gain amount will be taxed as a long term capital gain (at 20% plus a 3% cess).
 
 #### Reinvestment in financial assets
 - Section 54EC of the Income Tax Act, 1961. To do this, you must invest in notified bonds within 6 months of its transfer.
-- Rural Electrification Corporation and NHAI (the National Highways Authority of India)
+- The eligible bonds under Section 54EC are REC (Rural Electrification Corporation Ltd), PFC (Power Finance Corporation Ltd) and NHAI (National Highways Authority of India) and IRFC (Indian Railways Finance Corporation Limited).
 - The maximum limit for investing in 54EC bonds is ₹50 lakh per financial year, whereas minimum investment is capped at ₹20,000 and ₹10,000 respectively in REC and NHAI bonds. These bonds come with a lock-in period of 5 years (effective from April 2018) and are non-transferable. Both REC and NHAI bonds offer an interest rate of 5.75% per annum, payable annually. Interest earned from 54EC bonds is taxable; however, no TDS is deducted on interest. 
 
 ### Income earned abroad
