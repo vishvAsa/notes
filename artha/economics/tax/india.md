@@ -17,6 +17,19 @@ As the year progresses, one is expected to pay tax. Paying at the end of the yea
 Advance tax schedule: [here](https://cleartax.in/s/interest-imposed-by-income-tax-department-under-section-234c).
 
 
+### Property sale: India
+- If you sell your land / house / property within 36 months (3 years) of acquiring it, it’s considered to be a short term capital gain. Else it is long term gain.
+- Long term Capital Gains on sale of real estate are taxed at 20%, plus a cess of 3%, if the sale fulfils certain conditions.
+
+#### Reinvestment in real estate
+- Tax is avoided if one reinvests in another long term property.  (under Section 54 of the Income Tax Act, 1961)
+- If you can’t construct a house immediately after benefitting from a capital gain (but plan to do so sometime in the near future), then you can put the profit amount in any public sector bank under the Capital Gains Account Scheme (CGAS). If you do this, you have 3 years in which to get your ducks in a row and get your property construction started. If not, the capital gain amount will be taxed as a long term capital gain (at 20% plus a 3% cess).
+
+#### Reinvestment in financial assets
+- Section 54EC of the Income Tax Act, 1961. To do this, you must invest in notified bonds within 6 months of its transfer.
+- Rural Electrification Corporation and NHAI (the National Highways Authority of India)
+- The maximum limit for investing in 54EC bonds is ₹50 lakh per financial year, whereas minimum investment is capped at ₹20,000 and ₹10,000 respectively in REC and NHAI bonds. These bonds come with a lock-in period of 5 years (effective from April 2018) and are non-transferable. Both REC and NHAI bonds offer an interest rate of 5.75% per annum, payable annually. Interest earned from 54EC bonds is taxable; however, no TDS is deducted on interest. 
+
 ### Income earned abroad
 - Wealth tax is not applicable on equity - so it's 7 year exemption for NRI-s is pointless there. However, when equity (say within the Roth IRA account) is sold, not much is spent and wealth in excess of Rs 15,00,000 (as of 2019) is generated - that will attract the 1% tax after the 7 year exception for NRI.
 - Issues concerning distributions from US retirement funds - see [usa page](../usa/). 
