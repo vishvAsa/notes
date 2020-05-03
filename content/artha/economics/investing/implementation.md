@@ -9,7 +9,7 @@ title: Implementation
 - करव्याप्तौ स्थितासु लेखासु वर्षे वर्षे। कराधिक्यम् वारयितुम्।
 
 ### अमेरिकेषु
-- TD Ameritrade इत्यत्र my account -> portfolio planner प्रयोगः पूर्वतटव्यवहारसमये। Use total money to be invested.
+- TD Ameritrade इत्यत्र my account → portfolio planner प्रयोगः पूर्वतटव्यवहारसमये। Use total money to be invested.
 
 ### भारतेषु
 #### Post tax
@@ -18,7 +18,7 @@ title: Implementation
 
 #### Tax saving
 - Explore funds on morning-star : see 5 yr returns, expense ratio
-- https://upstox.com -> mutual-funds login
+- https://upstox.com → mutual-funds login
 
 ## Discipline
 
