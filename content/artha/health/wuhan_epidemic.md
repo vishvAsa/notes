@@ -2,14 +2,14 @@
 title: Wuhan epidemic 2020
 ---
 
-{{< figure src="../../../../images/corona-virus.jpg" title="" class="thumbnail">}}
+{{< figure src="../../../../saMskAra/saMskAra/mantraH/rogAH/images/corona-virus.jpg" title="" class="thumbnail">}}
 
 ## Risks and mitigation
 - Successful Infection = **Virus Dose x Time**
 - "**Indoor spaces**, with limited air exchange or recycled air and lots of people, are concerning from a transmission standpoint. We know that 60 people in a volleyball court-sized room (choir) results in massive infections. Same situation with the restaurant and the call center. **Social distancing guidelines don't hold** in indoor spaces where you spend a lot of time, as people on the opposite side of the room were infected. .." - [EB](https://www.erinbromage.com/post/the-risks-know-them-avoid-them)
 - "**Social distancing** rules are really to protect you with **brief exposures** or **outdoor exposures**. In these situations there is not enough time to achieve the infectious viral load when you are standing 6 feet apart or where wind and the infinite outdoor space for viral dilution reduces viral load. ... If I am outside, and I walk past someone, remember it is “dose and time” needed for infection. You would have to be in their airstream for 5+ minutes for a chance of infection.  While joggers may be releasing more virus due to deep breathing, remember the exposure time is also less due to their speed."
 - "The main sources for infection are home, workplace, public transport, social gatherings, and restaurants. This accounts for 90% of all transmission events. In contrast, outbreaks spread from shopping appear to be responsible for a small percentage of traced infections. ... When assessing the risk of infection (via respiration) at the grocery store or mall, you need to consider the **volume of the air space** (very large), the **number of people** (restricted), how long people are spending in the store (workers - all day; customers - an hour)." - [EB](https://www.erinbromage.com/post/the-risks-know-them-avoid-them)
-- स्तोत्रम् [अत्र](../../../../saMskAra/mantraH/rogAH/padyAni/corona-virus/)।
+- स्तोत्रम् [अत्र](../../../../saMskAra/saMskAra/mantraH/rogAH/padyAni/corona-virus/)।
 
 ## Apparel
 - Masks
@@ -22,7 +22,7 @@ title: Wuhan epidemic 2020
 - "We know that at least 44% of all infections--and the majority of community-acquired transmissions--occur from people without any symptoms (asymptomatic or pre-symptomatic people). You can be shedding the virus into the environment for up to 5 days before symptoms begin."
 - "Some experts estimate that as few as 1000 SARS-CoV2 infectious viral particles are all that will be needed." - [EB](https://www.erinbromage.com/post/the-risks-know-them-avoid-them)
 
-{{< figure src="../../../../mantraH/rogAH/images/corona-growth-visualization.png" title="" class="thumbnail">}}
+{{< figure src="../../../../saMskAra/mantraH/rogAH/images/corona-growth-visualization.png" title="" class="thumbnail">}}
 
 ### Virus expulsion mechanics
 - "A single **breath** releases 50 - 5000 droplets. Most of these droplets are low velocity and fall to the ground quickly. There are even fewer droplets released through nose-breathing. Importantly, due to the lack of exhalation force with a breath, viral particles from the lower respiratory areas are not expelled. ... We don't have a number for SARS-CoV2 yet, but we can use influenza as a guide. Studies have shown that a person infected with influenza can releases up to 33 infectious viral particles per minute." - [EB](https://www.erinbromage.com/post/the-risks-know-them-avoid-them)
@@ -38,11 +38,19 @@ title: Wuhan epidemic 2020
 
 ## Hand sanitization
 ### Technique
-{{< figure src="../../../../mantraH/rogAH/images/hand-wash-steps.jpg" title="" class="thumbnail">}}
+{{< figure src="../../../../saMskAra/mantraH/rogAH/images/hand-wash-steps.jpg" title="" class="thumbnail">}}
 
 ### Material
 - Soap works because it's OH part mixes with water, while the organic part bonds with fat membranes of viruses.
 - Alcohol based disinfectant - > 60% strength. Vodka might do as well.
+
+## Duration
+- "About 80 percent of infections, according to the World Health Organization, “are mild or asymptomatic,” and patients recover after two weeks, on average."
+- Can last very long - "When I spoke with LeClerc on day 66, she was still experiencing waves of symptoms. “Before this, I was a fit, healthy 32-year-old,” she said. “Now I’ve been reduced to not being able to stand up in the shower"" [AT](https://medium.com/the-atlantic/covid-19-can-last-for-several-months-c3391bddbe6c)
+
+## Severity
+- "For COVID-19, data to date suggest that 80% of infections are mild or asymptomatic, 15% are severe infection, requiring oxygen and 5% are critical infections, requiring ventilation." - [WHO-2020-03-06](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_4)
+
 
 ## Origin
 - Wuhan, China.
