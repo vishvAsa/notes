@@ -26,6 +26,7 @@ title: Wuhan epidemic 2020
 
 ### Virus expulsion mechanics
 - "A single **breath** releases 50 - 5000 droplets. Most of these droplets are low velocity and fall to the ground quickly. There are even fewer droplets released through nose-breathing. Importantly, due to the lack of exhalation force with a breath, viral particles from the lower respiratory areas are not expelled. ... We don't have a number for SARS-CoV2 yet, but we can use influenza as a guide. Studies have shown that a person infected with influenza can releases up to 33 infectious viral particles per minute." - [EB](https://www.erinbromage.com/post/the-risks-know-them-avoid-them)
+- Speaking normally releases around 10x more - 330 (flu) VP per minute.
   - Yelling, speaking or singing especially in closed spaces is a big transmitter!
 
 #### Cough and sneeze
