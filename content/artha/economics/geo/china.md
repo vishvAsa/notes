@@ -24,12 +24,3 @@ Yuan is set to appreciate in value relative to the dollar eventually - though it
 
 Chinese funds and government lend excess dollars to USA by buying US bonds. They do this in order to get rid of excess dollars and keep export profitable to their producers in the short-term, thereby encouraging further growth in the exports business.
 
-## Culture
-
-### Politics
-
-1989 saw the Tianmen square crackdown.
-
-### Religion
-
-The communist party tried to eradicate religion starting from the cultural revolution - they tortured monks, destroyed monasteries. But this ceased in 1982. After economic growth in the 1990’s, recognizing a popular feeling of spiritual emptiness, the party promoted religion as an important part of developing a harmonious society, provided they support the party. Those that disagree are suppressed: Eg: Falun Gong, Catholic Church, some Tibetian Buddhism.
