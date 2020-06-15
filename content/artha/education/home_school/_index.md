@@ -1,5 +1,5 @@
 ---
-title: Homeschooling गृहे शिक्षणम्
+title: +Homeschooling गृहे शिक्षणम्
 ---
 
 ## School age
