@@ -1,5 +1,5 @@
 ---
-title: India
+title: Examples
 ---
 
 - [NIOS](http://www.nios.ac.in/success-stories.aspx) examples include savants like:

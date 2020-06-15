@@ -1,5 +1,5 @@
 ---
-title: भारतेषु गृहे शिक्षणम् 
+title: +भारतेषु गृहे शिक्षणम् 
 ---
 
 - Homeschooling is legal in India. \[[Q](https://www.quora.com/Is-homeschooling-legal-in-India)\]
