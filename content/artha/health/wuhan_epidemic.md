@@ -12,12 +12,13 @@ title: Wuhan epidemic 2020
 - स्तोत्रम् [अत्र](../../../../saMskAra/saMskAra/mantraH/rogAH/padyAni/corona-virus/)।
 
 ## Apparel
-- Masks
-  - Even cloth masks help.
-  - Refer - [masks4all1](https://masks4all.org/), [masks4all2](https://masks4all.co/)
-  - WHO is retarded: "The WHO also recommends public mask usage during high-severity influenza pandemics – just not during this Coronavirus pandemic.", "WHO describes a MINIMAL standard. It doesn't mean that we couldn't do MORE."
-  - Errors in reasoning about masks by NN Taleb [here](https://medium.com/incerto/the-masks-masquerade-7de897b517b7). Suprising demo of effectiveness of masks: " the salon story where two infected stylists failed to infect all their 140 clients (making the probability of infection for bilateral mask wearing safely below 1% for a salon-style exposure) — we know the probability of infection for non mask wearers from tens of thousands of data points and the various R0 estimations) plus".
 - Eye glasses - Wear any, but prefer full eye covering.
+
+### Masks
+- Even cloth masks help.
+- Refer - [masks4all1](https://masks4all.org/), [masks4all2](https://masks4all.co/)
+- WHO is retarded: "The WHO also recommends public mask usage during high-severity influenza pandemics – just not during this Coronavirus pandemic.", "WHO describes a MINIMAL standard. It doesn't mean that we couldn't do MORE."
+- Errors in reasoning about masks by NN Taleb [here](https://medium.com/incerto/the-masks-masquerade-7de897b517b7). Suprising demo of effectiveness of masks: " the salon story where two infected stylists failed to infect all their 140 clients (making the probability of infection for bilateral mask wearing safely below 1% for a salon-style exposure) — we know the probability of infection for non mask wearers from tens of thousands of data points and the various R0 estimations) plus".
 
 ## Transmission mechanics
 - "We know that at least 44% of all infections--and the majority of community-acquired transmissions--occur from people without any symptoms (asymptomatic or pre-symptomatic people). You can be shedding the virus into the environment for up to 5 days before symptoms begin."
@@ -53,6 +54,9 @@ title: Wuhan epidemic 2020
 ## Severity
 - "For COVID-19, data to date suggest that 80% of infections are mild or asymptomatic, 15% are severe infection, requiring oxygen and 5% are critical infections, requiring ventilation." - [WHO-2020-03-06](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_4)
 
+## Containment regulations
+- [BBMP](https://covid19.karnataka.gov.in/new-page/GENERAL%20INFORMATION/en) Bengaluru, KA, IN
+    - Esp. [SOP](https://covid19.karnataka.gov.in/storage/pdf-files/HFW_Protocol%20for%20Inter-State%20Traveller%20to%20Karnataka.pdf) for entry of state/ district/ country border crossers. 
 
 ## Origin
 - Wuhan, China.
