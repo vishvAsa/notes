@@ -106,6 +106,7 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 ## Outcomes and stats
 
 - A big paid bibliography is avaliable at [NHERI site](https://www.nheri.org/research-facts-on-homeschooling/) for you to buy. (We're satisfied with anecdotes and public data, thank you.)
+- About prodigies: "there are no 'secrets' other than innate ability, the right environment & driven parents."
 
 ### (In)Effectiveness of conventional education
 - "Sociologists Richard Arum and Josipa Roksa presented data showing that, over their first two years of college, students typically improve their skills in critical thinking, complex reasoning and writing by less than a fifth of a standard deviation." {[TW18](https://twitter.com/clairlemon/status/1066195460476399616)}
