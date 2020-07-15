@@ -9,6 +9,8 @@ title: +Health
 बलाधिष्ठानम् आरोग्यं  
 यदर्थोऽयं क्रियाक्रमः।(चरकः)
 
+"Health is the most important asset you have - but it's an invisible asset, only becoming apparent when you start losing it."
+
 ## साङ्क्रामिकरोगाः
 प्रसङ्गाद् गात्रसंस्पर्शान् निश्वासात् सहभोजनात्।  
 सहशय्यासनाच् चापि वस्त्रमाल्यानुलेपनात्॥  
