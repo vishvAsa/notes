@@ -2,9 +2,8 @@
 title: Eating
 ---
 
-## Serving dishes
-corelle vitrelle glass, glass are fine. corelle stoneware/ china are not
-acceptable: possible lead content.
+## Fasting.
+Eat only within an 8hr window. Fast the remaining 16 hours.
 
 ## Quantity
 Around 2240.7 calories per day required to maintain 125 lb weight in 68 inch body.
