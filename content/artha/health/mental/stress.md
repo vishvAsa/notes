@@ -11,6 +11,8 @@ Stress hormones, in preparing the body for the fight or the flight, cause blood 
 - even [situational](http://www.sciam.com/article.cfm?id=bisexual-species&page=4) homosexuality
 - irritable bowel syndrome
 
+In medical students studying for exams, the medial prefrontal cortex shrinks during cram sessions but grows back after a month off.
+
 ## Moderation
 - While moderate stress is desirable for performance, [chronic stress](http://en.wikipedia.org/wiki/Chronic_stress) is not.
 
