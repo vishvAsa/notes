@@ -2,39 +2,14 @@
 title: +Cooking
 ---
 
+## Retaining nutrients
+- Water-soluble nutrients like vitamins C and B and a group of nutrients called polyphenolics are often lost in processing. Fat-soluble compounds like vitamins A, D, E and K and the antioxidant compounds called [carotenoids](http://health.nytimes.com/health/guides/nutrition/vitamin-a/overview.html?inline=nyt-classifier "In-depth reference and news articles about Vitamin A.") are less likely to leach out in water. 
+- Cooking also breaks down the thick cell walls of plants, releasing the contents for the body to use. That is why processed tomato products have higher lycopene content than fresh tomatoes. 
+- In January, a report in The Journal of Agriculture and Food Chemistry concluded that over all, boiling was better for carrots, zucchini and broccoli than steaming, frying or serving them raw. Frying was by far the worst. Steaming and boiling caused a 22 percent to 34 percent loss of vitamin C. Microwaved and pressure-cooked vegetables retained 90 percent of their vitamin C. \[[Ref](http://www.nytimes.com/2008/05/20/health/nutrition/20well.html?_r=1&partner=rssnyt&emc=rss&oref=slogin)\]
+- It may seem hard to believe, but microwaving is one of the two best ways to cook veggies and retain the nutrients inside. (Steaming is the other.) Cooking methods like baking or grilling that expose foods to higher temperatures and more cooking time are much more destructive. ... whenever vegetables are immersed in cooking liquid, water-soluble nutrients such as folic acid and vitamin C leach out of the food and into the surrounding liquid. To keep the nutrients intact when microwaving, you need only a couple of tablespoons of water to cook raw vegetables; frozen ones need no extra liquid at all. \[[Ref](http://www.newsweek.com/id/123325)\]
 
-## Freezing
+## Increase absorption
+- When the salsa or salad was served with fat-rich avocados or full-fat salad dressing, the diners absorbed as much as 4 times more lycopene, 7 times more lutein and 18 times the beta carotene than those who had their vegetables plain or with low-fat dressing. \[[Ref](http://www.nytimes.com/2008/05/20/health/nutrition/20well.html?_r=1&partner=rssnyt&emc=rss&oref=slogin)\]
 
-Store all foods at 0 F or lower to retain vitamin content, color, flavor
-and texture. Freezing preserves cooked food for long durations.
-
-## Defrosting
-
-Never defrost foods in a garage, basement, car, dishwasher or plastic
-garbage bag; out on the kitchen counter, outdoors or on the porch. There
-are three safe ways to defrost food: in the refrigerator, in cold water,
-or in the microwave. \[Ref\] Refreezing:
-
-It is safe to refreeze, provided you did not introduce or allow the
-multiplication of bacteria during thawing. So, during thawing, it
-shouldn’t have sat between 40°F–140°F (4°C–60°C) for more than two
-hours. \[ Ref\] It is however safer to cook the food and then freeze it.
-
-## Signs of cooking
-
-There is almost always a change in color. Cooked vegetables are easier
-to chew and cut. Cooked vegetables sometime change color slightly. White
-matter may turn brownish. Cooked onion turns somewhat transparent but
-brownish. Peas loose water - their skin becomes wrinkled.
-
-Boiling generally means production of good sized bubbles even in the
-middle of the liquid, and not just on the borders.
-
-## Cooking X in pressure cooker with 1:N water with M whistles
-Clean lid and gasket of the pressure cooker. In a container pour X and
-water in 1:N ratio. Close lid with gasket. Turn on the flame. Wait for
-steady steam to appear. Place the weight on the steam egress. Wait for
-the cooker to whistle M times. If cooker does not whistle M times in a
-period of 10 minutes after placing the weight, something might be wrong
-- Turn off the flame at once. Turn off the flame, and let the cooker
-cool down for 15 minutes. Remove weight.
+## Killing germs
+- E. coli 0157 on fresh produce can be killed by heating at 160 F for at least 15 seconds. So far, frozen spinach appears to be safe. It's been cooked, and is often cooked again after thawing. \[[Ref](http://www.time.com/time/health/article/0,8599,1538780,00.html)\]

@@ -2,6 +2,9 @@
 title: +Health
 ---
 
+![Cheetah - A good survival machine](http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cheetah.jpg/150px-Cheetah.jpg "Cheetah - A good survival machine")
+
+
 ## आरोग्यम्
 बलाधिष्ठानम् आरोग्यं  
 यदर्थोऽयं क्रियाक्रमः।(चरकः)
