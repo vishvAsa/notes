@@ -26,8 +26,10 @@ title = "Death causes"
 - There are numerous theories as to the exact cause and mechanism for diabetes related insulin resistance, but [**central obesity**](http://en.wikipedia.org/wiki/Central_obesity "Central obesity") (fat concentrated around the waist in relation to abdominal organs, and not subcutaneous fat, it seems) is known to predispose individuals for insulin resistance, possibly due to its secretion of [adipokines](http://en.wikipedia.org/wiki/Adipokine "Adipokine") (a group of hormones) that impair glucose tolerance. \[[Ref](http://en.wikipedia.org/wiki/Diabetes_mellitus_type_2)\]
     - Many Asian people, particularly South Asians, are also more prone to abdominal obesity, the study noted. Skinny people with thick middles are particularly prone to developing Type II Diabetes, which helps explain why the disease is spreading in places where people are, on average, quite thin. \[[Ref](http://www.time.com/time/world/article/0,8599,1902100,00.html?xid=rss-world)\]
 
-## Common cancers
+## Cancers
 - Several cancers that are extremely common in the United States— **colon, prostate and breast cancer** —are relatively rare in other parts of the world, occurring only 1/10th or 1/20th as often. ... Even if people in other parts of the world stay put, but adopt a U.S. lifestyle, their risk of cancer rises; as Japanese have embraced Western habits, their rates of colon, breast and prostate cancer have skyrocketed. \[[Ref](http://www.newsweek.com/id/141495/page/1)\]
+- About a third of the twelve most common cancers worldwide are due to nine potentially modifiable risk factors. Men with cancer are twice as likely as women to have a modifiable risk factor for their disease. The nine risk factors are tobacco smoking, excessive alcohol use, diet low in fruit and vegetables, limited physical exercise, human papillomavirus infection (unsafe sex), urban air pollution, domestic use of solid fuels, and contaminated injections (hepatitis B and C). \[[Ref](http://www.thelancet.com/journals/lancet/article/PIIS0140673605677252/fulltext)\]
+
 
 ## Infection:
 - The levels of potentially harmful waterborne microorganisms in rivers, lakes and other recreational waterways may be highest when the water is most crowded with swimmers. \[[Ref](http://www.sciencedaily.com/releases/2007/07/070702145113.htm)\]
