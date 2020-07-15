@@ -2,6 +2,8 @@
 title = "Injury"
 +++
 
+## Intro
+- Brain injury considered elsewhere.
 
 ## Joint damage
 ### Knee
