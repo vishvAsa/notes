@@ -7,9 +7,9 @@ title: Wood Stove
 - Example: traditional homa-kUNDa-s (Idealized).  
 
 <div class="row">
-{{< figure src="../images/kuNDa/tretAgni-kuNDas-alight.jpg" title="" class="thumbnail">}}
-{{< figure src="../images/kuNDa/tretAgni-kuNDas-AhavanIya-alight.jpg" title="" class="thumbnail">}}
-{{< figure src="../images/kuNDa/tretAgni-kuNDas-with-fire-pots.jpg" title="" class="thumbnail">}}
+{{< figure src="../images/kuNDa/tretAgni-kuNDas-alight.jpg" attributionclass="thumbnail">}}
+{{< figure src="../images/kuNDa/tretAgni-kuNDas-AhavanIya-alight.jpg" attributionclass="thumbnail">}}
+{{< figure src="../images/kuNDa/tretAgni-kuNDas-with-fire-pots.jpg" attributionclass="thumbnail">}}
 </div>
 
 ### Characteristics 
@@ -21,8 +21,8 @@ title: Wood Stove
 This seems to achieve characteristics similar to "Cube with 2 sides open + holes for ventilation at the bottom and sides" type described below.
 
 <div class="row">
-{{< figure src="../images/kuNDa/homa-kuNDa-sieve-grill.jpg" title=""  class="thumbnail">}}
-{{< figure src="../images/kuNDa/homa-kuNDa-sieve-grill-post-combustion.jpg" title=""  class="thumbnail">}}
+{{< figure src="../images/kuNDa/homa-kuNDa-sieve-grill.jpg" attributionclass="thumbnail">}}
+{{< figure src="../images/kuNDa/homa-kuNDa-sieve-grill-post-combustion.jpg" attributionclass="thumbnail">}}
 </div>
 
 ### Improvement with holes, fan fitted at bottom
