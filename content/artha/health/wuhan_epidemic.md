@@ -2,7 +2,7 @@
 title: Wuhan epidemic 2020
 ---
 
-{{< figure src="../../../../saMskAra/saMskAra/mantraH/rogAH/images/corona-virus.jpg" attributionclass="thumbnail">}}
+{{< figure src="../../../../saMskAra/saMskAra/mantraH/rogAH/images/corona-virus.jpg"  class="thumbnail">}}
 
 ## Risks and mitigation
 - Successful Infection = **Virus Dose x Time**
@@ -24,7 +24,7 @@ title: Wuhan epidemic 2020
 - "We know that at least 44% of all infections--and the majority of community-acquired transmissions--occur from people without any symptoms (asymptomatic or pre-symptomatic people). You can be shedding the virus into the environment for up to 5 days before symptoms begin."
 - "Some experts estimate that as few as 1000 SARS-CoV2 infectious viral particles are all that will be needed." - [EB](https://www.erinbromage.com/post/the-risks-know-them-avoid-them)
 
-{{< figure src="../../../../saMskAra/mantraH/rogAH/images/corona-growth-visualization.png" attributionclass="thumbnail">}}
+{{< figure src="../../../../saMskAra/mantraH/rogAH/images/corona-growth-visualization.png"  class="thumbnail">}}
 
 ### Virus expulsion mechanics
 - "A single **breath** releases 50 - 5000 droplets. Most of these droplets are low velocity and fall to the ground quickly. There are even fewer droplets released through nose-breathing. Importantly, due to the lack of exhalation force with a breath, viral particles from the lower respiratory areas are not expelled. ... We don't have a number for SARS-CoV2 yet, but we can use influenza as a guide. Studies have shown that a person infected with influenza can releases up to 33 infectious viral particles per minute." - [EB](https://www.erinbromage.com/post/the-risks-know-them-avoid-them)
@@ -41,7 +41,7 @@ title: Wuhan epidemic 2020
 
 ## Hand sanitization
 ### Technique
-{{< figure src="../../../../saMskAra/mantraH/rogAH/images/hand-wash-steps.jpg" attributionclass="thumbnail">}}
+{{< figure src="../../../../saMskAra/mantraH/rogAH/images/hand-wash-steps.jpg"  class="thumbnail">}}
 
 ### Material
 - Soap works because it's OH part mixes with water, while the organic part bonds with fat membranes of viruses.
