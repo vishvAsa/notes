@@ -14,6 +14,14 @@ title: Principles
 - "We are moving as a society from content to competencies. It is not just what you know, but what you can do with what you know."
 - "The worst we can do to those children is put them in online courses which is where our education system is heading now. Online courses are someone else’s’ agenda (usually the government) of what they think learners need to know. Learners must obey instructions because the learning is not their own."
 
+## शिक्षणाङ्गानि
+- There is training, credentialing and networking.
+- कस्याम् अपि कलायाम् अङ्गानि 
+  - श्रवणम् / ‌दर्शनम्
+  - स्मृतिः
+  - करणम् (तदङ्गत्वेन +उपकरणसम्पादनम्)
+  - प्रवचनम्
+
 ## स्थूल-विधौ अपेक्षाः
 ### शिक्षण-माध्यमानि
 - प्रश्नैः शिक्षणम्।
