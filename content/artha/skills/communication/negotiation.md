@@ -22,6 +22,7 @@ Basic element in bargaining is information. Don't make rash decisions. If you do
 
 #### Beware lies
 - Don’t be fooled by smooth-talkers. See conning page.
+- Be alert to red flags of dishonesty. Eg. The seller said one thing in the beginning ("Don't worry - I have scales"), then, when you're about to complete the transaction ("No scales - just use this measuring cup"), says something else. 
 
 ### Team-work
 - Better coordination among buying team implies lower risk of fraud.
