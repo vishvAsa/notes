@@ -1,7 +1,10 @@
----
-title: Wood
----
++++
+title = "Particle boards"
++++
 
+## Negatives
+- will expand when exposed to moisture. 
+- Glue used may emit harmful gases over lifetime.
 
 ## MDF board
 
@@ -25,4 +28,4 @@ title: Wood
 
 - Made by hot-pressing sawdust (not fiber) with resin.
 - not as strong as MDF, but stronger than wood, but denser and cheaper.
-- will expand when exposed to moisture. While it should never be used outdoors
+- will expand when exposed to moisture. should never be used outdoors
