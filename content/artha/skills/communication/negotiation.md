@@ -14,6 +14,7 @@ title: Negotiation
   - Charge more than the goods' worth.
   - Lie and generate trust.
 - Be prepared to counter the desperate seller.
+  - Unless you've predetermined to make a quasi-charitable transaction: Strictly keep charity separate from business. Otherwise, even your charity will leave you with a bad taste - eg. one of being potentially cheated.
 - Be prepared to walk away. Very important.
 
 ### Info
