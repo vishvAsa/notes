@@ -10,7 +10,7 @@ title: Negotiation
 - Remember the feeling of being conned. Savour it. Don't let it happen.
 - Profile the seller. "Is he take it or leave it? Or desparate to make sales (eg. poor street seller)? Is there going to be a recurring relationship or is it a one-off transaction?" 
 - Understand the desperate seller's motivations:
-  - Upsell goods.
+  - Upsell goods (coerce purchase of undesired/ more goods).
   - Charge more than the goods' worth.
   - Lie and generate trust.
 - Be prepared to counter the desperate seller.
@@ -22,7 +22,7 @@ Basic element in bargaining is information. Don't make rash decisions. If you do
 
 #### Beware lies
 - Don’t be fooled by smooth-talkers. See conning page.
-- Be alert to red flags of dishonesty. Eg. The seller said one thing in the beginning ("Don't worry - I have scales"), then, when you're about to complete the transaction ("No scales - just use this measuring cup"), says something else. 
+- Be alert to red flags of dishonesty. Eg. The seller said one thing in the beginning ("Don't worry - I have scales"), then, when you're about to complete / undergo‌ the transaction , says something else ("No scales - just use this measuring cup"). 
 
 ### Team-work
 - Better coordination among buying team implies lower risk of fraud.
