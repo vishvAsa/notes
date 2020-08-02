@@ -11,5 +11,9 @@ disablePathToLower = true
   env = "production"
   disqusShortcode = "vvasuki-site"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON", "CSV"]
+  section = ["HTML", "RSS", "JSON"]
+
 [markup.goldmark.renderer]
   unsafe= true
