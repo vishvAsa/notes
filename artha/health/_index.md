@@ -21,6 +21,10 @@ title: +Health
 - "Ditch ultra-processed foods, sugars, +++(most)+++ seed oils and refined carbohydrates" 
 - "Use the advances of modernity to protect you from acute harm, accidents and disease" 
 
+## परिसरः
+- "As a biological organism the human body is adaptive; more than that, it is antifragile, this is an important distinction in that things that are antifragile need stress to improve. So, the health and ‘fitness’ of the body is demand led – the demand comes from our environment."
+- व्यायामय् अनशने चैतद् अवधेयम्। 
+
 ## साङ्क्रामिकरोगाः
 प्रसङ्गाद् गात्रसंस्पर्शान् निश्वासात् सहभोजनात्।  
 सहशय्यासनाच् चापि वस्त्रमाल्यानुलेपनात्॥  
