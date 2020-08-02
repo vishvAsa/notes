@@ -1,11 +1,7 @@
----
-title: Eating
----
++++
+title = "Quantity"
 
-## Fasting.
-Eat only within an 8hr window. Fast the remaining 16 hours.
-
-## Quantity
++++
 Around 2240.7 calories per day required to maintain 125 lb weight in 68 inch body.
 
 ati-bhakShaNAt prAptA nidrAvasthA.
@@ -18,14 +14,7 @@ to gain Ananda from dhArmika-kAryas\!
 Example: Okinawans stop eating before they are 80% full: they say this
 to themselves before eating.
 
-### adhikAnnasya visarjanaM
-
-adhikaM kretaM vA sRRijitaM api visarjanIyaM annaM bhaviShye khAditaM
-rakShaNaM kaShTAya chet.
-
-viralaM anna-visarjanaM nAsti annasya avamAnaM.
-
-### Eating out
+## Eating out
 
 Most restaurants and food venues give more than enough food for one
 meal. Don’t eat it all at once. When eating out, take home leftovers and
