@@ -8,3 +8,5 @@ title = "Effects"
 
 ## Severity
 - "For COVID-19, data to date suggest that 80% of infections are mild or asymptomatic, 15% are severe infection, requiring oxygen and 5% are critical infections, requiring ventilation." - [WHO-2020-03-06](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_4)
+- Several cases are getting reported of young adults sent home after 7 days with a negative result,develop sudden symptoms and die. Suspected cause: The small blood vessels of the heart had intense inflammation an entity known as MIS(Multi System Inflammatory Syndrome),see the photograph taken attached below. [FB](https://www.facebook.com/drpraveenks/posts/10158729975141385) Exercise should be avoided for some time. 
+
