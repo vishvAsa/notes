@@ -9,8 +9,6 @@ contents:
     contents:
       - title: Number Theory
         url: /math/numberTheory/numberTheory.pdf
-      - title: Algebra
-        url: /math/algebra/algebra.pdf
       - title: Linear algebra
         url: /math/linAlg/linAlg.pdf
       - title: Vector spaces
