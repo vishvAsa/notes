@@ -1,5 +1,5 @@
 ---
-title: Misc topics
+title: +Language Design
 ---
 
 Programming is data processing.
