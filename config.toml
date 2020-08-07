@@ -10,6 +10,7 @@ disablePathToLower = true
   contactLink = "https://github.com/vvasuki/notes/issues/new"
   env = "production"
   disqusShortcode = "vvasuki-site"
+  math = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON", "CSV"]

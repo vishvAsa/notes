@@ -1,5 +1,5 @@
 ---
-title: Misc Tips
+title: +Tips
 ---
 
 ## Meta Coding

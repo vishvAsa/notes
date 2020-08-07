@@ -2,7 +2,10 @@
 
 title: Parts
 contents:
-  - title: Mathematics
+  - title: Math
+    contents:
+      - url: recdir://math/
+  - title: Math Pdfs
     contents:
       - title: Number Theory
         url: /math/numberTheory/numberTheory.pdf
@@ -29,11 +32,11 @@ contents:
   - title: Probability and Statistics
     contents:
       - title: Probabilistic analysis
-        url: /probability/probability/probability.pdf
+        url: /math/probability/probability/probability.pdf
       - title: Probabilistic models
-        url: /probability/probabilisticModels/probabilisticModels.pdf
+        url: /math/probability/probabilisticModels/probabilisticModels.pdf
       - title: Statistics and pattern recognition
-        url: /probability/statistics/statistics.pdf
+        url: /math/probability/statistics/statistics.pdf
   - title: Computing
     contents:
       - title: Computer Architecture
@@ -77,5 +80,3 @@ contents:
     url: /
   - title: Vishvas's home page
     url: /../
-  - title: Blog
-    url: /assets/blog/
