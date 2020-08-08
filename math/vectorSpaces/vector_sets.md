@@ -19,7 +19,7 @@ Contains all linear combos of vectors in S. Any linear subspace expressible as A
 ## Affine set X
 X closed under affine combination. Eg: A line parallel to 1-d vector space, solution to Ax = b. Contains the line through any two points in X.
 
-\exclaim{If it included the origin, it would be a linear subspace!} Any affine set expressible as \\(\set{x: Ax + b = 0}\\). Is convex.
++++(If it included the origin, it would be a linear subspace!)+++ Any affine set expressible as \\(\set{x: Ax + b = 0}\\). Is convex.
 
 ### Affine hull of S
 aff(S): Smallest affine set which contains S.
@@ -43,7 +43,7 @@ If \\(p\in C\\), \\(-p \notin C\\). Smaller than halfspaces. Can delete 0 from t
 ##### Generalized inequalities wrt C
 \\(x \leq_C y \equiv y-x \in C; \\)x\\( <_C y \equiv y-x \in int(C)\\). For multiplication by scalar a, this behaves like inequalities on R.
 
-\exclaim{\\(x \geq_C 0\\) is a fancy way of saying that \\(x \in C\\)}. Similarly, \\(x >_C 0\\) means \\(x \in int(C)\\).
++++(\\(x \geq_C 0\\) is a fancy way of saying that \\(x \in C\\))+++. Similarly, \\(x >_C 0\\) means \\(x \in int(C)\\).
 
 ##### Minima
 In general, not a complete ordering; so minimal and minimum elements defined as in ordered sets and partially ordered sets.

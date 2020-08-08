@@ -8,7 +8,7 @@ Aka concave upwards, concave up or convex cup.
 ### Domain, definitions
 dom(f) always a convex set. Visualize as a cup. Epigraph of \\(f\\) (see analysis of functions over fields ref) is a convex set.
 
-\exclaim{When they say 'convex function', they mean 'convex functional'.}
++++(When they say 'convex function', they mean 'convex functional'.)+++
 
 #### Smoothness along line segment in the domain
 Equivalent definition (easy pf): Convex function: \\(f(tx + (1-t)y) \leq tf(x) + (1-t)f(y)\\): comparing f(some pt on segment [x, y]) with similar pt on secant between f(x) and f(y).
@@ -51,14 +51,14 @@ So, if \\(f(x)\\) twice differentiable, \\(f\\) convex iff \\(f''(x) \geq 0\\) i
 
 ### Supporting hyperplane to the epigraph
 #### Differntiable f
-See description of tangent hyperplanes to epigraphs in the 'topological properties of functionals' subsection. For differentiable \\(f\\), the tangent hyperplane at \\((x_1, f(x_1))\\) is specified by \\((\gradient f(x_1), -1)\\). \textbf{Pf}: From first order condition: \\(f(y) \geq f(x) + f'(x)(y-x)\\).
+See description of tangent hyperplanes to epigraphs in the 'topological properties of functionals' subsection. For differentiable \\(f\\), the tangent hyperplane at \\((x_1, f(x_1))\\) is specified by \\((\gradient f(x_1), -1)\\). **Pf**: From first order condition: \\(f(y) \geq f(x) + f'(x)(y-x)\\).
 
 So, \\(f(x) + f'(x)(y-x)\\) is a global lower bound on \\(f\\).
 
 #### Non differentiable convex f: subdifferentials!
-Can extend the idea of a gradient to non-differentiable convex \\(f\\). The \textbf{subdifferential set} \\(\subdifferential f(x) = \set{z: \forall x, f(y) \geq f(x) + \dprod{z,(y-x)}}\\).
+Can extend the idea of a gradient to non-differentiable convex \\(f\\). The **subdifferential set** \\(\subdifferential f(x) = \set{z: \forall x, f(y) \geq f(x) + \dprod{z,(y-x)}}\\).
 
-Each \\(z \in \subdifferential f(x)\\) is a \textbf{subgradient}, a \textbf{generalization} of the concept of gradient. \\((z, -1)\\) is a supporting hyperplane to the epigraph of \\(f\\) at \\((x, f(x))\\). Also, \\(f(x) + \dprod{z,(y-x)}\\) is a global lower bound on \\(f\\).
+Each \\(z \in \subdifferential f(x)\\) is a **subgradient**, a **generalization** of the concept of gradient. \\((z, -1)\\) is a supporting hyperplane to the epigraph of \\(f\\) at \\((x, f(x))\\). Also, \\(f(x) + \dprod{z,(y-x)}\\) is a global lower bound on \\(f\\).
 
 \\(\subdifferential f(x)\\) is a closed, convex set.
 
@@ -80,7 +80,7 @@ If \\(f\\) is differentiable, \\(\subdifferential f(x)\\) contains just the grad
 #### Unlike finding gradients
 Where \\(f\\) is differentiable, to find \\(\gradient f(x)\\), once can merely compute \\(\partder{f(x)}{x_i} \forall i\\), and arrange the result in a vector.
 
-For finding the subdifferential of \\(f\\) at a non-differentiable point, this does not work. Taking the OR of conditions describing subdifferentials of restrictions of a function to individual axes yields a superset of that function's subdifferential! For example, applying this flawed technique to finding \\(\subdifferential \norm{0}_2\\) yields the unit ball of \\(\norm{x}_\infty\\). \exclaim{Can't do it one coordinate at a time.}
+For finding the subdifferential of \\(f\\) at a non-differentiable point, this does not work. Taking the OR of conditions describing subdifferentials of restrictions of a function to individual axes yields a superset of that function's subdifferential! For example, applying this flawed technique to finding \\(\subdifferential \norm{0}_2\\) yields the unit ball of \\(\norm{x}_\infty\\). +++(Can't do it one coordinate at a time.)+++
 
 #### Of non-negative linear combo
 Take \\(f(x) = ag(x) + a' r(x);\ a, a' \geq 0\\). \\(\subdifferential f(x) \supseteq \set{z' + z: z' \in \subdifferential g(x) z \in \subdifferential r(x)}\\): applying dfn.

@@ -28,7 +28,7 @@ So, \\(D(f): V \to L(V, F)\\), where \\(L(V, F)\\) is the space of continuous li
 But, this is unsatisfactory as directional differentiability does not imply continuity. \why
 
 ### Continuous differentiability
-If at \\(x\\), \\(\exists a\\) such that \\(\forall c, \norm{f(x+c) - f(x) - a^{T}c} = o(\norm{c})\\), then \\(f\\) is differentiable at \\(x\\); and the derivative is \\(Df(x)[c] \dfn a^{T}c\\), which maps \\(V \to F\\). \exclaim{A measure of goodness of affine approximation!} The view \\(D(f): V \to L(V, F)\\) still holds.
+If at \\(x\\), \\(\exists a\\) such that \\(\forall c, \norm{f(x+c) - f(x) - a^{T}c} = o(\norm{c})\\), then \\(f\\) is differentiable at \\(x\\); and the derivative is \\(Df(x)[c] \dfn a^{T}c\\), which maps \\(V \to F\\). +++(A measure of goodness of affine approximation!)+++ The view \\(D(f): V \to L(V, F)\\) still holds.
 
 Aka Frechet derivative, total derivative.
 
@@ -180,7 +180,7 @@ Take \\(h(x) = g(f(x))\\). Then \\(Dh(x)[v] = D(g)[f(x)]D(f)[v]\\).
 #### In matrix representation
 In terms of derivative matrices, this is a matrix product: \\(D(g)[D(f)(x)[v]] = J_g(f(x)) J_f(x) v\\)! Note that order matters: first differentiate wrt outer function, then wrt inner function.
 
-\exclaim{Observe how the dimensions match perfectly: for functional (function) compositions!}
++++(Observe how the dimensions match perfectly: for functional (function) compositions!)+++
 
 ### Linear and constant functions
 \\(D(Ax)[v] = Av\\), and \\(D(Ax) = A\\): from the affine approximation definition of a derivative. \\(D(k) = 0\\).

@@ -6,7 +6,7 @@ title = "Norms"
 Aka pre-norm. Obeys triangle inequality, non negativity, homogeniety / scalability (\\(\norm{cv} = |c|\norm{v}\\)). But, not necessarily +ve definiteness (\\(\norm{x} = 0\\) iff \\(x\\) = 0.).
 
 ## Norm: Defining properties
-A seminorm which obeys \textbf{positive definiteness} (\\(\norm{x} = 0\\) iff \\(x\\) = 0.). Often triangle inequality is the only non trivial property to verify. Prenorm omits trinagle inequality.
+A seminorm which obeys **positive definiteness** (\\(\norm{x} = 0\\) iff \\(x\\) = 0.). Often triangle inequality is the only non trivial property to verify. Prenorm omits trinagle inequality.
 
 All norms are metrics (see topology ref).
 
