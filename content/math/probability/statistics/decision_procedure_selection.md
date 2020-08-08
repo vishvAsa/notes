@@ -153,7 +153,8 @@ These same principles are used in 'Occam razor' and the 'VCD Occam razor' in com
 
 Thence, \\(R(\hat{t}) - R(\gth)= R(\hat{t}) - \hat{R}(\hat{t}) + \hat{R}(\hat{t}) - \hat{R}(\gth) + \hat{R}(\gth) - R(\gth) \leq 2 \sup_t (R(t) - \hat{R}(t))\\): as \\(\hat{R}(\hat{t}) - \hat{R}(\gth) \leq 0\\) from empirical loss minimization.
 
-Thence, \\($R(\hat{t}) - R(\gth) \leq 2n^{-1}\sup_t \sum_i(L(t, x_i) - E[L(t, x)]).\\)\\( So, want to bound \\)Pr(\sup_t \sum_i(L(t, x_i) - E[L(t, x)]) \geq \eps)\\(. Take function space \\)G = \set{L(t,.) \forall t}$.
+Thence, \\(R(\hat{t}) - R(\gth) \leq 2n^{-1}\sup_t \sum_i(L(t, x_i) - E[L(t, x)]).\\)  
+ So, want to bound \\(Pr(\sup_t \sum_i(L(t, x_i) - E[L(t, x)]) \geq \eps\\). Take function space \\(G = \set{L(t,.) \forall t}\\).
 
 ### Check generalization ability
 Aka validation.
