@@ -5,7 +5,7 @@ title = "Inner products"
 ## Properties
 Obeys Conjugate symmetry, bilinearity, homogeniety, non negativity, positive definiteness.
 
-Bilinearity: linear in a and b separately: \\((\ga a)^{*}(\beta b) = \conj{\ga}\beta a^{*}b\\). \exclaim{Range of \\(\dprod{}\\) need not be \\(\Re\\).}
+Bilinearity: linear in a and b separately: \\((\ga a)^{*}(\beta b) = \conj{\ga}\beta a^{*}b\\). +++(Range of \\(\dprod{)+++\\) need not be \\(\Re\\).}
 
 \\(\dprod{Ax + x, y} = \dprod{x, A^{*}y + y}\\).
 

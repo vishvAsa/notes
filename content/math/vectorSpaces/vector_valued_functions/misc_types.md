@@ -45,7 +45,7 @@ Take \\(A \subseteq V\\), some norm: \\(\norm{.}\\). \\(P_A(u) = argmin_{v \in A
 
 ### Affine functions between vector spaces
 Aka affine \\
-transformation/ map. \exclaim{Linear transformation followed by translations.} Writeable as \\( y= Ax + b\\); or as \\(y' = \mat{y \\ 1} = \mat{A & b\\ 0  & 1} \mat{x \\ 1} = Mx'\\), a linear transformation in a higher dimension space.
+transformation/ map. +++(Linear transformation followed by translations.)+++ Writeable as \\( y= Ax + b\\); or as \\(y' = \mat{y \\ 1} = \mat{A & b\\ 0  & 1} \mat{x \\ 1} = Mx'\\), a linear transformation in a higher dimension space.
 
 Somewhat preserves all affine combinations: \\(M(ax + (1-a) x') = aMx+(1-a)Mx' = y\\) with last component in y being 1.
 
