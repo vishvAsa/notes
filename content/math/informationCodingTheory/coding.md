@@ -125,6 +125,6 @@ Make nodes for the transmitted codeword bits x, and for the corresponding receiv
 ###### The inference problem
 y is observed, x is unobserved - to be inferred. Can use loopy belief propogation for doing this.
 
-####### Guarantees for [p, q] regular codes
+###### Guarantees for [p, q] regular codes
 As the block size n increases, can be sure that loopy belief propogation properly decodes: shown using the 'density evolution' argument. Loopy belief propogation gets into trouble because of cycles; but if you consider the computation tree corresponding to a node, maybe convergence achieved well before a cyclical message is received!
 
