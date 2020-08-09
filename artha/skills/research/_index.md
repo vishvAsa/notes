@@ -12,15 +12,13 @@ to keep working at the boundary of one’s abilities.
 
 The pleasure is great when you are tackling a problem,
 
-  - which you are certain is worth tackling - guaranteeing enthusiastic
-    effort;
-
-  - requires you to invest an amount of thought and effort which is
-    neither too small nor too huge in order to start reaping rewards;
-    like activation energy in chemistry
-
-  - you feel confident about making significant progress towards a
-    solution - or even about solving it.
+- which you are certain is worth tackling - guaranteeing enthusiastic
+effort;
+- requires you to invest an amount of thought and effort which is
+neither too small nor too huge in order to start reaping rewards;
+like activation energy in chemistry
+- you feel confident about making significant progress towards a
+solution - or even about solving it.
 
 All other pleasurable activities associated with a research career -
 such as mentoring, presentation, gathering knowledge etc - depend on
