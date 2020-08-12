@@ -18,7 +18,7 @@ Find by manual calculation of probabilities of values of \\(\set{X_{i}}\\); or b
 
 ### Summarize Central tendency
 Sample and population expectation \\
-(\\(\bar{X}, \mu = E[X]\\)), median (m with \\(F(m) = 1/2\\)), mode.
+(\\(\bar{X}, \mu = E[X]\\)), median (m with \\(F(m) = 1/2\\)) where F is CDF, mode.
 
 #### AM, GM, HM
 Suppose we have \\(n\\) numbers \\((a_i)\\). Arithmetic mean is \\(n^{-1}\sum_i a_i\\): the name reminisces the arithmetic series. Geometric mean is \\(\prod_i a_i^(n^{-1})\\), and harmonic mean is \\(n^{-1}(\sum_i a_i^{-1})^{-1}\\).
