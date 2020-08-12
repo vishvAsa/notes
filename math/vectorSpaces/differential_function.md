@@ -88,7 +88,7 @@ For simplicity in remembering the rules it is easier to think in terms of the Di
 \\(DAx = A : \gradient Ax = A^{T}, \gradient b^{T}x = b\\) from Df(x) rules.
 
 #### Quadratic functionals
-\\(\gradient x^{T}Ax = (A^{T} + A )x\\): \pf{expanding \\((x+\del x_{i})^{T}A(x+\del x_{i})\\).} Alternate \pf{\\(D(x^{T}Ax) = x^{T}A + D(x^{T}A) x\\) (product rule) \\( = x^{T}A + x^{T} D(A^{T}x) = x^{T}(A + A^{T})\\)}
+\\(\gradient x^{T}Ax = (A^{T} + A )x\\): <div class="proof">expanding \\((x+\del x_{i})^{T}A(x+\del x_{i})\\).} Alternate \pf{\\(D(x^{T}Ax) = x^{T}A + D(x^{T}A) x\\) (product rule) \\( = x^{T}A + x^{T} D(A^{T}x) = x^{T}(A + A^{T})\\)</div>
 
 If \\(A = A^{T}\\): \\(D(x^{T}Ax) = x^{T}(2A)\\).
 
@@ -124,7 +124,7 @@ Similarly, kth order differential functions can be defined in general.
 The notation \\(D^{2}f(x)[e_i][e_j] = D_{ij}f(x)\\) is used.
 
 ### Tensor representation
-\\(D^{2}f(x)[u][v] = \sum_{i, j} u_i v_j D_{i, j}^{2}f(x)\\). \pf{By the distributive property of multilinear functions. This can also be proved by applying the chain rule, the directional linearity of the differential function and the linearity of the differential operator.}
+\\(D^{2}f(x)[u][v] = \sum_{i, j} u_i v_j D_{i, j}^{2}f(x)\\). <div class="proof">By the distributive property of multilinear functions. This can also be proved by applying the chain rule, the directional linearity of the differential function and the linearity of the differential operator.</div>
 
 Similarly \\(D^{k}f(x)\\) can be completely specified using kth order derivatives along the basis vectors.
 
@@ -176,7 +176,7 @@ From scalar functional derivative product rule: \\(D_x f(x)^{T}g(x) = (D_x f(x))
 #### Directional differential functions
 Take \\(h(x) = g(f(x))\\). Then \\(Dh(x)[v] = D(g)[f(x)]D(f)[v]\\).
 
-\pf{We want \\(Dh(x)\\) such that \\(lt_{t \to 0} g(f(x+tv)) = g(f(x)) + tDh(x)[v]\\). We get the result using similar definitions for small \\(t\\): \\(g(f(x+tv)) = g(f(x) + tD(f)(x)[v]) = g(f(x)) + tD(g)[f(x)]D(f)(x)[v]\\)}
+<div class="proof">We want \\(Dh(x)\\) such that \\(lt_{t \to 0} g(f(x+tv)) = g(f(x)) + tDh(x)[v]\\). We get the result using similar definitions for small \\(t\\): \\(g(f(x+tv)) = g(f(x) + tD(f)(x)[v]) = g(f(x)) + tD(g)[f(x)]D(f)(x)[v]\\)</div>
 
 #### In matrix representation
 In terms of derivative matrices, this is a matrix product: \\(D(g)[D(f)(x)[v]] = J_g(f(x)) J_f(x) v\\)! Note that order matters: first differentiate wrt outer function, then wrt inner function.

@@ -130,7 +130,7 @@ Instead, construct a function Q(w) which lower bounds \\(\log L(w|X)\\); then ma
 
 #### Q(w) is a lower bound
 Q(w) a lower bound for \\(\log L(w|x)\\).
-\pf{Regardless of how \\(Y \distr w^{(i)}\\) is distributed, \\(Q(w) = E_y \log L(w|x, y) \leq \log L(w|x)\\) because \\(E_t \log t \leq \log \max_{t \in T} t \leq \log \sum_T t\\).}
+<div class="proof">Regardless of how \\(Y \distr w^{(i)}\\) is distributed, \\(Q(w) = E_y \log L(w|x, y) \leq \log L(w|x)\\) because \\(E_t \log t \leq \log \max_{t \in T} t \leq \log \sum_T t\\).</div>
 
 #### Convergence
 Q() lower bounds L(), but we cannot guarantee that the \\(\max_w Q()\\) does not lead us away from the local maximum. So, monotonic convergence is not guaranteed. \chk

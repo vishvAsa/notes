@@ -95,7 +95,7 @@ differentiable in \\([x_{1}, x_{2}], f(x_{1}) = f(x_{2}) = 0, \exists c \in (x_{
 
 Easy to make a visual argument.
 
-\pf{There exists atleast one maximum and one minimum in [a, b]; if it happens to be in the interior set \\((a, b)\\), \\(f'(x) = 0\\) at this point; otherwise \\(f\\) is a constant function, and there is still an extremum in \\((a, b)\\).} 
+<div class="proof">There exists atleast one maximum and one minimum in [a, b]; if it happens to be in the interior set \\((a, b)\\), \\(f'(x) = 0\\) at this point; otherwise \\(f\\) is a constant function, and there is still an extremum in \\((a, b)\\).</div>
 
 #### Mean value theorem
 If \\(f\\) is continuous and differentiable in \\
@@ -106,7 +106,7 @@ If \\(f\\) is continuous and differentiable in \\
 #### Relative to another function
 If \\(f, g\\) continuous and differentiable: \\((f(b) - f(a)) g'(x) = (g(b) - g(a)) f'(x)\\): Make new function, apply Rolle. Aka Cauchy's mean value theorem.
 
-\pf{Suppose that \\(f(b) = f(a) + M(g(b)- g(a))\\). Now, solve for \\(M\\). Take \\(F(x) = f(x) - f(a) - M (g(x) - g(a))\\). \\(F(a) = F(b) = 0\\); so because of the Interior extremum existance argument, there must exist some \\(c \in [a, b]\\) with \\(F'(c) = 0\\).}
+<div class="proof">Suppose that \\(f(b) = f(a) + M(g(b)- g(a))\\). Now, solve for \\(M\\). Take \\(F(x) = f(x) - f(a) - M (g(x) - g(a))\\). \\(F(a) = F(b) = 0\\); so because of the Interior extremum existance argument, there must exist some \\(c \in [a, b]\\) with \\(F'(c) = 0\\).</div>
 
 #### Definite integral view and the mean
 \\(\int_{[a, b]} f'(x) dx = f(b) - f(a) = f'(c) (b-a)\\) for some \\(c \in [a, b]\\). This can be extended to integration \\(\int_{[a, b]} f'(x) dg(x)\\) wrt another function \\(g(x)\\) using the mean value theorem relative to another function.
