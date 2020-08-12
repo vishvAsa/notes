@@ -13,7 +13,7 @@ Aka Central limit theorem (CLT)
 
 Take estimator \\(U_{n} = \frac{\bar{X} - \mean}{\frac{\stddev}{\sqrt{n}}}\\). \\(lt_{n\to \infty} Pr(U_{n} \leq u) = \int_{-\infty}^{u} \frac{1}{\sqrt{2\pi}}e^{-t^{2}/2}dt\\): so approaches CDF of N(0,1): See convergence of moment generating function below. So, as n increases, \\(var[\bar{X}]\\) becomes smaller: visualize pdfs of \\(X, \bar{X}_{30}, \bar{X}_{50}\\); see how curve becomes more normal and gets thinner and taller. Generally, can use CLT when \\(n>30\\).
 
-#### Proof showing MGF \htext{\\(M_{U_{n}(t) \to\\)}{..} MGF of N(0, 1)}
+#### Proof showing MGF \\(M_{U_{n}(t) \to\\) MGF of N(0, 1)}
 iid \\(\set{X_{i}}\\). \\(m_{U_{n}}(t) = E[e^{\frac{t(\sum X_{i} - n\mean)}{\sqrt{n}\stddev}}] = \prod E[e^{\frac{t}{\sqrt{n}}}(\frac{X_{i} - \mean)}{\stddev}] = m_{Z}(t/\sqrt{n})^{n}\\): implicitly defining Z with \\(E[Z] = 0, var[Z] = E[Z^{2}] = 1\\).
 
 But, by Taylor, 

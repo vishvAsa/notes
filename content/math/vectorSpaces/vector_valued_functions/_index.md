@@ -31,7 +31,7 @@ Eg: \\(f(x,y) = xy\\).
 Similarly, multilinearity is defined.
 
 ##### Distributive law
-Just like \\(xy\\), the distributive law holds for all multilinear functions. \pf{Easy to see for bilinear function. The multilinear case then follows by induction.}
+Just like \\(xy\\), the distributive law holds for all multilinear functions. <div class="proof">Easy to see for bilinear function. The multilinear case then follows by induction.</div>
 
 ### Generalized convexity
 Consider inequalities defined by a pointed cone. If \\(f(tx + (1-t)y) \preceq tf(x) + (1-t)f(y)\\), \\(f\\) is convex. Many properties analogous to convexity of functionals, similarly proved. Epigraph of \\(f\\) is convex. Sublevel-sets of \\(f\\) are also convex.

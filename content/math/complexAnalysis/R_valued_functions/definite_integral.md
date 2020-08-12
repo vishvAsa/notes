@@ -75,7 +75,7 @@ So, if \\(s_{i}, t_{i} \in [x_{i-1}, x_{i}], \sum |f(s_{i}) - f(t_{i})| \gD g_{i
 ### Continuity implies integrability
 If \\(f\\) continuous on \\([a, b]\\), \\(f \in R(g)\\) on \\([a, b]\\).
 
-\pf{As \\([a, b]\\) compact, \\(f\\) uniformly cont; so \\(\forall \eta \exists d: |x-t|\leq d \implies |f(x) - f(t)| < \eta\\); take \\(\eta:  (g(b) - g(a)) \eta \leq \eps\\); take any partition P with \\(\gD x_{i} \leq d\\); so \\(U(P, f, g) - L(P, f, g) = \sum (M_{i} - m_{i}) \gD g_{i} \leq \eps\\).}
+<div class="proof">As \\([a, b]\\) compact, \\(f\\) uniformly cont; so \\(\forall \eta \exists d: |x-t|\leq d \implies |f(x) - f(t)| < \eta\\); take \\(\eta:  (g(b) - g(a)) \eta \leq \eps\\); take any partition P with \\(\gD x_{i} \leq d\\); so \\(U(P, f, g) - L(P, f, g) = \sum (M_{i} - m_{i}) \gD g_{i} \leq \eps\\).</div>
 
 ### Relationship with Uniform convergence
 Take \\(f_{n}\\) on \\([a, b]\\), \\(f_{n} \to f\\) uniformly.
@@ -91,7 +91,7 @@ If \\(f \in \mathcal{R}\\) on \\([a, b]\\): \\(F(x) = \int_{a}^{x}f(t)dt\\) is c
 ### Differential of integral over f
 If \\(f\\) is continuous at \\(c\\): : \\(F(x) = \int_{a}^{x}f(t)dt\\) is differentiable at \\(c\\), \\(F'(c) = f(c)\\).
 
-\pf{Continuity of f states that \\(t-c < d \implies |f(t) - f(c)| < \eps\\). So \\(|\frac{F(t) - F(c)}{t-c} - f(c)| = |\frac{1}{t-c}||\int_{c}^{t}f(u)du - f(c)(t-c)| = |\frac{1}{t-c}||\int_{c}^{t}(f(u)-f(c))du| \leq \eps\\).}
+<div class="proof">Continuity of f states that \\(t-c < d \implies |f(t) - f(c)| < \eps\\). So \\(|\frac{F(t) - F(c)}{t-c} - f(c)| = |\frac{1}{t-c}||\int_{c}^{t}f(u)du - f(c)(t-c)| = |\frac{1}{t-c}||\int_{c}^{t}(f(u)-f(c))du| \leq \eps\\).</div>
 
 ### Definite integral = difference in antiderivative
 #### Anti-derivative
@@ -102,7 +102,7 @@ For any \\(f\\), if there is an antiderivative \\(F\\), \\(\set{F(x) + k | k \in
 #### Fundamental theorem of calculus
 \\(\int_{a}^{b} f(x)dx = F(b) - F(a)\\).
 
-\pf{Pick a partition \\(P = (x_i)\\) with \\(U - L < \eps\\). Apply Mean Value Thm to get: \\(F(x_{i}) - F(x_{i-1}) = f(t_{i})\gD x_{i}\\); add all such terms to get \\(F(b) - F(a) = \sum f(t_{i})\gD x_{i} = \int_{a}^{b} f(x)dx + \eps\\) by a property seen under Stieltjes Integral.}
+<div class="proof">Pick a partition \\(P = (x_i)\\) with \\(U - L < \eps\\). Apply Mean Value Thm to get: \\(F(x_{i}) - F(x_{i-1}) = f(t_{i})\gD x_{i}\\); add all such terms to get \\(F(b) - F(a) = \sum f(t_{i})\gD x_{i} = \int_{a}^{b} f(x)dx + \eps\\) by a property seen under Stieltjes Integral.</div>
 
 ### Inter-measure Derivative
 Aka Radon-Nikodym derivative. The min-cover integral may be used to define a derivative which connects two measures on the same measurable space: this is described in the chapter on measures in the Algebra survey.
@@ -160,7 +160,7 @@ Let \\((X, S, m)\\) be the product measure space of \\(\set{(X_i, S_i, m_i) : i 
 
 Then, from the properties of the product measure: (Fubini) \\(\int_E f(x) dm = \int_{E_1} g(x_1) dm_1\\), where \\(g(x_1) = \int_{x_2 \in E_2} f(x_1, x_2) d(m_2)\\).
 
-\pf{Let \\(R\\) be associated with the usual measure space \\((R, S_r, m_r)\\). (Core intuition) The min cover measure of the space in \\((X \times R)\\) bounded by \\(E\\) and \\(f\\) is \\(inf_{\set{B_i}} (m \times m_r)(\union_i B_i)\\), where \\(B_i = (B_{iX_1}\times B_{iX_2}  \times B_{iR}) \in (S \times S_r)\\) cover \\(E\\). Because we are dealing with the product measure, \\(m_1 m_2 m_r(B_i) = m_1(B_{iX_1})m_2 m_1(B_{iX_2} \times B_{iR})\\).}
+<div class="proof">Let \\(R\\) be associated with the usual measure space \\((R, S_r, m_r)\\). (Core intuition) The min cover measure of the space in \\((X \times R)\\) bounded by \\(E\\) and \\(f\\) is \\(inf_{\set{B_i}} (m \times m_r)(\union_i B_i)\\), where \\(B_i = (B_{iX_1}\times B_{iX_2}  \times B_{iR}) \in (S \times S_r)\\) cover \\(E\\). Because we are dealing with the product measure, \\(m_1 m_2 m_r(B_i) = m_1(B_{iX_1})m_2 m_1(B_{iX_2} \times B_{iR})\\).</div>
 
 Thus, integration over the product measure space reduces to integrating over one variable at a time; and the order in which these integrals are taken does not matter in this case. This case is aka multiple integration.
 
@@ -176,7 +176,7 @@ As in the case of the Gaussian integral, the form \\(\int_{a, b} f(x, y) dx dy\\
 ### Normal integral
 Aka Gaussian integral.
 \\(\int_{-\infty}^{\infty}e^{-x^{2}}dx = I = \sqrt{\pi}\\): \\
-\pf{\\(I^{2} =  \int_{y=-\infty}^{y=\infty}\int_{x=-\infty}^{x=\infty}e^{-x^{2}-y^{2}}dxdy \\); thence transform to polar coordinates and solve.}
+<div class="proof">\\(I^{2} =  \int_{y=-\infty}^{y=\infty}\int_{x=-\infty}^{x=\infty}e^{-x^{2}-y^{2}}dxdy \\); thence transform to polar coordinates and solve.</div>
 
 #### Importance
 The Gaussian integral itself is important due to this nice integrability and the nice properties observed in the Gaussian distribution (very suitable for modeling). Further, it is useful because realated integrals can be used to smooth functions for various purposes (eg: optimization).

@@ -48,7 +48,7 @@ Consider \\(E[X]\\), where \\(f_X(x)\\) is a convex combination of \\((f_i(x))\\
 ### Convex function of E[] inequality
 Aka Jensen's inequality.
 
-If f is convex, \\(E[f(X)] \geq f(E[X])\\):  \pf{E[X] is actually a convex combination of points in range(X). So, follows directly from definition of convexity (see vector spaces ref).}
+If f is convex, \\(E[f(X)] \geq f(E[X])\\):  <div class="proof">E[X] is actually a convex combination of points in range(X). So, follows directly from definition of convexity (see vector spaces ref).</div>
 
 So: \\(E[X^{2}]-(E[X])^{2} \geq 0\\).
 
