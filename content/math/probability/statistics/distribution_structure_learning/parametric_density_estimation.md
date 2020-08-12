@@ -23,9 +23,9 @@ Here, one finds a mode / strict local maximum \\(x'\\) of the distribution \\(p(
 #### 2nd order approximation of log f
 \\(\log N(x', \covmatrix)\\) is a quadratic function. So, we try to find \\(\covmatrix\\) such that \\(\log N\\) approximates the 2nd order approximation of \\(\log f\\).
 
-As \\(\gradient f(x')= 0\\), taking the quadratic approximation \\\\(\log f(x) \approx \log f(x') + (f(x'))^{-2} (x-x')^{T}\gradient^{2} f(x')(x - x')\\). So, \\\\(f(x) \approx f(x')exp((f(x'))^{-2} (x-x')^{T}\gradient^{2} f(x')(x - x'))\\)
+As \\(\gradient f(x')= 0\\), taking the quadratic approximation \\(\log f(x) \approx \log f(x') + (f(x'))^{-2} (x-x')^{T}\gradient^{2} f(x')(x - x')\\). So, \\(f(x) \approx f(x')exp((f(x'))^{-2} (x-x')^{T}\gradient^{2} f(x')(x - x'))\\)
 
-The RHS can now be used to construct \\(\covmatrix\\). As \\(x'\\) is a mode, \\\\(-2(f(x'))^{-2}\gradient^{2} f(x') \succ 0\\) as expected.
+The RHS can now be used to construct \\(\covmatrix\\). As \\(x'\\) is a mode, \\(-2(f(x'))^{-2}\gradient^{2} f(x') \succ 0\\) as expected.
 
 ### Properties
 #### Estimating Z
@@ -69,13 +69,14 @@ let \\(D\\) be the actual distribution of \\(X\\). In the limit where $n \to
 
 ##### Mean wrt X
 Under some regularity conditions, \\
-$E_X[V(t, X)] = \int_x (f_{X|T}(x|t)^{-1} \gradient_t f_{X|T}(x|t)) f_{X|T}(x|t))dx =\\
- \gradient_t \int_x f_{X|T}(x|t)) dx = \gradient_t 1 = 0$.
+
+$$E_X[V(t, X)] = \int_x (f_{X|T}(x|t)^{-1} \gradient_t f_{X|T}(x|t)) f_{X|T}(x|t))dx =\\
+ \gradient_t \int_x f_{X|T}(x|t)) dx = \gradient_t 1 = 0$$.
 
 #### Variance wrt X of sensitivity score of likelihood
 Aka Fisher Information matrix. As \\(E_X[V(t, X)] = 0\\), \\(I(t) = E_X[V(t, X)^{2}] = E_X[(\gradient_t{\log L(t|X)})^{2} | t]\\). Measures information about t in the observable RV X. If I(t) is high for RV X, then the absolute value of the sensitivity score is high in expectation.
 
-If conditions like those in \\(E_X[V(t, X)] = 0\\) hold,\\ \\(E_X[(f_{X|T}(x|t))^{-1} \gradient_t^{2} f_{X|T}(x|t)] = 0\\) will hold, and so \\\\(I(t) = -E_X[(\gradient_t^{2}{\log L(t|X)})^{2} | t]\\).
+If conditions like those in \\(E_X[V(t, X)] = 0\\) hold,\\ \\(E_X[(f_{X|T}(x|t))^{-1} \gradient_t^{2} f_{X|T}(x|t)] = 0\\) will hold, and so \\(I(t) = -E_X[(\gradient_t^{2}{\log L(t|X)})^{2} | t]\\).
 
 
 ### Computational cost

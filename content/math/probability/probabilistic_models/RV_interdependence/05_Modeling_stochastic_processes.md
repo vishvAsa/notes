@@ -41,7 +41,7 @@ Since it is easy to translate between \\((Y_t)\\) and \\((X_t)\\), we have a way
 
 ### Describing bigram model
 #### State transition matrix
-Thence get a \\(|V| \times |V|\\) transition matrix P with \\\\(P_{x,y} = f_{X_{t+1}| X_{t} = x}(y)\\); also see stochastic matrices in linear algebra ref.
+Thence get a \\(|V| \times |V|\\) transition matrix P with \\(P_{x,y} = f_{X_{t+1}| X_{t} = x}(y)\\); also see stochastic matrices in linear algebra ref.
 
 Probability distribution vector over states at r: \\(p_t\\). \\(p_{t} = P p_{t-1} = P^{t}p_{t-1}\\).
 
@@ -60,8 +60,9 @@ Reversible chain: \\(\exists \pi: \forall x, y: \pi_{x}P_{x,y} = \pi_{y}P_{y,x}\
 Given a sufficiently long sequence \\(X_i\\), one can estimate various transition probabilities \\(P_{x, y}\\) by \\(\frac{\sum_t I(X_t = y| X_{t-1} = x)}{\sum_t I(X_{t-1}=x)}\\).
 
 ### Unique Stationary distribution \\(\pi\\) of ergodic chains
-$\forall x, y: \\
-lt_{t\to \infty}P^{t}_{x,y} = \pi_{y}\\(. Find \\)\pi\\(: \\)P\pi =\pi\\(, \\)\sum \pi_{i}=1\\(; or inflow = outflow. If time-reversible, \\)\pi$ uniform.
+
+$$\forall x, y: \\
+lt_{t\to \infty}P^{t}_{x,y} = \pi_{y}\\(. Find \\)\pi\\(: \\)P\pi =\pi\\(, \\)\sum \pi_{i}=1\\(; or inflow = outflow. If time-reversible, \\)\pi$$ uniform.
 
 ### Mixing time of Ergodic chain
 #### Purpose, definition
@@ -97,7 +98,7 @@ Arrival rate \\(a\\), departure rate \\(m\\). \\(\pi_{i}=(\frac{a}{m})^{i}(1-\fr
 ### Problem
 Suppose that one observed RV \\(\seq{Z_n}\\) and a filtration or a series of events \\(\seq{F_n}\\), with the property that \\(F_n \supseteq F_{n-1}\\).
 
-Suppose further that: \\\\(E[|Z_{n}|] < f(n) < \infty\\), that \\(Z_n\\) is fully determined when \\(F_n\\) is observed, and \\(E[Z_{n}|F_{n-1}] = Z_{n-1}\\) (or \\(E[Z_{n}|F_{n-1}] - Z_{n-1} = 0\\)).
+Suppose further that: \\(E[|Z_{n}|] < f(n) < \infty\\), that \\(Z_n\\) is fully determined when \\(F_n\\) is observed, and \\(E[Z_{n}|F_{n-1}] = Z_{n-1}\\) (or \\(E[Z_{n}|F_{n-1}] - Z_{n-1} = 0\\)).
 
 This process is the martingale \\(\seq{Z_n}\\) wrt filtration \\(\seq{F_n}\\).
 
@@ -118,8 +119,9 @@ One can stop the stochastic process based on past (not future) bets/ Observation
 ### Doob martingale
 Anything like \\(Z_{i}=E_{X_{i+1 .. X_{n}}}[f(X_{1}..X_{n})|X_{1}..X_{i}]\\) fits defn of Martingale: \\
 Eg: \\
-$E_{X_{2} .. }[Z_{2}|X_{1}] = E_{X_{2} ..}[E_{X_{3} ..}[f(X_{i})| X_{1}, X_{2}]| X_{1}] = \\
-\sum_{x_{2}} E_{X_{3} ..}[f(X_{i})| X_{1}, X_{2} = x_{2}] Pr_{X_{2}}(X_{2} = x_{2}|X_{1})= E_{X_{2} ..}[f(X_{i})| X_{1}] = Z_{1}$.
+
+$$E_{X_{2} .. }[Z_{2}|X_{1}] = E_{X_{2} ..}[E_{X_{3} ..}[f(X_{i})| X_{1}, X_{2}]| X_{1}] = \\
+\sum_{x_{2}} E_{X_{3} ..}[f(X_{i})| X_{1}, X_{2} = x_{2}] Pr_{X_{2}}(X_{2} = x_{2}|X_{1})= E_{X_{2} ..}[f(X_{i})| X_{1}] = Z_{1}$$.
 
 ### Find expected running time of a game
 Make a martingale, use Wald's equation.
@@ -170,7 +172,7 @@ Note that \\(Pr(w_1|@^m)\\) actually represents the probability of \\(w_1\\) app
 #### Actual probability
 As a sort of necessary preprocessing, ensure that \\(w_m\\), the last word in the string is \\(@\\), and \\(w_{1:n-1} = @^{n-1}\\).
 
-Then, the probability of generating a given \\(m\\) word string is exactly \\\\(Pr(w_{1:m}) = \prod_{k=n:m} Pr(w_k|w_{1:k-1})\\).
+Then, the probability of generating a given \\(m\\) word string is exactly \\(Pr(w_{1:m}) = \prod_{k=n:m} Pr(w_k|w_{1:k-1})\\).
 
 #### Markov assumption
 If one makes a simplifying nth order Markov assumption, which says that any word depends only on the previous \\(k<=n-1\\) words, we get the approximation: \\(Pr(w_{1:m}) \approx \prod_{k=n:m} Pr(w_k|w_{k-n+1:k-1})\\).

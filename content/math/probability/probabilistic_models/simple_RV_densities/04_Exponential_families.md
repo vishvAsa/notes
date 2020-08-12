@@ -76,9 +76,10 @@ Often convert \\(X \distr N(\mean, \stddev^{2}) \to (\frac{X - \mean }{\stddev})
 In Matlab, can use erfc and erfcinv. \\(F(x) = 1/2 erfc(-u/\sqrt{2})\\).
 
 #### Moment generating function
-$M(t) = E[e^{tX}] = \int e^{tx}\frac{1}{\stddev \sqrt{2\pi}}exp(-\frac{(x-\mean)^{2}}{2\stddev^{2}}) dx \\
+
+$$M(t) = E[e^{tX}] = \int e^{tx}\frac{1}{\stddev \sqrt{2\pi}}exp(-\frac{(x-\mean)^{2}}{2\stddev^{2}}) dx \\
 = \int e^{t\mean + \stddev^{2}t^{2}/2}\frac{1}{\stddev \sqrt{2\pi}}exp(-\frac{(x-\mean - \stddev^{2}t)^{2}}{2\stddev^{2}}) dx \\
-= e^{t\mean + \stddev^{2}t^{2}/2}$ by completing the squares.
+= e^{t\mean + \stddev^{2}t^{2}/2}$$ by completing the squares.
 
 #### Other properties
 If \\(\set{X_{i}}\\) are iid \\(N(\mean, \stddev^{2})\\), \\
@@ -124,8 +125,9 @@ get \\(\gD = (x - \mean)^{T}\covmatrix^{-1}(x-\mean) = (x - \mean)^{T}U^{*}\EW^{
 \\(\gD\\) is the Mahalonobis distance.
 
 ##### As product of univariate normal distribution
-So, take \\(y = U(x-\mean)\\) as new axis. Then $N(x|\mean, \covmatrix) = \\
-\frac{1}{(2\pi)^{D/2} \prod \ew_{i}^{1/2}} e^{-\frac{1}{2} \prod \frac{y_{j}^{2}}{\ew_{j}}}$: thus factored into a product of univariate normal distribution variables.
+So, take \\(y = U(x-\mean)\\) as new axis. Then 
+$$N(x|\mean, \covmatrix) = \\
+\frac{1}{(2\pi)^{D/2} \prod \ew_{i}^{1/2}} e^{-\frac{1}{2} \prod \frac{y_{j}^{2}}{\ew_{j}}}$$: thus factored into a product of univariate normal distribution variables.
 
 ##### A special case
 If \\((X_{i})\\) are \\(\perp\\), \\(\covmatrix\\) is diagonal, then this boils down to product of univariate normal distributions, as expected.

@@ -89,8 +89,9 @@ Aka Law of total probability, marginalization. \\(Pr(E) = \sum_{G \in F_2} Pr(E 
 ### Conditional probability inversion
 Aka Bayes' theorem, Bayes's rule.
 
-$Pr(G | E) = \frac{Pr(E|G)Pr(G)}{Pr(E)} \\
-= \frac{Pr(E|G)Pr(G)}{\sum_{G \in F_2} Pr(E|G)Pr(G)}$.
+
+$$Pr(G | E) = \frac{Pr(E|G)Pr(G)}{Pr(E)} \\
+= \frac{Pr(E|G)Pr(G)}{\sum_{G \in F_2} Pr(E|G)Pr(G)}$$.
 
 Fixing \\(E\\), this becomes a function \\(F_2 \to [0, 1]\\), we can write \\(Pr(G|E) = \propto Pr(E|G)Pr(G)\\).
 

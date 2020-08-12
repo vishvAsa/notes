@@ -13,9 +13,10 @@ If g is monotone in \\((x, x+\gd x)\\): \\(p_{X}(x)\gd x \approx p_{Y}(y)\gd y\\
 If g is not continuous, but \\(\exists\\) partition \\(A_{0}, .. A_{k}\\) with \\(Pr(X \in A_{0}) = 0\\), with \\(\set{g_{i}} = g \\) over \\(\set{A_{i}}\\) monotone; then \\(p_Y(y) = \sum_{i} p_{X}(g^{-1}(y))|\frac{d g_{i}^{-1}(y)}{dy}|\\); where \\(\sum\\) appears to account for the probability that Y=y over various domains of X.
 
 ### Extension to multidimensional distributions
-$Y = g(X_{1}, X_{2}); \\
+
+$$Y = g(X_{1}, X_{2}); \\
 X_{1} = h(Y, X_{2})\\(. Fix \\)X_{2} = x_{2}\\(; get \\)p(Y, x_{2}) = p_{X_{1}, X_{2}}(X_{1} \\
-= h^{-1}(Y, x_{2})| x_{2})|\frac{dh^{-1}(Y, x_{2})}{d Y}|\\(; then do \\)p_{Y}(y) = \int p(Y, x_{2}) dx_{2}$.
+= h^{-1}(Y, x_{2})| x_{2})|\frac{dh^{-1}(Y, x_{2})}{d Y}|\\(; then do \\)p_{Y}(y) = \int p(Y, x_{2}) dx_{2}$$.
 
 ## Using moment generating functions
 Given \\(m_{X}(t)\\), find \\

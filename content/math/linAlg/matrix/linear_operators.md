@@ -140,7 +140,7 @@ Aka outer product. \\(A\\) \\(m\times n\\), B \\(p \times q\\); \\(C = \\)A\\( \
 
 From defn, \\(\exists A, B: A \kron B \neq B \kron \\)A\\( ; (A \kron B)^{T} = B^{T} \kron C^{T}; A \kron (B+C) = \\)A\\( \kron B + A \kron C; aA \kron bB = ab A\kron B\\). \\((A \kron B)(C \kron D) = AC \kron BD\\) by block multiplicity. So, \\((A \kron B)^{-1} = A^{-1} \kron B^{-1}\\). Also, using \\(QA = LDU: rank(A \kron B) = rank(A)rank(B)\\).
 
-\\(\ew\\) vector: \\(\ew(A \kron B) = \ew(A)\kron \ew(B)\\): take eigenpairs of \\(A\\) and B: \\\\((\ew_{i}, v_{i}), (\mu_{j}, u_{j})\\); 
+\\(\ew\\) vector: \\(\ew(A \kron B) = \ew(A)\kron \ew(B)\\): take eigenpairs of \\(A\\) and B: \\((\ew_{i}, v_{i}), (\mu_{j}, u_{j})\\); 
 \\((A \kron B)(v_{i} \kron u_{j}) = Av_{i} \kron Bu_{j} = \ew_{i}\mu_{j}(v_{i} \kron u_{j})\\).
 
 ## Inverse operation: Solve Ax = b for x

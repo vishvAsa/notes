@@ -81,8 +81,9 @@ Apply p norm to singular values. Special case of Ky Fan norm: \\(\norm{A}_{p,q} 
 
 \\((\sum a_{i,j}^{2})^{\frac{1}{2}} = (\sum \norm{a_{j}}^{2})^{\frac{1}{2}} = (tr A^{*}A)^{\frac{1}{2}} = (tr AA^{*})^{\frac{1}{2}} = (tr \SW^{*}\SW)^{1/2} = A_{F}\\). So, based on matrix inner product: \\(\dprod{A,B} = tr(B^{*}A)\\).
 
-So, \\(\norm{QA}_{F}=\norm{A}_{F}\\). By Cauchy Schwartz, $\norm{C}_{F}^{2} = \norm{AB}_{F}^{2} = \\
-\sum_{i}\sum_{j} (a_{i}^{*}b_{j})^{2} \leq \sum_{i}\sum_{j} \norm{a_{i}}_{2}^{2}\norm{b_{j}}_{2}^{2} =\norm{A}_{F}\norm{B}_{F}$.
+So, \\(\norm{QA}_{F}=\norm{A}_{F}\\). By Cauchy Schwartz, 
+$$\norm{C}_{F}^{2} = \norm{AB}_{F}^{2} = \\
+\sum_{i}\sum_{j} (a_{i}^{*}b_{j})^{2} \leq \sum_{i}\sum_{j} \norm{a_{i}}_{2}^{2}\norm{b_{j}}_{2}^{2} =\norm{A}_{F}\norm{B}_{F}$$.
 
 #### Trace (Nuclear) norm
 \\(\norm{A}_{S1} = \norm{A}_{tr} = \sum \sw_{i} = tr((A^{*}A)^{1/2})\\). Corresponds to the trace inner product.

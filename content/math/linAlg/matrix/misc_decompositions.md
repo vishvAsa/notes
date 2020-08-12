@@ -61,8 +61,9 @@ See another section.
 Use eigenvalue decompositions: \\(AA^{*} = U \SW^{2}U^{*}\\), and \\(A^{*}A = V \SW^{2}V^{*}\\). Otherwise, find eigenvalue decomposition of \\(B = \mat{0 & A\\ A^{T} & 0}\\): then ew(A) are composed of zeros and sw(A) repeated with different signs. ev of B is \\((\sqrt{2})^{-1}\mat{U_n & V\\ \sqrt{2}U_{m-n} & 0}\\).
 
 ### Polar decomposition
-\\(m \leq n\\): take SVD $A = U [\SW\ 0] [V_{1}\ V_{2}]^{*} = U \SW V_{1}^{*},\\
- P^{2} = AA^{*} = U \SW^{2}U^{*}\\(: +ve semidefinite; take \\)P = U \SW U^{*}\\(: Hermitian +ve semidefinite. So, \\)A = U \SW V_{1}^{*} = PUV_{1}^{*} = PY$, where Y has orthonormal rows.
+\\(m \leq n\\): take SVD 
+$$A = U [\SW\ 0] [V_{1}\ V_{2}]^{*} = U \SW V_{1}^{*},\\
+ P^{2} = AA^{*} = U \SW^{2}U^{*}\\(: +ve semidefinite; take \\)P = U \SW U^{*}\\(: Hermitian +ve semidefinite. So, \\)A = U \SW V_{1}^{*} = PUV_{1}^{*} = PY$$, where Y has orthonormal rows.
 
 So, if \\(m \geq n\\): \\(A = YQ\\) for Hermitian +ve semidefinite Q, Y with orth columns: apply thm to \\(A^{*}\\).
 

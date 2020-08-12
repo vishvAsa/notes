@@ -76,13 +76,13 @@ It is easy to compute the partition function for this case. There exist efficien
 \\(f_X(x) \propto \prod_{(i, j) \in T} \gf_{i,j}(x_i, x_j)\\).
 
 ##### As directed model
-Now, consider any node, say \\(x_1\\), to be the root of the tree. \\\\(f_X(x_1, x_{\nbd(1)}) \propto \prod_{j \in \nbd(1)} \gf_{1, j}(x_1, x_j)\\). But, \\\\(f_X(x_1, x_{\nbd(1)}) = f_{X_1}(x_1) \prod_{j \in \nbd(1)} f_{X_j|X_1}(x_j|x_1)\\) from the conditional independence property of undirected graphical models. Applying this procedure recursively, one gets a directed graphical model.
+Now, consider any node, say \\(x_1\\), to be the root of the tree. \\(f_X(x_1, x_{\nbd(1)}) \propto \prod_{j \in \nbd(1)} \gf_{1, j}(x_1, x_j)\\). But, \\(f_X(x_1, x_{\nbd(1)}) = f_{X_1}(x_1) \prod_{j \in \nbd(1)} f_{X_j|X_1}(x_j|x_1)\\) from the conditional independence property of undirected graphical models. Applying this procedure recursively, one gets a directed graphical model.
 
 ##### In terms of marginals
 Consider the corresponding directed model. \\
 \\(f_{X_1,\nbd(1)}(x_1, x_{\nbd(1)}) = f_{X_1}(x_1) \prod_{j \in \nbd(1)} f_{X_j|X_1 = x_1}(x_j) \\= f_{X_1}(x_1) \prod_{j \in \nbd(1)} f_{X_j}(x_j) \prod_{j \in \nbd(1)} \frac{f_{X_j, X_1}(x_j x_1)}{f_{X_j}(x_j)f_{X_1}(x_1)}\\).
 
-Applying this procedure repeatedly, we get: \\\\(f_X(x) = \prod f_{X_i}(x_i) \prod_{(i,j) \in E} \frac{f_{X_i, X_j}(x_i, x_j)}{f_{X_i}(x_i) f_{X_j}(x_j)}\\).
+Applying this procedure repeatedly, we get: \\(f_X(x) = \prod f_{X_i}(x_i) \prod_{(i,j) \in E} \frac{f_{X_i, X_j}(x_i, x_j)}{f_{X_i}(x_i) f_{X_j}(x_j)}\\).
 
 #### Pairwise graphical model
 A subclass. \\(f_X(x) \propto \prod_i \gf_i(x_i)\prod_{(i,j) \in E} \gf_{i, j}(x_i, x_j)\\).
@@ -104,10 +104,11 @@ Consider exponential family attached to discrete graphical model G of n vars. Le
 
 We can completely specify \\(\ftr_{i,j}(x_i, x_j)\\) by parameter matrix \\(T_{i, j}\\) with \\
 \\(T_{i,j, k, l} = \ftr_{i,j}(k, l)\\).
-\\($f_X(x) = \propto e^{\sum_{(i, j) \in E} T_{i,j, x_i, x_j} } = e^{\sum_{(i, j) \in V^{2}} \sum_{k, l \in M^{2}}T_{i,j, k, l} I[x_i = k] I[x_j = l]}\\)$.
+\\(
+$$f_X(x) = \propto e^{\sum_{(i, j) \in E} T_{i,j, x_i, x_j} } = e^{\sum_{(i, j) \in V^{2}} \sum_{k, l \in M^{2}}T_{i,j, k, l} I[x_i = k] I[x_j = l]}\\)$$.
 We can think of this as an exponential family distribution involving \\(|V|^{2}m^{2}\\) auxiliary features/ covariates \\(y_{ij} = I[x_i = k] I[x_j = l]\\). But this distribution \\(f_X(x)\\) is now overparametrized, as \\(y_{i,j}\\) are not linearly independent. [See section on minimal parametrization of exponential family distributions.]
 
-Let \\(M' = M-\set{m}\\). Using a minimal parametrization, we get an exponential family distribution involving only features \\(y_{ij;kl \in (M')^{2}} = I[x_i = k] I[x_j = l]\\) and \\\\(y_{i;k \in (M')} = I[x_i = k]\\). So, \\(Pr(X = x \in M') \propto exp(\sum t_{i;k} y_{i;k} + \sum t_{ij;kl} y_{ij;kl})\\).
+Let \\(M' = M-\set{m}\\). Using a minimal parametrization, we get an exponential family distribution involving only features \\(y_{ij;kl \in (M')^{2}} = I[x_i = k] I[x_j = l]\\) and \\(y_{i;k \in (M')} = I[x_i = k]\\). So, \\(Pr(X = x \in M') \propto exp(\sum t_{i;k} y_{i;k} + \sum t_{ij;kl} y_{ij;kl})\\).
 
 ##### Ising model
 \\(Pr(X = x|t) \propto e^{\sum_i t_i x_i + \sum_{(i, j) \in V^{2}} t_{i,j} x_i x_j}; dom(X_i) \in \pm 1\\). Any binary undirected graphical model involving variables \\(Y_i\\) with range \\(\set{1, 2}\\) can be expressed like this: just consider the minimal parametrization of such distribution using the auxiliary features described earlier.

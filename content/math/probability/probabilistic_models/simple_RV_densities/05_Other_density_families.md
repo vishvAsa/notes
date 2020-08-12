@@ -53,7 +53,7 @@ Used in worst case analysis. CDF: \\(G(x|\mean, b) = e^{-e^{-\frac{x - \mean}{b}
 Aka Dirichlet distribution.
 This is the conjugate prior for multinomial distribution.
 
-Support is \\\\(\set{x \in R^{k}: \sum_i x_i = 1, x_i > 0}\\): or actually \\\\(\set{x \in R^{k-1}: \sum_i x_i < 1, x_i > 0}\\). pdf is \\(p(x; a) \propto \prod_{i=1:k} x_i^{a_i - 1}\\) for parameters \\(a \geq0\\).
+Support is \\(\set{x \in R^{k}: \sum_i x_i = 1, x_i > 0}\\): or actually \\(\set{x \in R^{k-1}: \sum_i x_i < 1, x_i > 0}\\). pdf is \\(p(x; a) \propto \prod_{i=1:k} x_i^{a_i - 1}\\) for parameters \\(a \geq0\\).
 
 #### 2-dim case
 Aka beta(a,b) distribution. This takes up a wide variety of shapes: convex, concave, neither etc..

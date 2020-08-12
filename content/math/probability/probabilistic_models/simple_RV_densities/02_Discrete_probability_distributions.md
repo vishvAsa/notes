@@ -33,8 +33,9 @@ As \\(n \to \infty\\), it may be approximated by Poisson distribution if \\(p \t
 From central limit theorem, \\(\frac{X - np}{\sqrt{np(1-p)}}\\) approaches N(0, 1) as \\(n \to \infty\\). Good if \\(n > (1-p)\frac{\max p, (1-p)}{\min p, (1-p)}\\).
 
 ### Poisson distribution
-$\lim_{n\to \infty} Bin(n,f(n)) = Poi(nf(n)):\\
- \lim_{n\to \infty} Pr(X = x) = \lim_{n\to \infty, p \to 0} \frac{P(n, x) p^{x}(1-p)^{n-x}}{x!} = (np)^{x}e^{-np}/x!$. Number of events which occur in a given time interval: Models Rare events; arrival rates.
+
+$$\lim_{n\to \infty} Bin(n,f(n)) = Poi(nf(n)):\\
+ \lim_{n\to \infty} Pr(X = x) = \lim_{n\to \infty, p \to 0} \frac{P(n, x) p^{x}(1-p)^{n-x}}{x!} = (np)^{x}e^{-np}/x!$$. Number of events which occur in a given time interval: Models Rare events; arrival rates.
 
 \\(E[Poi(\mean)]= \sum (\mean)^{x}e^{-\mean}/x! = \mean e^{-\mean} e^{\mean} = \mean\\). Poi(m) + Poi(n) = Poi(m+n).
 

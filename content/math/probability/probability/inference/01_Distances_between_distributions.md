@@ -13,8 +13,9 @@ For event \\(E \subseteq X: \max_{E \subseteq X} |Pr_{D}(x \in E) - Pr_{D'}(x \i
 ## Code-length divergence
 (Kullback Leibler) Aka information divergence, information gain, relative entropy. A particular Bregman divergence. General case specified in vector spaces ref. For connection with entropy and cross entropy, see information theory ref.
 
-$K(D||D') = E_{x \distr D}[\log \frac{D(x)}{D'(x)}] = \\
-\sum D(x) \log \frac{D(x)}{D'(x)} = \sum D(x) \log \frac{1}{D'(x)} - H(D) = H_c(D') - H(D)\\(. Expected number of extra bits used to code samples in \\)D\\( using code based on \\)D'$.
+
+$$K(D||D') = E_{x \distr D}[\log \frac{D(x)}{D'(x)}] = \\
+\sum D(x) \log \frac{D(x)}{D'(x)} = \sum D(x) \log \frac{1}{D'(x)} - H(D) = H_c(D') - H(D)\\(. Expected number of extra bits used to code samples in \\)D\\( using code based on \\)D'$$.
 
 ### Nonnegativity
 See wiki diagram: Puts greater weight D(x), often for cases where \\(\frac{D(x)}{D'(x)} \geq 1\\).

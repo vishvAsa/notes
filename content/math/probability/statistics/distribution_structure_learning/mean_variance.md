@@ -16,9 +16,10 @@ Take estimator \\(U_{n} = \frac{\bar{X} - \mean}{\frac{\stddev}{\sqrt{n}}}\\). \
 #### Proof showing MGF \htext{\\(M_{U_{n}(t) \to\\)}{..} MGF of N(0, 1)}
 iid \\(\set{X_{i}}\\). \\(m_{U_{n}}(t) = E[e^{\frac{t(\sum X_{i} - n\mean)}{\sqrt{n}\stddev}}] = \prod E[e^{\frac{t}{\sqrt{n}}}(\frac{X_{i} - \mean)}{\stddev}] = m_{Z}(t/\sqrt{n})^{n}\\): implicitly defining Z with \\(E[Z] = 0, var[Z] = E[Z^{2}] = 1\\).
 
-But, by Taylor, $m_{Z}(t/\sqrt{n}) = \\
+But, by Taylor, 
+$$m_{Z}(t/\sqrt{n}) = \\
 m_{Z}(0) + m_{Z}'(0)(t/\sqrt{n}) + m_{Z}''(h)(t/\sqrt{n})^{2}(1/2!) \\
-= 1  + E[Z]t + m''(h)(\frac{t^{2}}{2n})$
+= 1  + E[Z]t + m''(h)(\frac{t^{2}}{2n})$$
  for some \\(h\in (0, t/\sqrt{n})\\); so \\(m_{Z}(t/\sqrt{n}) = 1 + m''(h)(\frac{t^{2}}{2n}) \to 1 + \frac{t^{2}}{2n}\\) as \\(n \to \infty\\). So, \\(m_{U_{n}}(t) \to (1 + \frac{t^{2}}{2n})^{n} \to e^{t^{2}/2}\\), MGF of N(0, 1).
 
 ### Normal distr: Pivotal quantity to estimate mean

@@ -92,7 +92,7 @@ We can model the uncertainty in the ground truth using a probability distributio
 As probability theory is being fully used to model uncertainty, this is called Bayesian risk evaluation.
 
 #### Prior beliefs about best d
-For every \\(\gth\\), there is a best decision procedure \\(d(D)\\). So, alternatively, one model uncertainty in what the best decision procedure is directly as \\(d \distr P'(d)\\) and look at \\(\gth = f(d_1)\\). Then, one can write the risk \\\\(R'(d) = E_{D, P'}[L(f(d_1),d(D))] = \sum_{d_1} E_D[L(f(d_1),d(D))]P'(d_1)\\).
+For every \\(\gth\\), there is a best decision procedure \\(d(D)\\). So, alternatively, one model uncertainty in what the best decision procedure is directly as \\(d \distr P'(d)\\) and look at \\(\gth = f(d_1)\\). Then, one can write the risk \\(R'(d) = E_{D, P'}[L(f(d_1),d(D))] = \sum_{d_1} E_D[L(f(d_1),d(D))]P'(d_1)\\).
 
 #### Additive form
 Let \\(g(d; d_1) = E_D[L(\gth,d(D))] = E_D[L(f(d_1),d(D))]\\). \\Then, \\(R'(d) = E_{P'}g(d; d_1)\\). If the loss \\(g(d; d_1)\\) had a sharp drop around \\(d\\), or if \\(P'(d)\\) was highly concentrated around \\(d_1\\), we could approximate this as \\(R'(d) = g(d; d_1) P'(d)\\).
