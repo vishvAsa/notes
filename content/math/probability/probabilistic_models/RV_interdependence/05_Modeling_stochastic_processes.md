@@ -225,7 +225,7 @@ Aka Bigram Hidden Markov Model (HMM).
 #### Graphical model
 The graphical model of the observation and label sequences has the following structure for \\(i = 2:N\\) :
 
-{{< figure src="../images/bigram_HMM.svg">}}
+{{< figure src="../images/bigram_HMM.svg" >}}
 
 
 #### Representations
@@ -248,7 +248,7 @@ algorithm applied to find the marginal probability distribution in the equivalen
 
 This algorithm can be described inductively. At step \\(t\\), suppose that one has determined \\(f_{L_{t-1}, x_{1:t-1}}\\), one simply does: 
 
-\\($f_{L_t, x_{1:t}}(l_t) = \sum_{l_{t-1}} f_{L_{t-1}, x_{1:t-1}}(l_{t-1}) f_{L_{t}|L_{t-1}}(l_t|l_{t-1}) f_{X_t|L = l_t}(x_t)\\)$.
+$$f_{L_t, x_{1:t}}(l_t) = \sum_{l_{t-1}} f_{L_{t-1}, x_{1:t-1}}(l_{t-1}) f_{L_{t}|L_{t-1}}(l_t|l_{t-1}) f_{X_t|L = l_t}(x_t)$$.
 
 The base case is when \\(t = 1\\), and \\(f_{L_1|x_1} = f_{X|L_1}(x_1)f_{L_1 = l}\\) can be easily determined. So, by induction it follows that we are able to determine \\(f_{L_N, X_{1:N} = x_{1:N}} \propto f_{L_N| X_{1:N} = x_{1:N}}\\).
 
