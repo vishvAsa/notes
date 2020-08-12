@@ -44,8 +44,9 @@ Eg: \\(NS_{\eps}(\Land_{i} x_{i}) = \frac{2}{2^{n}}(1-(1-\eps)^{n}) \approx 0\\)
 
 \\(NS_{\eps}(f) = 2^{-1}-2^{-1} \sum_{S}(1-2\eps)^{|S|}\hat{f}(S)^{2}\\):\\
 \\(Pr_{x,y}(f(x) \neq f(y)) = 2^{-1} - 2^{-1}E_{x,y}[f(x)f(y)]\\); \\
-But $E_{x,y}[f(x)f(y)] = E_{x,y}[(\sum_{S}\hat{f}(S)p_{S}(x)) (\sum_{T}\hat{f}(T)p_{T}(x))] \\
-= \sum_{S, T}\hat{f}(S)\hat{f}(T)E_{x,y}[p_{S}(x)p_{T}(y)] = \sum_{S}\hat{f}(S)\hat{f}(T)E_{x,y}[p_{S}(x)p_{S}(y)]$; but\\
+But 
+$$E_{x,y}[f(x)f(y)] = E_{x,y}[(\sum_{S}\hat{f}(S)p_{S}(x)) (\sum_{T}\hat{f}(T)p_{T}(x))] \\
+= \sum_{S, T}\hat{f}(S)\hat{f}(T)E_{x,y}[p_{S}(x)p_{T}(y)] = \sum_{S}\hat{f}(S)\hat{f}(T)E_{x,y}[p_{S}(x)p_{S}(y)]$$; but\\
  \\(E_{x,y}[p_{S}(x)p_{S}(y)] = \prod_{i} E[p_{\set{i}}(x)p_{\set{i}}(y)] = (1-2\eps)^{|S|}\\).
 
 \\(\sum_{|S| \geq \eps^{-1}} \hat{f}(S)^{2} \leq NS_{\eps}(f)\\), k const: \\(2NS_{\eps}(f) = 1 - \sum_{S}(1-2\eps)^{|S|}\hat{f}(S)^{2} = \sum_{S} \hat{f}(S)^{2}-\sum_{S}(1-2\eps)^{|S|}\hat{f}(S)^{2} = \sum_{S} \hat{f}(S)^{2}(1-(1-2\eps)^{|S|}) \approx \sum_{S} \hat{f}(S)^{2}(1-e^{-2}) \geq k' \sum_{S} \hat{f}(S)^{2}\\).
@@ -71,8 +72,9 @@ Number of non zero coefficients in f \\(\leq t\\).
 
 #### Sparse approximator for any f
 \\(\exists \frac{\norm{f}_{1}^{2}}{\eps}\\) \\
-sparse g with \\(\norm{f-g}^{2} \leq \eps\\): Remove all \\(\hat{f}< \frac{\eps}{\norm{f}_{1}}\\); then g is \\(\frac{\norm{f}_{1}^{2}}{\eps}\\) sparse: \\(\norm{f}_{1} = \sum \hat{f}(S)\\) and each \\(\hat{f}(S)\\) has min size \\(\frac{\eps}{\norm{f}_{1}}\\). $\norm{f-g}^{2} = \sum_{p_{S} \notin basis(g)} \hat{f}(S)^{2} \leq \\
-(\max_{p_{S} \notin basis(g)}) \hat{f}(S) \sum_{p_{S} \notin basis(g)} \hat{f}(S) \leq \eps$.
+sparse g with \\(\norm{f-g}^{2} \leq \eps\\): Remove all \\(\hat{f}< \frac{\eps}{\norm{f}_{1}}\\); then g is \\(\frac{\norm{f}_{1}^{2}}{\eps}\\) sparse: \\(\norm{f}_{1} = \sum \hat{f}(S)\\) and each \\(\hat{f}(S)\\) has min size \\(\frac{\eps}{\norm{f}_{1}}\\). 
+$$\norm{f-g}^{2} = \sum_{p_{S} \notin basis(g)} \hat{f}(S)^{2} \leq \\
+(\max_{p_{S} \notin basis(g)}) \hat{f}(S) \sum_{p_{S} \notin basis(g)} \hat{f}(S) \leq \eps$$.
 
 So, sgn(g) approximates f.
 

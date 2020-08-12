@@ -31,7 +31,7 @@ Minimize f(d) wrt \\(d\\) to get: \\(d = \dprod{u, v}\dprod{v, v}^{-1}\\).\\ So,
 ### General norm-bound on size
 (Aka Holder's inequality) For \\(p, q \geq 1\\), \\(p^{-1} + q^{-1} =1\\): \\(p, q\\) are Holder conjugates; then \\(|\dprod{a,b}| \leq \norm{a}_{p}\norm{b}_{q}\\) : a tight bound.
 
-\pf{For \\(p, q > 1\\), By Young's ineq, \\\\(|a_{i}b_{i}|\leq \frac{|a_{i}|^{p}}{p} + \frac{|b_{i}|^{q}}{q}\\); \\\\(\frac{1}{\norm{a}_{p}\norm{b}_{q}}|\dprod{a,b}| \leq p^{-1} + q^{-1} =1\\).}
+\pf{For \\(p, q > 1\\), By Young's ineq, \\(|a_{i}b_{i}|\leq \frac{|a_{i}|^{p}}{p} + \frac{|b_{i}|^{q}}{q}\\); \\(\frac{1}{\norm{a}_{p}\norm{b}_{q}}|\dprod{a,b}| \leq p^{-1} + q^{-1} =1\\).}
 
 Taking the limiting case as \\(p \to 1\\), we also have the \\(p=1, q = \infty\\) case.
 

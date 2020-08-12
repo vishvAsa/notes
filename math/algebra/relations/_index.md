@@ -103,7 +103,7 @@ Consider a function \\(f: X_1 \to X_2\\), where \\((X_i, S_i) \forall i \in \set
 This notion is important in defining box integrals and random variables.
 
 ### Function/ model family
-Suppose that \\(f:X \times W \to Y\\). Suppose that \\(w \in W\\) are designated parameters, and \\(x \in X\\) is designated the independent variable. Then, \\\\(\set{f_w:X \to Y = f(x, w)| w \in W}\\) is a parametrized family of functions.
+Suppose that \\(f:X \times W \to Y\\). Suppose that \\(w \in W\\) are designated parameters, and \\(x \in X\\) is designated the independent variable. Then, \\(\set{f_w:X \to Y = f(x, w)| w \in W}\\) is a parametrized family of functions.
 
 Such function families occur frequently, for example, in machine learning.
 
@@ -114,8 +114,9 @@ Consider \\(E \subseteq S\\).
 \\(f_{n} \to f\\) pointwise if \\(\forall x \in E, \eps, \exists N: n > N \implies d(f_n(x), f(x)) < \eps\\). Visualize geometrically as a sequence of curves which get closer and closer at different rates at different points.
 
 ### Uniform convergence on E
-\\(f_{n} \to f\\) if $\forall \eps, \exists N: n > N \implies\\
- \forall x \in E\ d(f_n(x), f(x)) < \eps\\(. \\)f_{n} \to f\\( uniformly \\)\equiv\\( \\)\sup_{x \in E} d(f_{n}(x), f(x)) \to 0$.
+\\(f_{n} \to f\\) if 
+$$\forall \eps, \exists N: n > N \implies\\
+ \forall x \in E\ d(f_n(x), f(x)) < \eps\\(. \\)f_{n} \to f\\( uniformly \\)\equiv\\( \\)\sup_{x \in E} d(f_{n}(x), f(x)) \to 0$$.
 
 Visualize geometrically as a sequence of curves which get closer and closer at all points.
 

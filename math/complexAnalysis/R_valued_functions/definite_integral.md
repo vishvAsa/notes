@@ -18,8 +18,9 @@ Any such partition \\(P\\) is specified by a set of points \\(a = x_{0} \leq x_{
 
 #### Upper, lower sums
 Take bounded function \\
-\\(f: [a,b] \to R; M_{i} = \sup \set{f(x)|x \in [x_{i-1}, x_{i}]}; m_{i} = \inf\set{..}\\); visualize; upper, lower sums $U(P, f) = \sum_{i=1}^{n}M_{i}\gD x_{i}; L(P, f) = \sum_{i=1}^{n}m_{i}\gD x_{i}; \\
-\bar{\int_{a}^{b}}f(x) dx = \inf_{P} \set{U(P, f)}, \underline{\int_{a}^{b}}f(x) dx = \sup_{P} \set{L(P, f)}\\(: both exist as both \\)L\\( and \\)U$ sums are bounded and real.
+\\(f: [a,b] \to R; M_{i} = \sup \set{f(x)|x \in [x_{i-1}, x_{i}]}; m_{i} = \inf\set{..}\\); visualize; upper, lower sums 
+$$U(P, f) = \sum_{i=1}^{n}M_{i}\gD x_{i}; L(P, f) = \sum_{i=1}^{n}m_{i}\gD x_{i}; \\
+\bar{\int_{a}^{b}}f(x) dx = \inf_{P} \set{U(P, f)}, \underline{\int_{a}^{b}}f(x) dx = \sup_{P} \set{L(P, f)}\\(: both exist as both \\)L\\( and \\)U$$ sums are bounded and real.
 
 #### Integrability
 If \\(L=U\\), \\(f \in \mathcal{R}\\), that is: \\(f\\) is Reimann integrable.
@@ -112,8 +113,9 @@ Methods relevant (eg: transformation to polar coordinates) only for evaluating d
 Also see section on important integrals for examples of application of these techniques.
 
 ### Integration by parts
-As definite integral equals the difference in the anti-derivative, $\int_{a}^{b}f(x)H(x)dx + \int_{a}^{b}F(x)h(x)dx =\\
- \int_{a}^{b}f(x)h(x)dx = F(b)H(b) - F(a)H(a)$.
+As definite integral equals the difference in the anti-derivative, 
+$$\int_{a}^{b}f(x)H(x)dx + \int_{a}^{b}F(x)h(x)dx =\\
+ \int_{a}^{b}f(x)h(x)dx = F(b)H(b) - F(a)H(a)$$.
 
 Thus, \\(\int_{[a, b]} u dv = uv]_{[a, b]} - \int_{[a, b]} v du\\) is a useful rule when RHS is easier to integrate.
 
@@ -154,7 +156,7 @@ By convention \\(\int_a^bf(x)dx = - \int_b^af(x)dx\\).
 ## Over product measure spaces
 Consider \\(f(x) \geq 0 \forall x\\). (The integral for the general case may thence be derived as earlier.)
 
-Let \\((X, S, m)\\) be the product measure space of \\(\set{(X_i, S_i, m_i) : i \in {1, 2}}\\). Let \\(E \in S = S_1 \times S_2\\): Note that this includes only rectangles in \\(R^{2}\\), but not circles etc.. \\\\(E_1 = \set{x_1 \in X_1: \exists x = (x_1, x_2) \in E}\\). Let \\(E_2(x_1)\\) be similarly defined.
+Let \\((X, S, m)\\) be the product measure space of \\(\set{(X_i, S_i, m_i) : i \in {1, 2}}\\). Let \\(E \in S = S_1 \times S_2\\): Note that this includes only rectangles in \\(R^{2}\\), but not circles etc.. \\(E_1 = \set{x_1 \in X_1: \exists x = (x_1, x_2) \in E}\\). Let \\(E_2(x_1)\\) be similarly defined.
 
 Then, from the properties of the product measure: (Fubini) \\(\int_E f(x) dm = \int_{E_1} g(x_1) dm_1\\), where \\(g(x_1) = \int_{x_2 \in E_2} f(x_1, x_2) d(m_2)\\).
 

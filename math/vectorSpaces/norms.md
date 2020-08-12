@@ -76,8 +76,9 @@ Any norm can be approximated by a quadratic norm within a factor of \\(\sqrt{n}\
 ### Normness proof
 Only \\(\triangle\\) inequality proof needs some steps.
 
-(Minkowski): $\norm{a + b}^{p} = \sum_{i} |a_{i} + b_{i}||a_{i} + b_{i}|^{p-1} \leq \sum_{i} |a_{i}||a_{i} + b_{i}|^{p-1} + \sum_{i} |b_{i}||a_{i} + b_{i}|^{p-1} \\
-\leq (\norm{a}_{p} + \norm{b}_{p})(\sum_{i}|a_{i} + b_{i}|^{(p-1)(\frac{p}{p-1})})^{\frac{p-1}{p}} = (\norm{a}_{p} + \norm{b}_{p})\frac{\norm{a + b}_p^{p}}{\norm{a + b}_p}$.
+(Minkowski): 
+$$\norm{a + b}^{p} = \sum_{i} |a_{i} + b_{i}||a_{i} + b_{i}|^{p-1} \leq \sum_{i} |a_{i}||a_{i} + b_{i}|^{p-1} + \sum_{i} |b_{i}||a_{i} + b_{i}|^{p-1} \\
+\leq (\norm{a}_{p} + \norm{b}_{p})(\sum_{i}|a_{i} + b_{i}|^{(p-1)(\frac{p}{p-1})})^{\frac{p-1}{p}} = (\norm{a}_{p} + \norm{b}_{p})\frac{\norm{a + b}_p^{p}}{\norm{a + b}_p}$$.
 
 ### The closed unit ball
 Progression of shapes: \\(\norm{x}_{1}\\) :rhombus, \\(\norm{x}_{2}\\) :circle, \\(\norm{x}_{p}\\), \\(\norm{x}_{\infty}\\): square. 1 norm is \\(max_{i \in N} \norm{i}_{i}\\).

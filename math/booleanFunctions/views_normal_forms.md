@@ -17,7 +17,7 @@ Social (binary) choice or voting scheme of n people.
 \\(k \leq n\\). DNF is a disjunction of conjunctions. CNF is a conjunction of disjunctions.
 
 #### Derivation from truth tables.
-DNF \\(c\\) for boolean function \\(f\\) is obtainable from truth table of \\(f\\): \\\\(\set{x: f(x) = 0}\\).
+DNF \\(c\\) for boolean function \\(f\\) is obtainable from truth table of \\(f\\): \\(\set{x: f(x) = 0}\\).
 
 CNF \\(d\\) for boolean function \\(f\\) is obtainable from truth table of f: get the CNF of \\(\bar{f}(x)\\), negate it to get a \\(d\\).
 

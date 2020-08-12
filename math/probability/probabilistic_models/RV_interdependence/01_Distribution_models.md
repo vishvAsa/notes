@@ -39,7 +39,8 @@ Get: \\(Pr(C = i|x) = \frac{e^{w_{i0}+ w_{i}^{T}x}}{1 + \sum_{j \neq k} e^{w_{j0
 Same as the model described in previous subsubsection, with all \\(Pr(C = i)\\) scaled to ensure that \\(Pr(C = i|x) \propto e^{w_{i0} + w_i^{T}x} Pr(C = k|x)\\): done by ensuring that \\(w_k = 0\\). Thus taking care of earlier overparametrization!
 
 ##### Symmetric notation
-Let \\(x \gets (1, x), w_i \gets (w_{i0}, w_i)\\). \\($Pr(C = i|x) = \frac{e^{\sum_{c \in \set{1, .. m-1}} w_{c}^{T}x I[c=i]}}{1 + \sum_{j \neq k} e^{\sum_c w_{c}^{T}x I[c=j]}}\\)$
+Let \\(x \gets (1, x), w_i \gets (w_{i0}, w_i)\\). \\(
+$$Pr(C = i|x) = \frac{e^{\sum_{c \in \set{1, .. m-1}} w_{c}^{T}x I[c=i]}}{1 + \sum_{j \neq k} e^{\sum_c w_{c}^{T}x I[c=j]}}\\)$$
 
 #### 2-class case
 For 2 class case, these are logistic sigmoid functions, thence the name.

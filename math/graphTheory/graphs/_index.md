@@ -146,15 +146,17 @@ Take \\(N = I-D^{-1/2}WD^{-1/2}\\) : this is the normalized version, \\(D^{-1/2}
 \\(N \succeq 0\\) as \\(L \succeq 0\\), ie \\(x^{T}Dx-x^{T}Wx \geq 0 \forall x\\): taking \\(D^{1/2}x = y\\), see that \\(\forall y: y^{T}Ny \geq 0\\).
 
 #### Normalized adjacency matrix has norm 1.
-As $y^{T}y - y^{T}D^{-1/2}WD^{-1/2}y \\
-\geq 0\\(, see that \\)1 \geq \norm{D^{-1/2}WD^{-1/2}}_2\\(; Also, using \\)y = D^{1/2}1$, get \\
+As 
+$$y^{T}y - y^{T}D^{-1/2}WD^{-1/2}y \\
+\geq 0\\(, see that \\)1 \geq \norm{D^{-1/2}WD^{-1/2}}_2\\(; Also, using \\)y = D^{1/2}1$$, get \\
 \\(\norm{D^{-1/2}WD^{-1/2}}_2 = 1\\).
 
 Another way to see this: \\(D^{-1/2}WD^{-1/2}\\) is obtained by a similarity transformation to \\(D^{-1}W\\), which has ew in the range [-1, 1] due to Gerschgorin thm, and which has \\(\sw_max = |\ew_max| = 1\\) using the ev 1.
 
 #### Quadratic form: Normalized smoothness measure
-$y^{T}Ny = y^{T}D^{-1/2}LD^{-1/2}y = \\
-\sum_{(i, j)\in E}W_{ij}(\frac{y_i}{\sqrt{d_{ii}}} - \frac{y_j}{\sqrt{d_{jj}}})^2\\(: from the form \\)x^{T}Lx\\( being a smoothness measure. Punishes deviation between \\)\set{y_i}$ corresponding to edges emanating from high degree vertices less.
+
+$$y^{T}Ny = y^{T}D^{-1/2}LD^{-1/2}y = \\
+\sum_{(i, j)\in E}W_{ij}(\frac{y_i}{\sqrt{d_{ii}}} - \frac{y_j}{\sqrt{d_{jj}}})^2\\(: from the form \\)x^{T}Lx\\( being a smoothness measure. Punishes deviation between \\)\set{y_i}$$ corresponding to edges emanating from high degree vertices less.
 
 ## Expanders
 A sparse graph with high connectivity properties. Connectivity quantified as edge expansion or vertex expansion. Let \\(E'(S)\\): edges with exactly one end point in S.

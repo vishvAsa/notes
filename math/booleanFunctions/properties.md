@@ -12,8 +12,9 @@ Witness to the relevance of variable \\(x_{i}\\): an assignment a which flips f(
 Flipping \\(x_{i}\\) from 1 to -1 cannot flip f(x) from -1 to 1. \\((\forall i, x_{i} \leq y_{i}) \implies f(x_{1}, .. x_{n}) \leq f(y_{1}, .. y_{n})\\).
 
 Define \\(g(x_{i}, x_{-i}) = f(x)\\) naturally. Then \\(g(-1,x_{-i}) = -g(1,x_{-i})\\) iff \\
-\\(g(-1,x_{-i}) = -1 \land g(1,x_{-i}) = 1\\);\\ $E_{x_{-i}}[g(1,x_{-i}) - g(-1,x_{-i})] = 2 Pr_{x_{-i}}(g(1,x_{-i}) \\
-= 1 \land g(-1,x_{-i}) = -1 ) $.
+\\(g(-1,x_{-i}) = -1 \land g(1,x_{-i}) = 1\\);\\ 
+$$E_{x_{-i}}[g(1,x_{-i}) - g(-1,x_{-i})] = 2 Pr_{x_{-i}}(g(1,x_{-i}) \\
+= 1 \land g(-1,x_{-i}) = -1 ) $$.
 
 #### Influence
 \\(\hat{f}(\set{i}) = 2^{-1}(E_{x_{-i}}[g(1,x_{-i})] - E_{x_{-i}}[g(-1,x_{-i})]) = I_{i}(f)\\).

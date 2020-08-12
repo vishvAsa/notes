@@ -94,10 +94,11 @@ eg: Take \\(f(x) = g(x) + l\norm{x}_1\\), where g is convex. Here, \\
 \\(\subdifferential f(x) = \set{\gradient g(x) + lz| \forall i: x_i \neq 0, z_i = sgn(x_i); \texttt{ else }: |z_i| <= 1}\\).
 
 #### Of f(Ax + b)
-\\(\subdifferential f(Ax + b) = A^{T} \subdifferential f(x)\\). Pf: $\subdifferential f(Ax + b) = \\
+\\(\subdifferential f(Ax + b) = A^{T} \subdifferential f(x)\\). Pf: 
+$$\subdifferential f(Ax + b) = \\
 \set{t': \forall d: f(Ax + b + Ad) \geq f(Ax + b) + \dprod{t', d}} \\
 = \set{A^{T}t: \forall d: f(Ax + b + Ad) \geq f(Ax + b) + \dprod{A^{T}t, d}} \\
-= A^{T} \subdifferential f(x)$.
+= A^{T} \subdifferential f(x)$$.
 
 So, linear shift \\(x \to x+b\\) does not change the subdifferential.
 
@@ -152,7 +153,7 @@ Negative entropy: \\(x \log x\\).
 #### Log sum exponents
 \\(f(x) = \log \sum e^{x_i}\\) is convex: its Hessian \\(H \succeq 0\\) (can't simply use composition rules!). Pf: Let \\(z_i = e^{x_i}\\); then \\(\gradient f(x) = (\sum_i z_i)^{-1}z\\), Hessian is \\(H = (\sum_i z_i)^{-2}((\sum_i z_i)diag(z) -zz^{T})\\). \\((\sum_i z_i)^{2}x^{T}Hx = (\sum_i z_i)(\sum_i x_i^{2}z_i) - (x^{T}z)^{2}\\). Take \\(a_i = z_i^{1/2}, b_i = x_i z_i^{1/2}\\), use Cauchy schwartz to see \\(x^{T}Hx \geq 0\\).
 
-So, its composition with Affine transformation: \\\\(\log \sum e^{a_i^{T}x + b_i}\\).
+So, its composition with Affine transformation: \\(\log \sum e^{a_i^{T}x + b_i}\\).
 
 ##### Importance
 The convexity of these functionals is important because they are used to specify the -ve log likelihood functions of exponential families of distributions, and they need to be minimized during maximum likelihood estimation.

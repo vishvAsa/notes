@@ -129,18 +129,21 @@ Bad initialization points can lead to bad clusters, good ones lead to good clust
 Cluster both the rows and columns of P simultaneously. Thus dealing with duplicate/ synonymous/ irrelevant features simultaneously while clustering.
 
 ### Objective: Information loss minimizing
-Find maps $C_{X}: \set{x_{1}, .. x_{m}} \to \set{\hat{x_{1}}, .. , \hat{x_{k}}};\\
- C_{Y}: \set{y_{1}, .. y_{m}} \to \set{\hat{y_{1}}, .. , \hat{y_{l}}}\\(. \\)(C_{X}, C_{Y})\\( is a coclustering; yields corresponding joint distribution matrix \\)p(\hat{X}, \hat{Y})\\(. Best co clustering has minimum mutual information loss: \\)\min I(X;Y) - I(\hat{X},\hat{Y}) = K(p(X,Y)||q(X,Y))\\( where \\)q(X, Y) = p(\hat{X}, \hat{Y})p(X|\hat{X})p(Y|\hat{Y})$.
+Find maps 
+$$C_{X}: \set{x_{1}, .. x_{m}} \to \set{\hat{x_{1}}, .. , \hat{x_{k}}};\\
+ C_{Y}: \set{y_{1}, .. y_{m}} \to \set{\hat{y_{1}}, .. , \hat{y_{l}}}\\(. \\)(C_{X}, C_{Y})\\( is a coclustering; yields corresponding joint distribution matrix \\)p(\hat{X}, \hat{Y})\\(. Best co clustering has minimum mutual information loss: \\)\min I(X;Y) - I(\hat{X},\hat{Y}) = K(p(X,Y)||q(X,Y))\\( where \\)q(X, Y) = p(\hat{X}, \hat{Y})p(X|\hat{X})p(Y|\hat{Y})$$.
 
 #### The monotonic optimizer
-$K(p(X,Y)||q(X,Y)) = \\
-K(p(X,Y,\hat{X},\hat{Y})||q(X,Y,\hat{X},\hat{Y}))$.\\
+
+$$K(p(X,Y)||q(X,Y)) = \\
+K(p(X,Y,\hat{X},\hat{Y})||q(X,Y,\hat{X},\hat{Y}))$$.\\
 For any clustering, q preserves marginals and conditionals: \\
 \\(q(\hat{x}, \hat{y}) = p(\hat{x}, \hat{y}), q(x, \hat{x}) = p(x, \hat{x}), q(y, \hat{y}) = p(y, \hat{y}), p(x) = q(x), p(x|\hat{x}) = q(x|\hat{x})\\) etc..
 
-So, $K(p(X,Y,\hat{X},\hat{Y})||q(X,Y,\hat{X},\hat{Y})) =\\
+So, 
+$$K(p(X,Y,\hat{X},\hat{Y})||q(X,Y,\hat{X},\hat{Y})) =\\
  \sum_{\hat{x}} \sum_{x : C_{X}(x) = \\
- \hat{x}} K(p(Y|x)||q(Y|\hat{x}))$; \\
+ \hat{x}} K(p(Y|x)||q(Y|\hat{x}))$$; \\
  similar form in terms of \\(K(p(X|y)||q(X|\hat{y}))\\).
 
 Thence information theoretic coclustering alg: Start with \\(C_{X}^{(0)}, C_{Y}^{0}\\); at step t, for each row \\(x\\),  set \\(C_{X}^{(t+1)}(x)= argmin_{\hat{x}} K(p(Y|x)||q^{(t)}(Y|\hat{x}))\\); recompute distributions \\(q^{(t+1)}\\); at step t+2 similarly recluster columns finding local minima; repeat. This minimizes objective function monotonically. Experiments on document clustering tasks show better clustering than 1D clustering.

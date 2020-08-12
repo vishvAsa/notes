@@ -21,7 +21,7 @@ Consider a measure \\(m\\) (such that \\(Pr<<m\\)) over the measurable space \\(
 
 So, it is any function \\(f\\) such that \\(Pr(X \in E) = \int_E f(x) dm = \int_{X^{-1}(E)}dv\\).
 
-Note that \\(f\\) has the property that \\\\(\int_{R} f(x) dm = Pr(X \in R) = 1\\).
+Note that \\(f\\) has the property that \\(\int_{R} f(x) dm = Pr(X \in R) = 1\\).
 
 #### Notation
 The pdf associated with a random variable \\(X\\) is often denoted by \\(f_X\\).

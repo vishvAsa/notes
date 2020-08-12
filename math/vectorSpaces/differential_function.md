@@ -102,9 +102,10 @@ Similarly, kth order differential function \\(D^{k}(f)(x)\\) can be defined in g
 Differential operators, of which \\(D^{k}f(x)\\) are special cases, for general functions between vector spaces are described elsewhere.
 
 #### Directional higher order differential fn
-With \\(u\\) fixed, \\(D_u(f)(x) = D(f)(x)[u]\\) can be viewed as a  functional: \\(D(f):V \to F\\). Once can consider the differential function of \\(D_u(f)\\). Applying the definition, will be \\(D(D_u(f)):V \to L(V, F)\\) such that \\(D(D_u(f))(x)\\) is specified by $D(D_u(f))(x)[v] = lt_{\change t_v \to 0} \frac{D_u(f)(x + \change t_v v) - D_u(f)(x)}{\change t_v} = \\
+With \\(u\\) fixed, \\(D_u(f)(x) = D(f)(x)[u]\\) can be viewed as a  functional: \\(D(f):V \to F\\). Once can consider the differential function of \\(D_u(f)\\). Applying the definition, will be \\(D(D_u(f)):V \to L(V, F)\\) such that \\(D(D_u(f))(x)\\) is specified by 
+$$D(D_u(f))(x)[v] = lt_{\change t_v \to 0} \frac{D_u(f)(x + \change t_v v) - D_u(f)(x)}{\change t_v} = \\
 lt_{\change t_v, \change t_u \to 0} \frac{f(x + \change t_v v + \change t_u u) - f(x + \change t_u u)- f(x + \change t_v v ) + f(x)}{\change t_u \change t_v} \\
-= \frac{\partial^{2} }{\partial^{2} t_u t_v}|_{t_u, t_v = 0} f(x + t_u u + t_v v)$.
+= \frac{\partial^{2} }{\partial^{2} t_u t_v}|_{t_u, t_v = 0} f(x + t_u u + t_v v)$$.
 
 #### Multi-Linear map from \htext{\\(V^k\\){V-k}}
 Note that, as defined here, \\(D^2(f)(x)[u]\\) is a continuous linear functional, which when provided another argument \\(D^2(f)(x)[u][v]\\) maps to a scalar.

@@ -175,8 +175,9 @@ If f continuous, bijection, then \\(f^{-1}\\) is cont: f(V) open iff V is open.
 If f continuous, \\(E \subseteq X\\) connected, then f(E) connected: else if f(E) separated into A, B but \\(f^{-1}(A) \union f^{-1}(B)\\) not separated,  \\(cl(f^{-1}(A)) \inters f^{-1}(B) \neq \nullSet\\) or \\(cl(f^{-1}(B)) \inters f^{-1}(A) \neq \nullSet\\); then continuity of f violated, so \\(\contra\\).
 
 ### Uniform continuity over X
-$\forall p, q \in X \forall \eps>0, \exists \del: \\
-d_{x}(p,q) < \del \implies d_{y}(f(p), f(q)) < \eps\\(. \\)1/x\\( continuous, but not uniformly cont over \\)R\\(: consider points near \\)0\\(; neither is \\)x^{2}$. A measure of whether gradient gets very big.
+
+$$\forall p, q \in X \forall \eps>0, \exists \del: \\
+d_{x}(p,q) < \del \implies d_{y}(f(p), f(q)) < \eps\\(. \\)1/x\\( continuous, but not uniformly cont over \\)R\\(: consider points near \\)0\\(; neither is \\)x^{2}$$. A measure of whether gradient gets very big.
 
 If f continuous, \\(X\\) compact, then f uniformly cont: As \\(Y\\) compact: Given \\(\eps\\), take \\(\forall p \in X: g(p)\\), radius which guarantees \\(\eps/2\\) closedness to \\(f(p)\\); make open cover \\(\set{N_{g(p)}}\\); get finite subcover; take max \\(g(p)\\); use \\(\triangle\\) ineq to guarantee \\(\eps\\) closedness anywhere.
 

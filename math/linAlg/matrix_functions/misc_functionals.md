@@ -92,11 +92,13 @@ By majorization lore, \\(|tr(A)| \leq \sum_{i=1}^{q} |\ew_{i}(A)| \leq \sum_{i=1
 ##### Sum of sw of matrix products
 \\(A \in C^{mp}, B \in C^{pn}\\).
 
-Take \\(AB = U\SW V^{*}\\); \\(U_{k}^{*}ABV_k = \SW_{k}\\); polar decomposition of $BV_{k} = X_{k}Q; \\
-Q^{2} = V_{k}^{*}B^{*}BV_{k};\ det(Q^{2}) \leq \prod_{i=1}^{k} \sw_{i}(B^{*}B) = \prod_{i=1}^{k}\sw_{i}(B)^{2}$.
+Take \\(AB = U\SW V^{*}\\); \\(U_{k}^{*}ABV_k = \SW_{k}\\); polar decomposition of 
+$$BV_{k} = X_{k}Q; \\
+Q^{2} = V_{k}^{*}B^{*}BV_{k};\ det(Q^{2}) \leq \prod_{i=1}^{k} \sw_{i}(B^{*}B) = \prod_{i=1}^{k}\sw_{i}(B)^{2}$$.
 
-So, $\prod_{i=1}^{k} \sw_{i}(AB) = |det(U_{k}^{*}ABV_{k})| = |det(U_{k}^{*}AX_{k})det(Q)| \\
-\leq \prod_{i=1}^{k}\sw_{i}(A) \sw_{i}(B)$.
+So, 
+$$\prod_{i=1}^{k} \sw_{i}(AB) = |det(U_{k}^{*}ABV_{k})| = |det(U_{k}^{*}AX_{k})det(Q)| \\
+\leq \prod_{i=1}^{k}\sw_{i}(A) \sw_{i}(B)$$.
 
 By majorization lore, for \\(p>0, \sum_{i=1}^{q} \sw_{i}(AB)^{p} \leq \sum_{i=1}^{q} \sw_{i}(A)^{p}\sw_{i}(B)^{p}\\).
 
@@ -111,8 +113,9 @@ Pf: Can get C from Y, X: \\(C = YX^{*}, \sw_{i}(C^{*}C) = \sw_{i}(XX^{*})= \sw_{
 All \\(\sw_{i}\\) in descending order; then: \\
 \\(\sum_{i=1}^{k}\sw_{i}(A+B) \leq \sum_{i=1}^{k}\sw_{i}(A) + \sum_{i=1}^{k}\sw_{i}(B)\\).
 
-Pf: Let C be some rank k partial isometry:\\ $\sum_{i=1}^{k}\sw_{i}(A+B) = \max \set{|tr((A+B)C)|} \leq \max \set{|tr(AC)| + |tr(BC)|} \\
-\leq \max \set{|tr(AC)|} + \max \set{|tr(BC)|} = RHS$.
+Pf: Let C be some rank k partial isometry:\\ 
+$$\sum_{i=1}^{k}\sw_{i}(A+B) = \max \set{|tr((A+B)C)|} \leq \max \set{|tr(AC)| + |tr(BC)|} \\
+\leq \max \set{|tr(AC)|} + \max \set{|tr(BC)|} = RHS$$.
 
 ### Convexity, concavity
 \\(\sw_1(X)\\) is convex, but \\(\sw_n(X)\\) is concave: \\( \sw_1(tA + (1-t)B) = \sup_{\norm{x}=1} tAx + (1-t)Bx \leq \sw_1(A)x + \sw_1(B)x\\).

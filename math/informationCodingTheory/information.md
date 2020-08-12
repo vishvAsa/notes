@@ -24,8 +24,9 @@ Inspired by the code-length interpretation of surprisal. Depending on whether \\
 Uncertainty associated with an RV: Should not change if probability rearranged for different values of \\(X\\): symmetry; should increase with number of values \\(X\\) can take; if \\(X \perp Y\\), uncertainty of \\((X, Y)\\) should be sum of uncertainties.
 
 #### As expected surprisal
-$H(X) = E[h(X)] = E_{X}[-log(Pr(X=x))] \\
-= - \sum Pr(X=x_{i}) \log (Pr(X=x_{i}))$; is the only measure which satisfies this \why.
+
+$$H(X) = E[h(X)] = E_{X}[-log(Pr(X=x))] \\
+= - \sum Pr(X=x_{i}) \log (Pr(X=x_{i}))$$; is the only measure which satisfies this \why.
 
 #### Extension to 0 values
 Extend definition for \\(Pr(X=x_{i}) = 0\\): \\

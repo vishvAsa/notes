@@ -40,8 +40,9 @@ Using SVD for example, \\(A\\) can be viewed as a combination of rotation and di
 #### Proof
 Proof by \\(\contra\\): dim(N(B))= r-t, Let \\(\forall w \in N(B), \norm{Aw} = \norm{(A-B)w} < \SW_{t+1}\norm{w}\\); but \\(\exists\\) t+1 subspace \\(\set{v: \norm{Av}\geq \SW_{t+1}}\\); \\(dim(\set{w})+\dim(\set{v}) = r+1\\): absurd.
 
-So, $\sw_{k} = \min_{S \subset C^{n}, dim(S) = n-k+1} \max_{x \in S} \norm{Ax}_{2} \\
-= \max_{S \subset C^{n}, dim(S) = k} \min_{x \in S} \norm{Ax}_{2}$.
+So, 
+$$\sw_{k} = \min_{S \subset C^{n}, dim(S) = n-k+1} \max_{x \in S} \norm{Ax}_{2} \\
+= \max_{S \subset C^{n}, dim(S) = k} \min_{x \in S} \norm{Ax}_{2}$$.
 
 #### Randomized Approach
 Take the \\(A \approx B = QQ^{T}A\\) view. \\(A\\) good Q must span \\(U_k\\). Can use something akin to the power method of finding ev. Take random m*k matrix W. \\(Y = (AA^{T})^{q}AW = U\SW^{q+1}VW\\), and get \\(Y = QR\\) to get Q. q = 4 or 5 is sufficient to get good approximation of \\(U_k\\). (Tropp etal) if you aim to get k+p approximation, you get low expected error.
@@ -65,8 +66,9 @@ Sovle \\(\min \sum_{i,j} d(B_{i, j}, B_{i-1,j}) + d(B_{i, j}, B_{i,j-1})\\) such
 (Jain, Meka, Dhillon) Set \\(B^{(0)}_{i,j} = A_{i,j} \forall (i,j) \in O\\), set remaining values in \\(B^{(0)}\\) arbitrarily. Then, in iteration i, do SVD of \\(B^{(i)}\\) to get rank k approximation \\(B^{(i+1)}\\), set \\(B^{(i+1)}_{i,j} = A_{i,j} \forall (i,j) \in O\\).
 
 ##### Projection viewpoint
-Take $S_1 = \set{B:B_{i,j} = A_{i,j} \forall (i,j) \in O},\\
- S_2 = \set{B:rank(B)\leq k}\\(. You start with \\)B_0 \in S_1\\(, project it to the closest \\)C \in S_2\\(, project C to the closest \\)B_1 \in S_1$ etc..
+Take 
+$$S_1 = \set{B:B_{i,j} = A_{i,j} \forall (i,j) \in O},\\
+ S_2 = \set{B:rank(B)\leq k}\\(. You start with \\)B_0 \in S_1\\(, project it to the closest \\)C \in S_2\\(, project C to the closest \\)B_1 \in S_1$$ etc..
 
 
 ### Applications
