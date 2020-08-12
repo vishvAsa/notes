@@ -61,7 +61,7 @@ Let \\(Pi\\) also represent event where \\(Pi\\) is pardoned. Let \\(W\\) repres
 Another source of error in this example is confusing \\(W\\) with event \\(P2\\).
 }
 
-\example{Monty Hall problem. In a game show conducted by Monty Hall, there are 3 doors \\(\seq(P1, P2, P3)\\), one of which has a reward. Only Monty Hall knows where. A player chooses a door, say \\(P1\\). Monty Hall opens one of the other doors, say \\(P2\\), and reveals it to contain no reward. Should the player switch to \\(P3\\)?
+\example{Monty Hall problem. In a game show conducted by Monty Hall, there are 3 doors \\(\seq{P1, P2, P3}\\), one of which has a reward. Only Monty Hall knows where. A player chooses a door, say \\(P1\\). Monty Hall opens one of the other doors, say \\(P2\\), and reveals it to contain no reward. Should the player switch to \\(P3\\)?
 
 Same rigorous reasoning as in the case of Warden problem can be applied to reveal that he should switch. The source of errors are also the same.
 }

@@ -61,8 +61,7 @@ Given a sufficiently long sequence \\(X_i\\), one can estimate various transitio
 
 ### Unique Stationary distribution \\(\pi\\) of ergodic chains
 
-$$\forall x, y: \\
-lt_{t\to \infty}P^{t}_{x,y} = \pi_{y}\\(. Find \\)\pi\\(: \\)P\pi =\pi\\(, \\)\sum \pi_{i}=1\\(; or inflow = outflow. If time-reversible, \\)\pi$$ uniform.
+\\(\forall x, y: lt_{t\to \infty}P^{t}_{x,y} = \pi_{y} \\). Find \\( \pi : P\pi =\pi, \sum \pi_{i}=1\\); or inflow = outflow. If time-reversible, \\(\pi\\) uniform.
 
 ### Mixing time of Ergodic chain
 #### Purpose, definition
@@ -103,7 +102,7 @@ Suppose further that: \\(E[|Z_{n}|] < f(n) < \infty\\), that \\(Z_n\\) is fully 
 This process is the martingale \\(\seq{Z_n}\\) wrt filtration \\(\seq{F_n}\\).
 
 #### Example
-The filtration can correspond to the observation of a sequence of random variables \\(\seq(X_n)\\).
+The filtration can correspond to the observation of a sequence of random variables \\(\seq{X_n}\\).
 
 Note that this defines martingale \\(\seq{X_{n}}\\) wrt itself. Eg: Wealth after 100 fair-coin-toss bets, Brownian motion.
 
