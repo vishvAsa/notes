@@ -225,18 +225,8 @@ Aka Bigram Hidden Markov Model (HMM).
 #### Graphical model
 The graphical model of the observation and label sequences has the following structure for \\(i = 2:N\\) :
 
-\begin{figure}[!htb]
-\tikzstyle{surround} = [thick,draw=black,rounded corners=2mm]
-\begin{tikzpicture}[node distance=1.3cm,>=stealth',bend angle=15,auto]
-\node (Xi-1)[gm-var-hidden]{\\(L_{i-1}\\)};
-\node (Xi)[gm-var-hidden, right of = Xi-1]{\\(L_i\\)};
-\node (Li-1)[gm-var-seen, below of = Xi-1]{\\(X_{i-1}\\)};
-\node (Li)[gm-var-seen, right of = Li-1]{\\(X_i\\)};
-\path [->] (Xi-1)  edge (Xi)
-(Xi-1)  edge (Li-1)
-(Xi)  edge (Li);
-\end{tikzpicture}
-\end{figure}
+{{< figure src="../images/bigram_HMM.svg">}}
+
 
 #### Representations
 Parameters of a bigram HMM are the state transition probabilities \\(f_{L_t|L_{t-1}}\\) and observation generation probabilities: \\(f_{X_t|L_t}\\). As in the case of fully observed state chains, the state transition probabilities can be represented using a transition matrix or as labels of edges in a state transition graph which could now be expanded to include vertices corresponding to various observations.
