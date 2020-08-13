@@ -17,6 +17,10 @@ Say you start with a capital of 25. Then you fight your rival. If you win you ad
 - For n=2500, ruin in expected.
 
 ## Median
+### Simulation
+- R code [here](https://github.com/vvasuki/misc-R/tree/master/probability/gamblersRuin).
+
+### Theoretical bound attempt
 - Statement: Find n such that Pr(capital C(n)=0) = 1/2.
 - For n<25, Pr(C(n)=0) = 0
 - For n=25, \\(Pr(C(n)=0) = P(-1)^{25}\\)
@@ -24,5 +28,5 @@ Say you start with a capital of 25. Then you fight your rival. If you win you ad
 - At n=25+2k, C(n) becomes 0 only if there are k wins and 25 + k losses, and if for any t<n, C(t) was not 0. An upper bound on the number of such events is \\(\binom{n}{k} = \frac{n!}{k!(n-k)!}\\). We consider this n=25+2k case below. 
 - \\(P(C(n) → 0) \leq \binom{n}{k}P(-1)^{25+k}P(+1)^{k}\\)
 - \\(P(C(n) → 0) \geq P(-1)^{25+k}P(+1)^{k}\\)
-  - Find m for which \\(\sum_{m}^{k=1} P(-1)^{25+k}P(+1)^{k} = 0.5\\). \\(\\) 
+  - Find m for which \\(\sum_{m}^{k=1} P(-1)^{25+k}P(+1)^{k} = 0.5\\). 
 - TODO: incomplete
