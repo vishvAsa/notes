@@ -2,6 +2,11 @@
 
 title: Misc topics
 contents:
+  - title: Society
+    contents:
+      - url: recdir://society/
+      - title: Algorithmic game theory
+        url: /society/gameTheory/gameTheory.pdf
   - title: Chambers
     contents:
       - url: dir://misc/chambers/

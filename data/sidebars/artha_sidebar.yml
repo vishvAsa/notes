@@ -2,28 +2,7 @@
 
 title: Parts
 contents:
-  - title: Health
-    contents:
-      - url: recdir://artha/health/
-  - title: Economics
-    contents:
-      - url: recdir://artha/economics/
-  - title: Environment
-    contents:
-      - url: dir://artha/environment/
-  - title: Places
-    contents:
-      - url: recdir://artha/places/usa/
-  - title: Society
-    contents:
-      - title: Algorithmic game theory
-        url: /artha/society/gameTheory/gameTheory.pdf
-  - title: Skills
-    contents:
-      - url: recdir://artha/skills/
-  - title: Education
-    contents:
-      - url: recdir://artha/education/
+  - url: recdir://arthaH/
   - title: Notes Home
     url: /
   - title: Vishvas's home page
