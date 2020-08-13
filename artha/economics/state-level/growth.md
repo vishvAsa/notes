@@ -1,4 +1,7 @@
-# Economic growth
++++
+title = "Economic growth"
++++
+
 
 ## Economic value indicators
 

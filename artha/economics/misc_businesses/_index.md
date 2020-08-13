@@ -1,6 +1,7 @@
----
-title: Misc
----
++++
+title = "+Misc Business"
++++
+
 
 ## Arbitrage
 
@@ -8,6 +9,3 @@ Goods/ services often have different values in different markets. So, often peop
 
 For securities traded in different stock exchanges, automatons do this effectively.
 
-## Crime
-
-This is considered in the ’society’ survey.

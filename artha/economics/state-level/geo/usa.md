@@ -1,8 +1,5 @@
 ---
 title: USA
-unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 ## General economy

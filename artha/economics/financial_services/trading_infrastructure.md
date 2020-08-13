@@ -1,5 +1,5 @@
 ---
-title: infrastructure
+title: Infrastructure
 ---
 
 ## Securities Exchanges
