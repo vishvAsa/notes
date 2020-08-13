@@ -27,7 +27,7 @@ Note that these are separate steps; often algorithm design and analysis is an it
 #### Reasoning about resource bounds
 After analyzing an algorithm think about the quantities involved and try to see where they are coming from.
 
-Suppose that algorithm $A$ requires $k = d \log p$ samples or time to solve an algorithm. To see if this is close to optimal, one can reason about $p^{d}$: perhaps it represents the objects the algorithm has to search through in solving the problem.
+Suppose that algorithm \\(A\\) requires \\(k = d \log p\\) samples or time to solve an algorithm. To see if this is close to optimal, one can reason about \\(p^{d}\\): perhaps it represents the objects the algorithm has to search through in solving the problem.
 
 ## Problems
 ### Secretary problem

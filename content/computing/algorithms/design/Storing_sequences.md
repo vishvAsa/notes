@@ -50,7 +50,7 @@ A hash function can be a fixed rule. But that can be exploited in DoS attacks by
 Some implementations randomize iteration over hashmaps the same way.
 
 ### Prefix tree/ treep
-Here, the keys are mapped to unique string representations, which are then used as substitute keys. These keys can then be stored as a k-ary tree, where $k$ is the size of alphabet used to form the string. For each string-key stored, characters associated with nodes along the path from the root to a certain leaf is equal to the string key.
+Here, the keys are mapped to unique string representations, which are then used as substitute keys. These keys can then be stored as a k-ary tree, where \\(k\\) is the size of alphabet used to form the string. For each string-key stored, characters associated with nodes along the path from the root to a certain leaf is equal to the string key.
 
 Using this, a k-characters long key can be looked up in time O(k).
 
@@ -67,7 +67,7 @@ Linked lists are more dynamic when it comes to 'on-demand' insertion: if one has
 Doubly linked lists are extensions of linked lists, where the node also includes the address of the previous node. Their disadvantage relative to a singly linked list is only in terms of memory - usually insignificant in the modern context of cheap memory.
 
 ## Tree
-Tree data-structures of nodes are defined as described in the graph theory survey, with the additional modification that they have a clearly specified root  node, and the children of each node are clearly enumerated! Each node can have k child nodes: when $k \leq 2$, we have a binary tree.
+Tree data-structures of nodes are defined as described in the graph theory survey, with the additional modification that they have a clearly specified root  node, and the children of each node are clearly enumerated! Each node can have k child nodes: when \\(k \leq 2\\), we have a binary tree.
 
 ### Traversals
 Traversals are enumeration of node values in particular orders. These include in-order (only for binary trees), pre-order and post-order traversals. In each case, one starts at the root node and executes a certain traverse(node) function on that node.
