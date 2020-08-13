@@ -7,16 +7,16 @@ Finite attributes around. Exact learning using only membership queries (mq). Sce
 
 Constrained instance oracle for f: Takes partial assignment P and prediction b, if possible, extends P to a complete assignment A such that f(A) = 1-b.
 
-Lower bound: By information theory, atleast $\log |C|$ mq needed.
+Lower bound: By information theory, atleast \\(\log |C|\\) mq needed.
 
 ### ae learning
 #### Monotone functions
 Learnability in mq only model does not always imply ae learnability for deterministic algorithms.
 
-But, implied for monotone functions. Pf: Let constrained instance oracle be simulated using $t($n$,r, |c|)$ mq. Make mq only algorithm with $q($n$, |c|)$ bound, get mq algorithm with $2(r+1)t($n$,r, |c|)q($n$, |c|)+r(\log n +1)$ bound. Use the MBQ algorithm to aeMBQ algorithm conversion, but use this trick to find relevant vars: When mq is made on partial assignment P to N, extend P to A, find c(A), use constrained instance query oracle to find an assignment B with $c(B) \neq c(A)$. t($n$,r, |c|) for monotone functions is a constant.
+But, implied for monotone functions. Pf: Let constrained instance oracle be simulated using \\(t(\\)n\\(,r, |c|)\\) mq. Make mq only algorithm with \\(q(\\)n\\(, |c|)\\) bound, get mq algorithm with \\(2(r+1)t(\\)n\\(,r, |c|)q(\\)n\\(, |c|)+r(\log n +1)\\) bound. Use the MBQ algorithm to aeMBQ algorithm conversion, but use this trick to find relevant vars: When mq is made on partial assignment P to N, extend P to A, find c(A), use constrained instance query oracle to find an assignment B with \\(c(B) \neq c(A)\\). t(\\(n\\),r, |c|) for monotone functions is a constant.
 
 #### Parity fn
-To learn any parity fn f, n linearly independent mq are both necessary and sufficient: Consider the $GF_2$ representation of parity funcitons and assignments in Boolean fn ref.
+To learn any parity fn f, n linearly independent mq are both necessary and sufficient: Consider the \\(GF_2\\) representation of parity funcitons and assignments in Boolean fn ref.
 
 But, rand algorithm can strongly ae learn: Simulate constrained instance oracle by uniformly sampling assignments to unassigned variables and making mq's with them.
 
