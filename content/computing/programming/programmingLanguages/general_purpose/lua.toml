@@ -1,0 +1,153 @@
+[[data]]
+generic = 'generic'
+declaration = 'declaration'
+local = ''
+"local start,finish,delta = 10,1,-1 " = 'var=value'
+
+[[data]]
+generic = 'function'
+declaration = 'define'
+local = 'return'
+"local start,finish,delta = 10,1,-1 " = 'return val'
+
+[[data]]
+generic = 'function'
+declaration = 'define'
+local = 'anonymous'
+"local start,finish,delta = 10,1,-1 " = '''
+function(inputList)
+statements
+end'''
+
+[[data]]
+generic = 'function'
+declaration = 'define'
+local = 'named'
+"local start,finish,delta = 10,1,-1 " = '''
+function fn(inputList)
+statements
+end'''
+
+[[data]]
+generic = 'statement'
+declaration = 'comment'
+local = ''
+"local start,finish,delta = 10,1,-1 " = '-- comment or --[[multi-line comment]]'
+
+[[data]]
+generic = 'statement'
+declaration = 'block'
+local = ''
+"local start,finish,delta = 10,1,-1 " = '''
+statements
+end'''
+
+[[data]]
+generic = 'statement'
+declaration = 'decision'
+local = ''
+"local start,finish,delta = 10,1,-1 " = '''
+if cond then
+ statements
+else
+ ..
+end'''
+
+[[data]]
+generic = 'IO'
+declaration = 'stdout'
+local = ''
+"local start,finish,delta = 10,1,-1 " = 'print("Hello World!")'
+
+[[data]]
+generic = 'iteration'
+declaration = ''
+local = ''
+"local start,finish,delta = 10,1,-1 " = '''
+while (condition) do
+end
+
+'''
+
+[[data]]
+generic = 'iteration'
+declaration = ''
+local = ''
+"local start,finish,delta = 10,1,-1 " = '''
+repeat
+until cond'''
+
+[[data]]
+generic = 'iteration'
+declaration = ''
+local = ''
+"local start,finish,delta = 10,1,-1 " = '''
+for index = start, finish, delta do
+end'''
+
+[[data]]
+generic = 'iteration'
+declaration = ''
+local = ''
+"local start,finish,delta = 10,1,-1 " = ''
+
+[[data]]
+generic = 'table'
+declaration = 'instantiation'
+local = 'literal'
+"local start,finish,delta = 10,1,-1 " = '{key=val, key1=val1}'
+
+[[data]]
+generic = 'array/ indexed table'
+declaration = 'instantiation'
+local = 'literal'
+"local start,finish,delta = 10,1,-1 " = '{"a","b"}'
+
+[[data]]
+generic = 'table'
+declaration = 'indexing'
+local = ''
+"local start,finish,delta = 10,1,-1 " = 'tbl["idx"] or tbl.idx'
+
+[[data]]
+generic = 'table'
+declaration = 'alter'
+local = ''
+"local start,finish,delta = 10,1,-1 " = 'table.insert(tbl, val)'
+
+[[data]]
+generic = 'table'
+declaration = 'alter'
+local = ''
+"local start,finish,delta = 10,1,-1 " = 'table.remove'
+
+[[data]]
+generic = 'table'
+declaration = 'join'
+local = ''
+"local start,finish,delta = 10,1,-1 " = 'local final_label = table.concat(positive_policies, ":0:0:1,")'
+
+[[data]]
+generic = 'table'
+declaration = 'iterate'
+local = ''
+"local start,finish,delta = 10,1,-1 " = '''
+for key, value in pairs(table) do
+    if value == element then
+      return true
+    end
+  end'''
+
+[[data]]
+generic = 'string'
+declaration = 'concatenate'
+local = ''
+"local start,finish,delta = 10,1,-1 " = '''
+print("Hello " .. "World")  --> Hello World
+    print(0 .. 1)               --> 01'''
+
+[[data]]
+generic = 'string'
+declaration = 'from other datatype'
+local = ''
+"local start,finish,delta = 10,1,-1 " = 'tostring(1)'
