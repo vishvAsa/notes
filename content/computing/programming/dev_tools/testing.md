@@ -28,5 +28,8 @@ title: Testing
   - Use fake objects
     - Eg: fake databases
 
+### Mocking frameworks
+The tester stubs out various functions that the method being tested is supposed to call. Then in the test, you make calls to those stubbed out functions with the arguments that you expect to be passed to them if the function being tested is working properly, and mox records it. Then, when the function is actually called, mox asserts that the order and arguments to the stubbed out functions are what was expected.
+
 ## End to end test
 High reliability, most important.

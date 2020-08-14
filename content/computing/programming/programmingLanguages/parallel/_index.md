@@ -1,8 +1,13 @@
 +++
-title = "Parallel computing"
+title = "+Parallel computing"
 +++
-
+## Intro
 General parallel programming concerns are considered in the distributed computing survey.
+
+Many programs are 'embarassingly parallel' - so easy to parallelize.
+
+There are 3 steps in any parallel algorithm: specification of the problems which must be solved in parallel, executing the problems in parallel, combining the results of these parallel executions.
+
 
 ## Thread abstraction
 Parallel programs can be considered in terms of threads of computation. When data is shared, one should take care of race conditions.
