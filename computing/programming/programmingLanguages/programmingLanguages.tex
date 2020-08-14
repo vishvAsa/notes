@@ -134,18 +134,13 @@ Build configuration files are in xml, which tends to lead to bloated configurati
 
 
 \chapter{Python}
-\subsubsection{Syntax conciseness}
+
+\section{Features}
+\subsection{Syntax conciseness}
 Clean and concise syntax: compare to perl; so more readable. As a general rule, python tries to use the same operators and function names for similar operations over different types of operands: Eg: +, len, dir.
 
 \subsection{Speed}
 An interpreted language. Speed is many times slower than C or Java. For vector operations, speed comparable with Matlab; but for looping, may be faster.
-
-\subsection{Linting}
-Python is an interpreted language - so many silly errors which would have been caught by a compiler are noticed only at run-time, if at all that code is run. So, Linting (and testings) is especially important.
-
-\subsubsection{Pylint commands}
-In code, one can say:
-\# pylint: disable-msg=W0613
 
 \section{Writing, Building and executing code}
 Make .py files; begin with \verb'#!/usr/bin/python'.
@@ -157,8 +152,12 @@ PYTHONPATH: default search path for modules/ package libraries, may refer to zip
 
 PYTHONSTARTUP.
 
-\subsection{Good IDE's}
-Eclipse with pydev. idle.
+\subsection{Linting}
+Python is an interpreted language - so many silly errors which would have been caught by a compiler are noticed only at run-time, if at all that code is run. So, Linting (and testings) is especially important.
+
+\subsubsection{Pylint commands}
+In code, one can say:
+\# pylint: disable-msg=W0613
 
 \subsection{Point of entry}
 Can use interpreter. Or first line in file.py.
