@@ -110,7 +110,7 @@ map(f), which applies _f_ on _v_ and returns the resulting monad.
 
 #### None monad: error handling
 
-This construct is very useful in error handling: in case of an exception one can return a ’None’ monad, for which map(f) has no effect.
+- This construct is very useful in error handling: in case of an exception one can return a ’None’ monad, for which map(f) has no effect.
 
 ### Advantages
 
