@@ -35,5 +35,5 @@ AVG(RANGE)
 vlookup()
 
 ## Ref
-<div class="spreadsheet" src="../google_spreadsheet.toml"> </div>  
+<div class="spreadsheet" fullHeight src="../google_spreadsheet.toml"> </div>  
 
