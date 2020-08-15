@@ -25,5 +25,5 @@ setmetatable(fibs, {
 
 
 ## Ref
-<div class="spreadsheet" fullHeight src="../lua.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="../lua.toml"> </div>  
 

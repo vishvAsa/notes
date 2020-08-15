@@ -14,5 +14,5 @@ Compiled language. Has garbage collection. Type checked. Functions as values.
 - No operator overloading.
 
 ## Ref
-<div class="spreadsheet" fullHeight src="../go.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="../go.toml"> </div>  
 

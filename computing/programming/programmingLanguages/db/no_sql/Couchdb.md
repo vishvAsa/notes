@@ -75,6 +75,6 @@ For example of routine and resultant values, see js couchdb.
 CouchDB recovers gracefully from a few isolated map function failures, but when a map function fails regularly (due to a missing required field or other JavaScript exception), CouchDB shuts off its indexing to prevent any further resource usage. For this reason, it’s important to check for the existence of any fields before you use them.
 
 ## Ref
-<div class="spreadsheet" fullHeight src="../couchdb.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="../couchdb.toml"> </div>  
 
  

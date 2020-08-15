@@ -436,5 +436,5 @@ Calling: .C("foo", n=as.integer(5), x=as.double(rnorm(5)))
 This returns a list of return.
 
 ## Ref
-<div class="spreadsheet" fullHeight src="../R.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="../R.toml"> </div>  
 

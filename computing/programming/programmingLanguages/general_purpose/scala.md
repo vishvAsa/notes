@@ -18,14 +18,14 @@ At the top of type hierarchy is the Any class, whose subtypes AnyVal is the ance
 You can simply cast an Any to AnyRef.
 
 ## Ref
-<div class="spreadsheet" fullHeight src="../scala.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="../scala.toml"> </div>  
 
 ## Json
-<div class="spreadsheet" fullHeight src="../scala_json.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="../scala_json.toml"> </div>  
 
 
 ## Akka
-<div class="spreadsheet" fullHeight src="../scala_akka.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="../scala_akka.toml"> </div>  
 
 ## Log4s logback logging
 Config: 

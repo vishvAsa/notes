@@ -42,5 +42,5 @@ End:
 ```
 
 ## Ref
-<div class="spreadsheet" fullHeight src="../perl.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="../perl.toml"> </div>  
 
