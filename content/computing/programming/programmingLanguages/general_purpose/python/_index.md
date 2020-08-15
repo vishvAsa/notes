@@ -262,3 +262,12 @@ title_is title_contains presence_of_element_located visibility_of_element_locate
 #### Pymongo
 <div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="pymongo.toml"> </div>  
 
+## Web server
+### WSGI
+- Web Server Gateway Interface.  specification for simple and universal interface between web servers and py web applications or frameworks.
+- Launch a py microserver (such as flask) as daemon processes as and when needed. No need to start it separately in a different port, if enabled within apache.
+- Between them, there may be middleware for loadbalancing etc..
+
+## server
+<div class="spreadsheet" src="../server.toml" fullHeightWithRowsPerScreen=8> </div>  
+
