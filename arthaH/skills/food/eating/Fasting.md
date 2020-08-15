@@ -13,6 +13,9 @@ Eat only within an 8hr window. Fast the remaining 16 hours.
 #### Breaking fast
 - "Further, it doesn’t make ecological sense to break a fast with only a small amount (given food availability), no animal would “leave the table with room to spare” after starvation." 
 
+### Activity
+- "It goes w/out saying that when u fast u should be active - HIIT, RT, etc. This is HUNTER MODE, 'Destruction & Reconstruction', Autophagy - the primal processes for health which modern life suppresses."
+
 ## Motivation
 - "As a biological organism the human body is adaptive; more than that, it is antifragile, this is an important distinction in that things that are antifragile need stress to improve. ... nature delivers nutrition in an unbalanced ... supply of food matters just as much as its constituents."
 - "Too much information in the form of constant feeding dulls the senses and causes harm. ... As anyone who has fasted for 36hrs or more knows, eyesight improves and sense of smell becomes more intense."

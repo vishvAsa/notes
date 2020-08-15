@@ -12,8 +12,9 @@ title: +Health
 
 "Health is the most important asset you have - but it's an invisible asset, only becoming apparent when you start losing it. ... Good health is the functioning of all systems; ill health only needs one thing to go wrong - hence our lives are inevitably 'doomed to failure'. .. Of course it is good to retain strength and muscle mass in older age."
 
-### वयः
-- "Youth is health more so than strength. The strong 50yr old is 'healthy' in one metric but silent risk is increasing. This is why big powerlifters can die instantly."
+### Age, fitness, strength
+- "Youth is health more so than strength. The strong 50yr old is 'healthy' in one metric but **silent risk** is increasing. This is why big powerlifters can die instantly."
+- "I don't believe a superfit 60yr old can ever be as healthy as the average teenager. But they can be 'fitter' - so we have to define the **difference between fitness and health**."
 
 ### maargaH
 - "Realise that the condition of youth is the prime expression of health - Do things to recreate youth. It isn't a single metric - Don't mistake one marker of health for a decisive marker against disease." 
