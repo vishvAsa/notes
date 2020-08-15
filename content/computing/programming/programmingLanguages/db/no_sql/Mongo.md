@@ -10,4 +10,4 @@ title = "Mongo"
 - meteor.js
 
 ## Commands
-<div class="spreadsheet" src="../mongo.toml"> </div>  
+<div class="spreadsheet" fullHeight src="../mongo.toml"> </div>  

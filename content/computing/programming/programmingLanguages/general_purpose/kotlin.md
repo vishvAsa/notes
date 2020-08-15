@@ -8,6 +8,6 @@ title = "Kotlin"
 - Less expressive than Scala. Worse inlining compared to scala.
 
 ## Ref
-<div class="spreadsheet" src="../kotlin.toml"> </div>  
+<div class="spreadsheet" fullHeight src="../kotlin.toml"> </div>  
 
 
