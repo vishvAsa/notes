@@ -58,7 +58,7 @@ help(object/ module)
 
 
 ## Strings
-<div class="spreadsheet" fullHeight src="strings.toml"> </div>  
+<div class="spreadsheet" fullHeight src="string.toml"> </div>  
 
 ## Regex
 <div class="spreadsheet" fullHeight src="regex.toml"> </div>  
