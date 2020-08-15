@@ -34,3 +34,6 @@ AVG(RANGE)
 ### Looking up values
 vlookup()
 
+## Ref
+<div class="spreadsheet" src="../google_spreadsheet.toml"> </div>  
+

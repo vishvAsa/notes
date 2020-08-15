@@ -2,6 +2,12 @@
 title = "Java"
 +++
 
+## Intro
+- Platform independence: so no direct access to memory.
+- Object orientated approach.
+- Memory management: Garbage collection.
+- Compiled into bytecode which can be run everywhere using native interpreters. Due to many optimizations - such as 'just in time' compilation, speed comparable with C for many applications.
+
 ## Classes
 ### Important Superclasses, interfaces
 #### Serializable

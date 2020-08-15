@@ -1,0 +1,244 @@
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'types'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'python 2'
+Syntax = '''
+str
+unicode'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'types'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'python 3'
+Syntax = '''
+bytes  # same as earlier str
+str  # same as earlier unicode'''
+Description = 'In python3, all string literals are unicode by default.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'strip'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'method'
+Syntax = 's.(l/r)strip'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = """
+\"d\" '''d''' 'd' r'd' 
+u's'
+('sadf' +
+'sadf') // line splitting"""
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'instantiation'
+Subfeature = 'formatted'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+ 'string is %s, not %d' % ('hello', 45)
+"{:02d}".format(1)
+u'str1 "{0}"'.format(argList)
+print “{} {} is {} years old.“ format(fname, lname, age)
+'ad %(xyz)d %(st)s' % dict(xyz=234, st="asdf")
+b"something to be consumed as bytes"'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'instantiation'
+Subfeature = 'raw string'
+Importance = ''
+"Implementation Type" = 'python 2'
+Syntax = '''r'\asdf" - # backslash treated as literal.'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = ''' '#' * 10'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string unicode'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+# Top of file:
+# -*- coding: utf-8 -*-
+u'str1'
+u"""
+multilinestr
+"""'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string unicode'
+Feature = 'instantiation'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+'''
+Description = '''
+s = 'hello world'
+it is equivalent to writing 
+s = u'hello world'
+That is, so that all literals are interpreted as Unicode by default. This is the default in Python 3.'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string unicode'
+Feature = 'encode'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''unistr1.encode('utf-8')'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string unicode'
+Feature = 'decode'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''str1.decode('utf-8')'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'parse'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'method'
+Syntax = '''
+str.split(sep,[maxsplit])
+user1, _, user2, _ = a.split(" ", 3)
+a.rsplit(" ", 1)'''
+Description = 'maxsplit items are extracted, remaining string is retained intact in the return array.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'parse'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'str.partition(sep)'
+Description = 'Every even element is sep.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'replace'
+Subfeature = 'regex'
+Importance = ''
+"Implementation Type" = 'function'
+Syntax = '''
+re.sub(patn, rep, s)
+x = regex.sub(...) // handles unicode'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'find'
+Subfeature = 'regex'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''re.findall('\w+', test, re.UNICODE)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'replace'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'method'
+Syntax = 's.replace(old, new [, maxreplace])'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'substring'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+substr in str
+str.endswith(..)
+str.startswith(..)'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'case change'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'method'
+Syntax = 'upper lower'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'content type check'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'method'
+Syntax = 'isalnum is alpha isdigit isspace islower'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'concatenate'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = 'operator'
+Syntax = ' + "" or "" ""'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'string'
+Feature = 'encode'
+Subfeature = ''
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'str.encode("utf-8")'
+Description = ''

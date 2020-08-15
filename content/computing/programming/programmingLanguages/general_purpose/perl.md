@@ -17,3 +17,30 @@ See perlrun on the internet. Commands to be interpreted are either entered in a 
 ### Getting help
 Use perldoc, perlsyn. Inbuilt function reference: perlfunc.
 
+## Modules
+Install: `cpan Chocolate::Belgian`
+
+### Define
+Begin:
+```
+package Some::Module;  # assumes Some/Module.pm
+ BEGIN {
+require Exporter;
+our $VERSION     = 1.00;
+# Inherit from Exporter - necessary.
+our @ISA         = qw(Exporter);
+our @EXPORT      = qw(func1 func2);
+# Optional export
+our @EXPORT_OK   = qw($Var1 %Hashit func3);    }
+```
+
+End:
+
+```
+ END { ... }  #cleanup
+1;
+```
+
+## Ref
+<div class="spreadsheet" src="../perl.toml"> </div>  
+
