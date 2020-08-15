@@ -53,23 +53,23 @@ Or do: sudo pip install pkgName or easy\_install pkgName.
 help(object/ module)
 
 ## General
-<div class="spreadsheet" fullHeight src="general.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="general.toml"> </div>  
 
 
 
 ## Strings
-<div class="spreadsheet" fullHeight src="string.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="string.toml"> </div>  
 
 ## Regex
-<div class="spreadsheet" fullHeight src="regex.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="regex.toml"> </div>  
 
 
 
 ## Collection
-<div class="spreadsheet" fullHeight src="collection.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="collection.toml"> </div>  
 
 ## Test
-<div class="spreadsheet" fullHeight src="test.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="test.toml"> </div>  
 
 
 
@@ -157,7 +157,7 @@ PyObject* result = ....
 
 ## Math
 ### Pandas
-<div class="spreadsheet" fullHeight src="pandas.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="pandas.toml"> </div>  
 
 ### Numpy
 #### Array
@@ -245,20 +245,20 @@ Events supported:
 title_is title_contains presence_of_element_located visibility_of_element_located visibility_of presence_of_all_elements_located text_to_be_present_in_element text_to_be_present_in_element_value frame_to_be_available_and_switch_to_it invisibility_of_element_located element_to_be_clickable staleness_of element_to_be_selected element_located_to_be_selected element_selection_state_to_be element_located_selection_state_to_be alert_is_present
 
 #### Ref
-<div class="spreadsheet" fullHeight src="selenium.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="selenium.toml"> </div>  
 
 ## IO
-<div class="spreadsheet" fullHeight src="io.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="io.toml"> </div>  
 
 
 ### DB
 #### Serialization
-<div class="spreadsheet" fullHeight src="serialization.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="serialization.toml"> </div>  
 
 
 #### Couchdb
-<div class="spreadsheet" fullHeight src="couchdb.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="couchdb.toml"> </div>  
 
 #### Pymongo
-<div class="spreadsheet" fullHeight src="pymongo.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="pymongo.toml"> </div>  
 

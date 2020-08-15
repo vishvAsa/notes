@@ -2,6 +2,7 @@
 title = "BASH"
 +++
 
+
 ## Characteristic features
 All environmental variables are imported into the context.
 
@@ -55,4 +56,8 @@ Note that there should not be any space around =.
 Array Element reference: \verb'${area2[0]}'.
 
 Reference the entire array: \verb'${colors[@]}'.
+
+## General
+<div class="spreadsheet" src="../bash.toml" fullHeightWithRowsPerScreen=8> </div>  
+
 

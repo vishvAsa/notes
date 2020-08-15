@@ -2,5 +2,5 @@
 title = "Ref"
 +++
 
-<div class="spreadsheet" fullHeight src="../ref.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="../ref.toml"> </div>  
 

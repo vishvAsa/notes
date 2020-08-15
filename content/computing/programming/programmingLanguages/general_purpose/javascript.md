@@ -61,5 +61,5 @@ Dev installation:
 - Also transforms npm modules as need for browser use.
 
 ## Ref
-<div class="spreadsheet" fullHeight src="../javascript.toml"> </div>  
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="../javascript.toml"> </div>  
 

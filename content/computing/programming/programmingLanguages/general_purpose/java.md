@@ -54,3 +54,6 @@ outStream object will have methods like setContentType, setEncoding, println.
 ### Mapping to URL
 One then maps a url to a servlet in the WEB-INF.xml file, using the \verb'<servlet>' and other tags.
 
+## General
+<div class="spreadsheet" src="../java.toml" fullHeightWithRowsPerScreen=8> </div>  
+
