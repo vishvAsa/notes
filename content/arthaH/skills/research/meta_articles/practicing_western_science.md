@@ -8,6 +8,9 @@ Arnab Rai Choudhuri
 Social Studies of Science, Vol. 15, No. 3. (Aug., 1985)  
 DISCUSSION PAPER 
 
+## Reader notes
+So much of this paper rang true even regarding my own experience as a grad student in USA 2007-10. Suhas mentions: "(This) has had a great influence on me, and several others (like Vishvas) that I have shared it with. Thank you for giving me the right perspective towards science at an early stage in my scientific training."
+
 ## ABSTRACT 
 Modern science, which was an indigenous product of Western culture, is now being practised in many non-Western countries. This paper discusses the peculiar social, cultural and intellectual problems which scientists of these non-Western countries face in adopting Western science in their situations, with special reference to India. It is pointed out that, in addition to money and communication, it is necessary to have a proper psychological gestalt to practise science satisfactorily. The author analyzes his experience as a physics student in India and in the United States to clarify the nature of this psychological gestalt, and to explain what makes it difficult for non-Western scientists to acquire it. 
 
