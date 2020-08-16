@@ -6,7 +6,6 @@ title = "Practicing western science"
 Practising Western Science outside the West: Personal Observations on the Indian Scene  
 Arnab Rai Choudhuri  
 Social Studies of Science, Vol. 15, No. 3. (Aug., 1985)  
-Social Studies of Scienceis currently published by Sage Publications, Ltd..  
 DISCUSSION PAPER 
 
 ## ABSTRACT 
