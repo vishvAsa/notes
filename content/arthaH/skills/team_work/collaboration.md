@@ -1,23 +1,18 @@
 ---
-title: Collaboration
+title: Peer Collaboration
 ---
 
 ## Benefits
 
 ### Gives Encouragement
 
-Doing research alone is possible; but it requires huge amount of focus
-and determination; especially when it comes to doing less pleasant tasks
-like experimentations and simulations.
+Doing projects (research or otherwise) alone is possible; but it requires huge amount of focus and determination; especially when it comes to doing less pleasant tasks like experimentations and simulations.
 
-From collaborations, even boring aspects of research become more
-pleasant. Enthusiasm for research increases. It is also more
-pleasurable. See benefits of pair programming in ’programming strategy’.
+From collaborations, even boring aspects of research become more pleasant. Enthusiasm for research increases. It is also more pleasurable. See benefits of pair programming in ’programming strategy’.
 
 ### Toughness of problems solved
 
-With different viewpoints, the probability of the problem being solved
-is higher. Also more interesting problems often discovered.
+With different viewpoints, the probability of the problem being solved is higher. Also more interesting problems often discovered.
 
 It is also a source of new problems to attack.
 
@@ -67,13 +62,3 @@ new avenues about his research project.
 
 Fix concrete date and time to discuss project, papers.
 
-## Technical discussions
-
-People form opinions about your abilities partly through your ability to
-communicate and collaborate well. This includes ability to propose
-ideas, solve problems on the spot, having a supple mind.
-
-It often involves making oral presentations of technical work - this is
-described elsewhere.
-
-Note down important things to follow up.

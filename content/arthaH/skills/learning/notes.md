@@ -6,8 +6,7 @@ title: Notes
 - Easy to navigate to topic of interests (on a variety of devices)
 - Highlights a summary (सूत्रमन्त्रादिरूपेण) decision for execution, separate from exploratory notes.
 - Highlights evocatively core ideas and wonders. Tight focus on essence - Learning involves repeated summarization.
-  - In math - Record important patterns of ideas and solution strategies, with
-  examples/ counter-examples and important results.
+  - In math - Record important patterns of ideas and solution strategies, with examples/ counter-examples and important results.
 - Builds complex ideas based on clear simple ideas.
 - Easy to update, refactor.
 
@@ -30,7 +29,7 @@ title: Notes
 - Summarize: At the top of the page, and repeatedly later as necessary.
   - Also summarize into sUtra-s from point of view of execution.
 - When reading original works, add annotations in alternate color, size, style etc..
-- Use an system which facilitates easy updates - markdown + jekyll + github + wiki-like-theme.
+- Use an system which facilitates easy updates - markdown + jekyll/ hugo + github + wiki-like-theme.
 
 ## Annotation
 ### Physical books
