@@ -10,22 +10,23 @@ summary: Welcome page.
 
 - The worlds of ideas are distinct from the directly experienced world of sensations. They can be accessed only by the intellect (aka the questioning mind) and assessed by sentiment.
 - Motivation
-  - These are my personal maps to those worlds. The process of making them was quite addictive and satisfying once. I once had an obsessive (unpragmatic) need to understand everything from the very basic principles.
+  - These are my personal maps to those worlds. The process of making them was quite addictive and satisfying once. I once had an obsessive (unpragmatic) need to understand everything from the very basic principles. "न ख्यातिलाभपूजार्थं ग्रन्थोऽस्माभिरुदीर्यते । स्वबोधपरिशुद्ध्यर्थं ब्रह्मविन्-निकषाश्मसु ॥"
   - These were written for my own edification- often as part of _thinking aloud_ or _thinking carefully_. If you find it useful - great!
 
-- Self criticism:
-  - Many are very unoriginal, terse, incomplete and incorrect.
-  - Sometimes the stuff is pedantic. The truly surprising things are not adequately highlighted.
-- Currency and updates
-  - They were mostly written and updated when I was trying my hand at academic research. Now, I only get to most of them very rarely.
-  - Still, I love comments and corrections (not that I've ever received any!).
+### Self criticism:
+- Many are very unoriginal, terse, incomplete and incorrect.
+- Sometimes the stuff is pedantic. The truly surprising things are not adequately highlighted.
+
+### Currency and updates
+- They were mostly written and updated when I was trying my hand at academic research. Now, I only get to most of them very rarely.
+- Still, I love comments and corrections (not that I've ever received any!).
 
 ## Scribe notes:
 
 - (These are required as part of some courses.)
-- Computational Learning Theory: [Introduction to hardness of learning results](colt/scribeNotes/scribeNotes.pdf).
-- Graphical Models (Spring 2010): [The junction tree algorithm](probabilisticModels/graphicalModels/scribeNotes/junctionTrees.pdf).
-- Graphical Models (Spring 2010): [Sparse representations in an overcomplete basis](numericalAnalysis/exposition/sparseRepresentations/scribedNotes.pdf).  
+- Computational Learning Theory: [Introduction to hardness of learning results](computing/colt/scribeNotes/scribeNotes.pdf).
+- Graphical Models (Spring 2010): [The junction tree algorithm](math/probability/probabilisticModels/graphicalModels/scribeNotes/junctionTrees.pdf).
+- Graphical Models (Spring 2010): [Sparse representations in an overcomplete basis](computing/numericalAnalysis/exposition/sparseRepresentations/scribedNotes.pdf).  
 
 
 ## Exposition:
