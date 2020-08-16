@@ -1,5 +1,5 @@
 +++
-title = "+Algorithms"
+title = "+Algorithms General"
 +++
 ## Research effort
 For algorithms to numerically solve problems form continuous mathematics, see numerical analysis ref. For proving lower bounds, see complexity theory ref.
