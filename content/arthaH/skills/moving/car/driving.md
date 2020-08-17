@@ -25,6 +25,18 @@ title: Driving
 - Travel with copilots.
 - Schedule regular stops.
 
+### Burglary of contents
+#### Reduce attractiveness, increase difficulty
+Hide things. Never leave plastic bags etc.. in plain sight - Thieves can think that it contains something precious.
+
+Park the car in well lit areas, visible from windows of apartments, with high pedestrian traffic. Do not park next to the dumpster etc.., where the view is obstructed etc..
+
+#### Minimize damage in case of break-in
+Hide precious things. Hide tools near the spare tyre, below the trunk floor.
+
+#### Prosecuting the thief
+Maintain a record of the serial numbers of the items you store in the car: just photograph it, for example. Thieves try to sell these things in a pawn shop; and they run these serial numbers by the police.
+
 ## Be comfortable
 
 - Reason
@@ -68,8 +80,7 @@ Dry brakes with slight pressure
 
 Passing vehicles - dangerous recurrent activity.
 
-Rejoining
-- only when you can see the wheels of the passed vehicle in the rear view mirror.
+Rejoin only when you can see the wheels of the passed vehicle in the rear view mirror.
 
 Don't pass more than one car at a time.
 
@@ -114,9 +125,23 @@ Carry destination's phone number. Remember reason - Small businesses move often
 
 ## Parking
 
-### Find a spot
+### Goals
 
-### Parallel
-
-- Within 1 foot of the curb
+- Parallel parking: Within 1 foot of the curb. 
+- When opening the door, ensure that other vehicles going along the road are not obstructed.
 - No obstruction to other cars, driveways, fire extinguishers etc..
+- If there are cars in adjacent slots, don't use the lines on the ground for guidance. Instead, aim to have your car body parallel to the adjacent car. Ensure that you have enough space to open the door.
+
+### Location
+Also see the section on burglary avoidance, for choosing a secure parking location.
+
+Remember the location of the car in the parking lot.
+
+-  Try to park on the same side and the same row every time, if possible.
+-  After you park, deliberately state and memorize its location.
+
+### Angular Parking
+#### Approach positioning
+Realize that rear of the car follows a smaller arc during sharp pivot-like turns. Just because the front part of the car did not hit a pillar does not necessarily mean that the rear of the car will do the same. Align the car with the parking spot properly before moving in.
+
+
