@@ -6,36 +6,3 @@
     comments: true
     search: true
     sidebar: home_sidebar
--
-  scope:
-    pathPrefix: "artha"
-  values:
-    layout: "page"
-    comments: true
-    search: true
-    sidebar: artha_sidebar
--
-  scope:
-    pathPrefix: "math"
-  values:
-    layout: "page"
-    comments: true
-    math: true
-    search: true
-    sidebar: gaNita_sidebar
--
-  scope:
-    pathPrefix: "computing"
-  values:
-    layout: "page"
-    comments: true
-    search: true
-    sidebar: gaNita_sidebar
--
-  scope:
-    pathPrefix: "misc"
-  values:
-    layout: "page"
-    comments: true
-    search: true
-    sidebar: misc_sidebar

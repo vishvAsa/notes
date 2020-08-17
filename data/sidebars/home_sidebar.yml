@@ -2,23 +2,22 @@
 
 title: Parts
 contents:
-  - title: अर्थः
-    url: /arthaH/
-  - title: Math
-    url: /math/
-  - title: Computing
-    url: /computing/
-  - title: Biology
-    url: recdir:/biology/
-  - title: Misc परिशिष्टम्
-    url: /misc/
-  - title: संस्काराः
-    url: /../saMskAra/
-  - title: Poetry काव्यम्
-    url: /../kAvya/
-  - title: Vishvas's home page
-    url: /../
-  - title: Blog
-    url: /assets/blog/
+  - url: recdir://
+  - title: सङ्ग्रहान्तरम्
+    contents:
+      - title: ज्यौतिषम्
+        url: ../jyotiSham/
+      - title: संस्कृतम्
+        url: ../sanskrit/
+      - title: मीमांसा
+        url: ../mImAMsA/
+      - title: Notes Home
+        url: ../notes/
+      - title: काव्यम्
+        url: ../kAvya/
+      - title: संस्काराः
+        url: /../saMskAra/
+      - title: Vishvas's home page
+        url: /../
   - title: <i class="fas fa-hand-holding-heart"></i>Donate Via Vishvas
     url: https://vvasuki.github.io/interests/dharma-via-vishvas/
