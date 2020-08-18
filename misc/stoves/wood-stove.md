@@ -39,7 +39,7 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 - Indian cooking smoke (indoor) said to equal 20 cigarettes a day (source: prakti promotional video).
 - Temperature at top: max 580°C ([IG18](https://www.instagram.com/p/BgLspLPlHN0/))
 
-## Realizations
+### Realizations
 - mud stoves cost 250 Rs in 2018 and lasted 6 months.
 
 ## Cube with 2 sides open + holes for ventilation at the bottom and sides
@@ -78,3 +78,8 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 ## Chimneys
 - The addition of chimneys, in all cases, reduces smoke pollution. It also increases combustion efficiency due to the chimney effect - more effectively pulling fresh air.
 - Chimney effect - height of the chimney is directly proportional to the pressure with which cold air gets sucked in. 
+
+## Elevation
+- कुण्डानाम् उच्चतया धूमप्रभावेणायुर्हरणं न स्यात् तावत्।
+
+{{< figure src="../images/kuNDa/nepal-tretAgni-kuNDas-elevated.jpg" title="" class="thumbnail">}}

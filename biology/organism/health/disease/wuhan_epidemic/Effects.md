@@ -8,5 +8,10 @@ title = "Effects"
 
 ## Severity
 - "For COVID-19, data to date suggest that 80% of infections are mild or asymptomatic, 15% are severe infection, requiring oxygen and 5% are critical infections, requiring ventilation." - [WHO-2020-03-06](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_4)
-- Several cases are getting reported of young adults sent home after 7 days with a negative result,develop sudden symptoms and die. Suspected cause: The small blood vessels of the heart had intense inflammation an entity known as MIS(Multi System Inflammatory Syndrome),see the photograph taken attached below. [FB](https://www.facebook.com/drpraveenks/posts/10158729975141385) Exercise should be avoided for some time. 
+
+### Heart
+- Several cases are getting reported of young adults sent home after 7 days with a negative result,develop sudden symptoms and die. Suspected cause: The small blood vessels of the heart had intense inflammation an entity known as MIS(Multi System Inflammatory Syndrome),see the photograph taken attached below. [FB](https://www.facebook.com/drpraveenks/posts/10158729975141385) Exercise should be avoided for some time.
+- Scientists took the mother cells called stem cells that differentiate to heart muscle cells and infected them with the virus. Within 72 hours,the virus could cause death of cells and stop the cells contracting. [cell](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(20)30068-9?fbclid=IwAR1a2CQ76AGOJ5SMtKRJ6QdfxQwAx0gqtMU-CbxRRbcsTfLK25li7R3QbEk)
+
+### Brain 
 - MRI based study has demonstrated micro structural defects in olfactory(smell recognition area) and hippocampus (short term memory area) which translated to loss of smell that is widely known in acute setting to memory loss observed 3 months later.
