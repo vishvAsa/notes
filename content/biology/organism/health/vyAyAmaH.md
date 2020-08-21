@@ -6,8 +6,10 @@ title = "व्यायामः"
 - Stay at the lighter end of your body's frame
   - Over-muscled, fueled by constantly eating, is not healthy
 
-### Age connection
-- "As you get older you should dedicate a greater proportion of your diminishing exercise capacity to hard and robust exercise - yet you're told to take it easy. If all you do is “take it easy", eventually all you'll be able to do is take it easy - your body will have lost its capacity to generate and tolerate force, a high heart rate, acidosis, shocks or running for the bus - until eventually, even the normal task of walking up a flight of stairs is an effort and leaves you breathless. Senescence means decreasing variation. A diminishing exercise capacity is strongly associated with aging. An indicator that the physiological systems which enable you to exercise are no longer as effective."
+### Age and intesity
+- "As you get older you should dedicate a greater proportion of your diminishing exercise capacity to hard and robust exercise - yet you're told to take it easy. If all you do is “take it easy", eventually all you'll be able to do is take it easy - your body will have lost its capacity to generate and tolerate force, a high heart rate, acidosis, shocks or running for the bus - until eventually, even the normal task of walking up a flight of stairs is an effort and leaves you breathless. Senescence means decreasing variation."
+- "If you argue, "why do I need to train so hard that I induce the burning sensation of acidosis? How does it benefit me?" My response would be that you used to be able to do it, and cope with it - there's the reason. It recreates what you could do when you were younger, and if you can do what you could do when you were younger, you are younger."
+- "A study found that lactic acid (as sodium lactate, injected into the blood stream) in mice, keeps them young by assisting in the production of mitochondria, the power generators in every cell. "
 - "In aging we want to maintain our physical variability (beta-blockers are designed to clip the heart rate to protect the patient; variation may kill them). Two things happen over time if you don't push your heart rate (HR); max HR decreases and resting HR increases. Endurance training lowers the resting HR but doesn't work the top end; a reason to keep up high intensity work, to 'push' the high HR, which also has the effect of lowering the resting HR."
 
 #### Leeway for youth
