@@ -1,5 +1,5 @@
 ---
-title: Intro/ Misc
+title: +Bengaluru
 ---
 
 ## Government services
@@ -20,4 +20,7 @@ title: Intro/ Misc
 - [map](https://www.google.com/maps/d/u/0/viewer?mid=1asgLRhOHyT2T--cGDoqrzkEuqdQ&shorturl=1)
 
 ## प्राचीन-मन्दिराणि
-    - old temples - [TW16](https://twitter.com/ColonelGerard/status/775920873744113664)
+- old temples - [TW16](https://twitter.com/ColonelGerard/status/775920873744113664)
+
+## Hoardings
+- In 2020, 8x10 costs about 1-1.5lacs/month Airport road, 50000-60000/month near brigade road, 10000-20000/month mysore road
