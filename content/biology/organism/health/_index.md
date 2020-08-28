@@ -11,6 +11,7 @@ title: +Health
 
 - "Health is the most important asset you have - but it's an invisible asset, only becoming apparent when you start losing it. ... Good health is the functioning of all systems; ill health only needs one thing to go wrong - hence our lives are inevitably 'doomed to failure'. .. Of course it is good to retain strength and muscle mass in older age." (Anna Karenina principle.)
 - "Realise that the condition of youth is the prime expression of health - Do things to recreate youth. It isn't a single metric - Don't mistake one marker of health for a decisive marker against disease." See aging page to grok what youth entails.
+- Wildness but not savagery. Stimulus-response.
 
 ## प्रभावः
 Having negative health conditions diminishes our enjoyment of life, and makes us fragile to environmental and manmade stressors and unexpected events.
