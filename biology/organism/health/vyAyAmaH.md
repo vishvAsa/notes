@@ -6,6 +6,7 @@ title = "व्यायामः"
 - Stay at the lighter end of your body's frame
   - Over-muscled, fueled by constantly eating, is not healthy
 
+
 ### Age and intesity
 - "As you get older you should dedicate a greater proportion of your diminishing exercise capacity to hard and robust exercise - yet you're told to take it easy. If all you do is “take it easy", eventually all you'll be able to do is take it easy - your body will have lost its capacity to generate and tolerate force, a high heart rate, acidosis, shocks or running for the bus - until eventually, even the normal task of walking up a flight of stairs is an effort and leaves you breathless. Senescence means decreasing variation."
 - "If you argue, "why do I need to train so hard that I induce the burning sensation of acidosis? How does it benefit me?" My response would be that you used to be able to do it, and cope with it - there's the reason. It recreates what you could do when you were younger, and if you can do what you could do when you were younger, you are younger."
@@ -15,6 +16,9 @@ title = "व्यायामः"
 #### Leeway for youth
 - 1 Young athletes (teens/20's) can be lean & fit, even with a bad diet
 - 2 They can progress even with a bad training program
+
+### Flexibile intensity
+The idea is that you train how you feel on the day, and use your program as a guide not as an absolute. This meant that when you were fresh you might do more; when tired you do less. Aka intuitive/ agile training. Intuitive training isn't an excuse to slack, it's an attempt to work with the body.
 
 ## Motivation
 - "As a biological organism the human body is adaptive; more than that, it is antifragile, this is an important distinction in that things that are antifragile need stress to improve."
