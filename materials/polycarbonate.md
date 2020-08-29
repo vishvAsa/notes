@@ -3,7 +3,7 @@ title = "Polycarbonate"
 +++
 
 ## Cons
-- Degrades with time.
+- Degrades with time and exposure to sunlight.
 
 ## Compact clear
 - Prone to scratches if used outside house.

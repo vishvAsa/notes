@@ -8,7 +8,7 @@ title = "Steel"
 
 
 ## Cost (2020)
-- MS grill - ~ 450/sqft
+- MS grill with installation - ~ 450/sqft
 - Highly finished door (hollow?) steel - Rs 700/sqft (IndiaMart) - Rs 14.7k.
 
 ## Cast Iron
