@@ -15,3 +15,8 @@ title = "Effects"
 
 ### Brain 
 - MRI based study has demonstrated micro structural defects in olfactory(smell recognition area) and hippocampus (short term memory area) which translated to loss of smell that is widely known in acute setting to memory loss observed 3 months later.
+
+## Causal chain
+- Lung epithelial cells are infected.
+- Virus is then detected by macrophages. They produce interferons and cytokines. But the virus is oblivious to anti-viral effects of interferons. Cytokines attract more white blood cells. So there is a cytokine storm from a chain reaction.
+- This results in inflammation, formation of fibrin and damage to lung cells, weakinging of blood vessels leading to seepage and drowning.
