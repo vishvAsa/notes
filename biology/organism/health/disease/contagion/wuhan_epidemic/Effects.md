@@ -2,6 +2,7 @@
 title = "Effects"
 
 +++
+
 ## Duration
 - "About 80 percent of infections, according to the World Health Organization, “are mild or asymptomatic,” and patients recover after two weeks, on average."
 - Can last very long - "When I spoke with LeClerc on day 66, she was still experiencing waves of symptoms. “Before this, I was a fit, healthy 32-year-old,” she said. “Now I’ve been reduced to not being able to stand up in the shower"" [AT](https://medium.com/the-atlantic/covid-19-can-last-for-several-months-c3391bddbe6c)
@@ -15,6 +16,9 @@ title = "Effects"
 
 ### Brain 
 - MRI based study has demonstrated micro structural defects in olfactory(smell recognition area) and hippocampus (short term memory area) which translated to loss of smell that is widely known in acute setting to memory loss observed 3 months later.
+
+## Comorbidity
+Severe disease can result in people with diabetes, obesity, chronic breathing difficulty (like asthma), compromised immune system.
 
 ## Causal chain
 - Lung epithelial cells are infected.
