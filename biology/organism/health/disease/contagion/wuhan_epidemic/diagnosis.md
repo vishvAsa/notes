@@ -6,14 +6,18 @@ title = "Diagnosis"
 Infection can be 2-14 days before symptoms appear. 
 
 ## Symptoms
+### Major
 - Fever
 - Cough
 - Shortness of breath
+
+### Minor
 - Tiredness, body ache, sore throat, diarrhea, vomiting
 - stuffy nose, Loss of smell
 
 ### Case studies
 - 2020 Aug - Devanahalli, BLR. Patient and wife reported fever which came and went for about 4 days. Then, pulse oxymeter showed 92% saturation in patient. He tested positive.
+- When on oxygen, saturation level is 95, but when he goes to toilet etc.., it comes down to 80.
 
 ## Tests
 - "The current RT-PCR has a sensitivity at best of 70 percent with a turn around time of 120 minutes."
