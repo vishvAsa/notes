@@ -42,9 +42,14 @@ The idea is that you train how you feel on the day, and use your program as a gu
 - "The aim of an interval (or HIIT) session is to arrive DOA at the end of the session not in the middle of the session"
 - A 2005 study published in the Journal of Applied Physiology found that after just two weeks of interval training, six of the eight college-age men and women doubled their endurance, or the amount of time they could ride a bicycle at moderate intensity before exhaustion. Researchers at McMaster University in Hamilton, Ontario, had the exercisers sprint for 30 seconds, then either stop or pedal gently for four minutes. [\[Ref\]](http://www.nytimes.com/2007/05/03/fashion/03Fitness.html?ex=1335844800&en=48386e6eb3181b11&ei=5088&partner=rssnyt&emc=rss)
 
+## Recreate Wildness
+"Think of running for the bus as earning your calories. Think of physical work as hunting for your food. Think of cycling fifty miles as tracking an antelope. Climbing trees, jumping over walls, running up stairs, fighting, throwing, sprinting – they're reproducing things your ancient ancestors had to do to survive. Again; you have to expend your calories to get calories because the modern environment no longer forces you do it. ... Make your normal life physically harder. Purposely, create physical challenges and expend energy. Run for the bus, run across the road, jump walls; whatever - you do it because you can. You do it because you are recreating a wild environment. You do it because the fossils around you can't, and you don't want to be like them." 
+
+
 
 ## Running
-- "The key was relaxed running; no tension. Being tense slows you down and uses energy. When you run fast sub-max, relax shldrs and face, don't struggle, don't force it."
+- Relaxed upper body swinging side to side with each step.
+- When your feet land, make sure that knee angle is not obtuse (ie decelerating). For accelerating, obviously angle will be more acute.
 - Long runs - " Do not run too fast early on, even if it feels slow, you will pay for it later!"
 
 ## Benefits
