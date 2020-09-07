@@ -1,11 +1,7 @@
 +++
-title = "Cells"
+title = "Leucocyte"
+
 +++
-
-## Dendridic cells
-- Major role in adaptive immunity. 
-- Antigen-presenting cells (also known as accessory cells). Take infection to lymph nodes and activate T and B cells.
-
 ## T cells
 - Cytotoxic T cells recognize infected cell (by recognizing some antigen) and spur cell death.
 
@@ -25,4 +21,4 @@ When activated: Secrete antibodies.
 Can reignite antibodies during second exposure.
 
 ## Natural killer (NK) cells
-Go where non-neutralizing antibodies from B cells have bound to antigens on surface of infected cells. Trigger apoptosis (cell death).
+Goes where non-neutralizing antibodies from B cells have bound to antigens on surface of infected cells. Trigger apoptosis (cell death).
