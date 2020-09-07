@@ -2,6 +2,8 @@
 title = "Transmission mechanics"
 
 +++
+
+## Overview
 - "We know that at least 44% of all infections--and the majority of community-acquired transmissions--occur from people without any symptoms (asymptomatic or pre-symptomatic people). You can be shedding the virus into the environment for up to 5 days before symptoms begin."
 - "Some experts estimate that as few as 1000 SARS-CoV2 infectious viral particles are all that will be needed." - [EB](https://www.erinbromage.com/post/the-risks-know-them-avoid-them)
 
@@ -16,3 +18,6 @@ title = "Transmission mechanics"
 - "But even if that cough or sneeze was not directed at you, some infected droplets--the smallest of small--can hang in the air for a few minutes, filling every corner of a modest sized room with infectious viral particles."
 - "A single **cough** releases about 3,000 droplets and droplets travels at 50 miles per hour." - [EB](https://www.erinbromage.com/post/the-risks-know-them-avoid-them)
 - "A single **sneeze** releases about 30,000 droplets, with droplets traveling at up to 200 miles per hour. Most droplets are small and travel great distances (easily across a room). If a person is infected, the droplets in a single cough or sneeze may contain as many as 200,000,000 (two hundred million) virus particles which can all be dispersed into the environment around them." - [EB](https://www.erinbromage.com/post/the-risks-know-them-avoid-them)
+
+## Entering cells
+Entry of the virus which happens through binding of Spike (S) protein of the virus with ACE2 receptors found in the lungs.
