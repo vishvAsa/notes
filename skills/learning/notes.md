@@ -44,8 +44,8 @@ With physical books, I like to mark (with a pencil):
     - Sometimes these marks prefixed with क (to indicate that beauty in plot twist is being measured), र (to indicate rasa-beauty etc..)
 
 ### Google play ebook notes
-- (automatic backup in Drive): [bit.ly/vv-play-notes](http://bit.ly/vv-play-notes). (Summarized in [this pic (see pic info)](https://photos.google.com/album/AF1QipOJQqymltNQMs7RHBz8rD2lWoa3EuEofzhzcYn5/photo/AF1QipPUr0S_cMva23_SAuLpR5J8CFc3kdOacKIn_Cu1).)
-- Note: Mistakes in the backup tend to occur more with books Google would need to OCR-ed (because they don't have digitized "flowing" text).
-- Example: [https://goo.gl/C9j3Vs](https://goo.gl/C9j3Vs).
+- (automatic backup in Drive): [bit.ly/vv-play-notes](http://bit.ly/vv-play-notes). (Summarized in [this pic (see pic info)](https://photos.google.com/album/AF1QipOJQqymltNQMs7RHBz8rD2lWoa3EuEofzhzcYn5/photo/AF1QipPUr0S_cMva23_SAuLpR5J8CFc3kdOacKIn_Cu1).)
+- Note: Mistakes in the backup tend to occur more with books Google would need to OCR-ed (because they don't have digitized "flowing" text).
+- Example: [https://goo.gl/C9j3Vs](https://goo.gl/C9j3Vs).
     - [![](http://i.imgur.com/rZLoaDr.png)](http://i.imgur.com/rZLoaDr.png)
 - I use a temperature scale for marking verses: 4/4= red 3/4=yellow 2/4=green 1/4=blue (since there are only 4 highlighting colors in google play).

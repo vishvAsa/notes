@@ -14,7 +14,7 @@ Non-Residents are taxed on India income only. Residents are taxed on worldwide i
 ### Advance payments
 As the year progresses, one is expected to pay tax. Paying at the end of the year will attract interest.
 
-Advance tax schedule: [here](https://cleartax.in/s/interest-imposed-by-income-tax-department-under-section-234c).
+Advance tax schedule: [here](https://cleartax.in/s/interest-imposed-by-income-tax-department-under-section-234c).
 
 
 ### Property sale: India

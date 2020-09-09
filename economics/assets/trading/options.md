@@ -75,13 +75,13 @@ The seller of a put option believes that the price during this time is unlikely 
 Options which grant the right to buy are called call options; those that grant the right to sell are called put options. Selling or buying an option is, as usual, denotes taking a short or long position on the option.
 
 ### Risk and return
-On any given day, the market value ($$m$$) of the underlying security at the end of trading on that day, an option (bought with premium $$p$$) is said to be ’in the money’ or ’out of the money’ depending on whether exercising it at strike price s leads to a profit or a loss for the holder of the option $$( \vert s − m \vert −p)$$. Correspondingly, the option writer looses or gains the same amount.
+On any given day, the market value ($$m$$) of the underlying security at the end of trading on that day, an option (bought with premium $$p$$) is said to be ’in the money’ or ’out of the money’ depending on whether exercising it at strike price s leads to a profit or a loss for the holder of the option $$( \vert s − m \vert −p)$$. Correspondingly, the option writer looses or gains the same amount.
 
-Since the option holder may choose not to exercise the option in case doing so would lead to a loss, the maximum loss he undergoes is p, while the returns can potentially be ∞ in case of call options or  $$\vert s \vert$$  in case of put options. The option writer, correspondingly has limited opportunity for profit $$ \vert p \vert $$ (which happens when the option is not exercised), and a correspondingly big potential loss.
+Since the option holder may choose not to exercise the option in case doing so would lead to a loss, the maximum loss he undergoes is p, while the returns can potentially be ∞ in case of call options or  $$\vert s \vert$$  in case of put options. The option writer, correspondingly has limited opportunity for profit $$ \vert p \vert $$ (which happens when the option is not exercised), and a correspondingly big potential loss.
 
 ### Covered options
 
-Since the put option writer only stands to loose (is obliged to pay) at most  $$\vert s \vert $$, even risk averse brokerages usually allow cash covered puts. This is usually a good option in case one intends to invest a certain security at a low enough price.
+Since the put option writer only stands to loose (is obliged to pay) at most  $$\vert s \vert $$, even risk averse brokerages usually allow cash covered puts. This is usually a good option in case one intends to invest a certain security at a low enough price.
 
 Similarly, brokerages easily allow folks to write call options when they already own the underlying security in sufficient quantities.
 
@@ -89,7 +89,7 @@ Similarly, brokerages easily allow folks to write call options when they already
 
 ### Definition
 
-Here one buys and sells a put or call option over the underlying security, and at the same expiration date at different strike prices ($$s_b$$ and $$s_s$$), with premiums $$p_b$$, $$p_s$$.
+Here one buys and sells a put or call option over the underlying security, and at the same expiration date at different strike prices ($$s_b$$ and $$s_s$$), with premiums $$p_b$$, $$p_s$$.
 
 ### Exercising strategy
 
@@ -99,7 +99,7 @@ This being the case, good triggers for exercising the bought option would be a\]
 
 ### Plots: inference
 
-Consider a coordinate system with horizontal axis being time, and vertical axis being price, with 3 curves: two horizontal lines corresponding to $$y = s_b$$ and $$y = s_s$$, and the market value $$m + p_s − p_b$$. From this, one can reason quickly and correctly about a\] the value of benefiting from the option on a certain expiration day (a vertical line in the plot, leading to the name ’vertical’ spreads).
+Consider a coordinate system with horizontal axis being time, and vertical axis being price, with 3 curves: two horizontal lines corresponding to $$y = s_b$$ and $$y = s_s$$, and the market value $$m + p_s − p_b$$. From this, one can reason quickly and correctly about a\] the value of benefiting from the option on a certain expiration day (a vertical line in the plot, leading to the name ’vertical’ spreads).
 
 It is also easy to visualize risk and return with a plot of profit against market price.
 
@@ -107,20 +107,20 @@ It is also easy to visualize risk and return with a plot of profit against marke
 
 One is reducing the investment (and the risked loss) while limiting potential returns.
 
-If both options are in the money, returns are $$ \vert s_s − s_b \vert −(p_b − p_s)$$. If just the purchased option is in the money, returns are $$ \vert m − s_b \vert −(p_b − p_s)$$. If both the options are out of money, loss is $$(p_b − p_s)$$. When only the sold option is in the money, loss is $$ \vert m − s_s \vert −(p_b − p_s)≤ \vert s_b − s_s \vert −(p_b − p_s)$$.
+If both options are in the money, returns are $$ \vert s_s − s_b \vert −(p_b − p_s)$$. If just the purchased option is in the money, returns are $$ \vert m − s_b \vert −(p_b − p_s)$$. If both the options are out of money, loss is $$(p_b − p_s)$$. When only the sold option is in the money, loss is $$ \vert m − s_s \vert −(p_b − p_s)≤ \vert s_b − s_s \vert −(p_b − p_s)$$.
 
-Thus, in all cases, profit and loss are limited. Potential loss is significant only when it happens that only the sold option is in the money: in other cases, loss is merely $$(p_b − p_s)$$. This significant loss eventuality is non existent in case of bullish call spreads and bearish put spreads.
+Thus, in all cases, profit and loss are limited. Potential loss is significant only when it happens that only the sold option is in the money: in other cases, loss is merely $$(p_b − p_s)$$. This significant loss eventuality is non existent in case of bullish call spreads and bearish put spreads.
 
 ### Types
 
-In case of a call spread, one buys and sells call options; put spreads are similarly defined. Depending on whether $$s_s ≥ s_b$$, call spreads are called bullish or bearish (the reason for which is clear upon considering potential profit and loss). Put spreads are bearish or bullish depending on whether $$s_b < s_s$$.
+In case of a call spread, one buys and sells call options; put spreads are similarly defined. Depending on whether $$s_s ≥ s_b$$, call spreads are called bullish or bearish (the reason for which is clear upon considering potential profit and loss). Put spreads are bearish or bullish depending on whether $$s_b < s_s$$.
 
 ## Straddles
 
-In a straddle, one buys/ sells put and call options (at a combined premium p) for the same security at the same strike price s, with the same expiry date.
+In a straddle, one buys/ sells put and call options (at a combined premium p) for the same security at the same strike price s, with the same expiry date.
 
-If the options are bought, we have a long straddle. If the options are sold, we have a short straddle. In case of a long straddle, one is essentially betting that the market price will move outside the interval $$[s − p, s + p]$$. In the case of a short straddle, one is betting that the reverse will happen.
+If the options are bought, we have a long straddle. If the options are sold, we have a short straddle. In case of a long straddle, one is essentially betting that the market price will move outside the interval $$[s − p, s + p]$$. In the case of a short straddle, one is betting that the reverse will happen.
 
 ### Risk and returns
 
-WIth a long straddle, potential loss is atmost p, while potential returns are ∞. In case of a short straddle, the potential returns are atmost p, while potential loss is unlimited.
+WIth a long straddle, potential loss is atmost p, while potential returns are ∞. In case of a short straddle, the potential returns are atmost p, while potential loss is unlimited.

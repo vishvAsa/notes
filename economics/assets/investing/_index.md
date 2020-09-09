@@ -9,7 +9,7 @@ Investment involves financing/ owning businesses - perhaps by buying stocks or b
 
 ## Future Discount factor
 
-For most people and organizations, _x_ amount of money today is better than _k__x_ amount of money one year from now, where _k_ > 1\. One reason for this is inflation.
+For most people and organizations, _x_ amount of money today is better than _k__x_ amount of money one year from now, where _k_ > 1\. One reason for this is inflation.
 
 ### Among individuals
 

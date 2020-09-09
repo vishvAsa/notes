@@ -16,7 +16,7 @@ unicode_script: devanagari
 - **The right intention: Agreement on essential truth**.
     - I like to debate to reach an agreement on the essential truth being discussed, rather than to nitpick on the unimportant peripherals, just show my smarts or escape the need to admit defeat.
 
-    - Flaws of intention listed in the Sulabhā-janaka-saMvAda in (Śāntiparva / Book 12, Chapter 308) [SG15](http://indiafacts.co.in/the-hindu-view-on-freedom-of-expression-and-public-discourse/).
+    - Flaws of intention listed in the Sulabhā-janaka-saMvAda in (Śāntiparva / Book 12, Chapter 308) [SG15](http://indiafacts.co.in/the-hindu-view-on-freedom-of-expression-and-public-discourse/).
 
 
 ### कुवादि-लक्षणम्
@@ -35,7 +35,7 @@ and taking down strawmen)
 
 पक्षे श्रावकान् उद्दिश्य सारः प्रस्तोतव्यः, उपहासो वाऽपि कार्यः।
 
-Tricks for dealing with mala-fide debates or propaganda arguments from pretentious dunces:  [KV](http://indiafacts.org/responding-to-mehdi-hasan-how-hindus-should-engage-their-opponents/).
+Tricks for dealing with mala-fide debates or propaganda arguments from pretentious dunces:  [KV](http://indiafacts.org/responding-to-mehdi-hasan-how-hindus-should-engage-their-opponents/).
 
 ## पूर्वपक्षाभिज्ञानम्
 
@@ -62,7 +62,7 @@ Tricks for dealing with mala-fide debates or propaganda arguments from pretentio
 ### Correct delivery निर्दुष्ट-कथनम्
 - स्वपक्षस्य बिन्दवः सुसङ्ख्याताः क्रमबद्धाः सप्रयोजनाः स्युः। Focus on essential things, rather than peripherals.
 - Avoid **flaws of expression**.
-    - Sulabhā-janaka-saMvAda in (Śāntiparva / Book 12, Chapter 308) [SG15](http://indiafacts.co.in/the-hindu-view-on-freedom-of-expression-and-public-discourse/).
+    - Sulabhā-janaka-saMvAda in (Śāntiparva / Book 12, Chapter 308) [SG15](http://indiafacts.co.in/the-hindu-view-on-freedom-of-expression-and-public-discourse/).
       - नातिह्रस्वः, नातिदीर्घः।
       - यथासम्भवम् असौम्यतया न वाच्यम्।
 
@@ -85,4 +85,4 @@ that the argument was good and that it is natural to be misled.
 ### A note on irreverence to over-extended authority
 My own experience of causing erudite scholars (RG, NiMi, ViSu, StTi, JaSc... ) to steam through the ears tells me its simply not worth it to give a damn (beyond issuing some basic clarification/ opening for friendship). Usually the steam dissipates after some time.
 
-Ultimately you take what ever you find valuable from them without unnecessary ego issues on your side, and let those afflicted by vidyA-mada etc.. roil in the murk of their own follys. Somehow the first word that jumps to my mind for such curmudgeons is "स्थविर" ( = thera in sihalese, I believe).
+Ultimately you take what ever you find valuable from them without unnecessary ego issues on your side, and let those afflicted by vidyA-mada etc.. roil in the murk of their own follys. Somehow the first word that jumps to my mind for such curmudgeons is "स्थविर" ( = thera in sihalese, I believe).

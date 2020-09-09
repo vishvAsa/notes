@@ -6,7 +6,7 @@ title: Intro/ Misc
 - Air quality [here](http://www.sparetheair.org/stay-informed/todays-air-quality/five-day-forecast).
 - NextDoor.
 - [OMVNAtalk](http://www.omvna.org/omvnatalk.html).
-- Indian flatmates Bay area [FB](https://www.facebook.com/groups/IndianCirkle/?ref=suggested_groups).
+- Indian flatmates Bay area [FB](https://www.facebook.com/groups/IndianCirkle/?ref=suggested_groups).
 
   
 

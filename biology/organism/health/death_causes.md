@@ -14,7 +14,7 @@ title = "Death causes"
 ### USA
  Most common conventional causes of death in the USA, according to [\[Ref\]](http://danger.mongabay.com/causes_of_death_percent.htm):
 
-- Heart disease : 30%. 
+- Heart disease : 30%. 
 - Cancer: 24%.
 - Stroke, respiratory diseases and accidents contribute around 5% each.
 
@@ -37,7 +37,7 @@ title = "Death causes"
 - Close to 300 cases of tick-borne disease were confirmed in Washington from 1989 to 2000. \[[Ref](http://www.doh.wa.gov/ehp/TS/Zoo/WATickDiseases.htm)\]
 
 ### STD-s
-- STD's are the most common infectious diseases. Top three infections among these are chlamydia, gonorrhea and AIDS. It found that nearly half of the African-American girls surveyed had at least one STD, the rate was 20% among white and Mexican-American teenagers. \[[Ref](http://news.bbc.co.uk/2/hi/americas/7290088.stm)\]
+- STD's are the most common infectious diseases. Top three infections among these are chlamydia, gonorrhea and AIDS. It found that nearly half of the African-American girls surveyed had at least one STD, the rate was 20% among white and Mexican-American teenagers. \[[Ref](http://news.bbc.co.uk/2/hi/americas/7290088.stm)\]
 
 ## Accidents:
 - After 10 pm one in five drivers is under the influence of something or other -- and after 2 am it's one in four. \[[Weak Ref](http://marriage.about.com/b/a/053340.htm)\]

@@ -32,7 +32,7 @@ Plots of k-day moving averages, for k = 15 to 200, brings out a smoother curve i
 
 Here, one plots the average strike price against time together with the actual security price. If future pricing were perfect, these lines would coincide; but this is not the case. The current price is affected by its speculated price, while the speculated price is affected by the current price. So, these curves tend to converge.
 
-If the speculated price converges from above, it is called contango. If the speculated price converges from below \[**Incomplete**\].
+If the speculated price converges from above, it is called contango. If the speculated price converges from below \[**Incomplete**\].
 
 ## Running strength index (RSI)
 

@@ -75,7 +75,7 @@ One component of this is to observe past performance: though it is not a guarant
 
 The correlation of the value of the security with the relevant economy / sector - perhaps measured using the value of the corresponding index - is informative. An investment whose return is not highly correlated with the relevant economy / sector brings diversity to the portfolio, and helps reduce risk.
 
-_R_2 is a common correlation measure - with values ranging \[0, 1\].
+_R_2 is a common correlation measure - with values ranging \[0, 1\].
 
 ### Curve based
 

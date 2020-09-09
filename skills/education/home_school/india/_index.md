@@ -23,7 +23,7 @@ title: +भारतेषु गृहे शिक्षणम्
   - Alternative: Homeschooling via Wolsey Hall Oxford.
 
 ### NIOS
-National Institute of Open Schooling is an Autonomous Institution under Ministry of HRD, Govt. of India. It is the largest open schooling System in the world. 
+National Institute of Open Schooling is an Autonomous Institution under Ministry of HRD, Govt. of India. It is the largest open schooling System in the world. 
 
 - nios.ac.in
 - [@niostwit](https://twitter.com/niostwit)
@@ -45,10 +45,10 @@ National Institute of Open Schooling is an Autonomous Institution under Ministry
 
 ## Groups
 
-- मेलनानि \- २०१६ [अत्र](https://svargaonearth.wordpress.com/2016/03/04/bye-bye-to-bras/comment-page-1/#comment-62)।
+- मेलनानि \- २०१६ [अत्र](https://svargaonearth.wordpress.com/2016/03/04/bye-bye-to-bras/comment-page-1/#comment-62)।
 - [Swashikshan - Indian Association of Homeschoolers](http://homeschoolers.in/) who hold [Conferences](http://homeschoolers.in/indian-homeschoolers-conference-2014/). [FB](https://www.facebook.com/pg/swashikshan/posts/).
 - [Shikshantar](http://www.swaraj.org/shikshantar/) that support homeschooling /unschooling through [The Peoples' Institute for Rethinking Education and Development](http://www.swaraj.org/shikshantar/resisting.html)
--  RSS-शाखाम् अपि गच्छेत्! 
+-  RSS-शाखाम् अपि गच्छेत्! 
 - General groups
     - Hindu homeschoolers group [FB](https://www.facebook.com/groups/2696244893928033).
     - Homeschoolers Nook [FB](https://www.facebook.com/groups/817319035022430)

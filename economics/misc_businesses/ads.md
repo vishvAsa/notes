@@ -42,7 +42,7 @@ In case of search engines, the visitor’s intention is judged using the search 
 
 #### Search phrase targeting
 
-Advertisers can specify positive and negative keywords. \[**Incomplete**\]
+Advertisers can specify positive and negative keywords. \[**Incomplete**\]
 
 #### Case study
 

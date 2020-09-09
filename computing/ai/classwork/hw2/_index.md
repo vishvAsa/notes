@@ -19,7 +19,7 @@ My answers are in italics. All code may be found in the Edlab machines in the pa
             - Add a binary constraint which connects x(A,B) and B, such that, if x(A,B) is assigned the value (a,b), then B will be assigned the value b.
             - Add a binary constraint which connects x(A,B) and C, such that, if x(A,B) is assigned the value (a,b), then C will be allowed all values which would have been allowed by the constraint t(A,B,C).
         - Now, the altered CSP, is equivalent to the original CSP for the following reasons:
-            - All variables remain subject to all constraints except t(A,B,C).
+            - All variables remain subject to all constraints except t(A,B,C).
             - Also, the set of values from the cartesian product d(A)d(B)d(C) which satisfies t(A,B,C) remains exactly the same after CSP is altered, due to the creation of the new binary constraints.
             - Hence: Any assignment of values to V, which was admissible in the original CSP should be admissible in the new CSP. And, any assignment of values to V, which was inadmissible in the original CSP should be inadmissible in the new CSP.
         - Hence, we have shown that a single ternary constraint such as "A+B=C" can be turned into three binary constraints by using an auxiliary variable.
@@ -28,12 +28,12 @@ My answers are in italics. All code may be found in the Edlab machines in the pa
         - Arbitrarily select a subset of those variables, S, whose size is |n-1|. Let the variable included in n(v1,v2,...vn), but not in S, be vy.
         - Alter the CSP as follows:
             - Add an auxiliary variable, x(S). Its domain will be the cartesian product of the domains of all variables which belong to S.
-            - Remove the constraint n(v1,v2,...vn).
+            - Remove the constraint n(v1,v2,...vn).
             - For each variable vx in S, add a binary constraint which connects x(S) and vx, such that, vx will be constrained to take up whatever value vx holds in the assignment to the variable x(S).
             - Add a binary constraint which connects x(S) and vy, such that, if x(S) is assigned the value val(S), then vy will be allowed all values which would have been allowed by the constraint n(v1,v2,...vn).
         - Now, the altered CSP, is equivalent to the original CSP for the following reasons:
-            - All variables remain subject to all constraints except n(v1,v2,...vn).
-            - Also, the set of values from the cartesian product of the domains of all variables which belong to S, which satisfies n(v1,v2,...vn) remains exactly the same after CSP is altered, due to the creation of the new binary constraints.
+            - All variables remain subject to all constraints except n(v1,v2,...vn).
+            - Also, the set of values from the cartesian product of the domains of all variables which belong to S, which satisfies n(v1,v2,...vn) remains exactly the same after CSP is altered, due to the creation of the new binary constraints.
             - Hence: Any assignment of values to V, which was admissible in the original CSP should be admissible in the new CSP. And, any assignment of values to V, which was inadmissible in the original CSP should be inadmissible in the new CSP.
         - Hence, we have shown that a single n-ary constraint can be turned into n binary constraints by using an auxiliary variable.
     - Finally, show how unary constraints can be eliminated by altering the domains of variables.
@@ -53,7 +53,7 @@ My answers are in italics. All code may be found in the Edlab machines in the pa
         - If we were to apply the above procedure to every unary constraint in a given CSP, we will be left with an equivalent CSP without any unary constraint.
     
       
-We show that any CSP with finite domains for each variable can be transformed into a CSP with only binary constraints.
+We show that any CSP with finite domains for each variable can be transformed into a CSP with only binary constraints.
 
 - Consider a CSP with finite domains for each variable.
 - Eliminate unary constraints by using the procedure described in answer to question 1.3.
@@ -72,13 +72,13 @@ Hence, we have proved that, if the above procedure is applied, any CSP that has 
     
     You need to write a program that can solve Sudoku problem instances. To test your program, you should apply it to the following 16 puzzles:
     
-    Puzzle [001](sudoku/puz-001.txt)   
+    Puzzle [001](sudoku/puz-001.txt)   
     
-    Puzzle [002](sudoku/puz-002.txt)   
+    Puzzle [002](sudoku/puz-002.txt)   
     
-    Puzzle [010](sudoku/puz-010.txt)   
+    Puzzle [010](sudoku/puz-010.txt)   
     
-    Puzzle [015](sudoku/puz-015.txt)   
+    Puzzle [015](sudoku/puz-015.txt)   
     
     Puzzle [025](sudoku/puz-025.txt)
     
@@ -142,7 +142,7 @@ Now instrument backtracking-search so that it counts the total number of _guesse
   
 
 - I have written code to do the above. The methods plain\_backtracking\_search and mrv\_backtracking\_search may be found in the class Sudoku.
-- The following trace shows the number of guesses required by plain\_backtracking\_search and to solve the problem (As expected, the number of "guesses", remains the same for mrv\_backtracking\_search.):
+- The following trace shows the number of guesses required by plain\_backtracking\_search and to solve the problem (As expected, the number of "guesses", remains the same for mrv\_backtracking\_search.):
     - Oct 14, 2007 4:10:30 PM csp.Sudoku runTests  
         INFO: puz-001.txt  
         Oct 14, 2007 4:10:31 PM csp.Sudoku solvePuzzle  
@@ -356,8 +356,8 @@ Now, find some Sudoku inference methods on the web (ones written in English, of 
 **5.** (10) Design and implement a Sudoku puzzle generator that can generate puzzles of a desired difficulty. Explain your approach and provide sample puzzles of various degrees of difficulty. For extra fun, you may pass the hardest puzzles you can create to your friends to see if their solvers can solve them without guessing.
 
 - I have implemented a Sudoku puzzle generator (Sudoku.makePuzzle method) with 4 difficulty levels ranging from 0 to 3. The 3rd level is the hardest. It is modelled after the puzzles and the difficulty levels provided with this assignment. I have observed that those 16 puzzles were of varying levels of difficulty and that their difficulty was related to the number of guesses a CSP solver with constraint propogration in the form of maintenance of arc-consistency and path-consistency had to make. I also think that since the puzzles were picked from a book meant for human solvers, they may more accurately reflect the level of difficulty perceived by humans.
-- I generate puzzles by randomly picking a puzzle of the desired difficulty from the set of 16 puzzles provided with this paper, randomly changing the numbers filled therein, and then randomly reflecting the resultant puzzle accross the axes and the origin of a rectangular coordinate system centered at the middle of the puzzle.
-- My puzzle generator is capable of generating 9!(4x) unique puzzles of a given difficulty level, where x is the number of examples of a particular difficulty class provided in this question paper.  
+- I generate puzzles by randomly picking a puzzle of the desired difficulty from the set of 16 puzzles provided with this paper, randomly changing the numbers filled therein, and then randomly reflecting the resultant puzzle accross the axes and the origin of a rectangular coordinate system centered at the middle of the puzzle.
+- My puzzle generator is capable of generating 9!(4x) unique puzzles of a given difficulty level, where x is the number of examples of a particular difficulty class provided in this question paper.  
     
 - Examples of puzzles of the four difficulty levels generated, with their solutions, are given below:
 
