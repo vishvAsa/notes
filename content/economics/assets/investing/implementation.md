@@ -31,7 +31,7 @@ In a large study in 1991-1996, active traders (avg portfolio turnover was 75%) p
 ## Rebalancing
 
 - Rebalance as often as you like in tax free (retirement) accounts \[considering trading fees\], and perhaps annually on taxed accounts (short term gains tax is higher).
-- When the market is down, you might want to buy more stocks - not because you want to "time" the market, but because your holdings don't match the target portfolio because of devalued equities. 
+- When the market is down, you might want to buy more stocks - not because you want to "time" the market, but because your holdings don't match the target portfolio because of devalued equities. 
 
 ## Purchase and selling
 

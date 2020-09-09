@@ -8,7 +8,7 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 - But, please see other objection lists below. Where possible we try to avoid repeating answers.:
   - [NC](http://www.naturalchild.org/common_objections/).
   - [Unschooling FAQ](https://unschoolingtouniversity.com/unschooling-faq/)
-  - अमृतवर्षिण्य् [अत्र](https://www.youtube.com/watch?v=3D37Oy-p-TQ&feature=youtu.be&t=1517)।
+  - अमृतवर्षिण्य् [अत्र](https://www.youtube.com/watch?v=3D37Oy-p-TQ&feature=youtu.be&t=1517)।
 
 ## Socialization
 
@@ -16,7 +16,7 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 
 **Answer**:
 
-- Our kids will have plenty of opportunities to fight and cooperate with other kids - and even adults. They will be adequate (unsupervised) playtime.
+- Our kids will have plenty of opportunities to fight and cooperate with other kids - and even adults. They will be adequate (unsupervised) playtime.
 - "Forced association is not socialization."
 - Company that a child gains at school is pretty random - and not necessarily healthy overall. Several of the little brats will be mean bullies, dullards and otherwise indigent. We know of children lost and dispirited due to bullying. With our techniques, we will aim to provide a healthy and dhArmika peer group - while allowing for _small_ exposure to the mean, the bad and the ugly.
 
@@ -24,7 +24,7 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 
 - India
     - The kids will go to daily RSS shAkhA-s, volunteer at various dhArmika initiatives and be quite well equipped to cooperate for dharma - and crack open enemy skulls.
-        - **Sub-objection**: Aren't RSS and the like a bit radical/ extreme? **Answer**: No! That's your silly perception. It is extreme - ie extremely good. We want to be extremely good hindu-s. Even our fathers happily participated.
+        - **Sub-objection**: Aren't RSS and the like a bit radical/ extreme? **Answer**: No! That's your silly perception. It is extreme - ie extremely good. We want to be extremely good hindu-s. Even our fathers happily participated.
 - USA - CA
     - Plenty of park days with local home-schoolers.
     - Weekly HSS shAkhA-s.
@@ -44,20 +44,20 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 
 ## Discipline
 
-**Objection**: The kid won't listen to and learn from you. **Discipline** is required - school can give that better.
+**Objection**: The kid won't listen to and learn from you. **Discipline** is required - school can give that better.
 
 **Answer**:
 
 - There is a tradeoff between discipline and freedom to pursue one's natural learning preferences. We prefer to not shove "learning" down the child's throat - to the extant possible, while still focusing on imparting important and basic skills and knowledge (listed [here](https://checkvist.com/checklists/575542-desiderata)).
 - Discipline is important -
     - those of us responsible for educating the child are confident in our ability to firmly and calmly enforce rules required of a brahmachArin - while being careful not to spark counter-productive rebellion. (Eg. to note: we have experience increasing our household saMskAra-s.)
-    - Discipline will be inculcated indirectly via special activities and classes (veda memorization, RSS shAkha-s, volunteering, ... ); and through sagely lore.  (Personality shaping would have to be done in such an indirect way that the subject would not realize exactly how he is being shaped until it's just a deep essential part of who he is.)
+    - Discipline will be inculcated indirectly via special activities and classes (veda memorization, RSS shAkha-s, volunteering, ... ); and through sagely lore.  (Personality shaping would have to be done in such an indirect way that the subject would not realize exactly how he is being shaped until it's just a deep essential part of who he is.)
 
 ## Peer learning
 - It is true that some skills and knowledge is imparted better in the company of other students. For example: vedic chanting and memorization, songs, dance, games.. We will ensure that such company is not lacking within those contexts.
-- Mastery over many other skills and branches of knowledge is a matter of (mostly) solitary effort - and our personal coaching more than suffices. This we know from our own learning experience - we did not benefit so much from peers in our studies of history, civics, chemistry or mathematics. That said, in the age of the internet ([https://math.stackexchange.com](https://math.stackexchange.com), [stackoverflow.com](http://stackoverflow.com), reddit, ...) and exams, learning will by no means happen in isolation.
+- Mastery over many other skills and branches of knowledge is a matter of (mostly) solitary effort - and our personal coaching more than suffices. This we know from our own learning experience - we did not benefit so much from peers in our studies of history, civics, chemistry or mathematics. That said, in the age of the internet ([https://math.stackexchange.com](https://math.stackexchange.com), [stackoverflow.com](http://stackoverflow.com), reddit, ...) and exams, learning will by no means happen in isolation.
 
-## Who does it? Idiots and paupers. 
+## Who does it? Idiots and paupers. 
 
 **Objection**: Home-schooling is for "special" kids with learning disabilities or poor kids.
 
@@ -66,7 +66,7 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 - Every child is a special child - with special interests and abilities, so factory model is suboptimal in the first place.
 - It is true that some kids resort to open/ home schooling out of compulsion as a second choice. On the other hand -highly gifted children, as well as normal kids, as well as those with learning disabilities **opt for** home-schooling. See examples listed below.
 - Famous homeschoolers -
-    - Promethea \[[AT](https://magazine.atavist.com/promethea-unbound-child-genius-montana)\]. US and world leaders - [HS](https://www.homeschoolacademy.com/a/famoushomeschoolers/), [Wiki](https://en.wikipedia.org/wiki/List_of_homeschooled_people).
+    - Promethea \[[AT](https://magazine.atavist.com/promethea-unbound-child-genius-montana)\]. US and world leaders - [HS](https://www.homeschoolacademy.com/a/famoushomeschoolers/), [Wiki](https://en.wikipedia.org/wiki/List_of_homeschooled_people).
 - See [India examples page](../india/examples/).
 - Canada: Most homeschooling families estimate that about 10 percent of homeschoolers unschool.
 - Australia- [HSAU](http://homeschoolaustralia.com/articles/quotes.html)
@@ -96,7 +96,7 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 
 ## Someone like you!
 
-**Objection: **If you are a kid's guru, he will become a "bad" person like you.
+**Objection: **If you are a kid's guru, he will become a "bad" person like you.
 
 **Answer**:
 
@@ -105,7 +105,7 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 
 ## Outcomes and stats
 
-- A big paid bibliography is avaliable at [NHERI site](https://www.nheri.org/research-facts-on-homeschooling/) for you to buy. (We're satisfied with anecdotes and public data, thank you.)
+- A big paid bibliography is avaliable at [NHERI site](https://www.nheri.org/research-facts-on-homeschooling/) for you to buy. (We're satisfied with anecdotes and public data, thank you.)
 - About prodigies: "there are no 'secrets' other than innate ability, the right environment & driven parents."
 
 ### (In)Effectiveness of conventional education
@@ -113,7 +113,7 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 
 ### 2018 stats
 
-- There are about 2.3 million home-educated students in the United States (as of spring 2016). This is up from one estimate that there were about 2 million children (in grades K to 12) home educated during the spring of 2010 in the United States (Ray, 2011). It appears the homeschool population is continuing to grow (at an estimated 2% to 8% per annum over the past few years). An estimated 3.4 million U.S. adults have been homeschooled for at least one year of their K-12 years, and they were homeschooled an average of 6 to 8 years. If one adds to this number the 2.3 million being homeschooled today, an estimated 5.7 million Americans have experienced being homeschooled. 
+- There are about 2.3 million home-educated students in the United States (as of spring 2016). This is up from one estimate that there were about 2 million children (in grades K to 12) home educated during the spring of 2010 in the United States (Ray, 2011). It appears the homeschool population is continuing to grow (at an estimated 2% to 8% per annum over the past few years). An estimated 3.4 million U.S. adults have been homeschooled for at least one year of their K-12 years, and they were homeschooled an average of 6 to 8 years. If one adds to this number the 2.3 million being homeschooled today, an estimated 5.7 million Americans have experienced being homeschooled. 
 - The home-educated typically score 15 to 30 percentile points above public-school students on standardized academic achievement tests. (The public school average is the 50th percentile; scores range from 1 to 99.) A 2015 study found Black homeschool students to be scoring 23 to 42 percentile points above Black public school students (Ray, 2015).
 - The home-educated are doing well, typically above average, on measures of social, emotional, and psychological development. Research measures include peer interaction, self-concept, leadership skills, family cohesion, participation in community service, and self-esteem.
 

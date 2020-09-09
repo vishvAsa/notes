@@ -7,10 +7,10 @@ title: Arts
 ## सर्वम्
 - [Sulekha Events](http://events.sulekha.com/bay-area).
 - [Desi recreation group FB](https://www.facebook.com/groups/92944758105/).
-- High noise [Desi group on FB](https://www.facebook.com/groups/6055928945/).
-- LOTUS volunteer group - [FB](https://www.facebook.com/pages/Lotus-Bay-Area/113733485306833), [web](http://www.svlotus.com/procedure), .
-- दक्षिणभारतकलाः [FB](https://www.facebook.com/carnaticmusicbayarea) [web](http://www.southindiafinearts.org/).
-- Bay area temples [FB](https://www.facebook.com/groups/bayareatemples/?ref=suggested_groups) (High noise).
+- High noise [Desi group on FB](https://www.facebook.com/groups/6055928945/).
+- LOTUS volunteer group - [FB](https://www.facebook.com/pages/Lotus-Bay-Area/113733485306833), [web](http://www.svlotus.com/procedure), .
+- दक्षिणभारतकलाः [FB](https://www.facebook.com/carnaticmusicbayarea) [web](http://www.southindiafinearts.org/).
+- Bay area temples [FB](https://www.facebook.com/groups/bayareatemples/?ref=suggested_groups) (High noise).
 
 ## मन्दिराणि
 - [maps](https://www.google.com/maps/place/Shiv+Durga+Temple/@37.538644,-122.1883825,11z/data=!4m5!1m2!2m1!1shindu+temples+bay+area!3m1!1s0x0000000000000000:0xc703dfee5f73a931)

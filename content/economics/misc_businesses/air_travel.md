@@ -100,4 +100,4 @@ Early termination involves payment of certain fees. If a person is terminating t
 
 ##### Renewal
 
-Companies offer to renew the contract before the termination \[**Incomplete**\]
+Companies offer to renew the contract before the termination \[**Incomplete**\]

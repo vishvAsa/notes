@@ -36,7 +36,7 @@ In the past monarchy, based on armed or religous support, was common. Succession
 
 ### Democracy
 
-In democracies, legislatures are constituted by election. \[**Incomplete**\]
+In democracies, legislatures are constituted by election. \[**Incomplete**\]
 
 ## Income
 

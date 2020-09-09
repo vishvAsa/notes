@@ -28,7 +28,7 @@ title: Un-schools
 - शिक्षणतत्त्वम्
   - न परीक्षाः।
   - उद्यमिनो भविष्यन्ति छात्रा अग्रे।
-  - Rudolf Steiner इत्यस्य प्रभावेण Jiddu-Krishnamurti संस्थायाः‌शाला द्वित्राश् चलन्ति बॆङ्गळूरुनगरे महार्हाः (१+ लक्षाणां शुल्कं स्यान् मासे)। Waldorf education/ Steiner education  ([wiki](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Waldorf_education&sa=D&ust=1565281940550000)) इति प्रसिद्धिः।
+  - Rudolf Steiner इत्यस्य प्रभावेण Jiddu-Krishnamurti संस्थायाः‌शाला द्वित्राश् चलन्ति बॆङ्गळूरुनगरे महार्हाः (१+ लक्षाणां शुल्कं स्यान् मासे)। Waldorf education/ Steiner education  ([wiki](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Waldorf_education&sa=D&ust=1565281940550000)) इति प्रसिद्धिः।
     - “Hand Heart Head” इति तत्त्वत्रयमपि मनसि निदधति।
     - “Give knowledge when the child is hungry for it” इति तत्त्वम्।
     - ८ वर्षेभ्यः परमेवाक्षराभ्यासः! किञ्च शीघ्रमेव लभन्ते कौशलम् बालाः।

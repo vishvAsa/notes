@@ -7,7 +7,7 @@ title: +Programming
 For distributed computing, computer networks, software engineering, see elsewhere.
 
 Also of interest -
-- [Programming languages](programmingLanguages/programmingLanguages.pdf). [Spreadsheet](https://docs.google.com/spreadsheet/pub?key=0Al_QBT-hoqqVdFJWbmdBdG9rQkpMSVlNU3JHbnFMYnc&output=html).  
+- [Programming languages](programmingLanguages/programmingLanguages.pdf). [Spreadsheet](https://docs.google.com/spreadsheet/pub?key=0Al_QBT-hoqqVdFJWbmdBdG9rQkpMSVlNU3JHbnFMYnc&output=html).  
 
 Architecture considers how code may be organized.
 

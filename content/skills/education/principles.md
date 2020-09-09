@@ -8,7 +8,7 @@ title: Principles
 
 प्राचीनेषु+उदाहरणानि -
 
-- [Paidea](https://en.wikipedia.org/wiki/Paideia) 
+- [Paidea](https://en.wikipedia.org/wiki/Paideia) 
 
 ## विषयचयने
 - "We are moving as a society from content to competencies. It is not just what you know, but what you can do with what you know."
@@ -48,8 +48,8 @@ title: Principles
   - सत्सङ्ग-रक्षणं विशिष्य।
   - Avoid age segregation. [PT08](https://www.psychologytoday.com/us/blog/freedom-learn/200809/why-we-should-stop-segregating-children-age-part-i?fbclid=IwAR3-DH9_fw4LezAM7L_cryu-C63i6jskdagRD-LmHJVT4_DXEB-Ta2ooToo)
 - सुरक्षा-प्रदानं यथापेक्षम्
-    - This principle applies in general: A person needs a "secure base" from which he ventures out and learns about the world.
-        - Initially, a child finds this "secure base" in the mother, father, surrounding family and friends.
+    - This principle applies in general: A person needs a "secure base" from which he ventures out and learns about the world.
+        - Initially, a child finds this "secure base" in the mother, father, surrounding family and friends.
         - Later this "secure base" can be something more abstract - the dharma realized by daily rituals; frequently propitiated deities.
 - अज्ञानदर्शनेन प्रोत्साहनम्।
   - Target standardized tests and milestones
@@ -70,12 +70,12 @@ title: Principles
   - don't replicate school at home - boxed syllabus, factory model.
 - अनासक्ताय शिक्षनम् क्वचित्
     - अन्यथा वक्रताऽश्रयणीया
-        - randy-pausch head-fake [SM](https://groups.google.com/forum/#!topic/sadaswada/gdNblE48JhI)
+        - randy-pausch head-fake [SM](https://groups.google.com/forum/#!topic/sadaswada/gdNblE48JhI)
 
 #### वक्रता ऋजुता च।
 - उचितस्थानेषु स्पष्टता ऋजुता, अन्यथा वक्रता च।
 - वक्रता-प्रयोजनानि
     - दुरहङ्कार-जन्य-बाधावारणम्
-- वक्रता यथा सद्भावपूर्णताचोदने वयस्यप्रभावः, काव्यानि, अनुष्ठानञ्च (Personality shaping would have to be done in such an indirect way that the subject would not realize exactly how he is being shaped until it's just a deep essential part of who he is.)
+- वक्रता यथा सद्भावपूर्णताचोदने वयस्यप्रभावः, काव्यानि, अनुष्ठानञ्च (Personality shaping would have to be done in such an indirect way that the subject would not realize exactly how he is being shaped until it's just a deep essential part of who he is.)
 - सम्बद्ध-चर्चाः
     - randy-pausch head-fake [SM](https://groups.google.com/forum/#!topic/sadaswada/gdNblE48JhI)\]

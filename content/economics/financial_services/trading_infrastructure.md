@@ -31,7 +31,7 @@ zecco seems to have issues in order execution, severe ACH transfer delays, horre
 ## Fees
 
 - Exchange fees
-    - When a market charges taker and maker fees, they differentiate whether you're increasing the size of the order book or decreasing the size of the order book. When you create an order that is immediately matched with already existing orders, you're a taker because you take liquidity from the market.
+    - When a market charges taker and maker fees, they differentiate whether you're increasing the size of the order book or decreasing the size of the order book. When you create an order that is immediately matched with already existing orders, you're a taker because you take liquidity from the market.
 - Brokerage fees
 - Taxes
     - On transaction

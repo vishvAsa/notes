@@ -24,16 +24,16 @@ summary: Welcome page.
 ## Scribe notes:
 
 - (These are required as part of some courses.)
-- Computational Learning Theory: [Introduction to hardness of learning results](computing/colt/scribeNotes/scribeNotes.pdf).
-- Graphical Models (Spring 2010): [The junction tree algorithm](math/probability/probabilisticModels/graphicalModels/scribeNotes/junctionTrees.pdf).
-- Graphical Models (Spring 2010): [Sparse representations in an overcomplete basis](computing/numericalAnalysis/exposition/sparseRepresentations/scribedNotes.pdf).  
+- Computational Learning Theory: [Introduction to hardness of learning results](computing/colt/scribeNotes/scribeNotes.pdf).
+- Graphical Models (Spring 2010): [The junction tree algorithm](math/probability/probabilisticModels/graphicalModels/scribeNotes/junctionTrees.pdf).
+- Graphical Models (Spring 2010): [Sparse representations in an overcomplete basis](computing/numericalAnalysis/exposition/sparseRepresentations/scribedNotes.pdf).  
 
 
 ## Exposition:
 
-- Calculating [Area under the ROC curve from a score vector](math/probability/statistics/AUCFromScores/AUCFromScores.pdf), while resolving ties correctly.     
-- A [talk](math/linAlg/exposition/kyFanNorms/kyFanNorms.pdf) on Ky Fan (p, k) norms, April 2009, UT Data Mining Laboratory.
-- And [other talks](https://vvasuki.github.io/resumeLand/vishvasVasukiCV.pdf).
+- Calculating [Area under the ROC curve from a score vector](math/probability/statistics/AUCFromScores/AUCFromScores.pdf), while resolving ties correctly.     
+- A [talk](math/linAlg/exposition/kyFanNorms/kyFanNorms.pdf) on Ky Fan (p, k) norms, April 2009, UT Data Mining Laboratory.
+- And [other talks](https://vvasuki.github.io/resumeLand/vishvasVasukiCV.pdf).
 
 ![Sri Yantra](http://upload.wikimedia.org/wikipedia/commons/f/f0/Meru1.jpg)
 

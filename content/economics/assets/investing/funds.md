@@ -14,7 +14,7 @@ Both index and human-managed funds need to pay brokerage costs. Managed funds us
 
 Over a long period of time, index funds seem to be equal to or better than most managed funds in terms of return on investment/ growth - excepting those following a good long-term investment philosophy.
 
-Expense ratio eats into the annual return and affects performance - [IMG](https://i.imgur.com/vxtrHve.jpg). Factor both into account when picking a fund.
+Expense ratio eats into the annual return and affects performance - [IMG](https://i.imgur.com/vxtrHve.jpg). Factor both into account when picking a fund.
 
 ### Fee types
 
