@@ -21,7 +21,7 @@ title = "Ground water"
 ### Drilling
 - After picking a point, one drills down. Depth depends on water table level and desired water security. One may hit multiple aquifers at multiple depths. (120ft, 180ft ... 480ft in a ceratin site in sahakAranagara.)
 - To prevent collapse and silting, one lays in casing pipes, which have slit in them to allow in water while keeping dirt out. These prevent motors from getting clogged.
-
+- Cost - 165000 in late 2019. Texmo motor 50k (2 repairs guaranteed in first year).
 
 ## Recharge with rainwater
 “Shivakumar has also dug percolation pits in the garden around his house that help in the direct recharge of the ground water table. (Incredibly, within one year of recharge, the groundwater table around Shivakumar’s house ‘Sourabha’ rose from 200 ft to around 40 ft!)”
