@@ -10,7 +10,7 @@ title = "+Water heater"
 - Geysers save power and are more convenient as they're equipped with a thermostat.
 - With immersion coils, there is the risk of electric shock.
 - "Instant" geysers are high powered and heat fast, but have low storage capacity. They are meant to drained slowly. (4.5kw 3L was insufficient for comfortable showering.)
-- Storage geysers heat more slowly, but can be drained a lot more (20L?) at a time. Typical storage capacity - 15 - 25 L. (20L 2kW was used by 6 people in vAruNI nilaya BLR in 2020. Heating time 15/20 min.)
+- Storage geysers heat more slowly, but can be drained a lot more (20L?) at a time. Typical storage capacity - 15 - 25 L. (20L 2kW was used by 6 people in v-nilaya BLR in 2020. Heating time 15/20 min.)
 
 ## Air source heat pump
 - Inverse of an AC.
