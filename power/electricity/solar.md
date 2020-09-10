@@ -1,5 +1,5 @@
 +++
-title = "Solar Electricity"
+title = "Solar"
 +++
 
 ## Panels
@@ -25,5 +25,6 @@ Hybrid and off-grid need battery. Battery costs generally too high.
 - Calculations here
 - 25 year agreement will be between house owner and BESCOM, usually mediated by vendor
   - Takes 60 days. 
-- 65k Rs per 1 KW from https://www.zunroof.com/ . 
+- 65k Rs per 1 KW from https://www.zunroof.com/ .
+- Avg generation per KW per day in BLR (considering rain and cloud) 4kWh (as per prashant 2020).
 - On-grid costs recoverable in 6 to 7 years. Calculation sheet [here](https://docs.google.com/spreadsheets/d/1DMpn8-yrXsemJfc-8mtk_6-DIix7Ar4dhyiTmwRx5Cs/edit#gid=0).
