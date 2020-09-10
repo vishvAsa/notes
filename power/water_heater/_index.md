@@ -6,7 +6,11 @@ title = "+Water heater"
 - can set timer or switches to save power.
 
 ## Coils
-These come in multiple forms - immersion coils, geysers.
+- These come in multiple forms - immersion coils, geysers.
+- Geysers save power and are more convenient as they're equipped with a thermostat.
+- With immersion coils, there is the risk of electric shock.
+- "Instant" geysers are high powered and heat fast, but have low storage capacity. They are meant to drained slowly. (4.5kw 3L was insufficient for comfortable showering.)
+- Storage geysers heat more slowly, but can be drained a lot more (20L?) at a time. Typical storage capacity - 15 - 25 L.
 
 ## Air source heat pump
 - Inverse of an AC.
