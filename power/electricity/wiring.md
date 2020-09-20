@@ -5,10 +5,12 @@ title = "Wiring"
 ## Intro
 
 ### Common desiderata
-- Separate circuit for high power vs low power appliances. The latter may be powered by UPS systems (inverters backed by DC battery) - by putting them downstream from UPS output.
+- Separate circuit for high power vs low power appliances.
+  - The latter may be powered by UPS systems (inverters backed by DC battery) - by putting them downstream from UPS output.
 - Fuses or trip switches at switch boards and even at the plug point.
 - 2 way switches for staircase lights, bedroom lights and fans.
 - Good placement anticipating appliances like AC, fan, lights.
+- Power generated in the household (solar, wind...) may need to be consumed preferentially - or dumped to the grid. 
 
 ### Laying
 - Types: Concealed (within walls and roofs) vs exposed (within casing).
