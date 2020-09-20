@@ -38,6 +38,14 @@ wire cross section - 4mm². Smaller cross section implies higher resistance, hig
 {{< figure src="../images/home_wiring_ring_radial_2way.gif" title="" class="thumbnail">}}
 {{< figure src="../images/ring_circuit.jpg" title="" class="thumbnail">}}
 
+### Series
+- \\(V = V_1 + V_2 = I(R_1 + R_2)\\)
+- Current accross the loads \\(R_1\\) and \\(R_2\\) is the same. Voltage is split. 
+
+### Parallel
+- Voltage in the branches accross the loads \\(R_1\\) and \\(R_2\\) is the same. Current is split.
+- \\(V=I_1 R_1 + I_2 R_2)\\)
+
 
 ## Fuse box
 - Aka Circuit breaker box, fuse box, consumer unit
