@@ -7,6 +7,7 @@ title = "Measurement"
 
 ## Support for current
 - Potential difference V. Units: Volts
+- V = IR
 
 ## Opposition to current
 ### Components
@@ -18,3 +19,9 @@ title = "Measurement"
   - Capacitive Reactance - Decreases with frequency. \\(X_C = \dfrac{1}{2 \pi f C} \\). DC has infinite \\(X_C\\).
   - Inductive reactance \\(X_L = 2 \pi fL\\). Increases with frequency. DC has zero  \\(X_L\\)
   - \\(X = X_L - X_C\\)
+
+## Power
+- \\(P = VI = V^2/R = I^2R\\). 
+- To reduce power consumption, V being constant, reduce I.
+  - In a parallel circuit, can turn off branches (as \\(I = I_1 + I_2\\) ).
+  - In a series circuit, increase the resistance in the regulator/ rheostat (as \\(R = R_1 + R_2\\) ).
