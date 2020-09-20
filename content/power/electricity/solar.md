@@ -12,7 +12,7 @@ Hybrid and off-grid need battery. Battery costs generally too high.
 
 ### Circuit details
 - Panels (PV cells connected in series) generate DC electricity. Output is 24V or 12V usually.
-- Panel output is connected to inverter and then to AC load or bi-drectional meter.
+- Panel output is connected to inverter and then to AC load or bi-directional meter.
 - There may be just 1 inverter for all panels (common in off-grid or hybrid systems). Or there may be 1 "micro inverter" per panel (common in on-grid systems).
 - Additionally, there may be good lightening arrestor and earthing. 
 - Multiple panels connected in parallel may be connected in parallel to a battery and single inverter (in case of hybrid system).
@@ -26,8 +26,7 @@ Hybrid and off-grid need battery. Battery costs generally too high.
 
 
 ## Inverters
-- Microinverters - one per solar panel are better than "one for all" inverters. Can optimize performance and monitor better. Lower power eliminates many problems.
-- High rated microinverter manufacturers include: Enphase.
+- See separate page
 
 ## On-grid BLR Cost
 - Billing

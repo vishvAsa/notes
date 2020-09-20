@@ -23,17 +23,7 @@ title = "Building"
 - Beams and pillars are made of wood.
 
 ## Wiring
-### Common desiderata
-- Separate circuit for high power vs low power appliances. The latter may be powered by UPS systems (inverters backed by DC battery).
-- Fuses or trip switches at switch boards and even at the plug point.
-- 2 way switches for staircase lights, bedroom lights and fans.
-- Good placement anticipating appliances like AC, fan, lights.
-
-### Technique
-- Types: Concealed (within walls and roofs) vs exposed (within casing).
-- In case of concealed wiring in supporting walls, wiring design seeks to minimize horizontal groves within walls (barring above and below windows) so as to not reduce effective wall thickness. Vertical groves are ok.
-- Wires are sent in hops from point to point (via pipes which oft drop from the roof) - so that theoretically any point may be connected to any other point via other points. A practical limitation arises from the number of wires vs thickness of pipes.
-- Wires are threaded through pipes by pushing in steel springs.
+Considered in electricity pages.
 
 ## Off beat teams
 ### Design teams (Bengaluru)
