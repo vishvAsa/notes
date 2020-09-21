@@ -45,6 +45,7 @@ wire cross section - 4mm². Smaller cross section implies higher resistance, hig
 ### Parallel
 - Voltage in the branches accross the loads \\(R_1\\) and \\(R_2\\) is the same. Current is split.
 - \\(V=I_1 R_1 + I_2 R_2)\\)
+- \\R=\dfrac{(I_1 R_1 + I_2 R_2)}{I_1 + I_2}\\)
 
 
 ## Fuse box
