@@ -38,3 +38,6 @@ Hybrid and off-grid need battery. Battery costs generally too high.
 ### Application
 - Ecosoch list [here](https://www.ecosoch.com/bescom-procedure-to-obtain-solar-rooftop-system/).
 - Info site [here](https://bescom.karnataka.gov.in/new-page/Guidelines%20and%20Forms/en). Online app - [here](http://srtpv.bescom.org/SRTPV/).
+- Empanelled equipment list
+ - inverters [here](https://bescom.karnataka.gov.in/storage/pdf-files/DSM-Solar/Empanelled%20List.pdf).
+ - meters [here](https://bescom.karnataka.gov.in/new-page/EMPANELMENT/en).
