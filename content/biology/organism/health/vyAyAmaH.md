@@ -34,6 +34,9 @@ There are different health tests a person can do: In a clinic/lab – blood test
 ### Flexibile intensity
 The idea is that you train how you feel on the day, and use your program as a guide not as an absolute. This meant that when you were fresh you might do more; when tired you do less. Aka intuitive/ agile training. Intuitive training isn't an excuse to slack, it's an attempt to work with the body.
 
+### Chronic long endurence exercise
+"If you insist on doing chronic long endurance exercise when you're older swap from weight-bearing (running) to non-weight bearing exercise (swimming, cycling, rowing, etc). Only excepting is normal walking. ... Chronic running when you're older is a disaster  - injuries, joint probs, etc.." Exception to non-weight bearing clause: "Intense/robust exercise, HIIT, intervals, RT - it is essential to do weight-bearing exercise, but you can add non weight-bearing as well."
+
 ## Motivation
 - "As a biological organism the human body is adaptive; more than that, it is antifragile, this is an important distinction in that things that are antifragile need stress to improve."
 - Sedentary lifestyle is a major underlying cause of death, disease, and disability. \[[Ref](http://www.who.int/moveforhealth/advocacy/information_sheets/sedentary/en/index.html)\] It is characterized by sitting or remaining inactive for most of the day. \[[Ref](http://en.wikipedia.org/wiki/Sedentary)\]
