@@ -18,14 +18,6 @@ title = "Wiring"
 - Wires are sent in hops from point to point (via pipes which oft drop from the roof) - so that theoretically any point may be connected to any other point via other points. A practical limitation arises from the number of wires vs thickness of pipes.
 - Wires are threaded through pipes by pushing in steel springs.
 
-## Wire gauge
-### Heating circuit 
-wire cross section - 4mm². Smaller cross section implies higher resistance, higher heat and consequent damage (melting insulation, plugs etc..). 
-
-### Solar power
-- DC cables - use bigger cross sections (4mm²) to minimize losses.
-- Inverter to meter cables - at least 6mm². Increase with length.
-
 ## Circuit types
 - Ring circuit
   - live, neutral and earth each have 2 conductors at every socket.
