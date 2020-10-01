@@ -26,3 +26,6 @@ title = "Steel"
 ## Cast Iron
 - >2% carbon. Brittle.
 - Most cast iron plumbing systems had at least one leak within 20 years of installation
+
+## Galvanized Iron
+- Galvanized steel has zinc layer on the surface level, which when there is scratch, it tends to corrode.
