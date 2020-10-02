@@ -24,3 +24,8 @@ title = "Battery"
 ### Series connection
 - Cell mismatch can lead to big drop in voltage.
 
+## Li ion batteries
+### Capacity
+- Charge cycles: Current li-ion cell battery packs can last WAAAAAY longer than 500 charge cycles. Even towards the end of life, the battery itself does not stop functioning - just the charge capacity drops from 100% maybe 70-80%
+- Aging: Li-ion cells are affected more by calendar year than charge cycles. If you were to keep an EV for 5+ years and use it very very rarely (let's say 100 charge cycles in 5 years), you would still see the capacity drop due to calendar aging.
+- 70% SoC = the battery is currently operating at 70% of its capacity. 
