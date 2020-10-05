@@ -12,6 +12,10 @@ title = "Effects"
 
 ### Severity
 - "For COVID-19, data to date suggest that 80% of infections are mild or asymptomatic, 15% are severe infection, requiring oxygen and 5% are critical infections, requiring ventilation." - [WHO-2020-03-06](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_4)
+- Indian scenario highest mortality between the age 40-70 years. 56% of the severely affected in India are under 40's.
+
+{{< figure src="../images/coronavirus-progression-tree.jpg" title="" class="thumbnail">}}
+
 
 ## Long term effects
 ### Heart
