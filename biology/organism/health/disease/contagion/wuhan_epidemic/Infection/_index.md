@@ -12,3 +12,6 @@ title = "+Infection"
 - "The main sources for infection are home, workplace, public transport, social gatherings, and restaurants. This accounts for 90% of all transmission events. In contrast, outbreaks spread from shopping appear to be responsible for a small percentage of traced infections. ... When assessing the risk of infection (via respiration) at the grocery store or mall, you need to consider the **volume of the air space** (very large), the **number of people** (restricted), how long people are spending in the store (workers - all day; customers - an hour)." - [EB](https://www.erinbromage.com/post/the-risks-know-them-avoid-them)
 - Air Travel: Mask is a must. Hand hygene essential.
 - स्तोत्रम् [अत्र](../../../../saMskAra/saMskAra/mantraH/rogAH/padyAni/corona-virus/)।
+
+## Reinfections
+- Total of 22 re-infections of the Corona virus have been described around the world. 8/15 cases had severe infection the second time they got infected.

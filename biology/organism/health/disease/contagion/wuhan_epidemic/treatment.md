@@ -8,7 +8,7 @@ title = "Treatment"
 
 ### Case severity
 - Non-severe - not the other two levels
-- Severe - Sp)2 < .9. Respiratory rate > 30 in adults.
+- Severe - Sp2 < .9. Respiratory rate > 30 in adults.
 - Critical
   - Life sustaining treatment needed
   - Acute respiratory syndrome
@@ -16,11 +16,15 @@ title = "Treatment"
   - Septic shock
 
 ## Severe and critical cases
+- While Dexamethasone is now proven to be beneficial at late stages, Interferon (IFN-1) administration early on likely to save lives.
 - (Systemic) Corticosteroids. Alternatives below ("No clear differences in efficacy or adverse effects between different corticosteroids"):
   - Dexamethasone 6mg oral or intravenous daily for 7-10 days.
   - Hydrocortisone 50mg IV every 6 hours 7-10 days
   - Methyl-prednisolone 10mg IV every 6 hours 7-10 days
   - Prednisone 50mg Oral - daily for 7-10 days.
+
+### Very critical cases
+- Extracorporeal membrane oxygenation (ECMO) is a final resort for critically ill COVID patients where in both the lungs and heart are given rest for the intended recovery using machines to do what heart and lungs do in our body. An international registry involving 213 hospitals across 36 countries has shown 90 day mortality of patients put on ECMO is about 38%
 
 ## Long term
 ### Look for heart damage

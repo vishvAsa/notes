@@ -8,10 +8,15 @@ Memory access could be 100 times slower than flops: this is an important conside
 
 Registers in the processor \\(>\\) On chip Cache: many layers \\(>\\) main memory \\(>\\) secondary memory located on the hard-disk for example.
 
-## SDRAM
+## Glossary
+### SDRAM
 - Working memory is capable of random, rather than serial, access. 
 - Also, it is dynamic - it retains data only when supplied electricity to periodically refresh its memory. 
 - It is commonly Synchronous - synchronized with the system bus.
+
+### DIMM
+- UDIMM (unregistered memory) faster than RDIMM (registered memory) but less stable; costs less.
+
 
 ## Speed
 - For final latency considering data rate, clock rate, latency, see "true latency" comments below. Actual data transfer speed  = true latency * read width.
@@ -58,7 +63,13 @@ bitline precharge, activate, row access, column access. Row access is the heart 
 Some motherboards support dual channel memory, which theoretically doubles the throughput if both SDRAM-slots in the contain identical memory modules.
 
 ### History
+- By 2020, 16GB was becoming a bottleneck.
 - As of 2011: 2*2 = 4GB RAM modules were economical - sometimes insufficient for programming and surfing the web simultaneously - some website/browser combos consume much memory! Macbook pro comes with 8GB RAM.
 
-## SDR SDRAM
+### Matching
+- For two different size RAM sticks to perform optimally together, they need to use the same voltage and their respective controllers should play well with each other and the motherboard. That's why it's best to use the same model in all slots. 
+- if your first stick is 4GB, you can still add a new 8GB stick. Once you switch on dual channel mode (also called flex mode), it will perform as two 4GB sticks running side by side in optimal performance. The remaining 4GB of the new stick will run in single channel mode. Overall, it's not as fast as using two sticks of the same size, but it's still faster than what you had before. 
+- "The thing about mixing RAM is even identical model number kits from the same manufacturer can be made with different ICs in different production runs. The voltage and timings can match but the subtimings can be different enough to cause errors. That's why RAM is sold in matched kits that are guaranteed to be compatible." Also, mark-up for more profit!
+
+### SDR SDRAM
 - Typical SDR SDRAM clock rates are 66, 100, and 133 MHz (periods of 15, 10, and 7.5 ns)
