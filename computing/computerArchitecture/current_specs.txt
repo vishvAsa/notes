@@ -1,46 +1,109 @@
-From Mar 16, 2018 https://gist.github.com/anonymous/fe452fb9b19d20ed9e89d03010b9bc45 
+cpu:
+                       AMD Ryzen 7 1800X Eight-Core Processor, 3219 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 3343 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 2096 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 2041 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 2245 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 2766 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 1966 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 1994 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 2175 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 2080 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 1925 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 2088 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 1900 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 1893 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 2075 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 2075 MHz
+keyboard:
+  /dev/input/event3    Alcor Micro Keyboard
+mouse:
+  /dev/input/mice      Logitech Marble Mouse (4-button)
+graphics card:
+                       nVidia GP107 [GeForce GTX 1050]
+sound:
+                       AMD Family 17h (Models 00h-0fh) HD Audio Controller
+                       nVidia GP107GL High Definition Audio Controller
+                       GN Netcom Jabra Biz 1900
+storage:
+                       AMD SATA controller
+                       AMD FCH SATA Controller [AHCI mode]
+network:
+  enp35s0              Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+  wlp33s0              Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)
+network interface:
+  wlp33s0              Ethernet network interface
+  lo                   Loopback network interface
+  enp35s0              Ethernet network interface
+disk:
+  /dev/sdb             Crucial_CT275MX3
+  /dev/sda             Samsung SSD 840
+partition:
+  /dev/sdb1            Partition
+  /dev/sdb2            Partition
+  /dev/sdb4            Partition
+  /dev/sda1            Partition
+usb controller:
+                       AMD USB Controller
+                       AMD Family 17h (Models 00h-0fh) USB 3.0 Host Controller
+bios:
+                       BIOS
+bridge:
+                       AMD Family 17h (Models 00h-0fh) PCIe GPP Bridge
+                       AMD 300 Series Chipset PCIe Port
+                       AMD Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 3
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 1
+                       AMD Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+                       AMD Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+                       AMD FCH LPC Bridge
+                       AMD 300 Series Chipset PCIe Port
+                       AMD Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+                       ASMedia ASM1083/1085 PCIe to PCI Bridge
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 6
+                       AMD Family 17h (Models 00h-0fh) Root Complex
+                       AMD Family 17h (Models 00h-0fh) Internal PCIe GPP Bridge 0 to Bus B
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 4
+                       AMD Family 17h (Models 00h-0fh) PCIe GPP Bridge
+                       AMD Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 2
+                       AMD 300 Series Chipset PCIe Port
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 0
+                       AMD Family 17h (Models 00h-0fh) Internal PCIe GPP Bridge 0 to Bus B
+                       AMD Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 7
+                       AMD PCI bridge
+                       AMD 300 Series Chipset PCIe Port
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 5
+hub:
+                       Linux Foundation 2.0 root hub
+                       NEC HighSpeed Hub
+                       Linux Foundation 3.0 root hub
+                       Linux Foundation 2.0 root hub
+                       Linux Foundation 3.0 root hub
+memory:
+                       Main Memory
+unknown:
+                       FPU
+                       DMA controller
+                       PIC
+                       Keyboard controller
+  /dev/lp0             Parallel controller
+                       AMD Family 17h (Models 00h-0fh) I/O Memory Management Unit
+                       AMD Zeppelin/Renoir PCIe Dummy Function
+                       AMD Family 17h (Models 00h-0fh) Platform Security Processor
+                       AMD FCH SMBus Controller
+                       AMD Zeppelin/Raven/Raven2 PCIe Dummy Function
+                       Serial controller
+                       Logitech HD Webcam B910
+  /dev/input/event5    Alcor Micro Keyboard
+  /dev/input/event2    GN Netcom Jabra Biz 1900
 
-System:    Host: vvasuki-desktop1803 Kernel: 4.10.0-38-generic x86_64 (64 bit gcc: 5.4.0)
-           Desktop: Cinnamon 3.6.7 (Gtk 3.18.9-1ubuntu3.3) dm: lightdm Distro: Linux Mint 18.3 Sylvia
-Machine:   Mobo: ASUSTeK model: PRIME A320M-C R2.0 v: Rev X.0x
-           Bios: American Megatrends v: 0902 date: 09/08/2017
-CPU:       Octa core AMD Ryzen 7 1800X Eight-Core (-HT-MCP-) cache: 4096 KB
-           flags: (lm nx sse sse2 sse3 sse4_1 sse4_2 sse4a ssse3 svm) bmips: 57485
-           clock speeds: min/max: 2200/3600 MHz 1: 2200 MHz 2: 2200 MHz 3: 3600 MHz 4: 2200 MHz
-           5: 2200 MHz 6: 2200 MHz 7: 2200 MHz 8: 2200 MHz 9: 2200 MHz 10: 2200 MHz 11: 2200 MHz
-           12: 2200 MHz 13: 3600 MHz 14: 2200 MHz 15: 2200 MHz 16: 2200 MHz
-Graphics:  Card: NVIDIA Device 1c81 bus-ID: 26:00.0 chip-ID: 10de:1c81
-           Display Server: X.Org 1.18.4 drivers: nvidia (unloaded: fbdev,vesa,nouveau)
-           Resolution: 1920x1080@60.00hz
-           GLX Renderer: GeForce GTX 1050/PCIe/SSE2
-           GLX Version: 4.5.0 NVIDIA 384.111 Direct Rendering: Yes
-Audio:     Card-1 Advanced Micro Devices [AMD] Device 1457
-           driver: snd_hda_intel bus-ID: 28:00.3 chip-ID: 1022:1457
-           Card-2 NVIDIA Device 0fb9 driver: snd_hda_intel bus-ID: 26:00.1 chip-ID: 10de:0fb9
-           Sound: Advanced Linux Sound Architecture v: k4.10.0-38-generic
-Network:   Card: Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
-           driver: r8169 v: 2.3LK-NAPI port: f000 bus-ID: 23:00.0 chip-ID: 10ec:8168
-           IF: enp35s0 state: up speed: 100 Mbps duplex: full mac: <filter>
-Drives:    HDD Total Size: 275.1GB (12.9% used)
-           ID-1: /dev/sda model: Crucial_CT275MX3 size: 275.1GB serial: 17511A27FB69
-Partition: ID-1: / size: 236G used: 18G (8%) fs: ext4 dev: /dev/sda2
-           ID-2: swap-1 size: 17.11GB used: 0.00GB (0%) fs: swap dev: /dev/sda3
-RAID:      System: supported: N/A
-           No RAID devices: /proc/mdstat, md_mod kernel module present
-           Unused Devices: none
-Sensors:   System Temperatures: cpu: N/A mobo: N/A gpu: 0.0:32C
-           Fan Speeds (in rpm): cpu: 0
-Repos:     Active apt sources in file: /etc/apt/sources.list.d/google-chrome.list
-           deb [arch=amd64] http: //dl.google.com/linux/chrome/deb/ stable main
-           Active apt sources in file: /etc/apt/sources.list.d/official-package-repositories.list
-           deb http: //packages.linuxmint.com sylvia main upstream import backport #id:linuxmint_main
-           deb http: //archive.ubuntu.com/ubuntu xenial main restricted universe multiverse
-           deb http: //archive.ubuntu.com/ubuntu xenial-updates main restricted universe multiverse
-           deb http: //archive.ubuntu.com/ubuntu xenial-backports main restricted universe multiverse
-           deb http: //security.ubuntu.com/ubuntu/ xenial-security main restricted universe multiverse
-           deb http: //archive.canonical.com/ubuntu/ xenial partner
-           Active apt sources in file: /etc/apt/sources.list.d/spotify.list
-           deb http: //repository.spotify.com stable non-free
-Info:      Processes: 436 Uptime: 1:05 Memory: 7332.2/16040.6MB
-           Init: systemd v: 229 runlevel: 5 default: 2 Gcc sys: 5.4.0
-           Client: Unknown python2.7 client inxi: 2.2.35
+01: None 00.0: 10102 Main Memory
+  [Created at memory.74]
+  Unique ID: rdCR.CxwsZFjVASF
+  Hardware Class: memory
+  Model: "Main Memory"
+  Memory Range: 0x00000000-0x3e894afff (rw)
+  Memory Size: 16 GB
+  Config Status: cfg=new, avail=yes, need=no, active=unknown
