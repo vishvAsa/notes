@@ -22,6 +22,6 @@ title = "Transmission mechanics"
 ## Entering cells
 Entry of the virus which happens through binding of Spike (S) protein of the virus with ACE2 receptors found in the lungs.
 
-## Travel
-- India: Risk of getting infected from another household is 9% but that becomes 79% while travelling with another infected for more than 6 hours.
-- Air travel is safer than train or bus travel - but still risky. Modern airlines have started installing HEPA filters that suck air from outside through wings,mixes with inside air in 50:50 mix,warms it up and filters off any bacteria,fungus and Viruses.
+### Hand and face
+- Virus lasts 9 hours on skin compared to 1.8 hours for Influenza.
+
