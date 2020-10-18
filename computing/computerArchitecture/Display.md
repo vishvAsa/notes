@@ -30,6 +30,7 @@ Image brightness of atleast 1400 is good (2300 was tested successfully). Lamp li
 For 340\\\), good projectors are available.
 
 ## Adjustment
+- Raise the contrast on your screen.
 - Brightness shouldn’t be lighter or darker than your surroundings.
 - Lower color temperature - less blue light, which is linked to more eyestrain.
 - Raise the device’s refresh rate. That will cause less flickering of the screen.
