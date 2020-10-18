@@ -26,6 +26,10 @@ title = "Treatment"
 ### Very critical cases
 - Extracorporeal membrane oxygenation (ECMO) is a final resort for critically ill COVID patients where in both the lungs and heart are given rest for the intended recovery using machines to do what heart and lungs do in our body. An international registry involving 213 hospitals across 36 countries has shown 90 day mortality of patients put on ECMO is about 38%
 
+## Convalescent plasma therapy
+- Donald Trump underwent this.
+- Details [here](https://www.mayoclinic.org/tests-procedures/convalescent-plasma-therapy/about/pac-20486440). Plasma from a person who has recently recovered from the disease (within 28 days) is given to the patient.
+
 ## Long term
 ### Look for heart damage
 - People might be dying of discharge for this reason.

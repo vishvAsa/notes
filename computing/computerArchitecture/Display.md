@@ -2,9 +2,9 @@
 title = "Display"
 
 +++
+
 ## Display screens
 Liquid Crystal displays tend to be more ergonomically friendly than CRT tube monitors.
-
 
 ### Quality
 #### Image quality
@@ -28,3 +28,8 @@ Besides image quality parameters described in the Display screens section, Proje
 Image brightness of atleast 1400 is good (2300 was tested successfully). Lamp life should be atleast 2000 lumens.
 
 For 340\\\), good projectors are available.
+
+## Adjustment
+- Brightness shouldn’t be lighter or darker than your surroundings.
+- Lower color temperature - less blue light, which is linked to more eyestrain.
+- Raise the device’s refresh rate. That will cause less flickering of the screen.
