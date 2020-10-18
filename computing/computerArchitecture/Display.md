@@ -27,10 +27,18 @@ Besides image quality parameters described in the Display screens section, Proje
 ### Best and economical
 Image brightness of atleast 1400 is good (2300 was tested successfully). Lamp life should be atleast 2000 lumens.
 
-For 340\\\), good projectors are available.
-
 ## Adjustment
 - Raise the contrast on your screen.
 - Brightness shouldn’t be lighter or darker than your surroundings.
 - Lower color temperature - less blue light, which is linked to more eyestrain.
 - Raise the device’s refresh rate. That will cause less flickering of the screen.
+
+### Gamma
+Too low means you can't make out greys on a black background. Too high means you can't make out greys on a white background. 1.64 seems to provide a good balance.
+
+{{< figure src="../images/Gamma_correction_test_picture_valid_at_100pc_zoom.png" title="" class="thumbnail">}}
+
+### Dark vs light themes 
+- Black text on a white background is the best. This comes down to the properties of color, light, and the human iris. White essentially reflects every wavelength in the color spectrum, which means our irises don’t need to open wide to absorb enough light, leaving them in their natural shape.
+- Dark themes can put more strain on your eyes in high-light conditions, since it washes out the text. 100% contrast (white text on a black background) is typically harder to read and may cause more eye strain. Dark themes can reduce eye strain in low-light conditions (night-time or dimmer workspaces). 
+- Try to control your screen brightness and your ambient light situation instead of changing the colors.
