@@ -17,4 +17,8 @@ title = "Dimensions"
   - Samsung - 77 x 79 x 178.5 = 30.32 x 31.1 x 70.1 in
   - LG wide - WIDTH - 35.5" DEPTH 29" HEIGHT 70" . Samsung similar.
 - Sink
-  - Single: 
+  - Single: 24 width * 18 depth * 9 inch height ( 61 x 45.7 x 22.9 cms)
+  - Double bowl
+    - Crocodile: 32 wide x 18 depth, 8 in height or  37" (or 41 or 45) x 18" x 10".
+    - RS: 45 X 20 X 9 
+  
