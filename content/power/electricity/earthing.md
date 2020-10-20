@@ -2,6 +2,15 @@
 title = "Earthing"
 +++
 
+## Intro
+- Fault current is best sent to ground. This includes surge current and lightening current.
+
+## Structure
+- An electrode is stuck in a pit in the ground and fault current is directed to it.
+- The ground should have low resistivity at all times. But ground resistivity varies with space and season. So, electroloytes are added.
+- With regular earthing, salt and coal is added around the electrode. Salt dissipates gradually and increases conductivity in the surrounding ground.
+- With "chemical" earthing, special electrolytes and backfills are added, and the electrode itself comes surrounded by a case of electrolytes. As per IEEE 80 14.5 (d), there are certain compounds which has resistivity less than 0.12 ohm meter are called permanent earthing compounds. Which has a life span of more than 10 to 15 years (longer than "salt and charcoal" earthing).
+
 ## BS 7671 notation
 - TN-S - most common in older housing stock, with supplier providing a separate earth conductor back to the substation. 
 - TN-C-S - (Protective Multiple Earthing) Supply combines neutral and earth, but they are separated out in the installation. More common in newer houses. 
