@@ -341,7 +341,7 @@ Use nargout to check the number of output arguments expected. Then, add variable
 #### Invocation
 ##### Invocation of functions
 output = functionName(arg1, arg2);\\
-\verb'[m, n] = size(X)'. Strings must be enclosed with ''.
+`[m, n] = size(X)`. Strings must be enclosed with ''.
 
 Usually, reference is passed. Only the field being modified by the function will be passed 'by value'. If modified structure is returned as output, only changed fields will be altered upon function-return.
 
@@ -349,7 +349,7 @@ Usually, reference is passed. Only the field being modified by the function will
 A function can return variable number (upto n) of outputs. But, when you invoke the function asking for k outputs, you cannot predict whether you get the first k of the n outputs or some other set - that is up to the function definition. Eg: qr().
 
 \subparagraph*{To ignore return value}
-\verb'[~, n] = size(X)'.
+`[~, n] = size(X)`.
 
 
 ##### Invocation of commands
@@ -569,7 +569,7 @@ load can read ascii files with two space separated columns and make sense of it.
 
 
 #### C like functions
-fprintf, \verb'fscanf(fid,"%d ...")', fopen(fid, 'w'), fclose.
+fprintf, `fscanf(fid,"%d ...")`, fopen(fid, 'w'), fclose.
 
 ### User interaction I/O
 To print stuff: disp(). pause().

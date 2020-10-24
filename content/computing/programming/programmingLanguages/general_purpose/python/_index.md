@@ -18,7 +18,7 @@ Clean and concise syntax: compare to perl; so more readable. As a general rule, 
 - Speed - An interpreted language. Speed is many times slower than C or Java. For vector operations, speed comparable with Matlab; but for looping, may be faster.
 
 ## Writing, Building and executing code
-Make .py files; begin with \verb'#!/usr/bin/python'.
+Make .py files; begin with `#!/usr/bin/python`.
 
 ### Important env variables
 PYTHONHOME: location of the std libraries.
@@ -79,7 +79,7 @@ numpy.
 
 ### RPy or RPy2 for R
 No easy plotting in sage.\\
- from rpy import *. r.library ("..",  \verb'lib_loc =os.path.join(lib_path, "R"))'.
+ from rpy import *. r.library ("..",  `lib_loc =os.path.join(lib_path, "R"))`.
 
 ### With Matlab
 In sage use 'matlab.eval()'.
