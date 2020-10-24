@@ -32,9 +32,9 @@ Two things affect document display here: citation style and bibliographystyle. T
 natbib is configurable and popular.
 
 ## (Re)definition
-Commands can be defined using: \verb'\newcommand{cmd}[args]{def}'.
+Commands can be defined using: `\newcommand{cmd}[args]{def}`.
 
-Environments can be defined using \verb'\newenvironment{env}[args][default]{begdef}{enddef}'.
+Environments can be defined using `\newenvironment{env}[args][default]{begdef}{enddef}`.
 
 Older definitions can be overridden using renewcommand and renewenvironment.
 
@@ -62,10 +62,10 @@ They can be set using addtolength and setlength commands.
 
 Common parameters include textwidth, oddsidemargin, evensidemargin, topsidemargin, parskip.
 
-One can define colors using: \verb'\definecolor{mygrey}{gray}{.95}'.
+One can define colors using: `\definecolor{mygrey}{gray}{.95}`.
 
 ### Space management
-\verb'\vspace{-3ex}' sets the vertical spacing to a third the size of 'x'. This should ideally be used towards the end of the document.
+`\vspace{-3ex}` sets the vertical spacing to a third the size of 'x'. This should ideally be used towards the end of the document.
 
 hfill and vfill are used to fill spaces.
 

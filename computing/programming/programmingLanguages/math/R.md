@@ -177,7 +177,7 @@ strsplit(v, sep) returns a list, having split each element in v.
 
 ### Dates
 #### String connection
-\verb'd<-as.Date("1995/12/01",format="%Y/%m/%d")' converts string to date.
+`d<-as.Date("1995/12/01",format="%Y/%m/%d")` converts string to date.
 
 format(dt) converts date to string.
 
@@ -300,10 +300,10 @@ $<-, ->$, assign(). $<<-$ is used to make global assignments: assignment to a va
 As in C.
 
 #### Operators on booleans
-\verb'|, &, ||, &&',  where the latter result in 'short-circuit' evaluation, where the second argument is evaluated only if necessary.
+`|, &, ||, &&`,  where the latter result in 'short-circuit' evaluation, where the second argument is evaluated only if necessary.
 
 #### Operators which produce booleans
-\verb'>, <, =='.
+`>, <, ==`.
 
 ### General Vector operators
 #### Mapping over elements
@@ -371,9 +371,9 @@ sink('fileName') diverts output to a file. sink() restores it to STDIO.
 x= scan(): keyboard input, no commas.
 
 ### Plotting and tables
-\verb' plot(y ~ x) ' produces a scatter plot.
+` plot(y ~ x) ` produces a scatter plot.
 
-Tables can be produced with \verb'xtabs(y ~ x)'.
+Tables can be produced with `xtabs(y ~ x)`.
 
 ## Data preparation and exploration
 scale(x, center = TRUE, scale = TRUE) normalizes columns using the mean and standard deviation.

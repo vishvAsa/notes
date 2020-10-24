@@ -53,9 +53,9 @@ Note that there should not be any space around =.
 ### Reference
 \verb|$VAR_NAME ${VAR_NAME}| are references to the variable.
 
-Array Element reference: \verb'${area2[0]}'.
+Array Element reference: `${area2[0]}`.
 
-Reference the entire array: \verb'${colors[@]}'.
+Reference the entire array: `${colors[@]}`.
 
 ## General
 <div class="spreadsheet" src="../bash.toml" fullHeightWithRowsPerScreen=8> </div>  
