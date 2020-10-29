@@ -26,6 +26,7 @@ title = "Effects"
 
 ### Brain 
 - Cov2 virus can disrupt this blood brain barrier and enter brain cells and infect them directly.
+- Cognitive penalty: [medarxiv](https://www.medrxiv.org/content/10.1101/2020.10.20.20215863v1). "People who had recovered, including those no longer reporting symptoms, exhibited significant cognitive deficits when controlling for age, gender, education level, income, racial-ethnic group and pre-existing medical disorders. They were of substantial effect size for people who had been hospitalised, but also for mild but biologically confirmed cases who reported no breathing difficulty."
 - It exploits the brain cells’ machinery to multiply, but doesn’t destroy them. Instead, it chokes off oxygen to adjacent cells, causing them to wither and die.
 - The coronavirus seems to rapidly decrease the number of synapses, the connections between neurons. “Days after infection, and we already see a dramatic reduction in the amount of synapses,” Dr. Muotri said. “We don’t know yet if that is reversible or not.”
 - [NYT2009](https://www.nytimes.com/2020/09/09/health/coronavirus-brain.html)
