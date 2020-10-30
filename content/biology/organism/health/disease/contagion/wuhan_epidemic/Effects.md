@@ -42,6 +42,8 @@ title = "Effects"
 ### Other effects
 - Multi-system inflammatory syndrome in children (MIS-C)
 - 26% of those admitted to ICU from COVID had invasive fungal infections.
+- Auto immune disorders like guillan barre.
+
 
 ## Comorbidity
 Severe disease can result in people with diabetes, obesity, chronic breathing difficulty (like asthma), compromised immune system.

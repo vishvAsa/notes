@@ -68,7 +68,7 @@ The motivation for either party to enter the contract is their differing opinion
 
 The seller of a call option believes that with significant probability, the market price during this time will not exceed the (strike-price - premium).
 
-The seller of a put option believes that the price during this time is unlikely to fall below the strike-price - premium.
+The seller of a put option believes that the price during this time is unlikely to fall below the (strike-price - premium).
 
 ## Basic trades
 
