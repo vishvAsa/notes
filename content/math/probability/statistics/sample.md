@@ -5,7 +5,7 @@ title = "Sample"
 A statistical population exists. Thence, a sample of \\(N\\) points is drawn, from which we attempt to infer properties of the population.
 
 ## Properties
-Sample statistics are considered elsewhere.
+Sample statistics are considered elsewhere in the [distribution structure learning](../distribution_structure_learning/) pages.
 
 ### Sample bias
 Pick 2 people: he is either Indian or Chinese; but there exist over 180 other countries.

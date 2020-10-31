@@ -1,12 +1,12 @@
 +++
-title = "Parameter estimation"
+title = "1 Parameter estimation"
 +++
 
 ## Estimate parameters using statistics
 The distinction between choosing parametric and non-parametric approaches are considered in the decision theory section.
 
 ### Statistic, estimator
-A statistic \\(\hat{t} = \hat{g}(X)\\) is a function of the sample X; an observable random variable. When it is used to estimate some parameter, it is called an estimator. t can be estimated by estimating \\(\gth\\).
+A statistic \\(\hat{t} = \hat{g}(X)\\) is a function of the sample \\(X\\); an observable random variable. When it is used to estimate some parameter, it is called an estimator. t can be estimated by estimating \\(\gth\\).
 
 #### Point estimation of the parameter
 If \\(\hat{t}\\) tries to approximate \\(t\\), it is an estimator.
@@ -40,7 +40,9 @@ Eg: it turns out that in most departments, women had a slightly higher success r
 ### Other statistics and parameters
 #### Summarize variability or dispersion
 Sample and population Variance \\
-(\\(S^{2}, \stddev^{2}\\)), standard deviation (\\(S, \stddev\\)). Also, range: max - min.
+(\\(S^{2}, \stddev^{2}\\)), standard deviation (\\(S, \stddev\\)) . Variance is average of the squared differences from the Mean. Standard deviation is its square root. 
+
+Also, range: max - min.
 
 #### Order statistics
 max or nth order statistic \\(X_{(n)}\\), min or first order statistic \\(X_{(1)}\\), kth smallest sample point \\(X_{(k)}\\).
