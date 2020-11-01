@@ -34,6 +34,8 @@ As \\( (n-1) \frac{S^{2}}{\stddev^{2}} \distr \chi^{2}_{n-1} \\) ,
 ### Goodness of empirical estimate
 Can apply Chernoff bounds and Azuma Hoeffding inequality etc.. to judge goodness of empirical estimate.
 
+For Binary valued random variables: A/B testing confidence interval, precision calculator [here](http://www.evanmiller.org/ab-testing/sample-size.html).
+
 ## Variance estimation
 ### The biased and unbiased estimators
 \\(S^{2} = n^{-1}\sum (X_{i} - \bar{X})^{2}\\) biased: \\(B[S^{2}] = n^{-1}E(\sum X_{i}^{2} -2\bar{X}\sum X_{i} + n\bar{X}^{2}) - \stddev^{2} = n^{-1}(nE[X^{2}] -2E[n\bar{X}^{2}] + nE[\bar{X}^{2}]) - \stddev^{2} = n^{-1}(n \stddev^{2} + n \mean^{2} - n var[\bar{X}] + n \mean^{2}) - \stddev^{2} \to n^{-1}(n-1)\stddev^{2} - \stddev^{2}\\) from central limit thm. So, defined as \\(S^{2} = (n-1)^{-1}\sum (X_{i} - \bar{X})^{2}\\) to get unbiased estimator. Difference small as \\(n \to \infty\\).

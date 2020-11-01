@@ -7,3 +7,6 @@ title = "Web frameworks"
 
 ## Angular
 <div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="../angular.toml"> </div>  
+
+## JS Closure
+<div class="spreadsheet" fullHeightWithRowsPerScreen=8 src="../closure.toml"> </div>  
