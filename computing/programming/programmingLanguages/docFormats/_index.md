@@ -8,3 +8,6 @@ Many document display specification formats provide are declarative. On one hand
 Yet, despite this, sometimes finer imperative control over document display is desirable.
 
 Some languages provide both features, while others provide one or the other.
+
+## Mediawiki
+<div class="spreadsheet" src="mediawiki.toml" fullHeightWithRowsPerScreen=8> </div>  
