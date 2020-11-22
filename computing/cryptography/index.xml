@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Cryptography on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/cryptography/</link>
+    <description>Recent content in &#43;Cryptography on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Authentication</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/cryptography/authentication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/cryptography/authentication/</guid>
+      <description>Using assymetric key cryptography One simple way of authentication is to encrypt and return a challenge message using one&amp;rsquo;s secret key.
+Using a password This is very common - eg: it is used over to log into terminals.
+To beat snooping, passwords are transmitted over a secure channel (eg: ssh vs rsh).
+One-time passwords Passwords may be spoofed - even over a secure channel by an adversary who jumps into a session and replays the password message to, for example change the password.</description>
+    </item>
+    
+    <item>
+      <title>Crypto primitives</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/cryptography/crypto_primitives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/cryptography/crypto_primitives/</guid>
+      <description>Collision resistant hash function A hash function where it is hard for an adversary to find y: h(x) = h(y), given h(x) and y.
+Strength of hardness assumptions If violation of hardness assumption A implies violation of assumption B, A is weaker than B. Weaker assumptions are preferred.
+To show weakness \htext{\(A &amp;lt; B\)} Take poly time alg to break A and make poly time alg to break B whp.</description>
+    </item>
+    
+    <item>
+      <title>Misc problems</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/cryptography/misc_problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/cryptography/misc_problems/</guid>
+      <description>Code obfuscation Hide the intent of the code. Security with auxiliary input useful here. \(M \to O(M)\) with polynomial blowup in size, run-time. M, O(M) compute the same function: or maybe approximately. Virtual black box property: \(\forall\) polytime algs A, \(\exists\) simulator \(S^{M}\) with black box access to M: \(|Pr(A(O(M)) = 1) - Pr(S^{M}(1^{|M|}) = 1)| \leq \eps\): \(1^{|M|}\) bounds run-time; whatever property of M A can grok by looking at the code, S can grok just by looking at its behavior.</description>
+    </item>
+    
+    <item>
+      <title>Public key to ID matching</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/cryptography/match_public_key_with_id/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/cryptography/match_public_key_with_id/</guid>
+      <description>Usually trusted key-servers are used.
+Identity based encryption (IBE) IBE Authority (Auth) publishes public parameters (PP), has master secret key (MSK). \(Setup(l) \to (PP, MSK)\). c = E(PP, ID, m). \(SK_{id} = K(MSK, ID)\). \(m = D(SK, c, PP)\).
+Security Semantic security under CPA Challenger C, attacker A. C sends PP to A. A sends C \(\set{ID_{i}}\). C returns \(\set{SK_{i}}\). A chooses target \(ID^{*}\), sends it to C. A sends C \(m_{0}, m_{1}\).</description>
+    </item>
+    
+    <item>
+      <title>Secure communication</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/cryptography/secure_communication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/cryptography/secure_communication/</guid>
+      <description>over an insecure channel.
+Problem A and B communicate, E evesdrops. E should not know what is communicated, and E should not be able to cause miscommunication between A and B.
+Unbounded adversary (Shannon) Theory of perfect secrecy. Adversary assumed to have unlimited computational resources. Secure encryption system exists only if \(|S|\) is as large as \(|m|\).
+One time pad \(E(pad, m) = m \xor pad\); \(D(pad, c) = c \xor pad\).</description>
+    </item>
+    
+  </channel>
+</rss>

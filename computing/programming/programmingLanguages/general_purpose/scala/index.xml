@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Scala on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/scala/</link>
+    <description>Recent content in &#43;Scala on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/scala/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web server</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/scala/web_server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/scala/web_server/</guid>
+      <description>Play Akka Http HTTP front for the akka actor system - no built-in templating language. offers several different API levels for “doing the same thing”.
+Client val request = HttpRequest(uri = Uri(uri)) val req = HttpRequest(uri = &amp;quot;/ignored&amp;quot;, headers = List(`Raw-Request-URI`(&amp;quot;/a/b%2Bc&amp;quot;))) val formData = FormData((&amp;quot;user_id&amp;quot;, user_id), (&amp;quot;user_secret&amp;quot;, user_secret)) val r = HttpRequest(POST, url, headers, formData.toEntity) </description>
+    </item>
+    
+  </channel>
+</rss>

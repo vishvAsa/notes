@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Google on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/web_server/google/</link>
+    <description>Recent content in &#43;Google on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/web_server/google/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>App Engine</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/web_server/google/app_engine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/web_server/google/app_engine/</guid>
+      <description>Credentials Client ID: get here.
+Ref </description>
+    </item>
+    
+    <item>
+      <title>App script</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/web_server/google/apps_script/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/web_server/google/apps_script/</guid>
+      <description>Intro JavaScript cloud scripting language that provides easy ways to automate tasks across Google products and third party services and build web applications.
+Location here.
+Document var doc = DocumentApp.create(&#39;Hello, world!&#39;); Email  var email = Session.getActiveUser().getEmail(); var subject = doc.getName(); var body = &#39;Link to your doc: &#39; + url; GmailApp.sendEmail(email, subject, body); </description>
+    </item>
+    
+    <item>
+      <title>Popular web services</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/web_server/google/web_services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/web_server/google/web_services/</guid>
+      <description>Archive.org Item manager example here.</description>
+    </item>
+    
+  </channel>
+</rss>

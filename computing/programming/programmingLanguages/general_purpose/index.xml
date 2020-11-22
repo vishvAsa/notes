@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;General purpose on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/</link>
+    <description>Recent content in &#43;General purpose on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Go</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/go/</guid>
+      <description>Intro Compiled language. Has garbage collection. Type checked. Functions as values.
+Negatives  No operator overloading. Go is not meant to innovate programming theory. It&amp;rsquo;s meant to innovate programming practice. No type hierarchy. Can have interfaces. For user defined classes, this is not a problem. One can use embedding. Deliberate focus on simplicity. No operator overloading.  Ref </description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/java/</guid>
+      <description>Intro  Platform independence: so no direct access to memory. Object orientated approach. Memory management: Garbage collection. Compiled into bytecode which can be run everywhere using native interpreters. Due to many optimizations - such as &amp;lsquo;just in time&amp;rsquo; compilation, speed comparable with C for many applications.  Classes Important Superclasses, interfaces Serializable Implementing Serializable ensures that an object instance can be stored in a file and retrieved later.
+Clonable Implementing the Cloneable interface ensures that the traits of a given object can be copied using the copy() definition.</description>
+    </item>
+    
+    <item>
+      <title>Kotlin</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/kotlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/kotlin/</guid>
+      <description>Intro  Conciser java. Fully interoperable with Java (calling scala functions from java sometimes troublesome). Suppored by Android. Avoids null pointer exceptions - refuses to compile null assignments. Less expressive than Scala. Worse inlining compared to scala.  Ref </description>
+    </item>
+    
+    <item>
+      <title>Lua</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/lua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/lua/</guid>
+      <description>Paradigms and extensibility Multi-paradigm language. Functions can be treated as values, higher-order functions exist.
+Highly extensible.
+Building Compiled to bytecode, executed.
+Metatable This can be used to effect inheritence.
+ fibs = { 1, 1 } setmetatable(fibs, { __index = function(name, n) -- Call this function if fibs[n] does not exist. name[n] = name[n - 1] + name[n - 2] return name[n] end }) Ref </description>
+    </item>
+    
+    <item>
+      <title>Perl</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/perl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/perl/</guid>
+      <description>Distinctive features This is an interpreted language. It is loosely typed.
+It is very good at text processing.
+Richness of syntax It is very rich, so that there are multiple ways to accomplish the same thing; to the point where code written by one programmer may be unintelligible to another.
+Running, building Running See perlrun on the internet. Commands to be interpreted are either entered in a special shell, or is passed in a file to the interpreter, or is passed in the command line.</description>
+    </item>
+    
+    <item>
+      <title>Ruby</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/ruby/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/general_purpose/ruby/</guid>
+      <description>Manage modules/ gems gem install jekyll bundler bundle install bundle update bundle show gemName </description>
+    </item>
+    
+  </channel>
+</rss>

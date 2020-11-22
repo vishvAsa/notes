@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Coginition on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/biology/organism/animalIntelligence/cognition/</link>
+    <description>Recent content in &#43;Coginition on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/biology/organism/animalIntelligence/cognition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>01 Sensory perception</title>
+      <link>file:///storage/emulated/0/notesData/notes/biology/organism/animalIntelligence/cognition/01_Sensory_perception/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/biology/organism/animalIntelligence/cognition/01_Sensory_perception/</guid>
+      <description>Automated processing Sensory perception involves not only the sense organs, but also specialized circuitry in the brain. This is akin to input devices + software drivers in the case of computers.
+Perception often involves attention, but all processing is non-explicit and non-verbal.
+Signal sparsity The brain deduces most of what it knows from scant filtered signals.
+Eyes keep moving around from nose to eye to lips etc.. So actual information observed is actually small, the brain does not know what is happening outside this small area.</description>
+    </item>
+    
+    <item>
+      <title>04 Simulation and modeling</title>
+      <link>file:///storage/emulated/0/notesData/notes/biology/organism/animalIntelligence/cognition/04_Simulation_and_modeling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/biology/organism/animalIntelligence/cognition/04_Simulation_and_modeling/</guid>
+      <description>Aka vikalpa, vitarka, vichAra. Purpose could be amusement, prediction, evaluation, planning. It involves understanding, reasoning, empathy.
+Understanding, theorizing This may or may not be probabilistic. It may or may not involve explicit formal reasoning.
+This includes empathy.
+Role of proability theory Facile and formal use of probability theory is a good idea. In any case, probability estimation in animal intelligence can be understood using the belief/ Bayesian interpretion of probability theory.</description>
+    </item>
+    
+    <item>
+      <title>05 Attention</title>
+      <link>file:///storage/emulated/0/notesData/notes/biology/organism/animalIntelligence/cognition/05_Attention/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/biology/organism/animalIntelligence/cognition/05_Attention/</guid>
+      <description>aka manas by Hindus. Attention control is akin to task scheduling in computers
+Types Attention could be endogenous or exogenous (response to a loud noise). Endogenous attention is thought to involve frontal cortex and basal ganglia. Depending on whether it involves focusing sensors, attention is overt or covert.
+Number of tasks Attention may be directed at a single or multiple tasks. Usually multitasking is accomplished by focusing on each task for a short period of time.</description>
+    </item>
+    
+    <item>
+      <title>06 Decision: evaluation and comparison</title>
+      <link>file:///storage/emulated/0/notesData/notes/biology/organism/animalIntelligence/cognition/06_Decision_evaluation_and_comparison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/biology/organism/animalIntelligence/cognition/06_Decision_evaluation_and_comparison/</guid>
+      <description>Making a choice is fundamental to behavior. It fundamentally involves comparison.
+Reasoned vs automatic It may involve simulation, possibly with explicit verbal reasoning to various degrees.
+Preset Preferences Decisions not involving explicit reasoning are made using set preferences. Some preferences are formed due to developmental environment; while some tastes are acquired consciously due to habit formation. Right from the womb, the human baby learns the rhythm of its mother&amp;rsquo;s language, the taste of food she ingests; and adapts its behavior upon being born.</description>
+    </item>
+    
+    <item>
+      <title>07 Affect</title>
+      <link>file:///storage/emulated/0/notesData/notes/biology/organism/animalIntelligence/cognition/07_Affect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/biology/organism/animalIntelligence/cognition/07_Affect/</guid>
+      <description>Aka emotion, vikAra.
+Distribution over actions/ thoughts Emotion was defined by behaviorists in terms of probability distribution over responses (either to stimuli, or physical reactions/ sensations including in the brain) Eg: sadness increased certain type of responses; while others identify it purely with certain mental sensations or neurochemicals. One may extend this distribution to cover thoughts as well.
+Modes of cognition/ operation On may draw an analogy with a computer which can operate in different modes; and whose computation and output distribution changes according to the mode.</description>
+    </item>
+    
+  </channel>
+</rss>

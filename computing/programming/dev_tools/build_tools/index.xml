@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Build tools on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/build_tools/</link>
+    <description>Recent content in &#43;Build tools on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/build_tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/build_tools/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/build_tools/design/</guid>
+      <description>Build Targets A programmer may want to do certain specific actions with his code.
+For example, downloading dependencies for being able to compile, compiling code, running test cases, running the code, packaging the code, deploying a package on a web-server. These actions are called build targets.
+Continuous mode With some dependencies, one can execute a specific action while constantly scanning for source code changes..
+Target Dependencies There may be various dependencies amongst these build targets.</description>
+    </item>
+    
+    <item>
+      <title>SBT</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/build_tools/sbt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/build_tools/sbt/</guid>
+      <description>Scala build tool is written in scala. Configuration files tend to be very concise. See a ready empty sbt project for a quick start.
+Important commands include: update (To satisfy dependencies), actions, compile, package. Some commands may be prefixed by ~ (Which constantly scans for source code changes and recompiles automatically when necessary.)
+Dependencies - automation One can automate the problem of downloading certain versions of external libraries on which the project depends, and adding the jars to the CLASSPATH if necessary.</description>
+    </item>
+    
+  </channel>
+</rss>

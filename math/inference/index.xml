@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Inference on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/inference/</link>
+    <description>Recent content in &#43;Inference on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/inference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Expressiveness</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/inference/expressiveness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/inference/expressiveness/</guid>
+      <description>Propositional logic: 0th order logic Limitations &amp;lsquo;Harry is sick&amp;rsquo; or &amp;lsquo;sick&amp;rsquo; can be handled, but not &amp;lsquo;x is sick&amp;rsquo;.
+First order predicate logic Propositional logic with predicates, quantifiers. See Propositional logic section: many properties carry over.
+Limitations Can&amp;rsquo;t talk about relations over relations. Eg: G(R(x,y),z).
+Fuzzy logic Could be 0.7 correct: not just correct or incorrect.
+Temporal logic Entailment. Also see co operator in distributed computing ref.</description>
+    </item>
+    
+    <item>
+      <title>Inference</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/inference/inference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/inference/inference/</guid>
+      <description>Proving validity of theorems We are given a set of axioms and valid statements/ additional rules of inference \(S = \set{s_i}\). Does \(S \implies^{*} p\)? Or is \(p \equiv q\)? So, want to see if a certain relationship between propositions holds.
+This is akin to the search for proofs.
+Use rules of inference Eg: Modus ponens: \((p \land (p \implies q)) \implies q\). Strengthening and weakening of implications.
+De Morgan law: \(\lnot(p \land q) \equiv \lnot p \lor \lnot q\).</description>
+    </item>
+    
+    <item>
+      <title>Ontology</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/inference/ontology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/inference/ontology/</guid>
+      <description>Theme Ontology is concerned with entities: their classification and relationship. Every entity has certain properties.
+Motivation The main benefit of ontology is that one can reason about an entity using general statements about the corresponding entity type.
+Ontologies are very useful, for example, in the case of understanding speech - where many different words (eg: man, indian .. ) are used to hint at the same entity.
+Entity-types Entities having several properties in common can be viewed as being instances of a single entity-type.</description>
+    </item>
+    
+    <item>
+      <title>Statement</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/inference/statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/inference/statement/</guid>
+      <description>Aka formula.
+Language Syntax All sentences are written with symbols/ words drawn from some alphabet, in a formal language. A statement/ formula is said to be well formed if it makes sense according to some formal grammar.
+Values The most basic statements are the values T / TRUE and F/ FALSE.
+Semantics Corresponding to languages of various levels of expressiveness, there are Logics/ calculii which specify the semantics. They, for example, specify what &amp;lsquo;P&amp;rsquo;, \(\lnot P\) etc.</description>
+    </item>
+    
+  </channel>
+</rss>

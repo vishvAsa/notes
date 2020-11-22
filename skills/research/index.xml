@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Research on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/skills/research/</link>
+    <description>Recent content in &#43;Research on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/skills/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Problem picking</title>
+      <link>file:///storage/emulated/0/notesData/notes/skills/research/Problem_picking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/skills/research/Problem_picking/</guid>
+      <description>Overview It is very important to critique a paper or a talk, understand its shortcomings, suggest future improvements. Thence, incremental research occurs.
+General loop: Find area. Find problem in a given area. Find solution strategy for a given problem. Implement solution, evaluate, communicate.
+Popular research mode: Knowing and heavily using old techniques: take a few hammers, hit everything with it. Finding new techniques is rare and hard.
+OFTEN, perturb the problem and extrapolate a solution.</description>
+    </item>
+    
+  </channel>
+</rss>

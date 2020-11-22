@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Game theory on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/biology/society/gameTheory/</link>
+    <description>Recent content in &#43;Game theory on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/biology/society/gameTheory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>01 Games: introduction</title>
+      <link>file:///storage/emulated/0/notesData/notes/biology/society/gameTheory/01_Games_introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/biology/society/gameTheory/01_Games_introduction/</guid>
+      <description>Players, strategies, utilities Players \(P = \set{p_{i}}\). A strategy is not a move but an algorithmorithm to make moves; compare with decision procedure in decision theory in statistics ref. \(S_{i}\): strategy set of \(p_{i}\). Strategy vector (strategy profile): \(s = (s_{1}, .. s_{n})\). \(s_{-i}\): s sans \(s_{i}\).
+Mixed/ randomized strategies Independent mixed strategy of i: a Prob Distr over \(S_{i}: D_{i}\).
+Mixed strategy profile, perhaps \(p_{i}\) coordinated: Probability distribution over \(\times_{i}S_{i}\): D.</description>
+    </item>
+    
+    <item>
+      <title>02 Solution concepts: examples</title>
+      <link>file:///storage/emulated/0/notesData/notes/biology/society/gameTheory/02_Solution_concepts_examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/biology/society/gameTheory/02_Solution_concepts_examples/</guid>
+      <description>Dominant strategy solution \(\forall i\), \(best(s_{i})\) unique, independent of \(s_{-i}\): \(u(s_{i}, s&amp;rsquo;_{-i}) \geq u(s&amp;rsquo;_{i}, s&amp;rsquo;_{-i}) \forall s&amp;rsquo;\). Eg: Prisoner&amp;rsquo;s dilemma; not: Battle of sexes. So, players individually select strategies. May not lead to optimal payoff for any \(p_{i}\).
+Prisoner&amp;rsquo;s dilemma Cost matrix \(C = \mat{(4, 4) &amp;amp; (1, 5)\(5, 1) &amp;amp; (2, 2)}\). s = (2, 2) best for both, but unstable: If \(p_{1}\) sets \(s_{1} = 2\), \(p_{2}\) tempted to set \(s_{2} = 1\).</description>
+    </item>
+    
+    <item>
+      <title>03 Games: classes</title>
+      <link>file:///storage/emulated/0/notesData/notes/biology/society/gameTheory/03_Games_classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/biology/society/gameTheory/03_Games_classes/</guid>
+      <description>2 player games Aka bimatrix game. Row and column players: \(p_{r}, p_{c}\); their Prob distr over \(S_r\) and \(S_{c}\) as vectors :\(D_{r}, D_{c}\). Utility matrix wrt \(p_{r}\) and \(p_{c}\): R, C.
+2 - Player 0 sum games Utility matrix \(A_{i,j} = u_{r}(..)\). (Nash) Eg: Matching pennies.
+Value paid by \(p_{c}\) to \(p_{r}\): \(v_{r} = D_{r}^{*} AD_{c}\).
+Knowing \(D_{r}\), \(p_{c}\) always selects \(min(D_{r}^{*}A)\) or finds \\(v_{c} = \min_{k_{1}} \max_{D_{r}} E_{k_{r} \distr D_{r}}[u_{1}(k_{1}, k_{2})] = \min_{k_{1}} \max_{D_{r}} u_{1}(k_{1},D_{r})\).</description>
+    </item>
+    
+    <item>
+      <title>04 Mechanism design</title>
+      <link>file:///storage/emulated/0/notesData/notes/biology/society/gameTheory/04_Mechanism_design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/biology/society/gameTheory/04_Mechanism_design/</guid>
+      <description>Mechanism design Engineer / implement social choice function. Mech design in making protocols for computer network problems: algorithmorithmic mechanism design. Electronic market design: mech design in electronic markets.
+Set of alternatives A. L: set of all linear orders over A. Preference order of \(p_{i}: &amp;gt;_{i}\).
+Social welfare function \(F:L^{n} \to L\).
+Properties Unanimity: \(F(&amp;lt;^{n}) = &amp;lt;\). Dictatorship. Independence of irrelevant attributes: \(F((&amp;lt;_{i}))\) between alternatives \(a_{1}\) and \(a_{2}\) depends only on \(\set{a_{1}&amp;lt;_{i} a_{2}}\).</description>
+    </item>
+    
+  </channel>
+</rss>

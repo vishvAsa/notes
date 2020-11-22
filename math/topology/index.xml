@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Topology on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/topology/</link>
+    <description>Recent content in &#43;Topology on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/topology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coordinate geometry</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/topology/coordinate_geometry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/topology/coordinate_geometry/</guid>
+      <description>Vector spaces (See linear algebra ref). Vector and scalar product of 2 vectors; effect of Left vs right handedness of coordinate system.
+High dimensional objects Get vector equations from geometric properties. Use linear transformations like scaling, rotation, projection to describe effects.
+Hyperplane Hyperplane \(\perp w\) through 0 : x such that \(w^{T}x = 0\); shift c from 0: \(w^{T}(x-c) = 0\). For halfspace, replace &amp;lsquo;=&amp;rsquo; with \(\leq\).
+Polyhedron \(\set{x: Ax \leq b}\): The intersection of halfspaces.</description>
+    </item>
+    
+    <item>
+      <title>Point set topology</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/topology/point_set_topology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/topology/point_set_topology/</guid>
+      <description>Motivation Coffee cup and donut are geometrically different, but topologically same: isotopes! Can deform one to the other. Generalize notions of convergence, connectedness, continuity.
+The topological space Set of points or Topological space X. Topology T: Class of some sets of points closed under \(\union, \inters\).
+Sets \(S_{i}\) in T are said to be open. \(S_{i}&#39;\) are closed sets. Neighborhood of p is a set \(V \supset\) open set \(U \ni p\).</description>
+    </item>
+    
+  </channel>
+</rss>

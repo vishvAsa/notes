@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Reasoning</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/distributedComputing/reasoning/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/distributedComputing/reasoning/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Reasoning" />
+<meta property="og:description" content="Common assumptions A channel eventually (maybe at \(t=\infty\)) delivers all packets without corruption or dropping, in the correct order.
+Processes can run at arbitrary, non 0 speed.
+Don&rsquo;t care about efficiency, focus on safety and progress.
+Assume you have infinite buffers.
+Synchronized communication Sometimes, this is needed. Max time to deliver a message is some t.
+Proving algorithm efficacy Axiomatize the system, and use pure logic.
+Usually 2 stages: safety property: you won&rsquo;t fall into a wrong state; and progress property." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/distributedComputing/reasoning/" />
+
+<meta itemprop="name" content="Reasoning">
+<meta itemprop="description" content="Common assumptions A channel eventually (maybe at \(t=\infty\)) delivers all packets without corruption or dropping, in the correct order.
+Processes can run at arbitrary, non 0 speed.
+Don&rsquo;t care about efficiency, focus on safety and progress.
+Assume you have infinite buffers.
+Synchronized communication Sometimes, this is needed. Max time to deliver a message is some t.
+Proving algorithm efficacy Axiomatize the system, and use pure logic.
+Usually 2 stages: safety property: you won&rsquo;t fall into a wrong state; and progress property.">
+
+<meta itemprop="wordCount" content="1803">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Reasoning"/>
+<meta name="twitter:description" content="Common assumptions A channel eventually (maybe at \(t=\infty\)) delivers all packets without corruption or dropping, in the correct order.
+Processes can run at arbitrary, non 0 speed.
+Don&rsquo;t care about efficiency, focus on safety and progress.
+Assume you have infinite buffers.
+Synchronized communication Sometimes, this is needed. Max time to deliver a message is some t.
+Proving algorithm efficacy Axiomatize the system, and use pure logic.
+Usually 2 stages: safety property: you won&rsquo;t fall into a wrong state; and progress property."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/distributedComputing\/reasoning\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/distributedComputing\/reasoning.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Reasoning</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Reasoning">Reasoning</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/distributedComputing/reasoning.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="common-assumptions">Common assumptions</h2>
+<p>A channel eventually (maybe at \(t=\infty\)) delivers all packets without corruption or dropping, in the correct order.</p>
+<p>Processes can run at arbitrary, non 0 speed.</p>
+<p>Don&rsquo;t care about efficiency, focus on safety and progress.</p>
+<p>Assume you have infinite buffers.</p>
+<h3 id="synchronized-communication">Synchronized communication</h3>
+<p>Sometimes, this is needed. Max time to deliver a message is some t.</p>
+<h2 id="proving-algorithm-efficacy">Proving algorithm efficacy</h2>
+<p>Axiomatize the system, and use pure logic.</p>
+<p>Usually 2 stages: safety property: you won&rsquo;t fall into a wrong state; and progress property.</p>
+<h3 id="importance-and-need">Importance and need</h3>
+<p>Distributed computation is very hard to debug: bugs are hard to reproduce, very scary for usual programmers; so, proving it correct is essential.</p>
+<p>When you have the right theory, a formal proof is much shorter than an intuitive proof.</p>
+<p>Also, English sentences are often ambiguous.</p>
+<h3 id="common-tricks">Common tricks</h3>
+<p>Decompose computation into processes which are independent of network structure.</p>
+<p>Use induction.</p>
+<p>Often, need to break cycles in the network, to avoid deadlock, livelock. Then, induction is possible.</p>
+<h2 id="properties-of-programs">Properties of programs</h2>
+<p>It is easier to reason about properties of a program, rather than its the program text.</p>
+<p>&lsquo;Interplay between safety and progress properties is design.&rsquo;</p>
+<h3 id="safety-of-the-computation-problems">Safety of the computation: problems</h3>
+<p>Aka rightness property. Claim: The computation will do no harm.</p>
+<p>While shared memory may be common in parallel programming, it is uncommon in distributed computing. Shared memory and message passing are two common parallel programming paradigms, of which the latter is necessarily safer.</p>
+<h4 id="race-conditions-readers-writers-problem">Race conditions: Readers/ writers problem</h4>
+<p>If memory locations are shared between threads, there can be race conditions.</p>
+<p>Usually, many readers can read simultaneously, but only when writer is using the resource, no readers or writers should be allowed: mutual exclusion/ mutex.</p>
+<h3 id="progress-of-the-computation-problems">Progress of the computation: Problems</h3>
+<p>Aka liveness property. Claim: The computation will eventually produce the correct answer.</p>
+<p>Safety proofs can be usually done without using progress properties, but not vice versa. Eg: to prove x increases, prove \(tr(x = m) \land stable(x \geq 5)\).</p>
+<h4 id="deadlock">Deadlock</h4>
+<p>A is waiting for a resource B is holding, B is waiting for a resource A is holding; neither will release until it acquires both processes.</p>
+<p>Solution: Either work under the assumption that this never happens like most OS&rsquo;s, or prevent, detect and break it. So, there is no progress.</p>
+<h5 id="expressed-as-a-safety-property">Expressed as a safety property</h5>
+<p>\(\forall i\) stable waiting(i).</p>
+<h4 id="livelock">Livelock</h4>
+<p>Eg: A asks B if it, or anyone it can reach has x; B doesn&rsquo;t have it, but asks all nodes connected to it, including A, exactly the same question. If A or B do not break the cycle, there is no progress.</p>
+<h3 id="maximality">Maximality</h3>
+<p>Is this program the most efficient? Or requiring the least communication?</p>
+<h2 id="action-systems">Action systems</h2>
+<p>Aka State Transition system.</p>
+<h3 id="motivation">Motivation</h3>
+<p>Highly abstract setup to reason about distributed computing. Many different looking algorithms for the same problem : eg message passing vs shared memory vs token ring based etc.. turn out to boil down to the same logic in an action system.</p>
+<p>It is easier to reason about properties of a program, rather than its implementation.</p>
+<p>Can &lsquo;refine&rsquo; an action system in various ways to get actual implementations of the algorithms.</p>
+<h3 id="definition">Definition</h3>
+<h4 id="objects">Objects</h4>
+<p>A program is collection of objects. Every object is a collection of states and actions. If there is communication, it is with shared variables. Usually only one object is the program.</p>
+<h4 id="states">States</h4>
+<p>Specified by some variables. Initial conditions.</p>
+<h4 id="transitions-or-actions">Transitions or Actions</h4>
+<p>When in state s, where can you go next?; visualize as a directed graph among states. \(p \to x=5\): p is the guard; x=5 is the command. If guard is absent, &lsquo;true&rsquo; is assumed to be the guard. If guard is true, the command is &lsquo;active&rsquo; else it is inactive.</p>
+<p>Always, &lsquo;skip&rsquo; or &lsquo;noop&rsquo; command is included.</p>
+<p>All actions terminate.</p>
+<h4 id="execution-rule">Execution rule</h4>
+<h5 id="minimal-progress">Minimal progress</h5>
+<p>Until all guards are false: arbitrary non-skip action whose action is true is executed. So not fair!</p>
+<h5 id="weak-fairness">Weak fairness</h5>
+<p>Each action is executed infinitely often; Can think of even inactive actions being executed: they just have no effect.</p>
+<p>If the guard of an action remains true continuously, it is eventually executed effectively.</p>
+<h5 id="strong-fairness">Strong fairness</h5>
+<p>If guard of the action is true infinitely often, then action is executed effectively infinitely often.</p>
+<p>So, in a certain recurring state, if k actions are active, they all are executed effectively infinitely often. In weak fairness, they might have been executed when inactive.</p>
+<h5 id="termination">Termination</h5>
+<p>No &lsquo;termination state&rsquo; specified: theoretically, &lsquo;program&rsquo; runs for ever; detecting termination is an implementation issue. It happens when all actions are ineffective. Eg: detecting fixed points.</p>
+<h3 id="reasoning-about-properties">Reasoning about properties</h3>
+<h4 id="properties-vs-predicates-connectives">Properties vs predicates, connectives</h4>
+<p>Safety and progress &lsquo;Properties&rsquo; of a program are defined to be distinct from predicates. Predicates related program variables with logical operators, Eg: \(p \land r\) vs \(p \co q\). Quantification implicit \(p \co q \equiv \forall x, S:: \set{p} S \set{q}\).</p>
+<p>But, \(\land, \implies, \equiv\) still used with properties to indicate &lsquo;both hold&rsquo; or can be inferred from etc.. But, they are used purely amongst properties or purely among predicates. property \(\implies\) predicate: like \(p \lor (p \co q)\) illegal.</p>
+<p>Quantification: \((p \co q) \land (stable q)\) indicates \((\forall x:: p \co q) \land (\forall x:: stable q)\).</p>
+<p>\(p \implies q\) is not a property; but \(invariant(p \implies q)\) is.</p>
+<h4 id="auxiliary-vs-program-variables">Auxiliary vs program variables</h4>
+<p>Program variables are variables used in the action system text. Auxiliary variables are extra variables used to reason about the action system, which depend only on the history of program variables. Eg: mx = Max value x has achieved so far.</p>
+<h2 id="safety-properties-of-action-systems">Safety properties of Action systems</h2>
+<p>Usually, use intuition to identify some target property of the action system, express it using co operators, identify the initial conditions, basic properties of the system, thence derive the target property.</p>
+<h3 id="the-constrains-co-operator">The constrains/ co operator</h3>
+<p>A type of temporal implication. \(p \co q \equiv \forall t: \set{p} t \set{q}\). MUST Show \(\forall (g \to s) : \set{p \land g} s \set{q}\). If cannot show, the claimed property is false!</p>
+<p>So, once p holds, q continues to hold until \(\lnot p \land q\) holds.</p>
+<h4 id="properties-of-co">Properties of co</h4>
+<p>Many properties follow from implication: See inference/ propositional logic ref; F co p. p co T. Can strengthen LHS or weaken RHS; it is transitive. If \((p \co q) \land (r \co s)\), Can do this: \((p \land r) \co (s \land q)\) or \((p \lor r) \co (s \lor q)\).</p>
+<p>Any action system includes skip statement; so if \(p \co q\), \(p \implies q\) should hold.</p>
+<h4 id="formalizing-safety-properties">Formalizing safety properties</h4>
+<p>Take the statement you want to write using proper notation. Set initial state p. After any action, including skip, how can the state possibly change? : list these as \(\set{q_i}\), join them thus: \(p \co \Lor_i q_i\); then simplify. Note \(q_i\) must specify the state fully: else error.</p>
+<p>Eg: d does not change as long as c remains true. \(d = m \land c \co (c \land d = m) \lor (d \neq m \land \lnot c)\lor (d = m \land \lnot c) \implies d = m \lor \lnot c\).</p>
+<h4 id="elimination-theorem">Elimination theorem</h4>
+<p>If \(x = m \co q\) and p does not have any free variables other than x: \(p \co \exists m:: p[x \assign m] \land q\).</p>
+<p>Very useful in eliminating free variables. Eg: given \(x = m \co q\), show stable p.</p>
+<h3 id="stable-predicates">Stable predicates</h3>
+<p>Stable predicate is a set of states outside which no transition can ferry the program. Visualize using a set of states.</p>
+<p>stable p \(\dfn\) p co p.</p>
+<h3 id="fixed-point-x">Fixed point x</h3>
+<p>Once you hit state or state set x, you never get out. Indicates termination.</p>
+<p>Holds in any state where all actions are ineffective. So, to compute fixed point predicate, take \(\land (\lnot guard_i)\) where i ranges over all actions.</p>
+<h3 id="invariant-p">Invariant p</h3>
+<p>True initially, and stable. So, show: init conditions \(\implies\) p; \(\forall (g \to s) : \set{p \land g} s \set{p}\).</p>
+<h4 id="substitution-axiom">Substitution axiom</h4>
+<p>While reasoning about a program, can replace all occurances of an invariant with T; or vice versa.</p>
+<h2 id="progress-properties-of-action-systems">Progress properties of action systems</h2>
+<p>Action system: \(\set{g_i \to S_i}\)</p>
+<h3 id="transient-p">transient p</h3>
+<p>tr(p): p guaranteed to be falsified by a single action. \(tr(p) \implies tr(p \land q)\).</p>
+<h4 id="defn-under-weak-fairness-exec-rule">Defn Under weak fairness exec rule</h4>
+<p>\(p \implies ((\exists i::g_i) \land (\forall i:: \set{p \land g_i} S_i \set{\lnot p}))\). If you can&rsquo;t show this, p is not transient.</p>
+<h4 id="defn-under-minimal-progress-exec-rule">Defn Under minimal progress exec rule</h4>
+<p>\(\exists i:: \set{p} g_i \to S_i \set{\lnot p}\); ie \(\exists i:: (p \implies g_i) \land (\set{p} S_i \set{\lnot p})\).</p>
+<h3 id="p-ensures-q">p ensures q</h3>
+<p>If p holds, it continues to hold until q becomes true, and q will become true. Combines both safety and progress properties.</p>
+<p>\((p \en q) \equiv ((p \land \lnot q) \co (p \lor q)) \land tr(p)\).</p>
+<h3 id="temporal-logic">Temporal logic</h3>
+<p>\(p \mapsto q\): if p holds, q holds now or eventually. If \(p \implies q\), \(p \mapsto q\). \(p \en q \implies p \mapsto q\).</p>
+<p>\tbc</p>
+<h2 id="ordering-events-in-distributed-computation">Ordering events in distributed computation</h2>
+<p>Processes cannot be perfectly synchronized in their evaluation of &lsquo;time&rsquo;: clocks drift.</p>
+<h3 id="an-irreflexive-partial-ordering">An irreflexive partial ordering</h3>
+<p>Independent events cannot be ordered without ambiguity: only causality defines &lsquo;order&rsquo;: If \(a \prec b\), a can affect b.</p>
+<p>Events in a single process are completely ordered. There is no simultaneity. A process is a sequence of events.</p>
+<p>For any message, send event preceeds receive event.</p>
+<p>\(\prec\) is transitive.</p>
+<p>Concurrent events: \(a \nprec b, b \nprec a\): can&rsquo;t causally affect each other.</p>
+<h4 id="impossible-orderings">Impossible orderings</h4>
+<p>Eg: A happens before B, B happens before A. Can&rsquo;t go back in time and alter events to alter chances of your birth.</p>
+<p>Apprears as cycles in time-line graphs. These can creep in when a long sequence of distributed computing, involved sends and receives are involved.</p>
+<h3 id="time-line-graphs">Time-line graphs</h3>
+<p>Take vertical line for each process. y axis is time. Directed edges between points in various processes show msg send and recieve events.</p>
+<p>Observe causality paths going vertically, diagonally in this graph. They illustrate the ordering to be obeyed by the logical time assigned to each event.</p>
+<p>Easiy to identify independent events: points along multi-edges between 2 points in the causality graphs.</p>
+<h3 id="assign-numbers-to-events-logical-clocks">Assign numbers to events: Logical clocks</h3>
+<p>Contrast with physical clocks. \(C_{i}\): clock for process \(P_{i}\). Global clock \(C(x) = C_{i}(x)\) if x happens in \(P_{i}\).</p>
+<h4 id="clock-condition">Clock condition</h4>
+<p>\(a \prec b \implies C(a) &lt; C(b)\).</p>
+<h4 id="implementation-rule">Implementation rule</h4>
+<p>\(P_{i}\) increments \(C_{i}\) between 2 events.</p>
+<p>When a message m is sent \(P_{i} \to P_{j}\), the \(C_{i}(send(m))\) is sent along. Then, \(C_{j}(receive(m)) = \max(C_{i}(send(m)), C_{j}) + 1\).</p>
+<h4 id="imposing-total-order">Imposing total order</h4>
+<p>Just break ties arbitrarily.</p>
+<h2 id="common-knowledge">Common knowledge</h2>
+<p>k(A,p): A knows p. \(k(A,p) \implies k(A, k(A,p))\).</p>
+<h3 id="coordinating-attack-problem">Coordinating attack problem</h3>
+<p>Aka attacking generals problem. 2 generals on top of hills, enemy in the valley in between. If attack executed simultaneously, it succeeds; else it fails. Generals communicate only by sending messengers. No general will attack if he is not sure that the other general will also attack.</p>
+<p>So, no attack can be arranged if it was not prearranged. No pre-arranged attack can be called off.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Reasoning </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Reasoning</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;RV interdependence on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/</link>
+    <description>Recent content in &#43;RV interdependence on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>01 Distribution models</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/01_Distribution_models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/01_Distribution_models/</guid>
+      <description>Discrete L: Response probability: Discriminative models Boolean valued functions One can use boolean valued functions to get deterministic models of the form \(y = f(x)\). These functions are considered in the boolean functions survey and the computational learning theory survey.
+Probability from regression models Take any (continuous variable regression) model \(f: X \to [0, 1]\). Such a model can be interpreted as modeling the probability distribution \(f_L\).
+Advantages of modeling probability The classifier doesn&amp;rsquo;t care whether \(C_{1}\) is called class 1 or class 100.</description>
+    </item>
+    
+    <item>
+      <title>02 Graphical models</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/02_Graphical_models/</guid>
+      <description>Graphical model G of distribution The modeling problem Got RV&amp;rsquo;s \(X = (X_{i})\), \(f_X(x)\): joint probability density. RV&amp;rsquo;s as nodes. Edges representing dependencies.
+Distribution structure/ sparsity Seek to represent some factorization of the joint probability distribution concisely, thence conditional independence relationships too. In many cases, these factors involve small subsets of variables: sparsity in the dependency graph.
+Eg: \(f_X(x) = Z^{-1}\prod_{C \subseteq V} \gf_{C}(x_C)\). Compare notation with exponential family distributions.</description>
+    </item>
+    
+    <item>
+      <title>03 Sparse signal detection</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/03_Sparse_signal_detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/03_Sparse_signal_detection/</guid>
+      <description>Scale mixture models \tbc</description>
+    </item>
+    
+    <item>
+      <title>04 Affinity modeling</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/04_Affinity_modeling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/04_Affinity_modeling/</guid>
+      <description>Problem One wants to probabilitically model &amp;lsquo;affinities&amp;rsquo; (joint, conditional probabilities) of entities of two or more types. Entity types are modeled by discrete random variables (say \(W\) and \(D\)).
+Motivation Besides common motivations for modeling joint distributions of random variables, one may want to model affinities probabilistically in order to get low dimensional representations of one or both of these entities (motivations for which are described in the dimensionality reduction chapter of the statistics survey).</description>
+    </item>
+    
+    <item>
+      <title>06 Continuous response variables&#39; prediction</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/06_Continuous_response_variables_prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/06_Continuous_response_variables_prediction/</guid>
+      <description>Aka regression.
+For overview, see Statistics survey. Here one models a (set of ) response random variable \(Y\) in terms of input variables \(X\).
+Data preparation and assumptions Saling, centering, addition of bias variables is assumed below. That, along with motivation, is described in the statistics survey.
+Generalized linear model Linear models Here, we suppose that \(L|X \distr XW + N\), where \(N\) is a 0-mean noise RV. Then, \(E[L] = XW\), which is linear in parameters \(w\).</description>
+    </item>
+    
+  </channel>
+</rss>

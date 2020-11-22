@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Functionals on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/vectorSpaces/functionals/</link>
+    <description>Recent content in &#43;Functionals on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/vectorSpaces/functionals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Convexity and functionals</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/vectorSpaces/functionals/convexity_and_functionals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/vectorSpaces/functionals/convexity_and_functionals/</guid>
+      <description>Convex functional f Aka concave upwards, concave up or convex cup.
+Domain, definitions dom(f) always a convex set. Visualize as a cup. Epigraph of \(f\) (see analysis of functions over fields ref) is a convex set.
++++(When they say &amp;lsquo;convex function&amp;rsquo;, they mean &amp;lsquo;convex functional&amp;rsquo;.)+++
+Smoothness along line segment in the domain Equivalent definition (easy pf): Convex function: \(f(tx + (1-t)y) \leq tf(x) + (1-t)f(y)\): comparing f(some pt on segment [x, y]) with similar pt on secant between f(x) and f(y).</description>
+    </item>
+    
+    <item>
+      <title>Misc classes</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/vectorSpaces/functionals/misc_classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/vectorSpaces/functionals/misc_classes/</guid>
+      <description>Important functionals Radial basis functionals \(f_{c}(x) = g(\norm{x - c})\). Gaussian radial basis function is used to define the Gaussian kernel.
+Barrier functional \(f(x) \to \infty\) as \(x \to bnd(dom(f))\). Eg: \(\log (1-x)\).
+Used to charactarize feasible region in optimization problems. Any set in \(R^{n}\) is the domain as a barrier function.
+Kernel function k Implicitly (perhaps non-linearly) map \(x\) to \(\ftr(x)\) and give \(\dprod{x, x&amp;rsquo;}\) in that space.
+Importance See kernel trick in statistics ref.</description>
+    </item>
+    
+  </channel>
+</rss>

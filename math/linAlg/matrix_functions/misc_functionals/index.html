@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Misc functionals</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/misc_functionals/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/misc_functionals/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Misc functionals" />
+<meta property="og:description" content="Functionals over square matrices Also see functionals over &#43;ve definite A.
+Determinant of square A Definitions Det(A) or \(|A|\) : The recursive defn. Cofactor of \(A_{1,1}\): \(C_{1,1}\) = det of submatrix (minor) of A. Defn by properties: 1: det I = 1. 2: If 2 rows are equal, det(A) = 0. 3: det \(A\) depends linearly on first row.
+Properties So, there is sign change in Det(A) with row exchanges. Also, Det(A) is unchanged with \(row_{1} &#43;= k row_{2}\)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/misc_functionals/" />
+
+<meta itemprop="name" content="Misc functionals">
+<meta itemprop="description" content="Functionals over square matrices Also see functionals over &#43;ve definite A.
+Determinant of square A Definitions Det(A) or \(|A|\) : The recursive defn. Cofactor of \(A_{1,1}\): \(C_{1,1}\) = det of submatrix (minor) of A. Defn by properties: 1: det I = 1. 2: If 2 rows are equal, det(A) = 0. 3: det \(A\) depends linearly on first row.
+Properties So, there is sign change in Det(A) with row exchanges. Also, Det(A) is unchanged with \(row_{1} &#43;= k row_{2}\).">
+
+<meta itemprop="wordCount" content="1074">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Misc functionals"/>
+<meta name="twitter:description" content="Functionals over square matrices Also see functionals over &#43;ve definite A.
+Determinant of square A Definitions Det(A) or \(|A|\) : The recursive defn. Cofactor of \(A_{1,1}\): \(C_{1,1}\) = det of submatrix (minor) of A. Defn by properties: 1: det I = 1. 2: If 2 rows are equal, det(A) = 0. 3: det \(A\) depends linearly on first row.
+Properties So, there is sign change in Det(A) with row exchanges. Also, Det(A) is unchanged with \(row_{1} &#43;= k row_{2}\)."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/linAlg\/matrix_functions\/misc_functionals\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/linAlg\/matrix_functions\/misc_functionals.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Misc functionals</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Misc functionals">Misc functionals</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/linAlg/matrix_functions/misc_functionals.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="functionals-over-square-matrices">Functionals over square matrices</h2>
+<p>Also see functionals over +ve definite A.</p>
+<h3 id="determinant-of-square-a">Determinant of square A</h3>
+<h4 id="definitions">Definitions</h4>
+<p>Det(A) or \(|A|\) : The recursive defn. <strong>Cofactor</strong> of \(A_{1,1}\): \(C_{1,1}\) = det of submatrix (minor) of A. Defn by properties: 1: det I = 1. 2: If 2 rows are equal, det(A) = 0. 3: det \(A\) depends linearly on first row.</p>
+<h4 id="properties">Properties</h4>
+<p>So, there is sign change in Det(A) with row exchanges. Also, Det(A) is unchanged with \(row_{1} += k row_{2}\). So, 0 row means det \(A\) = 0. Also, for L or U, just multiply diagonal. Also, det \(A\) = 0 iff \(A\) singular.</p>
+<h5 id="multiplicativity-and-consequences">Multiplicativity and consequences</h5>
+<p>\(|A||B|=|AB|\): See that \(\frac{|AB|}{|B|}\) has the 3 properties \(|A|\) should have.</p>
+<p>So, \(|A^{-1}| = \frac{1}{|A|}\). So, \(|Q|= \pm 1\). So, considering \(|PA| = |LU|\) and \(|A^{T}P^{T}| = |U^{T}L^{T}|\), \(Det(A^{T}) = Det(A)\). So, column operations don&rsquo;t alter det \(A\), there is sign change with col exchanges, write det \(A\) with column cofactors etc..</p>
+<h4 id="connection-with-ew-sw">Connection with ew, sw</h4>
+<p>Take characteristic polynomial \(p_A\). \(det(A) = p_{A}(0) = \prod_{i} (l_{i}-l)]_{l=0}\): also by considering \(A = QTQ^{*}\). Also, \(|det(A)| = \prod \sw_i(A)\).</p>
+<h5 id="connection-with-rank-and-semidefiniteness">Connection with rank and semidefiniteness</h5>
+<p>Thence, det(A) = 0 \(\equiv\) \(A\) is rank deficient. \(det(A) &lt; 0 \implies \)A\( \nsucceq 0\): implication is one directional.</p>
+<h4 id="find-deta">Find Det(A)</h4>
+<p>Reduce \(A\) to U, find det U. For each of the n! diagonals, multiply elements; add after accounting for permutation sign: From linearity property, get row exchanged diagonal matrices, consider relation between determinant sign and row exchanges; Hence note equivalence of definitions. Use eigenvalue decomposition: \(|A|=|S\EW S^{-1}|=|S||\EW||S|^{-1} = |\EW|\).</p>
+<p>Det(A) = volume spanned by row (or col) vectors: orthogonalize (parallelopiped changed to cube of equal volume): \(|A|\) unchanged; now \(AA^{T}\) is diagonal matrix; \(|AA^{T}| = |A|^{2} = vol^{2}\). <strong>Perm(A)</strong>: Same as Det(A), ignore sign.</p>
+<h5 id="block-matrices">Block matrices</h5>
+<p>Leibnitz: \<br>
+\(X = \mat{A &amp; B \ C &amp; D } = \mat{A &amp; 0 \ C &amp; I } * \mat{I &amp; A^{-1}B \ 0 &amp; D-CA^{-1}B }\). Use this if \(A\) square, invertible, thence find determinant.</p>
+<p>If X symmetric, ie if \(B = C^{T}\): \(D-CA^{-1}B\) is the Schur complement of A.</p>
+<h3 id="trace-of-a">Trace of A</h3>
+<p>\(tr(A) = \sum_{i} a_{i,i}\).</p>
+<p>A linear map: tr(kA + lB) = k tr(A) + l tr(B): so convex.</p>
+<h4 id="trace-of-ab">Trace of AB</h4>
+<p>Trace is an inner product on matrices. It is same as vectorizing \(A\) and B and applying the standard inner product.</p>
+<p>\(tr(AB) =  \sum_{i} \sw_{i} \sw_{\pi(i)}\) for some permutation \(\pi\): from \(|A||B|=|AB|\).</p>
+<p>(Von Neumann): \(tr(AB) \leq \prod_{i} \sw_{i}(A)\sw_{i}(B)\) \why.</p>
+<h4 id="cyclicity-and-similarity-invariance">Cyclicity and similarity invariance</h4>
+<p>\(tr(AB) = tr(BA) = \sum_{i} \sum_{j} a_{i,j}b_{j,i}\); but \(tr(ABC) = tr(BCA) \neq tr(ACB)\).</p>
+<p>Similarity invariant: \(tr(P^{-1}AP) = tr(APP^{-1}) = tr(A)\).</p>
+<h4 id="trace-of-outer-products">Trace of outer products</h4>
+<p>\(tr(ab^{T}) = b^{T}a\) by algebra.</p>
+<h4 id="connection-with-ew">Connection with ew</h4>
+<p>Take characteristic polynomial \(p_A\). tr(A) = coefficient of \(l^{m-1}\) in \(p_{A}\) = \(\sum_{i} l_{i}\).</p>
+<h4 id="gradient-to-tr">Gradient to tr</h4>
+<p>By considering \(tr(f(X + \change X)) - tr(f(X))\), get: \(\gradient_X tr(X) = I, \gradient_X tr(XA) = \gradient_X tr(AX) = A^{T}, \gradient_X tr(BXA) = \gradient_X tr(ABX) = B^{T}A^{T}\).</p>
+<p>By considering \(tr(f(X + \change X)g(X + \change X))- tr(f(X)g(X))\), \<br>
+\(\gradient_X tr(AXBX) = B^{T}X^{T}A^{T} + A^{T}X^{T}B^{T}\).</p>
+<h2 id="functionals-over-ve-definite-matrices">Functionals over +ve definite matrices</h2>
+<h3 id="log-det-divergence">Log det divergence</h3>
+<p>\(f(A) = \log det(A) = \sum_i \log \ew_i(A) = tr(\log(A))\);\<br>
+often used because it is convex. \(\gradient \log det(A) = A^{-1}\) \why.</p>
+<h2 id="singular-values-sw">Singular values (sw)</h2>
+<p>See SVD section.</p>
+<h3 id="unitary-invariance">Unitary invariance</h3>
+<p>\(\SW \in R^{mn}\) always, so \(\SW = \SW^{<em>}\). \(\SW = U^{</em>}AV\): so, \(\SW\) is unitary invariant: \(\sw_{i}(A) = \sw_{i}(Q_{1}AQ_{2})\).</p>
+<p>Let \(a = (a_{i,i}), \sw = (\sw_{i})\): By direct computation using \(U\SW V^{*}\), \(a = Z\sw\), where \(Z = [u_{ij}v_{ij}] = (U.\bar{V})_{1:q, 1:q}\); take \(Q = |Z|\); get \(|a| \leq Q \sw\). \(\norm{q_{i}^{*}}_{1}^{2} = (\sum_{j} |u_{ij}v_{ij}|)^{2} \leq \sum_{j} |u_{ij}|^{2}\sum_{j} |v_{ij}|^{2} \leq 1\), by induction; also \(\norm{q_{i}}_{1} \leq 1\); so Q is substochastic.</p>
+<h3 id="effect-of-row-or-column-deletion">Effect of row or column deletion</h3>
+<p>\(A_{r}\): \(A\) with r rows or cols deleted; \(\sw_{k}(A) \geq \sw_{k}(A_{r}) \geq \sw_{k+r}(A)\). Prove for r=1, get general case thence. Pf where sth col is deleted: For upper bound, use \(\sw_{k}(A_{1}) = \max_{S \subset C^{n}, dim(S) = k} \min_{x \in S} \norm{Ax}_{2}\) with extra cond: \(x \perp e_{s}\); for lower bound use \<br>
+\(\sw_{k}(A_{1}) = \min_{S \subset C^{n}, dim(S) = n-k} \max_{x \in S} \norm{Ax}_{2}\) with extra cond. For row deletion, consider \(A^{*}\).</p>
+<h4 id="sum-product-of-sw-of-square-a">Sum, product of sw of square A</h4>
+<h5 id="ew-sw-sum-comparison">ew sw sum comparison</h5>
+<p>By block multiplicity, for any arbit sq orth \(x\), Y: \(S_{k} = X_{k}^{*}AY_{k}^{*}\): upper left submatrix of \(S = X^{*}AY\); So, \(\sw_{i}(X_{k}^{*}AY_{k}^{*}) \leq \sw_{i}(X^{*}AY) = \sw_{i}(A)\). So, \(|det(X_{k}^{*}AY_{k})| = \prod_{i=1}^{k} \sw_{i}(X_{k}^{*}AY_{k}) \leq \prod_{i=1}^{k} \sw_{i}(A)\).</p>
+<p>For square \(A\), take \(A = QTQ^{<em>}\), \(T = Q^{</em>}AQ\), \((\ew_{i}) \downarrow\); so take k-principle submatrix, use block multiplicity to get: \(T_{k} = Q_{k}^{*}AQ_{k}\)\<br>
+So, \(|det(T_{k})| = \prod_{i=1}^{k}|\ew_{i}(A)| = |det(Q_{k}^{*}AQ_{k})| \leq \prod_{i=1}^{k} \sw_{i}(A)\): = for k=m.</p>
+<p>By majorization lore, \(|tr(A)| \leq \sum_{i=1}^{q} |\ew_{i}(A)| \leq \sum_{i=1}^{q} \sw_{i}(A)\). Also, for any \(p&gt;0, \sum_{i=1}^{q} |\ew_{i}(A)|^{p} \leq \sum_{i=1}^{q} \sw_{i}(A)^{p}\).</p>
+<h5 id="sum-of-sw-of-matrix-products">Sum of sw of matrix products</h5>
+<p>\(A \in C^{mp}, B \in C^{pn}\).</p>
+<p>Take \(AB = U\SW V^{*}\); \(U_{k}^{*}ABV_k = \SW_{k}\); polar decomposition of
+$$BV_{k} = X_{k}Q; \<br>
+Q^{2} = V_{k}^{*}B^{*}BV_{k};\ det(Q^{2}) \leq \prod_{i=1}^{k} \sw_{i}(B^{*}B) = \prod_{i=1}^{k}\sw_{i}(B)^{2}$$.</p>
+<p>So,
+$$\prod_{i=1}^{k} \sw_{i}(AB) = |det(U_{k}^{*}ABV_{k})| = |det(U_{k}^{*}AX_{k})det(Q)| \<br>
+\leq \prod_{i=1}^{k}\sw_{i}(A) \sw_{i}(B)$$.</p>
+<p>By majorization lore, for \(p&gt;0, \sum_{i=1}^{q} \sw_{i}(AB)^{p} \leq \sum_{i=1}^{q} \sw_{i}(A)^{p}\sw_{i}(B)^{p}\).</p>
+<h5 id="sum-of-sw-as-trace-maximizer-of-svd-like-decompositions">Sum of sw as trace maximizer of SVD-like decompositions</h5>
+<p>.\$\sum_{i=1}^{k}\sw_{i}(A)
+= \max \set{|tr(X^{*}AY)|: X^{*}X = Y^{*}Y = I, X \in C^{mk}, Y \in C^{nk}}\<br>
+= \max \set{|tr(AC)| C \in C^{nm}\texttt{ is rank k partial isometry}}$.</p>
+<p>Pf: Can get C from Y, X: \(C = YX^{*}, \sw_{i}(C^{*}C) = \sw_{i}(XX^{*})= \sw_{i}(X^{*}X) = 1\); Can get Y, X from C: use SVD: \(C = U\SW V^{*} = U_{k}V^{*}_{k}\). \(|tr(AC)| = |\sum \ew_{i}(AC)| \leq \sum_{i=1}^{q} \sw_{i}(AC) \leq \sum_{i=1}^{q}\sw_{i}(A) \sw_{i}(C) = \sum_{i=1}^{k}\sw_{i}(A)\). Take \(A = U\SW V^{*}\), then for rank k isometry \(C = V\hat{I}_{k}U^{*}\), \(tr(AC) = tr(U\SW\hat{I}_{k}U^{*}) = \sum_{i=1}^{k}\sw_{i}(A)\).</p>
+<h5 id="triangle-inequality">Triangle inequality</h5>
+<p>All \(\sw_{i}\) in descending order; then: \<br>
+\(\sum_{i=1}^{k}\sw_{i}(A+B) \leq \sum_{i=1}^{k}\sw_{i}(A) + \sum_{i=1}^{k}\sw_{i}(B)\).</p>
+<p>Pf: Let C be some rank k partial isometry:\
+$$\sum_{i=1}^{k}\sw_{i}(A+B) = \max \set{|tr((A+B)C)|} \leq \max \set{|tr(AC)| + |tr(BC)|} \<br>
+\leq \max \set{|tr(AC)|} + \max \set{|tr(BC)|} = RHS$$.</p>
+<h3 id="convexity-concavity">Convexity, concavity</h3>
+<p>\(\sw_1(X)\) is convex, but \(\sw_n(X)\) is concave: \( \sw_1(tA + (1-t)B) = \sup_{\norm{x}=1} tAx + (1-t)Bx \leq \sw_1(A)x + \sw_1(B)x\).</p>
+<h3 id="properties-of-a-discerned-from-svd">Properties of A discerned from SVD</h3>
+<p>Rank(A) = num +ve singular values: By geometric action, or by algebra U, V unitary, \(\SW\) diagonal: \(|A|=|U\SW V^{<em>}|=|U||\SW| |V^{</em>}| =|\SW|\). Similarly, numerical Rank of \(A\) = num +ve not-close-to-0 \(\sw\). Good way to find rank.</p>
+<p>SVD is most accurate method for finding orthonormal basis for N(A) and range(A).</p>
+<p>\(A=\sum \sw_{i}u_{i}v_{i}^{*}\): \(\sum\) rank 1 matrices.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Misc functionals </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Misc functionals</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

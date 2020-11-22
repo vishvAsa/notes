@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Definite integral</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/definite_integral/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/definite_integral/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Definite integral" />
+<meta property="og:description" content="Definitions For a fixed \(f:R \to R\), the definite integral function is \(R^{2} \to R\). In general, it is defined for any \(f\) over a measurable space.
+Simply see the definition of min-cover integrals defined elsewhere: those form superior notions of integration than what follows.
+Integral as least Upper sum, greatest lower sum Aka Reimann Integral.
+Partitions of [a,b] Any such partition \(P\) is specified by a set of points \(a = x_{0} \leq x_{1} ." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/definite_integral/" />
+
+<meta itemprop="name" content="Definite integral">
+<meta itemprop="description" content="Definitions For a fixed \(f:R \to R\), the definite integral function is \(R^{2} \to R\). In general, it is defined for any \(f\) over a measurable space.
+Simply see the definition of min-cover integrals defined elsewhere: those form superior notions of integration than what follows.
+Integral as least Upper sum, greatest lower sum Aka Reimann Integral.
+Partitions of [a,b] Any such partition \(P\) is specified by a set of points \(a = x_{0} \leq x_{1} .">
+
+<meta itemprop="wordCount" content="1822">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Definite integral"/>
+<meta name="twitter:description" content="Definitions For a fixed \(f:R \to R\), the definite integral function is \(R^{2} \to R\). In general, it is defined for any \(f\) over a measurable space.
+Simply see the definition of min-cover integrals defined elsewhere: those form superior notions of integration than what follows.
+Integral as least Upper sum, greatest lower sum Aka Reimann Integral.
+Partitions of [a,b] Any such partition \(P\) is specified by a set of points \(a = x_{0} \leq x_{1} ."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/complexAnalysis\/R_valued_functions\/definite_integral\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/complexAnalysis\/R_valued_functions\/definite_integral.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Definite integral</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Definite integral">Definite integral</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/complexAnalysis/R_valued_functions/definite_integral.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="definitions">Definitions</h2>
+<p>For a fixed \(f:R \to R\), the definite integral function is \(R^{2} \to R\). In general, it is defined for any \(f\) over a measurable space.</p>
+<p>Simply see the definition of min-cover integrals defined elsewhere: those form superior notions of integration than what follows.</p>
+<h3 id="integral-as-least-upper-sum-greatest-lower-sum">Integral as least Upper sum, greatest lower sum</h3>
+<p>Aka Reimann Integral.</p>
+<h4 id="partitions-of-ab">Partitions of [a,b]</h4>
+<p>Any such partition \(P\) is specified by a set of points \(a = x_{0} \leq x_{1} .. x_{n} = b; \gD x_{i} = x_{i}- x_{i-1}\).</p>
+<h5 id="refinement">Refinement</h5>
+<p>\(P&rsquo;\) is a refinement of \(P\) if \(P \subseteq P&rsquo;\). Common refinement of \(P_{1}, P_{2}: P_{1} \union P_{2}\).</p>
+<h4 id="upper-lower-sums">Upper, lower sums</h4>
+<p>Take bounded function \<br>
+\(f: [a,b] \to R; M_{i} = \sup \set{f(x)|x \in [x_{i-1}, x_{i}]}; m_{i} = \inf\set{..}\); visualize; upper, lower sums
+$$U(P, f) = \sum_{i=1}^{n}M_{i}\gD x_{i}; L(P, f) = \sum_{i=1}^{n}m_{i}\gD x_{i}; \<br>
+\bar{\int_{a}^{b}}f(x) dx = \inf_{P} \set{U(P, f)}, \underline{\int_{a}^{b}}f(x) dx = \sup_{P} \set{L(P, f)}\(: both exist as both \)L\( and \)U$$ sums are bounded and real.</p>
+<h4 id="integrability">Integrability</h4>
+<p>If \(L=U\), \(f \in \mathcal{R}\), that is: \(f\) is Reimann integrable.</p>
+<h4 id="limitations">Limitations</h4>
+<p>Not Reimann integrable: \(I_Q(x)\) (Indicator function for rational numbers): \(U=1\), while \(L=0\) as every partition will contain a rational and an irrational number. However, this is box integrable: the corresponding box Integral is 0.</p>
+<p>It is but a special case of superior notions such as the Stieltjes integral and the min-cover integral.</p>
+<h3 id="min-cover-integral-of-measurable-functions">Min-cover integral of measurable functions</h3>
+<p>Aka Lebesgue integral, box integral. Take a real valued function \(f\) over measure space \((X, S, m)\). Suppose \(f:X \to R\) is a measurable function from \((X, S, m) \to (R, S_r, m_r)\), where \(S_r\) is the sigma algebra of open sets in \(R\), and \(m_r\) is the common box measure on R.</p>
+<p>For \(f(x) \geq 0 \forall x\),  for any \(E \in S\), \(\int_E f(x) dm\) is the min-cover measure of portion of the space \(E_f\) in \((X \times R)\) bounded by \(E\) and \(f(x)\). This measure was described for the general case in the product measure portion of the algebra survey. There is the additional restriction that the each \(B_i = (B_{iX} \times B_{iR}) \in (S \times S_r)\) used to cover \(E_i \subseteq E_f \) is such that for any \((x, f(x)) \in E_i \), its measure along \(R\), \(m_r(B_{iR}) \geq m_r(f(x))\): that is, they can be visualized as vertical boxes - with \(R\) being the vertical axis.</p>
+<p>This can be extended to any function \(f\). Let \(f^+ = 2^{-1}(|f(x)| + f(x))\) and \(f^- = 2^{-1}(|f(x)| - f(x))\) be the positive and negative parts of \(f\), so that \(f = f^+ - f^-\). Then, \(\int_E f(x) dm = \int_E f^+(x) dm - \int_E f^-(x) dm\).</p>
+<h4 id="importance">Importance</h4>
+<p>It is superior to Reimann integral. The indicator function over rationals \(I_Q(x)\) is not reimann integrable, but it is box integrable as the measure \(m(Q)=0\).</p>
+<h3 id="min-cover-integral-wrt-to-non-decreasing-g">Min-cover integral wrt to non decreasing g</h3>
+<p>Aka Lebesgue-Stieltjes integral or Radon integral.</p>
+<p>This is defined as the min-cover integral obtained using a measure \(m_g\) which corresponds to \(g\).</p>
+<h4 id="upper-and-lower-sums-view">Upper and lower sums view</h4>
+<p>Aka Stieltjes integral. Take \(g:[a,b] \to R\) nondecreasing. \(\gD g_{i} = g(x_{i}) - g(x_{i-1})\). \(f\) bounded. Define \(U(P, f, g) = \sum_{i=1}^{n}M_{i}\gD g_{i}\), L(P, f, g), \(\bar{\int_{a}^{b}}f(x) dg, \underline{\int}\).</p>
+<p>If \(L=U\), \(f \in R&rsquo;(g)\): Stieltjes integrable.</p>
+<p>For \(\int\) to exist, \(f\) and \(g\) must not share any points of discontinuity: See how g is used to deal with discontinuity in \(f\).</p>
+<h4 id="advantages">Advantages</h4>
+<p>Suppose \(f\) is \([x \in Q]\) in a certain interval X, \(f \in R(g)\) where g(x) = constant over X.</p>
+<p>If \(f\) bounded on \([a, b]\), has finite discontinuities, g conts at these points, then \(f \in R(g)\): take partition with \(\del g_{i}\) small in these pts, where \(|m_{i} - M_{i}|\) maybe big but bounded; thence show \(U - L &lt; \eps\).</p>
+<h5 id="series-as-stieltjes-integral">Series as Stieltjes integral</h5>
+<p>Derive g from unit step functions: \(g(x) = \sum_{n=1}^{\infty} c_{n}I(x - s_{n})\), with \(c_{n} \geq 0, \sum c_{n}\) convergent. Then \(\int_{a}^{b}f(x) dg = \sum c_{n}f(s_{n})\) : From \(\int f d(g_{1} + g_{2}) = \int f d(g_{1})+ \int f d(g_{2})\). \(\int_{a}^{b}1 dg = \sum c_{n}\).</p>
+<h2 id="importance-1">Importance</h2>
+<p>For a fixed \(f, m\), the integral can be viewed as a signed measure over \(X\). This measure is significant as it captures and extends the notion of area/ volume etc.; and as described in another chapter, it happens to be closely related to the gradient of the function.</p>
+<h2 id="basic-properties">Basic properties</h2>
+<h3 id="integral-sandwiched-between-l-and-u">Integral sandwiched between L and U</h3>
+<p>If \(P \subseteq P&rsquo;\), \(L(P, f, g) \leq L(P&rsquo;, f, g), U(P&rsquo;, f, g) \leq U(P, f, g)\): see geometrically. So, \(\bar{\int_{a}^{b}}f(x) dg \leq \underline{\int}\): take common refinement of of \(P_{1}, P_{2}: P&rsquo;\), see \(L(P_{1}, f, g) \leq L(P&rsquo;, f, g) \leq U(P&rsquo;, f, g) \leq U(P_{2}, f, g)\).</p>
+<p>\(f \in R(g)\) \(\equiv\) \( \forall \eps: \exists P: U(P, f, g) - L(P,f,g) &lt; \eps\). \(\gets\) Pf: \(L \leq \underline{\int} \leq \bar{\int} \leq U\). \(\to\) Pf: As \(\underline{\int} = \bar{\int}\), take \(L(P_{1}), U(P_{2})\) close to these, take common refinement.</p>
+<h4 id="closeness-to-any-sum-between-l-and-u">Closeness to any sum between L and U</h4>
+<p>So, if \(s_{i}, t_{i} \in [x_{i-1}, x_{i}], \sum |f(s_{i}) - f(t_{i})| \gD g_{i} \leq \eps\). Also, \(|\sum f(t_{i}) \gD g_{i} - \int_{a}^{b}f dg| &lt; \eps\): both are bounded between L and U.</p>
+<h3 id="continuity-implies-integrability">Continuity implies integrability</h3>
+<p>If \(f\) continuous on \([a, b]\), \(f \in R(g)\) on \([a, b]\).</p>
+<!-- raw HTML omitted -->
+<h3 id="relationship-with-uniform-convergence">Relationship with Uniform convergence</h3>
+<p>Take \(f_{n}\) on \([a, b]\), \(f_{n} \to f\) uniformly.</p>
+<p>If \(f_{n} \in R, f \in R\): \(lt_{n \to \infty} \int f_{n} dx = \int f dx\) as \(\int (f_{n} - \eps_{n}) dx \leq \underline{\int} f dx \leq \bar{\int} f dx \leq \int (f_{n} + \eps_{n})dx\).</p>
+<p>So, if \(\sum f_{n} \to g\) uniformly, \(\sum \int f_{n} dx = \int g dx\).</p>
+<h3 id="continuity-of-semi-definite-integral">Continuity of semi-definite integral</h3>
+<p>If \(f \in \mathcal{R}\) on \([a, b]\): \(F(x) = \int_{a}^{x}f(t)dt\) is continuous: \(f\) is bounded; so \(F(y) - F(x) \leq M (y-x) &lt; \eps\) as \(y \to x\).</p>
+<h2 id="connection-to-derivative">Connection to derivative</h2>
+<h3 id="differential-of-integral-over-f">Differential of integral over f</h3>
+<p>If \(f\) is continuous at \(c\): : \(F(x) = \int_{a}^{x}f(t)dt\) is differentiable at \(c\), \(F&rsquo;(c) = f(c)\).</p>
+<!-- raw HTML omitted -->
+<h3 id="definite-integral--difference-in-antiderivative">Definite integral = difference in antiderivative</h3>
+<h4 id="anti-derivative">Anti-derivative</h4>
+<p>If \(f \in R\), and if \(\exists F\) differentiable on \([a, b]\) with \(F&rsquo; = f\), then \(F\) is called the antiderivative or the indefinite integral of \(f\).</p>
+<p>For any \(f\), if there is an antiderivative \(F\), \(\set{F(x) + k | k \in R}\) is also an antiderivative. +++(So, there are either 0 or \(\infty\) antiderivatives.)+++</p>
+<h4 id="fundamental-theorem-of-calculus">Fundamental theorem of calculus</h4>
+<p>\(\int_{a}^{b} f(x)dx = F(b) - F(a)\).</p>
+<!-- raw HTML omitted -->
+<h3 id="inter-measure-derivative">Inter-measure Derivative</h3>
+<p>Aka Radon-Nikodym derivative. The min-cover integral may be used to define a derivative which connects two measures on the same measurable space: this is described in the chapter on measures in the Algebra survey.</p>
+<h2 id="integration-evaluating-definite-integrals">Integration: evaluating definite integrals</h2>
+<p>Methods relevant (eg: transformation to polar coordinates) only for evaluating definite integrals of functions over product spaces are described elsewhere.</p>
+<p>Also see section on important integrals for examples of application of these techniques.</p>
+<h3 id="integration-by-parts">Integration by parts</h3>
+<p>As definite integral equals the difference in the anti-derivative,
+$$\int_{a}^{b}f(x)H(x)dx + \int_{a}^{b}F(x)h(x)dx =\<br>
+\int_{a}^{b}f(x)h(x)dx = F(b)H(b) - F(a)H(a)$$.</p>
+<p>Thus, \(\int_{[a, b]} u dv = uv]_{[a, b]} - \int_{[a, b]} v du\) is a useful rule when RHS is easier to integrate.</p>
+<h3 id="sum-product-decomposition-rules">Sum, product, decomposition rules</h3>
+<p>Due to definite integral being equal to difference in the antiderivative: \(\int_{a}^{b} f(x) + h(x) dg = \int_{a}^{b} f dg + \int_{a}^{b} h dg\). \(\int_{a}^{b} f dg = \int_{a}^{c} f dg + \int_{c}^{b} f dg\).</p>
+<p>\(\int f d(g_{1} + g_{2}) = \int f d(g_{1})+ \int f d(g_{2})\).</p>
+<h3 id="transform-the-integral">Transform the integral</h3>
+<p>Suppose you want to evaluate the definite integral I. Often, evaluating kI or \(I^2\) (as in the case of the Gaussian integral) is simpler. Thence one can deduce the value of I.</p>
+<h3 id="change-of-variables">Change of variables</h3>
+<h4 id="function-composition-integrability">Function composition: integrability</h4>
+<p>If \(f \in R(g), f(x) \in [m, M]\), h continuous over [m, M], then \(j(x) = h(f(x)) \in R(g)\).</p>
+<p>\pf{Take \(\forall \eta \exists P: U(P, f, g) - L(P, f, g) = \sum (M_{i} - m_{i}) \gD g_{i} = \del (g(b) - g(a)) \leq \eta\). (Supposing \(M_i - m_i \leq \gD\).)</p>
+<p>\(h\) uniformly continuous over \([m, M]\), so \((h(M_{i}) - h(m_{i})) \leq \eps\) for some \(\eps\).</p>
+<p>Hence, \(\forall \eta&rsquo; \exists P: U(P, j, g) - L(P, j, g) = \sum (M_{i}^{*} - m_{i}^{*}) \gD g_{i} = \eps (g(b) - g(a)) \leq \frac{\eta \eps}{\del} = \eta&rsquo;\).}</p>
+<p>So, if \(f, g \in R(g): fg = 4^{-1}((f+g)^{2} - (f-g)^{2}), |f(x)| \in R(g)\). Also, \(\int f(x) dg \leq \int |f(x)| dg\).</p>
+<h4 id="integration">Integration</h4>
+<p>Take strictly increasing onto \(h:[A, B] \to [a, b]\). Suppose that \(f \in R\) on \([a, b]\).</p>
+<p>Then \(g = f \comp h \in R(h)\) on \([A, B]\). Then \(\int_{x \in [A, B]} g(x) dh = \int_{t \in [h(A), h(B)]} f(t) dh = \int_{x \in [A, B]} f(h(x)) h&rsquo;(x)dx \).</p>
+<p>\core{Take a partition \(P\) with upper and lower sums \(L, U\). Use mean value theorem to rewrite in terms of \(x\).}</p>
+<h5 id="utility">Utility</h5>
+<p>Change of variables is in general a extremely useful algebraic trick - so is this particular instance. Suppose \(x = h(y)\). With this, one can write: \(\int_{[A, B]} f(x) dx = \int_{y \in [h^{-1}(A), h^{-1}(B)]} f(h(y)) \frac{dx}{dy}dy \), as the RHS may be easier to evaluate.</p>
+<h3 id="reversing-limits">Reversing limits</h3>
+<p>By convention \(\int_a^bf(x)dx = - \int_b^af(x)dx\).</p>
+<h2 id="over-product-measure-spaces">Over product measure spaces</h2>
+<p>Consider \(f(x) \geq 0 \forall x\). (The integral for the general case may thence be derived as earlier.)</p>
+<p>Let \((X, S, m)\) be the product measure space of \(\set{(X_i, S_i, m_i) : i \in {1, 2}}\). Let \(E \in S = S_1 \times S_2\): Note that this includes only rectangles in \(R^{2}\), but not circles etc.. \(E_1 = \set{x_1 \in X_1: \exists x = (x_1, x_2) \in E}\). Let \(E_2(x_1)\) be similarly defined.</p>
+<p>Then, from the properties of the product measure: (Fubini) \(\int_E f(x) dm = \int_{E_1} g(x_1) dm_1\), where \(g(x_1) = \int_{x_2 \in E_2} f(x_1, x_2) d(m_2)\).</p>
+<!-- raw HTML omitted -->
+<p>Thus, integration over the product measure space reduces to integrating over one variable at a time; and the order in which these integrals are taken does not matter in this case. This case is aka multiple integration.</p>
+<h3 id="bounds">Bounds</h3>
+<p>If \(f \leq h, \int f dg \leq \int h dg\). If \(|f(x)| &lt; M \implies |\int_{a}^{b} f dg| \leq M (g(b) - g(a))\).</p>
+<h3 id="use-polar-coordinates">Use polar coordinates</h3>
+<p>Consider \(\int_{a, b} f(x, y) dx dy\), one can find an equivalent expression in polar coordinates using \(x = r \sin \gth, y = r \cos \gth\) and \(dxdy = dr (r d\gth)\). This is sometimes simpler to solve.</p>
+<p>As in the case of the Gaussian integral, the form \(\int_{a, b} f(x, y) dx dy\) may be derived from considering \(I^2\).</p>
+<h2 id="important-integrals">Important integrals</h2>
+<h3 id="normal-integral">Normal integral</h3>
+<p>Aka Gaussian integral.
+\(\int_{-\infty}^{\infty}e^{-x^{2}}dx = I = \sqrt{\pi}\): \</p>
+<!-- raw HTML omitted -->
+<h4 id="importance-2">Importance</h4>
+<p>The Gaussian integral itself is important due to this nice integrability and the nice properties observed in the Gaussian distribution (very suitable for modeling). Further, it is useful because realated integrals can be used to smooth functions for various purposes (eg: optimization).</p>
+<p>In calculating similar integrals, one often uses similar techniques and results about exponential and gamma probability densities.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Definite integral </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Definite integral</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

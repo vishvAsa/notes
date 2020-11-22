@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | 02 Probability of events</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/probability/probability/probability_theory/02_Probability_of_events/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/probability/probability/probability_theory/02_Probability_of_events/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="02 Probability of events" />
+<meta property="og:description" content="Example applications, modeling intricacies, various interpretations of probability are discussed in the probabilistic modeling survey.
+Probability measure The following axiomatization is common to both frequentist and subjective interpretation of probability.
+Take sample space \(S\), sigma algebra \(F\). The probability measure is a special measure \(v:F \to [0,1]\); so operates over sets, like CDF. Additionally, the general additivity property (described in algebra survey) is usually assumed.
+Other properties of the measure: should be countably additive over disjoint sets: \(\gs\) additive; \(v(\gO) = 1\)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/probability/probability/probability_theory/02_Probability_of_events/" />
+
+<meta itemprop="name" content="02 Probability of events">
+<meta itemprop="description" content="Example applications, modeling intricacies, various interpretations of probability are discussed in the probabilistic modeling survey.
+Probability measure The following axiomatization is common to both frequentist and subjective interpretation of probability.
+Take sample space \(S\), sigma algebra \(F\). The probability measure is a special measure \(v:F \to [0,1]\); so operates over sets, like CDF. Additionally, the general additivity property (described in algebra survey) is usually assumed.
+Other properties of the measure: should be countably additive over disjoint sets: \(\gs\) additive; \(v(\gO) = 1\).">
+
+<meta itemprop="wordCount" content="934">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="02 Probability of events"/>
+<meta name="twitter:description" content="Example applications, modeling intricacies, various interpretations of probability are discussed in the probabilistic modeling survey.
+Probability measure The following axiomatization is common to both frequentist and subjective interpretation of probability.
+Take sample space \(S\), sigma algebra \(F\). The probability measure is a special measure \(v:F \to [0,1]\); so operates over sets, like CDF. Additionally, the general additivity property (described in algebra survey) is usually assumed.
+Other properties of the measure: should be countably additive over disjoint sets: \(\gs\) additive; \(v(\gO) = 1\)."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/probability\/probability\/probability_theory\/02_Probability_of_events\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/probability\/probability\/probability_theory\/02_Probability_of_events.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> 02 Probability of events</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="02 Probability of events">02 Probability of events</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/probability/probability/probability_theory/02_Probability_of_events.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>Example applications, modeling intricacies, various interpretations of probability are discussed in the probabilistic modeling survey.</p>
+<h2 id="probability-measure">Probability measure</h2>
+<p>The following axiomatization is common to both frequentist and subjective interpretation of probability.</p>
+<p>Take sample space \(S\), sigma algebra \(F\). The probability measure is a special measure \(v:F \to [0,1]\); so operates over sets, like CDF. Additionally, the general additivity property (described in algebra survey) is usually assumed.</p>
+<p>Other properties of the measure: should be countably additive over disjoint sets: \(\gs\) additive; \(v(\gO) = 1\).</p>
+<p>So, \(v\) specifies event probability. \((S, F, v)\) is called a probability space.</p>
+<h3 id="importance">Importance</h3>
+<p>\exclaim{Viewing probability as the measure of a set of events makes many notions [even the simple Union bound] much more intuitive!}</p>
+<h3 id="visualization-an-area-of-atomic-events">Visualization: An area of atomic events</h3>
+<p>Use a spotted 2-d compact set, whose area represents the randomness (cross product of all distributions) involved in the probability; the spots represent an event of interest.</p>
+<h3 id="subscript-notation">Subscript notation</h3>
+<p>Consider the subscript in \(Pr_{X \in_{D} S}(E)\). In this case, the subscript indicates the variables which need to be specified in order to specify a point in the sample space; in doing so, it tells us where the randomness lies. It also tells us something about the range \(S\) of the random variable \(X\), and its distribution \(D\).</p>
+<h4 id="other-notations">Other notations</h4>
+<p>Also often used: \(Pr_{X}(E), Pr_{D}(E)\), or  \(Pr_{t}(E)\)\<br>
+if the distribution \(D\) is parametrized by \(t\).</p>
+<h4 id="importance-1">Importance</h4>
+<p>This notation/ representation is very valuable; using it, we can clearly manipulate and reason about probability quantities, seeing for example how the sample space shrinks as we consider condition probability distributions.</p>
+<h3 id="empirical-measure">Empirical measure</h3>
+<p>\(v_n(E) = n^{-1}\sum_{i} I_{E}(x_i)\), where I is the indicator function. This is useful in deducing the actual measure \(v\) using experiments/ sampling.</p>
+<h2 id="conditional-and-unconditional-probabilities">Conditional and unconditional probabilities</h2>
+<p>Conditional (posterior) probability \(Pr(E_1|E_2)\) considers the evidence that \(E_1\) has occurred. This conditioning alters the measure, so that \(Pr(E_1|E_1) = 1\), and \(\frac{Pr(E_1, E_2)}{Pr(E_1)} = Pr(E_2|E_1)\) (aka product rule). So, the sample space \(S\) can be thought of as now being constricted to \(E_1\).</p>
+<p>The unconditioned measure \(Pr(E_1)\) is called prior (marginal) probability.</p>
+<h3 id="common-errors">Common errors</h3>
+<h4 id="equal-weight-error">Equal weight error</h4>
+<p>Instead of calculating \(\frac{Pr(E_1, E_2)}{Pr(E_1)}\), one common error is to use unweighted counts: \(#(E_1 \inters E_2)/#(E_1)\), which leads to the wrong result. Hence, this should be avoided and proper formalism used.</p>
+<p>See examples provided later.</p>
+<h4 id="misidentified-prior-error">Misidentified prior error</h4>
+<p>Another common problem is the misidentification of the prior event with another, which leads to a different weight being assigned to the probabilities involved. This can lead to the equal weight error.</p>
+<p>See examples provided later.</p>
+<h4 id="illustrations">Illustrations</h4>
+<p>\example{Warden problem. Of 3 prisoners \((P1, P2, P3)\) scheduled to be executed, one is pardoned. The identity of the spared prisoner is known only to the warden. \(P1\) tries to find out about his fate.</p>
+<p>On being pressed, the warden, reasoning that he is not leaking any information relevant to \(P1\), only says that \(P2\) is executed. But, \(P1\) is now happy that the probability of his being pardoned is increased from \(1/3\) to \(1/2\).</p>
+<p>The warden is correct and \(P1\) is wrong. Reason follows.</p>
+<p>Let \(Pi\) also represent event where \(Pi\) is pardoned. Let \(W\) represent the event where warden tells \(P1\) that \(P2\) is being executed. Now, \(Pr(P1) = 1/3\). We want to find \(Pr(P1|W)\). \(Pr(W) = \sum_i Pr(W \inters Pi) = 1/6 + 0 + 1/3 = 1/2\), and \(Pr(P1 \inters W) = 1/6\), so \(Pr(P1|W) = 1/3\). So, \(P1\) has learned nothing about his fate.</p>
+<p>Another source of error in this example is confusing \(W\) with event \(P2\).
+}</p>
+<p>\example{Monty Hall problem. In a game show conducted by Monty Hall, there are 3 doors \(\seq{P1, P2, P3}\), one of which has a reward. Only Monty Hall knows where. A player chooses a door, say \(P1\). Monty Hall opens one of the other doors, say \(P2\), and reveals it to contain no reward. Should the player switch to \(P3\)?</p>
+<p>Same rigorous reasoning as in the case of Warden problem can be applied to reveal that he should switch. The source of errors are also the same.
+}</p>
+<h3 id="independence-of-events">Independence of events</h3>
+<p>\(E_1\) and \(E_2\) are independent if the \(Pr(E_2) = Pr(E_2|E_1)\): so, the evidence \(E_1\) does not change the probability measure as applied to \(E_2\). This is same as saying: \(Pr(E_1 \land E_2) = Pr(E_1) Pr(E_2)\).</p>
+<h2 id="properties-of-the-measure">Properties of the measure</h2>
+<p>Important properties such as the inclusion/ exclusion principle, union and intersection measure bounds follow from those described for general measures.</p>
+<h3 id="connection-with-expectation">Connection with expectation</h3>
+<p>Consider the measure \(v\). \(Pr(E_i) = E_v[I_{E_i}(x)]\).</p>
+<h2 id="probability-with-multiple-variables-sigma-algebras">Probability with Multiple variables/ sigma algebras</h2>
+<p>Consider the product \((S_1 \times S_2, F_1 \times F_2, v)\) of the probability spaces \((S_i, F_i, v_i)\) for \(i \in {1, 2}\). Consider the specific event \(E \in F_1\).</p>
+<h3 id="the-product-measure">The product measure</h3>
+<p>The resulting product measure \(v\) always obeys the following constraints:</p>
+<p>\(\forall E \in F_1: v(E, S_2) = v_1(E)\). A symmetrical condition holds for all \(G \in F_2\).</p>
+<h4 id="marginalization">Marginalization</h4>
+<p>Aka Law of total probability, marginalization. \(Pr(E) = \sum_{G \in F_2} Pr(E \land G)\): like adding up rows in a table of joint probabilities.</p>
+<h3 id="conditional-probability-inversion">Conditional probability inversion</h3>
+<p>Aka Bayes&rsquo; theorem, Bayes&rsquo;s rule.</p>
+<p>$$Pr(G | E) = \frac{Pr(E|G)Pr(G)}{Pr(E)} \<br>
+= \frac{Pr(E|G)Pr(G)}{\sum_{G \in F_2} Pr(E|G)Pr(G)}$$.</p>
+<p>Fixing \(E\), this becomes a function \(F_2 \to [0, 1]\), we can write \(Pr(G|E) = \propto Pr(E|G)Pr(G)\).</p>
+<h4 id="likelihood-function">Likelihood function</h4>
+<p>What is the likelihood of a hypothesis \(E\) given the evidence \(G\)? We can use \(f_G(E) = Pr(G|E)\), a function of \(E\) alone, as a measure of this.</p>
+<p>For use in statistical inference, see statistics ref.</p>
+<h2 id="associated-quantities">Associated quantities</h2>
+<h3 id="odds-and-log-odds">Odds and log odds</h3>
+<p>Odds: \(Pr(E_1)/ Pr(\lnot E_1)\). Thence is defined log odds or logit. In logistic models, this is modeled, rather than the probability itself.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">02 Probability of events </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: 02 Probability of events</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

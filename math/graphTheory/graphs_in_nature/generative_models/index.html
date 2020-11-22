@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Generative models</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/generative_models/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/generative_models/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Generative models" />
+<meta property="og:description" content="Applications Finding patterns and abnormalities in real world networks.
+Making either fine or coarse grained hypotheses of graph formation process.
+Making Extrapolations What will G look like 10 months later?
+So, algorithmic benefits of the model important: How easy is it to calculate paths? Eg: A may be queries, C may be retrieved documents, maybe we want to find the closest commercial/ advertisement-carrying queries, so want to find shortest path to commercial query in the network of queries." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/generative_models/" />
+
+<meta itemprop="name" content="Generative models">
+<meta itemprop="description" content="Applications Finding patterns and abnormalities in real world networks.
+Making either fine or coarse grained hypotheses of graph formation process.
+Making Extrapolations What will G look like 10 months later?
+So, algorithmic benefits of the model important: How easy is it to calculate paths? Eg: A may be queries, C may be retrieved documents, maybe we want to find the closest commercial/ advertisement-carrying queries, so want to find shortest path to commercial query in the network of queries.">
+
+<meta itemprop="wordCount" content="1519">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Generative models"/>
+<meta name="twitter:description" content="Applications Finding patterns and abnormalities in real world networks.
+Making either fine or coarse grained hypotheses of graph formation process.
+Making Extrapolations What will G look like 10 months later?
+So, algorithmic benefits of the model important: How easy is it to calculate paths? Eg: A may be queries, C may be retrieved documents, maybe we want to find the closest commercial/ advertisement-carrying queries, so want to find shortest path to commercial query in the network of queries."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/graphTheory\/graphs_in_nature\/generative_models\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/graphTheory\/graphs_in_nature\/generative_models.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Generative models</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Generative models">Generative models</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/graphTheory/graphs_in_nature/generative_models.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="applications">Applications</h2>
+<p>Finding patterns and abnormalities in real world networks.</p>
+<p>Making either fine or coarse grained hypotheses of graph formation process.</p>
+<h3 id="making-extrapolations">Making Extrapolations</h3>
+<p>What will G look like 10 months later?</p>
+<p>So, algorithmic benefits of the model important: How easy is it to calculate paths? Eg: A may be queries, C may be retrieved documents, maybe we want to find the closest commercial/ advertisement-carrying queries, so want to find shortest path to commercial query in the network of queries.</p>
+<h3 id="graph-sampling">Graph sampling</h3>
+<p>Deduce information about the graph by sampling a small number of nodes: if the temporal properties of the statistics which result from this sampling.</p>
+<h2 id="evaluation-of-models">Evaluation of models</h2>
+<p>Does the model produced have desired global static and temporal properties? Are the fine grained node arrival and edge formation processes modelled as a time, or do nodes arrive, form edges and stop?</p>
+<p>How likely is the generation of a certain real-world network, or of a network with similar properties by the random processes in the model? Is the edge-formation process likely under it?</p>
+<p>How useful is it? Is graph sampling easy to determine its properties?</p>
+<p>Is it easy to extrapolate its properties analytically? Can you calculate the likelihood of a model given a real world graph G? If so, ye can pick the max likelihood model and extrapolate what G looks like n years later.</p>
+<h2 id="achieving-various-properties">Achieving various properties</h2>
+<h3 id="strategies">Strategies</h3>
+<p>Look at models which achieve certain properties, even if they don&rsquo;t satisfy other properties; combine their best flavor to produce a good model.</p>
+<p>Or observe closely microscopic nw evolution properties: edge initiation, edge destination selection, lifetime etc.., mimic them, see if it produces desired global properties.</p>
+<h3 id="power-law">Power law</h3>
+<p>Power laws often appear in combination with self-similar fractal structures.</p>
+<p>Naive power law generator: edges come in, pick m from power law, randomly create m edges.</p>
+<h4 id="hypotheses">Hypotheses</h4>
+<p>Power law for in-degree is achieved by some flavor of &lsquo;preferential attachment&rsquo; method.</p>
+<p>Heavy tails emerge if nodes try to optimize connectivity under resource constraints. So may be humans are engineering things, like the internet, language. Eg: Take a language with n words, cost of word with length j is log j; this leads to power law distribution on word length.</p>
+<p>Criticism: But then, monkey typing a keyboard with n letters and a spacebar achieves power-law distribution on word-length.</p>
+<h4 id="other-factors">Other factors</h4>
+<p>A model based on exponential node lifetime distribution and power law with exp cutoff distr for time gap between edges yields power law out-degree distr.</p>
+<h3 id="acheiving-good-community-structure">Acheiving good community structure</h3>
+<p>Copying model acheives good community structure.</p>
+<h3 id="edge-destination-selection">Edge destination selection</h3>
+<p>Most edges (u, w) close triangles. Triangle closing: many choices for w, what yields best improvement over random choice of w among 2-hop neighbors: choose \(v=\nbd(u)\) by process A; then choose \(w=\nbd(v)\) by process B. Biggest improvement yielded when processes A and B are uniform random choice: bias towards w with more 2-hop paths leading to them.</p>
+<h2 id="models-which-dont-yield-heavy-tailed-distributions">Models which don&rsquo;t yield heavy tailed distributions</h2>
+<h3 id="random-graph-generators">Random graph generators</h3>
+<p>(Erdos, Renyi) G(n,p) model. G(n, 0.5) is the uniform distribution over all graphs with \(|V|=n\). G(n,N) model. Exhibits phase transition phenomenon. \tbc</p>
+<p>Don&rsquo;t produce heavy tailed distributions.</p>
+<h3 id="stochastic-adjascency-matrix">Stochastic Adjascency matrix</h3>
+<p>Take adj matrix, replace 1 and 0 with probabilities p and q. If p=q, get Erdos, Renyi graph.</p>
+<h2 id="preferential-attachment-generators">Preferential attachment generators</h2>
+<p>New node arrives; draws number of edges m from a distribution; probability of connecting with u \(\propto degree(u)\).</p>
+<p>Yields power law in-degree distribution with degree 3, low diameters. &lsquo;Rich get richer&rsquo;.</p>
+<h2 id="edge-copying-model">Edge Copying model</h2>
+<p>Node v arrives, picks no of edges m, either picks node v and does this m times: a] connects to random \(u \in \nbd(v)\) or b] with prob \(\gb\) connects to random node. Generates power law distribution with exponent \((1-\gb)^{-1}\).</p>
+<p>Leads to good community structure.</p>
+<h2 id="random-walk-model">Random walk model</h2>
+<p>New node comes in, does random walk, for each visited node, create edge with some probability. Generates power law distribution.</p>
+<h2 id="community-guided-attachment">Community guided attachment</h2>
+<p>Represent recursive structure of communities with a tree T of height H. Take perfectly balanced T; leaves will be the nodes; \(Pr((u,v) \in E) \propto c^{-\del(u,v)}\), where \(\del\) is tree distance.</p>
+<p>Leads to densification: \(E(t) \propto N(t)^{a}\), as expected. If c near 1, lack community structure; if near 2, get good community struct.</p>
+<h3 id="dynamic-community-guided-attachment">Dynamic community guided attachment</h3>
+<p>Start with one node. Keep adding levels to a b-ary balanced tree by adding nodes \(\set{u}\), out-edges from each u to v with \(Pr((u,v) \in E) \propto c^{-\del(u,v)}\).</p>
+<p>Leads to densification: \(E(t) \propto N(t)^{a}\); also to power law distribution for in-degrees.</p>
+<h3 id="defects">Defects</h3>
+<p>Diameter grows slowly. No heavy tailed out degree distr.</p>
+<h2 id="small-world-model">Small world model</h2>
+<p>Start with lattice; for each edge with prob p, move edge to random node. Low p values tend to yield good community structure.</p>
+<p>(Kleinberg) Yields small diameter, easily discoverable paths if long range neighbors chosen in a certain way.</p>
+<h2 id="forest-fire-model">Forest fire model</h2>
+<p>Node v arrives, chooses preexisting ambassador node u, forms link to u, picks random x and y, selects x out-links and y in-links from u to \(\set{w_{i}}\), forms out-links to \(\set{w_{i}}\), does the same from each \(t\in \set{w_{i}}\) recursively: the fire spreads.</p>
+<h3 id="good-properties">Good properties</h3>
+<p>Heavy tailed in-degree: due to &lsquo;rich get richer&rsquo; flavor: highly connected vertices easily reached, irrespective of initial ambassador node.</p>
+<p>Community structure, due to &lsquo;copying&rsquo; flavor.</p>
+<p>Heavy tailed out-degree: good chance to form many links.</p>
+<p>Densification power law: due to &lsquo;community guided attachment&rsquo; flavor: lot of links formed near the community.</p>
+<p>Shrinking diameter also observed.</p>
+<p>\oprob: Does it have good clustering coefficient distribution?</p>
+<h2 id="modelling-microscopic-network-evolution">Modelling Microscopic network evolution</h2>
+<p>Parameters: Node arrival fn N(), \(\ga, \gb\).</p>
+<p>At each time step: check for Node arrival according to N(); every new node samples lifetime and creates first edge according to preferential attachment; nodes \(\set{u}\) which are awake create an edge (e, w) by triangle closing by picking random neighbor v and then a random \(w \in \nbd(v)\); they then sample sleep time from distr: \(Pr(G=g) = g^{-\ga}e^{-g \gb}\); repeat.</p>
+<p>When a real graph is evolved with this model, it achieves power law degree distribution, expected clustering coefficient vs degree graph, distribution of shortest paths. Densification, shrinking diameter observed by other authors.</p>
+<h2 id="by-evolution-of-affiliation-network-g--ace">By evolution of affiliation network G&rsquo; = (A,C,E&rsquo;)</h2>
+<h3 id="preferential-attachment--edge-copying">Preferential attachment + edge copying</h3>
+<p>(Lattanzi, Sivakumar).\<br>
+Affiliation nw evolution: Pick \(d&rsquo;, d&rsquo;&rsquo; \in N\); start with affiliation nw \(G&rsquo;_{0}\) where each \(a \in A\) has min degree d&rsquo;, every \(c \in C\) has min degree d&rsquo;&rsquo;. With probability p, evolve A: add an actor a, find a preferentially chosen prototype \(a&rsquo; \in A\), randomly copy d&rsquo; of its edges. Similarly, with prob (1-p) evolve C.</p>
+<p>At each time step, can get social nw G=(A,E) among A by creating an edge (a,b) when they share a community; upon addition of an actor a, can also add edges to s preferentially chosen actors.</p>
+<h4 id="good-properties-1">Good properties</h4>
+<p>In G&rsquo;: Results in power law degree distribution for degrees of nodes in both A and C. In G: results in power law distribution for A; yields densification of E, shrinking/ stabilizing diameter.</p>
+<h4 id="algorithmic-benefits">Algorithmic benefits</h4>
+<p>G sparsifiable while mostly preserving distances from a set of relevant nodes.</p>
+<h2 id="kronecker-power-graphs">Kronecker power graphs</h2>
+<h3 id="kronecker-multiplied-graphs">Kronecker-multiplied graphs</h3>
+<p>(Leskovec et al). Take adjascency matreces A, B. Edge property: \(A \kron B\) is a graph with \(Edge(X_{i,j}, X_{k,l})\) iff \((i,k)\in edges(A) \land (j,l)\in edges(B)\). So, like placing graph B in stead of every node of A, and then making extra edges. Could be disconnected if no self-loops. Defines Kronecker power graph \(G_{k} = G^{(k)}\): \(G_{1}\) assumed to have self loops for each node.</p>
+<p>Can also use a stochastic adjascency matrix for \(G_{1}\).</p>
+<h3 id="properties">Properties</h3>
+<p>From Edge property: Degree distribution of \(G_{k}\) is kth Kronecker power of \((d_{1} .. d_{n})\): so multinomial. EW distribution is \((\ew_{1} .. \ew_{n})\). Components of each eigenvector follow a multinomial distribution. \why \(E_{k} = E_{1}^{k}, N_{k} = N_{1}^{k}\): so follows densification power law.</p>
+<p>From Edge property: If A, B have diameter at most d, \(A \kron B\) has diameter at most d. If \(diam(G_{1}) = d\), \(diam(G_{k}) = d\).</p>
+<p>For stochastic Kronecker products: Degree distribution, scree plot shown to compare well with real world graphs. \oprob Demonstrate the theoretical connection with the power law degree distribution.</p>
+<h3 id="defects-1">Defects</h3>
+<p>Does it have community structure? Does it have a good clustering coefficient distribution? Presumed answer no.</p>
+<h2 id="other-generators">Other generators</h2>
+<p>Redirection models: produce constant diameter, logarithmically increasing avg degree. Exponential random graphs</p>
+<h3 id="variations">Variations</h3>
+<p>Slight tweaks to better imitate real graphs: eg: orphans.</p>
+<h2 id="evolution-of-affiliation-nw-in-social-nw-websites">Evolution of affiliation nw in social nw websites</h2>
+<p>Extends microscopic nw evolution model thus: At each time step, each awakened node v does this: pick number of groups to join, n from \(ke^{-kn}\) with mean \(k^{-1} = r deg(v)^{g}\): thus striving for exponential distribution of number of groups of nodes of given degree, polynomial growth of avg number of groups wrt degree; join n groups doing this: with prob t create a new group; else join existing group: with prob \(p_{v} = \eta deg(v)\) join a group picked through a friend: \(\eta\) represents friend&rsquo;s influence; else join random group.</p>
+<p>Yields same properties for social nw evolution\<br>
+as microscopic evolution model; achieves power law group size distr; suitable fraction of singletons in groups (by tweaking t, \(\eta\)); exponential distr for num of affiliations for nodes of given degree.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Generative models </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Generative models</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

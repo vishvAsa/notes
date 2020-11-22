@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | &#43;Classification complexity</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/colt/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/colt/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="&#43;Classification complexity" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/colt/" />
+
+<meta itemprop="name" content="&#43;Classification complexity">
+<meta itemprop="description" content=""><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="&#43;Classification complexity"/>
+<meta name="twitter:description" content=""/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/colt\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/colt\/_index.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> &#43;Classification complexity</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="&#43;Classification complexity">&#43;Classification complexity</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/colt/_index.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<main>
+    <article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>Aka COLT/ computational learning theory, Binary classification and Queries: Theory</p>
+<h2 id="themes">Themes</h2>
+<p>Consider the classification task described in the statistics survey. Computational learning theory is about binary classification problem, and getting the best classifier using 0/1 loss.</p>
+<p>Hardness of (accurately/ approximately) learning a concept in a concept class in terms of time, space, sample size: Upper (\textbf{Efficient Learning Algorithm design}) and Lower bounds. Doing this: Agnostic or gnostic of distribution; In the presence or absence of noise (in label or in input); relative to ease of evaluation of a concept; Proper learning vs learning using a different Hypothesis concept class.</p>
+<p>What concept classes are more general?</p>
+<p>How many mistakes does an algorithm make whilst efficiently learning a concept class? Learning using bunch of experts.</p>
+<p>Judge the importance of problem/ model: Consider real-life learning scenarios where they are useful. Consider if lower / upper bound for some important scenario may be obtained.</p>
+<h3 id="interplay-with-other-areas">Interplay with other areas.</h3>
+<p>Observe similarities between compression and learning: learning which is more than mere memorization usually (kNN being an example to the contrary) involves learning some concise, general things from the examples.</p>
+<p>Cryptography and learning: opposites.</p>
+<h3 id="folk-theorems">Folk theorems</h3>
+<p>The only C we know to learn are polynomials (Eg PTF).</p>
+<h3 id="characterization-of-research-effort">Characterization of research effort</h3>
+<p>See computational complexity theory ref and algorithms ref; emphasis is on the former.</p>
+<h3 id="notation">Notation</h3>
+<h4 id="the-sample">The sample</h4>
+<p>Universal set of possible inputs \(X\). An example := (\(x \in X\), label \(l\)). Label is \({1,0}\) or \({1,-1}\) depending on context. Bits in \(x\): \(x_{1}\dots x_{n}\). Sample set S, \(|S|=m\)</p>
+<h4 id="concepts-and-their-sets">Concepts and their sets</h4>
+<p>Target concept (classifier function) in a certain representation: \(c\); Concept class \(C\); Concept representation class \(R\), representation dimension (f(input size)) or number of binary vars in \(x\): \(n\), sampling distribution \(D\); hypothesis concept h, hypothesis class H.</p>
+<p>\(|H_{n,m}|\): H restricted to \<br>
+algorithms with \(m\) \(n\)-dimensional examples. \chk</p>
+<h4 id="learning-algorithm">Learning algorithm</h4>
+<p>Learning algorithm \(L\), attribute/ variable list V.</p>
+<h3 id="the-binary-classifier-c">The binary classifier c</h3>
+<p>For different ways of looking at c, see boolean fn ref. For VCD proofs/ measuring complexity of representation classes, it is profitable to view a hypothesis as the dichotomy it induces on X.</p>
+<h2 id="representation-classes-of-classifiers">Representation classes of classifiers</h2>
+<h3 id="properties-of-representation-classes">Properties of representation classes</h3>
+<h4 id="error-regions">Error regions</h4>
+<p>Class of error regions: \(\Del(c)=\set{c \Del h]}\).</p>
+<h5 id="epsilon-net-of-examples">epsilon net of examples</h5>
+<p>\textbf{\(\eps\) net}: A set of examples which hits all error regions (\(\Del_{\eps}(c)\)) of weight \(\geq \eps\) under D. A bad hypothesis h: \(c \Del h \in \Del_{\eps}(c)\).</p>
+<h4 id="monotonicity">Monotonicity</h4>
+<p>To understand monotonicity of boolean functions, see boolean functions reference.</p>
+<p>Transformation to non-monotone R by introducing n new literals, if n finite.</p>
+<h4 id="closures">Closures</h4>
+<h5 id="projection-closure">Projection closure</h5>
+<p>Take partial assignment P; let P/A: an assignment to V first using P, then using A for unassigned vars. Projection of an example using P. Projection closed concept class: Take any f in \(C\), fix values of some variables using P, get another \(f_P=f(P/A)\) in \(C\).</p>
+<h5 id="embedding-closure">Embedding closure</h5>
+<p>Embedding one domain of variables into another; embedding a concept into a domain of variables. Embedding an example. Embedding closed concept class: Take f, rename variables, add irrelevant variables to the domai\(n\), f is still in \(C\).</p>
+<h5 id="pec-classes">PEC classes</h5>
+<p>Most useful concept classes are projection and embedding \<br>
+closed (pec), or are contained in some projection and embedding closed \(C\).</p>
+<h3 id="some-representation-classes">Some representation classes</h3>
+<h4 id="geometric-classes">Geometric classes</h4>
+<p>Also see boolean functions ref for halfspaces etc.. Axis aligned rectangles (good basic example).</p>
+<h4 id="boolean-functions">Boolean functions</h4>
+<p>See boolean functions ref: k-DNF. k-CNF, Conjunctions. Disjunctions. Decision lists. Decision trees. T-augmented decision trees. Polynomial size DNF. D-PTF. Halfspaces: common benchmark for machine learning algs. Intervals in R. Polyhedra in \(R^{n}\). The class of parity functions with length k: PARITY(k).</p>
+<h4 id="classes-of-continuous-fns">Classes of Continuous fns</h4>
+<p>See complex analysis ref.</p>
+<h4 id="restricted-concept-classes">Restricted concept classes</h4>
+<p>\(C_n\): concepts depending on a set of n vars. \(C_{r,n}\) Concepts in \(C_n\) with at most \(r\) relevant variables.</p>
+<h4 id="some-pac-reductions">Some PAC Reductions</h4>
+<p>k-CNF to Conjunctions. k-decision list to 1-decision list.</p>
+<p>Boolean formula to Log-space turing machine: Parse the circuit, Have identifier for each node.</p>
+<p>Log-space turing machine concept class (max klogn space) to Deterministic Finite Automaton (DFA) concept class: DFA state = \(&lt;\)state, possible tape content, head location\(&gt;\), Transitions = L/R, \(x \to x.x&hellip;x\).</p>
+<h3 id="measure-complexity-of-c">Measure complexity of C</h3>
+<p>Consider \(n\), size(c) (\(\approx \log |C|\)). Find VCD; Plot dichotomy count \(D_{C}(m)\): these are described in the boolean functions survey. Find sample complexity.</p>
+<h4 id="sq-dimension-sqd-or-d">SQ dimension (sqd or d)</h4>
+<h5 id="definition">Definition</h5>
+<p>Take c: \<br>
+\(\set{-1, 1}^{n} \to \set{-1, 1}\), \(C = \set{c}\). \(sqd_{D}(C) = \max d | \exists S_{D} = \set{f_{1}, .., f_{d}} \subseteq C\) with \(|corr_{x \distr D}(f_{i}f_{j})| = |E_{x \distr D}(f_{i}(x)f_{j}(x))| \leq d^{-1}\); \<br>
+\(sqd(C) = \max_{D} sqd_{D}(C)\).</p>
+<p>Applications: Learning in the presense of noise.</p>
+<h5 id="bounds-on-sqd">Bounds on SQD</h5>
+<p>Max sqd  = max \(|C|\) = \(2^{n}\). Parity fn \(p_{S}(x) = \prod_{x_{i} \in S} x_{i}\); \(C = \set{p_{S}: |S|\leq n}\) has max sqd: Sets S, T differ in some \(x_{d}: E_{x_{i} \distr U}[p_{S}(x)p_{T}(x)] = E[x_{d}]E[..] = 0\).</p>
+<p>\(sqd(C) = \Omega(VCD(C))\): Construct the set \(\set{f_{i}}\): Take uniform distr on the shattered set; select two fns \(\set{f_{i}}\) solving it for set of 2 examples \(\set{x_i}\); assume for \(2^{i}\); make \(\set{f_{i}}\) vs \(\set{x_i}\) sign matrix M; get matrix for \(2^{i+1}\): \(\mat{M &amp; M\M &amp; -M}\); extend proof for those between \(2^{i-1}\) and \(2^{i}\) by using matreces for powers of 2.</p>
+<p>\(sqd(C) = 2^{O(VCD(C))}\). \why</p>
+<h5 id="other-properties">Other properties</h5>
+<p>All in the corr-shattered set \(S_{D} = \set{f_{i}}\) linearly independent. Proof by contr: If d is sqd, \(c_{i}f_{i} = 0\), take \(c_{m} = max(\set{c_{i}})\), so \(f_{m} = \sum_{i \neq m} \frac{c_{i}}{c_{m}}f_{i}\), so \(1 = E[f_{m}f_{m}] = \sum_{i \neq m} \frac{c_{i}}{c_{m}} E[f_{m}f_{i}]\); but \(\frac{c_{i}}{c_{m}} \in [-1, 1]\), \(E[f_{m}f_{i}] \leq d^{-1}\), so absurdity.</p>
+<h4 id="other-measures">Other measures</h4>
+<p>\textbf{Unique -ve dimension}: UND(C) = Max Subclass \(C&rsquo; \in C\) with unique -ve examples.</p>
+<p>Can use covering and packing numbers. These measures of the size of sets are described in the topology ref.</p>
+<h2 id="resources-used-by-the-learner">Resources used by the learner</h2>
+<h3 id="queries-and-oracles">Queries and oracles</h3>
+<p>An oracle provides examples according to D. A teacher answers membership and equivalence queries.</p>
+<p>Example oracle \(EX_D(c)\). \<br>
+Membership query (mq): mq(x) yields c(x). Equivalence query (eq): eq(h) yields counterexample. MQ(c), EQ(c) oracles.</p>
+<p>\(EX_U(c)\) can be simulated using MQ(c). In PAC setting, EQ(c) can be simulated by the EX oracle.</p>
+<h4 id="probabilistic-oracle">Probabilistic oracle</h4>
+<p>PEX(f) for fn \(f:\set{0, 1}^n \to [-1, 1]\): produces (x, b) where \(x \distr U\), b is \(\pm 1\) binary RV with mean f(x). For boolean f, this is UPAC oracle EX(f, U). Models random noise under U: PEX(tf) is an oracle for f(x) with random noise of rate \(1/2-t/2\): simply see how to make binary RV b with mean tE[f].</p>
+<p>Statistical dist: \(D(PEX(f), PEX(g)) = E_x[|f(x)-g(x)|] \leq \norm{f-g}\). So, upon querying, an algorithm notices difference between PEX(f) and PEX(g) with prob \(\leq \norm{f-g}\). (See probability ref.)</p>
+<h3 id="non-adaptive-mq-namq">Non adaptive mq (namq)</h3>
+<p>Points on which mq&rsquo;s are made do not depend on concept being learnt. So, many concepts can be learnt from same set of query points: like the brain. Also, easier parallizability.</p>
+<h3 id="relative-power-of-various-queries">Relative power of various queries</h3>
+<p>As they solve iterated products problem, polynomial sized circuits are not learnable using random examples. By modifying the circuits to encode the ckt at certain fixed points, ye get a class learnable with namq but not with random examples alone. By placing the encoding at varying locations, but encoding the location of the encodings at certain fixed points, ye get a class learnable with mq, but not with namq.</p>
+<h3 id="attribute-efficient-ae-learning">Attribute efficient (ae) learning</h3>
+<p>r: Number of relevant attributes. \<br>
+Alg is poly time, calls to oracle is \(p(r, |c|)h(n), h(n) = o(n)\).</p>
+<p>Strong ae learning:
+\(h(n) = O((\log n)^{k})\). Or, calls to oracle polynomial in \(|c|\), not in n.</p>
+
+  </div>
+</article>
+
+    
+    <div class="css-treeview box">
+        
+<ul>
+    <li><input type="checkbox" id="section-tree-item-&#43;Classification complexity" checked="checked" /><label for="section-tree-item-&#43;Classification complexity">&#43;Classification complexity</label>
+        <ul>
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">&#43;Classification complexity </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: &#43;Classification complexity</li>
+        
+    </nav>
+</aside>
+
+            
+            
+            
+            
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">&#43;Complexity </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: &#43;Complexity</li>
+        
+    </nav>
+</aside>
+
+            
+            
+            
+            
+            <li>
+                
+<ul>
+    <li><input type="checkbox" id="section-tree-item-&#43;Complexity" checked="checked" /><label for="section-tree-item-&#43;Complexity">&#43;Complexity</label>
+        <ul>
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">&#43;Complexity </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: &#43;Complexity</li>
+        
+    </nav>
+</aside>
+
+            
+            
+            
+            
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Active learning </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Active learning</li>
+        
+    </nav>
+</aside>
+
+            
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Learnability despite noise </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Learnability despite noise</li>
+        
+    </nav>
+</aside>
+
+            
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Learning the best hypothesis </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Learning the best hypothesis</li>
+        
+    </nav>
+</aside>
+
+            
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Mistake bounded models </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Mistake bounded models</li>
+        
+    </nav>
+</aside>
+
+            
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">PAC learning </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: PAC learning</li>
+        
+    </nav>
+</aside>
+
+            
+            
+            
+            
+        </ul>
+    </li>
+</ul>
+
+            </li>
+            
+        </ul>
+    </li>
+</ul>
+
+    </div>
+</main>
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

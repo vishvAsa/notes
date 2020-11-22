@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | PAC learning</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/colt/complexity/PAC_learning/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/colt/complexity/PAC_learning/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="PAC learning" />
+<meta property="og:description" content="The goal Distribution and the oracle Distribution agnostic. Assumption: training distribution = testing distribution. 2 Oracle PAC model variant: Algorithm can use both \(D^{&#43;}{c}\) and \(D^{-}{c}\), \(error \leq \eps\) wrt both.
+EQ oracle can be simulated by the EX oracle.
+Strong PAC learning Given \(\eps, \del, C\), we want to find \(h \in C\) such that, with probability \(1 - \gd\), \(Pr(c(x) \neq h(x)) \leq \eps\).
+Weak PAC learning algorithm p, q polynomials; \(\eps \leq 2^{-1}-g = 2^{-1}-\frac{1}{p(n, size(c))}\), \(\del \leq \frac{1}{q(n, size(c))}\)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/colt/complexity/PAC_learning/" />
+
+<meta itemprop="name" content="PAC learning">
+<meta itemprop="description" content="The goal Distribution and the oracle Distribution agnostic. Assumption: training distribution = testing distribution. 2 Oracle PAC model variant: Algorithm can use both \(D^{&#43;}{c}\) and \(D^{-}{c}\), \(error \leq \eps\) wrt both.
+EQ oracle can be simulated by the EX oracle.
+Strong PAC learning Given \(\eps, \del, C\), we want to find \(h \in C\) such that, with probability \(1 - \gd\), \(Pr(c(x) \neq h(x)) \leq \eps\).
+Weak PAC learning algorithm p, q polynomials; \(\eps \leq 2^{-1}-g = 2^{-1}-\frac{1}{p(n, size(c))}\), \(\del \leq \frac{1}{q(n, size(c))}\).">
+
+<meta itemprop="wordCount" content="3025">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="PAC learning"/>
+<meta name="twitter:description" content="The goal Distribution and the oracle Distribution agnostic. Assumption: training distribution = testing distribution. 2 Oracle PAC model variant: Algorithm can use both \(D^{&#43;}{c}\) and \(D^{-}{c}\), \(error \leq \eps\) wrt both.
+EQ oracle can be simulated by the EX oracle.
+Strong PAC learning Given \(\eps, \del, C\), we want to find \(h \in C\) such that, with probability \(1 - \gd\), \(Pr(c(x) \neq h(x)) \leq \eps\).
+Weak PAC learning algorithm p, q polynomials; \(\eps \leq 2^{-1}-g = 2^{-1}-\frac{1}{p(n, size(c))}\), \(\del \leq \frac{1}{q(n, size(c))}\)."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/colt\/complexity\/PAC_learning\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/colt\/complexity\/PAC_learning.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> PAC learning</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="PAC learning">PAC learning</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/colt/complexity/PAC_learning.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="the-goal">The goal</h2>
+<h3 id="distribution-and-the-oracle">Distribution and the oracle</h3>
+<p>Distribution agnostic. Assumption: training distribution = testing distribution. 2 Oracle PAC model variant: Algorithm can use both \(D^{+}<em>{c}\) and \(D^{-}</em>{c}\), \(error \leq \eps\) wrt both.</p>
+<p>EQ oracle can be simulated by the EX oracle.</p>
+<h3 id="strong-pac-learning">Strong PAC learning</h3>
+<p>Given \(\eps, \del, C\), we want to find \(h \in C\) such that, with probability \(1 - \gd\), \(Pr(c(x) \neq h(x)) \leq \eps\).</p>
+<h3 id="weak-pac-learning-algorithm">Weak PAC learning algorithm</h3>
+<p>p, q polynomials; \(\eps \leq 2^{-1}-g = 2^{-1}-\frac{1}{p(n, size(c))}\), \(\del \leq \frac{1}{q(n, size(c))}\). g: the advantage of \(L\) over random guessing. Minimally better than random guessing: any g subexponential, can be achieved by memorizing previously seen examples.</p>
+<p>h is weak hyp for \(c\) iff: \<br>
+\(Pr_{x\distr D}[h(x)f(x)= -1] \leq 2^{-1}+g\); or \(E_{x \distr D}[h(x)c(x)]\geq 2g\).</p>
+<h2 id="pac-learning-model">PAC learning model</h2>
+<h3 id="make-pac-learning-algorithm">Make PAC learning algorithm</h3>
+<p>For C using H (containing C) with \(m\) finite: Cast a \textbf{multivalued discrete classification function} into PAC model: Make a binary classifier concept for each bit.</p>
+<p>Decide initial h (maybe null, universal); decide update to hypothesis corresponding to example provided by the sampling oracle : check if +ve examples enough.</p>
+<p>If H finite: Create an Occam algorithm; maybe use size(h) to bound \(|H|\); use Occam&rsquo;s razor. If H finite: Create an Occamish algorithm inconsistent with at most \(\eps|S|/2\) examples; maybe use size(h) to bound \(|H|\); use Chernoff to bound \(Pr(\exists \)bad h\(; |[c \Del h] \cap S| \leq m\eps/2)\); thence continue Occam razor proof.</p>
+<p>Try to find an algorithm which will grow the hypothesis decision list efficiently, as if solving a set cover problem.</p>
+<p>Any \(|H|\): Make algorithm to find h consistent with S, use VCD - Occam razor.</p>
+<p>Make an algorithm to learn C using only EQ(c), simulate EQ using EX.</p>
+<h3 id="pac-reduce-c-over-x-to-c-over-x">PAC reduce C over X to C&rsquo; over X&rsquo;</h3>
+<p>Efficiently change \(x \in X_{n} \to g(x) \in X&rsquo;_{p(n)}\); so that there exists proper image concept c&rsquo; for every \(c\) with size(c&rsquo;) = q(size(c)).</p>
+<h3 id="prove-efficient-pac-learnability">Prove efficient PAC learnability</h3>
+<p>Make PAC algorithm, bound \(m\) for \((\eps, \del)\) approximation of c; prove that running time is polynomial in \((\eps^{-1}, \del^{-1}, size(c), \)m\(, n)\).</p>
+<p>Reduce to a known efficient PAC learning algorithm.</p>
+<p>Show efficient learnability in the mistake bound model; bound \(m\) using Occam razor or VCD Occam razor.</p>
+<p>Find weak learner; boost.</p>
+<p>If learning on uniform distribution, see U distribution Fourier analysis section.</p>
+<h3 id="lower-bound-on-sample-complexity-in-pac">Lower bound on sample complexity in PAC</h3>
+<h4 id="shatter-dimension">Shatter dimension</h4>
+<p>m = \(\Omega(\frac{d}{\eps})\).</p>
+<p>\pf Take \(S\) shattered by \(C&rsquo;\), let \(|S|=d\) and distribution \(D = U\) over \(S\). Then, we show that no algorithm \(L\) can ensure \(\eps\) error whp. As \(D\) is the support of \(C&rsquo;\), without loss of generality, we will consider \(C\) to be the finite set of \(2^{d}\) concepts with different dichotomies induced on \(S\).</p>
+<p>Draw \(S&rsquo;\) with \(|S'| = \frac{d}{2}\); suppose that \(L\) learns \(h\). \(h = f_L(S&rsquo;)\). But there are \(|2^{S-S&rsquo;}|= 2^{d/2}\) different concepts \(c\) consistent with the labellings in \(S&rsquo;\) and so, \(h\) is chosen independently of these different concepts. Does \(h\) have low error wrt all of these?</p>
+<p>We want to show that there exists a \(c\) such that the \(h\) learned would have a high error rate with non-negligible probability. We will do this by considering the following process: Fix \(S\) and \(h\), pick \(c \distr U(2^{S-S&rsquo;})\). We then show that \(E_c[Pr_x(h(x) \neq c(x))] &gt; 1/4\), which implies the existence of \(c\) for which \(h\) is a bad approximation.</p>
+<p>\(E_{c}[Pr_x[h(x) \neq c(x)]] = E_c[Pr_{D}(x \in S-S&rsquo;) Pr_{c}(h(x) \neq c(x)|x \in S-S&rsquo;)] \geq 2^{-1}\times 2^{-1}\). Thus, there exists a \(c\), for which the \(h\) learned using \(S&rsquo;\) as the sample would be bad.</p>
+<p>We then need to show that \(L\) cannot find a good hypothesis for this \(c\) with high probability. \tbc</p>
+<h4 id="from-halving-algorithm">From halving algorithm</h4>
+<p>Halving algorithm \(L\) mistakes in MB model is an approximate lower bound: take set S on which \(L\) makes mistakes, make uniform distr on S, use halving algorithm in PAC model, then error probability is \((|S| - m)/(2 \log |S|) \leq \eps\), so \(|S|(1 - 1/(n^{k})) \leq m \forall k\).</p>
+<h3 id="pac-with-mq">PAC with mq</h3>
+<p>Any R efficiently PAC learnable using mq&rsquo;s and eq&rsquo;s is efficiently learnable with mq&rsquo;s only.</p>
+<h2 id="pac-learnability-of-some-r">PAC learnability of some R</h2>
+<p>Also see list of R which are PAC learnable with noise, learnable in MB.</p>
+<h3 id="halfspaces">Halfspaces</h3>
+<p>\(f=sgn(w.x)\), \(\forall \)x\(, \dprod{w,x} \neq 0\), \(\exists x_{i}: |E_{x\distr D}[f(x)x_{i}]|\geq W^{-1}\); so some \(x_{i}\) weak hypothesis; then use ADAboost.</p>
+<h3 id="parities">Parities</h3>
+<p>Use the MB algorithm with Occam razor.</p>
+<p>ae learning of parities wrt Uniform distribution is equivalent to decoding high rate random linear codes from low number of errors. So, believed to be hard.</p>
+<h2 id="approximate-f-with-orthogonal-polynomials">Approximate f with orthogonal polynomials</h2>
+<p>Aka Fourier coefficients. Must have orthogonal polynomials for D.</p>
+<h2 id="uniform-distribution-pac-learning-upac">Uniform distribution PAC learning (UPAC)</h2>
+<p>Easier than learning under general distributions: can use Fourier analysis.</p>
+<p>Harder than learning Gaussian distr. \why</p>
+<p>\oprob What is the lower bound for UPAC learning? Does ae learning D\(L&rsquo;\) s make sense?</p>
+<h3 id="shortness-of-dnf-term-length-decn-tree-depth">Shortness of DNF term length, Decn tree depth</h3>
+<p>DNF term-length or 1-D\(L\) size is limited to \(\log \frac{1}{\eps}\): Probability of longer term being satisfied \(&lt; \eps\).</p>
+<h4 id="learn-dnf">Learn DNF</h4>
+<p>Collect all terms of size \(log(s/\eps)\) consistent with target DNF: use feature expansion, disjunction learning winnow algorithm.</p>
+<h3 id="the-function-space">The function space</h3>
+<p>Basis of the input space: \(\set{\pm1}^{n}\). Basis of the function space: Parity functions \(p_{S}\). \(f = \sum_{S\subseteq [n]} \hat{f}(S)p_{S}\). See Boolean function ref for details.</p>
+<h3 id="alg-to-learn-fourier-coefficient">Alg to learn Fourier coefficient</h3>
+<p>Learn \(\hat{f}(S)\)\<br>
+using \(\hat{f}(S) = E_{x \in_{U} \set{\pm 1}^{n}}[f(x)p_{S}(x)]\): Choose sample of size m; by Chernoff \(m = \Omega(\frac{\log \del^{-1}}{l^{2}})\) for \((\del, l)\) approx of \(\hat{f}(S)\).</p>
+<p>Best fitting polynomial g of degree d: \(\sum_{|S|\leq d} \hat{f}(S)p_{S}\) (See Boolean function ref). \(Pr_{x}(sgn(g(x)) \neq f(x)) = E_{x}([sgn(g(x)) \neq f(x)]) \leq E_{x}((f(x)-g(x))^{2})\).</p>
+<h3 id="low-degree-algorithm">Low degree algorithm</h3>
+<p>If f is \((\eps,\del)\) concentrated, f learnable wrt U to accuracy 1-a in time \(n^{O(\del)}\): Sample to estimate \(\hat{f}(S): |S|\leq \del\), make g, output \(sgn(g)\). Agnostically learning big correlated parities.</p>
+<h4 id="learning-some-r-under-u">Learning some R under U</h4>
+<p>Polysize DNF formulae learnable in \<br>
+\(n^{O(\log |c|\log\frac{1}{\eps}))}\). Halfspaces learnable in \(n^{O(\eps^{-2})}\). Any function of k halfspaces learnable in \(n^{O(k^{2}\eps^{-2})}\). \oprob Do better for \(\inters\) of k halfspaces.</p>
+<p>Depth d ckts of size \(|c|\). Also Decision trees. \why</p>
+<h3 id="based-on-total-influence">Based on total influence</h3>
+<p>f learnable in \(n^{O(\frac{d}{\eps})}\) to accuracy \(1-\eps\). \why</p>
+<p>So, monotone f learnable in \(n^{O(\frac{\sqrt{n}}{\eps})}\).</p>
+<h3 id="hardness-of-ae-learning-of-parityk">Hardness of ae learning of PARITY(k)</h3>
+<p>This is equivalent to decoding high rate random linear code C from low number of errors, a hard open problem. Also equivalent to learning PARITY with noise, in simpler case where noise is random and independent.</p>
+<p>If you can decode \(C\), you can ae learn PARITY: Simply take the examples \(\set{x_i}\) you get, turn it into H, get a random G from \(null(H^{T})\), give it to the decoder along with the syndrome \(\set{p_{e}(x_i)}\), return hypothesis \(p_{e}\).</p>
+<p>If you can learn PARITY(k) using algorithm \(L\), you can learn it properly whp. Take the hypothesis h returned by \(L\), turn it into an mq oracle which evaluates h(y) by taking h(x+y)+h(y) over many x. Thence make hypothesis parity \(p\) attribute efficiently.</p>
+<p>By properly ae learning parity you can decode random linear code: Given G and y, make H and yH, use learner.</p>
+<h2 id="upac-with-mq">UPAC with mq</h2>
+<h3 id="learning-parityk-using-namq">Learning PARITY(k) using namq</h3>
+<p>Let H be check matrix for a code C; corrupted code y = c+e for some code \(c\) and error e with \(wt(e) &lt; w\). Take BCR decoding algorithm (see coding theory ref) A which accepts y and the syndrome yH = eH, and returns e. So, using namq&rsquo;s on the columns of H, A learns unknown \(e \in PARITY(k)\) attribute efficiently. Another view: using e, A learns parity \(c\) using noisy namq&rsquo;s.</p>
+<h3 id="sparse-approach">Sparse approach</h3>
+<p>For t-sparse f; or \(\frac{\norm{f}_{1}^{2}}{\eps}\) sparse g: approximator for f.</p>
+<p>Thus, using K-M algorithm, f is learnable to accuracy \(1-\eps\) in time \<br>
+\(poly(\)n\(, \norm{f}<em>{1}, \eps^{-1})\) using membership queries: find coords of g = coords of f of size \(\geq \frac{\eps}{\norm{f}</em>{1}}\); use sgn(g) as hypothesis.</p>
+<h3 id="weak-parity-learning">Weak parity learning</h3>
+<p>Given f with some t-heavy coefficient, given MQ oracle, find vector z with t/2 heavy \(|\hat{f}(z)|\). \(|\hat{f}(y)| \geq t\) iff \(Pr(f = p_{y}) \geq 1/2 + t/2\); so the weakly correlated parity \(p_{y}\) is \(1/2 - t/2\) approximator of f, so called weak parity learning.</p>
+<p>Can also view this as learning parities in agnostic setting. See agnostic learning section.</p>
+<h4 id="ae-namq-algorithm-like-a-sieve">ae-namq algorithm: Like a sieve</h4>
+<p>Take an aena-mq parity learning algorithm L.  \(f_a: f(x \xor a)\); S: the set of mq points of L. Estimate Fourier coefficients of f with t/4 accuracy. Also, for every y in S, find all Fourier coefficients of \(f_{R,y}\) to estimate coefficients of \(f_y\). \(\hat{f}_c(a) = \hat{f}(a)p_a(c)\); so \(\hat{f}_c(a)\hat{f}(a)\) and \(p_a(c)\) have same sign.</p>
+<p>Run \(L\) for every \(z \in {0, 1}^m\) with \(\hat{f}<em>R(z) \geq 3t/4\), using \(\hat{f}</em>{R,c}(z)\hat{f}_R(z)\) to answer mq&rsquo;s and learn \(p_a\). If \(a=zR\), add \(p_a\) to a set of possible hypotheses. Repeat the process many times with different R. Really good \(p_a\) occur in hypothesis sets at much higher rate. Thus, find a with \(\hat{f}(a) \geq t/2\).</p>
+<p>Can also be fixed to find t/2 heavy component of randomized fn \(\psi\). Only, \(m\) required for good approximation whp depends on \(var(\psi)\).</p>
+<h4 id="k-m-algorithm-to-find-big-components-using-membership-queries">K-M algorithm to find big components using membership queries</h4>
+<p>Let \(|a| = k\). \<br>
+\(f_{a}(x) \dfn \sum_{Z \in \set{\pm 1}^{n-k}} \hat{f}(a,Z)p_{a,Z}(a,x)\).\<br>
+Then \(f_{a}(x) = E_{y}[f(yx)p_{a}(y)]\): Let \(Z = Z_{1}Z_{2}, Z_{1} \in \set{\pm 1}^{k}\); \(E_{y}[f(yx)p_{a}(y)] =\<br>
+E_{y}[\sum_{Z} \hat{f}(Z)p_{Z}(yx) p_{a}(y)] = \sum_{Z_{1}, Z_{2}} \hat{f}(Z_{1} Z_{2}) p_{Z_{2}}(x) E_{y}[p_{Z_{1}}(y)p_{a}(y)] =\<br>
+\sum_{Z_{2}} \hat{f}(a Z_{2}) p_{Z_{2}}(x)\).</p>
+<p>(Kushilevitz, Mansour). Input t; output all \(|\hat{f}(S)| \geq t\) whp. Make tree: at root find \(\norm{f}^{2}\); at left child find \(\norm{f_{0}}^{2}\); at right child find \(\norm{f_{1}}^{2}\); if any branch has \(\norm{f_{a}}^{2} \leq t^{2}\) prune; repeat.</p>
+<p>Leaves of the tree are individual coefficients \(\hat{f}(S)\). Height \(\leq n\). Breadth \(\leq t^{-2}\): every level is a partition of \(\set{\hat{f}(S)}\); \(t^{-2}\) of \(\set{f_{a}}\) have \(\norm{f_{a}}^{2} &gt; t^{-2}\).</p>
+<p>To find \(\norm{f_{a}}^{2} = E_{x}[f_{a}(x)^{2}]\): Find \(f_{a}(x) = E_{y}[f(yx)p_{a}(y)]\): pick random y&rsquo;s, use membership queries.</p>
+<p>Opcount: poly(t, n).</p>
+<h4 id="results">Results</h4>
+<p>Decision trees with t leaves approximable by t-sparse function; so learnable in polynomial time with membership queries.</p>
+<h3 id="learning-dnf">Learning DNF</h3>
+<p>Aka Harmonic sieve. DNFs have a \((2s+1)^{-1}\) heavy component: For any D, there is \(p_a\) such that \(|E_D[f p_a]| \geq (2s+1)^{-1}\) and \(wt(a) \leq \log ((2s+1)\norm{D2^n}_{\infty})\). \why.</p>
+<p>\(E_D[f(x)p_a(x)] = E_U[f(x)2^n D(x)p_a(x)] = \hat{\psi}(a)\). If ye give oracle access to D, you can evaluate \(\psi\). So, use ae-namq algorithm to learn \(a\) with \(\hat{\psi}(a) \geq t/2\). As \(var(\psi) \leq \norm{2^n D(x)}\), \(m\) required will depend on this. This is efficient only for D polynomially close to U.</p>
+<p>Then boost using p-smooth algorithm.</p>
+<h2 id="boosting-weak-efficient-pac-algorithm-l">Boosting weak efficient PAC algorithm L</h2>
+<h3 id="practical-applications">Practical applications</h3>
+<p>Frequently used: boost decision trees.</p>
+<h3 id="boost-confidence">Boost confidence</h3>
+<p>Run \(L\) k times to gather k hypotheses (Get \(\eps\) approx with prob \(1-(1-\del_0)^{k}\)), select best h by using many examples to gauge \(h \symdiff c\).</p>
+<h3 id="boosting-accuracy">Boosting accuracy</h3>
+<p>So you are using the guarantee that polynomial time \(L\) works with any distribution to produce a hypothesis which produces very accurate results by playing with input distribution.</p>
+<p>General idea for all techniques: put more weight on x on which weak hyp h makes mistake; rerun weak learner.</p>
+<h4 id="lower-bound">Lower bound</h4>
+<p>Number of iterations to get \(\eps\) accurate using \(\gamma\) weak learner is \(\Omega(g^{-2}\log (\frac{1}{\eps}))\).</p>
+<h3 id="properties-of-booster">Properties of booster</h3>
+<p>Noise tolerance. Smoothness: How far does the artificially generated distribution deviate from original?: Affects speed.</p>
+<h3 id="boost-accuracy-by-filtering">Boost accuracy by filtering</h3>
+<p>Reweight points using online algorithm.</p>
+<h4 id="majority-tree-of-hypotheses-booster">Majority tree of Hypotheses Booster</h4>
+<p>(Schapire). Error b bosted to \(g(b) = 3b^{2}-2b^{3}\): Run \(L\) to get \(h_{1}\); filter D to get \(D_{2}\) where \(h_{1}\) is useless like random guessing; run \(L\) to get \(h_{2}\) - learn something new; filter D to get \(D_{3}\) where \(h_{1}(x) \neq h_{2}(x)\); run \(L\) to get \(h_{3}\); return \(majority(h_{1},h_{2},h_{3})\). Gauge errors of \(h_{1}\) and \(h_{2}\) to ensure efficient filterability.</p>
+<h5 id="recursive-accuracy-boosting">Recursive accuracy boosting</h5>
+<p>For target accuracy b and distribution D: Maybe invoke self thrice for accuracy \(g^{-1}(b)\) and distributions \(D, D_{2}, D_{3}\). Final h like 3-ary tree; only leaves use samples for learning; others sample for error gauging.</p>
+<h3 id="boost-accuracy-by-sampling">Boost accuracy by sampling</h3>
+<p>Reweight points using offline algorithm.</p>
+<p>Get sample S; boost accuracy till h consistant with S; bound size of h; bound \(|S|\) using Occam razor.</p>
+<h3 id="adaptive-booster-adaboost">Adaptive booster (AdaBoost)</h3>
+<p>Get sample S; use \(U\) distr on it. At time t=0: wt on \(s_{j}\) is \(w_{j}=1\); \(W_{0} = \sum w_{i} = m\); prob distr \(D(x_i) = \frac{w_{i}}{W}\). On iteration i: run \(L\), get hypothesis \(h_{i}:X \to \set{\pm 1}\), \(err(h_{i}) = E_{i}\), accuracy \(a_{i} = 1-E_{i}\), \(\beta_{i} = \frac{E_{i}}{a_{i}}\); for each \(s_{j}\) where \(h_{i}\) is correct, reduce their weight: \(w_{j} \assign w_{j}\beta_{i}\). Output after time T: \(sgn(\sum_{i}a_{i}h_{i} - 2^{-1})\); \(a_{i} = \frac{\lg \beta_{i}}{\sum_{j} \lg \beta_{j}}\). If \(E = \max_{i} E_{i}\), \(\beta = max_{i} \beta_{i}\), this is \(sgn(T^{-1}\sum_{i}h_{i} - 2^{-1})\).</p>
+<p>Final error \(E_{T} \leq e^{-2Tg^{2}}\): \(W_{1} = m(2E); W_{T} = m(2E)^{T}\). Weight of \(x_i\) misclassified at iteration T \(\geq \beta^{T/2}\): At \(\geq \frac{T}{2}\) of \(\set{h_{i}}\) could&rsquo;ve been right on it. Total wt on misclassified points \(\leq \eps \)m\( \beta^{T/2} \leq m(2E)^{T}\); so \(\eps \leq (\frac{4E^{2}}{\beta})^{T/2} = (4E(1-E))^{T/2} = (4(4^{-1} - g^{2}))^{T/2} \leq exp(-2g^{2}T)\).</p>
+<p>\(e^{-2Tg^{2}} &lt; m^{-1}\) when \(T &gt; \frac{\ln m}{2 g^{2}}\). So, final \(|h| = O(\frac{\ln m}{2 g^{2}})|c|\).</p>
+<h4 id="contrast-with-maj-tree-booster">Contrast with maj tree booster</h4>
+<p>Gives simple hyphothesis; takes advantage of varying error rates of weak hypotheses. \why</p>
+<h4 id="noise-tolerance-properties">Noise tolerance properties</h4>
+<p>Sensitive to noise even if \(L\) resistant to noise: Distributions created by looking at actual label.</p>
+<h3 id="boosting-by-branching-programs">Boosting by branching programs</h3>
+<p>h = Branching program: DAG of hypotheses \(\set{h_{i}}\). Labels x according to leaf reached. Run weak learner, get \(h_{0}\). From distr \(D_{h_{0}^{-}}\) and \(D_{h_{0}^{+}}\), get \(h_{1,1}\) and \(h_{1,2}\). From \(D_{h_{i,1}^{+}}\) get \(h_{i+1,1}\); from \(D_{h_{i,j}^{+}} \lor D_{h_{i,j+1}^{-}}\) get \(h_{i+1,j+1}\): diamonds in the DAG; from \(D_{h_{i,i+1}^{+}}\) get \(h_{i+1,i+2}\).</p>
+<p>Assume that both \(err_{D_{c^{-}}}(h_{i,j})\) and \(err_{D_{c^{-}}}(h_{i,j})\) \(\leq 2^{-1} - g\) : can be removed. \why</p>
+<p>At node (j,k); k-1 hypotheses have said h(x)=1; j-k+1 hypotheses have said h(x)=0. So, in final level T; first T/2 leaves labelled 0; rest labelled 1.</p>
+<p>Take x with c(x)=1: \(h_{i} = h_{i,j}\) seen in iteration i: In worst case, \(E_{x}[[h_{i}(x) = 1]] = 2^{-1} + g\); so \(E_{x}\)[leaf where x ends up] \( = \frac{T}{2} + gT\). A biased random walk.</p>
+<p>Show \(Pr_{x}(h(x) = 1)\geq 1-\eps\): due to lack of independence of events h(x) = 1, martingale is the right tool; let \(X_{i} = [h_{i}(x) = 1]\), \(Y = \sum_{i=1}^{T} X_{i}\); \(Y_{i} = E[Y|X_{1}, .. X_{i}]\) is a Doob martingale with \(Y_{i}-Y_{i-1}=1\); \(Y_{i} = \sum_{j=1}^{i} X_{i} + \frac{T-i}{2} + g(T-i)\); by Azuma: \(Pr(|Y-E[Y]|\geq gT) \leq 2e^{-g^{2}T} \leq \eps\) for \(T \geq \frac{10 \log \frac{1}{t}}{g^{2}}\).</p>
+<p>Resistant to noise if \(L\) resistant to noise: Boosting program creates distributions without looking at \(c(x)\).</p>
+<h3 id="consequences">Consequences</h3>
+<p>PAC algorithm memory bound: \(O(\frac{1}{\eps})\). \why</p>
+<h2 id="hardness-of-pac-learning">Hardness of PAC learning</h2>
+<h3 id="general-techniques">General techniques</h3>
+<p>Specify distr where learning hard.</p>
+<p>Any C which includes functions which can be efficiently used to solve iterated products [ cryptography ref] is inherently unpredictable.</p>
+<p>PAC-reduce a C&rsquo; known to be hard to \(C\).</p>
+<p>Show that VCD is \(\infty\). Eg: \(C = \set{convex\ polygons}\).</p>
+<p>Reduce it to a hard problem in another area: eg: decoding random linear codes.</p>
+<h4 id="if-rp-neq-np">If RP neq NP</h4>
+<p>By contradiction: Take NP complete language A; efficiently reduce input a to labelled sample set \(S_{a}\) where \(S_{a} \equiv \)c\( \in C\) iff \(a \in A\); assume efficient PAC learning algorithm \(L\); with suitable \(\eps \stackrel{_?}{=} |S_{a}|^{-1}\), use \(L\) with timer to learn \(\eps\) close h whp; see if h is consistant with \(S_{a}\); if yes, \(a \in A\); otherwise \(a \notin A\); we have an RP algorithm for A!</p>
+<h3 id="hardness-results-for-proper-learning">Hardness results for proper learning</h3>
+<p>\(k \geq 3\): k-term DNF learning intractable (H is restricted to equal C), but predicting classification accurately tractable: Hardness by reduction to graph coloring problem \why; k-term DNF = some k-CNF by distr law: so improper learning using k-CNF as H is easy. So, conversion from k-CNF learnt to k-term DNF is hard.</p>
+<p>Usually the \(RP \neq NP\) assumption is used.</p>
+<h3 id="cryptographic-hardness-results-for-improper-learning">Cryptographic hardness results for improper learning</h3>
+<p>Aka inherent tractable-unpredictability. Learning hard despite: Polynomial examples being sufficient; or concept evaluation easy.</p>
+<h4 id="c-which-include-concepts-which-can-find-discrete-cube-roots">C which include concepts which can find Discrete cube roots</h4>
+<p>Take n bit N&rsquo;s. Make discrete cube root hardness assumption [see cryptography ref]. Consider uniform distr over \(Z^{*}_{N}\); any algorithm can generate examples by itself - so doesn&rsquo;t learn anything new; otherwise contradicts assumption. Learning remains hard even if supplied n repeated squares of a number y mod N : no clue about d in this \(O(n^{2})\) input.</p>
+<p>By PAC reduction, anything which can compute iterated products is hard to learn.</p>
+<h3 id="c-which-include-concepts-to-find-ith-bit-of-bbs-pseudorandom-generator-outputs">C which include concepts to find ith bit of BBS pseudorandom generator outputs</h3>
+<p>\(f_{s_{0}, N, t}(i)\): ith output bit of BBS pseudorandom generator with seed \(s_{0}\) and N, if \(i \leq t\) (see randomized algs ref). If \(\exists\) \(O(n^{ck})\) time algorithm A to learn C with error \(\leq 2^{-1} - n^{-k}\); you can distinguish BBS from random string b of \(n^{(d+1)ck}\) bits, where \(d\in Z, dc\neq 1\); and thence factor \(N\).</p>
+<h4 id="distinguisher-d">Distinguisher D</h4>
+<p>Input random string; Use Uniform distr over b; use \((i, b_{i})\) as examples; learn with \(n^{ck}\) examples; get hypothesis h with error \(\leq 2^{-1} - n^{-k}\); Pick another bit index j; try predicting \(b_{j}\); if guess correct, output 1 or &lsquo;generator&rsquo;. On truly random b, \(Pr(D^{rand} = 1)\geq 2^{-1} + \frac{n^{ck}}{n^{(d+1)ck}}\); but \(Pr(D^{f_{s_{0}, N, t}} = 1) \leq 2^{-1} + n^{-k}\): difference not negligible.</p>
+<p>By PAC reduction, anything which can compute iterated products is hard to learn.</p>
+<h3 id="classes-which-include-rsa-decryptors">Classes which include RSA decryptors</h3>
+<p>\(C = \set{f_{d,N}}\), with private key d, public key e: see Cryptography ref. Not learnable in polytime: else make examples over \(U(\set{0,1}^{n})\): \((x^{e} \mod N, x)\); learn and violate RSA unbreakability assumption.</p>
+<h3 id="inherently-tractably-unpredictable-classes">Inherently tractably-unpredictable classes</h3>
+<p>Polynomial sized boolean circuits of depth log n and \(n^{2}\) inputs: Can solve Iterated products with ckt of depth \(\log^{2} n\) (using binary tree like mult ckt). Beame et al: even with log n deep ckt. So, Poly-sized Boolean formulae inherently unpredictable.</p>
+<p>Also, Neural networks of constant depth with boolean weights: \<br>
+(Reif). By PAC reduction from Poly-sized Boolean formulae, Log-space turing machines and DFA inherently unpredictable (but DFA learnable with membership queries).</p>
+<p>Intersections of halfspaces. \why Agnostically learning single halfspace. \why</p>
+<p>\oprob DNF formulae (can learn under U if RP= NP) : hard to learn? : too weak to encode pseudorandom generators, many cryptographic primitives; if you unconditionally show DNF hard to learn under U, you show \(RP \neq NP\)!</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">PAC learning </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: PAC learning</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

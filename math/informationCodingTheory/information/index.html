@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Information</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/informationCodingTheory/information/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/informationCodingTheory/information/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Information" />
+<meta property="og:description" content="Self Information of an event Aka surprisal. Measure of information content associated with event e: rarer the event, more the info, and in case of independence \(\perp(e, f): h(e, f) = h(e)&#43;h(f)\). In the latter case, Pr(e,f) = Pr(e)Pr(f); thence get derivation: \(h(e) = h(X=x) = \log (\frac{1}{Pr(e)})\).
+As code-length for recording event Coding problem Suppose that we wanted to record information that an event occurred, but we wanted to use as few bits in expectation as possible." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/informationCodingTheory/information/" />
+
+<meta itemprop="name" content="Information">
+<meta itemprop="description" content="Self Information of an event Aka surprisal. Measure of information content associated with event e: rarer the event, more the info, and in case of independence \(\perp(e, f): h(e, f) = h(e)&#43;h(f)\). In the latter case, Pr(e,f) = Pr(e)Pr(f); thence get derivation: \(h(e) = h(X=x) = \log (\frac{1}{Pr(e)})\).
+As code-length for recording event Coding problem Suppose that we wanted to record information that an event occurred, but we wanted to use as few bits in expectation as possible.">
+
+<meta itemprop="wordCount" content="1043">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Information"/>
+<meta name="twitter:description" content="Self Information of an event Aka surprisal. Measure of information content associated with event e: rarer the event, more the info, and in case of independence \(\perp(e, f): h(e, f) = h(e)&#43;h(f)\). In the latter case, Pr(e,f) = Pr(e)Pr(f); thence get derivation: \(h(e) = h(X=x) = \log (\frac{1}{Pr(e)})\).
+As code-length for recording event Coding problem Suppose that we wanted to record information that an event occurred, but we wanted to use as few bits in expectation as possible."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/informationCodingTheory\/information\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/informationCodingTheory\/information.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Information</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Information">Information</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/informationCodingTheory/information.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="self-information-of-an-event">Self Information of an event</h2>
+<p>Aka surprisal. Measure of information content associated with event e: rarer the event, more the info, and in case of independence \(\perp(e, f): h(e, f) = h(e)+h(f)\). In the latter case, Pr(e,f) = Pr(e)Pr(f); thence get derivation: \(h(e) = h(X=x) = \log (\frac{1}{Pr(e)})\).</p>
+<h3 id="as-code-length-for-recording-event">As code-length for recording event</h3>
+<h4 id="coding-problem">Coding problem</h4>
+<p>Suppose that we wanted to record information that an event occurred, but we wanted to use as few bits in expectation as possible. We want to satisfy this: the more common the event, fewer the bits one would need to transmit the event&rsquo;s occurrence.</p>
+<h4 id="coding-algorithm">Coding algorithm</h4>
+<p>We observe that there can be at most \(1/p\) events with probability \(p\). So, assigning \(\ceil{\log (\frac{1}{Pr(e)})}\) bits to communicate the occurrence of an event ensures that we have a way of encoding all possible events, while using fewer bits to encode commoner events.</p>
+<p>This is a code with the least expected code-length, as shown in the entropy section.</p>
+<h3 id="unit">Unit</h3>
+<p>Inspired by the code-length interpretation of surprisal. Depending on whether \(\log_{2}\) or \(\ln\) is used in definition: bits or nats.</p>
+<h2 id="entropy-of-an-rv-x">Entropy of an RV X</h2>
+<h3 id="definition">Definition</h3>
+<h4 id="desired-properties">Desired properties</h4>
+<p>Uncertainty associated with an RV: Should not change if probability rearranged for different values of \(X\): symmetry; should increase with number of values \(X\) can take; if \(X \perp Y\), uncertainty of \((X, Y)\) should be sum of uncertainties.</p>
+<h4 id="as-expected-surprisal">As expected surprisal</h4>
+<p>$$H(X) = E[h(X)] = E_{X}[-log(Pr(X=x))] \<br>
+= - \sum Pr(X=x_{i}) \log (Pr(X=x_{i}))$$; is the only measure which satisfies this \why.</p>
+<h4 id="extension-to-0-values">Extension to 0 values</h4>
+<p>Extend definition for \(Pr(X=x_{i}) = 0\): \<br>
+\(lt_{Pr(X=x_{i}) \to 0} Pr(X=x_{i}) \log (Pr(X=x_{i})) = 0\), so set \(Pr(X=x_{i}) \log (Pr(X=x_{i})) = 0\): so expansibility property: No change in entropy due to adding 0 probability events \(X = x_{i}\).</p>
+<h3 id="expected-information-code-length">Expected Information/ code-length</h3>
+<p>Entropy of \(X\) is the average amount of information/ surprisal communicated by the corresponding random process.</p>
+<p>It is the least expected number of bits required to transmit the value of the random process. \proof: Non negativity of Information divergence.</p>
+<h4 id="cross-entropy">Cross entropy</h4>
+<p>Even though \(X\) may have distribution \(D\), an alternative code appropriate for random variable corresponding to distribution \(E\) can potentially be used to encode events \(X=x\). But, the expected code length is higher if this is done. This inspires a way of measuring divergence between distributions - Information (KL) Divergence/ Code-length divergence \(KL(E||D)\). This is described in probability theory survey.</p>
+<h3 id="as-cross-entropy-relative-to-u">As cross entropy relative to U</h3>
+<p>\(H(X) = \log |ran(X)|\) if \(X \distr U\). \(KL(X||U) = \log |ran(X)| - H(X)\); but \(KL(X,U) \geq 0\), so \(U\) has max entropy, reduction in entropy is \(KL(X,U)\).</p>
+<p>Non uniform distribution has less entropy than uniform distribution. Can use this to reduce the number of bits needed to transmit information.</p>
+<h3 id="concavity-in-case-of-discrete-distribution-p">Concavity in case of discrete distribution p</h3>
+<p>\(H(p) = \sum_i p_i \log(1/p_i)\): concave in \(p_i\) as \(\gradient^{2} H(p) \succeq 0\). Consider RV X \(\distr\) bernoulli(p): entropy cup shaped, with max at p=0.5.</p>
+<h3 id="asymptotic-equipartition-property-aep">Asymptotic equipartition property (AEP)</h3>
+<p>Take binary distribution with entropy H, iid sample \(\set{X_{i}}\), get sequence \((X_{i})\). Then, sequences will either have probability \(2^{-nH}\), or \(\approx 0\). So, need only nH bits, rather than n bits. Pf: Set \(Y_{i} = \log \frac{1}{Pr(X_{i})}\); By law of large numbers \(n^{-1}\sum Y_{i} \to H\); so \(-Pr((X_{i}) = (x_{i})) \to nH\).</p>
+<h2 id="joint-and-cross-entropy">Joint and cross entropy</h2>
+<h3 id="joint-entropy">Joint entropy</h3>
+<p>\(H(X,Y) = E_{x,y}[-log(Pr(X=x, Y=y))]\).</p>
+<p>Additivity, as requried: If \(X \perp Y: H(X,Y) = H(X) + H(Y)\); subadditivity: \(H(X,Y) \leq H(X) + H(Y)\).</p>
+<h3 id="cross-entropy-1">Cross entropy</h3>
+<p>\(H_{C}(X,Y) = E_{x}[-log(Pr(Y=y))]\): avg bits required to transmit X using protocol designed for \(Y\). Compare with information divergence: that is the number of extra bits required to transmit X using a protocol designed for \(Y\).</p>
+<h2 id="conditional-entropy-of-x-given-y">Conditional entropy of X given Y</h2>
+<p>\(H(X|Y) = E_{y}[H(X|Y=y)] = E_{y}[E_{x}[-log(Pr(X=x|Y=y))]] = H(X,Y) - H(Y)\): Aka equivocation; Avg uncertainty in \(X\), after seeing \(Y\).</p>
+<h2 id="mutual-information-of-x-wrt-y">Mutual information of X wrt Y</h2>
+<p>\(I(X;Y) = E_{x,y}\log[\frac{Pr(X=x,Y=y)}{Pr(X=x)Pr(Y=y)}] = H(X) - H(X|Y) = H(X) + H(Y) - H(X,Y)\) - visualize with a venn diagram!: reduction in uncertainty about X due to knowledge of \(Y\). It is symmetric.</p>
+<p>This is the expected value of the information gain / code-length divergence: \(E_x[H(Y) - H(Y|X=x)]\); and is therefore loosely called information gain when considered in the context of classification problems in machine learning.</p>
+<h3 id="as-deviation-from-independent-distribution">As deviation from independent distribution</h3>
+<p>\(I(X;Y) = K(Pr(X=x,Y=y)||Pr(X=x)Pr(Y=y))\); so \(I(X;Y) \neq 0\) iff \(X \perp Y\). So, it is non negative.</p>
+<h3 id="conditional-mutual-information-wrt-z">Conditional Mutual information wrt Z</h3>
+<p>\(I(X;Y|Z) = E_{z}[I(X;Y|Z=z)]\).</p>
+<h2 id="other-information-metrics">Other information metrics</h2>
+<p>Hamming weight of x: wt(x). Hamming distance: \(d(x,y) = wt(x \xor y)\).</p>
+<h2 id="communication-complexity">Communication complexity</h2>
+<h3 id="the-problem">The problem</h3>
+<p>A talks to B; A knows a; B knows b; want to find f(a, b) with min communication and even \(\infty\) local computation. a, b are n bit numbers.</p>
+<p>Easy solution is to send a and b. But these may be large. So want to use some protocol depending on f.</p>
+<h3 id="applications">Applications</h3>
+<p>VLSI, scenarios where communication is very costly.</p>
+<h3 id="the-communication-protocol-tree">The communication protocol tree</h3>
+<p>\(A \leftrightarrow B\) communication can be represented as this: A and B take turns sending messages, the message sent at step i is \(m_{i} = f_{i}(a, b)\). Maybe distriubution M over (a, b) specified and want to minimize expected communication, maybe want min worst case communication.</p>
+<p>So, can look at all possible communication sequences using a protocol tree.</p>
+<h3 id="deterministic-vs-randomized-protocols">Deterministic vs randomized protocols</h3>
+<p>Bits transmitted by deterministic protocol, for worst possible (a, b) \(\dfn D(f)\). If distribution M specified: \(D_{M}(f)\): avg bits used.</p>
+<p>Randomized protocols may use public randomness or private random bits. Bits used by them for worst (a, b) \(\dfn R(f)\). Randomized protocols much more powerful than deterministic ones: See equality testing example.</p>
+<p>Having public random bits is not much more powerful: you can replace public random bit using protocol with private random bit using protocol with only \(+ \log n\) bits penalty.</p>
+<h3 id="computing-f-for-k-input-pairs">Computing f for k input pairs</h3>
+<p>Want to do better than \(k D(f)\) from trivial algorithm. Deterministic protocol: \(\Omega(k \sqrt{D(f)})\). Randomized protocol: \(\tilde{\Omega}(R(f)\sqrt{k})\).</p>
+<h3 id="examples">Examples</h3>
+<h4 id="checking-equality">Checking equality</h4>
+<p>\(f(a, b): b \iseq a\). Any det protocol needs n bits. So use fingerprinting (see Randomized algs ref).</p>
+<p>A uses rand r, sends fingerprint (F(a, r), r) to B.</p>
+<p>To show that F is good: Make \(\hat{F}(a) = ((F(a, r_{1}), r_{1}), .. (F(a, r_{s}), r_{s}))\); pick rand element and send. For all \(a \neq b\), show Hamming dist \(\del(\hat{F}(a), \hat{F}(b))\) large.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Information </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Information</li>
+        
+        <li>unicode_script: devanagari</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

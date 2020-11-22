@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | 03 Averaging using the pdf</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/probability/probability/random_variables/03_Averaging_using_the_pdf/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/probability/probability/random_variables/03_Averaging_using_the_pdf/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="03 Averaging using the pdf" />
+<meta property="og:description" content="Consider the real valued random variable \(X: (S, B) \to (R, B_r, m)\), whose pdf is \(f_X\) defined relative to the reference measure \(m\).
+Mean/ Expectation of real valued RV Aka Expected value. \(E:\set{RV} \to R\). \(E[X] = \mean = \int_{X} x f_X(x) dm = E_{X}[X]\).
+This is the weighted average of \(range(X)\). \(E[X]\) is actually a convex combination of points in range(X).
+Subscript notation See probability section.
+Conditional Expectation Conditional expectation of X wrt event A: \(E_{X}[X|A]\) is computed using the conditional pdf \(f_{X|A}(x)\)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/probability/probability/random_variables/03_Averaging_using_the_pdf/" />
+
+<meta itemprop="name" content="03 Averaging using the pdf">
+<meta itemprop="description" content="Consider the real valued random variable \(X: (S, B) \to (R, B_r, m)\), whose pdf is \(f_X\) defined relative to the reference measure \(m\).
+Mean/ Expectation of real valued RV Aka Expected value. \(E:\set{RV} \to R\). \(E[X] = \mean = \int_{X} x f_X(x) dm = E_{X}[X]\).
+This is the weighted average of \(range(X)\). \(E[X]\) is actually a convex combination of points in range(X).
+Subscript notation See probability section.
+Conditional Expectation Conditional expectation of X wrt event A: \(E_{X}[X|A]\) is computed using the conditional pdf \(f_{X|A}(x)\).">
+
+<meta itemprop="wordCount" content="671">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="03 Averaging using the pdf"/>
+<meta name="twitter:description" content="Consider the real valued random variable \(X: (S, B) \to (R, B_r, m)\), whose pdf is \(f_X\) defined relative to the reference measure \(m\).
+Mean/ Expectation of real valued RV Aka Expected value. \(E:\set{RV} \to R\). \(E[X] = \mean = \int_{X} x f_X(x) dm = E_{X}[X]\).
+This is the weighted average of \(range(X)\). \(E[X]\) is actually a convex combination of points in range(X).
+Subscript notation See probability section.
+Conditional Expectation Conditional expectation of X wrt event A: \(E_{X}[X|A]\) is computed using the conditional pdf \(f_{X|A}(x)\)."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/probability\/probability\/random_variables\/03_Averaging_using_the_pdf\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/probability\/probability\/random_variables\/03_Averaging_using_the_pdf.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> 03 Averaging using the pdf</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="03 Averaging using the pdf">03 Averaging using the pdf</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/probability/probability/random_variables/03_Averaging_using_the_pdf.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>Consider the real valued random variable \(X: (S, B) \to (R, B_r, m)\), whose pdf is \(f_X\) defined relative to the reference measure \(m\).</p>
+<h2 id="mean-expectation-of-real-valued-rv">Mean/ Expectation of real valued RV</h2>
+<p>Aka Expected value. \(E:\set{RV} \to R\). \(E[X] = \mean = \int_{X} x f_X(x) dm = E_{X}[X]\).</p>
+<p>This is the weighted average of \(range(X)\). \(E[X]\) is actually a convex combination of points in range(X).</p>
+<h3 id="subscript-notation">Subscript notation</h3>
+<p>See probability section.</p>
+<h3 id="conditional-expectation">Conditional Expectation</h3>
+<p>Conditional expectation of X wrt event A: \(E_{X}[X|A]\) is computed  using the conditional pdf \(f_{X|A}(x)\). Sometimes, this is considered as a function of variable \(A\).</p>
+<p>For events with non-0 probability measure, this is \(= \frac{E[X I_A(X)]}{Pr(A)}\).</p>
+<h2 id="expectation-properties">Expectation: Properties</h2>
+<p>\(E_Y[E_{X}[X|Y]]= E_Y[f(Y)] = E_{X}[X]\).</p>
+<h3 id="connection-to-probability-measure">Connection to probability measure</h3>
+<p>\(Pr(B) = E_{X}[Pr(B|X)]\).</p>
+<p>If \(X\) is an indicator RV, E[X] = Pr(X = 1).</p>
+<h3 id="products-of-independent-rv">Products of independent RV</h3>
+<p>If expectations are finite: \(I(X,Y) \equiv E_{X, Y}[XY]=E_{X}[X]E_Y[Y]\) as \(I(X,Y) \equiv f_{X, Y}(x, y) = f_X(x)f_Y(y)\).</p>
+<h3 id="linearity-properties">Linearity properties</h3>
+<p>\(E[k]=k\).</p>
+<h4 id="linearity-in-x">Linearity in X</h4>
+<p>This follows from the linearity of integration.\ \(E[\sum_{i} X_{i}] = \int_{X} (\sum_{i} x_{i}) f_X(x) dm = \sum_{i} \int_{X} x_{i} f_X(x)dm\ = \sum_{i} \int_{X_i} x_{i} f_{X_i}(x)dm = \sum_{i}E[X_{i}]\)</p>
+<p>Expectation is linear, even if the summed RVs are dependent.</p>
+<p>\exclaim{E[X] is convex!}</p>
+<h4 id="importance">Importance</h4>
+<p>\exclaim{Powerful, unintuitive!} 10 folks go to a ghoShTi, leave their hats; retrieve some random hat after the ghoShTi. What is the expected number of people to retrieve the hat they came with? Linearity greatly simplifies calculation.</p>
+<h4 id="linearity-in-pdf">Linearity in pdf</h4>
+<p>Consider \(E[X]\), where \(f_X(x)\) is a convex combination of \((f_i(x))\) with coefficients \((a_i)\). Because of the linearity of integration, \(E[X]\) is linear in the pdf components: \(E[X] = \sum_i a_i E_{f_i}[X]\).</p>
+<h3 id="convex-function-of-e-inequality">Convex function of E[] inequality</h3>
+<p>Aka Jensen&rsquo;s inequality.</p>
+<p>If f is convex, \(E[f(X)] \geq f(E[X])\):  <!-- raw HTML omitted -->E[X] is actually a convex combination of points in range(X). So, follows directly from definition of convexity (see vector spaces ref).<!-- raw HTML omitted --></p>
+<p>So: \(E[X^{2}]-(E[X])^{2} \geq 0\).</p>
+<h2 id="expectation-analysis-tricks">Expectation: Analysis tricks</h2>
+<p>If \(X\) and Y are not independent, fix the factor in \(X\) and Y which causes the dependence, and ye may have independence.</p>
+<p>The fact that \(\max X \geq E[X]\) is useful in getting lower bounds on some quantities.</p>
+<h2 id="variance-from-mean">Variance from mean</h2>
+<p>\(Var[X] = \stddev^{2} = E[X-E[X]]^{2} = E[X^{2}]-(E[X])^{2}\). Weighted avg of square deviation from mean of function over points in sample space.</p>
+<h3 id="concavity-in-p">Concavity in p</h3>
+<p>Consider discrete distributions; let x be a vector of values \(X\) takes. \(var[X] = p^{T}x - x^{T}pp^{T}x\).</p>
+<h3 id="other-properties">Other properties</h3>
+<p>\(Var[\sum a_{i}X_{i}] = \sum a_{i}^{2}Var[X_{i}]+2\sum_{i}\sum_{j}a_{i}a_{j} Cov[X_{i},X_{j}]\): using linearity of expectations on \(E[(\sum_{i} (a_{i}X_{i} - a_{i}\mean_{i}))^{2}]\).</p>
+<h4 id="translation-invariance">Translation invariance</h4>
+<p>var[X + c] = var[X].</p>
+<h2 id="moments-of-rv-x">Moments of RV X</h2>
+<h3 id="kth-moment">kth moment</h3>
+<p>\(E[X^{k}]\) is the kth Moment of X. Empirical kth moment is \(\frac{\sum_{i=1}^{n} X_i^{k}}{n}\)</p>
+<h3 id="kth-moment-about-the-mean">kth moment about the mean</h3>
+<p>kth Moment of \(X\) about 0 : \(E[X^{k}]\) vs moment of \(X\) about \(\mean\) aka central moment: \(E[(X - \mean)^{k}]\).</p>
+<p>Normalized moments: \(\frac{E[(X - \mean)^{k}]}{\stddev^{k}}\).</p>
+<h3 id="important-moments">Important moments</h3>
+<p>Central moment immune to translation; describes shape of pdf. 2nd central moment, aka variance, measures fatness.</p>
+<p>Skewness: \(\gamma = \frac{E[X - \mean]^{3}}{\stddev^{3}}\): putting more weight on farther points; pdf has left skew if \(\gamma&lt;0\).</p>
+<p>Kurtosis: measure tallness/ leanness vs shortness/ squatness: \(\frac{E[X - \mean]^{4}}{\stddev^{4}} - 3\): 3 term ensures that Normal distribution has Kurtosis 0.</p>
+<p>Can easily determine statistics corresponding to these parameters from a sample.</p>
+<p>The moments of \(X\) completely describe pdf of \(X\) \why. \(N(\mean, \stddev^{2})\) has only 2 moments \chk.</p>
+<h3 id="moment-generating-function">Moment generating function</h3>
+<p>\(M_{X}(t)=E[e^{tX}]\). \<br>
+\(\frac{dE[f(x,t)]}{dt} = \frac{d \int f(x, t) dx}{dt} = lt_{\del\int (f(x, t+\del t) - f(x, t))dx \to 0}\frac{}{\del t} = E[\frac{df(x,t)}{dt}]\). So, use to find nth moment of \(X\) about 0, \(E[X^{n}]=d^{n}M_{X}(t)/(dt)^{n}|_{t=0}\): can also use Taylor series for \(e^{tX}\) with linearity of expectations.</p>
+<p>It is unique: If \(M_{X}(t) = M_{Y}(t)\), \(X\) and Y have same distribution: as it generates all possible moments of \(X\) and Y identically. \why</p>
+<p>\(M_{\sum X_{i}} = E[e^{t \sum X_{i}}] = \prod M_{X_{i}}\) if \(\set{X_{i}} \perp\).</p>
+<h3 id="characteristic-function-of-x">Characteristic function of X</h3>
+<p>\(f_{X} = E_{X}[e^{itX}]\). Useful as sometimes, the moment generating function is not well defined.</p>
+<h3 id="for-poisson-trials">For Poisson trials</h3>
+<p>\(M_{X_{i}}(t)=1+p_{i}(e^{t}-1) \leq e^{p_{i}(e^{t}-1)}\). So, if \(X = \sum X_{i}, \mean = \sum p_{i}; M_{X} \leq e^{\mean(e^{t}-1)}\).</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">03 Averaging using the pdf </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: 03 Averaging using the pdf</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

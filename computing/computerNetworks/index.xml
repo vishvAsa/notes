@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Computer Networks on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/computerNetworks/</link>
+    <description>Recent content in &#43;Computer Networks on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/computerNetworks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Layers</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/computerNetworks/layers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/computerNetworks/layers/</guid>
+      <description>Given a computer network, suppose that we want to get any $k$ given computers to communicate accurately and easily in order to provide a variety of services to the users. This involves many common/ separate tasks which can be implemented as separate modules, which inturn can be arranged as a stack or hierarchy of layers. For details, see software architecture survey.
+Common layers are described below, with TCP/IP protocol stack as a specific common instantiation, which dominated other standards due to it being open-source.</description>
+    </item>
+    
+  </channel>
+</rss>

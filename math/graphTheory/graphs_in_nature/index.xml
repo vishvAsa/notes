@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphs in nature on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/</link>
+    <description>Recent content in Graphs in nature on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Find dense subgraphs</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/find_dense_subgraphs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/find_dense_subgraphs/</guid>
+      <description>(a, b) cluster C (Tarjan etal.) E(v, C): edges between v and C. External sparsity vs internal density of edges: \(\forall v \in C: |E(v, C)|\geq b|C|\), \(\forall u \notin C: |E(u, C)|\leq a|C|\). Cliques are (a, 1) clusters.
+Bound on cluster overlap known. For certain (a, b) it is possible for one cluster to be contained in another, but not if size of largest : smallest cluster size \(\leq \frac{1-a}{1-b}\).</description>
+    </item>
+    
+    <item>
+      <title>Generative models</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/generative_models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/generative_models/</guid>
+      <description>Applications Finding patterns and abnormalities in real world networks.
+Making either fine or coarse grained hypotheses of graph formation process.
+Making Extrapolations What will G look like 10 months later?
+So, algorithmic benefits of the model important: How easy is it to calculate paths? Eg: A may be queries, C may be retrieved documents, maybe we want to find the closest commercial/ advertisement-carrying queries, so want to find shortest path to commercial query in the network of queries.</description>
+    </item>
+    
+    <item>
+      <title>Link prediction</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/link_prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/link_prediction/</guid>
+      <description>Graph G = (V, E). Every edge has this label: t(e): The time during which interaction represented by e took place. Given \(G[t_{0}, t_{0}&#39;]\) (training interval), output a list of edges not presented in it, but present in \(G[t_{1}, t_{1}&#39;]\) (testing interval). Maybe want to output top n most likely-to-appear edges.
+Motivation Security. Improving organizational efficiency by going beyond official hierarchy. Inferring missing links from observed network.
+Observations about link prediction Small world problem: tenuous short links exist between otherwise unrelated nodes: noise wrt to the link prediction problem.</description>
+    </item>
+    
+    <item>
+      <title>Node partitioning</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/node_partitioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/node_partitioning/</guid>
+      <description>Number of partitions, k See statistics ref for further info.
+Minimum cut objectives Maybe find \(argmin_{(V_{i})} cut((V_{i}))\): but \(V_{1} = V\) minimizes it. So, to balance the partitions, associate each vertex with a weight w(v), get W = diag(w(v)); define \(w(V_{i}) = \sum_{v \in V_{i}} w(v)\); minimize \(Q((V_{i})) = \sum \frac{cut(V_{i})}{w(V_{i})}\).
+Ratio, normalized cuts If \(w(v) = 1\), get ratio cut objective fn. So, ratio cut is trying to minimize the weight of cross-cut edges, averaged over the nodes.</description>
+    </item>
+    
+  </channel>
+</rss>

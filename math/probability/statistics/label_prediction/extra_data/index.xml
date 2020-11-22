@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Extra data on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/extra_data/</link>
+    <description>Recent content in &#43;Extra data on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/extra_data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>With alternate labels</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/extra_data/labels_from_other_viewpoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/extra_data/labels_from_other_viewpoints/</guid>
+      <description>Data point Neighborhood approach Make data pts vs data pts matrix which measures similarities; filled using labels from various, usually similar, viewpoints. Thence predict label from target viewpoint. Eg: Amazon: &amp;lsquo;others who bought this also bought that&amp;rsquo;.
+Collaborative filtering Latent factor approach Assume small number of latent random variables, which combine together to form various view points and data points, cause the labels.
+Low rank factorization Let values of latent RV behind data pt j be \(v_{j}\), behind viewpoint i be \(u_{i}\); then get \(Y_{i,j} = u_{i}^{T}v_{j}\).</description>
+    </item>
+    
+    <item>
+      <title>With extra unlabelled points</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/extra_data/additional_unlabelled_points/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/extra_data/additional_unlabelled_points/</guid>
+      <description>Assume points belonging to the same class cluster together, using unlabeled data with labeled data, you can draw better decision boundaries around clusters belonging to various class: probability density is important in classification.
+Generative approaches \tbc
+Label propagation on graphs Make the similarity graph G=(V, E) of the n points, \(\set{X_i}\). Some nodes \(X_T\) have labels, others don&amp;rsquo;t have labels; let \(k\) be the indicator vector with \(k_i = [i \in T]\); take K = diag(k).</description>
+    </item>
+    
+  </channel>
+</rss>

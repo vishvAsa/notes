@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Inference and comparison on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/inference/</link>
+    <description>Recent content in &#43;Inference and comparison on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/probability/probability/inference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>01 Distances between distributions</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/inference/01_Distances_between_distributions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probability/inference/01_Distances_between_distributions/</guid>
+      <description>Total variation distance between distributions Aka Statistical distance. Sample space X. \(\Del(D, D&amp;rsquo;) = 2^{-1} \sum_{x \in X} |D(x) - D&amp;rsquo;(x)|\): \(\in [0,1]\). But, \(\sum_{x \in X} (D(x) - D&amp;rsquo;(x)) = 0\).
+Visualize as space between probability curves. Total prob under either curve is 1.
+Largest deviation in event probability For event \(E \subseteq X: \max_{E \subseteq X} |Pr_{D}(x \in E) - Pr_{D&amp;rsquo;}(x \in E)| = \Del(D, D&amp;rsquo;)\). Or, max (signed) area between curves covered by E is at most half the total area.</description>
+    </item>
+    
+    <item>
+      <title>02 Inferences about distributions of function(RV)</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/inference/02_Inferences_about_distributions_of_functionRV/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probability/inference/02_Inferences_about_distributions_of_functionRV/</guid>
+      <description>Y = g(X).
+Use \(Pr(g(X) \in A) = Pr(X \in g^{-1}(A))\). So, given CDF, PDF of X, can deduce CDF of g(X) and thence derive PDF of g(X).
+Using \(\frac{dg^{-1}(Y)\) If g is monotone in \((x, x+\gd x)\): \(p_{X}(x)\gd x \approx p_{Y}(y)\gd y\), taking \((x, x+\gd x)\) to \((y, y+\gd y)\) using g: So \(p_Y(y) = p_{X}(x)|\frac{dx}{dy}| = p_{X}(g^{-1}(y))|\frac{d g^{-1}(y)}{dy}| \): so maximum probability density changes with variable change.
+If g is not continuous, but \(\exists\) partition \(A_{0}, .</description>
+    </item>
+    
+    <item>
+      <title>03 Bounds on deviation probability</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/inference/03_Bounds_on_deviation_probability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probability/inference/03_Bounds_on_deviation_probability/</guid>
+      <description>Aka concentration of measure inequalities.
+Expectation based deviation bound (Aka Markov&amp;rsquo;s inequality). If \(X\geq 0\): \(Pr(X \geq a) \leq \frac{E[X]}{a}\): \(Pr(X \geq a)\) is max when \(X\) is 0 or a.
+Averaging argument. If \(X\leq k\), \(c\mean Pr(X\leq c\mean) + k(1-Pr(X\leq c\mean)) \geq \mean\); so \(Pr(X\leq c\mean) \leq \frac{k-\mean}{k-c\mean}\).
+This technique is used repeatedly in other deviation bounds based on variance and moment generating functions.
+Variance based deviation bound (Aka Chebyshev&amp;rsquo;s inequality).</description>
+    </item>
+    
+    <item>
+      <title>04 Existence proofs</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/inference/04_Existence_proofs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probability/inference/04_Existence_proofs/</guid>
+      <description>\(Pr(X\geq E[X])&amp;gt;0\), \(Pr(X\leq E[X])&amp;gt;0\).
+For sparse dependency graphs Aka Lovasz local lemma.
+For Dependency graph with \(Pr(E_{i})&amp;lt;p, 4dp&amp;lt;1\): \(Pr(\cap \bar{E_{i}}) &amp;gt; 0\).
+Lovasz local lemma: general case: Dependency. graph G=(V,E), \
+\(x_{i} \in [0,1]\): \(Pr(E_{i}) \leq x_{i} \prod_{(i,j) \in E}(1-x_{j})\): \(Pr(\cap \bar{E_{i}})\geq \prod_{i}(1-x_{i}) &amp;gt; 0\)
+Threshold behavior \(X&amp;gt;0\): Second moment method: \(Pr(X=0)\leq Pr((X-E[X])^{2} \geq (E[X])^{2})\). Conditional expectation inequality for \(\sum\) indicators: \
+\(Pr(X&amp;gt;0) \geq \sum_{i=1}^{n}\frac{Pr(X_{i}=1)}{E[X|X_{i}=1]}\).
+Explicit constructions \tbc
+Make Existence proofs Design sample space, show \(Pr(E)&amp;gt;0\), maybe modify to get final object.</description>
+    </item>
+    
+    <item>
+      <title>05 Extremal combinatorics</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/inference/05_Extremal_combinatorics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probability/inference/05_Extremal_combinatorics/</guid>
+      <description>Prove extremal statistic about some extremal set. \tbc</description>
+    </item>
+    
+    <item>
+      <title>06 Analysis strategies</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/inference/06_Analysis_strategies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probability/inference/06_Analysis_strategies/</guid>
+      <description>General strategies Pick things randomly. Be able to specify the random process.
+Analyzing \(X\) and Y; If there is uniform symmetry in X, set \(X\) to be any value without loss of generality.
+Cast the problem into a stochastic process : Eg: Markov chain/ Random walk problem, Martingale.
+Bound probabilities and expectations Break up big events into smaller cases One can analyze \(Pr(A)\) using \(Pr(A) = \sum_b Pr(A|G)Pr(G)\).
+One of many events Use the Union bound.</description>
+    </item>
+    
+  </channel>
+</rss>

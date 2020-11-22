@@ -1,0 +1,10 @@
+\contentsline {chapter}{Contents}{1}{section*.1}
+\contentsline {part}{\partnumberline {I}Astronomy}{1}{part.1}
+\contentsline {chapter}{\chapternumberline {1}Star patterns}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Constellations}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Zodiac}{2}{subsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1.1}nakShatra-s}{2}{subsubsection.1.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1.2}Astrology}{3}{subsubsection.1.1.1.2}
+\contentsline {chapter}{\chapternumberline {2}Observation}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Unaided observation}{3}{section.2.1}
+\contentsline {part}{\partnumberline {II}Geography}{3}{part.2}

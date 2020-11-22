@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Functional analysis on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/functionalAnalysis/</link>
+    <description>Recent content in &#43;Functional analysis on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/functionalAnalysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>01 Function space</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/functionalAnalysis/01_Function_space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/functionalAnalysis/01_Function_space/</guid>
+      <description>Notation Consider a function class \(C\) defined on the input space \(X\). Let \(p\) be a probability measure on \(X\).
+Euclidean Vector spaces The definition of standard inner product and \(l_p\) norms can be extended to work with function spaces, when they are regarded as vector spaces with dimensionality equal to \(|X|\); while also considering the \(p\). These are described in the vector spaces survey.
+Metric space using Disagreement probability One can define a metric space using the norm \(d(f, g) = Pr_p(f(x) \neq g(x))\).</description>
+    </item>
+    
+    <item>
+      <title>02 Operators</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/functionalAnalysis/02_Operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/functionalAnalysis/02_Operators/</guid>
+      <description>Operator A function: functions \(\to\) functions. All functions are operators. Transform: an operator which simplifies some operations. Adjoint of operator T: \(T^{} : \dprod{Tu,v} = \dprod{u, T^{}v}\).
+Eigenfunctions ev of D is \(e^{x}\).
+Differential operator D or \(D_{x} = \frac{d}{dx}\). A Linear operator.
+Operators \(T = \sum_{k} c_{k}D^{k}\). Any polynomial in D with function coefficients also a diff operator.
+Vector and matrix calculus operators See linear algebra ref.
+Divergence operator \(div f := \gradient .</description>
+    </item>
+    
+    <item>
+      <title>03 Analysis of functions</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/functionalAnalysis/03_Analysis_of_functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/functionalAnalysis/03_Analysis_of_functions/</guid>
+      <description>Polynomial fitting for continuous f(x) \(L^{2}[-1,1]\): Find closest n degree polynomial to f(t) in interval [u,v]: Project f(t) on that function sub-space: Let \(A=[1 x \dots x^{n}]\) (Continuous version of Vandermonde matrix), a [-1,1]n matrix; \(\perp\) in [-1,1]. Solve \(A^{}A\hat{y}=A^{}f(t)\); \(A^{}A\) a nn (Hilbert) matrix with elements \(\dprod{x^{r}, x^{s}}\). Orthonormalize A to get \(\hat{Q}\); Q is scalar multiple of Legendre polynomials: \(1, x .. \)); use \(P = \hat{Q}\hat{Q}^{}\), a \([-1, 1] \times [-1,1]\) matrix.</description>
+    </item>
+    
+  </channel>
+</rss>

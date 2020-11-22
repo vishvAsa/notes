@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Relations on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/algebra/relations/</link>
+    <description>Recent content in &#43;Relations on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/algebra/relations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Category Theory</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/algebra/relations/category_theory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/algebra/relations/category_theory/</guid>
+      <description>Abstraction Aka general abstract nonsense. Abstract from sets and relations to categories and morphisms.
+Category (Class ob(C) of objects, morphisms or arrows hom(C), composition op: \(\cdot\)) with \(\cdot\) identity, associative \(\cdot\). Category Eg: Set, \(Vect_{k}\).
+Small category: aka CAT: both ob(C) and hom(C) are sets, rather than classes.
+Morphisms Homomorphism: A structure (identity, inverse elements, and binary ops) preserving funciton f: f(x)=3x preserves addition. Isomorphism: both f and \(f^{-1}\) are homomorphisms.</description>
+    </item>
+    
+  </channel>
+</rss>

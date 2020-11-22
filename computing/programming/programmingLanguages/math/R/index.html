@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | R</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/R/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/R/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="R" />
+<meta property="og:description" content="Introduction and use When to use Statistics is the emphasis, not matrix manipulation. It is an expression language.
+When not to use Text processing and general purpose programming are painful.
+Writing, Building and executing code Script execution source(&quot;/path/file.R&rdquo;).
+Reloading changed code library(&ldquo;R.utils&rdquo;);
+sourceDirectory(&ldquo;work&rdquo;, modifiedOnly=TRUE, \pattern=&rdquo;[A-Z]*[.]R$&rdquo;, recursive=FALSE);
+Important environment variables \verb R_LIBS : the place where R libraries are installed.
+Working environment getwd(), setwd(dir)
+options(): Example options(digits=3)
+Command history history(), savehistory, loadhistory." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/R/" />
+
+<meta itemprop="name" content="R">
+<meta itemprop="description" content="Introduction and use When to use Statistics is the emphasis, not matrix manipulation. It is an expression language.
+When not to use Text processing and general purpose programming are painful.
+Writing, Building and executing code Script execution source(&quot;/path/file.R&rdquo;).
+Reloading changed code library(&ldquo;R.utils&rdquo;);
+sourceDirectory(&ldquo;work&rdquo;, modifiedOnly=TRUE, \pattern=&rdquo;[A-Z]*[.]R$&rdquo;, recursive=FALSE);
+Important environment variables \verb R_LIBS : the place where R libraries are installed.
+Working environment getwd(), setwd(dir)
+options(): Example options(digits=3)
+Command history history(), savehistory, loadhistory.">
+
+<meta itemprop="wordCount" content="1822">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="R"/>
+<meta name="twitter:description" content="Introduction and use When to use Statistics is the emphasis, not matrix manipulation. It is an expression language.
+When not to use Text processing and general purpose programming are painful.
+Writing, Building and executing code Script execution source(&quot;/path/file.R&rdquo;).
+Reloading changed code library(&ldquo;R.utils&rdquo;);
+sourceDirectory(&ldquo;work&rdquo;, modifiedOnly=TRUE, \pattern=&rdquo;[A-Z]*[.]R$&rdquo;, recursive=FALSE);
+Important environment variables \verb R_LIBS : the place where R libraries are installed.
+Working environment getwd(), setwd(dir)
+options(): Example options(digits=3)
+Command history history(), savehistory, loadhistory."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/programming\/programmingLanguages\/math\/R\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/programming\/programmingLanguages\/math\/R.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> R</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="R">R</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/programming/programmingLanguages/math/R.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="introduction-and-use">Introduction and use</h2>
+<h3 id="when-to-use">When to use</h3>
+<p>Statistics is the emphasis, not matrix manipulation. It is an expression language.</p>
+<h3 id="when-not-to-use">When not to use</h3>
+<p>Text processing and general purpose programming are painful.</p>
+<h3 id="writing-building-and-executing-code">Writing, Building and executing code</h3>
+<h4 id="script-execution">Script execution</h4>
+<p>source(&quot;/path/file.R&rdquo;).</p>
+<h4 id="reloading-changed-code">Reloading changed code</h4>
+<p>library(&ldquo;R.utils&rdquo;);</p>
+<p>sourceDirectory(&ldquo;work&rdquo;, modifiedOnly=TRUE, \pattern=&rdquo;[A-Z]*[.]R$&rdquo;, recursive=FALSE);</p>
+<h4 id="important-environment-variables">Important environment variables</h4>
+<p>\verb R_LIBS : the place where R libraries are installed.</p>
+<h4 id="working-environment">Working environment</h4>
+<p>getwd(), setwd(dir)</p>
+<p>options(): Example options(digits=3)</p>
+<h4 id="command-history">Command history</h4>
+<p>history(), savehistory, loadhistory.</p>
+<p>Can use Ctrl+R as  in BASH.</p>
+<h4 id="good-ides">Good IDE&rsquo;s</h4>
+<h5 id="native-gui">Native GUI</h5>
+<p>Graphical data entry: data.entry(x), edit(x).</p>
+<h3 id="listing-and-memory">Listing and memory</h3>
+<p>objects() lists objects.</p>
+<p>rm(objA, objB) removes certain objects from memory. rm(list=ls()) removes all objects.</p>
+<p>exists() checks for the existance of an object.</p>
+<h3 id="development-environment">Development environment</h3>
+<p>RStudio is good. Interactivity with RapidMiner is useful.</p>
+<h3 id="debugging">Debugging</h3>
+<p>The following can be inserted in the midst of code:</p>
+<p>browser(): breaks execution and allows debugging with arbitrary code: like keyboard in matlab. Use cont to continue the program. Q halts execution.</p>
+<p>debug(): marks function for debugging.</p>
+<p>trace() function modifies a function to allow debug code to be temporarily inserted.</p>
+<p>setBreakpoint(&ldquo;fun.R#20&rdquo;)</p>
+<p>traceback() is useful when error is encountered.</p>
+<h3 id="help">Help</h3>
+<p>help(command), ?command, \<br>
+apropos(&ldquo;log&rdquo;), help.search(&ldquo;log&rdquo;), example(commandName).</p>
+<h3 id="libraries">libraries</h3>
+<h4 id="seeking">Seeking</h4>
+<p>help.search(fnName);</p>
+<h4 id="using">Using</h4>
+<h4 id="installing">Installing</h4>
+<p>Many packages are listed in cran internet repository.</p>
+<p>chooseCRANmirror()</p>
+<p>install.packages(&ldquo;igraph&rdquo;). For usage, see the packages subsection.</p>
+<h2 id="data-types-values-variables">Data: types, values, variables</h2>
+<h3 id="names-and-namespace">Names and namespace</h3>
+<h4 id="valid-names">Valid names</h4>
+<p>a.b and a_b are valid name; but by doing so, you are not creating a structure named a. A name can start with &lsquo;.&rsquo;, but if so it cannot be followed by a digit.</p>
+<h4 id="namespace">Namespace</h4>
+<p>Uses: avoid name conflicts, structure code well.</p>
+<p>To call a function b in a namespace a, use: a::b(). If b is hidden, then use a:::b().</p>
+<h4 id="accessing-list-members-directly">Accessing list members directly</h4>
+<p>Use attach(Lst). detach() reverses this.</p>
+<h3 id="object">Object</h3>
+<p>Everything is actually an object with attributes.</p>
+<h4 id="accessing-attributes">Accessing attributes</h4>
+<p>attrName(objName)</p>
+<h4 id="setting-attributes">Setting attributes</h4>
+<p>attr(object, attribute) is used to get or set an attribute.</p>
+<p>Or one can use structure(object, attr=value).</p>
+<h4 id="important-attributes">Important attributes</h4>
+<p>mode: details about the type of data contained.</p>
+<p>length.</p>
+<h3 id="modes-and-type">Modes and type</h3>
+<p>Mode: details about the type of data contained. This is distinct from the type of the object itself (data.frame, or vector ..). So, type is akin to a generic/ template/ meta class in Java made concrete by specification of mode arguments corresponding to contents.</p>
+<h4 id="basic-modes">Basic modes</h4>
+<p>Boolean. Numeric. Integer.</p>
+<h3 id="scalar-values-and-operations">Scalar values and operations</h3>
+<h4 id="special-values">Special values</h4>
+<p>TRUE, FALSE. Inf. NA: &lsquo;not available&rsquo; or missing values. NaN is also a special case of NA.</p>
+<p>These can be checked using is.na() and isNaN functions.</p>
+<h3 id="data-conversion">Data conversion</h3>
+<p>as.array(), as.data.frame etc..</p>
+<p>Use methods(as) for a list of such methods.</p>
+<h3 id="vectors">Vectors</h3>
+<h4 id="the-basic-math-object">The basic math object</h4>
+<p>A scalar is actually a vector with one element in R. An array is also internally a vector. A string is a character array.</p>
+<h4 id="homegeneity">Homegeneity</h4>
+<p>Vectors are homogenous: their &lsquo;mode&rsquo; attribute is character, numeric, logical.</p>
+<h4 id="named-entries">Named entries</h4>
+<p>names(x) = stringList is a way of giving names to indices.</p>
+<h4 id="indexing">Indexing</h4>
+<p>A vector can be indexed with a vector of a] logical elements, b] positive integers, c] negative integers.</p>
+<p>Eg: x[1:10] picks 1st 10 elements. x[-2]: all but x[2].</p>
+<p>x[&lsquo;abc&rsquo;] is valid if entries are named.</p>
+<p>tail(x, k) picks the k last elements.</p>
+<p>To append to a vector: append(v, val)</p>
+<h4 id="creating-vectors">Creating vectors</h4>
+<p>c(1,2) : Using the concatenation function.</p>
+<p>seq(); This can be abbreviated using the : operator.</p>
+<p>rep(vector, timesToRepeat) is the replicator function.</p>
+<p>vector() creates an empty vector.</p>
+<h4 id="vector-statistics-functions">Vector statistics functions</h4>
+<p>length, max, min, sum, mean, median, cummax, cummin, cumsum, cumprod, range, prod. cor: correlation.</p>
+<p>which: gather &lsquo;TRUE&rsquo; values from boolean vector.</p>
+<h4 id="apply-scalar-functions">Apply scalar functions</h4>
+<p>lapply returns a list. sapply, a simpler wrapper around lapply, returns a vector by default. vapply is an</p>
+<p>apply returns an array or a vector but acts on arrays.</p>
+<h3 id="factor">Factor</h3>
+<p>Factors are ways of storing a label-vector. They can be created using factor(labelColumn).</p>
+<p>An important attribute is levels, which contains the set of labels used.</p>
+<h3 id="strings">Strings</h3>
+<p>These are character vectors. Enclosed in &quot;&rdquo; for brevity.</p>
+<h4 id="string-manipulation">String manipulation</h4>
+<p>concatenation: paste(vector). substr gets a substring.</p>
+<p>strsplit(v, sep) returns a list, having split each element in v.</p>
+<h3 id="dates">Dates</h3>
+<h4 id="string-connection">String connection</h4>
+<p><code>d&lt;-as.Date(&quot;1995/12/01&quot;,format=&quot;%Y/%m/%d&quot;)</code> converts string to date.</p>
+<p>format(dt) converts date to string.</p>
+<h4 id="arithmetic-operations">Arithmetic operations</h4>
+<p>Then, one can add days with d+20.</p>
+<h3 id="arrays-matrices">Arrays/ matrices</h3>
+<h4 id="as-special-vectors">As special vectors</h4>
+<p>Arrays are just vectors which support multiple subscript indexing. So all operations and restrictions that apply to vectors apply to arrays.</p>
+<p>Arrays are stored column by column.</p>
+<p>The dimensionality is stored as a vector in the dim attribute.</p>
+<h4 id="indexing-1">Indexing</h4>
+<p>A[a, &hellip;]. Any subscript can be replaced with the sort of vector used to index vectors. If a subscript is omitted all values in that dimension are chosen.</p>
+<p>Eg: A[,c(3:5)]: picks 3 cols.</p>
+<h4 id="data-creation">Data creation</h4>
+<p>array(vector, dimensions). Or just set the dim attribute after creating a vector.</p>
+<p>Or concatenate various vectors or arrays: c(v1, v2)</p>
+<h5 id="matrices">Matrices</h5>
+<p>x = matrix(vector, nrow = 3).
+matrix(0,nrow=n,ncol=n)</p>
+<p>Row or column binding functions: rbind(vec1, vec2); cbind.</p>
+<h4 id="dimension-wise-oeprations">Dimension-wise oeprations</h4>
+<p>apply applies functions to margins of an array; apply(x,1,max): gives row max.</p>
+<p>sweep(m, 2, colSums(m), FUN=&rdquo;/&quot;)</p>
+<h4 id="matrix-functions">Matrix functions</h4>
+<p>t(A): transpose.\<br>
+%*%, %^%: matrix mult and exp.</p>
+<p>diag(A) extracts diagonal, creates a diagonal matrix depending on the argument.</p>
+<p>sum, rowSums, colSums, rowMeans, colMeans. cor: correlation.</p>
+<h5 id="linear-algebra">Linear algebra</h5>
+<p>eigen, svd, qr. solve(A, b). lsfit(A, b).</p>
+<h3 id="lists">Lists</h3>
+<p>Lists are heterogenous. They are a combination of a Hashmap and a list. They are very convenient to use as structures.</p>
+<h4 id="list-creation">List creation</h4>
+<p>$L &lt;-list(1, a, b)$ or $L &lt;-list(a1= 1, a2 = a, xyz = b)$ for named lists.</p>
+<h4 id="accessing-list-items">Accessing list items</h4>
+<p>L[[4]], L[[&ldquo;fieldName&rdquo;]], L$fieldName. While indexing, list names can be abbreviated: Eg: &lsquo;cov&rsquo; instead of &lsquo;covar&rsquo;, as long as the interpreter is still able to uniquely identify the intended member.</p>
+<p>TO see if a member exists, use: fieldName %in% colnames(Lst).</p>
+<h4 id="concatenation">Concatenation</h4>
+<p>c(L1, L2) returns a single list with members from both.</p>
+<h3 id="data-frame">Data frame</h3>
+<p>Data frames are the R concept for data tables or matrices which can consist of columns of mixed types which can also have a name.</p>
+<h4 id="creation">Creation</h4>
+<p>They are often read in from files - using read.csv for example.</p>
+<p>By concatenating vectors: df = data.frame(n, s, b).</p>
+<h4 id="conversion">Conversion</h4>
+<p>Or from a matrix: data.frame(A). It can be reconverted to a matrix using data.matrix.</p>
+<h4 id="indexing-2">Indexing</h4>
+<p>Indexing is done as in the case of two dimensional arrays. If column headers exist, they can be used for indexing.</p>
+<pre><code>drops &lt;- c(&quot;x&quot;,&quot;z&quot;)
+DF[,!(names(DF) %in% drops)]
+DF$colName
+</code></pre><h4 id="searching">Searching</h4>
+<p>\verb which(sbux.df$Date == &ldquo;3/1/1994&rdquo;)</p>
+<h4 id="concatenation-1">Concatenation</h4>
+<p>As in the case of matrices</p>
+<h3 id="model-formulae">Model Formulae</h3>
+<p>~ operator is used to separate left and right sides of formulae.</p>
+<p>Syntax: response ~ predictor variables (separated by +).</p>
+<h3 id="functions">Functions</h3>
+<p>Functions are actually objects.</p>
+<h4 id="definition">Definition</h4>
+<pre><code>my.mean &lt;- function(x1 = defaultValue, y1) codeBlock
+</code></pre><p>The value returned is the value evaluated by the last expression in the function definition. Multiple return values are usually handled using lists.</p>
+<h4 id="variables-used">Variables used</h4>
+<p>Usually variables have a local scope: they cannot be accessed outside a function.</p>
+<p>They can use variables from the parent scope, say g. The value of g is bound from the parent scope. If a normal assignment is made to g: $g &lt;- 0$, g is then taken to refer a local variable. If g is not bound to a value, but is required in the function definition, there is an error; as it is not bound either in the definition or by an argument. However, if $g &laquo;- 0$ is used, then the parent-scope variable is updated, and g acts as the &lsquo;state&rsquo; of the function.</p>
+<h4 id="operator-defintions">Operator defintions</h4>
+<p>The function name can be replaced by %*% for example.</p>
+<h4 id="invocation">Invocation</h4>
+<p>Invocation can be done as in C, using a sequence of values. Together with positionally specified values, one can pass named arguments in any order. Eg: f(3, a=1, b = 2) or f(a=1).</p>
+<h2 id="operator">Operator</h2>
+<h3 id="assignment">Assignment</h3>
+<p>$&lt;-, -&gt;$, assign(). $&laquo;-$ is used to make global assignments: assignment to a variable outside the local scope.</p>
+<h3 id="scalar-operators">Scalar operators</h3>
+<h4 id="arithmetic-operators">Arithmetic operators</h4>
+<p>As in C.</p>
+<h4 id="operators-on-booleans">Operators on booleans</h4>
+<p><code>|, &amp;, ||, &amp;&amp;</code>,  where the latter result in &lsquo;short-circuit&rsquo; evaluation, where the second argument is evaluated only if necessary.</p>
+<h4 id="operators-which-produce-booleans">Operators which produce booleans</h4>
+<p><code>&gt;, &lt;, ==</code>.</p>
+<h3 id="general-vector-operators">General Vector operators</h3>
+<h4 id="mapping-over-elements">Mapping over elements</h4>
+<p>lapply can be used to apply scalar functions to vector elements, while apply() can be used to apply vector functions on array rows.</p>
+<h4 id="arithmetic-and-boolean-ops">Arithmetic and boolean ops</h4>
+<p>All scalar arithmetic operators are extended to be meaningful when provided vector arguments: even when they are not of the same size.</p>
+<h4 id="lengthening-of-arguments">Lengthening of arguments</h4>
+<p>All shorter arguments are extended by repetition to have the size of the longest vector: Thus 1+c(2 3) is define.</p>
+<h5 id="examples">Examples</h5>
+<p>c(1,2,3,4)/c(4,3,2,1). c(1,2,3,4) + c(4,3) yields 5 5 5 8.</p>
+<h4 id="ifelse-op">ifelse op</h4>
+<p>ifelse operation uses a logical vector as a condition.</p>
+<h4 id="set-membership">Set membership</h4>
+<pre><code>drops &lt;- c(&quot;x&quot;,&quot;z&quot;)
+DF[,!(names(DF) %in% drops)]
+</code></pre><h4 id="missing-value-identification">Missing value identification</h4>
+<p>is.na(x) returns true for both NA and NAN values. Note that this is different from the syntactically undecidable expression x == NA.</p>
+<h2 id="code-structure">Code structure</h2>
+<p>Every line of code is an expression or a sentence.</p>
+<h3 id="code-blocks">Code blocks</h3>
+<p>{} encloses code block.</p>
+<h3 id="sentence-syntax">Sentence syntax</h3>
+<p>Sentences end with newline or ;.</p>
+<p># comments.</p>
+<h3 id="decision-structures">Decision structures</h3>
+<p>if(..) codeBlock; optionally followed by else codeBlock. for(var in vector) codeBlock. while(cond) codeBlock.</p>
+<h3 id="packages">Packages</h3>
+<p>To be able to use a package, one says: library(packageName). Standard packages are automatically available. Note that this is distinct from the idea of a namespace.</p>
+<h3 id="organization-with-lists">Organization with lists</h3>
+<p>Can group functions in lists which are declared in separate files. These files are then (re)loaded using commands like source or sourceDirectory.</p>
+<h2 id="io">IO</h2>
+<h3 id="file-io">File I/O</h3>
+<p>To load data from a table, use read.table(), read.csv (fileName, header=FALSE, stringsAsFactors = FALSE), write.csv(x, file).</p>
+<p>Write in matlab format: library(R.matlab), writeMat(filename, A=mat).</p>
+<h3 id="user-interaction-io">User interaction I/O</h3>
+<h4 id="output">output</h4>
+<p>a+b prints a value, which is then lost.</p>
+<p>print. printf is available in the base package.</p>
+<p>sink(&lsquo;fileName&rsquo;) diverts output to a file. sink() restores it to STDIO.</p>
+<h4 id="input">Input</h4>
+<p>x= scan(): keyboard input, no commas.</p>
+<h3 id="plotting-and-tables">Plotting and tables</h3>
+<p><code>plot(y ~ x)</code> produces a scatter plot.</p>
+<p>Tables can be produced with <code>xtabs(y ~ x)</code>.</p>
+<h2 id="data-preparation-and-exploration">Data preparation and exploration</h2>
+<p>scale(x, center = TRUE, scale = TRUE) normalizes columns using the mean and standard deviation.</p>
+<p>Getting covariance matrix: cor(x, y = NULL, use = &ldquo;pairwise.complete.obs&rdquo;)</p>
+<h2 id="modeling">Modeling</h2>
+<p>Several useful functions are provided to evaluate fitted models in the package stats, which is loaded by default.</p>
+<h3 id="classification">Classification</h3>
+<p>Decision tree learning: rpart</p>
+<h4 id="logistic-regression">Logistic regression</h4>
+<pre><code>glm(model, data=tblName, family = binomial())
+ret &lt;- glm.fit(x=X, y=z, family=binomial())
+
+</code></pre><p>Options for family include: binomial(link=logit)</p>
+<p>The return value is a list which includes coefficients and fitted.values.</p>
+<h4 id="logistic-regression-with-l1l2-regularization">Logistic regression with l1/l2 regularization</h4>
+<p>Use the glmnet package (requires gfortran).</p>
+<p>Example:</p>
+<pre><code>returnList &lt;- cv.glmnet(X, y, family = &quot;binomial&quot;);
+</code></pre><p>returnList contains the following vectors: lambda (corresponding to the lagrangian multiplier for the l1-norm), cvm - the corresponding mean cross-validated errors, glmnet.fit: the fit weights.</p>
+<h4 id="decision-tree-rpart-and-tree">Decision tree: rpart and tree</h4>
+<pre><code>ret &lt;- rpart(model, tblRet)
+print(ret)
+</code></pre><h2 id="other-library-functions">Other library functions</h2>
+<h3 id="random-sampling">Random sampling</h3>
+<p>Sampling from distributions: runif. sample(x, size, [replace=TRUE])</p>
+<h2 id="write-c-extensions">Write C extensions</h2>
+<h3 id="write-c-code">Write C code</h3>
+<p>Useful libraries: #include &lt;R.h&gt; #include &lt;Rmath.h&gt;</p>
+<p>Signature: void getSamples(int *input, int *output)</p>
+<h3 id="calling-c-code">Calling C code</h3>
+<p>Compile C code: R CMD SHLIB foo.c</p>
+<p>Loading: dyn.load(&ldquo;foo.so&rdquo;)</p>
+<p>Calling: .C(&ldquo;foo&rdquo;, n=as.integer(5), x=as.double(rnorm(5)))</p>
+<p>This returns a list of return.</p>
+<h2 id="ref">Ref</h2>
+<!-- raw HTML omitted -->
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">R </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: R</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

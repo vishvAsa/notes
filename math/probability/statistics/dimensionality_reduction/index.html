@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Dimensionality reduction</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/probability/statistics/dimensionality_reduction/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/probability/statistics/dimensionality_reduction/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Dimensionality reduction" />
+<meta property="og:description" content="General motivations Perhaps one wants to find closest vectors to a given vector - perhaps for the purpose of executing the nearest neighbor algorithm.
+Computational efficiency - as in the case of Most variable subspace identification (PCA).
+Noise reduction - it could be that many of the features in a vector are not very informative.
+Latent factor modeling Problem Here, one derives generative models to describe affinity of one discrete variable (say \(U\)) with another (say \(V\)): eg: features and objects, documents and words." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/probability/statistics/dimensionality_reduction/" />
+
+<meta itemprop="name" content="Dimensionality reduction">
+<meta itemprop="description" content="General motivations Perhaps one wants to find closest vectors to a given vector - perhaps for the purpose of executing the nearest neighbor algorithm.
+Computational efficiency - as in the case of Most variable subspace identification (PCA).
+Noise reduction - it could be that many of the features in a vector are not very informative.
+Latent factor modeling Problem Here, one derives generative models to describe affinity of one discrete variable (say \(U\)) with another (say \(V\)): eg: features and objects, documents and words.">
+
+<meta itemprop="wordCount" content="957">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Dimensionality reduction"/>
+<meta name="twitter:description" content="General motivations Perhaps one wants to find closest vectors to a given vector - perhaps for the purpose of executing the nearest neighbor algorithm.
+Computational efficiency - as in the case of Most variable subspace identification (PCA).
+Noise reduction - it could be that many of the features in a vector are not very informative.
+Latent factor modeling Problem Here, one derives generative models to describe affinity of one discrete variable (say \(U\)) with another (say \(V\)): eg: features and objects, documents and words."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/probability\/statistics\/dimensionality_reduction\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/probability\/statistics\/dimensionality_reduction.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Dimensionality reduction</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Dimensionality reduction">Dimensionality reduction</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/probability/statistics/dimensionality_reduction.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="general-motivations">General motivations</h2>
+<p>Perhaps one wants to find closest vectors to a given vector - perhaps for the purpose of executing the nearest neighbor algorithm.</p>
+<p>Computational efficiency - as in the case of Most variable subspace identification (PCA).</p>
+<p>Noise reduction - it could be that many of the features in a vector are not very informative.</p>
+<h2 id="latent-factor-modeling">Latent factor modeling</h2>
+<h3 id="problem">Problem</h3>
+<p>Here, one derives generative models to describe  affinity of one discrete variable (say \(U\)) with another (say \(V\)): eg: features and objects, documents and words.</p>
+<p>In the process, one derives low dimensional representation of both these entities.</p>
+<h4 id="matrix-view">Matrix view</h4>
+<p>Suppose that you are given a matrix \(A\) whose entires represent affinities between two types of entities. One may need to find a model the strength of this association which is robust to noise in the observations/ which is succinct.</p>
+<h4 id="linear-model">Linear model</h4>
+<p>A linear model would be: \(A_{ij} = \dprod{u_i, v_j}\), where \(u_i\) and \(v_j \in R^k\) are low dimensional representations of entities \(i\) and \(j\). Precisely, given that those entities are represented by \(A_{i,:}, A_{:,j}\), we want to find \(U^{k}, V^{k}\) such that \(A \approx U_k^{T} V_k\).</p>
+<h4 id="motivation">Motivation</h4>
+<p>So the motivations described for dimensionality reduction in general apply. In addition, this can be used to find unobserved affinities between entities.</p>
+<h3 id="matrix-factorization-by-svd">Matrix factorization by SVD</h3>
+<p>Taking the top singular vectors, we know that: \(\norm{A - U_k \SW_k V_k ^T}_2^2\) is minimzed.</p>
+<p>This is a very common form of &lsquo;Latent semantic analysis&rsquo;.</p>
+<h3 id="non-negative-matrix-factorization">Non-negative matrix factorization</h3>
+<p>There could be other constraints such as requiring that the lower dimensional representations be non negative. Non negative matrix factorization is considered elsewhere.</p>
+<h3 id="probabilistic-modeling">Probabilistic modeling</h3>
+<p>Probabilistic models for affinities between the two entity types are considered in the probabilistic models survey.</p>
+<h2 id="linear-dimensionality-reduction">Linear dimensionality reduction</h2>
+<p>A linear map (Eg: a projector) is used on the data to reduce dimensions. So, ratio of distances amongst points are preserved.</p>
+<h3 id="most-variable-subspace-identification">Most variable subspace identification</h3>
+<p>Aka Principal component analysis (PCA).</p>
+<h4 id="problem-1">Problem</h4>
+<p>Suppose that you have a \(m \times n\) data matrix \(A\) of \(n\) \(m-\)dimensional data points. Suppose that we want a very good low dimensional representation of these data points. We have a bunch of points, and we want to pick \(k &lt; m\) orthogonal axes along which the data has the greatest variability.</p>
+<p>One can visualize most of the data points as being contained in a m-dimensional hyperellipse, whose top \(k\) axes we want to use to represent the data points in a low dimensional space.</p>
+<h4 id="motivation-1">Motivation</h4>
+<p>Suppose one needs to compare a \(v \in R^m\) with all column vectors in \(A\) - as in the case of object matching. Computing \(n\) inner product is an \(O(m^2n)\) operation. By dimensionality reduction, we want to turn this into an \(O(k^2n)\) operation. Besides, the latter may be a way to overcome noise - ie ignore unimportant features.</p>
+<h4 id="preprocessing-problem-statement">Preprocessing, problem statement</h4>
+<p>One can always get a matrix \(B\) with rows centered around the mean. This will enable us to write the covariance matrix as \(C = n^{-1}BB^{T}\). We want to find a linear transformation \(L\) such that \(\norm{LL^{T} - BB^{T}}_F^2\) is minimized.</p>
+<h4 id="solution">Solution</h4>
+<p>Using the properties of the SVD. \(B = U \SW V^{<em>}\), \(BB^{T} = U\SW^{2}U^{</em>}\). This covariance matrix can be approximated by \(nC_k = U_k\SW_k^{2}U_k^{<em>}\). So, from \(\EW_k = \SW_k^{2} = U_k^{</em>}BB^{T}U_k\), we see that the low dimensional transformation of \(B\), which ensures that most of the variability in the data is preserved, is given by the orthogonal map \(U_k^{*}B\).</p>
+<h4 id="best-target-dimension-k">Best target dimension k</h4>
+<p>Sometimes, can pick the top \(k\) ev, so that there is a steep gap betweek \(\ew_q\) and \(\ew_{q+1}\).</p>
+<h4 id="comments">Comments</h4>
+<p>+++(So, the top ew/ sw of the covariance matrix define the subspace of highest variability.)+++</p>
+<h3 id="factor-analysis">Factor analysis</h3>
+<p>Model thus: \(x - \mean = Lf + \eps\). \(x \in R^{d}, L \in R^{d*k}\). Reducing \(x\) to \(k\) dimensional vertex. Ideally, cov(f) = I, \(f \perp \eps, E[f] = 0\). \(L\) is loading matrix, f are factors.</p>
+<p>Arrange centered data points as columns of X-M. Then, trying to factor this into LF.</p>
+<h2 id="supervised-linear-dimensionality-reduction">Supervised linear dimensionality reduction</h2>
+<p>Labelled data. Done for classification etc..</p>
+<h3 id="linear-discriminant-analysis">Linear discriminant analysis</h3>
+<h4 id="the-problem">The problem</h4>
+<p>(Fisher) Want to do dimensionality reduction for the purpose of classification. If \(x \in R^{d}\), want to project data points to some k-1 dimensional hyperplane; what is the best hyperplane to do this?</p>
+<p>You want to maximize after-projection inter-class scatter: separate means widely, but minimize after-projection intra-class scatter.</p>
+<p>Usually k-1 dim hyperplane desired: then you can find a hyperplane between every pair of classes. So you project with \(y = W^{T}x\) for orthogonal \(d*(k-1)\) dim W.</p>
+<h4 id="the-solution">The solution</h4>
+<p>Before projection: Take \(S_{T} = \sum_{x}(x - m)(x - m)^{T}\): total scatter; \(S_{W} = \sum_{i=1}^{k} \sum_{x \in C_{i}}(x - m_{i})(x - m_{i})^{T}\): within class scatter matrix; \(S_{B} = \sum_{i=1}^{k}n_{i}(m_{i}-m)(m_{i}-m)^{T}\): between class scatter matrix. So, \(S_{T} = S_{W} + S_{B}\). Note: \(S_B\), the sum of \(k\) rank 1 matrices, has rank k-1; so only k-1 ew&rsquo;s are non 0. If \(k\) = 2, can define differently: \(S_B = (m_1 - m_2)(m_1 - m_2)^{T}\).</p>
+<p>After projection scatters will be: \(S_{W}&rsquo; = W^{T}S_{W}W, S_{B}&rsquo; = W^{T}S_{B}W\). Find \(\max_{W} \frac{|W^{T}S_{B}W|}{|W^{T}S_{W}W|}\) or maybe \(\max_{W} tr((W^{T}S_{W}W)^{-1}(W^{T}S_{B}W))\), with W having (k-1) independent columns. Maximized by top k-1 generalized ev: see linear algebra ref.</p>
+<p>If \(S_{W}\) is invertible, same as ev problem \(S_{W}^{-1}S_Bx = \ew x\): solution is the top k-1 ev; but matrix is assymetric, so finding ev harder. If just projecting to a line, can also get problem \(S_{W}^{-1/2}S_{B}S_{W}^{-1/2}x = \ew x\). See linear algebra ref.</p>
+<h2 id="non-linear-dimensionality-reduction">Non-linear dimensionality reduction</h2>
+<h3 id="kernel-pca">Kernel PCA</h3>
+<p>Represent data in feature space corresponding to some kernel, use PCA.</p>
+<h3 id="manifold-learning">Manifold learning</h3>
+<p>Consider the swiss roll/ tissue paper roll dataset. This is a 2 dimensional manifold in a 3-dim space.</p>
+<p>\tbc</p>
+<h3 id="measuring-goodness">Measuring goodness</h3>
+<p>How well are k-NN properties preserved? Neighborhood rank preserved even if magnitude is not.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Dimensionality reduction </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Dimensionality reduction</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

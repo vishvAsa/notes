@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiles on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/materials/tile/</link>
+    <description>Recent content in Tiles on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/materials/tile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clay</title>
+      <link>file:///storage/emulated/0/notesData/notes/materials/tile/clay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/materials/tile/clay/</guid>
+      <description>Clay tiles  Oft turn black, collect dirt and moss. Dry very fast.  Cermaic  Ceramic tiles are made from natural clay that is mixed with water and molded. Creators apply a glaze to the tile to help protect it from water and scratches, then fire the clay in a kiln to harden it. Glazes are a glassy coat on tiles. Can use heavy metals (including lead) to generate colors and textures.</description>
+    </item>
+    
+    <item>
+      <title>Stone</title>
+      <link>file:///storage/emulated/0/notesData/notes/materials/tile/stone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/materials/tile/stone/</guid>
+      <description>Marble  Marble is a dense, porous stone with a high water absorption rate. swirls and veined patterns on the surface Commonly found in shades of white, black, green, brown, grey and other natural hues, different grades of marbles will absorb water differently. Polished marble is used to achieve a glossy finishes while honed and sand marble can be used for matte, rustic textures. marble tends to react very easily with most substances.</description>
+    </item>
+    
+  </channel>
+</rss>

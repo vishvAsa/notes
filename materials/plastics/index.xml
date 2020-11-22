@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Plastics on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/materials/plastics/</link>
+    <description>Recent content in &#43;Plastics on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/materials/plastics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PVC</title>
+      <link>file:///storage/emulated/0/notesData/notes/materials/plastics/pvc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/materials/plastics/pvc/</guid>
+      <description>PVC  Oft has heavy metal stabilizers.  CPVC  PVC + (flexible - plasticizers added, chlorinated) without lead stabilizer Less biofilm potential compared to copper and polyproylene (VE whitepaper): IM  Negatives  it is brittle and it can&amp;rsquo;t withstand very high temperatures like copper can  Vendors  Ashirvad - no mention of being lead-free online. FlowGuard CPVC water pipe is approved for potable water applications and holds an NSF 61 Annex G certification.</description>
+    </item>
+    
+  </channel>
+</rss>

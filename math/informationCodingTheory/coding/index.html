@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Coding</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/informationCodingTheory/coding/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/informationCodingTheory/coding/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Coding" />
+<meta property="og:description" content="Fingerprinting This codes can also be used as error detection codes.
+Chinese reminder code Codes which use a mod p, with rand p. \(\hat{F}(a)\) elements will use diff fields; so not preferred.
+Checking equality A picks rand prime p between 1 and \(k = n^{3}\); Sends (a mod p, p) to B; B says &lsquo;=&rsquo; if \(a \equiv b \mod p\).
+\(Pr_{p}(a \equiv b \mod p|a \neq b) \leq n^{-1}\): num(p with \(a \equiv b mod p\) when \(b \neq a\)) or, \(num(p | (a-b)) \leq n^{-1}\) as \(a-b \in [0, 2^{n}-1]\); so \(Pr(p|a-b) &lt; \frac{n}{\Pi(n^{3})} = \leq \frac{n\ln n}{n^{3}} \leq \frac{1}{n}\) Using Prime number theorem." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/informationCodingTheory/coding/" />
+
+<meta itemprop="name" content="Coding">
+<meta itemprop="description" content="Fingerprinting This codes can also be used as error detection codes.
+Chinese reminder code Codes which use a mod p, with rand p. \(\hat{F}(a)\) elements will use diff fields; so not preferred.
+Checking equality A picks rand prime p between 1 and \(k = n^{3}\); Sends (a mod p, p) to B; B says &lsquo;=&rsquo; if \(a \equiv b \mod p\).
+\(Pr_{p}(a \equiv b \mod p|a \neq b) \leq n^{-1}\): num(p with \(a \equiv b mod p\) when \(b \neq a\)) or, \(num(p | (a-b)) \leq n^{-1}\) as \(a-b \in [0, 2^{n}-1]\); so \(Pr(p|a-b) &lt; \frac{n}{\Pi(n^{3})} = \leq \frac{n\ln n}{n^{3}} \leq \frac{1}{n}\) Using Prime number theorem.">
+
+<meta itemprop="wordCount" content="990">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Coding"/>
+<meta name="twitter:description" content="Fingerprinting This codes can also be used as error detection codes.
+Chinese reminder code Codes which use a mod p, with rand p. \(\hat{F}(a)\) elements will use diff fields; so not preferred.
+Checking equality A picks rand prime p between 1 and \(k = n^{3}\); Sends (a mod p, p) to B; B says &lsquo;=&rsquo; if \(a \equiv b \mod p\).
+\(Pr_{p}(a \equiv b \mod p|a \neq b) \leq n^{-1}\): num(p with \(a \equiv b mod p\) when \(b \neq a\)) or, \(num(p | (a-b)) \leq n^{-1}\) as \(a-b \in [0, 2^{n}-1]\); so \(Pr(p|a-b) &lt; \frac{n}{\Pi(n^{3})} = \leq \frac{n\ln n}{n^{3}} \leq \frac{1}{n}\) Using Prime number theorem."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/informationCodingTheory\/coding\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/informationCodingTheory\/coding.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Coding</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Coding">Coding</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/informationCodingTheory/coding.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="fingerprinting">Fingerprinting</h2>
+<p>This codes can also be used as error detection codes.</p>
+<h3 id="chinese-reminder-code">Chinese reminder code</h3>
+<p>Codes which use a mod p, with rand p. \(\hat{F}(a)\) elements will use diff fields; so not preferred.</p>
+<h4 id="checking-equality">Checking equality</h4>
+<p>A picks rand prime p between 1 and \(k = n^{3}\); Sends (a mod p, p) to B; B says &lsquo;=&rsquo; if \(a \equiv b \mod p\).</p>
+<p>\(Pr_{p}(a \equiv b \mod p|a \neq b) \leq n^{-1}\): num(p with \(a \equiv b mod p\) when \(b \neq a\)) or, \(num(p | (a-b)) \leq n^{-1}\) as \(a-b \in [0, 2^{n}-1]\); so \(Pr(p|a-b) &lt; \frac{n}{\Pi(n^{3})} = \leq \frac{n\ln n}{n^{3}} \leq \frac{1}{n}\) Using Prime number theorem.</p>
+<h3 id="univar-polynomial-code">Univar polynomial code</h3>
+<p>(Reed Solomon) Codes which make univar polynomial \(p_{a}\) over \(\mathbb{F}_{p}\), (\(deg \leq n\)), from a, prime p, with a&rsquo;s bits representing coefficients.</p>
+<h4 id="checking-equality-1">Checking equality</h4>
+<p>Fix p. A picks rand r from \(F_{p}\), sends \((p_{a}(r), r)\) to B, B accepts if \(p_{b}(r) = p_{a}(r)\). \(Pr((p_{b}-p_{a})(r) = 0) \leq \frac{n}{p}\): max n roots.</p>
+<h3 id="multivar-polynomial-code">Multivar polynomial code</h3>
+<p>(Reed Muller). \tbc</p>
+<h2 id="source-coding">Source coding</h2>
+<p>Compression. See the example about checking equality.</p>
+<h2 id="channel-codes">Channel Codes</h2>
+<h3 id="code-design">Code design</h3>
+<p>In most cases, this is an art, rather than a science. Not many things are proved; instead one runs long simulations to show goodness of a code.</p>
+<h3 id="modelling-a-channel">Modelling a channel</h3>
+<p>Transmitted x is transmuted to y; want to model this process.</p>
+<h4 id="channel-capacity">Channel capacity</h4>
+<p>Aka Shannon limit or capacity. The tightest upper bound on the amount of information that can be reliably transmitted over a communications channel.</p>
+<h4 id="binary-symmetric-channel">Binary symmetric channel</h4>
+<p>Pr(\(x_i \neq y_i\)) = p.</p>
+<h4 id="erasure-channel">Erasure channel</h4>
+<p>\(Pr(y_i  = x_i) = p\), with 1-p probability, \(y_i = ?\) (erased). This can model packet loss.</p>
+<h3 id="model-message-distribution">Model message distribution</h3>
+<p>Usually assume uniform distribution over messages.</p>
+<h3 id="tolerating-errors">Tolerating errors</h3>
+<p>Design codes and protocols for error detection and correction.</p>
+<h4 id="arq">ARQ</h4>
+<p>If error detected, ask for retransmission.</p>
+<h4 id="forward-error-correction">Forward error correction</h4>
+<p>Receiver never sends any message back to transmitter. Error correcting code (ECC) attached with data used to fix errors.</p>
+<h4 id="decoding">Decoding</h4>
+<p>Set of codes \(C \set F_{2}^{n}\). x is received. Select \(c \in C\) closest to x.</p>
+<h6 id="list-decoding">List decoding</h6>
+<p>Output a list of codes within a certain distance of the mangled code.</p>
+<h4 id="joint-source-channel-coding">Joint source-channel coding</h4>
+<p>Encoding of a redundant information source for transmission over a noisy channel, and the corresponding decoding. \tbc</p>
+<h3 id="properties">Properties</h3>
+<h4 id="minimum-hamming-distance-d">Minimum Hamming Distance d</h4>
+<p>Aka distance of the code, Hamming metric. Closely related to the error correcting ability of the code.</p>
+<p>More efficient encoding and decoding. \why</p>
+<h4 id="code-rate">Code rate</h4>
+<p>Code rate k/n. High rate code if this is high.</p>
+<h3 id="types">Types</h3>
+<h4 id="block-vs-convolutional-codes">Block vs Convolutional codes</h4>
+<p>Block codes: k-bit info to n-bit code. Block length n.</p>
+<p>Convolutional code: k bit info to n bit code.</p>
+<h4 id="bound-on-code-size-of-block-codes">Bound on code size of block codes</h4>
+<p>(Gilbert-Varshamov). Take code with length n, distance d, size (not dimension) of the code \(A_{q}(n, d)\). Then \(A_{q}(n, d) \geq \frac{q^{n}}{\sum_{j=0}^{d-1} \binom{n}{j}(q-1)^{j}}\) \why.</p>
+<p>The best rate vs distance tradeoff.</p>
+<h4 id="w-error-correcting-code">w error correcting code</h4>
+<p>A code which can correct w erroneous bits.</p>
+<h6 id="w-error-correcting-linear-code">w error correcting linear code</h6>
+<p>Given n*m generator matrix G and m bit y, find n bit x such that \(d(xG, y) \leq w\), if it exists. This is possible only if corresponding \(d \geq 2w+1\).</p>
+<h4 id="cyclic-code">Cyclic code</h4>
+<p>Right shifting a code \(c \in C\) also yields a code in C.</p>
+<h2 id="n-k-d-linear-code-c">[n, k, d] Linear code C</h2>
+<p>A type of block code. Block Length n, message length k, min Hamming distance d: encode k bit msg in n bit message.</p>
+<p>d is the min Hamming wt of any non zero code vector \why.</p>
+<h3 id="a-linear-subspace-of-valid-codes">A linear subspace of valid codes</h3>
+<p>A linear subspace C with dimension k of vector space \(F_{q}^{n}\) over finite field \(F_{q}\). The channel takes you away from this subspace, find the vector closest to the received message in the subspace.</p>
+<p>All vector and scalar ops are in \(F_{q}\). For Binary linear codes, use the field \(F_2\).</p>
+<h4 id="basis-codes">Basis codes</h4>
+<p>Can be represented as span of basis codes. Basis codes form rows of k*n generating matrix G. Standard form of G: G is of the augmented matrix \([I_{k}:A]\), with k*(n-k) A. To encode x, find xG.</p>
+<h4 id="random-n-k-code">Random [n, k] code</h4>
+<p>k vectors chosen randomly from \(\set{0, 1}^{n}\). Or, full rank G is chosen randomly. Achieves whp Gilbert Varshmov bound on rate vs distance tradeoff.</p>
+<h3 id="decoding-1">Decoding</h3>
+<p>Check/ parity check matrix H: n*(n-k), with left kernel C; \(H = [-A^{T}:I_{n-k}]\) in std form. GH=0. To check y, verify: \(yH=0\).</p>
+<p>For corrupted y, there is an error vector e with \(wt(e) \leq \frac{d-1}{2}\) such that \(y\xor e = xG\) for some x. To decode, look at its syndrome: yH = (x + e)H = eH. Then solve for e or look it up in a table. Then find x.</p>
+<h4 id="p-q-regular-code">[p, q] regular code</h4>
+<p>Make a bipartite graph: bits in variable x on one hand, and nodes corresponding to parity checks in H on the other. If this is a [p, q] regular graph, you have a [p, q] regular code.</p>
+<h4 id="decoding-2">Decoding</h4>
+<p>Avg case hardness unknown. Worst case decoding is NP hard. Even finding d is belived hard.</p>
+<h4 id="as-inference-over-factor-graph">As inference over factor graph</h4>
+<h6 id="make-a-factor-graph">Make a factor graph</h6>
+<p>Make nodes for the transmitted codeword bits x, and for the corresponding received/ corrupted codeword bits y. Make factors corresponding to the parity checks for y: eg: if H contains a check which says \(\oplus_{i \in S} x_i\), make a factor \(f_S\), such that any x where this is not satisfied has probability 0. Relationship between \(x_i\) and \(y_i\) can be modelled using a symmetric error: maybe \(y_i\) is corrupted with probability p.</p>
+<h6 id="the-inference-problem">The inference problem</h6>
+<p>y is observed, x is unobserved - to be inferred. Can use loopy belief propogation for doing this.</p>
+<h6 id="guarantees-for-p-q-regular-codes">Guarantees for [p, q] regular codes</h6>
+<p>As the block size n increases, can be sure that loopy belief propogation properly decodes: shown using the &lsquo;density evolution&rsquo; argument. Loopy belief propogation gets into trouble because of cycles; but if you consider the computation tree corresponding to a node, maybe convergence achieved well before a cyclical message is received!</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Coding </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Coding</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

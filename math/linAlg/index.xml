@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Linear Algebra on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/linAlg/</link>
+    <description>Recent content in &#43;Linear Algebra on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/linAlg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notation</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/linAlg/notation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/linAlg/notation/</guid>
+      <description>Vectors are small letters. Matrices are capital letters.
+Matrix notation Dimensions \(A = [a_{ij}]\) is mn matrix: \(\in C^{m \times n}\). \(q = \min \set{m,n}\). Square A: \(m \times m\). \(\hat{A}\) is rectangular.
+Matrices related to A \((v_{1}, v_{2} \dots)\) is a column vector v.
+\(a_{i}\): ith element of vector a or ith column of A. \(a_{i}^{*}\): by context: ith row of \(A\) or transpose of \(a_{i}\). \(A_{k+1:m,k:f}\): a submatrix; other unambiguous matlab notations \(A_{i,:}\) for ith row etc.</description>
+    </item>
+    
+    <item>
+      <title>Tensors</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/linAlg/tensors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/linAlg/tensors/</guid>
+      <description>Independent of chosen frame of reference. An array of numbers is a mere representation (components of the tensor) in a certain basis, not the tensor itself.
+Order Number of indices for each entry. Observe the difference from dimensions!
+Scalar: order 0 tensor. Vector: order 1. Matrices: order 2.</description>
+    </item>
+    
+  </channel>
+</rss>

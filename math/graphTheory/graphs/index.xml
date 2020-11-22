@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Graphs on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs/</link>
+    <description>Recent content in &#43;Graphs on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clique tree of G</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs/clique_tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs/clique_tree/</guid>
+      <description>Look at maximal cliques, pick a set of such cliques so that every edge is in some clique, make corresponding clique-nodes, make a tree by adding paths between cliques passing through shared-vertex-set nodes.
+Eg: 1-2-3 has clique tree (1,2)-2-(2,3).
+G can have multiple clique tree.
+Junction tree property Take any path in the clique tree between cliques \(C_1\) and \(C_2\); then \(C_1 \inters C_2\) appears in every shared-vertex-set node inbetween them.</description>
+    </item>
+    
+    <item>
+      <title>Random walks on G</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs/random_walks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs/random_walks/</guid>
+      <description>Markov process with state graph G Take a Markov chain with probability matrix \(P_{u, v} = \frac{1}{deg(u)}\). \(\pi_{v}=\frac{d(v)}{2|E|}\). \chk
+Hitting and cover times Hitting time \(h_{u,v}\): expected time to get to v from u. Commute time: \(C_{u,v} = h_{u,v} + h_{v, u}\). \(h_{u,v}&amp;lt;2|E|\) \why.
+Cover time C(G) = \(\max_{v}\) E[time to hit all nodes starting from v]. \(C(G) &amp;lt; 4|V||E|\) \why.
+Connection with resistive electric networks Let every \(e\in E\) have resistance 1, thence get n/w N(G).</description>
+    </item>
+    
+    <item>
+      <title>Vertex set: metrics, norms</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs/vertex_set_metrics_norms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs/vertex_set_metrics_norms/</guid>
+      <description>Similarity measures between u and v are inverses of distance metrics.
+Based on paths and random walks  (shortest path).  Katz measure \(sim(u,v) = \sum_{l=1}^{\infty} \gb^{l}|paths_{u,v}(l)|\). Matrix of scores, \(K = \sum_{i=1}^{\infty} \gb^{i}A^{i}\).
+The damping parameter \(K = (I - \gb A)^{-1} - I\) if the sum converges. Use \(A = U\EW U^{*}\): EW decomposition, with \(\ew_{i}\) ordered in descending order. \(\sum_{i=1}^{\infty} \gb^{i}A^{i} = U(\sum_{i=1}^{\infty} \gb^{i}\EW^{i})U^{*}\) does not converge \(\forall \gb \geq 0\) and multiplication by \(\infty\) is not well defined.</description>
+    </item>
+    
+  </channel>
+</rss>

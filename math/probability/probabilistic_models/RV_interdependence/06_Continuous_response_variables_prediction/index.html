@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | 06 Continuous response variables&#39; prediction</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/06_Continuous_response_variables_prediction/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/06_Continuous_response_variables_prediction/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="06 Continuous response variables&#39; prediction" />
+<meta property="og:description" content="Aka regression.
+For overview, see Statistics survey. Here one models a (set of ) response random variable \(Y\) in terms of input variables \(X\).
+Data preparation and assumptions Saling, centering, addition of bias variables is assumed below. That, along with motivation, is described in the statistics survey.
+Generalized linear model Linear models Here, we suppose that \(L|X \distr XW &#43; N\), where \(N\) is a 0-mean noise RV. Then, \(E[L] = XW\), which is linear in parameters \(w\)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/06_Continuous_response_variables_prediction/" />
+
+<meta itemprop="name" content="06 Continuous response variables&#39; prediction">
+<meta itemprop="description" content="Aka regression.
+For overview, see Statistics survey. Here one models a (set of ) response random variable \(Y\) in terms of input variables \(X\).
+Data preparation and assumptions Saling, centering, addition of bias variables is assumed below. That, along with motivation, is described in the statistics survey.
+Generalized linear model Linear models Here, we suppose that \(L|X \distr XW &#43; N\), where \(N\) is a 0-mean noise RV. Then, \(E[L] = XW\), which is linear in parameters \(w\).">
+
+<meta itemprop="wordCount" content="871">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="06 Continuous response variables&#39; prediction"/>
+<meta name="twitter:description" content="Aka regression.
+For overview, see Statistics survey. Here one models a (set of ) response random variable \(Y\) in terms of input variables \(X\).
+Data preparation and assumptions Saling, centering, addition of bias variables is assumed below. That, along with motivation, is described in the statistics survey.
+Generalized linear model Linear models Here, we suppose that \(L|X \distr XW &#43; N\), where \(N\) is a 0-mean noise RV. Then, \(E[L] = XW\), which is linear in parameters \(w\)."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/probability\/probabilistic_models\/RV_interdependence\/06_Continuous_response_variables_prediction\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/probability\/probabilistic_models\/RV_interdependence\/06_Continuous_response_variables_prediction.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> 06 Continuous response variables&#39; prediction</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="06 Continuous response variables&#39; prediction">06 Continuous response variables&#39; prediction</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/probability/probabilistic_models/RV_interdependence/06_Continuous_response_variables_prediction.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>Aka regression.</p>
+<p>For overview, see Statistics survey. Here one models a (set of ) response random variable \(Y\) in terms of input variables \(X\).</p>
+<h2 id="data-preparation-and-assumptions">Data preparation and assumptions</h2>
+<p>Saling, centering, addition of bias variables is assumed below. That, along with motivation, is described in the statistics survey.</p>
+<h2 id="generalized-linear-model">Generalized linear model</h2>
+<h3 id="linear-models">Linear models</h3>
+<p>Here, we suppose that \(L|X \distr XW + N\), where \(N\) is a 0-mean noise RV. Then, \(E[L] = XW\), which is linear in parameters \(w\).</p>
+<p>Correpsonding to the constant variable \(X_0 = 1\), we have bias parameters \(W_{0,:}\).</p>
+<h3 id="generalization">Generalization</h3>
+<p>One can extend the family of linear models so that \(E_{L|X}[L] = g^{-1}(XW)\) and \(var[L] = f(E_{L|X}[L])\). Note that the variance is then a function of the predicted value.</p>
+<p>A distribution from the exponential family must be used.</p>
+<h4 id="log-linear-model">Log linear model</h4>
+<p>Aka poisson regression. \(\log(E[L]) = XW\).</p>
+<h4 id="logistic-model">Logistic model</h4>
+<p>Aka logit model, logistic regression. A generalized linear model. See &lsquo;discriminative models of response&rsquo; section.</p>
+<h4 id="perceptron-step-function">Perceptron: step function</h4>
+<p>Here \(E_{L|X}[X] = I[XW &gt; 0]\).</p>
+<h2 id="multi-layer-generalized-linear-model">Multi-layer generalized linear model</h2>
+<p>Aka Artificial Neural Network, multi-layer perceptron (a misnomer given that the activation function described below is not the non-differentiable step function).</p>
+<h3 id="model">Model</h3>
+<p>Suppose one wants to predict \(Y=y\) using the input \(X^{(0)}=x^{(0)}\) (aka input layer). The model \(Y = h(X^{(0)})\) is hierarchical.</p>
+<p>One can obtain layer upon layer of intermediary random variables \(X^{(j)} = \set{X_i^{(j)}}\), where \(X_i^{(j)} = f(\dprod{w_i^{(j)}, X_i^{(j-1)}} + w_{i, 0}^{(j)})\). Suppose one has \(k\) such intermediary layers. One finally models \(X_j^{(k+1)} = h(\dprod{w_j^{(k+1)}, X^{(k)}})\) (aka the output layer).</p>
+<h4 id="component-names">Component names</h4>
+<p>The intermediary layers are called hidden layers. Neurons in the hidden/ &lsquo;skip&rsquo; layers are called hidden units. Neurons in the output layer are called output units.</p>
+<p>\(a_i^{(j)} = \dprod{w_i^{(j)}, X_i^{j-1}} + w_{i, 0}^{(j)}\) is called the activation.</p>
+<h4 id="activation-function">Activation function</h4>
+<p>\(f\) is usually a non-linear function - the logistic step function with the range [-1, 1] and the tanh function are commonly used in case of classification problems being solved by relaxation to regression problem. In case of regression problems or in case of &lsquo;skip&rsquo; layer variables, the final \(f\) is just the identity function - or a sigmoid function which approximates it.</p>
+<h4 id="visualization-as-a-network">Visualization as a network</h4>
+<p>There is the input layer, hidden layers and the output layer. Directed arrows go from one layer to the next. This is a Directed Graphical Model except that the intermediary dependencies are deterministic, not stochastic.</p>
+<h4 id="nomenclature">Nomenclature</h4>
+<p>Depending on preference, a model with \(K\) layers of non-input (intermediary + output ) variables is called a \(K+1\) or \(K\) layer neural network. We prefer the latter.</p>
+<p>2 layer networks are most common.</p>
+<h3 id="connection-to-other-models">Connection to other models</h3>
+<p>\tbc</p>
+<h3 id="model-training">Model training</h3>
+<p>One can write \(Y = h(X)\) where \(h\) is a differentiable, yet non-convex function. One can fit model parameters to training data \(((x_i, l_i))\) by minimizing (possibly regularized) empirical loss.</p>
+<h4 id="gradient-finding">Gradient finding</h4>
+<p>Given an error fn \(E(y)\) for a given data point \((x, t)\), various optimization techniques require one to find \(\gradient_{w} E(y)\). This gradient can be found efficiently using the error back-propagation algorithm.</p>
+<p>The idea is that the parameter \(w_{k, j}^{(f)}\) only affects \(E(y)\) through the output : \(X_k^{(f)}\), so one can apply the chain rule for partial derivatives.</p>
+<p>For output unit, \(\frac{dE(X_1^{(t)})}{dw_{1, j}^{(t)}} = \frac{dE(X_1^{(t)})}{dX_1^{(t)}} f&rsquo;(a_1^{(t)}) X_j^{(t-1)}\). Denote \(d_1^{t} \dfn \frac{dE(X_1^{(t)})}{dX_1^{(t)}} f&rsquo;(a_1^{(t)})\) - the quantity multiplied with \(X_j^{(t-1)}\) in the expression. This is aka &lsquo;error&rsquo;.</p>
+<p>Assume that \(\frac{dE(X_1^{(t)})}{dw_{i, j}^{(f)}} = d_i^{(f)} X_j^{(f-1)}\) holds for neurons in the levels \(f:t\). We can see that a similar expression holds for level \(f-1\) too.</p>
+<p>For symbol manipulation convenience, set \(i\)th input to \(k\)th neuron in layer \(f\): \(Z_{k, i}^{f} = X_i^{f-1}\). Using chain rule for partial derivatives:</p>
+<p>\(\frac{dE(X_1^{(t)})}{dw_{i, j}^{(f-1)}} = \sum_k \frac{dE(X_1^{(t)})}{dZ_{k, i}^{f}} \frac{d X_{i}^{(f-1)}}{dw_{i, j}^{(f-1)}}= \sum_k d_k^{f} f&rsquo;(a_i^{(f-1)})X_{j}^{(f-2)}\) .</p>
+<p>Setting \(d^{(f-1)}<em>i = \sum_k d_k^{f} f&rsquo;(a_i^{(f-1)})\), we see from mathematical induction that \(\frac{dE(X_1^{(t)})}{dw</em>{i, j}^{(f-1)}}\) can be calculated for all neurons given the &lsquo;error&rsquo; for the layer ahead.</p>
+<p>So, the back propagation algorithm to find the gradient is: First run the neural network with input \(x\) and record all outputs \(X_j^{k}\). Starting with the output layer, determine the error \(d^{(f-1)}_i\) and thence the appropriate gradient components.</p>
+<h4 id="weight-initialization">Weight initialization</h4>
+<p>Starting point for (stochastic) gradient descent is done as follows. Weights can be initialized randomly with mean 0 and standard deviation \(1/m^2\), where \(m\) is the fan-in of a unit.</p>
+<h3 id="flexibility">Flexibility</h3>
+<p>There are theorems which show that a two layer network can approximate any continuous function to arbitrary accuracy - provided a sufficient number of intermediary variables are allowed!</p>
+<p>The flexibility of the multi-layer generalized linear model derives from the non-linearity in the activation functions.</p>
+<h3 id="disadvantages">Disadvantages</h3>
+<p>Objective function minimized during training is non-convex.</p>
+<p>Large diversity in training examples required. The model learned is not accessible for use in modeling the process producing the data realistically, though it may be effective.</p>
+<p>It can be inefficient in terms of storage space and computational resources required.</p>
+<p>The brain by contrast solves all these problems because: its hardware is tuned to the neural network architecture; its training examples have suffiencient variety.</p>
+<h2 id="deep-belief-network">Deep belief network</h2>
+<p>Extending the idea of neural networks, adding structure to it and using a sort of L1 regularization to make the network sparse, one gets deep belief networks. These have proved to be very successful in many applications since 2007.</p>
+<p>\tbc</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">06 Continuous response variables&#39; prediction </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: 06 Continuous response variables&#39; prediction</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

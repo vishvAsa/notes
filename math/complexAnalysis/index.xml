@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Complex analysis on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/</link>
+    <description>Recent content in &#43;Complex analysis on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/complexAnalysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bounding techniques</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/analysis_bounding_tehchniques/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/analysis_bounding_tehchniques/</guid>
+      <description>Also see functional analysis ref.
+Effectively bound one function with another.
+General ideas Use convexity of functions! See proof of AM/ GM inequalities, for example.
+Bound f over [a, b] with a constant c Show that \(f\) is monotone over \([a, b]\), perhaps by taking derivative; take \(c\) to be value at \(a\) or \(b\).
+Asymptotics Asymptotic notation: o, O, \(\Theta, \Omega, \omega\).
+Hierarchy of growth of functions $$c, \lg^{*} n, \log n, n^{k}, n^{\log n}, \</description>
+    </item>
+    
+    <item>
+      <title>Bounds and limits</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/bounds_and_limits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/bounds_and_limits/</guid>
+      <description>\(p^{1/n} \to 1\): take seq \(x_{n} = p^{1/n}-1\). Also, \(n^{1/n} \to 1\).
+Bounds on combinatorial quantities Bounds on n! (Stirling)\(n!\approx \sqrt{2n\pi} (\frac{n}{e})^{n}\). \why
+Bounds on (a choose b) \(\binom{a}{b} = \frac{a!}{b!(a-b)!} \approx \frac{a^{a}}{\sqrt{2n\pi} b^{b}(a-b)^{a-b}}\) for large a, b and a-b.
+So: \(\binom{a}{b} \leq (\frac{ea}{b})^{b}\). \(\lceil \frac{a}{b}\rceil \leq \frac{a-1}{b}+1\). \(\frac{e^{m}}{\sqrt{em}}&amp;lt; \frac{m^{m}}{m!}\leq \sum \frac{m^{i}}{i!} = e^{m}\). \((\frac{a}{b})^{b} &amp;lt; \binom{a}{b} &amp;lt; a^{b}/b!\).
+Bounds on powers and exponents Bounds on \htext{\((1+b)^{n\) and \(e^{n}\)}{exponentials}} Using Taylor series of \(e^{-x}\) wrt 0, stopped at \(x^{2}\): \(e^{-x} \geq 1-x\).</description>
+    </item>
+    
+    <item>
+      <title>Important fields</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/important_fields/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/important_fields/</guid>
+      <description>General properties For algebraic properties etc.., see algebra ref.
+For Open balls, interior points, connectedness etc.. See topology ref.
+Numbers Natural numbers. Integers.
+Supremum (GUB) vs infimum (GLB) See properties of ordered sets in algebra ref.
+The field of Rational numbers Q; irrationality of \(\sqrt{2}\); \(\sqrt{2}\) as limit of rationals.
+Q is an ordered field. Q is countable, as \(Z^{2}\) is countable.
+Absence of least upper bound \(\set{x \in Q, x^{2}&amp;lt; 2}\) does not have supremum in Q.</description>
+    </item>
+    
+  </channel>
+</rss>

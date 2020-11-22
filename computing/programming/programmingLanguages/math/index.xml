@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Math on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/</link>
+    <description>Recent content in &#43;Math on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CVX</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/cvx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/cvx/</guid>
+      <description>Distinctive features Disciplined convex programming framework Makes specification easy. Abstracts away the mathematical and methodological details (like what underlying solver to call?).
+Tries to mimic the way people formulate convex programs: drawing from a library of convex functions, combining them in various valid ways to preserve convexity. Similarly, it has a rich, expandable library of functions with known properties, plus it specifies valid ways of composing and combining them.
+Good way to check convexity of the problem!</description>
+    </item>
+    
+    <item>
+      <title>Google Spreadsheet</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/google_spreadsheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/google_spreadsheet/</guid>
+      <description>Google docs Cell referencing Columns are numbered with letters and rows with numbers. A cell can be specified using a latter and a number.
+When cell references are copied (perhaps as part of formulae), the references may be automatically changed in a certain way - this is called relative reference: Eg: The reference A20 used in cell A2, when copied to B2 will automatically be changed to B20.
+When such change does not happen, we have absolute reference to a cell.</description>
+    </item>
+    
+    <item>
+      <title>Matlab/ Octave</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/matlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/matlab/</guid>
+      <description>Introduction Distinctive features of the language Excellent plotting facilities; many libraries; interactive sessions good for exploring features of data; easy I/O: don&amp;rsquo;t need to spend as much time in getting I/O right as in actual computation; excellent debugging facilities.
+Octave is an open source clone of matlab.
+Purpose of design Matrix computations. This is meant to be a rapid prototyping language : It is not meant for fast implementations.
+Versions Certain OOP methods, properties don&amp;rsquo;t work with 2007 version.</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/R/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/R/</guid>
+      <description>Introduction and use When to use Statistics is the emphasis, not matrix manipulation. It is an expression language.
+When not to use Text processing and general purpose programming are painful.
+Writing, Building and executing code Script execution source(&amp;quot;/path/file.R&amp;rdquo;).
+Reloading changed code library(&amp;ldquo;R.utils&amp;rdquo;);
+sourceDirectory(&amp;ldquo;work&amp;rdquo;, modifiedOnly=TRUE, \pattern=&amp;rdquo;[A-Z]*[.]R$&amp;rdquo;, recursive=FALSE);
+Important environment variables \verb R_LIBS : the place where R libraries are installed.
+Working environment getwd(), setwd(dir)
+options(): Example options(digits=3)
+Command history history(), savehistory, loadhistory.</description>
+    </item>
+    
+    <item>
+      <title>Rapidminer</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/rapidminer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/rapidminer/</guid>
+      <description>Introduction Purpose Rapidminer provides convenient tools for data loading, exploration, modelling, visualization.
+UI and API It comes with a nice GUI. It provides Java API. It also has a scripting interface.
+Data types (Bi or Poly) Nominal, Integer, Double, Varchar.
+Processes One can visualize the data mining process as a tree of operators. The leaf nodes correspond to the result nodes. Processes can be edited in the design view : here it looks like an electronic circuit.</description>
+    </item>
+    
+  </channel>
+</rss>

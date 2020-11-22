@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Learning the best hypothesis</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/colt/complexity/Learning_the_best_hypothesis/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/colt/complexity/Learning_the_best_hypothesis/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Learning the best hypothesis" />
+<meta property="og:description" content="Aka Agnostic learning model.
+The goal Let error in best fit, \(\eta = min_{c \in C} Pr(c(x) \neq l)\). Given \(\del, \eps\); get h where \(Pr(h(x) \neq l) \leq \eta &#43; \eps\).
+Underlying distribution Naught known to the algorithm about process generating data; just asking for approximately best fit or \(\eps\) approx of the \(c\) with error \(\eta\). Even same example \(s\) can have different label \(l\) at different times: this could either be because of noise/ corruption of the label or because of the underlying distribution." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/colt/complexity/Learning_the_best_hypothesis/" />
+
+<meta itemprop="name" content="Learning the best hypothesis">
+<meta itemprop="description" content="Aka Agnostic learning model.
+The goal Let error in best fit, \(\eta = min_{c \in C} Pr(c(x) \neq l)\). Given \(\del, \eps\); get h where \(Pr(h(x) \neq l) \leq \eta &#43; \eps\).
+Underlying distribution Naught known to the algorithm about process generating data; just asking for approximately best fit or \(\eps\) approx of the \(c\) with error \(\eta\). Even same example \(s\) can have different label \(l\) at different times: this could either be because of noise/ corruption of the label or because of the underlying distribution.">
+
+<meta itemprop="wordCount" content="599">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Learning the best hypothesis"/>
+<meta name="twitter:description" content="Aka Agnostic learning model.
+The goal Let error in best fit, \(\eta = min_{c \in C} Pr(c(x) \neq l)\). Given \(\del, \eps\); get h where \(Pr(h(x) \neq l) \leq \eta &#43; \eps\).
+Underlying distribution Naught known to the algorithm about process generating data; just asking for approximately best fit or \(\eps\) approx of the \(c\) with error \(\eta\). Even same example \(s\) can have different label \(l\) at different times: this could either be because of noise/ corruption of the label or because of the underlying distribution."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/colt\/complexity\/Learning_the_best_hypothesis\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/colt\/complexity\/Learning_the_best_hypothesis.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Learning the best hypothesis</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Learning the best hypothesis">Learning the best hypothesis</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/colt/complexity/Learning_the_best_hypothesis.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>Aka Agnostic learning model.</p>
+<h2 id="the-goal">The goal</h2>
+<p>Let error in best fit, \(\eta = min_{c \in C} Pr(c(x) \neq l)\). Given \(\del, \eps\); get h where \(Pr(h(x) \neq l) \leq \eta + \eps\).</p>
+<h3 id="underlying-distribution">Underlying distribution</h3>
+<p>Naught known to the algorithm about process generating data; just asking for approximately best fit or \(\eps\) approx of the \(c\) with error \(\eta\). Even same example \(s\) can have different label \(l\) at different times: this could either be because of noise/ corruption of the label or because of the underlying distribution.</p>
+<p>In some settings, it may be clear that the underlying \(Pr(x)\) distribution is of a particular type. This setting is important in practice.</p>
+<h2 id="connection-to-pac-model">Connection to PAC model</h2>
+<p>PAC model a special case. So, lower bounds which apply to PAC learning apply to agnostic learning too.</p>
+<h2 id="common-algorithms">Common algorithms</h2>
+<p>Very few positive results known. Usually empirical risk minimization used.</p>
+<h3 id="under-u-learn-f-with-fourier-concentration">Under U, learn f with Fourier concentration</h3>
+<p>If target \(f \in C\) has good fourier concentration: \<br>
+\(\sum_{|S|\geq d} \hat{f}(S)^{2} \leq \eps\); for best \(g \in H\): \(Pr_{x}(g(x)\neq f(x)) = \eta\); then use low degree algorithm to learn g: get \(h = \sum_{|S|&lt; d} \hat{g}(S)p_{S}\); then error of h wrt g:\<br>
+\(\norm{\sum_{|S|\geq d} \hat{g}(S)p_{S}}^{2} \leq \norm{g-\sum_{|S|&lt;d}\hat{f}(S)p_{S}}^{2} \leq \norm{g - f + f_{\geq d}}^{2} \leq O(\eta + \eps)\); final error of h wrt f also \(O(\eta + \eps)\).</p>
+<h3 id="learning-parities">Learning parities</h3>
+<p>Equivalent to decoding random linear codes from adversarial errors: \(xG = c\); make \(H\) in \(N(G^T)\); \((c+e)H = eH\). Finding e from eH is equivalent to learning noisy parities. NP hard.</p>
+<p>If possible, enables weak parity learning.</p>
+<h4 id="reduces-to-learning-with-random-noise">Reduces to learning with random noise</h4>
+<p>Let f have t-heavy component s. This is also a weak parity learner.</p>
+<p>Let A-projection of f: \(f_A = \sum_{a \in \set{0, 1}^n: Aa = 1^m} \hat{f}(a)p_a(x)\): So, picking \(2^{-m+n}\) basis parities. \(f_A(x) = E_{p \in \set{0,1}^m}[f(x \xor A^T p)p_{1^m}(p)]\). Thus, Can simulate \(PEX(f_A)\) with PEX(f).</p>
+<p>Take [-1, 1] ranged f, \(s \neq 0\), random A: with probability \(2^{-m-1}\), \(\hat{f}<em>A(s) = \hat{f}(s)\) and \(\sum</em>{a \neq s}\hat{f_A}(a)^2 \leq 2^{-m+1} \norm{f}^2\): latter by finding expectation, using Markov inequality.</p>
+<p>Algorithm WP: Take learner \(L\) for parities over k vars for every noise \(\eta &lt; 1/2\) in time \(T(\)n\(,k, (1-2\eta)^-1)\) and \(S = S(\)n\(,k, (1-2\eta)^-1)\) examples. Take PEX(f); simulate \(PEX(f_A)\) which \(\approx PEX(\hat{f}(a)(s)p_s(x))\) which is s with noise \(\eta = \frac{1-t}{2}\); run \(L\) to get parity \(s\), output \(s\) if \(s\) is \(t/2\) heavy.</p>
+<p>Statistical distance \(\Del(PEX(f_A(x)), PEX(\hat{f}(a)(s)p_s(x))\leq 1/(2S)\); \(L\) uses S examples; so Probability that A notices difference between these is at most 1/2.</p>
+<p>Also, \(f\) has at most \(u = 1/t^2\) t-heavy coefficients: so, by coupon collector, with \(u \log u\) repetitions, identify all t-heavy coefficients.</p>
+<p>Can learn t-heavy \(p_s\) for \(f\) with range beyond \([-1,1]\), given oracle \(EX(f)\) with correct expected value for \(f(x)\): scale \(f\) by \(\norm{f}<em>{\infty}\); learn \(\frac{t}{\norm{f}</em>{\infty}}\) correlated parity.</p>
+<h4 id="learn-dnf-k-juntas">Learn DNF, k-juntas</h4>
+<p>For DNF, use p-smooth booster. Distributions D generated by booster; learning parity \(p_s\) correlated with f under D is same as learning correlated parity for \(2^{n}D(x)f(x)\); scale this: \(F(x) = \frac{2^{n}D(x)f(x)}{\norm{2^{n}D(x)}<em>{\infty}}\); use oracle \(EX</em>{D}(f(x))\), add noise to get \(PEX(F(x))\).</p>
+<p>Learning k-juntas: A clean formulation of the problem of efficient learning in the presence of irrelevant attributes. k-junta has at most \(2^k\) non 0 coefficients; Each of them is \(2^{-k+1}\) heavy (See boolean fn ref); use WP to learn full spectrum.</p>
+<p>Noise tolerance: Oracle for f with noise \(\eta\) is same as \(PEX((1-2\eta)f)\). Use this oracle in above algorithm to get oracle \(PEX((1-2\eta)f_a p_a)\), use it as above.</p>
+<h2 id="useful-relations-1-x-leq-e-x-to-solve-amb-leq-2cm-for-m-make-both-sides-look-alike-to-simplify-fx-fxt--ctfx">Useful relations} \((1-x) \leq e^{-x}\). To solve \(am^{b} \leq 2^{cm\) for m: make both sides look alike. To simplify \(f(x)-f(x+t) = ctf&rsquo;(x)\).</h2>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Learning the best hypothesis </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Learning the best hypothesis</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

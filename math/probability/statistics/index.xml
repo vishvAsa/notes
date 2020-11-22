@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Statistics on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/</link>
+    <description>Recent content in &#43;Statistics on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/probability/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clustering</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/clustering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/clustering/</guid>
+      <description>The clustering problem Given \(N\) points, want \(k\) clusters. Often, \(k\) is not known.
+Use Summarizing data is important for generalization, understanding future data points.
+Supplying labels to unlabeled data; thence classifying new data-points. Eg: Face recognition using Eigenfaces. Use to estimate distribution support and thence in novelty detection.
+Criteria: Continuity vs compactness Consider a starfish: The continuity critierion will identify the 5 arms as 5 clusters, but the comactness criterion will fail.</description>
+    </item>
+    
+    <item>
+      <title>Data preparation</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/data_preparation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/data_preparation/</guid>
+      <description>Motivation Data preparation often involves massaging attribute values to fit the requirements of operators/ models. For example, some operators cannot handle continuous values, others cannot handle polynomial values, some have problem with missing data.
+Changing the range Ploynominal features can be converted to binomial features using a binary representation.
+Binominal features can be treated as numeric inputs.
+Continuous valued features can be converted to discrete valued features by binning them. The bins may be defined by a regular grid on the range, or irregularly to ensure roughly equal cardinality.</description>
+    </item>
+    
+    <item>
+      <title>Data representation</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/data_representation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/data_representation/</guid>
+      <description>Feature extraction Use some \(\ftr\): d-dim X formed by input vars \(\to\) m-dim Feature space; \(\ftr\) is a vector function. Basis of feature space are the &amp;lsquo;basis functions&amp;rsquo; \((\ftr_{i})\). \tbc
+Dimensionality reduction Remove irrelevant/ less relevant features, merge duplicate features. Eg: synonymous words in documents.
+Importance Treating duplicate features as if they were different harms ability to classify or cluster data points. Irrelevent features also harm predictive ability, by acting as noise.</description>
+    </item>
+    
+    <item>
+      <title>Decision procedure selection</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/decision_procedure_selection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/decision_procedure_selection/</guid>
+      <description>Overview, motivation Some discipline is necessary in order to avoid common errors which consume effort and resources. The below describes steps common to many problems including density estimation and classification.
+Formulate the problem in decision theoretic terms properly - pick an appropriate &amp;lsquo;risk/ loss function&amp;rsquo; (possibly incorporating prior belief), a candidate feature set. Then fix a model family (possibly after a literature survey) and develop a model selection procedure. Then use empirical risk estimation using cross validation in order to avoid overfitting to training data.</description>
+    </item>
+    
+    <item>
+      <title>Decision theory</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/decision_theory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/decision_theory/</guid>
+      <description>Certain elements common to probability density estimation, distribution structure learning (including classification) etc.. can be studied within the abstract framework of decision theory.
+Agents: Actions, policies How should an agent act in the face of uncertainty, given some observations? Our objective is to find good decision procedures for the agent.
+Like a game against nature. See game theory reference for adversarial games.
+State and parameters State space The state of nature changes, possibly in response to actions made by an agent.</description>
+    </item>
+    
+    <item>
+      <title>Dimensionality reduction</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/dimensionality_reduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/dimensionality_reduction/</guid>
+      <description>General motivations Perhaps one wants to find closest vectors to a given vector - perhaps for the purpose of executing the nearest neighbor algorithm.
+Computational efficiency - as in the case of Most variable subspace identification (PCA).
+Noise reduction - it could be that many of the features in a vector are not very informative.
+Latent factor modeling Problem Here, one derives generative models to describe affinity of one discrete variable (say \(U\)) with another (say \(V\)): eg: features and objects, documents and words.</description>
+    </item>
+    
+    <item>
+      <title>Hypothesis testing</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/hypothesis_testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/hypothesis_testing/</guid>
+      <description>Model selection given 2 models Aka Confirmatory data analysis: Test hypotheses, as against Exploratory data analysis: Find hypotheses worth testing.
+Which process is more likely to have generated the data? Which model is better at explaining the observations? Model selection, with only 2 models.
+Hypotheses Null hypothesis \(H_{0}: t = t_{0}\) or \(t\leq t_{0}\)
+Alternate hypothesis \(H_{a}\); can be 1 sided like \(t &amp;gt; t_{a}\) or 2 sided: \(t \neq t_{0}\) or \(|t-t_{0}| \geq k\).</description>
+    </item>
+    
+    <item>
+      <title>Sample</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/sample/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/sample/</guid>
+      <description>A statistical population exists. Thence, a sample of \(N\) points is drawn, from which we attempt to infer properties of the population.
+Properties Sample statistics are considered elsewhere in the distribution structure learning pages.
+Sample bias Pick 2 people: he is either Indian or Chinese; but there exist over 180 other countries.
+Completeness, accuracy of examples It is possible that, some points are not completely specified. For a certain point \(X\), the component \(X_j\) may not be specified.</description>
+    </item>
+    
+  </channel>
+</rss>

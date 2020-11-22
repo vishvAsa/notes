@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Eigenvalue and co</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/eigenvalue_and_co/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/eigenvalue_and_co/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Eigenvalue and co" />
+<meta property="og:description" content="Eigenvalue (ew) ew problem Aka: ew or eigenwert. For square \(A\) only. These are solutions to the eigenvalue problem: \(Ax=\ew x\) (Eigen = distinctive). This defines the Eigen pair: \((\ew, x)\), where \(\ew\) is ew, x is a (right) ev (eigen vector).
+Left and right eigenpairs Also, can define left ev and ew by the relation \(xA = \ew x\). ew of \(A\) and left ew of \(A^{T}\) are same." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/eigenvalue_and_co/" />
+
+<meta itemprop="name" content="Eigenvalue and co">
+<meta itemprop="description" content="Eigenvalue (ew) ew problem Aka: ew or eigenwert. For square \(A\) only. These are solutions to the eigenvalue problem: \(Ax=\ew x\) (Eigen = distinctive). This defines the Eigen pair: \((\ew, x)\), where \(\ew\) is ew, x is a (right) ev (eigen vector).
+Left and right eigenpairs Also, can define left ev and ew by the relation \(xA = \ew x\). ew of \(A\) and left ew of \(A^{T}\) are same.">
+
+<meta itemprop="wordCount" content="1539">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Eigenvalue and co"/>
+<meta name="twitter:description" content="Eigenvalue (ew) ew problem Aka: ew or eigenwert. For square \(A\) only. These are solutions to the eigenvalue problem: \(Ax=\ew x\) (Eigen = distinctive). This defines the Eigen pair: \((\ew, x)\), where \(\ew\) is ew, x is a (right) ev (eigen vector).
+Left and right eigenpairs Also, can define left ev and ew by the relation \(xA = \ew x\). ew of \(A\) and left ew of \(A^{T}\) are same."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/linAlg\/matrix_functions\/eigenvalue_and_co\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/linAlg\/matrix_functions\/eigenvalue_and_co.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Eigenvalue and co</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Eigenvalue and co">Eigenvalue and co</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/linAlg/matrix_functions/eigenvalue_and_co.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="eigenvalue-ew">Eigenvalue (ew)</h2>
+<h3 id="ew-problem">ew problem</h3>
+<p>Aka: ew or eigenwert. For square \(A\) only. These are solutions to the eigenvalue problem: \(Ax=\ew x\) (Eigen = distinctive). This defines the Eigen pair: \((\ew, x)\), where \(\ew\) is ew, x is a (right) ev (eigen vector).</p>
+<h4 id="left-and-right-eigenpairs">Left and right eigenpairs</h4>
+<p>Also, can define left ev and ew by the relation \(xA = \ew x\). ew of \(A\) and left ew of \(A^{T}\) are same.</p>
+<p>ew of \(A\) and ew of \(A^{T}\) are the same if \(A\) is real: By Schur, \(A=QUQ^{<em>}\), \(A^{</em>}=QU^{<em>}Q^{</em>}\). As  \(QU^{<em>}Q^{</em>}\) is a similarity transformation, and \(U^*\) is triangular, the ew of \(A\) are still \(diag(U)\).</p>
+<p>In the case of diagonalizable A, ew decomposition \(AS = S \EW\) reveals that rows of \(S^{-1}\) are the left ev: For details see ew decomposition section.</p>
+<h3 id="characteristic-polynomial">Characteristic polynomial</h3>
+<p>As \((A-\ew I)x = 0\), \(det(A-\ew I)=0\). 0 is always an ev.</p>
+<p>Other things apart, this implies that ew of a triangular matrix are on its diagonal.</p>
+<h4 id="mapping-polynomials-to-matrices">Mapping polynomials to matrices</h4>
+<p>Every polynomial \(p(\ew) = \ew^{m} + a_{m-1}\ew^{m-1} .. + a_{0}\) determinant of some matrix; Eg: \(\mat{\ew &amp; a_{0}\ -1 &amp; \ew+a_{1}}\) for m=2; which is \(A-\ew I\) for some companion matrix A.</p>
+<h3 id="applications">Applications</h3>
+<p>Domain and range of \(A\) are the same space. Useful where iterative calculations: \(A^{k}\) or \(e^{tA}\) occur.</p>
+<p>Physics: evolving systems generated by linear equations; Eg: resonance, stability.</p>
+<p>Simpler algorithms: Reduces coupled system into a collection of scalar systems. \why</p>
+<h2 id="ew-and-ev-properties">ew and ev properties</h2>
+<h3 id="ew-properties">ew properties</h3>
+<p>For connection with matrices, distribution etc.. see later section.</p>
+<h4 id="number-of-ew">Number of ew</h4>
+<p>There are n ew in \(C\). Algebraic multiplicity of ew: number of times an ew appears as root of \(p(\ew)\).</p>
+<h4 id="0-as-an-ew">0 as an ew</h4>
+<p>If \(A\) full rank, 0 is not an ew: \(Ax=\ew x\) else A&rsquo;s columns would be dependent. If 0 is an ew, \(E_{0} = N(A)\).</p>
+<h3 id="eigenspace-of-an-ew">Eigenspace of an ew</h3>
+<p>If x is an ev corresponding to \(\ew\), so is -x and kx for any scalar k. For every \(\ew\), ev span the null space of \(A-\ew I\).</p>
+<p>An invariant subspace: \(AE_{\ew}\subseteq E_{\ew}\). \(E_{\ew_{1}} = N(A-\ew_{1}I)\).</p>
+<h4 id="independence-of-ev">Independence of ev</h4>
+<p>ev \(x_{1}, x_{2}\) (non-0) for distinct ew \(\ew_{1}, \ew_{2}\) are linearly independent: otherwise action of \(A\) on collinear \(x_1, x_2\) would involve the same scaling.</p>
+<h4 id="defective-matrices">Defective matrices</h4>
+<p>Geometric multiplicity of \(\ew\) \(\leq\) algebraic multiplicity: Let n be geometric multiplicity of \(\ew\) in A; Select orth vectors in \(E_{\ew}\) to get \(\hat{V}\); extend it to square V; take \(B=V^{*}AV = \mat{\ew I &amp; C \ 0 &amp; D}\); but \(det(B-zI) = det(\ew I-zI)det(D-zI) = (\ew-z)^{n}det(D-zI)\): so algebraic multiplicity of \(\ew\) in B \(\geq n\), same in A.</p>
+<p>If algebraic multiplicity of ew exceeds geometric multiplicity, ew is defective. If \(A\) has defective ew, it is defective. Eg: Diagonal matrix never defective.</p>
+<h3 id="rayleigh-quotient-of-x">Rayleigh quotient of x</h3>
+<p>\(r(x) = \frac{x^{T}Ax}{x^{T}x}\). Like solving the least squares problem: \(xa\approx Ax\) for a; thereby approx eigenvalue. Range(r(x)): Field of values of numerical range of A: W(A). Includes Convex hull of \(\EW(A)\).</p>
+<h4 id="ev-as-stationary-points">EV as stationary points</h4>
+<p>\(\partder{r(x)}{x_{j}} = \frac{2(Ax-r(x)x)_{j}}{\norm{x}^{2}}\); their vector, the gradient \(\gradient r(x) = \frac{2(Ax-r(x)x)}{\norm{x}^{2}}\). ev are the stationary points: \(\gradient r(x) = 0\) iff x is ev and r(x) is ew.</p>
+<h4 id="geometry">Geometry</h4>
+<p>\(r(x):S^{n-1} \to R\). Normalized ev of \(A\) are stationary points of r(x) for \(x \in S^{n-1}\).</p>
+<h4 id="maxmin-thm-for-symmetric-a">maxmin thm for symmetric A</h4>
+<p>[Courant Fishcer]. \(\ew_i\) descending. Then \(\ew_i = \max_{S:dim(S) = i} \min_{y \neq 0 \in S} R_A(y)\).</p>
+<h4 id="quadratic-accuracy-of-ew-wrt-ev-error">Quadratic Accuracy of ew wrt ev error</h4>
+<p>For \(A = A^{T}\), let \(q_{i}\) be ev. Then, any \(x = \sum_{i} a_{i}q_{i}\), \(r(x) = \frac{\sum a_{i}^{2}\ew_{i}}{\sum a_{i}^{2}}\). So, W(A) = Convex hull of \(\EW(A)\). So, \(max_{x}r(x) = \ew_{max}\). Also, \(r(x) - r(q_{i}) = O(\norm{x-q_{i}}^{2})\) as \(x \to q_{i}\) or \(\forall j: |a_{j}/a_{i}| \leq \eps\).</p>
+<h4 id="rayleigh-quotient-of-m-generalization">Rayleigh quotient of M: Generalization</h4>
+<p>If \(A\) = m<em>m, M is m</em>n: thin, tall, required to be full rank.\<br>
+\(r(M) = tr((M^{T}M)^{-1}(M^{T}AM))\).</p>
+<p>Take svd: \(M = U\SW V^{*}\). Then \<br>
+\(\max r(M) = \max_{U} |tr(U^{T}AU)| = \max_{U} \prod |R(u_{i})|\). This happens when U is top k unique ev(A).</p>
+<h2 id="ew-and-matrices-other-connections">ew and matrices: other connections</h2>
+<h3 id="ew-distribution">ew distribution</h3>
+<p>Set of ew: Spectrum of A: \(\EW(A)\). Spectral radius: \(\rho(A) = |\ew_{max}|\). ew follows wigner&rsquo;s semicircle distribution for random matrices. \why</p>
+<h3 id="ew-and-the-diagonal">ew and the diagonal</h3>
+<h4 id="in-disks-around-the-diagonal">In Disks around the diagonal</h4>
+<p>(Gerschgorin) In complex plane, take disks with center \(A_{i,i}\), radii \(\sum_{j\neq i} A_{i,j}\); each ew lies in atleast one disk: Take ev v and ew l; take \(i = argmax_{i}\ v_{i}\); then \(|\ew-a_{i,i}|\leq |\sum_{j\neq i}a_{i,j}\frac{v_{j}}{v_{i}}| \leq |\sum_{j\neq i}a_{i,j}|\). Good estimate of ew!</p>
+<h4 id="monotonic-dependence-on-diagonal">Monotonic dependence on diagonal</h4>
+<p>Take \(A = QTQ^{<em>}\), take any +ve diagonal D; get \(A+D = Q(T+D)Q^{</em>}\). Used to take \(A \notin S_+ to B \in S_+\).</p>
+<h3 id="effect-of-transformations">Effect of transformations</h3>
+<h4 id="similarity-transformation">Similarity transformation</h4>
+<p>X nonsingular, square; \(A \to B = X^{-1}AX\). \(A\), B similar if \(\exists X: B=X^{-1}AX\).</p>
+<p>Change of basis op: See Ax=b as \(AXx'=Xb&rsquo;\) when \(Xx'=x\), \(Xb'=b\), so \(Bx'=b&rsquo;\).</p>
+<p>\(p_{X^{-1}AX} = det(\ew I - X^{-1}AX) = det(X^{-1}(\ew I - A)X) = det(\ew I - A) = p_{A}\). So, ew&rsquo;s, their agebraic multiplicities same. Geometric multiplicities same: \(X^{-1}E_{\ew}\) is eigenspace of \(X^{-1}AX\): if \(Ax = \ew x\), \(BX^{-1}x = \ew X^{-1}x\).</p>
+<h4 id="eigenpairs-of-htextak">Eigenpairs of \htext{\(A^{k\)}{..}}</h4>
+<p>\(A^{k} = (QUQ^{<em>})^{k} = QU^{k}Q^{</em>}\). So, ew are \(\ew_{i}^{k}\). So, ew of \(A^{-1}\) are \(\frac{1}{\ew_{i}}\): \(L^{-1} = (S^{-1}AS)^{-1} = S^{-1}A^{-1}S\).</p>
+<h3 id="matrix-construction">Matrix construction</h3>
+<h4 id="matrix-with-certian-ew-and-diagonal-entries">Matrix with certian ew and diagonal entries</h4>
+<p>If real \(\ew\) majorizes \(A\), \(\exists\) real symmetric \(A\) with \(a_{i,i} = a_{(i)}\), such that \(\ew_{(i)}\) are ew of A. Pf: By induction; assume true for n-1; Take \(g \in R^{n-1}\) interleaved amongst \(\ew\) which majorizes a; by ind hyp, take real symmetric \(B = QGQ^{*}\) with diagonal a and ew g; can make \(A&rsquo; = \mat{G &amp; y\ y^{T} &amp; \ga}\) with ew \(\ew\); take \(A = \mat{Q &amp; 0 \ 0 &amp; 1}A&rsquo;\mat{Q^{T} &amp; 0 \ 0 &amp; 1} = \mat{B &amp; Qy\ y^{T}Q^{T} &amp; \ga}\) with ew \(\ew\) and diag a.</p>
+<h4 id="extending-htextewew-to-a-with-certain-interleaving-htextewaew">Extending \htext{\(\EW\){EW} to A with certain interleaving \htext{\(\ew(A)\)}{ew}}</h4>
+<p>Take \(\ew \in R^{n}\) interleaved between \(l \in R^{n+1}\). Can make real \(A = \mat{\EW &amp; y \ y^{T} &amp; a}\) with \(\ew(A) = l\).</p>
+<p>Pf where \(\ew_{i}\) differ: \(a = tr(A) - tr(\EW) = \sum l_{i} - \sum \ew_{i}\). Take \(det(tI-A) = det[\mat{I &amp; (tI-\EW)^{-1}y \ 0^{T} &amp; 1}\mat{tI-\EW &amp; -y \ -y^{T} &amp; t-a}\mat{\EW &amp; y \ y^{T} &amp; a}]\) (multiplicity two matrices with det = 1) \(= [(t-a) - y^{T}(tI-\EW)^{-1}y]det(tI-\EW) = (t-a) - \sum_{i}y_{i}^{2}(t-\ew_{i})^{-1}\prod_{i}(t-\ew_{i}) = p_{A}(t)\).</p>
+<p>Find y to make \(p_A(l_{i}) = 0\). Characterize y, show it exists: Take \(f(t) = \prod (t- l_{i}), g(t) = \prod (t - \ew_{i})\), so \(f(t) = g(t)(t-c)+r(t)\), where r(t) has degree \(\leq n-1\). \(c = \sum_{i}l_{i} - \sum_{i}\ew_{i} = a\); \(f(\ew_{i}) = r(\ew_{i})\), so get Lagrange interpolation form of \(r(t) = \sum_{i} f(\ew_{i})\frac{g(t)}{g&rsquo;(\ew_{i})(t-\ew_{i})}\). So, \(\frac{f(t)}{g(t)} = (t-a) - \sum_{i} \frac{-f(\ew_{i})}{g&rsquo;(\ew_{i})(t-\ew_{i})}\); this is \(0 \forall t = l_{i}\) and \(y_{i}^{2} = \frac{-f(\ew_{i})}{g&rsquo;(\ew_{i})}\). But, by interlacing, \(f(\ew_{i}) = (-1)^{n-i+1}\prod_{j}|\ew_{i} - l_{j}|\) and \(g&rsquo;(\ew_{i}) = (-1)^{n-i}\prod_{j \neq i}|\ew_{i} - \ew_{j}|\) oppose in sign, so \(\exists y\).</p>
+<p>Pf where \(ew_{i}\) recurs: Divide out \((t-\ew_{i})^{k}\) from all, proceed as usual.</p>
+<h3 id="ew-of-special-matrices">EW of special matrices</h3>
+<h4 id="real-a-complex-ew-in-pairs">Real A: complex ew in pairs</h4>
+<p>If \(A\) is real, \(p_{A}\) has real coefficients.</p>
+<p>So, if l is ew of \(A\), so is \(\bar{\ew}\): complex roots of P appear in pairs. ew simple if its algebraic multiplicity 1.</p>
+<h4 id="triangular-and-diagonal-a">Triangular and diagonal A</h4>
+<p>For triangular \(A\), from \(det(A-\ew I)=0\), ew are on diagonal. So, \(tr(A) = \sum A_{i,i} = \sum \ew_{i}\). Also, \(\prod \ew_{i} = |A|\). For diagonal \(A\), eigenpairs are diagonal element \((A_{i,i}, ke_{i})\).</p>
+<h4 id="nilpotent-matrix-a">Nilpotent matrix A</h4>
+<p>A is a nilpotent op (see algebra ref). So, all ew are 0; \(|A|\), tr(A) are 0. Any singular \(A\) = product of nilpotent matrices.</p>
+<h4 id="singular-a">Singular A</h4>
+<p>0 is an ew.</p>
+<h4 id="semidefiniteness-and-hermitianness">Semidefiniteness and hermitianness</h4>
+<p>See other sections.</p>
+<h2 id="generalized-eigenvalue-problem">Generalized eigenvalue problem</h2>
+<p>\(Az = \ew Bz\). \(det(A-\ew B) = 0\). \(\set{A-\ew B}\) is called pencil.</p>
+<h3 id="general-rayleigh-quotient-of-x">General Rayleigh quotient of x</h3>
+<p>\(R(x) = \frac{x^{<em>}Ax}{x^{</em>}Bx}\). \(\gradient R(x) = 2(Ax-R(x)Bx)\) is 0 exactly where R(x) is \(\ew\), x the ev.</p>
+<h4 id="of-m">Of M</h4>
+<p>M is tall, thin, with independent columns. \<br>
+\(R(M) = tr((M^{<em>}BM)^{-1} (M^{</em>}AM))\). Using svd \(M = U\SW V^{*}\):\ get \(R(M) = tr_{U}(U^{*}B^{-1}AU)\): same as common rayleigh quotient of \(B^{-1}A\): see ev section. Maximized when U is the top ev&rsquo;s of \(B^{-1}A\).</p>
+<h3 id="reductions-to-common-ew-problem">Reductions to common ew problem</h3>
+<p>If B is invertible: \(B^{-1}Az = \ew z\): so now an \(\ew\) problem. Don&rsquo;t want to invert: so solve some other way.</p>
+<p>So, if B is invertible, symmetric, +ve definite: \(R(x) = \frac{x^{<em>}Ax}{x^{</em>}B^{1/2}B^{1/2}x}\); taking \(z=B^{1/2}x\), get \(R(z) = \frac{z^{<em>}B^{-1/2}AB^{-1/2}z}{z^{</em>}z}\). Max of R(x) is achieved somewhere in R(z) as \(z \to x\) is a 1 to 1 map. ew of \(B^{-1/2}AB^{-1/2}\) are easier to find as it is symmetric.</p>
+<p>\chapter{Matrix to matrix functions}</p>
+<h2 id="htexti-a-1neumann-series-for-square-a">\htext{\((I-A)^{-1\)}{Neumann} series for square A}</h2>
+<p>Aka Neumann series. \((I-A)^{-1} = \sum_{k=0}^{\infty} A^{k}\), if it converges. It converges when \(A\) has norm \(&lt;1\).</p>
+<h2 id="matrix-exponentiation-for-square-a">Matrix exponentiation for square A</h2>
+<p>\(e^{A} = \sum_{k=0}^{\infty} \frac{A^{k}}{k!}\): always converges. Also defines \(\log A\). If \(A\) nilpotent, series is finite.</p>
+<p>Using expansion, aggregating suitably: \(e^{aX}e^{bX} = e^{(a+b)X}\); If \(XY=YX: e^{X}e^{Y} = e^{X+Y}\).</p>
+<p>\(e^{X}e^{-X} = I\): So exponential of X is always invertible.</p>
+<p>\(e^{YXY^{-1}} = Ye^{X}Y^{-1}\).</p>
+<p>\(e^{X^{<em>}} = (e^{X})^{</em>}\).</p>
+<p>If D diagonal, easy to get \(e^{D}\). Thence easily get \(e^{A}\) if \(A = XDX^{-1}\) (A diagonalizable).</p>
+<h3 id="relationship-among-ew">Relationship among ew</h3>
+<p>As \(e^{\ew(A)} = \ew(e^{A}), det(e^{A}) = e^{\sum \ew_{i}(A)} = e^{tr(A)}\).</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Eigenvalue and co </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Eigenvalue and co</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

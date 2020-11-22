@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>House on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/places/house/</link>
+    <description>Recent content in House on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/places/house/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building</title>
+      <link>file:///storage/emulated/0/notesData/notes/places/house/building/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/places/house/building/</guid>
+      <description>Frames Supporting wall  Lower steel use compared to other options. Dry wall strength is 25% to 30% more than wet wall strength. Good structural engineers design assuming the latter (avoids collapse in case of submersion etc.).  Risks  Damage to supporting wall reduces strength. Maintaining wall thickness is important for load bearing capacity. Cutting groves for concealed electrical wiring, fitting shelves etc.. along reduces effective wall thickness.  Metal frame  Steel bars (C sections, T sections etc.</description>
+    </item>
+    
+    <item>
+      <title>Dimensions</title>
+      <link>file:///storage/emulated/0/notesData/notes/places/house/dimensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/places/house/dimensions/</guid>
+      <description>Appliances  Oven 2ft 2ft 2ft Dishwasher  Bosch, Faber dishwasher free standing (link): freestanding 2f 2f 33.2 in, inside counter 2f 2f 32.1in LG 2f 2f 33.47 in.   Microwave oven  LG 28L - 20in 20in 12.5in . Samsung 28L similar.   Chimney  Depth - 20 in - 2f Width - 90 cm/ 3f, 60 cm / 2f   Fridge  Haier - width 64.</description>
+    </item>
+    
+    <item>
+      <title>Electronic lock</title>
+      <link>file:///storage/emulated/0/notesData/notes/places/house/lock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/places/house/lock/</guid>
+      <description>Electronic locks  Popular brands India 2020: Alba, CP plus (Indian HQ and manufacturing, good reach, comes with 5 keys), Principle: when power is supplied, lock is unlocked. Installation video - CP Plus here. Power: 12V DC. Power: higher than 3A or 12W. So, need a power adaptor. Keeping the power supply on for longer than 8 seconds could damage the lock (CP Plus warning).  Wifi controllers Tinxy  Indian company Demo here.</description>
+    </item>
+    
+  </channel>
+</rss>

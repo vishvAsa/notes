@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Randomized on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/</link>
+    <description>Recent content in &#43;Randomized on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analysis of randomized algorithms</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Analysis_of_randomized_algorithms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Analysis_of_randomized_algorithms/</guid>
+      <description>See probabilistic analysis ref.
+General Tricks Running time of \textbf{MDP-algorithm}: Make Markov chain, make RV \(Z_{i}\) steps for going to absorbing state from i, get and solve recurrance eqns for \(E[Z_{i}]\).
+Results 2-SAT rand alg needs \(O(n^{2})\) time. 3-SAT rand alg (without restart) needs \(O(n^{3/2}(\frac{4}{3})^{n})\) time as Pr(moving forward in Markov chain) \(&amp;lt; 1/2\). Max load Y when hash function from k-universal family used: \(Pr(Y &amp;gt; \sqrt[k]{2n})&amp;lt;2^{-1}\) (bounding expected number of collisions, use Markov).</description>
+    </item>
+    
+    <item>
+      <title>Applications</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Applications/</guid>
+      <description>For number theory applications, see number theory ref.
+Perfect matchings Bipartite graph G = (U, V, E); \(|U| = |V| = n\). Matching: \(\set{e} \in E\) not sharing endpoints. Perfect matching (pm) has size n. Naive alg takes \(O((n!)n)\) time.
+Make symbolic matrix with \(A_{i,j} = x_{i,j}\) if \((u_{i}, v_{j})\in E\), else 0. Let Q(x) = det(A) : \(n^{2}\)-nomial, &amp;lsquo;symbolic determinant&amp;rsquo;. G has pm iff \(\exists r: Q(r) \neq 0\). \(deg(Q) \leq n\).</description>
+    </item>
+    
+    <item>
+      <title>Approximation algorithms</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Approximation_algorithms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Approximation_algorithms/</guid>
+      <description>LP based Approximation algorithms Rephrase (maybe NP hard) problem as Integer Programming problem; Make LP relaxation; solve in polytime; translate solution by rounding; make \((\del, \eps)\) approximation guarantees. Rounding choices: To closest integer, or randomized rounding.
+Vertex cover problem G=(V,E). IP: Vars \(v_{i}\) = 0 or 1, \(\forall (i,j) \in E, v_{i}+v_{j} \geq 1\), \(\min \sum v_{i} = ?\); LP relaxation: \(\hat{v}_{i} \in [0,1]\); solution \(\sum \hat{v}_{i} \leq opt \leq \sum v_{i}\); round to nearest int to get approx soln \(\set{v_{i}}\); as \(v_{i} \leq 2 \hat{v}_{i}\): \(\sum v_{i} \leq 2 opt\).</description>
+    </item>
+    
+    <item>
+      <title>Derandomization, explicit construction</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Derandomization_explicit_construction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Derandomization_explicit_construction/</guid>
+      <description>Derandomization Design algorithm which uses random choices; Replace random choice with choice which maximizes conditional expectation; Eg: find \(\geq \frac{|E|}{2}\) cut in G=(V, E). Devise rand alg which uses n 2-wise ind bits; enumerate all values for \(\log n\) truly ind bits, make n 2-wise ind bits and run rand alg.
+Explicit construction algorithms Sample values for some variables, show that desired object still exists, use exhaustive search for other variables.</description>
+    </item>
+    
+    <item>
+      <title>Generate random bits</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Generate_random_bits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Generate_random_bits/</guid>
+      <description>Random bit generator is usually a physical device. Usually, \(Pr(X = 1) = p\); from this, easily get random generator with \(Pr(X = 1) = 1/2\): flip every alternate bit. Flippling every t-th bit, get Pr(X = 1) = 1/t.
+2-wise independent bits generation \(2^{b}-1\) 2-ind bits \(Y_{i}\) from b ind bits \(X_{i}\): For each subset, \(Y_{i}=\oplus X_{i}\). In GF(p), p 2-ind elements from 2 ind elements: \(Y_{i}=(X_{1}+iX_{2}) \mod p\) for every i in GF(p).</description>
+    </item>
+    
+    <item>
+      <title>Inference</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Inference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Inference/</guid>
+      <description>Here we only consider inference by sampling. Inference techniques particular to various model classes are considered elsewhere.
+Inference problems Find Pr(X=x) or \(Pr(X=x|Y=y)\). Inference algorithms may be exact or approximate.
+Or find E[X] or \(E[X|Y=y]\).
+Or find the mode of \(Pr(X=x|Y=y)\): as done in case of Maximum likelihood estimation.
+Difficulty in calculating Pr(X=x) Pr(X=x) can be difficult to calculate analytically. One could specify \(Pr(X=x) = Z^{-1}f(x)\) by leaving the normalization constant Z unspecified, and describing only \(f(x)\).</description>
+    </item>
+    
+    <item>
+      <title>Sampling from distribution</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Sampling_from_distribution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Sampling_from_distribution/</guid>
+      <description>Sampling a random variable X Problem The pseudo random number generator yields a sequence of almost independent random bits: see randomized alg ref. How do you use them to sample from a given distribution?
+Visualization Want to &amp;lsquo;cover&amp;rsquo; the entire range(X) by the sampling: visualize as throwing darts in a oval: dart density corresponds to probability; the shape formed by the darts corresponds to the Pr(X) contour.
+Challenges Can&amp;rsquo;t sample from \(\Re\): computer can&amp;rsquo;t even store all possible \(\Re\).</description>
+    </item>
+    
+    <item>
+      <title>Ways of making randomized algorithms</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Ways_of_making_randomized_algorithms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Ways_of_making_randomized_algorithms/</guid>
+      <description>Algs for problems in the class RP One sided error; success probability \(p = Pr(f(x) = 1|x\in L) \geq 2^{-1}\).
+Amplification of confidence of RP alg &amp;lsquo;Monte Carlo&amp;rsquo; search alg Sample a solution, check correctness, repeat t times, lower bound p. If trials n-wise independent: tn random bits; failure probability: \((1-p)^{t} \approx e^{-tp}\leq 2^{-tp} \to 0\) for large t. So, even if \(p = (poly(n))^{-1}\); for t = poly&amp;rsquo;(n), success whp.</description>
+    </item>
+    
+  </channel>
+</rss>

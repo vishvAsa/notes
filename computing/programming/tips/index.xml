@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Tips on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/programming/tips/</link>
+    <description>Recent content in &#43;Tips on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/programming/tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comments, names, size</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/tips/comments_names_size/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/tips/comments_names_size/</guid>
+      <description>Readability techniques: Overview To borrow from, but not fully copy, &amp;ldquo;literate programming&amp;rdquo; - a code segment (say a file) should read like a clear book chapter or short wiki article. Readability (ease of understanding) can be accomplished by a combination of good variable naming, function and file size and comments - in that order of preference.
+Comments are the last resort (as they get out of sync), but should be quite copious when necessary (to communicate design choices, problems, describing obscure language features etc.</description>
+    </item>
+    
+    <item>
+      <title>Goals</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/tips/goals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/tips/goals/</guid>
+      <description>Overview In roughly descending order of importance:
+ Easy to understand. Easy to modify. Few errors. High coding speed. High computational efficiency.  Understanding specifications In the industry, this involves surveying customers, rapid prototyping, talking to end-users etc.. In research, the specifications come from the research problem.
+Complexity More complex code is harder to implement : sometimes, there one can make choices which lead to simpler code - by simplifying requirements or interface languages for example.</description>
+    </item>
+    
+  </channel>
+</rss>

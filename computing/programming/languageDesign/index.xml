@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Language Design on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/</link>
+    <description>Recent content in &#43;Language Design on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Abstraction from Hardware</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/hw_abstraction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/hw_abstraction/</guid>
+      <description>View of memory If in writing code, one thinks in terms of instructions and data which can be understood by a processor (eg: bytes in the main memory, registers, hardware IO signals), one is working with a low level language.
+High level languages allow the programmer to think of memory locations and data more abstractly/ declaratively by starting with assumptions that there exist memory locations with certain properties which will be bound to variables used by the programmer by the compiler with the OS’s help.</description>
+    </item>
+    
+    <item>
+      <title>Decision structures</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/decision_structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/decision_structures/</guid>
+      <description>The conciseness and clarity of expression of branching and iterative operation in different languages is different.
+Branching The if-else structure is the most basic decision structure, using which more convenient decision structures like the if-elseif.. structure is defined.
+Matching a value Different branches of execution often depend on different tests performed over the value of an expression. This is provided in terms of the ’match with various cases’ construct.
+Iterative operations The essential ingredients of an iteration are the starting state, the code to be executed and the termination condition.</description>
+    </item>
+    
+    <item>
+      <title>Functions</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/procedures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/procedures/</guid>
+      <description>Procedures Code is often organized into different procedures, which may be invoked under different contexts with different arguments.
+Mathematical functions A procedure can change state (has a side-effect) and maybe return a value, doesn’t naturally correspond to mathematical function which cannot do this. So a function, which cannot have side-effects, can be viewed as a special type of procedure.
+C is a procedural programming language which is not structured.
+Passing arguments to procedures Variables can be passed by reference, or by value.</description>
+    </item>
+    
+    <item>
+      <title>Objects</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/objects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/objects/</guid>
+      <description>Object oriented design is considered in the software architecture survey.
+Object manipulation The main idea of object oriented programming is to describe computation in terms of manipulating states of objects. This causes state changes to be local - which helps programmers design a well structured view of state and behavior.
+This is distinct from the functional programming paradigm.
+Encapsulation and locality Hiding data and methods from outside methods restricts state changes to be local.</description>
+    </item>
+    
+    <item>
+      <title>Paradigms</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/paradigms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/paradigms/</guid>
+      <description>Chapter Scope A signle programming language can support multiple paradigms. Programming language features enabling different programming paradigms and architectures are considered elsewhere. Eg: Higher order functions underlies functional programming paradigm.
+Imperative vs declarative programming Imperative programming Views computation in terms of altering state.
+Structured programming In this programming paradigm, state changes are restricted locally. This helps organize code and state information. Structured programming code is more easily understood and maintainable than common procedural language code.</description>
+    </item>
+    
+    <item>
+      <title>Syntax</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/syntax/</guid>
+      <description>Literals All literals, apart from comments, in a program are of the following sort: keywords; identifiers (names of variables); operators. Literals are separated using delimiters and by using rules which specify the allowed structure of the literal.
+Identifiers Overloading A language may allow methods/ operators with similar names, but different signature.
+Scope Namespace/ scope of variables and functions is ordinarily defined by the block of code wherein it is defined.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Distribution structure learning on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/</link>
+    <description>Recent content in &#43;Distribution structure learning on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>0 Problems</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/0_problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/0_problems/</guid>
+      <description>Conditional distributions and notation Got observations of events: RV \(X\) took values \(\set{x_{i}}\), deduce/ model the process causing those events. In general, we want to model the conditional distributions \(f_{X_r|X_{\lnot r}}\). Often, we use the alternate notation \(Y = X_r\) and \(X = X_{\lnot r}\).
+Connection to modeling marginal density Note that \(X_{\lnot r}\) may be empty, so that marginal/ unconditional distribution modeling - which is estimating \(f_X(X)\) - is a special case of conditional distribution modeling.</description>
+    </item>
+    
+    <item>
+      <title>1 Parameter estimation</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/1_parameter_estimation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/1_parameter_estimation/</guid>
+      <description>Estimate parameters using statistics The distinction between choosing parametric and non-parametric approaches are considered in the decision theory section.
+Statistic, estimator A statistic \(\hat{t} = \hat{g}(X)\) is a function of the sample \(X\); an observable random variable. When it is used to estimate some parameter, it is called an estimator. t can be estimated by estimating \(\gth\).
+Point estimation of the parameter If \(\hat{t}\) tries to approximate \(t\), it is an estimator.</description>
+    </item>
+    
+    <item>
+      <title>2 Mean and variance</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/2_mean_variance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/2_mean_variance/</guid>
+      <description>Mean: estimation Consistency Aka Law of large numbers
+Let \(\set{X_{i}}\) iid. \(\hat{X}_{n} = n^{-1}\sum^{n} X_{i}\). As \(var[\hat{X_{n}}] = \stddev^{2}/n \to 0\) as \(n \to \infty\), Weak law: \(\hat{X}_{n}\) is a consistent estimator of \(\mean\).
+Normalness of estimator distribution Aka Central limit theorem (CLT)
+Take estimator \(U_{n} = \frac{\bar{X} - \mean}{\frac{\stddev}{\sqrt{n}}}\). \(lt_{n\to \infty} Pr(U_{n} \leq u) = \int_{-\infty}^{u} \frac{1}{\sqrt{2\pi}}e^{-t^{2}/2}dt\): so approaches CDF of N(0,1): See convergence of moment generating function (MGF) below.</description>
+    </item>
+    
+    <item>
+      <title>Conditional independence</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/conditional_independence_structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/conditional_independence_structure/</guid>
+      <description>Problems In all of the following, we suppose that \(f_X(x)\) is given by a graphical model.
+Model Estimation The most ambitious goal is to estimate the parameters associated with the distribution. This can often be accomplished by minimizing the log loss associated with the conditional distribution \(f_{X_i|X_{\nbd(i)}}\), once the structure of the underlying graphical model has been estimated (ie feature selection is done).
+Edge recovery Deduce the graph encoding the conditional independence relationships among features.</description>
+    </item>
+    
+    <item>
+      <title>Density estimation</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/density_estimation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/density_estimation/</guid>
+      <description>Importance Fitting a model to observations, ie picking a probability distribution from a family of distributions, is an important component of many statistics tasks where one reasons about uncertainty by explicitly using probability theory. Such tasks are labeled &amp;lsquo;Bayesian inference&amp;rsquo;.
+Choosing the distribution family Observe empirical distribution Draw a bar graph, see what the curve looks like.
+Given expected values of fns \( \set{E[\ftr_{i(X)}] = \mean_{i} } \) and a base measure h Suppose we want to modify h as little as possible, under KL divergence, so that it has \(E[\ftr(X)] = \mean\).</description>
+    </item>
+    
+    <item>
+      <title>Parametric density estimation</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/parametric_density_estimation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/parametric_density_estimation/</guid>
+      <description>Problem and solution ideals Density estimation using a distribution class Suppose that parameter \(t\) specifies the distribution \(f_t(x_r|x_{\lnot r})\), where \(x_{\lnot r}\) can be empty! Let \(T\) be parameter space spanned by such \(t\); it represents the class of distributions which can be specified in this form.
+Given finite data set \(\set{x^{(i)}}\), we want to approximate an unknown target distribution \(D(x_r|x_{\lnot r})\) which may not belong to this distribution family using \(T\).</description>
+    </item>
+    
+    <item>
+      <title>Support estimation</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/support_estimation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/support_estimation/</guid>
+      <description>Estimate support of a distribution D Find set \(S&amp;rsquo;\) such that \(Pr(x \notin S&amp;rsquo;)&amp;lt;p \in (0,1]\), given sample \(S\). Can be solved by probability density estimation techniques, but actually simpler.
+Visualization: take the input space; draw solid ovals around sampled points; the algorithm will draw a dotted oval around these, which will represent the support of the distribution.
+With soft margin kernel hyperplane Aka One Class SVM or OSVM.
+Given \(N\) examples \(\set{x_{i}}\); project to some feature space associated with kernel \(k(x,y) = \ftr(x)^{T}\ftr(y)\); want to find hyperplane \(w^{T}\ftr(x) - \gr\) such that all points in the support fall on one side of the hyperplane, outliers fall on the other side: support identifier \(f = sgn(w^{T}x - \gr)\); so, allowing a soft margin, want to solve \(\max_{\gr, w} \frac{\gr}{\norm{w}} + C\sum \gx_{i}\) such that \(w^{T}\ftr(x_{i}) + \gx_{i} \geq \gr, \gx_{i} \geq 0\); \(\equiv\) obj function: \(\min_{w, \gx, \gr} \norm{w}^{2}/2 + \frac{1}{\gn N} \sum \gx_{i} - \gr\), for some coefficient \(0 \leq \gn \leq 1\).</description>
+    </item>
+    
+  </channel>
+</rss>

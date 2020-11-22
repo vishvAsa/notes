@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Doc formats on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/docFormats/</link>
+    <description>Recent content in &#43;Doc formats on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/docFormats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Character encoding</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/docFormats/character_encoding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/docFormats/character_encoding/</guid>
+      <description>Displaying, accepting and writing to files characters readable by humans are common tasks in many programs, irrespective of language.
+So, common standards have evolved to represent these characters with natural numbers or characters visible on most English keyboards or arbitrary bytes.
+ASCII This represents the Latin alphabet plus some common characters. Range: 0:255.
+Special characters include control characters.
+Control characters Carriage return (move cursor to beginning of current line), line-feed (start a new line), tab (a long horizontal space).</description>
+    </item>
+    
+    <item>
+      <title>Latex</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/docFormats/latex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/docFormats/latex/</guid>
+      <description>Both declarative (rule-based) and imperative specification of document display is possible.
+A document element is defined to either be a command and or an environment - which are distinguished based on the input they accept.
+Common commands, environments Common commands include section, subsection, paragraph, subsubsection, title, author. Common environments include list (itemize and enumerate), tabular etc..
+Templates Rules which map commands and environments to imperative display rules are collected together in templates.</description>
+    </item>
+    
+    <item>
+      <title>TOML</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/docFormats/toml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/docFormats/toml/</guid>
+      <description>Intro  It is an alternative to YAML and JSON. It aims to be more human friendly than JSON and simpler that YAML. TOML is designed to map unambiguously to a hash table.  Ref # Comments in TOML look like this. ################ # SCALAR TYPES # ################ # Our root object (which continues for the entire document) will be a map, # which is equivalent to a dictionary, hash or object in other languages.</description>
+    </item>
+    
+    <item>
+      <title>Web components</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/docFormats/web_components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/docFormats/web_components/</guid>
+      <description> API-s to create custom, reusable, encapsulated HTML tags to use in web pages Build on the Web Component standards, will work across modern browsers  Ref polymer </description>
+    </item>
+    
+  </channel>
+</rss>

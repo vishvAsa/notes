@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | With fully labelled data</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/with_fully_labelled_data/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/with_fully_labelled_data/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="With fully labelled data" />
+<meta property="og:description" content="Goals and formulations are presented elsewhere.
+Binary classification See the many hypothesis classes/ parametrized model families in the colt ref, boolean functions ref.
+Non parametric methods k nearest neighbors A discriminative, non parametric approach. Number of examples: N. Samples: \(S = (x_{1}, .. x_{N})\). There are \(k\) classes. To classify \(x\), find \(k\) nearest neighbors in S; take their majority vote.
+So, can&rsquo;t ever throw away data points.
+Linear models for discrete classification Linear separability of data sets or feature space: Decision surfaces are (p-1) dim hyperplanes in feature space." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/with_fully_labelled_data/" />
+
+<meta itemprop="name" content="With fully labelled data">
+<meta itemprop="description" content="Goals and formulations are presented elsewhere.
+Binary classification See the many hypothesis classes/ parametrized model families in the colt ref, boolean functions ref.
+Non parametric methods k nearest neighbors A discriminative, non parametric approach. Number of examples: N. Samples: \(S = (x_{1}, .. x_{N})\). There are \(k\) classes. To classify \(x\), find \(k\) nearest neighbors in S; take their majority vote.
+So, can&rsquo;t ever throw away data points.
+Linear models for discrete classification Linear separability of data sets or feature space: Decision surfaces are (p-1) dim hyperplanes in feature space.">
+
+<meta itemprop="wordCount" content="1139">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="With fully labelled data"/>
+<meta name="twitter:description" content="Goals and formulations are presented elsewhere.
+Binary classification See the many hypothesis classes/ parametrized model families in the colt ref, boolean functions ref.
+Non parametric methods k nearest neighbors A discriminative, non parametric approach. Number of examples: N. Samples: \(S = (x_{1}, .. x_{N})\). There are \(k\) classes. To classify \(x\), find \(k\) nearest neighbors in S; take their majority vote.
+So, can&rsquo;t ever throw away data points.
+Linear models for discrete classification Linear separability of data sets or feature space: Decision surfaces are (p-1) dim hyperplanes in feature space."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/probability\/statistics\/label_prediction\/with_fully_labelled_data\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/probability\/statistics\/label_prediction\/with_fully_labelled_data.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> With fully labelled data</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="With fully labelled data">With fully labelled data</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/probability/statistics/label_prediction/with_fully_labelled_data.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>Goals and formulations are presented elsewhere.</p>
+<h2 id="binary-classification">Binary classification</h2>
+<p>See the many hypothesis classes/ parametrized model families in the colt ref, boolean functions ref.</p>
+<h2 id="non-parametric-methods">Non parametric methods</h2>
+<h3 id="k-nearest-neighbors">k nearest neighbors</h3>
+<p>A discriminative, non parametric approach. Number of examples: N. Samples: \(S = (x_{1}, .. x_{N})\). There are \(k\) classes. To classify \(x\),  find \(k\) nearest neighbors in S; take their majority vote.</p>
+<p>So, can&rsquo;t ever throw away data points.</p>
+<h2 id="linear-models-for-discrete-classification">Linear models for discrete classification</h2>
+<p>Linear separability of data sets or feature space: Decision surfaces are (p-1) dim hyperplanes in feature space.</p>
+<p>\(h(x, w) = f(w^{T}x + w_{0}) = f(v^{T}x&rsquo;)\) with \(x&rsquo; = (x, 1)\): \(f\) is activation function or link function; \(w\) is the weight vector; \(w_{0}\) is the bias. So without loss of generality, we can restrict ourselves to considering only hyperplanes passing through the origin.</p>
+<p>Decision surfaces are h(x, v) = constant or \(v^{T}x&rsquo;\) = constant, so linear in \(x\); Not linear in terms of \(w\) due to possible non linearity of \(f\): so called generalized linear model.</p>
+<p>For binary classification, this becomes a halfspace: see boolean function ref and colt ref.</p>
+<p>For geometric properties of separating hyperplane, see boolean function ref.</p>
+<h3 id="arbitrary-separator-from-fully-separable-training-set">Arbitrary separator from fully separable training set</h3>
+<p>When the training set is fully separable, one can pick one of the many separating hyperplane easily, for example, using linear programming. For other such algorithms, see computational learning theory ref.</p>
+<p>To select the best among the candidate hyperplanes, one can use some sort of regularization, as in maximum margin classifiers.</p>
+<h3 id="winnow-multiplicative-update">Winnow: multiplicative update</h3>
+<p>Let weight of \(c\) be \(W\). Set weights \(a_{i} = 1\). Multiplicative update rule: if \(x_{i}\) agrees with c(x), set \(a_{i} = a_{i}(1+\del)\); set \(a_{i} = a_{i}/(1+\del)\) for others. \(mb = O(W^{2} \log n)\). \why Sometimes better than additive update rule used in the perceptron algorithm.</p>
+<p>This is very similar to the &lsquo;panel of experts&rsquo; algorithm. Also see note in the section on perceptron algorithm comparing this with the &lsquo;panel of experts&rsquo; algorithm.</p>
+<h3 id="perceptron-learning-alg-for-halfspaces">Perceptron learning alg for halfspaces</h3>
+<h4 id="the-problem">The problem</h4>
+<p>The classifier: A hyperplane c through origin perfectly classifies labeled data; unit vector \(u \perp c\) defines c; \(c(x_i) = sgn(\dprod{u, x_i})\).</p>
+<p>The data: \(x \in R^{n}\); \(\norm{x_i} = 1\); \(S = \set{x_i}\). Geometric margin of X wrt u: \(g = \min_{x \in S} |\dprod{u, x}|\); or \(sgn(\dprod{u, x_i})\dprod{u,x_{i}} \geq g\). Note: g = function(S).</p>
+<p>Want to find \(c\).</p>
+<h4 id="the-algorithm">The algorithm</h4>
+<p>\(u_{0} = 0\). Additive update rule: If mistake on \(x_i\): \(u_{i+1} = u_{i} + sgn(\dprod{u, x_i})x_i\): hyperplane orientation tilted towards correcting the mistake.</p>
+<h4 id="convergence-to-u">Convergence to u</h4>
+<p>\(mb = O(g^{-2})\). In general, if \(\norm{x_i} \leq R\); \(mb = O((\frac{R}{g})^{2})\).</p>
+<p>By induction, using update rule expression for \(u_t\): \(\norm{u_t} = \norm{u_t}\norm{u} \geq \dprod{u, u_t} \geq tg\). So, if the length of \(u_t\) is not increasing too much, may be perceptron is getting closer to u as more mistakes made.</p>
+<p>Also, by induction, the update rule and the fact that \(u_{t-1}\) misclassified \(x_{t-1}\), causing the update: \(\norm{u_{t}}^{2} \leq t\).</p>
+<p>So, \((tg)^{2} \leq t\); and \(t\leq g^{-2}\).</p>
+<h4 id="comparison">Comparison</h4>
+<p>Perceptron Algorithm is usually faster than than LP. Is exponential when \(g \leq 2^{-c}\): this is rare.</p>
+<p>For a given \(g\), we can find good enough halfspace with mb \(O((\frac{R+D}{g})^{2})\). \chk Perhaps the winnow algorithm, which uses multiplicative update is more efficient.</p>
+<p>Has connection to halfspace learning with noise. \why</p>
+<p>Assumes that the data is perfectly separable. So, often less preferable than soft margin SVM&rsquo;s. But, a soft margin variant of perceptron algorithm is known.</p>
+<h5 id="with-panel-of-experts-algorithm">With panel of experts algorithm</h5>
+<p>Compare the perceptron algorithm \(B\) with the algorithm \(A\) described in the learning theory survey, which for any given sequence of inputs, using a panel of experts achieves a mistake bound comparable with the mistake bound achieved by the best expert. In the case of halfspaces, every input bit \(x_i\) can be viewed as an &lsquo;expert&rsquo;.</p>
+<p>Upon making a mistake, \(A\) updates the weight of only the experts which made a mistake, whereas \(B\) updates weight assigned to every expert.</p>
+<p>The weights used in \(A\) were all positive, whereas weights used in \(B\) can be negative: but this distinction is minor, as it can perhaps be accounted for in the &lsquo;experts algorithm&rsquo; by introducing experts corresponding to \(-x_i\).</p>
+<h2 id="maximum-margin-classifier">Maximum margin classifier</h2>
+<h3 id="the-problem-1">The problem</h3>
+<p>A discriminative, parametric approach. Number of examples: N. Samples: \((x_{1}, .. x_{N})\), label function \(c:X \to \set{\pm 1}\).</p>
+<p>Suppose \(y(x) = w^{T} \ftr(x) + w_0\) with \(y(x)c(x) &gt; 0 \forall x\), for some \(w, w_0, \ftr\). So finding a separating hyperplane (see halfspaces in boolean function ref) in some feature space.</p>
+<h3 id="hard-margin">Hard margin</h3>
+<h4 id="primal">Primal</h4>
+<p>To maximize margin, solve: \(\max_{w,w_0}[\frac{\min_{n}[y(x_{n})c(x_{n})]}{\norm{w}}]\). Scale w, \(w_0\) so that \(\min_{n}[y(x_{n})c(x_{n})] = 1\); thence get \(\equiv\) problem \(\min_{w,w_0}\frac{\norm{w}^{2}}{2}\): \(y(x_{n})c(x_{n}) \geq 1\). Prediction: sgn(y(x)).</p>
+<p>Can solve using Quadratic programming (QP).</p>
+<h4 id="dual">Dual</h4>
+<p>Get Lagrangian \(L(w, w_0, a) = \frac{\norm{w}^{2}}{2} + \sum a_{n}[1-(w^{T} \ftr(x_n) + w_0)c(x_{n})]\); \(a_{n} \geq 0\). Get dual: \(g(a) = \inf_{w, w_0} L(w, w_0, a)\); Set \(\gradient_{w, w_0} L(w, w_0, a) = 0\): \(w = \sum_{n}a_{n}c(x_{n}) \ftr(x_{n}); 0 = \sum a_{n}c(x_{n})\). So, dual problem: \(\max_a g(a) = \max \sum a_{n} - 2^{-1}\sum_{n}\sum_{m} a_{n}a_{m}c(x_{n})c(x_{m})k(x_{n}, x_{m})\): \(a_{n} \geq 0; \sum a_{n}c(x_{n}) = 0\).</p>
+<p>Can solve using QP too. This form is useful where \(dim(\ftr(x)) &raquo;N\).</p>
+<h5 id="kkt-conditions">KKT conditions</h5>
+<p>Primal feasible: \(y(x_{n})c(x_{n}) \geq 1\). Dual feasible: \(a_{n} \geq 0; \sum a_{n}c(x_{n}) = 0\). Complementary slackness: \(a_{n}[1 - c(x_{n}) y(x_{n})] = 0\).</p>
+<p>So, \(\forall n: a_{n} = 0 \lor c(x_{n})y(x_{n})= 1\): in latter case, you have support vectors. So, aka Support Vector Machine (SVM). Take S: number of support vectors.</p>
+<h5 id="predictor">Predictor</h5>
+<p>Substituting for w, get: \(y(x) = \sum_{n}a_{n}c(x_{n})k(x_{n}, x) + w_0\): only S terms actually appear with \(a_{n} \neq 0\): so SVM is fast to evaluate. So, \(w_0 = \frac{\sum_{m} [c(x_{m})y(x_m) - \sum_n a_{n}k(x_{n}, x_{m})]}{N}\).</p>
+<h3 id="soft-margins">Soft margins</h3>
+<p>Allow some points to be misclassified or to be below the margin, but linearly penalize such outliers.</p>
+<h4 id="primal-1">Primal</h4>
+<p>So, use slack variables: \(\gx_{n} \geq 0\); Instead of \(y(x_{n})c(x_{n}) \geq 1\), use constraint \(y(x_{n})c(x_{n}) + \gx_{n} \geq 1\).</p>
+<p>\(\min C\sum_{n=1}^{N} \gx_{n} + \frac{\norm{w}^{2}}{2}\): \(C\) is tradeoff between penalty on \(\gx\) and margin; saying \(\sum \gx_i \leq G\); so controls model complexity. As \(C \to \infty\), get hard margin SVM.</p>
+<h4 id="dual-1">Dual</h4>
+<p>Lagrangian: \(L(w, w_0, \gx, a, m) = \frac{\norm{w}^{2}}{2} + C\sum_{n=1}^{N} \gx_{n} + \sum a_{n}(1 - c(x_{n})y(x_{n}) - \gx_{n}) + \sum \gm_{n}\gx_{n}\): \(a \geq 0, \gm \geq 0\). Set \(\gradient_{w, w_0, \gx} \)L\( = 0\): \(w = \sum a_{n}c(x_{n})\ftr(x_{n}), \sum a_{n}c(x_{n}) = 0, a_{n} = \)C\( - \gm_{n}\). Thence get dual g(a), with objective function same as hard-margin case with constraints: \(0 \leq a_{n} \leq C\): as \(\gm_{n} \geq 0; \sum a_{n}c(x_{n}) = 0\).</p>
+<h5 id="kkt-conditions-1">KKT conditions</h5>
+<p>Primal feasible: \(1- c(x_{n})y(x_{n}) - \gx_{n} \leq 0\). Dual feasible: \(a_{n} \geq 0, \gm_{n} \geq 0\). Complimentary slackness: \(a_{n}(1 - c(x_{n})y(x_{n}) - \gx_{n}) = 0, \gm_{n}\gx_{n} = 0\).</p>
+<p>So, support vectors now are points on or within certain margin from hyperplane. Predictor same as hard margin case.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">With fully labelled data </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: With fully labelled data</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

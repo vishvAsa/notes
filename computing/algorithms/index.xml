@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Algorithms General on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/algorithms/</link>
+    <description>Recent content in &#43;Algorithms General on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analysis</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/algorithms/analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/algorithms/analysis/</guid>
+      <description>Analysis of algorithms For analysis of randomized algorithms, see randomized algorithms, probabilistic analysis ref.
+Asymptotic behavior How does the problem scale with increasing input size? See computational complexity ref. Usually care about worst case and average case performance.
+Amortized analysis Got a sequence of operations performed by a deterministic algorithm. Maybe every n operations, a huge cost is incurred. Then, even though, in the worst case, the cost is high, on average, each operation costs much less.</description>
+    </item>
+    
+  </channel>
+</rss>

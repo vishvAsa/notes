@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Misc Business on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/</link>
+    <description>Recent content in &#43;Misc Business on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/economics/misc_businesses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ads</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/ads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/ads/</guid>
+      <description>Fundamentals The basic problem in advertising is finding the audience who is likely to buy the product/ service (target audience).
+Placement and position There may be place for a limited number of advertisements to be displayed in a certain venue. Yet, there may be several advertisers competing for those places. Further they may be interested in gaining favorable placement in the ad-list.
+Coupon distribution Consider a seller wanting to advertise inventory to target customers, or wanting to spur business.</description>
+    </item>
+    
+    <item>
+      <title>Air travel</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/air_travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/air_travel/</guid>
+      <description>Factors affecting price Travel date/ day Tickets cost more in certain months.
+Tickets tend to cost more on Fridays, saturday, sunday, than on weekdays (especially monday).
+Airport demand/ competition Flights from Dallas or houston probably cost less than flights from austin.
+Operation costs Some airlines are cheaper than others.
+Fuel costs This constitutes a major part of the operating costs.
+Airlines which have access to cheaper fuel - either due to a stockpile (Southwest Airlines in 2000-2009), or geographic location (Emirates airlines) can offer lower prices.</description>
+    </item>
+    
+    <item>
+      <title>Distribution</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/distribution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/distribution/</guid>
+      <description>Retail vs wholesale Retail business focuses on distributing goods to consumers, while making a profit. Wholesalers focus on selling goods in bulk at a lower price to other businesses and distributors. Eg in USA: Sam’s club, costco. In India: Metro.
+Price discrimination Different people are willing to pay different prices for the same product, and retailers try to exploit this.
+In general, retailers try to distinguish the two types of customers by offering lower prices only to those who participate in some undesirable process which costs extra time and attention- eg: waiting for a certain day to make a purchase, committing to purchase in advance, gathering coupons.</description>
+    </item>
+    
+    <item>
+      <title>Food making</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/food/</guid>
+      <description>Agriculture Resources Agriculture requires non-saline water, fertile land, seeds, labor. Of these, overall, water is often most scarce.
+Artificial production Research is on to produce meat in-vitro.
+Demand and supply Past The discovery of agriculture enabled mass, reliable food production. For most of history, we have had a food surplus. When there was a famine in one country, one could rely on imports from another.
+Forecast Human population is growing.</description>
+    </item>
+    
+    <item>
+      <title>Gambling</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/gambling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/gambling/</guid>
+      <description>Bet contract 2 outcomes Consider an event E. A bet between two people (A and B) is a contract which says that if E comes to pass (usually by a specified time), person A will pay an amount x to B; otherwise if E doesn’t happen, B will pay y to A.
+y is called the bet liability.
+Viability of the bet Rational B (who is not risk-averse) will enter the contract if according to his evaluation of a, a__x − (1 − a)y ≥ 0 or $a \geq \frac{y}{x+y}$.</description>
+    </item>
+    
+    <item>
+      <title>Manufacturing</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/manufacturing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/manufacturing/</guid>
+      <description>Process design: Productivity and quality How to transform the shop-floor/ assembly process and the procurement/ design process to increase quantity and quality?
+Quality/ quantity trade-off When the focus is on quantity, quality often suffers, as workers are provided incentives and punishments which, focusing on quantity, largely ignore quality. Quality control is often postponed to a later stage.
+The Toyota process, observing that correcting/ tolerating mistakes can be costly, tries to ensure that they get it right the first time - workers have the ability to stop the assembly-line in order to fix a mistake when they make/ detect it.</description>
+    </item>
+    
+    <item>
+      <title>Payment</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/payment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/misc_businesses/payment/</guid>
+      <description>Credit cards Credit cards are a relatively safe way for lenders to encourage public borrowing while making purchases - that way, they can make a profit.
+Stores - possibly getting a commission - often offer credit cards (with attractive terms) under their brand-name to their customers; but they are actually managed by banks.
+The necessary infrastructure is managed by one of a handful of companies - like Visa, MasterCard, AmericanExpress etc.</description>
+    </item>
+    
+  </channel>
+</rss>

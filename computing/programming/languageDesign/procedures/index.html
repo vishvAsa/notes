@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Functions</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/programming/languageDesign/procedures/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/programming/languageDesign/procedures/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Functions" />
+<meta property="og:description" content="Procedures Code is often organized into different procedures, which may be invoked under different contexts with different arguments.
+Mathematical functions A procedure can change state (has a side-effect) and maybe return a value, doesn’t naturally correspond to mathematical function which cannot do this. So a function, which cannot have side-effects, can be viewed as a special type of procedure.
+C is a procedural programming language which is not structured.
+Passing arguments to procedures Variables can be passed by reference, or by value." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/procedures/" />
+
+<meta itemprop="name" content="Functions">
+<meta itemprop="description" content="Procedures Code is often organized into different procedures, which may be invoked under different contexts with different arguments.
+Mathematical functions A procedure can change state (has a side-effect) and maybe return a value, doesn’t naturally correspond to mathematical function which cannot do this. So a function, which cannot have side-effects, can be viewed as a special type of procedure.
+C is a procedural programming language which is not structured.
+Passing arguments to procedures Variables can be passed by reference, or by value.">
+
+<meta itemprop="wordCount" content="870">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Functions"/>
+<meta name="twitter:description" content="Procedures Code is often organized into different procedures, which may be invoked under different contexts with different arguments.
+Mathematical functions A procedure can change state (has a side-effect) and maybe return a value, doesn’t naturally correspond to mathematical function which cannot do this. So a function, which cannot have side-effects, can be viewed as a special type of procedure.
+C is a procedural programming language which is not structured.
+Passing arguments to procedures Variables can be passed by reference, or by value."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/programming\/languageDesign\/procedures\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/programming\/languageDesign\/procedures.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Functions</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Functions">Functions</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/programming/languageDesign/procedures.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="procedures">Procedures</h2>
+<p>Code is often organized into different procedures, which may be invoked
+under different contexts with different arguments.</p>
+<h3 id="mathematical-functions">Mathematical functions</h3>
+<p>A procedure can change state (has a side-effect) and maybe return a
+value, doesn’t naturally correspond to mathematical function which
+cannot do this. So a function, which cannot have side-effects, can be
+viewed as a special type of procedure.</p>
+<p>C is a procedural programming language which is not structured.</p>
+<h3 id="passing-arguments-to-procedures">Passing arguments to procedures</h3>
+<p>Variables can be passed by reference, or by value. In the former case,
+an address to the data can be considered as being passed; so a
+modification to the data will be visible after the function returns. In
+the latter case, this is not true.</p>
+<h3 id="operators">Operators</h3>
+<p>Operators are special functions, often with special syntax. They
+sometimes implement logic which is so finely grained that it is executed
+in a lower level programming/ machine language.</p>
+<h2 id="functions-as-objects">Functions as objects</h2>
+<p>Functions can be used as arguments and return values. So, functions can
+be regarded as objects.</p>
+<p>Several languages provide excellent support for easily defining such
+functions.</p>
+<h4 id="functions-acting-on-functions">Functions acting on functions</h4>
+<p>Aka Higher order functions. Easy to define higher order functions: Eg:
+$$(\frac{d_{n}}{dx^{n}})$$. So, one can conveniently pass a function as an
+argument to another function.</p>
+<h4 id="event-driven-programming">Event driven programming</h4>
+<p>One can view some computation in terms of events and event listeners/
+handlers/ callback functions which might handle them. A ’main loop’
+keeps polling for events and dispatching events to the correct handler.
+This can be easily realized with functional programming.</p>
+<h3 id="functions-with-non-local-references">Functions with non-local references</h3>
+<p>Aka closures.</p>
+<p>With closures, a function definition may include references to non-local
+variables. The function object is created/ updated anew just before it
+is called, so that changes to the non-local variable alters the function
+definition.</p>
+<p>Some languages even allow the function definition to update the value of
+these variables.</p>
+<h4 id="extended-function-definition-using-decorator">Extended function definition using decorator</h4>
+<p>Consider a higher order function h() accepting and returning a function.
+The statements f = someFunction and f = h(f) is given syntactic sugar
+using decorators: see python chapter for example.</p>
+<h3 id="partial-application">Partial application</h3>
+<p>From the definition of a function (f) over (k) arguments, one can
+derive definitions of other functions depending on (l&lt;k) arguments
+which arise as a result of fixing a value to one of the arguments of
+(f). Enabling this with simple syntax is an attractive feature in many
+languages.</p>
+<h3 id="currying">Currying</h3>
+<p>Any such vector-domain function can be described as a function (f&rsquo;)
+acting on a scalar domain (corresponding to the first dimension of the
+domain of (f)) and producing a<br>
+vector-valued function: (f&rsquo;:D \to G), where
+$$(G = \set{D^{k_{in}-1} \to D^{k_{out}}})$$ and $$(f&rsquo;(a) = g \in G)$$ such
+that (g) corresponds to the partially applied function
+$$(f(x_1 = a, x_2 .. ))$$.</p>
+<p>Doing this recursively, the entire computation can be written in terms
+of scalar functions!</p>
+<h4 id="lambda-calculus">Lambda calculus</h4>
+<p>Lambda calculus provides a good representation and manipulation rules
+for considering computation in this way. It describes computation in
+terms of formulae (unnamed functions) involving many variables, which
+may be composed with each other; whose free variables may be bound to a
+certain value etc..</p>
+<h3 id="iteration-aids">Iteration aids</h3>
+<p>Functional programming, in its purest form, does iteration using
+recursions.</p>
+<p>Plus, various higher-order functions which can be defined to act on
+lists and iterators enable succinct definition of recursive computation.</p>
+<h4 id="tail-recursion">Tail recursion</h4>
+<p>A tail recursion is a recursive function where the last statement
+executed before the function exits (which is not necessarily the same as
+the last statement in the function definition) involves a simple
+recursive call. The value returned, if any, is simply the unmodified
+result of this recursive call.</p>
+<h6 id="reuse-of-stack-space">Reuse of stack space</h6>
+<p>Ordinarily an additional recursive call would involve addition of new
+memory in the call-stack space. This can be avoided in this case by
+simply reusing the stack-space already allocated to the calling
+function. When the language standard does not demand it, but is
+implemented by a certain compiler, this deserves to be called an
+’optimization’; otherwise it is an integral feature of the language.</p>
+<h6 id="advantage">Advantage</h6>
+<p>This allows iteration to be written using a recursive call without the
+penalty of using space linear in number of iterations.</p>
+<h2 id="functions-without-side-effects">Functions without side effects</h2>
+<p>Computation is the evaluation of math functions.<br>
+State changes outside the function, other than sending a return value is
+not allowed: functions without side effects.</p>
+<h3 id="dependence-on-non-input-values">Dependence on non-input values</h3>
+<p>To avoid side effects, some languages may force function behavior
+depends purely on input: there is no access to higher-scope variables
+(eg: global variables in C).</p>
+<h4 id="closure-restrictions">Closure restrictions</h4>
+<p>However, other languages may allow function-behavior to depend on
+non-input values, but may not allow altering them within the function.
+Eg: Matlab, R.</p>
+<p>Such non-input and non-local variables and values in the function
+definition are called free variables (- similar to the definition in
+case of first order logic). These free variables may be bound (assigned
+values) at run-time, just before the function is to be invoked.</p>
+<p>Thus the precise definition of a function is finalized only at run-time</p>
+<ul>
+<li>So functions with free variables essentially define a function family
+with a method for picking the right function from this family given some
+values.</li>
+</ul>
+<h3 id="immutability-of-input">Immutability of input</h3>
+<p>’Pass by reference’ is not allowed as that would allow code in the
+function to have side-effects.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Functions </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Functions</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

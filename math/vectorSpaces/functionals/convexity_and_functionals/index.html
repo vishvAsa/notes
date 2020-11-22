@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Convexity and functionals</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/vectorSpaces/functionals/convexity_and_functionals/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/vectorSpaces/functionals/convexity_and_functionals/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Convexity and functionals" />
+<meta property="og:description" content="Convex functional f Aka concave upwards, concave up or convex cup.
+Domain, definitions dom(f) always a convex set. Visualize as a cup. Epigraph of \(f\) (see analysis of functions over fields ref) is a convex set.
+&#43;&#43;&#43;(When they say &lsquo;convex function&rsquo;, they mean &lsquo;convex functional&rsquo;.)&#43;&#43;&#43;
+Smoothness along line segment in the domain Equivalent definition (easy pf): Convex function: \(f(tx &#43; (1-t)y) \leq tf(x) &#43; (1-t)f(y)\): comparing f(some pt on segment [x, y]) with similar pt on secant between f(x) and f(y)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/vectorSpaces/functionals/convexity_and_functionals/" />
+
+<meta itemprop="name" content="Convexity and functionals">
+<meta itemprop="description" content="Convex functional f Aka concave upwards, concave up or convex cup.
+Domain, definitions dom(f) always a convex set. Visualize as a cup. Epigraph of \(f\) (see analysis of functions over fields ref) is a convex set.
+&#43;&#43;&#43;(When they say &lsquo;convex function&rsquo;, they mean &lsquo;convex functional&rsquo;.)&#43;&#43;&#43;
+Smoothness along line segment in the domain Equivalent definition (easy pf): Convex function: \(f(tx &#43; (1-t)y) \leq tf(x) &#43; (1-t)f(y)\): comparing f(some pt on segment [x, y]) with similar pt on secant between f(x) and f(y).">
+
+<meta itemprop="wordCount" content="1565">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Convexity and functionals"/>
+<meta name="twitter:description" content="Convex functional f Aka concave upwards, concave up or convex cup.
+Domain, definitions dom(f) always a convex set. Visualize as a cup. Epigraph of \(f\) (see analysis of functions over fields ref) is a convex set.
+&#43;&#43;&#43;(When they say &lsquo;convex function&rsquo;, they mean &lsquo;convex functional&rsquo;.)&#43;&#43;&#43;
+Smoothness along line segment in the domain Equivalent definition (easy pf): Convex function: \(f(tx &#43; (1-t)y) \leq tf(x) &#43; (1-t)f(y)\): comparing f(some pt on segment [x, y]) with similar pt on secant between f(x) and f(y)."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/vectorSpaces\/functionals\/convexity_and_functionals\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/vectorSpaces\/functionals\/convexity_and_functionals.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Convexity and functionals</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Convexity and functionals">Convexity and functionals</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/vectorSpaces/functionals/convexity_and_functionals.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="convex-functional-f">Convex functional f</h2>
+<p>Aka concave upwards, concave up or convex cup.</p>
+<h3 id="domain-definitions">Domain, definitions</h3>
+<p>dom(f) always a convex set. Visualize as a cup. Epigraph of \(f\) (see analysis of functions over fields ref) is a convex set.</p>
+<p>+++(When they say &lsquo;convex function&rsquo;, they mean &lsquo;convex functional&rsquo;.)+++</p>
+<h4 id="smoothness-along-line-segment-in-the-domain">Smoothness along line segment in the domain</h4>
+<p>Equivalent definition (easy pf): Convex function: \(f(tx + (1-t)y) \leq tf(x) + (1-t)f(y)\): comparing f(some pt on segment [x, y]) with similar pt on secant between f(x) and f(y).</p>
+<h5 id="many-points-extension">Many points extension</h5>
+<p>By induction, can extend this to any convex combintation of n points. Jensen&rsquo;s inequality (see probability ref): simple extension of defn.</p>
+<h5 id="convex-sublevelsets">Convex sublevelsets</h5>
+<p>The level set \(\set{x: f(x) \leq \ga}\) is a convex set: take \(f(x), f(y) \leq \ga\); take convex combo z, see \(f(z) \leq \ga\). This is important in convex optimization!</p>
+<h4 id="extension-of-domain">Extension of domain</h4>
+<p>For \(x \notin dom(x): \hat{f}(x) \dfn +\infty\). Preserves \(f(tx + (1-t)y) \leq tf(x) + (1-t)f(y)\), Simplifies notation. Similar extension for concave functions.</p>
+<h3 id="strict-and-strong-convexity">Strict and strong convexity</h3>
+<h4 id="strict-convexity">Strict convexity</h4>
+<p>A cup, not a hyperplane: imposing curvature. \(f(ax + (1-a)x) &lt; af(x) + (1-a)f(x) \forall a \in [0, 1]\).</p>
+<h4 id="strong-convexity-with-constant-m">Strong convexity with constant m</h4>
+<p>\(\gradient^{2} f(x) \succeq mI\). Implies strict convexity: consdier 2nd order approximation of convex function \(f\).</p>
+<p>Restricted strong convexity at t wrt C when \(d\) restricted to \(d \in C\).</p>
+<h3 id="f-restricted-to-a-line">f restricted to a line</h3>
+<p>Take \(f:R^{n} \to R\). \(f\) convex iff \(\forall t: g(t) = f(x + tv)\) is convex. \(x + tv\) is a line in the domain. Good for showing convexity!</p>
+<h3 id="gradient-tests">Gradient tests</h3>
+<h4 id="first-order-condition">First order condition</h4>
+<p>If \(f:R \to R\) differentiable, \(f\) convex iff f&rsquo;(x) non decreasing: \(f(y) \geq f(x) + f&rsquo;(x)(y-x)\). Aka first order condition.</p>
+<p>Pf: If \(f\) convex, taking the convex combination of y and x: \(\forall t: f(x + t(y-x)) \leq (1-t)f(x) + tf(y)\). So consider \(f(y) \geq f(x) + \frac{f(x + t(y-x)) - f(x)}{t}\)as \(t\to 0\).</p>
+<p>Extend to \(f:R^{n} \to R\) by considering \(f\) restricted to a line: \(f(y) \geq f(x) + \dprod{\gradient f(x),(y-x)}\). The RHS is the supporting hyperplane to the epigraph of \(f\).</p>
+<h4 id="first-order-condition-for-non-smooth-f">First order condition for non-smooth f</h4>
+<p>The subdifferential set \(\subdifferential f(x) \neq \emptyset\) for any \(x\).</p>
+<h4 id="second-order-condition">Second order condition</h4>
+<p>So, if \(f(x)\) twice differentiable, \(f\) convex iff \(f&rsquo;'(x) \geq 0\) ie: \(f&rsquo;\) non decreasing. By techniques similar to first order condition, \(f\) convex if \(\gradient^{2}f(x) \preceq 0\). Aka second order condition.</p>
+<h3 id="supporting-hyperplane-to-the-epigraph">Supporting hyperplane to the epigraph</h3>
+<h4 id="differntiable-f">Differntiable f</h4>
+<p>See description of tangent hyperplanes to epigraphs in the &lsquo;topological properties of functionals&rsquo; subsection. For differentiable \(f\), the tangent hyperplane at \((x_1, f(x_1))\) is specified by \((\gradient f(x_1), -1)\). <strong>Pf</strong>: From first order condition: \(f(y) \geq f(x) + f&rsquo;(x)(y-x)\).</p>
+<p>So, \(f(x) + f&rsquo;(x)(y-x)\) is a global lower bound on \(f\).</p>
+<h4 id="non-differentiable-convex-f-subdifferentials">Non differentiable convex f: subdifferentials!</h4>
+<p>Can extend the idea of a gradient to non-differentiable convex \(f\). The <strong>subdifferential set</strong> \(\subdifferential f(x) = \set{z: \forall x, f(y) \geq f(x) + \dprod{z,(y-x)}}\).</p>
+<p>Each \(z \in \subdifferential f(x)\) is a <strong>subgradient</strong>, a <strong>generalization</strong> of the concept of gradient. \((z, -1)\) is a supporting hyperplane to the epigraph of \(f\) at \((x, f(x))\). Also, \(f(x) + \dprod{z,(y-x)}\) is a global lower bound on \(f\).</p>
+<p>\(\subdifferential f(x)\) is a closed, convex set.</p>
+<p>If \(x \in int(dom(f))\), \(\subdifferential f(x)\) is non-empty and bounded.</p>
+<h5 id="non-subdifferentiable-functionals">Non subdifferentiable functionals</h5>
+<p>Eg: \(-\sqrt{x}\): supporting hyperplane at (0, 0) is vertical.</p>
+<h3 id="supporting-hyperplanes-to-sublevel-sets">Supporting hyperplanes to sublevel sets</h3>
+<p>See the description of the connection between contour graphs and the gradient in the section on derivatives of functionals. At differentiable points, gradients define tangent hyperplanes to the contour; for convex functionals, these are also supporting hyperplanes to the sublevel set.</p>
+<p>At non differentiable points, the gradient can be substituted with the subgradient.</p>
+<h3 id="finding-subdifferentials">Finding Subdifferentials</h3>
+<p>First identify the non-differntiable point, then just apply the definition.</p>
+<p>If \(f\) is differentiable, \(\subdifferential f(x)\) contains just the gradient.</p>
+<h4 id="unlike-finding-gradients">Unlike finding gradients</h4>
+<p>Where \(f\) is differentiable, to find \(\gradient f(x)\), once can merely compute \(\partder{f(x)}{x_i} \forall i\), and arrange the result in a vector.</p>
+<p>For finding the subdifferential of \(f\) at a non-differentiable point, this does not work. Taking the OR of conditions describing subdifferentials of restrictions of a function to individual axes yields a superset of that function&rsquo;s subdifferential! For example, applying this flawed technique to finding \(\subdifferential \norm{0}<em>2\) yields the unit ball of \(\norm{x}</em>\infty\). +++(Can&rsquo;t do it one coordinate at a time.)+++</p>
+<h4 id="of-non-negative-linear-combo">Of non-negative linear combo</h4>
+<p>Take \(f(x) = ag(x) + a&rsquo; r(x);\ a, a&rsquo; \geq 0\). \(\subdifferential f(x) \supseteq \set{z&rsquo; + z: z&rsquo; \in \subdifferential g(x) z \in \subdifferential r(x)}\): applying dfn.</p>
+<h5 id="of-penalties-plus-regularizers">Of penalties plus regularizers</h5>
+<p>Commonly encountered in statistics and modelling.</p>
+<p>If \(f(x) = g(x) + r(x)\) is convex, g is differentiable but not r: \(\subdifferential f(x) = \set{\gradient f(x) + z: z \in \subdifferential r(x)}\).</p>
+<p>eg: Take \(f(x) = g(x) + l\norm{x}_1\), where g is convex. Here, \<br>
+\(\subdifferential f(x) = \set{\gradient g(x) + lz| \forall i: x_i \neq 0, z_i = sgn(x_i); \texttt{ else }: |z_i| &lt;= 1}\).</p>
+<h4 id="of-fax--b">Of f(Ax + b)</h4>
+<p>\(\subdifferential f(Ax + b) = A^{T} \subdifferential f(x)\). Pf:
+$$\subdifferential f(Ax + b) = \<br>
+\set{t&rsquo;: \forall d: f(Ax + b + Ad) \geq f(Ax + b) + \dprod{t&rsquo;, d}} \<br>
+= \set{A^{T}t: \forall d: f(Ax + b + Ad) \geq f(Ax + b) + \dprod{A^{T}t, d}} \<br>
+= A^{T} \subdifferential f(x)$$.</p>
+<p>So, linear shift \(x \to x+b\) does not change the subdifferential.</p>
+<h4 id="of-max-of-functionals">Of max of functionals</h4>
+<p>Take \(f(x) = \max \set{f_1(x) .. f_m(x)}\). Take \(act(x) = \set{i: f_i(x) = f(x)}\); then \(\subdifferential f(x) = conv(\union_{i \in act(x)} \subdifferential f_i(x))\).</p>
+<p>This property can be used to find subdifferential of the \(\infty\) norm.</p>
+<h4 id="subdifferentials-of-norms">Subdifferentials of norms</h4>
+<p>For any norm, subdifferential at 0 is just the unit ball of the corresponding dual norm!</p>
+<!-- raw HTML omitted -->
+<p>For \(\norm{x}<em>\infty\), many other points are non differentiable. Using the form of \(\subdifferential \max f_i(x)\), we get: \(x\neq 0: \subdifferential \norm{x}</em>\infty = conv(\set{sgn(x_i)e_i: \forall |x_i| = \norm{x}_\infty})\).</p>
+<h3 id="operations-which-preserve-convexity">Operations which preserve convexity</h3>
+<p>What preserves the curvature? Let \(f\), g be convex.</p>
+<h4 id="sum-max">Sum, max</h4>
+<p>\(a_1 f(x)+ a_2 g(x): a_i \geq 0\) convex.</p>
+<p>max(f, g)(x), \(sup_{f \in F}f(x)\)  convex. Eg: \(\sup_{c \in C} \norm{c-x}, \ew_max(A)\). This is widely used: eg: concavity of dual function, conjugate function.</p>
+<h4 id="minimization-over-some-dimensions">Minimization over some dimensions</h4>
+<p>Take f(x, y) convex in both \(x\) and \(y\), C a convex set. From defn, \(\inf_{y \in C} f(x, y)\) also convex.</p>
+<h4 id="composition-with-affine-transform">Composition with affine transform</h4>
+<p>If f(x) is convex, so is g(x) = f(Ax+b): from defn; Even concavity preserved.</p>
+<h4 id="other-compositions">Other compositions</h4>
+<p>Take \(h:R^{k}\to R\) convex. If \(g:R^{n} \to R^{k}\) componentwise convex, \(\hat{h}\) also componentwise non-decreasing, h(g(x)) convex: from defn. Also, if g concave, \(\hat{h}\) also componentwise non-increasing h(g(x)) convex.</p>
+<h4 id="transformations">Transformations</h4>
+<p>Perspective of a functional (not same as perspective fn): See \cite{cvx_boydVan}.</p>
+<p>conjugate of \(f\) also convex: supremum of affine functions.</p>
+<h3 id="important-instances">Important instances</h3>
+<h4 id="in-r">In R</h4>
+<p>Affine functional: ax + b (also concave, so linear).</p>
+<p>Exponential \(e^{ax} \forall a\).</p>
+<p>Powers \(x^{a} \forall a \notin (0,1)\).</p>
+<p>Negative entropy: \(x \log x\).</p>
+<h4 id="matrix-functionals">Matrix functionals</h4>
+<p>\(f(Y) = \log \det Y; \gradient f(Y) = Y^{-1}\) \why.</p>
+<h4 id="log-sum-exponents">Log sum exponents</h4>
+<p>\(f(x) = \log \sum e^{x_i}\) is convex: its Hessian \(H \succeq 0\) (can&rsquo;t simply use composition rules!). Pf: Let \(z_i = e^{x_i}\); then \(\gradient f(x) = (\sum_i z_i)^{-1}z\), Hessian is \(H = (\sum_i z_i)^{-2}((\sum_i z_i)diag(z) -zz^{T})\). \((\sum_i z_i)^{2}x^{T}Hx = (\sum_i z_i)(\sum_i x_i^{2}z_i) - (x^{T}z)^{2}\). Take \(a_i = z_i^{1/2}, b_i = x_i z_i^{1/2}\), use Cauchy schwartz to see \(x^{T}Hx \geq 0\).</p>
+<p>So, its composition with Affine transformation: \(\log \sum e^{a_i^{T}x + b_i}\).</p>
+<h5 id="importance">Importance</h5>
+<p>The convexity of these functionals is important because they are used to specify the -ve log likelihood functions of exponential families of distributions, and they need to be minimized during maximum likelihood estimation.</p>
+<h4 id="other-examples">Other examples</h4>
+<p>Norms. Each component of an affine function: \((Ax + b)_i\).</p>
+<h4 id="convex-quadratic-functionals">Convex quadratic functionals</h4>
+<p>Like this: \(f(x) = x^{T}Ax + hx + c\), with \(A \succeq 0\). Many level sets are ellipsoids.</p>
+<h2 id="other-functional-classes-defined-using-convexity">Other Functional-classes defined using convexity</h2>
+<h3 id="concave-functionals">Concave functionals</h3>
+<p>Concave function: -f is convex, domain is still convex.</p>
+<p>Any affine linear function y = ax+b is both concave and convex.</p>
+<p>f(x, y) = xy not simultaneously convex in \(x\) and y: have a saddle point graph; but individually convex in \(x\) and y.</p>
+<h3 id="linear-functionals">Linear functionals</h3>
+<p>These are both convex and concave.</p>
+<h3 id="quasi-convex-functionals">Quasi-convex functionals</h3>
+<h4 id="convex-sublevel-sets">Convex sublevel sets</h4>
+<p>Any function with convex domain, convex sub-level sets. Eg: \(|x|\). Similarly, quasi-concave, quasi-linear functionals are defined.</p>
+<p>So, can replace each sublevel set with a sublevelset of a convex functionals. This is used in quasi-convex programming.</p>
+<h4 id="smoothness-along-line-segment-in-the-domain-1">Smoothness along line segment in the domain</h4>
+<p>\(\forall t \in [0, 1]: f(tx + (1-t)y) \leq \max\set{f(x), f(y)}\): else \(\max\set{f(x), f(y)}\) sublevel-set of \(f\) would not be convex. So, there can&rsquo;t be local hills or craters, but there can be plateaus on the way down to any of the global minima.</p>
+<h4 id="first-order-condition-1">First order condition</h4>
+<p>f quasiconvex iff \(f(y) \leq f(x) \implies \gradient f(x)^{T}(y-x) \leq 0\) : otherwise, could take a small step along the segment connecting \(x\) and \(y\), and value of \(f\) would be greater than f(x). Visualize with contour maps in case of 2D functional.</p>
+<h4 id="importance-1">Importance</h4>
+<p>Sublevel sets of quasi-convex functions, being convex, can be used to specify feasible region of convex optimization program.</p>
+<h3 id="log-concave-functional-f">Log concave functional f</h3>
+<p>log \(f\) is concave.</p>
+<h4 id="importance-2">Importance</h4>
+<p>Many probability distributions log concave.</p>
+<h4 id="properties">Properties</h4>
+<p>Directly from concavity of log f: \(f(tx + (1-t)y) \geq f(x)^{t}f(y)^{1-t} \), if \(f\) differentiable: \(f(x)\gradient^{2}f(x) \preceq \gradient f(x) \gradient f(x)^{T}\).</p>
+<p>\(g(x) = \int f(x, y)dy\) is also log concave, but sum of log concave functionals not necessarily log concave.</p>
+<p>Convolution of \(f\) also log concave.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Convexity and functionals </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Convexity and functionals</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Applications on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/applications/</link>
+    <description>Recent content in &#43;Applications on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/applications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Document classification and clustering</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/applications/document_clustering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/applications/document_clustering/</guid>
+      <description>Aka text mining. Corpus of documents. Usually position of document in corpus ignored in modeling, just like bag of words assumption.
+Feature extraction Document is a string of words; but want a simpler representation.
+Maybe just the set of words which appear is most important: use word-counts. Maybe number of occurances is also important.
+Burstiness First time a word appears, it is very informative; but its second occurance is much less surprising/ informative.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/applications/search_results/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/applications/search_results/</guid>
+      <description>Ranking search query results Queries \(q \in Q\): bag of words, Set of documents D: a seq of words. For query \(q_{i}\), retrieved relevant documents \(D_{i} \subseteq D\); Got full or partial orderings \(L_{i}\). Let \(Q = \set{q_{i}}\). Maybe want to complete Q vs D relevence level matrix. Or, given docs D&amp;rsquo; relevant for unseen query q, want to rank D&amp;rsquo;.
+Feature extraction \(\ftr: Q \times D \to X \in R^{D}\); D is usually \(\approx 10\).</description>
+    </item>
+    
+    <item>
+      <title>Spoken dialog systems</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/applications/spoken_dialog_systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/applications/spoken_dialog_systems/</guid>
+      <description>Problem The problem is for the user to communicate a task to a machine through a verbal dialog. A dialog consists of several &amp;lsquo;turns&amp;rsquo;, with the user and the machine speaking alternately within each turn.
+Since the machine&amp;rsquo;s &amp;lsquo;belief&amp;rsquo; (aka dialog state) about the user&amp;rsquo;s task changes as the dialog proceeds, this problem is also called belief-tracking.
+Examples Voice mail system. Bus route information system. Route system.
+Domain ontology The set of concepts the interaction involves is often limited.</description>
+    </item>
+    
+    <item>
+      <title>Web portal related</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/applications/web_portal_related/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/applications/web_portal_related/</guid>
+      <description>Pick content Match content with user intent.
+Long term objective: Maximize user experience. Short term, meterable, objective: Maximize click-through rates (CTR) subject to constraints (Eg: don&amp;rsquo;t show porn).
+Pick content-layout Maximize ad revenue Match advertisements with content \tbc
+Data Inventory often expires: Eg: news articles; cause: user fatigue.
+Data is huge.
+User responses Responses are multivariate: click rates, ratings etc.. Negative responses very noisy.
+Online experimentation Comparing models tough without experiments.</description>
+    </item>
+    
+  </channel>
+</rss>

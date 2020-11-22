@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Matrix on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/linAlg/matrix/</link>
+    <description>Recent content in &#43;Matrix on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/linAlg/matrix/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linear operators</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/linAlg/matrix/linear_operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/linAlg/matrix/linear_operators/</guid>
+      <description>Linear Transformation Definition and Linearity Linearity \(A(ax+by) = aA(x)+bA(y)\). \(A\) called operator, from viewing vector as functions.
+Mapping between vector spaces For any field \(F\), can consider linear transformations \(A: F^{n} \to F^{m}\).
+Applications, examples Vector spaces can model many real world things (see vector spaces ref), even functions. In all of these, linear transformations have deep meanings.
+Over function spaces: Differentiation, integration, multiplication by fixed polynomial in \(P_n\).
+Geometric operations: \(Ax\).</description>
+    </item>
+    
+    <item>
+      <title>Matrix approximation</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/linAlg/matrix/matrix_approximation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/linAlg/matrix/matrix_approximation/</guid>
+      <description>Approximating a matrix The problem Take set of matrices S. Want \(\argmin_{B \in S} \norm{A - B}\) is minimized wrt some \(\norm{}\) and some set S.
+The error metric Also, often \(\norm{.}\) is an operator norm, as this ensures that \(\norm{(A-B)x}\) is low wrt the corresponding vector norm. Other times, as in the case of matrix completion problems, it may be desirable for \(\norm{}\) to be the Frobenius norm.
+Low rank (k) factorization problem In many problems, S is the set of rank k matrices, where k is small.</description>
+    </item>
+    
+    <item>
+      <title>Misc decompositions</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/linAlg/matrix/misc_decompositions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/linAlg/matrix/misc_decompositions/</guid>
+      <description>Importance of decompositions Very important in restating and understanding the behavior of a linear operator. Also, important in solving problems: get decomposition, use it repeatedly. For algebraic manipulation: Factor the matrix: QR, LU, Eigenvalue decomposition, SVD.
+EW revealing decompositions See section on eigenvalues.
+Eigenvalue decomposition Aka Spectral Decomp. Only if \(A\) diagonalizable.
+Take \(S\): Eigenvectors-as-columns matrix, with independent columns; \(\EW\): Eigenvalue diagonal matrix. Then, AS = SL; So, \(S^{-1}AS = L\); \(A=SLS^{-1}\): a similarity transformation.</description>
+    </item>
+    
+  </channel>
+</rss>

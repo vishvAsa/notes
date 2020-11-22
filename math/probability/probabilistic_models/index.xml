@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Probabilistic models on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/</link>
+    <description>Recent content in &#43;Probabilistic models on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modeling</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/modeling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/modeling/</guid>
+      <description>Model/ hypothesize for predictive ability Many natural phenomena are not deterministic. We often want concise explanations for observed phenomena. This will grant us great predictive ability. Probability theory aims to model and understand uncertainties such phenomena.
+Realism vs conciseness The more the model reflects reality, the better it is. Yet, as we want to avoid overfitting to limited data, we seek conciseness.
+So, the art here is to define more and more general/ concise models, which also manage to model reality closely, whose parameters turn out to be easy to learn in practice.</description>
+    </item>
+    
+  </channel>
+</rss>

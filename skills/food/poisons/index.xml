@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Poisons on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/skills/food/poisons/</link>
+    <description>Recent content in &#43;Poisons on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/skills/food/poisons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lead</title>
+      <link>file:///storage/emulated/0/notesData/notes/skills/food/poisons/Lead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/skills/food/poisons/Lead/</guid>
+      <description>Affects cognition.
+After several reports of lead poisoning in Indian children in the Boston area were linked to consumption of Indian spices. Reference</description>
+    </item>
+    
+    <item>
+      <title>Sugar</title>
+      <link>file:///storage/emulated/0/notesData/notes/skills/food/poisons/Sugar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/skills/food/poisons/Sugar/</guid>
+      <description>One must avoid rapid rises and fall in sugar levels in most circumstances - except after exercise, when it is used up by muscles. Reasons: According to link: suppression of immune system and growth hormone secretion, promotion of inflammation, glycation, and insulin-resistence (by promoting fat livers even in lean people according to link ).
+Further complications include: higher blood pressure, higher trglyceride levels, lower HDL cholesterol levels, higher LDL cholesterol levels (aka metabolic syndrome), thence leading to both type 2 diabetes and heart disease (surprise!</description>
+    </item>
+    
+    <item>
+      <title>Trans-fats</title>
+      <link>file:///storage/emulated/0/notesData/notes/skills/food/poisons/Trans-fats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/skills/food/poisons/Trans-fats/</guid>
+      <description>Structure Unrefined fats include double bonds in the carbon chain, which lead to a molecular structure which is not a straight chain. Upon hydrogenation, single bonds are formed in place of double bonds, with a strong preference for the formation of trans-hydrocarbon backbone rather than cis-bonds. Such molecules have a more linear structure.
+Hydrogenated oil Most trans fats consumed today, however, are industrially created as a side effect of partial hydrogenation of plant oils.</description>
+    </item>
+    
+  </channel>
+</rss>

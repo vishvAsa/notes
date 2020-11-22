@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Dev tools on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/</link>
+    <description>Recent content in &#43;Dev tools on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compilation</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/compilation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/compilation/</guid>
+      <description>Machine instructions and their files Machine instructions are understood by the processor. Assembly level code provides a way to write machine instructions using words instead of hexadecimal instructions.
+Executable files When an operating system is being used, machine instructions, which are stored in a file or on fixed locations in the hard-disk, should be associated with suitable meta-data/ headers. Such files are called executable files.
+Object files Object files contain named segments of machine instructions - library functions.</description>
+    </item>
+    
+    <item>
+      <title>Debug</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/debug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/debug/</guid>
+      <description>Method  Detective Analogy Isolate the bug.  Extract information from error report.  Understand cryptic error codes.   Unit testing. Leaks  Profiling     Fix it.  Logging  Log important events Use good Logging framework  Prints source (line number etc..)   Destinations: Corresponding to each experiment, create a log file with a time stamp automatically, perhaps of the same name.  </description>
+    </item>
+    
+    <item>
+      <title>Repositories</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/repositories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/repositories/</guid>
+      <description>Sonatype  They provide infrastructure to publish open source libraries to Maven staging repositories  manage on web - https://oss.sonatype.org/#stagingRepositories In case of trouble, simplest to drop repository.    </description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/dev_tools/testing/</guid>
+      <description>Use  Forces implementer to think like user. (Ease of use emphasized.) Useful for debugging. Testable code tends to be more readable. Safeguard against monkey-errors in future.  Test desiderata  Speed Isolation In production code  Check inputs - use assertions    What to test?  Prove assertions  Check safety: Recognize invariants Check progress  Induction      Isolation testing  Unit test function  Mocking function calls  Eg: to databases   Use fake objects  Eg: fake databases      Mocking frameworks The tester stubs out various functions that the method being tested is supposed to call.</description>
+    </item>
+    
+  </channel>
+</rss>

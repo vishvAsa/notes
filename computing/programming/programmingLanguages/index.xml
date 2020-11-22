@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Languages on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/</link>
+    <description>Recent content in &#43;Languages on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pick language</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/pick_language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/pick_language/</guid>
+      <description>One must use the language most appropriate language to solve the problem at hand quickly and with computational efficiency.
+Sometimes, a tradeoff may be involved: tradeoff between expressiveness and efficiency of a language. One may even use different programming languages to specify different parts of the logic to the computer.
+Expressiveness/ conciseness Expressiveness is important in rapid prototyping/ programming. The presence of useful libraries is a major factor which affects conciseness.</description>
+    </item>
+    
+    <item>
+      <title>Regular expressions</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/reg_ex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/reg_ex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

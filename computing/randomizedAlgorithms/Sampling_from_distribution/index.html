@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Sampling from distribution</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Sampling_from_distribution/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Sampling_from_distribution/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Sampling from distribution" />
+<meta property="og:description" content="Sampling a random variable X Problem The pseudo random number generator yields a sequence of almost independent random bits: see randomized alg ref. How do you use them to sample from a given distribution?
+Visualization Want to &lsquo;cover&rsquo; the entire range(X) by the sampling: visualize as throwing darts in a oval: dart density corresponds to probability; the shape formed by the darts corresponds to the Pr(X) contour.
+Challenges Can&rsquo;t sample from \(\Re\): computer can&rsquo;t even store all possible \(\Re\)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/randomizedAlgorithms/Sampling_from_distribution/" />
+
+<meta itemprop="name" content="Sampling from distribution">
+<meta itemprop="description" content="Sampling a random variable X Problem The pseudo random number generator yields a sequence of almost independent random bits: see randomized alg ref. How do you use them to sample from a given distribution?
+Visualization Want to &lsquo;cover&rsquo; the entire range(X) by the sampling: visualize as throwing darts in a oval: dart density corresponds to probability; the shape formed by the darts corresponds to the Pr(X) contour.
+Challenges Can&rsquo;t sample from \(\Re\): computer can&rsquo;t even store all possible \(\Re\).">
+
+<meta itemprop="wordCount" content="1099">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Sampling from distribution"/>
+<meta name="twitter:description" content="Sampling a random variable X Problem The pseudo random number generator yields a sequence of almost independent random bits: see randomized alg ref. How do you use them to sample from a given distribution?
+Visualization Want to &lsquo;cover&rsquo; the entire range(X) by the sampling: visualize as throwing darts in a oval: dart density corresponds to probability; the shape formed by the darts corresponds to the Pr(X) contour.
+Challenges Can&rsquo;t sample from \(\Re\): computer can&rsquo;t even store all possible \(\Re\)."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/randomizedAlgorithms\/Sampling_from_distribution\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/randomizedAlgorithms\/Sampling_from_distribution.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Sampling from distribution</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Sampling from distribution">Sampling from distribution</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/randomizedAlgorithms/Sampling_from_distribution.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="sampling-a-random-variable-x">Sampling a random variable X</h2>
+<h3 id="problem">Problem</h3>
+<p>The pseudo random number generator yields a sequence of almost independent random bits: see randomized alg ref. How do you use them to sample from a given distribution?</p>
+<h4 id="visualization">Visualization</h4>
+<p>Want to &lsquo;cover&rsquo; the entire range(X) by the sampling: visualize as throwing darts in a oval: dart density corresponds to probability; the shape formed by the darts corresponds to the Pr(X) contour.</p>
+<h4 id="challenges">Challenges</h4>
+<p>Can&rsquo;t sample from \(\Re\): computer can&rsquo;t even store all possible \(\Re\). So, must sample from Q.</p>
+<p>Or, Pr(X=x) or \(Pr(X=x|Y=y)\) may be difficult to calculate.</p>
+<h3 id="sampling-some-distributions">Sampling some distributions</h3>
+<h4 id="uniform-distribution">Uniform distribution</h4>
+<p>Sampling from U[a,b] is easy: sample 1 bit at a time form the range.</p>
+<h4 id="discrete-probability-distribution">Discrete probability distribution</h4>
+<p>Take a line segment [0, 1], partition it into ranges \(\set{R_i}\) corresponding to probabilities of various values; Sample x from U[0, 1]; identify its range j; output value j corresponding to \(R_j\).</p>
+<h4 id="normal-distribution">Normal distribution</h4>
+<p>Use rejection sampling: accept x drawn from uniform distribution with probability proportional to \(e^{(x-\mean)^{T}\covmatrix^{-1}(x-\mean)}\). Can similarly sample from any distribution.</p>
+<p>Or, sample from discrete probability distribution which approximates N: but this is costly as the number of rational numbers in the range is large.</p>
+<h5 id="multidimensional-normal-distribution">Multidimensional Normal distribution</h5>
+<p>Sampling from a spherical normal distribution is easy: just apply a linear transformation to the inputs before sampling.</p>
+<h2 id="problems-solved-by-sampling-x">Problems solved by sampling X</h2>
+<h3 id="the-integration-summation-problem">The integration/ summation problem</h3>
+<p>Maybe you want to \(E[f(X)|T]\) where T is an event (maybe &lsquo;true&rsquo;), but ye find it difficult to do this analytically. The expectation could involve a combinatorial sum: the RV f(X) can take on many different values with different probabilities.</p>
+<h4 id="find-normalization-const-z-of-prx">Find normalization const Z of Pr(X)</h4>
+<p>Given prob distribution \(Pr(x) = Z^{-1}f(x)\) specified only by f(x) to find Z.</p>
+<h4 id="finding-prt-for-hard-to-analyze-t">Finding Pr(T) for hard to analyze T</h4>
+<p>Same as finding the expectation of an indicator random variable.</p>
+<p>Visualize sample space as an oval, and sampling as putting dots in the oval; you estimate the size of a smaller oval where the event is true.</p>
+<p>Aka counting if every sample point is equally probable.</p>
+<h3 id="optimization">Optimization</h3>
+<p>Sampling with special attention being paid towards finding an optimum is considered elsewhere.</p>
+<p>Maybe you want to find \(\min_{X} f(X)\). As seen in optimization ref, in general it is hard to find a global minimum; so repeated sampling / random restarts with gradient descent can be a useful strategy.</p>
+<h4 id="optimization-after-summation">Optimization after summation</h4>
+<p>Maybe want \(\min_{X} E[f(X)|T]\).</p>
+<h3 id="simulation">Simulation</h3>
+<p>Maybe you want to simulate roll of dice, or want AI&rsquo;s which behave realistically in games.</p>
+<h2 id="sampling-random-vectors">Sampling Random vectors</h2>
+<h3 id="arbitrary-randomg-vectors">Arbitrary randomg vectors</h3>
+<p>Suppose random vector \(X\) is 3-dimensional, and suppose that we are given the joint potential \(\gf_X\). One can first deduce and sample \(x_1\) from \(f_{X_1}\), then \(x_2\) from \(f_{X_2|X_1 = x_1}\), and finally \(x_3\) from \(f_{X_3|X_1 = x_1, X_2 = x_2}\). The cost mostly comes from having to sum over \(|ran(X_2)||ran(X_3)|\) terms in deducing the distributions.</p>
+<h3 id="from-graphical-models">From graphical models</h3>
+<h4 id="forward-sampling-for-dags">Forward sampling for DAG&rsquo;s</h4>
+<p>Consider a directed graphical model with fully specified conditional probability distributions for non-root nodes and distributions for root nodes.</p>
+<p>One simply samples successive each level of the DAG, starting at level 0, utilizing the conditional probability distributions given samples drawn from the previous level at each step.</p>
+<p>This is an exact sampling technique.</p>
+<h4 id="undirected-trees">Undirected trees</h4>
+<p>Sampling from undirected tree-structured graphical models can be accomplished by converting them efficiently to tree structured directed graphical models. Computing marginal probabilities by summing over pairwise potentials  is efficient when \(range(X_i)\) is finite, which then makes computation of conditional probabilities for the DAG efficient.</p>
+<h4 id="factor-trees">Factor trees</h4>
+<p>One can forward-sample tree structured factor graphs by conversion to equivalent directed trees whose nodes correspond to factor-nodes.</p>
+<h3 id="arbitrary-undirected-graphs">Arbitrary undirected graphs</h3>
+<p>Arbitrary undirected graphs may be sampled by conversion to corresponding factor trees.</p>
+<h2 id="repeated-sampling">Repeated Sampling</h2>
+<p>Aka Monte Carlo sampling. Repeated sampling is done for several purposes, like inference. It is usually much simpler when Pr(X) is modelled by a graphical model.</p>
+<p>Here we consider various techniques for repeated sampling themselves, rather than their special applications to problems such as inference (as in rejection sampling).</p>
+<h3 id="markov-chain-stationary-distribution">Markov chain Stationary distribution</h3>
+<p>Aka Markov Chain Monte Carlo (MCMC).</p>
+<p>Consider a stochastic process whose state space is \(ran(X)\). For any distribution \(f_X\), we can usually construct markov chain whose stationary distribution is \(f_X\). So, doing appropriate random walks on the state transition graph of this Markov chain (see probabilistic models for details), one can sample various states from \(f_X\).</p>
+<p>But before each sample is picked, one must &lsquo;throw away some samples&rsquo; in order to let the state distribution approximate the stationary distribution.</p>
+<p>The art is in finding a fast mixing one. If it is time reversible, can get very fast mixing Markov chain.</p>
+<h4 id="sampling-from-discrete-distribution">Sampling from discrete distribution</h4>
+<p>Aka Metropolis alg.</p>
+<p>Want to sample from distribution over \<br>
+\(range(X) = \set{v_{i}}\). Make ergodic Markov chain with right stationary distribution: Pick \(M \geq maxDegree\), set \(Pr(v_{i} \to v_{j}) = (1/M)min(1, \pi_{v_{j}}/\pi_{v_{i}})\) otherwise self-loop. Note that finding \(\pi_{v_{j}}/\pi_{v_{i}}\) usually easy : ye don&rsquo;t need to know normalization constant Z.</p>
+<h3 id="repeated-conditional-sampling">Repeated conditional sampling</h3>
+<p>Aka Gibbs sampling.</p>
+<h4 id="algorithm">Algorithm</h4>
+<p>Start with random assignment to \((X_i)\). For each i, sample \(X_i \distr Pr(X_i|X_{j\neq i})\); repeat.</p>
+<p>The conditional probability distribution is computed using \\(f_{X_i|X_{-i}} = \gf_{X}/\gf_{X_{-i}} = \gf_{X}/\sum_{x_i} \gf_{X}\), where the joint potential \(\gf_X\) is not necessarily normalized.</p>
+<h4 id="correctness">Correctness</h4>
+<p>Why is this same as sampling from Pr(X)? \why</p>
+<h4 id="efficiency">Efficiency</h4>
+<p>Gibbs sampling is efficient as long as the \(\gf_X\) can be efficiently computed. This is because of the fact that the normalization constant cancels out, and need not be computed; and becuase \(range(X_i)\) is limited.</p>
+<h4 id="modifications">Modifications</h4>
+<p>This is akin to a &lsquo;random walk on a graph&rsquo; behavior, so often takes long to cover the entire sample space well. Consider \((X_1, X_2)\) with them being very correlated: visualize sample space as elongated ellipse around some line; so going L units away on \(X_i\) requires \(O(L^{2})\).</p>
+<p>So, maybe use random restarts.</p>
+<h3 id="block-conditional-sampling">Block conditional sampling</h3>
+<p>Aka block-Gibbs sampling.</p>
+<h4 id="algorithm-1">Algorithm</h4>
+<p>Here, we sample whole blocks of variables at a time. Consider a partition of variables \(X\) into \(A, B\). Starting with a random assignment, we sample from \(f_{A|B}\) and \(f_{B|A}\) in turn. \(f_{A|B} = \gf_X/\gf_B\), where \(\gf\) is the potential function which is not necessarily normalized.</p>
+<p>Finding \(\gf_B(b) = \sum_a \gf_X(a, b)\) requires summing over \(\prod_i ran(B_i)\) items in general, which is not efficient.</p>
+<h4 id="advantages">Advantages</h4>
+<p>It is better than Gibbs sampling when the subgraphs can be more efficiently or accurately (perhaps even exactly) sampled from, and when summing over them is easy. This is true for example when the partitions correspond to tree-structured subgraphs of directed graphical models.</p>
+<h2 id="physics-inspired-sampling">Physics-inspired sampling</h2>
+<h3 id="energy-temperature-analogy">Energy temperature analogy</h3>
+<p>Can write \(Pr(x) = Z^{-1}e^{-\frac{E(x)}{T}}\), where E is energy function, T is the temperature. \tbc</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Sampling from distribution </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Sampling from distribution</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Differential function</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/vectorSpaces/differential_function/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/vectorSpaces/differential_function/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Differential function" />
+<meta property="og:description" content="Definition Fixed direction differential fn Aka directional derivative.
+Fixing the direction \(v\), \(D_v(f)\) can be taken to map \(x\) to \(D_v(f)(x)\). So, \(D_v(f)(x): V \to F\) is a constricted version of the differential function \(D(f)(x)\).
+\(df(x; h) = D_h(f)(x)= \lim_{\change t \to 0} \frac{f(x&#43;\change th) - f(x)}{\change t} = \frac{d}{dt}|_{t=0}f(x &#43; th)\). Aka Gateaux differential.
+Alternate notation: \(\gradient_{h}(f(x)) \) : not the gradient vector, but its applicaiton in a certain direction." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/vectorSpaces/differential_function/" />
+
+<meta itemprop="name" content="Differential function">
+<meta itemprop="description" content="Definition Fixed direction differential fn Aka directional derivative.
+Fixing the direction \(v\), \(D_v(f)\) can be taken to map \(x\) to \(D_v(f)(x)\). So, \(D_v(f)(x): V \to F\) is a constricted version of the differential function \(D(f)(x)\).
+\(df(x; h) = D_h(f)(x)= \lim_{\change t \to 0} \frac{f(x&#43;\change th) - f(x)}{\change t} = \frac{d}{dt}|_{t=0}f(x &#43; th)\). Aka Gateaux differential.
+Alternate notation: \(\gradient_{h}(f(x)) \) : not the gradient vector, but its applicaiton in a certain direction.">
+
+<meta itemprop="wordCount" content="1773">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Differential function"/>
+<meta name="twitter:description" content="Definition Fixed direction differential fn Aka directional derivative.
+Fixing the direction \(v\), \(D_v(f)\) can be taken to map \(x\) to \(D_v(f)(x)\). So, \(D_v(f)(x): V \to F\) is a constricted version of the differential function \(D(f)(x)\).
+\(df(x; h) = D_h(f)(x)= \lim_{\change t \to 0} \frac{f(x&#43;\change th) - f(x)}{\change t} = \frac{d}{dt}|_{t=0}f(x &#43; th)\). Aka Gateaux differential.
+Alternate notation: \(\gradient_{h}(f(x)) \) : not the gradient vector, but its applicaiton in a certain direction."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/vectorSpaces\/differential_function\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/vectorSpaces\/differential_function.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Differential function</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Differential function">Differential function</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/vectorSpaces/differential_function.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="definition">Definition</h2>
+<h3 id="fixed-direction-differential-fn">Fixed direction differential fn</h3>
+<p>Aka directional derivative.</p>
+<p>Fixing the direction \(v\), \(D_v(f)\) can be taken to map \(x\) to \(D_v(f)(x)\). So, \(D_v(f)(x): V \to F\) is a constricted version of the differential function \(D(f)(x)\).</p>
+<p>\(df(x; h) = D_h(f)(x)= \lim_{\change t \to 0} \frac{f(x+\change th) - f(x)}{\change t} = \frac{d}{dt}|_{t=0}f(x + th)\). Aka Gateaux differential.</p>
+<p>Alternate notation: \(\gradient_{h}(f(x)) \) : not the gradient vector, but its applicaiton in a certain direction.</p>
+<h4 id="affine-approximation-view">Affine approximation view</h4>
+<p>This definition of the directional derivative is equivalent to the defining \(D_h(f)\) as the function such that the following holds: \(t \to 0\), \(f(x + th) = f(x) + tD_h(f)(x)\).</p>
+<h4 id="r-to-r-case">R to R case</h4>
+<p>In this special case, there is just one direction: \(1\).</p>
+<h3 id="directional-differentiability">Directional differentiability</h3>
+<p>If, at \(x\), the directional derivative exists in all directions, \(f\) is said to be Gateaux differentiable at \(x\).</p>
+<p>The differential of \(f\) at the point \(x\) in the direction \(v\) is a function of two variables: \(x, v\). We regard \(D(f)(x): V \to F\), such that \(D(f(x))[v] = \frac{df(x + tv)}{dt}\) is the directional derivative of \(f\) at \(x\) along \(v\).</p>
+<p>So, \(D(f): V \to L(V, F)\), where \(L(V, F)\) is the space of continuous linear functionals \(l:V \to F\). The fact that \(D(f(x))\) is a linear functional follows from the affine approximation view of the directional derivative.</p>
+<p>But, this is unsatisfactory as directional differentiability does not imply continuity. \why</p>
+<h3 id="continuous-differentiability">Continuous differentiability</h3>
+<p>If at \(x\), \(\exists a\) such that \(\forall c, \norm{f(x+c) - f(x) - a^{T}c} = o(\norm{c})\), then \(f\) is differentiable at \(x\); and the derivative is \(Df(x)[c] \dfn a^{T}c\), which maps \(V \to F\). +++(A measure of goodness of affine approximation!)+++ The view \(D(f): V \to L(V, F)\) still holds.</p>
+<p>Aka Frechet derivative, total derivative.</p>
+<h4 id="connection-to-directional-differentiability">Connection to directional differentiability</h4>
+<p>In non pathological cases, both notions of differentiability are equivalent: This comes from applying the polynomial approximation theorem for \(g: R \to R\), \(f(x + th) \to f(x) + t D_h(f)(x)\).</p>
+<p>In the case of continuous differentiability, this follows from definition. In the case of directional differential functions, this can be seen using the polynomial approximation theorem for \(f:R \to R\): \(f(x + th) \to f(x) + t D_h(f)(x)\) as \(t \to 0\).</p>
+<h3 id="matrix-functionals">Matrix functionals</h3>
+<p>Similar definition for differential functions for functionals over the vector space of matrices. Eg: See \(\gradient tr(f(X))\) in linear algebra ref.</p>
+<h2 id="linearity">Linearity</h2>
+<p>The differential operator \(D:f \to D(f)\) is linear: So \(D(f+g) = D(f) + D(g)\): This follows from the affine approximation view  of the differential function.</p>
+<p>Note that this is separate from directional linearity.</p>
+<h2 id="connection-to-partial-derivatives">Connection to partial derivatives</h2>
+<p>We suppose that linearity is established (simple in case of Frechet derivatives).</p>
+<p>From linearity, \(D(f(x))[v] = \sum_i v_i D(f(x))[e_i]\). This can be written as a vector product: \(D(f(x))e_i\), with D(f(x)) being a row vector. When written as a column vector, it is denoted by \(\gradient(f(x)) \), in which case, \(\gradient_v f(x) = \gradient(f(x))^{T}v\).</p>
+<h3 id="notation">Notation</h3>
+<p>\(\gradient f(x) := \frac{df(x)}{dx} := (\frac{\partial f(x)}{\partial x_{1}}, \dots) = (\partder{f(x)}{x_{1}}, ..)\).</p>
+<h4 id="note-about-representation">Note about representation</h4>
+<p>Note that, as explained there, &lsquo;gradients&rsquo; are defined wrt to vectors - without differentiating between their representation as row or column vectors. Such representations are secondary to the correctness of their values, and can be altered as necessary for convenience of expression.</p>
+<h3 id="df-as-a-vector-field">D(f) as a Vector field</h3>
+<p>Hence, the derivative operator \(D(f)(x)\) can be viewed as a vector field, such that \(D(f)(x) = \gradient f(x)\), a vector. However, often, following the convention used for vector to vector functions, \(D(f)(x)\) is denoted by the row vector \(\gradient f(x)^{T}\).</p>
+<h3 id="c1-smoothness">C1 smoothness</h3>
+<p>\(f \in C^{1}\) if \(\partder{f}{x_i}\) exists. Similarly, \(C^{n}\), even \(C^{\infty}\) smoothness defined.</p>
+<h4 id="differentiability-vs-smoothness">Differentiability vs smoothness</h4>
+<p>Gradient&rsquo;s existence does not guarantee differentiability; derivative must exist in all directions - in an open ball around \(c\).</p>
+<h3 id="in-contour-graph">In contour graph</h3>
+<h4 id="perpendicular-to-contours">Perpendicular to contours</h4>
+<p>\(\gradient f\) is \(d\) dimensional vector. Always \(\perp\) to every tangent to the contour of \(f\) in \(d\) dimensional space: else could move short distance along contour and increase value of f; or take \(x\) and \(x + \eps\) on contour, take Taylor expansion: \(f(x + \eps) = f(x) + x^{T}\gradient f(x)\); thence get \(x^{T}\gradient f(x) = 0\).</p>
+<h4 id="sublevel-sets-and-gradient-direction">Sublevel sets and gradient direction</h4>
+<p>Consider level-sets \(f(x) = 0, f(x) = 0.1, f(x) = 0.2\). \(\gradient f(x)\) will be oriented towards increasing \(f(x)\), that is, away from the interior of the sublevel set \(\set{x: f_i(x) \leq 0}\). So, points outwards if convex.</p>
+<h3 id="in-the-plot">In the plot</h3>
+<p>Take the plot \((x, f(x))\). Then \(\gradient f(x)\), if it exists, is sufficient to specify the tangent hyperplane to the plot at x: see subsection on tangent hyperplanes.</p>
+<h2 id="subgradients-at-convex-points">Subgradients at convex points</h2>
+<p>Extension of the gradient to non-differentiable functional f(x). See convex functional section.</p>
+<h2 id="differential-operator">Differential operator</h2>
+<p>Its general properties, including linearity, product rule and the chain rule, are considered under vector functions.</p>
+<h3 id="derivatives-of-important-functionals">Derivatives of important functionals</h3>
+<p>For simplicity in remembering the rules it is easier to think in terms of the Differential operator, rather than the gradient (which is just \(Df(x)^{T}\)).</p>
+<h4 id="linear-functionals">Linear functionals</h4>
+<p>\(DAx = A : \gradient Ax = A^{T}, \gradient b^{T}x = b\) from Df(x) rules.</p>
+<h4 id="quadratic-functionals">Quadratic functionals</h4>
+<p>\(\gradient x^{T}Ax = (A^{T} + A )x\): <!-- raw HTML omitted -->expanding \((x+\del x_{i})^{T}A(x+\del x_{i})\).} Alternate \pf{\(D(x^{T}Ax) = x^{T}A + D(x^{T}A) x\) (product rule) \( = x^{T}A + x^{T} D(A^{T}x) = x^{T}(A + A^{T})\)<!-- raw HTML omitted --></p>
+<p>If \(A = A^{T}\): \(D(x^{T}Ax) = x^{T}(2A)\).</p>
+<h2 id="higher-order-differential-functions">Higher order differential functions</h2>
+<h3 id="definition-1">Definition</h3>
+<h4 id="linear-map-from-v">Linear map from V</h4>
+<p>Take the differential functional \(D(f)(x):V \to L(V, F)\). \(L(V, F)\) is itself a vector space, and the space of continuous linear maps \(L(V, L(V, F))\) is well defined. So, we can consider the differential function of \(D(f)\). It is \(D^2(f)(x): V \to L(V, L(V, F))\).</p>
+<p>Similarly, kth order differential function \(D^{k}(f)(x)\) can be defined in general.</p>
+<p>Differential operators, of which \(D^{k}f(x)\) are special cases, for general functions between vector spaces are described elsewhere.</p>
+<h4 id="directional-higher-order-differential-fn">Directional higher order differential fn</h4>
+<p>With \(u\) fixed, \(D_u(f)(x) = D(f)(x)[u]\) can be viewed as a  functional: \(D(f):V \to F\). Once can consider the differential function of \(D_u(f)\). Applying the definition, will be \(D(D_u(f)):V \to L(V, F)\) such that \(D(D_u(f))(x)\) is specified by
+$$D(D_u(f))(x)[v] = lt_{\change t_v \to 0} \frac{D_u(f)(x + \change t_v v) - D_u(f)(x)}{\change t_v} = \<br>
+lt_{\change t_v, \change t_u \to 0} \frac{f(x + \change t_v v + \change t_u u) - f(x + \change t_u u)- f(x + \change t_v v ) + f(x)}{\change t_u \change t_v} \<br>
+= \frac{\partial^{2} }{\partial^{2} t_u t_v}|_{t_u, t_v = 0} f(x + t_u u + t_v v)$$.</p>
+<h4 id="multi-linear-map-from-htextvkv-k">Multi-Linear map from \htext{\(V^k\){V-k}}</h4>
+<p>Note that, as defined here, \(D^2(f)(x)[u]\) is a continuous linear functional, which when provided another argument \(D^2(f)(x)[u][v]\) maps to a scalar.</p>
+<p>So, using an isomorphism, it is convenient to view \(D^2(f)(x): V^{2} \to F\).</p>
+<p>Hence, \(D^2(f): V \to L^{2}(V, F)\), where \(L^{k}(V, F)\) is the space spanned by k-linear maps \(g:V^{k} \to F\). So, \(D^2(f)\) maps each point \(x\) to a bilinear map.</p>
+<p>Similarly, kth order differential functions can be defined in general.</p>
+<h3 id="properties">Properties</h3>
+<h4 id="symmetry">Symmetry</h4>
+<p>\(D^{k}f(x)\) is symmetric, except in pathological cases which can be eliminated by a good definition. This may follow by looking at the form of \(D^{2}f(x)[u, v]\) described earlier: \(lt_{t_i \to 0} \frac{f(x + \sum t_i v_i)}{t_1 t_2}\).</p>
+<h4 id="wrt-basis-vectors">Wrt basis vectors</h4>
+<p>The notation \(D^{2}f(x)[e_i][e_j] = D_{ij}f(x)\) is used.</p>
+<h3 id="tensor-representation">Tensor representation</h3>
+<p>\(D^{2}f(x)[u][v] = \sum_{i, j} u_i v_j D_{i, j}^{2}f(x)\). <!-- raw HTML omitted -->By the distributive property of multilinear functions. This can also be proved by applying the chain rule, the directional linearity of the differential function and the linearity of the differential operator.<!-- raw HTML omitted --></p>
+<p>Similarly \(D^{k}f(x)\) can be completely specified using kth order derivatives along the basis vectors.</p>
+<h4 id="2nd-order-case">2nd order case</h4>
+<p>In the 2nd order case, this is aka Hessian matrix. \(H_{i,j} = D_{i}D_{j}f(x)\): Always symmetric. Aka \(\gradient^{2} f(x) = \frac{\partial^{2} f(x)}{\partial x \partial x^{T}} = D \gradient f(x)\), using the notation for derivatives of general vector to vector functions.</p>
+<p>This matrix is important in tests for convexity at a critical point.</p>
+<h2 id="polynomial-approximation">Polynomial approximation</h2>
+<p>See the 1-D case in complex analysis ref.</p>
+<p>Restrict \(f\) to a line \(g(t) = f(a + t(x-a))\). The polynomial approximation of this function leads us to:
+\(f(a+v) = f(a) + \sum_{k \in ..n-1}\frac{1}{k!}D^{k}f(x)[v]^{k} + \frac{D^{n}f(c)[v]^{n}}{n!}\) for some \(c \in hull(a, a+v)\) in the line segment.</p>
+<p>\(D^{k}f(a)[v]^{k}\) is often written using the product of k vectors with a k-th order tensor.</p>
+<h3 id="polynomial-approximation-series">Polynomial approximation series</h3>
+<p>Aka Taylor series. Similarly, in the limit get: \(f(x) = \sum_{|a|} D_a f(a)\). Here we have used the multi-index notation described below.</p>
+<h4 id="multi-index-notation">Multi-index notation</h4>
+<p>Take \(b \in Z_+^{n},\ x \in V\). Then, \(b! \dfn \prod b_i !,\ D_{b} \dfn D_{1}^{b_1}.., x^{b} = \prod x_i^{b_i}\).</p>
+<h3 id="connection-with-extreme-values">Connection with extreme values</h3>
+<p>See optimization ref.</p>
+<h2 id="derivative-matrix">Derivative matrix</h2>
+<h3 id="motivation-using-directional-derivatives">Motivation using directional derivatives</h3>
+<p>For every functional \(f_i(x)\), we have \(D(f_i)(x)[v] = \dprod{\gradient f_i(x), v}\). So, this single functional \(D(f_i)(x)\) is the row vector from the functional case.</p>
+<h3 id="arrangement-as-rows">Arrangement as rows</h3>
+<p>So, due to the definition of the differential function of vector valued functions, \(D(f)(x)[v] = Jv\), where \(J_{i, :} = D(f_i)(x)\). So, \(D(f)(x)\) is completely specified by \(J\), which may remind one of the fact that every linear operator can be represented by a matrix vector product.</p>
+<p>This is aka Jacobian matrix. Notation: \(J_f(x) = Df(x) = \partder{(y_{1} \dots)}{(x_{1} \dots)}\): \(J_{i,j} = \partder{y_{i}}{x_{j}}\).</p>
+<h3 id="note-about-dimensions">Note about dimensions</h3>
+<p>As explained in the case of derivatives of functionals, representations are secondary to the correctness of their values, and can be altered as necessary for convenience of expression. One must however pay attention to them to be consistent with other entities in the same algebraic expression.</p>
+<h2 id="differential-operator-1">Differential operator</h2>
+<p>Linearity follows from linearity of functional derivatives.</p>
+<h3 id="row-valued-functions">Row-valued functions</h3>
+<p>Sometimes, one encounters a function whose component functionals are arranged as a row vector \((f(x))^{T}\), rather than as a column vector \(f(x)\). Though the actual derivative is the same, for the sake of consistency (eg: when it one wants to apply the product rule: \((x^{T}A)x\) and consider \(D(x^{T}A)\)), one can simply compute \([D_x(f(x))]^{T}\).</p>
+<h3 id="product-of-functions">Product of functions</h3>
+<p>From scalar functional derivative product rule: \(D_x f(x)^{T}g(x) = (D_x f(x))^{T} g(x) + f(x)D_x g(x)\). Note that this results in a column vector.</p>
+<h3 id="composition-of-functions-chain-rule">Composition of functions: chain rule</h3>
+<h4 id="directional-differential-functions">Directional differential functions</h4>
+<p>Take \(h(x) = g(f(x))\). Then \(Dh(x)[v] = D(g)[f(x)]D(f)[v]\).</p>
+<!-- raw HTML omitted -->
+<h4 id="in-matrix-representation">In matrix representation</h4>
+<p>In terms of derivative matrices, this is a matrix product: \(D(g)[D(f)(x)[v]] = J_g(f(x)) J_f(x) v\)! Note that order matters: first differentiate wrt outer function, then wrt inner function.</p>
+<p>+++(Observe how the dimensions match perfectly: for functional (function) compositions!)+++</p>
+<h3 id="linear-and-constant-functions">Linear and constant functions</h3>
+<p>\(D(Ax)[v] = Av\), and \(D(Ax) = A\): from the affine approximation definition of a derivative. \(D(k) = 0\).</p>
+<h2 id="non-triviality-of-inversion">Non-triviality of inversion</h2>
+<p>COnsider \(f(x) = Mx\).</p>
+<p>If J is square and M is invertible: \(J_{M^{-1}} = \partder{(x_{1} \dots)}{(y_{1} \dots)} = J_{M}^{-1}\): From inverse function thm \why. So, in general, \(\partder{y_{j}}{x_{i}} = J_{j, i} \neq \frac{1}{\partder{x_{i}}{y_{j}}} = 1/J^{-1}_{i, j}\) unlike 1-D eqn \(\frac{dx}{dy} = \frac{1}{\frac{dy}{dx}}\).</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Differential function </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Differential function</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

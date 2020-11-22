@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Solar on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/power/electricity/solar/</link>
+    <description>Recent content in &#43;Solar on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/power/electricity/solar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On-grid Bengaluru</title>
+      <link>file:///storage/emulated/0/notesData/notes/power/electricity/solar/on-grid-BESCOM/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/power/electricity/solar/on-grid-BESCOM/</guid>
+      <description>2020 Returns  The Karnataka Electricity Regulatory Commission (KERC) policy came into effect in 2014 after KERC has listed out the implementation guidelines to all the ESCOMS. Calculations and comparisons here.  On-grid costs recoverable in 7 years.   25 year agreement will be between house owner and BESCOM, usually mediated by vendor  Takes up to 60 days. If assistant engineer (AE) and installer have good understanding - can be done in 20-25 days.</description>
+    </item>
+    
+    <item>
+      <title>Panels</title>
+      <link>file:///storage/emulated/0/notesData/notes/power/electricity/solar/panels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/power/electricity/solar/panels/</guid>
+      <description>Size  Panel size: 1mtr x 2 mtr = 3.3ft x 6.6ft. per kw 60-70 sqft as (prashAnt 2020 BLR)  Capacity  Ratings: Standard Test Conditions (STC) which is @ 25°C cell temperature Avg generation per KW per day in BLR (considering rain and cloud) 4kWh (as per prashant 2020). Annual degradation (as of 2020 tech) - 0.0045x annually (to be compounded during calculation). Solar cell negative temperature coefficient: .</description>
+    </item>
+    
+  </channel>
+</rss>

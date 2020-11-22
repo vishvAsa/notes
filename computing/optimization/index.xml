@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Optimization on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/optimization/</link>
+    <description>Recent content in &#43;Optimization on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/optimization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1 Problem structure</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/optimization/1_problem_structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/optimization/1_problem_structure/</guid>
+      <description>The problem \(\min f_{0}(x): V \to F\) subject to constraints \(f_{i}(x) \leq b_{i}\). Vector \(x\) is optimization variable of d dimensions. \(f_0\) is optimization fn. \(b_i\) are limits/ bounds for constraints.
+Standard (primal) form \(\min_x f_{0}(x): \set{f_{i}(x) \leq 0}, \set{h_{i}(x) = 0} \): all are \(V \to F\) functionals.
+Explicit constraints \(f_i\) and \(h_i\) are explicit constraints. Problem is unconstrained if it has no explicit constraints.
+Implicit constraints \(x \in D = \inters dom(f_i) \inters dom(h_i)\).</description>
+    </item>
+    
+    <item>
+      <title>2 Formulation &amp; Solution</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/optimization/2_formulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/optimization/2_formulation/</guid>
+      <description>Formulating the problem Focus on easily solved forms Modellers of natural phenomena and engineers formulate optimization problems. They know what classes of problems are easy to solve. So, they often draw on a mental library of functions, composition rules to create, for example a convex program.
+Dealing with strict inequality constraints Replace with non-strict inequalities.
+Use equivalent formulations (for convexity?) You can always replace \(f_0(x)\) or \(f_i(x)\) \
+with a \(p(f_i(x))\) if p is monotonically increasing with \(f_i\), and if you can translate between \(\argmin f_0(x)\) and \(\argmin p(y)\) or between \(f_i(x) \leq 0\) and \(p(y) \leq c\).</description>
+    </item>
+    
+    <item>
+      <title>3 Linear programming</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/optimization/3_linear_programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/optimization/3_linear_programming/</guid>
+      <description>The problem Minimize linear/ affine function over a polyhedron: ie subject to affine/ linear constraint functions.
+Canonical form \(\vec{x} \in R^{d}\). \(\min c^{T}x: Ax \leq b\).
+Nonnegative optimization form \(\min c^{T}x&amp;rsquo;: Ax&amp;rsquo; \leq b\), with \(x&amp;rsquo; = \mat{x^{+}\ x^{-}}\); new constraints: \(x&amp;rsquo; \geq 0\), \(x^{+} - x^{-} = 0\).
+Equality constrained form Writable as \(\min c^{T}x: Ax = b; \)x\( \geq 0\), using slack variables.
+Constraints and the polyhedron Every constraint is a halfspace.</description>
+    </item>
+    
+  </channel>
+</rss>

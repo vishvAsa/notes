@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Low error computation</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/numericalAnalysis/low_error_computation/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/numericalAnalysis/low_error_computation/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Low error computation" />
+<meta property="og:description" content="Round off errors See the computer architecture survey&rsquo;s chapters on number storage where representation accuracy and arithmetic accuracy are described. Tolerance of the problem and of the algorithm to representation error and error in basic arithmetic computations is considered later.
+Underflow avoidance Sometimes, in case of computations involving multiplication and division with very small numbers (eg: probability calculation), there is the chance of underflow: a small non-0 number \(x\) may be stored as 0; which would then lead to \(0\) and \(\infty\) results during later multiplication and division." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/numericalAnalysis/low_error_computation/" />
+
+<meta itemprop="name" content="Low error computation">
+<meta itemprop="description" content="Round off errors See the computer architecture survey&rsquo;s chapters on number storage where representation accuracy and arithmetic accuracy are described. Tolerance of the problem and of the algorithm to representation error and error in basic arithmetic computations is considered later.
+Underflow avoidance Sometimes, in case of computations involving multiplication and division with very small numbers (eg: probability calculation), there is the chance of underflow: a small non-0 number \(x\) may be stored as 0; which would then lead to \(0\) and \(\infty\) results during later multiplication and division.">
+
+<meta itemprop="wordCount" content="825">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Low error computation"/>
+<meta name="twitter:description" content="Round off errors See the computer architecture survey&rsquo;s chapters on number storage where representation accuracy and arithmetic accuracy are described. Tolerance of the problem and of the algorithm to representation error and error in basic arithmetic computations is considered later.
+Underflow avoidance Sometimes, in case of computations involving multiplication and division with very small numbers (eg: probability calculation), there is the chance of underflow: a small non-0 number \(x\) may be stored as 0; which would then lead to \(0\) and \(\infty\) results during later multiplication and division."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/numericalAnalysis\/low_error_computation\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/numericalAnalysis\/low_error_computation.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Low error computation</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Low error computation">Low error computation</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/numericalAnalysis/low_error_computation.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="round-off-errors">Round off errors</h2>
+<p>See the computer architecture survey&rsquo;s chapters on number storage where representation accuracy and arithmetic accuracy are described. Tolerance of the problem and of the algorithm to representation error and error in basic arithmetic computations is considered later.</p>
+<h3 id="underflow-avoidance">Underflow avoidance</h3>
+<p>Sometimes, in case of computations involving multiplication and division with very small numbers (eg: probability calculation), there is the chance of underflow: a small non-0 number \(x\) may be stored as 0; which would then lead to \(0\) and \(\infty\) results during later multiplication and division. To avoid this, one can use the logrithmic representation: x would be stored as \(\log x\), and (xy) would be computed using \(\log x + \log y\).</p>
+<h2 id="condition-of-a-problem">Condition of a problem</h2>
+<h3 id="notation-and-motivation">Notation and motivation</h3>
+<p>Problem (at x)= Vector Function \(f:X \to Y\) (at x). Is \(\change f(x)\) big wrt \(\change x\)? Eg: Perturbing ball on peak vs is trough.</p>
+<h4 id="use">Use</h4>
+<p>Round off error analysis while solving on a computer!</p>
+<h3 id="absolute-condition-number">Absolute condition number</h3>
+<p>$\hat{k} = \lim_{\change x\to 0} \sup_{\change x \leq \change x&rsquo;} \norm{\frac{\change f(x)}{\change x}} \<br>
+= \frac{\norm{J_{f}(x) \change x}}{\norm{\change x}} = \norm{J_{f}}\( (Induced p or \)\infty$ or 2 norm of Jacobian).</p>
+<h3 id="relative-condition-number">Relative condition number</h3>
+<p>Aka Cond Num.\<br>
+\(k = \lim_{\change x&rsquo; \to 0} \sup_{\change x \leq \change x&rsquo;} \frac{\norm{\change f(x)}/\norm{f(x)}}{\norm{\change x}/ \norm{x}} = \frac{\norm{J(x)}}{\norm{f(x)}/\norm{x}}\). Well conditioned prob; Eg: \(f(x) = \sqrt{x}\).</p>
+<p>Ill conditioned if k near \((\epsilon^{-0.5}, \epsilon^{-1})\). Loose log k digits of accuracy: can&rsquo;t distinguish between f(x) closer than k. Eg: Roots of polynomial p(x): f(p(x))= x; so also Eigenvalue prob: \(det(A-lI)\).</p>
+<h2 id="stability-of-algorithm">Stability of algorithm</h2>
+<h3 id="notation-and-motivation-1">Notation and motivation</h3>
+<h4 id="algorithm-modeled-as-an-approximate-function">Algorithm modeled as an approximate function</h4>
+<p>Vector fn \(\tilde{f}\): an algorithm which approximates problem f. \(\hat{f}(x)\): the value found by \(\hat{f}\). This is not just the computer storage approximation fl(f(x)) of f(x), but includes error introduced because of \(\tilde{f}\) being an approximation.</p>
+<h4 id="relative-accuracy-of-algorithm">Relative accuracy of algorithm</h4>
+<p>Aka forward stability. \chk \(\frac{\norm{\tilde{f}(x) - f(x)}}{\norm{f(x)}} \leq O(\eps)\).</p>
+<h5 id="limitations">Limitations</h5>
+<p>Not useful if f() is ill conditioned at x: x rounded off to \(\tilde{x}\), \(\frac{\norm{f(\tilde{x}) -f(x)}}{\norm{\tilde{x} - x}}\) huge; so relative error huge.</p>
+<h4 id="conditioning-stability-separation">Conditioning/ stability separation</h4>
+<h5 id="assume-good-conditioning">Assume good conditioning</h5>
+<p>First, don&rsquo;t try to solve an ill-conditioned problem; any algorithm will yield poor results merely because cannot \(f(fl(x))\) is computed instead of f(x), due to limitations of computer storage.</p>
+<h5 id="a-stable-algorithm">A stable algorithm</h5>
+<p>Once you have a well conditioned problem, if you have an algorithm which computes some \(\tilde{f}(x&rsquo;) \approx f(x&rsquo;)\) for \(x&rsquo; \approx x\), you are guaranteed a solution close to f(x).</p>
+<h5 id="stability-of-algorithm-definition">Stability of algorithm: definition</h5>
+<p>For nearly right question, get nearly right ans:\<br>
+\(\forall x, \exists \tilde{x}:\frac{\norm{\tilde{x} - x}}{\norm{x}} \leq O(\eps):\ \frac{\norm{\tilde{f}(x) - f(\tilde{x})}}{\norm{f(\tilde{x})}} \leq O(\eps)\). Independent of choice of norm.</p>
+<h3 id="backward-stability">Backward stability</h3>
+<p>Like Stability, but \(\tilde{f}(x) = f(\tilde{x})\): Exactly right ans to nearly right question.</p>
+<p>Implies stability; but simpler to analyze. Found useful in practice, with few exceptions; actual \(\tilde{f}(x) - f(x)\): backward error or residual is small.</p>
+<h4 id="accuracy">Accuracy</h4>
+<p>\(\frac{\norm{\tilde{f}(x) - f(x)}}{\norm{f(x)}} = \frac{\norm{f(\tilde{x}) - f(x)}}{\norm{f(x)}} \leq k\norm{\del x}/\norm{x} \leq O(k \eps)\). So if alg stable, stability reflects condition number. So, useless if problem ill conditioned.</p>
+<h4 id="show-backward-stability">Show backward stability</h4>
+<p>Show \(\tilde{f}(x) = f(x)(1 + \eps) = f(\tilde{x}) = f(x(1+\eps))\): Start with \(\tilde{f}(x)\), end up with \(f(\tilde{x})\).</p>
+<h4 id="to-show-backward-instability">To show backward instability</h4>
+<p>Show for some x, \(\tilde{f}(x) = f(\tilde{x})\) means \(\frac{\norm{\del x}}{\norm{x}}\) is huge.</p>
+<h3 id="stability-without-backward-stability">Stability without backward stability</h3>
+<p>Outer product \(f(x,y) = xy^{<em>}\) stable, but not backward stable: cant write as \((x+\del x) (y + \del y)^{</em>}\). If \(f(x,y)\) has higher dimensions than x, y; backward stability often not possible.</p>
+<p>\(x \oplus 1\) stable but not backward stable: Take x so small that \(fl(1+x) = 1\), then \(\tilde{x} = 0\) for \(1+\tilde{x} = 1\): then \(\frac{\tilde{x} - x}{x} = 1 \neq O(\eps)\). Similarly, \(fl(x+y-x)\) is not backward stable: when x and y are so far apart that \(x+y = x\). But, x+y+z is backward stable.</p>
+<h3 id="backward-stable-linear-algebra-ops">Backward stable linear algebra ops</h3>
+<h4 id="scalar-arithmatic">Scalar Arithmatic</h4>
+<p>\(f(x,y) = fl(x) \odot fl(y)\) backward stable for \(\odot = + - * /\): as \(fl(x) \odot fl(y) = (x(1+\eps_{1}) + y(1+\eps_{2}))(1+\eps_{3})\).</p>
+<h5 id="catastrophic-cancellation">Catastrophic cancellation</h5>
+<p>\(a = fl(1 + \eps_{M}) = 1\); so, \(fl(1 - a) = 0\). Catastrophic error when small nums are calculated from large nums. Soln: modify alg to avoid it; Eg: reflecting on plane in Householder triangularization \(\perp\) \(v = -x -\norm{x}e_{1}\), not \(v = x -\norm{x}e_{1}\).</p>
+<h4 id="inner-product">Inner product</h4>
+<p>\(fl(x^{*}y) = fl(\sum_{i=1}^{d}\conj{x_{i}}y_{i}) = \sum_{i=1}^{d}\conj{x_{i}}y_{i} (1+\del_{i}), |\del_{i}| \leq d\eps\). This suffices, as usually \(d &laquo; \eps\) for dense x, y. Useful in backward error analysis.</p>
+<h4 id="ab">Ab</h4>
+<p>So, \(Ab = (A+\del A)b, \del A_{i,j} = nA_{i,j} \eps + O(\eps^{2})\). Useful in backward error analysis.</p>
+<h3 id="error-analysis">Error analysis</h3>
+<p>Estimate accuracy of alg.</p>
+<h4 id="backward-error-analysis">Backward error analysis</h4>
+<p>Analyze conditioning of problem; then show backward stability of all steps of algorithm; then show backward stability of the entire alg; then easily compute accuracy.</p>
+<p>QR is stable in the backward sense, but not in the forward sense.</p>
+<h4 id="forward-error-analysis">Forward error analysis</h4>
+<p>Introduce rounding errors at each step; see how they accumulate to form &lsquo;forward errors&rsquo;; thence find relative error. Tougher than backward analysis. \(O(\eps^{2})\) terms ignored.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Low error computation </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Low error computation</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

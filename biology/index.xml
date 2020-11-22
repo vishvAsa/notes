@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Biology on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/biology/</link>
+    <description>Recent content in &#43;Biology on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/biology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Origin of life</title>
+      <link>file:///storage/emulated/0/notesData/notes/biology/origin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/biology/origin/</guid>
+      <description>Source of water  &amp;ldquo;Recently, enstatites have been in the news because a recent study has shown that they contain sufficient Hydrogen with a specific isotopic signature to have contributed to the emergence of a major fraction of the water on the Earth. This strengthens a big role for the enstatite bodies in the origin of the Earth and its water. &amp;hellip; The authors of the said recent study admit this fact and propose that carbonaceous chondrites of the Ivuna-type could have supplied additional water after the initial formation of the Earth to result in its current isotopic signature.</description>
+    </item>
+    
+  </channel>
+</rss>

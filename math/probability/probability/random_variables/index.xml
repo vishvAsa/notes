@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Random variables on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/random_variables/</link>
+    <description>Recent content in &#43;Random variables on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/probability/probability/random_variables/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>01 Random variable (RV) X</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/random_variables/01_Random_variable_RV_X/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probability/random_variables/01_Random_variable_RV_X/</guid>
+      <description>Map sample space to measurable space Consider the probability space \((S, \gs(S), v)\) and a measurable space \(R\) with an associated measure \(\gm\) and sigma algebra \(G\), aka state space.
+\(X:S \to R\), where \(X\) is a \((\gs(S), \gs(R))\) measurable function is a random variable (RV). To emphasize the (sigma algebra membership) structure preserving properties, we write: \(X:(S; F, v) \to R\).
+Note that \((R, \gs(R))\) is usually \((\Re, B)\), where B is the union and complement closure of the set of (semi)open intervals.</description>
+    </item>
+    
+    <item>
+      <title>02 Multiple random variables</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/random_variables/02_Multiple_random_variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probability/random_variables/02_Multiple_random_variables/</guid>
+      <description>Random vector A random vector is an n-dim vector \(X = (A_{i})\), which are a bunch of jointly distributed random variables. Similarly, \(X\) can be a \(m \times n\) random matrix.
+Below, we consider \(X = (X_1, X_2)\), where \(X_1:(S_1; F_1, v_1) \to R_1\) and \(X_2:(S_2; F_2, v_2) \to R_2\).
+A random vector is itself a random variable \(X:(S_1 \times S_2; F_1 \times F_2, v) \to (R_1 \times R_2)\).
+Marginalization The marginalization properties of the joint/ product probability space leads to: \(Pr(X_1 \in E_1, X_2 \in S_2) = Pr(X_1 \in E_1)\), so \(\int_{E_1 \times S_2} f_X(x) dv = \int_{E_1} \int_{x_2 \in S_2} f_{X}(x_1, x_2) dv_2 dv_1 = \int_{E_1} f_{X_1}(x_1)dv_1\).</description>
+    </item>
+    
+    <item>
+      <title>03 Averaging using the pdf</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/random_variables/03_Averaging_using_the_pdf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probability/random_variables/03_Averaging_using_the_pdf/</guid>
+      <description>Consider the real valued random variable \(X: (S, B) \to (R, B_r, m)\), whose pdf is \(f_X\) defined relative to the reference measure \(m\).
+Mean/ Expectation of real valued RV Aka Expected value. \(E:\set{RV} \to R\). \(E[X] = \mean = \int_{X} x f_X(x) dm = E_{X}[X]\).
+This is the weighted average of \(range(X)\). \(E[X]\) is actually a convex combination of points in range(X).
+Subscript notation See probability section.
+Conditional Expectation Conditional expectation of X wrt event A: \(E_{X}[X|A]\) is computed using the conditional pdf \(f_{X|A}(x)\).</description>
+    </item>
+    
+    <item>
+      <title>04 Random Vector properties</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/random_variables/04_Random_Vector_properties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probability/random_variables/04_Random_Vector_properties/</guid>
+      <description>Mean \(E[X] \dfn (E[X_i])\).
+Linearity If \(X\) is a random matrix, A, B, C are constant matrices: \(E[AXB + C] = AE[X]B + C\). Proof: by using \((AXB){i, j} = A{i,:} X B_{:, j}\), which is a linear combination of \(X_{k,l}\).
+Also, if \(X\) is random vector, \(E[a^{T}X] = a^{T}E[X]\).
+Covariance Definition How correlated are deviations of X, Y from their means?\
+\(cov(X, Y) = E_{x, y}[(X - E[X])(Y - E[Y])]\).</description>
+    </item>
+    
+    <item>
+      <title>05 Random variable sequence</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/random_variables/05_Random_variable_sequence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probability/random_variables/05_Random_variable_sequence/</guid>
+      <description>\((X_{i})\) with CDF \((F_i)\).
+Convergence in distribution to X Aka weak convergence. If \(\forall x: \lim_{n \to \infty} F_n(x) = F(x)\), then \(X_n \to^{d} X\). Comments about limit of CDF&amp;rsquo;s.
+Convergence in probability to X If \(\forall \eps: \lim_{n \to \infty}Pr(|X_n - X| &amp;gt; \eps) = 0\), say \(X_n \to^p c\); so limit of sequence of probabilities. Probability of deviation from \(X\) grows smaller and smaller, but doesn&amp;rsquo;t necessarily hit 0.</description>
+    </item>
+    
+  </channel>
+</rss>

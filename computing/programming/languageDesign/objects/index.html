@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Objects</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/programming/languageDesign/objects/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/programming/languageDesign/objects/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Objects" />
+<meta property="og:description" content="Object oriented design is considered in the software architecture survey.
+Object manipulation The main idea of object oriented programming is to describe computation in terms of manipulating states of objects. This causes state changes to be local - which helps programmers design a well structured view of state and behavior.
+This is distinct from the functional programming paradigm.
+Encapsulation and locality Hiding data and methods from outside methods restricts state changes to be local." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/programming/languageDesign/objects/" />
+
+<meta itemprop="name" content="Objects">
+<meta itemprop="description" content="Object oriented design is considered in the software architecture survey.
+Object manipulation The main idea of object oriented programming is to describe computation in terms of manipulating states of objects. This causes state changes to be local - which helps programmers design a well structured view of state and behavior.
+This is distinct from the functional programming paradigm.
+Encapsulation and locality Hiding data and methods from outside methods restricts state changes to be local.">
+
+<meta itemprop="wordCount" content="849">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Objects"/>
+<meta name="twitter:description" content="Object oriented design is considered in the software architecture survey.
+Object manipulation The main idea of object oriented programming is to describe computation in terms of manipulating states of objects. This causes state changes to be local - which helps programmers design a well structured view of state and behavior.
+This is distinct from the functional programming paradigm.
+Encapsulation and locality Hiding data and methods from outside methods restricts state changes to be local."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/programming\/languageDesign\/objects\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/programming\/languageDesign\/objects.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Objects</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Objects">Objects</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/programming/languageDesign/objects.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>Object oriented design is considered in the software architecture
+survey.</p>
+<h3 id="object-manipulation">Object manipulation</h3>
+<p>The main idea of object oriented programming is to describe computation
+in terms of manipulating states of objects. This causes state changes to
+be local - which helps programmers design a well structured view of
+state and behavior.</p>
+<p>This is distinct from the functional programming paradigm.</p>
+<h3 id="encapsulation-and-locality">Encapsulation and locality</h3>
+<p>Hiding data and methods from outside methods restricts state changes to
+be local.</p>
+<p>For enforcing varying degrees of locality, Method/ property access
+specifiers may be provided: public, private, protected, default.</p>
+<h4 id="methods">Methods</h4>
+<p>Methods: procedures associated with a class. The behavior of a method
+within a certain object obj - say obj.f(argList), in terms of functional
+programming, can be considered to be a function which accepts two
+argument sets: first is the object obj, and the second is the argList
+passed to the method; and which then returns values which include the
+modified object, which is then assigned to the appropriate reference.</p>
+<p>Maybe class has events, listeners too.</p>
+<h3 id="object-construction-and-destruction">Object construction and destruction</h3>
+<p>There are various patterns for specifying functions which create objects
+based on prototypes.</p>
+<h4 id="classes">Classes</h4>
+<p>Based on their state-space and purpose, these objects may be described
+as instances of various classes, in whose definition various attributes
+and methods may be defined.</p>
+<p>Use of classes enables static type checking.</p>
+<h4 id="cloning-prototypes">Cloning prototypes</h4>
+<p>One way to create objects is by creating a clone. This mechanism works
+even where objects’ types are not well defined.</p>
+<p>Properties and methods are then added as desired.</p>
+<h4 id="deep-copy">Deep copy</h4>
+<p>With a deep copy, not only is a new object with the same state as the
+original object created, but the following happens too: any object
+contained within the original object is also deep copied (rather than
+both objects referring to the same member object).</p>
+<h4 id="factory-methods">Factory methods</h4>
+<p>Often easily accessed factory methods are provided in order to create an
+object of a certain class with a certain state. When these are member
+methods of the class in question, they are called constructors.</p>
+<p>When an inheritance structure is present, and when a parent class has
+multiple constructors, it becomes necessary to ensure the calling the
+right parent constructor. Sequence of calling constructors: superclass
+first. Destructors: subclass destructor called first.</p>
+<h3 id="inheritance">Inheritance</h3>
+<p>Among classes of objects, a inheritance structure may be defined - Eg:
+class A extends class B in that it has all the members in B (with
+identical or overriden semantics/ behavior), together with some extra
+members.</p>
+<h4 id="benefits">Benefits</h4>
+<p>Inheritience is compared with object composition elsewhere.</p>
+<p>This accomplishes two things: 1] It is a neat code-reuse pattern; and
+2] enabling static type-checking (in case of statically typed
+languages) - ie when a member (x) is accessed, ensuring that the class
+has an appropriate member (x).</p>
+<p>The fact that members of objects of different subclasses of the same
+superclass can be accessed using a variable (of the superclass type) is
+called polymorphism.</p>
+<h4 id="abstract-class-interface">Abstract class/ interface</h4>
+<p>Programming laguages often allow definition of types which cannot be
+instantiated, but can be used to define the members of other classes
+which extend/ implement them. So, these abstract classes need not define
+a generic implmentation of methods they declare.</p>
+<p>This enables one to define functions which accept arguments with a
+certain ’interface’.</p>
+<h4 id="dynamic-dispatch">Dynamic dispatch</h4>
+<p>When a superclass and a subclass have a function of the same name f, it
+is generally intended that subclass.f should be called when obj.f is
+invoked, where obj is declared to be of the superclass type.</p>
+<p>Some languages require this to specified explicitly using the keyword
+virtual.</p>
+<h4 id="multiple-inheritance">Multiple inheritance</h4>
+<p>In case multiple ancestors (along distinct inheritance paths) of a class
+(C) define a method with the same name (m), the effect of the call
+(C.m) needs to be disambiguated explicitly by the programmer: and the
+programming language should ideally provide him the ability to do so.</p>
+<p>In case of programming languages which do not allow this, one must
+instead use interfaces with object composition as a way of sharing code.</p>
+<h3 id="prototyping-based-languages">Prototyping-based languages</h3>
+<p>These do not provide a mechanism to explicitly define a class or
+inheritance structure. Objects are created exclusively by cloning and
+dynamically (at run-time) adding members - Classes/ inheritance are
+implicitly defined in this process.</p>
+<h3 id="mutability">Mutability</h3>
+<p>Some objects may be designed to be immutable (having unchangeable
+state). Such objects may have ’state-altering’ methods which construct
+and return an object with the altered state.</p>
+<p>So, object-cloning is superfluous for such objects.</p>
+<p>Example: Immutable maps, when return a copy of value objects to ensure
+that the value is not modified.</p>
+<h3 id="class-with-optional-members">Class with optional members</h3>
+<p>Aka algebraic data-type. An algebraic data-type a class which is mostly
+defined by the members it does and does not have. These members are
+often set using constructors.</p>
+<h4 id="as-inheritance-tree">As inheritance tree</h4>
+<p>Often it is defined by an inheritence hierarchy.</p>
+<p>eg: trait Tree; class BTree(lTree: Tree, value: Int, rTree: Tree)
+extends Tree; class LeafNode(value: Int) extends Tree.</p>
+<h4 id="use-with-pattern-matching">Use with pattern matching</h4>
+<p>An instant of an algebraic data type is often matched using a special
+pattern matching construct provided by the language.</p>
+<p>eg pseudo-scala-code:</p>
+<pre><code>f(tree) = tree match {
+case BTree: print(tree.lTree) f(tree.lTree) f(tree.rTree)
+case LeafNode: print(tree.value)
+}
+</code></pre>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Objects </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Objects</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

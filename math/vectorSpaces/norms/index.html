@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Norms</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/vectorSpaces/norms/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/vectorSpaces/norms/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Norms" />
+<meta property="og:description" content="Semi-norm properties Aka pre-norm. Obeys triangle inequality, non negativity, homogeniety / scalability (\(\norm{cv} = |c|\norm{v}\)). But, not necessarily &#43;ve definiteness (\(\norm{x} = 0\) iff \(x\) = 0.).
+Norm: Defining properties A seminorm which obeys positive definiteness (\(\norm{x} = 0\) iff \(x\) = 0.). Often triangle inequality is the only non trivial property to verify. Prenorm omits trinagle inequality.
+All norms are metrics (see topology ref).
+Variants Absolute norms \(\norm{a} = \norm{|a|}\)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/vectorSpaces/norms/" />
+
+<meta itemprop="name" content="Norms">
+<meta itemprop="description" content="Semi-norm properties Aka pre-norm. Obeys triangle inequality, non negativity, homogeniety / scalability (\(\norm{cv} = |c|\norm{v}\)). But, not necessarily &#43;ve definiteness (\(\norm{x} = 0\) iff \(x\) = 0.).
+Norm: Defining properties A seminorm which obeys positive definiteness (\(\norm{x} = 0\) iff \(x\) = 0.). Often triangle inequality is the only non trivial property to verify. Prenorm omits trinagle inequality.
+All norms are metrics (see topology ref).
+Variants Absolute norms \(\norm{a} = \norm{|a|}\).">
+
+<meta itemprop="wordCount" content="933">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Norms"/>
+<meta name="twitter:description" content="Semi-norm properties Aka pre-norm. Obeys triangle inequality, non negativity, homogeniety / scalability (\(\norm{cv} = |c|\norm{v}\)). But, not necessarily &#43;ve definiteness (\(\norm{x} = 0\) iff \(x\) = 0.).
+Norm: Defining properties A seminorm which obeys positive definiteness (\(\norm{x} = 0\) iff \(x\) = 0.). Often triangle inequality is the only non trivial property to verify. Prenorm omits trinagle inequality.
+All norms are metrics (see topology ref).
+Variants Absolute norms \(\norm{a} = \norm{|a|}\)."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/vectorSpaces\/norms\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/vectorSpaces\/norms.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Norms</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Norms">Norms</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/vectorSpaces/norms.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="semi-norm-properties">Semi-norm properties</h2>
+<p>Aka pre-norm. Obeys triangle inequality, non negativity, homogeniety / scalability (\(\norm{cv} = |c|\norm{v}\)). But, not necessarily +ve definiteness (\(\norm{x} = 0\) iff \(x\) = 0.).</p>
+<h2 id="norm-defining-properties">Norm: Defining properties</h2>
+<p>A seminorm which obeys <strong>positive definiteness</strong> (\(\norm{x} = 0\) iff \(x\) = 0.). Often triangle inequality is the only non trivial property to verify. Prenorm omits trinagle inequality.</p>
+<p>All norms are metrics (see topology ref).</p>
+<h2 id="variants">Variants</h2>
+<h3 id="absolute-norms">Absolute norms</h3>
+<p>\(\norm{a} = \norm{|a|}\).</p>
+<h4 id="monotonicity-connection">Monotonicity connection</h4>
+<p>\(\norm{.}\) monotone (\(|x|\leq |y| \implies \norm{x} \leq \norm{y}\)) iff it is absolute.</p>
+<p>Pf: if monotone, take \(y = |x|\); as \(|y| = |x|\) get absoluteness. If absolute: take x; for \(\ga \in [0, 1]\), replace \(x_{i} \to \ga x_{i}\) to get x&rsquo;, replace \(x_{i} \to -x_{i}\) to get x&rsquo;'; \(\norm{x&rsquo;} = \norm{2^{-1}(1-\ga)x&rsquo;&rsquo; + 2^{-1}(1-\ga)x + \ga x} \leq 2^{-1}(1-\ga)\norm{x&rsquo;'} + 2^{-1}(1-\ga)\norm{x} + \ga \norm{x} = \norm{x}\); by repetition get \(\norm{(\ga_{i}x_{i})} \leq \norm{x}\); thus, for \(|x| \leq |y|\): \(\norm{x} = \norm{(\ga_{i}e^{i\gth_{i}}y_{i})} = \norm{(\ga_{i}|y_{i}|)} \leq \norm{y}\).</p>
+<h2 id="dual-norm-of-pre-norm-f">Dual norm of pre-norm f</h2>
+<p>Take pre norm \(f\), \(f^{D}(y) = \sup_{x:f(x) \leq 1} \Re \dprod{x, y}\) : like the matrix norm. This is a norm defined on the dual space of \(dom(f)\); so it measures the size of continuous linear functionals operating on \(dom(f)\); so it is an operator norm - more precisely a functional norm. It is the maximum value attained by \(y(x)\) in the unit ball defined by \(f\).</p>
+<p>For finite dimensional spaces, dual of dual norm is the original norm. \why</p>
+<h3 id="normness-proof">Normness proof</h3>
+<p>+ve definiteness comes from +ve definiteness of \(\dprod{}\). \(\triangle\) inequality easily shown from linearity of \(\dprod{}\).</p>
+<h3 id="geometric-view">Geometric view</h3>
+<p>The greatest inner product with y of any \(x\) in the unit ball \(\set{x: f(x) = 1}\).</p>
+<h3 id="importance">Importance</h3>
+<p>Plays an important role in describing duality theory in optimization. Also important in describing the subdifferentials of many norms at 0.</p>
+<h3 id="common-dual-norms">Common dual norms</h3>
+<p>Dual of \(\norm{.}<em>1\) is \(\norm{.}</em>\infty\), and vice-versa: easily from definition.</p>
+<p>Dual of \(\norm{.}_2\) is itself: from Cauchy Schwartz: \(z^{T}x \leq \norm{z}\norm{x}\) is thight.</p>
+<h4 id="applications">Applications</h4>
+<p>Steepest descent method in optimization.</p>
+<h2 id="properties">Properties</h2>
+<h3 id="new-norms-out-of-old">New norms out of old</h3>
+<p>Take norms \(f_{1} .. f_{m}\) on F; norm g on R with \(g(x) \leq g(x+y)\) (monotonicity); then \(\norm{x} = g(f_{i}(x))\) also norm: Monotonicity ensures \(\triangle\) ineq.</p>
+<p>So, sum/ multiples/ max of norms is a norm.</p>
+<p>Take \(\norm{}\): \(\norm{x}_{T} = \norm{Tx}\) also norm for non singular T.</p>
+<p>If vector space finite dimensional, \(\norm{.}, \norm{.}'\) equivalent: see vector function properties. So, if vector seq \((x_{k}) \to x\) wrt 1 norm, it converges to the same vector wrt another.</p>
+<h3 id="convexity-of-the-norm-function">Convexity of the norm function</h3>
+<p>Follows from homogeneity and \(\triangle\) ineq. \(\norm{\ga a+ (1- \ga)b} \leq \norm{\ga a} + \norm{(1- \ga)b} = \ga\norm{a} + (1- \ga)\norm{b}\).</p>
+<h3 id="the-closed-unit-ball">The closed unit ball</h3>
+<p>\(\set{x: \norm{x} = 1}\). This is closed and bounded, so compact; has non empty interior; is convex; is symmetric about the origin. Conversely, any region with these properties is unit ball B of the norm \(\norm{x} = 1/(\sup_t (tx \in B))\).</p>
+<h3 id="isometry-for-a-norm">Isometry for a norm</h3>
+<p>\(B: \norm{Bx} = \norm{x}\). Set of isometries form a group: isometry group. \why</p>
+<h3 id="equivalence-of-norms-in-finite-dimension">Equivalence of norms in finite dimension</h3>
+<p>\(\forall \norm{.}_1, \norm{.}_2: \exists a, b: \forall x: a\norm{x}_1 \leq \norm{x}_2 \leq b\norm{x}_1 \). \why So, one norm can be approximated by another within a factor of b/a.</p>
+<p>Any norm can be approximated by a quadratic norm within a factor of \(\sqrt{n}\).</p>
+<h4 id="comaprison-of-p-norms">Comaprison of p norms</h4>
+<p>\(\norm{x}<em>{\infty} \leq \norm{x}</em>{p} \leq \norm{x}<em>{1}\). \(\norm{x}</em>{1}\leq \sqrt{m}\norm{x}<em>{2}\): By induction. \(\norm{x}</em>{p} \leq m^{\frac{1}{p}}\norm{x}_{\infty}\).</p>
+<h2 id="p-norm-for-p-atleast-1">p norm for p atleast 1</h2>
+<p>\(\norm{x}<em>{p} = (\sum |x</em>{i}|^{p})^{\frac{1}{p}}\).</p>
+<h3 id="normness-proof-1">Normness proof</h3>
+<p>Only \(\triangle\) inequality proof needs some steps.</p>
+<p>(Minkowski):
+$$\norm{a + b}^{p} = \sum_{i} |a_{i} + b_{i}||a_{i} + b_{i}|^{p-1} \leq \sum_{i} |a_{i}||a_{i} + b_{i}|^{p-1} + \sum_{i} |b_{i}||a_{i} + b_{i}|^{p-1} \<br>
+\leq (\norm{a}_{p} + \norm{b}_{p})(\sum_{i}|a_{i} + b_{i}|^{(p-1)(\frac{p}{p-1})})^{\frac{p-1}{p}} = (\norm{a}_{p} + \norm{b}_{p})\frac{\norm{a + b}_p^{p}}{\norm{a + b}_p}$$.</p>
+<h3 id="the-closed-unit-ball-1">The closed unit ball</h3>
+<p>Progression of shapes: \(\norm{x}<em>{1}\) :rhombus, \(\norm{x}</em>{2}\) :circle, \(\norm{x}<em>{p}\), \(\norm{x}</em>{\infty}\): square. 1 norm is \(max_{i \in N} \norm{i}_{i}\).</p>
+<p>So, p norm not unitarily invariant. Take x; Ux, where U unitary; this is a combination of rotations and reflections; so projection Ux along various axes is different from that of x; so length differs: visualize with rhombus, square etc..</p>
+<h3 id="2-norm">2 norm</h3>
+<p>Aka euclidian norm, \(\norm{x}_{2} = \sqrt{x^{<em>}x}\). So, squared euclidian norm, \(\norm{x}_2^{2}\) corresponds to \(\dprod{a, b}\dfn b^{</em>}a\).</p>
+<p>For complex x: \(\norm{x}^{2} = \norm{Re(x)}^{2} + \norm{Im(x)}^{2}\).</p>
+<h4 id="add-orthogonal-vectors">Add orthogonal vectors</h4>
+<p>(Pythagoras theorem) If \(\dprod{x, y} = 0, \norm{x+y}_2^{2} = \norm{x}_2^{2} + \norm{y}_2^{2}\). Follows just from definition of the 2 norm.</p>
+<h3 id="1-infty-norms">1, infty norms</h3>
+<p>\(\norm{x}_{\infty}\): Max norm, aka Chebyshev norm. 1 norm: manhattan distance.</p>
+<h2 id="lp-norms-in-function-spaces-wrt-measure-p">Lp norms in function spaces Wrt measure p</h2>
+<p>\((\int_X |f(x)|^{p} dv)^{1/p} = (\int_X |f(x)|^{p} p(x)dx)^{1/p}\). This is well defined if \(f\) is p-power integrable.</p>
+<h2 id="p-in-01-non-norms">\(p \in (0,1)\) non-norms</h2>
+<p>Does not satisfy the triangle inequality. Not a norm, maybe a prenorm.</p>
+<h3 id="zero-not-a-norm">Zero (not a) norm</h3>
+<p>\(\lim_{p \to 0} \norm{x}_{p}^{p}\); if \(0^{0} \dfn 0\): \(\norm{x}_{0} = \sum_{i} x_{i}^{0}\): number of non zero elements.</p>
+<h2 id="weighted-p-norm">Weighted p norm</h2>
+<p>Aka quadratic norm.</p>
+<p>Corresponds to Weighted Inner product, W. \(A = W^{*}W\) hermitian +ve definite. If W a diagonal matrix: \(\norm{x}<em>{2,W}\), where W stretches x, shaped like ellipse. Sometimes writ as \(\norm{x}</em>{A}\).</p>
+<h2 id="non-norm-from-convex-function-f">Non-norm from convex function f</h2>
+<p>(Bregman divergence). \(d_f(x, y) = f(x) - f(y) - (x-y)^{T}\gradient f(y)\): Error at \(x\) in 1st order approximation of \(f\) rooted at y.</p>
+<p>Not necessarily a norm: in general, not symmetric. \(d_f(x, y) \geq 0\) from gradient inequality.</p>
+<p>If \(f(x) = \norm{x}_2^{2}: d_f = \norm{.}_2\).</p>
+<p>If \(f(x) = \sum_{i}x_i \log x_i - x_i\): with -ve entropy term, get (Kullback, Leibler) \(KL(x, y) = \sum x_i (\log \frac{x_i}{y_i} - x_i - y_i)\): has relative entropy term. For special case when applied to probability distrib vectors, see probability ref.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Norms </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Norms</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

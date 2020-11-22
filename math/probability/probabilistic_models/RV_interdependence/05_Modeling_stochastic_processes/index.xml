@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;05 Modeling stochastic processes on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/05_Modeling_stochastic_processes/</link>
+    <description>Recent content in &#43;05 Modeling stochastic processes on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/05_Modeling_stochastic_processes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>01 Stochastic process with state space T</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/05_Modeling_stochastic_processes/01_Stochastic_process_with_state_space_T/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/05_Modeling_stochastic_processes/01_Stochastic_process_with_state_space_T/</guid>
+      <description>Aka random process. T-valued random variable/ state sequence indexed by \(r\in R\) (often time): visualize as a time-series - a directed graph which is a straight line.
+Multiple coin toss processes Consider a sequence of coin tosses. Let \(X_i\) model the outcome of the i-th toss.
+Bernoulli process: iid bernoulli trials: the same coin is tossed multiple times, that is \(\forall i: X_i \distr p\). Resulting from such a process is the Binomial distribution for \(\sum_i X_i\).</description>
+    </item>
+    
+    <item>
+      <title>02 State transitions</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/05_Modeling_stochastic_processes/02_State_transitions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/05_Modeling_stochastic_processes/02_State_transitions/</guid>
+      <description>Many models often propose that behind the production of a sequence of observations, there are (possibly hidden/ latent) changes in internal state. They allow transition from one state to another to be stochastic.
+Let the state at time t be \(X_{t}\). Let \(V\) be the set of possible states.
+Assumptions about state transitions Dependence solely on prior state A model which assumes the Markov property described below is often convenient to represent states.</description>
+    </item>
+    
+    <item>
+      <title>03 Martingale \\(\seq{Z_{n}}\\) wrt filtration</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/05_Modeling_stochastic_processes/03_Martingale_seqZ_n_wrt_filtration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/05_Modeling_stochastic_processes/03_Martingale_seqZ_n_wrt_filtration/</guid>
+      <description>Problem Suppose that one observed RV \(\seq{Z_n}\) and a filtration or a series of events \(\seq{F_n}\), with the property that \(F_n \supseteq F_{n-1}\).
+Suppose further that: \(E[|Z_{n}|] &amp;lt; f(n) &amp;lt; \infty\), that \(Z_n\) is fully determined when \(F_n\) is observed, and \(E[Z_{n}|F_{n-1}] = Z_{n-1}\) (or \(E[Z_{n}|F_{n-1}] - Z_{n-1} = 0\)).
+This process is the martingale \(\seq{Z_n}\) wrt filtration \(\seq{F_n}\).
+Example The filtration can correspond to the observation of a sequence of random variables \(\seq{X_n}\).</description>
+    </item>
+    
+    <item>
+      <title>04 n-gram model</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/05_Modeling_stochastic_processes/04_n-gram_model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/05_Modeling_stochastic_processes/04_n-gram_model/</guid>
+      <description>Model Subsequence/ prefix probabilities: notation First, one models the probability \(Pr(w_n|w_{1:n-1})\) of a word \(w_n\) coming after \(n-1\) words \(w_{1:n-1}\).
+Occurrence near sentence terminals We want to use the notation \(w_n|w_{1:n-1}\), with \(n\) fixed, for considering the event where \(w_n\) appears after the string \(w_{k+1:n-1}\) appearing at the beginning of a sentence - distinct from the case where \(w_{1:k}\) is some specific string. We accomplish this by setting \(w_{1:k} = @^k\), where \(@\) represents a special &amp;lsquo;sentence terminal&amp;rsquo; word.</description>
+    </item>
+    
+    <item>
+      <title>05 Partially observed states</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/05_Modeling_stochastic_processes/05_Partially_observed_states/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/05_Modeling_stochastic_processes/05_Partially_observed_states/</guid>
+      <description>Observations, states \((X_i)\) are called features/ covariates/ predictor/ input/ observed variables. \(\seq{L_i}\) is the unobserved response/ state variable sequence. \(X_i\), being a partially dependent of \(L_i\), can be viewed as a partial observation of the state \(L_i\).
+The state space is \(ran(L_i)\), while the observation space is \(ran(X_i)\).
+Use These models are not only used for deriving models for \(f_X\), but also for determining the state sequence \(L\) given \(X\).</description>
+    </item>
+    
+    <item>
+      <title>06 Decision process</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/05_Modeling_stochastic_processes/06_Decision_process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/05_Modeling_stochastic_processes/06_Decision_process/</guid>
+      <description>Stochastic processes where state sequence partially depends on a sequence of actions taken by an agent are described in the Machine intelligence survey.</description>
+    </item>
+    
+  </channel>
+</rss>

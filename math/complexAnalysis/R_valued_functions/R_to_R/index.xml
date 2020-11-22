@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;R to R on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/</link>
+    <description>Recent content in &#43;R to R on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Differential</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/differential/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/differential/</guid>
+      <description>Definition Rate of change The differential function, aka derivative, is \
+\(f&amp;rsquo;(x) = \frac{df}{dx}= \lim_{\change x \to 0} \frac{f(x+\change x) - f(x)}{\change x}\), if the limit exists.
+Linear approximation view Hence, \(f(x + \change x) = f(x) + \change(x) f&amp;rsquo;(x)\), as \(\change x \to 0\). As the primary use of the differential function is to be able to make linear/ polynomial approximations to \(f\), one can view the differntial function as a measure of \(f(x + \change x) - f(x)\) as \(\change x \to 0\).</description>
+    </item>
+    
+    <item>
+      <title>Misc functions</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/misc_functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/misc_functions/</guid>
+      <description>Classification by dependence on parameters See probability ref.
+Recurrance equations Eg: \(a&amp;rsquo;h_{i+2}+b&amp;rsquo;h_{i+1}+c&amp;rsquo;h_{i}=0\) (Linear, homogenous). Get characteristic eqn by supposing \(h_{i} = tx^{i}\); Get roots and multiplicity: \((r_{1},2), (r_{2},1)\); Then, \(h_{i} = ar_{1}^{i} + bir_{1}^{i} + cr_{2}^{i}\); Solve for a, b, c with boundary conditions. Or, use telescoping sum.
+Polynomial P over field K Polynomial over field K has coefficients from K. Rational function: ratio of polynomials. For \(\perp\) polynomials, see Approx theory ref.</description>
+    </item>
+    
+    <item>
+      <title>N to R</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/N_to_R/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/N_to_R/</guid>
+      <description>Convergent sequences \((s_{n), (t_{n})\) in a field Also see Topology ref, properties noted in lin alg ref.
+Sums, products, quotients (sans 0 denominator) of convergent sequences are convergent.
+Boundedness Upper and lower bounds.
+Montonicity Monotone increasing and decreasing sequences.
+A monotone increasing sequence that is bounded above must converge: imagine points on real line; similarly monotone decreasing sequence that is bounded below.
+(Bolzano, Weierstrass): Every bounded sequence has a subsequence which converges: let M be the bound; either [-M, 0] or [0, M] has \(\infty\) elements; so use this repeatedly to find monotone, bounded subsequence; this converges.</description>
+    </item>
+    
+  </channel>
+</rss>

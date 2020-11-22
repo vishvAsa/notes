@@ -1,0 +1,108 @@
+cpu:
+                       AMD Ryzen 7 1800X Eight-Core Processor, 3329 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 2995 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 2075 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 1920 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 1847 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 1825 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 3215 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 2033 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 3607 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 2666 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 1893 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 1966 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 1825 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 1825 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 3000 MHz
+                       AMD Ryzen 7 1800X Eight-Core Processor, 2000 MHz
+keyboard:
+  /dev/input/event3    Alcor Micro Keyboard
+mouse:
+  /dev/input/mice      Logitech Marble Mouse (4-button)
+graphics card:
+                       nVidia GP107 [GeForce GTX 1050]
+sound:
+                       nVidia GP107GL High Definition Audio Controller
+                       AMD Family 17h (Models 00h-0fh) HD Audio Controller
+                       GN Netcom Jabra Biz 1900
+storage:
+                       AMD FCH SATA Controller [AHCI mode]
+                       AMD SATA controller
+network:
+  wlp3s0               Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)
+  enp5s0               Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+network interface:
+  wlp3s0               Ethernet network interface
+  lo                   Loopback network interface
+  enp5s0               Ethernet network interface
+disk:
+  /dev/sdb             Crucial_CT275MX3
+  /dev/sda             Samsung SSD 840
+partition:
+  /dev/sdb1            Partition
+  /dev/sdb2            Partition
+  /dev/sdb4            Partition
+  /dev/sda1            Partition
+usb controller:
+                       AMD USB Controller
+                       AMD Family 17h (Models 00h-0fh) USB 3.0 Host Controller
+bios:
+                       BIOS
+bridge:
+                       AMD Family 17h (Models 00h-0fh) PCIe GPP Bridge
+                       AMD 300 Series Chipset PCIe Port
+                       AMD Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 3
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 1
+                       AMD Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+                       AMD PCI bridge
+                       AMD Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+                       AMD FCH LPC Bridge
+                       AMD 300 Series Chipset PCIe Port
+                       AMD Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 6
+                       AMD Family 17h (Models 00h-0fh) Root Complex
+                       AMD Family 17h (Models 00h-0fh) Internal PCIe GPP Bridge 0 to Bus B
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 4
+                       AMD Family 17h (Models 00h-0fh) PCIe GPP Bridge
+                       ASMedia ASM1083/1085 PCIe to PCI Bridge
+                       AMD Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 2
+                       AMD 300 Series Chipset PCIe Port
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 0
+                       AMD Family 17h (Models 00h-0fh) Internal PCIe GPP Bridge 0 to Bus B
+                       AMD Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 7
+                       AMD 300 Series Chipset PCIe Port
+                       AMD Family 17h (Models 00h-0fh) Data Fabric: Device 18h; Function 5
+hub:
+                       Linux Foundation 2.0 root hub
+                       NEC HighSpeed Hub
+                       Linux Foundation 3.0 root hub
+                       Linux Foundation 2.0 root hub
+                       Linux Foundation 3.0 root hub
+memory:
+                       Main Memory
+unknown:
+                       FPU
+                       DMA controller
+                       PIC
+                       Keyboard controller
+  /dev/lp0             Parallel controller
+                       AMD Zeppelin/Raven/Raven2 PCIe Dummy Function
+                       AMD Zeppelin/Renoir PCIe Dummy Function
+                       AMD Family 17h (Models 00h-0fh) I/O Memory Management Unit
+                       AMD FCH SMBus Controller
+                       AMD Family 17h (Models 00h-0fh) Platform Security Processor
+                       Serial controller
+                       Logitech HD Webcam B910
+  /dev/input/event4    Alcor Micro Keyboard
+  /dev/input/event2    GN Netcom Jabra Biz 1900
+01: None 00.0: 10102 Main Memory
+  [Created at memory.74]
+  Unique ID: rdCR.CxwsZFjVASF
+  Hardware Class: memory
+  Model: "Main Memory"
+  Memory Range: 0x00000000-0x7d724bfff (rw)
+  Memory Size: 32 GB
+  Config Status: cfg=new, avail=yes, need=no, active=unknown

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Computer architecture on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/</link>
+    <description>Recent content in &#43;Computer architecture on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Display</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Display/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Display/</guid>
+      <description>Display screens Liquid Crystal displays tend to be more ergonomically friendly than CRT tube monitors.
+Quality Image quality Display screens vary in image quality parameters: screen size, maximum resolution: SVGA (800 x 600), XGA (1024 x 768), SXGA (1280 x 1024), or UXGA (1600 x 1200), contrast ratio.
+They also vary in refresh rate, in the case of images generated from projection, as in CRT monitors or projectors: low refresh rate results in flicker and eye strain - especially from typing distance.</description>
+    </item>
+    
+    <item>
+      <title>Input</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Input/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Input/</guid>
+      <description>Gaming input Motion detection Microsoft Kinect detects hand motions at a certain optimum distance using a camera - no external devices are required.
+Containment/ Size Computer case The case/ tower provides power-supply and cooling. Good cooling systems try to be noiseless - they rely on airflow or ensure that the fan speed is usually low.
+Size Computer&amp;rsquo;s processing and storage components are sometimes fit into the monitor or under keyboard in case of a notebook computer, or in a small case.</description>
+    </item>
+    
+    <item>
+      <title>Interfaces and networking</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Interfaces_and_networking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Interfaces_and_networking/</guid>
+      <description>Device interfaces Common standards are often used to connect a wide variety of device pairs.
+Universal serial bus USB is currently most popular. USB 3 enables superior data-transfer speeds.
+USB allows for a tiered star topology: so one can connect many devices to a particular device with a single usb wire branching out into many others. Power dissipation limits the extant to which this can be done.
+USB Plugs USB wires have 4 (sometimes 5) terminals arranged in various shapes.</description>
+    </item>
+    
+    <item>
+      <title>Number storage formats</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Number_storage_formats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Number_storage_formats/</guid>
+      <description>Design factors Words and bits Suppose \(b\) bits are available to store a certain type of number: this is usally expressed in terms of multiples of words (collection of \(w\) bits). Because binary logic is used for addressing and processing, \(w\) is generally a power of 2. In old days, it used to be \(w = 2^2\), now 64 bit words are common.
+Simplicity of computation logic Some representation formats require simpler and more efficient circuits for performing basic arithmetic operations than others.</description>
+    </item>
+    
+    <item>
+      <title>Parallel computers</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Parallel_computers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Parallel_computers/</guid>
+      <description>Architecture Possible 4 uses of multiple processing units were named by Flynn as single/ multiple instructions single/ multiple data-streams.
+Communication Shared memory vs message passing architectures. Can use shared memory abstraction over message passing, vice-versa.</description>
+    </item>
+    
+    <item>
+      <title>Procurement and maintenance</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Procurement_and_maintenance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Procurement_and_maintenance/</guid>
+      <description>Maintenance Fan vent cleaning In case of a laptop, the fan-vent needs to be cleaned periodically. CPU temperature can be monitored in the GUI using common applications.
+Battery If laptop is always connected, best to disconnect battery \chk.
+Vostro 1000 disassembly procedure Remove panel above keyboard. Disconnect keyboard, wires to monitor, trackpad. Remove screws in the front and in the back. Remove the panel from above the keyboard.
+Upgrades Understand needs In order to understand what needs to be change, it is good to understand resource limitations: is working memory low, or is the CPU too slow.</description>
+    </item>
+    
+    <item>
+      <title>Special computers</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Special_computers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Special_computers/</guid>
+      <description>Pocket computers Components These devices are very compact, and often combined with specialized equipment like ability to connect to certain mobile phone networks, GPS, gyroscopes, compasses, cameras, flash led&amp;rsquo;s, accelerometers. Such components often make single function devices much less attractive.
+Customizability The hardware customizability is often very limited; but communication interfaces (eg: bluetooth, card slots) enable expansion.
+OS The operating systems used are often not easily switched; but may be upgradeable or hacked in minor ways.</description>
+    </item>
+    
+    <item>
+      <title>Storage devices</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Storage_devices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/Storage_devices/</guid>
+      <description>Magnetic storage Unlike optical storage, magnetic storage is re-writable.
+Bus interface While SCSI has a processor integrated into the controller, SATA makes greater use of the system processor to serve that function; the former is costlier.
+Quality Hard disk drives differ mainly in speed, storage capacity, size, redundancy (RAID), error correction, shock resistance.
+Best and economical Areal density doubling every two to four years since their invention. So, even 1TB is economical.</description>
+    </item>
+    
+  </channel>
+</rss>

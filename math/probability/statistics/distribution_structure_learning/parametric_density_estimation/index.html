@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Parametric density estimation</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/parametric_density_estimation/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/parametric_density_estimation/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Parametric density estimation" />
+<meta property="og:description" content="Problem and solution ideals Density estimation using a distribution class Suppose that parameter \(t\) specifies the distribution \(f_t(x_r|x_{\lnot r})\), where \(x_{\lnot r}\) can be empty! Let \(T\) be parameter space spanned by such \(t\); it represents the class of distributions which can be specified in this form.
+Given finite data set \(\set{x^{(i)}}\), we want to approximate an unknown target distribution \(D(x_r|x_{\lnot r})\) which may not belong to this distribution family using \(T\)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/parametric_density_estimation/" />
+
+<meta itemprop="name" content="Parametric density estimation">
+<meta itemprop="description" content="Problem and solution ideals Density estimation using a distribution class Suppose that parameter \(t\) specifies the distribution \(f_t(x_r|x_{\lnot r})\), where \(x_{\lnot r}\) can be empty! Let \(T\) be parameter space spanned by such \(t\); it represents the class of distributions which can be specified in this form.
+Given finite data set \(\set{x^{(i)}}\), we want to approximate an unknown target distribution \(D(x_r|x_{\lnot r})\) which may not belong to this distribution family using \(T\).">
+
+<meta itemprop="wordCount" content="1276">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Parametric density estimation"/>
+<meta name="twitter:description" content="Problem and solution ideals Density estimation using a distribution class Suppose that parameter \(t\) specifies the distribution \(f_t(x_r|x_{\lnot r})\), where \(x_{\lnot r}\) can be empty! Let \(T\) be parameter space spanned by such \(t\); it represents the class of distributions which can be specified in this form.
+Given finite data set \(\set{x^{(i)}}\), we want to approximate an unknown target distribution \(D(x_r|x_{\lnot r})\) which may not belong to this distribution family using \(T\)."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/probability\/statistics\/distribution_structure_learning\/parametric_density_estimation\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/probability\/statistics\/distribution_structure_learning\/parametric_density_estimation.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Parametric density estimation</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Parametric density estimation">Parametric density estimation</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/probability/statistics/distribution_structure_learning/parametric_density_estimation.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="problem-and-solution-ideals">Problem and solution ideals</h2>
+<h3 id="density-estimation-using-a-distribution-class">Density estimation using a distribution class</h3>
+<p>Suppose that parameter \(t\) specifies the distribution \(f_t(x_r|x_{\lnot r})\), where \(x_{\lnot r}\) can be empty! Let \(T\) be parameter space spanned by such \(t\); it represents the class of distributions which can be specified in this form.</p>
+<p>Given finite data set \(\set{x^{(i)}}\), we want to approximate an unknown target distribution \(D(x_r|x_{\lnot r})\) which may not belong to this distribution family using \(T\). The approximation can be a weighted combination of combination of distributions in \(T\).</p>
+<h4 id="related-problems">Related problems</h4>
+<p>Note that estimating \(t\) which is good at predicting the value of \(x_r\) given \(x_{\lnot r}\) by doing \(h(x_{\lnot r}) = \max_{x_r} f_t(x_r|x_{\lnot r})\) is a separate problem, where a different estimation procedure which minimizes the classification error \(Pr(h(x_{\lnot r}) \neq x_r)\) (corresponding to the 0/1 classification loss) may be used.</p>
+<h3 id="solution-ideas">Solution ideas</h3>
+<p>Empirical risk minimization, for various forumulations of risk functions which in someway also incorporate prior belief about the best \(t\).</p>
+<h2 id="approximation-with-normal-distribution">Approximation with Normal distribution</h2>
+<p>Aka Laplace approximation. Suppose that we have the probability distribution \(p(x) = Z^{-1}f(x)\).</p>
+<h3 id="algorithm">Algorithm</h3>
+<p>Here, one finds a mode / strict local maximum \(x&rsquo;\) of the distribution \(p(x)\), which corresponds to a mode of \(f(x)\), using numerical techniques. Then, one creates a normal distribution \(N(\mean = x&rsquo;, \stddev)\) around this point.</p>
+<h4 id="2nd-order-approximation-of-log-f">2nd order approximation of log f</h4>
+<p>\(\log N(x&rsquo;, \covmatrix)\) is a quadratic function. So, we try to find \(\covmatrix\) such that \(\log N\) approximates the 2nd order approximation of \(\log f\).</p>
+<p>As \(\gradient f(x&rsquo;)= 0\), taking the quadratic approximation \(\log f(x) \approx \log f(x&rsquo;) + (f(x&rsquo;))^{-2} (x-x&rsquo;)^{T}\gradient^{2} f(x&rsquo;)(x - x&rsquo;)\). So, \(f(x) \approx f(x&rsquo;)exp((f(x&rsquo;))^{-2} (x-x&rsquo;)^{T}\gradient^{2} f(x&rsquo;)(x - x&rsquo;))\)</p>
+<p>The RHS can now be used to construct \(\covmatrix\). As \(x&rsquo;\) is a mode, \(-2(f(x&rsquo;))^{-2}\gradient^{2} f(x&rsquo;) \succ 0\) as expected.</p>
+<h3 id="properties">Properties</h3>
+<h4 id="estimating-z">Estimating Z</h4>
+<p>Z can be approximated to equal the normailizer of N, which is easily calculated. Note that knowledge of Z is not required to get the approximation \(N\).</p>
+<h4 id="non-uniqueness">Non-uniqueness</h4>
+<p>Different modes yield different approximate distributions.</p>
+<h2 id="log-loss-minimization">Log loss minimization</h2>
+<p>Aka Maximum likelihood estimation (MLE).</p>
+<h3 id="optimization-problem-estimate">Optimization problem, estimate</h3>
+<p>Likelihood function: \(L:T \to [0,1]\). \<br>
+\(L(t|\set{x^{(i)}}) = f_t(\set{x_r^{(i)}}|\set{x_{\lnot r}^{(i)}}) = \prod f_t(x^{(i)}|x_{\lnot r}^{(i)})\).</p>
+<p>\(\hat{t} = argmax_{t} L(t|x)\). This may be a biased estimator; but is always a sufficient statistic, as it is defined on \(L(t|x)\). Often, an equivalent optimization problem: minimizing log-likelihood is used.</p>
+<h4 id="functional-invariance-property">Functional Invariance property</h4>
+<p>If you want to estimate \(g(t)\), \(g(\hat{t})\) is the MLE of g(t). From definition.</p>
+<h4 id="avg-log-likelihood-function">Avg Log likelihood function</h4>
+<p>Take \(l(t|\set{x^{(i)}}) = \ln(L(t|\set{x^{(i)}}))\), and do \(\min_t -n^{-1}l(t|X)\). Useful as often \(L\) and distribution of X are from exponential family.</p>
+<p>Example: In case of \(N(\mean, \stddev^{2})\), \(\ln f(\set{x^{(i)}}|\mean, \stddev^{2}) = -\frac{1}{2\stddev^{2}}\sum(x^{(i)} - \mean)^{2} - \frac{N}{2}\ln (\frac{\stddev^{2}}{2 \pi})\); by maximization, MLE is \(\mean = \bar{x}, \stddev^{2}= N^{-1}(x^{(i)} - \mean)^{2}\): because biased estimator is used, \(N^{-1}(x^{(i)} - \mean)^{2}\) often underestimates.</p>
+<h3 id="other-perspectives">Other perspectives</h3>
+<h4 id="as-log-loss-risk-minimization">As log loss risk minimization</h4>
+<p>The negative log-likelihood of a single sample-point, \(-\log L(t|x)\), is also called the &lsquo;log loss&rsquo; in the general decision theoretic framework. So, by doing maximum likelihood estimation, we are actually minimizing empirical log-loss.</p>
+<h4 id="priors-as-regularizers">Priors as regularizers</h4>
+<p>If you add regularizer \(r(t)\), you are imposing a prior distribution on \(t\); so you are doing bayesian inference. The optimization problem becomes: \(\min l(t|X) + r(t)\).</p>
+<h4 id="as-empirical-code-length-divergence-minimization">As empirical code-length divergence minimization</h4>
+<p>Let \cF be a class of distributions, \<br>
+let \(D\) be the actual distribution of \(X\). In the limit where $n \to
+\infty\(, maximum likelihood estimation tries to find \)\argmin_{F \in \cF} E_D[- \log F(X)]\(. This is the same problem as finding \)\argmin_{F \in \cF} E_D[- \log F(X)] - E_D[-\log D(x)] = \argmin_{F \in \cF} KL(F||D)\(. So we are finding a member of \cF, with minimum code-length divergence to \)D$.</p>
+<h3 id="derivatives-of-log-likelihood">Derivatives of log likelihood</h3>
+<h4 id="score-function--sensitivity-of-log-likelihood">Score function : Sensitivity of log Likelihood</h4>
+<p>\(V(t, X) = \gradient_t{\log L(t|X)} =  L(t|X)^{-1} \gradient_t L(t|X)\): variability of \(L(t|X)\) normalized by \(L(t|X)\): like conditioning in numerical analysis.</p>
+<h5 id="mean-wrt-x">Mean wrt X</h5>
+<p>Under some regularity conditions, \</p>
+<p>$$E_X[V(t, X)] = \int_x (f_{X|T}(x|t)^{-1} \gradient_t f_{X|T}(x|t)) f_{X|T}(x|t))dx =\<br>
+\gradient_t \int_x f_{X|T}(x|t)) dx = \gradient_t 1 = 0$$.</p>
+<h4 id="variance-wrt-x-of-sensitivity-score-of-likelihood">Variance wrt X of sensitivity score of likelihood</h4>
+<p>Aka Fisher Information matrix. As \(E_X[V(t, X)] = 0\), \(I(t) = E_X[V(t, X)^{2}] = E_X[(\gradient_t{\log L(t|X)})^{2} | t]\). Measures information about t in the observable RV X. If I(t) is high for RV X, then the absolute value of the sensitivity score is high in expectation.</p>
+<p>If conditions like those in \(E_X[V(t, X)] = 0\) hold,\ \(E_X[(f_{X|T}(x|t))^{-1} \gradient_t^{2} f_{X|T}(x|t)] = 0\) will hold, and so \(I(t) = -E_X[(\gradient_t^{2}{\log L(t|X)})^{2} | t]\).</p>
+<h3 id="computational-cost">Computational cost</h3>
+<p>If this optimization problem can be accurately and efficiently: great!</p>
+<h4 id="computing-partition-function">Computing partition function</h4>
+<p>Suppose only \(f(x, t)\) proportional to th epdf \(f_t(x_r|x_{\lnot r})\) is specified. Doing \<br>
+\(\max_r \frac{f(x, t)}{\sum_y f(y, t)}\) is not the same as doing \(\max_r f(x, t)\), as the normalizer (aka partition function) \(Z(t) = \sum_y f(y, t)\), even though independent of \(x\),  varies with \(t\).</p>
+<p>If range of \(x\) is huge, and Z(t) does not have a closed-form solution, computing \(Z(t) = \sum_y f(y, t)\) can become costly and MLE is impractical.</p>
+<h5 id="ease-in-case-of-conditional-probabilities">Ease in case of conditional probabilities</h5>
+<p>Suppose that \(range(X_t)\) is actually small. Here, rather than having to sum over the entire range of \(X\),  which may be \(range(x_r)^{|V|}\) in size, we just sum over \(range(x_r)\) values to get \(Z(t) = \sum_y f(y, t)\).</p>
+<h4 id="pseudolikelihood-maximization">Pseudolikelihood maximization</h4>
+<p>In case finding/ maximizing \(f_t(x_r|x_{\lnot r})\) is hard due to the need to compute \(Z(t)\), but finding \(f_{X_{r_j}|X_{\lnot r_j}}\) is easy. So we can consider maximizing the pseudo-likelihood function \(\prod_{r_j} f_{X_{r_j}|X_{\lnot r_j}}\) instead.</p>
+<h2 id="non-uniform-model-for-pt">Non uniform model for P(t)</h2>
+<p>Aka Maximum a posteriori (MAP).</p>
+<h3 id="objective-estimate">Objective, estimate</h3>
+<p>Posterior probability of model considering observations \(\propto\) likelihood of observations given the model \(\times\) prior probability of model.</p>
+<p>So, solve : \(argmax_{t} f_{X|T}(x|t)f_T(t)\), or \(argmax_{t} f_X(x)\) + regularizer.</p>
+<h3 id="relation-to-mle">Relation to MLE</h3>
+<p>MLE is a special case: it ignores prior distribution/ assumes it are uniform. So, often superior MLE. Eg: In MLE, upon seeing 4 H in coin tosses, you would conclude that the coin will always come up H.</p>
+<p>The MLE optimization objective with a regularizer is a case of MAP, where the regularizer implitly defines a prior.</p>
+<h3 id="defining-prior-distributions">Defining prior distributions</h3>
+<p>Often, the prior distribution on \(T\) may be specified, and the regularizer associated with the risk function may be derived thence.</p>
+<h4 id="hyperparameters-for-prior-distribution-of-parameters">Hyperparameters for prior distribution of parameters</h4>
+<p>\(f_{T|C}\) may have hyperparameters C, which may inturn come from distribution \(f_{C|D}\) with hyperparameters \(D\). Eventually must fix (hyper)parameter, perhaps with n-fold cross validation.</p>
+<p>Eg: Can have hyper-parameters: \(\stddev\) for label noise , \(\ga\) for prior over \(\param\).</p>
+<p>These are akin to parameters, but of a special kind.</p>
+<h4 id="conjugate-prior-for-a-likelihood">Conjugate prior for a likelihood</h4>
+<p>You got distribution family \(f_{X|T=t}\). Conjugacy: If \(f_{X|T=t}\) and \(f_T(t)\)\<br>
+have the same form, finding \(Pr(t|X) = f_{(X_{i})|t}((x_i))f_T(t) =  \prod_{i} f_{X|T=t}(x_i)f_T(t)\) simpler. Then can update these probabilities with each incoming observation \(X_{i}\) easily.</p>
+<p>Eg: For k-categorical distribution: \(Pr(X_{j}=x|p) = \prod_{i=1}^{k} p_{i}^{x_{i}}\), dirichlet distribution is the conjugate: \(f_{P|A=a}(p) = \prod p_{i}^{a_{i}-1}\) for hyperparameters a.</p>
+<h2 id="model-combination">Model combination</h2>
+<p>Aka Fully Bayesian approach. We may first determine posterior distribution over parameters \(f_{T|S}\) in the training stage, where \(S\) is the training set. We may then arrive at the model \(f_{L|X, S} = \int_{t \in T} f_{L|X, T=t}f_{T|S}(t)\).</p>
+<p>So you use an ensemble of hypothesis distribution models.</p>
+<h2 id="information-criteria">Information criteria</h2>
+<p>Bayesian/ Schwartz information criterion (BIC): \(\min 2^{-1}L(D, t) + p \log n\), where \(p\) is the number of parameters needed to specify \(t\), and \(n\) is the number of samples.</p>
+<h3 id="use">Use</h3>
+<p>These are good if certain &lsquo;Gaussianness&rsquo; assumptions hold, otherwise, the result of using them can be misleading. They allow us to pick \(t\) without having to, for example, do cross-validation, which would have been necessary if \(\min L(D, t) + l r(t)\) were used instead.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Parametric density estimation </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Parametric density estimation</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

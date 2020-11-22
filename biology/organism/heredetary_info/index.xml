@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Heredetary info on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/biology/organism/heredetary_info/</link>
+    <description>Recent content in &#43;Heredetary info on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/biology/organism/heredetary_info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genetic testing</title>
+      <link>file:///storage/emulated/0/notesData/notes/biology/organism/heredetary_info/genetic_testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/biology/organism/heredetary_info/genetic_testing/</guid>
+      <description>Genotyping services  Comparison of features among Ancestry.com, 23andme, FamilyTreeDNA, MyHeritage, Genes for Good, WeGene (China), LivingDNA (UK) at snpedia.  Genome sequencing services  Genos Research, Full Genomes, Veritas, Illumina, Helix, Dante Labs compared at snpedia.  Analysis services  Promethease here. DNA.land .  </description>
+    </item>
+    
+  </channel>
+</rss>

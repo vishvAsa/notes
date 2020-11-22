@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | 1 Problem structure</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/optimization/1_problem_structure/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/optimization/1_problem_structure/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="1 Problem structure" />
+<meta property="og:description" content="The problem \(\min f_{0}(x): V \to F\) subject to constraints \(f_{i}(x) \leq b_{i}\). Vector \(x\) is optimization variable of d dimensions. \(f_0\) is optimization fn. \(b_i\) are limits/ bounds for constraints.
+Standard (primal) form \(\min_x f_{0}(x): \set{f_{i}(x) \leq 0}, \set{h_{i}(x) = 0} \): all are \(V \to F\) functionals.
+Explicit constraints \(f_i\) and \(h_i\) are explicit constraints. Problem is unconstrained if it has no explicit constraints.
+Implicit constraints \(x \in D = \inters dom(f_i) \inters dom(h_i)\)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/optimization/1_problem_structure/" />
+
+<meta itemprop="name" content="1 Problem structure">
+<meta itemprop="description" content="The problem \(\min f_{0}(x): V \to F\) subject to constraints \(f_{i}(x) \leq b_{i}\). Vector \(x\) is optimization variable of d dimensions. \(f_0\) is optimization fn. \(b_i\) are limits/ bounds for constraints.
+Standard (primal) form \(\min_x f_{0}(x): \set{f_{i}(x) \leq 0}, \set{h_{i}(x) = 0} \): all are \(V \to F\) functionals.
+Explicit constraints \(f_i\) and \(h_i\) are explicit constraints. Problem is unconstrained if it has no explicit constraints.
+Implicit constraints \(x \in D = \inters dom(f_i) \inters dom(h_i)\).">
+
+<meta itemprop="wordCount" content="3113">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="1 Problem structure"/>
+<meta name="twitter:description" content="The problem \(\min f_{0}(x): V \to F\) subject to constraints \(f_{i}(x) \leq b_{i}\). Vector \(x\) is optimization variable of d dimensions. \(f_0\) is optimization fn. \(b_i\) are limits/ bounds for constraints.
+Standard (primal) form \(\min_x f_{0}(x): \set{f_{i}(x) \leq 0}, \set{h_{i}(x) = 0} \): all are \(V \to F\) functionals.
+Explicit constraints \(f_i\) and \(h_i\) are explicit constraints. Problem is unconstrained if it has no explicit constraints.
+Implicit constraints \(x \in D = \inters dom(f_i) \inters dom(h_i)\)."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/optimization\/1_problem_structure\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/optimization\/1_problem_structure.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> 1 Problem structure</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="1 Problem structure">1 Problem structure</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/optimization/1_problem_structure.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="the-problem">The problem</h2>
+<p>\(\min f_{0}(x): V \to F\) subject to constraints \(f_{i}(x) \leq b_{i}\). Vector \(x\) is optimization variable of d dimensions. \(f_0\) is optimization fn. \(b_i\) are limits/ bounds for constraints.</p>
+<h3 id="standard-primal-form">Standard (primal) form</h3>
+<p>\(\min_x f_{0}(x): \set{f_{i}(x) \leq 0}, \set{h_{i}(x) = 0} \): all are \(V \to F\) functionals.</p>
+<h4 id="explicit-constraints">Explicit constraints</h4>
+<p>\(f_i\) and \(h_i\) are explicit constraints. Problem is unconstrained if it has no explicit constraints.</p>
+<h4 id="implicit-constraints">Implicit constraints</h4>
+<p>\(x \in D  = \inters dom(f_i) \inters dom(h_i)\).</p>
+<h4 id="optimal-value">Optimal value</h4>
+<p>\(p^{*} = \inf \set{f_{0}(x): f_{i}(x) \leq 0, h_j(x) \leq 0 \forall i, j}\). \(p^{*} = \infty\) if problem is infeasible, or no \(x\) satisfies constraints. \(p^{*} = - \infty\) if it is unbounded below.</p>
+<h3 id="equivalent-formulations">Equivalent formulations</h3>
+<h4 id="epigraph-formulation">Epigraph formulation</h4>
+<p>\(\min_{x,t} t: f_{0}(x) \leq t, \set{f_{i}(x) \leq 0}, \set{h_{i}(x) = 0} \): all are \(V \to F\) functionals.</p>
+<h4 id="linear-equiality-constraints">Linear equiality constraints</h4>
+<p>Got \(\min_x f_{0}(x): \set{f_{i}(x) \leq 0}, Ax-b = 0\). Take H which spans N(A), particular solution to Ax -b =0, \(x_0\). Then, can rewrite as: \(\min_v f_{0}(Hv + x_0): \set{f_{i}(Hv + x_0) \leq 0}\).</p>
+<h4 id="augmented-slack-form">Augmented/ Slack form</h4>
+<p>Replace inequality constraints \(\set{f_{i}(x) \leq 0}\) with \(f_i(x) + s_i \leq 0; s_i \geq 0\).</p>
+<h3 id="conic-inequalities-constraints">Conic (in)equalities constraints</h3>
+<p>\(\min_x f_{0}(x): \set{f_{i}(x) \preceq_{K_i} 0}, \set{h_{i}(x) = 0} \). Constraints are specified using conic (in)equalities.</p>
+<h3 id="special-cases">Special cases</h3>
+<h4 id="feasibility-problem">Feasibility problem</h4>
+<p>\(\min 5.5\): \(h(x) = 0, f(x) \leq 0\).</p>
+<h3 id="perturbed-problem">Perturbed problem</h3>
+<p>Replace constraints \(f(x) \leq 0, h(x) = 0\) with \(f(x) \leq u, h(x) = v\) to get problems parametrized by u, v; Denote optimum by \(p^{*}(u, v)\). Now can study sensitivity of problem to perturbations.</p>
+<p>Large \(u_i\) implies loosening constraint \(f_i\); similarly constraints can be tightened. How will the optimum change in response?</p>
+<h2 id="the-solution">The solution</h2>
+<h3 id="feasible-region">Feasible region</h3>
+<p>Feasible region D satisfies all constraints.</p>
+<h4 id="active-inactive-constraints-at-x">Active, inactive constraints at x</h4>
+<p>Active constraints: \(\set{h_i(x) = 0}\), and \(\set{f_i: f_i(x) = 0}\) at \(x\). Inactive constraints: \(f_i(x) &lt; 0\) at \(x\).</p>
+<h5 id="strict-feasibility">Strict feasibility</h5>
+<p>x is strictly feasible if \(x \in int(D)\): ie all ineqalities \(f_i(x) &lt; 0\) hold strictly.</p>
+<h4 id="active-constraints-and-their-gradient">Active constraints and their gradient</h4>
+<h5 id="constraint-surface-gradient">Constraint surface, gradient</h5>
+<p>The level set \(h_i(x) = 0\) is a d-1 dimensional (possibly closed) surface. For any \(x\) in this constraint surface, \(\gradient h_i(x) \perp\) the tangent to \(\set{x: h_i(x) = 0}\).</p>
+<h5 id="direction-of-the-gradient">Direction of the gradient</h5>
+<p>Consider level-set \(f_i(x) = 0\). \(\gradient f_i(x)\) will be oriented towards increasing \(f_i(x)\), that is, away from the interior of \(\set{x: f_i(x) \leq 0}\). See derivatives of functionals section in vector spaces survey.</p>
+<h5 id="intersection-of-constraint-surfaces">Intersection of constraint surfaces</h5>
+<p>So, for any \<br>
+\(x:h_i(x) = 0 \forall i\), \(\sum l_i \gradient h_i(x) \perp\) the tangent to \(\set{x: h_i(x) = 0 \forall i}\).</p>
+<p>Want \(\min f_0(x)\) in this contour (constraint surface); or find \(\inters\) of constraint surface with the smallest contour of \(f_0\).</p>
+<h3 id="optimality-criteria">Optimality criteria</h3>
+<h4 id="optimal-x">Optimal x</h4>
+<p>\(x^{<em>}\) is optimal if \(f_0(x^{</em>}) = p^{*}\). Similarly, locally optimal \(x\) is also defined: optimality when \(x\) constrained to some small ball in feasible set.</p>
+<h4 id="connection-with-gradient">Connection with gradient</h4>
+<p>x optimal iff it is feasible and \(\gradient f_0(x)^{T}(y-x) \geq 0 \forall y\) feasible.</p>
+<h4 id="unconstrained-fn">Unconstrained fn</h4>
+<h5 id="differentiable-f">Differentiable f</h5>
+<p>If f differentiable, \(x\) is a local minimum only if, \(\forall y \in N_\eps(x): \gradient_{(y-x)}f(x) = \dprod{(y-x), \gradient f(x)} \geq 0\). Similar case for local maxima.</p>
+<p>So, \(x\) is a local extreme value only if \(\gradient f(x) = 0\): else, could move a little bit and decrease/ increase f(x). \(x: \gradient f(x) = 0\) is a critical point.</p>
+<h6 id="solving-for-x">Solving for x</h6>
+<p>Conditions like \(\gradient f(x) + l\frac{b+x}{\norm{b+x}} = 0\) need some clever algebra. Example, try the change of variables \(e = b+x\) to simplify the above.</p>
+<h5 id="local-extreme-point">Local extreme point</h5>
+<p>Using 2nd order expression for \(f(x + u) = f(x) + u^{T}D^{2} f(x+su)u\); so if \(D^{2} f(x) \succeq 0\), \(x\) is minimum; if \(D^{2} f(x) \preceq 0\), \(x\) is a maximum; else \(x\) is a saddle point.</p>
+<h5 id="extension-to-convex-non-differentiable-f">Extension to convex non-differentiable f</h5>
+<p>Take subdifferential \(\subdifferential f\); \(x\) is an extreme point only if \(0 \in \subdifferential f\), as it implies that \(f(x+d) \geq f(x)\).</p>
+<h4 id="gradient-of-objective-the-active-constraint-surface">Gradient of objective, the active constraint surface</h4>
+<p>Suppose that optimal \(x\) occurs on the active constraint surface. What is the relationship of \(\gradient f_0(x)\) with \(\gradient h_i, \set{\gradient f_j}\), where the latter is the set of active constraints?</p>
+<p>\(\gradient f_0(x)\) \(\perp\) to constraint surface at optimal \(x\): else could move short distance along contour and decrease \(f\). In other words, if you take any curve \(g:R \to R^{n}\) in the constraint surface, passing through \(x\), \(f_0(g(t))\) would attain a minimum when \(g(t) = x\); so can apply \(\gradient f_0(g(t)) = \gradient f_0(x) Dg(t)= 0\) for any such curve \(g\); so \(\gradient f_0(x) \perp\) tangent to the active constraint surface at \(x\).</p>
+<p>So, want to achieve \(\gradient f_0(x) + \sum_i m_i \gradient h_i(x) + \sum_j l_j \gradient f_j(x) = 0\).</p>
+<h6 id="extension-to--non-differentiable-f">Extension to  non-differentiable f</h6>
+<p>The above reasoning and optimality condition can be generalized to non differentiable \(f_i(x)\): we just need to interpret \(\gradient f_i \in \subdifferential f_i(x)\). If this condition were violated, we could still move slightly along \(\gradient f_0(x)\) and reduce the objective, while staying in the feasible region.</p>
+<h5 id="direction-in-case-of-active-ineq-constraints">Direction in case of active ineq constraints</h5>
+<p>If \(x\) is optimal, as \(f_0(x)\) is being minimized, \(\gradient f_0(x)\) - the direction of increasing \(f_0\)- points towards the interior of the constraint surface; unlike \(\gradient f_i(x)\).</p>
+<p>So, \(l_j \geq 0\) for active inequality constraints. \(\gradient f_0\) is not constrained in this manner by inactive inequality constraints: So, for all inactive \(f_i(x)\): can use corresponding \(l_i = 0\).</p>
+<p>As earlier, this condition and the reasoning behind it can be generalized to non-differentiable convex \(f_i\).</p>
+<h5 id="general-condition">General condition</h5>
+<p>\(\gradient f_0(x) + \sum_i m_i \gradient h_i(x) + \sum_i l_i \gradient f_i(x) = 0\), with \(l_i \geq 0\), \(h(x) = 0, f(x) \leq 0\).</p>
+<p>Equivalently, \(D f_0(x) + \sum_i m_i Dh_i(x) + \sum_i l_i Df_i(x) = 0\). \exclaim{This can be used when \(f\), h are matrix functionals, as in SDP&rsquo;s!}</p>
+<h6 id="extension-to-convex-non-differentiable-f-1">Extension to convex non-differentiable f</h6>
+<p>Take subdifferential \(\subdifferential f_i\); \(x\) is an extreme point in the feasible region only if the general condition holds, using the notation \(\gradient f_i(x) \in \subdifferential f_i(x)\). Reasons for this were explained elsewhere.</p>
+<h5 id="optimality-in-special-cases">Optimality in special cases</h5>
+<p>If problem is constrained only by linear equalities \(Ax = b\), you get the condition: \(\gradient f_0(x) + A^{T}m = 0\).</p>
+<h4 id="sufficiency-for-local-optima">Sufficiency for local optima</h4>
+<p>Consider \(x&rsquo;\), a local optimum. \(x&rsquo;\) is a local optimum iff the optimality condition holds. So, can enumerate feasible \(x&rsquo;\) which satisfy the optimality conditions, and pick the lowest to be the global optimum!</p>
+<h4 id="conic-inequality-constrained-problems">Conic inequality constrained problems</h4>
+<p>Some constraint qualifications, like Slater&rsquo;s conditions for convex programs, guarantee strong duality. So, \(\exists l^{*} \succeq_{K^{*}} 0, m^{*}: g(l^{*}, m^{*}) = \inf_x L(x, l^{*}, m^{*}) = f_0(x^{*})\). If L is differentiable, this yields the optimality criterion: \(\gradient_x L(x, l, m) = 0, h(x) = 0, f(x) \prec 0\).</p>
+<h3 id="general-strategies">General strategies</h3>
+<p>For solution strategies for particular cases, like linear, quadratic, convex, non-convex programming: see elsewhere.</p>
+<h4 id="hardness-of-finding-global-optimum">Hardness of finding global optimum</h4>
+<p>In general, there are many local minima. Even when you have an expression for f(x), listing its minima is often not possible with analytic methods. Eg: f&rsquo;(x) may be a quintic polynomial, for which there is no closed form expression for the roots.</p>
+<p>In general, cannot find a global optimum in reasonable time: So, one must be satisfied with a local optimum or search for a long time.</p>
+<p>Only in certain special cases, you can get arbitrarily close to the global optimum in reasonable time.</p>
+<h4 id="bisection-method-using-feasability-solvers">Bisection method: using feasability solvers</h4>
+<p>Take problem in epigraph form. \(\min_{x,t} t: f_{0}(x) \leq t, \set{f_{i}(x) \leq 0}, \set{h_{i}(x) = 0} \). For any fixed t, this becomes a feasability problem. Can use binary search to find the lowest value of \(t\) for which the feasability problem is satisfied.</p>
+<p>Can do multi-parameter bisection similarly, when many parameters specify the objective.</p>
+<h2 id="constraints-in-the-objective">Constraints in the objective</h2>
+<h3 id="constrained-and-unconstrained-formulations-equivalence">Constrained and unconstrained formulations: equivalence</h3>
+<h4 id="lagrangian-functional">Lagrangian functional</h4>
+<p>The Lagrangian functional \dfn \(L(x, l, m) = f_{0}(x) + \sum m_{i}h_{i}(x) + \sum l_{j}f_{j}(x)\).</p>
+<h5 id="definition-motivations">Definition motivations</h5>
+<p>you can rewrite the constrained optimization problem in the standard form as an unconstrained optimization problem. Also, you can define the dual problem.</p>
+<h4 id="unconstrained-program-from-constrained-problem">Unconstrained program from constrained problem</h4>
+<p>As seen while considering the geometry of the problem, optimality criterion: \(\gradient f_0 + \sum l_i&rsquo; \gradient f_i + \sum m_i&rsquo; \gradient h_i = 0\) for certain \(l&rsquo;\geq 0, m&rsquo;\), where \(\gradient f_i\) are represent subgradients in the case of convex non-differentiable \(f_i\).</p>
+<p>So, take \(L(x, l&rsquo;, m&rsquo;) = f_{0}(x) + \sum m_{i}&lsquo;h_{i}(x) + \sum l_{j}&lsquo;f_{j}(x)\) for this \(l&rsquo;, m&rsquo;\); see that the optimality criterion is satisfied when \(\gradient_x L(x, l&rsquo;, m&rsquo;) = 0\).</p>
+<p>So, there exists an equivalent unconstrained problem \(\min_x L(x, l&rsquo;, m&rsquo;)\) for every constrained optimization problem.</p>
+<p>This analysis holds for conic (in)equality constrained problems too.</p>
+<h5 id="objective---constraint-tradeoff">Objective - constraint tradeoff</h5>
+<p>\(L(x, l, m)\) looks like the scalarized form of a vector optimization problem, with \(l\) and \(m\) representing the tradeoff between the various parts of the objective.</p>
+<h4 id="lagrangian-multipliers-and-tightness-of-constraints">Lagrangian multipliers and tightness of constraints</h4>
+<p>\(l, m\) are called lagrangian multipliers.</p>
+<p>Suppose that \(f_i(x) \leq 0\) is changed to \(f_i(x) \leq 5\): \(f_i\) now allows a greater degree of freedom, so minimizing \(f_i\) is now a less critical part of the objective. Similarly, Consider any inactive constraint \(f_i\): the corresponding multiplier will be 0.</p>
+<p>Also explains why \(l_i \geq 0\) should hold for the problem \(\min_x L(x, l, m)\) to make sense: higher values of \(f_i\) should be penalized.</p>
+<h4 id="constrained-program-from-unconstrained-problem">Constrained program from unconstrained problem</h4>
+<p>Consider the problem \(\min_x L(x, l, m)\) for \(l\geq 0\). Considering the continuous relationship \(c()\) between \(l_i\) and the tightness of constraints \(f_i(x) \leq c(l_i)\), we can conclude that there is an constrained problem equivalent for every unconstrained problem.</p>
+<h2 id="dual-problem">Dual problem</h2>
+<h3 id="dual-functional">Dual functional</h3>
+<h4 id="definition">Definition</h4>
+<p>Take \(g(m, l) = \inf_{x} L(x, m, l)\). For convex L(), do this by setting \(\gradient_x L(x, m, l) = 0\).</p>
+<p>\(g\) is always concave: inf of linear functions in \(m\) and l.</p>
+<h5 id="uniqueness">Uniqueness</h5>
+<p>Observe that optimization problems differing only in RHS of equality and inequality constraints have distinct lagrangian functionals, and thence distinct dual functionals.</p>
+<h4 id="connection-with-conjugate-of-the-objective">Connection with conjugate of the objective</h4>
+<h5 id="linear-constraints-case">Linear constraints case</h5>
+<p>Consider \(\min f_0(x): Ax \leq b, Cx = d\). \(g(m, l) = -f_0^{*}(-A^{T}l - C^{T}m) - b^{T}l - d^{T}m\).</p>
+<p>This holds in many other cases too. So, simplifies derivation of dual if conjugate is known. Also, simplifies derivation of the conjugate if the dual is known.</p>
+<h4 id="as-intercepts-of-supporting-hyperplane-to-an-image-of-the-domain">As intercepts of supporting hyperplane to an image of the domain</h4>
+<p>Consider \(G = \set{(f(x), f_0(x)) \forall x \in dom (f_0) }\). Then, \(g(l, m) = \inf_{(u, t) \in G} (t + l^{T}u) = \inf_x L(x, l, m)\). \(t + l^{T}u = k\), for fixed k is a hyperplane. So, for fixed l, m: the hyperplane \(l^{T}u + t = g(m,l)\) is the supporting hyperplane for G; and g(m, l) is the intercept of this hyperplane on the \(f_0\) axis. \exclaim{Interpretation fails if hyperplane is vertical!} This is used in proof of slater&rsquo;s condition.</p>
+<p>As we are interested in \(f(x) &lt; 0\), we consider only supporting hyperplanes which support G in that half-space. The convex dual problem tries to find the top intercept of all hyperplanes.</p>
+<p>This view of dual variables is useful in proving strong duality from constraint qualifications like \(x \in relint(F)\), where F is feasible set.</p>
+<h5 id="epigraph-view">Epigraph view</h5>
+<p>Can consider \(G&rsquo; = \set{(u, v): \exists x \in dom(f_0): f(x) \leq u, f_0(x) \leq v}\); so \(G \subseteq G&rsquo;\).</p>
+<h4 id="for-perturbed-problem">For perturbed problem</h4>
+<p>\(g&rsquo;(m, l) = g(m, l) - u^{T}l - m^{T}v\).</p>
+<h4 id="lower-bounds-on-solution-to-the-primal">Lower bounds on solution to the primal</h4>
+<p>\(g(m, l) \leq L(x, m, l) \leq f_0(x)\) for all dual feasible \(m\) and l and primal feasible \(x\); as \<br>
+\(\sum m_{i}h_{i}(x) = 0; \sum l_{j}f_{j}(x) \leq 0\): as \(l \geq 0, f(x) \leq 0\).</p>
+<p>So, as \(x^*\) is primal feasible, \(\forall l \geq 0\): \(g(m, l) \leq f_0(x^{*}) = p^{*}\).</p>
+<p>Good way of showing if the problem is infeasible: \(d^{*} = \infty\).</p>
+<p>\exclaim{Applies to the case of conic inequalities}: just use the fact that \(l \succeq_{K^{*}}0\) to see \(l^{T}f_i(x) &lt; 0\).</p>
+<h3 id="convex-dual-problem">Convex Dual problem</h3>
+<p>\(\max g(m, l) : l \geq 0\). Often, implicit constraint \(m, l \in dom(g)\) made explicit.</p>
+<p>Generalizable to primals constrained by conic inequalities: just use \(l \succeq_{K^{*}} 0\), using dual of the cone K used to specify conic inequality constraints f().</p>
+<p>Gives information about the sensitivity of the solution to perturbations in the input.</p>
+<p>Solution notation: \(m^{<em>}, l^{</em>}\), optimal value: \(d^{*}\).</p>
+<h4 id="picking-the-right-primal">Picking the right primal</h4>
+<p>Equivalent formulations of the primal can lead to very different duals. Some duals can be hard to analyze, or useless (eg: constant); so reformulation of the primal (eg: by making implicit constraints explicit or vice versa) is a good trick.</p>
+<h4 id="as-finding-top-intercept-of-supporting-hyperplane">As finding top intercept of supporting hyperplane</h4>
+<p>See dual function section.</p>
+<h3 id="duality-gap-bw-primal-dual-solutions">Duality gap b/w primal, dual solutions</h3>
+<p>\(p^{<em>} - g(l^{</em>}, m^{*})\) is the duality gap. As shown while considering the properties of the dual function, this quantity is non-negative.</p>
+<h4 id="strong-duality">Strong duality</h4>
+<p>When this is 0, strong duality holds: Eg: Many cases in Convex optimization.</p>
+<p>Strong duality can also hold for non-convex problems.</p>
+<h4 id="strong-duality-optimality-conditions">Strong duality: optimality conditions</h4>
+<h5 id="optimality-conditions-using-strong-duality">Optimality conditions using strong duality</h5>
+<p>Aka KKT conditions. Necessary conditions. Also sufficient when solving convex optimization: Certificate of optimality.</p>
+<h6 id="primal-and-dual-feasability">Primal and dual feasability</h6>
+<p>Primal feasibility: \(f(x^{<em>}) \leq 0, h(x^{</em>}) = 0\).</p>
+<p>Dual feasiblity: \(l^{*} \geq 0\).</p>
+<h6 id="complimentary-slackness">Complimentary slackness</h6>
+<p>\(\forall j: l_{j}^{*}f_{j}(x^{*}) = 0\). Pf: \(f_0(x^*) = g(l^{*}, m^{*}) \leq f_0(x^*) + \sum m_{i}^{*}h_{i}(x^{*}) + \sum l_{j}^{*}f_{j}(x^{*}) \leq f_0(x^*)\). So, as \(l\geq 0, f(x) \leq 0\): \<br>
+\(\sum l_{j}^{*}f_{j}(x^{*}) = 0;\ \forall j: l_{j}^{*}f_{j}(x^{*}) = 0\).</p>
+<p>If \(l_i ^{<em>}&gt; 0, f_i(x^{</em>}) = 0\), if \(f_i(x^{<em>})&lt;0, l_i^{</em>} = 0\): one of these is 0, hence the name.</p>
+<p>At this point, \(f_0(x^{<em>}) = L(x^{</em>}, l^{<em>}, m^{</em>}) = g(l^{<em>}, m^{</em>})\).</p>
+<h6 id="optimality-stationarity">Optimality/ stationarity</h6>
+<p>As \(p^{<em>} = g(l^{</em>}, m^{<em>})\), \(x^{</em>} = \argmin_x L(x, l^{<em>}, m^{</em>})\): \ we have \(\gradient_{x^{*}}L(x, l^{*}, m^{*}) = 0\). See geometric view of relationship between gradients of \(f, h, f_0\) at optimal \(x\) for why this should hold for some \(l, m\) in general, when some nice conditions are met. With this condition, we are identifying \(l, m\) as being none other than the solution to the dual problem.</p>
+<p>This can be extended to the case where \(L(x, l^{<em>}, m^{</em>})\), that is \(f_0\) or \(f\) or \(h\) are not differentiable: in such a case, we just use some sub-gradients from the corresponding subdifferential set instead of gradients while writing the conditions.</p>
+<p>\subparagraph{Extension to nondifferentiable convex f}
+Applying the optimality criterion for convex non-differentiable functions we see that the same optimality criterion applies to problems involving non-differentiable convex constraint functionals: one just needs to interpret \(\gradient f_i(x) \in \subdifferential f_i(x)\).</p>
+<h5 id="primal-dual-solvers">Primal dual solvers</h5>
+<p>They try to solve both the primal and dual problems simultaneously - maybe one of them gets solved quickly!</p>
+<h4 id="strong-duality-meaning-of-dual-variables">Strong duality: Meaning of dual variables</h4>
+<h5 id="as-weights-in-lagrangian-form">As weights in lagrangian form</h5>
+<p>Take problem in standard form, get dual function \(g(l, m) = \min_x L(x, l, m)\); from strong duality, get: \(\max_{l, m} g(l, m) = \max_{l, m} \min_x L(x, l, m) = p^*\). Note that \(L(x, l, m) = f_0(x) + \sum_i l_i(f_i(x) - u_i) + \sum_i m_i(h_i(x) - v_i)\) if constraints are of the form \(f(x) \leq u, h(x) = v\) : the constants u and v are included.</p>
+<p>This gives a way to get the &lsquo;constraints in the objective&rsquo; form of the optimization problem, by solving the hard-to-solve problem of finding the saddle-point corresponding to \(\max_{l, m} \min_x L(x, l, m)\) in order to get \(l^*, m^*\).</p>
+<h5 id="sensitivity-analysis">Sensitivity analysis</h5>
+<p>Using weak duality, for perturbed problem described earlier, get: \<br>
+\(p^{<em>}(u, v) \geq g(l^{</em>}, v^{<em>}) - l^{T}u - m^{T}v = p^{</em>}(0, 0)- l^{*T}u - m^{*T}v\), using strong duality.</p>
+<p>So, for +ve \(l_i\), large -ve perturbations in \(u_i\) cause \(p^{*}\) to increase.</p>
+<p>Also if \(p^{<em>}\) differentiable: \(\gradient_u p^{</em>}(u, v) = -l, \gradient_v p^{*}(u, v) = -m\).</p>
+<h4 id="constraint-qualifications-to-ensure-strong-duality">Constraint qualifications to ensure strong duality</h4>
+<p>See Slater conditions in convex optimization section. Others exist. Can derive some from the geometric/ supporting hyperplanes view of the dual problem.</p>
+<h2 id="vector-optimization">Vector optimization</h2>
+<p>The objective function is a vector to vector function. Comparison among vectors could be wrt any pointed cone.</p>
+<p>Objective often written as \(\min (f_{01}(x), f_{02}(x) ..)\).</p>
+<h3 id="multicriterion-optimization">Multicriterion optimization</h3>
+<p>Special case where inequalities are wrt the non-negative orthant cone.</p>
+<h3 id="solutions">Solutions</h3>
+<h4 id="optimality">Optimality</h4>
+<p>Feasible \(x\) is pareto optimal if \(f_0(x)\) is the minimal value of feasible region. If \(f_0(x)\) is the minimum value, then \(x\) is optimal.</p>
+<h4 id="scalarization">Scalarization</h4>
+<p>Replace the objective with \(l^{T}f_0(x)\): defines a set of trade-offs among the various measures of goodness which form the vector \(f_0\).</p>
+<h4 id="visualiztion-tradeoff-curve">Visualiztion: tradeoff curve</h4>
+<p>Visualize the image of the feasible region in the range of \(f_0(x)\), where the axes are various dimensions of the image of \(f_0\).</p>
+<p>Pareto optimal points lie in the lower border of this image; for them, no dimension of \(f_0(x)\) can be reduced without hurting other dimensions of \(f_0(x)\): these are the minimal points of this set.</p>
+<p>These correspond to different scalarizations of \(f_0\). The endpoints correspond to the case where 0 weight is assigned to some dimension(s) of \(f_0(x)\).</p>
+<p>This curve is actually helpful for the enduser to pick a good scalarization.</p>
+<h2 id="prove-properties-of-solution">Prove properties of solution</h2>
+<h3 id="motivation-notation">Motivation, Notation</h3>
+<p>Suppose that one wants to solve a problem or some special case of it, \(Q\). One often wants to claim that a solution to \(Q\) can be obtained by looking at the solutions of the optimization problem \(P\) which is often easier to solve.</p>
+<p>One then needs to be able to rigorously show that the solution to \(P\) is also the solution to \(Q\).</p>
+<h4 id="example">Example</h4>
+<p>In compressive sensing, \<br>
+\(Q \dfn \argmin \norm{x}_0 : Ax = b\) and \(P \dfn \argmin \norm{x}_1 : Ax = b\).</p>
+<h5 id="uniqueness-1">Uniqueness</h5>
+<p>If one can either show that there is a unique solution to \(P\), or if we can show that one can efficiently search the small number of solutions to \(P\) in order to find a solution to \(Q\), we have now have an efficient algorithm to solve \(Q\).</p>
+<h3 id="general-proof-technique">General proof technique</h3>
+<p>Specify the &lsquo;optimality&rsquo; properties \(C_P(x)\) (certificate/ witness) which are satisfied exactly by solutions to \(P\). Do the same for \(Q\) and specify \(C_Q(x)\). The idea is to show that \((\exists x: C_Q(x) \land C_P(x))\).</p>
+<p>Construct a candidate solution \(x\) to \(P\) which simultaneously satisfies some subset of \(C_Q(x) \union C_P(x)\). Show that this candidate then satisfies the remaining properties in \(C_P(x) \union C_Q(x)\).</p>
+<h4 id="possible-computational-intractability">Possible computational intractability</h4>
+<p>Even though construction of the solution to \(P\) and \(Q\) described above is a valid proof technique, it often does not imply that we have an efficient algorithm to solve \(Q\) using just the conditions \(C_Q\) and \(C_P\). This is because, to completely specify \(C_Q\), one needs to know the solution to \(Q\)!</p>
+<p>Eg: In the compressive sensing example, for \(C_Q(x)\) to be completely specified, one needs to know not just \(\norm{x}_0\), but also the coordinates \(\set{i: x_i \neq 0}\).</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">1 Problem structure </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: 1 Problem structure</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

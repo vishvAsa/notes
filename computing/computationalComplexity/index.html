@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | &#43;Computational complexity</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/computationalComplexity/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/computationalComplexity/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="&#43;Computational complexity" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/computationalComplexity/" />
+
+<meta itemprop="name" content="&#43;Computational complexity">
+<meta itemprop="description" content=""><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="&#43;Computational complexity"/>
+<meta name="twitter:description" content=""/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/computationalComplexity\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/computationalComplexity\/_index.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> &#43;Computational complexity</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="&#43;Computational complexity">&#43;Computational complexity</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/computationalComplexity/_index.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<main>
+    <article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="useful-resources-elsewhere">Useful resources elsewhere</h2>
+<ul>
+<li><a href="http://www.cse.buffalo.edu/~regan/ComplexityPoster.pdf">Complexity Classes&rsquo; Venn diagram</a>, <a href="http://www.math.ucdavis.edu/~greg/zoology/diagram.xml">Inclusion graph</a>.</li>
+<li><a href="http://www.tug.org/texshowcase/cheat.pdf">Theoretical Computer Science Cheat Sheet</a>.</li>
+</ul>
+<h2 id="notation">Notation</h2>
+<p>Open problem: OP.</p>
+<h2 id="research-effort">Research effort</h2>
+<h3 id="themes">Themes</h3>
+<h4 id="motivation-complexity-of-problems">Motivation: complexity of problems</h4>
+<p>Give algorithms researchers and engineers better understanding of the difficulty of the problem, if not practical algorithms.</p>
+<p>Efficient Computability: Complexity class P. Upper and lower bounds on efficiency of algorithms for various problems; classification of problems into complexity classes. Efficient computation with randomness. Relationship between complexity classes. Approximation algorithms.</p>
+<h5 id="limitations-of-worst-case-results">Limitations of worst case results</h5>
+<p>Many algorithms which are exponential time for pathological cases, turn out to be highly efficient in practice: Eg: Simplex method for solving linear programs. Usually, can make these costly cases unlikely by the use of randomization: eg: quicksort.</p>
+<h4 id="generating-and-checking-mathematical-proofs">Generating and checking mathematical proofs</h4>
+<p>With interaction. Proof complexity: Minimum length of proof for a statement.</p>
+<h4 id="computing-with-exotic-physics">Computing with exotic physics</h4>
+<p>Quantum/ String theory.</p>
+<h3 id="characterization-of-research-effort">Characterization of research effort</h3>
+<p>Read many papers/ books, talk to others, know many theorems, understand proof strategies, digest core results into short sentences, note open problems.</p>
+<p>Attack open problems by trying out various ideas and strategies, fail many times, get a result, see what it implies, use the same strategy to get more results.</p>
+<p>Models: Both the strength and the weakness of theory: sometimes they don&rsquo;t change fast enough.</p>
+<h2 id="models-of-computation-to-solve-problems">Models of computation to solve problems</h2>
+<p>Decision problems. Function problems.</p>
+<p>For grammars and automata, see Boolean Functions ref.</p>
+<h3 id="turing-machine">Turing machine</h3>
+<h4 id="k-tape-turing-machine-tm">k-tape Turing Machine (TM)</h4>
+<p>States (Q), Alphabet (S) with start and blank symbols, Transition function (\(\delta\)); 1 input tape, k-1 R/W tapes with 1 output tape, termination states. In practice, values assigned to registers represents state.</p>
+<h5 id="directional-restrictions-irrelevance">Directional restrictions: irrelevance</h5>
+<p>Bidirectionally \(\infty\) TM  of time T(n) can be simulated by unidirecionally \(\infty\) TM in O(T(n)).</p>
+<h4 id="measuring-complexity-of-problems">Measuring complexity of problems</h4>
+<p>Given input X, time taken by TM to solve it is T(X); practically, this is the number of basic operations, which are commonly taken to be scalar ops: +, -, *, /. \(T(n) = \max_X T(X)\).</p>
+<h4 id="hypercomputation">Hypercomputation</h4>
+<p>Aka super-Turing computation. Computation of non Turing compatible functions. Eg: Precise computation of integrals and limits. Not known to be physically realizable.</p>
+<h4 id="random-access-machines-ram">Random Access Machines (RAM)</h4>
+<p>Can be simulated by a TM in time \(O(T(n)^{2})\). Turing&rsquo;s thesis. Usual assumption: word size is \(\Omega(\log n)\).</p>
+<h4 id="time-and-space-constructible-functions">Time and space constructible functions</h4>
+<p>Time constructible function (Proper complexity fn): \(T(n)&gt;n\), \(T(|x|)\) computable from \(|x|\) in \(T(|x|)\).</p>
+<h4 id="the-universal-tm-utm">The Universal TM (UTM)</h4>
+<p>TM&rsquo;s as strings. 3-tape UTM can simulate TM of time T(n) in \(O(T(n)^{2})\) naively.</p>
+<h5 id="power-of-3-tapes">Power of 3 tapes</h5>
+<p>3-tape UTM can simulate TM of time T(n) in \(O(T(n)\log T)\): Put contents of k tapes (initially blank / input symbols) in 1 tape, each cell is k sim-cells; make zones \(L_{i}\), \(R_{i}\) of size \(2^{i}\); zones always with 0 or \(2^{i-1}\) (half) or \(2^{i}\) (full) contents; \(|L_{i} \cup R_{i}| \leq 2^{i}\); cursor always at \(L_{0}\); tape contents moved to simulate head movement; initially zones half full with contents (blank / input symbols). To simulate right head movement: Find non-empty \(R_{i}\); move contents to half fill \(R_{0} \dots R_{i-1}\); adjust \(L_{0} \dots L_{i}\). So, min \(2^{i-1}\) shifts required before \(2^{i}\) chars in \(R_{i}\) shifted; So, UTM needs \(O(\sum^{\log T} \frac{T}{2^{i-1}}2^{i}) = O(T(n)\log T)\).</p>
+<h4 id="oblivious-tm-otm">Oblivious TM (OTM)</h4>
+<p>Head movements same for all inputs of same size, actions may differ. Make 1 work-tape Obl TM of time \(O(T(n)^{2})\) from k tape TM of time T(n): Reserve T(n) cells for each of k (unidirecionally \(\infty\)) tapes; in simulation, force a visit to each cell, its left and right neighbor; overwrite cell, move simulated cursor as necessary. Make 2 work-tape Obl TM of time \(O(T(n)\log T)\) from k tape TM of time T(n): Use the \(O(T(n)\log T)\) UTM; mime the worst possible (constant leftward) movement for each sim-tape, but implement useful movement only.</p>
+<h4 id="variant-tms">Variant TM&rsquo;s</h4>
+<p>The probabilistic turing machine : has a fair coin.</p>
+<h5 id="non-deterministic-turing-machine">Non deterministic turing machine</h5>
+<p>\textbf{Configuration} of turing machine. Configuration trees and computation paths.</p>
+<p>Given an input, visualize a computational tree.</p>
+<h3 id="oracle-machines">Oracle machines</h3>
+<p>TM with a subroutine call to Oracle. Eg: \(P^{SAT}\). \(P^{NP} = NP\). \(NP^{NP}\) not trivially NP: Can&rsquo;t take \(NP^{NP}\) alg L and make new config tree for NP alg L&rsquo;: can&rsquo;t know when all branches of L&rsquo;s config tree yield false.</p>
+
+  </div>
+</article>
+
+    
+    <div class="css-treeview box">
+        
+<ul>
+    <li><input type="checkbox" id="section-tree-item-&#43;Computational complexity" checked="checked" /><label for="section-tree-item-&#43;Computational complexity">&#43;Computational complexity</label>
+        <ul>
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">&#43;Computational complexity </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: &#43;Computational complexity</li>
+        
+    </nav>
+</aside>
+
+            
+            
+            
+            
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">&#43;Class memories </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: &#43;Class memories</li>
+        
+    </nav>
+</aside>
+
+            
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">&#43;Complexity classes </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: &#43;Complexity classes</li>
+        
+    </nav>
+</aside>
+
+            
+            
+            
+            
+            <li>
+                
+<ul>
+    <li><input type="checkbox" id="section-tree-item-&#43;Class memories" checked="checked" /><label for="section-tree-item-&#43;Class memories">&#43;Class memories</label>
+        <ul>
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">&#43;Class memories </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: &#43;Class memories</li>
+        
+    </nav>
+</aside>
+
+            
+            
+            
+            
+            
+            
+            
+        </ul>
+    </li>
+</ul>
+
+            </li>
+            
+            <li>
+                
+<ul>
+    <li><input type="checkbox" id="section-tree-item-&#43;Complexity classes" checked="checked" /><label for="section-tree-item-&#43;Complexity classes">&#43;Complexity classes</label>
+        <ul>
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">&#43;Complexity classes </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: &#43;Complexity classes</li>
+        
+    </nav>
+</aside>
+
+            
+            
+            
+            
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">01 Computability and efficiency of problems </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: 01 Computability and efficiency of problems</li>
+        
+    </nav>
+</aside>
+
+            
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">02 P and NP </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: 02 P and NP</li>
+        
+    </nav>
+</aside>
+
+            
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">03 Other classes </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: 03 Other classes</li>
+        
+    </nav>
+</aside>
+
+            
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">04 Other notions of complexity </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: 04 Other notions of complexity</li>
+        
+    </nav>
+</aside>
+
+            
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">05 Other topics </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: 05 Other topics</li>
+        
+    </nav>
+</aside>
+
+            
+            
+            
+            
+        </ul>
+    </li>
+</ul>
+
+            </li>
+            
+        </ul>
+    </li>
+</ul>
+
+    </div>
+</main>
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Secure communication</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/cryptography/secure_communication/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/cryptography/secure_communication/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Secure communication" />
+<meta property="og:description" content="over an insecure channel.
+Problem A and B communicate, E evesdrops. E should not know what is communicated, and E should not be able to cause miscommunication between A and B.
+Unbounded adversary (Shannon) Theory of perfect secrecy. Adversary assumed to have unlimited computational resources. Secure encryption system exists only if \(|S|\) is as large as \(|m|\).
+One time pad \(E(pad, m) = m \xor pad\); \(D(pad, c) = c \xor pad\)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/cryptography/secure_communication/" />
+
+<meta itemprop="name" content="Secure communication">
+<meta itemprop="description" content="over an insecure channel.
+Problem A and B communicate, E evesdrops. E should not know what is communicated, and E should not be able to cause miscommunication between A and B.
+Unbounded adversary (Shannon) Theory of perfect secrecy. Adversary assumed to have unlimited computational resources. Secure encryption system exists only if \(|S|\) is as large as \(|m|\).
+One time pad \(E(pad, m) = m \xor pad\); \(D(pad, c) = c \xor pad\).">
+
+<meta itemprop="wordCount" content="1712">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Secure communication"/>
+<meta name="twitter:description" content="over an insecure channel.
+Problem A and B communicate, E evesdrops. E should not know what is communicated, and E should not be able to cause miscommunication between A and B.
+Unbounded adversary (Shannon) Theory of perfect secrecy. Adversary assumed to have unlimited computational resources. Secure encryption system exists only if \(|S|\) is as large as \(|m|\).
+One time pad \(E(pad, m) = m \xor pad\); \(D(pad, c) = c \xor pad\)."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/cryptography\/secure_communication\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/cryptography\/secure_communication.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Secure communication</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Secure communication">Secure communication</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/cryptography/secure_communication.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>over an insecure channel.</p>
+<h2 id="problem">Problem</h2>
+<p>A and B communicate, E evesdrops. E should not know what is communicated, and E should not be able to cause miscommunication between A and B.</p>
+<h3 id="unbounded-adversary">Unbounded adversary</h3>
+<p>(Shannon) Theory of perfect secrecy. Adversary assumed to have unlimited computational resources. Secure encryption system exists only if \(|S|\) is as large as \(|m|\).</p>
+<h4 id="one-time-pad">One time pad</h4>
+<p>\(E(pad, m) = m \xor pad\); \(D(pad, c) = c \xor pad\). Unbreakable even by computationally unbounded adversary: Modern cryptography abandons this. \(\forall m, c: Pr_{pad}(E(pad, m) = c) = 2^{-n}\): so perfectly secret. But not good for 2 messages: \(E(pad, m_1) \xor E(pad, m_2)\) reveals common bits.</p>
+<h3 id="bounded-adversary">Bounded adversary</h3>
+<p>Often parametrized by security parameter k.</p>
+<h3 id="passive-adversary">Passive adversary</h3>
+<p>Possibly randomized algorithm which runs in poly(k) time, has passive access to everything on the insecure channel. May know probability distribution over messages.</p>
+<p>Is said to break cryptosystem if it succeeds with non negligible probability: \(\frac{1}{poly(k)}\).</p>
+<h3 id="active-adversary">Active adversary</h3>
+<p>Passive adversary with extra powers. Can alter or stop messages, request polynomial number of cyphertexts to be decyphered.</p>
+<p>A common active adversary attack is the replay attack.</p>
+<h3 id="collusion-attacks">Collusion attacks</h3>
+<p>Multiple adversaries share info and attack.</p>
+<h2 id="proving-security-vulnerability">Proving security/ vulnerability</h2>
+<h3 id="security-from-evesdropping">Security from evesdropping</h3>
+<p>Prob of predicting m given c = Prob of predicting m without c: seeing c gives no &lsquo;information&rsquo;.</p>
+<h3 id="specify-scheme">Specify scheme</h3>
+<p>Describe Setup(l), encrypt, decrypt, keygen etc.. algs.</p>
+<h3 id="general-strategy">General strategy</h3>
+<p>Show security of B based on security of A: \(Secure(A) \implies Secure(B) \equiv attackable(B) \implies attackable(A)\): The latter form is more convenient to prove.</p>
+<h4 id="make-security-game">Make security game</h4>
+<p>Take polytime B attacker, call it Z. Make B challenger/ A attacker, call it Y. Take A challenger, call it X. Visualization: use boxes and arrows to see how Y uses Z to respond to X&rsquo;s challenge.</p>
+<h4 id="show-success-of-attack-wnnp">Show success of attack wnnp</h4>
+<p>Security parameter l: All probabilities and running time are in terms of this. Use cases to analyze probability of success of attack.</p>
+<h3 id="show-equivalence-of-2-models-of-security">Show equivalence of 2 models of security</h3>
+<p>Show that a successful attacker in one can be used to build a successful attacker in another.</p>
+<h3 id="using-hardness-assumptions-to-prove-security">Using hardness assumptions to prove security</h3>
+<p>Take hardness assumption H. Use this as A.</p>
+<h4 id="tightness-of-assumption">Tightness of assumption</h4>
+<p>Cryptosystem B, assumption A. Show that you can break A given attacker for B. Show that you can break B given attacker for A.</p>
+<h3 id="security-from-weaker-adversaries">Security from weaker adversaries</h3>
+<p>Sometimes, proof of security against CPA is not known. So, security is proved against weaker adversaries. Eg: Security in random oracle model, selective security etc..</p>
+<p>A stepping stone in finding proof of security against unhindered adversary.</p>
+<h2 id="private-key-encryption">Private key encryption</h2>
+<p>Communicators A and B; Encryption and decryption algorithms E, D; common secret key S; adversary may know (E, D), but not S; cleartext or plaintext message m; ciphertext c = E(m,S).</p>
+<h3 id="substitution-cipher">Substitution cipher</h3>
+<p>S = the permutation f. Easy to break by adversary who sees moderately many ciphertexts. \why</p>
+<h2 id="public-key-cryptography">Public key cryptography</h2>
+<p>Aka assymetric key cryptography.</p>
+<h3 id="weak-definition">Weak definition</h3>
+<p>Uses trapdoor one way functions. Setup(l) = (PK, SK). Weak defn: E(m, PK) = c; D(c, SK) = m: If A transmits only 2 messages, Attacker could encrypt both messages and say what is being transmitted.</p>
+<h3 id="strong-defnition-blinding-messages">Strong defnition: blinding messages</h3>
+<p>So, random r is chosen, m is blinded using r to get m&rsquo;, \(E(m, r, PK) = c\). D(c, SK) = m&rsquo;, r; thence unblind to get m.</p>
+<p>Blinding and unblinding is often done by computing a blinding factor (bf). Agents agree on bf in a way similar to key exchange protocols.</p>
+<h3 id="hybrid-cryptography">Hybrid cryptography</h3>
+<p>In practice, this is used, rather than pure public key cryptography as it is slow. Public key crypto is used only to share a common secret &lsquo;session key&rsquo; S. S is then used to actually encrypt messages.</p>
+<h3 id="semantic-security-chosen-plaintext-attack-cpa">Semantic security: chosen plaintext attack (CPA)</h3>
+<p>Take challenger C and attacker A.</p>
+<p>C sends PK to A. A sends plaintexts \(m_{0}\) and \(m_{1}\) to C. C picks \(g \in_{U} \set{0, 1}\) and sends \(c = E(m_{g}, r, PK)\). A surmises and returns g.</p>
+<p>If A has non negligible advantage over random guessing, the crypto scheme is broken by A.</p>
+<h3 id="semantic-security-from-cca">Semantic security from CCA</h3>
+<p>Same as CPA security game, with extra powers to the attacker: The attacker A can ask for decryption of poly num of cyphertexts in two phases: one before challenger C sends \(c = E(m_{g}, r, PK)\), and one afterwards. In second phase, A cannot demand decryption of c. If given an invalide cyphertext, C responds with &lsquo;invalid cyphertext&rsquo; or \(\perp\) message.</p>
+<h3 id="hybrid-proofs">Hybrid proofs</h3>
+<p>Eg: two public key schemes: X1, X2; new PK scheme X encrypts m to users using both; show \(secure(X1) \land secure(X2) \implies secure(X)\). So show \(\lnot s(X) \implies \lnot s(X1) \lor \lnot s(X2)\): Consider CPA game where attacker B knows \(\set{m_{0}, m_{1}}\), X challenger A picks random bit g, encrypts \(m_{g}\); gives B \(c_{0} = enc(m_{g}, X1), c_{1} = enc(m_{g}, X2)\); B guesses g&rsquo;; So \(\lnot s(X) \equiv Pr(g&rsquo; = g) \geq 2^{-1} + \eps\). Take \(p_{1} = Pr(g&rsquo; = 1|g = 1), p_{0} = Pr(g&rsquo; = 1|g = 0)\); imagine hybrid case: \(p_{h} = Pr(g&rsquo; = 1|enc(m_{0}, X1), enc(m_{1}, X2))\). \(\lnot s(X) \equiv Pr(g&rsquo; = g) \geq 2^{-1} + \eps \equiv 2 \eps \leq |p_{1} - p_{0}| \leq |p_{1} - p_{h}| + |p_{0} - p_{h}| \equiv |p_{1} - p_{h}| \geq \eps \lor |p_{0} - p_{h}| \geq \eps \equiv \lnot s(X1) \lor \lnot s(X2)\).</p>
+<h3 id="rsa">RSA</h3>
+<p>Choose random N=pq with p, q large primes : use rand alg; pick PK: exponent \(e \in \set{1, .. \phi(N)-1}\) coprime with \(\phi(N)\); choose SK exp d to satisfy \(de = 1 \bmod \phi(N)\); PK: (N, e); SK: (N, d). Message of length m; encrypt: \(c = m^{e} \mod N\): exponentiation by squaring; decrypt: \(c^{d} \mod N\).</p>
+<p>Security from RSA hardness assumption. Vulnerable to CCA.</p>
+<p>This is the fastest PK scheme.</p>
+<h3 id="elgamal">ElGamal</h3>
+<p>\(PK = (g, g^{y})\). SK = y. Encr: Pick random r, make bf: \((g^{y})^{r}\). \(c = g^{r}, m.g^{yr}\). Decr: Recover \((g^{r})^{y}\), thence decrypt. Agreement on bf similar to DH key exchange.</p>
+<h4 id="security-from-cpa-if-ddh-hard">Security from CPA if DDH hard</h4>
+<p>If DDH is hard, ElGamal is secure: Consider DDH Challenger DC, DDH attacker DA, El Gamal attacker A. DC picks random t, sets \(T = g^{ab}\) if t=1. DC gives \(g, g^{a}, g^{b}, T\) to DA. DA gives \(PK = g, g^{a}\) to A. A gives \(m_0\) and \(m_1\) to DA. DA picks random b and gives A \(c = T, m_b. T\). If T is a valid bf, A returns g wnnp. Thence, DA can defeat DC wnnp: analyze probabilities of success for the cases where t=0 and t=1.</p>
+<h4 id="vulnerability-when-ddh-broken">Vulnerability when DDH broken</h4>
+<p>Can use any DDH atatcker to break ElGamal: show with a security game.</p>
+<p>True if there are efficiently computable bilinear maps.</p>
+<h4 id="cca-vulnerability">CCA vulnerability</h4>
+<p>Attacker demands decryption of \(c&rsquo; = g^{r + r&rsquo;}, hm_{b}.g^{y(r + r&rsquo;)}\), thence identifies \(m_{b}\): cyphertext for \(hm_{b}\) used as some challengers may refuse to decrypt a previously sent msg.</p>
+<h3 id="cca-secure-scheme-from-ibe-scheme">CCA secure scheme from IBE scheme</h3>
+<p>PK = PP; SK = MSK, SigSK (Signature SK), SigPK. Enc(m) : choose random id, find \<br>
+\(CT = Enc_{IBE}(PP,ID,m)\), make CT, id, sigSK(CT). \<br>
+Dec: if \(sigPK(sigSK(CT)) \neq CT\) abort; else get \(Keygen(MSK, id) = SK_{id}\); do \(Dec_{IBE}(CT, SK_{id}) = m\).</p>
+<h4 id="speed">Speed</h4>
+<p>1 pairing costs approximately as much as 8 large exponentiations.</p>
+<h3 id="dla-based-cryptosystem">DLA based cryptosystem</h3>
+<p>Setup(l): \(SK = \tuple{x, y}. \<br>
+PK = \tuple{g, u = g^{x}, v = g^{y}}\). Encrypt by selecting random a and b. Come to agreement on BF: \(v^{a+b}\).</p>
+<h3 id="applications">Applications</h3>
+<p>Public key cryptography is highly secure. But, it is often slower compared to symmetric key encryption.</p>
+<p>SSL uses public key cryptography for key exchange and symmetric encryption for privacy.</p>
+<h2 id="key-exchange">Key exchange</h2>
+<h3 id="diffie-hellman-dh">Diffie Hellman (DH)</h3>
+<p>A chooses generator g, prime p, random \(a \in G\). Sends \(\tuple{g, p, g^{a} \mod p}\) to B. B picks random b, sends \(g^{b} \mod p\). Both \(A\) and \(B\) now find secrect key \(S = g^{ab} \mod p\).</p>
+<h3 id="3-party-key-exchange">3 party key exchange</h3>
+<p>A, B, C pick x, y, z; have bilinear map \(e: G\times G \to G_{T}\), generator \(g \in G\); publish \(g^{x}, g^{y}, g^{z}\); agree upon SK = \(e(g, g)^{xyz} = e(g^{x}, g^{y})^{z}\).</p>
+<h2 id="access-control">Access control</h2>
+<p>Server based vs encryption based.</p>
+<h3 id="role-based-access-control">Role based access control</h3>
+<p>Functional encryption: Specify access policy (a bool formula) as part of ct.</p>
+<h3 id="sharing-a-secret">Sharing a secret</h3>
+<p>Want people with 2 attributes to access something: Share secret info \(m \in G\) between 2 roles: Turn policy into a infix boolean tree: When you encounter \(\land\), split m into r, m-r. Subject to collusion attack: Solve by initially encrypting with requestor&rsquo;s PK.</p>
+<h2 id="broadcast-encryption">Broadcast encryption</h2>
+<p>Bandwidth limited. Eg: Direct TV, radio, GPS.</p>
+<p>Like IBE. Setup(l,n): \(PP, SK_{1} .. SK_n\). \<br>
+\(Enc(PP, m, S\subseteq [n]): c\). \(Dec(c, i, SK_i, S \subseteq [n]) = m\) iff \(i \in S\).</p>
+<p>Want collusion resistance. t-collusion resistance: \(|c| \geq t^{2} \log n\) \why.</p>
+<h3 id="cpa-security">CPA Security</h3>
+<p>Challenger A, attacker B. A to B: PP; B to A: keygen requests, get \(\set{SK_{i}}\); B to A: target set S&rsquo;, chosen messages \(m_1, m_2\); A picks random b, returns \(enc(PP, m_b, S&rsquo;)\). B can encrypt arbit m himself.</p>
+<p>Static security: announce S&rsquo; first.</p>
+<h3 id="bb-ibe-based-scheme">BB IBE based scheme</h3>
+<p>(BGW) Setup(l,n): Pick random a, g, \(\set{u_{1} .. u_{n}}\), \(\set{r_{1} .. r_{n}}\). \(PP: e(g, g)^{a}, \set{u_{i}}\). \(SK_{i}: g^{a}u_{i}^{r_{i}}, g^{r_{i}}, \forall_{j\neq i} u_{j}^{r_{i}}\).</p>
+<p>\(Enc(PP,m,S): me(g,g)^{as}, g^{s}, \prod_{i \in S} u_{i}^{s}\) for random s: like BB IBE enc \<br>
+to \(\prod_{i \in S} u_{i}^{s}\): a SK for every S.</p>
+<p>Dec: Want to find bf: \(e(g,g)^{as}\); so find \(e(g^{s},g^{a}u_{i}^{r_{i}})\), find \(e(g^{r_{i}}, \prod_{i \in S} u_{i}^{s}) = \prod_{i \in S}e(g^{r_{i}}, u_{i}^{s})\), divide by \(e(g^{s}, \prod_{j \in S, j \neq i} u_{j}^{r_{i}})\).</p>
+<h3 id="security-against-q-bdhe">Security against q-BDHE</h3>
+<p>A q-BDHE challenger, B q-BDHE attacker, C BGW attacker.</p>
+<p>A to B: \(g, h, g^{b}, g^{b^{2}}, .. g^{b^{q}}, g^{b^{q+2}} .. g^{b^{2a}}\):
+no \(g^{b^{q+1}}\); see if \(T \iseq e(g,h)^{b^{q+1}}\).</p>
+<p>C to B: S&rsquo;. B sets \(h = g^{s}, a = b^{q+1}\); picks \((y_{i})\), sets \(\forall i\in S&rsquo;: u_{i} = g^{y_{i}}\), other i: \(u_{i} = g^{b^{i}}g^{y_{i}}\). B answers keygen reqs: need find \(g^{a}u_{i}^{r_{i}} = g^{b^{n+1}}(g^{b^{i}}g^{y_{i}})^{r_{i}}\), don&rsquo;t know \(g^{a}\), so try cancellation by picking \(r_{i} = -b^{n+1-i}\); actually, to make \(r_{i}\) look random, must add some \(x_{i}\). C to B: \(m_{1}, m_{2}\). B to C: picks \(m_{b}\), sends \(m_{b}T, g^{s}, \prod_{i \in S&rsquo;}h^{y_{i}}\).</p>
+<h3 id="piracy-of-broadcast-system">Piracy of broadcast system</h3>
+<p>DRM impossibility argument: Can&rsquo;t protect content from leaking out. Can only protect original broadcast stream. Traitor tracing: Who pirated the original stream?</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Secure communication </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Secure communication</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

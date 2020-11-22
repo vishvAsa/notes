@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | 02 Discrete probability distributions</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/probability/probabilistic_models/simple_RV_densities/02_Discrete_probability_distributions/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/probability/probabilistic_models/simple_RV_densities/02_Discrete_probability_distributions/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="02 Discrete probability distributions" />
+<meta property="og:description" content="Coin toss distribution \(X \distr\) Bernoulli(p) when \(range(X) = \set{0, 1}\) and \(Pr(X = 1) = p\).
+When \(p=1/2\), \(X\) is called a Rademacher RV.
+Properties \(E[X] = p\). \(Var[X] = p-p^{2}\). Same as Bin(1, p).
+Odds of success \(\frac{p}{1-p}\). This function is used in gambling (see economics survey).
+Multiple coin-toss Aka Binomial distribution.
+This is the probability of \(x\) successes in \(n\) trials. \
+\(X \distr Bin(n, p)\) when \(Pr(X = x) = \binom{n}{x} p^{x}(1-p)^{n-x}\), \(range[X] = [0, ." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/simple_RV_densities/02_Discrete_probability_distributions/" />
+
+<meta itemprop="name" content="02 Discrete probability distributions">
+<meta itemprop="description" content="Coin toss distribution \(X \distr\) Bernoulli(p) when \(range(X) = \set{0, 1}\) and \(Pr(X = 1) = p\).
+When \(p=1/2\), \(X\) is called a Rademacher RV.
+Properties \(E[X] = p\). \(Var[X] = p-p^{2}\). Same as Bin(1, p).
+Odds of success \(\frac{p}{1-p}\). This function is used in gambling (see economics survey).
+Multiple coin-toss Aka Binomial distribution.
+This is the probability of \(x\) successes in \(n\) trials. \
+\(X \distr Bin(n, p)\) when \(Pr(X = x) = \binom{n}{x} p^{x}(1-p)^{n-x}\), \(range[X] = [0, .">
+
+<meta itemprop="wordCount" content="1007">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="02 Discrete probability distributions"/>
+<meta name="twitter:description" content="Coin toss distribution \(X \distr\) Bernoulli(p) when \(range(X) = \set{0, 1}\) and \(Pr(X = 1) = p\).
+When \(p=1/2\), \(X\) is called a Rademacher RV.
+Properties \(E[X] = p\). \(Var[X] = p-p^{2}\). Same as Bin(1, p).
+Odds of success \(\frac{p}{1-p}\). This function is used in gambling (see economics survey).
+Multiple coin-toss Aka Binomial distribution.
+This is the probability of \(x\) successes in \(n\) trials. \
+\(X \distr Bin(n, p)\) when \(Pr(X = x) = \binom{n}{x} p^{x}(1-p)^{n-x}\), \(range[X] = [0, ."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/probability\/probabilistic_models\/simple_RV_densities\/02_Discrete_probability_distributions\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/probability\/probabilistic_models\/simple_RV_densities\/02_Discrete_probability_distributions.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> 02 Discrete probability distributions</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="02 Discrete probability distributions">02 Discrete probability distributions</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/probability/probabilistic_models/simple_RV_densities/02_Discrete_probability_distributions.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="coin-toss-distribution">Coin toss distribution</h2>
+<p>\(X \distr\) Bernoulli(p) when \(range(X) = \set{0, 1}\) and \(Pr(X = 1) = p\).</p>
+<p>When \(p=1/2\), \(X\) is called a Rademacher RV.</p>
+<h3 id="properties">Properties</h3>
+<p>\(E[X] = p\). \(Var[X] = p-p^{2}\). Same as Bin(1, p).</p>
+<h3 id="odds-of-success">Odds of success</h3>
+<p>\(\frac{p}{1-p}\). This function is used in gambling (see economics survey).</p>
+<h2 id="multiple-coin-toss">Multiple coin-toss</h2>
+<p>Aka Binomial distribution.</p>
+<p>This is the probability of \(x\) successes in \(n\) trials. \<br>
+\(X \distr Bin(n, p)\) when \(Pr(X = x) = \binom{n}{x} p^{x}(1-p)^{n-x}\), \(range[X] = [0, .. n]\).</p>
+<h3 id="properties-1">Properties</h3>
+<p>\(X = \sum X_{i}\), where \(X_{i}\) is Bernoulli RV.</p>
+<p>So, \(E[X] = np\). \(Var[X] = nVar[X_{i}] = np(1-p)\), even if \(X_{i}\) are only pairwise independent.</p>
+<p>The plot of the pdf looks like a discrete version of the bell curve truncated at 0 and \(n\).</p>
+<h3 id="approximations">Approximations</h3>
+<p>As \(n \to \infty\), it may be approximated by Poisson distribution if \(p \to 0\). It is approximated by Normal distribution if p fixed.</p>
+<h4 id="with-exponential-decay-for-sq-deviation-distribution">With exponential decay for sq deviation distribution</h4>
+<p>From central limit theorem, \(\frac{X - np}{\sqrt{np(1-p)}}\) approaches N(0, 1) as \(n \to \infty\). Good if \(n &gt; (1-p)\frac{\max p, (1-p)}{\min p, (1-p)}\).</p>
+<h3 id="poisson-distribution">Poisson distribution</h3>
+<p>$$\lim_{n\to \infty} Bin(n,f(n)) = Poi(nf(n)):\<br>
+\lim_{n\to \infty} Pr(X = x) = \lim_{n\to \infty, p \to 0} \frac{P(n, x) p^{x}(1-p)^{n-x}}{x!} = (np)^{x}e^{-np}/x!$$. Number of events which occur in a given time interval: Models Rare events; arrival rates.</p>
+<p>\(E[Poi(\mean)]= \sum (\mean)^{x}e^{-\mean}/x! = \mean e^{-\mean} e^{\mean} = \mean\). Poi(m) + Poi(n) = Poi(m+n).</p>
+<p>For Poi(m), \(M_{X}(t) = e^{\mu(e^{t}-1)}\). \<br>
+So, Chernoff bounds for Poi(m): Select \(t=\ln(x/m)\) either +ve or -ve.</p>
+<p>Looks like a discrete version of the bell curve, truncated at 0.</p>
+<h3 id="random-walk-on-a-line">Random walk on a line</h3>
+<p>Consider a random walk of \(n\) steps on the number line with start position: 0. The position changes by +1 or -1 with each step.</p>
+<p>In expectation, due to symmetry, the final position is 0. We want to find the expected deviation from 0 in the end.</p>
+<p>To model the number of +1 steps taken, one can use \(X \distr Bin(n, 0.5)\). \(E[X] = n/2\), and \(Var[X] = \stddev^{2} = n/4\). \(Pr(X \geq n/2(1 + \frac{k}{\sqrt{n}})) \leq 2e^{\frac{-k^{2}}{6}}\). So, whp, ye&rsquo;re within \(O(\sqrt{n})\) of 0.</p>
+<h3 id="balls-bins">(balls, bins)</h3>
+<h4 id="process">Process</h4>
+<p>Suppose that you threw \(n\) balls into \(m\) bins so that each ball fell into a random bin.</p>
+<h4 id="distribution">Distribution</h4>
+<p>Balls in some bin, \(X_{i} \distr Bin(m,1/n) \approx Poi(m/n)\). \<br>
+\(Pr(actual) =Pr(appr|\sum X_{i}=m)\); \(Pr(actual) &lt; e\sqrt{m}Pr(appr)\).</p>
+<p>\(Pr(X_{i} = 0) = (1-1/n)^{m} \approx e^{m/n}\); So E[num empty bins]= \(ne^{m/n}\); No empty bins whp: \(m=n \ln n + cn\) (Coupon collector). Also, \(min \approx max\) whp: \(m=n \ln n + cn\). \why</p>
+<p>Max load when n=m: whp \(\Theta(\ln n/\ln\ln n)\): upper bound by Chernoff; \<br>
+\tbc.</p>
+<p>Birthday paradox : some bin has 2 balls: whp when \(m=\sqrt{n}\): Pr ( every ball in diff bin ) = P = \(\prod_{i=1}^{m} (1-\frac{(i-1)}{n}) = P(n,m)/n^{m} \approx \prod_{i=1}^{m} e^{\frac{-(i+1)}{n}} \approx e^{-m^{2}/(2n)}\).</p>
+<p>Power of \(d\geq 2\) choices: \(\Theta(\ln\ln n/\ln d)\). \why</p>
+<p><strong>(balls, bins) Strategies</strong>: Find probabilities of basic events; Combine; Approximate. Use poisson approximation.</p>
+<h2 id="categorical-distribution">Categorical distribution</h2>
+<p>Consider a trial with discrete and finite outcomes. Outcome i has probability \(p_{i}\). The outcome can be modeled as a random variable or as a 1 of k random vector \(X\). If latter, can write: \(Pr(X = x) = \prod p_{i}^{x_{i}}\).</p>
+<h2 id="multinomial-distribution">Multinomial distribution</h2>
+<p>Consider \(n\) trials - each with \(k\) (discrete and finite) outcomes. Consider the \(k\)-dimensional random vector \(X\) where \(X_i\) represents the number of times outcome \(i\) appears. Note that this implies \(\sum_i X_i = n\).</p>
+<p>This can be viewed as the distribution of the sum of sequence of \(n\) random vectors with categorical distribution. \(Pr(x) = \binom{n}{x_{1}..x_{k}} \prod p_{i}^{x_{i}}\).</p>
+<h2 id="geometric-distribution">Geometric distribution</h2>
+<p>Probability of \(x\) successful trials before first failure. \(X \distr Geom(p): Pr(X=x) = (1-p)^{x-1}p\). Geom(p) is memoryless. Gambler&rsquo;s fallacy. \(E[geom(p)]=1/p\). \(Var[Geom(p)]=(1-p)/p^{2}\).</p>
+<h2 id="hypergeometric-distribution">Hypergeometric distribution</h2>
+<p>Parameters: N: number of balls in an urn. m: number of +ve balls. n: number of trials. You draw n balls, but, unlike binomial distribution, no replacement is allowed.</p>
+<p>Probability of t successes: \(Pr(X = k) = \frac{\binom{m}{k} \binom{N-m}{n-k}}{\binom{N}{n}}\).</p>
+<h2 id="smoothing">Smoothing</h2>
+<h3 id="motivation">Motivation</h3>
+<h4 id="incomplete-knowledge-of-range">Incomplete knowledge of range</h4>
+<p>Suppose that you have a discrete valued random variable \(X\), and that \(ran(X)\) is not completely specified beforehand: perhaps due to limited sample \(S\) from \(f_X\) where only values \(T \subseteq ran(X)\) were observed. Suppose we want to model the distribution \(f_X\).</p>
+<p>A basic model would be to use the empirical distribution \(\hat{f}_X\). But, this model will assign probability 0 to any \(x \in T\). So, we may want a model which does not do this.</p>
+<h4 id="assumption-of-continuous-ranx">Assumption of continuous ran(X)</h4>
+<p>In this case, \(ran(X)\) is actually assumed to be part of a vector space, so that no finite sample can reveal the entire \(ran(X)\). Examples of smoothing to deal with this case is described in the statistics survey (eg: kernel density estimation techniques).</p>
+<h3 id="add-1">Add 1</h3>
+<p>This tries to address the problem of &lsquo;limited observation of \(ran(X)\)&rsquo;. Suppose that \(\hat{f}_X(x) = \frac{S(x)}{|S|}\), where \(S(x)\) represents the number of occurrences of \(x\) in the sample \(S\) with the observed range \(T\), is the basic unsmoothed empirical probability model.</p>
+<p>This can be smoothed by first adding an element a placeholder \(unk\) for unobserved values to \(T\) to get \(T&rsquo;\), and then setting the distribution \(f&rsquo;_X(x) = \frac{S(x) + 1}{|S| + |T'|} \forall x \in T\); note that \(S(unk) = 0\). This ensures that \(f&rsquo;_X(x)\) sums to 1 and that \(f&rsquo;_X(unk)= \frac{1}{|S| + |T'|}\).</p>
+<h4 id="add-k">Add k</h4>
+<p>This generalizes add 1 smoothing by doing this:
+\(f&rsquo;_X(x) = \frac{S(x) + k}{|S| + k|T'|}\).</p>
+<p>\(f&rsquo;_X(unk)\) increases with \(k\), as \(\frac{l+k}{m + k} - \frac{l}{m} &gt;0\).</p>
+<h3 id="different-additions">Different additions</h3>
+<p>One generalization of add-k smoothing could be to let: \(f&rsquo;_X(x) = \frac{S(x) + k(x)}{|S| + \sum_x k(x)}\). Then, \(f&rsquo;_X(unk)\), if included, would be \(\frac{k(unk)}{|S| + \sum_x k(x)}\).</p>
+<p>Thus, this tries to compensate for limitations in sample size using some alternative model (represented by k(x)) and can accommodate an unobserved event.</p>
+<h4 id="use-backoff-probabilities">Use backoff probabilities</h4>
+<p>This can be viewed from the perspective of backoff probabilities. Suppose there is an estimate \(g_X\) different from \(f_X(x) = \frac{S(x)}{|S|}\), and suppose that \(\sum_x k(x) = K\). We can model \(f&rsquo;_X = \frac{S(x) + K g_X(x)}{|S| + K}\).</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">02 Discrete probability distributions </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: 02 Discrete probability distributions</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Information coding on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/informationCodingTheory/</link>
+    <description>Recent content in &#43;Information coding on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/informationCodingTheory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coding</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/informationCodingTheory/coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/informationCodingTheory/coding/</guid>
+      <description>Fingerprinting This codes can also be used as error detection codes.
+Chinese reminder code Codes which use a mod p, with rand p. \(\hat{F}(a)\) elements will use diff fields; so not preferred.
+Checking equality A picks rand prime p between 1 and \(k = n^{3}\); Sends (a mod p, p) to B; B says &amp;lsquo;=&amp;rsquo; if \(a \equiv b \mod p\).
+\(Pr_{p}(a \equiv b \mod p|a \neq b) \leq n^{-1}\): num(p with \(a \equiv b mod p\) when \(b \neq a\)) or, \(num(p | (a-b)) \leq n^{-1}\) as \(a-b \in [0, 2^{n}-1]\); so \(Pr(p|a-b) &amp;lt; \frac{n}{\Pi(n^{3})} = \leq \frac{n\ln n}{n^{3}} \leq \frac{1}{n}\) Using Prime number theorem.</description>
+    </item>
+    
+    <item>
+      <title>Information</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/informationCodingTheory/information/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/informationCodingTheory/information/</guid>
+      <description>Self Information of an event Aka surprisal. Measure of information content associated with event e: rarer the event, more the info, and in case of independence \(\perp(e, f): h(e, f) = h(e)+h(f)\). In the latter case, Pr(e,f) = Pr(e)Pr(f); thence get derivation: \(h(e) = h(X=x) = \log (\frac{1}{Pr(e)})\).
+As code-length for recording event Coding problem Suppose that we wanted to record information that an event occurred, but we wanted to use as few bits in expectation as possible.</description>
+    </item>
+    
+  </channel>
+</rss>

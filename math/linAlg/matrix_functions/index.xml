@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matrix functions on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/</link>
+    <description>Recent content in Matrix functions on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eigenvalue and co</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/eigenvalue_and_co/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/eigenvalue_and_co/</guid>
+      <description>Eigenvalue (ew) ew problem Aka: ew or eigenwert. For square \(A\) only. These are solutions to the eigenvalue problem: \(Ax=\ew x\) (Eigen = distinctive). This defines the Eigen pair: \((\ew, x)\), where \(\ew\) is ew, x is a (right) ev (eigen vector).
+Left and right eigenpairs Also, can define left ev and ew by the relation \(xA = \ew x\). ew of \(A\) and left ew of \(A^{T}\) are same.</description>
+    </item>
+    
+    <item>
+      <title>Matrix vector spaces</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/matrix_vector_spaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/matrix_vector_spaces/</guid>
+      <description>Vector space of matrices over field F \(M_{m, n}(F), M_{n, n}(F) \equiv M_{n}(F)\). \(M_{m, n}(C) = C^{mn} \equiv C^{m \times n}\).
+Matrix inner products Trace inner product \(\dprod{A,B} = tr(B^{*}A)\) : same as taking vectorizing B and \(A\) and using vector \(\dprod{.,.}\); also see the elementwise multiplication before addition view. Aka standard inner product.
+For symmetric matrices: \(\dprod{A, B} = \sum_i \sum_j X_{ii} Y_{ij}\)
+Matrix norms Obeys all properties of vector norms,\</description>
+    </item>
+    
+    <item>
+      <title>Misc functionals</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/misc_functionals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/misc_functionals/</guid>
+      <description>Functionals over square matrices Also see functionals over +ve definite A.
+Determinant of square A Definitions Det(A) or \(|A|\) : The recursive defn. Cofactor of \(A_{1,1}\): \(C_{1,1}\) = det of submatrix (minor) of A. Defn by properties: 1: det I = 1. 2: If 2 rows are equal, det(A) = 0. 3: det \(A\) depends linearly on first row.
+Properties So, there is sign change in Det(A) with row exchanges. Also, Det(A) is unchanged with \(row_{1} += k row_{2}\).</description>
+    </item>
+    
+  </channel>
+</rss>

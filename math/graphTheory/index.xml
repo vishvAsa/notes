@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Graph Theory on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/graphTheory/</link>
+    <description>Recent content in &#43;Graph Theory on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/graphTheory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Embed graph in euclidean space</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/graphTheory/embed_graph_in_euclidean_space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/graphTheory/embed_graph_in_euclidean_space/</guid>
+      <description>Want the minimum dimensional embedding.
+Formulation as matrix factorization (Shconberg). Take weighted adj matrix W. \(W_{i,j} = \norm{x_{i}-x_{j}}^{2} = x_{i}^{T}x_{i} + x_{j}^{T}x_{j} - 2x_{i}^{T}x_{j}\). Take \(X = (x_{i})\); Gram matrix \(G = X^{T}X\) normalized to have \(g_{i,i} = 1\); then \(W = 2.11^{T}-2G\). Then solve for G; then solve \(G = X^{T}X\) for X with min number of columns.
+Energy minimization techniques See section on incomplete graphs with similarity measures for intro to notation.</description>
+    </item>
+    
+  </channel>
+</rss>

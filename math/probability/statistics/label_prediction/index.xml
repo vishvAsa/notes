@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Label prediction on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/</link>
+    <description>Recent content in &#43;Label prediction on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>0 Problems</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/0_problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/0_problems/</guid>
+      <description>Aka supervised learning. There are a variety of prediction problems depending on the combination of problem components described below.
+Core problem Input and response variables A label/ target/ response/ dependent \(L\) depends on some predictor/ input/ independent variable \(X\) (a set of features/ covariates).
+Range of X and L Input space is \(D\) dimensional.
+\(range(L)\) may be a subset of a vector space. It may be continuous or discrete.
+Labeling rule sought The agent/ decision rule produced by the learning algorithm must label \(L\) some unlabeled test point(s) \(X\), after some observations/ examples/ training points \(S\).</description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/regression/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/regression/</guid>
+      <description>General problem Many (x, y) pairs (observations), h(x, w) form (eg: degree of polynomial) known, parameters \(w\) in h(x, w) is unknown. Want to find \(w\). range(h) is not finite, it is usually continuous.
+y is the response variable, \(w\) is called the regression vector. The matrix formed by \(x\) is often called the design matrix.
+Many such continuous valued models are described in probabilistic models reference.
+Linear regression The problem h(x, w) is linear in \(w\) (Eg: \(w_1 x^{3}+ w_2 \)x\( + w_3=0\): \(\ftr_{i}(x) = x^{i}\)).</description>
+    </item>
+    
+    <item>
+      <title>Risk &amp; eval</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/risk_and_evaluation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/risk_and_evaluation/</guid>
+      <description>It may be essential to model \(Pr(L|X, S)\); this is called Inference in the context of probabilistic graphical models.
+Loss functions: labeling single data points Different measures of goodness/ error functions are appropriate for different scenarios.
+Loss functions: vector labels Loss functions in this case are often defined to penalize deviation from the actual label symmetrically.
+See loss functions in regression section.
+Loss functions for classification Below we mainly consider the loss functions \(l(\hat{y}, y)\) which are without regularization to account for prior belief.</description>
+    </item>
+    
+    <item>
+      <title>Solution properties</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/solution_properties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/solution_properties/</guid>
+      <description>Empirical risk minimization vs expert systems One way to predict \(L\) given \(X\) is to learn the process by which \(L\) is generated: one can manually create a labeling algorithm by listing out rules which influence labeling: for example by studying expert human animals.
+Often, you cannot know enough about how stuff works in order to have explicit rules. Eg: Expert system for handwriting detection can be tougher to make than a training a statistical model.</description>
+    </item>
+    
+    <item>
+      <title>Sparse signal detection</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/sparse_signal_detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/sparse_signal_detection/</guid>
+      <description>Problem Generating process Suppose that the \(p\) dimensional &amp;lsquo;observation vector&amp;rsquo; \(Y\) is generated from \(Y_i \distr N(\gth_i, \stddev^2) = \gth_i + N(0, \stddev^2)\). \(\stddev\) is known.
+In addition suppose that \(\gth\) is sparse. The set \(K = \set{i: \gth_i \neq 0}\) is called the signal set.
+\(n\) observations \(\set{Y_i = y_i}\) are made. Usually \(n &amp;laquo; p\).
+Decision rule sought The problem for the decision rule, given \(Y_i\) (the observation), is to estimate \(\gth_i\).</description>
+    </item>
+    
+    <item>
+      <title>With fully labelled data</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/with_fully_labelled_data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/with_fully_labelled_data/</guid>
+      <description>Goals and formulations are presented elsewhere.
+Binary classification See the many hypothesis classes/ parametrized model families in the colt ref, boolean functions ref.
+Non parametric methods k nearest neighbors A discriminative, non parametric approach. Number of examples: N. Samples: \(S = (x_{1}, .. x_{N})\). There are \(k\) classes. To classify \(x\), find \(k\) nearest neighbors in S; take their majority vote.
+So, can&amp;rsquo;t ever throw away data points.
+Linear models for discrete classification Linear separability of data sets or feature space: Decision surfaces are (p-1) dim hyperplanes in feature space.</description>
+    </item>
+    
+    <item>
+      <title>With sequential data</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/with_sequential_data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/with_sequential_data/</guid>
+      <description>Trajectory prediction Problem Consider sequential data: observations \(S\) consisting of labels \(L_1 .. L_n\) observed at different positions \(X_1.. X_n\) (perhaps times). We want to predict \(L_{n+1}\) corresponding to \(X_{n+1}\).
+The underlying process is such that the distribution of \(L_{n+1}\) depends on both \(S\) and \(X_{n+1}\).
+Simplifications Even predicting a lower bound or upper bound (whp) of \(L_{n+1}\) may be useful.
+Applications Predicting trajectory of a missile, market price of a security tomorrow.</description>
+    </item>
+    
+  </channel>
+</rss>

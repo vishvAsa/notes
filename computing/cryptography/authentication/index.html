@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Authentication</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/cryptography/authentication/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/cryptography/authentication/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Authentication" />
+<meta property="og:description" content="Using assymetric key cryptography One simple way of authentication is to encrypt and return a challenge message using one&rsquo;s secret key.
+Using a password This is very common - eg: it is used over to log into terminals.
+To beat snooping, passwords are transmitted over a secure channel (eg: ssh vs rsh).
+One-time passwords Passwords may be spoofed - even over a secure channel by an adversary who jumps into a session and replays the password message to, for example change the password." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/cryptography/authentication/" />
+
+<meta itemprop="name" content="Authentication">
+<meta itemprop="description" content="Using assymetric key cryptography One simple way of authentication is to encrypt and return a challenge message using one&rsquo;s secret key.
+Using a password This is very common - eg: it is used over to log into terminals.
+To beat snooping, passwords are transmitted over a secure channel (eg: ssh vs rsh).
+One-time passwords Passwords may be spoofed - even over a secure channel by an adversary who jumps into a session and replays the password message to, for example change the password.">
+
+<meta itemprop="wordCount" content="1176">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Authentication"/>
+<meta name="twitter:description" content="Using assymetric key cryptography One simple way of authentication is to encrypt and return a challenge message using one&rsquo;s secret key.
+Using a password This is very common - eg: it is used over to log into terminals.
+To beat snooping, passwords are transmitted over a secure channel (eg: ssh vs rsh).
+One-time passwords Passwords may be spoofed - even over a secure channel by an adversary who jumps into a session and replays the password message to, for example change the password."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/cryptography\/authentication\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/cryptography\/authentication.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Authentication</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Authentication">Authentication</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/cryptography/authentication.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="using-assymetric-key-cryptography">Using assymetric key cryptography</h2>
+<p>One simple way of authentication is to encrypt and return a challenge message using one&rsquo;s secret key.</p>
+<h2 id="using-a-password">Using a password</h2>
+<p>This is very common - eg: it is used over to log into terminals.</p>
+<p>To beat snooping, passwords are transmitted over a secure channel (eg: ssh vs rsh).</p>
+<h3 id="one-time-passwords">One-time passwords</h3>
+<p>Passwords may be spoofed - even over a secure channel by an adversary who jumps into a session and replays the password message to, for example change the password. To guard against this, a one-time password can be used. These are often based on a one way function \(f\) with an initial point \(p\), which can be used to  generate a sequence \(f^i(p)\). To do this, people are often provided with a special physical device.</p>
+<h2 id="signing-public-messages-and-their-authentication">Signing public messages, and their authentication</h2>
+<p>setup(l): SK, PK, s = sign(m, SK), verify(m, s, PK). Algs use hash fn: H.</p>
+<p>Not all PK cryptosystems can be converted to signature schemes: security proof can fail.</p>
+<h3 id="existantial-unforgeability-under-chosen-message-attack">Existantial unforgeability under chosen message attack</h3>
+<p>Challenger (A) vs attacker (B) game. A to B: PK. B gets many msgs \(\set{m_{i}}\) signed by A. Finally, B forges a \(m^{*} \notin \set{m_{i}}\).</p>
+<h4 id="main-challenges-in-proofs">Main challenges in proofs</h4>
+<p>A, B, C game. Generation of signatures by B; Use of C&rsquo;s forgery to break A.</p>
+<h4 id="weak-signature-scheme">Weak signature scheme</h4>
+<p>B tells A list \(\set{m_{i}}\) he wants signed before B sees PK.</p>
+<h4 id="one-time-signature-scheme">One-time signature scheme</h4>
+<p>Attacker allowed to make only one signing query. Maybe after seeing PK.</p>
+<h4 id="unforgability-using-weak-and-one-time-signatures-w-o">Unforgability using weak and one-time signatures W, O</h4>
+<p>setup(l): Run \(setup_o(l)\) poly(l) number of times. Get vector \(((OSK_{i}, OVK_{i}))\). Run \(setup_w(l)\) and get \(VK_w, SK_w\). Sign all \(\set{OVK_{i}}\) with \(SK_w\) to get the vector \((SOVK_i)\). Set \(PK = PK_w\).</p>
+<p>sign(m): Pick \((OSK_{i}, OVK_{i}, SOVK_i)\) triple \<br>
+not used eariler. Get \(s_1 = sign_o(m, OSK_{i})\). Set \(s = s_1, SOVK_i, OVK_{i}\). verify(m, s): \(verify_w(SOVK_i, OVK_{i}, VK_w) \iseq 1\) and \(verify_o(s_1, m, OVK_{i}) \iseq 1\).</p>
+<h3 id="schnorr-signature">Schnorr signature</h3>
+<p>Setup: Take G of prime order p; Pick g, a; PK: g, \(g^{a}\). SK: a. \(H:\set{0, 1}^{*} \times G \to Z_{p}\). Sign(m, SK): Pick random \(g^{k}\); \(e = H(m, g^{k})\); t = k + ae mod p; \(s=(g^{k}, t)\). Verify(m, s, PK): Know \(e, g, g^{a}, g^{k}\); chk \(g^{t} \iseq g^{k}(g^{a})^{e}\).</p>
+<h4 id="unforgeability-under-random-oracle-assumption">Unforgeability under random oracle assumption</h4>
+<p>A: DL challenger; B: DL attacker; C: Schnorr attacker. B gets g, \(g^{a}\) from A, passes it on to C as PK. When C asks for sign(m, SK), B picks random e; want t = k + ae mod p, pick k = r - ae; fill up random oracle table \(H(m, g^{k}) = e\). B knows random bits used by C. When C forges, it uses some query \(H(m, g^{k})\); random oracle gives \(e_{1}\), set up by B for \(g^{k_{1}}\): so B, given the forgery, knows \(t_{1} = k_{1} + ae_{1}\). Then B rewinds C to the same point and instead supplies \(e_{2}\), finds \(t_{2} = k_{1} + ae_{2}\), finds a.</p>
+<h3 id="rsa-signature">RSA signature</h3>
+<p>Use RSA SK to sign: \(H(m)^{d} \mod n\) = s. Use RSA PK to verify: \(s^{e} \mod n \iseq H(m)\). e chosen to be small: like 3: faster verification. Can&rsquo;t have d too small: attack can try all small numbers.</p>
+<h4 id="unforgeability-under-random-oracle-assumption-1">Unforgeability under random oracle assumption</h4>
+<p>Not based on DL. A: RSA assumption challenger; B: RSA attacker; C: RSA forger. A gives B: \(N, e, h^{e}\). Game mostly same as Schnorr. When B must sign m, it picks y, sets \(H(m) = y^{e}\), returns y. When C forges using query H(m), it is given \(h^{e}\).</p>
+<h3 id="signature-from-ghr">Signature from GHR</h3>
+<p>Setup: PK: N = pq, u, w; SK: p, q. Sign(m): pick prime \(e &lt; \phi(N)\); \(s = (u^{m}w)^{e^{-1}}, e\). Verify: \(s^{e} \iseq (u^{m}w)\).</p>
+<h4 id="unforgeability-under-weak-signauture-scheme">Unforgeability under weak signauture scheme</h4>
+<p>A: Flexible RSA challenger; B: FRSA attacker; C: GHR forger. B gives A set \(\set{m_{i}}\); A replies with \(\set{s_{i}}\) with \(\set{e_{i}}\). A gives B PK depending on 2 cases. Case 1: Guess that forgery on \(m_{k}\); pick \(g = h^{m_{j} - m_{k}}\), set \(w = g^{\prod_{i}e_{i}}h^{-m_{k}\prod_{i \neq k}e_{i}}, u = h^{\prod_{i \neq k}e_{i}}\); answer sig query for \(m_{j}\) with \(h^{\Del m  \prod_{i \neq k, j}e_{i}}g^{\prod_{i\neq j}e_{i}}\); get forgery \(s = g^{\prod_{i} e_{i}/e&rsquo;}\); use KS with \(x=h, a = \Del m \prod_{i \neq k}e_{i}, y = s, b = e_{k}\) \chk. Case 2: Pick \(a, w = h^{\prod e_{i}}, u = h^{a \prod e_{i}}\) \chk. \tbc</p>
+<p>KS Lemma: If \(x^{a} = y^{b} \mod p; gcd(a, b)=1\), can find z: \(z^{b} = x\) \why.</p>
+<h3 id="signature-from-bf-ibe">Signature from BF IBE</h3>
+<p>(BLS) BF IBE uses full domain fn H. SK: y. PK: \(g, g^{y}\). Encrypt: \(Keygen(m) = H(m)^{y} = s\). Verify: \(e(s, g) \iseq e(H(m), g^{y})\).</p>
+<h4 id="unforgeability-using-random-oracle">Unforgeability using random oracle</h4>
+<p>A: CDH challenger, B: BLS challenger, C: BLS attacker. A to B: \(g, g^{a}, g^{b}\). B: SK = b (not known to b), PK:\(g, g^{b}\). B guesses that C forges kth query to random oracle, sets \(H(m_{k}) = g^{a}\); for other i, picks random n, sets \(H(m_{i}) = g^{n}\). B replies to sign requests by picking x, setting \(H(m) = g^{x}\), \(g^{xa}\). B uses forgery to break CDH.</p>
+<h3 id="signature-from-any-ibe">Signature from any IBE</h3>
+<p>Setup(l): Get PP, MSK. Set PK = PP; SK = MSK. Sign(m): s = Keygen(H(m), MSK). Verify(m, s): Pick some other msg n. Get c = Encrypt(n, PP, H(m)), then get n&rsquo; = decrypt(c, s), do \(n \iseq n&rsquo;\).</p>
+<h3 id="aggregate-signatures">Aggregate signatures</h3>
+<p>Eg: petition signing, BGP. Verify n msgs with n PK&rsquo;s: \(m_{1} .. m_{n} s_{agg}\). Algorithms: Setup: (PK, SK); \(Sign(SK_{i}, m) = \sigma_{i}, m\); \(aggregate(s_{1 .. k}, \sigma_{k+1}) = s_{k+1}\): \<br>
+ordering should not matter; \(verify(\set{PK_{i}}, m_{1}, .. m_{n}, s_{1 .. n})\).</p>
+<h4 id="unforgability-of-aggregate-signatures">Unforgability of aggregate signatures</h4>
+<p>A: Agg sign challenger; B: attacker. A to B: PK&rsquo;. B gets many messages signed using SK&rsquo;. B forges; forgery: \<br>
+\(\set{m_{i}, m&rsquo;}, \set{PK_{i}, PK&rsquo;}, s\): B not told \(sgn(m&rsquo;)\) earlier.</p>
+<h4 id="aggregate-signature-using-bls">Aggregate signature using BLS</h4>
+<p>\(s_{agg} = \prod H(m_{i})^{y_{i}}\) would fail: B can tell A: \(s_{agg} = H(m&rsquo;)^{y_{1}}H(m&rsquo;)^{-y_{1}} = 1\). Instead use: \(s_{agg} = \prod H(m_{i}, PK)^{y_{i}}\).</p>
+<h3 id="applications">Applications</h3>
+<p>Proof of storage.</p>
+<h4 id="certificate-chains-for-pks">Certificate chains for PK&rsquo;s</h4>
+<p>PK often accompanied by certificate: something signed with the SK of certificate authority (CA). This signature often accompanied by another certified PK. This continues recursively until the trusted root CA&rsquo;s signature.</p>
+<h2 id="proof-of-storage">Proof of storage</h2>
+<p>Owner stores something on storer; who proves storage using a protocol. Owner calls Store(D) \(\to\) Verification Key VK, Storage File SF; owner keeps VK, gives storer SF. Audit interactions: prove(SF) \(\leftrightarrow\) verify(VK). Correctness condition: verify(VK) convinced wnnp iff \(\exists\) extractor: E(p) = D.</p>
+<p>Performance measures: Audit speed, bandwidth between owner and storer during audit, verifier storage, prover storage.</p>
+<p>Store(D): SF = D; \(VK = \set{(h_{i} = H(K_{i}, D), K_{i})}\). Disadvantage: Verification works n times. Usually use random oracles for extraction.</p>
+<h3 id="based-on-erasure-code">Based on Erasure code</h3>
+<p>Code expands m blocks (D) to n blocks; if ye have n/2 blocks, can recover D. SF is the n blocks, with signatures \(\set{sgn(block_{i}, i)}\); VK = signature keys. Verify() wants to check that storer has n/2 blocks whp: Verify asks for k random blocks; storer gives these blocks; verifier checks signature in response; if storer has \(&lt; n/2\) blocks, Pr(Audit succeeds) \(\leq 2^{-k}\).</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Authentication </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Authentication</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Couchdb</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/no_sql/Couchdb/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/no_sql/Couchdb/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Couchdb" />
+<meta property="og:description" content="Overview  Master-Master Replication - so better than master-slave. Eventual consistency. partition tolerance. lately allows ad hoc querying with sql-like syntax (changed in 2016?). Can also do map-reduce with views. great versioning system. heavy-write friendly thanks to its append-only nature (writes operations return in no time while guaranteeing that no data will ever be lost). CouchDb relies on b-tree for all, even indexes. This means that even with 20 billions, the querying time will always remain below 10ms." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/no_sql/Couchdb/" />
+
+<meta itemprop="name" content="Couchdb">
+<meta itemprop="description" content="Overview  Master-Master Replication - so better than master-slave. Eventual consistency. partition tolerance. lately allows ad hoc querying with sql-like syntax (changed in 2016?). Can also do map-reduce with views. great versioning system. heavy-write friendly thanks to its append-only nature (writes operations return in no time while guaranteeing that no data will ever be lost). CouchDb relies on b-tree for all, even indexes. This means that even with 20 billions, the querying time will always remain below 10ms.">
+
+<meta itemprop="wordCount" content="595">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Couchdb"/>
+<meta name="twitter:description" content="Overview  Master-Master Replication - so better than master-slave. Eventual consistency. partition tolerance. lately allows ad hoc querying with sql-like syntax (changed in 2016?). Can also do map-reduce with views. great versioning system. heavy-write friendly thanks to its append-only nature (writes operations return in no time while guaranteeing that no data will ever be lost). CouchDb relies on b-tree for all, even indexes. This means that even with 20 billions, the querying time will always remain below 10ms."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/programming\/programmingLanguages\/db\/no_sql\/Couchdb\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/programming\/programmingLanguages\/db\/no_sql\/Couchdb.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Couchdb</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Couchdb">Couchdb</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/programming/programmingLanguages/db/no_sql/Couchdb.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="overview">Overview</h2>
+<ul>
+<li>Master-Master Replication - so better than master-slave. Eventual consistency. partition tolerance.</li>
+<li>lately allows ad hoc querying with sql-like syntax (changed in 2016?). Can also do map-reduce with views.</li>
+<li>great versioning system.</li>
+<li>heavy-write friendly thanks to its append-only nature (writes operations return in no time while guaranteeing that no data will ever be lost).</li>
+<li>CouchDb relies on b-tree for all, even indexes. This means that even with 20 billions, the querying time will always remain below 10ms. This is a game changer which makes CouchDb a low-latency and read-friendly database.</li>
+</ul>
+<h3 id="distributions">Distributions</h3>
+<ul>
+<li>oft very inter-compatible:</li>
+<li>apache couchdb.
+<ul>
+<li>free couchbase community (apache couchdb + memcache). commercial couchbase.</li>
+</ul>
+</li>
+<li>Couchbase Lite (android api).</li>
+<li>js pouchdb.</li>
+<li>Cloudant BigCouch (scales horizontally -  While it appears to the end-user as one CouchDB instance, it is in fact one or more nodes in an elastic cluster,)</li>
+</ul>
+<h2 id="contents">Contents</h2>
+<ul>
+<li>Documents. Each document is identified uniquely by its ID.</li>
+<li>Views. Each view has a unique name, and a persistent index as well as map and reduce functions.</li>
+<li>Filter functions. These are used to replicate subsets of documents.</li>
+<li>Replications. Each replication specifies a remote database to sync documents to or from, and other parameters.</li>
+</ul>
+<h2 id="querying">Querying</h2>
+<p>Queries can then look up a range of rows from a view, and either use the rows&rsquo; keys and values directly or get the documents they came from.</p>
+<p>Cloudant&rsquo;s mango language is a mongo DB API layer for couchdb. Automatically tries to use the best available index (_all_docs index by default)</p>
+<h2 id="permissions">Permissions</h2>
+<ul>
+<li>2 classes of users: admins, users.</li>
+<li>if admins present, only they can create design docs, indices etc.. .</li>
+<li>if users present, only they can read write etc.. else everyone can.</li>
+<li>read only restriction only possible with a validation function</li>
+</ul>
+<h2 id="indexing">Indexing</h2>
+<ul>
+<li>A View is a persistent index of documents in a database, ordered by some key, mapped to some value (+ a link to original doc), which you then query to find.</li>
+<li>The main component of a view (other than its name) is its map function. See below.</li>
+<li>The resulting index is persistent, and updated incrementally as documents change.</li>
+</ul>
+<h3 id="mango">Mango</h3>
+<pre><code>{
+  &quot;index&quot;: {
+    &quot;fields&quot;: [
+      &quot;_id&quot;,
+      &quot;someField.someSubField&quot;
+    ]
+  },
+  &quot;type&quot;: &quot;json&quot;
+}
+</code></pre><ul>
+<li>type (optional): Can be json or text. Defaults to json.</li>
+<li>name (optional): Name of the index.</li>
+<li>ddoc (optional): Name of the design document in which the index is created. By default, each index is created in its own design document.</li>
+<li>Note: someArrayField.someSubField does not work - <a href="https://couchdb.slack.com/archives/C49LEE7NW/p1504061667000145">https://couchdb.slack.com/archives/C49LEE7NW/p1504061667000145</a> .</li>
+</ul>
+<h3 id="js-index">JS Index</h3>
+<h4 id="setup">Setup</h4>
+<p>Even though a view is persistent, its map and reduce functions aren&rsquo;t: they&rsquo;re just function pointers (or blocks, or inner classes) and have to be registered at runtime, before the view is queried.</p>
+<p>It&rsquo;s good practice to set up views when your app starts up, right after opening the database</p>
+<h4 id="map-function">Map function</h4>
+<p>This function is written in the same language as your app. It takes a document&rsquo;s JSON as input, and emits (outputs) any number of key/value pairs to be indexed. A view may also have a reduce function. If present, it can be used during queries to combine multiple rows into one.</p>
+<p>Both the key and value passed to emit can be any JSON-compatible objects - ie numbers too.</p>
+<p>For example of routine and resultant values, see js couchdb.</p>
+<h4 id="failure-handling">Failure handling</h4>
+<p>CouchDB recovers gracefully from a few isolated map function failures, but when a map function fails regularly (due to a missing required field or other JavaScript exception), CouchDB shuts off its indexing to prevent any further resource usage. For this reason, it’s important to check for the existence of any fields before you use them.</p>
+<h2 id="ref">Ref</h2>
+<!-- raw HTML omitted -->
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Couchdb </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Couchdb</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

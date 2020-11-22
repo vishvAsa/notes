@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Density estimation</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/density_estimation/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/density_estimation/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Density estimation" />
+<meta property="og:description" content="Importance Fitting a model to observations, ie picking a probability distribution from a family of distributions, is an important component of many statistics tasks where one reasons about uncertainty by explicitly using probability theory. Such tasks are labeled &lsquo;Bayesian inference&rsquo;.
+Choosing the distribution family Observe empirical distribution Draw a bar graph, see what the curve looks like.
+Given expected values of fns \( \set{E[\ftr_{i(X)}] = \mean_{i} } \) and a base measure h Suppose we want to modify h as little as possible, under KL divergence, so that it has \(E[\ftr(X)] = \mean\)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/probability/statistics/distribution_structure_learning/density_estimation/" />
+
+<meta itemprop="name" content="Density estimation">
+<meta itemprop="description" content="Importance Fitting a model to observations, ie picking a probability distribution from a family of distributions, is an important component of many statistics tasks where one reasons about uncertainty by explicitly using probability theory. Such tasks are labeled &lsquo;Bayesian inference&rsquo;.
+Choosing the distribution family Observe empirical distribution Draw a bar graph, see what the curve looks like.
+Given expected values of fns \( \set{E[\ftr_{i(X)}] = \mean_{i} } \) and a base measure h Suppose we want to modify h as little as possible, under KL divergence, so that it has \(E[\ftr(X)] = \mean\).">
+
+<meta itemprop="wordCount" content="834">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Density estimation"/>
+<meta name="twitter:description" content="Importance Fitting a model to observations, ie picking a probability distribution from a family of distributions, is an important component of many statistics tasks where one reasons about uncertainty by explicitly using probability theory. Such tasks are labeled &lsquo;Bayesian inference&rsquo;.
+Choosing the distribution family Observe empirical distribution Draw a bar graph, see what the curve looks like.
+Given expected values of fns \( \set{E[\ftr_{i(X)}] = \mean_{i} } \) and a base measure h Suppose we want to modify h as little as possible, under KL divergence, so that it has \(E[\ftr(X)] = \mean\)."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/probability\/statistics\/distribution_structure_learning\/density_estimation\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/probability\/statistics\/distribution_structure_learning\/density_estimation.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Density estimation</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Density estimation">Density estimation</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/probability/statistics/distribution_structure_learning/density_estimation.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="importance">Importance</h2>
+<p>Fitting a model to observations, ie picking a probability distribution from a family of distributions, is an important component of many statistics tasks where one reasons about uncertainty by explicitly using probability theory. Such tasks are labeled &lsquo;Bayesian inference&rsquo;.</p>
+<h2 id="choosing-the-distribution-family">Choosing the distribution family</h2>
+<h3 id="observe-empirical-distribution">Observe empirical distribution</h3>
+<p>Draw a bar graph, see what the curve looks like.</p>
+<h3 id="given-expected-values-of-fns--seteftr_ix--mean_i---and-a-base-measure-h">Given expected values of fns \( \set{E[\ftr_{i(X)}] = \mean_{i} } \) and a base measure h</h3>
+<p>Suppose we want to modify h as little as possible, under KL divergence, so that it has \(E[\ftr(X)] = \mean\). If h is U, then this is same as finding a maximum entropy distribution with \(E[\ftr(X)] = \mean\). Then, the solution belongs to the exponential family generated by h and \(\ftr()\): see probabilistic models ref.</p>
+<h3 id="given-dependence-among-features">Given dependence among features</h3>
+<p>Use graphical models - see probability ref.</p>
+<h2 id="parametric-density-estimation">Parametric density estimation</h2>
+<p>Described in a separate chapter.</p>
+<h2 id="non-parametric-probability-density-estimation">Non parametric Probability Density estimation</h2>
+<p>Estimate distribution on input space using \(N\) samples \((x_{i})\), without limiting attention to a certain set of distributions.</p>
+<h3 id="histogram-and-the-kernel-histogram">Histogram and the Kernel histogram</h3>
+<p>A distribution from bar-graph of frequency vs input interval. Can simply use a histogram.</p>
+<h3 id="kernel-density-estimation">Kernel density estimation</h3>
+<p>(Parzen). \(p(x) = \frac{1}{Nh}\sum_{i=1}^{N} K(\frac{x-x_{i}}{h})\), for kernel K. A smoothening of the histogram using kernels.</p>
+<h4 id="kernel-function-for-density-estimation">Kernel function for density estimation</h4>
+<p>Non negative real valued integrable K(x) satisfies: \(\int_{-\infty}^{+\infty}K(u)du = 1\) (ensures PDF qualities during density estimation); \(K(-u) = u\) (ensures mean of the PDF is the data point during density estimation). So, K(x) akin to kernel of an integral operator: see functional analysis ref.</p>
+<h4 id="using-gaussian-radial-basis-functions">Using Gaussian radial basis functions</h4>
+<p>Aka Gaussian kernel.\<br>
+\(K(u) = \frac{1}{2\pi}e^{-\frac{u^{2}}{2}}\): Gaussian function with mean 0, variance 1.</p>
+<p>Taking 1 Gaussian distribution/ adding 1 bump for each data point. h, controlling the variance of the bump, called the smoothing parameter/ bandwidth.</p>
+<p>+++(Can approximate any distribution by mixture of Gaussians!)+++</p>
+<h2 id="estimate-probability-measures">Estimate probability measures</h2>
+<h3 id="use-empirical-measures">Use empirical measures</h3>
+<h4 id="empirical-measure">Empirical measure</h4>
+<p>The estimated measure using \(n\) samples for a given function is \(v_{n}(f| D) = n^{-1} \sum I_{f}(X_i)\), where \(D = \set{X_i}\) is a set of samples drawn iid from \(v\).</p>
+<h4 id="goodness-of-estimate-single-event">Goodness of estimate: single event</h4>
+<p>By law of large numbers, as \(\lim_{n \to \infty} E[\frac{\sum f(X_{i})}{n}] = E_X[f(X)] = v(f)\). Also, we can use the Hoeffding inequality (see probabilistic models survey) to bound \(Pr_D(|v(f) - v_n(f|D)| \geq \eps)\) and see that it decreases exponentially with increasing \(n\) and \(\eps\).</p>
+<h5 id="bound-variability-in-estimate">Bound variability in estimate</h5>
+<p>From central limit theorem, we know that, as \(n \to \infty\), the sample distribution approaches \(N(v(f), \frac{\stddev}{\sqrt{n}})\).</p>
+<p>Also, we can use: \(Pr_{D, D&rsquo;}(|v_n(f|D) - v_n(f|D&rsquo;)|\geq \eps) \leq Pr_{D, D&rsquo;}(|v_n(f|D) - v(f)|\geq \eps/2 \lor |v_n(f|D&rsquo;) - v(f)|\geq \eps/2) = 2Pr(|v_n(f|D) - v(f)| \leq \eps/2)\) and use the Hoeffding inequality again.</p>
+<h4 id="goodness-of-estimate-for-a-class-of-events">Goodness of estimate for a class of events</h4>
+<p>Let \(F = \set{f}\) be a class of events (or binary functions) defined on the input space \(X\), on which \(v\) is a measure. Let \(E_{F}(m)\) be max dichotomy count: see boolean functions survey.</p>
+<p>(Vapnik, Chervonenkis).</p>
+<p>Then \(Pr(\sup_{f \in F} |v_n(f|D) - v(f)| &gt; \eps) \leq 8 E_{F}(n)exp(\frac{-n\eps^{2}}{32})\).</p>
+<!-- raw HTML omitted -->
+<p>So, first we show that \<br>
+\(Pr_D(\sup_{f \in F} |v_n(f|D) - v(f)| &gt; \eps) \leq 2Pr_{D, D&rsquo;}(\sup_{f \in F} |v_n(f|D) - v_n(f|D&rsquo;)| &gt; \eps/2)\), for sample set \(D&rsquo;\) acquired in the same way as \(D\). Lemma <!-- raw HTML omitted -->\(Pr_{D, D&rsquo;}(\sup_{f \in F} |v_n(f|D) - v_n(f|D&rsquo;)| &gt; \eps/2) \geq Pr_{D}(\sup_{f \in F} |v_n(f|D) - v(f)| &gt; \eps)Pr_{D&rsquo;}(|v_n(f|D&rsquo;) - v_n(f)| &lt; \eps/2| |v_n(f'|D) - v(f&rsquo;)| &gt; \eps)\); and the latter factor can be seen to be small: \(&lt;1/2\) using Chebyshev inequality. This is called the &lsquo;ghost sample technique&rsquo;.<!-- raw HTML omitted --></p>
+<p>So, now we need only bound \(Pr_{D, D&rsquo;}(\sup_{f \in F} |v_n(f|D) - v_n(f|D&rsquo;)| &gt; \eps/2)\). One way to deal with this is to take the union bound now over the set of all dichotomies induced over \(D \union D&rsquo;\) to get the bound: \(E_F(2n)Pr(D, D&rsquo;)( |v_n(f|D) - v_n(f|D&rsquo;)| &gt; \eps/2)\), which can then be bounded as described elsewhere.}</p>
+<h5 id="sharper-bound">Sharper bound</h5>
+<p>The sharper bound we require can be obtained using a different analysis, involving \(E_F(n)\) instead. The process of picking \(D, D&rsquo;\) and calculating \(n^{-1}|\sum_i f(X_i) - \sum_i f(X&rsquo;<em>i)|\) is equivalent to the process of picking \(D, D&rsquo;\), and then picking \(n\) bits \(s\), and then finding \(n^{-1}|s_i(\sum_i f(X_i) - \sum_i f(X&rsquo;<em>i))|\) : in other words, we do this \(n\) times: pick a pair of points and assign it to \(D\) and \(D&rsquo;\) at random. So, we bound \(Pr</em>{D, D&rsquo;,s }(\sup</em>{f \in F} n^{-1}|s_i(\sum_i f(X_i) - \sum_i f(X&rsquo;<em>i))|&gt; \eps/2) \leq Pr</em>{D, D&rsquo;,s }(\sup_{f \in F} [|n^{-1}\sum_i s_if(X_i)| \geq \eps/4 \lor |n^{-1}\sum_i -s_if(X&rsquo;_i)| \geq \eps/4]) = 2Pr_{D, s}(\sup_{f \in F} |n^{-1}\sum_i s_if(X_i)| \geq \eps/4)\). A union bound over \(E_F(n)\) members of \(F\) and a Hoeffding inequality can now be applied to bound this.</p>
+<h3 id="estimate-cdf-using-empirical-cdf">Estimate CDF using empirical CDF</h3>
+<p>(Glivenko Cantelli). Pick \(\set{Z_i} \distr F\), the CDF. \<br>
+Then \(Pr(\sup_z |F_n(z) - F(z)| &gt; \eps) \leq 8(n+1)exp(\frac{-n\eps^{2}}{32})\). Pf: Apply VCD theorem with open intervals as classifiers.</p>
+<p>Answer to: What \(n\) do you need to achieve low error? Thence Borel - Cantelli: \(\lim_{n \to \infty} \sup |F_n(z) - F(z)| = 0\) with probability 1.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Density estimation </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Density estimation</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

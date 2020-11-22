@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Agranulocyte on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/biology/organism/physiology/immune_system/cells/Agranulocyte/</link>
+    <description>Recent content in &#43;Agranulocyte on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/biology/organism/physiology/immune_system/cells/Agranulocyte/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Leucocyte</title>
+      <link>file:///storage/emulated/0/notesData/notes/biology/organism/physiology/immune_system/cells/Agranulocyte/Leucocyte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/biology/organism/physiology/immune_system/cells/Agranulocyte/Leucocyte/</guid>
+      <description>T cells  Cytotoxic T cells recognize infected cell (by recognizing some antigen) and spur cell death.  Memory T cells Reignite during secondary exposure.
+B cells When activated: Secrete antibodies.
+ Neutralizing antibodies bind to a virus and ensure that they can&amp;rsquo;t bind to cell receptors. Non-neutralizing antibodies bind to antigens on surface of infected cells - detected by natural killer cells.  Plasma cells  Some B cells become plasma cells, which secrete antibodies for years.</description>
+    </item>
+    
+    <item>
+      <title>Monocyte</title>
+      <link>file:///storage/emulated/0/notesData/notes/biology/organism/physiology/immune_system/cells/Agranulocyte/Monocyte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/biology/organism/physiology/immune_system/cells/Agranulocyte/Monocyte/</guid>
+      <description>Dendridic cells  Major role in adaptive immunity. Antigen-presenting cells (also known as accessory cells). Take infection to lymph nodes and activate T and B cells.  </description>
+    </item>
+    
+  </channel>
+</rss>

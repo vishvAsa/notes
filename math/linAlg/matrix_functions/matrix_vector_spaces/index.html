@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Matrix vector spaces</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/matrix_vector_spaces/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/matrix_vector_spaces/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Matrix vector spaces" />
+<meta property="og:description" content="Vector space of matrices over field F \(M_{m, n}(F), M_{n, n}(F) \equiv M_{n}(F)\). \(M_{m, n}(C) = C^{mn} \equiv C^{m \times n}\).
+Matrix inner products Trace inner product \(\dprod{A,B} = tr(B^{*}A)\) : same as taking vectorizing B and \(A\) and using vector \(\dprod{.,.}\); also see the elementwise multiplication before addition view. Aka standard inner product.
+For symmetric matrices: \(\dprod{A, B} = \sum_i \sum_j X_{ii} Y_{ij}\)
+Matrix norms Obeys all properties of vector norms,\" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/linAlg/matrix_functions/matrix_vector_spaces/" />
+
+<meta itemprop="name" content="Matrix vector spaces">
+<meta itemprop="description" content="Vector space of matrices over field F \(M_{m, n}(F), M_{n, n}(F) \equiv M_{n}(F)\). \(M_{m, n}(C) = C^{mn} \equiv C^{m \times n}\).
+Matrix inner products Trace inner product \(\dprod{A,B} = tr(B^{*}A)\) : same as taking vectorizing B and \(A\) and using vector \(\dprod{.,.}\); also see the elementwise multiplication before addition view. Aka standard inner product.
+For symmetric matrices: \(\dprod{A, B} = \sum_i \sum_j X_{ii} Y_{ij}\)
+Matrix norms Obeys all properties of vector norms,\">
+
+<meta itemprop="wordCount" content="668">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Matrix vector spaces"/>
+<meta name="twitter:description" content="Vector space of matrices over field F \(M_{m, n}(F), M_{n, n}(F) \equiv M_{n}(F)\). \(M_{m, n}(C) = C^{mn} \equiv C^{m \times n}\).
+Matrix inner products Trace inner product \(\dprod{A,B} = tr(B^{*}A)\) : same as taking vectorizing B and \(A\) and using vector \(\dprod{.,.}\); also see the elementwise multiplication before addition view. Aka standard inner product.
+For symmetric matrices: \(\dprod{A, B} = \sum_i \sum_j X_{ii} Y_{ij}\)
+Matrix norms Obeys all properties of vector norms,\"/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/linAlg\/matrix_functions\/matrix_vector_spaces\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/linAlg\/matrix_functions\/matrix_vector_spaces.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Matrix vector spaces</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Matrix vector spaces">Matrix vector spaces</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/linAlg/matrix_functions/matrix_vector_spaces.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="vector-space-of-matrices-over-field-f">Vector space of matrices over field F</h2>
+<p>\(M_{m, n}(F), M_{n, n}(F) \equiv M_{n}(F)\). \(M_{m, n}(C) = C^{mn} \equiv C^{m \times n}\).</p>
+<h2 id="matrix-inner-products">Matrix inner products</h2>
+<h3 id="trace-inner-product">Trace inner product</h3>
+<p>\(\dprod{A,B} = tr(B^{*}A)\) : same as taking vectorizing B and \(A\) and using vector \(\dprod{.,.}\); also see the elementwise multiplication before addition view. Aka standard inner product.</p>
+<p>For symmetric matrices: \(\dprod{A, B} = \sum_i \sum_j X_{ii} Y_{ij}\)</p>
+<h2 id="matrix-norms">Matrix norms</h2>
+<p>Obeys all properties of vector norms,\<br>
+plus sub-multiplicativity: \(\norm{AB} \leq \norm{A} \norm{B}\). Perhaps \(\norm{A} = \norm{A^{*}}\) too. Generalized matrix norms need not be submultiplicative.</p>
+<h3 id="unitary-invariance">Unitary invariance</h3>
+<p>If \(\norm{.}\) unitary invariant, by SVD, \(\norm{A} = \norm{\SW}\).</p>
+<h4 id="symmetric-gauge-fn-g">Symmetric gauge fn g</h4>
+<p>\(g:C^{q} \to R^{+}\) is a vector norm on \(C^{q}\) which is also an absolute norm, and is permutation invariant: g(Px) = g(x): a fn on a set rather than a seq.</p>
+<p>Every unitarily invariant matrix norm \(\equiv\) symmetric gauge fn on \(\sw\). Pf: Given \(\norm{}: g(x) = \norm{X}: X = diag(x)\) is symm gauge: permutation invariance from unitary invariance of \(\norm{}\). \(\norm{X} = g(\sw)\) is unitary invariant matrix norm: unitary invariance from invariance of \(\SW\); as g is vector norm, get +ve definiteness, non negativity, homogenousness. \(\triangle\) ineq: g is absolute, so monotone; \(\sw(A + B)\) weakly majorized by \(\sw(A) + \sw(B)\), so \(\sw(A+B) \leq S[\sw(A) + \sw(B)]\) for doubly stochastic S; so \(g(\sw(A+B)) \leq g(S(\sw(A)+\sw(B))) \leq \sum \ga_{i}(g(P_{i}\sw(A)) + g(P_{i}\sw(B))) \leq g(\sw(A)) + g(\sw(B)) = \norm{A} + \norm{B}\), by Birkhoff.</p>
+<h3 id="max-norm">Max norm</h3>
+<p>\(\max |a_{i,j}|\).</p>
+<h3 id="matrix-p-norms-induced-by-vector-norms">Matrix p norms Induced by vector norms</h3>
+<p>\(\norm{A} = \sup_{x} \frac{\norm{Ax}}{\norm{x}}\). Obeys triangle ineq! So, get (p, q) norm, p norm.</p>
+<p>\(\norm{A}<em>{p} = \norm{U\SW V^{*}}</em>{p} = \norm{\SW}_{p}\).</p>
+<p>\(\norm{A}<em>{\infty}\) is max row sum: use suitable \(x = |1|^{n}\); thence get \(\norm{Ax}</em>{\infty}\).</p>
+<p>\(\norm{A}_{1}\) is max col sum.</p>
+<h4 id="unitary-invariance-2-norm-only">Unitary invariance: 2 norm only</h4>
+<p>Change of orth basis. \(\norm{QA}<em>{2}=\norm{A}</em>{2}\) as \(\norm{Qx}<em>{2}=\norm{x}</em>{2}\).</p>
+<p>But, \(\norm{QA}<em>{p} \neq \norm{A}</em>{p}\) as \(\norm{Qx}<em>{p} \neq \norm{x}</em>{p}\). By SVD, \(\norm{A}<em>{2} = \norm{A^{*}}</em>{2}\).</p>
+<h4 id="comaprison-of-norms">Comaprison of norms</h4>
+<p>\(\norm{A}<em>{\infty} \leq \sqrt{n}\norm{A}</em>{2}\): Take x with \(\norm{x}<em>{2} = 1\), for which \(\norm{Ax}</em>{2} = \norm{A}<em>{2}\); then \(n\norm{Ax}</em>{2}^{2} = n\norm{A}<em>{2}^{2} = \sum</em>{j}(\sum_{i}nx_{i}A_{j,i})^{2}\); \(nx_{i}^{2} \geq 1\), so this exceeds every row sum.</p>
+<p>Similarly, \(\frac{\norm{A}<em>{F}}{\sqrt{n}} \leq \norm{A}</em>{2}\).</p>
+<p>\(\norm{A}<em>{2} \leq \sqrt{m}\norm{A}</em>{\infty}\): For \(\norm{x}<em>{2}=1, {Ax}</em>{i} \leq \) max row sum of A.</p>
+<p>Indicate matrix <strong>energy</strong>, consider sphere mapped to ellipse.</p>
+<h4 id="connection-with-spectral-radius">Connection with spectral radius</h4>
+<p>\(\norm{A} \geq |\gl_{max}(A)|\) as \(\sup_x \frac{\norm{Ax}}{\norm{x}} \geq |\gl_{max}(A)|\). +++(Wonderful!)+++</p>
+<h4 id="find-p-norm-of-a">Find p norm of A</h4>
+<p>For \(\norm{A}_{2}\) use SVD; aka spectral norm if \(A\) square.</p>
+<p>Take x with \(\norm{x}<em>{p}\) = 1, maximize \(\norm{Ax}</em>{p}\). Use Triangle inequality: \(\norm{Ax}<em>{1} = \norm{\sum x</em>{i}a_{i}}\ \leq \sum |x_{i}a_{i}|\), so \(\norm{Ax}_{1} = max \norm{x_{i}}\).</p>
+<p>Similarly use Cauchy Schwartz ineq. By \(\norm{A} \geq \frac{\norm{Ax}}{\norm{x}}\), \<br>
+\(\norm{ABx} \leq \norm{A}\norm{Bx} \leq \norm{A}\norm{B} \norm{x}\); so \(\norm{AB} \leq \norm{A}\norm{B}\) (in general a loose bound).</p>
+<h3 id="matrix-p-q-induced-norm">Matrix (p, q) induced norm</h3>
+<p>Aka operator norm. \(\max_{\norm{q} = 1} \norm{Ax}_{p}\). Check \(\triangle\) ineq.</p>
+<h3 id="ky-fan-pk-norms">Ky Fan (p,k) norms</h3>
+<p>Take \(\sw_{i}\) in descending order. \(\norm{A}_{p,k} = (\sum_{i=1}^{k}\sw_{i}^{p})^{1/p}\) for \(p\geq 1\): p norm to top k \(\sw\).</p>
+<p>\(\triangle\) ineq for (1, k) norm from \(\SW\) inequalities. Vector normness for \(\norm{A}<em>{p,k}\): \(\norm{x}</em>{p,k}\) a symmetric gauge fn: \(\triangle\) ineq: take \(A\), b in descending order to get \(a&rsquo; = (a_{[i]}), b&rsquo; = (b_{[i]})\); \(\sum_{i}^{k} (a_{[i]} + b_{[i]}) \geq \sum_{i}^{k}(a+b)_{[i]}\); so by weak majorization lore, for \(p \geq 1\): \(\sum_{i}^{k} (a_{[i]} + b_{[i]})^{p} \geq \sum_{i}^{k}(a+b)_{[i]}^{p}\); thence see: \(\norm{a&rsquo; + b&rsquo;}_{p,k} \leq \norm{a&rsquo;}_{p,k} + \norm{b&rsquo;}_{p,k}\) from p-norm properties.</p>
+<p>Matrix normness:\<br>
+\(\sum_{i=1}^{k}\sw_{i}(AB)^{p} \leq \sum_{i=1}^{k}\sw_{i}(A)^{p}\sw_{i}(B)^{p}\leq \sum_{i=1}^{k}\sw_{i}(A)^{p}\sum_{i=1}^{k}\sw_{i}(B)^{p}\).</p>
+<p>\(\norm{A}<em>{1,1} = \norm{A}</em>{2}\).</p>
+<h3 id="schatten-p-norms">Schatten p norms</h3>
+<p>Apply p norm to singular values. Special case of Ky Fan norm: \(\norm{A}<em>{p,q}  = \norm{A}</em>{Sp} = (\sum \sw_{i}^{p})^{1/p}\). Vector normness from seeing that this is a symmetric gauge fn.</p>
+<h4 id="frobenius-hilbert-schmidt-euclidian-norm">Frobenius (Hilbert-Schmidt, Euclidian) norm</h4>
+<p>\(\norm{A}<em>{S2} = \norm{A}</em>{F}\).</p>
+<p>\((\sum a_{i,j}^{2})^{\frac{1}{2}} = (\sum \norm{a_{j}}^{2})^{\frac{1}{2}} = (tr A^{*}A)^{\frac{1}{2}} = (tr AA^{*})^{\frac{1}{2}} = (tr \SW^{*}\SW)^{1/2} = A_{F}\). So, based on matrix inner product: \(\dprod{A,B} = tr(B^{*}A)\).</p>
+<p>So, \(\norm{QA}<em>{F}=\norm{A}</em>{F}\). By Cauchy Schwartz,
+$$\norm{C}<em>{F}^{2} = \norm{AB}</em>{F}^{2} = \<br>
+\sum_{i}\sum_{j} (a_{i}^{*}b_{j})^{2} \leq \sum_{i}\sum_{j} \norm{a_{i}}_{2}^{2}\norm{b_{j}}_{2}^{2} =\norm{A}_{F}\norm{B}_{F}$$.</p>
+<h4 id="trace-nuclear-norm">Trace (Nuclear) norm</h4>
+<p>\(\norm{A}<em>{S1} = \norm{A}</em>{tr} = \sum \sw_{i} = tr((A^{*}A)^{1/2})\). Corresponds to the trace inner product.</p>
+<p>In finding \(C,D: \min \norm{A - CD}_{tr}\), using trace norm often yields low rank solutions. \chk</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Matrix vector spaces </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Matrix vector spaces</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

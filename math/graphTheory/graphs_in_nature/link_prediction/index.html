@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Link prediction</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/link_prediction/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/link_prediction/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Link prediction" />
+<meta property="og:description" content="Graph G = (V, E). Every edge has this label: t(e): The time during which interaction represented by e took place. Given \(G[t_{0}, t_{0}&#39;]\) (training interval), output a list of edges not presented in it, but present in \(G[t_{1}, t_{1}&#39;]\) (testing interval). Maybe want to output top n most likely-to-appear edges.
+Motivation Security. Improving organizational efficiency by going beyond official hierarchy. Inferring missing links from observed network.
+Observations about link prediction Small world problem: tenuous short links exist between otherwise unrelated nodes: noise wrt to the link prediction problem." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/graphTheory/graphs_in_nature/link_prediction/" />
+
+<meta itemprop="name" content="Link prediction">
+<meta itemprop="description" content="Graph G = (V, E). Every edge has this label: t(e): The time during which interaction represented by e took place. Given \(G[t_{0}, t_{0}&#39;]\) (training interval), output a list of edges not presented in it, but present in \(G[t_{1}, t_{1}&#39;]\) (testing interval). Maybe want to output top n most likely-to-appear edges.
+Motivation Security. Improving organizational efficiency by going beyond official hierarchy. Inferring missing links from observed network.
+Observations about link prediction Small world problem: tenuous short links exist between otherwise unrelated nodes: noise wrt to the link prediction problem.">
+
+<meta itemprop="wordCount" content="562">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Link prediction"/>
+<meta name="twitter:description" content="Graph G = (V, E). Every edge has this label: t(e): The time during which interaction represented by e took place. Given \(G[t_{0}, t_{0}&#39;]\) (training interval), output a list of edges not presented in it, but present in \(G[t_{1}, t_{1}&#39;]\) (testing interval). Maybe want to output top n most likely-to-appear edges.
+Motivation Security. Improving organizational efficiency by going beyond official hierarchy. Inferring missing links from observed network.
+Observations about link prediction Small world problem: tenuous short links exist between otherwise unrelated nodes: noise wrt to the link prediction problem."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/graphTheory\/graphs_in_nature\/link_prediction\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/graphTheory\/graphs_in_nature\/link_prediction.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Link prediction</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Link prediction">Link prediction</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/graphTheory/graphs_in_nature/link_prediction.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>Graph G = (V, E). Every edge has this label: t(e): The time during which interaction represented by e took place. Given \(G[t_{0}, t_{0}']\) (training interval), output a list of edges not presented in it, but present in \(G[t_{1}, t_{1}']\) (testing interval). Maybe want to output top n most likely-to-appear edges.</p>
+<h2 id="motivation">Motivation</h2>
+<p>Security. Improving organizational efficiency by going beyond official hierarchy. Inferring missing links from observed network.</p>
+<h2 id="observations-about-link-prediction">Observations about link prediction</h2>
+<p>Small world problem: tenuous short links exist between otherwise unrelated nodes: noise wrt to the link prediction problem.</p>
+<p>\cite{dln:link-prediction} observed that in their data-sets, new links are 3 or 4 times more often formed at distances \(\geq 3\). They compared performance of prediction methods at predicting new links between nodes at distances \(\geq 3\).</p>
+<h2 id="using-similarity-measures-between-nodes">Using similarity measures between nodes</h2>
+<p>\cite{dln:link-prediction} experimented. Performance compared against a random predictor. Katz measure, and variants with added noise reduction performed well. \cite{dln:link-prediction} found that Katz, common neighbors in low rank approximation of G, Adamic/ Adar are similar in terms of common predictions. \tbc</p>
+<h2 id="reducing-noise">Reducing noise</h2>
+<p>Low rank approximation: Take adjacency matrix M; use SVD to get rank k approximation \(M_{k}\) of M wrt various norms. Can then use other similarity measure based techniques. Usually, intermediate rank approximation performs best \cite{dln:link-prediction} .</p>
+<p>Clustering: Remove tenuous edges.</p>
+<h2 id="enhance-similarity-measure-for-nodes-with-similar-neighbors">Enhance similarity measure for nodes with similar neighbors</h2>
+<p>Adaptation of &lsquo;unseen bigrams&rsquo; technique from language modelling: word pairs which occur in test corpus but not in training corpus. Take \(S_{x}^{d}\): the top d nodes related to x under a similarity measure; get modified score(x,y) = \(|\set{z: z \in \nbd(y) \inters S_{x}^{d}}|\).</p>
+<h2 id="model-evolution-of-e">Model evolution of E</h2>
+<h3 id="using-a-linear-model">Using a linear model</h3>
+<p>Split E into 2 parts \<br>
+thence get adj matreces A and B. Use various F like \(F(A) = e^{aA}\); find parameters a of F to get \(\norm{F(A) - (A+B)}\). Take \(A = U\EW U^{<em>}\): \(\EW\) decomposition; if \(F(A) = UF(\EW)U^{</em>}\), this becomes: \(\norm{F(\EW) - (A+B)}\): this is a least squares curve-fitting problem like \(\min \sum (e^{a\ew_{i}} - (A+B)_{i,i})^{2}\).</p>
+<h2 id="the-experimental-setup">The experimental setup</h2>
+<h3 id="the-problem">The problem</h3>
+<p>Perhaps you have different snapshots of the graph for different times: test set will be the latest snapshot - previous snapshots. Perhaps you have a single snapshot of the graph: test set will be some random split of the graph into training and test edges. n edges to be predicted.</p>
+<p>Often compare against a random predictor. The random predictor: What is the expected number of edges you get right if you pick n edges randomly?</p>
+<p>To see understand behavior of a single set: Plot precision curve, recall curve.</p>
+<h4 id="the-sparse-case">The sparse case</h4>
+<p>If data is too sparse, there is not enough signal, and similarity measures such as Katz do worse than random. To compare various methods in this case: one picks many mn edges and then compare &lsquo;recall&rsquo;: the correct edges in the prediction set.</p>
+<h2 id="open-problems">Open problems</h2>
+<p>\oprob \<br>
+Discover better performing link prediction algorithms. Make link prediction algorithms based on distance metrics more efficient.</p>
+<p>\oprob Include more data in the social network (eg: paper titles, areas) and improve link prediction performance.</p>
+<p>\oprob Improve link prediction performance by giving greater weight to more recent collaborations.</p>
+<p>\oprob View training-period collaborations as samples drawn from a distribution on pairs of people; Try to use work on estimating distribution support in link prediction. \oprob You only have +ve labelled examples; see if machine learning provides better learning heuristics in such cases.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Link prediction </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Link prediction</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

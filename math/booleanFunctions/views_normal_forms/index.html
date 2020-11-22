@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Views and normal forms</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/booleanFunctions/views_normal_forms/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/booleanFunctions/views_normal_forms/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Views and normal forms" />
+<meta property="og:description" content="Views The truth table. Subset of the hypercube. The concept.
+A set system: Can consider c as a set: set of &lsquo;selected&rsquo; points, induces dichotomies on X.
+Social (binary) choice or voting scheme of n people.
+Normal forms Write as sign of multinomial of n variables \(x \in \set{0, 1}^{n}\). Take DNF, change \(\bar{x_{i}} \to (1-x_{i})\).
+k-DNF and k-CNF \(k \leq n\). DNF is a disjunction of conjunctions. CNF is a conjunction of disjunctions." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/booleanFunctions/views_normal_forms/" />
+
+<meta itemprop="name" content="Views and normal forms">
+<meta itemprop="description" content="Views The truth table. Subset of the hypercube. The concept.
+A set system: Can consider c as a set: set of &lsquo;selected&rsquo; points, induces dichotomies on X.
+Social (binary) choice or voting scheme of n people.
+Normal forms Write as sign of multinomial of n variables \(x \in \set{0, 1}^{n}\). Take DNF, change \(\bar{x_{i}} \to (1-x_{i})\).
+k-DNF and k-CNF \(k \leq n\). DNF is a disjunction of conjunctions. CNF is a conjunction of disjunctions.">
+
+<meta itemprop="wordCount" content="936">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Views and normal forms"/>
+<meta name="twitter:description" content="Views The truth table. Subset of the hypercube. The concept.
+A set system: Can consider c as a set: set of &lsquo;selected&rsquo; points, induces dichotomies on X.
+Social (binary) choice or voting scheme of n people.
+Normal forms Write as sign of multinomial of n variables \(x \in \set{0, 1}^{n}\). Take DNF, change \(\bar{x_{i}} \to (1-x_{i})\).
+k-DNF and k-CNF \(k \leq n\). DNF is a disjunction of conjunctions. CNF is a conjunction of disjunctions."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/booleanFunctions\/views_normal_forms\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/booleanFunctions\/views_normal_forms.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Views and normal forms</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Views and normal forms">Views and normal forms</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/booleanFunctions/views_normal_forms.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="views">Views</h2>
+<p>The truth table. Subset of the hypercube. The concept.</p>
+<p>A set system: Can consider c as a set: set of &lsquo;selected&rsquo; points, induces dichotomies on X.</p>
+<p>Social (binary) choice or voting scheme of n people.</p>
+<h2 id="normal-forms">Normal forms</h2>
+<h3 id="write-as-sign-of-multinomial-of-n-variables">Write as sign of multinomial of n variables</h3>
+<p>\(x \in \set{0, 1}^{n}\). Take DNF, change \(\bar{x_{i}} \to (1-x_{i})\).</p>
+<h3 id="k-dnf-and-k-cnf">k-DNF and k-CNF</h3>
+<p>\(k \leq n\). DNF is a disjunction of conjunctions. CNF is a conjunction of disjunctions.</p>
+<h4 id="derivation-from-truth-tables">Derivation from truth tables.</h4>
+<p>DNF \(c\) for boolean function \(f\) is obtainable from truth table of \(f\): \(\set{x: f(x) = 0}\).</p>
+<p>CNF \(d\) for boolean function \(f\) is obtainable from truth table of f: get the CNF of \(\bar{f}(x)\), negate it to get a \(d\).</p>
+<h4 id="connection-between-dnf-and-cnf">Connection between DNF and CNF.</h4>
+<p>Any term in \(d\) and any clause in \(c\) cannot be disjoint \why.</p>
+<p>\(t\) term CNF can be reduced to \(t\)-DNF using distributive laws.</p>
+<p>t-DNF to t-term CNF is also possible, but this may take exponential time as \(RP \neq NP\): See colt ref about hardness of proper learning k-DNF.</p>
+<h4 id="minimization-of-number-of-terms">Minimization of number of terms</h4>
+<p>Drawing rectangles in Karnaugh / Veitch tables.</p>
+<p>\paragraph*{Minterms and maxterms}
+Minterms of a DNF are terms such that: Each var appears \(\leq 1\) times. Maxterms of a CNF are similarly define. So, a minimal DNF is a sum of minterms, while the minimal CNF is a product of maxterms.</p>
+<p>A minterm as \(\set{\pm 1}^{n}\) fn: \(\prod(\frac{1+x_{i}}{2})\). Constant term is coefficient of \(p_{\phi} \dfn 1\).</p>
+<h4 id="dnf-norm">DNF norm</h4>
+<p>In the uniform distr fn space, Mansour&rsquo;s conjecture: \<br>
+\(\exists\) polynomial p: \(\norm{DNF}_{1} \leq O(n^{\frac{1}{\eps}}); \norm{f-p}^{2} \leq \eps\).</p>
+<h3 id="size-s-dnf-f">Size s DNF f</h3>
+<p>Aka s-term DNF. Some notation: Term-length t, terms \({T_{i}}\), s = size(f) = num of terms: maybe poly(n), n variables.</p>
+<p>Actual representation size \(\leq ns\log n\).</p>
+<p>\(|k-DNF| \leq (2n)^{k}\): count the number of possible ways to make a k-DNF.</p>
+<p>Number of functions: \(O(\binom{3^{n}}{s}) = O(3^{ns})\). So, number of polysize DNF: \(`3^{n^{O(\log n)}}\).</p>
+<p>t-DNF reducible to disjunction upon feature expansion. With distributive laws, size s DNF reducible to s-CNF and thence to negation of s-DNF. Negation of size s DNF is size s CNF.</p>
+<p>Strictly more expressive than decision lists: \why: so more powerful.</p>
+<h4 id="dnf-f-to-l-augmented-decision-tree-of-rank-htextleq-frac2nllog-s--1">DNF f to l-augmented Decision tree of rank \htext{\(\leq \frac{2n{l}\log s + 1\)}{}}</h4>
+<p>Let p = terms of length \(&gt;l\), make most commonly occuring literal \(x_{i}\) in the p terms (occurs atleast in \(\frac{pl}{2n}\) by pigeon hole), make kids DNF&rsquo;s with \(x_{i}\) set to 0 (make many terms disappear) and 1; repeat till all terms have lower term length: rank r(n, p) increases when r(kids): \(r(n-1, p-\frac{pl}{2n})\) and r(n-1,p) are same; r(n,0) = r(0, p) = 0; solving recurrance, rank \(\leq \frac{2n}{l}\log s + 1\).</p>
+<h4 id="dnf-f-to-ptf">DNF f to PTF</h4>
+<p>\(sign(T_{1} \dots + T_{s} - 2^{-1})\). So, Any f needs \(\leq n\) PTF: Any f is at most n-DNF.</p>
+<p>Has PTF of degree \(O(\sqrt{t} \log s)\): Let \(T_{i} = x_{1}\dots x_{t}, a_{i}(\bar{x}) = \frac{x_{1} + \dots x_{t}}{t}\), Chebyshev pol (see Approx theory sheet) \(C_{\sqrt{t}}((1+t^{-1})a_{i}(\bar{x})) = Q_{i}, deg(Q_{i}) = \sqrt{t}\); for \(T_{i}(x)=1, |Q_{i}|\geq 2\), else \(|Q_{i}| \leq 1\); PTF is \(\sum Q_{i}^{\log s} - s - 2^{-1}\).</p>
+<p>Has \(O(n^{1/3} \log s)\) PTF: \<br>
+Make \(n^{2/3}\) augmented Decision tree of rank \(2n^{1/3}\log s + 1\); change each \(n^{2/3}\) DNF at leaf to \(n^{1/3} \log s\) PTF; change Decision tree to \(2n^{1/3}\log s + 2\) Decision list (k long, terms: \({T&rsquo;<em>{i}}\)) which output PTF&rsquo;s \({P</em>{i}}\); \(\exists\) PTF with polynomial \(2^{k}T&rsquo;<em>{1}P</em>{1} + 2^{k-1}T&rsquo;<em>{2}P</em>{2} \dots\) of degree \(O(2n^{1/3}\log s + n^{1/3} \log s)\).</p>
+<h4 id="lower-bounds-on-ptf-degree">Lower bounds on PTF degree</h4>
+<p>f = parity fn: \({0,1}^{n} \to \pm 1\), an \(O(2^{n})\) size DNF needs n PTF: Let sign(Q(x)) be parity PTF: \(x_{i}^{2} = x^{i}\), so all polynomials (even Q(x)) multilinear; \(Q(x) = Q(\pi(x))\); let \(Q&rsquo;(x) = \sum_{\pi}Q(\pi(x_{1} \dots x_{i}))\); Q&rsquo; symmetric, sign(Q&rsquo;) computes parity, degree(Q&rsquo;) = degree(Q); \(Q&rsquo;(x) = Q&rsquo;'(\sum x_{i})\); \(Q&rsquo;'(0)&lt;0, Q&rsquo;'(1)&gt;0, Q&rsquo;'(2)&lt;0 \dots\); so Q&rsquo;&rsquo; has n roots; so Q&rsquo;, Q has degree n.</p>
+<p>Some polysize DNF in n variables needs PTF of degree \(n^{1/3}\): DNF f = &lsquo;1 in a box&rsquo; fn (Minsky, Papert): \(s= m; T_{i} = \bigwedge_{j=1}^{4m^{2}}x_{i,j}\); let \(x_{i}\) be variables in box \(T_{i}\); let sign(Q(x)) be PTF for f; \(Q&rsquo;(x) = \sum_{\pi_{1,i} \dots \pi_{m,i&rsquo;}} Q(\pi_{1,i}(x_{1}), \dots \pi_{m,i&rsquo;}(x_{m}))\); sign(Q&rsquo;) also is f, degree(Q&rsquo;) same; \(Q&rsquo;'(\sum x_{1,i}, \dots \sum x_{m, i})\) with same degree \(Q&rsquo;'(x)&gt;0\) iff \(\sum x_{1,i} \geq 4m^{2}\); let \(p(t) = Q&rsquo;'(4m^{2}-(t-1)^{2}, 4m^{2}-(t-3)^{2} \dots 4m^{2}-(t-(2m-1))^{2} )\); \(deg(p) = 2 * deg(Q&rsquo;')\); \(p(1)&gt;0, p(2)&lt;0, p(3)&gt;0 \dots\); \(degree(p) \geq 2m\), so \(deg(Q) \geq m\).</p>
+<h3 id="boolean-circuits-ckt">Boolean circuits (ckt)</h3>
+<p>A DAG with \(n\) inputs: \(C_{n}\); internal nodes represent logic gates/ operations; directed edges represent inputs and outputs to these nodes. Circuit basis: the gates: usually AND, OR. Bounded vs unbounded fanin. Size and depth of ckt.</p>
+<p>Using De Morgan&rsquo;s laws, any ckt can be changed to have all NOT gates at input. Ckt with bounded fan in \(k\) can be changed to have bounded fan in 2 with constant blowup in depth. Unbounded fanin ckt convertible to bounded fanin ckt with \(\log(size(ckt))\) blowup in depth.</p>
+<p>Turing machine halting in time \(T(n)\) convertible to ckt of depth \(T(n)\) and size \((T(n))^{2}\).</p>
+<h4 id="boolean-formula-f">Boolean formula f</h4>
+<p>Aka Boolean expressions, tree like circuits. Subset of Boolean circuits: Only 1 output per gate. Can be rewritten as a 3 CNF.</p>
+<h4 id="balance-tree-like-circuits-reduce-depth">Balance tree-like circuits, reduce depth</h4>
+<p>(Spira): Take tree O with n nodes, find subtree A with (2/3)n nodes; A could be T or F: create 2 trees BT, BF out of the other n/3 nodes with either A=T or A=F; Now, \(O=(A \wedge BT) \vee (\sim A \wedge BF)\); keep repeating this for A, BF, BT to get tree of depth \(log_{\frac{3}{2}}n\).</p>
+<h3 id="turing-machines">Turing machines</h3>
+<p>See Computational Complexity ref.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Views and normal forms </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Views and normal forms</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Misc functions</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/misc_functions/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/misc_functions/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Misc functions" />
+<meta property="og:description" content="Classification by dependence on parameters See probability ref.
+Recurrance equations Eg: \(a&rsquo;h_{i&#43;2}&#43;b&rsquo;h_{i&#43;1}&#43;c&rsquo;h_{i}=0\) (Linear, homogenous). Get characteristic eqn by supposing \(h_{i} = tx^{i}\); Get roots and multiplicity: \((r_{1},2), (r_{2},1)\); Then, \(h_{i} = ar_{1}^{i} &#43; bir_{1}^{i} &#43; cr_{2}^{i}\); Solve for a, b, c with boundary conditions. Or, use telescoping sum.
+Polynomial P over field K Polynomial over field K has coefficients from K. Rational function: ratio of polynomials. For \(\perp\) polynomials, see Approx theory ref." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/misc_functions/" />
+
+<meta itemprop="name" content="Misc functions">
+<meta itemprop="description" content="Classification by dependence on parameters See probability ref.
+Recurrance equations Eg: \(a&rsquo;h_{i&#43;2}&#43;b&rsquo;h_{i&#43;1}&#43;c&rsquo;h_{i}=0\) (Linear, homogenous). Get characteristic eqn by supposing \(h_{i} = tx^{i}\); Get roots and multiplicity: \((r_{1},2), (r_{2},1)\); Then, \(h_{i} = ar_{1}^{i} &#43; bir_{1}^{i} &#43; cr_{2}^{i}\); Solve for a, b, c with boundary conditions. Or, use telescoping sum.
+Polynomial P over field K Polynomial over field K has coefficients from K. Rational function: ratio of polynomials. For \(\perp\) polynomials, see Approx theory ref.">
+
+<meta itemprop="wordCount" content="722">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Misc functions"/>
+<meta name="twitter:description" content="Classification by dependence on parameters See probability ref.
+Recurrance equations Eg: \(a&rsquo;h_{i&#43;2}&#43;b&rsquo;h_{i&#43;1}&#43;c&rsquo;h_{i}=0\) (Linear, homogenous). Get characteristic eqn by supposing \(h_{i} = tx^{i}\); Get roots and multiplicity: \((r_{1},2), (r_{2},1)\); Then, \(h_{i} = ar_{1}^{i} &#43; bir_{1}^{i} &#43; cr_{2}^{i}\); Solve for a, b, c with boundary conditions. Or, use telescoping sum.
+Polynomial P over field K Polynomial over field K has coefficients from K. Rational function: ratio of polynomials. For \(\perp\) polynomials, see Approx theory ref."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/complexAnalysis\/R_valued_functions\/R_to_R\/misc_functions\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/complexAnalysis\/R_valued_functions\/R_to_R\/misc_functions.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Misc functions</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Misc functions">Misc functions</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/complexAnalysis/R_valued_functions/R_to_R/misc_functions.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="classification-by-dependence-on-parameters">Classification by dependence on parameters</h2>
+<p>See probability ref.</p>
+<h2 id="recurrance-equations">Recurrance equations</h2>
+<p>Eg: \(a&rsquo;h_{i+2}+b&rsquo;h_{i+1}+c&rsquo;h_{i}=0\) (Linear, homogenous). Get characteristic eqn by supposing \(h_{i} = tx^{i}\); Get roots and multiplicity: \((r_{1},2), (r_{2},1)\); Then, \(h_{i} = ar_{1}^{i} + bir_{1}^{i} + cr_{2}^{i}\); Solve for a, b, c with boundary conditions. Or, use telescoping sum.</p>
+<h2 id="polynomial-p-over-field-k">Polynomial P over field K</h2>
+<p>Polynomial over field K has coefficients from K. Rational function: ratio of polynomials. For \(\perp\) polynomials, see Approx theory ref. p is monic: highest degree of x has coefficient 1.</p>
+<p>To show that P has high degree, show it has many roots.</p>
+<h3 id="multivariate-polynomials">Multivariate polynomials</h3>
+<p>\(Q(x_{1}, .. x_{n}) = Q(x)\), let \(x_{-i} = \)x sans \(x_{i}\): Multivariate polynomial over field F; degree \(d = \sum d(x_{i})\). Have \(\infty\) roots: \(x_{-i} = r_{-i}\), Q(x) = univariate \(P(x_{i})\) has roots.</p>
+<h3 id="symmetric-polynomials">Symmetric polynomials</h3>
+<p>\(Q(x_{1} \dots x_{n}) = Q(\pi(x_{1} \dots x_{n}))\) : no change on permutation. Eg: Parity function P. If Q is symmetric, multilinear \(\implies\) Q writable as monomial \(Q&rsquo;(\sum x_{i})\) of same degree: intuitive b&rsquo;coz vars are indistinct, (Find inductive proof).</p>
+<h4 id="probability-of-multivariate-polynomials-becoming-0">Probability of multivariate polynomials becoming 0</h4>
+<p>(Schwartz Zippel). \<br>
+Q(x); \(S\subseteq F\); \(Pr_{r \in S}(Q(r) = 0) \leq \frac{d}{|S|}\): generalizes univariate case: \(P(x_{i})\) has d roots. True for d=0; assume for d=n-1; \(Q(x) = \sum_{k} x^{k}Q_{k}(x_{-1})\); \(Pr(Q(r) = 0) \leq Pr(Q(r_{-1}) = 0) + Pr(Q(r)=0 | Q(r_{-1}) \neq 0) \leq \frac{d-k}{|S|} + \frac{k}{|S|}\).</p>
+<h3 id="roots-of-polynomial-p-over-r">Roots of polynomial P over R</h3>
+<p>From group theory: P over the field Q. For \(deg(P) \geq 5, \exists P: P(r)=0, r \in R\), r can&rsquo;t be writ in terms of +, -, *, /, kth root. \why</p>
+<p>Fundamental theorem of algebra: P of degree d has d roots in C. \why</p>
+<p>If x is root of P, so is \(\bar{x}\): \(P(x) = \sum a_{i}x^{i} = 0 = \conj{\sum a_{i}x^{i}} = \sum a_{i}\bar{x^{i}} = \sum a_{i}\bar{x}^{i} = P(\bar{x})\). So, if deg(P) is odd, atleast 1 real root exists: also from the fact that \(P = \Theta(x^{n})\).</p>
+<p>Every polynomial of odd degree (= \(\Theta(x^{n})\)) has a real root: Consider large +ve and -ve values for x and Intermediate value theorem. Also from the fact that complex roots appear in pairs.</p>
+<p>Tricks: The constant gives clues about the root. Use the \(\Theta\) notation to consider the roots: To solve \((\frac{e}{x})^{x}=n^{-2}\); get \(x \log \frac{x}{e} = 2 \log n\); so \(x \leq 2 \log n \leq x^{2}\); so \(x = (\log n)^{\theta(1)}\).</p>
+<p>Geometry: loci.</p>
+<h4 id="quadratic-eqn">Quadratic eqn</h4>
+<p>Reduce to \((ax+b)^{2}=c\) and solve. So find roots of \(x^{3}-1\) (Invent i). Similarly, every polynomial can be factorized to (sub)quadratics. Cubics.</p>
+<h2 id="important-functions-over-r-and-c">Important functions over R and C</h2>
+<h3 id="extrema">Extrema</h3>
+<p>\(\min(a, b) = 2^{-1}(|a+b| - |a-b|)\).</p>
+<h3 id="unit-step-function-ix">Unit step function I(x)</h3>
+<p>\(I(x) = [x &gt;0]\). See connection with series and Stieltjes integrals.</p>
+<p>Integer functions: \(\floor{x}, \ceil{x}\).</p>
+<h3 id="logarithm-and-exponential">Logarithm and exponential</h3>
+<p>\(\ln x \dfn \int_{t=1}^{x} t^{-1}dt\). By fund theorem of calculus, \(\der{\ln x} = x^{-1}\). So, \(\ln(ab) = \ln a + \ln b\), \(\ln x^{k} = k \ln x\).</p>
+<p>\(e \dfn x: \ln x = 1\). So, \(\ln e^{x} = x\), \(\der{e^{x}} = e^{x}\). The McLaurin series \(e^{x}\).</p>
+<h3 id="generalized-binomial-coefficient">Generalized binomial coefficient</h3>
+<p>\(\binom{r}{k}\) for any \(k\in Z, r\in R\): generalizes \(\binom{r}{k}\) from combinatorics (See probability ref).</p>
+<p>\(\binom{n}{r} = \frac{n}{r}\binom{n-1}{r-1}\). For \(r \in N\): \(\binom{r}{k} = \binom{r}{r-k} = \frac{r}{r-k}\binom{r-1}{r-k-1} = \frac{r}{r-k}\binom{r-1}{k}: \therefore r\binom{r}{k} = (r-k)\binom{r}{k}\): Both sides are degree k polynomials in r, agree in \(\infty\) points: so should be identically equal \(\forall r\in R\).</p>
+<p>So, \(\binom{r}{k} = \binom{r-1}{k} + \binom{r-1}{k-1}\). Applying repeatedly, \(n \in N: \sum_{k=0}^{n}\binom{r+k}{k} = \binom{r+n+1}{n}\).</p>
+<p>By induction: \(n,m \in N:\sum_{k=0}^{n} \binom{k}{m} = \binom{n+1}{m+1}\). Useful in summing series.</p>
+<p>\(\binom{r}{m}\binom{m}{k} = \binom{r}{k}\binom{r-k}{m-k}\): combinatorial proof for r, m, k integers; thence generalize to \(r \in R\): use Polynomial interpolation argument.</p>
+<p>Vandermonde convolution: \(\sum_{k} \binom{r}{k}\binom{s}{n-k} = \binom{r+s}{n}\): combinatorial proof for integer case; generalize to \(r \in R\): use Polynomial interpolation argument.</p>
+<h4 id="polynomial-interpolation-argument">Polynomial interpolation argument</h4>
+<p>This is very useful in extending relationship between integers to all real numbers: as in proof of \(r\binom{r}{k} = (r-k)\binom{r}{k}\).</p>
+<h3 id="logistic-sigmoid-function">Logistic sigmoid function</h3>
+<p>\(f(z) = (1+e^{-z})^{-1}\): an \(S\) trapped between \(0\) and \(1\). Used in logistic regression. \(f&rsquo;(z) = (1-f(z))f(z)\).</p>
+<h3 id="normal-function">Normal function</h3>
+<p>Aka Gaussian function. Generalization of Gaussian distribution. \<br>
+\(f(x) = ae^{-\frac{(x-b)^{2}}{2c^{2}}}\): mean at b, max value a, variance/ width \(c^{2}\). Using Gaussian integral \(\int_{-\infty}^{\infty}e^{-x^{2}}dx = \sqrt{\pi}\).</p>
+<h3 id="gamma-function">Gamma function</h3>
+<p>\(\gG(z) = \int_{0}^{\infty} x^{z-1}e^{-x}dx\). \(\gG(1) = 1\). \(\gG(a) = (a-1)\gG(a-1)\): using integration by parts; so generalizes factorial: \(\gG(n) = (n-1)!\). Useful in specifying normalization constants in some distributions.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Misc functions </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Misc functions</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

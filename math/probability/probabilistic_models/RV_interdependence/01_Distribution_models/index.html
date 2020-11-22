@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | 01 Distribution models</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/01_Distribution_models/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/01_Distribution_models/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="01 Distribution models" />
+<meta property="og:description" content="Discrete L: Response probability: Discriminative models Boolean valued functions One can use boolean valued functions to get deterministic models of the form \(y = f(x)\). These functions are considered in the boolean functions survey and the computational learning theory survey.
+Probability from regression models Take any (continuous variable regression) model \(f: X \to [0, 1]\). Such a model can be interpreted as modeling the probability distribution \(f_L\).
+Advantages of modeling probability The classifier doesn&rsquo;t care whether \(C_{1}\) is called class 1 or class 100." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/probability/probabilistic_models/RV_interdependence/01_Distribution_models/" />
+
+<meta itemprop="name" content="01 Distribution models">
+<meta itemprop="description" content="Discrete L: Response probability: Discriminative models Boolean valued functions One can use boolean valued functions to get deterministic models of the form \(y = f(x)\). These functions are considered in the boolean functions survey and the computational learning theory survey.
+Probability from regression models Take any (continuous variable regression) model \(f: X \to [0, 1]\). Such a model can be interpreted as modeling the probability distribution \(f_L\).
+Advantages of modeling probability The classifier doesn&rsquo;t care whether \(C_{1}\) is called class 1 or class 100.">
+
+<meta itemprop="wordCount" content="1230">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="01 Distribution models"/>
+<meta name="twitter:description" content="Discrete L: Response probability: Discriminative models Boolean valued functions One can use boolean valued functions to get deterministic models of the form \(y = f(x)\). These functions are considered in the boolean functions survey and the computational learning theory survey.
+Probability from regression models Take any (continuous variable regression) model \(f: X \to [0, 1]\). Such a model can be interpreted as modeling the probability distribution \(f_L\).
+Advantages of modeling probability The classifier doesn&rsquo;t care whether \(C_{1}\) is called class 1 or class 100."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/probability\/probabilistic_models\/RV_interdependence\/01_Distribution_models\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/probability\/probabilistic_models\/RV_interdependence\/01_Distribution_models.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> 01 Distribution models</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="01 Distribution models">01 Distribution models</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/probability/probabilistic_models/RV_interdependence/01_Distribution_models.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="discrete-l-response-probability-discriminative-models">Discrete L: Response probability: Discriminative models</h2>
+<h3 id="boolean-valued-functions">Boolean valued functions</h3>
+<p>One can use boolean valued functions to get deterministic models of the form \(y = f(x)\). These functions are considered in the boolean functions survey and the computational learning theory survey.</p>
+<h3 id="probability-from-regression-models">Probability from regression models</h3>
+<p>Take any (continuous variable regression) model \(f: X \to [0, 1]\). Such a model can be interpreted as modeling the probability distribution \(f_L\).</p>
+<h4 id="advantages-of-modeling-probability">Advantages of modeling probability</h4>
+<p>The classifier doesn&rsquo;t care whether \(C_{1}\) is called class 1 or class 100. So, better than solving regression problem with y as the target.</p>
+<h3 id="model-numeric-labels-with-regression-models">Model numeric labels with regression models</h3>
+<p>One may use regression models together with an appropriate round-off function to model discrete numerical labels.</p>
+<h4 id="dependence-on-choice-of-rany">Dependence on choice of ran(Y)</h4>
+<p>For the same k-classification problem, different choices of Y corresponding to \(\set{L_{i}}\) can yield different models classifiers. Ideally they should be independent of choice of labels. So, logistic regression preferred.</p>
+<p>Eg: For binary classification problem, picking \(L_{i} = \set{\pm 1}\) yields different model from picking \(L_{i} = \set{\frac{N}{n_{1}}, - \frac{N}{n_{2}}}\), which yields fisher&rsquo;s linear discriminant!</p>
+<h4 id="y-in-1-of-k-binary-encoding-format">y in 1 of k binary encoding format</h4>
+<p>Make matrix X with rows \([1 x_{i}^{T}]\). Make Y with rows \(y_{i}^{T}\). Want to find parameters W such that \(XW \approx Y\). Can try \(\min_{W} \norm{XW-Y}_{F}^{2}\), get solution: \((XX^{T})\hat{W} = X^{T}Y\). But \(X\hat{W}\) can have -ve numbers which approximate Y; so not very desirable technique</p>
+<h3 id="logistic-model">Logistic model</h3>
+<p>Got k-class classification problem. Want to model class probabilities or log odds and make classification decision.</p>
+<h4 id="log-linear-model-for-class-probabilities">Log linear model for class probabilities</h4>
+<p>\(\forall i \in [1:k]: Pr(C = i|x) \propto e^{w_{i0} + w_i^{T}x}\). So, \(Pr(C = i|x) = \frac{e^{w_{i0} + w_i^{T}x}}{\sum_j e^{w_{j0} + w_j^{T}x}}\).</p>
+<p>\exclaim{But this is over parametrized}: The choice of w is constrained by the fact that specifying \(Pr(C = i|x) \forall i=1:k-1\) completely specifies the probability distribution.</p>
+<h4 id="equivalent-form-model-log-odds">Equivalent form: model log odds</h4>
+<p>\(\forall i\in [1:k-1]: \log\frac{Pr(C = i|x)}{Pr(C = k|x)} = w_{i0} + w_{i}^{T}x\).</p>
+<p>Get: \(Pr(C = i|x) = \frac{e^{w_{i0}+ w_{i}^{T}x}}{1 + \sum_{j \neq k} e^{w_{j0}+ w_{j}^{T}x}}, Pr(C = k|x) = \frac{1}{1 + \sum_{j\neq k} e^{w_{i0}+ w_{i}^{T}x}}\).</p>
+<p>Same as the model described in previous subsubsection, with all \(Pr(C = i)\) scaled to ensure that \(Pr(C = i|x) \propto e^{w_{i0} + w_i^{T}x} Pr(C = k|x)\): done by ensuring that \(w_k = 0\). Thus taking care of earlier overparametrization!</p>
+<h5 id="symmetric-notation">Symmetric notation</h5>
+<p>Let \(x \gets (1, x), w_i \gets (w_{i0}, w_i)\). \(
+$$Pr(C = i|x) = \frac{e^{\sum_{c \in \set{1, .. m-1}} w_{c}^{T}x I[c=i]}}{1 + \sum_{j \neq k} e^{\sum_c w_{c}^{T}x I[c=j]}}\)$$</p>
+<h4 id="2-class-case">2-class case</h4>
+<p>For 2 class case, these are logistic sigmoid functions, thence the name.</p>
+<h4 id="risk-factors-interpretation">Risk factors interpretation</h4>
+<p>\(Pr(C_{i}|x)\) is modeled as a sigmoid function which \(\to 0\) as \(w_{i}^{T}x \to -\infty\) and \(\to 1\) as \(w_{i}^{T}x \to \infty\). So, can consider \(w_{i}\) as the vector of weights assigned to features \(\set{x_{j}}\). \(Sgn(w_{i})\) usually indicates type of correlation with \(C_{i}\), but could be reversed in order to compensate for weightage given to other features. Eg: \(C_{i}\) could be &lsquo;has heart disease&rsquo;, and features may be liquor, fat and tobacco consumption levels.</p>
+<h4 id="as-a-linear-discriminant">As a linear discriminant</h4>
+<p>Consider the binary classification case. Here, \(\log \frac{Pr(C = 1|x)}{1 - Pr(C = 1|x)} = w_0 + w^{T}x\). So, \(w_0 + w^{T}x&gt;0 \equiv (Pr(c=1|x) &gt; Pr(c=0|x))\)</p>
+<h3 id="estimating-parameters">Estimating parameters</h3>
+<p>Given observations \((x^{(i)}, c^{(i)})\), find w to \(\max_w Pr(c^{(i)}|x^{(i)}, w)\): maximum likelihood estimation.</p>
+<h4 id="sparsity-of-model-parameters">Sparsity of model parameters</h4>
+<p>Sometimes, want w to be sparse or group sparse. In this case, for learning the parameters, lasso or group lasso is used.</p>
+<h2 id="discrete-l-response-probability-generative-models">Discrete L: Response probability: Generative models</h2>
+<h3 id="latent-variable-model">Latent variable model</h3>
+<p>Assume that the parameter \(W = w\) actually generates lower dimensional \(L\), and that observation set \(X\) is generated from \(L\) using some stochastic transformation which is independent of \(w\).</p>
+<p>\(L\) is called the latent variable.</p>
+<h3 id="assume-conditional-independence-of-input-variables">Assume conditional independence of input variables</h3>
+<p>Aka Naive Bayes. \(Pr(L|\ftr(X)) \propto Pr(L) Pr(\ftr(X)|L) = Pr(L) \prod_{i} Pr(\ftr_{i}(X)|L) \). \(Pr(\ftr(X)|L) = Pr(L) \prod_{i} Pr(\ftr_{i}(X)|L)\) is the assumption. Model parameters \(Pr(\ftr_{i}(X)|L)\) and \(Pr(L)\) are estimated from the training set \(\set{(X_{i}, L_{i})}\).</p>
+<p>Co-clustering in a way recovers things lost due to the &lsquo;independence of probability of occurrence of features&rsquo; assumption.
+\tbc</p>
+<p>One can conceive of a version of this classifier for the case where \(L, \ftr(X)\) are continuous. \oprob</p>
+<h4 id="linear-separator-in-some-feature-space">Linear separator in some feature space</h4>
+<p>The decision boundary can be specified by \(\log Pr(l_1) + \sum_{i} \log Pr(\ftr_{i}(x)|l_1) =  \log Pr(l_2) + \sum_{i} \log Pr(\ftr_{i}(x)|l_2)\).</p>
+<p>Apply the following mapping for variables: \(y_{i,d} = I[\ftr_i(x) = d]\); and create a new set of parameters: \(w_{i, d} = \log Pr(\ftr_{i}(X) = d|l_1) - \log Pr(\ftr_{i}(X) = d|l_2)\), and \(w_0 = \log Pr(l_1) - \log Pr(l_2)\). Now, the decision boundary is just \(w_0 + w^{T}y = 0\), which is a linear separator.</p>
+<h4 id="success-in-practice">Success in practice.</h4>
+<p>Often works well in practice. Eg: In document classification.</p>
+<h4 id="discriminative-counterpart">Discriminative counterpart</h4>
+<p>Its discriminative counterpart is the class of all linear classifiers in a certain feature space, which corresponds to logistic regression. That, in general works better given a lot of samples.</p>
+<h3 id="use-exponential-family-models">Use exponential family models</h3>
+<h4 id="specification">Specification</h4>
+<p>For \(ran(Y) = \pm1\): Let \(Pr(x|Y=i) \propto exp(\dprod{w_i, \ftr(x)})\), and \(Pr(Y=1) = p\).</p>
+<p>So, the corresponding discriminative classifier is: \(Pr(y|x) = exp(\log(\frac{p}{1-p}) + \log(\frac{Z(w_0)}{Z(w_1)}) + \dprod{w_1 - w_0, \ftr(x)})\), which is a linear classifier.</p>
+<p>The corresponding discriminative classifier can be deduced directly using logistic regression.</p>
+<h4 id="tree-structure-assumptions">Tree structure assumptions</h4>
+<p>In estimating, it is important to use the family of tree strucutred graphical models: We can&rsquo;t tractably compute \(Z(w)\) otherwise. \(w_i\) can be done efficiently by computing the spanning tree of a graph among nodes with edges weighted by mutual information (Chow Liu algorithm).</p>
+<p>Otherwise, mixture of trees are also used.</p>
+<h2 id="latent-variable-models-expectation-maximization-em-alg">Latent variable models: Expectation Maximization (EM) alg</h2>
+<h3 id="problem">Problem</h3>
+<p>We have an observation \(X=x\) and want to deduce the label \(Y\).</p>
+<h4 id="tough-to-optimize-likelihood">Tough to Optimize likelihood</h4>
+<p>We want to \(\max_w \log L(w|X=x) = \max_w \log \sum_y f_{X, Y|w}(x, y)\), but this expression often turns out to be hard to maximize due to non-convexity/ non-smoothness. Suppose that this is the case. Also suppose that \(f_{W|X, Y}\) is easy to maximize.</p>
+<p>So, we resort to local optimization of a surrogate function starting from an initial guess of \(w\).</p>
+<h4 id="examples">Examples</h4>
+<p>May be want to find parameter \(w\) giving weights to a set of fixed Gaussians. Here, \(Y\) can be vector of id&rsquo;s of Gaussians whence observed data X comes from.</p>
+<p>A more common and important application is in estimating HMM parameters.</p>
+<h3 id="iterative-algorithm">Iterative algorithm</h3>
+<p>Suppose that you are given \(w^{(i)}\). We want to obtain \(w^{(i+1)}\) such that \(L(w^{(i+1)}) \geq L(w^{i})\).</p>
+<h4 id="intuition">Intuition</h4>
+<p>Basic idea is to do the following repeatedly: at point \(w^{(i)}\), to find a tractable and approximate surrogate \(Q(w| w^{(i)})\) for \(L(w|X)\), and maximize it to get a &lsquo;better&rsquo; \(w^{(i+1)}\).</p>
+<p>Consider \(Q(w| w^{(i)})\) from the E-step below. \(Q(w|w^{(i)})\) is the expectation wrt \(w^{(i)}\) over \(Y\) of the log likelihood of \(w\) given \((X, Y)\). This seems to be a reasonable substitute for \(L(w|X)\).</p>
+<h4 id="e-step">E-step</h4>
+<p>Take \<br>
+\(Q(w | w^{(i)}) = E_{y \distr w^{(i)}}[(\log f_{X, Y|w}(x, y))]\) to measure goodness of \(w\) in producing X and the current belief about Y.</p>
+<h4 id="m-step">M-step</h4>
+<p>Set \(w^{(i+1)} = argmax_w Q(w | w^{(i)})\).</p>
+<h3 id="analysis">Analysis</h3>
+<h4 id="maximizing-an-approximation-of-the-likelihood">Maximizing an approximation of the likelihood</h4>
+<p>Instead, construct a function Q(w) which lower bounds \(\log L(w|X)\); then maximize it to get \(w^{(i+1)}\); repeat.</p>
+<h4 id="qw-is-a-lower-bound">Q(w) is a lower bound</h4>
+<p>Q(w) a lower bound for \(\log L(w|x)\).</p>
+<!-- raw HTML omitted -->
+<h4 id="convergence">Convergence</h4>
+<p>Q() lower bounds L(), but we cannot guarantee that the \(\max_w Q()\) does not lead us away from the local maximum. So, monotonic convergence is not guaranteed. \chk</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">01 Distribution models </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: 01 Distribution models</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

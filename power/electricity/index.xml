@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Electricity on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/power/electricity/</link>
+    <description>Recent content in &#43;Electricity on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/power/electricity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Battery</title>
+      <link>file:///storage/emulated/0/notesData/notes/power/electricity/battery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/power/electricity/battery/</guid>
+      <description>Lead acid batteries  Flat plate Tubular Sealed  Maintenance  Refill with distilled water periodically. Specific gravity gauges are oft included with good batteries.  Recycling  Old (local) batteries are purchased by weight. Old tubular battery fetched 1200 Rs in 2020.  Cell stacking Battery capacity matching  If one battery goes down sooner than another, current may continue to be drawn from low capacity one getting it to an unsafe/ damaged condition.</description>
+    </item>
+    
+    <item>
+      <title>Earthing</title>
+      <link>file:///storage/emulated/0/notesData/notes/power/electricity/earthing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/power/electricity/earthing/</guid>
+      <description>Intro  Fault current is best sent to ground. This includes surge current and lightening current.  Structure  An electrode is stuck in a pit in the ground and fault current is directed to it. The ground should have low resistivity at all times. But ground resistivity varies with space and season. So, electroloytes are added. With regular earthing, salt and coal is added around the electrode. Salt dissipates gradually and increases conductivity in the surrounding ground.</description>
+    </item>
+    
+    <item>
+      <title>House needs</title>
+      <link>file:///storage/emulated/0/notesData/notes/power/electricity/household_needs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/power/electricity/household_needs/</guid>
+      <description>Bengaluru  &amp;lt; 200 kWh (=units) per month in basaveshvaranagara bengaLUru as of 2019 (with solar heater). 352 units in v-nilaya (no solar heater). 400 heating 200 motor in 1k electricity bill (2020)  </description>
+    </item>
+    
+    <item>
+      <title>Inverter</title>
+      <link>file:///storage/emulated/0/notesData/notes/power/electricity/inverter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/power/electricity/inverter/</guid>
+      <description>Concept DC to AC UPS inverter  Inputs:  DC power from battery, possibly also from other sources (solar panel, wind etc..) AC power from the grid   Output:  AC power fed to downstream loads (computer, lights etc..) and never to other parts getting &amp;ldquo;raw power&amp;rdquo; (boiler etc..). This output is never fed to the AC input (don&amp;rsquo;t want to supply the grid or electrocute repairmen!).   Processing:  AC power, when available, is used to charge battery and to run downstream loads.</description>
+    </item>
+    
+    <item>
+      <title>Measurement</title>
+      <link>file:///storage/emulated/0/notesData/notes/power/electricity/measurement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/power/electricity/measurement/</guid>
+      <description>Current  Current I - Rate of charge flow.  Support for current  Potential difference V. Units: Volts V = IR  Opposition to current Components  Impedence: Overall opposition to current.  \(Z = \sqrt{X^2 + R^2}\) as reactance X comes with a phase shift.   Resistence R. Independent of frequency.  It is usually reasonable to assume that an input impedance is just resistance if the input signal has a low frequency (less than 1kHz).</description>
+    </item>
+    
+    <item>
+      <title>Switches</title>
+      <link>file:///storage/emulated/0/notesData/notes/power/electricity/switches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/power/electricity/switches/</guid>
+      <description>Intro  Switches are put on top of switch boxes (often embedded within walls) covered by a panel and perhaps a frame. Switch box sizes are: 2M/ model/ module (accommodates 2 switches), 6M, 8M, 12M, 18M.  Wifi switch  Connects to Google Home or Alexa. Good for scheduled powering. Tinxy installation video here. Loads less than 1kW ok. Wiring: AC input is provided to the switch. Then, phase wires are sent from the switch to the loads (which will have neutral wiring separately).</description>
+    </item>
+    
+    <item>
+      <title>Wires</title>
+      <link>file:///storage/emulated/0/notesData/notes/power/electricity/wires/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/power/electricity/wires/</guid>
+      <description>Desiderata  Weather resistance - high temperatures, high UV radiation.  Wire gauge Heating circuit wire cross section - 4mm². Smaller cross section implies higher resistance, higher heat and consequent damage (melting insulation, plugs etc..).
+Solar power  DC cables - use bigger cross sections (4mm²) to minimize losses. Inverter to meter cables - at least 6mm². Increase with length.  Casing  Protect from water, plastic destroying UV radiation, heat etc.</description>
+    </item>
+    
+    <item>
+      <title>Wiring</title>
+      <link>file:///storage/emulated/0/notesData/notes/power/electricity/wiring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/power/electricity/wiring/</guid>
+      <description>Intro Common desiderata  Separate circuit for high power vs low power appliances.  The latter may be powered by UPS systems (inverters backed by DC battery) - by putting them downstream from UPS output.   Fuses or trip switches at switch boards and even at the plug point. 2 way switches for staircase lights, bedroom lights and fans. Good placement anticipating appliances like AC, fan, lights. Power generated in the household (solar, wind&amp;hellip;) may need to be consumed preferentially - or dumped to the grid.</description>
+    </item>
+    
+  </channel>
+</rss>

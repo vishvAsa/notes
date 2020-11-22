@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Risk &amp; eval</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/risk_and_evaluation/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/risk_and_evaluation/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Risk &amp; eval" />
+<meta property="og:description" content="It may be essential to model \(Pr(L|X, S)\); this is called Inference in the context of probabilistic graphical models.
+Loss functions: labeling single data points Different measures of goodness/ error functions are appropriate for different scenarios.
+Loss functions: vector labels Loss functions in this case are often defined to penalize deviation from the actual label symmetrically.
+See loss functions in regression section.
+Loss functions for classification Below we mainly consider the loss functions \(l(\hat{y}, y)\) which are without regularization to account for prior belief." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/probability/statistics/label_prediction/risk_and_evaluation/" />
+
+<meta itemprop="name" content="Risk &amp; eval">
+<meta itemprop="description" content="It may be essential to model \(Pr(L|X, S)\); this is called Inference in the context of probabilistic graphical models.
+Loss functions: labeling single data points Different measures of goodness/ error functions are appropriate for different scenarios.
+Loss functions: vector labels Loss functions in this case are often defined to penalize deviation from the actual label symmetrically.
+See loss functions in regression section.
+Loss functions for classification Below we mainly consider the loss functions \(l(\hat{y}, y)\) which are without regularization to account for prior belief.">
+
+<meta itemprop="wordCount" content="909">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Risk &amp; eval"/>
+<meta name="twitter:description" content="It may be essential to model \(Pr(L|X, S)\); this is called Inference in the context of probabilistic graphical models.
+Loss functions: labeling single data points Different measures of goodness/ error functions are appropriate for different scenarios.
+Loss functions: vector labels Loss functions in this case are often defined to penalize deviation from the actual label symmetrically.
+See loss functions in regression section.
+Loss functions for classification Below we mainly consider the loss functions \(l(\hat{y}, y)\) which are without regularization to account for prior belief."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/probability\/statistics\/label_prediction\/risk_and_evaluation\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/probability\/statistics\/label_prediction\/risk_and_evaluation.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Risk &amp; eval</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Risk &amp; eval">Risk &amp; eval</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/probability/statistics/label_prediction/risk_and_evaluation.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>It may be essential to model \(Pr(L|X, S)\); this is called <strong>Inference</strong> in the context of probabilistic graphical models.</p>
+<h2 id="loss-functions-labeling-single-data-points">Loss functions: labeling single data points</h2>
+<p>Different measures of goodness/ error functions are appropriate for different scenarios.</p>
+<h3 id="loss-functions-vector-labels">Loss functions: vector labels</h3>
+<p>Loss functions in this case are often defined to penalize deviation from the actual label symmetrically.</p>
+<p>See loss functions in regression section.</p>
+<h3 id="loss-functions-for-classification">Loss functions for classification</h3>
+<p>Below we mainly consider the loss functions \(l(\hat{y}, y)\) which are without regularization to account for prior belief. Loss functions used in regression can directly be applied to this case: Eg: like squared difference.</p>
+<p>Good loss functions are realistic, maybe convex and smooth too - so that the corresponding empirical risk minimization problem (for picking classifiers) they lead to is tractable.</p>
+<h3 id="01-loss">0/1 loss</h3>
+<p>\(l() = I[\hat{y} \neq y]\). The corresponding risk will be \(Pr(\hat{y} \neq y) = E[I[\hat{y} \neq y]]\), the misclassification rate.</p>
+<p>The minimal risk classifier has the form: \(h(X) = \argmax_L Pr(L|X, S)\). The maximization procedure is called <strong>Decoding</strong> in the context of probabilistic graphical models.</p>
+<p>However, the corresponding empirical risk minimization is non-convex, is NP hard and cannot is not approximable to a constant fraction of goodness. So, auxiliary loss functions are used.</p>
+<h4 id="minimal-risk-binary-classification">Minimal risk: Binary classification</h4>
+<p>Aka Bayes risk. Suppose that data is generated by the model specified by specifying the pdfs \(f_{X|Y=1}\), \(f_{X|Y=0}\), \(Pr(y)\). Then, the best possible classifier is one which has accurate knowledge of the generative model, and even this classifier, in general, has a non zero risk. Its risk is given by \(\sum_y Pr_{x: Pr(y|x) \geq 1/2}(\lnot y)\), or by \(E_x[\min_y Pr(y|x)]\).</p>
+<h4 id="connection-to-log-loss-risk-binary-classification">Connection to log loss risk: binary classification</h4>
+<p>Whenever \(I[\hat{y} \neq y]\), we know that \(Pr_t(y|x) \geq 1/2\). So, \(E_{x, y}[-\log Pr_t(y|x)] \geq (-\log Pr_t(y|x)) Pr(\hat{y} \neq y) \geq \log 2 Pr(\hat{y} \neq y)\). Hence, upper-bound on log loss risk is also an upper bound for \(Pr(\hat{y} \neq y)\).</p>
+<h3 id="log-loss">Log loss</h3>
+<p>Suppose that our predictor is based on the model \(f_{Y|X,T=t}\). Then log loss is \(-log f_{Y|X,T=t}(y|x)\). This punishes the model for assigning low probabilities to an observation. Minimizing log loss corresponds to maximum likelihood estimation. The corresponding risk is \(E_{x, y}[-log f_{Y|X,T=t}(y|x)]\).</p>
+<h2 id="loss-functions-labeling-multiple-data-points">Loss functions: labeling multiple data points</h2>
+<h3 id="confusion-matrix">Confusion matrix</h3>
+<p>For qualitative evaluation, make k*k confusion matrix \(C\) with \(C_{i,j}\) as number of points belonging to class i predicted as belonging to class j.</p>
+<h3 id="true-and-false-positives">True and false positives</h3>
+<p>\(U \dfn \) set of all points. \(y(c) \dfn\) points belonging to class c. \(\hat{y}(c) \dfn\) set of points predicted to belong to class c.</p>
+<p>True positives: \(tp(c, \hat{y}) \dfn |y(c) \inters \hat{y}(c)|\). False positives: \(fp(c, \hat{y}) \dfn |\hat{y}(c) - y(c)|\).</p>
+<p>False negatives: \(function(c, \hat{y}) = |y(c) \inters (U - \hat{y}(c))|\). True negatives: \(tn(c, \hat{y}) = |(U - y(c)) \inters (U - \hat{y}(c))|\).</p>
+<h3 id="precision-recall-specificity">Precision, recall, specificity</h3>
+<p>Micro averaged precision : \(P(\hat{y}) = \frac{\sum_{c}tp(c, \hat{y})}{\sum_{c} (fp(c, \hat{y})+tp(c, \hat{y}))}\).</p>
+<p>Recall, or completeness or sensitivity or true positive rate:\ \(R(\hat{y}) = \frac{\sum_{c}tp(c, \hat{y})}{\sum_{c} (function(c, \hat{y}) + tp(c, \hat{y}))}\). Measures ability to identify items belonging to class c.</p>
+<p>Specificity: \(S(c, \hat{y}) = \frac{tn(c, \hat{y})}{tn(c, \hat{y}) + fp(c, \hat{y})}\). Measures ability to discard items not belonging to class c. \(1 - S(c, \hat{y})\) is false positive rate.</p>
+<p>F-measure, the harmonic mean of precision and recall, is also used to evaluate success.</p>
+<h4 id="emphasis-on-one-ve-class">Emphasis on one &lsquo;+ve&rsquo; class</h4>
+<p>If you only care about performance from the perspective of one class, as in the case of link prediction, let c range over only that class in the summations above.</p>
+<h4 id="sensitivity---specificity-tradeoff">Sensitivity - specificity tradeoff</h4>
+<p>Ideally, want to increase both sensitivity and specificity. But to increase sensitivity, the classifier often needs to take more risks in classifying an entity as &lsquo;positive&rsquo;. There will be many cases where -ve entities are declared +ve: there is decrease in specificity.</p>
+<p>Visualize two normal curves over 1-D feature: one for the -ve case and one for the +ve case. On observing a feature, a classifier uses a cutoff to identify +ve cases. Compare with tradeoff between type-1 and type-2 errors in hypothesis testing.</p>
+<h4 id="sensitivity-vs-1-specificity-curve">Sensitivity vs 1-specificity curve</h4>
+<p>Aka Receiver operating characteristic (ROC) curve. Take a parametrized family of predictors/ tests to identify +ve cases; the predictors are distinguished by the cutoff they choose in making classifications using the same scores for items. ROC considers the sensitivity vs specificy tradeoffs of various tests belonging to this family.</p>
+<p>So, for all tests, you plot sensitivy and 1- specificity on a graph, and join these points by a straight line : a piecewise linear function starting at 0, and ending at 1; not a step function.</p>
+<h5 id="area-under-curve-auc">Area under curve (AUC)</h5>
+<p>Ranges of sensitivity and 1-specificity are [0, 1]. All curves startat 0, where every item is classified -ve, and end at 1, where every item is classified +ve.</p>
+<p>A good test (family) is as close as possible to the left axis: parameters can be tuned to increase sensitivity without sacrificing specificity too much. An ideal test has area under the curve (AUC) 1. The higher the AUC, the better the test family. A random predictor has AUC 0.5.</p>
+<p>So, AUC measures the test&rsquo;s discrimination, or the ability to separate +ve cases from the -ve cases.</p>
+<h4 id="precision-recall-tradeoff">Precision/ recall tradeoff</h4>
+<p>Recall monotonically increases with number of points classified as +ve. Precision monotonically decreases with the number of false positives. Often precision and recall have inverse relationship: if you classify all points as +ve, you have very high completeness but bad recall.</p>
+<p>Often want to see how these change with classification parameters: so draw plots.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Risk &amp; eval </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Risk &amp; eval</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

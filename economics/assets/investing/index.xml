@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Investing on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/economics/assets/investing/</link>
+    <description>Recent content in &#43;Investing on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/economics/assets/investing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Funds</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/assets/investing/funds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/assets/investing/funds/</guid>
+      <description>Relying on experts or algorithms One can mitigate risks by relying on experts or well-tested algorithms to manage funds. In USA, publicly traded companies which follow the value investing philosophy include: Berkshire Hathaway, BBTEX, Boyar, Tweedy Borwne, YACKX.
+Index funds for a given economic sector simply invest in major companies in proportion to their market value. One relys on the less riskier supposition that the entire sector is likely to grow, rather than any single security belonging to that sector.</description>
+    </item>
+    
+    <item>
+      <title>Goal setting</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/assets/investing/goal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/assets/investing/goal/</guid>
+      <description>Importance of planning An individual earns money from employment when young and healthy; but eventually they retire or get sick- either early or after going old.
+Many expenses are very predictable. Hence set up a retirement fund, children’s education fund, health/ emergency fund. Many people fail at doing this.
+Goals Investment horizon and age One should be clear about the investment horizon: when does one intend to withdraw money from the fund, with what frequency etc.</description>
+    </item>
+    
+    <item>
+      <title>Implementation</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/assets/investing/implementation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/assets/investing/implementation/</guid>
+      <description>Execution Summary समीकरणम् (rebalancing)  करवृद्धिरहित-लेखासु यथेष्टम् काले काले करव्याप्तौ स्थितासु लेखासु वर्षे वर्षे। कराधिक्यम् वारयितुम्।  अमेरिकेषु  TD Ameritrade इत्यत्र my account → portfolio planner प्रयोगः पूर्वतटव्यवहारसमये। Use total money to be invested.  भारतेषु Post tax  Look up symbols in BSE and NSE websites. Sometimes equity is listed in both - only &amp;ldquo;EQ&amp;rdquo; is added in symbols to differentiate. upstox order tips: https://www.evernote.com/notelink/Login.action?targetUrl=%2Fshard%2Fs440%2Fnl%2F75394722%2Ff9a8ba31-ac3a-4c70-a836-4ead7b16439b%2F  Tax saving  Explore funds on morning-star : see 5 yr returns, expense ratio https://upstox.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/assets/investing/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/assets/investing/portfolio/</guid>
+      <description>Summary Also see implementation summary.
+ Pick a simple asset allocation model, stick to it, rebalance occasionally.  Possibly put a small portion of money in high-risk high-reward places. (NN Taleb&amp;rsquo;s barbell strategy.)   Initially, be equity heavy. But put some money in bonds (negatively correlated with equity).  USA - TSM core 5/8, SV tilt 3/8.   Switch to fixed income heavy portfolio when retiring.  &amp;ldquo;Let us call the first set ensemble probability (concerned with a collection of people) and the second one time probability or ergodicity (concerned with one person through time).</description>
+    </item>
+    
+    <item>
+      <title>Risk</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/assets/investing/risk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/assets/investing/risk/</guid>
+      <description>Risk and return-advantage types Risk in the investment is the potential to loose money. Risk is paired with advantage: investors promised a bigger return will tolerate some risk.
+Credit default risk This risk is particularly relevant for bonds. This is the risk of businesses not repaying their loans.
+The advantage is that riskier bonds yield bigger returns.
+Credit rating agencies Sometimes, the ultimate owners of bonds sometimes do not have a clear idea about the risk involved.</description>
+    </item>
+    
+    <item>
+      <title>Valuation</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/assets/investing/valuation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/assets/investing/valuation/</guid>
+      <description>Beliefs and market positions Agents, in trading securities, bet on change in market’s evaluation of securities. Thus, the market price of securities is adjusted continually.
+If agents believe that a security will increase in value, they are said to act from a bullish/ long position. If the reverse is true, they are said to act from a bearish/ short position.
+Agents may also believe a certain company will outperform or underperform other companies in the sector.</description>
+    </item>
+    
+  </channel>
+</rss>

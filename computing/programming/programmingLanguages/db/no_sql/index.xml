@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;NoSql on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/no_sql/</link>
+    <description>Recent content in &#43;NoSql on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/no_sql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bigtable</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/no_sql/bigtable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/no_sql/bigtable/</guid>
+      <description>A sparse 3D map: (rowkey, column-name, timestamp) to data. No other indexing, not a relational database. rowkey can be any byte sequence.
+Efficient operations  Single row lookup. Scan row ranges/ prefixes. Scan column, timestamp ranges  Advantages  Scales easily, shards as necessary (during &amp;lsquo;compaction&amp;rsquo; times). Shards are called tablets. Shards may be overloaded before the unpredictable compaction times, so intelligent key distribution may be desirable.  Disadvantages  Columns can be grouped into column family.</description>
+    </item>
+    
+    <item>
+      <title>Couchdb</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/no_sql/Couchdb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/no_sql/Couchdb/</guid>
+      <description>Overview  Master-Master Replication - so better than master-slave. Eventual consistency. partition tolerance. lately allows ad hoc querying with sql-like syntax (changed in 2016?). Can also do map-reduce with views. great versioning system. heavy-write friendly thanks to its append-only nature (writes operations return in no time while guaranteeing that no data will ever be lost). CouchDb relies on b-tree for all, even indexes. This means that even with 20 billions, the querying time will always remain below 10ms.</description>
+    </item>
+    
+    <item>
+      <title>Mongo</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/no_sql/Mongo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/no_sql/Mongo/</guid>
+      <description> Master-Slave Replication ONLY allows ad-hoc querying with a SQL like syntax. makes the transition from SQL even easier.  Distributions  mongodb meteor.js  Commands </description>
+    </item>
+    
+  </channel>
+</rss>

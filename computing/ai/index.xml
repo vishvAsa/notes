@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;AI on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/ai/</link>
+    <description>Recent content in &#43;AI on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adverserial search / games</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/ai/adversarial_search_games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/ai/adversarial_search_games/</guid>
+      <description>The game tree: max and min levels. Utility functions and evaluation functions to approximate utility. Labelling the nodes with utilities.
+Minmax algorithm \(\alpha \beta\) pruning : visit nodes only to decide the best move. Games against nature: Expectiminimax algorithm.
+The horizon effect: exploring some branches more deeply.</description>
+    </item>
+    
+    <item>
+      <title>Computer vision</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/ai/Computer_vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/ai/Computer_vision/</guid>
+      <description>SLAM (Simultaneous localization and mapping) problem The objective is to localize one&amp;rsquo;s position relative to those objects. There are two important subproblems: a] object or feature detection, b] measurement of position (distance and orientation) relative to a given feature. Solution approaches depend on the available tools - which may vary with situation.
+Tools and approaches Localization using bounced light from lasers is essentially a solved problem; but lasers are expensive. Localization using light detected by passive sensors (eg: visible spectrum cameras) is harder.</description>
+    </item>
+    
+    <item>
+      <title>Constraint satisfaction problems</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/ai/Constraint_satisfaction_problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/ai/Constraint_satisfaction_problems/</guid>
+      <description>Discrete vs continuous valued variables. Number of variables involved in constraints; preferences. Problem structure: the constraint graph.
+As an uninformed search problem The naive backtracking search. Variable ordering: Most constrained variable / minimum remaining values.
+Value ordering: least constraining value. Solve independent subproblems separately; collapse nodes in constraint graph. Propogating information through constraints: forward checking: delete unsuitable values in current node; constraint propogation: delete unsuitable values in lower nodes: arc consistency.</description>
+    </item>
+    
+    <item>
+      <title>Planning</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/ai/Planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/ai/Planning/</guid>
+      <description>Specifying decision algorithm An agent may have several (sub)objectives it can act towards.
+Eg: An navigation agent that wants to know the user&amp;rsquo;s destination may have to decide between asking for a nearby landmark, or for the street name or for a clarification of prior utterence.
+Rule based vs utility computation So, the agent needs some way of prioritizing various sub-objectives/ actions. It may do this using some rigid rules.</description>
+    </item>
+    
+    <item>
+      <title>Stochastic control processes</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/ai/Stochastic_control_processes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/ai/Stochastic_control_processes/</guid>
+      <description>Reinforcement learning setting Interaction with the environment The agent can be in a set of states \(S\), and can perform a set of actions \(A\).
+The effect of an action is given by transition probability distributions associated with each (sate, action) pair \(P_{s, a}:S \to [0, 1]\), and by rewards which may sometimes be provided by the environment.
+Policy learning Agent wants to find the optimum policy \(\pi&amp;rsquo;:S \to A\) by trial and error</description>
+    </item>
+    
+  </channel>
+</rss>

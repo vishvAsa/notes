@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | &#43;Homework Assignment #1: Search</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/ai/classwork/hw1/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/ai/classwork/hw1/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="&#43;Homework Assignment #1: Search" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/ai/classwork/hw1/" />
+
+<meta itemprop="name" content="&#43;Homework Assignment #1: Search">
+<meta itemprop="description" content=""><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="&#43;Homework Assignment #1: Search"/>
+<meta name="twitter:description" content=""/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/ai\/classwork\/hw1\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/ai\/classwork\/hw1\/_index.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> &#43;Homework Assignment #1: Search</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="&#43;Homework Assignment #1: Search">&#43;Homework Assignment #1: Search</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/ai/classwork/hw1/_index.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<main>
+    <article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>683 Homework Assignment
+Due: September 26, 2007</p>
+<p>My answers are italicized. - vishvAs vAsuki</p>
+<ul>
+<li>
+<p>(12%) Iterative lengthening search is an iterative analogue of uniform-cost search. The basic idea is to use increasing limits on path cost. If a node is generated whose path cost exceeds the current limit, it is immediately discarded. For each new iteration, the limit is set to the lowest path cost of any node discarded in the previous iteration.</p>
+<ul>
+<li>
+<p>(3%) Show that this algorithm is optimal for general path costs.</p>
+</li>
+<li>
+<p>Suppose that N is the set of all nodes which are in the explored part of the search tree. (Every node belonging to the explored part of the search tree has undergone the &ldquo;goal test&rdquo;.) Also, let NF stand for the set of all nodes in the fringe of the explored part of the search tree.</p>
+</li>
+<li>
+<p>Initially, N and NF consist of only the node corresponding to the initial state. Initially, the limit used by iterative lengthening is 0.</p>
+</li>
+<li>
+<p>Each successive iteration of Iterative lengthening works by generating all the successors of the fringe nodes, and discarding all nodes which exceed the current limit. Amongst those nodes which are discarded, the lowest path cost is set to be the limit used by iterative lengthening during the next iteration.</p>
+</li>
+<li>
+<p>So, if the search progresses by one more iteration, N grows by the addition of the nodes with the least path cost, from amongst all the nodes which do not already belong to N. Thus, all nodes which are not part of N have a path cost greater than the maximum path cost for the nodes belonging to N. [Observation 1.1.1]</p>
+</li>
+<li>
+<p>During each iteration of the algorithm, N grows by exactly by the number of nodes whose path cost equals the limit for the iteration. These nodes undergo the goal test. If one of these nodes is identified as a &ldquo;goal node&rdquo;, the algorithm halts. So, whenever the algorithm proceeds to another iteration, it is implied that all nodes which have been previously added to N have undergone the goal test, and they are known to be non-goal nodes. [Observation 1.1.2]</p>
+</li>
+<li>
+<p>Now, suppose that during some search iteration, the goal node is found. Considering [Observation 1.1.2] and [Observation 1.1.1], there does not exist another goal node with a lower path cost - because, if there were such a node, it would be part of N, and the algorithm would have halted. Hence, the algorithm is optimal.</p>
+</li>
+<li>
+<p>(4%) Consider a uniform tree with branching factor <em>b</em>, solution depth <em>d</em>, and unit step costs (each action costs one unit). How many iterations will iterative lengthening require?</p>
+</li>
+<li>
+<p>If d=0, then the initial state is also the goal state. The limit is initially 0. In the solution below, in counting the number of iterations required, I count the iteration described above.</p>
+</li>
+<li>
+<p>In order to find the goal node, the algorithm, for this problem, will have to undergo d+1 iterations (including the first iteration, where the maximum path cost is 0).</p>
+</li>
+<li>
+<p>(5%) Now consider step costs drawn from the continuous range [e,1] for some 0 &lt; e &lt; 1. How many iterations are required in the <em>worst case</em>?</p>
+</li>
+<li>
+<p>Note that the question specifies the lower bound on the step size, e. Then, iterative lengthening will undergo at most d/e iterations.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>(12%) Suppose you were doing an A* search and there were a number of different ways that you could compute an admissible heuristic value. Suppose that some were very cheap to compute but also very inaccurate estimators while others were very expensive to compute but were very accurate estimators. How would you determine which computation to use for a given application?</p>
+<ul>
+<li>There are limitations on the space and time available to an agent for computation. This is especially true where the agent is required to respond in real-time. In dynamic environments, the situation may change during the time the agent spends in thought. If, for a given problem, an agent does not have the luxury computing a complex heuristic without incurring a penalty, the agent should choose the simple heuristic. Humans, for example, use simple heuristics in daily life.</li>
+<li>On the other hand, if the agent were dealing with a static envronment, and if the agent had all the time it needed, it would use the more expensive, but accurate heuristic in the hopes of safely arriving at the solution faster. This, of course, assumes that the heuristic function is cheaper to compute than the problem of exploring the problem search tree directly. (That is, if the heuristic is not exponential in time.)</li>
+<li>One would consider the reduction in the number of nodes expanded against the computational complexity of the expensive heuristic. If the more-accurate heuristic is accurate enough to guarantee subexponential growth in the number of nodes expanded with comparitively little computational cost, one would choose the more accurate heuristic. (This happens when the error in the heuristic function at node n &lt;= O(log( actual cost to get to the goal from node n)).)</li>
+</ul>
+</li>
+<li>
+<p>(12%) Give an example of a search space in which A* would generate a node first with a _g_-value that is not the shortest distance between that node and the initial state. To do that, draw a small graph, designate one node as an initial state and one node as the goal state. Assign path costs to edges and an admissible heuristic estimate to each node.</p>
+<ul>
+<li>
+<p>(5%) Show the graph and trace the execution of A* until it terminates.</p>
+</li>
+<li>
+<p>The graph is as follows:<br>
+<img src="ai3.jpg" alt="diagram of the example for question 3"></p>
+</li>
+<li>
+<p>The path taken by A* to the solution, with reference to the above diagram, is traced below:</p>
+</li>
+<li>
+<p>A* starts at node A.</p>
+</li>
+<li>
+<p>A* generates node B, using the longer, but direct, path. But, B is not expanded.</p>
+</li>
+<li>
+<p>A* generates node C, whose f-value is equal to the F value of B, as generated above.</p>
+</li>
+<li>
+<p>A* arbitrarily chooses to expand node C, and finds a shorter route to node B.</p>
+</li>
+<li>
+<p>In the final step, A* expands node B to arrive at the goal, the node D.</p>
+</li>
+<li>
+<p>(4%) Is your heuristic function consistent? Is it generally possible to create such an example when the heuristic is consistent?</p>
+</li>
+<li>
+<p>In case of Consistent or monotonous heuristics, the f-value never decreases along a path in the search tree.</p>
+</li>
+<li>
+<p>My heuristic function is not consisitent. It is not generally possible to create such an example when the heuristic is consistent. (A proof is not provided, as it was not asked for.)</p>
+</li>
+<li>
+<p>(3%) In general, will A* still find the optimal solution when this happens (i.e., a node is generated with a _g_-value greater than the shortest distance from the initial state)?</p>
+</li>
+<li>
+<p>A* will still find the optimal solution when this happens! This happens because the algorithm will faithfully switch to using the shorter path, if necessary. The optimality of A* has been guaranteed and proved in the class.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>(16%) In this exercise, we consider the choice between two <em>admissible</em> heuristic functions, one of which is always &ldquo;at least as accurate&rdquo; as the other. More precisely, for a fixed goal, let h1 and h2 be two admissible heuristic functions such that h1(n) &lt;= h2(n) for every node n in the search tree.<br>
+Now recall that the A* algorithm expands nodes according to their f values, but the order in which nodes of equal f values are expanded can vary, depending on the implementation. For a given heuristic function h, we say that an ordering of the nodes in the search tree is h-legal if expanding the nodes in that order is consistent with A* search using h.<br>
+Let N denote the set of nodes expanded by an A* search using h1 (the &ldquo;less accurate&rdquo; heuristic function). Prove that there is always some search ordering that is h2-legal that expands only a (not necessarily strict) subset of the nodes in N.<br>
+That is, prove that it is always _possible_ that h2 leads to a smaller search space than h1. (Note that the question asks you to find _some_ search ordering such that certain properties hold. Do you see why it is not possible, in general, to show that these properties hold for an _arbitrary_ search ordering?)</p>
+<ul>
+<li>Let C = optimum solution path cost. Also, let f1 and f2 be the f values corresponding to h1 and h2.</li>
+<li>A* using h2 will never expand more nodes than A* using h1, except possibly for some nodes with f(n)=C. This is proved below.</li>
+<li>It was proven in class that every node with f(n)&lt;C is surely expanded. In other words, every node with h(n)&lt;C-g(n) is expanded.</li>
+<li>But, as h2 is at least as big as h1 for all nodes, every node which is surely expanded by h2 is also surely expanded by h1. In other words, all nodes for which f2&lt;C are definitely expanded by both heuristics. [Observation 4.1]</li>
+<li>But, consider the nodes for whom fn(n)=C. The set of these nodes will include the goal node, for which g=C and h=0. Let N1=set of such nodes for h1, and N2= set of such nodes for h2. It follows directly from the data that all nodes present in N2 are either present in N1, or f1(n)&lt;C for them.</li>
+<li>For nodes present in both N2 and N1, suppose that h1 arbitrarily chooses a node to expand, and that it turns out to be the goal node. In this case, h1 will immediately terminate. Also suppose that h2 were to expand the goal node only after it expanded every node present in N2. In this case, h2 will have expanded nodes which h1 did not have to expand! [Observation 4.2]</li>
+<li>But, if both h2 and h1 were to follow the same ordering of nodes to expand when fn(n)=C for both heuristics, we can say that every node, for which f2(n)=C, which expanded by h2 is also expanded by h1. [Observation 4.3]</li>
+<li>So, from [Observation 4.1] and [Observation 4.3], we conclude that for some search ordering, the set of nodes expanded by h2 is a subset of the set of nodes expanded by h1. Also, from [Observation 4.2], we see that this does not hold for any arbitrary ordering.</li>
+</ul>
+</li>
+<li>
+<p>(24%) A knight moves on a chessboard two squares up, down, left, or right followed by one square in one of the two directions perpendicular to the first part of the move (i.e., the move is L-shaped). Suppose the knight is on an unbounded board at square (0,0) and we wish to move it to square (x,y) in the smallest number of moves. (For example, to move from (0,0) to (1,1) requires two moves.)</p>
+<ul>
+<li>
+<p>(4%) Explain how to decide whether the required number of moves is even or odd without constructing a solution.</p>
+</li>
+<li>
+<p>Consider a knight at the position (0,0). Suppose that the knight wanted to move either to (1,0) or to (0,1). This can be accomplished with 3 moves. Suppose instead that the knight wanted to move to (1,1). This can be accomplished with 2 moves. Suppose instead that the knight wanted to move to (1,2). This can be accomplished with 1 move.</p>
+</li>
+<li>
+<p>From the above observations, we make the following generalization: If a &ldquo;target square&rdquo; can be reached from the origin-square by only making diagonal moves of arbitrary length and direction, then, a knight starting from the origin-square will be able to reach the &ldquo;target square&rdquo; using an even number of moves. Otherwise, the knight will only be able to reach the target square using an odd number of moves.</p>
+</li>
+<li>
+<p>A proof of the above generalization is outlined here (A rigorous proof is not provided, as it was not asked for.): Color the unbounded chessboard such that all diagonally connected squares share the same color. An inescapable property of a knight&rsquo;s movement is that the &ldquo;color&rdquo; of its square changes with each move. Using this property, it may be proved by induction that to reach a square of the same color, a knight has to undertake an even number of moves, and to reach a square of the opposite color, the knight has to undertake an odd number of moves.</p>
+</li>
+<li>
+<p>(6%) Design an admissible heuristic function for estimating the minimum number of moves required; it should be as accurate as you can make it. Prove rigorously that your heuristic is admissible.</p>
+</li>
+<li>
+<p>I define the term &ldquo;hvd distance from A to B&rdquo; to mean the number of moves required by a King (a chess piece which can move diagonally, vertically or horizontally one square in any direction) to reach square A from square B. Consider all the squares surrounding a square (x,y), such that they fall within a hvd distance of 2. There are 9 such squares (including the original square).</p>
+</li>
+<li>
+<p>The heuristic algorithm computes the hvd distance from the origin square to the target square. It then divides this number by 2 and rounds it off to the next highest natural number, to arrive at a number called &ldquo;the ring ordinal&rdquo;. If the &ldquo;the ring ordinal&rdquo; is odd, but the expected actual number of moves is even, (or vice versa) the &ldquo;ring ordinal&rdquo; is incremented by 1. The value of the heuristic is the &ldquo;ring ordinal&rdquo; we finally reach. (One can decide whether even or odd number of moves are required for reaching the target square by using the reasoning provided in answer to the question 5.1.)</p>
+</li>
+<li>
+<p>Rigorous proof of admissibility:</p>
+</li>
+<li>
+<p>It immediately follows from the definition of the knight&rsquo;s move that a knight cannot travel more than 2 hvd distance units per move. So, at maximum, the knight can reach a square 2*&ldquo;number of knight-moves&rdquo; away in terms of hvd distance. In other words, &ldquo;hvd distance&rdquo; &lt;= 2*&ldquo;number of knight-moves&rdquo;.</p>
+</li>
+<li>
+<p>From the above observation, it follows that ceil(&ldquo;hvd distance&rdquo;/2) cannot be greater than the number of moves required by the knight. ceil(&ldquo;hvd distance&rdquo;/2) represents the real number &ldquo;hvd distance&rdquo;/2 rounded off to the next highest natural number.</p>
+</li>
+<li>
+<p>But, if one were to observe that ceil(&ldquo;hvd distance&rdquo;/2), the lower bound on the number of knight-moves required, is odd, but knows that an even number of moves are required (as deduced using the reasoning provided in answer to the question 5.1.), one can safely increment the lower bound to ceil(&ldquo;hvd distance&rdquo;/2) +1, with the guarantee that admissibility is maintained. This conclusion follows from the facts mentioned in the antecedent of the above sentence. One may similarly prove that ceil(&ldquo;hvd distance&rdquo;/2) +1 remains admissible in the case where ceil(&ldquo;hvd distance&rdquo;/2) is even and the number of knight-moves required is known to be odd.</p>
+</li>
+<li>
+<p>Hence, we claim that the heuristic described has been proved.</p>
+</li>
+<li>
+<p>(14%) Use your own implementation of A* to solve the problem using your heuristic; measure and plot the number of nodes expanded and computation time as a function of solution length for randomly generated problem instances.</p>
+</li>
+<li>
+<p>I have written the program and gathered the data. The java program may be found in /courses/cs600/cs683/vvasuki/hw1ai/knightMoves , under the package &ldquo;knightMoves&rdquo;. The object-oriented code is found among the files ChessBoard.java, ProblemSolvedException.java and Square.java.</p>
+</li>
+</ul>
+<p><img src="knightMovesNodesVsCost.jpg" alt="Graph of nodes expanded vs Solution Cost"></p>
+<p><img src="knightMovesRutimeVsCost.jpg" alt="Runtime vs Solution Cost plot"></p>
+</li>
+<li>
+<p>(24%) The traveling salesperson problem (TSP) can be solved via the minimum spanning tree (MST) heuristic, which is used to estimate the cost of completing the tour, given that a partial tour has already been constructed. The MST cost of a set of cities is the smallest sum of the link costs of any tree that connects all the cities.</p>
+<ul>
+<li>
+<p>(4%) Formulate the TSP as a search problem and show that the MST heuristic can be derived from a relaxed version of the TSP.</p>
+</li>
+<li>
+<p>States: Each state corresponds to the path traced by the travelling salesperson so far. It is a sequence of verteces V eg: &lt;v1, v4, v5, v2&gt;. The verteces are numbered v1 to vx, where x is the number of verteces. The cost of the edge between any pair of verteces is known. Valid states do not contain repeated verteces, except when the circuit represented by the state contains all verteces.</p>
+</li>
+<li>
+<p>Initial state: The salesperson has not visited any vertex.</p>
+</li>
+<li>
+<p>Goal test: The salesperson has traced a circuit through all the nodes. The optimal goal state corresponds to the minimum cost circuit which can be traced by the salesperson.</p>
+</li>
+<li>
+<p>Path cost: The total distance travelled by the salesperson in the path corresponding to the state the agent is exploring.</p>
+</li>
+<li>
+<p>Successor function: The successor function generates a list of states, each of which corresponds to the addition of a particular city (say: city vx) to the path traversed, subject to the condition that the state generated is a valid state, as defined above.</p>
+</li>
+<li>
+<p>Proof that MST heuristic can be derived from a relaxed version of the TSP:</p>
+</li>
+<li>
+<p>Consider the TSP, as formulated above. Each state represents a path traversed by the travelling salesperson.</p>
+</li>
+<li>
+<p>Suppose that N is the set of all cities. Suppose that the set G is the set of all cities which are part of a partially completed tour, which ends at node A and begins at O. The TSP problem, at each stage of the construction of the tour, would be to start from A and return to O after touring all nodes in N-G, with the minimum path-cost. This is the problem the salesperson has to face at each stage of the construction of the tour. We will relax this problem to obtain the MST heuristic.</p>
+</li>
+<li>
+<p>Suppose that instead of having to find a tour through the cities in the set N-G to O, the salesperson were to find a minimum spanning tree through those nodes. By definition, a relaxed problem has fewer and/or relaxed constraints when compared with the original problem. Here we relax the original problem by asking the salesperson to find a MST through the cities, rather than asking him to find a *minimal path* through those nodes. (A path is a special kind of tree.) Hence, by virtue of relaxing the constraints on the TSP, we have arrived at the MST heuristic.</p>
+</li>
+<li>
+<p>(6%) Write a problem generator for instances of TSP where cities are represented by random points in the unit square (i.e., each coordinate is between 0 and 1). The number of cities to be generated should be a parameter.</p>
+</li>
+<li>
+<p>I have written a Java program, Landscape, to do this. It may be found in the edlab machine, at the path /courses/cs600/cs683/vvasuki/hw1ai/TSP, under the package tsp, as the file Landscape.java. Its results, for a given example, are shown below:</p>
+</li>
+<li>
+<p>25-Sep-07 11:47:22 AM tsp.Landscape main<br>
+INFO: Landscape is:<br>
+x:0.8188087348668529 y:0.8347283669342086<br>
+x:0.9157016699580921 y:0.07731264935036142<br>
+x:0.4308491888584558 y:0.884557718125406</p>
+</li>
+<li>
+<p>(14%) Find an efficient algorithm in the literature for constructing the MST, and use it with A* search to solve instances of the TSP; measure and plot the number of nodes expanded and computation time as a fuction of the number of cities for randomly generated problem instances.</p>
+</li>
+<li>
+<p>I have used the Kruskal algorithm for constructing MST&rsquo;s.</p>
+</li>
+<li>
+<p>I have written a Java program, Landscape, to do this. It may be found in the edlab machine, at the path /courses/cs600/cs683/vvasuki/hw1ai/TSP, under the package tsp, as the classes Landscape, City, Edge and Tour.</p>
+</li>
+<li>
+<p><img src="graphSizeNodesExpanded.jpg" alt="Graph Size vs Nodes Expanded"></p>
+</li>
+<li>
+<p><img src="graphSizeVsRuntime.jpg" alt="Graph Size vs Runtime"></p>
+</li>
+</ul>
+</li>
+</ul>
+
+  </div>
+</article>
+
+    
+    <div class="css-treeview box">
+        
+<ul>
+    <li><input type="checkbox" id="section-tree-item-&#43;Homework Assignment #1: Search" checked="checked" /><label for="section-tree-item-&#43;Homework Assignment #1: Search">&#43;Homework Assignment #1: Search</label>
+        <ul>
+            
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">&#43;Homework Assignment #1: Search </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: &#43;Homework Assignment #1: Search</li>
+        
+        <li>unicode_script: devanagari</li>
+        
+    </nav>
+</aside>
+
+            
+            
+            
+            
+            
+            
+            
+        </ul>
+    </li>
+</ul>
+
+    </div>
+</main>
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

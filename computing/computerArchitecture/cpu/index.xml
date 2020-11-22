@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;CPU on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/cpu/</link>
+    <description>Recent content in &#43;CPU on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/cpu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Graphics processing (GPU)</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/cpu/Graphics_processing_GPU/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/cpu/Graphics_processing_GPU/</guid>
+      <description>GPU&amp;rsquo;s, implementing common graphics tasks on specialized circuits, speed up display tasks involved in personal computing.
+High data parallelism GPU&amp;rsquo;s follow a dataflow architecture: Highly pipelined, parallel with many small cores - much more than CPU&amp;rsquo;s. Usually, these parallel cores are divided profitably and easily: Like one core for a bunch of pixels.
+Earlier these processing elements were specialized for graphics, now these shaders are more programmable.
+For general computing With GPGPU, one would Disguise program as geometry computation.</description>
+    </item>
+    
+    <item>
+      <title>Motherboard</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/cpu/Motherboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/cpu/Motherboard/</guid>
+      <description>A mother-board provides suitable interface and circuits for communication and power-supply among/ for the processor, working memory, I/O, persistent storage etc..
+The motherboard contains the BIOS memory where the boot-program is located.
+System Bus The system bus is a common communication channel on the motherboard. It has many different dedicated branches for communication between the different components and certain controller hubs.
+A computer bus operating with \textit{double data rate} transfers data on both the rising and falling edges of the clock signal.</description>
+    </item>
+    
+    <item>
+      <title>Processor</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/cpu/Processor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/cpu/Processor/</guid>
+      <description>Components Every processor consists of an arithmetic and logic unit/ circuit (ALU), a few memory registers with a few layers of cache, memory and graphics controller circuits in order to be able to perform I/O operations and using extended working memory.
+Tight knit Parallelism Multiple cores Usually multiple cores share memory.
+Pipelines Aka instruction level parallelism.
+Processing often has pipeline structure; eg: fetch instruction, fetch data, execute instruction, store data. There are usually separate functional units within a single processor which take care of these separate tasks in each clock cycle.</description>
+    </item>
+    
+    <item>
+      <title>Working Memory</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/cpu/Working_Memory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/cpu/Working_Memory/</guid>
+      <description>Memory hierarchy Memory access could be 100 times slower than flops: this is an important consideration when optimizing algorithms. Hence, there is a hierarchy of memory:
+Registers in the processor \(&amp;gt;\) On chip Cache: many layers \(&amp;gt;\) main memory \(&amp;gt;\) secondary memory located on the hard-disk for example.
+Glossary SDRAM  Working memory is capable of random, rather than serial, access. Also, it is dynamic - it retains data only when supplied electricity to periodically refresh its memory.</description>
+    </item>
+    
+  </channel>
+</rss>

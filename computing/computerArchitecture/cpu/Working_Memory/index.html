@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Working Memory</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/computerArchitecture/cpu/Working_Memory/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/computerArchitecture/cpu/Working_Memory/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Working Memory" />
+<meta property="og:description" content="Memory hierarchy Memory access could be 100 times slower than flops: this is an important consideration when optimizing algorithms. Hence, there is a hierarchy of memory:
+Registers in the processor \(&gt;\) On chip Cache: many layers \(&gt;\) main memory \(&gt;\) secondary memory located on the hard-disk for example.
+Glossary SDRAM  Working memory is capable of random, rather than serial, access. Also, it is dynamic - it retains data only when supplied electricity to periodically refresh its memory." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/computerArchitecture/cpu/Working_Memory/" />
+
+<meta itemprop="name" content="Working Memory">
+<meta itemprop="description" content="Memory hierarchy Memory access could be 100 times slower than flops: this is an important consideration when optimizing algorithms. Hence, there is a hierarchy of memory:
+Registers in the processor \(&gt;\) On chip Cache: many layers \(&gt;\) main memory \(&gt;\) secondary memory located on the hard-disk for example.
+Glossary SDRAM  Working memory is capable of random, rather than serial, access. Also, it is dynamic - it retains data only when supplied electricity to periodically refresh its memory.">
+
+<meta itemprop="wordCount" content="813">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Working Memory"/>
+<meta name="twitter:description" content="Memory hierarchy Memory access could be 100 times slower than flops: this is an important consideration when optimizing algorithms. Hence, there is a hierarchy of memory:
+Registers in the processor \(&gt;\) On chip Cache: many layers \(&gt;\) main memory \(&gt;\) secondary memory located on the hard-disk for example.
+Glossary SDRAM  Working memory is capable of random, rather than serial, access. Also, it is dynamic - it retains data only when supplied electricity to periodically refresh its memory."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/computerArchitecture\/cpu\/Working_Memory\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/computerArchitecture\/cpu\/Working_Memory.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Working Memory</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Working Memory">Working Memory</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/computerArchitecture/cpu/Working_Memory.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="memory-hierarchy">Memory hierarchy</h2>
+<p>Memory access could be 100 times slower than flops: this is an important consideration when optimizing algorithms. Hence, there is a hierarchy of memory:</p>
+<p>Registers in the processor \(&gt;\) On chip Cache: many layers \(&gt;\) main memory \(&gt;\) secondary memory located on the hard-disk for example.</p>
+<h2 id="glossary">Glossary</h2>
+<h3 id="sdram">SDRAM</h3>
+<ul>
+<li>Working memory is capable of random, rather than serial, access.</li>
+<li>Also, it is dynamic - it retains data only when supplied electricity to periodically refresh its memory.</li>
+<li>It is commonly Synchronous - synchronized with the system bus.</li>
+</ul>
+<h3 id="dimm">DIMM</h3>
+<ul>
+<li>UDIMM (unregistered memory) faster than RDIMM (registered memory) but less stable; costs less.</li>
+</ul>
+<h2 id="speed">Speed</h2>
+<ul>
+<li>For final latency considering data rate, clock rate, latency, see &ldquo;true latency&rdquo; comments below. Actual data transfer speed  = true latency * read width.</li>
+</ul>
+<h3 id="data-rates">Data rates</h3>
+<ul>
+<li>SDR - Single data rate. 1x signals per clock clycle. 64 bit channel.</li>
+<li>DDR1 - Double data rate. 2x signals per clock cycle. So, DDR set with max 1600 clock cycles is advertised as DDR 3200. 64 bit channel.</li>
+<li>DDR2 - Read width (prefetch buffer) double relative to DDR1. 128 bit channel.</li>
+<li>DDR3 - Read width double relative to DDR2. 256 bit channel.</li>
+<li>DDR4 - Same read width as DDR3. 256 bit channel. But lower power.</li>
+<li>DDR5 - Read width double that of DDR4. 512 bit channel.</li>
+<li>QDR - Quad data rate - 4x signals per clock cycle.</li>
+<li>RDRAM - failed.</li>
+</ul>
+<h3 id="signal-frequency">Signal frequency</h3>
+<ul>
+<li>Aka module speed.</li>
+<li>DDR4-3200 RAM has module speed/ advertised frequency 3200MHz (actually 1600 cycles per sec).</li>
+<li>clock rate (Eg: DDR-333 &gt; DDR-200). DPC4-xxxx denotes clock speed (with the last two digits truncated).</li>
+</ul>
+<h3 id="latency--cl">Latency / CL</h3>
+<ul>
+<li>RAM clock cycles (Not advertised frequency!) needed to get data.</li>
+<li>Example: 16-18-18-38 (CL/CAS, tRCD: RAS to CAS Delay, tRP: RAS Precharge, tRAS: Active to Precharge Delay.) and CL14-14-14-34 (CAS 14). ACT (Activate), RAS (Row Access Strobe), CAS (Column Access Strobe), and WE (Write Enable)</li>
+<li>Two RAM kits may have the same data transfer rate (example: DDR4-3200), but different latencies. DDR3 RAM usually has a CAS latency of 9 or 10, while DDR4 will have a CAS latency of at least 15. However, because of its faster clock speeds, the newer standard has better performance overall.</li>
+<li>Note: This is latency per cycle, not per advertised signal frequency! DDR3200 will have 1600M cycles per second. So, (1/(advertised frequency/cycle data rate)) * latency per cycle = true latency.
+<ul>
+<li>DDR4-3200 RAM with latency 16 will have true latency - 10ns.</li>
+</ul>
+</li>
+<li>Latencies have gradually increased over the years with the physical distance that signals have to travel (the speed of light is a hard limit)</li>
+</ul>
+<h2 id="interface-size">Interface Size</h2>
+<ul>
+<li>Interface size is a bit dependent on read width. 256 bit read requires atleast 256 pins!</li>
+<li>DDR SDRAM modules come in different interface sizes; the number of pins can be different: laptop units are smaller. Vostro 1000 laptop accepts DDR2 PC2-5300 RAM, even 2GB DDR2 800MHz/PC2-6400 200-pin SODIMM.</li>
+<li>Desktops accept 288 pin modules.</li>
+</ul>
+<h3 id="power-efficiency">Power efficiency</h3>
+<ul>
+<li>In terms of power efficiency, DDR4 (1.2V) &gt; DDR3 (1.5V).</li>
+</ul>
+<h2 id="ddr-sdram-tech">DDR SDRAM tech</h2>
+<h3 id="read-phases">Read phases</h3>
+<p>bitline precharge, activate, row access, column access. Row access is the heart of a read operation, as it involves the careful sensing of the tiny signals in DRAM memory cells; it is the slowest phase of memory operation. However, once a row is read, subsequent column accesses to that same row can be very quick.</p>
+<h2 id="buying-tips">Buying tips</h2>
+<p>Some motherboards support dual channel memory, which theoretically doubles the throughput if both SDRAM-slots in the contain identical memory modules.</p>
+<h3 id="history">History</h3>
+<ul>
+<li>By 2020, 16GB was becoming a bottleneck.</li>
+<li>As of 2011: 2*2 = 4GB RAM modules were economical - sometimes insufficient for programming and surfing the web simultaneously - some website/browser combos consume much memory! Macbook pro comes with 8GB RAM.</li>
+</ul>
+<h3 id="matching">Matching</h3>
+<ul>
+<li>For two different size RAM sticks to perform optimally together, they need to use the same voltage and their respective controllers should play well with each other and the motherboard. That&rsquo;s why it&rsquo;s best to use the same model in all slots.</li>
+<li>if your first stick is 4GB, you can still add a new 8GB stick. Once you switch on dual channel mode (also called flex mode), it will perform as two 4GB sticks running side by side in optimal performance. The remaining 4GB of the new stick will run in single channel mode. Overall, it&rsquo;s not as fast as using two sticks of the same size, but it&rsquo;s still faster than what you had before.</li>
+<li>&ldquo;The thing about mixing RAM is even identical model number kits from the same manufacturer can be made with different ICs in different production runs. The voltage and timings can match but the subtimings can be different enough to cause errors. That&rsquo;s why RAM is sold in matched kits that are guaranteed to be compatible.&rdquo; Also, mark-up for more profit!</li>
+</ul>
+<h3 id="sdr-sdram">SDR SDRAM</h3>
+<ul>
+<li>Typical SDR SDRAM clock rates are 66, 100, and 133 MHz (periods of 15, 10, and 7.5 ns)</li>
+</ul>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Working Memory </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Working Memory</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

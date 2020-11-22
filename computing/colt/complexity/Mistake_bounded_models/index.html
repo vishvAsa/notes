@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Mistake bounded models</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/colt/complexity/Mistake_bounded_models/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/colt/complexity/Mistake_bounded_models/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Mistake bounded models" />
+<meta property="og:description" content="Mistake bound (MB) learning model Problem \(L\) learns \(C\): \(L\) given sample point \(x\), returns h(x), told if it is correct; this is repeated; has mistake bound \(m\) (over any sequence of examples).
+Adversarial nature and randomization The mistake bounded model is adversarial in nature - we are concerned with the number of mistakes made in the worst case. So, randomization helps : the adversary decides on the input before the coin is tossed, so not knowing the algorithm&rsquo;s output, its attempts to cause mistakes are less successful." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/colt/complexity/Mistake_bounded_models/" />
+
+<meta itemprop="name" content="Mistake bounded models">
+<meta itemprop="description" content="Mistake bound (MB) learning model Problem \(L\) learns \(C\): \(L\) given sample point \(x\), returns h(x), told if it is correct; this is repeated; has mistake bound \(m\) (over any sequence of examples).
+Adversarial nature and randomization The mistake bounded model is adversarial in nature - we are concerned with the number of mistakes made in the worst case. So, randomization helps : the adversary decides on the input before the coin is tossed, so not knowing the algorithm&rsquo;s output, its attempts to cause mistakes are less successful.">
+
+<meta itemprop="wordCount" content="2559">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Mistake bounded models"/>
+<meta name="twitter:description" content="Mistake bound (MB) learning model Problem \(L\) learns \(C\): \(L\) given sample point \(x\), returns h(x), told if it is correct; this is repeated; has mistake bound \(m\) (over any sequence of examples).
+Adversarial nature and randomization The mistake bounded model is adversarial in nature - we are concerned with the number of mistakes made in the worst case. So, randomization helps : the adversary decides on the input before the coin is tossed, so not knowing the algorithm&rsquo;s output, its attempts to cause mistakes are less successful."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/colt\/complexity\/Mistake_bounded_models\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/colt\/complexity\/Mistake_bounded_models.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Mistake bounded models</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Mistake bounded models">Mistake bounded models</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/colt/complexity/Mistake_bounded_models.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="mistake-bound-mb-learning-model">Mistake bound (MB) learning model</h2>
+<h3 id="problem">Problem</h3>
+<p>\(L\) learns \(C\): \(L\) given sample point \(x\), returns h(x), told if it is correct; this is repeated; has mistake bound \(m\) (over any sequence of examples).</p>
+<h4 id="adversarial-nature-and-randomization">Adversarial nature and randomization</h4>
+<p>The mistake bounded model is adversarial in nature - we are concerned with the number of mistakes made in the worst case. So, randomization helps : the adversary decides on the input before the coin is tossed, so not knowing the algorithm&rsquo;s output, its attempts to cause mistakes are less successful.</p>
+<h3 id="traits-of-mb-learners">Traits of MB learners</h3>
+<h4 id="general-traits">General traits</h4>
+<p>Any \(L\) with finite mb can be written as sober algorithm \(L&rsquo;\)  which makes its hypothesis consistant with all examples seen so far: Otherwise, can feed inconsistant hypothesis repeatedly, and \(L\) would exceed mb.</p>
+<p>Careful algorithm \(L_{c}\): updates hypothesis only if it makes mistake. \(L\) without careless updates is \(L_{c}\), which has same mistake bound: Else, if \(L_{c}\) makes m+1 mistakes, \(L\) would exceed mistake bound \(m\) on that sequence.</p>
+<h4 id="efficient-learnability-in-mb-model">Efficient learnability in MB model</h4>
+<p>Show runtime per trial = poly(\(n\), size(c)), show polynomial mistake bounds. Reduce to efficiently learnable problem.</p>
+<h3 id="learnability-in-eq-only-model">Learnability in EQ only model</h3>
+<p>MB oracle can be simulated using an EQ oracle.</p>
+<h3 id="learnability-in-pac-model">Learnability in PAC model</h3>
+<p>Any C which is efficiently learnable in the MB model is PAC learnable. We use this PAC algorithm: Take sober algorithm, get hypothesis consistant with large enough sample \(S\) drawn from the given distribution \(D\).</p>
+<p>Or translate to EQ algorithm, then convert to PAC algorithm.</p>
+<h3 id="lower-bound">Lower bound</h3>
+<p>\(mb = \Omega(VCD(C_{r,n}))\): Else you&rsquo;d be able to learn in the PAC model with an impossibly low sample complexity.</p>
+<h4 id="halving-algorithm">Halving algorithm</h4>
+<p>For \(|C|\) finite: At max \(O(\log |C|)\) mistakes needed, ignoring efficiency: \(L\) replies to x with \(maj(h_{1}(x), \dots)\) : falsifies atleast 1/2 the concepts with every mistake.</p>
+<p>mb of Halving algorithm is a lower bound: no algorithm can make better use of sample \chk. \(mb = \Omega(|C|)\) not lower bound: Take k point functions; halving algorithm has mb = 1, not log k.</p>
+<p>\oprob Compare halving algorithm running time with VCD.</p>
+<h3 id="make-mistake-bounded-learning-algorithm-for-c-using-h">Make Mistake bounded learning algorithm for C using H</h3>
+<p>Decide initial h (maybe null, universal); decide update to hypothesis corresponding to example provided by the sampling oracle: Eg: Learn Disjunctions with mistake bound 2n.</p>
+<h3 id="find-mistake-bound">Find mistake bound</h3>
+<p>Enumerate cases where algorithm makes mistake; find max num of improvements to h possible in each case.</p>
+<p>Start with some money; show that you never get to 0.</p>
+<p>\oprob In MB model: Does ae learnability imply strong ae learnability?</p>
+<h2 id="mistake-bounds-mb-for-some-r">Mistake bounds (mb) for some R</h2>
+<h3 id="disjunctions-so-conjunctions">Disjunctions (so Conjunctions)</h3>
+<p>\(n\) vars, \(k\) terms.</p>
+<h4 id="simplified-winnow">Simplified Winnow</h4>
+<p>Mb = O(k log n), runtime O(n).</p>
+<p>Algorithm: Initial \(h\) is the sign of the halfspace \(f = \sum x_{i} -n\) of weight \(W=0\); if mistake on +ve \(x\), double weights of all \(Wt(x_{i}) = 1\) upto max \(n\); if mistake on -ve \(x\), \(\forall x_{i}=1\), set \(Wt(x_{i}) = 0\).</p>
+<p>Analysis: On +ve \(x\): From \(f\) def\(n\), \(\sum_{x_{i}=1} Wt(x_{i}) \leq n\), Max wt added: \(n\), so max mistakes \(k \log n\). On -ve \(x\): From f def\(n\), \(\sum_{x_{i}=1}Wt(x_{i}) \geq n\), Min wt removed: \(n\), so mb = \(k \log n\).</p>
+<h3 id="decision-lists">Decision lists</h3>
+<p>Length k. 1-Decn lists: Have bag of candidates for 1st position (bag 1); Demote to bag 2 if guess is wrong; etc.. ; \(mb = O(nk) = O(n^{2})\). \oprob: Get closer to \(\Omega(|C|) = \Omega(k\log n)\).</p>
+<p>So, t-Decision lists efficiently learnable, by \textbf{Feature expansion}; mb = \(O(n^{t}k) = n^{O(t)}\). As \(|C| = n^{tk}, \Omega(tk \log n) = O(tn^{t}\log n)\) needed.</p>
+<h3 id="decision-trees">Decision trees</h3>
+<p>Rank of dec tree is \(r \leq \log n\), so dec tree reduced to \(\log n + 1\) dec list learnt with mb= \(n^{O(r)} = n^{O( \log n)}\). Information theoretically \(O(n (\log n))\) enough. \why \oprob: Can we get to \(O(n^{k})\)?. Similarly l augmented dec tree of rank \(r\) has \(mb = n^{O(l+r)}\).</p>
+<h3 id="polynomial-size-dnf-f">Polynomial size DNF f</h3>
+<p>Reduce to l-augmented dec tree of rank \(\leq \frac{2n}{l}\log s + 1\);\<br>
+taking \(l=\sqrt{n\log s}\), f reduced to \(O(\sqrt{n\log s})\) decn list, so mb = \(n^{O(\sqrt{n\log s})}\).</p>
+<p>\(mb = O(n^{O(n^{1/3}\log s}))\): reduce to \(O(n^{1/3}\log s)\) degree PTF.</p>
+<h3 id="halfspace">Halfspace</h3>
+<p>Given sample set \(S = \set{(x_{i}, y_i)}\). The target classifier has the form: \(\sum a_{i}x_{i} - a_0 \leq 0 \forall i: y_i = -1\). We want to learn some possible \(a_{i}, a_0 \in R\). This can be solved with linear programming; max mistakes: \(O(n^{c})\).</p>
+<p>See statistics survey for the winnow algorithm, the perceptron algorithm, SVM&rsquo;s etc.</p>
+<h3 id="learn-parity">Learn parity</h3>
+<p>Use the GF(2) representation of assignments and parity functions. See mq only algorithm to learn parity.</p>
+<p>Could be important in learning Fourier coefficients.</p>
+<p>\oprob Parity: Show learnability in IMB model.</p>
+<h4 id="halfspaces-sample-net-algorithm-for-uniform-distr">Halfspaces: Sample net algorithm for Uniform distr</h4>
+<p>Take S labeled points; given random point p, choose points with positive inner products; return label of the majority.</p>
+<h3 id="halfspaces-averaging-algorithm">Halfspaces: Averaging algorithm</h3>
+<h4 id="problem-1">Problem</h4>
+<p>With \(U(\mu, \sigma)\). Target hyperplane \(c\) through origin; unit vector \(u \perp c\) defines \(c\). Draw \(S\) points uniformly from unit sphere \(S^{n-1}\)&rsquo;s surface.</p>
+<h4 id="algorithm">Algorithm</h4>
+<p>Reflect \(x_i\) with \(c(x_i)=-1\); get all +ve S. \(u_{h} = avg_{x_i \in_{U} S} x_i\).</p>
+<h4 id="proof-of-goodness">Proof of goodness</h4>
+<p>Angle between u, \(u_{h}\) be \(\theta\): \(Pr(sgn(\dprod{u,x}) \neq sgn(\dprod{u_{h},x})) = \frac{\theta}{\pi}\). Let \(u&rsquo;_{h}\) be component of \(u_{h} \perp u\). \(\theta = tan^{-1}\frac{\norm{u_{h}'}}{\dprod{u, u_{h}}}\).</p>
+<p>Show \(\dprod{u_{h},u}\) large; \<br>
+so see \(\dprod{u_{h},u} = m^{-1}\sum\dprod{u_{h},x_i}\); so \(E[\dprod{u_{h},u}] = E[\dprod{u_{h},x_i}]\). But, for u fixed and x uniform from unit sphere, \<br>
+\(Pr(a \leq \dprod{u,x} \leq b) = \sqrt{n}\int_{a}^{b}(\sqrt{1-z^{2}}^{n-3}dz)\) \why. So, \(E[\dprod{u_{h},x_i}] = 2\sqrt{n}\int_{0}^{1}(1-z^{2})^{\frac{n-3}{2}}z dz \geq 2\sqrt{n}\int_{0}^{\sqrt{\frac{1}{\sqrt{n}}}}(1-z^{2})^{\frac{n-3}{2}}z dz \geq c\). Also, can see \(E[\dprod{u_{h},u}]\) big whp. \why</p>
+<p>Show \(u&rsquo;<em>{h}\) small: Wlog, take \(u = (1,0 .., 0)\), let \(u</em>{h}&rsquo; = v\). \(v_{1} = 0\); get other \(v_{i}\) by choosing points uniformly at random from \(S^{n-2}\): get each \(v_{i} \distr N(0, n^{-1})\). So, each \(v_{i} = O(\frac{\sqrt{t}}{\sqrt{n}})\) whp. \(\norm{u_{h}'} \leq m^{-0.5}\). \why</p>
+<p>So, \(\theta = \frac{\sqrt{n}}{\sqrt{m} \pi}\). \chk. For \(m = \frac{n}{\eps^{2}}\), error = \(\frac{\theta}{\pi} \leq \frac{\eps}{\pi}\).</p>
+<p>\oprob Prove that \(\Inters\) of halfspaces using averaging algorithm works for arbit distr.</p>
+<h3 id="ptf-of-degree-d">PTF of degree d</h3>
+<p>\(mb = O(n^{d})\), Time: \(O(n^{dc}) = O(n^{O(d)})\): reduce to Halfspace.</p>
+<h3 id="of-a-panel-of-k-experts">Of a panel of k experts</h3>
+<h4 id="the-problem">The problem</h4>
+<p>You have a panel of experts \((e_{i})\), who on input \(x\) return their verdict \((e_{i}(x))\) on whether \(c(x) = 1\) or \(c(x) = -1\).</p>
+<h5 id="best-expert-for-input-sequence">Best expert for input sequence</h5>
+<p>It is possible that no \(e_i(x)\) works perfectly \(forall x\). So, for every \(e_i\), there is always an input sequence, for which \(e_i(x)\) is always wrong. However, for a given input sequence, the &lsquo;best expert&rsquo; can easily discerned from hindsight.</p>
+<h5 id="performance-goal">Performance goal</h5>
+<p>If you knew who the least erroneous expert was, you would use the verdict of that expert alone; but you do not know this. You want an algorithm which combines the verdicts of all these experts in such a way that you do not perform much worse than the best expert.</p>
+<h4 id="weighted-majority">Weighted majority</h4>
+<p>Classifier returns \(sgn(\sum_{i} w_{i}e_{i})\).</p>
+<p>Learning algorithm: init: \(w_{i} = 1\); mb(best expert) = \(m_{min}\). When wrong, halve \(w_{i}\).</p>
+<p>Analysis: When the algorithm is wrong, \(\geq \frac{1}{2}\) of total weight \(W\) is on wrong experts and \(\frac{1}{4}W\) is lost due to the corrective update. So, after \(m\) mistakes, \(W \leq (\frac{3}{4})^{m}k\). So, considering the weight of the best expert after \(m\) mistakes, \((\frac{1}{2})^{m_{min}} \leq W \leq (0.75)^{m}k\); so \(m \leq O(m_{min} + \log k)\).</p>
+<p>Matter of focusing wt on the best expert: see also external regret minimization analysis in Game Theory ref.</p>
+<h4 id="randomized-weighted-majority">Randomized weighted majority</h4>
+<p>In this version of the algorithm, the classifier returns +1 with probability \(\frac{\sum_{i: e_i(x) = 1} w_i}{\sum_i w_i}\). This is the same as returning the vote of the expert \(e_i\) with probability \(w_i\).</p>
+<p>The expected number of mistakes after a certain number of rounds (rather than a certain number of mistakes) can then be analysed using a similar analysis. It turns out to be better. For intuition as to why this is the case, see note on the adversarial nature of the mistake bounded learning model.</p>
+<h4 id="comparison-with-halfspace-algorithms">Comparison with halfspace algorithms</h4>
+<p>By vieweing input bits as experts, learning a halfspace \(w^{T}x + w_0\) used to classify \(x\) can be cast as one of learning weights to be assigned to a panel of experts.</p>
+<p>For comparison with some related half-space learning algorithms, like the winnow and the perceptron learning algorithm, see sections about them in the statistics survey.</p>
+<h3 id="intersection-f-of-k-halfspaces">Intersection F of k halfspaces</h3>
+<p>As \(NS_{a} \leq k \sqrt{a}\). \why</p>
+<h2 id="infinite-attribute-mb-learning-model-imb">Infinite attribute MB learning model (IMB)</h2>
+<h3 id="problem-and-notation">Problem and notation</h3>
+<p>Infinite literals \(\set{x_{i}}\) out there. A sample point is specified by a list of attributes present in the sample.</p>
+<p>\(r\) is the number of variables \(c\) actually depends on. \(L\): MB model algorithm for learning \(C\). \(n\), when not used in the MB sense: size of the largest example seen. \(L&rsquo;\) : algorithm to learn in infinite attribute model. \(p(r, |c|)h(n)\) = mistake bound of \(L\); \(p&rsquo;(r, |c|)h&rsquo;(n)\) = mistake bound of \(L&rsquo;\). \(N_{i}\) : set of literals used by \(L&rsquo;\)  at step \(i\).</p>
+<p>We can assume that \(L&rsquo;\)  knows \(r\) and \(p\): else, \(r\) and \(p\) can be doubled or squared till \(L&rsquo;\)  stops making more than \(p(r, |c|)h(n)\) mistakes.</p>
+<h4 id="the-key-problem">The key problem</h4>
+<p>Which attributes are relevant for classification?</p>
+<h4 id="importance">Importance</h4>
+<p>Eg: A rover in mars trying to understand the properties of life there.</p>
+<h3 id="ae-learning">ae learning</h3>
+<p>Same as in MB model, except use n as size of largest example.</p>
+<h3 id="lower-bound-1">Lower bound</h3>
+<p>Using MB model lower bounds: \(\Omega(VCD(C_{r,n}))\).</p>
+<h3 id="sequential-learning-algorithm">Sequential learning algorithm</h3>
+<p>\(L&rsquo;\)  uses \(L\) and an attribute set \(N\) to label the examples.</p>
+<h4 id="algorithm-1">Algorithm</h4>
+<p>Init: \(N\) empty. When \(L\) makes \(\geq p(r, |c|)h(|N_i|)\) mistakes, we know that \(N_i\) doesn&rsquo;t have all relevant vars; during mistakes, we would have seen \(\geq 1\) relevant literal not already in \(N_{i}\). So, we set \(N_{i+1}\) to include all variables seen during mistakes, along with \(N_i\).</p>
+<h4 id="analysis">Analysis</h4>
+<p>After \(r\) iterations, \(L&rsquo;\) gets all relevant literals. So, mistake bound is \(O(rp(r, |c|)h(|N_r|)) = rp(r, |c|)h(n)p(r, |c|)h(|N_{r-1}|)))\) &hellip;</p>
+<h3 id="learning-by-mapping">Learning by mapping</h3>
+<p>Works for pec \(C\). Keep mapping/ projecting variables to a list of variables, \(N\): yields better bound, simpler analysis. We use \(s = |c|\) below.</p>
+<p>Whenever a mistake is made, any new attribute is immediately added to \(N\). Now, if the MB algorithm made at most \(p(r, s)h(|N|)\) mistakes, the new algorithm makes at most \(p(r, s)h(|N|)\) mistakes, where \(|N|\) solves \(|N| \geq n p(r, s)h(|N|) + n\).</p>
+<p>So, if pec class ae learnable in MB model, it is also learnable in the IMB model. Also, if pec class strongly ae learnable in MB model, it is also strongly ae learnable in the IMB model.</p>
+<p>\oprob Show that learnability in IMB implies ae learnability in MB model.</p>
+<h3 id="results">Results</h3>
+<p>Using \(O(r \log n)\) winnow algorithm from MB, disjunctions \<br>
+learnable with mb \(O(r^{3} \log rn)\) and time per trial \(O(rn \log rn)\). So, size s k-CNF and k-DNF learnable using winnow with time per trial \(\tilde{O}(n^{k})\) and mb \(O(s^{3}k \log sn)\).</p>
+<p>\oprob Learn decision lists in the IMB in time and mistake bound poly(\(n\), r)?</p>
+<h3 id="expensive-sequential-halving-algorithm">Expensive Sequential halving algorithm</h3>
+<p>Sequential learning algorithm where \(L\) = expensive halving algorithm with \(mb = \log |C(N)|\), \(C(N) = \set{c&rsquo; | c&rsquo;(x) = c(x \inters N}\). \(C(r) = \Union C(S&rsquo;) : |S'|\in[0,r]\). \(C(N) \leq \binom{|N|}{k}C(k)\) as all \(c\) based on max \(r\) literals. So, at any step, \(p(r, |c|)h(n) = r\log(|N||C(r)|)\). So, \(p&rsquo;(r, |c|)h&rsquo;(n) = r^{2}\log (nr|C(r)|)\).</p>
+<h2 id="mbq-and-imbq-models">MBQ and IMBQ models</h2>
+<p>MB and IMB models with MQ oracles. Trying to learn pec class. An example of Active Learning. Motivating scenarios: password cracking.</p>
+<p>If \(f(s_1) = 1\) and \(f(s_2)=0\), with \(\log n\) membership queries (mq), you can identify the relevant variable in \(s_1 \symdiff s_2\).</p>
+<p>Lower bound: \(\Omega(VCD(C_{r,n}))\). \why</p>
+<p>Convert an efficient MBQ algorithm (L) with bound \(q(\)n\(, |c|)\) into an algorithm \(L&rsquo;\) that  strongly ae learns the class in MBQ or the IMBQ model with bound \(2(r+1)q(\)n\(, |c|) +r(\log m + 1)\). Pf: N: set of possibly relevant attributes; Init: \(N = \phi\); keep growing N to include all relevant attributes. Take arbit partial assignment P for V-N; Run \(L\) to learn \(c_P\). Keep projecting examples (\(s \to P/s\)) and mq to and fro; Respond to mq in the obvious way. If it makes a mistake on some s, check using mq if \(c(s) \neq c(P/s)\); if so, find and add the relevant variable therein. So, bound of the resultant algorithm \(L&rsquo;\)  is roughly \(r\) \(\times\) bound of \(L\): \( \), \(L&rsquo;\)  is ae.</p>
+<h2 id="predictive-power-of-consistent-maybe-small-h">Predictive power of Consistent (maybe small) h</h2>
+<h3 id="ab-occam-algorithm-for-c-using-h">(a,b) Occam algorithm for C using H</h3>
+<p>Give \(h\) consistant with sample \(S\), \(size(h) \leq (n .size(c))^{a}m^{b}\).</p>
+<p>So, the size of the \(h\) generated is not too big. This property turns out to be important in bounding the size of \(H\), which in turn helps us prove the goodness of the PAC learning algorithm which we craft using the Occamish algorithm.</p>
+<p>This is reminiscent of the predictive power of Occam razor used in elucidating the philosophy of science after the rennaissance: make as few assumptions in your theory as possible.</p>
+<h3 id="occam-razor-goodness-from-consistency">Occam razor: Goodness from consistency</h3>
+<p>Any efficient Occam algorithm can be used to construct a good PAC algorithm: simply draw \(m = O(\eps^{-1}(\log |H_{n,m}| + \log(\del^{-1})))\) samples from the distribution \(D\) and use the Occam algorithm to learn a hypothesis \(h\) consistent with this sample set.</p>
+<p>\proof: Using the Chernoff bounds, we can say: The empirical estimate of the goodness of a fixed \(h\) on a large sample set \(S\) is, with high probability, very close to its actual goodness. But there can be many \(h\) which are \(\eps\) close to \(c\), and we want to be able to say that, irrespective of which \(h\) the Occam algorithm outputs, it is likely to be good. To do this, we use the union bound from probability theory: \(Pr(\exists \) bad h\(; [c \Del h] \cap S = \phi) \leq |\Del_{\eps}(c)|(1-\eps)^{m} \leq |H|(1-\eps)^{m} \leq |H|e^{-m\eps} \leq \del\).</p>
+<p>In other words, we found a way of saying that \(S\) is likely to be an \(\eps\) net around \(c\).</p>
+<h4 id="vcd---occam-razor-extension-to-unbounded-c">VCD - Occam razor: Extension to unbounded C</h4>
+<p>Even if \(|H| = \infty\), \(m = \Omega(\eps^{-1}\log(\del^{-1}) + \frac{d}{\eps}\log(\eps^{-1}))\) examples likely to form \(\eps\) net: use bound on \(\Pi_{C}(m)\). So, whp:\<br>
+\(\eps = O(m^{-1}\log(\Pi_{C}(2m)) + m^{-1}\log d^{-1})\): \(\eps\) decreases with increase in \(m\), decrease in \(\Pi_{C}(2m)\).</p>
+<h4 id="almost-consistent-h">Almost consistent h</h4>
+<p>Suppose that an Occam-like algorithm produces a \(h\) with a small, non zero empirical error on \(S\): \(\eps_{S}\).</p>
+<p>Using the Hoeffding&rsquo;s inequalityuality, for a fixed \(h\), we see that this is likely to be a good estimate of the actual error. \(Pr(|\frac{\eps}{2} - \eps_{S}| \leq \frac{\eps}{2}) \leq 2e^{-\frac{\eps^{2}}{2}m}\); so any h with \(\eps_{S} = \frac{\eps}{2}\) on \(m = \Omega(\eps^{-2}\log \frac{1}{\del})\) good whp.</p>
+<p>As before, the union bound using either the VCD \(d\) or using \(|H|\) can then be applied to get: \(\Omega(\eps^{-2}(\log|H| + \log \frac{1}{\del}))\) and \(\Omega(\eps^{-2}(d + \log \frac{1}{\del}))\).</p>
+<h4 id="occam-with-approximate-set-cover">Occam with Approximate set cover</h4>
+<p>Take set \(U\) of \(m\) examples seen so far; \(|c|\) := size (num of literals) of smallest \(c\) to cover \(U\). Greedily, repeatedly alter \(c\) (add literal) to cover most of uncovered part of \(U\) at step \(i\) (\(U_{i}\)): as \(c\) covers \(U_{i}\), atleast 1 literal in \(c\) covers \(\frac{U_{i}}{|c|}\); so \(U_{i+1} = |U_{i}| - \frac{U_{i}}{|c|} \leq m(1-|c|^{-1})^{-i}\); so, \(|h| = O(|c| \log m \log n)\); by Occam razor \(m = O( \frac{|c|\log^{2} n + \log \frac{1}{d}}{\eps})\). Eg: learn disjunctions of size \(k\).</p>
+<h3 id="converse-to-occam-razor">Converse to Occam razor</h3>
+<p>For any pac learnable \(C\), can use Adaboost with \(L\), do boosting by sampling to find small hypothesis consistent with any sample S.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Mistake bounded models </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Mistake bounded models</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

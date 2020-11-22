@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;DB on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/</link>
+    <description>Recent content in &#43;DB on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flat file</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/flat_file/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/flat_file/</guid>
+      <description>The entire database may be stored within a single file. Such databases may be useful when a database server is not required and when access is local. Eg: sqlite, berkeley db (not a relational db), recutils.
+sqlite  sqlite3 databases cannot be opened with sqlite. sqlite offers a limited set of field types. sqlite does not allow joins during updates - making the process of copying columns a bigger chore.  GUI sqlitebrowser offers a good GUI for sqlite - but the import from csv feature is very slow as of 2012.</description>
+    </item>
+    
+    <item>
+      <title>Ref</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/ref/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/ref/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/db/sql/</guid>
+      <description>A standard language for dealing with RDBMS. So, data can be visualized as being stored in tables.
+Help and tutorials w3schools has a good tutorial.
+Values Strings are enclosed as here: &amp;lsquo;asdf&amp;rsquo;.
+Query language Query table The query table may be specified in several ways. In the most basic case, it is a single table.
+ table1 (as t1), table2 represents a cross-product, aka cross join. This returns a table whose rows are members of tbl1 X tbl2.</description>
+    </item>
+    
+  </channel>
+</rss>

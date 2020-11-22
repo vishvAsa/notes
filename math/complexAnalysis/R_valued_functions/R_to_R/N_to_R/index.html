@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | N to R</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/N_to_R/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/N_to_R/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="N to R" />
+<meta property="og:description" content="Convergent sequences \((s_{n), (t_{n})\) in a field Also see Topology ref, properties noted in lin alg ref.
+Sums, products, quotients (sans 0 denominator) of convergent sequences are convergent.
+Boundedness Upper and lower bounds.
+Montonicity Monotone increasing and decreasing sequences.
+A monotone increasing sequence that is bounded above must converge: imagine points on real line; similarly monotone decreasing sequence that is bounded below.
+(Bolzano, Weierstrass): Every bounded sequence has a subsequence which converges: let M be the bound; either [-M, 0] or [0, M] has \(\infty\) elements; so use this repeatedly to find monotone, bounded subsequence; this converges." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/N_to_R/" />
+
+<meta itemprop="name" content="N to R">
+<meta itemprop="description" content="Convergent sequences \((s_{n), (t_{n})\) in a field Also see Topology ref, properties noted in lin alg ref.
+Sums, products, quotients (sans 0 denominator) of convergent sequences are convergent.
+Boundedness Upper and lower bounds.
+Montonicity Monotone increasing and decreasing sequences.
+A monotone increasing sequence that is bounded above must converge: imagine points on real line; similarly monotone decreasing sequence that is bounded below.
+(Bolzano, Weierstrass): Every bounded sequence has a subsequence which converges: let M be the bound; either [-M, 0] or [0, M] has \(\infty\) elements; so use this repeatedly to find monotone, bounded subsequence; this converges.">
+
+<meta itemprop="wordCount" content="999">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="N to R"/>
+<meta name="twitter:description" content="Convergent sequences \((s_{n), (t_{n})\) in a field Also see Topology ref, properties noted in lin alg ref.
+Sums, products, quotients (sans 0 denominator) of convergent sequences are convergent.
+Boundedness Upper and lower bounds.
+Montonicity Monotone increasing and decreasing sequences.
+A monotone increasing sequence that is bounded above must converge: imagine points on real line; similarly monotone decreasing sequence that is bounded below.
+(Bolzano, Weierstrass): Every bounded sequence has a subsequence which converges: let M be the bound; either [-M, 0] or [0, M] has \(\infty\) elements; so use this repeatedly to find monotone, bounded subsequence; this converges."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/complexAnalysis\/R_valued_functions\/R_to_R\/N_to_R\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/complexAnalysis\/R_valued_functions\/R_to_R\/N_to_R.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> N to R</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="N to R">N to R</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/complexAnalysis/R_valued_functions/R_to_R/N_to_R.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="convergent-sequences-s_n-t_n-in-a-field">Convergent sequences \((s_{n), (t_{n})\) in a field</h2>
+<p>Also see Topology ref, properties noted in lin alg ref.</p>
+<p>Sums, products, quotients (sans 0 denominator) of convergent sequences are convergent.</p>
+<h3 id="boundedness">Boundedness</h3>
+<p>Upper and lower bounds.</p>
+<h3 id="montonicity">Montonicity</h3>
+<p>Monotone increasing and decreasing sequences.</p>
+<p>A monotone increasing sequence that is bounded above must converge: imagine points on real line; similarly monotone decreasing sequence that is bounded below.</p>
+<p>(Bolzano, Weierstrass): Every bounded sequence has a subsequence which converges: let M be the bound; either [-M, 0] or [0, M] has \(\infty\) elements; so use this repeatedly to find monotone, bounded subsequence; this converges. Also holds for \(R^{n}\).</p>
+<h3 id="upper-and-lower-limits">Upper and lower limits</h3>
+<p>Take set of subsequential limits E. Upper limit of \(s_{n}\): \(s^{*} = \limsup_{n \to \infty}s_{n} := \sup E\); similarly lower limit: \(s_{*} = \liminf_{n \to \infty}s_{n}\).</p>
+<p>If \(s_{n} \to s, s^{*} = s_{*} = s\). E is closed, so \(s_{*}, s^{*} \in E\).</p>
+<h2 id="generating-function-of-a-sequence">Generating function of a sequence</h2>
+<p>Take sequence \((a_i)\). Get generating function: \(G(x; a_n) = \sum_{n=0}^{\infty}a_n x^{n}\).</p>
+<h2 id="series">Series</h2>
+<p>\(\infty\) series. A sequence of partial sums: \(s_{n} = \sum_{i=1}^{n} a_{i}\).</p>
+<h3 id="convergence">Convergence</h3>
+<p>Many ideas from convergence of sequences.</p>
+<h3 id="convergence-tests">Convergence tests</h3>
+<p>\(s_{n}\) converges \(\equiv\) it is cauchy. Aka completeness property of R or C. Cauchy criteria for convergence of \(s_{n}\): \(\forall \eps, \exists N: |s_{N}-s_{N+n}|&lt; \eps\). So, \(|a_{n}| \to 0\).</p>
+<p>Sum or product of absolutely convergent series is absolutely convergent: limit of new series is sum or product of limits (Cauchy product).</p>
+<p>Comparison test: If \(|a_{n}| \leq c_{n}\): if \(\sum c_{n}\) converges, \(\sum a_{n}\) converges; if \(\sum |a_{n}|\) diverges, \(\sum c_{n}\) diverges: using Cauchy criterion.</p>
+<p>If \(a_{k} \geq a_{k+1}\geq 0, s_{n} = \sum a_{n}\) converges \(\equiv\) \(t_{n} = \sum_{k=0}^{n} 2^{k}a_{2^{k}}\) converges: \(s_{n}\) monotonically increasing, so check boundedness: \(\frac{t_{k}}{2}\geq s_{n}\leq t_{k}\) for \(n\leq 2^{k}\).</p>
+<h4 id="ratio-test">Ratio test</h4>
+<p>Converges if \(\limsup |\frac{a_{n+1}}{a_{n}}| &lt; b&lt; 1\): bound by geometric series \(b^{k}a_{n}\); diverges if \(&gt;1: |a_{n}| \notto 0\).</p>
+<h4 id="root-test">Root test</h4>
+<p>Take \(x = \limsup |a_{n}|^{1/n}\): So \(|a_{n}| \leq x^{n}\). So, convergence if \(x&lt;1\), divergence if \(x&gt;1\); No info otherwise: \(\sum 1/n \diverge\), but \(\sum 1/n^{2} \to c\).</p>
+<p>More powerful than ratio test: \<br>
+\(\liminf |\frac{a_{n+1}}{a_{n}}| \leq \liminf |a_{n}|^{1/n} \leq \limsup |a_{n}|^{1/n} \leq \limsup |\frac{a_{n+1}}{a_{n}}|\). \why</p>
+<h4 id="alternating-series-test">Alternating series test</h4>
+<p>If \(|c_{i}| \geq |c_{i+1}|; c_{2k+1} \geq 0, c_{2k} \leq 0, \lim c_{n} = 0\), then \(\sum c_{n}\) converges \why. So, \(\frac{(-1)^{n}}{n}\) converges.</p>
+<h3 id="conditional-convergence">Conditional convergence</h3>
+<p>Absolute (\(\sum |a_{i}|\)) vs conditional (\(\sum a_{i}\)) convergence. Absolute convergence \(\implies\) conditional convergence: ratio test.</p>
+<p>For conditional convergent series: There are \(\infty\) +ve and -ve numbers which converge to \(+\infty\) and \(-\infty\): else contradicts absence of absolute convergence or presence of conditional convergence.</p>
+<h3 id="absolute-convergence">Absolute convergence</h3>
+<p>All \(a_{n} \geq 0\). \(s_{n}\) monotone: so converges \(\equiv\) it is bounded.</p>
+<h3 id="rearrangement">Rearrangement</h3>
+<p>Take \(\sum a_{n}\) conditionally but not absolutely convergent: so \(|a_{n}| \to 0\), \(x \leq y\). \(\exists\) rearrangement of terms: \(s_{n}&rsquo; = \sum a_{k}'\), with \(\liminf s_{n}&rsquo; = x, \limsup s_{n}&rsquo; = y\): take +ve \(\set{p_{n}}\), -ve \(\set{q_n}\): both diverge, collect enough \(p_{n}\) to go just over y; collect enough -ve numbers to go just under x; repeat: visualize as displacement between 2 points in R. So, can converge to any real number r. Eg: Rearrange terms of alternating harmonic series.</p>
+<p>If \(\sum a_{n}\) converges absolutely, all rearrangements converge to same limit: Any \(s_{n}&rsquo; = \sum a_{k}'\) is in some \(s_N\) and vice versa.</p>
+<h3 id="series-product">Series product</h3>
+<p>\(\sum a_{n}, \sum b_{n}: c_{n} = \sum_{k=0}^{n}a_{k}b_{n-k}\) is the product: put all ordered sequences \((a_{i}, b_{i})\) on a line: the diagonals of \(a_{i} vs b_{i}\) matrix are \((c_{n})\).</p>
+<p>If \(\sum |a_{n}|\) converges, \(\sum a_{n} \to A, \sum b_{n} \to B, \sum c_{n} \to AB\): Take \(D_n = B_n - B\), \(C_{n} = \sum_{k=0}^{n}a_{i}B_{n-i} = \sum_{k=0}^{n}a_{i}(B + D_n) = A_{n}B + \gamma \to AB\).</p>
+<h2 id="special-series">Special series</h2>
+<h3 id="arithmatic-series">Arithmatic series</h3>
+<p>Arithmatic series: \(S_n = \sum_n Tn: T_n = a + nd\). Reverse the series, add respective terms, get: \(2S_n = n(a+nd)\)</p>
+<h3 id="geometric-like-series">Geometric-like series</h3>
+<p>\(T_n = ar^{n}\). Multiply by r, subtract terms, get: \((1 - r)S_n = a - ar^{n+1}\). Convergence as \(n \to infty\): if \(r &lt; 1\). Similar techniques for \(a+2ar+3ar^{2} \dots\).</p>
+<h3 id="harmonic-like-series">Harmonic-like series</h3>
+<p>General harmonic series has: \(T_n = (a + nd)^{-1}\).</p>
+<p>\(\sum 1/n \) diverges: \(1 + 1/2 + 1/3 + 1/4 ..\): \(\sum_{n=3}^{4} 1/n,  \sum_{n=5}^{9} 1/n\) etc exceed 1/2. Harmonic number: \(H(n)\approx \ln n = \int x^{-1} dx\).</p>
+<p>\(\sum 1/n^{p}\) converges if \(p&gt;1\), diverges if \(p \leq 1\): check convergence of \(\sum \frac{2^{k}}{2^{kp}}\).</p>
+<p>\(\sum_{n=2}^{\infty} \frac{1}{n (\log n)^{p}}\) converges \(\equiv\) \(p&gt;1\).</p>
+<h3 id="power-series">Power series</h3>
+<p>\(z\in C: \sum c_{n}z^{n}\). If this converges, got Generating Function!</p>
+<p>Take \(a = \limsup_{n \to \infty} |c_{n}|^{1/n}, R = 1/a\): convergence if \(|z|&lt;R\) (radius of convergence), divergence if \(|z|&gt;R\): From Root test, ratio test.</p>
+<p>If R = 1, \(c_{i} \geq c_{i+1} \geq 0\), then \(\sum c_{i}z^{n}\) converges \(\forall z\), except maybe z = 1. \why</p>
+<h3 id="binomial-theorem">Binomial theorem</h3>
+<p>For \((x+y)^{n} : n\in N\): from combinatorics. For \((1+x)^{n} : n\in R\): Solve for coefficients in \((1+x)^{n} = 1 + nx + .. \) by differentiating repeatedly.</p>
+<h3 id="e">e</h3>
+<p>\(e = \lim_{n \to \infty} (1+n^{-1})^{n} = \lim_{n \to \infty} = 1 + 1 + \frac{1}{2!} .. \). \(2 &lt; e &lt; 1 + \sum_{n=0}^{\infty} (\frac{1}{2})^{n} = 3\), and e is an increasing sequence: so it converges.</p>
+<p>Observe relationship with definition using natural log in another section.</p>
+<h2 id="summation-tricks">Summation tricks</h2>
+<h3 id="summation-by-parts">Summation by parts</h3>
+<p>Like integration by parts. Seq \((a_{n}), (b_{n}),  A_{n} = \sum a_{n}\). If \(p \in [0, q], a_{n} = A_{n} - A_{n-1}, \sum_{n=p}^{q} a_{n}b_{n} = \sum_{n=p}^{q-1} A_{n}(b_{n}-b_{n+1}) + A_{q}b_{q} - A_{p-1}b_{p}\).</p>
+<p>If \((A_{n})\) bounded seq, \(b_{0} \geq b_{1} .., \lim_{n \to \infty} b_{n} = 0, \sum b_{n}a_{n}\) converges: Can use summation by parts to show Cauchy criterion.</p>
+<h3 id="using-binomial-summation-formula">Using binomial summation formula</h3>
+<p>\(\sum k = \sum \binom{k}{1} = \binom{k+1}{2}\). Similarly, any polynomial \(\sum a_{i}k^{i} = \sum b_{i}\binom{k}{i}\).</p>
+<h3 id="derivative-to-estimate-limit-of-partial-sums">Derivative to estimate limit of partial sums</h3>
+<p>\((1-x)^{-1} = \sum_{i=0}^{\infty} x^{i}\); take derivatives to get: \((1-x)^{-2} = \sum_{i=0}^{\infty} ix^{i-1} = \sum_{i=0}^{\infty} (i-1)x^{i-1} - x^{i-1}\). Use similar trick to find: \(i^{2}x^{i}\).</p>
+<h3 id="integral-to-estimate-limit-of-partial-sums">Integral to estimate limit of partial sums</h3>
+<p>Also, use \(\sum n \approx \int x dx\).</p>
+<p>The series \(-\log (1 - x) = \int(\frac{1}{1-x}) = \sum_{i=1}^{\infty} x^{i}/i\); also from McLaurin series.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">N to R </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: N to R</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

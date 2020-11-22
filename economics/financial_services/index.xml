@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Financial services on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/economics/financial_services/</link>
+    <description>Recent content in &#43;Financial services on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/economics/financial_services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hawala</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/financial_services/hawala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/financial_services/hawala/</guid>
+      <description>Modus operandi   hawala    A customer (A, left-hand side) approaches a hawala broker (X) in one city and gives a sum of money (red arrow) that is to be transferred to a recipient (B, right-hand side) in another, usually foreign, city. Along with the money, he usually specifies something like a password that will lead to the money being paid out (blue arrows). The hawa calls another hawala broker M in the recipient&amp;rsquo;s city, and informs M about the agreed password, or gives other disposition of the funds.</description>
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/financial_services/trading_infrastructure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/financial_services/trading_infrastructure/</guid>
+      <description>Securities Exchanges Stock markets provide a regulated/ facilitated environment for carrying out securities transactions/ trades. It operates in fixed trading hours - beyond those hours, brokers may trade on their amongst themselves in extended trading hours.
+Brokerages Every trade is accomplished by agents/ brokers authorized to trade in the stock market - usually on behalf of their customers. A fraction of each trade is usually collected by the stock exchange as fees.</description>
+    </item>
+    
+    <item>
+      <title>Insurance</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/financial_services/insurance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/financial_services/insurance/</guid>
+      <description>Insurance products, besides serving the main purpose of hedging to counter financial risk, often also function as investment in mutual funds.
+Functioning As security This business takes advantage of the fact that risk of a particular kind (house burning down, theft, death), affects a small fraction of a population at any given time, with very high probability. So, it collects fees/ premiums from a large number of insured people, and compensates those on whom a bad event befalls.</description>
+    </item>
+    
+    <item>
+      <title>Intermediary trading</title>
+      <link>file:///storage/emulated/0/notesData/notes/economics/financial_services/intermediary_trading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/economics/financial_services/intermediary_trading/</guid>
+      <description>Basic negotiable securities tradings actions are considered elsewhere.
+Role in markets Intermediary traders buy and sell items, holding them for a short time while it changes hands between long-term investors. In doing so, they make a profit.
+So, they focus strongly on the guessing and taking advantage of the motives of investors - aka front-running investors.
+Liquidity, cost The benefit they provide is in bringing greater liquidity to assets, buy supplying a sea of ready purchasing and selling power.</description>
+    </item>
+    
+  </channel>
+</rss>

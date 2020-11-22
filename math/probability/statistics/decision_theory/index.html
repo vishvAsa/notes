@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Decision theory</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/probability/statistics/decision_theory/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/probability/statistics/decision_theory/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Decision theory" />
+<meta property="og:description" content="Certain elements common to probability density estimation, distribution structure learning (including classification) etc.. can be studied within the abstract framework of decision theory.
+Agents: Actions, policies How should an agent act in the face of uncertainty, given some observations? Our objective is to find good decision procedures for the agent.
+Like a game against nature. See game theory reference for adversarial games.
+State and parameters State space The state of nature changes, possibly in response to actions made by an agent." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/probability/statistics/decision_theory/" />
+
+<meta itemprop="name" content="Decision theory">
+<meta itemprop="description" content="Certain elements common to probability density estimation, distribution structure learning (including classification) etc.. can be studied within the abstract framework of decision theory.
+Agents: Actions, policies How should an agent act in the face of uncertainty, given some observations? Our objective is to find good decision procedures for the agent.
+Like a game against nature. See game theory reference for adversarial games.
+State and parameters State space The state of nature changes, possibly in response to actions made by an agent.">
+
+<meta itemprop="wordCount" content="1686">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Decision theory"/>
+<meta name="twitter:description" content="Certain elements common to probability density estimation, distribution structure learning (including classification) etc.. can be studied within the abstract framework of decision theory.
+Agents: Actions, policies How should an agent act in the face of uncertainty, given some observations? Our objective is to find good decision procedures for the agent.
+Like a game against nature. See game theory reference for adversarial games.
+State and parameters State space The state of nature changes, possibly in response to actions made by an agent."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/probability\/statistics\/decision_theory\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/probability\/statistics\/decision_theory.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Decision theory</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Decision theory">Decision theory</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/probability/statistics/decision_theory.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>Certain elements common to probability density estimation, distribution structure learning (including classification) etc.. can be studied within the abstract framework of decision theory.</p>
+<h2 id="agents-actions-policies">Agents: Actions, policies</h2>
+<p>How should an agent act in the face of uncertainty, given some observations? Our objective is to find good decision procedures for the agent.</p>
+<p>Like a game against nature. See game theory reference for adversarial games.</p>
+<h3 id="state-and-parameters">State and parameters</h3>
+<h4 id="state-space">State space</h4>
+<p>The state of nature changes, possibly in response to actions made by an agent. The agent must act optimally in some sense in the presence of uncertainty.</p>
+<h4 id="parameter-space-t">Parameter space T</h4>
+<p>Some parameters \(\gth \in T\) describe the state of nature (the ground truth), especially as it relates to the action-space of an agent; and they are unknown.</p>
+<h4 id="state-transitions">State transitions</h4>
+<p>Some parameters describe state transitions. These are aka population parameters. In some problems, we are to estimate some properties of a population by drawing random samples from it. This unknown parameter/ pattern of the population, \(t = g(\gth)\), is a constant. Eg: mean, variance of heights.</p>
+<h3 id="action-space-a">Action space A</h3>
+<p>Given any change in its knowledge, the agent can act. Its action is chosen from the action space \(A = \set{a}\). Actions can change the state of nature and the parameters which specify it.</p>
+<h4 id="common-examples">Common examples</h4>
+<p>In case of density estimation, given the data point \(x\), \(A\) could be the choice of the density function \(f_{\hat{t}}(x)\) as a function of the estimated density \(\hat{t}\). In this case, the state of nature is usually not affected by our guess about its parameters.</p>
+<p>In hypothesis testing, it could be the probability of the observation \(x\), which is a function of the hypothesis chosen earlier.</p>
+<p>In case of classification, \(A\) would correspond to the various possible labellings of a data point \(x\).</p>
+<h3 id="goodness-of-actions">Goodness of actions</h3>
+<h4 id="loss-function-l">Loss function L</h4>
+<p>\(L:T\times A \to \Re\). You pick the loss function to best model the situation faced by the agent, and also for mathematical tractability - this is often the modeler&rsquo;s job.</p>
+<h4 id="examples">Examples</h4>
+<p>Squared error between prediction and label in case of classification.</p>
+<p>\(-f_{\hat{t}}(x)\) in case of probability distribution modeling.</p>
+<h3 id="decision-procedure-d">Decision procedure d</h3>
+<h4 id="mapping-observation-d-to-actions">Mapping observation D to actions</h4>
+<p>Denote an observation by the random variable \(D\). Decision procedures take as input \(o \in ran(D)\) and return an action \(a \in A\). Their pre-image can be often be replaced with sufficient statistics drawn from observations.</p>
+<p>Note that the observation \(D\) to which a decision procedure is supposed to respond +++(is different from the training set of prior observations which may have been used to learn \(d\)!)+++</p>
+<h4 id="deterministic-procedures">Deterministic procedures</h4>
+<p>Deterministic decision procedures make decisions which are a function of the new observation.</p>
+<p>A deterministic decision procedure is \(d:ran(D) \to A\).</p>
+<h4 id="randomized-procedures">Randomized procedures</h4>
+<p>A randomized decision procedure takes decisions with some randomness, given new observations. So, the randomized procedure is in the convex hull of certain decision procedures.</p>
+<p>If the decision procedure randomized, range is the set of random variables with range \(A\).</p>
+<h5 id="combining-decision-procedures">Combining decision procedures</h5>
+<p>Randomized procedures can often be written as a 2-step meta-procedure with step 1: random choice of decision procedures, and step 2: application of the decision procedure chosen.</p>
+<h4 id="examples-1">Examples</h4>
+<p>In case classification, the classification rule can be considered to be a decision procedure.</p>
+<p>In the case of distribution estimation, given a point (the observation), the estimated pdf can be considered to be the decision procedure.</p>
+<p>In case of hypothesis testing, a certain hypothesis can be considered to be the decision procedure.</p>
+<h2 id="risk-r-of-decision-procedure-d">Risk R of decision procedure d</h2>
+<h3 id="motivation-and-setting">Motivation and setting</h3>
+<p>We want to choose a decision procedure from \(H_n\) (so named because it is often learned after looking at a sample of size \(n\)). We want to pick decision procedure with least expected loss; that motivates the following definition. This is essentially the problem of statistical inference.</p>
+<h3 id="risk">Risk</h3>
+<p>\(R:T\times\set{d} \to \Re\). \(R(\gth,d) = E_{D}[L(\gth,d(D))]\). In case \(d\) is randomized, the expectation is also over random bits used by \(d\).</p>
+<p>In case of the estimation or prediction problem, if you use squared distance as \(L\), you get the bias - variance decomposition: See estimation section.</p>
+<h3 id="uncertain-ground-truth-case">Uncertain ground truth case</h3>
+<h4 id="the-need">The need</h4>
+<p>Suppose that \(\gth\) is constant every time you apply the chosen \(d\). Even so: When you pick \(d\), you don&rsquo;t know \(\gth\), the ground truth.</p>
+<p>Also, maybe \(\gth\), which decides the goodness of response, changes with the actions taken by the decision procedure.</p>
+<p>For example, in classification, \(\gth\) corresponds to the label \(y\) corresponding to the example \(x\) seen by the classifier. Even if the classifier knew the distribution \(f_{Y|X}(y|x)\) generating the examples, it cannot in general be certain about \(y\) given \(x\).</p>
+<h4 id="frequentist-and-epistemological-approaches">Frequentist and epistemological approaches</h4>
+<p>Rooted in the two distinct but overlapping interpretations of probability, we observe two overlapping approaches to statistical inference. The frequentist approach tries to deal with uncertainty by relying on sampling, while only partially restricting the hypothesis space.</p>
+<p>Bayesian/ epistemological inference approach tends to posit and quantify prior beliefs about the ideal decision, and use this together with sample evidence to reach a conclusion.</p>
+<h4 id="prior-beliefs-about-ground-truth">Prior beliefs about ground truth</h4>
+<p>We can model the uncertainty in the ground truth using a probability distribution \(\gth \distr P_T\) over \(T\); so now take\ \(R&rsquo;(d) = E_{D, P_T}[L(\gth,d(D))] = \int_T E_D[L(\gth,d(D))]P_T(\gth) d \gth\).</p>
+<p>As probability theory is being fully used to model uncertainty, this is called Bayesian risk evaluation.</p>
+<h4 id="prior-beliefs-about-best-d">Prior beliefs about best d</h4>
+<p>For every \(\gth\), there is a best decision procedure \(d(D)\). So, alternatively, one model uncertainty in what the best decision procedure is directly as \(d \distr P&rsquo;(d)\) and look at \(\gth = f(d_1)\). Then, one can write the risk \(R&rsquo;(d) = E_{D, P&rsquo;}[L(f(d_1),d(D))] = \sum_{d_1} E_D[L(f(d_1),d(D))]P&rsquo;(d_1)\).</p>
+<h4 id="additive-form">Additive form</h4>
+<p>Let \(g(d; d_1) = E_D[L(\gth,d(D))] = E_D[L(f(d_1),d(D))]\). \Then, \(R&rsquo;(d) = E_{P&rsquo;}g(d; d_1)\). If the loss \(g(d; d_1)\) had a sharp drop around \(d\), or if \(P&rsquo;(d)\) was highly concentrated around \(d_1\), we could approximate this as \(R&rsquo;(d) = g(d; d_1) P&rsquo;(d)\).</p>
+<p>For convenience for use in optimization problems, one often takes logarithms on both sides to get: \(R&rsquo;'(d) = \log g(d; d) + \log P&rsquo;(d)\).</p>
+<p>This roughly motivates the following form used in practice: \(R&rsquo;'(d) = R(d) + l r(d)\), where \(L\) is loss function, r() is regularizer. The regularizer, r() ensures that the prior belief about \(\gth\) is taken into account while evaluating the risk of decision procedure \(d\).</p>
+<p>Example: Suppose that we are estimating \(\mean\): eg: avg age. But, prior belief is that it is \(\mean_0\). Thence a decision procedure: \(R(\mean, \hat{\mean}(D))  = 0.2 \mean_0 + 0.8 n^{-1}\sum X_i\).</p>
+<h5 id="strict-restrictions">Strict restrictions</h5>
+<p>Finding \(\min_d R(d) + l r(d)\) is same as \(\min R(d) : r(d) \leq c_l\). This is a strict restriction on the choice of \(d\), unlike a more flexible prior assumption about the pdf of \(d\) which is the hallmark of epistemological/ Bayesian inference; where irrespective of a low prior probability assigned to a certain \(d\), the weight of evidence could lead to choosing that \(d\).</p>
+<h3 id="geometry-of-r">Geometry of R</h3>
+<p>Visualize \(R(\gth, d)\) with \(\gth \in T\). Make a function space, label each dimension with some \(\gth \in T\). For any fixed \(d\), \(R(\gth, d)\) is a vector in this space. Given set \(S = \set{d}\), can get set \(S&rsquo;\) of all randomized decision procedures derivable from these. Risks \(R(S&rsquo;)\) are points in the convex hull of \(R(\gth, d) \forall d\in S\). In 2 d: it is a convex polygon: only straight edges.</p>
+<h3 id="empirical-risk">Empirical risk</h3>
+<p>Aka empirical avg loss. \(\hat{R}(d;D) = n^{-1}\sum_{x_i \in D} L(\gth, d(x_i))\). You have: \(R(d) = E_D[\hat{R}(d;D)]\).</p>
+<p>Where we have prior beliefs about the nature of the best \(\gth\) or \(d\), empirical risk is used with a regularization function to define an alternate risk function. See Bayesian risk evaluation for details.</p>
+<h3 id="minimal-risk">Minimal risk</h3>
+<h4 id="definition">Definition</h4>
+<p>The lowest (expected) risk any decision procedure \(d\) can achieve is often called the Bayes Risk.</p>
+<p>It is not necessarily \(0\). For example, suppose that we were considering classification of points drawn from the distribution \(f_{Y|X}(y|x), f_X(x)\). Even if the decision procedure had complete knowledge of \(f_{Y|X}(y|x), f_X(x)\), its risk in general would not be 0 as there is the possibility that \(\hat{y} = argmax_y f_{Y|X}(y|x)\) is the wrong labeling for \(x\).</p>
+<h4 id="risk-consistency-of-d">Risk Consistency of d</h4>
+<p>Let \(D_i\) be data of \(i\) sample points. Then does \(d(D) \to^p \gth\) [In case of the parameter estimation task]? Or does \(R(\gth, d) \to^p minRisk\)?</p>
+<h4 id="risk-persistence">Risk persistence</h4>
+<p>Ground truth \(\gth\). Let \(\hat{t}\) be the chosen decision procedure. \Take \(\hat{\gth} = \argmin_{t\in H_n} R(t)\). How close is \(R(\hat{t})\) to \(R(\hat{\gth})\)?</p>
+<p>As \(n \to \infty\), usually want \(\hat{t} \to \gth \) or better: \(R(\hat{t}) - R(\gth)\to 0\). But it may not be possible as decision procedures can&rsquo;t get to it, or maybe \(\gth\) changes with n.</p>
+<p>Approximation error \(R(\hat{\gth}) - R(\gth)\). Then does \(d\) at least minimize estimation error \(R(\hat{t}) - R(\hat{\gth})\)?</p>
+<h4 id="in-high-dimensional-setting">In High dimensional setting</h4>
+<p>Let the dimensionality of data-points be \(p\). Suppose \(p&raquo;n\) and we still want a decision procedure which works well. What is risk persistence here? Hence a new notion: As \(n \to \infty\), we still want check if \(R(\hat{t}) - R(\hat{\gth}) \to 0\); while \(p\) scales with \(n\).</p>
+<h2 id="as-a-pomdp">As a POMDP</h2>
+<p>POMDP&rsquo;s are well suited to abstract active learning; but it is informative to consider it more generally.</p>
+<h3 id="state-and-observation">State and observation</h3>
+<p>The ground truth, or parameter \(T\) corresponds to the state of the world in case of a POMDP. The observation \(D\) gives some clue about the current state.</p>
+<h3 id="transitions">Transitions</h3>
+<p>Unlike active learning problems, often the state transitions and observations thereof are independent of the agent&rsquo;s actions. So, the agent often has no control over input distribution. &lsquo;Parameters&rsquo; in decision theory may confusingly include both those describing the ground truth and those describing the transition function.</p>
+<h3 id="action-and-loss">Action and Loss</h3>
+<p>The loss function corresponds to the reward which depends on current state and the action taken.</p>
+<h3 id="policy">Policy</h3>
+<p>The decision procedure \(d\) corresponds to the POMDP&rsquo;s policy; except that the belief state is not explicitly considered for our purposes.</p>
+<h3 id="risk-vs-value">Risk vs value</h3>
+<p>In the case of MDP&rsquo;s, it is common to assess policies using the total expected reward over a possibly infinite horizon, so a discounting factor \(g \in [0, 1]\) is needed. [Expected] risk of a decision procedure focuses on the expected reward.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Decision theory </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Decision theory</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

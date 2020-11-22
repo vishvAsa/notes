@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Matlab/ Octave</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/matlab/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/matlab/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Matlab/ Octave" />
+<meta property="og:description" content="Introduction Distinctive features of the language Excellent plotting facilities; many libraries; interactive sessions good for exploring features of data; easy I/O: don&rsquo;t need to spend as much time in getting I/O right as in actual computation; excellent debugging facilities.
+Octave is an open source clone of matlab.
+Purpose of design Matrix computations. This is meant to be a rapid prototyping language : It is not meant for fast implementations.
+Versions Certain OOP methods, properties don&rsquo;t work with 2007 version." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/computing/programming/programmingLanguages/math/matlab/" />
+
+<meta itemprop="name" content="Matlab/ Octave">
+<meta itemprop="description" content="Introduction Distinctive features of the language Excellent plotting facilities; many libraries; interactive sessions good for exploring features of data; easy I/O: don&rsquo;t need to spend as much time in getting I/O right as in actual computation; excellent debugging facilities.
+Octave is an open source clone of matlab.
+Purpose of design Matrix computations. This is meant to be a rapid prototyping language : It is not meant for fast implementations.
+Versions Certain OOP methods, properties don&rsquo;t work with 2007 version.">
+
+<meta itemprop="wordCount" content="2752">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Matlab/ Octave"/>
+<meta name="twitter:description" content="Introduction Distinctive features of the language Excellent plotting facilities; many libraries; interactive sessions good for exploring features of data; easy I/O: don&rsquo;t need to spend as much time in getting I/O right as in actual computation; excellent debugging facilities.
+Octave is an open source clone of matlab.
+Purpose of design Matrix computations. This is meant to be a rapid prototyping language : It is not meant for fast implementations.
+Versions Certain OOP methods, properties don&rsquo;t work with 2007 version."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/computing\/programming\/programmingLanguages\/math\/matlab\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "computing\/programming\/programmingLanguages\/math\/matlab.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Matlab/ Octave</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Matlab/ Octave">Matlab/ Octave</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/computing/programming/programmingLanguages/math/matlab.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="introduction">Introduction</h2>
+<h3 id="distinctive-features-of-the-language">Distinctive features of the language</h3>
+<p>Excellent plotting facilities; many libraries; interactive sessions good for exploring features of data; easy I/O: don&rsquo;t need to spend as much time in getting I/O right as in actual computation; excellent debugging facilities.</p>
+<p>Octave is an open source clone of matlab.</p>
+<h4 id="purpose-of-design">Purpose of design</h4>
+<p>Matrix computations. This is meant to be a rapid prototyping language : It is not meant for fast implementations.</p>
+<h4 id="versions">Versions</h4>
+<p>Certain OOP methods, properties don&rsquo;t work with 2007 version.</p>
+<h3 id="speed">Speed</h3>
+<p>Matrix/ vector multiplications are implemented by calling efficient linear algebra implementations like LAPACK etc.. So, operations which can be specified using matrices/ vectors should never be specified using loops.</p>
+<p>Also, certain functions like repmat, ones, sub2ind etc.. could be faster. Use packages like lightspeed which implement faster versions of these oft used functions.</p>
+<h4 id="speeding-up-loops">Speeding up loops</h4>
+<p>When unavoidable, loops are known to be slow, even when efficient linear algebra routines are used internally. This is because of costs associated with interpreting each line of code in the loop at runtime.</p>
+<h5 id="preallocate-memory">Preallocate memory</h5>
+<p>You can speed up loops by preallocating the memory used therein - that way matlab will not have to repeatedly allocate a new block of memory.</p>
+<h5 id="use-c">Use C</h5>
+<p>Implementing the logic in C not only removes the overhead due to MATLAB interpretation; it also generally forces the programmer to be conscious of and avoid memory allocation overheads.</p>
+<p>However, there is an additional cost involved in packaging arguments for use by the C function: So it is best not to call the same C function in a loop - rather it is better to code even the loop in C.</p>
+<h5 id="make-function-logic-inline">Make function logic inline</h5>
+<p>This can avoid repeated memory allocation and overhead due to the function calling infrastructure and increase speed. BUT for unknown reasons, the reverse can be true sometimes!</p>
+<h3 id="using-external-libraries">Using External libraries</h3>
+<h4 id="locating-libraries">Locating libraries</h4>
+<p>Go to \url{http://www.mathworks.com/matlabcentral/}, \ search, look under appropriate tags.</p>
+<h4 id="installing-and-using">Installing and using</h4>
+<p>unzip package, add it to path: maybe can use addpath(genpath(dir)) to add subdirectories.</p>
+<h3 id="building-and-executing-code">Building and executing code</h3>
+<p>Can write directly in matlab command window.</p>
+<p>Or can write scripts (a sequence of commands in a file) or functions; Add directory to path; Use matlab to invoke.</p>
+<h4 id="useful-options">Useful options</h4>
+<p>No GUI: matlab -nodesktop.</p>
+<p>Command history: diary on. Others: addpath, savepath.</p>
+<h4 id="good-ides">Good IDE&rsquo;s</h4>
+<p>Matlab.</p>
+<h3 id="debugging">Debugging</h3>
+<p>Can view matrices in tables, as an image etc..</p>
+<p>Introducing break points: Use GUI or &lsquo;keyboard&rsquo; can be inserted in the midst of any function. Then use dbquit or dbcont or dbstep or dbstack.</p>
+<h4 id="profiling-code-for-bottlenecks">Profiling code for bottlenecks</h4>
+<p>profile on
+myfun;
+profile report</p>
+<h3 id="help">Help</h3>
+<p>help commandName.</p>
+<p>For library documentation, see its docs.</p>
+<h2 id="constants-and-data-types">Constants and data types</h2>
+<h3 id="data-types-of-constants">Data types of constants</h3>
+<p>Everything is an object. The most common object is an n-dimensional array.</p>
+<p>boolean numbers are represented by 0 and 1.</p>
+<p>str = &lsquo;stringValue&rsquo;: a character array.</p>
+<h3 id="important-constants">Important constants</h3>
+<p>Inf, NaN.</p>
+<p>isNaN(a).</p>
+<h3 id="arrays">Arrays</h3>
+<p>A = zeros(2,3,2,3) makes a 0 tensor of those dimensions.</p>
+<h4 id="matrix">Matrix</h4>
+<pre><code>A = [2 1;
+     1 8]
+</code></pre><p>; separates columns.</p>
+<p>Block matrices: B = [A  A+32; A+48  A+16].</p>
+<h4 id="data-generation-functions">Data generation functions</h4>
+<p>$-14:0.2:14$: Produces vector of equispaced numbers in the interval.</p>
+<h5 id="basic-constant-arrays">Basic constant arrays</h5>
+<p>zeros, ones, trues, falses.</p>
+<p>eye, speye.</p>
+<h5 id="random-array-generation">Random array generation</h5>
+<p>randn, random, unifrnd.</p>
+<h5 id="sparse-array-generation">Sparse array generation</h5>
+<p>spconvert(mat) returns sparse matrix with indices/ values specified in mat&rsquo;s columns. sparse().</p>
+<h5 id="generate-random-permutations">Generate random permutations</h5>
+<p>randperm(4) may return [2 3 1 4].</p>
+<h4 id="array-indexing">Array indexing</h4>
+<p>Array indexing is used to access a subarray in an array.</p>
+<h5 id="indexing-with-scalars">Indexing with scalars</h5>
+<p>Array index starts at (1,1, ..). Shortcut for last element along any dimension: end. Eg: A(end, 5).</p>
+<h5 id="indexing-with-index-vectors">Indexing with index-vectors</h5>
+<p>Entire row or col of an array can be selected using : symbol: A(:,3).</p>
+<h5 id="indexing-with-one-scalar">Indexing with one scalar</h5>
+<p>Aka linear indexing</p>
+<p>A(5) or A(v) are also meaning-ful, especially straight-forward for vector A.</p>
+<h5 id="indexing-with-logical-vector">Indexing with logical vector</h5>
+<p>Eg: $A(A&gt;12)$.</p>
+<h5 id="indexing-tricks">Indexing tricks</h5>
+<p>Indexing upper triangular portion of a matrix: create indices using triu(ones(m, n)).</p>
+<h3 id="cell-array">Cell array</h3>
+<p>A = cell(m, n); creates a cell array of pointers (cells), usually pointing to matrices.</p>
+<h4 id="cell-elements-indexing-altering">Cell elements: indexing, altering</h4>
+<p>A{i, j}: returns the contents of the appropriate cell in the array, whereas A(i, j) returns a cell (pointer).</p>
+<p>Delete element from cell array: $cell(i) = []$.</p>
+<h4 id="cell-values">Cell values</h4>
+<p>{23 34} creates a 1*2 cell array.</p>
+<h3 id="data-type-conversion">Data-type conversion</h3>
+<p>Use logical(), num2str(number, precision).</p>
+<h3 id="structures">Structures</h3>
+<h4 id="struct">struct</h4>
+<p>s = struct(&lsquo;field1&rsquo;, values1, &lsquo;field2&rsquo;, values2, &hellip;). isstruct.</p>
+<p>isfield(s, &lsquo;fieldx&rsquo;). rmfield.</p>
+<p>get and put are abbreviated by syntax like s.field1.</p>
+<h5 id="dimensions-size-of-struct">Dimensions/ size of struct</h5>
+<p>The size of the resulting structure is the same size as the value cell arrays or 1-by-1 if none of the values is a cell.</p>
+<h4 id="use-java-objects">Use Java objects</h4>
+<pre><code>mtype = java.util.Hashtable;
+mtype.put ( 'numNodes', numNodes);
+s = mtype.get('numNodes');
+</code></pre><p>Note: Java heap space runs out of memory much more easily.</p>
+<h5 id="checking-emptyness">Checking emptyness</h5>
+<p>mtype.get(&lsquo;asdf&rsquo;) returns [].</p>
+<h3 id="function-handles">Function handles</h3>
+<p>Suppose fn f defined already. Then can use g = @f, can pass it to other fns just like variables.</p>
+<h4 id="reparametrization">Reparametrization</h4>
+<p>Can reparametrize functions while you are at it. Eg: If poly(x, b, c) is defined and b, c are specified, can use @(x)poly(x, b, c) to get a handle to a function with parameter x.</p>
+<h4 id="anonymous-functions">Anonymous functions</h4>
+<p>Can also create anonymous fn using an expression; Eg: $f = @(x)x^3+x$.</p>
+<h4 id="clearing-memory">Clearing memory</h4>
+<p>clear varName;</p>
+<h3 id="objects">Objects</h3>
+<h4 id="object-creation">Object creation</h4>
+<p>c= ClassName(..)</p>
+<h4 id="access-manipulate-objects">Access/ manipulate objects</h4>
+<p>Use object.member.</p>
+<h5 id="introspection-methods">Introspection methods</h5>
+<p>properties(obj) or fieldnames(obj) \<br>
+lists public properties; methods(obj) lists public methods. class(obj).</p>
+<h2 id="memory-variable-management">Memory, variable management</h2>
+<p>List variables in use: whos.</p>
+<h3 id="clearing-recompiling">Clearing, recompiling</h3>
+<p>clear classes; rehash pathreset;. Need to do this if you alter class signature.</p>
+<h2 id="data-manipulation">Data manipulation</h2>
+<h3 id="operators">Operators</h3>
+<h4 id="unary">Unary</h4>
+<p>transpose', minus -.</p>
+<h4 id="boolean-valued-operators">Boolean valued operators</h4>
+<pre><code> &lt;  &gt;  &lt;=  &gt;=  == ~=
+</code></pre><h4 id="boolean-operations-on-matrices">Boolean operations on matrices</h4>
+<p>Boolean ops also work with matrices to make boolean matrices.</p>
+<p>all(A) checks if $\forall i,j A_{i,j} \neq 0$.</p>
+<h4 id="arithmatic-operators">Arithmatic operators</h4>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="multi-ary">Multi-ary</h4>
+<p>Range specifiers: 1:5 1:2:5.</p>
+<h4 id="component-wise-operations">Component-wise operations</h4>
+<pre><code>y = sin(x)./x;
+</code></pre><h4 id="matrix-operators">Matrix operators</h4>
+<p>\verb A/B : roughly $AB^{-1}$.</p>
+<p>\verb A\B : roughly $A^{-1}B$.</p>
+<h3 id="operation-with-constant-arrays-shortcuts">Operation with constant arrays: shortcuts</h3>
+<p>In A + 1: 1 is evaluated as a matrix of 1&rsquo;s.</p>
+<h3 id="array-processing-functions">Array processing functions</h3>
+<h4 id="array-statistics">Array statistics</h4>
+<p>size, numel.</p>
+<p>sum (along any dimension: 1 for sum along rows/ sum of columns, 2 for sum along columns/ row sum etc..).</p>
+<p>max, min.</p>
+<p>nz, norm, unique.</p>
+<p>find: find non-0 elements of matrix.</p>
+<h5 id="checking-emptiness">Checking emptiness</h5>
+<p>use isEmpty().</p>
+<h4 id="reshape-array">Reshape array</h4>
+<p>Delete row: A(2, :) = [].</p>
+<p>If you store a value in an element outside of the array, the size increases to accommodate the newcomer.</p>
+<p>Alter array shape: reshape.</p>
+<h4 id="alter-matrix">Alter matrix</h4>
+<p>normr/c, tril, triu.</p>
+<h3 id="vector-processing-functions">Vector processing functions</h3>
+<p>Vector statistics: histc().</p>
+<p>dot(a, b) gets the dot product of a and b without having to worry about whether a and b are both column vectors in doing a&rsquo;b.</p>
+<h4 id="string-manipulation">String manipulation</h4>
+<p>c=[&lsquo;sdf&rsquo; &lsquo;asdf&rsquo;] or strcat() concatenates.</p>
+<p>[firstToken reminder] = strtok(string, delimiters).</p>
+<p>strrep : string replacement.</p>
+<h3 id="matrix-functionals">Matrix functionals</h3>
+<h4 id="svd-and-eig">svd and eig</h4>
+<p>svd, svds (get only a few $\sw_i$), eig, eigs.</p>
+<p>eig and eigs can return vectors differing in signs. \why</p>
+<h5 id="low-rank-approximations-of-symmetric-a">Low rank approximations of symmetric A</h5>
+<p>If A is symmetric, eigs is faster than doing svds, as it probably constructs $B = \mat{0 &amp; A\ A^{T} &amp; 0}$ to compute svd. Can pass options which specify the structure of A (eg: symmetry), so that ew decomposition can be computed faster. Actually, $\abs(\ew) = \sw$, but if ew&rsquo;s are close together, $\ew$ and $\sw$ returned by eigs and svds can be very different &mdash; but the resulting low rank approximations are both equally good.</p>
+<h2 id="code-structure">Code structure</h2>
+<h3 id="sentence-syntax">Sentence syntax</h3>
+<p>Sentence ends with &lsquo;;&rsquo; or new line: if former, execution is silent. Can continue writing in next sentence with &lsquo;&hellip;&rsquo;.</p>
+<h4 id="commenting">Commenting</h4>
+<p>% comment.</p>
+<h3 id="functions-and-commands">Functions and commands</h3>
+<h4 id="commands">Commands</h4>
+<p>Commands usually don&rsquo;t take vlaues/ variables, assume everything is a string etc..</p>
+<p>Functions can be nested.</p>
+<h4 id="functions-without-side-effects">Functions without side-effects</h4>
+<p>Matlab functions are almost functions in the mathmatical sense: accept values and variables as arguments, return value. If they modify an object passed in the argument, they <em>must</em> return the object.</p>
+<h4 id="syntax-of-function-defn">Syntax of function defn</h4>
+<pre><code>function outputValue = fnName(arg1, arg2)
+%  fnName(x,y)  function documentation
+end
+
+</code></pre><p>arg1 could be a function handle: you can then use arg1(..) to invoke the corresponding function.</p>
+<p>To return multiple values, use function [a, b] = fnName(..).</p>
+<p>To invoke functions from outside the file, they should be public: they should have same name as the file. Else, ye have a private function. Can&rsquo;t declare a fn inside a script.</p>
+<h4 id="anonymous--temporary-functions">Anonymous / temporary functions</h4>
+<p>\begin{lstlisting}
+f = inline(&lsquo;sqrt(x.^2+y.^2)&rsquo;,&lsquo;x&rsquo;,&lsquo;y&rsquo;);
+f = @(x, y)sqrt(x.^2+y.^2);
+\end{lstlisting}</p>
+<p>Reparametrization is another way of defining temporary functions: this is described under the function handles section.</p>
+<h4 id="nested-functions">Nested functions</h4>
+<h5 id="definition">Definition</h5>
+<p>Functions can be nested - by defining them as usual within a function body. But they cannot be nested within control structures.</p>
+<h5 id="variable-scope">Variable scope</h5>
+<p>They can access and modify variables and utilize functions, if they are defined within functions defined at a higher level.</p>
+<p>Variables defined within a nested function are not available outside.</p>
+<h5 id="restrictions-on-modifying-runtime-workspace">Restrictions on modifying runtime workspace</h5>
+<p>While debugging, if you break execution in a function in which a nested function is defined, you cannot modify the workspace by defining new variables. But you can define &lsquo;global&rsquo; variables to get around this.</p>
+<h4 id="checking-input-and-output-structure">Checking input and output structure</h4>
+<p>Behaviour of a function can be made to vary based on the number of output variables expected by the caller, and the number of input variables required.</p>
+<h5 id="variable-inputs">Variable inputs</h5>
+<p>Use nargin to check number of arguments passed. Or, you can use structures to pass arguments.</p>
+<h5 id="variable-outputs">Variable outputs</h5>
+<p>Use nargout to check the number of output arguments expected. Then, add variable number of outputs like this: varargout(1) = {op1}; varargout(2) = {op2}; .</p>
+<h4 id="invocation">Invocation</h4>
+<h5 id="invocation-of-functions">Invocation of functions</h5>
+<p>output = functionName(arg1, arg2);\<br>
+<code>[m, n] = size(X)</code>. Strings must be enclosed with &lsquo;&rsquo;.</p>
+<p>Usually, reference is passed. Only the field being modified by the function will be passed &lsquo;by value&rsquo;. If modified structure is returned as output, only changed fields will be altered upon function-return.</p>
+<p>\subparagraph*{Asking functions for fewer outputs}
+A function can return variable number (upto n) of outputs. But, when you invoke the function asking for k outputs, you cannot predict whether you get the first k of the n outputs or some other set - that is up to the function definition. Eg: qr().</p>
+<p>\subparagraph*{To ignore return value}
+<code>[~, n] = size(X)</code>.</p>
+<h5 id="invocation-of-commands">Invocation of commands</h5>
+<p>commandName arg1 arg2 . Arguments assumed to be strings: even if not enclosed by &lsquo;&rsquo;.</p>
+<h5 id="invocation-of-methods">Invocation of methods</h5>
+<p>Call superclass method: methodName@super(obj);</p>
+<h5 id="invocation-over-multiple-elements">Invocation over multiple elements</h5>
+<p>cellfun(fun, cell), arrfun(fun, array).</p>
+<h3 id="define-classes-packages">Define classes, packages</h3>
+<p>Base classes: value, handle.</p>
+<pre><code>classdef ClassName &lt; package.superClass1 &amp; superClass2
+ properties (Access = ..)
+  ...
+ end
+ methods
+  % Constructor
+  function s = ClassName(..)
+   s = s@package.superClass1(...)
+   s = s@superClass2(...)
+  end
+  function delete(objRef)
+  ...
+  end
+ end
+ events
+  EventName
+ end
+end
+</code></pre><p>In all non-static methods, the first arg is the object itself. object.fn(a, b) $\equiv$ fn(object, a, b).</p>
+<p>No overloading functions within the same class.</p>
+<p>If function modifies the object, it must return the object, like any fn in the mathematical sense!</p>
+<h4 id="modifiers">Modifiers</h4>
+<p>Property modifiers: setAccess, getAccess = protected/ private/ public, Constant (not available in 2007 version), Static. Method modifiers: Access, Abstract = true, Static.</p>
+<p>Property access methods: called when ye get or set property, before setting/ getting:</p>
+<pre><code>function value = get.PropertyName(object)
+...
+end
+</code></pre><h4 id="directory-structure">Directory structure</h4>
+<p>Under a directory in the path, +packageName dir, @ClassName dir or ClassName.m file. If a @ClassName folder is used, then ClassName.m containing the class definition should be placed within that folder.</p>
+<h5 id="mex-files">mex files</h5>
+<p>Packages can contain mex files: \<br>
+invocation: packageName.functionName.</p>
+<h4 id="ceveat-about-2007-version">Ceveat about 2007 version</h4>
+<p>The modifier syntax (Static) can&rsquo;t be used in 2007 version: must use (Static = true): does not even give error message.</p>
+<p>Bad error messages.</p>
+<h4 id="check-errors-in-definition">Check errors in definition</h4>
+<p>Try to construct an object or Use fieldnames on an object, or invoke a test method.</p>
+<h4 id="specifying-events">Specifying events</h4>
+<p>Make a subclass of handle. Broadcast event using notify(obj,&lsquo;EventName&rsquo;).</p>
+<p>Listen for events: addlistener(eventObj,&lsquo;EventName&rsquo;,@myCallback).</p>
+<h3 id="branching-structures">Branching structures</h3>
+<pre><code>if n == 0
+    T = t0;
+elseif n == 1;
+    T = t1;
+else
+    T = 3;
+end
+
+switch x
+case {1,2}
+disp('Probability = 20%');
+case {3,4,5}
+disp('Probability = 30%');
+otherwise
+disp('Probability = 50%');
+end
+</code></pre><h3 id="loop-structures">Loop structures</h3>
+<pre><code>for k= (Any *row* vector like 2:n)
+  T = [2*t1 0] - [0 0 t0];
+  t0 = t1;
+  t1 = T;
+end
+
+while booleanCondition
+  statements;
+end
+</code></pre><h4 id="break-and-continue">break and continue</h4>
+<p>Can break out of a loop or skip an iteration.</p>
+<h4 id="avoiding-loops-in-place-of-matrix-ops">Avoiding loops in place of matrix ops</h4>
+<p>For efficient implementation, whenever matlab does large matrix operations, matlab uses PROPAC and other specially designed libraries to do things efficiently. So, if matlab has a matrix operation, always use that rather than writing your own loop.</p>
+<h3 id="error-handling">Error handling</h3>
+<h4 id="throwing-errors">Throwing errors</h4>
+<pre><code>ME = MException('component:mnemonic', ...
+       'message');
+throw(ME)
+</code></pre><h4 id="throwing-warnings">Throwing warnings</h4>
+<p>Use warning(&lsquo;msg&rsquo;) or warndlg(). These are displayed when you do warning(&lsquo;on&rsquo;).</p>
+<h4 id="assertions-about-input">Assertions about input</h4>
+<p>assert(condition, errorMessage) generates an exception with an error message if a condition is violated. This is useful.</p>
+<h2 id="visualization">Visualization</h2>
+<h3 id="creating-a-figure">Creating a figure</h3>
+<p>figureHandle = figure() creates a figure.</p>
+<p>Can later save this: saveas (figureHandle, name With Extension).</p>
+<p>gcf returns handle to the current figure.</p>
+<p>figureHandle = hgload(figure path) or open() loads a figure.</p>
+<h5 id="set-properties">Set properties</h5>
+<p>colormap gray;</p>
+<h3 id="plotting-data">Plotting data</h3>
+<p>The plotting functions accept suitable data, figure properties, return a figure handle.</p>
+<p>subplot(m,n,p) breaks up the figure into m*n table, selects the pth cell for the current plot.</p>
+<p>hist(vector, nbins) without output arguments. bar(vector).</p>
+<p>plot (xAxis, yAxis, LineSpec, &lsquo;PropertyName&rsquo;, value, &hellip;);</p>
+<p>semilogy plots y axis in log scale.</p>
+<h4 id="line-specifications">Line specifications</h4>
+<p>It is composed of the following, in that order. Eg: &lsquo;-+r&rsquo;</p>
+<p>Line styles: -, &ndash;, -., : .</p>
+<p>Markers: + o * . x s d p h ^ v .</p>
+<p>Colors: r g b c m y k g.</p>
+<h3 id="plot-properties">Plot properties</h3>
+<p>xlabel, ylabel, title.</p>
+<p>grid on/ off/ minor.</p>
+<h3 id="visualize-matrix">Visualize matrix</h3>
+<h3 id="visualize-matrices">Visualize matrices</h3>
+<p>spy a sparse matrix, for use with full matrices (aka non-sparse) use $&gt;0.0001$. imagesc(A), image(A).</p>
+<h2 id="prallel-programming">Prallel programming</h2>
+<h3 id="multi-threaded-programming">Multi-threaded programming</h3>
+<p>Automatically enabled after 2008. Can be enabled with maxNumCompThreads = 2. Makes large matrix operations faster.</p>
+<h3 id="with-matlab-toolbox">With matlab toolbox</h3>
+<p>Tightly integrated with many other mathworks toolboxes.</p>
+<h4 id="processor-pool">Processor pool</h4>
+<p>Worker processes can be enable on a cluster or on the local multicore machine : controlled by a distributed computing server.</p>
+<p>Use: matlabpool open/ close/ size.</p>
+<h4 id="parfor-loop">parfor loop</h4>
+<p>Operates like for loop, but there may be no variable dependency between loops - otherwise the program will fail to compile.</p>
+<h4 id="other-tools">Other tools</h4>
+<p>Look in matlabcentral.</p>
+<h2 id="system-io">System IO</h2>
+<p>Use: [returnValue, commandOutput] = system(commandName);</p>
+<p>To get environment variables: env(variableName).</p>
+<h2 id="other-library-functions">Other library functions</h2>
+<p>Very rich in functions for matrix operations. Try to find pre-written functions before writing code from scratch.</p>
+<h3 id="useful-external-toolboxes-packages">Useful external toolboxes/ packages</h3>
+<p>software from Kevin Murphy and collaborators. Minka&rsquo;s lightspeed.</p>
+<h3 id="solving-matrix-problems">Solving Matrix problems</h3>
+<p>\verb A\b  solves system of equations Ax=b. lsqnonneg: Non negative least squares.</p>
+<p>Fitting polynomials to x and y: polyfit.</p>
+<h3 id="file-io">File I/O</h3>
+<h4 id="log-files">Log files</h4>
+<p>Can use file = fopen(fileName, mode); Mode can be w for overwrite, a for append &hellip;
+fprintf(file, &lsquo;asdf&rsquo;);
+fclose(file).</p>
+<h4 id="loading-formatted-data">Loading formatted data</h4>
+<pre><code>load someFile.mat;
+save data.mat A1;
+</code></pre><p>load can read ascii files with two space separated columns and make sense of it.</p>
+<h4 id="c-like-functions">C like functions</h4>
+<p>fprintf, <code>fscanf(fid,&quot;%d ...&quot;)</code>, fopen(fid, &lsquo;w&rsquo;), fclose.</p>
+<h3 id="user-interaction-io">User interaction I/O</h3>
+<p>To print stuff: disp(). pause().</p>
+<p>format long : set extra accuracy.</p>
+<h3 id="solve-general-optimization-problem">Solve general optimization problem</h3>
+<p>Described among optimization software.</p>
+<h3 id="algebra">Algebra</h3>
+<pre><code>symadd('x^2 + 2*x + 3','3*x+5')
+</code></pre><h3 id="measure-time">Measure time</h3>
+<p>tic toc.</p>
+<h2 id="mex-using-c-functions">mex: Using C functions</h2>
+<p>Write c files for efficiency.</p>
+<h3 id="interface">Interface</h3>
+<pre><code>#include &quot;mex.h&quot;
+void mexFunction(int numOutputArrays, mxArray *pOutput[],
+int numInputArrays, const mxArray *pInput[])
+ ...
+</code></pre><p>Compile them in matlab prompt: mex fileName.</p>
+<h4 id="debugging-1">Debugging</h4>
+<p>See tips online.</p>
+<h3 id="mxarray-datatype">mxarray datatype</h3>
+<p>This includes the array&rsquo;s type, matlab variable name, dimensions. Non-sparse arrays contain pr and pi to store the real and imaginary parts of the data: these are one dimensional arrays.</p>
+<h4 id="creation">Creation</h4>
+<p>Use functions like: mxCreateNumericArray, mxCreateCellArray, mxCreateCharArray.</p>
+<pre><code> mxArray *myarray = mxCreateNumericArray(..);
+ mxCreateDoubleMatrix(1,3,mxREAL);
+</code></pre><h4 id="array-access">Array access</h4>
+<p>mxGetPr, mxGetPi, mxGetData, mxGetCell.</p>
+<p>mxGetM, mxGetN: get matrix dimensions.</p>
+<h4 id="array-modification">Array modification</h4>
+<p>mxSetPr, mxSetPi, mxSetData, mxSetField. Can use memcpy to copy arrays at one shot.</p>
+<h4 id="memory-management">Memory management</h4>
+<p>mxMalloc, mxCalloc, mxFree, mexMakeMemoryPersistent, mexAtExit, mxDestroyArray, memcpy</p>
+<h3 id="executing-matlab-commands">Executing matlab commands</h3>
+<p>Both mexCallMATLAB and mexEvalString execute MATLAB commands. Use mexCallMATLAB for returning results (left-hand side arguments) back to the MEX-file. The mexEvalString function cannot return values to the MEX-file.</p>
+<h3 id="user-io">User IO</h3>
+<p>mexPrintf, mexWarnMsgTxt, mexErrMsgTxt.</p>
+<h3 id="input-validation">Input validation</h3>
+<p>mxIsChar, mxIsClass(prhs[0], &ldquo;sparse&rdquo;), mxIsComplex.</p>
+<h2 id="java">Java</h2>
+<h3 id="advantages">Advantages</h3>
+<p>Using loop operations can be 2x faster in java. For matrix operations, the fortran routines used by matlab are faster; but using java libraries like colt is said to be not too much worse.</p>
+<p>Also, Arrays and values are automatically converted between matlab and java formats.</p>
+<h3 id="classpath">Classpath</h3>
+<p>javaclasspath shows static and dynamic portions of class path. The former is loaded from [matlabroot \verb &lsquo;\toolbox\local\classpath.txt&rsquo; ]
+. The latter is set using javaclasspath or javaaddpath. The class path is refreshed using [clear java].</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Matlab/ Octave </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Matlab/ Octave</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

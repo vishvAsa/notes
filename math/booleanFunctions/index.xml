@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Boolean Functions on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/booleanFunctions/</link>
+    <description>Recent content in &#43;Boolean Functions on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/booleanFunctions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fourier Analysis</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/booleanFunctions/fourier_analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/booleanFunctions/fourier_analysis/</guid>
+      <description>Fourier analysis of ANY real valued boolean fn.
+The function space for Uniform distribution Dimensionality Take the real space \(R^{2^{n}}\): Not \(\infty\) dimensional Hilbert space. Any real valued boolean function can be represented by a point in this space.
+Can also be applied to randomized boolean functions: Alter expectations and probabilites to handle extra randomness.
+Inner product \(\dprod{f,g} \dfn 2^{-n} \sum_{x} f(x)g(x) = E_{x \in_{U} \set{\pm 1}^{n}}[f(x)g(x)]\): defined thus scaled to make \(\norm{p_{S}} = \norm{f} = 1\).</description>
+    </item>
+    
+    <item>
+      <title>Functiond definition</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/booleanFunctions/function_definition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/booleanFunctions/function_definition/</guid>
+      <description>Boolean function \(f:\set{0,1}^{n} \to \set{0, 1}\) or \(\set{\pm1}^{n} \to \set{\pm 1}\). Ones and zeros: \(I^{f} = \set{x: f(x)=1}\); \(O^{f}\).
+Randomized boolean function See algebra ref. Maps hypercube points to RV&amp;rsquo;s taking value 1 with some probability.
+Variables and their range Changing input basis \(x_{i} \to x_{i}&#39;; 0 \to 1; 1 \to -1 : x_{i} = \frac{1- x_{i}&#39;}{2}\).
+For fixing polynomial for change in basis: \(\set{\pm 1} \to \set{0,1} :x_{i} \to (\frac{1+x_{i}}{2})\).</description>
+    </item>
+    
+    <item>
+      <title>Properties</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/booleanFunctions/properties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/booleanFunctions/properties/</guid>
+      <description>Dependence on input variables r-junta f depends on only \(r\) variables. k-junta has at most \(2^k\) non 0 coefficients. Each of them is \(2^{-k+1}\) heavy: Make two equally high stacks unequal.
+Witness to the relevance of variable \(x_{i}\): an assignment a which flips f(a) when ith bit is flipped.
+Monotone fn f Flipping \(x_{i}\) from 1 to -1 cannot flip f(x) from -1 to 1. \((\forall i, x_{i} \leq y_{i}) \implies f(x_{1}, .</description>
+    </item>
+    
+    <item>
+      <title>Views and normal forms</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/booleanFunctions/views_normal_forms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/booleanFunctions/views_normal_forms/</guid>
+      <description>Views The truth table. Subset of the hypercube. The concept.
+A set system: Can consider c as a set: set of &amp;lsquo;selected&amp;rsquo; points, induces dichotomies on X.
+Social (binary) choice or voting scheme of n people.
+Normal forms Write as sign of multinomial of n variables \(x \in \set{0, 1}^{n}\). Take DNF, change \(\bar{x_{i}} \to (1-x_{i})\).
+k-DNF and k-CNF \(k \leq n\). DNF is a disjunction of conjunctions. CNF is a conjunction of disjunctions.</description>
+    </item>
+    
+  </channel>
+</rss>

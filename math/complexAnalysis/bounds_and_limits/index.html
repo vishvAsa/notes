@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Bounds and limits</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/complexAnalysis/bounds_and_limits/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/complexAnalysis/bounds_and_limits/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Bounds and limits" />
+<meta property="og:description" content="\(p^{1/n} \to 1\): take seq \(x_{n} = p^{1/n}-1\). Also, \(n^{1/n} \to 1\).
+Bounds on combinatorial quantities Bounds on n! (Stirling)\(n!\approx \sqrt{2n\pi} (\frac{n}{e})^{n}\). \why
+Bounds on (a choose b) \(\binom{a}{b} = \frac{a!}{b!(a-b)!} \approx \frac{a^{a}}{\sqrt{2n\pi} b^{b}(a-b)^{a-b}}\) for large a, b and a-b.
+So: \(\binom{a}{b} \leq (\frac{ea}{b})^{b}\). \(\lceil \frac{a}{b}\rceil \leq \frac{a-1}{b}&#43;1\). \(\frac{e^{m}}{\sqrt{em}}&lt; \frac{m^{m}}{m!}\leq \sum \frac{m^{i}}{i!} = e^{m}\). \((\frac{a}{b})^{b} &lt; \binom{a}{b} &lt; a^{b}/b!\).
+Bounds on powers and exponents Bounds on \htext{\((1&#43;b)^{n\) and \(e^{n}\)}{exponentials}} Using Taylor series of \(e^{-x}\) wrt 0, stopped at \(x^{2}\): \(e^{-x} \geq 1-x\)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/complexAnalysis/bounds_and_limits/" />
+
+<meta itemprop="name" content="Bounds and limits">
+<meta itemprop="description" content="\(p^{1/n} \to 1\): take seq \(x_{n} = p^{1/n}-1\). Also, \(n^{1/n} \to 1\).
+Bounds on combinatorial quantities Bounds on n! (Stirling)\(n!\approx \sqrt{2n\pi} (\frac{n}{e})^{n}\). \why
+Bounds on (a choose b) \(\binom{a}{b} = \frac{a!}{b!(a-b)!} \approx \frac{a^{a}}{\sqrt{2n\pi} b^{b}(a-b)^{a-b}}\) for large a, b and a-b.
+So: \(\binom{a}{b} \leq (\frac{ea}{b})^{b}\). \(\lceil \frac{a}{b}\rceil \leq \frac{a-1}{b}&#43;1\). \(\frac{e^{m}}{\sqrt{em}}&lt; \frac{m^{m}}{m!}\leq \sum \frac{m^{i}}{i!} = e^{m}\). \((\frac{a}{b})^{b} &lt; \binom{a}{b} &lt; a^{b}/b!\).
+Bounds on powers and exponents Bounds on \htext{\((1&#43;b)^{n\) and \(e^{n}\)}{exponentials}} Using Taylor series of \(e^{-x}\) wrt 0, stopped at \(x^{2}\): \(e^{-x} \geq 1-x\).">
+
+<meta itemprop="wordCount" content="286">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Bounds and limits"/>
+<meta name="twitter:description" content="\(p^{1/n} \to 1\): take seq \(x_{n} = p^{1/n}-1\). Also, \(n^{1/n} \to 1\).
+Bounds on combinatorial quantities Bounds on n! (Stirling)\(n!\approx \sqrt{2n\pi} (\frac{n}{e})^{n}\). \why
+Bounds on (a choose b) \(\binom{a}{b} = \frac{a!}{b!(a-b)!} \approx \frac{a^{a}}{\sqrt{2n\pi} b^{b}(a-b)^{a-b}}\) for large a, b and a-b.
+So: \(\binom{a}{b} \leq (\frac{ea}{b})^{b}\). \(\lceil \frac{a}{b}\rceil \leq \frac{a-1}{b}&#43;1\). \(\frac{e^{m}}{\sqrt{em}}&lt; \frac{m^{m}}{m!}\leq \sum \frac{m^{i}}{i!} = e^{m}\). \((\frac{a}{b})^{b} &lt; \binom{a}{b} &lt; a^{b}/b!\).
+Bounds on powers and exponents Bounds on \htext{\((1&#43;b)^{n\) and \(e^{n}\)}{exponentials}} Using Taylor series of \(e^{-x}\) wrt 0, stopped at \(x^{2}\): \(e^{-x} \geq 1-x\)."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/complexAnalysis\/bounds_and_limits\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/complexAnalysis\/bounds_and_limits.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Bounds and limits</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Bounds and limits">Bounds and limits</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/complexAnalysis/bounds_and_limits.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <p>\(p^{1/n} \to 1\): take seq \(x_{n} = p^{1/n}-1\). Also, \(n^{1/n} \to 1\).</p>
+<h2 id="bounds-on-combinatorial-quantities">Bounds on combinatorial quantities</h2>
+<h3 id="bounds-on-n">Bounds on n!</h3>
+<p>(Stirling)\(n!\approx \sqrt{2n\pi} (\frac{n}{e})^{n}\). \why</p>
+<h3 id="bounds-on-a-choose-b">Bounds on (a choose b)</h3>
+<p>\(\binom{a}{b} = \frac{a!}{b!(a-b)!} \approx \frac{a^{a}}{\sqrt{2n\pi} b^{b}(a-b)^{a-b}}\) for large a, b and a-b.</p>
+<p>So: \(\binom{a}{b} \leq (\frac{ea}{b})^{b}\). \(\lceil \frac{a}{b}\rceil \leq \frac{a-1}{b}+1\). \(\frac{e^{m}}{\sqrt{em}}&lt; \frac{m^{m}}{m!}\leq \sum \frac{m^{i}}{i!} = e^{m}\). \((\frac{a}{b})^{b} &lt; \binom{a}{b} &lt; a^{b}/b!\).</p>
+<h2 id="bounds-on-powers-and-exponents">Bounds on powers and exponents</h2>
+<h3 id="bounds-on-htext1bn-and-enexponentials">Bounds on \htext{\((1+b)^{n\) and \(e^{n}\)}{exponentials}}</h3>
+<p>Using Taylor series of \(e^{-x}\) wrt 0, stopped at \(x^{2}\): \(e^{-x} \geq 1-x\).</p>
+<p>\((1-x^{-1})^{x} \leq e^{-1} \leq (1-x^{-1})^{x-1}\): first inequality from taylor series argument. Latter ineq similarly proved for \(x \in (0, 1)\) by showing \(e \geq (1-x^{-1})^{1-x}\).</p>
+<p>Also can get bounds using Taylor series; eg: \(2^{-1}(e^{ac}+e^{-ac}) \leq e^{a^{2}c^{2}2^{-1}}\).</p>
+<h3 id="bounds-on-log-x">Bounds on log x</h3>
+<p>Using log series, or from concavity: \(\ln x \leq x-1\); easy to visualize with log x curve under x - 1 line.</p>
+<h2 id="inequalities-among-means">Inequalities among means</h2>
+<h3 id="bound-ab-with-a-convex-combination-of-powers">Bound ab with a convex combination of powers</h3>
+<p>Aka Young&rsquo;s inequality. \(a, b \geq 0\); \(p, q \in R^{+}\) with \(p + q = 1\); then \(ab \leq pa^{\frac{1}{p}} + qb^{q^{-1}}\). Special case of the inequality of weighted arithmetic and geometric means, but is described separately to illustrate the proof technique.</p>
+<p>Pf: Let \(a, b &gt;0\). \(\ln ab = \ln a + \ln b = p\ln a^{p^{-1}} + q\ln b^{q^{-1}}\). \(\ln(x)\) is strictly concave function on \(R^{+}\); thence use this to get inequality.</p>
+<h3 id="am-gm-hm-inequality">AM GM HM inequality</h3>
+<p>The various means are described in the statistics survey.</p>
+<p>Suppose \(a, b \geq 0\). Using the same technique (taking \(\log(a^{p}b^{q})\) and taking advantage of concavity of \(\log(x)\)), we see that weighted GM \(\leq\) weighted AM.</p>
+<p>Also, weighted GM \(\geq\) weighted HM: from applying the AM-GM inequality: \((a^p b^q)^{-1} \leq pa^{-1} + qb^{-1}\).</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Bounds and limits </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Bounds and limits</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>

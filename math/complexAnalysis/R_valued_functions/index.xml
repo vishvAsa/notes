@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> &#43;R valued functions on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/</link>
+    <description>Recent content in  &#43;R valued functions on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Definite integral</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/definite_integral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/definite_integral/</guid>
+      <description>Definitions For a fixed \(f:R \to R\), the definite integral function is \(R^{2} \to R\). In general, it is defined for any \(f\) over a measurable space.
+Simply see the definition of min-cover integrals defined elsewhere: those form superior notions of integration than what follows.
+Integral as least Upper sum, greatest lower sum Aka Reimann Integral.
+Partitions of [a,b] Any such partition \(P\) is specified by a set of points \(a = x_{0} \leq x_{1} .</description>
+    </item>
+    
+    <item>
+      <title>Properties</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/properties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/properties/</guid>
+      <description>Because of the nature of their range, real valued functions can be characterized using some special features.
+Also consider properties of functions over ordered semigroups described elsewhere.
+Topological properties Limits, continuity, smoothness, steepness. See topology ref.
+Limits See topology ref. Left and right handed limits. \(\pm \infty\) as limits.
+Limits of sums, products, quotients. Squeeze or pinching theorem: If \(f(x) \leq g(x) \leq h(x)\), and if \(\lim_{x \to a} f(x) = \lim_{x \to a} h(x) = b\), \(\lim_{x \to a} g(x)=b\).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Design on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/computing/algorithms/design/</link>
+    <description>Recent content in &#43;Design on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/computing/algorithms/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Abstract Data types and Data structures</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/algorithms/design/Abstract_Data_types_and_Data_structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/algorithms/design/Abstract_Data_types_and_Data_structures/</guid>
+      <description>Abstract data types When data is stored, we often want to perform various operations (ie evaluate mathematical functions) on it.
+Abstract data type is a mathematical construct of a data-store, defined by the operations which can be performed over it, and consistency rules (which define the effect of the aforementioned operations on the stored data). For example, a stack can be defined using push, pop operations, with constraints such as pop(push(stack, x)) = x.</description>
+    </item>
+    
+    <item>
+      <title>Algorithm design strategies</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/algorithms/design/Algorithm_design_strategies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/algorithms/design/Algorithm_design_strategies/</guid>
+      <description>Bottom up solution Aka Divide and conquer. A bottom-up way of constructing the solution.
+This includes Dynamic programming, which is discussed in the Optimization survey.
+Time Analysis \tbc
+Greedy algorithms Eg: shortest path algorithm.
+The matroid This is a pair: (Set, Independence property). Eg: (vertices, Independent sets in a graph). There are efficient algorithms for finding the maximal indpendent subset. So, often sufficient to specify the problem using the matroid formalism.</description>
+    </item>
+    
+    <item>
+      <title>Sequence operations</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/algorithms/design/Sequence_operations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/algorithms/design/Sequence_operations/</guid>
+      <description>Membership query algorithms The abstract data types relevant here are Sets and multisets (defined in the algebra survey).
+Over Associative arrays When the elements are stored as an associative array - eg: hash-fn map or a treep, answering membership queries is O(1).
+Fingerprinting Coding theory is useful here: see fingerprinting in information theory ref.
+Sequential search and sorting Sequential search: O(n) in the worst case. When the list is unsorted, there is no choice but to do this.</description>
+    </item>
+    
+    <item>
+      <title>Set</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/algorithms/design/Set/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/algorithms/design/Set/</guid>
+      <description>Basic operations include listing elements, checking set-membership, finding unions and intersections.
+Set implementations include the ListSet and the BitSet.
+Bit-set BitSet uses a sequence of bits - one for each element. Theoretically, it can store arbitrary elements which may be mapped to integers, but is often used to store integers. Its size is equal to the largest number N stored in the set, though it may store k elements; so, from this perspective, using it in preference to ListSet makes sense when the set is dense.</description>
+    </item>
+    
+    <item>
+      <title>Storing sequences</title>
+      <link>file:///storage/emulated/0/notesData/notes/computing/algorithms/design/Storing_sequences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/computing/algorithms/design/Storing_sequences/</guid>
+      <description>Operations Already stored data may be mutated with additions and deletions. Searching and sorting are considered elsewhere.
+Low level operations Important special cases defined based on restrictions on insertion and deletion operations include stacks, queues, priority queues. In the case of stacks, elements leave the sequence in a last in first out (LIFO) order. In case of queues, elements leave in a first in first out (FIFO) order.
+Higher level operations These operations are defined in terms of low level operations described earlier: Eg: map, filter etc.</description>
+    </item>
+    
+  </channel>
+</rss>

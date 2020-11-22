@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Probability theory on Vishvas&#39;s notes</title>
+    <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/probability_theory/</link>
+    <description>Recent content in &#43;Probability theory on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="file:///storage/emulated/0/notesData/notes/math/probability/probability/probability_theory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>01 Sample space and Events</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/probability_theory/01_Sample_space_and_Events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probability/probability_theory/01_Sample_space_and_Events/</guid>
+      <description>Sample/ state space States/ sample points Consider the output of a stochastic system. This output can be considered to be characterized as the state of a system. If two outputs are distinguishable from one another, then they can be interpreted as correspond to different states of the system.
+Specification with state variables Two states or outputs are distinguishable by differing assignments \((x_i)\) to certain features or variables \((X_i)\).
+Sample space notation Sample space of a statistical experiment: \(\gO\) or S.</description>
+    </item>
+    
+    <item>
+      <title>02 Probability of events</title>
+      <link>file:///storage/emulated/0/notesData/notes/math/probability/probability/probability_theory/02_Probability_of_events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>file:///storage/emulated/0/notesData/notes/math/probability/probability/probability_theory/02_Probability_of_events/</guid>
+      <description>Example applications, modeling intricacies, various interpretations of probability are discussed in the probabilistic modeling survey.
+Probability measure The following axiomatization is common to both frequentist and subjective interpretation of probability.
+Take sample space \(S\), sigma algebra \(F\). The probability measure is a special measure \(v:F \to [0,1]\); so operates over sets, like CDF. Additionally, the general additivity property (described in algebra survey) is usually assumed.
+Other properties of the measure: should be countably additive over disjoint sets: \(\gs\) additive; \(v(\gO) = 1\).</description>
+    </item>
+    
+  </channel>
+</rss>

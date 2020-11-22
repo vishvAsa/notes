@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vishvas&#39;s notes  | Differential</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.72.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    <link href="/storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/differential/" rel="alternate" type="application/rss+xml" title="Vishvas&#39;s notes" />
+    <link href="/storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/differential/" rel="feed" type="application/rss+xml" title="Vishvas&#39;s notes" />
+
+    <meta property="og:title" content="Differential" />
+<meta property="og:description" content="Definition Rate of change The differential function, aka derivative, is \
+\(f&rsquo;(x) = \frac{df}{dx}= \lim_{\change x \to 0} \frac{f(x&#43;\change x) - f(x)}{\change x}\), if the limit exists.
+Linear approximation view Hence, \(f(x &#43; \change x) = f(x) &#43; \change(x) f&rsquo;(x)\), as \(\change x \to 0\). As the primary use of the differential function is to be able to make linear/ polynomial approximations to \(f\), one can view the differntial function as a measure of \(f(x &#43; \change x) - f(x)\) as \(\change x \to 0\)." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="file:///storage/emulated/0/notesData/notes/math/complexAnalysis/R_valued_functions/R_to_R/differential/" />
+
+<meta itemprop="name" content="Differential">
+<meta itemprop="description" content="Definition Rate of change The differential function, aka derivative, is \
+\(f&rsquo;(x) = \frac{df}{dx}= \lim_{\change x \to 0} \frac{f(x&#43;\change x) - f(x)}{\change x}\), if the limit exists.
+Linear approximation view Hence, \(f(x &#43; \change x) = f(x) &#43; \change(x) f&rsquo;(x)\), as \(\change x \to 0\). As the primary use of the differential function is to be able to make linear/ polynomial approximations to \(f\), one can view the differntial function as a measure of \(f(x &#43; \change x) - f(x)\) as \(\change x \to 0\).">
+
+<meta itemprop="wordCount" content="1156">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Differential"/>
+<meta name="twitter:description" content="Definition Rate of change The differential function, aka derivative, is \
+\(f&rsquo;(x) = \frac{df}{dx}= \lim_{\change x \to 0} \frac{f(x&#43;\change x) - f(x)}{\change x}\), if the limit exists.
+Linear approximation view Hence, \(f(x &#43; \change x) = f(x) &#43; \change(x) f&rsquo;(x)\), as \(\change x \to 0\). As the primary use of the differential function is to be able to make linear/ polynomial approximations to \(f\), one can view the differntial function as a measure of \(f(x &#43; \change x) - f(x)\) as \(\change x \to 0\)."/>
+
+      
+    
+
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/dir_tree-bundle.js"></script>
+    <script type="text/javascript">
+    
+    let baseURL = "file:\/\/\/storage\/emulated\/0\/notesData\/notes";
+    let basePath = "/" + baseURL.split("/").slice(3).join("/");
+    let siteParams = JSON.parse("{\u0022contactlink\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/issues\/new\u0022,\u0022disqusshortcode\u0022:\u0022vvasuki-site\u0022,\u0022env\u0022:\u0022production\u0022,\u0022githubeditmepathbase\u0022:\u0022https:\/\/github.com\/vvasuki\/notes\/edit\/master\/content\/\u0022,\u0022mainSections\u0022:[\u0022math\u0022],\u0022mainsections\u0022:[\u0022math\u0022]}");
+    let pageDefaultsList = JSON.parse("[{\u0022scope\u0022:{\u0022pathPrefix\u0022:\u0022\u0022},\u0022values\u0022:{\u0022comments\u0022:true,\u0022layout\u0022:\u0022page\u0022,\u0022search\u0022:true,\u0022sidebar\u0022:\u0022home_sidebar\u0022}}]");
+    let sidebarsData = JSON.parse("{\u0022home_sidebar\u0022:{\u0022contents\u0022:[{\u0022url\u0022:\u0022recdir:\/\/\u0022},{\u0022contents\u0022:[{\u0022title\u0022:\u0022ज्यौतिषम्\u0022,\u0022url\u0022:\u0022..\/jyotiSham\/\u0022},{\u0022title\u0022:\u0022संस्कृतम्\u0022,\u0022url\u0022:\u0022..\/sanskrit\/\u0022},{\u0022title\u0022:\u0022मीमांसा\u0022,\u0022url\u0022:\u0022..\/mImAMsA\/\u0022},{\u0022title\u0022:\u0022Notes Home\u0022,\u0022url\u0022:\u0022..\/notes\/\u0022},{\u0022title\u0022:\u0022काव्यम्\u0022,\u0022url\u0022:\u0022..\/kAvya\/\u0022},{\u0022title\u0022:\u0022संस्काराः\u0022,\u0022url\u0022:\u0022\/..\/saMskAra\/\u0022},{\u0022title\u0022:\u0022Vishvas\u0027s home page\u0022,\u0022url\u0022:\u0022\/..\/\u0022}],\u0022title\u0022:\u0022सङ्ग्रहान्तरम्\u0022},{\u0022title\u0022:\u0022\\u003ci class=\\\u0022fas fa-hand-holding-heart\\\u0022\\u003e\\u003c\/i\\u003eDonate Via Vishvas\u0022,\u0022url\u0022:\u0022https:\/\/vvasuki.github.io\/interests\/dharma-via-vishvas\/\u0022}],\u0022title\u0022:\u0022Parts\u0022}}");
+    let autocompletePageUrl = "\/storage\/emulated\/0\/notesData\/notes\/data\/pages.tsv";
+    
+    var pageRelUrlTree = {};
+</script>
+
+    <script>
+    
+    let pageVars = {};
+    pageVars.pageUrlMinusBasePath = "\/storage\/emulated\/0\/notesData\/notes\/math\/complexAnalysis\/R_valued_functions\/R_to_R\/differential\/".replace(basePath, "/");
+    pageVars.pageParams = {};
+    pageVars.pageSource = "math\/complexAnalysis\/R_valued_functions\/R_to_R\/differential.md";
+    console.log(pageVars.pageSource);
+    var pageDefaults;
+    for (let possiblePageDefaults of pageDefaultsList) {
+      if (pageVars.pageSource.startsWith(possiblePageDefaults.scope.pathPrefix)) {
+        pageDefaults = possiblePageDefaults.values
+      }
+    }
+    
+    </script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/main-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/non_webpack_js/disqus.js"></script>
+    <script src="/storage/emulated/0/notesData/notes/webpack_dist/ui_lib-bundle.js"></script>
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/fonts.css">
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/solid.min.css">
+    
+
+    <link rel="stylesheet" href="/storage/emulated/0/notesData/notes/css/@fortawesome/fontawesome-free/css/fontawesome.min.css">
+
+    
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ" />
+    <link rel="alternate" hreflang="sa-Deva" href="#ZgotmplZ?transliteration_target=devanagari" />
+    <link rel="alternate" hreflang="sa-Knda" href="#ZgotmplZ?transliteration_target=kannada" />
+    <link rel="alternate" hreflang="sa-Mlym" href="#ZgotmplZ?transliteration_target=malayalam" />
+    <link rel="alternate" hreflang="sa-Telu" href="#ZgotmplZ?transliteration_target=telugu" />
+    <link rel="alternate" hreflang="sa-Taml-t-sa-Taml-m0-superscript" href="#ZgotmplZ?transliteration_target=tamil_superscripted" />
+    <link rel="alternate" hreflang="sa-Taml" href="#ZgotmplZ?transliteration_target=tamil" />
+    <link rel="alternate" hreflang="sa-Gran" href="#ZgotmplZ?transliteration_target=grantha" />
+    <link rel="alternate" hreflang="sa-Gujr" href="#ZgotmplZ?transliteration_target=gujarati" />
+    <link rel="alternate" hreflang="sa-Orya" href="#ZgotmplZ?transliteration_target=oriya" />
+    <link rel="alternate" hreflang="sa-Beng-t-sa-Beng-m0-assamese" href="#ZgotmplZ?transliteration_target=assamese" />
+    <link rel="alternate" hreflang="sa-Beng" href="#ZgotmplZ?transliteration_target=bengali" />
+    <link rel="alternate" hreflang="sa-Guru" href="#ZgotmplZ?transliteration_target=gurmukhi" />
+    <link rel="alternate" hreflang="sa-Cyrl" href="#ZgotmplZ?transliteration_target=cyrillic" />
+    <link rel="alternate" hreflang="sa-Sinh" href="#ZgotmplZ?transliteration_target=sinhala" />
+    <link rel="alternate" hreflang="sa-Shar" href="#ZgotmplZ?transliteration_target=sharada" />
+    <link rel="alternate" hreflang="sa-Brah" href="#ZgotmplZ?transliteration_target=brahmi" />
+    <link rel="alternate" hreflang="sa-Modi" href="#ZgotmplZ?transliteration_target=modi" />
+    <link rel="alternate" hreflang="sa-Tirh" href="#ZgotmplZ?transliteration_target=tirhuta_maithili" />
+    <link rel="alternate" hreflang="sa-Latn-t-sa-Zyyy-m0-iast" href="#ZgotmplZ?transliteration_target=iast" />
+  </head>
+
+  <body class="ma0 bg-near-white">
+    
+
+
+    
+<header class="p-1 bg-yellow">
+    <nav role="navigation">
+      <div id="div_top_bar" class="row">
+        <div class="col-md-3 justify-content-start">
+          <a  href="/storage/emulated/0/notesData/notes/" class="btn col border">
+            <i class="fas fa-gopuram ">Vishvas&#39;s notes <br/> Differential</i>
+          </a>
+        </div>
+        <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
+          <form action="/storage/emulated/0/notesData/notes/search">
+            <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
+          </form>
+          <a href="/storage/emulated/0/notesData/notes/custom_site_search/"  class="btn btn-default">Full search</a>
+          <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+            <option value="devanagari" selected="">स</option>
+            <option value="iast">ā</option>
+            <option value="kannada">ಅ</option>
+            <option value="malayalam">അ</option>
+            <option value="telugu">క</option>
+            <option value="tamil_superscripted">க²</option>
+            <option value="tamil_extended">க</option>
+            <option value="grantha">𑌅</option>
+            <option value="gujarati">અ</option>
+            <option value="oriya">ଅ</option>
+            <option value="assamese">অস</option>
+            <option value="bengali">অ</option>
+            <option value="gurmukhi">ਅ</option>
+            <option value="cyrillic">пу</option>
+            <option value="sinhala">අ</option>
+            <option value="sharada">𑆑𑇀𑆰</option>
+            <option value="brahmi">𑀅</option>
+            <option value="modi">𑘦𑘻𑘚𑘲</option>
+            <option value="tirhuta_maithili">𑒁</option>
+          </select>
+        </div>
+        <div class="row col  d-flex justify-content-center">
+          <div><a  name="previousPage" href="" class="btn btn-secondary">###<i class="fas fa-caret-left"></i></a></div>
+          <div ><a name="nextPage" href="" class="btn btn-secondary"><i class="fas fa-caret-right"></i> ### </a></div>
+        </div>
+        <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
+        </ul>
+      </div>
+    </nav>
+</header>
+
+    
+    <div class="row" name="contentRow">
+      
+      <aside class="col-md-3 card border " id="sidebar">
+        <div id="sidebarTitle" class="card-title bg-light-gray border d-flex justify-content-between" >
+          <a name="sidebarToggleLink" data-toggle="collapse" href="#sidebar_body" role="button" aria-expanded="true" aria-controls="sidebar_body" onclick="module_main.default.sidebarToggleHandler()">
+            Menu <i class="fas fa-caret-down"></i></a>
+        </div>
+        <nav class="card-body p-0 collapse show" id="sidebar_body">
+          <ul id="displayed_sidebar" class="list pl2 p-2 bg-yellow">
+        </ul>
+        </nav>
+      </aside>
+      <main class="col p-3" role="main">
+        
+<header class='border d-flex justify-content-between'>
+    <h1 id="Differential">Differential</h1>
+    
+    <a id="editLink" class="btn btn-primary"  href="https://github.com/vvasuki/notes/edit/master/content/math/complexAnalysis/R_valued_functions/R_to_R/differential.md"><i class="fas fa-edit"></i></a>
+    
+</header>
+<article>
+  <aside id="toc_card" class="card border ">
+    <div id="toc_header" class="card-title border d-flex justify-content-between">
+        <a data-toggle="collapse" href="#toc_body" role="button" aria-expanded="true" aria-controls="toc_body">
+          What's in this page? <i class="fas fa-caret-down"></i> </a>
+    </div>
+    <div id="toc_body" class="card-body collapse p-0">
+      
+      <ul id="toc_ul" class="list p-0">
+      </ul>
+    </div>
+  </aside>
+  <div id="post_content">
+  <h2 id="definition">Definition</h2>
+<h3 id="rate-of-change">Rate of change</h3>
+<p>The differential function, aka derivative, is \<br>
+\(f&rsquo;(x) = \frac{df}{dx}= \lim_{\change x \to 0} \frac{f(x+\change x) - f(x)}{\change x}\), if the limit exists.</p>
+<h3 id="linear-approximation-view">Linear approximation view</h3>
+<p>Hence, \(f(x + \change x) = f(x) + \change(x) f&rsquo;(x)\), as \(\change x \to 0\).
+As the primary use of the differential function is to be able to make linear/ polynomial approximations to \(f\), one can view the differntial function as a measure of \(f(x + \change x) - f(x)\) as \(\change x \to 0\).</p>
+<h3 id="other-views-and-generalizations">Other views and generalizations</h3>
+<p>See the derivatives of general functionals and functions in the vector spaces survey.</p>
+<h2 id="existence-differentiability">Existence: Differentiability</h2>
+<p>The the above limit exists at a certain point \(x\), \(f\) is said to be differentiable at that point.</p>
+<p>\(f\) can be differentiable on \((a, b)\) but not on endpoints of \([a, b]\).</p>
+<h3 id="relationship-with-continuity">Relationship with continuity</h3>
+<p>If \(f\) differentiable, \(f\) continuous; but not reverse: consider \(|x|\).</p>
+<p>Also, \(f = \sum_{n=0}^{\infty} g(4^{n}x) (3/4)^{n}\), where \(g(x) = g(x+2), g(x) = |x| on [-1, 1]\) is continuous but nowhere differentiable: Take \(f_{n}= g(4^{n}x) (3/4)^{n}\); by Weierstrass M test, \(\sum f_{n}\) converges to f; also converges uniformly; as the partial sums are continuous functions and as \(\sum f_{n} \to f\), \(f\) is continuous.</p>
+<h3 id="smoothness">Smoothness</h3>
+<p>If for all \(k\), \(D^k(x)\) exists at a certain point \(x\), \(f\) is said to be smooth at that point.</p>
+<h2 id="differential-operator">Differential operator</h2>
+<h3 id="definition-1">Definition</h3>
+<p>Consider the operator \(D\), which maps a given function \(f\) to its differential function \(f&rsquo;\). Note that the differential function may have a smaller domain than \(f\).</p>
+<h4 id="notation">Notation</h4>
+<p>So, \(D(f)(x) = f&rsquo;(x)\). Often, this is written as \(Df(x)\).</p>
+<p>Below, represent the scalar functions \(f\) and \(D(f)\) as vectors in a vector spaces: see vector spaces and functional analysis surveys for details. Also, \(f+g, fg, f/g\) etc.. are naturally defined.</p>
+<h4 id="higher-order-differentials">Higher order differentials</h4>
+<p>These are defined by \(D^k(x) = D(D^{k-1}(x))\) \(: \forall k &gt; 1, k \in N\).</p>
+<p>Other notations include: \(\frac{d^{k}f(x)}{dx^k}, f^{(k)}(x)\).</p>
+<h3 id="inverse">Inverse</h3>
+<p>Directly from the definition, \(D(f^{-1}) = \frac{1}{D(f)}\).</p>
+<h3 id="linearity">Linearity</h3>
+<p>\(D(f + g) = D(f) + D(g)\). This follows from the definition of the differential function.</p>
+<p>Hence, the differential operator \(D()\) is a linear map between these vector spaces. It is a matrix.</p>
+<h3 id="other-properties">Other properties</h3>
+<p>If \(f, g: R \to R\) differentiable at a certain point \(x\), using :
+\(D(fg) = f D(g) + D(f)g\). This follows from the definition of the differential function. Similarly, \(D(f/g) = D(f)g - fD(g))/g^2\).</p>
+<h3 id="composition-chain-rule">Composition (chain rule)</h3>
+<p>Suppose \(g, h\) are functions. \(D(g(h)) = D(h)D_h(g)\), where \(D_h(g)\) is the differential function of \(g\) evaluated at \(h(x)\). This is proved using linear approximations \(f(x + \change x) = f(x) + f&rsquo;(x)\change x\) and the definition of \(D(f)\).</p>
+<h3 id="parametrically-defined-functions">Parametrically defined functions</h3>
+<p>Suppose \(y = f(t)\) and \(x = g(t)\). Then, \(\frac{dy}{dx} = \frac{f&rsquo;(t)}{g&rsquo;(t)}\); as \(y = f(g^{-1}(x))\).</p>
+<h2 id="differentiation">Differentiation</h2>
+<p>Differentiation is the procedure of evaluating the differential operator for a certain function.</p>
+<h3 id="differentiation-tricks">Differentiation tricks</h3>
+<p>\(y=(f(x)^{g(x)})'\): take log on both sides, differentiate. Chain rule.</p>
+<h3 id="differentials-of-important-functions">Differentials of important functions</h3>
+<p>Ab initio differentiation of sin x, cos x.</p>
+<h4 id="differentiation-of-powers-and-exponents">Differentiation of powers and exponents</h4>
+<p>\(x^{n} :n \in N\) can be derived from the definition. Thus, using the expansion/ definition of \(e^{x}\), \(D(e^{x})(x) = e^{x}\).</p>
+<p>\(\forall n\in R: \der x^{n} = \der e^{n\ln x} = nx^{n-1}\).</p>
+<h2 id="other-properties-1">Other properties</h2>
+<h3 id="geometry">Geometry</h3>
+<p>Geometry is described for the case of general functionals in the vector spaces survey.</p>
+<h3 id="connection-with-extrema">Connection with extrema</h3>
+<p>If \(f\) differentiable, \(f&rsquo;\) is \(0\) here (minimum / maximum singularity). See optimization ref.</p>
+<h3 id="effect-of-uniform-convergence">Effect of uniform convergence</h3>
+<p>Take \(f_{n}\) on \([a, b]\), \(f_{n} \to f\) uniformly.</p>
+<p>\(f_{n} = \sin nx/\sqrt{n} \to 0\), but \(f&rsquo;(x) \notto 0\).</p>
+<p>If \(f_{n}'\) continuous, uniformly convergent, and if \(\exists c \in (a, b): f_{n}(c)\) converges (This condition ensures ye&rsquo;re not adding constants to \(f_{n}\) to keep \(f_{n}'\) convergent but \(f_{n}\) non convergent); then \(\exists f: lt_{n \to \infty} f_{n} = f, f\) is differentiable, \(\lim f_{n}&rsquo; = f&rsquo;\). Pf: Let \(\lim  f_{n}&rsquo; = g\); From fundamental theorem of calculus: \(\int_{c}^{x}f_{n}'(t)dt = f_{n}(x) - f_{n}(c)\); take limits on both sides, get: \(\int_{c}^{x} g(x)dt = f(x) -f(c)\); g continuous as \(f_{n}'\) continuous, uniformly convergent to g; so use fundamental theorem of calculus again.</p>
+<h2 id="polynomial-approximation-of-f">Polynomial approximation of f</h2>
+<h3 id="fx-mean-change-and-the-gradient">f(x): Mean change and the gradient</h3>
+<h4 id="interior-extremum-existance">Interior extremum existance</h4>
+<p>(Rolle) If \(f\) is continuous and \<br>
+differentiable in \([x_{1}, x_{2}], f(x_{1}) = f(x_{2}) = 0, \exists c \in (x_{1}, x_{2}): f&rsquo;(c) =0\).</p>
+<p>Easy to make a visual argument.</p>
+<!-- raw HTML omitted -->
+<h4 id="mean-value-theorem">Mean value theorem</h4>
+<p>If \(f\) is continuous and differentiable in \<br>
+\([x_{1}, x_{2}], \exists c \in (x_{1}, x_{2}): f&rsquo;(c) = \frac{f(x_{1})- f(x_{2})}{x_{1} - x_{2}}\). Easy to visualize. For proof, see the generalization to two functions below.</p>
+<p>+++(Thence, linear approximation to \(f\)!)+++</p>
+<h4 id="relative-to-another-function">Relative to another function</h4>
+<p>If \(f, g\) continuous and differentiable: \((f(b) - f(a)) g&rsquo;(x) = (g(b) - g(a)) f&rsquo;(x)\): Make new function, apply Rolle. Aka Cauchy&rsquo;s mean value theorem.</p>
+<!-- raw HTML omitted -->
+<h4 id="definite-integral-view-and-the-mean">Definite integral view and the mean</h4>
+<p>\(\int_{[a, b]} f&rsquo;(x) dx = f(b) - f(a) = f&rsquo;(c) (b-a)\) for some \(c \in [a, b]\). This can be extended to integration \(\int_{[a, b]} f&rsquo;(x) dg(x)\) wrt another function \(g(x)\) using the mean value theorem relative to another function.</p>
+<p>As integration can be viewed as an extension of summation, \(\frac{\int_{[a, b]} f&rsquo;(x) dx}{(b-a)} = f&rsquo;(c)\) can be viewed as the mean of \(f&rsquo;(x)\).</p>
+<h3 id="polynomial-approximation">Polynomial approximation</h3>
+<p>Aka Taylor theorem. \(P(a)\dfn \sum_{k=0}^{n-1}f^{(k)}(a) (b-a)^{k}/k!\); then \(f(b) = P(a) + R\), where \(R = f^{(n)}(c)(b-a)^{n}/n! = \int_{[a, b]} f^{(n)}(y)(b-y)^{n-1}/(n-1)! dy\) for some \(c \in [a, b]\).</p>
+<p>Can then bound error term by bounding \(f^{(n)}(c)\).</p>
+<p>\pf{We want to find \(f(b) - P(a)\). Note that \(P(b) = f(b)\), and \(P&rsquo;(x) = \sum_{k \geq 0} (- f^{(k)}(x)/((k-1)!) + f^{(k+1)}(x)(b-x)^{k}/(k!)) = f^{(n)}(x) (b-x)^{n-1}/(n-1)!\): note how P was cleverly defined around \(b\) rather than \(a\) to let this happen.</p>
+<p>From mean value theorem wrt function \(g\), we get \(f(b) - P(a) = P(b) - P(a) = \frac{f^{(n)}(c) (b-c)^{n-1}/(n-1)!}{g&rsquo;(c)}(g(b) - g(a))\). Then, using alternatively \(g(x) = (b-x)^{n}\) and \(g(x) = \int_{[a, x]} f^{(n)}(y)(b-y)^{n-1}dy\), we get the stated remainders.}</p>
+<h3 id="associated-series">Associated series</h3>
+<p>In Pf, note that, in general, \(c_i\) getting closer and closer to \(a\) as \(n\) increases; but we cannot be sure about it: for all we know, all \(c_i\) may be very close to \(b\).</p>
+<p>The polynomial approximation series, aka Taylor series, is the polynomial approximation \(P(x)\) as the degree \(n \to \inf\).</p>
+<p>McLaurin series: Taylor series about 0.</p>
+<h3 id="importance">Importance</h3>
+<p>Polynomial approximation of functions described above is very important in analyzing the solutions to many problems. This is because one can use the nth degree approximation and upper bounds on \(|f^{(n)}(x)|\) to get easy to analyze upper and lower bounds on \(f(x)\).</p>
+<p>For example, this is used to prove that solutions to certain optimization problems which arise in doing maximum likelihood estimation have desirable properties. Also, several optimization algorithms work by minimizing the polynomial (quadratic in the case of Newton&rsquo;s method) approximation to \(f(x)\), and this analysis is naturally used there.</p>
+<h2 id="extensions">Extensions</h2>
+<p>Can&rsquo;t easily extend to general metric spaces by using a distance function \(d()\): rates of change won&rsquo;t be negative.</p>
+<h3 id="extension-to-functionals">Extension to functionals</h3>
+<p>See vector spaces ref.</p>
+
+  </div>
+</article>
+
+
+
+
+
+
+
+<aside class="card border" id="section-tree-item-">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="#ZgotmplZ">Differential </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-" role="button" aria-expanded="false" aria-controls="section-tree-item-body-" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-" class="card-body p-0 collapse">
+        
+        <li>draft: false</li>
+        
+        <li>iscjklanguage: false</li>
+        
+        <li>title: Differential</li>
+        
+    </nav>
+</aside>
+
+
+      </main>
+    </div>
+    <footer class="bg-yellow  p-1" role="contentinfo">
+  <div id="disqus_thread"></div>
+  <div id="div_footer_bar" class="container-fluid d-flex justify-content-between">
+    <a class="btn btn-secondary" href="https://github.com/vvasuki/notes/issues/new" >
+      प्रतिस्पन्दः
+    </a>
+    <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    <div class="btn small border">
+      Built on 2020 Nov 22 10:54:55 UTC. (<a href="http://google.com/search?q=10%3a54%3a55%20UTC to IST">IST</a>)
+    </div>
+  <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
+  </ul>
+  </div>
+</footer>
+
+  </body>
+  <script type='text/javascript'>
+    
+    
+    
+    module_main.default.onDocumentReadyTasks();
+  </script>
+</html>
