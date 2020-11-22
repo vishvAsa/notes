@@ -29,3 +29,4 @@ title = "Steel"
 
 ## Galvanized Iron
 - Galvanized steel has zinc layer on the surface level, which when there is scratch, it tends to corrode.
+- GI pipes - zinc layer may leach lead.
