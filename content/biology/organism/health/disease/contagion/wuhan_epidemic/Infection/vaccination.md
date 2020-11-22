@@ -7,7 +7,7 @@ title = "Vaccination"
 - Flare-up possibility: The antibodies the vaccine elicits will have virus neutralizing capabilities and that is what needed. But there are other non neutralizing antibodies that gets produced that can flare up the disease. Called ADE (antibody dependent enhancement) has been observed in Dengue and other viral infections.
 
 ## Effectiveness duration
-- T cell response following even mild and asymptomatic infection can last upto 6 months.
+- T cell response following even mild and asymptomatic infection can last upto 6 months. See reinfection page for details. 
 - What the duration of immunity is for a given COVID-19 vaccine will only be resolved once community-wide vaccination programmes progress. Phase 3 trials will tell us about efficacy and safety, but well designed phase 4 trials are essential based on representative and large numbers of those vaccinated and follow up over time.
 
 ## Trials as of 2020-08
