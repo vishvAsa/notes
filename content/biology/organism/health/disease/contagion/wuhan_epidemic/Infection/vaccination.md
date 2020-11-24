@@ -11,8 +11,8 @@ title = "Vaccination"
 - What the duration of immunity is for a given COVID-19 vaccine will only be resolved once community-wide vaccination programmes progress. Phase 3 trials will tell us about efficacy and safety, but well designed phase 4 trials are essential based on representative and large numbers of those vaccinated and follow up over time.
 
 ## Trials as of 2020-08
-- Trackers - [WaPo](https://www.washingtonpost.com/graphics/2020/health/covid-vaccine-update-coronavirus)
 - FDA standards - "If a particular vaccine doesn't demonstrate a minimum of 50 percent efficacy, it will not be approved."
+- Oxford vaccine is effective by 70.4% and by combining 2 doses,this gets to 90%
 
 ## Approaches
 ### Foiling Spike protein
