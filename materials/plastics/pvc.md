@@ -14,7 +14,9 @@ title = "PVC"
 - it is brittle and it can't withstand very high temperatures like copper can
 
 ### Vendors
-- Ashirvad - no mention of being lead-free online. FlowGuard CPVC water pipe is approved for potable water applications and holds an NSF 61 Annex G certification. NSF/ANSI 61 verifies the weighted average lead content within the piping material and that can be extracted out of the material is less than 0.25%.
+- Ashirvad - no mention of being lead-free online.
+  - Their head of "Marketing: Demand Generation" said over phone that their raw material does not use Lead.
+  - FlowGuard CPVC water pipe is approved for potable water applications and holds an NSF 61 Annex G certification. NSF/ANSI 61 verifies the weighted average lead content within the piping material and that can be extracted out of the material is less than 0.25%. 
 - Finolex cpvc claims to be lead free [here](https://www.finolexpipes.com/features-benefits-cpvc-pipes-fittings/).
 
 
