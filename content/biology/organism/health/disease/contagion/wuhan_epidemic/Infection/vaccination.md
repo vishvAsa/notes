@@ -12,7 +12,12 @@ title = "Vaccination"
 
 ## Trials as of 2020-08
 - FDA standards - "If a particular vaccine doesn't demonstrate a minimum of 50 percent efficacy, it will not be approved."
-- Oxford vaccine is effective by 70.4% and by combining 2 doses,this gets to 90%
+- Oxford vaccine
+  - If you use half the dose and then a month later,give full dose,it protected in 90% volunteers. If you used the full dose first followed by full dose a month later,the efficacy was just around 62%.
+  -  it is based on adenovirus packaged with viral S protein that the body produces antibodies against viral receptor binding antibodies.
+- COVAXIN inactivated viral vaccine
+  
+
 
 ## Approaches
 ### Foiling Spike protein
