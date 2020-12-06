@@ -10,6 +10,9 @@ title: Principles
 
 - [Paidea](https://en.wikipedia.org/wiki/Paideia) 
 
+### भावप्राधान्यम्
+- Beyond (so-called) education → innate ability → beyond that *vision and drive*. Anything extraordinary I've done is more because of vision and drive than language, "education" etc...
+
 ## विषयचयने
 - "We are moving as a society from content to competencies. It is not just what you know, but what you can do with what you know."
 - "The worst we can do to those children is put them in online courses which is where our education system is heading now. Online courses are someone else’s’ agenda (usually the government) of what they think learners need to know. Learners must obey instructions because the learning is not their own."
@@ -79,3 +82,6 @@ title: Principles
 - वक्रता यथा सद्भावपूर्णताचोदने वयस्यप्रभावः, काव्यानि, अनुष्ठानञ्च (Personality shaping would have to be done in such an indirect way that the subject would not realize exactly how he is being shaped until it's just a deep essential part of who he is.)
 - सम्बद्ध-चर्चाः
     - randy-pausch head-fake [SM](https://groups.google.com/forum/#!topic/sadaswada/gdNblE48JhI)\]
+
+### भाषाचितिः
+- A hindi or kn medium kid in an English apartheid world begins to wrongly think of himself as something lower. Leader dead, slave generated (maybe). Someone who could be a shivAjI ends up being a glorified peon.
