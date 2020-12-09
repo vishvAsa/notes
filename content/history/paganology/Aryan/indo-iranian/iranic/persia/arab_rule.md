@@ -3,7 +3,7 @@ title = "Arab rule"
 +++
 
 - For religious background, see ["betrayal to islam" page](../religion/5_betrayal_to_islam/).
-- Forced conversions: see [here](../../main/rivals/abe-disease/islam/intro/).
+- Forced conversions.
 
 ## Conquest
 - "The Arab conquerors must have been astounded at how quickly they were able to overthrow the last Sasanian king. Yazdgard III (r. 632–651) had to abandon Ctesiphon, near the modern site of Baghdad, and fled for his life into the Asiatic steppe. But he was intercepted and killed. His sons and a few surviving aristocrats managed to reach China, where the Tang emperor welcomed them to his court at Chang’an. There, a Sasanian court in exile lasted for almost 200 years, and a few abortive attempts at reconquering Iran were launched."

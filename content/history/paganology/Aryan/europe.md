@@ -20,7 +20,7 @@ Residual awareness of obliteration of the better pagan heritage
 
 ## Past
 
-- Preta-takeover described [here](../../main/rivals/abe-disease/zombie-cult/).
+- Preta-takeover described elsewhere.
 
 ### Lithuania
 
