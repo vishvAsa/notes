@@ -1,0 +1,8 @@
++++
+title = "Manipur"
++++
+
+- "An ancient text reveals the migration of a  Brahman priest called Subinarayan from the west Tripura and his marriage with a  native woman, Haokei Chanu Thoinu. ... Almost all the Brahman priests, with the exception of a few of them, had migrated to Manipur without spouses. They married the local women generally from the lower social strata. ... They accepted Meiteilon (Manipuri language) as mother tongue. They were assigned varied yumnaks (lineages) based on their places of origin25 , professions, ways of life and so on."
+- "Origins of Manipuri Brahmin (called Bamon in Manipuri): Adhikarimayum : WB, Sijagurumayum: Gujarat, Leihaothabam: Kanpur, Takhenchangbam: Sylhet (now in Bangladesh), Purailatpam: UP. They came during Kyamba's reign (2nd half of 15th century)" Source: RK Jhaljit, 1992
+- "Brahmin immigration to Manipur in late 17th century: 1. Guruaribam: Puri 2. Laimayum: Tripura 3. Laipubam: Odisha 4. Hangoibam: Mathura 5. Hazarimayum: WB 6. Manoharmayum: WB 7. Mathurabasimayum: Mathura 8. Laimayumanoubam: Tripura 9. Choudhurimayum: Utkal " Source: RK Jhaljit.
+- "... Another wave of Brahmins a. Aribam b. Samurailatpam c. Sanglakpam d. Hidangmayum e. Kongbrailatpam f. Thongratabam came during the 17th century in Khagemba’s time. ... Another wave of Brahmin came to Manipuri during Paikhomba’s reign in 2nd half of 17th century from Shrimayum: Gujarat, Bachaspatimayum: Banaras, Gurumayum Angom Lailatpam: Vrindavan, Brahmacharimayum: Prayag."
