@@ -1,0 +1,13 @@
++++
+title = "2 Spread and stasis"
++++
+
+## Continued prosyletizing tendencies
+
+Thus, Zoroastrianism expanded by conversion of existing priesthoods in addition to chieftains – just as Islam would later do in Persia. Further, with time, this confederacy expanded and began to convert people of not just other clans but other ‘ethnicities’. It was a strongly proselytizing faith, and also an imperialistic one. Eventually, a particular confederation clicked and they rapidly expanded and created a new empire in the Middle East and C. Asia. Their policy was to offer the faith to conquered peoples, but generally not to force it upon them. However, temples specifically of the Daevas in the Middle East \*were\* destroyed. Other cults could continue to practice safely, as dhimmis of a sort. Other peoples near the Caucasus such as some Armenians, Ossetians, etc were also converted, and near-Hellenic peoples as well.
+
+## Strengthening of jAti exclusivity during distress from Greek invasion
+
+The first great setback was the Macedonian invasion by Alexander. Massive libraries and centers of knowledge were destroyed. After the invasion, the Greeks wanted to blend the two civilizations, and even adopt and patronize the local Zoroastrian priesthoods. But now, after intense humiliation including their daughters’ arranged marriage to Greek generals and other events, the Iranian nobility was unwilling to acknowledge that this new Hellenic nobility could also blend in with their civilization. They began to cite the lack of genetic qualification, since the positions of the “7 chosen clans” of the Avesta were already taken! The dialogue via books written by Zoroastrian priests during those centuries of Seleucid rule is interesting to read. They even cited the bad breath of Hellenic princesses as a sign of inferiority – possibly referring to dietary habits. It is unknown how far the Seleucids were willing to acculturate as they wooed the Persians, but clearly the entrenched priesthood and the Iranic aristocracy were behaving like hedgehogs.
+
+During this period, they created a strict birth-based qualification by divine right – whereas during the great Achaemenian times, it was enough to be a 3-generational progeny of “Arya”. The Seleucids were finally driven off the Iranian plateau by the Ashkanis (Parthians). Having liberated their homeland and regained political sovereignty, they failed to change the rules and social modalities. An entrenched priest-king nexus was definitely alienated from the masses by that time. Instead of creating more liberal modalities for an infusion of new blood and fresh talent, they actually made it even more severe.
