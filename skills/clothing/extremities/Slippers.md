@@ -4,9 +4,9 @@ title = "Slippers"
 +++
 
 ## Eco-friendliness
-- Choices: Rubber, jute, leather. 
+- Choices: Rubber, jute, leather, rarely wood. 
 - But, many rubber/ jute slippers come with plastic straps and soles - not biodegradable.
-
+- Best choice considering what's available commonly and cheaply: Slippers with rubber soles (oft with polyurathene covering) and jute straps. Seems that polyurathene is sort-of biodegradable (40 yrs).
 
 ## Comparison with shoes
 
