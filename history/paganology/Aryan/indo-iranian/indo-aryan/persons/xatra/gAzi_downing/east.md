@@ -1,5 +1,5 @@
 ---
-title: Anti-ghazi east
+title: East
 ---
 
 ## ananga-bhImadeva III Chodaganga of kalinga
