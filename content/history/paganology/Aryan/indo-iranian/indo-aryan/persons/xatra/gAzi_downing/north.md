@@ -1,5 +1,5 @@
 ---
-title: Anti-ghazis (north)
+title: North
 ---
 
 
