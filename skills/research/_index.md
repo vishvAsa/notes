@@ -3,7 +3,7 @@ title = "+Research"
 +++
 
 ## Motivations
-- Compare with [motivation for kAvya](../../../kAvya/shAstram/preraNAni). 
+- Compare with [motivation for kAvya](../../../kAvyam/shAstram/preraNAni). 
 - It's a respectable vocation.
 - Appreciation of the best minds of the field/ tradition (not necessarily contemporary).
 - Better personal clarity. This is necessary and sufficient for acquiring background knowledge, but not for deep research (see "Practicing western science" [article](meta_articles/practicing_western_science/)). 
