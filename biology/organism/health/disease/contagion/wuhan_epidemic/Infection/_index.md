@@ -12,4 +12,17 @@ title = "+Infection"
 Rapid but crude tests - "At as low as $1 per test, (rapid paper) tests could be administered at the entrance to schools, and some could be taken at home. To control the virus and help reopen schools, we need 20 million tests per day, so that people can tell if they are contagious before they infect others."
 
 ## Strain difference
-Some strains are much more infectious. Eg. one from England [here](https://twitter.com/blog_supplement/status/1340755077594816518).
+Some strains are much more infectious. 
+
+### G614
+- Round about Feb,new variant emerged in the Europe that had a mutation to make it spread faster.
+
+### VUI-202012/01 
+- In September,it first appeared from England
+- Slight change in highly variable protein region [here](https://twitter.com/blog_supplement/status/1340755077594816518).
+- By Nov it accounted for 28% of the virus moving around
+- By Dec 9th,62% of the virus was this variant in London.
+- not yet been reported to be any more lethal
+
+### South Africa 501.V2
+- spreading faster,tends to have high viral load and possibly more severe to young adults.

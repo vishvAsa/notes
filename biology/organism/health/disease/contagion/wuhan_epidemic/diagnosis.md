@@ -19,6 +19,62 @@ Infection can be 2-14 days before symptoms appear.
 - 2020 Aug - Devanahalli, BLR. Patient and wife reported fever which came and went for about 4 days. Then, pulse oxymeter showed 92% saturation in patient. He tested positive.
 - When on oxygen, saturation level is 95, but when he goes to toilet etc.., it comes down to 80.
 
+### Big list
+Respiratory symptoms 
+
+- Breathlessness 
+- Cough 
+
+Cardiovascular symptoms 
+
+- Chest tightness 
+- Chest pain 
+- Palpitations 
+
+Generalised symptoms 
+
+- Fatigue 
+- Fever 
+- Pain 
+
+Neurological symptoms 
+
+- Cognitive impairment ('brain fog', loss of concentration or memory issues) 
+- Headache 
+- Sleep disturbance 
+- Peripheral neuropathy symptoms (pins and needles and numbness) 
+- Dizziness 
+- Delirium (in older populations) 
+
+Gastrointestinal symptoms 
+
+- Abdominal pain 
+- Nausea 
+- Diarrhoea 
+- Anorexia and reduced appetite (in older populations) 
+
+Musculoskeletal symptoms 
+
+- Joint pain 
+- Muscle pain 
+
+Psychological/psychiatric symptoms 
+
+- Symptoms of depression 
+- Symptoms of anxiety 
+
+Ear, nose and throat symptoms 
+
+- Tinnitus 
+- Earache 
+- Sore throat 
+- Dizziness 
+- Loss of taste and/or smell 
+
+Dermatological 
+
+- Skin rashes
+
 ## Tests
 ### RNA detection
 - "The current RT-PCR has a sensitivity at best of 70 percent with a turn around time of 120 minutes."

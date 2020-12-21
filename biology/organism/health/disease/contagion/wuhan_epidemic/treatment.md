@@ -26,6 +26,18 @@ title = "Treatment"
 ### Very critical cases
 - Extracorporeal membrane oxygenation (ECMO) is a final resort for critically ill COVID patients where in both the lungs and heart are given rest for the intended recovery using machines to do what heart and lungs do in our body. An international registry involving 213 hospitals across 36 countries has shown 90 day mortality of patients put on ECMO is about 38%
 
+
+## Upcoming drugs
+- Bacricitinib which has proven more benefit when combined with Remdesivir.
+- Tociluzumab. 2 studies declared it does, but the most recent one published at NEJM journal feels it doesn't help.
+
+## Failed drugs
+- Hydroxychloroquine
+- Azithromycin the antibiotic was thought to have a role. The RECOVERY trial from Oxford has shown no benefit.
+- Itolizumab
+- Remdesvir in isolation. "The manufacturer Gilead was aware of WHO sponsored Solidarity trial showing no clear benefit but struck the deal with EU just before the trial results were made public."
+- "Fabi flu is useless drug given only in India with absolutely no benefit" - Praveen
+
 ## Antibody administration
 ### Monoclonal antibodies
 -  One antibody comes from a human who had recovered from a SARS-CoV-2 infection; a B cell that makes the antibody was harvested from the person’s blood and the genes for the immune protein isolated and copied.
@@ -35,6 +47,7 @@ title = "Treatment"
 #### Convalescent plasma therapy
 - Donald Trump underwent this. He received was 8gm of monoclonal antibodies - very expensive right now.
 - Details [here](https://www.mayoclinic.org/tests-procedures/convalescent-plasma-therapy/about/pac-20486440). Plasma from a person who has recently recovered from the disease (within 28 days) is given to the patient.
+- Plasma therapy is fading away,instead monoclonal antibodies are showing more promise.
 
 ### Other peptides
 - Fucoidans in seaweed act as a decoy. "Recent research by Rensellear Polytechnic Institute and Prof Kou Hayakawa of Japan confirm this. Seaweed based spirulina chikki (cftri chikki made by aquaseal technologies) was administered to the first batch of covid-19 patients at Mysore with astounding success."

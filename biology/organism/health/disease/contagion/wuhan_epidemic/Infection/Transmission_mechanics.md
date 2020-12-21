@@ -25,3 +25,5 @@ Entry of the virus which happens through binding of Spike (S) protein of the vir
 ### Hand and face
 - Virus lasts 9 hours on skin compared to 1.8 hours for Influenza.
 
+### Surface transmission
+- Seems to be a relatively lower risk
