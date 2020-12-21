@@ -44,6 +44,8 @@ title = "Effects"
 - 26% of those admitted to ICU from COVID had invasive fungal infections.
 - Auto immune disorders like guillan barre.
 
+## Genetic susceptibility
+- Neanderthal genetic inheritence.
 
 ## Comorbidity
 Severe disease can result in people with diabetes, obesity, chronic breathing difficulty (like asthma), compromised immune system.
