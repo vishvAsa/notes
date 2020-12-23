@@ -7,3 +7,4 @@ Many scholars are known only by their magnificent work, for others, we have more
 - Poets and writers in saMskRta and local languages.
 - Astronomers, astrologers, mathematicians.
 - Biologists, medicine-men, surgeons.  
+
