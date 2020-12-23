@@ -1,0 +1,5 @@
++++
+title = "vikramAditya 6th"
+
++++
+the karNATa chAlukya, who attempted to unify India, whose forces repelled muslim forces in punjAb, and whose accomplished and cultured generals established ruling dynasties in nepALa, mithilA and vanga. He came to power as  the lord of the vengi branch after revolting with feudatory help against his elder brother. dealt with the chAlukya civil war, subdued :  Kadambas of Goa, the Shilaharas, the Seunas and the Pandyas of Uchangi, Chaulukyas of Gujarat and Chedi of Ratnapur and the hosyaLa-s. He erected a vivtory pillar in dhAra. He patronized the kAshmIra-historian bilhaNa, and the author of mitAkShara texts. He was father of someshvara 3 the author of mAnasollasa, who faced enemies at multiple fronts. \[[MT-KA](https://manasataramgini.wordpress.com/2008/05/19/the-karnata-s-in-tirabhukti-and-nepal/), [Wiki](https://en.wikipedia.org/wiki/Vikramaditya_VI)\] 
