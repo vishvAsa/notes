@@ -1,5 +1,5 @@
 ---
-title: +वंशाः 
+title: +ऋषिवंशाः 
 ---
 
 आवलिर् [अत्र](https://ashwathavruksha.blogspot.com/2017/11/gotra-pravarocchar-talika_28.html)।

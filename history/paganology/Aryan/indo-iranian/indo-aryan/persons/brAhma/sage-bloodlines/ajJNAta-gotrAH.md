@@ -6,6 +6,9 @@ unicode_script = "devanagari"
 ## bharata-muni
 author of nATyashAstra, who explained bhAvas and rasas.
 
+## udayana
+logician,  shored up the vaidika dharma against the enticements of bauddhas.
+
 ## rAmAnanda
 social reformer, founder of a fair monastic order, guru of kabIr.  
 
@@ -84,22 +87,8 @@ compiler of a great Marathi encyclopedia ([IF](http://indiafacts.co.in/historica
 ## tirumalai kRShNamAchArya
 [tirumalai kRShNamAchArya](http://en.wikipedia.org/wiki/Tirumalai_Krishnamacharya), who brought yOga to the plains, saved the vEdas. \[A [bauddhika](https://docs.google.com/document/d/1CqdyvUgw7u1pEavDL37a8sfbSCiI8IfvkQa3EwfwnwI/edit#) I deliverd for the sunnyvale shAkhA.\]
 
-## rAmabhadrAchArya
-jagadguru rAmAnandAchArya, blind grammarian and poet on the tip of whose tongue sarasvatI resides.
-
-## Lokesh Chandra
-son of Raghu-Vira, a great scholar versed in 20 languages, who understood and elucidated the hindu-buddhist contemplative polycentric culture so clearly, delving into nuances (mUrti - manifest of the unmanifest vs icon ?decorative?) clear distinction from semitic monotheisms. \[[CV](http://www.sanchiuniv.org.in/pdf/Lokesh%20Chandra%20CV.pdf), [interview](https://www.youtube.com/watch?v=7_t-gC73AtI&feature=youtu.be)\]
-
-## Pandit Narendra Dev Shastri
-a Sanskrit scholar originally from Lahore, student of raghu-vIra, aided the thought-consolidation balinese hinduism.
-    - "come to Bali by chance and that, to his surprise, he had discovered that the Balinese were Hindus like himself, even though they had for-gotten most of what Hinduism was about, a result of being kept in ignorance of religious matters by their priests. Thus he decided to bring the Balinese back in to the fold of Hinduism, for fear that if they persisted along their natural inclination,which is animism, they would become an easy prey to proselytizing, not so much by Muslims but by Christians—and worse, communists’." (note 24 in [PTS14](https://www.academia.edu/11567914/Puja_Tri_Sandhy%C4%81_Indian_Mantras_Recomposed_and_Standardized_in_Bali))
-    - author of 1. Dasa Sila Agama Bali, 2. Weda Parikrama, 3. Inti Sari Agama Hindu, 4. Sedjarah Agama Hindu, 5. Dharmopadesha (Pengaran Siwa-Budda) etc.
-
-## cha-mu-kRShNa-shAstrI
-the founder of saMskRta-bhAratI.  
-
-## Premgopal goswami
-of navadvipa/agartala, who continues to visit bAngladesha and inspire hindus despite being hacked there.
+## Balashastri Jambhekar
+(1812-1846), had mastered several subjects like physics, chemistry, astronomy, botany, geology, geography, history, mathematics, psychology;  grasped nearly one dozen languages like Sanskrit, Hindi, Bengali, Kannada, Gujarati, Telagu, English, Greek, Latin, French and Persian; in his early 20s; published several school books on calculus, geometry & geography, started paper Digdarshan which carried articles on physics, chemistry, psychology, palaeogeography, wrote a 6 volume series "Jyotissastra", dissuaded "superstition". \[[TW](https://mobile.twitter.com/ColonelGerard/status/807703284395884544)\]
 
 
 ## paNDita viShNu pAluskar
@@ -124,8 +113,26 @@ the advaitin yatI, known as rudranArAyaNa before he left gRhasthAshrama at 19 af
 chitpAvana, author of the stunning, expansive "History of the dharmashAstras", whose [autobiography](http://dadegaonkar.blogspot.com/2007/09/p-v-kane-notes-for-biography.html) is in its epilogue.
   - On his motivation via his son at [prexA](https://www.prekshaa.in/reminiscences-pandurang-vaman-kane-part3): "It turns out that long before commencing the writing of the volumes, PVK had a keen interest in all subjects related to Indian culture. He also had a deep understanding of the dharma-shastras and matters related to Indian heritage. He was a master of the Sanskrit language and of his own interest, he had read the Vedas, Upaniṣads, the Epics, the Purāṇas, and other traditional works. But time and again, when PVK would come across the writing of some Western scholar or soi-disant Indologist on the subject of the dharma-śāstra that showed Indian culture in bad light, and his blood would boil. His anger would know no bounds when he came across writers who passed loose comments on the dharma-śāstras or concluded that the Indian mind was uncivilized and nascent. At the dining table, he would express his anguish, “What does this fellow know about India and its heritage to comment this way? Where on earth does he find all these things in our dharma-śāstras? What were people in Europe and the Americas doing when we already had a flourishing civilization in India?” Such constant episodes convinced him that he had to write something to shut the mouths of Western scholars who spewed absolute drivel about our ancient works. He made up his mind. “It is my duty to write this. I shall write about the dharma-śāstra in greater detail so that it will put all confusion to rest.” Doubtless he ended up becoming successful. A needle prick in the beginning sufficed to put the great mind on track to undertake the herculean task of compiling all the dharma-śāstras and its commentaries right from Parāśara, Manu, and Yājñavalkya all the way until the day on which he wrote the specific chapter. This included the judgments passed by Indian courts and the Privy Council."
 
+## rAmabhadrAchArya
+jagadguru rAmAnandAchArya, blind grammarian and poet on the tip of whose tongue sarasvatI resides.
+
 ## raghu vIra
 father of scholar lokesha chandra, an outstanding scholar himself, who ensured safety of his family and killed many muslim assailants before escaping to India from TSP \[[KV16](https://agnimaan.wordpress.com/2016/05/23/an-expoit-of-raghuvira/)\].
 
 ## Devanahalli Venkataramanayya Gundappa
 (1887-1975) - a journalist, poet, sensitive rasika of many art-forms and people, philosopher, institution builder, social commentator, social worker, and activist. Consulted with major divAn-s of mysUru state - including vishveshvarayya. Misled initially to favor dumbocracy, realized his mistake only later.
+
+## Lokesh Chandra
+son of Raghu-Vira, a great scholar versed in 20 languages, who understood and elucidated the hindu-buddhist contemplative polycentric culture so clearly, delving into nuances (mUrti - manifest of the unmanifest vs icon ?decorative?) clear distinction from semitic monotheisms. \[[CV](http://www.sanchiuniv.org.in/pdf/Lokesh%20Chandra%20CV.pdf), [interview](https://www.youtube.com/watch?v=7_t-gC73AtI&feature=youtu.be)\]
+
+## Pandit Narendra Dev Shastri
+a Sanskrit scholar originally from Lahore, student of raghu-vIra, aided the thought-consolidation balinese hinduism.
+    - "come to Bali by chance and that, to his surprise, he had discovered that the Balinese were Hindus like himself, even though they had for-gotten most of what Hinduism was about, a result of being kept in ignorance of religious matters by their priests. Thus he decided to bring the Balinese back in to the fold of Hinduism, for fear that if they persisted along their natural inclination,which is animism, they would become an easy prey to proselytizing, not so much by Muslims but by Christians—and worse, communists’." (note 24 in [PTS14](https://www.academia.edu/11567914/Puja_Tri_Sandhy%C4%81_Indian_Mantras_Recomposed_and_Standardized_in_Bali))
+    - author of 1. Dasa Sila Agama Bali, 2. Weda Parikrama, 3. Inti Sari Agama Hindu, 4. Sedjarah Agama Hindu, 5. Dharmopadesha (Pengaran Siwa-Budda) etc.
+
+## cha-mu-kRShNa-shAstrI
+the founder of saMskRta-bhAratI.  
+
+## Premgopal goswami
+of navadvipa/agartala, who continues to visit bAngladesha and inspire hindus despite being hacked there.
+
