@@ -1,5 +1,5 @@
 +++
-title = "Middle"
+title = "2 Middle"
 
 +++
 ## devarAya 2
