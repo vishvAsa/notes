@@ -23,6 +23,7 @@ luminary of तॆङ्कलैसम्प्रदाय wrote many works in
 - genius who headed अमर्दकमठ at मध्यप्रदेश but eventually settled at चिदम्बर, TN. His क्रिय-क्रम-द्योतिका, an unmatched ritual manual, is still used at every major TN शिवालय. 
 
 ### पेश्वा-मन्त्रिणो भट्टवंशीयाः
+- एतेषां विवरणान्य् [अन्यत्र](../../../../../xatra/maratha/peshva-age/) दत्तानि।
 - बालाजी-विश्वनाथः
 - बाजिरावः बालाजी-विश्वनाथसुतः
   - जग द्वै उपजे ब्राह्मण, भृगु औ बाजीराव। उन ढाई रजपुतियां, इन ढाई तुरकाव॥
