@@ -15,39 +15,13 @@ social reformer, founder of a fair monastic order, guru of kabIr.
 ## tenAli rAma
 [tenAli rAma](http://en.wikipedia.org/wiki/Tenali_Ramakrishna)-kRShNa, clever jester at the court of kRSHNadEvarAya.
 
-## ettUr lakshmIkumAra tAtAchArya
-Raja guru of King Venkata I of Vijayanagara, established numerous Anna Chatrams, sponsored the marriage expenses of thousands of poor couples, earned the title kotikanyadanam,  veda-marga-pratisthapanacharya & Ubhayavedanta-sthapanacharya; author of works of high philosophy like the Sattvika Brahma Vidya Vilasa & bhakti poems like the Panduranga Mahatmya to Vittala of Pandharpur, set up schools for scholars & very ably managed temple funds.
 
-## vallabhAchArya
-great debator, fine poet.  
-
-## venkaTAdhvarin
-(1600s of the common era), as has [been said](http://manasataramgini.wordpress.com/2012/04/06/some-maxims-of-venkatadhvarin/)\- "a shrauta ritualist, keen observer of humanity, master poet, proponent of vishiShTAdvaita and shrIvaiShNava bigot".
-
-## samartha rAmadAsa
-bold spiritual and practical [inspirer](http://manasataramgini.wordpress.com/2004/05/23/sant-ramadas-letter-to-sambhaji/) of shivAji. (Letter to sambhAjI [KC](http://kalchiron.blogspot.com/2014/06/advice-by-ramdas-swamy-to-sambhaji.html).)  
 
 ## Brahmendra Swami
 the Guru of Shahu, of Bajirao, of Chimaji, of the Angres and thousands of the rank and file. The Swami had practiced severe austerities in his early life and developed wonderful Yogic powers, as of going into samadhic trance for a full month every year and living buried underground during that period, traveled far and wide, like Ramdas. He inspired the marATha-s to curb the siddis.
 
 ## nAgesha-bhaTTa
 who achieved great heights in vyAkaraNa (occasionally disagreeing with patanjali) despite a hunchback handicap.
-
-## shivAnanda
-as a representative of a [great clan of mantravAdin](http://manasataramgini.wordpress.com/2009/04/26/a-famous-clan-of-mantravadin-s/)-s, who assisted and were patronized by bundela-s and rAjA of bikAner, who produced works ranging from Ayurveda, grammar, nIti and tantra. 
-
-## nIlakaNTha dIxita
-sAmavedin bhAradvAja, whose insightful and brilliant mind shines through in works like kali-viDambana, minister of tirumala-nAyaka, who very respectfully acknowledged his uncle appayya's stationary earth error \[[TW](https://twitter.com/blog_supplement/status/878469240298381313)\].
-
-## tyAgarAja
-karNATaka-sangItakAra, who overcame great family opposition and produced his beautiful work.
-
-
-## ramaNa maharShi
-whose questioning ('nAn yAr?') brought stunning and lasting peace to many.
-
-## kAvyakaNTha gaNapati shAstrI
-great sage, composer in both vaidika and classical samskRta.
 
 ## naTTi venkaTa shAstrin
 the stammering savant, an excellent teacher and rAma-bhakta, organizing annual feasts with donations, who relied on dAna, a repository of brAhmaNya and akAnxA. \[[P17](http://prekshaa.in/natti-shastri-the-uncelebrated-life-of-the-stammering-guru-rama-coronation-dvg-kannada-sanskrit-telugu-vedic-education-frugal-living-piety-ramayana-jnapaka-chitrashale/#.Wd1GRnCDNhE)\]
@@ -57,10 +31,6 @@ a great mantravAdinI \[[MT](https://manasataramgini.wordpress.com/2011/07/23/the
 
 ## AshutoSh mukharjI
 ([W](https://en.wikipedia.org/wiki/Ashutosh_Mukherjee)) prolific scholar in mathematics ([MT1](https://twitter.com/blog_supplement/status/730244453324210177)), 5-time VC of Univ of Calcutta, made arrangements for postgraduate teaching and research in Bengali, Hindi, Pali and Sanskrit, recognized work of shrInivAsa rAmanujan, who never crossed the seas in respect for his monther's wishes.
-
-## shrInivAsa rAmAnujan
-great mathematician, with good grounding the shrIvaiShNava tradition, whose fecundity was inspired by the devI nAmakkAL, whose great memory was able to recite digits of numbers like pi as well as things like roots of Sanskrit words, ([W](http://blog.stephenwolfram.com/2016/04/who-was-ramanujan/)), who has inspired the likes of Ono([SA](http://www.scientificamerican.com/article/inspired-by-genius-how-a-mathematician-found-his-way/?WT.mc_id=SA_TW_MATH_NEWS)), whose works have continued to impact mathematics and its diverse applications 100 years after his passing ([YT](https://www.youtube.com/watch?time_continue=207&v=uhNGCn_3hmc) <\- Period depictions), whose experimentation/ intuitive approach to mathematics marked him as a poet/ seer rather than a problem solver.  
-
 
 ## bhaktivEkdAnta-svAmI
 [prabhupada](http://en.wikipedia.org/wiki/Prabhupada), who brought gauDIya bhakti-vEdAnta to the hippies.  
@@ -83,9 +53,6 @@ compiler of a great Marathi encyclopedia ([IF](http://indiafacts.co.in/historica
 
 ## BKS IyengAr
 [IyengAr](http://en.wikipedia.org/wiki/BKS_Iyengar), who took yOga-Asanas abroad, free thinking shishya of kRShNamAchArya, who shook off disease to gain health.
-
-## tirumalai kRShNamAchArya
-[tirumalai kRShNamAchArya](http://en.wikipedia.org/wiki/Tirumalai_Krishnamacharya), who brought yOga to the plains, saved the vEdas. \[A [bauddhika](https://docs.google.com/document/d/1CqdyvUgw7u1pEavDL37a8sfbSCiI8IfvkQa3EwfwnwI/edit#) I deliverd for the sunnyvale shAkhA.\]
 
 ## Balashastri Jambhekar
 (1812-1846), had mastered several subjects like physics, chemistry, astronomy, botany, geology, geography, history, mathematics, psychology;  grasped nearly one dozen languages like Sanskrit, Hindi, Bengali, Kannada, Gujarati, Telagu, English, Greek, Latin, French and Persian; in his early 20s; published several school books on calculus, geometry & geography, started paper Digdarshan which carried articles on physics, chemistry, psychology, palaeogeography, wrote a 6 volume series "Jyotissastra", dissuaded "superstition". \[[TW](https://mobile.twitter.com/ColonelGerard/status/807703284395884544)\]
@@ -113,17 +80,9 @@ the advaitin yatI, known as rudranArAyaNa before he left gRhasthAshrama at 19 af
 chitpAvana, author of the stunning, expansive "History of the dharmashAstras", whose [autobiography](http://dadegaonkar.blogspot.com/2007/09/p-v-kane-notes-for-biography.html) is in its epilogue.
   - On his motivation via his son at [prexA](https://www.prekshaa.in/reminiscences-pandurang-vaman-kane-part3): "It turns out that long before commencing the writing of the volumes, PVK had a keen interest in all subjects related to Indian culture. He also had a deep understanding of the dharma-shastras and matters related to Indian heritage. He was a master of the Sanskrit language and of his own interest, he had read the Vedas, Upaniṣads, the Epics, the Purāṇas, and other traditional works. But time and again, when PVK would come across the writing of some Western scholar or soi-disant Indologist on the subject of the dharma-śāstra that showed Indian culture in bad light, and his blood would boil. His anger would know no bounds when he came across writers who passed loose comments on the dharma-śāstras or concluded that the Indian mind was uncivilized and nascent. At the dining table, he would express his anguish, “What does this fellow know about India and its heritage to comment this way? Where on earth does he find all these things in our dharma-śāstras? What were people in Europe and the Americas doing when we already had a flourishing civilization in India?” Such constant episodes convinced him that he had to write something to shut the mouths of Western scholars who spewed absolute drivel about our ancient works. He made up his mind. “It is my duty to write this. I shall write about the dharma-śāstra in greater detail so that it will put all confusion to rest.” Doubtless he ended up becoming successful. A needle prick in the beginning sufficed to put the great mind on track to undertake the herculean task of compiling all the dharma-śāstras and its commentaries right from Parāśara, Manu, and Yājñavalkya all the way until the day on which he wrote the specific chapter. This included the judgments passed by Indian courts and the Privy Council."
 
-## rAmabhadrAchArya
-jagadguru rAmAnandAchArya, blind grammarian and poet on the tip of whose tongue sarasvatI resides.
-
-## raghu vIra
-father of scholar lokesha chandra, an outstanding scholar himself, who ensured safety of his family and killed many muslim assailants before escaping to India from TSP \[[KV16](https://agnimaan.wordpress.com/2016/05/23/an-expoit-of-raghuvira/)\].
 
 ## Devanahalli Venkataramanayya Gundappa
 (1887-1975) - a journalist, poet, sensitive rasika of many art-forms and people, philosopher, institution builder, social commentator, social worker, and activist. Consulted with major divAn-s of mysUru state - including vishveshvarayya. Misled initially to favor dumbocracy, realized his mistake only later.
-
-## Lokesh Chandra
-son of Raghu-Vira, a great scholar versed in 20 languages, who understood and elucidated the hindu-buddhist contemplative polycentric culture so clearly, delving into nuances (mUrti - manifest of the unmanifest vs icon ?decorative?) clear distinction from semitic monotheisms. \[[CV](http://www.sanchiuniv.org.in/pdf/Lokesh%20Chandra%20CV.pdf), [interview](https://www.youtube.com/watch?v=7_t-gC73AtI&feature=youtu.be)\]
 
 ## Pandit Narendra Dev Shastri
 a Sanskrit scholar originally from Lahore, student of raghu-vIra, aided the thought-consolidation balinese hinduism.

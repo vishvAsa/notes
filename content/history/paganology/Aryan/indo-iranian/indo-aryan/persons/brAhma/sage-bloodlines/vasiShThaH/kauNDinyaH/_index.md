@@ -31,3 +31,7 @@ luminary of तॆङ्कलैसम्प्रदाय wrote many works in
 - सदाशिवरावः, चिमाजीपुत्रः
 - विश्वासरावः, बाजिरावपौत्रः
 - माधवरावः, बाजिरावपौत्रः
+
+### काव्यकण्ठ-गणपति-शास्त्री
+kAvyakaNTha gaNapati shAstrI
+great sage, composer in both vaidika and classical samskRta.
