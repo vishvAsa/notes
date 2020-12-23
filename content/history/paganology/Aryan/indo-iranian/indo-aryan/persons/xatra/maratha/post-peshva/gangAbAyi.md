@@ -1,0 +1,5 @@
++++
+title = "gangAbAyi"
+
++++
+aka tapasvinI mAtAjI, born in 1835 of Maharashtrian parents at Vellore, became well versed in Sanskrit religious literature as well as skilled in riding and sword-play at an early age, left her home,  came to Jhansi, and became an intimate companion of Rani Laxmi Bai, who was a distant maternal aunt, fought bravely in 1857, fled to nepal with nAnA saheb,  spent the life of a fugitive there for nearly 30 years practicing tapas, arrived in Calcutta around 1890 and founded her school Mahakali Pathashala in 1893. Over the next ten years the institution expanded to twenty-three branches with four hundred and fifty students, died in 1907. In May 1897 Swami Vivekananda paid a visit to the Mahakali Pathshala in Calcutta, and saw excellent sanskrit hindu education there.
