@@ -18,9 +18,6 @@ mahAkavi.
 ## sOmEshvara chAlukya
 the polymath author of manasollAsa.
 
-## udayana
-logician,  shored up the vaidika dharma against the enticements of bauddhas.
-
 ## hemachandra-sUrI
 a vaishya by birth, brilliant grammarian in the chAlukya court - [MT](https://manasataramgini.wordpress.com/2008/08/20/story-of-siddha-haima/).
 

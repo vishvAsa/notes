@@ -3,9 +3,6 @@ title = "Rule of the European invaders"
 
 +++
 
-## Balashastri Jambhekar
-(1812-1846), had mastered several subjects like physics, chemistry, astronomy, botany, geology, geography, history, mathematics, psychology;  grasped nearly one dozen languages like Sanskrit, Hindi, Bengali, Kannada, Gujarati, Telagu, English, Greek, Latin, French and Persian; in his early 20s; published several school books on calculus, geometry & geography, started paper Digdarshan which carried articles on physics, chemistry, psychology, palaeogeography, wrote a 6 volume series "Jyotissastra", dissuaded "superstition". \[[TW](https://mobile.twitter.com/ColonelGerard/status/807703284395884544)\]
-
 ## arumuka nalavAr
 [arumuka nalavAr](http://en.wikipedia.org/wiki/Arumuka_Navalar), the dvaita saiddhAntika shaiva, a brAhmaNa in deed despite not being born in the brAhmaNa-jAti, reprimanded the brAhmaNas of TN for the rate at which they were giving up the veda, who produced vigorous critiques of the Christianity and impeded missionary activity.
     - "Born as an ornament of the highly cultured and refined shaiva vELALa-s, he grew up to become a scholar in both tamizh and saMskRta. He provided highly refined poetic, Tamil translations of quotes from saMskRta purANas. He was also highly competent in English, using that knowledge to study and master the the durAgama of both the Christians and yahudas. He teamed up with his friend and student who was learning Tamil from him, senthilnAtha iyer and published bibiliya kutsitam (disgusting things in the Bible)"
