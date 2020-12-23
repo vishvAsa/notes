@@ -35,3 +35,9 @@ who sought to offer vedAnta-centered sanAtana-dharma (which included hinduism) a
 ## nAgaratna
 a courtesan who excelled in music, dance and literature; whose high character and surroundings inspire ; "nāgaratna at birth, then bhogaratna (by youth), and now rogaratna! ...  rāgaratna, and then tyāgaratna" \[[DVG](http://grahana.net/394/dv-gundappas-memoirs-bangalore-nagaratnamma)\].
 
+
+## raghu vIra
+father of scholar lokesha chandra, an outstanding scholar himself, who ensured safety of his family and killed many muslim assailants before escaping to India from TSP \[[KV16](https://agnimaan.wordpress.com/2016/05/23/an-expoit-of-raghuvira/)\].
+
+## Lokesh Chandra
+son of Raghu-Vira, a great scholar versed in 20 languages, who understood and elucidated the hindu-buddhist contemplative polycentric culture so clearly, delving into nuances (mUrti - manifest of the unmanifest vs icon ?decorative?) clear distinction from semitic monotheisms. \[[CV](http://www.sanchiuniv.org.in/pdf/Lokesh%20Chandra%20CV.pdf), [interview](https://www.youtube.com/watch?v=7_t-gC73AtI&feature=youtu.be)\]
