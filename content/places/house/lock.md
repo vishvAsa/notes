@@ -1,9 +1,15 @@
 +++
-title = "Electronic lock"
+title = "Lock"
 +++
 
+## Features
+- Handedness - Just for looks, people prefer Left or Right locks so that they can be installed without being turned upside down.
+- Inside vs outside opening: The lock tooth is curved on one side so as to slide in when pushed against an obstacle from a particular direction. This can be changed upon disassembly.
+- Deadlocking: Explained [here](https://www.youtube.com/watch?v=16CDy-o6TeQ). Can ensure that the door does not lock or unlock automatically.
+
+
 ## Electronic locks
-- Popular brands India 2020: Alba, CP plus (Indian HQ and manufacturing, good reach, comes with 5 keys),
+- Popular brands India 2020: Alba, CP plus (Indian HQ and manufacturing, good reach, comes with 5 keys). Navkar OEM - has deadlocking fefature unlike CP Plus ([YT](https://www.youtube.com/watch?v=WIT3zKhLyvw), [NS](http://navkarsys.com/Electronic-Door-Lock-Stainless-Steel-for-Wooden-and-Metal-Doors-with-Dead-Locking-Lock-Can-Be-Free-NSEL-390)).
 - Principle: when power is supplied, lock is unlocked.
 - Installation video - CP Plus [here](https://www.youtube.com/watch?v=BtK7Fis9Pck).
 - Power: 12V DC. Power: higher than 3A or 12W. So, need a power adaptor.
