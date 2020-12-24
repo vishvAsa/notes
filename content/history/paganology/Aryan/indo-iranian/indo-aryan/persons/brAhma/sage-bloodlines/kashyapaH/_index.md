@@ -29,10 +29,6 @@ A true स्मार्त, he composed on शिव/विष्णु/गण
 ### विद्यापतिः
 from मिथिलदेश, he not only wrote fine love poetry राधा-कृष्ण as a key theme but also wrote instructive texts on धर्म such as दुर्गाभक्तितरङ्गिणी & शैवसर्वस्वसार.
 
-## श्रीनिवास-रामानुजः
-shrInivAsa rAmAnujan
-great mathematician, with good grounding the shrIvaiShNava tradition, whose fecundity was inspired by the devI nAmakkAL, whose great memory was able to recite digits of numbers like pi as well as things like roots of Sanskrit words, ([W](http://blog.stephenwolfram.com/2016/04/who-was-ramanujan/)), who has inspired the likes of Ono([SA](http://www.scientificamerican.com/article/inspired-by-genius-how-a-mathematician-found-his-way/?WT.mc_id=SA_TW_MATH_NEWS)), whose works have continued to impact mathematics and its diverse applications 100 years after his passing ([YT](https://www.youtube.com/watch?time_continue=207&v=uhNGCn_3hmc) <\- Period depictions), whose experimentation/ intuitive approach to mathematics marked him as a poet/ seer rather than a problem solver.  
-
 ### गणेशो ऽवधानी 
 
 नैकभाषावित्। [shatAvadhAnI](http://ellakavi.wordpress.com/2007/11/22/shatavadhani-dr-r-ganesh/) rAga gaNesha, the kAshyapa, polymath and polyglot who has performed avadhAna-s in kannaDa, saMskRta, telugu, who embodies the living hindu intellectual tradition in its purity and might, who understands that the shAstra-s are but precursors to true knowledge.
