@@ -10,6 +10,10 @@ unicode_script: devanagari
 ### नच्चिनार्क्किनियार्
 One of the earliest, classical commentators for sangam-era tamiL classics including the great grammatical work, Tolkāppiyam (तोल्क्काप्पियम्) was मदुरैयासिरियर् (मदुरै-आचार्य) पारत्तुवासि (भारद्वाजी) नच्चिनार्क्किनियार्.
 
+### जयन्तभट्टः
+great scholar from kashmIra. He lived in the 800-900s of CE and was associated with
+the dictatorial king shankaravarman.
+
 ### सायणमाधवौ
 -माधवो विद्यारण्यः
   - Glory of भारद्वाज गोत्र, the 12th पीठाधिपति & शङ्कराचार्य of शृङ्गेरि शारदापीठ; brought light to भारत by establishing हरिहरराय & बुक्कराय in power, thus giving a blessed beginning to the विजयनगर line. A महातपस्वि & an ocean of knowledge of शास्त्राणि (śāstra-s).
