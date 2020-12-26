@@ -11,7 +11,7 @@ title = "The Satmala adventures"
 5\) indrANI temple  
 6\) indragiri durga (Indrai fort)  
 7\) Koldher fort  
-8)Rajdher fort
+8\) Rajdher fort
 
 After a long bus journey the shUdra, the feral brahmin, Mis-creant and
 myself entrenched ourselves in the lodge of the lATas. After enjoying a
