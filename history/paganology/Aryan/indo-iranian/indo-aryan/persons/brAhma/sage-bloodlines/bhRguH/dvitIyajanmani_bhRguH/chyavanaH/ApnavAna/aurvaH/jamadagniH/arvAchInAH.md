@@ -42,10 +42,3 @@ bold spiritual and practical [inspirer](http://manasataramgini.wordpress.com/200
 ## सदाशिवब्रह्मेन्द्रः
 a composer of several carnatic compositions; authored a ब्रह्मसूत्रवृत्ति, अद्वैतरसमञ्जरि, आत्मविद्याविलास, योगसुधाकर, शिवमानसपूजा & many other works. शिष्य of श्री परमशिवेन्द्र सरस्वती, the 57th पीठाधिपति of काञ्चि-कामकोटि-पीठ
 
-
-## अन्ये
-### मानसतरङ्गिणीकारः
-a certain jAmadagnya vatsa, brilliant author of [mAnasataraMgiNI](http://manasataramgini.wordpress.com/) (\+ some in [HH](https://musingsofhh.wordpress.com), GS_[SV](https://sites.google.com/site/snippetsfromourthroughstreams/home), [AL_SV](https://plus.google.com/u/0/photos/111263101351559985986/album/5430577601505115489/5498099094532821810)), gRhya ritualist, biologist, the hindu anthropologist who has managed to remain outside the influence of the Leukosphere. ([WC](http://i.imgur.com/Pu9nKyI.png))  
-
-- यद्यमरो भवेत् कश्चित् चरेद् भूमौ सनातनः। स भूयान् नापरः कश्चित् स स्याद् भवान् भवान् भवान्॥
-- नीतिज्ञोऽसौ जीवशास्त्रे प्रवीणस् तन्त्रे मन्त्रे वेदपाठे ऽपि सिद्धः। धीमत्खे वै भाति तिग्मांशुमित्रो मौड्यं नो द्राक् स्वीयमन्त्रैर् निहन्ति॥
