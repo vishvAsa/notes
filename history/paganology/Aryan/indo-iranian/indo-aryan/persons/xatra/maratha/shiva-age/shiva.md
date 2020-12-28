@@ -21,15 +21,44 @@ shiva/ [shivAji](http://en.wikipedia.org/wiki/Shivaji) kShatrapati (6 April 1627
 ## Brilliant execution
 - brilliant strategist \[[E1](https://pbs.twimg.com/media/B1z-DAFIIAA_lU0.jpg:large)\], 
 - considered temporarily joining Awrangzeb \[[CG17](https://twitter.com/ColonelGerard/status/834464411398004736)\] to smash Adil shAh and Qutb shAh - but retained dignity and escaped when it did not go well.  
-    - Inspired many, returned netAji pAlkar (who later redeserted) to the hindu fold after prAyashcitta\[[TW](https://twitter.com/ColonelGerard/status/876548420269334528)\]. 
 
-## Stopping conversions
-- "factory records say he beheaded 4 jesuit padres on their refusing to become H after having instigated Portuguese governor to persecute H".
+## Religious policy
+Shivaji's regulations regarding the behaviour of his soldiers in enemy country were, according to Sabhasad, as follows:
+
+> "In enemy territories, women and children should not be captured. Males, if found, should be captured. Cows should not be taken. Bullocks should be requisitioned for transport purposes only. Brahmins should not be molested; where contribution has been laid, a Brahmin should not be taken as a surety. No one should commit adultery."2391
+
+Khafi Khan also records:
+
+> "Nevertheless he had made a regulation that wherever his army went plundering no one should stretch his hand against a mosque or the Book of God or women of any one. If [a copy of] the Holy Quran fell into his hands, he would keep it with respect and reverence and give it to his Muslim servants; if a Hindu or Muslim woman fell into the hands of his men no one had the courage to look at her with an evil eye and Shivaji strove to protect her till her heirs came and rescued her by paying a ransom according to their means."2392
+
+> We have already seen how, during his first raid on Surat, Shivaji spared the habitation of Father Ambrose, the Capuchin missionary, and how he spared the house of a deceased Hindu broker of the Dutch "being assured that he had been very charitable while alive". 
+>
+> - Mehendele book
+
+Killing brAhmaNas and cows were forbidden.
+
+### Stopping/ reversing conversions
 - Factory records from 26th November, 1675 mention that he quarelled with Portunguese who converted orphans of his caste. [DY](https://dharmayuddha.wordpress.com/2010/11/13/some-contemporary-english-factory-letters-about-shivaji/)
+- Inspired many, returned netAji pAlkar (who later redeserted) to the hindu fold after prAyashcitta\[[TW](https://twitter.com/ColonelGerard/status/876548420269334528)\]. 
 
-## Flaws
+### Temple restoration
+- Though occasionally, he did destroy rAxasAlaya-s (French letter 1677 [TW](https://twitter.com/Kal_Chiron/status/861611487713837056)) and restored temples. It says that the Shiva temple at Tiruvannamalai (i.e. the Shonachalapati Temple) and the Samottir Perumal (Vishnu) Temple were destroyed and converted into mosques by Muslims, and that Shivaji demolished both mosques to re-establish the temples.
+
+> On 13th November 1668 (in the same month as the raid on bArdesh, Goa), Shivaji commenced the construction of the temple of Shri Saptakoteshvara at Narwe. 
+>  
+> Formerly the temple of Shri Saptakoteshvara, the family deity of the Kadamba dynasty that ruled over Goa in the 12th century, was in the village named Narwe (Naroa) in Divadi, a tiny coastal island. It was destroyed by the Muslims and the stone image of the deity was hidden by the devotees in the embankment of a field. 
+> 
+> When Goa came under the sway of Vijayanagar, Madhava, a minister of that Empire, built a new magnificent temple at the same place and reestablished the deity. This, too, was destroyed in 1540 – this time by the Portuguese - along with many other temples. They built a chapel dedicated to Nossa Senhora Candelaria in its place. 
+> 
+> Some remains of the ancient temple could still be noticed in the chapel. The image of the deity was smuggled out of Goa and a temple was built in another village within Adilshahi territory also named Narwe (Naroa) in the district of Dicholi, opposite the one in Divadi. This temple, it seems, was in a very dilapidated condition.
+> 
+> Shivaji was now building a new one at that site which he perhaps intended would serve as a beacon of hope for his Hindu brethren in Goa. This was all that he could do for them at the moment.
+
+### Muslim funding
+- While continuing old grants to muslim institutions, no new grants were made (in stark contrast to fresh patronage of Hindu institutions and savants).
+
+### Flaws
 - No "total war" : "We know he ordered his soldiers to respect the Koran, mosques, and sent back a mullah’s daughter that fell into his hands while the followers of Muhammad freely indulged in massacres of Hindu civilians and capture of Hindu women." 
-- Though occasionally, he did destroy rAxasAlaya-s (French letter 1677 [TW](https://twitter.com/Kal_Chiron/status/861611487713837056)) and restored temples.
 
 
 ## Family
