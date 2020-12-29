@@ -62,4 +62,6 @@ Killing brAhmaNas and cows were forbidden.
 
 
 ## Family
-son of jIjA-bAyi and shAhAji, feudal servant of bijApura sultAn yet a supporter of shrIranga 3 the vijayanagara emperor \[[MT6](https://manasataramgini.wordpress.com/2006/07/06/some-notes-on-shahji-and-sambhaji-the-brother-of-shivaji-iii/)\], brother of sAmbhA killed for lack of reinforcement from afzal khan in service of the sultAn, half brother of ekoji (a good ruler whose adhArmika betrayal was stemmed by shivAji by timely action).
+- son of jIjA-bAyi and shAhAji, feudal servant of bijApura sultAn yet a supporter of shrIranga 3 the vijayanagara emperor \[[MT6](https://manasataramgini.wordpress.com/2006/07/06/some-notes-on-shahji-and-sambhaji-the-brother-of-shivaji-iii/)\], brother of sAmbhA killed for lack of reinforcement from afzal khan in service of the sultAn, half brother of ekoji (a good ruler whose adhArmika betrayal was stemmed by shivAji by timely action), also half-brother to several bastards (including hiroji who aided his escape from Agra by taking his place for some time).
+- 8 wives. putalabai performed sati rite. 
+- 2 sons (half-brothers) - sambhAjI, rAjArAm. 6 daughters.
