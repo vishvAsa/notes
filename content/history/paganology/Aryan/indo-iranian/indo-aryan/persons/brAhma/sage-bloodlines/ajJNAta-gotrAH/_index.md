@@ -1,5 +1,5 @@
 +++
-title = "अज्ञातगोत्राः"
+title = "+अज्ञातगोत्राः"
 unicode_script = "devanagari"
 +++
 

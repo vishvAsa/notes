@@ -11,6 +11,7 @@ title = "Risk models"
 - Use fans to increase the effectiveness of open windows. Avoid placing fans in a way that could potentially cause contaminated air to flow directly from one person over another. One helpful strategy is to use a window fan, placed safely and securely in a window, to exhaust room air to the outdoors. 
 - Decrease occupancy in areas where outdoor ventilation cannot be increased.
 - Consider portable high-efficiency particulate air (HEPA) fan/filtration systems to help enhance air cleaning (especially in higher risk areas)
+- earlier, 30 minute exposure to a crowded store could infect you. Now (with UK strain), 20 minute exposure is enough to infect you.
 
 ### AC systems
 - Turn off any demand-controlled ventilation (DCV) controls that reduce air supply based on occupancy or temperature during occupied hours. 
