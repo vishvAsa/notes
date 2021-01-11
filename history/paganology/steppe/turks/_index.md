@@ -2,10 +2,16 @@
 title: Turks
 ---
 
+## Ethnogenesis
+> ethnogenesis of central Asian Turks happened via "progressive Easternization" old steppe Iranians incorporated into Turkic Khanates originating in Mongolia. The Mongols brought further east Asian ancestry. - MT
+
 ## Kök Türük Göktürk Khaganate 
 - [Kök Türük (Gök Türk = Blue Turk)](https://manasataramgini.wordpress.com/2010/03/06/the-epic-on-stone/)
 - They took over from the Hunnic Rouran khanate.
-- "However, legacy of the Blue Turks was lasting one- it gave the Turks the the concept of a nation, ethnic identity and made them into a civilizational influence. This  was also influenced the Mongols who had made similar earlier attempts at nationhoods in founding the two great Hunnic Khanates \[commonly termed the Xiongnu and Rouran or Juan-Juan Khanates\]. .. Their rise for the Turks was as momentous as the rise of the Bharatas amidst the Indo-Aryans. ... However, it had not sunk deep enough for the transformation of the entire Altaic people. Here lie the roots of modern Turkey and the Central Asian Stans’  identity crisis  which was hijacked by the desert delusion in the centuries to come. "  \[[MT](https://manasataramgini.wordpress.com/2010/03/06/the-epic-on-stone/)\]
+
+> However, legacy of the Blue Turks was lasting one- it gave the Turks the the concept of a nation, ethnic identity and made them into a civilizational influence. This  was also influenced the Mongols who had made similar earlier attempts at nationhoods in founding the two great Hunnic Khanates \[commonly termed the Xiongnu and Rouran or Juan-Juan Khanates\]. .. Their rise for the Turks was as momentous as the rise of the Bharatas amidst the Indo-Aryans. ... However, it had not sunk deep enough for the transformation of the entire Altaic people. Here lie the roots of modern Turkey and the Central Asian Stans’  identity crisis  which was hijacked by the desert delusion in the centuries to come.
+>
+> \[[MT](https://manasataramgini.wordpress.com/2010/03/06/the-epic-on-stone/)\]
 - Bilge Khagan's (683-734) Orkhon inscriptions [here](http://bitig.org/?lang=e&mod=1&tid=1&oid=16&m=1).
 - Taizong was born to a Turkish mother - both he and his son were great Turkophiles.
 - They split after a civil war. After that they were swollowed up by the Tang.
@@ -27,9 +33,11 @@ The Turks entered unmAda in two ways.
 - **Forced mass conversions**: "Similarly, after the Seljuqs became u3 they forced the conversions of the Qaayi, Bayat, Bayandur and Pecheneg tribes of Turks to the Meccan madness. Thus, they became ghaazis who were to uphold the unmAda in its characteristically bloody within and without form"
 
 ### Impact
-"Had it not been for the Turkic sword arm marUnmAda might have been a way more limited disease."
-
-The Samanid Sultan Isma'il bin Ahmad captured numerou Turkic slaves in an assault on the Qarluq at Talas in 893CE. The forced the conversion of other smaller Turkic tribes& made them collect slaves for Samanids. One such was the Tukhsee tribe. The Tukhsee-s then attacked another small Turkic tribe and took Sebuktegin as slave and sold him to the Moslems at Shaash. That's how the Ghaznavids came into being as the spearhead of Islam.
+> Had it not been for the Turkic sword arm marUnmAda might have been a way more limited disease.
+>
+> The Samanid Sultan Isma'il bin Ahmad captured numerou Turkic slaves in an assault on the Qarluq at Talas in 893CE. The forced the conversion of other smaller Turkic tribes& made them collect slaves for Samanids. One such was the Tukhsee tribe. The Tukhsee-s then attacked another small Turkic tribe and took Sebuktegin as slave and sold him to the Moslems at Shaash. That's how the Ghaznavids came into being as the spearhead of Islam.
+>
+> - MT
 
 ##  Oghuz Turks
 This branch went on to found the Seljuk and Ottomon empires.
