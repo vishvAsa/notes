@@ -3,7 +3,11 @@ title: Turks
 ---
 
 ## Ethnogenesis
+{{< figure src="../images/steppe_replacement_of_IE_males_by_altaics_A_for_Andronovo.jpg" title="" class="thumbnail">}}
+
 > ethnogenesis of central Asian Turks happened via "progressive Easternization" old steppe Iranians incorporated into Turkic Khanates originating in Mongolia. The Mongols brought further east Asian ancestry. - MT
+
+In a sense east Asian males progressively replaced Iranic type males (chased away/ killed). But the male line persists: for e.g. R1a1a Y haplogroup is quite common in some Uighur and Qinghai Mongol populations. They are likely remnants of old Iranics and Aran-s who were allied to the Khan
 
 ## Kök Türük Göktürk Khaganate 
 - [Kök Türük (Gök Türk = Blue Turk)](https://manasataramgini.wordpress.com/2010/03/06/the-epic-on-stone/)
