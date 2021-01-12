@@ -1,0 +1,609 @@
+[[data]]
+Software = 'git'
+"Operand Type" = 'storage'
+Feature = 'concept'
+Description = 'Whereas SVN tracks differences of a file, Git’s version control model is based on snapshots.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Repository'
+Feature = 'concept'
+Description = '''
+No fundamental centralized repository everyone directly works with as in svn. 
+Every developer has a repository copy. Collaboration occurs by passing changesets between working copies and a central repository.'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Repository'
+Feature = 'initialize'
+Subfeature = 'local'
+Syntax = 'git init'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Repository'
+Feature = 'clone'
+Syntax = 'git clone git://git.sv.gnu.org/m17n/m17n-db.git'
+Description = 'automatically creates a remote connection called origin pointing back to the cloned repository.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Repository'
+Feature = 'clone'
+Subfeature = 'without history'
+Syntax = 'git clone --depth 1 https://github.com/sanskrit-coders/stardict-sanskrit.git'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Repository'
+Feature = 'remote'
+Subfeature = 'list'
+Syntax = 'git remote -v'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Repository'
+Feature = 'remote'
+Subfeature = 'add'
+Syntax = 'git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Repository'
+Feature = 'remote'
+Subfeature = 'change'
+Syntax = 'git remote set-url origin ...'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Repository'
+Feature = 'fetch from remote'
+Subfeature = 'all branches'
+Syntax = 'git fetch <remote>'
+Description = 'Does not merge.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Repository'
+Feature = 'push all to remote'
+Subfeature = 'all branches'
+Syntax = 'git push <remote> --all'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Repository'
+Feature = 'delete directory'
+Syntax = '''
+java -jar ~/Downloads/bfg-1.13.0.jar --delete-folders sa-kAvya
+ git reflog expire --expire=now --all && git gc --prune=now'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'connection'
+Feature = 'create'
+Syntax = '''
+git remote add origin https://github.com/username/Hello-World.git
+git remote add official https://github.com/edx/edx-platform.git'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'connection'
+Feature = 'list'
+Syntax = '''
+git remote
+git remote -v'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'connection'
+Feature = 'remove/ rename'
+Syntax = '''
+git remote rm <name>
+git remote rename <old-name> <new-name>'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'connection'
+Feature = 'connect (auto login)'
+Subfeature = 'add key'
+Syntax = '''
+git config remote.origin.url git@github.com:vvasuki/sanskritnlp.git
+ssh-add keypath'''
+Description = '''
+git config to ensure you're not using https.
+ssh-add described elsewhere.'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'submodule'
+"Implementation Type" = 'concept'
+Description = '''
+A separate git repo for a subdirectory within a repository.
+NOTE: Tracks a certain gitlink, and never the moving head of a branch.'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'submodule'
+Feature = 'setup'
+Syntax = 'git submodule add https://github.com/<user>/rock localDirPath'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'submodule'
+Feature = 'config'
+Syntax = '''
+[submodule "content/vritti"]
+	path = content/vritti
+	url = https://github.com/sanskrit/ashtadhyayi.git'''
+Description = 'In .gitmodules'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'submodule'
+Feature = 'initialize'
+Syntax = 'git submodule update --init --recursive'
+Description = 'NOTE: Tracks a certain gitlink, and never the moving head of a branch.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'submodule'
+Feature = 'pull'
+Syntax = 'git submodule foreach "(git checkout master; git pull)&"'
+Description = 'Pulls all updates from the remote.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'submodule'
+Feature = 'push to remote repository'
+Syntax = 'git push --dry-run --recurse-submodules=on-demand'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'remote branches'
+Subfeature = 'concept'
+Description = 'Remote branches are just like local branches, except they represent commits from somebody else’s repository.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'fetch from remote'
+Subfeature = 'single branch'
+Syntax = 'git fetch <remote> <branch>'
+Description = 'Does not merge. Do git merge origin/master separately maybe.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'fetch and merge from remote'
+Syntax = '''
+git pull
+git pull <remote>'''
+Description = 'same as git fetch <remote> followed by git merge origin/<current-branch>.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'fetch and rebase from remote'
+Syntax = 'git pull --rebase <remote>'
+Description = '"I want to put my changes on top of what everybody else has done."  - Oft preferable in busy repositories'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'fetch and rebase from remote'
+Subfeature = 'github master'
+Syntax = 'Just use intellij git tool'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'rebase, pick, squash'
+Syntax = 'Just use intellij git tool - "rebase interactively from here"'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'instantiation'
+Subfeature = 'master'
+Description = 'master branch is created by default.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'instantiation'
+Syntax = '''
+git checkout -b branchName
+git checkout -b hotfix master'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'Delete branch'
+Syntax = '''
+git branch -d <branch> #safer
+git branch -D branchName'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'rename'
+Syntax = 'git branch -m <branch>'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'remote branches'
+Subfeature = 'list'
+Syntax = 'git branch -r'
+Description = '''
+Naming convention:
+# origin/master
+# origin/develop'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'active/ current'
+Syntax = '''
+git branch
+git status'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'switch'
+Syntax = 'git checkout main'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'see commit history'
+Syntax = '''
+git log
+git log --oneline
+git log --graph --decorate --oneline'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'reset branch tip'
+Subfeature = 'caveat'
+Description = 'You should never use git reset <commit> when any snapshots after <commit> have been pushed to a public repository. After publishing a commit, you have to assume that other developers are reliant upon it.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'reset branch tip'
+Syntax = 'git reset <commit>'
+Description = 'Leaves local working directories alone.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'reset branch tip and working directory'
+Syntax = 'git reset --hard HEAD~2 #moves the current branch backward by two commits'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'get working branch tip history'
+Syntax = '''
+git reflog
+git reflog --relative-date'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'resolve conflict'
+Subfeature = 'mark'
+Syntax = 'git commit -a'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'restore/ switch'
+Subfeature = 'force'
+Syntax = 'git checkout -f <branchname>'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'push to remote repository'
+Syntax = '''
+git push -u remoteBranch localBr
+git push -u origin master
+
+git push <localbr> <remoteBr>
+git push history history:master
+
+git push <remote> --tags'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'push to remote repository'
+Subfeature = 'force'
+Syntax = 'git push -f origin HEAD:patch-1'
+Description = 'Overwrite remote branch - oft needed after rebasing.  Alert - can be very slow - might be better off manually patching a new branch.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'merge'
+Syntax = '''
+git checkout -b hotfix master
+git commit -a -m "Fix security hole"
+git checkout master
+git merge hotfix'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'graft'
+Subfeature = 'caveat'
+Description = '''Don't rebase public history. might affect others.'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'graft'
+Syntax = '''
+git checkout some-branch
+git rebase <commitref>
+git rebase master'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'graft'
+Subfeature = 'interactively pick commits'
+Syntax = '''
+git checkout some-branch
+git rebase -i <commitref>
+git rebase -i master'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'stop tracking file'
+Syntax = 'git update-index --assume-unchanged [path]'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'working directory / tree'
+Feature = 'status'
+Syntax = 'git status'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'working directory / tree'
+Feature = 'remove untracked'
+Syntax = '''
+git clean -n # dry run
+git clean -f
+git clean -f <path>
+git clean -df # remove utracked dirs as well.
+git clean -xf # remove ignored files as well.'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'working directory / tree'
+Feature = 'revert'
+Syntax = '''
+git checkout <commitlabel> -- path/to/directory  # or path/to/file
+git checkout -- .
+git checkout HEAD -- .'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'working directory / tree'
+Feature = 'restore files'
+Syntax = 'git checkout $(git rev-list -n 1 HEAD -- "$file")^ -- "$file"'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'stash'
+Feature = 'concept'
+Description = 'Save working directory and index state'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'stash'
+Feature = 'create'
+Syntax = '''
+git stash
+git stash -u # Include untracked
+git stash -a # Include untracked and ignored
+git stash save "message"
+ git stash -p # partial stash - stards dialog'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'stash'
+Feature = 'reapply'
+Syntax = '''
+git stash pop
+git stash pop stash@{2}
+git stash apply # still keeps files in stash'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'stash'
+Feature = 'list'
+Syntax = 'git stash list'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'stash'
+Feature = 'view'
+Syntax = '''
+git stash show
+git stash show -p # full view'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'stash'
+Feature = 'clear'
+Syntax = 'git stash clear'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'changelist'
+Description = '''
+aka staging area.
+a buffer between the working directory and the project history.'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'changelist'
+Feature = 'add change'
+Syntax = '''
+git add <file>
+git add <dir>'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'changelist'
+Feature = 'add change'
+Subfeature = 'remove/ delete file'
+Syntax = '''
+git rm --cached mylogfile.log
+git rm mylogfile.log'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'changelist'
+Feature = 'add change'
+Subfeature = 'interactively'
+Syntax = 'git add -p #Interactive'
+Description = 'Use y to stage the chunk, n to ignore the chunk, s to split it into smaller chunks, e to manually edit the chunk, and q to exit.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'changelist'
+Feature = 'remove file(s)'
+Syntax = '''
+git reset <file>
+git reset
+git reset HEAD filename
+simply use gitk'''
+Description = 'Remove the specified file from the staging area, but leave the working directory unchanged'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'changelist'
+Feature = 'clear, reset working directory'
+Syntax = '''
+git reset --hard
+git reset --hard HEAD'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'changelist'
+Feature = 'add new commit to branch'
+Syntax = '''
+git commit
+git commit -m "<message>"
+git commit -a (auto add all changes to a changelist)'''
+Description = 'Changelist becomes empty'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'changelist'
+Feature = 'add to previous commit'
+Syntax = '''
+git commit --amend
+git commit --amend --no-edit # no change to message'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'commit'
+Feature = 'concept'
+Description = '''
+A commit object may have any number of parents. With exactly one parent, it is an ordinary commit. Having more than one parent makes the commit a merge between several lines of history. Initial (root) commits have no parents.
+Oft created using the commit command from changelists.'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'commit'
+Feature = 'get'
+Syntax = 'git checkout <commit>'
+Description = 'does not affect the current (master) branch. Puts you in detached head state.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'commit'
+Feature = 'get file(s)'
+Syntax = 'git checkout <commit> <file>'
+Description = 'unlike checking out a commit, this does affect the current state of your project. The old file revision will show up as a “Change to be committed,” giving you the opportunity to revert back to the previous version of the file.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'commit'
+Feature = 'revert'
+Syntax = 'git revert <commit>'
+Description = '''
+creates a new commit to match the commit prior to the specified <commit>
+Does not undo all subsequent commits.'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'commit'
+Feature = 'get parentless object'
+Syntax = '''
+echo 'blah' | git commit-tree 9c68fdc^{tree}
+git commit-tree <tree> [-p <parent commit>]* < changelog'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'commit reference'
+Feature = 'concept'
+Description = '<base>, which can be any kind of commit reference (an ID, a branch name, a tag, or a relative reference to HEAD).'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'setup'
+Feature = 'ignore'
+Syntax = 'create .gitignore file'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'setup'
+Feature = 'user details'
+Syntax = '''
+git config --global user.name <name>
+git config --global user.email <email>'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'setup'
+Feature = 'shortcut'
+Syntax = 'git config --global alias.<alias-name> <git-command>'
+
+[[data]]
+Software = 'git lfs'
+"Operand Type" = 'setup'
+Feature = 'general'
+Syntax = 'git add .gitattributes'
+
+[[data]]
+Software = 'git lfs'
+"Operand Type" = 'setup'
+Feature = 'pick files to track'
+Syntax = 'git lfs track "*.psd"'
+Description = 'or directly edit .gitattributes'
+
+[[data]]
+Software = 'github'
+"Operand Type" = 'project pages'
+Feature = 'file location'
+Syntax = 'master, gh-pages, or a /docs folder on master'
+Description = 'Filenames starting with _ or # are omitted, unless .nojekyll file is present at the root.'
+
+[[data]]
+Software = 'github'
+"Operand Type" = 'project pages'
+Feature = 'url'
+Syntax = 'orgname.github.io/projectname'
+
