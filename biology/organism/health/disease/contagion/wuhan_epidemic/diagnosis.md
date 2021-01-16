@@ -80,6 +80,10 @@ Dermatological
 - Skin rashes
 
 ## Tests
+### Sample collection
+- Saliva better - "saliva viral load was significantly higher in those with COVID-19 risk factors; that it correlated with increasing levels of disease severity and showed a superior ability over nasopharyngeal viral load as a predictor of mortality over time (AUC=0.90)."
+- nasopharynx swabs.
+
 ### RNA detection
 - "The current RT-PCR has a sensitivity at best of 70 percent with a turn around time of 120 minutes."
 - A Crisper based diagnostic testing tried out in Thailand offers 97-100 percent sensitivity to detect the virus and has a turn around time of 75 minutes.

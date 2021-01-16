@@ -54,6 +54,8 @@ title = "Effects"
 ## Comorbidity
 Severe disease can result in people with diabetes, obesity, chronic breathing difficulty (like asthma), compromised immune system.
 
+The very low mortality among the slum dwellers in India have drawn lot of attention.One of the reason could be that due to repeated exposure,their gut microbiome have more of those good microbiome protecting against severe infections.
+
 ## Causal chain
 - Lung epithelial cells are infected.
 - Virus is then detected by macrophages. They produce interferons and cytokines. But the virus is oblivious to anti-viral effects of interferons. Cytokines attract more white blood cells. So there is a cytokine storm from a chain reaction.

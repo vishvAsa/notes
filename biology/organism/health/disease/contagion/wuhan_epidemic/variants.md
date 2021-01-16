@@ -5,8 +5,8 @@ title = "Variants"
 ## Strain difference
 Some strains are much more infectious. 
 
-## G614
-- Round about Feb, new variant emerged in the Europe that had a mutation to make it spread faster.
+### 20J/501Y.V3
+- Manaus, Brazil
 
 ## VUI-202012/01, B.1.1.7
 - In September, it first appeared from England.
@@ -17,3 +17,7 @@ Some strains are much more infectious.
 
 ## South Africa 501.V2
 - spreading faster,tends to have high viral load and possibly more severe to young adults.
+
+## G614
+- Round about Feb 2020, new variant emerged in the Europe that had a mutation to make it spread faster.
+
