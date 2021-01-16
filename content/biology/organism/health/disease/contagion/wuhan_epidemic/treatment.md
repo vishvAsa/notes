@@ -22,6 +22,7 @@ title = "Treatment"
   - Hydrocortisone 50mg IV every 6 hours 7-10 days
   - Methyl-prednisolone 10mg IV every 6 hours 7-10 days
   - Prednisone 50mg Oral - daily for 7-10 days.
+- Tociluzumab. Blocks inflammatory mediator Interleukin 6. UK approved.
 
 ### Very critical cases
 - Extracorporeal membrane oxygenation (ECMO) is a final resort for critically ill COVID patients where in both the lungs and heart are given rest for the intended recovery using machines to do what heart and lungs do in our body. An international registry involving 213 hospitals across 36 countries has shown 90 day mortality of patients put on ECMO is about 38%
@@ -29,7 +30,6 @@ title = "Treatment"
 
 ## Upcoming drugs
 - Bacricitinib which has proven more benefit when combined with Remdesivir.
-- Tociluzumab. 2 studies declared it does, but the most recent one published at NEJM journal feels it doesn't help.
 
 ## Failed drugs
 - Hydroxychloroquine

@@ -34,28 +34,32 @@ Trigger antibody development thence.
 - Hepatitis A and Salk Polio virus are inactivated vaccines. These vaccines have adjuvants with alum or aluminium that can cause severe reactions at injection site as opposed to mRNA or DNA vaccines.
 
 ## Oxford Astra-Zeneca ChAd0x1 vaccine azd1222
-- Aka Covishield in India. 
+- Aka Covishield by SII in India. 
 -  It is chimpanzee adenovirus packaged with viral Spike protein instruction DNA, due to which the body produces spike proteins and thence antibodies to those.
 - safely stored at temperatures of 2C to 8C, about the same as a domestic fridge
 
 ### Efficacy
-- The efficacy with the first dose is about 70%. UK govt is going for single shot followed by 2nd dose by 12 weeks (will supposedly make efficacy 80%). 
+- Indian population: Efficacy with single dose 52%. Second dose close to 12 weeks 78.79%
+- UK Population: The efficacy with the first dose is about 70%. UK govt is going for single shot followed by 2nd dose by 12 weeks (will supposedly make efficacy 80%). 
   - vaccine efficacy was 62.1% (n=8,895; CI 41.0% to 75.7%), and 90.0% (n=2,741; CI 67.4% to 97.0%) in participants who received a half dose followed by a full dose.
   - The protection starts on the 22nd day after the first dose.
-- if you have antibodies to the vector that they use, Chimpanzee Adenovirus results in neutralizing the vaccine efficacy. (Chinese had tried similar trials and had demonstrated 52% of their participants had antibodies to Adenovirus which is a naturally occurring viral infection.)
+- if you have antibodies to the vector that they use, Chimpanzee Adenovirus results in neutralizing the vaccine efficacy. Such antibodies may develop after the first dose as well, nullifying the second dose. (Chinese had tried similar trials and had demonstrated 52% of their participants had antibodies to Adenovirus which is a naturally occurring viral infection.)
 
-### Trial problems
-- Trial had 75.5% white caucasians as the majority included. Blacks(10%)and Asians (3.5%) had very less representation. COVISHIELD trial from India conducted exclusively amongst the Indian population should be referenced for a fair assessment for the Asian population.
-- Less data about 65 plus age group.Only 5.9% were above age 65. Antibody titre levels were less in those >65 years. The lowered antibody response was because the 2nd dose was given <6 weeks.
+### UK Trial problems
+- Less Black  and Asian representation.
+- Less data about 65 plus age group. Only 5.9% were above age 65. Antibody titre levels were less in those >65 years. The lowered antibody response was because the 2nd dose was given <6 weeks.
 
 ### Severe Adverse reactions
-- Side effects wise,relatively more side effects reported compared to mRNA vaccines
+- Side effects wise, relatively more side effects (fever, pain etc) reported compared to mRNA vaccines.
 - Oxford Vaccine caused 1 transverse myelitis (inflammation of the spinal cord)  in a volunteer
 
 ## Pfizer-BioNTech 
 - An mRNA vaccine
-- Pfizer vaccine definitely reduces mild cases by 95% 7 days after 2nd dose of vaccine.
 - Storage requirement at -70 C
+
+### Efficacy
+- 50% protection after 14 days of first shot.
+- Reduces mild cases by 95% 7 days after 2nd dose of vaccine.
 
 ### Severe Adverse reactions
 - The exclusion criteria that was used during Pfizer vaccine trial included people with allergies. Bang on, on the field, exactly same happened. 2 healthcare professionals in the UK had anaphylactic reaction. Now the health regulators have adviced those having similar allergies or anaphylaxis should not get this vaccine.
@@ -65,20 +69,40 @@ Trigger antibody development thence.
 - Synthetic mRNA-1273 for spike protein.
 - 94.1% efficacy.
 - Shown effective about 40 days after injection.
+- Storage: -20 Deg up to 6 months
 
 ## Novavax vaccine
 - Directly injects stabilized spike proteins (mRNA or DNA not used.) This same technology has been used since 1986 with Hep B vaccines that are given to even infants and found extremely safer.
 
 ## Bharat Biotech Covaxin
-- COVAXIN inactivated viral vaccine 
+- inactivated / attenuated whole virus particles 
 - DCGI approval for Phase 3 clinical trials in 26,000 participants in over 25 centres across India.
 
 ### Severe Adverse reactions
 - 1 person developed encephalitis. Was threatened with a lawsuit.
 
+
+## Gamelaya Sputnik V
+- The Russians have used human Adenovirus and use 2 different strains as vectors cleverly in their Sputnik vaccine. Apparently,this reduces the chances of preexisting antibodies reducing the efficacy.
+- Russia says its Sputnik V vaccine is 91% effective.
+- Storage: Regular fridge temperature. 
+
+## Sinovac CoronaVac
+- inactivated / attenuated whole virus particles 
+- Brazil: 50.38% effective in late-stage trials in Brazil (far below the 78% previously announced)
+- Indonesian drug regulators say interim data from Phase 3 trials showed it is 65.3% effective
+- stored in a standard refrigerator at 2-8 degrees Celsius
+
+## Sinopharm vaccine
+- inactivated / attenuated whole virus particles 
+- Supposedly 79.34% effective. UAE: 86% effective
+
+## Johnson and Johnson vaccine
+-  uses Adenovirus as a vector carrying the virus spike protein.
+- Potentially single dose vaccine.
+
 ## Other Trials as of 2020-12
 - FDA standards - "If a particular vaccine doesn't demonstrate a minimum of 50 percent efficacy, it will not be approved."
-- Russian vaccine Sputnik has no data whatsoever. Being tried in India.
 
 ## Failed attempts
 - BCG vaccination effect.

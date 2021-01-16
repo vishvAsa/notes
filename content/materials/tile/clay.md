@@ -28,3 +28,6 @@ title = "Clay"
 ### Absorption resistence
 - Vitrified tile has an absorption rate of 0.50 percent, which is nearly-frost proof, while ceramic tile ranges from 7 to 3 percent, making it unsuitable for outdoor applications.
 - The surface of ceramic tiles directly improves indoor air quality because it cannot be penetrated by allergens such as pollen, dust, or dirt.
+
+## Pattern printing technology
+- Hi Def vs Printed - latter is cheaper.
