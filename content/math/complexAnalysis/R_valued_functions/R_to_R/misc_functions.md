@@ -49,9 +49,16 @@ Reduce to \\((ax+b)^{2}=c\\) and solve. So find roots of \\(x^{3}-1\\) (Invent i
 Integer functions: \\(\floor{x}, \ceil{x}\\).
 
 ### Logarithm and exponential
-\\(\ln x \dfn \int_{t=1}^{x} t^{-1}dt\\). By fundamental theorem of calculus, \\(\der{\ln x} = x^{-1}\\). So, \\(\ln(ab) = \ln a + \ln b\\), \\(\ln x^{k} = k \ln x\\).
+#### Integral based definitions
+\\(\ln x \dfn \int_{t=1}^{x} t^{-1}dt\\).  
+By fundamental theorem of calculus, \\(\der{\ln x} = x^{-1}\\).  
+Also, \\(\ln(ab) = \ln a + \ln b\\) because \\(\int_{t=1}^{a} t^{-1}dt + \int_{t=a}^{ab} t^{-1}dt = \ln a + \int_{t=1}^{b} (at)^{-1}d(at)\\).  
+Thence, \\(\ln x^{k} = k \ln x\\).
 
-\\(e \dfn x: \ln x = 1\\). So, \\(\ln e^{x} = x\\), \\(\der{e^{x}} = e^{x}\\). The McLaurin series \\(e^{x}\\).
+\\(e \dfn x: \ln x = 1\\).   
+So, \\(\ln e^{x} = x\\) (using \\(\ln x^{k} = k \ln x\\) from above).  
+Thence \\(\der{e^{x}} = e^{x}\\).  
+Thence expressing as MacLaurin series \\(e^{x} = 1 + \dfrac{x}{1} +  \dfrac{x^2}{2!} +  \dfrac{x^3}{3!} ... = \sum_{n=0}^{\infty} \dfrac{x^n}{n!}\\) .
 
 ### Generalized binomial coefficient
 \\(\binom{r}{k}\\) for any \\(k\in Z, r\in R\\): generalizes \\(\binom{r}{k}\\) from combinatorics (See probability ref).
