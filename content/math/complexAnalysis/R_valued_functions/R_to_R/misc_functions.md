@@ -49,7 +49,7 @@ Reduce to \\((ax+b)^{2}=c\\) and solve. So find roots of \\(x^{3}-1\\) (Invent i
 Integer functions: \\(\floor{x}, \ceil{x}\\).
 
 ### Logarithm and exponential
-\\(\ln x \dfn \int_{t=1}^{x} t^{-1}dt\\). By fund theorem of calculus, \\(\der{\ln x} = x^{-1}\\). So, \\(\ln(ab) = \ln a + \ln b\\), \\(\ln x^{k} = k \ln x\\).
+\\(\ln x \dfn \int_{t=1}^{x} t^{-1}dt\\). By fundamental theorem of calculus, \\(\der{\ln x} = x^{-1}\\). So, \\(\ln(ab) = \ln a + \ln b\\), \\(\ln x^{k} = k \ln x\\).
 
 \\(e \dfn x: \ln x = 1\\). So, \\(\ln e^{x} = x\\), \\(\der{e^{x}} = e^{x}\\). The McLaurin series \\(e^{x}\\).
 

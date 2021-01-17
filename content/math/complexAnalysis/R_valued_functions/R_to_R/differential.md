@@ -71,7 +71,7 @@ Ab initio differentiation of sin x, cos x.
 #### Differentiation of powers and exponents
 \\(x^{n} :n \in N\\) can be derived from the definition. Thus, using the expansion/ definition of \\(e^{x}\\), \\(D(e^{x})(x) = e^{x}\\).
 
-\\(\forall n\in R: \der x^{n} = \der e^{n\ln x} = nx^{n-1}\\).
+\\(\forall n\in R: \der{x^{n}} = \der{e^{n\ln x}} = nx^{n-1}\\).
 
 ## Other properties
 ### Geometry
