@@ -3,6 +3,9 @@ title = "+Paint"
 unicode_script = "devanagari"
 +++
 
+## Layers
+In a paint system, the topcoat provides a resinous seal over the intermediate coats and the primer.
+
 ## Health concerns
 - myriad chemicals to enhance the product shelf life, color, texture and other properties.
 - Bad coloring chemicals: Lead, mercury or chromium compounds.
