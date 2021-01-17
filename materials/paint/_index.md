@@ -9,6 +9,7 @@ In a paint system, the topcoat provides a resinous seal over the intermediate co
 ## Health concerns
 - myriad chemicals to enhance the product shelf life, color, texture and other properties.
 - Bad coloring chemicals: Lead, mercury or chromium compounds.
+  - A 2018 study by New Delhi-based think tank, Toxics Link, tested 20 samples (collected from Andhra Pradesh, Delhi, Gujarat, Jharkhand, Kerala, Uttar Pradesh, Maharashtra, Manipur and Rajasthan) from Small and Medium scale Enterprises (SMEs) for the presence of lead. Barring three — Home Care glossy (white),Varlac Premium Satin Enamel (olive) and Varlac Premium Satin Enamel (cherry red) — all had lead content from 101 ppm to 1,30,797 ppm
 
 ### VOCs
 - volatile organic compounds (VOCs), which vaporize as soon as they are exposed to the atmosphere. Bad for health, odor suffocating. Headaches, nausea and dizziness can also result from exposure to the chemicals in conventional paints. Some long-term effects include liver and kidney damage, respiratory issues and even cancer. Specially affects painters, rather than homeowners who move in after some time.
