@@ -8,3 +8,4 @@ title = "Waterproofing"
 - PU is biodegradable but not acrylic.
 - Bridges cracks - provides water proofing (10 yrs guarantee with top coat).
 - 10 deg temperature reduction.
+  

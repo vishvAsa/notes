@@ -82,32 +82,6 @@ Non-heroes: ashOka chakravartI dEvanAmapriya, who - contrary to legend - did not
 - akkadevI, wise chAlukya queen, under whom brAhmaNa-s prospered, who was called Gunadabedangi, meaning "beauty of virtues"; and "as courageous as Bhairavi in war".
 - rudrama-devI (aka rudradeva mahArAja), queen of the kAkatIya-s, who took over the reigns of the kingdom when it was in disarray, led some firmly loyal generals and ministers thwarting rebellions and land+sea invasions by the choLa-s, pANDya-s and yAdava-s, thwarted her husband vIrabhadra the vengi chAlukya prince (cutting him up in a fight but letting him live at one point). She was the grandmother, through her daughter of pratAparudra, her successor.
 
-## Era of depredations of the ghAzis in the north:
-See [anti-ghazi-north](../anti-ghazi-north/)
-
-## Era of depredations of the ghAzi-s in the east:
-See [anti-ghazi-east](../anti-ghazi-east/)
-
-## Era of depredations of the ghAzis in the south:
-See [anti-ghazi-south](../anti-ghazi-south/)
-
-## marATha age:
-See [maratha](../maratha/) page.
-
-## sikh rebellion:
-
-[![](http://i.imgur.com/J3Cnxkr.jpg)](http://www.youtube.com/watch?v=l07mvAcoLiI&feature=related)
-
-- [guru tegh bahAdur](http://en.wikipedia.org/wiki/Guru_Tegh_Bahadur), hind di chAdar, whose refusal to convert led to his torture and death but supposedly saved many kAshmIri paNDits (tale likely to be false).  
-
-- bandA bairAgI bahAdur, the rAjaputra who took up sannyAsa for inadvertently killing a pregnant deer in violation of the dharmashAstra-s, returned to the sword and gRhasthAshrama propelled by guru govinda-simha (while staunchly retaining his vegetarian vaiShNava base), avenged the guru, withstood torture, saw his one year killed and his liver stuffed into his mouth, refused to convert, and died. He never fully became an "sikh"ularist.  
-
-- bhAI maNI-siMha, who was chopped to death piece by piece for wanting to retain the right to celebrate dIpotsava.
-- [raNajIta sIMha](http://en.wikipedia.org/wiki/Ranjit_Singh), able ruler, devotee of kAshI vishvanAtha and jagannAtha, on whose [flag](http://p.twimg.com/AstzIq2CAAAybWz.jpg:large) stood kArttikEya \[[F1](../../../images/flags/raNajIta-simha-flag.jpg)\]. Banned azan (muslim call to prayer) and cow slaughter. \[[TW17](https://twitter.com/TrueIndology/status/854214062267396096)\]
-- [hari-siMha](http://en.wikipedia.org/wiki/Hari_Singh_Nalwa) naLvA, terror to the afghAns ("khamOsh bash haria raghle"), brilliant general, slayer of the tiger.  
-
-- Zoravar siMha the intrepid Dogra general, a kalhuria rAjaputra of the mountains, who solidly conquered Ladhak and Baltistan, repulsed the Tibetans and Chinese, and forced his way in pilgrimage to mAnasasarovara and kailAsa, reached the nepAla border and died fighting Tibetans on his way back ([wiki](https://en.wikipedia.org/wiki/Zorawar_Singh_Kahluria)). So honest that "he would transfer to his master any gifts or tribute that came to him."
-- To be continued.
 
 ## Rule of the European invaders:
 See [anti-preta](../anti-preta/)
