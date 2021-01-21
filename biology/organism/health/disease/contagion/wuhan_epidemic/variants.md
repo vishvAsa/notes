@@ -21,3 +21,5 @@ Some strains are much more infectious.
 ## G614
 - Round about Feb 2020, new variant emerged in the Europe that had a mutation to make it spread faster.
 
+## L452R California
+- Resurfaced in Jan 2021
