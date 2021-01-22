@@ -14,7 +14,7 @@ title = "Wifi Router"
 - 5GHz is faster but lower range.
 - 2.4GHz is slower, but longer range. Older devices need it.
 
-## History
-- TP-Link TL-WR841N 300Mbps Wireless N Cable, 4 Fast LAN Ports (snagar 2020) -  802.11 b/g/n.
-  - With E-Infrastructure & Entertainment India Pvt. Ltd ISP - 76Mbps down, 51 up wired connection (correct for plan). 
-  - Supposed max speed 300 Mbps
+## wifi-router-history
+<div class="spreadsheet" src="../wifi-router-history.toml" fullHeightWithRowsPerScreen=8> </div>  
+
+

@@ -1,0 +1,63 @@
+[[data]]
+provider = "Venkateshvara cable"
+plan = "ED_75Mbps_500GB_FUP_2Mbps"
+date_start = "2019-08-14"
+date_end = "2020-06-14"
+place = "sahakAranagara, bengaLUru"
+
+[[data]]
+provider = "Venkateshvara cable"
+plan = "ED_50Mpbs_400GB_FUP_2Mbps"
+date_start = "2020-06-14"
+date_end = ""
+place = "sahakAranagara, bengaLUru"
+
+[[data]]
+"provider" = 'Comcast cable'
+"plan" = '''
+Performance plus 60
+Mbps'''
+"date_start" = '2018-03-08T08:00:00.000Z'
+"date_end" = '2018-03-07T08:00:00.000Z'
+"cost" = '40$ for 12 months, own modem'
+place = "SF Bay area, CA"
+
+[[data]]
+"provider" = 'Comcast cable'
+"plan" = 'Performance 25 + speed upgrade to performance pro 25 to 100Mbps down'
+"date_start" = '2017-03-08T08:00:00.000Z'
+"date_end" = '2018-03-07T08:00:00.000Z'
+"विभागः" = 'Cost'
+"details" = '40$ for 12 months, own modem'
+place = "SF Bay area, CA"
+
+[[data]]
+"provider" = 'Comcast cable'
+"plan" = '''
+Deluxe 75 - 75Mbps/15Mbps
+'''
+"date_start" = '2017-03-08'
+"date_end" = '2016-03-08'
+"details" = '''
+Actual speed on phone next to good 300mbps router: 25 MBPS.
+Computer: 16MBPS down.
+Speed at router/ modem 60MBPS'''
+place = "SF Bay area, CA"
+
+[[data]]
+"provider" = 'Comcast cable'
+"plan" = '''
+Deluxe 75 - 75Mbps/15Mbps
+'''
+"date_start" = '2015-01-08T08:00:00.000Z'
+"date_end" = '2017-03-08T08:00:00.000Z'
+"cost" = '75.05$, own modem'
+place = "SF Bay area, CA"
+
+[[data]]
+"provider" = 'San Bruno cable'
+"plan" = ''
+"date_start" = '2012-08-08T07:00:00.000Z'
+"date_end" = '2015-01-08T08:00:00.000Z'
+"cost" = '42$, their modem'
+place = "SF Bay area, CA"
