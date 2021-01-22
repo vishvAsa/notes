@@ -1,6 +1,8 @@
 [[data]]
 model = "TP-Link TL-WR841N 300Mbps Wireless N" 
-features = "4 Fast LAN Ports (snagar 2020) -  802.11 b/g/n. Supposed max speed 300 Mbps"
+features = "4 Fast LAN Ports -  802.11 b/g/n. Supposed max speed 300 Mbps"
 details = """
 - With E-Infrastructure & Entertainment India Pvt. Ltd ISP - 76Mbps down, 51 up wired connection (correct for ED_75Mbps_500GB_FUP_2Mbps plan).
 """
+date_start = "2019-12-1"
+date_end = ""
