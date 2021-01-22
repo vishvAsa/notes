@@ -30,7 +30,7 @@ title = "Treatment"
 
 ## Upcoming drugs
 - Bacricitinib which has proven more benefit when combined with Remdesivir.
-
+ 
 ## Failed drugs
 - Hydroxychloroquine
 - Azithromycin the antibiotic was thought to have a role. The RECOVERY trial from Oxford has shown no benefit.

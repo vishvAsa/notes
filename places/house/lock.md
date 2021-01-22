@@ -11,7 +11,9 @@ title = "Lock"
 ## Electronic locks
 - Popular brands India 2020: Alba, CP plus (Indian HQ and manufacturing, good reach, comes with 5 keys). Navkar OEM - has deadlocking fefature unlike CP Plus ([YT](https://www.youtube.com/watch?v=WIT3zKhLyvw), [NS](http://navkarsys.com/Electronic-Door-Lock-Stainless-Steel-for-Wooden-and-Metal-Doors-with-Dead-Locking-Lock-Can-Be-Free-NSEL-390)).
 - Principle: when power is supplied, lock is unlocked.
-- Installation video - CP Plus [here](https://www.youtube.com/watch?v=BtK7Fis9Pck).
+- Installation video
+  - CP Plus [here](https://www.youtube.com/watch?v=BtK7Fis9Pck) .
+  - Navkar demo [here](https://www.youtube.com/watch?v=16CDy-o6TeQ)
 - Power: 12V DC. Power: higher than 3A or 12W. So, need a power adaptor.
 - Keeping the power supply on for longer than 8 seconds could damage the lock (CP Plus warning).
 
