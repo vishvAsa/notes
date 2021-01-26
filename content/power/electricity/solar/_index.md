@@ -23,7 +23,7 @@ Hybrid and off-grid need battery. Battery costs generally too high.
 
 ## On-grid billing and metering
 - Billing
-  - There will be 2 meters (or 1 bidirectional meter): one measuring electricity consumed, another measuring electricity delivered. 
+  - There will be a bidirectional meter: measuring electricity consumed, as well as electricity delivered. The electricity may be delivered after household consumption (aka net metering by BESCOM) - or before (aka gross metering by BESCOM).
   - Subtraction in the final bill, potentially money back at a certain lower rate (paid annually) for excess electricity delivered.
 - Excess units of current generated during summer will be accumulated. Some of these excess units will be used in cloudy season. Leftover will be purchased annually by electric company.
 - If grid power is down - solar power generation will not be sent to grid. 
