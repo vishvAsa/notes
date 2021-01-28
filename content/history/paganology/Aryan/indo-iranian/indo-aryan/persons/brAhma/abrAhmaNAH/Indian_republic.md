@@ -9,6 +9,9 @@ title = "Indian republic"
 [MS subbulakShmI](http://en.wikipedia.org/wiki/Subbulakshmi), daughter of a dEvadAsI, who remained a dEvadAsI in the truest sense, bhakti-vairAgya-saMpannA, divine voice who moved even the lay person and the foreigner to tears, bhArata-ratna. A great donor and patriot - who donated Masaysay award money to Phillipines, her new golden bangles towards the 1965 Indo-Pak war funds.  
 
 
+## Radhabinod Pal 
+One of 3 asian judges who participated in the Tokyo trials after WW2 - the only one to hold all accused innocent. Honored by the Japanese emperor and the Yasukuni shrine. 
+
 ## pramilA shrIvAstava
 mother of three, splendid mathematician, polyglot versed in saMskRta \[[RG09](https://www.researchgate.net/publication/265703321_Pramila_Srivastava_a_mathematician_par_excellence)\].
 
