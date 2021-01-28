@@ -60,6 +60,7 @@ Trigger antibody development thence.
 ### Efficacy
 - 50% protection after 14 days of first shot.
 - Reduces mild cases by 95% 7 days after 2nd dose of vaccine.
+- Immune response after mRNA vaccinations after 2 doses demonstrated good and safe antibodies 8 weeks later. The efficacy against mutants was slightly reduced.
 
 ### Severe Adverse reactions
 - The exclusion criteria that was used during Pfizer vaccine trial included people with allergies. Bang on, on the field, exactly same happened. 2 healthcare professionals in the UK had anaphylactic reaction. Now the health regulators have adviced those having similar allergies or anaphylaxis should not get this vaccine.
@@ -74,7 +75,7 @@ Trigger antibody development thence.
 ## Novavax vaccine
 - Directly injects stabilized spike proteins (mRNA or DNA not used.) This same technology has been used since 1986 with Hep B vaccines that are given to even infants and found extremely safer.
 
-## Bharat Biotech Covaxin
+## Bharat Biotech Covaxin BBV152
 - inactivated / attenuated whole virus particles 
 - DCGI approval for Phase 3 clinical trials in 26,000 participants in over 25 centres across India.
 
