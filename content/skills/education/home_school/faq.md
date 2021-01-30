@@ -118,14 +118,32 @@ title: "Homeschooling: FAQ गृहे शिक्षणम् - आक्ष�
 - The home-educated are doing well, typically above average, on measures of social, emotional, and psychological development. Research measures include peer interaction, self-concept, leadership skills, family cohesion, participation in community service, and self-esteem.
 
 ## What's wrong with regular schooling?
-- Factory model - near zero care for child's strengths, weaknesses, interests.
 - See lectures linked in the [intro page](../).
-- Passive learning, others' design: "The very structure of school makes children passive recipients of education designed by others. They cannot charge ahead fueled by curiosity, pursuing interests wherever they lead... the top priority in school is completing assignments correctly and scoring well on tests. Despite what individual children want to learn, value is given to what can be evaluated."
-- Age segregation - "They have little exposure to essential adult role models and minimal engagement in community life. "
-- Disembodied learning: "Movement is essential for learning. The emphasis in school, however, is almost entirely static, and almost entirely focused on left-brain analytical thinking."
-- Less trial and error: "Coming up with the correct answer leaves little room for trial and error... Emphasis on the correct answer squeezes out unconventional thinking. "
-- Overemphasis on early reading: "In school, reading is used to instruct in every other subject, so the child who doesn’t read at grade level quickly falls behind."
+
+### Factory model
+- near zero care for child's strengths, weaknesses, interests.
 - Same teaching techniques irrespective of age: "Conventional education takes the same approach to a six-year-old and an 18-year-old: assignments, grades, tests. "
-- Engendering cynicism - "Absorption and play are on one side in opposition to work and learning on another. This sets the inherent joy and meaning in all these things adrift. The energy that formerly prompted a child to explore, ask questions, and eagerly leap ahead becomes a social liability."
-- Poor evolutionary fit - "Structured education is actually very new to the human experience. Worse, it actually undermines the way children are primed to advance their abilities and mature into capable adults. ... That’s because most of the time humanity has spent on Earth has been as nomadic hunter-gatherers, before the advent of agriculture. This time span comprises approximately 98% of human history. Although our culture and lifestyle have changed considerably, our minds and bodies have not. "
-  - Among hunter-gatherers: "Their children play freely in multi-age groups without overt supervision or direction by adults. Such free play promotes self-regulation (ability to control behavior, resist impulse, and exert self-control) which is critical for maturity... Hunger-gatherer children must recognize thousands of species of plants and animals as well as how to best obtain, use, and store them. They must know how to make necessary items such as nets, baskets, darts, carrying devices, clothing, and shelter. They need to learn the lore of their people and pass along wisdom through story, ritual, and art. And perhaps most importantly, they need to be able to cooperate and share in ways that have allowed humanity to thrive. In such cultures, children learn on their own timetables in ways that best use their abilities."
+- Another fallacy is the ignoring of genetics and strong family traditions. Mango trees come from mango trees and banana trees come from banana trees. So, children need not be thought of as "blank slates" whose aptitude can only be determined by observation. 🙂 
+  - Example: My building contractor's sons are building contractors. As was his father, grandfather, great-grandfather etc.. He started assisting his father when he was 11. They're all quite happy and prosperous. 
+
+### Passive learning, others' design
+> "The very structure of school makes children passive recipients of education designed by others. They cannot charge ahead fueled by curiosity, pursuing interests wherever they lead... the top priority in school is completing assignments correctly and scoring well on tests. Despite what individual children want to learn, value is given to what can be evaluated."
+
+### Age segregation
+"They have little exposure to essential adult role models and minimal engagement in community life. "
+
+### Disembodied learning
+> "Movement is essential for learning. The emphasis in school, however, is almost entirely static, and almost entirely focused on left-brain analytical thinking."
+
+### Less trial and error
+> "Coming up with the correct answer leaves little room for trial and error... Emphasis on the correct answer squeezes out unconventional thinking. "
+
+### Overemphasis on early reading
+> "In school, reading is used to instruct in every other subject, so the child who doesn’t read at grade level quickly falls behind."
+
+### Engendering cynicism
+> "Absorption and play are on one side in opposition to work and learning on another. This sets the inherent joy and meaning in all these things adrift. The energy that formerly prompted a child to explore, ask questions, and eagerly leap ahead becomes a social liability."
+
+### Poor evolutionary fit
+- "Structured education is actually very new to the human experience. Worse, it actually undermines the way children are primed to advance their abilities and mature into capable adults. ... That’s because most of the time humanity has spent on Earth has been as nomadic hunter-gatherers, before the advent of agriculture. This time span comprises approximately 98% of human history. Although our culture and lifestyle have changed considerably, our minds and bodies have not. "
+- Among hunter-gatherers: "Their children play freely in multi-age groups without overt supervision or direction by adults. Such free play promotes self-regulation (ability to control behavior, resist impulse, and exert self-control) which is critical for maturity... Hunger-gatherer children must recognize thousands of species of plants and animals as well as how to best obtain, use, and store them. They must know how to make necessary items such as nets, baskets, darts, carrying devices, clothing, and shelter. They need to learn the lore of their people and pass along wisdom through story, ritual, and art. And perhaps most importantly, they need to be able to cooperate and share in ways that have allowed humanity to thrive. In such cultures, children learn on their own timetables in ways that best use their abilities."
