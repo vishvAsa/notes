@@ -72,8 +72,16 @@ Trigger antibody development thence.
 - Shown effective about 40 days after injection.
 - Storage: -20 Deg up to 6 months
 
-## Novavax vaccine
+## Novavax/ Covovax vaccine
 - Directly injects stabilized spike proteins (mRNA or DNA not used.) This same technology has been used since 1986 with Hep B vaccines that are given to even infants and found extremely safer.
+- Serum Institute in India tied up with Novavax and ready to roll out vaccines by July.
+- Efficacy: Overall - 89%, South Africa - 50%
+  - Current strain D614G: 95%
+    UK strain B1.1.7: 89.3% 
+    South African  variant 501Y.V2: 60%
+    HIV Neg: 60.1%
+    HIV Pos: 49.4%
+    Severe disease: 100%
 
 ## Bharat Biotech Covaxin BBV152
 - inactivated / attenuated whole virus particles 
@@ -98,9 +106,13 @@ Trigger antibody development thence.
 - inactivated / attenuated whole virus particles 
 - Supposedly 79.34% effective. UAE: 86% effective
 
-## Johnson and Johnson vaccine
+## Johnson and Johnson (JNJ Janssen) vaccine
 -  uses Adenovirus as a vector carrying the virus spike protein.
 - Potentially single dose vaccine.
+- Efficacy
+  - Overall - 66%, South Africa: 57%
+  - 66 % effective in Latin America, 57 % effective in South Africa. 
+  - 85 % effective overall at preventing severe disease
 
 ## Other Trials as of 2020-12
 - FDA standards - "If a particular vaccine doesn't demonstrate a minimum of 50 percent efficacy, it will not be approved."
