@@ -4,7 +4,9 @@ unicode_script = "devanagari"
 +++
 
 ## Layers
-In a paint system, the topcoat provides a resinous seal over the intermediate coats and the primer.
+- In a paint system, the topcoat provides a resinous seal over the intermediate coats and the primer.
+- Distemper or Cement Paint is applied to the wall directly.
+- The emulsion is applied on the wall to give matt finish and Emulsion paints are water-based. 
 
 ## Health concerns
 - myriad chemicals to enhance the product shelf life, color, texture and other properties.

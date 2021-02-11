@@ -10,3 +10,7 @@ title = "Plywood"
   - Green Club Plus 700  (GP). 25mm for doors: 2020 price online: 8634 + taxes.
 - E1 standards
   - use GreenPly Green (gold) brand blockboard/ plywood
+
+## Birch plywood
+- Birch plywood does not have jagged edges and knots
+- Grows fast in baltic countries
