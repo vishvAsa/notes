@@ -39,7 +39,7 @@ The idea is that you train how you feel on the day, and use your program as a gu
 - 1 Power is the fast application of strength
 - 2 Fast movement without strength is quickness - reflexivity; like a cat trying to catch a butterfly with it's paw
 - 3 The outcome of fast application of strength (power) on an external object isn't necessarily high speed
-- 4 Reflexivity is verrry stubborn to training
+- 4 Reflexivity is verrry stubborn to trainingसौवीरे च विशेषः
 - 5 Strength can be improved immensely
 - 6 Power is improved by increasing strength
 - 7 Power is hardly improved by moving lighter weights faster

@@ -4,7 +4,7 @@ title: Principles
 
 ## सुतेषु काङ्क्षाः Desiderata
 
-कस्यचित् Checkvist-टिप्पणयो [ऽत्र](https://checkvist.com/checklists/575542-desiderata)।
+कस्यचित् Checkvist-टिप्पन्यो [ऽत्र](https://checkvist.com/checklists/575542-desiderata)।
 
 प्राचीनेषु+उदाहरणानि -
 
