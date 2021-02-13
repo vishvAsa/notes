@@ -3,8 +3,9 @@ title = "Components"
 +++
 
 ## Clear finishes
-- carrier, or solvent - preserves the finish liquid in the container and evaporates as the finish dries. Oft petroleum-based or synthetic materials; or linseed oil or water.
-- binder, or resin - protects the surface.
+- pigments - generally the same across all media
+- carrier, or solvent or extender - preserves the finish liquid in the container and evaporates as the finish dries. Oft petroleum-based or synthetic materials; or linseed oil or water.
+- binder, or resin - holds the pigment, protects the surface.
   - lacquer, natural oils, shellac, and varnish
   - Clear coat paint - Polyurethane based.
 - Additives 

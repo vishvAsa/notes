@@ -31,3 +31,6 @@ unicode_script = "devanagari"
 - Nippon paints chennai - [YT](https://www.youtube.com/watch?v=pJFQl4YJQOM).
   - GreenPro certified; Gold certified GreenCo.
   - Does not contain any added lead, mercury or chromium compounds. Lead content does not exceed 90 parts per million.
+
+## Brush cleaning
+hardware store turpentine, mineral oil, or odorless paint thinner
