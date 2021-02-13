@@ -3,7 +3,7 @@ title: सम्भाजिपत्रम्
 unicode_script: devanagari
 ---
 
-मूलम् [अत्र](http://vhp.org/wp-content/uploads/2019/11/hindubodh-apr14.pdf), [अत्र](https://pbs.twimg.com/media/EZpeI97XYAAnVPw?format=jpg&name=large)। टिप्पणिर् [मानसतरङ्गिणीकारेणात्र](https://manasataramgini.wordpress.com/2010/04/25/the-scope-of-shivajis-plan-of-svarajya/)।
+मूलम् [अत्र](http://vhp.org/wp-content/uploads/2019/11/hindubodh-apr14.pdf), [अत्र](https://pbs.twimg.com/media/EZpeI97XYAAnVPw?format=jpg&name=large)। टिप्पनीर् [मानसतरङ्गिणीकारेणात्र](https://manasataramgini.wordpress.com/2010/04/25/the-scope-of-shivajis-plan-of-svarajya/)।
 
 ## अभिवादनम्
 रामराम राजमान-राजमान-महाराज-**रामसिंहवर्म**-महाशयेषु,  
