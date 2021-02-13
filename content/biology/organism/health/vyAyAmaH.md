@@ -36,9 +36,19 @@ The idea is that you train how you feel on the day, and use your program as a gu
 
 
 ### Quickness vs power
+- 1 Power is the fast application of strength
+- 2 Fast movement without strength is quickness - reflexivity; like a cat trying to catch a butterfly with it's paw
+- 3 The outcome of fast application of strength (power) on an external object isn't necessarily high speed
+- 4 Reflexivity is verrry stubborn to training
+- 5 Strength can be improved immensely
+- 6 Power is improved by increasing strength
+- 7 Power is hardly improved by moving lighter weights faster
+
 > There's a saying that, 'You can't fire a cannonball from a canoe" - you need a battleship.... To increase your power you need to increase your "rate of force development" (RFD) - emphasis on the force component. No amount of throwing a golf-ball fast will make me throw a baseball faster, and it degrades further (if it were possible) as the weight of the implement you're throwing increases. To throw a baseball faster I need a 'stronger throwing arm’ and most likely a stronger upper and lower body, making sure not to negatively impact the whip, elasticity and efficient movement pattern of my arm/shoulder.
 >
 > If you to make a Jet faster, everything else the same, you need to increase the thrust.
+> 
+>  - GA
 
 ### Chronic long endurence exercise
 "If you insist on doing chronic long endurance exercise when you're older swap from weight-bearing (running) to non-weight bearing exercise (swimming, cycling, rowing, etc). Only excepting is normal walking. ... Chronic running when you're older is a disaster  - injuries, joint probs, etc.." Exception to non-weight bearing clause: "Intense/robust exercise, HIIT, intervals, RT - it is essential to do weight-bearing exercise, but you can add non weight-bearing as well."

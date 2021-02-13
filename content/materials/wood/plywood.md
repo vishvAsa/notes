@@ -12,5 +12,6 @@ title = "Plywood"
   - use GreenPly Green (gold) brand blockboard/ plywood
 
 ## Birch plywood
-- Birch plywood does not have jagged edges and knots
-- Grows fast in baltic countries
+- Doesn't need laminate - naturally comes with good veneer.
+- Birch plywood does not have jagged edges and knots. Safer, and edges look better.
+- Grows fast in baltic countries.
