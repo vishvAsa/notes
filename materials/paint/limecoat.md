@@ -10,6 +10,9 @@ title = "Lime plaster"
 - Thick Lime plaster with 1% added chemicals. 
 - Absorbs moisture (even from wall substrate) keeps room dry. Durable.
 
+### Products
+- SuryaCem
+
 ### Bangalore Rates (limocoat) 2020
 - Rates including application, Minimum 425 sq ft required
 - Stucco 130/- per sq ft 
