@@ -28,7 +28,6 @@ Some strains are much more infectious.
 - Mutations: N501Y E484K. 
 - Preliminary data from South Africa suggests that the novel variant 501.V2 wasn't recognised by antibodies in 21/44 serum samples collected from people infected in the first wave.
 
-
 ## D614G and G614
 - Round about Feb 2020, new variant emerged in the Europe that had a mutation to make it spread faster.
 
