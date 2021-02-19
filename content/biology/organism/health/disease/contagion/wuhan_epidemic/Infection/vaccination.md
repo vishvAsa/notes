@@ -33,6 +33,9 @@ Trigger antibody development thence.
 ### Inactivated viral vaccines
 - Hepatitis A and Salk Polio virus are inactivated vaccines. These vaccines have adjuvants with alum or aluminium that can cause severe reactions at injection site as opposed to mRNA or DNA vaccines.
 
+## Natural infection
+- See [reinfection](../reinfection) page.
+
 ## Oxford Astra-Zeneca ChAd0x1 vaccine azd1222
 - Aka Covishield by SII in India. 
 -  It is chimpanzee adenovirus packaged with viral Spike protein instruction DNA, due to which the body produces spike proteins and thence antibodies to those.
@@ -44,6 +47,8 @@ Trigger antibody development thence.
   - vaccine efficacy was 62.1% (n=8,895; CI 41.0% to 75.7%), and 90.0% (n=2,741; CI 67.4% to 97.0%) in participants who received a half dose followed by a full dose.
   - The protection starts on the 22nd day after the first dose.
 - if you have antibodies to the vector that they use, Chimpanzee Adenovirus results in neutralizing the vaccine efficacy. Such antibodies may develop after the first dose as well, nullifying the second dose. (Chinese had tried similar trials and had demonstrated 52% of their participants had antibodies to Adenovirus which is a naturally occurring viral infection.)
+- It reduces both asymptomatic ones as well as Severe cases.
+- South Africa has stalled the Oxford vaccine as the reports emerged the vaccine is not effective with mild to moderate cases with B1351 variant from South Africa.
 
 ### UK Trial problems
 - Less Black  and Asian representation.
@@ -65,12 +70,17 @@ Trigger antibody development thence.
 ### Severe Adverse reactions
 - The exclusion criteria that was used during Pfizer vaccine trial included people with allergies. Bang on, on the field, exactly same happened. 2 healthcare professionals in the UK had anaphylactic reaction. Now the health regulators have adviced those having similar allergies or anaphylaxis should not get this vaccine.
 - Pfizer vaccine volunteers got Bell's palsy(4 of them)
+- Low platelet count called Immune thrombocytopenia following Pfizer/Moderna vaccine administration are getting reported in the USA in small numbers.
+- Till date,66 cases out of ~18 million vaccinations (=0.00000003%) had such reactions. All but 1 within 11 minutes. No deaths at all.
 
 ## Moderna vaccine
 - Synthetic mRNA-1273 for spike protein.
+- Storage: -20 Deg up to 6 months
+
+### Efficacy
 - 94.1% efficacy.
 - Shown effective about 40 days after injection.
-- Storage: -20 Deg up to 6 months
+- It is not doing much to reduce the asymptomatic ones. The mRNA vaccines give good robust antibodies but not the IgA antibodies coating the nasal passages.So,you still carry viruses and keep spreading.
 
 ## Novavax/ Covovax vaccine
 - Directly injects stabilized spike proteins (mRNA or DNA not used.) This same technology has been used since 1986 with Hep B vaccines that are given to even infants and found extremely safer.
@@ -82,6 +92,8 @@ Trigger antibody development thence.
     HIV Neg: 60.1%
     HIV Pos: 49.4%
     Severe disease: 100%
+- Among placebo group for Novavax’s vaccine in South Africa, people with prior #COVID19 infections appeared just as likely to get sick as people without prior infections—means past infection wasn’t fully protective for B1351 variant.
+
 
 ## Bharat Biotech Covaxin BBV152
 - inactivated / attenuated whole virus particles 
