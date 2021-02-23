@@ -32,6 +32,7 @@ Trigger antibody development thence.
 
 ### Inactivated viral vaccines
 - Hepatitis A and Salk Polio virus are inactivated vaccines. These vaccines have adjuvants with alum or aluminium that can cause severe reactions at injection site as opposed to mRNA or DNA vaccines.
+- Dr Kang expresses reservations if the inactivated vaccines like COVAXIN work with new mutants as the mutations are occurring at the spike of the virus.
 
 ## Natural infection
 - See [reinfection](../reinfection) page.
@@ -64,7 +65,8 @@ Trigger antibody development thence.
 
 ### Efficacy
 - 50% protection after 14 days of first shot.
-- Reduces mild cases by 95% 7 days after 2nd dose of vaccine.
+- Single shot of Pfizer vaccine is 85% effective in  preventing symptomatic disease 15-28 days after the 1st dose: Israel data.
+- Reduces mild/ severe cases by 95% 7 days after 2nd dose of vaccine; reduces infection by 90%.
 - Immune response after mRNA vaccinations after 2 doses demonstrated good and safe antibodies 8 weeks later. The efficacy against mutants was slightly reduced.
 
 ### Severe Adverse reactions
