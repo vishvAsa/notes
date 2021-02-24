@@ -2,7 +2,7 @@
 title = "Components"
 +++
 
-## Clear finishes
+## General
 - pigments - generally the same across all media
 - carrier, or solvent or extender - preserves the finish liquid in the container and evaporates as the finish dries. Oft petroleum-based or synthetic materials; or linseed oil or water.
 - binder, or resin - holds the pigment, protects the surface.
@@ -12,6 +12,7 @@ title = "Components"
   - fungicidal chemicals.
   - Chemical dryers (in case of slow drying linseed oil binders)
 
+## Clear finishes
 ### Lacquer
 - mostly acrylic; sometimes nitrocellulose
 - usually has high solvent and VOC content
@@ -36,5 +37,3 @@ title = "Components"
 
 ### Varnish
 - acrylic or urethane binder + drying oil
-
-### Water-Based Sealer (acrylic or urethane binder)

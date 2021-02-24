@@ -24,10 +24,18 @@ title = "+Plastics"
 - Polyurethane does not degrade well in evironment - something like 1% top per year
 
 ### Environmental impact
-When polyurethane breaks down in the environment, it will not break down into its individual polymer strands. Instead, individual bonds are broken down between molecules, releasing individual molecules into the environment. These molecules are almost exclusively inert compounds that will not react or accumulate toxicity in natural environments.
+Dubious claim - "When polyurethane breaks down in the environment, it will not break down into its individual polymer strands. Instead, individual bonds are broken down between molecules, releasing individual molecules into the environment. These molecules are almost exclusively inert compounds that will not react or accumulate toxicity in natural environments."
 
-## Acrylic resin
+## Acrylate polymers
+- "they won't survive 100s of years - after a few years light heat and moisture will break them down into component chemicals (rather than microplastics)".
+
+### Acrylic resin
 - a thermoplastic or thermosetting plastic substance derived from acrylic acid, methacrylic acid or other related compounds.
 - Acrylic resin is considered extremely weatherproof. This makes it ideal for outdoor applications. In solid form acrylic resin can last for decades. It does not yellow when exposed to sunlight, even after many years.
 
-Polyurethane differs in that once the polymer has been reacted, the individual strands change on an atomic level and crosslink between each other. At these crosslinks, a new molecule is formed, entirely changing the properties of the material.
+## Poly-vinyl-acetate
+- thermoplastic, odourless, tasteless
+- Fevicol is a Poly Vinyl Acetate emulsion.
+
+### Biodegradability
+- there is no evidence that glue products are found in the environment. In fact, a number of microorganisms like algae, yeast, lichens, and bacteria actually degrade polyvinyl acetate.

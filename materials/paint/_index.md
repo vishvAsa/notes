@@ -28,6 +28,8 @@ unicode_script = "devanagari"
 - Low-VOC paints: As specified by the EPA, these paints can have VOC concentrations ranging from 5 to 200 gram per liter of paint.
 
 ## Green products
+- Natural paints such as limecoat.
+  - Turkish Belka cotton paint.
 - Nippon paints chennai - [YT](https://www.youtube.com/watch?v=pJFQl4YJQOM).
   - GreenPro certified; Gold certified GreenCo.
   - Does not contain any added lead, mercury or chromium compounds. Lead content does not exceed 90 parts per million.
