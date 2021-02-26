@@ -39,3 +39,8 @@ Dubious claim - "When polyurethane breaks down in the environment, it will not b
 
 ### Biodegradability
 - there is no evidence that glue products are found in the environment. In fact, a number of microorganisms like algae, yeast, lichens, and bacteria actually degrade polyvinyl acetate.
+
+## Epoxy
+-  a thermosetting polymer made from a monomer that contains at least two epoxide groups. The term epoxy can be used for the cured end product or any of the basic components within epoxy resins.
+- Epoxy resins can be homopolymerized or cross-linked into a three dimensional network using curatives. A broad assortment of curatives are available for ambient or thermal-curing and include polyfunctional acids, amines, phenols, thiols, alcohols and anhydrides, and are often known as curing agents or hardeners.
+- Uses: Strong glues, some paint, outstanding electrical insulators.
