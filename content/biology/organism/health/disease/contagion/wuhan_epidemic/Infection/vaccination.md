@@ -106,7 +106,7 @@ Trigger antibody development thence.
 
 
 ## Gamelaya Sputnik V
-- The Russians have used human Adenovirus and use 2 different strains as vectors cleverly in their Sputnik vaccine. Apparently,this reduces the chances of preexisting antibodies reducing the efficacy.
+- The Russians have used human (rather than chimp) Adenovirus and use 2 different strains (Ad26 and Ad5) as vectors cleverly in their Sputnik vaccine. Apparently,this reduces the chances of preexisting antibodies reducing the efficacy.
 - Russia says its Sputnik V vaccine is 91% effective.
 - Storage: Regular fridge temperature. 
 
@@ -121,8 +121,8 @@ Trigger antibody development thence.
 - Supposedly 79.34% effective. UAE: 86% effective
 
 ## Johnson and Johnson (JNJ Janssen) vaccine
--  uses Adenovirus as a vector carrying the virus spike protein.
-- Potentially single dose vaccine.
+-  uses Ad26 Adenovirus as a vector carrying the virus spike protein.
+- single dose vaccine.
 - Efficacy
   - Overall - 66%, South Africa: 57%
   - 66 % effective in Latin America, 57 % effective in South Africa. 

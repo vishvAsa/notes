@@ -2,8 +2,13 @@
 title = "Variants"
 +++
 
+{{< figure src="../../images/virus-lineages-202102.jpg" title="" class="thumbnail">}}
+
+
 ## Strain difference
 Some strains are much more infectious. 
+
+Original is called: Victoria.
 
 ## 20J/501Y.V3
 - Manaus, Brazil
@@ -31,5 +36,8 @@ Some strains are much more infectious.
 ## D614G and G614
 - Round about Feb 2020, new variant emerged in the Europe that had a mutation to make it spread faster.
 
-## L452R California
+## L452R California  B 1.429/427 ?
 - Resurfaced in Jan 2021
+
+## NY B 1526
+- ability to escape from antibodies and vaccines.
