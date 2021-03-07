@@ -144,7 +144,7 @@ tail(x, k) picks the k last elements.
 To append to a vector: append(v, val)
 
 #### Creating vectors
-c(1,2) : Using the concatenation function.
+Using the concatenation function - c(1, 23, 24) creates a vector of the given elements.
 
 seq(); This can be abbreviated using the : operator.
 
@@ -370,9 +370,40 @@ sink('fileName') diverts output to a file. sink() restores it to STDIO.
 #### Input
 x= scan(): keyboard input, no commas.
 
-### Plotting and tables
+### Plotting 
 ` plot(y ~ x) ` produces a scatter plot.
 
+```R
+plot(x, y, main="title", sub="subtitle",
+  xlab="X-axis label", ylab="y-axix label",
+  xlim=c(xmin, xmax), ylim=c(ymin, ymax))
+plot(NULL, xlim=c(0,1000), ylim=c(0,1000), xlab="Generations", ylab = "N_t") # Empty plot
+```
+
+#### Attributes
+```R
+legend( x="topright",
+        legend=c("k=2k","k=1.5k", "k=1k"),
+        col=c("red","blue", "green"))
+```
+
+#### Add to same plot
+```R
+plot(x,y1,type="l",col="red")
+lines(x,y2,col="green")
+points(x,y2,col="blue")
+```
+
+#### Combine plots
+```R
+par(mfrow = c(1,2)) # Make 1*2 grid
+par(mfg=c(1,1)) # Set the first plot
+plot(NULL, xlim=c(0,1000), ylim=c(0,1000), xlab="Generations", ylab = "N_t")
+par(mfg=c(1,2)) # Set the second plot
+plot(NULL, xlim=c(0,50), ylim=c(0,1), xlab="Generations", ylab = "R_t")
+```
+
+### Tables
 Tables can be produced with `xtabs(y ~ x)`.
 
 ## Data preparation and exploration
