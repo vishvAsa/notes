@@ -4,6 +4,9 @@ title = "Floor wax"
 
 - Most floor finishes are water-based acrylic copolymers suitable for use under normal foot traffic.
 
+## Natural oils
+- Earthen floors can be sealed with drying oils. Drying oils polymerize as they dry, on interacting with oxygen. Typically: Linseed oil and Tung Oil. Solvents let the oil penetrate the floor better.
+
 ## Dazlo
 - Dazlo Floor Wax is not available at any retail shop in Bangalore. So you will have to order it through Amazon or directly through us. 
 - The majority of components in the wax are of natural origin, but some minor synthetic components are also presents. The exact names and ratios of the ingredients cannot be disclosed.
