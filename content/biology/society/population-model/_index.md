@@ -11,6 +11,10 @@ title = "+Population model"
 - Process based, open ended "theory"
 - Fitting a model to a specific dataset/ outcome.
 
+## Resources
+- Vishvesh Guttal 2021 course: [videos](https://www.youtube.com/playlist?list=PLSG8-hBQ2Vg2zs_KhBhEH3rGaZcKNkdGr), [canvas site](https://canvas.instructure.com/courses/2579503).
+
+
 ## General framework
 Let \\(N_t\\) be reproducing individuals at time \\(t\\). Let \\(b\\) be offspring per individual per generation, who survive to become reproducing adults. Let d = death probability per individual per generation.   
 Then, number of individuals one generation hence is \\(N_{t+1} = N_t + Births - Deaths = N_t +b N_t - d N_t = N_t (1 + b - d) = R N_t \\).
