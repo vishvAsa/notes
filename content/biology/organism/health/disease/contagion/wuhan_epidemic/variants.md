@@ -10,8 +10,10 @@ Some strains are much more infectious.
 
 Original is called: Victoria.
 
-## 20J/501Y.V3
+## 20J/501Y.V3 or P.1
 - Manaus, Brazil
+- 2-2.5 times more transmissible and proving to be lethal.
+- Brazil used Chinese Sinovac vaccine which has lesser protection against the mutants.
 
 ## VOC-202012/01, B.1.1.7, 20I/501Y.V1
 

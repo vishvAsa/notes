@@ -84,8 +84,9 @@ Trigger antibody development thence.
 - Shown effective about 40 days after injection.
 - It is not doing much to reduce the asymptomatic ones. The mRNA vaccines give good robust antibodies but not the IgA antibodies coating the nasal passages.So,you still carry viruses and keep spreading.
 
-## Novavax/ Covovax vaccine
+## Novavax/ Novavac/ Covovax vaccine
 - Directly injects stabilized spike proteins (mRNA or DNA not used.) This same technology has been used since 1986 with Hep B vaccines that are given to even infants and found extremely safer.
+- can be stored in warmer temperatures, anywhere between 36°F and 46°F.
 - Serum Institute in India tied up with Novavax and ready to roll out vaccines by July.
 - Efficacy: Overall - 89%, South Africa - 50%
   - Current strain D614G: 95%
