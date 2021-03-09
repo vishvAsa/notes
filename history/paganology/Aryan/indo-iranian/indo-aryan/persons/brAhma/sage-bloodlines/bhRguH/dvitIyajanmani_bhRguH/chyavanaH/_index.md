@@ -17,6 +17,6 @@ title = "च्यवनः"
 
 
 ### अर्वाचीनेषु धूसरभार्गवाः
-- धूसर-भार्गवंमन्यानां विषये [ऽन्यत्र](../../../../kalpe_svamatam/social-cultivation/clan/practice/varNa/brAhmaNa/dhUsara-bhArgavas/) पाठ्यम्।
+- धूसर-भार्गवंमन्यानां विषये [ऽन्यत्र](/saMskAra/kalpe_svamatam/social-cultivation/clan/practice/varNa/brAhmaNa/dhUsara-bhArgavas/) पाठ्यम्।
 - Naval Kishore, pioneer publisher ("Empire of books"), British loyalist, pro-Hindu-muslim-alliance.
 - मञ्जुलभार्गवः। गणितज्ञः प्रख्यातः। संस्कृतपण्डितस्य पुरुषोत्तमलालस्य (Purushottam Lal Bhargava, Sanskrit Department at Rajasthan University) पौत्रः, Pandit M.B.L. Bhargava इत्यस्य प्रपौत्रः।
