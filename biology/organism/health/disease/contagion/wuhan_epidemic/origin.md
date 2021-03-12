@@ -11,7 +11,7 @@ Origin - Wuhan, China.
 - "Unrelated respiratory disease viruses like adenoviruses & coronaviruses might have exchanged genes in their deep evolutionary history. This interesting finding would have come about had the impetus not come from the ongoing pandemic." - MT
 
 ### Engineering
-- Analysis of SARS-like viruses suggests that engineering or directed modification in a lab before release.
+- Analysis of SARS-like viruses argues against engineering or directed modification in a lab before release.
 
 ## Outbreak theories
 - Might have got to man due to eating animals in the infamous wet-market. (The original SARS epidemic could be linked to consumption of civets. )
