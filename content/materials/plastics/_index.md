@@ -44,3 +44,9 @@ Dubious claim - "When polyurethane breaks down in the environment, it will not b
 -  a thermosetting polymer made from a monomer that contains at least two epoxide groups. The term epoxy can be used for the cured end product or any of the basic components within epoxy resins.
 - Epoxy resins can be homopolymerized or cross-linked into a three dimensional network using curatives. A broad assortment of curatives are available for ambient or thermal-curing and include polyfunctional acids, amines, phenols, thiols, alcohols and anhydrides, and are often known as curing agents or hardeners.
 - Uses: Strong glues, some paint, outstanding electrical insulators.
+
+## Lycra/ spandex
+- like wetsuits, very elastic. When putting a garment with spandex in the dryer, it tends to dry out and the strands break meaning the garment loses compression power.
+
+## Nylon
+light, tough. Easily melts. Hydrophilic.
