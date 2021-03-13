@@ -26,14 +26,14 @@ title: Principles
   - प्रवचनम्
 
 ## स्थूल-विधौ अपेक्षाः
-### शिक्षण-माध्यमानि
+### शिक्षण-मार्गाः
 - प्रश्नैः शिक्षणम्।
 - स्पष्टोत्तरदानेन शिक्षणम्। 
 - क्रीडाभिः शिक्षणम्।
 - अनुभवेन शिक्षणम्।
   - Volunteering, Internships
   - Games: Video games
-- विस्मयजनक-कथाभिः शिक्षणम्।
+- विस्मय-जनक-कथाभिः शिक्षणम्।
   - किन्तूत्तमश् शिक्षितो गाम्भीर्येण गृह्णीयात् पाठम्।
       - Make sure that the student is always convinced that there is something to it (eg. - sure that panchatantra is not just stupid animal stories, that oblations to the fire rivets one to the cosmic order).
 - सुभाषितैः शिक्षणम्।
@@ -65,6 +65,7 @@ title: Principles
 - पोषकेभ्यः किमिष्यते? अवधानम्, मुख्यतया।
   - "More than anyone, these children need adults in their lives and resources are secondary. At the minimum, a library card and internet connection can help them, but a caring, attentive adult, who can give smaller ratio attention will be most beneficial in developing competencies."
 - “Hand Heart Head” इति क्रमम् इच्छन्ति केचित्।
+- Per age progression: Rote learning phase → Logic phase → Rhetoric phase
 
 #### आसक्तिः
 - आसक्तिजननम् अन्यत्रोक्तम्।
