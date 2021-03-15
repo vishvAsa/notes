@@ -1,5 +1,5 @@
 ---
-title: +Steppe radiations
+title: +Hunnic
 ---
 
 - Summary - Huns→Blue Turks→China→Blue Turks→\[Arabs, Tibetans, various Turks, China\]→Uighurs→Kirghiz→Kitans→Mongols of Chingiz Kha’Khan \[[MT](https://manasataramgini.wordpress.com/2010/03/06/the-epic-on-stone/)\]
