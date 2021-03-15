@@ -18,7 +18,10 @@ religion – is the movement from primeval monotheism to paganism resulting from
 the excessive veneration of ancestors and foreign influences ending ultimately with
 the restoration of monotheism by the Islamic prophet.
   - What is noticeably absent from such works is any sense of a mythological framework  – the gods are isolated idols, stones, statues, and carvings, each one revered by a different social group with no narrative connection between them or any description of their role in cosmos.
-    
+
+#### Propaganda
+- "jAhils widely practiced female infanticide".
+
 ## Rites
 ### Motivations
 - General requests, such as for security (slm), relief (ryḥ/rwḥ), deliverance (fṣy(t)/flṭ(t)), and protection from enemies or misfortune (śnʾ and bʾs, respectively) are the most common and appear to be made of any deity writers hoped to favor them. The expectation that the gods be just, responding to the correct performance of ritual and prayers. BES19 1 - The supplicant calls upon Baʿal-Samīn to heal a sick man so that his people ʾl-h would say that the god is just, ṣadaqa.
