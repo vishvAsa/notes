@@ -19,5 +19,6 @@ title = "Floor wax"
 - It will be definitely better if you can use a polishing machine. In case of hand application, the buffing step is a bit strenuous.
 - Buff with a clean soft cloth
   - Also, in case you find the wax to be a little difficult to buff, then you can add about 5-10% Mineral Turpentine Oil (available at local paint hardware shops) to the wax, mix it and then use it. This will make the wax thinner and easier to apply and buff.
+  - Some people (esp in Southern India) use coconut oil to make the wax thinner and it works fine in most cases, but please make sure to add minimal quantity of coconut oil as there are some negative aspects of it. So I would still say that the best additive to make the wax softer and thinner is Turpentine Oil (either mineral or plant origin will do).
 - Replace the lid tightly after use.
 

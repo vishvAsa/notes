@@ -1,0 +1,12 @@
++++
+title = "mAn-singh-rAthod"
++++
+
+
+There was once made a desperate attempt by a visionary Rajput youngster Man Singh Rathod of Jodhpur to forge a rajput-jat-holkar-sikh-gorkha alliance against the British. He voluntarily sent his marwad army (and a fighting Naga band) to join the Holkar-Jat alliance fighting under Yaswantrav Holkar at Bharatpur. The Holkar family was brought safely to his Jodhpur palace where they spent a year despite all the British pressure on Man Singh to hand them over to the Brits. At this time he also sent secret letters to the other Maratha chiefs to forget the mutual rivalry in joining their forces again. It is to this effect that he also brought the deposed Bhosla king from Nagpur to Jodhpur, where he died after living there some years. The Rathod prince also wrote secret letters to the Gorkhas (who were his Gurubhai-s, he himself being a nath-yogi of the western Goraksha tradition like the Gorkhali king) and Maharaja Ranjit Singh at Lahore to abandon their mutual struggles and join hand for a larger alliance. 
+
+But British proved to be much more cunning than to allow any such thing. His letters to Ranjit Singh fell into the hands of British spies at Maharaja's court (some say Ranjit Singh himself gave the letter to the British ambassador at his court, but it is doubtful.) 
+
+Man Singh also wanted to push westward and regain the Sindh province from the long Muslim rule - in the treaty that he was finally forced to enter with Brits, it is a condition stipulated from his side that Brits will not interfere in his campaign to Sindh. But all his efforts were wasted, and neither the Sikhs nor the individual Maratha chiefs nor the Gorkha-s yielded until they all perished individually. 
+
+Just before the third anglo-maharatta war during the so-called pindari campaign, Brits asked Man Singh to send for their use the famous Marwadi horse regiment of his army for the campaign -- which as per the treaty he was supposed to supply on demand of the Brits, after being pushed several times, he sent for them a thousand domestic donkeys mounted by gardeners, barbers, washermen and such to fight for the british -- which so much irritated them as to invade Jodhpur. Much later, during the 1857 struggle, Marwad's was the only Rajput regiment that fired against the British.
