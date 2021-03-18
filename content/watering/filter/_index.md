@@ -18,20 +18,38 @@ title = "+Filter"
   - Higher in borewell water
   - TDS levels greater than 1000 mg/litre make drinking-water increasingly unpalatable and unhealthy.
 
+## Chemical filtration
+### Carbon filter
+- When used as a pre-filter - removes chemical contamination - chlorine, chloramide, fluoride etc.. Hence AKA chemiblock.
+- When used as a post-filter, it removes bad odor and improves taste.  
+- Carbon cartridge needs to be flushed when installed.
+- Contains activated carbon, which has high surface area -  so high abrsorptive power.
+
+## Quality
+- Check how much it is filled by shaking it or breaking open. Half filled filters specially useless if installed horizontally.
+- Natural coal contains high sulphur - so not suitable. Coconut shell made ones are better - 10 times better than natural coal.
+- Quality of coal is measured with IV (iodine value). 1100 to 1200 good.
+- Good filter should get chalked.
+
 ## Simple membrane filtration
 - Simple Gravity filters. Good for removing mud etc..
 
-### Microfiltration
+### .1 micron
+- Aka Microfiltration
 - Ceramic filters - 0.2 microns pores
+- Sediment cartridges come in .1 microns (Filterkart) as of 2020. Sediment cartridge gets chalked over time with sand, silt, rust etc. (if good quality). [Filterkart vid](https://www.youtube.com/watch?v=qxYqCq7vAFE). 
 
-### UF (Ultrafiltration)
-- hydrostatic pressure to force water through a semi-permeable membrane.
-- Hollow fiber membrane used.
-- Bigger pores compared to RO; so less effective.
+### .01 micron
+- Water is forced to flow through insides of small hollow fibers
 - Membranes used are predominantly created from polymer thin films.
+- Aka UF (Ultrafiltration)
+- Pore size
+  - Removes bacteria, virus etc..
+  - .01 micron pores -[Filterkart vid](https://www.youtube.com/watch?v=NBANA4N1wLs)
+  - Bigger pores compared to RO; so less effective?
 
 ### Nanofiltration (NF)
-- Good for low TDF
+- Good for low TDS
 - Smaller (nanometer) pores than microfiltration and ultrafiltration; just larger than RO membranes.
 - can "soften" water by retaining scale-forming, hydrated divalent ions (e.g. Ca2+, Mg2+) while passing smaller hydrated monovalent ions.
 
@@ -67,6 +85,10 @@ title = "+Filter"
 ## Generic Fittings
 - john guest push fittings - a ring air-tight seals the connected pipe when the pipe is pushed all the way through. To release, one pushes this ring (by hand or screwdriver). 
 - Weight sensor - breaks the circuit of filtration pump when the output tank is filled with water.
+
+### Pump
+- Good pumps come with heat sinks.
+- Capacity is measured in Gallons Per day GPD.
 
 ## Filter replacement
 - Aquadyne video [here](https://www.youtube.com/watch?v=_v9HApGAmY0).
