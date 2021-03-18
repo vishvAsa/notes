@@ -44,4 +44,13 @@ title = "Wiring"
 - Aka Circuit breaker box, fuse box, consumer unit
 - Decide fuse rating based on load in the associated circuit.
 
+### High breaking capacity (HBC) fuses
+- Aka High Rupture capacity fuse
+- The fuse wire or element can carry short circuit heavy current for a known time period. During this time if the fault gets removed, then it does not blow off. Otherwise, it blows off or melts. The enclosure of HRC fuse is either of glass or some other chemical compound.
+- inverse time characteristic, which means if the fault current is high then rupture time is less, and if the fault current is not so high, then rupture-time is long.
+- Quite reliable - mostly ensures that there will be no arc
+
+### Other fuse types
+- Wire melt
+- Cartridge Fuse
 
