@@ -42,3 +42,12 @@ title = "Lock"
 #### Attacks
 - For low RW security id tags: Key fob cloning is very easy. Shown in [this vid](https://www.youtube.com/watch?v=VsZLFqE_iLc).
 - One can open the authentication box and short the unlock wires.
+
+## Spare keys
+- Europa locks India - can order spare keys online. Must send key photos, id proof, address proof etc..
+- Godrej - enquired.
+
+
+## Combination locks
+- Aka number locks
+- Ebco.in sells them online.
