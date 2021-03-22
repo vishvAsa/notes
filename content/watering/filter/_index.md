@@ -18,6 +18,15 @@ title = "+Filter"
   - Higher in borewell water
   - TDS levels greater than 1000 mg/litre make drinking-water increasingly unpalatable and unhealthy.
 
+
+
+#### Water quality record
+- vAruNI nilaya, sahakAranagara 2021-03
+  - kAverI water, filter reject - TDS 170
+  - kAverI water, filtered - TDS 160
+  - borewell water, filter reject - TDS 430
+  - borewell water, filtered - TDS 360
+
 ## Chemical filtration
 ### Carbon filter
 - When used as a pre-filter - removes chemical contamination - chlorine, chloramide, fluoride etc.. Hence AKA chemiblock.
