@@ -31,11 +31,11 @@ title = "+Filter"
 ### Carbon filter
 - When used as a pre-filter - removes chemical contamination - chlorine, chloramide, fluoride etc.. Hence AKA chemiblock.
 - When used as a post-filter, it removes bad odor and improves taste.  
-- Carbon cartridge needs to be flushed when installed.
+- Carbon cartridge needs to be flushed before installation - else it may send black water downstream and damage RO filter. +++(ALERT!)+++
 - Contains activated carbon, which has high surface area -  so high abrsorptive power.
 
 ## Quality
-- Check how much it is filled by shaking it or breaking open. Half filled filters specially useless if installed horizontally.
+- Check how much it is filled by shaking it or breaking open. Half filled filters specially useless if installed horizontally. Slight noise is ok.
 - Natural coal contains high sulphur - so not suitable. Coconut shell made ones are better - 10 times better than natural coal.
 - Quality of coal is measured with IV (iodine value). 1100 to 1200 good.
 - Good filter should get chalked.
