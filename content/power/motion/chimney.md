@@ -3,7 +3,7 @@ title = "Chimney"
 +++
 
 ## Parameters
-- Suction power. Should suffice to change air 10 times per hour. This means 1000 m3/h for 353 sqft space (10ft high ceiling).
+- Suction power. Should suffice to change air 10 times per hour. This means 1000 m3/h for 353 sqft space (10ft high ceiling). 1186 m3/hr for 419 sqft space.
   - Alternate guide: If kitchen is in separate room, 600 m3/h suffices. Else, good to go for 1200 m3/h.
 - Size: 60x60 (2-4 burners), 90cm (3-5 burners)
 - Autoclean: Better suction power and life.
