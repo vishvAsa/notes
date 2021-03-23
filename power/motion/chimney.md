@@ -26,6 +26,14 @@ title = "Chimney"
 - Aluminium 6 inch pipe is common.
 
 ## Candidates
-- GLEN Senza 60 cm 1050 m3/hr Filterless Auto clean Chimney. 10.9k. Installation 3k.
-- V-Guard A10 60cm Kitchen Chimney with 1200m3/h Suction, Intelligent Auto Clean, Curved Glass, Baffle Filter, Motion Sensor Controls, Oil Collector Tray, LED Light (Stainless Steel)  11,899, 1k? installation China make??
+### India make
+- GLEN : India make, Italian motor. 
+  - Senza 60 cm 1050 m3/hr Filterless Auto clean Chimney. 10.9k. Installation 3k.
+- Surya
+
+### China make
+- Sunflame (as per [amazon](https://www.amazon.in/SUNFLAME-Chimney-Bella-Baffle-Filters/dp/B07N8BCPQ2/ref=sr_1_3_mod_primary_lightning_deal?dchild=1&keywords=sunflame+chimney&qid=1616427890&sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&smid=AYNRZW0BRWV2P&sr=8-3)), Hindware as per [amazon customer](https://www.amazon.in/Hindware-Auto-Clean-C100218-Filterless-GestureControl/dp/B07VQ1QBQV/ref=sr_1_33_sspa?dchild=1&keywords=made+in+india+chimney&qid=1616429218&sr=8-33-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUlczMElNQjhCT0NDJmVuY3J5cHRlZElkPUEwMDM3MzIzM0FTSUNQSVI5MEVDMiZlbmNyeXB0ZWRBZElkPUEwMTgzMTU4Mk1LM0IyT05MRExPTyZ3aWRnZXROYW1lPXNwX2J0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=).
+- Elica, Kaff, Faber, Whirlpool, Eurodomo (as per amazon tech details)
+- V-Guard A10 60cm Kitchen Chimney with 1200m3/h Suction, Intelligent Auto Clean, Curved Glass, Baffle Filter, Motion Sensor Controls, Oil Collector Tray, LED Light (Stainless Steel)  11,899, 1k? installation. China make??
+- Prestige - China make as per [website](https://www.prestigexclusive.in/electrodomestic-appliances-chimneys/kitchen-hood-60-cm-auto-clean-akh600-cb-b-series/p/13006362), but India as per box!
 
