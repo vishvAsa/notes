@@ -23,7 +23,7 @@ title: 03 Arya consolidation
     - The famous stance of the bhagavadgItA against varNa-sankara.
 - By the time Megasthenes visited, there were already rigid restrictions about intermarriage and avocations. \[[MI](http://www.sdstate.edu/projectsouthasia/upload/Megasthene-Indika.pdf)\]
     - " Such, then, are about the parts into which the body politic in India is divided. No one is allowed to marry out of his own caste, or to exercise any calling or art except his own: for instance, a soldier cannot become a husbandman, or an artizan a philosopher. "
-- **Further history** is considered [here](../varna-theory/).
+- **Further history** is considered [here](/saMskAra/kalpe_svamatam/social-cultivation/clan/theory/).
 
 ## vaidika brAhmaNa glue
-See [separate page](../../practice/varNa/brAhmaNa/brAhmaNa_glue/).
+See [separate page](/saMskAra/kalpe_svamatam/social-cultivation/clan/practice/varNa/brAhmaNa/brAhmaNa_glue/).
