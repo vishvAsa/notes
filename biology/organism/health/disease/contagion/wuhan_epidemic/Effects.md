@@ -36,6 +36,9 @@ title = "Effects"
 - [NYT2009](https://www.nytimes.com/2020/09/09/health/coronavirus-brain.html)
 - MRI based study has demonstrated micro structural defects in olfactory (smell recognition area) and hippocampus (short term memory area) which translated to loss of smell that is widely known in acute setting to memory loss observed 3 months later.
 
+#### Stroke
+- Cerebral Venous Thrombosis (CVT)is a known complication from the COVID virus. Strokes and paralysis follow if not cleared.
+
 ### Lung scarring 
 - 6 weeks and 12 weeks after discharge,the scarring decreases (Pics [FB](https://www.facebook.com/drpraveenks/posts/10158842491361385) )
 - Many around the world are suffering with shortness of breath,chest tightness 3 months post infection.

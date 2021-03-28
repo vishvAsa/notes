@@ -21,6 +21,8 @@ unicode_script = "devanagari"
 #### Antibody prevalance duration
 - Measles - decades
 - Common cold - 1/2 years.
+- The level of Neutralizing antibodies vary from patient to patient.
+  - 32 individuals tested that were born in or before 1915 who had been exposed to the Spanish flu pandemic, each showed seroreactivity with the 1918 virus, nearly 90 years after the pandemic.
 
 ## Herd immunity
 When a big fraction of the population is immune (from vaccination?), germs cannot hop.

@@ -49,7 +49,9 @@ Trigger antibody development thence.
   - The protection starts on the 22nd day after the first dose.
 - if you have antibodies to the vector that they use, Chimpanzee Adenovirus results in neutralizing the vaccine efficacy. Such antibodies may develop after the first dose as well, nullifying the second dose. (Chinese had tried similar trials and had demonstrated 52% of their participants had antibodies to Adenovirus which is a naturally occurring viral infection.)
 - It reduces both asymptomatic ones as well as Severe cases.
-- South Africa has stalled the Oxford vaccine as the reports emerged the vaccine is not effective with mild to moderate cases with B1351 variant from South Africa.
+
+#### Against other variants
+- Against the South African mutants 10.4%.
 
 ### UK Trial problems
 - Less Black  and Asian representation.
@@ -68,6 +70,7 @@ Trigger antibody development thence.
 - Single shot of Pfizer vaccine is 85% effective in  preventing symptomatic disease 15-28 days after the 1st dose: Israel data.
 - Reduces mild/ severe cases by 95% 7 days after 2nd dose of vaccine; reduces infection by 90%.
 - Immune response after mRNA vaccinations after 2 doses demonstrated good and safe antibodies 8 weeks later. The efficacy against mutants was slightly reduced.
+- Both the Pfizer and Moderna vaccines are 10 times less effective against the South African variant
 
 ### Severe Adverse reactions
 - The exclusion criteria that was used during Pfizer vaccine trial included people with allergies. Bang on, on the field, exactly same happened. 2 healthcare professionals in the UK had anaphylactic reaction. Now the health regulators have adviced those having similar allergies or anaphylaxis should not get this vaccine.
@@ -83,6 +86,7 @@ Trigger antibody development thence.
 - 94.1% efficacy.
 - Shown effective about 40 days after injection.
 - It is not doing much to reduce the asymptomatic ones. The mRNA vaccines give good robust antibodies but not the IgA antibodies coating the nasal passages.So,you still carry viruses and keep spreading.
+- Both the Pfizer and Moderna vaccines are 10 times less effective against the South African variant
 
 ## Novavax/ Novavac/ Covovax vaccine
 - Directly injects stabilized spike proteins (mRNA or DNA not used.) This same technology has been used since 1986 with Hep B vaccines that are given to even infants and found extremely safer.

@@ -21,8 +21,9 @@ Let \\(N_t\\) be reproducing individuals at time \\(t\\). Let \\(b\\) be offspri
 - Model: \\(R = R_0 (1-\dfrac{N_t}{k})\\) for \\(N_t \leq k\\), leading to \\(N_{t+1} = R_0 N_t(1-\dfrac{N_t}{k})\\). Taking \\(x_t = N_t/k\\) (aka rescaled population to get "population density"), this can be simplified to \\(x_{t+1} = R_0 x_t (1-x_t)\\) for \\(x ∈ [0, 1]\\)
 - Logistic population growth. Population converges to some finite value.
 - Equilibria: \\(x_{t+1} = x_t = x^*\\). So \\(x^*= R_0(1-x^*)\\)
-  - \\(x^* - 0\\) for all \\(R_0\\)
+  - \\(x^* = 0\\) for all \\(R_0\\)
   - \\(x^* = (R_0-1)/R_0\\) for all \\(R_0 > 1\\)
+  - So, 1 is a bifurcation point, where stability of the population changes.
 
 ## R exponentially decays
 Model: \\(R=e^{r(1−\frac{N_t}{k})}\\), with  \\(N_{t+1}  = R N_t \\).
