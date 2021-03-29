@@ -30,7 +30,7 @@ of a secular sanyasi.
 
 ### svarUpa-saMskAraH
 
-Often questions are raised about various aspects of the brAhmaNa
+Rarely, questions are raised about various aspects of the brAhmaNa
 saMpradAya - especially shrIcharaNaM, yajJNOpavItaM and shikhA. It is
 good to have well-prepared responses.
 
