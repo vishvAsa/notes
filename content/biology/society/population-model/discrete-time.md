@@ -7,8 +7,6 @@ Let \\(N_t\\) be reproducing individuals at time \\(t\\). Let \\(b\\) be offspri
 
 - Oft, R is a function of \\(N\\).
 - Often, \\(d=1\\) - non-overlapping generations.
-- At equilibrium, population size remains constant: \\(N_{t+1} = N_t = N^*\\).  
-- An equilibrium is stable if any perturbation from the equilibrium dies down. Local extinction (N=0) is an unstable equilibrium - introduce a few individuals and population size starts approaching a different equilibrium N.  
 
 ## Constant R cases
 - Density independent population growth.
@@ -24,6 +22,7 @@ Let \\(N_t\\) be reproducing individuals at time \\(t\\). Let \\(b\\) be offspri
   - \\(x^* = 0\\) for all \\(R_0\\)
   - \\(x^* = (R_0-1)/R_0\\) for all \\(R_0 > 1\\)
   - So, 1 is a bifurcation point, where stability of the population changes.
+- \\(N_t\\) shows oscillations about the equilibrium - Entirely because of internal dynamics of the population.
 
 ## R exponentially decays
 Model: \\(R=e^{r(1−\frac{N_t}{k})}\\), with  \\(N_{t+1}  = R N_t \\).

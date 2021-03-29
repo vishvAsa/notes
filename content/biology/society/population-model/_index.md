@@ -14,4 +14,11 @@ title = "+Population model"
 ## Resources
 - Vishvesh Guttal 2021 course: [videos](https://www.youtube.com/playlist?list=PLSG8-hBQ2Vg2zs_KhBhEH3rGaZcKNkdGr), [canvas site](https://canvas.instructure.com/courses/2579503).
 
+## Equilibrium
+- At equilibrium, population size remains constant: \\(N_{t+1} = N_t = N^*\\).
+- Or \\(f(x^*) = x^*\\)
+
+### Stability
+- An equilibrium is stable if any perturbation from the equilibrium dies down. Local extinction (N=0) is an unstable equilibrium - introduce a few individuals and population size starts approaching a different equilibrium N.
+- \\(\abs{f'(x^*)} < 1\\)
 
