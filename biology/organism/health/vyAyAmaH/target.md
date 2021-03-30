@@ -49,5 +49,10 @@ The idea is that you train how you feel on the day, and use your program as a gu
 > 
 >  - GA
 
+## Wildness and scarcity
+> Essentially, the way to get (or remain) lean is to create a 'lean' environment. This is deeper than a diet or exercise programme; more, changing your lifestyle to a more primal one. This is the meaning of 'rewilding' your life.
+> 
+> Undomesticating yourself is not just about the physical - but a total overhaul of how you live & earn money. You become the modern day hunter-gatherer, living in the city or the country, or a foot in both. Health isn't about being stuck in a domesticated life and going to the gym. - GA
+
 ## Chronic long endurence exercise
 "If you insist on doing chronic long endurance exercise when you're older swap from weight-bearing (running) to non-weight bearing exercise (swimming, cycling, rowing, etc). Only excepting is normal walking. ... Chronic running when you're older is a disaster  - injuries, joint probs, etc.." Exception to non-weight bearing clause: "Intense/robust exercise, HIIT, intervals, RT - it is essential to do weight-bearing exercise, but you can add non weight-bearing as well."
