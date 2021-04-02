@@ -44,5 +44,11 @@ Eat only within an 8hr window. Fast the remaining 16 hours.
   - After 2-3 days of fasting the body switches' to the muscle sparing process of lipolysis/ketosis.
 
 
+## Muscle loss
+- Resistance training during long fasts helps maintain muscle mass
+- Obese individuals will retain muscle longer than lean people (due to higher non-muscle Pr stores)
+- 5+ days on, you will start to lose some muscle
+- Some muscle loss is acceptable
+
 ## Credits
 - Quotes from Mark Baker/ GuruAnaerobic.
