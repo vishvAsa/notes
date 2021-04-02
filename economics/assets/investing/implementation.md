@@ -11,6 +11,16 @@ title: Implementation
 ### अमेरिकेषु
 - TD Ameritrade इत्यत्र my account → portfolio planner प्रयोगः पूर्वतटव्यवहारसमये। Use total money to be invested.
 
+#### violation of Reg T, Good faith violation
+- If this happens three times in a 12-month period, a client will be restricted to trading with settled cash for 90 days (TdAmeritrade).
+- Dividend reinvestment (automatic) is technically considered a trade and thus is subject to the same settlement process as a normal trade you would place.
+
+##### Example
+- On Monday, Janet holds $10,000 worth of XYZ.
+- On Tuesday, Janet sells her entire XYZ position for $10,500, which will settle Thursday.
+-  Wednesday morning, Janet buys $10,500 of FAHN on good faith that XYZ's sale will settle.
+- Wednesday afternoon, Janet sells FAHN for $11,000, making a $500 profit. However, FAHN's original purchase wasn't fully paid for because XYZ's sale hadn't yet settled.
+
 ### भारतेषु
 #### Post tax
 - Look up symbols in BSE and NSE websites. Sometimes equity is listed in both - only "EQ" is added in symbols to differentiate.
