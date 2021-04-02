@@ -18,7 +18,7 @@ title: Implementation
 ##### Example
 - On Monday, Janet holds $10,000 worth of XYZ.
 - On Tuesday, Janet sells her entire XYZ position for $10,500, which will settle Thursday.
--  Wednesday morning, Janet buys $10,500 of FAHN on good faith that XYZ's sale will settle.
+- Wednesday morning, Janet buys $10,500 of FAHN on good faith that XYZ's sale will settle.
 - Wednesday afternoon, Janet sells FAHN for $11,000, making a $500 profit. However, FAHN's original purchase wasn't fully paid for because XYZ's sale hadn't yet settled.
 
 ### भारतेषु

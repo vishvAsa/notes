@@ -32,3 +32,35 @@ With risky lending (ie: where the probability of default is higher than usual), 
 ## Balance sheet
 
 The bank should be capable of returning the money to the depositors whenever they demand it - as long as they do not do it all at once (a ’run on the bank’). So, always lent money <= borrowed money + capital. In order for the bank to be making the maximum possible safe profit, this should hold: lent money/ investments = borrowed money + capital. Banks for which this holds are said to be solvent.
+
+## Transfers
+### Unified Payments Interface UPI BHIM
+- Max 1L
+- Instant
+- Charges 2021
+  - Axis Bank, ICICI Bank and Kotak Mahindra Bank charge Rs 2.50 for amounts of up to Rs 1,000 and Rs 5 for transfers above Rs 1,000 on person-to-person UPI payments beyond 20 transactions a month.
+  - UCO - Transaction limit 1L daily.
+
+### NEFT
+- Half hourly settlement
+- Charges 2021
+  - UCO - incoming free, outgoing 2.25 to  24.75 per transaction
+  - Digibank - Free
+  - SBI - free for staff
+
+### RTGS
+- Realtime
+- Min 2 lakhs
+- Charges 2021
+  - UCO - incoming free, outgoing 24.5 to 49.5 per transaction
+  - Digibank - Free
+  - SBI - free for staff
+
+### IMPS
+- Real time
+- Max 2 lakhs
+- Charges 2021
+  - Digibank- Free
+
+### ACH USA
+- Free usually.
