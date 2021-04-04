@@ -76,8 +76,7 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 - With just bricks - basic - [HS19](https://youtu.be/tbBilWdfPgM)
 
 ## Chimneys
-- The addition of chimneys, in all cases, reduces smoke pollution. It also increases combustion efficiency due to the chimney effect - more effectively pulling fresh air.
-- Chimney effect - height of the chimney is directly proportional to the pressure with which cold air gets sucked in. 
+See [chimney page](../../../motion/chimney).
 
 ## Elevation
 - कुण्डानाम् उच्चतया धूमप्रभावेणायुर्हरणं न स्यात् तावत्।
