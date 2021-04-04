@@ -2,6 +2,10 @@
 title = "Chimney"
 +++
 
+## Intro
+- The addition of chimneys, in all cases, reduces smoke pollution. It also increases combustion efficiency due to the chimney effect - more effectively pulling fresh air.
+- Chimney effect - height of the chimney is directly proportional to the pressure with which cold air gets sucked in.
+
 ## Parameters
 - Suction power. Should suffice to change air 10 times per hour. This means 1000 m3/h for 353 sqft space (10ft high ceiling). 1186 m3/hr for 419 cuft space. 50 m3/hr for 1780 cuft.
   - Alternate guide: If kitchen is in separate room, 600 m3/h suffices. Else, good to go for 1200 m3/h.
@@ -33,6 +37,10 @@ title = "Chimney"
 
 ## Hood installation
 - For gas stoves - 24 to 30 inches. For electric stoves - 21 to 30 inches.
+
+## kuNDa chimney
+{{< figure src="../images/kuNDa-exhaust-fan-chimney_al-walker_ripped-coat-wind-curtain_alight.jpg" title="Materials: Cu kuNDa, Al walker, with exhaust fan and ripped off coat" class="thumbnail">}}
+
 
 ## Candidates
 ### India make

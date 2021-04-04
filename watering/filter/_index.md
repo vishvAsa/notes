@@ -47,6 +47,7 @@ title = "+Filter"
 - Aka Microfiltration
 - Ceramic filters - 0.2 microns pores
 - Sediment cartridges come in .1 microns (Filterkart) as of 2020. Sediment cartridge gets chalked over time with sand, silt, rust etc. (if good quality). [Filterkart vid](https://www.youtube.com/watch?v=qxYqCq7vAFE). 
+- very high effectiveness in removing protozoa (for example, Cryptosporidium, Giardia); moderate effectiveness in removing bacteria (for example, Campylobacter, Salmonella, Shigella, E. coli); not effective in removing viruses (for example, Enteric, Hepatitis A, Norovirus, Rotavirus); not effective in removing chemicals.
 
 ### .01 micron
 - Water is forced to flow through insides of small hollow fibers
@@ -55,18 +56,21 @@ title = "+Filter"
 - Pore size
   - Removes bacteria, virus etc..
   - .01 micron pores -[Filterkart vid](https://www.youtube.com/watch?v=NBANA4N1wLs)
-  - Bigger pores compared to RO; so less effective?
+- very high effectiveness in removing protozoa (for example, Cryptosporidium, Giardia), bacteria (for example, Campylobacter, Salmonella, Shigella, E. coli); moderate effectiveness in removing viruses (for example, Enteric, Hepatitis A, Norovirus, Rotavirus); low effectiveness in removing chemicals.
 
 ### Nanofiltration (NF)
 - Good for low TDS
 - Smaller (nanometer) pores than microfiltration and ultrafiltration; just larger than RO membranes.
 - can "soften" water by retaining scale-forming, hydrated divalent ions (e.g. Ca2+, Mg2+) while passing smaller hydrated monovalent ions.
+- very high effectiveness in removing protozoa (for example, Cryptosporidium, Giardia), bacteria (for example, Campylobacter, Salmonella, Shigella, E. coli),  viruses (for example, Enteric, Hepatitis A, Norovirus, Rotavirus); moderate effectiveness in removing chemicals.
 
 ## RO (Reserve Osmosis)
 - filters 98% heavy dissolved solids: metals, particulates, minerals
 - Recommended for TDS 200-2k.
 - uses semi permeable membranes
 - Wastes 2x or 3x water. Green RO water purifiers better.
+- very high effectiveness in removing protozoa (for example, Cryptosporidium, Giardia), bacteria (for example, Campylobacter, Salmonella, Shigella, E. coli),  viruses (for example, Enteric, Hepatitis A, Norovirus, Rotavirus)
+- remove common chemical contaminants (metal ions, aqueous salts), including sodium, chloride, copper, chromium, and lead; may reduce arsenic, fluoride, radium, sulfate, calcium, magnesium, potassium, nitrate, and phosphorous.
 
 ### Membranes
 - Longer membranes (more windings in filter cylinder) imply more filtration (provided the pump has the ability to push water through it).
@@ -86,6 +90,9 @@ title = "+Filter"
 - Have 2 tanks - one to collect rejected water.
 
 
+## Distillation
+- very high effectiveness in removing protozoa (for example, Cryptosporidium, Giardia), bacteria (for example, Campylobacter, Salmonella, Shigella, E. coli),  viruses (for example, Enteric, Hepatitis A, Norovirus, Rotavirus)
+- remove common chemical contaminants (metal ions, aqueous salts), including sodium, chloride, copper, chromium, and lead; may reduce arsenic, fluoride, radium, sulfate, calcium, magnesium, potassium, nitrate, and phosphorous.
 
 ## Disinfection
 - UV (Ultraviolet filtration)
