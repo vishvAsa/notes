@@ -51,7 +51,8 @@ Trigger antibody development thence.
 - It reduces both asymptomatic ones as well as Severe cases.
 
 #### Against other variants
-- Against the South African mutants 10.4%.
+- Against the South African mutant E484 10.4%.
+- Symptomatic #B117 70% reduction. Asymptomatic #B117 29% reduction.
 
 ### UK Trial problems
 - Less Black  and Asian representation.
@@ -59,6 +60,7 @@ Trigger antibody development thence.
 
 ### Severe Adverse reactions
 - Side effects wise, relatively more side effects (fever, pain etc) reported compared to mRNA vaccines.
+- Rare side effect of clots following Covishield - VIPIT(Vaccine induced thrombosis and thrombocytopenia). UK: 30 cases, 24 cerebral venous thrombosis, 8 other with low platelets (among 18 million doses) MHRA released number.
 - Oxford Vaccine caused 1 transverse myelitis (inflammation of the spinal cord)  in a volunteer
 
 ## Pfizer-BioNTech 
@@ -68,7 +70,8 @@ Trigger antibody development thence.
 ### Efficacy
 - 50% protection after 14 days of first shot.
 - Single shot of Pfizer vaccine is 85% effective in  preventing symptomatic disease 15-28 days after the 1st dose: Israel data.
-- Reduces mild/ severe cases by 95% 7 days after 2nd dose of vaccine; reduces infection by 90%.
+- Reduces mild/ severe cases by 95% 7 days after 2nd dose of vaccine; reduces infection by 90%. 100% efficacy in adolescents
+- 91.3% efficacy even after 6 months.
 - Immune response after mRNA vaccinations after 2 doses demonstrated good and safe antibodies 8 weeks later. The efficacy against mutants was slightly reduced.
 - Both the Pfizer and Moderna vaccines are 10 times less effective against the South African variant
 

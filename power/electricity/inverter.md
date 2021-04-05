@@ -19,6 +19,9 @@ title: Inverter
 - 890W in 2020 v-nilaya. VA rating of UPS at 70% efficiency - 1260VA.
 - Battery capacity - 2522 Wh or 210 Ah at 12 V. 
 
+### History
+- V-Guard 1200VA Sine Wave 1450 Inverter with Luminous Inverlast ILTT 26060 220 Ah battery (5y guarantee).
+
 ## Grid tied
 - grid-tie inverters must accurately match the voltage and phase of the grid sine wave AC waveform.
 - There are also Grid-tied battery-backup inverters.
