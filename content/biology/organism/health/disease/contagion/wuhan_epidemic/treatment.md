@@ -3,7 +3,10 @@ title = "Treatment"
 +++
 
 ## Overview
+- AIIMS guidelines [here 202104](https://twitter.com/AIIMSRDA/status/1379821305780858886/photo/1).
+  - pravINa - "don't even take Ivermectin as drug interactions of this drug with others can cause problems."
 - WHO recommendations [20200902](https://www.bmj.com/content/370/bmj.m3379).
+- Do not take steroids before the stage of requiring oxygen as it is proven to cause more problems than do good.
 - Keep oxygen concentrators. Prone (face-down) ventilation useful.
 
 ### Case severity
@@ -47,7 +50,7 @@ title = "Treatment"
 #### Convalescent plasma therapy
 - Donald Trump underwent this. He received was 8gm of monoclonal antibodies - very expensive right now.
 - Details [here](https://www.mayoclinic.org/tests-procedures/convalescent-plasma-therapy/about/pac-20486440). Plasma from a person who has recently recovered from the disease (within 28 days) is given to the patient.
-- Plasma therapy is fading away,instead monoclonal antibodies are showing more promise.
+- Plasma therapy is fading away, instead monoclonal antibodies are showing more promise.
 
 ### Other peptides
 - Fucoidans in seaweed act as a decoy. "Recent research by Rensellear Polytechnic Institute and Prof Kou Hayakawa of Japan confirm this. Seaweed based spirulina chikki (cftri chikki made by aquaseal technologies) was administered to the first batch of covid-19 patients at Mysore with astounding success."

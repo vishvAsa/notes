@@ -6,14 +6,17 @@ title = "Variants"
 
 
 ## Strain difference
-Some strains are much more infectious. 
+- Global database of GISAID which collects the genomic sequencing around the world.
 
+## Victoria
 Original is called: Victoria.
 
 ## 20J/501Y.V3 or P.1
-- Manaus, Brazil
-- 2-2.5 times more transmissible and proving to be lethal.
+- Manaus, Brazil. Later: British Columbia in Canada.
+- 2-2.5 times more transmissible and proving to be lethal. more likely to cause serious illness in young people (20-39 years being 2.7 times more likely to die).
+- vaccines work albeit some lowered efficacy
 - Brazil used Chinese Sinovac vaccine which has lesser protection against the mutants.
+
 
 ## VOC-202012/01, B.1.1.7, 20I/501Y.V1
 
@@ -43,3 +46,6 @@ Original is called: Victoria.
 
 ## NY B 1526
 - ability to escape from antibodies and vaccines.
+
+## India B 1671
+- more than twice as transmissible as the first wave virus.
