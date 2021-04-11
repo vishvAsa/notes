@@ -30,6 +30,9 @@ title = "Risk models"
 - Air Travel: Mask is a must. Hand hygene essential.
 - Air travel is safer than train or bus travel - but still risky. Modern airlines have started installing HEPA filters that suck air from outside through wings, mixes with inside air in 50:50 mix,warms it up and filters off any bacteria,fungus and Viruses.
 
+## Children
+- 70% of confirmed children carry active virus without symptoms, and the duration of a case lasts as long as 36 days.
+
 ## Super-spreader / single-source events
 -175 attendees attended a Biogen conference at Boston In February. A week later 99 people fell ill. Now,300,000 infections around the world and 1.6% of all the US infections can be traced back to this single gathering at Boston. The infection from this conference jumped to 29 countries and almost every part of USA.
 - Tablighi jamAt gathering in Delhi.

@@ -43,11 +43,13 @@ Trigger antibody development thence.
 - safely stored at temperatures of 2C to 8C, about the same as a domestic fridge
 
 ### Efficacy
-- Indian population: Efficacy with single dose 52%. Second dose close to 12 weeks 78.79%
-- UK Population: The efficacy with the first dose is about 70%. UK govt is going for single shot followed by 2nd dose by 12 weeks (will supposedly make efficacy 80%). 
+- if you have antibodies to the vector that they use, Chimpanzee Adenovirus results in neutralizing the vaccine efficacy. Such antibodies may develop after the first dose as well, nullifying the second dose. (Chinese had tried similar trials and had demonstrated 52% of their participants had antibodies to Adenovirus which is a naturally occurring viral infection.)
+
+#### Init strain
+- Indian population, init strain: Efficacy with single dose 52%. Second dose close to 12 weeks 78.79%
+- UK Population, init strain: The efficacy with the first dose is about 70%. UK govt is going for single shot followed by 2nd dose by 12 weeks (will supposedly make efficacy 80%). 
   - vaccine efficacy was 62.1% (n=8,895; CI 41.0% to 75.7%), and 90.0% (n=2,741; CI 67.4% to 97.0%) in participants who received a half dose followed by a full dose.
   - The protection starts on the 22nd day after the first dose.
-- if you have antibodies to the vector that they use, Chimpanzee Adenovirus results in neutralizing the vaccine efficacy. Such antibodies may develop after the first dose as well, nullifying the second dose. (Chinese had tried similar trials and had demonstrated 52% of their participants had antibodies to Adenovirus which is a naturally occurring viral infection.)
 - It reduces both asymptomatic ones as well as Severe cases.
 
 #### Against other variants
@@ -115,7 +117,8 @@ Trigger antibody development thence.
 
 ## Gamelaya Sputnik V
 - The Russians have used human (rather than chimp) Adenovirus and use 2 different strains (Ad26 and Ad5) as vectors cleverly in their Sputnik vaccine. Apparently,this reduces the chances of preexisting antibodies reducing the efficacy.
-- Russia says its Sputnik V vaccine is 91% effective.
+- Russia says its Sputnik V vaccine is 91% effective. Good effectiveness against  B117(UK variant).
+- Not that good against African B1351 variant.
 - Storage: Regular fridge temperature. 
 
 ## Sinovac CoronaVac
