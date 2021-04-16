@@ -30,6 +30,9 @@ Trigger antibody development thence.
 #### ACE2 decoys
 - Entry of the virus which happens through binding of Spike (S) protein of the virus with ACE2 receptors found in the lungs. If you use decoy ACE2 substance (which bind better),the virus might bind to this synthetic ACE2 rather than original ACE2 receptors resulting in less viruses thus reducing the inflammation in the lungs. The main problem is the short half life of this synthetic ACE2. Scientists are working how to increase the half life.
 
+### Viral vector vaccines
+- viral vector vaccines blood clots are happening - J&J, Oxford.
+
 ### Inactivated viral vaccines
 - Hepatitis A and Salk Polio virus are inactivated vaccines. These vaccines have adjuvants with alum or aluminium that can cause severe reactions at injection site as opposed to mRNA or DNA vaccines.
 - Dr Kang expresses reservations if the inactivated vaccines like COVAXIN work with new mutants as the mutations are occurring at the spike of the virus.
@@ -147,8 +150,10 @@ Trigger antibody development thence.
 
 ## India
 ### Approvals
-- Oxford/ AstraZeneca. manufactured locally by the Serum Institute of India.
+-  J&J vaccine will 'get back on track soon'
+- Sputnik V 202104
 - Bharat Biotech - approved "in public interest as an abundant precaution, in clinical trial mode, to have more options for vaccinations, especially in case of infection by mutant strains".
+- Oxford/ AstraZeneca. manufactured locally by the Serum Institute of India.
 
 ### Immunization priority
 60% of vaccines globally, plans to immunise about 300 million people by July 2021. It will prioritise health care workers, the emergency services, and those who are clinically vulnerable because of age or pre-existing conditions. 

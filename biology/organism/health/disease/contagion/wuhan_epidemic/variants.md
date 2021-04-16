@@ -49,3 +49,9 @@ Original is called: Victoria.
 
 ## India B 1671
 - more than twice as transmissible as the first wave virus.
+- has 2 mutations E484Q and L526R.
+  - The E484Q mutation makes it behave like the African strain against which most vaccines have failed.
+  - The other mutation L526R found in California makes it spread faster.
+
+## India B 1.36
+- It has N440 mutation which might be the reason for some of the re- infections described.
