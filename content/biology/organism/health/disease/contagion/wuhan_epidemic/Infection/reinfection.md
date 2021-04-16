@@ -6,6 +6,7 @@ unicode_script = "devanagari"
 ## Uncommon cases
 - There have been re-infections of the Corona virus have been described around the world. 
 - Not all reinfections seen so far are milder. 
+- About 1 in 5 or even 1 in 3 of those infected during the first wave in India had declining antibodies 6 months later.
 
 ## General antibody persistence
 - "Reinfections with the four coronaviruses that cause the common cold occur after an average of 12 months, a team led by virologist Lia van der Hoek at Amsterdam University Medical Center recently showed. Van der Hoek thinks COVID-19 may follow that pattern." [SM2011](https://www.sciencemag.org/news/2020/11/more-people-are-getting-covid-19-twice-suggesting-immunity-wanes-quickly-some)

@@ -4,7 +4,9 @@ unicode_script = "devanagari"
 +++
 
 ## प्रजाः
-- तदात्मजो व्यासः। तदात्मजः शुकः।
+### व्यासः
+- an old bauddha trope from the vajrasUchika which was written with counter-religious intent: "he was a v4"
+- तदात्मजः शुकः।
 
 ## अर्वाचीनाः
 ### तुलसीदास
