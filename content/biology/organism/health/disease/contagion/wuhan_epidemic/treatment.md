@@ -7,7 +7,11 @@ title = "Treatment"
   - pravINa - "don't even take Ivermectin as drug interactions of this drug with others can cause problems."
 - WHO recommendations [20200902](https://www.bmj.com/content/370/bmj.m3379).
 - Do not take steroids before the stage of requiring oxygen as it is proven to cause more problems than do good.
+
+### Oxygen supply
 - Keep oxygen concentrators. Prone (face-down) ventilation useful.
+- Pronal breathing demo [here](https://twitter.com/DNeurosx/status/1383848158430588935)
+
 
 ### Case severity
 - Non-severe - not the other two levels
