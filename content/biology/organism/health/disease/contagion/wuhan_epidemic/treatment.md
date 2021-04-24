@@ -29,7 +29,8 @@ title = "Treatment"
   - Hydrocortisone 50mg IV every 6 hours 7-10 days
   - Methyl-prednisolone 10mg IV every 6 hours 7-10 days
   - Prednisone 50mg Oral - daily for 7-10 days.
-- Tociluzumab. Blocks inflammatory mediator Interleukin 6. UK approved.
+- Tociluzumab. Blocks inflammatory mediator Interleukin 6. UK approved. it has a very narrow 24 hour window before patients deteriorate when it is beneficial,not before or after.
+- Remdesivir no mortality benefit (Solidarity trial). Still recommended in many algorithms,so benefit of doubt for this drug.
 
 ### Very critical cases
 - Extracorporeal membrane oxygenation (ECMO) is a final resort for critically ill COVID patients where in both the lungs and heart are given rest for the intended recovery using machines to do what heart and lungs do in our body. An international registry involving 213 hospitals across 36 countries has shown 90 day mortality of patients put on ECMO is about 38%
@@ -42,8 +43,8 @@ title = "Treatment"
 - Hydroxychloroquine
 - Azithromycin the antibiotic was thought to have a role. The RECOVERY trial from Oxford has shown no benefit.
 - Itolizumab
-- Remdesvir in isolation. "The manufacturer Gilead was aware of WHO sponsored Solidarity trial showing no clear benefit but struck the deal with EU just before the trial results were made public."
 - "Fabi flu is useless drug given only in India with absolutely no benefit" - Praveen
+- Favipiravir
 
 ## Antibody administration
 ### Monoclonal antibodies
@@ -54,7 +55,7 @@ title = "Treatment"
 #### Convalescent plasma therapy
 - Donald Trump underwent this. He received was 8gm of monoclonal antibodies - very expensive right now.
 - Details [here](https://www.mayoclinic.org/tests-procedures/convalescent-plasma-therapy/about/pac-20486440). Plasma from a person who has recently recovered from the disease (within 28 days) is given to the patient.
-- Plasma therapy is fading away, instead monoclonal antibodies are showing more promise.
+- You need to give very early,within 3 to 7 days of onset of symptoms and that too the donor should have high levels of antibodies to have any beneficial effects.
 
 ### Other peptides
 - Fucoidans in seaweed act as a decoy. "Recent research by Rensellear Polytechnic Institute and Prof Kou Hayakawa of Japan confirm this. Seaweed based spirulina chikki (cftri chikki made by aquaseal technologies) was administered to the first batch of covid-19 patients at Mysore with astounding success."
