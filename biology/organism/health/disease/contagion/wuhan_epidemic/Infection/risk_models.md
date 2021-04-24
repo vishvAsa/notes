@@ -31,6 +31,10 @@ title = "Risk models"
 - Air travel is safer than train or bus travel - but still risky. Modern airlines have started installing HEPA filters that suck air from outside through wings, mixes with inside air in 50:50 mix,warms it up and filters off any bacteria,fungus and Viruses.
 
 ## Children
+- Wave 2 India and Brazil
+  - In Brazil,many children are dying. In India too Pediatricians are reporting wards getting filled with young kids presenting with very high fever and bowel disturbances which mimic like appendicitis.
+  - It is the inflammation of the terminal part of small bowel called ileum that are typically presenting with pain in abdomen and diarrhea. 
+  - Many children are requiring intravenous immunoglobulins to salvage them from multi system inflammation resulted from the virus.
 - 70% of confirmed children carry active virus without symptoms, and the duration of a case lasts as long as 36 days.
 
 ## Super-spreader / single-source events

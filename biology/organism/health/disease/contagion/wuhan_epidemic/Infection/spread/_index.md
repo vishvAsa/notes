@@ -4,10 +4,13 @@ title = "Spread"
 
 ## India
 - 202104 - 2nd wave. 10th March to 3rd April. 24 days - faster spread.
-  - The genomic sequences have shown large majority of B117*UK variant spreading.
-  - MH, PJ hot states.
-  - Sequencing for surveyign strains very below-par.
-  - Vaccination underway (albeit only Oxford and Covaxin approved.)
+  - Variants
+    - B117*UK variant spreading (N India).
+    - Indian variant B 1671 spread in MH and WB.
+    - Bengaluru B 1.36
+    - Sequencing for surveying strains very below-par.
+  - MH, PJ hot states. Mumbai and Delhi severely affected. 47 out of 188 passengers travelled from Newdelhi to Hongkong test positive later who had been negative 72 hours before departure. Countries impose travel restrictions and advisories on India.
+  - Vaccination underway (albeit only Oxford and Covaxin approved.) India has vaccinated only 8% of the population and has tested less than 1% of cases for these mutations.
   - 4.5% reinfections in MH.
 - 202009 - 1st wave peaks.  2nd July to 5th Sept. 65 days.
 
@@ -21,4 +24,6 @@ title = "Spread"
 - 202104 - 2nd wave.
   - Brazil being consumed by E484 variant.
   - Vaccination underway.
+  - UK vaccinated 60% of the population - and doing OK.
+- Early 2021: India gains world appreciation for allowing exports and donations of vaccines. Shortly after, US under Joe Biden imposes curbs on vaccine raw material exports.
 - 202009 - 1st wave peaks

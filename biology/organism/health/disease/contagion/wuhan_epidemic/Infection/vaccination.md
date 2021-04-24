@@ -65,7 +65,9 @@ Trigger antibody development thence.
 
 ### Severe Adverse reactions
 - Side effects wise, relatively more side effects (fever, pain etc) reported compared to mRNA vaccines.
-- Rare side effect of clots following Covishield - VIPIT(Vaccine induced thrombosis and thrombocytopenia). UK: 30 cases, 24 cerebral venous thrombosis, 8 other with low platelets (among 18 million doses) MHRA released number.
+- Rare side effect of clots following Covishield - VIPIT(Vaccine induced thrombosis and thrombocytopenia). UK: 30 cases, 24 cerebral venous thrombosis, 8 other with low platelets (among 18 million doses) MHRA released number
+  - Not transfusing platelets,treating with immunoglobulins and using non heparin drugs to thin the blood should treat the complication.
+- Many sudden deaths and deaths occurring in the first three to seven days of taking the Covishield vaccine in India could also be explained by this autoimmune mechanism.
 - Oxford Vaccine caused 1 transverse myelitis (inflammation of the spinal cord)  in a volunteer
 
 ## Pfizer-BioNTech 
@@ -116,6 +118,9 @@ Trigger antibody development thence.
 
 ### Severe Adverse reactions
 - 1 person developed encephalitis. Was threatened with a lawsuit.
+
+### Efficacy
+- The efficacy against severe COVID-19 disease was 100 per cent (95%CI: 60-100), with an impact on reduction in hospitalisations. The efficacy against asymptomatic COVID-19 infection was 70 per cent, suggesting decreased transmission in COVAXIN recipients.
 
 
 ## Gamelaya Sputnik V
