@@ -2,6 +2,18 @@
 title = "Battery"
 +++
 
+## Sizes
+- AA -1.2V rechargeable, 1.5V alkaline
+- AAA
+- CR 2032 - Used in motherboards.
+- LR44
+- LR41 
+  - Button cell for thermometers etc..
+  - 1.5V
+
+{{< figure src="../images/battery-sizes.webp" title="" class="thumbnail">}}
+
+
 ## Lead acid batteries
 - Flat plate
 - Tubular
