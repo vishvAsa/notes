@@ -3,7 +3,7 @@ title = "Treatment"
 +++
 
 ## Overview
-- AIIMS guidelines [here 202104](https://twitter.com/AIIMSRDA/status/1379821305780858886/photo/1).
+- AIIMS guidelines [here 202104](https://twitter.com/AIIMSRDA/status/1385311406182965249/photo/1).
   - pravINa - "don't even take Ivermectin as drug interactions of this drug with others can cause problems."
 - WHO recommendations [20200902](https://www.bmj.com/content/370/bmj.m3379).
 - Do not take steroids before the stage of requiring oxygen as it is proven to cause more problems than do good.
@@ -11,6 +11,10 @@ title = "Treatment"
 ### Oxygen supply
 - Keep oxygen concentrators. Prone (face-down) ventilation useful.
 - Pronal breathing demo [here](https://twitter.com/DNeurosx/status/1383848158430588935)
+
+
+### Hospitals and help - bengaLUru
+- Beds, ventilators etc. [here](https://covid-19-hospital-data.el.r.appspot.com/?location=Bangalore).
 
 
 ### Case severity
@@ -30,7 +34,7 @@ title = "Treatment"
   - Methyl-prednisolone 10mg IV every 6 hours 7-10 days
   - Prednisone 50mg Oral - daily for 7-10 days.
 - Tociluzumab. Blocks inflammatory mediator Interleukin 6. UK approved. it has a very narrow 24 hour window before patients deteriorate when it is beneficial,not before or after.
-- Remdesivir no mortality benefit (Solidarity trial). Still recommended in many algorithms,so benefit of doubt for this drug.
+- Remdesivir no mortality benefit (Solidarity trial). Still recommended in many algorithms - may help reduce day or two of hospital stay if administered in the right dose at the right time - [TS](https://twitter.com/Tejasvi_Surya/status/1386334961335078919) .
 
 ### Very critical cases
 - Extracorporeal membrane oxygenation (ECMO) is a final resort for critically ill COVID patients where in both the lungs and heart are given rest for the intended recovery using machines to do what heart and lungs do in our body. An international registry involving 213 hospitals across 36 countries has shown 90 day mortality of patients put on ECMO is about 38%
@@ -41,7 +45,7 @@ title = "Treatment"
  
 ## Failed drugs
 - Hydroxychloroquine
-- Azithromycin the antibiotic was thought to have a role. The RECOVERY trial from Oxford has shown no benefit.
+- Azithromycin and doxycycline antibiotics was thought to have a role. The RECOVERY trial from Oxford has shown no benefit.
 - Itolizumab
 - "Fabi flu is useless drug given only in India with absolutely no benefit" - Praveen
 - Favipiravir
@@ -53,9 +57,13 @@ title = "Treatment"
 - Experiments in both golden hamsters and rhesus macaque monkeys that intentionally were infected with SARS-CoV-2 showed that the cocktail could reduce viral levels and disease pathology.
 
 #### Convalescent plasma therapy
+- **Before** the patient's immunity kicks in, the idea is to supplement it with antibodies from another person. So - narrow window of time where it is useful.
+- You need to give very early, within 3 to 7 days of onset of symptoms and that too the donor should have high levels of antibodies to have any beneficial effects.
+- Might have resulted in escape and evolution of variants in an immunocompromised patient.
+
+##### Hype
 - Donald Trump underwent this. He received was 8gm of monoclonal antibodies - very expensive right now.
 - Details [here](https://www.mayoclinic.org/tests-procedures/convalescent-plasma-therapy/about/pac-20486440). Plasma from a person who has recently recovered from the disease (within 28 days) is given to the patient.
-- You need to give very early,within 3 to 7 days of onset of symptoms and that too the donor should have high levels of antibodies to have any beneficial effects.
 
 ### Other peptides
 - Fucoidans in seaweed act as a decoy. "Recent research by Rensellear Polytechnic Institute and Prof Kou Hayakawa of Japan confirm this. Seaweed based spirulina chikki (cftri chikki made by aquaseal technologies) was administered to the first batch of covid-19 patients at Mysore with astounding success."

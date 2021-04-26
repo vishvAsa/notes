@@ -20,6 +20,10 @@ So, a 10 day quarantine catches about 90% of the cases. 11.5 days (CI, 8.2 to 15
 - stuffy nose, Loss of smell
 
 ### Case studies
+- 2021 Apr - puNe. याजुषी.
+  - आरम्भे ज्वरः। महती श्रान्तिः। ततोऽग्रे किञ्चिदिव कासः। ज्वरेऽपगते महाश्रान्तिः। स्थातुमपि न शक्यते तादृशी। अधुनैव शनैः शनैः सामान्यकार्याणि कर्तुं शक्नोमि।
+  - गृहे अन्येषां तु पूर्वं कासः ततः ज्वरः। पुत्रयोः उभयम्। तयोः शीघ्रमेव लक्षणमुक्तिरभूत्।
+  - रोगमुक्तिस्तु टेस्ट कृत्वैव ज्ञायेत। श्रान्तिरेवैकं महत्कष्टम्।
 - 2020 Aug - Devanahalli, BLR. Patient and wife reported fever which came and went for about 4 days. Then, pulse oxymeter showed 92% saturation in patient. He tested positive.
 - When on oxygen, saturation level is 95, but when he goes to toilet etc.., it comes down to 80.
 
