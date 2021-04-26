@@ -10,6 +10,7 @@ title = "Treatment"
 
 ### Oxygen supply
 - Keep oxygen concentrators. Prone (face-down) ventilation useful.
+  - BengaLUru supply: [covid.army site](https://covid.army/bangalore)
 - Pronal breathing demo [here](https://twitter.com/DNeurosx/status/1383848158430588935)
 
 
