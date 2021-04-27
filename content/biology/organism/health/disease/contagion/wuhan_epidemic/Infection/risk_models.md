@@ -5,11 +5,18 @@ title = "Risk models"
 - Adjustible simulations/ models: natgeo [202008](https://www.nationalgeographic.com/science/2020/08/how-to-measure-risk-airborne-coronavirus-your-office-classroom-bus-ride-cvd/?cmpid=org=ngp::mc=social::src=twitter::cmp=editorial::add=tw20200811science-measurecoronavirusriskmodel::rid=&sf236722474=1)
 - Successful Infection = **Virus Dose x Time**
 
-### Model caution
-- (1) Infectivity has a half-life
--  (2) one RNA genome isn’t an infectious dose
-- (3) dose needed to form plaque on a VERO probably 100x - 1000x less than what is needed to infect a human IRL
+## Alternate
+\\(I_r = \dfrac{N t C_q (Q_b)^2 p_m^2}{\gl_a V}\\)
 
+Their key result is boiled down to this equation for Risk Index \\(I_r\\). 
+
+- N is the number of people in the enclosed space, t is the time spent therein. 
+- \\(C_q\\) is the concentration of exhaled infection quanta (virions) per cubic meter. 
+- \\(Q_b\\) is the exhaled volume in cubic meters per hour.
+  - \\(Q_b\\) exhaled volume rate is also square scaling: Hence, talking, shouting, singing are all increase the risk by square.
+- \\(p_m\\) is mask penetration factor, \\(0 <= p_m <= 1\\), where 1 is no mask & 0 is theoretical total blockade of particles of virion size or higher. 
+  - it scales as the square of mask penetration: hence, some mask makes a notable difference relative to no mask. Better the mask square gain in risk reduction.
+- \\(\lambda_a\\) is ventilation outflow rate per unit volume in m^3. V is volume of enclosed space.
 
 ## Indoor spaces
 - "**Indoor spaces**, with limited air exchange or recycled air and lots of people, are concerning from a transmission standpoint. We know that 60 people in a volleyball court-sized room (choir) results in massive infections. Same situation with the restaurant and the call center. **Social distancing guidelines don't hold** in indoor spaces where you spend a lot of time, as people on the opposite side of the room were infected. .." - [EB](https://www.erinbromage.com/post/the-risks-know-them-avoid-them)
