@@ -86,6 +86,9 @@ Dermatological
 ## Tests
 - "RT-PCR remains the gold standard for the diagnosis of COVID-19 in sputum samples. However, the combination of different diagnostic tests is highly recommended to achieve adequate sensitivity and specificity."
 
+### Test metrics
+- See [here](/notes/math/probability/statistics/label_prediction/risk_and_evaluation/Loss_functions_labeling_multiple_data_points/) for intro.
+
 ### Sample collection
 - Saliva better - "saliva viral load was significantly higher in those with COVID-19 risk factors; that it correlated with increasing levels of disease severity and showed a superior ability over nasopharyngeal viral load as a predictor of mortality over time (AUC=0.90)."
 - nasopharynx swabs.
@@ -102,8 +105,8 @@ Dermatological
 
 ### CT scans
 - At prevalance 15%, 20200822
-    - Sensitivity (fraction of true positives caught) - 86%
-    - Specificity (fraction of true negatives marked as negative) - 18%
+    - Sensitivity (fraction of positives caught) - 86%
+    - Specificity (fraction of negatives marked as negative) - 18%
 
 ### Paper antigen tests
 - Rapid, inexpensive paper strip tests can tell you whether you are contagious. Research shows that if taken frequently, these tests will drive down infections. [RT](https://www.rapidtests.org/) 

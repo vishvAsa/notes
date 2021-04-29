@@ -43,6 +43,11 @@ In multiclass case:
 #### Negative label precision
 Aka Negative predictive value. True negatives / Predicted negatives.
 
+#### Deduction from sensitivity, speicifity and prevelance rate
+Basically, one reconstructs the confusion matrix with the given numbers and deduces the precision metrics.
+
+For example, if the prevalence isassumed to be 1% and the sensitivity/specificityof a NP+OP swab test is estimated at 80%/98%(sensitivity  estimate  based  on  sampling  at  an  unknown  time  over  the  entire  course  of infection), then the negative predictive value of the test is 99.8%. In symptomatic patients or those with known exposures, the prevalence may be 10% or higher.  In this case,the negative predictive value is estimated to be 97.2%.
+
 ### Completeness metrics
 #### Recall / sensitivity
 Recall = true positives/ actual positives. Aka completeness or sensitivity or true positive rate.
