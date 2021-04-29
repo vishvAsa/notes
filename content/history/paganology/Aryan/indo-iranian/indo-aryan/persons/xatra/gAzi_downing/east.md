@@ -31,6 +31,7 @@ who "broke the traditional alliance with the Pathan sultans of Gaur and struck n
 
 ## vIra-shukladhvaja
 (chila-raaya) \[[Wiki](http://en.wikipedia.org/wiki/Chilarai)\], who rebuilt the kAmAkhya temple destroyed by the muslims, who adapted guerrilla warfare with movement fast as a kite (chila), and ensured Koch supremacy over the Bhutia, Kachari, Ahom, tripura kingdoms.
+
 ## pratApa singha
 the Ahom king, who in 1616, who made a muNDa-mAlA from the heads of killed muslim jihAdis and offered it to the godess ([IMG](../../../images/snippets/pratApa-simha-muslim-heads.jpg).  
 

@@ -18,7 +18,8 @@ Original is called: Victoria.
 - Brazil used Chinese Sinovac vaccine which has lesser protection against the mutants.
 
 
-## VOC-202012/01, B.1.1.7, 20I/501Y.V1
+## UK B.117
+- VOC-202012/01, 20I/501Y.V1
 
 ### Mutations
 - N501Y. Slight change in highly variable protein region [here](https://twitter.com/blog_supplement/status/1340755077594816518). One claim is that plasma therapy triggered it.
@@ -44,14 +45,18 @@ Original is called: Victoria.
 ## L452R California  B 1.429/427 ?
 - Resurfaced in Jan 2021
 
-## NY B 1526
+## NY B 1.526
 - ability to escape from antibodies and vaccines.
 
-## India B 1671
+## mahArAShTra B 1.671
 - more than twice as transmissible as the first wave virus.
 - has 2 mutations E484Q and L526R.
   - The E484Q mutation makes it behave like the African strain against which most vaccines have failed.
   - The other mutation L526R found in California makes it spread faster.
+
+## bengAl B 1.618
+- It has a mutation(E484K) that is notorious to cause escape to vaccines.
+
 
 ## India B 1.36
 - It has N440 mutation which might be the reason for some of the re- infections described.
