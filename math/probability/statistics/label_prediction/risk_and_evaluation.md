@@ -38,7 +38,7 @@ Suppose that our predictor is based on the model \\(f_{Y|X,T=t}\\). Then log los
 ### Confusion matrix
 For qualitative evaluation, make k*k confusion matrix \\(C\\) with \\(C_{i,j}\\) as number of points belonging to class i predicted as belonging to class j.
 
-### True and false positives
+### True and false positives, notation
 \\(U \dfn \\) set of all points. \\(y(c) \dfn\\) points belonging to class c. \\(\hat{y}(c) \dfn\\) set of points predicted to belong to class c.
 
 True positives: \\(tp(c, \hat{y}) \dfn |y(c) \inters \hat{y}(c)|\\). False positives: \\(fp(c, \hat{y}) \dfn |\hat{y}(c) - y(c)|\\).
