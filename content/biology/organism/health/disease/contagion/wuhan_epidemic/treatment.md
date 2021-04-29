@@ -8,11 +8,16 @@ title = "Treatment"
 - WHO recommendations [20200902](https://www.bmj.com/content/370/bmj.m3379).
 - Do not take steroids before the stage of requiring oxygen as it is proven to cause more problems than do good.
 
-### Oxygen supply
-- Keep oxygen concentrators. Prone (face-down) ventilation useful.
-  - BengaLUru supply: [covid.army site](https://covid.army/bangalore)
-- Pronal breathing demo [here](https://twitter.com/DNeurosx/status/1383848158430588935)
+### Symptomatic treatment
+- Multivitamins + Cough Syrup + Anti-allergics + Paracetamol (650 mg for adults). The goal from Day 1 has to be to keep fever low if it is high: Hydrate (High fluid intake) + Steam + Paracetamol.
+- Keep monitoring disease severity (see [diagnosis](../diagnosis/) page.)
 
+### Oxygen supply
+- Pronal breathing demo [here](https://twitter.com/DNeurosx/status/1383848158430588935)
+- Severe cases:
+  - If oxygen levels are falling below 90 and there is access to a concentrator, please use it. If levels are extremely low (<80), high pressure cylinders are needed; if not, concentrators are useful to maintain levels above 90.
+  - Prone (face-down) ventilation useful.
+  - BengaLUru supply: [covid.army site](https://covid.army/bangalore)
 
 ### Hospitals and help - bengaLUru
 - Beds, ventilators etc. [here](https://covid-19-hospital-data.el.r.appspot.com/?location=Bangalore).
@@ -21,6 +26,7 @@ title = "Treatment"
 ### Case severity
 - Non-severe - not the other two levels
 - Severe - Sp2 < .9. Respiratory rate > 30 in adults.
+- See [diagnosis](../diagnosis/) page.
 - Critical
   - Life sustaining treatment needed
   - Acute respiratory syndrome
@@ -28,18 +34,26 @@ title = "Treatment"
   - Septic shock
 
 ## Severe and critical cases
+- The only effective treatment for Covid in these cases of pneumonia + high inflammation is: Steroids and Blood thinners. If O2 falls to below 93, either or both of these will have to be used. Three main sorts:
+  - Budesonide
+  - Methylprednisolone
+  - Dexamethasone
 - While Dexamethasone is now proven to be beneficial at late stages, Interferon (IFN-1) administration early on likely to save lives.
 - (Systemic) Corticosteroids. Alternatives below ("No clear differences in efficacy or adverse effects between different corticosteroids"):
   - Dexamethasone 6mg oral or intravenous daily for 7-10 days.
   - Hydrocortisone 50mg IV every 6 hours 7-10 days
   - Methyl-prednisolone 10mg IV every 6 hours 7-10 days
   - Prednisone 50mg Oral - daily for 7-10 days.
-- Tociluzumab. Blocks inflammatory mediator Interleukin 6. UK approved. it has a very narrow 24 hour window before patients deteriorate when it is beneficial,not before or after.
+- Tociluzumab. Blocks inflammatory mediator Interleukin 6. UK approved. it has a very narrow 24 hour window before patients deteriorate when it is beneficial, not before or after.
+  - Givne to severely ill patient admitted to hospital within 14d of onset, requiring more than 10L of oxygen and on dexamethasone.
 - Remdesivir no mortality benefit (Solidarity trial). Still recommended in many algorithms - may help reduce day or two of hospital stay if administered in the right dose at the right time - [TS](https://twitter.com/Tejasvi_Surya/status/1386334961335078919) .
+  - No benefit in normal oxygen saturation.
 
 ### Very critical cases
 - Extracorporeal membrane oxygenation (ECMO) is a final resort for critically ill COVID patients where in both the lungs and heart are given rest for the intended recovery using machines to do what heart and lungs do in our body. An international registry involving 213 hospitals across 36 countries has shown 90 day mortality of patients put on ECMO is about 38%
 
+### Medicine procurement
+- The above are extremely difficult to come by right now (in Delhi) but not impossible: be prepared to speak to 50+ pharmacies and to have to use Dunzo/WeFast to pick up meds from afar. Tip: Save as many pharmacist numbers in your phone as you can
 
 ## Upcoming drugs
 - Bacricitinib which has proven more benefit when combined with Remdesivir.
@@ -76,3 +90,7 @@ nanobodies, based on a kind of antibody naturally produced by some camelids, inc
 ### Look for heart damage
 - People might be dying of discharge for this reason.
 - Check D dimer after discharge, do MRI. 
+
+## Body disposal (BBMP)
+- BBMP cremates
+- Cremate with PPE kit.

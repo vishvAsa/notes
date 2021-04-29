@@ -83,7 +83,7 @@ Dermatological
 
 - Skin rashes
 
-## Tests
+## Tests for infection
 - "RT-PCR remains the gold standard for the diagnosis of COVID-19 in sputum samples. However, the combination of different diagnostic tests is highly recommended to achieve adequate sensitivity and specificity."
 
 ### Test metrics
@@ -103,16 +103,23 @@ Dermatological
 - A Crisper based diagnostic testing tried out in Thailand offers 97-100 percent sensitivity to detect the virus and has a turn around time of 75 minutes.
 
 
-### CT scans
-- At prevalance 15%, 20200822
-    - Sensitivity (fraction of positives caught) - 86%
-    - Specificity (fraction of negatives marked as negative) - 18%
-
 ### Paper antigen tests
 - Rapid, inexpensive paper strip tests can tell you whether you are contagious. Research shows that if taken frequently, these tests will drive down infections. [RT](https://www.rapidtests.org/) 
 - ICMR [advisory](https://www.icmr.gov.in/pdf/covid/strategy/Advisory_for_rapid_antigen_test14062020.pdf), validated kits [here](https://www.icmr.gov.in/pdf/covid/kits/List_of_rapid_antigen_kits_29102020.pdf).
 - Tackling false positives - use different antigen test strip.
 - Maximum duration for interpreting a positive or negative test is 30 minutes. After that the test strip should be discarded.
+
+## Severity tests
+### Blood tests
+- Get a Complete Blood Count (CBC) and C-reactive Protein (CrP) test as soon as ANY symptoms appear. This is an inexpensive (<1k) and relatively fast (although taking 24+ hours in Delhi now) test that is extremely important to measure severity of infection - detects tissue damage and infection signs.
+
+### CT scans
+- High resolution computed tomography (HRCT)
+- At prevalance 15%, 20200822
+  - Sensitivity (fraction of positives caught) - 86%
+  - Specificity (fraction of negatives marked as negative) - 18%
+- CT scans need you to travel to labs + cost >5k and reports are available in a few hours.
+- CT scan 18+/25 is terrible. [202104 Victoria Hospital BLR shivakumAr](https://www.facebook.com/publictv/videos/2559427477695126)
 
 ### Antibody tests
 - Prick blood and put on test strip.
@@ -120,3 +127,7 @@ Dermatological
 
 ### Other Rough tests
 - [Pulse oximeters]() help diagnose the infection. 
+
+### Aggregation
+- If O2 sat. is remaining above 95 and CrP is below 5 on Day 5, then in all likelihood one is out of the woods.
+- If the sat is dropping (<93) and CrP is still high by Day 5 -> needs stronger medication
