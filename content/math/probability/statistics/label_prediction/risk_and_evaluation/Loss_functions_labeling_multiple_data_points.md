@@ -12,6 +12,8 @@ A 2x2 example:
 | Actual T | 12          | 3           |
 | Actual F | 31          | 13          |
 
+{{< figure src="../images/positive-negative-predictive-value.webp" title="">}}
+
 ## Notation
 \\(U \dfn \\) set of all points. \\(y(c) \dfn\\) points belonging to class c. \\(\hat{y}(c) \dfn\\) set of points predicted to belong to class c.
 
@@ -24,12 +26,13 @@ False negatives: \\(function(c, \hat{y}) = |y(c) \inters (U - \hat{y}(c))|\\).  
 
 True negatives: \\(tn(c, \hat{y}) = |(U - y(c)) \inters (U - \hat{y}(c))|\\).  Points incorrectly labelled as negative.
 
-## Precision, recall, specificity
+## Metrics
 
 {{< figure src="../images/Precision-recall.svg" title="" class="thumbnail">}}
 
 ### Precision
-Precision = true positives/ predicted positives.
+#### Positive label precision
+Aka Precision. true positives/ predicted positives. Aka Positive predictive value.
 
 In multiclass case: 
 
@@ -37,7 +40,11 @@ In multiclass case:
 - weighted average precision
 - Micro averaged precision : \\(P(\hat{y}) = \frac{\sum_{c}tp(c, \hat{y})}{\sum_{c} (fp(c, \hat{y})+tp(c, \hat{y}))}\\).
 
-### Recall
+#### Negative label precision
+Aka Negative predictive value. True negatives / Predicted negatives.
+
+### Completeness metrics
+#### Recall / sensitivity
 Recall = true positives/ actual positives. Aka completeness or sensitivity or true positive rate.
 
 In multiclass case:
@@ -46,7 +53,7 @@ In multiclass case:
 - weighted average recall
 - micro-averaged recall \\ \\(R(\hat{y}) = \frac{\sum_{c}tp(c, \hat{y})}{\sum_{c} (function(c, \hat{y}) + tp(c, \hat{y}))}\\). Measures ability to identify items belonging to class c.
 
-### Specificity
+#### Specificity
 - Measures ability to discard items not belonging to class c.
 - Fraction of true negatives
   
@@ -55,7 +62,6 @@ In multiclass case:
 ### Aggregate measures
 F-measure, the harmonic mean of precision and recall, is also used to evaluate success.
 
-#### Predictive values
 
 ### Sensitivity - specificity tradeoff
 Ideally, want to increase both sensitivity and specificity. But to increase sensitivity, the classifier often needs to take more risks in classifying an entity as 'positive'. There will be many cases where -ve entities are declared +ve: there is decrease in specificity.
