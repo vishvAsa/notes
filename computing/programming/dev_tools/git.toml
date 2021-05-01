@@ -149,7 +149,9 @@ Software = 'git'
 "Operand Type" = 'submodule'
 Feature = 'initialize'
 Syntax = 'git submodule update --init --recursive'
-Description = 'NOTE: Tracks a certain gitlink, and never the moving head of a branch.'
+Description = 'NOTE: Tracks a certain gitlink, and never the moving head of a branch. Checks out to a headles state. Does not track the remote branch properly.'
+
+
 
 [[data]]
 Software = 'git'
@@ -164,9 +166,27 @@ Syntax = """
 [[data]]
 Software = 'git'
 "Operand Type" = 'submodule'
+Feature = 'track remote branch'
+Syntax = """
+git submodule foreach -q --recursive 'git checkout $(git config -f $toplevel/.gitmodules submodule.$name.branch || echo master)'
+"""
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'submodule'
 Feature = 'pull'
-Syntax = 'git submodule foreach "(git checkout master; git pull)&"'
+Syntax = '''
+git submodule foreach "(git checkout $(git config -f $toplevel/.gitmodules submodule.$name.branch || echo master); git pull)&"
+'''
 Description = 'Pulls all updates from the remote.'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'submodule'
+Feature = 'foreach'
+Syntax = """
+git submodule foreach --recursive 'if [[ "$name"  == *vvasuki* ]]; then echo "$name YES"; else echo "$name NO"; fi'
+"""
 
 [[data]]
 Software = 'git'
