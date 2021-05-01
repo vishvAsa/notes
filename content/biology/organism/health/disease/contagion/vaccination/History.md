@@ -6,9 +6,10 @@ title = "History"
 ## Indian contribution
 > Indians do variolation. Chinese + Arabs learn it. Arabs spread it to Turkey. Europeans learn it from Turkey but can't fine tune it. They get worse results because the inoculation causes the disease .. all this happen before 1730s. 1797, Jenner discovers vaccination.
 
-Later, the British banned the practice. The high incidence of smallpox epidemics after this in the nineteenth and early twentieth centuries could probably be assigned to the banning of this practice before the new Jenner vaccination system could become fully widespread.
+Later, the British banned the practice in 1861.
+. The high incidence of smallpox epidemics after this in the nineteenth and early twentieth centuries could probably be assigned to the banning of this practice before the new Jenner vaccination system could become fully widespread.
 
-### Howe's 1767 account:
+### Howe's 1767 account
 > The inhabitants of Bengal knowing the usual time when the inoculating Bramins annually return, observe strictly the regimen enjoined, whether they determine to be inoculated or not; this preparation consists only in abstaining for a month from fish, milk and ghee, (a kind of butter made generally of buffalo’s milk) the prohibition of fish respects only the native Portuguese and Mahometans, who abound in every province of the empire.
 > 
 > When the Bramins begin to inoculate, they pass from house to house and operate at the door, refusing to inoculate any who have not, on a strict scrutiny, duly observed the preparatory course enjoined them. It is no uncommon thing for them to ask the parents how many pocks they chuse their children should have: Vanity, we should think, urged a question on a matter seemingly so uncertain in the issue; but true it is, that they hardly ever exceed, or are deficient in the number required.
@@ -23,3 +24,5 @@ Later, the British banned the practice. The high incidence of smallpox epidemics
 J.Z. Holwell (FRS) +++(a survivor of Siraj Ud Daulah's black hole in 1756)+++ gave a detailed report on the widespread practice of inoculation against smallpox to the president and members of the College of Physicians in London, as follows:
 
 > Inoculation is performed by a particular tribe of Brahmins who are dedicated annually for this service from the different colleges over the various provinces. They travel in small groups of three or four from place to place so as to reach various places some weeks before the usual onset of disease. . . . When they begin to inoculate they pass from house to house and inoculate.... Usually they inoculate outside of the arm, and between the wrist and elbow for the male, and between the elbow and the shoulder for the females. Before the inoculation, the inoculator takes a piece of cloth and rubs the part to be inoculated for eight or ten minutes. He then makes a small prick with a small instrument till a drop of blood appears. After that he opens a linen double cloth and takes from there a small piece of cotton charged with variolous matter which he measures with a few drops of Ganges water and applies it to the wound with a bandage. ... When the before-recited treatment is strictly followed, it comes as miracle to hear that one in million fails for receiving the infection or of one that miscarries under it.
+> 
+>  Susantha Goonatilake's "Toward a global science : mining civilizational knowledge" who inturn quotes Dharmapal's citation of Holwell's report
