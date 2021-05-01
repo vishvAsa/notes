@@ -125,7 +125,7 @@ NOTE: Tracks a certain gitlink, and never the moving head of a branch.'''
 Software = 'git'
 "Operand Type" = 'submodule'
 Feature = 'setup'
-Syntax = 'git submodule add [-b branch] https://github.com/<user>/rock localDirPath'
+Syntax = 'git submodule add [-b branch --depth 1] https://github.com/<user>/rock localDirPath'
 
 [[data]]
 Software = 'git'
@@ -154,6 +154,16 @@ Description = 'NOTE: Tracks a certain gitlink, and never the moving head of a br
 [[data]]
 Software = 'git'
 "Operand Type" = 'submodule'
+Feature = 'remove'
+Syntax = """
+1. git submodule deinit -f -- a/submodule    
+2. rm -rf .git/modules/a/submodule
+3. git rm -f a/submodule
+"""
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'submodule'
 Feature = 'pull'
 Syntax = 'git submodule foreach "(git checkout master; git pull)&"'
 Description = 'Pulls all updates from the remote.'
@@ -170,6 +180,7 @@ Software = 'git'
 Feature = 'remote branches'
 Subfeature = 'concept'
 Description = 'Remote branches are just like local branches, except they represent commits from somebody else’s repository.'
+
 
 [[data]]
 Software = 'git'
