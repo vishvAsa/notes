@@ -125,8 +125,9 @@ Dermatological
 - Prick blood and put on test strip.
 - "The combination of IgM and IgG antibodies demonstrated promising results for both parameters (84.5% [82.2%-86.6%]; 91.6% [86.0%-95.4%], respectively). "
 
-### Other Rough tests
+### Oxygen levels
 - [Pulse oximeters]() help diagnose the infection. 
+- For SpO2 below 92-93, you might need hospitalisation. Before making that call, take a 6-min walk test. If levels rise, good. Else go to a hospital where oxygen therapy & some steroids will be given.
 
 ### Aggregation
 - If O2 sat. is remaining above 95 and CrP is below 5 on Day 5, then in all likelihood one is out of the woods.

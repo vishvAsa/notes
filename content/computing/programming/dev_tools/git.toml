@@ -125,7 +125,14 @@ NOTE: Tracks a certain gitlink, and never the moving head of a branch.'''
 Software = 'git'
 "Operand Type" = 'submodule'
 Feature = 'setup'
-Syntax = 'git submodule add https://github.com/<user>/rock localDirPath'
+Syntax = 'git submodule add [-b branch] https://github.com/<user>/rock localDirPath'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'set-branch'
+"Implementation Type" = 'setup'
+Syntax = 'git submodule add [-b branch] https://github.com/<user>/rock localDirPath'
+
 
 [[data]]
 Software = 'git'
@@ -215,6 +222,15 @@ Feature = 'instantiation'
 Syntax = '''
 git checkout -b branchName
 git checkout -b hotfix master'''
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Branch'
+Feature = 'instantiation'
+Syntax = '''
+git subtree split --prefix=subdir_path -b some_branch
+'''
+
 
 [[data]]
 Software = 'git'
