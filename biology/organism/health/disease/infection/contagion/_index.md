@@ -1,5 +1,5 @@
 +++
-title = "+Contagion"
+title = "+Contagion (General)"
 +++
 
 ## साङ्क्रामिकरोगाः

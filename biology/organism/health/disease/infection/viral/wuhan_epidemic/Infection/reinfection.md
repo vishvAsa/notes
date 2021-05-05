@@ -4,6 +4,7 @@ unicode_script = "devanagari"
 +++
 
 ## Uncommon cases
+- Protection from prior infection (Mar’20 until Dec‘20): 91%
 - There have been re-infections of the Corona virus have been described around the world. 
 - Not all reinfections seen so far are milder. 
 - About 1 in 5 or even 1 in 3 of those infected during the first wave in India had declining antibodies 6 months later.
