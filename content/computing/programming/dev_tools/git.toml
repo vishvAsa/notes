@@ -31,7 +31,16 @@ Software = 'git'
 "Operand Type" = 'Repository'
 Feature = 'clone'
 Subfeature = 'without history'
-Syntax = 'git clone --depth 1 https://github.com/sanskrit-coders/stardict-sanskrit.git'
+Syntax = 'git clone --depth 1 --recurse-submodules --shallow-submodules https://github.com/sanskrit/raw_etexts.git'
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'Repository'
+Feature = 'fork'
+Syntax = '''
+Use github.
+'''
+
 
 [[data]]
 Software = 'git'
@@ -351,7 +360,10 @@ Software = 'git'
 "Operand Type" = 'Branch'
 Feature = 'restore/ switch'
 Subfeature = 'force'
-Syntax = 'git checkout -f <branchname>'
+Syntax = '''
+git checkout -f <branchname>
+git switch branchname
+'''
 
 [[data]]
 Software = 'git'
@@ -446,7 +458,10 @@ git checkout HEAD -- .'''
 Software = 'git'
 "Operand Type" = 'working directory / tree'
 Feature = 'restore files'
-Syntax = 'git checkout $(git rev-list -n 1 HEAD -- "$file")^ -- "$file"'
+Syntax = '''
+git checkout $(git rev-list -n 1 HEAD -- "$file")^ -- "$file"
+git restore xyz
+'''
 
 [[data]]
 Software = 'git'

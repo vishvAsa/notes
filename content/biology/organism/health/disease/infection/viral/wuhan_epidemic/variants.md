@@ -49,10 +49,12 @@ Original is called: Victoria.
 - ability to escape from antibodies and vaccines.
 
 ## mahArAShTra B 1.671
-- more than twice as transmissible as the first wave virus.
-- has 2 mutations E484Q and L526R.
-  - The E484Q mutation makes it behave like the African strain against which most vaccines have failed.
-  - The other mutation L526R found in California makes it spread faster.
+- The other mutation L526R found in California makes it spread faster. more than twice as transmissible as the first wave virus.
+  
+### With E484Q
+- The E484Q mutation makes it behave like the African strain against which most vaccines have failed.
+
+
 
 ## bengAl B 1.618
 - It has a mutation(E484K) that is notorious to cause escape to vaccines.
@@ -60,3 +62,6 @@ Original is called: Victoria.
 
 ## India B 1.36
 - It has N440 mutation which might be the reason for some of the re- infections described.
+
+## AP variant N440K
+- Supposedly more infectious. But reports indicate that it's been swamped by B 1.671.

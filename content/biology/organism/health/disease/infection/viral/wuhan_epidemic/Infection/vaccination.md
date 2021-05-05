@@ -75,9 +75,9 @@ Trigger antibody development thence.
 - Storage requirement at -70 C
 
 ### Efficacy
-- 50% protection after 14 days of first shot.
-- Single shot of Pfizer vaccine is 85% effective in  preventing symptomatic disease 15-28 days after the 1st dose: Israel data.
-- Reduces mild/ severe cases by 95% 7 days after 2nd dose of vaccine; reduces infection by 90%. 100% efficacy in adolescents
+- ≥14 days after a single dose:       42%
+- ≥7 days after the second dose:    86%
+  - Reduces mild/ severe cases by 95% 7 days after 2nd dose of vaccine; reduces infection by 90%. 100% efficacy in adolescents
 - 91.3% efficacy even after 6 months.
 - Immune response after mRNA vaccinations after 2 doses demonstrated good and safe antibodies 8 weeks later. The efficacy against mutants was slightly reduced.
 - Both the Pfizer and Moderna vaccines are 10 times less effective against the South African variant
@@ -100,15 +100,16 @@ Trigger antibody development thence.
 
 ## Novavax/ Novavac/ Covovax vaccine
 - Directly injects stabilized spike proteins (mRNA or DNA not used.) This same technology has been used since 1986 with Hep B vaccines that are given to even infants and found extremely safer.
+  - They took the code for the Spike Protein, put it into another virus called baculovirus that infected moth cells. Spike proteins made were collected, made into nanoparticles, and used as vaccine.
 - can be stored in warmer temperatures, anywhere between 36°F and 46°F.
-- Serum Institute in India tied up with Novavax and ready to roll out vaccines by July.
+- Serum Institute in India tied up with Novavax and ready to roll out vaccines by July. US blocked raw materials in April.
 - Efficacy: Overall - 89%, South Africa - 50%
   - Current strain D614G: 95%
-    UK strain B1.1.7: 89.3% 
-    South African  variant 501Y.V2: 60%
-    HIV Neg: 60.1%
-    HIV Pos: 49.4%
-    Severe disease: 100%
+  - UK strain B1.1.7: 89.3% 
+  - South African  variant 501Y.V2: 60%
+    - HIV Neg: 60.1%
+    - HIV Pos: 49.4%
+    - Severe disease: 100%
 - Among placebo group for Novavax’s vaccine in South Africa, people with prior #COVID19 infections appeared just as likely to get sick as people without prior infections—means past infection wasn’t fully protective for B1351 variant.
 
 
@@ -124,12 +125,16 @@ Trigger antibody development thence.
 
 
 ## Gamelaya Sputnik V
-- The Russians have used human (rather than chimp) Adenovirus and use 2 different strains (Ad26 and Ad5) as vectors cleverly in their Sputnik vaccine. Apparently,this reduces the chances of preexisting antibodies reducing the efficacy.
+- The Russians have used human (rather than chimp) Adenovirus and use 2 different strains (Ad26 and Ad5) as vectors in first and second dose respectively. Apparently,this reduces the chances of preexisting antibodies reducing the efficacy.
 - Russia says its Sputnik V vaccine is 91% effective. Good effectiveness against  B117(UK variant).
 - Not that good against African B1351 variant.
 - Storage: Regular fridge temperature. 
 
-## Sinovac CoronaVac
+### Risks
+- FDA says: there should be less than 1 virus particle in 30 billion particles. Brazilians fear that due to replication in cell lines, the virus may acquire and retain immortal reproductive ability.
+- Adenovirus is also a horrible virus specially in the immunocompromised.It causes deaths also in the immunocompromised by causing liver damage,gut infiltration and Brain infiltration.
+
+## Sinovac CoronaVac 
 - inactivated / attenuated whole virus particles 
 - Brazil: 50.38% effective in late-stage trials in Brazil (far below the 78% previously announced)
 - Indonesian drug regulators say interim data from Phase 3 trials showed it is 65.3% effective

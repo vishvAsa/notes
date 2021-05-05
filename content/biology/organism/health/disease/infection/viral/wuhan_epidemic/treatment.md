@@ -7,6 +7,7 @@ title = "Treatment"
   - pravINa - "don't even take Ivermectin as drug interactions of this drug with others can cause problems."
 - WHO recommendations [20200902](https://www.bmj.com/content/370/bmj.m3379).
 - Do not take steroids before the stage of requiring oxygen as it is proven to cause more problems than do good.
+- No CT scans for mild symptoms not requiring oxygen. (like exposing yourselves to 300-400 chest X Ray's in one go. Some have had 2-3 scans in 10 day hospitalisation.)
 
 ### Symptomatic treatment
 - Multivitamins + Cough Syrup + Anti-allergics + Paracetamol (650 mg for adults). The goal from Day 1 has to be to keep fever low if it is high: Hydrate (High fluid intake) + Steam + Paracetamol.
@@ -34,7 +35,7 @@ title = "Treatment"
   - Septic shock
 
 ## Severe and critical cases
-- The only effective treatment for Covid in these cases of pneumonia + high inflammation is: Steroids and Blood thinners. If O2 falls to below 93, either or both of these will have to be used. Three main sorts:
+- The only effective treatment for Covid in these cases of pneumonia + high inflammation is: Steroids (and possibly Blood thinners). If O2 falls to below 93, either or both of these will have to be used. Three main sorts:
   - Budesonide
   - Methylprednisolone
   - Dexamethasone
