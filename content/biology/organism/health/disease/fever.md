@@ -45,3 +45,4 @@ unicode_script: devanagari
 शीत-ज्वरारि नामायम्  
 अखिलान् विषमज्वरान्।।(परमार्थयोगसंग्रहः)
 
+- sudarshana-chUrNam
