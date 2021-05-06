@@ -13,6 +13,20 @@ title = "Treatment"
 - Multivitamins + Cough Syrup + Anti-allergics + Paracetamol (650 mg for adults). The goal from Day 1 has to be to keep fever low if it is high: Hydrate (High fluid intake) + Steam + Paracetamol.
 - Keep monitoring disease severity (see [diagnosis](../diagnosis/) page.)
 
+### Ayurvedic
+- Dr. P L T Girija's Webinar [here](https://www.youtube.com/watch?v=93nxIR8f2zM).
+  - Specially effective in treating patients with co-morbidities.
+  - Experience : 350 patients treated, 93% symptomatic, 37% with comorbidities, 24% above 60, 18% overweight (BMI>30).
+- Diagnosed as vAta-kapha-jvara.
+- Guduchi
+
+#### AYUSH protocol
+- AYUSH treatment protocol is good. pdf [here](https://www.ayush.gov.in/docs/ayush-Protocol-covid-19.pdf).
+- Gargling
+- Nasal oil application - medicated oil (Anu taila or Shadbindu Taila)
+  or plain oil (Sesame or Coconut) or nasal application of cow's ghee (Goghrita) once or twice in a day, especially before going out and after coming back to home
+- Steam inhalation with Ajwain (Trachyspermum ammi) or Pudina (Mentha spicata) or Eucalyptus oil once a day
+
 ### Oxygen supply
 - Pronal breathing demo [here](https://twitter.com/DNeurosx/status/1383848158430588935)
 - Severe cases:
@@ -45,7 +59,7 @@ title = "Treatment"
   - Hydrocortisone 50mg IV every 6 hours 7-10 days
   - Methyl-prednisolone 10mg IV every 6 hours 7-10 days
   - Prednisone 50mg Oral - daily for 7-10 days.
-- Tociluzumab. Blocks inflammatory mediator Interleukin 6. UK approved. it has a very narrow 24 hour window before patients deteriorate when it is beneficial, not before or after.
+- Tociluzumab. Blocks inflammatory mediator Interleukin 6. UK approved. Within 48 hours of deterioration to Oxygen dependency if used has a mortality benefit.
   - Givne to severely ill patient admitted to hospital within 14d of onset, requiring more than 10L of oxygen and on dexamethasone.
 - Remdesivir no mortality benefit (Solidarity trial). Still recommended in many algorithms - may help reduce day or two of hospital stay if administered in the right dose at the right time - [TS](https://twitter.com/Tejasvi_Surya/status/1386334961335078919) .
   - No benefit in normal oxygen saturation.
@@ -56,10 +70,12 @@ title = "Treatment"
 ### Medicine procurement
 - The above are extremely difficult to come by right now (in Delhi) but not impossible: be prepared to speak to 50+ pharmacies and to have to use Dunzo/WeFast to pick up meds from afar. Tip: Save as many pharmacist numbers in your phone as you can
 
-## Upcoming drugs
+
+## Other drugs
+### Upcoming drugs
 - Bacricitinib which has proven more benefit when combined with Remdesivir.
  
-## Failed drugs
+### Failed drugs
 - Hydroxychloroquine
 - Azithromycin and doxycycline antibiotics was thought to have a role. The RECOVERY trial from Oxford has shown no benefit.
 - Itolizumab
