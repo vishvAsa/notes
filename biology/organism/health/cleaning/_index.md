@@ -9,3 +9,7 @@ title = "+Cleaning"
 
 ## Cleaning agents
 - See [hand-sanitization](hand-sanitization) page.
+
+### Chloroxylenol
+- Aka para-chloro-meta-xylenol (PCMX). active ingredient in Dettol.
+- most effective against gram-positive bacteria. works by disruption of the cell wall and stopping the function of enzymes.
