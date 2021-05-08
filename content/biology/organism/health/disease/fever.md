@@ -45,4 +45,8 @@ unicode_script: devanagari
 शीत-ज्वरारि नामायम्  
 अखिलान् विषमज्वरान्।।(परमार्थयोगसंग्रहः)
 
+- तुलसीक्वाथः
+  - साधनम् [अत्र](https://www.youtube.com/watch?v=U-TBoHAPObo) । (Note: Don't loose volatile oils to heat!)
 - sudarshana-chUrNam
+
+- [NSAIDs](../../disease/drugs/anti-inflammation).

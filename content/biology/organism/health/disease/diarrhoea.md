@@ -10,3 +10,9 @@ title = "Diarrhoea"
   
 ## Ayurvedic
 - kUTaja-ghanavATI - 1-2 tablets twice daily 
+
+## Allopathic
+- Loperamide
+  - Eldoper
+  - Ensures that food stays in the intestine longer, allowing for more water to be absorbed.
+  - In adults and children 12 years of age and older, the usual dose is 4 mg (2 capsules) as a first dose, followed by 2 mg (1 capsule) after each unformed stool. The maximum dose is 16 mg/day.
