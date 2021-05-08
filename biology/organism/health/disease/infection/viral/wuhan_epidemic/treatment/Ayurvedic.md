@@ -13,7 +13,7 @@ title = "Ayurvedic"
 
 ## Physical measures
 - Gargling
-
+- See [congestion](../../../../../respiratory/congestion/) page.
 
 ## Dietary
 - Drink warm water or boiled with herbs like ginger or coriander or basil or cumin (or guDUchi, a tridoShahara - 1TSP) or ashvagandha (1TSP). Twice daily.

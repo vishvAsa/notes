@@ -8,3 +8,14 @@ unicode_script: devanagari
 शुष्क-कासं तथा श्वासं  
 यदि युक्त्या प्रयोजितः।।(कृष्णः)
 
+## Suppressents
+- Honey
+- Benadril
+- Dabur Honitus
+- Ascoryl
+- warm fluids
+- Ambroxol syrup
+  - Toddlers: 3ml 3x/ day
+
+- lozenges
+
