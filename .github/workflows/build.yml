@@ -2,9 +2,9 @@ name: Build Hugo site
 
 on:
   push:
-    branches: [ hugo-source ]
+    branches: [ hugo-source, content ]
   pull_request:
-    branches: [ hugo-source ]
+    branches: [ hugo-source, content ]
   workflow_dispatch:
     inputs:
       logLevel:

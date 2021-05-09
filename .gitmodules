@@ -1,3 +1,7 @@
 [submodule "themes/sanskrit-documentation-theme-hugo"]
 	path = themes/sanskrit-documentation-theme-hugo
 	url = https://github.com/sanskrit-coders/sanskrit-documentation-theme-hugo.git
+[submodule "content"]
+	path = content
+	url = https://github.com/vvasuki/notes.git
+	branch = content
