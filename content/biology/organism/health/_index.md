@@ -29,6 +29,7 @@ Having negative health conditions diminishes our enjoyment of life, and makes us
 ### Good environment
 - "As a biological organism the human body is adaptive; more than that, it is antifragile, this is an important distinction in that things that are antifragile need stress to improve. So, the health and ‘fitness’ of the body is demand led – the demand comes from our environment."
 
+
 ## Naturalness
 "Despite what we've been told by people seduced by modern diet and medicine, good health is our natural state - we don't need to be saved from our natural state: we have a predisposition for health, not illness." 
 
