@@ -1,5 +1,0 @@
-+++
-title = "Jagannatha alias Nana Shankersheth"
-
-+++
-(10 February 1803 – 31 July 1865), of the wealthy Murkute family of the Daivadnya Brahmin caste, who unlike his forefathers, he engaged in commerce and soon developed a reputation as a very reliable businessman, that Arabs, Afghans and other foreign merchants chose to place their treasures in his custody rather than with banks, acquired a large fortune, much of which he donated to the public, became one of the founders of the School Society and the Native School of Bombay (later became the Elphinstone Educational Institution, where luminaries including TiLak, gokhale, Balshashtri Jambhekar , Dadabhai Nauroji , Mahadev Govind Ranade , Ramakrishna Gopal Bhandarkar studied); contributed to opening a girls' school despite traditionalist opposition; founded the Sanskrit Seminary, and the Sanskrit Library.

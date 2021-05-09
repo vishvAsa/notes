@@ -1,6 +1,0 @@
----
-title: +Burma
----
-
-## Indian settlements
-"Wesali or Vaisali was founded by Hindu Chandra Dynasty. "The area known as North Arakan had been for many years before the 8th century the seat of Hindu dynasties. In 788 AD a new dynasty, known as the Chandras, founded the city of Wesali. This city became a noted trade port to which as many as a thousand ships came annually; the Chandra kings were upholders of Buddhism, ... their territory extended as far north as Chittagong;---- Wesali was an easterly Hindu kingdom of Bengal --- Both government and people were Indian. So far as Arakan is concerned, the inscriptions show traces of two early dynasties holding sway in the north. The earlier one, a Candra dynasty, seems to have been founded in the middle of the 4th century AD. Its capital was known by the Indian name of Vaisali and it maintained close connections with India. Thirteen kings of this dynasty are said to have reigned for a total period of 230 years. The second dynasty was founded in the 8th century by a ruler referred to as Sri Dharmavijaya, who was of pure Kshatriya descent. His grandson married a daughter of the Pyu king of Sri Ksetra."

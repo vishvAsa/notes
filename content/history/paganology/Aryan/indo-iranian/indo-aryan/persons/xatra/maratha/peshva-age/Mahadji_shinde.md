@@ -1,5 +1,0 @@
-+++
-title = "Mahadji shinde"
-
-+++
-(ca. 1730 – 12 February 1794), son of a rAjaputra mother, who established marATha power in the north, defeated jAT states, made the mughals his puppets, checked the british, collected tributes from even the sikh sardars, fought in around 50 wars between 1745 and 1761, literate in Persian and Sanskrit, captured mathurA, reconstructed various old temples and established a centre for Sanskrit learning, restored to a great extant marATha power in north India after the debacle at pAnipaT and made mogols his pawn, who offered his turban to mahAkAla praying for such victory \[[W](https://en.wikipedia.org/wiki/Mahadaji_Shinde)\], as part of avenging pAnipaT destroyed najIb's grave (through visAjI), scattering or burning his bones \[[C](http://www.chakranews.com/mahadji-sindhia-life-and-times-of-a-dharmic-warrior/1068)\].

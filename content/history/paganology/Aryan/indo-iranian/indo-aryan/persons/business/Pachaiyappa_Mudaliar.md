@@ -1,5 +1,0 @@
-+++
-title = "Pachaiyappa Mudaliar"
-
-+++
-(1754–1794) - A great South Indian philanthropist & educational benefactor from Chennai, who contributed to the renovation of the Ekambaranatha & Chidambaram temples🙏. He set aside over Rs 1 million for Hindu religious institutions & education for Hindu youth. His sister Subbammal renovated the eastern Gopuram of the hallowed Thillai. It was with Pachiaiyappa's money that the first Indian College in Chennai was started. He amassed a great fortune in a short life of just 40 years. But he & his family lived very frugally so that they cud contribute all their wealth to Dharma & Education. Pachaiyappa fed 100s of poor daily & himself ate with them. Every day he listened to expositions of the scriptures & was particularly fond of Sekkizhar's Peria Puranam. He celebrated the birthdays of the 63 Nayanmars, setup charities, choultries & Mathas along pilgrim routes. \[[trust_bio](http://pachaiyappastrustboard.org/index.php/founder/pachaiyappa-mudaliar)\]

@@ -1,5 +1,0 @@
-+++
-title = "hemAdrI aka hemadpant"
-
-+++
-brilliant minister of seuNa yAdava-s of devagiri author of chaturvarga-chintAmaNi the dharmashAstra text and Ayurveda-rasAyanam, introduced use of Modi script for Marāthi, patronized many scholars and bred disciples like vopadeva, developed a new temple architecture style,, popularized worship of Goddess Mahālaxmi, an agriculturist who developed the cultivation of bajra as a nutrious food for arid zones. Seeing anti-varNa and brAhmaNa messages being propagated by the mAnabhAv cult and winning over of several converts and political influence, he stuck at them and killed their leader chakradhara - alas he failed, and was executed by elephant crushing. Soon the yAdava-s fell under the subversion. \[[wiki](https://en.wikipedia.org/wiki/Hemadpant#Writings), [MT](https://manasataramgini.wordpress.com/2005/11/13/the-cracks-in-the-edifice/)\]

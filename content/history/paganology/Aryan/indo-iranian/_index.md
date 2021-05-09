@@ -1,3 +1,0 @@
-+++
-title = "+Indo-iranian"
-+++
