@@ -305,11 +305,6 @@ Syntax = '''
 git branch
 git status'''
 
-[[data]]
-Software = 'git'
-"Operand Type" = 'Branch'
-Feature = 'switch'
-Syntax = 'git checkout main'
 
 [[data]]
 Software = 'git'

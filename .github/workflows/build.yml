@@ -5,6 +5,10 @@ on:
     branches: [ hugo-source ]
   pull_request:
     branches: [ hugo-source ]
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        default: 'warning'
 
 jobs:
   transform:
@@ -14,13 +18,15 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
       with:
-        submodules: true
+        submodules: false
+        # Setting true above seems to lead to submodule updation problems.
         fetch-depth: 1
     - name: Update submodules
       if: ${{ github.event_name != 'pull_request'}}
       run: |
-        git pull --recurse-submodules --depth 1
-        git submodule update --recursive --remote
+        set -o xtrace
+        git submodule update --init --recursive
+        git submodule update --remote --merge --recursive
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
