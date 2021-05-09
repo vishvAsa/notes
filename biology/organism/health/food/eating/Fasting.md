@@ -3,7 +3,7 @@ title = "Fasting"
 
 +++
 
-## Procedure
+## General Procedure
 ### Length
 #### Intermittent fasting
 Eat only within an 8hr window. Fast the remaining 16 hours.
@@ -52,3 +52,11 @@ Eat only within an 8hr window. Fast the remaining 16 hours.
 
 ## Credits
 - Quotes from Mark Baker/ GuruAnaerobic.
+
+## As treatment
+- "ज्वरदण्डं तु लङ्घनम्"
+
+> अतीव बलहीनं हि
+  लङ्घनं नैव कारयेत् ।
+  ये गुणा लङ्घने प्रोक्तास्
+  ते गुणा लघुभोजने।। 
