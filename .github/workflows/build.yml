@@ -1,0 +1,48 @@
+name: Build Hugo site
+
+on:
+  push:
+    branches: [ master, content ]
+  pull_request:
+    branches: [ master, content ]
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        default: 'warning'
+
+jobs:
+  transform:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+      with:
+        ref: hugo-source
+        submodules: false
+        # Setting true above seems to lead to submodule updation problems.
+        fetch-depth: 1
+    - name: Update submodules
+      if: ${{ github.event_name != 'pull_request'}}
+      run: |
+        set -o xtrace
+        git submodule update --init --recursive
+        git submodule update --remote --merge --recursive
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: "0.72.0"
+        # extended: true
+      # Step 3 - Clean and don't fail
+    - name: Clean build_github directory
+      run: rm -rf build_github
+    - name: Build hugo site pages
+      run: |
+        hugo
+    - name: Deploy
+      if: ${{ github.event_name != 'pull_request'}}
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./build_github
+        publish_branch: gh-pages
