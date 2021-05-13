@@ -6,6 +6,13 @@ title = "01 Kinematics"
 - Displacement s: a vector measuring change in position. Time t. 
 - Velocity vector \\(v = \frac{ds}{dt}\\). Speed is it's magnitude (a scalar value - without direction arrow).
 - Acceleration vector: \\(a = \frac{dv}{dt}\\) 
+- Average velocity = \\(\dfrac{\int_{t_1}^{t_2} v dt}{ (t_2-t_1)}\\).
+
+## Linear motion, constant acceleration
+- Consider time ranging from 0 to \\(t_1\\).
+- \\(v = u + at_1\\)
+- \\(s = \int_{t=0}^{t=t_1} (u + at) dt =  ut_1 + \dfrac{at_1^2}{2} = \int_{t=0}^{t=t_1} (u + at) dt =  ut_1 + \dfrac{(v-u)t_1^2}{2t_1} \\)
+- Alternately, eliminating \\(t_1\\): \\(2as = 2u(v-u) + \dfrac{(v-u)^2} = v^2 - u^2\\).
 
 ## Circular motion
 - Let \\(\theta\\) represent angular position.

@@ -17,3 +17,20 @@ title = "02 Dynamics"
 Net force acting on an object in a curved path can be divided up into two perpendicular components - tangential to the path (aka centrifugal force), and one perpendicular to the path (aka centripetal force).
 
 Centripetal force = \\(F_c = ma_c = mv^2/r\\) (\\(a_c\\) was derived separately in kinepatics page.)
+
+## Work
+Work \\(w = \int_{a}^{b}fds\\). When work is done to a body, energy is said to be transferred to the body.
+
+### Kinetic energy change
+\\(w = \int_{t_a}^{t_b}mavdt = \int_{u}^{v}mvdv = \dfrac{m(v^2 - u^2)}{2}\\). 
+
+This \\(\dfrac{mv^2}{2}\\) value is taken to be the final "kinetic energy", after the work was applied. The initial kinetic energy is taken to be \\(\dfrac{mu^2}{2}\\)
+
+### Potential energy change
+Potential energy change = change in capacity to do work. Example: Work done in lifting an object of mass m for distance s against force F results in change in potential energy \\(Fs = mas\\).
+
+
+
+energy, power. The law of conservation of energy. 
+
+Potential and keinetic energy. Heat. Escape velocity.
