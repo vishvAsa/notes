@@ -1,0 +1,14 @@
++++
+title = "Western role models and hindus"
++++
+
+(In response to an article by rAghavendra gadagkar [here](https://science.thewire.in/the-sciences/james-watson-konrad-lorentz-contributions-biology-social-justice-raghavendra-gadagkar/).)
+
+There is the issue of idolizing the actors & then being disillusioned by their ways for one other reason. In this regard I must say that I read Watson's biography (not autobiography) from a volume of Greek and Western European scientists. It did not make a big impression on me & hardly was the cause to inspire me towards biology/biochemistry. The ones that made the biggest impression were: 1) Archimedes; 2) Theophrastus; 3) da Vinci; 4) Regiomontanus; 5) Descartes; 6) Leibniz; 7) Scheele; 8) Laplace; 9) Euler; 10) Lagrange; 11) Lavoisier; 12) von Goethe; 13) Gauss; 14) Ohm; 15) Faraday; 16) Darwin; 17) Wallace; 18) Riemann; 19) Cauchy; 20) Kirchhoff; 21) Planck 22) Ameghino
+
+It is a common human tendency to idolize and imitate the acts of other great men, perhaps in an attempt to attain greatness oneself (though it might not work). But people don't come in isolation they are part of a matrix of their culture and that might be different from yours. Some people while emulating heroes also emulate their cultural framework. This commonly happens with India scientists who imbibe not just scientific ideas but also the rest of the baggage when they study western scientific biography. I sort of think of myself as reasonably rare in having a strong filter for that. I can take great pleasure and derive inspiration in reliving their scientific/ mathematical discoveries but their cultural frameworks means nothing me. 
+
+Now this can be particularly hard if you culture had no scientific tradition at all or you were unaware of its existence. Thankfully, I was aware of the existence of H scientific tradition and studied it. Thus, I could have culturally coincident shrauta-performing bhAskara or nIlakaNTha as mine. Thus, I did not need to have Watson as a hero but did feel a kinship to
+   *his method*; everything else of his was quite meaningless -- i.e. he was a part of his matrix -- someday I hope I can dig out an complete my essay on his positive and negative role on American science -- interestingly, he's not at all bad in person, especially given his stature.
+
+Finally, one of the researchers mentioned by the author Tinbergen also inspired me -- it was his experimental care which struck a chord viz the invention of a proper technical approach but whether he was on the right or wrong side of history did not matter much for it was not my history. We need not carry the burden of others history or strike comparisons to our own without appropriate care. 
