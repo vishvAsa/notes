@@ -13,21 +13,50 @@ on:
 jobs:
   transform:
     runs-on: ubuntu-latest
-
     steps:
+    - name: Inject slug/short variables
+      uses: rlespinasse/github-slug-action@v3.x
+    - name: Basic info
+      run: |
+        echo "Partial variables"
+        echo "   repository owner    : ${{ env.GITHUB_REPOSITORY_OWNER_PART }}"
+        echo "   repository name     : ${{ env.GITHUB_REPOSITORY_NAME_PART }}"
+        echo "Slug variables"
+        echo "   repository          : ${{ env.GITHUB_REPOSITORY_SLUG }}"
+        echo "   repository owner    : ${{ env.GITHUB_REPOSITORY_OWNER_PART_SLUG }}"
+        echo "   repository name     : ${{ env.GITHUB_REPOSITORY_NAME_PART_SLUG }}"
+        echo "   ref                 : ${{ env.GITHUB_REF_SLUG }}"
+        echo "   head ref            : ${{ env.GITHUB_HEAD_REF_SLUG }}"
+        echo "   base ref            : ${{ env.GITHUB_BASE_REF_SLUG }}"
+        echo "   event ref           : ${{ env.GITHUB_EVENT_REF_SLUG }}"
+        echo "Slug URL variables"
+        echo "   repository          : ${{ env.GITHUB_REPOSITORY_SLUG_URL }}"
+        echo "   repository owner    : ${{ env.GITHUB_REPOSITORY_OWNER_PART_SLUG_URL }}"
+        echo "   repository name     : ${{ env.GITHUB_REPOSITORY_NAME_PART_SLUG_URL }}"
+        echo "   ref                 : ${{ env.GITHUB_REF_SLUG_URL }}"
+        echo "   head ref            : ${{ env.GITHUB_HEAD_REF_SLUG_URL }}"
+        echo "   base ref            : ${{ env.GITHUB_BASE_REF_SLUG_URL }}"
+        echo "   event ref           : ${{ env.GITHUB_EVENT_REF_SLUG_URL }}"
+        echo "Short SHA variables"
+        echo "   sha                 : ${{ env.GITHUB_SHA_SHORT }}"
+        echo "   pull request sha    : ${{ env.GITHUB_EVENT_PULL_REQUEST_HEAD_SHA_SHORT }}"
     - name: Checkout
       uses: actions/checkout@master
       with:
-        ref: hugo-source
+        ref: master
         submodules: false
         # Setting true above seems to lead to submodule updation problems.
         fetch-depth: 1
     - name: Update submodules
-      if: ${{ github.event_name != 'pull_request'}}
       run: |
         set -o xtrace
         git submodule update --init --recursive
         git submodule update --remote --merge --recursive
+    - name: Set content to pull request
+      if: ${{ github.event_name == 'pull_request'}}
+      uses: actions/checkout@master
+      with:
+        path: content
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
