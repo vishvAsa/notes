@@ -28,7 +28,7 @@ jobs:
       uses: jitterbit/get-changed-files@v1
     - name: Update submodules
       id: update_submods
-      if: ${{ !contains(steps.changed-files.outputs.all, 'content') }}
+      if: ${{ steps.changed-files.conclusion == 'skipped' || !contains(steps.changed-files.outputs.all, 'content') }}
       run: |
         set -o xtrace
         echo "=====${{ steps.changed-files.outputs.all}}======"
