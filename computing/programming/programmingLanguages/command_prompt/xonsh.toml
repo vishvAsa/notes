@@ -20,40 +20,7 @@ Importance = ''
 Syntax = '''aliases['gp'] = lambda (args, stdin=None): ...'''
 Description = 'return None, stdout, or stdout, stderr, return_value'
 
-[[data]]
-Language = 'xonsh'
-"Operand Type" = 'file  wildcards'
-Feature = 'bash like'
-Subfeature = ''
-Importance = ''
-"Implementation Type" = ''
-Syntax = 'as in bash'
-Description = ''
 
-[[data]]
-Language = 'xonsh'
-"Operand Type" = 'file  wildcards'
-Feature = 'regex'
-Subfeature = ''
-Importance = ''
-"Implementation Type" = ''
-Syntax = '''
-`re`, r`re`
->>> ls `a(a+|b+)a`
-aaa  aba  abba'''
-Description = ''
-
-[[data]]
-Language = 'xonsh'
-"Operand Type" = 'file  wildcards'
-Feature = 'regex'
-Subfeature = 'paths'
-Importance = ''
-"Implementation Type" = ''
-Syntax = '''
->>> p`.*`
-[Path('foo'), Path('bar')]'''
-Description = ''
 
 [[data]]
 Language = 'xonsh'
@@ -65,17 +32,3 @@ Importance = ''
 Syntax = '$()'
 Description = 'returns stdout'
 
-[[data]]
-Language = 'xonsh'
-"Operand Type" = 'file'
-Feature = 'recursive iteration'
-Subfeature = 'replace text'
-Importance = ''
-"Implementation Type" = ''
-Syntax = '''
-for fpath in pg`**baz*`:
-    if not fpath.is_file():
-        continue
-    fpath.write_text(fpath.read_text().replace('foo', 'bar'))
-'''
-Description = ''
