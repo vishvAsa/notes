@@ -21,8 +21,9 @@ title = "Spread"
 - MH consistent trouble spot.
 
 ## World
+- 202105 - Joe Biden waives IPO on COVID vaccines. Germany resists. Rich countries continue to hoard vaccines.
 - 202104 - 2nd wave.
-  - Brazil being consumed by E484 variant.
+  - Brazil being consumed by variant with E484 mutation.
   - Vaccination underway.
   - UK vaccinated 60% of the population - and doing OK.
 - Early 2021: India gains world appreciation for allowing exports and donations of vaccines. Shortly after, US under Joe Biden imposes curbs on vaccine raw material exports.

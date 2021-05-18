@@ -5,8 +5,11 @@ title = "Variants"
 {{< figure src="../../images/virus-lineages-202102.jpg" title="" class="thumbnail">}}
 
 
-## Strain difference
+## Intro
 - Global database of GISAID which collects the genomic sequencing around the world.
+- The virus was predicted to undergo just 2 to 3 mutations in an year but it underwent as many as 17 mutations in one go.
+- We have already seen that these heavily immunocompromised patients harbour virus much longer time and keep excreting. This is what it gives a good opportunity for the virus to evolve into variants.
+
 
 ## Victoria
 Original is called: Victoria.
@@ -40,7 +43,8 @@ Original is called: Victoria.
 - Preliminary data from South Africa suggests that the novel variant 501.V2 wasn't recognised by antibodies in 21/44 serum samples collected from people infected in the first wave.
 
 ## D614G and G614
-- Round about Feb 2020, new variant emerged in the Europe that had a mutation to make it spread faster.
+- D614 was the original Wuhan virus( China Virus)
+- G614 was a slight change that was noticed and scientists observed G614 had more transmissibility potential. Round about Feb 2020, new variant emerged in Europe.
 
 ## L452R California  B 1.429/427 ?
 - Resurfaced in Jan 2021
@@ -48,12 +52,26 @@ Original is called: Victoria.
 ## NY B 1.526
 - ability to escape from antibodies and vaccines.
 
-## mahArAShTra B 1.671
-- The other mutation L526R found in California makes it spread faster. more than twice as transmissible as the first wave virus.
-  
-### With E484Q
+## mahArAShTra B 1.617
+### Mutations
+- Mutation L526R found in California makes it spread faster.
 - The E484Q mutation makes it behave like the African strain against which most vaccines have failed.
 
+### Subtypes
+- B 1.617.1
+- B 1.617.2
+- most widespread
+- Lost E484Q.
+- B 1.617.3
+
+### Vaccines
+- COVAXIN and COVISHIELD have demonstrated early neutralizing efficacy against B 1.617
+- Pfizer and Moderna showing 7 fold reduction in antibodies that can neutralize the variant found in India(B 1.617.2) according to WHO's weekly update.
+
+
+### Effects
+- The virus has about 40-50% more transmissibility than the B 117 UK variant.
+- causing more lung damages and weight loss.
 
 
 ## bengAl B 1.618

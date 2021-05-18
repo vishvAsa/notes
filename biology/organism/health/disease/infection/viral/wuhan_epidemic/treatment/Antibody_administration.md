@@ -13,7 +13,7 @@ title = "Antibody administration"
 - Might have resulted in escape and evolution of variants in an immunocompromised patient.
 
 #### Hype
-- Donald Trump underwent this. He received was 8gm of monoclonal antibodies - very expensive right now.
+- Donald Trump underwent this. He received was 8gm of monoclonal antibodies (Rogenerone) - very expensive right now.
 - Details [here](https://www.mayoclinic.org/tests-procedures/convalescent-plasma-therapy/about/pac-20486440). Plasma from a person who has recently recovered from the disease (within 28 days) is given to the patient.
 
 ## Other peptides
