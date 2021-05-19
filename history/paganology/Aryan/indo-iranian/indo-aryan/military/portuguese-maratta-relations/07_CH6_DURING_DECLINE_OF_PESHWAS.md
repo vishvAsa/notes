@@ -384,174 +384,174 @@ What happened subsequently is well known to all. The English not only captured  
 French possessions including Pondichery also were left alone. But when they left India in 1947 and political power passed into Indian hands India became a free and sovereign country. All  the princely states were abolished as inconsistent with the Republican constitution. The  French showed the wisdom of quitting like the British and making over their possessions to India. The Portuguese had to be compelled to do so with show of military power, all  conciliatory methods having failed. Today Goa, Diu and Daman have been restored to India,  which was their natural and inevitable destiny.
 
 ## NOTES
-(1) Pissurlencar, PM, Ⅵ, p. 48.
-(2) Ibid.,
-(3) A. F. Moniz, Historia de Damao, Ⅱ, p. 95.
-(4) Goa Archives : MR, 135 B, fls. 549.
-(5) Vice-Rei’s letter dated 20-1-1764 : “… Marata ainda que decadente e bastantemente poderoso.” (6) Biker, Tratados, Ⅶ, p. 296.
-(7) Joaquim Pedro Celestino Soares, Documentos Compravativos, Ⅲ p. 144-145.
-(8) BNL. Ms. 172. Papers concerning Bispo Halicarnco.
-(9) Goa Archives : Marathi documents.
-(10) Celestino Soares, documentos comprovativos, Ⅲ p. 145.
-(11) ibid.,
-(12) BNL. Ms. 172.
-(13) Celestio Soares, Documentos Compravatios, Ⅲ.
-(14) Ibid., p. 151.
-(15) B. P. E. Bandogeral, que dere ser publicado a som de instrumentos bellicos nas 3 Provincias de Ponda, Zambaulim e  Canacona conforme o uso e costume praticado nos mesmas escripto em os Indiomas Marata, e Portuguez no mesmo papel.  This declaration has 17 clauses. In the copy in the Biblioteca Publica de Evora only the Portuguese portion has been cited. Filipe  Nere Xavier has published the Portuguese portion of this declaration. (Collecao de Bandos… das Novas Conquistas, Pangim  1840, p. 1-8) Zambaulim alias Panchmahal contained five mahals of Astagrahar, Hemadbarshe, Balli. Chandravadi and Kakode.  Canacona is part of Shiveshwara alias Advot. Khol is included in the precinets of Kholgad.
-(16) Pissurlencar, O Enigma da Morte de Vice-Rei Conde de Alva. p. 2.
-(17) Goa Archives : Marathi documents No. 2862.
-(18) Goa Archives : Marathi documents.
-(19) Goa Archives : Letter from Peshwa Madhaorao to Khem Savant dated December 10, 1763 (Translation into Portuguese of  Marathi letters).
-(20) Goa Archives : Marathi letters (copy).
-(21) Goa Archives : MR 138, fls. 676; RI 17, fls. 53.
-(22) Letter of Viceroy Conde de Ega dated 20-1-1764. (Celestino Soares, Documentos Comprovativos, Ⅲ, p. 142).
-(23) Biker, Tratados, Ⅷ, p. 57, The Descendanto of the Saunde prince live at Babdode in Ponda Mahal. For some time, the  Portuguese kept them at Morlem in Goa island. While coming to Goa from Saunde, Sanvai Imodi Sadashiv brought with him 400
+- (1) Pissurlencar, PM, Ⅵ, p. 48.
+- (2) Ibid.,
+- (3) A. F. Moniz, Historia de Damao, Ⅱ, p. 95.
+- (4) Goa Archives : MR, 135 B, fls. 549.
+- (5) Vice-Rei’s letter dated 20-1-1764 : “… Marata ainda que decadente e bastantemente poderoso.” (6) Biker, Tratados, Ⅶ, p. 296.
+- (7) Joaquim Pedro Celestino Soares, Documentos Compravativos, Ⅲ p. 144-145.
+- (8) BNL. Ms. 172. Papers concerning Bispo Halicarnco.
+- (9) Goa Archives : Marathi documents.
+- (10) Celestino Soares, documentos comprovativos, Ⅲ p. 145.
+- (11) ibid.,
+- (12) BNL. Ms. 172.
+- (13) Celestio Soares, Documentos Compravatios, Ⅲ.
+- (14) Ibid., p. 151.
+- (15) B. P. E. Bandogeral, que dere ser publicado a som de instrumentos bellicos nas 3 Provincias de Ponda, Zambaulim e  Canacona conforme o uso e costume praticado nos mesmas escripto em os Indiomas Marata, e Portuguez no mesmo papel.  This declaration has 17 clauses. In the copy in the Biblioteca Publica de Evora only the Portuguese portion has been cited. Filipe  Nere Xavier has published the Portuguese portion of this declaration. (Collecao de Bandos… das Novas Conquistas, Pangim  1840, p. 1-8) Zambaulim alias Panchmahal contained five mahals of Astagrahar, Hemadbarshe, Balli. Chandravadi and Kakode.  Canacona is part of Shiveshwara alias Advot. Khol is included in the precinets of Kholgad.
+- (16) Pissurlencar, O Enigma da Morte de Vice-Rei Conde de Alva. p. 2.
+- (17) Goa Archives : Marathi documents No. 2862.
+- (18) Goa Archives : Marathi documents.
+- (19) Goa Archives : Letter from Peshwa Madhaorao to Khem Savant dated December 10, 1763 (Translation into Portuguese of  Marathi letters).
+- (20) Goa Archives : Marathi letters (copy).
+- (21) Goa Archives : MR 138, fls. 676; RI 17, fls. 53.
+- (22) Letter of Viceroy Conde de Ega dated 20-1-1764. (Celestino Soares, Documentos Comprovativos, Ⅲ, p. 142).
+- (23) Biker, Tratados, Ⅷ, p. 57, The Descendanto of the Saunde prince live at Babdode in Ponda Mahal. For some time, the  Portuguese kept them at Morlem in Goa island. While coming to Goa from Saunde, Sanvai Imodi Sadashiv brought with him 400
 
 bundles of silver and a number of ornaments (Nova a curiosa relacao de him grande regulo usurpador de reynos alheos. Que  novamente se leventou na India, p. 12, 13 (Lisboa 17).
 The Portuguese treated the Saunde prince respectfully.
-(24) Khare, collection of historical writings, 391, 411.
-(25) BNL, Ms. 172, 172, fls. 42.
-(26) Goa Governor’s letter dated December 18, 1764 (Pissurlencar Antigualhas, p. 157).
-(27) Goa Archives : Portuguese translation of Marathi letters No. 1106.
-(28) Goa Archives : Marathi letters.
-(29) Vice-Rei Conde de Ega’s letter dated 25-1-1764. (Pissurlencar, Antigualhas p. 139.
-(30) Goa Archives : Portuguese translation of Marathi letters No. 1129.
-(31) Peshwa Daftar : Part 37 No. 42.
-(32) Goa Archives : Portuguese translations of Marathi letters No. 1134.
-(33) Goa Archives : Portuguese translations of Marathi letters No. 1156.
-(34) Goa Archives : Portuguese translation of Marathi letters Nos. 1249, 1251, 1252 and 1255.
-(35) Goa Archives : Portuguese translations of Marathi letters No. 1310.
-(36) Goa Archives : Portuguese translations of Marathi letters No. 1255. 1310, (Letter of 25-3-1768). (37) Pissurlencar, ADP. p. 395.
-(38) Goa Archives : Marathi letters No. 2290.
-(39) Goa Archives : Visajipant Lele’s letter 27-1-1771 (MR. 147, fs).
-(40) Pissurlencar, contribution a I’Etude de 1’ Historie de la Medecime Portuguese dans l’Inde (Arquivos da Escola Medica de  Goa, 1927); um Frade Capucho na corte de Punem (Boletim Institute Vasco da Gama No. 24. 1934); Portuguese Physician of  Madhaorao Peshwa (Bharata Mitra, November 1933).
-(41) Pissurlencar, um Frade Capucho, p. 27.
-(42) Goa Archives : MR 149A.
-(43) Goa Archives : Marathi letters.
-(44) Parasnis, Historical Notes (Historical collections, Part Ⅱ p. 28).
-(45) Parasnis, Historical Notes part Ⅱ p. 19 and part Ⅳ p. 6.
-(46) Pissurlencar, um Frade capucho, p. 27.
-(47) Ibid .,
+- (24) Khare, collection of historical writings, 391, 411.
+- (25) BNL, Ms. 172, 172, fls. 42.
+- (26) Goa Governor’s letter dated December 18, 1764 (Pissurlencar Antigualhas, p. 157).
+- (27) Goa Archives : Portuguese translation of Marathi letters No. 1106.
+- (28) Goa Archives : Marathi letters.
+- (29) Vice-Rei Conde de Ega’s letter dated 25-1-1764. (Pissurlencar, Antigualhas p. 139.
+- (30) Goa Archives : Portuguese translation of Marathi letters No. 1129.
+- (31) Peshwa Daftar : Part 37 No. 42.
+- (32) Goa Archives : Portuguese translations of Marathi letters No. 1134.
+- (33) Goa Archives : Portuguese translations of Marathi letters No. 1156.
+- (34) Goa Archives : Portuguese translation of Marathi letters Nos. 1249, 1251, 1252 and 1255.
+- (35) Goa Archives : Portuguese translations of Marathi letters No. 1310.
+- (36) Goa Archives : Portuguese translations of Marathi letters No. 1255. 1310, (Letter of 25-3-1768). (37) Pissurlencar, ADP. p. 395.
+- (38) Goa Archives : Marathi letters No. 2290.
+- (39) Goa Archives : Visajipant Lele’s letter 27-1-1771 (MR. 147, fs).
+- (40) Pissurlencar, contribution a I’Etude de 1’ Historie de la Medecime Portuguese dans l’Inde (Arquivos da Escola Medica de  Goa, 1927); um Frade Capucho na corte de Punem (Boletim Institute Vasco da Gama No. 24. 1934); Portuguese Physician of  Madhaorao Peshwa (Bharata Mitra, November 1933).
+- (41) Pissurlencar, um Frade Capucho, p. 27.
+- (42) Goa Archives : MR 149A.
+- (43) Goa Archives : Marathi letters.
+- (44) Parasnis, Historical Notes (Historical collections, Part Ⅱ p. 28).
+- (45) Parasnis, Historical Notes part Ⅱ p. 19 and part Ⅳ p. 6.
+- (46) Pissurlencar, um Frade capucho, p. 27.
+- (47) Ibid .,
 
-(48) Goa Archives : Portuguese translations of Marathi letters No. 1401.
-(49) Goa Archives : MR 149, ft. 64; co 54, ft. co 55, fls. 26.
-(50) Goa Archives : RI (1771-1774). fl. 31 (Letter dated February 28, 1772).
-(51) Goa Archives : MR 161 B, fl. 557.
-(52) Goa Archives : Papeis avulsos (Information given by Abdul Razak).
-(53) Goa Archives : MR 150 B, fls. 565; MR 152 A, fls. 175; MR 161 B, fls. 540, 553, 557. AHV, Caixa 32, India, avulsos. (54) Goa Archives : Marathi letters.
-(55) Goa Archives : Papeis avulsos.
-(56) Ibid.,
-(57) Goa Archives : RI 18, fl. 30.
-(58) Goa Archives : MR 149 B, fl. 472.
-(59) Pissurlencar, PM. Ⅵ, p. 54, 55.
-(60) Pissurlencar, PM, Ⅵ, p. 99 (Governor’s letter dated March 29, 1776).
-(61) Ibid.,
-(62) Goa Archives : Portugese translations of Marathi letters No. 2339.
-(63) Pissurlencar, P.M. Ⅵ, p. 91.
-(64) Pissurlencar, P.M. Ⅵ, p. 76.
-(65) Claudio Lagrange, Instrucao de Marquez do Pombal, p. 46.
-(66) Pissurlencar, PM, Ⅵ, p. 98.
-(67) Pissurlencar, P.M. Ⅵ, p. 99-100.
-(68) The author has given all important correspondence between Raghoba and the Portuguese in Portugueses e Maratas, part  VI. He also read an essay on the same subject entitled Some Unknown Dealings between Raghoba and the Portuguese in the  Nagpur senion of the Historical Records Commission (1928) See Rajwade Marathyancha Itihasachin Sadhanem part 12, p. 127.
-(69) Raghoba’s letter to Goa dated 3-9-1776 (Pissurlencar, PM Ⅵ, p. 124) Dr. Sardesai writes that Raghoba reached Daman in  September in Marathi Riyasat, Uttar Vibhag p. 76 but that is not right.
-(70) Pissurlencar, PM, p. 127.
-(71) Goa Archives : Livro de Damao, No. 1 fls. 72v.
-(72) Pissurlencar, PM, Ⅵ, p. 128.  
-(73) Ibid, p. 172.
+- (48) Goa Archives : Portuguese translations of Marathi letters No. 1401.
+- (49) Goa Archives : MR 149, ft. 64; co 54, ft. co 55, fls. 26.
+- (50) Goa Archives : RI (1771-1774). fl. 31 (Letter dated February 28, 1772).
+- (51) Goa Archives : MR 161 B, fl. 557.
+- (52) Goa Archives : Papeis avulsos (Information given by Abdul Razak).
+- (53) Goa Archives : MR 150 B, fls. 565; MR 152 A, fls. 175; MR 161 B, fls. 540, 553, 557. AHV, Caixa 32, India, avulsos. (54) Goa Archives : Marathi letters.
+- (55) Goa Archives : Papeis avulsos.
+- (56) Ibid.,
+- (57) Goa Archives : RI 18, fl. 30.
+- (58) Goa Archives : MR 149 B, fl. 472.
+- (59) Pissurlencar, PM. Ⅵ, p. 54, 55.
+- (60) Pissurlencar, PM, Ⅵ, p. 99 (Governor’s letter dated March 29, 1776).
+- (61) Ibid.,
+- (62) Goa Archives : Portugese translations of Marathi letters No. 2339.
+- (63) Pissurlencar, P.M. Ⅵ, p. 91.
+- (64) Pissurlencar, P.M. Ⅵ, p. 76.
+- (65) Claudio Lagrange, Instrucao de Marquez do Pombal, p. 46.
+- (66) Pissurlencar, PM, Ⅵ, p. 98.
+- (67) Pissurlencar, P.M. Ⅵ, p. 99-100.
+- (68) The author has given all important correspondence between Raghoba and the Portuguese in Portugueses e Maratas, part  VI. He also read an essay on the same subject entitled Some Unknown Dealings between Raghoba and the Portuguese in the  Nagpur senion of the Historical Records Commission (1928) See Rajwade Marathyancha Itihasachin Sadhanem part 12, p. 127.
+- (69) Raghoba’s letter to Goa dated 3-9-1776 (Pissurlencar, PM Ⅵ, p. 124) Dr. Sardesai writes that Raghoba reached Daman in  September in Marathi Riyasat, Uttar Vibhag p. 76 but that is not right.
+- (70) Pissurlencar, PM, p. 127.
+- (71) Goa Archives : Livro de Damao, No. 1 fls. 72v.
+- (72) Pissurlencar, PM, Ⅵ, p. 128.  
+- (73) Ibid, p. 172.
 
-(74) Sardesai, Marathi Riyasat, Uttar Vibhag 1, p. 76.
-(75) Pissurlencar, PM, Ⅶ, p. 134.  
-(76) Ibid, p. 130.
-(77) Letter dated December 22, 1778 by Governor of Goa, Don Jose Pedro de Comara : “… Tenho determinado enteter esta  pratica nas melhores esperancas da sua pertencao…” (PM Ⅵ, p. 135).
-(78) The author has in his possession contemporary copy of the letter of Raghoba.
-(79) Mahadaji Scindia’s letters No. 54,55,58 and 63.
-(80) In his letter dated 12-3-1787 the Governor of Goa writes : “Posto que das ditas sessnta e tres nil rupias ficou com grande  aqele Ministerio” means that a large part Rs. 63,000 was kept by the Ministers for themselves. (Goa Archives : MR 168 D, fl.  1155).  
-(81) [Pissurlencar, PM Ⅵ, p. 166. Goa Archives. MR 168 D, fl. 1155 (Governor’s letters dated 11-12-1783 and 12-3-1787) *Goa  Archives RV 17, fls. 180.
-(82) Goa Archives : Marathi letters.
-(83) Portuguese lista.
-(84) Portuguese, missa prayer of the Catholica.
-(85) Refem—Security.
-(86) Mercador, merchant.
-(87) Madeira—wood.88. [Goa Archives : Livro de Damao No. 10, fls. 84-85.
-(88) Goa Archives : Livro de Damao No. 10, fls. 84-85.
-(89) Parasnis, Treaties and Pacts, p. 40.
-(90) Pissurlencar, ADP, p. 308, 584; Sardesai, Marathi Riyasat, Uttar Vibhag 1, p. 240.
-(91) Goa Archives : Portuguese translations of Marathi letters 1623, 1626.
-(92) Goa Archives : MR 161 C, fls. 818, RV 15, fl. 68.
-(93) Goa Archives : Marathi letters No. 2711.
-(94) BNL. Ms. 4401 F. G.
-(95) BNL. Ms. 4401 F. G. “No. 8. Sobre a conservacao do rey Sunda nos dominios Portugueses.
-(96) In the letter dated February 21, 1782 by Governor Gillerme de Sousa it is said : “as tropas fiquem guarnecendo as ditas  provincias (Bicholim, Sanquelim e Manerim) … tomando quaisquer pretextoes … permitindo usar com o Bounsulo da  simulacao…”
-(97) Goa Archives : Portuguese translations of Marathi letters No. 1662 (1-8-1781).
+- (74) Sardesai, Marathi Riyasat, Uttar Vibhag 1, p. 76.
+- (75) Pissurlencar, PM, Ⅶ, p. 134.  
+- (76) Ibid, p. 130.
+- (77) Letter dated December 22, 1778 by Governor of Goa, Don Jose Pedro de Comara : “… Tenho determinado enteter esta  pratica nas melhores esperancas da sua pertencao…” (PM Ⅵ, p. 135).
+- (78) The author has in his possession contemporary copy of the letter of Raghoba.
+- (79) Mahadaji Scindia’s letters No. 54,55,58 and 63.
+- (80) In his letter dated 12-3-1787 the Governor of Goa writes : “Posto que das ditas sessnta e tres nil rupias ficou com grande  aqele Ministerio” means that a large part Rs. 63,000 was kept by the Ministers for themselves. (Goa Archives : MR 168 D, fl.  1155).  
+- (81) [Pissurlencar, PM Ⅵ, p. 166. Goa Archives. MR 168 D, fl. 1155 (Governor’s letters dated 11-12-1783 and 12-3-1787) *Goa  Archives RV 17, fls. 180.
+- (82) Goa Archives : Marathi letters.
+- (83) Portuguese lista.
+- (84) Portuguese, missa prayer of the Catholica.
+- (85) Refem—Security.
+- (86) Mercador, merchant.
+- (87) Madeira—wood.88. [Goa Archives : Livro de Damao No. 10, fls. 84-85.
+- (88) Goa Archives : Livro de Damao No. 10, fls. 84-85.
+- (89) Parasnis, Treaties and Pacts, p. 40.
+- (90) Pissurlencar, ADP, p. 308, 584; Sardesai, Marathi Riyasat, Uttar Vibhag 1, p. 240.
+- (91) Goa Archives : Portuguese translations of Marathi letters 1623, 1626.
+- (92) Goa Archives : MR 161 C, fls. 818, RV 15, fl. 68.
+- (93) Goa Archives : Marathi letters No. 2711.
+- (94) BNL. Ms. 4401 F. G.
+- (95) BNL. Ms. 4401 F. G. “No. 8. Sobre a conservacao do rey Sunda nos dominios Portugueses.
+- (96) In the letter dated February 21, 1782 by Governor Gillerme de Sousa it is said : “as tropas fiquem guarnecendo as ditas  provincias (Bicholim, Sanquelim e Manerim) … tomando quaisquer pretextoes … permitindo usar com o Bounsulo da  simulacao…”
+- (97) Goa Archives : Portuguese translations of Marathi letters No. 1662 (1-8-1781).
 
-(98) Biker, Tratados Ⅷ, p. 160; F. N. Xavier, Colleccao de Bandos, p. 25.
-(99) Padre Gabriel de Saldanha, Historia de Goa, Vol. Ⅰ, p. 315 (Second Edition). The Ranes of Satari have at least 22 times  rebelled against the Portuguese as receorded in the history of Goa. Of them Dipaji Rane (January 26, 1852 to June 2. 1855) and  Dadaji Rane (September 14, 1895 to September 9, 1896) are famous in Goa.
+- (98) Biker, Tratados Ⅷ, p. 160; F. N. Xavier, Colleccao de Bandos, p. 25.
+- (99) Padre Gabriel de Saldanha, Historia de Goa, Vol. Ⅰ, p. 315 (Second Edition). The Ranes of Satari have at least 22 times  rebelled against the Portuguese as receorded in the history of Goa. Of them Dipaji Rane (January 26, 1852 to June 2. 1855) and  Dadaji Rane (September 14, 1895 to September 9, 1896) are famous in Goa.
 The author has published the case of Dipaji Rane as presented to the Government of Goa in Bharatamitra Vol. 9, No.  5, September 1936. The object of the rebellion is obvious from it.
 Even before the advent of the Portuguese, there were frequent risings in Satari. In a Portuguese report published in 1548 it is  said, “there is a Thanedari in Satari in which there are Kunbi Shetkaris living amongst the hills who are by nature militant and  rebellions because the geographical situation of Satari is conducive to this attitude. These people are always inclined to rebel  (Livro quetrata das consas da India e do Japao, p. 78).
-(100) Goa Archives : MR 163 A, fl. 212.
-(101) Letter by Governor Frederico Gillerme de Souza dated February 21, 1782 (Biker, Tratados Ⅷ, p. 160). (102) Tratados Ⅷ, p. 169.
-(103) Goa Archives : MR 163 A. fl. 212.
-(104) Nova e curiosa Relaçao das batalhas que os Portugueses deram na India, e das grandes victorias que alcancar contra o  Bonsule. Lisboa, 1785, p. 9.
-(105) Goa Archives : Portuguese translations of Marathi letters (Shivram Jivaji’s letter dated 6-11-1782 to Governor of Goa No.  1710) and (Khem Savant’s letter to Secretary to Goa Government 15-6-1787 No. 1769).
-(106) Nova e curiosa Relacao das batalhas… 1785.
-(107) Goa Archives : MR 163 A, fls. 212 (Letter of Governor of Goa dated 10-2-1783); Nova e curiosa relacao da batalhas …  1785).
-(108) Goa Archives : MR 164 F. fl. (letter of Governor of Goa dated 16-3-1785).
-(109) Goa Archives: Ibid.,
-(110) Goa Archives : Ibid.,
-(111) Epanaphora, Ⅴ, p. 47.
-(112) Goa Archives : MR 164 F., fl. 1480.
-(113) Pingulkar, History of Savantvadi State, p. 83, Raje Khem Savant wrote to the Governor of Goa on May 16, 1785 that the  Emperor of Delhi had sent him clothes of honours and morches and he received them with ceremony on Rajah 1 ie. May 11, but in  the Portuguese translation of this letter the date has been given as May 12 (Vagh Daftar, Pissurlencar Collection).
-(114) Goa Archives : MR. 169A, fls. 324-340 (Governor’s letter dated 23-2-1788). Pissurlencar, ADP. p. 340; Biker, Tratados Ⅷ, p. 196; Pingulkar, History of Savantvadi state, p. 84; M. V. Gujar, History of Karavir Chhatrapati house Part Ⅲ, p. 98, Part  Ⅳ, p. 139.
-(115) AHV : Livro de pazes.
-(116) Goa Archives : Vithal Valavalikar’s letter to Secretary Government of Goa dated January 5, 1794.
+- (100) Goa Archives : MR 163 A, fl. 212.
+- (101) Letter by Governor Frederico Gillerme de Souza dated February 21, 1782 (Biker, Tratados Ⅷ, p. 160). (102) Tratados Ⅷ, p. 169.
+- (103) Goa Archives : MR 163 A. fl. 212.
+- (104) Nova e curiosa Relaçao das batalhas que os Portugueses deram na India, e das grandes victorias que alcancar contra o  Bonsule. Lisboa, 1785, p. 9.
+- (105) Goa Archives : Portuguese translations of Marathi letters (Shivram Jivaji’s letter dated 6-11-1782 to Governor of Goa No.  1710) and (Khem Savant’s letter to Secretary to Goa Government 15-6-1787 No. 1769).
+- (106) Nova e curiosa Relacao das batalhas… 1785.
+- (107) Goa Archives : MR 163 A, fls. 212 (Letter of Governor of Goa dated 10-2-1783); Nova e curiosa relacao da batalhas …  1785).
+- (108) Goa Archives : MR 164 F. fl. (letter of Governor of Goa dated 16-3-1785).
+- (109) Goa Archives: Ibid.,
+- (110) Goa Archives : Ibid.,
+- (111) Epanaphora, Ⅴ, p. 47.
+- (112) Goa Archives : MR 164 F., fl. 1480.
+- (113) Pingulkar, History of Savantvadi State, p. 83, Raje Khem Savant wrote to the Governor of Goa on May 16, 1785 that the  Emperor of Delhi had sent him clothes of honours and morches and he received them with ceremony on Rajah 1 ie. May 11, but in  the Portuguese translation of this letter the date has been given as May 12 (Vagh Daftar, Pissurlencar Collection).
+- (114) Goa Archives : MR. 169A, fls. 324-340 (Governor’s letter dated 23-2-1788). Pissurlencar, ADP. p. 340; Biker, Tratados Ⅷ, p. 196; Pingulkar, History of Savantvadi state, p. 84; M. V. Gujar, History of Karavir Chhatrapati house Part Ⅲ, p. 98, Part  Ⅳ, p. 139.
+- (115) AHV : Livro de pazes.
+- (116) Goa Archives : Vithal Valavalikar’s letter to Secretary Government of Goa dated January 5, 1794.
 
-(117) Goa Archives : Vithal Valavalikar’s letter to Secretary Government of Goa dated 27-7-1795.
-(118) Pissurlencar, ADP, p. 598.
-(119) Pissurlencar, Antigualhas, p. 136.
-(120) Ibid, p. 325.
-(121) Ibid., p. 322, Paranis, Maratha Envoys in foreign Durbars p. 43.
-(122) Ibid., p. 44.
-(123) Ibid., p. 326.
-(124) Celestino Soares, Bosquejo das possessoes portugueses no oriente. 1851 p. 141.
-(125) Cunha Rivara, A Conjuracao dos Pintos, p. 91-92.
-(126) Celestino Soares, Bosquejo … p. 141, 142.
-(127) Pissurlencar, Antigualhas, p. 304, 314.
-(128) Ibid., p. 314.  
-(129) Ibid., p. 304, 314.  
-(130) Gunha Rivara, A Conjuracao dos Pintos. * Documents in support of this information Ⅰ. Michand book (see : Histoire des  progres et de Ia chute de I’Empire de Mysore sons les regnes d’Hyder-Aly et Tipoo-Saib, Paris 1801-9, p. 178, 283, 284, 343).
-(131) Cunha Rivara, A Conjuracao dos Pintos; Mohibbul Hassan Khan, History of Tipu Sultan, p. 124-128. (132) Cunha Rivara, A Conjuracao, p. 98-105—Goa Archives : Musa Naran’s letter dated 18-6-1788. (133) C. Rivara, A Conjuracao ……, p. 105.
-(134) On May 24, 1788, Honourable Roberth Salpole wrote as follows to Marquis of Carmarthan from Lisbon : “Upon my inquiry  in regard to the truth of a report which has been current here upon an apprehension of an intended insurrection on Goa in favour  of Tippu Saheb, moniseur de Mello stated to me, that two turbulent friars who had been sent away from hence had been taken  up by order of the Governor of Goa for ambitions demands, they would invite Tippu Saib to attack the place which language had  been confirmed by an intercepted letter to the same purpose. A judicial inquiry had been instituted. in order to discover the
+- (117) Goa Archives : Vithal Valavalikar’s letter to Secretary Government of Goa dated 27-7-1795.
+- (118) Pissurlencar, ADP, p. 598.
+- (119) Pissurlencar, Antigualhas, p. 136.
+- (120) Ibid, p. 325.
+- (121) Ibid., p. 322, Paranis, Maratha Envoys in foreign Durbars p. 43.
+- (122) Ibid., p. 44.
+- (123) Ibid., p. 326.
+- (124) Celestino Soares, Bosquejo das possessoes portugueses no oriente. 1851 p. 141.
+- (125) Cunha Rivara, A Conjuracao dos Pintos, p. 91-92.
+- (126) Celestino Soares, Bosquejo … p. 141, 142.
+- (127) Pissurlencar, Antigualhas, p. 304, 314.
+- (128) Ibid., p. 314.  
+- (129) Ibid., p. 304, 314.  
+- (130) Gunha Rivara, A Conjuracao dos Pintos. * Documents in support of this information Ⅰ. Michand book (see : Histoire des  progres et de Ia chute de I’Empire de Mysore sons les regnes d’Hyder-Aly et Tipoo-Saib, Paris 1801-9, p. 178, 283, 284, 343).
+- (131) Cunha Rivara, A Conjuracao dos Pintos; Mohibbul Hassan Khan, History of Tipu Sultan, p. 124-128. (132) Cunha Rivara, A Conjuracao, p. 98-105—Goa Archives : Musa Naran’s letter dated 18-6-1788. (133) C. Rivara, A Conjuracao ……, p. 105.
+- (134) On May 24, 1788, Honourable Roberth Salpole wrote as follows to Marquis of Carmarthan from Lisbon : “Upon my inquiry  in regard to the truth of a report which has been current here upon an apprehension of an intended insurrection on Goa in favour  of Tippu Saheb, moniseur de Mello stated to me, that two turbulent friars who had been sent away from hence had been taken  up by order of the Governor of Goa for ambitions demands, they would invite Tippu Saib to attack the place which language had  been confirmed by an intercepted letter to the same purpose. A judicial inquiry had been instituted. in order to discover the
 accomplies, or other measures which may have been adopted : this was all that for the present had been communicated by the  Governor of Goa to this court and monsieur de Mello supposes that it will turn out to be nothing more than the intemperate  language of the two friars abovementioned.” (India office Records, Home Miscellaneous services).
-(135) Pissurlencar, ADP. p. 306.
-(136) Pissurlencar, Antigualhas, p. 332.
-(137) Pissurlencar, ADP, p. 305, Biker, Tratados Ⅷ. p. 236.
-(138) About this clause, there is a reference in Bahiropant Mahendale’s letter dated March 25, 1786 as follows : There is money  to be received from merchants in Goa and the Government of Goa was informed about it, but no reply was received. (Parasnis,  Mahratta envoys in foreign darbars. p. 48).
+- (135) Pissurlencar, ADP. p. 306.
+- (136) Pissurlencar, Antigualhas, p. 332.
+- (137) Pissurlencar, ADP, p. 305, Biker, Tratados Ⅷ. p. 236.
+- (138) About this clause, there is a reference in Bahiropant Mahendale’s letter dated March 25, 1786 as follows : There is money  to be received from merchants in Goa and the Government of Goa was informed about it, but no reply was received. (Parasnis,  Mahratta envoys in foreign darbars. p. 48).
 
-(139) Biker, Tratados, Pissurlencar, ADP. p. 314.  
-(140) Ibid., p. 307-310; Biker, Tratados Ⅷ.
-(141) Biker, Tratados Ⅸ, p. 125.
-(142) Biker, Tratados Ⅸ, p. 268.
-(143) Biker, Tratados Ⅸ, p. 7.
-(144) Ibid, p. 126.
-(145) Ibid, p. 126.
-(146) Ibid., p. 129.
-(147) Pissurlencar, ADP, p. 145.
-(148) Goa Archives : Marathi letters MR. 172.  
-(149) Goa Archives : Marathi letters.
-(150) Goa Archives: Marathi letters.
-(151) Pissurlencar : ADP, p. 434.
-(152) Goa Archives : Marathi letters, 2837.
-(153) Goa Archives : Marathi letters 2836.
-(154) Goa Archives : Marathi letters 2839.
-(155) Pissurlencar: ADP, p. 435.
-(156) Goa Archives : Marathi letters No. 122; Pissurlencar, ADP p. 165. (157) Goa Archives : Portuguese Translation of Marathi letters No. 1922. (158) Goa Archives : Marathi letters No. 2764. Translation No. 1930. (159) Goa Archives : Marathi letters. Biker, Tratados Ⅳ, p. 181. (160) Goa Archives : Vithalrao’s letter to Goa dated August 13. (161) Pissurlencar, ADP, p. 594.
-(162) Goa Archives : MR 174 A, fls. 250-251.
-(163) Pissurlencar : ADP, p. 593.
-(164) Ibid., p. 595.
-(165)[Ibid., p. 431.
+- (139) Biker, Tratados, Pissurlencar, ADP. p. 314.  
+- (140) Ibid., p. 307-310; Biker, Tratados Ⅷ.
+- (141) Biker, Tratados Ⅸ, p. 125.
+- (142) Biker, Tratados Ⅸ, p. 268.
+- (143) Biker, Tratados Ⅸ, p. 7.
+- (144) Ibid, p. 126.
+- (145) Ibid, p. 126.
+- (146) Ibid., p. 129.
+- (147) Pissurlencar, ADP, p. 145.
+- (148) Goa Archives : Marathi letters MR. 172.  
+- (149) Goa Archives : Marathi letters.
+- (150) Goa Archives: Marathi letters.
+- (151) Pissurlencar : ADP, p. 434.
+- (152) Goa Archives : Marathi letters, 2837.
+- (153) Goa Archives : Marathi letters 2836.
+- (154) Goa Archives : Marathi letters 2839.
+- (155) Pissurlencar: ADP, p. 435.
+- (156) Goa Archives : Marathi letters No. 122; Pissurlencar, ADP p. 165. (157) Goa Archives : Portuguese Translation of Marathi letters No. 1922. (158) Goa Archives : Marathi letters No. 2764. Translation No. 1930. (159) Goa Archives : Marathi letters. Biker, Tratados Ⅳ, p. 181. (160) Goa Archives : Vithalrao’s letter to Goa dated August 13. (161) Pissurlencar, ADP, p. 594.
+- (162) Goa Archives : MR 174 A, fls. 250-251.
+- (163) Pissurlencar : ADP, p. 593.
+- (164) Ibid., p. 595.
+- (165)[Ibid., p. 431.
 
-(166) Gorki is a corruption of Gorakha. Sardesai has called him Gholak which is wrong (Marathi Riyasat, Uttar Vibagh 2, p. 386. (167) Pissurlencar, ADP, p. 597.
-(168) Ibid.,
-(169) Ibid., p. 579-620.
-(170) Goa Archives : MR 179 B, fls. 456.
-(171) Pissurlencar, ADP, p. 618.
+- (166) Gorki is a corruption of Gorakha. Sardesai has called him Gholak which is wrong (Marathi Riyasat, Uttar Vibagh 2, p. 386. (167) Pissurlencar, ADP, p. 597.
+- (168) Ibid.,
+- (169) Ibid., p. 579-620.
+- (170) Goa Archives : MR 179 B, fls. 456.
+- (171) Pissurlencar, ADP, p. 618.

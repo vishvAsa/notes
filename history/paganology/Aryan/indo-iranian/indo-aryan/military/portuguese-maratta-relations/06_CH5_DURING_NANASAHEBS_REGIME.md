@@ -438,166 +438,166 @@ At this time the Government of Portugal thought that the Viceroy should live ami
 The Bhonsla was making efforts with the King of Portugal to get back his forts and  Mahals. There is a letter on this topic written by the Savant-Bhonsla to the King of Portugal on January 22, 1760 whose Marathi and Portuguese versions, the author had the opportunity  of perusing in Lisbon in Arquivo Historico Ultramarino. This letter humbly begs of the King that  Pernem, Sanquelim and Bicholim with forts and Terekhol with its fort be given back to him.  Acting on the order of the King of Portugal, Vice-Rei Conde de Ega entered into a treaty with  the Bhonsala-Savant on December 24, 1761 and gave back to him Pernem, Bicholim and  Sanquelim. In this way the Portuguese made one more attempt to make friends with  Savantvadi, but unsuccessfully.
 
 ## NOTES
-(1) Pissurlencar, PM. Ⅴ, p. 67.
-(2) Pissurlencar, Assentos, Ⅴ, p. 643.
-(3) Epanaphora Indica, Parte Ⅱ, p. 11, 12.
-(4) Pissurlencar, ADP, p. 180.
-(5) Pissurlencar, PM. Ⅴ, p. 67.
-(6) Epanaphora Indica, Parte Ⅱ, p. 8.
-(7) Pissurlencar, PM. Ⅴ. p. 64.
-(8) Pissurlencar, Assentos Ⅴ. p. 637.
-(9) Jose Freire Monteiro, Noticia da Viagem que fez segunda vez as Estado da India O lllustrissimo e Excellentisso Sr.  Marquez de Lourical, p. 3; Teixeira de Aragao, Descripcao das moedas, Vol. Ⅲ, p. 297n.
-(10) Letter of Marquez de Tavora dated January, 1, 1751. (Goa Archives : CO 39 fl.).
-(11) Pissurlencar, PMV, p. 77, 78.
-(12) Ibid, p. 77.
-(13) J. Biker, Tratados, Ⅵ, p. 220.
-(14) Goa Archives : Translations of Marathi letters in Portuguese No. 545.
-(15) Goa Archives : Marathi letters etc.
-(16) Goa Archives : MR 111 B, fls. 939 : “… Se VEX” pertender empreza de Bacaim me pode avizar por sua carta  sobre que terey firto as dilligencias necessarias de minha parte occultamente…”
-(17) Goa Archives : Ibid, p. 940-941.
-(18) Goa Archives : MR 111 B, fl. 953
+- (1) Pissurlencar, PM. Ⅴ, p. 67.
+- (2) Pissurlencar, Assentos, Ⅴ, p. 643.
+- (3) Epanaphora Indica, Parte Ⅱ, p. 11, 12.
+- (4) Pissurlencar, ADP, p. 180.
+- (5) Pissurlencar, PM. Ⅴ, p. 67.
+- (6) Epanaphora Indica, Parte Ⅱ, p. 8.
+- (7) Pissurlencar, PM. Ⅴ. p. 64.
+- (8) Pissurlencar, Assentos Ⅴ. p. 637.
+- (9) Jose Freire Monteiro, Noticia da Viagem que fez segunda vez as Estado da India O lllustrissimo e Excellentisso Sr.  Marquez de Lourical, p. 3; Teixeira de Aragao, Descripcao das moedas, Vol. Ⅲ, p. 297n.
+- (10) Letter of Marquez de Tavora dated January, 1, 1751. (Goa Archives : CO 39 fl.).
+- (11) Pissurlencar, PMV, p. 77, 78.
+- (12) Ibid, p. 77.
+- (13) J. Biker, Tratados, Ⅵ, p. 220.
+- (14) Goa Archives : Translations of Marathi letters in Portuguese No. 545.
+- (15) Goa Archives : Marathi letters etc.
+- (16) Goa Archives : MR 111 B, fls. 939 : “… Se VEX” pertender empreza de Bacaim me pode avizar por sua carta  sobre que terey firto as dilligencias necessarias de minha parte occultamente…”
+- (17) Goa Archives : Ibid, p. 940-941.
+- (18) Goa Archives : MR 111 B, fl. 953
 There is an account about the death of Sambhaji Angria in Arquivo Historico Ultramarino, Lisboa in which it is said that  in December 1741 Sambhaji captured a French ship which had left the Goa bay. Two Portuguese Padres were on board the ship.  Both of them were arrested so they were present at the death of Sambhaji. His eldest wife, three junior wives and six mistresses  burnt themselves with his dead body.” (Arquivo das Colonias, Lisboa, 1917).
-(19) Viceroy’s letter dated February 12, 1742 (Goa Archives : MR 111 B, fls. 953-954) : “O Marata tem ja huma  armada de quatro pallas, huma galia, e cinco. centa galvetas.”
-(20) Goa Archives : Portuguese translations of Marathi letters, No. 334.
-(21) Ibid, No. 333.
-(22) Goa Archives, Pissurlencar, PM, Ⅴ. p. 79-80 Portuguese translations of Marathi letters No. 532.
+- (19) Viceroy’s letter dated February 12, 1742 (Goa Archives : MR 111 B, fls. 953-954) : “O Marata tem ja huma  armada de quatro pallas, huma galia, e cinco. centa galvetas.”
+- (20) Goa Archives : Portuguese translations of Marathi letters, No. 334.
+- (21) Ibid, No. 333.
+- (22) Goa Archives, Pissurlencar, PM, Ⅴ. p. 79-80 Portuguese translations of Marathi letters No. 532.
 
-(23) In a Portuguese letter it is said that there were 2,000 horsemen and some footmen.
-(24) Goa Archives : Portuguese translation of Marathi letters.
-(25) Relacao das victorias alcancadas na India contra o inimigo Marata sendo Vice-Rey daquelle estado… D. Luis  Carlos Ignacio Xavier de Menezes, 1743, p. 8. In this rare book it is said that on May 10, 1742, the Mahrattas attacked Salcete  and recovered the arrears of taxes and took possession of Sanguem and Ponda forts.
-(26) The following information is found in the letter of Subedar Krishnarao Gurkar, Saunde’s Subedar of Ponda :  “Sonaji Tambat came with letters to Naropant from Chhatrapati Shahu, Chhatrapati Sambhaji and Nanasaheb Peshwa asking for  handing over of Mardangad from Annaji Prabhu who said that he must get a letter from Saunde and further said that he had  orders to hand it over to General Kalappa. So for two months matters were delayed. Naropant died in the meanwhile. Ismailkhan  was told that Mardangad should be given to Kalappa as per order of Saunde. (This letter in Marathi was translated in Portuguese  on 6, April 1751).
-(27) Manuel Soares Velho’s letter dated 2, July 1742 (BNL. Ms. 465).
-(28) Relacao e verdadeiras noticias das ultimas accoens militares ordenadas pelo … Dr. Luis de Menezes, Marquez de  Lourical, 1747.
-(29) Relacao das vitorias alcancadas na India contra o inimigo Marata, p. 13. Chhatrapati Sambhaji of Kolhapur did  not like that Saunde took possession of Ponda Panchmahal with the help of the Portuguese. In a letter written to the Bhonsla the  Chhatrapati says, “When vatandars like you were in our employ, it is not proper that Kannadas should keep places in our State.”  (Gujir, History of the Karvir Chhatrapati House, Part Ⅱ, p. 110).
-(30) Goa Daftar : CO 30, fls. 44v.
-(31) Goa Daftar : MR, 114, fls. 48.
-(32) Goa Daftar : MR, 117, fl. 11.
-(33) BPE, Cartas da Asia as Conde de Unhao, De Pedro Vicente Vidal, Bombaim 24, November 1744 (cod CXX/2-2  fl. 220).
-(34) AHU, Ms. 448, Cons. Ultramarino fls. 7v.-8 : Os povos da Provincia do Norte estao suspirando, que nos o  livremos do jugo que padecem … Eu pendindome que os livre daquella vexacao…”.
-(35) AHV. Ms. 448, Cons. Ultr. fls. 72v.; 91-91v.
-(36) BUC. Ms. 148, fls. 28.
-(37) Pissurlencar, PM, Ⅵ, p. 5.
-(38) Goa Archives : Translations of Marathi papers No. 464, 2382.
-(39) BNL. Caixa 13, No. 3, Sucessos da India desde Janeiro de 1749, ate Janeiro de 1750, fls. 46v. (40) BNL. Ms. 419, relacao.
-(41) Pissurlencar Assentos Ⅴ, p. 658 (Viceroy’s letter dated 2, November 1746).
-(42) ‘Lagartos’ and ‘Petardos’ are the two Portuguese words that occur in the text of the treaty between Savantvadi  and Goa made on 11, September 1741. One Portuguese account says, the Portuguese used Petardos for the first time in the  battle with the Bhonsla who had no idea at all about it. It was never used before on this side. People regard it as some kind of
+- (23) In a Portuguese letter it is said that there were 2,000 horsemen and some footmen.
+- (24) Goa Archives : Portuguese translation of Marathi letters.
+- (25) Relacao das victorias alcancadas na India contra o inimigo Marata sendo Vice-Rey daquelle estado… D. Luis  Carlos Ignacio Xavier de Menezes, 1743, p. 8. In this rare book it is said that on May 10, 1742, the Mahrattas attacked Salcete  and recovered the arrears of taxes and took possession of Sanguem and Ponda forts.
+- (26) The following information is found in the letter of Subedar Krishnarao Gurkar, Saunde’s Subedar of Ponda :  “Sonaji Tambat came with letters to Naropant from Chhatrapati Shahu, Chhatrapati Sambhaji and Nanasaheb Peshwa asking for  handing over of Mardangad from Annaji Prabhu who said that he must get a letter from Saunde and further said that he had  orders to hand it over to General Kalappa. So for two months matters were delayed. Naropant died in the meanwhile. Ismailkhan  was told that Mardangad should be given to Kalappa as per order of Saunde. (This letter in Marathi was translated in Portuguese  on 6, April 1751).
+- (27) Manuel Soares Velho’s letter dated 2, July 1742 (BNL. Ms. 465).
+- (28) Relacao e verdadeiras noticias das ultimas accoens militares ordenadas pelo … Dr. Luis de Menezes, Marquez de  Lourical, 1747.
+- (29) Relacao das vitorias alcancadas na India contra o inimigo Marata, p. 13. Chhatrapati Sambhaji of Kolhapur did  not like that Saunde took possession of Ponda Panchmahal with the help of the Portuguese. In a letter written to the Bhonsla the  Chhatrapati says, “When vatandars like you were in our employ, it is not proper that Kannadas should keep places in our State.”  (Gujir, History of the Karvir Chhatrapati House, Part Ⅱ, p. 110).
+- (30) Goa Daftar : CO 30, fls. 44v.
+- (31) Goa Daftar : MR, 114, fls. 48.
+- (32) Goa Daftar : MR, 117, fl. 11.
+- (33) BPE, Cartas da Asia as Conde de Unhao, De Pedro Vicente Vidal, Bombaim 24, November 1744 (cod CXX/2-2  fl. 220).
+- (34) AHU, Ms. 448, Cons. Ultramarino fls. 7v.-8 : Os povos da Provincia do Norte estao suspirando, que nos o  livremos do jugo que padecem … Eu pendindome que os livre daquella vexacao…”.
+- (35) AHV. Ms. 448, Cons. Ultr. fls. 72v.; 91-91v.
+- (36) BUC. Ms. 148, fls. 28.
+- (37) Pissurlencar, PM, Ⅵ, p. 5.
+- (38) Goa Archives : Translations of Marathi papers No. 464, 2382.
+- (39) BNL. Caixa 13, No. 3, Sucessos da India desde Janeiro de 1749, ate Janeiro de 1750, fls. 46v. (40) BNL. Ms. 419, relacao.
+- (41) Pissurlencar Assentos Ⅴ, p. 658 (Viceroy’s letter dated 2, November 1746).
+- (42) ‘Lagartos’ and ‘Petardos’ are the two Portuguese words that occur in the text of the treaty between Savantvadi  and Goa made on 11, September 1741. One Portuguese account says, the Portuguese used Petardos for the first time in the  battle with the Bhonsla who had no idea at all about it. It was never used before on this side. People regard it as some kind of
 
 magic. (Relacao da Conquista das pracas de Alorna, e Bicholim, Avaro e Morley e Satarem pello lllustrissimo e Excellentisso  Marquez de Castello Novo Vice-Rey e Capitao General da India).
-(43) Epanaphora, Ⅱ, p. 51. Although the wording in local language (malingua do Pays) appears in this volume it is  with reference to Marathi. All declarations of the Portuguese in new conquistas were translated in Marathi from Portuguese.
-(44) In these days Marathas and Maratha Vanis were socially one. There were inter-dinners and inter-marriages were  in vogue : (In old Portuguese writings the Marathas Vanis were referred to as Chadde Vanis. As many respectable families of the  Vaishya Samaj stayed in Portuguese territories of Bardez and Goa, Bhagoon Kamat Vagh suggested to the Viceroy that with their  help, Satroji Rane should be admitted to a common caste dinner. Some important documents connected with this subject are in  Goa Archives and the author has mentioned them in Assentos do Conselho do estado Part Ⅴ pages 661-662. Also see in  Bharatmitra for January 1941, Pissurlencar’s article, Satroji Ranyacha Panktipawana Vidhi and another article entitled A Proposito  de alguns vocabulos Luso-Indianos in Boletim do Instituto Vasco da Gama.
+- (43) Epanaphora, Ⅱ, p. 51. Although the wording in local language (malingua do Pays) appears in this volume it is  with reference to Marathi. All declarations of the Portuguese in new conquistas were translated in Marathi from Portuguese.
+- (44) In these days Marathas and Maratha Vanis were socially one. There were inter-dinners and inter-marriages were  in vogue : (In old Portuguese writings the Marathas Vanis were referred to as Chadde Vanis. As many respectable families of the  Vaishya Samaj stayed in Portuguese territories of Bardez and Goa, Bhagoon Kamat Vagh suggested to the Viceroy that with their  help, Satroji Rane should be admitted to a common caste dinner. Some important documents connected with this subject are in  Goa Archives and the author has mentioned them in Assentos do Conselho do estado Part Ⅴ pages 661-662. Also see in  Bharatmitra for January 1941, Pissurlencar’s article, Satroji Ranyacha Panktipawana Vidhi and another article entitled A Proposito  de alguns vocabulos Luso-Indianos in Boletim do Instituto Vasco da Gama.
 A contemporary account of this affair is found in Epanaphora Indica Part Ⅱ (p. 64) published in 1747 and Annual Indico  Historico, Part Ill published in 1754.
 In a book called Promtuario das Difficicoes Indicas written by a well-informed Goan padre and published in Lisbon in  1713, there is a clear and unequivocal reference to the fact of inter-dinners and inter-marriages between Marathas and Maratha  Vanis.]  
-(45) Epanaphora Parte Ⅱ p. 60. The agreement whereby the Portuguese gave assurances to Ranes and Desais of  Sanquelim and Bicholim is registered in Livro das cartas e ordens as No. 35. The agreement is dated October 26, 1746.
+- (45) Epanaphora Parte Ⅱ p. 60. The agreement whereby the Portuguese gave assurances to Ranes and Desais of  Sanquelim and Bicholim is registered in Livro das cartas e ordens as No. 35. The agreement is dated October 26, 1746.
 Since it is against law to grant religious liberty to Hindus in a Portuguese State, the Viceroy consulted the Christian  Religious head when he said that Ranes and Desais were not conquered; they only sought the shelter of the Portuguese  Government. (Que estes Dessais vinham voluntariamente render a sua obediencia ao Estado; e assim nam tinha este sobre elles  o direito de conquista.”— Epanaphora Indica, Parte Ⅱ, p. 60.
 * Epanaphora, Ⅱ, p. 62.
-(46) Pissurlencar, Assentos Ⅴ, 662, 663.
-(47) Epanaphora, Parte Ⅲ p. 27.
-(48) Following information is found in a letter written by the Sar Subedar of Ponda, appointed by the Prince of Saunde  in 1751 to the Goa Government : the Portuguese and Saunde marched against Bhonsla and asked him to deliver the fort of Redi  to them and hoist the Portuguese flag on it. It was promised to be returned, later Ramchandra Savant came to demand its return  when the Saunde prince told him that he could only take it but for its return, the permission of Portugal would be necessary. We  achieved an object diplomatically. Marquez de Alorna did not return Redi and Marquez de Tavora would also did not return it.  (Goa Archives : Marathi Documents).
-(49) Goa Archives : Marathi Documents.
-(50) Portuguese : armas reais means nyal insiguia.
-(51) Aitihasik Patravyavahar p. 41.
-(52) Jose Freire Monteiro; Epanaphora Indica, Part Ⅳ page 4 : “ … cada dia repetiam os avizos por outras vias  diferents, e ate alguns dos regulos, que eram, obrigados a seguir o exercito inemigo, nos exhortavam a prevencam.” The gist of  this is : We were receiving messages from various sources. Some of those who were under obligation to march with the enemy  army also gave us cautions.
-(53) Goa Archives : Marathi Documents, No. 2340.
+- (46) Pissurlencar, Assentos Ⅴ, 662, 663.
+- (47) Epanaphora, Parte Ⅲ p. 27.
+- (48) Following information is found in a letter written by the Sar Subedar of Ponda, appointed by the Prince of Saunde  in 1751 to the Goa Government : the Portuguese and Saunde marched against Bhonsla and asked him to deliver the fort of Redi  to them and hoist the Portuguese flag on it. It was promised to be returned, later Ramchandra Savant came to demand its return  when the Saunde prince told him that he could only take it but for its return, the permission of Portugal would be necessary. We  achieved an object diplomatically. Marquez de Alorna did not return Redi and Marquez de Tavora would also did not return it.  (Goa Archives : Marathi Documents).
+- (49) Goa Archives : Marathi Documents.
+- (50) Portuguese : armas reais means nyal insiguia.
+- (51) Aitihasik Patravyavahar p. 41.
+- (52) Jose Freire Monteiro; Epanaphora Indica, Part Ⅳ page 4 : “ … cada dia repetiam os avizos por outras vias  diferents, e ate alguns dos regulos, que eram, obrigados a seguir o exercito inemigo, nos exhortavam a prevencam.” The gist of  this is : We were receiving messages from various sources. Some of those who were under obligation to march with the enemy  army also gave us cautions.
+- (53) Goa Archives : Marathi Documents, No. 2340.
 CONTENTS(54) Goa Archives : Marathi Documents No. 2416.
-(55) Goa Archives : Portuguese translations of Marathi letters No. 540 Epanaphora Indica, Parte Ⅵ. It is said that on  March 21, the forces under Sadashiv Rao departed after leaving the fort of Supem.
-(56) Goa Archives : MR 120, fls. 43-46.
-(57) Viceroy’s letter dated December 30, 1747 (Pissurlencar, P. M. Ⅵ p. 14-15); Epanaphora, Ⅵ prefacio, BNL.  Sucessos da India.
-(58) Goa Archives : Marathi Documents No. 2041.
-(59) Epanaphora, parte Ⅵ, A quem ler.
-(60) Historical Correspondence, p. 74. Epanaphora, Ⅳ, p. 30-31.]”
-(61) Goa Archives : MR 121 A, fls. 225-238; Pissurlencar, PM Ⅵ p. 17.
-(62) Viceroy’s letter dated 27, December 1747. (Assentos Ⅴ, p. 665); State Councils Memorandum of May 14, 1747.  (Assentos Ⅴ, p. 598); Historical Correspondence, p. 40 * Epanaphora, Ⅳ, p. 2.
-(63) Assentos Ⅴ, p. 665; Epanaphora Ⅳ, p. 3, 4.
-(64) Goa Archives : RV 11, fls. 65v-66; RI. 14, fls. 6.
-(65) A. Galleti, the Dutch in Malabar, Madras, 1191, p. 17.
-(66) Epanaphora, Ⅴ, p. 73.
-(67) Goa Archives : Marathi Documents No. 2908.
-(68) Viceroy’s letter to Chhatrapati Sambhaji dated March 28, 1749 (Assentos Ⅴ, p. 683-684).
-(69) Epanaphora, Ⅴ, p. 29, 30.
-(70) Epanaphora, Ⅲ, p. 1; Assentos Ⅴ, p. 681n.
-(71) P. K. Gode, Studies in the history of Angrias, in the New Indian Antiquasy.
-(72) Goa Archives : Marathi Documents.
-(73) Peshwa Daftar, part 28, p. 200. “Bhagwantrao and Savant have taken Mudagad. They will proceed to Masure. (74) Viceroy’s letter dated January 23, 1750 (Assentos Ⅴ, p. 685).
-(75) Epanaphora, Ⅵ, p. 63-65.
-(76) Epanaphora Ⅵ, p. 11; Ⅴ, p. 37; Assentos Ⅴ, p. 671.
-(77) Portuguese word musos means wall.
-(78) Portuguese word passos means footway in a creek.
-(79) Goa Archives : Marathi Documents.
+- (55) Goa Archives : Portuguese translations of Marathi letters No. 540 Epanaphora Indica, Parte Ⅵ. It is said that on  March 21, the forces under Sadashiv Rao departed after leaving the fort of Supem.
+- (56) Goa Archives : MR 120, fls. 43-46.
+- (57) Viceroy’s letter dated December 30, 1747 (Pissurlencar, P. M. Ⅵ p. 14-15); Epanaphora, Ⅵ prefacio, BNL.  Sucessos da India.
+- (58) Goa Archives : Marathi Documents No. 2041.
+- (59) Epanaphora, parte Ⅵ, A quem ler.
+- (60) Historical Correspondence, p. 74. Epanaphora, Ⅳ, p. 30-31.]”
+- (61) Goa Archives : MR 121 A, fls. 225-238; Pissurlencar, PM Ⅵ p. 17.
+- (62) Viceroy’s letter dated 27, December 1747. (Assentos Ⅴ, p. 665); State Councils Memorandum of May 14, 1747.  (Assentos Ⅴ, p. 598); Historical Correspondence, p. 40 * Epanaphora, Ⅳ, p. 2.
+- (63) Assentos Ⅴ, p. 665; Epanaphora Ⅳ, p. 3, 4.
+- (64) Goa Archives : RV 11, fls. 65v-66; RI. 14, fls. 6.
+- (65) A. Galleti, the Dutch in Malabar, Madras, 1191, p. 17.
+- (66) Epanaphora, Ⅴ, p. 73.
+- (67) Goa Archives : Marathi Documents No. 2908.
+- (68) Viceroy’s letter to Chhatrapati Sambhaji dated March 28, 1749 (Assentos Ⅴ, p. 683-684).
+- (69) Epanaphora, Ⅴ, p. 29, 30.
+- (70) Epanaphora, Ⅲ, p. 1; Assentos Ⅴ, p. 681n.
+- (71) P. K. Gode, Studies in the history of Angrias, in the New Indian Antiquasy.
+- (72) Goa Archives : Marathi Documents.
+- (73) Peshwa Daftar, part 28, p. 200. “Bhagwantrao and Savant have taken Mudagad. They will proceed to Masure. (74) Viceroy’s letter dated January 23, 1750 (Assentos Ⅴ, p. 685).
+- (75) Epanaphora, Ⅵ, p. 63-65.
+- (76) Epanaphora Ⅵ, p. 11; Ⅴ, p. 37; Assentos Ⅴ, p. 671.
+- (77) Portuguese word musos means wall.
+- (78) Portuguese word passos means footway in a creek.
+- (79) Goa Archives : Marathi Documents.
 
-(80) Epanaphora, Ⅳ, p. 97-99.
-(81) Goa Archives : CO 35 (Marquez de Alorna’s letter dated July 22, 1774).
-(82) Epanaphora Ⅳ, p. 100.
-(83) Epanaphora Ⅴ, p. 31. Goa Archives : RV 12, fls. 147-148; RI. 14, fl. 51.
-(84) Goa Archives.
-(85) Goa Archives : RV. 13 fl. 12v.
-(86) Goa Archives : RV 12 fls. 219v . : “VM. deve por toda a oposicao possivel persuadindo ao dito Xau e aos seus  Ministros o perigo que corre fazerse Nana tao poderozo”.
-(87) Peshwa Daftar : Part 26, No. 23.
-(88) Annal Indico-Lusitano, p. 88.
-(89) Ibid, p. 13 * VG. Hatalnar, Relations between the French and the Marattas, Ch. Ⅺ.
-(90) Goa Governor’s letter dated January 23, 1757 (Goa Archives : MR 129 fl. 422).]
-(91) Annal Indico Lusitano, p. 15. * Letter of Marquez de Tavora dated March 26, 1757. (AHV. India, Papeis avulsos,  maco No. 1).
-(92) Felix Feliciano da Fonseca, Relacao dos felicissimos sucessos obrados na India Oriental em o Vice-Reinado  Marquez de Tavora, Lisboa. 1753.
-(93) Annal Indico-Historico, p. 89.
-(94) Peshwa Daftar, part 34, p. 50-52 “After ascertaining that they were spies from Goa Galbav of Bassein and Duma  Koli of Agashi were produced and they admitted their quilt. There was one padre who was went to Bombay and Galbav and  Duma were beheaded. Galbao is the same as Galvao.
-(95) Goa Archives : Portuguese translations of Marathi letters No. 2031. The letter written by Peshwa Nanasaheb to  Conde de Alva bears 17 safar i.e. December 17, 1754 as the date. Portuguese translation of this letter was done on January 18,  1755.
-(96) Goa Archives : RI. 15, fls. 181v.
-(97) Biker, Tratados Ⅶ, p. 36.
+- (80) Epanaphora, Ⅳ, p. 97-99.
+- (81) Goa Archives : CO 35 (Marquez de Alorna’s letter dated July 22, 1774).
+- (82) Epanaphora Ⅳ, p. 100.
+- (83) Epanaphora Ⅴ, p. 31. Goa Archives : RV 12, fls. 147-148; RI. 14, fl. 51.
+- (84) Goa Archives.
+- (85) Goa Archives : RV. 13 fl. 12v.
+- (86) Goa Archives : RV 12 fls. 219v . : “VM. deve por toda a oposicao possivel persuadindo ao dito Xau e aos seus  Ministros o perigo que corre fazerse Nana tao poderozo”.
+- (87) Peshwa Daftar : Part 26, No. 23.
+- (88) Annal Indico-Lusitano, p. 88.
+- (89) Ibid, p. 13 * VG. Hatalnar, Relations between the French and the Marattas, Ch. Ⅺ.
+- (90) Goa Governor’s letter dated January 23, 1757 (Goa Archives : MR 129 fl. 422).]
+- (91) Annal Indico Lusitano, p. 15. * Letter of Marquez de Tavora dated March 26, 1757. (AHV. India, Papeis avulsos,  maco No. 1).
+- (92) Felix Feliciano da Fonseca, Relacao dos felicissimos sucessos obrados na India Oriental em o Vice-Reinado  Marquez de Tavora, Lisboa. 1753.
+- (93) Annal Indico-Historico, p. 89.
+- (94) Peshwa Daftar, part 34, p. 50-52 “After ascertaining that they were spies from Goa Galbav of Bassein and Duma  Koli of Agashi were produced and they admitted their quilt. There was one padre who was went to Bombay and Galbav and  Duma were beheaded. Galbao is the same as Galvao.
+- (95) Goa Archives : Portuguese translations of Marathi letters No. 2031. The letter written by Peshwa Nanasaheb to  Conde de Alva bears 17 safar i.e. December 17, 1754 as the date. Portuguese translation of this letter was done on January 18,  1755.
+- (96) Goa Archives : RI. 15, fls. 181v.
+- (97) Biker, Tratados Ⅶ, p. 36.
 This treaty has a clause which says that the Viceroy has given help of 500 men but they should remain in Redy fort and  protect it. This is a step to prevent the Peshwa from making war on Angria.
-(98) Sardesai, Balajirao, p. 178; Dr. S. N. Sen, Military system, p. 230.]
-(99) “A Armada que antes da perda referida reduzio a cinzas o sobretudo Angria” (Goa Archives : MR 129, fl. 283).
-(100) Colonel John Biddulph, the Pirates of Malabar p. 246 Biddulph has described gallivats as : Galleywats, or  gallivats, were large rowing boats with two masts of forty to seventy tons and carrying four to eight guns.” (p. 92).
-(101) Pissurlencar, PM. Ⅴ, p. 84.
+- (98) Sardesai, Balajirao, p. 178; Dr. S. N. Sen, Military system, p. 230.]
+- (99) “A Armada que antes da perda referida reduzio a cinzas o sobretudo Angria” (Goa Archives : MR 129, fl. 283).
+- (100) Colonel John Biddulph, the Pirates of Malabar p. 246 Biddulph has described gallivats as : Galleywats, or  gallivats, were large rowing boats with two masts of forty to seventy tons and carrying four to eight guns.” (p. 92).
+- (101) Pissurlencar, PM. Ⅴ, p. 84.
 
-(102) AHV.
-(103) Goa Archives : Marathi documents.
-(104) Goa Archives : MR 128 A, fl. 626.
-(105) Goa Archives : MR 135 fl. 549 : “…… e se continuar (Rudraji Dulopo) neste corso me parece que brevemente  teremos outro Angria nesta costa).
-(106) Shridhar Abaji’s letter to Peshwa dated 24, February 1756 : “After the Angria is exterminated, Mardangad should  be taken from the prince of Saunde by negotiation so that Portuguese posts could be taken over, if that is the desire of the  Peshwa.”
-(107) Pissurlencar, ADP p. 261.
-(108) Goa Archives : MR. 123B.
-(109) Peshwa Daftar Part 28, 140 “Army was sent to Saunde. Tribute from there came to Rs. 8 lakhs. Some of it in  cash and some on sureties. For arrears Mardangad was mortgaged to the Peshwa whose flag is flying there.”
-(110) Khare’s History of Ichalkaranji State.
-(111) Goa Archives : Marathi documents No. 248.
-(112) Joseph Rogers, Relacao dos sucessos … do … Don Luiz Mascarenhas, 1757, p. 10.
-(113) Goa Archives : Portuguese translations of Marathi letters No. 853.
-(114) Goa Archives : Marathi Documents.
-(115) Pissurlencar, O Enigma da Morte do Vice-Rei.
-(116) Ibid, p. 12. There is a manuscript in the India office. Library, London by Stevens, an Englishman in which he has given a description of the assault on Mardangad by the Portuguese. He was then in Goa : “On the 28th ultimo, the Portuguese  opened a bomb battery before Ponda and threw two or three shells into the port … and at last the enemy sally’d out to the  member of 80 or 100 on which the Portuguese threw down their arms and ran as fast as they could; many officers and soldiers  were killed in the retreat, amongst which was the Viceroy … They retreated so precipitately that no one could give an account of  the Viceroy; but two days after, they got liberty to examine the dead, where they wound him and brought him to their place to  bury.” (Orme Ms. 32, p. 93-96).
+- (102) AHV.
+- (103) Goa Archives : Marathi documents.
+- (104) Goa Archives : MR 128 A, fl. 626.
+- (105) Goa Archives : MR 135 fl. 549 : “…… e se continuar (Rudraji Dulopo) neste corso me parece que brevemente  teremos outro Angria nesta costa).
+- (106) Shridhar Abaji’s letter to Peshwa dated 24, February 1756 : “After the Angria is exterminated, Mardangad should  be taken from the prince of Saunde by negotiation so that Portuguese posts could be taken over, if that is the desire of the  Peshwa.”
+- (107) Pissurlencar, ADP p. 261.
+- (108) Goa Archives : MR. 123B.
+- (109) Peshwa Daftar Part 28, 140 “Army was sent to Saunde. Tribute from there came to Rs. 8 lakhs. Some of it in  cash and some on sureties. For arrears Mardangad was mortgaged to the Peshwa whose flag is flying there.”
+- (110) Khare’s History of Ichalkaranji State.
+- (111) Goa Archives : Marathi documents No. 248.
+- (112) Joseph Rogers, Relacao dos sucessos … do … Don Luiz Mascarenhas, 1757, p. 10.
+- (113) Goa Archives : Portuguese translations of Marathi letters No. 853.
+- (114) Goa Archives : Marathi Documents.
+- (115) Pissurlencar, O Enigma da Morte do Vice-Rei.
+- (116) Ibid, p. 12. There is a manuscript in the India office. Library, London by Stevens, an Englishman in which he has given a description of the assault on Mardangad by the Portuguese. He was then in Goa : “On the 28th ultimo, the Portuguese  opened a bomb battery before Ponda and threw two or three shells into the port … and at last the enemy sally’d out to the  member of 80 or 100 on which the Portuguese threw down their arms and ran as fast as they could; many officers and soldiers  were killed in the retreat, amongst which was the Viceroy … They retreated so precipitately that no one could give an account of  the Viceroy; but two days after, they got liberty to examine the dead, where they wound him and brought him to their place to  bury.” (Orme Ms. 32, p. 93-96).
 That Conde de Alva was killed by the Mahrattas is clearly stated in contemporary Marathi sources. Contemporary  Portuguese sources also confirm this. (Joseph Roger Relacao dos Sucessos … do … Conde de Alva, Lisboa, 1757 and Jose da  Silva Machado, Relacao dos sucessos da India, escrita em Goa a 31 de Janeiro de 1759. Bispo de Halicarnasso’s Systema  Marcial Asiatico, a manuscript of 1772.
-(117) Memorias de Fr. Joao de S. Joseph Queiroz, Bispo do Graopara. Com uma extensa introducao e notas  illustrativos por Camillo Castello-Branco (Porto, 1668), p. 167n.
-(118) Peshwa Daftar, part 16 No. 95, p. 75.
-(119) Goa Archives : Marathi Documents.
-(120) Pissurlencar, ADP, p. 254-262.
+- (117) Memorias de Fr. Joao de S. Joseph Queiroz, Bispo do Graopara. Com uma extensa introducao e notas  illustrativos por Camillo Castello-Branco (Porto, 1668), p. 167n.
+- (118) Peshwa Daftar, part 16 No. 95, p. 75.
+- (119) Goa Archives : Marathi Documents.
+- (120) Pissurlencar, ADP, p. 254-262.
 
-(121) Ibid, p. 258-259.
-(122) Goa Archives : MR 130A.
-(123) Biker, Tratados, Ⅶ p. 50.
-(124) AHV. Livro de pazes No. 3, fl. 76.
-(125) Goa Archives : Papeis avulsos.
-(126) Goa Archives : Rl 15, fls. 181v.
-(127) Goa Archives : MR 129, fl. 422.
-(128) Peshwa Daftar : Part 24, p. 22.
-(129) Biker, Tratados Ⅶ, p. 43-44.
-(130) Biker, Tratados Ⅶ, p. 144.
-(131) Viceroy’s letter to the King of Portugal dated December 13, 1760 (Tratados Ⅶ, p. 266).
-(132) Viceroy’s letter dated 30, January 1760 : “esta resolucao, alheia interamento do costume da Nacao Portuguesa  na Asia. A extremidade em que me via me estava persuadido que se fazia preciso ceder de algum modo da antiga altivez…”  (AHV. Ms. 446).
-(133) AHV. Livro de pazes No. 3.
-(134) Iftdai. lbdatai : Beginning.
-(135) The Peshwa wrote to lsmailkhan on the 9th of Rabilakhar it was said that Rs. 2,40,000 which was really due to  the Peshwa was not sent till then and it was improper. Ismailkhan was requested to ask the Governor to send the sum  immediately.
-(136) Biker, Tratados Ⅶ, p. 47.
-(137) Viceroy’s letter dated 29, Janary 1760 (AHV., Ms. 446, fls. 97-101).
-(138) Peshwa Daftar, part 24, p. 267.
-(139) Biker, Tratados Ⅶ, p. 240 : “Ramajipant Borvo he o cabo maratha, que se acha comandando as suas tropas,  este, tendo subido aquelle Iugar mais por fortuna que por merecimentos”.
-(140) Biker, Tratados Ⅶ, p. 182.
-(141) Ibid, p. 195.
-(142) Ibid, p. 196.
-(143) Goa Archives : Marathi documents.
-(144) Biker Ⅶ, p. 144.
-(145) lbid, p. 231.
+- (121) Ibid, p. 258-259.
+- (122) Goa Archives : MR 130A.
+- (123) Biker, Tratados, Ⅶ p. 50.
+- (124) AHV. Livro de pazes No. 3, fl. 76.
+- (125) Goa Archives : Papeis avulsos.
+- (126) Goa Archives : Rl 15, fls. 181v.
+- (127) Goa Archives : MR 129, fl. 422.
+- (128) Peshwa Daftar : Part 24, p. 22.
+- (129) Biker, Tratados Ⅶ, p. 43-44.
+- (130) Biker, Tratados Ⅶ, p. 144.
+- (131) Viceroy’s letter to the King of Portugal dated December 13, 1760 (Tratados Ⅶ, p. 266).
+- (132) Viceroy’s letter dated 30, January 1760 : “esta resolucao, alheia interamento do costume da Nacao Portuguesa  na Asia. A extremidade em que me via me estava persuadido que se fazia preciso ceder de algum modo da antiga altivez…”  (AHV. Ms. 446).
+- (133) AHV. Livro de pazes No. 3.
+- (134) Iftdai. lbdatai : Beginning.
+- (135) The Peshwa wrote to lsmailkhan on the 9th of Rabilakhar it was said that Rs. 2,40,000 which was really due to  the Peshwa was not sent till then and it was improper. Ismailkhan was requested to ask the Governor to send the sum  immediately.
+- (136) Biker, Tratados Ⅶ, p. 47.
+- (137) Viceroy’s letter dated 29, Janary 1760 (AHV., Ms. 446, fls. 97-101).
+- (138) Peshwa Daftar, part 24, p. 267.
+- (139) Biker, Tratados Ⅶ, p. 240 : “Ramajipant Borvo he o cabo maratha, que se acha comandando as suas tropas,  este, tendo subido aquelle Iugar mais por fortuna que por merecimentos”.
+- (140) Biker, Tratados Ⅶ, p. 182.
+- (141) Ibid, p. 195.
+- (142) Ibid, p. 196.
+- (143) Goa Archives : Marathi documents.
+- (144) Biker Ⅶ, p. 144.
+- (145) lbid, p. 231.
 
-(146) lbid, p. 247.
-(147) Viceroy’s letter dated January 12, 1762. C. Soares, (Documentos comprovativos do Bosquejo das Possessoes  Portuguezas no Oriente, t. Ⅲ, p. 119.
-(148) Biker Ⅶ, p. 245.
-(149) Sardesai, Marathi Riyasat-Peshwa Balajirao, p. 124 (1953).
-* In 1781-82 the Peshwa made an agreement with the French to get assistance from them to capture Rajpuri fort from  the Siddi. (Khare collection of historical documents, part 14, p. 7629).
-(150) Bisker, Ⅶ, p. 272-281.
+- (146) lbid, p. 247.
+- (147) Viceroy’s letter dated January 12, 1762. C. Soares, (Documentos comprovativos do Bosquejo das Possessoes  Portuguezas no Oriente, t. Ⅲ, p. 119.
+- (148) Biker Ⅶ, p. 245.
+- (149) Sardesai, Marathi Riyasat-Peshwa Balajirao, p. 124 (1953).
+  * In 1781-82 the Peshwa made an agreement with the French to get assistance from them to capture Rajpuri fort from  the Siddi. (Khare collection of historical documents, part 14, p. 7629).
+- (150) Bisker, Ⅶ, p. 272-281.

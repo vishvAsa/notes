@@ -8,7 +8,7 @@ The history of the Portuguese began in Goa and near Bassein, about a hundred yea
 Most people in Tiswadi, Salcette and Bardez had been converted to Roman  Catholicism before the rise of Shivaji the Great. The Portuguese had destroyed all Hindu  temples without an exception. On their ruins they erected magnificent churches. They built up the townships in Goa, Daman, Chaul and Bassein in the western style and had their engineers  to construct big fortresses in Gujarat and Konkan. The hospital (espital) that they erected in  Goa was reputed to be the best in the whole world in the sixteenth and the seventeenth century.
 
 
-The Portuguese won victories over the Adilshahi, Nizamshahi and Gujarati Sultans  several times. Since the voyage of Vasco da Gama, numerous Portuguese ships landed on  Indian shores. It is on record that during the first hundred years of the event, about 800 ships  reached India.1It is under the influence of the Portuguese maritime power that the Portuguese  word armada found a habitation and a name in Marathi as armar.
+The Portuguese won victories over the Adilshahi, Nizamshahi and Gujarati Sultans  several times. Since the voyage of Vasco da Gama, numerous Portuguese ships landed on  Indian shores. It is on record that during the first hundred years of the event, about 800 ships  reached India.1 It is under the influence of the Portuguese maritime power that the Portuguese  word armada found a habitation and a name in Marathi as armar.
 
 
 The Portuguese founded factories to produce gunpowder, guns and cannons as well  as docks to construct naval ships at Goa and Bassein. The gun-powder factories were called ‘casas de polvora’. Though the principal artisans in these factories were naturally Portuguese,  quite often Goan Hindus were employed there to do a number of jobs. In 1665, one  Krishnashet2, a Goan Hindu, was the chief of manufacturing cannons who was designated  ‘Mestre da fundicao da artilharia’.
@@ -261,128 +261,128 @@ There are books written by the Portuguese in Marathi and Konkani. In 1802, a  gr
 The Portuguese, the Dutch, the French and the English founded kingdoms in India.  The Portuguese were the earliest to reach here and the last to leave India’s shores. In 1510,  they captured the island of Goa and ruled there for 450 years. In this long period, they came  in contact with several ruling dynasties in India. The whole of this history is worthy of study  and the sources for the pursuit of such study are also ample.
 
 ## NOTES
-(1) Luis de Figueiredo Falcao, Livro em que se contem toda a Fazenda a Real Patrimonio dos Reinos de Portugal, India a Ilhas adjacentes e outras particularidades, Lisboa, 1859, page 194.
-(2) Goa Archives R. Ⅴ. 2 (1662-1668) fls. 4. Manuel Teixeira, Os Bocarros in Actaw do Congresso Inter nacional de Historia dos  Descobrimentos, Vol. Ⅴ, Parte Ⅱ, page 359.
-(3) Pissurlencar, ADP, page 2.
-(4) Ibid.,
-(5) The well educated wife of Marquez de Tovar, in a letter to her son dated 24-11-1752 to Portugal says : “aqui as obras de  ouro em que trabalham excellentemente”. This means excellent gold articles are made here. (C. Castelo Branco, Narcolicos Ⅱ  page 114).
-(6) Pe. Silva Rego, Documentacao, Ⅶ, Pe. Wicki. Documenta, Ⅰ page 86, Ⅳ, page 324.
-(7) Luiz Gonsalves, Telas e Eseulpturas, Bastora, 1898, page 49-50.
-(8) Gaspar Correira, Lendas da India, Vol. Ⅱ page 176 Commentarios do Grande Affonso de Albuquerque Parte Ⅱ Cap. ⅩⅪ;  Joao de Barros, decada Ⅱ Livro Ⅴ cap. Ⅳ.
-(9) Letter dated 22-2-1585 (Archivo Ⅲ page 46, -448-49).
-(10) C. R. Boxer, The Carreira da India, page 41.
-(11) Claudio Barbuda, Instruccoes com que El-Rei D Jose I mandou passar ao Estado da India, 1841, page 28, 31. (12) Goa Archives : Livro de Damao No. 1, fls., 44.
-(13) Goa Archives MR 83, fls. 18.
-(14) Goa Archives MR 87, fls. 52, 115.
-(15) Dr. S. N. Sen, Military System of the Marathas, p. 129.
-(16) Goa Archives MR 71 fl. 265V.
-(17) Dr. S. N. Sen, Military System of the Marathas.
-(18) Goa Archives Co 39 fl. (Letter to Geral Columbano Pinto de Silva).
-(19) Garcia de Orta, Coloquios, Lisboa, 1895, page 306-9.
-(20) Pissurlencar, Assentos Ⅳ, page 147; P. M. IJ. Sarkar, Shivaji P, 106.
-(21) BNL. Ms F. G. 1975, Cartas Diversas fl. 181.
-(22) Biker, Tratados Ⅳ, page 126.
-(23) Dr. S. Sen, Military System of the Marathas p. 120-21.
-(24) Dr. Germano Correa, Historia da Colonizacao Portuguesa no Oriente, Vol. Ⅵ.
+- (1) Luis de Figueiredo Falcao, Livro em que se contem toda a Fazenda a Real Patrimonio dos Reinos de Portugal, India a Ilhas adjacentes e outras particularidades, Lisboa, 1859, page 194.
+- (2) Goa Archives R. Ⅴ. 2 (1662-1668) fls. 4. Manuel Teixeira, Os Bocarros in Actaw do Congresso Inter nacional de Historia dos  Descobrimentos, Vol. Ⅴ, Parte Ⅱ, page 359.
+- (3) Pissurlencar, ADP, page 2.
+- (4) Ibid.,
+- (5) The well educated wife of Marquez de Tovar, in a letter to her son dated 24-11-1752 to Portugal says : “aqui as obras de  ouro em que trabalham excellentemente”. This means excellent gold articles are made here. (C. Castelo Branco, Narcolicos Ⅱ  page 114).
+- (6) Pe. Silva Rego, Documentacao, Ⅶ, Pe. Wicki. Documenta, Ⅰ page 86, Ⅳ, page 324.
+- (7) Luiz Gonsalves, Telas e Eseulpturas, Bastora, 1898, page 49-50.
+- (8) Gaspar Correira, Lendas da India, Vol. Ⅱ page 176 Commentarios do Grande Affonso de Albuquerque Parte Ⅱ Cap. ⅩⅪ;  Joao de Barros, decada Ⅱ Livro Ⅴ cap. Ⅳ.
+- (9) Letter dated 22-2-1585 (Archivo Ⅲ page 46, -448-49).
+- (10) C. R. Boxer, The Carreira da India, page 41.
+- (11) Claudio Barbuda, Instruccoes com que El-Rei D Jose I mandou passar ao Estado da India, 1841, page 28, 31. (12) Goa Archives : Livro de Damao No. 1, fls., 44.
+- (13) Goa Archives MR 83, fls. 18.
+- (14) Goa Archives MR 87, fls. 52, 115.
+- (15) Dr. S. N. Sen, Military System of the Marathas, p. 129.
+- (16) Goa Archives MR 71 fl. 265V.
+- (17) Dr. S. N. Sen, Military System of the Marathas.
+- (18) Goa Archives Co 39 fl. (Letter to Geral Columbano Pinto de Silva).
+- (19) Garcia de Orta, Coloquios, Lisboa, 1895, page 306-9.
+- (20) Pissurlencar, Assentos Ⅳ, page 147; P. M. IJ. Sarkar, Shivaji P, 106.
+- (21) BNL. Ms F. G. 1975, Cartas Diversas fl. 181.
+- (22) Biker, Tratados Ⅳ, page 126.
+- (23) Dr. S. Sen, Military System of the Marathas p. 120-21.
+- (24) Dr. Germano Correa, Historia da Colonizacao Portuguesa no Oriente, Vol. Ⅵ.
 
-(25) Dr. Sen. Military System of the Marathas, page 121. *Rajwade, Marathyanchya ltihasachi Sadhane, Khanda 7, page 15  (Musa Jaranj), Parasnis (Musa Naranj) Sarkar, Fall of Moghul Empire, Vol. Ⅳ, page 125 (Musa Naras).
-(26) Pissurlencar, ADP, page 580, PM Ⅵ, page 132.
-(27) Pissurlencar, P. M. Ⅵ, page 131.
-(28) Pissurlencar, ADP, page 581.
-(29) Pissurlencar, ADP, page 441, 443, 445.
-(30) Pissurlencar, page 601.
-(31) Vithal Valavalikar’s letter dated January 28, 1796.
-(32) Pissurlencar, ADP, page 600-601.
-(33) Rajwade, Marathyanchya ltihasachi Sadhane, Khanda 7, page 15; Dr. S. N. Sen, Military System of the Marathas, page  134.
-(34) Miguel Vincente de Abreu, Nocao de alguns filhos distintos da India Portuguesa, page 79-82; Cunha Rivara, A Conjuracao  de 1787 em Goa, page 153-155.
-(35) Pissurlencar, ADP, page 603.
-(36) Pissurlencar, ADP page 580.
-(37) Lokahitacadi, Aitihasik Goshti ani Upayukta Mahiti, page 78.
-(38) Pissurlencar, ADP, page 589.
-(39) Goa Archives Livro de Chaul no. 1 fls. 47 (Pero Roiz, que mundo por eoviado a Sivagi Raze, 3-3-1673). (40) Pissurlencar ADP, page 8081.
-(41) Biker, Tratados Ⅴ, page 12-13.
-(42) For example, Relacao de Embaixada que o Sunda depois de vencido das armas Portuguesas mandou a … Marquez de  Tavora, page 8.
-(43) Peshwa Daftar, Bhag 16, page 115.
-(44) Goa Archives, Livro de registos gerais No. 8, fls. 18v.
-(45) Parasnis, Pararashtranchya Darbarantil Marathi Vakil, page 43.
-(46) Goa Archives, Marathi letter of Vithal Goraksha Valavalikar.
-(47) Biker, Tratados Ⅵ page 11.
-(48) Biker, Tratados Ⅵ pages 2-3-177.
-(49) Epanaphora Ⅲ page 14.
+- (25) Dr. Sen. Military System of the Marathas, page 121. *Rajwade, Marathyanchya ltihasachi Sadhane, Khanda 7, page 15  (Musa Jaranj), Parasnis (Musa Naranj) Sarkar, Fall of Moghul Empire, Vol. Ⅳ, page 125 (Musa Naras).
+- (26) Pissurlencar, ADP, page 580, PM Ⅵ, page 132.
+- (27) Pissurlencar, P. M. Ⅵ, page 131.
+- (28) Pissurlencar, ADP, page 581.
+- (29) Pissurlencar, ADP, page 441, 443, 445.
+- (30) Pissurlencar, page 601.
+- (31) Vithal Valavalikar’s letter dated January 28, 1796.
+- (32) Pissurlencar, ADP, page 600-601.
+- (33) Rajwade, Marathyanchya ltihasachi Sadhane, Khanda 7, page 15; Dr. S. N. Sen, Military System of the Marathas, page  134.
+- (34) Miguel Vincente de Abreu, Nocao de alguns filhos distintos da India Portuguesa, page 79-82; Cunha Rivara, A Conjuracao  de 1787 em Goa, page 153-155.
+- (35) Pissurlencar, ADP, page 603.
+- (36) Pissurlencar, ADP page 580.
+- (37) Lokahitacadi, Aitihasik Goshti ani Upayukta Mahiti, page 78.
+- (38) Pissurlencar, ADP, page 589.
+- (39) Goa Archives Livro de Chaul no. 1 fls. 47 (Pero Roiz, que mundo por eoviado a Sivagi Raze, 3-3-1673). (40) Pissurlencar ADP, page 8081.
+- (41) Biker, Tratados Ⅴ, page 12-13.
+- (42) For example, Relacao de Embaixada que o Sunda depois de vencido das armas Portuguesas mandou a … Marquez de  Tavora, page 8.
+- (43) Peshwa Daftar, Bhag 16, page 115.
+- (44) Goa Archives, Livro de registos gerais No. 8, fls. 18v.
+- (45) Parasnis, Pararashtranchya Darbarantil Marathi Vakil, page 43.
+- (46) Goa Archives, Marathi letter of Vithal Goraksha Valavalikar.
+- (47) Biker, Tratados Ⅵ page 11.
+- (48) Biker, Tratados Ⅵ pages 2-3-177.
+- (49) Epanaphora Ⅲ page 14.
 
-(50) Goa Archives : Marathi Letters.
-(51) Goa Archives : Valavalikar’s Portuguese letter dated May 16, 1794.
-(52) Pissurlencar ADP. pages 441, 443, 445.
-(53) Goa Archives—Marathi Letters.
-(54) Biker, Tratados Ⅶ page 126.
-(55) Pissurlencar ADP. page 481.
-(56) Biker, Tratados Ⅸ page 181.
-(57) Goa Archives. CO 19 fl. 68.
-(58) Francisco Raymundo de Moraes Pareira, Annal Indico-Lusitano.
-(59) Ibid, page 38-61.
-(60) Celestino Soares, Bosquejo das Possessoes pages 138-142.
-(61) E. Balsemao, Os Portugueses no Oriente Ⅲ Feliz Feliciano da Fonseca Relacao de him grande Combate, e victoria, que  contra o genito, a arabio coseguio a armada que do porto de Goa sahio de Guarda-Costa em Julho 1753, commandada pelo  valeroso Ismalcam, Commandante de dez Galias. BPE Ms Relacao da batalha naval que a nome N. S. da Victoria teve a Costa  do sul etc.
-(62) J. F. de Monterroyo Mascarenhas, Epanaphora Parte Ⅲ page 26-28; F. R. de Moraes Pereira, Annal Indico-Lusitano,  Lisboa 1753, page 15.
-(63) Relacao da victoria, com que a Divina Providencia se servio de abencoar as armas Portuguesesas contra o Regulo Mouro,  situado na Naubandel alcancada no dia 21 de Dezembro, Dr. F. R. D. Moraes Pereira, Relacao da Viagem que Marquez de  Tavora …… Lisboa 1751 page 7.
-(64) F. R. de Moraes Pereira, Annal Indico-Lusitano Lisboa 1753, page 79-80; Dr. S. N. Sen, studies in Indian History, page  180. Goa Archives MR 124 B, files 276 (The Viceroy’s letter dated 2-2-1752).
-(65) AHU. Maco 32, India avulsos.
-(66) Claudio Barbuda, Instrucoes com que el-rei D Jose Ⅰ … Pangim 1841, page 46.
-(67) Pissurlencar, Contribution a I’Etude de l’histoire de Ia Medecine Portuguese dans l’Inde, 1927; Um Frade Capucho na Corte  de Pernem In Bol. Inst. Vasco da Gama No. 24 (1934); Goa Pre-Portuguesa atraves das Escritores Lusitanos dos seculos ⅩⅥ  e ⅩⅦ; os Pandotos our Medicos Hindus, in Heraido, Goa.
-(68) BA. 31-Ⅸ-Ⅰ Cartas da India, fl. 406.
-(69) Goa Archives MR 90, fls. 174.
-(70) Pissurlencar ADP, page 250.
-(71) BNL. Caixa Ⅹ-1-15, Ms. Noticias da India desde Jan de 1749 ate Jan. de 1750.
-(72) Goa Archives : Marathi letters.
+- (50) Goa Archives : Marathi Letters.
+- (51) Goa Archives : Valavalikar’s Portuguese letter dated May 16, 1794.
+- (52) Pissurlencar ADP. pages 441, 443, 445.
+- (53) Goa Archives—Marathi Letters.
+- (54) Biker, Tratados Ⅶ page 126.
+- (55) Pissurlencar ADP. page 481.
+- (56) Biker, Tratados Ⅸ page 181.
+- (57) Goa Archives. CO 19 fl. 68.
+- (58) Francisco Raymundo de Moraes Pareira, Annal Indico-Lusitano.
+- (59) Ibid, page 38-61.
+- (60) Celestino Soares, Bosquejo das Possessoes pages 138-142.
+- (61) E. Balsemao, Os Portugueses no Oriente Ⅲ Feliz Feliciano da Fonseca Relacao de him grande Combate, e victoria, que  contra o genito, a arabio coseguio a armada que do porto de Goa sahio de Guarda-Costa em Julho 1753, commandada pelo  valeroso Ismalcam, Commandante de dez Galias. BPE Ms Relacao da batalha naval que a nome N. S. da Victoria teve a Costa  do sul etc.
+- (62) J. F. de Monterroyo Mascarenhas, Epanaphora Parte Ⅲ page 26-28; F. R. de Moraes Pereira, Annal Indico-Lusitano,  Lisboa 1753, page 15.
+- (63) Relacao da victoria, com que a Divina Providencia se servio de abencoar as armas Portuguesesas contra o Regulo Mouro,  situado na Naubandel alcancada no dia 21 de Dezembro, Dr. F. R. D. Moraes Pereira, Relacao da Viagem que Marquez de  Tavora …… Lisboa 1751 page 7.
+- (64) F. R. de Moraes Pereira, Annal Indico-Lusitano Lisboa 1753, page 79-80; Dr. S. N. Sen, studies in Indian History, page  180. Goa Archives MR 124 B, files 276 (The Viceroy’s letter dated 2-2-1752).
+- (65) AHU. Maco 32, India avulsos.
+- (66) Claudio Barbuda, Instrucoes com que el-rei D Jose Ⅰ … Pangim 1841, page 46.
+- (67) Pissurlencar, Contribution a I’Etude de l’histoire de Ia Medecine Portuguese dans l’Inde, 1927; Um Frade Capucho na Corte  de Pernem In Bol. Inst. Vasco da Gama No. 24 (1934); Goa Pre-Portuguesa atraves das Escritores Lusitanos dos seculos ⅩⅥ  e ⅩⅦ; os Pandotos our Medicos Hindus, in Heraido, Goa.
+- (68) BA. 31-Ⅸ-Ⅰ Cartas da India, fl. 406.
+- (69) Goa Archives MR 90, fls. 174.
+- (70) Pissurlencar ADP, page 250.
+- (71) BNL. Caixa Ⅹ-1-15, Ms. Noticias da India desde Jan de 1749 ate Jan. de 1750.
+- (72) Goa Archives : Marathi letters.
 
-(73) Ibid.
-(74) Ibid.
-(75) [Ibid., Pissurlencar, ADP. page 255.
-(76) Dr. P. M. Joshi, Revival of Maratha Power page 162. This doctors has been mentioned as Conde Pinto Manad by Dr. P. M.  Joshi. But it is an error. lt should be Cosme Pinto Malar.
-(77) Goa Archives : Marathi Letters.
-(78) Ibid.
-(79) Ibid., Translations into Portuguese of Original Marathi Letters.
-(80) [Goa Archives : Marathi letters.
-(81) Ibid.]  
-(82) Goa Archives RV 21, fl. 36-36v. Durgabai Bhonsle Sardesai had requested the services of a Portuguese physician from Goa  for Babajirao Khanvalkar of Savantvadi (Goa Archives Marathi letter No. 2506).
-(83) Goa Archives : Marathi letters.
-(84) Pissurlencar, ADP, page 276.
-(85) Goa Archives : Narayan Shenvi Dhume’s Portuguese letter dated 15-8-1789.
-(86) Marathi letters No. 2460.
-(87) Purandare Correspondence, Part Ⅰ page 181. Goa Archives RV. 15 fl. 1.
-(88) Pissurlencar ADP. page 584.
-(89) Goa Archives : Translations into Portuguese of original Marathi letters No. 1475.
-(90) Manucel, Storia do Mogor, Ⅱ page 169.
-(91) BA 51 Ⅷ-53.
-(92) BA 51 Ⅷ-53, Livro que Contem cousas do governo do Almotace Mor em Pernambuco, Babia e India : e o governo nella  de Luis de Mendonca Furtado. Khem Savant’s letter dated April 25, 1701 saying ten Kavdis of mangoes were being sent to the  Moghul Emperor at Delhi. They should be allowed to pass without detention (page 152).
-(93) Dra Virginia Rau and Maria Fernandes Gomes de Silva, Os Maniscritos de Arquivo da casa de Cadaval respeitantes ao  Brasil 2 volumes, Coimbra, 1956, page 325.
-(94) Conde de Ficalho, Coloquios … de Garcia de Orta, Vol Ⅰ page.
-(95) Pissurlencar, ADP. pages 451, 469, 470, 478, 480.
-(96) Goa Archives CO 36 fls. 84.
+- (73) Ibid.
+- (74) Ibid.
+- (75) [Ibid., Pissurlencar, ADP. page 255.
+- (76) Dr. P. M. Joshi, Revival of Maratha Power page 162. This doctors has been mentioned as Conde Pinto Manad by Dr. P. M.  Joshi. But it is an error. lt should be Cosme Pinto Malar.
+- (77) Goa Archives : Marathi Letters.
+- (78) Ibid.
+- (79) Ibid., Translations into Portuguese of Original Marathi Letters.
+- (80) [Goa Archives : Marathi letters.
+- (81) Ibid.]  
+- (82) Goa Archives RV 21, fl. 36-36v. Durgabai Bhonsle Sardesai had requested the services of a Portuguese physician from Goa  for Babajirao Khanvalkar of Savantvadi (Goa Archives Marathi letter No. 2506).
+- (83) Goa Archives : Marathi letters.
+- (84) Pissurlencar, ADP, page 276.
+- (85) Goa Archives : Narayan Shenvi Dhume’s Portuguese letter dated 15-8-1789.
+- (86) Marathi letters No. 2460.
+- (87) Purandare Correspondence, Part Ⅰ page 181. Goa Archives RV. 15 fl. 1.
+- (88) Pissurlencar ADP. page 584.
+- (89) Goa Archives : Translations into Portuguese of original Marathi letters No. 1475.
+- (90) Manucel, Storia do Mogor, Ⅱ page 169.
+- (91) BA 51 Ⅷ-53.
+- (92) BA 51 Ⅷ-53, Livro que Contem cousas do governo do Almotace Mor em Pernambuco, Babia e India : e o governo nella  de Luis de Mendonca Furtado. Khem Savant’s letter dated April 25, 1701 saying ten Kavdis of mangoes were being sent to the  Moghul Emperor at Delhi. They should be allowed to pass without detention (page 152).
+- (93) Dra Virginia Rau and Maria Fernandes Gomes de Silva, Os Maniscritos de Arquivo da casa de Cadaval respeitantes ao  Brasil 2 volumes, Coimbra, 1956, page 325.
+- (94) Conde de Ficalho, Coloquios … de Garcia de Orta, Vol Ⅰ page.
+- (95) Pissurlencar, ADP. pages 451, 469, 470, 478, 480.
+- (96) Goa Archives CO 36 fls. 84.
 
-(97) Pissurlencar, A Pressenca do Brasil no Arquivo Historico de Goa (Ⅲ Coloquio Internacional de Estudos-Luso, Brasileiros,  Vol. Ⅱ page 356.
-(98) Biker, Tratados, Ⅶ page 215.
-(99) Goa Archives : Marathi Letters.
-(100) Frei Liandro de Madre de Deus had good influence in the Peshwa’s court. In 1755-56, he was given Rs. 25 and some  paddy from Revdanda Suba as inam. In 1764, the padre applied for an oart being given as inam to his deity for a nine day festival  of it. He asked for two salvos of gun instead of one. He was given three by Peshwa Madhaorao. He was allowed to construct a  church at Korlai (Avlaskar’s Angrekalina Ashtagar page 13). The Peshwas had also allowed him a palanquin-Y. N. Kelkar in  Amrit, October 1964, pages 200, 216.
-(101) Livro menasa book in Portuguese.
-(102) Boceta means a box in Portuguese.
-(103) Pissurlencar, ADP., page 398.
-(104) Relacao do novo Caminno que fez por terra e mar vindo da India para Portugal no anno de 1663 o Padre Manuel Godinho,  ed 1944, page 25 Fr. Loao dos Santos, Ethiopia Oriental, 1609 (ed 1891) page 271 BNP. Found Portugais No. 1, Resende,  Epilogo dos Vice-Reis.
-(105) Goa Archives : Marathi letters.
-(106) Dr. Baltazar Manoel de Chaves Annal Indico Historico, 3a parte, Lisboa, 1754, page 3.
-(107) A Fantoura da Costa, Deambulacoes da Ganda de Modafar, Rei de Combaia, de 1514 a 1516 Lisboa, 1937. (108) Pe Jose de Castro, Portugal em Roma Vol. page 160-169, C. C. Branco Narcoticos Vol. Ⅱ p. 188. (109) Peshwa Daftar Parts 16, 24, 26, 30, 34, etc.
-(110) Shivacharitra Sahitya Part 10 page and Pissurlencar Mahratta invasions of Goa.
-(111) Pissurlencar, P.M. Ⅰ Shivaji Souvenir.
-(112) Pissurlencar, Bajirao and Portuguese (Sahyadri May 1940).
-(113) Sardesai, Aitihasik Patrabodh.
-(114) Peshwa Daftar part 16 page 115.
-(115) Goa Archives : Marathi letters.
-(116) Goa Archives Marathi letters.
-(117) Goa Archives Marathi letters.
-(118) Goa Archives (Sardar Rangajipant’s letter dated 27-11-1740).
-(119) Goa Archives Marathi letters.
-(120) Goa Archives : Livro de registo das oreens da Communidade de Bandora, nol. fls. 74 (1767).
+- (97) Pissurlencar, A Pressenca do Brasil no Arquivo Historico de Goa (Ⅲ Coloquio Internacional de Estudos-Luso, Brasileiros,  Vol. Ⅱ page 356.
+- (98) Biker, Tratados, Ⅶ page 215.
+- (99) Goa Archives : Marathi Letters.
+- (100) Frei Liandro de Madre de Deus had good influence in the Peshwa’s court. In 1755-56, he was given Rs. 25 and some  paddy from Revdanda Suba as inam. In 1764, the padre applied for an oart being given as inam to his deity for a nine day festival  of it. He asked for two salvos of gun instead of one. He was given three by Peshwa Madhaorao. He was allowed to construct a  church at Korlai (Avlaskar’s Angrekalina Ashtagar page 13). The Peshwas had also allowed him a palanquin-Y. N. Kelkar in  Amrit, October 1964, pages 200, 216.
+- (101) Livro menasa book in Portuguese.
+- (102) Boceta means a box in Portuguese.
+- (103) Pissurlencar, ADP., page 398.
+- (104) Relacao do novo Caminno que fez por terra e mar vindo da India para Portugal no anno de 1663 o Padre Manuel Godinho,  ed 1944, page 25 Fr. Loao dos Santos, Ethiopia Oriental, 1609 (ed 1891) page 271 BNP. Found Portugais No. 1, Resende,  Epilogo dos Vice-Reis.
+- (105) Goa Archives : Marathi letters.
+- (106) Dr. Baltazar Manoel de Chaves Annal Indico Historico, 3a parte, Lisboa, 1754, page 3.
+- (107) A Fantoura da Costa, Deambulacoes da Ganda de Modafar, Rei de Combaia, de 1514 a 1516 Lisboa, 1937. (108) Pe Jose de Castro, Portugal em Roma Vol. page 160-169, C. C. Branco Narcoticos Vol. Ⅱ p. 188. (109) Peshwa Daftar Parts 16, 24, 26, 30, 34, etc.
+- (110) Shivacharitra Sahitya Part 10 page and Pissurlencar Mahratta invasions of Goa.
+- (111) Pissurlencar, P.M. Ⅰ Shivaji Souvenir.
+- (112) Pissurlencar, Bajirao and Portuguese (Sahyadri May 1940).
+- (113) Sardesai, Aitihasik Patrabodh.
+- (114) Peshwa Daftar part 16 page 115.
+- (115) Goa Archives : Marathi letters.
+- (116) Goa Archives Marathi letters.
+- (117) Goa Archives Marathi letters.
+- (118) Goa Archives (Sardar Rangajipant’s letter dated 27-11-1740).
+- (119) Goa Archives Marathi letters.
+- (120) Goa Archives : Livro de registo das oreens da Communidade de Bandora, nol. fls. 74 (1767).
 
-(121) Goa Archives : CPA 178, fls. 68 (“queimar, destmir e saquear hos repetidos suarins onze aIdeas e muitas metas”). (122) Pissurlencar ADP.
+- (121) Goa Archives : CPA 178, fls. 68 (“queimar, destmir e saquear hos repetidos suarins onze aIdeas e muitas metas”). (122) Pissurlencar ADP.
 
 ## Pics
 

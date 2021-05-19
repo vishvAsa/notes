@@ -451,228 +451,228 @@ Karnatak and Firangana quake with fear.
 Great Captains have lost courage and the doors of Bijapur Golconda, Agra and Delhi  forts open only once a fortnight and not daily.217
 
 ## NOTES
-1) A hon is equal to Rs. 4.
-2) Pissurlencar, Antigualhas, Ⅰ, p. 52; J. Sarkar, House of Shivaji 3rd ed., p. 39.
-3) Pissurlencar, Assentos Ⅱ, pp. 113-5.
-4) Pissurlencar, PM, Ⅰ, Shivaji, p. 3n.
-5) Ibid.
-6) Pissurlencar, Assentos Ⅲ, pp. 295, 296, 347, 348, 357, 366, 371, 372, 374, 375, 561, 562, 579, 583, 595, 631, and 633; Goa  Archives : D. Francisco Luiz Lobo’s petition dated 18 February 1658. Baltazar Mascarenhas, a Brahman Christian of Sirula  (Shiroda) from Bardez was the first to inform the Goa Government about this conspiracy. About Mateos de Castro, see Don  Theodore Ghesquiere’s Mathieu de Castro (Louvain, 1937) and P. Carlo Cavallera, Matteo de Castro Mahalo, Primo Vicario  Apostolico dell’ India, Roma, 1936. There is information about this Bishop’s intrigues with the Dutch against the Portuguese in  Corpus Diplomaticum Neerlando Indicam, Vol. I (1596-1650). The letter of Bishop Mateos addressed to Brahman Christians of  Goa in regard to this revolt is in the records of the Jesuits in Rome (Goa 40, fls. 373r-383v). The author has a photostat copy of  this letter.
-7) Letter of Shahaji Raje (Shivaji Souvenir, p. 115). There is mention of Suryarao, an ancestor of some Desais of Bhatagram,  having gone to see Shahaji (G. S. Sardesai’s historical letters etc. p. 15). A letter written by the Portuguese Governor, Fernao de  Albuquerque, to Suryarao, Desai of Bicholim, is available (Goa Archives, RV No. 1, fls. 58v). From the Kaulnama dated 27  November 1668, it would appear that the Desais of Bhatagram had contact with Shahaji (S. N. Joshi, Collection of letters of  Shivaji’s times, Part Ⅲ, p. 106).
-8) Goa Archives, MR 26, fl. 78.
-9) Goa Archives, MR 26, fl. 383v.
-10) C. R. Boxer, The Carreira da India, 1650-1750, reprinted from The Mariner’s Mirror Vol. 46, No. 1, February 1960, p. 53. The  Portuguese called the ships built by Shivaji sanguiceis because such ships were built on the Sangameshwar river. These ships  usually carried 20 armed men. (Diogo do Couto, Decada Ⅹ, Parte Ⅰ, p. 521). About 1590, a sardar named Maloji rose in revolt  against Adilkhan and set up his fleet in Sangameshwar river. The Portuguese destroyed this fleet (Goa Archives, MR 3A, fl.  407v).
-11) “Trezentos soldados brancos e pretos” (300 Portuguese soldiers, white and black). AHV. India, avulsos (Caixa 25).
-12) Pissurlencar, “Attitude of the Portuguese towards Shivaji during the campaign of Shaista Khan and Jaisingh” in Proceedings  of the Indian Historical Records Commission, Ninth Meeting, December 1926.
-13) BNL “Livro das Cartas que esrevo a S.M. o. Sr. Don Rodrigo da Costa” fl. 25 (manuscript No. 8538). 14) AHU. India avulsos (Caixa No. 25); Pissurlencar, Assentos Ⅳ, pp. 6, 7.
-15) Pissurlencar, Maratas em Baçaim, pp. 2, 3.
-16) Pissurlencar, Assentos Ⅳ, p. 141.
-17) Letter to the King of Portugal from Vice-Rei Conde de San Vincente, dated 20 September, 1667 (BNP, Fond Portugais, Ms.  33, fl. 129); Assentos Ⅳ, p. 189n.
+- 1) A hon is equal to Rs. 4.
+- 2) Pissurlencar, Antigualhas, Ⅰ, p. 52; J. Sarkar, House of Shivaji 3rd ed., p. 39.
+- 3) Pissurlencar, Assentos Ⅱ, pp. 113-5.
+- 4) Pissurlencar, PM, Ⅰ, Shivaji, p. 3n.
+- 5) Ibid.
+- 6) Pissurlencar, Assentos Ⅲ, pp. 295, 296, 347, 348, 357, 366, 371, 372, 374, 375, 561, 562, 579, 583, 595, 631, and 633; Goa  Archives : D. Francisco Luiz Lobo’s petition dated 18 February 1658. Baltazar Mascarenhas, a Brahman Christian of Sirula  (Shiroda) from Bardez was the first to inform the Goa Government about this conspiracy. About Mateos de Castro, see Don  Theodore Ghesquiere’s Mathieu de Castro (Louvain, 1937) and P. Carlo Cavallera, Matteo de Castro Mahalo, Primo Vicario  Apostolico dell’ India, Roma, 1936. There is information about this Bishop’s intrigues with the Dutch against the Portuguese in  Corpus Diplomaticum Neerlando Indicam, Vol. I (1596-1650). The letter of Bishop Mateos addressed to Brahman Christians of  Goa in regard to this revolt is in the records of the Jesuits in Rome (Goa 40, fls. 373r-383v). The author has a photostat copy of  this letter.
+- 7) Letter of Shahaji Raje (Shivaji Souvenir, p. 115). There is mention of Suryarao, an ancestor of some Desais of Bhatagram,  having gone to see Shahaji (G. S. Sardesai’s historical letters etc. p. 15). A letter written by the Portuguese Governor, Fernao de  Albuquerque, to Suryarao, Desai of Bicholim, is available (Goa Archives, RV No. 1, fls. 58v). From the Kaulnama dated 27  November 1668, it would appear that the Desais of Bhatagram had contact with Shahaji (S. N. Joshi, Collection of letters of  Shivaji’s times, Part Ⅲ, p. 106).
+- 8) Goa Archives, MR 26, fl. 78.
+- 9) Goa Archives, MR 26, fl. 383v.
+- 10) C. R. Boxer, The Carreira da India, 1650-1750, reprinted from The Mariner’s Mirror Vol. 46, No. 1, February 1960, p. 53. The  Portuguese called the ships built by Shivaji sanguiceis because such ships were built on the Sangameshwar river. These ships  usually carried 20 armed men. (Diogo do Couto, Decada Ⅹ, Parte Ⅰ, p. 521). About 1590, a sardar named Maloji rose in revolt  against Adilkhan and set up his fleet in Sangameshwar river. The Portuguese destroyed this fleet (Goa Archives, MR 3A, fl.  407v).
+- 11) “Trezentos soldados brancos e pretos” (300 Portuguese soldiers, white and black). AHV. India, avulsos (Caixa 25).
+- 12) Pissurlencar, “Attitude of the Portuguese towards Shivaji during the campaign of Shaista Khan and Jaisingh” in Proceedings  of the Indian Historical Records Commission, Ninth Meeting, December 1926.
+- 13) BNL “Livro das Cartas que esrevo a S.M. o. Sr. Don Rodrigo da Costa” fl. 25 (manuscript No. 8538). 14) AHU. India avulsos (Caixa No. 25); Pissurlencar, Assentos Ⅳ, pp. 6, 7.
+- 15) Pissurlencar, Maratas em Baçaim, pp. 2, 3.
+- 16) Pissurlencar, Assentos Ⅳ, p. 141.
+- 17) Letter to the King of Portugal from Vice-Rei Conde de San Vincente, dated 20 September, 1667 (BNP, Fond Portugais, Ms.  33, fl. 129); Assentos Ⅳ, p. 189n.
 
-18) “Galleywats or gallivats, were large rowing-boats with two masts, of 40 to 70 tons, and carrying four to eight guns  (Biddulph, The Pirates of Malabar, 1907, p. 92n.).
-19) Cosme de Guarda, Vida de Celebro Sivagy, 1730, p. 139.
-20) Goa Archives, RV Nos. 2 and 3 Dr. S. N. Sen, Preliminary Report on Historical Records of Goa. 21) Guarda, Sevagy, p. 139-41.
-22) Goa Archives. Livro de consultas, No. 5 : Serviços de D. Fernando de Castro : “… no reconhecer de uma armada do Sevagi  que andava entre os Ⅰlheos de Mormugao, que foi trazida a Goa, com os parangues que tinha tomado…”
-23) Goa Archives, RV, No. 2, fls. 36v-37.
-24) Goa Archives, Papeis avulsos.
-25) Sen, Military system of the Marathas, 1928, p. 183.
-26) Goa Archives : “O Sivagi se emsobrebeçeo de maneira pello successo possado que se atreveo a mandar por uma armada  nos Ⅰlheos de Mormugao a impedir os mantimentos que vinhao para esta cidade.”.
-27) Pissurlencar, Assentos Ⅳ, pp. 347. 348.
-28) Goa Archives. RV, No. 2, fl. 27.
-29) Pissurlencar, Maratas em Baçaim, p. 9n.
-30) Collection of Letters in Shivaji’s Times Part Ⅱ, p. 385.
-31) For instance, Dr. S. N. Sen, Military System of the Marathas, p. 186; Sir Jadunath Sarkar, Sivaji, 1952, p. 263.
-32) Goa Archives : “e na palleja que e nossa Armada teve com a do inimigo Sevagi em que lhe tomarao tres barcos de guerra da  Enseada de Quellocy e … na peleja que ouve com dezoito barcos do mesmo Sevagi na tomada de duas galleotas appataxadas  …” Livro de consultas, No. 2 fl. 97. (Requerimento dos serviços de Don Aleixo de Almeida fidalgo da Caza de V. Magestade).
-33) Sir Jadunath Sarkar, Shivaji, 1952, p. 252.
-34) Pissurlencar, Assentos Ⅳ, pp. 5, 6.
-35) Biker, Tratados Ⅳ, pp. 136-8.
-36) Goa Archives. Livro de Chaul, No. 1, fl. 35v.
-37) Biker, Tratados IV, pp. 171-5; “Pissurlencar, Shivaji and the Portuguese” in Shivaji Souvenir, pp. 123-33. 38) Pissurlencar. Assentos Ⅳ, pp. 214-16.
-39) Ibid. pp. 225, 226.
-40) Albuquerque’s letter dated 30 November 1513. Cartas de Afonso de Albuquerque, tomo Ⅰ. p. 136. 41) Pissurlencar, Assentos Ⅳ, p. 555.
-42) Ibid, p. 556.
+- 18) “Galleywats or gallivats, were large rowing-boats with two masts, of 40 to 70 tons, and carrying four to eight guns  (Biddulph, The Pirates of Malabar, 1907, p. 92n.).
+- 19) Cosme de Guarda, Vida de Celebro Sivagy, 1730, p. 139.
+- 20) Goa Archives, RV Nos. 2 and 3 Dr. S. N. Sen, Preliminary Report on Historical Records of Goa. 21) Guarda, Sevagy, p. 139-41.
+- 22) Goa Archives. Livro de consultas, No. 5 : Serviços de D. Fernando de Castro : “… no reconhecer de uma armada do Sevagi  que andava entre os Ⅰlheos de Mormugao, que foi trazida a Goa, com os parangues que tinha tomado…”
+- 23) Goa Archives, RV, No. 2, fls. 36v-37.
+- 24) Goa Archives, Papeis avulsos.
+- 25) Sen, Military system of the Marathas, 1928, p. 183.
+- 26) Goa Archives : “O Sivagi se emsobrebeçeo de maneira pello successo possado que se atreveo a mandar por uma armada  nos Ⅰlheos de Mormugao a impedir os mantimentos que vinhao para esta cidade.”.
+- 27) Pissurlencar, Assentos Ⅳ, pp. 347. 348.
+- 28) Goa Archives. RV, No. 2, fl. 27.
+- 29) Pissurlencar, Maratas em Baçaim, p. 9n.
+- 30) Collection of Letters in Shivaji’s Times Part Ⅱ, p. 385.
+- 31) For instance, Dr. S. N. Sen, Military System of the Marathas, p. 186; Sir Jadunath Sarkar, Sivaji, 1952, p. 263.
+- 32) Goa Archives : “e na palleja que e nossa Armada teve com a do inimigo Sevagi em que lhe tomarao tres barcos de guerra da  Enseada de Quellocy e … na peleja que ouve com dezoito barcos do mesmo Sevagi na tomada de duas galleotas appataxadas  …” Livro de consultas, No. 2 fl. 97. (Requerimento dos serviços de Don Aleixo de Almeida fidalgo da Caza de V. Magestade).
+- 33) Sir Jadunath Sarkar, Shivaji, 1952, p. 252.
+- 34) Pissurlencar, Assentos Ⅳ, pp. 5, 6.
+- 35) Biker, Tratados Ⅳ, pp. 136-8.
+- 36) Goa Archives. Livro de Chaul, No. 1, fl. 35v.
+- 37) Biker, Tratados IV, pp. 171-5; “Pissurlencar, Shivaji and the Portuguese” in Shivaji Souvenir, pp. 123-33. 38) Pissurlencar. Assentos Ⅳ, pp. 214-16.
+- 39) Ibid. pp. 225, 226.
+- 40) Albuquerque’s letter dated 30 November 1513. Cartas de Afonso de Albuquerque, tomo Ⅰ. p. 136. 41) Pissurlencar, Assentos Ⅳ, p. 555.
+- 42) Ibid, p. 556.
 CONTENTS43) Ibid, p. 346-7.
-44) Pissurlencar, Tentativas dos Portugueses para a ocupaçao do concao; The attitude of the Portuguese towards Shivaji. 45) Goa Archives, RV No. 2, fl. 17; Pissurlencar PM, 1 p. 7n.
-46) Goa Archives, RV No. 2, fl. 14v.
-47) Goa Archives. RV No. 2, fl. 16v. : “por ser tao inclinado as cousas de V. S.” (Vice-Rei’s letter to Shivaji dated 2 June 1663,  Pissurlencar, PM, 1 p. 8.
-48) Collect ion of letters etc. of Shivaji’s times, Part I, No. 41, p. 231.
-49) A Portuguese Jesuit padre, Fernao de Ceiros lived in Goa for many years. He wrote a book in 1680 called, Conquista  Temporal e Spiritual de Ceylao in which he says : “That the Natives call that tract of land below the Gate, Concao, and the  inhabitants Concannis … But the most usual thing among these people, is to reckon Concao from Banda, which is five leagues to  the north of the bar of Goa, up to Mirzeo.” (English translation).
-50) Dagh Registar. Letter dated 14 November 1663; Dr. Balkrishna. Shivaji, Ⅰ, p. 538.
-51) Assentos, Ⅳ, p. 188.
-52) Collection of letters etc. of Shivaji’s times, Part Ⅰ No. 1221, p. 791.
-53) Pissurlencar, Os Primeiros Goeses em Portugal, in Boletim, Instituto Vasco da Gama, No. 31 (1936); Leonarde Nunes,  Cronica de Dom Joao de Castro, pp. 13-17, 36, 139. 163; Antonio de Castilho, Commentario de cerco de Goa e Chaul no ano de  1750; Padre Francisco de Souza, Oriente Conquistado a Jesu Christo, Ⅱ, Conw. Ⅰ, div. Ⅱ, p. 26.
-54) Pissurlencar, Assentos, Ⅲ, pp. 371-376, 579; Vol. Ⅳ, pp. 3, 13; William Foster EFI 1655-1660, p. 247 (Revington’s letter  dated 10 December 1659).
-55) Collection of letters etc. of Shivaji’s times, Part Ⅰ, No. 959.
-56) Assentos, Ⅳ, p. 137.
-57) Goa Archives, RV No. 2, fl. 16v : “por ser tao inclinado as cousas de V. S.” Vice-Rei’s letter to Keshav Naik and Keshav  Prabhu dated 19 June 1663.
-58) Goa Archives, RV No. 2, fls. 21-21 v.
-59) Goa Archives, RV No. 2, fl. 21 v.
-60) Pissurlencar, Antigualhas, pp. 108-16.
-61) BACL, Manuscript No. 58, p. 75; Sivagi entrou e roubou Surrate e no mez passado Bicholim e toda fronteira ate Raibag e  Xapur (Letter dated 4 January, 1665).
-62) Lakham Savant used to stay at Candolim near Aguada, the Desais of Pernem at Colvale and those of Sanquelim and  Bicholim at Panvel.
-63) Goa Archives, MR No. 31, fl. 20; Pissurlencar, Antigualhas, p. 113.
-64) Goa Archives, RV No. 2, fl. 33; Pissurlencar, Antigualhas, p. 114.
+- 44) Pissurlencar, Tentativas dos Portugueses para a ocupaçao do concao; The attitude of the Portuguese towards Shivaji. 45) Goa Archives, RV No. 2, fl. 17; Pissurlencar PM, 1 p. 7n.
+- 46) Goa Archives, RV No. 2, fl. 14v.
+- 47) Goa Archives. RV No. 2, fl. 16v. : “por ser tao inclinado as cousas de V. S.” (Vice-Rei’s letter to Shivaji dated 2 June 1663,  Pissurlencar, PM, 1 p. 8.
+- 48) Collect ion of letters etc. of Shivaji’s times, Part I, No. 41, p. 231.
+- 49) A Portuguese Jesuit padre, Fernao de Ceiros lived in Goa for many years. He wrote a book in 1680 called, Conquista  Temporal e Spiritual de Ceylao in which he says : “That the Natives call that tract of land below the Gate, Concao, and the  inhabitants Concannis … But the most usual thing among these people, is to reckon Concao from Banda, which is five leagues to  the north of the bar of Goa, up to Mirzeo.” (English translation).
+- 50) Dagh Registar. Letter dated 14 November 1663; Dr. Balkrishna. Shivaji, Ⅰ, p. 538.
+- 51) Assentos, Ⅳ, p. 188.
+- 52) Collection of letters etc. of Shivaji’s times, Part Ⅰ No. 1221, p. 791.
+- 53) Pissurlencar, Os Primeiros Goeses em Portugal, in Boletim, Instituto Vasco da Gama, No. 31 (1936); Leonarde Nunes,  Cronica de Dom Joao de Castro, pp. 13-17, 36, 139. 163; Antonio de Castilho, Commentario de cerco de Goa e Chaul no ano de  1750; Padre Francisco de Souza, Oriente Conquistado a Jesu Christo, Ⅱ, Conw. Ⅰ, div. Ⅱ, p. 26.
+- 54) Pissurlencar, Assentos, Ⅲ, pp. 371-376, 579; Vol. Ⅳ, pp. 3, 13; William Foster EFI 1655-1660, p. 247 (Revington’s letter  dated 10 December 1659).
+- 55) Collection of letters etc. of Shivaji’s times, Part Ⅰ, No. 959.
+- 56) Assentos, Ⅳ, p. 137.
+- 57) Goa Archives, RV No. 2, fl. 16v : “por ser tao inclinado as cousas de V. S.” Vice-Rei’s letter to Keshav Naik and Keshav  Prabhu dated 19 June 1663.
+- 58) Goa Archives, RV No. 2, fls. 21-21 v.
+- 59) Goa Archives, RV No. 2, fl. 21 v.
+- 60) Pissurlencar, Antigualhas, pp. 108-16.
+- 61) BACL, Manuscript No. 58, p. 75; Sivagi entrou e roubou Surrate e no mez passado Bicholim e toda fronteira ate Raibag e  Xapur (Letter dated 4 January, 1665).
+- 62) Lakham Savant used to stay at Candolim near Aguada, the Desais of Pernem at Colvale and those of Sanquelim and  Bicholim at Panvel.
+- 63) Goa Archives, MR No. 31, fl. 20; Pissurlencar, Antigualhas, p. 113.
+- 64) Goa Archives, RV No. 2, fl. 33; Pissurlencar, Antigualhas, p. 114.
 
-65) Goa Archives : RV No. 2, fl. 32 (Viceroy’s letter to the envoy of Adilshah dated 13 December, 1664), fl. 33 (Viceroy’s letter to  Khavas Khan dated 13 December, 1664). Pissurlencar, Antigualhas, p. 115.
-66) Goa Archives : RV No. 2, fl. 31; Pissurlencar PM, Ⅰ, p. 12.
-67) Goa Archives, RV No. 2, fl. 31 v.
-68) Goa Archives, MR No. 31, fl. 244.
-69) Goa Archives, RV No. 2, fl. 32.
-70) Goa Archives, RV No. 2, fl. 31 (Viceroy’s letter to Krishna Savant dated 11 November 1664); Pissurlencar Antigualhas, p.  114.
-71) Goa Archives, No. 31, fl. 20; Pissurlencar, Antigualhs, p. 113.
-72) Chronicle of Shivaji by Chitragupta edited by Sane), p. 113. G.D. Gribble, A History of the Deccan, Vol. Ⅰ. 73) Goa Archives, MR No. 30, fl. 143; Pissurlencar PM, Ⅰ, p. 9.
-74) Goa Archives : MR No. 30, fl. 159; Pissurlencar, Maratas em Baçaim, p. 4, 5.
-75) Pissurlencar, Maratas em Baçam, pp. 5-8; The Attitude of the Portuguese towards Shivaji.
-76) Pissurlencar, The Attitude of the Portuguese; Cosme de Guarda, Vida do Celebre Sevagy, pp. 143-144. 77) Biker, Tratados, Ⅳ, pp. 125-6.
-78) The following clause occurs in the Moghul-Portuguese treaty; “The Portuguese should not give shelter to anyone who might  rebel against the Moghul Emperor. If anyone did, it should be regarded as if he had risen in revolt against the King of Portugal.
-79) Pissurlencar, Assentos Ⅳ, pp. 171-2.
-80) Ibid, pp. 151-3.
-81) Goa Archives : RV No. 2, fls. 46v-47 (Viceroy’s letter to Adilshah dated 9 October, 1666); RV No. 2, fls. 44-44v (Viceroy’s  letter to Rustomjama dated 5 May 1666).
-82) Goa Archives : Livro de Chaul, No. 1, fl. 12v
-83) Sarkar, House of Shivaji, 1955, pp. 167-170; Shivaji’s Visit to Aurangzeb at Agra, pp. 40, 41, 59. The well-known historical  scholar, G. H. Khare, secured a Hindi letter (dated 16 August 1666-newstyle) and published it in July 1964. The earliest known  mention of Shivaji’s escape is in this letter. In the light of this, Sarkar’s statement has to be modified. (Quarterly Journal of Bharat  Itihas Samshodhak Mandal, Vol. 40, Nos. 1-4).
-84) Rajasthani letter No. 56, from Parkaldas to Kalyandas dated 18 November 1666 (Sarkar, Shivaji’s visit to Aurangzeb at Agra,  p. 58).
-85) Pissurlencar, Assentos Ⅳ, pp. 170-4; Sarkar, Shivaji, 1952, pp. 154-5, 157-9, 402.
-86) S. R. Sharma, Maratha History Re-Examined, p. 158.
-87) BNP, Fond Portugais, 33, fl. 129. “as astucias, o valor, a actividade, e a prudencia militar deste homem se pode igoalar  com a dos Cesares e Alexandres … he homem que esta em toda a parte e nao tem lugar certo em nenhuma.”
+- 65) Goa Archives : RV No. 2, fl. 32 (Viceroy’s letter to the envoy of Adilshah dated 13 December, 1664), fl. 33 (Viceroy’s letter to  Khavas Khan dated 13 December, 1664). Pissurlencar, Antigualhas, p. 115.
+- 66) Goa Archives : RV No. 2, fl. 31; Pissurlencar PM, Ⅰ, p. 12.
+- 67) Goa Archives, RV No. 2, fl. 31 v.
+- 68) Goa Archives, MR No. 31, fl. 244.
+- 69) Goa Archives, RV No. 2, fl. 32.
+- 70) Goa Archives, RV No. 2, fl. 31 (Viceroy’s letter to Krishna Savant dated 11 November 1664); Pissurlencar Antigualhas, p.  114.
+- 71) Goa Archives, No. 31, fl. 20; Pissurlencar, Antigualhs, p. 113.
+- 72) Chronicle of Shivaji by Chitragupta edited by Sane), p. 113. G.D. Gribble, A History of the Deccan, Vol. Ⅰ. 73) Goa Archives, MR No. 30, fl. 143; Pissurlencar PM, Ⅰ, p. 9.
+- 74) Goa Archives : MR No. 30, fl. 159; Pissurlencar, Maratas em Baçaim, p. 4, 5.
+- 75) Pissurlencar, Maratas em Baçam, pp. 5-8; The Attitude of the Portuguese towards Shivaji.
+- 76) Pissurlencar, The Attitude of the Portuguese; Cosme de Guarda, Vida do Celebre Sevagy, pp. 143-144. 77) Biker, Tratados, Ⅳ, pp. 125-6.
+- 78) The following clause occurs in the Moghul-Portuguese treaty; “The Portuguese should not give shelter to anyone who might  rebel against the Moghul Emperor. If anyone did, it should be regarded as if he had risen in revolt against the King of Portugal.
+- 79) Pissurlencar, Assentos Ⅳ, pp. 171-2.
+- 80) Ibid, pp. 151-3.
+- 81) Goa Archives : RV No. 2, fls. 46v-47 (Viceroy’s letter to Adilshah dated 9 October, 1666); RV No. 2, fls. 44-44v (Viceroy’s  letter to Rustomjama dated 5 May 1666).
+- 82) Goa Archives : Livro de Chaul, No. 1, fl. 12v
+- 83) Sarkar, House of Shivaji, 1955, pp. 167-170; Shivaji’s Visit to Aurangzeb at Agra, pp. 40, 41, 59. The well-known historical  scholar, G. H. Khare, secured a Hindi letter (dated 16 August 1666-newstyle) and published it in July 1964. The earliest known  mention of Shivaji’s escape is in this letter. In the light of this, Sarkar’s statement has to be modified. (Quarterly Journal of Bharat  Itihas Samshodhak Mandal, Vol. 40, Nos. 1-4).
+- 84) Rajasthani letter No. 56, from Parkaldas to Kalyandas dated 18 November 1666 (Sarkar, Shivaji’s visit to Aurangzeb at Agra,  p. 58).
+- 85) Pissurlencar, Assentos Ⅳ, pp. 170-4; Sarkar, Shivaji, 1952, pp. 154-5, 157-9, 402.
+- 86) S. R. Sharma, Maratha History Re-Examined, p. 158.
+- 87) BNP, Fond Portugais, 33, fl. 129. “as astucias, o valor, a actividade, e a prudencia militar deste homem se pode igoalar  com a dos Cesares e Alexandres … he homem que esta em toda a parte e nao tem lugar certo em nenhuma.”
 
-88) Goa Archives : RV No. 2, fl. 48.
-89) Goa Archives : RV No. 2, fl. 48 v.
-90) Goa Archives : RV No. 2, fl. 49.
-91) Vice-Rei’s letter to the King of Portugal dated 20 September 1667; “e (Shivaji) fica hoje muito nosso vizinho em ponda”.  (BNP, Fond Portugais 33, fl. 129).
-92) Goa Archives CO No. 4 fl. 63 v (Vice-Rei’s letter to Reitor of Colvale dated 12 October 1667; RV No. 2, fl. 69 (Vice-Rei’s  letter to Keshav Naik, Desai of Pernem, dated 27 September, 1667).
-93) What Sarkar has written while commenting on the sentence ‘com e favour do Vice Rey’s is baseless. Those words refer to  the frantic efforts made by the Viceroy to turn Bardez Hindus into Christians. Sir Janunath has written : The words, ‘favour of the  Viceroy’ do not mean force but only the prohibition of the sale of Hindus as slaves to other than the Christian fathers who  converted them” (Shivaji, 1952, p. 355). That Sir Janunath’s conclusion is incorrect is clear in the light of the extract from Vergel  de Plantas e lores da Provincia da Madrerde Deos dos Compuchos Reformados.
-94) Fr. Jacinto de Deos, Vergel, p. 20.
-95) Goa Archives : MR No. 42, fl. 177.
-96) BNL, Livro das Cartas que escreveo a SM. o Sr. Don Rodrigo da Costa.
-97) J. Sarkar, A short history of Aurangzeb (Chapter Ⅷ).
-98) Fernao da Miranda Henriques, Captain of Cheul, wrote in his letter dated 27 December, 1664 that Afzul Khan had ordered all  Hindu temples in Upper Cheul to be demolished (Goa Archives : MR 24, fl. 366) Dr. Balkrishna, Shivaji the Great, Part Ⅳ p. 172  (Muslim persecution of the Hindus).
-99) Pissurlencar, Roteiro, pp. 62-95; Assentos, 5 vols; Tombo Geral de Francisco Paes; C. Rivara, Archivo; Padre A. Silva  Rego, Documentaçao : J. Wicki. Documenta Indica; Padre Sebastiao Gonçalves, Historia da Companhia de Jesus, etc.
-100) Pissurlencar, Antigualhas, pp. 128-30; Assentos Ⅲ, pp. 475, 476; A Bocarro Fortalezas da India (1635) : “Conde de  Linhares … Mandou lançar bandos que nenhum genito morasse nem tivesse fazendas nas ditas terras de Salcette, antes que se  nao quizeçe fazer Christao, se foçe dellas dentro em tantos dias como em effeito se cumprio e se forao muitos.” The purport of  this is that Hindus who did not wish to embrace Christianity should leave Salcette within a specified period. Accordingly, many  people bid adieu to Salcette and the land they owned for all time.
+- 88) Goa Archives : RV No. 2, fl. 48.
+- 89) Goa Archives : RV No. 2, fl. 48 v.
+- 90) Goa Archives : RV No. 2, fl. 49.
+- 91) Vice-Rei’s letter to the King of Portugal dated 20 September 1667; “e (Shivaji) fica hoje muito nosso vizinho em ponda”.  (BNP, Fond Portugais 33, fl. 129).
+- 92) Goa Archives CO No. 4 fl. 63 v (Vice-Rei’s letter to Reitor of Colvale dated 12 October 1667; RV No. 2, fl. 69 (Vice-Rei’s  letter to Keshav Naik, Desai of Pernem, dated 27 September, 1667).
+- 93) What Sarkar has written while commenting on the sentence ‘com e favour do Vice Rey’s is baseless. Those words refer to  the frantic efforts made by the Viceroy to turn Bardez Hindus into Christians. Sir Janunath has written : The words, ‘favour of the  Viceroy’ do not mean force but only the prohibition of the sale of Hindus as slaves to other than the Christian fathers who  converted them” (Shivaji, 1952, p. 355). That Sir Janunath’s conclusion is incorrect is clear in the light of the extract from Vergel  de Plantas e lores da Provincia da Madrerde Deos dos Compuchos Reformados.
+- 94) Fr. Jacinto de Deos, Vergel, p. 20.
+- 95) Goa Archives : MR No. 42, fl. 177.
+- 96) BNL, Livro das Cartas que escreveo a SM. o Sr. Don Rodrigo da Costa.
+- 97) J. Sarkar, A short history of Aurangzeb (Chapter Ⅷ).
+- 98) Fernao da Miranda Henriques, Captain of Cheul, wrote in his letter dated 27 December, 1664 that Afzul Khan had ordered all  Hindu temples in Upper Cheul to be demolished (Goa Archives : MR 24, fl. 366) Dr. Balkrishna, Shivaji the Great, Part Ⅳ p. 172  (Muslim persecution of the Hindus).
+- 99) Pissurlencar, Roteiro, pp. 62-95; Assentos, 5 vols; Tombo Geral de Francisco Paes; C. Rivara, Archivo; Padre A. Silva  Rego, Documentaçao : J. Wicki. Documenta Indica; Padre Sebastiao Gonçalves, Historia da Companhia de Jesus, etc.
+- 100) Pissurlencar, Antigualhas, pp. 128-30; Assentos Ⅲ, pp. 475, 476; A Bocarro Fortalezas da India (1635) : “Conde de  Linhares … Mandou lançar bandos que nenhum genito morasse nem tivesse fazendas nas ditas terras de Salcette, antes que se  nao quizeçe fazer Christao, se foçe dellas dentro em tantos dias como em effeito se cumprio e se forao muitos.” The purport of  this is that Hindus who did not wish to embrace Christianity should leave Salcette within a specified period. Accordingly, many  people bid adieu to Salcette and the land they owned for all time.
 In the Bibliotheque Nacionale de Paris, there is a certificate given to Conde de Linhares for this good deed by the  Jesuit fathers. It is included in the manuscript by Barreto de Resende called Epilogo dos Vice-Reis. (BNP, Fond Portugais 1, fl.  68).
-101) Pe. A de Silva Rego, Documentaçao, Vol. 8, p. 59; Pe Joseph Wicki, Documenta, Vol. Ⅳ, pp. 650, 825; Pissurlencar,  Bharatamitra, January 1939.
-102) Pe A. de Silva Rego, Portuguese Colonizacao in the Sixteenth Century, 1959, p. 64.
+- 101) Pe. A de Silva Rego, Documentaçao, Vol. 8, p. 59; Pe Joseph Wicki, Documenta, Vol. Ⅳ, pp. 650, 825; Pissurlencar,  Bharatamitra, January 1939.
+- 102) Pe A. de Silva Rego, Portuguese Colonizacao in the Sixteenth Century, 1959, p. 64.
 In Shivaji’s times, most Hindus in the territory under the Portuguese had been converted to Christianity, though some  Hindus still remained. For them, the old laws were in vogue. One of the most irksome of these laws was about orphans below  fourteen. Even if the mother was alive such children were forcibly converted. So what Sir Janunath says must be dismissed as a  half-truth (Shivaji, p. 354).
-103) Pissurlencar, Antigualhas, p. 123.
+- 103) Pissurlencar, Antigualhas, p. 123.
 
-104) Ibid.
-105) The English in Surat recorded that, entering Bardez, Shivaji resorted to arson and carried away 1,300 captives. (Letters etc.  of Shivaji’s Times, Part Ⅰ, p. 333) Lenartz, the Dutch factor of Vengurla, said, in his letter dated 28 November, 1667, that Shivaji  carried away 1,600 captives (Dr. Balkrishna, Shivaji Ⅰ, p. 573).
-106) Dr. Balkrishna, Shivaji the Great, Vol. p. 575; After this Shivaji … made all his sodiers (5,000 foot soldiers and 1,000  horsemen) bake dry wheat cakes for three days in this place and departed…… and came on the 20th next (being Sunday when  everybody was attending mass) to surprise Bardees… He carried away 1,600 natives, mostly women and young girls. Besides he  had several Christians put to death, among whom there were three priests.”
-107) BNL. Livro das cartas que escreveo a S. M. o Senhor Don Rodrigo da Costa, fl. 24 v (manuscript No. 8538). 108) Memorias para a historia eclesiastica de Goa e Missoes da Asia (BNL, Manuscript No. 177). 109) Pissurlencar, Antigualhas, pp. 121-2.
-110) Goa Archives : Livro das merces, 1638. fl. 62.
-111) Goa Archives : RV No. 2, fl. 66.
-112) BNP, Fond Portugais, 33, fl. 129 v.
+- 104) Ibid.
+- 105) The English in Surat recorded that, entering Bardez, Shivaji resorted to arson and carried away 1,300 captives. (Letters etc.  of Shivaji’s Times, Part Ⅰ, p. 333) Lenartz, the Dutch factor of Vengurla, said, in his letter dated 28 November, 1667, that Shivaji  carried away 1,600 captives (Dr. Balkrishna, Shivaji Ⅰ, p. 573).
+- 106) Dr. Balkrishna, Shivaji the Great, Vol. p. 575; After this Shivaji … made all his sodiers (5,000 foot soldiers and 1,000  horsemen) bake dry wheat cakes for three days in this place and departed…… and came on the 20th next (being Sunday when  everybody was attending mass) to surprise Bardees… He carried away 1,600 natives, mostly women and young girls. Besides he  had several Christians put to death, among whom there were three priests.”
+- 107) BNL. Livro das cartas que escreveo a S. M. o Senhor Don Rodrigo da Costa, fl. 24 v (manuscript No. 8538). 108) Memorias para a historia eclesiastica de Goa e Missoes da Asia (BNL, Manuscript No. 177). 109) Pissurlencar, Antigualhas, pp. 121-2.
+- 110) Goa Archives : Livro das merces, 1638. fl. 62.
+- 111) Goa Archives : RV No. 2, fl. 66.
+- 112) BNP, Fond Portugais, 33, fl. 129 v.
 The date of the original letter is 20 September 1667. After this date at the end of the letter is the detailed report  reproduced below. Obviously the information contained therein was written after the conclusion of the treaty of 5 December  1667. Vice-Rei Conde de San Vincente says :
 Depois de ter dado a V. Magde, conta do Estado da Asia, chegou Correo de Glanda, para os ministros da  Companhia, e como eu tenho entre elles pessoa de confiança, sobre o seguinte : Mandao ao seu geral que se venha a Cochim  com a armada e (porque elles tem muitos navios) sera o numero delles a medida da sua necessidade, que sem romper com os  Portugueses de todo, que facao as ostillidades possiveis em os navios que passarem ao sul… que va pessoa a Idalxa sobre  romper com os Portugueses, e que se arive a guerra do Canara, e de todas as outras partes com segredo, porem que  descobertamente se nao façao ostillidades aos nosses barcos…
 Com este avizo despachey a procupar Sivagi que nao duvidou, em se agustar comigo, entre ao Capitul açcoes  tivemos muitas duvidas, porque este homem; he assas cavilose; concluimos bem, e me da feitoria em Dabul (cauza utilissima  ao Estado) que ja tivemos e perdemos como o mais. O Idalxa esta muito com os olandezes, inda nao tive reposta sua…”.
-113) Dr. Balkrishna, Shivaji the Great, Vol. Ⅰ, p. 574.
-114) Ibid, p. 13.
-115) Ibid. Also Pissurlencar, PM, Ⅰ, pp. 32-4; Antigualhs, p. 91 (“… O que esta assinado com os sellos de Sambhaji Raze e do  Principe Sultao Acabar …”).
-116) Shivacharitrapradeepa (Shivaji and Portuguese).
-117) A Dutch letter mentions the number of padres as three.
-118) Padre Silva Rego, Documentaçao, Vol. Ⅴ. p. 444; Pissurlencar, Assentos, Ⅲ, p. 349.
+- 113) Dr. Balkrishna, Shivaji the Great, Vol. Ⅰ, p. 574.
+- 114) Ibid, p. 13.
+- 115) Ibid. Also Pissurlencar, PM, Ⅰ, pp. 32-4; Antigualhs, p. 91 (“… O que esta assinado com os sellos de Sambhaji Raze e do  Principe Sultao Acabar …”).
+- 116) Shivacharitrapradeepa (Shivaji and Portuguese).
+- 117) A Dutch letter mentions the number of padres as three.
+- 118) Padre Silva Rego, Documentaçao, Vol. Ⅴ. p. 444; Pissurlencar, Assentos, Ⅲ, p. 349.
 What great part the Franciscan padres played on the occasion of Sambhaji’s invasion of Goa in 1684 is found in a letter  they sent to the king of Portugal (MR, 52, fl. 120) :
 
 (Os religiosos da sua Ordem) assistiram com particular zelo e trabalho enquanto a guerra durou, obrando com  grande valor, guarnecendo as muralhas, fazendo vigias, rondas e sentinelas, nas partes do maior risco, acodindo pontualmente  aos ferods … animando a todos para defençe como sucedeo ao Pe. Frey Luis de S. Francisco e ao Pe. Manoel de S. Antonio no  forte de Chapora que nao entregou senao depois de um destes religiosos ser morto, no combate, de uma bala pela cabeça,  depois de obrar proezas c lever aviso a Goa a todo o risco…
-119) Padre Silva Rego, Documentacao V. p. 444.
-120) Ibid., p. 447 : “ … nao cuidavam que os Bottos dos Portugueses fossem tao bons soldados…”
-121) A learned Goan padre, Sebastiao Rego, author of a biography of Padre Jose Vaz in Portuguese, in a sermon delivered in  1745, declared that Catholics were the masters of Goa and the Hindus had no right to reside there. This sermon was published in  Lisbon in 1759 under the title, Sermao da Santa Cruz dos Milagres.
-122) The following is an extract from a letter dated 5 February 1668 addressed to the Municipality of Goa by vice-Rei Conde de  San Vincente : “Sou informado que na Camara Geral de Goa assiste um genito; estranho muito e de hoje em diante se nao  permita tao torpe e abominavel abuzo” (Goa Archives, CO no. 4, fl. 71). (I understand that there is a Hindu in the employ of the  Goa Municipality. This is very irregular. Hereafter, such mean and abominable practices should be discontinued).
-123) Goa Archives : Livro das provisoes a favour da Cristanidade, fl. 49 v. (Pissurlencar, Roteiro, p. 69).
-124) Pe. Sebastiao Gonsalves, Primeira Parte da Historia dos Religiosos da Companhia de Jesus, peb. por Jose Wicki, Vol. Ⅱ,  1960, p. 324; C. Rivara, Archivo, Ⅳ, p. 73.
-125) Fr. Jacinto de Deos, Vergel de Plantas e Flores da Provincia da Madre de Deos, 1690, p. 20.
-126) Padre Silva Rego, Documentacao, Vol. Ⅴ, p. 406. The Vice-roy had informed the King of Portugal in a letter dated 10  January 1707 that very few Hindus had remained in Bardez (Goa Archives : MR No. 69, fl. 158).
-127) Life of Shivaji by Sabhasad, 4th edition, p. 68.
-128) Dr. Balkrishna, Shivaji the Great, p. 573. “He (Shivaji) carried away 1,600 natives, most women and young girls…”.
-129) The treaty mentions that all men, women and cattle that were seized in Bardez should be restored without compensation of  even a rupee.
-130) Sir Janunath wrote that “three padres and some Indian Christians were beheaded by them, evidently in retaliation for the  abduction and conversion of Shivaji’s subjects especially Brahmans” Shivaji, 1952, p. 352); Dr. Balkrishna, Shivaji, Vol. Ⅱ, Part  Ⅰ, p. 507.
-131) Letters etc. of Shivaji’s Times, Part Ⅰ, p. 331, No. 1186.
-132) Dr. Balkrishna, Shivaji, Ⅱ, p. 573.
-133) English Records on Shivaji, 1931, p. 119.
-134) BNP : Fond Portugais, 33, fls. 200-201; Vice-Rei’s letter to the Vengurla Dutch (Goa Archives : RV No. 2, fl. 72 v). 135) Goa Archives : RV No. 2, fl. 73.
-136) BNP : Fond Portugais, 33, fl. 200.
+- 119) Padre Silva Rego, Documentacao V. p. 444.
+- 120) Ibid., p. 447 : “ … nao cuidavam que os Bottos dos Portugueses fossem tao bons soldados…”
+- 121) A learned Goan padre, Sebastiao Rego, author of a biography of Padre Jose Vaz in Portuguese, in a sermon delivered in  1745, declared that Catholics were the masters of Goa and the Hindus had no right to reside there. This sermon was published in  Lisbon in 1759 under the title, Sermao da Santa Cruz dos Milagres.
+- 122) The following is an extract from a letter dated 5 February 1668 addressed to the Municipality of Goa by vice-Rei Conde de  San Vincente : “Sou informado que na Camara Geral de Goa assiste um genito; estranho muito e de hoje em diante se nao  permita tao torpe e abominavel abuzo” (Goa Archives, CO no. 4, fl. 71). (I understand that there is a Hindu in the employ of the  Goa Municipality. This is very irregular. Hereafter, such mean and abominable practices should be discontinued).
+- 123) Goa Archives : Livro das provisoes a favour da Cristanidade, fl. 49 v. (Pissurlencar, Roteiro, p. 69).
+- 124) Pe. Sebastiao Gonsalves, Primeira Parte da Historia dos Religiosos da Companhia de Jesus, peb. por Jose Wicki, Vol. Ⅱ,  1960, p. 324; C. Rivara, Archivo, Ⅳ, p. 73.
+- 125) Fr. Jacinto de Deos, Vergel de Plantas e Flores da Provincia da Madre de Deos, 1690, p. 20.
+- 126) Padre Silva Rego, Documentacao, Vol. Ⅴ, p. 406. The Vice-roy had informed the King of Portugal in a letter dated 10  January 1707 that very few Hindus had remained in Bardez (Goa Archives : MR No. 69, fl. 158).
+- 127) Life of Shivaji by Sabhasad, 4th edition, p. 68.
+- 128) Dr. Balkrishna, Shivaji the Great, p. 573. “He (Shivaji) carried away 1,600 natives, most women and young girls…”.
+- 129) The treaty mentions that all men, women and cattle that were seized in Bardez should be restored without compensation of  even a rupee.
+- 130) Sir Janunath wrote that “three padres and some Indian Christians were beheaded by them, evidently in retaliation for the  abduction and conversion of Shivaji’s subjects especially Brahmans” Shivaji, 1952, p. 352); Dr. Balkrishna, Shivaji, Vol. Ⅱ, Part  Ⅰ, p. 507.
+- 131) Letters etc. of Shivaji’s Times, Part Ⅰ, p. 331, No. 1186.
+- 132) Dr. Balkrishna, Shivaji, Ⅱ, p. 573.
+- 133) English Records on Shivaji, 1931, p. 119.
+- 134) BNP : Fond Portugais, 33, fls. 200-201; Vice-Rei’s letter to the Vengurla Dutch (Goa Archives : RV No. 2, fl. 72 v). 135) Goa Archives : RV No. 2, fl. 73.
+- 136) BNP : Fond Portugais, 33, fl. 200.
 
-137) B. Carre. Voyage des Indes Orientales, Paris, 1699, Vol. Ⅰ, p. 82 : “Ⅱ (Shivaji) fit des courses sur les terres des Portugais,  don il avait recu quelaques deplaisir : il prit sur eux l’isle de Bardez, et apres avoir desole le pais, les contraignit de craindre pour  Goa.”
+- 137) B. Carre. Voyage des Indes Orientales, Paris, 1699, Vol. Ⅰ, p. 82 : “Ⅱ (Shivaji) fit des courses sur les terres des Portugais,  don il avait recu quelaques deplaisir : il prit sur eux l’isle de Bardez, et apres avoir desole le pais, les contraignit de craindre pour  Goa.”
 Surendranath Sen has translated this thus : “he made inroads into the territories of the Portuguese who had given him  offence; he wrested from them the island of Bardez and, after desolating the country, caused them great anxiety for Goa”  (Foreign Biographies of Shivaji, p. 206) .
-138) Rivara, Archivo Ⅳ, p. 125; Pissurlencar, Assentos Ⅲ, p. 476; letter from King of Portugal dated 5 March 1587 (Goa  Archives; MR 3A, fl. 275).
-139) Diogo de Couto, Decada Ⅴ, pp. 396-7 (Coimbra, 1937) :
+- 138) Rivara, Archivo Ⅳ, p. 125; Pissurlencar, Assentos Ⅲ, p. 476; letter from King of Portugal dated 5 March 1587 (Goa  Archives; MR 3A, fl. 275).
+- 139) Diogo de Couto, Decada Ⅴ, pp. 396-7 (Coimbra, 1937) :
 Quanto as Castas, o mor impedimento que ha na converssao destes gentios he a sapperstissao que guardao em suas  castas … E a primeira com quem mais guardam esta serimonia he com os Portugueses, porque comem vaca. E assim em  falando com hum delles, ou tocando nelle, logo se vao purificar.
-140) Fr. paulo da Trindade, Conquista Spiritual do Oriente. BV, MS. No. 7746; Padre Silva Rego : Documentacao, Vol. 8, p.  115.
-141) Padre Francisco de Souza, O Oriente Conquistado, Vol. Ⅰ, p. 115 (Bombay 1881-1886).
-142) “O mais vil e mizeravel gentio nao se assentara meza do Vice-Rei com obrigacao de comer o que o Vice-Rei come.” (Goa  Archives: MR No. 54, fl. 147).
-143) Pe. Silva Rego, Documentacao, Vol. Ⅶ, p. 342. Father Wicki, Documenta, Vol. Ⅳ, p. 345.
-144) English Records on Shivaji, Vol. Ⅱ, p. 348 : “But he tolerates all religions..” (Balkrishna, Shivaji, Ⅳ, p. 176). 145) Jadunath Sarkar, Shivaji, p. 383 (1952).
-146) Chronicle of Sabhasad, p. 26 (1923).
-147) Balkrishna, Shivaji Ⅳ, p. 176; Khafi Khan (Elliot and Dawson, History of India, Vol.Ⅶ, page 260). 148) Cosme da Guarda, Vida do Celebre Sevagy, p. 69.
-149) AHU, India, avulsos (Caixa 27); BNP, Fond Portugais, 33.
-150) Balkrishna, Shivaji, Ⅰ, p. 573 : “He carried 1,600 natives, mostly women and young girls, whom he sells to his sodliers.”
-151) Dr. Surendranath Sen, Indian Travels of Thevenot and Careri, p. 40. Thevenot writes, “He (Shivaji) carried off the General’s  treasure and took his daughter, to whom he rendered all the honour he could. He commanded his men, under rigorous pains,  not to do her the least hurt, but, on the contrary, to serve her with all respect; and being informed that her father was alive, he  sent him word, that if he would send the sum which he demanded for her ransom, he would send him back his daugher safe and  sound; which was punctually performed.”
-152) Pissurlencar, PM, Ⅰ; Shivaji Souvenir, pp. 125-8; Letters etc. of Shivaji’s Days, Part Ⅰ, p. 329. 153) Assentos, Ⅳ, pp. 562-3.
-154) Pissurlencar, Antigualhas, p. 131; Goa Archives: RV No.2, fls. 87-87v.
-155) Dr. Balkrishna, Shivaji, Ⅰ, p. 574.
+- 140) Fr. paulo da Trindade, Conquista Spiritual do Oriente. BV, MS. No. 7746; Padre Silva Rego : Documentacao, Vol. 8, p.  115.
+- 141) Padre Francisco de Souza, O Oriente Conquistado, Vol. Ⅰ, p. 115 (Bombay 1881-1886).
+- 142) “O mais vil e mizeravel gentio nao se assentara meza do Vice-Rei com obrigacao de comer o que o Vice-Rei come.” (Goa  Archives: MR No. 54, fl. 147).
+- 143) Pe. Silva Rego, Documentacao, Vol. Ⅶ, p. 342. Father Wicki, Documenta, Vol. Ⅳ, p. 345.
+- 144) English Records on Shivaji, Vol. Ⅱ, p. 348 : “But he tolerates all religions..” (Balkrishna, Shivaji, Ⅳ, p. 176). 145) Jadunath Sarkar, Shivaji, p. 383 (1952).
+- 146) Chronicle of Sabhasad, p. 26 (1923).
+- 147) Balkrishna, Shivaji Ⅳ, p. 176; Khafi Khan (Elliot and Dawson, History of India, Vol.Ⅶ, page 260). 148) Cosme da Guarda, Vida do Celebre Sevagy, p. 69.
+- 149) AHU, India, avulsos (Caixa 27); BNP, Fond Portugais, 33.
+- 150) Balkrishna, Shivaji, Ⅰ, p. 573 : “He carried 1,600 natives, mostly women and young girls, whom he sells to his sodliers.”
+- 151) Dr. Surendranath Sen, Indian Travels of Thevenot and Careri, p. 40. Thevenot writes, “He (Shivaji) carried off the General’s  treasure and took his daughter, to whom he rendered all the honour he could. He commanded his men, under rigorous pains,  not to do her the least hurt, but, on the contrary, to serve her with all respect; and being informed that her father was alive, he  sent him word, that if he would send the sum which he demanded for her ransom, he would send him back his daugher safe and  sound; which was punctually performed.”
+- 152) Pissurlencar, PM, Ⅰ; Shivaji Souvenir, pp. 125-8; Letters etc. of Shivaji’s Days, Part Ⅰ, p. 329. 153) Assentos, Ⅳ, pp. 562-3.
+- 154) Pissurlencar, Antigualhas, p. 131; Goa Archives: RV No.2, fls. 87-87v.
+- 155) Dr. Balkrishna, Shivaji, Ⅰ, p. 574.
 
-156) Pissurlencar, PM, Ⅰ, p. 21.
+- 156) Pissurlencar, PM, Ⅰ, p. 21.
 The present author published the text of the treaty from the original in 1926. The celebrated Portuguese author, Cunha  Rivara, had published it in Boletim do Governo da India previously but in his version there are some grievous errors. Biker copied  Rivara once again (Tratados Ⅳ, p. 171). Dr. Braganca Pereira copied Rivara once again (APO, Ⅰ, 3, 1, p. lix) and so they repeated the mistakes of Rivara.
 Cunha Rivara wrote “desculpando-se da entrada que elle (Shivaji) e suas gentes fizeram em Bardez” in place of  “desculpando-se da entrada que ignorando elle suas gentes fizeram em Bardez.” This led to complete misrepresentation and  Braganca Pereira reached the conclusion that Shivaji had not personally gone to Bardez and that his troops attacked Bardez  without clearance from him. Not only that, but Braganca even relied on a letter of the Karwar English factor dated 16 December  1668 (new style) and stated that the invasion of Bardez did not take place at all (APO. Ⅰ. Vol. Ⅲ, p. Ⅰ, p. 1vi). It is actually quite  unnecessary to point out that this letter refers to Shivaji in quite another connection.
-157) Pissurlencar, PM, Ⅰ, Supplement.
-158) Viceroy’s letter dated 1 December, 1667 to the Dutch factor at Vengurla (Goa Archives : RV No. 2, fl. 72v). 159) BNP, Fond Portugais 33 (Vice-Rei Conde de San Vincente to the King of Portugal).
-160) Goa Archives : RV No. 2, fl. 54.
-161) Goa Archives : Assentos Ⅳ, p. 190.
-162) Pissurlencar, PM, Ⅰ, p. 27.
-163) W. Foster, FFI, 1668-1669, p. 15; Balkrishna. Shivaji Vol. Ⅱ, Part Ⅰ, pp. 508-10; English Records on Shivaji, Ⅰ p. 128. 164) English Records on Shivaji, Ⅰ. p. 125; Pissurlencar, Antigualhas, pp. 132·4.
-165) Pissurlencar, PM, Ⅰ, p. 27.
-166) Minguel Vaz demolished Hindu temples in Goa in 1540. (Pissurlencar, Tombo Geral de Francisco Paes, p. 67; Padre Silva  Rego, Documentacao, Vol. 8, p. 68—Padre Froice’s letter dated 13 November 1560; Rego, Documentaçao, Ⅱ, p. 103—Padre  Minguel Vaz’s letter dated 6 January 1543 to the King of Portugal; Padre Lucena, Historia da Vida do Padre S. Francisco Xavier, 1600, p. 74).
-167) Wicki. Documenta, Vol. p. 173.
-168) Quarterly Journal of the Bharata ltihas Samshodhak Mandal, Vol. 10, No. 1, p. 30. The inscription in the Narve temple gives  a wrong date.
-169) The letter written by Narayan Shenvi on 4 April 1674 was in Portuguese (JO Factory R Surat, Vol. 88, fls. 78-83). 170) Pissurlencar, Antigualhas, p. 133.
-171) Ibid.
-172) The Mahrattas led an assault on Cuncolim and Chandar and killed a servant of the Catholic Church but nobody said that this  was the result of the religious policy of the Portuguese.
-173) Assentos Ⅳ, p. 242.
+- 157) Pissurlencar, PM, Ⅰ, Supplement.
+- 158) Viceroy’s letter dated 1 December, 1667 to the Dutch factor at Vengurla (Goa Archives : RV No. 2, fl. 72v). 159) BNP, Fond Portugais 33 (Vice-Rei Conde de San Vincente to the King of Portugal).
+- 160) Goa Archives : RV No. 2, fl. 54.
+- 161) Goa Archives : Assentos Ⅳ, p. 190.
+- 162) Pissurlencar, PM, Ⅰ, p. 27.
+- 163) W. Foster, FFI, 1668-1669, p. 15; Balkrishna. Shivaji Vol. Ⅱ, Part Ⅰ, pp. 508-10; English Records on Shivaji, Ⅰ p. 128. 164) English Records on Shivaji, Ⅰ. p. 125; Pissurlencar, Antigualhas, pp. 132·4.
+- 165) Pissurlencar, PM, Ⅰ, p. 27.
+- 166) Minguel Vaz demolished Hindu temples in Goa in 1540. (Pissurlencar, Tombo Geral de Francisco Paes, p. 67; Padre Silva  Rego, Documentacao, Vol. 8, p. 68—Padre Froice’s letter dated 13 November 1560; Rego, Documentaçao, Ⅱ, p. 103—Padre  Minguel Vaz’s letter dated 6 January 1543 to the King of Portugal; Padre Lucena, Historia da Vida do Padre S. Francisco Xavier, 1600, p. 74).
+- 167) Wicki. Documenta, Vol. p. 173.
+- 168) Quarterly Journal of the Bharata ltihas Samshodhak Mandal, Vol. 10, No. 1, p. 30. The inscription in the Narve temple gives  a wrong date.
+- 169) The letter written by Narayan Shenvi on 4 April 1674 was in Portuguese (JO Factory R Surat, Vol. 88, fls. 78-83). 170) Pissurlencar, Antigualhas, p. 133.
+- 171) Ibid.
+- 172) The Mahrattas led an assault on Cuncolim and Chandar and killed a servant of the Catholic Church but nobody said that this  was the result of the religious policy of the Portuguese.
+- 173) Assentos Ⅳ, p. 242.
 
-174) The English factor at Rajapur mentions in his letter dated 15 May 1675 that the Ponda fort was completely besieged by  Shivaji and the English factor at Karwar says in his letter of 18 May, 1675 that Shivaji had captured the fort. From these letters, it  would appear that the Mahrattas captured the fort about 16 May, 1675. Adilshah’s chronicle, Basatin e Salatin says that Ponda  fort was captured by Shivaji on 15 Safar, 1086 (Pissurlencar, Antigualhas, p. 134) Dr. Balkrishna, Shivaji, Vol. Ⅱ. Part Ⅰ, pp. 139-
-40.
-175) Cosme da Guarda, Vida do Celebre Sevagy, p. 148; Dr. S. N. Sen, Foreign Biographies of Shivaji, p. 147.
-176) This beautiful, carved black-stone plate was found by the author buried around the Ponda fort about twelve years ago. It was deposited in the Goa Museum.
-177) Goa Archives; RV No. 2, fl. 3v.; Pissurlencar, PM, Ⅱ, p. 4n. Riyasatkar Sardesai has written that Shivaji appointed one  Dharmaji Nagnath as Killedar (Shakakarta Shivaji, p. 169). The Goa Archives clearly show that he was appointed after Trimbak  Pandit.
+- 174) The English factor at Rajapur mentions in his letter dated 15 May 1675 that the Ponda fort was completely besieged by  Shivaji and the English factor at Karwar says in his letter of 18 May, 1675 that Shivaji had captured the fort. From these letters, it  would appear that the Mahrattas captured the fort about 16 May, 1675. Adilshah’s chronicle, Basatin e Salatin says that Ponda  fort was captured by Shivaji on 15 Safar, 1086 (Pissurlencar, Antigualhas, p. 134) Dr. Balkrishna, Shivaji, Vol. Ⅱ. Part Ⅰ, pp. 139-
+- 40.
+- 175) Cosme da Guarda, Vida do Celebre Sevagy, p. 148; Dr. S. N. Sen, Foreign Biographies of Shivaji, p. 147.
+- 176) This beautiful, carved black-stone plate was found by the author buried around the Ponda fort about twelve years ago. It was deposited in the Goa Museum.
+- 177) Goa Archives; RV No. 2, fl. 3v.; Pissurlencar, PM, Ⅱ, p. 4n. Riyasatkar Sardesai has written that Shivaji appointed one  Dharmaji Nagnath as Killedar (Shakakarta Shivaji, p. 169). The Goa Archives clearly show that he was appointed after Trimbak  Pandit.
 Portuguese material throws a bright light on the history of this fort. In 1535, it was a small fortress under the charge of a Thanedar. His troops consisted of about five hundred solders and some twenty to thirty horses. (Gaspar Correia, lendas da  India, Vol. Ⅳ, p. 601). In 1547, Governor Don Joao de Castro attacked it and burnt it. (Leonardo Nunes, (Cronica de D. Joao  de Castro, pp. 167-8; Luis Keil, As Tapecarias de D. Joao de Castro, 1928). But Adilkhan built it again. The Governor of Goa,  Francisco Barreto, attacked Ponda fort in December 1556 and demolished it. But Adilkhan once again reconstructed it (Padre  Sebastiao Goncalves, Da Historia da Companhia de Jesus, Ms. BNL. fl. 79v).
-178) BNL, Ms. 299 F. G.
-179) Goa Archives, MS. No. 7599.
-180) Relacao Lisboa, 1944, p. 24 : “Choutea, regulo que poe em campo. seiscentos de cavalo. Tem este regulo nas terras de  Damao certa pensao, a que chamam chouto, a qual se lhe pagava ainda antes de serem nossas.”.
-181) Coloquios, 1891, p. 119.
-182) Diogo do Couto, Decada Ⅶ, p. Ⅰ, pp. 40-2 (1778).
-183) Decada ⅩⅢ, pp. 70, 248, 390, 675, 676; Fortalezas da India (Pissurlencar, PM, Ⅰ, p. 40).
-184) Pissurlencar, Antigualhas, pp. 62-71; PM, Ⅰ, pp. 39-50; Assentos Ⅳ, pp. 252-4, 556; “Shivaji and the Portuguese”  (Shivacharitrapradeep), pp. 178-82.
-185) Goa Archives. Tombo de Damao.
-186) Boletim do Governo, 1873, p. 206; Antonio Bocarro, Decada ⅩⅢ, p. 390.
-187) Diogo do Couto, Decada Ⅶ, p. ii
-188) BNL: Noticias da India (F. G. Ms. No. 465, fl. 299).
-189) BACL : MS. 58, fl. 235; Assentos Ⅳ, pp. 556-9).
-190) Pissurlencar, Antigualhas Ⅰ, pp. 69-70; Assentos Ⅳ, p. 259.
-191) Assentos Ⅳ, pp. 556-9 : Antigualhas, pp. 62-71.
-192) Goa Archives : RV No. 3, fl. 2.
+- 178) BNL, Ms. 299 F. G.
+- 179) Goa Archives, MS. No. 7599.
+- 180) Relacao Lisboa, 1944, p. 24 : “Choutea, regulo que poe em campo. seiscentos de cavalo. Tem este regulo nas terras de  Damao certa pensao, a que chamam chouto, a qual se lhe pagava ainda antes de serem nossas.”.
+- 181) Coloquios, 1891, p. 119.
+- 182) Diogo do Couto, Decada Ⅶ, p. Ⅰ, pp. 40-2 (1778).
+- 183) Decada ⅩⅢ, pp. 70, 248, 390, 675, 676; Fortalezas da India (Pissurlencar, PM, Ⅰ, p. 40).
+- 184) Pissurlencar, Antigualhas, pp. 62-71; PM, Ⅰ, pp. 39-50; Assentos Ⅳ, pp. 252-4, 556; “Shivaji and the Portuguese”  (Shivacharitrapradeep), pp. 178-82.
+- 185) Goa Archives. Tombo de Damao.
+- 186) Boletim do Governo, 1873, p. 206; Antonio Bocarro, Decada ⅩⅢ, p. 390.
+- 187) Diogo do Couto, Decada Ⅶ, p. ii
+- 188) BNL: Noticias da India (F. G. Ms. No. 465, fl. 299).
+- 189) BACL : MS. 58, fl. 235; Assentos Ⅳ, pp. 556-9).
+- 190) Pissurlencar, Antigualhas Ⅰ, pp. 69-70; Assentos Ⅳ, p. 259.
+- 191) Assentos Ⅳ, pp. 556-9 : Antigualhas, pp. 62-71.
+- 192) Goa Archives : RV No. 3, fl. 2.
 
-193) Goa Archives : Papeis avulsos.
-194) Pissurlencar, PM, Ⅰ pp. 42-7.
-195) Carre, Voyages des Indes Orientales, Paris, 1699. (Antigualhas, pp. 67-9).
-196) BACL MS. 58, fl. 202.
-197) Governor Antonio Paes de Sandes’ letter dated 13 March 1679 to Bassein General Goao de Melo de Sampayo (Papeis  avulos); Pissurlencar. PM, Ⅰ, pp. 47-9, Boletim da Filmoteca Ultramarina Portuguesa, No. 21 (1962); Antonio Paes de Sandes e  Castro, Antonio Paes de Sande, pp. 163-5.
+- 193) Goa Archives : Papeis avulsos.
+- 194) Pissurlencar, PM, Ⅰ pp. 42-7.
+- 195) Carre, Voyages des Indes Orientales, Paris, 1699. (Antigualhas, pp. 67-9).
+- 196) BACL MS. 58, fl. 202.
+- 197) Governor Antonio Paes de Sandes’ letter dated 13 March 1679 to Bassein General Goao de Melo de Sampayo (Papeis  avulos); Pissurlencar. PM, Ⅰ, pp. 47-9, Boletim da Filmoteca Ultramarina Portuguesa, No. 21 (1962); Antonio Paes de Sandes e  Castro, Antonio Paes de Sande, pp. 163-5.
 The letter of 13 March 1679 was published and is quoted here :—
 Porquanto sou informado que o dinheiro do chouto que os vazadares e curumbins das aldeas do distrito de Damao  pagavao a El-Rey Choutia, conforme aos consertos antigos, por defender as ditas aldeas dos ladroes, se tem cobrado por  conta de fazenda real de seis anos a esta parte. Pondesse em depozito em hum cofre no Collegio dos Padres da Companhia,  para depois se dar a quem pertencer. em razao das guerras em que o Sivagi anda com o dito Rey. para senhorear suas terras,  do qual dinheiro se tirarao por ordem do governo passado mais de treze mil rupias, porvezes, que se derao ao dito Choutia……
-198) Ibid. Mention of secret payments by the Portuguese to Chouthia Raja is found for the first time, in the acting Governor’s  letter dated 12 May, 1678. (Goa Archives : RV No. 3, fls. 6-6v).
-199) BA : Cartas da India, fl. 246 (MS. 31-Ⅸ-1 ).
-200) Five rupees were equal to 12 assurpees or one assurpee (Xerafim) was equal to six annas and eight pies. But, generally,  the Portuguese Court regarded a rupee equal a to two assurpees (Pissurlencar, PM Ⅳ, p. 168; Ⅴ. p. 24).
-201) Pissurlencar, PM. p. 50; BACL: MS. 58, fls. 201v-205, 280v; Assentos Ⅳ, pp. 294, 295, 559. Mention is made of the  gavkhandi tax in a letter of Shivaji in 1657. The tax was a fixed cess per khandi of grain to be recovered from peasants in all  villages (A. V. John and Aba Chandorkar, Shrishivashahicha Lekhanalankar, p. 31).
-202) BACL. MS. 58. p. 202. In August 1677, Bajajipant sought asylum with the Portuguese for himself and also for his wife and  nephew because Shivaji had charged him with having conspired with the Raja of Kolvan to hand over the raj to him for a  gratification (BACL: Livro do registo do 1° Conde de Assumar, MS. fls. 280, 287).
-203) BACL: Livro do Registo do 1° Conde de Assumar, Vol. Ⅳ.
-204) Pissurlencar, PM, Ⅰ, pp. 46-9.
-205) ‘‘e era tal a astucia, manha e valor, daquelle novo Attila da India” (Letter of Portuguese Governor Antonio Paes de Sande.  No. 1951, p. 151; Pissurlencar, PM, Ⅰ. p. 51).
-206) Pissurlencar, PM. Ⅰ. pp. 48-9; Sande e Castro, Antonio Paes de Sande, pp. 163-5; BNL: Breve resumo dos successos do  Estado Portuguez na India (MS. Caixa 201, No. 4).
-207) Pissurlencar, PM, Ⅰ, p. 49.
-208) BNL: Breve resumo dos successos do Estado Portuguez ma India (MS. Caixa 201, No. 4). “Sivagi marrero de hum  antraz.”
-209) Cosme da Guarda, Vida e accoes do famoso e felicissimo Sevagy, p. 52.
-210) Balkrishna, Shivaji the Great, Vol. Ⅰ, p. 538; Vol. Ⅱ, Part Ⅰ, p. 515.
+- 198) Ibid. Mention of secret payments by the Portuguese to Chouthia Raja is found for the first time, in the acting Governor’s  letter dated 12 May, 1678. (Goa Archives : RV No. 3, fls. 6-6v).
+- 199) BA : Cartas da India, fl. 246 (MS. 31-Ⅸ-1 ).
+- 200) Five rupees were equal to 12 assurpees or one assurpee (Xerafim) was equal to six annas and eight pies. But, generally,  the Portuguese Court regarded a rupee equal a to two assurpees (Pissurlencar, PM Ⅳ, p. 168; Ⅴ. p. 24).
+- 201) Pissurlencar, PM. p. 50; BACL: MS. 58, fls. 201v-205, 280v; Assentos Ⅳ, pp. 294, 295, 559. Mention is made of the  gavkhandi tax in a letter of Shivaji in 1657. The tax was a fixed cess per khandi of grain to be recovered from peasants in all  villages (A. V. John and Aba Chandorkar, Shrishivashahicha Lekhanalankar, p. 31).
+- 202) BACL. MS. 58. p. 202. In August 1677, Bajajipant sought asylum with the Portuguese for himself and also for his wife and  nephew because Shivaji had charged him with having conspired with the Raja of Kolvan to hand over the raj to him for a  gratification (BACL: Livro do registo do 1° Conde de Assumar, MS. fls. 280, 287).
+- 203) BACL: Livro do Registo do 1° Conde de Assumar, Vol. Ⅳ.
+- 204) Pissurlencar, PM, Ⅰ, pp. 46-9.
+- 205) ‘‘e era tal a astucia, manha e valor, daquelle novo Attila da India” (Letter of Portuguese Governor Antonio Paes de Sande.  No. 1951, p. 151; Pissurlencar, PM, Ⅰ. p. 51).
+- 206) Pissurlencar, PM. Ⅰ. pp. 48-9; Sande e Castro, Antonio Paes de Sande, pp. 163-5; BNL: Breve resumo dos successos do  Estado Portuguez na India (MS. Caixa 201, No. 4).
+- 207) Pissurlencar, PM, Ⅰ, p. 49.
+- 208) BNL: Breve resumo dos successos do Estado Portuguez ma India (MS. Caixa 201, No. 4). “Sivagi marrero de hum  antraz.”
+- 209) Cosme da Guarda, Vida e accoes do famoso e felicissimo Sevagy, p. 52.
+- 210) Balkrishna, Shivaji the Great, Vol. Ⅰ, p. 538; Vol. Ⅱ, Part Ⅰ, p. 515.
 
-211) “e que por hora estas diversoes embarassavao ao Sivagi a que nao entendesse conosco” (Letter dated 15 November  1680—Antonio Paes de Sande, p. 152).
-212) Assentos Ⅳ, p. 258.
-213) Dr. Balkrishna, Shivaji, Vol. Ⅱ, Part I, p. 173 “He is said to have demanded from the Portuguese in Goa the evacuation of 60  villages on the ground that they belonged to the castle of Ponda which had been taken by Shivaji the previous year”. Letters etc.  of Shivaji’s Times, No. 1221 : “On the ground of his mastery of Bijapur, Shivaji is claiming the island of Salcete also. The  Portuguese are much afraid of him.” (Dutch Records, Vol. 29, p. 140).
-214) Assentos Ⅳ, p. 258; Dr. Balkrishna, Shivaji Ⅰ, pp. 519, 545. The acting Governor of Goa wrote in a letter dated 19 July, 1669  : “(Shivaji) como tao grande inimigo que he deste Estado” (Goa Archihves : Papeis avulos).
-215) “Com os reis vizinhos se acha este Estado em pax e com a morte do Sivagi livre do cuidado que dara este inimigo, mais  para temer na pax que na guerra” (Governor Antonio Paes de Sande’s letter dated 24 January 1681, AHV : India avulsos).
-216) “Sevaji, qui mediocri loco natus in tantam potestatum virtute bellica excrevit, ut totius Indiae terror foret.” 217) Shivaji Souvenir (Shiva-bhavani).
+- 211) “e que por hora estas diversoes embarassavao ao Sivagi a que nao entendesse conosco” (Letter dated 15 November  1680—Antonio Paes de Sande, p. 152).
+- 212) Assentos Ⅳ, p. 258.
+- 213) Dr. Balkrishna, Shivaji, Vol. Ⅱ, Part I, p. 173 “He is said to have demanded from the Portuguese in Goa the evacuation of 60  villages on the ground that they belonged to the castle of Ponda which had been taken by Shivaji the previous year”. Letters etc.  of Shivaji’s Times, No. 1221 : “On the ground of his mastery of Bijapur, Shivaji is claiming the island of Salcete also. The  Portuguese are much afraid of him.” (Dutch Records, Vol. 29, p. 140).
+- 214) Assentos Ⅳ, p. 258; Dr. Balkrishna, Shivaji Ⅰ, pp. 519, 545. The acting Governor of Goa wrote in a letter dated 19 July, 1669  : “(Shivaji) como tao grande inimigo que he deste Estado” (Goa Archihves : Papeis avulos).
+- 215) “Com os reis vizinhos se acha este Estado em pax e com a morte do Sivagi livre do cuidado que dara este inimigo, mais  para temer na pax que na guerra” (Governor Antonio Paes de Sande’s letter dated 24 January 1681, AHV : India avulsos).
+- 216) “Sevaji, qui mediocri loco natus in tantam potestatum virtute bellica excrevit, ut totius Indiae terror foret.” 217) Shivaji Souvenir (Shiva-bhavani).

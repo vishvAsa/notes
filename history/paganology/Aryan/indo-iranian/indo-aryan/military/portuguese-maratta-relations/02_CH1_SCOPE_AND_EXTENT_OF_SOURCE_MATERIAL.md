@@ -333,45 +333,45 @@ A picture of Ponda fort during the Adilshahi days was drawn on a wall, which has
 It is needless to enlarge on how important all these fortresses were in Mahratta  history. 37
 
 ## NOTES
-1) Pissurlencar, Colaboradores Hindus e Afonso de Albuquerque, 1941 p. 1; Tentativas dos Portuguese para a  ocupacao do Concao, 1955.
+- 1) Pissurlencar, Colaboradores Hindus e Afonso de Albuquerque, 1941 p. 1; Tentativas dos Portuguese para a  ocupacao do Concao, 1955.
    Goa was captured by the Portuguese in 1510. That the southern border of the then Goa State (Reino de Goa) was  Kalinadi can be gathered from such historical sources as Tome Peres (1515), Dorvate Barbosa (1516), Don Joao Castro  (Cosmographia 1540), Livro que tratadas consas da India e Japao (1548), Letters of Albuqueque (1511), Commentarios do  Grande A. de Albuquerque, Gaspar Correia, Castanhada, Barros, etc.
    Kudal was within the northern border of Goa at this time. (Pissurlencar, Colaboradores, p. 16; Letter of Albuquerque  dated 22 December 1510, Cartas de Afonso de Albuquerque, Vol. Ⅰ p. 28.)
-2) Cristovam Afonso’s letter dated 31 October, 1524 (T. T. Corpo Cronologico, parte Ⅰ, Maco 31, dos. 83); Gaspar  Correia, Lendas, Liv. Ⅱ, f. Ⅱ parte Ⅱ, pp. 759-60).
-3) According to Rober Sewell, Mealkhan was another name of Abdulla of Bijapur (A Forgotten Empire, 1962, p. 184).  What is surprising is that Yusuf Khan himself says that his father was Mealkhan (B. N. P. Fond Portugais).
-4) Pissurlencar, Tombo da Ⅰlha de Goa e das terras de Salçette e Bardez, Organizado em 1595 por Francisco Pais, p.  14; Padre Sebastiao Gonsalves, Da Historia dos Religiosos da Compannia de Jesus, Ms. Res. 915, fl. 320 V (BNL); George  Portugiesisch, Asiens zur seit des hl. Franz Xavier, Leipzig, 1932, pp. 1148, 1981.
-5) Dastak, i.e. permit, was called cartez by the Portuguese.
-6) Goa Archives, Livro de Cartazes, Biker, Tratados, Vol. Ⅰ; Pissurlencar, PM. Ⅰ Shivaji, pp. 26-7.
-7) Letter of the Viceroy of Goa dated 22 January, 1721 (Goa Archives, MR 86, fl. 696; Pissurlencar, Portugal nos  Mares da India, in a Provincia, NovaGoa, 5 April, 1926).
-8) Letter from Conde de Sandomel to Antonio Cardim Froice dated 15 January, 1934 (Goa Archives Livro de Chaul  No. 1 fl. 4 V).
-9) Goa Viceroy’s letter dated December 1744 to Cardeal da Motta (AHU, Ms 448, Concelho Ultramarino). 10) See Biker.
-11) Pissurlencar, Roteiro dos Anquivos da India Portuguesa, Intr; C. R. Boxer, ‘Three Historians of Portuguese Asia  (Barros, Castro and Bocarro)’, in Boletim do Instituto Portuguese de Hongkong, Ⅰ, 1948.
-12) C. R. Boxer, ‘Antonio Bocarro and the “Livro do Estado da India Oriental” in Gracia de Orta,’ Lisboa, 1956, p. 208  n.
-13) Ibid. p. 210; C. R. Boxer in J-R-A-S, Parts Ⅲ and Ⅳ, London 1948, pp. 188-9.
-14) BNP Fondo Portugais 1, fl. 68.
-15) Diogo do Couto; ‘porque o mesmo Meale nos disse nesta cidade de Goa—Mealkhan himself told us in this city of  Goa; Decada Quinta da Asia. Texte inedit, public d’apres un manuscrit de Ia Biblioteque de J’Universite de Leyde, par Inaseus  de Jong. Coimbra, 1937, p. 591.
+- 2) Cristovam Afonso’s letter dated 31 October, 1524 (T. T. Corpo Cronologico, parte Ⅰ, Maco 31, dos. 83); Gaspar  Correia, Lendas, Liv. Ⅱ, f. Ⅱ parte Ⅱ, pp. 759-60).
+- 3) According to Rober Sewell, Mealkhan was another name of Abdulla of Bijapur (A Forgotten Empire, 1962, p. 184).  What is surprising is that Yusuf Khan himself says that his father was Mealkhan (B. N. P. Fond Portugais).
+- 4) Pissurlencar, Tombo da Ⅰlha de Goa e das terras de Salçette e Bardez, Organizado em 1595 por Francisco Pais, p.  14; Padre Sebastiao Gonsalves, Da Historia dos Religiosos da Compannia de Jesus, Ms. Res. 915, fl. 320 V (BNL); George  Portugiesisch, Asiens zur seit des hl. Franz Xavier, Leipzig, 1932, pp. 1148, 1981.
+- 5) Dastak, i.e. permit, was called cartez by the Portuguese.
+- 6) Goa Archives, Livro de Cartazes, Biker, Tratados, Vol. Ⅰ; Pissurlencar, PM. Ⅰ Shivaji, pp. 26-7.
+- 7) Letter of the Viceroy of Goa dated 22 January, 1721 (Goa Archives, MR 86, fl. 696; Pissurlencar, Portugal nos  Mares da India, in a Provincia, NovaGoa, 5 April, 1926).
+- 8) Letter from Conde de Sandomel to Antonio Cardim Froice dated 15 January, 1934 (Goa Archives Livro de Chaul  No. 1 fl. 4 V).
+- 9) Goa Viceroy’s letter dated December 1744 to Cardeal da Motta (AHU, Ms 448, Concelho Ultramarino). 10) See Biker.
+- 11) Pissurlencar, Roteiro dos Anquivos da India Portuguesa, Intr; C. R. Boxer, ‘Three Historians of Portuguese Asia  (Barros, Castro and Bocarro)’, in Boletim do Instituto Portuguese de Hongkong, Ⅰ, 1948.
+- 12) C. R. Boxer, ‘Antonio Bocarro and the “Livro do Estado da India Oriental” in Gracia de Orta,’ Lisboa, 1956, p. 208  n.
+- 13) Ibid. p. 210; C. R. Boxer in J-R-A-S, Parts Ⅲ and Ⅳ, London 1948, pp. 188-9.
+- 14) BNP Fondo Portugais 1, fl. 68.
+- 15) Diogo do Couto; ‘porque o mesmo Meale nos disse nesta cidade de Goa—Mealkhan himself told us in this city of  Goa; Decada Quinta da Asia. Texte inedit, public d’apres un manuscrit de Ia Biblioteque de J’Universite de Leyde, par Inaseus  de Jong. Coimbra, 1937, p. 591.
 
-16) Diogo do Couto, Decada Quinta, p. 585; Leonardo Nunes, Chronica de Dom Joao de Castro, ed. by J. D. M.  Ford, Cambridge, 1936, p. 13; Pissurlencer, ‘Os Primeiros Goescs em Portugal’, in Bol. inst. Vasco da Gama No. 31 (Krishna  Shenvi’s letter to the king of Portugal dated 5 December, 1546); Let ter of Luis Froise dated 12 December, 1557 (Father Wicki,  Documenta indica, Vol. Ⅵ; Letter from Yusufkhan, son of Mealkhan, to King of Portugal dated 3 December 1581 (BNP, Fond  Portugais); Don Joao de Castro’s letter to King of Portugal in 1545 (Elaine Sancean, Cartas de D. Joao de Castro, 1955, pp.  110-21).
-17) Pissurlencar, A Des Cendencias de Mealcao.
-18) Viceroy of Goa’s letter dated 16 April, 1665 to Krishnaji Bhasker, Governor of Shivaji (Goa Archives, RV No. 2, fls.  36 V-37); Viceroy Antonio do Melo Castros letter dated 4 June, 1665 to Francisco de Melo and Diogo de Melo (Goa Archives).
-19) Second Edition, Bombay, 1881-1886.
-20) Promptuario, 1892, p. 83; e. o. Aurangxa Mogor, que actualmente de Senhor de Todos os Reinos. 21) Biker, Tratados, Ⅷ, p. 175 (Governor’s letter of 21 February, 1782).
-22) Goa Archives, MR. 93B, fls. 536-537 v. (Viceroy’s letter of 16 July, 1726).
-23) A.H.U., India avulos, maco 7.
-24) The names of the poems are :
+- 16) Diogo do Couto, Decada Quinta, p. 585; Leonardo Nunes, Chronica de Dom Joao de Castro, ed. by J. D. M.  Ford, Cambridge, 1936, p. 13; Pissurlencer, ‘Os Primeiros Goescs em Portugal’, in Bol. inst. Vasco da Gama No. 31 (Krishna  Shenvi’s letter to the king of Portugal dated 5 December, 1546); Let ter of Luis Froise dated 12 December, 1557 (Father Wicki,  Documenta indica, Vol. Ⅵ; Letter from Yusufkhan, son of Mealkhan, to King of Portugal dated 3 December 1581 (BNP, Fond  Portugais); Don Joao de Castro’s letter to King of Portugal in 1545 (Elaine Sancean, Cartas de D. Joao de Castro, 1955, pp.  110-21).
+- 17) Pissurlencar, A Des Cendencias de Mealcao.
+- 18) Viceroy of Goa’s letter dated 16 April, 1665 to Krishnaji Bhasker, Governor of Shivaji (Goa Archives, RV No. 2, fls.  36 V-37); Viceroy Antonio do Melo Castros letter dated 4 June, 1665 to Francisco de Melo and Diogo de Melo (Goa Archives).
+- 19) Second Edition, Bombay, 1881-1886.
+- 20) Promptuario, 1892, p. 83; e. o. Aurangxa Mogor, que actualmente de Senhor de Todos os Reinos. 21) Biker, Tratados, Ⅷ, p. 175 (Governor’s letter of 21 February, 1782).
+- 22) Goa Archives, MR. 93B, fls. 536-537 v. (Viceroy’s letter of 16 July, 1726).
+- 23) A.H.U., India avulos, maco 7.
+- 24) The names of the poems are :
     (1) Poema heroico, historico, da glorioso e immortal Victoria que contra o inimigo Bounsulo alcançar o Illustrissimo e  Excellentissimo Senhor D. Pedro Minguel de Almeida e Portugal, Marquez de Castello Novo, Viecs-Rei da India etc. na tomada  de Alorna, Bicholim e Sanquelim, no ano 1746, Lisboa, 1747.
     (2) Poema heroico, ou metricos proesas de Marte, executadas pelo lllustrissimo e Excellentissimo Senhor Marquez  de Castello Novo etc. na continuacao das conquistas das terras do Bounsulo ate a praca de Rarim, Lisboa 1747.
     (3) Applansos metricos ao Excellentissimo Senhor D. Pedro Minguel de Almeida e Portugal, Marquez de Castello  Novo etc. pelos felices successos e victorias, que tem conseguido na India contra o inimigo Bounsulo, Lisboa, 1747.
     Three poems by Joseph Luiz Coutinho on the same subject are available. The present author has one of them. It was  published in Lisbon in 1750. Some more poems on the subject are preserved in the British Museum (Add. No. 20907).
-25) C. R. Boxer, Four Centuries of Portuguese Expansion, 1415-1825, Johannesburg, 1961, p. 94.
-26) In 1951, the Portuguese Governor of Goa informed the Government of Portugal that, “Devido as esporco  intelegente, ininterrupto e pertinaz (de Pissurlencar), poder o Governo Geral deste Estado orgulhar-se de possuir um Arquivo  Historico que nos honra.” (Conselho do Governo do Estado da India. Acta no. 9, sessao de 12-6-1951). Pissurlencar, Roteiro  dos Arquivos da India Portuguesa.
-27) Pissurlencar, A Portuguese Embassy to Raigad in 6184. Reprinted from the All India Modern History Congress  Proceedings, 1936, p. 6 n. 12.
-28) Sahyadri, May 1940; Bhratamitra, Goa; Sardesai Smaraka Grantha; A D P I.
-29) The writer of Breve Resumo says that he came to know of the concessions and other benefits offered to the  Portuguese by the Moghuls from the Vice-Rei (Cfr. e estes ultimos offerencimentos do Mogol flou O Sr. Conde de my com os  mais segredos (Vice-Rei).
-30) Goa Archives : MR 112 fts. 111-114; Oriente Portuguez Vol. Ⅳ, p. 170; Pissurlencar, P. M. Ⅳ pp. 96, 104, 122.
+- 25) C. R. Boxer, Four Centuries of Portuguese Expansion, 1415-1825, Johannesburg, 1961, p. 94.
+- 26) In 1951, the Portuguese Governor of Goa informed the Government of Portugal that, “Devido as esporco  intelegente, ininterrupto e pertinaz (de Pissurlencar), poder o Governo Geral deste Estado orgulhar-se de possuir um Arquivo  Historico que nos honra.” (Conselho do Governo do Estado da India. Acta no. 9, sessao de 12-6-1951). Pissurlencar, Roteiro  dos Arquivos da India Portuguesa.
+- 27) Pissurlencar, A Portuguese Embassy to Raigad in 6184. Reprinted from the All India Modern History Congress  Proceedings, 1936, p. 6 n. 12.
+- 28) Sahyadri, May 1940; Bhratamitra, Goa; Sardesai Smaraka Grantha; A D P I.
+- 29) The writer of Breve Resumo says that he came to know of the concessions and other benefits offered to the  Portuguese by the Moghuls from the Vice-Rei (Cfr. e estes ultimos offerencimentos do Mogol flou O Sr. Conde de my com os  mais segredos (Vice-Rei).
+- 30) Goa Archives : MR 112 fts. 111-114; Oriente Portuguez Vol. Ⅳ, p. 170; Pissurlencar, P. M. Ⅳ pp. 96, 104, 122.
 
-31) Y. N. Kelkar, Vassaichi Mohim, p. 165.
-32) Eduardo Brazao, Diorio de D. Francisco Xavier de Menezes, 4° Conde de Ericeira, Coimbra 1943, page 95. 33) Letter from the Governor of Goa dated 23 January 1757 (Goa Archives MR 129, fl. 422).
-34) Goa Archives; Old Portuguese translation of Marathi letters; No. 881.
-35) A good many of these maps have been given in the Portuguese Government publication, Portugalise Monumenta  Carthographica.
-36) Luiz Keil, As Tapeçarias de D. Joao de Castro, p. 26.
-37) A Portuguese artist prepared a manuscript between 1538 and 1546 which contained pictures of man and women  from Goa and other parts of India. It is available in the Biblioteca Casana tens, Rome. (Father G. Schurhammer, S. J.,  Desenhos Orientais do tempo de S. Francis Xavier,’ in Garcia de Orta, 1956. Pissurlencar’s contribution to the September 1964  issue of Mandavi.).
+- 31) Y. N. Kelkar, Vassaichi Mohim, p. 165.
+- 32) Eduardo Brazao, Diorio de D. Francisco Xavier de Menezes, 4° Conde de Ericeira, Coimbra 1943, page 95. 33) Letter from the Governor of Goa dated 23 January 1757 (Goa Archives MR 129, fl. 422).
+- 34) Goa Archives; Old Portuguese translation of Marathi letters; No. 881.
+- 35) A good many of these maps have been given in the Portuguese Government publication, Portugalise Monumenta  Carthographica.
+- 36) Luiz Keil, As Tapeçarias de D. Joao de Castro, p. 26.
+- 37) A Portuguese artist prepared a manuscript between 1538 and 1546 which contained pictures of man and women  from Goa and other parts of India. It is available in the Biblioteca Casana tens, Rome. (Father G. Schurhammer, S. J.,  Desenhos Orientais do tempo de S. Francis Xavier,’ in Garcia de Orta, 1956. Pissurlencar’s contribution to the September 1964  issue of Mandavi.).

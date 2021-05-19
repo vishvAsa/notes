@@ -563,216 +563,216 @@ The Prince of Saunde is a tradesman and not a fighter like his people. So we con
 There is a record also that even in 1719, the Viceroy had made efforts to persuate the  Moghul that Ponda Panchmahal should remain with the Prince of Saunde.207
 
 ## NOTES
-1) BA : Cartas da India, fl. 59 (MS 51-Ⅸ-1).
-2) Pissurlencar, PM, Ⅱ, pp. 8-10.
-3) Padre Fernao de Queiroz Historia da vida do Veneravel Irmao Pedro de Basto, 1689, p. 279 : “aquele reyno he a nossa  despensa.”
-4) Dr. Luis Gonçalves Couto’s letter to the Viceroy dated 29 August, 1683 (BA : 51-Ⅸ-1, Cartas da India, fl. 271).
-5) A letter from Captain Josef de melo Castro dated 23 February, 1679 is available in which he writes : “ … tive huma carta de  Sevagy e a sustancia della, he que, no seu rio, nao façca mal aos Arabios, porque sao hospedes, e elle lhes haode favorecer. A  carta ainda coutem mais e maiores roncas …” (Goa Archives : Papeis avulsos). The purport of this is : “I received Shivaji’s  letter. The gist of what he says is that we should not molest the Arabs in the river. They are his guests and he is going to support  them … … There are more threats also in the letter.”.
-6) Assentos Ⅳ, p. 389.
-7) The stone carving in Anjediv. (Teixeira de Aragao, Descripçao das moedas, Vol. Ⅲ, p. 261; Francisco Raymundo de Moraes  Pereira, Annal Indico-Lusitano, Lisboa, 1753, p. 24). The Mahratta history scholar, Bendre, mentions in his Marathi biography of  Sambhaji (p. 287), that on 5 May, 1682, the foundation of the fortification of Anjediv was laid ceremoniously, but this is incorrect.
-8) Pissurlencar, PM, Ⅱ, p. 10.
-9) Collection of letters etc. of Shivaji’s times, Part Ⅰ, p. 239.
-10) Pissurlencar, PM, Ⅱ, p. 11.
-11) Ibid., p. 12.
-12) Ibid., p. 19.
-13) Ibid., p. 22.
-14) Ibid.
-15) BA : Cartas da India, fl. 224, Dr. Luis Gonçalves Couto’s letter dated 15 April, 1683.
-16) Pissurlencar, Tentativas dos Portugueses para a occupaçao Concao.
-17) BNL : Breve resumo do sucessos do Estado Portuguez na India nos annos de 1682, 1683, MS. fl. 34. 18) BA : Cartas da India, MS. fl. 228.
-19) Ibid., p. 236.
-20) History of the Saptakoteshwar Devasthan by Jayvant V. S. Sardesai.
-21) BA : Cartas da India, MS. fl. 261.
-22) Pissurlencar, Antigualhas, pp. 71-2; Assentos Ⅳ, p. 156.
+- 1) BA : Cartas da India, fl. 59 (MS 51-Ⅸ-1).
+- 2) Pissurlencar, PM, Ⅱ, pp. 8-10.
+- 3) Padre Fernao de Queiroz Historia da vida do Veneravel Irmao Pedro de Basto, 1689, p. 279 : “aquele reyno he a nossa  despensa.”
+- 4) Dr. Luis Gonçalves Couto’s letter to the Viceroy dated 29 August, 1683 (BA : 51-Ⅸ-1, Cartas da India, fl. 271).
+- 5) A letter from Captain Josef de melo Castro dated 23 February, 1679 is available in which he writes : “ … tive huma carta de  Sevagy e a sustancia della, he que, no seu rio, nao façca mal aos Arabios, porque sao hospedes, e elle lhes haode favorecer. A  carta ainda coutem mais e maiores roncas …” (Goa Archives : Papeis avulsos). The purport of this is : “I received Shivaji’s  letter. The gist of what he says is that we should not molest the Arabs in the river. They are his guests and he is going to support  them … … There are more threats also in the letter.”.
+- 6) Assentos Ⅳ, p. 389.
+- 7) The stone carving in Anjediv. (Teixeira de Aragao, Descripçao das moedas, Vol. Ⅲ, p. 261; Francisco Raymundo de Moraes  Pereira, Annal Indico-Lusitano, Lisboa, 1753, p. 24). The Mahratta history scholar, Bendre, mentions in his Marathi biography of  Sambhaji (p. 287), that on 5 May, 1682, the foundation of the fortification of Anjediv was laid ceremoniously, but this is incorrect.
+- 8) Pissurlencar, PM, Ⅱ, p. 10.
+- 9) Collection of letters etc. of Shivaji’s times, Part Ⅰ, p. 239.
+- 10) Pissurlencar, PM, Ⅱ, p. 11.
+- 11) Ibid., p. 12.
+- 12) Ibid., p. 19.
+- 13) Ibid., p. 22.
+- 14) Ibid.
+- 15) BA : Cartas da India, fl. 224, Dr. Luis Gonçalves Couto’s letter dated 15 April, 1683.
+- 16) Pissurlencar, Tentativas dos Portugueses para a occupaçao Concao.
+- 17) BNL : Breve resumo do sucessos do Estado Portuguez na India nos annos de 1682, 1683, MS. fl. 34. 18) BA : Cartas da India, MS. fl. 228.
+- 19) Ibid., p. 236.
+- 20) History of the Saptakoteshwar Devasthan by Jayvant V. S. Sardesai.
+- 21) BA : Cartas da India, MS. fl. 261.
+- 22) Pissurlencar, Antigualhas, pp. 71-2; Assentos Ⅳ, p. 156.
 
 In a letter, a contemporary Portuguese officer stated that the first attack by the Mahrattas on the fort of Revdanda was  launched on 23 July, 1682, at night. They simultaneously attacked the fortification of Revdanda town and Korlai fortress. “… (ate  que na noute de 23 de Julho de 1682, cometendo o inimigo a escalla a dita fortaleza com grosso poder, e ao mesmo tempo os  muros daquella cidade, e a fortaleza do Morro foi rebatido ……”—Goa Archives : Livro de consultas, No. 2, fl. 94 V, Petition of  Francisco de Costa.) The Portuguese used to call the Korlai fort Morro Cheul. The scholar Bcndre refers to it as Morro fort  (Sambhaji, p. 295).
-23) Goa Archives : MR No. 48, fl. 181; Pissurlencar, PM, Ⅱ, p. 29 n.
-24) Sir Jadunath Sarkar, Auranzib, Ⅳ, pp. 317-35.
-25) Pissurlencar, PM, Ⅱ, p. 29.
-26) Sharma, Maratha History Re-Examined, p. 332.
-27) B. S. Bendre, Chhatrapati Sambhaji Maharaj, p. 293.
-28) Riyasatkar Sardesai says that Sambhaji laid siege to Cheul in the summer of 1683. He has given 20 June 1683 as being in  accord with the Jedhe Shakavali (Marathi Riyasat, 1935, p. 46). But on p. 47, he also writes that the Cheul fortification was  attacked on 8 August, 1683. He has not given any proof for this statement.
-29) The Portuguese called Agacim, San Lourenço.
-30) In Shivaji’s times, the Portuguese called Goan Christians Canares (Pissurlencar’s article in Mandavi for July 1964). Bendre  interprets Canare as Kanadi, which is wrong (Sambhaji, p. 300).
-31) BNL: Caixa 201, No. 4. Breve resumo dos successos do Estado Portuguez na India, nos annos de 1682, 1683, MS.
-32) In the original Portuguese the mention is as Durbanaique. This Ponde Desai’s name was Dulba Naik (Pissurlencar, PM, Ⅱ, p.  35). Bendre writes Dharmaji for Dulba which is wrong.
-33) Viceroy’s letter to Siddi Yakut Khan dated 13 November 1683 (Pissurlencar, PM, Ⅱ, p. 41). Orleans has written that Sambhaji  lifted the siege of Cheul and he went towards Ponda, but this is wrong. (Bendre, Sambhaji, p. 307). Riyasatcar Sardesai also  has given similar incorrect information (Sambhaji, p. 52). Bendre has said that Sambhaji went to Ponda from Rajapur, basing  this statement on a letter dated 31 October, 1683 from the Bombay English (Sambhaji, p. 300) but his object, viz. taking the fort  from Adilshah has been wrongly stated and the date seems to be wrong. It is well known that Shivaji had already taken the fort in  1675.
+- 23) Goa Archives : MR No. 48, fl. 181; Pissurlencar, PM, Ⅱ, p. 29 n.
+- 24) Sir Jadunath Sarkar, Auranzib, Ⅳ, pp. 317-35.
+- 25) Pissurlencar, PM, Ⅱ, p. 29.
+- 26) Sharma, Maratha History Re-Examined, p. 332.
+- 27) B. S. Bendre, Chhatrapati Sambhaji Maharaj, p. 293.
+- 28) Riyasatkar Sardesai says that Sambhaji laid siege to Cheul in the summer of 1683. He has given 20 June 1683 as being in  accord with the Jedhe Shakavali (Marathi Riyasat, 1935, p. 46). But on p. 47, he also writes that the Cheul fortification was  attacked on 8 August, 1683. He has not given any proof for this statement.
+- 29) The Portuguese called Agacim, San Lourenço.
+- 30) In Shivaji’s times, the Portuguese called Goan Christians Canares (Pissurlencar’s article in Mandavi for July 1964). Bendre  interprets Canare as Kanadi, which is wrong (Sambhaji, p. 300).
+- 31) BNL: Caixa 201, No. 4. Breve resumo dos successos do Estado Portuguez na India, nos annos de 1682, 1683, MS.
+- 32) In the original Portuguese the mention is as Durbanaique. This Ponde Desai’s name was Dulba Naik (Pissurlencar, PM, Ⅱ, p.  35). Bendre writes Dharmaji for Dulba which is wrong.
+- 33) Viceroy’s letter to Siddi Yakut Khan dated 13 November 1683 (Pissurlencar, PM, Ⅱ, p. 41). Orleans has written that Sambhaji  lifted the siege of Cheul and he went towards Ponda, but this is wrong. (Bendre, Sambhaji, p. 307). Riyasatcar Sardesai also  has given similar incorrect information (Sambhaji, p. 52). Bendre has said that Sambhaji went to Ponda from Rajapur, basing  this statement on a letter dated 31 October, 1683 from the Bombay English (Sambhaji, p. 300) but his object, viz. taking the fort  from Adilshah has been wrongly stated and the date seems to be wrong. It is well known that Shivaji had already taken the fort in  1675.
 In 1683, Sambhaji’s Subedar at Ponda was Dharmaji Nagnath (Pissurlencar, PM Ⅱ, p. 4n); Dharmaji Nagnath’s letters  have been published in “Gomantakachya Itihasachi Sadhane” in ltihasa Sangraha. In the incription at Adkolan, Ponda Mahal, of  1688, the name of Dharmaji Nagnath is found as the chief officer of the Subha (Pissurlencar, Inscriçoes Pre-Portuguesas de  Goa, p. 71, Bharat Itihasa Samshodhak Mandal, Annual Report, Shake 1835). Dharmaji Nagnath was a contemporary of Dulba  Naik, Sardesai of Ponda.
-34) Durbate is a village in Ponda Mahal. It was not a province a Bendre writes (Sambhaji, p. 301). 35) Shivacharitra Sahitya, Khanda 2, No. 397, p. 399.
-36) Rajwade Marathyanchya Itihasachi Sadhane, 15A 365.
-37) Pissurlencar, PM. Ⅱ. pp. 33-4.
-38) BNL : MS. Caixa 201, No. 4
+- 34) Durbate is a village in Ponda Mahal. It was not a province a Bendre writes (Sambhaji, p. 301). 35) Shivacharitra Sahitya, Khanda 2, No. 397, p. 399.
+- 36) Rajwade Marathyanchya Itihasachi Sadhane, 15A 365.
+- 37) Pissurlencar, PM. Ⅱ. pp. 33-4.
+- 38) BNL : MS. Caixa 201, No. 4
 
-39) Pissurlencar, Tentativas dos Portugueses para a occupaçao do Concao, Bendre (Sambhaji, p. 308) writes that the Viceroy  of Goa led an assault on Ponda at the instance of the Moghuls. But there is no evidence to support this statement.
-40) BA, (Ms. 51-Ⅸ- 1), Cartas da India.
-41) Manucci. storia do Mogor, Ⅱ, pp. 262-3.
-42) BNL, Breve resumo dos sucessos da India, MS.; Relaçao verdadeira, MS.; BA, Cartas da India, MS.; Padre Francisco de  Souza, Oriente Conquistado; Pissurlencar, PM, Ⅱ; Prince Acbar and the Portuguese; Assentos, etc.
-43) Goa Archives : Papeis diversos.
-44) BNL: MS. 8529, fl. 156. Satroji Rane’s letter to the King of Portugal dated 10 January, 1710.
-45) BA : Cartas da India.
+- 39) Pissurlencar, Tentativas dos Portugueses para a occupaçao do Concao, Bendre (Sambhaji, p. 308) writes that the Viceroy  of Goa led an assault on Ponda at the instance of the Moghuls. But there is no evidence to support this statement.
+- 40) BA, (Ms. 51-Ⅸ- 1), Cartas da India.
+- 41) Manucci. storia do Mogor, Ⅱ, pp. 262-3.
+- 42) BNL, Breve resumo dos sucessos da India, MS.; Relaçao verdadeira, MS.; BA, Cartas da India, MS.; Padre Francisco de  Souza, Oriente Conquistado; Pissurlencar, PM, Ⅱ; Prince Acbar and the Portuguese; Assentos, etc.
+- 43) Goa Archives : Papeis diversos.
+- 44) BNL: MS. 8529, fl. 156. Satroji Rane’s letter to the King of Portugal dated 10 January, 1710.
+- 45) BA : Cartas da India.
 In Conde de Alvora’s letter dated 12 April, 1683, there is information to the effect that he had allowed the Subedar of  Sambhaji and the Desais to keep their families in the city of Goa (Goa Archives : RV No. 2, fl. 30; Pissurlencar, PM, Ⅱ p. 23).
-46) BNL. MS. It is written in Breve resumo dos sucessos that Akbar now denies having taken part in the battle and that not he  but his maternal uncle went to Ponda with horsemen. The Moghul brought the battle to our doors and his son’s cavalry attacked us at Ponda. Agroa (Akbar) se excusa com dizer que nao entreveira nisto mas o fosse elle o seu tio, irmao da Mae que foi com  esta cavallaria. O Mogor nos meteu a guerra em casa e a cavallaria do filho nos acometeu em ponda..
-47) Pissurlencar, “Prince Akbar and the Portuguese,” in Indian Historical Records Commission Proceedings, Vol. Ⅹ, 1928; PM,  Ⅱ, p. 16n. Padre Leonardo Paes, Promptuario das Diffiniçoes Indicas, p. 17 J. Sarkar, Aurangzib, Ⅳ, p. 340.
+- 46) BNL. MS. It is written in Breve resumo dos sucessos that Akbar now denies having taken part in the battle and that not he  but his maternal uncle went to Ponda with horsemen. The Moghul brought the battle to our doors and his son’s cavalry attacked us at Ponda. Agroa (Akbar) se excusa com dizer que nao entreveira nisto mas o fosse elle o seu tio, irmao da Mae que foi com  esta cavallaria. O Mogor nos meteu a guerra em casa e a cavallaria do filho nos acometeu em ponda..
+- 47) Pissurlencar, “Prince Akbar and the Portuguese,” in Indian Historical Records Commission Proceedings, Vol. Ⅹ, 1928; PM,  Ⅱ, p. 16n. Padre Leonardo Paes, Promptuario das Diffiniçoes Indicas, p. 17 J. Sarkar, Aurangzib, Ⅳ, p. 340.
 In a letter dated 20 October, 1638, Sheikh Mahomed, Aurangzeb’s envoy, informed the Viceroy that Prince Akbar had  purchased two ships in Goa and that he intended to leave Indian shores on a voyage. He requested that the Viceroy should see  that he was not hindered. (BA; Ms. Cartas da India, fl. 312).
 As a matter of fact, a ship was purchased for Prince Akbar for Rs. 10,000 in August 1683 from a Portuguese  gentleman, Manoel Teixeira Franco, and another Rs. 2,000 were spent on repairs. Two smaller ships were also purchased by  him at Vengurla. These were to accompany him with his servants and luggage. Akbar planned first to go to Bandra at the end of  September and thence to proceed to Iran by sea. He later changed his plans. (BA s MS. Cartas da India; Pissurlencar, Prince  Akbar and The Portuguese). The Portuguese believing that Akbar would succeed Aurangzeb, behaved humbly with him. The  Goa Government kept in touch with him even after he went to Iran. (Goa Archives : RV No. 3, fl. 33).
 Padre Leonardo Paes has recorded that, while Akbar was living in Bicholim, he had such a rich emerald necklace that,  when he put it round his neck over his white coat, it assumed a green colour. (Promptuario, p. 17).
-48) J. Sarkar, Aurangzib, Ⅳ, p. 340.
-49) Pissurlencar. PM, Ⅱ. pp. 60, 16; Prince Akbar and the Portuguese.
-50) Ibid Bendre (Sambhaji, p. 308) says, Portuguese writer has not mentioned Manucci even once in his account of a whole  year. ‘Though Relaçao Verdadeira has not mentioned Manucci, other contemporary Portuguese writings do mention his  achievements. (Pissurlencar, PM, Ⅱ; Prince Akbar and the Portuguese. BA. MS. Cartas da India).
-51) Pissurlencar, PM, Ⅱ, pp. 37, 41.
-52) Ibid., Supplement (Pissurlencar collection).
-53) Ibid., p. 41.
+- 48) J. Sarkar, Aurangzib, Ⅳ, p. 340.
+- 49) Pissurlencar. PM, Ⅱ. pp. 60, 16; Prince Akbar and the Portuguese.
+- 50) Ibid Bendre (Sambhaji, p. 308) says, Portuguese writer has not mentioned Manucci even once in his account of a whole  year. ‘Though Relaçao Verdadeira has not mentioned Manucci, other contemporary Portuguese writings do mention his  achievements. (Pissurlencar, PM, Ⅱ; Prince Akbar and the Portuguese. BA. MS. Cartas da India).
+- 51) Pissurlencar, PM, Ⅱ, pp. 37, 41.
+- 52) Ibid., Supplement (Pissurlencar collection).
+- 53) Ibid., p. 41.
 CONTENTS54) “Some few days since the Rajah razed Pundah Castle and has built a Gurr neare the place in the roome of it; the reason is  that his father was engaged for several months in taking it and could not damage it even so much as the Portugueze did in a few  days…” (The Factors at Karwar to the Council at Surat, dated 28 November 1683. F. R. Surat, Vol. 109, in I. Hyd. Archaeolog.  Soc., 1919-20, p. 31).
-55) Gemelli Careri, Voyages du Tour du Monde, Paris 1727, pp. 159-60; Pissurlencar, Antigualhas, p. 72. 56) Sarkar, Aurangzib, Ⅳ, p. 331.
-57) Viceroy’s letter to Siddi Yakutkhan dated 13 November 1683 (Pissurlencar, PM, Ⅱ, p. 43).
-58) Manucci writes that Sambhaji took Juvem on 25 November 1683 (Storia do Mogor, Vol. Ⅱ, pp. 272-5) but this date is  incorrect as contemporary Portuguese sources show (See Relaçao verdadeira; Breve resmo dos successos; and Oriente  Conquistado).
+- 55) Gemelli Careri, Voyages du Tour du Monde, Paris 1727, pp. 159-60; Pissurlencar, Antigualhas, p. 72. 56) Sarkar, Aurangzib, Ⅳ, p. 331.
+- 57) Viceroy’s letter to Siddi Yakutkhan dated 13 November 1683 (Pissurlencar, PM, Ⅱ, p. 43).
+- 58) Manucci writes that Sambhaji took Juvem on 25 November 1683 (Storia do Mogor, Vol. Ⅱ, pp. 272-5) but this date is  incorrect as contemporary Portuguese sources show (See Relaçao verdadeira; Breve resmo dos successos; and Oriente  Conquistado).
 Riyasatkar Sardesai (Sambhaji, p. 53) gives 24 November 1683 as the date, but he has overlooked the fact that it is  new-style date. The English date should be 14 November, 1683.
 Bendre (Sambhaji, p. 309) calls Juvem, i.e. St. Estevam, Kumbharjuve but these two are separate islands. Sardesai  says Sambhaji took both but does not give any authority (Sambhaji, p. 53). ‘Eslov’ is not a correct name. It should be Estevam  (Portuguese) or Stephens (English).
-59) Manucci and the writer of “Relaçao verdadeira” says “at 10 o’clock at night” but “Breve resumo dos sucessos”, “Oriente  Conquistado”, two contemporary Portuguese sources say “at eight o’clock” and at 10 the alarmsignal bell was rung.
-60) Bendre (Sambhaji, p. 309) calls Dhavji as Dongi (Dongium) but there is no such place in Goa. The original Portuguese  mentions ‘Daugim’ quite clearly (Pissurlencar, PM, Ⅱ, p. 43). The English translation in the India office library, London, also  gives ‘Dangim’ (The Journal of the Hyderabad Arch, Society, 1919-20, p. 16); only instead of ‘u’ there is ‘n’ Bendre’s reading is  wrong.
-61) Goa Archives : MR 161E, fl. 1197 : “… O Conde Vice-Rey que esteve em perigo de ser prezo, se lhe nao acodia com um  cavalo, em que se salvou, D. Rodrigo da Costa, certamente acontecia a maior desgraca … …” The purport of this is : The Viceroy  was about to be captured. Had not Rodrigo da Costa rushed to his rescue with a horse, a major calamity would have occured.
-62) Miscellaneous Historical writing by Parasnis, Part Ⅱ.
-63) Vad and Parasnis, “Sanads and Letters’’, p. 128.
-64) The Vice-Rei’s letter to the King of Portugal dated 16 December 1683 (Goa Archives : MR 48, fl. 180).
-65) In a map of Goa island (1615-1622) drawn by Manuel Godinho de Eredia this ‘island of the dead’ (ilha dos mortos) has been  shown in place of Juvem, St. Estevam. The reason why it was so called is given in Desengano de Perdidos by Dr. Gaspar de  Leao published in Goa in 1573.
+- 59) Manucci and the writer of “Relaçao verdadeira” says “at 10 o’clock at night” but “Breve resumo dos sucessos”, “Oriente  Conquistado”, two contemporary Portuguese sources say “at eight o’clock” and at 10 the alarmsignal bell was rung.
+- 60) Bendre (Sambhaji, p. 309) calls Dhavji as Dongi (Dongium) but there is no such place in Goa. The original Portuguese  mentions ‘Daugim’ quite clearly (Pissurlencar, PM, Ⅱ, p. 43). The English translation in the India office library, London, also  gives ‘Dangim’ (The Journal of the Hyderabad Arch, Society, 1919-20, p. 16); only instead of ‘u’ there is ‘n’ Bendre’s reading is  wrong.
+- 61) Goa Archives : MR 161E, fl. 1197 : “… O Conde Vice-Rey que esteve em perigo de ser prezo, se lhe nao acodia com um  cavalo, em que se salvou, D. Rodrigo da Costa, certamente acontecia a maior desgraca … …” The purport of this is : The Viceroy  was about to be captured. Had not Rodrigo da Costa rushed to his rescue with a horse, a major calamity would have occured.
+- 62) Miscellaneous Historical writing by Parasnis, Part Ⅱ.
+- 63) Vad and Parasnis, “Sanads and Letters’’, p. 128.
+- 64) The Vice-Rei’s letter to the King of Portugal dated 16 December 1683 (Goa Archives : MR 48, fl. 180).
+- 65) In a map of Goa island (1615-1622) drawn by Manuel Godinho de Eredia this ‘island of the dead’ (ilha dos mortos) has been  shown in place of Juvem, St. Estevam. The reason why it was so called is given in Desengano de Perdidos by Dr. Gaspar de  Leao published in Goa in 1573.
 There is much similarity between Ali Adilshah’s invasion of 1570 and Sambhaji’s invasion of 1683 so far as the military  strategy of the assaults on Ponda are concerned. (Antonio Castilho, Commentario do Cerco de Goa e Cheul, Lisboa 1573;  Antonio Pinto Pereira, Historia da India no tempo em que a governou o visorey Dom Luis de Ataide, Coimbra, 1616, Vol. Ⅱ).
 Sixty thousand foot, thirty-five thousand horse, two thousand elephants and artillery constituted the Adilshahi forces in  the 1570 invasion, according to the Portuguese, (BNL, MS. 8570, Annaes, fls. 132-3 v) In the sixteenth century, the Portuguese  army in Goa never exceeded 4,000 men. At the time of the battle additional soliders had been recruited locally. As the  Portuguese had a strong navy, they could protect their possessions near the coast. Albuquerque (Cartes. Ⅰ, p. 40), Don Joao  de Castro (Cartas, p. 24), Bishop Don Gaspar de Liao (Desengano, p. 34) and others have written that 3,000 Portuguese  soldiers would be enough to protect their possessions.
 
-66) Pissurlencar, PM, Ⅱ, p. 47 n.
-67) Pissurlencar, Assentos, Ⅳ, p. 410 (… Sambage que por uao ter a gente ociosa nos investio). 68) For example, the churches in Juvem, Thivim and Colvale (Pissurlencar, PM, Ⅱ, p. 46; Assentos Ⅳ, p. 429). 69) Pissurlencar, PM, Ⅱ, p. 49.
-70) Pissurlencar, Antigualhas, p. 79.
-71) Pissurlencar, Assentos Ⅳ, p. 572.
-72) “… alem de serem estes (Christaos de terra) de sua natureza em nossa companhia pellejam como tigres”… (D. Gaspar  Leao, Desengano de Perdidos, p. 34).
-73) Goa Archives : MR 54, fl. 55; Pissurlencar, Assentos Ⅳ. p. 413.
-74) Pissurlencar, PM, Ⅱ. pp. 51-2., Bendre (Sambhaji, p. 316) has made use of the English translation of the account of  Sambhaji’s attacks on Bardez and Salçette from Relaçao Verdadeira, available in the India Office, London. But many names are  incorrect. For instance he uses Marmugao for both Margao (p. 315) and Murgao (p. 316) and there are more instances of  incorrect pronunciation.
-75) A. Martineau, Memoires de Francois Martin, Vol. Ⅱ, p. 340 (Paris, 1932).
-76) Goa Archives : Petition of Ramoji Naikvadi. Ramoji related in his petition how he helped the Portuguese at the time of the  seige even while he was in the service of Sambhaji (Boletim do Governo da India, 1684, p. 91).
-77) Diago do Couto, Decada Ⅷ, p. 391.
-78) Pissurlencar, Assentos Ⅳ, pp. 422-3.
-79) Padre Francisco de Souza, O Oriente Conquistado, p. 400-2 (Bombay 1881).
-80) Goa Archives : Siddi Abdul Rehman’s letter to the Vice-roy in Portuguese (Papeis avulsos).
-81) BA : Cartas da India.
-82) The name of this Government interpreter in Goa was Vithoji Shenvi Bhende.
-83) Goa Archives : Livro de registo do dos alvaras. Cartas. etc. de diferentes feitorias 1682-1684 (MS. 2316). 84) Dr. Luis Gonsalves de Couto’s letter dated 31 December 1683 (BA : Cartas da India).
-85) Pissurlencar. PM. Ⅱ. p. 54; Assentos Ⅳ, p. 430; “A Portuguese Embassy to Raigad in 1684”, p. Ⅱ (Proceedings of the All India Modern History Congress, Poona, 1936).
-86) BA : Cartas da India, fl. 347.
-87) Ibid., p. 343.
-88) Ibid., p. 341.
-89) Pissurlencar, PM, Ⅱ, pp. 56-7.
+- 66) Pissurlencar, PM, Ⅱ, p. 47 n.
+- 67) Pissurlencar, Assentos, Ⅳ, p. 410 (… Sambage que por uao ter a gente ociosa nos investio). 68) For example, the churches in Juvem, Thivim and Colvale (Pissurlencar, PM, Ⅱ, p. 46; Assentos Ⅳ, p. 429). 69) Pissurlencar, PM, Ⅱ, p. 49.
+- 70) Pissurlencar, Antigualhas, p. 79.
+- 71) Pissurlencar, Assentos Ⅳ, p. 572.
+- 72) “… alem de serem estes (Christaos de terra) de sua natureza em nossa companhia pellejam como tigres”… (D. Gaspar  Leao, Desengano de Perdidos, p. 34).
+- 73) Goa Archives : MR 54, fl. 55; Pissurlencar, Assentos Ⅳ. p. 413.
+- 74) Pissurlencar, PM, Ⅱ. pp. 51-2., Bendre (Sambhaji, p. 316) has made use of the English translation of the account of  Sambhaji’s attacks on Bardez and Salçette from Relaçao Verdadeira, available in the India Office, London. But many names are  incorrect. For instance he uses Marmugao for both Margao (p. 315) and Murgao (p. 316) and there are more instances of  incorrect pronunciation.
+- 75) A. Martineau, Memoires de Francois Martin, Vol. Ⅱ, p. 340 (Paris, 1932).
+- 76) Goa Archives : Petition of Ramoji Naikvadi. Ramoji related in his petition how he helped the Portuguese at the time of the  seige even while he was in the service of Sambhaji (Boletim do Governo da India, 1684, p. 91).
+- 77) Diago do Couto, Decada Ⅷ, p. 391.
+- 78) Pissurlencar, Assentos Ⅳ, pp. 422-3.
+- 79) Padre Francisco de Souza, O Oriente Conquistado, p. 400-2 (Bombay 1881).
+- 80) Goa Archives : Siddi Abdul Rehman’s letter to the Vice-roy in Portuguese (Papeis avulsos).
+- 81) BA : Cartas da India.
+- 82) The name of this Government interpreter in Goa was Vithoji Shenvi Bhende.
+- 83) Goa Archives : Livro de registo do dos alvaras. Cartas. etc. de diferentes feitorias 1682-1684 (MS. 2316). 84) Dr. Luis Gonsalves de Couto’s letter dated 31 December 1683 (BA : Cartas da India).
+- 85) Pissurlencar. PM. Ⅱ. p. 54; Assentos Ⅳ, p. 430; “A Portuguese Embassy to Raigad in 1684”, p. Ⅱ (Proceedings of the All India Modern History Congress, Poona, 1936).
+- 86) BA : Cartas da India, fl. 347.
+- 87) Ibid., p. 343.
+- 88) Ibid., p. 341.
+- 89) Pissurlencar, PM, Ⅱ, pp. 56-7.
 
-90) BNL : MS. Breve resumo dos successos “…ficavao as pazes adjustadas mas nao assinadas por ter decido do Gate o  exercito mogor e tambem se diz por causa certa que por esta mesma causa se lhe mandou instruçao a ir devager nestes  consertos…” The substance of this is that the treaty was agreed upon but not signed. It is asserted with certainty that, because  the Moghul army had come down the Ramghat, the Portuguese envoys were advised that they should delay the conclusion of  the treaty.
-91) BNL : MS. A 6-43. Tratados depazes antigos e modernos, de que se acharam documentos na Secretaria do estado da  India.
-92) Portuguese envoy manuel Saraeve de Albuquerque’s letter dated 24 April 1684 to Kavi Kalash (Pissurlencar, Antigualhas, p.  91). “…o que esta assinado com os sellos de Sambagi Raze e do Principe Sultao Acbar…”
-93) Pissurlencar, PM, Ⅱ, p. 57.
-94) Goa Archives : CPA No. 68.
-95) Mantimento in Portuguese means foodgrains etc., not ammunition.
-96) Goa Archives : RV No. 3, fl. 56, Viceroy’s letter to Narahari Pandit dated 26 March 1684.
-97) BNL, Breve resumo dos sucessos; Pissurlencar, PM, Ⅱ, p. 57.
-98) Pissurlencar, PM. Ⅱ, p. 53.
-99) Goa Archives : Joseph de Melo de Castro’s letter dated 19 June 1684. (Pissurlencar, Antigualhas, p. 94; Portuguese  Embassy to Raigad in 1684. p. 4).
-100) Pissurlencar, Assentos Ⅳ, pp. 417-26.
-101) BA s Cartas da India. fl. 269. Dr. Luis Gonçalves Carto’s letter dated 27 August 1683 and the Viceroy’s remarks of the same  date.
-102) BA : Cartas da India, fl. 274.
-103) Pissurlencar, Assentos Ⅳ, pp. 422-3.
-104) BA : Cartas da India, fl. 341; Couto’s letter dated 12 January 1684.
-105) Manucci, Storia Ⅱ, p. 272.
-106) Pe. Francisco de Souza, Oriente Conquistado, Vol. Ⅰ, p. 402.
-107) Khafi Khan, Ⅱ. p. 291.
-108) J. Sarkar, Aurangzib, Ⅳ, pp. 340, 349.
-109) BA : Cartas da India, an account of the Konkan Desais.
-110) J. Sarkar, Aurangzib, Ⅳ, p. 304n.
-111) The Travels of Abbe Carre, Vol. Ⅰ, p. 202.
-112) BA : Cartas da India, an account of the Konkan Desais.
+- 90) BNL : MS. Breve resumo dos successos “…ficavao as pazes adjustadas mas nao assinadas por ter decido do Gate o  exercito mogor e tambem se diz por causa certa que por esta mesma causa se lhe mandou instruçao a ir devager nestes  consertos…” The substance of this is that the treaty was agreed upon but not signed. It is asserted with certainty that, because  the Moghul army had come down the Ramghat, the Portuguese envoys were advised that they should delay the conclusion of  the treaty.
+- 91) BNL : MS. A 6-43. Tratados depazes antigos e modernos, de que se acharam documentos na Secretaria do estado da  India.
+- 92) Portuguese envoy manuel Saraeve de Albuquerque’s letter dated 24 April 1684 to Kavi Kalash (Pissurlencar, Antigualhas, p.  91). “…o que esta assinado com os sellos de Sambagi Raze e do Principe Sultao Acbar…”
+- 93) Pissurlencar, PM, Ⅱ, p. 57.
+- 94) Goa Archives : CPA No. 68.
+- 95) Mantimento in Portuguese means foodgrains etc., not ammunition.
+- 96) Goa Archives : RV No. 3, fl. 56, Viceroy’s letter to Narahari Pandit dated 26 March 1684.
+- 97) BNL, Breve resumo dos sucessos; Pissurlencar, PM, Ⅱ, p. 57.
+- 98) Pissurlencar, PM. Ⅱ, p. 53.
+- 99) Goa Archives : Joseph de Melo de Castro’s letter dated 19 June 1684. (Pissurlencar, Antigualhas, p. 94; Portuguese  Embassy to Raigad in 1684. p. 4).
+- 100) Pissurlencar, Assentos Ⅳ, pp. 417-26.
+- 101) BA s Cartas da India. fl. 269. Dr. Luis Gonçalves Carto’s letter dated 27 August 1683 and the Viceroy’s remarks of the same  date.
+- 102) BA : Cartas da India, fl. 274.
+- 103) Pissurlencar, Assentos Ⅳ, pp. 422-3.
+- 104) BA : Cartas da India, fl. 341; Couto’s letter dated 12 January 1684.
+- 105) Manucci, Storia Ⅱ, p. 272.
+- 106) Pe. Francisco de Souza, Oriente Conquistado, Vol. Ⅰ, p. 402.
+- 107) Khafi Khan, Ⅱ. p. 291.
+- 108) J. Sarkar, Aurangzib, Ⅳ, pp. 340, 349.
+- 109) BA : Cartas da India, an account of the Konkan Desais.
+- 110) J. Sarkar, Aurangzib, Ⅳ, p. 304n.
+- 111) The Travels of Abbe Carre, Vol. Ⅰ, p. 202.
+- 112) BA : Cartas da India, an account of the Konkan Desais.
 
-113) Pissurlencar; Goa Archives; Bharatmitra, Vol. 22. No. 3, March 1950.
-114) Manucci, Storia, Ⅱ, p. 275.
-115) Pissurlencar, PM, Ⅱ. p. 59. Viceroy’s letter to the King of Portugal dated 25 January 1684.
-116) Viceroy’s letter to the Moghul Emperor dated 20 March 1684 (Pissurlencar, PM, Ⅱ, p. 62).
-117) J. Sarkar, Aurangzeb, Ⅳ, p. 351.
-118) Pissurlencar, PM, Ⅱ, p. 60.
-119) BA : Cartas da India, fl. 361.
-120) Ibid., fl. 365.
-121) Ibid., fl. 559.
-122) Pissurlencar, PM, Ⅱ, p. 65.
-123) Pissurlencar, Assentos, Ⅳ, p. 428.
-124) “A Portuguese Embassy to Raigad in 1684” (All-India Modern History Congress Proceedings, 1936). 125) BA : Cartas da India, fl. 398.
-126) Pissurlencar, Antigualhas, pp. 96-7.
-127) BA : Cartas da India, fl. 499. Goa Archives : Sidhoji Farjand’s Marathi letter.
-128) BA : Cartas da India, fl. 499. Dr. Luis Gonçalves, letter dated 29 December 1684; Sidhoji Farjand’s letter. 129) BA : Cartas da India, fl. 537. Viceroy’s letter dated 24 February 1685.
-130) Ibid.
-131) Pissurlencar, Antigualhas, pp. 98-102.
-132) Goa Archives : Collection of Marathi papers. Pissurlencar, A Portuguese Embassy to Raigad. 133) Pissurlencar, Antigualhas, pp. 91-3.
-134) Assentos Ⅳ, p. 431 : “a extrema necessidade em que se acheva o Estado de Dinheiro para suprir as despezas…”  (Government was hardpressed for money for expenditure.)
-135) Goa Archives : MR, 53, fls. 69-70.
-136) BA : Cartas da India, fl. 535, Letter to Viceroy from Luis Gonçalves Couto dated 18 February 1685.
-137) BNL : MS. 4179 F. G. A contemporary translation in Portuguese of the letter written in Marathi by Sambhajirao and Vithojirao  Karwarkar Desai to the Viceroy. The present author was unable to lay his hands on the original.
-138) Pissurlencar, PM, Ⅱ, p. 41.
+- 113) Pissurlencar; Goa Archives; Bharatmitra, Vol. 22. No. 3, March 1950.
+- 114) Manucci, Storia, Ⅱ, p. 275.
+- 115) Pissurlencar, PM, Ⅱ. p. 59. Viceroy’s letter to the King of Portugal dated 25 January 1684.
+- 116) Viceroy’s letter to the Moghul Emperor dated 20 March 1684 (Pissurlencar, PM, Ⅱ, p. 62).
+- 117) J. Sarkar, Aurangzeb, Ⅳ, p. 351.
+- 118) Pissurlencar, PM, Ⅱ, p. 60.
+- 119) BA : Cartas da India, fl. 361.
+- 120) Ibid., fl. 365.
+- 121) Ibid., fl. 559.
+- 122) Pissurlencar, PM, Ⅱ, p. 65.
+- 123) Pissurlencar, Assentos, Ⅳ, p. 428.
+- 124) “A Portuguese Embassy to Raigad in 1684” (All-India Modern History Congress Proceedings, 1936). 125) BA : Cartas da India, fl. 398.
+- 126) Pissurlencar, Antigualhas, pp. 96-7.
+- 127) BA : Cartas da India, fl. 499. Goa Archives : Sidhoji Farjand’s Marathi letter.
+- 128) BA : Cartas da India, fl. 499. Dr. Luis Gonçalves, letter dated 29 December 1684; Sidhoji Farjand’s letter. 129) BA : Cartas da India, fl. 537. Viceroy’s letter dated 24 February 1685.
+- 130) Ibid.
+- 131) Pissurlencar, Antigualhas, pp. 98-102.
+- 132) Goa Archives : Collection of Marathi papers. Pissurlencar, A Portuguese Embassy to Raigad. 133) Pissurlencar, Antigualhas, pp. 91-3.
+- 134) Assentos Ⅳ, p. 431 : “a extrema necessidade em que se acheva o Estado de Dinheiro para suprir as despezas…”  (Government was hardpressed for money for expenditure.)
+- 135) Goa Archives : MR, 53, fls. 69-70.
+- 136) BA : Cartas da India, fl. 535, Letter to Viceroy from Luis Gonçalves Couto dated 18 February 1685.
+- 137) BNL : MS. 4179 F. G. A contemporary translation in Portuguese of the letter written in Marathi by Sambhajirao and Vithojirao  Karwarkar Desai to the Viceroy. The present author was unable to lay his hands on the original.
+- 138) Pissurlencar, PM, Ⅱ, p. 41.
 
-139) J. Sarkar, Aurangzib, Ⅳ, p. 358.
-140) BA : Cartas da India, Pissurlencar, Tentativas dos Portuguese para a occupaçao do Concao.
-141) The Goan Bishop Don Mateos de Castro of Bicholim said in his letter dated 22 December, 1653 : “Raula Sinay, qui in  singulos annos vigenti quartruor mille xerafinorum redditus colligit”. (Desai Raval Shenvi annually takes twelve thousand rupees.  i.e. 24,000 arurpis.) ASG : MS. Goa 40, fls. 384-5 : Epistola exprobratoria ejusden episcopi chrysopolitani…).
-142) BA : Cartas da India, fl. 412.
-143) Riyasatkar Sardesai (Sambhaji, p. 57) has given the date as it is without taking into consideration that it is in the new style.  Dr. Bragança Pereira read ‘dez do proximo mez’ in place of ‘doze do proprio mez’ and made a grievous error (APO, t Ⅰ. Vol Ⅲ,  p. 1, p.).
-144) Goa Archive : MR, fl. 207-49v.
-145) BA : Cartas da India, fl. 301. Dr. Luis Gonçalves Couto’s letter to the Viceroy dated 29 September 1683. 146) AHU : India, avulsos, Caixa 33. Letter dated 13 November 1686.
-147) Pissurlencar, Antigualhas, p. 105; A Liga dos Portuguese com o Bounsulo Contra Sambagi (Oriente Portugues, Ⅱ, serie  No. 2).
-148) AHU : India, avulsos, Caixa No. 34 : “fez este sucesso mais gloriozo fao o nao custar a serra o dinheiro que se nos pedia  para a entregarem…” (Viceroy’s letter to King of Portugal dated 24 January 1688).
-149) Goa Archive : Livro de Dio. No. 1.
-150) Goa Archive : RV No. 4, fl. 69v. (Don Rodrigo de Costa’s letter to Dulba Naik dated 31 January 1689). Pissurlencar PM, Ⅱ,  p. 4.
-151) Goa Archives : RV No. 4, fl. 69.
-152) Goa Archive : MR 53, fl. 329. Pissurlencar, PM, Ⅱ, p. 66n.
-153) Goa Archives : MR 53, fl. 328.
-154) BNL, MS. 8538, Livro de Cartas que escreveo a S.M.o. Sr. D. Rodrigo da Costa. Governador da India, fl. 5v. 155) Goa Archives : CO 5, Ⅱ, 71.
-156) Pissurlencar, PM, Ⅲ, p. 1; “Rajaram and the Portuguese” (Proceedings, Indian Historical Records Commission). 157) Ibid.
-158) Goa Archives : RV No. 4, fls. 76-7.
-159) Goa Archives : RV No. 4, fl. 74.
-160) Pissurlencar, PM, Ⅲ, p. 3, supplement (Pissurlencar collection).
-161) Idem. p. 4 : O que mais os incitou a isso foi por ser da sua casta da gentilidade, e nao poderem tolerar as insolencias com  que os mouros forçavam as mulheres gentias e profanavam os seus pagodes.” (Goa Archives : MR, 55B, fls. 424-5).
+- 139) J. Sarkar, Aurangzib, Ⅳ, p. 358.
+- 140) BA : Cartas da India, Pissurlencar, Tentativas dos Portuguese para a occupaçao do Concao.
+- 141) The Goan Bishop Don Mateos de Castro of Bicholim said in his letter dated 22 December, 1653 : “Raula Sinay, qui in  singulos annos vigenti quartruor mille xerafinorum redditus colligit”. (Desai Raval Shenvi annually takes twelve thousand rupees.  i.e. 24,000 arurpis.) ASG : MS. Goa 40, fls. 384-5 : Epistola exprobratoria ejusden episcopi chrysopolitani…).
+- 142) BA : Cartas da India, fl. 412.
+- 143) Riyasatkar Sardesai (Sambhaji, p. 57) has given the date as it is without taking into consideration that it is in the new style.  Dr. Bragança Pereira read ‘dez do proximo mez’ in place of ‘doze do proprio mez’ and made a grievous error (APO, t Ⅰ. Vol Ⅲ,  p. 1, p.).
+- 144) Goa Archive : MR, fl. 207-49v.
+- 145) BA : Cartas da India, fl. 301. Dr. Luis Gonçalves Couto’s letter to the Viceroy dated 29 September 1683. 146) AHU : India, avulsos, Caixa 33. Letter dated 13 November 1686.
+- 147) Pissurlencar, Antigualhas, p. 105; A Liga dos Portuguese com o Bounsulo Contra Sambagi (Oriente Portugues, Ⅱ, serie  No. 2).
+- 148) AHU : India, avulsos, Caixa No. 34 : “fez este sucesso mais gloriozo fao o nao custar a serra o dinheiro que se nos pedia  para a entregarem…” (Viceroy’s letter to King of Portugal dated 24 January 1688).
+- 149) Goa Archive : Livro de Dio. No. 1.
+- 150) Goa Archive : RV No. 4, fl. 69v. (Don Rodrigo de Costa’s letter to Dulba Naik dated 31 January 1689). Pissurlencar PM, Ⅱ,  p. 4.
+- 151) Goa Archives : RV No. 4, fl. 69.
+- 152) Goa Archive : MR 53, fl. 329. Pissurlencar, PM, Ⅱ, p. 66n.
+- 153) Goa Archives : MR 53, fl. 328.
+- 154) BNL, MS. 8538, Livro de Cartas que escreveo a S.M.o. Sr. D. Rodrigo da Costa. Governador da India, fl. 5v. 155) Goa Archives : CO 5, Ⅱ, 71.
+- 156) Pissurlencar, PM, Ⅲ, p. 1; “Rajaram and the Portuguese” (Proceedings, Indian Historical Records Commission). 157) Ibid.
+- 158) Goa Archives : RV No. 4, fls. 76-7.
+- 159) Goa Archives : RV No. 4, fl. 74.
+- 160) Pissurlencar, PM, Ⅲ, p. 3, supplement (Pissurlencar collection).
+- 161) Idem. p. 4 : O que mais os incitou a isso foi por ser da sua casta da gentilidade, e nao poderem tolerar as insolencias com  que os mouros forçavam as mulheres gentias e profanavam os seus pagodes.” (Goa Archives : MR, 55B, fls. 424-5).
 
-162) Pissurlencar, PM, Ⅲ, p. 5; Arquivo das Colonias, 1917, Vol Ⅰ, p. 135.
-163) Pissurlencar, Maratas em Baçaim, p. 10. Goa Archives : RV No. 4, fl. 119.
-164) Pissurlencar, PM, Ⅲ, p. 9.
-165) Goa Archives : MR 58, fl. 269. A Portuguese ‘Achava’ () refers to this incident.
-166) Goa Archives : MR 55 B, fl. 430 (Letter of acting Governor of Goa dated 22 January 1691).
-167) Pissurlencar, Assentos, Ⅳ, pp. 496-7.
-168) Dr. S. N. Sen, Indian Traveles of Thevenot and Careri pp. 208-12.
-169) Careri writes : “Lord of some villages among the mountains, but tributory and subject to the Great Moghul, being obliged to  serve him in his wars.” (p. 212).
-170) Goa Archives : RV No. 5, fls. 44v, 47v.
-171) Shivacharitra Sahitya, Part Ⅲ, pp. 87-8.
-172) Ibid., pp. 89-90.
-173) Goa Archives : RV No. 6, fl. 41v.
-174) Pissurlencar, Assentos Ⅴ, p. 12.
-175) Goa Archives : MR 62, fl. 203. Vice-Rei Camara Coutinho says in his letter dated 19 January, 1701; “passado alguns meses  despois da minha chegada se levantouqhema Saunto contra o Mogor … este levantado se fez senhor de Bicholim e Sanquelim.  que era do Mogor…”. The substance of this is : “After I came here. Khem Savant became hostile to the Moghul… This rebel took  possession of Bicholim and Sanquelim” (Goa Archives : MR 64, fl. 249). This Viceroy (Antonio Luiz Gonçalves da Camara  Coutinho) reached Goa on 14 September, 1698. From this it seems that the Khem Savant Bhonsla conquered Sanquelim  (Satari) and Bicholim (Bhatagram) by the end of 1698.
-176) Goa Archives : RV No. 5, fls. 6v, 20.
-177) Goa Archives : RV No. 5, fl. 94 v. (Goa’s letter to Bahadur Khan dated 16 June 1691. Pissurlencar, PM, Ⅱ, p. 68. 178) Goa Archives : MR 64, fl. 55.
-179) Goa Archives : RV No. 5. fl. 47.
-180) Goa Archives : MR 66. fl. 74.
-181) Goa Archives : RV No. 6, fl. 43.
-182) Pissurlencar, Assentos Ⅴ, p. 624.
-183) Goa Archives : MR 66, fl. 275.
-184) Goa Archives : RV No. 5, fls. 70, 76.
-185) Goa Archives : MR 66, fl. 275.
+- 162) Pissurlencar, PM, Ⅲ, p. 5; Arquivo das Colonias, 1917, Vol Ⅰ, p. 135.
+- 163) Pissurlencar, Maratas em Baçaim, p. 10. Goa Archives : RV No. 4, fl. 119.
+- 164) Pissurlencar, PM, Ⅲ, p. 9.
+- 165) Goa Archives : MR 58, fl. 269. A Portuguese ‘Achava’ () refers to this incident.
+- 166) Goa Archives : MR 55 B, fl. 430 (Letter of acting Governor of Goa dated 22 January 1691).
+- 167) Pissurlencar, Assentos, Ⅳ, pp. 496-7.
+- 168) Dr. S. N. Sen, Indian Traveles of Thevenot and Careri pp. 208-12.
+- 169) Careri writes : “Lord of some villages among the mountains, but tributory and subject to the Great Moghul, being obliged to  serve him in his wars.” (p. 212).
+- 170) Goa Archives : RV No. 5, fls. 44v, 47v.
+- 171) Shivacharitra Sahitya, Part Ⅲ, pp. 87-8.
+- 172) Ibid., pp. 89-90.
+- 173) Goa Archives : RV No. 6, fl. 41v.
+- 174) Pissurlencar, Assentos Ⅴ, p. 12.
+- 175) Goa Archives : MR 62, fl. 203. Vice-Rei Camara Coutinho says in his letter dated 19 January, 1701; “passado alguns meses  despois da minha chegada se levantouqhema Saunto contra o Mogor … este levantado se fez senhor de Bicholim e Sanquelim.  que era do Mogor…”. The substance of this is : “After I came here. Khem Savant became hostile to the Moghul… This rebel took  possession of Bicholim and Sanquelim” (Goa Archives : MR 64, fl. 249). This Viceroy (Antonio Luiz Gonçalves da Camara  Coutinho) reached Goa on 14 September, 1698. From this it seems that the Khem Savant Bhonsla conquered Sanquelim  (Satari) and Bicholim (Bhatagram) by the end of 1698.
+- 176) Goa Archives : RV No. 5, fls. 6v, 20.
+- 177) Goa Archives : RV No. 5, fl. 94 v. (Goa’s letter to Bahadur Khan dated 16 June 1691. Pissurlencar, PM, Ⅱ, p. 68. 178) Goa Archives : MR 64, fl. 55.
+- 179) Goa Archives : RV No. 5. fl. 47.
+- 180) Goa Archives : MR 66. fl. 74.
+- 181) Goa Archives : RV No. 6, fl. 43.
+- 182) Pissurlencar, Assentos Ⅴ, p. 624.
+- 183) Goa Archives : MR 66, fl. 275.
+- 184) Goa Archives : RV No. 5, fls. 70, 76.
+- 185) Goa Archives : MR 66, fl. 275.
 
-186) Goa Archives : RV No. 5, fl. 75v.
-187) Goa Archives : RV No. 5, fl. 66v.
-188) Goa Archives : RV No. 5, fl. 97v.
-189) Ibid.
-190) Goa Archives : RV No. 5, fl. 98v.
-191) Goa Archives : RV No. 5, fl. 107.
-192) Goa Archives : MR 70, fl. 15.
-193) Goa Archives : MR 70, fl. 15; MR 69, fl. 42.
+- 186) Goa Archives : RV No. 5, fl. 75v.
+- 187) Goa Archives : RV No. 5, fl. 66v.
+- 188) Goa Archives : RV No. 5, fl. 97v.
+- 189) Ibid.
+- 190) Goa Archives : RV No. 5, fl. 98v.
+- 191) Goa Archives : RV No. 5, fl. 107.
+- 192) Goa Archives : MR 70, fl. 15.
+- 193) Goa Archives : MR 70, fl. 15; MR 69, fl. 42.
 The Vice-Rei Caitano de Melo Castro, in his letter to the King of Portugal, dated 5 January 1706 said : “… se nao  seguisse ter quebrado o orgulho deste levantado, que dessimulado podia vir a ser outro segundo Sivagi…” (MR. 70, fl. 15).
-194) Goa Archives : RV 5, fl. 114 v.; MR 69, fl. 108; RI 11, fl. 46v. BNL. MS. 465 F. G. Noticias da India desde o fim do governo  do Vice-rei Vasco Fernandes Cesar athe o fim do anno de 1738 (fl. 112). BNL : MS. 1455 F. G. Intruçoes do Vice-rei Conde da  Ericeira ao seu sucessor (22 October 1720).
-195) BNL, MS. 1455, Instruçoes que deixou o Conde da Ericeira (22 October 1720) : “… o rey de Sunda he mais mercador que  guerreyro, e por essa razao bom para vezinho…” (Gist : “Since the Saunde prince is more of a tradesman than a warrior we  prefer him as our neighbour.”.
-196) Goa Archives : RI No. 9. fl. 42v; RV No. 6, fl. 116v (Viceroy’s letter dated 27 May 1706). Pissurlencar, Assentos Ⅴ, p. 213;  ADP, p. 544.
-197) Goa Archives : RV 5, fl. 117v; RJ 9, fl. 42v.
-198) Goa Archives : RV 7, fl. 11v.
-199) Goa Archives : MR 72, fl. 419.
-200) Pissurlencar, Assentos Ⅴ. pp. 236-41.
-201) Goa Archives : MR 72, fl. 7.
-202) Sabnis, Pant Amatya Barda Daftar, Part Ⅰ, p. 138. Goa Archives : MR 73, fl. 35.
-203) Goa Archives : Marathi Correspondence.
-204) Goa Archives : RV 8, fl. 28v. (Letter to Moghul Ali Hassan) : MR 81, fl. 226 (Viceroy’s letter to king of Portugal dated 17  January 1716).
-205) Goa Archives : MR 82, fl. 133.
-206) Goa Archives : MR. 84A, fl. 60. Pissurlencar, Assentos Ⅴ, pp. 295-8.
-207) Goa Archives : RV 8. fl. 87 (Viceroy’s letter dated 9 September 1719 to Nawab Bahadur Dil Khan).
+- 194) Goa Archives : RV 5, fl. 114 v.; MR 69, fl. 108; RI 11, fl. 46v. BNL. MS. 465 F. G. Noticias da India desde o fim do governo  do Vice-rei Vasco Fernandes Cesar athe o fim do anno de 1738 (fl. 112). BNL : MS. 1455 F. G. Intruçoes do Vice-rei Conde da  Ericeira ao seu sucessor (22 October 1720).
+- 195) BNL, MS. 1455, Instruçoes que deixou o Conde da Ericeira (22 October 1720) : “… o rey de Sunda he mais mercador que  guerreyro, e por essa razao bom para vezinho…” (Gist : “Since the Saunde prince is more of a tradesman than a warrior we  prefer him as our neighbour.”.
+- 196) Goa Archives : RI No. 9. fl. 42v; RV No. 6, fl. 116v (Viceroy’s letter dated 27 May 1706). Pissurlencar, Assentos Ⅴ, p. 213;  ADP, p. 544.
+- 197) Goa Archives : RV 5, fl. 117v; RJ 9, fl. 42v.
+- 198) Goa Archives : RV 7, fl. 11v.
+- 199) Goa Archives : MR 72, fl. 419.
+- 200) Pissurlencar, Assentos Ⅴ. pp. 236-41.
+- 201) Goa Archives : MR 72, fl. 7.
+- 202) Sabnis, Pant Amatya Barda Daftar, Part Ⅰ, p. 138. Goa Archives : MR 73, fl. 35.
+- 203) Goa Archives : Marathi Correspondence.
+- 204) Goa Archives : RV 8, fl. 28v. (Letter to Moghul Ali Hassan) : MR 81, fl. 226 (Viceroy’s letter to king of Portugal dated 17  January 1716).
+- 205) Goa Archives : MR 82, fl. 133.
+- 206) Goa Archives : MR. 84A, fl. 60. Pissurlencar, Assentos Ⅴ, pp. 295-8.
+- 207) Goa Archives : RV 8. fl. 87 (Viceroy’s letter dated 9 September 1719 to Nawab Bahadur Dil Khan).
