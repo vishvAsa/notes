@@ -30,3 +30,6 @@ title: Intro/ Misc
 
 - BMC Adventures [here](https://bmcadventures.vacationlabs.com/terms-and-conditions).
 - Gethna [here](http://www.gethnaa.com/).
+
+## Skin imports
+- Prohibited: Articles of apparel and clothing accessories of wild animals covered under the Wild Life Protection Act, 1972.

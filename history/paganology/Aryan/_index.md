@@ -15,6 +15,13 @@ title = "+Aryan"
 - Half of Western European men descended from one Bronze Age ‘king’. "In Western Europe, related lineages within R1b-L11 expanded ~4.8–5.9 kya (Supplementary Fig. 14e), most markedly around 4.8 and 5.5 kya. The earlier of these times, 5.5 kya, is associated with the origin of the Bronze Age Yamnaya culture." \[[N16](http://www.nature.com.ucsf.idm.oclc.org/ng/journal/vaop/ncurrent/full/ng.3559.html) [T](http://www.telegraph.co.uk/science/2016/04/25/half-of-british-men-descended-from-one-bronze-age-king/)16 \]
 - This resulted in 60-30% population replacement (more in the northeast, least in the southwest)
 
+### Corded ware culture
+- The Corded Ware is a culture that appeared that abruptly in Northern Europe between 2900 and 2800 BC, covering a vast territory of Central and Eastern Europe in a century. The name derives from the unique marks left on their pottery.
+
+> The Corded Ware culture in its mature phase is about 70% Yamnaya and 30% farmer. The farmer’s ancestry almost certainly comes exclusively through women. The Y chromosomes of the farmers were G2. There is very little of that within a few generations. It is almost all R1a.
+> 
+> ... the men from the steppe took wives from the farmers. They killed their fathers and brothers and took them to their homesteads to bear them children. These women knew how to make pots because they did not come from nomadic backgrounds. They adapted their techniques to making pots that exhibited marks that made them resemble the baskets that their husbands brought in their wagons. - RK
+
 ### Greek waves
 - "One of the causes for the end of the Mycenaean civilization is held to be the invasion of another Greek group the Dorians. In Greek epics these invasions are believed to represent the return of the Heracleidai, he descendents of Herakles who set out to conquer Greece from the other rulers. From the historical view point it is interesting to note that the use of the script declined after the Dorian invasion even though the Dorians were Greek speakers and could have easily adapted the Linear B themselves." \[[MT11](https://manasataramgini.wordpress.com/2011/08/03/homers-illiteracy/)\]
 
