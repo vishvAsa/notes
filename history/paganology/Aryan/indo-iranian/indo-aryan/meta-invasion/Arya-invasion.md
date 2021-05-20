@@ -18,6 +18,7 @@ The (more credible) AIT narrative of Bronze age events. For an account of the ra
 
 ## Textual provenance
 ### Spacio-temporal coordinates
+> Indo-Aryans initially resided in the area around/ beyond the Black Sea, and were familiar with cold and long dawns (as evidenced by some parts of the Vedic texts - long ashvina-shastra to be recited at dawn). This is supported by genetic studies such as - [N15](http://www.nature.com/ncomms/2015/151116/ncomms9912/full/ncomms9912.html). Even in the ancient past, they were a composite people \[[MTTW16](https://twitter.com/blog_supplement/status/739516248522915840)\].
 
 > RV shows clear knowledge of specific geothermal phenomena in the Caspian region. Further, its astronomical references compared with those of the Yajurveda and the Vedāñga Jyotiṣa point to dates certainly certainly earlier to ~3500-3200 YBP and even before the earliest Sintashta chariots, perhaps closer to 5000 YBP than 4000 YBP. These dates, while well-known to Hindu scholars since Tilak, are routinely ignored by white indologists as fantasies of the Hindus despite early acknowledgment of the same in their midst by Jacobi. ... as discussed earlier it does match with other features like:
 > 

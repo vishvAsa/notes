@@ -6,12 +6,9 @@ title = "+Aryan"
 - Etymology of "Arya": [KE2015](http://koenraadelst.blogspot.com/2015/03/the-indo-european-vedic-and-post-vedic.html).
 
 
-## Old home
-Indo-Aryans initially resided in the area around/ beyond the Black Sea, and were familiar with cold and long dawns (as evidenced by some parts of the Vedic texts - long ashvina-shastra to be recited at dawn). This is supported by genetic studies such as - [N15](http://www.nature.com/ncomms/2015/151116/ncomms9912/full/ncomms9912.html). Even in the ancient past, they were a composite people \[[MTTW16](https://twitter.com/blog_supplement/status/739516248522915840)\].
-
-
 ## Rapid radiation
-They radiated out widely, merged with and dominated prior occupants in vast tracts of Eurasia. \[[Vid2015](https://www.youtube.com/watch?v=KdQwalCPNAs)\]
+- They radiated out widely, merged with and dominated prior occupants in vast tracts of Eurasia. \[[Vid2015](https://www.youtube.com/watch?v=KdQwalCPNAs)\]
+- Razib ran the 'back of the envelope' using reich lab qpadmin model, i estimate that something like 11% of the ancestry of modern ppl in the whole world can be modeled as 'yamnaya'. about 850 million people if you multiple genome*person
 
 ### Eurpoean migration
 - [Nat](http://www.nature.com/nature/journal/v522/n7555/full/nature14317.html), [Arx](http://arxiv.org/pdf/1502.02783.pdf).
@@ -22,11 +19,16 @@ They radiated out widely, merged with and dominated prior occupants in vast trac
 - "One of the causes for the end of the Mycenaean civilization is held to be the invasion of another Greek group the Dorians. In Greek epics these invasions are believed to represent the return of the Heracleidai, he descendents of Herakles who set out to conquer Greece from the other rulers. From the historical view point it is interesting to note that the use of the script declined after the Dorian invasion even though the Dorians were Greek speakers and could have easily adapted the Linear B themselves." \[[MT11](https://manasataramgini.wordpress.com/2011/08/03/homers-illiteracy/)\]
 
 ## Central asia
+- "Indo-Europeans reached and probably overwhelmed the Eastern Steppes starting first around 5300 YBP symmetrically with the first invasion of western Europe. This eastern branch perhaps gave rise to the Tocharians though more data from the time Tocharian was actually attested would be useful. ... While the Afanasievo people who represent the 1st IE invasion of the east did not mix noticeably with the east Asians."
+- "However, a second wave of Indo-Europeans, the Indo-Iranians, started advancing east perhaps starting around 4100 YBP. They appear to have conquered the Kazakh steppes by around 4000 YBP& sometime in the following 500 years invaded India: Aryan invasion."
+- "By sometime around 3200-2900 YBP a branch of the Aryans advanced deeply to the east. ...This new Indo-Iranian wave mixed with the East Asians in Mongolia... This gene flow was not very extensive in the eastern reaches but it brought the technology of horse+goat+sheep+cow diary pastoralism to the east. This appears to have been transferred without much genetic acquisition of the lactase persistence phenotype."
 - Population replacement ~50%. R1a1a is quite common among some central Asian populations, reaching levels of up to 60% among the Kyrgyz and the Tajiks. It is possible that the haplogroup expanded through central Asia and into northwestern India shortly before the arrival of agriculture, which arrived in the region shortly after 10,000 years ago.  (23andme)
 
-### Other locaii
+> Basically, the eastern Yamnaya ancestry has been sloshing around the steppe for thousands of years. After 2000 BC they were absorbed into Indo-Iranians, but their far eastern outliers, the Afanesievo maintained some cultural continuity in the form of the Tocharian languages.
+
+### Replacement
 - Central Asian waves led to close interaction with mongoloid people .:
-    - More [here](../../../../paganology/steppe/).
+    - More [here](../Trans-eurasian/hunnic/).
 
 - IIr radiation considered separately.
 
