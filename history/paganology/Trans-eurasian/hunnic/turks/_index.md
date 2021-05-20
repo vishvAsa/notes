@@ -9,6 +9,8 @@ title: Turks
 
 In a sense east Asian males progressively replaced Iranic type males (chased away/ killed). But the male line persists: for e.g. R1a1a Y haplogroup is quite common in some Uighur and Qinghai Mongol populations. They are likely remnants of old Iranics and Aran-s who were allied to the Khan
 
+The turkic expansion is more like a 50-10% replacement (though the 10% is weighted in the most populous area, turkey, 50% in places like kazakhstan).
+
 ## Kök Türük Göktürk Khaganate 
 - [Kök Türük (Gök Türk = Blue Turk)](https://manasataramgini.wordpress.com/2010/03/06/the-epic-on-stone/)
 - They took over from the Hunnic Rouran khanate.

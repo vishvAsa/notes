@@ -1,6 +1,5 @@
 +++
-title = "+Euro hunter gatherers"
-unicode_script = "devanagari"
+title = "+Euro farmer hunter gatherers"
 +++
 
 ## Western Hunter-Gatherers
@@ -15,6 +14,8 @@ Early European Farmers (EEF), First European Farmers (FEF), Neolithic European F
 They split from Caucasian Hunter-Gatherers (CHGs) around 23,000 BC.
 
 The EEFs had settled Europe after the worst catastrophes following the Last Ice Age - the Storegga Slides. A continental shelf collapsed & resulting tsunamis drowned an entire landmass (Doggerland) while floods elsewhere in Europe devastated WHG communities. There was also terrible flooding in the Balkans in 6200 BC & the EEF invaded Europe from Anatolia via Greece at the same time.
+
+The early european farmers from anatolia seem to have been a 90-50% replacement (s. europe vs. scandinavia)
 
 ## Megalith Builders
 The Megalith Builders were the result of WHG chieftains overthrowing the decadent EEF chiefs like those of the Linear Ceramics around 4400 BC & subjugating an 1800 year old neolithic civilization. Possibly related to spread of copper-working.

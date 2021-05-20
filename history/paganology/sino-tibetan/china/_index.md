@@ -2,6 +2,9 @@
 title: +China
 ---
 
+## Han push 
+- han chinese push into south china (south of yangzi) looks to be 75% or so replacement.
+
 ## Inner and outer coat
 ### Outer imitation
 - "chIna-s are exquisitely responsive to the language of power and often imitate the dominant cultures in their outer coats chIna-s are exquisitely responsive to the language of power and often imitate the dominant cultures in their outer coats"
