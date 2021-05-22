@@ -148,6 +148,9 @@ Trigger antibody development thence.
 
 ### Efficacy
 - The efficacy against severe COVID-19 disease was 100 per cent (95%CI: 60-100), with an impact on reduction in hospitalisations. The efficacy against asymptomatic COVID-19 infection was 70 per cent, suggesting decreased transmission in COVAXIN recipients.
+  
+### Dosage gap
+- However, the immunity level produced after the first dose of Covaxin is not as high and "this means the second dose should be taken after four weeks to ensure full efficacy".
 
 
 ## Gamelaya Sputnik V
