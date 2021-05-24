@@ -12,7 +12,9 @@ title = "Effects"
   - This is not due to virus or pneumonia (determined from autopsy and research). It is due to blood clotting in the veins, clogging blood flow. Hence, oxygenation is affected. This tendency for clotting remains for up to 3 weeks.
   - Antibodies sensitive to the viral spike protein have begun attacking blood vessels in the lungs, intestines (hence diarrhea), liver and kidneys which have similar proteins. Normal smoothness of interiors of blood vessels is lost, blood cells start sticking there leading to clots.
 - In some of these people, damage accumulates until lung damage is severe - oxygenation in required.
-- Due to treatment of second phase of the disease with steroids, opportunistic infections by bacteria and fungi may happen.
+- Steroid treatment side effects: 
+  - Opportunistic infections by bacteria and fungi may happen. Often patient feels improvement a day or two after steroid therapy is started, but by 4th day, they start having fever again. 
+  - They're diabetogenic. Blood sure in diabetics may shoot to 400 or 500. Pre-diabetics may show diabetes.
 
 ## Duration
 - "About 80 percent of infections, according to the World Health Organization, “are mild or asymptomatic,” and patients recover after two weeks, on average."

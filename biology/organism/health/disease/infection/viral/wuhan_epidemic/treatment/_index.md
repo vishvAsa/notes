@@ -20,11 +20,14 @@ title = "+Treatment"
 ### Mathew Varghese protocol
 - [YT](https://www.youtube.com/watch?v=CJzo6JIqhCw)
 - Understand the expected progression of the disease.
-- Note down the day of the first symptoms (not what troubled them the most). Very critical in determining proper and timely treatment - day or 2 calculation error may result in hospitalisation.
+- Note down the day of the first symptoms (not what troubled them the most). Very critical in determining proper and timely treatment - day or 2 calculation error may result in hospitalisation. Don't rely on the tests - watch the symptoms.
 - Wait till the first phase is over (3 or 4 days after first symptoms). NO steroids or blood thinners here - lest you foil the immune system even as the viruses are multiplying.
 - If you notice signs of second phase (autoimmune attacks on blood vessels leading to persistent fever, cough, breathing problem) - start steroids and anti-coagulants/ blood thinners (21 day regimen because tendency for clotting remains so long).
+  - Don't wait for blood saturation to drop and loose time being ignorant of severely damanged lungs! (People with one l lung can have 100% blood O2 saturation). 
 - If you're deep into the second phase without timely treatment - bad luck - you need oxygenation - all they way to 16 liters depending on severity. If problem persists, you may need CPAP+++(← constant pressure)+++, BiPAP+++(← differing pressure during inhalation and exhalation)+++, and ventilators.
-- When on 
+- Counter steroid side effects
+  - On 4th day fever may return due to opportunistic bacterial infection leading to pneumonia. Only here are antibiotics useful.
+  - Deal with diabetes exacerbation.
 
 ## Symptomatic treatment
 - Multivitamins + Cough Syrup + Anti-allergics + Paracetamol (650 mg for adults). The goal from Day 1 has to be to keep fever low if it is high: Hydrate (High fluid intake) + Steam + Paracetamol.
