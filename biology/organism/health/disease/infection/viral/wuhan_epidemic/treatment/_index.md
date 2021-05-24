@@ -2,7 +2,8 @@
 title = "+Treatment"
 
 +++
-- Do not take steroids before the stage of requiring oxygen as it is proven to cause more problems (eg. Black fungus - mucor-mycosis) than do good.
+
+- For progression (motivating treatment), see [effects](../Effects) page
 - No CT scans for mild symptoms not requiring oxygen. (like exposing yourselves to 300-400 chest X Ray's in one go - or  3.6 years of natural exposure. Some have had 2-3 scans in 10 day hospitalisation. life time additional risk of getting a fatal cancer: 1/25k. ) A Chest X ray can tell you all that along with Oxygen saturation.
 
 ##  Protocols
@@ -15,6 +16,15 @@ title = "+Treatment"
 - Kerala protocol
 - Tamil Nadu protocol
 - WHO recommendations [20200902](https://www.bmj.com/content/370/bmj.m3379).
+
+### Mathew Varghese protocol
+- [YT](https://www.youtube.com/watch?v=CJzo6JIqhCw)
+- Understand the expected progression of the disease.
+- Note down the day of the first symptoms (not what troubled them the most). Very critical in determining proper and timely treatment - day or 2 calculation error may result in hospitalisation.
+- Wait till the first phase is over (3 or 4 days after first symptoms). NO steroids or blood thinners here - lest you foil the immune system even as the viruses are multiplying.
+- If you notice signs of second phase (autoimmune attacks on blood vessels leading to persistent fever, cough, breathing problem) - start steroids and anti-coagulants/ blood thinners (21 day regimen because tendency for clotting remains so long).
+- If you're deep into the second phase without timely treatment - bad luck - you need oxygenation - all they way to 16 liters depending on severity. If problem persists, you may need CPAP+++(← constant pressure)+++, BiPAP+++(← differing pressure during inhalation and exhalation)+++, and ventilators.
+- When on 
 
 ## Symptomatic treatment
 - Multivitamins + Cough Syrup + Anti-allergics + Paracetamol (650 mg for adults). The goal from Day 1 has to be to keep fever low if it is high: Hydrate (High fluid intake) + Steam + Paracetamol.

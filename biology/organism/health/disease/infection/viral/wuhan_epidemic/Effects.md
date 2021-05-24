@@ -3,6 +3,17 @@ title = "Effects"
 
 +++
 
+## Progression Overview
+- Cells invaded by Virus.
+- Viruses multiply. Antibodies start getting tuned to spike protein.
+- 4th or 5th day +- 2 days: First symptoms. Antibodies and viruses battle it out - release cytokines, resulting in fever, body ache, sore throat etc..
+- By 3rd or 4th day after this, fever usually comes down - due to the virus numbers dying down. (For 80% of people, this is the end of the infection effects.) In people who start taking steriods prematurely, this phase is prolonged.
+- For some (10-15%) people, the symptoms become severe. Fever comes back, or becomes higher fever. Cough may turn into a deep hacky dry cough. Chest congestion may lead to breathing difficulty.
+  - This is not due to virus or pneumonia (determined from autopsy and research). It is due to blood clotting in the veins, clogging blood flow. Hence, oxygenation is affected. This tendency for clotting remains for up to 3 weeks.
+  - Antibodies sensitive to the viral spike protein have begun attacking blood vessels in the lungs, intestines (hence diarrhea), liver and kidneys which have similar proteins. Normal smoothness of interiors of blood vessels is lost, blood cells start sticking there leading to clots.
+- In some of these people, damage accumulates until lung damage is severe - oxygenation in required.
+- Due to treatment of second phase of the disease with steroids, opportunistic infections by bacteria and fungi may happen.
+
 ## Duration
 - "About 80 percent of infections, according to the World Health Organization, “are mild or asymptomatic,” and patients recover after two weeks, on average."
 - Can last very long - "When I spoke with LeClerc on day 66, she was still experiencing waves of symptoms. “Before this, I was a fit, healthy 32-year-old,” she said. “Now I’ve been reduced to not being able to stand up in the shower"" [AT](https://medium.com/the-atlantic/covid-19-can-last-for-several-months-c3391bddbe6c)
