@@ -10,6 +10,10 @@ title = "Oxford Astra-Zeneca"
 ## Efficacy
 - if you have antibodies to the vector that they use, Chimpanzee Adenovirus results in neutralizing the vaccine efficacy. Such antibodies may develop after the first dose as well, nullifying the second dose. (Chinese had tried similar trials and had demonstrated 52% of their participants had antibodies to Adenovirus which is a naturally occurring viral infection.)
 
+### B 1.617
+- After 1 dose        32.9%
+- After  2 doses     59.8%  effectiveness.
+
 ### Init strain
 - Indian population, init strain: Efficacy with single dose 52%. Second dose close to 12 weeks 78.79%
 - UK Population, init strain: The efficacy with the first dose is about 70%. UK govt is going for single shot followed by 2nd dose by 12 weeks (will supposedly make efficacy 80%). 
@@ -20,6 +24,7 @@ title = "Oxford Astra-Zeneca"
 ### Against other variants
 - Against the South African mutant E484 10.4%.
 - Symptomatic #B117 70% reduction. Asymptomatic #B117 29% reduction.
+
 
 ## UK Trial problems
 - Less Black  and Asian representation.

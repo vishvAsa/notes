@@ -36,6 +36,8 @@ Original is called: Victoria.
 - By Dec 9th,62% of the virus was this variant in London.
 - B117 variant “may be associated with higher degree of mortality” (30-40% increase in 60+ age group), in addition to 50-70% more transmissible. 
 
+### Vaccination
+- See UK data under B 1.617
 
 ## South Africa 501.V2, 20H/501Y.V2,  B.1.351 lineage
 - spreading faster,tends to have high viral load and possibly more severe to young adults.
@@ -67,7 +69,9 @@ Original is called: Victoria.
 ### Vaccines
 - COVAXIN and COVISHIELD have demonstrated early neutralizing efficacy against B 1.617
 - Pfizer and Moderna showing 7 fold reduction in antibodies that can neutralize the variant found in India(B 1.617.2) according to WHO's weekly update.
-
+- Aggregate data from UK BioNTech/Pfizer and Oxford/AstraZeneca jabs.
+    - 1 dose: 33 per cent protection against symptomatic infection from B.1.617.2, and 51 per cent against B.1.1.7.
+    - 2 doses  81 per cent protection against the B.1.617.2, 87 per cent against the B.1.1.7 strain
 
 ### Effects
 - The virus has about 40-50% more transmissibility than the B 117 UK variant.

@@ -14,24 +14,30 @@ Mucors are more basal fungi (i.e. outside of the "crown fungi" composed of ascom
 > It appears that cold blooded animals are way more susceptible to fungal infections. Warm blooded animals like mammals and dinosaurs are less so. One of the selective advantages that might have led to the fixation of warm bloodedness is probably a high degree of natural resistance to systemic mycosis.  My own investigations suggest that cold-blooded animals might have a special defense against such fungal pathogens that we have lost as endothermy takes care. Thus, we see frogs being decimated by systemic fungal infection but rare to see mammalian (except probably bats) or bird species being similar attacked. ... So there has to be a special condition for systemic mycosis & probably the diabetes prevalence in desh is the big factor in this.
 
 #### Comorbidities
-> cases of mucor infections being reported in the current wave in the desh. In America I have seen reports of it arising from infections of injuries in war or during hurricanes but didn't read of it as sequel of SARS-CoV-2 infection.
+- Immune suppression (eg. with steroids)
 
 ##### Diabetes
 - majority of cases arise in patients with diabetes with high ketone concentration in blood.
-    - "This could explain the high incidence in the current COVID wave due to the high incidence of diabetes in India which might be exacerbated by the steroid treatment & perhaps pushing some to ketoacidosis." - MT
-
-
-> while it might not immediately affect treatment it would be good for them to keep an eye on: 1) what are the prevalent species in this wave? 2) Are ascomycetes also involved like aspergillosis?
 
 ### Symptoms
-- Mucormycosis( Black fungus)
 - Facial pain.
-  - pain in eye, loss of vision.
+  - pain in eye, protrusion of orbit, loss of vision.
+- Nasal blockage / brown discharge
 - Headache.
 - Black lesions on upper inside of mouth.
 
+#### Tests
+- Easy to confirm in case of facial variety - 1 hour result.
+
+> while it might not immediately affect treatment it would be good for them to keep an eye on: 1) what are the prevalent species in this wave? 2) Are ascomycetes also involved like aspergillosis? - MT
+
 ### Treatment
-- The cost of one vial of Ambisome( Amphotericin 😎 used to be INR 4000.
+- Early detection and treatment essential. Else disease spreads to eye, then to brain or lungs.
+- Reduce immune suppressents (eg steroids), control glucose level.
+- Quick surgery to remove fungal material/ growth (else drugs won't work) - even if it means removing the eye.
+- Ambisome( Amphotericin ). 3-6 weeks. The cost of one vial of Ambisome( Amphotericin ) used to be INR 4000. Use full dose.
+- A few months follow-up with other drugs.
+
   
 ### Cost during COVID
 - But during COVID time 202105, as the demand has gone up,the cost of a 50mg vial has been increased to INR 7400.
