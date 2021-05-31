@@ -14,9 +14,8 @@ One of the earliest, classical commentators for sangam-era tamiL classics includ
 great scholar from kashmIra. He lived in the 800-900s of CE and was associated with
 the dictatorial king shankaravarman.
 
-### सायणमाधवौ
--माधवो विद्यारण्यः
-  - Glory of भारद्वाज गोत्र, the 12th पीठाधिपति & शङ्कराचार्य of शृङ्गेरि शारदापीठ; brought light to भारत by establishing हरिहरराय & बुक्कराय in power, thus giving a blessed beginning to the विजयनगर line. A महातपस्वि & an ocean of knowledge of शास्त्राणि (śāstra-s).
+### विजयनगरमन्त्रिणः
+- माधवो विद्यारण्यः, तद्भ्राता सायणः, अपरो मन्त्री माधवः शैवः, गोपणार्यः - [विजयनगरपृष्ठेषु](/notes/history/paganology/Aryan/indo-iranian/indo-aryan/persons/xatra/vijayanagara/1_Founder_age/) वर्णिताः।
 
 ### अल्लसानि पॆद्दन (అల్లసాని పెద్దన)
 another luminary of the भारद्वाज गोत्र in the vijayanagaran era, 1 of the 8 great poets of the court of कृष्णदेवराय, author of the telugu literary masterpiece, मनुचरित्र, which narrates the story of the birth of स्वरोचिष मनु
