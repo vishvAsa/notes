@@ -1,4 +1,4 @@
 +++
-title = "+xatra asv2"
+title = "+xatra v2"
 unicode_script = "devanagari"
 +++

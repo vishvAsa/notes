@@ -8,7 +8,8 @@ title = "+Aryan"
 
 ## Rapid radiation
 - They radiated out widely, merged with and dominated prior occupants in vast tracts of Eurasia. \[[Vid2015](https://www.youtube.com/watch?v=KdQwalCPNAs)\]
-- Razib ran the 'back of the envelope' using reich lab qpadmin model, i estimate that something like 11% of the ancestry of modern ppl in the whole world can be modeled as 'yamnaya'. about 850 million people if you multiple genome*person
+
+> ran the 'back of the envelope' using reich lab qpadmin model, i estimate that something like 11% of the ancestry of modern ppl in the whole world can be modeled as 'yamnaya'. about 850 million people if you multiple genome*person. Today nearly 50% of humans speak an Indo-European language...Their demographic impact is even more striking: if you were to pool living humans’ DNA, proportionally, one billion total Yamnaya descendants walk among us today. - Razib
 
 ### Eurpoean migration
 - [Nat](http://www.nature.com/nature/journal/v522/n7555/full/nature14317.html), [Arx](http://arxiv.org/pdf/1502.02783.pdf).
