@@ -1,5 +1,5 @@
 +++
-title = "vaishyas v3"
+title = "+vaishyas v3"
 +++
 
 ## v3 conflicts
