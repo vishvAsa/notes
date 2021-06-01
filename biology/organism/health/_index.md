@@ -9,12 +9,21 @@ title: +Health
 बलाधिष्ठानम् आरोग्यं  
 यदर्थोऽयं क्रियाक्रमः।(चरकः)
 
-- "Health is the most important asset you have - but it's an invisible asset, only becoming apparent when you start losing it. ... Good health is the functioning of all systems; ill health only needs one thing to go wrong - hence our lives are inevitably 'doomed to failure'. .. Of course it is good to retain strength and muscle mass in older age." (Anna Karenina principle.)
+### Robustness vs fragility
+- "Good health is the functioning of all systems; ill health only needs one thing to go wrong - hence our lives are inevitably 'doomed to failure'. .. Of course it is good to retain strength and muscle mass in older age." (Anna Karenina principle.)
+
+### Risk reduction
+- A healthy life is risk reduction.
+
+> If in finance/business you concentrate on survival first i'e clipping the left tail - that's what you are doing when you exercise and eat right. You are reducing the likelihood of chronic illness, a 'blow-up', the absorbing barrier and disease. - GA
+
+### Youth
 - "Realise that the condition of youth is the prime expression of health - Do things to recreate youth. It isn't a single metric - Don't mistake one marker of health for a decisive marker against disease." See aging page to grok what youth entails.
 - Wildness but not savagery. Stimulus-response.
 
 ## प्रभावः
-Having negative health conditions diminishes our enjoyment of life, and makes us fragile to environmental and manmade stressors and unexpected events.
+- Having negative health conditions diminishes our enjoyment of life, and makes us fragile to environmental and manmade stressors and unexpected events.
+- "Health is the most important asset you have - but it's an invisible asset, only becoming apparent when you start losing it. ..."
 
 ## मार्गः
 - Do things to recreate youth. Even the "vigorous hunter mode".

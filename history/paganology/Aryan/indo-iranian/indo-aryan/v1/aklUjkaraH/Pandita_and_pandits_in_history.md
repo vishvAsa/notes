@@ -21,7 +21,7 @@ There are good grounds to suppose that the great Sanskrit grammarian Pänini (no
 
 The high probability that Pāņini derives paṇḍita from paṇḍā (in the sense “having the property called paṇḍā, possessing intelligence") would further make it unlikely that Pānini was not familiar with paṇḍita. Astādhyāyī 5.2.36 (tad asya samjātam tārakādibhya itac) is usually cited as authority in the traditional derivation of paṇḍita. The tārakādi lexeme class mentioned in this sūtra includes paṇḍā. No valid reason has been put forward to cast doubt either on the authenticity of the sūtra with its attendant lexeme class or on the tradition's view that this specific sūtra be pressed into service to derive paṇḍita. 
 
-The modern historically oriented linguistic approach has gone beyond Pāņini primarily in suggesting a connection of paṇḍita with a hypothesized prajñita (and thus of paṇḍā with prajñā “knowing ahead, insight, wisdom") or in suggesting a connection of paṇḍita with a hypothesized Indo-Iranian word paṇḍā (with dental n and d and hypothesized on the basis of New Persian paṇḍ meaning "counsel, good advice"). Under the first possibility, a process of prakritization which changed prajñita to paṇḍita (or, first, prajñā to paṇḍā) needs to be assumed, while, under the second, one needs to concede that spontaneous retroflexion has taken place. The first would take at least certain aspects of prakritization to a period not later than that of the Satapatha-brāhmaṇa (or Brhadāranyaka-Upanişad), while the latter would increase the probability that the word paṇḍita existed even in Old Indo-Aryan (cf. Burrow 1971:541-542). 
+The modern historically oriented linguistic approach has gone beyond Pāņini primarily in suggesting a connection of paṇḍita with a hypothesized prajñita (and thus of paṇḍā with prajñā “knowing ahead, insight, wisdom") or in suggesting a connection of paṇḍita with a hypothesized Indo-Iranian word paṇḍā (with dental n and d and hypothesized on the basis of New Persian paṇḍ meaning "counsel, good advice"). Under the first possibility, a process of prakritization which changed prajñita to paṇḍita (or, first, prajñā to paṇḍā) needs to be assumed, while, under the second, one needs to concede that spontaneous retroflexion has taken place. The first would take at least certain aspects of prakritization to a period not later than that of the Satapatha-brāhmaṇa (or Brhadāraṇyaka-Upanişad), while the latter would increase the probability that the word paṇḍita existed even in Old Indo-Aryan (cf. Burrow 1971:541-542). 
 
 - 4 Given the evidence of sütra 5.1.123, Pāṇini was probably aware also of the abstract noun pänditya derived from paṇḍita. 
 - 5 Other etymologies were proposed, and, at one time, a borrowing from the Dravidian family of languages was also suspected (cf. Mayrhofer vol. II/1963:196-198; vol. II/1996:70-71). However, the totality of evidence suggests that these other explanations of the origin of paṇḍita need not now be seriously entertained.
@@ -63,133 +63,50 @@ That paṇḍita initially stood for “one prone to investigation and making se
 > tasmad brāhmaṇaḥ paṇḍityam nirvidya bālyena tiṣṭhāset. bālyam ca paṇḍityam ca nirvidyātha munih. amaunaṁ ca maunaṁ ca nirvidyātha brāhmaṇaḥ 11 (Brhadaranyaka 3.5.1 = Satapathabrāhmaṇa 14.6.4.1) 
 
 - 10 Like many early Upanisadic passages, the following passages can be translated variously. The intended meaning is not always so clear as to enable us to reject certain other translational possibilities with absolute certainty. I have tried to render the passages by taking the context into consideration and by consulting the better of the translations accessible in print, but I will not take up space by giving explanations of why I set certain translations aside. Olivelle 1998 contains succinct accounts of the variations,
-- 11 A variant paṇḍitah is found for this word in the Mädhyamdina recension. Although editors have generally preferred brāhmaṇah, probably as a lectio difficilior and as a reading accepted in the earliest available commentary, namely Samnkara's, it should be noted that the structure of the passage favours paṇḍitah. The passage clearly advises that pāndirya should give way to bālya. Therefore, paṇḍita should be the presumed starting point. Also, since to be a brāhmaṇa, a truly spiritual person, is envisaged as the outcome, brāhmaṇa should not be the starting point. One can, of course, accommodate brāhmaṇah as a reading in the first sentence by taking it to mean "brāhmaṇa in the worldly or conventional sense of the word, a person expected to pursue knowledge and spiritual progress". However, there is no indication in the passage or its context to the effect that we should think of a lower brāhmaṇa initially and then of a higher or truc brāhmaṇa. It is possible that brāhmaṇah paṇḍitah paṇḍityam... was the older reading, that some redundancy was perceived in the phrase brāhmaṇah paṇḍitah (a brāhmaṇa was generally a paṇḍita, and vice versa) and that while the Mādhyamdina recension eliminated the redundancy by dropping brāhmaṇah, the Kānva achieved the same re sult by dropping paṇḍitah. 
-Samkara, in his commentary on the Bshadāranyaka, takes even the first brahmanah as standing for brahmavit, the higher or true brāhmaṇa, and consequently interprets the key words of the remaining sentences very differently from the way I have interpreted them: paṇḍitya as ātma-vijñāna "knowledge of the true self", nirvidya as nihsesam vid itva "having known thoroughly", balyena as jñāna-bala-bhāvena "with the strength of the knowledge (of the true self, which knowledge transcends the ordinary means-and result relationship)", mauna as anātmapratyayatiraskaranasya paryavasānam phalam ""the culmination resulting from excluding the experience of things that are not the true self". While this interpretation is consistent in itself, it involves importation of a num ber of ideas not specifically stated in the context and assignment of an unusual meaning to nir+vid. 
-LE 
-J 
-TT 
-YVE 
-2T 
-TR 
-TTTT 
-L 
-+ 
-Ashok Aklujkar 
-II 
-12 
-I 
-"Therefore, a brāhmaṇa (or paṇḍita; note 11), becoming disinterested in the state of a paṇḍita, should aspire to abide in a child's (sim ple, nondiscriminating) state. Further, having become disinterested in both the state of a child and the state of a paṇḍita (i.e., when he is consciously cultivating neither state), she becomes) a person given to silence (or quietening of the mind). Then, becoming disinterested in both silence and its opposite (i.e., when he is consciously cultivating neither the quietening nor the activațing of the mind), she becomes) a 
-[true] Brāhmaṇa." Here the direct contrast with the state of a child and the indirect contrast with the state of a muni (a meditative person or sage) indicates that the paṇḍita envisaged in the statement is one who is capable of and involved in judgmental knowledge. This inference is further supported by the larger context of the statement. That context speaks of esanās "worldly aspir ations", which invariably involve judgment about what is good and what is bad, based on acquisition and analysis of much information. 
-tot 
-FEL 
-11 
-TT 
-wa 
-JT 
-LIU 
-FELIZ 
-JI 
-I 
-2 
-P 
-TITT 
-2 
-Z 
-TT 
-1 
-. 
-CDTI 
-DY 
-GU 
-L 
-s 
-LDP 
-TT 
-LTL 
-ALPH 
-2 ELIT 
-TITL 
-TT 1 
-21 
-ILLE 
-TE/ 
-TUL 
-PET 
-atha ya icched duhitā me paṇḍită jāyeta, sarvam ayur iyād iti, tilauda nam pācuyitvā sarpişmantam asnīyātām. Išvarau janayitavai. atha ya icchet putro me paṇḍito vigītah samitimgaman suśrușitām vācam bhäsitā jāveta, sarvan vedän anubruvīta sarvam āyur iyād iti, mām saudanam păcayitvā sarpişmantam aśnīyātām. īśvarau janayitavai // (Brhadāranyaka 6.4.17-18 = Satapathabrāhmaṇa 14.9.4.16-17) “Now, one who wishes that a daughter be born to him who would be a paṇḍita and who would live a full span of life, should, having got rice with sesame seeds cooked, eat (that rice)—he and his wife should eat that rice along with clarified butter. (He and his wife are then) able to give birth to (such a daughter). Now, one who wishes that a son be born to him who would be a paṇḍita, who would be variously praised, 12 who would be admitted to councils, 3 who would be a speaker of words (that others) would like to hear, who would recite all the Vedas (and] who would live a full span of life, should, having got rice with meat cooked, eat (that sice)—he and his wife should eat that rice--along with clarified butter, 14 (He and his wife are then able to give birth to (such a son)." 
-- 
-T 
-1 
-T 
-HI 
-2 
-. 
-! 
-Quick grasp, distinction in expressing thoughts, and sense of what is proper in society and the assemblies are evidently seen in the preceding citation as qualities one can expect from a paṇḍita. Thus, intelligence and discretion 
-LY 
-. 
-LT 
-1. 
-LLUT 
-LT 
-YIL 
-1 
-1 
-12 That is, praised for many reasons or in diverse manners. Another possible translation: 
-"especially praised, praised distinctively over and above the others". 13 Literally, "one who would go to councils--attend council meetings“. The connotation 
-could be, as Samkara's parapbrase with pragalbha suggests, of boldness or of not being 
-shy with respect to public speaking. 14 This may not mean that clarified butter be mixed with the rice prepared—be a part of 
-the same morsel. In some parts of India milk products are not mixed with meat dishes. 
-paṇḍita and paṇḍits in History 
-23 
-S. 
-LP 
-TIT 
-11 
-1 
-1 
-must have been viewed as parts of the meaning of paṇḍita. The passage pre scribes two different rice preparations and connects a public profile with the paṇḍita status of only the son. Therefore, a difference between the under standing of a daughter as paṇḍitā and the understanding of a son as paṇḍita is likely to have existed. But, there is no indication that the difference per tained to intelligence or judgment.is 
-sa grāmăd grāmam prcchan paṇḍito medhävi gandhärān evopasam padyeta. evam evehācāryavān puruṣo veda // (Chandogya 6.14.2) **That one (the man released away from Gandhāra, his place of res idence), inquiring in one community after another, 6 being paṇḍita, [and] retentive (of the information given to him), will approach Gan dhāra itself. Exactly thus does in this world a person having (the 
-benefit of) a teacher come to know who he really is)." The juxtaposition of paṇḍita with medhāvin "one with a retentive faculty of the mind" is especially worth noting in this last passage. In it, the person concerned is assumed to be intelligent enough to inquire properly or in an informed way (with a clarification of what has happened to him, where he wishes to go etc.) and to understand the advice given to him.17 In other words, resourcefulness and ability to see through a situation reasonably quickly are most likely to be the qualities the author of the passage had at the back of his mind when he used the word paṇḍita. 
-That the meaning component "intelligence" implicit in paṇḍita was neu tral as to which kind of knowledge it would lead to, academic or spiritual, and could easily be associated with spiritual knowledge is borne out by the following Bhagavadgītā statements: 
-gatāsün agatāsūms ca nănușocanti paṇḍitäh/ (2.11cd): "The paṇḍitas do not mourn either the dead or the living." yasya sarve samārambhāḥ kamasamkalpavarjitāḥ/ jñänägnidagdhakarmánam tam āhuh paṇḍitam budhah // (4.19): "The knowledgeable ones call him a paṇḍita whose undertakings are in their entirety free from desire and purpose and whose actions have been burnt up in the fire of knowledge." 
-- 
-- 
-GL. 
-. 
-V 
-- 
-— 
-.. V 
-LIL 
-TE 
-L 
-G 
-JIST 
-T 
-ci. 
-. . ...-.-. 
-. . 
-. 
-. 
-15 Commentator Samkara's clarification of how a daughter could be viewed as paṇḍitais: 
-duhituh paṇḍityam grha-tantra-visayam eva, vede 'nadhikārät *A daughter's being a paṇḍita is possible only with respect to the technique of (running a) household, since she would be ineligible to study the Veda". The state of affairs articulated by Samkara 
-may or may not go back to the Vedic times. 16 Alternatively, the phrase could mean "inquiring in the earlier community he encounters 
-what the next village in the direction of his destination would be". 17 Samkara paraphrases paṇḍitah with upadeśavan "one who possesses--holds 
+- 11 A variant paṇḍitah is found for this word in the Mädhyamdina recension. Although editors have generally preferred brāhmaṇah, probably as a lectio difficilior and as a reading accepted in the earliest available commentary, namely Samnkara's, it should be noted that the structure of the passage favours paṇḍitah. The passage clearly advises that pānditya should give way to bālya. Therefore, paṇḍita should be the presumed starting point. Also, since to be a brāhmaṇa, a truly spiritual person, is envisaged as the outcome, brāhmaṇa should not be the starting point. One can, of course, accommodate brāhmaṇah as a reading in the first sentence by taking it to mean "brāhmaṇa in the worldly or conventional sense of the word, a person expected to pursue knowledge and spiritual progress". However, there is no indication in the passage or its context to the effect that we should think of a lower brāhmaṇa initially and then of a higher or true brāhmaṇa. It is possible that brāhmaṇah paṇḍitah paṇḍityam... was the older reading, that some redundancy was perceived in the phrase brāhmaṇah paṇḍitah (a brāhmaṇa was generally a paṇḍita, and vice versa) and that while the Mādhyamdina recension eliminated the redundancy by dropping brāhmaṇah, the Kānva achieved the same result by dropping paṇḍitah. Samkara, in his commentary on the Br̥hadāraṇyaka, takes even the first brāhmaṇaḥ as standing for brahmavit, the higher or true brāhmaṇa, and consequently interprets the key words of the remaining sentences very differently from the way I have interpreted them: pāṇḍitya as ātma-vijñāna "knowledge of the true self", nirvidya as nihsesam vid itva "having known thoroughly", bālyena as jñāna-bala-bhāvena "with the strength of the knowledge (of the true self, which knowledge transcends the ordinary means-and result relationship)", mauna as anātma-pratyaya-tiraskāraṇasya paryavasānam phalam ""the culmination resulting from excluding the experience of things that are not the true self". While this interpretation is consistent in itself, it involves importation of a number of ideas not specifically stated in the context and assignment of an unusual meaning to nir+vid. 
+
+"Therefore, a brāhmaṇa (or paṇḍita; note 11), becoming disinterested in the state of a paṇḍita, should aspire to abide in a child's (simple, nondiscriminating) state. Further, having become disinterested in both the state of a child and the state of a paṇḍita (i.e., when he is consciously cultivating neither state), [he becomes] a person given to silence (or quietening of the mind). Then, becoming disinterested in both silence and its opposite (i.e., when he is consciously cultivating neither the quietening nor the activațing of the mind), [he becomes] a [true] Brāhmaṇa."
+
+Here the direct contrast with the state of a child and the indirect contrast with the state of a muni (a meditative person or sage) indicates that the paṇḍita envisaged in the statement is one who is capable of and involved in judgmental knowledge. This inference is further supported by the larger context of the statement. That context speaks of eṣaṇās "worldly aspirations", which invariably involve judgment about what is good and what is bad, based on acquisition and analysis of much information. 
+
+> atha ya icched duhitā me paṇḍită jāyeta, sarvam ayur iyād iti, tilaudanam pācayitvā sarpiş-mantam asnīyātām. Išvarau janayitavai. 
+> 
+> atha ya icchet putro me paṇḍito vigītah samitimgamaḥ śuśrușitām vācam bhäsitā jāyeta, sarvān vedän anubruvīta, sarvam āyur iyād iti, māmsaudanam păcayitvā sarpişmantam aśnīyātām. īśvarau janayitavai // (Brhadāraṇyaka 6.4.17-18 = Satapathabrāhmaṇa 14.9.4.16-17) 
+> 
+> “Now, one who wishes that a daughter be born to him who would be a paṇḍita and who would live a full span of life, should, having got rice with sesame seeds cooked, eat (that rice)—he and his wife should eat that rice along with clarified butter. (He and his wife are then) able to give birth to (such a daughter).
+> 
+> Now, one who wishes that a son be born to him who would be a paṇḍita, who would be variously praised, 12 who would be admitted to councils, 3 who would be a speaker of words (that others) would like to hear, who would recite all the Vedas (and] who would live a full span of life, should, having got rice with meat cooked, eat (that sice)—he and his wife should eat that rice--along with clarified butter, 14 (He and his wife are then able to give birth to (such a son)." 
+
+- 12 That is, praised for many reasons or in diverse manners. Another possible translation: "especially praised, praised distinctively over and above the others".
+- 13 Literally, "one who would go to councils--attend council meetings“. The connotation could be, as Samkara's parapbrase with pragalbha suggests, of boldness or of not being shy with respect to public speaking. 
+- 14 This may not mean that clarified butter be mixed with the rice prepared—be a part of the same morsel. In some parts of India milk products are not mixed with meat dishes.
+
+
+Quick grasp, distinction in expressing thoughts, and sense of what is proper in society and the assemblies are evidently seen in the preceding citation as qualities one can expect from a paṇḍita. Thus, intelligence and discretion must have been viewed as parts of the meaning of paṇḍita. The passage prescribes two different rice preparations and connects a public profile with the paṇḍita status of only the son. Therefore, a difference between the understanding of a daughter as paṇḍitā and the understanding of a son as paṇḍita is likely to have existed. But, there is no indication that the difference pertained to intelligence or judgment.
+
+
+> sa grāmăd grāmam prcchan paṇḍito medhävi gandhärān evopasaṁpadyeta. evam evehācāryavān puruṣo veda // (Chandogya 6.14.2) 
+> 
+> "That one (the man released away from Gandhāra, his place of residence), inquiring in one community after another, 6 being paṇḍita, [and] retentive (of the information given to him), will approach Gandhāra itself. Exactly thus does in this world a person having (the benefit of) a teacher come to know who he really is)." 
+> 
+
+The juxtaposition of paṇḍita with medhāvin "one with a retentive faculty of the mind" is especially worth noting in this last passage. In it, the person concerned is assumed to be intelligent enough to inquire properly or in an informed way (with a clarification of what has happened to him, where he wishes to go etc.) and to understand the advice given to him.17 In other words, resourcefulness and ability to see through a situation reasonably quickly are most likely to be the qualities the author of the passage had at the back of his mind when he used the word paṇḍita. 
+
+That the meaning component "intelligence" implicit in paṇḍita was neutral as to which kind of knowledge it would lead to, academic or spiritual, and could easily be associated with spiritual knowledge is borne out by the following Bhagavadgītā statements: 
+
+> gatāsün agatāsūms ca nănușocanti paṇḍitäh/ (2.11cd): 
+> 
+> "The paṇḍitas do not mourn either the dead or the living."  
+> yasya sarve samārambhāḥ kāmasamkalpavarjitāḥ/  
+> jñänägni-dagdha-karmánam tam āhuh paṇḍitam budhah // (4.19): 
+> 
+> "The knowledgeable ones call him a paṇḍita whose undertakings are in their entirety free from desire and purpose and whose actions have been burnt up in the fire of knowledge." 
+
+- 15 Commentator Samkara's clarification of how a daughter could be viewed as paṇḍita is: duhituh paṇḍityaṁ grha-tantra-visayam eva, vede 'nadhikārät. "A daughter's being a paṇḍita is possible only with respect to the technique of (running a) household, since she would be ineligible to study the Veda". The state of affairs articulated by Samkara may or may not go back to the Vedic times. 
+- 16 Alternatively, the phrase could mean "inquiring in the earlier community he encounters what the next village in the direction of his destination would be". 
+- 17 Samkara paraphrases paṇḍitah with upadeśavan "one who possesses--holds 
 on to the instructions" and medhavi with paropadista-grāma-praveśa-mārgāva dhārana-samarthan "capable of understanding the way of entering (his own) village/community—the way taught by others". This is a reversal of the meanings I have assigned to the two words, but it too retains the distinction of meanings. 
--- - 
-L 
-· 
-. 
--- 
-- 
-- 
-- 
-24 
-Ashok Aklujkar 
-T1 
-LL 
-2 
-THI 
+
 samkhya-yogau prthag bālāh pravadanti, na paṇḍirāh / (5.4ab): "Only the simpletons put forward the view that Samkhya and Yoga are separate, not the paṇḍitas." vidyā-vinaya-sampanne brähmane gavi hastini/ suni caiva svapäke ca paṇḍitäh samadarsinah// (5.18): *The paṇḍitas see the same thing in a Brahmin endowed with wisdom and education, in a cow, in an elephant, in a dog and in a person eating the most polluting food."] 
 TU 
 IC 
@@ -399,53 +316,16 @@ LI
 . 
 . 
 25 There was regional variation in the matter, with the paṇḍits of Varanasi generally tend 
-ing to be conservative in matters of social reform (cf. Upādhyāya 1983:138-142) and those of Bengal generally displaying liberal tendencies in the same sphere (cf. Sinha 1993:v-vi). However, prominent paṇḍits at neither place remained uninvolved in social and political issues. They could have possibly done more, but one should not forget that the changes that came with Islam and the Europeans were very different in nature, speed and magnitude from any changes that might have come about because of the arrival of 
-30 
-F 
-T 
-+ 
-T 
-. 
-Ashok Aklujkar 
-TY 
-IEL 
-I 
-I 
-JT) 
-II 
-1 
-T 11 HELT 
-ILL 
-. 
-Pāņditya today After these historical observations which have a sense of certainty about them because they are grounded in philology and examination of literary evidence, I will offer a few observations that are impressionistic in nature, based on my general reading in Indology. The main intention in offering them is to provoke discussion and help in the process of bringing greater specificity to the research on paṇḍits. 
-Very soon after the possibilities to make a living through learning, teach ing etc., shrank considerably for the paṇḍit in the Islamic period26 of Indian history, the "Macaulay" policy of imparting higher education in English was instituted (1835 A.D.). That so much of the paṇḍitic tradition still survives despite nearly a thousand years of (first) largely hostile and (then) largely in different environment in many parts of India is mainly an indication of how strong and widespread the tradition must have been at one time. It would be unjustifiable (and insensitive) to infer from the tradition's survival that the paṇḍit's suffering was not long and serious.27 To say this is not to deny that 
-- 
-IT IN 
-TI 
-I 
-1 
-IF 
-L 
-1 
-+ 
-+ 
-LITE 
-LILL 
-EY 
-IL 
-F 
-ifra 
-UIT 
-IL 
-h1 
-TE 
-ty 
-11 
-the Yavanas, Hūnas, Sakas etc. Life and livelihood had become precarious. Older or ganizations had been destroyed or weakened. Earlier channels of communication had 
-been eliminated or disrupted. 26 By the phrase "Islamic period" I mean to convey only that there was an influential 
-political presence of powers subscribing to Islam-that Islam became a factor to reckon with in many walks of Indian life. I do not mean to imply that Islam prevailed over all 
-of India or that non-Muslims did not shape the cultural processes. 27 (a) In the otherwise useful accounts contained in Shukla 1969 and Sharma 1976, there 
-is no attenipt to determine what the condition of Sanskrit learning was before the impact of the East India Company rule began to be felt on the channels of education. The for iner begins with the assumption that Sanskrit did not face any decline and its condition was as robust as in ancient India. This assumption is not only made without offering adequate justification, it is extremely unlikely to be correct, given the many clear ac counts of political upheavals that we have from both Hindu and Muslim sources and the fact that almost all the centres of Sanskrit learning that Shukla lists were either rela tively small or belonged to areas relatively free from Muslim domination. Sharma, too, does not see the need to determine particularly the nature of Sanskrit learning surviving in spheres of direct Muslim political influence in order to be able to evaluate properly the ideas of Indians and Europeans concerning education. As already indicated, I pre fer to take into account what was probably lost along with what survived and do not see any need to doubt that the custodians of Sanskrit learning suffered extensive losses for several centuries in succession over large areas of India, both as individuals and in terms of learning resources such as manuscripts. (b) One day my teacher Professor S.D. Joshi was telling me about his teachers. When he came to mentioning Shankarshastri Marulkar, he suddenly choked up with tears. For several minutes he could not speak. The reason was that he suddenly remem bered Marulkar's last days and could not control his grief. Through Vasudevshastri Abhyankar, Ramshastri Godbole, Bhaskarshastri Abhyankar, Nilakanthashastri Thatte and Vaidyanath Paygunde, paṇḍit Marulkar belonged to the vidyāvamsa of the great Nägeśabhatta (cf. Abhyankar 1954:101, 1960:Preface pp. 6-7). He was versatile to the extent of being entrusted with the responsibility of editing several texts for the 
+ing to be conservative in matters of social reform (cf. Upādhyāya 1983:138-142) and those of Bengal generally displaying liberal tendencies in the same sphere (cf. Sinha 1993:v-vi). However, prominent paṇḍits at neither place remained uninvolved in social and political issues. They could have possibly done more, but one should not forget that the changes that came with Islam and the Europeans were very different in nature, speed and magnitude from any changes that might have come about because of the arrival of the Yavanas, Hūnas, Sakas etc. Life and livelihood had become precarious. Older or ganizations had been destroyed or weakened. Earlier channels of communication had
+been eliminated or disrupted.  
+
+## Pāņditya today 
+After these historical observations which have a sense of certainty about them because they are grounded in philology and examination of literary evidence, I will offer a few observations that are impressionistic in nature, based on my general reading in Indology. The main intention in offering them is to provoke discussion and help in the process of bringing greater specificity to the research on paṇḍits. 
+
+Very soon after the possibilities to make a living through learning, teach ing etc., shrank considerably for the paṇḍit in the Islamic period26 of Indian history, the "Macaulay" policy of imparting higher education in English was instituted (1835 A.D.). That so much of the paṇḍitic tradition still survives despite nearly a thousand years of (first) largely hostile and (then) largely indifferent environment in many parts of India is mainly an indication of how strong and widespread the tradition must have been at one time. It would be unjustifiable (and insensitive) to infer from the tradition's survival that the paṇḍit's suffering was not long and serious.27 To say this is not to deny that 
+
+- 26 By the phrase "Islamic period" I mean to convey only that there was an influential political presence of powers subscribing to Islam-that Islam became a factor to reckon with in many walks of Indian life. I do not mean to imply that Islam prevailed over all of India or that non-Muslims did not shape the cultural processes. 
+- 27 (a) In the otherwise useful accounts contained in Shukla 1969 and Sharma 1976, there is no attenipt to determine what the condition of Sanskrit learning was before the impact of the East India Company rule began to be felt on the channels of education. The for iner begins with the assumption that Sanskrit did not face any decline and its condition was as robust as in ancient India. This assumption is not only made without offering adequate justification, it is extremely unlikely to be correct, given the many clear ac counts of political upheavals that we have from both Hindu and Muslim sources and the fact that almost all the centres of Sanskrit learning that Shukla lists were either rela tively small or belonged to areas relatively free from Muslim domination. Sharma, too, does not see the need to determine particularly the nature of Sanskrit learning surviving in spheres of direct Muslim political influence in order to be able to evaluate properly the ideas of Indians and Europeans concerning education. As already indicated, I pre fer to take into account what was probably lost along with what survived and do not see any need to doubt that the custodians of Sanskrit learning suffered extensive losses for several centuries in succession over large areas of India, both as individuals and in terms of learning resources such as manuscripts. (b) One day my teacher Professor S.D. Joshi was telling me about his teachers. When he came to mentioning Shankarshastri Marulkar, he suddenly choked up with tears. For several minutes he could not speak. The reason was that he suddenly remem bered Marulkar's last days and could not control his grief. Through Vasudevshastri Abhyankar, Ramshastri Godbole, Bhaskarshastri Abhyankar, Nilakanthashastri Thatte and Vaidyanath Paygunde, paṇḍit Marulkar belonged to the vidyāvamsa of the great Nägeśabhatta (cf. Abhyankar 1954:101, 1960:Preface pp. 6-7). He was versatile to the extent of being entrusted with the responsibility of editing several texts for the 
 11 
 IT: 
 L 
@@ -556,21 +436,8 @@ TIT
 ... 
 2 
 L 
---.- 
-- 
-- 
-. 
-- 
-TH 
-.... 
-- 
-ri 
-- 
-- 
-- 
-- 
-- 
-11 
+
+
 2 
 that I can easily recall, Nagarājarāva 1995 contains an excellent illustration of what the calibre of south Indian scholarship was even in the late 19th century; Gode 1944 adds much to the information that Bhattacharya 1944 gives on Anandapūrna Vidyāsāgara, a 
 Goa scholar who attempted textual criticism of the Mahābhārata in the 14th century. 31 It seems plausible that several Hindu political powers of late medieval India made a 
@@ -635,11 +502,8 @@ LT
 .. 
 peared from the Indian heart lands after the fourteenth century. It survives in certain respects in Tibet and Sri Lanka and, in a form frequently dif ficult to separate from the channels of Brahmanism, in Nepal. The Jain paṇḍitic tradition too has shrunk in terms of magnitude and variety, but it seems, on the whole, to be faring much better than its Brahmanical coun terpart. Jainism still makes it possible for its sādhus to devote themselves almost exclusively to scholarly pursuits. It does not require of them that they deliver sermons or participate in communal religious activities. Unlike the contemporary Brahmin paṇḍits, the Jain sādhus do not have to attempt acquisition of knowledge while seeking the means to support themselves, although, because of their frequent movement from one place to another, they do not have easy access to libraries. However, the stronger resolve that a monk's life requires also makes the sādhus generally more resolute in studying, editing etc., particularly, the important texts of their own rich tradition. 
 Until a few decades ago, Indian scholarship in śästra texts excelled. It was as impressive as Western35 achievements in setting the Veda in a larger historical context. One did not find many Western scholars who could com prehend a Sanskrit philosophical or grammatical text with the ease with which a paṇḍit comprehended it.36 In the last thirty years or so, however, the gap in comprehension has been narrowed to a point at which its elim ination seems a distinct possibility. The production of better learning re sources (more translations, more specialized dictionaries, concordances, in dices etc.) and increase in the number of bright youths who have studied with paṇḍits have taken place in the West at about the same time India has been increasingly failing to attract bright students to humanities in general and to Sanskrit-Prakrit studies in particular and has been letting its libraries deteriorate. It would not be false to say that at present more original, sound and helpful work in Indian philosophy is being done outside India than in India. Even the Japanese, who, because of the peculiarities of their lan guage, have a serious handicap in mastering a language like Sanskrit and the Western languages in which most of the research concerning Sanskrit 
---- 
-- 
-- 
-11 
-- 
+
+
 LI 
 22 
 21 
@@ -695,40 +559,26 @@ h2
 II 
 T. 
 1 
-ACKNOWLEDGEMENTS: I wish to thank Professor Madhav M. Deshpaṇḍe, whose comments led me to improve this essay in light of BUITOW 1971, Professor Albrecht Wezler and Mr. Michael Dodson, who read the semi-final draft carefully, and the authorities of the Alexander von Humboldt Stiftung, which supported my research during 1998-99. 
-REFERENCES 
-BIBLIOGRAPHIC NOTE: The publications in which a focus on collecting historical information about the paṇḍits can be said to exist are the following and the ones mentioned in them: Abhyankar 1954, Upadhyāya 1983, Sinha 1993, and Bhatt 1995. Of these, Upadhyāya's and Sinha's are the most informative books from the point of view of lives of paṇḍits (although they concentrate, understandably, on the regions Kashi-Varanasi and Bengal, respectively). In addition, there is much more information about the paṇḍits scattered in prologues and epilogues of the works written by the paṇḍits, in Sanskrit periodicals, and in hundreds of research articles written on individual scholars--practically in all of Indological literature. To the extent the thoughts expressed in the essay required, I have added to this inforina tion, but without making such addition my major aim. The stories I have told of the paṇḍits incidentally serve also to preserve for posterity some paṇḍitic lore that is not, as far as I know, recorded in books. 
-Kalla 1985. Madan 1965 and 1989, and Sender 1988 deal with Kashmiri pan dits. The aim of Bhatt 1995 is the same to a considerable extent. However, it 
-11 
---..-.. 
-paṇḍita and paṇḍits in History 
-37 
-- 
--.. 
-also contains many accounts of the paṇḍits in the sense primarily intended here: "traditionally trained Sanskrtists and Prakritists adept in belles lettres (kävya) and literature of knowledge (sastra, Veda etc.)". Sharma 1976 discusses what happened to these paṇḍits in a particular period but does so as an overview only, not by recon structing the lives of individual paṇḍits or their communities. A few generalizations concerning the situation of paṇḍits in a specific period are indirectly present also in Shukla 1969. 
-M 
-- 
-6 
-0 
--Sz.IS 
-.15 
-- 
--. 
-..... 
-EL 
-. 
-1 
-TI 
-Abhyankar, Kashinath Vasudev. 1954. Prastāvanākhanda [seventh volume added 
+
+## ACKNOWLEDGEMENTS
+I wish to thank Professor Madhav M. Deshpaṇḍe, whose comments led me to improve this essay in light of BUITOW 1971, Professor Albrecht Wezler and Mr. Michael Dodson, who read the semi-final draft carefully, and the authorities of the Alexander von Humboldt Stiftung, which supported my research during 1998-99. 
+
+## REFERENCES 
+### BIBLIOGRAPHIC NOTE
+The publications in which a focus on collecting historical information about the paṇḍits can be said to exist are the following and the ones mentioned in them: Abhyankar 1954, Upadhyāya 1983, Sinha 1993, and Bhatt 1995. Of these, Upadhyāya's and Sinha's are the most informative books from the point of view of lives of paṇḍits (although they concentrate, understandably, on the regions Kashi-Varanasi and Bengal, respectively). In addition, there is much more information about the paṇḍits scattered in prologues and epilogues of the works written by the paṇḍits, in Sanskrit periodicals, and in hundreds of research articles written on individual scholars--practically in all of Indological literature. To the extent the thoughts expressed in the essay required, I have added to this information, but without making such addition my major aim. The stories I have told of the paṇḍits incidentally serve also to preserve for posterity some paṇḍitic lore that is not, as far as I know, recorded in books. 
+
+Kalla 1985. Madan 1965 and 1989, and Sender 1988 deal with Kashmiri pandits. The aim of Bhatt 1995 is the same to a considerable extent. However, it also contains many accounts of the paṇḍits in the sense primarily intended here: "traditionally trained Sanskrtists and Prakritists adept in belles lettres (kävya) and literature of knowledge (sastra, Veda etc.)". Sharma 1976 discusses what happened to these paṇḍits in a particular period but does so as an overview only, not by recon structing the lives of individual paṇḍits or their communities. A few generalizations concerning the situation of paṇḍits in a specific period are indirectly present also in Shukla 1969. 
+
+### Refs
+- Abhyankar, Kashinath Vasudev. 1954. Prastāvanākhanda [seventh volume added 
 to the six volumes of Vasudevaśästrī Abhyankar's Marathi translation of Patan 
-jali's Mahābhāsya). Poona; Deccan Education Society. [Marathi], Bhatt, S. (general ed.). 1995. Kashmiri paṇḍits: a Cultural Heritage. New Delhi: 
-Lancers Books. Bhashyachārya, N. 1905. The Age of Patanjali. Madras: The Theosophist Office, 
-Adyar. Bhattacharya, Dinesh Chandra. 1944, “ Vidyāsāgara's commentary on the Mahā 
-bhārata", Annals of the Bhandarkar Oriental Research Institute 25:99-102. 
--- 1945. “Bengali scholars at Benares", Indian Historical Quarterly 21:91 
-97. Bhattoji-Dīkṣita. Vaiyakaranasiddhantakaumudi with VasudevaDīkṣita's Bālamano 
-ramā commentary and Inānendrasarasvati's Tattvabodhini commentary. (eds.) Caturvedi, Giridhara-sarman; Parameśvarānanda-sarman. Vols. 4. Second edn. 
-1949-51. Delhi etc.: Motilal Banarsidass. Brhadāranyaka Upanisad: see Olivelle. Burrow, T. 1971. "Spontaneous cerebrals in Sanskrit", Bulletin of the School of 
+jali's Mahābhāsya). Poona; Deccan Education Society. 
+- [Marathi], Bhatt, S. (general ed.). 1995. Kashmiri paṇḍits: a Cultural Heritage. New Delhi: Lancers Books. 
+- Bhashyachārya, N. 1905. The Age of Patanjali. Madras: The Theosophist Office, Adyar. 
+- Bhattacharya, Dinesh Chandra. 1944, “ Vidyāsāgara's commentary on the Mahā bhārata", Annals of the Bhandarkar Oriental Research Institute 25:99-102. 1945. “Bengali scholars at Benares", Indian Historical Quarterly 21:91 97.
+- Bhattoji-Dīkṣita. Vaiyakaranasiddhantakaumudi with VasudevaDīkṣita's Bālamano 
+ramā commentary and Inānendrasarasvati's Tattvabodhini commentary. (eds.) Caturvedi, Giridhara-sarman; Parameśvarānanda-sarman. Vols. 4. Second edn. 1949-51. Delhi etc.: Motilal Banarsidass. Brhadāraṇyaka Upanisad: see Olivelle. 
+- Burrow, T. 1971. "Spontaneous cerebrals in Sanskrit", Bulletin of the School of 
 Oriental and African Studies 34:538-559. Chandogya Upanisad: see Olivelle. Dhanamjaya. The Dasarūpaka of Dhanamjaya with the Conimentary Avaloka by 
 Dhanika and the Sub-commentary Laghutīkā by Bhattanrsimha. (ed.) Venkat 
 acharya, T. Madras: Adyar Library and Research Centre. 1969. Gode, P.K. 1936. "Date of Rāghavabhatta, the commentator of Kālidāsa's 
@@ -774,30 +624,3 @@ Learning in Nineteenth Century Bengal. Calcutta: Sarat Book House, Sukhānandan�
 bhāgas, each divided into a and ba). Udaya-pura: Sajjana-yantrālaya/Vājapeyi Bamsidhara. Reprint 1991-92. Jaipur: Printwell. The reprint gives the date of the original publication as 1860, which must be approximate. The first volume, bhāga la, gives the date of its publication as Vikramasamvat 1921 (= 1863/1864 A.D.) and p. 1040 of the last volume, bhāga 4ba, informs us that the printing was finished in Vikramasamvat 1942 (1884-85 A.D.). Tārānātha Tarkavācaspati. 1873-1884. Väcaspatyam / Vāchaspatyam. Photo 
 graphic reprint 1962. Vols. 6. Varanasi: Chowkhamba Sanskrit Series Office. Upādhyāya, Bala-deva. 1983. Kaśī ki pāņditya paramparā: kāśīstha samskrta 
 vidvänom ke jivana-carita evam sāhityika avadānom kā prāmünika vivarana. Vārānasī: Viśvavidyalaya Prakāśana. Hindi. 
-11 
-_ 
-TJ 
-V 
-- 
-... .-. -.. 
-. 
-. 
-.-- 
---- 
---- 
-- 
-... 
-- 
-- 
---- 
---- ----.. 
--- 
-- 
--- -.. ----- 
-.— 
--. 
-. 
-- 
-. 
-ROLES AND FUNCTIONS 
-II
