@@ -165,98 +165,31 @@ The paṇḍits are usually placed in those social classes (Brahmin, monk) which
 ## Conclusions
 The preceding exploration suggests that the kind of paṇḍit I have been discussing here is possible only under a philosophy of human body and mind and of the world that is significantly different from the dominant philosophy of our times. A logical consideration of the notion of reincarnation I have at tempted elsewhere (Aklujkar 2000) further suggests that the "reincarnation karman-varṇa" complex existing in this "body-mind-world” philosophy has not been vanquished for ever and its re-emergence is not impossible, al though it seems improbable at present. 
 
-The Sanskrit universities and colleges and the religious establishments in the Indian subcontinent are trying to keep the paṇḍit alive, but the odds are heavily against his gaining the necessary political and economic clout and against the governments and religious establishments success in stopping the forces that may ultimately eliminate him. He has come to be too closely associated with a minority, whose value is not only being questioned and challenged but which is seen as an oppressor in several parts of India (with some truth in the allegation). To make matters more difficult, through the centuries of Muslim and British rule and nearly two centuries of an educa tional system that inculcates a different (not necessarily bad) way of looking at the affairs of the world, the minority itself has lost contact with its past. In particular, it is generally incapable of reactivating the devices that enabled it to manage change and challenges in the past and to be able to lead the com munity in such a manner as to preserve traditional religious and educational institutions. There is thus the serious problem of whether the present-day Brahmins will be able to lead the society, even if they were given a chance, in such a manner as to create an environment in which paṇḍitic knowledge would survive and prosper. 
-It also needs to be realised in this context that the problem of the survival of the paṇḍit has a global dimension. Society still needs individuals having the paṇḍit minds in the sense that it will always require the guidance of scholars and experts. But apart from this general global dimension, there is a specific global dimension that is more immediately related to the issue of the paṇḍits' continuance as an institution in our social life. Unless the value of humanistic research, particularly of the philological component of it, is increasingly recognized in the rich countries of the world, not only the paṇḍits of the Sanskritic-Prakritic tradition, but the paṇḍits of many other traditions of the world, as well as the modern specialists of languages, litera tures etc. stand in danger of serious diminution, if not extinction. 
-All this means that, unless there is a fundamental rethinking of the domi nant ideas of our time—unless there is a change in the philosophy of life dominant in our age, any efforts made to maintain the paṇḍitic type of schol arship will be “band-aid” solutions. The paṇḍit is possible as a phenomenon only on the background of a host of other factors that extend from human 
-12 
-ITT 
-1 
-. 
-L2 
-r 
-11 
-LI 
-LIZ 
-2 
-LLLL 
-2 
-. 
-T 
-2 
-LI 
-L 
-LIL 
-L 
-I 
-11 
-ILI 
-The paṇḍits from a piṇḍa-brahmāṇḍa Point of View 
-ZITT 
-1 
-2 
-Iz 
-I PIK 
-" 
-2 
-1712 
-TL 
-1 
-TIS. 
-ETT 
-ILLUD 
-11 
-TUT.. 
-LL 
-141 
-body to how creation is viewed. A true paṇḍit can be a product of only a cer tain kind of piṇḍa-brahmāṇḍa theory. The elements of that theory generally find no favour with the influential theoreticians of our time. 
-If our current and otherwise laudable ideas of equality, individual free dom, justice, historical truth and scientific proof are circumscribed or modi fied by common consensus in practice if they do not come in the way of recognition of excellence and of granting qualified and balanced privileges to certain classes of individuals and if the separation of body and mind dom inant in our present educational, medical, scientific etc. practices is reduced, we might have a new paṇḍit class. It may not be confined to Sanskrit or In dia. It may be global in its spread. Until such a class emerges, however, the paṇḍit will primarily live in the twinkle seen in the eyes of a Sanskri tist when he meets a Sanskritist from a culturally different part of the world and finds that he can discuss a very subtle problem of textual interpreta tion or philosophy with this other "being" despite the differences in their upbringing that unbeknownst to them, a bond exists between them; that they stood on the same platform even before they turned to each other and their eyes met. 
-T 
-FI 
-. 
-VY 
-12 
-TT. 
-ACKNOWLEDGEMENTS: I wish to thank Professor Robert P. Goldman of the Uni versity of Califomia (Berkeley) for the specifics he promptly provided of the video recordings he made of the speeches and teaching sessions of certain prominent pan dits (see note 5). Professor Madhav M. Deshpande's comments brought home to me the need to consult Kielhorn 1874. This consultation has resulted in a signifi cant improvement of the parts in which the justly esteemed scholar is mentioned. Further help in this respect came from Dr. Roland Steiner. He obliged me much by providing the publication details of Kielhorn 1874 with impressive precision and fullness, when I had access only to the 1960-62 reprint of that publication. I am also tharikful to the authorities of the Alexander von Humboldt Stiftung for their support during 1998-99, the year in which this essay was written. Like many of my other research writings in that year, this one too has benefitted much from Profes sor Albrecht Wezler's "Rat und Tat". Finally, it is my pleasure to acknowledge the help I received from Michele Desmarais, Michael Dodson and Muktak Aklujkar in catching typographical errors and realising the possibilities for better wording. 
-TIT 
-11 
-IL 
-## References
-Aklujkar, Ashok. Reincarnation revisited rationally", Forthcoming in the 
-D.H.H. Ingalls Memorial Volume of the Journal of Indian Philosophy Assmann, Aleida. 1999. Erinnerungsräume. Formen und Wandlungen des kul 
-turellen Gedächtnisses. Munich: Verlag C.H. Beck. 
-T 
-* 
-t 
-41 
-29 Democracy brings several advantages to society, but it also has a levelling effect and 
-potential to kill the growth of excellence. Even the political cultures that took the ideal of equality in the strongest possible form had to make provision of special privileges to scientists, doctors, professors etc, in order to maintain and promote excellence. 
+The Sanskrit universities and colleges and the religious establishments in the Indian subcontinent are trying to keep the paṇḍit alive, but the odds are heavily against his gaining the necessary political and economic clout and against the governments and religious establishments success in stopping the forces that may ultimately eliminate him. He has come to be too closely associated with a minority, whose value is not only being questioned and challenged but which is seen as an oppressor in several parts of India (with some truth in the allegation).+++(4)+++ To make matters more difficult, through the centuries of Muslim and British rule and nearly two centuries of an educa tionalsystem that inculcates a different (not necessarily bad) way of looking at the affairs of the world, the minority itself has lost contact with its past. In particular, it is generally incapable of reactivating the devices that enabled it to manage change and challenges in the past and to be able to lead the com munity in such a manner as to preserve traditional religious and educational institutions. There is thus the serious problem of whether the present-day Brahmins will be able to lead the society, even if they were given a chance, in such a manner as to create an environment in which paṇḍitic knowledge would survive and prosper. 
 
-Bhashyāchārya, N. 1905. The Age of Patanjali. Madras: The Theosophist Office, 
-Adyar. Gode, P.K. 1945. "Some evidence about the location of the manuscript library of 
-Kavindrācārya Sarasvatī at Benares in A.D. 1665", In the edition of Jagadvi. jayacchandas by C.Kunhan Raja, pp. XLVII ff. Bikaner. Reprinted in Studies in Indian Cultural History, vol. III [= P.K, Gode Studies Vol. VI], pp. 71-76. Poona: Bhandarkar Oriental Research Institute. 
-- 1954. "Bernier and Kavīndrācārya Sarasvatī at the Mughal Court", In Studies in Indian Literary History, pp. II. 364-379. Bombay: Singhi Jain Shas tra Sikshapith, Bharatiya Vidya Bhavan. 1954. [The preceding source informs us that originally the paper was published in Annals of S.V. Oriental Institute, Tirupati, 1.4:1-16. I have been unable to find out the year in which the specified 
-journal issue appeared.] Jagannātha, paṇḍitarāja. 1958. paṇḍitarājakāvyasamgraha (Complete Poetic Works 
-of paṇḍitarāja Jagannatha). Ed. Sharma, Aryendra. Hyderabad: Osmania Uni versity, Sanskrit Academy. ---, Rasagangadhara. (a) ed.: Bhatta Mathurānātha Šāstrī. Bombay: Nimaya Sāgara Press. Kävyamālā Series. Sixth edition 1945. Reprint Delhi: Motilal Banarsidass. 1983, (b) ed., commentator: Madana-mohana Jhā. Varanasi: Chowkhamba Vidyabhawan. Vidyabhawan Sanskrit Granthamala 11. Vols 3. 1969. (c) ed., commentator: Kedāranātha Ojhā. Varanasi: Sampurnanand Sans 
-krit Vishvavidyalaya. Vols 3. 1981. Kalla, Aloke K. 1985. Kashmiri paṇḍits and Their Diversity (a Socio-demo-genetic 
-Delhi: B.R. Publishing Corporat Kaviraj, Gopinath. 1987. Notes on religion and philosophy. Ed, Gaurinath Sastri. 
-Varanasi: Sampurnanand Sanskrit University Press. [This is a collection of reprints of much older articles that does not specify when and where the articles 
-were originally published.] Kielhorn, Franz or Kielhom, Lorenz Franz. 1874: see Nägeśabhatta and Patañjali. Nāgeśabhatta. Paribhäşendusekhara. (a) Ed., expl. Lorenz Franz Kiehlhorn. The 
-Paribhāşendusekhara of Nāgojibhaga. Part I: the Sanskrit Text and Various Readings. Bombay: The Indu Prakash Press. Bombay Sanskrit Series 2. 1868. (b) The Paribhäsendusekhara of Nāgojībhatta, edited and explained by F. Kiel horn. Part II: Translation and Notes. Bombay: The Indu Prakash Press (7, 9) / Government Central Book Depot (12). Bombay Sanskrit Series 7, 9, 12. 1871-1874. (c) Second edition with revisions and addition of Tattvādarśa com mentary by Vasudev Shastri Abhyankar. (Ed.) K.V. Abhyankar. Parts 2. Poona: Bhandarkar Oriental Research Institute. 1960, 1962. [My references are given 
-according to the second edition.] Pandey, Kanti Chandra. 1963. Abhinavagupta: an Historical and Philosophical 
-Study. Second edition, revised and enlarged. Varanasi: Chowkhamba Sanskrit 
-Series Office. Patañjali. Vyakarana Mahābhāsya. (ed.) Kielhom, Franz. Vols 3. Bombay: Gov 
-ernment of Bombay, Department of Public Instruction. 1880, 1883, 1885. Sec ond edition revised 1891/1892, 1906, 1909. Same publisher, Third edition revised by K. V. Abhyankar. 1962, 1965, 1972. Poona: Bhandarkar Oriental Research Institute. [Photoreprint of the first edition: Osnabrück: Otto Zeller Verlag, 1970.] 
-5. 
-TIS 
-TL 
-OT I 
-IT 
-1 
-. 
-The paṇḍits from a piṇḍa-brahmāṇḍa Point of View 
-59 
-LI 
-Upādhyāya, Baladeva. 1983. Kasi kī pānditya paramparā: kāśīstha samskrta 
-vidvānom ke jīvana-carita evam sāhityika avadanom kā prāmīnika vivarana. 
-Vārānasī: Visvavidyālaya Prakāšana. (Hindi). Vallabhadeva. Subhāṣitāvali. (ed.) Peter Peterson: Durgāprasada. Bombay: Bom 
+It also needs to be realised in this context that the problem of the survival of the paṇḍit has a global dimension. Society still needs individuals having the paṇḍit minds in the sense that it will always require the guidance of scholars and experts. But apart from this general global dimension, there is a specific global dimension that is more immediately related to the issue of the paṇḍits' continuance as an institution in our social life. Unless the value of humanistic research, particularly of the philological component of it, is increasingly recognized in the rich countries of the world, not only the paṇḍits of the Sanskritic-Prakritic tradition, but the paṇḍits of many other traditions of the world, as well as the modern specialists of languages, literatures etc. stand in danger of serious diminution, if not extinction. 
+
+All this means that, unless there is a fundamental rethinking of the dominant ideas of our time—unless there is a change in the philosophy of life dominant in our age, any efforts made to maintain the paṇḍitic type of scholarship will be “band-aid” solutions.+++(4)+++ The paṇḍit is possible as a phenomenon only on the background of a host of other factors that extend from human body to how creation is viewed. A true paṇḍit can be a product of only a certain kind of piṇḍa-brahmāṇḍa theory. The elements of that theory generally find no favour with the influential theoreticians of our time. 
+
+If our current and otherwise laudable ideas of equality, individual freedom, justice, historical truth and scientific proof are circumscribed or modified by common consensus in practice if they do not come in the way of recognition of excellence and of granting qualified and balanced privileges to certain classes of individuals and if the separation of body and mind dominant in our present educational, medical, scientific etc. practices is reduced, we might have a new paṇḍit class.+++(5)+++ It may not be confined to Sanskrit or India. It may be global in its spread. Until such a class emerges, however, the paṇḍit will primarily live in the twinkle seen in the eyes of a Sanskritist when he meets a Sanskritist from a culturally different part of the world and finds that he can discuss a very subtle problem of textual interpretation or philosophy with this other "being" despite the differences in their upbringing that unbeknownst to them, a bond exists between them; that they stood on the same platform even before they turned to each other and their eyes met. 
+
+- 29 Democracy brings several advantages to society, but it also has a levelling effect and
+potential to kill the growth of excellence. Even the political cultures that took the ideal of equality in the strongest possible form had to make provision of special privileges to scientists, doctors, professors etc, in order to maintain and promote excellence.
+
+
+## ACKNOWLEDGEMENTS
+I wish to thank Professor Robert P. Goldman of the Uni versity of Califomia (Berkeley) for the specifics he promptly provided of the video recordings he made of the speeches and teaching sessions of certain prominent paṇḍits (see note 5). Professor Madhav M. Deshpande's comments brought home to me the need to consult Kielhorn 1874. This consultation has resulted in a significant improvement of the parts in which the justly esteemed scholar is mentioned. Further help in this respect came from Dr. Roland Steiner. He obliged me much by providing the publication details of Kielhorn 1874 with impressive precision and fullness, when I had access only to the 1960-62 reprint of that publication. I am also thankful to the authorities of the Alexander von Humboldt Stiftung for their support during 1998-99, the year in which this essay was written. Like many of my other research writings in that year, this one too has benefitted much from Profes sor Albrecht Wezler's "Rat und Tat". Finally, it is my pleasure to acknowledge the help I received from Michele Desmarais, Michael Dodson and Muktak Aklujkar in catching typographical errors and realising the possibilities for better wording.
+
+## References
+- Aklujkar, Ashok. Reincarnation revisited rationally", Forthcoming in the D.H.H. Ingalls Memorial Volume of the Journal of Indian Philosophy Assmann, Aleida. 1999. Erinnerungsräume. Formen und Wandlungen des kulturellen Gedächtnisses. Munich: Verlag C.H. Beck. 
+- Bhashyāchārya, N. 1905. The Age of Patanjali. Madras: The Theosophist Office, Adyar.
+- Gode, P.K. 1945. "Some evidence about the location of the manuscript library of Kavindrācārya Sarasvatī at Benares in A.D. 1665", In the edition of Jagadvi. jayacchandas by C.Kunhan Raja, pp. XLVII ff. Bikaner. Reprinted in Studies in Indian Cultural History, vol. III [= P.K, Gode Studies Vol. VI], pp. 71-76. Poona: Bhandarkar Oriental Research Institute. 
+  - 1954. "Bernier and Kavīndrācārya Sarasvatī at the Mughal Court", In Studies in Indian Literary History, pp. II. 364-379. Bombay: Singhi Jain Shas tra Sikshapith, Bharatiya Vidya Bhavan.
+  - 1954. [The preceding source informs us that originally the paper was published in Annals of S.V. Oriental Institute, Tirupati, 1.4:1-16. I have been unable to find out the year in which the specified journal issue appeared.] Jagannātha, paṇḍitarāja. 1958. paṇḍitarājakāvyasamgraha (Complete Poetic Works of paṇḍitarāja Jagannatha). Ed. Sharma, Aryendra. Hyderabad: Osmania Uni versity, Sanskrit Academy. ---, Rasagangadhara. (a) ed.: Bhatta Mathurānātha Šāstrī. Bombay: Nimaya Sāgara Press. Kävyamālā Series. Sixth edition 1945. Reprint Delhi: Motilal Banarsidass. 1983, (b) ed., commentator: Madana-mohana Jhā. Varanasi: Chowkhamba Vidyabhawan. Vidyabhawan Sanskrit Granthamala 11. Vols 3. 1969. (c) ed., commentator: Kedāranātha Ojhā. Varanasi: Sampurnanand Sanskrit Vishvavidyalaya. Vols 3. 1981. Kalla, Aloke K. 1985. Kashmiri paṇḍits and Their Diversity (a Socio-demo-genetic Delhi: B.R. Publishing Corporat 
+- Kaviraj, Gopinath. 1987. Notes on religion and philosophy. Ed, Gaurinath Sastri. Varanasi: Sampurnanand Sanskrit University Press. [This is a collection of reprints of much older articles that does not specify when and where the articles were originally published.] 
+- Kielhorn, Franz or Kielhom, Lorenz Franz. 1874: see Nägeśabhatta and Patañjali. Nāgeśabhatta. Paribhäşendusekhara. (a) Ed., expl. Lorenz Franz Kiehlhorn. The Paribhāşendusekhara of Nāgojibhaga. Part I: the Sanskrit Text and Various Readings. Bombay: The Indu Prakash Press. Bombay Sanskrit Series 2. 1868. (b) The Paribhäsendusekhara of Nāgojībhatta, edited and explained by F. Kiel horn. Part II: Translation and Notes. Bombay: The Indu Prakash Press (7, 9) / Government Central Book Depot (12). Bombay Sanskrit Series 7, 9, 12. 1871-1874. (c) Second edition with revisions and addition of Tattvādarśa com mentary by Vasudev Shastri Abhyankar. (Ed.) K.V. Abhyankar. Parts 2. Poona: Bhandarkar Oriental Research Institute. 1960, 1962. [My references are given according to the second edition.] 
+- Pandey, Kanti Chandra. 1963. Abhinavagupta: an Historical and Philosophical Study. Second edition, revised and enlarged. Varanasi: Chowkhamba Sanskrit Series Office. 
+- Patañjali. Vyakarana Mahābhāsya. (ed.) Kielhom, Franz. Vols 3. Bombay: Government of Bombay, Department of Public Instruction. 1880, 1883, 1885. Sec ond edition revised 1891/1892, 1906, 1909. Same publisher, Third edition revised by K. V. Abhyankar. 1962, 1965, 1972. Poona: Bhandarkar Oriental Research Institute. [Photoreprint of the first edition: Osnabrück: Otto Zeller Verlag, 1970.] 
+- Upādhyāya, Baladeva. 1983. Kasi kī pānditya paramparā: kāśīstha samskrta vidvānom ke jīvana-carita evam sāhityika avadanom kā prāmīnika vivarana. Vārānasī: Visvavidyālaya Prakāšana. (Hindi). 
+- Vallabhadeva. Subhāṣitāvali. (ed.) Peter Peterson: Durgāprasada. Bombay: Bom 
 bay Sanskrit and Prakrit Series 31. Second edition edited by Raghunath Damo dar Karmarkar. Poona; Bhandarkar Oriental Research Institute. 1961.
