@@ -139,7 +139,7 @@ In the modern "scientific" man's compartmentalization of life and insist ence th
 
 If we do not ridicule it, we are content to leave it as a matter of individual preference or interesting ethnological curiosity. Again, we do not realise the irony that, on the one hand, we try to provide more and more material basis for things of the mind, but, on the other hand, prevent a probable material basis from being linked with a thing of the mind.25 
 
-Reading through the lives of Jain monks of recent times, I have been struck by the intellectual achievements many of them registered subsequent to their initiation and after long periods of restrained behaviour, even though they did not come from a highly educated family, did not belong to the Brāhmana varna or evince a particular attachment to pursuit of knowledge in pre-initiation days. I admit I cannot prove it to everyone's satisfaction, but I do suspect a correlation between their paṇḍitic perforinance and their acceptance of a mode of living that at least partially resembles the one recommended for a Brahmin paṇḍit. 
+Reading through the lives of Jain monks of recent times, I have been struck by the intellectual achievements many of them registered subsequent to their initiation and after long periods of restrained behaviour, even though they did not come from a highly educated family, did not belong to the Brāhmana varṇa or evince a particular attachment to pursuit of knowledge in pre-initiation days. I admit I cannot prove it to everyone's satisfaction, but I do suspect a correlation between their paṇḍitic perforinance and their acceptance of a mode of living that at least partially resembles the one recommended for a Brahmin paṇḍit. 
 
 Consider also the practical advantages to society, other than the ones coming through growth of knowledge, of the restrictions enjoined upon the paṇḍit. The restrictions bring the paṇḍit close to a yogin or a religious figure.26 He is seen by the society as making a sacrifice of the comforts and pleasures that commonly attract men. The society, in turn, becomes more inclined to sacrifice some of its resources for him.+++(5)+++ The burden on the government treasury is reduced. Pursuit of knowledge does not depend entirely on the personal preferences of some administrator or minister. Objectives that seem to have little or no practical or immediate benefit to society can be pursued. Search for academic knowledge and search for spiritual knowledge are not artificially kept apart.27 A scholar need not contend with a "publish or perish" mentality or feel inhibited by department labels and walls.+++(5)+++ He can carry out his inquiry as far as his capabilities and resources allow him, without feeling overly constrained by compartmentalization of knowledge. 
 
@@ -153,56 +153,18 @@ A subpoint in what I have observed above regarding the restrained, self sacrific
 - 27 Thus, the incentive to scholarship comes in terms of social recognition--a special social 
 status not economic in nature. Educational establishments have to earn their support from the government as well as the citizenry, but not by demonstrating that they are making direct contributions to the material welfare of the society. It is enough for the society to know that they are providing models of limited consumption and pursuit of knowledge and are creating positive forces for the natural and cosmic order. 
 
-(They leave the larger question of "mind" unexplored, unless the researcher thinks of mind as nothing but a complex of material entities, as is essentially the case in psychiatry in which specific mind-substances are controlled by specific physical substances.) Alternatively, if the experiments are not carried out so rigorously and an intrusion of other variables is allowed, they do not yield results that other researchers can universally replicate and accept. Consequently, very little is actually achieved beyond what natural sciences achieve in the lab oratories, and the attitude of uncertainty regarding the in-between area is not dislodged. The in-between area remains open for claims and counterclaims arising out of different experiments. As probabilities suggested by reason ably controlled and reasonably large samples do not inspire confidence because such probabilities are not thought to be good enough, making recommendations based on them that would apply to the entire society or to specific groups within it is considered inappropriate. The choice is left to the individual, and, until he becomes a member of a group as a consequence of his behaviour, the recommendations are generally not proffered. 
+(They leave the larger question of "mind" unexplored, unless the researcher thinks of mind as nothing but a complex of material entities, as is essentially the case in psychiatry in which specific mind-substances are controlled by specific physical substances.) Alternatively, if the experiments are not carried out so rigorously and an intrusion of other variables is allowed, they do not yield results that other researchers can universally replicate and accept. Consequently, very little is actually achieved beyond what natural sciences achieve in the lab oratories, and the attitude of uncertainty regarding the in-between area is not dislodged. The in-between area remains open for claims and counterclaims arising out of different experiments. As probabilities suggested by reasonably controlled and reasonably large samples do not inspire confidence because such probabilities are not thought to be good enough, making recommendations based on them that would apply to the entire society or to specific groups within it is considered inappropriate. The choice is left to the individual, and, until he becomes a member of a group as a consequence of his behaviour, the recommendations are generally not proffered. 
 
-The situation in traditional India was very different in this regard. An individual was primarily considered to belong to a group (we do not have to get into the issue of how this belonging was determined). Generalizations regarding groups were freely and frequently aired (we do not have to get into the issue of how these generalizations were arrived at). The notions of vama, karman and punar-janman ("reincarnation, rebirth") were almost universally accepted. 
-The paṇḍits are usually placed in those social classes (Brahmin, monk) which are expected to engage in ascetic actions. It is thought that good kar man of past lives, particularly disciplined behaviour, gives them superior minds.28 They are expected to behave in accordance with the norms for their social class, if they wish to go ahead in that class or to attain the still higher varna-less (moksa or nirvāna) state. Thus, varna "social class (defined in a specific way)", karman "action", and punar-janma "rebirth” are the asso ciations related to the surface-level associations I have discussed. They are especially related to my first and third dominant associations: memory and restrained behaviour.. 
-TU 
-LL 
-L 
-... 
-- 
-.-. 
-- - 
-.. 
-- 
-W 
-TI 
-1 
-TJ 
-TA 
-LIL 
---- 
-IP 
-T 
-- 
--- 
-- 
--**. 
-To 
-..-.. 
-28 Good deeds or observance of religious vows on the part of parents is frequently indi 
-cated to be the cause; cf, the accounts of the birth of Abhinavagupta (Pandey 1963:6-8). Nārāyanabhatta (the author of Tristhalīsetu etc.; Benson in this volume) etc., which are widely separated in time and region but agree in attaching special importance to ideal religious conduct on the part of the parents. The number of cases in which the authors of surviving works praise their fathers (sometimes the mothers too) for learning as well as conduct is also quite high. But such good karman on the part of parents does not rule out past good karman on the part of the paṇḍit to be born, for it is that karman which should logically make him (and not someone else) eligible to be born as a child of a particular couple. A paṇḍit is thus similar to a yogabhrasta (Bhagavadgitā 6.40-44). 
-LH: 
-56 
-Ashok Aklujkar 
-11 
-LTL 
-TY 
-1 
-TIT 
-A1 
-GT 
-+ 111 
-LVL 
-I 
-LLLL 
-LL 
-ILL 
-LL 
-VI 
-ILU 
-Conclusions The preceding exploration suggests that the kind of paṇḍit I have been dis cussing here is possible only under a philosophy of human body and mind and of the world that is significantly different from the dominant philosophy of our times. A logical consideration of the notion of reincarnation I have at tempted elsewhere (Aklujkar 2000) further suggests that the "reincarnation karman-varna" complex existing in this "body-mind-world” philosophy has not been vanquished for ever and its re-emergence is not impossible, al though it seems improbable at present. 
+## Traditional indian situation
+The situation in traditional India was very different in this regard. An individual was primarily considered to belong to a group (we do not have to get into the issue of how this belonging was determined). Generalizations regarding groups were freely and frequently aired (we do not have to get into the issue of how these generalizations were arrived at). The notions of varṇa, karman and punar-janman ("reincarnation, rebirth") were almost universally accepted. 
+
+The paṇḍits are usually placed in those social classes (Brahmin, monk) which are expected to engage in ascetic actions. It is thought that good karman of past lives, particularly disciplined behaviour, gives them superior minds.28 They are expected to behave in accordance with the norms for their social class, if they wish to go ahead in that class or to attain the still higher varṇa-less (mōkṣa or nirvāṇa) state. Thus, varṇa "social class (defined in a specific way)", karman "action", and punar-janma "rebirth” are the asso ciations related to the surface-level associations I have discussed. They are especially related to my first and third dominant associations: memory and restrained behaviour.. 
+
+- 28 Good deeds or observance of religious vows on the part of parents is frequently indicated to be the cause; cf, the accounts of the birth of Abhinavagupta (Pandey 1963:6-8), Nārāyanabhatta (the author of Tristhalīsetu etc.; Benson in this volume) etc., which are widely separated in time and region but agree in attaching special importance to ideal religious conduct on the part of the parents. The number of cases in which the authors of surviving works praise their fathers (sometimes the mothers too) for learning as well as conduct is also quite high. But such good karman on the part of parents does not rule out past good karman on the part of the paṇḍit to be born, for it is that karman which should logically make him (and not someone else) eligible to be born as a child of a particular couple. A paṇḍit is thus similar to a yogabhrasta (Bhagavadgitā 6.40-44). 
+
+## Conclusions
+The preceding exploration suggests that the kind of paṇḍit I have been discussing here is possible only under a philosophy of human body and mind and of the world that is significantly different from the dominant philosophy of our times. A logical consideration of the notion of reincarnation I have at tempted elsewhere (Aklujkar 2000) further suggests that the "reincarnation karman-varṇa" complex existing in this "body-mind-world” philosophy has not been vanquished for ever and its re-emergence is not impossible, al though it seems improbable at present. 
+
 The Sanskrit universities and colleges and the religious establishments in the Indian subcontinent are trying to keep the paṇḍit alive, but the odds are heavily against his gaining the necessary political and economic clout and against the governments and religious establishments success in stopping the forces that may ultimately eliminate him. He has come to be too closely associated with a minority, whose value is not only being questioned and challenged but which is seen as an oppressor in several parts of India (with some truth in the allegation). To make matters more difficult, through the centuries of Muslim and British rule and nearly two centuries of an educa tional system that inculcates a different (not necessarily bad) way of looking at the affairs of the world, the minority itself has lost contact with its past. In particular, it is generally incapable of reactivating the devices that enabled it to manage change and challenges in the past and to be able to lead the com munity in such a manner as to preserve traditional religious and educational institutions. There is thus the serious problem of whether the present-day Brahmins will be able to lead the society, even if they were given a chance, in such a manner as to create an environment in which paṇḍitic knowledge would survive and prosper. 
 It also needs to be realised in this context that the problem of the survival of the paṇḍit has a global dimension. Society still needs individuals having the paṇḍit minds in the sense that it will always require the guidance of scholars and experts. But apart from this general global dimension, there is a specific global dimension that is more immediately related to the issue of the paṇḍits' continuance as an institution in our social life. Unless the value of humanistic research, particularly of the philological component of it, is increasingly recognized in the rich countries of the world, not only the paṇḍits of the Sanskritic-Prakritic tradition, but the paṇḍits of many other traditions of the world, as well as the modern specialists of languages, litera tures etc. stand in danger of serious diminution, if not extinction. 
 All this means that, unless there is a fundamental rethinking of the domi nant ideas of our time—unless there is a change in the philosophy of life dominant in our age, any efforts made to maintain the paṇḍitic type of schol arship will be “band-aid” solutions. The paṇḍit is possible as a phenomenon only on the background of a host of other factors that extend from human 
@@ -258,7 +220,7 @@ ACKNOWLEDGEMENTS: I wish to thank Professor Robert P. Goldman of the Uni versity
 TIT 
 11 
 IL 
-REFERENCES 
+## References
 Aklujkar, Ashok. Reincarnation revisited rationally", Forthcoming in the 
 D.H.H. Ingalls Memorial Volume of the Journal of Indian Philosophy Assmann, Aleida. 1999. Erinnerungsräume. Formen und Wandlungen des kul 
 turellen Gedächtnisses. Munich: Verlag C.H. Beck. 
@@ -268,17 +230,7 @@ t
 41 
 29 Democracy brings several advantages to society, but it also has a levelling effect and 
 potential to kill the growth of excellence. Even the political cultures that took the ideal of equality in the strongest possible form had to make provision of special privileges to scientists, doctors, professors etc, in order to maintain and promote excellence. 
-58 
-Ashok Aklujkar 
-. 
-L 
-IT VIY LU 
-1/ 
-TI 
-LE 
-1 
-L 
-' 
+
 Bhashyāchārya, N. 1905. The Age of Patanjali. Madras: The Theosophist Office, 
 Adyar. Gode, P.K. 1945. "Some evidence about the location of the manuscript library of 
 Kavindrācārya Sarasvatī at Benares in A.D. 1665", In the edition of Jagadvi. jayacchandas by C.Kunhan Raja, pp. XLVII ff. Bikaner. Reprinted in Studies in Indian Cultural History, vol. III [= P.K, Gode Studies Vol. VI], pp. 71-76. Poona: Bhandarkar Oriental Research Institute. 
