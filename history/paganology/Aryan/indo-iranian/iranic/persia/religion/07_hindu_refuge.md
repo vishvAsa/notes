@@ -1,5 +1,5 @@
 +++
-title = "7 Hindu refuge"
+title = "07 Hindu refuge"
 +++
 
 ## Early settlements

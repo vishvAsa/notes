@@ -1,5 +1,5 @@
 +++
-title = "2 Spread and stasis"
+title = "02 Spread and stasis"
 +++
 
 ## Continued prosyletizing tendencies

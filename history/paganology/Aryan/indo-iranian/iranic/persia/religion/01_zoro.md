@@ -1,5 +1,5 @@
 ---
-title: 1 Zoro reconfiguration
+title: 01 Zoro reconfiguration
 ---
 
 ## yazata-s

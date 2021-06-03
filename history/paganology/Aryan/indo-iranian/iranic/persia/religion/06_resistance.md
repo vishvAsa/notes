@@ -1,5 +1,5 @@
 +++
-title = "6 Resistance"
+title = "06 Resistance"
 +++
 
 ## Intro

@@ -7,8 +7,10 @@ title = "+Treatment"
 - No CT scans for mild symptoms not requiring oxygen. (like exposing yourselves to 300-400 chest X Ray's in one go - or  3.6 years of natural exposure. Some have had 2-3 scans in 10 day hospitalisation. life time additional risk of getting a fatal cancer: 1/25k. ) A Chest X ray can tell you all that along with Oxygen saturation.
 
 ##  Protocols
+- FLCCC protocol
+  - [Prevention and management](https://covid19criticalcare.com/wp-content/uploads/2020/11/FLCCC-Alliance-I-MASKplus-Protocol-ENGLISH.pdf)
+  - [Treatment](https://covid19criticalcare.com/wp-content/uploads/2020/12/FLCCC-Protocols-%E2%80%93-A-Guide-to-the-Management-of-COVID-19.pdf).
 - AIIMS guidelines [here 202104](https://twitter.com/AIIMSRDA/status/1385311406182965249/photo/1).
-  - pravINa - "don't even take Ivermectin as drug interactions of this drug with others can cause problems."
 - AIIMS & ICMR protocol
 - Maharashtra protocol
 - Karnataka protocol
@@ -16,6 +18,11 @@ title = "+Treatment"
 - Kerala protocol
 - Tamil Nadu protocol
 - WHO recommendations [20200902](https://www.bmj.com/content/370/bmj.m3379).
+
+### Vishvas's preferred protocol
+- Same as FLCCC protocol.
+- Ivermectin at the first symptom. Details [here](ivermectin).
+- In case of slippage to the second phase - steroids and blood-thinners (see Matthew Varghese protocol).
 
 ### Mathew Varghese protocol
 - [YT](https://www.youtube.com/watch?v=CJzo6JIqhCw)

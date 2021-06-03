@@ -1,5 +1,5 @@
 ---
-title: 0 Old Iranic
+title: 00 Old Iranic
 ---
 
 - A sibling of the Arya deva-dharma, a child of the ancestral Indo-Iranian branch of Indo-Aryan. They shared several deva-s with the Arya-s.
