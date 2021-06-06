@@ -3,7 +3,9 @@ title: ०३ Intellectual war
 
 ---
 ## Robust intellectual response to Christianity
-- The neo-platonist tradition and lineage is described in [the platonist page](../philosophy/platonism/).
+- The neo-platonist tradition and lineage is described in [the platonist page](/saMskAra/kalpe_svamatam/tattvam/darshanam/platonism).
+- The pagan thinker Celsus wrote "True Doctrine / True Word" in AD 168. It was countered at length by the Christian Origen of Alexandria in AD 248 - one of the earliest works in Christian apologetics 
+- Porphyry of Tyre (232-303 CE) wrote a stinging criticism of Christian scriptures. His book "Philosophy from Oracles and Against the Christians" was banned by Christian Constantine!
 
 ## Christian appropriation
 - Appropriation of classical (hellenic) thought

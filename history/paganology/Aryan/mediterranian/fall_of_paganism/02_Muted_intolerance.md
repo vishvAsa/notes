@@ -9,3 +9,6 @@ title: ०२ Muted intolerance
 ## Failed proscription of Christianity
 - At one point in time, Christians were required to prove fealty to the Roman deities by sacrifice (disallowed in Christianity) certified in a scroll.
 - Christian exaggerations - [C Moss](https://www.amazon.com/Myth-Persecution-Christians-Invented-Martyrdom-ebook/dp/B0089LOOF4/ref=asap_bc?ie=UTF8)
+
+### Little peace
+- Some generous Roman Emperors (Gallenus) in mid-late 3rd cen, who put a stop to persecutions of the Christian faith during a crucial period in its history. This is commemorated in Christian history as the "Little peace of the church". From 260 to 302 AD

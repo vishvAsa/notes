@@ -7,6 +7,19 @@ title: ०४ Christianization
 - Christians were far more willing to take consistent and forceful political action in favor of their religion (rather than "Rome").
 - The diverse pagan traditions in the Empire didn't begin to think of themselves as one religion until the Christians in power began taking uniform action against them.
 
+## Rise to being a strong minority
+- Christians were a miniscule minority at the time, and hardly noted even a few decades later by the historian of the age - Dio Cassius who wrote the famous "History of Rome" till 229 AD
+- But Christianity even as late as 300 CE just a decade before Constantine's conversion in 312 CE, accounted for barely 10% of the Roman Empire.  But this 10% was united. With a somewhat uniform religious culture, and a common sense of community in part furthered by persecutions. The Christians could define their new identity by drawing sharp boundaries. With conversion, they cut themselves from their past and the religious beliefs of the masses around them.
+
+### Finiancial prowess
+- 1. By AD 250, the church was supporting fifteen hundred people (mostly widows and poor) in the city of Rome
+- 2. After the barbarian raids of 254 and 256 AD, the Churches of Rome and Carthage sent large sums to Africa / Cappadocia to free Christian captives
+
+## Pagan weakness
+- The pagans though more numerous had no sense of community that cut across city and region.
+- Back in 2nd cen, the wealthy notables lavished wealth to patronize religious activity. Be it rites, processions, statues, temples. This was always city-specific. By the 4th cen, the elites were now immensely richer, than they were in 2nd cen. With weaker local ties. They did not feel the need to spend on public works in their cities anymore. Their spending was now on private living and mansions. Not on religious and communal activities. This is supported by empirical data as well. E.g. The lavish inscriptions in honor of the traditional gods comes to a halt after 250 AD.
+
+
 ## Constantine and Constantius 324-361
 - We see a pattern of slow start, followed by a sudden quickening.
 - Privileging christians: "Constantine himself apparently endorsed this goal and tried to further it through a series of legislative and administrative measures.48 Some of these explicitly favored Christianity. Constantine exempted Christian clergy from financial obligations to city councils, he supplied Christian bishops with large amounts of money and goods that they could use to support their congregations, he paid for the construction of new churches, and he gave bishops a form of judicial power that they could use to manumit slaves and resolve legal disputes within their communities." 
@@ -24,6 +37,7 @@ title: ०४ Christianization
 ## Julian's apostacy
 ### Crypto-pagan past
 - "child of the 330s who had been born in Constantine's empire, was educated under the careful supervision of Constantius and his Christian associates, and entered adolescence just as his cousin started to implement his vision of a Christian empire. "
+- Porphyry of Tyre (232-303 CE) wrote a stinging criticism of Christian scriptures (banned by Constantius). His disciple was Iamblichus. And it was Iamblichus's pupils who reconverted Julian.
 - "While Constantius lived, “fear of the consequences had kept him from practicing its rites, except in the greatest possible secrecy.” When Constantius died, “this fear was removed," and Julian ordered “that the temples should be opened, sacrifices brought to their altars, and the worship of the old gods restored."24 A pagan emperor again ruled the Roman world."
 - " Julian's entire public career from 355 to 361 had been a sequence of improbable successes. He won military victories along the Rhine despite a lack of command experience and actions in battle that put him at great personal risk.  He had survived as a Caesar for six years despite Constantius's suspicions... Julian could not help but believe that the gods had chosen and supported him throughout his most unlikely rise."
 - "Julian understood intimately both Constantius's goals and the institutions that he used to further them in ways that average members of the final pagan generation could not. Unlike those older men, Julian understood that Constantius's initiatives pointed toward a world in which traditional religious practices were suppressed and temples replaced by churches. That frightening thought prompted Julian to build new institutions that would strengthen non-Christian cults and return a more traditional religious balance to the Roman world."
