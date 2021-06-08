@@ -4,12 +4,7 @@ unicode_script = "devanagari"
 +++
 
 ## प्राप्तिः
-- बहुत्र लभ्यते सरलतया स्वयं वर्धमानेयं वल्ली हृदयाकृतिपत्रवती भारतेषु।
-- Tinospora cordifolia, Guduchi, Madhuparni, Amruta, Amritavallari, Chhinnaruha, Chakralakshanika, Somvalli, Rasayani, Devnirmita, Gulvel, Vatsadani, Jwarari, Bahuchinna, Amrita ।
-- तदीयचूर्णान्य् अपि क्रेतुं लभ्यन्ते।
-
-{{< figure src="../images/guDUchi.jpg" title="" class="thumbnail">}}
-
+- [पादपपृष्ठेषु](../../../../plant/medical/) वीक्षताम्।
 
 ## प्रयोजनम्
 Giloy is an anti-inflammatory, antipyretic (that reduce fever) herb and is useful in building up the immune system. सर्वदोषप्रशमनं वदन्ति।
