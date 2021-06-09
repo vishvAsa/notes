@@ -11,6 +11,7 @@ title = "Ritual plants"
 - Shami, Prosopis Cineraria, banni, khejri
 - Thorns in internodes. Desert plant with deep root.
 - a small tree, ranging in height from 3–5 m (9.8–16.4 ft).
+- Bipinnate, with 1-3 small pinnae. 
 
 ### Confusions
 - Confused with Acacia ferruginea in karNATaka.
@@ -30,19 +31,28 @@ title = "Ritual plants"
 - अपक्वानीव अस्य फलानि। 
 
 
-## मुञ्जः
-- Saccharum munja - a grass found in arid areas and along river banks
+## खदिरः
+- Khadira, khair, Cutch Tree, Acacia catechu, Senegalia catechu, Kaggalli
+- Kattha (catechu), an extract of its heartwood, is used as an ingredient to give red color and typical flavor to paan.
+- White flowers.
+- Compound leaves - bipinnate with small leaflets. Base of each leaf tends to have a pair of thorns.
+- Seed pods. tree's seeds are a good source of protein
 
-## दर्भः
-- Desmostachya bipinnata, commonly known in English by the names halfa grass, big cordgrass, and salt reed-grass. Aka kusha.
 
-{{< figure src="../images/darbha-1.jpg"  >}}
-{{< figure src="../images/darbha-collected.jpg"  >}}
+## आरग्वधः
+- राजवृक्षः, Cassia fistula, golden shower
+- yellow long flower bunch.
+- pinnate with three to eight pairs of leaflets
 
-### बॆङ्गळूरुनगरे
-स्रोतश् चन्द्रादयः।
+## इतरे
+- ಬೂರುಗದ ಮರ, silk-cotton, शल्मलिः
+- अरलुः, शोणकः, Bignonia Indica
+- ददित्थः, कपित्थः, wood-apple
+- कोविदारः, Bauhinia variegata
+  - Pink flowers
+- श्लेष्मातक, शेलुवृक्षः, Cordia myxa
+  - Leaves are broad, ovate, alternate and stalked
 
-- Visit the ICAR - Horticultural Research Institute. As a special gesture they allow Dvijas with kachcham (only on amAvAsya with mAgha star?), entry reportedly allowed before 2PM. They give a badge. Once you are in you need to get to the back side of the institute where the farms are located. Just drive long enough and you will get places where darbha is found. Ground staff are very helpful.
-- Collection points shrAvaNa kRShNa amAvAsya 2019
-  - [1](https://maps.app.goo.gl/jtk1DLMau5Su7XEk9), [2](https://maps.app.goo.gl/Pa1bhRCrUHYucGEx8)
+## अपामार्गः
+- Achyranthes aspera
 
