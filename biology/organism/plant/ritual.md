@@ -51,7 +51,7 @@ title = "Ritual plants"
 - कोविदारः, Bauhinia variegata
   - Pink flowers
 - श्लेष्मातक, शेलुवृक्षः, Cordia myxa
-  - Leaves are broad, ovate, alternate and stalked
+  - Leaves areव broad, ovate, alternate and stalked
 
 ## अपामार्गः
 - Achyranthes aspera

@@ -12,7 +12,8 @@ title = "Variants"
 
 
 ## Victoria
-Original is called: Victoria.
+- Original is called: Victoria.
+- R number was 2.5
 
 ## 20J/501Y.V3 or P.1
 - Manaus, Brazil. Later: British Columbia in Canada.
@@ -29,6 +30,7 @@ Original is called: Victoria.
 - It has acquired another troublesome mutation E484 (found earlier in South Africa strain) which makes it adopted well to escape out from antibodies,cause re-infections and lessened vaccine efficacy.
 
 ### Spread
+- R number of 4
 - Scientists speculate the B117 arose from one single source in an immunocompromised one where the virus underwent mutation.
 - In September, it first appeared from England.
 - By Nov it accounted for 28% of the virus moving around
@@ -74,6 +76,7 @@ Original is called: Victoria.
     - 2 doses  81 per cent protection against the B.1.617.2, 87 per cent against the B.1.1.7 strain
 
 ### Effects
+- R number of more than 6
 - The virus has about 40-50% more transmissibility than the B 117 UK variant.
 - causing more lung damages and weight loss.
 

@@ -50,6 +50,12 @@ Their key result is boiled down to this equation for Risk Index \\(I_r\\).
   - Many children are requiring intravenous immunoglobulins to salvage them from multi system inflammation resulted from the virus.
 - 70% of confirmed children carry active virus without symptoms, and the duration of a case lasts as long as 36 days.
 
+## Dead body
+- CDC guidelines [here](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/funeral-guidance.html) .
+- CDC [2020](https://www.cdc.gov/coronavirus/2019-ncov/global-covid-19/COVID19-vs-Ebola-burial-guide.html) said that risk from dead body is low (no respiratory droplets).
+- Avoid touching the deceased person’s body. Wash your hands with soap and water for at least 20 seconds after any contact with the body. 
+
 ## Super-spreader / single-source events
 -175 attendees attended a Biogen conference at Boston In February. A week later 99 people fell ill. Now,300,000 infections around the world and 1.6% of all the US infections can be traced back to this single gathering at Boston. The infection from this conference jumped to 29 countries and almost every part of USA.
 - Tablighi jamAt gathering in Delhi.
+
