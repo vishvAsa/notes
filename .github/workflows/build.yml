@@ -25,6 +25,7 @@ jobs:
         fetch-depth: 1
     - name: Get changed files
       id: changed-files
+      if: ${{ github.event_name != 'workflow_dispatch' }}
       uses: jitterbit/get-changed-files@v1
     - name: Update submodules
       id: update_submods
