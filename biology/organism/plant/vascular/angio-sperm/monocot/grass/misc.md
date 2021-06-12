@@ -2,11 +2,14 @@
 title = "Ritual"
 unicode_script = "devanagari"
 +++
-## मुञ्जः
-- Saccharum munja - a grass found in arid areas and along river banks
+
+## Goosegrass
+- Eleusine Indica, बल्बज, करडि-हुल्लु. Crow-foot-grass. 
+- A famine food. Low yield. Relative of millets.
 
 ## दर्भः
 - Desmostachya bipinnata, commonly known in English by the names halfa grass, big cordgrass, and salt reed-grass. Aka kusha.
+- Branches from the base, erect from a stout creeping rootstock.
 
 {{< figure src="../images/darbha-1.jpg"  >}}
 {{< figure src="../images/darbha-collected.jpg"  >}}

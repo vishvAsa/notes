@@ -13,4 +13,3 @@ unicode_script = "devanagari"
 - Jackfruit
 
 ## उदुम्बरः
-- 
