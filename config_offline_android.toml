@@ -5,7 +5,7 @@ theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_offline_android"
 disablePathToLower = true
 [params]
-  githubEditMePathBase = "https://github.com/vvasuki/notes/edit/master/content/"
-  contactLink = "https://github.com/vvasuki/notes/issues/new"
+  githubEditMePathBase = "https://github.com/vishvAsa/notes/edit/master/content/"
+  contactLink = "https://github.com/vishvAsa/notes/issues/new"
   env = "production"
   disqusShortcode = "vvasuki-site"
