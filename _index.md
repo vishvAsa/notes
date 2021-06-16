@@ -33,7 +33,7 @@ summary: Welcome page.
 
 - Calculating [Area under the ROC curve from a score vector](math/probability/statistics/AUCFromScores/AUCFromScores.pdf), while resolving ties correctly.     
 - A [talk](math/linAlg/exposition/kyFanNorms/kyFanNorms.pdf) on Ky Fan (p, k) norms, April 2009, UT Data Mining Laboratory.
-- And [other talks](https://vvasuki.github.io/resumeLand/vishvasVasukiCV.pdf).
+- And [other talks](https://vishvAsa.github.io/resumeLand/vishvasVasukiCV.pdf).
 
 ![Sri Yantra](http://upload.wikimedia.org/wikipedia/commons/f/f0/Meru1.jpg)
 
