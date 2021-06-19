@@ -18,9 +18,13 @@ title = "Ritual plants"
 -  not to be confused with the similar looking Chinese lantern tree, Dichrostachys cinerea, which can be told apart by its flowers.
 
 ## पलाशः
-- सुश्रवाः इति। Butea monosperma. muttuga/ ಮುತ್ತುಗ. 
+- सुश्रवाः इति। Butea monosperma. muttuga/ ಮುತ್ತುಗ. पर्णः। किंशुकः (यद्य् अपि तेन नाम्ना वृक्षान्तरम् अपि प्रसिद्धम्)। 
 - 3 big leaflets per leaf
 - Flame red flowers. 
+
+## किंशुकः
+- mull murungai. Badida Chettu, Badachipa Chettu, బాడినెచెట్టు badidepuchettu, ముచ్చెకర్ర muchchekarra. Erythrina indica-thorns. Pangara पंगार. gadha-palAsha.
+- Leaves like palAsha, but with scattered thorns.
 
 ## बिल्वः
 - Aegle marmelos, शलाटु, bael

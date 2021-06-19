@@ -38,5 +38,5 @@ summary: Welcome page.
 ![Sri Yantra](http://upload.wikimedia.org/wikipedia/commons/f/f0/Meru1.jpg)
 
 ## Tech details
-- My code is found elsewhere - check [github](https://github.com/vvasuki).
+- My code is found elsewhere - check [github](https://github.com/vishvAsa).
 - Command `pandoc --from latex --to gfm *.tex >intro.md`

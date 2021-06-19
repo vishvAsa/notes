@@ -27,3 +27,8 @@ unicode_script = "devanagari"
 - grass creeps along the ground with its stolons and roots wherever a node touches the ground, forming a dense mat
 - Fast growing, tough. Hard to control - so called "devil grass" by some.
 -  selectively eaten by dogs to swiftly induce vomiting
+
+
+## उशीर
+- ANDROPOGON MURICATUS, Vetiver, Khas-Khas, Khus-Khus, सुगन्धिमूलम्
+- up to and over 2 m. tall, in dense tufts, with stout spongy aromatic roots.
