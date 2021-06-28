@@ -3,6 +3,7 @@ title = "वेष्टिः"
 
 +++
 
+## रीत्यन्तरम्
 - शोषणवस्त्रवद् बन्धनम्
 
 ## ब्राह्मण-धौत-विधिः - पञ्च-ग्रन्थि-कच्छम्
@@ -21,5 +22,8 @@ title = "वेष्टिः"
 - चित्राणि - [१](https://www.youtube.com/watch?v=YpuBuovKmBk), [२](https://www.youtube.com/watch?v=2n3CCt1Hs_Y)
 - वीरगच्चॆ (ವೀರಗಚ್ಚೆ)
 
+
 ## विपरीतकच्छम्
 {{< figure src="../images/veShTiH_viparIta-kachCham.jpg" title="" class="thumbnail">}}
+
+{{< figure src="../images/sakhyamanuShya-veShTiH_shakorukam.png" title="" class="thumbnail">}}
