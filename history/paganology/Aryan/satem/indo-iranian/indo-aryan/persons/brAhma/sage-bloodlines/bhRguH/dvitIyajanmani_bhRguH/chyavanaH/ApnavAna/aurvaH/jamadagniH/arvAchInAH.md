@@ -35,7 +35,7 @@ A diamond of वत्सगोत्र mined from the blessed दीक्ष�
 - genius born at काञ्चिपुर, TN; grew up to become a terror to intellectual foes (प्रतिवादि भयंकर अण्णङ्गराचार्य); wrote the beloved वेङ्कटेश सुप्रभातम् & also वेङ्कटेश (स्तोत्रम् + प्रपत्ति + मङ्गलाशासन) & disciple of the legendary मणवाळमामुनि.
 - aNNA was the grandson of the younger brother of lOkA/chArya's father, 
   vaDakku-t-tiru-veethi-p-piLLai.
-- aNNA's eponymous ancestor muDumbai-nambi was among the convocation of preceptors identified by Sri rAmAnuja and revered as the 74 simhAsanA/dhipati-s.
+- aNNA's eponymous ancestor muDumbai-nambi was among the convocation of preceptors identified by Sri rAmAnuja and revered asw the 74 simhAsanA/dhipati-s.
 
 Service:
 

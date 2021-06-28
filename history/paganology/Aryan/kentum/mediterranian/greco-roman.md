@@ -2,6 +2,9 @@
 title: Greco Roman
 ---
 
+## Greek waves
+- "One of the causes for the end of the Mycenaean civilization is held to be the invasion of another Greek group the Dorians. In Greek epics these invasions are believed to represent the return of the Heracleidai, he descendents of Herakles who set out to conquer Greece from the other rulers. From the historical view point it is interesting to note that the use of the script declined after the Dorian invasion even though the Dorians were Greek speakers and could have easily adapted the Linear B themselves." \[[MT11](https://manasataramgini.wordpress.com/2011/08/03/homers-illiteracy/)\]
+
 ## Population turnover
 - Ancient greeks with Linear B script.
 - Depopulation ([SP15](https://twitter.com/Rjrasva/status/627290343080390656/photo/1), [BVP15](https://groups.google.com/d/msg/bvparishat/r4wVQaLJD7o/nUwnh_faIQAJ))

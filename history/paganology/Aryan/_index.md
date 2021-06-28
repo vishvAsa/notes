@@ -23,22 +23,17 @@ title = "+Aryan"
 > 
 > ... the men from the steppe took wives from the farmers. They killed their fathers and brothers and took them to their homesteads to bear them children. These women knew how to make pots because they did not come from nomadic backgrounds. They adapted their techniques to making pots that exhibited marks that made them resemble the baskets that their husbands brought in their wagons. - RK
 
-### Greek waves
-- "One of the causes for the end of the Mycenaean civilization is held to be the invasion of another Greek group the Dorians. In Greek epics these invasions are believed to represent the return of the Heracleidai, he descendents of Herakles who set out to conquer Greece from the other rulers. From the historical view point it is interesting to note that the use of the script declined after the Dorian invasion even though the Dorians were Greek speakers and could have easily adapted the Linear B themselves." \[[MT11](https://manasataramgini.wordpress.com/2011/08/03/homers-illiteracy/)\]
-
 ## Central asia
 - "Indo-Europeans reached and probably overwhelmed the Eastern Steppes starting first around 5300 YBP symmetrically with the first invasion of western Europe. This eastern branch perhaps gave rise to the Tocharians though more data from the time Tocharian was actually attested would be useful. ... While the Afanasievo people who represent the 1st IE invasion of the east did not mix noticeably with the east Asians."
-- "However, a second wave of Indo-Europeans, the Indo-Iranians, started advancing east perhaps starting around 4100 YBP. They appear to have conquered the Kazakh steppes by around 4000 YBP& sometime in the following 500 years invaded India: Aryan invasion."
-- "By sometime around 3200-2900 YBP a branch of the Aryans advanced deeply to the east. ...This new Indo-Iranian wave mixed with the East Asians in Mongolia... This gene flow was not very extensive in the eastern reaches but it brought the technology of horse+goat+sheep+cow diary pastoralism to the east. This appears to have been transferred without much genetic acquisition of the lactase persistence phenotype."
-- Population replacement ~50%. R1a1a is quite common among some central Asian populations, reaching levels of up to 60% among the Kyrgyz and the Tajiks. It is possible that the haplogroup expanded through central Asia and into northwestern India shortly before the arrival of agriculture, which arrived in the region shortly after 10,000 years ago.  (23andme)
-
-> Basically, the eastern Yamnaya ancestry has been sloshing around the steppe for thousands of years. After 2000 BC they were absorbed into Indo-Iranians, but their far eastern outliers, the Afanesievo maintained some cultural continuity in the form of the Tocharian languages.
-
-### Replacement
-- Central Asian waves led to close interaction with mongoloid people .:
-    - More [here](../Trans-eurasian/hunnic/).
-
 - IIr radiation considered separately.
+
+## Branches
+- Kentum (Centum) vs Satem isogloss is most famous. Albeit might be an early areal phenomenon rather than a true phylogenetic division.
+  - Hittite and Tocharian  show no satem-like assibilation in spite of being located in the satem area.
+  - other Indo-European isoglosses running across the centum–satem boundary, some of which seemed of equal or greater importance in the development of daughter languages.
+
+{{< figure src="images/isoglosses.png" title="" class="thumbnail">}}
+
 
 ## Genes, memes, temes
 What genes, memes or temes put them at an advantage?
