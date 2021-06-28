@@ -2,6 +2,10 @@
 title = "+Confucianism"
 +++
 
+- 4 books and 5 classics were required reading and oft memorized.
+- High respect for rites -
+  - Li Ji's  Jiao Te Sheng [here](http://ctext.org/liji/jiao-te-sheng).
+
 ## Rivalry with Daoism
 Confucians like to attack Daoism by claiming the religion Daoism founded by Zhang Daoling has little to do with the philosophy of Daoism founded by Li Er (Laozi). Religious Daoism claims that Li Er came back as a deity to appoint Zhang Daoling as Heavenly Master and his
 

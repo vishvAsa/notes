@@ -1,5 +1,5 @@
 ---
-title: +Polity क्षात्रम्
+title: +Persons
 ---
 
 Governence, politics, war, civil reform.

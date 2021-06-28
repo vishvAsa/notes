@@ -13,7 +13,10 @@ title = "+Slav"
 - Conquered Sibieria - gave them strategic depth (used in war against French and Germans later). Contact with China.
 - Expanded south - conquering various turkic domains. Great game against the British began.
 - Osmanli Turks allied with Western (Catholic + Protestant) Christian powers against the Eastern Orthodox Rus. The latter were alarmed by Rus gaining naval power in the black sea.
-
+- Catastrophic defeats at Crimea and later by Japan shook them.
+- Then came the communist revolution (likely fostered by western powers, but which went out of hand). 
+- Then, during the german invasion - defence of Stalingrad was a great moment of reckoning. At big human cost they reforged their national spirit.
+- After German defeat, Rus forces destroyed Japanese forces in Manchuria (great loss of life). Caught between the devil and the deep sea, Japanese surrendered to the western powers (not due to the atom bomb).
 
 ## Poles
 - Converted to Catholicism
