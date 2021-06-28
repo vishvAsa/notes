@@ -23,11 +23,12 @@ title: +China
 ([T0](https://storify.com/dawdlerMe/on-legalism?utm_campaign&utm_content=storify-pingback&utm_source=t.co&utm_medium=sfy.co-twitter&awesm=sfy.co_r0jGg), [T1](https://twitter.com/vvkbkvv/status/517093851623075840), [T2](https://twitter.com/vvkbkvv/status/528002893023293440).)
 
 ### Ideas
-- Human behavior must be controlled by strictly imposed laws.
+- Human behavior must be controlled by strict laws and incentives.
+  - Ancient incentive: "Bring in 10 heads or grow 10x grain - get rewarded!"
 - Unswerving loyalty to the ruler of the state is a top priority.
     - Whatever contributes to the states power and orderliness should be deemed right.
-- Rejection of Confician ethics to which even monarchs must adhere.
 - Rejection of inherited official position. Rely on military-style merit instead.
+- Rejection of Confician ethics to which even monarchs must adhere.
 
 ### Strengthening the state.
 - Focus on food production and military buildup.

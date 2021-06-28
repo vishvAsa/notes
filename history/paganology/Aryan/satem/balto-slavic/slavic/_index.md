@@ -2,6 +2,23 @@
 title = "+Slav"
 +++
 
+## Rus
+- Early Rus khAganate was led by Viking royalty, albeit influenced by various Turkik khAganates (jewish kazar, pagan kipchak ) in structure.
+- Converted to byzantine christianity - heavily influenced by a queen. Initially the conversion was superficial - limited to the viking elite. Temple of perkunas was demolished, grand statue thrown to a river.
+- Broke into loose frederation of duchys. Muskovy acquired more power. Elites progressively slavicized.
+- Invaded and incorporated by Chinggiz's mongol generals. (In a famous battle, Mongol horses did not have iron shoes - so could cross frozen rivers. Shot down the Rus. Smothered 4 princes to death under a plank [not spilling royal blood].)
+- Thence reemerged Rus identity. Plus, updated steppe warfare and administration tactics.
+- Dmitry Donskoy Prince of Moscow defeated the then islamized Mongols under Mamai (Battle of Kulikovo). Rus misnomer - "Overthrowing the Tatar yoke". Despte later back-and-forth, Rus got confidence - fielded a large force, used good tactics.
+- Czar Peter - shift to western military tactics.
+- Conquered Sibieria - gave them strategic depth (used in war against French and Germans later). Contact with China.
+- Expanded south - conquering various turkic domains. Great game against the British began.
+- Osmanli Turks allied with Western (Catholic + Protestant) Christian powers against the Eastern Orthodox Rus. The latter were alarmed by Rus gaining naval power in the black sea.
+
+
+## Poles
+- Converted to Catholicism
+- Hit hard by mongol invasions.
+
 ## Pagan remainders
 
 - Khanty of Rus: " Khanty people remained heathen for long despite vigorous attempts to impose the Christian delusion on them by the Rus. They were finally subjugated by the 1800s and partly converted. In the 1900s they were subject to ethnic cleansing by Stalin who systematically suppressed their heathen religion and killed off all their shamans."

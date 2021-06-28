@@ -18,10 +18,18 @@ title = "वेष्टिः"
 - धावने, सोपानारोहणादौ पादः कच्छे लग्नो भूत्वा पातयेत्। एवं द्विः २०२१ वर्षस्य ग्रीष्मे पतित्वा तीव्रव्रणानि विश्वास आप्नोत्।
 - परिहारः - clip-प्रयोगः।
 
-## क्षत्रिय
-- चित्राणि - [१](https://www.youtube.com/watch?v=YpuBuovKmBk), [२](https://www.youtube.com/watch?v=2n3CCt1Hs_Y)
+## क्षत्रियरीतिः
+- no leg wrap
+  - चित्राणि - [१](https://www.youtube.com/watch?v=YpuBuovKmBk), [२](https://www.youtube.com/watch?v=2n3CCt1Hs_Y)
+- with leg wrap
+  - [१](https://www.youtube.com/watch?v=1LGS4OXt0rY)
 - वीरगच्चॆ (ವೀರಗಚ್ಚೆ)
 
+## नर्तकरीतिः
+- [अत्र](https://www.youtube.com/watch?v=Y1YNKCLs58U) ।
+
+## जैनरीतिः
+- वेगवद्रीतिः [अत्र](https://www.youtube.com/watch?v=ZJ8pa9_2MCY)।
 
 ## विपरीतकच्छम्
 {{< figure src="../images/veShTiH_viparIta-kachCham.jpg" title="" class="thumbnail">}}

@@ -48,6 +48,9 @@ The Turks entered unmAda in two ways.
 ##  Oghuz Turks
 This branch went on to found the Seljuk and Ottomon empires.
 
+## KazAr
+- Converted to judaism!
+
 ## Indian radiations
 - Mamluk, Khalji, Tughlaq dynasties.
 - Timur and Babur were turko-mongol, but heavily turkified. 
