@@ -1,0 +1,18 @@
++++
+title = "periyALvAr"
+unicode_script = "devanagari"
++++
+
+- his tiru-nakshatra (Ani-Svati i.e. Svati nakshatra of Mituna masa)
+- Periyazhvar and his daughter, Andal, have sung beautiful verses showcasing two different rasas/bhavas - vatsalya and srngara resp. Andal, considered as avatara of Bhumi, married the Lord of Srirangam. The ALvAr 'blessed' Vishnu to live long - out of his overflowing love for the Lord.
+- The author of this gloss is the great and renowned man called variously as ‘Sri Ramagnichit’, ‘Sri Bhattanathar’ and ‘Sri Vishnuchittar’, hailed as ‘Periyazhvar’ by Vaishnavas, the father of Sri Andal. He has composed Prabandhas called ‘Tiruppallandu’ etc. Sri Vedanta Desika has confirmed in his work ‘Rahasyatrayasaram’ that the gloss on Kalpasutras was written by Periyazhvar or Sri Vishnuchittar.
+- The pANDyan king was likely his disciple.
+
+## Date
+- Andal, in her Tiruppavai, says that on the Purnima of Margazhi, Venus rose and Jupiter set before sunrise. This specific combination happened only once in 8th Century, 731 CE and in the 9th century, during 885-886 CE. Latter period is too late it is the time of Nathamuni/ Nathamuni's birth cannot be dated later than 875-880 CE and Periyazhvar lived for almost 2 decades after Andal's Tiruppavai. So, such a date will make them contemporaries which is not factual.
+- Moreover, Periyazhvar mentions the name of the reigning Pandya monarch, after Andal's marriage, as Nedumaran. If Andal's marriage happened in 885/6, then the reigning monarch for that decade and next was Parantaka Viranarayana - not any Nedumaran.
+- Much is made of the fact that hagiographies wrote centuries later call the ruler as Vallabhadeva. It is better to use the words of the Azhvars themselves rather than hagiographies written much later - which are not be perfect recording of past history. Dr Nagasamy and a few others use the fact that Srimara Srivallabha could be the king as he had both titles. But he reigned in 815-862CE. There was no Margazhi Purnima where Jupiter set and Venus rose before sunrise during his reign or for decades before his reign. His title Srivallabha doesnt exactly match Vallabhadeva of later texts either.
+
+The date of 731 CE seems most probable. The reigning monarch was Rajasimha Maravarman - who was also called Ter-Maran, thus fitting the title Nedumaran. Velvikudi plates call Ter-Maran (ca 720/730-768) as not just Rajasimha Maravarman but also as bhusundari-'vallabha' (husband of earth - as a king). Interestingly, hagiography also uses similar term for him bhartA dharanyA - husband of earth and thus, vallabhadeva. This Maravarman's son Jatila Parantaka Varaguna was a parama Vaishnava and perhaps the greatest of all Pandya rulers of Kadungon lineage till 10th century. He has stated in his Sreevaramanga plates that he celebrates guru-carita. This guru might be Periyazhvar himself - who is said to have established the validity of Vaishnava siddhanta in the Pandyan royal court.
+  - That said, another date also matches for Tiruppavai and the name of the ruler. 672 CE matches Andal's description and the ruler Arikesari Maravarman was also a Nedumaran. Pandikkovai uses the title Vallabhan for him. But he is considered as sishya of Sambandar - thus ignored.
+  - There are those who consider Jatila Parantaka and Varaguna I to not be the same rulers but two different rulers with former's reign being 768-790 CE and latter from 790-815CE. Even if the same is considered, the date of Periyazhvar remains the same. It cant be in 9th century.
