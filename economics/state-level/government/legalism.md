@@ -1,5 +1,5 @@
 +++
-title = "Legalism of China"
+title = "Legalism - fajia"
 +++
 
 ([T0](https://storify.com/dawdlerMe/on-legalism?utm_campaign&utm_content=storify-pingback&utm_source=t.co&utm_medium=sfy.co-twitter&awesm=sfy.co_r0jGg), [T1](https://twitter.com/vvkbkvv/status/517093851623075840), [T2](https://twitter.com/vvkbkvv/status/528002893023293440).)
@@ -16,7 +16,7 @@ title = "Legalism of China"
 ## Veneers
 - Bland legalism can invite rebellion and dissatisfaction against Legalist incentives. So, with effort, common people are kept away from understanding legalist philosophy.
   - Example - Late Qing period.
-- So, the legalist state often adapts veneers.
+- So, the legalist state often adapts veneers - “Fads for people”.
 
 ### Rújiā
 - "From the time of the Han dynasty this amalgamation was known as Yangru, Yinfa- 阳儒阴法 - which could be translated as Confucianism as the bright yang outside, and Legalism as the dark yin inside. Ignore the moral demands of Confucianism, but happily adapt emphasis on authority and hierarchy."

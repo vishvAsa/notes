@@ -15,3 +15,5 @@ unicode_script = "devanagari"
   died fighting the Mogols.
 >
 > MT
+
+His son, Ramdas, whom the next Maharana trusted the front vanguard in Haldighati, was a Rathore.
