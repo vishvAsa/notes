@@ -55,6 +55,7 @@ title = "Indian Hindu stats"
   - But only 20% Muslims & 31% Christians do so. 
 - 17% of Hindu adults celebrate Christmas
 - 5% of Hindu adults celebrate Eid
+  - Response fakery likely. Seems to refer to greeting and accepting feasts.
 - 63% of Hindus say someone who celebrates Eid cannot be a Hindu.
   - Around 50% for atheism, temple going, prayer.
 
