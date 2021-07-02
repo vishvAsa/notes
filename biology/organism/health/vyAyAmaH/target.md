@@ -3,9 +3,14 @@ title = "Target/ ध्येयम्"
 
 +++
 
+## General expressions
 - Ability to tolerate extremes (like youth) is the goal.
 - Stay at the lighter end of your body's frame
   - Over-muscled, fueled by constantly eating, is not healthy
+
+
+- Keep strong (for your size)
+- regularly work your heart rate (inc. max HR)
 
 ## Physical Standards 
 Via Guru Anaerobic:  
