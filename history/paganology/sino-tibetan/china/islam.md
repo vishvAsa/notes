@@ -31,6 +31,11 @@ unicode_script: devanagari
   - "Their mosques were either damaged or destroyed by fire, or converted to family shrines and temples of the Han people." [TW](https://twitter.com/Rjrasva/status/972870662023860224)
 
 
+### Indian parallels
+Some figures mentioned like Waliullah had their fellow travelers in China (e. g. Ma Mingxin) with much more devastating results there. All of them traveled in same circles & were connected to common teachers. Ma returned to Qing empire in 1761 after studying for 16 years in Arabia, same year as Abdali's crowning jihad which was instigated by Shah Waliullah. He was also a Naqshbandi sufi just like Waliullah.
+
+Likewise Syed Barelvi paralleled by Ma Hualong though latter much more successful in his jihadist endeavors in Northwest Qing empire.
+
 ### Further jihAd-s
 - "They didn't stop @ Dungan either, there was Dungan 2 in 1894-96 (during Japan-Qing war), TIRET in 1930's (syrian ghazi Tawfiq Bay), Ili in 40's."
 - Muslim Conflict in Gansu was when a coalition of Muslim Generals broke out in revolt against the Guominjun in 1927.
