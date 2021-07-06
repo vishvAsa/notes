@@ -31,6 +31,23 @@ one of the greatest आचार्याः of the तेङ्कलै sect o
 A diamond of वत्सगोत्र mined from the blessed दीक्षित community of hereditary priests of नटराज in चिदम्बरम्, the 4th & final of the संतानगुरुपरम्पर in सैद्धान्तिक-शैव-सम्प्रदाय; he authored 8 of 14 classic tamizh texts known as the मॆय्कण्ट-शास्त्राणि.
 
 
+## उत्तमूरु-वीरराघवः
+- तिरुमलै-नल्लन्-चक्रवर्ति-वंशः।
+- UT Vīrarāghavācārya was one of the main authors of 20th c. #ViśiṣṭādvaitaVedānta, who edited and commented on a huge amount of texts (from Yāmuna's Siddhitraya to Meghanadāri's Nayadyumaṇi and from Rāmānuja's ŚrīBh together with Sudarśana Sūri's Śrutaprakāśikā to Veṅkaṭanātha's RTS, Nyāyasiddhāñjana, Tattvamuktākalāpa, Nikṣeparakṣā, Saccaritrarakṣā, Śrīpañcarātrarakṣā and Gītārtharakṣā), apart from his own autonomous philosophical production in Sanskrit (e.g., he composed an Upayuktamīmāṃsā).
+- He was prolific, called Abhinava Desikan.
+
+- born in a village called UTTAMUR (Uttamanallur), 10 miles away from Madurantakam town, Chingleput Dist. In Tamil Nadu, as the son of Sri. U. Ve. SRINIVASARAGHAVA CHAKRAVARTI SWAMI, who was the EkAdhipati of the village at that time. He was well known for his family background, wealth, Achara, Anushtana, Knowledge, etc.
+- Without sending the child to a regular village school, the father himself taught his son the Gadya-Padya Kavyas and also Arithmetic, English and Tamil.
+- At that age itself the illustrious father found the extraordinary talent of the boy, his son, in Sahityas and also found his keen intellect and sharpness in learning. At the age of Thirteen, Sri Swami’s marriage was performed.
+- his parents decided to settle in Madurantakam town for the dual purpose of worshipping Sri Raman anshrined at Madurantakam temple and also to admit his son in the Sanskrit patasala there.
+- studied VYAKARAN SIDHANTA KAUMUDI under Sri Tiruvengadacharya Swami
+- SRI SWACHANDAM TARKA BHASKARA, SRINIVASACHARYA SWAMI became his tarka master. Stuck to him like a magnet. He joined other students and learnt UPAYUKTA VEDANSAM, ACHIDRAM, ASWAMEDHAM and a few Kandas in SAMHITA. But Sri Swachandham Swami did not encourage Our Swami in Vedadhyayanam as he felt that his study of Tarka Shastra will be hampered.
+- Went to Tiruvaiyaru College with his teacher. studied MIMAMSA NYAYA PRAKASAM, MUKTAVALI, DINAKAREEYAM, VYAKARANA MANORAMA, AND MANY Kavya, Nataka and alankara granthas and caught up to shiromaNi class. studied, in addition to MIMAMSA BHATTA DEEPIKA as a portion for Siromani, other Mimamsa granthas also privately under the famous Mimamsa authority, Brahmasri Venkata Subramania Sastri (also known as Chinnaswami Sastri).
+- stood FIRST IN THE PRESIDENCY. This got him the post of a Research Scholar in the same college in the same year.
+- Sri Koliyalam Swami instructed him in uttara-mImAMsA.
+- Went on a pilgrimage of N India. They used to travel during nights and during daytime stay in wayside Vaishnavite villages and spent the day doing Upanyasams on Sri Desika Sampradaya in Sanskrit while the local pandits translated the same in local languages, to the audience. This took four months for them to reach Calcutta.
+- Returned south, started publishing lots of books.
+
 ## हस्तिगिरि-अण्णन्
 - genius born at काञ्चिपुर, TN; grew up to become a terror to intellectual foes (प्रतिवादि भयंकर अण्णङ्गराचार्य); wrote the beloved वेङ्कटेश सुप्रभातम् & also वेङ्कटेश (स्तोत्रम् + प्रपत्ति + मङ्गलाशासन) & disciple of the legendary मणवाळमामुनि.
 - aNNA was the grandson of the younger brother of lOkA/chArya's father, 
