@@ -53,3 +53,21 @@ unicode_script: devanagari
 
 ## उपसंहारः
 सविस्तरं च श्रीमत्-**कवि-कलश**-पत्रात् तथा श्रीमज्-**जनार्दन-पण्डित**-पत्रात् **प्रताप-सिंह**-मुख-वचनेभ्यः चारमुखेभ्यश् चावगन्तव्यम्। नितरां स्वकुशल-लेखनेनानन्दनीया वयमिति किं बहुलेखनपल्लवितेन विज्ञधुरन्धरेषु॥
+
+## अनुवादः
+SHAMBHUJI RAJA TO RAJA RAM SINGH OF AMBER
+
+Shri Shambhu Raja craves your friendship and after enquiring about your welfare communicates to Your Highness his own words in this letter.
+
+We have received your communication and understand your object to mean that no opposition should be offered to the Emperor of Delhi…
+
+Thereafter you came to know how your son Krishna Singh met his ruin for having intrigued with Sultan Akbar ; and after full consideration of the political situation you again wrote to us in laudable terms that we acted rightly in offering shelter in our dominion to Sultan Akbar, that you approved the course we followed and that as we are Hindus, you signified your readiness to execute whatever was considered expedient in the circumstances.
+
+If such indeed is your real intention, then you yourself ought to take take lead in this affair. The present wicked Emperor believes that we Hindus have all become effeminate and tint we have lost all regard for our religion. Such an attitude on the part of the Emperor we cannot any longer endure. We cannot put up with anything derogatory to our character as soldiers (Kshatriyas). The Vedas and the codes enjoin certain injunctions of religion…which we cannot allow to be trampled underfoot, nor can we neglect our own duty as kings to our subjects. We are prepared to sacrifice everything, our treasure, our land, our forts, in waging war against this satanic Emperor. We have killed many a brave captain of the Emperor, imprisoned several, released some after exacting ransom, and some out of compassion; several effected their escape by offering bribes. In this way the imperial commanders have proved themselves utterly incompetent. The moment has now arrived when the Emperor himself can be captured and made prisoner with the result that we can rebuild our temples and restore our religious practices. We strongly assure you that we have resolved to execute all this in the near future.
+
+But we are in comparison with you young and inexperienced. We have seen and heard so much about your valour and your zeal for religion. You at present fully possess the seven arms of kingship, so that if you muster courage and co-operate with us in the task of annihilating the power of this Emperor, we can accomplish anything! When we ponder on this situation, we feel extremely surprised to find that you keep yourself so quiet and so unmindful of your religion.
+
+We are planning to dispatch [Muhammad] Akbar…into Gujarat, so that you on your side must courageously execute whatever is possible. Shah Abbas of Persia has signified his willingness to support the cause of Akbar; but it does not…behove us to accept Muslim help in this cause and enable Abbas to gain the credit. Was it not your own revered father Jai Singh who gained the honour of helping Aurangzeb to capture the throne of Delhi? You can now follow the same example and obtain the same credit by helping Akbar (to the throne). If he becomes the Emperor of Delhi with the help of the Muslims of Persia, they will gain predominance. It is necessary to prevent such a contingency. If you and we join our forces and place Akbar on the throne, we shall get the opportunity of protecting our religion and on your part, you will shed lustre on the house of Jai Singh.
+
+My ministers Kavi-kalash and Janardan Pandit are writing to you separately at length…
+
