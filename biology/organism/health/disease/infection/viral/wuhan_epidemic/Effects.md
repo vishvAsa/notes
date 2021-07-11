@@ -39,6 +39,7 @@ title = "Effects"
 ## Long term effects
 - 47k hospitalized patients NHS UK data - 10% ICU-ed. 90% discharged. Within few months of discharge, 1/3 readmitted, 1/8 die.
 - Higher heart, liver, kidney diesase.
+- 7-8% of children and young adults developing long term symptoms according to IK data. Tiredness, inability to concentrate.
 
 ### Heart
 - Several cases are getting reported of young adults sent home after 7 days with a negative result, develop sudden symptoms and die. Suspected cause: The small blood vessels of the heart had intense inflammation an entity known as MIS(Multi System Inflammatory Syndrome),see the photograph taken attached below. [FB](https://www.facebook.com/drpraveenks/posts/10158729975141385) Exercise should be avoided for some time.

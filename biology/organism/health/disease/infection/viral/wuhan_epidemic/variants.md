@@ -66,7 +66,8 @@ title = "Variants"
 ### Subtypes
 - B 1.617.1
 - B 1.617.2
-- B 1.617.2.1 Nepal -  more mutation called K417 N making it to be resistant to monoclonal antibodies.
+- B 1.617.2.1 Aka Nepal, Delta plus -  more mutation called K417 N in Spike protein
+  - making it to be resistant to monoclonal antibodies.
 - most widespread
 - Lost E484Q.
 - B 1.617.3
@@ -93,3 +94,5 @@ title = "Variants"
 
 ## AP variant N440K
 - Supposedly more infectious. But reports indicate that it's been swamped by B 1.671.
+
+## Lambda variant Peru
