@@ -16,6 +16,24 @@ title: Anti-Leukosphere conflict
 - A mission visited USA and Europe to try renegotiate trade humiliations (blocked by the British). They decided that the prussian model was the best. This was adapted.
 - In ~1895, the emperor issued an edict to correct for the western fad, and reemphasize core Japanese values.
 
+## First Chinese war
+Causes:
+
+- Not taking Japan seriously.
+  - "In the Chinese mind, this neighbor was so insignificant that there was little point in conducting a thorough assessment of its military strength and capabilities"
+  - Japan, by contrast, knew China well. Had set up a great spy network.
+- Chinese disunity.
+  - Revenue minister did not finance the navy.
+  - Admiral Ding Ruchang had poor relations with his officers, in part because he came from the north... Because of these regional loyalties and prejudices, the authorities in Peking could not concentrate their forces.
+- Bad administrative system.
+  - Poorly organized navy.
+  - "General Ye Zhichao, China’s point man in Korea, lied about his “exploits,” while, in fact, he and his demoralized men trekked 250 kilometers in six days to flee the marauding Japanese."
+
+### Outcomes
+- It ceded Taiwan to Japan.
+- The booty of war from China boosted Japanese state coffers, nearly 90 percent of which was spent on military build-up. 
+- Later, manchu rule overthrown.
+
 ## Korean independence.
 - Japan forcibly opened trade with Korea.
 - Chinese influence on the vassal state of Korea was heavy. China itself was fast decaying due to European infestation. The dangers of Korea following suit were high. Modernization proposals were rejected and pro Japanese reformists were suppressed.

@@ -57,6 +57,8 @@ title = "Variants"
 - ability to escape from antibodies and vaccines.
 
 ## mahArAShTra B 1.617
+- Aka Delta variant.
+
 ### Mutations
 - Mutation L526R found in California makes it spread faster.
 - The E484Q mutation makes it behave like the African strain against which most vaccines have failed.
@@ -64,6 +66,7 @@ title = "Variants"
 ### Subtypes
 - B 1.617.1
 - B 1.617.2
+- B 1.617.2.1 Nepal -  more mutation called K417 N making it to be resistant to monoclonal antibodies.
 - most widespread
 - Lost E484Q.
 - B 1.617.3

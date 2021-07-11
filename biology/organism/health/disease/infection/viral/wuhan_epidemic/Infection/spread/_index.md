@@ -3,6 +3,7 @@ title = "Spread"
 +++
 
 ## India
+- Third wave expected in Dec.
 - 202104 - 2nd wave. 10th March to 3rd April. 24 days - faster spread.
   - Variants
     - B117*UK variant spreading (N India).

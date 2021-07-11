@@ -30,11 +30,16 @@ title = "Effects"
 
 - Initial estimates: "For COVID-19, data to date suggest that 80% of infections are mild or asymptomatic, 15% are severe infection, requiring oxygen and 5% are critical infections, requiring ventilation." - [WHO-2020-03-06](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_4)
 - Indian scenario highest mortality between the age 40-70 years. 56% of the severely affected in India are under 40's.
+- Indian population at large has a genetic predisposition to develop severe pneumonia due to the virus. This same expression has been found among Russians,Europeans explaining higher mortality there and less with Africans.
+
 
 {{< figure src="../images/coronavirus-progression-tree.jpg" title="" class="thumbnail">}}
 
 
 ## Long term effects
+- 47k hospitalized patients NHS UK data - 10% ICU-ed. 90% discharged. Within few months of discharge, 1/3 readmitted, 1/8 die.
+- Higher heart, liver, kidney diesase.
+
 ### Heart
 - Several cases are getting reported of young adults sent home after 7 days with a negative result, develop sudden symptoms and die. Suspected cause: The small blood vessels of the heart had intense inflammation an entity known as MIS(Multi System Inflammatory Syndrome),see the photograph taken attached below. [FB](https://www.facebook.com/drpraveenks/posts/10158729975141385) Exercise should be avoided for some time.
 - Scientists took the mother cells called stem cells that differentiate to heart muscle cells and infected them with the virus. Within 72 hours,the virus could cause death of cells and stop the cells contracting. [cell](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(20)30068-9?fbclid=IwAR1a2CQ76AGOJ5SMtKRJ6QdfxQwAx0gqtMU-CbxRRbcsTfLK25li7R3QbEk)
