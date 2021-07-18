@@ -45,3 +45,8 @@ One strong argument in that direction has been Brahui a Dravidian language in la
 - 4) Now with genetic data we can constraint ages. The clearly defined language families like IE, DR, AA are unlikely to be much older than 6000 YBP. That offers a kind of bound that suggests that Pr-DR was not very old -- at best around Mature Harappan suggesting that it might not have had deep history which also inconsistent with the loans from another language.
 
 Hence, together we surmise that the Iranian farmers brought a now lost language that was the primary Harappan.
+
+## Physique
+- Gangetic Plains Mesolithic Hunter Gatherers of India were the tallest on Earth, much taller than their European counterparts. Damdama HG had a mean height of (179.1 cm /5′10.5″) for males & (173.0 cm / 5'8") for females. Mahadaha males had a mean height of (181.1 cm / 5'11.3") 
+- Gangetic Plain Mesolithic females (5'7"-5'8") were taller in mean stature than Western-European males of the time. Not only were they very tall, but also quite muscular and likely involved in a lot of strenuous physical activity, indicated by hypertrophy in the forearms and legs. Specifically of the anconeus & supinator muscles (although no evidence of physical trauma)
+- Furthermore, the Indus Valley Rakhigarhi reconstructed individuals from Lee, Shinde et al 2020 were in the same ballpark too. The 17-18 yr old boy had a height of 177 cm (5 ft 10 inches) while the adult female was 5 ft 6 inches tall.
