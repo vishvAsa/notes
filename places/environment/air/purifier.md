@@ -7,8 +7,8 @@ title = "Purifier"
 
 ### Air flow rate
 - Clean air delivery rate (CADR) - amount of clean air coming out of the air purifier on the highest fan speed.
-  - Definition: CFM of air in a 1,008-cubic-foot (28.5 m3) room that has had all the particles of a given size distribution removed from the air, over and above the rate at which the particles are naturally falling out of the air.
-  - Example: 138 (smoke), 161 (dust), 219 (pollen) for Coway Airmega 150
+  - Definition: Volume/Time of air in a 1,008-cubic-foot (28.5 m3) room that has had all the particles of a given size distribution removed from the air, over and above the rate at which the particles are naturally falling out of the air.
+  - Example: 138 CFM (smoke), 161 CFM (dust), 219 CFM (pollen) for Coway Airmega 150
 - Common units: CFM = cubic feet per minute. cubic meters per hour. liters per sec.
 
 #### Air changes
