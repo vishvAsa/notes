@@ -36,3 +36,23 @@ title = "Purifier"
 - ozone
   - work primarily by generating charged particles (ions), which in turn cause other airborne particles, including allergens, to stick to solid surfaces.  However, such ionizers also release into the air ozone, a form of oxygen that can worsen allergy and asthma symptoms.
   - HEPA type air cleaners that generate a minute amount of ozone confined to the machine increase the effectiveness of the HEPA filter, do not release ozone into the air of the room, and are safe.
+
+## Vendors
+- Sharp - Japan design, made in Thailand.
+  - FP-F40E-W - CADR - 240 m³/hr. 10-11k online.
+    - Filter FZ-F40SFE - 5k on Amazon.
+  - FP-J40M-W - CADR - 240 m³/hr. 16,590 on Croma.
+- Coway - Korean design. Likely Chinese make.
+  - Coway 150 Mega has good Indian reviews. Supposedly good customer service. Cheaper by 4k in USA. Air might get sucked in seams - so might need to down-rate performance by 10%.
+- Glen Chinese make.
+  - Glen 6033 - 230 m³/h. 7k. HEPA filter at 700.
+- Panasonic
+  - F-PBJ30ARD
+    - Replacement filter - 4500rs
+- Honeywell - China make
+  - HAC25M1201W 250 cu m/hr
+- Dyson - Malaysia expensive.
+- Eureka Forbes - Chinese
+- Phillips - China
+- Kent - ?
+  - Supposedly poor service.
