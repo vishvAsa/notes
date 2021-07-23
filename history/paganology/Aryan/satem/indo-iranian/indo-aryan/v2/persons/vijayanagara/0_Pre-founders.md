@@ -3,9 +3,17 @@ title = "0 Pre-founders"
 
 +++
 ## Prolaya Vema Reddi
-a shUdra, mlechChAbdhi-kumbhodbhava (like agastya he drank up the muslim ocean), associate of Prolaya Nayaka and Kaapaya Nayaka, \[[M](http://manasataramgini.wordpress.com/2007/07/20/a-notable-parallelism-in-hindu-inscriptions/)1, [M2](http://manasataramgini.wordpress.com/2004/03/26/vema-reddy/)\], "I restored all the agraharas of Brahmins, which had been taken away by the evil Moslem kings". \[Madras Museum Plates of Vema\]
-    - दृप्तानन्तरराजभूरुहमहास्रोतोवहा निर्ज्ञरी मैत्रीसङ्गतराजकैरववनीसंपूर्णचन्द्रोदयः। माद्यन्मन्नॆनृपालतूलपवनो म्लेच्छाब्धि-कुम्भोद्भवः श्रीमान् कोमटिवेमभूपतिरसौ वीरः कथं वर्ण्यते ([मूल](https://archive.org/details/EpigraphiaIndica/page/n27/mode/2up/search/Vema)। In the first pAda the king is compared to the rushing waters of a river - uprooting the trees, namely, proud, neighbouring rulers.)
-    - Avavema Reddi, his son, continued the struggle: “I the valiant member of the 4th varNa destroyed the throngs of Moslems and gathered learned brAhmaNas at this court”.
+a shUdra, mlechChAbdhi-kumbhodbhava (like agastya he drank up the muslim ocean), associate of Prolaya Nayaka and Kaapaya Nayaka, \[[M](http://manasataramgini.wordpress.com/2007/07/20/a-notable-parallelism-in-hindu-inscriptions/)1, [M2](http://manasataramgini.wordpress.com/2004/03/26/vema-reddy/)\], 
+
+> "I restored all the agraharas of Brahmins, which had been taken away by the evil Moslem kings". \[Madras Museum Plates of Vema\]  
+> दृप्तानन्तर-राज-भू-रुह-महा-स्रोतो-वहा निर्ज्ञरी  
+> मैत्री-सङ्गत-राज-कैरव-वनी-संपूर्ण-चन्द्रोदयः।  
+> माद्यन्-मन्नॆ-नृपाल-तूल-पवनो म्लेच्छाब्धि-कुम्भोद्भवः  
+> श्रीमान् कोमटि-वेम-भू-पतिर् असौ वीरः कथं वर्ण्यते 
+>
+> ([मूल](https://archive.org/details/EpigraphiaIndica/page/n27/mode/2up/search/Vema)। In the first pAda the king is compared to the rushing waters of a river - uprooting the trees, namely, proud, neighbouring rulers.)
+
+- Avavema Reddi, his son, continued the struggle: “I the valiant member of the 4th varNa destroyed the throngs of Moslems and gathered learned brAhmaNas at this court”.
 
 ## somadeva
 (somideva) of rAyalasImA, son of gonkaladevI and pinnayya, and claimed descent from the ancient line of the kShatriya chAlukyas from pulakeshin I, who in 1331 started fighting muslim forces, scaling fort walls himself, and recovering forts, restoring agrahAra-s and temples. \[[M](http://manasataramgini.wordpress.com/2005/10/09/somadeva-of-aravidu-and-the-freedom-struggle/)\]
