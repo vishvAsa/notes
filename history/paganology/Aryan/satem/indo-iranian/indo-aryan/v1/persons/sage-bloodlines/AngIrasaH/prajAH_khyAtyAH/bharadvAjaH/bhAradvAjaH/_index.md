@@ -29,6 +29,10 @@ Contemprory of Appayya Dikshit and paramaguru of Sri Raghavendra thirta.Authorit
 ### अप्पय्य-दीक्षितः
 An आन्ध्रदेश ornament of the भारद्वाज गोत्र of the भारद्वाज गण of the आङ्गिरसाः (Descendants of ऋषि अङ्गिरस् ); championed the defense of शैवमत against the churlish, authored many a beautiful स्तोत्र; an ocean of वेद & वेदान्त & a genius of the field of poetics.
 
+- Defeat by bhaTTatiri - See [heliocentricism page](/jyotiSham/history/heliocentrism/).
+
+
+
 ### नीलकण्ठ दीक्षितः
 अप्पय्य's grand-nephew inherited that genius but marked it with his own stamp. This ornament of भारद्वाज गोत्र graced तिरुमलै नायक's court in madurai; a connoisseur of काव्य & अलंकार, an आचार्य of श्रीविद्या.
 

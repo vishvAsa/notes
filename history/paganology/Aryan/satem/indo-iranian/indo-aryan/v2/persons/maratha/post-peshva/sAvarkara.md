@@ -3,7 +3,9 @@ title: vIra sAvarkar
 ---
 
 ## Intro
-vIra [vinAyaka dAmodara sAvarkara](http://en.wikipedia.org/wiki/Savarkar); chitpAvana, hindu nationalist, the visionary who caused massive Hindu recruitment into the British Indian army - a factor which would prove critical during partition, social reformer.
+vIra [vinAyaka dAmodara sAvarkara](http://en.wikipedia.org/wiki/Savarkar). 
+
+chitpAvana brAhmaNa of vasiShTha gotra and hiraNyakeshi-sUtra of KYV, hindu nationalist, the visionary who caused massive Hindu recruitment into the British Indian army - a factor which would prove critical during partition, social reformer.
 
 ## Pro independence contributions
 - The first political leader to daringly set Absolute Political Independence as India's goal (1900). Daringly performed a bonfire of foreign (English) clothes (1905). Organized revolutionary movement for Bharat's Independence on international level (1906).
