@@ -8,3 +8,10 @@ hammIra deva chAhamAna [MT](http://manasataramgini.wordpress.com/2004/06/20/hamm
     क्षात्रे धर्म्मे वैद्यकीयेऽपि सिद्धं  
     हम्मीरन् तं चाहमानं नमामः॥  
     - Alleged irony and errors in kingship in Jaina hammIra-mahA-kAvya \[[YT](https://youtu.be/lPV8CpV1bSc?t=746) \- shishya of Mohammedan atrocity denying subversive Audrey Truschke\].
+
+He fought 17 battles in his reign of 12 years and won 13 of those.
+
+> सिंह सवन सत्पुरूष वचन,  
+> कदली फलत इक बार।  
+> +++(स्)+++तिरया +++(विवाह मेँ)+++ तेल - हम्मीर हठ,  
+> चढ़े न दूजी बार 

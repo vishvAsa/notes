@@ -35,6 +35,14 @@ title: Champa & Kinh
 - History [here](../../../paganology/vietnam/).
 - "Physical evidence of Cham culture in Vietnam is disappearing. In Binh Thuan Province and elsewhere, Cham temple sites and ancient tombs have been overrun by paddies, dragonfruit plantations, and shrimp farms. In Quang Ngai Province, temple sites have been damaged or destroyed by gravel quarrying. The Vietnamese continue to build Buddhist temples atop the ruins of Cham religious sites and to use bricks from Cham citadels to build their houses. Hill tribes relocated from the far north of Vietnam now live in Champa's last capital, Song Luy, brought down during Minh Mang's purge. "
 
+### Khatib Sumat jihAd
+> The Chams were led by a Islamic clergyman from Cambodia named Katip (Khatib) Sumat, who had spent many years studying Islam in Kelantan. Apparently, upon hearing that Champa was under attack by the Nguyen army, Katip Sumat immediately returned. Arriving in Binh Thuan in 1833, he was accompanied by a large force of Malays and Chams from Kelantan. Katip Sumat led the Chams in a series of guerrilla attacks against the Nguyen army. Apart from fighting for the survival of Champa, Katip Sumat invoked the Islamic bond in rallying Malay and Cham support for the cause. In some ways this turned the Cham struggle against the Vietnamese into a form of religious war. 39 The Katip Sumat-led resistance, however, was defeated by the Nguyen army.
+>
+> Katip Sumat's Malay contingent did not consist only of volunteers. It is believed that they were sent by Sultan Muhamad I of Kelantan (1800-1837), who raised an army to accompany Katip Sumat to Champa. According to Po Dharma, the underlying factors were the Sultan's acknowledgement that he and the ruler of Champa shared the same lineage (descendants of Po Rome) and of the need to preserve Islamic unity. 40 
+> 
+> The defeat of Katip Sumat and other Malay-Cham resistance against the Vietnamese in 1835 marked the end of Champa as an independent or autonomous political entity. However, resistance up to that time demonstrates that the Malay-Cham relationship was very old and based first on their common Malay identity and, increasingly since the sixteenth century, on their common adherence to the Islamic faith. Malay-Cham relations continued after 1835 as well, mainly culturally and religiously.
+
+
 ### Rollback
 - De-islamicization - Chinese muslim army in struggle with Dai viet, later annihilation \[[IMG](http://i.imgur.com/2qsBX3f.png)\].  
 

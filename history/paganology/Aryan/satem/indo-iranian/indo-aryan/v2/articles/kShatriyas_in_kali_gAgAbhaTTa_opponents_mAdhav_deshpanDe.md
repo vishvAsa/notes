@@ -1,4 +1,9 @@
-﻿Kṣatriyas in the Kali Age? Gāgābhaṭṭa & His Opponents Author(s)- Madhav M. Deshpande S
+﻿+++
+title = "Kṣatriyas in the Kali Age"
++++
+
+
+Kṣatriyas in the Kali Age? Gāgābhaṭṭa & His Opponents Author(s)- Madhav M. Deshpande S
 
 Indo-Iranian Journal 55 (2010) 
  
@@ -117,8 +122,7 @@ Wagle (1980 and 1982) has discussed in detail the daily oscillations during this
 
 The Gramaṇya between the Brahmins and the Marathas evolved out of the Prabhu Gramaṇya of 1826. The brahmins were not ready to accept the Chhatrapati of Satara and other maratha families as Kshatriyas. According to the brahmins, Parshuram eradicated the Kshatriyas twenty-one times and there fore no Kshatriyas were left on earth. So the present Marathas were Kunbis and not the Kshatriyas. The jagirdars of Satara in their letters addressed to Pratapsinha only as Chhatrapati and not Kshatriya Kulwantansa as we find in the original title of the founder of the Maratha power—Shivāji. We do find a reference in the Rojnishi of Raja Pratapsinha that he refused to reply to Chintamanrao Patwardhan of Sangli as he did not address him as Kshatriya Kulwantansa. 
 
-This dispute, briefly outlined here, resulted into a full blown dispute in subsequent times and spread to Kolhapur, Baroda, and Pune, and under the general title of "Vedokta Dispute," this conflict between the Brahmins and the Kshatriyas has been richly documented by Copland (1973), Wagle (1987), O'Hanlon (1983 and 1985) and Pawar (1985). It is not clear what 
-role, if any, Nīlakaṇṭha Shastri Thatte played in the wider dispute regarding the status of the Maratha Kṣatriyas, but his association with Chintamanrao Patwardhan of Sangli in the dispute against the status of the CKPs would suggest that he was ideologically inclined not to grant to Marathas the status of Kṣatriyas.[15] 
+This dispute, briefly outlined here, resulted into a full blown dispute in subsequent times and spread to Kolhapur, Baroda, and Pune, and under the general title of "Vedokta Dispute," this conflict between the Brahmins and the Kshatriyas has been richly documented by Copland (1973), Wagle (1987), O'Hanlon (1983 and 1985) and Pawar (1985). It is not clear what role, if any, Nīlakaṇṭha Shastri Thatte played in the wider dispute regarding the status of the Maratha Kṣatriyas, but his association with Chintamanrao Patwardhan of Sangli in the dispute against the status of the CKPs would suggest that he was ideologically inclined not to grant to Marathas the status of Kṣatriyas.[15] 
 
 +++(15) Nīlakaṇṭha Thatte's role in decisions relating to suttee and abortion is discussed by A.R. Kulkarni (1996: 189) andWagle (1998: 53—57). Sumitra Kulkarni (1995: 187) reports that the widow of Dajeeba Lagu was prevented from becoming suttee by Nīlakaṇṭha Shastri Thatte among others. )+++
 
