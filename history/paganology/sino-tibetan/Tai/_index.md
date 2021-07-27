@@ -2,6 +2,8 @@
 title: +Tai
 ---
 
+- Aka Shan, Dai, Yai.
+
 ## Influx
 - "According to linguistic and other historical evidence, the southwestward migration of Tai-speaking tribes from Guangxi took place sometime between the 8th-10th centuries. "
 - "The Tais from the north gradually settled in the Chao Phraya valley from the tenth century onwards, in lands of the Dvaravati culture, assimilating the earlier Austroasiatic Mon and Khmer people, as well as coming into contact with the Khmer Empire. The Tais who came to the area of present-day Thailand were engulfed into the Theravada Buddhism of the Mon and the Hindu-Khmer culture and statecraft. Therefore, the Thai culture is a mixture of Tai traditions with Indic, Mon, and Khmer influences."
