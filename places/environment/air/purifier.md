@@ -44,7 +44,7 @@ title = "Purifier"
   - FP-J40M-W - CADR - 240 m³/hr. 16,590 on Croma.
 - Coway - Korean design. Likely Chinese make.
   - Coway 150 Mega has good Indian reviews. Supposedly good customer service. Cheaper by 4k in USA. Air might get sucked in seams - so might need to down-rate performance by 10%.
-- Glen Chinese make.
+- Glen Chinese make?.
   - Glen 6033 - 230 m³/h. 7k. HEPA filter at 700.
 - Panasonic
   - F-PBJ30ARD

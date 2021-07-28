@@ -32,4 +32,7 @@ title = "Dish washing"
 ### Candidates
 -  both Siemens and Bosch dishwashers are made and sold by same company
 - Bosch [AM](https://www.amazon.in/Bosch-Place-Settings-Dishwasher-SMS66GW01I/dp/B07JW77MVJ/ref=sr_1_5?dchild=1&qid=1612707479&s=kitchen&sr=1-5#customerReviews).
+  - Turkey
 - Voltas Beko Dishwasher DF14W [AM](https://www.amazon.in/Voltas-Beko-DF14W-Dishwasher/dp/B08G1S351Q/ref=sr_1_10?dchild=1&qid=1612707479&s=kitchen&sr=1-10)
+  - Turkey
+- Faber - China
