@@ -12,6 +12,8 @@ In a sense east Asian males progressively replaced Iranic type males (chased awa
 The turkic expansion is more like a 50-10% replacement (though the 10% is weighted in the most populous area, turkey, 50% in places like kazakhstan).
 
 ## Kök Türük Göktürk Khaganate 
+- The khAns came from the ashina clan.
+  - Tang emperors of China also partly descended from this clan
 - [Kök Türük (Gök Türk = Blue Turk)](https://manasataramgini.wordpress.com/2010/03/06/the-epic-on-stone/)
 - They took over from the Hunnic Rouran khanate.
 
@@ -48,7 +50,8 @@ The Turks entered unmAda in two ways.
 ##  Oghuz Turks
 This branch went on to found the Seljuk and Ottomon empires.
 
-## KazAr
+## KhazAr
+- "The Hudud al Alam gives an interesting bit of detail that the Khazar Khans descended from the dominant Ashina clan of the Turks and consciously identified with them before becoming Joseph etc under rabbinical conversion."
 - Converted to judaism!
 
 ## Indian radiations
