@@ -37,7 +37,7 @@ The above is from \[[Nature16](http://www.nature.com/nature/journal/v541/n7637/f
 ## R1 clade: Background information
 
 ### Haplogroup R
-- 23andme: "Haplogroup R is a widespread and diverse branch of the Y-chromosometree that is extremely common in Europe, where it spread after the end of the Ice Age about 12,000 years ago. The haplogroup appears to have originated in southwestern Asia about 30,000 years ago. It then split into two main branches. R1 ultimately spread widely across Eurasia, from Iceland to Japan, whereas R2 mostly remained near its region of origin. Today it can be found in southwestern Asia and India."
+- 23andme: "Haplogroup R is a widespread and diverse branch of the Y-chromosome tree that is extremely common in Europe, where it spread after the end of the Ice Age about 12,000 years ago. The haplogroup appears to have originated in southwestern Asia about 30,000 years ago. It then split into two main branches. R1 ultimately spread widely across Eurasia, from Iceland to Japan, whereas R2 mostly remained near its region of origin. Today it can be found in southwestern Asia and India."
 
 ### Haplogroup R1
 - 23andme: "R1 is the dominant haplogroup in Europe today, accounting for well over half of all men. After being confined to the continent's southern fringes during the Ice Age, it expanded rapidly in the wake of the receding glaciers about 12,000 years ago. "

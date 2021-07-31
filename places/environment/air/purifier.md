@@ -25,8 +25,14 @@ title = "Purifier"
 #### Filter cleanliness
 - Clean filter => more air flow (6 times more in case of Conway Airmega 150 per their video). 
 
-### Filter type
+### Filters
+#### HEPA
 - HEPA (High Efficiency Particulate Air) filter removes 99.97% of all particles as small as 0.3 microns from the air that passes through it.
+- most of the air purifiers sold in the market (price no bar!) come with H11 or H12 or in some cases H13 HEPAs and are also smaller.
+- H14 unit - better filtration rates, especially for the finest particles. It also has better filter life.
+
+#### Carbon
+
 
 ### Noise
 - For less sound (and longer motor life) you may want to have a unit capable of effective cleaning when running at less than its maximum blower speed, especially when you are in the room.
@@ -37,14 +43,16 @@ title = "Purifier"
   - work primarily by generating charged particles (ions), which in turn cause other airborne particles, including allergens, to stick to solid surfaces.  However, such ionizers also release into the air ozone, a form of oxygen that can worsen allergy and asthma symptoms.
   - HEPA type air cleaners that generate a minute amount of ozone confined to the machine increase the effectiveness of the HEPA filter, do not release ozone into the air of the room, and are safe.
 
-## Vendors
+## Filter vendors
+- H13 HEPAs - ilovecleanair
+
+## Purifier Vendors
 - Sharp - Japan design, made in Thailand.
-  - FP-F40E-W - CADR - 240 m³/hr. 10-11k online.
-    - Filter FZ-F40SFE - 5k on Amazon.
+  - FP-F40E-W -details below
   - FP-J40M-W - CADR - 240 m³/hr. 16,590 on Croma.
 - Coway - Korean design. Likely Chinese make.
   - Coway 150 Mega has good Indian reviews. Supposedly good customer service. Cheaper by 4k in USA. Air might get sucked in seams - so might need to down-rate performance by 10%.
-- Glen Chinese make?.
+- Glen - Chinese make.
   - Glen 6033 - 230 m³/h. 7k. HEPA filter at 700.
 - Panasonic
   - F-PBJ30ARD
@@ -56,3 +64,19 @@ title = "Purifier"
 - Phillips - China
 - Kent - ?
   - Supposedly poor service.
+- SmartAir Squair
+  - (CADR) of 315 m3/hr.  6W 23db (low setting).
+  - Carbon and HEPA filters
+  
+
+### Sharp FP-F40E-W
+#### Specs
+- Noise: On medium speed, from 7-8ft you almost cannot hear it at all
+- Power consumption on High is 31w (ceiling fan is 65W). On Medium it's consumes just 12w.  sleep mode is a mere 3.7-5.9w!
+- CADR - 240 m³/hr. 10-11k online.
+
+#### Filters
+- PM10 pre-filter can be used life-long. Carbon and HEPA - 2 years life.
+- Filter FZ-F40SFE - 5k on Amazon.
+  - High grade H14 HEPA filter.
+- Clean the deodorising filter at least once a month and chuck it out after 2-3 months, max! replace it with a third party PM2.5 fine filter like what naso, 3m, Smartair etc offer. They usually cost about ₹400/pair.

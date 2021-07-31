@@ -1,7 +1,7 @@
 ---
 title: "+Notes"
 sidebar: home_sidebar
-topnav: home_sidebar
+
 summary: Welcome page.
 ---
 

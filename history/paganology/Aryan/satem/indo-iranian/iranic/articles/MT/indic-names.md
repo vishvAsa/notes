@@ -2,7 +2,7 @@
 title = "Indic names"
 +++
 
-Comminting on [this article](https://www.asor.org/anetoday/2021/07/contacts-cuneiform-cultures-india).
+Commenting on [this article](https://www.asor.org/anetoday/2021/07/contacts-cuneiform-cultures-india).
 
 There are some issues that article raises that need further thought. For example, the so called Indians in Babylon have clearly Iranic names. baga-ina is part of a large number of theophorous names associated with the cult of the Indo-Iranian god bhaga: baga-dAta; baga-denu; baga-mithra (probably devatA dvandva with Iranic mithra, one such is son of mithra-dAta); baga-vIra; baga-pAna; baga-pAda to list some from hAkamAnashiya Iranic document. This suggests that there was an active cult of baga (c.f. bhaga-sUkta of vasiShTha on our side of the divide). The baga-ina in the said document is the son of a certain zimaka. The z initial again strongly indicates his Iranic identity. Hence, these so called hindu-s of Babylon were in all likelihood eastern Iranians from the Indo-Iranian borderlands rathern than Indians proper. 
 

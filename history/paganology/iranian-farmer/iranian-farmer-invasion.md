@@ -15,7 +15,7 @@ title: 01 Iranian farmer influx
 Indus Valley civilization (IVC) area were settled by a people heavy in Iranian Farmer input (over a prior IHG substrate). 
 
 - The shudra-s, early enemy of the Arya-s, may have been part of these people. \[[MT](https://twitter.com/blog_supplement/status/990301565436284935)\]
-- A prominent theory is that these people were referred to by neighboring civilizations as Meluḫḫa or Melukhkha (later giving rise to sanskrit mlecCha) \[[W](https://en.wikipedia.org/wiki/Meluhha)\].
+- A prominent theory was that these people were referred to by neighboring civilizations as Meluḫḫa or Melukhkha (later giving rise to sanskrit mlecCha) \[[W](https://en.wikipedia.org/wiki/Meluhha)\]. After the decline of the Indus civilization, the toponym Meluḫḫa was preserved in the cuneiform tradition as the designation for a distant exotic country. The knowledge of its location, however, was permanently lost. In the first half of the first millennium BCE, the kings of the Neo-Assyrian empire identified far-away Nubia, situated in Africa, as Meluḫḫa.
 
 ## Impact
 the indian IVC expansion out of the NW looks to be 50% of native substrate
