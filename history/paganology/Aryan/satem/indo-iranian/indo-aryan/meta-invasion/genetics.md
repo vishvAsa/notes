@@ -19,6 +19,15 @@ The above is from \[[Nature16](http://www.nature.com/nature/journal/v541/n7637/f
 - "Not shown in this diagram is the O3e marker that is predominantly seen in the Tibeto-Burman speaking eastern tribals (who also have some O2a), and nearly absent elsewhere."\[[MT5](https://manasataramgini.wordpress.com/2005/12/20/socio-genetic-stratification-of-india/)\]
 - "The O2a, H1, F* and H2 haplogroups are predominantly seen in the mainland tribal population and decline in the middle-lower castes and are low or almost absent in upper castes." \[[MT5](https://manasataramgini.wordpress.com/2005/12/20/socio-genetic-stratification-of-india/)\]
 
+## Geographic distribution
+### Swat
+AASI ancestry in NW India increases after Aryan entry. So migration was happening from SE to NW India. Arya-s connected and revitalized the Indian subcontinent.
+
+> In the Swat valley samples, which date initially to ~1000 BCE, the authors noticed over time the proportion of Iranian-farmer-related ancestry decreased over time to give way to steppe and Andamese-related ancestry.
+> 
+> increase of AHG and steppe in Swat is probably due to the Indo-Aryanization of the region after 1000 BCE. That process occurred partly through migration, and these cosmopolitan migrants naturally had more steppe and AHG.
+> - [RK](https://www.gnxp.com/WordPress/2019/09/12/the-aryan-integration-theory-ait/)
+
 ## O2a
 > " The O2a marker is seen in all tribal groups but hardly in any caste groups, suggesting that it was indeed one of the markers of the earliest population. In contrast to O2a, H1 while highest in the tribal populations is also seen in caste population in a declining gradient. It was in this early population that probably Austro-Asiatic, Nahali, Kusunda and possibly Indo-Pacific languages arose. Of these the Austro-Asiatic and Dravidian languages showed an expansion. .. Both the frequency and variance plots of the O2a haplogroup show an increasing Eastern component. This would imply that its expansion was probably associated with an Eastern population expansion and emigration. The expansion probably corresponded with the Austro-Asiatic expansion."\[[MT5](https://manasataramgini.wordpress.com/2005/12/20/socio-genetic-stratification-of-india/)\]
 

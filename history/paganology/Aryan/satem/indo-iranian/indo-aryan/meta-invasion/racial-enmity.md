@@ -3,8 +3,8 @@ title = "Racial enmity"
 +++
 
 ## Early Arya vs shUdra conflict
-- Arya-s and dAsyu-s/ dAsa-s (mentioned int he Rg-veda) were enemies - differentiated by race(?) and culture. After subjugating the latter, they became shUdra-s in early Aryan society. (PV Kane)
-    - Possible connection: Western shaka-s (who recided on the west coast of black sea) referred to themselves as skudra-s \[[SZ](http://www.azargoshnasp.net/history/Scythians/fouroldiranianethnicnames.pdf), [दारयवः](http://i.imgur.com/NOgGytU.png)।\].
+- Arya-s and dAsyu-s/ dAsa-s (mentioned int he Rg-veda) were enemies - differentiated by race(?) and culture. PV Kane's opinion: After subjugating the latter, they became shUdra-s in early Aryan society.
+    - Unlikely connection: Western shaka-s (who recided on the west coast of black sea) referred to themselves as skudra-s \[[SZ](http://www.azargoshnasp.net/history/Scythians/fouroldiranianethnicnames.pdf), [दारयवः](/bhAShAntaram/Ariya-vachaH/adam_dArayavaush/)\].
 
 > "The post R^igvedic texts allude to the Arya vs shUdra conflict and the brahma+kShatra vs shUdra conflicts. The mAnava dharmashAstra (manu smR^iti) and allied material alludes to the same 2 above-mentioned conflicts. ... Yet it is fairly plain from the manu smR^iti that the shUdra is feared as a danger to brAhmaNa-s. The same is true of the vaguer vedic allusions, where they are a threat to the Aryas or the brahma-kShatra aristocracy. " \[[MT1](https://manasataramgini.wordpress.com/2004/09/01/inter-caste-strife/)\]
 > 

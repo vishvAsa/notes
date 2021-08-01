@@ -17,7 +17,7 @@ The mAnasatarangiNIkAra and others have spoken on this here: [MT1803](https://ma
 The (more credible) AIT narrative of Bronze age events. For an account of the rapid radiation in Europe, Iran and Central Asia, see other pages.
 
 ## Textual provenance
-### Spacio-temporal coordinates
+### Spatio-temporal coordinates
 > Indo-Aryans initially resided in the area around/ beyond the Black Sea, and were familiar with cold and long dawns (as evidenced by some parts of the Vedic texts - long ashvina-shastra to be recited at dawn). This is supported by genetic studies such as - [N15](http://www.nature.com/ncomms/2015/151116/ncomms9912/full/ncomms9912.html). Even in the ancient past, they were a composite people \[[MTTW16](https://twitter.com/blog_supplement/status/739516248522915840)\].
 
 > RV shows clear knowledge of specific geothermal phenomena in the Caspian region. Further, its astronomical references compared with those of the Yajurveda and the Vedāñga Jyotiṣa point to dates certainly certainly earlier to ~3500-3200 YBP and even before the earliest Sintashta chariots, perhaps closer to 5000 YBP than 4000 YBP. These dates, while well-known to Hindu scholars since Tilak, are routinely ignored by white indologists as fantasies of the Hindus despite early acknowledgment of the same in their midst by Jacobi. ... as discussed earlier it does match with other features like:
@@ -32,8 +32,12 @@ The (more credible) AIT narrative of Bronze age events. For an account of the ra
 ## Indian entry : IVC + Aryas = ANI
 Genetic, linguistic and textual evidence indicates that culturally Indo-Aryan people entered and mixed with "proto-Indian" people around the Indus Valley civilization, forming a hybrid people (aka Ancenstral North Indian - ANI). Later still, they mixed with Dravidian (ancestral south Indian - ASI) and Asiatic people in the south and east.
 
-- Timing: "1st they say that between 1700-1500 BCE there is East Asian admixture in C As Steppe pops which is absent in Indian groups.2nd they say that Steppe ancestry seen in BMAC first ~2100 BCE. So that gives us a rather narrow window of when the Arya-s reached the subcontinent." \[MT on [201803](https://www.biorxiv.org/content/biorxiv/early/2018/03/31/292581.full.pdf)\]
-- This likely happened in collaboration with a faction of IVC elites, some of whom were later incorporated in the highest echolons of Arya society. The soma cult, a distinct feature of I-Ir branch, might have come from them.
+### Timing
+- "1st they say that between 1700-1500 BCE there is East Asian admixture in C As Steppe pops which is absent in Indian groups. 2nd they say that Steppe ancestry seen in BMAC first ~2100 BCE. So that gives us a rather narrow window of when the Arya-s reached the subcontinent." \[MT on [201803](https://www.biorxiv.org/content/biorxiv/early/2018/03/31/292581.full.pdf)\]
+
+### IVC merger
+- IVC was in decline when the Arya-s arrived.
+- The invasion likely happened in collaboration with a faction of IVC elites, some of whom were later incorporated in the highest echolons of Arya society.
 
 ### Multiple waves
 - "We suspect that similarly there were multiple waves of Indo-European invasions into India. Most of these were waves were Indo-Aryans or at best Iranians, though there might have additionally even been a kentum type non-Indo-Iranian wave – sort of a mirror image of the western branch of Indo-Aryans (Mittani superstrate) that appeared in West Asia \[Footnote 2\]. We discern several such waves based on Indo-Aryan literary tradition: 1) The pa~nchajana (who may have come in more than one wave); 2) the ikShvAku (these two are early waves); 3) the shalva-s; 4) the pANDava-s" \[[MT11](https://manasataramgini.wordpress.com/2011/08/03/homers-illiteracy/)\]
@@ -43,6 +47,22 @@ Genetic, linguistic and textual evidence indicates that culturally Indo-Aryan pe
     - " the study of the ethnogenesis of the Indians suggests that the main Indo-Aryan contribution came from the invasion of a population close to the Yamnaya of the early steppe Bronze age rather than the Sinthasta or its successors Andronovo culture which descended from the Yamnaya. This is also more consistent with the estimates for the dates of expansion of the “Indian” branch of the R1a1 Y-haplogroup which is associated with the invasion of India by the ārya-s." \[[MT](https://manasataramgini.wordpress.com/2017/08/06/a-note-on-the-cow-the-horse-and-the-chariot-in-the-%E1%B9%9Bgveda/)\]
 
 ## Early Arya society  
+### Painted Grey Ware culture 
+- Painted Grey Ware culture (PGW) is an Iron Age Indian culture of the western Gangetic plain and the Ghaggar-Hakra valley in the Indian subcontinent -  1500 to 700 BCE.
+- cultivated rice, wheat, millet and barley, and domesticated cattle, sheep, pigs, and horses
+- PGW pottery shows a remarkable degree of standardization
+- There are a few stamp seals with geometric designs but no inscription, contrasting with both the prior Harappan seals and the subsequent Brahmi-inscribed seals
+
+### Cemetery H culture
+- 1900 BC until about 1300 BC, Punjab
+- cremation of human remains
+  - The bones were stored in painted pottery burial urns.
+  - completely different from the Indus civilization where bodies were buried in wooden coffins.
+
+### Gandhara grave culture
+- Aka Swat culture.
+- 1400 BCE and lasted until 800 BCE
+- Shows IA admixture
 
 ### varNa formation
 Late Rg vedic hymns and the other veda-s show distinct varNa-s.
