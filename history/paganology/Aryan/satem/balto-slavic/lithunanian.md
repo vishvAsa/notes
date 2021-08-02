@@ -3,6 +3,9 @@ title = "Lithuanian"
 unicode_script = "devanagari"
 +++
 
+In the 17th century, pagans in Lithuanians were often called by the euphemism 'Stara Litwa' (which became 'Staralitva' in Latin) in official records, a Slavonic term meaning 'Old Lithuanian'
+
+
 > "Why were the Lithuanian heathens most successful in holding out against the Christian steamroller?" \[[MT16](https://manasataramgini.wordpress.com/2016/03/13/some-notes-on-the-heathen-lithuania-and-its-demise/)\]
 >
 > Thus, despite their many victories, broken by the Mongol strike and incessantly attacked by the crusades the heathen Lithuanian finally succumbed to Christianity in 1387 CE.
