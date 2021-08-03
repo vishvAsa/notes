@@ -9,17 +9,17 @@ From Longkumer’s thesis ([pdf link](https://www.era.lib.ed.ac.uk/bitstream/han
 
 > The ideology of the RSS and VHP has already seeped into Heraka rhetoric and their talk is often peppered with these nation-building bumper stickers. Phrases such as ‘all religions have truth, compassion, and love and are like streams that go into the one ocean’ or ‘invasion of foreign religion and foreign culture will bring total destruction of Naga society. Beware of this danger’—are all too common. These phrases reflect neoHindu projection of self and tradition and constitute part of the mass programme of such unifying Hindu solidarity. Further, powerful symbols such as om and the svastika are commonly found in Heraka homes; images of Ram and Sita, distributed by VHP activists, find their way into these homes as well (see photographs 23 & 24). 185
 
- {{< figure src="../images/heraka/EGT26TE.png" title="" class="thumbnail">}}
+ {{< figure src="../../images/heraka/EGT26TE.png" title="" class="thumbnail">}}
 
 ===
 
 The Bhuban cave pilgrimage and identity with viShNu:
 
- {{< figure src="../images/heraka/VX8c9t4.png" title="" class="thumbnail">}}
+ {{< figure src="../../images/heraka/VX8c9t4.png" title="" class="thumbnail">}}
 
- {{< figure src="../images/heraka/ADZNqI6.png" title="" class="thumbnail">}}
+ {{< figure src="../../images/heraka/ADZNqI6.png" title="" class="thumbnail">}}
 
- {{< figure src="../images/heraka/d13aQJv.png" title="" class="thumbnail">}}
+ {{< figure src="../../images/heraka/d13aQJv.png" title="" class="thumbnail">}}
 
 
 
@@ -29,7 +29,7 @@ From Longkumer’s thesis ([pdf link](https://www.era.lib.ed.ac.uk/bitstream/han
 
 > Janjati Vikas Samiti (as registered in Nagaland) or Vanvasi Kalyan Ashram188 , under the umbrella of Akhil Bharatiya Vanvasi Kalyan Ashram (ABVKA) 189 , are active with the Heraka in developmental projects, education and also in providing organisational support. Integration with ‘Bharat mata’ (mother land)190 is a huge financial and cultural investment, pursued by the Kalyan Ashram. For example, Kalyan Ashram has recognised Rani Gaidinliu and Haipou Jadonang as freedom fighters and have included these and other vanvasi leaders around India in a promotional poster that is pasted on almost all Heraka and Kalyan Ashram offices (see photograph 25).
 
- {{< figure src="../images/heraka/W6cfIKQ.png" title="" class="thumbnail">}}
+ {{< figure src="../../images/heraka/W6cfIKQ.png" title="" class="thumbnail">}}
 
 > In Saraswati Vidya Mandir, their morning pledge is: Bharat \[India\] is my motherland. All Bharatiyas are my brothers and sisters. I love my country. I am proud of her rich and varied heritage. I shall always strive to be worthy of it. I shall give respect to my parents, Acharyas \[teachers\], Classmates and all elders and treat everyone with courtesy. To my country and my People, I pledge my devotion. In their well being and prosperities alone lies my happiness. BHARAT MATA KI JOY. 210
 
@@ -55,7 +55,7 @@ From Longkumer’s thesis ([pdf link](https://www.era.lib.ed.ac.uk/bitstream/han
 > 
 > … While these developmental trends continue with the aid of ‘Hindu’ organisations, there is clear opposition by the Christian majority who attempt to thwart their plans. In Hsongle, where the Christians form the majority in the village council, they have been able to influence the council vote against the running of a Heraka school because it is partnered with the VHP.
 
- {{< figure src="../images/heraka/Sa6eJtM.png" title="" class="thumbnail">}}
+ {{< figure src="../../images/heraka/Sa6eJtM.png" title="" class="thumbnail">}}
 
 > … He told me that this ‘convert’ and his family had been disowned by his Heraka family and had been thrown out of his house and had nowhere to go. … I was witnessing a difficult displacement, not a massive mobilisation of population from one place to another, but of one family, clutching on to their possessions of cooking utensils, clothes, furniture and animals, and photos of Rani Gaidinliu in frames and tiny lockets around the neck of the mother and daughter. I could not help but wonder if they would dispense with those images?
 > 
@@ -90,7 +90,7 @@ From Longkumer’s thesis ([pdf link](https://www.era.lib.ed.ac.uk/bitstream/han
 From Longkumer’s thesis ([pdf link](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/2669/Longkumer%20A%20thesis%2008%20small.pdf?sequence=2)):
 
 
- {{< figure src="../images/heraka/ZgMByc0.png" title="" class="thumbnail">}}
+ {{< figure src="../../images/heraka/ZgMByc0.png" title="" class="thumbnail">}}
 
 ## Current situation
 
