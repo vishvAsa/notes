@@ -1,7 +1,11 @@
 +++
 title = "The lull before the storm"
+date = "2004-11-24"
+upstream_url = "https://manasataramgini.wordpress.com/2004/11/24/the-lull-before-the-storm/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/11/24/the-lull-before-the-storm/).
+
 We were waiting quietly on the undergrowth beside the banks of the River
 mahAsankaTa. There was a tense silence in the air. We had performed our
 karma to the best we could, but were indeed limited by our terrible
@@ -22,11 +26,13 @@ We now realize that we have to build fortifications at home when the
 counter-attack is pressed on us.
 
 The princess of Hayastan, with calves like palmyra trees, and ever
-energetic, destroyer of many will be there \! Is it through design or
+energetic, destroyer of many will be there ! Is it through design or
 chance? The beauty of the princess always had an tremendously ironic
 aspect to it. Will she prove to be a charm or luck or otherwise? She has
 both those faces in us.
 
 Zarathushtra had asked Ahura Mazda with outstreached arms for aid. As
 atharvan had, as shunaHshepa, as vasiShTha had, we seek thy aid, O rAjan
-varuNa, in this great saMgrAma.
+varuNa, in this great saMgrAma.  
+  
+

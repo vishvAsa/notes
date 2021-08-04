@@ -1,12 +1,16 @@
 +++
 title = "shrI rAmAnuja deshika, one of the last great kaumAra tantrics"
+date = "2007-01-14"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/14/shri-ramanuja-deshika-one-of-the-last-great-kaumara-tantrics/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/14/shri-ramanuja-deshika-one-of-the-last-great-kaumara-tantrics/).
+
 The below note is neither meant as a sectarian effusion nor a historical
 account. It is a hagiography and just that.  
 sarva-bhUtAmakaM manmanobodhakaM sat-kR^ipAsAgaraM devasenApate pAhi mAM
 pAhi mAM pAhi mAM deva tubhyaM namo deva tubhyaM namo deva tubhyaM namaH
-||
+\|\|
 
 The shrI-vaiShNava AchArya, sudarshana sUrI, was proceeding to
 shrIperaMputtur after visiting the old temple of viShNu at venkaTagiri
@@ -19,10 +23,8 @@ draw the curtains in his cart and he closed his eyes so that even by
 error he might not cast his eyes on the shrine of rudra. When he was a
 safe from kAlahasti distance he opened his eyes but to his horror he had
 turned blind. Shocked he uttered the verse:  
-sarvAtmatA te shrutiShu prasiddhA  
-satyaiva sA kAlakarIsha nUnam |  
-apashyatastvA madhunA samastaM  
-yato na me dR^iShTipathaM prayAti ||
+sarvAtmatA te shrutiShu prasiddhA satyaiva sA kAlakarIsha nUnaM \|  
+apashyatastvA madhunA samastaM yato na me dR^iShTipathaM prayAti \|\|
 
 He was constantly tormented by bhUta-s and agents of sharabha. He
 recalled the great vaiShNava tantric, the master of pA\~ncharAtra
@@ -80,9 +82,7 @@ varAha, who held in his hand a great sword dripping with the blood of
 hiraNyAkSha, with an upavIta of 3 intertwined snakes. Then from the
 snout of varAha emerged that awful emanation of kumAra, krodha-rAja
 kumAra, with 6 heads, who is irresistible. With these mantra-s he had
-attained the height of tantric perfection, he was called a deshika. 
-
-He
+attained the height of tantric perfection, he was called a deshika. He
 was the master of the kaumAra lore, an impregnable mantra-vAdin. After
 his marriage he was proceeding with his wife to kumAra parvata when he
 was attacked by the turuShka-s on the way who tried to seize his wife.
@@ -91,3 +91,4 @@ fight them with his small band. The mahAshUla of kumAra entered his
 weapons and they killed 80 turuShkas sending the rest scampering over
 the country side. Having reached kumAra parvata he installed himself
 there for worshiping the deity.
+

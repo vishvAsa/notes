@@ -1,7 +1,11 @@
 +++
 title = "Rathva tribe: surprising survival of Vedic traits"
+date = "2004-07-16"
+upstream_url = "https://manasataramgini.wordpress.com/2004/07/16/rathva-tribe-surprising-survival-of-vedic-traits/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/07/16/rathva-tribe-surprising-survival-of-vedic-traits/).
+
 The Rathvas are a peculiar tribe in Gujarat whose art was studied by
 Jyotirindra Jain. Most tribes of India preserve certain aboriginal
 traits that have are often interlaced with Indo-Aryan tendencies. Most
@@ -13,11 +17,11 @@ syncretization of local goddess into the pan-Indo-Aryan transfunctional
 goddess cult. This could have in the early stages involved the vrAtyas
 and para-Vedic Indo-Aryans, who often existed at the periphery of the
 orthodox Vedic Indo-Aryan world and often had special rites to the god
-rudra mahadeva.  We see very few  pristine vedic elements in these
+rudra mahadeva. We see very few pristine vedic elements in these
 assimilated tribes of India.
 
 However, the Rathva tribes of Gujarat appear to have been directly
-assimilated into the core of the vedic  religion. Importantly, their
+assimilated into the core of the vedic religion. Importantly, their
 native religion and the religious paintings give a central place to the
 **great god indra**. indra is worshiped by their shaman, the badva, as
 the lord of heaven. The pictures of indra are painted on the wall and
@@ -26,7 +30,7 @@ The main animal of the Indo-Aryans, the horse, figures prominently in
 their paintings and their epithets of Indra is remniscent of the vedic
 worship of Indra. Importantly, though the Rathvas have **gaNapati** and
 **rANI kAjal**, a potential trans-functional goddess, they do not have
-any memory of the other prominent deities of classical Hinduism.  Thus,
+any memory of the other prominent deities of classical Hinduism. Thus,
 it would appear that the Rathvas were Aryanized by the mainstream vedic
 cult, and after that largely isolated until modern times from the
 mainstream. The acquisition of the late paurANic deity gaNapati could be
@@ -40,6 +44,7 @@ early branch of Vedic Indo-Aryans (most probably a kshatriya band) who
 penetrated deep into the Bhilala territory and merged with them, thereby
 giving rise to the Rathvas. Thus, they may have incorporated elements of
 the archaic vedic religion into these tribes and also introduced
-agriculture in their midst.  The possibility of the archaic Aryanization
+agriculture in their midst. The possibility of the archaic Aryanization
 is suggested by the finding of Rathva style paintings in the Navadatoli
 pottery specimens.
+

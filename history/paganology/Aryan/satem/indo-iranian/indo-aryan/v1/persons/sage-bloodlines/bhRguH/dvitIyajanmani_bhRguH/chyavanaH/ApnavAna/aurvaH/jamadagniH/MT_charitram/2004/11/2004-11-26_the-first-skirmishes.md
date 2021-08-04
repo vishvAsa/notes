@@ -1,7 +1,11 @@
 +++
 title = "The first skirmishes"
+date = "2004-11-26"
+upstream_url = "https://manasataramgini.wordpress.com/2004/11/26/the-first-skirmishes/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/11/26/the-first-skirmishes/).
+
 It was a cold and blustery day. We sent out a expeditionary force to
 check out the fortress we had secured for the purpose of the showdown.
 The conditions were similar to those predicted on the lower end on the
@@ -24,19 +28,20 @@ rapidly dodged the enemy charge and escaped unhurt. However, it struck
 me that our second weakness was really grimly exposed. Looking back at
 our reverses we noticed 3 major weaknesses :  
   
-1\) sharIrasya oshadi-vanaspati: This had done us in badly in the
+1) sharIrasya oshadi-vanaspati: This had done us in badly in the
 encounters at the “Gaugamela” and that of the bard’s hill. In the bard’s
 hill battle we thought we had almost won an unexpected victory after
 much tough fighting, but we could not do away with this weakness and
 ultimately succumbed.  
   
-2\) dagdharatha. Our second major weakness, that of the gandharva beaten
+2) dagdharatha. Our second major weakness, that of the gandharva beaten
 by arjuna. Many steps were taken by the sire to save us from this
 weakness, but as though impelled by fate we never learned any of those
 battle skills and now remain frightfully exposed. The more I think of
 this weakness it strikes me hard that all the diplomatic endeavors
 finally need force to back them.  
   
-3\) kosha. Our third major problem, that limits us from striking
+3) kosha. Our third major problem, that limits us from striking
 fearlessly in cold weather. We will take all the precaution to guard
 against this.
+

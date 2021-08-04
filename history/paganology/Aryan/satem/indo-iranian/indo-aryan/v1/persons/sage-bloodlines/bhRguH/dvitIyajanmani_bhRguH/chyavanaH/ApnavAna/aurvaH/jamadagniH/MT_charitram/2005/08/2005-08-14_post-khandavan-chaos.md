@@ -1,7 +1,11 @@
 +++
 title = "Post-khANDavan chaos"
+date = "2005-08-14"
+upstream_url = "https://manasataramgini.wordpress.com/2005/08/14/post-khandavan-chaos/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/08/14/post-khandavan-chaos/).
+
 We paused for a moment looking out from our high perch into the foggy
 haze of the air around us. The joys of the world it appeared had
 deserted us. The devas had sent the brief respite, but it was all over.
@@ -26,3 +30,4 @@ though we were a much better warrior, we were not a better king than our
 sire.
 
 We turn to indra for aid.
+

@@ -1,7 +1,11 @@
 +++
 title = "The mAraNa strike"
+date = "2005-06-16"
+upstream_url = "https://manasataramgini.wordpress.com/2005/06/16/the-marana-strike/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/06/16/the-marana-strike/).
+
 The dumAvatI agent has a very special means of attack. It tries to
 destroy all the supporting systems and armors, and then zeroes in on the
 victim. It pressed ahead with the attempt at mAraNa. We parleyed with
@@ -13,3 +17,4 @@ linkage and finish us off. The kR^ityA hovers endless waiting to the
 first opportunity to make the lunge. We just fled away the first time
 the dart was hurled at us. The second dart now hit us but did not kill
 us due to the past mantra bala. Who knows when the next dart may come.
+

@@ -1,7 +1,11 @@
 +++
 title = "Descent to naraka"
+date = "2005-03-25"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/25/descent-to-naraka/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/25/descent-to-naraka/).
+
 We had earlier narrated how we had spent time in svarga with the
 apsaras. From there we descended to the himaparvatas- i.e for warm
 weather souls like us the slopes of the pAshaNDa’s hill. We continued
@@ -18,3 +22,4 @@ and amAtya also being dragged away to a dark recess of naraka, they were
 yelling and cursing but each one faces his torment in naraka on his own.
 At this point all we could say is that why has our fate taken us to
 naraka? But we found no answers.
+

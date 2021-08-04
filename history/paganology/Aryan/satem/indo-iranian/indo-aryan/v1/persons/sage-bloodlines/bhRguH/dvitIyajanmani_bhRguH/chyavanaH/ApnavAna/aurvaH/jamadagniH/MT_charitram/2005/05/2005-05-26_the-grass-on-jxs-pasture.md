@@ -1,7 +1,11 @@
 +++
 title = "The grass on Jx’s pasture"
+date = "2005-05-26"
+upstream_url = "https://manasataramgini.wordpress.com/2005/05/26/the-grass-on-jxs-pasture/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/05/26/the-grass-on-jxs-pasture/).
+
 “svargeNa svargaM”
 
 There were two cell phones. One of mine and one of Jx. They were both
@@ -30,3 +34,4 @@ disappointing to realize this so late.
 A tantric used to tell me: You are a part of flow of the mahAtANDava
 sAkShiNI. You are part of the waves of her flow called the spanda of the
 emanations of mahat.
+

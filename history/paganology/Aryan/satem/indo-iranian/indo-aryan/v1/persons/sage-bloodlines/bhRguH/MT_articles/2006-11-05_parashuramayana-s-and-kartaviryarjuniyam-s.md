@@ -1,7 +1,11 @@
 +++
 title = "parashurAmAyaNa-s and kArtavIryArjunIyaM-s"
+date = "2006-11-05"
+upstream_url = "https://manasataramgini.wordpress.com/2006/11/05/parashuramayana-s-and-kartaviryarjuniyam-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/11/05/parashuramayana-s-and-kartaviryarjuniyam-s/).
+
 The one great hero of our clan, the omnipresent and poly-faceted symbol
 of brahmin-hood lives a strange life in the Hindu mythosphere.
 rAmo-bhargava has become an avatAra puruSha of nArAyaNa but hardly
@@ -9,9 +13,7 @@ enjoys the status of devakI-putra or his name sake of the ikShvAku clan.
 There are no major mantra-s devoted to him, and even in the mahAbhArata
 where he makes a prominent appearance, only next the main protagonist
 avatAra-s, the devakI-putra and baladeva, he is only once called an
-avatAra. 
-
-Yet, starting from the mahAbhArata he has an increasingly
+avatAra. Yet, starting from the mahAbhArata he has an increasingly
 prominent place in the Hindu mythosphere of the paurANic realm appearing
 all over over the place in addition to his main encounter with the
 haihaya king kArtavIryArjuna and his priest, datta the atri. He is seen
@@ -71,3 +73,4 @@ recovering the wealth of my ancient clansman. I have had repeats of this
 dream and it has never ceased to fascinate me when I have had it. There
 is an inscription of a choLa king, where he claims to have recovered the
 crown of the bhArgava.
+

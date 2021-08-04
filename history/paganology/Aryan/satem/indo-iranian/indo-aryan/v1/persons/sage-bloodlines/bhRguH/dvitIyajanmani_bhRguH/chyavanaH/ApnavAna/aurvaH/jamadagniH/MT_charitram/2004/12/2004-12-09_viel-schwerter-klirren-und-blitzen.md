@@ -1,7 +1,11 @@
 +++
 title = "viel Schwerter klirren und blitzen"
+date = "2004-12-09"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/09/viel-schwerter-klirren-und-blitzen/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/09/viel-schwerter-klirren-und-blitzen/).
+
 So will ich liegen und horchen still,  
 Wie eine Schildwach, im Grabe,  
 Bis einst ich höre Kanonengebrüll  
@@ -45,3 +49,4 @@ our fort. I needed to send a party out destroy the miners.
 ….  
 I remembered that eerie statement: “The one mantra that completes the
 sattra successfully may be missing”
+

@@ -1,7 +1,11 @@
 +++
 title = "The split forces and the pralApa"
+date = "2006-09-09"
+upstream_url = "https://manasataramgini.wordpress.com/2006/09/09/the-split-forces-and-the-pralapa/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/09/09/the-split-forces-and-the-pralapa/).
+
 The muni and me were in a sense like branches of the same tree. We
 wondered what might have happened if only the muni and me could have
 joined our forces on the battle field. Our coordination on the field was
@@ -32,3 +36,4 @@ mighty clansman of ours into her yonI before he was destroyed by rudra.
 Over the night the kR^ityA attacked us repeatedly and diminished our
 strength. We did not whether to directly attack the kR^ityAkR^it-s or
 not. We then decided that we had to embark on new prayoga-s.
+

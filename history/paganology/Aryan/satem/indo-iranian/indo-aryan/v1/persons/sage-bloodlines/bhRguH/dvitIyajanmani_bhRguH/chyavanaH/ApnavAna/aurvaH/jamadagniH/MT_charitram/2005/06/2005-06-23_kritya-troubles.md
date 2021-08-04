@@ -1,7 +1,11 @@
 +++
 title = "kR^ityA troubles"
+date = "2005-06-23"
+upstream_url = "https://manasataramgini.wordpress.com/2005/06/23/kritya-troubles/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/06/23/kritya-troubles/).
+
 The kR^ityA made a couple of efforts at driving home the mAraNa and
 continues to hover around to strike again. Day after day the attacks
 continue without any respite and most critically they are aiming at
@@ -17,3 +21,4 @@ Along with us many of our dependents might be destroyed — so we decided
 to warn them that they should look out for their lives in case we are
 destroyed. We did not warn them earlier out of the selfish reason that
 they may leave us and run away too soon, in case we did come out alive.
+

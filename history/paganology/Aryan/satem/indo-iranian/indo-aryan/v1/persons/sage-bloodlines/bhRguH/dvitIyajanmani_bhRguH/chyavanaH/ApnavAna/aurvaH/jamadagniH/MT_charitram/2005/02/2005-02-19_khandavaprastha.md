@@ -1,7 +1,11 @@
 +++
 title = "khAnDavaprastha"
+date = "2005-02-19"
+upstream_url = "https://manasataramgini.wordpress.com/2005/02/19/khandavaprastha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/02/19/khandavaprastha/).
+
 Those battles were over. Our gaping breaches in the fronts of sharirasya
 oShadhi, dagdaratha and kosha remained, but the realization dawned on us
 that we had won the encounter. Our amAtya and sachIva had been
@@ -17,3 +21,4 @@ Hayastan, who then asked to try to cultivate masura lentils in khANDava.
 
 Hayastanika then asked me narrate the story of the sale and the purchase
 of the two cell phones.
+

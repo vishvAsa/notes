@@ -1,7 +1,11 @@
 +++
 title = "yarning on Anandavardhana"
+date = "2006-04-13"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/13/yarning-on-anandavardhana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/13/yarning-on-anandavardhana/).
+
 Anandavardhana was a remarkable figure. In my Sanskrit learning I gave
 him the skip because the theory and practice of alaMkAra never struck a
 chord in me in my youth (I also had a great excuse). My mother spoke of
@@ -29,14 +33,15 @@ His shAkta disposition becomes clear in the little fragments of the
 devIshataka that I obtained, which are truely a masterpiece of Sanskrit
 poetry. On tasting the devIshataka I realized that for a groundling like
 me this is enough to see the heights that alaMkAra and chitra kAvya
-might have reached. I do not go to the kIrAtArjunIya or such, the
+might have reached. I do not go to the kIrATArjunIya or such, the
 devIshakta and the mayurASTakaM are enough. No doubt it is said that it
 was composed after Anandavardhana performed a svapnavArAhI prayoga.
 
-natApanIta-kleshAyAH surArI-jana-tApanI |  
-na tApanI tanur yasyAs tulyA nAdInatApanI ||
+natApanIta-kleshAyAH surArI-jana-tApanI \|  
+na tApanI tanur yasyAs tulyA nAdInatApanI \|\|
 
 Of whom, removing the impurities of her votaries, burning the enemy folk
 of the gods, the body is not unlike the sun, she grants success. This
 shloka is a good example to the yamaka (actually a double of them) Note
 the sound na-tA-pa-nI-ta \* 2 and na-tA-pa-nI \* 2
+

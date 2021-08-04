@@ -1,7 +1,13 @@
 +++
 title = "Some more special idols worshipped in the family"
+date = "2006-03-12"
+upstream_url = "https://manasataramgini.wordpress.com/2006/03/12/some-more-special-idols-worshipped-in-the-family/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/03/12/some-more-special-idols-worshipped-in-the-family/).
+
+
+
 ![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/chakranArAyaNa_frame.jpg)
 
 [](http://photos1.blogger.com/blogger/2010/410/1600/chakranArAyaNa_frame.jpg)
@@ -21,3 +27,4 @@ kept concealed except on the days of the special offerings.
 The mother of heroes and the mother of gods. In the vedas she is
 pR^ishNi, the cow of the bull of the heavens, rudra. The geneatrix of
 the two gods kumAra and gaNanAtha– the lords of the ghostly hordes
+

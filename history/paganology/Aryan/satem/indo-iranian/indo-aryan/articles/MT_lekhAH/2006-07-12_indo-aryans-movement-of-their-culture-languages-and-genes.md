@@ -1,12 +1,15 @@
 +++
 title = "Indo-Aryans: Movement of their culture, languages and genes"
+date = "2006-07-12"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/12/indo-aryans-movement-of-their-culture-languages-and-genes/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/12/indo-aryans-movement-of-their-culture-languages-and-genes/).
+
 Indo-Aryans have heavily influenced the world by way to the movements of
 their genes, languages and culture. Let us compare some of these
 movements to understand their dynamics.  
-
-1\) The invasion of the Indian sub-continent: After breaking away from
+1) The invasion of the Indian sub-continent: After breaking away from
 the Balto-Slavic with which they are unified by the synapomorphies such
 as the Satem state and the classical RUKI rule the Indo-Iranian stem
 developed a distinctive culture for a period in the Eurasian grassland
@@ -95,7 +98,7 @@ have been bilinguality but probably not out right replacement of
 Tocharian or local Iranian dialects by an IA tongue.
 
 10\) Parya: Appears to be a late translocation of a Northwestern branch
-of Indo-Aryan to Uzbekistan/Tajikistan. Likely to be a band of isolated
+of Indo-Aryan to Uzbekistan/Tajikistan. LIkely to be a band of isolated
 Indo-Aryan speaking traders from India.
 
 11\) Gypsies: A nomadic IA branch dispersed all over the west.
@@ -105,24 +108,19 @@ and live as marginal elements in their respective societies hounded by
 Europeans. Nevertheless, they have transmitted elements of IA culture to
 the West.
 
-## Conclusion
 In conclusion we note that Indo-Aryans have only on rare occasions
-completely displaced the local language. 
-
-They have often culturally
+completely displaced the local language. They have often culturally
 influenced pre-established well-developed civilizations (China and
-Egypt) but not affected these linguistically or genetically. 
-
-While
+Egypt) but not affected these linguistically or genetically. While
 interacting middle level civilization and tribal societies they have
 extensively influenced cultural as well and language, but did not
 displace the local language yet. They retained their language only when
 they did not interact much with the local population in a religious or
 elite situation (e.g Parya, Gypsies and to some degree Saurashtrians).
-
 In face of all this, their complete displacement of the original
 language and culture of the advanced IVC, if there were such, is rather
 anomalous. It was definitely different from other IA movements and must
 be considered more carefully. The rather complete Aryanization of
 toponyms and hydronyms in North India is striking given that even in US,
 22 states maintain names derived from the Paleo-American languages.
+

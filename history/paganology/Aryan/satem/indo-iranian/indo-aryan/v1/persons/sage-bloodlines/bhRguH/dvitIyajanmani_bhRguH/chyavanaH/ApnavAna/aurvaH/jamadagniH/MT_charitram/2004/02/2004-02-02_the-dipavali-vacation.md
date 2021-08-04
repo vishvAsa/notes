@@ -1,7 +1,11 @@
 +++
 title = "The dIpAvali vacation"
+date = "2004-02-02"
+upstream_url = "https://manasataramgini.wordpress.com/2004/02/02/the-dipavali-vacation/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/02/02/the-dipavali-vacation/).
+
 Never before had I descended to such a low, especially given all the
 show I had made. It was like Tendulkar scoring two zeroes in a row. All
 around us were atirathis and mahArathis (mark that word for it is indeed
@@ -27,4 +31,5 @@ will experience it at least once more in life. Mark those words and
 think of me when they return to your mind many years later. We shall
 make a profound telepathic connection long after the basaltic
 depressions would have dried. Remember the Oviraptor prancing through
-the Gobi wilderness. “The flash comes home”
+the Gobi wilderness. “The flash comes home”  
+

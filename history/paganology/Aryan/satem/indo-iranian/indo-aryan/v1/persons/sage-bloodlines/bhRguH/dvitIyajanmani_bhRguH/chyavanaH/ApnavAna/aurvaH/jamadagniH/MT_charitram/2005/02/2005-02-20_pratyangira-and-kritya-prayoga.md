@@ -1,7 +1,11 @@
 +++
 title = "pratya~NgirA and kR^ityA prayoga"
+date = "2005-02-20"
+upstream_url = "https://manasataramgini.wordpress.com/2005/02/20/pratyangira-and-kritya-prayoga/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/02/20/pratyangira-and-kritya-prayoga/).
+
 There was more than one discussion recently as to whether the tantric
 goddess pratya\~NgirA was associated with a kR^ityA prayoga. The
 atharvan text clearly deploys the sUkta of pratichIna A\~Ngirasa as a
@@ -59,14 +63,12 @@ description of the deity tallies very well with the classical
 description of kR^ityAs in texts like the shiva or bhAgavata purANa\]
 
 Then prescribed oblations are made reciting just 108 times:  
-
 yAM kalpayanti no .arayaH krurAM kR^ityAM vadhumiva /  
 tAM brahmaNA .apanirnudmaH pratyak kartAramR^ichChatu //
 
 This is the paippalAda version of the formula
 
 Then curd oblations are made to indra with the formula:  
-
 yo me pUrva gataH pApmA pAvakeneha karmaNA indrastvaM devo rAjA
 jaMbhayatu staMbhayatu mohayatu vashayatu mArayatu nAshayatu baliM
 tasmai prayachChatu kR^itaM mama shubhaM mama shivaM mama shAntiH
@@ -80,3 +82,4 @@ and provide him safety.
 Likewise the deities agni, yama, nirR^iti, varuNa, vAyu, soma, rudra,
 and surya ( in lower, upper, nether and heavenly quarters) are invoked
 with balis and similar implored to do away with the foes.
+

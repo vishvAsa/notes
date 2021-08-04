@@ -1,63 +1,55 @@
 +++
-title = "bhRgus' imprint"
+title = "The bhR^igu-s, the country and the national epic"
+date = "2006-10-12"
+upstream_url = "https://manasataramgini.wordpress.com/2006/10/12/the-bhrigu-s-the-country-and-the-national-epic/"
 
 +++
-Copied here from [MT's blog](https://manasataramgini.wordpress.com/).
+Source: [here](https://manasataramgini.wordpress.com/2006/10/12/the-bhrigu-s-the-country-and-the-national-epic/).
 
-The imprint of the bhRgu-s is not just all over the literature of
+The imprint of the bhR^igu-s is not just all over the literature of
 bhAratavarSha but also dotting the very expanses of the land of the
-bhArata-s. While being a bhRgu, I may be biased to see this imprint
+bhArata-s. While being a bhR^igu, I may be biased to see this imprint
 more than others, the fact has been observed by many others. The
 following is a purely parochial view of history seen through the lens of
 my ancestry, yet I believe there are elements of real significance for
 the history of the Hindu nation. Shrines of the bhArgava hero, the son
-of jamadagni are seen throughout the country. 
-
-## kAgra inscription
-The most hallowed and the
+of jamadagni are seen throughout the country. The most hallowed and the
 oldest to which we trace our antecedents \[real or mythical\] is the
 shrine in Kangra with the inscription mentioning the members of the
 bhArgava clan involved in the study of the paippalAda shAkha of the
 atharva veda. These bhArgavas performed not only the shrauta rites as
 but also the peculiarly atharvanic later day rites like the skanda yAga,
-the saucer of nirRti, the making of the cake called the Aditya maNDaka
-to indra and viShNu and yearly invocation of the terrifying kRtyA of
-the bhArgava-s, that first emerged from the fire of bhRgu and then
+the saucer of nirR^iti, the making of the cake called the Aditya maNDaka
+to indra and viShNu and yearly invocation of the terrifying kR^ityA of
+the bhArgava-s, that first emerged from the fire of bhR^igu and then
 from that of chyavAna, also worshiped as the goddess pratya\~NgirA. The
 muni visited this primal shrine and offered the sacraments for the
-gotra-kRt-s.
+gotra-kR^it-s.
 
-## rAma's lakes
 There are other shrines of the great bhArgava and some of jamadagni or
 his wife that are considered places of pilgrimage throughout
 bhAratavarSha. Foremost of these is the tirtha associated with the five
 lakes of blood that were created from the slaughter of the vItahavyas by
 the bhArgava hero and his warriors. In the middle of this circle of
-lakes, the samanta panchaka or the rAmahrada, was the sacrificial
+lakes, the samanta pa\~nchaka or the rAmahrada, was the sacrificial
 altar of rAmo bhArgava, where he performed the final sacrifice to the
 great indra and offered tarapaNaM to the dead bhArgavas. On this
 sacrifice of rAma to indra, we model all our sacrifices to the devas.
-
-## reNukA and jamadagni kin kullu
 Then one goes to the shrine of reNukA near modern day Nahan. It was in
 the sylvan setting the bhArgava-s are supposed to have had their
 ancestral hermitages. From there one performs the pilgrimage of the
 shrine of jamadagni in Batahar in the cold Kullu valley. His shrine is
 even to this date maintained vigorously by the locals. From there one
 may move eastwards towards the Ganga and the Ghaghara stream and in
-between the two visit the shrine of the founding father bhRgu himself.
+between the two visit the shrine of the founding father bhR^igu himself.
 
-## rAma's peregrinations
 Then one may do the circuit of tIrthas starting with Markundia in
 Rajasthan and Kanyakumari where rAma is supposed to have bathed to
 purify himself of the sins of slaughtering the vItahavyas. In the middle
 of the above journey one arrives at the great temple of the founder
-bhRgu in bhRgupura in the lATa pradesha. From Kanyakumari one
+bhR^igu in bhR^igupura in the lATa pradesha. From Kanyakumari one
 finally goes to Lakshmipur in the east in Assam to visit the tank where
-rAma gave up his axe after the destruction of the kShatriyas. 
-
-## Other shrines
-Before
+rAma gave up his axe after the destruction of the kShatriyas. Before
 that, there are other shrines in the Chera country that may be visited
 if one has the opportunity. On route to the eastern outpost one sees the
 temple of the axe in Kunjaragiri in Karnataka. The jamadagni hill is the
@@ -70,22 +62,18 @@ There is one further shrine beyond Lakshmipur in Arunachal Pradesh that
 combines rAma, reNukA and jamadagni. Only one member of our clan
 successfully reached it, but performed the rites on all our behalf.
 
-## sthala-purANa-s
-Beyond these shrines to the bhRgu-s themselves, they appear in the
+Beyond these shrines to the bhR^igu-s themselves, they appear in the
 sthala-purANas of various shrines with great regularity. The
 sthala-purANa of the most famous temple in the country, venkaTAdrI,
-begins with the conflict of bhRgu with the gods. Next most famous
+begins with the conflict of bhR^igu with the gods. Next most famous
 shrine in the country, that of shAstA on the shabari hill, has ramo
-bhArgava as a prominent protagonist. 
-
-Soothsaying quacks all over the
+bhArgava as a prominent protagonist. Soothsaying quacks all over the
 country claim to forecast the future for all and sundry in the name of
-bhRgu and ushanA kAvya. Thus, the imprint of the bhRgus is seen
+bhR^igu and ushanA kAvya. Thus, the imprint of the bhR^igus is seen
 throughout the land of bhAratavarSha.
 
-## Cause for regard
 While being archetypal brahmins, rAmo-bhArgava as well as other great
-early bhArgava-s like bhRgu, kAvya, jamadagni and mArkaNDeya inspire
+early bhArgava-s like bhR^igu, kAvya, jamadagni and mArkaNDeya inspire
 awe and reverence from all varNa-s and jAti-s across the land. Why are
 the bhArgavas a part of this pan-national memory of bhAratavarSha? The
 answer to this lies in one of the subtle but important contributions of
@@ -94,10 +82,9 @@ contribution is skipped over and seen more of an aberration by many, but
 careful analysis reveals its importance. As we have seen before the
 bhArgavas have been a prominent clan with respect to orthopraxy, ritual
 and proto-science of the Hindus right from the days of the
-[Rgveda](https://manasataramgini.wordpress.com/2006/05/21/the-bhrigu-s-of-the-rigveda/ "The bhRgu-s of the Rgveda").
+[R^igveda](https://manasataramgini.wordpress.com/2006/05/21/the-bhrigu-s-of-the-rigveda/ "The bhR^igu-s of the R^igveda").
 
-### National epic
-But the most important activity of the bhRgus was the drastic
+But the most important activity of the bhR^igus was the drastic
 remodeling of the national epic the vijaya or the bhArata to generate
 what today has come to us as the mahAbhArata. After their conquest of
 the kuru realm the pANDu-putras, appear to have sanctioned a new
@@ -113,29 +100,24 @@ and even egotistic irreverance. At one point the bhArgava-s are
 presented as greater than the gods and great kings. In the ShoDasha
 rAjika they deface the narrative of the haihaya arjuna and insert their
 own hero rAma jAmadagnya. In the bhagavad-gItA they appear as
-manifestations of nArAyaNa, as bhhRgu amongst the maharShis, rAma
+manifestations of nArAyaNa, as bhhR^igu amongst the maharShis, rAma
 amongst the weapon-wielders, and shukra amongst the kavi-s. An element
 of such remodelling is seen even in the rAmAyaNa.
 
-### Encyclopaedists
 However, what is over-looked is that the bhArgava-s were primarily
 encyclopaedists who were generators, collectors and systematizers of
 Hindu knowledge. They were deep into mythical lore, different lines of
 philosophical and proto-scientific speculation, and in more practical
-terms nIti and dharma (their role in redacting the manu smRti has been
-examined in the past). 
-
-As a result in taking up the vijaya/bhArata and
+terms nIti and dharma (their role in redacting the manu smR^iti has been
+examined in the past). As a result in taking up the vijaya/bhArata and
 making it the mahAbhArata they inserted elaborate AkyAnas covering these
 topics. These insertions were veritable repositories of Hindu folklore
 and myth (e.g. the mArkaNDeya samasyA parvan), Hindu philosophy and
-protoscience (the lecture of the hunter to the vaishvamitra, the bhRgu
-smRti, the lectures of the kShatriya woman sulabhA), dharma and nIti
-(the manusmRti and numerous other AkhyAna-s), folk religion (e.g.
+protoscience (the lecture of the hunter to the vaishvamitra, the bhR^igu
+smR^iti, the lectures of the kShatriya woman sulabhA), dharma and nIti
+(the manusmR^iti and numerous other AkhyAna-s), folk religion (e.g.
 narratives of the deities and their worship, such as those of shiva,
-viShNu and skanda). 
-
-In the process they created one encyclopaedia, where
+viShNu and skanda). In the process they created one encyclopaedia, where
 one will find, everything ranging from apparent diameters of bodies of
 solar systems, to early hindu Atomic theory, to early Hindu embryology,
 to the varNAshrama dharma, duties of a king, statecraft, gifts of
@@ -146,7 +128,7 @@ place – the first Hindu encyclopaedia, albeit a very peculiar one.
 But the consequence of this went way beyond just creating an
 encyclopaedia. The resulting text that emerged was actually a relatively
 well-crafted one that actually held together despite all the bloating
-and digressions. As archetypal brahmins the bhRgu-s were not going to
+and digressions. As archetypal brahmins the bhR^igu-s were not going to
 give up their private collective ancestral knowledge- the shruti to all
 and sundry. Yet, in creating the mahAbhArata they generated a text that
 was by definition available to all varNa-s, providing Hindu knowledge
@@ -155,10 +137,7 @@ heard through wandering storytellers of all types and with it was going
 to travel a package of all Hindu knowledge available to that point.
 There was a core storyline to capture the audience and spark an
 extraordinary interest, and with it came the AkhyAna-s imparting,
-dharma, nIti, philosophy and science from brAhmaNa to shUdra. 
-
-
-We hence
+dharma, nIti, philosophy and science from brAhmaNa to shUdra. We hence
 argue that when the fabric of the mahAbhArata left the loom of the
 bhArgava it was a vehicle of education and cultural unification
 unparalleled in world history. This epic with the absorbing story-line
@@ -172,3 +151,4 @@ It was the spread of the national epic that embedded the bhArgava-s in
 national memory — in a sense a reward for their work on the creation of
 national identity. This is the very parochial dimension of why the Hindu
 national identity matters to me.
+

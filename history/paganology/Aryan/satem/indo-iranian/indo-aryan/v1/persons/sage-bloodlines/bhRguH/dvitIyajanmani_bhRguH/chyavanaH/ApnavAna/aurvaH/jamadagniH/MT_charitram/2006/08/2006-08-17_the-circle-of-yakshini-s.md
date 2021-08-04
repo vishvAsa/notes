@@ -1,7 +1,11 @@
 +++
 title = "The circle of yakShiNI-s"
+date = "2006-08-17"
+upstream_url = "https://manasataramgini.wordpress.com/2006/08/17/the-circle-of-yakshini-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/08/17/the-circle-of-yakshini-s/).
+
 We bow to the great goddess of the trotalottaraM and pay worship to the
 great throng of yakShiNI-s that emerge from her. The yakShiNI-s are of
 diverse forms, all very wonderful and amazing. They bear many diverse
@@ -14,3 +18,4 @@ knowledge might escape from you. Some wonderous yakShiNI-s carry what
 may be called “useless knowledge”. It can be endlessly fascinating but
 cannot be acquired by those not fit for it, or knowing it takes you down
 a path a failure.
+

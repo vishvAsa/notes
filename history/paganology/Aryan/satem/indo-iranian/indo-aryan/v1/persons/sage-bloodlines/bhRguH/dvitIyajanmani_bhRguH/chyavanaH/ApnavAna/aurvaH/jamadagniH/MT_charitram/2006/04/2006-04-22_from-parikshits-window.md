@@ -1,7 +1,11 @@
 +++
 title = "From parIkShit’s window"
+date = "2006-04-22"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/22/from-parikshits-window/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/22/from-parikshits-window/).
+
 From the top of the fort, from the window we watched the desolate
 landscape cloaked in the moist haze of indra sprinklings. The last cry
 of the bird had been heard for the day. The amAtya and the shachiva were
@@ -35,3 +39,4 @@ agents continued to assail us non-stop and follow us like a shadow. But
 we were born with the karma of the warrior and had to fight, even if
 like the sUtaputra without the armor and earrings. We hoped to smite the
 dasyu in that great battle.
+

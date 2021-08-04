@@ -1,7 +1,13 @@
 +++
 title = "The silent return"
+date = "2007-01-20"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/20/the-silent-return/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/20/the-silent-return/).
+
+
+
 [![](https://i2.wp.com/bp2.blogger.com/_ZhvcTTaaD_4/RbHLud_ytqI/AAAAAAAAABM/jCa_Fk2oo5Y/s320/teichmuller_crown.png)](http://bp2.blogger.com/_ZhvcTTaaD_4/RbHLud_ytqI/AAAAAAAAABM/jCa_Fk2oo5Y/s1600-h/teichmuller_crown.png)
 
 On the path of nothingness we returned;  
@@ -44,7 +50,7 @@ Chasing that dark shade,
 down the dark alley we coursed.  
 At the bend in the path  
 concealing the grim unknown,  
-the shade was unmasked\!
+the shade was unmasked!
 
 Out came the rAkShasi,  
 indeed laughing hideously  
@@ -63,3 +69,4 @@ the slow changing heavens
 in the daily circuits.  
 The bleak shriek of vAta and  
 the rAkShasi beyond.
+

@@ -1,7 +1,11 @@
 +++
 title = "nityaklinna"
+date = "2004-07-31"
+upstream_url = "https://manasataramgini.wordpress.com/2004/07/31/nityaklinna/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/07/31/nityaklinna/).
+
 **“Burg Niedeck ist im Elsass der Sage wohlbekannt. Die Höhe, wo
 vorzeiten die Burg der Riesen stand.”-Adelbert von Chamisso**  
   
@@ -16,4 +20,5 @@ at once. The sensations were of every possible description. And at the
 end of it I had transcended them.  
   
 I stood apart watching swirling mass of rasArNava, which was fading away
-as the giants from the German mind.
+as the giants from the German mind.  
+

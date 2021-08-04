@@ -1,7 +1,11 @@
 +++
 title = "End of the Maharattas – I"
+date = "2004-05-13"
+upstream_url = "https://manasataramgini.wordpress.com/2004/05/13/end-of-the-maharattas-i/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/05/13/end-of-the-maharattas-i/).
+
 An important lesson is there to be learnt from what happened between
 1795 to 1818 vis-a-vis the Maharattas. Bajirao II handed himself up to
 British protection as he was in conflict with Daulatrao Shinde. Shinde
@@ -59,8 +63,8 @@ asked to disarm by the Britons. Amritrao was banished to Varanasi.
 With this any semblance of law and order completely collapsed around
 Aurangabad and Ahmednagar and bands of Marathi hill tribes took to
 plundering, thieving and murdering in the entire region. Some of
-Holkar’s agents were also still plundering every inhabitation they
-could locate. Syed Sultan Ali along with a large band of marauding Arabs
+Holkar’s agents were also still plundering every inhabitation they could
+locate. Syed Sultan Ali along with a large band of marauding Arabs
 commited numerous atrocities in course of a Jihad cum thieving operation
 he initiated along the Godavari river. The English let this anarchy run
 its course for they knew it would erase all opportunity for the land to
@@ -70,5 +74,6 @@ Dengle sent another large body of troops to massacre another advancing
 mass of over 15000 tribals. The famine decimated most urban centers and
 the Peshva failed to restore law as he handed the control to brutal
 Patils who came down heavily on farmers. This broke the back of
-Maharastra resulting in the rout of the Maharatta armies by the Britons
+Maharastra resulting in the route of the Maharatta armies by the Britons
 15 years later.
+

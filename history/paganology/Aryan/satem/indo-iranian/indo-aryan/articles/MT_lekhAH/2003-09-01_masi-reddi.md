@@ -1,7 +1,11 @@
 +++
 title = "Masi Reddi"
+date = "2003-09-01"
+upstream_url = "https://manasataramgini.wordpress.com/2003/09/01/masi-reddi/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/09/01/masi-reddi/).
+
 Masi Reddi and his wife Nilamama lived in the eastern ghats selling wood
 with their 6 sons. They invoked mahAdeva, who appeared in their house in
 the form of a jangama. He gave Nilamma some ashes and said they would
@@ -25,3 +29,4 @@ returned to their flock with the fire. He married her giving her a
 woollen bracelet. Then he married a tribal woman of his own ethnicity
 and gave her a cotton bracelet. The descendents of the brahmin woman
 founded a higher semi-sanskritized caste amidst the herders.
+

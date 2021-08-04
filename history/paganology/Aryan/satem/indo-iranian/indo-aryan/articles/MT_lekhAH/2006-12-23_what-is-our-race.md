@@ -1,7 +1,11 @@
 +++
 title = "What is our race?"
+date = "2006-12-23"
+upstream_url = "https://manasataramgini.wordpress.com/2006/12/23/what-is-our-race/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/12/23/what-is-our-race/).
+
 Americans are particularly interested in knowing about a person’s race,
 just as we might be curious about a person’s varNa or jAti. In any
 paper-work, be it of small or big importance, the American officialdom
@@ -17,19 +21,19 @@ an Indian just does not have a choice. Today a paper was published by
 Rosenberg et al in the free wannabe tabloid studying the Indian
 populations using a sample of Indians living in the US. The conclusions
 are not unexpected but worth reiterating nevertheless:  
-1\) Indians are a distinct population. When you do K-means type
+1) Indians are a distinct population. When you do K-means type
 clustering with K=7 using a panel of autosomal genetic variation at 729
 microsatellite and 471 insertion/deletion polymorphisms we see the
 following populations of the world fall out as clusters:  
-1\) “Blacks/Africans”: Bantus, Bushmen, Pygmies included  
-2\) Whites: Europeans and Middle Easterners included.  
-3\) Indians: from Kashmir to Tamil Nad, Gujarat to Bengal all major
-varNa populations included.  
-4\) Mongoloids (Asians): Chinese Han, Japanese, Mongols, Koreans,
+1) “Blacks/Africans”: Bantus, Bushmen, Pygmies included  
+2) Whites: Europeans and Middle Easterners included.  
+3) Indians: from Kashmir to Tamil Nad, Gujarat to Bengal all major varNa
+populations included.  
+4) Mongoloids (Asians): Chinese Han, Japanese, Mongols, Koreans,
 Indo-Chinese and Yakuts included.  
-5\) Papuans and Melanasians.  
-6\) Native Americans from North and South America.  
-7\) The Kalash.  
+5) Papuans and Melanasians.  
+6) Native Americans from North and South America.  
+7) The Kalash.  
 Baring the Kalash, who are a uniquely isolated population, the remaining
 categories are pretty reasonable racial categories which correspond to
 what American have on their forms. So the point is clear we need a race
@@ -94,3 +98,4 @@ after arriving. The “Western Indians” or groups from modern TSP exhibit
 the typical properties of boundary-zone populations- that is admixture
 with the adjacent group. In this case it is the Western Caucasoids or
 the “Whites”. Thus they lie apart as a group away from core Indians.
+

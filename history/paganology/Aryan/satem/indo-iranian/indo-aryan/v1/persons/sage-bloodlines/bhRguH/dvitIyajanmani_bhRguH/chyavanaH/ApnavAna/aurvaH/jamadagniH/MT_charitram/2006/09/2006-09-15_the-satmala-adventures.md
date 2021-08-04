@@ -1,17 +1,23 @@
 +++
 title = "The Satmala adventures"
+date = "2006-09-15"
+upstream_url = "https://manasataramgini.wordpress.com/2006/09/15/the-satmala-adventures/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/09/15/the-satmala-adventures/).
+
+
+
 [![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/satmala.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/satmala.jpg)
 
 1\) Chandvad (Chandradityapura)  
-2\) Chandvad fort  
-3\) chandreshvarI cave temple  
-4\) reNukA temple  
-5\) indrANI temple  
-6\) indragiri durga (Indrai fort)  
-7\) Koldher fort  
-8\) Rajdher fort
+2) Chandvad fort  
+3) chandreshvarI cave temple  
+4) reNukA temple  
+5) indrANI temple  
+6) indragiri durga (Indrai fort)  
+7) Koldher fort  
+8)Rajdher fort
 
 After a long bus journey the shUdra, the feral brahmin, Mis-creant and
 myself entrenched ourselves in the lodge of the lATas. After enjoying a
@@ -43,14 +49,14 @@ through which the Moslems attacked the land (which now contains the
 highway to Agra) after a 3 hour ardous trek (just to cover about 1.2 Km)
 through some extra-ordinary terrain to reach the remarkable cave temple
 of our royal ancestress, [reNukA, the wife of
-jamadagnI](http://manasataramgini.wordpress.com/2006/03/death-of-renuka.html).
+jamadagnI](http://manollasa.blogspot.com/2006/03/death-of-renuka.html).
 After the darshan of the large orange painted image of reNukA, we
 climbed further uphill passing an abandoned shrine of the pastoral
 horse-riding deity khaNDoba. In the days of the Holkar it was a popular
 shrine of the winter full-moon festival of the deity, but now largely in
 disuse. There was the orange aniconic rock representing [padubaI
 (padmAvatI under a tree)
-](http://manasataramgini.wordpress.com/2006/04/countryside-expeditions.html)as
+](http://manollasa.blogspot.com/2006/04/countryside-expeditions.html)as
 usual. We found a flat rock in the vicinity and placing our safety on
 the weapons carried by the shUdra and the feral brahmin we retired for
 the day. Waking up before dawn we caught sight of the Centaurus A galaxy
@@ -92,3 +98,4 @@ middle surrounded by vinAyaka, the transfunctional shaktI, viShNu and
 sUrya. In organization it is similar to the one built by the Peshwas in
 their city. There is also another shrine probably of the same period
 with a large vAnAra idol.
+

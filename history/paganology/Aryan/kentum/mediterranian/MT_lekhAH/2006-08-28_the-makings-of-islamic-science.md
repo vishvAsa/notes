@@ -1,14 +1,18 @@
 +++
 title = "The makings of \"Islamic Science\""
+date = "2006-08-28"
+upstream_url = "https://manasataramgini.wordpress.com/2006/08/28/the-makings-of-islamic-science/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/08/28/the-makings-of-islamic-science/).
+
 “In the time of the Hellenes and during the early days of the empire of
 the Rum the sciences were honoured and enjoyed universal respect. From
 an already solid and grandiose foundation, they were raised to greater
 heights every day, until the Christian religion made its appearance
 among the Rum; this was a fatal blow to the edifice of learning; its
 traces disappeared and its pathways were effaced”  
-\-Abu al-Hasan Ali ibn al-Husayn al-Masudi, the scientist from Baghdad,
+-Abu al-Hasan Ali ibn al-Husayn al-Masudi, the scientist from Baghdad,
 who lived in the 900s of the CE.
 
 This is a rather remarkable statement coming from an Islamist, whose own
@@ -69,4 +73,5 @@ pith and marrow one and the same belief.”
 
 We must acknowledge the clarity of al Biruni, but it is a pity that many
 amongst us heathens do not understand that the monotheists see us
-fundamentally flawed\!
+fundamentally flawed!
+

@@ -1,7 +1,11 @@
 +++
 title = "Some works of nArAyaNa bhaTTathiri"
+date = "2004-08-21"
+upstream_url = "https://manasataramgini.wordpress.com/2004/08/21/some-works-of-narayana-bhattathiri/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/08/21/some-works-of-narayana-bhattathiri/).
+
 MelpattUr nArAyaNa bhaTTathiri, was a great nambuthiri sanskrit writer
 who apparently lived for a 106 years (born 1560) after escaping death
 due to syphilis earlier in his life. He wrote a remarkable vaishNava
@@ -20,4 +24,5 @@ many works in the champu style.
 
 In the nArAyaNiyaM he shows his link to the great nambuthiri
 astronomers, by giving the date of his composition in the katapayadi
-system as AyurArogayasaukhyaM.
+system as AyurArogayasaukhyaM.  
+

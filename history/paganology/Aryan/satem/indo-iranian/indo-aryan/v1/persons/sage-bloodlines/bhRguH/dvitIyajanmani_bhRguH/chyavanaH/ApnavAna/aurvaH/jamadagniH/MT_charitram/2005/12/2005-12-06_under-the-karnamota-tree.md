@@ -1,7 +1,11 @@
 +++
 title = "Under the karNamoTA tree"
+date = "2005-12-06"
+upstream_url = "https://manasataramgini.wordpress.com/2005/12/06/under-the-karnamota-tree/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/12/06/under-the-karnamota-tree/).
+
 We walked up the path of the hill of the vAnara, when the dasyus were
 not its rulers yet. There was a glorious cleft on the side of the
 hillock, which led to a deep valley with wonderfully eroded paths. There
@@ -36,3 +40,4 @@ li\~Nga again and brought it back with us despite its weight.
 One of the important acts for the proper performance of the ShaTkarma of
 tantric parlance is the acquisition and study of the mahAvidyA of devI
 karNamoTini.
+

@@ -78,11 +78,13 @@ title = "Variants"
 - Aggregate data from UK BioNTech/Pfizer and Oxford/AstraZeneca jabs.
     - 1 dose: 33 per cent protection against symptomatic infection from B.1.617.2, and 51 per cent against B.1.1.7.
     - 2 doses  81 per cent protection against the B.1.617.2, 87 per cent against the B.1.1.7 strain
+- Those who got infected with B 1.315 or P1 are still susceptible to get re-infected with the Delta variant.
 
 ### Effects
 - R number of more than 6
 - The virus has about 40-50% more transmissibility than the B 117 UK variant.
 - causing more lung damages and weight loss.
+- Lesser numbers of asymptomatic cases.
 
 
 ## bengAl B 1.618
@@ -96,3 +98,9 @@ title = "Variants"
 - Supposedly more infectious. But reports indicate that it's been swamped by B 1.671.
 
 ## Lambda variant Peru
+
+## Comparisons
+- B117 Alpha—29% faster
+- B1351 Beta—25%
+- P1 Gamma—38%
+- B16172 Delta—97%

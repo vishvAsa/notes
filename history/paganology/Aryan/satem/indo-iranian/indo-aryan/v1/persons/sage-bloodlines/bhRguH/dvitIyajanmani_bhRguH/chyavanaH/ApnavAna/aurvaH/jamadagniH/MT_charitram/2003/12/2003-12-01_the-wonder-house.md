@@ -1,7 +1,11 @@
 +++
 title = "The wonder house"
+date = "2003-12-01"
+upstream_url = "https://manasataramgini.wordpress.com/2003/12/01/the-wonder-house/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/12/01/the-wonder-house/).
+
 It was late summer or early autumn in the year of dvAdashAnta. R and I
 went to that house in the afternoon. Our acquaintences were busy trying
 to prepare for some exam, which at least to us seemed distant. They were
@@ -35,3 +39,4 @@ Of those we only remember “The death of vidruM” and “The vIrabhadra
 temple” that came to me. We then decided to go the other house on
 another day. The Sunday sleep and the tale of Limbya Shinde will be
 revisited.
+

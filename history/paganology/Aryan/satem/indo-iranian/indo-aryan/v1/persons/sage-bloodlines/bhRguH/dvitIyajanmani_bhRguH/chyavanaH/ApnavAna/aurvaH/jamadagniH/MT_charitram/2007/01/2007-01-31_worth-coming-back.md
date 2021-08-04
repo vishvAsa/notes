@@ -1,7 +1,11 @@
 +++
 title = "Worth coming back"
+date = "2007-01-31"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/31/worth-coming-back/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/31/worth-coming-back/).
+
 [![](https://i0.wp.com/bp0.blogger.com/_ZhvcTTaaD_4/RcGNNGQtsJI/AAAAAAAAACg/ng7ZELJO_KQ/s320/sahasrara.png)](http://bp0.blogger.com/_ZhvcTTaaD_4/RcGNNGQtsJI/AAAAAAAAACg/ng7ZELJO_KQ/s320/sahasrara.png)  
 [![](https://i2.wp.com/bp3.blogger.com/_ZhvcTTaaD_4/RcGPA2QtsLI/AAAAAAAAACw/pNHOltntt8A/s320/sahasrara_green.png)](http://bp3.blogger.com/_ZhvcTTaaD_4/RcGPA2QtsLI/AAAAAAAAACw/pNHOltntt8A/s320/sahasrara_green.png)
 
@@ -15,7 +19,7 @@ reaching for the sun. It was then that I standing on the broken wall of
 the larger kandUka prastha. I saw you strolling into to smaller kandUka
 prastha and headed downwards to meet you. With you were 4 others so we
 exchanged words in code as kApAlika-s do.”  
-She said: “Yes indeed\! The vAta is blowing with pitiless fury. Sorrow
+She said: “Yes indeed! The vAta is blowing with pitiless fury. Sorrow
 and joy are but two pans of the balance. The wielder of the thunderbolt
 holds it aloft. Today into one pan he has cast a weight tomorrow in
 another he shall.”
@@ -41,3 +45,4 @@ refreshed ourselves we proceeded to perform our studies on the water. We
 saw that yonder world before us. May we be conquerors of that world with
 all its beings we wished…. We still wish. We spoke again through the
 veil that separates us. We connected with guhyasomA and lost it again.
+

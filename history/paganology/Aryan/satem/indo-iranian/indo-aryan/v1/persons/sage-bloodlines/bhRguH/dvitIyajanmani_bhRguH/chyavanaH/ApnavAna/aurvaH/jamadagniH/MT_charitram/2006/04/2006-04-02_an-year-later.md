@@ -1,7 +1,11 @@
 +++
 title = "An year later"
+date = "2006-04-02"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/02/an-year-later/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/02/an-year-later/).
+
 The kR^ityA had hit precisely an year back. We knew that the anniversary
 strike was in the making. Around 2.30 PM the kR^ityA was seen again; as
 before, it rapidly breached all the kavachas and burnt its way through.
@@ -13,4 +17,5 @@ it seized us violently. We had to finally use the “Asandi” to drive her
 away. We thought we had her under check, when she suddenly returned and
 could not be quelled by by “nimbUka” or “mAsha”. She raged for five
 hours and the dhanAkarshaNa bhairava spell was repulsed. Then finally
-with the gaNanAthव्a a temporary control was effected.
+with the gaNanAtha a temporary control was effected.
+

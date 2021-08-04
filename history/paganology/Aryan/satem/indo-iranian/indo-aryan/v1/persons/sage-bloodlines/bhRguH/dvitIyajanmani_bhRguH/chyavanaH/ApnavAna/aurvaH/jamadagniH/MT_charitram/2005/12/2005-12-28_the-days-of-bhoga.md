@@ -1,7 +1,11 @@
 +++
 title = "The days of bhoga"
+date = "2005-12-28"
+upstream_url = "https://manasataramgini.wordpress.com/2005/12/28/the-days-of-bhoga/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/12/28/the-days-of-bhoga/).
+
 A friend, in course of a yarning session, reminded me of the days of
 bhoga. In a social situation with Marc, R and Hayastanika we were all
 ganging to make fun of R. A person, who shall go un-named, remarked in
@@ -62,6 +66,7 @@ conceit- but it all lies in the eyes of the beholder.
 pashupati is that odd-eyed fellow who goes around in the graveyard
 performing huDDukAra and aTTahAsa.
 
-## 
+## **
 
-##
+## **
+

@@ -1,7 +1,11 @@
 +++
 title = "Flights of fancy"
+date = "2006-09-28"
+upstream_url = "https://manasataramgini.wordpress.com/2006/09/28/flights-of-fancy/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/09/28/flights-of-fancy/).
+
 The black basaltic rock had assumed the delightful shape of a large
 throne, fit for a mighty rakSha like atikAya, who was slain by the
 saumitra. It was a cool refugium in the hot plains baked by the eye of
@@ -25,14 +29,14 @@ learned kavi the muni. But neither could be paired with her as they were
 like momentum and position in the Heisenberg inequality…  
 So with much effort pacing languidly along the basaltic slope she and I
 came up with our first nATaka, a very contrived political satire titled
-“Muammar al-Gaddafi”. I must say my part was only in getting the
-issues- the dialogs were all her’s. It seemed successful in the venue we
-had it staged. I felt an urge to dedicate it to Dennis Kincaid, by
-reading whose books, I had learnt this mlechCha bhASha, which became my
-mother tongue on account of vyvahAra. In the subsequent year, the
-composition of our peers had changed in nature and nurture and became
-rather unreceptive to our nATaka-s, banishing us to the fringes, much
-like our hero jayanta the atharvavedin.
+“Muammar al-Gaddafi”. I must say my part was only in getting the issues-
+the dialogs were all her’s. It seemed successful in the venue we had it
+staged. I felt an urge to dedicate it to Dennis Kincaid, by reading
+whose books, I had learnt this mlechCha bhASha, which became my mother
+tongue on account of vyvahAra. In the subsequent year, the composition
+of our peers had changed in nature and nurture and became rather
+unreceptive to our nATaka-s, banishing us to the fringes, much like our
+hero jayanta the atharvavedin.
 
 Her playwriting was much like her drawing, brilliant but sporadic as the
 tridecennial cicada’s song. But due to the vigor of our clansmen the
@@ -70,3 +74,4 @@ Now the time has come for us to literally get our act together again
 though this is not something I should be doing. This time it shall be
 titled “Airplanes and Robots of king bhoja-deva paramAra”. Let us see if
 they get moving and flying.
+

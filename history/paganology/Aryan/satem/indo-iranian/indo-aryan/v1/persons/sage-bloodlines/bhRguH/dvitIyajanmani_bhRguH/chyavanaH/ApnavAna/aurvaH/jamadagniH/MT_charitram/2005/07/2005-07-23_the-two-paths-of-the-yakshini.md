@@ -1,7 +1,11 @@
 +++
 title = "The two paths of the yakShiNi"
+date = "2005-07-23"
+upstream_url = "https://manasataramgini.wordpress.com/2005/07/23/the-two-paths-of-the-yakshini/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/07/23/the-two-paths-of-the-yakshini/).
+
 The paths of the yakShiNi [![Posted by
 Picasa](https://i1.wp.com/photos1.blogger.com/pbp.gif)](http://picasa.google.com/)
 
@@ -93,3 +97,4 @@ spell he lost knowledge of his powers”. Learn ye the lesson from this if
 contemplating to soar as hanumant did.
 
 We vanished.
+

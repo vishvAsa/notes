@@ -1,7 +1,11 @@
 +++
 title = "The great bhAskararAya makhIndra"
+date = "2004-05-17"
+upstream_url = "https://manasataramgini.wordpress.com/2004/05/17/the-great-bhaskararaya-makhindra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/05/17/the-great-bhaskararaya-makhindra/).
+
 The redoubtable bhAskararAya was one of the greatest shrauta sacrificers
 and exponents of the tantra of recent times. He would rank no less than
 great savants of the mantra shAstra throughout bhArata, through the
@@ -120,3 +124,4 @@ paid their respect to the brahmin who had attained moksha.
 NOTE: There are others stories and some variants to the above
 hagiographic account floating around in Tamil Nadu, including those with
 exaggerated narratives of his siddhis.
+

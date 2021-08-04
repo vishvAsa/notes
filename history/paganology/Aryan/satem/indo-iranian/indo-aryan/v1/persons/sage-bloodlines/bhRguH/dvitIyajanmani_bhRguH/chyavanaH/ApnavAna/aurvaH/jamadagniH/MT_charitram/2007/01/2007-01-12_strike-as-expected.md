@@ -1,7 +1,11 @@
 +++
 title = "Strike as expected"
+date = "2007-01-12"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/12/strike-as-expected/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/12/strike-as-expected/).
+
 We had the dUradR^iShTi about the movements of the khANDavan vairi-s. We
 knew precisely how they were going to strike. So we waited patiently and
 as we knew that they had two prayogas against us and where the abhichAra
@@ -42,3 +46,4 @@ briefly but were able to hold fort. This was a classical dhumAvatI
 kR^ityA in every sense — the khANDavans were completely unaffected by it
 even when back hurled. Instead it kept hovering around us constantly
 making attempts to pierce our shield of skanda
+

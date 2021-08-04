@@ -1,7 +1,11 @@
 +++
 title = "The result"
+date = "2006-05-28"
+upstream_url = "https://manasataramgini.wordpress.com/2006/05/28/the-result/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/05/28/the-result/).
+
 kR^iShamukha and paraShumukha organized their attack at us with the deep
 hate and hope of overthrowing us for good– the mahochChATanaM. We were
 enveloped by the kR^ityA-s of dhUmAvatI that they had sent. Our senAnI
@@ -38,4 +42,4 @@ AtharvaNa.
 
 kR^iShamukha and paraShumukha were overthrown themselves and with that
 ended a major chapter, as the chapter of dvAdashAnta was ended.  
-****
+

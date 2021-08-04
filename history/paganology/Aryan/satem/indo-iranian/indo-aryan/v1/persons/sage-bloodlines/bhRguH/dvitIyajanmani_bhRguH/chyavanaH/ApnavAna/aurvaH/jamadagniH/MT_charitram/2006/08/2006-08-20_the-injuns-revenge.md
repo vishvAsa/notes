@@ -1,7 +1,11 @@
 +++
 title = "The Injun’s revenge"
+date = "2006-08-20"
+upstream_url = "https://manasataramgini.wordpress.com/2006/08/20/the-injuns-revenge/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/08/20/the-injuns-revenge/).
+
 After a long time we spoke and she had much to say. She had given up
 active science, had been on travels to far of places, then worked as a
 clerk in her ancestral confectionary business and finally settled as a
@@ -40,7 +44,7 @@ hear from her for ages.
 So, when Charlotte called we were a bit surprised.  
 She first asked: You did not ask the 3 questions, did you not?  
 Me: No I did not. I am in deep shit due to that.  
-C: Oh Heavens\! why was that so? Did you lose your mind? I never thought
+C: Oh Heavens! why was that so? Did you lose your mind? I never thought
 you would make that mistake. I at least thought R would prevent you from
 doing so.  
 Me: Nor did I. But R could not have done anything in this regard.  
@@ -73,3 +77,4 @@ receded like bhUtas \[in the circle of khaDagarAvaNa: the private
 statement\]. ST, I told had finally attained Ananda and all the unclosed
 links had snapped shut. “Nodes in the ordered scale-free graph” she
 remarked. Only 3 of us in this loka knew what that meant.
+

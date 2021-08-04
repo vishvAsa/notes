@@ -1,7 +1,11 @@
 +++
 title = "The conquest of Nagor"
+date = "2004-06-23"
+upstream_url = "https://manasataramgini.wordpress.com/2004/06/23/the-conquest-of-nagor/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/06/23/the-conquest-of-nagor/).
+
 Nagor had been occupied by the Mohammedans after Khalji’s dreaded acts
 and it passed into the hands of the Khans of Gujarat related to the
 Turkic Qara U’nas tribe \[To which the great Amirs of the Southern
@@ -63,3 +67,4 @@ Vira Vinoda as “unreliable” or “Hindus have no history”. Hindu kings
 were on occasions been severe on the invaders and this point shows that
 some regions were completely liberated only because they shelved their
 usual liberality and ruthlessly chastised the enemy.
+

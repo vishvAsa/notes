@@ -1,7 +1,11 @@
 +++
 title = "A Sanskrit history of the conquest of parNAla-parvata"
+date = "2006-05-19"
+upstream_url = "https://manasataramgini.wordpress.com/2006/05/19/a-sanskrit-history-of-the-conquest-of-parnala-parvata/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/05/19/a-sanskrit-history-of-the-conquest-of-parnala-parvata/).
+
 “Brahmins do not have it in them to fight” was a common refrain I had
 heard despite being brought up on the tales of the bhR^igu conquests of
 yore- r^ichIka, jamadagni, rAma, agni aurva and all of them. I had
@@ -50,3 +54,4 @@ opened the fort doors and Anaji Datto rushed in with the main army and
 attacked Baboo Khan the Islamic commander. In the intense fight that
 followed Baboo Khan was beheaded and a traitorous brahmin who helped him
 with accounts Nagoji Pandit was also killed. Thus Panhala was conquered.
+

@@ -1,7 +1,11 @@
 +++
 title = "The dispatch from the slopes of Mount Kearsarge"
+date = "2005-08-05"
+upstream_url = "https://manasataramgini.wordpress.com/2005/08/05/the-dispatch-from-the-slopes-of-mount-kearsarge/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/08/05/the-dispatch-from-the-slopes-of-mount-kearsarge/).
+
 We circumambulated the large lake at the base of Mount Kearsarge with
 mlechCha adventurer M. We were separated from the bandhas of samsAra at
 that point. We saw the old va\~nga chieftain at the end of it. The
@@ -16,7 +20,7 @@ fallen into this new trap from which we were not sure there was a way
 out. The va\~nga reminded us of it. He asked me the pathway that led to
 R. We illustrated it thus:
 
-K1–\>K2–\>S–\>R3–\>R1 (now known as R). R3 was from a clan of great
+K1–>K2–>S–>R3–>R1 (now known as R). R3 was from a clan of great
 brAhmaNas from gavalakuNDa, who had originally hailed from Nepal. In the
 lore of guhyakAli and the many authentic sections of the mahAkAla
 saMhita they were masters. They were masters of the vedA\~Nga jyotisha,
@@ -45,3 +49,4 @@ not common and having told me of the dangers in the path prophesied that
 trouble may be coming my way. The va\~nga confirmed it had come too soon
 and that the main warriors in my camp might even sense the empire’s
 cracks.
+

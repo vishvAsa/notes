@@ -21,6 +21,11 @@ title = "Spread"
   - Tablighi Jamaat gathering in Delhi spread the infection to many places.
 - MH consistent trouble spot.
 
+### Vaccine recognition
+#### EU 
+- AZ recognized but not COVISHIELD (objection to 20% modification).
+- Chinese Sinopharm and Sinovac recognized and not the COVAXIN from India
+
 ## World
 - 202105 - Joe Biden waives IPO on COVID vaccines. Germany resists. Rich countries continue to hoard vaccines.
 - 202104 - 2nd wave.

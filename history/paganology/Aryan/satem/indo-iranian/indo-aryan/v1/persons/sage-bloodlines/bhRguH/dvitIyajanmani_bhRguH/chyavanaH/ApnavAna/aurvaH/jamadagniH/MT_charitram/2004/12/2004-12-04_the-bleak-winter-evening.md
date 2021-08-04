@@ -1,18 +1,22 @@
 +++
 title = "The bleak winter evening"
+date = "2004-12-04"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/04/the-bleak-winter-evening/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/04/the-bleak-winter-evening/).
+
 I was standing alone in the railway station in the bleak winter air.
 There was not a single sound and the air hung eerily as though weighed
 down by the cold. Suddenly the air quivered with the fluttering of a
 pigeon’s wings as it made its roostward retreat and then there was
-silence again- the shakuna\! The sun sunk on the pashchima mayukha,
+silence again- the shakuna! The sun sunk on the pashchima mayukha,
 leaving behind the gloaming and the azure depths of dyaus turned inky
 dark. There was a sharp cry of the wind, reminiscent of the howl of The
 god (sa devaH). The shadows of the stones in the cemetery beyond grew
 rapidly even as the the last beams of the dusk retreated. They seemed to
 transform into the agents of the lord of the animals. “oM yo vai rudraH
-sa bhagavAn yashcha mR^ityus tasmai vai namo namaH” 
+sa bhagavAn yashcha mR^ityus tasmai vai namo namaH”
 
 The roar of a ratha broke my reverie. Hayastanika called out to me to
 board the ratha. The irony that surrounds every encounter with the
@@ -39,4 +43,5 @@ fiduciary games, we retreated to the basement.
 Hayastanika suggested that we ply the planchette. So we were at it
 shortly thereafter. I asked a particularly appropriate question. The
 coin seemed to stop after spelling out l-o-m. The left eyelid throbbed.
-I wonder what that means?
+I wonder what that means?  
+

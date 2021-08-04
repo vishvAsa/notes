@@ -1,7 +1,11 @@
 +++
 title = "The third vIra"
+date = "2007-03-10"
+upstream_url = "https://manasataramgini.wordpress.com/2007/03/10/the-third-vira/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/03/10/the-third-vira/).
+
 Whom shall vR^itrahan make the master of the realm?  
 Whom shall the wise asura of the skies favor?  
 Whom shall the bright Aditya be the friend of?  
@@ -42,3 +46,4 @@ Two days went by– “I see it” he said. It was there fearsome as a
 phantasmagorical vision in the pit where atri had fallen. He looked back
 the door was shut. A single dimension separated him from the great
 unknown.
+

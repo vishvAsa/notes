@@ -1,7 +1,11 @@
 +++
 title = "The secret of sumukhI"
+date = "2005-04-07"
+upstream_url = "https://manasataramgini.wordpress.com/2005/04/07/the-secret-of-sumukhi/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/04/07/the-secret-of-sumukhi/).
+
 The great deva sanatkumAra, the son of the fiery agni, is always in the
 company of his two wives: the glorious biDAlAkShi and the wonderous
 sumukhI. The one who knows this rahasya and performs the invocation of
@@ -38,3 +42,4 @@ bladed sword in her right hand. She is bedecked with red gems, red
 garments and is with smeared red unguents. All these increase the lustre
 of her body which emanates a red radiance. She is comfortably seated on
 a corpse with a severed head.
+

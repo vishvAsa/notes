@@ -1,7 +1,11 @@
 +++
 title = "The pain of the cell phones"
+date = "2005-03-25"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/25/the-pain-of-the-cell-phones/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/25/the-pain-of-the-cell-phones/).
+
 We saw the wonderous charms of Hayastanika fade behind the impenetrable
 veils. We conjured memories of eating the wonderous superhot mango
 pickle on a pleasant spring afternoon and talking of the “pancha-shara
@@ -23,3 +27,4 @@ years, had warned us that in the desh nobody really wanted peculiar
 devices of that type. pretabuddhI drAviDAchAryaputri had bought that
 c-c-p we had made. On account of her perverse bent she was unable use
 the phone. She wondered why such devices existed in the first place.
+

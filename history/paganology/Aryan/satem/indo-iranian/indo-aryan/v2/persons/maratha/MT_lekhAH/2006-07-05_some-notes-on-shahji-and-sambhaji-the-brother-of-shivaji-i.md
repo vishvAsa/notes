@@ -1,7 +1,11 @@
 +++
 title = "Some notes on Shahji and Sambhaji the brother of Shivaji-I"
+date = "2006-07-05"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/05/some-notes-on-shahji-and-sambhaji-the-brother-of-shivaji-i/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/05/some-notes-on-shahji-and-sambhaji-the-brother-of-shivaji-i/).
+
 In my childhood I was quite disappointed with our history books not
 providing any details what so ever, beyond even the merest mention,
 about the life and role of Sambhaji the brother of the founder of the
@@ -71,3 +75,4 @@ able Jihadi of the Adil Shah.
 
 [Go to part
 II](https://manasataramgini.wordpress.com/2006/07/06/some-notes-on-shahji-and-sambhaji-the-brother-of-shivaji-ii/)
+

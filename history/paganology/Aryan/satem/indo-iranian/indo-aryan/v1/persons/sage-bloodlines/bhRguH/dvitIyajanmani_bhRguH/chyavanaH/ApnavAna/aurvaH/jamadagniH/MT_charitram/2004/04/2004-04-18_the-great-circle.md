@@ -1,7 +1,11 @@
 +++
 title = "The Great Circle"
+date = "2004-04-18"
+upstream_url = "https://manasataramgini.wordpress.com/2004/04/18/the-great-circle/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/04/18/the-great-circle/).
+
 Berossus, the priest of Marduk of the great god of the Babylonians
 declared in the 3rd century BC that 432000 solar years was the time that
 had elapsed from the origin of divine kingship to the end of the world.
@@ -40,4 +44,5 @@ purely hexagismal (As seen in dIrghatamas hymn). Importantly the
 brAhmaNa mentions that the sacrificial platform for the great soma
 sacrifices (mahAyagnyas) has 10800 lokampR^iNa bricks surrounded by 360
 stones symbolizing this link between the solar year and the precessional
-year.
+year.  
+

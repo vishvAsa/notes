@@ -1,7 +1,11 @@
 +++
 title = "Kartik died mysteriously"
+date = "2005-11-28"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/28/kartik-died-mysteriously/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/28/kartik-died-mysteriously/).
+
 Kartik was a clever guy, who held a degree master’s degree in physics
 from a reputable university. He was considered cool by all his friends:
 he rode a flashy bike, he spoke with a crisp American accent despite his
@@ -63,11 +67,11 @@ That night his friend Kate asked Kartik to come over and stay at her
 place along with her room mate Jenny. They were watching TV when
 suddenly Kartik felt that his back was racked with spasms of pain. Kate
 was just then regaling them with a funny African words with clicks like
-\!hais (meaning a baboon’s ass) when Kartik saw a bird with a broken
-wing drag itself into the house through the window. Jenny wanted to try
-to save the bird and brought into the room and place in a corner with
-some grain and water. She then returned to the couch when inexplicably
-the toy of a monkey place on top of the TV moved with a rattling noise.
+!hais (meaning a baboon’s ass) when Kartik saw a bird with a broken wing
+drag itself into the house through the window. Jenny wanted to try to
+save the bird and brought into the room and place in a corner with some
+grain and water. She then returned to the couch when inexplicably the
+toy of a monkey place on top of the TV moved with a rattling noise.
 Kartik asked is it an earthquake when a beverage chalice from the shelf
 above his dropped on this head bounced of and broke to pieces. The girls
 were somewhat mystified by the strange movements but did not think much,
@@ -107,7 +111,6 @@ that his parents were people steeped in old beliefs and thought he was
 under ill-influences of planets. Coltilde mentioned that it almost
 looked as though he was under a witch’s spell.  
 \*\*\*  
-
 We shall now continue the narrative of the strange tale of Kartik.
 Kartik narrowly survived this existential crisis and was up again. He
 had started a new company with Clotilde and Jenny, and was off to a good
@@ -116,8 +119,9 @@ friends to have food and drink. On his way he saw Pradip, the ill-omened
 one. Kartik’s left eyelid throbbed. Kartik, Jenny and Clotilde had a
 whale of time. Kartik was driving back home and just dropped Jenny, when
 he suddenly saw and highly alluring girl walking on the foot path . He
-could not contain himself and stopped his car. He ran to her and she kept
+could contain himself and stopped his car. He ran to her and she kept
 running away. He followed her and finally after a long chase touched
 her. It was as though a shock had run through his body. Kartik
 instanteously fell to the ground. It was bitterly cold and he started
 freezing. An hour later he was dead.
+

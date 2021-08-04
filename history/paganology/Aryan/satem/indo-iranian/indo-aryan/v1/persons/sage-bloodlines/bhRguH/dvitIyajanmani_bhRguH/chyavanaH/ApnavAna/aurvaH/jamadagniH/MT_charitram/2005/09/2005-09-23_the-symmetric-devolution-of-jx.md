@@ -1,7 +1,11 @@
 +++
 title = "The symmetric devolution of Jx"
+date = "2005-09-23"
+upstream_url = "https://manasataramgini.wordpress.com/2005/09/23/the-symmetric-devolution-of-jx/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/09/23/the-symmetric-devolution-of-jx/).
+
 The chance for the kuriltai was unusually solidified by the bold
 Argentinian adventurer. At the said hour we met with Mn and the
 shachiva’s prime agent. Mn, was a pioneer and even bolder adventurer
@@ -28,3 +32,4 @@ mirror images of each other we realized how bad the situation was. We
 wondering of the ideal world: The tale of Herr Boras would have worked
 we thought. Just then were rudely jolted from our reverie by the deadly
 astra. We received the message: “deploy the dUradR^iShTi prayoga”.
+

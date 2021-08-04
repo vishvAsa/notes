@@ -1,7 +1,11 @@
 +++
 title = "Our nAga shApa"
+date = "2005-06-29"
+upstream_url = "https://manasataramgini.wordpress.com/2005/06/29/our-naga-shapa/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/06/29/our-naga-shapa/).
+
 It is said that when pANDus conquered khANDava from the nAgas they got
 the curse of the nAgas. For the sake of khANDava they lost most of their
 sons. In the next generation parIkShit lost his life due to the nAga and
@@ -23,3 +27,4 @@ had fallen out of the window and now a deadly grove of plants grew
 there. We were never so bereft of energy and were at our wits end. We
 had then spoken of kumbhakarNa and the missiles failing at him. It was
 now as though we were in a kArAgR^iha of rAvaNa.
+

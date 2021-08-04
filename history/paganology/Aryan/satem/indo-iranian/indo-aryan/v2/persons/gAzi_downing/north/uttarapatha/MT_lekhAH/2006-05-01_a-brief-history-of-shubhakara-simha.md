@@ -1,7 +1,11 @@
 +++
 title = "A brief history of shubhakara siMha"
+date = "2006-05-01"
+upstream_url = "https://manasataramgini.wordpress.com/2006/05/01/a-brief-history-of-shubhakara-simha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/05/01/a-brief-history-of-shubhakara-simha/).
+
 The mahA-chInAchArya, shubhakara siMha, a nAstIka of the second varNa,
 was a remarkable, even if forgotten, figure in history largely forgotten
 in his homeland India. He was a descendent of the ikShvAku chieftain
@@ -57,3 +61,4 @@ maNDala and apparently brought down rain to relieve the land. He then
 engaged in debates with AstIkas and other nAstIkas like the jainas and
 hInayAna bauddhas in different parts of jambudvIpa. He is said to have
 spread the bauddhamata with great fervor in his debating spree.
+

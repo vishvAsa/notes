@@ -1,7 +1,11 @@
 +++
 title = "umAsvati and Hindu zoology"
+date = "2004-05-17"
+upstream_url = "https://manasataramgini.wordpress.com/2004/05/17/umasvati-and-hindu-zoology/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/05/17/umasvati-and-hindu-zoology/).
+
 **umAsvati**, the great jaina Acharya produced a remarkable work termed
 the tattvArthAdhigama around 40 AD which contains one the great early
 productions of Hindu zoology. umAsvati believed that all animals could
@@ -33,9 +37,9 @@ pata\~nga=orthoptera (locusts and hoppers)
 **Group VI**  
 The vertebrates know as tiryagyonis  
 matsya=fishes  
-uraga/nakra,godha,kUrma=crocodiles,lizards and turtles  
+uraga/nakra, godha, kUrma=crocodiles, lizards and turtles  
 bhujanga=snakes  
-pakshi=fishes  
+pakshi=birds  
 jArayujAs=mammals
 
 This shows that the ancient Hindus had a working knowledge of animal
@@ -50,13 +54,14 @@ arthropods and “reptiles”. His entire text does not survive but
 fragments preserved by dalvana present a clear picture of his meticulous
 approach. lAdyAyana states :
 
-kaTubiH bindu lekhAbiH pakshaiH pAdaiH mukaiH nakaiH shUkaiH
-kaNTakalAngalaiH samshriShTaiH paksharomabhiH |  
-svanaiH pramANaiH saMsthAnaiH li\~ngaishvApi sharIragaiH viShavIryaishca
-kITAnAM rupagyAnaM vibhAvayate ||
+kaTubiH bindu lekhAbhiH pakshaiH pAdaiH mukaiH nakaiH shUkaiH
+kaNTaka-lAngalaiH samshriShTaiH paksha-romabhiH \|  
+svanaiH pramANaiH saMsthAnaiH li\~ngaishvApi sharIragaiH viSha-vIryaish
+cha kITAnAM rupagyAnaM vibhAvayate \|\|
 
 In order to obtain knowledge of the classification of arthropods one
 must carefully examine: 1) veins, spots and markings 2) wings, 3) legs,
 4) oral appendages 5) mandibles, 6) antennae, 7) claws and spines 8)
 abdominal stings 9) bristles on body and wings 10) sounds 11) structure
 of organs, 12) genitalia 13) toxins and their actions.
+

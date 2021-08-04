@@ -1,22 +1,26 @@
 +++
 title = "Ramblings"
+date = "2005-09-04"
+upstream_url = "https://manasataramgini.wordpress.com/2005/09/04/ramblings/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/09/04/ramblings/).
+
 Today I was at the Philadelphia museum- a few childhood dreams of mine
 were finally fulfilled. I got an opportunity to examine the following
 skulls and skeletons at some length:
 
 1\) The skull Eoraptor  
-2\) The skull of Hererrasaurus  
+2) The skull of Hererrasaurus  
 both of which are amongst the earliest theropods.  
 The skeletons of  
-3\) Dromeosaurus and  
-4\) Saurornithoides,  
+3) Dromeosaurus and  
+4) Saurornithoides,  
 two deinonychosaurs close to the origins of birds  
-5\) The second skeleton of Tyrannosaurus rex (this specimen has a better
+5) The second skeleton of Tyrannosaurus rex (this specimen has a better
 preserved fore limb that allowed me study carpal and ungual
 morphology)  
-6\) The skull of the abelisaur Majungatholus atopus from the Cretaceous
+6) The skull of the abelisaur Majungatholus atopus from the Cretaceous
 beds of Madagascar. I was able to understand the cranial ornamentations
 for the first time at length. There is no substitute to seeing a real
 skeleton.
@@ -45,23 +49,23 @@ Neoventor-carcharodontosaur lineage than the allosaurs.
 
 Moving on to other dinosaurs, I got to examine two ceratopsians I had
 not previously studied in “person”:  
-9\) Chasmosaurus typified by a gigantic shield  
-10\) Avaceratops, a smaller form more primitive than the above form,  
+9) Chasmosaurus typified by a gigantic shield  
+10) Avaceratops, a smaller form more primitive than the above form,  
 but far more derived than the primitive Protoceratops. Comparing it  
 with the basal Leptoceratops, Protoceratops, and the derived  
 Triceratops I could get a good feel for the evolutionary developments  
 in Ceratopsia.  
-11\) I also got to examine a delightful skeleton of Pachycephalosaurus  
+11) I also got to examine a delightful skeleton of Pachycephalosaurus  
 and understand the architecture of the dome and facial spikes.  
 Moving to hadrosaurs  
-12\) Corythosaurus was examined a length and observations made on its
+12) Corythosaurus was examined a length and observations made on its
 gait and posture. The most striking were the ossified tendons supporting
 the entire caudal vertebra series.  
-13\) The skull of Lambeosaurus was examined and the two crests studied
+13) The skull of Lambeosaurus was examined and the two crests studied
 (See attached photo).  
-14\) The limbs of Hadrosaurus.  
-15\) The limbs of the Sauropod Diplodocus  
-16\) The fore limb of Supersaurus another gigantic diplodocid sauropod.
+14) The limbs of Hadrosaurus.  
+15) The limbs of the Sauropod Diplodocus  
+16) The fore limb of Supersaurus another gigantic diplodocid sauropod.
 
 These give a sense of size of Supersaurus (mind boggling) and the single
 non-hoof claw of the sauropods, which was clearly used in defense
@@ -73,7 +77,7 @@ showing the tremendous force they might have applied to get the teeth
 in.
 
 Then moving to non-dinosaurian reptiles  
-18\) There was a good skeleton of the plesiosaur Elasmosaurus that I got
+18) There was a good skeleton of the plesiosaur Elasmosaurus that I got
 to see for the first time
 
 There were also a few other fossils collected by the early American
@@ -92,3 +96,4 @@ need no further elaboration. I was reminded of the great German
 Alexander von Humboldt, who described who on occasion he had make do
 with the company of brutish Spanish padres who could hardly understand
 his scientific explorations.
+

@@ -1,7 +1,11 @@
 +++
 title = "The journey to Kashi"
+date = "2005-03-10"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/10/the-journey-to-kashi/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/10/the-journey-to-kashi/).
+
 Since the Atman, which merely watches, is poised to cast away its
 sharIra and the old corpses shall lie on the path of no return, as
 though marked by the dance of sharva, we shall narrate those old events
@@ -42,3 +46,4 @@ There under the sky dome we saw the stars and I picked the thousands of
 stars of omega Centauri with my occular. We feasted on ST’s cullinary
 endeavors. Many years later, lacking food, we transcended hunger to see
 the same sights on the great lake of mlechChapura.
+

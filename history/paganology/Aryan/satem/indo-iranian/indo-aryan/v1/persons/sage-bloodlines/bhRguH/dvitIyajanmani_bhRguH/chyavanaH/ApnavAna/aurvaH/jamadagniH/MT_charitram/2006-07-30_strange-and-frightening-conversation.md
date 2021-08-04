@@ -1,7 +1,11 @@
 +++
 title = "Strange and frightening conversation"
+date = "2006-07-30"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/30/strange-and-frightening-conversation/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/30/strange-and-frightening-conversation/).
+
 I received a call and we set off for the evening. The women-folk wanted
 to make their stock of powders and pickles for the quarter and had spent
 the day collecting their ingredients. As we converged at the
@@ -42,7 +46,7 @@ this point Sharada made a very strange comment: “I have been interested
 in this disease even while I was an intern. Your(R’s) father told me
 something that I did not believe at all. He said that victims of a
 particularly severe dhUmavatI mAraNa attack showed symptoms similar to
-encephalitis lethargica, and long before Sacks the tantrics knew that
+encephalitis lethargica, and long befored Sacks the tantrics knew that
 there was one counter that could help- Atmagupta. He could not at that
 point show me any patients. However, several years later when he was
 visiting bhArata, (X) showed both of us a patient who was in a condition
@@ -79,3 +83,4 @@ event that killed the young senAnI’s relative. R was shaken to hear all
 this and the excitement of the evening dampened to silence for some
 reason. Only Sharada seemed to be excited about it and continued
 conversing with me.
+

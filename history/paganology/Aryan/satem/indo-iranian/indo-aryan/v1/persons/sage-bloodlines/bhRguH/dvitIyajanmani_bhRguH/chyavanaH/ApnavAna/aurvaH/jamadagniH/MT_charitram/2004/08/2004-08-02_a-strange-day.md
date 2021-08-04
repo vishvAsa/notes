@@ -1,7 +1,11 @@
 +++
 title = "A strange day"
+date = "2004-08-02"
+upstream_url = "https://manasataramgini.wordpress.com/2004/08/02/a-strange-day/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/08/02/a-strange-day/).
+
 It had been pouring heavily. Normally on such a day I would have not
 liked to step out of the warmth of the house and drive through the slush
 and the dampness of the Hindustani monsoon. But that was a strange day.
@@ -38,3 +42,4 @@ pashupati is all around you.
 
 Both those days were strange days because I also saw what it meant to
 come close to vaivasvata.
+

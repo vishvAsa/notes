@@ -1,11 +1,15 @@
 +++
 title = "Uncertainity remains"
+date = "2004-12-06"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/06/uncertainity-remains/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/06/uncertainity-remains/).
+
 Seeing that our foes had not fired the expected salvos, we were growing
 curious like the legendary cat. There was a heated discussion amongst
 our staff whether to counter-attack or lie and wait. While we had gained
-an advantage on front \#3, a counter-attack could prove costly, as our
+an advantage on front #3, a counter-attack could prove costly, as our
 resources had run out. Towards night I could not bear the wait and
 ordered a cautious counter-attack. The hostile forces behaved unusually.
 At first they put up a strong fight and then retreated into inaccessible
@@ -15,3 +19,4 @@ have a plan to strike us unexpectedly. Today again we sent a
 reconnaisance force to probe their actions. They retreated quickly after
 a brief encounter. We have now decided to wait and watch though we are
 not certain of their ploys in battle.
+

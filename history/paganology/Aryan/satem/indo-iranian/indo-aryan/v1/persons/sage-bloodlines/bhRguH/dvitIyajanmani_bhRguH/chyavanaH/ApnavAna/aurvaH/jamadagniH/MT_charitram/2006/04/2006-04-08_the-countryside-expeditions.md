@@ -1,7 +1,11 @@
 +++
 title = "The countryside expeditions"
+date = "2006-04-08"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/08/the-countryside-expeditions/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/08/the-countryside-expeditions/).
+
 The best remembered of our expeditions were those to the city of
 bhairava, the fort of tridents and the long-winded peregrinations
 through the Maharatta countryside.In the halcyon days Mis-creant,
@@ -80,4 +84,5 @@ boulder. But here next to padubAI was another orange boulder, which was
 said to be tigeress-faced goddess vaghobA-bAI. Between them was a
 smaller rock which was said to be bhairobA. We saw yet another shrine of
 padubAI and other deities. This opened our eyes to padubAI and other
-local deities that we shall detail in a subsequent work.
+local deities that we shall detail in a subsequent work.  
+

@@ -1,7 +1,11 @@
 +++
 title = "The path of the yakShini"
+date = "2005-07-25"
+upstream_url = "https://manasataramgini.wordpress.com/2005/07/25/the-path-of-the-yakshini/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/07/25/the-path-of-the-yakshini/).
+
 We flew up again with the yakShini. There we stood in the mid-welkin and
 bewitching yakShini whispered in my ear:  
 “We need to talk about about a profound question”.  
@@ -31,3 +35,4 @@ Y: See these centric diatoms- they are oogamous- anisogamous to the
 extreme. How do you think this evolved.
 
 Y: Do you think we know the answer to this issue? Think on oh mAnava.
+

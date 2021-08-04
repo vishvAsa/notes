@@ -1,7 +1,11 @@
 +++
 title = "The inversion"
+date = "2005-02-25"
+upstream_url = "https://manasataramgini.wordpress.com/2005/02/25/the-inversion/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/02/25/the-inversion/).
+
 Jx had procured himself a cell phone. After some time somAkhya had also
 purchased a cell phone. Jx had all kinds of problems with his phone.
 Everyone who would look at Jx’s phone would say: “Wow that is a great
@@ -19,3 +23,4 @@ There were two parrots on the tree named indradatta and viShNudatta. One
 recited a chant: ” The great indra always likes to write plays with
 ironic inversion ” The other recited: “indra’s sports are not understood
 by the mortals until they have enacted the whole play”.
+

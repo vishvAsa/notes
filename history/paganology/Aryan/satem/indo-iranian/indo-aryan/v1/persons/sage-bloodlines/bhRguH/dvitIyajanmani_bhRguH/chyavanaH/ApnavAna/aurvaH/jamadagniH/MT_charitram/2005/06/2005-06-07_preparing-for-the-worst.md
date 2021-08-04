@@ -1,7 +1,11 @@
 +++
 title = "Preparing for the worst"
+date = "2005-06-07"
+upstream_url = "https://manasataramgini.wordpress.com/2005/06/07/preparing-for-the-worst/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/06/07/preparing-for-the-worst/).
+
 As we remarked earlier we were taking the last step before the
 kAlaChidra. We have taken it and now hang like trisha\~Nku in the median
 of descent.
@@ -27,3 +31,4 @@ always beside us in happy times had deserted us. We felt like Das and
 Dasgupta made to open on a Perth green top early on a dewy morning. We
 told ourself not to fear death and be prepared to face up for the worst
 of battles.
+

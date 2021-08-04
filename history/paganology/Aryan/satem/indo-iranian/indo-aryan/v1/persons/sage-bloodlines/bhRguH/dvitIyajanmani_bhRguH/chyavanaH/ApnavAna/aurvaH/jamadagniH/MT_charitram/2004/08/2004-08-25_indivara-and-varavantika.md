@@ -1,7 +1,11 @@
 +++
 title = "indivara and vAravantikA"
+date = "2004-08-25"
+upstream_url = "https://manasataramgini.wordpress.com/2004/08/25/indivara-and-varavantika/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/08/25/indivara-and-varavantika/).
+
 **“Those who want to know the real story will know it.”**
 
 Beyond the world of the Falcon, stationed in eternal time, were the
@@ -89,4 +93,5 @@ arrived and kaumbhya, gara, gAndama, gojihva, ukShamukha, babluja\~Ngha,
 kapotagrIva, ajadADhika and bIDAlasmashru followed her thickly trying to
 get a glimpse or a word of attention from her. She fooled them by saying
 that she would shortly join them with a bladder of kautsasya surA and
-slipped into the nearby room.
+slipped into the nearby room.  
+

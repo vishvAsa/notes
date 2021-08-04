@@ -1,7 +1,11 @@
 +++
 title = "Pyrotechnics in the gloom"
+date = "2005-01-06"
+upstream_url = "https://manasataramgini.wordpress.com/2005/01/06/pyrotechnics-in-the-gloom/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/01/06/pyrotechnics-in-the-gloom/).
+
 The day was enveloped in a forbidding gloom, and the air reeked with
 monsoonal decay, even as the Hindu civilization in its downward slide.
 The studious youth busied themselves with the most mundane of chemical
@@ -51,4 +55,4 @@ insight of brahman that allowed one to see the atman for the first.
 
 We stood at the fork again. We looked behind, the dead sharIra-s shed of
 the past littered the path. Which path shall we take O pUShan?  
-****
+

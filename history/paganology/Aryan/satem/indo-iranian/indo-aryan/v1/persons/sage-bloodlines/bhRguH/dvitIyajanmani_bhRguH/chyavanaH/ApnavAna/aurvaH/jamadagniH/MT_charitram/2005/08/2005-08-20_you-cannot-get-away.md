@@ -1,7 +1,11 @@
 +++
 title = "You cannot get away"
+date = "2005-08-20"
+upstream_url = "https://manasataramgini.wordpress.com/2005/08/20/you-cannot-get-away/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/08/20/you-cannot-get-away/).
+
 GK had been a rival of R. R had genuine knowledge, but GK merely
 absorbed everything she read without much analysis or understanding.
 Otherwise they were quite equally matched. GK oozed arrogance, but R
@@ -46,3 +50,4 @@ and said: ” Just wait and watch. This spell shall demolish that long
 standing foe of ours. Here shall issue the charm named ‘the
 undefinable’. dhumAvatI has favored us since childhood as our close
 friend and no one escapes this duck messenger of the deity”.
+

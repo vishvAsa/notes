@@ -1,7 +1,11 @@
 +++
 title = "A knot of loosers"
+date = "2004-08-27"
+upstream_url = "https://manasataramgini.wordpress.com/2004/08/27/a-knot-of-loosers/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/08/27/a-knot-of-loosers/).
+
 In the two years of college I was a magnet for a knot of colorful
 losers, such Blackie, Vidrum, Dom and Damru.  
   
@@ -75,3 +79,4 @@ success you may see the lysine finger. But you reel in thirst before
 that”  
   
 The day has come.
+

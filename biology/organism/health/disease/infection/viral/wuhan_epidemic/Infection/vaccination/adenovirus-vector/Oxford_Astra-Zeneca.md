@@ -11,8 +11,14 @@ title = "Oxford Astra-Zeneca"
 - if you have antibodies to the vector that they use, Chimpanzee Adenovirus results in neutralizing the vaccine efficacy. Such antibodies may develop after the first dose as well, nullifying the second dose. (Chinese had tried similar trials and had demonstrated 52% of their participants had antibodies to Adenovirus which is a naturally occurring viral infection.)
 
 ### B 1.617
-- After 1 dose        32.9%
-- After  2 doses     59.8%  effectiveness.
+#### Hospitalization
+According to Public Health England after both doses:
+
+- AstraZeneca is 92% effective against hospitalization
+
+#### Symptomatic covid
+- 1 dose - 33% efficacy
+- 2 doses - 60% efficacy
 
 ### Init strain
 - Indian population, init strain: Efficacy with single dose 52%. Second dose close to 12 weeks 78.79%

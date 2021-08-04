@@ -1,11 +1,15 @@
 +++
 title = "The last journey"
+date = "2005-10-24"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/24/the-last-journey/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/24/the-last-journey/).
+
 [](http://www.intratext.com/IXT/SAN0010/LM.HTM)Having completed his
 existence as he has passed into the lists of pitR^is, joining the line
 of AN^girasas and ikShvAkus of yore (Ardra kR^iShNa ShaShTi; Ashvina
-mAsa; ****kali yuga 5106).
+mAsa; kali yuga 5106).
 
 imaM yama prastaramA hi sIdAN^girobhiH pitRbhiHsaMvidAnaH /  
 A tvA mantrAH kavishastA vahantvenA rAjanhaviShA mAdayasva //
@@ -13,7 +17,7 @@ A tvA mantrAH kavishastA vahantvenA rAjanhaviShA mAdayasva //
 Come, sit on this bed of grass, O yama, along with the AN^girasas, the
 fathers.  
 let the mantras recited by the kavis bring you O king yama, let this
-oblation make you happy.**
+oblation make you happy.
 
 aN^girobhirA gahi yajñiyebhir yama vairUpair iha mAdayasva /  
 vivasvantaM huve yaH pitA te.asmin yajñe barhiShyAniSadya //
@@ -34,7 +38,7 @@ many hero sons.
 vAtam AtmA dyAM cha gachCha pRthivIM cha dharmaNA /  
 apo vA gachCha yadi tatra te hitam oShadhIShu prati tiShThA sharIraiH //
 
-**The sun receives your eye, vAta your breath; go, as per your dharma
+The sun receives your eye, vAta your breath; go, as per your dharma
 proceed to earth or the skies.  
 Go, if its thus destined, to the waters; go, be stationed in the plants
 with the elements of your body.
@@ -43,4 +47,5 @@ Proceed on the path as manu did, as ikShvAku did, purukutsa did and the
 great bowman and hero trasadasyu did. May the fierce yama, who is
 stalking with fierce nooses, ensnaring all, let that line of trasadasyu
 to continue.  
-**[](http://www.intratext.com/IXT/SAN0010/SWU.HTM)**[](http://www.intratext.com/IXT/SAN0010/GOG.HTM)**
+[](http://www.intratext.com/IXT/SAN0010/SWU.HTM)[](http://www.intratext.com/IXT/SAN0010/GOG.HTM)
+

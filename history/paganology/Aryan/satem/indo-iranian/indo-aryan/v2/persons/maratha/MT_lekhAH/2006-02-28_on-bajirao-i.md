@@ -1,7 +1,11 @@
 +++
 title = "On Bajirao-I"
+date = "2006-02-28"
+upstream_url = "https://manasataramgini.wordpress.com/2006/02/28/on-bajirao-i/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/02/28/on-bajirao-i/).
+
 The muni and me stood on the elevated wall of the plinth of the shanivAr
 palace (Shaniwar palace) on a blazing Indian afternoon about an year
 ago. That was all that was left of the palace built by the famed Peshwa,
@@ -58,17 +62,13 @@ campaigns. After her association with Bajirao she undoubtedly adopted a
 pure Hindu way of life as far as we can see. Being adept at music she is
 supposed to have given music performances annually during the
 festivities of the autumnal chaturti of vinAyaka which was observed by
-the Peshvas. 
-
-I went to that temple of the frightful vinAyaka, still very
+the Peshvas. I went to that temple of the frightful vinAyaka, still very
 much in use albeit shorn of its historic glory. However, there are some
 wierd facts: He named his son through her Shamsher Bahadur- hardly a
 name one would give in an orthodox brahmin household like his. Bajirao’s
 fascination with this woman led him to things that made him patanIya- he
 began eating meat and swilling beer with her and occasionally even took
-the puff. 
-
-The thread ceremony of his second son and marriage of his
+the puff. The thread ceremony of his second son and marriage of his
 nephew was being arranged and a new temple of rudra was built for this
 purpose. A priest who had learned under bhAskararAya makhin consecrated
 the li\~Nga there in. But the brahmins wondered how the fallen brahmin
@@ -87,9 +87,7 @@ He drank heavily, and asked his brother Chimnaji to release her and
 return her to him. He immediately sent a letter to Bajirao’s eldest son,
 to do so, and feared how to handle the social issues of the great
 warrior. But things got delayed over a month and he developed a severe
-fever and died in a couple of days. 
-
-Mastani commited suicide shortly
+fever and died in a couple of days. Mastani commited suicide shortly
 there after and as there was no brahmin ready to perform her last rites,
 she was quitely buried near Pune with a tomb stone to mark the spot.
 
@@ -105,3 +103,4 @@ built by the yAdava ruler rAmadeva before the Mohammedan cataclysm. The
 viShNu idol in it went missing and the shrine slightly damaged,
 evidently due to the Islamic fervor. Bajirao restored it but installed a
 3 headed gaNapati in the sanctum.
+

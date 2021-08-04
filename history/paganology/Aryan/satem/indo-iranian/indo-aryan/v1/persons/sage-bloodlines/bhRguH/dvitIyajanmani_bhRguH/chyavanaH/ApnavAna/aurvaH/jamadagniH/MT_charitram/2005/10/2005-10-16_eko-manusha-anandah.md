@@ -1,7 +1,11 @@
 +++
 title = "eko mAnusha AnandaH"
+date = "2005-10-16"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/16/eko-manusha-anandah/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/16/eko-manusha-anandah/).
+
 With almost an year passing since the Great Fall we reflect upon him who
 acquired “eko mAnuSha AnandaH” that is alluded to in the texts. He lived
 once upon a time beside the swamp with snakes and crocodilians in it. He
@@ -41,3 +45,4 @@ that he had reached.”
 
 It was just under an year before the Great Fall. Will it be the Permian
 extinction of existence?
+

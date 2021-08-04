@@ -1,7 +1,11 @@
 +++
 title = "The aspirants"
+date = "2006-06-12"
+upstream_url = "https://manasataramgini.wordpress.com/2006/06/12/the-aspirants/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/06/12/the-aspirants/).
+
 RM had a charismatic appearance and could present a himself as an
 intellectual. He was not a svayaM prakAsha but picked up knowledge from
 different generally reticent sources and presented to his circle of
@@ -38,3 +42,4 @@ the data we wanted and bade them good bye to eat their abhojya food. We
 promptly reported this to R, who said: “Wait till the mouse comes to the
 trap, and let not the cat go after the mouse”. The lock and key had
 fitted.
+

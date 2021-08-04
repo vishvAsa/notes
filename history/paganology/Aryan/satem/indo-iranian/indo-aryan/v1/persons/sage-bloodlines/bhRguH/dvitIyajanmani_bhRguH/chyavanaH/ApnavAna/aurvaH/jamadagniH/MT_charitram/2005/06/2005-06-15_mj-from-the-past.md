@@ -1,7 +1,11 @@
 +++
 title = "MJ from the past"
+date = "2005-06-15"
+upstream_url = "https://manasataramgini.wordpress.com/2005/06/15/mj-from-the-past/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/06/15/mj-from-the-past/).
+
 shachIva and amAtya met old and witch-like MJ. MJ was a great adversary
 of ours, but respected our battle skills greatly. She remembered how we
 destroyed the stuff she hurled at us, despite certain nighmarish weapons
@@ -11,3 +15,4 @@ deployed the vaiShNava weapons. However, the kR^ityA was not countered
 by that and brushing it aside charged on. We temporarily neutralized the
 kR^ityA’s effects due to indra’s aid. Now we shall wait and see what
 happens next.
+

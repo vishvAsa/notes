@@ -1,7 +1,11 @@
 +++
 title = "Game Levels"
+date = "2005-02-23"
+upstream_url = "https://manasataramgini.wordpress.com/2005/02/23/game-levels/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/02/23/game-levels/).
+
 There were the two players of Tetris who were known as Wump and Tump.
 They Wump and Tump were good each playing at their respective level. But
 obviously one was better than the other. My strI finally gave me a hint
@@ -21,3 +25,4 @@ whether I graduate or not. Remember Wump was happy with scoring hundreds
 at his favorite level. What will happen to us next? I am thinking thus
 when the two nityashrIs tell me: You will only grasp everything when you
 narrate the story of the purchase and sales of the two cell phones.
+

@@ -13,10 +13,6 @@ title = "Antibody administration"
 - combination of Casirivimab and imdevimab in India.
 - It is recommended only in mild to moderate cases, it has to be administered within 48-72 hours to any newly infected patient according to the manufacturers. given to those patients who hadn't formed the antibodies.
 
-### Tociluzumab
-In a short window when Oxygen dependency setting with Cytokine release 
-
-
 ### Bamlanivimab
 #### Efficacy vs B 1.617.2
 - Serum from those infected upto 12 months post symptoms and serum from Pfizer vaccines showed 3 to 6 fold reduced potency against this mutant.This comparison of 3 to 6 fold is in reference with B 117 aka the variant from the UK.

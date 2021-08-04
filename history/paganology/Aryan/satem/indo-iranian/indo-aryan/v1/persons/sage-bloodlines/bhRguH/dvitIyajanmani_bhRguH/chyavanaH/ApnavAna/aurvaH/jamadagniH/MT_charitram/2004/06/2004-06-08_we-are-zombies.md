@@ -1,7 +1,11 @@
 +++
 title = "We are zombies?"
+date = "2004-06-08"
+upstream_url = "https://manasataramgini.wordpress.com/2004/06/08/we-are-zombies/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/06/08/we-are-zombies/).
+
 Marc, R and I had a strange philosophical discussion this week end, when
 perhaps we could have spent time in more practical but rewarding things.
 
@@ -32,7 +36,7 @@ the signal is compared with some internal RGB or CMYK color grid and
 recorded as a color. Some such sequence of steps are involved in color
 reception and recognition. We are certainly interested in knowing all
 about the every protein involved in this process and this is the biology
-if signal recognition. Dan Dennett claims that *this is* consciousness\!
+if signal recognition. Dan Dennett claims that *this is* consciousness!
 We admit that this is not really consciousness, this a functional
 description of signal reception and recognition process; it is the first
 person experience of saffron that constitutes consciousness.
@@ -62,3 +66,4 @@ in a theory that cannot be explained on the basis of pre-existing axioms
 like mass-energy, charge or spin. At that point we realized we were
 reliving the discussions of the great sAmkhyan seers of yore. Many
 thoughts were flowing and we all felt the need to meditate upon them.
+

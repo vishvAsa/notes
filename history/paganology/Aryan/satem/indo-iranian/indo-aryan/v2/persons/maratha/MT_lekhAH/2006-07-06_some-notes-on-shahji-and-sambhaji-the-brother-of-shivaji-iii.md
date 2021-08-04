@@ -1,7 +1,11 @@
 +++
 title = "Some notes on Shahji and Sambhaji the brother of Shivaji-III"
+date = "2006-07-06"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/06/some-notes-on-shahji-and-sambhaji-the-brother-of-shivaji-iii/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/06/some-notes-on-shahji-and-sambhaji-the-brother-of-shivaji-iii/).
+
 Mustafa Khan’s invasions  
 Shah Jahan called on Adil Shah and Qutb Shah to destroy the Hindus of
 the South and bring the whole of Hind under Islam. First, Mustafa Khan
@@ -68,3 +72,4 @@ continued the siege and finally killed Rupa Nayaka and captured Gingi.
 
 [Go to
 part-IV](https://manasataramgini.wordpress.com/2006/07/07/some-notes-on-shahji-and-sambhaji-the-brother-of-shivaji-iv/)
+

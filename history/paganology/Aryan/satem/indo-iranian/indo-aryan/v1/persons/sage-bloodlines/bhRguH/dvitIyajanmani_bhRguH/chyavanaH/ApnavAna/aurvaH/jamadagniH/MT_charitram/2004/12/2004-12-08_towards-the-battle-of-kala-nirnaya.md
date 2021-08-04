@@ -1,7 +1,11 @@
 +++
 title = "Towards the battle of kAla-nirNaya"
+date = "2004-12-08"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/08/towards-the-battle-of-kala-nirnaya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/08/towards-the-battle-of-kala-nirnaya/).
+
 Our spies provided us with speculative intelligence that the hostile
 forces may be preparing a trap for us. However, we were not able to
 confirm it based on other reports. The princess of Hayastan, with calves
@@ -16,7 +20,7 @@ told she was not the first or even the second who had wished secretly or
 even openly that R plunge into shit, very literally, like the
 dharmashAstras pronounce for certain unfortunate souls.
 
-\#Flashback\#
+#Flashback#
 
 She then seemed to console me over my current state. Our primary allies
 asked to hold a major sabha. Several suggestions flew, though none
@@ -38,10 +42,11 @@ broken bottle, and near him my accquaintence the trustworthy kAyastha
 from lakShmaNapura. Both were now omens. I realized that there was a
 glimmer of hope. Both smiled and put on airs of friendship- one false
 and the other real. But they also reminded me of the mistakes that had
-weakened me on front \#2.
+weakened me on front #2.
 
 The hostile force suddenly made a peculiar move- They rapidly projected
-a wedge of troops on front \#1. The picket was too small to really
+a wedge of troops on front #1. The picket was too small to really
 compete against our firepower. We decided not respond and remained
 firmly behind fort walls. But we saw certain signs, a decisive encouter
-is on the cards. Our ever-optimistic amAtya agreed.
+is on the cards. Our ever-optimistic amAtya agreed.  
+

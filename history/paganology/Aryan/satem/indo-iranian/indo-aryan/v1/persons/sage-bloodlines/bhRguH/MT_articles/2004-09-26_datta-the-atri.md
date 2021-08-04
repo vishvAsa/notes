@@ -1,7 +1,11 @@
 +++
 title = "datta, the atri"
+date = "2004-09-26"
+upstream_url = "https://manasataramgini.wordpress.com/2004/09/26/datta-the-atri/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/09/26/datta-the-atri/).
+
 datta, the atri, was endowed with lasting youthfulness and was the
 embodiment of all the 3 guNas. In his early life was a great warrior and
 was the prime minister and priest of haihaya emperor, kArtavIrya arjuna.
@@ -28,4 +32,5 @@ his companion and wandered around with her in carefree indulgence,
 bearing a trident and a bow and guarded by 4 dogs. The were continually
 lost in dalliance, loud laughter, merriment and imbibition of vAruNi
 beer, when rAmo bhArgava chanced upon them. In this state the atri
-enlightened him on the tantric lores.
+enlightened him on the tantric lores.  
+

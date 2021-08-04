@@ -1,7 +1,11 @@
 +++
 title = "Hayastanika, sAMkhya, Plato etc."
+date = "2005-09-26"
+upstream_url = "https://manasataramgini.wordpress.com/2005/09/26/hayastanika-samkhya-plato-etc/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/09/26/hayastanika-samkhya-plato-etc/).
+
 Hayastanika is known as sarvapriyA and mahAsurApipAnA. Thus, we mused
 over the turn of the chakra known as the saMvatsara. The wheel turned
 and sharadaH had come resulting in the dismal air that hangs over us. We
@@ -68,6 +72,7 @@ sAMkhya thought, especially in connection to the tanmAtra and syllable
 emanations.
 
 Hence it is clear that the Greek and Hindu were connected with a
-“tantric element” right from the beginning. What was this precursor,
-and where did it come from? I believe this is one of the most important
+“tantric element” right from the beginning. What was this precursor, and
+where did it come from? I believe this is one of the most important
 questions in comparative philosophy.
+

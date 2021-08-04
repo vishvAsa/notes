@@ -1,7 +1,11 @@
 +++
 title = "Flashback"
+date = "2004-12-08"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/08/flashback/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/08/flashback/).
+
 In the year of dvAdashAnta, MP found every neuron in his brain captured
 by R. I believe every waking and perhaps non-waking hour of the day he
 was only occupied by R. In the company of other males he spoke only of R
@@ -10,10 +14,10 @@ reckoning, our duhitaram kalashaja non-chalantly asked MP whether some
 eight-carbon ring with alternating double bonds will be an acid or a
 base. MP looked clueless and puzzled. R then asked him if some polyene
 would be planar or not. . Leave alone planarity, MP did not even know
-that such compounds could exist. \#Flashback: The remarkable battle
+that such compounds could exist. #Flashback: The remarkable battle
 between R and the prodigious one was much more evenly match than this.
 All three of us who have routed the pretty sugar cake take great
-pleasure these gavishTis sometimes. \# MP never received much audience
+pleasure these gavishTis sometimes. # MP never received much audience
 there after. The pendulum swung a 180 degrees. MP soon acquired our
 secret Neel-bumb technology.
 
@@ -34,3 +38,4 @@ So before Hayastanika many had grimmer plans for R. But this was not
 all. We shall next narrate the story of the exam practice dramas (a
 strangely exciting time in my life) or the blade on the desk drama or
 the drama of Igul’s glasses.
+

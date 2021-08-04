@@ -37,9 +37,9 @@ title = "Effects"
 
 
 ## Long term effects
-- 47k hospitalized patients NHS UK data - 10% ICU-ed. 90% discharged. Within few months of discharge, 1/3 readmitted, 1/8 die.
+- 47k hospitalized patients NHS UK data - 10% ICU-ed. 90% discharged. Within few months of discharge, 1/3 readmitted, 1/8 die.-
 - Higher heart, liver, kidney diesase.
-- 7-8% of children and young adults developing long term symptoms according to IK data. Tiredness, inability to concentrate.
+- 7-8% of children and young adults developing long term symptoms according to UK data. Tiredness, inability to concentrate.
 
 ### Heart
 - Several cases are getting reported of young adults sent home after 7 days with a negative result, develop sudden symptoms and die. Suspected cause: The small blood vessels of the heart had intense inflammation an entity known as MIS(Multi System Inflammatory Syndrome),see the photograph taken attached below. [FB](https://www.facebook.com/drpraveenks/posts/10158729975141385) Exercise should be avoided for some time.
@@ -64,6 +64,10 @@ title = "Effects"
 
 ### Eye
 - Sudden vision loss due to occlusion of blood vessels supplying the eye increasingly recognized these days. Doctors advise retina scan post recovery.
+
+### Cognition
+- The pre-print study from Macaque monkeys infected with the virus forming what are called Lewy bodies which are nothing but abnormal protein deposits in the brain. These deposits are linked with development of neurodegenerative conditions like Parkinson's disease and dementia.
+
 
 ### Other effects
 - Multi-system inflammatory syndrome in children (MIS-C)

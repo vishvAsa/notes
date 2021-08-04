@@ -1,7 +1,11 @@
 +++
 title = "jIvamUlIya pa~ncha-koNaM cha shulbArIya halaM"
+date = "2006-08-12"
+upstream_url = "https://manasataramgini.wordpress.com/2006/08/12/jivamuliya-pancha-konam-cha-shulbariya-halam/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/08/12/jivamuliya-pancha-konam-cha-shulbariya-halam/).
+
 We were ruing the crushing defeat on the field code-named jIvamUlIya
 pa\~ncha-koNaM cha shulbArIya halaM by the five mlechCha attackers. We
 felt like Shivaji after the great fort of Purandar was taken by the
@@ -46,8 +50,9 @@ Just then we saw the mlechCha, viTmukha, come into our range. We killed
 him outright like rAma killing vAlI. Then we came out of the cleft with
 our troops and fell on the kAla-yavanas and routed them completely. We
 had jIvamUlIya pa\~ncha-koNaM cha shulbArIya halaM in our hands. indra
-had given them to us \! That was our victory.
+had given them to us ! That was our victory.
 
 On the other side, however, we were being pursued by a new threatening
 attack of the flight of the crane from which we were having no respite.
 We tasting both soma and the hAlAhala.
+

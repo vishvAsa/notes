@@ -1,7 +1,11 @@
 +++
 title = "Some notes on Shahji and Sambhaji the brother of Shivaji-II"
+date = "2006-07-06"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/06/some-notes-on-shahji-and-sambhaji-the-brother-of-shivaji-ii/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/06/some-notes-on-shahji-and-sambhaji-the-brother-of-shivaji-ii/).
+
 Randulla Khan’s invasion of the South  
 Muhammad who succeeded Ibrahim, as the Adil Shahi Sultan was a fanatic
 Jihadi who wanted to put the Hindus in their place and bring the whole
@@ -78,3 +82,4 @@ rebellions in Karnataka. So the Adil Shah severely reprimanded him in
 
 [Go to
 part-III](https://manasataramgini.wordpress.com/2006/07/06/some-notes-on-shahji-and-sambhaji-the-brother-of-shivaji-iii/)
+

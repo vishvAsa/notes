@@ -1,7 +1,11 @@
 +++
 title = "The long drawn encounter"
+date = "2004-12-19"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/19/the-long-drawn-encounter/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/19/the-long-drawn-encounter/).
+
 We repulsed another attack on our position by the brigade from
 dundubhidurga. Seeing that dundudbhidurga was strategically placed to
 fire rockets at us, we decided to use the confusion of our foe to take
@@ -16,4 +20,5 @@ a grim assault. If he is overthrown we may face a dire situation and may
 need to withdraw any garrison placed for this fort. If we blow up the
 fort we simply may have no leverage on the enemy territory. The enemy
 had cleverly moved all their supplies and resources from dundubhidurga-
-so in a sense it was an empty conquest.
+so in a sense it was an empty conquest.  
+

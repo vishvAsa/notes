@@ -1,7 +1,11 @@
 +++
 title = "The second circle"
+date = "2006-05-08"
+upstream_url = "https://manasataramgini.wordpress.com/2006/05/08/the-second-circle/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/05/08/the-second-circle/).
+
 We had sought she who dwells in the midst of the kiri chakra. Our
 AchArya’s AchArya the one learned in the great atharvan lore with all
 its parishiShTha-s, kalpa-s brAhmaNa and upaniShads retired to live in
@@ -32,54 +36,54 @@ As we were seated there we saw the amaraugha before our eyes- it was
 like an immense flash of ullAsa. The amaraugha entered our mind. We then
 beheld the immense chaturashra: The great mantras stirred the rasArNava
 like the deva-s and the daityas stirring the ocean with mandhAra:  
-oM namo bhagavate rudrAya skandAya huM phaT |  
-oM namo haimvatyai vishAkhAya huM phaT |  
-oM raM namo jAtavedase shAkhAya huM phaT |  
-oM namo jAhnavyai nejameshAya huM phaT |  
-oM namo nandikeshvarAya |
+oM namo bhagavate rudrAya skandAya huM phaT \|  
+oM namo haimvatyai vishAkhAya huM phaT \|  
+oM raM namo jAtavedase shAkhAya huM phaT \|  
+oM namo jAhnavyai nejameshAya huM phaT \|  
+oM namo nandikeshvarAya \|
 
 Then the deva chakra emerged by the grace of the amaraugha. It was the
 supreme mantra chakra endowed with 24 spokes as it turned.
 
 oM namo brahmaNe nandisena lohitAkSha ghaNTakarNa kumudamAlI sahitAya
-kumArAya svAhA namaH |  
+kumArAya svAhA namaH \|  
 oM namo bhagavate rudrAya shata-mahendrajAla dhR^ik-sahitAya kumArAya
-svAhA namaH |  
+svAhA namaH \|  
 oM namo chitrAya chitraguptAyonmatha-pramatha sahitAya kumArAya svAhA
-namaH |  
+namaH \|  
 oM namo mahaddyutikarAya subhrAja-bhAsvara sahitAya kumArAya svAhA namaH
-|  
-oM nama oShadhipataye maNi-sumaNi sahitAya kumArAya svAhA namaH |  
+\|  
+oM nama oShadhipataye maNi-sumaNi sahitAya kumArAya svAhA namaH \|  
 oM namo vaishvAnarAya jvAla-jihva-jyoti sahitAya kumArAya svAhA namaH
-|  
+\|  
 oM namo .amshAyAdityAya parigha-vAta-bhIma-dahati-dahana sahitAya
-kumArAya svAhA namaH |  
+kumArAya svAhA namaH \|  
 oM namo mahendrAya vajrahastAyotkrosha-pa\~nchaka sahitAya kumArAya
-svAhA namaH |  
+svAhA namaH \|  
 oM namo viShNave chakra-vikrama-sankrama sahitAya kumArAya svAhA namaH
-|  
-oM namo .ashvibhyAM vardhana-nandana sahitAya kumArAya svAhA namaH |  
+\|  
+oM namo .ashvibhyAM vardhana-nandana sahitAya kumArAya svAhA namaH \|  
 oM namo dhAtre kunda-kusuma-kumuda, DambarADambara sahitAya kumArAya
-svAhA namaH |  
-oM namo tvaShTre chakrAnuchakra sahitAya kumArAya svAhA namaH |  
-oM namo mitrAya suvrata-satyasandha sahitAya kumArAya svAhA namaH |,  
-oM namo vidhAtre suprabha-shubhakarmA sahitAya kumArAya svAhA namaH |  
-oM namaH pUShNe paNitraka-kalika sahitAya kumArAya svAhA namaH |  
-oM namo vAyave balAtibala sahitAya kumArAya svAhA namaH |  
+svAhA namaH \|  
+oM namo tvaShTre chakrAnuchakra sahitAya kumArAya svAhA namaH \|  
+oM namo mitrAya suvrata-satyasandha sahitAya kumArAya svAhA namaH \|,  
+oM namo vidhAtre suprabha-shubhakarmA sahitAya kumArAya svAhA namaH \|  
+oM namaH pUShNe paNitraka-kalika sahitAya kumArAya svAhA namaH \|  
+oM namo vAyave balAtibala sahitAya kumArAya svAhA namaH \|  
 oM namo varuNAya ghasAtighasa timi\~Ngala-mukhau sahitAya kumArAya svAhA
-namaH |.  
-oM namaH parvatAya suvarchAtivarchA sahitAya kumArAya svAhA namaH |  
+namaH \|.  
+oM namaH parvatAya suvarchAtivarchA sahitAya kumArAya svAhA namaH \|  
 oM namo skhaMbhAya kA\~nchana-meghamAlI sahitAya kumArAya svAhA namaH
-|  
-oM namo manave sthirAtisthira sahitAya kumArAya svadhA namaH |  
+\|  
+oM namo manave sthirAtisthira sahitAya kumArAya svadhA namaH \|  
 oM namo vindhyAyoshchitrAgnishri\~NgAdri-dhritau sahitAya kumArAya svAhA
-namaH |  
+namaH \|  
 oM namas samudrAya saMgraha-vigraha gadA-dhR^itau sahitAya kumArAya
-svAhA namaH |  
+svAhA namaH \|  
 om namo bhagavatyA umAyai puShpadanta-sha\~NkukarNa sahitAya kumArAya
-svAhA namaH |  
+svAhA namaH \|  
 oM namaH kAla-mahoragAya jaya-mahAjaya nAgau sahitAya kumArAya svAhA
-namaH |  
+namaH \|  
 
 Then we saw the devI chakra of the great goddesses led by the most
 splendid chatushpathaniketA, ketakI, bR^ihadambAlikA, the dolphin-faced
@@ -91,11 +95,11 @@ The word of the amaraugha flashed through us. We saw in urdhva-trikoNa:
 
 oM hrAM hrIM hrUM hraiM hrauM hraH sharavanabhavAya ShaNmukhAya
 shaktidharAya shikhivAhanAya kumArAya raktavarNAya kukkuTadhvajAya oM
-phAT ||  
+phAT \|\|  
 oM ShaM ShaNmukhAya vajra-shakti-chApadharAya sarva duShTAn praharaya
-praharaya huM phaT svAhA ||  
+praharaya huM phaT svAhA \|\|  
 oM krau\~nchagiri-praharaNAya mahApralaya-kAlAgnirudra putrAya kaM kShaM
-kaM phaT ||
+kaM phaT \|\|
 
 We went atop the hill reciting the mantra-s of bhadrashAkha: We
 experienced the whole spectrum and beyond. It was high truth realized
@@ -109,3 +113,4 @@ the torments of raurava and the hardships of tapasya. We enjoyed the
 highest foods and then we were performing tapasya eating grass and
 leaves. We saw the rahasya bindu in the middle– the glimpse of the
 mahAvidyA, the priyaM dhAman of the deva-s.
+

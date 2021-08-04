@@ -1,7 +1,11 @@
 +++
 title = "Tracked by the 3 kR^ityA-s"
+date = "2006-05-13"
+upstream_url = "https://manasataramgini.wordpress.com/2006/05/13/tracked-by-the-3-kritya-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/05/13/tracked-by-the-3-kritya-s/).
+
 Mn, Jx and me assembled for the long awaited Kuriltai of the clan on the
 steppes. The only one missing from our old clan assembly was the muni,
 who was doing his time beside the somesha shrine where we spent the most
@@ -62,3 +66,4 @@ know this rahasya. You know that three are the cats. indra is the
 emergent and indra is its striking power. Know it to be so. But between
 you and the kuNDa lies the kR^ityA. You are surrounded like abhimanyu,
 but those who know it can penetrate the chakra vyUha.”
+

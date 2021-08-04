@@ -3,8 +3,7 @@ title = "Severe and critical cases"
 
 +++
 - See [Steroids page](../steroids/).
-- Tociluzumab. Blocks inflammatory mediator Interleukin 6. UK approved. Within 48 hours of deterioration to Oxygen dependency if used has a mortality benefit.
-  - Givne to severely ill patient admitted to hospital within 14d of onset, requiring more than 10L of oxygen and on dexamethasone.
+- Tociluzumab. 
 - Remdesivir no mortality benefit (Solidarity trial). Still recommended in many algorithms - may help reduce day or two of hospital stay if administered in the right dose at the right time - [TS](https://twitter.com/Tejasvi_Surya/status/1386334961335078919) .
   - No benefit in normal oxygen saturation.
 

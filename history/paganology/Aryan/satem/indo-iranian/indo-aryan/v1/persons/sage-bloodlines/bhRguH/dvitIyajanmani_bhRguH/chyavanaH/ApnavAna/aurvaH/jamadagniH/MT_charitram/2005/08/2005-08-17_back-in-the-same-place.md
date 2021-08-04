@@ -1,7 +1,11 @@
 +++
 title = "Back in the same place"
+date = "2005-08-17"
+upstream_url = "https://manasataramgini.wordpress.com/2005/08/17/back-in-the-same-place/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/08/17/back-in-the-same-place/).
+
 We were set to return to the same battlefield where we had last year
 fought one of the most disastrous battles of our existence. This
 battlefield was worse than the pAShaNDa hill: there we had lost out
@@ -22,3 +26,4 @@ about the despair arising from everything that we now know. We only go
 there with the question how bad can it get? This time we are not even
 taking steps to proctect the baggage train as we did last time. It is
 just a charge with whatever few troops we can muster.
+

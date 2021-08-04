@@ -1,7 +1,11 @@
 +++
 title = "Jx evades a mAraNa"
+date = "2007-05-29"
+upstream_url = "https://manasataramgini.wordpress.com/2007/05/29/jx-evades-a-marana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/05/29/jx-evades-a-marana/).
+
 Whenever we have executed that loop by instinct, thus far, some vighna
 has invariably come our way. This time again the mudgara-like blow of
 the trailokya-stambhinI caused us new trouble. But we received a signal
@@ -28,9 +32,10 @@ successive strikes, but the power his own protective mantra was
 unbelievable the prayoga which was so certain to effect mAraNa simply
 rebounded off him.
 
-\-\*-\*-\*-
+-\*-\*-\*-
 
 That which had left Jx now pursued us in the form of the khANDavan to
 compass our destruction. We had been expecting this any time. However,
 we evaded it after a skirmish that resembled in many ways our first
 encounter with the khANDavan-s.
+

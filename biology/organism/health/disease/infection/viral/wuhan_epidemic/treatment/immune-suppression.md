@@ -1,6 +1,18 @@
 +++
-title = "Steroids"
+title = "Immune suppression"
 +++
+
+
+## Tociluzumab
+- In a short window when Oxygen dependency setting with Cytokine release
+- Within 48 hours of deterioration to Oxygen dependency if used has a mortality benefit.
+- Given to severely ill patient admitted to hospital within 14d of onset, requiring more than 10L of oxygen and on dexamethasone.
+
+### Mechanism
+- Blocks inflammatory mediator Interleukin 6.
+
+
+## Steroids
 - Hacky cough, pneumonia, infection due to Blood clotting in veins due to antibodies attacking own cells etc.. requires dampening immune system (steroids) and using blood thinners. 
 - 5 day course:
   - Budesonide (see [symptom management](../symptom-management) page)

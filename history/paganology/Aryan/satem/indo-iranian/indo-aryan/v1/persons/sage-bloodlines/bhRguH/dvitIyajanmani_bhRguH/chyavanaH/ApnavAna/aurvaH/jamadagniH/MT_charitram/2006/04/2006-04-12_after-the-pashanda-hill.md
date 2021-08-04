@@ -1,7 +1,11 @@
 +++
 title = "After the pAShaNDa hill"
+date = "2006-04-12"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/12/after-the-pashanda-hill/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/12/after-the-pashanda-hill/).
+
 We were trying to trace back the footsteps of besieger. We realized some
 of the details of what happened immediately after the pAShaNDa hill. We
 got out of pAShaNDa hill and were confronted by the second “born of
@@ -14,3 +18,4 @@ Now realizing that it had gone way beyond his level, he dumped the whole
 thing on us to take care of it our own. But somewhat ironically we are
 like two incomplete men each having only one key half- he all those
 brilliant strategies and us the theoretical knowledge of mantras.
+

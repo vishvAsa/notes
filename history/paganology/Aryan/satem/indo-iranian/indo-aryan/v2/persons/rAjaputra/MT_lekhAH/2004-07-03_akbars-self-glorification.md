@@ -1,7 +1,11 @@
 +++
 title = "Akbar’s self-glorification"
+date = "2004-07-03"
+upstream_url = "https://manasataramgini.wordpress.com/2004/07/03/akbars-self-glorification/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/07/03/akbars-self-glorification/).
+
 No Hindu should forget the deaths of the valiant Rai Jaimal Rathore and
 Pratap Sisodia (Patta). A comparison of the Hindu chronicles of the
 Rathores of Badnor and Akbar’s Fathnamah reveals a discrepancy that I
@@ -93,7 +97,7 @@ Mogol mining. Due to this wound he was unable to mount a horse. So when
 the Mogols started pouring in after breaking though one of the 7 gates
 of Chittor he sat on the shoulders of a soldier and wielding swords in
 both his hands fought bravely in the general throng till he fell
-fighting. Given that right in the beginning Akbar states that he tried to
+fighting. Given that right in the begining Akbar states that he tried to
 shield his royal men from the infidel fire. Given the general range of
 the smooth bore Mogol muskets (90m or so) it is unlikely that Akbar
 struck a specific target from upclose. This suggests that the Fathnamah
@@ -111,3 +115,4 @@ The secular hero Akbar was no better than his ancestors or his
 descendents in his conduct of the Jihad or hatred for Hindus. But the
 secular historians have been more than eager to attribute heroic deed to
 this tyrant, without questioning his own concoctions.
+

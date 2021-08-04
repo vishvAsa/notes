@@ -1,14 +1,17 @@
 +++
 title = "A Hindu contribution: the war elephant"
+date = "2003-08-19"
+upstream_url = "https://manasataramgini.wordpress.com/2003/08/19/a-hindu-contribution-the-war-elephant/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/08/19/a-hindu-contribution-the-war-elephant/).
+
 It has often been stated that many of the martial failures of Hindus has
 been due to the use of ponderous and slothful elephants in war. However,
 the Indians seem to have persisted with elephants until very recently.
 They first started using elephants right at the dawn of their
 civilization in the Indus period. What is the truth behind the
 elephant’s utility?  
-
 “bhagadatta on his elephant, supratika, showering arrows on his foes,
 looked like the resplendent Sun scattering his rays on the earth… Like a
 cowherd driving his cattle in the forest, bhagadatta charged on his
@@ -48,12 +51,11 @@ made the mlecchas victorious. We are often told that the elephants
 proved the down fall of the Hindus in this battle however, closer
 scrutiny shows that this was not all the truth. From an account of the
 battle:  
-
-> “Some Macedonians were stamped underfoot crushing them to a bloody pulp
+“Some Macedonians were stamped underfoot crushing them to a bloody pulp
 armour and all. Others were hoisted with their trunks and dashed to he
 ground. Others, again found themselves impaled by the great beasts
-tusks… The Macedonians never again wanted to face the elephants again
-in battle”?
+tusks… The Macedonians never again wanted to face the elephants again in
+battle”?
 
 Later, in 312 BC the Indian elephants, obtained as prized gifts from the
 King of Kashmir, proved to be the cause for Ptolemaios victory against
@@ -110,3 +112,4 @@ war, and modern western commentators have grossly misunderstood its
 value. So rather than being viewed as a major cause of Hindu defeats, it
 should be viewed as a major innovation of the Hindus in the field of
 war.
+

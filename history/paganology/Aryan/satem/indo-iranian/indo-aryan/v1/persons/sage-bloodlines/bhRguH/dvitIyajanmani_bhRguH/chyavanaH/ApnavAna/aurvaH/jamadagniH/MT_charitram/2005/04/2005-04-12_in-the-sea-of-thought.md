@@ -1,7 +1,11 @@
 +++
 title = "In the sea of thought"
+date = "2005-04-12"
+upstream_url = "https://manasataramgini.wordpress.com/2005/04/12/in-the-sea-of-thought/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/04/12/in-the-sea-of-thought/).
+
 We spent a lot of time in mirth with the whole assembly. The nice
 weather before the return of vR^itra gave a brief respite. We enjoyed it
 all- a good night of astronomy, a whole day of lolling around in the
@@ -32,3 +36,4 @@ Front dagda ratha: The unknown future- victory on this front is hampered
 by the problem called andhaka which is only worsening.
 
 But the new encounter will have many new bigger parameters
+

@@ -1,7 +1,11 @@
 +++
 title = "The reign of Ramaraya and the battle of Talikota."
+date = "2004-11-07"
+upstream_url = "https://manasataramgini.wordpress.com/2004/11/07/the-reign-of-ramaraya-and-the-battle-of-talikota/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/11/07/the-reign-of-ramaraya-and-the-battle-of-talikota/).
+
 One of the most fateful events in Hindu history was the battle of
 Talikota that occurred during the time of Ramaraya who was the de facto
 ruler of Vijayanagar. Several attempts have been made by secularist
@@ -203,3 +207,4 @@ We shall see in the subsequent part how the complete Islamization of
 south India was prevented by the successors of Ramaraya in a prolonged
 struggle over the next 100 years, when the baton of the Hindu revival
 was taken over by the Maharattas under Shivaji.
+

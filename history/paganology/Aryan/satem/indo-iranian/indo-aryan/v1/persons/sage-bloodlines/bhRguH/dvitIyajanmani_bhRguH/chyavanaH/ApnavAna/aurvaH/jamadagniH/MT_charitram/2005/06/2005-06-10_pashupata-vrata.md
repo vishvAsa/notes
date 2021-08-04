@@ -1,7 +1,11 @@
 +++
 title = "pAshupata vrata"
+date = "2005-06-10"
+upstream_url = "https://manasataramgini.wordpress.com/2005/06/10/pashupata-vrata/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/06/10/pashupata-vrata/).
+
 Having had a major struggle with the forces of fate, and having been
 reduced to the condition of Jx in a certain sense, and having dropped
 the proverbial last wick of bhairavAnanda he was wandering around with
@@ -16,3 +20,4 @@ khANDava jungle. At this point he wondered what if anything may save
 him. He was asked to perform the pAshupata vrata. If pashupati wishes he
 may be saved the itinerant pAshupata told. Thus, he lapsed into the
 pAshupata yoga state.
+

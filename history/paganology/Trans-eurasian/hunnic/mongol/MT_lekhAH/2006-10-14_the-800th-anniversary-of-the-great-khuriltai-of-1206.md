@@ -1,7 +1,11 @@
 +++
 title = "The 800th anniversary of the great khuriltai of 1206"
+date = "2006-10-14"
+upstream_url = "https://manasataramgini.wordpress.com/2006/10/14/the-800th-anniversary-of-the-great-khuriltai-of-1206/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/10/14/the-800th-anniversary-of-the-great-khuriltai-of-1206/).
+
 It was the year of the Tiger (1206 CE). At the head waters of the Onon
 River, at the foot of the sacred mountain of Burkhan Khaldun, in
 northern Mongolia a great throng of humanity was assembling. Jamuqa, the
@@ -34,13 +38,13 @@ Unifier of the thoughts of the Mongols,
 With gigantic great body like lightning,  
 Ruler over many clouds,  
 With 10,000 eyes,  
-May you grant us the blessing and good fortune of your protection \!\!\!
+May you grant us the blessing and good fortune of your protection !!!
 
 Then the shamans beat the drums and worshipped the god Manaqan Tengri
 and several other gods like the Tuesid tengris, the Qadaraga Tengris and
 the ancestral fire was kindled and offered sacrifices and the fermented
 airak was sprinkled in the air. The beholders turned their palms upward
-and chanted huree, huree, huree \!
+and chanted huree, huree, huree !
 
 The great Kha’khan then formalized the law or the yasa of Chingiz Khan
 by which people were to live, disbanded the old tribes and divided them
@@ -115,3 +119,4 @@ and driven back against the defenders even as their corpses filled the
 moats. All we hear from the chroniclers is that the Turks drowned in a
 sea of fiery annihilation. The end of Bukhara showed that the Moslem
 empire had finally met its destroyer.
+

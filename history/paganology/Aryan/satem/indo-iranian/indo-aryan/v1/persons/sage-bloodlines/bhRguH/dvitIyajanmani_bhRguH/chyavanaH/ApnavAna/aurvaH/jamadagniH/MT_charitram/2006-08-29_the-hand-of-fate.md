@@ -1,7 +1,11 @@
 +++
 title = "The hand of fate"
+date = "2006-08-29"
+upstream_url = "https://manasataramgini.wordpress.com/2006/08/29/the-hand-of-fate/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/08/29/the-hand-of-fate/).
+
 After much struggle our forces fought their way to a strong position on
 the front of the dvayaM daNDakAH. We were close to taking this much
 desired and important outpost after a really long drawn conflict. But,
@@ -15,3 +19,4 @@ us into the morass, despite us having seen the bog from a over a mile
 away. It taught us that foresight and rational decisiveness does
 necessarily translate into the right path if the flow of fate is against
 it.
+

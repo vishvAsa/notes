@@ -1,7 +1,11 @@
 +++
 title = "Saved from the mAraNa prayoga by the yakShiNi"
+date = "2006-06-27"
+upstream_url = "https://manasataramgini.wordpress.com/2006/06/27/saved-from-the-marana-prayoga-by-the-yakshini/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/06/27/saved-from-the-marana-prayoga-by-the-yakshini/).
+
 We have seen the hits of a few mAraNa prayoga-s in the past but never
 had we seen vaisvasvata’s agents more closely than now. Some how the
 Northern journey is an opportunity for the mAraNa of the vairis. We were
@@ -17,9 +21,7 @@ in the waters and could see yama’s agents bearing us away. For several
 minutes we were trashed by the waters of vaitaraNI, any moment sliding
 towards our jalasamAdhi. We just then realized that the only one who
 could physically bear us out of this deadly mAraNa prayoga was the great
-yakShiNi, nIlalohita-mekhalA, hovering yonder. 
-
-We piteously called for
+yakShiNi, nIlalohita-mekhalA, hovering yonder. We piteously called for
 her help. A fragment of the mahAstra hit her leg, but she ably dodged it
 and still came to our aid. nIlalohita-mekhalA gave us her arm, and
 holding to it like mArkaNdeya to shiva, we struggled out of vaitaraNi
@@ -32,3 +34,4 @@ would have been certain death. While we are reeling from the effects of
 this mAraNa that came closest to fruition, we are happy we are alive.
 You never know when the trikoNoddhbhava mahA-yakShiNi can save you,
 hence her sweet-bitter sAdhana is never in nought.
+

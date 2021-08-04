@@ -1,7 +1,11 @@
 +++
 title = "Sant Ramadas’ letter to Sambhaji"
+date = "2004-05-23"
+upstream_url = "https://manasataramgini.wordpress.com/2004/05/23/sant-ramadas-letter-to-sambhaji/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/05/23/sant-ramadas-letter-to-sambhaji/).
+
 When Sambhaji seized power he invited his father’s advisor the bhakti
 saint Ramadas to meet him. However, Ramadas displeased by Sambhaji’s
 brutalities that accompanied his accession refused to meet him. His
@@ -34,4 +38,5 @@ better than he did.”*
 **From the Ramadasa Charitra**.
 
 The letter points to the greatness of Ramadas in the forging of the
-Hindu revival
+Hindu revival  
+

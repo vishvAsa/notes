@@ -1,7 +1,11 @@
 +++
 title = "Bow-making in Hindu lore"
+date = "2003-08-20"
+upstream_url = "https://manasataramgini.wordpress.com/2003/08/20/bow-making-in-hindu-lore/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/08/20/bow-making-in-hindu-lore/).
+
 The making of the bow is discussed in dhanurveda.  
   
 It states that a bow should have 3 material: iron, horn and wood and
@@ -28,3 +32,4 @@ its last hold out in Thanjavur. The Maharatta king, Thulajendra Raja
 Bhonsle Chatrapathy ex-Raja of Thanjavur, a descendent of Chatrapati
 Shivaji, is said to have been trained well in the use of the bow by
 hindu traditions.
+

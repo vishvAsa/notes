@@ -1,7 +1,11 @@
 +++
 title = "The enigma of ash mounds"
+date = "2007-01-09"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/09/the-enigma-of-ash-mounds/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/09/the-enigma-of-ash-mounds/).
+
 These thoughts sprung in course of one of those extended conversations
 that we had. As we passed by train to the city of our birth we saw the
 typical landscape of the southern Deccan plains: The clusters of
@@ -25,16 +29,12 @@ prehistoric sites:
 Indian prehistory shows a sharp archaeo-cultural divide in the
 peninsula, geographically corresponding to the boundary between the
 heart land of the Maharatta country and the Telugu and Kanada zones
-below. 
-
-To the north of this divide the sub-continent is marked by a
+below. To the north of this divide the sub-continent is marked by a
 transition from the neolithic to the chalcolithic, though the neolithic
 elements persist even after the emergence of the chalcolithic in some
 places like Gujarat. Finally, the chalcolithic gives way to the Iron
 age, though the exact temporal point of this transition is being
-obfuscated by the agendas of the Witzelite indologists. 
-
-To the south of
+obfuscated by the agendas of the Witzelite indologists. To the south of
 the divide there is instead an extended Stone age and a sudden
 transition to the Iron age in the first half of the first millennium
 before the common era. This transition to the Iron age is associated
@@ -78,9 +78,7 @@ the base of the granite hills. There is clear evidence for butchering of
 cattle using stone tools in these settlements in the vicinity. The
 community probably consisted of pastoralists tending cattle, primarily
 associated with the cattle dung, and farmers in the vicinity associated
-with the cultivation of pulses and grains. 
-
-Kosambi and his successors
+with the cultivation of pulses and grains. Kosambi and his successors
 thought that the dung burning was a means of sanitation. But we believe
 he was wrong and Allchin was correct in interpreting the mounds as a
 dung-burning ritual. Modern pastoralists and associated farmers value
@@ -91,3 +89,4 @@ these periodic dung fires for a grand ritual. The fires may have been
 set up in dry winters or summers, and seen from the top of the granite
 hills, where the Stone age shamans might have drawn their rock graffiti
 and pounded on the cupules in the granite to produce musical displays.
+

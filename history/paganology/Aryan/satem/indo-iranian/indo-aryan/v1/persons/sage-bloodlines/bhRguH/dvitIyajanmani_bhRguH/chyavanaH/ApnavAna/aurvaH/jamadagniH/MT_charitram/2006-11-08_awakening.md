@@ -1,7 +1,11 @@
 +++
 title = "Awakening"
+date = "2006-11-08"
+upstream_url = "https://manasataramgini.wordpress.com/2006/11/08/awakening/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/11/08/awakening/).
+
 We moved past to the nest where the root of sorrow lay like a dread
 beast waiting in prowl for its unprotected prey. With our prayoga-s
 spent on mundane battles, we needed to lift our bow and perform
@@ -40,3 +44,4 @@ it was a field I believed I had an edge over other philosophers. 2) It
 was not a metaphysical issue 3) To me it was the path of “brahmavidyA”.
 So next I shall talk of some convergences — common place as well as
 esoteric.
+

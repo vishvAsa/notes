@@ -1,7 +1,11 @@
 +++
 title = "bhaTTa jayanta the paippalAdin"
+date = "2006-04-21"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/21/bhatta-jayanta-the-paippaladin/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/21/bhatta-jayanta-the-paippaladin/).
+
 I have always felt a close affinity to bhaTTa jayanta, the great scholar
 from kashmIra. He lived in the 800-900s of CE and was associated with
 the dictatorial king shankaravarman who kalhaNA describes as a corrupt
@@ -41,3 +45,4 @@ which is a subtle satire on various darShanas and their proponents. He
 is said to have composed his magnum opus nyAya ma\~Njari when he was
 sent away from his home and school to serve in the khasa country which
 was conquered by his king the despot shankaravarman.
+

@@ -1,7 +1,11 @@
 +++
 title = "The appearance of the kR^ityA and chetaka…"
+date = "2005-11-07"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/07/the-appearance-of-the-kritya-and-chetaka/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/07/the-appearance-of-the-kritya-and-chetaka/).
+
 “Everyone knows well how the bharadvAja yavakri met his end due the
 kAshyapa’s spells.”  
 We had fallen back from suvargaM lokaM. We then started walking along
@@ -15,4 +19,5 @@ and we glanced her smile a sinister smile. Having passed behind us she
 vanished. Through our third eye we realized that it was not a woman but
 the kR^ityA. We then saw the chetaka attempting to bite at the kavacha
 but failed to do so. Then the chetaka lobbed a tIkShNa kShurika at us
-through the kavacha and then vanished.
+through the kavacha and then vanished.  
+

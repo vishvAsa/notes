@@ -1,7 +1,11 @@
 +++
 title = "Further skirmishes"
+date = "2004-11-27"
+upstream_url = "https://manasataramgini.wordpress.com/2004/11/27/further-skirmishes/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/11/27/further-skirmishes/).
+
 We tested out a few maneuvers directly in enemy territory and we found
 things held pretty well. We also spied a long but interesting attack
 route that would carry us straight to the ground of the initial
@@ -11,3 +15,4 @@ were fairly satisfied with it and will investigate it further. We also
 tested out some other attack routes and have a reasonable picture of how
 the battle may go. We still are bothered by our main weakness, but there
 is not much we can do about it.
+

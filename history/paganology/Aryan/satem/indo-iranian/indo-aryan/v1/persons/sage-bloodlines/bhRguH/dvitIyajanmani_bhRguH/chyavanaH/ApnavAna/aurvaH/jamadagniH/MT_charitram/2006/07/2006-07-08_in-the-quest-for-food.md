@@ -1,7 +1,11 @@
 +++
 title = "In the quest for food"
+date = "2006-07-08"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/08/in-the-quest-for-food/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/08/in-the-quest-for-food/).
+
 bhR^igu, the founder of our race, had said that food was brahman. In
 that quest we set out to the city center. They say no journey in the
 company of a true friend is ever long. They say no wait in the company
@@ -22,3 +26,4 @@ anna, pAna, kAma ityAdi being enjoyed by many. First the words of the
 wise eldest pANDu came to mind, but then the unity with vArtAlI was
 felt. It was that flow of prakR^iti who was manifest as vArAhi and the 8
 mothers that we were a part of. We then attained bliss in food.
+

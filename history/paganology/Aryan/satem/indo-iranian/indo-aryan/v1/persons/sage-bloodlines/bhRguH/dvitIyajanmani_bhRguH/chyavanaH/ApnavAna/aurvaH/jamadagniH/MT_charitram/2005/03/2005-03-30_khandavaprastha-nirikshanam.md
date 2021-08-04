@@ -1,7 +1,11 @@
 +++
 title = "khANDavaprastha nirIkShaNaM"
+date = "2005-03-30"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/30/khandavaprastha-nirikshanam/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/30/khandavaprastha-nirikshanam/).
+
 The critical time for khANDavaprastha had come. We were seeing signs of
 revolt. We deployed the dual saMGNYAnaM and kAmaM. We heavily rely on
 that. It had temporarily veiled the other party. But the true effects we
@@ -16,3 +20,4 @@ help on “hahahaDakShaDa”. On other occasions I would easily been
 smothered by her great charm and done anything for her but with a more
 important strI on the line Hayasthanika was asked to attend to her own
 business.
+

@@ -1,7 +1,11 @@
 +++
 title = "In the dark zone"
+date = "2005-08-14"
+upstream_url = "https://manasataramgini.wordpress.com/2005/08/14/in-the-dark-zone/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/08/14/in-the-dark-zone/).
+
 We sat on the edge of the crater of sorrow, defeat and destruction,
 which was much like the crater of a great volcano, with the inferal
 interiors obscured by pumice and granite. We saw many yakShIs, apsaras,
@@ -18,3 +22,4 @@ the battle or not. It was all already destined that you would slip that
 way.” Yet another replied that the rAkShasa mAyAvi was the cause. We
 were drowning in this cacophonies of rAkShasas shouting in the demon
 haunted world.
+

@@ -1,7 +1,11 @@
 +++
 title = "Same place same time phase shifted"
+date = "2006-01-01"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/01/same-place-same-time-phase-shifted/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/01/same-place-same-time-phase-shifted/).
+
 Phase shifted by an year we were there forced to spend time with the
 wild Northerners, more precisely characterized as the fallen brahmins
 and kShatriyas. Luckily for us we had our own inner circle with whom we
@@ -13,3 +17,4 @@ ourselves. The secret formula goes as badhira Akrandayati.
 We returned and saw two kR^ityAs. One was headed for the yonder man. The
 other was headed for us. Jx had left the land, the kR^ityA moving away
 from him came over to us.
+

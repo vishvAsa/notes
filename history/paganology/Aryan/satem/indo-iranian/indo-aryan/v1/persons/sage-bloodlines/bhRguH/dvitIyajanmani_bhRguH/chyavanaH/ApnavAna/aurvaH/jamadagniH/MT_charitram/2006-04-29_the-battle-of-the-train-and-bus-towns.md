@@ -1,7 +1,11 @@
 +++
 title = "The battle of the train and bus towns"
+date = "2006-04-29"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/29/the-battle-of-the-train-and-bus-towns/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/29/the-battle-of-the-train-and-bus-towns/).
+
 As many issues remain still murky and we are still behind the haze we
 cannot narrate much. It was wild ride is all we can say. We knew that
 one of our greatest sapatna-s stood straight in our path. It was going
@@ -28,3 +32,4 @@ horsemen are all around you.”). Four fierce weapons pursue us- the
 raktaghAtaka, the bhaya nirR^iti (we remembered the old nairR^ita
 attacks), rAkShasi and jvAlAmukha. We needed to obtain the yakShini-s
 bAlachandrikA and suratama\~njari to save ourselves now.
+

@@ -1,7 +1,11 @@
 +++
 title = "kAla Chidra"
+date = "2005-05-03"
+upstream_url = "https://manasataramgini.wordpress.com/2005/05/03/kala-chidra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/05/03/kala-chidra/).
+
 The last step had been reached. The powers of the mAnava had reached
 their end. Only the powers of the devas were next recourse. It is also
 called the setu- the bridge to the unknown loka. We had reached the end
@@ -28,7 +32,7 @@ when we took last the step on the setu ?
 vaiShNava yogI had attained his siddhis in haTha yoga. Beside it resided
 the shudra who never worked but earned a lot of money. We being the
 dvija was ever puzzled by the shudra’s way of living. But we understood
-the 4th varNa. We passed by and saw two more shudras we observed them
+the 4th varNa. We passed by and saw a two more shudras we observed them
 and learnt of their paths. The first of them accompanied us through
 thick and thin in the second Great War. At the end of it he was ruined,
 but we survived. Though R asked us not to help him we invoked the devas
@@ -42,17 +46,17 @@ our own and coursed through.
 
 5\) The greatest of our sakhIs was R: at some point we had transcended
 the need to talk with words. But on that bright day during the revelry
-after the Great War II (almost 15 years before today\!\!\!\!\!) we met
-the wandering niShAda with his bhUtachakra. He declared our paths will
-fork soon and then converge but we will fork again two years after I
-cross the veil. When we thought of this time hung for a moment as though
-indra had stopped the rotating chakra to deliver his death blow on
-aurNavAbha. In our mind’s eye we saw the comets that had passed- the
-great apparition of Halley- that marked our rise. The apparition of
-Wilson, the apparition of Hayakutake, that of Hale-Bopp, and that
-Macholz and many others. The supernova in Centaurus A and the apparition
-in Magellanic cloud. After the revelry we went to the southern city of
-the Pandian, even though were briefly held up by the Pandya Sena, and
+after the Great War II (almost 15 years before today!!!!!) we met the
+wandering niShAda with his bhUtachakra. He declared our paths will fork
+soon and then converge but we will fork again two years after I cross
+the veil. When we thought of this time hung for a moment as though indra
+had stopped the rotating chakra to deliver his death blow on aurNavAbha.
+In our mind’s eye we saw the comets that had passed- the great
+apparition of Halley- that marked our rise. The apparition of Wilson,
+the apparition of Hayakutake, that of Hale-Bopp, and that Macholz and
+many others. The supernova in Centaurus A and the apparition in
+Magellanic cloud. After the revelry we went to the southern city of the
+Pandian, even though were briefly held up by the Pandya Sena, and
 acquired a glimpse of the great dhUrta, urdhvatANDava bhairava,
 ugraviShNu, kulayoginI and daNDanAyikA, which led us to the secrets of
 the tantrika perfection.
@@ -70,7 +74,7 @@ rest. We knew not the life of the the settled city dweller.
 darts, and false friends were now laughing at us.
 
 We saw kAla, as bhR^igu said: kAle .ayama\~NgirA devo .atharvA chAdhi
-tiShThataH |
+tiShThataH \|
 
 10\) We saw those corpses that we had alluded to in the past. They lay
 beyond on the other side of the setu, from which we had walked away .
@@ -88,4 +92,5 @@ Oh ashvinA, when our ancestor chyavAna sought your aid you brought it to
 him. May now bear us aid. We have reached that last step of the setu
 that a mAnava can- only daivya step can take one beyond…
 
-\-iti parisamAptaM //
+-iti parisamAptaM //
+

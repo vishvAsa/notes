@@ -1,7 +1,11 @@
 +++
 title = "Fourier’s spells blocked"
+date = "2005-02-20"
+upstream_url = "https://manasataramgini.wordpress.com/2005/02/20/fouriers-spells-blocked/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/02/20/fouriers-spells-blocked/).
+
 Mr. Engineer of Mangalagrama (We shall call him Fourier after his
 fascination for illustrating Fourier transforms) had become a vairi of
 our clansmen on account of his daughter. His friend had controlled the
@@ -36,3 +40,4 @@ as a physical entity.
 We realized we can make things with copper that we cannot make with
 gold. Like a yogi we were standing above pain and pleasure, as
 chinnamastA we stood above kAmA and rati, and continued to drink blood.
+

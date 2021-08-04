@@ -1,7 +1,11 @@
 +++
 title = "Some notes on Shahji and Sambhaji the brother of Shivaji-IV"
+date = "2006-07-07"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/07/some-notes-on-shahji-and-sambhaji-the-brother-of-shivaji-iv/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/07/some-notes-on-shahji-and-sambhaji-the-brother-of-shivaji-iv/).
+
 Sambhaji and Shivaji break free  
 Following Shahji’s arrest his sons Sambhaji in Banglore and Shivaji in
 Pune started asserting their independence against the Moslems. With the
@@ -57,3 +61,4 @@ Sambhaji, the poorly known brother of the future Maharatta Raja died in
 front of Kanakagiri. His mother Jijabai bore a long-standing grudge
 against Afzal Khan after this event, and finally had her satisfaction,
 when Shivaji slew the Khan and restored the Hindu prestige.
+

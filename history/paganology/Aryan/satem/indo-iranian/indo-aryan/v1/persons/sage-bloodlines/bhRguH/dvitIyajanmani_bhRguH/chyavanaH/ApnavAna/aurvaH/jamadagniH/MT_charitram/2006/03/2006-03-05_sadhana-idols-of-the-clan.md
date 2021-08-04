@@ -1,7 +1,11 @@
 +++
 title = "sAdhana idols of the clan"
+date = "2006-03-05"
+upstream_url = "https://manasataramgini.wordpress.com/2006/03/05/sadhana-idols-of-the-clan/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/03/05/sadhana-idols-of-the-clan/).
+
 A number of idols have been routinely used by my family in various
 upAsanas. A few are detailed below:
 
@@ -32,3 +36,4 @@ The lakShmInArAyaNa pair: used for worship with the mantra viShNumAya,
 the sahasranAma vidhi and nArAyanArchana. The saura maNDala is used for
 the saura prayogas. Of course the other maNDala and its details remain
 secret.
+

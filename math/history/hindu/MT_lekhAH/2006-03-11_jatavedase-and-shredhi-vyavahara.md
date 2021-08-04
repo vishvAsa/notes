@@ -1,11 +1,15 @@
 +++
 title = "jAtavedase… and shredhI vyavahAra"
+date = "2006-03-11"
+upstream_url = "https://manasataramgini.wordpress.com/2006/03/11/jatavedase-and-shredhi-vyavahara/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/03/11/jatavedase-and-shredhi-vyavahara/).
+
 The hymn RV 1.99 is a peculiar hymn in many ways:
 
-jātavedase sunavāma somam-arātīyato ni dahāti vedaḥ |   
-sa naḥ parṣadati durgāṇi viśvā nāveva sindhuṃ duritātyaghniḥ ||
+jātavedase sunavāma somam-arātīyato ni dahāti vedaḥ \|   
+sa naḥ parṣadati durgāṇi viśvā nāveva sindhuṃ duritātyaghniḥ \|\|
 
 It is addressed to agni jAtavedas: We extract soma for jAtavedas; may he
 the knower consume the wealth of the evil enemies. May agni tide us over
@@ -59,9 +63,9 @@ adopted. shredhi-phala or saMkalita is used for sum of series the
 formulae for it and nth terms of the series were all obtained. The
 formulae are also given form composite series of the form: tn=r\*tn-1+b
 or r\*tn-1-b  
-
 The binomial expansions were provided as meru-prasthas or what were
 known in the West as Pascal’s triangles. Finally, the great Nambuthiri
 mathematicians developed the trignometric series expansions and the
-concept of series with limit n-\>infinity (kha-hara) to obtain definite
+concept of series with limit n->infinity (kha-hara) to obtain definite
 integrals.
+

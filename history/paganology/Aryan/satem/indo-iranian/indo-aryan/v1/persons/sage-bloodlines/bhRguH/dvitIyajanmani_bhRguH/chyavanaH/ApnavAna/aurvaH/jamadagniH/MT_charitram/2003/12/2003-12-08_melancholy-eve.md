@@ -1,7 +1,11 @@
 +++
 title = "Melancholy Eve"
+date = "2003-12-08"
+upstream_url = "https://manasataramgini.wordpress.com/2003/12/08/melancholy-eve/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/12/08/melancholy-eve/).
+
 The yellow autumn had slipped by silently. The white cover brought with
 it the short days of diablerie, and the old curse of another shivarAtri
 passing by was apparent. A coin fell without any apparent reason, but
@@ -20,3 +24,4 @@ loom. “When the moment dawns, even though you are a great kshatriya,
 your knowledge of the deadly astras that you plied with ease will depart
 you. You may even fail to control your chariot despite having a great
 charioteer. On the melancholy eve your head would be cut off”.
+

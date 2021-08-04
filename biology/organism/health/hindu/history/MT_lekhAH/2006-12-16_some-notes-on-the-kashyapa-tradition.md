@@ -1,23 +1,26 @@
 +++
 title = "Some notes on the kAshyapa tradition"
+date = "2006-12-16"
+upstream_url = "https://manasataramgini.wordpress.com/2006/12/16/some-notes-on-the-kashyapa-tradition/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/12/16/some-notes-on-the-kashyapa-tradition/).
+
 There is much reason to believe that the kAshyapa tradition is a real
 coherent tradition of magico-medical practices in post-Vedic India that
 survived in some form or the other in the midst of other traditions
 until recently. At some point, after we discovered the coherence of this
 tradition, we had thought of a 3-way collaboration with shAradA and R to
 produce a more scholarly piece on the various aspects of this tradition
-— both in terms of the printed texts and what ever little information
-we could gather about unpublished manuscripts of this tradition.
-However, the travails from saMsAra-bandha-s have prevented us from doing
-this. In any case here are some notes on the topic.
+— both in terms of the printed texts and what ever little information we
+could gather about unpublished manuscripts of this tradition. However,
+the travails fromsaMsAra-bandha-shave prevented us from doing this. In
+any case here are some notes on the topic.
 
 Many tangled lines of our investigations over the years led to this body
 of unique sanskR^it literature that we came to term the kAshyapa
 tradition.  
-
-1\) The tracing the post-atharvaNic development of medicinal practices
+1) The tracing the post-atharvaNic development of medicinal practices
 has lead most students to the obvious successors in the form of the
 great saMhitA-s of charaka and sushruta, which represent early high
 points in the development of Hindu medicine. However, more careful
@@ -25,22 +28,22 @@ investigation also leads to the now incompletely preserved but fairly
 extensive text of early Hindu medicine the kAshyapa tantraM (also called
 saMhitA, hence forth KT) that covers a wide range of topics especially
 pediatrics.  
-2\) The investigation of the early kaumAra mythology and liturgy leads
-to the same KT that has extensive chapters on kumara and his graha-s,
+2) The investigation of the early kaumAra mythology and liturgy leads to
+the same KT that has extensive chapters on kumara and his graha-s,
 revatI, mukhamaNDikA and ShaShThi, and their pacification in the context
 of application of pediatric drugs. It provides the complete narrative of
 kAshyapa on how devI revatI dispatched by skanda destroyed the asura
 kanyA dIrghajihvI and others.  
-3\) The investigation of the early history of Hindu zoology — the study
+3) The investigation of the early history of Hindu zoology — the study
 of snakes, insects, arachnids and rodents leads to another kAshyapa
 saMhitA or the kAshyapa garuDa saMhitA (henceforth KS-G).  
-4\) The study of the successors of the atharvaN tradition on toxicology
+4) The study of the successors of the atharvaN tradition on toxicology
 and the link to the treatment of snake bites obviously leads to the same
 KS-G.  
-5\) The search of remnants of the once extensive shaiva garuDa tantra-s
+5) The search of remnants of the once extensive shaiva garuDa tantra-s
 also points to the KS-G which is the source book of several garuDa
 prayogas.  
-6\) The common section on magico-medicinal practices presented in the
+6) The common section on magico-medicinal practices presented in the
 tantric treatises of the ishAnashiva mishra and the Chera magician
 chenas nArAyaNan nambuthiripAD also suggest that their source was the
 same KS-G.
@@ -148,3 +151,4 @@ accompany the conventional medical practices typical of Hindu medicine.
 It provides one of the most detailed early accounts of pediatric
 practices and in this connection deploys several kaumAra prayoga-s to
 the kaumAra deities.
+

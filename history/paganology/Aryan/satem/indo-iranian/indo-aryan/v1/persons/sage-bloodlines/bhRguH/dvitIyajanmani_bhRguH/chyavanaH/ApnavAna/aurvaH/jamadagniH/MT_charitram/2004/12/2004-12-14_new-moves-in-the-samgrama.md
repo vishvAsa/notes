@@ -1,7 +1,11 @@
 +++
 title = "New moves in the saMgrAma"
+date = "2004-12-14"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/14/new-moves-in-the-samgrama/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/14/new-moves-in-the-samgrama/).
+
 We had beaten back the fierce thrust launched by our foes on our fort.
 We knew that we could fend off their assault as long as we held the
 fort. However, on realistically assessing the situation we realized that
@@ -26,4 +30,5 @@ The foes realized that we could not be beaten simply, especially because
 of the mantra prayoga we had performed to strengthen our arms in this
 mahAsaMgrAma. However, they have resorted to a long-draw attrition
 strategy instead, hoping that our karma wears out eventually. We have to
-learn patience, something we have had scanty reserves of.
+learn patience, something we have had scanty reserves of.  
+

@@ -1,7 +1,11 @@
 +++
 title = "Emperor Julian"
+date = "2006-07-27"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/27/emperor-julian/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/27/emperor-julian/).
+
 Many years ago when we were yapping away on the then latest production
 of the socialist academic Jared Diamond, Guns Germs Steel Blah blah, we
 turned our attention to two historical incidents which were reasonably
@@ -19,7 +23,7 @@ memetic infection of Isaism that had seized the European mind.
 
 It was at this point that our mind went back to the one great Hero of
 Rome, for whom we had the highest respect for long. There were a
-some respectable emperors of Rome, like Julius Caesar, Augustos, Marcos
+somerespectable emperors of Rome, like Julius Caesar, Augustos, Marcos
 Aurelius and the like, but of all of them we could relate most to the
 emperor Julian. He was the one man on whose fate the history of the
 world rested and swung the bad way, as though drawn by the downward turn
@@ -31,9 +35,7 @@ reigns, it began terrorizing and suppressing the old religion of the
 gods. But most remarkably, the nephew of Constantine, Julian, was poised
 to reverse this evil, when fate snatched his life away. His parents and
 brothers, all had been killed by his cousin Constantius, and he was the
-only survivor of their clan other than former. 
-
-Julian had been forcibly
+only survivor of their clan other than former. Julian had been forcibly
 brought up as a Isaist, but right from an early age he repudiated this
 barbarous evil, and was a secret worshiper of the gods. Secretly reading
 the heathen literature he became a capable scholar and then was
@@ -74,15 +76,15 @@ Luckily several of Julian’s writings survive and a person who is not
 tainted by an Abrahamism can get glimpses of the man. A true heathen
 alone today will immediately identify with Julian.
 
-- Firstly he realized that heathens needed name to call themselves in
+\*Firstly he realized that heathens needed name to call themselves in
 order to fight the “non-self” distinguishing Isaists. Thus he coined
 Hellenes, even as the only surviving heathens today, use Hindu to
 describe themselves in face of the Abrahamistic attacks.
 
-- He developed some order for the heathens so that they could withstand
+\*He developed some order for the heathens so that they could withstand
 the attack of the well-organized Isaist predators.
 
-- He supported and developed Neo-Platonism as the philosophical
+\*He supported and developed Neo-Platonism as the philosophical
 foundation of the heathen religion. This is most remarkable because
 Neo-Platonism if correctly understood is remarkably parallel to the
 development of the Astika darshana-s in the Indic world, with close
@@ -91,14 +93,14 @@ common philosophical frame work for Roman religious elements equivalent
 to the temple-Agamic, tantro-yogic and vedic sacrificial religion of
 India.
 
-- He identified himself with the both old sacrificial religion to the
+\*He identified himself with the both old sacrificial religion to the
 old deities and the “mystery” rituals of Neo-Platonic provenance. Here
 he was remarkably parallel to the highest brahmin savants of the
 medieval period who was simultaneously comfortable with the shrauta and
 tantric rituals.
 
-- He launched doctrinal attacks on the foundations of Isaism, rather
-than merely terrorizing them with his state apparatus and was pretty
+\*He launched doctrinal attacks on the foundations of Isaism, rather
+thanmerelyterrorizing them with his state apparatus and was pretty
 mild on them for all the vandalism of heathen temples and altars they
 had engaged in.
 
@@ -111,10 +113,10 @@ Within his fabricative mind concealed,
 A triad formed of splendid solar gods;  
 From whence the world’s all-various forms emerged”
 
-- offspring of the almighty Jupiter: nepot magnus Jovis and the famed
+\*offspring of the almighty Jupiter: nepot magnus Jovis and the famed
 epithet “divo napAta” or “asuro mahodivaH” immediately resonate to one
 linked to his cultural past.  
--  A triad formed of splendid solar gods: A heathen with an unbroken
+\* A triad formed of splendid solar gods: A heathen with an unbroken
 link to his past can immediately see the link to that ancient motif– to
 the 3 Aditya’s hymned by the R^iShi’s of yore: mitra, varuNa and
 aryaman.
@@ -126,8 +128,9 @@ Because thy vigorous beams like arrows pierce,
 And totally, whatever of measure void the world  
 Inordinate or dark contains, destroy.”
 
-- Old sages praise the arrow-darting god: We will immediately recall the
+\*Old sages praise the arrow-darting god: We will immediately recall the
 praises of our ancestors to sharva who showers his arrows even as
 Apollo– sharva=the arrow-darting god.
 
 He was truly a great man with the true connection to the gods.
+

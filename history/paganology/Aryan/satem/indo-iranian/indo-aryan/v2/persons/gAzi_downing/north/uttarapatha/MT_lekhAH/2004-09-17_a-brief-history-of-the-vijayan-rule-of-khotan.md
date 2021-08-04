@@ -1,7 +1,11 @@
 +++
 title = "A brief history of the Vijayan rule of Khotan"
+date = "2004-09-17"
+upstream_url = "https://manasataramgini.wordpress.com/2004/09/17/a-brief-history-of-the-vijayan-rule-of-khotan/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/09/17/a-brief-history-of-the-vijayan-rule-of-khotan/).
+
 Nilakantha Shastri brings attention to the Indian rulers of Khotan and
 has attempted to reconstruct their chronology from various sources.
 
@@ -70,3 +74,4 @@ Mohammedan armies poured in. The king and his army died fighting the
 invaders. The city was looted and the idols of gold with gems studded in
 them were melted down. The male population was massacred and the women
 taken. Thus ended last Hindu kingdom in Central Asia in its final blaze.
+

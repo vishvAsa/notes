@@ -12,11 +12,14 @@ title = "Pfizer-BioNTech"
 - 91.3% efficacy even after 6 months.
 - Immune response after mRNA vaccinations after 2 doses demonstrated good and safe antibodies 8 weeks later. The efficacy against mutants was slightly reduced.
 - Both the Pfizer and Moderna vaccines are 10 times less effective against the South African variant
-- Pfizer vaccine is effective 70-75% against the B 1.617.2 variant found in India.
 
 ### B 1.617
+#### Symptomatic disease
 - After 1st dose     33.2%
 - After  2nd dose    87.9%  effectiveness.
+
+#### Hospitalization
+- 2 doses - 96% effective
 
 
 ## Severe Adverse reactions

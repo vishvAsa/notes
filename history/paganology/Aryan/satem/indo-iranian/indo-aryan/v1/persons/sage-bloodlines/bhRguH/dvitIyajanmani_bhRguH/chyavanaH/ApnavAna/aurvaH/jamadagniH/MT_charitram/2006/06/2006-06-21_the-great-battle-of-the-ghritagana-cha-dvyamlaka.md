@@ -1,7 +1,11 @@
 +++
 title = "The great battle of the ghR^itagaNa cha dvyAmlaka"
+date = "2006-06-21"
+upstream_url = "https://manasataramgini.wordpress.com/2006/06/21/the-great-battle-of-the-ghritagana-cha-dvyamlaka/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/06/21/the-great-battle-of-the-ghritagana-cha-dvyamlaka/).
+
 While we were still being relentless hammered by the shiva-yuvatI of
 mahArudra, we decided to attend to the long-standing battle where the
 young yoddha was faltering. It was the glorious quest of what was
@@ -34,3 +38,4 @@ heavenly soma cup; her charms like the octet of mayura. The brief
 respite it gave from the hammering of the adverse edge of the
 downward-turning chakra of the kali age was like the single rain shower
 in the Namibian desert.
+

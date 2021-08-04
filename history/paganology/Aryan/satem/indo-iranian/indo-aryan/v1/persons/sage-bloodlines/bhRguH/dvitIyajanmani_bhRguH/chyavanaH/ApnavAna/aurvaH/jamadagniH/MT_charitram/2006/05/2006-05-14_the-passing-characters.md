@@ -1,7 +1,11 @@
 +++
 title = "The passing characters"
+date = "2006-05-14"
+upstream_url = "https://manasataramgini.wordpress.com/2006/05/14/the-passing-characters/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/05/14/the-passing-characters/).
+
 Fancying myself as the wandering vrAtya I wandered in the mAnuSha lokaH.
 I noticed many leaving images in the eye and then in the brain. At face
 value these images are useless, but who knows, they may be the
@@ -39,3 +43,4 @@ various pAnaka-s and eating cullinary delights. We moved to him, who was
 endowed with all the splendor and humbly asked how is it that he had
 come to be thus favored by maghavan. He pointed to the tulA above the
 vR^ishchika. We had learned the lesson of the tulAdhara.
+

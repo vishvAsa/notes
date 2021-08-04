@@ -1,7 +1,11 @@
 +++
 title = "navagupta’s abhichAra"
+date = "2005-03-17"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/17/navaguptas-abhichara/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/17/navaguptas-abhichara/).
+
 sha\~Nkara bhagavatpAda had defeated the famous tantric navagupta of the
 pITha of kAmarUpa in a debate. navagupta unable to come to terms with
 his defeat invoked chAmuNDA with oblations of twigs dipped in menstrual
@@ -18,3 +22,4 @@ worship kumAra at kumAra parvata to rid himself of the disease. It here
 that he composed the famous poem to the god in the bhuja\~Nga meter.
 
 //oM kShauM//
+

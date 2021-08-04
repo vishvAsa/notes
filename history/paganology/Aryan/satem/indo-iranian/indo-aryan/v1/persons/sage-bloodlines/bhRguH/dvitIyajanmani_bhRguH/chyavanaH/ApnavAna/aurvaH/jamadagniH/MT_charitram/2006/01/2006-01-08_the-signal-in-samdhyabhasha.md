@@ -1,7 +1,11 @@
 +++
 title = "The signal in saMdhyAbhASha"
+date = "2006-01-08"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/08/the-signal-in-samdhyabhasha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/08/the-signal-in-samdhyabhasha/).
+
 We invoked the wondrous yakShini ullAsamekhalA again. She appeared in
 the first of her forms ‘OJ’. We asked where does the high one go? She
 manifested in her second form ‘GW’. It was 10 times more dazzling than
@@ -20,4 +24,5 @@ yonder peak of the gandharva.”
 Then she said: “meditate first on me ullAsamekhalA, and then on hanumat
 before the leap.”
 
-oM hriM shrIm nityadrave mada ullAsamekhalA shrIM hrIM||
+oM hriM shrIm nityadrave mada ullAsamekhalA shrIM hrIM\|\|
+

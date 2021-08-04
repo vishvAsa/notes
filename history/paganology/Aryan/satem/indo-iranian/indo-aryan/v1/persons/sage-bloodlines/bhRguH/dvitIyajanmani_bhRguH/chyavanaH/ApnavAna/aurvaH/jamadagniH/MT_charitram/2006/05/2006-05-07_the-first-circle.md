@@ -1,7 +1,11 @@
 +++
 title = "The first circle"
+date = "2006-05-07"
+upstream_url = "https://manasataramgini.wordpress.com/2006/05/07/the-first-circle/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/05/07/the-first-circle/).
+
 There we moved swiftly on our vAhana and placed it on the stalls. The
 two shUdra-s kR^iShNamukha and shUdra-shiromaNi met us at the ashvashAla
 where we kept our horses. One of the shUdra-s asked, O foreign brahmin,
@@ -37,3 +41,4 @@ black locks the monsoonal clouds blown by the malaya-marut and her lips
 with the teeth his flag, and her sushroNi his rathachakras. We wondered
 like upahAravarman in daNDin’s novel as to what we were witnessing… Here
 ends the first circle.
+

@@ -1,7 +1,11 @@
 +++
 title = "Some considerations on Neoplatonism"
+date = "2006-08-16"
+upstream_url = "https://manasataramgini.wordpress.com/2006/08/16/some-considerations-on-neoplatonism/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/08/16/some-considerations-on-neoplatonism/).
+
 I have always believed, since I was probably 11 years old, that it was
 important to study Neoplatonic thought and ritual. This is particularly
 important because it was one of the sister systems of our own, and was
@@ -47,3 +51,4 @@ upaniShad-s chosen from within the shruti in the Hindu world. Thus even
 the yavana-s saw the need for a canon of texts that were considered a
 divine pramANa, just as the shruti in India. We will expand a little
 more and its historical implications a little later.
+

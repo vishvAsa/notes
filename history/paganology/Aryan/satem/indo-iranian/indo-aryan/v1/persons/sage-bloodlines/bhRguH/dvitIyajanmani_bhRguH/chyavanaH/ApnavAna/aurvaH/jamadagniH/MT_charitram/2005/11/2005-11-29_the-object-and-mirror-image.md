@@ -1,7 +1,11 @@
 +++
 title = "The object and mirror image"
+date = "2005-11-29"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/29/the-object-and-mirror-image/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/29/the-object-and-mirror-image/).
+
 We had assembled for the gathering- me, durmukha, maireyapayin,
 mUlApasmara, vAta vyAdi, mlechCha sundarI, kavargA, harir-bArava all
 sahakuTumba. Glad to have escaped the tIkShNa hima we settled down to
@@ -30,15 +34,15 @@ the shrine of rudra. Some people had heroically lifted tridents weighing
 over 300 kgs in weight cooperatively in their pious observance of the
 vrata. It is the most awe-inspiring shrine of all the shrines of
 mahAkAla and the mantra automatically came to our mouth:  
-ávocAma námo asmA avasyávaH shR^iNótu no hávaM rudró marútvAn |  
+ávocAma námo asmA avasyávaH shR^iNótu no hávaM rudró marútvAn \|  
 It looked as though the most terrible rudra himself stood there
 surrounded by the maruts bearing tridents. From the heights of
 Chauragarh one could enjoy the finest sights in India. We felt one with
 the terrible pashupati, who was roaming around in the air, the waters in
 the plants and the animals of which he is the lord. The elemental nature
 of the deity known as bhava and sharva was felt in the air and to our
-mind came the formula: nainaM sharvo na bhavo neshAnaH | nAsya pashun na
-samAnAn hinasti ya evaM veda ||  
+mind came the formula: nainaM sharvo na bhavo neshAnaH \| nAsya pashun
+na samAnAn hinasti ya evaM veda \|\|  
   
 After the heavy excercise of the climb we came back down to enjoy a late
 evening tiffin and a chat in the verandah. Everything was a pleasure to
@@ -61,12 +65,13 @@ look into a mirror and saw everything except my own image. I wondered
 why. I was told that the rAkshasi had sucked the image and I will see it
 in the rAkshasi’s mouth 16 years later.  
 …..  
-The news of the three Kartiks reached us: \#1 had died mysteriously; \#2
-had received the required punishment. \#3 was enjoying the pinnacle of
+The news of the three Kartiks reached us: #1 had died mysteriously; #2
+had received the required punishment. #3 was enjoying the pinnacle of
 his success. (amAtya now codenamed yoni) . Yoni in the midst of the
 samUha of dadhnakAyA, vitarAsyA and ati-dadhnA was the only one who had
 lost the game of dice. The rest had pocketed their share of wealth and
 were wending their way confidently. Yoni asked where is my share. I too
 thought I had won, just like the above said. I cast the die and I
 thought I saw “Six”. The answer came in the mouth of the rAkShasi, also
-known as the burning lap of nirR^iti.
+known as the burning lap of nirR^iti.  
+

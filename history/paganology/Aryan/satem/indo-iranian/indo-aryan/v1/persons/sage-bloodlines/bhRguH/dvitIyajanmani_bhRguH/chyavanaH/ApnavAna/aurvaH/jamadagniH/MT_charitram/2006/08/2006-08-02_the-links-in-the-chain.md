@@ -1,7 +1,11 @@
 +++
 title = "The links in the chain"
+date = "2006-08-02"
+upstream_url = "https://manasataramgini.wordpress.com/2006/08/02/the-links-in-the-chain/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/08/02/the-links-in-the-chain/).
+
 Our ancestors went to the great asura medhira when they were in such a
 state. But this time we went to deva indra. We extolled the great
 vR^itrahan: you who gave the yati-s to hyaenas, you who smashed the
@@ -19,7 +23,7 @@ fought beyond the city of pot-graves, the amAtya and shachIva thought
 they were seeing victory and wanted to press hard. But I bade you to
 stop near the cow-stall. There when you dismounted the ratha you saw the
 elusive Mercury close to the horizon. Then you composed this
-[ditty](http://manasataramgini.wordpress.com/2003/10/guillotines-fall.html). I
+[ditty](http://manollasa.blogspot.com/2003/10/guillotines-fall.html). I
 made sure you came out on the otherside of the blade. But then I measure
 out things in different measures for all. The balance goes up and down.
 So I took 2 wicks, and showed them to the loka of mAnuShas. You mAnuShas
@@ -50,3 +54,4 @@ to proceed to asi-parvata but on its foot sits a rAkShasa, on account of
 which I have lapsed to in sorrow. Transmitting signal. “2 phantoms. 1
 silver. 2 gold. gold sought. but phantom. take gold, trivikrama’s
 daughter. Mn poked by crane again. AmAtya saves him with paste.”
+

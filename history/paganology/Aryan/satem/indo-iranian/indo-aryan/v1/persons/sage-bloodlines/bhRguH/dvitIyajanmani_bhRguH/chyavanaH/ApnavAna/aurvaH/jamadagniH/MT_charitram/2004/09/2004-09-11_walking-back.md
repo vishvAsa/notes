@@ -1,7 +1,11 @@
 +++
 title = "Walking back"
+date = "2004-09-11"
+upstream_url = "https://manasataramgini.wordpress.com/2004/09/11/walking-back/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/09/11/walking-back/).
+
 I had been chatting somewhat wastefully with an acquaintence of mine, on
 topics ranging from the awful goddess dhumAvati to certain internet
 personalities. Thereafter I was just planning to leave when I saw a call
@@ -33,4 +37,5 @@ back towards my dwelling. I heard what she had to say. To my surprise,
 all that penance was like that of the buddha. ST sounded renunciatory,
 like the ascetic described by shAkAyaNya, she was seeing truth in the
 path of saMnyAsa. In the dim light of the street lamp, I looked at her,
-from a kamalA she had transformed to a dhumAvati.
+from a kamalA she had transformed to a dhumAvati.  
+

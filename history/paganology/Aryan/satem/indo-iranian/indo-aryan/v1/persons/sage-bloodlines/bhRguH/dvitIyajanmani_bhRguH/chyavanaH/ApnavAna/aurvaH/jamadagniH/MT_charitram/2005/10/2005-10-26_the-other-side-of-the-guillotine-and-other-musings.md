@@ -1,7 +1,11 @@
 +++
 title = "The other side of the guillotine and other musings"
+date = "2005-10-26"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/26/the-other-side-of-the-guillotine-and-other-musings/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/26/the-other-side-of-the-guillotine-and-other-musings/).
+
 What ever happened after we passed on to the other side of the
 guillotine we were not sure. Evidentally at that point we did not know
 if the guillotine had fallen or not. In reality the English encounter
@@ -40,3 +44,4 @@ shattered by the dhUmavatI and became unmatta. Mn of greatest power and
 intelligence was subdued by the uchChuShma. The piShAchi was sucking us
 dry, and it looked as though we were hanging as though from a spider’s
 web.
+

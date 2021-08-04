@@ -1,7 +1,11 @@
 +++
 title = "The end of Sambhaji"
+date = "2004-06-13"
+upstream_url = "https://manasataramgini.wordpress.com/2004/06/13/the-end-of-sambhaji/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/06/13/the-end-of-sambhaji/).
+
 After the death of [Hambirrao
 Mohite](https://manasataramgini.wordpress.com/2004/06/02/the-death-of-hambirrao/),
 the Mogol armies pressed hard on the Maharattas forcing them to the
@@ -144,3 +148,4 @@ literature especially the vAlmIki rAmAyaNa and his ability to versify in
 that language. He was also at the forefront of performing shuddhi to
 restore brahmins converted by the Moslems and ensuring that the Hindu
 dharma’s practice is not adulterated in svarajya.
+

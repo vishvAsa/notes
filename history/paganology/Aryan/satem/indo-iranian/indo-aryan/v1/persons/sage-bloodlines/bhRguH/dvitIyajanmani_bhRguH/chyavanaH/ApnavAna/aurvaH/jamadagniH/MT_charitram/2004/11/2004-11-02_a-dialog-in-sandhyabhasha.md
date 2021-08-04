@@ -1,7 +1,11 @@
 +++
 title = "A dialog in sandhyAbhASha"
+date = "2004-11-02"
+upstream_url = "https://manasataramgini.wordpress.com/2004/11/02/a-dialog-in-sandhyabhasha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/11/02/a-dialog-in-sandhyabhasha/).
+
 R called me to describe her views on the lalitArchanachandrika. This
 lead to a discussion of the sandhyAbhASha used in the text. So we had
 this conversation in mlechChita-manipravala SB.  
@@ -20,3 +24,4 @@ R: “Indeed that seems like a shakuna. But the inner nAlika seems to be
 functional.”  
   
 I: “Ananda- will the root of that work”
+

@@ -1,7 +1,11 @@
 +++
 title = "The wheel on Jx’s head"
+date = "2005-04-02"
+upstream_url = "https://manasataramgini.wordpress.com/2005/04/02/the-wheel-on-jxs-head/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/04/02/the-wheel-on-jxs-head/).
+
 The last wick of bhairavAnanda does not fall before one goes under the
 wheel. We saw Jx with the wheel spinning on his head. We asked him- hey
 Jx how did you get that wheel on your head. And lo behold, the wheel
@@ -18,9 +22,10 @@ grim.
 …  
 It looked as though the kR^ityA had hit her target — She was uprooting
 everything in its path. One after the other our kavachas were failing.
-We cannot even inform the muni of our fate \!\! We have been thus
-blocked by the kR^ityA.  
+We cannot even inform the muni of our fate !! We have been thus blocked
+by the kR^ityA.  
 …  
 Definitely we had hit the nadir of our existence– or was there worse —
 we were just amazed at the noose of fate– it drags you without you being
 able to do anything right into naraka.
+

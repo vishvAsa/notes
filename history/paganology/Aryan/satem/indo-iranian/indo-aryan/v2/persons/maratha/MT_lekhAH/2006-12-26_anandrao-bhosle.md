@@ -1,15 +1,18 @@
 +++
 title = "Anandrao Bhosle"
+date = "2006-12-26"
+upstream_url = "https://manasataramgini.wordpress.com/2006/12/26/anandrao-bhosle/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/12/26/anandrao-bhosle/).
+
 This remarkable issue was brought to my attention by a person who
 specifically wishes to remain un-named on these pages on account of
 certain private reasons related to this narrative. It is clear that
 Shahji was a rather distinguished military leader and he had transmitted
 this genetically influenced trait to not only his famous son Shivaji,
 but also the forgotten elder son
-[Sambhaji](http://manasataramgini.wordpress.com/2006/07/some-notes-on-shahji-and-sambhaji.html).
-
+[Sambhaji](http://manollasa.blogspot.com/2006/07/some-notes-on-shahji-and-sambhaji.html).
 In reality he also passed these genes on to another son who has been
 largely forgotten in modern Maharatta histories. When Shahji was was in
 Bijapur having left his wife in the environs of Pune, he secretly took
@@ -28,9 +31,7 @@ Pune after leaving Shahji at Bijapur”. Shivaji appointed both of them to
 the rank of Panch-hazari (commander of 5000), which was a high rank in
 the Maratha army of the time that could possibly be attained only due
 high military ability or perhaps genetic relationship in the case of
-Anandrao. 
-
-In any case Anandrao clearly proved himself to be of high
+Anandrao. In any case Anandrao clearly proved himself to be of high
 military distinction. They were placed under the Sarnobat of the Maratha
 army, Prataprao Gujjar and marched with him for the attack on Surat.
 Following the plundering of Surat, Daud Khan Quereshi led the Moslem
@@ -49,18 +50,14 @@ by the divisions of Daud Khan, Ikhlas Khan, Diler Khan and Bahadur Khan.
 Diler Khan began a systematic massacre of Hindus in the vicinity of Pune
 to draw Shivaji away while Ikhlas Khan took Salheri and Mulher forts in
 the north. In the fierce encounter Shivaji’s childhood friend Suryarao
-Kakde was killed. 
-
-Shivaji immediately dispatched his brAhmaNa prime
+Kakde was killed. Shivaji immediately dispatched his brAhmaNa prime
 minister Moropant Pingle along with Prataprao and Anandrao to destroy
 Ikhlas Khan. They took the Mogol army on the open field — an important
 point in Hindu history because it showed the Marathas were now fully
 capable of engaging the one of the best equipped and most ably lead
 forces of the world in plain open combat. Anandrao showed exemplary
 valor in this this battle in which the Mogols faced a major defeat with
-several thousands dead. 
-
-This phenomenal victory, one the greatest of
+several thousands dead. This phenomenal victory, one the greatest of
 Shivaji’s army, was in no small part due to the strategy and on-field
 leadership of the brAhmaNa Moropant Pingle, but the valor of Anandrao
 and Prataprao on the field were equally important. They captured the
@@ -79,19 +76,17 @@ dispatched his half-brother Anandrao and commander Prataprao, each with
 around 7500 troops to preemptively attack Bijapur. The Maratha generals
 rapidly surged forth and fell on Bahlol Khan at Umrani close to Bijapur
 before the Mogols could join him. On a hot April day the Marathas
-cut off the water supply of the Moslems and fell upon them in a
-combined attack by Prataprao and Anandrao. The Moslems were completely
-outclassed in the fierce battle, the Marathas routed them, and Bahlol
-Khan was completely surrounded by the former. He secretly sent a message
-to Prataprao saying that he had no intention to fight Shivaji and was
-only making a show. Prataprao foolishly fell to the ploy and let Bahlol
-Khan go scotch-free. 
-
-Prataprao then continued on to invade the Kannada
+cutoff the water supply of the Moslems and fell upon them in a combined
+attack by Prataprao and Anandrao. The Moslems were completely outclassed
+in the fierce battle, the Marathas routed them, and Bahlol Khan was
+completely surrounded by the former. He secretly sent a message to
+Prataprao saying that he had no intention to fight Shivaji and was only
+making a show. Prataprao foolishly fell to the ploy and let Bahlol Khan
+go scotch-free. Prataprao then continued on to invade the Kanada
 country. Bahlol Khan retaliated with a replenished army and defeated the
 Maratha army. A little later on vijaya dashami day Shivaji worshiped
 bhavAnI and initiated a new campaign as he saw it as holy moment for
-war. He invaded the Kannada country again with the aim of taking both the
+war. He invaded the Kanada country again with the aim of taking both the
 uplands and the coast, when he got the news that Bahlol, who was let off
 by his Sarnobat, was returning to attack him. Furious, Shivaji sent a
 stinging letter to Prataprao that he need not show his face again until
@@ -102,9 +97,7 @@ fording the pass of Nessari just south of Kolhapur. He responded
 impulsively and charged at the Moslems with just 6 other men leaving the
 rest of his army far behind. What followed was a disastrous encounter in
 which the seven heroes went down fighting in a blaze, leaving a trail of
-slaughtered enemy troops. 
-
-Shivaji deeply regretted his letter that lead
+slaughtered enemy troops. Shivaji deeply regretted his letter that lead
 to his ace general’s death and made sure that his clansmen were
 well-provided and promised Rajaram to Prataprao’s daughter. Anandrao
 Bhosle was now made acting Sarnobat and Shivaji asked him to punish the
@@ -114,25 +107,20 @@ this point the Mogol army under Diler Khan came to the aid of Bahlol
 Khan and fell on Anandrao. Anandrao seeing himself outnumbered decided
 to resort to the classic tactic of feigned retreat like that used by the
 Mongols and with his cavalry rode into Karnataka at extraordinary speed.
-
 The Khans unable to keep up gave up, with Bahlol Khan retreating to
 Kohlapur, which he had taken earlier, and Dilir retreating northwards
 after a failed attempt on Panhala. Within a month Anandrao struck at
 Sampgaon near Bankapur which was Bahlol Khan’s jagir and looted his
 treasury carrying away 150,000 gold coins and 3000 ox-loads of other
-plunder. He demolished a Dutch outpost there and plundered it. 
-
-Alarmed
+plunder. He demolished a Dutch outpost there and plundered it. Alarmed
 Bahlol Khan and Khizr Khan tried to intercept the Marathas, but Anandrao
 led a strong retaliation killing Khizr Khan and his brother and putting
 to flight Bahlol Khan. In the process the Marathas captured several
 war-elephants, several hundreds of horses and the Khan’s cash reserves.
 He then avoided any further brushes with the enemy and rapidly retreated
-to the Maratha territory. 
-
-Soon there after Shivaji held a grand review
+to the Maratha territory. Soon there after Shivaji held a grand review
 of troops at Chiplun in the Konkan and appointed [Hambirrao
-Mohite](http://manasataramgini.wordpress.com/2004/06/death-of-hambirrao.html)
+Mohite](http://manollasa.blogspot.com/2004/06/death-of-hambirrao.html)
 as the Sarnobat in place of Prataprao, recognizing his great deeds in
 the attack on the Mogols during the invasion of Baglana, Khandesh and
 Ahmedabad.
@@ -142,9 +130,7 @@ India: In early 1678 Anandrao led a division of troops along with
 Shivaji in the capture of Lakshmeshvar and Gadag in Karnataka from the
 Adilshahi control. In middle of the same year he along with the able
 brAhmaNa general Hanumante conquered the fort of Vellore from the Adil
-Shahis and took the region. 
-
-He was then sent north by Shivaji in the
+Shahis and took the region. He was then sent north by Shivaji in the
 next year to deal with the Mogol garrison in central Maharastra near
 Akola. He scored a great victory on the Mogols capturing the fort of
 Balapur from them. Then in late 1679 when Dilir Khan invaded Bijapur,
@@ -153,9 +139,7 @@ Shivaji facing a possible 3 front war invaded Khandesh along with
 another division under Hambirrao Mohite to counter-attack the Mogols
 while he sent Anandrao with 10,000 troops to pincer the Mogols by
 appearing before Bijapur. Angre was dispatched to lead the Maratha navy
-against the Britons. 
-
-Anandrao moved just south of Pandharpur and
+against the Britons. Anandrao moved just south of Pandharpur and
 attacked the Mogol army. Through a constant series of harrying attacks
 he kept frustrating Dilir’s attempts to besiege Bijapur. Dilir to his
 alarm realized that he might be caught between two Maharatta armies
@@ -175,3 +159,4 @@ rank without a scandal. Perhaps Shivaji was also concerned that his
 blood relationship to Anandrao might have possible consequences on his
 successors if he legitimized his half-brother with a formal high
 appointment.
+

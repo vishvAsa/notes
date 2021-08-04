@@ -1,7 +1,11 @@
 +++
 title = "The last stretch"
+date = "2005-04-20"
+upstream_url = "https://manasataramgini.wordpress.com/2005/04/20/the-last-stretch/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/04/20/the-last-stretch/).
+
 We stood at the last stretch of the passage. Hence, we wanted to comment
 on somethings as they represent our very last comments in this phase of
 existence. As we remarked before we do not know if we shall speak of the
@@ -47,3 +51,4 @@ our aid?
     Röslein auf der Heiden.
 
 Johann Wolfgang von Göthe
+

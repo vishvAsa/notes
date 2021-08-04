@@ -1,7 +1,11 @@
 +++
 title = "Do we have control over our decisions/actions"
+date = "2006-12-07"
+upstream_url = "https://manasataramgini.wordpress.com/2006/12/07/do-we-have-control-over-our-decisionsactions/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/12/07/do-we-have-control-over-our-decisionsactions/).
+
 We set out on an utterly free afternoon on a long and interesting drive
 towards the place known as the Sahayadri. We passed by Mis-creant’s
 house but resisted the temptation to call on her, then we passed the
@@ -21,9 +25,7 @@ that point, and reached me to ask if they were my productions. I heaved
 a sigh of relief that I had hardly mentioned Sujata on these pages. I
 was struck by the fact this ancient friend of mine could recognize me
 from my style of writing after more than 16 years. I never knew it
-remained so distinctive after all this time. 
-
-I ran into an aged
+remained so distinctive after all this time. I ran into an aged
 mathematician who developed algorithms for text similarity recognition
 on the elevator. He told me that his latest algorithm identified a
 strong signal in all my writings on distinct scientific topics with a
@@ -31,9 +33,7 @@ high level of confidence. So may be even the neural networks in my
 friend’s brain did the same. However, it did trigger some panic: What if
 some names mentioned on these pages in saMdhyA bhAsha figure the
 identity of the writer in the same way. But it also triggered other
-darker thoughts.
-
-Well over 16 years had passed by, and we saw that we
+darker thoughts. Well over 16 years had passed by, and we saw that we
 were no youngsters now. That fire of youth seemed a thing of the past,
 almost like the condemnation from sha\~Nkara’s poem, inspired by a
 dotard trying to master paNini’s DukR^i\~nkaraNa. Yet, there were some
@@ -78,12 +78,11 @@ I had then answered my friend in a manner that remains surprisingly
 unaltered. Some may think that such thinking is the cause for the big
 mistakes in the game of life, while others might point out that
 precocious wisdom is of no value.  
-
-No\! We do not have control over our decisions or actions. The net
-vector of our decisions and actions is the resultant of our biology and
-the external inputs that the biological learning system receives. There
-are many innate signals, most of which we do not completely understand,
-but clearly all evidence is in the favor of our tendencies being
+No! We do not have control over our decisions or actions. The net vector
+of our decisions and actions is the resultant of our biology and the
+external inputs that the biological learning system receives. There are
+many innate signals, most of which we do not completely understand, but
+clearly all evidence is in the favor of our tendencies being
 biologically determined. Hormones are the strongest and best understood
 of our biological determinants: testosterone and estrogen are the
 foremost. Then there are the neuropeptides some of which might be
@@ -105,3 +104,4 @@ that decisions or actions do not efface fitness of the organism with a
 high probablity. Those of us who make those big mistakes in life may be
 at the adverse edge of natural selection, much as a shishupAla’s head in
 the the pANDava sabha.
+
