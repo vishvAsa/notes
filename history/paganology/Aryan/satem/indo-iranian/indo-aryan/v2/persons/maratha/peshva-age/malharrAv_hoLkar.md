@@ -2,7 +2,7 @@
 title = "malharrAv hoLkar"
 
 +++
-Fine and loyal general, whose initial impetuosity was tamed by bAji-rAv. He served under several successive peshvas - right up to mAdhavrAv - and was the major arm of the marATha-s in north India.
+An able but hard to control general, whose initial impetuosity was tamed by bAji-rAv. He served under several successive peshvas - right up to mAdhavrAv - and was the major arm of the marATha-s in north India.
 
 An encounter with mAdhavrAv:
 
