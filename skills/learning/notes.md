@@ -31,10 +31,26 @@ title: Notes
 - When reading original works, add annotations in alternate color, size, style etc..
 - Use an system which facilitates easy updates - markdown + jekyll/ hugo + github + wiki-like-theme.
 
+## Typed texts
+- I love to read typed texts since they can be searched, digized and saved on the cloud, presented in various ways etc..
+
+### Organization
+- I typically like to save texts (with notes) as markdown files, transformed into html by Hugo static website generator for online presentation and reference (using the [sanskrit-documentation-theme](https://github.com/sanskrit-coders/sanskrit-documentation-theme-hugo)).
+- I like to separate out different chapters/ parts into separate files, so that the text does not become overwhelming (scrolling can be an irritant).
+- For repeated sections, I like to use javascript includes. For example, the same set of verses may appear in multiple pages - rather than having to maintain/ fix/ annotate the same text in multiple files, I just create a separate file and include it where needed.
+
 ## Annotation
+### Markdown text presented with Hugo
+- I mark specially important words by making them **bold** or _italic_. Eg. the verb and the main subject in a sanskrit verse.
+- I like to split sanskrit text - eg. इत्य् अलम्, rather than इत्यलम्.
+- To save labor upon rereading, I add text (indicating meaning or root or ellipsis/ अध्याहार) presented in a different font. Eg. संवृतः, कलः+++(=स्थानान्तरनिष्पन्नः)+++, ध्मातः. +++(यद्यपि प्रत्ययविध्यर्थो गर्गादीनां पाठः)+++ अस्त्य् अन्यत्.
+  - This I also use to mark corrected text. Eg. अतः 'गावी'शब्दः गौः इत्यर्थे +++(~~न~~)+++ अपशब्दः ।
+- I like to scores phrases or verses for beauty or importance - 1/5 to 5/5. Eg: न चेदानीम् आचार्याः सूत्राणि कृत्वा निवर्तयन्ति ॥+++(5)+++
+
 ### Physical books
 
 With physical books, I like to mark (with a pencil):
+
 - words that are new to me (with meanings)
 - words and phrases that I find beautiful
 - grammatical flaws
