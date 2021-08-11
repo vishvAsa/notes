@@ -4,11 +4,19 @@ title: Greco Roman
 
 ## Greek waves
 - "One of the causes for the end of the Mycenaean civilization is held to be the invasion of another Greek group the Dorians. In Greek epics these invasions are believed to represent the return of the Heracleidai, he descendents of Herakles who set out to conquer Greece from the other rulers. From the historical view point it is interesting to note that the use of the script declined after the Dorian invasion even though the Dorians were Greek speakers and could have easily adapted the Linear B themselves." \[[MT11](https://manasataramgini.wordpress.com/2011/08/03/homers-illiteracy/)\]
+- Ancient greeks with Linear B script.
+
 
 ## Population turnover
-- Ancient greeks with Linear B script.
+- Northeast Mediterranean really seems to have been part of a different ecumene from rest of Europe until the Migration Period/ Barbarian Invasions. Migrations back & forth to places as diverse as Syria & Northern Anatolia, but only once from the north prior to 279 BC.
+- Modern Greeks are roughly 30% Yamnaya, judging from [SD202103](https://www.sciencedirect.com/science/article/pii/S0092867421003706).
+- Basil II’s reconquests & the Byzantine assimilation of the Slavs of Greece changed the composition of the Greeks dramatically. An Englishman has more blood from the Britons than a modern Greek has blood from the classical Greeks.
+
 - Depopulation ([SP15](https://twitter.com/Rjrasva/status/627290343080390656/photo/1), [BVP15](https://groups.google.com/d/msg/bvparishat/r4wVQaLJD7o/nUwnh_faIQAJ))
     - Emperor Augustus would introduce legislation to increase the birthrates of the Roman nobility.
+
+{{< figure src="../images/barbarian-invasions_into_roman-empire.png" title="" class="thumbnail">}}
+
 
 ### Etruscans
 > Fortunately, recent advances in the field of archaeo-genetics have managed to clear up the situation somewhat. Showing us that while the mitochondrial DNA of ‘Etruscan’ remains may indeed tend to tether them to the pre-Indo-European populations of the neolithic (something that had generated some excitement amidst those claiming the Etruscans as a Basque-style ‘Isolate’) … the Y-chromosome analysis suggested a rather more familiarly Indo-European descent was salient. [AA](https://aryaakasha.com/2020/04/30/on-the-indo-european-etruscans/)
