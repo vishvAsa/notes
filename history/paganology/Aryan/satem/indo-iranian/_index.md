@@ -2,7 +2,19 @@
 title = "+Indo-iranian"
 +++
 
-### Indo Iranian split
+## Steppe
+- "By sometime around 3200-2900 YBP a branch of the Aryans advanced deeply to the east. ...This new Indo-Iranian wave mixed with the East Asians in Mongolia... This gene flow was not very extensive in the eastern reaches but it brought the technology of horse+goat+sheep+cow diary pastoralism to the east. This appears to have been transferred without much genetic acquisition of the lactase persistence phenotype."
+- Population replacement ~50%. R1a1a is quite common among some central Asian populations, reaching levels of up to 60% among the Kyrgyz and the Tajiks. It is possible that the haplogroup expanded through central Asia and into northwestern India shortly before the arrival of agriculture, which arrived in the region shortly after 10,000 years ago.  (23andme)
+
+> Basically, the eastern Yamnaya ancestry has been sloshing around the steppe for thousands of years. After 2000 BC they were absorbed into Indo-Iranians, but their far eastern outliers, the Afanesievo maintained some cultural continuity in the form of the Tocharian languages.
+
+### Replacement
+- Central Asian waves led to close interaction with mongoloid people .:
+    - More [here](../Trans-eurasian/hunnic/).
+
+>  I think the steppe while home & cradle of the Indo-Europeans was not stable enough to sustain great empires & efflorescence like India or Iran. 1 could compare this with the Mogol& Turk invasions of inner Asia along with stabilization in the new lands they had conquered. In the case of the Islamics -- an efflorescence for them but a horror story for India. - MT
+
+## Indo Iranian split
 References: [MT19](https://twitter.com/blog_supplement/status/1171980782371561472).
 
 From multiple lines of evidence IA-IR split could have been at least 1900 BCE, and likely earlier:

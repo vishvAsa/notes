@@ -5,6 +5,8 @@ title = "Steppe remnants"
 ## Kurus
 > There were people with uniquely Indian admixture operating even in Central Asia around the time of the Aryan transition. This suggests that Indo-Aryan power was actually straddling their steppe base & northern India. I believe the memory of the former is that of the uttara-kuru-s. ... [I] hold that a branch of these steppe kuru-s re-emerged with another allied clan the kamboja much later on the Iranians side to form the elite of the hAkamAnashIya dynasty. - MT
 
+> Even the original Indo-Aryan confederation seems to have straddled the Indian & steppe zone to the north because Narasimhan et all reported at least 1 in the steppe with clear Indian admixture from roughly that time. - MT
+
 ## Massagetae
 Tomyris, a legendary female ruler who is said to have reigned for 50 years over the Massagetae kingdom.
 

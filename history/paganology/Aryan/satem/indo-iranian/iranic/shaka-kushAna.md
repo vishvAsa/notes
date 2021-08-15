@@ -8,10 +8,8 @@ title: shaka, kushAna
 - IA (including Tocharians) on the one hand, and huNa-s on the other mixed to produce shaka-s and wusun.
 - Hunnic admixture levels: Hun period nomads > Western Xiongnu/ Huns > Tian Shan Huns >  Tian Shan shaka-s > Wusun (Between Iranic and IA) > Kangyu (Eastern Iranic) > Andronovo
 - The steppe Iranics more and more shifted eastwards (genetically). See ethnogenesis of Turks for details.
-- Wusun of China were originally steppe Indo-Aryans before being absorbed into the Hunnic & Turkic Khaganates
-  - comes from *āswin (Old Chinese) > ashva (horse in Sanskrit)
 
-{{< figure src="../images/PCA_hun_shaka_wusun_Alan_Indians.png" title="" class="thumbnail">}}
+{{< figure src="../../iranic/images/PCA_hun_shaka_wusun_Alan_Indians.png" title="" class="thumbnail">}}
 
 
 ### Later remnants
