@@ -1,0 +1,11 @@
++++
+title = "Politics"
++++
+
+As a boy, I considered politics in my future. I am not in that camp that fashionably considers politics as "dirty". In fact, politics is the only way a society resolves important social questions peacefully. The alternative is to resolve them not-peacefully, i.e, war. I had not considered business at all as a path until much later. No one who knew me in boyhood and as a young adult would remotely consider me "savvy" enough to be in business. My mother would not trust me to go to the store to buy anything (even now she doesn't 😂).
+
+We often say "organizations have politics" like it is a pejorative thing. The truth is as soon as you have 2 people, you have politics. Married couples have politics. Politics is the art coming to a rough consensus or at least agreeing to disagree in a civil way.+++(5)+++ Once we stop seeing politics as a bad word, we can see the politics involved in a household, in a team, in an organization and that will help us understand the politics involved in a society. It is the same politics as in a household or a team, just a lot more complex.
+
+Surprisingly for some people, hard sciences and engineering involve politics. Technical fields go politically out of fashion and later come back in fashion. There is no "objective" way to understand the process except in terms of politics and personalities. My point is that running an organization involves political skills and not just technical skills and I don't want to devalue the word "political" to mean manipulative or dirty. I mean it as "figuring out people and their motivations and forging a rough consensus to act on".+++(5)+++
+
+Business schools try to make this process an "objective science" and I disagree.+++(5)+++ Management science is not like physics! My interest in politics and my political awareness from childhood is what (inadvertently) prepared me for the challenges of a running an organization.  The key organizational question is "how do we align the self-interests of our people to be able to serve the broader cause of meeting customer needs".+++(4)+++ The answer is necessarily contextual. The self-interest of people in a pandemic is to stay alive, for example.

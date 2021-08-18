@@ -1,0 +1,11 @@
++++
+title = "Hidden potential"
++++
+
+I believe the most important economic and social priority for India and other developing nations should be to acquire complex technological know-how. Global inequality is mainly driven by lack of know-how because economic value added primarily goes to those that have it.+++(5)+++ Even within countries, regions with complex technological know-how (such as San Francisco Bay Area or Bengaluru) do vastly better than places such as Stockton/Fresno (not far from SF) and Dharmapuri (not far from Bengaluru). This inequality has become deep and structural.
+
+The world cannot be at peace with such a frightening level of inequality, both within nations and across nations. Silicon valley thinkers propose ideas such as universal basic income and I am afraid this denies the have-nots the dignity and self-worth of earning one's way. There is a better way. It is possible to spread know-how and enable more people to be active participants in their own economic and spiritual well being. At Zoho, we long made a commitment to ourselves to hire people who would not have had an opportunity otherwise.
+
+There are now thousands of stories in Zoho of men and women from very modest backgrounds succeeding in complex work. I meet them every day. Most recently I have worked with a young team that builds sophisticated software tools and their parents are daily wage workers. Now that I have moved to a village in India, I get to meet many young people in whom I see innate talent that can flower if someone gave them an opportunity. This is one small village and there are 600,000 such villages in India.
+
+It has become a religious mission for me to figure out ways to unleash this hidden potential. I have set a goal for our upcoming small rural offices to not only be places of work but also take part in identifying and nurturing rural talent. I will share what we do, how we do it, what approaches worked and what didn't work widely as we learn more from our smalll rural work centers. I hope talented people from urban areas will consider this move. This is good for the world and it is also good for our own spirit.

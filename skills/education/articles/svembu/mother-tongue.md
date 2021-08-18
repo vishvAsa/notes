@@ -1,0 +1,7 @@
++++
+title = "Mother tongue"
++++
+
+I studied in Tamil as the medium of instruction till my 10th standard. Vast majority of Indian children study in their mother tongue, which is the custom world-wide except in a few former colonies. Yet economic opportunity is almost exclusively for the English educated. This fact becomes more painfully obvious in rural India. Not knowing English is something the average Indian carries like a shame. There really is only one way to erase it: universal schooling in one's own mother tongue throughout India with a strong second language program.
+
+German or Japanese or Chinese or Korean companies feel pride in using their own langauge. Yet in India we feel shame. To help address this, at Zoho Schools of Learning, we recruit heavily in Tamil medium schools. We use a mix of Tamil and English to convey complex material.+++(5)+++ What we are doing at Zoho is just a work-around and not a solution. We need to comprehensively reexamine our education policy with respect to medium of instruction. The elite of India (myself included) have to make it a habit to communicate in our mother tongue. This issue is a silent social divide in India and the Indians on the "other side" silently endure their lingiuistic second class status and all too often blame themselves for their fate. We have to address this in order to make broad based progress.

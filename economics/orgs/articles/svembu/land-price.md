@@ -1,0 +1,9 @@
++++
+title = "Land price"
++++
+
+The most important price that determines almost every other price and the cost of living is the price of land. Land prices increase very rapidly with population density. People collaborating with other and the resulting value added justifies higher land prices at first. Over time, as a location becomes too popular, land prices go up faster than local economic value added (local GDP).+++(5)+++ 
+
+Late arrivals to the hot location in effect work to provide an outsized return to lucky early residents who "got in" at the right time and the right price. This has the effect of increasing local inequality as more and more of wage income goes to rent or mortgage. Some people simply get priced out of the market altogether. We can see this in almost all the "desirable" big cities around the world. The problem has a solution.
+
+Young entrepreneurs are the solution. If you are not a landowner in a popular location (and most young entrepreneurs are not), do you want to pour your effort to provide even bigger returns to existing land owners?+++(5)+++ Because that's where a lot of the value added would go! Jobs go where job creators go. When Zoho started our office in Tenkasi, there was an apprehension "Can we find talent? Would people want to work in a small town/village setting?" 8 years and 500 people later, no one worries about that anymore. We have a lot of applicants. Smart young entrepreneurs should internalize this lesson. Your job is not to make the already landed even richer, but to create opportunities and wealth for your workforce and your community. Low land or rent costs give you a long runway too! You can survive mistakes.
