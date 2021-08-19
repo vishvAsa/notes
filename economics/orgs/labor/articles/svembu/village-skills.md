@@ -1,0 +1,7 @@
++++
+title = "Village skills"
++++
+
+(Source: https://threader.app/thread/1254925341786877952)
+
+When what we produce in a village does not get much value in exchange, our income is low.+++(5)+++ To raise income, we have to produce more valuable goods or services. We could also have people with higher productivity and income move in locally and spend some extra income locally. That second idea does not get enough attention. Yet it could play a key role in rural regeneration. If I get 10 well paid engineers to be located in a village of 1000 people and they start spending more of their income locally, it makes a meaningful difference quickly.+++(4)+++ Even in the very short term, it is helpful to local incomes. In the longer term, local skills grow and more village children aspire for high skilled jobs and learn the skills. We could rebalance the village economy with just 1% of the population in high skilled jobs. Of course if we can seed 1% by getting high skilled people to move to a village and then invest in training to create skilled jobs for another 1% of a village, the effect is a fairly substantial increase in overall village income, easily 2-3 times, due to all the multipliers. Seeding those 1% high paid jobs in a village is part of my agenda for Zoho. This is how we plan to redirect our jobs. I hope other entrepreneurs try similar ideas. Find a village you love and please don't overcrowd the same place - there are 600K villages in India alone! 
