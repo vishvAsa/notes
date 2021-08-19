@@ -1,0 +1,12 @@
++++
+title = "Machine tools"
++++
+(Source: https://threader. app/thread/1313996801402306560)
+
+I recently visited a textile spinning mill, one that converts raw cotton to yarn.  The yarn goes to weaving mills which weave the yarn to fabric.  The fabric eventually becomes clothing - that last part is where most textile jobs are, with the earlier parts highly automated.  
+
+The spinning mills and the weaving mills have highly sophisticated machinery, most of which are made in Germany, Switzerland and Japan.  These countries have had a long tradition of engineering focus and excellence. India has a lot to learn and catch up in this area. We need to revive our tool making culture and build a strong machine building focus in India. The economic impact of tool making and machine building is enormous.  I will discuss that now. 
+
+Under socialist dogma, India assumed "we only need labour intensive industry".  Wrong! The benefit of having a strong domestic machine tools industry is that the tools become more affordable and get widely deployed.  As a result , manufactured goods become more affordable to everyone. We see this in textiles where clothes have become widely affordable. Even in textiles, having more affordable machine tools will make the industry spread to parts of India that still don't have these mills.  Right now, only a few states in India have a strong textile industry, and it needs to spread wider.  Textiles are the crucial first step. 
+
+More broadly, if machine tools and capital goods of many kinds become more affordable, they spread wider. Assuming highly automated manufacturing, where do jobs appear? The services jobs we already do (teachers, nurses, plumbers, barbers . . ) get much higher real income! That last part is very important.  The spread of machine tools and automated manufacturing raises the real income of service workers because manufactured goods become much more affordable. That's why a Swiss barber can afford a car! In order to spark a manufacturing revolution in India, we need a strong machine tools revolution. That is how industrial capability and know how is built. I am starting to learn more about this area and will share what I learn.  🙏 
