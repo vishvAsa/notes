@@ -25,3 +25,14 @@ The reason it cannot go on much further is that the US itself, the prime mover o
 Countries like Italy and Greece face the same problem but since they are in the EU, Germany can basically "mutualize" their debt which is the same as Germany forgiving Italian and Greek debt. That's the only way the EU can survive. The world needs mass debt relief now. This process also has to happen within countries. Poorer segments of society have to get their debts wiped out. There is no durable economic recovery until this debt overhang issue is addressed. It means that creditor nations and creditor classes have to accept haircuts. Since there is no way Italy or Greece or Sri Lanka can ever repay their debts (they don't have goods to offer that their creditor nations want to buy), the hair cuts are merely a recognition of the loss that the creditor nations have already suffered.+++(5)+++ 
 
 Finally, the "miracle machine" i.e, the productive prowess, needs to be broadly shared and there is no point for a Germany or Japan or China to hoard the "miracle machine" because they cannot really collect the debts that arise from their exports without equivalent imports.+++(5)+++ By hoarding their productive prowess they simply end up hoarding debt from other nations. Spiritual economics is about realising the futility of putting a large number of people into your debt. Neither the creditor not the debtor is at peace.This realization must happen. 
+
+## Debt is not affordability
+(Source: https://threader. app/thread/1391569609094959105)
+
+One major theme in "Trade Wars are Class Wars" is how *financial flows determine trade flows*. Free trade doctrine asserts efficiency/comparative advantage determine trade trade flows.  That's only true when buyers can afford a product.  Debt does not mean affordability!+++(5)+++ 
+
+From the book:
+
+> . . trade flows were determined by financial flows.  The financial innovations that led to massive British capital outflows to Latin America in the early 1820s . . were directly connected to Britain’s massive trade surpluses with Latin America during the same period. "These trade relations cannot be explained by analyses of British manufacturing efficiency or the comparative advantages of Latin American producers. 
+
+This is a very critical point for policy makers. 
