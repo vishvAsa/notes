@@ -1,6 +1,5 @@
 +++
 title = "haryANa factory"
-unicode_script = "devanagari"
 +++
 
 ## Original article

@@ -1,6 +1,5 @@
 +++
-title = "+Non-Sapiens"
-unicode_script = "devanagari"
+title = "+India"
 +++
 
 ## H.heidelbergensis
