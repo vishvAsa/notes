@@ -1,4 +1,4 @@
 +++
-title = "+Mammal"
+title = "+Articles"
 unicode_script = "devanagari"
 +++
