@@ -22,6 +22,9 @@ Marathas reared their own Deccani horses. Cannons and guns also made things equa
 
 During bAji rAv's famous lightening marches to Delhi and ChatrasAl were enabled by cavalry.
 
+### Caste based cavalry prestige
+Some claim that jAti-prestige caused nobility to neglect infantry - but this was not a major factor. Ravi - "That could be said abt Rajputs and Jats in late 18th century when the nobility were still mostly wedded to cavalry and infantry was left to lower classes. Marathas made the most stupid mistake of trusting goras to command their well trained infantry - Sindhia lost due to that."
+
 ## Elephants
 - Much less reliable than horses. More stubborn. Less mobile.
 - Can't do stealth invasions.

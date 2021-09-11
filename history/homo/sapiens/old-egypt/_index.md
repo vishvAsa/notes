@@ -2,6 +2,8 @@
 title: +Egypt
 ---
 
+For details on religion, see [kemet](/AgamaH/kemet/) page.
+
 ## Pyramids and slavery
 - Biblical propaganda is that pyramids were built by slaves. This is false.
 - "There is a lot more info available now about the lives of these workers, they were given their own separate quarters to stay & work on the pyramids by the Pharaoh. Egyptology has moved on but hordes r still stuck 200 yrs in past". [YT](https://www.youtube.com/watch?v=LsEwVgNbyZg)
