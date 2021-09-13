@@ -2,8 +2,13 @@
 title = "गर्गः"
 
 +++
+
+## उत्पत्तिः
+- Vitatha Bārhaspatya (Bharadvāja) was adopted by Bharata Dauhṣanti upon destruction of his properly Kṣatra progeny (thus B -> an unstable B/K). Vitatha had several sons/grandsons including Garga who became a proper B (B/K -> B, stabilised) while one son/grandson, Bṛhatkṣatra, incidentally very much true to his name, became a proper K (B/K -> K, stabilised in the other direction).
 - साक्षात्-सुशीला-भारद्वाजयोः पुत्र इति केचित्।
-- भरद्वाजः → मन्युः → बृहत्क्षेत्रः → जयः → गर्गः इत्यन्ये।
+- भरद्वाजः → मन्युः → बृहत्क्षत्रः → जयः → गर्गः इत्यन्ये।
+
+## चरित्रम्
 - यादवगुरुः, नन्दगुरुः
 - जौतिषिः
 - धर्मशास्त्र-कृत्

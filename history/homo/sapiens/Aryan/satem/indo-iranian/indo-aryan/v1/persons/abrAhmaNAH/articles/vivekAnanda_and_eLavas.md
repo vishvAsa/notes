@@ -1,0 +1,21 @@
++++
+title = "vivekAnanda and eLavas"
++++
+
+Source: Rakesh Thiyyan https://threadreaderapp.com/thread/1436946401116635140.html
+
+Vivekananda is not Bengali. There is a saying in Hindi: "Jaato na poocho sant ki, pooch leejiyo gyan." (Don't ask the saint his caste, but ask for knowledge.)
+
+In 2017 I and a woke Bengali friend were travelling through Jodhpur when the fighting started. As we entered our room in Jodhpur, I got a call from my editor, asking me when I could send the story on how Vivekananda's advice to Kerala's Ezhava community prevented us from converting en masse to Christianity. I said I'd send it as soon as I returned to Delhi. My friend's ear perked up when I mentioned the name of Vivekananda and asked me what I was writing about. 
+
+I said, in late 1800s Dr Padmanabha Palpu (the first Malayali doctor) had gone to king Vishakha Thirunal of Travancore and asked for a job. The king said, "If you convert to Christianity I'll give you the job." Dr Palpu refused and went to King Wodeyar who made him the head of the Medical Dept of the Kingdom of Mysore. When Swami arrived in Kerala in 1890s, Dr Palpu along with Ezhava and other Avarna leaders asked what could be done to combat extreme discrimination practised by the Travancore Kingdom which treated Avarnas worse than animals but treated Christians and Muslims as equals. Vivekananda advised them to start a signature campaign and present it to the King, the British and the King of England. Tens of thousands of signatures were collected for the right of Ezhavas and other Avarna castes to enter State temples.
+
+Later, the Nair community (which also faced discrimination in govt jobs) started a signature campaign which was a success. The signature campaigns and Temple Entry Movement led to the Kingdom of Travancore ending a lot of untouchability practices, preventing mass exodus of Ezhavas and Avarna castes to Christianity. Had Vivekananda not arrived in Kerala, 90% of Ezhavas would have converted. "So the credit for reviving Hinduism in Kerala goes to Swami Vivekananda," I said. "My story aims to show that saints alone can save Hinduism. we need more saints like Yogi Adityanath to follow in Vivekananda's footsteps and lead Hindus to awareness and unity."
+
+Now, usually my friend P... Das is a mind mannered guy. As soon as I told him my story pitch, he started shouting at me, "Swami Vivekananda wasn't a Hindu. He never hated Muslims or Christians. You are twisting his words to further your Hindutva agenda." I was actually amused. Turning red with anger, his face swollen, frothing at the mouth, he kept shouting, "You are a narrow and bigoted person. How dare you take our Vivekananda. He doesn't belong to you. You have no right to selectively quote him and promote Hinduism." Das continued yelling, like Bruno Ganz in Der Untergang (Downfall). "Vivekananda never supported Hinduism. You are turning a global, universal, immortal figure into a Hindu icon." Like a male Greta Thunberg (but predating her), Das kept saying, "How dare you? How dare you?"
+
+I knew the holiday had turned into custard, but I was only intrigued, not upset. These are rare moments of epiphany that offer you an insight into the bigoted nature of your friends and family. In Das' woke, parochial mind, Swami Vivekananda was Narendra Nath Dutta. I had known Das for over 20 years but this was the day he revealed himself as an Urban Naxal, or at best a suicidal fool. He was a pandal hopping Delhiite whose favourite time of the year was Durga Puja, but basically he was a HINO - Hindu In Name Only.
+
+Das actually cooled down extremely quickly after his outburst. He said, "Look I'm sorry, I forgot we are on holiday and shouldn't have brought this up and reacted like this." I said, "My community is Hindu today because of Swami Vivekananda. Who knows, without him I may have been Robert. Don't advise me what or what not to write about Vivekananda. He was a strong Hindu and try as you may, you cannot confine him as a Bengali intellectual." "Besides, I'm surprised that a liberal like you can even claim kinship with Vivekananda or Subhas Bose who were nation builders." And to wind up this parochial secular, I said, "Govt of India should do DNA testing of descendants of Vivekananda and Bose. Who knows, they might well be Odiyas." 😁
+
+Ends. 
