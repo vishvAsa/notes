@@ -5,17 +5,15 @@ title = "1 LIFE OF ABHINAVAGUPTA"
 
 PRELIMINARY. 
 
-Abhinava, it appears, knew the importance of biogra phical information about a writer in understanding his works. He has, therefore, not remained silent about himself, like Kālidāsa, about whose date scholars differ by centuries, or like Bhāsa, whose very authorship of his own dramas is now a matter of keen controversy. He has given a sketch, though very brief, of his person, descent and the then social conditions in the concluding portions of his two works, the Tantraloka and the Parātrimśikā Vivarana. This sketch, when coupled with the information gathered from the stray references to his life in the vast literature that he, his pupils, his commentators and the followers of his theories have produced, gives us a more or less connected and a little detailed, though still incomplete, account of his life. It can be fairly completed but only with the help of an oral tradition which is current down to this day in a few learned Brāhmana families as well as in a few muslim homes in Kashmir. But an oral tradition, though old and persistent, is after all an oral tradition, and as such cannot have the same value in the eyes of a historian as the evidence of inscriptions or literary works. However, in the case of Abhinava, it is possible for us to know exactly the forces and influences which produced such a mind, even if we confine ourselves to well-authenticated facts. For the purpose of understanding his writings we need no more, 
+Abhinava, it appears, knew the importance of biographical information about a writer in understanding his works. He has, therefore, not remained silent about himself, like Kālidāsa, about whose date scholars differ by centuries, or like Bhāsa, whose very authorship of his own dramas is now a matter of keen controversy. He has given a sketch, though very brief, of his person, descent and the then social conditions in the concluding portions of his two works, the Tantraloka and the Parātrimśikā Vivarana.+++(5)+++ This sketch, when coupled with the information gathered from the stray references to his life in the vast literature that he, his pupils, his commentators and the followers of his theories have produced, gives us a more or less connected and a little detailed, though still incomplete, account of his life. It can be fairly completed but only with the help of an oral tradition which is current down to this day in a few learned Brāhmana families as well as in a few muslim homes in Kashmir. But an oral tradition, though old and persistent, is after all an oral tradition, and as such cannot have the same value in the eyes of a historian as the evidence of inscriptions or literary works. However, in the case of Abhinava, it is possible for us to know exactly the forces and influences which produced such a mind, even if we confine ourselves to well-authenticated facts. For the purpose of understanding his writings we need no more, 
 
-CHAPTER I. 
+## Two ABHINAVAGUPTAS. 
 
-Two ABHINAVAGUPTAS. 
-
-The Abhinavagupta, studied in the following pages, is a different person from his namesake who was a Sākta contemporary of Sankarācārya. The only source of infor mation about the other Abhinavagupta is the Sankara Digvijaya of Madhava, which is noticed under a slightly different name "Sūkşma Sankara Vijayas" in Dr. Aufrecht's catalogue. It gives the following account of him : 
+The Abhinavagupta, studied in the following pages, is a different person from his namesake who was a Sākta contemporary of Sankarācārya. The only source of information about the other Abhinavagupta is the Sankara Digvijaya of Mādhava, which is noticed under a slightly different name "Sūkṣma Sankara Vijayas" in Dr. Aufrecht's catalogue. It gives the following account of him : 
 
 Hel belonged to Kāmarūpa (Assam). He was a Sākta and wrote a sāktabhāșya, probably a commentary on the Vedānta Sūtra of Bādarāyaṇa, from the Sākta point of view. He was a great opponent of the monistic theory of Sankara. He engaged Sankara in a controversial dis cussion (Šāstrārtha) when the latter reached Assam in the course of his Digvijaya. In that he was defeated and so, according to the then prevalent practice, became a disciple of the victor. Like our Kashmirian Abhinavagupta, his Sākta namesake also is referred to as an ācārya”. 
 
-Our object in giving the above account is to point out that if Madhava's testimony in reference to the Sākta Abhinavagupta is to be considered reliable, he should not be confused with the Saiva Abhinavagupta of Kashmir. Their distance from each other is about two centuries. The former, if he was Sankara’s contemporary, must have lived in the last quarter of the 8th and the first half of the 9th century A. D., for, according to the generally accepted opinion, Sankara lived from 788 to 820 A. D.; and the latter, on the evidence of the dates of composition of the Krama and the Bhairava Stotras and the Brahati Vimarsini, given by the author himself, belonged to the second 
+Our object in giving the above account is to point out that if Mādhava's testimony in reference to the Sākta Abhinavagupta is to be considered reliable, he should not be confused with the Saiva Abhinavagupta of Kashmir. Their distance from each other is about two centuries. The former, if he was Sankara’s contemporary, must have lived in the last quarter of the 8th and the first half of the 9th century A. D., for, according to the generally accepted opinion, Sankara lived from 788 to 820 A. D.; and the latter, on the evidence of the dates of composition of the Krama and the Bhairava Stotras and the Brahati Vimarsini, given by the author himself, belonged to the second 
 
 1. Ś. D., ch. XV S. 158. 2. Ś. D. comm., ch. XV Ś. 158. 
 
@@ -23,9 +21,9 @@ LIFE OF ABHINAVAGUPTA
 
 3 
 
-half of the 10th and the first quarter of the 11th century A. D. In view of these facts we fail to understand why Dr. Aufrecht has included the Sāktabhāşya in the list of Kashmirian Abhinavagupta's works in his Catalogus Catalogo rum. This work, according to his own statement : "Sāktabhāşya, Quoted by Madhava. Oxf 258b" (C. C., P. 25) is no other than the one, the authorship of which is attributed to the Sakta Abhinavagupta by Madhava, as we have stated above. For, on page 258 of Catalogi Condicum Manuscriptum containing an extract from the Sankara Digvijaya which is referred to by our learned Doctor in the above quotation from Catalogus Catalogorum P. 25, the same passage is given as that on which our own account of the Sākta Abhinavagupta is based. It runs as follows: 
+half of the 10th and the first quarter of the 11th century A. D. In view of these facts we fail to understand why Dr. Aufrecht has included the Sāktabhāṣya in the list of Kashmirian Abhinavagupta's works in his Catalogus Catalogo rum. This work, according to his own statement : "Sāktabhāṣya, Quoted by Mādhava. Oxf 258b" (C. C., P. 25) is no other than the one, the authorship of which is attributed to the Sakta Abhinavagupta by Mādhava, as we have stated above. For, on page 258 of Catalogi Condicum Manuscriptum containing an extract from the Sankara Digvijaya which is referred to by our learned Doctor in the above quotation from Catalogus Catalogorum P. 25, the same passage is given as that on which our own account of the Sākta Abhinavagupta is based. It runs as follows: 
 
-Tadanantarameşa Kamarūpān Adhigatyābhinavopaśabdaguptam Ajayat kila sāktabhāşyakāram Sa ca bhagno manasedamāluloce 
+Tadanantarameṣa Kamarūpān Adhigatyābhinavopaśabdaguptam Ajayat kila sāktabhāṣyakāram Sa ca bhagno manasedamāluloce 
 
 Oxf 2586 
 
@@ -55,7 +53,7 @@ In view of the facts stated above and supported by the authority of Abhinavagupt
 
 *He received instruction in the Pratyabhijñā Šāstra from his father Laksmanagupta, son of Narasimhagupta and pupil to Utpala" 
 
-Lakşmanagupta, though undoubtedly a teacher of Abhinava in Pratyabhijñā was certainly not his father; nor was there a relation of father and son between Narasimha gupta and Lakşmanagupta. The father of the latter, according to the following statement of Abhinaya, was Utpalācārya : 
+Lakṣmanagupta, though undoubtedly a teacher of Abhinava in Pratyabhijñā was certainly not his father; nor was there a relation of father and son between Narasimha gupta and Lakṣmanagupta. The father of the latter, according to the following statement of Abhinaya, was Utpalācārya : 
 
 "Traiyambakaprasarasāgaravīcisomā nandātmajotpalajalakṣmaṇaguptanāthah." 
 
@@ -73,11 +71,11 @@ PROBABLE TIME OF HIS BIRTH. The era, used in the works of Kashmir writers from t
 
 after the commecement of Kali era, as we learn from Abhinava's own statement in the concluding verse of the Bphatī Vimarsins : 
 
-"Iti navatitamesmin vatsarentye yugāmse Tithiếasijaladhisthe mārgaśīrşāvasāne Jagati vihitabodhām Iśvarapratyabhijñām Vyavrnuta paripūrņām preritah Sambhupādaih". 
+"Iti navatitamesmin vatsarentye yugāmse Tithiếasijaladhisthe mārgaśīrṣāvasāne Jagati vihitabodhām Iśvarapratyabhijñām Vyavrnuta paripūrņām preritah Sambhupādaih". 
 
 It states that he finished the Brhatī Vimarsinī in the 90th year when 4115 years of Kali had elapsed. This year (1934) it is the 5035th year of the Kali and the 5010th year of the Saptarsi era, as any almanac will show. If we deduct 25 out of the figures, which stand for the Kali era at present, they will show the Saptarsi year. This shows that the word "navatitame" in the above quotation stands for 4090th of the Saptarsi era just as 34th, used to-day, would naturally mean 1934th A. D. 
 
-There are two more works of Abhinava in which the dates of composition are given. One is the Bhairava Stava (appendix C) which was written on the 10th day of the darker half of Pauşain the year 68. And the other is the Krama Stotra (Appendix C) which was composed in praise of Siva on the 9th day of the darker half of Mārgaśīrşa? in the year 66. 
+There are two more works of Abhinava in which the dates of composition are given. One is the Bhairava Stava (appendix C) which was written on the 10th day of the darker half of Pauṣain the year 68. And the other is the Krama Stotra (Appendix C) which was composed in praise of Siva on the 9th day of the darker half of Mārgaśīrṣa? in the year 66. 
 
 The years of composition of these Stotras refer to the Saptarsi era. The dates, therefore, of the earliest and the latest known works of Abhinava clearly show that the period of his literary activity extended over a quarter of a century from 4066 to 4090 of the Saptarsi era i. e. 990-1-1014 15 A. D. 
 
@@ -101,7 +99,7 @@ LIFE OF ABHINAVAGUPTA.
 
 ABHINAVAGUPTA, AN INCARNATION OF SEȘA, 
 
-In South India there is a tradition, current among those who even now dance in strict accordance with the rules, given by Bharata in his Natya Sastra, that Abhinavagupta pāda was an incarnation of Seșa. This tradition seems to be another and later interpretation of the name "Abhina vaguptapāda". It was most probably suggested by the great reputation that he enjoyed, like Patamjali alias Seşa, for his thorough mastery of all the intricacies of grammar and his extraordinary skill and originality in dealing with the difficult grammatical problems. To his great proficiency in grammar he himself refers in the Tantrāloka as follows: 
+In South India there is a tradition, current among those who even now dance in strict accordance with the rules, given by Bharata in his Natya Sastra, that Abhinavagupta pāda was an incarnation of Seșa. This tradition seems to be another and later interpretation of the name "Abhina vaguptapāda". It was most probably suggested by the great reputation that he enjoyed, like Patamjali alias Seṣa, for his thorough mastery of all the intricacies of grammar and his extraordinary skill and originality in dealing with the difficult grammatical problems. To his great proficiency in grammar he himself refers in the Tantrāloka as follows: 
 
 “Pitrā sa sabdagahane krtasampraveśah." 
 
@@ -143,7 +141,7 @@ T. A., Ah. 37. (MS)
 
 LIFE OF ABHINAVAGUPTA 
 
-5. Lakşmanagupta? 6. Indurāja? 7. Bhatta Tota 
+5. Lakṣmanagupta? 6. Indurāja? 7. Bhatta Tota 
 
 Krama and Trika Darsanas. Dhvani. Dramaturgy. 
 
@@ -163,7 +161,7 @@ Others in whose cases subjects are not specified : 8. Sricandra.
 
 HIS FAMILY AND ITS ATMOSPHERE. 
 
-Besides his father and mother, his family consisted of an uncle, Vāmanagupta, a younger brother, Manoratha, and five cousins, Kşema, Utpala, Abhinava, Cakraka and Padmagupta. His uncle's name is included in the list of his teachers. In the Abhinava Bhāratī, Abhinava quotes his uncle who, therefore, seems to have written on poetics. His brother was deeply learned in all Sāstras and was the first to be favoured by Abhinava by being accepted as his disciple. And if the name Kşema be supposed to stand for Kșemarāja, the author of the Spanda Nirnaya and other works on Saivaism, and the others, classed with him, be also supposed to have had more or less similar qualities, then his cousins also seem to have been very highly educated. Whatever may have been their education, there is no doubt that they prized devotion 
+Besides his father and mother, his family consisted of an uncle, Vāmanagupta, a younger brother, Manoratha, and five cousins, Kṣema, Utpala, Abhinava, Cakraka and Padmagupta. His uncle's name is included in the list of his teachers. In the Abhinava Bhāratī, Abhinava quotes his uncle who, therefore, seems to have written on poetics. His brother was deeply learned in all Sāstras and was the first to be favoured by Abhinava by being accepted as his disciple. And if the name Kṣema be supposed to stand for Kșemarāja, the author of the Spanda Nirnaya and other works on Saivaism, and the others, classed with him, be also supposed to have had more or less similar qualities, then his cousins also seem to have been very highly educated. Whatever may have been their education, there is no doubt that they prized devotion 
 
 1. T. A., Comm., III, 194. 3. A. Bh., 1. 5. A. Bh., 297. 
 
@@ -203,7 +201,7 @@ CHAPTER I.
 
 on the three systems which are known in the Saiva philoso phical literature as the Krama, the Trika (of which Praty abhijñā is only a branch) and the Kula. 
 
-When from the study of literature his mind suddenly turned to devotion to Siva, it was Lakşmanagupta who first gave him intellectual satisfaction by feeding him with intellectual food in the form of an exposition of the Pratya bhijñāl. He taught Abhinava Krama Darśana also. This fact Jayaratha has established after a long controvertial discussion in his commentary on the Tantrāloka. There is circumstantial evidence enough to believe that he was taught Krama system first. In any case the earliest date of the Krama Stotra, to which reference has already been made, is a clear proof of his having first tried his spiritual experiments in accordance with the Kramic instructions. The attempt was not quite a failure, for, in the Kramakeli, which is probably Abhinava's first known work on the Krama system, he attributes his then spiritual greatness to his following the Kramic teachings. But it did not yield the expected result. He then tried the Trika system, but to what result, there is not enough evidence just at present in hand to show. There is, however, no doubt about this that the result of that also did not perfectly satisfy him, for, it is from the Kula system alone that he affirms to have got perfect satisfaction and peace. Because of this it is that we find in his works a more glowing tribute paid to Sambhunatha, his Kaulic teacher, than to any one else.5 That before writing the Tantraloka he had realised his identity with the Parama Siva and that it was due to 
+When from the study of literature his mind suddenly turned to devotion to Siva, it was Lakṣmanagupta who first gave him intellectual satisfaction by feeding him with intellectual food in the form of an exposition of the Pratya bhijñāl. He taught Abhinava Krama Darśana also. This fact Jayaratha has established after a long controvertial discussion in his commentary on the Tantrāloka. There is circumstantial evidence enough to believe that he was taught Krama system first. In any case the earliest date of the Krama Stotra, to which reference has already been made, is a clear proof of his having first tried his spiritual experiments in accordance with the Kramic instructions. The attempt was not quite a failure, for, in the Kramakeli, which is probably Abhinava's first known work on the Krama system, he attributes his then spiritual greatness to his following the Kramic teachings. But it did not yield the expected result. He then tried the Trika system, but to what result, there is not enough evidence just at present in hand to show. There is, however, no doubt about this that the result of that also did not perfectly satisfy him, for, it is from the Kula system alone that he affirms to have got perfect satisfaction and peace. Because of this it is that we find in his works a more glowing tribute paid to Sambhunatha, his Kaulic teacher, than to any one else.5 That before writing the Tantraloka he had realised his identity with the Parama Siva and that it was due to 
 
 1. M. V.V., 2. 3. T. A. Comm., III, 191-2. 5. T. A., I, 16. 
 
@@ -215,7 +213,7 @@ LIFE OF ABHINAYAGUPTA
 
 following Sambhunātha's teaching, he himself says in his introduction to the Tantrāloka : 
 
-"Bodhānyapāśavişanutta dupāsanottha, de Bodhojjvalobhinavagupta idam karoti." V 
+"Bodhānyapāśaviṣanutta dupāsanottha, de Bodhojjvalobhinavagupta idam karoti." V 
 
 T. A., I, 16. 
 
@@ -229,7 +227,7 @@ WA H
 
 P. S., 198. 
 
-alo ama aun nmig "Sivasya paraśreyahsvabhāvasya svātmasthasya cidā- Akti nandaikamürteh yâni caraṇāni cidraśmayah teşām smaranath sabdādivişayagrahanakāle nibhālanam pratiksaņam svānu bhavāpramosah tena dīptah parāhantācamatkārabhā svaraḥ.. ..................iti upadeştuh samā vista maheśvara svabhāvonena uktaḥ syāt." 
+alo ama aun nmig "Sivasya paraśreyahsvabhāvasya svātmasthasya cidā- Akti nandaikamürteh yâni caraṇāni cidraśmayah teṣām smaranath sabdādiviṣayagrahanakāle nibhālanam pratiksaņam svānu bhavāpramosah tena dīptah parāhantācamatkārabhā svaraḥ.. ..................iti upadeṣtuh samā vista maheśvara svabhāvonena uktaḥ syāt." 
 
 This seems to be the foundation of the traditional belief amongst Kashmirian Pandits that Abhinavagupta was Bhairava incarnate. 
 

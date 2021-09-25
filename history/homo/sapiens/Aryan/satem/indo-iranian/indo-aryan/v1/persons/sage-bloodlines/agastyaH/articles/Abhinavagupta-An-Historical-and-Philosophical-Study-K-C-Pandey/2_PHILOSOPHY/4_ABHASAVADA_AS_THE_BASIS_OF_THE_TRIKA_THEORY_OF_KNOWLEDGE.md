@@ -17,7 +17,7 @@ Abhinava very clearly says, as has already been stated in the first chapter, tha
 
 THE BASIS OF THE TRIKA THEORY OF KNOWLEDGE 257 
 
-degree and not of kind. But does a practical man of the world require the knowledge of all these philosophical concepts ? Can such a knowledge help him in achieving what he has set his heart on ? Abhinava's statement: "In practical every-day life the view point of the Naiyāyikas is the best" seems, therefore, to have been inspired by the following words of Lord Krşņa : 
+degree and not of kind. But does a practical man of the world require the knowledge of all these philosophical concepts ? Can such a knowledge help him in achieving what he has set his heart on ? Abhinava's statement: "In practical every-day life the view point of the Naiyāyikas is the best" seems, therefore, to have been inspired by the following words of Lord Krṣņa : 
 
 “The enlightened should not disturb the minds of the unenlightened, who are given to active life, by talk of knowledge (jñāna)" 
 
@@ -41,7 +41,7 @@ on which all our ideas of the external phenomena are based, presupposes both, th
 
 THE LIMITED SENTIENT ĀBHĀSA. It forms one of the thirty-six categories of this system. We have, therefore, already dwelt on it at some length in the preceding chapter. It may, however, be pointed out here that consistently with the postulate of the Universal Consciousness, the Trika holds, as the strict logic requires, that the limited self has no independent existence and as such has no freedom of will or action. It is the Universal Self that wills and acts through every mind and body. On this point also this system seems to be in agreement with the Vedānta Sūtra and the Bhagavadgītā. Compare, for instance, 
 
-"Isvaraḥ sarvabhūtānām hrddeśerjuna tişthati 
+"Isvaraḥ sarvabhūtānām hrddeśerjuna tiṣthati 
 
 Bhrāmayan sarvabhūtāni yantrārudhāni māyayā." 
 
@@ -51,7 +51,7 @@ and also
 
 *Avidyāvasthāyāt kāryakāranasanghātavivekadaršino 
 
-jīvasya avidyātimirandhasya satah parasmādātmanah karmādhyakņāt sarvabhūtādhivāsāt sākşiņas cetayiturīśvarāt tadanujñayā kartrtva bhoktrtvalakṣaṇasya samsārasya siddhih." 
+jīvasya avidyātimirandhasya satah parasmādātmanah karmādhyakņāt sarvabhūtādhivāsāt sākṣiņas cetayiturīśvarāt tadanujñayā kartrtva bhoktrtvalakṣaṇasya samsārasya siddhih." 
 
 S. Bh., 552. 
 
@@ -69,11 +69,11 @@ CHAPTER IV
 
 that if dualistic doctrine were given up by the so called Agamikas; if Māyā were to be taken as the power of the Brahman by the Vedāntins; and if the two Vijñānas, the ālayavijñāna and the pravíttivijñāna, were to be admitted to be the manifestations of the Atmeśvara or Maheśvara, the Universal Consciousness, by the Bauddhas, all differences between the Trika on the one hand and the Agamikas, the Vedāntins and the Bauddhas on the other disappear. The latter become the exponents of the Trika philosophy : 
 
-"Āgameşu dvaitavyākhyāmapāsya, Brahmavāde avidyām māyāśaktīkrtya vijñānadvayam ātmeśvarābhiprāyeņa nirūpya siddhyatyeșa janah" 
+"Āgameṣu dvaitavyākhyāmapāsya, Brahmavāde avidyām māyāśaktīkrtya vijñānadvayam ātmeśvarābhiprāyeņa nirūpya siddhyatyeșa janah" 
 
 and also 
 
-"Pārameśvareşu tāvadāgameşu saivavaişnavarahasyeşu Vedānteşu ca spaşta evoktoyam asmaduktorthah, Tadanusāriņaiva sugatenoktam Cittamātramidam, yaduta traidhātukamiti tadatra vivarana kārair durabhi niveśavašena vipratārito janaḥ. Idameva tu tattvamiti tu tātparyam." 
+"Pārameśvareṣu tāvadāgameṣu saivavaiṣnavarahasyeṣu Vedānteṣu ca spaṣta evoktoyam asmaduktorthah, Tadanusāriņaiva sugatenoktam Cittamātramidam, yaduta traidhātukamiti tadatra vivarana kārair durabhi niveśavašena vipratārito janaḥ. Idameva tu tattvamiti tu tātparyam." 
 
 We may add here one interesting argument in support of the momentariness of the bodily and the intellectual selves. It is generally admitted that at all hours of the wakeful state some kind of knowledge or another is taking place; that knowledge is simply an affected state of consciousness due to an external stimulus and that a determinate knowledge is invariably preceded by an indeterminate. As we pass from knowledge of one thing to that of another, the transition is not usually sharp. One act of knowledge fades gradually into the next. If, for instance, we look at a coin for several moments, we feel that we have not had a single continuous perception. First we have the knowledge of the coin as a rupee, then that of the figure on it, then of its roughened edge and then of its date and so on. These acts of knowledge 
 
@@ -161,7 +161,7 @@ SÄNKHYA THEORY OF PERCEPTION. According to the Sārkhya, the Buddhi is made up 
 
 THE NECESSITY FOR SUCH AN ASSUMPTION. 
 
-The subject and the object are of fundamentally opposite nature. The former is self-luminous but the latter is devoid of all light. The one is changeless but the other is changing. Therefore, if the puruşa, who is unaffectable pure 
+The subject and the object are of fundamentally opposite nature. The former is self-luminous but the latter is devoid of all light. The one is changeless but the other is changing. Therefore, if the puruṣa, who is unaffectable pure 
 
 1. I. P. V., I, 71. 
 
@@ -183,7 +183,7 @@ The above theory of the Sankhya is not sound, firstly, because the analogy of mi
 
 269 
 
-its reflection on what is more so, but even the Sankhya will not be prepared to admit that in point of nairmalya buddhi exceeds self (But what about the reflection of a flame in a mirror or that of the sun in water ? It is perhaps because of the consciousness of this defect in his above argument that he puts forth another, the last and strongest) and thirdly, because the Sankhya cannot satisfactorily answer the question that naturally arises in this connection as to whether buddhi, in consequence of the reflection of the light of self, itself becomes light or not. In the latter case it will not be able to illumine the object exactly as the material light, reflected in a mirror, cannot, and, therefore, even when there is the reflection of the light of self on Buddhi the external object will not be illuminated (nārtha prakāśatā) Hence perception will be impossible. But if the case be the former i. e. Buddhi itself becomes an illuminant, the postulate of an illuminating Puruşa becomes useless, because then all the objections to remove which a separate Buddhi Tattva is assumed by the Sankhya will stand as before. 
+its reflection on what is more so, but even the Sankhya will not be prepared to admit that in point of nairmalya buddhi exceeds self (But what about the reflection of a flame in a mirror or that of the sun in water ? It is perhaps because of the consciousness of this defect in his above argument that he puts forth another, the last and strongest) and thirdly, because the Sankhya cannot satisfactorily answer the question that naturally arises in this connection as to whether buddhi, in consequence of the reflection of the light of self, itself becomes light or not. In the latter case it will not be able to illumine the object exactly as the material light, reflected in a mirror, cannot, and, therefore, even when there is the reflection of the light of self on Buddhi the external object will not be illuminated (nārtha prakāśatā) Hence perception will be impossible. But if the case be the former i. e. Buddhi itself becomes an illuminant, the postulate of an illuminating Puruṣa becomes useless, because then all the objections to remove which a separate Buddhi Tattva is assumed by the Sankhya will stand as before. 
 
 BAUDDHA THEORIES OF PERCEPTION AND THEIR 
 
@@ -275,7 +275,7 @@ being solely to the will power of the Universal Cons ciousness which at the time
 
 Abhinava has justified the above conclusion as follows: 
 
-The object is not self-luminous (svātma vasenaiva na tāvadvyavatişthate). For, had it been so, like self, it would have always been equally manifest to all and would not have stood in the relation of knowability only to some per cipient or percipients at a particular time as the following judgments indicate: 
+The object is not self-luminous (svātma vasenaiva na tāvadvyavatiṣthate). For, had it been so, like self, it would have always been equally manifest to all and would not have stood in the relation of knowability only to some per cipient or percipients at a particular time as the following judgments indicate: 
 
 "This is now known to me". 
 
@@ -287,7 +287,7 @@ CHAPTER IV
 
 otherwise, it would as little help in the illumination of the object as one blind man can another. Again, this self luminous entity, the subject, cannot be supposed to illumine the object without any connection with i. e. without being affected in any way by, the latter; for, in that case, its unaffectedness with regard to all being the same, it would be difficult to account for its illumining only some and not others. It is, therefore, held that when the self-luminous self faces some object or objects it throws its light on the latter. This light being reflected back by the obstructing ob ject, the sensory image, forms an image of the latter on the mirror-like Buddhi which, according to this system, is nothing else than a state of the limited self?. 
 
-(Sopi yadi suddho nirviśeşo na tarhi nīlasyaiva vyava sthāhetuh bhavet pītādāvapi tasya tathātvāt, tadasau nīloparakto nīlonmukho nīlaprakāśasvabhāva ityābhāsah san nilasya vyavasthāpakah, tatprakaśasvabhāvataiva hi tadvya vasthāpakatā. 
+(Sopi yadi suddho nirviśeṣo na tarhi nīlasyaiva vyava sthāhetuh bhavet pītādāvapi tasya tathātvāt, tadasau nīloparakto nīlonmukho nīlaprakāśasvabhāva ityābhāsah san nilasya vyavasthāpakah, tatprakaśasvabhāvataiva hi tadvya vasthāpakatā. 
 
 te (I. P. V., II, 65). 
 
@@ -347,7 +347,7 @@ judgement is based, are affected differently because of the contact with differe
 
 Thus, according to the Trika, whatever appears, what. ever is capable of affecting the light in any way and so of contributing something, it may be a point, to the formation of an image on the retina, of causing a separate sensation, of being distinctively imaged in the Buddhi and ultimately, at the time of the most analytical determinate knowledge, of being referred to by a separate word, requires a separate perceptual activity from the time it affects a particular ray of light to that when it is cognised to have got a separate existence and is given a name : 
 
-"Tatra ca pratyakşam pratyābhāsam prämānyam bhajate vimarsalakṣaṇasya pramitivyāpārasya ekaikaśabdavā. cyerthe viśranteh, tadanusāritvācca pramāṇasya" 
+"Tatra ca pratyakṣam pratyābhāsam prämānyam bhajate vimarsalakṣaṇasya pramitivyāpārasya ekaikaśabdavā. cyerthe viśranteh, tadanusāritvācca pramāṇasya" 
 
 I. P. V., I, 188-9. It may be pointed out here that these innumerable percep tions, which take place within that which prompts the percipient to some kind of motor response, are not always conceived separately. Their separate conception as such depends upon, as we pointed out before, the individual will, liking and analytical capacity. 
 
@@ -413,15 +413,15 @@ CHAPTER IV
 
 holds that before the commencement of the above described psychic process, that is, at the time of rise of desire for perception, the cognising self becomes pervasive as far as the object or objects of perception and that the objects also appear in their essential nature of being made up of con sciousness and become one with the self much in the same manner as the reflection does with the object that has the capacity to receive it. Thus a phenomenon of knowledge may be said to be a union of the subjective and the objective waves of consciousness in the sea of the All-inclusive Universal Consciousness. This supersensuous knowledge is technically called 'anubhava', which implies the subject's becoming what the object is. Just as when we say that Devadatta imitates Yajñadatta (Devadattah Yajñadattam anukaroti) we mean that the former does the same or similar thing as does the latter, so when we say "John experiences (anubhavati) a jar," it means, if we take the word "anubhavati" literally, that John becomes what the jar is. This is exactly what Abhinava has said in slightly different words in the Brhati Vimarsinī quoted in a foot note in I. P. V., I, 42 as follows: 
 
-**Tathā ca ghato mama sphuratīti korthah, madīyam sphuranam spandanam āviştah madrāpatāmāpanna leva 
+**Tathā ca ghato mama sphuratīti korthah, madīyam sphuranam spandanam āviṣtah madrāpatāmāpanna leva 
 
 cinmayatvāt." To clear the point let us quote Bhāskarakantha's explanation of Abhinava's text on which the above statement is based : 
 
 "Grahanasamaye bhāvasya māyayā bhāvatvena bhāsita 
 
-nijam sahajaśuddhaprakāśākhyam svarūpameva pra mātāram prati sphuțībhavati, yatah tadā pramātā tadvastu prati diděkşāsamaye vyāpakībhavati yaduk tam : 
+nijam sahajaśuddhaprakāśākhyam svarūpameva pra mātāram prati sphuțībhavati, yatah tadā pramātā tadvastu prati diděkṣāsamaye vyāpakībhavati yaduk tam : 
 
-"Didrkşayeva sarvārthān yadā vyāpyāvatișthate Tadā kim bahunoktena svayam evāvabhotsyate" 
+"Didrkṣayeva sarvārthān yadā vyāpyāvatișthate Tadā kim bahunoktena svayam evāvabhotsyate" 
 
 THEORY OF PERCEPTION 
 
@@ -433,11 +433,11 @@ CRITICISM OF THE RIVAL THEORIES.
 
 The typical rivals of the above theory of subject-object union, as propounded by Abhinava, are the Mīmāmsakas and the Naiyāyikas. The rival theory of knowledge of the former is known as Prakatatāvāda and that of the latter as Kārana tāvāda. We take them here separately for criticism. 
 
-PRAKAȚATĀVĀDA. This theory is said to have been founded by Bhatta Kumārila. He holds that a phenomenon of knowledge pre supposes some kind of relation between the subject and the object. This relation is brought about by the move ment of the knowing self and is an object of internal perce ption (mānasapratyakşa) alone. His conception of know ledge is that it is simply an act of the cognisor, which produces cognisedness (jñāta tā) or manifestedness (prakațatā) in the object. The action of the agent, the cognition, is not directly perceptible; it can only be inferred from the quality of cognisedness produced by it in the object. 
+PRAKAȚATĀVĀDA. This theory is said to have been founded by Bhatta Kumārila. He holds that a phenomenon of knowledge pre supposes some kind of relation between the subject and the object. This relation is brought about by the move ment of the knowing self and is an object of internal perce ption (mānasapratyakṣa) alone. His conception of know ledge is that it is simply an act of the cognisor, which produces cognisedness (jñāta tā) or manifestedness (prakațatā) in the object. The action of the agent, the cognition, is not directly perceptible; it can only be inferred from the quality of cognisedness produced by it in the object. 
 
 (Ittham tadvādah : 
 
-Jñānam nāma kriyā, sā ca phalānumeyā phalam ca prakațatākhyam vişayadharmah saiva vedyatā iti Kaumārilah procuh 
+Jñānam nāma kriyā, sā ca phalānumeyā phalam ca prakațatākhyam viṣayadharmah saiva vedyatā iti Kaumārilah procuh 
 
 I. P. V., I, 155). He is a dualist and, therefore, in order to maintain the independent existence of the object, he denies the self-luminosity to knowledge. He cannot either admit the cognition to be directly cognisable, for, it would then require another cognition to cognise it and that too another still and so on ad-infinitum. His theory, therefore, 
 
@@ -557,7 +557,7 @@ The limited individual self, as we pointed out before, has two aspects, the mome
 
 I. P. V., I. 118-9). 
 
-(Etena punah smặtivişayam anāgatya bhāvajātam ahantāyām eva līyata iti dyotitam. (Bhaskarī) 
+(Etena punah smặtiviṣayam anāgatya bhāvajātam ahantāyām eva līyata iti dyotitam. (Bhaskarī) 
 
 The remembering subject has got full power to unite or disunite the ābhāsas of which it is a permanent abode just as the Universal Consciousness has over those which it contains withinTHEORY OF REMEMBRANCE 
 

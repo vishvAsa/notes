@@ -9,7 +9,7 @@ Introduction List of Abbreviations ...
 ABHINAVAGUPTA. 
 PART I. HISTORICAL 
 CHAPTER I. 
-LIFE OF ABHINAVAGUPTA. Preliminary Two Abhinavaguptas His ancestry His parents Abhinava as a Yoginībhū Probable time of his birth His childhood and education Abhinava as an incarnation of Seşa His teachers His family and its atmosphere Some events in the family and their effect on his 
+LIFE OF ABHINAVAGUPTA. Preliminary Two Abhinavaguptas His ancestry His parents Abhinava as a Yoginībhū Probable time of his birth His childhood and education Abhinava as an incarnation of Seṣa His teachers His family and its atmosphere Some events in the family and their effect on his 
 young mind His ascetic period His miraculous powers ... Centres of his activity ... The last scene of his earthly existence A bird's-eye view of his life 
 CHAPTER II. 
 HIS WORKS. List of his known works Explanation of the arrangement 
@@ -49,7 +49,7 @@ Schools
 104 
 Page. The position of this School in the time of Abhinava ... 103 Lakulīšapāśupata Saiva dualists of the post-Abhinava period 
 106 Identity of the Siddhānta School with Saiva Darsana 
-of Madhava 
+of Mādhava 
 112 
 Historical background of his poetic ideas The Writers on dramaturgy known to Abhinava and 
 their historical position 
@@ -85,8 +85,8 @@ Ksemarāja His works Yogarāja Subhata Datta Jayaratha His date Sobhākaragupta 
 152 
 153 153 
 Writers directly influenced by Abhinava 
-Kşemendra The question of identity of Kşemendra 
-Kşemarāja 
+Kṣemendra The question of identity of Kṣemendra 
+Kṣemarāja 
 and 
 153 
 157 
@@ -108,13 +108,13 @@ Abhinava's Contribution Explanation of the names of the system For whom is the s
 Page. 
 173 178 179 182 182 182 185 186 
 186 
-What is recognition (pratyabhijñā) ? What is Dīkşā ? Saktipāta Malas or impurities defined 
+What is recognition (pratyabhijñā) ? What is Dīkṣā ? Saktipāta Malas or impurities defined 
 1. Anayamala or innate ignorance 
 Its distinction from the intellectual ignorance 2. Kārmamala 
 3. Māyīyamala ... The means of liberation from bondage... The intellectual and the spiritual knowledge 
 1. Kriyopāya or Āņavopāya 2. Jānopāya or Saktopāya 3. Sāmbhavamārga or Icchopāya... 
-4. Anupāya or Anandopāya Trika conception of Mokşa Other conceptions of Moksa from the Trika point 
-of view Vijñānavādin's conception of Mokşa Its refutation Nihilist's conception of Moksa and its refutation Sāükhya conception of Mokşa and its criticism 
+4. Anupāya or Anandopāya Trika conception of Mokṣa Other conceptions of Moksa from the Trika point 
+of view Vijñānavādin's conception of Mokṣa Its refutation Nihilist's conception of Moksa and its refutation Sāükhya conception of Mokṣa and its criticism 
 186 189 
 189 190 
 190 
@@ -167,7 +167,7 @@ Page.
 248 
 248 248 
 The conception of the five powers of the Ultimate is 
-common to the Upanişads Siva Sakti .. Sadāśiva... Isvara ... Sadvidyā Māyā Kalā ... Vidya Rāga Kāla Niyati Puruşa The Sānkhya and the Trika concepts of the puruşa 
+common to the Upaniṣads Siva Sakti .. Sadāśiva... Isvara ... Sadvidyā Māyā Kalā ... Vidya Rāga Kāla Niyati Puruṣa The Sānkhya and the Trika concepts of the puruṣa 
 compared Prakrti ... The Trika and the Sānkhya concepts of the Prakrti 
 compared Buddhi ... The Sānkhya and the Trika concepts of Buddhi 
 compared Ahankāra Manas or mind 

@@ -82,7 +82,7 @@ PRELIMINARY
 
 169 
 
-and the Anava. They are mere dogmatic statements of the fundamental principles of the Spanda branch of the Trika. They do not enter into an exposition of the reasonings which can be adduced in their support; nor do they cite any accepted scriptural authority on which they are based. They are, therefore, so brief that all of them taken together would cover hardly more than fifty pages of a printed book. Similarly, those books, which are named after Pratyabhijñā, attempt to establish the existence of an all-including universal Self and point out a fourth way to freedom from I. worldly troubles, through Pratyabhijñā or recognition. Although they are argumentative and expository and consequently twenty times more voluminous than the former, yet, being concerned with only a branch, they could not bring out the full importance of the Trika system as a whole. Moreover, the literature on both the branches, referred to above, is equally silent on the rituals of the system. It was Abhinava, who, for the first time, took up the system as a whole for a rational and exhaustive treatment in his great work, the Tantrāloka ; gave the philosophical conceptions of the different branches a proper place in the whole; showed the comparative merit of all the four means of Mokşa, Anupāya, Sāmbhava, Sākta and Anava ; exhaustively dealt with the monistic Saiva rituals; supported the philosophical and the psychological theories of the system with strong and convincing arguments as well as with extensive quotations from the āgamas of accepted authority and elucidated the existing texts with learned commentaries, like the Sivadrstyālocana and the two Vimarsinīs. 
+and the Anava. They are mere dogmatic statements of the fundamental principles of the Spanda branch of the Trika. They do not enter into an exposition of the reasonings which can be adduced in their support; nor do they cite any accepted scriptural authority on which they are based. They are, therefore, so brief that all of them taken together would cover hardly more than fifty pages of a printed book. Similarly, those books, which are named after Pratyabhijñā, attempt to establish the existence of an all-including universal Self and point out a fourth way to freedom from I. worldly troubles, through Pratyabhijñā or recognition. Although they are argumentative and expository and consequently twenty times more voluminous than the former, yet, being concerned with only a branch, they could not bring out the full importance of the Trika system as a whole. Moreover, the literature on both the branches, referred to above, is equally silent on the rituals of the system. It was Abhinava, who, for the first time, took up the system as a whole for a rational and exhaustive treatment in his great work, the Tantrāloka ; gave the philosophical conceptions of the different branches a proper place in the whole; showed the comparative merit of all the four means of Mokṣa, Anupāya, Sāmbhava, Sākta and Anava ; exhaustively dealt with the monistic Saiva rituals; supported the philosophical and the psychological theories of the system with strong and convincing arguments as well as with extensive quotations from the āgamas of accepted authority and elucidated the existing texts with learned commentaries, like the Sivadrstyālocana and the two Vimarsinīs. 
 
 EXPLANATIONS OF THE NAMES OF THE SYSTEM. 
 
@@ -106,7 +106,7 @@ India "Calcutta" or "Bombay". They are parts and very important parts, but sever
 
 (III) It is called so for another reason also, namely, that it explains all the three aspects of knowledge, viz. absolute oneness (abheda), predominent oneness (bhedābheda), and duality (bheda) in the light of its monistic theory (abhedavāda). 
 
-It is also called Şadardha Sāstra," (literally, the school of half of the six) for the following reason : 
+It is also called ṣadardha Sāstra," (literally, the school of half of the six) for the following reason : 
 
 This system holds that the Devanāgarī or the Sāradā alphabet represents the process of manifestation of ideas (Parāmarśodayakrama). The first six vowels, a ā ii u ū, for instance, represent the order of succession in which the powers of Anuttara, Ananda, Icchā, Išana, Unmeșa and 
 
@@ -118,7 +118,7 @@ PRELIMINARY
 
 171 
 
-Urmi arose from the Highest Reality. Of the above, those, represented by long vowels, are due either to the association of those, represented by short ones, with their respective objects, as in the cases of Isana and Ormi, or to the union of two, as in that of Ananda'. The former, therefore, are dependent upon the latter and hence are not considered to be of equal importance with them.. Thus it is called Şadardha Sāstra, because it counts as 'principal' only three of the six powers shown above, namely, Anuttara, Iccha, and Unmeşa, which are also referred to as Cit, Icchā and Jñāna 
+Urmi arose from the Highest Reality. Of the above, those, represented by long vowels, are due either to the association of those, represented by short ones, with their respective objects, as in the cases of Isana and Ormi, or to the union of two, as in that of Ananda'. The former, therefore, are dependent upon the latter and hence are not considered to be of equal importance with them.. Thus it is called ṣadardha Sāstra, because it counts as 'principal' only three of the six powers shown above, namely, Anuttara, Iccha, and Unmeṣa, which are also referred to as Cit, Icchā and Jñāna 
 
 It has been given the name of Kashmir Saivaism, because almost all the writers of the available literature on this monistic school of Saivaism belonged to Kashmir. 
 
@@ -134,11 +134,11 @@ CHAPTER 1
 
 following verse, the knowledge of the six vedic systems of philosophy and of the Veda with its six branches of learning as an antecedent condition : 
 
-"Şaţśāstravid yo vedasya şadangajñaśca vedavit s& eva śrīpratyabhijñādhyayanedhiksto bhavet." 
+"ṣaţśāstravid yo vedasya ṣadangajñaśca vedavit s& eva śrīpratyabhijñādhyayanedhiksto bhavet." 
 
 It requires also a previous study of all the Agamas, a knowledge of the arguments of other dualistic and monistic systems and a command over grammar : 
 
-"Yodhīti nikhilāgameșu padavid yo yogaśāstraśrami Yo vākyārthasamanvaye krtaratih śrīpratyabhijñāmrte Yastarkāntaraviśrutaśrutatayā dvaitādvayajñānavit Sosmin syādadhikāravān kalakalaprāyah pareşām ravah." 
+"Yodhīti nikhilāgameșu padavid yo yogaśāstraśrami Yo vākyārthasamanvaye krtaratih śrīpratyabhijñāmrte Yastarkāntaraviśrutaśrutatayā dvaitādvayajñānavit Sosmin syādadhikāravān kalakalaprāyah pareṣām ravah." 
 
 THE AIM. 
 
@@ -190,7 +190,7 @@ PRELIMINARY
 
 177 
 
-spiritual instruction. The intellectual knowledge, got through the study of philosophy, is called Bauddhajñāna and the spiritual knowledge, that comes from preceptorial instruction, (Dīksā) is called Pauruşajñāna. Of these the former is more important, because it is this that qualifies a person for the latter. 
+spiritual instruction. The intellectual knowledge, got through the study of philosophy, is called Bauddhajñāna and the spiritual knowledge, that comes from preceptorial instruction, (Dīksā) is called Pauruṣajñāna. Of these the former is more important, because it is this that qualifies a person for the latter. 
 
 To make the point a little clearer let us add here that the limited self also is a manifestation. It is characterised not only by obscuration of its perfect Will Power (Svāntantrye sakti) but also by ignorance thereof. That is, the innate limitation of the individual self is twofold. Not only is its perfect power of will hidden from it, but it is also ignorant of the fact that that power really belongs to it, though obscured, for the time being, by Māyā, the principle of obscuration?. In order that there may take place a perfect self-recognition, there is the necessity of the removal of both, of the veil which hides the perfect power of will and of the ignorance which is responsible for the imaginary distinction between the individual and the supreme Self and which stands in the way of recognition even when the veil is removed. The work of philosophy is simply to remove the veil and to expose what it hides, and thus make self recognition possible, as does the appearance of the lord of the above illustration in his lordly form and place. But this alone does not make the recognition an accomplished fact. Therefore, just as in the case of the illustration of the lord a word from a responsible quarter is needed, so in the present case there is the necessity of Dīkņā to remove the imaginary distinction and to bring about the identification of the individual with the universal Self. 
 
@@ -214,13 +214,13 @@ the causal efficiency to give delight. The former does not presuppose recognitio
 
 "A certain damsel, hearing of the many good qualities of a particular gallant, fell in love with him even before she had seen him, and agitated by her passion and unable to suffer the pain of not seeing, wrote to him a love letter descriptive of her condition. He at once came to her, but when she saw him, she did not recognise in him the qualities, she had heard about, he appeared much the same as any other person, and she found no gratification in his society. So soon, however, as she recognised those qualities, as her companion now pointed them out, she was fully gratified." Similarly though the individual self is identical with the Supreme, yet we cannot get the happiness of this identity unless we are conscious of it. 
 
-WHAT IS DIKŞĀ ? Dīkņā does not mean, as ignorant people think, simply getting a certain religious formula (mantra) whispered intoPRELIMINARY 
+WHAT IS DIKṣĀ ? Dīkņā does not mean, as ignorant people think, simply getting a certain religious formula (mantra) whispered intoPRELIMINARY 
 
 179 
 
 one's ear by a certain religious man. It is rather an act whereby spiritual knowledge is imparted and the bondage of innate ignorance is removed. 
 
-One more point is worthy of note in this connection, viz., that, according to this system, Dīkņā, the spiritual instruction which makes self-recognition an accomplished fact, is not indispensable for mokşa. It is a matter of common experience that even when recognition is due to the removal of the veil and consequent exposure of the hidden qualities and identification of both the mental images with the object present before, it does not always require a word from an authoritative person, as for instance, when the object of recognition reveals some such unmistakable sign? as makes identification of the imaginary vague image with the object present before possible. Saiva writers had observed this and had given the name of Prātibhajñāna to that faculty which enables a person to attain self recognition without the help of Dīkņā. 
+One more point is worthy of note in this connection, viz., that, according to this system, Dīkņā, the spiritual instruction which makes self-recognition an accomplished fact, is not indispensable for mokṣa. It is a matter of common experience that even when recognition is due to the removal of the veil and consequent exposure of the hidden qualities and identification of both the mental images with the object present before, it does not always require a word from an authoritative person, as for instance, when the object of recognition reveals some such unmistakable sign? as makes identification of the imaginary vague image with the object present before possible. Saiva writers had observed this and had given the name of Prātibhajñāna to that faculty which enables a person to attain self recognition without the help of Dīkņā. 
 
 SAKΤΙΡΑΤΑ. 
 
@@ -234,11 +234,11 @@ CHAPTER I
 
 study of the Vedas or even through spiritual instruction, It can be realised by him alone whom He favours and to whom He reveals himself: 
 
-"Nāyamātmā pravacanena labhyo Na medhayā na bahunā śrutena Yamevaişa vrņute tena labhyo Yasmai vivrņute tanum svām. THE CAUSE AND THE NATURE OF BONDAGE. 
+"Nāyamātmā pravacanena labhyo Na medhayā na bahunā śrutena Yamevaiṣa vrņute tena labhyo Yasmai vivrņute tanum svām. THE CAUSE AND THE NATURE OF BONDAGE. 
 
 It is a common belief of all the schools of Indian philosophy that ignorance is the cause of bondage and that knowledge is the only means to liberation. The opinions, however, greatly differ in regard to the exact nature of both. Abhinava has tried to explain and harmonise this difference in his comprehensive study of the system. How he has done So, we shall show as we proceed. Let us first state his, or more correctly, the Saiva, view of these. 
 
-When in the Saiva literature "ignorance" is spoken of as the cause of bondage, it does not mean a total absence of knowledge. For, such a state is to be found only in insentient objects, such as bricks and stones, which, because of the absence of life and feeling, cannot at all be represented to be in bondage. It means simply imperfect knowledge, such as is found in ordinary mortals. It may further be pointed out that in such a context it stands not for the intellectual (bauddha) but for the innate (pauruşa) ignorance which is technically called āņavamala (innate impurity). As such it is represented to be the cause of another impurity, called kārmamala (impurity of Karma). (For details on 
+When in the Saiva literature "ignorance" is spoken of as the cause of bondage, it does not mean a total absence of knowledge. For, such a state is to be found only in insentient objects, such as bricks and stones, which, because of the absence of life and feeling, cannot at all be represented to be in bondage. It means simply imperfect knowledge, such as is found in ordinary mortals. It may further be pointed out that in such a context it stands not for the intellectual (bauddha) but for the innate (pauruṣa) ignorance which is technically called āņavamala (innate impurity). As such it is represented to be the cause of another impurity, called kārmamala (impurity of Karma). (For details on 
 
 1. T. S., 5. 2. T. A., 1, 58. 3. T. A., I, 56. 
 
@@ -246,7 +246,7 @@ PRELIMINARY
 
 181 
 
-this the reader is requested to refer to the 5th chapter). The latter also, in its turn, is said to be the cause of still another, namely, impurity of transmigratory existence? (Māyiya mala). The self is covered with these three impurities [of innate ignorance, of Karma and of trans migratory existence (Anava, Kārma and Māyīya malas) ] exactly in the manner in whicho an ovule (kaņa) is with nucellus (kambuka), integument (kimśāruka) and husk (tuşa). These covers are responsible for the transmigration of the individual self as nucellus, integument and husk are for the development of ovule. Although these impurities are said to be related with one another by causal relation, yet no idea of succession in their coming into being is intended to be implied. For instance, when the innate ignorance is spoken of as the cause of the impurity of Karma, and the latter of transmigratory existence it does not mean that one follows the existence of the other. It simply means that without one the other cannot exist, i. e., the existence of each of the preceding in the above list is an indispensable condition for that of the following. The existence of the body pre supposes that of the Karma'; and the effectiveness of the latter depends upon the existence of the innate ignorance. Thus if there be no innate ignorance the other impurities will automatically disappear. It is because of this that at one place the innate ignorance is spoken of as the greatest and innermost cover; the six sheaths, consisting of Māyā, Kalā, Niyati, Rāga, Vidyā and Kāla, as the inner and subtle cover; and the body as the gross and outer cover, 
+this the reader is requested to refer to the 5th chapter). The latter also, in its turn, is said to be the cause of still another, namely, impurity of transmigratory existence? (Māyiya mala). The self is covered with these three impurities [of innate ignorance, of Karma and of trans migratory existence (Anava, Kārma and Māyīya malas) ] exactly in the manner in whicho an ovule (kaņa) is with nucellus (kambuka), integument (kimśāruka) and husk (tuṣa). These covers are responsible for the transmigration of the individual self as nucellus, integument and husk are for the development of ovule. Although these impurities are said to be related with one another by causal relation, yet no idea of succession in their coming into being is intended to be implied. For instance, when the innate ignorance is spoken of as the cause of the impurity of Karma, and the latter of transmigratory existence it does not mean that one follows the existence of the other. It simply means that without one the other cannot exist, i. e., the existence of each of the preceding in the above list is an indispensable condition for that of the following. The existence of the body pre supposes that of the Karma'; and the effectiveness of the latter depends upon the existence of the innate ignorance. Thus if there be no innate ignorance the other impurities will automatically disappear. It is because of this that at one place the innate ignorance is spoken of as the greatest and innermost cover; the six sheaths, consisting of Māyā, Kalā, Niyati, Rāga, Vidyā and Kāla, as the inner and subtle cover; and the body as the gross and outer cover, 
 
 1. T. A., 1, 54. 2. P. S., 55, 57. 3. T.A., VI, 111. 4. T. A., VI, 82-3. 
 
@@ -298,7 +298,7 @@ PRELIMINARY
 
 185 
 
-the impure creation. Every mortal in the state of creation (srşti-daśa) is Sakala, because there are all the three impurities in him. These very mortals in the state of dissolution (Pralaya) are called Pralayākalas, because at that time they have no mortal coils, the body, which, with all that it can be associated with, is called the impurity of Māyā. Thus Pralayākalas have only two impurities. The experiencers of the transitional stage between the impure and the pure creations are known as Vijñānākslas. 
+the impure creation. Every mortal in the state of creation (srṣti-daśa) is Sakala, because there are all the three impurities in him. These very mortals in the state of dissolution (Pralaya) are called Pralayākalas, because at that time they have no mortal coils, the body, which, with all that it can be associated with, is called the impurity of Māyā. Thus Pralayākalas have only two impurities. The experiencers of the transitional stage between the impure and the pure creations are known as Vijñānākslas. 
 
 (Māyordhve Suddhavidyādbah santi vijñānakevalāh). These possess only one impurity, that of innate ignorance, which is inclining towards destruction in their case. 
 
@@ -344,11 +344,11 @@ PRELIMINARY
 
 187 
 
-philosophy. The latter is more important than the former, not so much because it can liberate a person right in his life time, as because the Dīkşā is inefficacious in bringing about salvation without the assistance of the Bauddha jñāna”. 
+philosophy. The latter is more important than the former, not so much because it can liberate a person right in his life time, as because the Dīkṣā is inefficacious in bringing about salvation without the assistance of the Bauddha jñāna”. 
 
 There are four ways to liberation, Anupāya, Sāmbhava, Sākta and Anava. Each of these does not directly lead to the realisation of the Ultimate Reality. Each of the Succeeding, in the above order, leads to that which immediately precedes. It is the first alone which can be called the direct means. The difference, however, between the first and the second i. e. Anupāya and Sāmbhava, is very slight. The former, therefore, is not counted as a separate way in some authoritative books of the system. In fact it is regarded as the highest stage of the latter (Sāmbhava). 
 
-Antoner. Billeder At some places the word "Samāveśa' is found substituted 9 for "Upāya" It is defined as a merging into its ultimate form, the highest reality? of that which, being apparently separate from the Ultimate, is limited. This gives us some idea of the chief point of distinction between one of the ways and the rest. The word "Samāveśa" literally means "complete or perfect immersion". l. There are four such immersions. Beginning from the last, each one leads to the preceding one, up to the first, which alone is considered to be the direct way to salvation i. e. the realisation or the recognition of the Ultimate Reality. This process of immersion appears to be a complete reversal of that of emergence. Or, to put it more clearly, the process involved in Mokşa is the complete reverse of 
+Antoner. Billeder At some places the word "Samāveśa' is found substituted 9 for "Upāya" It is defined as a merging into its ultimate form, the highest reality? of that which, being apparently separate from the Ultimate, is limited. This gives us some idea of the chief point of distinction between one of the ways and the rest. The word "Samāveśa" literally means "complete or perfect immersion". l. There are four such immersions. Beginning from the last, each one leads to the preceding one, up to the first, which alone is considered to be the direct way to salvation i. e. the realisation or the recognition of the Ultimate Reality. This process of immersion appears to be a complete reversal of that of emergence. Or, to put it more clearly, the process involved in Mokṣa is the complete reverse of 
 
 1. T A., 1, 81-2. 4. T. A., 1, 255-6. 7. T. A., I, 205. 
 
@@ -362,7 +362,7 @@ T. A., I, 258. T. A., I, 182.
 
 CHAPTER I 
 
-that of Abhāsa or manifestation. We know that, according to the Trika, creation is nothing but manifestation without of what is within; that, in the order of sucession in manifestation, Ananda, Icchā, Jñāna, and Kriyā follow one another in their respective order; and that these stand for successive states of the universal consciousness in the process of manifestation. We also know that, corresponding to these very states in manifestation or emergence, there are four states leading to complete immersion (samāveśa) as stated above. In fact two of these, namely, the Sākta and the Aņava, are also called Jfiānopāya and Kriyopāya respectively, because they are mostly concerned with the manifestations of the powers of Jñiāna and Kriyā respectively And from the nature of description of the remaining two it is clear that Abhinava meant them also to be called Anandopāya and Icchopāya respectively. Thus, just as in the course of successive manifestation of Ananda, Iccha, Jírāna and Kriyā, each of the preceding leads to that which immediately follows, so in the course of the gradual immersion (krama-samāveśa or mukti) these very powers similarly merge into one another in the reverse order. For, mokşa is nothing but, broadly speaking, an individual dissolution and, therefore, the opposite of manifestation. 
+that of Abhāsa or manifestation. We know that, according to the Trika, creation is nothing but manifestation without of what is within; that, in the order of sucession in manifestation, Ananda, Icchā, Jñāna, and Kriyā follow one another in their respective order; and that these stand for successive states of the universal consciousness in the process of manifestation. We also know that, corresponding to these very states in manifestation or emergence, there are four states leading to complete immersion (samāveśa) as stated above. In fact two of these, namely, the Sākta and the Aņava, are also called Jfiānopāya and Kriyopāya respectively, because they are mostly concerned with the manifestations of the powers of Jñiāna and Kriyā respectively And from the nature of description of the remaining two it is clear that Abhinava meant them also to be called Anandopāya and Icchopāya respectively. Thus, just as in the course of successive manifestation of Ananda, Iccha, Jírāna and Kriyā, each of the preceding leads to that which immediately follows, so in the course of the gradual immersion (krama-samāveśa or mukti) these very powers similarly merge into one another in the reverse order. For, mokṣa is nothing but, broadly speaking, an individual dissolution and, therefore, the opposite of manifestation. 
 
 The various stages in manifestation from Cit to Kriyā are admitted to correspond to those from the state of deep sleep to that of action. It would not, therefore, be wrong to say that the four stages leading from the mundane exist ence to the complete immersion in the Highest Reality, similarly correspond to those which are experienced in falling into sleep from the state of activity. If we carefully analyse our successive experiences from the time when we 
 
@@ -408,15 +408,15 @@ PRELIMINARY
 
 follower of this path in consequence of just a word from & responsible quarter as in the case of complex recognition described above. The stage attained by this way may be compared to deep sleep, in which consciousness is free from all affections. 
 
-TRIKA CONCEPTION OF MOKŞA. 
+TRIKA CONCEPTION OF MOKṣA. 
 
-Mokşa, according to the Trika, is nothing but the state of perfect purity of consciousness. It is the realisation of the Self, the Para Samvit or the Supreme Consciousness, which is beyond the reach of both thought and language and is the ultimate source not only of both of them but also of all that they imply or involve. It is purely subjective and, therefore, is both unilluminable (aprakāsya) by any external light and unknowable (ajñeya) by any means of knowledge. It transcends all ; it surpasses all ; it is the ultimate aim of all aims. It may be called consciousness, not such as we ordinarily have, but that which is a matter of experience of the Yogins in the pure or post-transcendental state of consciousness. 
+Mokṣa, according to the Trika, is nothing but the state of perfect purity of consciousness. It is the realisation of the Self, the Para Samvit or the Supreme Consciousness, which is beyond the reach of both thought and language and is the ultimate source not only of both of them but also of all that they imply or involve. It is purely subjective and, therefore, is both unilluminable (aprakāsya) by any external light and unknowable (ajñeya) by any means of knowledge. It transcends all ; it surpasses all ; it is the ultimate aim of all aims. It may be called consciousness, not such as we ordinarily have, but that which is a matter of experience of the Yogins in the pure or post-transcendental state of consciousness. 
 
-OTHER CONCEPTIONS OF MOKŞA FROM THE TRIKA 
+OTHER CONCEPTIONS OF MOKṣA FROM THE TRIKA 
 
 POINT OF VIEW. 
 
-This system believes in 36 categories or Tattvas. We shall deal with them in the third chapter and shall explain why only thirty six, neither more nor less, are accepted. Here we are concerned only with pointing out the view of the Trika about the conceptions of Mokşa of other systems and with stating as to which of the 36 categories some of the prominent ones among them reach because of their peculiar philosophical conceptions. In the 1st Āhnika of his Tantrāloka, Abhinava criticises the conceptions of Mokşa 
+This system believes in 36 categories or Tattvas. We shall deal with them in the third chapter and shall explain why only thirty six, neither more nor less, are accepted. Here we are concerned only with pointing out the view of the Trika about the conceptions of Mokṣa of other systems and with stating as to which of the 36 categories some of the prominent ones among them reach because of their peculiar philosophical conceptions. In the 1st Āhnika of his Tantrāloka, Abhinava criticises the conceptions of Mokṣa 
 
 1. 
 
@@ -432,13 +432,13 @@ CHAPTER I
 
 of three systems, the Idealistic and the Nihilistic schools of Buddhism and the Sānkhya, as follows : 
 
-VIJÑANAVĀDIN'S CONCEPTION OF MOKŞA. The Citta (mind or self ?), the Vijñānavādins hold, is extremely pure by nature. Because of the beginningless ignorance, however, it is covered up with adventitious im purities which are the cause of the appearance of the transitory world phenomena. And because all the experiences of the phenomenal world are entirely due to the impurities, the former, therefore, automatically cease with the cessation of the latter. Thus the nirvāṇa is nothing but freedom from the impurities. It is to be attained through constant deep meditation and other practices enjoined in the Buddhist scripture. 
+VIJÑANAVĀDIN'S CONCEPTION OF MOKṣA. The Citta (mind or self ?), the Vijñānavādins hold, is extremely pure by nature. Because of the beginningless ignorance, however, it is covered up with adventitious im purities which are the cause of the appearance of the transitory world phenomena. And because all the experiences of the phenomenal world are entirely due to the impurities, the former, therefore, automatically cease with the cessation of the latter. Thus the nirvāṇa is nothing but freedom from the impurities. It is to be attained through constant deep meditation and other practices enjoined in the Buddhist scripture. 
 
-ITS REFUTATION. The defects of the above conception of nirvāṇa are apparent. It conflicts with the well known Bauddha theory of momentariness. If all that exists, is momentary, so also must be the mind. And if so, it cannot have existence long enough to be affected by Bhāvanā and, therefore, there can be no possibility of Mokșa which is simply its effect. Moreover, according to the Idealistic Buddhism, each moment (kşaņa) gives birth to another which is similar to it in all respects. How can then the veiled original moment produce one which is dissimilar to it, i.e., free from the veil ? 
+ITS REFUTATION. The defects of the above conception of nirvāṇa are apparent. It conflicts with the well known Bauddha theory of momentariness. If all that exists, is momentary, so also must be the mind. And if so, it cannot have existence long enough to be affected by Bhāvanā and, therefore, there can be no possibility of Mokșa which is simply its effect. Moreover, according to the Idealistic Buddhism, each moment (kṣaņa) gives birth to another which is similar to it in all respects. How can then the veiled original moment produce one which is dissimilar to it, i.e., free from the veil ? 
 
-NIHILIST'S THEORY OF MOKŞA AND ITS REFUTATION. 
+NIHILIST'S THEORY OF MOKṣA AND ITS REFUTATION. 
 
-According to the Nihilistic Buddhism (Sünyavāda), even the Vijñāna of the Idealists has no existence: and Mokşa is nothing but the realisation of this nihility. But this is 
+According to the Nihilistic Buddhism (Sünyavāda), even the Vijñāna of the Idealists has no existence: and Mokṣa is nothing but the realisation of this nihility. But this is 
 
 1. 
 
@@ -454,9 +454,9 @@ PRELIMINARY
 
 an impossible position. For, if nothing exists what can be realised and by whom? But if, in order to get out of this difficulty, the existence of the realiser' be admitted, that would mean the abandonment of the fundamental principle. The Nihilist's conception of Moksa is thus as inconsistent with his fundamental principle as that of the idealist. 
 
-SANKHYA CONCEPTION OF MOKŞA AND ITS CRITICISM. 
+SANKHYA CONCEPTION OF MOKṣA AND ITS CRITICISM. 
 
-The Sānkhya conception of Moksa is no better. The Sāökhya holds that the whole universe is an evolute of an eternal principle, called Prakrti ; that Puruşa, the self, is altogether passive and simply looks indifferently on the work of the former ; and that freedom from worldly bondage can be attained through the correct knowledge of the twenty-four categories of the Sārkhya system as distinct from the self. But the question, that the Trika raises against this theory, is, how and where can this knowledge of distinction take place ? The Prakrti is insentient and, therefore, no knowledge such as "I have been seen and, therefore, let me not work for him" can reasonably be attributed to her. The case of puruşa is no better. He is perfectly passive (nirlepa). The supposition, therefore, of any such affection in puruşa as that involved in knowing the distinction between himself and the twenty-four Tattvas would mean selfcontradiction. 
+The Sānkhya conception of Moksa is no better. The Sāökhya holds that the whole universe is an evolute of an eternal principle, called Prakrti ; that Puruṣa, the self, is altogether passive and simply looks indifferently on the work of the former ; and that freedom from worldly bondage can be attained through the correct knowledge of the twenty-four categories of the Sārkhya system as distinct from the self. But the question, that the Trika raises against this theory, is, how and where can this knowledge of distinction take place ? The Prakrti is insentient and, therefore, no knowledge such as "I have been seen and, therefore, let me not work for him" can reasonably be attributed to her. The case of puruṣa is no better. He is perfectly passive (nirlepa). The supposition, therefore, of any such affection in puruṣa as that involved in knowing the distinction between himself and the twenty-four Tattvas would mean selfcontradiction. 
 
 These systems have thus failed to render a coherent account of the position they have attempted to maintain. Their founders and exponents have not been able to understand the true nature of the Ultimate Reality They are not, however, as far away from the truth as the materialists. They have made approaches to it with varying degrees of success, some being a little nearer it than others. Each one of them has been able to grasp the real nature of 
 
@@ -466,7 +466,7 @@ These systems have thus failed to render a coherent account of the position they
 
 CHAPTER I 
 
-some one or the other of the higher Tattvas which he has taken to be the ultimate reality. The Bauddha, for instance, has understood the real nature of the Buddhi Tattva, the Sankhya that of the Puruşa? Tattva, and the Pātañjala that of the Niyati Tattva.2 These systems, there fore, can surely help in the attainment of the respective Tattvas which they fully explain. But none of them can bring about the complete self-realisation, the full recognition of the Ultimate Reality. 
+some one or the other of the higher Tattvas which he has taken to be the ultimate reality. The Bauddha, for instance, has understood the real nature of the Buddhi Tattva, the Sankhya that of the Puruṣa? Tattva, and the Pātañjala that of the Niyati Tattva.2 These systems, there fore, can surely help in the attainment of the respective Tattvas which they fully explain. But none of them can bring about the complete self-realisation, the full recognition of the Ultimate Reality. 
 
 The followers of these systems however, do rise above the level of the common man inasmuch as they get liberation, though partial, from the impurity, called Māyīyamala. But they cannot be spoken of as liberated (mukta) in the real sense of the term, because the remaining two impurities, namely, the kārma and the āņava malas, remain associated with them even after the realisation of what they consider to be the ultimate reality. The perfect freedom, therefore, the Trika holds, can be got only through the Pratyabhijñā. 
 

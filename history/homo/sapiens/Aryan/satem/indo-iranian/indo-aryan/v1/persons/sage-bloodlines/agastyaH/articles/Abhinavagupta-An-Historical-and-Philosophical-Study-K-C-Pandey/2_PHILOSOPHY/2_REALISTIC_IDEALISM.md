@@ -9,7 +9,7 @@ short_title = "2 ĀBHĀSAVĀDA or"
 
 The aim of every system of philosophy is to explain the why, the what and the wherefrom of the knowable. Every system bases its conclusions on a careful study of facts of experience and the comparative importance of each depends upon how far it satisfactorily accounts for these facts. Abhinava claims this basis of facts for his system, the Trika. To the facts of experience, as has already been stated, he gives the first, to reason the second, and to a scriptural authority only the last place as the basis of his theories. 
 
-Abhinava differs in his explanation of the world of experience from both the realistic and the idealistic schools of Indian Thought. From the logical realism of the Nyāya and from the atomistic pluralism of the Vaiśesika he completely differs both in details and in fundamentals. From the realistic dualism of the Sankhya, from the subjective idealism of the Bauddha and from the monistic idealism of the Vedānta, however, his difference is confined mostly to the fundamentals only. Because the Trika system, on which his explanation is based, accepts, with some modifications of course, the twenty four categories together with the Puruşa concept of the Sankhya, the principle of momentariness of the Bauddha and the Māyā of the Vedāntin. 
+Abhinava differs in his explanation of the world of experience from both the realistic and the idealistic schools of Indian Thought. From the logical realism of the Nyāya and from the atomistic pluralism of the Vaiśesika he completely differs both in details and in fundamentals. From the realistic dualism of the Sankhya, from the subjective idealism of the Bauddha and from the monistic idealism of the Vedānta, however, his difference is confined mostly to the fundamentals only. Because the Trika system, on which his explanation is based, accepts, with some modifications of course, the twenty four categories together with the Puruṣa concept of the Sankhya, the principle of momentariness of the Bauddha and the Māyā of the Vedāntin. 
 
 1. 
 
@@ -65,9 +65,9 @@ The ideas of unity and multiformity, of time and space, and of name and form, ar
 
 199 
 
-This concept of the Anuttara is very much similar to that of the pure suddha) Brahman of the Vedāntin. Compare for instance the following quotation from the Tavalakāro panışad : 
+This concept of the Anuttara is very much similar to that of the pure suddha) Brahman of the Vedāntin. Compare for instance the following quotation from the Tavalakāro panıṣad : 
 
-"Na tatra cakşur gacchati no vāg gacchati no mano na vidmo na vijānīmo yathaitad anuśişyād anyadeva viditād atho aviditād adhi.” T. U., Ch. I, 3. 
+"Na tatra cakṣur gacchati no vāg gacchati no mano na vidmo na vijānīmo yathaitad anuśiṣyād anyadeva viditād atho aviditād adhi.” T. U., Ch. I, 3. 
 
 After the admission that the Ultimate Reality is beyond the reach of thought and language, the attempt of the Abhāsavādin to speak on it is similar to that of the Vedāntin, who, as we have just pointed out, agrees to a very large measure with the former on this point. Both attempt to give an idea of the Ultimate in its relation to us as the Creator. Both admit that no definition of the Ultimate can be perfect and still both attempt to define it in words, which, according to them, express the reality in the best possible way. 
 
@@ -109,7 +109,7 @@ ABHĀSAVĀDA
 
 affections; to analyse all its states of varying affections due either to the internal or the external causes; to retain these affections in the form of residual traces (samskāras); to take out, at will, at any time, any thing out of the existing stock of the sarskāras and bring back an old affected state of itself as in the case of remembrance, and to create an altoge ther new state of self-affection by making a judicious selection from the existing stock and displaying the material so selected on the back-ground of its prakāśa aspect as at the time of free imagination. The word "Vimarsa" stands for all this and much more. At times "āmarsa" and "pratya vamarsa" also are used as substitutes of «vimarsa"; but they always do not connote all that «vimarsa" does. It represents the distinctive aspect of the individual self and differentiates it from mirror, maņi, crystal and similar other substances capable of receiving reflection. The point has very clearly been stated by Abhinava in his Pratyabhijñā Vimarsinī as follows: 
 
-"Atha anyenāpi satā ghatena, yatovabhāsasya prati bimbarūpā chāyā dattā, tām asau avabhāso bibhrad ghatasya prakāśa ityucyate,/ tatasca ajadah, tarhi sphatikasalilamukurādih api evambhūta eva iti ajadah syāt. Atha tathābhūtam api ātmānam tam ca ghatā. dikaṁ sphatikādih na parāmrştum samarthah iti jadah. tathā parāmarśanam eva ajādyajīvitam antarvahiş. karanasvātantryarūpam" 1. P. V., I, 198. 
+"Atha anyenāpi satā ghatena, yatovabhāsasya prati bimbarūpā chāyā dattā, tām asau avabhāso bibhrad ghatasya prakāśa ityucyate,/ tatasca ajadah, tarhi sphatikasalilamukurādih api evambhūta eva iti ajadah syāt. Atha tathābhūtam api ātmānam tam ca ghatā. dikaṁ sphatikādih na parāmrṣtum samarthah iti jadah. tathā parāmarśanam eva ajādyajīvitam antarvahiṣ. karanasvātantryarūpam" 1. P. V., I, 198. 
 
 Thus when the Trika speaks of the individual self as "Prakāśa vimarśamaya" it means that the self is self luminous, and contains residual traces within and that it is capable of receiving reflection, of knowing itself and others, of controlling what it contains within and of giving rise to new psychic phenomena with the residual traces which are essentially the same with itself, 
 
@@ -273,7 +273,7 @@ itself and are due to internal factors. These factors, in order that they may af
 
 Now the question is how these factors are connected with the self, or rather, where and how do they exist before their rise ? Our experience tells us that they rise at our will from our consciousness independently of all external help and appear on the back-ground of consciousness and again merge in the same, much in the manner of waves in the ocean. If so, the answer to the above question is that just as the waves exist in the ocean before they rise, so do the images, which affect the purity of consciousness at the time of imagination, in the self, before they appear on the back-ground of its prakāśa aspect. This is exactly what Abhinava says in regard to the relation of Abhāsas with the Universal Self in the course of discussion on the several meanings of the word "Anuttara" in the Parātrimśikā vivarana : 
 
-"Tattvāntarāņi şaţtrimśat anāśritaśivaparyantāni 
+"Tattvāntarāņi ṣaţtrimśat anāśritaśivaparyantāni 
 
 parabhairavānupraveśāsāditatathābhāvasiddhīni." 
 
@@ -289,7 +289,7 @@ Here it may be asked “Why does the Self manifest these Ābhāsas ?" Abhinava a
 
 "Asthāsyadekarūpeņa vapusā cenmaheśvarah 
 
-Maheśvaratvam samvittvam tadatyakşyad ghatādivat." 
+Maheśvaratvam samvittvam tadatyakṣyad ghatādivat." 
 
 Our study of the microcosm fully supports the fact that such is the nature of the Ultimate Reality. Can we attribute the individual manifestation of dream or imagination to anything else than the very nature of the individual self ? 
 
@@ -479,7 +479,7 @@ It may be stated at the very outset that the word Kartrtva sakti is used in more
 
 “Sa cāyam svatantrah......... 
 
-........tadevāsya pārameśvaryam mukhyamānandamayam rūpam iti pūrvamupāttar 'kartari' iti. Tadeva svātantryam vibhajya vakturh 'jñatari' iti paścānnirdiştam" 
+........tadevāsya pārameśvaryam mukhyamānandamayam rūpam iti pūrvamupāttar 'kartari' iti. Tadeva svātantryam vibhajya vakturh 'jñatari' iti paścānnirdiṣtam" 
 
 I. P. V., I, 31-2. 
 

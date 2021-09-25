@@ -23,7 +23,7 @@ Pratyabhijñā Prabodha Pañcadaśikā Bharga Sikhā
 75 
 Bhūti Rāja Bhairava Kula 
 130 
-Bhairava Tantra Mandra Sişya 
+Bhairava Tantra Mandra Siṣya 
 71 
 134 
 36 
@@ -32,7 +32,7 @@ NC S
 ( 388 ) 
 Page 
 Name 
-Malini Rudra Tantra Lakşmaņagupta 
+Malini Rudra Tantra Lakṣmaņagupta 
 Lollata Vayyā Vijñāna Sastra Sankara Nandana Sambhunātha Siva Tantra Siva Drsti Siva Sastra Sāra Sastra Sumati Somānanda Stotra (Bhatta Nārāyana) Spanda Sastra Svacchanda Tantra ... Svacchanda Sastra ... Svatantra Sastra 
 1 
 12 
@@ -45,7 +45,7 @@ Name Advaya Sampatti Vārtika (Vāmana)
 Abhinavagupta 
 22, 24, 57, 59, 163, 198, 222, 236 Isvara Pratyabhijñā ... 
 58, 238 Isvara Pratyabhijñā Tikā 
-195 Ucchuşma Sāstra Utpaladeva 
+195 Ucchuṣma Sāstra Utpaladeva 
 27, 31, 131 Katha Kallata 
 103 
 71 
@@ -69,7 +69,7 @@ Page Kirana
 119 Nityā Tantra 
 155 Niśācara 
 92 Padārtha Praveśa Nirnaya (Abhi) 
-162 Puşpadanta 
+162 Puṣpadanta 
 173 Pūrva Pañcikā (Abhi) 
 24,57 Pūrva Sastra ... 118, 128, 148, 151, 211, 241, 242 Pratyabhijña 
 266 Bhatta Dhaneśvara Sarmā 
@@ -104,11 +104,11 @@ Vivrti (Somānanda) ...
 16, 52, 59 Vīrāvali Šāstra ... 
 236 
 Vyāsa 
-51 Siva Drşti (Somānanda) ... 114, 129, 160, 177, 273 Sīva Drstyālocana (Abhi) 
+51 Siva Drṣti (Somānanda) ... 114, 129, 160, 177, 273 Sīva Drstyālocana (Abhi) 
 116 
 Sesa Muni Sri Lāghādi Sastra 
 201 
-Şadardha Sastra 
+ṣadardha Sastra 
 176, 236 Sampradāya Prathamāhnika 
 178 
 Sarva Sastra Sarvācāra 
@@ -151,7 +151,7 @@ Utpala
 7 12 13 
 176 Ürmi Maha Sastra 
 39 14 
-230 Aitareyopanişad 
+230 Aitareyopaniṣad 
 2 3 
 215 
 96 Kallața 
@@ -207,7 +207,7 @@ Trīšikā Sastra
 8 
 13 
 96 
-Trīšikāśāstra Vivrti Traisirasamata Dīkşottara 
+Trīšikāśāstra Vivrti Traisirasamata Dīkṣottara 
 1 
 155 
 99 
@@ -338,7 +338,7 @@ Siva tanu Sāstra
 166 72 73 
 Sivadrsti Siva Sasana 
 9 13 1 8 11 13 
-Siva Sutra Seşa 
+Siva Sutra Seṣa 
 13. 
 ) 
 Name 
@@ -397,7 +397,7 @@ Page
 187 
 32, 97, 99, 107, 186 
 186 
-Anubhava Stotra Ananda Ucchuşma Sastra Kaņāda Kallata Tantra Kula Tantra Sadbhāva Tantrāloka Triširomata Nandi Sikha Nitya Tantra Pāņini Pārameśvara Prakarana Vivarana (Abhi) Bhūtirāja Guru Matanga Sastra Malla Kulesa Mālini Vijaya 
+Anubhava Stotra Ananda Ucchuṣma Sastra Kaņāda Kallata Tantra Kula Tantra Sadbhāva Tantrāloka Triširomata Nandi Sikha Nitya Tantra Pāņini Pārameśvara Prakarana Vivarana (Abhi) Bhūtirāja Guru Matanga Sastra Malla Kulesa Mālini Vijaya 
 Yāmala Yoga Sancara Ratnamāla Raurava Sastra 
 27 
 187 2, 32, 61 
@@ -414,7 +414,7 @@ Name
 31 
 34 
 31, 32 
-Vidyāpati Sambhunātha Sivanatha Sri Pūrva Sloka Vārtika Şadardha Sastra Siddhāmata 
+Vidyāpati Sambhunātha Sivanatha Sri Pūrva Sloka Vārtika ṣadardha Sastra Siddhāmata 
 107 
 170, 186 
 (V) 
@@ -522,7 +522,7 @@ Sloka
 Name 
 Chapter Rahasya Sastra Laghvi Prakriyā (Abhi) 
 12 Veda Sivasaktyavinābhāva Stotra 
-(Abhi) 15 Sivopanişad 
+(Abhi) 15 Sivopaniṣad 
 Sruti 
 Satritamātrādhyāya Somānanda Pāda Spanda 
 (VII) 
@@ -535,7 +535,7 @@ Ananta Abhinavagupta
 3, 23, 191, 199 
 105 
 80 
-Agama Āgamika Utpala Udayākara Kāņāda Drşti 
+Agama Āgamika Utpala Udayākara Kāņāda Drṣti 
 120 250, 276 
 276 91, 252, 276 
 6, 269 
@@ -552,7 +552,7 @@ Page
 Tantra Sāra Tantrāloka (Abhi) Tarkika Traiyambaka Naiyāyika Nyāyanirmāņa Bedhas 
 2 
 25 
-Nyāyabhāşyakrt Patañjali Parameșthi (Somānanda) 
+Nyāyabhāṣyakrt Patañjali Parameșthi (Somānanda) 
 127 
 84 157 208 
 272 
@@ -574,12 +574,12 @@ karavatsa) Vrttikt Veda Veda Siddhānta
 403) 
 Name 
 Vol. 
-Vaišeşika Sākya Sivadrști 
+Vaišeṣika Sākya Sivadrști 
 Page 34, 135 
 243 15, 49 
 271 
 200 
-Siva Sutra Şadardhasāra Sānkhya 
+Siva Sutra ṣadardhasāra Sānkhya 
 203 34, 42, 70, 91, 135, 
 172, 252 
 135 236 211 2, 47 
