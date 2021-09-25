@@ -8,9 +8,8 @@ HISTORICAL.
 
 
 
-CHAPTER 1. 
 
-LIFE OF ABHINAVAGUPTA. 
+## 1 LIFE OF ABHINAVAGUPTA. 
 
 PRELIMINARY. 
 
@@ -306,6 +305,7 @@ LIFE OF ABHINAVAGUPTA
 
 he has gratefully acknowledged and rewarded their services by mentioning them in some of his important works. Thus noble was his birth, loving and gentle his temper, honest and rigorous his life, strong and admirable his character, brilliant and highly useful his career, memorable and lasting his contribution to both poetics and philosophy, and glorious was the last scene of his earthly existence when like Tennyson's legendary king Arthur, he parted from his followers never to be seen again. 
 
+## 2 HIS WORKS
 CHAPTER II. 
 
 HIS WORKS. 
@@ -1252,7 +1252,7 @@ A set of his works dealing with the Anuttara, Abhinava used to refer to as "Anut
 
 T. A., Comm., VI, 249. The two works under discussion are apparently of the said set. It was a common practice among the Kashmir writers of the 10th and the 11th centuries to write more than one commentary on the same work. Utpalācārya, the grand teacher of Abhinava, for instance, has written two commentaries on his own Isvarapratyabhijñākarikā, namely, the Vrtti and the Vivrti, the first being the smaller of the two. 
 
-CHAPTER III HISTORICAL BACKGROUND OF HIS THOUGHT 
+## 3 HISTORICAL BACKGROUND OF HIS THOUGHT 
 
 In the last chapter we have divided the literary activity of Abhinava into three periods and have placed the Tantric period first of all. In this chapter we propose to trace the historical background of his Tantric, philosophic and alankārika thoughts. We may state at the very outset that our subject being "A Study of Abhinavagupta", we do not mean to follow the traditional method of tracing the origin of the three subjects, on which he worked, to some ideas found in the Vedas and their development through the later literature till they got the respective names by which they are now known. We shall strictly confine ourselves to stating what idea of their history we get from the writings of Abhinava himself, and of his immediate predecessors, to whom he often refers, to enable the reader to picture to himself the stages in the development of these ideas at which Abhinava took them up and the modifications which he introduced into them. We may further add that certain statements in the following pages will appear more mythical than historical, particularly in the part, dealing with the history of the Tantric literature. But they have been given a place here, partly to let the reader know the orthodox belief in its high antiquity and partly for a grain of historical truth that we find therein. 
 
@@ -2738,9 +2738,9 @@ Abhinava refers to Bhattendurāja in the Tantraloka, Ah. 37, S. 60, as Bhūti R�
 
 1. Bh. G. S. 
 
-CHAPTER IV. 
+## 4 HIS IMPORTANCE AND INFLUENCE.
 
-HIS IMPORTANCE AND INFLUENCE. In the preceding chapter we have tried to trace the historical background of Abhinava's tantric, poetic and philosophic thoughts to give a clear idea of the material on which he worked and of the advance that his thoughts present on those of his predecessors. In this chapter we propose to deal with some of the important writers, who succeeded him, to show his importance in the eyes of the later generations and to indicate how far he influenced the ideas of the future writers and how his work was carried on by his immediate successors. We, therefore, for the sake of convenience, divide the writers on whom we have to speak here into two classes : 
+In the preceding chapter we have tried to trace the historical background of Abhinava's tantric, poetic and philosophic thoughts to give a clear idea of the material on which he worked and of the advance that his thoughts present on those of his predecessors. In this chapter we propose to deal with some of the important writers, who succeeded him, to show his importance in the eyes of the later generations and to indicate how far he influenced the ideas of the future writers and how his work was carried on by his immediate successors. We, therefore, for the sake of convenience, divide the writers on whom we have to speak here into two classes : 
 
 1. His commentators. 2. Other writers who were directly influenced by him. 
 

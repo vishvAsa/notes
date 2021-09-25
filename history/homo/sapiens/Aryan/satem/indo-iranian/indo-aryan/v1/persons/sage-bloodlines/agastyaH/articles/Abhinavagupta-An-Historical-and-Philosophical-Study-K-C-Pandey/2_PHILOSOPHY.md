@@ -7,6 +7,7 @@ PART II.
 
 PHILOSOPHY. 
 
+## 1 PRELIMINARY
 CHAPTER I. 
 
 PRELIMINARY. 
@@ -477,11 +478,10 @@ The followers of these systems however, do rise above the level of the common ma
 
 1. T. A., I, 69. 2. T. A., I, 70. 
 
-CHAPTER II. ĀBHĀSAVĀDA. 
+## 2 ĀBHĀSAVĀDA. or "REALISTIC IDEALISM."
+ĀBHĀSAVĀDA. or "REALISTIC IDEALISM."
 
-or 
-
-"REALISTIC IDEALISM." The aim of every system of philosophy is to explain the why, the what and the wherefrom of the knowable. Every system bases its conclusions on a careful study of facts of experience and the comparative importance of each depends upon how far it satisfactorily accounts for these facts. Abhinava claims this basis of facts for his system, the Trika. To the facts of experience, as has already been stated, he gives the first, to reason the second, and to a scriptural authority only the last place as the basis of his theories. 
+The aim of every system of philosophy is to explain the why, the what and the wherefrom of the knowable. Every system bases its conclusions on a careful study of facts of experience and the comparative importance of each depends upon how far it satisfactorily accounts for these facts. Abhinava claims this basis of facts for his system, the Trika. To the facts of experience, as has already been stated, he gives the first, to reason the second, and to a scriptural authority only the last place as the basis of his theories. 
 
 Abhinava differs in his explanation of the world of experience from both the realistic and the idealistic schools of Indian Thought. From the logical realism of the Nyāya and from the atomistic pluralism of the Vaiśesika he completely differs both in details and in fundamentals. From the realistic dualism of the Sankhya, from the subjective idealism of the Bauddha and from the monistic idealism of the Vedānta, however, his difference is confined mostly to the fundamentals only. Because the Trika system, on which his explanation is based, accepts, with some modifications of course, the twenty four categories together with the Puruşa concept of the Sankhya, the principle of momentariness of the Bauddha and the Māyā of the Vedāntin. 
 
@@ -1001,7 +1001,8 @@ We may add here that the Universal Consciousness with the powers described in th
 
 CHAPTER III the world. The Universal Consciousness is called Maheśvara because it controls, in every way, not only all that we can conceive but also all that which is beyond the conception of our limited power. 
 
-1. I. P. V., 1, 44.CHAPTER III. THE CATEGORIES OF THE ABHĀSAVĀDA. 
+1. I. P. V., 1, 44.
+## 3 CATEGORIES OF ABHĀSAVĀDA. 
 
 In the preceding chapter we have dealt with the Abhāsavādin's concept of the Universal Consciousness as the manifestor. In this chapter, therefore, we propose to give & brief exposition of the Manifested. 
 
@@ -1391,9 +1392,10 @@ Indriyas, according to the Trika, are not mere physical organs of smelling and h
 
 T. A., VI, 199. 
 
-CHAPTER IV. ABHĀSAVĀDA AS THE BASIS OF THE TRIKA THEORY 
+## 4 ABHĀSAVĀDA AS THE BASIS OF THE TRIKA THEORY OF KNOWLEDGE. 
+ABHĀSAVĀDA AS THE BASIS OF THE TRIKA THEORY OF KNOWLEDGE.
 
-OF KNOWLEDGE. Preliminaries and Presuppositions. 
+Preliminaries and Presuppositions. 
 
 ĀBHĀSAVĀDA AND PRACTICAL LIFE. 
 
@@ -1985,9 +1987,8 @@ Thus the Trika seems to give a satisfactory explanation of English words "recoll
 
 I. P., V., I, 119-20. I. P. V., I. 129. 
 
-CHAPTER V. THE THEORIES OF EFFECTABILITY CAUSAL 
-
-AND KARMA. 
+## 5 EFFECTABILITY CAUSAL AND KARMA
+CHAPTER V. THE THEORIES OF EFFECTABILITY CAUSAL AND KARMA. 
 
 THE ABHĀSAVĀDA AND THE PHYSICAL PHENOMENA. 
 
