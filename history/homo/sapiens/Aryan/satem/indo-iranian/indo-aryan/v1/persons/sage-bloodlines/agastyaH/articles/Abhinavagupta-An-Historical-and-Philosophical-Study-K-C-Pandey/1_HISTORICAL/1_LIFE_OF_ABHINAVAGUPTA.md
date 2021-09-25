@@ -63,30 +63,30 @@ Lakṣmanagupta, though undoubtedly a teacher of Abhinava in Pratyabhijñā was 
 ## ABHINAVA AS A YOGINĪBHŮ.
 In and about the 10th and the 11th centuries the atmosphere in Kashmir was thoroughly surcharged with the spirit of religion. The people then believed in the efficacy of religious observances. All that was great and good was believed to be attainable by some kind of religious performance or other. For each worldly gain there was prescribed a separate elaborate ceremony. A king wishing to enlarge his kingdom, a student anxious to widen his knowledge, a father aspiring for a worthy son and a merchant desirous of prosperity in his business, each had to perform some special rite to bring about the speedy realisation of his desire. When failure came inspite of these observances, it was attributed to some flaw in the performance of the prescribed rite. Abhinava's literary greatness also, therefore, was naturally attributed not so much to his own exceptional natural intelligence and great assiduity as to a certain religious frame of mind in which his parents had united for his birth?. It is enjoined in the saiva scripture that the parents, desirous of a son, who in Saiva terminology is called Yoginībhū, should rise above all worldly ideas at the time of meeting and that the mother should identify herself with Śakti and the father with Siva.+++(5)+++ And it is believed that only a Yoginībhū can properly understand and intelligibly propound the Saiva monism. According to Jayaratha, the popular idea of Abhinava's being yognībhū was based upon Abhinava's own authority. For, he, as Jayaratha interprets, refers to this fact in the very first verse of the Tantrāloka. 
 
+- 1. T. A. Comm., I, 14-5.LIFE OF ABHINAVAGUPTA
+
+
 ## PROBABLE TIME OF HIS BIRTH. 
-The era, used in the works of Kashmir writers from the earliest time, is known as Saptarṣi. It began 25 years 
+The era, used in the works of Kashmir writers from the earliest time, is known as Saptarṣi.+++(5)+++ It began 25 years after the commecement of Kali era, as we learn from Abhinava's own statement in the concluding verse of the Br̥hatī Vimarsins : 
 
-1. T. A. Comm., I, 14-5.LIFE OF ABHINAVAGUPTA 
+> "Iti navatitamesmin vatsarentye yugāmse  
+> Tithi+++(=15)+++-śasi+++(=1)+++-jaladhi+++(4)+++-sthe mārgaśīrṣāvasāne  
+> Jagati vihita-bodhām Iśvara-pratyabhijñām  
+> Vyavr̥ṇuta pari-pūrṇām preritah śambhupādaih". 
 
-after the commecement of Kali era, as we learn from Abhinava's own statement in the concluding verse of the Bphatī Vimarsins : 
+It states that he finished the Brhatī Vimarsinī in the 90th year when 4115 years of Kali had elapsed. This year (1934) it is the 5035th year of the Kali and the 5010th year of the Saptarsi era, as any almanac will show. If we deduct 25 out of the figures, which stand for the Kali era at present, they will show the Saptarsi year. This shows that the word "navatitame" in the above quotation stands for 4090th of the Saptarsi era just as 34th, used to-day, would naturally mean 1934th A. D.+++(5)+++ 
 
-"Iti navatitamesmin vatsarentye yugāmse Tithiếasijaladhisthe mārgaśīrṣāvasāne Jagati vihitabodhām Iśvarapratyabhijñām Vyavrnuta paripūrņām preritah Sambhupādaih". 
+There are two more works of Abhinava in which the dates of composition are given. One is the Bhairava Stava (appendix C) which was written on the 10th day of the darker half of Pauṣa in the year 68. And the other is the Krama Stotra (Appendix C) which was composed in praise of Siva on the 9th day of the darker half of Mārgaśīrṣa in the year 66. 
 
-It states that he finished the Brhatī Vimarsinī in the 90th year when 4115 years of Kali had elapsed. This year (1934) it is the 5035th year of the Kali and the 5010th year of the Saptarsi era, as any almanac will show. If we deduct 25 out of the figures, which stand for the Kali era at present, they will show the Saptarsi year. This shows that the word "navatitame" in the above quotation stands for 4090th of the Saptarsi era just as 34th, used to-day, would naturally mean 1934th A. D. 
+The years of composition of these Stotras refer to the Saptarṣi era. The dates, therefore, of the earliest and the latest known works of Abhinava clearly show that the period of his literary activity extended over a quarter of a century from 4066 to 4090 of the Saptarsi era i. e. 990-1-1014 15 A. D. 
 
-There are two more works of Abhinava in which the dates of composition are given. One is the Bhairava Stava (appendix C) which was written on the 10th day of the darker half of Pauṣain the year 68. And the other is the Krama Stotra (Appendix C) which was composed in praise of Siva on the 9th day of the darker half of Mārgaśīrṣa? in the year 66. 
-
-The years of composition of these Stotras refer to the Saptarsi era. The dates, therefore, of the earliest and the latest known works of Abhinava clearly show that the period of his literary activity extended over a quarter of a century from 4066 to 4090 of the Saptarsi era i. e. 990-1-1014 15 A. D. 
-
-1. Bh. S. 2. K. S. 
-
-CHAPTER I. 
+- 1. Bh. S. 2. K. S. 
 
 There is no reason to believe that the Krama Stotra, though the earliest of the known dated works of Abhinava, was his first work. More on this point will be found in the chapter dealing with his works. It seems, therefore, that he began his literary career five years earlier i. e. in 985 A. D. And taking into consideration the extensive study that he made of various branches of learning, not privately but at the houses of so many teachers, and the maturity of style and judgment, found in his earliest work, it will be unreasonable to suppose that he began writing when he was only in his teens or early twenties. It will, therefore, not be wrong to say that he was born between 950 and 960 A. D. 
 
 HIS CHILDHOOD AND EDUCATION. 
 
-As a child he was sent to a neighbouring Pāthaśālā, located in a second story. Even there he showed signs of his future greatness, and deeply impressed his teachers with his exceptional intellectual power and fluency in speech. His name is ample testimony to that. It is said that the name Abhinavaguptapāda, by which our great writer is known, is not that which was given him by his parents but that which he received from his teachers in early school days for no other reason than that he was an intellectual giant and as such was an object of terror, like a serpent, to his young school fellows. This is what, according to Vāmanācārya, the author of the Bālabodhini, a commen tary on the Kāvyaprakāśa, Mammaţa means to convey by referring to our Abhinava as Abhinavaguptapadal” in his work. To this very fact Abhinava himself most probably refers in the following line : 
+As a child he was sent to a neighbouring Pāthaśālā, located in a second story. Even there he showed signs of his future greatness, and deeply impressed his teachers with his exceptional intellectual power and fluency in speech. His name is ample testimony to that. It is said that the name Abhinavaguptapāda, by which our great writer is known, is not that which was given him by his parents but that which he received from his teachers in early school days for no other reason than that he was an intellectual giant and as such was an object of terror, like a serpent, to his young school fellows. This is what, according to Vāmanācārya, the author of the Bālabodhini, a commentary on the Kāvyaprakāśa, Mammaṭa means to convey by referring to our Abhinava as Abhinavaguptapāda” in his work. To this very fact Abhinava himself most probably refers in the following line : 
 
 «Abhinavaguptasya kệtih seyam yasyoditā gurubhi rākhyā." 
 
@@ -226,7 +226,7 @@ WA H
 
 P. S., 198. 
 
-alo ama aun nmig "Sivasya paraśreyahsvabhāvasya svātmasthasya cidā- Akti nandaikamürteh yâni caraṇāni cidraśmayah teṣām smaranath sabdādiviṣayagrahanakāle nibhālanam pratiksaņam svānu bhavāpramosah tena dīptah parāhantācamatkārabhā svaraḥ.. ..................iti upadeṣtuh samā vista maheśvara svabhāvonena uktaḥ syāt." 
+alo ama aun nmig "Sivasya paraśreyahsvabhāvasya svātmasthasya cidā- Akti nandaikamürteh yâni caraṇāni cidraśmayah teṣām smaranath sabdādiviṣayagrahanakāle nibhālanam pratiksaṇam svānu bhavāpramosah tena dīptah parāhantācamatkārabhā svaraḥ.. ..................iti upadeṣtuh samā vista maheśvara svabhāvonena uktaḥ syāt." 
 
 This seems to be the foundation of the traditional belief amongst Kashmirian Pandits that Abhinavagupta was Bhairava incarnate. 
 

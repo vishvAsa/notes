@@ -37,11 +37,11 @@ ABHĀSAVĀDA
 
 difficulty in bridging the gulf that divides the self from the not-self. If the subject and the object are completely cut off from each other, have exclusive and independent existence, and are of opposite nature, like light and darkness, (Tamahprakāśavad viruddhadharminoh, S. Bh.) how can there be any connection between the two, which is so very necessary for the production of the phenomenon of knowledge. The meeting of the self and the not-self, in this case, seems to be as difficult as that of the two logs which are carried by two different currents which separately lose themselves in the sands. 
 
-Na hi prthak prthak pariksīņeṣu srotahsu taduhyamānāh trnolapādayah samanvayam kamcid yānti, 
+Na hi prthak prthak pariksīṇeṣu srotahsu taduhyamānāh trnolapādayah samanvayam kamcid yānti, 
 
 I. P. V., I, 283. The realistic idealism therefore, puts forth its theory of the All-inclusive Universal Consciousness or Self. 
 
-ANUTTARA. This All-inclusive Universal Consciousness, this logical necessity to satisfactorily account for the phenomena of knowledge, is called Anuttara? (the Highest Reality) or Parā or Pūrņā Samvid (Supreme or perfect consciousness) in this system. As the word Anuttara implies, it is a reality beyond which there is nothing: it is, therefore, free from all limitations. It is undefinable in terms of ordinary every day life 
+ANUTTARA. This All-inclusive Universal Consciousness, this logical necessity to satisfactorily account for the phenomena of knowledge, is called Anuttara? (the Highest Reality) or Parā or Pūrṇā Samvid (Supreme or perfect consciousness) in this system. As the word Anuttara implies, it is a reality beyond which there is nothing: it is, therefore, free from all limitations. It is undefinable in terms of ordinary every day life 
 
 Na vidyate uttaram prasna prativacorūpam yatra 
 
@@ -73,7 +73,7 @@ After the admission that the Ultimate Reality is beyond the reach of thought and
 
 THE ULTIMATE AS PRAKĀŚA VIMARSAMAYA. 
 
-The Ultimate, according to the Abhāsavāda, has two aspects, the transcendental (viśvottīrņa) and the immanent (viśvamaya). The latter is described as "prakāśavimarsa maya". The conception of macrocosm of this system is based on a careful study of microcosm. In order, therefore, to show clearly as to what these two words really stand for, it is necessary to point out their import when they are applied to the individual self. 
+The Ultimate, according to the Abhāsavāda, has two aspects, the transcendental (viśvottīrṇa) and the immanent (viśvamaya). The latter is described as "prakāśavimarsa maya". The conception of macrocosm of this system is based on a careful study of microcosm. In order, therefore, to show clearly as to what these two words really stand for, it is necessary to point out their import when they are applied to the individual self. 
 
 Each of the two words represents an aspect of the individual self. The prakāśa is conceived to be very much like a mirror. In this aspect, the self is simply & substratum of the psychic images, which are merely its modes or forms due to the stimulus received either from 
 
@@ -99,7 +99,7 @@ Claude SC (200 ALAM YODAY I posse lan af (9shes 424e fanteazioni!
 
 external objects, as at the time of direct perception, or from internal factors, the revived residual traces, as at the time of imagination or dream. These images have very great similarity with those, cast by external objects on a mirror, which shows them as one with itself without losing its purity or separate entity. The difference, however, between this aspect of the individual self and a mirror is that the latter, in order that it may receive reflection, requires an external light to illumine it. A mirror in darkness does not reflect any image. But the self shines independent of all external lights and does not need an illuminator, in order that it may receive reflection. 
 
-The word "prakāśa" implies the residual traces also which are essentially the same as their substratum. The reason is obvious. The reflections are essentially the same as their substratum. The psychic images, because of their being of the nature of reflection, are, admitted to be essentially the same as prakāśa. And because these very psychic images, existing under a sort of cover, are called residual traces or sarskāras, they too, therefore, are not regarded as different from prakāśa. 1. The prakāśa aspect, however, is not the most distinctive aspect of the individual self, because it is to a large extent common to other things also, such as mirror, crystal, and maņi, If, therefore, the individual self had been only prakāśamaya it would have been no better than a substance capable of receiving reflection. The word vimarśa explains what other distinctive features it possesses and why it does not belong to the same category as that to which a maņi or a crystal does. 
+The word "prakāśa" implies the residual traces also which are essentially the same as their substratum. The reason is obvious. The reflections are essentially the same as their substratum. The psychic images, because of their being of the nature of reflection, are, admitted to be essentially the same as prakāśa. And because these very psychic images, existing under a sort of cover, are called residual traces or sarskāras, they too, therefore, are not regarded as different from prakāśa. 1. The prakāśa aspect, however, is not the most distinctive aspect of the individual self, because it is to a large extent common to other things also, such as mirror, crystal, and maṇi, If, therefore, the individual self had been only prakāśamaya it would have been no better than a substance capable of receiving reflection. The word vimarśa explains what other distinctive features it possesses and why it does not belong to the same category as that to which a maṇi or a crystal does. 
 
 “Vimarśa" stands for the distinctive aspect of the self. It signifies the capacity of the self to know itself in all its purity in the state of perfect freedom from all kinds of 
 
@@ -107,7 +107,7 @@ ABHĀSAVĀDA
 
 201 
 
-affections; to analyse all its states of varying affections due either to the internal or the external causes; to retain these affections in the form of residual traces (samskāras); to take out, at will, at any time, any thing out of the existing stock of the sarskāras and bring back an old affected state of itself as in the case of remembrance, and to create an altoge ther new state of self-affection by making a judicious selection from the existing stock and displaying the material so selected on the back-ground of its prakāśa aspect as at the time of free imagination. The word "Vimarsa" stands for all this and much more. At times "āmarsa" and "pratya vamarsa" also are used as substitutes of «vimarsa"; but they always do not connote all that «vimarsa" does. It represents the distinctive aspect of the individual self and differentiates it from mirror, maņi, crystal and similar other substances capable of receiving reflection. The point has very clearly been stated by Abhinava in his Pratyabhijñā Vimarsinī as follows: 
+affections; to analyse all its states of varying affections due either to the internal or the external causes; to retain these affections in the form of residual traces (samskāras); to take out, at will, at any time, any thing out of the existing stock of the sarskāras and bring back an old affected state of itself as in the case of remembrance, and to create an altoge ther new state of self-affection by making a judicious selection from the existing stock and displaying the material so selected on the back-ground of its prakāśa aspect as at the time of free imagination. The word "Vimarsa" stands for all this and much more. At times "āmarsa" and "pratya vamarsa" also are used as substitutes of «vimarsa"; but they always do not connote all that «vimarsa" does. It represents the distinctive aspect of the individual self and differentiates it from mirror, maṇi, crystal and similar other substances capable of receiving reflection. The point has very clearly been stated by Abhinava in his Pratyabhijñā Vimarsinī as follows: 
 
 "Atha anyenāpi satā ghatena, yatovabhāsasya prati bimbarūpā chāyā dattā, tām asau avabhāso bibhrad ghatasya prakāśa ityucyate,/ tatasca ajadah, tarhi sphatikasalilamukurādih api evambhūta eva iti ajadah syāt. Atha tathābhūtam api ātmānam tam ca ghatā. dikaṁ sphatikādih na parāmrṣtum samarthah iti jadah. tathā parāmarśanam eva ajādyajīvitam antarvahiṣ. karanasvātantryarūpam" 1. P. V., I, 198. 
 
@@ -155,7 +155,7 @@ saktirevāsyāsti."
 
 T. A., Comm., 1, 108. 
 
-For the conception of the principal power of the Parama Siva as Svātantrya, the Trika seems to be indebted to Pāṇini; because it is Pāņini, who, so far as we know at 
+For the conception of the principal power of the Parama Siva as Svātantrya, the Trika seems to be indebted to Pāṇini; because it is Pāṇini, who, so far as we know at 
 
 204 
 
@@ -273,7 +273,7 @@ itself and are due to internal factors. These factors, in order that they may af
 
 Now the question is how these factors are connected with the self, or rather, where and how do they exist before their rise ? Our experience tells us that they rise at our will from our consciousness independently of all external help and appear on the back-ground of consciousness and again merge in the same, much in the manner of waves in the ocean. If so, the answer to the above question is that just as the waves exist in the ocean before they rise, so do the images, which affect the purity of consciousness at the time of imagination, in the self, before they appear on the back-ground of its prakāśa aspect. This is exactly what Abhinava says in regard to the relation of Abhāsas with the Universal Self in the course of discussion on the several meanings of the word "Anuttara" in the Parātrimśikā vivarana : 
 
-"Tattvāntarāņi ṣaţtrimśat anāśritaśivaparyantāni 
+"Tattvāntarāṇi ṣaṭtrimśat anāśritaśivaparyantāni 
 
 parabhairavānupraveśāsāditatathābhāvasiddhīni." 
 
@@ -287,7 +287,7 @@ THE "WHY' OF THE MANIFESTATION EXPLAINED.
 
 Here it may be asked “Why does the Self manifest these Ābhāsas ?" Abhinava answers this question by saying that the nature of a thing cannot be questioned. It is absurd to ask why fire burns. To burn is the very nature of fire and so to manifest without what lies within is the very nature of the Self. It is natural for consciousness to assume a variety of forms. In fact, it is this that differen tiates self from not-self. A jar, for instance, cannot change itself independently of external causes, but the self can and does : 
 
-"Asthāsyadekarūpeņa vapusā cenmaheśvarah 
+"Asthāsyadekarūpeṇa vapusā cenmaheśvarah 
 
 Maheśvaratvam samvittvam tadatyakṣyad ghatādivat." 
 
@@ -301,7 +301,7 @@ Here it may be asked if the Ultimate Reality appears in all the perceptible form
 
 CHAPTER II 
 
-To take up these questions in their respective order, let us find out what is meant by change. When a thing is seen with some additions, it is said to have changed. When, for instance, we visit a certain place after a very long time and see very many things in addition to those which we saw on a former occasion, we say "the place is changed". Further, when the case is the reverse i. e. when we do not find many things which attracted our attention before, we say the same. The former kind of change is called "Āgama" (literally, coming in) or addition, and the latter "Apāya" (going out) or loss. There are two more kinds of change, known as transformation (Pariņāma) and modification (Vikāra). When milk changes into curd it is said to have been transformed (Pariņata) but when clay is changed into a jar, or gold into an ear-ring, it is said to have been modified (Vikāram gamitah), The chief distinction between the above two kinds of change is that while in the former case the thing cannot recover its former condition, milk, for instance, once it changes into curd, cannot again become milk in any way; in the latter case such a recovery is very common. A lump of gold, for instance, after having assumed a variety of forms, such as those of ear-ring and bangle etc., can again recover its old form of lump. It is thus clear that, while the first three kinds of change involve addition to or loss of the existing constituents, as in the first two, and irrecoverable loss of quality, as in the third, in the last there is simply a difference in the arrangement of the constituents. It is because of this that, while destructibility is admitted to be universally concomitant with the former three kinds of change, it is not so with the last one. How1 else could the Vaiseṣika, who holds the atoms to be eternal, maintain their indestructibility? Because, according to him, these very atoms, being stirred by the Lord's wish at the 
+To take up these questions in their respective order, let us find out what is meant by change. When a thing is seen with some additions, it is said to have changed. When, for instance, we visit a certain place after a very long time and see very many things in addition to those which we saw on a former occasion, we say "the place is changed". Further, when the case is the reverse i. e. when we do not find many things which attracted our attention before, we say the same. The former kind of change is called "Āgama" (literally, coming in) or addition, and the latter "Apāya" (going out) or loss. There are two more kinds of change, known as transformation (Pariṇāma) and modification (Vikāra). When milk changes into curd it is said to have been transformed (Pariṇata) but when clay is changed into a jar, or gold into an ear-ring, it is said to have been modified (Vikāram gamitah), The chief distinction between the above two kinds of change is that while in the former case the thing cannot recover its former condition, milk, for instance, once it changes into curd, cannot again become milk in any way; in the latter case such a recovery is very common. A lump of gold, for instance, after having assumed a variety of forms, such as those of ear-ring and bangle etc., can again recover its old form of lump. It is thus clear that, while the first three kinds of change involve addition to or loss of the existing constituents, as in the first two, and irrecoverable loss of quality, as in the third, in the last there is simply a difference in the arrangement of the constituents. It is because of this that, while destructibility is admitted to be universally concomitant with the former three kinds of change, it is not so with the last one. How1 else could the Vaiseṣika, who holds the atoms to be eternal, maintain their indestructibility? Because, according to him, these very atoms, being stirred by the Lord's wish at the 
 
 1. Ta. San., T. D., 9. 
 
@@ -411,7 +411,7 @@ FUNCTIONS. The Trika speaks of two kinds of manifestation, the external and the 
 
 THE ASPECTS OF THE JNATRTVA SAKTI. 
 
-The Jñātņtva Sakti has the following three aspects : 
+The Jñātṇtva Sakti has the following three aspects : 
 
 1. The power of knowledge Jñāna Sakti) 2. The power of remembrance (Smrti Sakti) and 3. The power of differentiation (Apohana Sakti). 
 

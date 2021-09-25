@@ -32,7 +32,7 @@ NC S
 ( 388 ) 
 Page 
 Name 
-Malini Rudra Tantra Lakṣmaņagupta 
+Malini Rudra Tantra Lakṣmaṇagupta 
 Lollata Vayyā Vijñāna Sastra Sankara Nandana Sambhunātha Siva Tantra Siva Drsti Siva Sastra Sāra Sastra Sumati Somānanda Stotra (Bhatta Nārāyana) Spanda Sastra Svacchanda Tantra ... Svacchanda Sastra ... Svatantra Sastra 
 1 
 12 
@@ -245,7 +245,7 @@ N
 85 61, 66 
 284 103 
 14 
-Pramāņa Stuti Brahmayāmala Bharga Sikha 
+Pramāṇa Stuti Brahmayāmala Bharga Sikha 
 ovuc 00 00 00 
 96 
 Bhavabhūti Bhāskara Bhūti Rāja 
@@ -397,7 +397,7 @@ Page
 187 
 32, 97, 99, 107, 186 
 186 
-Anubhava Stotra Ananda Ucchuṣma Sastra Kaņāda Kallata Tantra Kula Tantra Sadbhāva Tantrāloka Triśiromata Nandi Sikha Nitya Tantra Pāņini Pārameśvara Prakarana Vivarana (Abhi) Bhūtirāja Guru Matanga Sastra Malla Kulesa Mālini Vijaya 
+Anubhava Stotra Ananda Ucchuṣma Sastra Kaṇāda Kallata Tantra Kula Tantra Sadbhāva Tantrāloka Triśiromata Nandi Sikha Nitya Tantra Pāṇini Pārameśvara Prakarana Vivarana (Abhi) Bhūtirāja Guru Matanga Sastra Malla Kulesa Mālini Vijaya 
 Yāmala Yoga Sancara Ratnamāla Raurava Sastra 
 27 
 187 2, 32, 61 
@@ -497,7 +497,7 @@ Saugata
 75, 179, 188, 221 Svapna Vāsavadattā Nātaka 
 152 Hari Vijaya 
 148 
-Hrdaya Darpaņa 
+Hrdaya Darpaṇa 
 27, 28, 63 
 (VI) 
 Bhagavadgītārtha Sangraha. 
@@ -514,7 +514,7 @@ Upanisat Devi Stotra Vivarana (Abhi) 6
 18 
 Dvaipāyana 
 1 (Introd) Pārameśvara Siddhānta 12 Bhatta Bhāskara Bhattendurāja 
-1 (Introd) Bhedavāda Vidāraņa (Abhi) 6 Maha Bhārata 
+1 (Introd) Bhedavāda Vidāraṇa (Abhi) 6 Maha Bhārata 
 17 
 (401) 
 Sloka 
@@ -535,7 +535,7 @@ Ananta Abhinavagupta
 3, 23, 191, 199 
 105 
 80 
-Agama Āgamika Utpala Udayākara Kāņāda Drṣti 
+Agama Āgamika Utpala Udayākara Kāṇāda Drṣti 
 120 250, 276 
 276 91, 252, 276 
 6, 269 
@@ -549,7 +549,7 @@ Page
 214 
 214 
 49 
-Tantra Sāra Tantrāloka (Abhi) Tarkika Traiyambaka Naiyāyika Nyāyanirmāņa Bedhas 
+Tantra Sāra Tantrāloka (Abhi) Tarkika Traiyambaka Naiyāyika Nyāyanirmāṇa Bedhas 
 2 
 25 
 Nyāyabhāṣyakrt Patañjali Parameṣthi (Somānanda) 
@@ -557,7 +557,7 @@ Nyāyabhāṣyakrt Patañjali Parameṣthi (Somānanda)
 84 157 208 
 272 
 233 
-Pāņini Prajñālankāra (Sankara 
+Pāṇini Prajñālankāra (Sankara 
 nandana) Pradhānāgama 
 Bhagavadgītā Bhatta Divākara Vatsa Bhatta Nārāyana Bharatadi Bharthari 
 181 207 

@@ -40,9 +40,9 @@ Ardha Tryambaka, 72, 80, 81 Anandaśakti, 241
 Arjuna Carita, 141 
 ( 416 
 ) 
-Aruņāditya, 73 Asatkāryavāda, 309 Āścaryasāra, 111 Asitānga, 78 Asoka, 85, 86 Astādaśasahasri, 61 Astaprakarana, 108 Atharvaka, 80 Atharvana, 78 Atimārga, 81 Atinaya, 81 Atmākhyātivādin, 215 Atomistic pluralism, 195 Atrigupta, 3, 4 Aucitya Vicāra Carcā, 157 Audbhata, 126 Aufrecht, 2, 3, 24 Avanti Varman, 74, 91, 96, 
+Aruṇāditya, 73 Asatkāryavāda, 309 Āścaryasāra, 111 Asitānga, 78 Asoka, 85, 86 Astādaśasahasri, 61 Astaprakarana, 108 Atharvaka, 80 Atharvana, 78 Atimārga, 81 Atinaya, 81 Atmākhyātivādin, 215 Atomistic pluralism, 195 Atrigupta, 3, 4 Aucitya Vicāra Carcā, 157 Audbhata, 126 Aufrecht, 2, 3, 24 Avanti Varman, 74, 91, 96, 
 127, 130, 134, 152 Bādarāyaṇa, 2, 238 Bahudaivatya, 112 Bahurūpa, 79 /Bāhyarthānumeyavādin, 303 
-Bāhyarthavādin, 273 Bālabodhini, 8 Bali, 71 Bāņa, 125 Barnett, 57, 58 Batuka, 64 Bauddha, 85, 87, 140, 192, 193, 
+Bāhyarthavādin, 273 Bālabodhini, 8 Bali, 71 Bāṇa, 125 Barnett, 57, 58 Batuka, 64 Bauddha, 85, 87, 140, 192, 193, 
 195, 226, 259, 260, 266, 267, 
 271, 294, 305, 310 Bauddha Ajñāna, 180 Bauddha jñāna, 177, 187 Bendall, 125 Bhagavadgitā, 34, 36, 52, 53, 
 54, 55, 73, 74, 94, 95, 143, 
@@ -61,7 +61,7 @@ Bhairavi Sikha, 79 Bhakta Prakāśa, 111 Bhaktavilasa, 11 Bhāmaha, 138 Bhandark
 101, 259, 286 Brhatkatha Mañjarī, 157 
 ( 417 ) Brhattīkā, 109 
 Daivākari, 96 Brahman, 45, 199, 213, 214, Dakṣa, 71 
-238, 257, 259, 260, 306, Dakṣiņāmūrti Stava, 88 317, 319 
+238, 257, 259, 260, 306, Dakṣiṇāmūrti Stava, 88 317, 319 
 Dāmara, 80 Brahma Sūtra, 317 
 Dānavas, 71 Brahmayāmala, 78 
 Dandin, 127 Brāhmi Kalā, 78 
@@ -73,7 +73,7 @@ Dehastha Devatācakra Stotra, Buddhism, 11, 75, 85, 86, 87, 22, 63
 Devabala, 106 Buddhivịtti, 252 
 Devī Sataka, 140 Bühler, 66, 92, 101, 132, 146, Devīstotra, 33 - 148, 155 
 Devīstotra Vivaraṇa, 22, 34 Caitanya, 168, 205 
-Dharma, 11 Cakrapāņinātha, 63 
+Dharma, 11 Cakrapāṇinātha, 63 
 Dhvani, 11, 13, 49, 129, 130, Cakrāstaka, 79 
 131, 132, 138, 139, 140, Cālikā, 78 
 141, 142, 143, 157, 165 Canda, 77 
@@ -158,12 +158,12 @@ Kāvyālankārasāra Sangraha, Kāla, 181, 230, 248, 249
 74, 126, 142, 143 Kalā Cakra, 79 
 Kāvyāloka, 139, 140 Kalasa, (King) 156 
 Kāvyamālā, 113, 115 Kāla Sakti, 225, 227 
-Kāvyānuśāsana, 157 Kalhaņa, 84, 85, 86, 126, 127, Kāvya Pradīpa, 157 
+Kāvyānuśāsana, 157 Kalhaṇa, 84, 85, 86, 126, 127, Kāvya Pradīpa, 157 
 130, 134, 
 Kāvya Prakāśa, 9, 157 Kālidāsa, 1, 65, 66 
 Kayyata, 140 Kālīnaya, 81 
 Khacakra, 79 Kallața, 74, 91, 92, 93, 94, 95, Khetapāla, 104, 330 
-96, 97, 127, 128, 134, 143 Kirana (Tantra) 77, 112 Kalyāņa, 39, 149 
+96, 97, 127, 128, 134, 143 Kirana (Tantra) 77, 112 Kalyāṇa, 39, 149 
 Kīrtidhara, 120, 121, 126 Kāmaja, 75, 76 
 Kohala, 113, 114, 115, 116, 117, Kāmika, 76, 112 
 118, 126 Kaniska, 86 
@@ -190,9 +190,9 @@ Mahārtha, 160 Kumārila, 88, 287,
 Mahārtha Mañjari, 30, 92, 139, Ku dalābharaṇa, 160 
 140, 147, 159, 160 Kuvalayānanda, 157 
 Mahārthodaya, 160 Laghví Prakriya, 22, 33 
-Mahāsattā, 205 Laghvi Vimarsinī, 61, 62 Maheśvara, 176, 203, 207, 208, Lakṣaņā, 131, 138 
-209, 217, 218, 220, 227, Lakṣmaņa, 71 
-228, 234, 245, 260, 301, 302 Lakṣmaņagupta, 5, 10, 97, 101, Maheśvarānanda, 30, 92, 139, 
+Mahāsattā, 205 Laghvi Vimarsinī, 61, 62 Maheśvara, 176, 203, 207, 208, Lakṣaṇā, 131, 138 
+209, 217, 218, 220, 227, Lakṣmaṇa, 71 
+228, 234, 245, 260, 301, 302 Lakṣmaṇagupta, 5, 10, 97, 101, Maheśvarānanda, 30, 92, 139, 
 143 
 140, 147, 158, 159 Lakṣmimata, 78 
 Mahima Bhatta, 129, 130, 131, Lākula, 70 
@@ -240,7 +240,7 @@ Nārāyaṇa Kantha, 107, 108, Moha, 245, 326
 Netra Tantra, 146 Monistic School, 102, 103, 104 Netrodyota, 146 Monistic system, 172 
 Nihilist, 192, 193 , Monistic Tantra, 91, 96, 98, Nihistic Buddhism, 192 
 102 
-Nihilistic School, 192 Mrgendra Tantra, 76, 109 Nīlamata Purāņa, 85, 86, 87 Mrgendra Vrtti, 107, 109, 111 Nimpāśaya, 156 Mukhabimba, 77 
+Nihilistic School, 192 Mrgendra Tantra, 76, 109 Nīlamata Purāṇa, 85, 86, 87 Mrgendra Vrtti, 107, 109, 111 Nimpāśaya, 156 Mukhabimba, 77 
 Nirvāṇa, 192 Mukti, 183 
 Niśvāsa, 77 Mukula, 74, 97, 142 
 Nīti Kalpataru, 157 Mukunda Keli, 160 
@@ -255,7 +255,7 @@ Padārtha Praveśa Nirnaya Țikā, Nāda Kārikā, 108, 110, 111 22, 32 Nāgabod
 Paddhati, 107, 108 Nāgārjuna, 85, 86, 87 
 Padmānanda, 100 Nāgārjuna Bodhisattva, 86 Pādukodaya, 160 Naiṣadhiya Carita, 125 
 Pākhandāpajapa, 111 Naiṣkarmya, 325 
-Pāņini, 93, 116, 117, 203 Naiyāyika, 66, 106, 219, 232, Parā, 39, 40, 41, 42, 44, 42, 
+Pāṇini, 93, 116, 117, 203 Naiyāyika, 66, 106, 219, 232, Parā, 39, 40, 41, 42, 44, 42, 
 256, 257, 271, 287, 288, 170, 208 289, 290, 291, 294, 306, Paramārtha, 62 308 
 Paramārtha Carcā, 22, 62 Nakhapratāpa, 160 
 Paramārtha Dvādasikā, 22, 62, Nāmaka, 47, 170 
@@ -271,7 +271,7 @@ Paramārtha Sangraha Vivrti, Prakāśa, 199, 200, 201, 202,
 205, 206, 207, 259 Parama Siva, 40, 203, 204, 231, Prakāśaratha, 150 
 235, 237 
 Prakāśavimarśamaya, 199, 201, Paramesa Stotrāvali, 101, 148 202, 207 Pārameśvara, 77 
-Prakatatāvāda, 268, 287 Paramoksaniräsa Kārikā, 109 Prakīrņaka Vivarana, 22, 32 Paramokṣanirāsa Kārikā Vitti, Prakrti, 55, 193, 196, 235, 239, 
+Prakatatāvāda, 268, 287 Paramoksaniräsa Kārikā, 109 Prakīrṇaka Vivarana, 22, 32 Paramokṣanirāsa Kārikā Vitti, Prakrti, 55, 193, 196, 235, 239, 
 110 
 247, 250, 251, 308, 312, Parā Niśā, 245 
 318, 326, 328, 329, 330 Parāpara, 170 
@@ -296,25 +296,25 @@ Pratyavamaría, 201 Pingala, 78
 Pravrtti Vijñāna, 272 Pluralist, 196 
 Pudgala, 250 Power of differentiation, 220, Pumān, 250 
 221 
-Purāņa, 64, 65, 119, 170 Power of knowledge, 220, 221, Purnamanoratha, 150 
+Purāṇa, 64, 65, 119, 170 Power of knowledge, 220, 221, Purnamanoratha, 150 
 Puruṣa, 47, 56, 60, 193, 194, Power of remembrance, 220, 195, 229, 230, 235, 247, 
 221, 222 
 249, 250, 251, 252, 253, P. P. S. Shastri, 67 
 267, 269, 326, 327, 328, Pradhāna, 238, 247, 251, 252, 329, 330 
 329 
-Puruṣa Parīkņā, 121 Pradyumna Bhatta, 95 
+Puruṣa Parīkṇā, 121 Pradyumna Bhatta, 95 
 Purva Pañcikā, 22, 23, 26, 31, Prāgabhāva, 327 
 35 Prajñāla kāra, 106 
 Pūrvāparībhāva Vada, 305 Prajñārjuna, 95 
-Quarterly Journal of the Andhra Prakaraņa, 83 
+Quarterly Journal of the Andhra Prakaraṇa, 83 
 Historical Research Society, Prakarana Stotra, 23, 32 
 121 Prakaraña Vivarana, 22, 32 Radhakrishnan, 275, 285, 318 
 227 
 (423) 
 Rāga, 181, 183, 248, 249 Sadyojyoti, 103, 104, 105, 109 Rāgādhyāya, 124 
 Sahasra, 76 Rāga Tattva, 184 
-Sāhityadarpaņa, 157 Rāhula, 120 
-Sahrdayadarpaņa, 129, 130 Rājānaka Lakṣmīrāma, 39 Sabrdayāloka, 139 Rajas, 231, 251, 252, 255, 267, Saiddhāntika, 102 Raja Tarangini, 74, 91, 126, Saiva, 46, 47, 53, 55, 66, 69, 
+Sāhityadarpaṇa, 157 Rāhula, 120 
+Sahrdayadarpaṇa, 129, 130 Rājānaka Lakṣmīrāma, 39 Sabrdayāloka, 139 Rajas, 231, 251, 252, 255, 267, Saiddhāntika, 102 Raja Tarangini, 74, 91, 126, Saiva, 46, 47, 53, 55, 66, 69, 
 127 
 71, 75, 80, 82, 88, 90, 95, Rājarāja, 148, 149 
 98, 111, 179, 180, 184, 208 Rakta, 78 
@@ -389,8 +389,8 @@ somy, 143, 10 11 12 g8, 14
 (425 
 ) 
 Spanda Sarvasva, 93, 94, 134 Spanda Sūtra, 94 Spanda System, 146 Spandavivarana Sāramātra, 95 Sphurattā, 205 Spiritual ignorance, 180, 182, 
-183 Spiritual knowledge, 183, 186 Sricakra, 90 Srīcandra, 11 Sriharṣa, 125 Sri Indurāja, 142 Srikantha, 72, 108 Srikantha Bhatta, 85 Srikanthi, 76, 80 Srikrsna śāstri, 108 Srīnātha, 72 Srīpārva śāstra, 16, 23, 26 Srīśankuka, 126, 128 Srīśāstra Sủngāraratha, 149, 150 Srngāraratnākara, 157 Srutabodha, 66 Sruti, 58 Stava Cintāmaņi, 109, 146, 148, 
-155 Stava Cintāmaņi Vitti, 147 Stein, 84, 87,99 Stotra, 147 Stotrāvali, 100 Subhatadatta, 148, 149 Subjective Idealism, 195 Subjectivist, 263, 303 Suddhabrahmavādin, 313 Suddhavidyā, 184, 250 Sükṣma, 76 Sūkta, 160 Sumati, 82 śūnyavāda, 192 Suprabha, 76 Supreme, 178, 315 Supreme Consciousness, 191 Supreme Self, 177 Sureśvarācārya, 88 Süryaratha, 150 Susira, 115 Sūta Samhitā, 107 
+183 Spiritual knowledge, 183, 186 Sricakra, 90 Srīcandra, 11 Sriharṣa, 125 Sri Indurāja, 142 Srikantha, 72, 108 Srikantha Bhatta, 85 Srikanthi, 76, 80 Srikrsna śāstri, 108 Srīnātha, 72 Srīpārva śāstra, 16, 23, 26 Srīśankuka, 126, 128 Srīśāstra Sủngāraratha, 149, 150 Srngāraratnākara, 157 Srutabodha, 66 Sruti, 58 Stava Cintāmaṇi, 109, 146, 148, 
+155 Stava Cintāmaṇi Vitti, 147 Stein, 84, 87,99 Stotra, 147 Stotrāvali, 100 Subhatadatta, 148, 149 Subjective Idealism, 195 Subjectivist, 263, 303 Suddhabrahmavādin, 313 Suddhavidyā, 184, 250 Sükṣma, 76 Sūkta, 160 Sumati, 82 śūnyavāda, 192 Suprabha, 76 Supreme, 178, 315 Supreme Consciousness, 191 Supreme Self, 177 Sureśvarācārya, 88 Süryaratha, 150 Susira, 115 Sūta Samhitā, 107 
 Suvrtta Tilaka, 157 Svacchanda, 70, 75, 76, 77, 102, 
 146 Svacchandayāmala, 78 Svacchandodyota, 146 Svarūpākhyāti, 315 Svatantra, 80 Svatantreśa, 251 Svātantrya, 203, 204 Svātantrya Sakti, 177, 203, 204, - 205, 220, 224, 225, 266, 313 Svāyambhuva, 77 Sylvain Levi, 121 Tāla, 120 Talavakāropaniṣad, 199 Tamas, 231, 251, 252, 267 Tandu, 114, 115 Tantra, 45, 75, 76, 77, 80, 82, 
 83, 94, 103 Tantra Bhairavī, 78 Tantrāloka, 1, 6, 9, 12, 14, 15, 
@@ -426,9 +426,9 @@ Vāmanācārya, 18 Ultimate, 147, 190, 194, 199, Vāmanadattācārya, 139
 309, 313, 314 
 | Väsukināga, 71 
 (427) 
-Veda, 55, 69, 165, 166, 172, Vīņā, 79 
+Veda, 55, 69, 165, 166, 172, Vīṇā, 79 
 180 
-Vināmaņi, 79 Vedānta, 45, 53, 90, 172, 173, Vinatābhū, 71 
+Vināmaṇi, 79 Vedānta, 45, 53, 90, 172, 173, Vinatābhū, 71 
 179, 195, 219, 229, 238, 26 I, Viniscayā Tikā Dharmottamā 305, 315, 325 
 Vitti, 140 Vedānta Sūtra, 2, 258 
 Virabhadra, 77 Vedāntin, 63, 196, 199, 213, Viṣamavānalilā, 141 
@@ -439,7 +439,7 @@ Viśvadatta, 149 Vidanga, 79
 Viśvādya, 78 Vidyā, 181, 243, 244, 247, 248, Viśvamaya, 199 
 249, 255 
 Viśvamürti, 62 Vidyākantha, 107, 108, 109 Viśvanātha, 157 Vidyāpati, 106 
-Visvottirņa, 199 Vidyāranya Yatīndra, 107 Vivartavāda, 63, 262 Vidyullekhā, 79 
+Visvottirṇa, 199 Vidyāranya Yatīndra, 107 Vivartavāda, 63, 262 Vidyullekhā, 79 
 Viveka, 148 Vidumat, 79 
 Vivekāñjana, 95, 96 Vijaya, 77 
 Vivrti, 61, 65, 68, 99, 127, 149 Vijayā, 78 

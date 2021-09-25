@@ -36,7 +36,7 @@ CHAPTER IV
 
 and last of all on the philosophical works, like the Spanda Kārikā. Thus he carried on the work of his teacher. The students of the Trika philosophy owe a special debt of gratitude to Kṣemarāja for a systematic presentation of the views of Abhinava on the Spanda branch, on which the latter, not liking to be classed with the common herd of commentators, did not write. 
 
-1. SVACCHANDODYOTA. It is his commentary on the Svacchanda Tantra. This seems to be the first in the chronology of his available works. It is referred to in his commentaries on Bhatta Nārāyana's Stava Cintāmaņi, P. 226, on the Siva Sūtra, P. 12, and on the Netra Tantra, P. 226. 
+1. SVACCHANDODYOTA. It is his commentary on the Svacchanda Tantra. This seems to be the first in the chronology of his available works. It is referred to in his commentaries on Bhatta Nārāyana's Stava Cintāmaṇi, P. 226, on the Siva Sūtra, P. 12, and on the Netra Tantra, P. 226. 
 
 2. NETRODYOTA. Netrodyota is a commentary on the Netra Tantra. 
 
@@ -44,7 +44,7 @@ and last of all on the philosophical works, like the Spanda Kārikā. Thus he ca
 
 5. SPANDA SANDOHA. Spanda Sandoha is, as has already been pointed out, Kṣemarāja's commentary on the first verse of the Spanda Kārikā in which he deals with practically the whole of the Spanda system. In the chronological order of his works this comes before his Spanda Nirnaya? in which he refers to it at more than one place. 3 
 
-6. SPANDA NIRŅAYA. It is a commentary on the whole of the Spanda Kārikā. It may be pointed out here that Dr. Buhler in his Kashmir Catalogue has thrown some doubt on the point of the authorship of the last two works by showing them as the works of Kṣemendra (consult P. XXXIII, MSS. 511 and 
+6. SPANDA NIRṇAYA. It is a commentary on the whole of the Spanda Kārikā. It may be pointed out here that Dr. Buhler in his Kashmir Catalogue has thrown some doubt on the point of the authorship of the last two works by showing them as the works of Kṣemendra (consult P. XXXIII, MSS. 511 and 
 
 517) though he says on page 79: 
 
@@ -64,7 +64,7 @@ We do not know the learned Doctor's reasons for assign ing these works to Kṣem
 
 S. S. Vi., P. 14. "Etat Spanda Nirnaye nirākāňkṣam mayaiva nirnītam." 
 
-S. S. Vi., P. 129. 7. PRATYABHIJÑA HRDAYA. 8. COMMENTARY ON THE ABOVE. 9. SIVA SUTRA VIMARṣINI. 10. VIVRTI ON THE STAVA CINTAMAŅI. 11. UTPALA STOTRĀVALI TIKĀ. 12. PARĀ PRAVEśIKĀ. 13. TIKĀ ON SAMBA PANCASIKĀ 
+S. S. Vi., P. 129. 7. PRATYABHIJÑA HRDAYA. 8. COMMENTARY ON THE ABOVE. 9. SIVA SUTRA VIMARṣINI. 10. VIVRTI ON THE STAVA CINTAMAṇI. 11. UTPALA STOTRĀVALI TIKĀ. 12. PARĀ PRAVEśIKĀ. 13. TIKĀ ON SAMBA PANCASIKĀ 
 
 14. A COMMENTARY ON THE KRAMA SŪTRA. Of this we know only from the following reference in Maheśvarānanda's commentary on his own Mahārtha Mañjarī, P. 166: 
 
@@ -114,9 +114,9 @@ CHAPTER IV
 
 HIS DATE. 
 
-He has given the genealogy of his family since the time of Purnamanoratha who was a minister to King Yasaskara 1 of Kashmir (930 A. D.) Eight generations are shown to intervene between the first ancestor of this list, Purņa manoratha, and our commentator, Jayaratha. Of these the fifth ancestor also, viz. Utpalaratha,? who was a minister to King Ananta of Kashmir (1028-1063 A. D.), is of known date. Thus if we allow, according to the ordinary practice of scholars, about a quarter of a century for each generation Jayaratha's time comes to be about the close of the 12th and the beginning of the 13th century A. D. The names of his direct ancestors are given below in the order of their succession : 
+He has given the genealogy of his family since the time of Purnamanoratha who was a minister to King Yasaskara 1 of Kashmir (930 A. D.) Eight generations are shown to intervene between the first ancestor of this list, Purṇa manoratha, and our commentator, Jayaratha. Of these the fifth ancestor also, viz. Utpalaratha,? who was a minister to King Ananta of Kashmir (1028-1063 A. D.), is of known date. Thus if we allow, according to the ordinary practice of scholars, about a quarter of a century for each generation Jayaratha's time comes to be about the close of the 12th and the beginning of the 13th century A. D. The names of his direct ancestors are given below in the order of their succession : 
 
-1. Pūrņamanoratha (930 A. D.) 2. Utpalaratha I. 3. Prakāśaratha. 4. Süryaratha. 5. Utpalaratha II. (circa 1028-63) 6. Samaratha. 7. Gunaratha. 8. Gungaratha. 9. Srngāraratha. 10. Jayaratha. 
+1. Pūrṇamanoratha (930 A. D.) 2. Utpalaratha I. 3. Prakāśaratha. 4. Süryaratha. 5. Utpalaratha II. (circa 1028-63) 6. Samaratha. 7. Gunaratha. 8. Gungaratha. 9. Srngāraratha. 10. Jayaratha. 
 
 Like Abhinavagupta and others, he also wrote both on Saivaism and poetics. At present we know of only the following three works of his : 
 
@@ -176,7 +176,7 @@ It was written by him, as the tradition says, on the occasion of his visit to th
 
 The names of his successors are given below in the order of their succession : 
 
-1. (Bhāskara Kantha). 2. Jagannatha. 3. Maņi Kantha. 4. Somānanda. 5. Gana Kantha 6. Mahānanda. 
+1. (Bhāskara Kantha). 2. Jagannatha. 3. Maṇi Kantha. 4. Somānanda. 5. Gana Kantha 6. Mahānanda. 
 
 7. Viśveśvara. The writers directly influenced by Abhinava. 
 
@@ -200,9 +200,9 @@ A careful study of the works of Abhinava and those of Kṣemarāja gives a suffi
 
 Kṣemotpalābhinaya-Cakraka-Padmaguptāh. 
 
-Anyopi kaścana janah sivasaktipāta Sampreraņāparavasah svakaśaktisārthah Abhyarthanāvimukhabhāvamaśikṣitena Tenāpyanugrahapadam krta eṣa vargah 
+Anyopi kaścana janah sivasaktipāta Sampreraṇāparavasah svakaśaktisārthah Abhyarthanāvimukhabhāvamaśikṣitena Tenāpyanugrahapadam krta eṣa vargah 
 
-Ācāryam abhyarthayate sma gādham Sampūrņa tantrādhigamāya samyak 
+Ācāryam abhyarthayate sma gādham Sampūrṇa tantrādhigamāya samyak 
 
 T . A., Ah. 37 (MS.) 
 
@@ -216,11 +216,11 @@ HIS IMPORTANCE AND INFLUENCE
 
 Kṣemendra, not only bears a different name but has another name also "Vyāsadāsa" which he almost invariably gives along with the former, but which is never to be found coupled with Kṣemarāja's name. His connection also with Abhinava cannot at all be said to have been so close as that of Kṣemarāja, for, he refers to Abhinava, so far as we know, only once i. e. in the Mahābhārata Mañjarī, wherein he speaks of having heard Abhinava's lectures on poetics : 
 
-"Acāryasekharamaner vidyāvivstikāriņah 
+"Acāryasekharamaner vidyāvivstikāriṇah 
 
 Srutvābhinavaguptākhyāt sahityam bodhavāridheh." 
 
-We know that even today there is a marked difference between S'iṣya and Srotā. The difference may be said to be similar to that which exists in the present-day colleges between a registered and a casual student. Further, Kṣemarāja probably used to live in Bijbihāra (Vijayeśvara) which he mentions as the place of composition of his commentary on the Stava Cintāmaņi : 
+We know that even today there is a marked difference between S'iṣya and Srotā. The difference may be said to be similar to that which exists in the present-day colleges between a registered and a casual student. Further, Kṣemarāja probably used to live in Bijbihāra (Vijayeśvara) which he mentions as the place of composition of his commentary on the Stava Cintāmaṇi : 
 
 "Tenārthipranayad dinaistricaturair yāṁ Kṣemarājo 
 
@@ -228,7 +228,7 @@ vyadhāt Ksetre Sri Vijayeśvarasya vimale saiṣā śivārādhanī." But Kṣem
 
 "Prakhyātātiśayasya tasya tanayah Kṣemendra-nāmā 
 
-bhavat Tena Sri Tripureśa-sailaśikhare viśrāntisantoṣiņā." 
+bhavat Tena Sri Tripureśa-sailaśikhare viśrāntisantoṣiṇā." 
 
 In the opinion of Dr. Bühler, referred to by Dr. De in H. S. P., P. 141, the only thing that can finally settle the question, under discussion, is the discovery of the name of Ksemarāja's father. We may, therefore, add here what little information we have been able to collect on this point. We have already shown how Kṣemarāja is identical with 
 
@@ -236,7 +236,7 @@ In the opinion of Dr. Bühler, referred to by Dr. De in H. S. P., P. 141, the on
 
 CHAPTER IV 
 
-Kṣema, mentioned in the Tantrāloka, as one of the cousins (pitrvyatanaya) of Abhinava, for, he refers to himself by the abbreviated form, found in the Tantraloka, in his own Pratyabhijñā Hrdaya. We know the name of one uncle (pitrvya) of Abhinava referred to in A. Bh., P. 297. We cannot, however, definitely say that he was the father of Kṣemarāja. For, there can be pointed out a possibility of Abhinava's having had more than one uncle, and therefore, of the name of Kṣemarāja's father having been different from that of Abhinava's uncle who is referred to in A. Bh. But there cannot be any such possibility about Kṣemaraja's grand-father, who also had a different name from that of Kṣemendra's grand-father. We have stated in the 1st chapter that the name of Abhinava's grand-father was Varāhagupta. Therefore, if Kṣemarāja was Abhinava's cousin, as we have shown before that he was, it naturally follows that Varahagupta was the grand father of Kṣemarāja also. But Kṣemendra's grand-father, according to the Maha bhārata Mañjarī, was Nimnāśaya : "Kaśmireṣu babhūva sindhuradhikah sindhośca nimnāśayah Prāptastasya guņaprakarsayaśasaḥ putrah Prakāśendratām 
+Kṣema, mentioned in the Tantrāloka, as one of the cousins (pitrvyatanaya) of Abhinava, for, he refers to himself by the abbreviated form, found in the Tantraloka, in his own Pratyabhijñā Hrdaya. We know the name of one uncle (pitrvya) of Abhinava referred to in A. Bh., P. 297. We cannot, however, definitely say that he was the father of Kṣemarāja. For, there can be pointed out a possibility of Abhinava's having had more than one uncle, and therefore, of the name of Kṣemarāja's father having been different from that of Abhinava's uncle who is referred to in A. Bh. But there cannot be any such possibility about Kṣemaraja's grand-father, who also had a different name from that of Kṣemendra's grand-father. We have stated in the 1st chapter that the name of Abhinava's grand-father was Varāhagupta. Therefore, if Kṣemarāja was Abhinava's cousin, as we have shown before that he was, it naturally follows that Varahagupta was the grand father of Kṣemarāja also. But Kṣemendra's grand-father, according to the Maha bhārata Mañjarī, was Nimnāśaya : "Kaśmireṣu babhūva sindhuradhikah sindhośca nimnāśayah Prāptastasya guṇaprakarsayaśasaḥ putrah Prakāśendratām 
 
 Prakhyātātisayasya tasya tanayah Kṣemendra-nāmābhavat." 
 
@@ -246,13 +246,13 @@ HIS DATE. There cannot be two opinions about the time of his literary activity, 
 
 157 
 
-HIS WORKS. 1. NRPĀVALI. (R. T., I, 13) 2. MAHĀBHĀRATA MAÑJARI. 3. RĀMĀYAŅA KATHA SARA. 4. CARUCARYA. (Kashmir Cat. MS. No. 347) 5. Nīti KALPA TARU. Do. 351. 6. DAŚĀVATĀRA CARITA. 7. SAMAYA MĀTRKĀ. 8. SUVRTTA TILAKA. 9. BRHATKATHĀ MANJARI (J. Cat. MS. No. 81) 10. AUCITYA VICĀRA CARCĀ. 
+HIS WORKS. 1. NRPĀVALI. (R. T., I, 13) 2. MAHĀBHĀRATA MAÑJARI. 3. RĀMĀYAṇA KATHA SARA. 4. CARUCARYA. (Kashmir Cat. MS. No. 347) 5. Nīti KALPA TARU. Do. 351. 6. DAŚĀVATĀRA CARITA. 7. SAMAYA MĀTRKĀ. 8. SUVRTTA TILAKA. 9. BRHATKATHĀ MANJARI (J. Cat. MS. No. 81) 10. AUCITYA VICĀRA CARCĀ. 
 
 (For complete list consult H. S. P., P. 142). 
 
 ABHINAVA'S INFLUENCE IN POETICS. 
 
-We are not writing a history of Sanskrit poetics. Our object is only to explain the importance of the author who is studied in these pages. It is, therefore, unnecessary to deal with the later writers on poetics separately. Suffice it to say that with perhaps the only exception of Mahima Bhatta, who was probably Abhinava's younger contemporary and who, in his Vyakti Viveka, has tried to explode the theory of Dhvani, all the writers on poetics, who came after Abhinava, for instance, Mammaţa in his Kāvyaprakāśa, Hema Chandra in his Kāvyānuśāsana, Visvanātha in his Sāhitya Darpana, Sāradā Tanaya in his Bhāva Prakāśa. Appayya Dīkṣita in his Kuvalayānanda etc., Pandit Jagannātha in his Rasagangādhara, and Mahāmaho pādhyāya Govinda in his Kāvya Pradīpa, follow Abhinava's theory of Rasa and Dhvani and most of them extensively quote him, and that the Sarigīta Ratnakara and the Srigara Ratnākara are more or less simply versifications of parts of Abhinaya's commentary on Bharata's Nātya Sastra. 
+We are not writing a history of Sanskrit poetics. Our object is only to explain the importance of the author who is studied in these pages. It is, therefore, unnecessary to deal with the later writers on poetics separately. Suffice it to say that with perhaps the only exception of Mahima Bhatta, who was probably Abhinava's younger contemporary and who, in his Vyakti Viveka, has tried to explode the theory of Dhvani, all the writers on poetics, who came after Abhinava, for instance, Mammaṭa in his Kāvyaprakāśa, Hema Chandra in his Kāvyānuśāsana, Visvanātha in his Sāhitya Darpana, Sāradā Tanaya in his Bhāva Prakāśa. Appayya Dīkṣita in his Kuvalayānanda etc., Pandit Jagannātha in his Rasagangādhara, and Mahāmaho pādhyāya Govinda in his Kāvya Pradīpa, follow Abhinava's theory of Rasa and Dhvani and most of them extensively quote him, and that the Sarigīta Ratnakara and the Srigara Ratnākara are more or less simply versifications of parts of Abhinaya's commentary on Bharata's Nātya Sastra. 
 
 158 
 
@@ -302,7 +302,7 @@ Do.
 
 Do. 
 
-77. 8. KUNDALĀBHARAŅA. 9. MUKUNDA KELI. 
+77. 8. KUNDALĀBHARAṇA. 9. MUKUNDA KELI. 
 
 73. 10. KOMALA VALLI. 11. NAKHA PRATĀPA. 
 
@@ -314,7 +314,7 @@ Do.
 
 It may be pointed out here that like Abhinava he also gives the gist of the subject-matter in the introduction to his available commentary. 
 
-(II) VARADA RĀJA alias KrṣŅADĀSA. 
+(II) VARADA RĀJA alias KrṣṇADĀSA. 
 
 He is perhaps the latest known writer on the Kashmir Saiva philosophy. We have not so far been able to find any internal or external evidence to fix his date and place. But from his style and method of treatment of the subject he does not appear to have come very soon after the eminent Saiva writers, of whom we have given an account in the 
 

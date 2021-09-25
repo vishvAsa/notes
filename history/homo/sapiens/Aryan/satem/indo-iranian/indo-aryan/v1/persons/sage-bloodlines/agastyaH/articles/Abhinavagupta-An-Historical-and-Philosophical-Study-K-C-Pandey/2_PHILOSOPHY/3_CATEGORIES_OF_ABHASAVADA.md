@@ -36,13 +36,13 @@ THE CATEGORIES OF THE ABHÄSAVÅDA
 
 231 
 
-(guņas), namely, sattva, rajas and tamas, are in a state of perfect equality; and, according to the Vaiśeṣika, every thing is reduced to atoms. The individual souls in this state are, as it were, in a deep sleep, though still in the bondage of their past individual karmas. Such a dissolution is referred to by the word "Pralaya". 
+(guṇas), namely, sattva, rajas and tamas, are in a state of perfect equality; and, according to the Vaiśeṣika, every thing is reduced to atoms. The individual souls in this state are, as it were, in a deep sleep, though still in the bondage of their past individual karmas. Such a dissolution is referred to by the word "Pralaya". 
 
 We have not so far discovered any thing which might give us the Trika idea of the condition of the tattvas in the state of small dissolution". There is, however, the following statement in the Tantrāloka : 
 
 "īśvarecchāvasa kṣubdha bhoga lolika cidganān 
 
-Samvibhanktum aghoreśah srjatīha sitetaram" which shows that in regard to the condition of the individual there is a complete agreement between the Sānkhya and the Vaiseṣika on the one hand and the Trika on the other. The Trika view, however, on the mahāpralaya is sufficiently clear in the existing literature. According to the available information, it is a state of perfect annihilation of all that is manifested. In this state the collocations and their consti tuents, the tattvas, suffer the same fate, and the individual selves, their bondages, āņava, kārma and māyīya, having been snapped, lose their individuality and are completely merged in the Universal Self, the Ultimate Reality. The Trika believes in both kinds of dissolution. How this belief does not conflict with the theory of karma, and, how creation of all kinds of limited selves does not make the Parama Siva cruel or partial, we shall explain in the course of our treatment of the theory of Karma in the fifth chapter. 
+Samvibhanktum aghoreśah srjatīha sitetaram" which shows that in regard to the condition of the individual there is a complete agreement between the Sānkhya and the Vaiseṣika on the one hand and the Trika on the other. The Trika view, however, on the mahāpralaya is sufficiently clear in the existing literature. According to the available information, it is a state of perfect annihilation of all that is manifested. In this state the collocations and their consti tuents, the tattvas, suffer the same fate, and the individual selves, their bondages, āṇava, kārma and māyīya, having been snapped, lose their individuality and are completely merged in the Universal Self, the Ultimate Reality. The Trika believes in both kinds of dissolution. How this belief does not conflict with the theory of karma, and, how creation of all kinds of limited selves does not make the Parama Siva cruel or partial, we shall explain in the course of our treatment of the theory of Karma in the fifth chapter. 
 
 The creation of the physical universe is not wanton but purposeful. It is meant for supplying the necessary stimuli for varying experiences which the innumerable souls must enjoy or suffer according to their individual karmas. Hence it presupposes karma as its prompting cause. At the 
 
@@ -72,7 +72,7 @@ Therefore, when the Trika says that the karma is the prompting cause in the crea
 
 CHAPTER III 
 
-In the case of the physical creation which follows pralaya, the prompting cause in the form of karma, as associated with the innumerable individual selves, being already there, the use of the power of obscuration is unnecessary. Both, the Mahāpralaya and the creation that follows, are, therefore, not possible, according to those systems which hold the karma to be merely karmasamskāra, and do not believe in the two independent functions of the Maheśvara, the obscuration and the grace. For, according to them, one of the most essential antecedent conditions of the creation is the karmasaņskāra, as the prompting cause. Therefore, if there be Mahāpralaya, i. e. if all were to completely merge in the Ultimate, if the individual souls were to lose their individuality and were to become free from karma, there being no prompting cause, the fresh creation would not take place. The Trika theory of karma receives more detailed treatment in the fifth chapter 
+In the case of the physical creation which follows pralaya, the prompting cause in the form of karma, as associated with the innumerable individual selves, being already there, the use of the power of obscuration is unnecessary. Both, the Mahāpralaya and the creation that follows, are, therefore, not possible, according to those systems which hold the karma to be merely karmasamskāra, and do not believe in the two independent functions of the Maheśvara, the obscuration and the grace. For, according to them, one of the most essential antecedent conditions of the creation is the karmasaṇskāra, as the prompting cause. Therefore, if there be Mahāpralaya, i. e. if all were to completely merge in the Ultimate, if the individual souls were to lose their individuality and were to become free from karma, there being no prompting cause, the fresh creation would not take place. The Trika theory of karma receives more detailed treatment in the fifth chapter 
 
 TATTVA DEFINED. 
 
@@ -170,7 +170,7 @@ SADĀśIVA. This is the third category and the power of will predominates in it.
 
 The experience of the beings of this tattva may be represented as "I am this". It has, however, to be remem bered that the "this" which represents the universe, the cause of affection, is so indistinct that it can be said to affect the universal beings of this tattva as little as a picture does a canvas when it is represented by extremely faint outlining dots only. 
 
-The experiencing entities belonging to this category are called Mantramaheśas. They are universal beings and because they are not perfectly free from the impurity, called āņavamala, their experience, therefore, is not without any objective reference. The object, however, is not of limited nature as in the case of the ordinary mortals. The whole universe constitutes their object and is conceived by them as identical with themselves (sarvasya avyatirekeņa, I. P. V., I. 36). 
+The experiencing entities belonging to this category are called Mantramaheśas. They are universal beings and because they are not perfectly free from the impurity, called āṇavamala, their experience, therefore, is not without any objective reference. The object, however, is not of limited nature as in the case of the ordinary mortals. The whole universe constitutes their object and is conceived by them as identical with themselves (sarvasya avyatirekeṇa, I. P. V., I. 36). 
 
 1. I. P.IV., II, 192-3. 
 
@@ -204,7 +204,7 @@ The order, in which the Tattvas of the pure creation are given here, represents 
 
 CHAPTER III 
 
-point of distinction of one class from another is constituted by the association of each with one of the four states of āņavamala in the course of its destruction i. e. (I) kincit dhvasyamāna, (II) dhvasyamāna. (III) kinciddhvasta, and (IV) dhvasta, respectively. 
+point of distinction of one class from another is constituted by the association of each with one of the four states of āṇavamala in the course of its destruction i. e. (I) kincit dhvasyamāna, (II) dhvasyamāna. (III) kinciddhvasta, and (IV) dhvasta, respectively. 
 
 In the above manifestations of the Universal Self the objective universe is purely ideal and is realised as it is in reality. Their experier cing entities realise themselves as universal beings, which they really are, and their experiences also are free from all kinds of limitation. They, therefore, represent the sphere of true knowledge and are spoken of as pure creation which is characterised by freedom from limitation as opposed to the impure which is the work of the Māyā and as such is distinctively limited. 
 
@@ -220,7 +220,7 @@ the power of obscuration and as the primary cause of all the limited manifestati
 
 The impure creation consists of two kinds of limited manifestations, the sentient and the insentient. The māyā, as the force of obscuration, is responsible for the appearance of the one Universal Self as innumerable individual selves, whose distinguishing feature is the ignorance of their real nature (svarūpākhyāti) and consequent imperfection of their powers of knowledge and action : 
 
-“Mohayati anena sakti viśeṣeņa iti moho māyā saktih tasyāḥ vaśah sāmarthyam mohana kāryam prati avirāmah yathoktam "Māyā vimohinī nāma'..........". 
+“Mohayati anena sakti viśeṣeṇa iti moho māyā saktih tasyāḥ vaśah sāmarthyam mohana kāryam prati avirāmah yathoktam "Māyā vimohinī nāma'..........". 
 
 I. P. V., I, 35. But Māyā Tattva as the primary cause of all the insentient limited manifestations i. e. as parāniśā, contains all the manifestables within : 
 
@@ -238,7 +238,7 @@ CHAPTER III
 
 jñāna and kriyā, and so is perfect in every way, and the universe is identical with it, it has to be explained: where does the plurality of selves with all their limitations come from ; and what is the cause of the limited creation which forms the object of experience of the limited beings ? To account for these facts, or rather, to answer these questions it is that the māyā is supposed to be the force of obscuration. As such, Māyā Tattva hides the true nature of the Self so that not only all its five powers are obscured but the universe also, which was in relation of identity with it, disappears. Thus there arises the occasion for the other aspect of māyā, viz, as the cause of the limited universe, to come into play and produce the limited universe in all its parts almost simultaneously much as emblic myrobalan (āmalaki), being forcefully struck with a staff, lets fall its fruits. Different authorities, however, have differently fixed the order of precedence and succession of the manifestations of māyā and have accordingly represented them to be related by the relation of cause and effect to one another. Abhinava follows the authority of the Mālini Vijaya Tantra in his statement of the order of manifestation of the things belonging to the limited creation”. 
 
-KALĀ. This is the first product of māyā. The obscuration by ināyā of the Universal Self leads to the affection of the latter by the impurity, called āņavamala, in an innumerable variety of forms and so to the appearance of the Universal Self in the form of multifarious limited selves. 
+KALĀ. This is the first product of māyā. The obscuration by ināyā of the Universal Self leads to the affection of the latter by the impurity, called āṇavamala, in an innumerable variety of forms and so to the appearance of the Universal Self in the form of multifarious limited selves. 
 
 “Māyā svīkāra pāratantryāt sarvajñatva sarvakatrt vamayopi bodhah sarvajñatvādi guṇāpahastanena akhyāti rūpam anavam malam īpannah yena 1. T. A., VI, 128. 2. T. A., VI, 129. 
 
@@ -246,7 +246,7 @@ THE CATEGORIES OF THE ĀBHĀSAVĀDA
 
 247 
 
-ghatākāśavat pārņa rūpāt cidākāśāt avacchedya parimitīkṣtah san tadeva puṁstvam ucyate." 
+ghatākāśavat pārṇa rūpāt cidākāśāt avacchedya parimitīkṣtah san tadeva puṁstvam ucyate." 
 
 P. S., Comm. 45-6. Kalā, therefore, is that Tattva, which, being associated with the self, whose powers of knowledge and action have been obscured, partly restores? to it the power of action. It is related to a limited self not as an instrument to an agent, as the vidyā and other limited powers are, but as its causal agent. It is the knowledge of this tattva, and not of the prakrti as distinct from the Puruṣa, that brings about the freedom from the bondage of karma and places an individual in the higher category of beings, called the Vijñānākala, who are beyond the sphere of Māyā). The knowledge of the distinction between prakrti and puruṣa, as got through following the teachings of the Sānkhya, saves a soul only from going lower than the pradhāna". The kalā is admitted to be an independent Tattva because of its independent function of bringing limited power of action to a subject, a function which is quite distinct from, nay, opposite to that of obscuration which is the characteristic function of the māyā. 
 
@@ -258,7 +258,7 @@ But here it may be objected that action, in order that it may lead to a tangible
 
 CHAPTER III 
 
-VIDYĀ. It is a tattva the association of which with the subject brings to the latter a limited power of knowledge. This may, more correctly, be spoken of as the power of discrimi nation, because its distinctive function is to know the various objects, reflected on the Buddhi, as distinct from one another. The assumption of the vidyā as a different tattva from the Buddhi is necessary; for, although the latter, being predominantly made up of sattva, can receive reflection, yet, being simply a product of guņas and, therefore, insentient, it cannot know either itself or that which is reflected on it. - Another question may be raised here, namely, that if the limited powers of knowledge and action are common to all the subjects, what is it that is responsible for the choice by each individual of different objects of his respective activities? The Trika postulates the following tattva to answer this question. 
+VIDYĀ. It is a tattva the association of which with the subject brings to the latter a limited power of knowledge. This may, more correctly, be spoken of as the power of discrimi nation, because its distinctive function is to know the various objects, reflected on the Buddhi, as distinct from one another. The assumption of the vidyā as a different tattva from the Buddhi is necessary; for, although the latter, being predominantly made up of sattva, can receive reflection, yet, being simply a product of guṇas and, therefore, insentient, it cannot know either itself or that which is reflected on it. - Another question may be raised here, namely, that if the limited powers of knowledge and action are common to all the subjects, what is it that is responsible for the choice by each individual of different objects of his respective activities? The Trika postulates the following tattva to answer this question. 
 
 RĀGA. Rāga (attachment ?) is that power which is responsible for an individual's choice of a certain thing as an object of a particular activity, to the exclusion of all the rest that he knows. It is not a mere absence of indifference (avairāgya) which is conceived to be a quality of the buddhi by the Sankhya. It is rather that power which is responsible for the indifference (vairāgya) itself. What is vairāgya after all ? Is it not indifference ? And as such has it not got an object of its own ? How then can it take place without the assistance of the Rāga as conceived by the Trika ? 
 
@@ -276,7 +276,7 @@ The last mentioned four, vidyā, rāga, kāla and niyati are the effects of kal�
 
 PURUṣA. 
 
-We have stated above how the Universal Self under the influence of its power, called māyā, assumes the innumerable forms of limited selves whose limitation consists in ignorance of their essential nature and consequent deprivation of the powers of knowledge and action. Such a sentient limited manifestation, when possessed of the five attributes kalā etc., is spoken of as puruṣa. The above five attributes together with māyā, which is the cause of self-forgetfulness, as it were, of the Self, are at times spoken of as six covers. The deprivation of the Self of its powers of knowledge and action consequent upon the obscuration of its real nature is spoken of as "āņavamala". And the objectless desire to use the limited powers is called "kārma mala" to which its future associations with insentient objects are due. The puruṣa, therefore, is often described briefly as the Self affected by two impurities, the anava and the kārma malas, but free from the third, the māyīya mala. It represents purely the subjective element in the midst of the body, the senses, the vital airs, the mind and the Buddhi. It constitutes the 25th category. It is often referred to 
+We have stated above how the Universal Self under the influence of its power, called māyā, assumes the innumerable forms of limited selves whose limitation consists in ignorance of their essential nature and consequent deprivation of the powers of knowledge and action. Such a sentient limited manifestation, when possessed of the five attributes kalā etc., is spoken of as puruṣa. The above five attributes together with māyā, which is the cause of self-forgetfulness, as it were, of the Self, are at times spoken of as six covers. The deprivation of the Self of its powers of knowledge and action consequent upon the obscuration of its real nature is spoken of as "āṇavamala". And the objectless desire to use the limited powers is called "kārma mala" to which its future associations with insentient objects are due. The puruṣa, therefore, is often described briefly as the Self affected by two impurities, the anava and the kārma malas, but free from the third, the māyīya mala. It represents purely the subjective element in the midst of the body, the senses, the vital airs, the mind and the Buddhi. It constitutes the 25th category. It is often referred to 
 
 2. T. A., VI, 161. 
 
@@ -290,7 +290,7 @@ T. A., VI, 160. T. A., VI, 164-5.
 
 CHAPTER III 
 
-as pumān pudgala or aņu. It represents the permanent aspect of the individual, retains residual traces (saṁskāras) and passes through innumerable births and deaths. There is a marked similarity between the Trika and the Sankhya concepts of puruṣa. The former also like the latter believes that there is no limit to the number of the puruṣas and that the creation of the prakrti is for supplying the necessary stimuli for the varying experiences which these puruṣas must enjoy or suffer according to their individual karma. The conception of malas and six covers, however, is peculiar to the Trika. 
+as pumān pudgala or aṇu. It represents the permanent aspect of the individual, retains residual traces (saṁskāras) and passes through innumerable births and deaths. There is a marked similarity between the Trika and the Sankhya concepts of puruṣa. The former also like the latter believes that there is no limit to the number of the puruṣas and that the creation of the prakrti is for supplying the necessary stimuli for the varying experiences which these puruṣas must enjoy or suffer according to their individual karma. The conception of malas and six covers, however, is peculiar to the Trika. 
 
 This very puruṣa, when it momentarily identifies itself with body etc., is spoken of as the dehapramātā and so on. Further, being entirely free from all kinds of association with the gross world at the time of the dissolution and lying in a state of deep sleep as it were, it is called pralayākala. And when it is freed from the kārma mala and consequently from the limited experiences, which are peculiar to souls in the bondage of karma, it is called Vijñānākala. As such it represents the transitional stage through which an individual self has to pass before reaching the state of the universal experiencer of the S'uddha vidyā tattva which is also called Mahāmāyā.) 
 
@@ -342,7 +342,7 @@ THE SANKHYA AND THE TRIKA CONCEPTS OF
 
 BUDDHI COMPARED. 
 
-Thus, there is an agreement between the Sārkhya and the Trika on the conception of Buddhi so far as it is a common meeting place of both, the light of the puruṣa from one side and the reflection of the external object from the other. They, however, fundamentally differ on the nature of the source of internal light. According to the former, it is the pure self, śuddha puruṣa) that casts its light on buddhi; but, according to the latter, it is one that is affected by two impurities, āņava and kārma malas. Further, according to the former, it is not objective (asamvedya), but, according to the latter, being an instrument of knowledge, it is knowable, like any other instrument such as the mind. 
+Thus, there is an agreement between the Sārkhya and the Trika on the conception of Buddhi so far as it is a common meeting place of both, the light of the puruṣa from one side and the reflection of the external object from the other. They, however, fundamentally differ on the nature of the source of internal light. According to the former, it is the pure self, śuddha puruṣa) that casts its light on buddhi; but, according to the latter, it is one that is affected by two impurities, āṇava and kārma malas. Further, according to the former, it is not objective (asamvedya), but, according to the latter, being an instrument of knowledge, it is knowable, like any other instrument such as the mind. 
 
 AHANKĀRA. It is a product of the buddhi. It is nothing but the identification of the limited self with the buddhi and consequent attribution of the latter's activity to itself. Its distinctive function is to control the five vital airs within the system and so the life itself. It is distinct from self consciousness (ahambhāva), because while the latter is purely subjective (svātma matra visrānti satattvah) and, therefore, without any objective reference; the former is due to superimposition of the self on the buddhi'. 
 
@@ -366,9 +366,9 @@ The remaining twenty tattvas are as follows: (1) The five senses or powers of pe
 
 Buddhīndriyas or jñānendriyas, namely, the 
 
-powers of (a) smelling (ghrāņendriya) (b) tasting (rasanendriya) (C) seeing (cakṣurindriya) (d) feeling-by-touch (sparśanendriya) and 
+powers of (a) smelling (ghrāṇendriya) (b) tasting (rasanendriya) (C) seeing (cakṣurindriya) (d) feeling-by-touch (sparśanendriya) and 
 
-(e) hearing (śravaņendriya.) (II) The five capacities of activity, called the karmen 
+(e) hearing (śravaṇendriya.) (II) The five capacities of activity, called the karmen 
 
 driyas, (organs of action ?) namely, the capacities of (a) resting and enjoying passively (upasthendriya) (b) rejecting or discarding (pāyvindriya) (c) locomotion (pādendriya) (d) handling (hastendriya) and (e) voicing (Vāgindriya) 
 

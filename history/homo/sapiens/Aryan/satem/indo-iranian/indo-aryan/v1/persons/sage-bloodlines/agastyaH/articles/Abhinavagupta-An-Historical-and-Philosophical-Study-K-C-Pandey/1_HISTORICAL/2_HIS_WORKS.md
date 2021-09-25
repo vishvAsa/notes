@@ -8,7 +8,7 @@ HIS WORKS.
 
 LIST OF HIS KNOWN WORKS. 1. Bodha Pancadasikā. 2. Mālini Vijaya Vārtika. V 3. Parātrimśikā Vivrti. 4. Tantraloka. 5. Tantrasāra. 6. Tantravagadhānikā. 7. Dhvanyāloka Locana. 8. Abhinava Bhārati. 
 
-9. Bhagavadgitārtha Sangraha. 10. Paramārtha Sāra. 11. Isvara Pratyabhijñā Vimarsini. 12. Isvara Pratyabhijñā Vivrti Vimarsini. - 13. Krama Stotra, tule available combi lobortis 14. Dehastha Devata Cakra Stotra. 15. Bhairava Stotra. V gone of the lies 16. Paramārtha Dvādasikā. 17. Paramārtha Carcā. 18. Mahopadeśa Vimsatik a. 19. Anuttarāṣtikā. 20. Anubhavanivedana. 21. Tant roccaya. 22. Ghatakarparakulaka Vivrti. 23. Karmakeli. 24. Sivadrstyālocana. 25. Purva Pañcikā. 26. Padārthapraveśa Nirnaya Țikā. 27. Prakīrņaka Vivarana. 28. Prakarana Vivarana. 29. Kāvyakautuka Vivarana. 
+9. Bhagavadgitārtha Sangraha. 10. Paramārtha Sāra. 11. Isvara Pratyabhijñā Vimarsini. 12. Isvara Pratyabhijñā Vivrti Vimarsini. - 13. Krama Stotra, tule available combi lobortis 14. Dehastha Devata Cakra Stotra. 15. Bhairava Stotra. V gone of the lies 16. Paramārtha Dvādasikā. 17. Paramārtha Carcā. 18. Mahopadeśa Vimsatik a. 19. Anuttarāṣtikā. 20. Anubhavanivedana. 21. Tant roccaya. 22. Ghatakarparakulaka Vivrti. 23. Karmakeli. 24. Sivadrstyālocana. 25. Purva Pañcikā. 26. Padārthapraveśa Nirnaya Țikā. 27. Prakīrṇaka Vivarana. 28. Prakarana Vivarana. 29. Kāvyakautuka Vivarana. 
 
 ont of the two coulbution to to. 
 
@@ -16,7 +16,7 @@ HIS WORKS
 
 23 
 
-30. Kathāmukha Tilaka. 31. Laghví Prakriya. 32. Bhedavādavidāraņa 33. Devīstotra Vivarana. 34. Tattvādhya Prakāśikā. 35. Sivasaktyavinābhāva Stotra 36. Bimbapratibimba Vāda (Dr. Bühler's Kashmir Cata 
+30. Kathāmukha Tilaka. 31. Laghví Prakriya. 32. Bhedavādavidāraṇa 33. Devīstotra Vivarana. 34. Tattvādhya Prakāśikā. 35. Sivasaktyavinābhāva Stotra 36. Bimbapratibimba Vāda (Dr. Bühler's Kashmir Cata 
 
 logue MS. No. 469.) 37. Paramārtha Sangraha ( Do. 459.) 38. Anuttara Sataka. Introduction to the P. T. V., P. 15. 39. Prakarana Stotra. It does not state any authority to 40. Nātyālocana. substantiate the statement. 41. Anuttaratattvavimarsinī Vrtti (T. C. MS. No. 8219 ) 
 
@@ -100,7 +100,7 @@ Purva śāstra.
 
 M. V. V., 2.) And we know on the authority of the P.T. V. that he wrote a regular commentary on the Pūrva śāstra, called Pūrva Pañcikā, before the former work : 
 
-("Nirņītañca etat mayaiva Srīpūrvapañcikāyām." 
+("Nirṇītañca etat mayaiva Srīpūrvapañcikāyām." 
 
 P. T. V., 57.) We also know from the following quotations from the Tantrasāra and the Bhāskari, an unpublished commentary on the Isvara Pratyabhijñā Vimarsinī, that works on theHIS WORKS 
 
@@ -114,7 +114,7 @@ Rjuvacanaviracitam idam Tantrasāram tataḥ śrnuta.".
 
 T. S., 2. "Tatra ca sarvajanahitārtham Bphatpratyabhijñākhyā 
 
-bahuvistarā tīkā krtā, tadvicāraņeca janam asaktam jñātvā tenaiva Pratyabhijñākārikāsūtreṣu samhgrahamayi Vimar 
+bahuvistarā tīkā krtā, tadvicāraṇeca janam asaktam jñātvā tenaiva Pratyabhijñākārikāsūtreṣu samhgrahamayi Vimar 
 
 sinītiprasiddhā tīkā krtā." (Bhaskarī). The M. V. V. also, therefore, has to be supposed to have come either immediately before or after his commentary on the Pūrva Sastra, in any case before the Parātrirhśikāvivarana. 
 
@@ -154,7 +154,7 @@ Because it is a still briefer resume of the Tantra loka than even the Tantra Sā
 
 7. Dhvanyaloka Locana. 
 
-"Taduttīrnatve tu sarvam parameśvarādvayam brahmetyasmacchāstrānusāreņa viditam Tantra lokagrantham vicāraya. 
+"Taduttīrnatve tu sarvam parameśvarādvayam brahmetyasmacchāstrānusāreṇa viditam Tantra lokagrantham vicāraya. 
 
 Dh. L., 19. 8. Abhinava Bhāratī. 
 
@@ -182,7 +182,7 @@ Because it came immediately after the Bṣhatī Vimarsins which is his last know
 
 M. M. MUKUNDARĀMA SĀSTRI ON THE CHRONOLOGY 
 
-OF ABHINAVA'S WORKS. In view of the facts stated above, it is surprising to find that M. M. Mukundarāma Sāstrī in his two introductions to the Tantrasāra, the one in English (P. IX) and the other in Sanskrit (P. 5-6) has placed the Parātrīśikā Vivaraņa, the Tantrāloka, and the Tantra Sāra chronologically after the Isvara Pratyabhijñā Vimarsini saying : 
+OF ABHINAVA'S WORKS. In view of the facts stated above, it is surprising to find that M. M. Mukundarāma Sāstrī in his two introductions to the Tantrasāra, the one in English (P. IX) and the other in Sanskrit (P. 5-6) has placed the Parātrīśikā Vivaraṇa, the Tantrāloka, and the Tantra Sāra chronologically after the Isvara Pratyabhijñā Vimarsini saying : 
 
 "As, in his great work Tantrāloka, he often quotes from Isvara Pratyabhijñā Vimarsinī, which, he himself says, was written by him in the year 4115 of the kali age corresponding to 1014 A. D., it follows that the former was composed after the year 1014. Now the date of composition of Tantra Sāra, which is an epitome of Tantrāloka must necessarily be some time later than 1014 A. D." 
 
@@ -206,7 +206,7 @@ It seems that our Sāstrī mistook the Isvara Pratyabhijña Kārikā for the Isv
 
 WORKS KNOWN FROM REFERENCES. 1. Kramakeli. 
 
-It was a commentary on the Krama Stotra. It has to be noted here that this Krama Stotra was different from Abhinava's composition of the same name, given in appendix (C) to this thesis. It was a work on the Krama system of philosophy. It is very often quoted by Maheśvarānanda in his commentary, Parimalā, on the Mahārtha Mañjarī. It is referred to by Abhinava in his Vivaraņa on the Parātritsikā : 
+It was a commentary on the Krama Stotra. It has to be noted here that this Krama Stotra was different from Abhinava's composition of the same name, given in appendix (C) to this thesis. It was a work on the Krama system of philosophy. It is very often quoted by Maheśvarānanda in his commentary, Parimalā, on the Mahārtha Mañjarī. It is referred to by Abhinava in his Vivaraṇa on the Parātritsikā : 
 
 \*Vyākhyātam caitat mayā tattīkāyām Kramakelau Vistaratah." 
 
@@ -258,7 +258,7 @@ Nothing more about this can be said than that, from its name and the nature of t
 
 \*Anusandhāyāh smrtibhede tasyāśca anubhavopa jīvitve anubhavābhāvāt; vitatya ca vicāritam mayaitat Padārtha Praveśa Nirnaya Tīkāyām." 
 
-P. T. V., 162. 5. Prakīrņaka Vivarana. 
+P. T. V., 162. 5. Prakīrṇaka Vivarana. 
 
 From the context, in which reference to it, as given below, occurs, this seems to have been a grammatico philosophical work : 
 
@@ -268,7 +268,7 @@ sangatih Astām anyatra vitatam etad vistarato maya."
 
 T. A., VII, 33. In commenting upon the word "anyatra" Jayaratha says: 
 
-"Anyatreti Prakīrņaka Vivaranādau". Here the use of the word "ādi" indicates that he wrote 
+"Anyatreti Prakīrṇaka Vivaranādau". Here the use of the word "ādi" indicates that he wrote 
 
 many other works of the same kind. 6. Prakarana Vivarana. 
 
@@ -284,7 +284,7 @@ It was a commentary on Bhatta Tota's work on poetics, the Kāvyakautuka. It was 
 
 "Sa cāyam asmadupādhyāya Bhatta Tautena 
 
-Kāvya Kautuke asmābhiếca tadvivarañe bahutara krtanirnayah pūrvapakṣasiddhāntahityalam bahunā." 
+Kāvya Kautuke asmābhiśca tadvivarañe bahutara krtanirnayah pūrvapakṣasiddhāntahityalam bahunā." 
 
 Dh. L., 178. 8. Kathāmukha Tilakam. 
 
@@ -302,9 +302,9 @@ Bh. G. S., ch. IV, S. 28.
 
 and "Ünādhikam avijñātam.. 
 
-Kṣantavyaṁ krpayā sambho yatastvam karuņākaraḥ Anena stotrayogena tavātmānam nivedaye." 
+Kṣantavyaṁ krpayā sambho yatastvam karuṇākaraḥ Anena stotrayogena tavātmānam nivedaye." 
 
-Bh. G. S., ch. XII, S. 11. 10. Bhedavāda Vidāraņa. 
+Bh. G. S., ch. XII, S. 11. 10. Bhedavāda Vidāraṇa. 
 
 It is referred to in both the Bhagavadgītārtha Sangraha and the Pratyabhijñā Vimarsins. It was a 
 
@@ -318,9 +318,9 @@ I. P. V., II, 158.
 
 11. Devi Stotra Vivarana. 
 
-This was a commentary from the monistic view point on Anandavardhana's Devi Stotra. The Stotra has been published in the Kāvyamālā series. Our statement is based upon the following lines in the Bh. G. S.: “Sarvabhūteņu ātmānamh grāhakatayā anupravisantam 
+This was a commentary from the monistic view point on Anandavardhana's Devi Stotra. The Stotra has been published in the Kāvyamālā series. Our statement is based upon the following lines in the Bh. G. S.: “Sarvabhūteṇu ātmānamh grāhakatayā anupravisantam 
 
-bhāvayet, ātmani ca grāhyatājñānadvāreņa sarvāṇi bhūtāni ekikuryāt; atasca samadarśan atvam samhjāyate yogasceti sarhkṣepārthaḥ; vistarastu Bhedavāda Vidāraņādi prakarane Devīstotra Vivarane ca mayaiva nirnītah." 
+bhāvayet, ātmani ca grāhyatājñānadvāreṇa sarvāṇi bhūtāni ekikuryāt; atasca samadarśan atvam samhjāyate yogasceti sarhkṣepārthaḥ; vistarastu Bhedavāda Vidāraṇādi prakarane Devīstotra Vivarane ca mayaiva nirnītah." 
 
 Bh. G. S., ch. VI, S. 30. Here from the use of the word "ādi" after "Bhedavāda Vidāraṇa," it appears that he wrote very many books 
 
@@ -346,7 +346,7 @@ There are three clearly marked periods of his literary activity. His works, ther
 
 1. TANTRIKA PERIOD. From the dates of his two dated stotras, Krama and Bhairava, and from the chronological order of his works based on references and other indications it is clear that first of all he tried the power of his pen mainly in commenting on the then existing Tantras from the point of view of monistic Saivaism. That the Krama was the first of the Tantric systems on which he worked, the earliest date of the Kramastotra clearly proves. His known contributions to it are his above stotra and the Kramakeli. The next Tantric system that drew his attention was the Trika. To this his chief contributions are his Pūrva and other Pañcikās. That it was the transitional period between his experimenting in and writing on the Krama, and his ultimately taking to Kaulism, is conclusively proved by the following statement of Jayaratha : 
 
-«Tantropāsannagurvabhimukhīkaraņānantaram vis rāntisthānatayā kulaprakriyāgurumapi utkarṣayati." 
+«Tantropāsannagurvabhimukhīkaraṇānantaram vis rāntisthānatayā kulaprakriyāgurumapi utkarṣayati." 
 
 CEST. A., Comm., 1, 31. His known contributions to the Kaulika literature are the Bhairavastava and the Parātrimśikā Vivarana. To the last part of this very first period of literary activity belong also his encyclopaedic work, the Tantrāloka, which deals with all the allied schools of Kashmir Saivaism, and its three summaries, the Tantra Sāra, the Tantroccaya and the 
 
@@ -410,7 +410,7 @@ HIS WORKS
 
 P.T. V., 277. The Vivarana is Abhinava's commentary on it. 
 
-OTHER COMMENTATORS. Parātrimśikā seems to have been quite popular during the century that intervened between Somānanda and Abhinava. This supposition alone can explain the existence of so many commentaries on it. Abhinava refers with reverence to only three of these, written by Somānanda, Bhavabhūti and Kalyāņa separately. About the rest he had so bad an opinion that he considered it disgraceful even to criticise them? In Kashmir the present writer found another commentary, which is both simpler and briefer. It was written by Rājānaka Lakṣmīrāma. The MS. was copied by Räjānaka Nīlakantha in the Saptarsi year 4962. It is in the possession of his son Mahisar of Srinagar. 
+OTHER COMMENTATORS. Parātrimśikā seems to have been quite popular during the century that intervened between Somānanda and Abhinava. This supposition alone can explain the existence of so many commentaries on it. Abhinava refers with reverence to only three of these, written by Somānanda, Bhavabhūti and Kalyāṇa separately. About the rest he had so bad an opinion that he considered it disgraceful even to criticise them? In Kashmir the present writer found another commentary, which is both simpler and briefer. It was written by Rājānaka Lakṣmīrāma. The MS. was copied by Räjānaka Nīlakantha in the Saptarsi year 4962. It is in the possession of his son Mahisar of Srinagar. 
 
 THE TITLE. The title is very misleading. On seeing it, the reader naturally thinks that the word “Trimśikā" is indicative of the number of verses constituting the original text, but it is not so, 3 because the text actually consists of more verses than thirty. The real title of the book is Parātrisikā. It means "Parā, the mistress of the three i. e. the three powers of will, knowledge and action." In fact Parā is an abbreviation of Parāsaṁvid, which is higher than these powers and is still identical with them. The book is so called because it deals with such a "Parā." No doubt, it was also called Parā Trimśikā, but for no other reason than that of similarity of sound. The word "trimśikā" does not imply number thirty. Another name of this book is Trika Sūtra, because it gives in brief outline the basic 
 
@@ -428,7 +428,7 @@ There are frequent references in this book to a Tantra Sāra. But it has to be n
 
 Saiva conception of Parā, Paśyantī, 
 
-Madhyamā and Vaikhari. According to the Abhāsavādin the whole universe is a mere manifestation of the universal self or Parama Siva, as the images of an imagination, the scenes of a dream or the creations of a person who has attained certain yogic powers (yoginirmāņa) are those of the limited selves. Our experience tells us that the things of imagination, dream and yogic creation have no existence independent of or separate from the self which is responsible for their manifestation. Believing, therefore, the macrocosm to be the same in its nature and constitution as the microcosm, the Ābhāsavādin holds that the whole universe rises from, has its being within, is maintained by and again merges in the same universal consciousness or self. He also holds that it is in its essence the same as that from which it rises, just as the waves of the ocean are essentially the same as the ocean itself. 
+Madhyamā and Vaikhari. According to the Abhāsavādin the whole universe is a mere manifestation of the universal self or Parama Siva, as the images of an imagination, the scenes of a dream or the creations of a person who has attained certain yogic powers (yoginirmāṇa) are those of the limited selves. Our experience tells us that the things of imagination, dream and yogic creation have no existence independent of or separate from the self which is responsible for their manifestation. Believing, therefore, the macrocosm to be the same in its nature and constitution as the microcosm, the Ābhāsavādin holds that the whole universe rises from, has its being within, is maintained by and again merges in the same universal consciousness or self. He also holds that it is in its essence the same as that from which it rises, just as the waves of the ocean are essentially the same as the ocean itself. 
 
 1. T. A., Ah. XII, P. 101. 2. T. A., VI, 249. 
 
@@ -640,7 +640,7 @@ tadātmānam srjāmyaham". But Abhinava's text reads as
 
 "tadātmāmsam sṣjāmyaham". 
 
-The variation, though apparently slight, implies a greatly different meaning as the following extract from the commentary shows : "Sri Bhagavān kila pürņaṣādgunyatvāt sarīrasamparkamātra rahitopisthitikāritvāt kāruņikatayā ātmāmsaí srjati ; 
+The variation, though apparently slight, implies a greatly different meaning as the following extract from the commentary shows : "Sri Bhagavān kila pürṇaṣādgunyatvāt sarīrasamparkamātra rahitopisthitikāritvāt kāruṇikatayā ātmāmsaí srjati ; 
 
 1. Bh. G. S. Introd. §. 6. 2. Bh. G. S. concl. §. 2. 3. Bh. G. S. concl. $. 3. 4. Bh. G. S. Introd. $. 5. 
 
@@ -648,7 +648,7 @@ The variation, though apparently slight, implies a greatly different meaning as 
 
 CHAPTER II 
 
-Ātmā pürņaṣādgunyah, amsah upakārakatvena apradhāna bhūto yatra tat atmāṁsam, sarīram grhņāti ityarthah." 
+Ātmā pürṇaṣādgunyah, amsah upakārakatvena apradhāna bhūto yatra tat atmāṁsam, sarīram grhṇāti ityarthah." 
 
 Bh. G. S., Ch. IV, 7. 
 
@@ -662,7 +662,7 @@ Further, it has very many verses in addition to those found in the published tex
 
 "Eṣa sūkṣmah parah satrur dehinām indriyaih saba Sukhatantra ivāsīno mohayan partha tiṣthati Kāmakrodhamayo ghorah stambhaharṣasamudbhavah Ahankārobhimānātmā dustarah pāpakarmabhiḥ Harṣam asya nivartyaiṣa sokam asya dadāti ca Bhayancāsya karotyeṣa mohayaistu muhur muhuh Sa eṣa kaluṣah kṣudrachidraprekṣi Dhananjaya 
 
-Rajahpravstto mohātmā mānuṣāņām upadravah." On this Abhinava comments as follows: 
+Rajahpravstto mohātmā mānuṣāṇām upadravah." On this Abhinava comments as follows: 
 
 “Eṣa tāvat sūkṣma utpattisamaye alakṣya indriyeṣu" etc. 
 
@@ -714,7 +714,7 @@ COMPARATIVE STUDY OF THE SOURCE AND
 
 THE ADAPTATION. There is a difference of opinion among scholars as regards the text which was the source of Abhinava's adaptation. Dr. Barnett, who was perhaps the first scholar to study the philosophical works of Abhinavagupta, remarks in J. R. A. S. (1910) P. 708 : 
 
-"Our Paramārtha Sāra must be distinguished from another little work of the same name, of which an edition was published in 1907 at Madras, with a Telugu paraphrase by Pattisapu Venkateshvaradu. The latter consists of seventy-nine Aryā verses ; a considerable number of these are borrowed directly from our Paramārtha Sāra and with them have been incorporated others, the whole work being painted over with Vaiṣņava colours. Needless to say, it is valueless for the criticism of our book." 
+"Our Paramārtha Sāra must be distinguished from another little work of the same name, of which an edition was published in 1907 at Madras, with a Telugu paraphrase by Pattisapu Venkateshvaradu. The latter consists of seventy-nine Aryā verses ; a considerable number of these are borrowed directly from our Paramārtha Sāra and with them have been incorporated others, the whole work being painted over with Vaiṣṇava colours. Needless to say, it is valueless for the criticism of our book." 
 
 Supposing the text of the Paramārtha Sāra, referred to by the learned Doctor, to be the same as that of the one pub lished in the Sabda Kalpadruma, Mr. J. C. Chatterji holds, on the contrary, that the very work, referred to by Dr. Barnett in the above paragraph, was adapted by Abhinava to suit his needs. He further adds in the same connection: "A comparison of the two texts would prove, to my mind, interesting and I propose to make it on another occasion," 
 
@@ -866,15 +866,15 @@ In the Dehastha Devata Cakra Stotra Abhinava shows that the attendant deities of
 
 CHAPTER II 
 
-are found associated with him even when he is in the body as a limited self (Siva eva grhītapaśubhāvah). Though in the latter case their names and forms are different yet their functions are the same. For instance, in the Purānas he is said to have got two door-keepers, Ganeśa and Batuka. They accompany him even when he assumes limitations as an individual (Pasupramātā) to guard two of the nine doors of the body. Of course, in this case, they are called Prāņa and Apāna. Jayaratha echoes this very idea when in his commentary on the Tantrāloka I, 6, he says the following with regard to Gaņeśa and Batuka : 
+are found associated with him even when he is in the body as a limited self (Siva eva grhītapaśubhāvah). Though in the latter case their names and forms are different yet their functions are the same. For instance, in the Purānas he is said to have got two door-keepers, Ganeśa and Batuka. They accompany him even when he assumes limitations as an individual (Pasupramātā) to guard two of the nine doors of the body. Of course, in this case, they are called Prāṇa and Apāna. Jayaratha echoes this very idea when in his commentary on the Tantrāloka I, 6, he says the following with regard to Gaṇeśa and Batuka : 
 
-"Asya hi prāņavyāptirasti ityevam nirdiśanti guravah" 
+"Asya hi prāṇavyāptirasti ityevam nirdiśanti guravah" 
 
 and «Vastuto hi apānavyāptirasyāsti ityevam nirdeśaḥ", respectively. 
 
 Regarding the Anubhava Nivedana it may be stated here that we attribute it to Abhinava on the authority of a tradition only. We have so far not been able to find any internal or external literary evidence to support it. The colophon says nothing about its authorship and no quotation from it have we, so far, discovered anywhere. We are, therefore, not quite sure that the tradition is well founded. We have, however, included it in the list of Abhinava's works, because we found it in an old collection of Abhinava's Stotras in the possession of Harabhatt Shastri of Kashmir. 21. TANTROCCAYA. 
 
-This is another summary of the great work, Tantrāloka, smaller than the Tantrasāra but bigger than the Tantra vaţadhānikā. Although both the introductory and the concluding verses speak of its being a work of Abhinava, yet the language, the style and the method of treatment of the subject matter, give rise to grave doubt about its being from the pen of Abhinava. 
+This is another summary of the great work, Tantrāloka, smaller than the Tantrasāra but bigger than the Tantra vaṭadhānikā. Although both the introductory and the concluding verses speak of its being a work of Abhinava, yet the language, the style and the method of treatment of the subject matter, give rise to grave doubt about its being from the pen of Abhinava. 
 
 HIS WORKS 
 
@@ -944,6 +944,6 @@ P. T. V., 3. The few small differences between the two texts can be explained as
 
 A set of his works dealing with the Anuttara, Abhinava used to refer to as "Anuttaraprakriyā". This fact we learn from Jayaratha's following comment on the above word : 
 
-"Anuttaraprakriyāyāmiti parātrimsikā-vivaraņādavityar thah.” 
+"Anuttaraprakriyāyāmiti parātrimsikā-vivaraṇādavityar thah.” 
 
 T. A., Comm., VI, 249. The two works under discussion are apparently of the said set. It was a common practice among the Kashmir writers of the 10th and the 11th centuries to write more than one commentary on the same work. Utpalācārya, the grand teacher of Abhinava, for instance, has written two commentaries on his own Isvarapratyabhijñākarikā, namely, the Vrtti and the Vivrti, the first being the smaller of the two. 

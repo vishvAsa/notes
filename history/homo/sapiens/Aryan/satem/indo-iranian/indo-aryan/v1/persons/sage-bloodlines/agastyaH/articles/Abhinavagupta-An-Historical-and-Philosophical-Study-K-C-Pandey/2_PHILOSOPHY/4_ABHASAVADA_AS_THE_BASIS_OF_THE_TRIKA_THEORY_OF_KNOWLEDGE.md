@@ -17,7 +17,7 @@ Abhinava very clearly says, as has already been stated in the first chapter, tha
 
 THE BASIS OF THE TRIKA THEORY OF KNOWLEDGE 257 
 
-degree and not of kind. But does a practical man of the world require the knowledge of all these philosophical concepts ? Can such a knowledge help him in achieving what he has set his heart on ? Abhinava's statement: "In practical every-day life the view point of the Naiyāyikas is the best" seems, therefore, to have been inspired by the following words of Lord Krṣņa : 
+degree and not of kind. But does a practical man of the world require the knowledge of all these philosophical concepts ? Can such a knowledge help him in achieving what he has set his heart on ? Abhinava's statement: "In practical every-day life the view point of the Naiyāyikas is the best" seems, therefore, to have been inspired by the following words of Lord Krṣṇa : 
 
 “The enlightened should not disturb the minds of the unenlightened, who are given to active life, by talk of knowledge (jñāna)" 
 
@@ -51,7 +51,7 @@ and also
 
 \*Avidyāvasthāyāt kāryakāranasanghātavivekadarśino 
 
-jīvasya avidyātimirandhasya satah parasmādātmanah karmādhyakņāt sarvabhūtādhivāsāt sākṣiņas cetayiturīśvarāt tadanujñayā kartrtva bhoktrtvalakṣaṇasya samsārasya siddhih." 
+jīvasya avidyātimirandhasya satah parasmādātmanah karmādhyakṇāt sarvabhūtādhivāsāt sākṣiṇas cetayiturīśvarāt tadanujñayā kartrtva bhoktrtvalakṣaṇasya samsārasya siddhih." 
 
 S. Bh., 552. 
 
@@ -69,11 +69,11 @@ CHAPTER IV
 
 that if dualistic doctrine were given up by the so called Agamikas; if Māyā were to be taken as the power of the Brahman by the Vedāntins; and if the two Vijñānas, the ālayavijñāna and the pravíttivijñāna, were to be admitted to be the manifestations of the Atmeśvara or Maheśvara, the Universal Consciousness, by the Bauddhas, all differences between the Trika on the one hand and the Agamikas, the Vedāntins and the Bauddhas on the other disappear. The latter become the exponents of the Trika philosophy : 
 
-"Āgameṣu dvaitavyākhyāmapāsya, Brahmavāde avidyām māyāśaktīkrtya vijñānadvayam ātmeśvarābhiprāyeņa nirūpya siddhyatyeṣa janah" 
+"Āgameṣu dvaitavyākhyāmapāsya, Brahmavāde avidyām māyāśaktīkrtya vijñānadvayam ātmeśvarābhiprāyeṇa nirūpya siddhyatyeṣa janah" 
 
 and also 
 
-"Pārameśvareṣu tāvadāgameṣu saivavaiṣnavarahasyeṣu Vedānteṣu ca spaṣta evoktoyam asmaduktorthah, Tadanusāriņaiva sugatenoktam Cittamātramidam, yaduta traidhātukamiti tadatra vivarana kārair durabhi niveśavaśena vipratārito janaḥ. Idameva tu tattvamiti tu tātparyam." 
+"Pārameśvareṣu tāvadāgameṣu saivavaiṣnavarahasyeṣu Vedānteṣu ca spaṣta evoktoyam asmaduktorthah, Tadanusāriṇaiva sugatenoktam Cittamātramidam, yaduta traidhātukamiti tadatra vivarana kārair durabhi niveśavaśena vipratārito janaḥ. Idameva tu tattvamiti tu tātparyam." 
 
 We may add here one interesting argument in support of the momentariness of the bodily and the intellectual selves. It is generally admitted that at all hours of the wakeful state some kind of knowledge or another is taking place; that knowledge is simply an affected state of consciousness due to an external stimulus and that a determinate knowledge is invariably preceded by an indeterminate. As we pass from knowledge of one thing to that of another, the transition is not usually sharp. One act of knowledge fades gradually into the next. If, for instance, we look at a coin for several moments, we feel that we have not had a single continuous perception. First we have the knowledge of the coin as a rupee, then that of the figure on it, then of its roughened edge and then of its date and so on. These acts of knowledge 
 
@@ -301,7 +301,7 @@ THEORY OF PERCEPTION
 
 illuminable from the illumining would be meaningless. But how can the separate existence of the subject be possible unless the Universal Consciousness itself were to assume some limitations and so to manifest its limited form separate both from itself and the manifested object ? 
 
-Here it may be asked : If the subject and the object are so separate from each other, what is it that connects them, what is it that places the latter in the relation of knowability to the former, or, in other words, what is it that brings about the phenomenon of knowledge ? The Trika says in reply that it is the means of knowledge (Pramāņa). It is, as we pointed out above, the light proceeding from the self-luminous self facing the object, the light which comes in touch with the object and being affected by the latter in a certain way, is reflected back and so gives rise to image in the Buddhi; the light which transforms into a psychic state the stimulus of an external object on the sense organ which is resolved into a form of mechanical contact. About the momentariness of the subject and the object we have already spoken. They being so, the momentariness of the means of knowledge is a matter of course, because it will naturally change, as said above, according as it will be affected by the object which changes every moment even from the point of view of an ordinary observer, at least in respect of time, if in no other respect. Thus, according to this system, both, the creation, which is an act of the Universal Consciousness to manifest without, as apparently separate from itself, what exists within, and the dissolution, which is nothing but merging back in the Universal Consciousness of what is so manifested, are taking place every moment. 
+Here it may be asked : If the subject and the object are so separate from each other, what is it that connects them, what is it that places the latter in the relation of knowability to the former, or, in other words, what is it that brings about the phenomenon of knowledge ? The Trika says in reply that it is the means of knowledge (Pramāṇa). It is, as we pointed out above, the light proceeding from the self-luminous self facing the object, the light which comes in touch with the object and being affected by the latter in a certain way, is reflected back and so gives rise to image in the Buddhi; the light which transforms into a psychic state the stimulus of an external object on the sense organ which is resolved into a form of mechanical contact. About the momentariness of the subject and the object we have already spoken. They being so, the momentariness of the means of knowledge is a matter of course, because it will naturally change, as said above, according as it will be affected by the object which changes every moment even from the point of view of an ordinary observer, at least in respect of time, if in no other respect. Thus, according to this system, both, the creation, which is an act of the Universal Consciousness to manifest without, as apparently separate from itself, what exists within, and the dissolution, which is nothing but merging back in the Universal Consciousness of what is so manifested, are taking place every moment. 
 
 1. I. P. V., II, 66. 2. I. P. V., II, 144. 
 
@@ -565,7 +565,7 @@ The remembering subject has got full power to unite or disunite the ābhāsas of
 
 THE REMEMBERED OBJECT. 
 
-Remembrance is a determinate knowledge and as such cannot have an object of its own, because all the determina tive activity is a kind of reaction on what has already been mirrored on Buddhi (grhīta grahaņa svabhāvatvāt). Its object is the same as that of the former experience. From the time of the direct perception to that of remembrance, this object, this psychic image, has a separate veiled existence in the permanent limited perceiver and, being revived at the sight of something similar, reappears. 
+Remembrance is a determinate knowledge and as such cannot have an object of its own, because all the determina tive activity is a kind of reaction on what has already been mirrored on Buddhi (grhīta grahaṇa svabhāvatvāt). Its object is the same as that of the former experience. From the time of the direct perception to that of remembrance, this object, this psychic image, has a separate veiled existence in the permanent limited perceiver and, being revived at the sight of something similar, reappears. 
 
 THE OBJECTIVITY OF THE REMEMBERED EXPLAINED. 
 
