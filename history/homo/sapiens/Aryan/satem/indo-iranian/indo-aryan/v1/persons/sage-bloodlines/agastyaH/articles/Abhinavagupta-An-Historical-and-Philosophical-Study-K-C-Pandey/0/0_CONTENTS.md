@@ -114,7 +114,7 @@ Its distinction from the intellectual ignorance 2. Kārmamala
 3. Māyīyamala ... The means of liberation from bondage... The intellectual and the spiritual knowledge 
 1. Kriyopāya or Āṇavopāya 2. Jānopāya or Saktopāya 3. Sāmbhavamārga or Icchopāya... 
 4. Anupāya or Anandopāya Trika conception of Mokṣa Other conceptions of Moksa from the Trika point 
-of view Vijñānavādin's conception of Mokṣa Its refutation Nihilist's conception of Moksa and its refutation Sāükhya conception of Mokṣa and its criticism 
+of view Vijñānavādin's conception of Mokṣa Its refutation Nihilist's conception of Moksa and its refutation Sāūkhya conception of Mokṣa and its criticism 
 186 189 
 189 190 
 190 

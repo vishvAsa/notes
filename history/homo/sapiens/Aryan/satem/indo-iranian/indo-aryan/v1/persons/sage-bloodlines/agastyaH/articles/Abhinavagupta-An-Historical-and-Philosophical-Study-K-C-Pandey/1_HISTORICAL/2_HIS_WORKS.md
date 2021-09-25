@@ -16,7 +16,7 @@ HIS WORKS
 
 23 
 
-30. Kathāmukha Tilaka. 31. Laghví Prakriya. 32. Bhedavādavidāraṇa 33. Devīstotra Vivarana. 34. Tattvādhya Prakāśikā. 35. śivasaktyavinābhāva Stotra 36. Bimbapratibimba Vāda (Dr. Bühler's Kashmir Cata 
+30. Kathāmukha Tilaka. 31. Laghví Prakriya. 32. Bhedavādavidāraṇa 33. Devīstotra Vivarana. 34. Tattvādhya Prakāśikā. 35. śivasaktyavinābhāva Stotra 36. Bimbapratibimba Vāda (Dr. Būhler's Kashmir Cata 
 
 logue MS. No. 469.) 37. Paramārtha Sangraha ( Do. 459.) 38. Anuttara Sataka. Introduction to the P. T. V., P. 15. 39. Prakarana Stotra. It does not state any authority to 40. Nātyālocana. substantiate the statement. 41. Anuttaratattvavimarsinī Vrtti (T. C. MS. No. 8219 ) 
 
@@ -300,7 +300,7 @@ vibhāvyate Eṣa eva hi bhogo yattādātmyam bhokt;bhogayoh."
 
 Bh. G. S., ch. IV, S. 28. 
 
-and "Ünādhikam avijñātam.. 
+and "ūnādhikam avijñātam.. 
 
 Kṣantavyaṁ krpayā sambho yatastvam karuṇākaraḥ Anena stotrayogena tavātmānam nivedaye." 
 
@@ -640,7 +640,7 @@ tadātmānam srjāmyaham". But Abhinava's text reads as
 
 "tadātmāmsam sṣjāmyaham". 
 
-The variation, though apparently slight, implies a greatly different meaning as the following extract from the commentary shows : "Sri Bhagavān kila pürṇaṣādgunyatvāt sarīrasamparkamātra rahitopisthitikāritvāt kāruṇikatayā ātmāmsaí srjati ; 
+The variation, though apparently slight, implies a greatly different meaning as the following extract from the commentary shows : "Sri Bhagavān kila pūrṇaṣādgunyatvāt sarīrasamparkamātra rahitopisthitikāritvāt kāruṇikatayā ātmāmsaí srjati ; 
 
 1. Bh. G. S. Introd. §. 6. 2. Bh. G. S. concl. §. 2. 3. Bh. G. S. concl. $. 3. 4. Bh. G. S. Introd. $. 5. 
 
@@ -648,7 +648,7 @@ The variation, though apparently slight, implies a greatly different meaning as 
 
 CHAPTER II 
 
-Ātmā pürṇaṣādgunyah, amsah upakārakatvena apradhāna bhūto yatra tat atmāṁsam, sarīram grhṇāti ityarthah." 
+Ātmā pūrṇaṣādgunyah, amsah upakārakatvena apradhāna bhūto yatra tat atmāṁsam, sarīram grhṇāti ityarthah." 
 
 Bh. G. S., Ch. IV, 7. 
 
@@ -754,7 +754,7 @@ A. K., S. 7.
 
 and "Nanavidhavarnānām rūpān dhatte yathāmalah sphatikah Suramānuṣapaśupādaparāpatvam tadvadīśopi." 
 
-P.S., S. 6. Here the difference of principle will be apparent to any one familiar with the ideas of the two systems. According to the Sāükhya, limitation is the result of the nearness of its cause with what is limited and the two have separate independent existence. But, according to the Trika, it is simply a result of the free will of the one who is all powerful and independent of whom nothing has or can have an existence. However, because of the commonness 
+P.S., S. 6. Here the difference of principle will be apparent to any one familiar with the ideas of the two systems. According to the Sāūkhya, limitation is the result of the nearness of its cause with what is limited and the two have separate independent existence. But, according to the Trika, it is simply a result of the free will of the one who is all powerful and independent of whom nothing has or can have an existence. However, because of the commonness 
 
 60 
 
@@ -770,7 +770,7 @@ Punyāpunyakalaukasparsābhāve tu kim tena." These lines constitute the 74th ve
 
 Further, we find certain portions of the original altogether omitted, because they deal with matters in which the two systems fundamentally differ, as for instance, that part in which the original deals with the effect of the mere presence of Puruṣa in bringing about all activity in the insentient senses : “Yadvadacetanam api sannikaṭasthe bhrāmake bhramati loham 
 
-Tadvat karanasamühas ceṣtati cidadhisthite dehe." 
+Tadvat karanasamūhas ceṣtati cidadhisthite dehe." 
 
 A. K., S. 3. We also find in the adaptation certain verses which cannot at all be traced in the original. These are mainly those which deal with the ideas peculiar to Trika Saivaism, as for instance, those which describe the eleven Tattvas in which this system believes in addition to those which it has in common, at least in point of names, with the Sankhya system : 
 
@@ -910,7 +910,7 @@ It may be pointed out here that the published text differs from that of the MS.,
 
 (III) Similarly the 10th verse of "B" is not found in "A": 23. BIMBAPRATIBIMBA VÄDA 
 
-This work is noticed in two catalogues (1) Dr. Bühler's Kashmir catalogue and (2) Dr. Bhandarkar's Report of the collection of Sanskrit MSS. in 1875-76. A careful study of a copy of the MS. of the work in question, kindly supplied by the curator of the Bhandarkar Oriental Research Institute, Poona, tells us that this work, though noticed as a separate work of Abhinava, is in reality only a part of the 3rd Ahnika of the Tantraloka in which he refutes the Bimbapratibimba theory of the Naiyāyikas and establishes that of the Saivas,HIS WORKS 
+This work is noticed in two catalogues (1) Dr. Būhler's Kashmir catalogue and (2) Dr. Bhandarkar's Report of the collection of Sanskrit MSS. in 1875-76. A careful study of a copy of the MS. of the work in question, kindly supplied by the curator of the Bhandarkar Oriental Research Institute, Poona, tells us that this work, though noticed as a separate work of Abhinava, is in reality only a part of the 3rd Ahnika of the Tantraloka in which he refutes the Bimbapratibimba theory of the Naiyāyikas and establishes that of the Saivas,HIS WORKS 
 
 67 
 

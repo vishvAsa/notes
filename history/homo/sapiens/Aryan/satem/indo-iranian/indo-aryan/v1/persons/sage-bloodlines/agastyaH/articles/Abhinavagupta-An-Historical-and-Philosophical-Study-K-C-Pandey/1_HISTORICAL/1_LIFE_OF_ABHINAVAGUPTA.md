@@ -156,67 +156,49 @@ Besides his father and mother, his family consisted of an uncle, Vāmana-gupta, 
 
 And if the name Kṣema be supposed to stand for Kṣemarāja, the author of the Spanda Nirnaya and other works on Saivaism, and the others, classed with him, be also supposed to have had more or less similar qualities, then his cousins also seem to have been very highly educated. Whatever may have been their education, there is no doubt that they prized devotion to śiva above all things and considered all their wealth to be no better than a straw. Thus the whole family atmosphere was surcharged with the spirit of renunciation, zeal for advanced study and above all devotion to śiva. There was left nothing to be desired in the atmosphere, in which he passed his childhood, for the development of a healthy brain and of a spirit necessary for the great work that he had before him. 
 
-SOME EVENTS IN THE FAMILY AND THEIR EFFECT ON 
+## SOME EVENTS IN THE FAMILY AND THEIR EFFECT ON HIS YOUNG MIND 
 
-HIS YOUNG MIND 
+His mother was extremely dear to him. It was she alone who made home sweet for him. But unfortunately, or, as Abhinava took it, fortunately, she was snatched away by the cruel hands of death when he was a mere child.2 Home, therefore, lost most of its charm for him, but not all, because his father was still there. To him he was tied with a double cord of filial and pupilary love. But soon after the death of his mother, his father also, though still young, renounced the world and took to a life of asceticism.3 These events seem to have taken place when he was studying literature (Sahitya). They turned his mind from all worldly attachments to devotion to śiva, so much so that he made up his mind never to marry 4.+++(5)+++ That was the turning point in his life. That was the end of his literary study and life at home. Thenceforward, in order to feed his suddenly kindled flame of devotion with the oil of the āgamic lore, he spent his time in the houses of his āgamic teachers. His Tantraloka is a living testimony of the great zeal with which he pursued the study of the āgamas and of the unparalleled proficiency which he acquired in them. 
 
-His mother was extremely dear to him. It was she alone who made home sweet for him. But unfortunately, or, as Abhinava took it, fortunately, she was snatched away by the cruel hands of death when he was a mere child.? Home, therefore, lost most of its charm for him, but not all, because his father was still there. To him he was tied with a double cord of filial and pupilary love. But soon after the death of his mother, his father also, though still young, renounced the world and took to a life of asceticism. These events seem to have taken place when he was studying literature (Sahitya). They turned his mind from all worldly attachments to devotion to śiva, so much so that he made up his mind never to marry'. That was the turning point in his life. That was the end of his literary study and life at home. Thenceforward, in order to feed his suddenly kindled flame of devotion with the oil of the āgamic lore, he spent his time in the houses of his āgamic teachers. His Tantraloka is a living testimony of the great zeal with which he pursued the study of the āgamas and of the unparalleled proficiency which he acquired in them. 
+- 1. T. A., Ah. 37. (MS.) 
+- 2. T. A., Ah. 37. (MS.)  
+- 3. T. A., Ah. 37. (MS.)
+- 4. T. A., Ah. 37.(MS.)
 
-1. T. A., Ah. 37. (MS.) 3. T. A., Ah. 37. (MS.) 
-
-2. T. A., Ah. 37. (MS.) 4. T. A., Ah. 37.(MS. 
-
-LIFE OF ABHINAYAGUPTA 
-
-13 
-
-HIS ASCETIC PERIOD. 
+## HIS ASCETIC PERIOD. 
 
 The period of preparation was now over. The natural gifts and the favourable circumstances had immensely helped him in thoroughly equipping himself for the memorable work that he was destined to accomplish. The long and healthy scholastic and religious tradition of his family unbroken for over two hundred years, the noble and scholarly life of his father and the perfectly religious life of his mother, the harmony and the healthy atmosphere of his family, his high education, his practical training in various kinds of yogic practices, his never-broken vow of perfect celibacy and the consequent indefatigable energy, his drinking at so many fountain heads of learning both in and outside Kashmir, his untiring efforts and their fruition in scholastic attainments and above all his great sacrifice of all the comforts of wordly life, all combined, gave him such an intellectual and spiritual power and made his pen so powerful that even to day he is recognised as the highest authority on the monistic Saivaism in respect both of its rituals and its philosophy, as well as on the poetical theories of Rasa and Dhvani. 
 
-Thus equipped he began his life's work at a sufficiently mature age. What he has contributed to the philosophical literature of India, though at present ordinary people know him only as a writer on poetics, is not a production of a mere imaginative mind in an easy chair in a beautiful and a little secluded place, as so many persons think, but a record of personal experience, gained through continuous yogic experiments, carried on for years. If we carefully read even the few available works, out of so many that his extraordi narily powerful pen produced, we can trace out the successive stages in his spiritual attainment. Successively he worked 
+- 1. T. A., IV., 202.
 
-1. 
+Thus equipped he began his life's work at a sufficiently mature age. What he has contributed to the philosophical literature of India, though at present ordinary people know him only as a writer on poetics, is not a production of a mere imaginative mind in an easy chair in a beautiful and a little secluded place, as so many persons think, but a record of personal experience, gained through continuous yogic experiments, carried on for years. If we carefully read even the few available works, out of so many that his extraordinarily powerful pen produced, we can trace out the successive stages in his spiritual attainment. Successively he worked on the three systems which are known in the Saiva philosophical literature as the Krama, the Trika (of which Praty-abhijñā is only a branch) and the Kula.+++(4)+++ 
 
-T. A., IV., 202. 
+When from the study of literature his mind suddenly turned to devotion to śiva, it was Lakṣmanagupta who first gave him intellectual satisfaction by feeding him with intellectual food in the form of an exposition of the Pratyabhijñā 1. He taught Abhinava Krama-Darśana also. This fact Jayaratha has established after a long controvertial discussion in his commentary on the Tantrāloka. There is circumstantial evidence enough to believe that he was taught Krama system first. In any case the earliest date of the Krama Stotra, to which reference has already been made, is a clear proof of his having first tried his spiritual experiments in accordance with the Kramic instructions. The attempt was not quite a failure, for, in the Krama-keli, which is probably Abhinava's first known work on the Krama system, he attributes his then spiritual greatness to his following the Kramic teachings. But it did not yield the expected result.+++(4)+++ He then tried the Trika system, but to what result, there is not enough evidence just at present in hand to show. There is, however, no doubt about this that the result of that also did not perfectly satisfy him, for, it is from the Kula system alone that he affirms to have got perfect satisfaction and peace.+++(5)+++ Because of this it is that we find in his works a more glowing tribute paid to Sambhunatha, his Kaulic teacher, than to any one else.5 
 
-14 
+- 1. M. V.V., 2.
+- 2. T. A. Comm., III, 194.
+- 3. T. A. Comm., III, 191-2.
+- 4. T. A. Comm., I, 31.
+- 5. T. A., I, 16.
 
-CHAPTER I. 
+That before writing the Tantraloka he had realised his identity with the Parama śiva and that it was due to following Sambhunātha's teaching, he himself says in his introduction to the Tantrāloka : 
 
-on the three systems which are known in the Saiva philoso phical literature as the Krama, the Trika (of which Praty abhijñā is only a branch) and the Kula. 
-
-When from the study of literature his mind suddenly turned to devotion to śiva, it was Lakṣmanagupta who first gave him intellectual satisfaction by feeding him with intellectual food in the form of an exposition of the Pratya bhijñāl. He taught Abhinava Krama Darśana also. This fact Jayaratha has established after a long controvertial discussion in his commentary on the Tantrāloka. There is circumstantial evidence enough to believe that he was taught Krama system first. In any case the earliest date of the Krama Stotra, to which reference has already been made, is a clear proof of his having first tried his spiritual experiments in accordance with the Kramic instructions. The attempt was not quite a failure, for, in the Kramakeli, which is probably Abhinava's first known work on the Krama system, he attributes his then spiritual greatness to his following the Kramic teachings. But it did not yield the expected result. He then tried the Trika system, but to what result, there is not enough evidence just at present in hand to show. There is, however, no doubt about this that the result of that also did not perfectly satisfy him, for, it is from the Kula system alone that he affirms to have got perfect satisfaction and peace. Because of this it is that we find in his works a more glowing tribute paid to Sambhunatha, his Kaulic teacher, than to any one else.5 That before writing the Tantraloka he had realised his identity with the Parama śiva and that it was due to 
-
-1. M. V.V., 2. 3. T. A. Comm., III, 191-2. 5. T. A., I, 16. 
-
-2. T. A. Comm., III, 194. 4. T. A. Comm., I, 31. 
-
-LIFE OF ABHINAYAGUPTA 
-
-15 
-
-following Sambhunātha's teaching, he himself says in his introduction to the Tantrāloka : 
-
-"Bodhānyapāśaviṣanutta dupāsanottha, de Bodhojjvalobhinavagupta idam karoti." V 
-
-T. A., I, 16. 
+> "Bodhānya-pāśa-viṣa-nut-tad-upāsanottha-  
+>  Bodhojjvalo 'bhinava-gupta idam karoti."  
+> T. A., I, 16. 
 
 The concluding line of the Paramārthasāra and Yogarāja's commentary on it give a very clear idea of the spiritual greatness attained by Abhinava, before he began writing, at least, his more important works. The passage runs as follows: 
 
-aala 
-
-WA H 
-
-"Abhinavaguptena mayā śivacaranasmaranadīptena". 
+> "Abhinava-guptena mayā śiva-caraṇa-smaraṇa-dīptena". 
 
 P. S., 198. 
 
-alo ama aun nmig "śivasya paraśreyahsvabhāvasya svātmasthasya cidā- Akti nandaikamürteh yâni caraṇāni cidraśmayah teṣām smaranath sabdādiviṣayagrahanakāle nibhālanam pratiksaṇam svānu bhavāpramosah tena dīptah parāhantācamatkārabhā svaraḥ.. ..................iti upadeṣtuh samā vista maheśvara svabhāvonena uktaḥ syāt." 
+> śivasya para-śreyaḥ-svabhāvasya svātma-sthasya cidānandaika-mūrteḥ yāni caraṇāni cid-raśmayah teṣām smaranath sabdādiviṣayagrahanakāle nibhālanam pratiksaṇam svānu bhavāpramosah tena dīptah parāhantācamatkārabhā svaraḥ.. ..................iti upadeṣtuh samā vista maheśvara svabhāvonena uktaḥ syāt." 
 
 This seems to be the foundation of the traditional belief amongst Kashmirian Pandits that Abhinavagupta was Bhairava incarnate. 
 
-HIS MIRACULOUS POWERS. Human nature is always the same everywhere. We should, therefore, not be surprised at the suspicious eye with which the present generation looks at all claims to individual spiritual greatness, particularly because there are so many impostors abroad now. In the time of Abhinavagupta also people did not very easily believe in any such claim. It was, therefore, not without any reason, as the literary tradition says, that they looked upon Abhinava as Bhairava incarnate. Just as the enlightened people of the present time would not admit any body's claim to realisation of 
+## HIS MIRACULOUS POWERS. 
+Human nature is always the same everywhere. We should, therefore, not be surprised at the suspicious eye with which the present generation looks at all claims to individual spiritual greatness, particularly because there are so many impostors abroad now. In the time of Abhinavagupta also people did not very easily believe in any such claim. It was, therefore, not without any reason, as the literary tradition says, that they looked upon Abhinava as Bhairava incarnate. Just as the enlightened people of the present time would not admit any body's claim to realisation of 
 
 16 
 

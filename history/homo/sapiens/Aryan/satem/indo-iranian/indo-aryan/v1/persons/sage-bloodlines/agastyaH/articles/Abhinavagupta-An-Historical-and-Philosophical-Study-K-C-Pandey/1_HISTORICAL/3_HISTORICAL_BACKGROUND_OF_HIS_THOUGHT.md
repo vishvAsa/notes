@@ -130,7 +130,7 @@ CHAPTER III
 
 8. Ajita. 
 
-9. Sükṣma. 10. Sahasra. 
+9. Sūkṣma. 10. Sahasra. 
 
 This division, according to his own statement is based on the authority of the Sri Srikanthi. 
 
@@ -366,7 +366,7 @@ gand theines as is shown below. Whether or canets Kashmir or not, it does not ma
 
 attempling a gontact wook nian flourished two contine before zemed dine's since gian did not belong to aug. Kast nur school, his knowledge of the great must 
 
-Kashmir had professed a mixed faith and had heard enough of the idealistic philosophy and perhaps thought also over it. Their minds, therefore, were sufficiently trained to receive and to retain philosophical ideas. For about a century they had seen the Tantric Saiva rituals practised by the two great Saiva families which had migrated into Kashmir and had heard their philosophical ideas. Perhaps many families, not finding any fundamental difference between this and the religion that they and their predecessors had professed for centuries, had also accepted it. The decline of Buddhism had come. Kumārila Bhatta (about 750 A. D.) had shaken its roots. Such was the opportune time when Sankarācārya visited Kashmir some time in the second decade of the 9th century after giving his final blow to Buddhism in the rest of India (Sankara Digvijaya, ch. XVI, 54-80). Let us state here very clearly that our statement about Sankāracārya's visit to Kashmir has no other authority than that of the Sankara Digvijaya, quoted above. Let us, however, add that it does not appear to be altogether baseless : firstly, because it is supported by a local tradition which is still current in Kashmir and secondly, because the influence of Sankara's Tantric philosophy on the Trika is so great that the supposition of a personal touch of its founder-writers with Sankara seems to be necessary to explain it at such an early time. If we compare the philosophical ideas of Sankara, as contained in his Dakṣiṇā Mürti Stotra and explained by his pupil Sureśvarācārya in his commentary on the above stotra, we find that Sankara's conception of the ultimate reality is the same as that of the Pratyabhijñā. In fact he uses all the important technical expressions in the same sense in which they are used in the Pratyabhijñā. Compare for 
+Kashmir had professed a mixed faith and had heard enough of the idealistic philosophy and perhaps thought also over it. Their minds, therefore, were sufficiently trained to receive and to retain philosophical ideas. For about a century they had seen the Tantric Saiva rituals practised by the two great Saiva families which had migrated into Kashmir and had heard their philosophical ideas. Perhaps many families, not finding any fundamental difference between this and the religion that they and their predecessors had professed for centuries, had also accepted it. The decline of Buddhism had come. Kumārila Bhatta (about 750 A. D.) had shaken its roots. Such was the opportune time when Sankarācārya visited Kashmir some time in the second decade of the 9th century after giving his final blow to Buddhism in the rest of India (Sankara Digvijaya, ch. XVI, 54-80). Let us state here very clearly that our statement about Sankāracārya's visit to Kashmir has no other authority than that of the Sankara Digvijaya, quoted above. Let us, however, add that it does not appear to be altogether baseless : firstly, because it is supported by a local tradition which is still current in Kashmir and secondly, because the influence of Sankara's Tantric philosophy on the Trika is so great that the supposition of a personal touch of its founder-writers with Sankara seems to be necessary to explain it at such an early time. If we compare the philosophical ideas of Sankara, as contained in his Dakṣiṇā Mūrti Stotra and explained by his pupil Sureśvarācārya in his commentary on the above stotra, we find that Sankara's conception of the ultimate reality is the same as that of the Pratyabhijñā. In fact he uses all the important technical expressions in the same sense in which they are used in the Pratyabhijñā. Compare for 
 
 instance : 
 
@@ -464,11 +464,11 @@ About this quotation also it has to be pointed out that as the former is not fou
 
 The Spanda Karikā is simply an amplification of the fundamental principles of S'aivaism, as aphoristically given in the S'iva Sūtras. It was also called Spanda Sūtra. Kṣemarāja in one of his introductory verses to the Spanda Nirnaya refers to it as such 
 
-"Samyak sütrasamanyayam parigatim tattve parasmin 
+"Samyak sūtrasamanyayam parigatim tattve parasmin 
 
 parām.. S'rī Spanda śāstrasya." 
 
-S. N., I. This work has to be distinguished from "Spanda Sūtra" nos. 518-19 of Dr. Bühler's report; for, there the name stands for "S'iva Sūtra" (consult his extracts from MSS.). 
+S. N., I. This work has to be distinguished from "Spanda Sūtra" nos. 518-19 of Dr. Būhler's report; for, there the name stands for "S'iva Sūtra" (consult his extracts from MSS.). 
 
 3. SPANDĀMỘTA. 
 
@@ -498,7 +498,7 @@ CHAPTER III
 
 4. VĀSAVI TIKĀ ON THE BHAGAVADGITĀ No complete MS. of this work has so far been dis covered. 
 
-5. SIDDHĀNTA CANDRIKĀ. Noticed in Bühler's catalogue as MS. No. 501. 
+5. SIDDHĀNTA CANDRIKĀ. Noticed in Būhler's catalogue as MS. No. 501. 
 
 (II) KALLAṭA (855 A. D.) What little we know about his person we have already stated while discussing the date of Vasugupta. Here, therefore, we confine ourselves to giving an account of his works only. 
 
@@ -816,7 +816,7 @@ This is the only known work of Sankaranandana. Our source of information about i
 
 Two works of his 
 
-1. ANUBHAVA STOTRA T. S., 31. 2. MÂNA STOTRA T. A., Ah. XIV, 9. 
+1. ANUBHAVA STOTRA T. S., 31. 2. MāNA STOTRA T. A., Ah. XIV, 9. 
 
 are known from Abhinava's references to them, as shown above. He is quoted in Bhatta Rāma Kantha's commentary on the Moksa Kārikā, P. 21. The evidence in hand is not conclusive to show whether he was a dualist or not. But it is very probable that he was. We have, therefore, given him a place here. 
 
@@ -1018,7 +1018,7 @@ KOHALA. That he is an ancient authority on dramaturgy, nobody doubts. That he wr
 
 CHAPTER III 
 
-The question is only about his exact position in relation to Bharata, and on this also Abhinava, though indirectly and incidentally, has spoken in terms not easily to be mistaken. Bharata, while speaking on Nândi in Ch. I., S. 56, uses the word "vicitrā" and Abhinava, commenting on this word, says : 
+The question is only about his exact position in relation to Bharata, and on this also Abhinava, though indirectly and incidentally, has spoken in terms not easily to be mistaken. Bharata, while speaking on Nāndi in Ch. I., S. 56, uses the word "vicitrā" and Abhinava, commenting on this word, says : 
 
 "Ata eva vicitretyuktam.. 
 
@@ -1280,7 +1280,7 @@ CHAPTER III
 
 WHO WAS THE AUTHOR OF THE DHVANI KĀRIKĀ ? 
 
-But before we begin speaking on these writers in their chronological order, let us take up the much disputed question of the authorship of the Dhvani Kārikā, and see what light a careful study of Abhinava's Locana throws on it. There is no doubt, as was first pointed out by Dr. Bühler, that Abhinava uses the two words "Kārikākāra" and "Vrttikāra." with a distinction. There is also no doubt that Abhinava means two different works by "Vrttigrantha" and "Karikā". But let us state here that he does not oppose them, if by the word "oppose" the idea meant to be conveyed is that one contradicts the view of the other. But we have complete agreement if it is meant to denote that the contents of the works, referred to by the words “Kārikā" and "Vrtti" which form component parts of "Karikākāra" and "Vrttikāra," differ in certain respects, i. e. certain points are dealt with in greater detail in the latter than in the former and certain others are given exhaustive treatment in the latter, which, though very closely connected with the subject matter of the former, have not very clearly been touched upon in it. That there is nothing like contradiction between the two is made clear by those very three instances which are stated in the History of Sanskrit Poetics (P. 107-8) and on two of which the learned author himself speaks a little later in the following words : 
+But before we begin speaking on these writers in their chronological order, let us take up the much disputed question of the authorship of the Dhvani Kārikā, and see what light a careful study of Abhinava's Locana throws on it. There is no doubt, as was first pointed out by Dr. Būhler, that Abhinava uses the two words "Kārikākāra" and "Vrttikāra." with a distinction. There is also no doubt that Abhinava means two different works by "Vrttigrantha" and "Karikā". But let us state here that he does not oppose them, if by the word "oppose" the idea meant to be conveyed is that one contradicts the view of the other. But we have complete agreement if it is meant to denote that the contents of the works, referred to by the words “Kārikā" and "Vrtti" which form component parts of "Karikākāra" and "Vrttikāra," differ in certain respects, i. e. certain points are dealt with in greater detail in the latter than in the former and certain others are given exhaustive treatment in the latter, which, though very closely connected with the subject matter of the former, have not very clearly been touched upon in it. That there is nothing like contradiction between the two is made clear by those very three instances which are stated in the History of Sanskrit Poetics (P. 107-8) and on two of which the learned author himself speaks a little later in the following words : 
 
 “In one place, for instance (P. 123) Abhinavagupta clearly points out that the classification of Dhvani according to Vastu, Alankāra, and Rasādi is not expressedly taught in any Kārikā; while at another place in ch. IV Abhina vagupta states that the question as to the source of the endless variety of Artha in poetry is mentioned by the Vrttikāra but not touched upon by the Kārikākāra." 
 

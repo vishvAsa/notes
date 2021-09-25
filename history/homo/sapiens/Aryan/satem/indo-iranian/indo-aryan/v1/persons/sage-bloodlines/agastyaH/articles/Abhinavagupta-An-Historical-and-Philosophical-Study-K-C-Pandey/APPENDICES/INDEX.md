@@ -71,7 +71,7 @@ Dehastha Devatācakra Stotra, Buddhism, 11, 75, 85, 86, 87, 22, 63
 88, 90, 192, 269, 302 Determinate knowledge, 278, Buddhist, 192, 283, 292, 295, 281, 282, 283, 284 
 297. 307, 311 
 Devabala, 106 Buddhivịtti, 252 
-Devī Sataka, 140 Bühler, 66, 92, 101, 132, 146, Devīstotra, 33 - 148, 155 
+Devī Sataka, 140 Būhler, 66, 92, 101, 132, 146, Devīstotra, 33 - 148, 155 
 Devīstotra Vivaraṇa, 22, 34 Caitanya, 168, 205 
 Dharma, 11 Cakrapāṇinātha, 63 
 Dhvani, 11, 13, 49, 129, 130, Cakrāstaka, 79 
@@ -246,7 +246,7 @@ Niśvāsa, 77 Mukula, 74, 97, 142
 Nīti Kalpataru, 157 Mukunda Keli, 160 
 Niyati, 181, 194, 249, 307, 309, Mukundarāma, 29, 48 
 314, 318 Mukuta, 75, 76 
-Nrpāvalī, 157 Müla, 79 
+Nrpāvalī, 157 Mūla, 79 
 Nyāya, 38, 195, 309, 310 Muni, 114, 118 
 Oudh Catalogue, 24 Mysore and Coorg i Catalogue, Outline of Religious Literature 
 113 
@@ -390,7 +390,7 @@ somy, 143, 10 11 12 g8, 14
 ) 
 Spanda Sarvasva, 93, 94, 134 Spanda Sūtra, 94 Spanda System, 146 Spandavivarana Sāramātra, 95 Sphurattā, 205 Spiritual ignorance, 180, 182, 
 183 Spiritual knowledge, 183, 186 Sricakra, 90 Srīcandra, 11 Sriharṣa, 125 Sri Indurāja, 142 Srikantha, 72, 108 Srikantha Bhatta, 85 Srikanthi, 76, 80 Srikrsna śāstri, 108 Srīnātha, 72 Srīpārva śāstra, 16, 23, 26 Srīśankuka, 126, 128 Srīśāstra Sủngāraratha, 149, 150 Srngāraratnākara, 157 Srutabodha, 66 Sruti, 58 Stava Cintāmaṇi, 109, 146, 148, 
-155 Stava Cintāmaṇi Vitti, 147 Stein, 84, 87,99 Stotra, 147 Stotrāvali, 100 Subhatadatta, 148, 149 Subjective Idealism, 195 Subjectivist, 263, 303 Suddhabrahmavādin, 313 Suddhavidyā, 184, 250 Sükṣma, 76 Sūkta, 160 Sumati, 82 śūnyavāda, 192 Suprabha, 76 Supreme, 178, 315 Supreme Consciousness, 191 Supreme Self, 177 Sureśvarācārya, 88 Süryaratha, 150 Susira, 115 Sūta Samhitā, 107 
+155 Stava Cintāmaṇi Vitti, 147 Stein, 84, 87,99 Stotra, 147 Stotrāvali, 100 Subhatadatta, 148, 149 Subjective Idealism, 195 Subjectivist, 263, 303 Suddhabrahmavādin, 313 Suddhavidyā, 184, 250 Sūkṣma, 76 Sūkta, 160 Sumati, 82 śūnyavāda, 192 Suprabha, 76 Supreme, 178, 315 Supreme Consciousness, 191 Supreme Self, 177 Sureśvarācārya, 88 Sūryaratha, 150 Susira, 115 Sūta Samhitā, 107 
 Suvrtta Tilaka, 157 Svacchanda, 70, 75, 76, 77, 102, 
 146 Svacchandayāmala, 78 Svacchandodyota, 146 Svarūpākhyāti, 315 Svatantra, 80 Svatantreśa, 251 Svātantrya, 203, 204 Svātantrya Sakti, 177, 203, 204, - 205, 220, 224, 225, 266, 313 Svāyambhuva, 77 Sylvain Levi, 121 Tāla, 120 Talavakāropaniṣad, 199 Tamas, 231, 251, 252, 267 Tandu, 114, 115 Tantra, 45, 75, 76, 77, 80, 82, 
 83, 94, 103 Tantra Bhairavī, 78 Tantrāloka, 1, 6, 9, 12, 14, 15, 
@@ -438,7 +438,7 @@ Viṣnuyāmala, 78 Vicitranātha, 11
 Viśvadatta, 149 Vidanga, 79 
 Viśvādya, 78 Vidyā, 181, 243, 244, 247, 248, Viśvamaya, 199 
 249, 255 
-Viśvamürti, 62 Vidyākantha, 107, 108, 109 Viśvanātha, 157 Vidyāpati, 106 
+Viśvamūrti, 62 Vidyākantha, 107, 108, 109 Viśvanātha, 157 Vidyāpati, 106 
 Visvottirṇa, 199 Vidyāranya Yatīndra, 107 Vivartavāda, 63, 262 Vidyullekhā, 79 
 Viveka, 148 Vidumat, 79 
 Vivekāñjana, 95, 96 Vijaya, 77 

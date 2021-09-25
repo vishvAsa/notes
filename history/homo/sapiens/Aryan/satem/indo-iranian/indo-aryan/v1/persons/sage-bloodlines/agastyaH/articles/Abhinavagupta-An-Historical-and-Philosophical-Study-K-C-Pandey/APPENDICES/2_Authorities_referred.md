@@ -149,7 +149,7 @@ Ananda gahvara
 33 
 Utpala 
 7 12 13 
-176 Ürmi Maha Sastra 
+176 ūrmi Maha Sastra 
 39 14 
 230 Aitareyopaniṣad 
 2 3 

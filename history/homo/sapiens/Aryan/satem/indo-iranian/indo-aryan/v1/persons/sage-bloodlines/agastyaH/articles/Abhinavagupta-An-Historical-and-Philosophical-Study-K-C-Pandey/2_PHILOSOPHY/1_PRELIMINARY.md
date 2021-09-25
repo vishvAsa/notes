@@ -276,7 +276,7 @@ transcendental state of the individual self, a state in which the self rises abo
 
 ✓ It will thus be clear that the intellectual ignorance is dependent upon the connection of the individual self with the body, with which it co-exists, but the spiritual ignorance is independent of it. It is because of this difference that this system holds that liberation (Mukti) cannot be got through the intellectual knowledge only. The intellectual knowledge can effect salvation only if it is accompanied by the spiritual knowledge. 
 
-This innate ignorance is different from "Rāga", which, according to the Sāükhya, is the cause of bondage. For, while the latter is simply a quality of Buddhi responsible for the attachment of the individual to certain object or objects, the former is a mere consciousness of an imperfection 
+This innate ignorance is different from "Rāga", which, according to the Sāūkhya, is the cause of bondage. For, while the latter is simply a quality of Buddhi responsible for the attachment of the individual to certain object or objects, the former is a mere consciousness of an imperfection 
 
 1. Ś C., 455, (Bhumikā.) 
 
@@ -438,7 +438,7 @@ ITS REFUTATION. The defects of the above conception of nirvāṇa are apparent. 
 
 NIHILIST'S THEORY OF MOKṣA AND ITS REFUTATION. 
 
-According to the Nihilistic Buddhism (Sünyavāda), even the Vijñāna of the Idealists has no existence: and Mokṣa is nothing but the realisation of this nihility. But this is 
+According to the Nihilistic Buddhism (Sūnyavāda), even the Vijñāna of the Idealists has no existence: and Mokṣa is nothing but the realisation of this nihility. But this is 
 
 1. 
 

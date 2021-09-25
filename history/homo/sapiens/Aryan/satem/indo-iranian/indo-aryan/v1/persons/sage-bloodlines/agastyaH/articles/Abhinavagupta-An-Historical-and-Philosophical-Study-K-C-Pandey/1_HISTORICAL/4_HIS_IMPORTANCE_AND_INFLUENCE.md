@@ -68,7 +68,7 @@ S. S. Vi., P. 129. 7. PRATYABHIJÑA HRDAYA. 8. COMMENTARY ON THE ABOVE. 9. śiva
 
 14. A COMMENTARY ON THE KRAMA SŪTRA. Of this we know only from the following reference in Maheśvarānanda's commentary on his own Mahārtha Mañjarī, P. 166: 
 
-"Yaduktam Srī Kramasütreṣu..... Yathā ca vyākhyātam Srimat Kṣemarājena." 
+"Yaduktam Srī Kramasūtreṣu..... Yathā ca vyākhyātam Srimat Kṣemarājena." 
 
 15. STOTRA. 
 
@@ -84,11 +84,11 @@ This is known only from the following reference in his own commentary on the Sta
 
 It is mentioned as one of his works in the introduction to the Samba Pancāśikā Tīkā. 
 
-17. PARAMĀRTHA SANGRAHA VIVRTI. It is noticed in Dr. Bühler's Kashmir Catalogue (MS. No. 459.) The text is attributed to Abhinavagupta. 
+17. PARAMĀRTHA SANGRAHA VIVRTI. It is noticed in Dr. Būhler's Kashmir Catalogue (MS. No. 459.) The text is attributed to Abhinavagupta. 
 
 18. VRTTI ON PARAMEŚA STOTRĀVALI OF UTPALA. 
 
-(Bühler's Kashmir Catalogue MS. 458.) 
+(Būhler's Kashmir Catalogue MS. 458.) 
 
 (II.) YOGARĀJA. The commentator who came next after Kṣemarāja was Yogarāja. According to his own statement in the concluding lines of his commentary, Vivrti, on the Paramārtha Sāra of Abhinavagupta, he was a pupil of Kṣemarāja? who was in possession of the tradition. We shall, therefore, not be wrong if we say that he belonged to the second half of the eleventh century A. D. At the time when he wrote the said commentary he had already renounced the world and was living as an ascetic at Vitastāpuri in Kashmir. This commentary, according to its author, is from the point of view of pure monism. 
 
@@ -116,7 +116,7 @@ HIS DATE.
 
 He has given the genealogy of his family since the time of Purnamanoratha who was a minister to King Yasaskara 1 of Kashmir (930 A. D.) Eight generations are shown to intervene between the first ancestor of this list, Purṇa manoratha, and our commentator, Jayaratha. Of these the fifth ancestor also, viz. Utpalaratha,? who was a minister to King Ananta of Kashmir (1028-1063 A. D.), is of known date. Thus if we allow, according to the ordinary practice of scholars, about a quarter of a century for each generation Jayaratha's time comes to be about the close of the 12th and the beginning of the 13th century A. D. The names of his direct ancestors are given below in the order of their succession : 
 
-1. Pūrṇamanoratha (930 A. D.) 2. Utpalaratha I. 3. Prakāśaratha. 4. Süryaratha. 5. Utpalaratha II. (circa 1028-63) 6. Samaratha. 7. Gunaratha. 8. Gungaratha. 9. Srngāraratha. 10. Jayaratha. 
+1. Pūrṇamanoratha (930 A. D.) 2. Utpalaratha I. 3. Prakāśaratha. 4. Sūryaratha. 5. Utpalaratha II. (circa 1028-63) 6. Samaratha. 7. Gunaratha. 8. Gungaratha. 9. Srngāraratha. 10. Jayaratha. 
 
 Like Abhinavagupta and others, he also wrote both on Saivaism and poetics. At present we know of only the following three works of his : 
 
@@ -230,7 +230,7 @@ vyadhāt Ksetre Sri Vijayeśvarasya vimale saiṣā śivārādhanī." But Kṣem
 
 bhavat Tena Sri Tripureśa-sailaśikhare viśrāntisantoṣiṇā." 
 
-In the opinion of Dr. Bühler, referred to by Dr. De in H. S. P., P. 141, the only thing that can finally settle the question, under discussion, is the discovery of the name of Ksemarāja's father. We may, therefore, add here what little information we have been able to collect on this point. We have already shown how Kṣemarāja is identical with 
+In the opinion of Dr. Būhler, referred to by Dr. De in H. S. P., P. 141, the only thing that can finally settle the question, under discussion, is the discovery of the name of Ksemarāja's father. We may, therefore, add here what little information we have been able to collect on this point. We have already shown how Kṣemarāja is identical with 
 
 156 
 
@@ -324,7 +324,7 @@ HIS IMPORTANCE AND INFLUENCE
 
 preceding pages. The only work of this writer that we have known is 
 
-SIYA SÜTRA VĀRTIKA. It is a Vārtika on the famous śiva Sūtra of Vasugupta. There is nothing original in it. It is a mere versification of Kṣemarāja's commentary, the Vimarsinī. The author also very frankly says that he follows Ksemarāja's commentary on the śiva Sūtral and incorporates much of what was found in an earlier Vārtika. The little, that he says about himself, is that he was the youngest son of Madhurāja and that his family followed Saivaism. 
+SIYA SūTRA VĀRTIKA. It is a Vārtika on the famous śiva Sūtra of Vasugupta. There is nothing original in it. It is a mere versification of Kṣemarāja's commentary, the Vimarsinī. The author also very frankly says that he follows Ksemarāja's commentary on the śiva Sūtral and incorporates much of what was found in an earlier Vārtika. The little, that he says about himself, is that he was the youngest son of Madhurāja and that his family followed Saivaism. 
 
 1. S. S. V., 1-2. 2. S. S. V., 48. 
 

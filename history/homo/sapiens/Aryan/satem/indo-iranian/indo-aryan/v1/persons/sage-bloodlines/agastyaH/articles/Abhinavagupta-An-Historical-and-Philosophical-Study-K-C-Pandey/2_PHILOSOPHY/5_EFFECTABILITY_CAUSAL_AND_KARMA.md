@@ -53,7 +53,7 @@ REALITY On the basis of what we have stated above it would not be wrong to say t
 
 "Eṣa cānanta saktitvād ayam ābhāsayatyamūn Bhāvān icchāvaśād eṣā kriya nirmātstāsya sā." 
 
-Eṣa purānah pramātā amūn bhāvān ābhāsitapūrvān ābhāsamānān ābhāsayati avichinnena prabandhena, katham, icchāyā iśiturabhinnāyā avikalparūpāyā akramāyā vaśena sāmarthyena. Kutrāsya te bhāvāh sthitāh ? āha "ananta Śaktitvāt" iti, viśve hi bhāvāstasyaiva Śaktirüpeṇa svarūpāt matvena sthitāh" 
+Eṣa purānah pramātā amūn bhāvān ābhāsitapūrvān ābhāsamānān ābhāsayati avichinnena prabandhena, katham, icchāyā iśiturabhinnāyā avikalparūpāyā akramāyā vaśena sāmarthyena. Kutrāsya te bhāvāh sthitāh ? āha "ananta Śaktitvāt" iti, viśve hi bhāvāstasyaiva Śaktirūpeṇa svarūpāt matvena sthitāh" 
 
 I. P. V., II, 136. 
 
@@ -73,7 +73,7 @@ It may be of interest to note in this connection that there is a complete agreem
 
 "Vastavepi cidekatve na syād ābhāsabhinnayoh Cikīrṣālakṣaṇaikatvaparāmarsam vinā kriyā. 
 
-............Tasmāt vāstavam cidekatvam abhyupagamyāpi tasya kartrtvalakṣaṇā bhinnarüpa samāveśātmikā kriyā nopapadyate parāmarśalaksanam tu svātantryam yadi bhavati tadopapadyate sarvam, parāmarso hi cikīrṣā rūpā icchā tasyām ca sarvam antarbhūtam nirmā tavyam abhedakalpenāste 
+............Tasmāt vāstavam cidekatvam abhyupagamyāpi tasya kartrtvalakṣaṇā bhinnarūpa samāveśātmikā kriyā nopapadyate parāmarśalaksanam tu svātantryam yadi bhavati tadopapadyate sarvam, parāmarso hi cikīrṣā rūpā icchā tasyām ca sarvam antarbhūtam nirmā tavyam abhedakalpenāste 
 
 I. P. V., II, 178-81. 
 
@@ -143,7 +143,7 @@ CRITICISM OF THE SANKHYA. The exaplanation of the causal relation as given by th
 
 CHAPTER V 
 
-sprout be supposed to be identical, then the notion of their duality becomes meaningless. Therefore, either the seed or the sprout only can be said to exist; because, identity and separateness cannot co-exist. Thus, according to the Sārkhya also, the causal activity will remain objectless. Nor can the assumption of evolution of one into multifarious forms improve the position of the Sankhya; because, evolution in itself is an action inasmuch as it consists in the assumption of multifarious successive forms by one at different points of time; therefore, if the ultimate nature (prakrti) be supposed to evolve it ceases to be pure material cause. It becomes an agent? (kartr). Nor can it be said that the idea of authorship (kartrtva) of the ultimate nature is not against the Sāükhya conception: for, although the Sārkhya admits the prakrti to be an agent, yet such an admission is in conflict with its own theory of insentiency (jadatva) of the ultimate nature. The chief characteristic of an insentient thing is that it is of a certain fixed appea rance and that by itself it cannot manifest itself in any other than the fixed form. A stone, for instance, cannot assume multifarious forms of a man, a tree and a mountain etc and again after some time regain its original form; therefore, if Prakrti be insentient its manifesting itself in diverse forms at the time of creation and again assuming the state of equilibri um of qualities at the time of universal dissolution would be as impossible as the assumption by stone of its original condition as stated above : 
+sprout be supposed to be identical, then the notion of their duality becomes meaningless. Therefore, either the seed or the sprout only can be said to exist; because, identity and separateness cannot co-exist. Thus, according to the Sārkhya also, the causal activity will remain objectless. Nor can the assumption of evolution of one into multifarious forms improve the position of the Sankhya; because, evolution in itself is an action inasmuch as it consists in the assumption of multifarious successive forms by one at different points of time; therefore, if the ultimate nature (prakrti) be supposed to evolve it ceases to be pure material cause. It becomes an agent? (kartr). Nor can it be said that the idea of authorship (kartrtva) of the ultimate nature is not against the Sāūkhya conception: for, although the Sārkhya admits the prakrti to be an agent, yet such an admission is in conflict with its own theory of insentiency (jadatva) of the ultimate nature. The chief characteristic of an insentient thing is that it is of a certain fixed appea rance and that by itself it cannot manifest itself in any other than the fixed form. A stone, for instance, cannot assume multifarious forms of a man, a tree and a mountain etc and again after some time regain its original form; therefore, if Prakrti be insentient its manifesting itself in diverse forms at the time of creation and again assuming the state of equilibri um of qualities at the time of universal dissolution would be as impossible as the assumption by stone of its original condition as stated above : 
 
 "Abhinnarūpasya dharmiṇah satatapravahadbahutara dharmabhedasambheda svātantryalakṣaṇam pariṇamana kriyākartrtvam yaduktam tat pradhānāderna yuktarh jada tvāt, jado hi nāma pariniṣthitasvabhāvah prameyapada patitah." 
 
@@ -357,7 +357,7 @@ T. A., Comm., VI, 108.
 
 CRITICISM OF THE RIVAL THEORY OF THE SANKHYA. 
 
-According to the Sāükhya, liberation is nothing but the cessation of the activity of prakrti towards a particular puruṣa. But it may be asked: if puruṣa is never really affected in any way and is simply pure consciousness, (puṣkara palāśavannirlepah kintu cetanah) in itself it must ever be the same; why is it then that prakrti is not active towards the so called liberated ? It cannot be said that the activity of praksti requires the presence of the old habits of experience of Buddhi (karmasamskāra) as a prompting cause, and because all the samskāras of the past actions of the liberated are destroyed, there is, therefore, nothing to prompt prakrti to work for the liberated; for, the opponent then may be asked : "what is it that is responsible for the destruction of 
+According to the Sāūkhya, liberation is nothing but the cessation of the activity of prakrti towards a particular puruṣa. But it may be asked: if puruṣa is never really affected in any way and is simply pure consciousness, (puṣkara palāśavannirlepah kintu cetanah) in itself it must ever be the same; why is it then that prakrti is not active towards the so called liberated ? It cannot be said that the activity of praksti requires the presence of the old habits of experience of Buddhi (karmasamskāra) as a prompting cause, and because all the samskāras of the past actions of the liberated are destroyed, there is, therefore, nothing to prompt prakrti to work for the liberated; for, the opponent then may be asked : "what is it that is responsible for the destruction of 
 
 1. T. A., VI, 106-7. 2. T. A., VI, 108. 
 
