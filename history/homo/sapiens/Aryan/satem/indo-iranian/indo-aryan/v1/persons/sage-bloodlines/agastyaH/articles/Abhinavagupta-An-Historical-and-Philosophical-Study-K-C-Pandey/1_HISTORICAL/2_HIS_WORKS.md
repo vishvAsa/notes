@@ -8,7 +8,7 @@ HIS WORKS.
 
 LIST OF HIS KNOWN WORKS. 1. Bodha Pancadasikā. 2. Mālini Vijaya Vārtika. V 3. Parātrimśikā Vivrti. 4. Tantraloka. 5. Tantrasāra. 6. Tantravagadhānikā. 7. Dhvanyāloka Locana. 8. Abhinava Bhārati. 
 
-9. Bhagavadgitārtha Sangraha. 10. Paramārtha Sāra. 11. Isvara Pratyabhijñā Vimarsini. 12. Isvara Pratyabhijñā Vivrti Vimarsini. - 13. Krama Stotra, tule available combi lobortis 14. Dehastha Devata Cakra Stotra. 15. Bhairava Stotra. V gone of the lies 16. Paramārtha Dvādasikā. 17. Paramārtha Carcā. 18. Mahopadeśa Vimsatik a. 19. Anuttarāṣtikā. 20. Anubhavanivedana. 21. Tant roccaya. 22. Ghatakarparakulaka Vivrti. 23. Karmakeli. 24. Sivadrstyālocana. 25. Purva Pañcikā. 26. Padārthapraveśa Nirnaya Țikā. 27. Prakīrṇaka Vivarana. 28. Prakarana Vivarana. 29. Kāvyakautuka Vivarana. 
+9. Bhagavadgitārtha Sangraha. 10. Paramārtha Sāra. 11. Isvara Pratyabhijñā Vimarsini. 12. Isvara Pratyabhijñā Vivrti Vimarsini. - 13. Krama Stotra, tule available combi lobortis 14. Dehastha Devata Cakra Stotra. 15. Bhairava Stotra. V gone of the lies 16. Paramārtha Dvādasikā. 17. Paramārtha Carcā. 18. Mahopadeśa Vimsatik a. 19. Anuttarāṣtikā. 20. Anubhavanivedana. 21. Tant roccaya. 22. Ghatakarparakulaka Vivrti. 23. Karmakeli. 24. śivadrstyālocana. 25. Purva Pañcikā. 26. Padārthapraveśa Nirnaya ṭikā. 27. Prakīrṇaka Vivarana. 28. Prakarana Vivarana. 29. Kāvyakautuka Vivarana. 
 
 ont of the two coulbution to to. 
 
@@ -16,7 +16,7 @@ HIS WORKS
 
 23 
 
-30. Kathāmukha Tilaka. 31. Laghví Prakriya. 32. Bhedavādavidāraṇa 33. Devīstotra Vivarana. 34. Tattvādhya Prakāśikā. 35. Sivasaktyavinābhāva Stotra 36. Bimbapratibimba Vāda (Dr. Bühler's Kashmir Cata 
+30. Kathāmukha Tilaka. 31. Laghví Prakriya. 32. Bhedavādavidāraṇa 33. Devīstotra Vivarana. 34. Tattvādhya Prakāśikā. 35. śivasaktyavinābhāva Stotra 36. Bimbapratibimba Vāda (Dr. Bühler's Kashmir Cata 
 
 logue MS. No. 469.) 37. Paramārtha Sangraha ( Do. 459.) 38. Anuttara Sataka. Introduction to the P. T. V., P. 15. 39. Prakarana Stotra. It does not state any authority to 40. Nātyālocana. substantiate the statement. 41. Anuttaratattvavimarsinī Vrtti (T. C. MS. No. 8219 ) 
 
@@ -118,7 +118,7 @@ bahuvistarā tīkā krtā, tadvicāraṇeca janam asaktam jñātvā tenaiva Prat
 
 sinītiprasiddhā tīkā krtā." (Bhaskarī). The M. V. V. also, therefore, has to be supposed to have come either immediately before or after his commentary on the Pūrva Sastra, in any case before the Parātrirhśikāvivarana. 
 
-The other case of a work of doubtful chronological position is that of the Paramārtha Sāra. It consists of only 105 verses and contains only one literary reference and that also is to the Karikās of Seṣa, of which it is an adaptation. This, however, has been placed between the Bhagavadgītārtha Samgraha and the Pratyabhijñā Vimarsinī, because it is a philosophical work. We know of only four philosophical works of Abhinava. Of these, the chronological position of three is certain on the evidence of Abhinava himself. The Bhagavadgītārthasangraha is the first and the Pratyabhijñā Vimarsinī is the last. The Pratyabhijñā Vivṣti Vimarsinī or Brhatī Vimarsini immediately preceded, the latter. There is, therefore, no other position which we can assign to the Paramārthasāra than the one, 
+The other case of a work of doubtful chronological position is that of the Paramārtha Sāra. It consists of only 105 verses and contains only one literary reference and that also is to the Karikās of śeṣa, of which it is an adaptation. This, however, has been placed between the Bhagavadgītārtha Samgraha and the Pratyabhijñā Vimarsinī, because it is a philosophical work. We know of only four philosophical works of Abhinava. Of these, the chronological position of three is certain on the evidence of Abhinava himself. The Bhagavadgītārthasangraha is the first and the Pratyabhijñā Vimarsinī is the last. The Pratyabhijñā Vivṣti Vimarsinī or Brhatī Vimarsini immediately preceded, the latter. There is, therefore, no other position which we can assign to the Paramārthasāra than the one, 
 
 given above. 
 
@@ -216,11 +216,11 @@ HIS WORKS
 
 31 
 
-2. Sivadrstyālocana. 
+2. śivadrstyālocana. 
 
-Sivadựṣti is a well known work on the Trika system, written by Somānanda, the great grand teacher of Abhinava. The Pratyabhijñā system is based on it. From its name and reference the Alocana of Abhinava seems to have been a critical study of the original work : 
+śivadựṣti is a well known work on the Trika system, written by Somānanda, the great grand teacher of Abhinava. The Pratyabhijñā system is based on it. From its name and reference the Alocana of Abhinava seems to have been a critical study of the original work : 
 
-«Yathoktam mayaiva Sivadystyalocane "Preṣopi sa bhaved yasya saktatā nāma vidyate" 
+«Yathoktam mayaiva śivadystyalocane "Preṣopi sa bhaved yasya saktatā nāma vidyate" 
 
 P. T. V., 116. 3. Purva Pañcikā. 
 
@@ -330,9 +330,9 @@ In this the author discussed the nature and the number of Tattvas accepted by th
 
 tanmatāvalambanam eva krtam." 
 
-T. A., Ah. XI, P. 19. 13. Sivasaktyavinābhāva Stotra. 
+T. A., Ah. XI, P. 19. 13. śivasaktyavinābhāva Stotra. 
 
-In this Stotra, as the title indicates, Abhinava praises Siva and Sakti as inseparable from each other. He quotes 
+In this Stotra, as the title indicates, Abhinava praises śiva and Sakti as inseparable from each other. He quotes 
 
 HIS WORKS 
 
@@ -362,7 +362,7 @@ In the concluding portion of the last chapter of the Tantrāloka we find that hi
 
 III. PHILOSOPHICAL PERIOD. 
 
-Again, at the time of writing the A. Bh., philosophical ideas are seen getting supremacy, so much so that his exposition of Rasa, which has held its ground to this day, is purely philosophical. Not only this, while commenting! on Bharata's Nātya Sūtra he had already begun writing side by side a purely philosophical work, namely, his commentary on the Bhagavadgītā, as we know from a reference in A. Bh. (vide A. Bh., 337). Thus last of all did come the philosophi cal period. To this belong his monumental works, the Isvara Pratyabhijña Vimarsins and the Isvara Pratyabhijñā Vivrti Vimarsini. The latter is also known as Bțhati Vimarsinī or Aṣtādaśa Sahasri. Because of these two works it is that he is acknowledged to be the chief exponent of the Pratyabhijñā philosophy, as the concluding portion ofHIS WORKS 
+Again, at the time of writing the A. Bh., philosophical ideas are seen getting supremacy, so much so that his exposition of Rasa, which has held its ground to this day, is purely philosophical. Not only this, while commenting! on Bharata's Nātya Sūtra he had already begun writing side by side a purely philosophical work, namely, his commentary on the Bhagavadgītā, as we know from a reference in A. Bh. (vide A. Bh., 337). Thus last of all did come the philosophi cal period. To this belong his monumental works, the Isvara Pratyabhijña Vimarsins and the Isvara Pratyabhijñā Vivrti Vimarsini. The latter is also known as Bṭhati Vimarsinī or Aṣtādaśa Sahasri. Because of these two works it is that he is acknowledged to be the chief exponent of the Pratyabhijñā philosophy, as the concluding portion ofHIS WORKS 
 
 37 
 
@@ -374,7 +374,7 @@ The Pratyabhijñā Vivrti Vimarsinī is the penultimate of his known works. Ther
 
 A GENERAL IDEA OF HIS AVAILABLE WORKS. 1. Bodha Pañcadaśikā. 
 
-It is a propagandistic pamphlet consisting of 16 verses. It is called Bodha Pancadaśikā because in fifteen (Pancadaśa) verses the basic principles of the monistic Saivaism are summarized in it. The sixteenth verse simply explains the object of such a composition. It speaks of the Saiva conception of Siva and Sakti, their relation and consequent emanation of the universe; of the cause and the nature of the bondage and the way to freedom from it, and of their (bondage and freedom) being in reality non-different from the highest Lord. It was written, as the following quotation shows, with the expressed object of enabling the less intelligent pupils of his, easily to grasp the fundamental principles of the system propounded by him : 
+It is a propagandistic pamphlet consisting of 16 verses. It is called Bodha Pancadaśikā because in fifteen (Pancadaśa) verses the basic principles of the monistic Saivaism are summarized in it. The sixteenth verse simply explains the object of such a composition. It speaks of the Saiva conception of śiva and Sakti, their relation and consequent emanation of the universe; of the cause and the nature of the bondage and the way to freedom from it, and of their (bondage and freedom) being in reality non-different from the highest Lord. It was written, as the following quotation shows, with the expressed object of enabling the less intelligent pupils of his, easily to grasp the fundamental principles of the system propounded by him : 
 
 "Sukumāramatin śiṣyān prabodhayitum añjasā Imebhinavaguptena ślokāh pañcadaśoditāh." 
 
@@ -428,7 +428,7 @@ There are frequent references in this book to a Tantra Sāra. But it has to be n
 
 Saiva conception of Parā, Paśyantī, 
 
-Madhyamā and Vaikhari. According to the Abhāsavādin the whole universe is a mere manifestation of the universal self or Parama Siva, as the images of an imagination, the scenes of a dream or the creations of a person who has attained certain yogic powers (yoginirmāṇa) are those of the limited selves. Our experience tells us that the things of imagination, dream and yogic creation have no existence independent of or separate from the self which is responsible for their manifestation. Believing, therefore, the macrocosm to be the same in its nature and constitution as the microcosm, the Ābhāsavādin holds that the whole universe rises from, has its being within, is maintained by and again merges in the same universal consciousness or self. He also holds that it is in its essence the same as that from which it rises, just as the waves of the ocean are essentially the same as the ocean itself. 
+Madhyamā and Vaikhari. According to the Abhāsavādin the whole universe is a mere manifestation of the universal self or Parama śiva, as the images of an imagination, the scenes of a dream or the creations of a person who has attained certain yogic powers (yoginirmāṇa) are those of the limited selves. Our experience tells us that the things of imagination, dream and yogic creation have no existence independent of or separate from the self which is responsible for their manifestation. Believing, therefore, the macrocosm to be the same in its nature and constitution as the microcosm, the Ābhāsavādin holds that the whole universe rises from, has its being within, is maintained by and again merges in the same universal consciousness or self. He also holds that it is in its essence the same as that from which it rises, just as the waves of the ocean are essentially the same as the ocean itself. 
 
 1. T. A., Ah. XII, P. 101. 2. T. A., VI, 249. 
 
@@ -524,7 +524,7 @@ THE TITLE It is called Tantrāloka because it enlightens its reader on the path 
 
 THE PLACE OF AND THE OCCASION FOR ITS COMPOSITION. 
 
-It was written at the house of Mandra?. And it was at the combined request of his younger brother, Manoratha, his dear pupil, Mandra, his loving cousins, and some other devotees of Siva, such as Rāmagupta, that he undertook to write this work. As a matter of fact the idea of writing such a work was already in his mind. This combined request simply gave an additional impetus and so the work was taken up immediately. 
+It was written at the house of Mandra?. And it was at the combined request of his younger brother, Manoratha, his dear pupil, Mandra, his loving cousins, and some other devotees of śiva, such as Rāmagupta, that he undertook to write this work. As a matter of fact the idea of writing such a work was already in his mind. This combined request simply gave an additional impetus and so the work was taken up immediately. 
 
 SEITS AUTHORITY. Although it is full of quotations in support of the various points, discussed therein, from ever so many Tantras, yet, according to Abhinava's own statement, it is primarily based upon the authority of the Mālinī4 Vijaya Tantra. This Tantra is the most important of all the three, Siddhā, Nāmaka and Mālini, which primarily contain the principles and teachings of the system called the Trika, and represents the essence of all the ninety-two Agamas 
 
@@ -538,11 +538,11 @@ belonging to the three schools of Saivaism, namely, Advaita, Dvaitādvaita and D
 
 5. TANTRASĀRA. 
 
-6. TANTRA VAȚA DHĀNIKĀ. 
+6. TANTRA VAṭA DHĀNIKĀ. 
 
 These two, as their names imply, are the summaries of the Tantrāloka. The last is a briefer summary than the first. It is like a seed of the huge tree of the Tantrāloka. 
 
-AUTHORSHIP OF THE TANTRA VAȚA DHĀNIKĀ. 
+AUTHORSHIP OF THE TANTRA VAṭA DHĀNIKĀ. 
 
 Jayaratha quotes two verses from the Tantra Vata Dhānikā in his commentary on the Tantrāloka Ah. II, s. 2, without mentioning the name of the author. This was thought by M. M. Mukundarāma Sāstrī to be sufficient reason to attribute this work to another Abhinava of the same name. He says in a foot note to his edition of the work under discussion : 
 
@@ -550,7 +550,7 @@ Jayaratha quotes two verses from the Tantra Vata Dhānikā in his commentary on 
 
 T. V. Dh., P., 5. 
 
-Even if there had been no other reason to the contrary, we would have considered the reason stated by the learned editor to be too insufficient for such a conclusion. But there is the sound evidence of Jayaratha himself, who, in his commentary on the Tantrāloka itself, clearly attributes the Tantra Vața Dhānikā to our Abhinavagupta, saying "Yaduk tam anenaivānyatra" and quotes verses thirty-six and thirty-seven giving the name also of this work in T. A., Comm., Ah. 13, P. 81. The supposition of difference in point of authorship of this work is, therefore, baseless. 
+Even if there had been no other reason to the contrary, we would have considered the reason stated by the learned editor to be too insufficient for such a conclusion. But there is the sound evidence of Jayaratha himself, who, in his commentary on the Tantrāloka itself, clearly attributes the Tantra Vaṭa Dhānikā to our Abhinavagupta, saying "Yaduk tam anenaivānyatra" and quotes verses thirty-six and thirty-seven giving the name also of this work in T. A., Comm., Ah. 13, P. 81. The supposition of difference in point of authorship of this work is, therefore, baseless. 
 
 HIS WORKS 
 
@@ -702,7 +702,7 @@ general. It is therefore, evroneous to work that Trika sland for Balzabligna phi
 
 mta Saillya THE SOURCELOka alleged heyey . Verses 36,33 57, 58, 70,54,67 CB.N.Pada ) 
 
-According to Abhinava's own statement, it is an adaptation of the Adhāra Kārikās of Seṣa Muni who is also referred to as Adhāra Bhagavān or Ananta Nātha. These Kārikās also were known as “Paramārtha Sāra". They gave in brief the most essential principles of the Sānkhya philosophy and taught that the final emancipation could be attained by discriminating between Prakrti and Puruṣa. The original with a few omissions, additions and alterations was adapted to serve as a medium of teaching the most essential principles of the Trika: The adaptation consists of one hundred and five verses, though Abhinava's own statement as regards the number of its verses is : "In hundred Aryā verses I have summarised the essential principles of the Trika system which are so difficult to understand." 
+According to Abhinava's own statement, it is an adaptation of the Adhāra Kārikās of śeṣa Muni who is also referred to as Adhāra Bhagavān or Ananta Nātha. These Kārikās also were known as “Paramārtha Sāra". They gave in brief the most essential principles of the Sānkhya philosophy and taught that the final emancipation could be attained by discriminating between Prakrti and Puruṣa. The original with a few omissions, additions and alterations was adapted to serve as a medium of teaching the most essential principles of the Trika: The adaptation consists of one hundred and five verses, though Abhinava's own statement as regards the number of its verses is : "In hundred Aryā verses I have summarised the essential principles of the Trika system which are so difficult to understand." 
 
 P. S., 198. 
 
@@ -768,13 +768,13 @@ But when there is no such difference of principles, we find the very language of
 
 Punyāpunyakalaukasparsābhāve tu kim tena." These lines constitute the 74th verse of the original and the 84th of the adaptation. 
 
-Further, we find certain portions of the original altogether omitted, because they deal with matters in which the two systems fundamentally differ, as for instance, that part in which the original deals with the effect of the mere presence of Puruṣa in bringing about all activity in the insentient senses : “Yadvadacetanam api sannikațasthe bhrāmake bhramati loham 
+Further, we find certain portions of the original altogether omitted, because they deal with matters in which the two systems fundamentally differ, as for instance, that part in which the original deals with the effect of the mere presence of Puruṣa in bringing about all activity in the insentient senses : “Yadvadacetanam api sannikaṭasthe bhrāmake bhramati loham 
 
 Tadvat karanasamühas ceṣtati cidadhisthite dehe." 
 
 A. K., S. 3. We also find in the adaptation certain verses which cannot at all be traced in the original. These are mainly those which deal with the ideas peculiar to Trika Saivaism, as for instance, those which describe the eleven Tattvas in which this system believes in addition to those which it has in common, at least in point of names, with the Sankhya system : 
 
-"Sivasaktisadāśivatām īśvaravidyāmayim ca tattvadaśam 
+"śivasaktisadāśivatām īśvaravidyāmayim ca tattvadaśam 
 
 Saktīnām pancānām vibhaktabhāvena bhāsayati." 
 
@@ -816,7 +816,7 @@ P.S. A. K. 8 9
 
 54 11. IŚVARA PRATYABHIJNĀ VIMARSINI. 
 
-This is Abhinava's commentary, called Vimarsini, on Utpalācārya's Iśvara Pratyabhijñā Sūtras. This is called Laghvi Vimarsini also, because of its being a comparatively less detailed commentary than the Isvara Pratyabhijña Vivrti Vimarsins. According to the old method of calcula tion, in which a group of thirty-two syllables was counted as one Sloka, the former work consists of four thousand and the latter of eighteen thousand Slokas and, therefore, they are also known as Catussahasrī and Aṣțādaśasahasri respectively. The contents of this work will be dealt with in the second part. 
+This is Abhinava's commentary, called Vimarsini, on Utpalācārya's Iśvara Pratyabhijñā Sūtras. This is called Laghvi Vimarsini also, because of its being a comparatively less detailed commentary than the Isvara Pratyabhijña Vivrti Vimarsins. According to the old method of calcula tion, in which a group of thirty-two syllables was counted as one Sloka, the former work consists of four thousand and the latter of eighteen thousand Slokas and, therefore, they are also known as Catussahasrī and Aṣṭādaśasahasri respectively. The contents of this work will be dealt with in the second part. 
 
 12. IśVARA PRATYABHIJMA VIVRTI VIMARSINI. 
 
@@ -830,7 +830,7 @@ Sūtras, as Abhinava himself states in one of the introductory verses to this bo
 
 "Srimal Lakṣmanagupta darsitapathaḥ 
 
-śrīpratyabhijñāvidhau Țikārthapravimarsinīm racayate vrttim praśiṣyo guroh." This is the penultimate work of Abhinava. It clears up most of the points which are not very clear in the Laghvi Vimarsinī. But the readers will be pained to know that Utpalācārya's Țikā, on which it is a commentary, has not so far been found inspite of vigorous searches made by so many enthusiasts. Perhaps, unfortunately, it is irrecoverably lost. 
+śrīpratyabhijñāvidhau ṭikārthapravimarsinīm racayate vrttim praśiṣyo guroh." This is the penultimate work of Abhinava. It clears up most of the points which are not very clear in the Laghvi Vimarsinī. But the readers will be pained to know that Utpalācārya's ṭikā, on which it is a commentary, has not so far been found inspite of vigorous searches made by so many enthusiasts. Perhaps, unfortunately, it is irrecoverably lost. 
 
 The eight smaller works of Abhinava, which we are giving in Appendix (B) to this thesis, can be divided into two classes : (I) propagandistic booklets or leaflets on the Trika Saivaism and (II) Stotras. To the former belong : 
 
@@ -860,13 +860,13 @@ P. D., S. 2. is quoted by Ramyadevācārya in his commentary on Cakrapāninātha
 
 As regards Stotras, about the first two, viz., the Krama and the Bhairava, we have already spoken in discussing the date of Abhinavagupta. Here it may be added in connection with the latter that in old Pandit families of Kashmir there is still current a tradition which says that Abhinava, while entering the Bhairava cave for his last Samadhi, was reciting this Stotra. 
 
-In the Dehastha Devata Cakra Stotra Abhinava shows that the attendant deities of siva, mentioned in the Purānas, 
+In the Dehastha Devata Cakra Stotra Abhinava shows that the attendant deities of śiva, mentioned in the Purānas, 
 
 64 
 
 CHAPTER II 
 
-are found associated with him even when he is in the body as a limited self (Siva eva grhītapaśubhāvah). Though in the latter case their names and forms are different yet their functions are the same. For instance, in the Purānas he is said to have got two door-keepers, Ganeśa and Batuka. They accompany him even when he assumes limitations as an individual (Pasupramātā) to guard two of the nine doors of the body. Of course, in this case, they are called Prāṇa and Apāna. Jayaratha echoes this very idea when in his commentary on the Tantrāloka I, 6, he says the following with regard to Gaṇeśa and Batuka : 
+are found associated with him even when he is in the body as a limited self (śiva eva grhītapaśubhāvah). Though in the latter case their names and forms are different yet their functions are the same. For instance, in the Purānas he is said to have got two door-keepers, Ganeśa and Batuka. They accompany him even when he assumes limitations as an individual (Pasupramātā) to guard two of the nine doors of the body. Of course, in this case, they are called Prāṇa and Apāna. Jayaratha echoes this very idea when in his commentary on the Tantrāloka I, 6, he says the following with regard to Gaṇeśa and Batuka : 
 
 "Asya hi prāṇavyāptirasti ityevam nirdiśanti guravah" 
 
@@ -880,7 +880,7 @@ HIS WORKS
 
 65 
 
-22. GHAȚAKARPARAKULAKA VIVRTI. 
+22. GHAṭAKARPARAKULAKA VIVRTI. 
 
 Ghatakarpara is an interesting poem of twenty one verses. It is of the type of the famous Meghaduta. There is just one point of difference : while Meghaduta is from the lips of the lover, here it is the separated beloved that mostly speaks, only a few lines being from others such as her friend and messenger etc. It is interesting to note in this connection that according to the published commentary of Pandit Ramcharit Sharma, a modern scholar, the whole of the poem is from the beloved. Its author, according to the tradition inherited and recorded by Abhinava, was Kalidasa.? Its title was probably suggested by the word "Ghatakarpara” occurring in the last line of the poem in which the author, being extremely confident of his all-surpassing skill in writing Yamakas, humorously vows to carry water in a potsherd for him who can defeat him in writing Yamakas. 3 
 

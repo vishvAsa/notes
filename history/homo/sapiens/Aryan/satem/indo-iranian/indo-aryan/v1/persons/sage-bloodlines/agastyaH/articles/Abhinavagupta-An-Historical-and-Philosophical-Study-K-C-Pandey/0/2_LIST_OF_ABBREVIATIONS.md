@@ -12,7 +12,7 @@ M. K. Moksa Kārikā. (Vāṇi Vilāsa) M. M. Mahārtha Mañjarī. (Trivandrum) 
 N. K. Nāda Kārikā. (Vānī Vilāsa) P. H. Pratyabhijñā Hrdaya. (Kashmir) P, S. 
 Paramārtha Sāra. P. T. V. Parā Trimśikā Vivarana,,, R. T. 
 Rāja Taranginī. (Stein's edition) R. Tr. Ratna Traya. (Vāṇi Vilāsa) S. Bh. Sānkara Bhāṣya. (Nirnaya Sagar) S.C. Sabdārtha Cintāmaṇi. (Udayapur) S. D. 
-Sankara Digvijaya. S. Dr. Siva Drsti. MS. S. S. V. Siva Sutra Vārtika. (Kashmir) S. S. Vi. Siva Sūtra Vimarsini. S.C. Stava Cintāmaṇi. S. D. S. Sarva Darśana Sangraha. (Abhyankar) 
+Sankara Digvijaya. S. Dr. śiva Drsti. MS. S. S. V. śiva Sutra Vārtika. (Kashmir) S. S. Vi. śiva Sūtra Vimarsini. S.C. Stava Cintāmaṇi. S. D. S. Sarva Darśana Sangraha. (Abhyankar) 
 Spanda Nirnaya. (Kashmir) T. A. Tantrāloka. 
 Tanjore Catalogue. T.P. Tattva Prakāśikā. (Vāni Vilāsa) T. S. Tantra Sāra. (Kashmir) T. San. Tattva Sangraha. (Vāni Vilasa) Ta. San. T. D. Tarka Sangraha Tattva Dipikā. T. T. N. Tattva Traya Nirnaya. (Vāṇi Vilasa) T. V. 
 Traditional Verse. T. V. Dh. Tantra Vata Dhānikā. (Kashmir) V. S. S. Bh. Vedānta Sutra Sankara Bhāṣya. (Nirnaya 

@@ -36,7 +36,7 @@ CHAPTER IV
 
 and last of all on the philosophical works, like the Spanda Kārikā. Thus he carried on the work of his teacher. The students of the Trika philosophy owe a special debt of gratitude to Kṣemarāja for a systematic presentation of the views of Abhinava on the Spanda branch, on which the latter, not liking to be classed with the common herd of commentators, did not write. 
 
-1. SVACCHANDODYOTA. It is his commentary on the Svacchanda Tantra. This seems to be the first in the chronology of his available works. It is referred to in his commentaries on Bhatta Nārāyana's Stava Cintāmaṇi, P. 226, on the Siva Sūtra, P. 12, and on the Netra Tantra, P. 226. 
+1. SVACCHANDODYOTA. It is his commentary on the Svacchanda Tantra. This seems to be the first in the chronology of his available works. It is referred to in his commentaries on Bhatta Nārāyana's Stava Cintāmaṇi, P. 226, on the śiva Sūtra, P. 12, and on the Netra Tantra, P. 226. 
 
 2. NETRODYOTA. Netrodyota is a commentary on the Netra Tantra. 
 
@@ -60,11 +60,11 @@ S. N., 1.
 
 "Kṣemendra, the author of Spanda Nirnaya, No. 511, and of Spanda Sandoha 517 appears to be identical with Kṣemarāja, the pupil of Abhinava". 
 
-We do not know the learned Doctor's reasons for assign ing these works to Kṣemendra, perhaps he found this name in the colophons of the works in question. But our careful study shows that they are the works of Kṣemarāja and that if in the colophons of some MSS. the name of Kṣemendra is found, it must have been simply due to the mistake of the scribes. In the Pratyabhijñā Hrdaya and in the Siva Sutra Vimarsinī, which are accepted by all to be of Kṣemarāja's authorship, these two works are referred to by him as his own, as the following quotations therefrom show : "Tathā mayā vitatya Spanda Sandohe nirnītam." P.H.,P.24. "Yathā caitat tathā asmadīyāt Spanda Nirnayad avaboddha vyam." 
+We do not know the learned Doctor's reasons for assign ing these works to Kṣemendra, perhaps he found this name in the colophons of the works in question. But our careful study shows that they are the works of Kṣemarāja and that if in the colophons of some MSS. the name of Kṣemendra is found, it must have been simply due to the mistake of the scribes. In the Pratyabhijñā Hrdaya and in the śiva Sutra Vimarsinī, which are accepted by all to be of Kṣemarāja's authorship, these two works are referred to by him as his own, as the following quotations therefrom show : "Tathā mayā vitatya Spanda Sandohe nirnītam." P.H.,P.24. "Yathā caitat tathā asmadīyāt Spanda Nirnayad avaboddha vyam." 
 
 S. S. Vi., P. 14. "Etat Spanda Nirnaye nirākāňkṣam mayaiva nirnītam." 
 
-S. S. Vi., P. 129. 7. PRATYABHIJÑA HRDAYA. 8. COMMENTARY ON THE ABOVE. 9. SIVA SUTRA VIMARṣINI. 10. VIVRTI ON THE STAVA CINTAMAṇI. 11. UTPALA STOTRĀVALI TIKĀ. 12. PARĀ PRAVEśIKĀ. 13. TIKĀ ON SAMBA PANCASIKĀ 
+S. S. Vi., P. 129. 7. PRATYABHIJÑA HRDAYA. 8. COMMENTARY ON THE ABOVE. 9. śiva SUTRA VIMARṣINI. 10. VIVRTI ON THE STAVA CINTAMAṇI. 11. UTPALA STOTRĀVALI TIKĀ. 12. PARĀ PRAVEśIKĀ. 13. TIKĀ ON SAMBA PANCASIKĀ 
 
 14. A COMMENTARY ON THE KRAMA SŪTRA. Of this we know only from the following reference in Maheśvarānanda's commentary on his own Mahārtha Mañjarī, P. 166: 
 
@@ -92,7 +92,7 @@ It is mentioned as one of his works in the introduction to the Samba Pancāśik�
 
 (II.) YOGARĀJA. The commentator who came next after Kṣemarāja was Yogarāja. According to his own statement in the concluding lines of his commentary, Vivrti, on the Paramārtha Sāra of Abhinavagupta, he was a pupil of Kṣemarāja? who was in possession of the tradition. We shall, therefore, not be wrong if we say that he belonged to the second half of the eleventh century A. D. At the time when he wrote the said commentary he had already renounced the world and was living as an ascetic at Vitastāpuri in Kashmir. This commentary, according to its author, is from the point of view of pure monism. 
 
-(III.) SUBHAȚA DATTA. He is the first known commentator of Abhinava's Tantraloka. The only source of information about him is Jayaratha's Viveka?. According to this, he was the pre ceptor of Rājarāja, whom we cannot definitely identify with 
+(III.) SUBHAṭA DATTA. He is the first known commentator of Abhinava's Tantraloka. The only source of information about him is Jayaratha's Viveka?. According to this, he was the pre ceptor of Rājarāja, whom we cannot definitely identify with 
 
 1. P. S., Comm., 199. 2. T. A., Comm., Ah. 37 (MS.) 
 
@@ -100,7 +100,7 @@ HIS IMPORTANCE AND INFLUENCE
 
 149 
 
-any King of Kashmir. There is, however, no difficulty in approximately fixing his time. Jayaratha says that his initiation into Saivaism ?) was performed by Subhața. The former's time of literary activity, as we shall just show, was the close of the 12th and the beginning of the 13th century A. D. We can, therefore, safely say that Subhața lived in the later half of the 12th century. His father's name was Tribhuvana? Datta and that of his grand-father, Viśvadatta. It is probably to this commentary that Jayaratha refers in his commentary on the Tantrāloka, Ah. I, PP. 15-16, where he says that he refrains from criticising different interpretations put upon the first verse by others, because his object is only to take out whatever substance is to be found in their writings and not to criticise them”. This commentary was called 
+any King of Kashmir. There is, however, no difficulty in approximately fixing his time. Jayaratha says that his initiation into Saivaism ?) was performed by Subhaṭa. The former's time of literary activity, as we shall just show, was the close of the 12th and the beginning of the 13th century A. D. We can, therefore, safely say that Subhaṭa lived in the later half of the 12th century. His father's name was Tribhuvana? Datta and that of his grand-father, Viśvadatta. It is probably to this commentary that Jayaratha refers in his commentary on the Tantrāloka, Ah. I, PP. 15-16, where he says that he refrains from criticising different interpretations put upon the first verse by others, because his object is only to take out whatever substance is to be found in their writings and not to criticise them”. This commentary was called 
 
 VIVRTI. No trace of it has so far been found. 
 
@@ -132,7 +132,7 @@ HIS IMPORTANCE AND INFLUENCE
 
 151 
 
-(V.) SOBHĀKARAGUPTA. He commented upon Abhinava's famous Bhairava Stotra, giving it a Vaisnavaite interpretation. The manner in which he splits the words and the uncommon meaning that he attributes to them make it clear that the interpreta tion is forced and was not intended by the writer of the original. A copy of the MS. of this commentary is in the possession of the present writer. The commentator interprets the last verse in such a way as to make it indicate the date of his commentary. According to this interpretation, it was written on the day of Sivarātri i. e. the 13th day of the brighter half of the lunar month of Phālguna, in the fifty-third year of Kalit. He has not stated the century: it is, therefore, not possible to fix his time. He does not appear to be a very old writer, 
+(V.) SOBHĀKARAGUPTA. He commented upon Abhinava's famous Bhairava Stotra, giving it a Vaisnavaite interpretation. The manner in which he splits the words and the uncommon meaning that he attributes to them make it clear that the interpreta tion is forced and was not intended by the writer of the original. A copy of the MS. of this commentary is in the possession of the present writer. The commentator interprets the last verse in such a way as to make it indicate the date of his commentary. According to this interpretation, it was written on the day of śivarātri i. e. the 13th day of the brighter half of the lunar month of Phālguna, in the fifty-third year of Kalit. He has not stated the century: it is, therefore, not possible to fix his time. He does not appear to be a very old writer, 
 
 (VI.) BHASKARA KANTHA. He is the little known writer of the only available commentary on Abhinava's Pratyabhijñā Vimarsinī, called Bhāskari. It is a very learned commentary and gives the traditional interpretation of Abhinava's text. Although it presupposes sufficient previous study of the Saiva literature of Kashmir on the part of the reader in order that he may be able to understand it and needs elaboration, yet, in view of the fact that the tradition about the pratyabhijñā literature is well-nigh dead, a proper under standing of Abhinava's Vimarsini is extremely difficult without its help. This difficulty the writer of these pages himself felt for a very long time when he had to struggle with the text before the discovery of the commentary. Many points would have remained doubtful and many more would have been misunderstood but for the help that could 
 
@@ -200,7 +200,7 @@ A careful study of the works of Abhinava and those of Kṣemarāja gives a suffi
 
 Kṣemotpalābhinaya-Cakraka-Padmaguptāh. 
 
-Anyopi kaścana janah sivasaktipāta Sampreraṇāparavasah svakaśaktisārthah Abhyarthanāvimukhabhāvamaśikṣitena Tenāpyanugrahapadam krta eṣa vargah 
+Anyopi kaścana janah śivasaktipāta Sampreraṇāparavasah svakaśaktisārthah Abhyarthanāvimukhabhāvamaśikṣitena Tenāpyanugrahapadam krta eṣa vargah 
 
 Ācāryam abhyarthayate sma gādham Sampūrṇa tantrādhigamāya samyak 
 
@@ -324,7 +324,7 @@ HIS IMPORTANCE AND INFLUENCE
 
 preceding pages. The only work of this writer that we have known is 
 
-SIYA SÜTRA VĀRTIKA. It is a Vārtika on the famous Siva Sūtra of Vasugupta. There is nothing original in it. It is a mere versification of Kṣemarāja's commentary, the Vimarsinī. The author also very frankly says that he follows Ksemarāja's commentary on the Siva Sūtral and incorporates much of what was found in an earlier Vārtika. The little, that he says about himself, is that he was the youngest son of Madhurāja and that his family followed Saivaism. 
+SIYA SÜTRA VĀRTIKA. It is a Vārtika on the famous śiva Sūtra of Vasugupta. There is nothing original in it. It is a mere versification of Kṣemarāja's commentary, the Vimarsinī. The author also very frankly says that he follows Ksemarāja's commentary on the śiva Sūtral and incorporates much of what was found in an earlier Vārtika. The little, that he says about himself, is that he was the youngest son of Madhurāja and that his family followed Saivaism. 
 
 1. S. S. V., 1-2. 2. S. S. V., 48. 
 

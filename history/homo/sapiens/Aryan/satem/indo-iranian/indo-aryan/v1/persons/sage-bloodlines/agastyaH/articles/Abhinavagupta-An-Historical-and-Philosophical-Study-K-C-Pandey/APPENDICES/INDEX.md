@@ -18,7 +18,7 @@ Andhaka, 79 Advaita Tantric School, 72 Angahāra, 52 Agama, 98, 102, 110, 172, 1
 208, 212, 229 
 Anubhava, 284, 286 Agamika, 260 
 Anubhava Nivedana, 22, 62, 64 Aghora, 230 
-Anubhava Stotra, 106 Aghora Siva, 105, 107, 108, 109, Anugraha, 233, 317 
+Anubhava Stotra, 106 Aghora śiva, 105, 107, 108, 109, Anugraha, 233, 317 
 110 
 Anumeyārth vāda, 271 Āgneya, 77 
 Anumeyarthvādin, 274 Ahankāra, 253, 255 
@@ -162,7 +162,7 @@ Kāvyānuśāsana, 157 Kalhaṇa, 84, 85, 86, 126, 127, Kāvya Pradīpa, 157
 130, 134, 
 Kāvya Prakāśa, 9, 157 Kālidāsa, 1, 65, 66 
 Kayyata, 140 Kālīnaya, 81 
-Khacakra, 79 Kallața, 74, 91, 92, 93, 94, 95, Khetapāla, 104, 330 
+Khacakra, 79 Kallaṭa, 74, 91, 92, 93, 94, 95, Khetapāla, 104, 330 
 96, 97, 127, 128, 134, 143 Kirana (Tantra) 77, 112 Kalyāṇa, 39, 149 
 Kīrtidhara, 120, 121, 126 Kāmaja, 75, 76 
 Kohala, 113, 114, 115, 116, 117, Kāmika, 76, 112 
@@ -251,7 +251,7 @@ Nyāya, 38, 195, 309, 310 Muni, 114, 118
 Oudh Catalogue, 24 Mysore and Coorg i Catalogue, Outline of Religious Literature 
 113 
 in India, 76 Nāda Cakra, 79 
-Padārtha Praveśa Nirnaya Țikā, Nāda Kārikā, 108, 110, 111 22, 32 Nāgabodhi, 80 
+Padārtha Praveśa Nirnaya ṭikā, Nāda Kārikā, 108, 110, 111 22, 32 Nāgabodhi, 80 
 Paddhati, 107, 108 Nāgārjuna, 85, 86, 87 
 Padmānanda, 100 Nāgārjuna Bodhisattva, 86 Pādukodaya, 160 Naiṣadhiya Carita, 125 
 Pākhandāpajapa, 111 Naiṣkarmya, 325 
@@ -268,7 +268,7 @@ Paramārtha Sāra Vivrti, 148
 (422) 
 Paramārtha Sangraha Vivrti, Prakāśa, 199, 200, 201, 202, 
 148 
-205, 206, 207, 259 Parama Siva, 40, 203, 204, 231, Prakāśaratha, 150 
+205, 206, 207, 259 Parama śiva, 40, 203, 204, 231, Prakāśaratha, 150 
 235, 237 
 Prakāśavimarśamaya, 199, 201, Paramesa Stotrāvali, 101, 148 202, 207 Pārameśvara, 77 
 Prakatatāvāda, 268, 287 Paramoksaniräsa Kārikā, 109 Prakīrṇaka Vivarana, 22, 32 Paramokṣanirāsa Kārikā Vitti, Prakrti, 55, 193, 196, 235, 239, 
@@ -358,17 +358,17 @@ Siddhānta Candrikā, 94 Sārkarabhāṣya, 306, 319 Siddhānta School, 103, 104
 91, 109, 166, 167, 238, 257, Siddhā Tantra, 47, 71 298, 307, 319 
 Siddhi Sārasvata, 80 Sankara Digvijaya, 2, 88 Sikhāṣtaka, 79 Sankaranandana, 103, 106 Siha, 71 Sankara Varman, 130 
 Siraścheda, 80 Sānkara Vedanta, 306 
-Siva, 11, 47, 63, 84, 85, 91, 98, Sankhadhara, 149 
+śiva, 11, 47, 63, 84, 85, 91, 98, Sankhadhara, 149 
 170, 184, 185, 207, 210, Sānkhya, 47, 56, 59, 60, 183, 217, 230, 235, 240, 241, 
-184, 192, 193, 194, 195, 243, 317, 325, 332 196, 229, 230, 231, 235, Siva Bhakti, 11 238, 239, 247, 248, 250, śivadysti, 31, 72, 83, 97, 98, 99, 251, 252, 253, 266, 267, 100, 134, 166 268, 269, 274, 305, 308, Sivadrsti Vitti, 100 309, 310, 311, 312, 326, Sivadrstyālocana, 22, 34, 169 327, 328, 329, 330 
-Siva Saktyavinābhāva Stotra, Sanskrit Dramaturgy, 112, 113 23, 34 ṣantāna, 77 
-Siva Sūtra, 90, 91, 92, 94, 134, Sāradā, 170 
+184, 192, 193, 194, 195, 243, 317, 325, 332 196, 229, 230, 231, 235, śiva Bhakti, 11 238, 239, 247, 248, 250, śivadysti, 31, 72, 83, 97, 98, 99, 251, 252, 253, 266, 267, 100, 134, 166 268, 269, 274, 305, 308, śivadrsti Vitti, 100 309, 310, 311, 312, 326, śivadrstyālocana, 22, 34, 169 327, 328, 329, 330 
+śiva Saktyavinābhāva Stotra, Sanskrit Dramaturgy, 112, 113 23, 34 ṣantāna, 77 
+śiva Sūtra, 90, 91, 92, 94, 134, Sāradā, 170 
 146, 161, 168, 205,... Sāradātanaya, 157 
-Siva Sūtra Vārtika, 86, 94 Saranniśā, 109 
-Siva Sūtra Vimarsinī, 91, 96, Sarvadarśana Sangraha, 37, 83, 147, 161 
-100, 107, 108, 111, 158, Siva Tantras, 178 
-Siva Tanu śāstra, 103, 105 Sarvamangalā, 78 
-Siva tattva, 239 Sarvātmasiva, 110 
+śiva Sūtra Vārtika, 86, 94 Saranniśā, 109 
+śiva Sūtra Vimarsinī, 91, 96, Sarvadarśana Sangraha, 37, 83, 147, 161 
+100, 107, 108, 111, 158, śiva Tantras, 178 
+śiva Tanu śāstra, 103, 105 Sarvamangalā, 78 
+śiva tattva, 239 Sarvātmaśiva, 110 
 Smith, 107 Satkāryavāda, 305, 309, 310 Smrti, 220 Sattā, 216 
 Sobhākaragupta, 157 Sattva, 231, 248, 251, 252, Soma, 81 
 253, 255, 267 

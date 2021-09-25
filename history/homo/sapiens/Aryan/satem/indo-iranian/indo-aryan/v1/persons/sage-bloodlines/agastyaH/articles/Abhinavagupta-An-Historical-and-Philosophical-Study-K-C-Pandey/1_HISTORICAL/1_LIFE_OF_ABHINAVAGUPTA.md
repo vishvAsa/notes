@@ -38,7 +38,7 @@ impressed with his scholarship and so eager did he become to take him (Atrigupta
 1. P.T. V., 280. 
 2. \\* E. H. I., 386.
 
-Thus the family, which after about two centuries, was to produce the Saiva Abhinavagupta, migrated from Kānyakubja to Kashmir. There a spacious house was soon built by the king's order on a plot opposite the temple of Sitāṁśu-maulin on the bank of river Vitastā (Jhelum) for the immigrant family to permanently settle, and a big jāgir was granted for its proper maintenance. After Atrigupta, we know nothing of the family for about hundred and fifty years. Abhinava has evidently left a gap between his earliest known ancestor, who migrated to Kashmir very shortly after king Lalitāditya's victory over Yaśovarman of Kannauj about 740 A. D. and his grand father Varāha-gupta, whom we cannot place earlier than the beginning of the 10th century A. D. The language of the text, on which our conclusion is based, leaves very little doubt on this point. To show the distance of time between Atrigupta and Varāhagupta there is used the word "anvaya” (family) 3. In marked contrast with this, we find the word "ātmaja" used, to indicate the immediate descent of Cukhulaka, the father of Abhinava, from Varāhagupta. From the very brief description of the latter, it is evident that the successive generations had maintained the scholastic traditions of the learned family and that he (Varāhagupta) also was a great scholar and devout worshipper of Siva. 
+Thus the family, which after about two centuries, was to produce the Saiva Abhinavagupta, migrated from Kānyakubja to Kashmir. There a spacious house was soon built by the king's order on a plot opposite the temple of Sitāṁśu-maulin on the bank of river Vitastā (Jhelum) for the immigrant family to permanently settle, and a big jāgir was granted for its proper maintenance. After Atrigupta, we know nothing of the family for about hundred and fifty years. Abhinava has evidently left a gap between his earliest known ancestor, who migrated to Kashmir very shortly after king Lalitāditya's victory over Yaśovarman of Kannauj about 740 A. D. and his grand father Varāha-gupta, whom we cannot place earlier than the beginning of the 10th century A. D. The language of the text, on which our conclusion is based, leaves very little doubt on this point. To show the distance of time between Atrigupta and Varāhagupta there is used the word "anvaya” (family) 3. In marked contrast with this, we find the word "ātmaja" used, to indicate the immediate descent of Cukhulaka, the father of Abhinava, from Varāhagupta. From the very brief description of the latter, it is evident that the successive generations had maintained the scholastic traditions of the learned family and that he (Varāhagupta) also was a great scholar and devout worshipper of śiva. 
 
 - 1. T. A., Ah. 37 (MS.) 
 - 2. T. A., Ah. 37 MS. 
@@ -46,7 +46,7 @@ Thus the family, which after about two centuries, was to produce the Saiva Abhin
 
 ## HIS PARENTS. 
 
-His father, Narasimha-gupta, alias Cukhulaka, was of great intellectual calibre, had equal proficiency in all the Sāstras and was a great devotee of Siva. The name of his mother was Vimalakalā 1. She was a very pious and religious lady. They were a happy couple and attended to household duties not because of any worldly attachment to them but simply because they were enjoined by the scripture.+++(5)+++ The family atmosphere was thus thoroughly religious and scholarly. 
+His father, Narasimha-gupta, alias Cukhulaka, was of great intellectual calibre, had equal proficiency in all the Sāstras and was a great devotee of śiva. The name of his mother was Vimalakalā 1. She was a very pious and religious lady. They were a happy couple and attended to household duties not because of any worldly attachment to them but simply because they were enjoined by the scripture.+++(5)+++ The family atmosphere was thus thoroughly religious and scholarly. 
 
 In view of the facts stated above and supported by the authority of Abhinavagupta himself, quoted in full in Appendix (A), the statement of Pandit Madhusudan Kaul of the Kashmir Research Department in his introduction to the I. P. V., Vol. II, P. 7 about the name of Abhinava's father requires correction. His statement runs as follows: 
 
@@ -60,8 +60,8 @@ Lakṣmanagupta, though undoubtedly a teacher of Abhinava in Pratyabhijñā was 
 
 - 1. T. A. Comm., I. 14. 
 
-## ABHINAVA AS A YOGINĪBHŮ.
-In and about the 10th and the 11th centuries the atmosphere in Kashmir was thoroughly surcharged with the spirit of religion. The people then believed in the efficacy of religious observances. All that was great and good was believed to be attainable by some kind of religious performance or other. For each worldly gain there was prescribed a separate elaborate ceremony. A king wishing to enlarge his kingdom, a student anxious to widen his knowledge, a father aspiring for a worthy son and a merchant desirous of prosperity in his business, each had to perform some special rite to bring about the speedy realisation of his desire. When failure came inspite of these observances, it was attributed to some flaw in the performance of the prescribed rite. Abhinava's literary greatness also, therefore, was naturally attributed not so much to his own exceptional natural intelligence and great assiduity as to a certain religious frame of mind in which his parents had united for his birth?. It is enjoined in the saiva scripture that the parents, desirous of a son, who in Saiva terminology is called Yoginībhū, should rise above all worldly ideas at the time of meeting and that the mother should identify herself with Śakti and the father with Siva.+++(5)+++ And it is believed that only a Yoginībhū can properly understand and intelligibly propound the Saiva monism. According to Jayaratha, the popular idea of Abhinava's being yognībhū was based upon Abhinava's own authority. For, he, as Jayaratha interprets, refers to this fact in the very first verse of the Tantrāloka. 
+## ABHINAVA AS A YOGINĪ-bhū.
+In and about the 10th and the 11th centuries the atmosphere in Kashmir was thoroughly surcharged with the spirit of religion. The people then believed in the efficacy of religious observances. All that was great and good was believed to be attainable by some kind of religious performance or other. For each worldly gain there was prescribed a separate elaborate ceremony. A king wishing to enlarge his kingdom, a student anxious to widen his knowledge, a father aspiring for a worthy son and a merchant desirous of prosperity in his business, each had to perform some special rite to bring about the speedy realisation of his desire. When failure came inspite of these observances, it was attributed to some flaw in the performance of the prescribed rite. Abhinava's literary greatness also, therefore, was naturally attributed not so much to his own exceptional natural intelligence and great assiduity as to a certain religious frame of mind in which his parents had united for his birth?. It is enjoined in the saiva scripture that the parents, desirous of a son, who in Saiva terminology is called Yoginībhū, should rise above all worldly ideas at the time of meeting and that the mother should identify herself with Śakti and the father with śiva.+++(5)+++ And it is believed that only a Yoginībhū can properly understand and intelligibly propound the Saiva monism. According to Jayaratha, the popular idea of Abhinava's being yognībhū was based upon Abhinava's own authority. For, he, as Jayaratha interprets, refers to this fact in the very first verse of the Tantrāloka. 
 
 - 1. T. A. Comm., I, 14-5.LIFE OF ABHINAVAGUPTA
 
@@ -76,7 +76,7 @@ The era, used in the works of Kashmir writers from the earliest time, is known a
 
 It states that he finished the Brhatī Vimarsinī in the 90th year when 4115 years of Kali had elapsed. This year (1934) it is the 5035th year of the Kali and the 5010th year of the Saptarsi era, as any almanac will show. If we deduct 25 out of the figures, which stand for the Kali era at present, they will show the Saptarsi year. This shows that the word "navatitame" in the above quotation stands for 4090th of the Saptarsi era just as 34th, used to-day, would naturally mean 1934th A. D.+++(5)+++ 
 
-There are two more works of Abhinava in which the dates of composition are given. One is the Bhairava Stava (appendix C) which was written on the 10th day of the darker half of Pauṣa in the year 68. And the other is the Krama Stotra (Appendix C) which was composed in praise of Siva on the 9th day of the darker half of Mārgaśīrṣa in the year 66. 
+There are two more works of Abhinava in which the dates of composition are given. One is the Bhairava Stava (appendix C) which was written on the 10th day of the darker half of Pauṣa in the year 68. And the other is the Krama Stotra (Appendix C) which was composed in praise of śiva on the 9th day of the darker half of Mārgaśīrṣa in the year 66. 
 
 The years of composition of these Stotras refer to the Saptarṣi era. The dates, therefore, of the earliest and the latest known works of Abhinava clearly show that the period of his literary activity extended over a quarter of a century from 4066 to 4090 of the Saptarsi era i. e. 990-1-1014 15 A. D. 
 
@@ -84,97 +84,83 @@ The years of composition of these Stotras refer to the Saptarṣi era. The dates
 
 There is no reason to believe that the Krama Stotra, though the earliest of the known dated works of Abhinava, was his first work. More on this point will be found in the chapter dealing with his works. It seems, therefore, that he began his literary career five years earlier i. e. in 985 A. D. And taking into consideration the extensive study that he made of various branches of learning, not privately but at the houses of so many teachers, and the maturity of style and judgment, found in his earliest work, it will be unreasonable to suppose that he began writing when he was only in his teens or early twenties. It will, therefore, not be wrong to say that he was born between 950 and 960 A. D. 
 
-HIS CHILDHOOD AND EDUCATION. 
+## HIS CHILDHOOD AND EDUCATION. 
 
-As a child he was sent to a neighbouring Pāthaśālā, located in a second story. Even there he showed signs of his future greatness, and deeply impressed his teachers with his exceptional intellectual power and fluency in speech. His name is ample testimony to that. It is said that the name Abhinavaguptapāda, by which our great writer is known, is not that which was given him by his parents but that which he received from his teachers in early school days for no other reason than that he was an intellectual giant and as such was an object of terror, like a serpent, to his young school fellows. This is what, according to Vāmanācārya, the author of the Bālabodhini, a commentary on the Kāvyaprakāśa, Mammaṭa means to convey by referring to our Abhinava as Abhinavaguptapāda” in his work. To this very fact Abhinava himself most probably refers in the following line : 
+As a child he was sent to a neighbouring Pāthaśālā, located in a second story. Even there he showed signs of his future greatness, and deeply impressed his teachers with his exceptional intellectual power and fluency in speech. His name is ample testimony to that. It is said that the name Abhinava-guptapāda, by which our great writer is known, is not that which was given him by his parents but that which he received from his teachers in early school days for no other reason than that he was an intellectual giant and as such was an object of terror, like a serpent, to his young school fellows.+++(5)+++ This is what, according to Vāmanācārya, the author of the Bālabodhini, a commentary on the Kāvyaprakāśa, Mammaṭa means to convey by referring to our Abhinava as "Abhinava-guptapāda” in his work. To this very fact Abhinava himself most probably refers in the following line : 
 
-«Abhinavaguptasya kệtih seyam yasyoditā gurubhi rākhyā." 
-
-T. A., I, 50. 
+> "Abhinavaguptasya kr̥tih seyam yasyoditā gurubhir ākhyā." T. A., I, 50. 
 
 1. B. B., 95 
 
-LIFE OF ABHINAVAGUPTA. 
+## ABHINAVAGUPTA, AN INCARNATION OF śēṣa, 
 
-ABHINAVAGUPTA, AN INCARNATION OF SEṣA, 
+In South India there is a tradition, current among those who even now dance in strict accordance with the rules, given by Bharata in his Natya Sastra, that Abhinavagupta-pāda was an incarnation of śeṣa. This tradition seems to be another and later interpretation of the name "Abhinava-guptapāda".+++(5)+++ It was most probably suggested by the great reputation that he enjoyed, like Patañjali alias śeṣa, for his thorough mastery of all the intricacies of grammar and his extraordinary skill and originality in dealing with the difficult grammatical problems.+++(4)+++ To his great proficiency in grammar he himself refers in the Tantrāloka as follows: 
 
-In South India there is a tradition, current among those who even now dance in strict accordance with the rules, given by Bharata in his Natya Sastra, that Abhinavagupta pāda was an incarnation of Seṣa. This tradition seems to be another and later interpretation of the name "Abhina vaguptapāda". It was most probably suggested by the great reputation that he enjoyed, like Patamjali alias Seṣa, for his thorough mastery of all the intricacies of grammar and his extraordinary skill and originality in dealing with the difficult grammatical problems. To his great proficiency in grammar he himself refers in the Tantrāloka as follows: 
+> “Pitrā sa śabda-gahane krta-sampraveśaḥ." T. A., Ah. 37. (MS.) 
 
-“Pitrā sa sabdagahane krtasampraveśah." 
+In this quotation the words "gahane" and "sam" are of special significance. This tradition found general acceptance among later generations, because it was imagined to have the support of his teachers also who gave him the epithet, Abhinava-guptapāda, which can, without the least fear of contradiction, be interpreted as new Sesa." 
 
-T. A., Ah. 37. (MS.) In this quotation the words "gahane" and "sam" are of special significance. This tradition found general acceptance among later generations, because it was imagined to have the support of his teachers also who gave him the epithet, Abhinavaguptapada, which can, without the least fear of contradiction, be interpreted as new Sesa." 
+## HIS TEACHERS. 
+Great was his love of learning and endless and incessant was his endeavour for its acquisition. Knowledge for its own sake' was his motto. This he preached both by personal example and precept, as found in the T. A., VIII, 205-6. He held that even though one may be lucky enough to get a teacher who has attained perfection himself and can easily show the way to it to his disciple also, yet that is not sufficient reason for not approaching other teachers for the knowledge of other Agamas and other paths.+++(5)+++ This he has given as the only reason for his waiting upon teachers of other religions such as Buddhism and Jainism. (1. T. A., VIII, 206.) 
 
-HIS TEACHERS. Great was his love of learning and endless and incessant was his endeavour for its acquisition. Knowledge for its own sake' was his motto. This he preached both by personal example and precept, as found in the T. A., VIII, 205-6. He held that even though one may be lucky enough to get a teacher who has attained perfection himself and can easily show the way to it to his disciple also, yet that is not sufficient reason for not approaching other teachers for the knowledge of other Agamas and other paths. This he has given as the only reason for his waiting upon teachers of other religions such as Buddhism and Jainism. 1 
 
-1. T. A., VIII, 206. 
+He approached the best teachers of his time in different subjects for the traditional and the most authoritative information. Such was his humility and devotion to them that they, out of sheer love for him, told him all the secrets of learning in their possession,+++(5)+++ and so well did he learn and retain all that he was taught and so well did he impress his teachers with his extensive study that all of them unanimously declared him to be an all-round ācārya. 
 
-2 
+So insatiable was his thirst for learning that he found all its fountain heads in Kashmir insufficient to quench it. He, therefore, went outside the beautiful land of Kaśyapa in quest of a bigger fountain head. How many places outside the valley of Kashmir he visited and how many learned teachers he waited upon, there is no evidence just at present in hand to show. There is, however, no doubt that he went to Jalandhara2 and learnt Kaulika3 literature and practices from śambhunātha. In fact it was through Sambhunātha's teaching that he got peace and attained self-realisation. 
 
-CHAPTER I. 
-
-H 
-
-. 
-
-He approached the best teachers of his time in different subjects for the traditional and the most authoritative information. Such was his humility and devotion to them that they, out of sheer love for him, told him all the secrets of learning in their possession, and so well did he learn and retain all that he was taught and so well did he impress his teachers with his extensive study that all of them unanimously declared him to be an all-round ācārya. 
-
-So insatiable was his thirst for learning that he found all its fountain heads in Kashmir insufficient to quench it. He, therefore, went outside the beautiful land of Kaśyapa in quest of a bigger fountain head. How many places outside the valley of Kashmir he visited and how many learned teachers he waited upon, there is no evidence just at present in hand to show. There is, however, no doubt that he went to Jalandhara? and learnt Kaulika3 literature and practices from Sambhunātha. In fact it was through Sambhunātha's teaching that he got peace and attained self-realisation. 
+- 1. T. A., Ah. 37 (MS.)
+- 2. T. A., Comm., I, 236.
+- 3. T. A., Comm., I, 31.
+- 4. T. A., I, 51.
 
 The following is the list of his teachers with the subject or subjects, which they taught, shown against each name : 
 
-1. Narasimhagupta 5 Grammar 
+- 1. Narasimhagupta 5 Grammar (his father) 
+- 2. Vāmanātha 6 Dvaitādvaita Tantras. 
+- 3. Bhūtirāja-tanaya 7 Dualistic Saivaism. 
+- 4. Bhūtirāja 8 Brahmavidyā. 
+- 5. Lakṣmanagupta 1 Krama and Trika Darsanas. 
+- 6. Indurāja 2  Dhvani. 
+- 7. Bhatta Tota 3 Dramaturgy.
 
-(his father) 2. Vāmanātha 
 
-Dvaitādvaita Tantras. 3. Bhūtirājatanaya? Dualistic Saivaism. 4. Bhūtirājas 
+- 5. T. A., Ah. 37 (MS.) 
+- 6, 7, 8 T. A., Ah. 37. (MS) 
+- 1. T. A., Comm., III, 194.
+- 2. Dh. L., I.
+- 3. A. Bh., 1.
 
-Brahmavidyā. 
 
-1. T. A., Ah. 37 (MS.) 2. T. A., Comm., I, 236. 4. T. A., I, 51. 
 
-3. T. A., Comm., I, 31. 5. T. A., Ah. 37 (MS.) 
+Others in whose cases subjects are not specified : 
+- 8. Sricandra. (T. A., Ah. 37. (MS.))
+- 9. Bhakti-Vilāsa. 
+- 10. Yogānanda. 
+- 11. Candra-vara. 
+- 12. Abhinanda. 
+- 13. śivabhakti. 
+- 14. Vicitranātha. 
+- 15. Dharma. 
+- 16. śiva. 
+- 17. Vāmana. 
+- 18. Udbhaṭa. 
+- 19. Bhūtīśa. 
+- 20. Bhāskara. 
 
-torio 
+## HIS FAMILY AND ITS ATMOSPHERE. 
 
-T. A., Ah. 37. (MS) 
+Besides his father and mother, his family consisted of an uncle, Vāmana-gupta, a younger brother, Manoratha, and five cousins, Kṣema, Utpala, Abhinava, Cakraka and Padma-gupta. His uncle's name is included in the list of his teachers. In the Abhinava Bhāratī, Abhinava quotes his uncle who, therefore, seems to have written on poetics.+++(4)+++ His brother was deeply learned in all Sāstras and was the first to be favoured by Abhinava by being accepted as his disciple. 
 
-LIFE OF ABHINAVAGUPTA 
+- 5. A. Bh., 297.
+- 6. T. A., Ah. 37. (MS.)
 
-5. Lakṣmanagupta? 6. Indurāja? 7. Bhatta Tota 
-
-Krama and Trika Darsanas. Dhvani. Dramaturgy. 
-
-Others in whose cases subjects are not specified : 8. Sricandra. 
-
-9. Bhakti Vilāsa. 10. Yogānanda. 
-
-11. Candravara. 12. Abhinanda. 
-
-13. Sivabhakti. 14. Vicitranātha. 
-
-15. Dharma. 16. Siva. 
-
-17. Vāmana. 18. Udbhața. 
-
-19. Bhūtīśa. 20. Bhāskara. 
-
-HIS FAMILY AND ITS ATMOSPHERE. 
-
-Besides his father and mother, his family consisted of an uncle, Vāmanagupta, a younger brother, Manoratha, and five cousins, Kṣema, Utpala, Abhinava, Cakraka and Padmagupta. His uncle's name is included in the list of his teachers. In the Abhinava Bhāratī, Abhinava quotes his uncle who, therefore, seems to have written on poetics. His brother was deeply learned in all Sāstras and was the first to be favoured by Abhinava by being accepted as his disciple. And if the name Kṣema be supposed to stand for Kṣemarāja, the author of the Spanda Nirnaya and other works on Saivaism, and the others, classed with him, be also supposed to have had more or less similar qualities, then his cousins also seem to have been very highly educated. Whatever may have been their education, there is no doubt that they prized devotion 
-
-1. T. A., Comm., III, 194. 3. A. Bh., 1. 5. A. Bh., 297. 
-
-2. Dh. L., I. 4. T. A., Ah. 37. (MS.) 6. T. A., Ah. 37. (MS.) 
-
-CHAPTER 1. 
-
-to Siva above all things and considered all their wealth to be no better than a straw. Thus the whole family atmosphere was surcharged with the spirit of renunciation, zeal for advanced study and above all devotion to Siva. There was left nothing to be desired in the atmosphere, in which he passed his childhood, for the development of a healthy brain and of a spirit necessary for the great work that he had before him. 
+And if the name Kṣema be supposed to stand for Kṣemarāja, the author of the Spanda Nirnaya and other works on Saivaism, and the others, classed with him, be also supposed to have had more or less similar qualities, then his cousins also seem to have been very highly educated. Whatever may have been their education, there is no doubt that they prized devotion to śiva above all things and considered all their wealth to be no better than a straw. Thus the whole family atmosphere was surcharged with the spirit of renunciation, zeal for advanced study and above all devotion to śiva. There was left nothing to be desired in the atmosphere, in which he passed his childhood, for the development of a healthy brain and of a spirit necessary for the great work that he had before him. 
 
 SOME EVENTS IN THE FAMILY AND THEIR EFFECT ON 
 
 HIS YOUNG MIND 
 
-His mother was extremely dear to him. It was she alone who made home sweet for him. But unfortunately, or, as Abhinava took it, fortunately, she was snatched away by the cruel hands of death when he was a mere child.? Home, therefore, lost most of its charm for him, but not all, because his father was still there. To him he was tied with a double cord of filial and pupilary love. But soon after the death of his mother, his father also, though still young, renounced the world and took to a life of asceticism. These events seem to have taken place when he was studying literature (Sahitya). They turned his mind from all worldly attachments to devotion to Siva, so much so that he made up his mind never to marry'. That was the turning point in his life. That was the end of his literary study and life at home. Thenceforward, in order to feed his suddenly kindled flame of devotion with the oil of the āgamic lore, he spent his time in the houses of his āgamic teachers. His Tantraloka is a living testimony of the great zeal with which he pursued the study of the āgamas and of the unparalleled proficiency which he acquired in them. 
+His mother was extremely dear to him. It was she alone who made home sweet for him. But unfortunately, or, as Abhinava took it, fortunately, she was snatched away by the cruel hands of death when he was a mere child.? Home, therefore, lost most of its charm for him, but not all, because his father was still there. To him he was tied with a double cord of filial and pupilary love. But soon after the death of his mother, his father also, though still young, renounced the world and took to a life of asceticism. These events seem to have taken place when he was studying literature (Sahitya). They turned his mind from all worldly attachments to devotion to śiva, so much so that he made up his mind never to marry'. That was the turning point in his life. That was the end of his literary study and life at home. Thenceforward, in order to feed his suddenly kindled flame of devotion with the oil of the āgamic lore, he spent his time in the houses of his āgamic teachers. His Tantraloka is a living testimony of the great zeal with which he pursued the study of the āgamas and of the unparalleled proficiency which he acquired in them. 
 
 1. T. A., Ah. 37. (MS.) 3. T. A., Ah. 37. (MS.) 
 
@@ -200,7 +186,7 @@ CHAPTER I.
 
 on the three systems which are known in the Saiva philoso phical literature as the Krama, the Trika (of which Praty abhijñā is only a branch) and the Kula. 
 
-When from the study of literature his mind suddenly turned to devotion to Siva, it was Lakṣmanagupta who first gave him intellectual satisfaction by feeding him with intellectual food in the form of an exposition of the Pratya bhijñāl. He taught Abhinava Krama Darśana also. This fact Jayaratha has established after a long controvertial discussion in his commentary on the Tantrāloka. There is circumstantial evidence enough to believe that he was taught Krama system first. In any case the earliest date of the Krama Stotra, to which reference has already been made, is a clear proof of his having first tried his spiritual experiments in accordance with the Kramic instructions. The attempt was not quite a failure, for, in the Kramakeli, which is probably Abhinava's first known work on the Krama system, he attributes his then spiritual greatness to his following the Kramic teachings. But it did not yield the expected result. He then tried the Trika system, but to what result, there is not enough evidence just at present in hand to show. There is, however, no doubt about this that the result of that also did not perfectly satisfy him, for, it is from the Kula system alone that he affirms to have got perfect satisfaction and peace. Because of this it is that we find in his works a more glowing tribute paid to Sambhunatha, his Kaulic teacher, than to any one else.5 That before writing the Tantraloka he had realised his identity with the Parama Siva and that it was due to 
+When from the study of literature his mind suddenly turned to devotion to śiva, it was Lakṣmanagupta who first gave him intellectual satisfaction by feeding him with intellectual food in the form of an exposition of the Pratya bhijñāl. He taught Abhinava Krama Darśana also. This fact Jayaratha has established after a long controvertial discussion in his commentary on the Tantrāloka. There is circumstantial evidence enough to believe that he was taught Krama system first. In any case the earliest date of the Krama Stotra, to which reference has already been made, is a clear proof of his having first tried his spiritual experiments in accordance with the Kramic instructions. The attempt was not quite a failure, for, in the Kramakeli, which is probably Abhinava's first known work on the Krama system, he attributes his then spiritual greatness to his following the Kramic teachings. But it did not yield the expected result. He then tried the Trika system, but to what result, there is not enough evidence just at present in hand to show. There is, however, no doubt about this that the result of that also did not perfectly satisfy him, for, it is from the Kula system alone that he affirms to have got perfect satisfaction and peace. Because of this it is that we find in his works a more glowing tribute paid to Sambhunatha, his Kaulic teacher, than to any one else.5 That before writing the Tantraloka he had realised his identity with the Parama śiva and that it was due to 
 
 1. M. V.V., 2. 3. T. A. Comm., III, 191-2. 5. T. A., I, 16. 
 
@@ -226,7 +212,7 @@ WA H
 
 P. S., 198. 
 
-alo ama aun nmig "Sivasya paraśreyahsvabhāvasya svātmasthasya cidā- Akti nandaikamürteh yâni caraṇāni cidraśmayah teṣām smaranath sabdādiviṣayagrahanakāle nibhālanam pratiksaṇam svānu bhavāpramosah tena dīptah parāhantācamatkārabhā svaraḥ.. ..................iti upadeṣtuh samā vista maheśvara svabhāvonena uktaḥ syāt." 
+alo ama aun nmig "śivasya paraśreyahsvabhāvasya svātmasthasya cidā- Akti nandaikamürteh yâni caraṇāni cidraśmayah teṣām smaranath sabdādiviṣayagrahanakāle nibhālanam pratiksaṇam svānu bhavāpramosah tena dīptah parāhantācamatkārabhā svaraḥ.. ..................iti upadeṣtuh samā vista maheśvara svabhāvonena uktaḥ syāt." 
 
 This seems to be the foundation of the traditional belief amongst Kashmirian Pandits that Abhinavagupta was Bhairava incarnate. 
 

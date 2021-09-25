@@ -33,7 +33,7 @@ NC S
 Page 
 Name 
 Malini Rudra Tantra Lakṣmaṇagupta 
-Lollata Vayyā Vijñāna Sastra Sankara Nandana Sambhunātha Siva Tantra Siva Drsti Siva Sastra Sāra Sastra Sumati Somānanda Stotra (Bhatta Nārāyana) Spanda Sastra Svacchanda Tantra ... Svacchanda Sastra ... Svatantra Sastra 
+Lollata Vayyā Vijñāna Sastra Sankara Nandana Sambhunātha śiva Tantra śiva Drsti śiva Sastra Sāra Sastra Sumati Somānanda Stotra (Bhatta Nārāyana) Spanda Sastra Svacchanda Tantra ... Svacchanda Sastra ... Svatantra Sastra 
 1 
 12 
 71 131 
@@ -104,7 +104,7 @@ Vivrti (Somānanda) ...
 16, 52, 59 Vīrāvali śāstra ... 
 236 
 Vyāsa 
-51 Siva Drṣti (Somānanda) ... 114, 129, 160, 177, 273 Sīva Drstyālocana (Abhi) 
+51 śiva Drṣti (Somānanda) ... 114, 129, 160, 177, 273 Sīva Drstyālocana (Abhi) 
 116 
 Sesa Muni Sri Lāghādi Sastra 
 201 
@@ -154,7 +154,7 @@ Utpala
 230 Aitareyopaniṣad 
 2 3 
 215 
-96 Kallața 
+96 Kallaṭa 
 142 
 206 
 Kāpila 
@@ -329,16 +329,16 @@ cu o AS
 212 129, 158, 193 
 =35 104, 157, 200 
 13 
-Siva tanu Sāstra 
+śiva tanu Sāstra 
 1 
 1 
 146 
 6 8 
 160, 182, 205, 206, 230 
 166 72 73 
-Sivadrsti Siva Sasana 
+śivadrsti śiva Sasana 
 9 13 1 8 11 13 
-Siva Sutra Seṣa 
+śiva Sutra śeṣa 
 13. 
 ) 
 Name 
@@ -414,7 +414,7 @@ Name
 31 
 34 
 31, 32 
-Vidyāpati Sambhunātha Sivanatha Sri Pūrva Sloka Vārtika ṣadardha Sastra Siddhāmata 
+Vidyāpati Sambhunātha śivanatha Sri Pūrva Sloka Vārtika ṣadardha Sastra Siddhāmata 
 107 
 170, 186 
 (V) 
@@ -479,7 +479,7 @@ Page Jaimineya
 11, 123 Vatsarāja Carita 
 162 Vamana 
 10, 37 Vikramorvaśī 
-175 Viniscaya Țikā Dharmottamā 
+175 Viniscaya ṭikā Dharmottamā 
 188 
 199 
 233(400) 
@@ -521,7 +521,7 @@ Sloka
 11 
 Name 
 Chapter Rahasya Sastra Laghvi Prakriyā (Abhi) 
-12 Veda Sivasaktyavinābhāva Stotra 
+12 Veda śivasaktyavinābhāva Stotra 
 (Abhi) 15 Sivopaniṣad 
 Sruti 
 Satritamātrādhyāya Somānanda Pāda Spanda 
@@ -574,12 +574,12 @@ karavatsa) Vrttikt Veda Veda Siddhānta
 403) 
 Name 
 Vol. 
-Vaiśeṣika Sākya Sivadrṣti 
+Vaiśeṣika Sākya śivadrṣti 
 Page 34, 135 
 243 15, 49 
 271 
 200 
-Siva Sutra ṣadardhasāra Sānkhya 
+śiva Sutra ṣadardhasāra Sānkhya 
 203 34, 42, 70, 91, 135, 
 172, 252 
 135 236 211 2, 47 

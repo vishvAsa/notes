@@ -9,7 +9,7 @@ Introduction List of Abbreviations ...
 ABHINAVAGUPTA. 
 PART I. HISTORICAL 
 CHAPTER I. 
-LIFE OF ABHINAVAGUPTA. Preliminary Two Abhinavaguptas His ancestry His parents Abhinava as a Yoginībhū Probable time of his birth His childhood and education Abhinava as an incarnation of Seṣa His teachers His family and its atmosphere Some events in the family and their effect on his 
+LIFE OF ABHINAVAGUPTA. Preliminary Two Abhinavaguptas His ancestry His parents Abhinava as a Yoginībhū Probable time of his birth His childhood and education Abhinava as an incarnation of śeṣa His teachers His family and its atmosphere Some events in the family and their effect on his 
 young mind His ascetic period His miraculous powers ... Centres of his activity ... The last scene of his earthly existence A bird's-eye view of his life 
 CHAPTER II. 
 HIS WORKS. List of his known works Explanation of the arrangement 
@@ -167,7 +167,7 @@ Page.
 248 
 248 248 
 The conception of the five powers of the Ultimate is 
-common to the Upaniṣads Siva Sakti .. Sadāśiva... Isvara ... Sadvidyā Māyā Kalā ... Vidya Rāga Kāla Niyati Puruṣa The Sānkhya and the Trika concepts of the puruṣa 
+common to the Upaniṣads śiva Sakti .. Sadāśiva... Isvara ... Sadvidyā Māyā Kalā ... Vidya Rāga Kāla Niyati Puruṣa The Sānkhya and the Trika concepts of the puruṣa 
 compared Prakrti ... The Trika and the Sānkhya concepts of the Prakrti 
 compared Buddhi ... The Sānkhya and the Trika concepts of Buddhi 
 compared Ahankāra Manas or mind 

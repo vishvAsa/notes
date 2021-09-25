@@ -57,7 +57,7 @@ S. Bh., 552.
 
 It has, as already pointed out, two aspects, the permanent and the transitory. The consciousness, with the beginningless impurities (malas) and six covers, (kañcukas), which is free from association with body and vital air and is capable of retaining the effects of the external stimuli, received at the time of perception, represents the permanent aspect of the individual consciousness. It is a determinateTHE BASIS OF THE TRIKA THEORY OF KNOWLEDGE 259 
 
-consciousness inasmuch as it is limited, though the limitation is not of any particular kind and, therefore, may be said to be as imaginary as describing a bare piece of land as a place without jar (śünyam bhūtalam ghațābhāvah). 
+consciousness inasmuch as it is limited, though the limitation is not of any particular kind and, therefore, may be said to be as imaginary as describing a bare piece of land as a place without jar (śünyam bhūtalam ghaṭābhāvah). 
 
 This limited consciousness momentarily identifies itself at one time with body, as, for instance, when one has the consciousness "I am fat" at another with vital air as when one feels "I am strong" and at still another with Buddhi as at the time of determinate knowledge "I know this.” Even a lay man knows this identification to be momentary, for, the soul gets dissociated, as all know, from the body in the deep sleep state and from the vital air and the buddhi at the time of a fainting fit. Philosophically speaking, however, the dissociation of self from the object of identification is taking place literally every moment. For, according to the Trika, as according to the Bauddha, every object is momen tary and both the psychological and the physical activities presuppose the identification of the self with the momentary manifestation of the body and the mind. How can, therefore, the activity of either kind be possible unless the renewal of the identification be admitted to be taking place every moment ? Hence the self in its aspect of identification with body etc. is represented to be transitory. 
 
@@ -419,7 +419,7 @@ cinmayatvāt." To clear the point let us quote Bhāskarakantha's explanation of 
 
 "Grahanasamaye bhāvasya māyayā bhāvatvena bhāsita 
 
-nijam sahajaśuddhaprakāśākhyam svarūpameva pra mātāram prati sphuțībhavati, yatah tadā pramātā tadvastu prati diděkṣāsamaye vyāpakībhavati yaduk tam : 
+nijam sahajaśuddhaprakāśākhyam svarūpameva pra mātāram prati sphuṭībhavati, yatah tadā pramātā tadvastu prati diděkṣāsamaye vyāpakībhavati yaduk tam : 
 
 "Didrkṣayeva sarvārthān yadā vyāpyāvatiṣthate Tadā kim bahunoktena svayam evāvabhotsyate" 
 
@@ -433,11 +433,11 @@ CRITICISM OF THE RIVAL THEORIES.
 
 The typical rivals of the above theory of subject-object union, as propounded by Abhinava, are the Mīmāmsakas and the Naiyāyikas. The rival theory of knowledge of the former is known as Prakatatāvāda and that of the latter as Kārana tāvāda. We take them here separately for criticism. 
 
-PRAKAȚATĀVĀDA. This theory is said to have been founded by Bhatta Kumārila. He holds that a phenomenon of knowledge pre supposes some kind of relation between the subject and the object. This relation is brought about by the move ment of the knowing self and is an object of internal perce ption (mānasapratyakṣa) alone. His conception of know ledge is that it is simply an act of the cognisor, which produces cognisedness (jñāta tā) or manifestedness (prakațatā) in the object. The action of the agent, the cognition, is not directly perceptible; it can only be inferred from the quality of cognisedness produced by it in the object. 
+PRAKAṭATĀVĀDA. This theory is said to have been founded by Bhatta Kumārila. He holds that a phenomenon of knowledge pre supposes some kind of relation between the subject and the object. This relation is brought about by the move ment of the knowing self and is an object of internal perce ption (mānasapratyakṣa) alone. His conception of know ledge is that it is simply an act of the cognisor, which produces cognisedness (jñāta tā) or manifestedness (prakaṭatā) in the object. The action of the agent, the cognition, is not directly perceptible; it can only be inferred from the quality of cognisedness produced by it in the object. 
 
 (Ittham tadvādah : 
 
-Jñānam nāma kriyā, sā ca phalānumeyā phalam ca prakațatākhyam viṣayadharmah saiva vedyatā iti Kaumārilah procuh 
+Jñānam nāma kriyā, sā ca phalānumeyā phalam ca prakaṭatākhyam viṣayadharmah saiva vedyatā iti Kaumārilah procuh 
 
 I. P. V., I, 155). He is a dualist and, therefore, in order to maintain the independent existence of the object, he denies the self-luminosity to knowledge. He cannot either admit the cognition to be directly cognisable, for, it would then require another cognition to cognise it and that too another still and so on ad-infinitum. His theory, therefore, 
 
