@@ -140,7 +140,7 @@ This authority was probably a recent one, and, therefore, was perhaps disputed. 
 
 In the introduction to the Mrgendra Tantra occurs the following quotation, giving the names of the ten Siva Tantras. This authority is different from that quoted by Jayaratha : 
 
-*Kāmikam Yogajam vātha tathā Cintyaśca Kāraṇam Ajitam Dīpta Sūkṣmau ca Sahasrasca tathāṁśumān Suprabhedastathā hyete saivāh samparikīrtitah." 
+\*Kāmikam Yogajam vātha tathā Cintyaśca Kāraṇam Ajitam Dīpta Sūkṣmau ca Sahasrasca tathāṁśumān Suprabhedastathā hyete saivāh samparikīrtitah." 
 
 Introd., Mr. T., P. 2. 
 
@@ -330,7 +330,7 @@ It has been pointed out in the preceding two paragraphs that the old religion of
 
 CHAPTER III 
 
-with a special inclination towards ritualistic Saivaism. It was purely a traditional faith and had no literature of its own at the time of the advent of Buddhism in Kashmir in the reign of Asoka (273-232 B. C.). But so wise was then the way in which Buddhism was spread, so non interfering was the religious policy and so judicious was the royal patronage of different religions that Brāhmanas did not very much feel the advent of the new religion. Antagonism of Brahmaņas, however, was aroused when in consequence of Kaniska's gift (125-60 A. D.) of Kashmir to Buddhistic Church*, Nāgārjuna came to power and began to use his power of both learning and position to spread Buddhism. The fact that this was the time when the struggle between Buddhism and Saivaism began seems to find support in the tradition recorded by Varadarāja in the following introductory verse to his Vārtika on Vasugupta's Siva Sūtras : 
+with a special inclination towards ritualistic Saivaism. It was purely a traditional faith and had no literature of its own at the time of the advent of Buddhism in Kashmir in the reign of Asoka (273-232 B. C.). But so wise was then the way in which Buddhism was spread, so non interfering was the religious policy and so judicious was the royal patronage of different religions that Brāhmanas did not very much feel the advent of the new religion. Antagonism of Brahmaņas, however, was aroused when in consequence of Kaniska's gift (125-60 A. D.) of Kashmir to Buddhistic Church\*, Nāgārjuna came to power and began to use his power of both learning and position to spread Buddhism. The fact that this was the time when the struggle between Buddhism and Saivaism began seems to find support in the tradition recorded by Varadarāja in the following introductory verse to his Vārtika on Vasugupta's Siva Sūtras : 
 
 "Nāgabodhyādibhih siddhair nāstikānām purahsaraih 
 
@@ -344,7 +344,7 @@ R. T., I, 175.
 
 The immediate effect of this was that the teachings of the local religion, which were till then simply a matter of Hoating traditions, were systematised for the first time by a pious Brāhmaṇa ascetic, Candradeva. This in our opinion is the one historical truth in Kalhana's story of the destruc tive snow-fall sent by Nīla, enraged at the abeyance of religious rights prescribed in the Nīla Purāņa in consequence 
 
-* R. T., Ch. I, 177-8.at brich seems 
+\* R. T., Ch. I, 177-8.at brich seems 
 
 and one of the hat wall i 
 
@@ -650,7 +650,7 @@ z va a dece 6 . y. 3 12. VIVRTI, de ezaa nae
 
 ynarza 
 
-Son This is supposed to have been Somānanda's commentary s. v. on his own Sivadrsti. Dr. Stein, however, is of opinion that and no such work was written by him (Introd. XLII Jammu Cat.) *** 
+Son This is supposed to have been Somānanda's commentary s. v. on his own Sivadrsti. Dr. Stein, however, is of opinion that and no such work was written by him (Introd. XLII Jammu Cat.) \*\*\* 
 
 3. PARĀTRIMŚIKĀ VIVRTI. SCR do 
 
@@ -990,7 +990,7 @@ It is apparent from what has been stated above that the theory of the later inte
 
 Bharata is very frank in stating that all the information that he gives on gesticulation was got from Tandu : 
 
-*Tato ye Tandunā proktās tvangahārā mahātmanā. Nānākaranasamyuktān vyākhyāsyāmi sarecakān." 
+\*Tato ye Tandunā proktās tvangahārā mahātmanā. Nānākaranasamyuktān vyākhyāsyāmi sarecakān." 
 
 Bh. Sū., Ch. IV, 18-9. On this there is a very important comment of Abhi. navagupta, which explains the identity of Tandu. According to this, Tandu is another name of Nandi as Muni 
 
@@ -1124,7 +1124,7 @@ Abhinavagupta, in his commentary on Bharata's Nātya Sastra, refers to Nanyadeva
 
 "Uktam Nānyadevena sva-Bharatabhāṣye : - 
 
-*Atra varnaśabdena gitirabhidhiyate nākṣaraviśeṣah, nāpi sadjā disaptasvarāh padagrāme tvaniyamādeva 
+\*Atra varnaśabdena gitirabhidhiyate nākṣaraviśeṣah, nāpi sadjā disaptasvarāh padagrāme tvaniyamādeva 
 
 HISTORICAL BACKGROUND OF HIS THOUGHT 
 
@@ -1270,7 +1270,7 @@ HISTORICAL BACKGROUND OF HIS THOUGHT
 
 131 
 
-Lakṣaņā. Among those of the first class are included also those, who believed that there was something like Dhvani, though they could not properly define it. Before the writer of the Dhvani Kārikā, there was no book presenting the views of either the exponents or the opponents. This, however, does not mean that the earlier thinkers of Sanskrit poetics had no idea of Dhvani. The fact, on the contrary, is that the theory was well formulated and had its opponents too, long before the time of the Kārikā, but all that was simply a matter of oral tradition handed down from generation to generation. The thinkers of the third school, in marked contrast with the above two, more or less, recorded their views in the books, which we still possess. To this class belong such early writers on poetics as Bhatta Udbhata, and Vāmana.* The view of the school of opponents also had begun to be systematised before Ananda Vardhana wrote his work, as is apparent from a quotation attributed to a poet, Manoratha, who, according to Abhinava, was Ananda Vardhana's contemporary.5 But it appears from Abhinava's wording that only stray verses were written by one writer here and another there, and that there was no book presenting the opponents' views systematically, for, he seems to have purposely used the word "Sloka". It was only after Ananda Vardhana's learned exposition of Dhvani in his Dhvanyāloka, that there appeared two books of the opponents' school, one from the pen of Bhatta Nāyaka, whom Abhinava so much criticises, and the other from that of Mahima Bhatta, who was probably Abhinava's successor or younger contemporary. 
+Lakṣaņā. Among those of the first class are included also those, who believed that there was something like Dhvani, though they could not properly define it. Before the writer of the Dhvani Kārikā, there was no book presenting the views of either the exponents or the opponents. This, however, does not mean that the earlier thinkers of Sanskrit poetics had no idea of Dhvani. The fact, on the contrary, is that the theory was well formulated and had its opponents too, long before the time of the Kārikā, but all that was simply a matter of oral tradition handed down from generation to generation. The thinkers of the third school, in marked contrast with the above two, more or less, recorded their views in the books, which we still possess. To this class belong such early writers on poetics as Bhatta Udbhata, and Vāmana.\* The view of the school of opponents also had begun to be systematised before Ananda Vardhana wrote his work, as is apparent from a quotation attributed to a poet, Manoratha, who, according to Abhinava, was Ananda Vardhana's contemporary.5 But it appears from Abhinava's wording that only stray verses were written by one writer here and another there, and that there was no book presenting the opponents' views systematically, for, he seems to have purposely used the word "Sloka". It was only after Ananda Vardhana's learned exposition of Dhvani in his Dhvanyāloka, that there appeared two books of the opponents' school, one from the pen of Bhatta Nāyaka, whom Abhinava so much criticises, and the other from that of Mahima Bhatta, who was probably Abhinava's successor or younger contemporary. 
 
 1. Dh. L., 3. 2. Dh. L., 3. 3. Dh. L., 3. 4. Dh. L., 10. 5. Dh. L., 8. 
 

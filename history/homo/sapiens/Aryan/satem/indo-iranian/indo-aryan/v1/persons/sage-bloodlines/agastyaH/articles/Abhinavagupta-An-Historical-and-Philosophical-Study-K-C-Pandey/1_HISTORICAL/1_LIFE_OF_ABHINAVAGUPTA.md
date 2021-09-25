@@ -11,47 +11,46 @@ Abhinava, it appears, knew the importance of biographical information about a wr
 
 The Abhinavagupta, studied in the following pages, is a different person from his namesake who was a śākta contemporary of Sankarācārya. The only source of information about the other Abhinavagupta is the Sankara Digvijaya of Mādhava, which is noticed under a slightly different name "Sūkṣma Sankara Vijayas" in Dr. Aufrecht's catalogue. It gives the following account of him : 
 
-He belonged to Kāmarūpa (Assam). He was a śākta and wrote a śāktabhāṣya, probably a commentary on the Vedānta Sūtra of Bādarāyaṇa, from the śākta point of view. He was a great opponent of the monistic theory of Sankara. He engaged Sankara in a controversial dis cussion (śāstrārtha) when the latter reached Assam in the course of his Digvijaya. In that he was defeated and so, according to the then prevalent practice, became a disciple of the victor. Like our Kashmirian Abhinavagupta, his śākta namesake also is referred to as an ācārya”. 
+He belonged to Kāmarūpa (Assam). He was a śākta and wrote a śāktabhāṣya, probably a commentary on the Vedānta Sūtra of Bādarāyaṇa, from the śākta point of view. He was a great opponent of the monistic theory of Sankara. He engaged Sankara in a controversial discussion (śāstrārtha) when the latter reached Assam in the course of his Digvijaya. In that he was defeated and so, according to the then prevalent practice, became a disciple of the victor. Like our Kashmirian Abhinavagupta, his śākta namesake also is referred to as an "ācārya”. 
 
-Our object in giving the above account is to point out that if Mādhava's testimony in reference to the śākta Abhinavagupta is to be considered reliable, he should not be confused with the Saiva Abhinavagupta of Kashmir. Their distance from each other is about two centuries. The former, if he was Sankara’s contemporary, must have lived in the last quarter of the 8th and the first half of the 9th century A. D., for, according to the generally accepted opinion, Sankara lived from 788 to 820 A. D.; and the latter, on the evidence of the dates of composition of the Krama and the Bhairava Stotras and the Brahati Vimarsini, given by the author himself, belonged to the second 
+- 1. Ś. D., ch. XV S. 158. 
+- 2. Ś. D. comm., ch. XV Ś. 158.
 
-1. Ś. D., ch. XV S. 158. 2. Ś. D. comm., ch. XV Ś. 158. 
+Our object in giving the above account is to point out that if Mādhava's testimony in reference to the śākta Abhinavagupta is to be considered reliable, he should not be confused with the Saiva Abhinavagupta of Kashmir. Their distance from each other is about two centuries. The former, if he was Sankara’s contemporary, must have lived in the last quarter of the 8th and the first half of the 9th century A. D., for, according to the generally accepted opinion, Sankara lived from 788 to 820 A. D.; and the latter, on the evidence of the dates of composition of the Krama and the Bhairava Stotras and the Brahati Vimarsini, given by the author himself, belonged to the second half of the 10th and the first quarter of the 11th century A. D. In view of these facts we fail to understand why Dr. Aufrecht has included the śāktabhāṣya in the list of Kashmirian Abhinavagupta's works in his Catalogus Catalogorum.+++(4)+++ This work, according to his own statement : "śāktabhāṣya, Quoted by Mādhava. Oxf 258b" (C. C., P. 25) is no other than the one, the authorship of which is attributed to the Sakta Abhinavagupta by Mādhava, as we have stated above. For, on page 258 of Catalogi Condicum Manuscriptum containing an extract from the Sankara Digvijaya which is referred to by our learned Doctor in the above quotation from Catalogus Catalogorum P. 25, the same passage is given as that on which our own account of the śākta Abhinavagupta is based. It runs as follows: 
 
-LIFE OF ABHINAVAGUPTA 
-
-3 
-
-half of the 10th and the first quarter of the 11th century A. D. In view of these facts we fail to understand why Dr. Aufrecht has included the śāktabhāṣya in the list of Kashmirian Abhinavagupta's works in his Catalogus Catalogo rum. This work, according to his own statement : "śāktabhāṣya, Quoted by Mādhava. Oxf 258b" (C. C., P. 25) is no other than the one, the authorship of which is attributed to the Sakta Abhinavagupta by Mādhava, as we have stated above. For, on page 258 of Catalogi Condicum Manuscriptum containing an extract from the Sankara Digvijaya which is referred to by our learned Doctor in the above quotation from Catalogus Catalogorum P. 25, the same passage is given as that on which our own account of the śākta Abhinavagupta is based. It runs as follows: 
-
-Tadanantarameṣa Kamarūpān Adhigatyābhinavopaśabdaguptam Ajayat kila śāktabhāṣyakāram Sa ca bhagno manasedamāluloce 
-
-Oxf 2586 
+> Tad-anantaram eṣa Kamarūpān  
+> Adhi-gatyābhinavopaśabda-guptam  
+> ajayat kila śākta-bhāṣya-kāram  
+> Sa ca bhagno manasedam āluloce  
+> Oxf 2586 
 
 We now leave it to our readers to form their own conclusion on this point. 
 
-HIS ANCESTRY. 
+## HIS ANCESTRY. 
 
-The earliest ancestor of Abhinava, so far known to us, was Atrigupta. He lived in Antarvedi, the region between the Ganges and Yamuna, in the reign of king Yaśovarman of Kannauj (Circa 730-740 A. D.*)). He attained a very great fame for erudition in all the branches of learning in general and in the Saiva Sāstras in particular. King Lalitāditya of Kashmir (Circa 725-761) was so much 
+The earliest ancestor of Abhinava, so far known to us, was Atrigupta. He lived in Antarvedi, the region between the Ganges and Yamuna, in the reign of king Yaśovarman of Kannauj (Circa 730-740 A. D.\*)). He attained a very great fame for erudition in all the branches of learning in general and in the Saiva Sāstras in particular. King Lalitāditya of Kashmir (Circa 725-761) was so much 
 
-1. P.T. V., 280. * E. H. I., 386. 
 
 CHAPTER 1. 
 
 impressed with his scholarship and so eager did he become to take him (Atrigupta) to his capital that soon after the conquest of King Yaśovarman he approached and requested Atrigupta to accompany him to Kashmir. And so earnest was the request that Atrigupta could not but accede to it. 
 
-Thus the family, which after about two centuries, was to produce the Saiva Abhinavagupta, migrated from Kānyakubja to Kashmir. Therea spacious house was soon built by the king's order on a plot opposite the temple of Sitārśumaulin on the bank of river Vitastā (Jhelum) for the immigrant family to permanently settle, and a big jāgir was granted for its proper maintenance. After Atrigupta, we know nothing of the family for about hundred and fifty years. Abhinava has evidently left a gap between his earliest known ancestor, who migrated to Kashmir very shortly after king Lalitāditya's victory over Yaśovarman of Kannauj about 740 A. D. and his grand father Varāhagupta, whom we cannot place earlier than the beginning of the 10th century A. D. The language of the text, on which our conclusion is based, leaves very little doubt on this point. To show the distance of time between Atrigupta and Varāhagupta there is used the word "anvaya” (family) 3. In marked contrast with this, we find the word "ātmaja" used, to indicate the immediate descent of Cukhulaka, the father of Abhinava, from Varāhagupta. From the very brief description of the latter, it is evident that the successive generations had maintained the scholastic traditions of the learned family and that he (Varāhagupta) also was a great scholar and devout worshipper of Siva. 
+1. P.T. V., 280. 
+2. \\* E. H. I., 386.
 
-1. T. A., Ah. 37 (MS.) 2. T. A., Ah. 37 MS. 3. T. A., Ah. 37 (MS.) 
+Thus the family, which after about two centuries, was to produce the Saiva Abhinavagupta, migrated from Kānyakubja to Kashmir. There a spacious house was soon built by the king's order on a plot opposite the temple of Sitāṁśu-maulin on the bank of river Vitastā (Jhelum) for the immigrant family to permanently settle, and a big jāgir was granted for its proper maintenance. After Atrigupta, we know nothing of the family for about hundred and fifty years. Abhinava has evidently left a gap between his earliest known ancestor, who migrated to Kashmir very shortly after king Lalitāditya's victory over Yaśovarman of Kannauj about 740 A. D. and his grand father Varāha-gupta, whom we cannot place earlier than the beginning of the 10th century A. D. The language of the text, on which our conclusion is based, leaves very little doubt on this point. To show the distance of time between Atrigupta and Varāhagupta there is used the word "anvaya” (family) 3. In marked contrast with this, we find the word "ātmaja" used, to indicate the immediate descent of Cukhulaka, the father of Abhinava, from Varāhagupta. From the very brief description of the latter, it is evident that the successive generations had maintained the scholastic traditions of the learned family and that he (Varāhagupta) also was a great scholar and devout worshipper of Siva. 
 
-LIFE OF ABHINAVAGUPTA 
+- 1. T. A., Ah. 37 (MS.) 
+- 2. T. A., Ah. 37 MS. 
+- 3. T. A., Ah. 37 (MS.) 
 
-HIS PARENTS. 
+## HIS PARENTS. 
 
-His father, Narasimhagupta, alias Cukhulaka, was of great intellectual calibre, had equal proficiency in all the Sāstras and was a great devotee of Siva. The name of his mother was Vimalakalā 1. She was a very pious and religious lady. They were a happy couple and attended to household duties not because of any worldly attachment to them but simply because they were enjoined by the scripture. The family atmosphere was thus thoroughly religious and scholarly. 
+His father, Narasimha-gupta, alias Cukhulaka, was of great intellectual calibre, had equal proficiency in all the Sāstras and was a great devotee of Siva. The name of his mother was Vimalakalā 1. She was a very pious and religious lady. They were a happy couple and attended to household duties not because of any worldly attachment to them but simply because they were enjoined by the scripture.+++(5)+++ The family atmosphere was thus thoroughly religious and scholarly. 
 
 In view of the facts stated above and supported by the authority of Abhinavagupta himself, quoted in full in Appendix (A), the statement of Pandit Madhusudan Kaul of the Kashmir Research Department in his introduction to the I. P. V., Vol. II, P. 7 about the name of Abhinava's father requires correction. His statement runs as follows: 
 
-*He received instruction in the Pratyabhijñā śāstra from his father Laksmanagupta, son of Narasimhagupta and pupil to Utpala" 
+\*He received instruction in the Pratyabhijñā śāstra from his father Laksmanagupta, son of Narasimhagupta and pupil to Utpala" 
 
 Lakṣmanagupta, though undoubtedly a teacher of Abhinava in Pratyabhijñā was certainly not his father; nor was there a relation of father and son between Narasimha gupta and Lakṣmanagupta. The father of the latter, according to the following statement of Abhinaya, was Utpalācārya : 
 

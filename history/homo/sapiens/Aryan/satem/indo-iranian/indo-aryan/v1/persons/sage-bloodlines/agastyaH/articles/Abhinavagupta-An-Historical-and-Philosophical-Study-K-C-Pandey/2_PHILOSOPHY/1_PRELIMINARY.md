@@ -396,7 +396,7 @@ It is a path in which the perfect knowledge, the knowledge of the Ultimate Reali
 
 ANUPAYA-MĀRGA OR ANANDOPĀYA. 
 
-It is the same as we have discussed above under "Pratyabhijñā". It is called Anupāya, not because there is no use of any means whatsoever*, but because the elaborate means are but of little importance. It is that path by following which the Ultimate is realised even without Bhāvanā. The realisation of the Ultimate comes to the 
+It is the same as we have discussed above under "Pratyabhijñā". It is called Anupāya, not because there is no use of any means whatsoever\*, but because the elaborate means are but of little importance. It is that path by following which the Ultimate is realised even without Bhāvanā. The realisation of the Ultimate comes to the 
 
 1. T. A., I, 235. 3. T. A., Ah. II, 39.40. 
 

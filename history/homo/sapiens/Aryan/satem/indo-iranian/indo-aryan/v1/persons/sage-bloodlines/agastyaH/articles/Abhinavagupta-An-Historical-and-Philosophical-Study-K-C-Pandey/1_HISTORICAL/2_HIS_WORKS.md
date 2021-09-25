@@ -198,7 +198,7 @@ P. T. V. 's chronological position before the Tantraloka. Here is another passag
 
 Vimarsini : 
 
-*Etacca vistaratah tatpradhānesu Tantrāloka sārādiṣu mayā nirnītam itīhānupayogānna vitānitam." 
+\*Etacca vistaratah tatpradhānesu Tantrāloka sārādiṣu mayā nirnītam itīhānupayogānna vitānitam." 
 
 I. P. V., II, 214. 
 
@@ -208,7 +208,7 @@ WORKS KNOWN FROM REFERENCES. 1. Kramakeli.
 
 It was a commentary on the Krama Stotra. It has to be noted here that this Krama Stotra was different from Abhinava's composition of the same name, given in appendix (C) to this thesis. It was a work on the Krama system of philosophy. It is very often quoted by Maheśvarānanda in his commentary, Parimalā, on the Mahārtha Mañjarī. It is referred to by Abhinava in his Vivaraņa on the Parātritsikā : 
 
-*Vyākhyātam caitat mayā tattīkāyām Kramakelau Vistaratah." 
+\*Vyākhyātam caitat mayā tattīkāyām Kramakelau Vistaratah." 
 
 P. T. V., 236. 
 
@@ -226,7 +226,7 @@ P. T. V., 116. 3. Purva Pañcikā.
 
 This was a commentary on the Purva Sāstra, also called Mālinī Vijaya, which, according to the following statement, is the most authoritative book on the Trika system of the Saiva philosophy : 
 
-*Daśāstādaśavasvastabhinnam yacchāsanaṁ vibhoh 
+\*Daśāstādaśavasvastabhinnam yacchāsanaṁ vibhoh 
 
 Tatsāram Trikaśāstram nu tatsāram Malini matam." 
 
@@ -256,7 +256,7 @@ Padārtha Praveśa Nirnaya Tīkā.
 
 Nothing more about this can be said than that, from its name and the nature of the context in which the following reference to it occurs, it appears to have been a work of psycho-philosophical interest : 
 
-*Anusandhāyāh smrtibhede tasyāśca anubhavopa jīvitve anubhavābhāvāt; vitatya ca vicāritam mayaitat Padārtha Praveśa Nirnaya Tīkāyām." 
+\*Anusandhāyāh smrtibhede tasyāśca anubhavopa jīvitve anubhavābhāvāt; vitatya ca vicāritam mayaitat Padārtha Praveśa Nirnaya Tīkāyām." 
 
 P. T. V., 162. 5. Prakīrņaka Vivarana. 
 
@@ -390,7 +390,7 @@ CHAPTER II
 
 2. Mālini Vijaya Vārtika. 
 
-It was an exposition of some of the very difficult verses of the Mālinī Vijaya Tantra which is also called Srī purva Sāstra. It was written at the earnest entreaty of his loving pupils Karna and Mandra'. On the former we have already spoken a little and shall speak more when dealing with the Tantrāloka. It is unfortunate that so far we have been able to get the Vārtika on the first verse only which was composed in the eastern part of Pravarapura?. That he wrote his Vārtika on more than one verse and that the published edition, consisting of only two chapters, is only a part of a very big work that he wrote, is clear from his repeated reference to the 18th chapter wherein he promises to deal exhaustively with the various points under discussion. Though it is only the second in the chronological list of his published works yet it was not the second of his compositions. Before taking up this work he had written many others as references to them to be frequently met with in this work clearly prove*. The available portion contains a very scathing criticism of various important theories of Nyāya. 
+It was an exposition of some of the very difficult verses of the Mālinī Vijaya Tantra which is also called Srī purva Sāstra. It was written at the earnest entreaty of his loving pupils Karna and Mandra'. On the former we have already spoken a little and shall speak more when dealing with the Tantrāloka. It is unfortunate that so far we have been able to get the Vārtika on the first verse only which was composed in the eastern part of Pravarapura?. That he wrote his Vārtika on more than one verse and that the published edition, consisting of only two chapters, is only a part of a very big work that he wrote, is clear from his repeated reference to the 18th chapter wherein he promises to deal exhaustively with the various points under discussion. Though it is only the second in the chronological list of his published works yet it was not the second of his compositions. Before taking up this work he had written many others as references to them to be frequently met with in this work clearly prove\*. The available portion contains a very scathing criticism of various important theories of Nyāya. 
 
 3. Parātrirhśikā Vivarana. 
 
@@ -938,7 +938,7 @@ Yena vijñānamätrena Khecarisamatām vrajet"
 
 T.C., 6360—1 
 
-and "Srīdevyuvāca" *Anuttaram katham deva Sadyah kaulika siddhidam Yena vijñātamätrena Khecarīsamatām vrajet." 
+and "Srīdevyuvāca" \*Anuttaram katham deva Sadyah kaulika siddhidam Yena vijñātamätrena Khecarīsamatām vrajet." 
 
 P. T. V., 3. The few small differences between the two texts can be explained as due to either scribal mistakes or local variations in reading 
 

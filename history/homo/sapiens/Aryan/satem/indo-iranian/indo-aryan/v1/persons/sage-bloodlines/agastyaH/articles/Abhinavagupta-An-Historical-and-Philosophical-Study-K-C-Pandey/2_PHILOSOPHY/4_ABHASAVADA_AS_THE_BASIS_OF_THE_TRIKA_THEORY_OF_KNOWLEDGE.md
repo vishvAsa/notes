@@ -49,7 +49,7 @@ Bh. G., XVIII, 61.
 
 and also 
 
-*Avidyāvasthāyāt kāryakāranasanghātavivekadarśino 
+\*Avidyāvasthāyāt kāryakāranasanghātavivekadarśino 
 
 jīvasya avidyātimirandhasya satah parasmādātmanah karmādhyakņāt sarvabhūtādhivāsāt sākṣiņas cetayiturīśvarāt tadanujñayā kartrtva bhoktrtvalakṣaṇasya samsārasya siddhih." 
 
@@ -201,7 +201,7 @@ YET
 
 CHAPTER IV 
 
-moment, being in touch with a sense organ, eye, for instance, gives rise to knowledge in the following moment which, in form, is similar to the object which casts its reflection. But the fact that the external object exists and that it is of a certain form, is a matter of inference only, drawn from the form of knowledge itself, because direct touch with it is not possible. Every thing is momentary and so must be the jar also. Logically, therefore, it ceases to exist immediately after casting its reflection. But the direct touch requires the coexistence of the object and the affected consciousness which is the effect of the reflection of the former (sākāram cittam jñānaśabdavācyam). How can the two co-exist? The one is the cause and the other is its effect. The cause must precede the effect ; therefore, if the object, which is the cause of the affected consciousness, precedes the existence of the latter, as it must, it cannot remain in existence at the time of its effect. The direct touch with the object, therefore, is not possible*. 
+moment, being in touch with a sense organ, eye, for instance, gives rise to knowledge in the following moment which, in form, is similar to the object which casts its reflection. But the fact that the external object exists and that it is of a certain form, is a matter of inference only, drawn from the form of knowledge itself, because direct touch with it is not possible. Every thing is momentary and so must be the jar also. Logically, therefore, it ceases to exist immediately after casting its reflection. But the direct touch requires the coexistence of the object and the affected consciousness which is the effect of the reflection of the former (sākāram cittam jñānaśabdavācyam). How can the two co-exist? The one is the cause and the other is its effect. The cause must precede the effect ; therefore, if the object, which is the cause of the affected consciousness, precedes the existence of the latter, as it must, it cannot remain in existence at the time of its effect. The direct touch with the object, therefore, is not possible\*. 
 
 THE NECESSITY FOR SUCH A SUPPOSITION. 
 
@@ -211,7 +211,7 @@ The chain of momentary self-consciousness, called ālayavijñāna, is of the nat
 
 But the object is admittedly of the opposite nature and as such is not self-luminous. How is then the phenomenon of the varying knowledge to be accounted for? It cannot be said that it is the very nature of the limited consciousness to assume a variety of forms in succession ; for, in that case, it would not be possible to explain such an unaffected state 
 
-*S. D. S, Abhyankar's edition. 
+\*S. D. S, Abhyankar's edition. 
 
 THEORY OF PERCEPTION 
 
@@ -413,7 +413,7 @@ CHAPTER IV
 
 holds that before the commencement of the above described psychic process, that is, at the time of rise of desire for perception, the cognising self becomes pervasive as far as the object or objects of perception and that the objects also appear in their essential nature of being made up of con sciousness and become one with the self much in the same manner as the reflection does with the object that has the capacity to receive it. Thus a phenomenon of knowledge may be said to be a union of the subjective and the objective waves of consciousness in the sea of the All-inclusive Universal Consciousness. This supersensuous knowledge is technically called 'anubhava', which implies the subject's becoming what the object is. Just as when we say that Devadatta imitates Yajñadatta (Devadattah Yajñadattam anukaroti) we mean that the former does the same or similar thing as does the latter, so when we say "John experiences (anubhavati) a jar," it means, if we take the word "anubhavati" literally, that John becomes what the jar is. This is exactly what Abhinava has said in slightly different words in the Brhati Vimarsinī quoted in a foot note in I. P. V., I, 42 as follows: 
 
-**Tathā ca ghato mama sphuratīti korthah, madīyam sphuranam spandanam āviṣtah madrāpatāmāpanna leva 
+\*\*Tathā ca ghato mama sphuratīti korthah, madīyam sphuranam spandanam āviṣtah madrāpatāmāpanna leva 
 
 cinmayatvāt." To clear the point let us quote Bhāskarakantha's explanation of Abhinava's text on which the above statement is based : 
 
