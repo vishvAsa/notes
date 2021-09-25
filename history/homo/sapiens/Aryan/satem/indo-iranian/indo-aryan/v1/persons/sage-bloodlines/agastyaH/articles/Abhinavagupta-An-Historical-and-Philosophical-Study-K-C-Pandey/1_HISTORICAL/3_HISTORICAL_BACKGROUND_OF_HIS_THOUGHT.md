@@ -168,7 +168,7 @@ CHAPTER III
 
 4. Krodha 5. Unmatta Bhairava 6. Asitānga 7. Mahocchuṣma 
 
-8. Kapālīša (II) YAMALA TANTRAS 
+8. Kapālīśa (II) YAMALA TANTRAS 
 
 9. Brahmayāmala 10. Viṣnuyāmala 11. Svacchanda (Yamala) 12. Ruru 13. 14. Atharvaņa 15. Rudra 16. Vetala 
 
@@ -246,7 +246,7 @@ We, therefore, hold that the words "atinaya", "kulamārga", “kālīnaya" and "
 
 11 
 
-1. Šanar star, Baiza- sfarer, arta 27 ezero - 33a 22 siectorat izans the 
+1. śanar star, Baiza- sfarer, arta 27 ezero - 33a 22 siectorat izans the 
 
 (930) (3fe230) 82 वर्तकनीक 
 
@@ -436,7 +436,7 @@ HISTORICAL BACKGROUND OF HIS THOUGHT 91
 
 THE SPANDA BRANCH. (1). Vasugupta and his S'iva Sūtra. On the authority of the Rājatarangini (ch. V, 66) we know that Bhatta Kallața, the pupil of Vasugupta was a con temporary of Avantivarman, King of Kashmir (855-883 A.D.). There he is referred to as "siddha". It is, therefore, evident that at that time he was an old man of established reputation. Vasugupta, the teacher of Kallaţa, therefore, it is natural to suppose, belongedt o the preceding scholastic generation extending from about 825 to 850 A. D. We shall, therefore, not be wrong if we say that Vasugupta gave a systematic form to the philosophical ideas of the monistic Tantras in his S'iva Sūtras in the next decade after S'ankarācārya's visit to Kashmir towards the end of the second decade of the 9th century A. D. 
 
-Kșemarāja, in his introduction to the S'iva Sūtra Vimar šinī, records a tradition which says that Vasugupta was not the writer but simply the publisher of the Sūtras which he had found inscribed on a boulder to which he had gone, as instructed by S'iva in a dream, and which turned bottom upward at the mere touch of his hand. Whatever we may think of this tradition, it was believed in by his immediate successors, who refer to the S'iva Sūtras as of divine author ship. They are divided into three chapters dealing in succession with the three ways to final emancipation pointed out by the monistic Tantras. 
+Kșemarāja, in his introduction to the S'iva Sūtra Vimar śinī, records a tradition which says that Vasugupta was not the writer but simply the publisher of the Sūtras which he had found inscribed on a boulder to which he had gone, as instructed by S'iva in a dream, and which turned bottom upward at the mere touch of his hand. Whatever we may think of this tradition, it was believed in by his immediate successors, who refer to the S'iva Sūtras as of divine author ship. They are divided into three chapters dealing in succession with the three ways to final emancipation pointed out by the monistic Tantras. 
 
 OTHER WORKS OF VASUGUPTA. 
 
@@ -588,7 +588,7 @@ HISTORICAL BACKGROUND OF, HIS THOUGHT. 97ery FW-320 na avaS
 
 W VISM Art : 13. Spanda showed the three well known paths to the said izrazie 
 
-Vleka realisation, namely, Sambhava, Sākta and Anava, as is clear when from the three chapters of the Siva Sūtra called after the 34 above three means. But the Pratyabhijñā, according to the 
+Vleka realisation, namely, Sambhava, śākta and Anava, as is clear when from the three chapters of the Siva Sūtra called after the 34 above three means. But the Pratyabhijñā, according to the 
 
 tyenne 
 
@@ -628,7 +628,7 @@ We may, however, state that Abhinavagupta, while dealing with the Anupāyamārga
 
 The quotation also may be from the same. 
 
-1. S. Dr., (MS.) ch. 7. 2. Š. Dr., (MS.) ch. 7. 3. T. A., Ah. II. P. 39. 
+1. S. Dr., (MS.) ch. 7. 2. ś. Dr., (MS.) ch. 7. 3. T. A., Ah. II. P. 39. 
 
 1. isi-Felt (Anor Arrat, za taart.ta: gt fra: 
 
@@ -756,7 +756,7 @@ CHAPTER III
 
 LAKULIĆA PĀŚUPATA. 
 
-The Siddhānta school, referred to in the preceding paragraph, is not to be confused with another Tantrika Saiva school, known as Lakulīša Pasupata. The latter follows only the eighteen Tantras of the Dvaitādvaita school, and not the twenty-eight Tantras, as interpreted in the light of the dualistic teaching. According to Abhinava, while the Siddhānta school is simply to be shunned, the Pasupata school occupies a position next only to his own monistic school as a sure guide on the way to final emancipation. The superiority of the latter lies only in the fact that it is a sure means of realisation of the worldly desires also.1 
+The Siddhānta school, referred to in the preceding paragraph, is not to be confused with another Tantrika Saiva school, known as Lakulīśa Pasupata. The latter follows only the eighteen Tantras of the Dvaitādvaita school, and not the twenty-eight Tantras, as interpreted in the light of the dualistic teaching. According to Abhinava, while the Siddhānta school is simply to be shunned, the Pasupata school occupies a position next only to his own monistic school as a sure guide on the way to final emancipation. The superiority of the latter lies only in the fact that it is a sure means of realisation of the worldly desires also.1 
 
 ITS WRITERS AND THEIR WORKS. 
 
@@ -926,15 +926,15 @@ HIS WORKS.
 
 He commented on the following works : 
 
-1. TATTVA PRAKĀŠIKĀ. 2. TATTVA SANGRAHA. 3. TATTVA TRAYA NIRŅAYA. 4. RATNA TRAYA. 5. BHOGA KÄRIKĀ. 6. NĀDA KĀRIKĀ. 7. MRGENDRA VRTTI. 
+1. TATTVA PRAKĀśIKĀ. 2. TATTVA SANGRAHA. 3. TATTVA TRAYA NIRŅAYA. 4. RATNA TRAYA. 5. BHOGA KÄRIKĀ. 6. NĀDA KĀRIKĀ. 7. MRGENDRA VRTTI. 
 
 He wrote the following independent works, but we know them only from his own reference to them in the concluding lines of his commentary on the Ratna Traya in which he calls himself a Kavīśvara 1 : 
 
-8. ĀŚCARYA SÄRA. 9. PĀKHANDĀPAJAPA. 10. BHAKTA PRAKĀŠA. 11. ABHYUDAYA NĀȚAKA. 
+8. ĀŚCARYA SÄRA. 9. PĀKHANDĀPAJAPA. 10. BHAKTA PRAKĀśA. 11. ABHYUDAYA NĀȚAKA. 
 
 IDENTITY OF THE SIDDHĀNTA SCHOOL 
 
-with THE SAIVA DARŠANA OF MĀDHAVA. 
+with THE SAIVA DARśANA OF MĀDHAVA. 
 
 Leaving aside the similarity of the philosophical con ceptions with which we shall, space permitting, deal in the second part, if we were to compare the authorities of the Siddhānta School, about whom we have spoken in the last few pages, with those quoted by Mādhava in the summary of the Saiva Darśana in his Sarva Darśana Sangraha, we shall have very little doubt left in our minds about the identity of the Sidhānta School with the Saiva School of Mādhava's S. D. S. The former follows 
 
@@ -948,7 +948,7 @@ CHAPTER III
 
 the mixed authority of twenty-eight Tantras, ten of the Saiva group and eighteen of the Rudra group. The latter also does the same. It quotes as authorities the Mrgendra Tantra of the first and the Saurabheya and the Kiraņa Tantras of the second group. We may point out here that the Mrgendra is a part of the Kāmika Tantra. As regards human authorities, with the exception of only two (I) Bahudaivatya and (II) Soma Sambhu, which have not so far been accessible to us, all are out of those which have been given above. The following are the names of the authors and books quoted as authorities by Mādhava, which are common to the Siddhānta School, described above: 
 
-1. TATTYA SANGRAHA. 2. TATTVA PRAKĀŠA. 3. BHOJARĀJA. 4. SIDDHA GURU. 5. BRHASPATI. 6. RĀMA KAŅȚHA. 
+1. TATTYA SANGRAHA. 2. TATTVA PRAKĀśA. 3. BHOJARĀJA. 4. SIDDHA GURU. 5. BRHASPATI. 6. RĀMA KAŅȚHA. 
 
 To show the identity of the two was one of the reasons for our dealing here with the writers of the Siddhānta School of the post-Abhinava period. It is interesting to note that Mādhava himself uses the word "Siddhānta" when he speaks of the followers of this school as distinguished from those of the other Saivāgamic Schools?. 
 
@@ -1044,7 +1044,7 @@ The following three interpretations suggest themselves to us, but, we confess, n
 
 (III) “Beneficial to the actors." To get this meaning we have to form "Bhārata" as in the preceding case, and then affix "cha" in the sense of "beneficial" by "Tasmai hitam" (5-1-5). This interpretation seems to have the support of Abhinava as the following quotation shows : 
 
-"Natajanasvakapravrttivišeṣopadeśaparam, ata eva tadgatasiddhasadupāyopadeśanaparam idam śāstram 
+"Natajanasvakapravrttiviśeṣopadeśaparam, ata eva tadgatasiddhasadupāyopadeśanaparam idam śāstram 
 
 118 
 
@@ -1124,13 +1124,13 @@ Abhinavagupta, in his commentary on Bharata's Nātya Sastra, refers to Nanyadeva
 
 "Uktam Nānyadevena sva-Bharatabhāșye : - 
 
-*Atra varnaśabdena gitirabhidhiyate nākṣaravišeṣah, nāpi sadjā disaptasvarāh padagrāme tvaniyamādeva 
+*Atra varnaśabdena gitirabhidhiyate nākṣaraviśeṣah, nāpi sadjā disaptasvarāh padagrāme tvaniyamādeva 
 
 HISTORICAL BACKGROUND OF HIS THOUGHT 
 
 123 
 
-svecchayā prayujyante, sadjadisvarāntānām apya višeṣeņa vāvarohādidharmāņam pratyeva samupa lambhate. Ato varņa eva gītirityavasthitam, sopi caturdhā māgadhyādih" 
+svecchayā prayujyante, sadjadisvarāntānām apya viśeṣeņa vāvarohādidharmāņam pratyeva samupa lambhate. Ato varņa eva gītirityavasthitam, sopi caturdhā māgadhyādih" 
 
 - A. Bh., 255. But, on the evidence of the dates of composition of three of his important works, (vide ch. I) given by himself, Abhinava is known to have lived from about the middle of the 10th century A. D. to about the close of the first quarter of the 11th century. Further, on the solid ground of the references to the earlier works in the later, his writings are separately assigned to the following three periods : 
 
@@ -1190,11 +1190,11 @@ That he commented upon the Bharata Sūtra is clear not so much from his opinion 
 
 HIS DATE. 
 
-From the manner in which reference has been made to his theory of Rasa by Abhinava in his A. Bh., p. 274, there remains little doubt about the fact that he was Srīšankuka's older contemporary. Not only is his exposition of Rasa givenHISTORICAL BACKGROUND OF HIS THOUGHT 
+From the manner in which reference has been made to his theory of Rasa by Abhinava in his A. Bh., p. 274, there remains little doubt about the fact that he was Srīśankuka's older contemporary. Not only is his exposition of Rasa givenHISTORICAL BACKGROUND OF HIS THOUGHT 
 
 127 
 
-first of all but his view also is represented to be in common with that of the ancients (Cirantanas), such as Dandin. Further, Srīšankuka is represented to be his first opponent; and the word (etanna), with which the statement of the opponent's view begins, shows that the latter was Lollata's contemporary. We know that the word "etat" in Sanskrit stands for what is present before ; in fact this is the only difference in idea conveyed by this word as distinguished from “tat". The time of Sankuka is accepted to be the middle of the 9th century A. D., because he is taken to be identical with the poet Sankuka, who, according to Kalhana's statement, (R. T., ch. IV, 705) was King Ajitāpīda's con temporary (circa 850) and had written a poem, called Bhuvanābhyudaya. The view that Lollața was a contem porary of Srīšankuka is supported by the following fact : 
+first of all but his view also is represented to be in common with that of the ancients (Cirantanas), such as Dandin. Further, Srīśankuka is represented to be his first opponent; and the word (etanna), with which the statement of the opponent's view begins, shows that the latter was Lollata's contemporary. We know that the word "etat" in Sanskrit stands for what is present before ; in fact this is the only difference in idea conveyed by this word as distinguished from “tat". The time of Sankuka is accepted to be the middle of the 9th century A. D., because he is taken to be identical with the poet Sankuka, who, according to Kalhana's statement, (R. T., ch. IV, 705) was King Ajitāpīda's con temporary (circa 850) and had written a poem, called Bhuvanābhyudaya. The view that Lollața was a contem porary of Srīśankuka is supported by the following fact : 
 
 Kșemarāja, who was a pupil of Abhinava, refers in his Spanda Nirnaya to Lollata's commentary, called Vivrti, on Bhatta Kallata's Spanda Kārikā in the following words: 
 
@@ -1210,7 +1210,7 @@ writer of a philosophical work in the Mālini Vijaya Vārtika ch. I, S. 777.
 
 Thus it is evident that Bhatta Kallața, Bhatta Lollata and Srisankuka were contemporaries and that the first was the oldest and the last the youngest of them. It will, there fore, not be wrong to say that Bhatta Lollata lived in the second and the third quarters of the 9th century A. D. 
 
-(IX) SRIŠANKUKA. From frequent references to and criticism of Srisankuka's interpretation of the Bharata Sūtra by Abhinava in his commentary (pp. 67, 75, 104) as also from the fact that he points out differences between his original of the Bharata Sūtra and that of Srisankuka, (A. Bh. 216, 217) it is apparent that the latter also commented upon the Bharata Sūtra. That he belonged to Kashmir and was a contem porary of King Ajitāpīda (850) we have already stated in the foregoing pages. 
+(IX) SRIśANKUKA. From frequent references to and criticism of Srisankuka's interpretation of the Bharata Sūtra by Abhinava in his commentary (pp. 67, 75, 104) as also from the fact that he points out differences between his original of the Bharata Sūtra and that of Srisankuka, (A. Bh. 216, 217) it is apparent that the latter also commented upon the Bharata Sūtra. That he belonged to Kashmir and was a contem porary of King Ajitāpīda (850) we have already stated in the foregoing pages. 
 
 (X) BHAȚȚA NĀYAKA. Did he comment on Bharata's Nātya Sastra ? Dr. De answers this question in the following words in his History of Sanskrit Poetics : 
 
@@ -1234,7 +1234,7 @@ The portions within brackets, at the beginning and in the end are Abhinava's own
 
 Darpana. (2) That work dealt with the text of Bharata's Nātya 
 
-Šāstra. (3) At many places it interpreted the Bharata Sūtra in 
+śāstra. (3) At many places it interpreted the Bharata Sūtra in 
 
 a way which differed from that of the other commentators. 
 

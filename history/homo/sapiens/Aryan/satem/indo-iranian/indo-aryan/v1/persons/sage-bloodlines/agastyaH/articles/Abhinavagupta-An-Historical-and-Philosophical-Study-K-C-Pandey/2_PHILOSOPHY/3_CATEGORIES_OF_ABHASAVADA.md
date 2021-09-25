@@ -36,7 +36,7 @@ THE CATEGORIES OF THE ABHÄSAVÅDA
 
 231 
 
-(guņas), namely, sattva, rajas and tamas, are in a state of perfect equality; and, according to the Vaišeṣika, every thing is reduced to atoms. The individual souls in this state are, as it were, in a deep sleep, though still in the bondage of their past individual karmas. Such a dissolution is referred to by the word "Pralaya". 
+(guņas), namely, sattva, rajas and tamas, are in a state of perfect equality; and, according to the Vaiśeṣika, every thing is reduced to atoms. The individual souls in this state are, as it were, in a deep sleep, though still in the bondage of their past individual karmas. Such a dissolution is referred to by the word "Pralaya". 
 
 We have not so far discovered any thing which might give us the Trika idea of the condition of the tattvas in the state of small dissolution". There is, however, the following statement in the Tantrāloka : 
 
@@ -166,7 +166,7 @@ of the Saktijas is marked by the additional element of Wam" to the "I" as "I am"
 
 predominates. 
 
-SADĀŠIVA. This is the third category and the power of will predominates in it. The will, as our experience tells us, is not altogether without any objective reference, nor is its object so distinct as that of knowledge. W) This tattva, therefore, represents a very faintly affected state of the Self. It is a transitional stage between the unaffected state of the Siva and the Sakti and the distinctly affected state of the Isvara tattva. The affection of the Universal Self at this stage may be compared to that of the limited self of an artist when the desire to produce a master-piece first arises within him. It may also be compared to the extre mely faint outline of an intended artistic production on a canvas. 
+SADĀśIVA. This is the third category and the power of will predominates in it. The will, as our experience tells us, is not altogether without any objective reference, nor is its object so distinct as that of knowledge. W) This tattva, therefore, represents a very faintly affected state of the Self. It is a transitional stage between the unaffected state of the Siva and the Sakti and the distinctly affected state of the Isvara tattva. The affection of the Universal Self at this stage may be compared to that of the limited self of an artist when the desire to produce a master-piece first arises within him. It may also be compared to the extre mely faint outline of an intended artistic production on a canvas. 
 
 The experience of the beings of this tattva may be represented as "I am this". It has, however, to be remem bered that the "this" which represents the universe, the cause of affection, is so indistinct that it can be said to affect the universal beings of this tattva as little as a picture does a canvas when it is represented by extremely faint outlining dots only. 
 
@@ -180,7 +180,7 @@ The experiencing entities belonging to this category are called Mantramaheśas. 
 
 CHAPTER III 
 
-IŠVARA TATTVA. This is the fourth category. The power of knowledge predominates in it. It is marked by the rise into prominence of the "this" element of the Universal Self which had but very faintly begun affecting the Self in the Sadāśiva state. It is but natural, that the objective element should predomi nate in it, because knowledge is nothing but an affection of the self due to internal or external causes, and the distinction of the state of volition from that of knowledge is only this that the affection of the self in the former case is very faint but in the latter it is so very clear that the element of the self which predominates in the former case is thrown into the back-ground in the latter. The difference between these two states of the Universal Self may be compared to those of a canvas; the former to the one in which the intended picture is faintly outlined in hardly perceptible dots; and the latter to the other in which the picture is fully drawn and the canvas is thrown so much in the back ground that ordinary people instead of calling it canvas call it picture. 
+IśVARA TATTVA. This is the fourth category. The power of knowledge predominates in it. It is marked by the rise into prominence of the "this" element of the Universal Self which had but very faintly begun affecting the Self in the Sadāśiva state. It is but natural, that the objective element should predomi nate in it, because knowledge is nothing but an affection of the self due to internal or external causes, and the distinction of the state of volition from that of knowledge is only this that the affection of the self in the former case is very faint but in the latter it is so very clear that the element of the self which predominates in the former case is thrown into the back-ground in the latter. The difference between these two states of the Universal Self may be compared to those of a canvas; the former to the one in which the intended picture is faintly outlined in hardly perceptible dots; and the latter to the other in which the picture is fully drawn and the canvas is thrown so much in the back ground that ordinary people instead of calling it canvas call it picture. 
 
 The idea of the predominance of the objective element in the experience of the Isvara state is conveyed in the Trika literature by giving the first position not to "I" as in the case of the experience of the Sadasiva state "I am this" but to "this" as "this I am". It is perhaps to imply the idea of predominance of the objective element that this category is called "iśvara tattva", because lordliness of a lord consists in his holding what constitutes his lordliness, to be more important than his self. 
 
@@ -220,7 +220,7 @@ the power of obscuration and as the primary cause of all the limited manifestati
 
 The impure creation consists of two kinds of limited manifestations, the sentient and the insentient. The māyā, as the force of obscuration, is responsible for the appearance of the one Universal Self as innumerable individual selves, whose distinguishing feature is the ignorance of their real nature (svarūpākhyāti) and consequent imperfection of their powers of knowledge and action : 
 
-“Mohayati anena sakti višeșeņa iti moho māyā saktih tasyāḥ vaśah sāmarthyam mohana kāryam prati avirāmah yathoktam "Māyā vimohinī nāma'..........". 
+“Mohayati anena sakti viśeșeņa iti moho māyā saktih tasyāḥ vaśah sāmarthyam mohana kāryam prati avirāmah yathoktam "Māyā vimohinī nāma'..........". 
 
 I. P. V., I, 35. But Māyā Tattva as the primary cause of all the insentient limited manifestations i. e. as parāniśā, contains all the manifestables within : 
 
@@ -312,7 +312,7 @@ According to the Sānkhya, the innumerable puruṣas are independent entities ; 
 
 PRAKŘTI OR PRADHĀNA. 
 
-In the order of manifestation, the Prakrti is the first objective manifestation. According to the Trika concept of causality, it is the first purely objective (vedyamātra) effect of the kala'. It represents the state of perfect equilibrium of the three qualities, sattva, rajas and tamas. Taking the variety of its future effects into consideration (bhāvi vedya višeṣāpekṣayā), it is spoken of as the generic object (vedya sāmānyātmakam). It is as countless as the puruṣa, because each puruṣa has a separate pradhāna, (tacca prati pum niyatatvāt anekam T. A., Comm., VI, 172). It is stirred to productive activity for the sake of puruṣa by the Svatan treśa or Ananta.” 
+In the order of manifestation, the Prakrti is the first objective manifestation. According to the Trika concept of causality, it is the first purely objective (vedyamātra) effect of the kala'. It represents the state of perfect equilibrium of the three qualities, sattva, rajas and tamas. Taking the variety of its future effects into consideration (bhāvi vedya viśeṣāpekṣayā), it is spoken of as the generic object (vedya sāmānyātmakam). It is as countless as the puruṣa, because each puruṣa has a separate pradhāna, (tacca prati pum niyatatvāt anekam T. A., Comm., VI, 172). It is stirred to productive activity for the sake of puruṣa by the Svatan treśa or Ananta.” 
 
 1. T. A., VI, 171. 2. T. A. VI, 180 
 

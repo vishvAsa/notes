@@ -9,11 +9,11 @@ Abhinava, it appears, knew the importance of biographical information about a wr
 
 ## Two ABHINAVAGUPTAS. 
 
-The Abhinavagupta, studied in the following pages, is a different person from his namesake who was a Sākta contemporary of Sankarācārya. The only source of information about the other Abhinavagupta is the Sankara Digvijaya of Mādhava, which is noticed under a slightly different name "Sūkṣma Sankara Vijayas" in Dr. Aufrecht's catalogue. It gives the following account of him : 
+The Abhinavagupta, studied in the following pages, is a different person from his namesake who was a śākta contemporary of Sankarācārya. The only source of information about the other Abhinavagupta is the Sankara Digvijaya of Mādhava, which is noticed under a slightly different name "Sūkṣma Sankara Vijayas" in Dr. Aufrecht's catalogue. It gives the following account of him : 
 
-Hel belonged to Kāmarūpa (Assam). He was a Sākta and wrote a sāktabhāșya, probably a commentary on the Vedānta Sūtra of Bādarāyaṇa, from the Sākta point of view. He was a great opponent of the monistic theory of Sankara. He engaged Sankara in a controversial dis cussion (Šāstrārtha) when the latter reached Assam in the course of his Digvijaya. In that he was defeated and so, according to the then prevalent practice, became a disciple of the victor. Like our Kashmirian Abhinavagupta, his Sākta namesake also is referred to as an ācārya”. 
+He belonged to Kāmarūpa (Assam). He was a śākta and wrote a śāktabhāșya, probably a commentary on the Vedānta Sūtra of Bādarāyaṇa, from the śākta point of view. He was a great opponent of the monistic theory of Sankara. He engaged Sankara in a controversial dis cussion (śāstrārtha) when the latter reached Assam in the course of his Digvijaya. In that he was defeated and so, according to the then prevalent practice, became a disciple of the victor. Like our Kashmirian Abhinavagupta, his śākta namesake also is referred to as an ācārya”. 
 
-Our object in giving the above account is to point out that if Mādhava's testimony in reference to the Sākta Abhinavagupta is to be considered reliable, he should not be confused with the Saiva Abhinavagupta of Kashmir. Their distance from each other is about two centuries. The former, if he was Sankara’s contemporary, must have lived in the last quarter of the 8th and the first half of the 9th century A. D., for, according to the generally accepted opinion, Sankara lived from 788 to 820 A. D.; and the latter, on the evidence of the dates of composition of the Krama and the Bhairava Stotras and the Brahati Vimarsini, given by the author himself, belonged to the second 
+Our object in giving the above account is to point out that if Mādhava's testimony in reference to the śākta Abhinavagupta is to be considered reliable, he should not be confused with the Saiva Abhinavagupta of Kashmir. Their distance from each other is about two centuries. The former, if he was Sankara’s contemporary, must have lived in the last quarter of the 8th and the first half of the 9th century A. D., for, according to the generally accepted opinion, Sankara lived from 788 to 820 A. D.; and the latter, on the evidence of the dates of composition of the Krama and the Bhairava Stotras and the Brahati Vimarsini, given by the author himself, belonged to the second 
 
 1. Ś. D., ch. XV S. 158. 2. Ś. D. comm., ch. XV Ś. 158. 
 
@@ -21,9 +21,9 @@ LIFE OF ABHINAVAGUPTA
 
 3 
 
-half of the 10th and the first quarter of the 11th century A. D. In view of these facts we fail to understand why Dr. Aufrecht has included the Sāktabhāṣya in the list of Kashmirian Abhinavagupta's works in his Catalogus Catalogo rum. This work, according to his own statement : "Sāktabhāṣya, Quoted by Mādhava. Oxf 258b" (C. C., P. 25) is no other than the one, the authorship of which is attributed to the Sakta Abhinavagupta by Mādhava, as we have stated above. For, on page 258 of Catalogi Condicum Manuscriptum containing an extract from the Sankara Digvijaya which is referred to by our learned Doctor in the above quotation from Catalogus Catalogorum P. 25, the same passage is given as that on which our own account of the Sākta Abhinavagupta is based. It runs as follows: 
+half of the 10th and the first quarter of the 11th century A. D. In view of these facts we fail to understand why Dr. Aufrecht has included the śāktabhāṣya in the list of Kashmirian Abhinavagupta's works in his Catalogus Catalogo rum. This work, according to his own statement : "śāktabhāṣya, Quoted by Mādhava. Oxf 258b" (C. C., P. 25) is no other than the one, the authorship of which is attributed to the Sakta Abhinavagupta by Mādhava, as we have stated above. For, on page 258 of Catalogi Condicum Manuscriptum containing an extract from the Sankara Digvijaya which is referred to by our learned Doctor in the above quotation from Catalogus Catalogorum P. 25, the same passage is given as that on which our own account of the śākta Abhinavagupta is based. It runs as follows: 
 
-Tadanantarameṣa Kamarūpān Adhigatyābhinavopaśabdaguptam Ajayat kila sāktabhāṣyakāram Sa ca bhagno manasedamāluloce 
+Tadanantarameṣa Kamarūpān Adhigatyābhinavopaśabdaguptam Ajayat kila śāktabhāṣyakāram Sa ca bhagno manasedamāluloce 
 
 Oxf 2586 
 
@@ -51,7 +51,7 @@ His father, Narasimhagupta, alias Cukhulaka, was of great intellectual calibre, 
 
 In view of the facts stated above and supported by the authority of Abhinavagupta himself, quoted in full in Appendix (A), the statement of Pandit Madhusudan Kaul of the Kashmir Research Department in his introduction to the I. P. V., Vol. II, P. 7 about the name of Abhinava's father requires correction. His statement runs as follows: 
 
-*He received instruction in the Pratyabhijñā Šāstra from his father Laksmanagupta, son of Narasimhagupta and pupil to Utpala" 
+*He received instruction in the Pratyabhijñā śāstra from his father Laksmanagupta, son of Narasimhagupta and pupil to Utpala" 
 
 Lakṣmanagupta, though undoubtedly a teacher of Abhinava in Pratyabhijñā was certainly not his father; nor was there a relation of father and son between Narasimha gupta and Lakṣmanagupta. The father of the latter, according to the following statement of Abhinaya, was Utpalācārya : 
 
@@ -157,7 +157,7 @@ Others in whose cases subjects are not specified : 8. Sricandra.
 
 17. Vāmana. 18. Udbhața. 
 
-19. Bhūtīša. 20. Bhāskara. 
+19. Bhūtīśa. 20. Bhāskara. 
 
 HIS FAMILY AND ITS ATMOSPHERE. 
 
@@ -237,11 +237,11 @@ HIS MIRACULOUS POWERS. Human nature is always the same everywhere. We should, th
 
 CHAPTER I. 
 
-identity with the Almighty unless he should show himself to be almighty, so did not the contemporaries of Abhinava. Following the authority of the Srīpūrva Šāstra he has himself given the five infallible signs of such a man' which can briefly be stated as follows: 
+identity with the Almighty unless he should show himself to be almighty, so did not the contemporaries of Abhinava. Following the authority of the Srīpūrva śāstra he has himself given the five infallible signs of such a man' which can briefly be stated as follows: 
 
 1. Unswerving devotion to Rudra. 2. Power of incantation (mantra siddhi) 3. Control over all the elements. 4. Capacity to accomplish the desired end. 5. Sudden dawning of the knowledge of all the 
 
-Šāstras. And we learn from Jayaratha, who also bases his statement on the authority of his teacher whose verse he quotes, that Abhinava's contemporaries found all the above signs unmistakably present in him. This was the secret of his great influence with his contemporaries and of the unparalleled success as a writer in the field of both the Saiva philosophy and the poetics. 
+śāstras. And we learn from Jayaratha, who also bases his statement on the authority of his teacher whose verse he quotes, that Abhinava's contemporaries found all the above signs unmistakably present in him. This was the secret of his great influence with his contemporaries and of the unparalleled success as a writer in the field of both the Saiva philosophy and the poetics. 
 
 CENTRES OF HIS ACTIVITY. 
 

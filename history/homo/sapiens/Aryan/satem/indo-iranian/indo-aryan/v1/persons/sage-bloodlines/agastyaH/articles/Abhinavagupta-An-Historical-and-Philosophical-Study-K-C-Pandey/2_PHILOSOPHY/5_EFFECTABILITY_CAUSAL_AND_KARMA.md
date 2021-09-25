@@ -53,7 +53,7 @@ REALITY On the basis of what we have stated above it would not be wrong to say t
 
 "Eșa cānanta saktitvād ayam ābhāsayatyamūn Bhāvān icchāvaśād eṣā kriya nirmātstāsya sā." 
 
-Eșa purānah pramātā amūn bhāvān ābhāsitapūrvān ābhāsamānān ābhāsayati avichinnena prabandhena, katham, icchāyā iśiturabhinnāyā avikalparūpāyā akramāyā vašena sāmarthyena. Kutrāsya te bhāvāh sthitāh ? āha "ananta Śaktitvāt" iti, viśve hi bhāvāstasyaiva Śaktirüpeņa svarūpāt matvena sthitāh" 
+Eșa purānah pramātā amūn bhāvān ābhāsitapūrvān ābhāsamānān ābhāsayati avichinnena prabandhena, katham, icchāyā iśiturabhinnāyā avikalparūpāyā akramāyā vaśena sāmarthyena. Kutrāsya te bhāvāh sthitāh ? āha "ananta Śaktitvāt" iti, viśve hi bhāvāstasyaiva Śaktirüpeņa svarūpāt matvena sthitāh" 
 
 I. P. V., II, 136. 
 
@@ -73,7 +73,7 @@ It may be of interest to note in this connection that there is a complete agreem
 
 "Vastavepi cidekatve na syād ābhāsabhinnayoh Cikīrṣālakṣaṇaikatvaparāmarsam vinā kriyā. 
 
-............Tasmāt vāstavam cidekatvam abhyupagamyāpi tasya kartrtvalakṣaņā bhinnarüpa samāveśātmikā kriyā nopapadyate parāmaršalaksanam tu svātantryam yadi bhavati tadopapadyate sarvam, parāmarso hi cikīrṣā rūpā icchā tasyām ca sarvam antarbhūtam nirmā tavyam abhedakalpenāste 
+............Tasmāt vāstavam cidekatvam abhyupagamyāpi tasya kartrtvalakṣaņā bhinnarüpa samāveśātmikā kriyā nopapadyate parāmarśalaksanam tu svātantryam yadi bhavati tadopapadyate sarvam, parāmarso hi cikīrṣā rūpā icchā tasyām ca sarvam antarbhūtam nirmā tavyam abhedakalpenāste 
 
 I. P. V., II, 178-81. 
 

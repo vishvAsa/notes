@@ -143,7 +143,7 @@ This very "vimarśa' is spoken of as "Svātantrya," because its existence does n
 
 "Citih pratyavamarśātmā parāvāk svarasoditā 
 
-Svātantryam etat mukhyam tad aišvaryam parameśituh." 
+Svātantryam etat mukhyam tad aiśvaryam parameśituh." 
 
 1. P. V., I, 204. "Eka evāsya dharmosau sarvākṣepena vidyate 
 
@@ -183,7 +183,7 @@ OTHER NAMES OF SVĀTANTRYA SAKTI. Al
 
 The Saiva writers on the various branches of the Trika, looking at the Svātantry aspect of the Universal Consciousness from different points of view have given it different names. In the Siva Sutra of Vasugupta it is called "Caitanya' for the simple reason that it has the power of uniting and separating and dealing in multifarious other ways with what is within". It is called Sphurattā or Spanda in Spanda literature, because it represents that essential nature of the Universal Consciousness which is responsible for its apparent changes from the state of absolute unity. It is also called Mabāsattā, because it is the cause of all that can be said to exist in any way. Another name by which it is referred to at some places is Parāvāk", because it represents the speech in its most subtle form. 
 
-PRAKĀŠA AND VIMARSA EXPLAINED. From what has been stated above two points become clear, namely, (I) that the word "prakāśa" is used for that aspect of the immanent Ultimate, which serves as a subs tratum for all that it manifests, exactly as the Buddhi does for the images that an individual builds up at the time of imagination ; and (II) that similarly the word "vimarsa." stands for that aspect which is simply a power, which, for 
+PRAKĀśA AND VIMARSA EXPLAINED. From what has been stated above two points become clear, namely, (I) that the word "prakāśa" is used for that aspect of the immanent Ultimate, which serves as a subs tratum for all that it manifests, exactly as the Buddhi does for the images that an individual builds up at the time of imagination ; and (II) that similarly the word "vimarsa." stands for that aspect which is simply a power, which, for 
 
 1. I. P. V., I, 214. 3. I. P. V., I, 208-9. 5. I. P. V., I, 203. 
 

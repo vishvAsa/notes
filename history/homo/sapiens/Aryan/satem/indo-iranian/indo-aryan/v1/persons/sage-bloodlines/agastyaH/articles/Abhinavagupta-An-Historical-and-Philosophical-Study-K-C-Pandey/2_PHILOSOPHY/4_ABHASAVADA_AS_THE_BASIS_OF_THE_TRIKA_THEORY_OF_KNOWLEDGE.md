@@ -49,7 +49,7 @@ Bh. G., XVIII, 61.
 
 and also 
 
-*Avidyāvasthāyāt kāryakāranasanghātavivekadaršino 
+*Avidyāvasthāyāt kāryakāranasanghātavivekadarśino 
 
 jīvasya avidyātimirandhasya satah parasmādātmanah karmādhyakņāt sarvabhūtādhivāsāt sākṣiņas cetayiturīśvarāt tadanujñayā kartrtva bhoktrtvalakṣaṇasya samsārasya siddhih." 
 
@@ -73,7 +73,7 @@ that if dualistic doctrine were given up by the so called Agamikas; if Māyā we
 
 and also 
 
-"Pārameśvareṣu tāvadāgameṣu saivavaiṣnavarahasyeṣu Vedānteṣu ca spaṣta evoktoyam asmaduktorthah, Tadanusāriņaiva sugatenoktam Cittamātramidam, yaduta traidhātukamiti tadatra vivarana kārair durabhi niveśavašena vipratārito janaḥ. Idameva tu tattvamiti tu tātparyam." 
+"Pārameśvareṣu tāvadāgameṣu saivavaiṣnavarahasyeṣu Vedānteṣu ca spaṣta evoktoyam asmaduktorthah, Tadanusāriņaiva sugatenoktam Cittamātramidam, yaduta traidhātukamiti tadatra vivarana kārair durabhi niveśavaśena vipratārito janaḥ. Idameva tu tattvamiti tu tātparyam." 
 
 We may add here one interesting argument in support of the momentariness of the bodily and the intellectual selves. It is generally admitted that at all hours of the wakeful state some kind of knowledge or another is taking place; that knowledge is simply an affected state of consciousness due to an external stimulus and that a determinate knowledge is invariably preceded by an indeterminate. As we pass from knowledge of one thing to that of another, the transition is not usually sharp. One act of knowledge fades gradually into the next. If, for instance, we look at a coin for several moments, we feel that we have not had a single continuous perception. First we have the knowledge of the coin as a rupee, then that of the figure on it, then of its roughened edge and then of its date and so on. These acts of knowledge 
 

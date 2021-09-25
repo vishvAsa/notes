@@ -56,7 +56,7 @@ Bhairavi Sikha, 79 Bhakta Prakāśa, 111 Bhaktavilasa, 11 Bhāmaha, 138 Bhandark
 152, 153 Bhatpa Divākaravatsa, 96 Bhatta Nārāyana, 109, 146, Bhatta Nāyaka, 128, 129, 131, 
 141 Bhatta Tota, 11, 49 Bhafta Yantra, 120, 126, Bhattendurāja, 53, 74, 97, 142, 
 143 Bhavabhūti, 38 Bhāvanā, 190, 192 Bhāvanābhyudaya, 127 Bhāva Prakāśa, 157 Bhāvopahāra, 63 Bhedavāda Vidāraṇa, 22, 33, 34 
-103 Bhoga, 329 Bhogakārikā, 103, 104, 111 Bhoja, 107, 110, 112 Bhūtirāja, 10, 143 Bhūtirajatanaya, 10, 143 Bhūtisa, 11 Bibhīšana, 71 Bimbapratibimba Vāda, 23, 46, 
+103 Bhoga, 329 Bhogakārikā, 103, 104, 111 Bhoja, 107, 110, 112 Bhūtirāja, 10, 143 Bhūtirajatanaya, 10, 143 Bhūtisa, 11 Bibhīśana, 71 Bimbapratibimba Vāda, 23, 46, 
 66, 67 Bindu Cakra, 79 Bodhapancadaśikā, 22, 27, 37 56 Byhaspati, 103, 105, 112 Byhati Vimarsinī, 2, 7, 96, 100, 
 101, 259, 286 Brhatkatha Mañjarī, 157 
 ( 417 ) Brhattīkā, 109 
@@ -107,7 +107,7 @@ Indurāja, 11 Final emancipation, 103, 104 Innate Ignorance, 179, 184, Gahanesa,
 Intellectual Ignorance, 180, Ganesa, 64 
 182, 183 Gangādeva, 125 
 Intellectual knowledge, 183, Gāngeyadeva, 125 
-186, 187 Ghatakarpara Kulaka, 65, 142 Isa, 227 Ghatakarpara Kulaka Vivrti, Ēšana, 170, 171 
+186, 187 Ghatakarpara Kulaka, 65, 142 Isa, 227 Ghatakarpara Kulaka Vivrti, Ēśana, 170, 171 
 22, 65 
 Isvara, 227, 243 Gonanda, 85 
 Isvara Pratyabhijñā Kārikā, 30, Govinda, 157 
@@ -126,7 +126,7 @@ Vimarsini, 22, 27, 36, 37, 61, Hegel, 167
 99, 123, 167 Helārāja, 143 
 Isvara Pratyabhijñā Vrtti, 99 Hemacandra, 157 
 Isvara Siddhi, 100 Highest Lord, 203 
-Išvara Siddhi Vrtti, 100 Highest Reality, 62, 96, 171, īśvara Tattva, 241, 242 
+Iśvara Siddhi Vrtti, 100 Highest Reality, 62, 96, 171, īśvara Tattva, 241, 242 
 188, 197, 198, 211, 213 Jacobi, 132 History of Sanskrit Poetics, Jada, 223, 257, 258 
 114, 121, 128, 130, 132, Jadābhāsa, 221, 261 155, 157 
 Jagannātha, 153 Hrdayadarpana, 129, 130, 142 Jagannātha, (Panditarāja) 154 Hrliekhā, 79 
@@ -168,7 +168,7 @@ Kīrtidhara, 120, 121, 126 Kāmaja, 75, 76
 Kohala, 113, 114, 115, 116, 117, Kāmika, 76, 112 
 118, 126 Kaniska, 86 
 Komalavallī, 160 Kant, 167 
-Krama, 45, 101 Kapālīša, 78 
+Krama, 45, 101 Kapālīśa, 78 
 Krama Darsana, 14, 160 Karana, 52 
 Kramakeli, 22, 30, 35, 159 Kārana, 75 
 Krama Stotra, 2, 7, 8, 14, 22, Kārañatāvāda, 287 
@@ -198,7 +198,7 @@ Mahāsattā, 205 Laghvi Vimarsinī, 61, 62 Maheśvara, 176, 203, 207, 208, Lak�
 Mahima Bhatta, 129, 130, 131, Lākula, 70 
 157 Lakulisa Pāśupata, 104 
 Mahocchuṣma, 78 Lalita, 77 
-Mahopadeśa Vimšatika, 22, 62 Lalitāditya, 3, 4, 83 
+Mahopadeśa Vimśatika, 22, 62 Lalitāditya, 3, 4, 83 
 Majumdar, 121, 122, 124, 125 Lallavāk, 153 
 Mala, 185, 320, 321 Lallavāk Sanskrit Translation, Mālini, 47, 170 
 152 
@@ -233,7 +233,7 @@ Mīmāsaka, 268, 287, 288, Narasimha Gupta, 5, 10
 Nāra Simhaka, 77 Mīna, 82 
 Nārāyaṇa Kantha, 107, 108, Moha, 245, 326 
 109, 110 Moksa, 46, 169, 179, 187, 188, Nātya, 115 
-191, 192, 193, 325, 331 Nātyālocana, 23 Mokṣa Kārikā, 104, 105, 106 Nātya ṣamgraha, 126 Moksa Kārikā Vitti, 110 Natya Šāstra, 9, 36, 49, 50, 52, Momentariness, 195 
+191, 192, 193, 325, 331 Nātyālocana, 23 Mokṣa Kārikā, 104, 105, 106 Nātya ṣamgraha, 126 Moksa Kārikā Vitti, 110 Natya śāstra, 9, 36, 49, 50, 52, Momentariness, 195 
 113, 114, 115, 117, 118, Monism, 72, 214 
 119, 121, 123, 124, 129, Monism-cum-dualism, 72 
 157 Monistic Idealism, 167, 195 Nāyaka, 130 Monists, 102 
@@ -266,7 +266,7 @@ Paramārtha Sāra, 15, 27, 29, Nandi Bharata, 113
 Paramārthasāra Sangraha, 24 Nānyadeva, 121, 122, 124, 125 | Paramārthasāra sīkā, 24, Nara, 170 
 Paramārtha Sāra Vivrti, 148 
 (422) 
-Paramārtha Sangraha Vivrti, Prakāša, 199, 200, 201, 202, 
+Paramārtha Sangraha Vivrti, Prakāśa, 199, 200, 201, 202, 
 148 
 205, 206, 207, 259 Parama Siva, 40, 203, 204, 231, Prakāśaratha, 150 
 235, 237 
@@ -327,7 +327,7 @@ Saivaism, 48, 54, 67, 74, 75, Rāmagupta, 47
 Saiva Schools, 101 Rāmakantha (I) 108 
 Saiva Tantric School, 72 Rāmakantha (II) 108, 109, 110 Saiva Theory of Karma, 186 Ramakrishna Kavi, 121, 124 Sakala, 184, 185 Rāmāyaṇakathāsāra, 157 Sakra, 70, 71 Ramcharit Sharma, 65 
 Sakta, 46, 97, 168, 169, 187, Ramyadevācārya, 63 
-188 Rasa, 13, 36, 49, 50, 51, 126, Sākta Bhāsya, 2 
+188 Rasa, 13, 36, 49, 50, 51, 126, śākta Bhāsya, 2 
 128, 157, 165 
 Sakti, 170, 240, 241, 243 Rasagangādhara, 157 
 Sakticakra, 79 Ratna Traya, 108, 111 
@@ -342,11 +342,11 @@ Sambandha, 227 Rice, 113
 Sambandha Siddhi, 100 Rjuvimarsinī, 159 
 Sambandha Siddhi Vrtti, 100 Rudra, 
 Sāmbapañcāśikā Tīkā, 147, Rudrayāmala Tantra, 38, 67, 80 148 Ruru, 78 
-Šāmbhava, 46, 97, 168, 169, Rurubheda, 
+śāmbhava, 46, 97, 168, 169, Rurubheda, 
 185, 187, 235 Ruyyaka, 150 
 Sāmbhavamārga, 190 Sabdakalpadruma, 57, 58, 59, Sambhunātha, 10, 14, 15, 81, 
 61 
-314 Sabdārtha Cintāmapi, 80 Sangamāditya, 72, 73 ṣadardha Šāstra, 170, 171 Sammoha, 79 Sadāśiva, 241, 242, 243 Samskāra, 296, 297, 326, Sadvidyā, 189, 242, 243, 244 327 Sadyrtti, 108 
+314 Sabdārtha Cintāmapi, 80 Sangamāditya, 72, 73 ṣadardha śāstra, 170, 171 Sammoha, 79 Sadāśiva, 241, 242, 243 Samskāra, 296, 297, 326, Sadvidyā, 189, 242, 243, 244 327 Sadyrtti, 108 
 Samvarta, 71 
 ( 424 
 ) 
@@ -360,14 +360,14 @@ Siddhi Sārasvata, 80 Sankara Digvijaya, 2, 88 Sikhāṣtaka, 79 Sankaranandana,
 Siraścheda, 80 Sānkara Vedanta, 306 
 Siva, 11, 47, 63, 84, 85, 91, 98, Sankhadhara, 149 
 170, 184, 185, 207, 210, Sānkhya, 47, 56, 59, 60, 183, 217, 230, 235, 240, 241, 
-184, 192, 193, 194, 195, 243, 317, 325, 332 196, 229, 230, 231, 235, Siva Bhakti, 11 238, 239, 247, 248, 250, Šivadysti, 31, 72, 83, 97, 98, 99, 251, 252, 253, 266, 267, 100, 134, 166 268, 269, 274, 305, 308, Sivadrsti Vitti, 100 309, 310, 311, 312, 326, Sivadrstyālocana, 22, 34, 169 327, 328, 329, 330 
+184, 192, 193, 194, 195, 243, 317, 325, 332 196, 229, 230, 231, 235, Siva Bhakti, 11 238, 239, 247, 248, 250, śivadysti, 31, 72, 83, 97, 98, 99, 251, 252, 253, 266, 267, 100, 134, 166 268, 269, 274, 305, 308, Sivadrsti Vitti, 100 309, 310, 311, 312, 326, Sivadrstyālocana, 22, 34, 169 327, 328, 329, 330 
 Siva Saktyavinābhāva Stotra, Sanskrit Dramaturgy, 112, 113 23, 34 ṣantāna, 77 
 Siva Sūtra, 90, 91, 92, 94, 134, Sāradā, 170 
 146, 161, 168, 205,... Sāradātanaya, 157 
 Siva Sūtra Vārtika, 86, 94 Saranniśā, 109 
 Siva Sūtra Vimarsinī, 91, 96, Sarvadarśana Sangraha, 37, 83, 147, 161 
 100, 107, 108, 111, 158, Siva Tantras, 178 
-Siva Tanu Šāstra, 103, 105 Sarvamangalā, 78 
+Siva Tanu śāstra, 103, 105 Sarvamangalā, 78 
 Siva tattva, 239 Sarvātmasiva, 110 
 Smith, 107 Satkāryavāda, 305, 309, 310 Smrti, 220 Sattā, 216 
 Sobhākaragupta, 157 Sattva, 231, 248, 251, 252, Soma, 81 
@@ -389,8 +389,8 @@ somy, 143, 10 11 12 g8, 14
 (425 
 ) 
 Spanda Sarvasva, 93, 94, 134 Spanda Sūtra, 94 Spanda System, 146 Spandavivarana Sāramātra, 95 Sphurattā, 205 Spiritual ignorance, 180, 182, 
-183 Spiritual knowledge, 183, 186 Sricakra, 90 Srīcandra, 11 Sriharṣa, 125 Sri Indurāja, 142 Srikantha, 72, 108 Srikantha Bhatta, 85 Srikanthi, 76, 80 Srikrsna Šāstri, 108 Srīnātha, 72 Srīpārva Šāstra, 16, 23, 26 Srīšankuka, 126, 128 Srīśāstra Sủngāraratha, 149, 150 Srngāraratnākara, 157 Srutabodha, 66 Sruti, 58 Stava Cintāmaņi, 109, 146, 148, 
-155 Stava Cintāmaņi Vitti, 147 Stein, 84, 87,99 Stotra, 147 Stotrāvali, 100 Subhatadatta, 148, 149 Subjective Idealism, 195 Subjectivist, 263, 303 Suddhabrahmavādin, 313 Suddhavidyā, 184, 250 Sükṣma, 76 Sūkta, 160 Sumati, 82 Šūnyavāda, 192 Suprabha, 76 Supreme, 178, 315 Supreme Consciousness, 191 Supreme Self, 177 Sureśvarācārya, 88 Süryaratha, 150 Susira, 115 Sūta Samhitā, 107 
+183 Spiritual knowledge, 183, 186 Sricakra, 90 Srīcandra, 11 Sriharṣa, 125 Sri Indurāja, 142 Srikantha, 72, 108 Srikantha Bhatta, 85 Srikanthi, 76, 80 Srikrsna śāstri, 108 Srīnātha, 72 Srīpārva śāstra, 16, 23, 26 Srīśankuka, 126, 128 Srīśāstra Sủngāraratha, 149, 150 Srngāraratnākara, 157 Srutabodha, 66 Sruti, 58 Stava Cintāmaņi, 109, 146, 148, 
+155 Stava Cintāmaņi Vitti, 147 Stein, 84, 87,99 Stotra, 147 Stotrāvali, 100 Subhatadatta, 148, 149 Subjective Idealism, 195 Subjectivist, 263, 303 Suddhabrahmavādin, 313 Suddhavidyā, 184, 250 Sükṣma, 76 Sūkta, 160 Sumati, 82 śūnyavāda, 192 Suprabha, 76 Supreme, 178, 315 Supreme Consciousness, 191 Supreme Self, 177 Sureśvarācārya, 88 Süryaratha, 150 Susira, 115 Sūta Samhitā, 107 
 Suvrtta Tilaka, 157 Svacchanda, 70, 75, 76, 77, 102, 
 146 Svacchandayāmala, 78 Svacchandodyota, 146 Svarūpākhyāti, 315 Svatantra, 80 Svatantreśa, 251 Svātantrya, 203, 204 Svātantrya Sakti, 177, 203, 204, - 205, 220, 224, 225, 266, 313 Svāyambhuva, 77 Sylvain Levi, 121 Tāla, 120 Talavakāropaniṣad, 199 Tamas, 231, 251, 252, 267 Tandu, 114, 115 Tantra, 45, 75, 76, 77, 80, 82, 
 83, 94, 103 Tantra Bhairavī, 78 Tantrāloka, 1, 6, 9, 12, 14, 15, 
@@ -414,7 +414,7 @@ Theory of momentariness, 192 | Universal Self, 176, 202, 203, Thibaut, 319
 59 
 Vāgisa, 79 Tryambaka, 72, 74, 80 
 Vaidūryakantha, 152 Turyanātha, 82 
-Vaikhari, 40, 44 Turīya, 167, 168, 204, 236 Vaišeṣika, 195, 212, 231 Turīyātīta, 167, 168, 209 Vaisnava, 57, 58 Udbhata, 11, 126, 131, 138, 142 Vākyapadīya, 143 Udyota, 145 
+Vaikhari, 40, 44 Turīya, 167, 168, 204, 236 Vaiśeṣika, 195, 212, 231 Turīyātīta, 167, 168, 209 Vaisnava, 57, 58 Udbhata, 11, 126, 131, 138, 142 Vākyapadīya, 143 Udyota, 145 
 Vāmana, 11, 131, 138, 139 Ugrajyoti, 104 
 Vāmanācārya, 18 Ultimate, 147, 190, 194, 199, Vāmanadattācārya, 139 
 203, 204, 205, 206, 207, Vāmanagupta, 139, 145 

@@ -64,7 +64,7 @@ We do not know the learned Doctor's reasons for assign ing these works to Kșeme
 
 S. S. Vi., P. 14. "Etat Spanda Nirnaye nirākāňkṣam mayaiva nirnītam." 
 
-S. S. Vi., P. 129. 7. PRATYABHIJÑA HRDAYA. 8. COMMENTARY ON THE ABOVE. 9. SIVA SUTRA VIMARṣINI. 10. VIVRTI ON THE STAVA CINTAMAŅI. 11. UTPALA STOTRĀVALI TIKĀ. 12. PARĀ PRAVEŠIKĀ. 13. TIKĀ ON SAMBA PANCASIKĀ 
+S. S. Vi., P. 129. 7. PRATYABHIJÑA HRDAYA. 8. COMMENTARY ON THE ABOVE. 9. SIVA SUTRA VIMARṣINI. 10. VIVRTI ON THE STAVA CINTAMAŅI. 11. UTPALA STOTRĀVALI TIKĀ. 12. PARĀ PRAVEśIKĀ. 13. TIKĀ ON SAMBA PANCASIKĀ 
 
 14. A COMMENTARY ON THE KRAMA SŪTRA. Of this we know only from the following reference in Maheśvarānanda's commentary on his own Mahārtha Mañjarī, P. 166: 
 

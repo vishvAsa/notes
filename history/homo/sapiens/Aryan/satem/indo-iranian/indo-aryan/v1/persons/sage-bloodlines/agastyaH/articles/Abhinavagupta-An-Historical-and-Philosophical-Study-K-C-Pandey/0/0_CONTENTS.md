@@ -47,7 +47,7 @@ Schools
 4 
 ) 
 104 
-Page. The position of this School in the time of Abhinava ... 103 Lakulīšapāśupata Saiva dualists of the post-Abhinava period 
+Page. The position of this School in the time of Abhinava ... 103 Lakulīśapāśupata Saiva dualists of the post-Abhinava period 
 106 Identity of the Siddhānta School with Saiva Darsana 
 of Mādhava 
 112 

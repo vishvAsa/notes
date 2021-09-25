@@ -16,7 +16,7 @@ Trika
 3, 38 
 Trika Sastra 
 17, 130 Dvaipāyanamukhya Nara Simha Patañjali 
-19 Pati Sasana Parameśāna Šāstra 
+19 Pati Sasana Parameśāna śāstra 
 20 
 Pratyabhijñā Prabodha Pañcadaśikā Bharga Sikhā 
 17 Bhutajāntaniväsi 
@@ -101,7 +101,7 @@ Vādya Tantra
 Vāmana (Advaya Sampatti Vārtika) 
 198 
 Vivrti (Somānanda) ... 
-16, 52, 59 Vīrāvali Šāstra ... 
+16, 52, 59 Vīrāvali śāstra ... 
 236 
 Vyāsa 
 51 Siva Drṣti (Somānanda) ... 114, 129, 160, 177, 273 Sīva Drstyālocana (Abhi) 
@@ -190,7 +190,7 @@ Cārvāka Cukhulaka Tantraloka Trika Sastra
 vwO 
 10 
 12 
-Trika Sūtra Triširo Bhairavāgama 3 Triširo mata Triśirah Sāstra 1 
+Trika Sūtra Triśiro Bhairavāgama 3 Triśiro mata Triśirah Sāstra 1 
 258, 309 35, 149 
 302 1, 2, 187 
 38 101 
@@ -201,13 +201,13 @@ Trika Sūtra Triširo Bhairavāgama 3 Triširo mata Triśirah Sāstra 1
 22 
 9 
 237 
-Trīšikā Sastra 
+Trīśikā Sastra 
 317, 421, 449 
 198 98 
 8 
 13 
 96 
-Trīšikāśāstra Vivrti Traisirasamata Dīkṣottara 
+Trīśikāśāstra Vivrti Traisirasamata Dīkṣottara 
 1 
 155 
 99 
@@ -234,7 +234,7 @@ COCA CO CO op
 237 
 1 
 149 
-Pañcamukhagupta Pati Šāstra Pārameśvara Sāstra Pūrva Sastra 
+Pañcamukhagupta Pati śāstra Pārameśvara Sāstra Pūrva Sastra 
 1 
 N 
 194, 281 
@@ -397,7 +397,7 @@ Page
 187 
 32, 97, 99, 107, 186 
 186 
-Anubhava Stotra Ananda Ucchuṣma Sastra Kaņāda Kallata Tantra Kula Tantra Sadbhāva Tantrāloka Triširomata Nandi Sikha Nitya Tantra Pāņini Pārameśvara Prakarana Vivarana (Abhi) Bhūtirāja Guru Matanga Sastra Malla Kulesa Mālini Vijaya 
+Anubhava Stotra Ananda Ucchuṣma Sastra Kaņāda Kallata Tantra Kula Tantra Sadbhāva Tantrāloka Triśiromata Nandi Sikha Nitya Tantra Pāņini Pārameśvara Prakarana Vivarana (Abhi) Bhūtirāja Guru Matanga Sastra Malla Kulesa Mālini Vijaya 
 Yāmala Yoga Sancara Ratnamāla Raurava Sastra 
 27 
 187 2, 32, 61 
@@ -478,7 +478,7 @@ Page Jaimineya
 148 Rāmāyana 
 11, 123 Vatsarāja Carita 
 162 Vamana 
-10, 37 Vikramorvašī 
+10, 37 Vikramorvaśī 
 175 Viniscaya Țikā Dharmottamā 
 188 
 199 
@@ -574,7 +574,7 @@ karavatsa) Vrttikt Veda Veda Siddhānta
 403) 
 Name 
 Vol. 
-Vaišeṣika Sākya Sivadrști 
+Vaiśeṣika Sākya Sivadrști 
 Page 34, 135 
 243 15, 49 
 271 

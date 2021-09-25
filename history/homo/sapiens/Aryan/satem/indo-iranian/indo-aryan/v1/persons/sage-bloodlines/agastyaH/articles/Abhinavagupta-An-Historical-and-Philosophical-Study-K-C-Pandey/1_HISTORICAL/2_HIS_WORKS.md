@@ -94,11 +94,11 @@ Secondly, because it is mostly controversial in its contents and the controversi
 
 And thirdly, because it is a detailed explanation of some passages of the Mālini Vijaya Tantra, also called 
 
-Purva Šāstra. 
+Purva śāstra. 
 
 ("Vākyārthaṁ kathaye kiñcin Mālinyāth yat kvacit kvacit." 
 
-M. V. V., 2.) And we know on the authority of the P.T. V. that he wrote a regular commentary on the Pūrva Šāstra, called Pūrva Pañcikā, before the former work : 
+M. V. V., 2.) And we know on the authority of the P.T. V. that he wrote a regular commentary on the Pūrva śāstra, called Pūrva Pañcikā, before the former work : 
 
 ("Nirņītañca etat mayaiva Srīpūrvapañcikāyām." 
 
@@ -476,7 +476,7 @@ IV VAIKHARI. It is that form of speech which we use in our daily transactions. I
 
 The distinction of each one of the four forms of speech from the rest of them will become clear if we were to compare them with the four conditions of a seed before it sends out its sprout. The Parā is like that condition of a seed, in which all the future forms of the sprout, according to the Sankhya conception, exist in the state of absolute unity. The Paśyanti is just like that condition in which there is just the rise of that state which is responsible for the first perceptible development. It is just like self preparation on the part of a person before he makes any perceptible movement to stir or jump. The third i. e. Madhyamā is like the enlargement of seed in which though there is a perceptible change from the original condition yet the two (seed and sprout) cannot be pointed out as distinct from each other in point of substratum. The last i. e. Vaikharī is comparable to that condition in which the sprout has appeared as distinct from the seed and both are directly perceptible as distinct from each other in all respects not excluding that of the substratum. 
 
-The reader will, now, understand that Parā with the explanation of which the Parā Trīsikā is concerned is nothing but the Parā Samvid or Anuttara ; and that the adjunct "Trīšikā", which forms a component part of the compound which stands as the title of the book, is meant to distinguish this Parā from the first of the four forms of speech involved 
+The reader will, now, understand that Parā with the explanation of which the Parā Trīsikā is concerned is nothing but the Parā Samvid or Anuttara ; and that the adjunct "Trīśikā", which forms a component part of the compound which stands as the title of the book, is meant to distinguish this Parā from the first of the four forms of speech involved 
 
 1. P. T. V., 4-5. 
 
@@ -500,7 +500,7 @@ This is the most voluminous of all the works of Abhinava discovered so far. It d
 
 CHAPTER II. 
 
-it gives authoritative information on others also such as the Krama etc. It is the most authoritative book on the said subjects, because the statements made in it are not simply matters of opinion, but are based on the authority of the Saivāgama, as traditionally interpreted, and, what is more, on the personal experience of the author himself. It consists of thirty-seven chapters, but only fourteen have so far been published. They, together with the valuable commentary of Jayaratha, cover eight volumes. Of these the first five, the ninth and the thirteenth chapters are of very great philosophical importance. The first gives in brief all that is to be dealt with later in detail. The following four deal successively, with the four ways to the final emancipation, namely, (I) Anupāya, (II) Sambhava, (III) Sākta, (IV) and Anava. The ninth is interesting because it deals with the thirty six Tattvas of the Saiva philosophy and the interest of the thirteenth lies in its giving us an idea of the Saiva theory of Karma. 
+it gives authoritative information on others also such as the Krama etc. It is the most authoritative book on the said subjects, because the statements made in it are not simply matters of opinion, but are based on the authority of the Saivāgama, as traditionally interpreted, and, what is more, on the personal experience of the author himself. It consists of thirty-seven chapters, but only fourteen have so far been published. They, together with the valuable commentary of Jayaratha, cover eight volumes. Of these the first five, the ninth and the thirteenth chapters are of very great philosophical importance. The first gives in brief all that is to be dealt with later in detail. The following four deal successively, with the four ways to the final emancipation, namely, (I) Anupāya, (II) Sambhava, (III) śākta, (IV) and Anava. The ninth is interesting because it deals with the thirty six Tattvas of the Saiva philosophy and the interest of the thirteenth lies in its giving us an idea of the Saiva theory of Karma. 
 
 THE MOST IMPORTANT POINTS DISCUSSED 
 
@@ -752,7 +752,7 @@ Tadvadupādher gunabhāvitasya bhävam vibhur dhatte."
 
 A. K., S. 7. 
 
-and "Nanavidhavarnānām rūpān dhatte yathāmalah sphatikah Suramānuṣapaśupādaparāpatvam tadvadīšopi." 
+and "Nanavidhavarnānām rūpān dhatte yathāmalah sphatikah Suramānuṣapaśupādaparāpatvam tadvadīśopi." 
 
 P.S., S. 6. Here the difference of principle will be apparent to any one familiar with the ideas of the two systems. According to the Sāükhya, limitation is the result of the nearness of its cause with what is limited and the two have separate independent existence. But, according to the Trika, it is simply a result of the free will of the one who is all powerful and independent of whom nothing has or can have an existence. However, because of the commonness 
 
