@@ -193,24 +193,22 @@ The concluding line of the Paramārthasāra and Yogarāja's commentary on it giv
 
 P. S., 198. 
 
-> śivasya para-śreyaḥ-svabhāvasya svātma-sthasya cidānandaika-mūrteḥ yāni caraṇāni cid-raśmayah teṣām smaranath sabdādiviṣayagrahanakāle nibhālanam pratiksaṇam svānu bhavāpramosah tena dīptah parāhantācamatkārabhā svaraḥ.. ..................iti upadeṣtuh samā vista maheśvara svabhāvonena uktaḥ syāt." 
+> śivasya para-śreyaḥ-svabhāvasya svātma-sthasya cid-ānandaika-mūrteḥ yāni caraṇāni cid-raśmayaḥ, teṣām smaranaṁ, śabdādi-viṣaya-grahaṇa-kāle nibhālanaṁ, prati-kṣaṇaṁ svānubhavāpramoṣaḥ, tena dīptah parāhantā-camatkāra-bhāsvaraḥ.. ..................iti upadeṣṭuḥ samāvisṭa-maheśvara-svabhāvo 'nena uktaḥ syāt." 
 
-This seems to be the foundation of the traditional belief amongst Kashmirian Pandits that Abhinavagupta was Bhairava incarnate. 
+This seems to be the foundation of the traditional belief amongst Kashmirian Pandits that Abhinavagupta was Bhairava incarnate.+++(4)+++ 
 
 ## HIS MIRACULOUS POWERS. 
-Human nature is always the same everywhere. We should, therefore, not be surprised at the suspicious eye with which the present generation looks at all claims to individual spiritual greatness, particularly because there are so many impostors abroad now. In the time of Abhinavagupta also people did not very easily believe in any such claim. It was, therefore, not without any reason, as the literary tradition says, that they looked upon Abhinava as Bhairava incarnate. Just as the enlightened people of the present time would not admit any body's claim to realisation of 
+Human nature is always the same everywhere. We should, therefore, not be surprised at the suspicious eye with which the present generation looks at all claims to individual spiritual greatness, particularly because there are so many impostors abroad now. In the time of Abhinavagupta also people did not very easily believe in any such claim. It was, therefore, not without any reason, as the literary tradition says, that they looked upon Abhinava as Bhairava incarnate. Just as the enlightened people of the present time would not admit any body's claim to realisation of identity with the Almighty unless he should show himself to be almighty, so did not the contemporaries of Abhinava. Following the authority of the śrīpūrva śāstra he has himself given the five infallible signs of such a man 1 which can briefly be stated as follows: 
 
-16 
+- 1. Unswerving devotion to Rudra. 
+- 2. Power of incantation (mantra-siddhi) 
+- 3. Control over all the elements. 
+- 4. Capacity to accomplish the desired end. 
+- 5. Sudden dawning of the knowledge of all the śāstras. 
 
-CHAPTER I. 
+And we learn from Jayaratha, who also bases his statement on the authority of his teacher whose verse he quotes, that Abhinava's contemporaries found all the above signs unmistakably present in him.+++(4)+++ This was the secret of his great influence with his contemporaries and of the unparalleled success as a writer in the field of both the Saiva philosophy and the poetics. 
 
-identity with the Almighty unless he should show himself to be almighty, so did not the contemporaries of Abhinava. Following the authority of the Srīpūrva śāstra he has himself given the five infallible signs of such a man' which can briefly be stated as follows: 
-
-1. Unswerving devotion to Rudra. 2. Power of incantation (mantra siddhi) 3. Control over all the elements. 4. Capacity to accomplish the desired end. 5. Sudden dawning of the knowledge of all the 
-
-śāstras. And we learn from Jayaratha, who also bases his statement on the authority of his teacher whose verse he quotes, that Abhinava's contemporaries found all the above signs unmistakably present in him. This was the secret of his great influence with his contemporaries and of the unparalleled success as a writer in the field of both the Saiva philosophy and the poetics. 
-
-CENTRES OF HIS ACTIVITY. 
+## CENTRES OF HIS ACTIVITY. 
 
 We have had occasion to speak about the site of his ancestral home. In one of the MSS. of the T. A., belonging to Pandit Maheśvara Rājdān of Kashmir, a different reading of the passage, descriptive of the site where a house was built for Atrigupta, is found. It reads "Vaitasta mūrdhani" instead of "Vaitasta rodhasi" as in the MS. in the possession of the writer of these pages. The conclusion was easy and so once the exact spot of Abhinava's ancestral home was thought to have been discovered. The writer visited the place and found that there is a small village just above the source of Vitastā (Vaitasta mūrdhani) which even to this 
 
