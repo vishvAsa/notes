@@ -50,21 +50,21 @@ His father, Narasimha-gupta, alias Cukhulaka, was of great intellectual calibre,
 
 In view of the facts stated above and supported by the authority of Abhinavagupta himself, quoted in full in Appendix (A), the statement of Pandit Madhusudan Kaul of the Kashmir Research Department in his introduction to the I. P. V., Vol. II, P. 7 about the name of Abhinava's father requires correction. His statement runs as follows: 
 
-\*He received instruction in the Pratyabhijñā śāstra from his father Laksmanagupta, son of Narasimhagupta and pupil to Utpala" 
+> "He received instruction in the Pratyabhijñā-śāstra from his father Lakṣmaṇa-gupta, son of Narasimha-gupta and pupil to Utpala" 
 
-Lakṣmanagupta, though undoubtedly a teacher of Abhinava in Pratyabhijñā was certainly not his father; nor was there a relation of father and son between Narasimha gupta and Lakṣmanagupta. The father of the latter, according to the following statement of Abhinaya, was Utpalācārya : 
+Lakṣmanagupta, though undoubtedly a teacher of Abhinava in Pratyabhijñā was certainly not his father; nor was there a relation of father and son between Narasimha gupta and Lakṣmaṇagupta. The father of the latter, according to the following statement of Abhinava, was Utpalācārya : 
 
-"Traiyambakaprasarasāgaravīcisomā nandātmajotpalajalakṣmaṇaguptanāthah." 
+> "Traiyambaka-prasara-sāgara-vīci-somā-  
+> nandātmajotpala-ja-lakṣmaṇa-gupta-nāthah."  
+> T. A., Ah. 37 (MS.) 
 
-T. A., Ah. 37 (MS.) 
+- 1. T. A. Comm., I. 14. 
 
-1. T. A. Comm., I. 14. 
+## ABHINAVA AS A YOGINĪBHŮ.
+In and about the 10th and the 11th centuries the atmosphere in Kashmir was thoroughly surcharged with the spirit of religion. The people then believed in the efficacy of religious observances. All that was great and good was believed to be attainable by some kind of religious performance or other. For each worldly gain there was prescribed a separate elaborate ceremony. A king wishing to enlarge his kingdom, a student anxious to widen his knowledge, a father aspiring for a worthy son and a merchant desirous of prosperity in his business, each had to perform some special rite to bring about the speedy realisation of his desire. When failure came inspite of these observances, it was attributed to some flaw in the performance of the prescribed rite. Abhinava's literary greatness also, therefore, was naturally attributed not so much to his own exceptional natural intelligence and great assiduity as to a certain religious frame of mind in which his parents had united for his birth?. It is enjoined in the saiva scripture that the parents, desirous of a son, who in Saiva terminology is called Yoginībhū, should rise above all worldly ideas at the time of meeting and that the mother should identify herself with Śakti and the father with Siva.+++(5)+++ And it is believed that only a Yoginībhū can properly understand and intelligibly propound the Saiva monism. According to Jayaratha, the popular idea of Abhinava's being yognībhū was based upon Abhinava's own authority. For, he, as Jayaratha interprets, refers to this fact in the very first verse of the Tantrāloka. 
 
-CHAPTER 1. 
-
-ABHINAVA AS A YOGINĪBHŮ. In and about the 10th and the 11th centuries the atmosphere in Kashmir was thoroughly surcharged with the spirit of religion. The people then believed in the efficacy of religious observances. All that was great and good was believed to be attainable by some kind of religious performance or other. For each worldly gain there was prescribed a separate elaborate ceremony. A king wishing to enlarge his kingdom, a student anxious to widen his knowledge, a father aspiring for a worthy son and a merchant desirous of prosperity in his business, each had to perform some special rite to bring about the speedy realisation of his desire. When failure came inspite of these observances, it was attributed to some flaw in the performance of the prescribed rite. Abhinava's literary greatness also, therefore, was naturally attributed not so much to his own exceptional natural intelligence and great assiduity as to a certain religious frame of mind in which his parents had united for his birth?. It is enjoined in the saiva scripture that the parents, desirous of a son, who in Saiva terminology is called Yoginībhū, should rise above all worldly ideas at the time of meeting and that the mother should identify herself with Śakti and the father with Siva. And it is believed that only a Yoginībhū can properly understand and intelligibly propound the Saiva monism. According to Jayaratha, the popular idea of Abhinava's being yognībhū was based upon Abhinava's own authority. For, he, as Jayaratha interprets, refers to this fact in the very first verse of the Tantrāloka. 
-
-PROBABLE TIME OF HIS BIRTH. The era, used in the works of Kashmir writers from the earliest time, is known as Saptarṣi. It began 25 years 
+## PROBABLE TIME OF HIS BIRTH. 
+The era, used in the works of Kashmir writers from the earliest time, is known as Saptarṣi. It began 25 years 
 
 1. T. A. Comm., I, 14-5.LIFE OF ABHINAVAGUPTA 
 
