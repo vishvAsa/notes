@@ -11,7 +11,7 @@ Abhinava, it appears, knew the importance of biographical information about a wr
 
 The Abhinavagupta, studied in the following pages, is a different person from his namesake who was a śākta contemporary of Sankarācārya. The only source of information about the other Abhinavagupta is the Sankara Digvijaya of Mādhava, which is noticed under a slightly different name "Sūkṣma Sankara Vijayas" in Dr. Aufrecht's catalogue. It gives the following account of him : 
 
-He belonged to Kāmarūpa (Assam). He was a śākta and wrote a śāktabhāșya, probably a commentary on the Vedānta Sūtra of Bādarāyaṇa, from the śākta point of view. He was a great opponent of the monistic theory of Sankara. He engaged Sankara in a controversial dis cussion (śāstrārtha) when the latter reached Assam in the course of his Digvijaya. In that he was defeated and so, according to the then prevalent practice, became a disciple of the victor. Like our Kashmirian Abhinavagupta, his śākta namesake also is referred to as an ācārya”. 
+He belonged to Kāmarūpa (Assam). He was a śākta and wrote a śāktabhāṣya, probably a commentary on the Vedānta Sūtra of Bādarāyaṇa, from the śākta point of view. He was a great opponent of the monistic theory of Sankara. He engaged Sankara in a controversial dis cussion (śāstrārtha) when the latter reached Assam in the course of his Digvijaya. In that he was defeated and so, according to the then prevalent practice, became a disciple of the victor. Like our Kashmirian Abhinavagupta, his śākta namesake also is referred to as an ācārya”. 
 
 Our object in giving the above account is to point out that if Mādhava's testimony in reference to the śākta Abhinavagupta is to be considered reliable, he should not be confused with the Saiva Abhinavagupta of Kashmir. Their distance from each other is about two centuries. The former, if he was Sankara’s contemporary, must have lived in the last quarter of the 8th and the first half of the 9th century A. D., for, according to the generally accepted opinion, Sankara lived from 788 to 820 A. D.; and the latter, on the evidence of the dates of composition of the Krama and the Bhairava Stotras and the Brahati Vimarsini, given by the author himself, belonged to the second 
 
@@ -65,7 +65,7 @@ CHAPTER 1.
 
 ABHINAVA AS A YOGINĪBHŮ. In and about the 10th and the 11th centuries the atmosphere in Kashmir was thoroughly surcharged with the spirit of religion. The people then believed in the efficacy of religious observances. All that was great and good was believed to be attainable by some kind of religious performance or other. For each worldly gain there was prescribed a separate elaborate ceremony. A king wishing to enlarge his kingdom, a student anxious to widen his knowledge, a father aspiring for a worthy son and a merchant desirous of prosperity in his business, each had to perform some special rite to bring about the speedy realisation of his desire. When failure came inspite of these observances, it was attributed to some flaw in the performance of the prescribed rite. Abhinava's literary greatness also, therefore, was naturally attributed not so much to his own exceptional natural intelligence and great assiduity as to a certain religious frame of mind in which his parents had united for his birth?. It is enjoined in the saiva scripture that the parents, desirous of a son, who in Saiva terminology is called Yoginībhū, should rise above all worldly ideas at the time of meeting and that the mother should identify herself with Śakti and the father with Siva. And it is believed that only a Yoginībhū can properly understand and intelligibly propound the Saiva monism. According to Jayaratha, the popular idea of Abhinava's being yognībhū was based upon Abhinava's own authority. For, he, as Jayaratha interprets, refers to this fact in the very first verse of the Tantrāloka. 
 
-PROBABLE TIME OF HIS BIRTH. The era, used in the works of Kashmir writers from the earliest time, is known as Saptarși. It began 25 years 
+PROBABLE TIME OF HIS BIRTH. The era, used in the works of Kashmir writers from the earliest time, is known as Saptarṣi. It began 25 years 
 
 1. T. A. Comm., I, 14-5.LIFE OF ABHINAVAGUPTA 
 
@@ -97,9 +97,9 @@ T. A., I, 50.
 
 LIFE OF ABHINAVAGUPTA. 
 
-ABHINAVAGUPTA, AN INCARNATION OF SEȘA, 
+ABHINAVAGUPTA, AN INCARNATION OF SEṣA, 
 
-In South India there is a tradition, current among those who even now dance in strict accordance with the rules, given by Bharata in his Natya Sastra, that Abhinavagupta pāda was an incarnation of Seșa. This tradition seems to be another and later interpretation of the name "Abhina vaguptapāda". It was most probably suggested by the great reputation that he enjoyed, like Patamjali alias Seṣa, for his thorough mastery of all the intricacies of grammar and his extraordinary skill and originality in dealing with the difficult grammatical problems. To his great proficiency in grammar he himself refers in the Tantrāloka as follows: 
+In South India there is a tradition, current among those who even now dance in strict accordance with the rules, given by Bharata in his Natya Sastra, that Abhinavagupta pāda was an incarnation of Seṣa. This tradition seems to be another and later interpretation of the name "Abhina vaguptapāda". It was most probably suggested by the great reputation that he enjoyed, like Patamjali alias Seṣa, for his thorough mastery of all the intricacies of grammar and his extraordinary skill and originality in dealing with the difficult grammatical problems. To his great proficiency in grammar he himself refers in the Tantrāloka as follows: 
 
 “Pitrā sa sabdagahane krtasampraveśah." 
 
@@ -161,7 +161,7 @@ Others in whose cases subjects are not specified : 8. Sricandra.
 
 HIS FAMILY AND ITS ATMOSPHERE. 
 
-Besides his father and mother, his family consisted of an uncle, Vāmanagupta, a younger brother, Manoratha, and five cousins, Kṣema, Utpala, Abhinava, Cakraka and Padmagupta. His uncle's name is included in the list of his teachers. In the Abhinava Bhāratī, Abhinava quotes his uncle who, therefore, seems to have written on poetics. His brother was deeply learned in all Sāstras and was the first to be favoured by Abhinava by being accepted as his disciple. And if the name Kṣema be supposed to stand for Kșemarāja, the author of the Spanda Nirnaya and other works on Saivaism, and the others, classed with him, be also supposed to have had more or less similar qualities, then his cousins also seem to have been very highly educated. Whatever may have been their education, there is no doubt that they prized devotion 
+Besides his father and mother, his family consisted of an uncle, Vāmanagupta, a younger brother, Manoratha, and five cousins, Kṣema, Utpala, Abhinava, Cakraka and Padmagupta. His uncle's name is included in the list of his teachers. In the Abhinava Bhāratī, Abhinava quotes his uncle who, therefore, seems to have written on poetics. His brother was deeply learned in all Sāstras and was the first to be favoured by Abhinava by being accepted as his disciple. And if the name Kṣema be supposed to stand for Kṣemarāja, the author of the Spanda Nirnaya and other works on Saivaism, and the others, classed with him, be also supposed to have had more or less similar qualities, then his cousins also seem to have been very highly educated. Whatever may have been their education, there is no doubt that they prized devotion 
 
 1. T. A., Comm., III, 194. 3. A. Bh., 1. 5. A. Bh., 297. 
 

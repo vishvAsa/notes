@@ -22,7 +22,7 @@ Our attempt, therefore, in the following pages is to present this system of Saiv
 
 ABHINAVA'S CONTRIBUTION. 
 
-Indian philosophers, however original their works, have never claimed originality for themselves; their attempt has always been to show that whatever they say is based upon an ancient authority. This holds good in the case of both the Vedic and the non-vedic systems. Sankara declares in unmistakable terms that the only test of correctness of a view is its harmony with the teachings of the Veda and that the argument has value and is to be relied upon only in so far as it supports the principles laid down in the Veda.1 Similarly, Somānanda, the author of the Sivadrști and so the real founder of the Pratyabhijñā School, emphatically states that his Sivadrsti is not a pure creation of his mind but is based upon Sāstra, though his pupil, Utpalācārya, holds that it shows a new path to final emancipation. A 
+Indian philosophers, however original their works, have never claimed originality for themselves; their attempt has always been to show that whatever they say is based upon an ancient authority. This holds good in the case of both the Vedic and the non-vedic systems. Sankara declares in unmistakable terms that the only test of correctness of a view is its harmony with the teachings of the Veda and that the argument has value and is to be relied upon only in so far as it supports the principles laid down in the Veda.1 Similarly, Somānanda, the author of the Sivadrṣti and so the real founder of the Pratyabhijñā School, emphatically states that his Sivadrsti is not a pure creation of his mind but is based upon Sāstra, though his pupil, Utpalācārya, holds that it shows a new path to final emancipation. A 
 
 1. 
 
@@ -108,7 +108,7 @@ India "Calcutta" or "Bombay". They are parts and very important parts, but sever
 
 It is also called ṣadardha Sāstra," (literally, the school of half of the six) for the following reason : 
 
-This system holds that the Devanāgarī or the Sāradā alphabet represents the process of manifestation of ideas (Parāmarśodayakrama). The first six vowels, a ā ii u ū, for instance, represent the order of succession in which the powers of Anuttara, Ananda, Icchā, Iśana, Unmeșa and 
+This system holds that the Devanāgarī or the Sāradā alphabet represents the process of manifestation of ideas (Parāmarśodayakrama). The first six vowels, a ā ii u ū, for instance, represent the order of succession in which the powers of Anuttara, Ananda, Icchā, Iśana, Unmeṣa and 
 
 1. 2. 3. 
 
@@ -138,7 +138,7 @@ following verse, the knowledge of the six vedic systems of philosophy and of the
 
 It requires also a previous study of all the Agamas, a knowledge of the arguments of other dualistic and monistic systems and a command over grammar : 
 
-"Yodhīti nikhilāgameșu padavid yo yogaśāstraśrami Yo vākyārthasamanvaye krtaratih śrīpratyabhijñāmrte Yastarkāntaraviśrutaśrutatayā dvaitādvayajñānavit Sosmin syādadhikāravān kalakalaprāyah pareṣām ravah." 
+"Yodhīti nikhilāgameṣu padavid yo yogaśāstraśrami Yo vākyārthasamanvaye krtaratih śrīpratyabhijñāmrte Yastarkāntaraviśrutaśrutatayā dvaitādvayajñānavit Sosmin syādadhikāravān kalakalaprāyah pareṣām ravah." 
 
 THE AIM. 
 
@@ -434,7 +434,7 @@ of three systems, the Idealistic and the Nihilistic schools of Buddhism and the 
 
 VIJÑANAVĀDIN'S CONCEPTION OF MOKṣA. The Citta (mind or self ?), the Vijñānavādins hold, is extremely pure by nature. Because of the beginningless ignorance, however, it is covered up with adventitious im purities which are the cause of the appearance of the transitory world phenomena. And because all the experiences of the phenomenal world are entirely due to the impurities, the former, therefore, automatically cease with the cessation of the latter. Thus the nirvāṇa is nothing but freedom from the impurities. It is to be attained through constant deep meditation and other practices enjoined in the Buddhist scripture. 
 
-ITS REFUTATION. The defects of the above conception of nirvāṇa are apparent. It conflicts with the well known Bauddha theory of momentariness. If all that exists, is momentary, so also must be the mind. And if so, it cannot have existence long enough to be affected by Bhāvanā and, therefore, there can be no possibility of Mokșa which is simply its effect. Moreover, according to the Idealistic Buddhism, each moment (kṣaņa) gives birth to another which is similar to it in all respects. How can then the veiled original moment produce one which is dissimilar to it, i.e., free from the veil ? 
+ITS REFUTATION. The defects of the above conception of nirvāṇa are apparent. It conflicts with the well known Bauddha theory of momentariness. If all that exists, is momentary, so also must be the mind. And if so, it cannot have existence long enough to be affected by Bhāvanā and, therefore, there can be no possibility of Mokṣa which is simply its effect. Moreover, according to the Idealistic Buddhism, each moment (kṣaņa) gives birth to another which is similar to it in all respects. How can then the veiled original moment produce one which is dissimilar to it, i.e., free from the veil ? 
 
 NIHILIST'S THEORY OF MOKṣA AND ITS REFUTATION. 
 

@@ -56,7 +56,7 @@ and not av. It was the titleenthurazi, and
 
 prevailed. Once Srikantha, (this is one of the names of Siva) while roaming over the mountain Kailāsa, was touched with pity for the suffering humanity, which was then immersed in spiritual darkness caused by the dis appearance of the Saivāgamas. He, therefore, instructed the sage, Durvāsas, to revive the Saivāgamic teaching, The sage accordingly divided all the Saivāgamas into three classes according as they taught monism, dualism or monism-cum-dualism, imparted their knowledge to his three mind-born sons, Tryambaka, Amardaka and Srīnātha respectively, and charged each one of them separately with the mission of spreading the knowledge of their respective āgamas. Thus there came into existence three Saiva Tantric Schools, each known by the name of the first earthly propagator. It may be noted here that there is one more ägamic school which is known as “half-Tryambaka' (ardhatryambaka) because it was founded by a descendant of Tryambaka on the side of his daughter. 
 
-We have not made any considerable attempt up to this time to search for the preceptorial lines of the Dvaita and the Dvaitādvaita Tantras. Whatever information, however, we have been able to collect from the available sources on the teachers of these two schools and their contributions to the Saiva literature, to which there are repeated references in Abhinava's works, we shall put in the middle of this very chapter. As regards the successive teachers of the Advaita Tantras, we find a tolerably good account in the closing chapter of the Sivadrșți of Somānanda, the great grand teacher of Abhinava. In that he represents himself to be the 19th descendant of Tryambaka, the founder of the Advaita Tantric School. Of the first fourteen ancestors after Tryambaka he did not know much. His account of the (fifteenth is a little definite. According to this, his name I was Samgamāditya; he married a Brāhmana girl, came 
+We have not made any considerable attempt up to this time to search for the preceptorial lines of the Dvaita and the Dvaitādvaita Tantras. Whatever information, however, we have been able to collect from the available sources on the teachers of these two schools and their contributions to the Saiva literature, to which there are repeated references in Abhinava's works, we shall put in the middle of this very chapter. As regards the successive teachers of the Advaita Tantras, we find a tolerably good account in the closing chapter of the Sivadrṣți of Somānanda, the great grand teacher of Abhinava. In that he represents himself to be the 19th descendant of Tryambaka, the founder of the Advaita Tantric School. Of the first fourteen ancestors after Tryambaka he did not know much. His account of the (fifteenth is a little definite. According to this, his name I was Samgamāditya; he married a Brāhmana girl, came 
 
 not sorrhorn who broke the bradehou of eelila and manned a Brat mie girl. The son vorn! 
 
@@ -96,7 +96,7 @@ and
 
 "Bhatta Kallaţa putrena Mukulena nirūpitā 
 
-Sūri prabodhanāyeyam Abhidhāvștti Mātěkā.” 
+Sūri prabodhanāyeyam Abhidhāvṣtti Mātěkā.” 
 
 If, therefore, Somānanda belonged to the later half of the 9th century A. D., it would not be wrong to say that the monistic, the dualistic and the dualistic-cum-monistic schools of Saivaism arose in the last quarter of the 4th century A. D. For, if we follow the traditional method of allowing 25 years for each generation we will have to admit that a period of four hundred and fifty years inter vened between Tryambaka, the founder of the monistic school of Saivaism, and Somānanda, the founder of the Pratyabhijna school ; because, the latter was the 19th descendant of the former. 
 
@@ -108,7 +108,7 @@ HISTORICAL BACKGROUND OF HIS THOUGHT
 
 Saivaism was simply a form of worship of the particular deity after which the faith was called and the introduction of the philosophical element came much later as a result of the influence of Buddhism. 
 
-It is not possible for us to state the time of composition of the different Tantras, because very few of them are so far available. How can any correct conclusion be possible unless all of them or at least a respectable number of them be carefully read? As regards their division into the three Saiva schools, there seems to have existed a difference of opinion a little before the time of Abhinava ; for, there is the evidence of Kșemarāja that the Svacchanda Tantra, on which he has commented from the point of view of Saiva monism, was before his time explained in accordance with the principles of dualism. 
+It is not possible for us to state the time of composition of the different Tantras, because very few of them are so far available. How can any correct conclusion be possible unless all of them or at least a respectable number of them be carefully read? As regards their division into the three Saiva schools, there seems to have existed a difference of opinion a little before the time of Abhinava ; for, there is the evidence of Kṣemarāja that the Svacchanda Tantra, on which he has commented from the point of view of Saiva monism, was before his time explained in accordance with the principles of dualism. 
 
 ("Nāmnaiva bhedadrstir vidhutā yenāsvatantratatattvā Srimat Svatantra Tantram bhedavyākhyām na tat sahate.") 
 
@@ -236,11 +236,11 @@ T. A., Ah. 37, S. 61. (MS.)
 
 but also as a pupil of Soma, which is an abbreviated form of Somadeva, who was Sambhunātha's teacher in Atimārga or Kulamārga, as the following statement of Jayaratha in his commentary on the Tantrāloka, I, 213, coupled with a quotation makes clear : 
 
-"Sri Sumatināthasya Somadevah Sișyah tasya Sri S'ambhunāthah yad vakṣyati "Srī Somatah sakalavit kila Sambhunāthah" 
+"Sri Sumatināthasya Somadevah Siṣyah tasya Sri S'ambhunāthah yad vakṣyati "Srī Somatah sakalavit kila Sambhunāthah" 
 
 yattu 
 
-"Kaścid daksinabhūmipīthavasatiḥ śrīmān vibhur Bhairavah Pancasrotasi sātimärgavibhave sastre vidhātā ca yah Lokebhūt Sumatis tatah samudabhūt tasyaiva sișyāgranīh Srīmāñchambhuriti prasiddhim agamaj-Jalandharāt pīthatah ityanyatroktam tat paramagurvabhiprāyena yojyam." 
+"Kaścid daksinabhūmipīthavasatiḥ śrīmān vibhur Bhairavah Pancasrotasi sātimärgavibhave sastre vidhātā ca yah Lokebhūt Sumatis tatah samudabhūt tasyaiva siṣyāgranīh Srīmāñchambhuriti prasiddhim agamaj-Jalandharāt pīthatah ityanyatroktam tat paramagurvabhiprāyena yojyam." 
 
 We, therefore, hold that the words "atinaya", "kulamārga", “kālīnaya" and "ardhatryambakamathikā" stand for the same school of Saivaism. 
 
@@ -286,11 +286,11 @@ The rise of a system presupposes the existence of the material out of which it i
 
 Prakaranavivaranapañcakam iti śāstram 
 
-Pratyabhijñāyāḥ," given by Mādhava in his Sarvadarśana Samgraba that the Pratyabhijñā literature is a mere exposition of the principles laid down by Somānanda in his Sivadrști, which was called by him “Prakarana" and that the authoritative books on this are the following: - 
+Pratyabhijñāyāḥ," given by Mādhava in his Sarvadarśana Samgraba that the Pratyabhijñā literature is a mere exposition of the principles laid down by Somānanda in his Sivadrṣti, which was called by him “Prakarana" and that the authoritative books on this are the following: - 
 
 1. Pratyabhijñā Sūtra. Vrtti. 
 
-Utpala. Vivști. Vimarsins. 
+Utpala. Vivṣti. Vimarsins. 
 
 Abhinava Vivrti Vimarsini. 
 
@@ -396,7 +396,7 @@ I. P. V., I, 39. (III) "Tasmāt sattā sphurattā ca sarvatrāpyanuvartate."
 
 D. M. S., Comm. (2), S. 13. 
 
-and “Sā sphurattā mahāsattā deśakālāviseșiņī." 
+and “Sā sphurattā mahāsattā deśakālāviseṣiņī." 
 
 I. P. V., I, 207. (IV) "Jñātrtvam api kartrtvam svātantryam tasya kevalam." 
 
@@ -406,7 +406,7 @@ and "Kartari jñātari svātmanyādisiddhe maheśvare."
 
 I. P. V., I, 29. We, therefore, feel that, whatever be the amount of fiction with which Mādhava may have coloured Sankara's visit to Kashmir, it is not without a grain of truth inas much as the said visit was a fact. Further, we are of opinion that Sankara believed in the monistic Tantras, as the epithet "sarvatantrasvatantra" in his virudāvalī indi cates; that the Tantras, the authority of which he accepted, were sixty-four in number, as his reference to them in his own Saundarya Laharī in the following line : 
 
-"Catuhṣaștyā tantraih sakalam abhisandhāya bhuvanam" clearly shows; that he had a special inclination towards 
+"Catuhṣaṣtyā tantraih sakalam abhisandhāya bhuvanam" clearly shows; that he had a special inclination towards 
 
 12 
 
@@ -436,7 +436,7 @@ HISTORICAL BACKGROUND OF HIS THOUGHT 91
 
 THE SPANDA BRANCH. (1). Vasugupta and his S'iva Sūtra. On the authority of the Rājatarangini (ch. V, 66) we know that Bhatta Kallața, the pupil of Vasugupta was a con temporary of Avantivarman, King of Kashmir (855-883 A.D.). There he is referred to as "siddha". It is, therefore, evident that at that time he was an old man of established reputation. Vasugupta, the teacher of Kallaţa, therefore, it is natural to suppose, belongedt o the preceding scholastic generation extending from about 825 to 850 A. D. We shall, therefore, not be wrong if we say that Vasugupta gave a systematic form to the philosophical ideas of the monistic Tantras in his S'iva Sūtras in the next decade after S'ankarācārya's visit to Kashmir towards the end of the second decade of the 9th century A. D. 
 
-Kșemarāja, in his introduction to the S'iva Sūtra Vimar śinī, records a tradition which says that Vasugupta was not the writer but simply the publisher of the Sūtras which he had found inscribed on a boulder to which he had gone, as instructed by S'iva in a dream, and which turned bottom upward at the mere touch of his hand. Whatever we may think of this tradition, it was believed in by his immediate successors, who refer to the S'iva Sūtras as of divine author ship. They are divided into three chapters dealing in succession with the three ways to final emancipation pointed out by the monistic Tantras. 
+Kṣemarāja, in his introduction to the S'iva Sūtra Vimar śinī, records a tradition which says that Vasugupta was not the writer but simply the publisher of the Sūtras which he had found inscribed on a boulder to which he had gone, as instructed by S'iva in a dream, and which turned bottom upward at the mere touch of his hand. Whatever we may think of this tradition, it was believed in by his immediate successors, who refer to the S'iva Sūtras as of divine author ship. They are divided into three chapters dealing in succession with the three ways to final emancipation pointed out by the monistic Tantras. 
 
 OTHER WORKS OF VASUGUPTA. 
 
@@ -452,7 +452,7 @@ Also ef. sp. Sandoka, opening line.
 
 CHAPTER III 
 
-attributes its authorship to Kallata. But it has to be noted in this connection that this verse is not found in the recension of Kșemarāja, who attributes the Kārikā to Vasugupta himself probably on the authority of the following verse, found in his recension : 
+attributes its authorship to Kallata. But it has to be noted in this connection that this verse is not found in the recension of Kṣemarāja, who attributes the Kārikā to Vasugupta himself probably on the authority of the following verse, found in his recension : 
 
 "Labdhvāpyalabhyam etaj jñānadhanam hrdguhāntah 
 
@@ -460,9 +460,9 @@ krtanihiteh Vasuguptavacchivāya hi bhavati sadā sarvalokasya."
 
 S. N., 16. 
 
-About this quotation also it has to be pointed out that as the former is not found in the recension of Kșemarāja so the latter is not traceable in that of Utpala Vaiṣnava. We, however, follow Ksemarāja because he is supported by Maheśvarānanda who quotes this verse, as found in Kșema rāja's recension, in his commentary on the very first verse of his own Mahārtha Manjari. 
+About this quotation also it has to be pointed out that as the former is not found in the recension of Kṣemarāja so the latter is not traceable in that of Utpala Vaiṣnava. We, however, follow Ksemarāja because he is supported by Maheśvarānanda who quotes this verse, as found in Kṣema rāja's recension, in his commentary on the very first verse of his own Mahārtha Manjari. 
 
-The Spanda Karikā is simply an amplification of the fundamental principles of S'aivaism, as aphoristically given in the S'iva Sūtras. It was also called Spanda Sūtra. Kșemarāja in one of his introductory verses to the Spanda Nirnaya refers to it as such 
+The Spanda Karikā is simply an amplification of the fundamental principles of S'aivaism, as aphoristically given in the S'iva Sūtras. It was also called Spanda Sūtra. Kṣemarāja in one of his introductory verses to the Spanda Nirnaya refers to it as such 
 
 "Samyak sütrasamanyayam parigatim tattve parasmin 
 
@@ -606,7 +606,7 @@ We have already pointed out that two teachers of Abhinava, namely, Lakṣmaņagu
 
 HIS WORKS 
 
-In the next generation after the so called discovery of the Siva Sūtras by Vasugupta and a sort of running commentary thereon in the form of the Spanda Kārikās by the same, but perhaps before a commentary on the latter by Kallața, Somānanda wrote his Sivadrști. 
+In the next generation after the so called discovery of the Siva Sūtras by Vasugupta and a sort of running commentary thereon in the form of the Spanda Kārikās by the same, but perhaps before a commentary on the latter by Kallața, Somānanda wrote his Sivadrṣti. 
 
 1. I. P. V., II, 271. 2. T. A., Ah. 37. (MS.) 
 
@@ -688,11 +688,11 @@ It has a commentary of Kṣemarāja.
 
 5. AJADA PRAMĀTR SIDDHI 6. IśVARA SIDDHI, 7. , > VRTTI. 8. SAMBANDHA SIDDHI. 
 
-» VķTTI. 10. VRTTI ON SOMĀNANDA'S SIVADRȘTI. 
+» VķTTI. 10. VRTTI ON SOMĀNANDA'S SIVADRṣTI. 
 
 9. 
 
-It was written at the request of his own son Vibhramā kara and a Brahmacārī Padmānanda by name. That it was Utpaladeva's work is made clear both by an introductory verse and colophon given as an extract from the MS. No. 4178 in Jammu Cats. On this point there is the additional evidence of the Bhaskari, which not only attributes a commentary on the Sivadrști to Utpala but also places it before the Isvara Pratyabhijñā Kārikā in the chrono logical order, as the following extract shows : 
+It was written at the request of his own son Vibhramā kara and a Brahmacārī Padmānanda by name. That it was Utpaladeva's work is made clear both by an introductory verse and colophon given as an extract from the MS. No. 4178 in Jammu Cats. On this point there is the additional evidence of the Bhaskari, which not only attributes a commentary on the Sivadrṣti to Utpala but also places it before the Isvara Pratyabhijñā Kārikā in the chrono logical order, as the following extract shows : 
 
 S'rimān Utpaladevah svagurunirmitam Sivadrstyākhyam mahāśāstram vyākhyāya 
 
@@ -728,7 +728,7 @@ with the writers of both the periods right here, without postponing the treatmen
 
 AMALGAMATION OF THE DVAITA AND THE 
 
-DVAITĀDVAITA SCHOOLS. It appears that while the monistic Saiva School was doing its work, as described above, the dualistic school was not idle. The probability is that the latter began its work earlier. For, Kșemarāja, as has already been pointed out, speaks of even the admittedly monistic Tantras, as for instance, the Svacchanda, having been interpreted in the dualistic light: and Abhinavagupta also quotes some dualist writers giving their names. 
+DVAITĀDVAITA SCHOOLS. It appears that while the monistic Saiva School was doing its work, as described above, the dualistic school was not idle. The probability is that the latter began its work earlier. For, Kṣemarāja, as has already been pointed out, speaks of even the admittedly monistic Tantras, as for instance, the Svacchanda, having been interpreted in the dualistic light: and Abhinavagupta also quotes some dualist writers giving their names. 
 
 Our work at present is confined to the monistic school. We have not made enough search for the material to build up the history of the dualistic school. It is, therefore, not possible for us to say when and how this school came to Kashmir, who were its earliest writers and what were the circumstances responsible for its rise. We can, however, definitely state that long before Abhinava's time the two Saiva Schools, namely, the Dvaita and the Dvaitādvaita, had amalgamated and as such had one common name «Siddhānta". Pauṣkara Samhitā, for instance, calls the group of twenty-eight Agamas, consisting of ten Dvaita and eighteen Dvaitādvaita āgamas, as stated before, by the name of "Siddhanta". Abhinava also uses this very word to refer to the teachings of these twenty-eight Agamas as a whole”, and his commentators refer to the writers of this school as the followers of the SiddhāntaSaiddhāntikas). 
 
@@ -872,7 +872,7 @@ HISTORICAL BACKGROUND OF HIS THOUGHT
 
 HIS IDENTITY. 
 
-Bhatta Nārāyana Kantha is a different person from Bhatta Nārāyaṇa, the author of the Staya Cintāmani, whom Abhinava quotes in the Parātrimśikā Vivarana, page 69. The former, according to his own statement in the concluding line of his commentary on the Mrgendra Tantra, was the grandson of Sankara and the son of Vidyākantha, but the latter, according to the statement of Kșemarāja in his commentary on Bhatta Nārāyaṇa's Stava Cintāmaņi, was the grandson of Parameśvara and the son of Aparajital. He was the grand teacher of Aghora Siva. His works, therefore, must have been written in the last quarter of the 11th century A. D. 
+Bhatta Nārāyana Kantha is a different person from Bhatta Nārāyaṇa, the author of the Staya Cintāmani, whom Abhinava quotes in the Parātrimśikā Vivarana, page 69. The former, according to his own statement in the concluding line of his commentary on the Mrgendra Tantra, was the grandson of Sankara and the son of Vidyākantha, but the latter, according to the statement of Kṣemarāja in his commentary on Bhatta Nārāyaṇa's Stava Cintāmaņi, was the grandson of Parameśvara and the son of Aparajital. He was the grand teacher of Aghora Siva. His works, therefore, must have been written in the last quarter of the 11th century A. D. 
 
 His WORKS. 
 
@@ -1022,7 +1022,7 @@ The question is only about his exact position in relation to Bharata, and on thi
 
 "Ata eva vicitretyuktam.. 
 
-Ityeșāpi bhāratīyatvena prasiddhā Kohalapradarsite nāndyupapannā bhavati." 
+Ityeṣāpi bhāratīyatvena prasiddhā Kohalapradarsite nāndyupapannā bhavati." 
 
 A. Bh., 25. Here the word "Bhāratīya" is of very great importance in giving us a clue to the relation, we are trying to find out. This word means "propounded by the son of Bharata". It cannot mean "of Bharata" because according to Pāņini's rule “Vrddhācchah" (Pa. 4-2-14.) the affix "Cha" which changes into "iya", cannot be added to a word with a short initial syllable. 
 
@@ -1064,7 +1064,7 @@ HISTORICAL BACKGROUND OF HIS THOUGHT
 
 of later interpolation and recasting is based do not appear to be sound. The third is simply a tradition that the original work of Bharata was in the Sūtra form. It is, therefore, unnecessary to discuss it here. 
 
-BHARATA'S DATE. Both his style and the method of dealing with the subject are apparently Purāņic, and we know that Purānas assumed their final form, roughly speaking, in the fourth century A. D. But, as in the case of Purāṇas so in that of Bharata, whose date we can at present find out only with the help of the style and the language, the upper limit cannot be precisely fixed. The lower limit, however, is not so uncertain. For, we have positive proof of the existence of his Nātya Sāstra in the present form in the 6th century A. D., because there is a Vārtika on it of King Harṣa of Kannauj (606-47 A. D.) which is quoted by Abhinava in his commentary on Bharata's Nātya Sāstra with the remark "iti Harșa Vārtikam" (consult PP. 67, 172, 174, 207, 211, 212). Bharata's Nātya Sastra must have, therefore, existed and become of accepted authority long before King Harṣa's time to prompt him to write a Vārtika on it. It may be noted that in the case of Bharata's text, on which Harsa wrote his Vārtika, Abhinava does not point out any difference in reading as he does in the case of that (text of Bharata) on which others have commented, as for instance, on page 226 of A. Bh. The intervening period between Bharata and Harṣa, therefore, does not seem to have been very long. Nor was it very short, because the necessity for a sort of com mentary, Vārtika, had arisen. It will, therefore, not be wrong to suppose that Bharata lived sometime between the 4th and the 5th century A. D. There is, however, no denying the fact that oral traditions about dramaturgy, which are embodied by Bharata, were current from much earlier time than the 4th century. 
+BHARATA'S DATE. Both his style and the method of dealing with the subject are apparently Purāņic, and we know that Purānas assumed their final form, roughly speaking, in the fourth century A. D. But, as in the case of Purāṇas so in that of Bharata, whose date we can at present find out only with the help of the style and the language, the upper limit cannot be precisely fixed. The lower limit, however, is not so uncertain. For, we have positive proof of the existence of his Nātya Sāstra in the present form in the 6th century A. D., because there is a Vārtika on it of King Harṣa of Kannauj (606-47 A. D.) which is quoted by Abhinava in his commentary on Bharata's Nātya Sāstra with the remark "iti Harṣa Vārtikam" (consult PP. 67, 172, 174, 207, 211, 212). Bharata's Nātya Sastra must have, therefore, existed and become of accepted authority long before King Harṣa's time to prompt him to write a Vārtika on it. It may be noted that in the case of Bharata's text, on which Harsa wrote his Vārtika, Abhinava does not point out any difference in reading as he does in the case of that (text of Bharata) on which others have commented, as for instance, on page 226 of A. Bh. The intervening period between Bharata and Harṣa, therefore, does not seem to have been very long. Nor was it very short, because the necessity for a sort of com mentary, Vārtika, had arisen. It will, therefore, not be wrong to suppose that Bharata lived sometime between the 4th and the 5th century A. D. There is, however, no denying the fact that oral traditions about dramaturgy, which are embodied by Bharata, were current from much earlier time than the 4th century. 
 
 120 
 
@@ -1094,7 +1094,7 @@ It may be pointed out here that Dr. De, in his History of Sanskrit Poetics, repr
 
 (V) NĀNYADEVA. 
 
-He was the writer of a commentary on the Bharata Sutra, called Bharata Bhāșya. He is quoted by Abhinava in A. Bh., P. 255. 
+He was the writer of a commentary on the Bharata Sutra, called Bharata Bhāṣya. He is quoted by Abhinava in A. Bh., P. 255. 
 
 HIS TIME Nānyadeva is a familiar name to indologists. Four eminent scholars have written on him. Professor Sylvain Lévi was the first to deal with the question of Nānya's date in Le Népāl, Vol. II. According to him, Nānyadeva's accession fell in 1097 A.D. This date, according to Dr. R. C. Majumdar, because it is "confirmed by a memorial verse preserved in Vidyāpati's Puruṣaparīkņā and corroborated by a MS. written in 1097 in the reign of king Nānyadeva" (I. H.Q., Vol. VII, P. 680) may be regarded as finally settled. According to Mr. Jayaswal, however, the year of accession was 1093 A. D. and that of death 1133 A. D. 
 
@@ -1122,7 +1122,7 @@ Our careful study of Abhinava presents the following difficulty in accepting the
 
 Abhinavagupta, in his commentary on Bharata's Nātya Sastra, refers to Nanyadeva and quotes from his Bharatabhāṣya, a commentary on the Natya Sastra, as follows: 
 
-"Uktam Nānyadevena sva-Bharatabhāșye : - 
+"Uktam Nānyadevena sva-Bharatabhāṣye : - 
 
 *Atra varnaśabdena gitirabhidhiyate nākṣaraviśeṣah, nāpi sadjā disaptasvarāh padagrāme tvaniyamādeva 
 
@@ -1172,7 +1172,7 @@ In our opinion the question of Nānya's time requires further study in the light
 
 THE COMMENTATORS WHOSE DATE CAN BE FIXED. 
 
-(VI) HARṣA. Abhinava quotes & commentary, called "Vārtika," written by Harṣa, apparently on the Bharata Sūtra, as we have already said. In the history of Sanskrit literature, we know only of two Harṣas. One, the famous King of Kannauj (606-47 A. D.) and the other, poet Harșa, the author of the Naiṣadhīya Carita, who is invariably called Srīharṣa. As the latter belonged to the later half of the 12th century A. D., it would not be wrong to identify the author of the Vārtika with the former. It is probable that the work was written by his famous court poet Bāna and attributed to his patron like so many others. 
+(VI) HARṣA. Abhinava quotes & commentary, called "Vārtika," written by Harṣa, apparently on the Bharata Sūtra, as we have already said. In the history of Sanskrit literature, we know only of two Harṣas. One, the famous King of Kannauj (606-47 A. D.) and the other, poet Harṣa, the author of the Naiṣadhīya Carita, who is invariably called Srīharṣa. As the latter belonged to the later half of the 12th century A. D., it would not be wrong to identify the author of the Vārtika with the former. It is probable that the work was written by his famous court poet Bāna and attributed to his patron like so many others. 
 
 126 
 
@@ -1196,7 +1196,7 @@ From the manner in which reference has been made to his theory of Rasa by Abhina
 
 first of all but his view also is represented to be in common with that of the ancients (Cirantanas), such as Dandin. Further, Srīśankuka is represented to be his first opponent; and the word (etanna), with which the statement of the opponent's view begins, shows that the latter was Lollata's contemporary. We know that the word "etat" in Sanskrit stands for what is present before ; in fact this is the only difference in idea conveyed by this word as distinguished from “tat". The time of Sankuka is accepted to be the middle of the 9th century A. D., because he is taken to be identical with the poet Sankuka, who, according to Kalhana's statement, (R. T., ch. IV, 705) was King Ajitāpīda's con temporary (circa 850) and had written a poem, called Bhuvanābhyudaya. The view that Lollața was a contem porary of Srīśankuka is supported by the following fact : 
 
-Kșemarāja, who was a pupil of Abhinava, refers in his Spanda Nirnaya to Lollata's commentary, called Vivrti, on Bhatta Kallata's Spanda Kārikā in the following words: 
+Kṣemarāja, who was a pupil of Abhinava, refers in his Spanda Nirnaya to Lollata's commentary, called Vivrti, on Bhatta Kallata's Spanda Kārikā in the following words: 
 
 "Bhatta Lollatenāpi 'tadādyanta' iti evameva vyākhyāyi sva Vivrtau" 
 
@@ -1312,7 +1312,7 @@ commentary is written only after the lapse of a sufficiently long time. It may h
 
 CHAPTER III 
 
-authority of Kalhana on this particular point that Ananda Vardhana was King Avanti Varman's contemporary (856-883 A. D.) and that Kallața also lived at the same time. We also know that Vasugupta, the author of the Siva Sūtra, was a teacher of Kallata and that the latter wrote a commentary on the Spanda Kārikā called "Spanda Sarvasva". Although there is difference of opinion as regards the authorship of the Spanda Kārikā which, in itself is a sort of running commentary on the Siva Sūtra, yet, whether the authorship of the Spanda Kārikā be attributed to Vasugupta or to Kallaţa, our position is not affected. What we intend to show here is that in or about the 9th century A. D. in Kashmir there are instances of the same person, writing both the text and the commentary. So that if we take Vasugupta to be the author of the Spanda Kārikā, then, it is his own commentary on his own Siva Sūtra ; but if Kallaţa be accepted to be the author, then, he also has written a commentary on it, called Spanda Sarvasva, as pointed out above. This is not a solitary instance; about the same time Somānanda also is said to have written a commentary upon his own Sivadrști, though we have not so far been able to discover it; and, in the next generation Utpalācārya wrote the Vrtti and the Vivrti on his own Iśvara Pratyabhijñā Kārikā to which Abhinava makes a reference in one of the introductory verses in his Pratyabhijñā. Vimarsinī. Thus the third argument also does not appear to be very sound. 
+authority of Kalhana on this particular point that Ananda Vardhana was King Avanti Varman's contemporary (856-883 A. D.) and that Kallața also lived at the same time. We also know that Vasugupta, the author of the Siva Sūtra, was a teacher of Kallata and that the latter wrote a commentary on the Spanda Kārikā called "Spanda Sarvasva". Although there is difference of opinion as regards the authorship of the Spanda Kārikā which, in itself is a sort of running commentary on the Siva Sūtra, yet, whether the authorship of the Spanda Kārikā be attributed to Vasugupta or to Kallaţa, our position is not affected. What we intend to show here is that in or about the 9th century A. D. in Kashmir there are instances of the same person, writing both the text and the commentary. So that if we take Vasugupta to be the author of the Spanda Kārikā, then, it is his own commentary on his own Siva Sūtra ; but if Kallaţa be accepted to be the author, then, he also has written a commentary on it, called Spanda Sarvasva, as pointed out above. This is not a solitary instance; about the same time Somānanda also is said to have written a commentary upon his own Sivadrṣti, though we have not so far been able to discover it; and, in the next generation Utpalācārya wrote the Vrtti and the Vivrti on his own Iśvara Pratyabhijñā Kārikā to which Abhinava makes a reference in one of the introductory verses in his Pratyabhijñā. Vimarsinī. Thus the third argument also does not appear to be very sound. 
 
 As regards the fourth argument that Abhinava uses two words, Kārikākāra and Vrttikāra, and means to imply distinction, we may point out that this also does not necessarily mean difference in point of the authorship of the works so referred to. Our study of Abhinava's works tells 
 
@@ -1396,11 +1396,11 @@ OTHER VĀMANAS. It may be pointed out here that Abhinava refers to two other Vā
 
 About the other we cannot, at this stage, say anything definitely, excepting that he wrote a philosophical work, the Samvit Prakāśa, to which Abhinava refers in the Tantrāloka, Ah. V, S. 155, as his commentator explains : 
 
-"Gurubhirbhāṣitam tasmād upāyeșu vicitrata" 
+"Gurubhirbhāṣitam tasmād upāyeṣu vicitrata" 
 
 T. A., Ah. V, S. 155. "Gurubhih" Vāmanadattācār; eņa, "bhāṣitam" iti Sanvitprakāśe." 
 
-T. A., Comm. This work is quoted by Maheśvarāna da in his commentary, Parimalā, on the Mahārtha Maf arī, PP. 21, 23, 26. From the nature of the quotation, found in the Spanda Nirnaya of Kșemarāja, p. 48, att ibuted to Bhatta Srī Vāmana, it appears that he is the se ne person as Vāmana dattācārya of Abhinava's quotatio because the quotation is about the Samvid. He may be lentical with Vāmana, the minister of King Jayāpīda of Kashmir. 
+T. A., Comm. This work is quoted by Maheśvarāna da in his commentary, Parimalā, on the Mahārtha Maf arī, PP. 21, 23, 26. From the nature of the quotation, found in the Spanda Nirnaya of Kṣemarāja, p. 48, att ibuted to Bhatta Srī Vāmana, it appears that he is the se ne person as Vāmana dattācārya of Abhinava's quotatio because the quotation is about the Samvid. He may be lentical with Vāmana, the minister of King Jayāpīda of Kashmir. 
 
 The founder of the Theory of Dhvani. 
 

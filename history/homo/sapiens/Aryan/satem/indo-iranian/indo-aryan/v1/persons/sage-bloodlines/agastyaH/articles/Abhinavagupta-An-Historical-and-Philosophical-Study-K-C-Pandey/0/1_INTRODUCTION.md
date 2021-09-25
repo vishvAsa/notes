@@ -14,7 +14,7 @@ My original plan was to include in the present work a chapter on Abhinava's theo
 
 I have used the following MSS, in the preparation of the present work : 
 
-1. Anuttarāștikā. 2. Anuttara Tattva Vimarsini Vrtti. 3. Anubhava Nivedana. 4. Brhati Vimarsini or Isvara Pratyabhijñā Vivrti 
+1. Anuttarāṣtikā. 2. Anuttara Tattva Vimarsini Vrtti. 3. Anubhava Nivedana. 4. Brhati Vimarsini or Isvara Pratyabhijñā Vivrti 
 
 Vimarsinī. 
 

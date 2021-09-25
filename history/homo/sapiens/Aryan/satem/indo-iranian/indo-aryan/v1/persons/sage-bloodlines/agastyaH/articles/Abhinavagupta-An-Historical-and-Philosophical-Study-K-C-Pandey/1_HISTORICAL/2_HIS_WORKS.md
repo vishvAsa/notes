@@ -8,7 +8,7 @@ HIS WORKS.
 
 LIST OF HIS KNOWN WORKS. 1. Bodha Pancadasikā. 2. Mālini Vijaya Vārtika. V 3. Parātrimśikā Vivrti. 4. Tantraloka. 5. Tantrasāra. 6. Tantravagadhānikā. 7. Dhvanyāloka Locana. 8. Abhinava Bhārati. 
 
-9. Bhagavadgitārtha Sangraha. 10. Paramārtha Sāra. 11. Isvara Pratyabhijñā Vimarsini. 12. Isvara Pratyabhijñā Vivrti Vimarsini. - 13. Krama Stotra, tule available combi lobortis 14. Dehastha Devata Cakra Stotra. 15. Bhairava Stotra. V gone of the lies 16. Paramārtha Dvādasikā. 17. Paramārtha Carcā. 18. Mahopadeśa Vimsatik a. 19. Anuttarāștikā. 20. Anubhavanivedana. 21. Tant roccaya. 22. Ghatakarparakulaka Vivrti. 23. Karmakeli. 24. Sivadrstyālocana. 25. Purva Pañcikā. 26. Padārthapraveśa Nirnaya Țikā. 27. Prakīrņaka Vivarana. 28. Prakarana Vivarana. 29. Kāvyakautuka Vivarana. 
+9. Bhagavadgitārtha Sangraha. 10. Paramārtha Sāra. 11. Isvara Pratyabhijñā Vimarsini. 12. Isvara Pratyabhijñā Vivrti Vimarsini. - 13. Krama Stotra, tule available combi lobortis 14. Dehastha Devata Cakra Stotra. 15. Bhairava Stotra. V gone of the lies 16. Paramārtha Dvādasikā. 17. Paramārtha Carcā. 18. Mahopadeśa Vimsatik a. 19. Anuttarāṣtikā. 20. Anubhavanivedana. 21. Tant roccaya. 22. Ghatakarparakulaka Vivrti. 23. Karmakeli. 24. Sivadrstyālocana. 25. Purva Pañcikā. 26. Padārthapraveśa Nirnaya Țikā. 27. Prakīrņaka Vivarana. 28. Prakarana Vivarana. 29. Kāvyakautuka Vivarana. 
 
 ont of the two coulbution to to. 
 
@@ -26,7 +26,7 @@ There is enough evidence to show that he wrote many! other works besides the abo
 
 Srīpūrva Sastra on the lines of the Purva Pancikā. That he wrote such commentaries is evident from the following accidental remark in P. T. V., 147 : 
 
-"Pūrvaprabhștipancikāsu". 2. His commentaries on other Stotras than those 
+"Pūrvaprabhṣtipancikāsu". 2. His commentaries on other Stotras than those 
 
 mentioned above. To them he refers in T. S., 31. 3. His stotras from which he often quotes in the 
 
@@ -52,7 +52,7 @@ Paramārthasārah." "Sampūrneyam Paramārthasārasangrahavivstih
 
 kstistatrabhavatparamamāheśvara Sri Rājānaka 
 
-Yogarājasya." The Oudh Catalogue does not give any extracts from the MSS. It is, therefore, not possible for us to pronounce any opinion on the other two works which are included in Dr. Aufrecht's Catalogue on the authority of the former (Oudh Catalogue), though personally we are inclined to think that the Paramārthasāra Tīkā is the same work as the Paramārthasārasangrahavivști. 
+Yogarājasya." The Oudh Catalogue does not give any extracts from the MSS. It is, therefore, not possible for us to pronounce any opinion on the other two works which are included in Dr. Aufrecht's Catalogue on the authority of the former (Oudh Catalogue), though personally we are inclined to think that the Paramārthasāra Tīkā is the same work as the Paramārthasārasangrahavivṣti. 
 
 EXPLANATION OF THE ARRANGEMENT. In the above list the first eleven are the published works. They are arranged in their chronological order on which we shall soon write, From the 12th to the 22nd are 
 
@@ -114,11 +114,11 @@ Rjuvacanaviracitam idam Tantrasāram tataḥ śrnuta.".
 
 T. S., 2. "Tatra ca sarvajanahitārtham Bphatpratyabhijñākhyā 
 
-bahuvistarā tīkā krtā, tadvicāraņeca janam asaktam jñātvā tenaiva Pratyabhijñākārikāsūtreșu samhgrahamayi Vimar 
+bahuvistarā tīkā krtā, tadvicāraņeca janam asaktam jñātvā tenaiva Pratyabhijñākārikāsūtreṣu samhgrahamayi Vimar 
 
 sinītiprasiddhā tīkā krtā." (Bhaskarī). The M. V. V. also, therefore, has to be supposed to have come either immediately before or after his commentary on the Pūrva Sastra, in any case before the Parātrirhśikāvivarana. 
 
-The other case of a work of doubtful chronological position is that of the Paramārtha Sāra. It consists of only 105 verses and contains only one literary reference and that also is to the Karikās of Seșa, of which it is an adaptation. This, however, has been placed between the Bhagavadgītārtha Samgraha and the Pratyabhijñā Vimarsinī, because it is a philosophical work. We know of only four philosophical works of Abhinava. Of these, the chronological position of three is certain on the evidence of Abhinava himself. The Bhagavadgītārthasangraha is the first and the Pratyabhijñā Vimarsinī is the last. The Pratyabhijñā Vivști Vimarsinī or Brhatī Vimarsini immediately preceded, the latter. There is, therefore, no other position which we can assign to the Paramārthasāra than the one, 
+The other case of a work of doubtful chronological position is that of the Paramārtha Sāra. It consists of only 105 verses and contains only one literary reference and that also is to the Karikās of Seṣa, of which it is an adaptation. This, however, has been placed between the Bhagavadgītārtha Samgraha and the Pratyabhijñā Vimarsinī, because it is a philosophical work. We know of only four philosophical works of Abhinava. Of these, the chronological position of three is certain on the evidence of Abhinava himself. The Bhagavadgītārthasangraha is the first and the Pratyabhijñā Vimarsinī is the last. The Pratyabhijñā Vivṣti Vimarsinī or Brhatī Vimarsini immediately preceded, the latter. There is, therefore, no other position which we can assign to the Paramārthasāra than the one, 
 
 given above. 
 
@@ -178,7 +178,7 @@ HIS WORKS
 
 The question has already been discussed. 11. Pratyabhijña Vimarsinī. 
 
-Because it came immediately after the Bșhatī Vimarsins which is his last known dated work on philosophy, on which he wrote last of all. 
+Because it came immediately after the Bṣhatī Vimarsins which is his last known dated work on philosophy, on which he wrote last of all. 
 
 M. M. MUKUNDARĀMA SĀSTRI ON THE CHRONOLOGY 
 
@@ -296,7 +296,7 @@ It was a devotional Stotra as the following quota tions therefrom in the Bhagava
 
 uktam" : “Na bhogya vyatiriktar hi bhoktus tvatto 
 
-vibhāvyate Eșa eva hi bhogo yattādātmyam bhokt;bhogayoh." 
+vibhāvyate Eṣa eva hi bhogo yattādātmyam bhokt;bhogayoh." 
 
 Bh. G. S., ch. IV, S. 28. 
 
@@ -362,7 +362,7 @@ In the concluding portion of the last chapter of the Tantrāloka we find that hi
 
 III. PHILOSOPHICAL PERIOD. 
 
-Again, at the time of writing the A. Bh., philosophical ideas are seen getting supremacy, so much so that his exposition of Rasa, which has held its ground to this day, is purely philosophical. Not only this, while commenting! on Bharata's Nātya Sūtra he had already begun writing side by side a purely philosophical work, namely, his commentary on the Bhagavadgītā, as we know from a reference in A. Bh. (vide A. Bh., 337). Thus last of all did come the philosophi cal period. To this belong his monumental works, the Isvara Pratyabhijña Vimarsins and the Isvara Pratyabhijñā Vivrti Vimarsini. The latter is also known as Bțhati Vimarsinī or Aștādaśa Sahasri. Because of these two works it is that he is acknowledged to be the chief exponent of the Pratyabhijñā philosophy, as the concluding portion ofHIS WORKS 
+Again, at the time of writing the A. Bh., philosophical ideas are seen getting supremacy, so much so that his exposition of Rasa, which has held its ground to this day, is purely philosophical. Not only this, while commenting! on Bharata's Nātya Sūtra he had already begun writing side by side a purely philosophical work, namely, his commentary on the Bhagavadgītā, as we know from a reference in A. Bh. (vide A. Bh., 337). Thus last of all did come the philosophi cal period. To this belong his monumental works, the Isvara Pratyabhijña Vimarsins and the Isvara Pratyabhijñā Vivrti Vimarsini. The latter is also known as Bțhati Vimarsinī or Aṣtādaśa Sahasri. Because of these two works it is that he is acknowledged to be the chief exponent of the Pratyabhijñā philosophy, as the concluding portion ofHIS WORKS 
 
 37 
 
@@ -506,7 +506,7 @@ THE MOST IMPORTANT POINTS DISCUSSED
 
 IN THE TANTRĀLOKA. 
 
-1. The cause of bondage. 2. The way to freedom. 3. What is knowledge as distinct from ignorance. 4. What is Mokșa according to the Trika. 5. Conceptions of Mokṣa of other schools. 6. What is the ultimate reality of the objective world. 7. The process of manifestation of the universe. 8. The ways to realisation of the ultimate reality. 9. The points of difference between one way and another. 10. Bimbapratibimba Vāda. 
+1. The cause of bondage. 2. The way to freedom. 3. What is knowledge as distinct from ignorance. 4. What is Mokṣa according to the Trika. 5. Conceptions of Mokṣa of other schools. 6. What is the ultimate reality of the objective world. 7. The process of manifestation of the universe. 8. The ways to realisation of the ultimate reality. 9. The points of difference between one way and another. 10. Bimbapratibimba Vāda. 
 
 1. T. A., Comm., I, 29. 2. T. A., I, 149. 3. T. A., I, 288.HIS WORKS 
 
@@ -638,7 +638,7 @@ The text on which Abhinava comments, differs at many places from the one publish
 
 tadātmānam srjāmyaham". But Abhinava's text reads as 
 
-"tadātmāmsam sșjāmyaham". 
+"tadātmāmsam sṣjāmyaham". 
 
 The variation, though apparently slight, implies a greatly different meaning as the following extract from the commentary shows : "Sri Bhagavān kila pürņaṣādgunyatvāt sarīrasamparkamātra rahitopisthitikāritvāt kāruņikatayā ātmāmsaí srjati ; 
 
@@ -660,11 +660,11 @@ Numbers of a few more verses with this kind of difference are given below :
 
 Further, it has very many verses in addition to those found in the published text. Take for instance verses forty to forty-five in the third chapter. 
 
-"Eṣa sūkṣmah parah satrur dehinām indriyaih saba Sukhatantra ivāsīno mohayan partha tiṣthati Kāmakrodhamayo ghorah stambhaharṣasamudbhavah Ahankārobhimānātmā dustarah pāpakarmabhiḥ Harṣam asya nivartyaiṣa sokam asya dadāti ca Bhayancāsya karotyeṣa mohayaistu muhur muhuh Sa eșa kaluṣah kṣudrachidraprekṣi Dhananjaya 
+"Eṣa sūkṣmah parah satrur dehinām indriyaih saba Sukhatantra ivāsīno mohayan partha tiṣthati Kāmakrodhamayo ghorah stambhaharṣasamudbhavah Ahankārobhimānātmā dustarah pāpakarmabhiḥ Harṣam asya nivartyaiṣa sokam asya dadāti ca Bhayancāsya karotyeṣa mohayaistu muhur muhuh Sa eṣa kaluṣah kṣudrachidraprekṣi Dhananjaya 
 
 Rajahpravstto mohātmā mānuṣāņām upadravah." On this Abhinava comments as follows: 
 
-“Eṣa tāvat sūkṣma utpattisamaye alakṣya indriyeșu" etc. 
+“Eṣa tāvat sūkṣma utpattisamaye alakṣya indriyeṣu" etc. 
 
 IMPORTANCE OF THE BHAGAVADGITĀ IN THE EYES OF 
 
@@ -702,7 +702,7 @@ general. It is therefore, evroneous to work that Trika sland for Balzabligna phi
 
 mta Saillya THE SOURCELOka alleged heyey . Verses 36,33 57, 58, 70,54,67 CB.N.Pada ) 
 
-According to Abhinava's own statement, it is an adaptation of the Adhāra Kārikās of Seșa Muni who is also referred to as Adhāra Bhagavān or Ananta Nātha. These Kārikās also were known as “Paramārtha Sāra". They gave in brief the most essential principles of the Sānkhya philosophy and taught that the final emancipation could be attained by discriminating between Prakrti and Puruṣa. The original with a few omissions, additions and alterations was adapted to serve as a medium of teaching the most essential principles of the Trika: The adaptation consists of one hundred and five verses, though Abhinava's own statement as regards the number of its verses is : "In hundred Aryā verses I have summarised the essential principles of the Trika system which are so difficult to understand." 
+According to Abhinava's own statement, it is an adaptation of the Adhāra Kārikās of Seṣa Muni who is also referred to as Adhāra Bhagavān or Ananta Nātha. These Kārikās also were known as “Paramārtha Sāra". They gave in brief the most essential principles of the Sānkhya philosophy and taught that the final emancipation could be attained by discriminating between Prakrti and Puruṣa. The original with a few omissions, additions and alterations was adapted to serve as a medium of teaching the most essential principles of the Trika: The adaptation consists of one hundred and five verses, though Abhinava's own statement as regards the number of its verses is : "In hundred Aryā verses I have summarised the essential principles of the Trika system which are so difficult to understand." 
 
 P. S., 198. 
 
@@ -728,7 +728,7 @@ we also feel little doubt that the text presented by these two editions is the s
 
 This work was held to be very sacred, so much so that Abhinava in his Bh. G. S. quotes from it as from a Sruti the following verse : 
 
-"Tīrthe śvapacagrhe vā naștasmrtirapi parityajan deham 
+"Tīrthe śvapacagrhe vā naṣtasmrtirapi parityajan deham 
 
 Jñānasamakalamuktah kaivalyam yāti hataśokah." 
 
@@ -842,7 +842,7 @@ HIS WORKS
 
 63 
 
-The first line of the second verse of the Anuttarāștikā : "Samsārosti na tattvatas tanubhrtām bandhasya 
+The first line of the second verse of the Anuttarāṣtikā : "Samsārosti na tattvatas tanubhrtām bandhasya 
 
 vārtaiva kā" is quoted by Jayaratha in his commentary on the Tantrāloka III, 99. Although in this work we find some of the similes very commonly used by the Vedāntins to explain the unreality of the universe, for instance : 
 

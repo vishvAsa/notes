@@ -69,7 +69,7 @@ CHAPTER IV
 
 that if dualistic doctrine were given up by the so called Agamikas; if Māyā were to be taken as the power of the Brahman by the Vedāntins; and if the two Vijñānas, the ālayavijñāna and the pravíttivijñāna, were to be admitted to be the manifestations of the Atmeśvara or Maheśvara, the Universal Consciousness, by the Bauddhas, all differences between the Trika on the one hand and the Agamikas, the Vedāntins and the Bauddhas on the other disappear. The latter become the exponents of the Trika philosophy : 
 
-"Āgameṣu dvaitavyākhyāmapāsya, Brahmavāde avidyām māyāśaktīkrtya vijñānadvayam ātmeśvarābhiprāyeņa nirūpya siddhyatyeșa janah" 
+"Āgameṣu dvaitavyākhyāmapāsya, Brahmavāde avidyām māyāśaktīkrtya vijñānadvayam ātmeśvarābhiprāyeņa nirūpya siddhyatyeṣa janah" 
 
 and also 
 
@@ -245,7 +245,7 @@ THEORY OF PERCEPTION
 
 In fact, the presentment is due to the maturescence (Paripāka) of a link of the chain of vāsanā. Thus, according to the sensationalists, a cognition is nothing but, as said just now, a presentment brought about by mature scence of a link of vāsanāl. 
 
-S ITS REFUTATION. According to the Vijñānavādin, the existentiality is of two kinds, real and apparent, (paramārtha sattvam and Samvști sattvam). The vijñāna alone is real and all that appears in it (abhāsate)has only an apparent existence. Now, although the apparent may be spoken of as unreal, yet its cause has, of necessity, to be admitted to be real, because, how can one reasonably speak of what is non-exis tent in reality, as the cause of the apparent. How can, what is nothing in itself, be the cause of something? But if to get out of this difficulty the Vijñānavādin were to admit the separate real existence of the vāsanās, which are the cause of all that appears, he ceases to be Vijñānavadin; his theory, in that case, would be no better than that of the Bahyārthavādin who believes in the existence of the external world as the cause of variations in consciousness. The only difference which then remains is that he calls what is external by the name of vāsanā and not by that of artha (object) as the Bāhyārtha vādin does. Nor can the opponent say that these vāsanās are the cause of presentments in that aspect of theirs in which they are real (yena rūpena satyatā tena kāraṇatā). For, vijñāna, which, according to the opponent, represents the real aspect of vāsanā, has no variety in itself; the plurality of vāsanā in its real aspect, therefore, is out of question. How can then the variety in the presentment be explained ? And even if, for the sake of 
+S ITS REFUTATION. According to the Vijñānavādin, the existentiality is of two kinds, real and apparent, (paramārtha sattvam and Samvṣti sattvam). The vijñāna alone is real and all that appears in it (abhāsate)has only an apparent existence. Now, although the apparent may be spoken of as unreal, yet its cause has, of necessity, to be admitted to be real, because, how can one reasonably speak of what is non-exis tent in reality, as the cause of the apparent. How can, what is nothing in itself, be the cause of something? But if to get out of this difficulty the Vijñānavādin were to admit the separate real existence of the vāsanās, which are the cause of all that appears, he ceases to be Vijñānavadin; his theory, in that case, would be no better than that of the Bahyārthavādin who believes in the existence of the external world as the cause of variations in consciousness. The only difference which then remains is that he calls what is external by the name of vāsanā and not by that of artha (object) as the Bāhyārtha vādin does. Nor can the opponent say that these vāsanās are the cause of presentments in that aspect of theirs in which they are real (yena rūpena satyatā tena kāraṇatā). For, vijñāna, which, according to the opponent, represents the real aspect of vāsanā, has no variety in itself; the plurality of vāsanā in its real aspect, therefore, is out of question. How can then the variety in the presentment be explained ? And even if, for the sake of 
 
 1. I. P. V., I, 167. 2. I. P. V., 1, 167-8, 
 
@@ -421,7 +421,7 @@ cinmayatvāt." To clear the point let us quote Bhāskarakantha's explanation of 
 
 nijam sahajaśuddhaprakāśākhyam svarūpameva pra mātāram prati sphuțībhavati, yatah tadā pramātā tadvastu prati diděkṣāsamaye vyāpakībhavati yaduk tam : 
 
-"Didrkṣayeva sarvārthān yadā vyāpyāvatișthate Tadā kim bahunoktena svayam evāvabhotsyate" 
+"Didrkṣayeva sarvārthān yadā vyāpyāvatiṣthate Tadā kim bahunoktena svayam evāvabhotsyate" 
 
 THEORY OF PERCEPTION 
 

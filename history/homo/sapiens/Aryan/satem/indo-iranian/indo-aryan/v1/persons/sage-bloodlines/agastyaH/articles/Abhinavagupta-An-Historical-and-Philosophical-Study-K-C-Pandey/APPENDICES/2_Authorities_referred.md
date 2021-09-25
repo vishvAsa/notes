@@ -552,7 +552,7 @@ Page
 Tantra Sāra Tantrāloka (Abhi) Tarkika Traiyambaka Naiyāyika Nyāyanirmāņa Bedhas 
 2 
 25 
-Nyāyabhāṣyakrt Patañjali Parameșthi (Somānanda) 
+Nyāyabhāṣyakrt Patañjali Parameṣthi (Somānanda) 
 127 
 84 157 208 
 272 
@@ -574,7 +574,7 @@ karavatsa) Vrttikt Veda Veda Siddhānta
 403) 
 Name 
 Vol. 
-Vaiśeṣika Sākya Sivadrști 
+Vaiśeṣika Sākya Sivadrṣti 
 Page 34, 135 
 243 15, 49 
 271 

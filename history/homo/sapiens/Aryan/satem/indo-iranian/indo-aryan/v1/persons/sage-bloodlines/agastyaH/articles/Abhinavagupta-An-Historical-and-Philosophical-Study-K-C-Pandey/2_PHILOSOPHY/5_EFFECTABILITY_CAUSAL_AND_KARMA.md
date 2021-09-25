@@ -51,9 +51,9 @@ THE PHYSICAL UNIVERSE AND THE ULTIMATE
 
 REALITY On the basis of what we have stated above it would not be wrong to say that the Trika conceives the Ultimate Reality not only as Universal Consciousness but also as Universal Energy. It is the latter, which, because of the Creative Desire (icchāvaśāt) appears in the forms of the innumerable physical phenomena much in the same way as the electric energy, because of the resistance, appears in the form of various lights. The Universal Energy and the Creative Desire, working in the aforesaid manner represent "kriya śakti". Thus the physical universe, with all its varieties, is a mere manifestation of the Universal Energy and is connected with it exactly in the manner in which light is connected with electric energy. Just as innumerable lights, being mere forms of electricity, do not break up its unity, so the physical phenomena leave the unity of the Universal Energy undisturbed : 
 
-"Eșa cānanta saktitvād ayam ābhāsayatyamūn Bhāvān icchāvaśād eṣā kriya nirmātstāsya sā." 
+"Eṣa cānanta saktitvād ayam ābhāsayatyamūn Bhāvān icchāvaśād eṣā kriya nirmātstāsya sā." 
 
-Eșa purānah pramātā amūn bhāvān ābhāsitapūrvān ābhāsamānān ābhāsayati avichinnena prabandhena, katham, icchāyā iśiturabhinnāyā avikalparūpāyā akramāyā vaśena sāmarthyena. Kutrāsya te bhāvāh sthitāh ? āha "ananta Śaktitvāt" iti, viśve hi bhāvāstasyaiva Śaktirüpeņa svarūpāt matvena sthitāh" 
+Eṣa purānah pramātā amūn bhāvān ābhāsitapūrvān ābhāsamānān ābhāsayati avichinnena prabandhena, katham, icchāyā iśiturabhinnāyā avikalparūpāyā akramāyā vaśena sāmarthyena. Kutrāsya te bhāvāh sthitāh ? āha "ananta Śaktitvāt" iti, viśve hi bhāvāstasyaiva Śaktirüpeņa svarūpāt matvena sthitāh" 
 
 I. P. V., II, 136. 
 

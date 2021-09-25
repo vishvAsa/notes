@@ -42,7 +42,7 @@ We have not so far discovered any thing which might give us the Trika idea of th
 
 "īśvarecchāvasa kṣubdha bhoga lolika cidganān 
 
-Samvibhanktum aghoreśah srjatīha sitetaram" which shows that in regard to the condition of the individual there is a complete agreement between the Sānkhya and the Vaiseșika on the one hand and the Trika on the other. The Trika view, however, on the mahāpralaya is sufficiently clear in the existing literature. According to the available information, it is a state of perfect annihilation of all that is manifested. In this state the collocations and their consti tuents, the tattvas, suffer the same fate, and the individual selves, their bondages, āņava, kārma and māyīya, having been snapped, lose their individuality and are completely merged in the Universal Self, the Ultimate Reality. The Trika believes in both kinds of dissolution. How this belief does not conflict with the theory of karma, and, how creation of all kinds of limited selves does not make the Parama Siva cruel or partial, we shall explain in the course of our treatment of the theory of Karma in the fifth chapter. 
+Samvibhanktum aghoreśah srjatīha sitetaram" which shows that in regard to the condition of the individual there is a complete agreement between the Sānkhya and the Vaiseṣika on the one hand and the Trika on the other. The Trika view, however, on the mahāpralaya is sufficiently clear in the existing literature. According to the available information, it is a state of perfect annihilation of all that is manifested. In this state the collocations and their consti tuents, the tattvas, suffer the same fate, and the individual selves, their bondages, āņava, kārma and māyīya, having been snapped, lose their individuality and are completely merged in the Universal Self, the Ultimate Reality. The Trika believes in both kinds of dissolution. How this belief does not conflict with the theory of karma, and, how creation of all kinds of limited selves does not make the Parama Siva cruel or partial, we shall explain in the course of our treatment of the theory of Karma in the fifth chapter. 
 
 The creation of the physical universe is not wanton but purposeful. It is meant for supplying the necessary stimuli for varying experiences which the innumerable souls must enjoy or suffer according to their individual karmas. Hence it presupposes karma as its prompting cause. At the 
 
@@ -220,7 +220,7 @@ the power of obscuration and as the primary cause of all the limited manifestati
 
 The impure creation consists of two kinds of limited manifestations, the sentient and the insentient. The māyā, as the force of obscuration, is responsible for the appearance of the one Universal Self as innumerable individual selves, whose distinguishing feature is the ignorance of their real nature (svarūpākhyāti) and consequent imperfection of their powers of knowledge and action : 
 
-“Mohayati anena sakti viśeșeņa iti moho māyā saktih tasyāḥ vaśah sāmarthyam mohana kāryam prati avirāmah yathoktam "Māyā vimohinī nāma'..........". 
+“Mohayati anena sakti viśeṣeņa iti moho māyā saktih tasyāḥ vaśah sāmarthyam mohana kāryam prati avirāmah yathoktam "Māyā vimohinī nāma'..........". 
 
 I. P. V., I, 35. But Māyā Tattva as the primary cause of all the insentient limited manifestations i. e. as parāniśā, contains all the manifestables within : 
 

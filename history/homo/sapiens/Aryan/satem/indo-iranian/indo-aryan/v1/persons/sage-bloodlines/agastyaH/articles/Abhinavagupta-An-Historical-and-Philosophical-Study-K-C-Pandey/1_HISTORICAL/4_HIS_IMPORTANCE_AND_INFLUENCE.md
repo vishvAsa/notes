@@ -10,7 +10,7 @@ In the preceding chapter we have tried to trace the historical background of Abh
 
 1. His commentators. 2. Other writers who were directly influenced by him. 
 
-(I) KșEMARĀJA. 
+(I) KṣEMARĀJA. 
 
 Among his commentators first of all comes Kṣemarāja in the chronological order, which, as before, we propose to follow in this chapter also. In the colophons of all his works he represents himself to be a pupil of Abhinavagupta pādācārya. There is, therefore, no difficulty in fixing his time. Abhinava's last available dated work was completed in 1014-15 A. D. We can, therefore, easily assign Kṣemarāja's literary activities to the close of the first and practically the whole of the second quarter of the eleventh century A. D. We have not so far been able to find any passage in Ksemarāja's works which could give us an idea of his parentage. But Abhinava in the 37th chapter of his Tantrāloka, includes "kṣema" in the list of the names of 
 
@@ -18,13 +18,13 @@ HIS IMPORTANCE AND INFLUENCE
 
 145 
 
-his pupils. In another list, which gives the names of his cousins, this very name is mentioned as that of the first of them. They also were his pupils. The indications of a very close contact of himself with Abhinava that Kṣemarāja gives by using some such expression as "Padapadmopajīvin" in every work of his, and the important place that he occupies among Abhinava's pupil-writers seem to support the probability that Kṣema of the Tantrāloka stands for Ksemarāja, the author of the Pratyabhijñā Hrdaya and other philosophical works. In fact, in the Pratyabhijña Hrdaya he refers to himself as Kșema : 
+his pupils. In another list, which gives the names of his cousins, this very name is mentioned as that of the first of them. They also were his pupils. The indications of a very close contact of himself with Abhinava that Kṣemarāja gives by using some such expression as "Padapadmopajīvin" in every work of his, and the important place that he occupies among Abhinava's pupil-writers seem to support the probability that Kṣema of the Tantrāloka stands for Ksemarāja, the author of the Pratyabhijñā Hrdaya and other philosophical works. In fact, in the Pratyabhijña Hrdaya he refers to himself as Kṣema : 
 
 "Kṣemenoddhriyate sārah samsāra viṣa śāntaye." 
 
-P. H., 1. If this probability be accepted we would suggest the name of Kșemarāja's father also. In the last chapter we have spoken about one Vāmanagupta, whom Abhinava represents as his uncle. As he is the only uncle of Abhinava, of whom we know, will it be wrong to say that he was Ksemarāja's father ? 
+P. H., 1. If this probability be accepted we would suggest the name of Kṣemarāja's father also. In the last chapter we have spoken about one Vāmanagupta, whom Abhinava represents as his uncle. As he is the only uncle of Abhinava, of whom we know, will it be wrong to say that he was Ksemarāja's father ? 
 
-HIS WORKS. Kșemarāja also, like his great teacher, Abhinavagupta, has written on all the three subjects i. e. Tantra, poetics and Saiva philosophy. His work on poetics, viz. the com mentary, called Udyota, on Abhinava's Locana has not so far been accessible to us. It is, therefore, not possible at this stage to assign any chronological position to it. How ever, on the strength of what we have read we can say that he also worked on the lines of his great teacher. He also, like Abhinava, first of all, used the power of his pen in commenting upon the monistic Saiva Tantras, then perhaps upon his teacher's work on poetics, the Locana, 
+HIS WORKS. Kṣemarāja also, like his great teacher, Abhinavagupta, has written on all the three subjects i. e. Tantra, poetics and Saiva philosophy. His work on poetics, viz. the com mentary, called Udyota, on Abhinava's Locana has not so far been accessible to us. It is, therefore, not possible at this stage to assign any chronological position to it. How ever, on the strength of what we have read we can say that he also worked on the lines of his great teacher. He also, like Abhinava, first of all, used the power of his pen in commenting upon the monistic Saiva Tantras, then perhaps upon his teacher's work on poetics, the Locana, 
 
 1. T. A., Ah. 37 (MS.) 2. A. Bh., 297. 
 
@@ -34,7 +34,7 @@ HIS WORKS. Kșemarāja also, like his great teacher, Abhinavagupta, has written 
 
 CHAPTER IV 
 
-and last of all on the philosophical works, like the Spanda Kārikā. Thus he carried on the work of his teacher. The students of the Trika philosophy owe a special debt of gratitude to Kșemarāja for a systematic presentation of the views of Abhinava on the Spanda branch, on which the latter, not liking to be classed with the common herd of commentators, did not write. 
+and last of all on the philosophical works, like the Spanda Kārikā. Thus he carried on the work of his teacher. The students of the Trika philosophy owe a special debt of gratitude to Kṣemarāja for a systematic presentation of the views of Abhinava on the Spanda branch, on which the latter, not liking to be classed with the common herd of commentators, did not write. 
 
 1. SVACCHANDODYOTA. It is his commentary on the Svacchanda Tantra. This seems to be the first in the chronology of his available works. It is referred to in his commentaries on Bhatta Nārāyana's Stava Cintāmaņi, P. 226, on the Siva Sūtra, P. 12, and on the Netra Tantra, P. 226. 
 
@@ -42,7 +42,7 @@ and last of all on the philosophical works, like the Spanda Kārikā. Thus he ca
 
 3. VIJĀNA BHAIRAVODYOTA. 4. DHVANYĀLOKA LOCANODYOTA. 
 
-5. SPANDA SANDOHA. Spanda Sandoha is, as has already been pointed out, Kșemarāja's commentary on the first verse of the Spanda Kārikā in which he deals with practically the whole of the Spanda system. In the chronological order of his works this comes before his Spanda Nirnaya? in which he refers to it at more than one place. 3 
+5. SPANDA SANDOHA. Spanda Sandoha is, as has already been pointed out, Kṣemarāja's commentary on the first verse of the Spanda Kārikā in which he deals with practically the whole of the Spanda system. In the chronological order of his works this comes before his Spanda Nirnaya? in which he refers to it at more than one place. 3 
 
 6. SPANDA NIRŅAYA. It is a commentary on the whole of the Spanda Kārikā. It may be pointed out here that Dr. Buhler in his Kashmir Catalogue has thrown some doubt on the point of the authorship of the last two works by showing them as the works of Kṣemendra (consult P. XXXIII, MSS. 511 and 
 
@@ -60,7 +60,7 @@ S. N., 1.
 
 "Kṣemendra, the author of Spanda Nirnaya, No. 511, and of Spanda Sandoha 517 appears to be identical with Kṣemarāja, the pupil of Abhinava". 
 
-We do not know the learned Doctor's reasons for assign ing these works to Kșemendra, perhaps he found this name in the colophons of the works in question. But our careful study shows that they are the works of Kșemarāja and that if in the colophons of some MSS. the name of Kșemendra is found, it must have been simply due to the mistake of the scribes. In the Pratyabhijñā Hrdaya and in the Siva Sutra Vimarsinī, which are accepted by all to be of Kṣemarāja's authorship, these two works are referred to by him as his own, as the following quotations therefrom show : "Tathā mayā vitatya Spanda Sandohe nirnītam." P.H.,P.24. "Yathā caitat tathā asmadīyāt Spanda Nirnayad avaboddha vyam." 
+We do not know the learned Doctor's reasons for assign ing these works to Kṣemendra, perhaps he found this name in the colophons of the works in question. But our careful study shows that they are the works of Kṣemarāja and that if in the colophons of some MSS. the name of Kṣemendra is found, it must have been simply due to the mistake of the scribes. In the Pratyabhijñā Hrdaya and in the Siva Sutra Vimarsinī, which are accepted by all to be of Kṣemarāja's authorship, these two works are referred to by him as his own, as the following quotations therefrom show : "Tathā mayā vitatya Spanda Sandohe nirnītam." P.H.,P.24. "Yathā caitat tathā asmadīyāt Spanda Nirnayad avaboddha vyam." 
 
 S. S. Vi., P. 14. "Etat Spanda Nirnaye nirākāňkṣam mayaiva nirnītam." 
 
@@ -90,7 +90,7 @@ It is mentioned as one of his works in the introduction to the Samba Pancāśik�
 
 (Bühler's Kashmir Catalogue MS. 458.) 
 
-(II.) YOGARĀJA. The commentator who came next after Kșemarāja was Yogarāja. According to his own statement in the concluding lines of his commentary, Vivrti, on the Paramārtha Sāra of Abhinavagupta, he was a pupil of Kṣemarāja? who was in possession of the tradition. We shall, therefore, not be wrong if we say that he belonged to the second half of the eleventh century A. D. At the time when he wrote the said commentary he had already renounced the world and was living as an ascetic at Vitastāpuri in Kashmir. This commentary, according to its author, is from the point of view of pure monism. 
+(II.) YOGARĀJA. The commentator who came next after Kṣemarāja was Yogarāja. According to his own statement in the concluding lines of his commentary, Vivrti, on the Paramārtha Sāra of Abhinavagupta, he was a pupil of Kṣemarāja? who was in possession of the tradition. We shall, therefore, not be wrong if we say that he belonged to the second half of the eleventh century A. D. At the time when he wrote the said commentary he had already renounced the world and was living as an ascetic at Vitastāpuri in Kashmir. This commentary, according to its author, is from the point of view of pure monism. 
 
 (III.) SUBHAȚA DATTA. He is the first known commentator of Abhinava's Tantraloka. The only source of information about him is Jayaratha's Viveka?. According to this, he was the pre ceptor of Rājarāja, whom we cannot definitely identify with 
 
@@ -170,7 +170,7 @@ HIS IMPORTANCE AND INFLUENCE
 
 It consisted of one lac and ten thousand verses, according to his own statement in his introduction to the Bhāskarī. But only a few fragments of it are now left with his present descendants. This presents a Saivaite interpretation of the text. 
 
-3. HARȘEŚVARA STAVA. 
+3. HARṣEŚVARA STAVA. 
 
 It was written by him, as the tradition says, on the occasion of his visit to the temple of Harṣeśvara in Kashmir. 
 
@@ -180,9 +180,9 @@ The names of his successors are given below in the order of their succession :
 
 7. Viśveśvara. The writers directly influenced by Abhinava. 
 
-(I.) KșEMENDRA. 
+(I.) KṣEMENDRA. 
 
-Is he identical with Kșemarāja ? The only reason for identifying the one with the other is probably a scribal mistake which gives the name of Ksemendra instead of that of Kṣemarāja in the colophons of the Spanda Sandoha and the Spanda Nirnaya. These works have now been published and their colophons have the name of the latter (Kșemarāja) and not that of the former. The colophon of the Spanda Nirnaya, for instance, reads as follows: 
+Is he identical with Kṣemarāja ? The only reason for identifying the one with the other is probably a scribal mistake which gives the name of Ksemendra instead of that of Kṣemarāja in the colophons of the Spanda Sandoha and the Spanda Nirnaya. These works have now been published and their colophons have the name of the latter (Kṣemarāja) and not that of the former. The colophon of the Spanda Nirnaya, for instance, reads as follows: 
 
 "Krtiḥ śrī Pratyabhijñākāra praśisya Mahāmāheśvarā 
 
@@ -194,7 +194,7 @@ cārya Srimad Abhinavaguptanāthadattopadeśasya Śrī Kṣemarājasyeti śivam.
 
 CHAPTER IV 
 
-A careful study of the works of Abhinava and those of Kșemarāja gives a sufficiently clear idea of the personality of Kșemarāja as separate from that of his younger contemporary Kṣemendra. We have represented the Tantrāloka to be a production of the first period of Abhinava's literary activity to which the Krama Stotra belongs. It must have, therefore, been written in about 990 A. D. At that time Ksemarāja, the first-mentioned cousin of Abhinava, was sufficiently educated to understand the intri cacies of the monistic Tantras so as to be prompted to join others in requesting Abhinava to write the Tantrāloka : 
+A careful study of the works of Abhinava and those of Kṣemarāja gives a sufficiently clear idea of the personality of Kṣemarāja as separate from that of his younger contemporary Kṣemendra. We have represented the Tantrāloka to be a production of the first period of Abhinava's literary activity to which the Krama Stotra belongs. It must have, therefore, been written in about 990 A. D. At that time Ksemarāja, the first-mentioned cousin of Abhinava, was sufficiently educated to understand the intri cacies of the monistic Tantras so as to be prompted to join others in requesting Abhinava to write the Tantrāloka : 
 
 "Anye pitryyatanayāḥ śivasaktiśubhrāh 
 
@@ -214,31 +214,31 @@ HIS IMPORTANCE AND INFLUENCE
 
 155 
 
-Kṣemendra, not only bears a different name but has another name also "Vyāsadāsa" which he almost invariably gives along with the former, but which is never to be found coupled with Kșemarāja's name. His connection also with Abhinava cannot at all be said to have been so close as that of Kṣemarāja, for, he refers to Abhinava, so far as we know, only once i. e. in the Mahābhārata Mañjarī, wherein he speaks of having heard Abhinava's lectures on poetics : 
+Kṣemendra, not only bears a different name but has another name also "Vyāsadāsa" which he almost invariably gives along with the former, but which is never to be found coupled with Kṣemarāja's name. His connection also with Abhinava cannot at all be said to have been so close as that of Kṣemarāja, for, he refers to Abhinava, so far as we know, only once i. e. in the Mahābhārata Mañjarī, wherein he speaks of having heard Abhinava's lectures on poetics : 
 
 "Acāryasekharamaner vidyāvivstikāriņah 
 
 Srutvābhinavaguptākhyāt sahityam bodhavāridheh." 
 
-We know that even today there is a marked difference between S'iṣya and Srotā. The difference may be said to be similar to that which exists in the present-day colleges between a registered and a casual student. Further, Kșemarāja probably used to live in Bijbihāra (Vijayeśvara) which he mentions as the place of composition of his commentary on the Stava Cintāmaņi : 
+We know that even today there is a marked difference between S'iṣya and Srotā. The difference may be said to be similar to that which exists in the present-day colleges between a registered and a casual student. Further, Kṣemarāja probably used to live in Bijbihāra (Vijayeśvara) which he mentions as the place of composition of his commentary on the Stava Cintāmaņi : 
 
 "Tenārthipranayad dinaistricaturair yāṁ Kṣemarājo 
 
 vyadhāt Ksetre Sri Vijayeśvarasya vimale saiṣā śivārādhanī." But Kṣemendra states Tripureśasaila as his place of residence in one of the concluding lines in his Mahābhārata Manjarī : 
 
-"Prakhyātātiśayasya tasya tanayah Kșemendra-nāmā 
+"Prakhyātātiśayasya tasya tanayah Kṣemendra-nāmā 
 
-bhavat Tena Sri Tripureśa-sailaśikhare viśrāntisantoșiņā." 
+bhavat Tena Sri Tripureśa-sailaśikhare viśrāntisantoṣiņā." 
 
-In the opinion of Dr. Bühler, referred to by Dr. De in H. S. P., P. 141, the only thing that can finally settle the question, under discussion, is the discovery of the name of Ksemarāja's father. We may, therefore, add here what little information we have been able to collect on this point. We have already shown how Kșemarāja is identical with 
+In the opinion of Dr. Bühler, referred to by Dr. De in H. S. P., P. 141, the only thing that can finally settle the question, under discussion, is the discovery of the name of Ksemarāja's father. We may, therefore, add here what little information we have been able to collect on this point. We have already shown how Kṣemarāja is identical with 
 
 156 
 
 CHAPTER IV 
 
-Kșema, mentioned in the Tantrāloka, as one of the cousins (pitrvyatanaya) of Abhinava, for, he refers to himself by the abbreviated form, found in the Tantraloka, in his own Pratyabhijñā Hrdaya. We know the name of one uncle (pitrvya) of Abhinava referred to in A. Bh., P. 297. We cannot, however, definitely say that he was the father of Kșemarāja. For, there can be pointed out a possibility of Abhinava's having had more than one uncle, and therefore, of the name of Kșemarāja's father having been different from that of Abhinava's uncle who is referred to in A. Bh. But there cannot be any such possibility about Kșemaraja's grand-father, who also had a different name from that of Kṣemendra's grand-father. We have stated in the 1st chapter that the name of Abhinava's grand-father was Varāhagupta. Therefore, if Kṣemarāja was Abhinava's cousin, as we have shown before that he was, it naturally follows that Varahagupta was the grand father of Kșemarāja also. But Kṣemendra's grand-father, according to the Maha bhārata Mañjarī, was Nimnāśaya : "Kaśmireșu babhūva sindhuradhikah sindhośca nimnāśayah Prāptastasya guņaprakarsayaśasaḥ putrah Prakāśendratām 
+Kṣema, mentioned in the Tantrāloka, as one of the cousins (pitrvyatanaya) of Abhinava, for, he refers to himself by the abbreviated form, found in the Tantraloka, in his own Pratyabhijñā Hrdaya. We know the name of one uncle (pitrvya) of Abhinava referred to in A. Bh., P. 297. We cannot, however, definitely say that he was the father of Kṣemarāja. For, there can be pointed out a possibility of Abhinava's having had more than one uncle, and therefore, of the name of Kṣemarāja's father having been different from that of Abhinava's uncle who is referred to in A. Bh. But there cannot be any such possibility about Kṣemaraja's grand-father, who also had a different name from that of Kṣemendra's grand-father. We have stated in the 1st chapter that the name of Abhinava's grand-father was Varāhagupta. Therefore, if Kṣemarāja was Abhinava's cousin, as we have shown before that he was, it naturally follows that Varahagupta was the grand father of Kṣemarāja also. But Kṣemendra's grand-father, according to the Maha bhārata Mañjarī, was Nimnāśaya : "Kaśmireṣu babhūva sindhuradhikah sindhośca nimnāśayah Prāptastasya guņaprakarsayaśasaḥ putrah Prakāśendratām 
 
-Prakhyātātisayasya tasya tanayah Kșemendra-nāmābhavat." 
+Prakhyātātisayasya tasya tanayah Kṣemendra-nāmābhavat." 
 
 M. B. M. After stating the above arguments we leave it now to the reader to pronounce the final verdict. 
 

@@ -121,7 +121,7 @@ Isvara Pratyabhijñā sīkā, 99 Guru, 70
 61, 67, 95, 96, 99, 100, 106, Harivaisa Purāna, 55 
 135, 151, 152, 167, 169, Harsa, 119, 125 
 201, 208, 266, 302, 306, 318 Harṣeśvara, 153 
-Isvara Pratyabhijñā Vivști Harseśvara Stava, 153 
+Isvara Pratyabhijñā Vivṣti Harseśvara Stava, 153 
 Vimarsini, 22, 27, 36, 37, 61, Hegel, 167 
 99, 123, 167 Helārāja, 143 
 Isvara Pratyabhijñā Vrtti, 99 Hemacandra, 157 
