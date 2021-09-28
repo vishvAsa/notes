@@ -5,12 +5,12 @@ title: 02 Aryan invasion
 
 ![](../images/Arya-iranian-farmers-asi-diagram-2.jpg)
 
-{{< figure src="../images/yAmnAya_corded-ware_baltic-fatyanovo_abashevo_sintashta_andronovo_nordquvist_2020.png" title="">}}
+{{< figure src="../genetics/images/yAmnAya_corded-ware_baltic-fatyanovo_abashevo_sintashta_andronovo_nordquvist_2020.png" title="">}}
 
 
-{{< figure src="../images/narasimhan19-admixture.jpg" title="Admixture diagram from Narasimhan 19" >}}
+{{< figure src="../genetics/images/narasimhan19-admixture.jpg" title="Admixture diagram from Narasimhan 19" >}}
 
-{{< figure src="../images/yAmnAya_corded-ware_farmer_mixture_18.jpg" title="" attribution_link="https://www.biorxiv.org/content/early/2018/03/31/292581">}}
+{{< figure src="../genetics/images/yAmnAya_corded-ware_farmer_mixture_18.jpg" title="" attribution_link="https://www.biorxiv.org/content/early/2018/03/31/292581">}}
 
 The mAnasatarangiNIkAra and others have spoken on this here: [MT1803](https://manasataramgini.wordpress.com/2018/04/01/a-brief-note-on-some-new-developments-regarding-the-genomics-of-indians/), N[201803](https://www.biorxiv.org/content/early/2018/03/31/292581), [20151212](https://manasataramgini.wordpress.com/2015/12/12/a-note-on-the-early-expansions-of-the-indo-europeans/) (mindmup [map](https://rebrand.ly/IA_MT), [img](../images/mt_2015.png), base file [here](https://drive.google.com/file/d/1NOmH-j3NARqK7pDt8Gq2EJyVJ2xHvNr9/view?usp=sharing)), [RK16](http://www.unz.com/gnxp/the-dravidian-migration-theory-vindicated/), [H17](http://www.thehindu.com/sci-tech/science/how-genetics-is-settling-the-aryan-migration-debate/article19090301.ece),[20151219](https://manasataramgini.wordpress.com/2015/12/19/a-reiteration-regarding-the-heart-of-the-fundamental-conflict/), [2015BX](https://app.box.com/s/9t5jawga2ocoovvkhrsc), [201209](https://manasataramgini.wordpress.com/2012/07/09/nishada-s-and-shabara-s-of-jambudvipa-what-you-see-is-what-it-is/). Also see notes in the "genetics" page.
 
