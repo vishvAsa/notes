@@ -4,7 +4,7 @@ title: Genetics
 
 ## Proper pramANa-s
 
-[![](https://i.imgur.com/B8QB5zS.png)](https://i.imgur.com/B8QB5zS.png)
+{{< figure src="../../images/genetics-pramANas.png" title="" class="thumbnail">}}
 
 The above is from \[[Nature16](http://www.nature.com/nature/journal/v541/n7637/full/nature21347.html)\].  
 
@@ -14,8 +14,11 @@ The above is from \[[Nature16](http://www.nature.com/nature/journal/v541/n7637/f
 ## Gene-distribution in jAti-s
 
 - ANI ancestry among various castes: [RK15](http://www.unz.com/gnxp/the-aryan-invasion-was-not-fantasy/#comments).
+
 - Caste-gene heatmap \[[MT5](https://manasataramgini.wordpress.com/2005/12/20/socio-genetic-stratification-of-india/)\].
-    - [![](http://i.imgur.com/nC8AgJh.jpg)](http://i.imgur.com/nC8AgJh.jpg)
+  - {{< figure src="../../images/y-haplogroup_vs_jAti.jpg" title="" class="thumbnail">}}
+  
+    
 - "Not shown in this diagram is the O3e marker that is predominantly seen in the Tibeto-Burman speaking eastern tribals (who also have some O2a), and nearly absent elsewhere."\[[MT5](https://manasataramgini.wordpress.com/2005/12/20/socio-genetic-stratification-of-india/)\]
 - "The O2a, H1, F* and H2 haplogroups are predominantly seen in the mainland tribal population and decline in the middle-lower castes and are low or almost absent in upper castes." \[[MT5](https://manasataramgini.wordpress.com/2005/12/20/socio-genetic-stratification-of-india/)\]
 
