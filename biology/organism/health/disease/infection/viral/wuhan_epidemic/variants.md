@@ -11,6 +11,13 @@ title = "Variants"
 - We have already seen that these heavily immunocompromised patients harbour virus much longer time and keep excreting. This is what it gives a good opportunity for the virus to evolve into variants.
 
 
+### Attenuation probability
+Viruses don’t always become attenuated (less virulent). When they do, it’s because there is an evolutionary selection pressure driving it. No such pressure exists for SARS-CoV-2.
+
+An example of this type of selection pressure would be a virus that is so virulent, it kills its host before it can be transmitted to another one. A virus is essentially a machine programmed to make more viruses. To do that, it needs to be spread to new hosts. So variants that are so virulent they kill a host before that host can pass it along, that is under negative selection pressure. The more virulent viruses won’t be passed on. But attenuated variants will. They are under positive selection.
+
+For SARS-CoV-2, this has never been an issue. This virus can be transmitted to a new host before an infected person develops symptoms. Even those who die from COVID are most contagious before they become severely ill. (source: [Angela Rasmussen](https://twitter.com/telegraph/status/1440979574435811333))
+
 ## Victoria
 - Original is called: Victoria.
 - R number was 2.5
