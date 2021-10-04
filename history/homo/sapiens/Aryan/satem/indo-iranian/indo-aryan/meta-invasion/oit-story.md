@@ -9,6 +9,9 @@ title: OIT story
 - Absence of non-IE place-names (which are usually heavily conserved) in north India
     - (Can in part be explained by the vyutpatti power of sanskrit.)
 
+### Cattle
+- "one of the slam dunks that some indians do re: intrusive aryans is that the cattle are clearly bos taurus not indicus. but that's not surprising, the latter are really well adapted to tropical climes. also, the steppe ppl brought their dogs to Europe but they died off." - rAzib
+
 ## Problems
 ### Genetic
 - "They show that the massive expansion of R1a happened in India coevally with that of R1b in Europe and both the Indian and the European R1 haplogroups occur together only in the ancient steppe DNA recovered by Reich in the time range of 5,500-4,000 YBP. The timeline of R1a expansion in India has now been accurately determined to no earlier than 4,500 YBP. ... Therefore, unless new genetic evidence surfaces which testifies to the simultaneous occurrence of R1a and R1b in India in the time range of 5,500-4,000 YBP, OIT cannot be resurrected." \[[KV16](https://kalavaivenkat.wordpress.com/2016/05/07/musings-on-ait-genetics-and-accusations-of-racism/)[N16](http://www.nature.com.ucsf.idm.oclc.org/ng/journal/vaop/ncurrent/full/ng.3559.html) [H17](http://www.thehindu.com/sci-tech/science/how-genetics-is-settling-the-aryan-migration-debate/article19090301.ece)\] 

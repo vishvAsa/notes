@@ -21,3 +21,6 @@ title = "mAdhava rAva"
 > Malharrao stung to the quick could but join his prince, and as the Mogol army advanced in the disorder of success, Madhavrao's cavalry burst on them stabbing, sabring, trampling down all resistance. Few troops then in India could have stood that furious onset and the Mogol army, that but a moment before had had victory in their grasp, were hurled headlong into the Godavari. Twenty-one guns and 15 elephants were captured on the field of battle, and Naldurg fort and territory yielding 82 lakhs of rupees were paid by the Nizam as the price of peace. 
 > 
 > - Tale of the Tulsi Plant and Other Studies By C.A. Kincaid
+
+## Tolerance defects
+Madhavrao Peshwa accorded permission to a Portuguese priest to build a church at Ravdanda on the west coast.... using the pillars and remnants of seven or eight Hindu temples within the fort.

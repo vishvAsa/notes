@@ -15,13 +15,24 @@ title: 01 Iranian farmer influx
 Indus Valley civilization (IVC) area were settled by a people heavy in Iranian Farmer input (over a prior IHG substrate). 
 
 - A Bronze Age civilisation lasting from 3300 BCE to 1300 BCE, and in its mature form from 2600 BCE to 1900 BCE.
+- 3200-2600 BC Kot Dijian tradition emerged as unified pottery type across Indus River Valley & into Haryana & Rajasthan. They built walls around their settlements that were 6 m thick & 5 m tall. They had carts, bull figurines, & large brick platforms. Bricks were uniform in size.
+- 2800-2600 BC several Indus River Valley Civilization settlements were burned, & almost all were abandoned. Invaders from Baluchistan mixed with their predecessors & kept much of their material culture. After invasion, almost all settlements were built in virgin lands, not ruins.
 - noted for their urban planning, baked brick houses, elaborate drainage systems, water supply systems, clusters of large non-residential buildings, and new techniques in handicraft (carnelian products, seal carving) and metallurgy (copper, bronze, lead, and tin)
+- Indus Valley Civilization built even their small settlements with drains.
 
 ### Meluḫḫa
 - A prominent theory was that these people were referred to by neighboring civilizations as Meluḫḫa or Melukhkha (later giving rise to sanskrit mlecCha) \[[W](https://en.wikipedia.org/wiki/Meluhha)\]. After the decline of the Indus civilization, the toponym Meluḫḫa was preserved in the cuneiform tradition as the designation for a distant exotic country. The knowledge of its location, however, was permanently lost. In the first half of the first millennium BCE, the kings of the Neo-Assyrian empire identified far-away Nubia, situated in Africa, as Meluḫḫa.
 
+## Ahar Banas
+Ahar-Banas Culture in Rajasthan was near a major copper deposit 3000-1500 BC. Some sites worked copper. They had a cultural change around 2000 BC & outlasted the IVC by centuries. They were connected to IVC by trade routes as well as the northern Deccan.
+
+## mALwa
+Kayatha Culture on the Malwa Plateau existed 2000-1700 BC. They had copper axes, and were in contact with Ahar-Banas as well as Malwa cultures. Malwa Phase succeeded Kayatha on Malwa Plateau 1700-1500 BC. They had swords of Middle Eastern influence or import. There may have been as many as four cultural turnovers in 200 years. There are signs of fires at one site.
+
+
 ## Population impact
 - large cities of Mohenjo-daro and Harappa very likely grew to contain between 30,000 and 60,000
+- Indus River Valley Civilization’s “Era of Integration” 2600-1900 BC featured rise of large urban areas & cultural homogenization. IVC at the time was 20x size of Egypt & 10x size of Mesopotamia. Over 1000 known settlements from Era of Integration are known.
 - the civilisation itself during its florescence may have contained between one and five million individuals.
 - the indian IVC expansion out of the NW looks to be 50% of native substrate
 
@@ -58,5 +69,13 @@ Hence, together we surmise that the Iranian farmers brought a now lost language 
 - Furthermore, the Indus Valley Rakhigarhi reconstructed individuals from Lee, Shinde et al 2020 were in the same ballpark too. The 17-18 yr old boy had a height of 177 cm (5 ft 10 inches) while the adult female was 5 ft 6 inches tall.
 
 
+## Trade
+- Late 4th millennium BC Kandahar was linked by trade to Elam. Proto-Elamite writing on tablets has been found in Kandahar.
+- Nomadic pastoral groups roamed the marginal parts of the IVC, but were economically integrated, probably bringing raw materials to the permanent settlements, then leaving with manufactured goods.
+- Sumerians called Bahrain “Dilmun”. It was a center of trade in 3rd millennium BC for Mesopotamia, Iran, Oman, & the Indus Valley. 150k tumuli tombs were built there. Sumerians viewed it as very wealthy.
+- Little evidence for sea trade in 4th millennium BC in Arabian Sea & Persian Gulf. 3rd millennium did have sea trade though. Indus Valley Civilization artifacts & writing found in Oman, Bahrain, Khuzestan & UAE. IVC weights for trade measurements indicate extensive contacts.
+
 ## Decline
+- Decline & fall of Indus Valley Civilization 2000-1700 BC featured abandonment of urban areas & breakdown of trade in both Iran & Arabian Sea. However, population increased in E Punjab & Gujarat.
+- Copper hoards dating to 1750-1250 BC have been found in the Ganga-Yamuna Doab (pictured). They are filled with swords, harpoons, spears, axes, rings, & tools. They were not made from Indus Valley Civilization techniques, leading some to suspect that they are of Aryan origin.
 - Soon after the mature phase, it was subsumed into the Indo-Aryan culture, into whose high echelons some of its elites were incorporated. Details in IA invasion page. 
