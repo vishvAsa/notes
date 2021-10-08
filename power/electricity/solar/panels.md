@@ -17,7 +17,7 @@ title = "Panels"
 
 ### Variance during day.
 - Peak production time (BLR) is roughly 11AM to 2:30PM. 
-<div class="videoEmbed"  src="https://www.youtube.com/watch?v=iFKskiS7XLk&feature=youtu.be" caption="From the lower graph, I see that power production is getting clipped at 295W - so it seems that it could have potentially generated more per panel with a better inverter (eg IQ7a rather than IQ7+)."></div>
+<div class="videoEmbed"  src="https://www.youtube.com/watch?v=iFKskiS7XLk" caption="From the lower graph, I see that power production is getting clipped at 295W - so it seems that it could have potentially generated more per panel with a better inverter (eg IQ7a rather than IQ7+)."></div>
 
 {{< figure src="../../images/solar_panel_angle_effects_2pm_295W_inverters.jpg" title="" class="thumbnail">}}
 
