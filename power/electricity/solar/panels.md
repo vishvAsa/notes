@@ -10,7 +10,7 @@ title = "Panels"
 - Ratings: Standard Test Conditions (STC) which is @ 25°C cell temperature
 - Avg generation per KW per day in BLR (considering rain and cloud) 4kWh (as per prashant 2020).
 - Annual degradation (as of 2020 tech) - 0.0045x annually (to be compounded during calculation).
-- Solar cell negative temperature coefficient: .003739x/°C (to be compounded during calculation). The cell temperature may go to 70°C and the ambient temperature will be 45°C in bengaLUru.
+- Solar cell negative temperature coefficient: .003739x/°C (to be compounded during calculation). The cell temperature may go to 70°C (=> .76x efficiency) and the ambient temperature will be 45°C in bengaLUru.
 
 {{< figure src="../../images/solar_panel_temperature_VA_response.jpg" title="" class="thumbnail">}}
 

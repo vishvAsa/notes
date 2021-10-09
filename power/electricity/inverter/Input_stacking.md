@@ -15,7 +15,7 @@ title = "Input stacking"
 - Lower power eliminates many problems.
 - Allow mounting PV modules on different surfaces and facing different directions.
 - Can optimize performance and monitor better.
-- Safer, both to install and maintain, since avoiding wiring lots of panels in series (when DC voltage can increase up to hundreds of volts) eliminates the need of high voltage DC wiring.
+- Safer, both to install and maintain, since avoiding wiring lots of panels in series (60V max DC voltage vs .6-1kW) eliminates the need of high voltage DC wiring. Lower probability of lightening strikes?
 - much longer durability than central inverters due to the fact that they are not exposed to such a high power and heat like central inverters. micro inverters come with a more extended warranty – 20-25 years – compared to the typical 10 years guarantee of their string counterparts.
 - High rated microinverter manufacturers include: Enphase.
 

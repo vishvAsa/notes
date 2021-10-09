@@ -11,7 +11,7 @@ title = "On-grid Bengaluru"
 
 ## System requirements
 - Empanelled equipment list
- - inverters [here](https://bescom.karnataka.gov.in/storage/pdf-files/DSM-Solar/Empanelled%20List.pdf) - outdated.
+ - inverters [here](https://bescom.karnataka.gov.in/storage/pdf-files/DSM-Solar/inverter%20empanelled%20list%2029%2009%202021.pdf) .
  - meters [here](https://bescom.karnataka.gov.in/new-page/EMPANELMENT/en).
 - Lightening arrestor (LA) if building is over 50m.
 - AC & DC distribution box with surge protection devices.

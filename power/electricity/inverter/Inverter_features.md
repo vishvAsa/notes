@@ -9,6 +9,8 @@ title = "Inverter features"
 - Supported input and output current.
 - Output waveform - Sinewave, quasi-sinewave, square wave.
 - Output frequency – 50Hz in Europe, 60 Hz in the USA.
+- Continuous output power
+  - Peak output power (less useful)
 - MPPT input voltage range.
 - Number of MPPTs (can connect and optimize multiple power sources separately)
 - Good enclosures - IP65 for protection from dust and water.
