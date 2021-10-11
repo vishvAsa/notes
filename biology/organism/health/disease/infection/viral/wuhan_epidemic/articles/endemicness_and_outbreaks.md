@@ -1,0 +1,12 @@
++++
+title = "Endemicness and Outbreaks"
++++
+(Source: https://threader.app/thread/1446924989182140419)
+
+Like a lot of countries they (Singapore) are shifting to endemic. Going from zero cases to some is going to lead to at least a short-term spike. The graph is expected on some level as ppl normalize behaviorbut overall, YOU NEED TO COMPARE VAX VS. UN-VAX, not vaccination against a perfect ideal pre-covid world. 
+
+We are going into endemic stage for most of the world. I think china will too, but I don't want to argue that. Low levels of covid-19 will persist. Reinfection will happen. There are also going to be pockets where people don't vaccinate in mostly vaccinated societies. Herd immunity is hard to achieve with delta due to its infectiousness, and the pockets of un-vaxed are concentrated in ways that make outbreaks (small ones) likely. The issue is to compare unvaxed vs. vaxed societies, and the comparisons that I've seen are not pretty. We're not going to get perfect situations. But we need to get better and manage this. 
+
+The second major issue is *personal risk*. Recently I found out about a doctor 39-year-old who is not getting vaxed because she judges her personal risk low. It is low. Last i checked covid-19 is very very very low risk < 20. Should these kids get vaxed? The reason for kids to get vaxed, if we so choose, isn't that they are incredible personal risk. And, perhaps the individual risks outweigh those personal risks. BUT, there is the issue of base-rate endemic transmission. You may infect others. We need to be candid about this. 
+
+I find the fixation on childhood and young people death-rates pretty misleading and almost irresponsible. People can look up the CFRs and see that the media is consciously misleading, and then trust disappears. Don't lie. Be honest. Do u want to take the risk for others? That's it. This is a personal and social decision. But we need to be candid and just weigh stuff. Not all situations are going to be the same. But the facts are the same broadly. Just like "OMG kids going to die" is hysterical nonsense IMO, the "I'm healthy and fit, I'm OK" is dumb too. For young people it's never about just their personal risk. It's about the fact that this is a social/collective problem. We need to talk about honestly and not avoid the issues. I think it is likely there is a side-effect/risk. So the question: Is it worth it? That's all.
