@@ -49,3 +49,6 @@ general of the Ahom kingdom, who prepared fortrifications (beheading his materna
 
 ## Meitei queen kuranganayanI
 who became chief queen of ahom Suremphaa Rajeswar Singha by her wit, tricked Ragho Moran (an usurper who took on the title "Borbaruah" and forcefully married 100 women of the royalty) into not touching her and going to his death unarmed.
+
+## Kalidas Baidya
+Dr Kalidas Baidya was a Bangladeshi hindu freedom fighter. After independence understood Mujibur is another Islamist. Expelled from country, wrote books, formed Banga Sena. BJP sabotaged it, Advani handed over many fighters to Bangladesh army.
