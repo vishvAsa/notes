@@ -1,0 +1,14 @@
+---
+title: China
+
+---
+
+## Current status
+- Territorial aggression by mainland China is being opposed by a good coalition of neighbors - India, Japan, Taiwan, Vietnam, Korea, Mongolia, Russia.
+
+## Recent history
+- "The Han civilization was largely demolished by the cunning mlechCha-s, followed by a stern cut from the samurai’s blade. However, the mlechCha-s in their conquest of Japan ended up giving the chIna-s a new leash of life. The chIna-s not being the type that easily passes up an opportunity took the chance to resurrect their power and display their belligerence ever since."
+- "Ironically, they have been aided in this process by none other than the mlechCha-s, whose constructs they have exploited against the mlechCha-s themselves and also other civilizations. The key in all this was the destruction and conquest of Japan which was vastly superior to the chIna-s in military prowess. This completely freed their eastern flank, with Japan unlikely to ever challenge the chIna power again."
+- "The fall in birth rates in Japan indicates that they will not be able to have the key ingredient by which wars are fought – young men. While the chIna-s also have this problem, they are ultimately better off than the Japanese in absolute numbers. They also hope to combine with the potential use of directed eugenics in the future to keep them ahead of the Japanese in terms of human capital."  [MT](https://manasataramgini.wordpress.com/2013/04/25/chinese-incursion-of-2013-just-the-beginning/)
+- "While the chIna-s were sharpening on advice of Sun Tzu and the practices of Shi Huang, the chAchA was conjuring up his grandiose ideas on an armyless state, the superfluity of missiles, and the Pan-Asian non-aligned alliance, while neglecting the advice of viShNugupta (and closer to our times Vallabhbhai Patel and the great Acharya Raghuvira) and the action of chandragupta. Not surprisingly, the chIna-s gobbled Tibet even as a snake devouring a frog, while chAchA kept talking nonsense such as pa~nchshIla or hindI-chInI bhai-bhai. The consequences were keenly felt with the surprise invasion of India in 1962 by the chIna-s followed by a crushing defeat. Things could have gone worse in the subsequent years had the Rus-chIna conflict (1969) not broken out. The drubbing which the Rus gave the chIna-s put some fear into their hearts (though today the chIna-s like to claim that they won the war), and made them wary of further adventures. However, the mlechCha-s locked in conflict with Rus again ended up strengthening the chIna-s as a potential force multiplier against them. Let us not forget that the mlechCha-s again stood by the chIna tyrant Deng Xiaoping when he declared that he would teach the Hindus a lesson during the Sumdorong Chu invasion in 1986-1987 and were trying to incite a war." [MT](https://manasataramgini.wordpress.com/2013/04/25/chinese-incursion-of-2013-just-the-beginning/)
+

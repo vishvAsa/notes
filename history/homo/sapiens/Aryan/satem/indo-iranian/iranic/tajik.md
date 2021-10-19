@@ -4,6 +4,10 @@ title = "Tajik"
 
 Literally - Non-turk in Persian usage. Significant Turkik input.
 
+
+## Sogdia
+See separate article
+
 ## Current domain
 84.3% of the population of Tajikistan. After post-soviet civil war, the anti-islamic government has dominated.
 

@@ -7,3 +7,6 @@ title: Indic Tarim
 
 > In the period that followed the death of the great emperor lalitAditya, and the confusion during the reign of saMgrAmapIDa, the Chinese generals Yao Yao and Wei-ch’ih-Sheng devised a daring plan to take Khotan. With the help of the internal Sinitic population they engineered a revolt and suddenly appeared at the head of a massive Chinese army of 80,000 to beseige and conqueror the kingdom. First Sheng and there after Yao declared themselves rulers of Khotan. Alarmed at this advance the descendent of lalitAditya, jayAditya, son of saMgrAmapIDa, who ascended the throne in 751 CE, assigned general vijaya vikrama a descendent of the original Hindu royal family of Khotan to wrest it back from the chInas, hUnas and “mlecchas”. ... " The rule of this dynasty continued till ~992, when, isolated, it fell to muslims. 
 > {[MT2](https://manasataramgini.wordpress.com/2004/09/17/a-brief-history-of-the-vijayan-rule-of-khotan/)}
+
+
+
