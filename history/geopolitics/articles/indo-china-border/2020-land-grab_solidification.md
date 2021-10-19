@@ -33,13 +33,13 @@ By delinking the 1993 agreement from the creation of the LAC, China has effectiv
 
 Clearly, China has turned the tables on India. Used to taking a long-term view, China had outsmarted India in the signing of the 1993 agreement. To understand the enormity of the quagmire that India finds itself in today, it is important to recall how exactly the 1993 LAC came about and what propelled India to sign upon a line without delineating or demarcating it.
 
-Genesis of 1993 agreement
+## Genesis of 1993 agreement
 
 Interestingly, many of these details have been given in the book, Choices, written by former national security advisor, Shivshankar Menon – the originator and the most vocal supporter of the 1993 agreement. Even in 1992-93, Menon had the reputation of being a China expert in the Indian Foreign Service, having spent nearly eight years in that country over two postings.
 
-P.V. Narasimha Rao, prime minister at the time, was the second head of government after Rajiv Gandhi to visit China after diplomatic ties were restored, and it was felt that his visit should be a success even grander than that of Gandhi’s. Foreign secretary J.N. Dixit consulted China-hand Menon, who proposed that India and China sign a peace agreement by accepting the existing military positions on the disputed border without prejudice to each other’s stated positions. The line, marking existing military positions, could be called the line of peace or tranquillity.
+P.V. Narasimha Rao, prime minister at the time, was the second head of government after Rajiv Gandhi to visit China after diplomatic ties were restored, and it was felt that his visit should be a success even grander than that of Gandhi’s. Foreign secretary J.N. Dixit consulted China-hand Menon, who proposed that India and China sign a peace agreement by accepting the existing military positions on the disputed border without prejudice to each other’s stated positions. The line, marking existing military positions, could be called the line of peace or tranquillity.+++(5)+++
 
-The Chinese found the proposal interesting. However, they insisted on calling the peace line the Line of Active Control. Menon writes, “It seemed very important to China that Indian negotiators accept the term ‘Line of Active Control’ at the beginning of the negotiation.” The term was later changed to Line of Actual Control, the phrase that Zhou had used in his official letter to Nehru in November 1959.
+The Chinese found the proposal interesting. However, they insisted on calling the peace line the Line of Active Control. Menon writes, “It seemed very important to China that Indian negotiators accept the term ‘Line of Active Control’ at the beginning of the negotiation.”+++(5)+++ The term was later changed to Line of Actual Control, the phrase that Zhou had used in his official letter to Nehru in November 1959.
 
 Oblivious to the fact that the term LAC had deep military connotation, the Indian side, believing the Chinese attach importance to traditional terms, accepted the Chinese suggestion. In any case, Indian diplomats felt that name of the line didn’t matter much since “India had inserted a provision that both sides would mutually agree on and clarify the LAC wherever necessary in the draft of the agreement.”
 
@@ -47,19 +47,19 @@ Assessing, rightly, that the Indians were keen to make Rao’s visit a success, 
 
 This was never done, forcing India to adopt a policy of appeasement on the LAC. To the innumerable and regular transgressions of the LAC by the PLA, India’s official position was that both sides inadvertently transgressed while patrolling since the LAC is not defined. This charade was finally ended by the MEA statement of May 21, 2020. It said that India was aware of how the LAC ran on the ground and the Indian Army never violated it.
 
-From line of actual control to buffer zones
+## From line of actual control to buffer zones
 
 The Ladakh crisis of 2020 has exposed the vacuity of Indian policy-making. The 1993 agreement did not win peace. It bought temporary peace at a high cost. And the price has been heavy: On the one hand, military preparedness and infrastructure building on the LAC was neglected with too much dependency on diplomacy. On the other hand, military leaders, obsessed with Pakistan, failed to keep track of the upwards trajectory of the PLA’s military capabilities.
 
 On disengagement, which is India’s immediate concern, an interesting suggestion has been made by Qian Feng, a senior fellow at the Taihe Institute, Beijing. He writes in the August issue of FORCE,
 
-“The concept of ‘zone of actual control’ can replace the concept of ‘line of actual control’ in some areas without human population or obvious natural geomorphological features. In the future, the two countries could go beyond the traditional ‘border line’ approach and adopt the method of delimiting the disputed ‘border belt’ in questions which do not involve population adjustment.”
+> “The concept of ‘zone of actual control’ can replace the concept of ‘line of actual control’ in some areas without human population or obvious natural geomorphological features. In the future, the two countries could go beyond the traditional ‘border line’ approach and adopt the method of delimiting the disputed ‘border belt’ in questions which do not involve population adjustment.”
 
 Since the Taihe Institute is a prominent think-tank, Qian could not have written this without appropriate clearance.
 
 What this means is that the demilitarised buffer zone lying between the 1993 LAC and China’s traditional claim lines would be on Indian territory. This suggestion, according to sources, has been officially stated by China, and perhaps explains the paradoxical statement made by defence minister, Rajnath Singh on July 17. While assuring soldiers that ‘not an inch of our land can be taken by any power in the world’, he expressed uncertainty over how ‘the matter should get resolved.’
 
-India’s options
+## India’s options
 
 Coming to the present, what are India’s options? There are no military options. All military options spoken of by veterans are nothing more than updated old military plans. Few seem aware that warfare has changed and is well on the transformational trajectory where the PLA is a global player and would fight to its strengths in the new virtual war domains.  The PLA’s other strength is its projectile-centric strategy built around its ballistic, cruise and hypersonic missiles, unmatched by India.
 
@@ -69,11 +69,11 @@ However, in January 2020, the army chief, General M.M. Naravane asserted that du
 
 Fixated on Pakistan and counter-terror operations, Gen. Rawat, on becoming CDS, has gone ahead with massive military reforms to eventually create theatre commands dedicated to Pakistan, China and the Indian Ocean Region. He announced that operations based upon the army’s Integrated Battle Groups (IBGs) would be supported by the other services. What did not strike him was the futility of having IBGs for the Pakistan military and the PLA with dissimilar war-fighting strategies.
 
-The Pakistan military, like the Indian military, would fight upgraded mechanised warfare, with little jointness amongst the services, reminiscent of World War II. The PLA, on the other hand, had embarked upon Network Centric Warfare renamed ‘informationised warfare’ after studying the US-led 1991 Gulf War campaign. In 2015, after its military reforms, it started extensive joint training amongst all war domains of land, air, sea, and electro-magnetic spectrum. It has also invested heavily in intelligentised or algorithm warfare and new disruptive technologies. Thus, the PLA has combined elements of informationised and intelligentised warfare, creating unpredictability in its operations, which has got the US military worried about losing its military edge.
+The Pakistan military, like the Indian military, would fight upgraded mechanised warfare, with little jointness amongst the services, reminiscent of World War II. The PLA, on the other hand, had embarked upon Network Centric Warfare renamed ‘informationised warfare’ after studying the US-led 1991 Gulf War campaign.+++(5)+++ In 2015, after its military reforms, it started extensive joint training amongst all war domains of land, air, sea, and electro-magnetic spectrum. It has also invested heavily in intelligentised or algorithm warfare and new disruptive technologies. Thus, the PLA has combined elements of informationised and intelligentised warfare, creating unpredictability in its operations, which has got the US military worried about losing its military edge.
 
 Given the disparate strategies of the Pakistan military and the PLA and both fronts having become active, it will not be possible to continue with the pretence of fighting on two fronts. Moreover, there is growing interoperability between the two adversary militaries, which would compel the Indian military to seriously consider the new and bigger threat of a reinforced single front: Pakistan fighting with the full operational support of the PLA.
 
-As is evident from the present Ladakh crisis, Indian diplomacy, to put it politely, has fallen short. Driven by its military power, China’s diplomacy hinges on a show of strength and has no time for bilateral agreements or understanding. It will do what it wants, based on what it can. After all, how far the hat is thrown depends upon how strong the hands of the thrower are.
+As is evident from the present Ladakh crisis, Indian diplomacy, to put it politely, has fallen short. Driven by its military power, China’s diplomacy hinges on a show of strength and has no time for bilateral agreements or understanding.+++(4)+++ It will do what it wants, based on what it can. After all, how far the hat is thrown depends upon how strong the hands of the thrower are.+++(5)+++
 
 Pravin Sawhney is editor FORCE newsmagazine
 
