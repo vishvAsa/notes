@@ -1,0 +1,33 @@
++++
+title = "+Savarkar and his times"
+
++++
+
+
+SAVARKAR
+
+AND
+
+HIS TIMES
+
+
+BY
+
+DHANANJAY KEER
+
+
+
+All rights reserved by the Author.
+
+
+First published 1950
+
+
+
+TO ALL THOSE
+WHO FOUGHT AND FELL IN BHARAT
+AND PERISHED IN THE ANDAMANS
+AND IN FOREIGN LANDS
+FOR INDIAN INDEPENDENCE
+
+

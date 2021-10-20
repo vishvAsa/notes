@@ -1,0 +1,6 @@
++++
+title = "12 Institutions in favour of Nationality"
+
++++
+
+And thus we find that institutions that were the peculiar marks of our nation were revived: - The system of four varnas which could not be wiped away even under the Buddhistic sway, grew in popularity to such an extent that kings and emperors felt it a distinction to be called one who established the system of four varnas. Reaction in favour of this institution grew so strong that our nationality was almost getting identified with it. Witness the definition that tries to draw a line of demarcation between us and foreigners From this it was but a natural step to prohibit our people from visiting shores which were uncongenial-in some cases fiercely hostile-to such peculiar institutions as these and where our people could not be expected to receive the protection that would enable them to keep up the spirit and the letter of our faith. Reckless as the reaction was, perfectly intelligible when viewed at politically ; for do we not frequently meet with patriotic thinkers even now in our land who would stand for laws prohibiting our men from emigrating to nations where they are sure to be subjected to national disabilities and dishonours ? 

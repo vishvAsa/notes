@@ -1,0 +1,6 @@
++++
+title = "16 What is Arya"
+
++++
+
+But it must not be supposed that the epithet Sindhu recommended itself to our patriots only because it was geographically the best fitted; for we find it emphatically stated that the concept expressed by this word was national and not merely geographical. Sindhusthan was not merely a piece of land but it was a nation which was ideally if not always actually a state (rajnah-rashtram). It also clearly followed that the culture that flourished in Sindhusthan and the citizens thereof were Sindhus even as they had been in the Vedic days. Sindhusthan was the ' Best nation of the Aryas' as distinguished from Mlechasthan the land of the foreigners. However it must be clearly pointed out that the definition is not based on any theological hair-splitting or religious fanaticism. The word Arya is expressly stated in the very verses to mean all those who had been incorporated as parts integral in the nation and people that flourished on this our side of the Indus whether Vaidik or Avaidik, Bramhana or Chandal, and owning and claiming to have inherited a common culture, common blood, common country and common polity; while Mlechcha also by the very fact of its being put in opposition to Sindhusthan meant foreigners nationally and racially and not necessarily religiously. 

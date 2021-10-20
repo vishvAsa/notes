@@ -1,0 +1,23 @@
++++
+title = "+Life of Barrister Savarkar"
+
++++
+
+The Life Of 
+SWATANTRA VEER SAVARKAR 
+By 
+Chitragupta 
+
+## Contents
+- Preface 
+- CHILDHOOD AND EARLY YOUTH
+- WORK IN THE COLLEGE DAYS
+- PROPAGANDA IN ENGLAND
+- THE STORM GATHERS
+- THE STORM BURSTS
+- MARSEILLES
+- AT LAST!
+- APPENDIX I
+- APPENDIX II
+- APPENDIX III
+- APPENDIX IV

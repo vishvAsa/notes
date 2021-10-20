@@ -1,0 +1,36 @@
+---
+title: 748 VII
+
+---
+  
+
+
+
+## VII
+
+(*Translated from [Bengali](b6041e7007.pdf)* )
+
+GHAZIPUR,  
+*15th March, 1890*.
+
+DEAR ATUL BABU (Atul Chandra Ghosh.),
+
+I am extremely sorry to hear that you are passing through mental
+afflictions. Please do only what is agreeable to you.
+
+यावज्जननं तावन्मरणं  
+तावज्जननीजठरे शयनम्।  
+इति संसारे स्फुटतरदोषः  
+कथमिह मानव तव सन्तोषः॥
+
+— "While there is birth there is death, and again entering the mother's
+womb. This is the manifest evil of transmigration. How, O man, dost thou
+want satisfaction in such a world!"
+
+Yours affectionately,
+
+VIVEKANANDA.
+
+  
+PS. I am leaving this place tomorrow. Let me see which way destiny
+leads!
