@@ -1,6 +1,7 @@
 +++
 title = "kumArajIva offspring"
 +++
+Source: TW
 
 Perhaps the wildest thing about Kumārajīva's life is that the Chinese thought he was so valuable that they forced him to have sex to produce heirs (he had taken a vow of celibacy) on multiple occassions.
 
