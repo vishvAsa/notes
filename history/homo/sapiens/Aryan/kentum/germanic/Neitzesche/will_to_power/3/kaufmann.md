@@ -1,5 +1,5 @@
 +++
-title = "3 PRINCIPLES OF A NEW EVALUATION"
+title = "Kaufmann"
 +++
 
 THE WILL TO POWER
@@ -8,7 +8,7 @@ BOOK THREE
 
 PRINCIPLES OF A NEW EVALUATION
 
-I. THE WILL TO POWER AS KNOWLEDGE
+## 1 THE WILL TO POWER AS KNOWLEDGE
 
 1. Method of Inquiry
    466 (Jan.-Fall 1888)
@@ -1282,3 +1282,5 @@ The destruction of ideals, the new desert; new arts by means of which we can end
 
 - Presupposition: bravery, patience, no "turning back," no haste to go forward. (N.B. Zarathustra adopts a parodistic attitude toward all former values as a consequence of his abundance.)
 
+## 2 Will to power in nature
+[MISSING TEXT??]

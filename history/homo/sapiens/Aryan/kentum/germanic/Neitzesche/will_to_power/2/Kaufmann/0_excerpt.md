@@ -1,5 +1,5 @@
 +++
-title = "2 CRITIQUE OF HIGHEST VALUES HITHERTO Excerpt"
+title = "0 Excerpts"
 +++
 
 THE WILL TO POWER

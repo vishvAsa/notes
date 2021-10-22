@@ -1,5 +1,5 @@
 +++
-title = "1 EUROPEAN NIHILISM"
+title = "Kaufman"
 +++
 THE WILL TO POWER
 

@@ -1,5 +1,5 @@
 +++
-title = "4 DISCIPLINE AND BREEDING Excerpts"
+title = "0 Excerpts"
 +++
 
 THE WILL TO POWER
