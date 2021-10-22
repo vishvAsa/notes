@@ -325,9 +325,17 @@ kAraNaM = 'clipboard manager'
 [[data]]
 samUhaH = 'OS'
 upasamUhaH = 'Widgets'
-software = 'Parcellite'
+software = 'CopyQ'
 choice = 1
 kAraNaM = 'clipboard manager'
+
+[[data]]
+samUhaH = 'OS'
+upasamUhaH = 'Widgets'
+software = 'Parcellite'
+choice = 0
+kAraNaM = 'clipboard manager'
+kleshaH = 'Plain Text only'
 
 [[data]]
 samUhaH = 'OS'

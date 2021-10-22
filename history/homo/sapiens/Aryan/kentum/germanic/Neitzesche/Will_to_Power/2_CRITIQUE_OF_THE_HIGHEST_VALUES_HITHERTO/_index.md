@@ -1,3 +1,0 @@
-+++
-title = "2 CRITIQUE OF THE HIGHEST VALUES HITHERTO"
-+++

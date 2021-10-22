@@ -1,3 +1,0 @@
-+++
-title = "3 PRINCIPLES OF A NEW EVALUATION"
-+++
