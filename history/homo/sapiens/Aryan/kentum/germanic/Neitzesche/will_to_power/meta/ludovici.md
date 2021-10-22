@@ -104,3 +104,136 @@ ANTHONY M. LUDOVICI.
 
 \[1\] *Naturwissenschaft im Allgemeinen* \(Weimar Edition, i. II, p. 132\).
 
+## Vol 2
+### CONTENTS OF VOL. II.
+
+Third Book. the Principles of a New Valuation.
+
+I. The Will to Power in Science—
+
+*\(a\)* The Method of Investigation     3  
+*\(b\)* The Starting-Point of Epistemology     5  
+*\(c\)* The Belief in the "Ego." Subject   12  
+*\(d\)* Biology of the Instinct of Knowledge. Perspectivity   20  
+*\(e\)* The Origin of Reason and Logic   26  
+*\(f\)* Consciousness   38  
+*\(g\)* Judgment. True—False   43  
+*\(h\)* Against Causality   53  
+*\(i\)* The Thing-in-Itself and Appearance   62  
+*\(k\)* The Metaphysical Need   74  
+*\(l\)* The Biological Value of Knowledge   96  
+*\(m\)* Science   99
+
+II. The Will to Power in Nature—
+
+1. The Mechanical Interpretation of the World 109
+2. The Will to Power as Life—  
+   *\(a\)* The Organic Process 123  
+   *\(b\)* Man 132
+3. Theory of the Will to Power and of Valuations 161
+
+III. The Will to Power As Exemplified in Society and  
+in the Individual
+
+1. Society and the State 183
+2. The Individual 214
+
+IV. The Will to Power in Art 239
+
+Fourth Book. Discipline and Breeding.
+
+I. The Order of Rank—
+
+1. The Doctrine of the Order of Rank 295
+2. The Strong and the Weak 298
+3. The Noble Man 350
+4. The Lords of the Earth 360
+5. The Great Man 366
+6. The Highest Man as Lawgiver of the Future 373
+
+II. Dionysus 388
+
+III. Eternal Recurrence 422
+
+
+
+* * *
+
+
+
+
+
+### TRANSLATOR'S PREFACE.
+
+For the history of the text constituting this volume I would refer readers to my preface to *The Will to Power,* Books I, and II., where they will also find a brief explanation of the actual title of the complete work.
+
+In the two books before us Nietzsche boldly carries his principle still further into the various departments of human life, and does not shrink from showing its application even to science, to art, and to metaphysics.
+
+Throughout Part I. of the Third Book we find him going to great pains to impress the fact upon us that science is as arbitrary as art in its mode of procedure, and that the knowledge of the scientist is but the outcome of his inexorable will to power interpreting facts in the terms of the self-preservative conditions of the particular order of human beings to which he belongs. In Aphorisms 515 and 516, which are typical of almost all the thought expressed in Part I., Nietzsche says distinctly: "The object is not 'to know,' but to schematise,—to impose as much regularity and form upon chaos as our practical needs require."
+
+Unfamiliarity, constant change, and the inability to reckon with possibilities, are sources of great danger: hence, everything *must* be explained, assimilated, and rendered capable of calculation, if Nature is to be mastered and controlled.
+
+Schemes for interpreting earthly phenomena must be devised which, though they do not require to be absolute or irrefutable, must yet favour the maintenance of the kind of men that devises them. Interpretation thus becomes all important, and facts sink down to the rank of raw material which must first be given some shape \(some sense—always anthropocentric\) before they can become serviceable.
+
+Even the development of reason and logic Nietzsche consistently shows to be but a spiritual development of the physiological function of digestion which compels an organism to make things "like" \(to "assimilate"\) before it can absorb them \(Aph. 510\). And seeing that he denies that hunger can be a first motive \(Aphs. 651-656\), and proceeds to show that it is the amœba's will to power which makes it extend its pseudopodia in search of what it can appropriate, and that, once the appropriated matter is enveloped, it is a process of making *similar* which constitutes the process of absorption, reason itself is by inference acknowledged to be merely a form of the same fundamental will.
+
+An interesting and certainly inevitable outcome of Nietzsche's argument appears in Aph. 516, where he declares that even our inability to deny and affirm one and the same thing is not in the least necessary, *but only a sign of inability.*
+
+The whole argument of Part I. tends to draw science ever nearer and nearer to art \(except, of course, in those cases in which science happens to consist merely of an ascertainment of facts\), and to prove that the one like the other is no more than a means of gaining some foothold upon the slippery soil of a world that is for ever in flux.
+
+In the rush and pell-mell of Becoming, some milestones must be fixed for the purposes of human orientation. In the torrent of evolutionary changes pillars must be made to stand, to which man can for a space hold tight and collect his senses. Science, like art, accomplishes this for us, and it is our will to power which "creates the impression of Being out of Becoming" \(Aph. 517\).
+
+According to this standpoint, then, consciousness is also but a weapon in the service of the will to power, and it extends or contracts according to our needs \(Aph. 524\). It might disappear altogether \(Aph. 523\), or, on the other hand, it might increase and make our life more complicated than it already is. But we should guard against making it the Absolute behind Becoming, simply because it happens to be the highest and most recent evolutionary form \(Aph. 709\). If we had done this with each newly acquired characteristic, sight itself, which is a relatively recent development, would also have required to have been deified.
+
+Pantheism, Theism, Unitarianism—in fact all religions in which a *conscious* god is worshipped, are thus aptly classed by Nietzsche as the result of man's desire to elevate that which is but a new and wonderful instrument of his will to power, to the chief place in the imaginary world beyond \(eternal soul\), and to make it even the deity itself \(God Omniscient\).
+
+With the question of Truth we find Nietzsche quite as ready to uphold his thesis as with all other questions. He frankly declares that "the criterion of truth lies in the enhancement of the feeling of power" \(Aph. 534\), and thus stands in diametrical opposition to Spencer, who makes constraint or inability the criterion of truth. \(See *Principles of Psychology,* new edition, chapter ix.... "the unconceivableness of its negation is the ultimate test of the truth of a proposition."\)
+
+However paradoxical Nietzsche's view may seem, we shall find that it is actually substantiated by experience; for the activity of our senses certainly convinces us more or less according to the degree to which it is provoked. Thus, if we walked for long round a completely dark room, and everything yielded, however slightly, to our touch, we should remain quite unconvinced that we were in a room at all, more particularly if—to suppose a still more impossible case—the floor yielded too. What provokes great activity in the bulbs of our fingers, then, likewise generates the sensation of truth.
+
+From this Nietzsche proceeds to argue that what provokes the strongest sentiments in ourselves is also true to us, and, from the standpoint of thought, "that which gives thought the greatest sensation of strength" \(Aph. 533\).
+
+The provocation of intense emotion, and therefore the provocation of that state in which the body is above the normal in power, thus becomes the index to truth; and it is a very remarkable thing that two prominent English thinkers should, at the very end of their careers, have practically admitted this, despite the fact that all their philosophical productions had been based upon a completely different belief. I refer, of course, to Spencer and Buckle, who both upheld the view that in a system of thought the emotional factor is of the highest importance.
+
+It follows from all this, that lies and false doctrines may quite conceivably prove to be even more preservative to species than truth itself, and although this is a view we have already encountered in the opening aphorisms of *Beyond Good and Evil,* in Aph, 538 this volume we find it further elucidated by Nietzsche's useful demonstration of the fact that "the easier way of thinking always triumphs over the more difficult way"; and that logic, inasmuch as it facilitated classification and orderly thought, ultimately "got to act like truths."
+
+Before leaving Part I., with which it would be impossible to deal in full, a word or two ought to be said in regard to Nietzsche's views concerning the belief in "cause and effect." In the *Genealogy of Morals* \(1st Essay, Aph. 13\), we have already read a forecast of our author's more elaborate opinions on this question, and the aphorism in question might be read with advantage in conjunction with the discussion on the subject found in this book \(Aphs. 545-555\).
+
+The whole of Nietzsche's criticism, however, resolves itself into this, that the doctrine of causality begins with an unnecessary duplication of all that happens. Language, and its origin among a people uneducated in thoughts and concepts, is at the root of this scientific superstition, and Nietzsche traces its evolution from the primeval and savage desire always to find a "doer" behind every deed: to find some one who is responsible and who, being known, thus modifies the unfamiliarity of the deed which requires explaining. "The so-called instinct of causality \[of which Kant speaks with so much assurance\] is nothing more than the fear of the unfamiliar."
+
+In Aph. 585 \(A\), we have a very coherent and therefore valuable exposition of much that may still seem obscure in Nietzsche's standpoint, and we might almost regard this aphorism as the key to the epistemology of the Will to Power. When we find the "will to truth" defined merely as "the longing for a stable world," we are in possession of the very leitmotiv of Nietzsche's thought throughout Part I., and most of what follows is clearly but an elaboration of this thought.
+
+In Part II. Nietzsche reveals himself as utterly opposed to all mechanistic and materialistic interpretations of the Universe. He exalts the spirit and repudiates the idea that mere pressure from without—naked environment—is to be held responsible \(and often guilty\!\) for all that materialistic science would lay at its door. Darwin again comes in for a good deal of sharp criticism; and, to those who are familiar with the nature of Nietzsche's disagreement with this naturalist, such aphorisms as Nos. 643, 647, 649, 651, 684, 685, will be of special interest. There is one question of great moment, which all Nietzsche's perfectly sincere and profoundly serious deprecation of the Darwinian standpoint ought to bring home to all Englishmen who have perhaps too eagerly endorsed the conclusions of their own British school of organic evolution, and that is, to what extent were Malthus, and afterwards his disciple Darwin, perhaps influenced in their analysis of nature by preconceived notions drawn from the state of high pressure which prevailed in the thickly-populated and industrial country in which they both lived?
+
+It is difficult to defend Darwin from the fundamental attack which Nietzsche directs at the very root of his teaching, and which turns upon the question of the motive of all Life's struggle. To assume that the motive is always a "struggle for existence" presupposes the constant presence of two conditions—want and over-population,—an assumption which is absolutely non-proven, and it likewise lends a peculiarly ignoble and cowardly colouring to the whole of organic life, which not only remains unsubstantiated in fact, but which the struggle for power completely escapes. In Part III., which, throughout, is pretty plain sailing, Aphorism 786 contains perhaps the most important statements. Here morality is shown to be merely an instrument, but this time it is the instrument of the gregarious will to power. In the last paragraph of this aphorism Nietzsche shows himself quite antagonistic to Determinism, because of its intimate relation to, and its origin in, a mechanistic interpretation of the Universe. But we should always remember that, inasmuch as Nietzsche would distribute beliefs, just as others distribute bounties—that is to say, according to the needs of those whom he has in view, we must never take for granted that a belief which he deprecates for one class of man ought necessarily, according to him, to be denied another class.
+
+Hard as it undoubtedly is to bear this in mind, we should remember that his appeal is almost without interruption made to higher men, and that doctrines and creeds which he condemns for them he would necessarily exalt in the case of people who were differently situated and otherwise constituted. Christianity is a case in point \(see *Will to Power,* vol. i. Aph. 132\).
+
+We now come to Part IV., which is possibly the most important part of all, seeing that it treats of those questions which may be regarded as Nietzsche's most constant concern from the time when he wrote his first book.
+
+The world as we now see and know it, with all that it contains which is beautiful, indifferent, or ugly, from a human standpoint, is, according to Nietzsche, the creation of our own valuing minds. Perhaps only a few people have had a hand in shaping this world of values. Maybe their number could be counted on the fingers of two hands; but still, what Nietzsche insists upon is, that it is human in its origin. Our whole outlook, everything that gives us joy or pain, must at one time or other have been valued for us, and in persisting in these valuations we, as the acclimatised herd, are indebted to our artists, to our higher men, to all those in history, who at some time or other have dared to stand up and to declare emphatically that *this* was ugly and that *that* was beautiful, and to fight, and if necessary to die, for their opinion.
+
+Religion, morality, and philosophy, while they all aim at so-called universal Truth, tend to depreciate the value of life in the eyes of exceptional men. Though they establish the "beautiful" for the general stock, and in that way enhance the value of life for that stock, they contradict higher men's values, and, by so doing, destroy their innocent faith in the world. For the problem here is not, what value is true?—but, what value is most conducive to the highest form of human life on earth?
+
+Nietzsche would fain throw all the burden of valuing upon the Dionysian artist him who speaks about this world out of the love and plenitude of power that is in his own breast, him who, from the very health that is within him, cannot look out upon life without transfiguring it, hallowing it, blessing it, and making it appear better, bigger, and more beautiful. And, in this view, Nietzsche is quite consistent; for, if we must accept his conclusion that our values are determined for us by our higher men, then it becomes of the highest importance that these valuers should be so constituted that their values may be a boon and not a bane to the rest of humanity.
+
+Alas\! only too often, and especially in the nineteenth century, have men who lacked this Dionysian spirit stood up and valued the world; and it is against these that Nietzsche protests. It is the bad air they have spread which he would fain dispel.
+
+An to what art means to the artist himself, apart from its actual effect on the world, Nietzsche would say that it is a manner of discharging his will to power. The artist tries to stamp his opinion of what is desirable, and of what is beautiful or ugly, upon his contemporaries and the future; it is in this valuing that his impulse to prevail finds its highest expression. Hence the instinctive economy of artists in sex matters—that is to say, in precisely that quarter whither other men go when their impulse to prevail urges them to action. Nietzsche did not of course deny the sensual nature of artists \(Aph. 815\); all he wished to make plain was this, that an artist who was not moderate, *in eroticis,* while engaged upon his task, was open to the strongest suspicion.
+
+In the Fourth Book Nietzsche is really at his very best. Here, while discussing questions such as "The Order of Rank," he is so thoroughly in his exclusive sphere, that practically every line, even if it were isolated and taken bodily from the context, would bear the unmistakable character of its author. The thought expressed in Aphorism 871 reveals a standpoint as new as it is necessary. So used have we become to the practice of writing and legislating for a mass, that we have forgotten the rule that prevails even in our own navy—that the speed of a fleet is measured by its slowest vessel.
+
+On the same principle, seeing that all our philosophies and moralities have hitherto been directed at a mass and at a mob, we find that their elevation must of necessity be decided by the lowest of mankind. Thus all passions are banned, because base men do not know how to enlist them in their service. Men who are masters of themselves and of others, men who understand the management and privilege of passion, become the most despised of creatures in such systems of thought, because they are confounded with the vicious and licentious; and the speed of mankind's elevation thus gets to be determined by humanity's slowest vessels.
+
+Aphorisms 881, 882, 886 fully elucidate the above considerations, while in 912, 916, 943, and 951 we have plans of a constructive teaching which the remainder of Part I. elaborates.
+
+And now, following Nietzsche carefully through Part II. \(Dionysus\), what is the inevitable conclusion of all we have read? This analysis of the world's collective values and their ascription to a certain "will to power" may now seem to many but an exhaustive attempt at a new system of nomenclature, and little else. As a matter or fact it is very much more than this. By mean? of it Nietzsche wishes to show mankind how much has lain, and how much still lies, in man's power By laying his finger on everything and declaring to man that it was human will that created it. Nietzsche wished to give man the courage of this will, and a clean conscience in exercising it. For it was precisely this very will to power which had been most hated and most maligned by everybody up to Nietzsche's time.
+
+
+
+Long enough, prompted by the fear of attributing any one of his happiest thoughts to this hated fundamental will, had man ascribed all his valuations and all his most sublime inspirations to something outside himself,—whether this something were a God, a principle, or the concept Truth. But Nietzsche's desire was to show man how human, all too human, have been the values that have appeared heretofore; he wished to prove, that to the rare sculptors of values, the world, despite its past, is still an open field of yielding clay, and in pointing to what the will to power has done until now, Nietzsche suggests to these coming sculptors what might still be done, provided they fear nothing, and have that innocence and that profound faith in the fundamental will which others hitherto have had in God, Natural Laws, Truth, and other euphemistic fictions.
+
+The doctrine of Eternal Recurrence, to which Nietzsche attached so much importance that it may be regarded almost as the inspiration which led to his great work, *Thus Spake Zarathustra,* ought to be understood in the light of a purely disciplinary and chastening creed. In one of his posthumous works we find Nietzsche saying: "The question which thou shalt have to answer before every deed that thou doest;—is this such a deed as I am prepared to perform an incalculable number of times,—is the best ballast." Thus it is obvious that, feeling the need of something in his teaching which would replace the metaphysics of former beliefs, he applied the doctrine of Eternal Recurrence to this end. Seeing, however, that even among Nietzscheans themselves there is considerable doubt concerning the actual value of the doctrine as a ruling belief, it does not seem necessary to enter here into the scientific justification which he claims for it. Suffice it to say that, as knowledge stands at present, the statement that the world will recur eternally in small things as in great, is still a somewhat daring conjecture—a conjecture, however, which would have been entirely warrantable if its disciplinary value had been commensurate with its daring.
+
+ANTHONY M. LUDOVICI.
+
