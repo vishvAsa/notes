@@ -111,18 +111,18 @@ Third Book. the Principles of a New Valuation.
 
 I. The Will to Power in Science—
 
-*\(a\)* The Method of Investigation     3  
-*\(b\)* The Starting-Point of Epistemology     5  
-*\(c\)* The Belief in the "Ego." Subject   12  
-*\(d\)* Biology of the Instinct of Knowledge. Perspectivity   20  
-*\(e\)* The Origin of Reason and Logic   26  
-*\(f\)* Consciousness   38  
-*\(g\)* Judgment. True—False   43  
-*\(h\)* Against Causality   53  
-*\(i\)* The Thing-in-Itself and Appearance   62  
-*\(k\)* The Metaphysical Need   74  
-*\(l\)* The Biological Value of Knowledge   96  
-*\(m\)* Science   99
+*\(a\)* The Method of Investigation 3  
+*\(b\)* The Starting-Point of Epistemology 5  
+*\(c\)* The Belief in the "Ego." Subject 12  
+*\(d\)* Biology of the Instinct of Knowledge. Perspectivity 20  
+*\(e\)* The Origin of Reason and Logic 26  
+*\(f\)* Consciousness 38  
+*\(g\)* Judgment. True—False 43  
+*\(h\)* Against Causality 53  
+*\(i\)* The Thing-in-Itself and Appearance 62  
+*\(k\)* The Metaphysical Need 74  
+*\(l\)* The Biological Value of Knowledge 96  
+*\(m\)* Science 99
 
 II. The Will to Power in Nature—
 

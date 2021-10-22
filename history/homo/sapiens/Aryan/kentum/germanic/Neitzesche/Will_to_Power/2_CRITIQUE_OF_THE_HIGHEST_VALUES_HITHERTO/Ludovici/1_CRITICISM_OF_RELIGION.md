@@ -3,7 +3,7 @@ title = "1 CRITICISM OF RELIGION"
 
 +++
 
-All the beauty and sublimity with which we have invested real and imagined things, I will show to be the property and product of man, and this should be his most beautiful apology. Man as a poet, as a thinker, as a god, as love, as power. Oh, the regal liberality with which he has lavished gifts upon things in order *to impoverish* himself and make himself feel wretched\! Hitherto, this has been his greatest disinterestedness, that he admired and worshipped, and knew how to conceal from himself that *he* it was who had created what he admired.
+All the beauty and sublimity with which we have invested real and imagined things, I will show to be the property and product of man, and this should be his most beautiful apology. Man as a poet, as a thinker, as a god, as love, as power. Oh, the regal liberality with which he has lavished gifts upon things in order *to impoverish* himself and make himself feel wretched\!+++(5)+++ Hitherto, this has been his greatest disinterestedness, that he admired and worshipped, and knew how to conceal from himself that *he* it was who had created what he admired.
 
 
 

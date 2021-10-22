@@ -3,7 +3,7 @@ title = "1 CRITIQUE OF RELIGION"
 
 +++
 
-All the beauty and sublimity we have bestowed upon real and imaginary things I will reclaim as the property and product of man: as his fairest apology. Man as poet, as thinker, as God, as love, as power: with what regal liberality he has lavished gifts upon things so as to impoverish himself and make himself feel wretched! His most unselfish act hitherto has been to admire and worship and to know how to conceal from himself that it was he who created what he admired.?
+All the beauty and sublimity we have bestowed upon real and imaginary things I will reclaim as the property and product of man: as his fairest apology. Man as poet, as thinker, as God, as love, as power: with what regal liberality he has lavished gifts upon things so as to impoverish himself and make himself feel wretched! His most unselfish act hitherto has been to admire and worship and to know how to conceal from himself that it was he who created what he admired.+++(4)+++
 
 
 
