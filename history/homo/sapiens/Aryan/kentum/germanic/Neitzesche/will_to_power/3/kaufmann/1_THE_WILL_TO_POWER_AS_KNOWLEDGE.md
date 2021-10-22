@@ -1,14 +1,7 @@
 +++
-title = "Kaufmann"
+title = "1 THE WILL TO POWER AS KNOWLEDGE"
+
 +++
-
-THE WILL TO POWER
-
-BOOK THREE
-
-PRINCIPLES OF A NEW EVALUATION
-
-## 1 THE WILL TO POWER AS KNOWLEDGE
 
 1. Method of Inquiry
    466 (Jan.-Fall 1888)
@@ -1281,6 +1274,3 @@ The entire idealism of mankind hitherto is on the point of changing suddenly int
 The destruction of ideals, the new desert; new arts by means of which we can endure it, we amphibians.
 
 - Presupposition: bravery, patience, no "turning back," no haste to go forward. (N.B. Zarathustra adopts a parodistic attitude toward all former values as a consequence of his abundance.)
-
-## 2 Will to power in nature
-[MISSING TEXT??]

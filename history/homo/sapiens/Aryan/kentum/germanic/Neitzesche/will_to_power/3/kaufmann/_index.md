@@ -1,0 +1,10 @@
++++
+title = "+Kaufmann"
+
++++
+
+THE WILL TO POWER
+
+BOOK THREE
+
+PRINCIPLES OF A NEW EVALUATION
