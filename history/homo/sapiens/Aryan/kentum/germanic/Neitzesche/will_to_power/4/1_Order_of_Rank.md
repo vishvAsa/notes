@@ -1,10 +1,7 @@
 +++
-
-title = "4 "
+title = "1 Order of Rank"
 
 +++
-
-
 
 ## 1. The Doctrine of Order of Rank
 
@@ -48,9 +45,10 @@ A doctrine is needed powerful enough to work as a breeding agent: strengthening 
 
 Cf. section 1053 below and 462 above.
 
-BOOK FOUR: Discipline and Breeding
 
-459 The annihilation of the decaying races. Decay of Europe. The annihilation of slavish evaluations. Dominion over the earth as a means of producing a higher type.-- The annihilation of the tartuffery called "morality" (Christianity as a hysterical kind of honesty in this: Augustine, Bunyan).- The annihilation of suf frage universel; i.e., the system through which the lowest natures prescribe themselves as laws for the higher. The annihilation of mediocrity and its acceptance. (The onesided, individuals peoples; to strive for fullness of nature through the pairing of opposites: race mixture to this end).— The new courage-10 a priori truths (such truths were sought by those accustomed to faith!), but a free subordination to a ruling idea that has its time: e.g., time as a property of space, etc.
+(p459)
+
+ The annihilation of the decaying races. Decay of Europe. The annihilation of slavish evaluations. Dominion over the earth as a means of producing a higher type.-- The annihilation of the tartuffery called "morality" (Christianity as a hysterical kind of honesty in this: Augustine, Bunyan).- The annihilation of suf frage universel; i.e., the system through which the lowest natures prescribe themselves as laws for the higher. The annihilation of mediocrity and its acceptance. (The onesided, individuals peoples; to strive for fullness of nature through the pairing of opposites: race mixture to this end).— The new courage-10 a priori truths (such truths were sought by those accustomed to faith!), but a free subordination to a ruling idea that has its time: e.g., time as a property of space, etc.
 
 2. The Strong and the Weak
 
@@ -76,9 +74,10 @@ Finally: woman! One-half of mankind is weak, typically sick, changeable, inconst
 
 Finally: increasing civilization, which necessarily brings with it an increase in the morbid elements, in the neurotic-psychiatric and criminal. An intermediary species arises: the artist, restrained from crime by weakness of will and social timidity, and not yet ripe for the madhouse, but reaching out inquisitively toward both spheres with his antennae: this specific culture plant, the modern artist, painter, musician, above all novelist, who describes his mode of life with the very inappropriate word "naturalism"- Lunatics, criminals, and "naturalists" are increasing: sign of a growing cul
 
-BOOK FOUR: Discipline and Breeding
 
-461
+(p461)
+
+
 
 ture rushing on precipitately-.e., the refuse, the waste, gain im portance the decline keeps pace.
 
@@ -112,9 +111,10 @@ PVNE TII!.
 
 . In the MS the following words are written in the margin before the next paragraph: "The crafts, trade, agriculture, science, a large part of the arts-all this can rest only on a broad base, on a strongly and healthily con solidated mediocrity." These notes were used in The Antichrist, section 57 (Portable Nietzsche, p. 646).
 
-BOOK FOUR: Discipline and Breeding
 
-463
+(p463)
+
+
 
 ruin one another; periods of profound exhaustion and torpor supervene: all great ages are paid for--- The strong are subsequently weaker, more devoid of will, more absurd than the weak average.
 
@@ -188,9 +188,10 @@ Here the concept of the "equal value of men before God" is extraordinarily harmf
 
 Confusion went so far that one branded the very virtuosi of life (whose autonomy offered the sharpest antithesis to the vicious and unbridled) with the most opprobrious names. Even now one believes one must disapprove of a Cesare Borgia; that is simply laughable. The church has excommunicated German emperors on account of their vices: as if a monk or priest had any right to join in a discussion about what a Frederick II may demand of him
 
-BOOK FOUR: Discipline and Breeding
 
-467
+(p467)
+
+
 
 self. A Don Juan is sent to hell: that is very naive. Has it been noticed that in heaven all interesting men are missing? Just a hint to the girls as to where they can best find their salvation. If one reflects with some consistency, and moreover with a deepened insight into what a "great man" is, no doubt remains that the church sends all "great men" to hell-it fights against all "great ness of man."
 
@@ -232,9 +233,10 @@ But the "higher nature" of the great man lies in being dif ferent, in incommunic
 
 The misunderstanding attacked here is widespread among those who have attempted popular expositions of Nietzsche. Again and again, the view
 
-BOOK FOUR: Discipline and Breeding
 
-469
+(p469)
+
+
 
 877 (Spring-Fall 1887; rev. Spring-Fall 1888)
 
@@ -270,9 +272,10 @@ Order of rank:- What is mediocre in the typical man? That he does not understand
 
 Most men represent pieces and fragments of man: one has to add them up for a complete man to appear. Whole ages, whole peoples are in this sense somewhat fragmentary; it is perhaps part of the economy of human evolution that man should evolve piece by piece. But that should not make one forget for a moment
 
-BOOK FOUR: Discipline and Breeding
 
-471 that the real issue is the production of the synthetic man; that lower men, the tremendous majority, are merely preludes and re hearsals out of whose medley the whole man appears here and there, the milestone man who indicates how far humanity has advanced so far. It does not advance in a single straight line; often a type once achieved is lost again with all the tensions of the past three hundred years, for example, we have not yet reattained the man of the Renaissance, and the man of the Renais sance, in turn, is inferior to the man of antiquity).7.
+(p471)
+
+ that the real issue is the production of the synthetic man; that lower men, the tremendous majority, are merely preludes and re hearsals out of whose medley the whole man appears here and there, the milestone man who indicates how far humanity has advanced so far. It does not advance in a single straight line; often a type once achieved is lost again with all the tensions of the past three hundred years, for example, we have not yet reattained the man of the Renaissance, and the man of the Renais sance, in turn, is inferior to the man of antiquity).7.
 
 882 (Nov. 1887-March 1888)
 
@@ -314,9 +317,10 @@ First question concerning order of rank: how solitary or how gregarious one is. 
 
 Consequence: one should not evaluate the solitary type from
 
-BOOK FOUR: Discipline and Breeding
 
-473 the viewpoint of the gregarious, nor the gregarious from the view point of the solitary.
+(p473)
+
+ the viewpoint of the gregarious, nor the gregarious from the view point of the solitary.
 
 Viewed from a height, both are necessary; their antagonism is also necessary-and nothing should be banished more thoroughly than the "desirability" that some third thing might evolve out of the two ("virtue" as hermaphroditism). That is as little "desirable" as the approximation and reconciliation of the sexes. To evolve further that which is typical, to make the gulf wider and wider
 
@@ -350,9 +354,10 @@ Supposing that these states and affects contain painful in
 
 Cf. Twilight, "Skirmishes," section 29 (Portable Nietzsche, p. 532), where these ideas receive the definitive formulation,
 
-BOOK FOUR: Discipline and Breeding
 
-475
+(p475)
+
+
 
 gredients, then a means must be found to overcome these painful ingredients through a value-idea designed to make displeasure seem valuable and therefore pleasurable in a higher sense. Re duced to a formula: "How can something disagreeable become agreeable?" For example, when our obedience, our submission to the law, attain honor through the strength, power, self-over coming they entail. As do our consideration for the community, the neighbor, the fatherland, our "humanization," our "altruism," "heroism."
 
@@ -452,9 +457,10 @@ I point to something new: certainly for such a democratic type there exists the 
 
 "For some discussion see Kaufmann's Nietzsche, Chapter 12, begin ning of section IV.
 
-BOOK FOUR: Discipline and Breeding
 
-479
+(p479)
+
+
 
 for it only in the depths. There exists also another type of barbarian, who comes from the heights: a species of conquering and ruling natures in search of material to mold. Prometheus was this kind of barbarian.
 
@@ -506,9 +512,10 @@ wwwwww
 
 ** Largeness of heart.
 
-BOOK FOUR: Discipline and Breeding
 
-481 by chance presupposes iron men who have never yet lived. The immediate task is to make the personal ideal prevail and become real!
+(p481)
+
+ by chance presupposes iron men who have never yet lived. The immediate task is to make the personal ideal prevail and become real!
 
 He who has grasped the nature of man, the origin of man's highest, shudders at man and flees from all action: consequence of inherited valuations!!
 
@@ -564,9 +571,10 @@ One needs such a school from every point of view: that
 
 " Herrnhuterischen: "Herrnhut, a town ... in ... Saxony . . . is chiefly known as the principal seat of the Moravian or Bohemian brother hood, the members of which are called Herrnhuter" (ibid., article on "Herra hut").
 
-BOOK FOUR: Discipline and Breeding
 
-483 applies to the most physical as well as to the most spiritual matters; it would be fatal to desire to draw a distinction here! The same discipline makes both the good soldier and the good scholar; and looked at more closely, there is no good scholar who does not have the instincts of a good soldier in his makeup. To be able to command and also proudly to obey; to stand in the ranks, but also capable at any time of leading; to prefer danger to comfort; not to weigh the permitted and the forbidden on a shopkeeper's scales; to be a foe more of the petty, sly, parasitic, than of the evil.- What does one learn in a hard school? Obeying and com manding
+(p483)
+
+ applies to the most physical as well as to the most spiritual matters; it would be fatal to desire to draw a distinction here! The same discipline makes both the good soldier and the good scholar; and looked at more closely, there is no good scholar who does not have the instincts of a good soldier in his makeup. To be able to command and also proudly to obey; to stand in the ranks, but also capable at any time of leading; to prefer danger to comfort; not to weigh the permitted and the forbidden on a shopkeeper's scales; to be a foe more of the petty, sly, parasitic, than of the evil.- What does one learn in a hard school? Obeying and com manding
 
 913 (1885-1886)
 
@@ -610,9 +618,10 @@ with
 
 1 Cf. Zarathustra I, “On Free Death," and Twilight, "Skirmishes." section 36 (Portable Nietzsche, pp. 183 f and 536 /). The idea of the non
 
-BOOK FOUR: Discipline and Breeding
 
-485
+(p485)
+
+
 
 917 (Nov. 1887-March 1888)
 
@@ -654,9 +663,10 @@ This is something different from the blind drive to love oneself: nothing is mor
 
 "I want this or that"; "I wish that this or that were thus"; "I
 
-BOOK FOUR: Discipline and Breeding
 
-487 know that this or that is thus"--the degrees of strength: the man of will, the man of desire, the man of faith.
+(p487)
+
+ know that this or that is thus"--the degrees of strength: the man of will, the man of desire, the man of faith.
 
 921 (Nov. 1887-March 1888)
 
@@ -708,9 +718,10 @@ The words I have placed in brackets were supplied by the original German editors
 
 37 English folly. * Machiavelli's book, The Prince.
 
-BOOK FOUR: Discipline and Breeding
 
-489 him from vindicating his honor. And in all decent actions, are we not deliberately indifferent to the prospect of what may happen to us? To avoid an action that might have harmful consequences for us--that would mean a ban on decent actions in general.
+(p489)
+
+ him from vindicating his honor. And in all decent actions, are we not deliberately indifferent to the prospect of what may happen to us? To avoid an action that might have harmful consequences for us--that would mean a ban on decent actions in general.
 
 Nonetheless, the rule is valuable because it betrays a type of man: it is the instinct of the herd that finds its formula in this Tule---ope is equal, one takes oneself for equal: as I to you, thus you to me. Here there is a real belief in an equivalence of actions that in all actual circumstances simply does not exist. Not every action can be returned: between actual "individuals" there are no equal actions, consequently no "requital" - When I do something, I am very far from thinking that anyone else can do much the same: it belongs to me- One cannot pay me back, it will always be another" action that is perpetrated against me.
 
@@ -752,9 +763,10 @@ of pleasured by
 
 "To give one's life for a cause"-a great effect. But there are many things for which one would give one's life: the affects one and all desire to be gratified. Whether it be compassion or anger or revenge-that one stakes one's life on it does not make any value difference. How many have sacrified their lives for pretty girls-and, worse, even their health! If one has the temperament, one instinctively chooses what is dangerous; e.g., adventures in speculation if one is a philosopher; or in immorality if one is
 
-BOOK FOUR: Discipline and Breeding
 
-491
+(p491)
+
+
 
 virtuous. One kind of man will risk nothing, another wants risks. Are we others despisers of life? On the contrary, we seek life raised to a higher power, life lived in danger - 24 But that, to repeat it, does not mean we want to be more virtuous than others. Pascal, e.g., wanted to risk nothing25 and remained a Christian: perhaps that was virtuous. One always makes sacrifices.
 
@@ -800,9 +812,10 @@ Nothing but questions of strength: how far to prevail against the conditions tha
 
 ** Bildung. "Education" in the preceding line: Erziehung.
 
-BOOK FOUR: Discipline and Breeding
 
-493
+(p493)
+
+
 
 questionable sides?-how far to oppose suffering, self-contempt, pity, sickness, vice, with the query as to whether one cannot become master of them? (What does not destroy us makes us stronger20.-)..finally: how far to acknowledge in one's mind the rule, the commonplace, the petty, good, upright, the average nature, without letting oneself be vulgarized by them?- Hardest test of character: not to let oneself be ruined through seduction by the good. The good as luxury, as subtlety, 30 as vice.
 
@@ -848,9 +861,10 @@ There is a noble and dangerous carelessness that permits a profound inference an
 
 * "Tribe of freedmen, tribes of slaves torn from our hands, tributary people, new people, license has been granted to you to be free, but not to us to be noble; for us everything is a right, for you everything is a matter of grace; we are not part of your community; we are entire by ourselves."
 
-BOOK FOUR: Discipline and Breeding
 
-495
+(p495)
+
+
 
 only hospitality-heart and home open to anyone who cares to enter, whether beggar or cripple or king. This is genuine geniality: whoever has that, has a hundred "friends" but in all probability not a single friend.
 
@@ -908,9 +922,10 @@ Slowness of gesture, and of glance. There are not too many valuable things: and 
 
 To comprehend is to equalize.
 
-BOOK FOUR: Discipline and Breeding
 
-497
+(p497)
+
+
 
 be hoped for (unfortunately not counted on) only inter pares.40
 
@@ -968,9 +983,10 @@ To desire no praise: one does what profits one, or what gives one pleasure, or w
 
 " Gemütlichkeit.
 
-BOOK FOUR: Discipline and Breeding
 
-499
+(p499)
+
+
 
 947 (Jun.-Fall 1888)
 
@@ -1054,9 +1070,10 @@ Whoever has thought profoundly about where and how the plant man has hitherto gr
 
 * According to 1911, p. 513, an illegible word has been omitted at this point-and this note was evidently dictated (it is in another hand) and then revised in Nietzsche's hand.
 
-BOOK FOUR: Discipline and Breeding
 
-503
+(p503)
+
+
 
 is as obvious as is the protracted and not easily expressible etcetera of this idea.
 
@@ -1174,9 +1191,10 @@ The opposite is bad enough, but better nonetheless: to suffer from one's environ
 
 * See the footnote on section 962 above. This section should be com pared with section 918 above.
 
-BOOK FOUR: Discipline and Breeding
 
-509
+(p509)
+
+
 
 of tears, of sublime consolation-until one is finally strong enough to say, "what do I have to do with you?" and to go one's own way.
 
@@ -1268,9 +1286,10 @@ Assuming one thinks of a philosopher as a great educator, powerful enough to dra
 
 ** Not in Nietzsche's hand; dictated.
 
-BOOK FOUR: Discipline and Breeding
 
-513
+(p513)
+
+
 
 with the whips of scorn; others, who are slugglish, irresolute, cowardly, vain, perhaps only with exaggerated praise. Such an educator is beyond good and evil; but no one must know it.
 
@@ -1344,9 +1363,10 @@ GALIANI,
 
 * Philosophers are not made to love one another. Eagles do not fly in company. One must leave that to partridges and starlings ... Soaring on high and having talons, that is the lot of great geniuses.
 
-BOOK FOUR: Discipline and Breeding
 
-517
+(p517)
+
+
 
 990 (1885) I forgot to say that such philosophers are cheerful and that they like to sit in the abyss below a perfectly clear sky: they need different means from other men for enduring life; for they suffer differently (namely, as much from the profundity of their con tempt for man as from their love for man).- The most suffering animal on earth invented for itself laughter.
 
@@ -1376,9 +1396,10 @@ How do men attain great strength and a great task? All the virtues and efficienc
 
 I teach; that there are higher and lower men, and that a single individual can under certain circumstances justify the exist ence of whole millennia.--that is, a full, rich, great, whole human being in relation to countless incomplete fragmentary men.
 
-BOOK FOUR: Discipline and Breeding
 
-519
+(p519)
+
+
 
 998 (1884) The highest men live beyond the rulers, freed from all bonds; and in the rulers they have their instruments.
 
@@ -1395,698 +1416,3 @@ Fundamental thought: we must consider the future as decisive for all our evaluat
 1002 (Spring-Fall 1887) Come l'uom s'eterna_05
 
 INP. XY 85 “How man makes himself eternal.-Dante.
-
-II. DIONYSUS
-
-1003 (Jan-Fall 1888)
-
-To him that has turned out well, who does my heart good, carved from wood that is hard, gentle, and fragrant-in whom even the nose takes pleasure this book is dedicated.
-
-He enjoys the taste of what is wholesome for him;
-
-his pleasure in anything ceases when the bounds of the whole some are crossed;
-
-he divines the remedies for partial injuries; he has illnesses as great stimulants of his life;
-
-he knows how to exploit ill chances;
-
-he grows stronger through the accidents that threaten to destroy him;
-
-he instinctively gathers from all that he sees, hears, experi ences, what advances his main concern-he follows a principle of selection-he allows much to fall through;
-
-he reacts with the slowness bred by a long caution and a deliberate pride—he tests a stimulus for its origin and its intentions, he does not submit;
-
-he is always in his own company, whether he deals with books, men, or landscapes;
-
-he honors by choosing, by admitting, by trusting.
-
-1004 (Nov. 1887-March 1888)
-
-To attain a height and bird's eye view, so one grasps how everything actually happens as it ought to happen; how every kind of "imperfection" and the suffering to which it gives rise are part of the highest desirability.
-
-1005 (Spring-Fall 1887)
-
-Around 1876 I was terrified to see all I had desired hitherto compromised, as I grasped which way Wagner was going now; and I was bound very closely to him by all the bonds of a profound identity of needs, by gratitude, by his irreplaceability and the absolute privation I saw before me.
-
-At the same time I seemed to myself irrevocably incarcerated in my philology and teaching--in an accident and makeshift of
-
-BOOK POUR: Discipline and Breeding
-
-521 my life: I no longer knew how to extricate myself, and was weary,
-
-spent, used up.
-
-At the same time I grasped that my instinct went into the oppo site direction from Schopenhauer's: toward a justification of life, even at its most terrible, ambiguous, and mendacious; for this I had the formula "Dionysian."
-
-Against the theory that an "in-itself of things" must neces sarily be good, blessed, true, and one, Schopenhauer's interpre tation of the "in-itself” as will was an essential step; but he did not understand how to deify this will: he remained entangled in the moral-Christian ideal. Schopenhauer was still so much subject to the dominion of Christian values that, as soon as the thing-in itself was no longer "God" for him, he had to see it as bad, stupid, and absolutely reprehensible. He failed to grasp that there can be an infinite variety of ways of being different, even of being
-
-god, 86
-
-1006 (Spring-Fall 1887) Moral values have hitherto been the highest values: would anybody call this in question?- If we remove these values from this position, we alter all values: the principle of their order of rank hitherto is thus overthrown.
-
-1007 (Spring-Fall 1887) To revalue values-what would that mean? All the spon taneous--new, future, stronger--movements must be there; but they still appear under false names and valuations and have not yet become conscious of themselves.
-
-A courageous becoming-conscious and affirmation of what has been achieved a liberation from the slovenly routine of old valuations that dishonor us in the best and strongest things we have achieved.
-
-1008 (Spring-Fall 1887) Every doctrine for which all accumulated energies and ex
-
-
-
-\# The words that immediately follow in the MS are omitted in all edi tions: "A curse on that bigoted freedom: 'good and evil.'"
-
-
-
-(p522)
-
-
-
-
-
-plosives are not yet ready at hand, is superfluous. A revaluation of values is achieved only when there is a tension of new needs, of men with new needs, who suffer from the old values without attaining this consciousness.
-
-1009 (Spring-Fall 1887)
-
-Points of view for my values: whether out of abundance or out of want787_whether one looks on or lends a hand or looks away and walks off768-whether out of stored-up energy, "spon taneously," or merely stimulated reactively, and provoked? whether simple, out of a paucity of elements, or out of overwhelming mastery over many, so they are pressed into service when they are needed? ---whether one is a problem or a solution?—whether perfect with a small task or imperfect with an extraordinary goal? whether one is genuine or merely an actor, whether one is genuine as an actor or merely a copy of an actor, whether one is a "representative" or that which is represented?68 whether a "personality" or merely a rendezvous of personalities—whether sick from sickness or excessive health? whether one goes on ahead as a shepherd or as an "exception" (third species: as a fugitive) ?70 whether one needs dignity, or to be a "buffoon"? whether one seeks resistance or avoids it? whether one is imperfect through being "too carly" or "too late"? whether by nature one says Yes or No or is a peacock's tail of many colors? whether one is sufficiently proud not to be ashamed even of one's vanity? whether one is still capable of a bite of conscience? ( this species is becoming rare; formerly the conscience had too much to chew: now it seems to have lost its teeth) ?71 whether one is still capable of a "duty”? (there are those who would lose their whole joy in living if their duty were taken from them, especially the womanly, the bora subjects.)
-
-Cf. The Gay Science, section 370 (published in 1887): "... Regard. ing all aesthetic values, I now avail myself of this main distinction: I ask in every single case, 'Is it hunger or overabundance that has here become creative?'..." Cf. also section 59 above.
-
-*Cf. Twilight, in Portable Nietzsche, "Maxims and Arrows," aphorism 40 (p. 472).
-
-*Cf. ibid., aphorism 38 (page 472).
-
-Cf. ibid., aphorism 37 (page 472). "Cf. ibid., aphorism 29 (page 470).
-
-(p523)
-
-1010 (1883-1888) Suppose our usual conception of the world were a mis understanding: could a form of perfection be conceived within which even such misunderstandings would receive their sanction?
-
-Conception of a new perfection: that which does not corre spond to our logic, our "beautiful,” our "good," our "true," could be perfect in a higher sense than even our ideal.
-
-1011 (Manuscript source uncertain)
-
-Our great renunciation: not to deify the unknown; we are just beginning to know little. False and wasted endeavors.
-
-Our "new world”: we have to realize to what degree we are the creators of our value feelings and thus capable of projecting "meaning" into history,
-
-This faith in truth attains its ultimate conclusion in us you know what it is: that if there is anything that is to be worshipped it is appearance that must be worshipped, that the lie-and not the truth is divine!
-
-1012 (1883-1888)
-
-Whoever pushes rationality forward also restores new strength to the opposite power, mysticism and folly of all kinds.
-
-To distinguish in every movement (1) that it is in part exhaustion from a preceding movement (satiety from it, the malice of weakness toward it, sickness); (2) that it is in part newly awakened, long slumbering, accumulated energy-joyous, ex uberant, violent: health,
-
-1013 (1885-1886)
-
-Health and sickliness: one should be careful! The standard remains the efflorescence of the body, the agility, courage, and cheerfulness of the spirit---but also, of course, how much of the sickly it can take and overcome-how much it can make healthy. That of which more delicate men would perish belongs to the stimulants of great health,
-
-
-
-(p524)
-
-
-
-
-
-1014 (1885) It is only a question of strength; to have all the morbid traits of the century, but to balance them through a superabundant, recuperative strength. The strong man.
-
-1015 (Spring-Fall 1887; rev. Spring-Fall 1888)
-
-On the strength of the nineteenth century. We are more medieval than the eighteenth century; not merely more curious about or easily stimulated by the strange and rare. We have revolted against the Revolution. We have emancipated ourselves from fear of reason, the ghost that haunted the eighteenth century: we again dare to be absurd, childish, lyrical-in one word: "we are musicians." We are as little afraid of the ridiculous as of the absurd. The devil finds that the tolerance of God works in his favor: even more, he is interesting as one who has been mis understood and slandered from of old-we rescue the honor of the devil.
-
-We no longer separate the great from the terrible. We include together the good things, in their complexity, and the worst things: we have overcome the absurd "desirability" of former days (which desired increase of the good without increase of the evil). Cowardice before the ideal of the Renaissance has receded_we even dare to aspire to its mores. Intolerance toward the priest and the church has come to an end at the same time; “it is immoral to believe in God"_but precisely this seems to us the best justification of such faith.
-
-We have granted all these things their rights. We are not afraid of the reverse side of "good things" (-we seek them: we are brave and curious enough); e.g., of Hellenism, of morality, of reason, of good taste (we compute the losses one sustains with all such precious things; one almost makes oneself poor with such a precious thing---). Just as little do we conceal from ourselves the reverse side of bad things.
-
-1016 (March-June 1888)
-
-What does us honor.- If anything does us honor, it is this: we have transferred seriousness: we regard as important the lowly
-
-BOOK FOUR: Discipline and Breeding
-
-525 things that have at all times been despised and left aside on the other hand, we let "beautiful feelings" go cheap.
-
-Is there a more dangerous aberration than contempt for the body? As if it did not condemn all spirituality to become sickly
-
-to the vapeurs of “idealism"!
-
-Whatever Christians and idealists have devised has neither rhyme nor reason: we are more radical. We have discovered the "smallest world" as that which is decisive everywhere.72
-
-The way our streets are paved, good air in our room,73 food --we grasp their value; we have taken all the necessities of exist ence seriously and despise all "beautiful-soulism" as a kind of "levity and frivolity." What was formerly most despised has been brought to the front.
-
-1017 (Spring-Fall 1887)
-
-In place of the "natural man" of Rousseau, the nineteenth century has discovered a truer image of "man"-it has had the courage to do so. On the whole, the Christian concept "man" has thus been reinstated. What one has not had the courage for is to call this “man in himself" good and to see in him the guarantee of the future. Neither has one dared to grasp that an increase in the terribleness of man is an accompaniment of every increase in culture; in this, one is still subject to the Christian ideal and takes its side against paganism, also against the Renaissance concept of virtù. But the key to culture is not to be found in this way: and in praxi one retains the falsification of history in favor of the "good man" (as if he alone constituted the progress of man) and the socialist ideal (i.e., the residue of Christianity and of Rousseau in the de-Christianized world).
-
-The struggle against the eighteenth century: its supreme over coming by Goethe and Napoleon. Schopenhauer, too, struggles against it; but he involutarily steps back into the seventeenth century-he is a modern Pascal, with Pascalian value judgments without Christianity. Schopenhauer was not strong enough for a new Yes.
-
-Napoleon: insight that the higher and the terrible man neces
-
-12 At this point the MS has the words: "we are dangerously in the The theme of this section is developed at length in Ecce Homo.
-
-At this point the MS has the words: "the soil (Boden: the word is illegible, and 1911, p. 514, also gives Quellen, i.e., wells) not poisoned."
-
-(p526)
-
-
-
-
-
-sarily belong together. The "man" reinstated; the woman again accorded her due tribute of contempt and fear. "Totality" as health and highest activity; the straight line, the grand style in action rediscovered; the most powerful instinct, that of life itself, the lust to rule, affirmed.
-
-1018 (1887)74 (Revue des deux mondes, Feb. 15, 1887. Taine on Napo leon): "Suddenly the faculté maîtresse75 unfolds: the artist en closed in the politician emerges de sa gaine;70 he creates dans l'idéal et l'impossible.77 He is once more recognized for what he is: the posthumous brother of Dante and Michelangelo: and in truth, in view of the firm contours of his vision, the intensity, coherence, and inner logic of his dream, the profundity of his meditation, the superhuman grandeur of his conception, he is like them et leur égal: son génie a la même taille et la même structure; il est un des trois esprits souverains de la renaissance italienne."78
-
-Nota bene--Dante, Michelangelo, Napoleon.
-
-1019 (Spring-Fall 1887; rev. Spring-Fall 1888)
-
-On the pessimism of strength.- In the inner psychic economy of the primitive man, fear of evil predominates. What is evil? Three things: chance, the uncertain, the sudden. How does primi tive man fight against evil? He conceives it as reason, as power, even as a person. In this way he establishes the possibility of entering into a kind of treaty with it and in general to exercise influence over it in advance-to forestall it.
-
-—Another expedient is to assert that its malice and harm fulness is merely appearance: one interprets the consequences of chance, of the uncertain and sudden as well meant, as meaningful,
-
-14 The Musarion edition, vol. XLX. p. 431, actually gives the date as follows: "1018: 86-87." As usual, it bases its information on 1911, where we are told on p. 494 that 1018 comes from "N XLII, 77"--and on p. 480, that the MS identified as "N XLII" belongs to the period 1886/87. The editors did not notice that the contents of the note rules out 1886.
-
-* Mistress talent, or ruling talent: no wonder Nietzsche left this and some of the following phrases in the original French.
-
-* From her vagina. "In the ideal and the impossible.
-
-** And their equal: his genius has the same cut and the same structure; he is one of the three sovereign spirits of the Italian Renaissance.
-
-BOOK FOUR: Discipline and Breeding
-
-527 -A third means: one interprets the bad above all as "de served": one justifies evil as punishment.
-
--In summa one submits to it: the whole religio-moral inter pretation is only a form of submission to evil. The faith that a good meaning lies in evil means to abandon the struggle against it.
-
-Now the whole history of culture represents a diminution of this fear of chance, the uncertain, the sudden. For culture means learning to calculate, to think causally, to forestall, to believe in necessity. With the increase of culture, man can do without that primitive form of submission to ills (called religion or morality), that “justification of evil." Now he makes war on "ills"-he abolishes them. Indeed, a state is possible in which the sense of security and belief in law and calculability enter consciousness in the form of satiety and disgust--while the delight in chance, the uncertain and sudden becomes titillating.
-
-Let us dwell a moment on this symptom of highest culture I call it the pessimism of strength, Man no longer needs a "justifi cation of ills"; "justification" is precisely what he abhors: he enjoys ills pur, cru; he finds senseless ills the most interesting. If he formerly had need of a god, he now takes delight in a world disorder without God, a world of chance, to whose essence belong the terrible, the ambiguous, the seductive.
-
-In such a state it is precisely the good that needs "justifying," i.e., it must be founded in evil and danger or involve some great stupidity: then it still pleases. Animality no longer arouses horror; esprit and happy exuberance in favor of the animal in man is in such ages the most triumphant form of spirituality. Man is now strong enough to be ashamed of any faith in God: he may again play the advocatus diaboli. If he in praxi advocates the preservation of virtue, he does it for reasons that recognize in virtue a subtlety, a cunning, a form of lust for gain and power.
-
-This pessimism of strength also ends in a theodicy, i.e., in an absolute affirmation of the world—but for the very reasons that formerly led one to deny it—and in this fashion to a conception of this world as the actually-achieved highest possible ideal.
-
-1020 (Nov. 1887-March 1888) The chief kinds of pessimism:
-
-www
-
-** Ein geistreicher und glücklicher Übermut.
-
-528
-
-THE WILL TO POWER
-
-the pessimism of sensibility (excessive irritability with a
-
-preponderance of unpleasurable feelings); the pessimism of "unfree will" (in other words: a lack of
-
-strength in resisting stimuli); the pessimism of doubt (a distaste for everything firm, for
-
-all grasping and touching).
-
-The psychological states proper to these can all be observed in the madhouse, even if in a somewhat exaggerated form. Also "nihilism" (the penetrating feeling of -"nothingness").
-
-But where does the moral pessimism of Pascal belong? the metaphysical pessimism of the Vedanta philosophy? the social pessimism of the anarchists (or of Shelley)? the pessimism of sympathy (like that of Leo Tolstoy, Alfred de Vigny)?
-
-Are all these not likewise phenomena of decay and sickness? To give excessive weight to moral values or to fictions of the "beyond" or to social distress or to suffering in general: every such exaggeration of a narrow viewpoint is in itself already a sign of sickness. Likewise the preponderance of No over Yes!
-
-What must not be confused with all this: pleasure in saying No and doing No out of a tremendous strength and tension derived from saying Yes-peculiar to all rich and powerful men and ages. A luxury, as it were; also a form of bravery that opposes the terrible; a sympathetic feeling for the terrible and questionable because one is, among other things, terrible and questionable: the Dionysian in will, spirit, taste.
-
-1021 (Manuscript source uncertain)
-
-My Five "No's"
-
-1. My struggle against the feeling of guilt and the projection of the concept of punishment into the physical and metaphysical world; also into psychology and the interpretation of history, Insight into the moralization of all previous philosophies and valuations,
-
-2. My recognition and identification of the traditional ideal, the Christian, even where the dogmatic form of Christianity has been abandoned. The dangerousness of the Christian ideal lies in its value feelings, in that which can do without conceptual expression: my struggle against latent Christianity (e.g., in music, in socialism).
-
-3. My struggle against the eighteenth century of Rousseau,
-
-BOOK FOUR: Discipline and Breeding
-
-529
-
-against his "nature," his "good man," his belief in the dominion of feeling—against the softening, weakening, moralization of man: an ideal born of hatred for aristocratic culture; in praxi, the dominion of the feelings of unbridled ressentiment, devised as a banner for the struggle (the morality of guilt feelings of the Christian, the morality of ressentiment a posture of the mob).
-
-4. My struggle against romanticism, in which Christian ideals and the ideals of Rousseau unite, but compounded with a nostalgia for the old days of priestly-aristocratic culture, for virtù, for the "strong human being" something extremely hybrid; a false and impersonated strong humanity that values extreme states in general and sees in them a symptom of strength ("cult of passion"; an imitation of the most expressive forms, furore espressivo, not out of plenitude but out of a lack).- (What in the nineteenth century is born of a relative plenitude, with gusto: cheerful music, etc.; among poets, e.g., Stifter and Gottfried Keller are signs of greater strength, inner well-being, than- Grand technique and inventiveness, the natural sciences, history (?)80. products of relative strength, self-confidence of the nineteenth century.)
-
-5. My struggle against the predominance of the herd instincts now that science makes common cause with them; against the inward hatred with which every kind of order of rank and distance are treated.
-
-1022 (Spring 1887-March 1888) From the pressure of plenitude, from the tension of forces that continually increase in us and do not yet know how to discharge themselves, there arises a condition like that preceding a storm: the nature we constitute becomes dark. This, too, is "pessimism"
-
-A doctrine that puts an end to such a condition by command ing something or other—a revaluation of values by virtue of which the accumulated forces are shown a way, a whither, so they explode into lightning flashes and deeds-certainly does not need to be a doctrine of happiness: by releasing force that had been com pressed and dammed to the point of torment it brings happiness.
-
-1023 (March-June 1888)
-
-Pleasure appears where there is the feeling of power.
-
-Bo Nietzsche's question mark.
-
-530
-
-THE WILL TO POWER Happiness: in the triumphant consciousness of power and victory.
-
-Progress: the strengthening of the type, the ability for great willing; everything else is misunderstanding, danger.
-
-1024 (Spring-Fall 1887)
-
-A period when the old masquerade and moral decking-up of the affects arouses antipathy: naked nature; where the decisiveness of quanta of power is simply admitted (as determining rank); where the grand style appears again as the consequence of grand passion.
-
-1025 (Spring-Fall 1887)
-
-To press everything terrible into service, one by one, step by step, experimentally: this is what the task of culture demands; but until it is strong enough for this, it must oppose, moderate, veil, even curse all this,
-
-Everywhere that a culture posits evil, it gives expression to a relationship of fear, thus a weakness,
-
-Thesis: everything good is the evil of former days made serviceable. Standard: the greater and more terrible the passions are that an age, a people, an individual can permit themselves, because they are capable of employing them as means, the higher stands their culture;&1 the more mediocre, the weaker, the more submissive and cowardly a man is, the more he will posit as evil: it is with him that the realm of evil is most comprehensive. The basest man will see the realm of evil (i.e., of that which is for bidden and hostile to him) everywhere.
-
-1026 (Summer-Fall 1883) Not "happiness follows virtue"---but the more powerful man first designates his happy state as virtue.
-
-Evil actions belong to the powerful and virtuous: bad, base ones to the subjected.
-
-* At this point the MS has the phrase: "(the realm of evil becomes ever smaller-)" There seems to be no good reason for omitting this, but though the words are printed in the notes of 1911, p. 514, al editions, including Schlechta's, leave them out,
-
-BOOK FOUR: Discipline and Breeding
-
-531
-
-The most powerful man, the creator, would have to be the most evil, in as much as he carries his ideal against the ideals of other men and remakes them in his own image. Evil here means: hard, painful, enforced.
-
-Such men as Napoleon must come again and again and con firm the belief in the autocracy of the individual; but he himself was corrupted by the means he had to employ and lost noblesse of character. If he had had to prevail among a different kind of man he could have employed other means; and it would thus not
-
-seem to be a necessity for a Caesar to become bad.
-
-1027 (Spring-Fall 1887)
-
-Man is beast and superbeast;82 the higher man is inhuman and superhuman: these belong together. With every increase of great ness and height in man, there is also an increase in depth and terribleness: one ought not to desire the one without the other or rather: the more radically one desires the one, the more radically one achieves precisely the other.
-
-1028 (Spring-Fall 1887)
-
-Terribleness is part of greatness: let us not deceive ourselves.
-
-1029 (1884-1886)
-
-I have presented such terrible images to knowledge that any "Epicurean delight" is out of the question. Only Dionysian joy is sufficient: I have been the first to discover the tragic.88 The Greeks, thanks to their moralistic superficiality, misunderstood it. Even
-
-"Unrier und Ubertier. Cf. the note to section 877 above, for a passage in which Nietzsche calls Napoleon "this synthesis of the inhuman and superhuman"-Unmensch und Ubermensch, Ubertier is strictly analagous to Ubermensch, overman, and is a coinage. Untier is an established German word and means monster, beast.
-
-83 This may sound so mad that few if any readers will understand what Nietzsche means. Plato's and Aristotle's approaches to tragedy were moralistic, and they failed to understand tragedy; so did Schopenhauer and, in various ways, others who wrote about it. Nietzsche's suggestion, first offered in The Birth of Tragedy, at the very end of section 7, is that tragedy is born of an insight into the utter terror and absurdity of existence and of a despair so profound that only the sublime beauty of the great tragedies can engender a "Dionysian joy . . . sufficient" to save man.
-
-532
-
-THE WILL TO POWER
-
-resignation is not a lesson of tragedy, but a misunderstanding of it! Yearning for nothingness is a denial of tragic wisdom, its opposite!
-
-1030 (1883-1888) A full and powerful soul not only copes with painful, even terrible losses, deprivations, robberies, insults; it emerges from such hells with a greater fullness and powerfulness; and, most essential of all, with a new increase in the blissfulness of love. I believe that he who has divined something of the most basic conditions for this growth in love will understand what Dante meant when he wrote over the gate of his Inferno: "I, too, was created by eternal love."84
-
-1031 (Spring-Fall 1887)
-
-To explore the whole sphere of the modern soul, to have sat in its every nook-my ambition, my torture, and my happiness.
-
-Really to overcome pessimism-a Goethean eye full of love and good will as the result,
-
-1032 (1883-1885) 86
-
-The first question is by no means whether we are content with ourselves, but whether we are content with anything at all.86 If we affirm one single moment, we thus affirm not only ourselves but all existence.87 For nothing is self-sufficient, neither in us our selves nor in things, and if our soul has trembled with happiness and sounded like a harp string just once, all eternity was needed
-
-It is doubtful that this section really helps us to "understand what Dante meant," or that it is very well considered; after all, it is a mere note and was not embodied in a book. But the point seems to be that there is an ultimate connection between the most terrible suffering and the best love.
-
-"Above the beginning, the MS has the incomplete sentence: 'Once one has comprebended, not only in how far every one of our actions is necessary but also how they mutually entail each other and how every nuance of feeling " (1911, p. 514).
-
-16 Cf. The Gay Science, section 290, toward the end (Portable Nietzsche, p. 99).
-
-*Cf. Zarathustra, IV, "The Drunken Song," section 10 (Portable Nietz sche, p. 435).
-
-BOOK FOUR; Discipline and Breeding
-
-533
-
-to produce this one event and in this single moment of affirmation all eternity was called good, redeemed, justified, and affirmed.
-
-1033 (March-June 1888) The affirmative affects: pride, joy, health, love of the sexes, enmity and war, reverence, beautiful gestures and manners, 98 strong will, the discipline of high spirituality, will to power, gratitude toward earth and life-everything that is rich and desires to bestow and that replenishes and gilds and immortalizes and deifies life-the whole force of transfiguring virtues, every thing that declares good and affirms in word and deed.
-
-1034 (1888)
-
-We few or many who again dare to live in a dismoralized world, we pagans in faith: we are probably also the first to grasp what a pagan faith is: - to have to imagine higher creatures than man, but beyond good and evil; to have to consider all being higher as also being immoral. We believe in Olympus--and not in the "Crucified.”
-
-1035 (Spring-Fall 1887; rev. Spring-Fall 1888)
-
-Latter-day man has employed his power of idealization in regard to a god chiefly to make the god more and more moral. What does that signify?—Nothing good, a diminution of the strength of man.
-
-For in itself the opposite would be possible; and there are indications of this. God conceived as an emancipation from morality, taking into himself the whole fullness of life's antitheses and, in a divine torment, redeeming and justifying them: God as the beyond and above of the wretched loafers' morality of "good and evil."
-
-1036 (1885-1886)
-
-A humanitarian God cannot be demonstrated from the world we know: today you can be compelled to admit this much. But
-
-* After "manners" the MS has another word that is illegible.
-
-534
-
-THE WILL TO POWER
-
-what conclusions do you draw?89 “He cannot be demonstrated to us": epistemological skepticism. You are all afraid of the con clusion: "from the world we know, a very different god would be demonstrable, one who at any rate is not humanitarian" — and, in short, you hold fast to your God and devise for him a world we do not know.
-
-1037 (Spring-Fall 1887)
-
-Let us remove supreme goodness from the concept of God: it is unworthy of a god. Let us also remove supreme wisdom; it is the vanity of philosophers that is to be blamed for this mad notion of God as a monster of wisdom; he had to be as like them as possible. No! God the supreme power---that suffices! Every thing follows from it, "the world" follows from it!
-
-1038 (March-Fall 1888)90
-
--And how many new gods are still possible! As for myself, in whom the religious, that is to say god-forming, instinct occasion ally becomes active at impossible times---how differently, how variously the divine has revealed itself to me each time!
-
-So many strange things have passed before me in those time less moments that fall into one's life as if from the moon, when one no longer has any idea how old one is or how young one will yet be—I should not doubt that there are many kinds of gods There are some one cannot imagine without a certain halcyon and frivolous quality in their make-up Perhaps light feet are even an integral part of the concept "god"- Is it necessary to elaborate that a god prefers to stay beyond everything bourgeois and rational? and, between ourselves, also beyond good and evil? His prospect is free-in Goethe's words.81— And to call upon
-
-* Originally Nietzsche had written: "(1) Either he cannot be demon strated to us: epistemological skepticism (2) he must be absolutely other and unknowable." When crossing out the words that do not appear in the text above, be forgot to delete "Either."
-
-According to 1911, p. 514, this note "was intended for The Antichrist and was supposed to constitute section 20 and conclude the segment 16-19, which in this preliminary version bears the title 'On the history of the con cept of God.'”
-
-"Allusion to the last scene of Faust, line 11,989. The quotation in the next sentence is from "On Reading and Writing" in Part 1 of Zarathustra (Portable Nietzsche, p. 153).
-
-BOOK FOUR: Discipline and Breeding
-
-535 the inestimable authority of Zarathustra in this instance: Zarathus tra goes so far as to confess: "I would believe only in a God who could dance"
-
-To repeat: how many new gods are still possible! Zarathus tra himself, to be sure, is merely an old atheist: he believes neither in old nor in new gods. Zarathustra says he would; but Zarathrusta will not- Do not misunderstand him.
-
-The type of God after the type of creative spirits, of "great men."
-
-1039 (March-June 1888)
-
-And how many new ideals are, at bottom, still possible! Here is a little ideal I stumble upon once every five weeks on a wild and lonely walk, in an azure moment of sinful happiness. To spend one's life amid delicate and absurd things; a stranger to reality; half an artist, half a bird and metaphysician; with no care for reality, except now and then to acknowledge it in the manner of a good dancer with the tips of one's toes; always tickled by some sunray of happiness; exuberant and encouraged even by misery-for misery preserves the happy man; fixing a little humorous tail even to the holiest things: this, as is obvious, is the ideal of a heavy, hundredweight spirit-a spirit of gravity.
-
-1040 (Summer-Fall 1888)
-
-From the soul's school of war 02 (Dedicated to the brave, the cheerful, the temperate.)
-
-I should not like to undervalue the amiable virtues; but greatness of soul is not compatible with them. Even in the arts, the grand style excludes the pleasing.
-
-In times of painful tension and vulnerability, choose war: it hardens, it produces muscles.
-
-The deeply wounded have Olympian laughter; one has only what one needs to have.
-
-Cf. Twilight, "Maxims and Arrows," the title of aphorism 8 (Portable Nietzsche, p. 467).536
-
-THE WILL TO POWER
-
-It has been ten years already: not a sound reaches me any longera land without rain. One must have a great deal of humanity left not to die of thirst in the drought.
-
-1041 (1888)
-
-My new path to a "Yes".- Philosophy, as I have hitherto understood and lived it, is a voluntary quest for even the most detested and notorious93 sides of existence. From the long ex perience I gained from such a wandering through ice and wilder ness, I learned to view differently all that had hitherto philoso phized: the hidden history of philosophy, the psychology of its great names, came to light for me. "How much truth can a spirit endure, how much truth does a spirit dare?"—this became for me the real standard of value, 94 Error is cowardice every achieve ment of knowledge is a consequence of courage, of severity toward oneself, of cleanliness toward oneself Such an experimental philosophy as I live anticipates experimentally even the possibilities of the most fundamental nihilism; but this does not mean that it must halt at a negation, a No, a will to negation. It wants rather to cross over to the opposite of this to a Dionysian affirmation of the world as it is, without subtraction, exception, or selection—it wants the eternal circulation: the same things, the same logic and illogic of entanglements. The highest state a philosopher can attain: to stand in a Dionysian relationship to existence--my for mula for this is amor fati.95
-
-It is part of this state to perceive not merely the necessity of those sides of existence hitherto denied, but their desirability; and not their desirability merely in relation to the sides hitherto affirmed (perhaps as their complement or precondition), but for
-
-* The reading of these two words "detested" and "notorious" is un certain.
-
-*Cf. Beyond Good and Evil, section 39, and above all section 3 of the Preface to Ecce Homo, where "error is cowardice" is also used.
-
-" Love of fate. Nietzsche introduced this term in The Gay Science, section 276: "Amor fati: let this be my love from now on." He used it twice in Ecce Homo, in "Why I am so clever," section 10, and "The Case of Wagner," section 4; and also near the beginning of the Epilogue to Nietzsche contra Wagner.
-
-BOOK FOUR: Discipline and Breeding
-
-537 their own sake, as the more powerful, more fruitful, truer sides of existence, in which its will finds clearer expression.
-
-It is also part of this state to depreciate that side of existence which alone has been affirmed hitherto; to perceive the origin of this valuation and how little a Dionysian value standard for existence is obliged to it: I pulled up and perceived what it really was that here affirmed (on one hand, the instinct of the suffering; on the other the instinct of the herd; and thirdly, the instinct of the majority against the exceptions...).
-
-Thus I guessed to what extent a stronger type of man would necessarily have to conceive the elevation and enhancement of man as taking place in another direction: higher beings, beyond good and evil, beyond those values which cannot deny their origin in the sphere of suffering, the herd, and the majority--I sought in history the beginnings of this construction of reverse ideals (the concepts "pagan," "classical," "noble" newly discovered and expounded).
-
-1042 (1885-1886) To demonstrate to what extent the Greek religion was higher than the Judaeo-Christian. The latter conquered because the Greek religion had become degenerate (had retrogressed).
-
-1043 (1884)
-
-It is nothing to be wondered at that a couple of millenia are needed to re-establish contact-a couple of millennia mean little!
-
-1044 (1885-1886)
-
-There is a need for those who will sanctify all activities, not only eating and drinking-and not merely in remembrance of them and to become one with them, but this world must be transfigured ever anew and in new ways.
-
-1045 (1886-1887)
-
-The most spiritual men feel the stimulus and charm of sensuous things in a way that other men—those with "fleshly
-
-538
-
-THE WILL TO POWER hearts"—cannot possibly imagine and ought not to imagine: they are sensualists in the best faith, because they accord the senses a more fundamental value than to that fine sieve, that thinning and reducing machine, or whatever we may call what in the language of the people is named "spirit." The strength and power of the senses---this is the essential thing in a well-consti tuted and complete man; the splendid "animal" must be given first—what could any "humanization" matter otherwise!
-
-1046 (1884)
-
-1. We want to hold fast to our senses and to our faith in them—and think their consequences through to the end! The nonsensuality of philosophy hitherto as the greatest nonsensicality of man.
-
-2. The existing world, upon which all earthly living things have worked so that it appears as it does (durable and changing slowly), we want to go on building and not criticize it away as false!
-
-3. Our valuations are a part of this building; they em phasize and underline. Of what significance is it if entire religions say: "all is bad and false and evil"! This condemnation of the entire process can only be a judgment of the ill-constituted!
-
-4. To be sure, the ill-constituted can be the greatest sufferers and the most subtle? The contented could be of little value?
-
-5. One must understand the artistic basic phenomenon that is called "life"--the building spirit that builds under the most unfavorable conditions: in the slowest manner . A demonstra tion of all its combinations must first be produced afresh: it pre serves itself.
-
-1047 (Nov. 1887-March 1888)
-
-Sexuality, the lust to rule, pleasure in appearance and decep tion, great and joyful gratitude for life and its typical states-these are of the essence of the pagan cults and have a good conscience on their side.-- Unnaturalness (already in Greek antiquity) fights against the pagan, as morality, as dialectic.
-
-BOOK FOUR: Discipline and Breeding
-
-539
-
-1048 (1885-1886)
-
-An anti-metaphysical view of the world
-
-yes, but an artistic
-
-one.
-
-1049 (1885-1886) Apollo's deception: the eternity of beautiful form; the aristo cratic legislation, "thus shall it be for ever!"
-
-Dionysus: sensuality and cruelty. Transitoriness could be interpreted as enjoyment of productive and destructive force, as continual creation.
-
-1050 (March-June 1888)
-
-The word "Dionysian" means: an urge to unity, a reaching out beyond personality, the everyday, society, reality, across the abyss of transitoriness: a passionate-painful overflowing into darker, fuller, more floating states; an ecstatic affirmation of the total character of life as that which remains the same, just as powerful, just as blissful, through all change; the great pantheistic sharing of joy and sorrow that sanctifies and calls good even the most terrible and questionable qualities of life; the eternal will to procreation, to fruitfulness, to recurrence; the feeling of the necessary unity of creation and destruction.
-
-The world "Apollinian" means: the urge to perfect self sufficiency, to the typical "individual," to all that simplifies, dis stinguishes, makes strong, clear, unambiguous, typical: freedom under the law.
-
-The further development of art is as necessarily tied to the antagonism between these two natural artistic powers as the further development of man is to that between the sexes. Plenitude of power and moderation, the highest form of self-affirmation in a cool, noble, severe beauty: the Apollinianism of the Hellenic will.
-
-This antithesis of the Dionysian and the Apollinian within the Greek soul is one of the great riddles to which I felt myself drawn when considering the nature of the Greeks. Fundamentally I was concerned with nothing except to guess why precisely Greek Apollinianism had to grow out of a Dionysian subsoil;
-
-$40
-
-THE WILL TO POWER
-
-why the Dionysian Greek needed to become Apollinian; that is, to break his will to the terrible, multifarious, uncertain, frightful, upon a will to measure, to simplicity, to submission to rule and concept. The immoderate, disorderly Asiatic lies at his roots: the bravery of the Greek consists in his struggle with his Asiaticism; beauty is not given to him, as little as is logic or the naturalness of customs-it is conquered, willed, won by struggle--it is his victory.96
-
-1051 (1885)
-
-The highest and most illustrious human joys, in which exist ence celebrates its own transfiguration, come, as is reasonable, only to the rarest and best-constituted men; and even to these only when they themselves and their ancestors have lived long, preparatory lives directed to this goal, and not even in the knowledge of this goal. Then an overflowing wealth of the most multifarious forces and the most dextrous power of "free willing" and lordly command dwell amicably together in one man; the spirit is then as much at home in the senses as the senses are at home in the spirit; and whatever takes place in the spirit must enkindle a subtle extraordinary happiness and play in the senses. And also the other way around! Consider this reverse process in the case of Hafiz; even Goethe, however much more faintly, gives us an idea of this occurrence. It is probable that with such perfect and well-constituted men the most sensual functions are finally transfigured by a symbol-intoxication of the highest spiri tuality: they experience a kind of deification of the body in them selves and are as distant as possible from the ascetic philosophy of the proposition "God is a spirit"—and this shows clearly that
-
-* Nietzsche first introduced the contrast of the Dionysian and Apollinian in The Birth of Tragedy, his first book. In his later works there are relatively few references to the Apollinian, and the Dionysian comes to be contrasted more and more with the Christian, as in section 1,052 below. The spirit of these two juxtapositions is not at all the same, and the conception of the Dionysian changes accordingly. In the former contrast, neither element is given preference: note, e.g., the penultimate paragraph of section 1,050. In the later contrast, Nietzscbe uses Dionysus as the symbol of his own world view.
-
-These reflections on The Birth of Tragedy-apparently in connection with the section on that book in Ecce Homo help our understanding of Nietzsche's first work.
-
-541
-
-BOOK FOUR: Discipline and Breeding the ascetic is the "ill-constituted man," who calls good only a something-in-itself, and indeed a something that judges and con demns--and also calls it "God."
-
-From that height of joy where man feels himself to be altogether a deified form and a self-justification of nature, down to the joy of healthy peasants and healthy half-human animals, this whole, long, tremendous light and color scale of happiness, the Greeks, not without the grateful shudder of him who is initiated into a mystery, not without much caution and pious silence, called by the divine name: Dionysus.- What do any latter-day men, the children of a fragmentary, multifarious, sick, strange age, know of the range of Greek happiness; what could they know of it! Whence would the slaves of "modem ideas" derive a right to Dionysian festivals!
-
-When the Greek body and the Greek soul "bloomed," and not in conditions of morbid exaltation and madness, there arose that mysterious symbol of the highest world-affirmation and trans figuration of existence that has yet been attained on earth. Here we have a standard by which everything that has grown up since is found too short, too poor, too narrow. One only needs to pronounce the word "Dionysus" in the presence of the best latter day names and things, in the presence of Goethe perhaps, or Beethoven, or Shakespeare, or Raphael-at once we feel that our best things and moments have been judged. Dionysus is a judge! - Have I been understood?
-
-There can be no doubt that the Greeks sought to interpret the ultimate mysteries "of the destiny of the soul" and everything they knew concerning education and purification, above all con cerning the immovable order of rank and inequality of value between man and man, on the basis of their Dionysian experi ences: here is the great depth, the great silence, in all matters Greek-one does not know the Greeks as long as this hidden subterranean entrance lies blocked. Importunate scholar's eyes will never see anything in these things, however much scholarship still has to be employed in this excavation. Even the noble zeal of such friends of antiquity as Goethe and Winckelmann here has something unpermitted, even immodest about it.
-
-To wait and to prepare oneself; to await the emergence of new sources; to prepare oneself in solitude for strange faces and voices; to wash one's soul ever cleaner from the marketplace
-
-542
-
-THE WILL TO POWER dust and noise of this age; to overcome everything Christian through something supra-Christian, and not merely to put it aside-for the Christian doctrine was the counterdoctrine to the Dionysian; to rediscover the South in one and to spread out above one a bright, glittering, mysterious southern sky; to re conquer southern health and hidden powerfulness of soul; step by step to become more comprehensive, more supranational, more European, more Near Eastern, finally more Greek-for the Greek was the first great union and synthesis of everything Near Eastern, and on that account the inception of the European soul, the dis covery of our "new world": whover lives under such imperatives, who knows what he may not encounter one day? Perhaps a new day!
-
-1052 (March-June 1888)
-
-The two types: Dionysus and the Crucified.97_- To determine: whether the typical religious man [is] 98 a form of decadence (the great innovators are one and all morbid and epileptic); but are we not here omitting one type of religious man, the pagan? Is the pagan cult not a form of thanksgiving and affirmation of life? Must its highest representative not be an apology for and deifica tion of life? The type of a well-constituted and ecstatically over flowing spirit! The type of a spirito! that takes into itself and redeems the contradictions and questionable aspects of existence!
-
-It is here I set the Dionysus of the Greeks: the religious affirmation of life, life whole and not denied or in part; (typical that the sexual act arouses profundity, mystery, 100 reverence).
-
-Dionysus versus the "Crucified": there you have the anti
-
-The last section of Ecce Homo reads, in full: " Have I been under stood? - Dionysus versus the Crucified ..."
-
-* The word "is" was supplied by the German editors.
-
-* In the MS Typus, which the German editors very sensibly changed to Geist. This does not mean that the MS reads: "The type of a type"; the whole clause that follows "spirit" appears in the German original between
-
-Typus and Typus, which makes the slip readily understandable.
-
-100 The reading of "mystery" is uncertain; but see section 148 above. The same idea is found in The Birth of Tragedy, at the beginning of section 8, and above all in section 4 of the last chapter of Twilight (Portable Nietzsche, p. 561 f). But Aristophanes and some Greek vase paintings sug gest a somewhat different perspective.
-
-543
-
-BOOK FOUR: Discipline and Breeding thesis. It is not a difference in regard to their martyrdom-it is a difference in the meaning of it. Life itself, its eternal fruitfulness and recurrence, creates torment, destruction, the will to annihila tion. In the other case, suffering the "Crucified as the innocent one"-counts as an objection to this life, as a formula for its condemnation. One will see that the problem is that of the meaning of suffering: whether a Christian meaning or a tragic meaning. In the former case, it is supposed to be the path to a holy existence; in the latter case, being is counted as holy enough to justify even a monstrous amount of suffering. The tragic man affirms even the harshest suffering: he is sufficiently strong, rich, and capable of deifying to do so. The Christian denies even the happiest lot on earth: he is sufficiently weak, poor, disinherited to suffer from life in whatever form he meets it. The god on the cross is a curse on101 life, a signpost to seek redemption from life; Dionysus cut to pieces is a promise of life: it will be eternally reborn and return again from destruction, 102
-
-101 In the MS the definite article, needed in German before "life," is missing, but it was added by the German editors and appears in all editions.
-
-In sum: this section is in many ways typical of the whole book. It was written in extreme haste, and it would be an understatement to say that it was not polished for publication; but for all that it is remarkable as a document that aids our understanding of Nietzsche, as a prose passage, and for the ideas it expresses.
-
-Schlechta's edition, as usual, does not follow the MS but the standard editions, ignoring the information furnished in 1911 (p. 514 in this case).
-
-10. According to 1911, p. 514, this note is followed in the MS by a draft for Beyond Good and Evil, section 56.
-
-III. THE ETERNAL RECURRENCE
-
-1053 (1884)
-
-My philosophy brings the triumphant idea of which all other modes of thought will ultimately perish. It is the great cultivating idea: the races that cannot bear it stand condemned; those who find it the greatest benefit are chosen to rule.
-
-1054 (1885-1886)
-
-The greatest of struggles: for this a new weapon is needed.
-
-The hammer: to provoke a fearful decision, to confront Europe with the consequences: whether its will "wills" destruction.
-
-Prevention of reduction to mediocrity. Rather destruction!
-
-1055 (1885)
-
-A pessimistic teaching and way of thinking, an ecstatic nihilism, can under certain conditions be indispensable precisely to the philosopher—as a mighty pressure and hammer with which he breaks and removes degenerate and decaying races to make way for a new order of life, or to implant into that which is degenerate and desires to die a longing for the end.
-
-1056 (1884)
-
-It want to teach the idea that gives many the right to erase themselves the great cultivating idea.
-
-1057 (1883-1888)
-
-The eternal recurrence. A prophecy.103 1. Presentation of the doctrine and its theoretical presuppositions
-
-and consequences. 2. Proof of the doctrine. 3. Probable consequences of its being believed (it makes every
-
-thing break open).
-
-a) Means of enduring it;
-
-10) In the MS: "A Book of Prophecy." According to 1911, p. 514, this section represents the plan for a book, The Eternal Recurrence.
-
-BOOK FOUR: Discipline and Breeding
-
-545
-
-b) Means of disposing of it. 4. Its place in history as a mid-point.
-
-Period of greatest danger. Foundation of an oligarchy above peoples and their interests:
-
-education to a universally human politics. Counterpart of Jesuitism.
-
-1058 (1883-1888)
-
-The two greatest philosophical points of view (devised by Germans):
-
-a) that of becoming, of development, b) that according to the value of existence (but the
-
-wretched form of German pessimism must first be overcomel)—both brought together my me in a de
-
-cisive way. Everything becomes and recurs eternally- escape is im possible. Supposing we could judge value, what follows? The idea of recurrence as a selective principle, in the service of strength (and barbarism!!).
-
-Ripeness of man for this idea.
-
-1059 (1884) 1. The idea (of the eternal recurrence):104 the presuppositions that would have to be true if it were true. Its consequences.
-
-2. As the hardest idea: its probable effect if it were not prevented, i.e., if all values were not revalued.
-
-3. Means of enduring it: the revaluation of all values. No longer joy in certainty but in uncertainty; no longer "cause and effect" but the continually creative; no longer will to preservation but to power; no longer the humble expression, "everything is merely subjective," but "it is also our work! Let us be proud of
-
-it!
-
-1060 (1884)
-
-To endure the idea of the recurrence one needs: freedom from morality; new means against the fact of pain (pain con
-
-104 The words I have placed in brackets were supplied by the German editors.546
-
-THE WILL TO POWER
-
-ceived as a tool, as the father of pleasure; there is no cumulative consciousness of displeasure); the enjoyment of all kinds of un certainty, experimentalism, as a counterweight to this extreme fatalism; abolition of the concept of necessity; abolition of the "will"; abolition of "knowledge-in-itself."
-
-Greatest elevation of the consciousness of strength in man, as he creates the overman.
-
-1061 (1887-1888)
-
-The two most extreme modes of thought the mechanistic and the Platonic-are reconciled in the eternal recurrence: both as ideals.
-
-1062 (1885)
-
-If the world had a goal, it must have been reached. If there were for it some unintended final state, this also must have been reached. If it were in any way capable of a pausing and becoming fixed, of "being," if in the whole course of its becoming it possessed even for a moment this capability of "being," then all becoming would long since have come to an end, along with all thinking, all "spirit." The fact of "spirit" as a form of becoming proves that the world has no goal, no final state, and is incapable of being.
-
-The old habit, however, of associating a goal with every event and a guiding, creative God with the world, is so power ful that it requires an effort for a thinker not to fall into thinking of the very aimlessness of the world as intended. This notion that the world intentionally avoids a goal and even knows artifices for keeping itself from entering into a circular course--must occur to all those who would like to force on the world the ability for eternal novelty, i.e., on a finite, definite, unchangeable force of constant size, such as the world is, the miraculous power of infinite novelty in its forms and states. The world, even if it is no longer a god, is still supposed to be capable of the divine power of creation, the power of infinite transformations; it is supposed to consciously prevent itself from returning to any of its old forms; it is supposed to possess not only the intention but the means of avoiding any repetition; to that end, it is supposed to control every one of its movements at every moment so as to escape goals, final
-
-BOOK FOUR: Discipline and Breeding
-
-547 states, repetitions- and whatever else may follow from such an unforgiveably insane way of thinking and desiring. It is still the old religious way of thinking and desiring, a kind of longing to believe that in some way the world is after all like the old beloved, infinite, boundlessly creative God--that in some way "the old God still lives" that longing of Spinoza which was expressed in the words "deus sive natura”:05 (he even felt "natura sive deus").
-
-What, then, is the law and belief with which the decisive change, the recently attained preponderance of the scientific spirit over the religious, God-inventing spirit, is most clearly formulated? Is it not: the world, as force, may not be thought of as unlimited, for it cannot be so thought of; we forbid ourselves the concept of an infinite force as incompatible with the concept "force." Thus ---the world also lacks the capacity for eternal novelty.
-
-1063 (1886-1887)
-
-The law of the conservation of energy demands eternal recur
-
-rence.
-
-1064 (1885)
-
-That a state of equilibrium is never reached proves that it is not possible. But in an indefinite space it would have to have been reached. Likewise in a spherical space. The shape of space must be the cause of eternal movement, and ultimately of all "imperfection."
-
-That "force" and "rest," "remaining the same," contradict one another. The measure of force (as magnitude) as fixed, but its essence in flux.106
-
-"Timelessness" to be rejected. At any precise moment of a force, the absolute conditionality of a new distribution of all its forces is given: it cannot stand still. "Change" belongs to the essence, therefore also temporality: with this, however, the neces sity of change has only been posited once more conceptually.
-
-1065 (Nov. 1887-March 1888) A certain emperor always bore in mind the transitoriness of
-
-105 God or nature. 108 The MS continues: "in tension, compelling."
-
-548
-
-THE WILL TO POWER
-
-all things so as not to take them too seriously and to live at peace among them. To me, on the contrary, everything seems far too valuable to be so fleeting: I seek an eternity for everything: ought one to pour the most precious salves and wines into the sea?-- My consolation is that everything that has been is eternal: the
-
-sea will cast it up again.
-
-1066 (March-June 1888)
-
-The new world-conception. The world exists; it is not something that becomes, not something that passes away. Or rather: it becomes, it passes away, but it has never begun to become and never ceased from passing away-it maintains itself in both. It lives on itself: its excrements are its food.
-
-We need not worry for a moment about the hypothesis of a created world. The concept "create" is today completely indefin able,107 unrealizable; merely a word, a rudimentary survival from the ages of superstition; one can explain nothing with a mere word. The last attempt to conceive a world that had a beginning has lately been made several times with the aid of logical pro cedures generally, as one may divine, with an ulterior theological motive.
-
-Lately one has sought several times to find a contradiction in the concept "temporal infinity of the world in the past" (regressus in infinitum): one has even found it, although at the cost of confusing the head with the tail. Nothing can prevent me from reckoning backward from this moment and saying "I shall never reach the end"; just as I can reckon forward from the same moment into the infinite. Only if I made the mistake-I shall guard against it—of equating this correct concept of a regressus in infinitum with an utterly unrealizable concept of a finite progres sus up to this present, only if I suppose that the direction (forward or backward) is logically a matter of indifference, would I take the head--this moment--for the tail; I shall leave that to you, my dear Herr Dühring!
-
-I have come across this idea in earlier thinkers: every time it was determined by other ulterior considerations (mostly theological, in favor of the creator spiritus). If the world could in any way become rigid, dry, dead, nothing, or if it could reach a
-
-207 This word is illegible.
-
-BOOK FOUR: Discipline and Breeding
-
-549
-
-state of equilibrium, or if it had any kind of goal that involved duration, immutability, the once-and-for-all (in short, speaking metaphysically: if becoming could resolve itself into being or into nothingness), then this state must have been reached. But it has not been reached: from which it follows
-
-This is the sole certainty we have in our hands to serve as a corrective to a great host of world hypotheses possible in them seves. If, e.g., the mechanistic theory cannot avoid the conse quence, drawn for it by William Thomson,108 of leading to a final state, then the mechanistic theory stands refuted.
-
-If the world may be thought of as a certain definite quantity of force and as a certain definite number of centers of force-and every other representation remains indefinite and therefore useless -it follows that, in the great dice game of existence, it must pass through a calculable number of combinations. In infinite time, every possible combination would at some time or another be realized, more: it would be realized an infinite number of times. And since between every combination and its next recurrence all other possible combinations would have to take place, and each of these combinations conditions the entire sequence of combina tions in the same series, a circular movement of absolutely identical series is thus demonstrated; the world as a circular movement that has already repeated itself infinitely often and plays its game in infinitum.
-
-This conception is not simply a mechanistic conception; for if it were that, it would not condition an infinite recurrence of identical cases, but a final state. Because the world has not reached this, mechanistic theory must be considered an imperfect and merely provisional hypothesis.
-
-1067109 (1885)
-
-And do you know what "the world" is to me? Shall I show
-
-108 First Baron Kelvin (1824-1907), British physicist and mathematician who introduced the Kelvin or Absolute Scale of temperature.
-
-For Nietzsche's argument see also section 55 above, as well as my Nietzsche, Chapter 11, section II, and my article on Nietzsche in the En cyclopedia of Philosophy, ed. Paul Edwards, New York, 1967.
-
-100 Most of this section was written by Nietzsche over an earlier version that he had crossed out. The earlier version is printed in the first edition of 1901 as # 385, and again in 1911, p. 515.
-
-550
-
-THE WILL TO POWER
-
-it to you in my mirror? This world: a monster of energy, without beginning, without end; a firm, iron magnitude of force that does not grow bigger or smaller, that does not expend itself but only transforms itself; as a whole, of unalterable size, a household with out expenses or losses, but likewise without increase or income; enclosed by "nothingness" as by a boundary; not something blurry or wasted, not something endlessly extended, but set in a definite space as a definite force, and not a space that might be "empty" here or there, but rather as force throughout, as a play of forces and waves of forces, at the same time one and many, increasing here and at the same time decreasing there; a sea of forces flow ing and rushing together, eternally changing, eternally flooding back, with tremendous years of recurrence, with an ebb and a flood of its forms; out of the simplest forms striving toward the most complex, out of the stillest, most rigid, coldest forms toward the hottest, most turbulent, most self-contradictory, and then again returning home to the simple out of this abundance, out of the play of contradictions back to the joy of concord, still affirm ing itself in this uniformity of its courses and its years, blessing itself as that which must return eternally, as a becoming that knows no satiety, no disgust, no weariness: this, my Dionysian world of the eternally self-creating, the eternally self-destroying, this mystery world of the twofold voluptuous delight, my "beyond good and evil," without goal, unless the joy of the circle is itself a goal; without will, unless a ring feels good will toward itself-do you want a name for this world? A solution for all its riddles? A light for you, too, you best-concealed, strongest, most intrepid, most midnightly men? - This world is the will to power and nothing besides! And you yourselves are also this will to power and nothing besides! 
-
