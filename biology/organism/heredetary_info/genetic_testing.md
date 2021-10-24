@@ -12,3 +12,4 @@ title = "Genetic testing"
 ## Analysis services
 - Promethease [here](https://promethease.com/).
 - [DNA.land](https://dna.land/main#) .
+- [www.impute.me/](https://www.impute.me/)
