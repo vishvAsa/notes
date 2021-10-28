@@ -27,6 +27,9 @@ The most challenging for an older person (60yrs+) to achieve is a sub-13sec spri
 
 There are different health tests a person can do: In a clinic/lab – blood tests, biomarker tests, blood pressure, heart rate, scans; in a gym - stress tests, body fat, VO2 max, and so on. That's all well and good, but these five simple performance tests you can do yourself and are easy to measure. Physical performance is an excellent indicator of the general health of the body. There is no point adding in more target categories - vertical high jump, rowing ability, back-flips, and so on, as it's the engine in the car that ultimately determines performance not what the car can be used for. The five categories give us a global view of the state of the 'engine'. That's enough.
 
+### Strength
+> The general misconception about strength is this, "my friend isn't as strong as 'X' but he's a better runner/baseball player/soccer player...therefore strength isn't important". That's not the point; getting stronger makes you better at what you can already do - it enhances your ability. If you are not cut out for sprinting, it won't turn you into Usain Bolt.
+
 ## Age and intesity
 > Physical decline: The ‘extremes’ go first, then the normal gets harder.
 > 
