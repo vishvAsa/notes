@@ -1,5 +1,5 @@
 +++
-title = "+Anti-preta"
+title = "+Anti-British"
 
 +++
 ![](http://upload.wikimedia.org/wikipedia/commons/1/11/Gandhi_Kheda_1918.jpg)![Vinayak damodar savarkar.jpg](https://upload.wikimedia.org/wikipedia/commons/a/a6/Vinayak_damodar_savarkar.jpg)  

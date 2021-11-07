@@ -78,6 +78,7 @@ For SARS-CoV-2, this has never been an issue. This virus can be transmitted to a
 - most widespread
 - Lost E484Q.
 - B 1.617.3
+- The AY.4.2 (Delta Plus) variant, which is known to be 10-15% more transmissible than its predecessor, has increased to 11 folds in last two months in India.
 
 ### Vaccines
 - COVAXIN and COVISHIELD have demonstrated early neutralizing efficacy against B 1.617

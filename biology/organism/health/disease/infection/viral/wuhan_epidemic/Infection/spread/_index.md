@@ -4,15 +4,20 @@ title = "Spread"
 
 ## India
 - Third wave expected in Dec.
+
+### Second wave
 - 202104 - 2nd wave. 10th March to 3rd April. 24 days - faster spread.
-  - Variants
-    - B117*UK variant spreading (N India).
-    - Indian variant B 1671 spread in MH and WB.
-    - Bengaluru B 1.36
-    - Sequencing for surveying strains very below-par.
-  - MH, PJ hot states. Mumbai and Delhi severely affected. 47 out of 188 passengers travelled from Newdelhi to Hongkong test positive later who had been negative 72 hours before departure. Countries impose travel restrictions and advisories on India.
-  - Vaccination underway (albeit only Oxford and Covaxin approved.) India has vaccinated only 8% of the population and has tested less than 1% of cases for these mutations.
-  - 4.5% reinfections in MH.
+- Variants
+  - B117*UK variant spreading (N India).
+  - Indian variant B 1671 spread in MH and WB.
+  - Bengaluru B 1.36
+  - Sequencing for surveying strains very below-par.
+- MH, PJ hot states. Mumbai and Delhi severely affected. 47 out of 188 passengers travelled from Newdelhi to Hongkong test positive later who had been negative 72 hours before departure. Countries impose travel restrictions and advisories on India.
+  - By October - Mumbai dwellers 85% of them have antibodies to the virus, majority have received 1 dose.
+- Vaccination underway (albeit only Oxford and Covaxin approved.) India has vaccinated only 8% of the population and has tested less than 1% of cases for these mutations.
+- 4.5% reinfections in MH.
+
+### First wave
 - 202009 - 1st wave peaks.  2nd July to 5th Sept. 65 days.
 
 ### Patterns

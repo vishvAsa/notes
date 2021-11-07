@@ -20,10 +20,10 @@ title = "Ivermectin"
     - ICMR, ICCA
     - Goa - Minister said: every adult over age 18 takes Ivermectin. Cases dropped.
     - UP
-- Mexico - Used early Ivermective. 
+- Mexico - Used early Ivermectin. 
 - Brazil - it crushed p1 variants in certain regions.
 - SA variant in Zimbabwe - crushed.
 - Check + Slovakia - British variant crushed.
 
-## Bad policy
+## Contrary policy
 - MK Stalin of TN outlawed Ivermectin.
