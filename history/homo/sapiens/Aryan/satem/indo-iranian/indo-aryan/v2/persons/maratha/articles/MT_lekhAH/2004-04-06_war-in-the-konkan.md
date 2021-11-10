@@ -32,6 +32,7 @@ liberating much of Konkan region. Soon after that the large-scale Hindu
 revival began in South India under the Harihara and Bukka, and in 1347
 the remaining territory of the Konkan in the province of Malerajya was
 liberated by the assault of Harihara.  
+
 However, the Islamic Jihad was renewed as Alla-ad-din Bahmani declared
 himself Sultan in Gulbarga and initiated an invasion of the Konkan under
 his friend Maliq Saif-ad-din Ghori (“nicknamed the Sword of Islam”), one

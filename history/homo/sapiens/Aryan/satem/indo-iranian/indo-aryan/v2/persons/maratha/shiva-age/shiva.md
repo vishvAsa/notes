@@ -2,7 +2,7 @@
 title: shivAjI शिवराजः
 ---
 
-shiva/ [shivAji](http://en.wikipedia.org/wiki/Shivaji) kShatrapati (6 April 1627 or **19 Feb. 1630** – 3 April 1680)
+shiva/ [shivAji](http://en.wikipedia.org/wiki/Shivaji) kShatrapati (6 April 1627 or **19 Feb. 1630**  – 3 April 1680 Julian)
 
 ## Impact
 - यथान्यैरुक्तम् -
@@ -12,7 +12,7 @@ shiva/ [shivAji](http://en.wikipedia.org/wiki/Shivaji) kShatrapati (6 April 1627
 
 ## Brilliant concept
 - under divine guidance, conceptualized and realized hindu svarAjya (evident even at a young age - see letter written to Dadaji Naras Prabhu at age 15 or 18 [SG-academia](https://www.academia.edu/22259519/Transitions_and_Translations_Regional_Power_and_Vernacular_Identity_in_the_Dakhan_1500_1800_SUMIT_GUHA)), 
-- sought to rid hindusthAna of the mohammedan menace (letter to Jayasimha [archive](https://archive.org/stream/DeliverranceOrTheEscapeOfShivajiTheGreatFromAgra#page/n289/mode/2up), [P1](https://pbs.twimg.com/media/B10P1KzCIAAKDkZ.jpg:large) points 51 to 70, 
+- sought to rid hindusthAna of the Islamist menace (letter to Jayasimha [archive](https://archive.org/stream/DeliverranceOrTheEscapeOfShivajiTheGreatFromAgra#page/n289/mode/2up), [P1](https://pbs.twimg.com/media/B10P1KzCIAAKDkZ.jpg:large) points 51 to 70, 
   - In south: "using the Qutbshah’s resources shivAjI conquered the fort of Gingee and extended his domain into the south ending the careers of several Jihadis and putting a check on the mlechCha-s who were surrounding the coast. As the drAviDa historian of the kOvaLan clan, nArAyaNan kOn put it he restored the rule of law in those regions."
 - had measured regard for brAhmaNa-s taken to other dharma-s ([IMG](https://imgur.com/wSWxvEV)), who convened the [aShTha-pradhAnas](http://en.wikipedia.org/wiki/Ashta_Pradhan), 
 - brought out the best in people ([S1](http://www.sanskritimagazine.com/history/forgotten-heroes-fought-alongside-shivaji/#)),

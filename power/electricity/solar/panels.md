@@ -28,3 +28,16 @@ title = "Panels"
 
 ## Installation
 - 13 deg south slant (considering BLR latitude) to maximize winter production.
+
+## Choosing a brand
+- Field performance anecdotes
+  - Poor performance
+    - 2021 - Vikram Solar panel
+    - 2021 - MV
+  - Good performance
+    - Waree. Good service as well.
+    - Loom
+  - Uncertain
+    - Canadian Solar
+    - Panasonic
+- When panel is not showing guaranteed perforamnce, maintenance from the company may be needed. If so, better to go for companies with good local presence. 

@@ -127,4 +127,3 @@ Unfortunately, God’s grace did not abound. An extremely taxing schedule, inces
 Thankfully, his legacy survived him. A few months after his death, the Rajwade Sanshodhak Mandal (Rajwade Research Institute) was established at Dhule, Maharashtra, and his works and historical collections were preserved there. Among the legions of his disciples, D.V. Potdar, V.S. Bendrey and G.H. Khare are notable.
 
 In the next and concluding part of this series, we will publish some excerpts from Rajwade’s conception of history and his notes on undertaking historical research.
-
