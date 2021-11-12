@@ -34,6 +34,7 @@ Advance tax schedule: [here](https://cleartax.in/s/interest-imposed-by-income-ta
 - The maximum limit for investing in 54EC bonds is ₹50 lakh per financial year, whereas minimum investment is capped at ₹20,000 and ₹10,000 respectively in REC and NHAI bonds. These bonds come with a lock-in period of 5 years (effective from April 2018) and are non-transferable. Both REC and NHAI bonds offer an interest rate of 5.75% per annum, payable annually. Interest earned from 54EC bonds is taxable; however, no TDS is deducted on interest. 
 
 ### Income earned abroad
+-  Income earned through investments and receipts in India is taxable in India.
 - Wealth tax is not applicable on equity - so it's 7 year exemption for NRI-s is pointless there. However, when equity (say within the Roth IRA account) is sold, not much is spent and wealth in excess of Rs 15,00,000 (as of 2019) is generated - that will attract the 1% tax after the 7 year exception for NRI.
 - Issues concerning distributions from US retirement funds - see [usa page](../usa/). 
 
