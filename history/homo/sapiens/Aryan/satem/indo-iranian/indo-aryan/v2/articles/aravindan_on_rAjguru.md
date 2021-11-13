@@ -1,0 +1,45 @@
++++
+title = "Aravindan on Rajguru"
++++
+
+Shivaram Rajguru: The Lesser Known Of The Three Revolutionaries
+
+Snapshot
+
+The woman stood before the death row convict. The convict was a young man, dark complexioned, ordinary looking, bony faced and 5.5 feet tall. “Will you do one last favour to this sister?” she asked, her voice breaking. “Sure, sister, tell me!” he asked smiling. And she asked. “Will you show me those scars?”
+
+***
+
+Three revolutionaries became martyrs for Mother India, this very day in 1930. Of them Shivaram Rajguru is not as well known as Bhagat Singh. Of all the three, including Sukhdev Thapar, Bhagat Singh had charisma and one could say Rajguru had the least of it, physically. Yet this revolutionary was very different and his life at many places touches high poetry of sacrifice and inner strength.+++(5)+++
+
+After avenging the death of Lala Lajpat Rai, through the felling of British police officer John Saunders, Bhagat Singh escaped, posing as a saheb with Durgavati, wife of another revolutionary who posed as a ‘memsaheb’. Rajguru was carrying their luggage and was acting as their servant. Rajguru would stick to his role taking into account every minor detail so much that he would lie down by the side of the railway toilet – typically like a servant of the ‘sahebs’ of those times. No amount of persuasion from Bhagat Singh and Durgavati could change his mind.+++(5)+++ The revolutionary was both a skilled wrestler and a Sanskrit scholar who had studied the Tarka Sastra, and also knew by heart the Lahu Siddhanta Koumudi.+++(5)+++
+
+Rajguru was to get Uttama degree in Sanskrit at Kasi but slowly he was getting attracted to the revolutionary movement. After meeting with Baba Rao Savarkar, the brother of Veer Savarkar, he decided to pursue the path of revolution. He joined Hanuman Prasarak Mandal – an organisation to build physical strength and inculcate mental discipline among the youth. His jovial nature and immense physical strength got him many friends and here he also came in contact with Keshav Baliram Hedgewar- founder of the RSS.
+
+After meeting the firebrand revolutionary Chandrasekar Azad, Rajguru joined the Hindustan Revolutionary Army, which would later become Hindustan Socialist Republican Army (HSRA). The young revolutionaries despised sectarian violence that was fuelled by the British. It had among them a stellar nationalist, Ashfaqullah Khan, who himself became a martyr for Indian independence. They never tolerated communal divide. One of the earliest tasks entrusted to Rajguru by Chandrasekar Azad was the elimination of Hassan Nizami, a Delhi-based communalist. Rajguru’s shot was deadly and accurate, however, the target was wrong. He killed Somali, the father-in-law of Hassan Nizami.+++(5)+++
+
+On 17 December 1928, Rajguru would again pull the trigger of the pistol. The shot would again be accurate and deadly. The bullet pierced the chest of the target and finished him off. Only again the target was wrong. It was not British police officer James Scott whom the revolutionaries had aimed to kill in order to avenge the death of Lala Lajpat Rai. Jai Gopal, one of the accomplices of the revolutionaries, had made a wrong signal to shoot. They had killed another police officer, Saunders. The very next day the revolutionaries in a public proclamation regretted that they had killed a man and yet he too was ‘part of the cruel, despicable and unjust system’. Later while everyone appreciated the marksmanship of Rajguru, he jokingly said that he actually aimed for the head but the bullet hit the chest.
+
+Rajguru might not have been endowed with the physical charisma of other revolutionaries. He himself was aware of that and instead of falling into any complex he joked about it often. Once he had hung a wall calendar of a beautiful painting of a girl. When he was away, Azad tore it into pieces, saying such things did not have a place in the life of a revolutionary. When Rajguru came and found the calendar torn into pieces, he was furious. A heated discussion ensued. When Azad said that beauty having no utility value could be destroyed, Rajguru asked him if he would also demolish Taj Mahal.+++(4)+++ Shaking in anger Azad replied, “Yes, I will if I can.” Rajguru fell silent. Then he spoke softly, “We want to make the world beautiful and that cannot be done by destroying and demolishing the beautiful things.” Now Azad also mellowed down. He too said that he did not actually mean what he said but only that he was overemphasising the need for the revolutionaries to be focused in their aim of getting freedom.
+
+On 7 April 1929, Bhagat Singh was arrested after the Assembly bomb incident. Rajguru had actually fought with Bhagat Singh to accompany him, but Bhagat Singh did not allow that. On 15 April, Sukhdev was arrested after a raid. Rajguru had meanwhile left Kasi and continued to move between Amravati, Nagpur and Wardha. During this time he met Dr Hedgewar and was kept safe by one RSS worker. He also used to visit his brother’s house for meals. During one such visit his mother saw a gun with Rajguru and asked him if it was befitting for a learned pandit like him to carry pistols. Rajguru very sincerely and patiently explained to his aging mother:
+
+> “When Dharma or the nation is in trouble, only arms are useful. The British are inflicting all sorts of injuries and insults on us and I do not expect them to refrain from those acts merely because we are requesting them. If you remember even in Vishnu Sahasranama one of the names of the Lord is ‘SarvaPraharanayudha’ – one who is ever decorated with arms.”
+
+While Bhagat Singh was the most articulate of all the three revolutionaries, there is a possibility that Rajguru though silent and almost invisible was exerting a great influence on the thought processes of all of them. MalwinderJit Singh and Harish Jain in their detailed study of the ‘Jail Notebook’ of Bhagat Singh had pointed out how he had quoted Veer Savarkar from his 'Hindu Pad Padashahi'. Bhagat Singh had picked the following quotes of Veer Savarkar:
+
+> Sacrifice was adorable only when it was, directly or remotely, but reasonably, felt to be indispensable for success. Sacrifice that leads not to ultimate success is suicidal had no place in the tactics of Maratha warfare. But what unresisting martyrdom fails (failed) to do, righteous and resisting force does (did) and (rendered) renders, tyranny impotent to do further harm. Rather get killed than converted ... (was the cry prevalent amongst the Hindus then).
+
+But Ram Das rose and exclaimed:
+
+> “No: not thus: Better get killed than converted is good enough but it would be better so to strive as neither to get killed nor violently converted! by killing the forces of violence itself. Get killed if that must be, but get killed while killing to conquer - conquer in the cause of Righteousness.
+
+Singh and Jain write that those lines of Savarkar “must have been energising to Bhagat Singh as he dug deep to find them embedded in a dense narrative bereft of paragraphs.” In fact, they also point out that the willing martyrdom of Bhagat Singh, Rajguru and Sukhdev was not an emotional act but well executed sacrifice to communicate in a high profile way, using all the media available to them, the message of the freedom struggle to all their countrymen to galvanise them into action. Interestingly, the police also obtained a copy of Hindu Pad Padshahi from Sukhdev also during their raid. The Hindutva classic had been in the reading list of the HRSA revolutionaries. Rajguru’s silent influence on the revolutionaries cannot be ignored.
+
+Rajguru too was arrested on 30 September 1929 by DSP Syed Ahmed Shah. In the prison too, Rajguru awaiting the certain death sentence, was always his humorous self. During the end of the famous hunger strike within the prison, it was Bhagat Singh who took the milk to Rajguru to end his hunger strike and jokingly said to him, “Trying to overtake me, lad?” And Rajguru’s reply made everyone laugh, “I thought I would go early and book a room for you there. But it seems you require my services even during the journey!”+++(4)+++
+
+***
+
+The scars are legendary in the revolutionary circles. After Chandrasekar Azad had described the police tortures that revolutionaries would have to endure, Rajguru had gone to the kitchen and had taken the tong. He made it red hot and then placed it silently on his chest. None was watching. He repeated it seven times. Still he could remain silent. It was only after days that they became boils and as he was moaning in pain during his sleep that Chandrasekar Azad discovered them. Susheela Didi, another great revolutionary freedom fighter who had come to visit Rajguru was asking him now to see those scars. His face becoming brightened at the request, the revolutionary revealed the scars.
+
+PS: Rajguru – The invincible Revolutionary by Anil Verma is a well-researched biography that the great revolutionary deserves. It contains rare photographs and his last letters: Publications Division, 2010, pages 184; Price Rs 122/-
