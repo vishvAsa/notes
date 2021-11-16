@@ -21,6 +21,11 @@ title: Implementation
 - Wednesday morning, Janet buys $10,500 of FAHN on good faith that XYZ's sale will settle.
 - Wednesday afternoon, Janet sells FAHN for $11,000, making a $500 profit. However, FAHN's original purchase wasn't fully paid for because XYZ's sale hadn't yet settled.
 
+#### Account ownership and transfer TD Ameritrade
+> When dealing with a Joint account that has rights of survivorship if the secondary owner passes away all that is needed will be a death certificate to remove the secondary owner. 
+> 
+> If the primary account owner passes away then we would need a standard account opened and a death certificate to move the assets to for the secondary owner.
+
 ### भारतेषु
 #### Post tax
 - Look up symbols in BSE and NSE websites. Sometimes equity is listed in both - only "EQ" is added in symbols to differentiate.

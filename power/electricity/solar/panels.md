@@ -12,7 +12,7 @@ title = "Panels"
 - Annual degradation (as of 2020 tech) - 0.0045x annually (to be compounded during calculation).
 - Solar cell negative temperature coefficient: .003739x/°C (to be compounded during calculation). The cell temperature may go to 70°C (=> .76x efficiency) and the ambient temperature will be 45°C in bengaLUru.
 
-{{< figure src="../../images/solar_panel_temperature_VA_response.jpg" title="" class="thumbnail">}}
+{{< figure src="../images/waree_445/temperature_VA_response.jpg" title="" class="thumbnail">}}
 
 
 ### Variance during day.
@@ -21,13 +21,19 @@ title = "Panels"
 
 {{< figure src="../../images/solar_panel_angle_effects_2pm_295W_inverters.jpg" title="" class="thumbnail">}}
 
-{{< figure src="../../images/solar_panel_waree_395W_irradiation_vs_VI.png" title="" class="thumbnail">}}
+{{< figure src="../images/waree_445/irradiation_vs_VI.png" title="" class="thumbnail">}}
 
 ## Other features
 - Maximum power point tracking MPPT - panels track the sun! 15% increase in winter and up to a 35% increase in summer. MPPT on the inverter side is separate.
 
 ## Installation
 - 13 deg south slant (considering BLR latitude) to maximize winter production.
+
+### Mounting structure
+- Could be elevated or flat on the roof.
+- Prefer corrosion resistant material like aluminum or galvanized steel for exposed parts.
+- 5*6 + 4*3 = 42
+- 4*6 + 4*6 = 48
 
 ## Choosing a brand
 - Field performance anecdotes

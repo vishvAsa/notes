@@ -12,7 +12,7 @@ title = "Lime plaster"
 ### Doot naturals "vedic" brand
 - Their interior and textured wall paint (aka base coat) is said to be completely natural. Their glossy wood paints contain additives. They don't disclose the ingredients.
 - Manufacturer Manoj Doot estimated in 2021 that exterior texture paint lasts atleast 3 years in Bengaluru weather. This would not apply to "interior" paints.
-- Said to be slightly cheaper than regular cheical paint and more health/ environment friendly. But, as of 2021, they shipped in plastic containers (rather than sending powder in a gunny bag).
+- Said to be slightly cheaper than regular chemical paint and more health/ environment friendly. But, as of 2021, they shipped in plastic containers (rather than sending powder in a gunny bag).
 
 #### General applicaiton
 - If chemical paint was applied, it should be removed.
@@ -24,6 +24,9 @@ title = "Lime plaster"
 - The textured paint can be applied to walls and floors.
 - Must use the "putty machine" to mix it well ([video](https://youtu.be/2LmS0A0z7jk)); then apply on surface and spread with a wooden "gurmAla" round and round. Videos [0](https://youtu.be/89VDM0HVtN0), [1](https://youtu.be/mv6ubuWrly8), [2](https://youtu.be/JXbHepCRgl4), [3](https://youtu.be/LfW8VJhR1uw).
 - Application just as a putty on wall was unsatisfactory - much worse on ceilings.
+
+#### Papaya paint
+- Supposedly good clear coat waterproofing paint. Stopped as of 2021.
 
 
 ### Limocoat
@@ -38,3 +41,6 @@ title = "Lime plaster"
 - Romano 140/- per sq ft 
 - Concrete Finish 170/- per sq ft 
 - For Exterior 30 extra for PU Sealer (Only Stucco and Concrete for exterior)
+
+### Gorang
+- emulsion good quality as per ashwin of vRiSha enterprises Hubli 2021.

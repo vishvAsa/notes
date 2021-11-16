@@ -11,8 +11,11 @@ title = "On-grid Bengaluru"
 
 ## System requirements
 - Empanelled equipment list
- - inverters [here](https://bescom.karnataka.gov.in/storage/pdf-files/DSM-Solar/inverter%20empanelled%20list%2029%2009%202021.pdf) .
- - meters [here](https://bescom.karnataka.gov.in/new-page/EMPANELMENT/en).
+- inverters [here](https://bescom.karnataka.gov.in/storage/pdf-files/DSM-Solar/inverter%20empanelled%20list%2029%2009%202021.pdf) .
+  - S-phase, 2 Wire meters [here](https://bescom.karnataka.gov.in/new-page/EMPANELMENT/en).
+    - IRO Solutions 2805 (with .18 VAT) Rs. Calibration fees 200.
+    - Genus Make Energy Meters. Rs. 2680 (with .145 VAT). Calibration fees 200.
+    - HPL Make Energy Meters Rs. 2200 or 2250 (2655 with .18 VAT)  Calibration fees 200.
 - Lightening arrestor (LA) if building is over 50m.
 - AC & DC distribution box with surge protection devices.
 - Manual switch solar side
