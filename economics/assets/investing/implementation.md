@@ -11,8 +11,8 @@ title: Implementation
 ### अमेरिकेषु
 - TD Ameritrade इत्यत्र my account → portfolio planner प्रयोगः पूर्वतटव्यवहारसमये। Use total money to be invested.
 
-#### violation of Reg T, Good faith violation
-- If this happens three times in a 12-month period, a client will be restricted to trading with settled cash for 90 days (TdAmeritrade).
+#### Reg T, Good faith violation
+- For stocks traded on US exchanges, settlement is currently three business days after the trade.
 - Dividend reinvestment (automatic) is technically considered a trade and thus is subject to the same settlement process as a normal trade you would place.
 
 ##### Example
@@ -20,6 +20,10 @@ title: Implementation
 - On Tuesday, Janet sells her entire XYZ position for $10,500, which will settle Thursday.
 - Wednesday morning, Janet buys $10,500 of FAHN on good faith that XYZ's sale will settle.
 - Wednesday afternoon, Janet sells FAHN for $11,000, making a $500 profit. However, FAHN's original purchase wasn't fully paid for because XYZ's sale hadn't yet settled.
+
+##### TD Ameritrade
+- If this happens three times in a 12-month period, a client will be restricted to trading with settled cash for 90 days (TdAmeritrade).
+- Avoid by looking at [My Account > History and Statements > Transactions](https://invest.ameritrade.com/grid/p/site#r=jPage/cgi-bin/apps/u/History) , looking at dividend dates, and possibly temporarily freezing [dividend reinvestment](https://invest.ameritrade.com/grid/p/site#r=drip). 
 
 #### Account ownership and transfer TD Ameritrade
 > When dealing with a Joint account that has rights of survivorship if the secondary owner passes away all that is needed will be a death certificate to remove the secondary owner. 
@@ -29,7 +33,8 @@ title: Implementation
 ### भारतेषु
 #### Post tax
 - Look up symbols in BSE and NSE websites. Sometimes equity is listed in both - only "EQ" is added in symbols to differentiate.
-- upstox order tips: https://www.evernote.com/notelink/Login.action?targetUrl=%2Fshard%2Fs440%2Fnl%2F75394722%2Ff9a8ba31-ac3a-4c70-a836-4ead7b16439b%2F
+- Can invest in several index funds via mutual fund portals - simpler than trading stocks. Can set up monthly "SIP" investment.
+- upstox order tips: [EV Note](https://www.evernote.com/u/0/client/web#?n=f9a8ba31-ac3a-4c70-a836-4ead7b16439b&).
 
 #### Tax saving
 - Explore funds on morning-star : see 5 yr returns, expense ratio

@@ -48,7 +48,7 @@ NAV of a security with the symbol XYZ can often be tracked by looking at the cha
 
 ## Exchange Traded Funds (ETF’s)
 
-Ownership of some funds is shared, and these shares can often be traded in the stock exchange. The value of the ETF shares should reflect the value of the underlying securities in which it has invested, and the belief in the skill of the fund manager, in case of actively managed funds.
+Ownership of some funds is shared, and these shares can often be traded in the stock exchange. The value of the ETF shares should reflect the value of the underlying securities in which it has invested, and the belief in the skill of the fund manager, in case of actively managed funds. (ETFs may be index funds or actively managed funds.) 
 
 Because index-tracking funds’ investment positions are more readily available, their prices on the stock market more closely reflects the evaluation of the underlying securities - ie. they have less tracking error.
 
@@ -89,6 +89,12 @@ Old note: ETFs corresponding to CNX 500 are not available. ETFs corresponding to
 ## Money market funds
 
 Money market funds are very safe funds which, among other things, focus on making low-risk short-term loans to businesses on the commercial paper market.
+
+## Dividend handling
+- Equity held by the fund pays out dividends. How is this handled?
+- In "Growth funds", dividends are reinvested by the manager to by more stocks and increase net asset value (NAV) of the fund. The investor does not receive more shares, but their shares of the fund increase in value.
+- In "Dividend Reinvestment" funds/ options, dividend is automatically used to increase the investor's share of the fund.
+- In "Dividend payout" option, dividend is passed on to the investors.
 
 ## Critique
 

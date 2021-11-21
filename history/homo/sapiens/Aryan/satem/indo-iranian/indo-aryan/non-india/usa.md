@@ -4,6 +4,7 @@ title = "USA"
 
 ## jAti
 - Roughly half of all Hindu Indian Americans identify with a caste group. Foreign-born respondents are significantly more likely than U.S.-born respondents to espouse a caste identity. The overwhelming majority of Hindus with a caste identity—more than eight in ten— self-identify as belonging to the category of General or upper caste.
+- private surveys show that 25% of indian americans are brahmins. that's .25 of 3 million, so 750,000 brahmin americans. skewed to south indian brahmins and perhaps bengali brahmins. 4.31% of indian pop in 1931. conservative to assume 4% of hindus today, 33 million in india
 
 ## Indian affiliation
 While 86 percent of Hindus report identifying with some kind of “Indian” identity, 71 percent of Christians and 52 percent of Muslims do the same. Relative to Muslims, Christians and Hindus are equally likely to self-identify as “Indian American” (47 percent each versus 32 percent for Muslims), and Hindus are substantially more likely to self-identify as “Indian” (32 percent versus 17 percent for Christians and 12 percent for Muslims). On the other hand, Muslims are much more likely to self-identify as “South Asian” (27 percent compared to 7 percent of Christians and 5 percent of Hindus). Finally, Christians are more likely to self-identifyas “American” without any hyphenation (9 percent versus 6 percent for Muslim and 4 percent for Hindus).
