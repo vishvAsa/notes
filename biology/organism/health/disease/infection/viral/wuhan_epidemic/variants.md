@@ -29,7 +29,7 @@ For SARS-CoV-2, this has never been an issue. This virus can be transmitted to a
 - Brazil used Chinese Sinovac vaccine which has lesser protection against the mutants.
 
 
-## UK B.117
+## B.117 UK
 - VOC-202012/01, 20I/501Y.V1
 
 ### Mutations
@@ -48,7 +48,10 @@ For SARS-CoV-2, this has never been an issue. This virus can be transmitted to a
 ### Vaccination
 - See UK data under B 1.617
 
-## South Africa 501.V2, 20H/501Y.V2,  B.1.351 lineage
+## B.1.1.529 Nu South Africa
+- Outcompeting Delta variant.
+
+## 501.V2, 20H/501Y.V2,  B.1.351 lineage South Africa
 - spreading faster,tends to have high viral load and possibly more severe to young adults.
 - Mutations: N501Y E484K. 
 - Preliminary data from South Africa suggests that the novel variant 501.V2 wasn't recognised by antibodies in 21/44 serum samples collected from people infected in the first wave.
@@ -63,8 +66,7 @@ For SARS-CoV-2, this has never been an issue. This virus can be transmitted to a
 ## NY B 1.526
 - ability to escape from antibodies and vaccines.
 
-## mahArAShTra B 1.617
-- Aka Delta variant.
+## B 1.617 Delta  mahArAShTra
 
 ### Mutations
 - Mutation L526R found in California makes it spread faster.
@@ -95,17 +97,15 @@ For SARS-CoV-2, this has never been an issue. This virus can be transmitted to a
 - Lesser numbers of asymptomatic cases.
 
 
-## bengAl B 1.618
+## B 1.618 bengAl
 - It has a mutation(E484K) that is notorious to cause escape to vaccines.
 
 
-## India B 1.36
+## B 1.36 India
 - It has N440 mutation which might be the reason for some of the re- infections described.
 
-## AP variant N440K
+## N440K AP variant
 - Supposedly more infectious. But reports indicate that it's been swamped by B 1.671.
-
-## Lambda variant Peru
 
 ## Comparisons
 - B117 Alpha—29% faster
