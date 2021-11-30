@@ -1,0 +1,14 @@
++++
+title = "Cannabis"
+unicode_script = "devanagari"
++++
+
+(Source: https://threader.app/thread/1465167895969865738)
+
+There was discussion on cannabis legalization where one side felt it was safer than smoking tobacco & the other it was triggering mental illness & dangerous behavior. Just posting some stuff which is mostly common knowledge but apparently those in that argument did not seem to know. Just parking that bAlabodhana here in case someone else is interested. 
+
+First for some anatomical background: There is this part of the mammalian brain shown in red in the below pic where much of the action that concerns us happens. It's called the striatum. There is a key signaling pathway that occurs in the neurons in that structure mediated by a neurotransmitter called dopamine shown below. It is type of compound called catecholamine (if you recall your school chemistry, you will see those groups). It signals between neurons by binding to a receptor which is on the membrane of the receiving neuron & it activates a signaling cascade inside the cell which involves a key enzyme called AKT1 which adds phosphate groups to other proteins. This cascade is activated by delta-9-tetrahydrocannabinol the major active compound in cannabis. 
+
+The next thing to consider is the genetics. Not surprisingly variation in the AKT1 gene is associated with psychosis when combined with cannabis use. For example the rs2494732 variation in AKT1: here the position can be T/T; T/C; C/C on the DNA the last has a > 2x odds of psychosis upon cannabis use.+++(5)+++ That goes up to 7x odds of psychosis with daily use. Moreover, genetic variation at the dopamine transporter gene, SLC6A3 & combined with the AKT1 rs130233 G/G phenotype there is again heightened odds of psychosis on cannabis use. There is more, but to conclude another notable gene: COMT catechol-O-methyltransferase which can modify catecholamines like dopamine. A mutation causing a change in this enzyme the V/V where both copies of the individual are V greatly increases risk of psychosis with cannabis. This variant of the enzyme causes increased dopamine catabolism & reduced dopamine signaling apparently associated with multiple memory & psychotic situations. 
+
+Hence, it is possible that indeed cannabis use could aggravate preexisting tendencies. To conclude, while I'm not for banning any substance, regular cannabis use might not be a good idea due to apparent observed reduction of IQ.+++(5)+++ Also today one could check one's genotype before using.+++(5)+++ Hence it is best use primarily for medical rather than recreational purposes.
