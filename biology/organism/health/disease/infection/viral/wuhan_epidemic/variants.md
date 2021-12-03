@@ -48,8 +48,9 @@ For SARS-CoV-2, this has never been an issue. This virus can be transmitted to a
 ### Vaccination
 - See UK data under B 1.617
 
-## B.1.1.529 Nu South Africa
+## B.1.1.529 Omicron South Africa
 - Outcompeting Delta variant.
+- WHO skipped Nu and Xi while naming this :-). 
 
 ## 501.V2, 20H/501Y.V2,  B.1.351 lineage South Africa
 - spreading faster,tends to have high viral load and possibly more severe to young adults.
