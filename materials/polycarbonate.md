@@ -2,8 +2,9 @@
 title = "Polycarbonate"
 +++
 
-## Cons
+## Lifetime
 - Degrades with time and exposure to sunlight.
+- Solid sheet is guaranteed to endure at least 10 years, while twin wall sheet is guaranteed to last 5-8 years.
 
 ## Compact clear
 - Prone to scratches if used outside house.

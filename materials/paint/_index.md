@@ -34,3 +34,6 @@ unicode_script = "devanagari"
   - GreenPro certified; Gold certified GreenCo.
   - Does not contain any added lead, mercury or chromium compounds. Lead content does not exceed 90 parts per million.
 
+## Generic
+- Asian paints clear coat - 600 / L
+- Asian paints 1L concentrate - About 200 / L

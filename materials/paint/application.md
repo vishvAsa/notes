@@ -14,7 +14,11 @@ title = "Application"
 - Apply further coat.
 - Clean up unintended paint drops with a cloth or "brush" or thinner.
 
-## Brush cleaning
+## Brush and rollers
+- Roller handles and sponges are oft sold separately. 
+  - Sponge needs to be replaced if soiled or dried or loose. 20 Rs in 2021. 
+
+### Cleaning
 - hardware store turpentine, mineral oil, or odorless paint thinner help remove paint off the brush before storage.
 - Or keep the brush wet by leaving dipped in a pail of water.
 
