@@ -28,11 +28,7 @@ Governence, politics, war, civil reform.
 - bhagIratha, whose stupendous determination brought ganga to the earth and pAtAla, liberating his forefathers.
 - janaka, knower of brahman, patron of brAhmaNa-s.
 - [rAma](http://en.wikipedia.org/wiki/Rama), rAjA of ayodhyA, maryAdA-puruShOttama, keeper of the dharma, the symbol of family-consciousness.
-    - On his abandonment of sItA: uttarakANDa is probably a a later insert into the epic. Nevertheless, rAma gets criticized in sanskrit literature (eg: kAlidAsa puts regret in rAma's mouth in raghuvaMsha). Also, a fair analysis [here](http://prekshaa.blogspot.com/2010/03/abandoning-of-sita.html?m=1). 
-    - Killing the shUdra sage shambuka for the protection of dharma: A simple jAti-tapas dissociation does not fit well with the character who gladly eats fruit soiled by shabarI, who embraces guha the king of niShAda-s.
-        - nArada's statement: "“...a man of the lowest caste may not give himself up to penance in the Dwapara Yuga; it is only in the Kali Yuga that the practice of asceticism is permitted to the Shudra caste."  
-
-        - Wiki: "The apologetics[\[7\]](https://en.wikipedia.org/wiki/Shambuka#cite_note-7) firstly argue that not all tapas is done for a pious purpose. [Ravana](https://en.wikipedia.org/wiki/Ravana "Ravana"), a Brahmin killed by Rama, had also performed penance but not for pious reasons. They argue that Shambuka was killed for conducting penance with a motive of attaining a celestial power with his material body, which is not an unselfish motive for which penance is meant to be performed. It is particularly forbidden (e.g. story of [Trishanku](https://en.wikipedia.org/wiki/Trishanku "Trishanku")) in [Hindu mythology](https://en.wikipedia.org/wiki/Hindu_mythology "Hindu mythology") to aspire for entering heaven with a material body. The belief is that the material body, i.e. Annamaya [Kosha](https://en.wikipedia.org/wiki/Kosha "Kosha"), is mortal and is meant only for performing ones [Karma](https://en.wikipedia.org/wiki/Karma "Karma") on earth."
+    - On his abandonment of sItA: uttarakANDa is probably a later insert into the epic. Nevertheless, rAma gets criticized in sanskrit literature (eg: kAlidAsa puts regret in rAma's mouth in raghuvaMsha). Also, a fair analysis [here](http://prekshaa.blogspot.com/2010/03/abandoning-of-sita.html?m=1). 
 - vibhIShaNa, who defected to do the right thing.
 - satya-[harIshachandra](http://en.wikipedia.org/wiki/Harishchandra), who did not forsake the truth.
 
