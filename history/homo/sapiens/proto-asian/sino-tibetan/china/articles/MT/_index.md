@@ -1,4 +1,4 @@
 +++
-title = "+Cochran Gregory"
+title = "+MT"
 unicode_script = "devanagari"
 +++
