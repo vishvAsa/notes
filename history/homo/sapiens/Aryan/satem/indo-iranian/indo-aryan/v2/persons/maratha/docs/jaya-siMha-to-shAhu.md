@@ -15,5 +15,4 @@ So far we have expelled the faujdars and qiledars from Amber and Jodhpur, and ha
 Your Highness is the Sardar of the Deccan. The honour of all the Hindus is one and the same. Hence, you take such measures that just as by entangling Patshah Alamgir in the Deccan, the honour of Hindustan was upheld, in the same manner this Patshah too should not be able to extricate himself from there.+++(5)+++ Earlier, Your Highness’ servants +++(referring to rAmachandra-pant amAtya, santAjI, dhAnAjI etc.. after 1689)+++ had accomplished this much, but now you yourself are there. Kam Baksh is also in Bijapur, Haidarabad. In alliance and in consultation with him, you will no doubt do what you think is proper, so that the Hindus have an upper' hand in this conflict. What more shall I write.
 
 
-(In the margin) “It has often been said that Alamgir was displeased with Raja Ram Singh on account of Shivaji’s case, and did not forget the hostility of Maharaja Jaswant Singh
-towards him. He retained in his heart ill-feeling on that account. Now we have to see to it.
+(In the margin) “It has often been said that Alamgir was displeased with Raja Ram Singh on account of Shivaji’s case, and did not forget the hostility of Maharaja Jaswant Singh towards him. He retained in his heart ill-feeling on that account. Now we have to see to it.
