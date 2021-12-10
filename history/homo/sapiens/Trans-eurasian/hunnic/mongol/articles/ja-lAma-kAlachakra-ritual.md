@@ -1,0 +1,5 @@
++++
+title = "Ja Lama kAlachakra ritual"
++++
+
+To boost his spiritual power in the eyes of followers, from time to time, Ja-Lama visualized and merged with the powerful god Mahakala, one of the “eight terrible ones, defenders of the Buddhist faith.+++(4)+++ He was also prone to literal interpretations of Tibetan Buddhist mythology and iconography. After the victory over the Chinese at Kobdo, Ja-Lama performed a public tantra session for his warriors. It was scripted according to ancient Kalachakra texts and involved a sickle, skull cups, blood, and hearts ripped out from the chests of the enemies. During this ceremony, Ja-lama, in a trance, turned into wrathful Mahakala, using the blood and hearts of prisoners to fill his skull cup the way Mahakala was portrayed doing on sacred scrolls. When a representative of the Bogdogegen rode into the crowd and confronted Ja-Lama with orders from the Bogdo-gegen to stop the ritual, he was killed in the ensuing melee. By morning, mixed with blood and soil, the sparks of civic notions lay dead, sacrificed to the altar of faith and race.
