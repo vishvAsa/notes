@@ -117,7 +117,7 @@ no doubt, but, evea at that age the ponderous volumes
 in his father's library impressed him more. One 
 book particularly attracted his fancy. He had heard 
 his father reading the sonorous periods of Bana's 
-Kadamhari and believing the book to be no more difficult than the holy Sanskrit verses he was set to recite 
+Kadambari and believing the book to be no more difficult than the holy Sanskrit verses he was set to recite 
 every evening, he went up to his father and asked for 
 the loan of the book. Startled with the request, but unwilling to dispirit his son by a curt refusal Gangadharpant promised to give the book on one condition. A 
 knotty problem in Arithmetic was set ; Bal was to 
