@@ -98,6 +98,8 @@ Dermatological
 - Intro [elsewhere](../../../diagnosis/).
 - "The current RT-PCR has a sensitivity at best of 70 percent with a turn around time of 120 minutes."
 - For RT-PCR tests, rectal stools/swab, urine, and plasma were less sensitive while sputum (97.2% [90.3%-99.7%]) presented higher sensitivity for detecting the virus.  [pubmed](https://pubmed.ncbi.nlm.nih.gov/32659413/)
+- The CT (cycle threshold) value indicates the number of cycles in the RT-PCR test which are needed to amplify viral RNA to a detectable level. A low CT value (less than 25) indicates a high viral load and it significantly improves the chances of genomic sequencing. If the CT value is high, then sequencing becomes difficult.
+￼
 
 #### Crisper based
 - A Crisper based diagnostic testing tried out in Thailand offers 97-100 percent sensitivity to detect the virus and has a turn around time of 75 minutes.

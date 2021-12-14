@@ -36,7 +36,7 @@ A diamond of वत्सगोत्र mined from the blessed दीक्ष�
 - UT Vīrarāghavācārya was one of the main authors of 20th c. #ViśiṣṭādvaitaVedānta, who edited and commented on a huge amount of texts (from Yāmuna's Siddhitraya to Meghanadāri's Nayadyumaṇi and from Rāmānuja's ŚrīBh together with Sudarśana Sūri's Śrutaprakāśikā to Veṅkaṭanātha's RTS, Nyāyasiddhāñjana, Tattvamuktākalāpa, Nikṣeparakṣā, Saccaritrarakṣā, Śrīpañcarātrarakṣā and Gītārtharakṣā), apart from his own autonomous philosophical production in Sanskrit (e.g., he composed an Upayuktamīmāṃsā).
 - He was prolific, called Abhinava Desikan.
 
-- born in a village called UTTAMUR (Uttamanallur), 10 miles away from Madurantakam town, Chingleput Dist. In Tamil Nadu, as the son of Sri. U. Ve. SRINIVASARAGHAVA CHAKRAVARTI SWAMI, who was the EkAdhipati of the village at that time. He was well known for his family background, wealth, Achara, Anushtana, Knowledge, etc.
+- born in a village called UTTAMUR (Uttama-nallur), 10 miles away from Madurantakam town, Chingleput Dist. In Tamil Nadu, as the son of Sri. U. Ve. SRINIVASARAGHAVA CHAKRAVARTI SWAMI, who was the EkAdhipati of the village at that time. He was well known for his family background, wealth, Achara, Anushtana, Knowledge, etc.
 - Without sending the child to a regular village school, the father himself taught his son the Gadya-Padya Kavyas and also Arithmetic, English and Tamil.
 - At that age itself the illustrious father found the extraordinary talent of the boy, his son, in Sahityas and also found his keen intellect and sharpness in learning. At the age of Thirteen, Sri Swami’s marriage was performed.
 - his parents decided to settle in Madurantakam town for the dual purpose of worshipping Sri Raman anshrined at Madurantakam temple and also to admit his son in the Sanskrit patasala there.
@@ -47,6 +47,12 @@ A diamond of वत्सगोत्र mined from the blessed दीक्ष�
 - Sri Koliyalam Swami instructed him in uttara-mImAMsA.
 - Went on a pilgrimage of N India. They used to travel during nights and during daytime stay in wayside Vaishnavite villages and spent the day doing Upanyasams on Sri Desika Sampradaya in Sanskrit while the local pandits translated the same in local languages, to the audience. This took four months for them to reach Calcutta.
 - Returned south, started publishing lots of books.
+
+## श्रीरङ्ग-महागुरुः
+- पिता - Thirumala-charya Nallanchakravarthy । माता रुक्मिणी। 
+- हेडतले-ग्रामस्थो योगि-सिद्धः। सङ्गीते निपुणः। नाडिविद्या-निपुणः।  
+- गृहस्थो ऽपि पिताऽप्य् आरामवान् अपि बहुभ्यो दीक्षाम् अददात् समाधिस्थितेर् अप्य् अनुभवम्।  रङ्गप्रियस्वामिनो गुरुर् विशिष्य। 
+- मधुमेहेन मृतः। 
 
 ## हस्तिगिरि-अण्णन्
 - genius born at काञ्चिपुर, TN; grew up to become a terror to intellectual foes (प्रतिवादि भयंकर अण्णङ्गराचार्य); wrote the beloved वेङ्कटेश सुप्रभातम् & also वेङ्कटेश (स्तोत्रम् + प्रपत्ति + मङ्गलाशासन) & disciple of the legendary मणवाळमामुनि.

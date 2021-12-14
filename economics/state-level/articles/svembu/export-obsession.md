@@ -1,0 +1,14 @@
++++
+title = "Export obsession"
++++
+(Source: https://threader.app/thread/1469817150302867460)
+
+India runs a trade deficit and so India needs to export more. We need to learn from East Asia. With that said, I will explore the consequences of export obsession (also known as mercantalism). First, I want to thank @michaelxpettis and [the book](https://www.goodreads.com/book/show/52009042-trade-wars-are-class-wars) … 
+
+A developing country starts exporting manufactured goods when its workers are able to produce more than they consume. In the early stages when there is a labor surplus, that excess productivity does not lead to higher wages for workers but higher profit for companies.+++(4)+++ The higher profit results in higher capital investment, funded by profits from exports, which leads to capital-goods imports from abroad. That fuels further increases in worker productivity.Normally wages rise to catch up with productivity and consumption and imports go up. 
+
+Mercantalist nations in East Asia did not let wages rise fast enough to catch up with productivity.+++(4)+++ As a result they had persistent export profits and trade surpluses, well above the need for capital investment by their industry.What happened to those surpluses? Unspent trade surpluses piled up as dollar reserves and that led to rapid credit creation in their domestic banking systems through the magic of fractional reserve banking multiplier. With ongoing wage suppression, the result was a massive infrastructure boom in East Asia. 
+
+With prolonged wage suppression, which led to lower consumption and lower imports, trade surplus to credit boom to infrastructure boom became a way of life. Eventually excess credit entered their domestic housing markets and caused a massive increase in home prices. East Asian wages which lagged productivity could not keep up with house prices, which were boosted by rapid credit creation, which itself was fueled by trade surpluses that became reserves.+++(4)+++ Rising real estate prices have had serious negative effects on demographics.+++(5)+++ Throughout East Asia (and in export oriented urban India!) rapid house price inflation means expensive homes and young people not being able to marry. In China, marriage rates have sunk to an all time low now. Japan has a big population of never-married middle age people. 
+
+The price East Asia paid for its export obsession through wage suppression is lower living standards than their productivity allows (tiny apartments in Japan, workers living in dorms in China), rapid house price inflation and very low birth rates. +++(5)+++ I hope India avoids this. 🙏 
