@@ -45,9 +45,9 @@ title = "+Filter"
 
 ### .1 micron
 - Aka Microfiltration
-- Ceramic filters - 0.2 microns pores
+- Ceramic filters (Used in old water filter candles) - 0.2 microns pores
 - Sediment cartridges come in .1 microns (Filterkart) as of 2020. Sediment cartridge gets chalked over time with sand, silt, rust etc. (if good quality). [Filterkart vid](https://www.youtube.com/watch?v=qxYqCq7vAFE). 
-- very high effectiveness in removing protozoa (for example, Cryptosporidium, Giardia); moderate effectiveness in removing bacteria (for example, Campylobacter, Salmonella, Shigella, E. coli); not effective in removing viruses (for example, Enteric, Hepatitis A, Norovirus, Rotavirus); not effective in removing chemicals.
+- very high effectiveness in removing protozoa (for example, Cryptosporidium, Giardia); moderate effectiveness in removing bacteria (for example, Campylobacter, Salmonella, Shigella, E. coli); not effective in removing viruses (for example, Enteric, Hepatitis A, Norovirus, Rotavirus); removes microplastics, not effective in removing chemicals.
 
 ### .01 micron
 - Water is forced to flow through insides of small hollow fibers
@@ -58,7 +58,7 @@ title = "+Filter"
   - .01 micron pores -[Filterkart vid](https://www.youtube.com/watch?v=NBANA4N1wLs)
 - very high effectiveness in removing protozoa (for example, Cryptosporidium, Giardia), bacteria (for example, Campylobacter, Salmonella, Shigella, E. coli); moderate effectiveness in removing viruses (for example, Enteric, Hepatitis A, Norovirus, Rotavirus); low effectiveness in removing chemicals.
 
-### Nanofiltration (NF)
+### .001 micron Nanofiltration (NF)
 - Good for low TDS
 - Smaller (nanometer) pores than microfiltration and ultrafiltration; just larger than RO membranes.
 - can "soften" water by retaining scale-forming, hydrated divalent ions (e.g. Ca2+, Mg2+) while passing smaller hydrated monovalent ions.

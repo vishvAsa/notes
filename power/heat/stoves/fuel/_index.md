@@ -12,6 +12,7 @@ unicode_script = "devanagari"
 ### Cooking 
 - heat given off cannot be easily adjusted - cooking requiring simmering is more difficult.
 - The burning tablets are sensitive to wind, so a simple windscreen should be used. Eg. a cup.
+- 45 min using 10-15min tablets sequentially to cook rice (faster if rice is presoaked for 2 hours). 
 
 ### Safety
 - Not to be ingested 
