@@ -4,7 +4,7 @@ title: Portfolio
 
 ## Summary
 
-Also see [implementation summary](implementation.md).
+Also see [implementation summary](../implementation).
 
 - Pick a simple asset allocation model, stick to it, rebalance occasionally.
   - Possibly put a small portion of money in high-risk high-reward places. (NN Taleb's barbell strategy.)
