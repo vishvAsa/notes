@@ -2,7 +2,30 @@
 title: Wood Stove
 ---
 
-## Cubes with 1 side open
+## Desiderata
+- Protection from wind
+- Fuel supply
+  - Continuous supply mechanism is better.
+- Air supply
+  - Bottom, top, sides in case of gasification.
+- Chimney effect support
+- Portability
+- Pot support
+- Life
+  - Small gauge Iron wires degrade with use
+- Repairability
+
+### Gasification
+- Aka wood gas.
+- Gasifiers can separate gas generation from gas combustion in space and time. In a reactor (gas generator) that is optimized for heat-dependent drying and pyrolysis, solid biomass is first converted into gases and vapors. These are guided into a combustion zone (gas burner) where they are burnt with a surplus of oxygen from a secondary air inlet.
+- In a conventional fire the heat is controlled by regulating the fuel supply: the more fuel we add, the more heat we generate, provided sufficient air is available for the combustion. Gasifiers control and optimize both fuel and air supply.
+- Gasifier stoves are currently the cleanest burning option to burn solid biomass in a cook stove. The “gas burner” provides the convenience and efficiency similar to cooking on fossil gas with very little soot and other emissions.
+- Heat output is not easy to regulate.
+
+### Design patterns
+- Provide holes below 
+
+## Cubes with top side open
 - If the combustion area is large enough and not cramped, equivalent to burning wood out in the open. Or in principle equivalent to a "Cube with 2 sides open" type stove with pot on top.  
 - Example: traditional homa-kUNDa-s (Idealized).  
 
@@ -33,7 +56,7 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
    You can adjust the speed of the fan, or use it for initial jwalanam, then switch off. 
    I think this will be more useful where charu, apoopa etc are offered as havis."
 
-## Cube with 2 sides open
+## Cube with top + 1 sides open
 ### Characteristics 
 - Relatively inefficient burning - tends to produce charcoal besides ash, quite a bit of smoke.
 - Indian cooking smoke (indoor) said to equal 20 cigarettes a day (source: prakti promotional video).
@@ -42,11 +65,15 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 ### Realizations
 - mud stoves cost 250 Rs in 2018 and lasted 6 months.
 
-## Cube with 2 sides open + holes for ventilation at the bottom and sides
-### Realizations
+### Modifications
+- Collapsible
+  - Disadvantage - need to wait to cool down before disassembly. A hazzle. 
+
+#### Ventilation at the bottom and sides
+##### Realizations
 - Prakti woodstove.
 
-### Characteristics 
+##### Characteristics 
 - Relatively efficient burning. 70 to 90% less smoke compared to basic "Cube with 2 sides open". (Numbers from prakti woodstove videos 2018.) Is this still equal to 2 cigarettes a day (going by prakti promotional videos)?
 
 
