@@ -275,7 +275,7 @@ We have said before that Dharma is based on work. The nature of the
 Dharmika is constant performance of action with efficiency. Why, even
 the opinion of some Mimamsakas is that those parts of the Vedas which do
 not enjoin work are not, properly speaking, Vedas at all. One of the
-aphorisms of Jaimini runs "आम्नायस्य क्रियार्थत्वादानर्थक्यमतदर्थानाम् —
+aphorisms of Jaimini runs "आन्नायस्य क्रियार्थत्वादानर्थक्यमतदर्थानाम् —
 The purpose of the Vedas being work, those parts of the Vedas that do
 not deal with work miss the mark."
 

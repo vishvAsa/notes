@@ -14,12 +14,36 @@ aaa  aba  abba
 ```
 
 ## Iterate over files
-### Replace text
+### Find text
 ```
-for fpath in pg`**baz*`:
+import regex
+for fpath in pg`**/*.md`:
     if not fpath.is_file():
         continue
-    fpath.write_text(fpath.read_text().replace('foo', 'bar'))
+    try:
+      matches = regex.findall("म्([चछजझञ])", fpath.read_text())
+      if len(matches) > 0:
+        print("%s - %s" % (fpath, len(matches)))
+    except:
+      print("Error with %s", fpath)
+```
+
+
+### Replace text
+```
+import regex
+for fpath in pg`**/*.md`:
+    if not fpath.is_file():
+        continue
+    try:
+      pattern = r"म्([चछजझञ])"
+      ftext = fpath.read_text()
+      matches = regex.findall(pattern, ftext)
+      if len(matches) > 0:
+        print("%s - %s" % (fpath, len(matches)))
+        fpath.write_text(regex.sub(pattern, r"ञ्\1", ftext))
+    except:
+      print("Error with %s", fpath)
 ```
 
 ### Run commands

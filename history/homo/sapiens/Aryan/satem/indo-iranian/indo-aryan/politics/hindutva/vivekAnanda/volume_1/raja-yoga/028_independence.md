@@ -415,7 +415,7 @@ is going on. So this combination of the mind is for the Purusha.
 
 Through discrimination the Yogi knows that the Purusha is not mind.
 
-तदा विवेकनिम्नं कैवल्यप्राग्भावं चित्तम् ॥२५॥
+तदा विवेकनिन्नं कैवल्यप्राग्भावं चित्तम् ॥२५॥
 
 25\. Then, bent on discriminating, the mind attains the previous state
 of Kaivalya (isolation). (There is another reading —

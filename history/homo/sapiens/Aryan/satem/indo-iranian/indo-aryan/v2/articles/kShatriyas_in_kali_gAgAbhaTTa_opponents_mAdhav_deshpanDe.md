@@ -1,4 +1,4 @@
-﻿+++
++++
 title = "Kṣatriyas in the Kali Age"
 +++
 

@@ -18,7 +18,7 @@ title = "Ritual plants"
 -  not to be confused with the similar looking Chinese lantern tree, Dichrostachys cinerea, which can be told apart by its flowers.
 
 ## पलाशः
-- सुश्रवाः इति। Butea monosperma. muttuga/ ಮುತ್ತುಗ. पर्णः। किंशुकः (यद्य् अपि तेन नाम्ना वृक्षान्तरम् अपि प्रसिद्धम्)। 
+- सुश्रवाः इति। Butea monosperma. muttuga/ ಮುತ್ತುಗ. पर्णः। किंशुकः (यद्य् अपि तेन नान्ना वृक्षान्तरम् अपि प्रसिद्धम्)। 
 - 3 big leaflets per leaf
 - Flame red flowers. 
 
