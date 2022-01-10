@@ -10,4 +10,3 @@ title = "+Infection"
 
 ## Testing at scale and at key points
 Rapid but crude tests - "At as low as $1 per test, (rapid paper) tests could be administered at the entrance to schools, and some could be taken at home. To control the virus and help reopen schools, we need 20 million tests per day, so that people can tell if they are contagious before they infect others."
-

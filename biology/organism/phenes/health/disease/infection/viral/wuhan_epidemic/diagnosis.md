@@ -105,11 +105,26 @@ Dermatological
 - A Crisper based diagnostic testing tried out in Thailand offers 97-100 percent sensitivity to detect the virus and has a turn around time of 75 minutes.
 
 
-### Paper antigen tests
+### Antigen tests
+- detect small viral proteins ( antigens).
+- The tests require rubbing a shallow nasal swab inside your nostrils and then exposing the swab to a few drops of chemicals. They provide results in about 15 minutes.
 - Rapid, inexpensive paper strip tests can tell you whether you are contagious. Research shows that if taken frequently, these tests will drive down infections. [RT](https://www.rapidtests.org/) 
 - ICMR [advisory](https://www.icmr.gov.in/pdf/covid/strategy/Advisory_for_rapid_antigen_test14062020.pdf), validated kits [here](https://www.icmr.gov.in/pdf/covid/kits/List_of_rapid_antigen_kits_29102020.pdf).
-- Tackling false positives - use different antigen test strip.
 - Maximum duration for interpreting a positive or negative test is 30 minutes. After that the test strip should be discarded.
+
+## Accuracy
+- False negatives 
+  - Rapid antigen tests, which do not amplify the virus, are less sensitive than P.C.R. tests.
+  - Good at flagging people who have high viral loads
+  - overall sensitivity of roughly 85 percent. In some studies, their real-world performance has been even lower.
+  - False negatives more likely during the earliest phase of an infection.
+  - tests are more sensitive in people with symptoms than without and are most sensitive during the first week of symptoms
+  - Compensation by repitition -  "tested infected college students and employees every three days, rapid antigen tests successfully identified 98 percent of infections, on par with P.C.R. tests."
+  - home kit sensitivity during tests is more accurate when taking throat swab along with nasal cavity swab.
+- False positives 
+  - highly specific, which means that they generate relatively few false positives.
+  - positive result is more likely to be a false positive when the prevalence of the virus is low
+  - Tackling false positives - use different antigen test strip.
 
 ## Severity tests
 ### Blood tests

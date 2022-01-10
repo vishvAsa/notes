@@ -21,7 +21,9 @@ title = "+Treatment"
 
 ### Vishvas's preferred protocol
 - Same as FLCCC protocol.
+- Recall disease progression.
 - Ivermectin at the first symptom. Details [here](ivermectin).
+- Immunomodulator, anti-inflammatory fluvoxamine seems useful.
 - In case of slippage to the second phase - steroids and blood-thinners (see Matthew Varghese protocol).
 
 ### Mathew Varghese protocol

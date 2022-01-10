@@ -15,8 +15,9 @@ title = "Immune suppression"
 ## Steroids
 - Hacky cough, pneumonia, infection due to Blood clotting in veins due to antibodies attacking own cells etc.. requires dampening immune system (steroids) and using blood thinners. 
 - 5 day course:
+  - Methylprednisolone
+    - 1mg/kg daily for 5 days followed by slow taper or  escalation according to patient response.
   - Budesonide (see [symptom management](../symptom-management) page)
-  - Methylprednisolone 32mg once daily
   - Dexamethasone 8mg (6mg salt) once daily
 - While Dexamethasone is now proven to be beneficial at late stages, Interferon (IFN-1) administration early on likely to save lives.
 - (Systemic) Corticosteroids. Alternatives below ("No clear differences in efficacy or adverse effects between different corticosteroids"):
