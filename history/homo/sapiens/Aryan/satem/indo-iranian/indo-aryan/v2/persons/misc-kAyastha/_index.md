@@ -1,4 +1,4 @@
 +++
-title = "+Militant"
+title = "+Misc kAyastha"
 unicode_script = "devanagari"
 +++
