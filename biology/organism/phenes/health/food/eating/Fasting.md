@@ -24,6 +24,11 @@ Eat only within an 8hr window. Fast the remaining 16 hours.
 
 ### Timing
 - "Most people start the timing of their fast directly after their last meal, i.e. the post-prandial state, when the stomach and intestines are absorbing nutrients from food. However, it's only after complete digestion and absorption of a meal (Post prandial state), 4-6hrs late that a fast actually begins."
+- One 24+ hour fast per fortnight is found in traditional hindu culture.
+- Fasting is especially useful when faced with fever.
+
+#### Contra-indications
+- Post nasal drip into stomach stimulates acid secretion. Plus good nutrition is required to fight viral infections. Hence, don't fast in such situations.
 
 ## Motivation
 - "As a biological organism the human body is adaptive; more than that, it is antifragile, this is an important distinction in that things that are antifragile need stress to improve. ... nature delivers nutrition in an unbalanced ... supply of food matters just as much as its constituents. "
