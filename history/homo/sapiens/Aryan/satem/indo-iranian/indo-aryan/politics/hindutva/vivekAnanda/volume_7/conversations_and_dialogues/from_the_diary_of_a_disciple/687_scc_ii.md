@@ -152,7 +152,7 @@ priest class, you may say. How he has defended in his commentary on the
 Vedanta-Sutras that the non-Brahmin castes will not attain to a supreme
 knowledge of Brahman! And what specious arguments! Referring to
 Vidura[1](#fn1) he has said that he became a knower of Brahman by reason
-of his Brahmin body in the previous incarnation. Well, if nowadays any
+of his Brahmin body in the previous incarnation.+++(5)+++ Well, if nowadays any
 Shudra attains to a knowledge of Brahman, shall we have to side with
 your Shankara and maintain that because he had been a Brahmin in his
 previous birth, therefore he has attained to this knowledge? Goodness!
