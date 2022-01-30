@@ -3,6 +3,11 @@ title = "Clay"
 +++
 
 ## Clay tiles
+### Roofing
+- Common dimensions
+  - Mid tile Coverage: 9 inch x 14 inch.
+
+### Flooring
 - Oft turn black, collect dirt and moss.
 - Appear to dry very fast - 12% water absorption. To avoid this, glossy or matte finish sealants are available which makes the tile less water and dirt absorbent. This sealants are re-applied every 4 to 5 years .
 

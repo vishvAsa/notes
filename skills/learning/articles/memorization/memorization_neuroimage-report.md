@@ -1,0 +1,6 @@
++++
+title = "Memorization: Neuroimage report 2016"
++++
+
+## Abstract
+We studied a group of verbal memory specialists to determine whether intensive oral text memory is associated with structural features of hippocampal and lateral-temporal regions implicated in language processing. Professional Vedic Sanskrit Pandits in India train from childhood for around 10 years in an ancient, formalized tradition of oral Sanskrit text memorization and recitation, mastering the exact pronunciation and invariant content of multiple 40,000–100,000 word oral texts. We conducted structural analysis of gray matter density, cortical thickness, local gyrification, and white matter structure, relative to matched controls. We found massive gray matter density and cortical thickness increases in Pandit brains in language, memory and visual systems, including i) bilateral lateral temporal cortices and ii) the anterior cingulate cortex and the hippocampus, regions associated with long and short-term memory. Differences in hippocampal morphometry matched those previously documented for expert spatial navigators and individuals with good verbal working memory. The findings provide unique insight into the brain organization implementing formalized oral knowledge systems.
