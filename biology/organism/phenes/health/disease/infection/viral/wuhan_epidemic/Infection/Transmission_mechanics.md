@@ -4,7 +4,8 @@ title = "Transmission mechanics"
 +++
 
 ## Overview
-- "We know that at least 44% of all infections--and the majority of community-acquired transmissions--occur from people without any symptoms (asymptomatic or pre-symptomatic people). You can be shedding the virus into the environment for up to 5 days before symptoms begin."
+- "We know that at least 44% of all infections--and the majority of community-acquired transmissions--occur from people without any symptoms (asymptomatic or pre-symptomatic people)."
+- It turns out it takes 2 days to become infectious, not 5 days.
 - "Some experts estimate that as few as 1000 SARS-CoV2 infectious viral particles are all that will be needed." - [EB](https://www.erinbromage.com/post/the-risks-know-them-avoid-them)
 
 {{< figure src="../../../../saMskAra/mantraH/rogAH/images/corona-growth-visualization.png"  class="thumbnail">}}

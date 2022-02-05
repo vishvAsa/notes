@@ -3,7 +3,7 @@ title = "Spread"
 +++
 
 ## India
-- Third wave expected in Dec.
+- Third wave started early Jan. Night curfew was enforced in many cities.
 
 ### Second wave
 - 202104 - 2nd wave. 10th March to 3rd April. 24 days - faster spread.
