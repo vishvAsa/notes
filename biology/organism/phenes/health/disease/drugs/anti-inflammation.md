@@ -36,3 +36,11 @@ unicode_script = "devanagari"
 - Ibuprofen
   - Advil, Mortin
   - Side effects: Asthma worsening?
+
+## Leukotriene modifiers
+- Leukotrienes (triggered by allergen contact) cause coughing, Inflammation, tight muscles.
+- receptor antagonists
+  - Montelukast
+    - Possible mental health side-effects.
+- Synthesis inhibition
+  - Zileuton
