@@ -17,7 +17,8 @@ title = "Bronchodilator"
 - Formoterol
 
 ### Short-acting
+- Aka rescue inhalers.
 - Salbutamol, albuterol
-  - Asthalin
-  - A rescue inhaler.
+- Asthalin
+
 

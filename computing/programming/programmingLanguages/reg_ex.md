@@ -3,4 +3,7 @@ title = "Regular expressions"
 +++
 
 ## Common expressions
-- Devanagari  - [\u0900-\u0954]
+- Devanagari  
+  - all [\u0900-\u0954]
+  - non-digits [\u0900-॥॰-\u0954]
+  - common non-digit non-daNDa chars - [\u0900-ॣ]

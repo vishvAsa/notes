@@ -6,7 +6,11 @@ title = "Fasting"
 ## General Procedure
 ### Length
 #### Intermittent fasting
-Eat only within an 8hr window. Fast the remaining 16 hours.
+- Aka time restricted fasting/ feeding.
+- Eat only within an 8hr window. Fast the remaining 16 hours.
+- Minimize muscle loss
+  - Excercise (esp strength training) shortly before breaking fast.
+
 
 #### Periodic fasting
 - Fasting 2 to 5 days straight. Mark Baker recommends 2+ weeks inbetween.
@@ -20,6 +24,7 @@ Eat only within an 8hr window. Fast the remaining 16 hours.
 - "Since calorie-counting is predicated on the naïve view of the human body as a car engine we should take into account not just calories but also the type of food, in that x calories from sugar has a different effect on the body than x calories from fish. Have savoury rather than sweet; vegetable soup, a broth of some sort or bouillon give some salts and satisfies hunger pangs or the psychological desire to eat."
 
 ### Breaking fast
+- Excercise (esp strength training) shortly before breaking fast.
 - "Further, it doesn’t make ecological sense to break a fast with only a small amount (given food availability), no animal would “leave the table with room to spare” after starvation." 
 
 ### Timing
@@ -50,7 +55,8 @@ Eat only within an 8hr window. Fast the remaining 16 hours.
 
 
 ## Muscle loss
-- Resistance training during long fasts helps maintain muscle mass
+- Fasting results in muscle loss. Even intermittent fasting - especially if exercising-breakfast gap is long. ([PA2022](https://www.youtube.com/watch?v=jKyYvna5VjA&t=225s)) 
+- Strenth training during long fasts helps maintain muscle mass
 - Obese individuals will retain muscle longer than lean people (due to higher non-muscle Pr stores)
 - 5+ days on, you will start to lose some muscle
 - Some muscle loss is acceptable
