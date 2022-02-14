@@ -370,7 +370,7 @@ git push -u origin master
 
 git push <localbr> <remoteBr>
 git push history history:master
-
+git push another_remote refs/remotes/origin/static_files:static_files
 git push <remote> --tags'''
 
 [[data]]
