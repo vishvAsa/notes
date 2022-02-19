@@ -9,6 +9,8 @@ title = "Sources"
 - Shivaji and his times by jadunath sarkar [here](https://archive.org/stream/shivajihistimes00sarkrich#page/n7/mode/2up)
 - English records
   - Adapted Gregorian in 1752
+- Dutch East India company
+  - Adapted Gregorian in about 1600 as per Bellarikar
 - Portuguese
   - The new Gregorian Calendar came into vogue in Bassein Goa and other territories under Portuguese domination since October, 1583. But in the territories under the British, the old Julian Calendar held the field till 1752. That leads to difference of ten days before February 1700 and eleven days thereafter.
 - New History Of The Marathas Vol.1 [here](https://archive.org/details/in.ernet.dli.2015.32141)
