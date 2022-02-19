@@ -17,3 +17,26 @@ India's curse is that among Asian nations, India has had the most economists adv
 Krugman is contesting the idea that inflation hits low-income households hard. Low income households CONSUME a far greater proportion of their income than high income households. When CONSUMER prices go up, all consumers feel poorer but low income households feel the worst. Anyone with a grasp of reality knows this. Every politician of every party knows how rising consumer prices lose them elections.
 
 Yet we have a genius Nobel economist questioning this basic premise. Krugman is my poster child for academic economics having gone horribly wrong. The rot runs far deeper in academia. Fields as diverse as Electrical Engineering and Psychology have become increasingly detached from reality. We must not accord the academic priesthood the automatic presumption of expertise but evaluate their claims carefully. 🙏 
+
+### Trade policy
+Krugman has written a NYT piece attacking Trump's trade policy against China, which attempted to (but failed to) reduce persistent,  decades-long US trade deficits and Krugman never mentions the word "debt"! I will analyze why the policy failed. 
+
+First, the obvious consequences of those persistent trade deficits, particularly in manufactured goods are:
+
+- a) Explosion in US debt with the US becoming a largest net debtor from being a net creditor nation
+- b) The erosion of the US manufacturing base which destroyed know-how
+- c) The loss of manufacturing base resulted in loss of good wage jobs for non-college-going workers
+- d) Rising US foreign debt obligations were recycled back (invested) in US stock and real estate markets blowing monster bubbles in both, which mostly benefited the wealthy
+- d) Loss of high paying manufacturing jobs combined with financial and real estate bubbles resulted in massive increase in inequality
+- e) The US imported goods and created "token-distribution" services jobs (aka bullshit jobs) to claim those goods, an erosion of real skills
+
+Trump's tariff policy failed to yield quick results because the erosion of industrial capability and skills in the US, which arose from decades of flawed policy, cannot be reversed so quickly with tariffs. It would take a decade for the US to regain its industrial base.
+
+All of the above have been fairly obvious to many economic observers for a while, yet @paulkrugman's grasp of basic economics and how industry works is so weak he cannot see it. He represents the bankruptcy of academic macro.
+
+This matters to us in India because US-trained economists like @APanagariya and Raghuram Rajan have been pushing essentially the same line as Krugman: liberalize import of manufactured goods, don't worry about persistent trade deficits and so on. That policy course is bad for India. India needs to develop strong manufacturing know-how and skill base. That is the only way to ensure well-paying jobs for our workers, particularly the vast majority without college degrees. It takes time to develop that industrial base and we need clear policy support.
+
+Finally two books that challenge the Krugman line and must read for us in India:
+
+- How Asia Works: https://t.co/MRchRzaXHs
+- Bad Samaritans, The Myth of Free Trade https://t.co/sBXBfuPbHK
