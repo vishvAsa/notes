@@ -40,3 +40,9 @@ Finally two books that challenge the Krugman line and must read for us in India:
 
 - How Asia Works: https://t.co/MRchRzaXHs
 - Bad Samaritans, The Myth of Free Trade https://t.co/sBXBfuPbHK
+
+## Bernanke and Macro economic models
+Bernanke when he was Fed Chair (2011): "Monetization would require a permanent increase in the money supply to pay the government’s bills through money creation. What we’re doing here is a temporary measure which will be reversed ..." +++(This has only hugely increased by 2022.)+++ Why do we take these academic economists seriously? 
+
+This is not a minor slip on Bernanke's part. His only job as the Fed Chair was to manage the money supply. He got his forecast on the money supply (i.e Fed balance sheet) disastrously wrong. It is time to junk the models and frameworks these professors use and start over. Macro economic models mostly consider only "flow" (GDP, employment, wages) and ignore "stock" (debt build up). That's like declaring that smoking did not kill me this quarter so it is okay. After all, "in the long run we are all dead" as the economists quoting Keynes say.
+
