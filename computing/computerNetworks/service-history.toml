@@ -1,9 +1,18 @@
 [[data]]
+provider = "Tata Fiber"
+plan = "200 MBps"
+date_start = "2021-05-14"
+date_end = ""
+details = 'Nearly constant streaming by vAsuki; sporadic parallel streaming upstairs.'
+place = "sahakAranagara, bengaLUru"
+
+[[data]]
 provider = "Venkateshvara cable"
 plan = "ED_75Mbps_500GB_FUP_2Mbps"
 date_start = "2019-08-14"
 date_end = "2020-06-14"
 place = "sahakAranagara, bengaLUru"
+details = 'Relatively higher and longer downtimes'
 
 [[data]]
 provider = "Venkateshvara cable"
@@ -11,6 +20,7 @@ plan = "ED_50Mpbs_400GB_FUP_2Mbps"
 date_start = "2020-06-14"
 date_end = ""
 place = "sahakAranagara, bengaLUru"
+details = 'Relatively higher and longer downtimes'
 
 [[data]]
 "provider" = 'Comcast cable'

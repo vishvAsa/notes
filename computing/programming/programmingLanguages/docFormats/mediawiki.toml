@@ -1,39 +1,39 @@
 [[data]]
 beaureaucrats = 'sysops'
- = 'Dropdown lists other special users'
-"https://www.mediawiki.org/wiki/Special:ListUsers/sysop" = 'https://www.mediawiki.org/wiki/Special:ListUsers/sysop'
+Feature = 'Dropdown lists other special users'
+details =  'https://www.mediawiki.org/wiki/Special:ListUsers/sysop'
 
 [[data]]
 beaureaucrats = 'user contributions'
- = ''
-"https://www.mediawiki.org/wiki/Special:ListUsers/sysop" = 'https://sa.wiktionary.org/w/index.php?title=special:contributions/NehalDaveND&offset=&limit=500&target=NehalDaveND'
+Feature = ''
+details =  'https://sa.wiktionary.org/w/index.php?title=special:contributions/NehalDaveND&offset=&limit=500&target=NehalDaveND'
 
 [[data]]
 beaureaucrats = 'notify about message'
- = '''leave this in a user's talk page to notify him about a message to him at another user's talk page.'''
-"https://www.mediawiki.org/wiki/Special:ListUsers/sysop" = '{{tb|Username}}'
+Feature = '''leave this in a user's talk page to notify him about a message to him at another user's talk page.'''
+details =  '{{tb|Username}}'
 
 [[data]]
 beaureaucrats = 'redirect'
- = ''
-"https://www.mediawiki.org/wiki/Special:ListUsers/sysop" = '#REDIRECT [[pagename]]'
+Feature = ''
+details =  '#REDIRECT [[pagename]]'
 
 [[data]]
 beaureaucrats = 'category'
- = ''
-"https://www.mediawiki.org/wiki/Special:ListUsers/sysop" = '[[वर्गः:इकारान्त पुल्लिङ्गम्]]'
+Feature = ''
+details =  '[[वर्गः:इकारान्त पुल्लिङ्गम्]]'
 
 [[data]]
 beaureaucrats = 'transclude'
- = ''
-"https://www.mediawiki.org/wiki/Special:ListUsers/sysop" = '''
+Feature = ''
+details =  '''
 {{template name|parameter|| myparam = this is a test |...}}
 {{:महाभारतम्-03-आरण्यकपर्व-159}} - regular article'''
 
 [[data]]
 beaureaucrats = 'template'
- = ''
-"https://www.mediawiki.org/wiki/Special:ListUsers/sysop" = '''
+Feature = ''
+details =  '''
 xyz {{{1}}}, {{{2}}} asdf {{{xxx}}}
 <noinclude>
 {{documentation}}
@@ -42,5 +42,5 @@ xyz {{{1}}}, {{{2}}} asdf {{{xxx}}}
 
 [[data]]
 beaureaucrats = 'interwiki-language links'
- = ''
-"https://www.mediawiki.org/wiki/Special:ListUsers/sysop" = '[[language prefix:pagename]]'
+Feature = ''
+details =  '[[language prefix:pagename]]'

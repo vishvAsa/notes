@@ -21,3 +21,8 @@ These programs may be precompiled - they may be written in C; or they may be wri
 The dynamic programs often dynamically generate html pages, so the dynamic portions of such pages can potentially be written in another language, while the static portions are written in html. Depending on the language used for the dynamic portion, this mixed-language is called by different names, like perlscript or JSP (or java server pages) or ASP.
 
 The http server may utilize these scripts/ server pages by first converting it into a program of the corresponding language and then using the appropriate interpreter. Eg: JSP's are often first converted to Java servelets.
+
+
+## DNS
+<div class="spreadsheet" src="dns.toml" fullHeightWithRowsPerScreen=8> </div>  
+

@@ -1,0 +1,61 @@
+[[data]]
+Language = 'liquid template language'
+"Implementation Type" = 'concept'
+Description = 'Used in Jekyll.'
+
+[[data]]
+Language = 'liquid template language'
+"Operand Type" = 'assign'
+Syntax = '{% assign item_in_list_fn = include.item %}'
+Description = 'Be wary of using in includes - variable names may clash with including files.'
+
+[[data]]
+Language = 'liquid template language'
+"Operand Type" = 'operators'
+Syntax = '== != > < >= <= or and contains'
+Description = 'PS: You cannot change the order of operations using parentheses — parentheses are invalid characters in Liquid'
+
+[[data]]
+Language = 'liquid template language'
+"Operand Type" = 'include function'
+"Implementation Type" = 'concept'
+Description = '''
+A function which prints stuff.
+Can be recursive (up to allowed limit.)
+Scope of top variables is same as includer context.'''
+
+[[data]]
+Language = 'liquid template language'
+"Operand Type" = 'include function'
+Feature = 'definition'
+Subfeature = 'passed value'
+Syntax = '{{include.someVar}}'
+
+[[data]]
+Language = 'liquid template language'
+"Operand Type" = 'print expression value'
+Syntax = '{{ site.data.fileName }}'
+
+[[data]]
+Language = 'liquid template language'
+"Operand Type" = 'comment'
+Syntax = '{% comment %}if currentLevel == 0 {% endcomment %}'
+
+[[data]]
+Language = 'liquid template language'
+"Operand Type" = 'conditional'
+Syntax = '''
+{% if page.title == "xyz" [or|and ...] %}
+..
+{% elsif ... %}
+..
+{% endif %}'''
+
+[[data]]
+Language = 'liquid template language'
+"Operand Type" = 'loop'
+Syntax = '''
+{% for post in site.posts %}
+  {{ post.title }} <br>{ post.url }}
+{% endfor %}'''
+

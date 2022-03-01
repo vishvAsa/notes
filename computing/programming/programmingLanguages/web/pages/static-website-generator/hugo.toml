@@ -1,0 +1,164 @@
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'setup'
+Feature = 'config.toml'
+Syntax = '''
+baseURL = "https://ashtadhyayi.github.io/ui/"
+languageCode = "en-us"
+title = "अष्टाध्यायी - मूलस्रोतः"
+theme = "ananke"
+publishDir = "docs"
+ignorefiles = [ "vritti/scripts/.*" ]
+[params]
+  githubEditMePathBase = "https://github.com/sanskrit/ashtadhyayi/edit/master/"
+  env = "production"'''
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'setup'
+Feature = 'taxonomies'
+Syntax = '''
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  sutra = "sutras"'''
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'directory structure'
+Syntax = '''
+content
+data
+layouts (overrides themes/ankake/layouts)
+static
+themes'''
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'directory structure'
+Feature = 'layout'
+Syntax = '''
+_default
+someContentType
+partials (headers, footers etc.. to be included in other htmls)'''
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'layouts'
+Syntax = '''
+baseof.html
+list.html
+single.html'''
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'Template variables'
+Feature = 'page'
+Syntax = '.Params.title'
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'Template variables'
+Feature = 'site'
+Syntax = '.Site.title'
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'Template variables'
+Feature = 'context'
+Syntax = '.scope'
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'Template variables'
+Feature = 'custom'
+Syntax = '$address'
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'Template variables'
+Feature = 'map'
+Subfeature = 'index'
+Syntax = '{{ index .Params "description" }}'
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'template'
+Feature = 'url'
+Subfeature = 'relative'
+Syntax = '{{ "data/pages.tsv" | relURL }}'
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'template'
+Feature = 'loop'
+Syntax = '''
+{{ range .Site.Data.page_defaults }}
+...
+{{ end }}'''
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'template'
+Feature = 'conditional'
+Syntax = '''
+{{ if (isset .Params "description") }}
+    {{ index .Params "description" }}
+{{ else if (isset .Params "summary") }}
+    {{ index .Params "summary" }}
+{{ else }}
+    {{ .Summary }}
+{{ end }}'''
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'template'
+Feature = 'conditional'
+Subfeature = 'or'
+Syntax = '''
+{{ if or (.Get "caption") (.Get "attribution")}}
+...'''
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'template'
+Feature = 'print'
+Syntax = 'console.debug({{.scope | jsonify}});'
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'template'
+Feature = 'include'
+Subfeature = 'cached'
+Syntax = '{{ partialCached "site-footer.html" . }}'
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'template'
+Feature = 'include'
+Syntax = '{{ partial "site-footer.html" . }}'
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'template'
+Feature = 'block'
+Subfeature = 'include'
+Syntax = '{{ block "footer" . }}{{ "Default stuff"}}{{ end }}'
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'template'
+Feature = 'string'
+Subfeature = 'replace regex'
+Syntax = '$file_name := replaceRE "_" " " (replaceRE ".+/" "" (.Get "src"))'
+
+[[data]]
+Language = 'hugo'
+"Operand Type" = 'template'
+Feature = 'block'
+Subfeature = 'define'
+Syntax = '''
+{{ define "main" }}
+someHTML
+{{ end }}'''
+
