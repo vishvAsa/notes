@@ -1,57 +1,5 @@
 [[data]]
 Language = 'hugo'
-"Operand Type" = 'setup'
-Feature = 'config.toml'
-Syntax = '''
-baseURL = "https://ashtadhyayi.github.io/ui/"
-languageCode = "en-us"
-title = "अष्टाध्यायी - मूलस्रोतः"
-theme = "ananke"
-publishDir = "docs"
-ignorefiles = [ "vritti/scripts/.*" ]
-[params]
-  githubEditMePathBase = "https://github.com/sanskrit/ashtadhyayi/edit/master/"
-  env = "production"'''
-
-[[data]]
-Language = 'hugo'
-"Operand Type" = 'setup'
-Feature = 'taxonomies'
-Syntax = '''
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-  sutra = "sutras"'''
-
-[[data]]
-Language = 'hugo'
-"Operand Type" = 'directory structure'
-Syntax = '''
-content
-data
-layouts (overrides themes/ankake/layouts)
-static
-themes'''
-
-[[data]]
-Language = 'hugo'
-"Operand Type" = 'directory structure'
-Feature = 'layout'
-Syntax = '''
-_default
-someContentType
-partials (headers, footers etc.. to be included in other htmls)'''
-
-[[data]]
-Language = 'hugo'
-"Operand Type" = 'layouts'
-Syntax = '''
-baseof.html
-list.html
-single.html'''
-
-[[data]]
-Language = 'hugo'
 "Operand Type" = 'Template variables'
 Feature = 'page'
 Syntax = '.Params.title'
