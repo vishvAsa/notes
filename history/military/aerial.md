@@ -12,7 +12,8 @@ title = "Aerial"
 - Surface to air missiles (preferably mobile)
   - Tor M2 short-range air defense system guarding convoys vs Bayraktar tb2 drones (2022 Russian invasion )
 - Man-portable air-defense systems (MANPADS or MPADS)
-  - Igla and Stinger MANPADS vs Ka-52 attack helicopters, Mi-24 heavy attack helicopters and their flares  (2022 Russian invasion )
+  - Stinger MANPADS vs Ka-52 attack helicopters, Mi-24 heavy attack helicopters and their flares  (2022 Russian invasion )
+  - 9K38 Igla shot reportedly down a Su-30SM fighter  (2022 Russian invasion )
 - Helicopter escorts
   - Ka-52 attack helicopters vs Bayraktar tb2 drones (2022 Russian invasion )
 - Attack planes
