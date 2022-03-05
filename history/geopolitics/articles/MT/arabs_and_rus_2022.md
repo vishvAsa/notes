@@ -1,0 +1,7 @@
++++
+title = "Arabs and Rus 2022"
++++
+
+I suspect that the Arabs might be reading the geopolitical wind correctly -- the A~NglamlechCha confederation is essentially a rival to their objectives  of modernization under the aegis of marUnmada because it 'll push the radioactive navyonmAda into their populations. While now marUnmAda & navyonmAda are allied, being sprouts of the same root, they will ultimately be on collision course. marUnmatta-s know that & so far are among the quite resistant populations. The Arabs seem to've realized that the power in the mlechCha world as transiently or perhaps even permanently shifted to the navyonmatta-s. 
+
+Hence, the current war with the Rus is the first great war navyonmatta is fighting. navyonmatta's wars, given its innate puerility, will naturally not be fought in conventional ways -- sanctions, bannings, cancellations are its natural mode of action backed by kAlamukha rioters generally in poor shape to fight real wars. This is the first time we are seeing navyonmAda fight that war with its usual tactics on a more global scale. I guess even the Arabs have read that & learnt it might come to them. Hence, they are likely manipulate matter in the interstices with some hedging. Using navyonmAda when it is allied with them and supporting the Rus to counterbalance & work towards preventing an invasion by the Occidental disease of the mind.
