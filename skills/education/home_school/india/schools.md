@@ -12,18 +12,21 @@ title: Un-schools
 ## Child-directed schools
 - The approach is to not teach, but to assist the child in learning and empower each child to become a better learner and to learn on its own. Freedom is provided to learn what the child is interested in. Freedom is provided to learn to the levels that a child is interested in and capable of.
 
-### Aarohi 
+## Alternative schools - bengaLUru
+- Poorna.in - many ncbs faculty send kids there.
+
+### Aarohi
 - beyond Hosur - [visit ppt](http://aarohilife.org/home/content/visiting-o-campus).
 
 ### saMvidA
-  - [www.samvida.org](https://www.google.com/url?q=http://www.samvida.org&sa=D&ust=1565281940547000)
-  - Basavanagudi, Bangalore took shape in 2013
-  - Supposedly costly.
-  - Children periodically visit and stay in a campus in the outskirts of Bangalore. In this environ, in addition to learning activities, they manage their day-to-day activities, help in cooking, cleaning and tend to the plants, trees and vegetables being grown.
-  - Samvida will host children until the age of 17 years. That is when a child becomes eligible to write the board examinations, which are recognised world over. Our students will appear for these exams as private candidates. We are confident that our students will perform to their potential in these competitive exams.
-  - Samvida is supported by Prayoga (http://[www.prayoga.org.in](https://www.google.com/url?q=http://www.prayoga.org.in&sa=D&ust=1565281940548000)) for Science Learning. Children learn Science in a hands-on way by doing experiments.
-  - several learning facilitators at Samvida are parents. “Currently, we are welcoming partnerships from parents whose children are between ages 6 and 12.”
-  - Contact: shrI vasuvaj’s neighbor’s son goes there.  
+- [www.samvida.org](https://www.google.com/url?q=http://www.samvida.org&sa=D&ust=1565281940547000)
+- Basavanagudi, Bangalore took shape in 2013
+- Supposedly costly.
+- Children periodically visit and stay in a campus in the outskirts of Bangalore. In this environ, in addition to learning activities, they manage their day-to-day activities, help in cooking, cleaning and tend to the plants, trees and vegetables being grown.
+- Samvida will host children until the age of 17 years. That is when a child becomes eligible to write the board examinations, which are recognised world over. Our students will appear for these exams as private candidates. We are confident that our students will perform to their potential in these competitive exams.
+- Samvida is supported by Prayoga (http://[www.prayoga.org.in](https://www.google.com/url?q=http://www.prayoga.org.in&sa=D&ust=1565281940548000)) for Science Learning. Children learn Science in a hands-on way by doing experiments.
+- several learning facilitators at Samvida are parents. “Currently, we are welcoming partnerships from parents whose children are between ages 6 and 12.”
+- Contact: shrI vasuvaj’s neighbor’s son goes there.
 
 ### विद्याक्षेत्रम्
 - [http://vidyakshetra.org/](https://www.google.com/url?q=http://vidyakshetra.org/&sa=D&ust=1565281940549000)
@@ -39,9 +42,16 @@ title: Un-schools
     - किञ्च “Spiritual but not religious” इति ते जनाः, भारतीयसम्प्रदायेन विच्युता इति केचन कृष्णभक्त-प्राय-पोषकाश् शालान्तरम् प्रारभन्त।
 - तत्र सूचनाप्रदः - भरतमहोदयो (IT क्षेत्रम् पुरा। अधुना पठनम् - BCom। पुत्रद्वयम् - ८ प्रह्लादवरदः। ६ हृषीकेशः।) ऽवदत्। सः स्वयं शिशुशिक्षणकेन्द्रं किञ्चिच् चालयति, यत्र संस्कृतादिकम् पाठयन्ति। ज्येष्ठबालो ऽधुनैवाक्षराभ्यासम् प्रारभते।
 
-## Alternative
-- Poorna.in - many ncbs faculty send kids there.
+### जाल-शिक्षणम् 
+- अगस्त्य-गुरुकुलम् - [अत्र](https://www.agastyagurukulam.org/) । 
+- Arise gurukulam - [Here](https://academy.arisegurukulam.com/).
+  - Offline campus - RR Nagar
 
 ## गुरुकुलानि
-- purna pramita mAdhva-shAlA - गिरिनगरपरिसरे।
+- purna pramati mAdhva-shAlA - गिरिनगरपरिसरे।
+  - [अत्र](https://purnapramati.in/programs/)। 
   - Students seated on floor study shAstra-s.
+- वेदविज्ञानगुरुकुलम्
+- बालिकाभ्यः
+  - कावेरी-कन्या-गुरुकुलम्, श्रीरङ्गपट्टने
+  - मैत्रेयी-गुरुकुलम्

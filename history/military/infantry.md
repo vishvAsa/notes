@@ -7,4 +7,7 @@ Keeping the line/ formation was very important - like kabbaDDi. Two blocks push 
 
 
 ## Armored Personnel Carrier
-- BTR-80 8×8 wheeled amphibious  
+- BTR-80 8×8 wheeled amphibious
+
+## Command vehicle
+- analyze and transmit data, and control forces

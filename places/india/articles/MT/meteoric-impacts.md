@@ -26,3 +26,6 @@ For some more Indian falls see: https://t.co/0OsuYbpsE9
 
 Three major impact craters of India which are due to even bigger falls than the above. These probably occurred in the last 5000-100000 years
 https://t.co/1d65x7awoB
+
+
+Some have dated the Luna crater in Gujarat to around ~4000 yrs ago. If true, the Harrapans on "the eve" of the Aryan invasion would have seen that catastrophic crash.
