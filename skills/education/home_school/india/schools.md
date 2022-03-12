@@ -29,29 +29,45 @@ title: Un-schools
 - Contact: shrI vasuvaj’s neighbor’s son goes there.
 
 ### विद्याक्षेत्रम्
-- [http://vidyakshetra.org/](https://www.google.com/url?q=http://vidyakshetra.org/&sa=D&ust=1565281940549000)
+- [web](http://vidyakshetra.org/). [map](https://goo.gl/maps/aGhxt2SeeKazNVZk6).
 - निश्शुल्कम् \- दानं यथाशक्ति पोषकेभ्यः, बाह्येभ्यश्च।
 - ७७ छात्राः ५५ परिवारेभ्यः।
 - शिक्षणतत्त्वम्
   - न परीक्षाः।
   - उद्यमिनो भविष्यन्ति छात्रा अग्रे।
-  - Rudolf Steiner इत्यस्य प्रभावेण Jiddu-Krishnamurti संस्थायाः‌शाला द्वित्राश् चलन्ति बॆङ्गळूरुनगरे महार्हाः (१+ लक्षाणां शुल्कं स्यान् मासे)। Waldorf education/ Steiner education  ([wiki](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Waldorf_education&sa=D&ust=1565281940550000)) इति प्रसिद्धिः।
+  - Rudolf Steiner इत्यस्य प्रभावेण Jiddu-Krishnamurti संस्थायाः‌शाला द्वित्राश् चलन्ति बॆङ्गळूरु-नगरे महार्हाः (१+ लक्षाणां शुल्कं स्यान् मासे)। Waldorf education/ Steiner education  ([wiki](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Waldorf_education&sa=D&ust=1565281940550000)) इति प्रसिद्धिः।
     - “Hand Heart Head” इति तत्त्वत्रयमपि मनसि निदधति।
     - “Give knowledge when the child is hungry for it” इति तत्त्वम्।
-    - ८ वर्षेभ्यः परमेवाक्षराभ्यासः! किञ्च शीघ्रमेव लभन्ते कौशलम् बालाः।
-    - किञ्च “Spiritual but not religious” इति ते जनाः, भारतीयसम्प्रदायेन विच्युता इति केचन कृष्णभक्त-प्राय-पोषकाश् शालान्तरम् प्रारभन्त।
-- तत्र सूचनाप्रदः - भरतमहोदयो (IT क्षेत्रम् पुरा। अधुना पठनम् - BCom। पुत्रद्वयम् - ८ प्रह्लादवरदः। ६ हृषीकेशः।) ऽवदत्। सः स्वयं शिशुशिक्षणकेन्द्रं किञ्चिच् चालयति, यत्र संस्कृतादिकम् पाठयन्ति। ज्येष्ठबालो ऽधुनैवाक्षराभ्यासम् प्रारभते।
+    - ८ वर्षेभ्यः परम् एवाक्षराभ्यासः! किञ्च शीघ्रम् एव लभन्ते कौशलम् बालाः।
+    - किञ्च “Spiritual but not religious” इति ते जनाः, भारतीय-सम्प्रदायेन विच्युता इति केचन कृष्णभक्त-प्राय-पोषकाश् शालान्तरम् प्रारभन्त।
+- तत्र सूचनाप्रदेषु - भरत-महोदयः (IT क्षेत्रम् पुरा। अधुना पठनम् - BCom। पुत्रद्वयम् - ८ प्रह्लादवरदः। ६ हृषीकेशः।)। सः स्वयं शिशुशिक्षणकेन्द्रं किञ्चिच् चालयति, यत्र संस्कृतादिकम् पाठयन्ति। ज्येष्ठबालो ऽधुनैवाक्षराभ्यासम् प्रारभते।
 
-### जाल-शिक्षणम् 
-- अगस्त्य-गुरुकुलम् - [अत्र](https://www.agastyagurukulam.org/) । 
-- Arise gurukulam - [Here](https://academy.arisegurukulam.com/).
-  - Offline campus - RR Nagar
+### उद्भवः
+- [अत्र](https://www.udhbhavaha.org/)। [Map](https://goo.gl/maps/T91mnyzV8hW2ZnSN9).
+- शिक्षण-तत्त्वम्
+  - विद्याक्षेत्र-offshoot. In nature.
+- विषयाः
+  - Languages – Kannada, Samskrita, English
+  - Stories – Raja-Rani stories, Panchatantra, Bhagavatam, Dashavatara, Ramayana, Mahabharata
 
-## गुरुकुलानि
+
+### अन्ये
+- Otter nature school. sarjapur road.
+- Teach for life, nelamangaLa.
+
+### साप्रदायिकतर-गुरुकुलानि
 - purna pramati mAdhva-shAlA - गिरिनगरपरिसरे।
   - [अत्र](https://purnapramati.in/programs/)। 
   - Students seated on floor study shAstra-s.
 - वेदविज्ञानगुरुकुलम्
+- "शुभं करोति" [web](https://shubhamkarotigurukula.com/)
+
+## जाल-शिक्षणम्
+- अगस्त्य-गुरुकुलम् - [अत्र](https://www.agastyagurukulam.org/) ।
+- Arise gurukulam - [Here](https://academy.arisegurukulam.com/).
+  - Offline campus - RR Nagar
+
+## कर्णाटके
 - बालिकाभ्यः
   - कावेरी-कन्या-गुरुकुलम्, श्रीरङ्गपट्टने
   - मैत्रेयी-गुरुकुलम्
