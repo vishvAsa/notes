@@ -483,9 +483,7 @@ Eusebia was handsomer than her portraits. The eyes and mouth, which appeared so 
 
 "Yes. The Emperor and I enjoy the lake."
 
-For what seemed an eternity, we discussed that wretched lake. All the while she was studying me carefully. And I must say I was studying her. Eusebia was Constantius's second wife. His first wife had been Galla, the half-sister of Gallus. Galla had the same mother as Gallus, who had the same father as I, but I never knew her, and I don't think Gallus ever met his sister more than once or twice. When Galla
-
-died, Constantius promptly married Eusebia. It was said that he had always been in love with her. She came from an excellent consular family. She was a popular figure at court, and on more than one occasion she had saved innocent men from Constantius's eunuchs.
+For what seemed an eternity, we discussed that wretched lake. All the while she was studying me carefully. And I must say I was studying her. Eusebia was Constantius's second wife. His first wife had been Galla, the half-sister of Gallus. Galla had the same mother as Gallus, who had the same father as I, but I never knew her, and I don't think Gallus ever met his sister more than once or twice. When Galla died, Constantius promptly married Eusebia. It was said that he had always been in love with her. She came from an excellent consular family. She was a popular figure at court, and on more than one occasion she had saved innocent men from Constantius's eunuchs.
 
 "We have been told that you are planning to become a priest."
 
@@ -497,7 +495,9 @@ I started to stammer as I often do when I am nervous. The letter "m" gives me pa
 
 "I don't know. I prefer philosophy, I think. I would like to live at Athens."
 
-"You have no interest in politics?" She smiled as she said this, knowing what my answer must necessarily be."No\! None, Augusta."
+"You have no interest in politics?" She smiled as she said this, knowing what my answer must necessarily be. 
+
+"No\! None, Augusta."
 
 "Yet you have certain responsibilities to the state. You are imperial."
 
@@ -519,7 +519,7 @@ She nodded. "Everything we say to one another in this room they can hear."
 
 "But where…?"
 
-She smiled at my bewilderment. "Who knows *where? * But one knows they are always present."
+She smiled at my bewilderment. "Who knows *where?* But one knows they are always present."
 
 "They even spy on you?"
 
@@ -543,15 +543,11 @@ She shrugged. "In this case it was not necessary. Constantia was indiscreet. I n
 
 "Easily solved," I said with more bitterness than I intended. "Execute me."
 
-"There are those who advise this." She was as much to the point as I. "But I am not one. As you know, as the whole world knows, Constantius cannot have a child." Her face set bleakly. "I have been assured by my confessor that this is heaven's judgment upon my husband for having caused the deaths
-
-of so many members of his own family. Not that he wasn't justified," she added loyally. "But justified or not, there is a curse on those who kill their own kind, That curse is on Constantius. He has no heir and I am certain that he will *never* have one, if he puts you to death."
+"There are those who advise this." She was as much to the point as I. "But I am not one. As you know, as the whole world knows, Constantius cannot have a child." Her face set bleakly. "I have been assured by my confessor that this is heaven's judgment upon my husband for having caused the deaths of so many members of his own family. Not that he wasn't justified," she added loyally. "But justified or not, there is a curse on those who kill their own kind, That curse is on Constantius. He has no heir and I am certain that he will *never* have one, if he puts you to death."
 
 There it was at last. My sense of relief was enormous, and perfectly visible in my face.
 
-"Yes. You are safe. For the time being. But there still remains the problem of what to do with you.
-
-We had hoped you would take holy orders."
+"Yes. You are safe. For the time being. But there still remains the problem of what to do with you. We had hoped you would take holy orders."
 
 "If it is required, I shall." Yes, I said that. I am giving as honest an account as I can of my life. At that moment, I would have worshipped the ears of a mule to save my life.
 
@@ -563,7 +559,7 @@ But Eusebia was not insistent. "Your love of learning also seems genuine." She s
 
 "I shall be eternally grateful, and loyal. He has nothing to fear from me, ever…" I babbled on enthusiastically.
 
-Eusebia watched me, amused. Then vchen I ran out of breath, she said: "Gallus made him much the same speech."
+Eusebia watched me, amused. Then when I ran out of breath, she said: "Gallus made him much the same speech."
 
 On that dampening note she rose, ending the interview. "I shall try to arrange an interview for you with the Emperor. It won't be easy. He is shy." At the time I found this hard to believe, but of course Eusebia was right. Constantius feared all human encounters. One of the reasons he was so fond of eunuchs was that, by and large, they are not quite human.
 
@@ -579,7 +575,7 @@ Eusebius nodded delightedly, as though he had been entirely responsible for my a
 
 "You flatter me," I murmured.
 
-"I say only the truth. You are, after all, an ornament to the house of Constantine, and what better place has such a pure jewel to shine than in the diadem of the court?"
+"I say only the truth. You are, after all, an ornament to the house of Constantine, and what better place has such a pure jewel to shine than in the diadem+++(=किरीटम्)+++ of the court?"
 
 I swallowed this gravely and replied with equal insincerity, "I shall never forget what you have done for me and for my brother."
 
@@ -587,11 +583,11 @@ Tears came to Eusebius's eyes. His voice trembled. "It is my wish to serve you. 
 
 He leaned forward—with some effort—and kissed my hand. The rhetoric of hate is often most effective when couched in the idiom of love. On a note of mutual admiration, we parted.
 
-I was next instructed by one of the eunuchs in the court's etiquette, which was nearly as complicated as what one goes through during the Mithraic mysteries. There are a dozen set responses to an emperor's set questions or commands. There are bows and genuflections; steps to left and steps to right; alternative gestures should I be asked to approach the throne or merely to remain where I was. The eunuch loved his work. "Our ceremonies are among this world's marvels\! More inspiring, in some ways, than the mass." I agreed to that.
+I was next instructed by one of the eunuchs in the court's etiquette, which was nearly as complicated as what one goes through during the Mithraic mysteries. There are a dozen set responses to an emperor's set questions or commands. There are bows and genuflections; steps to left and steps to right; alternative gestures should I be asked to approach the throne or merely to remain where I was. The eunuch loved his work. "Our ceremonies are among this world's marvels\! More inspiring, in some ways, than the mass."+++(5)+++ I agreed to that.
 
 The eunuch spread a diagram for me on a table. "This is the great hall where you will be received."
 
-He pointed. "Here sits the divine Constantius. And here you will enter." Every move either of us was to make was planned in advance like a dance. When I had finally learned my lesson, the eunuch folded his map with an exalted expression on his face. "We have considerably improved and refined court ceremonial since the divine Diocletian. I am sure that he never dreamed his heirs would be capable of such exquisite style as well as such profound symbolism, for we are now able to beautifully reflect the nature of the universe in a single ceremony lasting scarcely three hours\!"
+He pointed. "Here sits the divine Constantius. And here you will enter." Every move either of us was to make was planned in advance like a dance. When I had finally learned my lesson, the eunuch folded his map with an exalted expression on his face. "We have considerably improved and refined court ceremonial since the divine Diocletian. I am sure that he never dreamed his heirs would be capable of such exquisite style as well as such profound symbolism, for we are now able to beautifully reflect the nature of the universe in a single ceremony lasting scarcely three hours\!"+++(4)+++
 
 The cutting down of court ceremonies and the removal of the eunuchs was one of the first acts of my reign. It was certainly the most satisfactory.
 
