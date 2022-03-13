@@ -193,7 +193,7 @@ I tried to protest loyalty at this point. But Gallus ignored me.
 
 "All men are evil. I found that out early. They are born in sin, live in sin, die in sin. Only God can save us. I pray that he will save me." Gallus made the sign of a cross on his bare chest.
 
-"But it is a fine thing in an evil world to be Caesar. From here? he indicated a height, "you can see them all. You can see them at their games. But they can't see you. Sometimes at night, I walk the streets in disguise. I listen to them. I watch them, knowing I can do anything to them I want and no one can touch me. If I want to rape a woman or kill a man in an alley, I can. Sometimes I do." He frowned. "But it is evil. I know it. I try not to. Yet I feel that when I do these things there is something higher which acts *through* me. I am a child of God. Unworthy as I am, he created me and to him I shall return. What I am, he wanted me to be. That is why I am good."
+"But it is a fine thing in an evil world to be Caesar. From here? he indicated a height, "you can see them all. You can see them at their games. But they can't see you. Sometimes at night, I walk the streets in disguise. I listen to them. I watch them, knowing I can do anything to them I want and no one can touch me. If I want to rape a woman or kill a man in an alley, I can. Sometimes I do." He frowned. "But it is evil. I know it. I try not to. Yet I feel that when I do these things there is something higher which acts *through* me. I am a child of God. Unworthy as I am, he created me and to him I shall return. What I am, he wanted me to be. That is why I am good."+++(4)+++
 
 I must say I was stunned by this particular self-estimate. But my face showed only respectful interest.
 
@@ -205,7 +205,7 @@ He shifted his thought without a pause. He looked at me for the first time. The 
 
 "Even so. We are the same blood, which is what matters. That is what binds me to Constantius. And you to me. We are the chosen of God to do the work of his church on earth."
 
-At this point an extraordinarily pretty girl slipped quietly into the room. Gallus did not acknowledge her presence, so neither dirt I. He continued to talk and drink, while she made love to him in front of me. I suppose it was the most embarrassing moment of my life. I tried not to watch. I looked at the ceiling. I looked at the floor. But my eyes continually strayed back to my brother as he reclined on the couch, hardly moving, as the girl with infinite skill and delicacy served him.
+At this point an extraordinarily pretty girl slipped quietly into the room. Gallus did not acknowledge her presence, so neither did I. He continued to talk and drink, while she made love to him in front of me. I suppose it was the most embarrassing moment of my life. I tried not to watch. I looked at the ceiling. I looked at the floor. But my eyes continually strayed back to my brother as he reclined on the couch, hardly moving, as the girl with infinite skill and delicacy served him.
 
 "Constantius will do anything I ask him. That is what blood means. He will also listen to his sister, my wife. She is the most important woman in the world. A perfect wife, a great queen."
 
@@ -239,9 +239,7 @@ Gallus turned to me as though nothing had happened and picked up his sentence wh
 
 He yawned. He lay back on the couch. "Even so…" he repeated and shut his eyes. I waited a moment for him to continue. But he was asleep.
 
-The eunuchs reappeared. One placed a silk coverlet over Gallus. The other removed the wine. They
-
-acted as though what I had witnessed was a perfectly ordinary evening; perhaps it was. As Gatlus began drunkenly to snore, I tiptoed from the room.
+The eunuchs reappeared. One placed a silk coverlet over Gallus. The other removed the wine. They acted as though what I had witnessed was a perfectly ordinary evening; perhaps it was. As Gatlus began drunkenly to snore, I tiptoed from the room.
 
 
 

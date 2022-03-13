@@ -101,23 +101,21 @@ The world is now full of false teachers. In religion we have the party of Athana
 
 That was the first time I heard the name of the man who was to mean so much to me as thinker and teacher. Not very interested, I asked who Libanius was.
 
-"An Antiochene—and we know what *they* are like. He studied at Athens. Then he came here to teach.
+> "An Antiochene—and we know what *they* are like. He studied at Athens. Then he came here to teach. That was about twelve years ago. He was young. He was bad-mannered to his colleagues, to those of us who were, if not wiser, at least more experienced than he." Nicocles made a sound like an insect's wings rustling on a summer day—laughter? "He was also tactless about religion. All the great teachers here are Christian. He was not. Like so many who go to Athens \(and I deplore, if I may say so, *your* desire to study there\), Libanius prefers the empty ways of our ancestors. He calls himself a Hellenist, preferring Plato to the gospels, Homer to the old testament. In his four years here he completely disrupted the academic community. He was always making trouble. Such a vain man\! Why, he even prepared a paper for the Emperor on the teaching of Greek, suggesting *changes* in our curriculum\! I'm glad to say he left us eight years ago, under a cloud."
 
-That was about twelve years ago. He was young. He was bad-mannered to his colleagues, to those of us who were, if not wiser, at least more experienced than he." Nicocles made a sound like an insect's wings rustling on a summer day—laughter? "He was also tactless about religion. All the great teachers here are Christian. He was not. Like so many who go to Athens \(and I deplore, if I may say so, *your* desire to study there\), Libanius prefers the empty ways of our ancestors. He calls himself a Hellenist, preferring Plato to the gospels, Homer to the old testament. In his four years here he completely disrupted the academic community. He was always making trouble. Such a vain man\! Why, he even prepared a paper for the Emperor on the teaching of Greek, suggesting *changes* in our curriculum\! I'm glad to say he left us eight years ago, under a cloud."
+"What sort of cloud?" I was oddly intrigued by this recital. Oddly, because academics everywhere are for ever attacking one another, and I had long since learned that one must never believe what any teacher says of another.+++(4)+++
 
-"What sort of cloud?" I was oddly intrigued by this recital. Oddly, because academics everywhere are
-
-for ever attacking one another, and I had long since learned that one must never believe what any teacher says of another.
-
-"He was involved with a girl, the daughter of a senator. He was to give her private instruction in the classics. Instead, he made her pregnant. Her family complained. So the Emperor, to save the reputation of the girl and her family, a very important family \(you would know who they are if I told you, which I must not\)… the Augustus exiled Libanius from the capital."
+> "He was involved with a girl, the daughter of a senator. He was to give her private instruction in the classics. Instead, he made her pregnant. Her family complained. So the Emperor, to save the reputation of the girl and her family, a very important family \(you would know who they are if I told you, which I must not\)… the Augustus exiled Libanius from the capital."
 
 "Where is Libanius now?"
 
-"At Nicomedia, where as usual he is making himself difficult. He has a passion to be noticed." The more Nicocles denounced Libanius, the more interested I became in him. I decided I must meet him.
+> "At Nicomedia, where as usual he is making himself difficult. He has a passion to be noticed." 
 
-But how? Libanius could not come to Constantinople and I could not go to Nicomedia. Fortunately, I had an ally. I liked the Armenian eunuch Eutherius as much as I disliked Nicocles. Eutherius taught me court ceremonial three times a week. He was a grave man of natural dignity who did not look or sound like a eunuch. His beard was normal. His voice was low. He had been cut at the age of twenty, so he had known what it was to be a man. He once told me in grisly detail how he had almost died during the operation, "from loss of blood, because the older you are, the more dangerous the operation is. But I have been happy. I have had an interesting life. And there is something to be said for not wasting one's time in the pursuit of sexual pleasure." But though this was true of Eutherius, it was not true of all eunuchs, especially those at the palace. Despite their incapacity, eunuchs are capable of sexual activity, as I one day witnessed, in a scene I shall describe in its proper place.
+The more Nicocles denounced Libanius, the more interested I became in him. I decided I must meet him.
 
-When I told Eutherius that I wanted to go to Nicomedia, he agreed to conduct the intricate negotiations with the Chamberlain's office. Letters were exchanged daily between my household and the palace. Eutherius was often in the absurd position of writing, first, my letter of request, and then Eusebius's elaborate letter of reiection. "It is good practice for me," said Eutherius wearily, as the months dragged on.
+But how? Libanius could not come to Constantinople and I could not go to Nicomedia+++(→ next to Constantinople)+++. Fortunately, I had an ally. I liked the Armenian eunuch Eutherius as much as I disliked Nicocles. Eutherius taught me court ceremonial three times a week. He was a grave man of natural dignity who did not look or sound like a eunuch. His beard was normal. His voice was low. He had been cut at the age of twenty, so he had known what it was to be a man. He once told me in grisly detail how he had almost died during the operation, "from loss of blood, because the older you are, the more dangerous the operation is. But I have been happy. I have had an interesting life. And there is something to be said for not wasting one's time in the pursuit of sexual pleasure." But though this was true of Eutherius, it was not true of all eunuchs, especially those at the palace. Despite their incapacity, eunuchs are capable of sexual activity, as I one day witnessed, in a scene I shall describe in its proper place.
+
+When I told Eutherius that I wanted to go to Nicomedia, he agreed to conduct the intricate negotiations with the Chamberlain's office. Letters were exchanged daily between my household and the palace. Eutherius was often in the absurd position of writing, first, my letter of request, and then Eusebius's elaborate letter of reiection+++(=rejection)+++. "It is good practice for me," said Eutherius wearily, as the months dragged on.+++(4)+++
 
 Shortly after New Year 349 Eusebius agreed to let me go to Nicomedia on condition that I do not attend the lectures of Libanius. As Nicocles put it, "Just as we protect our young from those who suffer from the fever, so we must protect them from dangerous ideas, not to mention poor rhetoric. As stylist, Libanius has a tendency to facetiousness which you would find most boring. As philosopher, he is dangerously committed to the foolish past."
 
@@ -131,33 +129,29 @@ Ecebolius pointed him out, saying grimly, "Who else would imitate Socrates in ev
 
 "Is he so bad?"
 
-"He is a troublemaker. Worse than that, he is a bad rhetorician. He never learned to speak properly.
-
-He simply chatters."
+"He is a troublemaker. Worse than that, he is a bad rhetorician. He never learned to speak properly. He simply chatters."
 
 "But his writings are superb."
 
 "How do you know?" Ecebolius looked at me sharply.
 
-"I… from the others here. They talk about him." To this day Ecebolius does not know that I used to pay to have Libanius's lectures taken down in shorthand. Though Libanius had been warned not to approach me, he secretly sent me copies of his lectures, for which I paid him well.
+"I… from the others here. They talk about him." To this day Ecebolius does not know that I used to pay to have Libanius's lectures taken down in shorthand.+++(5)+++ Though Libanius had been warned not to approach me, he secretly sent me copies of his lectures, for which I paid him well.
 
-"He can only corrupt," said Ecebolius. "Not only is he a poor model for style, he despises our
-
-religion. He is impious."
+"He can only corrupt," said Ecebolius. "Not only is he a poor model for style, he despises our religion. He is impious."
 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 *Priscus*: That sounds just like Ecebolius, doesn't it? Of course when Julian became emperor, Ecebolius embraced Hellenism. Then when Valentinian and Valens became co-emperors, Ecebolius threw himself down in front of the Church of the Holy Apostles, crying, "Tread on me\! I am as salt which has lost its sayour\!" I always wondered if anybody did tread on him. I should have liked to. He changed his religion five times in thirty years and died at a fine old age, honoured by all. If there is a moral to his career, it eludes me.
 
 I do recall that story about you and the senator's daughter. Is it true? I always suspected you were rather a lady's man, in your day of course.
 
-
-
-*Libanius*: No, I shall not give Priscus the,pleasure of an answer. I shall also suppress Julian's references to that old scandal. It serves no purpose to rake over the past in such a pointless way. I have always known that a story more or less along those lines was circulated about me, but this is the first time I have been confronted with it in all its malice. Envious Sophists will go to any lengths to tear down one's reputation. There was no "senator's daughter", at least not as described. The whole thing is absurd. For one thing, if I had been dismissed by the Emperor on such a charge, why was I then asked by the court to return to Constantinople in 353? Which I did, and remained there several years before coming home to Antioch.
+*Libanius*: No, I shall not give Priscus the pleasure of an answer. I shall also suppress Julian's references to that old scandal. It serves no purpose to rake over the past in such a pointless way. I have always known that a story more or less along those lines was circulated about me, but this is the first time I have been confronted with it in all its malice. Envious Sophists will go to any lengths to tear down one's reputation. There was no "senator's daughter", at least not as described. The whole thing is absurd. For one thing, if I had been dismissed by the Emperor on such a charge, why was I then asked by the court to return to Constantinople in 353? Which I did, and remained there several years before coming home to Antioch.
 
 I am far more irritated by Ecebolius's reference to my "facetiousness". That from him\! I have always inclined to a grave—some feel too grave—style, only occasionally lightened by humour. Also, if I am as poor a stylist as he suggests, why am I the most imitated of living writers? Even in those days, a prince paid for my lecture notes\! Incidentally, Julian says that he paid me for the lectures. That is not true.
 
 Julian paid one of my students who had a complete set of notes. He also engaged a shorthand writer to take down my conversation. I myself never took a penny from him. How tangled truth becomes.
+</details>
 
 
 
@@ -169,9 +163,7 @@ At Nicomedia I forged an important new link. Like most university towns, Nicomed
 
 I longed to go alone to the baths and mingle with students my own age, but Ecebolius always accompanied me. "The Chamberlain's orders," he would say, whenever we entered the baths, my two guards trailing us as though we were potential thieves in a market-place. Even in the hot room, I would be flanked by sweating guards while Ecebolius hovered near by to see that no one presented himself to me without first speaking to him. As a result, the students I wanted to meet were scared off.
 
-But one morning Ecebolius awakened with the fever. "I must keep to my bed 'with only cruel pain for handmaid'," he said, teeth chattering. I told him how sorry I was and then, utterly happy, I left for
-
-the baths. My guards promised that once inside they would not stick too closely to me. They realized how much I wanted to be anonymous, and in those days it was possible, for I was not well known in Nicomedia. I never went into the agora, and when I attended lectures I always came in last and sat at the back.
+But one morning Ecebolius awakened with the fever. "I must keep to my bed 'with only cruel pain for handmaid'," he said, teeth chattering. I told him how sorry I was and then, utterly happy, I left for the baths. My guards promised that once inside they would not stick too closely to me. They realized how much I wanted to be anonymous, and in those days it was possible, for I was not well known in Nicomedia. I never went into the agora, and when I attended lectures I always came in last and sat at the back.
 
 Students go to the baths in the morning, when the admission price is cheapest. Shortly before noon I queued up and followed the mob into the changing room where I undressed at the opposite end from my two guards, who pretended to be soldiers on leave. As far as I know, I was not recognized.
 
@@ -196,6 +188,7 @@ Since the day was warm, I went outside to the palaestra; here the athletically i
 They laughed at what was in those days a famous story. Within a year of Libanius's arrival at Nicomedia, he was easily the most popular teacher in the city. This naturally enraged his rival Sophists, one of whom tried to buy Libanius's students away from him. The students took the man's money and continued to attend Libanius's lectures. It was a fine joke, until the furious Sophists applied to friends at court who had Libanius arrested on some spurious charge. Fortunately, he was soon freed.
 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 *Libanius*: This was the beginning of my interest in penal reform. Over the years I have written a good deal on the subject, and there is some evidence that I am beginning to arouse the conscience of the East.
 
@@ -220,6 +213,8 @@ I was stunned. Of course as a professional teacher one tends to lecture rather t
 "Apparently the Antiochenes think otherwise."
 
 We parted. I must say I have been thinking all day about what my colleague said. Have I aged so greatly? Have I lost my power to define and persuade? Am I too serious? I am suddenly tempted to write some sort of apologia for myself, to explain my unbecoming gravity. I must do something…. But scribbling these highly personal remarks on the back of Julian's memoirs is not the answer\!
+</details>
+
 
 
 
@@ -227,7 +222,9 @@ We parted. I must say I have been thinking all day about what my colleague said.
 
 As I sat on the bench in the sun, revelling in warmth and anonymity, a dark man approached me. He gave me a close look. Then he said, "Macellum?"
 
-At first I was annoyed at being recognized. But when I realized that this young man was the physician Oribasius, I was glad that he spoke to me. In no time at all we were talking as if we had known each other all our lives. Together we took the baths. In the circular hot room, as we scraped oil from one another, Oribasius told me that he had left the court."To practise privately?"
+At first I was annoyed at being recognized. But when I realized that this young man was the physician Oribasius, I was glad that he spoke to me. In no time at all we were talking as if we had known each other all our lives. Together we took the baths. In the circular hot room, as we scraped oil from one another, Oribasius told me that he had left the court.
+
+"To practise privately?"
 
 "No. Family affairs. My father died. And now I have to go home to Pergamon to settle the estate."
 
@@ -261,9 +258,7 @@ Like everyone, I admired Aedesius. He was Pergamon's most famous philosopher, th
 
 "But you will."
 
-At that moment we were joined by the two young men from the hot room. One was tall and well built; his manner grave. The other was short and thin with a tight smile and quick black eyes. As they approached, my heart sank. I had been recognized. The short one introduced himself. "Gregory of
-
-Nazianzus, most noble Julian. And this is Basil. We are both from Cappadocia. We saw you the day the divine Augustus came to Macellum. We were in the crowd."
+At that moment we were joined by the two young men from the hot room. One was tall and well built; his manner grave. The other was short and thin with a tight smile and quick black eyes. As they approached, my heart sank. I had been recognized. The short one introduced himself. "Gregory of Nazianzus, most noble Julian. And this is Basil. We are both from Cappadocia. We saw you the day the divine Augustus came to Macellum. We were in the crowd."
 
 "Are you studying here?"
 
@@ -455,9 +450,7 @@ The next day I received word that Aedesius would see me. I found him lying on a 
 
 *Priscus*: It was clearly a plot. They were all in on it. Years later, Maximus admitted as much. "I knew all along I was the right teacher for Julian. Naturally, I never dreamed he would be emperor." He did not dream it; he willed it. "I saw him simply as a soul that I alone could lead to salvation." Maximus then got Sosipatra and Aedesius to recommend him to Julian, which they did. What an extraordinary crew they were\! Except for Aedesius, there was not a philosopher in the lot.
 
-From what I gather, Julian in those days was a highly intelligent youth who might have been
-
-"captured" for true philosophy. After all, he enjoyed learning. He was good at debate. Properly educated, he might have been another Porphyry or, taking into account his unfortunate birth, another Marcus Aurelius. But Maximus got to him first and exploited his one flaw: that craving for the vague and incomprehensible which is essentially Asiatic. It is certainly not Greek, even though we Greeks are in a noticeable intellectual decline. Did you know that thanks to the presence of so many foreign students in
+From what I gather, Julian in those days was a highly intelligent youth who might have been "captured" for true philosophy. After all, he enjoyed learning. He was good at debate. Properly educated, he might have been another Porphyry or, taking into account his unfortunate birth, another Marcus Aurelius. But Maximus got to him first and exploited his one flaw: that craving for the vague and incomprehensible which is essentially Asiatic. It is certainly not Greek, even though we Greeks are in a noticeable intellectual decline. Did you know that thanks to the presence of so many foreign students in
 
 Athens, our people no longer speak pure Attic but a sort of argot, imprecise and ugly? Yet despite the barbarism which is slowly extinguishing "the light of the world", we Athenians still pride ourselves on being able to see things as they are. Show us a stone and we see a stone, not the universe. But like so many others nowadays, poor Julian wanted to believe that man's life is profoundly more significant than it is. His sickness was the sickness of our age. We want so much not to be extinguished at the end that we will go to any length to make conjurortricks for one another simply to obscure the bitter, secret knowledge that it is our fate not to be. If Maximus hadn't stolen Julian from us, the bishops would have got him. I am sure of that. At heart he was a Christian mystic gone wrong.
 
@@ -755,13 +748,16 @@ As for the various ceremonies and trials the Mithraic initiate must undergo, the
 
 
 
-*Libanius*: It is not often one finds a philosopher so entirely lacking in the religious sense. It is like being born unable to perceive colours which are plain to everyone else. Priscus does have a logical mind and a precise way of stating things, but he is blind to what truly matters. Like Julian, I was admitted to the Mithraic rites during my student days. The impression the mysteries made on me was profound, though I confess that the effect was not as revealing—for me—as it was for Julian. But I had never been a Christian, so I was not making a dramatic and dangerous break with the world I belonged to.
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+*Libanius*: It is not often one finds a philosopher so entirely lacking in the religious sense. It is like being born unable to perceive colours which are plain to everyone else.+++(4)+++ Priscus does have a logical mind and a precise way of stating things, but he is blind to what truly matters. Like Julian, I was admitted to the Mithraic rites during my student days. The impression the mysteries made on me was profound, though I confess that the effect was not as revealing—for me—as it was for Julian. But I had never been a Christian, so I was not making a dramatic and dangerous break with the world I belonged to.
 
 However, for Julian it was a brave thing to do. Had Constantius learned of what he had done, it might have cost him his life. Fortunately, Maximus managed the affair so skilfully that Constantius never knew that at the age of nineteen his cousin ceased to be a Christian, in a cave beneath Mount Pion. Priscus seems to have missed the point of the Mithraic mysteries, which does not surprise me. Priscus applauds our high ethical standards. We are grateful to him. But he finds the rites "repellent". Of course he knows about them only by hearsay, since no one who has been initiated may recount what happens in the cave.
 
 But though the "trials" are often disagreeable, the revelation is worth all the pain that one has borne. I for one cannot imagine a world without Mithras.
 
-Priscus observes with his usual harsh candour that the Christians are gradually absorbing various aspects of the cult. A thought suddenly occurs to me: might not this be the way in which we finally conquer? Is it not possible that the absorber will become so like the absorbed that in time they will be us?
+Priscus observes with his usual harsh candour that the Christians are gradually absorbing various aspects of the cult. A thought suddenly occurs to me: might not this be the way in which we finally conquer? Is it not possible that the absorber will become so like the absorbed that in time they will be us?+++(5)+++
+</details>
 
 
 
@@ -782,8 +778,11 @@ The sky turned pale. The morning star shone blue. Dark clouds broke. Then just a
 When the sun was at last above the horizon, Maximus opened the door into the mountain and we entered a small cave with seats carved out of the rock. Here Oribasius and I were told to wait while the fathers of Mithras withdrew into yet another cave, the inner sanctuary. Thus began the most momentous day of my life. The day of the honey and of the bread and the wine; the day of the seven gates and the seven planets; the day of challenges and of passwords; the day of prayer and, at its end \(past Raven, Bride, Soldier, Lion, Persian, Courier of the Sun, and Father\), the day of *Nama Nama Sebesio. *
 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-*Libanius*: Of all the mysteries, excepting those at Eleusis, the Mithraic is the most inspiring, for in the course of it one actually experiences the folly of earthly vanity. At each of the seven stages, the initiate acts out what his soul will one day experience as it rises amongst the seven spheres, losing one by one its human faults. At Ares, the desire for war returns to its source; at Zeus, ambition is lost; at Aphrodite, sex, and so on until the soul is purged. Then… But I can say no more. *Nama Nama Sebesio. *
+*Libanius*: Of all the mysteries, excepting those at Eleusis, the Mithraic is the most inspiring, for in the course of it one actually experiences the folly of earthly vanity. At each of the seven stages, the initiate acts out what his soul will one day experience as it rises amongst the seven spheres, losing one by one its human faults. At Ares, the desire for war returns to its source; at Zeus, ambition is lost; at Aphrodite, sex, and so on until the soul is purged. Then… But I can say no more. *Nama Nama Sebesio. *+++(← Mithraic undecyphered incantation.)+++
+</details>
+
 
 
 

@@ -109,7 +109,7 @@ Gallus was somewhat taken aback. "Not for me," he said finally.
 
 "Nor for me, unfortunately." Victor gave me a sympathetic smile. "You must pray for us," he said.
 
-Gallus changed the subject. While he talked hunting with Victor, I stood by silently, beginning to feel already like one of those Galilean monks or "solitaries" as they are called, which is rather a misnomer since no monk is ever solitary. They are the most gregarious set of men in the world, for ever eating, guzzling and gossiping with one another. Most of them retire from the world in order to have a continuous party.
+Gallus changed the subject. While he talked hunting with Victor, I stood by silently, beginning to feel already like one of those Galilean monks or "solitaries" as they are called, which is rather a misnomer since no monk is ever solitary. They are the most gregarious set of men in the world, for ever eating, guzzling and gossiping with one another. Most of them retire from the world in order to have a continuous party.+++(4)+++
 
 "Are you really going to become a priest?" The voice was low.
 
@@ -127,7 +127,7 @@ I turned and saw a young man standing behind me. He had obviously been there for
 
 He drinks almost no wine. He never overeats. He'll live for ever."
 
-"I pray that he does," I said, my heart sinking. What would *my* life be like, lived in the shadow of a never
+"I pray that he does," I said, my heart sinking. What would *my* life be like, lived in the shadow of a never ...
 
 "But why does your brother say you're going to be a priest?"
 
@@ -135,9 +135,7 @@ He drinks almost no wine. He never overeats. He'll live for ever."
 
 "And he associates strangeness with the priesthood?"
 
-I tried not to smile. "Something like that. But I should like to be a philosopher or a rhetorician.
-
-Apparently I have no gift for soldiering. At least Gallus says I haven't. But then, everything depends on the will of the divine Augustus."
+I tried not to smile. "Something like that. But I should like to be a philosopher or a rhetorician. Apparently I have no gift for soldiering. At least Gallus says I haven't. But then, everything depends on the will of the divine Augustus."
 
 "Yes," said Oribasius. He looked at me curiously. I recognized the look. I had seen it all my life. It meant: Are they going to kill this boy? And if they do, how interesting it all is\! From birth I had been treated like a character in a tragic play."Do you like Macellum?"
 
