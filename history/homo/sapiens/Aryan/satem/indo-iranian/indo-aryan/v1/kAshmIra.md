@@ -10,3 +10,4 @@ Kashmiri Paṇḍit-s composed Shaiva poems in Persian verse to conduct morning 
 
 ## Later exoduses
 - In 1990, kAshmIri muslims with and Islamic agenda forced out kAshmIri paNDit-s from the valley.
+- "Worst effect of Genocide was our birth  rate dropped considerably. One child policy was imposed by circumstances. Parents took conscience decision considering their financial and emotional situation." - pratiba kaul
