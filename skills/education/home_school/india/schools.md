@@ -61,6 +61,7 @@ title: Un-schools
   - Students seated on floor study shAstra-s.
 - वेदविज्ञानगुरुकुलम्
 - "शुभं करोति" [web](https://shubhamkarotigurukula.com/)
+- Om Shanti Dhaama, Kanakapura, Bengaluru, 90 kms from Bangalore on the banks of Cauvery.
 
 ## जाल-शिक्षणम्
 - अगस्त्य-गुरुकुलम् - [अत्र](https://www.agastyagurukulam.org/) ।
