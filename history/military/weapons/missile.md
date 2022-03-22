@@ -2,10 +2,14 @@
 title = "+Missile"
 +++
 
+## Meta
+- Drones and cruise missiles can't seize or hold ground.
+
 ## Trajectory and guidence
 - Ballistic trajectory.
 - cruise missiles, which are aerodynamically guided
 - Guided vs unguided
+  - PGM - Precision Guided Missile
 
 ## Source/ Target
 - air-to-air missile

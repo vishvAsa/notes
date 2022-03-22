@@ -16,6 +16,12 @@ title = "Artillery"
   - General ground targets
   - Other tanks
 
+## Grenade launchers
+- Oft carried on armored personnel carriers.
+- Mk 19 40mm belt-fed grenade launcher. 60 rounds per minute (rapid) and 40 rounds per minute (sustained)
+- BTR-4 30mm cannon
+
+
 ## Howitzers
 - short gun for firing shells on high trajectories at low velocities.
 

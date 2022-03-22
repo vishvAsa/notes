@@ -2,6 +2,9 @@
 title = "Battle tactics"
 +++
 
+## Joint use
+Modern warfare is about combined arms. Tanks, infantry, helicopters, artillery, etc. are all vulnerable if employed by themselves. Using them together is how you mitigate their vulnerabilities.
+
 ## Overall Evolution
 ### Plain battle
 - Early infrantry with formations and stampede tactics
