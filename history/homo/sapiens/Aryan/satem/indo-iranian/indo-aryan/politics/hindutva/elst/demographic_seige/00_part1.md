@@ -108,7 +108,7 @@ Muslims are less willing to use birth control, and that the infant
 mortality rate is lower among Muslims because they are more concentrated
 in the cities where medical care is better.      
 
-       For those who dismiss U.N. Mukherjee's reasoning as an obvious
+For those who dismiss U.N. Mukherjee's reasoning as an obvious
 and ridiculous case of paranoia, it may be useful to verify this
 prediction for the subsequent 80 years.  Official census data show that
 the Hindu percentage has declined, and the Muslim percentage increased,

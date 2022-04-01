@@ -24,10 +24,10 @@ Neither the dharma nor the industrial revolution were the major causes here.
 
 Colonialism and loss of soverignity was immensely damaging to India.  
 
-- A remarkable presentation using GapMinder by Hans Rosling reveals how [life expectancy shot up](http://blog.hiddenharmonies.org/2011/11/hans-rosling-sovereignty-and-capitalism-got-china-and-india-moving/) after getting soverignity.
 - Rebuttals of purported "benefits" of colonialism
-    - shashi Tharoor summary: [vid15](https://www.youtube.com/watch?v=f7CW7S0zxv4). 
-    - As Sankrant said: "Were colonized, but got railways is like were raped, but got sex. Japan's rail better, without this."
+  - shashi Tharoor summary: [vid15](https://www.youtube.com/watch?v=f7CW7S0zxv4).
+  - As Sankrant said: "Were colonized, but got railways is like were raped, but got sex. Japan's rail better, without this."
+- A remarkable presentation using GapMinder by Hans Rosling reveals how life expectancy shot up faster [HH](http://blog.hiddenharmonies.org/2011/11/hans-rosling-sovereignty-and-capitalism-got-china-and-india-moving/), [GM](https://www.gapminder.org/tools/#$model$markers$bubble$encoding$x$data$concept=time&space@=time;;&scale$domain:null&zoomed:null&type:null;;&trail$data$filter$markers$ind=1800;;;;;;;;&chart-type=bubbles&url=v1) after getting soverignity.
 
 #### Destruction of industry
 - Post 1830 drop in GDP seems probably due to colonial repression of native industry and enterprise.
