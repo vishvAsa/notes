@@ -14,6 +14,10 @@ title: Un-schools
 
 ## Alternative schools - bengaLUru
 - Poorna.in - many ncbs faculty send kids there.
+- Atelier
+- wise gurukul, run by Geetha - homeschooling coop
+- [vibudhAlaya](https://vibudh.org/)
+  -  "first batch of kids, who wanted to take the exam, took NIOS exams successfully in 2022. we've a general curriculum but help kids prepare for exams, if they choose to go for exams--NIOS/ IGCSE."
 
 ### Aarohi
 - beyond Hosur - [visit ppt](http://aarohilife.org/home/content/visiting-o-campus).

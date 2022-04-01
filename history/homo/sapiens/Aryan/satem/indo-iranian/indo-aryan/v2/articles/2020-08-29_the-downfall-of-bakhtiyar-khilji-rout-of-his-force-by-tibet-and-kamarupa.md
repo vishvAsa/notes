@@ -2,7 +2,7 @@
 title = "Bakhtíyár Khiljí - priyA"
 date = "2020-08-29"
 upstream_url = "https://cestlaviepriya.wordpress.com/2020/08/29/the-downfall-of-bakhtiyar-khilji-rout-of-his-force-by-tibet-and-kamarupa/"
-
+  
 +++
 Source: [here](https://cestlaviepriya.wordpress.com/2020/08/29/the-downfall-of-bakhtiyar-khilji-rout-of-his-force-by-tibet-and-kamarupa/).
 
