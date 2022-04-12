@@ -13,6 +13,12 @@ brother of hakka, who overcame all other south indian kigdoms, including madurai
 - mAdhavAchArya, son of Mayana, [vidyAraNya](http://en.wikipedia.org/wiki/Vidyaranya) shankarAchArya after sannyAsa, who supposedly inspired the founding of vijayanagara (being the kulaguru of one of them - bukka), reinvigorated the arts.
 - His two brothers were Sayana and Bhoganatha.
 
+### shRngeri
+- The copper plate inscription of Harihara, founder of Vijayanagara made to HH Bharati Tirta Swami of Sringeri.  bhAratI tIrtha was the Guru of Sri Vidyaranya & 11th Peetathipathi of Sringeri. Please note that Harihara offers obeisance to Guru Vidyatirtha, the 10th Guru of Sringeri - The plate was from the year 1346. Documented in Epigraphia Carnatica Vol VI.
+- In 1380, Harihara II makes a grant in Sringeri where he eloquently describes the qualities of the Guru Vidyaranya, bhAratI tIrtha and vidyAtIrtha.
+- In 1386, when Sri Vidyaranya attained siddhi, Harihara II made another grant to Sringeri Mutt via copper plates
+
+
 ## sAyaNAchArya
 - minister of harihara and bukka, brother of mAdhava. बौधायनसूत्रः, भारद्वाजः।
 - Sayana who wrote the famous commentaries on the four Vedas in conjunction with his illustrious brother Madhavacharya, was the minister of Bakka I, Kampana, Sangama II and Harihara II, and he appears also to have taken part in Sangama's campaign against Champa.

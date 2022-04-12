@@ -1,5 +1,5 @@
 ---
-title: Money
+title: +Money
 ---
 
 ## Money and value

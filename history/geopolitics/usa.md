@@ -24,6 +24,8 @@ title: USA
     - Push the false claim: Western ethics = human rights.  
 
 ## Country policies
+- Prof Mearsheimmer said in his famous speech on the rise of China & whether this will lead to war with the US that the US deliberately creates chaos death & destruction everywhere on Earth because it's terrified that one day in some peaceful corner an adversary will rise.
+
 ### India
 - Hindu thought has penetrated US pop culture (though not the core). So, India is worthy of being a "cool" satellite to the US core. \[See [American Veda](http://americanveda.com/), for details.\]
 
