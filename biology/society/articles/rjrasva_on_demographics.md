@@ -25,7 +25,11 @@ When Greeks depopulated themselves through hedonism (Polybius), fecund Rome was 
 ### France
 In 1800, France's population comprised a little under a fifth of the European total, and France could attempt to dominate the whole continent; by 1900, with a population that was less than a tenth of Europe's, France was on the way to becoming a second-rank power. Asked which woman he loved most, Napoleon is reported to have replied: 'she who has the largest number of children'.
 
-More dramatic is demographic inversion between Germany & France, clear factor in emboldening Ger for WW1.
+As early as 1849, a French parliamentary deputy saw national decline as rooted in demography: “The first element of power is population, and on this point … France is in full decay."
+
+More dramatic is demographic inversion between Germany & France, clear factor in emboldening Ger for WW1. For several centuries, right up to the 1860s, France was the most populated country in Europe, even ahead of Russia at certain times. Then, mainly due to the effect of a low birth rate at the end of the 18th century, when France entered into war it occupied fifth position in demographic terms in Europe, behind Russia, the German Empire, Austria-Hungary and Great Britain, closely followed by Italy. In 1914, the population of France was still very rural, stagnant and ageing. The 1914 war struck a country which was struggling demographically. 
+
+The enforced effort was huge, and the consequences after the war weighed heavy. Prime Minister Georges Clemenceau may have got a lot of what he wanted in the Treaty of Versailles in terms of punishing Germany, but he declared: “The treaty does not say that France must undertake to have children but it is the first clause which should have been included in it".
 
 
 ### British kid export
@@ -65,6 +69,9 @@ Abortion prevention won't raise TFR much (see Abkhazia's ban results). To work u
 
 ### China
 - China is in no position for any conquest of Siberia. If such an unlikely thing were to even happen, it will be temporary & the people who will control Siberia long term is the people who can populate it as history shows. People ignorant of demography may argue but Dongbei has millions more than the Russian side but again as in war the composition matters, pioneering settlers r young men & women not 60 yr old geriatrics. You might have 10 million but if 40% of them are 60+, your potential settlers are a a lot less than 10 million, especially for a harsh environment like Siberia. Look at permanent settlement demography of 19th & 20th centuries whether its Americas, Canada, Oz, Nz, Hokkaido, Siberia& even Andamans.Usually young men 1st, joined by young women capable of reproduction.
+
+### Costa Rica
+The TFR declined from 1.41 to 1.31. 21% of births were to mothers of foreign origin, mostly from Nicaragua. The number of middle income countries whose demographics resembles developed countries is growing rapidly.
 
 ## Disincentives
 ### 1 child policy impact
