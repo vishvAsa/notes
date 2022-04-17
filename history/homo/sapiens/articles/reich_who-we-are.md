@@ -1995,13 +1995,13 @@ What we can already be sure of is that in Africa, as in every region that has yi
 
 
 
-## Part 3 The Disruptive Genome
+## 3 The Disruptive Genome
 
 
 
 
 
-## 10 The Genomics of Inequality
+### 10 The Genomics of Inequality
 
 
 
@@ -2123,7 +2123,7 @@ The genomic evidence of the antiquity of inequality—between men and women, and
 
 
 
-## 11 The Genomics of Race and Identity
+### 11 The Genomics of Race and Identity
 
 
 
@@ -2271,7 +2271,7 @@ For me, the multitude of interconnected populations that have contributed to eac
 
 
 
-## 12 The Future of Ancient DNA
+### 12 The Future of Ancient DNA
 
 
 
@@ -2351,7 +2351,7 @@ The study of human variation has not always been a force for good. In Nazi Germa
 
 
 
-
+## Notes
 
 
 [^1]: Luigi Luca Cavalli-Sforza, Paolo Menozzi, and Alberto Piazza, *The History and Geography of Human Genes* \(Princeton, NJ: Princeton University Press, 1994\).
