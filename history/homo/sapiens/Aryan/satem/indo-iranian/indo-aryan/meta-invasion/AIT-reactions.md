@@ -4,7 +4,7 @@ title: Reactions to AIT
 
 
 ## Embracing AIT
-- In 1898 Tilak wrote "The Arctic Home in the Vedas". This work propounded the theory that the North Pole was the original home of the Aryans in the pre-glacial period, who migrated to the Northern parts of Europe, Asia and eventually India by about 3000 BCE.
+- In 1898 Tilak wrote "The Arctic Home in the Vedas". This work propounded the theory that the North Pole was the original home of the Aryans in the pre-glacial period, who migrated to the Northern parts of Europe, Asia and eventually India by about 3000 BCE +++(?? Date provided?)+++.
 - Savarkar wrote a booklet named "Essentials Of Hindutva" in 1923 - a foundational document in the history of the movement. In that pamphlet, he implicitly accepts the Aryan Invasion theory by talking of Aryans as a distinct race.
 - Shrikant Taligeri has a section on the "Hindu Invasionist School", quoting fine patriots like BG TiLak, S.D. Kulkarni and vIra sAvarkar supporting AIT. "
 - "In 1939, a biologist turned activist - MS Golwalkar, the Sarsanghchalak of the volunteer body - RSS - wrote a book with a curious title "We or  Our Nationhood Defined". In that book, Golwalkar did a volte face on the Aryan question. And gave  rise to the "Indigenous Aryan" theory that strongly suggested an equivalence of the term Aryan and Indian, and the indigenous origins of  the Aryan race and Aryan languages."

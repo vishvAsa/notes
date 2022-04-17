@@ -10,7 +10,7 @@ title: OIT story
     - (Can in part be explained by the vyutpatti power of sanskrit.)
 
 ### Cattle
-- "one of the slam dunks that some indians do re: intrusive aryans is that the cattle are clearly bos taurus not indicus. but that's not surprising, the latter are really well adapted to tropical climes. also, the steppe ppl brought their dogs to Europe but they died off." - rAzib
+- "one of the slam dunks that some indians do re: intrusive aryans is that the cattle are clearly bos taurus not indicus. But that's not surprising, the latter are really well adapted to tropical climes. also, the steppe ppl brought their dogs to Europe but they died off." - rAzib
 
 ## Problems
 ### Genetic

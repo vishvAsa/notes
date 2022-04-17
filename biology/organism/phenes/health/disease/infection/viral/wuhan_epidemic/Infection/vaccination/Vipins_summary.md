@@ -2,6 +2,7 @@
 title = "Vipin's summary"
 
 +++
+
 - 1-Ten different Covid-19 vaccines have shared their Phase III data; 2 based on mRNA, 4 on viral vector, 3 on inactivated & 1 on protein subunit platform
 - 2-After 4 months of their trials, now there is a definite gradient in their performance:
   - Highly efficacious: mRNA, moderate: viral vector, & low to moderate: inactivated vaccines.
@@ -26,3 +27,25 @@ title = "Vipin's summary"
   - 23. In previously infected individuals with anti-spike IgG positive individuals, only ONE DOSE of mRNA vaccine is sufficient!
 - 21. Most vaccines elicit both humoral and T cell immunity. However, viral vector vaccine, particularly AZ vaccine has got particularly good CD8 cell response which kill virus infected cell and ameliorate severity of disease.
 - 28. Several vaccines are now conducting trials for use of Covid vaccines in pediatric population. Pfizer showed 100% efficacy in 12-15 yrs old, Moderna is doing trial in 6mo to 12 yrs (in US) & 5-11 yrs (in Canada), JNJ 12-17 yrs, Sinovac 3-11 yrs & Novavax 12-17 yrs. AZ has paused their trial in 6-17 yrs.
+
+
+## Vaccine booster efficacy against Omircon
+- From UKHSA data.
+  
+- Booster efficacy against symptomatic Covid drops to ZERO after 20 weeks?
+- VE estimates for the booster dose are very similar, irrespective of the primary course received. VE is generally slightly higher in younger compared to older age groups. 
+- AZ vaccine: 2 doses
+  -VE starts at 45-50%
+  -25 weeks later: Zero.
+- Pfizer or Moderna: 2 doses
+  -VE starts at 65 to 70%
+  -25 weeks later: ~15%
+- Booster of Pfizer or Moderna: 2-4 weeks later
+  -AZ or Pfizer as primary:
+  -VE: increases to 60-75%
+  -20+ weeks later: No effect (VE: 0) 
+
+- VE ag hospitalisation:
+  -Among 18-64 year olds (using all Covid-19 cases admitted via emergency care): VE after a booster peaked at 82.4% & dropped to 53.6% by 15+ weeks after the booster.
+- VE against mortality: (aged 50 years; all vaccines combined) 
+  - At 25-plus weeks following the 2nd dose, VE was ~60% while at 2 or more weeks following a booster VE was 95% against mortality.
