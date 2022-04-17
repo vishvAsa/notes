@@ -9,8 +9,8 @@ January 17, 2019
 <details><summary>सारः (द्रष्टुं नोद्यम्)</summary>
 
 - Ancient DNA (like radio-carbon-dating earlier) has revolutionized archaeology research. It is prestigious and privileged over - say - skull measurements. Mass migrations are established.
-- Landscape is dominated by four well-funded, well-connected labs. Proprietary chemical reagents let them isolate and enrich ancient samples much more accurately and cost-effectively than other labs can. They run like a factory, with thousands on samples stored and processed. Fieldworkers are basically at their mercy - and become junior collaborators.
-- A couple of David Reich's papers on Vanuatu were suspiciously rushed through peer review (Nature and Current Biology), and made excessively bold conclusions (second wave snuffing out the first) relative to limited sample (just 1 site, proxies instead of contemporary samples from Vanuatu). They were superseded by the Jena paper (500 years of ongoing traffic, rather than a decisive event).
+- Landscape is dominated by four well-funded, well-connected labs. Proprietary chemical reagents let them isolate and enrich ancient samples much more accurately and cost-effectively than other labs can. They run like a factory, with thousands on samples stored and processed. Fieldworkers are basically at their mercy (short time to review drafts) - and become junior collaborators.
+- A couple of David Reich's papers on Vanuatu were suspiciously rushed through peer review (Nature and Current Biology), and made excessively bold conclusions (second wave snuffing out the first) relative to limited sample (initially just 3 ancients from 1 site, proxies instead of contemporary samples from Vanuatu). They were superseded by the Jena paper (500 years of ongoing traffic, rather than a decisive event) with better samples (19 ancient, lot of contemporary Vanuatuans) and more interdisciplinary collaboration.
 </details>
 
 
