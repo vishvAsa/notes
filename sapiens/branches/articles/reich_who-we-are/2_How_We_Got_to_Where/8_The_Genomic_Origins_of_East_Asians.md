@@ -28,7 +28,7 @@ In 2011, Eske Willerslev led a study that seemed to show that the early expansio
 There was a problem, though, which is that the analysis did not account for the 3 to 6 percent of ancestry that Australians inherited from archaic Denisovans.19 Because Denisovans were so divergent from modern humans, mixture from them could cause Europeans to share more mutations with Chinese than with Australian Aborigines. Indeed, this explained the findings. My laboratory showed that after accounting for Denisovan mixture, Europeans do not share more mutations with Chinese than with Australians, and so Chinese and Australians derive almost all their ancestry from a homogeneous population whose ancestors separated earlier from the ancestors of Europeans.20 This revealed that a series of major population splits in the history of non-Africans occurred in an exceptionally short time span—beginning with the separation of the lineages leading to West Eurasians and East Eurasians, and ending with the split of the ancestors of Australian Aborigines from the ancestors of many mainland East Eurasians. These population splits all occurred after the time when Neanderthals interbred with the ancestors of non-Africans fifty-four to forty-nine thousand years ago, and before the time when Denisovans and the ancestors of Australians mixed, genetically estimated to be 12 percent more recent than the Neanderthal/modern human admixture, that is, forty-nine to forty-four thousand years ago.21
 
 
-![Figure 22](images/000018.jpg)
+![Figure 22](../images/000018.jpg)
 
 
 
@@ -90,7 +90,7 @@ The Great Admixtures at the East Asian Periphery
 Once the core agricultural populations of the Chinese plain—the Yangtze and Yellow River ghost populations—formed, they expanded in all directions, mixing with groups that had arrived in earlier millennia.
 
 
-![Figure 23](images/000023.jpg)
+![Figure 23](../images/000023.jpg)
 
 
 
@@ -120,7 +120,7 @@ We succeeded at getting DNA from ancient people associated with the Lapita potte
 Ancient DNA from the Southwest Pacific has continued to produce unexpected findings. When we and Johannes Krause’s laboratory, working independently, analyzed the Papuan ancestry in Vanuatu, we found that it was more closely related to that in groups currently living in the Bismarck Islands near New Guinea than to groups currently living in the Solomon Islands—despite the fact that the Solomon Islands are directly along the ocean sailing path to Vanuatu.52 We also found that the Papuan ancestry present in remote Polynesian islands is not consistent with coming from the same source as that in Vanuatu. Thus there must have been not one, not two, but at least three major migrations into the open Pacific, with the first migration bringing East Asian ancestry and the Lapita pottery culture, and the later migrations bringing at least two different types of Papuan ancestry. So instead of a simple story, the spread of humans into the open Pacific was highly complex.
 
 
-![Figure 24](images/000027.jpg)
+![Figure 24](../images/000027.jpg)
 
 
 
@@ -138,7 +138,7 @@ But as I write this chapter, the tsunami of the ancient DNA revolution is cresti
 But it is hard to predict what ancient DNA studies in East Asia will show. While we are beginning to have a relatively good idea of what happened in Europe, Europe does not provide a good road map for what to expect for East Asia because it was peripheral to some of the great economic and technological advances of the last ten thousand years, whereas China was at the center of changes like the local invention of agriculture. What this means is that while we can be sure that the findings from ancient DNA studies in East Asia will be illuminating, we do not yet know what they will be. All we can be sure of is that ancient DNA studies will change our understanding of the human past in this most populous part of the world.
 
 
-![A Series of African Migrations](images/000032.jpg)
+![A Series of African Migrations](../images/000032.jpg)
 
 
 

@@ -44,7 +44,7 @@ It took the revolution wrought by the ability to extract DNA from ancient bones�
 The example of Cavalli-Sforza’s maps shows why his Sforza’s grand bet went sour. He was correct in his assumption that the present-day genetic structure of populations echoes some of the great events in the human past. For example, the lower genetic diversity of non-Africans compared to Africans reflects the reduced diversity of the modern human population that expanded out of Africa and the Near East after around fifty thousand years ago. But the present-day structure of human populations cannot recover the fine details of ancient events. The problem is not just that people have mixed with their neighbors, blurring the genetic signatures of past events. It is actually far more difficult, in that we now know, from ancient DNA, that the people who live in a particular place today almost never exclusively descend from the people who lived in the same place far in the past.9 Under these circumstances, the power of any study that attempts to reconstruct past population movements from present-day populations is limited. In *The History and Geography of Human Genes,* Cavalli-Sforza wrote that he was excluding from his analysis populations known to be the product of major migrations, such as those of European and African ancestry in the Americas that owe their origin to transatlantic migrations in the last five hundred years, or European minorities such as Roma and Jews. His bet was that the past was a much simpler place than the present, and that by focusing on populations today that are not affected by major migrations in their recorded history, he might be studying direct descendants of people who lived in the same places long before. But what the study of ancient DNA has now shown is that the past was no less complicated than the present. Human populations have repeatedly turned over.
 
 
-![Figure 1a](images/000046.jpg)
+![Figure 1a](../images/000046.jpg)
 
 
 
@@ -56,7 +56,7 @@ Figure 1a. A contour plot made by Luca Cavalli-Sforza in 1993 \(adapted above\) 
 Cavalli-Sforza’s transformative contribution to the field of genetic studies of human prehistory recalls the story of Moses, a visionary leader whose achievement was greater than that of anyone who followed him and who created a new template for seeing the world. The Bible says, “No prophet ever arose again in Israel like Moses,” but also tells how Moses was not allowed to reach the promised land. After leading his people for forty years through the wilderness, Moses climbed the mountain of Nebo and looked west over the Jordan River to see the land his people had been promised. But he was not allowed to enter that land. That privilege had been reserved for his successors.
 
 
-![Figure 1b](images/000003.jpg)
+![Figure 1b](../images/000003.jpg)
 
 
 
@@ -70,7 +70,7 @@ So it is with genetic studies of the past. Cavalli-Sforza saw before anyone else
 The first five ancient human genomes were published in 2010: a few archaic Neanderthal genomes,10 the archaic Denisova genome,11 and an approximately four-thousand-year-old individual from Greenland.12 The next few years saw the publication of genome-wide data from five additional humans, followed by a burst of data from thirty-eight individuals in 2014. But in 2015, whole-genome analysis of ancient DNA went into hyperdrive. Three papers added genome-wide datasets from another sixty-six,13 then one hundred,14 and then eighty-three samples.15 By August 2017, my laboratory alone had generated genome-wide data for more than three thousand ancient samples. We are now producing data so fast that the time lag between data production and publication is longer than the time it takes to double the data in the field.
 
 
-![Figure 2](images/000008.jpg)
+![Figure 2](../images/000008.jpg)
 
 
 

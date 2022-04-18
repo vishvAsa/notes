@@ -26,7 +26,7 @@ When we applied the Three Population Test to diverse human populations, we detec
 How could we understand the results of both the Three Population Test and the Four Population Test? We proposed that more than fifteen thousand years ago, there was a population living in northern Eurasia that was not the primary ancestral population of the present-day inhabitants of the region. Some people from this population migrated east across Siberia and contributed to the population that crossed the Bering land bridge and gave rise to Native Americans. Others migrated west and contributed to Europeans. This would explain why today, the evidence of mixture in Europeans is strong when using Native Americans as a surrogate for the ancestral population and not as strong in indigenous Siberians, who plausibly descend from more recent, post–ice age migrations into Siberia from more southern parts of East Asia.
 
 
-![Figure 12: Finding the Ghost of North Eurasia](images/000028.jpg)
+![Figure 12: Finding the Ghost of North Eurasia](../images/000028.jpg)
 
 
 We called this proposed new population the “Ancient North Eurasians.” At the time we proposed them, they were a “ghost”—a population that we can infer existed in the past based on statistical reconstruction but that no longer exists in unmixed form. The Ancient North Eurasians would without a doubt have been called a “race” had they lived today, as we could show that they must have been genetically about as differentiated from all other Eurasian populations who lived at the time as today’s “West Eurasians,” “Native Americans,” and “East Asians” are from one another. Although they have not left unmixed descendants, the Ancient North Eurasians have in fact been extraordinarily successful. If we put together all the genetic material that they have contributed to present-day populations, they account for literally hundreds of millions of genomes’ worth of people. All told, more than half the world’s population derives between 5 percent and 40 percent of their genomes from the Ancient North Eurasians.
@@ -82,7 +82,7 @@ When analyzing ancient DNA data, the usual approach is to compare ancient indivi
 With her samples organized in this way, Fu was able to break down the story of the first thirty-five thousand years of modern humans in West Eurasia into at least five key events.
 
 
-![Figure 13](images/000033.jpg)
+![Figure 13](../images/000033.jpg)
 
 
 
@@ -124,9 +124,6 @@ Spurred by the revolutionary technology of plant and animal domestication, which
 The fusion of these highly different populations into today’s West Eurasians is vividly evident in what might be considered the classic northern European look: blue eyes, light skin, and blond hair. Analysis of ancient DNA data shows that western European hunter-gatherers around eight thousand years ago had blue eyes but dark skin and dark hair, a combination that is rare today.33 The first farmers of Europe mostly had light skin but dark hair and brown eyes—thus light skin in Europe largely owes its origins to migrating farmers.34 The earliest known example of the classic European blond hair mutation is in an Ancient North Eurasian from the Lake Baikal region of eastern Siberia from seventeen thousand years ago.35 The hundreds of millions of copies of this mutation in central and western Europe today likely derive from a massive migration into the region of people bearing Ancient North Eurasian ancestry, an event that is related in the next chapter.36
 
 Surprisingly, the ancient DNA revolution, through its discovery of the pervasiveness of ghost populations and their mixture, is fueling a critique of race that has been raised by scholars in the past, but was never prominent because of a lack of support from hard scientific facts.37 By demonstrating that the genetic fault lines in West Eurasia between ten thousand and four thousand years ago were entirely different from today’s, the ancient DNA revolution has shown that today’s classifications do not reflect fundamental “pure” units of biology. Instead, today’s divisions are recent phenomena, with their origin in repeating mixtures and migrations. The findings of the ancient DNA revolution suggest that the mixtures will continue. Mixture is fundamental to who we are, and we need to embrace it, not deny that it occurred.
-
-
-![How Europe’s Three Ancestral Populations Came Together](images/000037.jpg)
 
 
 

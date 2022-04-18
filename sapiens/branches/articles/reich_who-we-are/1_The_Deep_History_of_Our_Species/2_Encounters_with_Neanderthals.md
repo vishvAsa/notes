@@ -4,6 +4,8 @@ title = "2 Encounters with Neanderthals"
 +++
 
 
+![The Age of Neanderthals](../images/000031.jpg)
+
 
 
 
@@ -28,7 +30,7 @@ There is hard scientific evidence that modern humans and Neanderthals met. The m
 Meetings between Neanderthals and modern humans took place not only in Europe but almost certainly in the Near East as well. After around seventy thousand years ago, a strong and successful Neanderthal population expanded from Europe into central Asia as far as the Altai Mountains, and into the Near East. The Near East had already been inhabited by modern humans, as attested by remains at Skhul Cave on the Carmel Ridge in Israel and Qafzeh Cave in the Lower Galilee dating to between about 130,000 and 100,000 years ago.10 Later, Neanderthals moved into the region, with one skeleton at Kebara Cave on the Carmel Ridge dating to between sixty and forty-eight thousand years ago.11 Reversing the expectation we might have that modern humans displaced Neanderthals at every encounter, Neanderthals were advancing from their homeland \(Europe\) even as modern humans retreated. Sometime after sixty thousand years ago, though, modern humans began to predominate in the Near East. Now the Neanderthals were the losers in the encounter, and they went extinct not only in the Near East but eventually elsewhere in Eurasia as well. So it was that in the Near East there were at least two opportunities for encounters between Neanderthals and modern humans: when early modern humans first peopled the region before around one hundred thousand years ago and established a population that met the expanding Neanderthals, and when modern humans returned and displaced the Neanderthals there sometime around sixty or fifty thousand years ago.
 
 
-![Figure 6](images/000035.jpg)
+![Figure 6](../images/000035.jpg)
 
 
 
@@ -76,7 +78,7 @@ The Neanderthal genome sequences we were working with were unfortunately full of
 The test we developed is now called the “Four Population Test,” and it has become a workhorse for comparing populations. The test takes as its input the DNA letters seen at the same position in four genomes: for example, two modern human genomes, the Neanderthal, and a chimpanzee. It examines whether, at positions where there is a mutation distinguishing the two modern human genomes that is also observed in the Neanderthal genome—which must reflect a mutation that occurred prior to the final separation of Neanderthals and modern humans—the Neanderthal matches the second human population at a different rate from the first. If the two modern humans descend from a common ancestral population that separated earlier from the ancestors of Neanderthals, there is no reason why the mutation is more likely to have been passed down one modern human line than another, and thus the rate of matching of each of the two modern human genomes to Neanderthal is expected to be equal. In contrast, if Neanderthals and some modern humans interbred, the modern human population descended from the interbreeding will share more mutations with Neanderthals.
 
 
-![Figure 7](images/000039.jpg)
+![Figure 7](../images/000039.jpg)
 
 
 
@@ -102,11 +104,11 @@ We remained skeptical, wondering if something we had not thought of could explai
 Next, we obtained a date for when the Neanderthal-related genetic material entered the ancestors of non-Africans. To do this, we took advantage of recombination—the process that occurs during the production of a person’s sperm or eggs that swaps large segments of parental DNA to produce novel spliced chromosomes that are passed to the offspring. For example, consider a woman who is a first-generation mixture of a Neanderthal mother and a modern human father. In her cells, each pair of her chromosomes consists of one unbroken Neanderthal chromosome and one unbroken modern human chromosome. However, her eggs contain twenty-three mixed chromosomes. One chromosome in an egg of hers might have its first half of Neanderthal origin and its other half of modern human origin. Suppose she mates with a modern human, and mixture continues down the generations with more modern humans. Over the generations, the segments of Neanderthal DNA get chopped into smaller and smaller bits, with recombination operating like the whirring blade of a food processor, splicing the parental DNA at random positions along the chromosome in each generation. By measuring the typical sizes of the stretches of Neanderthal-related DNA in present humans, evident from the size of sequences that match the Neanderthal genome more than they do sub-Saharan African genomes, we can learn how many generations have passed since the Neanderthal DNA entered a modern person’s ancestors.
 
 
-![The chopping up of chromosomes every generation](images/000043.jpg)
+![The chopping up of chromosomes every generation](../images/000043.jpg)
 
 
 
-![provides a clock for dating mixture events](images/000000.jpg)
+![provides a clock for dating mixture events](../images/000000.jpg)
 
 
 
@@ -162,7 +164,7 @@ Since the publication of our paper in 2006 suggesting that either humans or chim
 An even more important piece of evidence came from a paper Schierup and Mailund published in 2015, when together with other colleagues, they showed that the regions that are denuded of Neanderthal mixture on chromosome X in non-Africans are to a large extent the same regions that are driving the low genetic divergence between humans and chimpanzees.39 This is what would be expected if mutations that contribute to reduced fertility when they occur in a hybrid individual tend to be concentrated not just on chromosome X, but in particular regions along chromosome X, causing the minority ancestry to be removed from the population by natural selection against the male hybrids who carry it. The evidence of selection to remove Neanderthal DNA from chromosome X was a tell-tale sign that male hybrids had reduced fertility.
 
 
-![Figure 9: Neanderthal ancestry has been removed over time by natural selection](images/000006.jpg)
+![Figure 9: Neanderthal ancestry has been removed over time by natural selection](../images/000006.jpg)
 
 
 We also found a second line of evidence for infertility in hybrids of Neanderthals and modern humans—a line of evidence that had nothing to do with the X chromosome. When reduced fertility is observed in hybrid males, the genes responsible tend to be highly active in the male reproductive tissue, causing malfunctions of sperm. So a prediction of the hypothesis of male hybrid infertility suggested to me by evolutionary biologist Daven Presgraves after I showed him the X chromosome evidence is that genes unusually active in the germ cells of a man’s testicles will have less Neanderthal ancestry on average than genes that are most active in other body tissues. When we looked in real data, Presgraves’s prediction was exactly borne out.40
@@ -190,7 +192,7 @@ At the conclusion of the Neanderthal genome project, I am still amazed by the su
 So the genetic record has forced our hand. Instead of confirming scientists’ expectations, it has produced surprises. We now know that Neanderthal/modern human hybrid populations were living in Europe and across Eurasia, and that while many hybrid populations eventually died out, some survived and gave rise to large numbers of people today. We now know approximately when the modern human and Neanderthal lineages separated. We now also know that when these lineages reencountered each other, they had evolved to such an extent that they were at the very limit of biological compatibility. This raises a question: Were the Neanderthals the only archaic humans who interbred with our ancestors? Or were there other major hybridizations in our past?
 
 
-![A Multiplicity of Archaic Human Lineages](images/000011.jpg)
+![A Multiplicity of Archaic Human Lineages](../images/000011.jpg)
 
 
 

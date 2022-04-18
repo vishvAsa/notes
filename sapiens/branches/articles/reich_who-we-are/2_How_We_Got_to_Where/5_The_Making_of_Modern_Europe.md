@@ -4,6 +4,7 @@ title = "5 The Making of Modern Europe"
 +++
 
 
+![How Europe’s Three Ancestral Populations Came Together](../images/000037.jpg)
 
 
 
@@ -14,7 +15,7 @@ In 2009, geneticists led by Joachim Burger sequenced stretches of mitochondrial 
 Mitochondrial DNA is only a small portion of the genome, however, and the whole-genome studies that followed delivered strange results. In 2012, a team of geneticists sequenced the genome of the “Iceman,” a natural mummy dating to approximately fifty-three hundred years ago that was discovered in 1991 on a melting glacier in the Alps.2 The cold had preserved his body and equipment, providing a vivid snapshot of what obviously had been an extraordinarily complex culture dating to thousands of years before the arrival of writing. His skin was covered with dozens of tattoos. He wore a woven grass cloak and finely sewn shoes. He carried a copper-bladed axe and a kit for lighting fires. An arrowhead in his shoulder and a torn artery showed that he had been shot and had stumbled to the top of a mountain pass before collapsing. Based on the isotopes of the elements strontium, lead, and oxygen in the enamel capping his teeth, it seemed likely he had grown up in a nearby valley where isotopes \(contained in groundwater and plants, and derived from the local rocks\) had similar ratios.3 But the ancient DNA data showed that his closest genetic relatives are not present-day Alpine people. Instead, his closest relatives today are the people of Sardinia, an island in the Mediterranean Sea.
 
 
-![Figure 14a](images/000041.jpg)
+![Figure 14a](../images/000041.jpg)
 
 
 
@@ -26,7 +27,7 @@ Figure 14a. Archaeology and linguistics provide evidence of profound transformat
 This strange link to present-day Sardinians kept turning up. In the same year that the Iceman’s genome was published, Pontus Skoglund, Mattias Jakobsson, and colleagues at the University of Uppsala published four genome sequences from individuals who lived about five thousand years ago in Sweden.4 A leading theory up until their study was that the Swedish hunter-gatherers who lived at that time descended from farmers who had adapted a hunter-gatherer lifestyle to exploit the rich fisheries of the Baltic Sea, and were not directly descended from the hunter-gatherers who had lived in northern Europe \(including Sweden\) several thousand years earlier. But ancient DNA disproved this theory. Instead of being genetically close to each other, the farmers and hunter-gatherers were almost as different from each other as Europeans are from East Asians today. And the farmers once again had that strange link to Sardinians.
 
 
-![Figure 14b](images/000045.jpg)
+![Figure 14b](../images/000045.jpg)
 
 
 
@@ -54,7 +55,7 @@ Our initial approach was to carry out a principal component analysis, which can 
 First came the hunter-gatherers, who themselves were the product of a series of population transformations over the previous thirty-five thousand years as described in the last chapter, the most recent of which was a massive expansion of people out of southeastern Europe by around fourteen thousand years ago that displaced much of the previously established population.12 In principal component analysis, the hunter-gatherers who lived in Europe at this time fell beyond present-day Europeans along an axis measuring the difference between Europe and the Near East. This was consistent with their having contributed ancestry to present-day Europeans but not to present-day Near Easterners.
 
 
-![Figure 15](images/000002.jpg)
+![Figure 15](../images/000002.jpg)
 
 
 
@@ -130,7 +131,7 @@ Once the Bell Beaker culture reached central Europe through the dispersal of ide
 It turns out that the discredited idea of the “Beaker Folk” was right for Britain, although wrong as an explanation for the spread of the Bell Beaker culture over the European continent as a whole. So it is that ancient DNA data are beginning to provide us with a more nuanced view of how cultures changed in prehistory. Prompted by the ancient DNA results, several archaeologists have speculated to me that the Bell Beaker culture could be viewed as a kind of ancient religion that converted peoples of different backgrounds to a new way of viewing the world, thus serving as an ideological solvent that facilitated the integration and spread of steppe ancestry and culture into central and western Europe. At a Hungarian Bell Beaker site, we found direct evidence that this culture was open to people of diverse ancestries, with individuals buried in a Bell Beaker cultural context having the full range of steppe ancestry from zero to 75 percent \(as high as in people associated with the Corded Ware culture\).
 
 
-![Figure 16](images/000012.jpg)
+![Figure 16](../images/000012.jpg)
 
 
 
@@ -166,7 +167,7 @@ To an outsider, it might seem surprising that DNA can have a definitive impact o
 A great lesson of the ancient DNA revolution is that its findings almost always provide accounts of human migrations that are very different from preexisting models, showing how little we really knew about human migrations and population formation prior to the invention of this new technology. The vision of Indo-Europeans or “Aryans” as a “pure” group has sparked nationalist sentiments in Europe since the nineteenth century.45 There were debates about whether the Celts or the Teutons or other groups were the real “Aryans,” and Nazi racism was fueled by this discussion. The genetic data have provided what might seem like uncomfortable support for some of these ideas—suggesting that a single, genetically coherent group was responsible for spreading many Indo-European languages. But the data also reveal that these early discussions were misguided in supposing purity of ancestry. Whether the original Indo-European speakers lived in the Near East or in eastern Europe, the Yamnaya, who were the main group responsible for spreading Indo-European languages across a vast span of the globe, were formed by mixture. The people who practiced the Corded Ware culture were a further mixture, and northwestern Europeans associated with the Bell Beaker culture were yet a further mixture. Ancient DNA has established major migration and mixture between highly divergent populations as a key force shaping human prehistory, and ideologies that seek a return to a mythical purity are flying in the face of hard science.
 
 
-![South Asian Population History](images/000004.jpg)
+![South Asian Population History](../images/000004.jpg)
 
 
 

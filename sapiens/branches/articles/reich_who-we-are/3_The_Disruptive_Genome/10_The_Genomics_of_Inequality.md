@@ -62,7 +62,7 @@ From ancient DNA combined with archaeology, we are beginning to build a picture 
 The archaeologist Marija Gimbutas has argued that Yamnaya society was unprecedentedly sex-biased and stratified. The Yamnaya left behind great mounds, about 80 percent of which had male skeletons at the center, often with evidence of violent injuries and buried amidst fearsome metal daggers and axes.22 Gimbutas argued that the arrival of the Yamnaya in Europe heralded a shift in the power relationships between the sexes. It coincided with the decline of “Old Europe,” which according to Gimbutas was a society with little evidence of violence, and in which females played a central social role as is apparent in the ubiquitous Venus figurines. In her reconstruction, “Old Europe” was replaced by a male-centered society, evident not only in the archaeology but also in the male-centered Greek, Norse, and Hindu mythologies of the Indo-European cultures plausibly spread by the Yamnaya.23
 
 
-![Figure 28a](images/000001.jpg)
+![Figure 28a](../images/000001.jpg)
 
 
 
@@ -74,7 +74,7 @@ Figure 28a. Human populations have expanded dramatically in the last fifty thous
 Any attempt to paint a vivid picture of what a human culture was like before the period of written texts needs to be viewed with caution. Nevertheless, ancient DNA data have provided evidence that the Yamnaya were indeed a society in which power was concentrated among a small number of elite males. The Y chromosomes that the Yamnaya carried were nearly all of a few types, which shows that a limited number of males must have been extraordinarily successful in spreading their genes. In contrast, in their mitochondrial DNA, the Yamnaya had more diverse sequences.24 The descendants of the Yamnaya or their close relatives spread their Y chromosomes into Europe and India, and the demographic impact of this expansion was profound, as the Y-chromosome types they carried were absent in Europe and India before the Bronze Age but are predominant in both places today.25
 
 
-![Figure 28b](images/000007.jpg)
+![Figure 28b](../images/000007.jpg)
 
 
 

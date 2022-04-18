@@ -14,13 +14,13 @@ In an origins story of the Suruí tribe of Amazonia, the god Palop first made hi
 This origins story was documented by an anthropologist working to understand Suruí culture, and, like origins stories the world over, it is viewed by scholars as fictional, of interest because of what it reveals about a society. But we scientists too have origins stories. We like to think these are superior because they are tested by the scientific method against a range of evidence. But some humility is in order. In 2012, I led a study that claimed that all Native Americans from Mesoamerica southward—including the Suruí—derived all of their ancestry from a single population, one that moved south of the ice sheets sometime after fifteen thousand years ago.2 I was so confident of this theory, which fit with the consensus derived from archaeology, that I used the term “First American” to signal that the lineage we had highlighted was a founding lineage. Three years later, I found out I was wrong. The Suruí and some of their neighbors in Amazonia harbor some ancestry from a different founding population of the Americas, whose ancestors arrived at a time and along a route we still do not understand.3
 
 
-![Figure 19: Genetic Evidence of at Least Four Prehistoric Migrations to America](images/000042.jpg)
+![Figure 19: Genetic Evidence of at Least Four Prehistoric Migrations to America](../images/000042.jpg)
 
 
 If there is anything that scholars studying the history of humans in the Americas agree on, it is that the span of human occupation of the New World has been the blink of an eye relative to the extraordinary length of the human occupation of Africa and Eurasia. The reason for humans’ late arrival to America lies in the geographical barriers that separate the continent from Eurasia: vast stretches of cold, harsh, and unproductive landscapes in Siberia, and oceans to the east and west. It took until the last ice age for Siberia’s northeastern corner to be visited by people with the skills and technology needed to survive there at a time when sea levels were low enough for a land bridge to emerge in what is now the Bering Strait region, enabling them to walk across to Alaska. Once there, the migrants were able to survive, but they still could not have traveled south, at least by land, as they were blocked by a wall of glacial ice formed by the joining together of kilometer-thick ice sheets that buried Canada.
 
 
-![If there is anything that scholars studying](images/000047.jpg)
+![If there is anything that scholars studying](../images/000047.jpg)
 
 
 How were the Americas first peopled? Until two decades ago, the prevailing hypothesis was that the gates of the American Eden only opened after around thirteen thousand years ago. Evidence from plant and animal remains and the radiocarbon dating of glacial features indicate that by this time, the ice sheets had melted enough to allow a gap to open, and sufficient time had passed to allow the barren rocks, mud, and glacial runoff to give way to vegetation.4 In scientific storytelling, this “ice-free corridor” was an American version of the channel of dry land that the Israelites used to cross the Red Sea in the biblical account of the Exodus from Egypt. The migrants who passed through emerged into North America’s Great Plains. Before them was a land filled with massive game that had never before met human hunters. Within a thousand years, the humans had reached Tierra del Fuego at the foot of South America, feasting on the bison, mammoths, and mastodons that roamed the landscape.
@@ -126,7 +126,7 @@ The critique of Greenberg’s ideas that followed was withering. Critics argued 
 But Greenberg got something right. His category of Amerind corresponds almost exactly to the First American category found by genetics. The clusters of populations that he predicted to be most closely related based on language were in fact verified by the genetic patterns in populations for which data are available. And the present-day balkanization of Native American languages also reflects a history in which the great majority of populations descend from a single migratory spread. Anyone looking at a language map of the Americas can see that its appearance is qualitatively different from that of Eurasia or Africa, with dozens of language families restricted to small territories, compared to the vast swaths of territory in Eurasia and Africa inhabited by people who speak closely related tongues in the Indo-European, Austronesian, Sino-Tibetan, and Bantu language families, each of which reflects a history of mass migrations and population replacements. The First American expansion seems to have been so fast that the languages of the continent are related by a rake-like structure with many tines extending in parallel to a common root that dates close to the time of the early settlement of the Americas.34 So both the genetic and linguistic evidence support a scenario in which many of the present-day Native American populations are direct descendants of populations that plausibly lived in the same region shortly after the first peopling of the continent. This suggests that after the initial dispersal, population replacement was more infrequent in the Americas than it was in Africa and Eurasia.
 
 
-![Figure 20](images/000005.jpg)
+![Figure 20](../images/000005.jpg)
 
 
 
@@ -148,7 +148,7 @@ Some physical anthropologists studying the shapes of human skeletons had for yea
 These claims are controversial. Morphological traits vary depending on diet and environment, and after the arrival of humans in the Americas, natural selection as well as random changes that accumulate in populations over time may have contributed to morphological change. The experience of Kennewick Man, whose skeleton has morphological affinities to those of Pacific Rim populations but genetically is derived entirely from the same ancestral population as other Native Americans, serves as a great warning—an object lesson about the danger of interpreting morphology as strong evidence of population relationships.37 Many have criticized Neves by suggesting that his analyses were statistically flawed, in that he chose which sites to include in his analysis in order to strengthen his Paleoamerican idea and deliberately left out those that did not fit, an approach inconsistent with rigorous science.
 
 
-![Figure 21](images/000009.jpg)
+![Figure 21](../images/000009.jpg)
 
 
 
@@ -202,7 +202,7 @@ A third example of what genetics can offer is the story of the arrival of agricu
 The dream, of course, is to carry out studies like these more systematically. Modern genetic studies and ancient DNA enable us to discover how Native American cultures are connected by links of migration, and how the spread of languages and technologies corresponded to ancient population movements. Many of these stories have been lost because of the European exploitation that has decimated Native American populations and their culture. Genetics offers the opportunity to rediscover lost stories, and has the potential to promote not just understanding but also healing.
 
 
-![East Asia and the Pacific](images/000014.jpg)
+![East Asia and the Pacific](../images/000014.jpg)
 
 
 

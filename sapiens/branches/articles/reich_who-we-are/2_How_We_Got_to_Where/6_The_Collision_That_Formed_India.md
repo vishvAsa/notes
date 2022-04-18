@@ -60,7 +60,7 @@ Singh and Thangaraj were excited to collaborate and quickly convinced me that th
 A few months later, Thangaraj came to our laboratory in Boston, bringing with him this unique and precious set of DNA samples. We analyzed them using a single nucleotide polymorphism \(SNP\) microarray, a technology that had just recently become available in the United States but was not yet available in India. For this reason, Thangaraj had been granted permission by the Indian government to take the DNA outside India. \(There are Indian regulations limiting export of biological material if the research can be achieved within the country.\)
 
 
-![Figure 17a](images/000025.jpg)
+![Figure 17a](../images/000025.jpg)
 
 
 
@@ -70,7 +70,7 @@ Figure 17a. People in the north primarily speak Indo-European languages and have
 
 
 
-![Figure 17b](images/000030.jpg)
+![Figure 17b](../images/000030.jpg)
 
 
 
@@ -217,7 +217,7 @@ This was a great surprise. Our finding that both the ANI and ASI had large amoun
 Patterson proposed a major revision to our working model for deep Indian history.45 The ANI were a mixture of about 50 percent steppe ancestry related distantly to the Yamnaya, and 50 percent Iranian farmer–related ancestry from the groups the steppe people encountered as they expanded south. The ASI were also mixed, a fusion of a population descended from earlier farmers expanding out of Iran \(around 25 percent of their ancestry\), and previously established local hunter-gatherers of South Asia \(around 75 percent of their ancestry\). So the ASI were not likely to have been the previously established hunter-gatherer population of India, and instead may have been the people responsible for spreading Near Eastern agriculture across South Asia. Based on the high correlation of ASI ancestry to Dravidian languages, it seems likely that the formation of the ASI was the process that spread Dravidian languages as well.
 
 
-![Figure 18](images/000034.jpg)
+![Figure 18](../images/000034.jpg)
 
 
 
@@ -233,7 +233,7 @@ The Yamnaya—who the genetic data show were closely related to the source of th
 The picture of population movements in India is still far less crisp than our picture of Europe because of the lack of ancient DNA from South Asia. An outstanding mystery is the ancestry of the peoples of the Indus Valley Civilization, who were spread across the Indus Valley and parts of northern India between forty-five hundred to thirty-eight hundred years ago, and were at the crossroads of all these great ancient movements of people. We have yet to obtain ancient DNA from the people of the Indus Valley Civilization, but multiple research groups, including mine, are pursuing this as a goal. At a lab meeting in 2015, the analysts in our group went around the table placing bets on the likely genetic ancestry of the Indus Valley Civilization people, and the bets were wildly different. At the moment, three very different possibilities are still on the table. One is that Indus Valley Civilization people were largely unmixed descendants of the first Iranian-related farmers of the region, and spoke an early Dravidian language. A second possibility is that they were the ASI—already a mix of people related to Iranian farmers and South Asian hunter-gatherers—and if so they would also probably have spoken a Dravidian language. A third possibility is that they were the ANI, already mixed between steppe and Iranian farmer–related ancestry, and thus would instead likely have spoken an Indo-European language. These scenarios have very different implications, but with ancient DNA, this and other great mysteries of the Indian past will soon be resolved.
 
 
-![Migrations to the Americas](images/000038.jpg)
+![Migrations to the Americas](../images/000038.jpg)
 
 
 

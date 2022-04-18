@@ -76,7 +76,7 @@ About the Author
 
 
 
-![30 Population Mixtures](images/000016.jpg)
+![30 Population Mixtures](../images/000016.jpg)
 
 
 

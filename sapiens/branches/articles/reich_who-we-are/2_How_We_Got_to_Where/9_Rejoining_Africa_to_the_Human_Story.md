@@ -44,7 +44,7 @@ There was also a third line of evidence for archaic mixture. A commonly held vie
 These results suggest the possibility that major mixture in Africa occurred in the time well before around fifty thousand years ago when modern human behavior burst into full flower in the archaeological record. This mixture wasn’t a minor event, such as the approximately 2 percent Neanderthal admixture in non-Africans or the ghost archaic ancestry in Africans found by Wall and Hammer. Because this mixture was closer to 50/50, it is not even clear which one of the source populations should properly be considered archaic and which modern. Perhaps neither was modern, or neither was archaic. Perhaps the mixture itself was essential to forging modern humans, bringing together biological traits from the two mixing populations and combining them in new ways that were advantageous to the newly formed populations.
 
 
-![Figure 25](images/000036.jpg)
+![Figure 25](../images/000036.jpg)
 
 
 
@@ -65,7 +65,7 @@ The agriculturalist expansion that had the greatest impact on Africa is the one 
 Ultra-sensitive genetic methods, which can detect shared relatives of pairs of individuals in the past few thousand years, have now made it possible to learn something about the geographic path of the Bantu expansion. The genetic variation in Bantu speakers in East Africa is more closely related to the genetic variation in Malawi to the south of the Central African rainforests than it is to genetic variation in Cameroon.20 This suggests that the initial Bantu expansion was largely to the south and that the movement to East Africa was a later expansion from a southern staging ground. This contrasts with the theory of a direct eastward movement from Cameroon, a theory that had been plausible prior to the genetic data.
 
 
-![Figure 26](images/000040.jpg)
+![Figure 26](../images/000040.jpg)
 
 
 
@@ -105,7 +105,7 @@ The East African Foragers were not a homogeneous population. This is evident fro
 The second surprise was our discovery that some of our ancient African forager population samples shared ancestry from both South African Forager lineages and East African Forager lineages. Today, South African Forager lineages are essentially entirely restricted to southernmost Africa, where they form an important part of the ancestry of nearly all of the populations that use languages with clicks in them, and where they contribute almost all the ancestry of present-day San foragers as well as the ancient forager genomes we generated from southern Africa. But our ancient samples show that the term “South African Forager” may be misleading about where the ancestral population of this group arose. Two approximately fourteen-hundred-year-old individuals from Zanzibar and Pemba islands off the coast of Tanzania—an island chain that separated from the mainland approximately ten thousand years ago as sea levels rose and thus plausibly harbors isolated descendants of a forager population that lived in East Africa around that time40—were a mixture of approximately one-third South African Forager–related ancestry and the remainder East African Forager ancestry.41 A series of seven samples from three different archaeological sites in Malawi in south-central Africa, which we dated to between about eighty-one hundred and twenty-five hundred years ago, were part of a homogeneous population that harbored about two-thirds South African Forager–related ancestry and the remainder East African Forager ancestry. So South African Forager ancestry was in the past distributed over a much broader swath of the continent, making it hard to know where this ancient population originated.
 
 
-![Figure 27](images/000044.jpg)
+![Figure 27](../images/000044.jpg)
 
 
 

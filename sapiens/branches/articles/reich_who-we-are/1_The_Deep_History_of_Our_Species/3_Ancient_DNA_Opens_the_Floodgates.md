@@ -42,7 +42,7 @@ Skeptical of our findings, we cast around for alternative explanations. Had the 
 As soon as archaic populations mix with modern ones, the DNA segments contributed by archaic humans are chopped up by the process of recombination, spliced together with modern human segments at the rate of one or two splices per chromosome per generation. As discussed in chapter two, the length of Neanderthal ancestry segments corresponds to mixture between fifty-four and forty-nine thousand years ago.9 Based on how much longer the Denisovan segments were than the Neanderthal segments in New Guineans, we could conclude that the interbreeding between Denisovan and New Guinean ancestors occurred fifty-nine to forty-four thousand years ago.10
 
 
-![Figure 10](images/000015.jpg)
+![Figure 10](../images/000015.jpg)
 
 
 
@@ -126,7 +126,7 @@ Part of the reason we detect the oldest splitting lineages in Eurasians may be w
 But another possibility suggests itself, which is that the ancestral population of modern humans, Neanderthals, and Denisovans actually lived in Eurasia, descending from the original *Homo erectus* spread out of Africa. In this scenario, there was later migration back from Eurasia to Africa, providing the primary founders of the population that later evolved into modern humans. The attraction of this theory is its economy: it requires one less major population movement between Africa and Eurasia to explain the data. The superarchaic population and the ancestral population of modern humans, Denisovans, and Neanderthals could both have arisen within Eurasia, without requiring two further out-of-Africa migrations, as long as there was just one later migration back into Africa to establish shared ancestry with modern humans there.
 
 
-![Figure 11](images/000019.jpg)
+![Figure 11](../images/000019.jpg)
 
 
 
