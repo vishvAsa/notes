@@ -35,7 +35,3 @@ The genes and phenes of organisms vary. These variations arise due to environmen
 
 ### Homology
 Homologous genes/ phenes are similar genes/ phenes occurring in different species. If the homology arose due to a speciation event, it is called orthology.
-
-## Human genome
-There are 23 pairs of chromosomes in a diploid cell, with over $3*10^9$ base pairs and $\approx 23000$ protein coding genes.
-
