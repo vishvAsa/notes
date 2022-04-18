@@ -1,6 +1,7 @@
----
-title: USA
----
++++
+title = "Geopolitics"
+unicode_script = "devanagari"
++++
 
 ## unmAda competition
 - "Given that the current +++(rudhironmAda v2)+++ strain is still an unmāda it will compete vigorously with other unmāda-s for its host. Since, none of these unmāda-s kill the host the battle is not going to lead to attenuation in anyway... In any case we can say that already a covert war between two unmāda-s, like the crusade and the jihād, is under way among the maha-mleccha." - [MT](https://manasataramgini.wordpress.com/2020/06/08/pandemic-days-the-fizz-is-out-of-the-bottle/)

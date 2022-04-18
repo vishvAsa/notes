@@ -3,9 +3,6 @@ title: China
 
 ---
 
-## Current status
-- Territorial aggression by mainland China is being opposed by a good coalition of neighbors - India, Japan, Taiwan, Vietnam, Korea, Mongolia, Russia.
-
 ## Recent history
 - "The Han civilization was largely demolished by the cunning mlechCha-s, followed by a stern cut from the samurai’s blade. However, the mlechCha-s in their conquest of Japan ended up giving the chIna-s a new leash of life. The chIna-s not being the type that easily passes up an opportunity took the chance to resurrect their power and display their belligerence ever since."
 - "Ironically, they have been aided in this process by none other than the mlechCha-s, whose constructs they have exploited against the mlechCha-s themselves and also other civilizations. The key in all this was the destruction and conquest of Japan which was vastly superior to the chIna-s in military prowess. This completely freed their eastern flank, with Japan unlikely to ever challenge the chIna power again."

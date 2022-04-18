@@ -1,5 +1,5 @@
 ---
-title: Europe
+title: Europe geopolitics
 ---
 
 ## unmAda competition
