@@ -3,7 +3,7 @@ title = "6 The Collision That Formed India"
 
 +++
 
-![South Asian Population History](../images/000004.jpg)
+![South Asian Population History](../images/6_overview.jpg)
 
 
 ## The Fall of the Indus Civilization

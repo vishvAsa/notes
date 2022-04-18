@@ -4,7 +4,7 @@ title = "5 The Making of Modern Europe"
 +++
 
 
-![How Europe’s Three Ancestral Populations Came Together](../images/000037.jpg)
+![How Europe’s Three Ancestral Populations Came Together](../images/5_overview.jpg)
 
 
 
