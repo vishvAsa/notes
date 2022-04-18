@@ -5,6 +5,8 @@ title = "7 In Search of Native American Ancestors"
 
 
 
+![Migrations to the Americas](../images/000038.jpg)
+
 
 
 Origins Stories
