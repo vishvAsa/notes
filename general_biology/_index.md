@@ -1,5 +1,5 @@
 +++
-title = "+Biology"
+title = "+General Biology"
 +++
 
 ## Themes
