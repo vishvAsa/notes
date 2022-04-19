@@ -24,6 +24,14 @@ title = "Lock"
 - Wiring diagram [here](https://tinxy.in/wp-content/uploads/2019/09/REMOTE7-1012x1024.jpg).  Instruction manual [here](https://docs.google.com/document/d/19CUIW6-FGX7kiGI2oPKC09dlQ9MQ3XdqsDB7JVbGHM0/edit).
   - 240 V input at P1. P2 - connection to the lock. P3 - switch or other device (like keypad). P4 - door close sensor.
 - Controller Dimensions: 14cm, 7.5cm, 3.7cm
+- Firmware update can be done via the App. Doesn't happen automatically according ot customer support.
+
+#### Usage history
+- 4 Wifi controllers + electronic locks  purchased (18 Jan 2021).
+- Installation of the electronic lock was tricky for the carpenter - lost one lock and needed to repay and reorder (7 Apr 2021). Customer support was ok.
+- L1 door lock controller stopped working on 11 Apr 2022. Green LED went off. 
+  - Customer support initially idiotically asked me to swap phase and neutral of AC input - obviously fruitless. Warranty expired.
+- L0 and L2 door lock controller stopped working on 19 Apr 2022. Green LED went off.
 
 ### Alternates
 - Uwanxt - [Amazon](https://www.amazon.in/UwaNxt-Electronic-Silver-Standard-Single/dp/B083M3HSK8/)
