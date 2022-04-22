@@ -25,3 +25,25 @@ Next up will be those fighting positions, and then I'll get into clearing throug
 Addendum: There's all kinds of other obstacles beyond just these.
 
 Pictured: Dragon's Teeth, Czech Hedgehogs, "Rommel's Asparagus" anti-glider rail/wire obstacles and French antitank rails on the Maginot Line.
+
+
+## Overcoming obstacles
+
+Alright team, we've already talked about obstacles and fortifications. Now we'll talk about getting through them. This will be a two-parter - today we'll talk about breaching tactical obstacles on a relatively sterile battlefield. Later we'll talk more realistic scenarios.
+
+It's my private theory that the whole tactical/protective obstacle division in Western doctrine is the product of preparing to defend West Germany from the Soviets for so long. It assumes a mobile battlefield where you can set up a proper kill zone, not positional warfare. As we've seen in Ukraine, positional warfare with heavily entrenched front lines integrated with obstacles can easily develop even with the most modern weapons available. This is to be expected, but don't tell that to doctrine writers preparing for a war that will never happen.
+
+The easiest way to defeat an obstacle is to simply bypass it. However, this may be funneling you into someone's kill zone, or bypass may simply be impossible. In that case you need to breach.
+
+But the first step in any military operation is reconnaissance. First you want to get a very good idea of what exactly you're going up against and what the enemy forces in the area look like. There's many ways to do this but it needs to be done. 
+
+In the course of your reconnaissance you may find that this obstacle is undefended or poorly secured - maybe the enemy hasn't placed outposts nearby. Undefended obstacles can be breached quickly and easily. Poorly secured ones can be breached stealthily if you have the time.
+
+Properly defended obstacles require sterner measures. The defenders must be suppressed and the obstacle must then be secured and reduced by engineers to allow assault troops to push through and engage the enemy in close combat. 
+
+- Suppression is done with direct and indirect fire. Any particularly difficult positions can be obscured with artillery smoke to prevent them from engaging troops advancing onto the obstacle itself.
+- The enemy may have outposts up near the obstacle itself, and in any event the engineers require security as they do their work. This requires troops to secure the near side of the obstacle to allow the engineers to work freely.
+- Then the sappers move forward and set to work tearing the obstacle apart and creating breach lanes. This involves everything from wire cutters and grappling hooks to bulldozers and explosive line charges to clear minefields. Some more pictures. Tanks can mount mine-clearing plows and rollers.
+- Finally with the breach lanes open troops are free to assault through the obstacle and continue on to engage the enemy's proper defensive positions.
+
+This entire process takes time. The enemy may use artillery or even attempt to re-seal the obstacle with scatterable mines. As such this is one of the most difficult tactical operations a unit can undertake, and not something to be done lightly.
