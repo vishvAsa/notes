@@ -3,8 +3,7 @@ title = "Hittites"
 unicode_script = "devanagari"
 +++
 
-## Early separation
-> Now, the Hittites (and other IE Anatolians - Luwians, Lycians, Lydians, etc.) basically branched off the PIE quite early : so much so that their linguistic family stands out from the other IE branches due to how archaic it is in various grammatical etc. developments.
+## Early conquest
 > 
 > Hittites had already made it to Anatolia and were working their way across there, invading and conquering Hurrian etc. non-IE groups as they set up their empire. 
 > 
