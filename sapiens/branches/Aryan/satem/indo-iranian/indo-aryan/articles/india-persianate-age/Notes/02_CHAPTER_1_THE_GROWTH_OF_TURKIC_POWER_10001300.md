@@ -12,32 +12,6 @@ title = "02 CHAPTER 1: THE GROWTH OF TURKIC POWER, 1000–1300"
 
 [^4]: Davis, *Lives*, pp. 201–10. 
 
-[^5]: *Kautilya’s Arthaśastra*, trans. R. Shamasastry \(5th edn, Mysore: Śri Raghuveer Printing Press, 1956\), ch. 16, p. 340; *The Laws of Manu*, trans. G. Buhler \(Oxford: Clarendon Press, 1886\), ch. 7:202, p. 249.
-
-[^6]: H. Krishna Sastri \(trans.\), *South Indian Inscriptions* \(Madras: Government of India, 1920, 37 vols\), vol. 3, part 3, no. 205: Tiruvalangadu Copper Plate Inscription, verse 122, p. 425.
-
-[^7]: See *Kautilya’s Arthaśastra*, book 6, ch. 2, pp. 289–92; *Laws of Manu*, ch. 7:156–60, p. 241.
-
-[^8]: David Shulman describes Kautilya, the author of the famous second-century manual of Indian statecraft, the *Arthashastra*, as a ‘hyper-Machievellian theorist’ who ‘inhabits a dog-eat-dog kingdom \(‘fish eat fish’ is the usual Indian metaphor\) in which no one is above suspicion and everyone is vulnerable to sudden assassination by the vast, shadowy army of secret agents and informers that keeps the state going; ruthless utility in such cases overrides all possible ethical scruples. A principle of unabashed craftiness driven by self-interest applies to all levels of political life; truthfulness is seen, in general, as a mostly irrelevant virtue \(or even a fault\)’ David Shulman, ‘Off with their Heads’, *New York Review of Books* 65, no. 6 \(5 April, 2018\), p. 31.
-
-[^9]: The game of chess also appears to have reached Sasanian Iran from India in the sixth century. Edward G. Browne, *A Literary History of Persia* \(1902; repr. Cambridge: Cambridge University Press, 1969, 3 vols\), vol. 1, p. 110.
-
-[^10]: R. Champakalakshmi, ‘Urbanization from Above: Tanjavur, the Ceremonial City of the Colas’, in idem, *Trade, Ideology and Urbanization: South India 300 **BC** to **AD** 1300* \(New Delhi: Oxford University Press, 1996\), pp. 424–41.
-
-[^11]: Sastri \(trans.\), *South Indian Inscriptions* vol. 3, part 3, no. 205: Tiruvalangadu Copper Plate Inscription, verses 109–10, p. 424.
-
-[^12]: Y. Gopala Reddy, ‘The Feudal Element in the Western Chalukyan Polity’, in M. S. Nagaraja Rao \(ed.\), *The Chalukyas of Kalyana \(Seminar Papers\)* \(Bangalore: The Mythic Society, 1983\), pp. 115–20.
-
-[^13]: Referring to the imperial Cholas, Upinder Singh writes, ‘There is an inverse correlation between the power of kings and the inscriptional references to chieftains. In the early 11th century, at the midpoint of Rajaraja Chola’s reign, an increase in centralization led to a corresponding decline in inscriptional references to chiefs. In the late 11th century, especially after the reign of Kulottunga I \(1070–1122\), there was a rise in the number of such references, indicating an increase in their power as the Chola monarchy declined.’ Upinder Singh, *A History of Ancient and Early Medieval India: From the Stone Age to the 12th Century* \(Upper Saddle River, NJ: Pearson Education, 2008\), p. 562.
-
-[^14]: P. Arundhati, *Royal Life in Manosollasa* \(Delhi: Sundeep Prakashan, 1994\), p. 66. 
-
-[^15]: Davis, *Lives*, pp. 51–83 *passim*. 
-
-[^16]: See Romila Thapar, Harbans Mukhia and Bipan Chandra, *Communalism and the Writing of Indian History* \(Delhi: People’s Publishing House, 1969\), pp. 14, 31; Michael Willis, ‘Religion and Royal Patronage in north India’, in Vishaka N. Desai and Darlielle Mason \(eds\), *Gods, Guardians, and Lovers: Temple Sculptures from North India, 700–1200* \(New York: Asia Society Galleries, 1993\), p. 59. The same pattern continued after the Turkish conquest of India. In the 1460s, Kapilendra, the founder of the Suryavamshi Gajapati dynasty in Orissa, sacked both Śaiva and Vaishnava temples in the Kaveri delta in the course of wars of conquest in the Tamil country. See Phillip B. Wagoner, *Tidings of the King: A Translation and Ethnohistorical Analysis of the* Rayavacakamu \(Honolulu: University of Hawaii, 1993\), p. 146. Somewhat later, in 1514, Krishna Raya looted an image of Bala Krishna from Udayagiri, which he had defeated and annexed to his growing Vijayanagara state. See Davis, *Lives*, pp. 65, 67. 
-
-[^17]: Willis, ‘Religion and Royal Patronage’, p. 59. 
-
 [^18]: Cited in J. D. Latham, ‘The Archers of the Middle East: The Turco-Iranian Background’, *Iran* 8 \(1970\), p. 97.
 
 [^19]: André Wink, *al-Hind: The Making of the Indo-Islamic World*, vol 2: *The Slave Kings and the Islamic Conquest, 11th–13th Centuries* \(Leiden: Brill, 1997\), pp. 80–84.
