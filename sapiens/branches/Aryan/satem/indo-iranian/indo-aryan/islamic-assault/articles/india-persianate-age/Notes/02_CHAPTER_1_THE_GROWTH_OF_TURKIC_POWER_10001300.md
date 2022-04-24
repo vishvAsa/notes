@@ -12,36 +12,6 @@ title = "02 CHAPTER 1: THE GROWTH OF TURKIC POWER, 1000–1300"
 
 [^4]: Davis, *Lives*, pp. 201–10. 
 
-[^18]: Cited in J. D. Latham, ‘The Archers of the Middle East: The Turco-Iranian Background’, *Iran* 8 \(1970\), p. 97.
-
-[^19]: André Wink, *al-Hind: The Making of the Indo-Islamic World*, vol 2: *The Slave Kings and the Islamic Conquest, 11th–13th Centuries* \(Leiden: Brill, 1997\), pp. 80–84.
-
-[^20]: India was not the only object of Mahmud’s plundering raids, however. When he captured Ray, near modern Teheran, his army carried off 260,000 dinars of coined money, 30,000 dinars’ worth of gold and silver vessels and half a million dinars’ worth of jewels. C. E. Bosworth, *The Ghaznavids: Their Empire in Afghanistan and Eastern Iran, 994–1040* \(1963; repr. Delhi: Munshiram Manoharlal, 1992\), pp. 78–9.
-
-[^21]: John S. Deyell, *Living Without Silver: The Monetary History of Early Medieval North India* \(Delhi: Oxford University Press, 1990\), p. 57.
-
-[^22]: ‘In modern parlance,’ writes Ilker Evrim Binbaṣ, ‘an informal intellectual network is based on personal contact, communication, or correspondence between the participants. The members of an informal network often share similar philosophical, political, ideological, religious, and aesthetic sensibilities. The exchange of letters or pamphlets, the commitment to a methodological principle or to the bonds of friendship and family ties, the occasional attention of a particular patron, as well as not infrequent actual encounters among members kept such networks together and functioning … Such cases of informal networks … are defined mainly by peer-to-peer relationships, hence displaying little or no hierarchical stratification. They were interregional and not territorially bound, a feature that made their participants true cosmopolitans.’ Ilker Evrim Binbaṣ, *Intellectual Networks in Timurid Iran: Sharaf al-Din ‘Ali Yazdi and the Islamicate Republic of Letters* \(Cambridge: Cambridge University Press, 2016\), pp. 8–9.
-
-[^23]: C. E. Bosworth, *The Later Ghaznavids: Splendour and Decay* \(New York: Columbia University Press, 1977\), p. 66. 
-
-[^24]: Ibid., p. 117.
-
-[^25]: Ibid., pp. 65, 101.
-
-[^26]: Ibid., p. 99.
-
-[^27]: Bosworth, *Ghaznavids*, pp. 101, 107, 110. 
-
-[^28]: Bosworth, *Later Ghaznavids*, pp. 57–8. A cache of coins found in and near a cave in Pakistan’s Mardan District points to the dynasty’s desire to integrate Hindu temples into its fiscal and commercial networks. These small copper coins, which were derived from earlier, Hindu Shahi prototypes but also bore Arabic legends referring to Ghaznavid sultans, were locally minted for the evident purpose of enabling pilgrims to make offerings to a temple complex dedicated to the goddess Bhima Devi. Taxes levied on this complex, which was located near a major trade route, would have provided a steady source of revenue for the Ghazanavid state. See Waleed Ziad, ‘“Islamic Coins” from a Hindu Temple’, *Journal of the Economic and Social History of the Orient* 59 \(2016\), pp. 618–59.
-
-[^29]: As the renowned political theorist Nizam al-Mulk \(d. 1092\) succinctly put it, ‘One obedient slave is better than three hundred sons; for the latter desire their father’s death, the former his master’s glory.’ Nizam al-Mulk, *The Book of Government, or Rules for Kings: The* Siyar al-muluk, *or* Siyasat-nama *of Nizam al-Mulk*, trans. Hubert Darke \(2nd edn, London: Routledge & Kegan Paul, 1978\), p. 117.
-
-[^30]: Mahmud of Ghazni was the first ruler actually to style himself ‘sultan’, which he did from 1002 onwards. Although his royal predecessors in Central Asia and the Middle East had been titled ‘*amir*’ or ‘*malik*’, the ideology of the sultan had already been formulated by those predecessors, especially the Samanid *amir*s of Bukhara.
-
-[^31]: Fakhr al-Din Razi, *Jami‘ al-‘ulum*, ed. Muhammad Khan Malik al-Kuttab \(Bombay: Matba’-i Muzaffari, 1905\), p. 207.
-
-[^32]: Ahmet T. Karamustafa, *God’s Unruly Friends: Dervish Groups in the Islamic Later Middle Period, 1200–1550* \(Salt Lake City: University of Utah Press, 1994\).
-
 [^33]: Sunil Kumar, *The Emergence of the Delhi Sultanate, 1192–1286* \(New Delhi: Permanent Black, 2007\), p. 49.
 
 [^34]: G. Le Strange \(trans.\), *The Geographical Part of the Nuzhat al-Qulub, Composed by Hamd-Allah Mustaufi of Qazvin in 740* \(1340\) \(1919; repr. London: Gibb Memorial Trust, 2017\), p. 151.
