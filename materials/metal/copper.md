@@ -14,6 +14,7 @@ title = "Copper"
 {{< figure src="../images/Brass-paperweight-components-zinc-copper.jpg" title="" class="thumbnail">}}
 
 - alloy of copper and zinc
+- To enhance the machinability of brass, lead is often added in concentrations of around 2%.
 
 ### alpha brasses
 - Malleable brasses

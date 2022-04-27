@@ -17,7 +17,26 @@ title = "Utensils"
 - Plastic not ok.
 - Ceramics may leach lead. 
 
+#### Composition testing
+I have tested new vessels by cutting a portion on the side and old vessels in every possible way. Of course, machine testing or spectroscopy does not require a piece of the metal. You can test for the whole vessel directly.
+
+#### Copper based
+- Too much copper can be fatal. You could get severe toxicity from ingesting large amounts of copper salts through your skin. Copper can work its way through your internal organs and build up in your brain, liver, and lungs.
+
+##### Brass
+- Brass is an alloy of copper and zinc. Often, lead is added. See copper materials page for more info.
+- Zinc due its properties allows the copper in brass to directly react with food and render it poisonous. (Unlike bronze that has copper and tin, tin being food safe). Hence it requires tin coating.
+  - abhinand - "I have tested for kalai coating done at many shops in Bangalore, all are 96% tin. In fact the new eeya chombu tested 10%lead, old eeya chombus are safe like kalai coated brass."
+  - harIsh - "In my hometown kumbakonam, was able to get close to 98% tin coating inside..But it wears off over the years and will require recoating "
+- Longevity
+  - "It wears off with age and also by cooking sour substances like rasam etc. Only rice stays for like 10 15 years"
+
+#### Steel
+- Abhinand - "Stainless steel becomes stainless because of austenitic steel retainers chromium/nickel. So not all that safe considering that nickel comes with lead again.  Yes they had like 3.4 to 4.2 percent lead."
+
+
 ## Current utensils
+
 ### Pressure cookers
 - Hawkins Stainless Steel Induction Compatible Pressure Cooker, 8 Litre, Silver (HSS80). Inside fitting lid.
 - Hawkins Stainless Steel Induction Compatible Pressure Cooker (Tall), 3 Litre, Silver (HSS3T). Inside fitting lid.
