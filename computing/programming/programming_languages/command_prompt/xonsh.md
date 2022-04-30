@@ -14,6 +14,8 @@ aaa  aba  abba
 ```
 
 ## Iterate over files
+`find . -type f -name "*.ttf" -exec echo '{}' '+'`
+
 ### Find text
 ```
 import regex
