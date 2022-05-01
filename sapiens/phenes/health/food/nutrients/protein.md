@@ -11,13 +11,28 @@ title = "Protein"
 - A healthy way to ensure adequate intake of protein is to eat proteins in all 3 major meals. If you are into intense workouts, consider consuming your protein shake/ protein meal 15-30 minutes post-workout in addition.
 - egg white raw - 11% by weight
 
-### brAhmaNa veg
+### Milk products
 - Low fat paneer 22%
-- mUng dAl 
-  - Uncooked - 24%
-- yoghurt 
+- yoghurt
   - regular - 3.5%
+  
+### Pulses and beans
+- mUng dAl 
+  - cooked - 8%
+  - Uncooked - 24%
+- Cooked Green Peas / maTTar - 5.2%
+- Chickpeas Garbanzos - 8.9%
+  - 100g - 165 cal
+
+### Cereals
+- Rolled Oats - 13.5%
+  - 100g - 389 cals
+- Quinoa cooked - 5%. GI of 55.
+  - 100g - 143 cal.
+- Brown rice - 2.3%
 - Millet - 3.5%
+
+### Nuts
 - Peanut/ groundnut - 28%
   - 32 nuts - 168 cals, 7.8g protein
 - almonds - 21.26%
