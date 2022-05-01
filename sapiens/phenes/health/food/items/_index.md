@@ -4,8 +4,7 @@ title = "+Items"
 
 Nutrition comparisons 
 
-- [uncooked grainish](https://www.nutritionvalue.org/comparefoods.php?foods=907604%252A100%2Bg%2C173944%252A100%2Bg%2C169706%252A100%2Bg%2C168879%252A100%2Bg%2C169702%252A100%2Bg%2C170682%252A100%2Bg%2C168874%252A100%2Bg%2C169720%252A100%2Bg)
-- [cooked grains](https://www.nutritionvalue.org/comparefoods.php?foods=168871%252A190%2Bg%2C56205008%252A190%2Bg).
+- [nutritionvalue.org](https://www.nutritionvalue.org/yourcomparisons.php)
 
 ## Variation
 - Variety in food is important. Nature enforced it in days past.
