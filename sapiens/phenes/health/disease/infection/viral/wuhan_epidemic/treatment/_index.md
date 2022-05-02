@@ -8,8 +8,7 @@ title = "+Treatment"
 
 ##  Protocols
 - FLCCC protocol
-  - [Prevention and management](https://covid19criticalcare.com/wp-content/uploads/2020/11/FLCCC-Alliance-I-MASKplus-Protocol-ENGLISH.pdf)
-  - [Treatment](https://covid19criticalcare.com/wp-content/uploads/2020/12/FLCCC-Protocols-%E2%80%93-A-Guide-to-the-Management-of-COVID-19.pdf).
+  - [Complete guide](https://covid19criticalcare.com/wp-content/uploads/2020/12/FLCCC-Protocols-%E2%80%93-A-Guide-to-the-Management-of-COVID-19.pdf)
 - AIIMS guidelines [here 202104](https://twitter.com/AIIMSRDA/status/1385311406182965249/photo/1).
 - AIIMS & ICMR protocol
 - Maharashtra protocol
