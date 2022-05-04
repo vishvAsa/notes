@@ -14,6 +14,8 @@ It seems Russia's goals in Ukraine have gone through three phases:
 
 Worth noting that a long-term occupation of more Ukrainian territory comes with serious risks and costs for Russia. It has committed the vast majority of its ground units to the war in Ukraine. The Russian military isn't in a great position to respond to other crises.
 
+In addition, a declaration of war and mobilization raises the personal stakes for Putin. Failing to win would place his position at even more risk. Ultimately, it depends what Putin's objectives are now. Occupying more of Ukraine isn't a long-term sustainable solution as long as Ukraine continues to fight. So Russia would have to make this war unsustainable for Kyiv. Continued NATO/EU support would be even more critical.
+
 ## US Resupply
 One of the points I made before the war is the US lacks many of the weapons that would be most useful for Ukriane, such as long-range loitering munitions like the Harop, 30km-range Spike NLOS ATGMs, and ground-based short and medium-range air defense systems. The US military lacks those weapons because its has a dominant air force, but that means the US doesn't have many of the right weapons to equip a military that lacks a strong air force.
 
@@ -27,6 +29,13 @@ One important factor is that few in Putin's inner circle are veterans. Many were
 > Some dark sarcasm is Russian military propagandist Aleksandr Sladkov’s commentary. Soldiers need to show heroism because someone has miscalculated Donbas offensive, he suggests. Russian security milieu is transiting into its habitual “empire is betraying its soldiers” mode.
 
 Sladkov is embedded with Russian forces and has covered several Russian wars. He's very well-sourced (he was the first person to be invited to an SSO exercise). Sounds like he shares Girkin's pessimism for the second stage of this war.
+
+## Attrition
+
+There was a question whether Russia suffered too much attrition in its maneuver units over the first 6 weeks to still be able to conduct a successful offensive in the Donbas and hold areas of Kherson and Kharkiv. You can only compensate so much for these losses with artillery. These issues underline how Russia had to achieve its goals quickly in Ukraine to have success. Russia invaded with 75% of its maneuver battalions (probably 80% now) + Rosgvardia. The US invaded Iraq in 2003 with 37% of its maneuver battalions, which meant it had units to rotate.
+
+
+Russia doesn't have a well-trained reserve, and its conscripts only serve for one year. Right when they become competent at their jobs, they are demobilized. Not clear how useful such a force would be, particularly without well-trained NCOs (who are currently in Ukraine). Conscripts are mostly trained at their units, but the vast majority of ground regiments/brigades are partially deployed to Ukraine. 
 
 
 

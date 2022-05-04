@@ -6,6 +6,7 @@ title = "Battle tactics"
 Modern warfare is about combined arms. Tanks, infantry, helicopters, artillery, etc. are all vulnerable if employed by themselves. Using them together is how you mitigate their vulnerabilities.
 
 ## Coordination
+- Artillery strikes on fortified positions aren't that effective unless there is an advancing ground element.
 
 ### Full regiments
  
