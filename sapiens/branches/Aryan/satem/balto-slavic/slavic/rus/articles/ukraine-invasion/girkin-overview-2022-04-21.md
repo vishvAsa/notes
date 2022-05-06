@@ -47,3 +47,6 @@ Without conducting at least a partial mobilisation in RF it is impossible to con
 
 And yes, I would really like to be mistaken in my predictions for the operation that has started (the 'second stage'). But the grande with which these hedonists that shat themselves on many occasions, these lying babblers, and mediocrities, are presenting it - is not giving me extra optimism. NO CONCLUSIONS from the failures of the first two months - in a strategic sense - have been made.
 
+
+## Criticism
+Strelkov predicted in 2015 that Russia would suffer a humiliating defeat in Syria if it didn't start mobilization & that saving Assad's government is impossible.

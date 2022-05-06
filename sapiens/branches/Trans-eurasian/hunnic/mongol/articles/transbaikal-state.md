@@ -1,0 +1,26 @@
++++
+title = "Transbaikal state"
++++
+Source: [TW](https://rattibha.com/thread/1522243790962106370?lang=en)
+
+
+Yesterday I was reminded to write about a long-forgotten but nonetheless remarkable event that had taken place during the Russian Civil War in Eastern Sibеria. A thread about the first (and last) Buddhist theocratic state in Trаnsbaikal and the man behind it:
+
+The “Kudun theocratic state” was established in 1919, partly in opposition to the military conscription of Khori Вuryats into Grigory Semyonov's forces. It was headed by Lubsan Samdan Tsydenov, a Buddhist monk born & raised in a small Transbaikal village.
+
+The details of Tsydenov’s life are somewhat obscure, but it’s generally acknowledged that by the time Civil War broke out, he was a well-established & revered figure among his Buddhist peers & laymen. Tsydenov's contemporaries described him as a man “distinguished by his sharp mind & resourcefulness… extremely proud, domineering, even cruel to himself & others when it was necessary to achieve a goal”. He quickly rose in rank & even competed for the position of the head of the Kudun monastery, albeit unsuccessfully. Nonetheless, his reputation grew; like all other eminent lamas of his time, Tsydenov began to attract devotees.
+
+Tsydenov’s extravagant behaviour sometimes led to incidents. In 1896, he, along with other members of the Вuryat delegation, arrived at the coronation of Tsar Nicholas II. However, during the coronation, he refused to kneel before the Tsar. Tsydenov explained his action thus: To kneel before the Tsar would be a violation of the Vinaya code. The rules dictate that a monk who has taken all the vows must not kneel before a secular ruler. Shortly after the event, Tsydenov left the monastery, allegedly due to internal disagreements with other monks. He retired to a remote village, taking 4-5 of his disciples with him.
+
+In the middle of the Civil War, rumours began to circulate that Tsydenov along with some supporters had intended to create a theocratic state in order to protect Вuryat Buddhists from military service. The rumours soon proved to be true - the state was officially proclaimed in May of that same year, with Tsydenov appointed as the enlightened Tsar-Despot (or Dharmaraja) & his closest student Dorzho Badmaev as heir. The project took on the form of a ‘constitutional theocracy’. The Dharmaraja “realized within himself the Tantric divinity Yamantaka & was performing his will.”+++(5)+++ All official state positions were elected by the secret ballot & confirmed by the Dharmaraja. The president, the vice president, & the cabinet of ministers were subordinate to the Dharmaraja, although day-to-day decisions were made independently by the president. The gov-t orders also needed to have the president's approval.
+
+There was, however, one problem: In accordance with the concept of non-violence (& in order to fulfil the earlier promise to protect the Buddhists from mandatory conscription), the state refused to militarize, which meant that the territory of Kudun was practically defenseless.+++(4)+++ They could no longer count on the support of the official Buddhist clergy of Eastern Siberia (many of whom actively collaborated with Semyonov's forces). By appointing Tsydenov as supreme ruler, they effectively severed all ties with the Вuryat & Mongolian Buddhist sanghas. Nor could they count on the help of secular Вuryat nationalists, who had fundamentally different plans in mind & often treated the theocracy advocates as opponents. The sole means of self-defense available to the subjects of Kudun were appeals & proclamations.
+
+Shortly after the announcement, Semyonov’s police arrested the Tsar-Despot along with other members of his gov-t. Tsydenov abdicated, but immediately after the release he resumed his activities. Semyonov had him arrested two more times, each time eventually releasing him. 
+
+In March 1920, Semyonov's regime fell. At first, theocracy advocates “succeeded at establishing close alliances with highly placed officials in Baikal region; they even managed to enter newly formed Buryat revolutionary committees.” Unfortunately, this did not save Tsydenov, As well as some other members of the Kudun government, from being detained as part of an anti-separatist campaign initiated by the administration of the Far Eastern Republic.
+
+The Sovietization was well underway. For a time, the theocratic faction resisted with periodic success. But after several failed attempts to reach a compromise with the new organs of power, the remaining leaders of the Kudun state were arrested. For the first time, the theocracy advocates responded with armed resistance – but it was too late. The direct confrontation with the regional government led to all the arrested leadership of Kudun being sent into exile. "The further history of the movement is a history of an armed struggle, repression, court trials, executions, & imprisonment; acts of revenge, mob law, partisan war, & eventually, a complete defeat of the advocates of the Kudun theocracy."
+
+Tsydenov died in exile in 1922 from pleurisy. The rest of the theocracy faction was gradually annihilated - first by the administration of the Far Eastern Republic, then by the RSFSR. Soon the memory of the short-lived theocratic state faded into oblivion.
+
