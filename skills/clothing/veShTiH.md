@@ -25,14 +25,20 @@ title = "वेष्टिः"
 - परिहारः - clip-प्रयोगः।
 
 ## क्षत्रियरीतिः
-- no leg wrap
-  - चित्राणि - [१](https://www.youtube.com/watch?v=YpuBuovKmBk), [२](https://www.youtube.com/watch?v=2n3CCt1Hs_Y)
-- with leg wrap
+- अपादवेष्टनरीतिः - no leg wrap
+  - चित्राणि - [१](https://www.youtube.com/watch?v=YpuBuovKmBk)
+  - "malya-kocha" in Bengal
+  - अपायः - धावने, सोपानारोहणादौ पादः कच्छे लग्नो भूत्वा पातयेत्। एवं सकृत् २०२२ इति वर्षे ऽभवत्। तेन जानोस् समीपे भूयाद् अञ्चलम्, अशिथिलञ्च।
+- पादवेष्टनसहितम् - with leg wrap
   - [१](https://www.youtube.com/watch?v=1LGS4OXt0rY)
+  - Length is 4.5 metre to 5 metre and height is 1.3 metre
+  - सकृत् परितो वेष्ट्य, पादौ वेष्ट्य, शिष्टम् अपादवेष्टनरीतिर् इव।
+- अग्र-कच्छ-रीतिः
+  - [YT](https://www.youtube.com/watch?v=2n3CCt1Hs_Y)
+  - सकृत् परितो वेष्ट्य, पृष्ठतो कच्छम् आकृष्य + अग्रे निवेशयेत्। शिष्टम् अपादवेष्टनरीतिर् इव।  
 - वीरगच्चॆ (ವೀರಗಚ್ಚೆ)
 
-### अपायः
-- धावने, सोपानारोहणादौ पादः कच्छे लग्नो भूत्वा पातयेत्। एवं सकृत् २०२२ इति वर्षे ऽभवत्। तेन जानोस् समीपे भूयाद् अञ्चलम्, अशिथिलञ्च। 
+
 
 ## नर्तकरीतिः
 - [अत्र](https://www.youtube.com/watch?v=Y1YNKCLs58U) ।
@@ -44,3 +50,6 @@ title = "वेष्टिः"
 {{< figure src="../images/veShTiH_viparIta-kachCham.jpg" title="" class="thumbnail">}}
 
 {{< figure src="../images/sakhyamanuShya-veShTiH_shakorukam.png" title="" class="thumbnail">}}
+
+## उप-स्यूतम्
+- [गौडीयरीतिः](https://youtu.be/1LGS4OXt0rY?t=394)
