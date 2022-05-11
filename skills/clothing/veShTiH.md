@@ -9,6 +9,9 @@ title = "वेष्टिः"
   - अञ्चलं पादाद् दूरे जानोस् समीपे च स्यात्। (Closer to knee than the feet.)
 - सरलतया शौचालयादिकं गत्वा ऽवमेढुं पुरीषं निष्कासयितुं च शक्नुयाम।
 
+## Standard sizes
+- panchakachCha + angavastra - 9 + 5 Mul: 4.10 m + 2.25 m. Often comes uncut - so can make dhoti longer.
+
 ## रीत्यन्तरम्
 - शोषणवस्त्रवद् बन्धनम्
 
@@ -31,7 +34,7 @@ title = "वेष्टिः"
   - अपायः - धावने, सोपानारोहणादौ पादः कच्छे लग्नो भूत्वा पातयेत्। एवं सकृत् २०२२ इति वर्षे ऽभवत्। तेन जानोस् समीपे भूयाद् अञ्चलम्, अशिथिलञ्च।
 - पादवेष्टनसहितम् - with leg wrap
   - [१](https://www.youtube.com/watch?v=1LGS4OXt0rY)
-  - Length is 4.5 metre to 5 metre and height is 1.3 metre
+  - Length is 4.5 metre to 5  metre and height is 1.3 metre
   - सकृत् परितो वेष्ट्य, पादौ वेष्ट्य, शिष्टम् अपादवेष्टनरीतिर् इव।
 - अग्र-कच्छ-रीतिः
   - [YT](https://www.youtube.com/watch?v=2n3CCt1Hs_Y)
