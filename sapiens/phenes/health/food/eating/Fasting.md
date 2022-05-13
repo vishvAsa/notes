@@ -61,6 +61,9 @@ title = "Fasting"
 - 5+ days on, you will start to lose some muscle
 - Some muscle loss is acceptable
 
+## Initiation
+It is actually pretty easy to start off fasting habit early in life. For example, for over a year, 6yo son has been happily doing daily (4:30PM-8:30AM) intermittent fasting and ~24 hour fast on ekAdashi-s (albeit cheating with milk and fruits), while staying fully active (eg 1 hr swimming, 1 hr dance yesterday).
+
 ## Credits
 - Quotes from Mark Baker/ GuruAnaerobic.
 
