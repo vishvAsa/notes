@@ -37,7 +37,8 @@ There was a question whether Russia suffered too much attrition in its maneuver 
 
 Russia doesn't have a well-trained reserve, and its conscripts only serve for one year. Right when they become competent at their jobs, they are demobilized. Not clear how useful such a force would be, particularly without well-trained NCOs (who are currently in Ukraine). Conscripts are mostly trained at their units, but the vast majority of ground regiments/brigades are partially deployed to Ukraine. 
 
-
+## Coordination problems
+Tanks are vulnerable when a combined arms component is missing or weak. Russia doesn’t have enough infantry to protect its tanks from ATGM teams, and they’re struggling to suppress/destroy Ukrainian artillery that is locating them with commercial UAVs. Russia decided to reduce the motorized rifle battalion in tank regiments to a 75-man company, and then decided to not mass its forces properly in Ukraine. I don't think this war has demonstrated that tanks are any more vulnerable than previously known.
 
 ## US Intel
 > “There has been a lot of real-time intelligence shared in terms of things that could be used for specific targeting of Russian forces,” said a former senior intelligence official familiar with the situation. The information includes commercial satellite images “but also a lot of other intelligence about, for example, where certain types of Russian units are active.”

@@ -16,7 +16,7 @@ title = "Fasting"
 - Fasting 2 to 5 days straight. Mark Baker recommends 2+ weeks inbetween.
 
 ### Activity
-- "It goes w/out saying that when u fast u should be active - HIIT, RT, etc. This is HUNTER MODE, 'Destruction & Reconstruction', Autophagy - the primal processes for health which modern life suppresses."
+- "It goes w/out saying that when you fast you should be active - HIIT, RT, etc. This is HUNTER MODE, 'Destruction & Reconstruction', Autophagy - the primal processes for health which modern life suppresses."
 
 ### Sustenance during long fasts
 - "Fasts of up to 24hrs can be done free of food - some people may prefer not to eat any food as "it is easier to fast than to diet", but longer fasts should include some calories."
@@ -24,8 +24,10 @@ title = "Fasting"
 - "Since calorie-counting is predicated on the naïve view of the human body as a car engine we should take into account not just calories but also the type of food, in that x calories from sugar has a different effect on the body than x calories from fish. Have savoury rather than sweet; vegetable soup, a broth of some sort or bouillon give some salts and satisfies hunger pangs or the psychological desire to eat."
 
 ### Breaking fast
+- Don't drink too much water before breaking fast just to excrete - may cause diarrhoea.
 - Excercise (esp strength training) shortly before breaking fast.
-- "Further, it doesn’t make ecological sense to break a fast with only a small amount (given food availability), no animal would “leave the table with room to spare” after starvation." 
+- Quantity after long fast - "it doesn’t make ecological sense to break a fast with only a small amount (given food availability), no animal would “leave the table with room to spare” after starvation." 
+- After breaking fast - sleeping on dvAdashI is traditionally deprecated.
 
 ### Timing
 - "Most people start the timing of their fast directly after their last meal, i.e. the post-prandial state, when the stomach and intestines are absorbing nutrients from food. However, it's only after complete digestion and absorption of a meal (Post prandial state), 4-6hrs late that a fast actually begins."
