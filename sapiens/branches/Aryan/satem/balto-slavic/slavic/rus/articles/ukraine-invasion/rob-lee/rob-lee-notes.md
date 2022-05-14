@@ -26,7 +26,7 @@ I thought Russian soldiers would have been given more than a few hours notice th
 One important factor is that few in Putin's inner circle are veterans. Many were intelligence officers, but few have military experience, including Shoigu. They clearly thought opsec was more important than allowing the military to properly prepare. A serious mistake. There is a lot of evidence from different sources that the units were given little warning, including captured documents published by the Ukrainians, statements from Russian POWs from different units/military districts, weak OPSEC steps taken by soldiers before the war. etc.
 
 ### Force ratios and opening days
-I'm very interested in looking at force ratios from this war, but Russia's invasion force was far smaller than the numbers here suggest (probably 80k troops in the 125 BTGs) and Russia's strategy didn't mass its forces at critical points. So it often did not achieve 3:1 or 2:1.
+I'm very interested in looking at force ratios from this war, but Russia's invasion force was far smaller than the numbers here suggest (probably 80k troops in the 125 BTGs) and Russia's strategy didn't mass its forces at critical points. So it often did not achieve 3:1 or 2:1. One of the biggest failures of Russia's strategy in Ukraine is that it failed to achieve favorable force ratios for the key objectives in this war (e.g. Kyiv).
 
 Ukrainian forces smartly retreated back to more defensible terrain and cities during the opening stage of the war. Once Russian forces progressed farther into Ukraine, its forces became more dispersed and less supported, and they couldn't achieve numerical superiority. 
 
