@@ -14,49 +14,57 @@ jobs:
   transform:
     runs-on: ubuntu-latest
     steps:
-    - name: Inject slug/short variables
-      uses: rlespinasse/github-slug-action@v3.x
-    - name: Checkout
-      id: checkout
-      uses: actions/checkout@master
-      with:
-        submodules: false
-        # Setting true above seems to lead to submodule updation problems.
-        fetch-depth: 1
-    - name: Get changed files
-      id: changed-files
-      if: ${{ github.event_name != 'workflow_dispatch' }}
-      uses: jitterbit/get-changed-files@v1
-    - name: Update submodules
-      id: update_submods
-      if: ${{ steps.changed-files.conclusion == 'skipped' || !contains(steps.changed-files.outputs.all, 'content') }}
-      run: |
-        set -o xtrace
-        echo "=====${{ steps.changed-files.outputs.all}}======"
-        echo "=====${{ steps.changed-files.outputs.all}}======"
-        git submodule update --init --recursive
-        git submodule update --remote --merge --recursive
-    - name: Setup Hugo
-      id: setup_hugo
-      if: steps.update_submods.conclusion == 'success'
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: "0.95.0"
-        # extended: true
-      # Step 3 - Clean and don't fail
-    - name: Clean build_github directory
-      id: clean_build
-      if: steps.setup_hugo.conclusion == 'success'
-      run: rm -rf build_github
-    - name: Build hugo site pages
-      id: hugo_build
-      if: steps.clean_build.conclusion == 'success'
-      run: |
-        hugo
-    - name: Deploy
-      if: ${{ github.event_name != 'pull_request' && steps.hugo_build.conclusion == 'success'}}
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./build_github
-        publish_branch: gh-pages
+      - name: Inject slug/short variables
+        uses: rlespinasse/github-slug-action@v3.x
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@master
+        with:
+          submodules: false
+          # Setting true above seems to lead to submodule updation problems.
+          fetch-depth: 1
+      - name: Get changed files
+        id: changed-files
+        if: ${{ github.event_name != 'workflow_dispatch' }}
+        uses: jitterbit/get-changed-files@v1
+      - id: filter_changed_files
+        if: ${{ steps.changed-files.conclusion == 'success'}}
+        uses: actions/github-script@0.9.0
+        with:
+          script: |
+            var changed_files = '${{steps.changed-files.outputs.all}}'.replace(/(?<= |^)content(?= |$)/, "").trim()
+            console.log(changed_files, changed_files.length)
+            core.setOutput('count', changed_files.length.toString())
+      - name: Update submodules
+        id: update_submods
+        if: ${{ steps.filter_changed_files.conclusion == 'skipped' || steps.filter_changed_files.outputs.count != '0'}}
+        run: |
+          set -o xtrace
+          echo "=====${{ steps.changed-files.outputs.all}}======"
+          echo "=====${{ steps.changed-files.outputs.all}}======"
+          git submodule update --init --recursive
+          git submodule update --remote --merge --recursive
+      - name: Setup Hugo
+        id: setup_hugo
+        if: steps.update_submods.conclusion == 'success'
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.95.0"
+          # extended: true
+        # Step 3 - Clean and don't fail
+      - name: Clean build_github directory
+        id: clean_build
+        if: steps.setup_hugo.conclusion == 'success'
+        run: rm -rf build_github
+      - name: Build hugo site pages
+        id: hugo_build
+        if: steps.clean_build.conclusion == 'success'
+        run: |
+          hugo
+      - name: Deploy
+        if: ${{ github.event_name != 'pull_request' && steps.hugo_build.conclusion == 'success'}}
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build_github
+          publish_branch: gh-pages
