@@ -49,7 +49,19 @@ It is believed that Chess had its origin in India, where it is called caturanga(
 
 A 10<sup>th</sup> century Arab, Abu Bakr Al-suli, who was a king’s companion, known for his skill in playing chess, wrote a book in Arabic on chess strategy, where he discussed the knight’s tour problem as a chess-puzzle [[https://en.wikipedia.org/wiki/Abu_Bakr_bin_Yahya_al-Suli](https://en.wikipedia.org/wiki/Abu_Bakr_bin_Yahya_al-Suli)]. Mānasollāsaḥ, referred to above, which was written two centuries later also describes a solution of Knight’s tour as a puzzle. It is interesting to see how Someśvara, the author of Mānasollāsaḥ explains the solution. First he provides a co-ordinate system for the 8x8 chess board. For reasons of his own, he chooses the consonants c,g,n,d, ṭ,r,s,p to denote the 8 columns (or rows) and vowels “a ā i ī u ū e ai” to denote the 8 rows (or columns). The resulting co-ordinate system for the 8x8 chess board will be as shown in Fig. 1. Any cell is uniquely defined by the combination of the chosen consonant and vowel.
 
- 
+
+|   | A | B  | C  | D  | E | F | G | H |
+|---|---|----|----|----|---|---|---|---|
+| 1 | च | चा | चि | ची | चु | चू | चे | चै |
+| 2 | ग | गा | गि | गी | गु | गू | गे | गै |
+| 3 | न | ना | नि | नी | नु | नू | ने | नै |
+| 4 | द | दा | दि | दी | दु | दू | दे | दै |
+| 5 | ट | टा | टि | टी | टु | टू | टे | टै |
+| 6 | र | रा | रि | री | रु | रू | रे | रै |
+| 7 | स | सा | सि | सी | सु | सू | से | सै |
+| 8 | प | पा | पि | पी | पु | पू | पे | पै |
+
+Fig 1. Co-ordinate system of Someśvara.
 
 Now he gives the knight’s tour as a sequence of 64 syllables broken into 8 sets of 8 syllables for convenience in memorizing. The 8 sets are as follows:
 
@@ -89,7 +101,19 @@ These sequences are devoid of any meaning or prosodic constraints.
 
 The resulting knight’s tour is shown in Fig 2. The knight’s tour can be traced by following the numbers in the cells 1,2,3 ---64.
 
- 
+
+|   | A   | B    | C    | D    | E   | F   | G   | H   |
+|---|-----|------|------|------|-----|-----|-----|-----|
+| 1 | 12च | 39चा | 24चि | 59ची | 10चु | 37चू | 34चे | 7चै  |
+| 2 | 25ग | 60गा | 11गि | 38गी | 23गु | 8गू  | 21गे | 36गै |
+| 3 | 40न | 13ना | 58नि | 9नी  | 48नु | 35नू | 6ने  | 33नै |
+| 4 | 61द | 26दा | 51दि | 54दी | 57दु | 22दू | 47दे | 20दै |
+| 5 | 14ट | 41टा | 56टि | 63टी | 52टु | 49टू | 32टे | 5टै  |
+| 6 | 27र | 62रा | 53रि | 50री | 55रु | 64रू | 19रे | 46रै |
+| 7 | 42स | 15सा | 2सि  | 29सी | 44सु | 17सू | 4से  | 31सै |
+| 8 | 1प  | 28पा | 43पि | 16पी | 3पु  | 30पू | 45पे | 18पै |
+
+Fig. 2 Knight’s tour of Someśvara
 
 Someśvara also gives the possible knight moves from various cells as per the following:
 
@@ -117,6 +141,21 @@ A rough translation of this is given below:
 
 “When the knight is in the corner, it has 2 moves; when it is in the cell beside the corner it has 3 moves.  If it is in the side (other than the corner and the next cell) it has 4 moves; if it is in the corner of the second enclosure (inner 6x6 square) it has 4 moves, elsewhere in the second enclosure, it has 6 moves; In the central 16 cells it has 8 moves”. [ Fig. 3]
 
+|    |   |   |   |   |   |   |   |   |
+|----|---|---|---|---|---|---|---|---|
+| 1  | 2 | 3 | 4 | 4 | 4 | 4 | 3 | 2 |
+| 2  | 3 | 4 | 6 | 6 | 6 | 6 | 4 | 3 |
+| 3  | 4 | 6 | 8 | 8 | 8 | 8 | 6 | 4 |
+| 4  | 4 | 6 | 8 | 8 | 8 | 8 | 6 | 4 |
+| 5  | 4 | 6 | 8 | 8 | 8 | 8 | 6 | 4 |
+| 6  | 4 | 6 | 8 | 8 | 8 | 8 | 6 | 4 |
+| 7  | 3 | 4 | 6 | 6 | 6 | 6 | 4 | 3 |
+| 8  | 2 | 3 | 4 | 4 | 4 | 4 | 3 | 2 |
+
+Fig. 3 Possible moves for a knight as per Someśvara
+
+
+
 One needs to appreciate the precision and brevity Someśvara has achieved in the above explanation in Sanskrit.
 
  
@@ -127,13 +166,32 @@ One needs to appreciate the precision and brevity Someśvara has achieved in the
 
 It is only in the 18<sup>th</sup> century that the famous mathematician and physicist Leonard Euler heard of the chess puzzle and looked at it as a problem in mathematics. One of the solutions to the problem given by Euler is shown in Fig. 4.[ [https://www.researchgate.net/publication/265424016_Knight's_tours_for_cubes_and_boxes](https://www.researchgate.net/publication/265424016_Knight's_tours_for_cubes_and_boxes)]
 
+
+
+|    |    |    |    |    |    |    |    |
+|----|----|----|----|----|----|----|----|
+| 1  | 26 | 15 | 20 | 7  | 32 | 13 | 22 |
+| 16 | 19 | 8  | 25 | 14 | 21 | 6  | 31 |
+| 27 | 2  | 17 | 10 | 29 | 4  | 23 | 12 |
+| 18 | 9  | 28 | 3  | 24 | 11 | 30 | 5  |
+
+Fig 4. Euler’s knight’s tour
+
 His solution fills up the bottom-half of a 8x8 chess-board. But the solution is such that the 33<sup>rd</sup> move of the knight can take it to the bottom right corner cell of the top-half. A little reflexion will show that the top-half can be easily filled up following the route of the bottom-half. The 64<sup>th</sup> cell that the knight occupies is such that it can jump to the 1<sup>st</sup> cell. The solution is therefore re-entrant and the knight can indefinitely keep moving in the end-less circuit. Euler showed how new solutions can be generated from known solutions and how incomplete solutions could be repaired to lead to a knight’s tour. Euler also showed how solutions for larger chess-boards, say having 10x10 cells, could be obtained by suitably patching up solutions for smaller boards.
 
  
 
 The next important work in arriving at a solution for the knight’s tour problem was by Warnsdorff in the 19<sup>th</sup> century who gave a heuristic rule for choosing the next move for the knight.[ [https://en.wikipedia.org/wiki/Knight%27s_tour#Warnsdorff's_rule](https://en.wikipedia.org/wiki/Knight%27s_tour#Warnsdorff's_rule)] As per Warnsdorff the knight should be moved to the cell from which the knight will have the fewest onward moves. Let us take an example for understanding this rule:
 
- 
+|   | A | B | C | D | E | F | G | H |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 1 |   |   |   | 7 |   |   |   |
+| 2 |   |   | x |   |   |   | 6 |   |
+| 3 |   | 2 |   | x |   | 4 |   |   |
+| 4 |   |   |   | 3 |   |   |   | 5 |
+
+Fig. 5 Warnsdorff Rule
+
 
 Fig. 5 shows a partially filled knight’s tour where the knight has reached the 7<sup>th</sup> cell of the tour. For the next step there are 2 choices either cell C2 or cell D3. We see that from cell C2, three choices are available (A3,B4,E3) and from cell D3, 5 choices (C1,B2,B4,F4,F2) are available. As per Warnsdorff Rule, one should choose cell C2 which has less number of choices (3) and not D3 which has 5 choices. It is, of course, possible to have two or more choices for which the number of onward moves is equal; there are various methods for breaking such ties and we shall not go into the details.
 
@@ -178,6 +236,15 @@ dadarśa dhīmān bhuvi bhānu<span style="text-decoration:underline;">mantaṃ<
 One cannot miss the pleasing repetition of the sequence "mantam”[मन्तम्] and the fact that at each instance of repetition it occurs as a part of a different word.
 
 Kālidāsa who could not have been later than 5<sup>th</sup> century AD indulges in yamaka in his work Raghuvaṃśam at places. By the time poet Bhāravi composed his magnum opus, “Kirātārjunīyam” an epic poem sometime earlier to 7<sup>th</sup> century AD, Śabda alaṅkāra had widened its base beyond “anuprāsa” and “yamaka”. In the 15<sup>th</sup> canto of Kirātārjunīyam, Bhāravi demonstrates “Gomūtrikābandha” one of the earliest forms of citrakāvyam in the following verse. The verse is written in a figure [Fig. 6] which represents the zig-zag path traced on the ground by the urine of a cow as it urinates while walking. (go=cow, mūtra =urine, bandha=constraint)
+
+|    |   |    |   |   |    |    |    |   |   |    |     |    |    |    |    |
+|----|---|----|---|---|----|----|----|---|---|----|-----|----|----|----|----|
+|    |   | रो |   |   |    | ना |    |   |   | सं  |     | न  |    | क्ष |    |
+| ना | सु |    | यं | न | वा |    | गो | ध | र |    | स्थो |    | रा |    | सः |
+|    |   | खो |   |   |    | भो |    |   |   | णि |     | हि |    | ज  |    |
+
+Fig. 6: Gomūtrikābandha of Bhāravi
+
 
 nāsuro'yaṃ na vā nāgo dharasaṃstho na rākṣasaḥ ।
 
@@ -239,6 +306,18 @@ We shall now have a look at two verse-pairs composed as knight’s tour (turagab
 
 Vedāntadeśika who lived in the later part of the 13<sup>th</sup> century was a pious devout person who led a simple life, an erudite scholar who wrote philosophical treatises and a gifted poet whose literary works have earned him a place among the pantheon of great Sanskrit poets. His work Pādukāsahasram<sup> </sup> consisting of 1000 verses is a hymn to the sandals of Śrīrāma which were worshipped by Bharata when the former lived in the forests. The work has 32 cantos and the 30<sup>th</sup> canto called citrapaddhati consists of 40 verses where Vedāntadeśika demonstrates his skill in citrabandhas and in every possible type of literary jugglery. Needless to say that it is not easy to understand the meaning of these verses without the help of a commentary written by an equally competent and erudite scholar.
 
+
+
+
+|      |      |      |      |     |      |      |       |
+|------|------|------|------|-----|------|------|-------|
+| स्थि1 | रा30 | ग9   | सां20 | स3  | दा24 | रा11 | ध्या26 |
+| वि16 | ह19  | ता2  | क29  | त10 | ता27 | म4   | ता23  |
+| स31  | त्पा8 | दु17  | के14  | स21 | रा6  | सा25 | मा12  |
+| रं18  | ग15  | रा32 | ज7   | प28 | द13  | न्न22 | य5    |
+
+
+Fig 7. Vedāntadeśika’s knight’s tour verses
  
 
 In this work of his, the pair of verses which demonstrates knight’s tour is as follows [Fig. 7].:
@@ -269,7 +348,15 @@ The knight’s tour verse can be read in Fig. 7 by following the cell no.s 1,2,3
 
 Bhoja is another important poet and critic who has given examples of knight’s tour in his book on poetics, “Sarasvatīkaṇṭhābharaṇam” It is seen that Rudraṭa, Bhoja and Vedāntadeśika employ a common knight’s tour whereas Ratnākara employs a different knight’s tour [Fig. 8]
 
- 
+
+|   | A    | B    | C     | D    | E   | F    | G    | H    |
+|---|------|------|-------|------|-----|------|------|------|
+| 1 | भा26 | से11  | द्धा24 | हा5  | त20 | त9   | न30  | ना7  |
+| 2 | सा23 | दि4  | मा27  | या10 | द29 | से6   | वि19 | ता16 |
+| 3 | सा12 | स25  | ह2    | स्त21 | त14 | या17 | शा8  | न्त31 |
+| 4 | सा3  | रा22 | हि13  | त28  | स1  | मि32 | द्यु15 | ता18 |
+
+Fig. 8 Ratnakara’s knight’s tour.
 
 The relevant verses of Ratnākara are as follows:
 
@@ -305,7 +392,30 @@ Suciroma’s lustrous angry army, which had a fear-less roar, which was served b
 
 It needs to be mentioned that Dr. Knuth was so much fascinated by the knight’s tour verses in Sanskrit that he composed a similar pair of verses in English! Whereas in Sanskrit each cell contains a syllable, in Knuth’s verses each cell contains a word. [Fig. 9 & 10] [[https://www.iiitb.ac.in/CSL/projects/Chitrakavya/visuals.html](https://www.iiitb.ac.in/CSL/projects/Chitrakavya/visuals.html)]
 
- 
+
+
+
+|   | A       | B      | C       | D       | E      | F        | G       | H       |
+|---|---------|--------|---------|---------|--------|----------|---------|---------|
+| 1 | 26have  | 11some | 24fun   | 5watch  | 20this | 9or      | 30that  | 7word   |
+| 2 | 23great | 4four  | 27lines | 10take  | 29out  | 6each    | 19gives | 16eight |
+| 3 | 12left  | 25then | 2two    | 21black | 14and  | 17just   | 8here   | 31white |
+| 4 | 3three  | 22rook | 13steps | 28make  | 1one   | 32knight | 15move  | 18right |
+
+Fig. 9  Knuth’s  main verse \
+
+
+
+
+
+|   | A    | B     | C      | D     | E      | F     | G     | H      |
+|---|------|-------|--------|-------|--------|-------|-------|--------|
+| 1 | one  | two   | three  | four  | watch  | each  | word  | here   |
+| 2 | or   | take  | some   | left  | steps  | and   | move  | eight  |
+| 3 | just | right | gives  | this  | black  | rook  | great | fun    |
+| 4 | then | have  | lines  | make  | out    | that  | white | knight |
+
+Fig. 10  Knuth’s knight’s tour verse.
 
 ## 6.0 Rudraṭa’s Verse
 
@@ -345,6 +455,22 @@ The cryptic verse of Namisādhu has no meaning and contains each of the Sanskrit
 
 Following Namisādhu’s explanation, the corrected mnemonic verse has been placed over Rudraṭa’s verse in Fig. 11. For clarity, Rudraṭa’s verse is in Roman script, while Namisādhu’s mnemonic is in Devanāgarī script.  Alphabetical serial number of the letter is also given.
 
+
+
+
+|       |      |       |       |      |       |       |      |
+|-------|------|-------|-------|------|-------|-------|------|
+| क-1   | श-30 | झे-9   | ना-20 | ग-3  | भ-24  | टा-11 | य-26 |
+| se    | nā   | lī    | lī    | lī   | nā    | nā    | lī   |
+| त-16  | ध-19 | खे-2   | वे-29  | ञ-10 | रा-27 | घ-4   | बे-२३ |
+| lī    | nā   | nā    | nā    | nā   | lī    | lī    | lī   |
+| ष-31  | जे-8  | था-17 | ढे-14  | प-21 | चे-6   | मे-25  | ठे-12 |
+| nā    | lī   | nā    | lī    | le   | nā    | lī    | nā   |
+| दो-18 | ण-15 | स-32  | छ-7   | ल-28 | डे-13  | फ-22  | ङे-5  |
+| lī    | lī   | lī    | nā    | nā   | nā    | nā    | lī   |
+
+Fig. 11.  Rudraṭa’s verse and the knight’s tour
+
 If we follow the alphabetical order it clearly gives the knight’s tour, which turns out to be the same as what Vedāntadeśika has used for his verse-pair. [It is very likely that the poets knew the solution through an earlier knight’s tour verse-pair or a mnemonic verse, same as or similar to, the one given by Namisādhu_._]
 
 Rudraṭa_ _ has simplified the complexity of composition by adopting only 4 syllables. His composition is unique as his knight’s tour verse is the same as the main verse.
@@ -352,6 +478,19 @@ Rudraṭa_ _ has simplified the complexity of composition by adopting only 4 syl
 It is natural to investigate if his use of only 4 distinct syllables is connected with the knight’s tour sequence yielding the same verse. It indeed turns out that in order that the knight’s tour sequence yield the same verse, there cannot be more than 4 distinct syllables in the verse.
 
 To prove this, we set up a table of equality (Fig. 12) where the 2 serial cell-numbers in a column have to be the same syllable:
+
+
+
+|                              |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|------------------------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| Main verse cell No.          | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| Knight’s tour verse cell No. | 1  | 11 | 5  | 15 | 32 | 22 | 28 | 18 | 3  | 13 | 7  | 24 | 30 | 20 | 26 | 9  |
+|                              |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+| Main verse cell No.          | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 |
+| Knight’s tour verse cell No. | 19 | 25 | 10 | 4  | 21 | 31 | 16 | 6  | 23 | 8  | 14 | 29 | 12 | 2  | 17 | 27 |
+
+Fig. 12.  Table of equality of cells to ensure that Rudraṭa’s main verse and knight’s tour verse are same
+
 
 This table of equality leads to the interesting result that
 
@@ -381,7 +520,27 @@ The number of distinct alternatives is 6, LCM of the periods of the two cyclic p
 
 This logic is clearly extendable to the case of Rudraṭa’s knight’s tour verse. In the case of the latter, the knight’s tour verse coincides with the main verse. When we set up the set of equations to enforce this coincidence, the disjoint cycles separate out automatically and we are led to the result that all the elements of a disjoint cycle will have to be a common syllable. In case of Rudraṭa’s knight’s tour as there are 2 disjoint cycles each having 15 elements and 2 fixed points there can be a maximum of 4 syllables only. Similarly for knight’s tours of Ratnākara, Someśvara and Euler, the maximum number of syllables that the verse can have in order that the knight’s tour verse be the same as main verse can be worked out and the details are as per Fig. 13.
 
+| A Verse-pair of |                  |            | B No.of syllables |                            | C Syllable No. |                                                                                                                                                                                                                                |                        | D Cell No.s where the syllable has to appear (Also indicates the permutation structure:Fixed points and cyclic permutations) |
+|-----------------|------------------|------------|-------------------|----------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Rudraṭa (4x8)   |                  |            | 4                 |                            |  1             |                                                                                                                                                                                                                                |                        | Cell No. 1                                                                                                                   |
+|                 |                  |            |                   |                  2         |                |                                                                                                                                                                                                                                |            Cell No. 21 |                                                                                                                              |
+|                 |                  |            |                   |                  3         |                |                    Cells (2,11,7,28,29,12,24,6,22,31,17,19,10,13,30.) 15 cells                                                                                                                                                 |                        |                                                                                                                              |
+|                 |                  |            |                   |                  4         |                |                    Cells No. (3,5,32,27,14,20,4,15,26,8,18,25,23,16,9) 15 cells                                                                                                                                                |                        |                                                                                                                              |
+| Ratnakara (4x8) |                  |          3 |                   |                  1         |                |                    Cell No. 16                                                                                                                                                                                                 |                        |                                                                                                                              |
+|                 |                  |            |                   |                  2         |                |                    Cell No. 28                                                                                                                                                                                                 |                        |                                                                                                                              |
+|                 |                  |            |                   |                  3         |                |                     Cells No.  (1,29,13,27,11,2,19,15,31,24,3,25,18,32,30,                     7,8,23,9,6,14,21,20,5,4,10,12,17,22,26) 30 cells                                                                                |                        |                                                                                                                              |
+| Someśvara (8x8) |                  |         4  |                   |                  1         |                |                     Cell No. 11                                                                                                                                                                                                |                        |                                                                                                                              |
+|                 |                  |            |                   |                  2         |                |                     Cell No. 26                                                                                                                                                                                                |                        |                                                                                                                              |
+|                 |                  |            |                   |                  3         |                |                     Cells No.(57,29,52,37,6,23,13,18,64,46,48,21,15,                     50,44,53,43,59,4,55,45,63,36,16,60,10,5,40,17,                     54,28,58,19,47,31,56,35,22,30,62,42,49,38,12,1) 45 cells           |                        |                                                                                                                              |
+|                 |                  |            |                   |                  4         |                |                    Cells No. (3,61,25,9,20,32,39,2,51,27,41,34,7,8,14,33,24)                      17     cells                                                                                                                 |                        |                                                                                                                              |
+| Euler 4x8       |                3 |            |                   |                 1          |                |                    Cell No. 1                                                                                                                                                                                                  |                        |                                                                                                                              |
+|                 |                  |            |                   |                 2          |                |                    Cell No. 23                                                                                                                                                                                                 |                        |                                                                                                                              |
+|                 |                  |            |                   |                 3          |                |                    Cells No (2,18,25,12,24,29,21,14,13,7,5,32,6,15,                     3,28,27,17,19,10,20,4,22,8,13,11,7,30,31,16,9,26) 30 cells                                                                             |                        |                                                                                                                              |
+
+Fig. 13. Required number of syllables and their cell no.s for the knight’s tour verse to be the same as main verse (4 different tours).
+
 Fig. 13 shows that among three 4x8 knight’s tours studied, Ratnakara’s and Euler’s require 3 syllables. Someśvara’s 8x8 knight’s tour will need a pair of main verses, each verse having 32 syllables and it will require 4 syllables.
+
 
 Fig. 13 (Column D) also indicates the structure of permutation in each of the four knight’s tours. Rudraṭa’s knight’s tour is a permutation of the elements of set 1,2,3,----32 which maps the 15 elements of subset ( 2,11,7,28,29,12,24,6,22,31,17,19,10,13,30) to each other in a cyclic fashion and 15 elements of subset (3,5,32,27,14,20,4,15,26,8,18,25,23,16,9) to each other in a cyclic fashion, while elements 1 and 21 remain fixed. Similar statements can be made in respect of the other three knight’s tours. It is interesting and intriguing too, to note that there are two and only two fixed points in each of the four knight’s tours studied.
 
@@ -423,145 +582,6 @@ Books
 6. [https://www.youtube.com/watch?v=C95hHI7cVNs](https://www.youtube.com/watch?v=C95hHI7cVNs)
 7. [https://www.iiitb.ac.in/CSL/projects/Chitrakavya/visuals.html](https://www.iiitb.ac.in/CSL/projects/Chitrakavya/visuals.html)
 
-- - - - -
-
-## FIGURES
-
-
-|   | A | B  | C  | D  | E | F | G | H |
-|---|---|----|----|----|---|---|---|---|
-| 1 | च | चा | चि | ची | चु | चू | चे | चै |
-| 2 | ग | गा | गि | गी | गु | गू | गे | गै |
-| 3 | न | ना | नि | नी | नु | नू | ने | नै |
-| 4 | द | दा | दि | दी | दु | दू | दे | दै |
-| 5 | ट | टा | टि | टी | टु | टू | टे | टै |
-| 6 | र | रा | रि | री | रु | रू | रे | रै |
-| 7 | स | सा | सि | सी | सु | सू | से | सै |
-| 8 | प | पा | पि | पी | पु | पू | पे | पै |
-
-Fig 1. Co-ordinate system of Someśvara.
-
-|   | A   | B    | C    | D    | E   | F   | G   | H   |
-|---|-----|------|------|------|-----|-----|-----|-----|
-| 1 | 12च | 39चा | 24चि | 59ची | 10चु | 37चू | 34चे | 7चै  |
-| 2 | 25ग | 60गा | 11गि | 38गी | 23गु | 8गू  | 21गे | 36गै |
-| 3 | 40न | 13ना | 58नि | 9नी  | 48नु | 35नू | 6ने  | 33नै |
-| 4 | 61द | 26दा | 51दि | 54दी | 57दु | 22दू | 47दे | 20दै |
-| 5 | 14ट | 41टा | 56टि | 63टी | 52टु | 49टू | 32टे | 5टै  |
-| 6 | 27र | 62रा | 53रि | 50री | 55रु | 64रू | 19रे | 46रै |
-| 7 | 42स | 15सा | 2सि  | 29सी | 44सु | 17सू | 4से  | 31सै |
-| 8 | 1प  | 28पा | 43पि | 16पी | 3पु  | 30पू | 45पे | 18पै |
-
-Fig. 2 Knight’s tour of Someśvara
-
-|    |   |   |   |   |   |   |   |   |
-|----|---|---|---|---|---|---|---|---|
-| 1  | 2 | 3 | 4 | 4 | 4 | 4 | 3 | 2 |
-| 2  | 3 | 4 | 6 | 6 | 6 | 6 | 4 | 3 |
-| 3  | 4 | 6 | 8 | 8 | 8 | 8 | 6 | 4 |
-| 4  | 4 | 6 | 8 | 8 | 8 | 8 | 6 | 4 |
-| 5  | 4 | 6 | 8 | 8 | 8 | 8 | 6 | 4 |
-| 6  | 4 | 6 | 8 | 8 | 8 | 8 | 6 | 4 |
-| 7  | 3 | 4 | 6 | 6 | 6 | 6 | 4 | 3 |
-| 8  | 2 | 3 | 4 | 4 | 4 | 4 | 3 | 2 |
-
-Fig. 3 Possible moves for a knight as per Someśvara
-
-
-
-|    |    |    |    |    |    |    |    |
-|----|----|----|----|----|----|----|----|
-| 1  | 26 | 15 | 20 | 7  | 32 | 13 | 22 |
-| 16 | 19 | 8  | 25 | 14 | 21 | 6  | 31 |
-| 27 | 2  | 17 | 10 | 29 | 4  | 23 | 12 |
-| 18 | 9  | 28 | 3  | 24 | 11 | 30 | 5  |
-
-Fig 4. Euler’s knight’s tour
-
-
-|   | A | B | C | D | E | F | G | H |
-|---|---|---|---|---|---|---|---|---|
-| 1 | 1 |   |   |   | 7 |   |   |   |
-| 2 |   |   | x |   |   |   | 6 |   |
-| 3 |   | 2 |   | x |   | 4 |   |   |
-| 4 |   |   |   | 3 |   |   |   | 5 |
-
-Fig. 5 Warnsdorff Rule
-
-
-
-|    |   |    |   |   |    |    |    |   |   |    |     |    |    |    |    |
-|----|---|----|---|---|----|----|----|---|---|----|-----|----|----|----|----|
-|    |   | रो |   |   |    | ना |    |   |   | सं  |     | न  |    | क्ष |    |
-| ना | सु |    | यं | न | वा |    | गो | ध | र |    | स्थो |    | रा |    | सः |
-|    |   | खो |   |   |    | भो |    |   |   | णि |     | हि |    | ज  |    |
-
-Fig. 6: Gomūtrikābandha of Bhāravi
-
-
-|      |      |      |      |     |      |      |       |
-|------|------|------|------|-----|------|------|-------|
-| स्थि1 | रा30 | ग9   | सां20 | स3  | दा24 | रा11 | ध्या26 |
-| वि16 | ह19  | ता2  | क29  | त10 | ता27 | म4   | ता23  |
-| स31  | त्पा8 | दु17  | के14  | स21 | रा6  | सा25 | मा12  |
-| रं18  | ग15  | रा32 | ज7   | प28 | द13  | न्न22 | य5    |
-
-
-Fig 7. Vedāntadeśika’s knight’s tour verses
-
-|   | A    | B    | C     | D    | E   | F    | G    | H    |
-|---|------|------|-------|------|-----|------|------|------|
-| 1 | भा26 | से11  | द्धा24 | हा5  | त20 | त9   | न30  | ना7  |
-| 2 | सा23 | दि4  | मा27  | या10 | द29 | से6   | वि19 | ता16 |
-| 3 | सा12 | स25  | ह2    | स्त21 | त14 | या17 | शा8  | न्त31 |
-| 4 | सा3  | रा22 | हि13  | त28  | स1  | मि32 | द्यु15 | ता18 |
-
-Fig. 8 Ratnakara’s knight’s tour.
-
-
-|   | A       | B      | C       | D       | E      | F        | G       | H       |
-|---|---------|--------|---------|---------|--------|----------|---------|---------|
-| 1 | 26have  | 11some | 24fun   | 5watch  | 20this | 9or      | 30that  | 7word   |
-| 2 | 23great | 4four  | 27lines | 10take  | 29out  | 6each    | 19gives | 16eight |
-| 3 | 12left  | 25then | 2two    | 21black | 14and  | 17just   | 8here   | 31white |
-| 4 | 3three  | 22rook | 13steps | 28make  | 1one   | 32knight | 15move  | 18right |
-
-Fig. 9  Knuth’s  main verse \
-
-
-|   | A    | B     | C      | D     | E      | F     | G     | H      |
-|---|------|-------|--------|-------|--------|-------|-------|--------|
-| 1 | one  | two   | three  | four  | watch  | each  | word  | here   |
-| 2 | or   | take  | some   | left  | steps  | and   | move  | eight  |
-| 3 | just | right | gives  | this  | black  | rook  | great | fun    |
-| 4 | then | have  | lines  | make  | out    | that  | white | knight |
-
-Fig. 10  Knuth’s knight’s tour verse.
-
-|       |      |       |       |      |       |       |      |
-|-------|------|-------|-------|------|-------|-------|------|
-| क-1   | श-30 | झे-9   | ना-20 | ग-3  | भ-24  | टा-11 | य-26 |
-| se    | nā   | lī    | lī    | lī   | nā    | nā    | lī   |
-| त-16  | ध-19 | खे-2   | वे-29  | ञ-10 | रा-27 | घ-4   | बे-२३ |
-| lī    | nā   | nā    | nā    | nā   | lī    | lī    | lī   |
-| ष-31  | जे-8  | था-17 | ढे-14  | प-21 | चे-6   | मे-25  | ठे-12 |
-| nā    | lī   | nā    | lī    | le   | nā    | lī    | nā   |
-| दो-18 | ण-15 | स-32  | छ-7   | ल-28 | डे-13  | फ-22  | ङे-5  |
-| lī    | lī   | lī    | nā    | nā   | nā    | nā    | lī   |
-
-Fig. 11.  Rudraṭa’s verse and the knight’s tour
-
-|                              |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|------------------------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-| Main verse cell No.          | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| Knight’s tour verse cell No. | 1  | 11 | 5  | 15 | 32 | 22 | 28 | 18 | 3  | 13 | 7  | 24 | 30 | 20 | 26 | 9  |
-|                              |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-| Main verse cell No.          | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 |
-| Knight’s tour verse cell No. | 19 | 25 | 10 | 4  | 21 | 31 | 16 | 6  | 23 | 8  | 14 | 29 | 12 | 2  | 17 | 27 |
-
-Fig. 13. Required number of syllables and their cell no.s for the knight’s tour verse to be the same as main verse (4 different tours).
-
-___________________________________________________________________________________________________
 
 
 ## Notes
