@@ -12,3 +12,5 @@ ettUr lakshmIkumAra tAtAchArya.
 Raja guru of King Venkata I of Vijayanagara, established numerous Anna Chatrams, sponsored the marriage expenses of thousands of poor couples, earned the title kotikanyadanam,  veda-marga-pratisthapanacharya & Ubhayavedanta-sthapanacharya; author of works of high philosophy like the Sattvika Brahma Vidya Vilasa & bhakti poems like the Panduranga Mahatmya to Vittala of Pandharpur, set up schools for scholars & very ably managed temple funds.
 
 
+## गरणि-श्रीनिवासः
+KannaDa writer who translated 4k divyaprabandhas. See separatel [article](../articles/garaNi-shrInivAsa-exegesis/).
