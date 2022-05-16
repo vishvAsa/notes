@@ -29,3 +29,11 @@ venkaTAdhvarin
 - Fine poet.
 - Wrote several papers on Chandas-shAstra and computation for sanskrit. One on rudraTa's knight's tour verse (aged around 85). Was active into old age contributing proofreading labor. 
 - Condensed rAmAyaNam to laghu-vAlmIkIyam.
+
+
+> “किंवर्षीयः कवे त्वं जरठ वद” “मयास्योत्तरं नोक्तपूर्वम्”  
+> “अस्तु, प्रश्नोऽपरो मे, कविवर कतिकृत्वो धरा कर्मनिष्ठा ।  
+> आ त्वज्जन्मात् स्वमार्गे दिनकरमभितः सञ्चचालेति”  “बाढम्,  
+> श्लोकेऽस्मिन्नुच्यमाने गणय शितमते योजितान्यक्षराणि” ॥  
+> (When asked his age in 2022.)
+
