@@ -3,6 +3,9 @@ title = "garaNi-shrInivAsa exegesis"
 +++
 Sources: garaNi-rAdhAkRShNa.
 
+{{< figure src="../../images/garaNi-shrInivAsa.jpg" title="" class="thumbnail">}}
+
+
 ## About garaNi-shrInivAsa
 ### English Intro
 Garani Sreenivasan 1907 - 1985
