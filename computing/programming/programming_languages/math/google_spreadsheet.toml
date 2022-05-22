@@ -1,13 +1,14 @@
 [[data]]
 Language = 'Google sheets'
 "Operand Type" = 'add  ons'
-Feature = ''
+Feature = 'Export data to json'
 Subfeature = ''
 Importance = ''
 "Implementation Type" = ''
 Syntax = 'Use Add-ons menu'
 Description = '''
-Eg:  Google Sheets Power Tools
+Eg:  Google Sheets Power Tools.
+Can thence export to toml on other sites like https://pseitz.github.io/toml-to-json-online-converter/ .
 '''
 
 [[data]]
