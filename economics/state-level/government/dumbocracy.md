@@ -23,12 +23,27 @@ Here we examine problems of democracy and briefly consider alternative systems o
 - DV Gundappa in his "maisUru divAnaru" part of "jNApaka-chitra-shAle": [audio-1.5x p1](https://archive.org/details/dvg-jnapaka-chitra-shaale-maisUrina-dIvAnaru-1.5x/24_Upasamhara_p1.mp3), [p2](https://archive.org/details/dvg-jnapaka-chitra-shaale-maisUrina-dIvAnaru-1.5x/25_Rashtra_Samasthithiya_Mulasuthra_p1.mp3).
 - "Machiavelli put the idea that democracies will tend to cater to the whims of the people,  who follow false ideas to entertain themselves, squander their reserves, and do not deal with potential threats to their rule until it is far too late."
 
-## Alternatives
+## Monarcy + aristocracy
+### Ideals
 - Plato argues that only Kallipolis, an aristocracy led by the unwilling philosopher-kings (the wisest men), is a just form of government.
-- Mysore kingdom under the Wodeyars and their chief ministers (divAns) was one of the best administered states in the world. The chief minister was chosen based on merit from the administrative and engineering services, for a limited term. They tended to be highly effective, sincere, and incorruptible rulers. They were supported by an elected "prajA-pratinidhi-sabhA", who could only make suggestions to the chief minister who could dispense with the recommendations as he thought fit. The state of Karnataka which succeeded it pales in comparison.
+
+### Risks
+- Top down enforcement of monotheism on pagan socieities
+  - Example
+    - Akhenaten's Atenism (Egyptians returned to polytheism.)
+    - Constantine and successors in Rome. (Julian repaganized - but christians returned after his death.)
+    - Vladimir of the Kievan rUs, became Orthodox Christian for alliance with Basil.
+    - Rinchan of Kashmir.
+    - Jogaila of Lithuania, who became Catholic for alliance with Poles.
+    - Haakon and Sigurd Haakonsson, Jarls in norway. (His son Haakon Sigurdarson rebelled briefly.)
+
+### Consensus
 - Consensus-based (rather than election-based) appointments, successions and leadership choices lead to more harmonious outcomes and organizations which whole-heartedly pivot when necessary. Eg. Japanese companies [hbr article](https://hbr.org/1971/03/what-we-can-learn-from-japanese-management), japanology pages.
+
+### Realizations
+- Mysore kingdom under the Wodeyars and their chief ministers (divAns) was one of the best administered states in the world. The chief minister was chosen based on merit from the administrative and engineering services, for a limited term. They tended to be highly effective, sincere, and incorruptible rulers. They were supported by an elected "prajA-pratinidhi-sabhA", who could only make suggestions to the chief minister who could dispense with the recommendations as he thought fit. The state of Karnataka which succeeded it pales in comparison.
 - See varNavatI [here](../../../../social-cultivation/clan/theory/fiction/varnavatii/).
 
-### Rigged democracies
+## Rigged democracies
 - Singapore has a strong de-ghettoisation policy: every electoral constituency is chinese majority; so less voice for malay islamists. The legacy of Lee Kuan Yew stays strong.
 - Share-based system: Every citizen living as of today (for example) gets a share in the nation. The total number of shares remains constant over time (just as in a company). Every time he has a child, he/ she forfeits a portion of his share to the child. Once he dies, his shares are divided among his children. So, if the muslim community grows from 10% to 50% in a hundred years, the problem is not as severe: they will continue to have only 10% share in the national political power.
