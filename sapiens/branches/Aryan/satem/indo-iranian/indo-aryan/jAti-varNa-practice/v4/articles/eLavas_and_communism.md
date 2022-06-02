@@ -2,6 +2,14 @@
 title = "eLavas and communism"
 +++
 
+<details><summary>Bias warnings - akShay nair</summary>
+
+- Take it with a bucket of salt. Many things are errenous. He had earlier written that Kerala was mainly a Buddhist society before Nambuthiris came in.
+- He's wrong that Avarnas weren't considered as Hindus...they had their own rituals and worship. For instance many rites related to Theyyam are done by them, Even in important temples like at Kottiyoor, they have special rights to perform abhisheka with tender coconut water. Also most of the early commie leaders were Nairs and Brahmins, not Avarnas. When AK Gopalan, a Nair commie leader tried to preach equal rights for all Hindus, a group of Thiyyas (OP's caste) actually beat him up.
+</details>
+
+
+
 Why Kerala Hindus vote for communism?
 
 
@@ -27,3 +35,5 @@ On a lighter note, I personally face considerable hostility among auto drivers i
 1. Savarna = Brahmins, Kshatriyas, Shudras.
 2. There is no Vaishya varna in Kerala; the role is performed by Christians.
 3. Avarna = Those not considered part of the 4-fold Varna system and therefore not Hindu. Until 1862, any Avarna could be legally enslaved by Europeans.
+
+
