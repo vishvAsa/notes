@@ -25,6 +25,13 @@ Finally, he demands that Husain stop eating beef, turn away from Mecca, and inst
 > I’ll expel the foundations of Islam far off  
 > Only those who accept Ram will be spared.  
 >
-> *Na turkān ko chhorūn na turkī kamān* *Agar gyo Rustam hāzir zamān*
+> *Na turkān ko chhorūn na turkī kamān*  
+> *Agar gyo Rustam hāzir zamān*
 >
-> *Ze āb-i Bhimwar tā lab- i NarbadāNa chhorūn tawangar na chhorūn gadāNa chhorūn kidhain kadkhudāyān-i Hind* *Na chhorūn kidhain kadkhudāyān-i Sind* *Na chhorūn mulānā na chhorūn faqīr* *Na barkā na larkā na barnā na pīr* *Karūn dūr buniyād Islām kījo māne dorāhe jagat Rām kī.*
+> *Ze āb-i Bhimwar tā lab- i NarbadāNa chhorūn tawangar  
+> na chhorūn gadāNa chhorūn kidhain kadkhudāyān-i Hind*  
+> *Na chhorūn kidhain kadkhudāyān-i Sind*  
+> *Na chhorūn mulānā na chhorūn faqīr*  
+> *Na barkā na larkā na barnā na pīr*  
+> *Karūn dūr buniyād Islām  
+> kījo māne dorāhe jagat Rām kī.*
