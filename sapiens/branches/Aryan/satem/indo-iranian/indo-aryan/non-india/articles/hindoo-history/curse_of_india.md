@@ -1,5 +1,5 @@
 +++
-title = Curse of India
+title = "Curse of India"
 +++
 
 Source: [TW](https://threadreaderapp.com/thread/1531342950382260224.html)
