@@ -9,7 +9,7 @@ unicode_script = "devanagari"
 
 ### कमला
 - शिक्षिका मुम्बपुर्याम्। 
-- स्ववंशकथां साध्व् अलिखत्। 
+- [स्ववंशकथां](https://archive.org/details/kamalA-parents-bio/page/n3/mode/2up?view=theater) साध्व् अलिखत्। 
 - पतिः कौशिकः पार्थसारथी। 
 - पुत्र्यौ 
   - रङ्गनायकी वैद्यपत्नी साक्रमॆण्टो-वासिनी। 
