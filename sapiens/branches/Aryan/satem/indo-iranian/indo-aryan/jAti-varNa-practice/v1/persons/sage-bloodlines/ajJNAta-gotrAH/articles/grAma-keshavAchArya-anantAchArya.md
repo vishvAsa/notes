@@ -1,0 +1,11 @@
++++
+title = "GK anantAchAr"
++++
+Source: [TW](https://threadreaderapp.com/thread/1536737458129235968.html)
+
+
+I had no idea that just an hour from my parents’ home in Bengaluru near Nelamangala, there was a dreamland full of Hindu art treasures with a close link to Amar Chitra Katha, my favorite comic series. So indebted to @Ramyarohini for motivating me to visit Omthara Kala Kuteera. Until Ramya made me aware, I credited Anant Pai solely for the success of Amar Chitra Katha. Looks like there has been a big omission and you will know that when you visit Omthara. GK Ananthram is the brain behind Amar Chitra Katha. Only after he pestered his boss Mirchandani he got the budget to publish the comic series in Kannada which became a runaway hit. Impressed, the publishers (India Book House) decided to publish ACK in English & other languages. Anant Pai who ran Indrajal comics was then brought in to run ACK in the late 1960s and the rest is history.
+
+Coming back to GK Ananthram, he has not only published and edited thousands of Kannada and English books but has created a heritage museum in Omthara that brings to life the stories from Ramayana and the Puranas that we have been hearing from childhood. Whether it is the ornately painted wooden doors or the rock carvings or the elaborately sculpted statues or the hand-made floor tiles or stucco work, you will be left speechless at the Bhagirathan efforts that have gone into showcasing Sanatana Dharma (including Buddha).
+
+National award-winning artisans from Odisha, Tamil Nadu, and Kerala have mainly been employed to create the priceless works on display. The entire place is located in the midst of verdant surroundings & you can see peacocks moving around while birds call out to each other. The mood was set for me from the moment I saw the sculpture of a meditating Hanuman sitting right below a Parijata bush. It looked so real that I wondered if I was disturbing his Dhyana. I was also fascinated by Annapoorneshwari and made my mother pose next to her. After all, it is she in whom Annapurna first manifested herself to me. There are other masterpieces in the garden such as Shiva in the form of Dakshinamoorthi and Amruta Mrityunjaya.

@@ -10,18 +10,26 @@ title = "Utensils"
 - Vessel size - might need to fit in other vessels and cookers.
 
 ### Health and materials
+- Folks interested in good health and happy death - avoid bad cooking vessels.
+- Overviews
+  - [YT](https://www.youtube.com/watch?v=_eljsPT1Qws)  (not sure about the positives in that list, but the popular negative ones should be avoided.)
+
 - Use Iron and stainless steel.
+
+
 - Glass ok for storage. Silicone borderline ok.
 - Teflon-coated non-stick kadhais may leach into food. Use cast iron pans instead.
 - Exposure to aluminium lowers the levels of zinc, an important mineral for our bodies. Possible factor in dementia.
 - Plastic not ok.
-- Ceramics may leach lead. 
+- Ceramics may leach lead.
 
 #### Composition testing
 I have tested new vessels by cutting a portion on the side and old vessels in every possible way. Of course, machine testing or spectroscopy does not require a piece of the metal. You can test for the whole vessel directly.
 
 #### Copper based
 - Too much copper can be fatal. You could get severe toxicity from ingesting large amounts of copper salts through your skin. Copper can work its way through your internal organs and build up in your brain, liver, and lungs.
+- Welding
+  - Filler material (oft copper itself) + Slag (Silicate) 
 
 ##### Brass
 - Brass is an alloy of copper and zinc. Often, lead is added. See copper materials page for more info.

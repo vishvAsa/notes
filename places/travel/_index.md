@@ -2,7 +2,7 @@
 title = "+Travel"
 
 +++
-I keep an incomplete list of places visited and hiked. Maybe I'll publish it some day.
+I keep an incomplete list of places visited and hiked. Maybe I'll publish [it](https://docs.google.com/spreadsheets/d/1PUuQYv9FMtCS3gBTNwl2fNkQlG-msb7nuxcZ2iffMZQ/edit#gid=712943159) some day.
 
 ## Aggregators
 

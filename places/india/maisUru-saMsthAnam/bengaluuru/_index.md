@@ -19,8 +19,13 @@ title: +Bengaluru
 ## Trouble spots
 - [map](https://www.google.com/maps/d/u/0/viewer?mid=1asgLRhOHyT2T--cGDoqrzkEuqdQ&shorturl=1)
 
-## प्राचीन-मन्दिराणि
+## प्रेक्षणीयानि
+### प्रकीर्णम्
 - old temples - [TW16](https://twitter.com/ColonelGerard/status/775920873744113664)
+
+### पश्चिमाद् बहिः
+- omthara kala kuTIra, nelamangala. [GM](https://goo.gl/maps/DnMdrdvW4oodeN6y9) [SS](https://threadreaderapp.com/thread/1536737458129235968.html)
+
 
 ## Hoardings
 - In 2020, 8x10 costs about 1-1.5lacs/month Airport road, 50000-60000/month near brigade road, 10000-20000/month mysore road
