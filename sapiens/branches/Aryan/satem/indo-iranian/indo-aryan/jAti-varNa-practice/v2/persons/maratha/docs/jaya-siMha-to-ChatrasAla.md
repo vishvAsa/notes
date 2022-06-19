@@ -1,7 +1,8 @@
 +++
 title = "jayasiMha to ChatrasAla"
 +++
-Source - https://archive.org/details/in.ernet.dli.2015.119126/page/n73/mode/2up?view=theater
+Source: [TW](https://archive.org/details/in.ernet.dli.2015.119126/page/n73/mode/2up?view=theater)
+
 
 
 (In his letter dated October 16, 1708 to Chhatrasal, Jai Singh wrote that the trouble started when the Emperor, while granting them mansabs, incorporated the parganas of their watans into khalisa.) 
