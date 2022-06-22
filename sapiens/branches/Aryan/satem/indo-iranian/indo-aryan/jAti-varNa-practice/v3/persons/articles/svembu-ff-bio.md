@@ -287,9 +287,9 @@ It’s not all chaos, but it’s an inversion of the way most startups work. Typ
 
 Sridhar, on the other hand, puts culture first. Get people who have a shared vision and values, out of that emerges a strategy, and that’s followed by execution. In Zoho’s case, as in Honda, these people are typically passionate about tech (or discover their passion in tech even if they come with a blank slate to Zoho School or Zoho itself as a fresher).
 
-This allows him to take long-term bets, and make investments in what seems to be disconnected or far removed from Zoho’s business (MRI machines or chipsets). That’s a way to attract and retain talent. Engineers like to work on tough problems.
+This allows him to take long-term bets, and make investments in what seems to be disconnected or far removed from Zoho’s business (MRI machines or chipsets). That’s a way to attract and retain talent. Engineers like to work on tough problems.+++(5)+++
 
-Keeping people and values as a starting point also meant that while founders separated over differences in strategy, they remained friends. Kumar is still involved with Zoho Corp. He calls Tony Thomas “my personal daily Buddha” with whom he talks almost daily to seek his wisdom. He co-invested in a robotics company with Srinivas Kanumuru.
+Keeping people and values as a starting point also meant that while founders separated over differences in strategy, they remained friends.+++(5)+++ Kumar is still involved with Zoho Corp. He calls Tony Thomas “my personal daily Buddha” with whom he talks almost daily to seek his wisdom. He co-invested in a robotics company with Srinivas Kanumuru.
 
 Mathivanan V,  who joined the company when it was still operating out of the first floor of Sridhar’s parents’ house in Tambaram, in Chennai says each one of the founders and early employees brought their own strengths into the company. And that helped build a culture that’s hard to define. “I can try and explain, I can tell you several stories, but they won’t capture the culture here,” he says.
 

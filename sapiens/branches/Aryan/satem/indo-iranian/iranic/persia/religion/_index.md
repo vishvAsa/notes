@@ -1,7 +1,7 @@
 ---
 title: +Religion and Politics
 ---
-
+- Old Iranic religion and Zoroastrian takeover - see [Agama notes](/AgamaH/AryaH/iranic).
 
 
 ## India refuge

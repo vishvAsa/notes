@@ -8,7 +8,7 @@ unicode_script = "devanagari"
 - पुत्रः रामानुजः। तत्पत्नी जयलक्ष्मी
 
 ### कमला
-- शिक्षिका मुम्बपुर्याम्। 
+- शिक्षिका मुम्बापुर्याम्। 
 - [स्ववंशकथां](https://archive.org/details/kamalA-parents-bio/page/n3/mode/2up?view=theater) साध्व् अलिखत्। 
 - पतिः कौशिकः पार्थसारथी। 
 - पुत्र्यौ 
