@@ -461,10 +461,25 @@ upasamUhaH = 'Motorola atrix'
 software = 'Listed elsewhere.'
 
 [[data]]
-samUhaH = 'win'
+samUhaH = 'Internet'
 upasamUhaH = 'web'
 software = 'firefox'
 choice = 1
+
+[[data]]
+samUhaH = 'Internet'
+software = 'Firefox container browsing'
+"OS coverage" = 'firefox'
+choice = 1
+kAraNaM = ''
+
+[[data]]
+samUhaH = 'Eversync'
+software = 'Bookmark syncing'
+"OS coverage" = 'firefox, chrome'
+choice = 1
+kAraNaM = ''
+
 
 [[data]]
 samUhaH = 'Internet'
