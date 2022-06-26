@@ -53,16 +53,6 @@ The language and script of these people remains a mystery.
 - Others point to Dravidian and a proto Elamo Dravidian model (which is rather untenable - George Starostin [here](http://starling.rinet.ru/Texts/elam.pdf)).
 - The Burushaski isolate is another candidate.
 
-### Problems with draviDian theory
-One strong argument in that direction has been Brahui a Dravidian language in lands with high Iranian farmer contribution. However, we argue that Dr was not the Harappan language because:
-
-- 1) There is a common substratum including for agricultural terms and plants that is shared by both Dravidian and Indo-Aryan languages. This implies there was once a third language in the picture and unique to the subcontinent.
-- 2) We don't find Dr as the earliest distinctly Indian substrate in IA but Dr loans appear later. The earliest available Dr text show evidence in contrast for a long contact with IA and IA literary and cultural conventions.
-- 3) If we look at the [recently constructed tree](../images/dravidian-language-tree.png) for Dr based on linguistic data Brahui is lodged quite deep in the tree with no indication of a root-ward position that would be expected if it were the relict of a Harappan Dr presence in the NW.
-- 4) Now with genetic data we can constraint ages. The clearly defined language families like IE, DR, AA are unlikely to be much older than 6000 YBP. That offers a kind of bound that suggests that Pr-DR was not very old -- at best around Mature Harappan suggesting that it might not have had deep history which also inconsistent with the loans from another language.
-
-Hence, together we surmise that the Iranian farmers brought a now lost language that was the primary Harappan.
-
 ## Physique
 - Gangetic Plains Mesolithic Hunter Gatherers of India were the tallest on Earth, much taller than their European counterparts. Damdama HG had a mean height of (179.1 cm /5′10.5″) for males & (173.0 cm / 5'8") for females. Mahadaha males had a mean height of (181.1 cm / 5'11.3") 
 - Gangetic Plain Mesolithic females (5'7"-5'8") were taller in mean stature than Western-European males of the time. Not only were they very tall, but also quite muscular and likely involved in a lot of strenuous physical activity, indicated by hypertrophy in the forearms and legs. Specifically of the anconeus & supinator muscles (although no evidence of physical trauma)
