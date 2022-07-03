@@ -32,7 +32,7 @@ Aham: There are several. An overt drug like opium is no longer widely used. Howe
 
 The most obvious substance in a modern geopolitical sense is, of course, petroleum. Addiction to it has clearly limited the options for a republic like India and also puts the Hindu nation in danger from the marūnmatta-s. Here India/ the Hindus have opted to play prokaryotes and pay the costs for CRISPR systems rather than go eukaryote and get rid of them. As I have told you before, perhaps conflicts like this stabilized the eukaryotes and allowed their radiation. 
 
-Then again, like Restriction-Modification, CRISPR, and other such systems, we have defense addiction.+++(4)+++ Nations that depend on other nations for their weaponry have or will learn it the hard way. 
+Then again, like Restriction-Modification, CRISPR, and other such systems, we have defense addiction.+++(4)+++ Nations that depend on other nations for their weaponry have or will learn it the hard way. (Later remark - Armament addiction is a major problem in biology and geopolitics. H have been in one since late vijayanagara.)
 
 Finally, we have that most important form of modern addiction, the penetration of whole nations by addictive in _silico_ financial and service systems run by the navyonmatta technocrats like Guggulu, Mukhagiri-Reṇugirī, Bejha and Jāka-now-talcum-powder.+++(5)+++ The response of the Occidental regimes backed by these by these most evil forces to the Russian attempt to reconquer Ukraine illustrates the classic enforcement strategy in the addiction process. The Hindu addiction to these is deep, and it is not clear if their leadership even realizes that.
 
