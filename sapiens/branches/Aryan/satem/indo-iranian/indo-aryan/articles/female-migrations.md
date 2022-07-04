@@ -15,7 +15,7 @@ But this 2021 [paper](https://www.nature.com/articles/s41431-021-00829-6) (Compl
 3) Among these, W3a1 and its sub-clades are by far the most ubiquitous Steppe mtDNA haplogroups found in Indian and Thai databases. Image
 4) Regional variation of W3a1's sub-clades:
   - W3a1a and sub-clades - Prehistoric Yamnaya, Europe, Pakistan
-  - W3a1b and sub-clades - Prehistoric Swat valley, Pakistan, mainland India and Thailand(see previous pic)
+  - W3a1b and sub-clades - Prehistoric Swat valley, Pakistan, mainland India and Thailand (see previous pic).
 5) Diversification of W3a1b into sub-clades happened in India between 2100-1500 BCE. Some additional speculation from my side: Could W3a1 have been a prominent Steppe maternal lineage involved in the southward expansion of Indo-Aryans from N.W India to the rest of India between 2000-1000 BCE ?
 7) Indian migration to SE Asia happened >1000 years later. W3a1 seems to be also be the only I-Ir Steppe lineage in Thailand. So was W3a1 a prominent or elite maternal lineage among prehistoric Hindus analogous to the paternal lineage R1a-Z93, albeit to a much lesser degree?
 8) The male-biased migrations and skew of paternal haplogroups are easily explained by gotra-like concepts in Hinduism.
