@@ -49,12 +49,12 @@ Nalayira Divya Prabandham is a magnum opus work of 4000 verses Tamil Alzwars and
 
 ಹನ್ನೆರಡು ಆಳ್ವಾರುಗಳಿಂದ ರಚಿತವಾದ ನಾಲ್ಕುಸಾವಿರ ಪಾಶ್ರುಗಳುಳ್ಳ ಈ ಕೃತಿಯನ್ನು, ಮೂಲ ತಮಿಳಿನಲ್ಲಿ, ಕನ್ನಡದಲ್ಲಿ ತಮಿಳು ಲಿಪಿಯಲ್ಲಿ, ಕನ್ನಡಗ್ದಲ್ಲಿ ಪ್ರತಿಪದಾರ್ಥ, ತಾತ್ಪರ್ಯ ಹಾಗೂ ತಮ್ಮದೇ ಆದ ವಿವರಣೆಯನ್ನು ಕೊಟ್ಟು ಕನ್ನಡದ ಜನತೆಗೆ ಉಣ ಬಡಿಸಲು ಪರಿಶ್ರಮಿಸಿದ ಮಹಾನುಭಾವರಿವರು. ಸುಮಾರು ಹತ್ತು ವರುಷಗಳ ಕಾಲ, ದಿನಕ್ಕೆ ಎರಡು ಪಾಶರುಗಳನ್ನು (ಪದ್ಯಗಳನ್ನು) ಕೂಲಂಕಶವಾಗಿ ಅಧ್ಯಯನ ಮಾಡಿ, ಸತತ ಪರಿಶ್ರಮದಿಂದ ಈ ಮಹಾನ್ ಕೃತಿಯನ್ನು ಹೊರತಂದು, ಭಕ್ತಿಪಂಥದ ಬಾಗಿಲನ್ನು ತೆರೆಯಲು ಅಪೇಕ್ಷಿಸಿದ ಧೀಮಂತ ವ್ಯಕ್ತಿ ಎಂದರೆ ಅತಿಶಯೋಕ್ತಿ ಆಗಲಾರದು.
 
-After he left for vaikuNTha, his son, garaNi-rAdhAkRShNa recovered the sole copy of this precious work. Eventually, he got the manuscripts scanned into pdf files, and started distributing them via CD-s and on the internet. Finally, shrI lakṣmī-tātācār of melukoTe showed interest and even suggested getting it typed and publishing it. The material was rapidly typed, but the publishing process was very slow. shrI lakṣmī-tātācār departed for vaikuNTha before the first volume was published, and his son shrI MA Alwar took up the publishing task.
-
-shrI harIsh, son of kaDaba rangarAjan, somehow came upon the scanned manuscripts and started reading them aloud and saving them in audio files.
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 After he left for vaikuNTha, his son, garaNi-rAdhAkRShNa recovered the sole copy of this precious work from his sister's house and sought interested shrIvaiShNava-s to preserve (or publish). To this end, he approached various individuals and organizations ranging from the parakAla-maTha to a chennai library - no one agreed. 
 </details>
+
+After he left for vaikuNTha, his son, garaNi-rAdhAkRShNa recovered the sole copy of this precious work. Eventually, he got the manuscripts scanned into pdf files (now available at [archive.org](https://archive.org/details/divya-prabandha-pratipadArtha)), and started distributing them via CD-s and on the internet. Finally, shrI lakṣmī-tātācār of melukoTe showed interest and even suggested getting it typed and publishing it. The material was rapidly typed, but the publishing process was very slow. shrI lakṣmī-tātācār departed for vaikuNTha before the first volume was published, and his son shrI MA Alwar took up the publishing task.
+
+shrI harIsh, son of kaDaba rangarAjan, somehow came upon the scanned manuscripts and started reading them aloud and saving them in audio files.
 
