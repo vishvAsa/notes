@@ -1,0 +1,8 @@
++++
+title = "0 INTRODUCTION"
+
++++
+
+We are in 1986, almost forty years after Independence and the traumatizing events of Partition: Hindu–Muslim relations in India are fraught with many difficulties. The communal divide, as it is called, is still salient, and religious riots have become a distinctive feature of Indian social life. Starting in 1961, the country has witnessed a number of severe riots: dramatic events occurred in Calcutta, Rourkela, and Jamshedpur following the theft of a relic hair of the Prophet in Kashmir (1964). The country then witnessed a large pogrom against Muslims in Ahmedabad (1969); ghastly riots in Bhiwandi (1970) and Jamshedpur (1979); repeated incidents in Hyderabad; unbridled violence in Moradabad (1980) and Biharsharif (1981); huge massacres in Nellie (1983); and terrible riots in Bombay–Bhiwandi (1984) (for a detailed account of this period, as well as a general introduction to India and its various communities, see «Hindu–Muslim Communal Riots in India I (1947–1986)» by Violette Graff and Juliette Galonnier \[2012\].) Throughout that period, the Muslim minority had growing reasons to be highly disillusioned with the Indian secular ideal, while a growing proportion of the Hindu population tended to subscribe to an ethnicized, Hindu–centric vision of the Indian nation.
+
+In the mid-eighties, as the country was heading toward the ninth general elections, alarming signs were displayed, which didn't bode well for the future. While Muslims were up in arms defending their personal law (for example, in the «Shah Bano case»), the controversy over the Babri Masjid in Ayodhya was gaining strength and was becoming a national matter of concern-a bone of contention between the two communities in each and every Indian city.

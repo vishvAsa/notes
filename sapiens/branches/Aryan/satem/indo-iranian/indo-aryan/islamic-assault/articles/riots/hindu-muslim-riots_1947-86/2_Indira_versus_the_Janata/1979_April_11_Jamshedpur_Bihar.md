@@ -1,0 +1,13 @@
++++
+title = "1979; April 11: Jamshedpur (Bihar)"
+
++++
+81% Hindus, 9% Muslims
+
+Chief Minister of Bihar: Karpoori Thakur, Janata Party, June 1977 - 21 April 1979
+
+A riot rampaged in Jamshedpur (Bihar) and it is worth recalling the chain of events that led to the violence. After the troubles of 1964, Muslims had been relocated to specific areas, such as the Sabirnagar neighborhood. During the same period, Hindu nationalist organizations were actively leading campaigns to "Hinduize" the adivasis by introducing Hindu deities and rituals within their neighborhoods. In 1978, the RSS tried to hold a Ram Navami Hindu procession starting from the adivasi colony of Dimna Basti. It was then slated to pass through the Muslim section of Sabirnagar, but the district’s administration refused to grant authorization at that time. In 1979, the RSS tried, once again, to organize the procession. The atmosphere in the city had been tense ever since the speech of the RSS chief, Balasaheb Deoras ; on April 1. The local RSS - affiliated Member of Legislative Assembly (MLA) and leader of the BMS (Bharatiya Mazdoor Sangh, Indian Workers’ Union, a Hindu trade - union), Dinanath Pandey, organized a propaganda campaign in favor of allowing the procession to pass through Sabirnagar. On April 7, a pamphlet circulated asking people to gather on April 11 in order to hold the procession forcibly. Muslim leaders were persuaded by the district administration to accept the procession’s itinerary. On the morning of April 11, a 15,000 - strong mob gathered. The procession stopped near a mosque in the Mango Area of the Muslim sector. Muslims were prepared for the violence. Stones were thrown and a riot erupted. The Jitendra Narain Commission held the RSS responsible for having created a climate conducive to communal violence. The leaflet distributed on April 7 was denounced as a challenge to the authorities, a threat to the Muslim minority, and an incitement to violence. Adivasis took an active part in attacking the economically well-off Muslims of Jamshedpur. One hundred and eight persons lost their lives in this riot according to the Jitendra Narain Commission of Inquiry, among whom 79 Muslims and 25 Hindus were identified. Other estimates put the death toll at 120, more than half of whom were Muslims. The Commission established that RSS elements and the local MLA, Dinanath Pandey, played a key role in engineering the riots.
+
+**(Akbar 1979); **(India Today 15/05/1979); **(Secular Democracy 05/1979); **(Secular Democracy 10/1981); ***(Ghosh 1987: 134–136);
+
+***(Narain 2006); ***(National Integration Council 2007); ***(Ul - Huda 2009)

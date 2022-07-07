@@ -64,7 +64,7 @@ title: Un-schools
   - [अत्र](https://purnapramati.in/programs/)। 
   - Students seated on floor study shAstra-s.
 - वेदविज्ञानगुरुकुलम्
-- "शुभं करोति" [web](https://shubhamkarotigurukula.c om/)
+- "शुभं करोति" [web](https://shubhamkarotigurukula.com/)
 - Om Shanti Dhaama, Kanakapura, Bengaluru, 90 kms from Bangalore on the banks of Cauvery.
 
 ## जाल-शिक्षणम्
