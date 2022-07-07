@@ -64,13 +64,16 @@ title: Un-schools
   - [अत्र](https://purnapramati.in/programs/)। 
   - Students seated on floor study shAstra-s.
 - वेदविज्ञानगुरुकुलम्
-- "शुभं करोति" [web](https://shubhamkarotigurukula.com/)
+- "शुभं करोति" [web](https://shubhamkarotigurukula.c om/)
 - Om Shanti Dhaama, Kanakapura, Bengaluru, 90 kms from Bangalore on the banks of Cauvery.
 
 ## जाल-शिक्षणम्
-- अगस्त्य-गुरुकुलम् - [अत्र](https://www.agastyagurukulam.org/) ।
 - Arise gurukulam - [Here](https://academy.arisegurukulam.com/).
   - Offline campus - RR Nagar
+
+### अगस्त्य-गुरुकुलम् 
+- [जालक्षेत्रम्](https://www.agastyagurukulam.org/) ।
+- Levels - Ak 1,2, padam1, Vaakyam1,2, kaaNDam1,2
 
 ## कर्णाटके
 - बालिकाभ्यः

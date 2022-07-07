@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 
 ## कडब-नरसिंहाचार्यः सपुत्रः
 - पत्नी श्रीरङ्गम्मा। **श्रीवत्सगोत्रः**।
-- पुत्रः कृष्णः। तत्-पत्नी श्रीरङ्गम्मा - मृत्यौ सुमङ्गली।
+- पुत्रः **कृष्णः**। तत्-पत्नी श्रीरङ्गम्मा - मृत्यौ सुमङ्गली।
 
 > He was quite affectionate as for as grand children were concerned. But very strict and adament with his sons and daughters and always insisted to go as per his wishes. Gojju was grandpa's favourite item. He used to get upset if he was not served sufficiently. He would be upset if anybody wanted to know where he was going or what he intended to do. Etc.etc.
 > 
