@@ -215,59 +215,79 @@ Do not rely on following the degree of understanding that you have discovered, b
 - A kusemono is a man to rely upon. It is said that one should rise at four in the morning, bathe and arrange his hair daily, eat when the sun comes up, and retire when it becomes dark.
 - A samurai will use a toothpick even though he has not eaten. Inside the skin of a dog, outside the hide of a tiger.+++(??)+++
 
-How should a person respond when he is asked, “As a human being, what is essential in terms of purpose and discipline?” First, let us say, “It is to become of the mind that is right now pure and lacking complications.” People in general all seem to be dejected. When one has a pure and uncomplicated mind, his expression will be lively. When one is attending to matters, there is one thing that comes forth from his heart. That is, in terms of one’s lord, loyalty; in terms of one’s parents, filial piety; in martial affairs, bravery ; and apart from that, something that can be used by all the world.
+## Uncomplicated mind
+How should a person respond when he is asked, “As a human being, what is essential in terms of purpose and discipline?” First, let us say, “It is to become of the mind that is right now pure and lacking complications.”+++(5)+++ People in general all seem to be dejected. When one has a pure and uncomplicated mind, his expression will be lively.+++(5)+++ When one is attending to matters, there is one thing that comes forth from his heart. That is, in terms of one’s lord, loyalty; in terms of one’s parents, filial piety; in martial affairs, bravery ; and apart from that, something that can be used by all the world.+++(5)+++
 
 This is very difficult to discover. Once discovered, it is again difficult to keep in constant effect. There is nothing outside the thought of the immediate moment.
 
+## Appearance
 Every morning, the samurai of fifty or sixty years ago would bathe, shave their foreheads, put lotion in their hair, cut their fingernails and toenails rubbing them with pumice and then with wood sorrel, and without fail pay attention to their personal appearance . It goes without saying that their armor in general was kept free from rust, that it was dusted, shined, and arranged.
 
-Although it seems that taking special care of one’s appearance is similar to showiness, it is nothing akin to elegance. Even if you are aware that you may be struck down today and are firmly resolved to an inevitable death, if you are slain with an unseemly appearance, you will show your lack of previous resolve, will be despised by your enemy, and will appear unclean.
+Although it seems that taking special care of one’s appearance is similar to showiness, it is nothing akin to elegance. Even if you are aware that you may be struck down today and are firmly resolved to an inevitable death, if you are slain with an unseemly appearance, you will show your lack of previous resolve, will be despised by your enemy, and will appear unclean.+++(5)+++
 
 For this reason it is said that both old and young should take care of their appearance.
 
-Although you say that this is troublesome and time-consuming, a samurai’s work is in such things. It is neither busy- work nor time-consuming. In constantly hardening one’s resolution to die in battle, deliberately becoming as one already dead, and working at one’s job and dealing with military affairs, there should be no shame. But when the time comes, a person will be shamed if he is not conscious of these things even in his dreams, and rather passes his days in self- interest and selfindulgence. And if he thinks that this is not shameful, and feels that nothing else matters as long as he is comfortable, then his dissipate and discourteous actions will be repeatedly regrettable.
+Although you say that this is troublesome and time-consuming, a samurai’s work is in such things. It is neither busy- work nor time-consuming. In constantly hardening one’s resolution to die in battle, deliberately becoming as one already dead, and working at one’s job and dealing with military affairs, there should be no shame. But when the time comes, a person will be shamed if he is not conscious of these things even in his dreams, and rather passes his days in self- interest and self-indulgence. And if he thinks that this is not shameful, and feels that nothing else matters as long as he is comfortable, then his dissipate and discourteous actions will be repeatedly regrettable.
 
-The person without previous resolution to inevitable death makes certain that his death will be in bad form. But if one is resolved to death beforehand, in what way can he be despicable? One should be especially diligent in this concern.
+The person without previous resolution to inevitable death makes certain that his death will be in bad form.+++(4)+++ But if one is resolved to death beforehand, in what way can he be despicable? One should be especially diligent in this concern.
 
-Furthermore, during the last thirty years customs have changed; now when young samurai jeer together, if there is not just talk about money matters, loss and gain, secrets, clothing styles or matters of sex, there is no reason to gather together at all. Customs are going to pieces. One can say that formerly when a man reached the age of twenty or thirty, he did not carry despicable things in his heart, and thus neither did such words appear. If an elder unwittingly said something of that sort, he thought of it as a sort of injury. This new custom probably appears because people attach importance to being beautiful before society and to household finances. What things a person should be able to accomplish if he had no haughtiness concerning his place in society! It is a wretched thing that the young men of today are so contriving and so proud of their material possessions. Men with contriving hearts are lacking in duty. Lacking in duty, they will have no selfrespect.
+## Degeneracy
+Furthermore, during the last thirty years customs have changed; now when young samurai jeer together, if there is not just talk about money matters, loss and gain, secrets, clothing styles or matters of sex, there is no reason to gather together at all. Customs are going to pieces. 
 
+One can say that formerly when a man reached the age of twenty or thirty, he did not carry despicable things in his heart, and thus neither did such words appear. If an elder unwittingly said something of that sort, he thought of it as a sort of injury. 
+
+This new custom probably appears because people attach importance to being beautiful before society and to household finances. What things a person should be able to accomplish if he had no haughtiness concerning his place in society!+++(4)+++ It is a wretched thing that the young men of today are so contriving and so proud of their material possessions. Men with contriving hearts are lacking in duty. Lacking in duty, they will have no selfrespect.
+
+## Lack of rolemodels
 According to Master lttei, even a poor penman will become substantial in the art of calligraphy if he studies by imitating a good model and puts forth effort. A retainer should be able to become substantial too, if he takes a good retainer as his model.
 
-Today, however, there are no models of good retainers. In light of this, it would be good to make a model and to learn from that. To do this, one should look at many people and choose from each person his best point only. For example, one person for politeness, one for bravery, one for the proper way of speaking, one for correct conduct and one for steadiness of mind. Thus will the model be made.
+Today, however, there are no models of good retainers. In light of this, it would be good to make a model and to learn from that. To do this, one should look at many people and choose from each person his best point only. For example, one person for politeness, one for bravery, one for the proper way of speaking, one for correct conduct and one for steadiness of mind.+++(4)+++ Thus will the model be made.
 
-An apprentice will not be up to his teacher’s good points in the world of the arts either but will receive and imitate only his bad ones. This is worthless. There are people who are good at manners but have no uprightness. In imitating someone like this, one is likely to ignore the politeness and imitate only the lack of uprightness. If one perceives a person’s good points, he will have a model teacher for anything.
+An apprentice will not be up to his teacher’s good points in the world of the arts either but will receive and imitate only his bad ones.+++(4)+++ This is worthless. There are people who are good at manners but have no uprightness. In imitating someone like this, one is likely to ignore the politeness and imitate only the lack of uprightness. If one perceives a person’s good points, he will have a model teacher for anything.
 
+## Delivery
 When delivering something like an important letter or other written materials, grasp it firmly in your hand as you go and do not release it once, but hand it over directly to the recipient.
 
+## Care
 A retainer is a man who remains consistently undistracted twenty-four hours a day, whether he is in the presence of his master or in public. If one is careless during his rest period, the public will see him as being only careless.
 
+## Standing and cowardice
 Regardless of class, a person who does something beyond his social standing will at some point commit mean or cowardly acts. In the lower classes there are even people who will run away. One should be careful with menials and the like.
 
+## Breadth and depth of knowledge
 There are many people who, by being attached to a martial art and taking apprentices, believe that they have arrived at the full stature of a warrior. But it is a regrettable thing to put forth much effort and in the end become an “artist.” In artistic technique it is good to learn to the extent that you will not be lacking. In general, a person who is versatile in many things is considered to be vulgar and to have only a broad knowledge of matters of importance.
 
+## Proper response
 When something is said to you by the master, whether it is for your good or bad fortune, to withdraw in silence shows perplexity. You should have some appropriate response. It is important to have resolution beforehand.
 
-Moreover, if at the time that you are asked to perform some function you have deep happiness or great pride, it will show exactly as that on your face. This has been seen in many people and is rather unbecoming. But another type of person knows his own defects and thinks, “I’m a clumsy person but I’ve been asked to do this thing anyway. Now how am I going to go about it? I can see that this is going to be much trouble and cause for concern.” Though these words are never said, they will appear on the surface. This shows modesty.
+Moreover, if at the time that you are asked to perform some function you have deep happiness or great pride, it will show exactly as that on your face. This has been seen in many people and is rather unbecoming. 
+
+But another type of person knows his own defects and thinks, “I’m a clumsy person but I’ve been asked to do this thing anyway. Now how am I going to go about it? I can see that this is going to be much trouble and cause for concern.” Though these words are never said, they will appear on the surface. This shows modesty.
 
 By inconsistency and frivolity we stray from the Way and show ourselves to be beginners. In this we do much harm.
 
+## Learning and opinions
 Learning is a good thing, but more often it leads to mistakes.
 
 It is like the admonition of the priest Konan. It is worthwhile just looking at the deeds of accomplished persons for the purpose of knowing our own insufficiencies. But often this does not happen. For the most part, we admire our own opinions and become fond of arguing.
 
-Last year at a great conference there was a certain man who explained his dissenting opinion and said that he was resolved to kill the conference leader if it was not accepted. His motion was passed. After the procedures were over the man said, “Their assent came quickly. I think that they are too weak and unreliable to be counselors to the master.” When an official place is extremely busy and someone comes in thoughtlessly with some business or other, often there are people who will treat him coldly and become angry. This is not good at all. At such times, the etiquette of a samurai is to calm himself and deal with the person in a good manner. To treat a person harshly is the way of middle class lackeys.
+Last year at a great conference there was a certain man who explained his dissenting opinion and said that he was resolved to kill the conference leader if it was not accepted. His motion was passed. After the procedures were over the man said, “Their assent came quickly. I think that they are too weak and unreliable to be counselors to the master.” 
 
+## Busy office
+When an official place is extremely busy and someone comes in thoughtlessly with some business or other, often there are people who will treat him coldly and become angry. This is not good at all. At such times, the etiquette of a samurai is to calm himself and deal with the person in a good manner. To treat a person harshly is the way of middle class lackeys.
+
+## Self-Reliance
 According to the situation, there are times when you must rely on a person for something or other. If this is done repeatedly, it becomes a matter of importuning that person and can be rather rude. If there is something that must be done, it is better not to rely on others.
 
-There is something to be learned from a rainstorm. When meeting with a sudden shower, you try not to pet wet and run quickly along the road. But doing such things as passing under the eaves of houses, you still get wet. When you are resolved from the beginning, you will not be perplexed, though you still get the same soaking. This understanding extends to everything.
+## Resolution
+There is something to be learned from a rainstorm. When meeting with a sudden shower, you try not to get wet and run quickly along the road. But doing such things as passing under the eaves of houses, you still get wet. When you are resolved from the beginning, you will not be perplexed, though you still get the same soaking. This understanding extends to everything.
 
-In China there was once a man who liked pictures of dragons, and his clothing and furnishings were all designed accordingly.
 
-His deep affection for dragons was brought to the attention of the dragon god, and one day a real dragon appeared before his window. It is said that he died of fright. He was probably a man who always spoke big words but acted differently when facing the real thing.
+In China there was once a man who liked pictures of dragons, and his clothing and furnishings were all designed accordingly. His deep affection for dragons was brought to the attention of the dragon god, and one day a real dragon appeared before his window. It is said that he died of fright. He was probably a man who always spoke big words but acted differently when facing the real thing.
 
-There was a certain person who was a master of the spear.
+There was a certain person who was a master of the spear. When he was dying, he called his best disciple and spoke his last injunctions: 
 
-When he was dying, he called his best disciple and spoke his last injunctions: I have passed on to you all the secret techniques of this school, and there is nothing left to say. If you think of taking on a disciple yourself, then you should practice diligently with the bamboo sword every day. Superiority is not just a matter of secret techniques.
+> I have passed on to you all the secret techniques of this school, and there is nothing left to say. If you think of taking on a disciple yourself, then you should practice diligently with the bamboo sword every day. Superiority is not just a matter of secret techniques.
 
 Also, in the instructions of a renga teacher, it was said that the day before the poetry meeting one should calm his mind and look at a collection of poems . This is concentration on one affair. All professions should be done with concentration .
 
