@@ -1,5 +1,5 @@
 +++
-title = "07 Ch 8 On the night of the thirteenth day"
+title = "07 On the night of the thirteenth day"
 
 +++
 

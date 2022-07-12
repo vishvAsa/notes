@@ -1,5 +1,5 @@
 +++
-title = "06 Ch 7 Narutomi Hyogo said"
+title = "06 Narutomi Hyogo said"
 
 +++
 

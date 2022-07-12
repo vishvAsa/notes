@@ -1,5 +1,5 @@
 +++
-title = "01 Ch 1 Although it stands"
+title = "01 Although it stands"
 
 +++
 

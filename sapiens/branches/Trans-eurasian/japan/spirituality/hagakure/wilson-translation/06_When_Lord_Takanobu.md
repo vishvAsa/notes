@@ -1,5 +1,5 @@
 +++
-title = "05 Ch 6 When Lord Takanobu"
+title = "05 When Lord Takanobu"
 
 +++
 

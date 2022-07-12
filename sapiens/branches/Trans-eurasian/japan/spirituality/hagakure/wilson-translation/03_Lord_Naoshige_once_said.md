@@ -1,5 +1,5 @@
 +++
-title = "03 Ch 3 Lord Naoshige once said"
+title = "03 Lord Naoshige once said"
 
 +++
 

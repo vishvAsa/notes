@@ -1,5 +1,5 @@
 +++
-title = "10 Ch 11 In the “Notes on Martial Laws”"
+title = "10 In the “Notes on Martial Laws”"
 
 +++
 

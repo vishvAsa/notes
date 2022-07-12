@@ -1,5 +1,5 @@
 +++
-title = "11 Ch 12 Late night idle talk"
+title = "11 Late night idle talk"
 
 +++
 

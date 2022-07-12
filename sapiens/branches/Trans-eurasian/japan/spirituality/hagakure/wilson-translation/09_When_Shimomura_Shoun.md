@@ -1,5 +1,5 @@
 +++
-title = "08 Ch 9 When Shimomura Shoun"
+title = "08 When Shimomura Shoun"
 
 +++
 

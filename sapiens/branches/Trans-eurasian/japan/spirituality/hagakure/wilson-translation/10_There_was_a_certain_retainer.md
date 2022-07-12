@@ -1,5 +1,5 @@
 +++
-title = "09 Ch 10 There was a certain retainer"
+title = "09 There was a certain retainer"
 
 +++
 

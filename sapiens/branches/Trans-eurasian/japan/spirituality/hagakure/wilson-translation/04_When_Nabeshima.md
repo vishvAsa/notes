@@ -1,5 +1,5 @@
 +++
-title = "04 Ch 4 When Nabeshima Tadanao"
+title = "04 When Nabeshima Tadanao"
 
 +++
 
