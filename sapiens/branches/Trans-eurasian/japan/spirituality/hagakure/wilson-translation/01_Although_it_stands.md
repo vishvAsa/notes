@@ -282,7 +282,7 @@ According to the situation, there are times when you must rely on a person for s
 ## Resolution
 There is something to be learned from a rainstorm. When meeting with a sudden shower, you try not to get wet and run quickly along the road. But doing such things as passing under the eaves of houses, you still get wet. When you are resolved from the beginning, you will not be perplexed, though you still get the same soaking. This understanding extends to everything.
 
-
+## Non-fakery
 In China there was once a man who liked pictures of dragons, and his clothing and furnishings were all designed accordingly. His deep affection for dragons was brought to the attention of the dragon god, and one day a real dragon appeared before his window. It is said that he died of fright. He was probably a man who always spoke big words but acted differently when facing the real thing.
 
 There was a certain person who was a master of the spear. When he was dying, he called his best disciple and spoke his last injunctions: 
@@ -291,22 +291,22 @@ There was a certain person who was a master of the spear. When he was dying, he 
 
 Also, in the instructions of a renga teacher, it was said that the day before the poetry meeting one should calm his mind and look at a collection of poems . This is concentration on one affair. All professions should be done with concentration .
 
-Although the Mean is the standard for all things, in military affairs a man must always strive to outstrip others. According to archery instructions the right and left hands are supposed to be level, but the right hand has a tendency to go higher.
+## Military excellence
+Although the Mean is the standard for all things, in military affairs a man must always strive to outstrip others. According to archery instructions the right and left hands are supposed to be level, but the right hand has a tendency to go higher. They will become level if one will lower the right hand a bit when shooting. In the stories of the elder warriors it is said that on the battlefield if one wills himself to outstrip warriors of accomplishment, and day and night hopes to strike down a powerful enemy, he will grow indefatigable and fierce of heart and will manifest courage. One should use this principle in everyday affairs too.
 
-They will become level if one will lower the right hand a bit when shooting. In the stories of the elder warriors it is said that on the battlefield if one wills himself to outstrip warriors of accomplishment, and day and night hopes to strike down a powerful enemy, he will grow indefatigable and fierce of heart and will manifest courage. One should use this principle in everyday affairs too.
+## Bravery from childhood
+There is a way of bringing up the child of a samurai. From the time of infancy one should encourage bravery and avoid trivially frightening or teasing the child. If a person is affected by cowardice as a child, it remains a lifetime scar. 
 
-There is a way of bringing up the child of a samurai. From the time of infancy one should encourage bravery and avoid trivially frightening or teasing the child. If a person is affected by cowardice as a child, it remains a lifetime scar. It is a mistake for parents to thoughtlessly make their children dread lightning, or to have them not go into dark places, or to tell them frightening things in order to stop them from crying.
+- It is a mistake for parents to thoughtlessly make their children dread lightning, or to have them not go into dark places, or to tell them frightening things in order to stop them from crying. 
+- Furthermore, a child will become timid if he is scolded severely.
+- One should not allow bad habits to form. After a bad habit is ingrained, although you admonish the child, he will not improve. 
+- As for such things as proper speaking and good manners, gradually make the child aware of them. 
+- Let him not know avarice.
+- Other than that, if he is of a normal nature, he should develop well by the way he is brought up.
+- Moreover, the child of parents who have a bad relationship will be unfilial. This is natural. Even the birds and beasts are affected by what they are used to seeing and hearing from the time they are born. 
+- Also, the relationship between father and child may deteriorate because of a mother’s foolishness. A mother loves her child above all things, and will be partial to the child that is corrected by his father. If she becomes the child’s ally, there will be discord between father and son. Because of the shallowness of her mind, a woman sees the child as her support in old age.
 
-Furthermore, a child will become timid if he is scolded severely.
-
-One should not allow bad habits to form. After a bad habit is ingrained, although you admonish the child he will not improve.
-
-As for such things as proper speaking and good manners, gradually make the child aware of them. Let him not know avarice.
-
-Other than that, if he is of a normal nature, he should develop well by the way he is brought up.
-
-Moreover, the child of parents who have a bad relationship will be unfilial. This is natural. Even the birds and beasts are affected by what they are used to seeing and hearing from the time they are born. Also, the relationship between father and child may deteriorate because of a mother’s foolishness. A mother loves her child above all things, and will be partial to the child that is corrected by his father. If she becomes the child’s ally, there will be discord between father and son. Because of the shallowness of her mind, a woman sees the child as her support in old age.
-
+## Focus during meetings
 You will be tripped up by people when your resolution is lax. Moreover, if at a meeting you are distracted while another person is speaking, by your carelessness you may think that he is of your opinion and you will follow along saying, “Of course, of course,” even though he is saying something that is contrary to your own feelings, and others will think that you are in agreement with him. Because of this, you should never be distracted even for an instant when meeting with others.
 
 When you are listening to a story or being spoken to, you should be mindful not to be tripped up ; and if there is something that you do not agree with, to speak your mind, to show your opponent his error, and to grapple with the situation. Even in unimportant affairs mistakes come from little things. One should be mindful of this. Moreover, it is better not to become acquainted with men about whom you have formerly had some doubts. No matter what you do, they will be people by whom you will be tripped up or taken in, To be certain of this fact you must have much experience.
