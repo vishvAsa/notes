@@ -1,5 +1,5 @@
 +++
-title = "06 Narutomi Hyogo said"
+title = "07 Narutomi Hyogo said"
 
 +++
 
