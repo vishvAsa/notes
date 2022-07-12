@@ -36,9 +36,6 @@ in the seventh year of Hōei \(1710\).[^17]*
 
 [^19]: These poems represent Jōchō wistfully sharing his thoughts with an open heart and purity represented by the beauty of the cherry tree \(*yama-zakura*\) far removed from the hustle and bustle of the mundane world, and Tsuramoto’s reply expresses his gratefulness for his counsel.
 
-
-
-
 [^20]: Tashiro Tsuramoto’s pseudonym.
 
 

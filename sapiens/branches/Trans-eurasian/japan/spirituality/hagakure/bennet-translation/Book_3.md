@@ -11,7 +11,7 @@ title = "Book 3"
 
 
 
-**PERTAINING TO FEALTY**
+## PERTAINING TO FEALTY
 
 **3-1.** Lord Naoshige once remarked: “Nothing is felt so profoundly as *giri*.[^324] There are tragic occurrences, such as when my cousin died, that do not even elicit my tears. Then, for some reason I listen to tales of men who lived 50 years or even 100 years ago, with whom I have no affinity or relation to, and I cry from a sense of *giri*.”
 
@@ -302,7 +302,7 @@ Even elevation through the ranks fueled by self-aggrandizement involves consider
 
 
 
-**PERTAINING TO DEATH AND WAR**
+## PERTAINING TO DEATH AND WAR
 
 **4-46.** When Lord Katsushige was a young man, his father Lord Naoshige told him: “Executing criminals who have been condemned to die is good cutting practice for you.” Following this ultimatum, ten convicts were aligned inside the western gate, and Katsushige proceeded to cut their heads off one by one, until he reached the tenth. When he saw he was a young man of robust health, he said, “I am weary of cutting for the moment. I will let this wretch live.” His life was spared.
 
@@ -652,7 +652,7 @@ ___________
 
 
 
-**PERTAINING TO WOMEN**
+## PERTAINING TO WOMEN
 
 **3-29.** After breaking up, Lord Naoshige’s former wife[^382] visited often with her attendants for the purpose of *uwanari-uchi*383 or playing pranks on his new wife. Lady Yōdaiin[^384] handled her with such courtesy, His Lordship’s former wife always went away reluctantly mollified.
 
@@ -861,7 +861,7 @@ When managing servants, reward or punish them appropriately. If one is negligent
 
 
 
-**MISCELLANY**
+## MISCELLANY
 
 **3-22.** Once, when Lord Naoshige went through a little hamlet called Chiriku, he was informed: “A man who is over 90 years old lives here. As he must be such a lucky chap to enjoy such longevity, can we not pay him a visit?” Lord Naoshige retorted, “No one can be more wretched. How many of his grandchildren do you suppose he has seen die? What could possibly be lucky about that?” He didn’t pay him a visit.
 
@@ -1395,7 +1395,7 @@ ___________
 
 
 
-**MAIN EVENTS IN THE HISTORY OF THE SAGA DOMAIN AND YAMAMOTO JO–CHO–’S LIFE**
+## MAIN EVENTS IN THE HISTORY OF THE SAGA DOMAIN AND YAMAMOTO JO–CHO–’S LIFE
 
 
 **YEAR** **EVENT**   1530 Ryūzōji Iekane and Nabeshima Kiyohisa combine forces for the first time at the Battle of Tatenawate against the Ōuchi and Kanzaki armies.   1545 Ryūzōji Iekane is killed in Kawakami and Ryūzōji Chikaie is slain by Baba Yorichika.   1570 The Ōtomo army of Bungo province \(modern day Oita Prefecture\) attack the Ryūzōji stronghold of Saga Castle. Nabeshima Naomasa \(later named Naoshige\) makes a night raid on enemy forces in Imayama which serves to revitalise the Ryūzōji clan.   1584 Ryūzōji Takanobu is killed at Shimabara fighting against Shimazu and Arima forces.   **LORD RYŪZŌJI MASAIE \(1556–1607\)**   1588 Toyotomi Hideyoshi endorses Ryūzōji Masaie’s sovereignty over the Hizen province.   1590 Hideyoshi orders Masaie to relinquish control of the Saga fiefdom to his relative, Nabeshima Naoshige.   **LORD NABESHIMA NAOSHIGE \(1538–1618\)**    1592 Naoshige leads his troops into battle in Hideyoshi’s campaign in the Korean peninsula. His exploits of valor are lauded.   1597 Naoshige returns to Korea in the second expedition with his son Katsushige.   1598 Hideyoshi dies. Naoshige returns to Saga from Korea.   1600 Naoshige initially sides with the Toyotomi forces, but switches to become a Tokugawa ally. After defeating Tachibana Muneshige and contributing to the Tokugawa victory at the Battle of Sekigahara, Tokugawa Ieyasu officially sanctions his control over the Saga domain.   **LORD NABESHIMA KATSUSHIGE \(1580–1657\)**   1607 The Ryūzōji line ceases after Takafusa’s death, and Nabeshima Katsushige is permitted by the bakufu to appropriate all of their former lands.   1610 The Kashima sub-branch of the Nabeshima domain is created for Katsushige’s younger brother, Tadashige.   1611 The Nabeshima domain is ordered to provide manpower for the construction of the shogun’s castle in Edo.   1614 Katsushige and his troops are mobilized to take part in the Winter Siege of Osaka castle to quell any last resistance from Toyotomi supporters.   1615 The Nabeshima domain is directed to provide manpower for the rebuilding of Osaka castle.   1617 The Ogi sub-branch of the Nabeshima domain is created for Katsushige’s oldest son, Motoshige.   1618 Nabeshima Naoshige dies at 81. Thirteen of his retainers follow him in death \(*oibara*\). Katsushige’s eldest son, Motoshige, becomes a licensed instructor of the prestigious Yagyū Shinkage-ryū school of swordsmanship.   1619 Resources from the Nabeshima domain are mobilized in the construction of Edo Castle which was to be the seat of government and residence of the shogun.   1620 Nakano Kiyoaki \(Jōchō’s grandfather\) is killed at Imari Momonokawa.   1628 Men from the Nabeshima domain are mobilized in the restoration of Osaka castle.   1629 Nabeshima Naoshige’s wife, Yōdaiin, dies. Eight of her retainers follow her in death. Nabeshima Katsushige’s second son, Tadanao, also dies. Five of his retainers follow him in death. The Hasuike sub-domain is established for Katsushige’s fifth son, Naosumi.   1637 Katsushige’s army participates in the Shimabara Uprising to subdue the Christians.   1642 The shogunate assigns Katsushige as supervisor of Nagasaki.   1647 Yamamoto Shigezumi \(Jōchō’s father\) becomes the first governor of Arita.   1648 Katsushige’s grandson undergoes the coming of age ceremony.   1652 The book of Saga domain laws known as “Torinoko-chō” is written.   1657 Mitsushige takes over the headship of the Nabeshima domain following the retirement of Katsushige.   **LORD NABESHIMA MITSUSHIGE \(1632–1700\)**   1659 Yamamoto Jōchō \(Tsunetomo\) is born on the eleventh day of the sixth month. Birth name is Matsukame.   1661 Mitsushige bans *junshi*, or the self-immolation of retainers to follow their lord in death. This was to prevent retainers of Shiraishi Yūshu Nabeshima Naohiro committing suicide after his death.   1667 Mitsushige employs Tsunetomo into his entourage of apprentice pages. Name is changed to Fukei.   1669 Tsunetomo’s father dies.   1672 Promoted to personal pageboy of Mitsushige. Name is changed to Ichijūrō.   1673 Saga warriors are summoned to Nagasaki to bolster defences after the unwelcome arrival of English trading ships.   1678 Undergoes the coming of age ceremony \(*genpuku*\) and becomes a scribe for Mitsushige. Takes the name Gon’nojō. Tashiro Tsuramoto is born.   1679 The Monk Tannen Oshō confers Tsunetomo with a *kechi-myaku* \(certificate of “blood-lineage” in the school of Zen\) for his understanding of Buddhist law. Is bestowed the Buddhist name Kyokuzan Jōchō. Antagonism between the main Nabeshima domain and the three sub-domains intensifies.   1680 Tannen Oshō dies.   1682 Tsunetomo becomes a page and then an officer of document writing. Marries the daughter of Yamamura Sukedayū Naritsugu.   1686 Appointed as a clerk in the Nabeshima Edo residence and then in the Kyoto mansion.   1687 Tsunetomo is temporarily suspended from duty because of Yamamoto Tsuneharu’s \(his nephew\) suicide to atone for a fire that broke out in Saga in 1686.   1691 Assumes his late father’s name, Jin’uemon.   1693 Ittei dies.   1695 Nabeshima Tsunashige becomes the third head of the domain after his father Mitsushige retires.   **LORD NABESHIMA TSUNASHIGE \(1652–1707\)**   1696 Tsunetomo is dispatched to Kyoto to acquire the *Kokin-denju* teachings on poetry teachings for Mitsushige.Tashiro Tsuramoto becomes a scribe for Tsunashige.   1700 Nabeshima Mitsushige dies in the Kōyōken at 69 years of age. Jōchō \(Tsunetomo\) takes the Holy Orders and becomes a reclusive monk in a hermitage in Kurotsuchibaru.   1702 Jōchō takes Tominaga Tsunetoshi as his adopted son. Tsunetoshi is later named Gon’nojō.   1706 Nabeshima Tsunashige dies.   **LORD NABESHIMA YOSHISHIGE \(1664–1730\)**   1707 Nabeshima Yoshishige becomes the fourth lord of the domain.   1708 Jōchō writes the *Gukenshū* and presents it to his adopted son.   1709 Tsuramoto is removed from his post as his lord’s attendant. Jōchō’s mother dies.   1710 Tsuramoto makes his first visit to Jōchō’s hermitage, and dictations for *Hagakure* commence. Jōchō is 52 years of age and Tsuramoto is 33.   1713 Following the death of Mitsushige’s concubine, Ryōju-in, Jōchō moves from Kurotsuchibaru to another hermitage in Daishōkuma.   1714 Jōchō writes a treatise called “Osorenagara Kakioki no Oboe” regarding the correct attitude for a daimyo for the fifth Nabeshima ruler, Muneshige. He presents it to him in 1715.   1716 Eleven books of *Hagakure* are completed.   1719 Jōchō dies at age 61.   **NABESHIMA MUNESHIGE \(1687–1754\)**   1730 Nabeshima Yoshishige dies. Muneshige becomes the fifth lord.   1731 Tsuramoto becomes Lord Muneshige’s secretary.   1748 Tsuramoto dies at 71 years of age.
