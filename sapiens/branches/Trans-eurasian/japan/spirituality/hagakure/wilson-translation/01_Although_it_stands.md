@@ -179,49 +179,41 @@ At the time when there was a council concerning the promotion of a certain man, 
 At the time of a deliberation concerning criminals, Nakane Kazuma proposed making the punishment one degree lighter than what would be appropriate.+++(5)+++ This is a treasury of wisdom that only he was the possessor of. At that time, though there were several men in attendance, if it had not been for Kazuma alone, no one would have opened his mouth. For this reason he is called Master Commencement and Master Twenty-five Days.
 
 ## Revenge
-A certain person was brought to shame because he did not take revenge. The way of revenge lies in simply forcing one’s way into a place and being cut down. There is no shame in this.
+A certain person was brought to shame because he did not take revenge. The way of revenge lies in simply forcing one’s way into a place and being cut down.+++(4)+++ There is no shame in this.
 
-By thinking that you must complete the job you will run out of time. By considering things like how many men the enemy has, time piles up; in the end you will give up. No matter if the enemy has thousands of men, there is fulfillment in simply standing them off and being determined to cut them all down, starting from one end. You will finish the greater part of it.
+By thinking that you must complete the job you will run out of time. By considering things like how many men the enemy has, time piles up; in the end you will give up.+++(4)+++ No matter if the enemy has thousands of men, there is fulfillment in simply standing them off and being determined to cut them all down, starting from one end. You will finish the greater part of it.
 
 Concerning the night assault of Lord Asano’s ronin, the fact that they did not commit seppuku at the Sengakuji was an error, for there was a long delay between the time their lord was struck down and the time when they struck down the enemy. If Lord Kira had died of illness within that period, it would have been extremely regrettable. Because the men of the Kamigata area have a very clever sort of wisdom, they do well at praiseworthy acts but cannot do things indiscriminately, as was done in the Nagasaki fight.
 
-Although all things are not to be judged in this manner, I mention it in the investigation of the Way of the Samurai. When the time comes, there is no moment for reasoning. And if you have not done your inquiring beforehand , there is most often shame. Reading books and listening to people’s talk are for the purpose of prior resolution.
+Although all things are not to be judged in this manner, I mention it in the investigation of the Way of the Samurai. When the time comes, there is no moment for reasoning. And if you have not done your inquiring beforehand , there is most often shame.+++(4)+++ Reading books and listening to people’s talk are for the purpose of prior resolution.
 
-Above all, the Way of the Samurai should be in being aware that you do not know what is going to happen next, and in querying every item day and night. Victory and defeat are matters of the temporary force of circumstances. The way of avoiding shame is different. It is simply in death.
+Above all, the Way of the Samurai should be in being aware that you do not know what is going to happen next, and in querying every item day and night. Victory and defeat are matters of the temporary force of circumstances. The way of avoiding shame is different. It is simply in death.+++(4)+++ Even if it seems certain that you will lose, retaliate. Neither wisdom nor technique has a place in this. A real man does not think of victory or defeat. He plunges recklessly towards an irrational death. By doing this, you will awaken from your dreams.
 
-Even if it seems certain that you will lose, retaliate. Neither wisdom nor technique has a place in this. A real man does not think of victory or defeat. He plunges recklessly towards an irrational death. By doing this, you will awaken from your dreams.
-
+## Riches and honor
 There are two things that will blemish a retainer, and these are riches and honor. If one but remains in strained circumstances, he will not be marred.
 
-Once there was a certain man who was very clever, but it was his character to always see the negative points of his jobs.
+## Negatives of jobs
+Once there was a certain man who was very clever, but it was his character to always see the negative points of his jobs. In such a way, one will be useless.+++(4)+++ If one does not get it into his head from the very beginning that the world is full of unseemly situations, for the most part his demeanor will be poor and he will not be believed by others. And if one is not believed by others, no matter how good a person he may be, he will not have the essence of a good person.+++(4)+++ This can also be considered as a blemish.
 
-In such a way, one will be useless. If one does not get it into his head from the very beginning that the world is full of unseemly situations, for the most part his demeanor will be poor and he will not be believed by others. And if one is not believed by others, no matter how good a person he may be, he will not have the essence of a good person. This can also be considered as a blemish.
+## Signalling roughness
+There was a man who said, “Such and such a person has a violent disposition, but this is what I said right to his face..." This was an unbecoming thing to say, and it was said simply because he wanted to be known as a rough fellow. It was rather low, and it can be seen that he was still rather immature. It is because a samurai has correct manners that he is admired. Speaking of other people in this way is no different from an exchange between low class spearmen. It is vulgar.
 
-There was a man who said, “Such and such a person has a violent disposition, but this is what I said right to his face...
-
-This was an unbecoming thing to say, and it was said simply because he wanted to be known as a rough fellow. It was rather low, and it can be seen that he was still rather immature. It is because a samurai has correct manners that he is admired.
-
-Speaking of other people in this way is no different from an exchange between low class spearmen. It is vulgar.
-
-It is not good to settle into a set of opinions. It is a mistake to put forth effort and obtain some understanding and then stop at that. At first putting forth great effort to be sure that you have grasped the bastes, then practicing so that they may come to fruition is something that will never stop for your whole lifetime.
+## Fluid opinions
+It is not good to settle into a set of opinions. It is a mistake to put forth effort and obtain some understanding and then stop at that. At first putting forth great effort to be sure that you have grasped the basics, then practicing so that they may come to fruition is something that will never stop for your whole lifetime.
 
 Do not rely on following the degree of understanding that you have discovered, but simply think, “This is not enough.” One should search throughout his whole life how best to follow the Way. And he should study, setting his mind to work without putting things off. Within this is the Way.
 
-These are from the recorded sayings of Yamamoto Jin’-emon: • If you can understand one affair, you will understand eight.
+## Jinemon sayings
+-These are from the recorded sayings of Yamamoto Jin’-emon: 
 
-• An affected laugh shows lack of self-respect in a man and lewdness in a woman.
-
-• Whether speaking formally or informally, one should look his listener in the eye. A polite greeting is done at the beginning and finished. Speaking with downcast eyes is carelessness.
-
-• It is carelessness to go about with one’s hands inside the slits in the sides of his hakama.
-
-• After reading books and the like, it is best to burn them or throw them away. It is said that reading books is the work of the Imperial Court, but the work of the House of Nakano is found in military valor, grasping the staff of oak.
-
-• A samurai with no group and no horse is not a samurai at all.
-
-• A kusemono is a man to rely upon. It is said that one should rise at four in the morning, bathe and arrange his hair daily, eat when the sun comes up, and retire when it becomes dark.
-
-• A samurai will use a toothpick even though he has not eaten. Inside the skin of a dog, outside the hide of a tiger.
+- If you can understand one affair, you will understand eight.
+- An affected laugh shows lack of self-respect in a man and lewdness in a woman.
+- Whether speaking formally or informally, one should look his listener in the eye. A polite greeting is done at the beginning and finished. Speaking with downcast eyes is carelessness.
+- It is carelessness to go about with one’s hands inside the slits in the sides of his hakama.
+- After reading books and the like, it is best to burn them or throw them away. It is said that reading books is the work of the Imperial Court, but the work of the House of Nakano is found in military valor, grasping the staff of oak.
+- A samurai with no group and no horse is not a samurai at all.
+- A kusemono is a man to rely upon. It is said that one should rise at four in the morning, bathe and arrange his hair daily, eat when the sun comes up, and retire when it becomes dark.
+- A samurai will use a toothpick even though he has not eaten. Inside the skin of a dog, outside the hide of a tiger.+++(??)+++
 
 How should a person respond when he is asked, “As a human being, what is essential in terms of purpose and discipline?” First, let us say, “It is to become of the mind that is right now pure and lacking complications.” People in general all seem to be dejected. When one has a pure and uncomplicated mind, his expression will be lively. When one is attending to matters, there is one thing that comes forth from his heart. That is, in terms of one’s lord, loyalty; in terms of one’s parents, filial piety; in martial affairs, bravery ; and apart from that, something that can be used by all the world.
 
