@@ -3,91 +3,166 @@ title = "01 Ch 1 Although it stands"
 
 +++
 
+## Way of the samurai
 Although it stands to reason that a samurai should be mindful of the Way of the Samurai, it would seem that we are all negligent. Consequently, if someone were to ask, “What is the true meaning of the Way of the Samurai?” the person who would be able to answer promptly is rare. This is because it has not been established in one’s mind beforehand. From this, one’s unmindfulness of the Way can be known.
 
-Negligence is an extreme thing. **The Way of the Samurai is found in death**. When it comes to either/or, there is only the quick choice of death. It is not particularly difficult. Be determined and advance. To say that dying without reaching one’s aim is to die a dog’s death is the frivolous way of sophisticates. When pressed with the choice of life or death, it is not necessary to gain one’s aim.
+Negligence is an extreme thing. **The Way of the Samurai is found in death**. When it comes to either/or, there is only the quick choice of death. It is not particularly difficult. Be determined and advance. To say that "dying without reaching one’s aim is to die a dog’s death" is the frivolous way of sophisticates. When pressed with the choice of life or death, it is not necessary to gain one’s aim.+++(4)+++
 
-We all want to live. And in large part we make our logic according to what we like. But not having attained our aim and continuing to live is cowardice. This is a thin dangerous line. To die without gaming one’s aim is a dog’s death and fanaticism. But there is no shame in this. This is the substance of the Way of the Samurai. If by setting one’s heart right every morning and evening, one is able to live as though his body were already dead, he pains freedom in the Way. His whole life will be without blame, and he will succeed in his calling.
+We all want to live. And in large part we make our logic according to what we like. But not having attained our aim and continuing to live is cowardice. This is a thin dangerous line. To die without gaining one’s aim is a dog’s death and fanaticism. But there is no shame in this.+++(4)+++ This is the substance of the Way of the Samurai. 
 
+If by setting one’s heart right every morning and evening, one is able to live as though his body were already dead, he pains freedom in the Way. His whole life will be without blame, and he will succeed in his calling.
+
+## Good retainer
 A man is a good retainer to the extent that he earnestly places importance in his master. This is the highest sort of retainer. If one is born into a prominent family that goes back for generations, it is sufficient to deeply consider the matter of obligation to one’s ancestors, to lay down one’s body and mind, and to earnestly esteem one’s master. It is further good fortune if, more than this, one has wisdom and talent and can use them appropriately. But even a person who is good for nothing and exceedingly clumsy will be a reliable retainer if only he has the determination to think earnestly of his master. Having only wisdom and talent is the lowest tier of usefulness.
 
+## Thought
 According to their nature, there are both people who have quick intelligence, and those who must withdraw and take time to think things over. Looking into this thoroughly, if one thinks selflessly and adheres to the four vows of the Nabeshima samurai, surprising wisdom will occur regardless of the high or low points of one’s nature.
 
-People think that they can clear up profound matters if they consider them deeply, but they exercise perverse thoughts and come to no good because they do their reflecting with only selfinterest at the center.
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+4 vows- 
+
+- Never be outdone in the Way of the Samurai.
+- Be of Use to your Master.
+- Be Filial to your Parents.
+- Manifest great Compassion, and Act of the sake of Mankind.
+</details>
+
+
+
+
+People think that they can clear up profound matters if they consider them deeply, but they exercise perverse thoughts and come to no good because they do their reflecting with only self-interest at the center.+++(5)+++
 
 It is difficult for a fool’s habits to change to selflessness. In confronting a matter, however, if at first you leave it alone, fix the four vows in your heart, exclude self-interest, and make an effort, you will not go far from your mark.
 
+## Consultation
 Because we do most things relying only on our own sagacity we become self-interested, turn our backs on reason, and things do not turn out well. As seen by other people this is sordid, weak, narrow and inefficient. When one is not capable of true intelligence, it is good to consult with someone of good sense.
 
-An advisor will fulfill the Way when he makes a decision by selfless and frank intelligence because he is not personally involved.
+An advisor will fulfill the Way when he makes a decision by selfless and frank intelligence because he is not personally involved.+++(5)+++
 
-This way of doing things will certainly be seen by others as being strongly rooted. It is, for example, like a large tree with many roots. One man’s intelligence is like a tree that has been simply stuck in the ground.
+This way of doing things will certainly be seen by others as being strongly rooted. It is, for example, like a large tree with many roots. One man’s intelligence is like a tree that has been simply stuck in the ground. We learn about the sayings and deeds of the men of old in order to entrust ourselves to their wisdom and prevent selfishness.+++(4)+++ When we throw off our own bias, follow the sayings of the ancients, and confer with other people, matters should go well and without mishap. 
 
-We learn about the sayings and deeds of the men of old in order to entrust ourselves to their wisdom and prevent selfishness.
-
-When we throw off our own bias, follow the sayings of the ancients, and confer with other people, matters should go well and without mishap. Lord Katsushige borrowed from the wisdom of Lord Naoshige. This is mentioned in the Ohanashikikigaki. We should be grateful for his concern.
+### Examples
+Lord Katsushige borrowed from the wisdom of Lord Naoshige. This is mentioned in the Ohanashikikigaki. We should be grateful for his concern.
 
 Moreover, there was a certain man who engaged a number of his younger brothers as retainers, and whenever he visited Edo or the Kamigata area, he would have them accompany him. As he consulted with them everyday on both private and public matters, it is said that he was without mishap.
 
-Sagara Kyuma was completely at one with his master and served him as though his own body were already dead. He was one man in a thousand.
+## Merging with one's master
+### Sagara Kyuma
+Sagara Kyuma was completely at one with his master and served him as though his own body were already dead. He was one man in a thousand. Once there was an important meeting at Master Sakyo’s Mizugae Villa, and it was commanded that Kyuma was to commit seppuku. At that time in Osaki there was a teahouse on the third floor of the suburban residence of Master Taku Nut. Kyuma rented this, and gathering together all the good-fornothings in Saga he put on a puppet show, operating one of the puppets himself, carousing and drinking all day and night. Thus, overlooking Master Sakyo’s villa, he carried on and caused a great disturbance. In instigating this disaster he gallantly thought only of his master and was resolved to committing suicide.
 
-Once there was an important meeting at Master Sakyo’s Mizugae Villa, and it was commanded that Kyuma was to commit seppuku. At that time in Osaki there was a teahouse on the third floor of the suburban residence of Master Taku Nut.
+### Reliance on master's judgement
+Being a retainer is nothing other than hemp+++(??)+++ a supporter of one’s lord, entrusting matters of good and evil to him,+++(5)+++ and renouncing self-interest. If there are but two or three men of this type, the fief will be secure.
 
-Kyuma rented this, and gathering together all the good-fornothings in Saga he put on a puppet show, operating one of the puppets himself, carousing and drinking all day and night.
+### Loyalty
+If one looks at the world when affairs are going smoothly, there are many who go about putting in their appearance, being useful by their wisdom, discrimination and artfulness. However, if the lord should retire or go into seclusion, there are many who will quickly turn their backs on him and ingratiate themselves to the man of the day. Such a thing is unpleasant even to think about. 
 
-Thus, overlooking Master Sakyo’s villa, he carried on and caused a great disturbance. In instigating this disaster he gallantly thought only of his master and was resolved to committing suicide.
+### Dying for the lord
+Men of high position, low position, deep wisdom and artfulness all feel that they are the ones who are working righteously, but when it comes to the point of throwing away one’s life for his lord, all get weak in the knees. This is rather disgraceful. The fact that a useless person often becomes a matchless warrior at such times is because he has already given up his life and has become one with his lord.+++(4)+++ 
 
-Being a retainer is nothing other than hemp a supporter of one’s lord, entrusting matters of good and evil to him, and renouncing self-interest. If there are but two or three men of this type, the fief will be secure.
+#### Example
+At the time of Mitsushige’s death there was an example of this. His one resolved attendant was I alone. The others followed in my wake. Always the pretentious, self-asserting notables turn their backs on the man just as his eyes are closing in death.
 
-If one looks at the world when affairs are going smoothly, there arc many who go about putting in their appearance, being useful by their wisdom, discrimination and artfulness. However, if the lord should retire or go into seclusion, there are many who will quickly turn their backs on him and ingratiate themselves to the man of the day. Such a thing is unpleasant even to think about. Men of high position, low position, deep wisdom and artfulness all feel that they are the ones who are working righteously, but when it comes to the point of throwing away one’s life for his lord, all get weak in the knees. This is rather disgraceful. The fact that a useless person often becomes a matchless warrior at such times is because he has already given up his life and has become one with his lord. At the time of Mitsushige’s death there was an example of this. His one resolved attendant was I alone. The others followed in my wake. Always the pretentious, self-asserting notables turn their backs on the man just as his eyes are closing in death.
-
+### Loyalty
 Loyalty is said to be important in the pledge between lord and retainer. Though it may seem unobtainable, it is right before your eyes. If you once set yourself to it, you will become a superb retainer at that very moment.
 
-To give a person one’s opinion and correct his faults is an important thing. It is compassionate and comes first in matters of service. But the way of doing this is extremely difficult. To discover the good and bad points of a person is an easy thing, and to give an opinion concerning them is easy, too. For the most part, people think that they are being kind by saying the things that others find distasteful or difficult to say. But if it is not received well, they think that there is nothing more to be done. This is completely worthless. It is the same as brining shame to a person by slandering him. It is nothing more than getting it off one’s chest.
+## Advising
+To give a person one’s opinion and correct his faults is an important thing. It is compassionate and comes first in matters of service. But the way of doing this is extremely difficult.+++(4)+++ To discover the good and bad points of a person is an easy thing, and to give an opinion concerning them is easy, too.+++(4)+++ For the most part, people think that they are being kind by saying the things that others find distasteful or difficult to say. But if it is not received well, they think that there is nothing more to be done.+++(4)+++ This is completely worthless. It is the same as brining shame to a person by slandering him.+++(5)+++ It is nothing more than getting it off one’s chest.+++(5)+++
 
-To give a person an opinion one must first judge well whether that person is of the disposition to receive it or not. One must become close with him and make sure that he continually trusts one’s word. Approaching subjects that are dear to him, seek the best way to speak and to be well understood. Judge the occasion, and determine whether it is better by letter or at the time of leavetaking. Praise his good points and use every device to encourage him, perhaps by talking about one’s own faults without touching on his, but so that they will occur to him.
+To give a person an opinion one must first judge well whether that person is of the disposition to receive it or not. One must become close with him and make sure that he continually trusts one’s word.+++(4)+++ Approaching subjects that are dear to him, seek the best way to speak and to be well understood. Judge the occasion, and determine whether it is better by letter or at the time of leave-taking. Praise his good points and use every device to encourage him, perhaps by talking about one’s own faults without touching on his, but so that they will occur to him.+++(5)+++ Have him receive this in the way that a man would drink water when his throat is dry, and it will be an opinion that will correct faults.+++(5)+++
 
-Have him receive this in the way that a man would drink water when his throat is dry, and it will be an opinion that will correct faults.
+This is extremely difficult. If a person's fault is a habit of some years prior, by and large it won’t be remedied.+++(4)+++ I have had this experience myself. To be intimate with all one’s comrades, correcting each other’s faults, and being of one mind to be of use to the master is the great compassion of a retainer. By bringing shame to a person, how could one expect to make him a better man?
 
-This is extremely difficult. If a person s fault is a habit of some years prior, by and large it won’t be remedied. I have had this experience myself. To be intimate with alt one’s comrades, correcting each other’s faults, and being of one mind to be of use to the master is the great compassion of a retainer. By bringing shame to a person, bow could one expect to make him a better man?
+## Yawn and sneeze
+It is bad taste to yawn in front of people. When one unexpectedly has to yawn, if he rubs his forehead in an upward direction , the sensation will stop . If that does not work, he can lick his lips while keeping his mouth closed, or simply hide it with his hand or his sleeve in such a way that no one will know what he is doing. 
 
-It is bad taste to yawn in front of people. When one unexpectedly has to yawn, if he rubs his forehead in an upward direction , the sensation will stop . If that does not work, he can lick his lips while keeping his mouth closed, or simply hide it with his hand or his sleeve in such a way that no one will know what he is doing. It is the same with sneezing. One will appear foolish. There are other things besides these about which a person should use care and training. When a certain person was saying that present matters of economy should be detailed, someone replied that this is not good at all.
+It is the same with sneezing. One will appear foolish. 
 
-It is a fact that ash will not live where the water is too clear. But if there is duckweed or something, the fish will hide under its shadow and thrive. Thus, the lower classes will live in tranquillity if certain matters are a bit overlooked or left unheard. This fact should be understood with regard to people’s conduct.
+There are other things besides these about which a person should use care and training. When a certain person was saying that present matters of economy should be detailed, someone replied that this is not good at all.+++(??)+++
 
-Once when Lord Mitsushige was a little boy and was supposed to recite from a copybook for the priest Kaion, he called the other children and acolytes and said, “Please come here and listen. It’s difficult to read if there are hardly any people listening.” The priest was impressed and said to the acolytes, “That’s the spirit in which to do everything.” Every morning one should first do reverence to his master and parents and then to his patron deities and guardian Buddhas. If he will only make his master first in importance, his parents will rejoice and the gods and Buddhas will give their assent. For a warrior there is nothing other than thinking of his master . If one creates this resolution within himself, he will always be mindful of the master’s person and will not depart from him even for a moment.
+## Overlooking faults
+It is a fact that ash +++(fish)+++ will not live where the water is too clear. But if there is duckweed or something, the fish will hide under its shadow and thrive. Thus, the lower classes will live in tranquillity if certain matters are a bit overlooked or left unheard. This fact should be understood with regard to people’s conduct.+++(5)+++
 
-Moreover, a woman should consider her husband first, just as he considers his master first.
+## Sincere action
+Once when Lord Mitsushige was a little boy and was supposed to recite from a copybook for the priest Kaion, he called the other children and acolytes and said, “Please come here and listen. It’s difficult to read if there are hardly any people listening.” The priest was impressed and said to the acolytes, “That’s the spirit in which to do everything.”+++(4)+++ 
 
-According to a certain person, a number of years ago Matsuguma Kyoan told this story: In the practice of medicine there is a differentiation of treatment according to the Yin and Yang of men and women. There is also a difference in pulse. In the last fifty years, however, men’s pulse has become the same as women’s. Noticing this, in the treatment of eye disease I applied women’s treatment to men and found it suitable. When I observed the application of men’s treatment to men, there was no result. Thus I knew that men’s spirit had weakened and that they had become the same as women, and the end of the world had come. Since I witnessed this with certainty, I kept it a secret.
+## Daily reverence
+Every morning one should first do reverence to his master and parents and then to his patron deities and guardian Buddhas. If he will only make his master first in importance, his parents will rejoice and the gods and Buddhas will give their assent.+++(4)+++ For a warrior there is nothing other than thinking of his master . If one creates this resolution within himself, he will always be mindful of the master’s person and will not depart from him even for a moment.
 
-When looking at the men of today with this in mind, those who could be thought to have a woman’s pulse are many indeed, and those who seem like real men few. Because of this, if one were to make a little effort, he would be able to take the upper hand quite easily. That there are few men who arc able to cut well in beheadings is further proof that men’s courage has waned. And when one comes to speak of kaishaku, it has become an age of men who are prudent and clever at making excuses.
+Moreover, a woman should consider her husband first, just as he considers his master first.+++(5)+++
 
-Forty or fifty years ago, when such things as matanuki were considered manly, a man wouldn’t show an unscarred thigh to his fellows, so he would pierce it himself.
+## Degeneracy of men
+According to a certain person, a number of years ago Matsuguma Kyoan told this story: 
+
+> In the practice of medicine there is a differentiation of treatment according to the Yin and Yang of men and women. There is also a difference in pulse. In the last fifty years, however, men’s pulse has become the same as women’s. Noticing this, in the treatment of eye disease I applied women’s treatment to men and found it suitable. When I observed the application of men’s treatment to men, there was no result. Thus I knew that men’s spirit had weakened and that they had become the same as women, and the end of the world had come. Since I witnessed this with certainty, I kept it a secret.
+
+When looking at the men of today with this in mind, those who could be thought to have a woman’s pulse are many indeed, and those who seem like real men few. Because of this, if one were to make a little effort, he would be able to take the upper hand quite easily. 
+
+That there are few men who are able to cut well in beheadings is further proof that men’s courage has waned. And when one comes to speak of kaishaku, it has become an age of men who are prudent and clever at making excuses.
+
+Forty or fifty years ago, when such things as matanuki+++(=piercing one's own thigh with a sword)+++ were considered manly, a man wouldn’t show an unscarred thigh to his fellows, so he would pierce it himself.
 
 All of man’s work is a bloody business. That fact, today, is considered foolish, affairs are finished cleverly with words alone, and jobs that require effort are avoided. I would like young men to have some understanding of this.
 
-The priest Tannen used to say, ”People come to no understanding because priests teach only the doctrine of ’No Mind.’ What is called ’No Mind’ is a mind that is pure and lacks complication .’ This is interesting.
+## Uncomplicated mind
+The priest Tannen used to say, 
 
-Lord Sanenori said, “In the midst of a single breath, where perversity cannot be held , is the Way. ” If so, then the Way is one. But there is no one who can understand this clarity at first. Purity is something that cannot be attained except by piling effort upon effort.
+> 'People come to no understanding because priests teach only the doctrine of ’No Mind.’ What is called ’No Mind’ is a mind that is pure and lacks complication .’+++(5)+++ 
 
+This is interesting.
+
+Lord Sanenori said, “In the midst of a single breath, where perversity cannot be held , is the Way. ”+++(5)+++ If so, then the Way is one. 
+
+But there is no one who can understand this clarity at first. Purity is something that cannot be attained except by piling effort upon effort.+++(4)+++
+
+## Shallow Cleverness
 There is nothing that we should be quite so grateful for as the last line of the poem that goes, “When your own heart asks.” It can probably be thought of in the same way as the Nembutsu, and previously it was on the lips of many people.
 
-Recently, people who are called “clever” adorn themselves with superficial wisdom and only deceive others. For this reason they are inferior to dull-wilted folk. A dull- wilted person is direct. If one looks deeply into his heart with the above phrase, there will be no hidden places. It is a good examiner. One should be of the mind that, meeting this examiner, he will not be embarrassed.
+<details><summary>When your own heart asks</summary>
 
+
+“To tell others that  
+It is a rumor  
+Will not do.  
+When your own heart asks  
+How will you respond?”+++(5)+++
+
+― Gosen Wakashū 
+</details>
+
+Recently, people who are called “clever” adorn themselves with superficial wisdom and only deceive others. For this reason they are inferior to dull-wilted folk.+++(5)+++ A dull- wilted person is direct. 
+
+If one looks deeply into his heart with the above phrase, there will be no hidden places. It is a good examiner. One should be of the mind that, meeting this examiner, he will not be embarrassed.
+
+### Conjury
 The word gen means “illusion” or “apparition.” In India, a man who uses conjury is called a genjutsushi [“a master of illusion technique”]. Everything in this world is but a marionette show. Thus we use the word gen.
 
-To hate injustice and stand on righteousness is a difficult thing. Furthermore, to think that being righteous is the best one can do and to do one’s utmost to be righteous will, on the contrary, brig many mistakes. The Way is in a higher place then righteousness. This is very difficult to discover, but it is the highest wisdom. When seen from this standpoint, things like righteousness are rather shallow. If one does not understand this on his own, it cannot be known. There is a method of getting to this Way, however, even if one cannot discover it by himself.
 
-This is found in consultation with others. Even a person who has not attained this Way sees others front the side. It is like the saying from the game of go: “He who sees from the side has eight eyes.” The saying, “Thought by thought we see our own mistakes,” also means that the highest Way is in discussion with others. Listening to the old stories and reading books are for the purpose of sloughing off one’s own discrimination and attaching oneself to that of the ancients.
+## The Way vs righteousness 
+To hate injustice and stand on righteousness is a difficult thing. Furthermore, to think that being righteous is the best one can do and to do one’s utmost to be righteous will, on the contrary, bring many mistakes. The Way is in a higher place then righteousness. This is very difficult to discover, but it is the highest wisdom.+++(4)+++ When seen from this standpoint, things like righteousness are rather shallow.+++(5)+++ If one does not understand this on his own, it cannot be known. 
 
-A certain swordsman in his declining years said the following: In one’s life. there are levels in the pursuit of study. In the lowest level, a person studies but nothing comes of it, and he feels that both he and others are unskillful. At this point he is worthless. In the middle level he is still useless but is aware of his own insufficiencies and can also see the insufficiencies of others. In a higher level he has pride concerning his own ability, rejoices in praise from others, and laments the lack of ability in his fellows. This man has worth. In the highest level a man has the look of knowing nothing.
+### Consultation
+There is a method of getting to this Way, however, even if one cannot discover it by himself. This is found in consultation with others. Even a person who has not attained this Way sees others from the side. It is like the saying from the game of go: “He who sees from the side has eight eyes.”+++(5)+++ The saying, “Thought by thought we see our own mistakes,” also means that the highest Way is in discussion with others. 
 
-These are the levels in general;. But there is one transcending level, and this is the most excellent of all. This person is aware of the endlessness of entering deeply into a certain Way arid never thinks of himself as having finished. He truly knows his own insufficiencies and never in his whole life thinks that he has succeeded. He has no thoughts of pride but with selfabasement knows the Way to the end. It is said that Master Yagyu once remarked, “I do not know the way to defeat others, but the way to defeat myself.” Throughout your life advance daily, becoming more skillful than yesterday, more skillful than today. This is never-ending.
+Listening to the old stories and reading books are for the purpose of sloughing off one’s own discrimination and attaching oneself to that of the ancients.+++(5)+++
 
-Among the maxims on Lord Naoshige’s wall there was this one: ”Matters of’ great concern should be treated lightly.” Master lttei commented, “Matters of small concern should be treated seriously.” Among one’s affairs there should not be more than two or three matters of what one could call great concern. If these are deliberated upon during ordinary times, they can be understood. Thinking about things previously and then handling them lightly when the time comes is what this is all about.
+### Transcendent level
+A certain swordsman in his declining years said the following: 
 
-To face an event anew solve it lightly is difficult if you are not resolved beforehand, and there will always be uncertainty in hitting your mark. However, if the foundation is laid previously, you can think of the saying, “Matters of great concern should be treated lightly,” as your own basis for action.
+> In one’s life, there are levels in the pursuit of study. In the lowest level, a person studies but nothing comes of it, and he feels that both he and others are unskillful. At this point he is worthless. 
+> 
+> In the middle level he is still useless but is aware of his own insufficiencies and can also see the insufficiencies of others. 
+> 
+> In a higher level he has pride concerning his own ability, rejoices in praise from others, and laments the lack of ability in his fellows. This man has worth. 
+> 
+> In the highest level a man has the look of knowing nothing.
+
+These are the levels in general; But there is one transcending level, and this is the most excellent of all. This person is aware of the endlessness of entering deeply into a certain Way and never thinks of himself as having finished. He truly knows his own insufficiencies and never in his whole life thinks that he has succeeded. He has no thoughts of pride but with self-abasement knows the Way to the end. It is said that Master Yagyu once remarked, “I do not know the way to defeat others, but the way to defeat myself.” Throughout your life advance daily, becoming more skillful than yesterday, more skillful than today.+++(4)+++ This is never-ending.
+
+## Serious game
+Among the maxims on Lord Naoshige’s wall there was this one: ”Matters of great concern should be treated lightly.” Master lttei commented, “Matters of small concern should be treated seriously.” Among one’s affairs there should not be more than two or three matters of what one could call great concern. If these are deliberated upon during ordinary times, they can be understood. Thinking about things previously and then handling them lightly when the time comes is what this is all about.+++(5)+++
+
+To face an event and solve it lightly is difficult if you are not resolved beforehand, and there will always be uncertainty in hitting your mark. However, if the foundation is laid previously, you can think of the saying, “Matters of great concern should be treated lightly,” as your own basis for action.
 
 A certain person spent several years of service in Osaka and then returned home. When he made his appearance at the local bureau, everyone was put out and he was made a laughingstock because he spoke in the Kamigata dialect. Seen in this light, when one spends a long time in ado or the Kamigata area, he had better use his native dialect even more than usual.
 

@@ -1,8 +1,10 @@
 +++
-title = "+Lapo translation"
+title = "+Wilson translation"
 +++
 
 Hagakure: Book of the Samurai Yamamoto Tsunetomo 2nd version, revised January 2005
+
+William Scott Wilson
 
 
 ## Contents
@@ -22,13 +24,6 @@ Hagakure: Book of the Samurai Yamamoto Tsunetomo 2nd version, revised January 20
 - 10 There was a certain retainer 134
 - 11 In the “Notes on Martial Laws” 151
 - 12 Late night idle talk 166
-
-
-## About this ebook
-
-This is the first release of the book and Lapo would appreciate if you inform him of any spelling or typographic error via email at lapo.mori@studenti.ing.unipi.it.
-
-Lapo expresses his gratitude for spelling corrections to: Oliver Oppitz.
 
 
 ## Preface

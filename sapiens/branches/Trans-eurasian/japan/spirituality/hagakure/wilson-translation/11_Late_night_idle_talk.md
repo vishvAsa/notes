@@ -25,8 +25,7 @@ How can one human being be inferior to another? In all matters of discipline, on
 - Never to be outdone in the Way of the Samurai.
 - To be of good use to the master.
 - To be filial to my parents.
-- To manifest great compassion, and to act for the sake of
-Man.
+- To manifest great compassion, and to act for the sake of Man.
 
 If one dedicates these four vows to the gods and Buddhas every morning, he will have the strength of two men and will never slip backward. One must edge forward like the inchworrn, bit by bit. The gods and Buddhas, too, first started with a vow.
 
