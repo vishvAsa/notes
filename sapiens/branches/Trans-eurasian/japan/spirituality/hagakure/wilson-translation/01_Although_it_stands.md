@@ -164,18 +164,21 @@ Among the maxims on Lord Naoshige’s wall there was this one: ”Matters of gre
 
 To face an event and solve it lightly is difficult if you are not resolved beforehand, and there will always be uncertainty in hitting your mark. However, if the foundation is laid previously, you can think of the saying, “Matters of great concern should be treated lightly,” as your own basis for action.
 
+## Provincial moorings
 A certain person spent several years of service in Osaka and then returned home. When he made his appearance at the local bureau, everyone was put out and he was made a laughingstock because he spoke in the Kamigata dialect. Seen in this light, when one spends a long time in ado or the Kamigata area, he had better use his native dialect even more than usual.
 
-When in a more sophisticated area it is natural that one s disposition be affected by different styles. But it is vulgar and foolish to look down upon the ways of one’s own district as being boorish, or to be even a bit open to the persuasion of the other place’s ways and to think about giving up one’s own.
+When in a more sophisticated area it is natural that one s disposition be affected by different styles. But it is vulgar and foolish to look down upon the ways of one’s own district as being boorish, or to be even a bit open to the persuasion of the other place’s ways and to think about giving up one’s own. That one’s own district is unsophisticated and unpolished is a great treasure. Imitating another style is simply a sham.
 
-That one’s own district is unsophisticated and unpolished is a great treasure. Imitating another style is simply a sham.
-
+### Example
 A certain man said to the priest Shungaku, “The Lotus Sutra Sect’s character is not good because it’s so fearsome.” Shungaku replied, “It is by reason of its fearsome character that it is the Lotus Sutra Sect. If its character were not so, it would be a different sect altogether.” This is reasonable.
 
-At the time when there was a council concerning the promotion of a certain man, the council members were at the point of deciding that promotion was useless because of the fact that the man had previously been involved in a drunken brawl. But someone said, “If we were to cast aside every man who had made a mistake once, useful men could prob- ably not be come by. A man who makes a mistake once will be considerably more prudent and useful because of his repentance. I feet that he should be promoted.” Someone else then asked, “Will you ;guarantee him?” The man replied, “Of course I will.” The others asked, “By what will you guarantee him?” And he replied, “I can guarentee him by the fact that he is a man who has erred once. A man who bas never once erred is dangerous.” This said, the man was promoted.
 
-At the time of a deliberation concerning criminals, Nakane Kazuma proposed making the punishment one degree lighter than what would be appropriate. This is a treasury of wisdom that only he was the possessor of. At that time, though there were several men in attendance, if it had not been for Kazuma alone, no one would have opened his mouth. For this reason he is called Master Commencement and Master Twenty-five Days.
+## Mistakes
+At the time when there was a council concerning the promotion of a certain man, the council members were at the point of deciding that promotion was useless because of the fact that the man had previously been involved in a drunken brawl. But someone said, “If we were to cast aside every man who had made a mistake once, useful men could prob- ably not be come by. A man who makes a mistake once will be considerably more prudent and useful because of his repentance. I feet that he should be promoted.” Someone else then asked, “Will you guarantee him?” The man replied, “Of course I will.” The others asked, “By what will you guarantee him?” And he replied, “I can guarentee him by the fact that he is a man who has erred once. A man who bas never once erred is dangerous.” This said, the man was promoted.
 
+At the time of a deliberation concerning criminals, Nakane Kazuma proposed making the punishment one degree lighter than what would be appropriate.+++(5)+++ This is a treasury of wisdom that only he was the possessor of. At that time, though there were several men in attendance, if it had not been for Kazuma alone, no one would have opened his mouth. For this reason he is called Master Commencement and Master Twenty-five Days.
+
+## Revenge
 A certain person was brought to shame because he did not take revenge. The way of revenge lies in simply forcing one’s way into a place and being cut down. There is no shame in this.
 
 By thinking that you must complete the job you will run out of time. By considering things like how many men the enemy has, time piles up; in the end you will give up. No matter if the enemy has thousands of men, there is fulfillment in simply standing them off and being determined to cut them all down, starting from one end. You will finish the greater part of it.
