@@ -13,11 +13,36 @@ ___________
 
 **2.** Upon asking, “What is the philosophy of the Kakuzō-ryū school?” I was told: “A sandal carrier for \[Nabeshima\] Kiun[^190] named Kakuzō was a man of considerable dexterity. A skilled student of swordsmanship, he was taught grappling \(*torite*\) by Kiun and after mastering the techniques, he called his art the ‘Kakuzō style’ and taught the techniques to others. The *kata* of this school are still practiced today. Referred to as *kumiuchi* or *yawara*,[^191] it is not a particularly famous style of combat such as that authorized by the shogunate. My style is not a particularly refined school either, but is effective in its simplicity like sandal carrier Kakuzō’s, and so I call it ‘my Kakuzō-ryū’.”
 
+[^190]: A retainer of Nabeshima Motoshige, a son of the first lord of the Nabeshima domain, Katsushige.
+
+
+
+
+[^191]: A term for *jūjutsu*, or the art of unarmed combat. *Torite* or *toride* are also other names for the grappling arts.
+
+
+
+
 He \(Jōchō\) also said: “At a recent gathering I declared that the highest form of devotion is ‘secret love’ \(*shinobu-koi*\).[^192] If one’s feeling of love is confessed it becomes diluted. The original intention of love is to take it with you to the grave. There is a poem that goes, ‘Observe when I am dead, my internal burning love for you, from the smoke ascending from my body.’”[^193] When I suggested that this was analogous to the highest form of love, they all concurred, and thereupon we called ourselves the ‘smoke blokes’.”
+
+[^192]: See Book 2-34. This is in reference to love between males.
+
+
+
+
+[^193]: An allusion to cremation after death.
+
+
+
 
 ___________
 
 **3.** Lord Taku Mimasaka[^194] often treated his men in a callous and irrational manner in his twilight years. When questioned about his sudden change in demeanor, he replied: “I am doing this for the sake of my son Nagato, so that he will be able to puff up his pillow and rest easily after I am gone.” Thus, if the master behaves cruelly before he retires, even though he was kind-hearted before, it will help his successor foster strong bonds of loyalty in his men as they eagerly await his accession. I hear that this was a secret discussion.
+
+[^194]: A chief retainer of Nabeshima Katsushige.
+
+
+
 
 ___________
 
@@ -27,11 +52,36 @@ ___________
 
 **5.** The priest Ryōi Oshō,[^195] who retired from the Daijōji Temple in the province of Kaga, resided at the Sōjuan hermitage in Kitayama before moving from Kaga. When cleaning duties were conducted at the Sōjuan, Gyōjaku Oshō[^196] took care of the upper room in the meditation hall. Also, Setsumon Oshō, now retired at the Ten’yuji Temple, took a *yukata*197 to Kaion Oshō. He refused to accept it, saying that it was too pristine and didn’t suit him, and that he wanted Setsumon’s old clothes instead. The upper hall was newly constructed before Suigan Oshō[^198] moved into Sōjuan. Ryōi plastered the walls himself to welcome Suigan with the room fully ready. Such an undertaking meets with Buddha’s biddings. The hermitage where Ryōi stayed in Kitayama Kurotsuchibaru after his retirement was called Chōyōken. Following an agreement made on the nineteenth day of the fourth month, second year of Shōtoku \(1712\) to succeed the temple, it was renamed to Sōjuan.[^199]
 
+[^195]: Ryōi was the eleventh priest at the Kōdenji Temple who guided Jōchō in taking his Buddhist vows. They resided together at the Sōanji hermitage after Mitsushige’s death. He became the head priest of the Daijōji Temple in 1709, and moved back to the Sōjuan in 1714.
+
+
+
+
+[^196]: Gyōjaku became the head priest of the Kōdenji Temple after Ryōi.
+
+
+
+
+[^198]: The sixteenth priest of the Kōdenji Temple.
+
+
+
+
 ___________
+
+[^199]: See Book 2-55 and Book 2-87.
+
+
+
 
 **6.** “Dreams are a prophetic reflection of one’s nature. Sometimes I dream of being slain or committing *seppuku*. My heart becomes ever more gallant as I experience being killed in my dreams.” His dream on the twenty-seventh day of the fifth month was like this.[^200]
 
 ___________
+
+[^200]: 1713.
+
+
+
 
 **7.** To summarize the essence of samuraihood, first and foremost the warrior must be devoted body and soul to his lord. In addition, he must internalize the virtues of wisdom \(*chi*\), compassion \(*jin*\), and courage \(*yū*\). Although it may seem impossible to embody these three virtues, it really is easy. To nurture wisdom simply requires listening to others. Immeasurable knowledge comes from this. Compassion is for the sake of others. It is opting to do good things for other people rather than through selfish motives. Courage is found through “gritting one’s teeth.” That is to say, gritting one’s teeth and charging forth without concern for the consequences. There is no higher mind-set than this.
 
@@ -47,9 +97,24 @@ ___________
 
 When Toyotomi Hideyoshi came to Hizen-Nagoya \[during the Korea campaign\], he walked along the northern Takagi-Jōdō road with his long and short swords in vermillion scabbards, wearing half-soled straw sandals \(*ashinaka*\).[^201] When Tokugawa Ieyasu presented his cavalry to Toyotomi Hideyoshi, Naruse Shōkichi[^202] attached some scarlet sandals to Ieyasu’s scabbard. Spare sandals are requisite when preparing for battle. If dispatched for guard duties in Nagasaki now, tens of thousands of straw sandals would be needed for all ranks. Supplies of ready-to-wear ones would be exhausted. This is why it is prudent to learn how to make them yourself. Incidentally, when walking in grass fields, mountain trails, or wading through rivers, straw sandals have a tendency to slip, so it is advisable to wear *ashinaka* in such terrains.
 
+[^201]: This is in reference to Toyotomi Hideyoshi’s invasions of Korea \(1592 and 1597\). Hideyoshi built a fortress in Hizen-Nagoya. Note that this is a location in Saga, not the city of Nagoya in modern day Aichi Prefecture.
+
+
+
+
+[^202]: Lord of Inuyama Castle in the Owari domain, in the northwest of modern day Aichi Prefecture. He was a vassal of Tokugawa Ieyasu.
+
+
+
+
 ___________
 
 **10.** You will not be adversely affected by inclement weather or catch a cold if you keep a few bags of cloves handy. One year, when the late Kazuma[^203] traveled back to the domain on horseback in the midst of a cold snap, his health was not affected in the slightest despite his old age \[because he knew about the remedial quality of cloves\]. He taught me this. Also, hemorrhaging after falling from a horse can be stopped by drinking extract from the droppings of a gray horse.
+
+[^203]: See Book 1-51.
+
+
+
 
 ___________
 
@@ -61,7 +126,27 @@ ___________
 
 Irrespective of high or low station, it doesn’t bode well if a man becomes arrogant, notwithstanding of his past meritorious deeds. Nobody takes notice of this anymore. Men such as Kyūma[^204] and Kichiuemon[^205] paid attention to these points, and were acknowledged by their lord. It is said that Kichiuemon advised his lord \(Tsunashige\) on various matters when he was ill and even after he retired from service. He was eternally grateful for this.
 
+[^204]: Sagara Kyūma.
+
+
+
+
+[^205]: Harada Kichiuemon was a celebrated retainer of the first three lords.
+
+
+
+
 Some samurai do not hold such high aspirations. They are predisposed to think it is impossible to occupy a position to offer counsel. From my own experience, I can say that becoming your lord’s confidant after a decade of bone-breaking toil is indeed achievable. Meek is any man who does not aim to be the most treasured attendant in the domain, of the likes of Nobukata[^206] and Takatomo.[^207] A retainer will not be able to serve, however, if he is alienated from his lord. This point is important, but many don’t get it. Make him take notice little by little.
+
+[^206]: Itagaki Nobukata \(1489–1548\) was a retainer of the Takeda clan who served both Nobutora and Shingen, becoming one of Shingen’s famed “24 generals.”
+
+
+
+
+[^207]: Akimoto Takatomo \(1682–1699\) was a “junior elder” \(*waka-doshiyori*\) of Tokugawa Tsunayoshi, the fifth Tokugawa shogun.
+
+
+
 
 ___________
 
@@ -70,6 +155,11 @@ ___________
 Assigning sentries at Buddhist memorial services is also a preventative measure for emergencies. As the proverb goes, “There is more bad than good in this world” \(*sunzen-shakuma*\), and evil will always manifest at a Buddhist service. Should something unexpected erupt, such as a fight or quarrel, quell it without delay so that it does not interrupt the service. That is why guards should be assigned. Although aware of this, people are often careless on the day, and too slow in reacting. Lord Suke’uemon urged that we investigate actual incidents and how to cope with them.[^208]
 
 ___________
+
+[^208]: Tokunaga Suke’uemon was Tashiro Tsuramoto’s uncle on his mother’s side.
+
+
+
 
 **14.** Remonstrating with, or giving advice to one’s lord after something untoward has already happened will be meaningless, and likely lead to harmful rumor-mongering. It is like taking medicine after becoming sick. You will not fall victim to serious ailments if you take care of yourself beforehand, rather than resorting to treatment after you contract an illness. Advising your lord before he conjures up bad ideas has the same effect as taking precautions against disease.
 
@@ -107,6 +197,11 @@ ___________
 
 ___________
 
+[^209]: In the Koyama and Yamamoto copies of *Hagakure*, these two sections \(19 and 20\) are joined as one.
+
+
+
+
 **21.** You need nothing more than to maintain a pure mind, and stay vigilant as you execute your duties. Just live for each moment with single-minded purpose.
 
 ___________
@@ -117,9 +212,19 @@ ___________
 
 **23.** “Since olden times, men celebrated as valiant warriors were characteristically uncouth. Being roughnecks, they were spirited and bold.” Unsure of what this means, I asked Jōchō for further explanation. “Since they were spirited, they were habitually rough-and-ready. Warriors are not as spirited as they used to be, and are not nearly as unruly. There is less zeal, but it must be said that men now show better decorum. Courage, however, is a different matter. Although warriors today are not as vigorous, and could even be described as docile, this is not to say that they cannot work themselves into the same deadly frenzy when executing their duties.[^210] This mind-set has nothing to do with high-spiritedness.”
 
+[^210]: *Shini-gurui*.
+
+
+
+
 ___________
 
 **24.** I remarked, “There are various things to bear in mind when serving one’s master, but one can’t perform conscientiously without preparation.” I was told in reply by Jōchō, “This is not the case. Just perform your duties using the powers of judgment you were endowed with at birth. Simply abide by the rules that Lord Katsushige formulated.[^211] It’s as easy as that. Working for the benefit of fellow retainers and those below you counts as valuable service. Imprudent administrators devise new strategies to assist the lord, but care not for the plight of the lower ranks. This stinks of disloyalty because all members of the clan belong to the lord. All that is required from the lord is compassion for his men. At times, even crucifixion can be an act of compassion.”
+
+[^211]: This is referring to *Torinoko-chō*, a rulebook written by Nabeshima Katsushige.
+
+
+
 
 ___________
 
@@ -131,7 +236,22 @@ ___________
 
 One year when I came back from Kyoto and then had to return again to resume my mission, I made a request to the elders for assistance. “Due to the length of my sojourn in Kyoto, my household budget has come under considerable strain.[^213] I humbly request your favorable treatment in this matter. It would not look good if I had to borrow money before departing. I ask this favor not out of self-indulgence, but because the fulfillment of my duties in Kyoto necessitates it.” The councilors conveyed my request to the lord, who responded by kindly affording me some money.
 
+[^212]: Ezoe Hyōbuzaemon was one of 13 loyal retainers who committed *seppuku* following the death of Nabeshima Noashige in 1618.
+
+
+
+
+[^213]: This was in 1698 and 1699. Jōchō was sent to Kyoto a number of times.
+
+
+
+
 At another time when I was not feeling well, the physician prescribed a course of ginseng. I couldn’t afford such an expensive item, but hearing of my predicament, Moro’oka Hikouemon[^214] said: “As you are such a diligent servant, you will be given as much ginseng as you need to recover.” Once a retainer has given himself wholeheartedly to his master, he need not be troubled by such affairs. Things become difficult when you isolate yourself.
+
+[^214]: See Book 1-98.
+
+
+
 
 ___________
 
@@ -142,6 +262,11 @@ ___________
 **28.** Lord Tokugawa Ieyasu’s forces were overpowered in a certain battle. In the aftermath, people talked of the feats of his men with great admiration. “Ieyasu is truly a courageous general. Not one of his warriors was slain with his back to the enemy. They all fell forwards.” A warrior’s attitude is revealed even after his death, so take care not to bring disgrace to your name.[^215]
 
 ___________
+
+[^215]: See Book 1-162.
+
+
+
 
 **29.** Somebody said: “It is fortuitous there are no wars anymore.” This is a terribly imprudent thing for a samurai to declare\! Life is short. It’s a warrior’s calling to experience battle at least one time. Dying in one’s futon is an insufferable waste, and not the end a samurai should hope for. The ancients were particularly aggrieved by the unfortunate fate of perishing on a sleeping mat. I think there is no better end than to die in battle.”
 
@@ -165,11 +290,21 @@ ___________
 
 ___________
 
+[^216]: These phrases are quoted from the *Hannya Shingyō*, or Heart Sutra, originating in Mahāyāna Buddhism.
+
+
+
+
 **33.** You should be proud and claim to be the best in the land when it comes to courage and *shudō* \(male love\). When training in the Way each day, know your faults and learn to shed them. You will not make headway unless you purge yourself of limitations.
 
 ___________
 
 **34.** Love in its supreme form is “secret love” \(*shinobu-koi*\). “Observe when I am dead, my internal burning love for you, from the smoke ascending from my body.”[^217] Love confessed when still alive is contrived, but the profundity of love taken to the grave knows no bounds. What if the object of one’s affection inquires, “Can it be that you have feelings for me?” Reply without hesitation: “That is the furthest thing from my mind\!” Dying without ever confessing is supreme love. Is love not torturous? When speaking of this matter recently, my colleagues agreed with me, and our brotherhood became known as “Smoke Blokes.” This \[spirit of *shinobu-koi*\] should be the attitude in all things. Particularly so in the relationship of fealty between lord and vassal.
+
+[^217]: See Book 2-2.
+
+
+
 
 Also, serving when out of sight of others should be done with the same prudence as when in the public eye. If you can’t suppress lewd thoughts or ideas when you are on your own, you appear to others as lacking grace. Feigned discretion will actually bring one’s shortcomings to light.
 
@@ -177,13 +312,43 @@ ___________
 
 **35.** Shōan is fond of *renga*,[^218] and Sohō is partial to *haikai*.[^219] This reveals a difference in character. I believe that we need to aim high even in our pastimes. Master Jōchō said that he has a penchant for *kyōka*220 over *renga*. \(Personal note: *Koshiore* \[“My Humble Poem”\] is not an expression samurai should use.\)[^221]
 
+[^218]: *Renga* is a genre of Japanese collaborative poetry which consists of at least two stanzas, but usually many more.
+
+
+
+
+[^219]: Humorous or vulgar *renga* poetry.
+
+
+
+
 ___________
 
+[^221]: This is a comment added by Tashiro Tsuramoto. *Koshiore* was a common phrase used as a show of humility when introducing one’s poetry. The inference is that warriors need not show humility in such cases.
+
+
+
+
 **36.** It is interesting indeed that Lord Kenshin said, “I never think about winning. All I think of is not missing the opportunity.”[^222] This is very perceptive. A retainer should also realize that if he misses his chance he will be unable to articulate his point effectively. As such, a samurai must never be guilty of paltriness in every action and greeting he makes.
+
+[^222]: Uesugi Kenshin \(1530–1578\) was a warlord who ruled Echigo province during the Warring States period. He was highly respected for his strategic and administrative ability. His rivalry with Takeda Shingen became legendary, and although mortal enemies, they both harbored an intense respect for each other.
+
+
+
 
 ___________
 
 **37.** Treating one’s condition after becoming ill is not at all smart. Just as Buddhist monks argue peripheral matters, it seems that physicians don’t cite the importance of preventative measures before the onset of disease. I speak from experience. To maintain my health and well-being, I did not indulge in eating and drinking, or engage in sexual intercourse, and I applied moxa each day. Being born when my father was advanced in age,[^223] I was diagnosed as being “deficient in water.”[^224] When I was young, doctors said: “He won’t make it past the age of 20 because of his weak constitution.” I thought, “Being blessed to have entered this world, it would be a pity to die without properly serving my master. I must try to live a long, salubrious life.” I abstained from having sex for seven years, I didn’t fall ill, and am still very much alive. I have never really needed medicine before; although there were times when I felt under the weather, I was able to power through.
+
+[^223]: Jōchō’s father was 70 years old when he was born.
+
+
+
+
+[^224]: An expression that implies a short lifespan.
+
+
+
 
 In spite of being born with fragile constitutions, people these days are too lascivious and end up dying young. It is diabolical. I would proffer to physicians that if people who are sickly suppress their sexual desires for six months, or a year or two, they will recuperate without need of any special treatment. Most young men are weak-willed. It is woeful that they lack willpower to control their carnal urges \[for the sake of their wellbeing\].
 
@@ -207,27 +372,77 @@ ___________
 
 **42.** As the saying goes: “The more water there is, the higher the boat rises.”[^225] A competent man, or one engrossed in a pursuit he enjoys, will relish the challenge of surmounting difficulties. There is a huge difference between these men, and those who feel as though they are drowning when the going gets tough.
 
+[^225]: See Book 1-115.
+
+
+
+
 ___________
 
 **43.** The monk Ryōzan Oshō[^226] said: “I learned a good lesson from the Kamigata region. Whatever you write on paper will remain in the world; and so, even if it is just a letter, you should write carefully, imagining that it will be hung on the wall of the recipient’s home. Many people write ‘shamelessly.’”[^227]
 
+[^226]: Jōchō’s teacher of *waka* verse.
+
+
+
+
 ___________
 
+[^227]: This sentence employs a play on words. *Haji wo kaku* can mean “to write the character for ‘shame’” and to “bring shame.”
+
+
+
+
 **44.** A man in service exceeds his peers through superior deportment, manner of speech, and his handwriting.[^228] Correct deportment forms the base of elegance. Manners maketh the man, and impeccable behavior is impressive to behold. These days, only those who are accomplished at reading and writing will find success, but they neglect the basic things in terms of their manners.
+
+[^228]: See Book 2-7.
+
+
+
 
 ___________
 
 **45.** While walking together along the path, Master Jōchō proclaimed, “Are men not like masterfully controlled puppets? It is magnificent craftsmanship that allows us to walk, jump, prance, and speak even though there are no strings attached. We may be guests at next year’s Bon festival.[^229] We forget it is an ephemeral world in which we live.”
 
+[^229]: The Bon festival is a Japanese Buddhist custom to honor and appease the spirits of dead ancestors. Thus, the inference here is that human beings can die at any time.
+
+
+
+
 ___________
 
 **46.** One of Lord Yagyū’s[^230] teachings states: “It is unsightly to exhibit fear upon encountering an ox on the road. Oxen don’t jab people with their horns from their regular posture. They angle their horns at the target, and then move in to thrust. You need not be afraid when passing an ox as long as it does not assume a fighting stance.” Samurai should also be mindful of such particulars.
 
+[^230]: Yagyū Munenori. See Book 1-45.
+
+
+
+
 In my opinion,[^231] I have seen horses rear with their forelegs in the air many times, but they are not really jumping. They pull their front legs up, stretch them out, but are only stamping the ground. You will not be kicked as long as you keep your distance. And, you will not be struck even if the horse changes its step towards you.
+
+[^231]: Probably Tashiro Tsuramoto’s opinion, although it is not clearly stipulated.
+
+
+
 
 ___________
 
 **47.** Master Jōchō said, “Men in service need good examples to follow, but, alas, there don’t seem to be any worthy role models of late. Men like Ishii Kurōuemon are exemplary when it comes to manner and speech.[^232] Muraoka Gohei is a paragon of sincerity and loyalty.[^233] I cannot think of anyone after Harada Kichiuemon as providing a better model for eloquent speech.[^234] But there are no others who set an example. Combine the attributes of various men and they probably still won’t amount to an first-class man of a bygone era. Of course, consummate retainers must have been atypical in the past as well. Young men can easily outshine others with a little effort, but still they are remiss.”
+
+[^232]: See Book 1-11.
+
+
+
+
+[^233]: Clan elder.
+
+
+
+
+[^234]: Some versions of *Hagakure* refer to writing rather than speech. See Book 2-12.
+
+
+
 
 ___________
 
@@ -238,6 +453,16 @@ ___________
 ___________
 
 **49.** Mistakes in protocol made at governmental offices can be dismissed as errors through ineptitude or a lack of experience. Then again, how can excuses be made by those who fell short of the mark in this shameful incident?[^235] Master Yoshitada[^236] would always say, “A samurai doesn’t need to be anything other than a valiant and trustworthy hero.” He professed this with this kind of situation in mind.
+
+[^235]: Probably referring to an incident that happened on the fourteenth day, seventh month in the third year of Shōtoku \(1713\), in which Hara Jūrōzaemon killed Sagara Gentazaemon as preparations were being made in the kitchen for the Bon festival. This episode is recorded in Book 11-104.
+
+
+
+
+[^236]: Yamamoto Jin’uemon Yoshitada. Jōchō’s father.
+
+
+
 
 If you become vexed, your luck as a warrior will dry up; if you are unable to serve when needed owing to a bad reputation, then you belong nowhere. Instead of living in disgrace and spending the rest of your life in the doldrums, you are better off just cutting open your stomach. If you aren’t inclined to give up your life, and choose to keep making excuses about *seppuku* being a “meaningless death,” you may live five more years, one or two decades at most. Nonetheless, your peers will disparage you, and you will live on in ignominy. This dishonor will continue after your death, and your descendants will inherit your shameful reputation. They will suffer humiliation just because they are related to you, even though they are innocent of wrongdoing. You will also bring disgrace to the memory of your ancestors, and the family name will be irreparably besmirched.
 
@@ -257,6 +482,11 @@ ___________
 
 ___________
 
+[^237]: This is referring to the execution of 80 adherents of Christianity in 1658 in the village of Ōmura. The anti-Christian inquisition was one of the most pronounced elements of the Tokugawa bakufu’s policy of national seclusion. Christians were forced to apostatize, and those who refused to denounce their faith were tortured until they recanted, or were executed. According to Book 6-201, Mitani Yozaemon was suddenly ordered to decapitate three of the unfortunate captives, and did so exhibiting “unparalleled skill.”
+
+
+
+
 **51.** Master Genshin was asked, “I have heard that if you are attacked by someone in the \[shogun’s\] palace, it will work in your favor to keep calm and simply report the incident to the inspector \(*o-metsuke*\) without retaliating, even if you are at fault. I wonder if it’s worth enduring the shame, thinking that you may be better off for it later on.” The master responded: “This is where skill with words is indispensable. You can take the other fellow to the inspector, or you could go on your own and explain the situation. Say ‘Although the humiliation is difficult to bear, as the incident took place at my master’s palace, I prioritized his feelings, and chose to endure the shame \[through not taking immediate action\], and hope for your understanding as I explain the details of the affair.’ If nothing happens, you can kill the other man because you are already dead.”
 
 ___________
@@ -267,7 +497,17 @@ ___________
 
 **53.** You can achieve one more action of consequence even if your head is suddenly removed with the flash of a sword. The last moment of Nitta Yoshisada’s life is a fine example of this.[^238] You will collapse if you are weak in spirit. Ōno Dōken performed his last meritorious feat of service more recently. Single-minded determination and belief will allow you to accomplish your mission, even in death. If you become like a ghost or rancorous spirit to accomplish a feat of bravery, you won’t die just because your head has been lopped off.[^239]
 
+[^238]: According to *Taiheiki*, Nitta Yoshisada achieved the remarkable feat of cutting off his own head, burying it in the ground, and then dying straddled over his grave\!
+
+
+
+
 ___________
+
+[^239]: See Book 1-120.
+
+
+
 
 **54.** A person said, “I always wondered why eminent men could make sage remarks, but the reason occurred to me one day. Lower-class men are too busy being selfish and thinking lewd thoughts, so their hearts are polluted. They are incapable of eliciting a wise opinion and don’t have the inclination to compose poetry. Noble people of high stature are void of impurity in their hearts to start with, and are inherently able to formulate sage ideas through their chasteness.”
 
@@ -289,17 +529,47 @@ ___________
 
 Things like this happened frequently. For example, the time when a statue of Benzaiten was brought to Saga,[^240] the “mother drinking party incident,”[^241] and the time when the two monks \(Nihōshi\) refused to take the post of *tōnin*242 in Edo.[^243] Details of each incident can be given verbally. Some wicked men of this breed can be seen among the many retainers of our clan. Discretion is advised.
 
+[^240]: Benzaiten is the Japanese name for the Hindu goddess Saraswati. The goddess is worshipped in Shinto as the *kami* Ichikishima-Hime-no-Mikoto, and in Tendai Buddhism as Ugaijin. Jōchō brought a statue of Benzaiten carved by a Buddhist priest back to Mount Sefuri in Saga in 1697.
+
+
+
+
+[^241]: In 1706, Nabeshima Yugie invited Ishii Den’emon, an elder councilor \(*toshiyori*\), and others to a bawdy drinking party attended by his mother when Lord Nabeshima Tsunashige was in Nagasaki. Ishii Den’emon was dismissed from his post, and Yugie was placed under house arrest as a result. This story is recorded in Book 7-23.
+
+
+
+
+[^243]: There is no other information about this particular incident.
+
+
+
+
 ___________
 
 **59.** When a young man yawned in the presence of Master Jōchō, he was told: “Yawning is impolite. Yawns and sneezes can always be stifled if your mind is set on it. Yawns or sneezes happen when you are not alert and your mind is wandering. If you can’t help but yawn, hide it with your hand. Sneezes can be suppressed by pressing your forehead. There are people who can drink, but few who are good at entertaining. Care should be taken when drinking as it is done in front of others. These minor details should be taken to heart by those in service, and samurai should be trained properly in each aspect of etiquette when they are young. I have itemized 100 articles concerning behavior that samurai should learn. These matters should be discussed further, and more added to the list.”[^244]
 
 ___________
 
+[^244]: This is referring to Jōchō’s *Sōan Zatsudan Oboegaki*. A remaining copy of this document consists of 107 articles.
+
+
+
+
 **60.** Nabeshima Kaga-no-Kami Naoyoshi[^245] reportedly stated: “It is best to follow the customs of the Nabeshima domain when it comes to fastening the *obi* \(sash\) or *kami-shimo* \(formal attire\).” These protocols were established by Lord Naoyoshi. No other domain requires that samurai tie their *obi* with the end tucked in after making the knot. It is a particularly elegant look.
+
+[^245]: Nabeshima Naoyoshi \(1622–1689\) was the second daimyo of the Nabeshima Ogi sub-domain.
+
+
+
 
 ___________
 
 **61.** Yamasaki Kurando[^246] said, “An overly perceptive retainer is harmful.” This is a golden maxim. The best retainer is one who is passionate about service as his true calling. If not, he might assiduously argue about right and wrong, and lamenting how the world is evanescent, he will prefer the life of a recluse, renouncing a society rotten to the core with its bustling cities of sin. He studies the teachings of Buddha to detach himself from the perpetual uncertainties of life and death. He toys with arts such as poetry and other genteel pursuits, thinking all these things are praiseworthy. He desires a lifestyle of equanimity and comfort. This is acceptable for a hermit, or for one who has taken holy orders and lives beyond the mundane world. It is totally inappropriate, however, for one who shoulders the burden of duty. A retainer who opts for this is a coward. In his pursuit of a carefree existence, he is shirking the taxing responsibilities that come with practicing the Way of the warrior.
+
+[^246]: See Book 1-195.
+
+
+
 
 One just needs to observe the actions of unlearned men devoted only to serving their masters, or those who struggle to look after their families. The way they discharge their day-to-day chores throughout their lives is truly magnificent. A retainer who insists on practicing Zen, or composing poetry, or collecting stylish objects, and dressing in outlandish attire is want to squander his stipend, and will eventually fall to pieces. He will not resemble a layman or monk, nor a nobleman, or hermit. He is just an ugly sight to behold.
 
@@ -317,6 +587,11 @@ This sentiment is comparable to love. The more unsympathetically a man is treate
 
 ___________
 
+[^247]: A master of linked verse \(1421–1502\).
+
+
+
+
 **63.** Serve reticently and diligently when you are in close attendance of your lord. By spending many years attending with this attitude, you will become useful to your lord before he realizes it in due course. This is the ideal approach because a close aide is like one of the lord’s family members. Conversely, a samurai who is not a close attendant cannot afford to serve in this way, as he will fall behind. He must work extra hard and try to be noticed by his superiors.
 
 ___________
@@ -327,7 +602,22 @@ All I did was value my lord above all else. Come what may, I was resolved in my 
 
 For a hereditary vassal, venerating one’s lord is a given, regardless if one is serving near or from afar. An increase in stipend or a gift of gold and silver from one’s lord is received with due appreciation; but more treasured than monetary rewards is a single kind word, which is enough to elicit the will to cut one’s belly \[upon his passing\].
 
+[^248]: Nabeshima Tsunashige, son of Mitsushige.
+
+
+
+
 When the Nabeshima retainers residing in the Edo estate were consigned fire duties,[^249] I was allocated the task of preserving documents. Yet, my lord saw the roster and requested, “As he is a young man, he will serve at my side,” in case of a fire. I knew at that point that I would gladly sacrifice my life for him. When we were stationed in Osaka together,[^250] my lord once gave me his sleeping garments and bedding. He said: “As I am unable to increase your stipend for your assistance in my diversions, please take these as a token of my gratitude. You need not express thanks to the elder councilors for this gift from me.” These kind words filled me with happiness and I thought, had it been in the old days \[before the prohibition of *junshi*\], I would eagerly follow him in death on this *futon* wearing these garments.
+
+[^249]: This was in 1685 when Jōchō was 27 years old.
+
+
+
+
+[^250]: In 1696, when Jōchō was 38 years old.
+
+
+
 
 ___________
 
@@ -345,19 +635,64 @@ ___________
 
 **68.** Never again will a man as wise as Sagara Kyūma appear on the scene. One could sense his wisdom just by laying eyes on him, but it became clearly evident the more you got to know him. Prince Mitsushige was enthralled by poetry. His grandfather, Lord Katsushige, warned him about his obsession, and ordered his elder councilors to home detention *\[for not discouraging him\]*.[^251] Those attending Mitsushige were summarily scolded. Kyūma was still in his youth and was Mitsushige’s playfellow. He reputedly declared: “Nobody knows the character of Tanshū[^252] better than I. He is an extraordinarily smart young master, but simultaneously short tempered and aggressive. Nothing can supplant poetry to assuage his temper. Poetry may actually help prolong the clan’s existence for many more generations.”
 
+[^251]: Baba Ichinosuke and Fukushima Gorōzaemon.
+
+
+
+
+[^252]: Nabeshima Mitsushige.
+
+
+
+
 Kyūma maintained this opinion throughout his years of loyal service. Later on, Lord Katsushige said: “When I scolded Tango-no-Kami’s[^253] servants, nobody uttered a single word in his defence. They are fools. There was a young man in the back who, judging by appearances, looked to be quite capable.” \(Note: This version of events differs to other accounts I have heard, and requires verification.\)
+
+[^253]: Yet another name for Nabeshima Mitsushige.
+
+
+
 
 ___________
 
 **69.** I tend to view new methods with suspicion, even if they are thought to be for the better.[^254] A member of Nakano Matabei’s former unit said: “Our captain labored to appoint and train 25 skilled archers.[^255] In spite of this, the unit was disbanded, and ten of the best 25 archers were incorporated into Sawano’s unit.[^256] The ten selected men amazed their new superiors because of their high level of expertise. We thought we could repay the debt of obligation to our former master through our outstanding skills. Still, the rest of us were dismayed at being reassigned to a firearms division. We broke our bows and vowed never to pick up a musket. One man was to be consigned to lead a 1-*koku ashigaru* unit, but everybody refused to go.[^257] I told them that ‘Although unmatched in archery, I am too old, and it would be rude to disobey a direct order from our lord, so I will volunteer to go.’ This is why I am no longer able to take up my bow and arrow.”
 
+[^254]: This comment is made in reference to the rearranging of *ashigaru* units in 1695. *Ashigaru* foot soldiers were low level combatants.
+
+
+
+
+[^255]: Jōchō’s uncle. He was archery instructor and the captain of an *ashigaru* unit. He died in 1695.
+
+
+
+
+[^256]: Sawano Shin’uemon. Captain of a unit of archers.
+
+
+
+
+[^257]: Perhaps referring to a unit captained by a samurai receiving a stipend of one *koku* of rice. A *koku* of rice or grain equals about 180.[^39] liters \(5.[^12] US bushels\), which was supposedly enough to feed one person for a year.
+
+
+
+
 He relayed this sorrowfully and with tears in his eyes. It is lamentable that such things go undetected by those in positions of authority, and the rank and file suffer as a result. Thankfully, the clan is first-rate so the men’s dissatisfaction will eventually dissipate because of our undying appreciation. Naoshige thought it especially important that harmony be maintained.
 
 A poll was taken to canvass who deserved credit for the victory at the battle in Arima.[^258] An inspector \(*o-metsuke*\) was assigned to each unit, but no one could agree. How can anyone determine who did what in the thick of battle? If the inspectors were not eminent warriors themselves, their verdicts would not be readily accepted. When Ishii Yashichizaemon began discussing the Shimabara Uprising in the meeting room of the Edo mansion, Kadota Ichirōzaemon happened to be there and said: “If anyone here arrived at the place of battle before me, speak now.” Ishii replied, “Perhaps your point of attack was different to the others.” In this way, countless acts of valor went unnoticed to the chagrin of many.
 
+[^258]: During the Shimabara Uprising of 1637–1638.
+
+
+
+
 ___________
 
 **70.** One day, a man visiting an inn complained that his *kōgai* had gone missing.[^259] His companion tried to appease him, and then escorted him away so that the host would not hear about it. The thief was discovered and punished. It would have been abysmal had the host been subjected to humiliation without checking all avenues first. Carefully consider the fittings \(*koshirae*\) on your sword, where you place them, and what to do in case you lose them.
+
+[^259]: *Kōgai* were small hairpins inserted in the scabbard of Japanese swords.
+
+
+
 
 ___________
 
@@ -369,11 +704,31 @@ ___________
 
 ___________
 
+[^260]: See Book 2-58.
+
+
+
+
 **73.** Even though it is normal for men who excel in the arts to see others as rivals, Hyōdo Sachū[^261] bestowed his title of “Master of Linked Verse” \(*renga*\) on Yamaguchi Shōchin.[^262] This act of humility was admirable.
+
+[^261]: A priest at the Yoga Shrine in Saga.
+
+
+
+
+[^262]: A townsman of the Rokuzachō district in Saga.
+
+
+
 
 ___________
 
 **74.** The priest Tannen[^263] hung a wind-chime in the temple saying, “I’m not dangling it there to enjoy the sounds. I put it up to know how strong and which way the wind is blowing in order to prevent fires. Fire is the main threat when charged with managing a big temple.” He walked around the precinct on nights when strong winds blew. For his entire life, he never let his smouldering *hibachi*264 go out, and he always kept a lantern and lighting stick at the ready by his pillow. He said, “People panic during emergencies, and there is nobody who can make a light quickly.”
+
+[^263]: See Book 1-39.
+
+
+
 
 ___________
 
@@ -384,6 +739,11 @@ ___________
 **76.** The extent of one’s courage or cowardice cannot be measured in ordinary times. All is revealed when something happens. \(Two stories regarding missions conveyed verbally.\)[^265]
 
 ___________
+
+[^265]: Probably referring to Jōchō’s two sojourns in Kyoto in 1686 and 1696.
+
+
+
 
 **77.** You won’t be able to serve effectively if your master doesn’t see you. How you are rated depends entirely on your faithful attitude. When Lord Mitsushige was angry, he would shower criticism on the object of his wrath, but I was never censured at all for as long as I was his attendant. The young prince \[Tsunashige\] often said to me, “You look like the type of fellow who will desert his master one day.” I assumed he was speaking from the heart, but he never once doubted my counsel after Lord Mitsushige died.
 
@@ -405,6 +765,11 @@ ___________
 
 **81.** The former \[Yamamoto\] Jin’uemon always used to say, “It is unacceptable for men of Saga not to pray to our ancestor Lord Nippō.[^266] Some men prayed to him even when he was still alive so that their dreams may come true. They were never disappointed.”
 
+[^266]: Another name for Nabeshima Naoshige.
+
+
+
+
 ___________
 
 **82.** Although deities shun impurity, I still prayed to them every day, entreating them for providence in battle should I have to fight soaked in blood, striding over rows of corpses. I thought it could not be helped if a god spurned me on account of bloody defilement, but I offered prayers notwithstanding in the hope that there were gods who would not mind.
@@ -423,6 +788,11 @@ ___________
 
 ___________
 
+[^267]: See Book 2-25.
+
+
+
+
 **86.** A man’s life is very short, so it is best to do what he enjoys most. It is foolhardy indeed to waste your life in this world between dreams, doing things you don’t enjoy as you endure the suffering. I take care when expressing such an opinion. I keep it to myself, lest young samurai hear it and adopt wrong ideas to their detriment. That aside, I like to sleep. Accordingly, I intend to confine myself to my quarters and spend more time napping.
 
 ___________
@@ -433,11 +803,21 @@ ___________
 
 **88.** Repentance is like pouring spilled water back into a container. I pitied the person who belatedly confessed to his crime of pilfering somebody’s *kōgai*.[^268] If only he had repented quicker, residue of his crime would have vanished for good.
 
+[^268]: See Book 2-70.
+
+
+
+
 ___________
 
 **89.** Those with a little understanding of things presume to know their own strengths and shortcomings. Because they identify themselves with people whom they deem to be of an even higher level of attainment, they believe they can determine the “limit” of their own lofty caliber, and with false modesty they label this as a fault. This eventually metastasizes into conceit. The priest Kaion Oshō remarked that it is difficult to genuinely discern your own virtues and faults.[^269]
 
 ___________
+
+[^269]: See Book 2-5.
+
+
+
 
 **90.** A quick glance at a man’s appearance will reveal the measure of his dignity. There is dignity in humility. There is dignity in calmness. There is dignity is reticence. There is dignity in proper comportment. There is dignity in graciousness. There is dignity in clenched teeth and piercing eyes. All of these features manifest externally, but their substance emanates from attentiveness and purity of mind.
 
@@ -449,9 +829,19 @@ ___________
 
 **92.** \[Yamamoto\] Gorōzaemon[^270] said: “Fundamental conditions for retainers don’t change, but the circumstances do, depending on the era. With their lordships Naoshige and Katsushige, all things big and small were well-defined—there was nothing they didn’t know, so no mistakes were made as long as their instructions were followed. If there was anything you didn’t understand, you only had to ask and they would teach you. They were convivial masters to serve. When it comes to lords lacking the requisite knowledge, retainers need to be resourceful and plan carefully to facilitate his effective governance. This can be rather taxing.”
 
+[^270]: Jōchō’s nephew.
+
+
+
+
 ___________
 
 **93.** Kazuma \(Toshiaki\)[^271] once said: “Some believe that using old utensils in a tea ceremony is dirty. New ones are cleaner. By contrast, there are those who maintain that older utensils should be used as they are not as garish as new ones. Both of these views are mistaken. In the case of an old utensil, although it may have been used by people in the lower classes in the past, it eventually comes into the possession of a man of high station because of its desirable quality. This trait is to be valued.”
+
+[^271]: Nakano Kazuma Toshiaki. See Book 1-51.
+
+
+
 
 The same can be said of retainers. A man of humble beginnings who has come to occupy a position of importance, will have earned his promotion because of his merits. As such, it is a grave mistake to think, “I am disinclined to work with such-and-such a man because of his lowly background.” Or, “He was merely a foot soldier until recently, so it is premature to make him a captain.” As a humble man embodies the qualities needed to elevate himself to a position of respect, he should be afforded more kudos than a man who inherits his status through birth.
 
@@ -467,9 +857,24 @@ ___________
 
 **96.** Don’t be ignorant of the clan, its inner workings, and the historical roots of your province. Depending on the situation, however, excessive knowledge may prove to be a hindrance. Discretion is mandatory. Knowing too much about everyday goings on may also be a burden. Mention of the dispute between Ishii Shingozaemon and Yamamoto.[^272] \(Details conveyed verbally.\)
 
+[^272]: It is uncertain what dispute is being referred to here. Ishii Shingozaemon was an attendant to Nabeshima Tsunashige.
+
+
+
+
 ___________
 
 **97.** The monk Shungaku[^273] remarked: “It is written that ‘Forcefully bellow STOP, and the power of two men will emanate from within.’ This is inspiring stuff. Something unable to be settled there and then will probably never be changed. When it is too demanding to straighten out matters with the power of one, it can be achieved by the strength of two. Nothing is reconciled through postponement. Another interesting tenet I read was, ‘Break through an iron wall with a roar and a step from the left foot.’[^274] Trample any problems underfoot from the first step from the left. Hideyoshi was the only man in the history of Japan with this kind of vitality and ability to seize the moment.”
+
+[^273]: See Book 1-49.
+
+
+
+
+[^274]: “Left foot” here implies “quick march.” Basically, the phrase means to seize the opportunity and act expediently.
+
+
+
 
 ___________
 
@@ -491,6 +896,11 @@ ___________
 
 If it is something that can be said on the spot, do so in a way that won’t cause offense. If he cannot be told, keep conversing without causing ire, and craft a logical response in your mind. This is how to develop sounder logic than others. Points concerning a man who severed ties with another \(relayed verbally\).[^275] This approach is different to “conjecturing,” “forestalling,” or “holding reservations.”
 
+[^275]: Possibly the dissolution of an adoption.
+
+
+
+
 ___________
 
 **102.** Master Jōchō offered his estimation to a samurai. “It is good that you exceed your contemporaries in terms of moral conduct and discretion, but always seek further improvement. It would be a shame if you stay as you are now. Your penchant for the arts, however, shows that your aspirations are lower than what is expected for a samurai. That is, if you excel in whatever art, you will serve your master using that talent instead of shining as a warrior like generations of your ancestors. In essence, this means you are little more than an entertainer; which is why I tell people that excellence in an art is cause for ruin as a samurai. Of course, that wouldn’t be so bad for a lower ranked warrior. I am urging you to step up so that you are regarded as a true samurai. Being recognized as a consummate servant, you will be chosen by the chief retainers for special missions. They will even pardon your past blunders if someone more suitable is unavailable. What can be a greater example of loyalty than contributing ideas for supervising domain affairs? Your determination to be unequalled among peers will make you useful to your master even if you are not selected for a given task, and you may even be privately consulted on important matters. It is great loyalty to be able to placate such demands and offer guidance. An unfaltering retainer will not be discarded, even if only marginally superior to others. Keep this in mind and aim higher.”
@@ -504,6 +914,11 @@ Master Jōchō replied, “It is easy. Stay alert every moment without ever lett
 He responded, “Yes, but that monk is clever indeed,” to which Jōchō said, “You cannot accomplish anything of consequence because you say such feeble things. What is so special about the monk? Regardless of how formidable your foe may be, don’t give him an inch. Otherwise you will never prevail.
 
 “It is interesting that Yoshitsune[^276] talked of ‘valor,’ ‘wisdom,’ and ‘benevolence.’ These three virtues are important for men under the age of 40, even in this day and age. Those over 40 who are not yet noticed by their lord should continue to attach value to these qualities, or they will remain unestablished to the end. This monk became famous simply because he was known for these three qualities.
+
+[^276]: Minamoto-no-Yoshitsune \(1159–1189\), a principal figure in the Taira-Minamoto War. The younger brother of Yoritomo, founder of the Kamakura bakufu, Yoshitsune is exalted in legend as a great warrior and is still considered Japan’s foremost tragic hero.
+
+
+
 
 “When it comes to your lord, chief retainers, or elders, avoid criticizing them publicly. Even if their remarks are unreasonable, do not pass judgment to others. The loyal course of action is to acquiesce, even if their logic is flawed, and sing their praises so that others feel a sense of attachment. It is disobliging to plant seeds of doubt in people’s minds. People are fickle. If one person offers praise, others will quickly follow suit. The same can be said about criticism, and folk are hasty to lower their estimation when someone is brought into disrepute.
 
@@ -535,6 +950,11 @@ ___________
 
 ___________
 
+[^277]: This is related to the episode mentioned in Book 1-26.
+
+
+
+
 **109.** Discrimination, harboring animosity, and causing others to feel estranged is born of a lack of compassion. Conflict won’t rear its ugly head if everything is enveloped in compassion.
 
 ___________
@@ -563,9 +983,34 @@ ___________
 
 **114.** Lord Ikoma Iki-no-Kami’s[^278] chief retainer, Maeno Sukezaemon, was guilty of perpetrating a crime. Ikoma Shōgen reported it to the shogunate, and after the court-martial, Sukezaemon was sentenced to death by decapitation. Lord Ikoma’s domain was confiscated, and his stipend was downgraded to 10,000 *koku*.
 
+[^278]: Lord of the Takamatsu domain of 70,000 *koku*.
+
+
+
+
 I thought Shōgen’s intentions were loyal when I read the report, but his actions resulted in his lord’s ruin. If he hadn’t notified the shogunate of the incident, his lord would have held out with two or three loyal vassals.[^279] Together they could have continued to take steps to protect the clan come what may. If he felt compelled to take action, he could have slain Sukezaemon after revealing all to the other retainers. That way, his lord’s name would not be dragged through the mud. There is a saying, “Killing the ox by trying to fix the angle of its horns.” This applies to Shōgen’s actions.
 
+[^279]: Some versions of *Hagakure* say “two or three years” here, rather than indicating two or three vassals.
+
+
+
+
 The monk Kaion[^280] said: “When I asked Fushū[^281] why he was the only retainer who didn’t wish to take part in the gathering to remonstrate with the lord, he replied: ‘There is a proper way to advise one’s lord. If all the retainers congregate for this purpose, it is the same as announcing to the whole world that your master committed wrongs. In all probability, people of the highest status \(lords\) will mature into selfish men with many foibles because they have always got their own way.[^282] Still, most of them aren’t venal enough to bring about the demise of their fief. In many cases, if the attendants fuss over trying to mend the lord’s ways, the rest of the world will become aware of the problems, and the domain will be lost. The aforementioned deliberation was canceled in the end, but did anything bad happen as a result?’”
+
+[^280]: See Book 2-89.
+
+
+
+
+[^281]: See Book 1-7.
+
+
+
+
+[^282]: In this case, he is referring to Lord Mitsushige.
+
+
+
 
 By and large, an ambitious vassal seeks to admonish his lord because it will be thought of as an act of merit, or because he has been coerced by others. A loyal remonstration should be courteous and discrete so that it is received with good grace. If your lord refuses to listen, then do your best to obscure his failings. Take his side as his advocate, and ensure that no rumors arise to defile his name. Often it is the case that retainers become belligerent, and they turn their backs when their lord doesn’t heed their counsel. Making a commotion is the most perfidious kind of behavior for a retainer. Perhaps due to our curiously providential origins, even when something deleterious occurs, it somehow always ends well for the Nabeshima clan.
 
@@ -577,6 +1022,16 @@ ___________
 
 **116.** A grovelling flatterer forcefully applies his knowledge for nefarious purposes, and misleads his lord to climb the ladder of success. At first glance, it is hard to determine the evildoing of a panderer who seeks only the favor of his lord. Because it is difficult to identify manipulative intentions, even the notorious Ōga Yashirō[^283] was able to dupe Lord Gongen.[^284] Sly men of this stripe are often found among newly employed retainers or upstarts, but are rare among hereditary vassals or those of high station.
 
+[^283]: Ōga Yashirō \(?–1574\) is known as a traitor who plotted to allow the enemy, Takeda Katsuyori, into Tokugawa Ieyasu’s castle in Okazaki.
+
+
+
+
+[^284]: Tokugawa Ieyasu.
+
+
+
+
 ___________
 
 **117.** Jin’uemon used to say “One should not bother bringing up daughters. They may stain the family name, and disgrace the parents \[after they are married off\]. The oldest daughter is special, but any others should be discarded.”
@@ -585,13 +1040,33 @@ ___________
 
 **118.** According to the priest Keihō,[^285] Lord Aki[^286] once said that “Valorous exploits can only be achieved by becoming a ‘madman.’ ” I was astonished to hear how close his belief was to my own, and it made me even more determined to become a “madman” \(*kichigai*\) in service.
 
+[^285]: A priest at the Kōdenji Temple.
+
+
+
+
+[^286]: Nabeshima Aki-no-Kami Shigemasa \(1571–1645\).
+
+
+
+
 ___________
 
 **119.** The former Nakano Kazuma[^287] said: “The original purpose of the tea ceremony is to purify the six senses. The eyes are cleansed by looking at the scroll and flower arrangement in the tearoom, the nose by smelling the incense, the ears by listening to the sound of the hot water being poured, the mouth by the taste of the tea, and the arms and legs by correctness in etiquette and form. As the five senses have thus been cleansed, next, the mind’s sensibilities will also be purified as a matter of course. The tea ceremony will sanitize the mind when it is choked with superfluity. I never deviate from the ‘heart of tea’ at any hour of the day, but not because it is simply a pastime. Also, the utensils used in the ceremony should conform to one’s social standing.
 
+[^287]: See Book 2-93.
+
+
+
+
 There is a poem about plum blossoms: ‘Beneath the deep snows in the village that lies before, many branches of the plum tree flowered last night.’ The lavish phrase ‘many branches’ was changed to ‘a single branch.’ This conveys equanimity and refinement.”[^288]
 
 ___________
+
+[^288]: During the Period of Five Dynasties \(ad 907–960\) a period of upheaval in China, between the fall of the Tang Dynasty and the founding of the Song Dynasty, the famous poet Zheng Gu \(?–896?\) read the poem, and thought it would be aesthetically more pleasing if “many branches” was rephrased to “one branch.”
+
+
+
 
 **120.** If a man to whom you are obliged to—a friend or an ally—has transgressed in some way, you should secretly admonish him, but cover for him by publicly praising him as a one-in-a-thousand ally with no peer. By reproaching a man privately, his faults can be remedied and he will eventually be rehabilitated into a worthy fellow. Offering praise will encourage him to redeem his ways, and he will cease any further wrongdoing. In this way, it is important to sit within the precincts of compassion and help him rectify his conduct.
 
@@ -613,11 +1088,21 @@ ___________
 
 One time in Kyoto, Genzō[^289] forced his views on Ezoe Shōbei when they were getting drunk. Genzō had a habit of becoming impertinent when indulging in alcohol. The next morning, Shōbei took his short sword and tried to force his way into Genzō’s house to kill him. Motomura Buemon heard about this, and escorted Shōbei back to his quarters after calming him down.
 
+[^289]: Ushijima Genzō Naotaka was an official for books of poetry \(*kasho-yaku*\) and was a custodian in Kyoto. When Mitsushige died, he also took the tonsure with Jōchō, assuming the name Itchū.
+
+
+
+
 Buemon then came to see me and asked, “What in heaven’s name should I do?” Then Genzō also showed up and inquired, “Is Shōbei here. Apparently he came to my house before and made quite a hullabaloo, but my stupid servants didn’t inform me. I decided to come here having only just heard about the commotion.” He wanted to visit Shōbei’s residence but I stopped him. “You should go back. Leave it up to me. First, I will ask Shōbei what is irking him, and then tell you what he said.” He did as he was instructed.
 
 When Shōbei was summoned, he relayed his side of the story. “Telling people of their errors in front of others does not equate to ‘offering an opinion.’ I’m convinced he’s is trying to humiliate me because he holds a grudge. I wanted to ask him directly why he resents me.”
 
 I replied, “I see. A fair explanation. Nonetheless, Genzō does not bear a grudge against you. He has an annoying tendency to give ‘opinions’ when he is drunk. Nagayama Rokurō has a bad habit of drawing his sword after drinking too much. Habits come in various forms. Where is the loyalty in wreaking revenge over something as trivial as a drunken outburst resulting in the loss of two of the lord’s precious retainers?[^290] You are a man who has received His Lordship’s largesse. Are you not duty-bound to repay this favor? There is no need to lose face. I will ask what was in Genzō’s heart, and inform you of what he said.” He then returned to his home to wait.
+
+[^290]: If Shōbei had killed Genzō because of the incident, custom dictated that he also commit *seppuku* to atone for his transgression.
+
+
+
 
 Telling Genzō what Shōbei said, he replied: “I have no recollection of what came to pass last night. I hold no antipathy towards him whatsoever.” To which I replied, “I will pass this on to Shōbei. As he was so contemptuous to you, his captain, I ask that you take a lenient stance on account of his young age. I will warn him to show more prudence from now on.” I informed Shōbei of what transpired, and the matter ended there.
 
@@ -634,6 +1119,11 @@ If you are called a “fool,” merely counter by calling the other a “knuckle
 Let it also be said that a drunkard will find it difficult indeed to pick a fight with a deadly serious man.
 
 A few years ago when two men were on guard duty at the castle, one teasingly called the other a “cross,” an object upon which common criminals are executed, making his blood boil. Infuriated, the slighted man decided to kill him. Gorōzaemon[^291] and Naridomi Kurando were on night duty and learning of the incident, they intervened and made the troublemaker apologize forthwith.
+
+[^291]: Yamamoto Tsuneharu, Jōchō’s nephew.
+
+
+
 
 If the insulted man had retorted something like, “And you sir, are but a ‘stake’ for burning sinners,” then nothing more would have happened. Remaining tongue-tied is a sign of weakness. Take care of how you say things, and what is articulated in the moment.
 
@@ -655,6 +1145,11 @@ ___________
 
 **127.** Once, five or six of the lord’s pages[^292] were traveling by boat. They collided with another transport vessel in the night. Five or six of the vessel’s deck hands boarded the boat and insisted that they “relinquish their anchor in accordance with protocol.” The pages replied angrily, “That ‘protocol’ is for seadogs like you. How can you dare to think to take equipment from a samurai ship? We will cut you all to pieces and throw you in the sea.” Following this threatening outburst, the deckhands scurried back to their own boat.
 
+[^292]: *Kogoshō* \(pages\) were young pre-*genpuku* boys who served as attendants to the lord.
+
+
+
+
 There are ways in which a warrior should act at times. In trivial matters, it is best to resolve the problem by bellowing with a loud, forceful voice. If you overreact and take too long to clear up a petty problem, you will ‘miss the boat’ thereby slowing you down in your mission, and you will be worse off for it.
 
 ___________
@@ -663,9 +1158,24 @@ ___________
 
 ___________
 
+[^293]: See Book 1-110, Book 2-16, and Book 2-114.
+
+
+
+
 **129.** Shōgen[^294] always said: “Rooted in the word ‘*kan*’ \(remonstrance\) are self-seeking desires. There can be no altruistic remonstration.” Nobody knows if Shōgen remonstrated with his lord. He did not once attempt to influence him by forcing reason. He always conferred in private to elicit his understanding.
 
+[^294]: Nakano Shōgen Masakane was an elder councilor under Nabeshima Mitsushige.
+
+
+
+
 Also, Nakano Kazuma Masatoshi[^295] never sought to take his lord to task with brash admonishments under the guise of “service.” Instead, he would covertly offer advice at a well-timed moment, away from the ears of others. His guidance was always received graciously. The lord’s iniquities were thus never exposed because nobody knew what went on.
+
+[^295]: A minister who served under Nabeshima Katsushige.
+
+
+
 
 To try and forcibly convince your lord through personal interpretations of reason is “great disloyalty.” This is because the underlying motivation is to make a show of allegiance at the expense of the lord’s reputation. As the details become known, the lord’s honor will be sullied if he does not heed the petition; whereas the name of the ‘loyal’ retainer will be well-known. The outcome is worse than if no remonstrance is given in the first place.
 
@@ -674,6 +1184,11 @@ If advice offered in private is not readily accepted by the lord, the retainer s
 ___________
 
 **130.** A retainer must pledge to “Amend the minds of all the people in the domain so that no one is disloyal or immoral, and serve his master well so that all can live peacefully.” This was the aspiration of Yi Yin.[^296] He was a paragon of “great loyalty” and “great compassion.” To correct the ways of other people is harder than rectifying your own. First, you must be amiable with everyone. The key is to be “secretly loved” by being on good terms with those you are close to, as well as those you are not so well acquainted with. I can say from experience that it is easier to accept opinions from those whom you can empathize with.
+
+[^296]: Yi Yin was a minister of the early Shang Dynasty \(1600?–1046 bc\), and was one of the most revered officials of the time. He helped Tang, first king of the Shang dynasty, defeat King Jie of Xia.
+
+
+
 
 When making a suggestion, it should be in accordance with his circumstances and character. Keep his temperament in mind, and start with something that he might like to hear. There are many ways to make your point. If you speak of a man’s foibles in an accusatory manner, he most likely won’t pay attention to you. Why would he feel gratified if you are condescending, and treat him as if he is flawed?
 
@@ -693,6 +1208,11 @@ ___________
 
 **131.** All men are predisposed to fail in important tasks through impulsiveness. Have a mind to persevere for as long as it takes, and your work will get done in due course, often sooner than you think. Your time will come. Think ahead about 15 years. The state of the world will be much different. It might not change as much as it is forecasted in books such as the *Miraiki*.[^297] Still, the expedient men of today will no longer be around in 15 years, and only half of the young samurai with us now will still be alive then.
 
+[^297]: A book that prophesied about the future.
+
+
+
+
 As the world deteriorates, men’s capabilities are also waning. Just as silver replaces gold when the latter is depleted, copper will also eventually replace silver. The worth of men is fading with the times. Perseverance and grit shown now will help a young samurai surpass his peers. This means he will be a capable retainer in a mere 15 years. Fifteen years is in the middle of a dream. As long as one is able to remain in good health, an enduring wish to serve as a valuable retainer will come true. It’s challenging to outshine so many exceptional colleagues now. But, it will be relatively straightforward to stand out in 15 years with so few rivals left.
 
 ___________
@@ -700,6 +1220,11 @@ ___________
 **132.** If you apply yourself in fixing somebody’s bad habits, his behavior will change for the better. Like a digger wasp, it is said that even an adopted child’s resemblance to you will eventuate through tenacious proselytizing to follow your example.[^298]
 
 ___________
+
+[^298]: *Jigabachi*, or digger wasp, which is known for its ability to paralyze insects and implant their eggs.
+
+
+
 
 **133.** When crafty retainers become powerful, or when some evil act committed by a superior, acrimony will often infiltrate the lower ranks of vassals who had nothing to do with it. They will become languid in their duties, and spend their time engaging in idle tittle-tattle. It is crucial to be particular with one’s words at times such as this.
 
@@ -713,6 +1238,11 @@ ___________
 
 **134.** Strength of will aligns your words and deportment with the Way. You will be commended by others as being a true adherent. When inquiring into your own heart there is the last phrase of a poem that goes, “How will you reply when your own heart asks questions?”[^299] This is the ultimate teaching for all arts, and it is a fine regulator of one’s behavior.
 
+[^299]: See Book 1-40.
+
+
+
+
 ___________
 
 **135.** Pin your ears back and respectfully pay attention when listening to stories of old men, even if you have heard them before. Certain things will strike at your heart after listening 10, 20, or 30 times. It is a special moment when the epiphany comes. They might be the ramblings of old men, but they contain the wisdom of samurai who achieved epic feats in their day.
@@ -723,7 +1253,27 @@ ___________
 
 There was a man who attended his lord’s wife. When Her Ladyship died, he did not shave his head, justifying his stance by proclaiming, “My Lord said I should not.”[^300] Nevertheless, other servants dispatched by her father, a lord in another clan, whose relationship was more distant than his, did shave their heads. It was not good form that only they take holy orders, so the attendant was forced to follow suit.
 
+[^300]: That is, to retire from service and leave the mundane world by taking the tonsure, and spend one’s days praying for the repose of the deceased’s soul.
+
+
+
+
 In this case, even though the lord declared that he need not relinquish his post and shave his head, he should have disobeyed him. It was immaterial what the lord and senior advisors thought. When Her Ladyship Denkōin[^301] died, six of her male and female servants followed her in death, and long before this Yatsunami Musashi[^302] also resolved to commit *oibara*.[^303] Resolutely proclaim: “It affects His Lordship’s honor, so I will disregard such a directive.”
+
+[^301]: Katsushige’s daughter, who married Uesugi Sadakatsu \(1604–1645\). She died in 1635.
+
+
+
+
+[^302]: Formerly a retainer of Hata Nobutoki, he later entered the service of the Nabeshima clan.
+
+
+
+
+[^303]: This incident is related to when Yatsunami Musashi was tasked with escorting Oyasu, the adopted daughter of Ryūzōji Takanobu \(1529–1584\), to her arranged wedding with Hata Mikawa-no-Kami of Karatsu to form a familial alliance. She became very ill on route, and Musashi avowed to follow her in death to save the reputation of the province should she die on his watch. See Book 8-47.
+
+
+
 
 ___________
 
@@ -739,6 +1289,26 @@ He retorted, “Retainers in the Saga domain these days sleep until late morning
 
 He then argued, “Even though we warriors of the Saga domain boast of our unmatched valor, is this not our own prejudiced view unknown to others? Is it written about anywhere other than here?” I answered, “The intrepid martial spirit of Nabeshima warriors has indeed been chronicled for posterity. Recall the battle at Shimabara saw 400 of our men slain.[^304] This exceeds the number of men killed in action at the fall of Kamakura \(Genkō Incident\), which saw the demise of the Hōjō family.[^305] Surely, this is testament to the Nabeshima fighting spirit. In addition, Lords Taikō[^306] and Gongen[^307] rewarded us for our valor on a number of occasions. Evidence of Nabeshima heroism is incontravertible.”
 
+[^304]: Not to be confused with the Shimabara Uprising of 1637–1638 in which Nabeshima warriors were mobilized by the bakufu to quell the Christian-inspired peasant uprising. This “Battle of Shimabara” took place in 1584 and pitted the Saga forces against Shimazu Iehisa of the Satsuma province. The Saga warriors were defeated, and Ryūzōji Takanobu \(1529–1584\), daimyo of the Hizen province, was killed.
+
+
+
+
+[^305]: The Genkō Incident \(1331–1333\) led to the fall of the Kamakura shogunate. After returning from exile, Emperor Go-Daigo was determined to restore imperial rule and successfully enlisted the help of Ashikaga Takauji, the Kamakura general sent to suppress his rebellion. Nitta Yoshisada, who was in turn directed to punish them both, instead marched on Kamakura and destroyed the Hōjō regency and the Kamakura shogunate. Go-Daigo then instigated the Kemmu Restoration \(1333–1336\), which marked the formation of the Muromachi shogunate.
+
+
+
+
+[^306]: Literally meaning “retired regent,” this was a commonly used name for Toyotomi Hideyoshi \(1536–1598\). Hideyoshi employed the services of Nabeshima Naoshige and his son Katsushige in his Korean campaigns.
+
+
+
+
+[^307]: Another name for Tokugawa Ieyasu \(1542–1616\) after his enshrinement in the Tōshōgū Shrine in Nikkō. At the Battle of Sekigahara in 1600, Nabeshima Katsushige changed allegiance to support Ieyasu, thereby contributing to this crucial victory, and paving the way for the establishment of the Tokugawa shogunate.
+
+
+
+
 A samurai who spends an extended period of time away from service, so it seems, will become jaded and harbor hatred against he who caused his suffering. He will talk disparagingly of his lord, which is why his luck expires rendering him unlikely to be reinstated.
 
 ___________
@@ -749,517 +1319,8 @@ ___________
 
 **140.** As I mentioned in *Gukenshū*,[^308] the highest level of service is to be able to advise the lord through the position of *karō* \(chief retainer\). Engaging in trivialities can be forgiven as long as one understands this. Still, nobody seems to grasp what this means. There are flatterers who curry favor with the lord and senior retainers through mercenary desires for advancement, but their aspirations are limited, and they do not seek the lofty heights of becoming a chief retainer. Some with more gumption disavow ambitions for success and become reserved in their service, preferring instead to read books such as *Tsurezuregusa*309 and *Senshūshō*.[^310] Kenkō and Saigyō were no more than lily-livered cowards. They masqueraded as writers because they were afraid to serve as samurai. A man who has renounced the world to become a monk, or old men retired from duty, may become absorbed in such books. But to be a useful vassal to his lord, a warrior must be completely devoted to him amidst his pursuit of glory, or even after falling into the chasms of hell.
 
-___________
-
-**141.** As my father was already 70 when I was born, he remarked: “I might just bequeath the lad to someone like a salt merchant.” When Taku Zusho[^311] overheard this, he chided him by saying, “Lord Katsushige often says that you, Jin’uemon, are a dedicated but unassuming retainer, serving from the shadows. Such dependable service will ensure that your offspring are looked after, and remain helpful to the lord.” Following this, he bestowed upon me the name “Matsukame,” and Edayoshi Rizaemon performed the *hakama-tsuke* ceremony on my behalf.[^312]
-
-From the age of nine, I was summoned as a page for Lord Mitsushige, whereby I was called “Fukei.” When I attended Master Tsunashige I would jump onto the *kotatsu,*313 creating mischief, and we would carry each other on our backs. Everybody viewed me as an out-and-out ragamuffin.
-
-When I became 13, I was ordered by Lord Mitsushige to raise my forelocks.[^314] I confined myself to my quarters for one year, after which I reported back for duty as a page on the first day of the fifth month with my new name of “Ichijū.” After that, Kuranaga Rihei assisted me as my *eboshi-oya*315 in the *genpuku* ceremony, and then facilitated my appointment as his assistant scribe. Thanks to his gracious intercession, Rihei announced: “As you can also compose poetry Gon’nojō,[^316] the young Prince Tsunashige has asked that you serve him.” This meant a temporary cessation of my duties. I learned later that his intention was to have me replace him in this post.
-
-In any case, being dismissed I was not invited to accompany Lord Mitsushige to Edo, so was left dangling in the wind and very disheartened about my prospects. At that time, the priest Tannen[^317] was residing in Matsuse. As he was on friendly terms with my late father, he was asked to look out for me, and I often paid him a visit. I even contemplated becoming a monk myself.
-
-Seeing my predicament, I heard that Yamamoto Gorōzaemon[^318] had a private conversation with Nakano Kazuma about sharing some of the land left by my father. Just as I had sworn upon Hachiman, the god of war, that I would never accept such a handout, I was suddenly called to the domain administration office and informed that I would be receiving an extra rice stipend. \(Two others received the same as me.\)
-
-As a samurai, it would not do to be looked down upon as lowly, so day and night I thought of ways to excel in service. I visited Gorōzaemon every evening to chat. Gorōzaemon said one night, “I heard from an old-timer that ‘A man who seeks only fame and power \(*myōri*\) is not a true retainer. Then again, he who doesn’t is not a true retainer either.’ This contradiction warrants serious contemplation.” After thinking about his counsel carefully, the answer suddenly dawned on me.
-
-I realized the ultimate responsibility of a vassal is to petition his lord when necessary for the upkeep of the domain. One cannot do this while floundering at the bottom of the retainer ladder. Thus, working one’s way to the top as chief retainer \(*karō*\) was the supreme paradigm of service. It became clear that a retainer should pursue fame and authority, not for personal gratification, but for the purpose of singular service. I resolved to reach the exalted position of chief retainer. It has always been remarked that a young man promoted to a high position of responsibility too quickly generally betrays the expectations placed on him. So, I worked hard day in, day out, shedding not quite crimson tears, but yellow ones of grief, so that I might be recognized in my fifties. My training and procedures were consistent with the principles of the Kakuzō style[^319] of *jūjutsu*.[^320]
-
-As I noted in *Gukenshū*, those retainers who were punished after His Lordship’s death brought this divine retribution upon themselves through their narcissism. Although it may appear that this rendition of my life is immodest, providence has driven me to where I am, and I relate it to you unreservedly as a monk in idle conversation.
-
-___________
-
-The next morning:[^321]
->
-> ****
-
-> *Partake of this simmering rice gruel, savoring the warm sentiment of this winter sanctuary* \(Kisui\)[^322]
-
-> ****
-
-> *Wilted stalks of morning glory smoldering in the hearth, our hearts alight* \(Komaru\).[^323]
-
-__________
-
-
-
-[^190]: A retainer of Nabeshima Motoshige, a son of the first lord of the Nabeshima domain, Katsushige.
-
-
-
-[^191]: A term for *jūjutsu*, or the art of unarmed combat. *Torite* or *toride* are also other names for the grappling arts.
-
-
-
-[^192]: See Book 2-34. This is in reference to love between males.
-
-
-
-[^193]: An allusion to cremation after death.
-
-
-
-[^194]: A chief retainer of Nabeshima Katsushige.
-
-
-
-[^195]: Ryōi was the eleventh priest at the Kōdenji Temple who guided Jōchō in taking his Buddhist vows. They resided together at the Sōanji hermitage after Mitsushige’s death. He became the head priest of the Daijōji Temple in 1709, and moved back to the Sōjuan in 1714.
-
-
-
-[^196]: Gyōjaku became the head priest of the Kōdenji Temple after Ryōi.
-
-
-
-[^197]: An unlined cotton summer *kimono*.
-
-
-
-[^198]: The sixteenth priest of the Kōdenji Temple.
-
-
-
-[^199]: See Book 2-55 and Book 2-87.
-
-
-
-[^200]: 1713.
-
-
-
-[^201]: This is in reference to Toyotomi Hideyoshi’s invasions of Korea \(1592 and 1597\). Hideyoshi built a fortress in Hizen-Nagoya. Note that this is a location in Saga, not the city of Nagoya in modern day Aichi Prefecture.
-
-
-
-[^202]: Lord of Inuyama Castle in the Owari domain, in the northwest of modern day Aichi Prefecture. He was a vassal of Tokugawa Ieyasu.
-
-
-
-[^203]: See Book 1-51.
-
-
-
-[^204]: Sagara Kyūma.
-
-
-
-[^205]: Harada Kichiuemon was a celebrated retainer of the first three lords.
-
-
-
-[^206]: Itagaki Nobukata \(1489–1548\) was a retainer of the Takeda clan who served both Nobutora and Shingen, becoming one of Shingen’s famed “24 generals.”
-
-
-
-[^207]: Akimoto Takatomo \(1682–1699\) was a “junior elder” \(*waka-doshiyori*\) of Tokugawa Tsunayoshi, the fifth Tokugawa shogun.
-
-
-
-[^208]: Tokunaga Suke’uemon was Tashiro Tsuramoto’s uncle on his mother’s side.
-
-
-
-[^209]: In the Koyama and Yamamoto copies of *Hagakure*, these two sections \(19 and 20\) are joined as one.
-
-
-
-[^210]: *Shini-gurui*.
-
-
-
-[^211]: This is referring to *Torinoko-chō*, a rulebook written by Nabeshima Katsushige.
-
-
-
-[^212]: Ezoe Hyōbuzaemon was one of 13 loyal retainers who committed *seppuku* following the death of Nabeshima Noashige in 1618.
-
-
-
-[^213]: This was in 1698 and 1699. Jōchō was sent to Kyoto a number of times.
-
-
-
-[^214]: See Book 1-98.
-
-
-
-[^215]: See Book 1-162.
-
-
-
-[^216]: These phrases are quoted from the *Hannya Shingyō*, or Heart Sutra, originating in Mahāyāna Buddhism.
-
-
-
-[^217]: See Book 2-2.
-
-
-
-[^218]: *Renga* is a genre of Japanese collaborative poetry which consists of at least two stanzas, but usually many more.
-
-
-
-[^219]: Humorous or vulgar *renga* poetry.
-
-
-
-[^220]: *Kyōka* is a form of “humorous *tanka*,” a genre of classical Japanese poetry. *Tanka* consist of five units usually with the pattern of 5-7-5-7-7.
-
-
-
-[^221]: This is a comment added by Tashiro Tsuramoto. *Koshiore* was a common phrase used as a show of humility when introducing one’s poetry. The inference is that warriors need not show humility in such cases.
-
-
-
-[^222]: Uesugi Kenshin \(1530–1578\) was a warlord who ruled Echigo province during the Warring States period. He was highly respected for his strategic and administrative ability. His rivalry with Takeda Shingen became legendary, and although mortal enemies, they both harbored an intense respect for each other.
-
-
-
-[^223]: Jōchō’s father was 70 years old when he was born.
-
-
-
-[^224]: An expression that implies a short lifespan.
-
-
-
-[^225]: See Book 1-115.
-
-
-
-[^226]: Jōchō’s teacher of *waka* verse.
-
-
-
-[^227]: This sentence employs a play on words. *Haji wo kaku* can mean “to write the character for ‘shame’” and to “bring shame.”
-
-
-
-[^228]: See Book 2-7.
-
-
-
-[^229]: The Bon festival is a Japanese Buddhist custom to honor and appease the spirits of dead ancestors. Thus, the inference here is that human beings can die at any time.
-
-
-
-[^230]: Yagyū Munenori. See Book 1-45.
-
-
-
-[^231]: Probably Tashiro Tsuramoto’s opinion, although it is not clearly stipulated.
-
-
-
-[^232]: See Book 1-11.
-
-
-
-[^233]: Clan elder.
-
-
-
-[^234]: Some versions of *Hagakure* refer to writing rather than speech. See Book 2-12.
-
-
-
-[^235]: Probably referring to an incident that happened on the fourteenth day, seventh month in the third year of Shōtoku \(1713\), in which Hara Jūrōzaemon killed Sagara Gentazaemon as preparations were being made in the kitchen for the Bon festival. This episode is recorded in Book 11-104.
-
-
-
-[^236]: Yamamoto Jin’uemon Yoshitada. Jōchō’s father.
-
-
-
-[^237]: This is referring to the execution of 80 adherents of Christianity in 1658 in the village of Ōmura. The anti-Christian inquisition was one of the most pronounced elements of the Tokugawa bakufu’s policy of national seclusion. Christians were forced to apostatize, and those who refused to denounce their faith were tortured until they recanted, or were executed. According to Book 6-201, Mitani Yozaemon was suddenly ordered to decapitate three of the unfortunate captives, and did so exhibiting “unparalleled skill.”
-
-
-
-[^238]: According to *Taiheiki*, Nitta Yoshisada achieved the remarkable feat of cutting off his own head, burying it in the ground, and then dying straddled over his grave\!
-
-
-
-[^239]: See Book 1-120.
-
-
-
-[^240]: Benzaiten is the Japanese name for the Hindu goddess Saraswati. The goddess is worshipped in Shinto as the *kami* Ichikishima-Hime-no-Mikoto, and in Tendai Buddhism as Ugaijin. Jōchō brought a statue of Benzaiten carved by a Buddhist priest back to Mount Sefuri in Saga in 1697.
-
-
-
-[^241]: In 1706, Nabeshima Yugie invited Ishii Den’emon, an elder councilor \(*toshiyori*\), and others to a bawdy drinking party attended by his mother when Lord Nabeshima Tsunashige was in Nagasaki. Ishii Den’emon was dismissed from his post, and Yugie was placed under house arrest as a result. This story is recorded in Book 7-23.
-
-
-
-[^242]: The post of administrative facilitator for the clan based in Edo.
-
-
-
-[^243]: There is no other information about this particular incident.
-
-
-
-[^244]: This is referring to Jōchō’s *Sōan Zatsudan Oboegaki*. A remaining copy of this document consists of 107 articles.
-
-
-
-[^245]: Nabeshima Naoyoshi \(1622–1689\) was the second daimyo of the Nabeshima Ogi sub-domain.
-
-
-
-[^246]: See Book 1-195.
-
-
-
-[^247]: A master of linked verse \(1421–1502\).
-
-
-
-[^248]: Nabeshima Tsunashige, son of Mitsushige.
-
-
-
-[^249]: This was in 1685 when Jōchō was 27 years old.
-
-
-
-[^250]: In 1696, when Jōchō was 38 years old.
-
-
-
-[^251]: Baba Ichinosuke and Fukushima Gorōzaemon.
-
-
-
-[^252]: Nabeshima Mitsushige.
-
-
-
-[^253]: Yet another name for Nabeshima Mitsushige.
-
-
-
-[^254]: This comment is made in reference to the rearranging of *ashigaru* units in 1695. *Ashigaru* foot soldiers were low level combatants.
-
-
-
-[^255]: Jōchō’s uncle. He was archery instructor and the captain of an *ashigaru* unit. He died in 1695.
-
-
-
-[^256]: Sawano Shin’uemon. Captain of a unit of archers.
-
-
-
-[^257]: Perhaps referring to a unit captained by a samurai receiving a stipend of one *koku* of rice. A *koku* of rice or grain equals about 180.[^39] liters \(5.[^12] US bushels\), which was supposedly enough to feed one person for a year.
-
-
-
-[^258]: During the Shimabara Uprising of 1637–1638.
-
-
-
-[^259]: *Kōgai* were small hairpins inserted in the scabbard of Japanese swords.
-
-
-
-[^260]: See Book 2-58.
-
-
-
-[^261]: A priest at the Yoga Shrine in Saga.
-
-
-
-[^262]: A townsman of the Rokuzachō district in Saga.
-
-
-
-[^263]: See Book 1-39.
-
-
-
-[^264]: Brazier.
-
-
-
-[^265]: Probably referring to Jōchō’s two sojourns in Kyoto in 1686 and 1696.
-
-
-
-[^266]: Another name for Nabeshima Naoshige.
-
-
-
-[^267]: See Book 2-25.
-
-
-
-[^268]: See Book 2-70.
-
-
-
-[^269]: See Book 2-5.
-
-
-
-[^270]: Jōchō’s nephew.
-
-
-
-[^271]: Nakano Kazuma Toshiaki. See Book 1-51.
-
-
-
-[^272]: It is uncertain what dispute is being referred to here. Ishii Shingozaemon was an attendant to Nabeshima Tsunashige.
-
-
-
-[^273]: See Book 1-49.
-
-
-
-[^274]: “Left foot” here implies “quick march.” Basically, the phrase means to seize the opportunity and act expediently.
-
-
-
-[^275]: Possibly the dissolution of an adoption.
-
-
-
-[^276]: Minamoto-no-Yoshitsune \(1159–1189\), a principal figure in the Taira-Minamoto War. The younger brother of Yoritomo, founder of the Kamakura bakufu, Yoshitsune is exalted in legend as a great warrior and is still considered Japan’s foremost tragic hero.
-
-
-
-[^277]: This is related to the episode mentioned in Book 1-26.
-
-
-
-[^278]: Lord of the Takamatsu domain of 70,000 *koku*.
-
-
-
-[^279]: Some versions of *Hagakure* say “two or three years” here, rather than indicating two or three vassals.
-
-
-
-[^280]: See Book 2-89.
-
-
-
-[^281]: See Book 1-7.
-
-
-
-[^282]: In this case, he is referring to Lord Mitsushige.
-
-
-
-[^283]: Ōga Yashirō \(?–1574\) is known as a traitor who plotted to allow the enemy, Takeda Katsuyori, into Tokugawa Ieyasu’s castle in Okazaki.
-
-
-
-[^284]: Tokugawa Ieyasu.
-
-
-
-[^285]: A priest at the Kōdenji Temple.
-
-
-
-[^286]: Nabeshima Aki-no-Kami Shigemasa \(1571–1645\).
-
-
-
-[^287]: See Book 2-93.
-
-
-
-[^288]: During the Period of Five Dynasties \(ad 907–960\) a period of upheaval in China, between the fall of the Tang Dynasty and the founding of the Song Dynasty, the famous poet Zheng Gu \(?–896?\) read the poem, and thought it would be aesthetically more pleasing if “many branches” was rephrased to “one branch.”
-
-
-
-[^289]: Ushijima Genzō Naotaka was an official for books of poetry \(*kasho-yaku*\) and was a custodian in Kyoto. When Mitsushige died, he also took the tonsure with Jōchō, assuming the name Itchū.
-
-
-
-[^290]: If Shōbei had killed Genzō because of the incident, custom dictated that he also commit *seppuku* to atone for his transgression.
-
-
-
-[^291]: Yamamoto Tsuneharu, Jōchō’s nephew.
-
-
-
-[^292]: *Kogoshō* \(pages\) were young pre-*genpuku* boys who served as attendants to the lord.
-
-
-
-[^293]: See Book 1-110, Book 2-16, and Book 2-114.
-
-
-
-[^294]: Nakano Shōgen Masakane was an elder councilor under Nabeshima Mitsushige.
-
-
-
-[^295]: A minister who served under Nabeshima Katsushige.
-
-
-
-[^296]: Yi Yin was a minister of the early Shang Dynasty \(1600?–1046 bc\), and was one of the most revered officials of the time. He helped Tang, first king of the Shang dynasty, defeat King Jie of Xia.
-
-
-
-[^297]: A book that prophesied about the future.
-
-
-
-[^298]: *Jigabachi*, or digger wasp, which is known for its ability to paralyze insects and implant their eggs.
-
-
-
-[^299]: See Book 1-40.
-
-
-
-[^300]: That is, to retire from service and leave the mundane world by taking the tonsure, and spend one’s days praying for the repose of the deceased’s soul.
-
-
-
-[^301]: Katsushige’s daughter, who married Uesugi Sadakatsu \(1604–1645\). She died in 1635.
-
-
-
-[^302]: Formerly a retainer of Hata Nobutoki, he later entered the service of the Nabeshima clan.
-
-
-
-[^303]: This incident is related to when Yatsunami Musashi was tasked with escorting Oyasu, the adopted daughter of Ryūzōji Takanobu \(1529–1584\), to her arranged wedding with Hata Mikawa-no-Kami of Karatsu to form a familial alliance. She became very ill on route, and Musashi avowed to follow her in death to save the reputation of the province should she die on his watch. See Book 8-47.
-
-
-
-[^304]: Not to be confused with the Shimabara Uprising of 1637–1638 in which Nabeshima warriors were mobilized by the bakufu to quell the Christian-inspired peasant uprising. This “Battle of Shimabara” took place in 1584 and pitted the Saga forces against Shimazu Iehisa of the Satsuma province. The Saga warriors were defeated, and Ryūzōji Takanobu \(1529–1584\), daimyo of the Hizen province, was killed.
-
-
-
-[^305]: The Genkō Incident \(1331–1333\) led to the fall of the Kamakura shogunate. After returning from exile, Emperor Go-Daigo was determined to restore imperial rule and successfully enlisted the help of Ashikaga Takauji, the Kamakura general sent to suppress his rebellion. Nitta Yoshisada, who was in turn directed to punish them both, instead marched on Kamakura and destroyed the Hōjō regency and the Kamakura shogunate. Go-Daigo then instigated the Kemmu Restoration \(1333–1336\), which marked the formation of the Muromachi shogunate.
-
-
-
-[^306]: Literally meaning “retired regent,” this was a commonly used name for Toyotomi Hideyoshi \(1536–1598\). Hideyoshi employed the services of Nabeshima Naoshige and his son Katsushige in his Korean campaigns.
-
-
-
-[^307]: Another name for Tokugawa Ieyasu \(1542–1616\) after his enshrinement in the Tōshōgū Shrine in Nikkō. At the Battle of Sekigahara in 1600, Nabeshima Katsushige changed allegiance to support Ieyasu, thereby contributing to this crucial victory, and paving the way for the establishment of the Tokugawa shogunate.
-
-
-
 [^308]: See Book 1-19.
 
-
-
-[^309]: Translated into English as “Essays in Idleness,” this book was written possibly between 1330 and 1332 by a famous monk named Yoshida \(Urabe\) Kenkō \(ca 1283–ca 1352\). It is a philosophical mishmash that remains one of the most admired examples of Japanese prose. In his youth, Kenkō served as a steward to Horikawa Tomomori, maternal grandfather of Emperor Go-Nijō \(r. 1301–1308\). For reasons unknown, he became a Buddhist monk in 1313. Retaining his connection with the imperial court, he was also a renowned adherent of the Nijō school of poetry in which he became one of the so-called “four deva kings.” *Tsurezuregusa*, however, is prose rather than poetry, and consists of 243 brief passages of varying lengths. Characteristic of his writings is the theme of *mujō*, or the transience of worldly things.
 
 
 
@@ -1267,23 +1328,27 @@ __________
 
 
 
+
+___________
+
+**141.** As my father was already 70 when I was born, he remarked: “I might just bequeath the lad to someone like a salt merchant.” When Taku Zusho[^311] overheard this, he chided him by saying, “Lord Katsushige often says that you, Jin’uemon, are a dedicated but unassuming retainer, serving from the shadows. Such dependable service will ensure that your offspring are looked after, and remain helpful to the lord.” Following this, he bestowed upon me the name “Matsukame,” and Edayoshi Rizaemon performed the *hakama-tsuke* ceremony on my behalf.[^312]
+
 [^311]: Jōchō’s godfather.
 
 
+
+
+From the age of nine, I was summoned as a page for Lord Mitsushige, whereby I was called “Fukei.” When I attended Master Tsunashige I would jump onto the *kotatsu,*313 creating mischief, and we would carry each other on our backs. Everybody viewed me as an out-and-out ragamuffin.
 
 [^312]: The *hakama* is a traditional formal attire for men that resembles a divided skirt. The ceremony for fitting a *hakama* was conducted at the age of five.
 
 
 
-[^313]: A charcoal brazier in a floor well.
 
-
+When I became 13, I was ordered by Lord Mitsushige to raise my forelocks.[^314] I confined myself to my quarters for one year, after which I reported back for duty as a page on the first day of the fifth month with my new name of “Ichijū.” After that, Kuranaga Rihei assisted me as my *eboshi-oya*315 in the *genpuku* ceremony, and then facilitated my appointment as his assistant scribe. Thanks to his gracious intercession, Rihei announced: “As you can also compose poetry Gon’nojō,[^316] the young Prince Tsunashige has asked that you serve him.” This meant a temporary cessation of my duties. I learned later that his intention was to have me replace him in this post.
 
 [^314]: Hairstyles were changed as a symbol of coming-of-age. Growing forelocks enabled the fashioning of a topknot.
 
-
-
-[^315]: A person who puts an *eboshi* \(black lacquered headgear\) on a young man’s head during his ceremony of attaining manhood \(*genpuku*\)*.*
 
 
 
@@ -1291,31 +1356,65 @@ __________
 
 
 
+
+In any case, being dismissed I was not invited to accompany Lord Mitsushige to Edo, so was left dangling in the wind and very disheartened about my prospects. At that time, the priest Tannen[^317] was residing in Matsuse. As he was on friendly terms with my late father, he was asked to look out for me, and I often paid him a visit. I even contemplated becoming a monk myself.
+
 [^317]: See Book 1-39.
 
 
+
+
+Seeing my predicament, I heard that Yamamoto Gorōzaemon[^318] had a private conversation with Nakano Kazuma about sharing some of the land left by my father. Just as I had sworn upon Hachiman, the god of war, that I would never accept such a handout, I was suddenly called to the domain administration office and informed that I would be receiving an extra rice stipend. \(Two others received the same as me.\)
 
 [^318]: Jōchō’s nephew, who was actually much senior in age and mentored him.
 
 
 
+
+As a samurai, it would not do to be looked down upon as lowly, so day and night I thought of ways to excel in service. I visited Gorōzaemon every evening to chat. Gorōzaemon said one night, “I heard from an old-timer that ‘A man who seeks only fame and power \(*myōri*\) is not a true retainer. Then again, he who doesn’t is not a true retainer either.’ This contradiction warrants serious contemplation.” After thinking about his counsel carefully, the answer suddenly dawned on me.
+
+I realized the ultimate responsibility of a vassal is to petition his lord when necessary for the upkeep of the domain. One cannot do this while floundering at the bottom of the retainer ladder. Thus, working one’s way to the top as chief retainer \(*karō*\) was the supreme paradigm of service. It became clear that a retainer should pursue fame and authority, not for personal gratification, but for the purpose of singular service. I resolved to reach the exalted position of chief retainer. It has always been remarked that a young man promoted to a high position of responsibility too quickly generally betrays the expectations placed on him. So, I worked hard day in, day out, shedding not quite crimson tears, but yellow ones of grief, so that I might be recognized in my fifties. My training and procedures were consistent with the principles of the Kakuzō style[^319] of *jūjutsu*.[^320]
+
 [^319]: In other words, simplistic but highly practical. See Book 2-2.
 
 
+
+
+As I noted in *Gukenshū*, those retainers who were punished after His Lordship’s death brought this divine retribution upon themselves through their narcissism. Although it may appear that this rendition of my life is immodest, providence has driven me to where I am, and I relate it to you unreservedly as a monk in idle conversation.
 
 [^320]: In the Yamamoto version of *Hagakure*, the following material is also included after this. “In spite of my undying efforts, my lord breathed his last before I could be promoted to this position. With his death, men who already occupied the highest posts were acting in a sordid manner, bringing nothing but disgrace to the lord, and so I became a monk in lieu of death to uphold his honor. When I think about it, although I was unable to meet my objective of serving as chief retainer, in a sense, the years of perpetual effort to reach this goal are equivalent to fulfillment. It is true that once a man establishes his purpose, he will eventually be able to realize his aspirations.”
 
 
 
+
+___________
+
+The next morning:[^321]
+>
+> ****
+
 [^321]: If one compares this with the two poems which appear at the beginning of the first book, it would seem that the next morning is referring to the sixth day of the third month, 1710. Although the dictation took place over many years, the intention of Jōchō and Tsuramoto is to give the reader the impression that all of the discussions were conducted overnight in one continuous sitting.
 
 
+
+
+> *Partake of this simmering rice gruel, savoring the warm sentiment of this winter sanctuary* \(Kisui\)[^322]
+
+> ****
 
 [^322]: Tashiro Tsuramoto’s pseudonym.
 
 
 
+
+> *Wilted stalks of morning glory smoldering in the hearth, our hearts alight* \(Komaru\).[^323]
+
+__________
+
 [^323]: Yamamoto Jōchō’s pseudonym.
+
+
+
 
 
 

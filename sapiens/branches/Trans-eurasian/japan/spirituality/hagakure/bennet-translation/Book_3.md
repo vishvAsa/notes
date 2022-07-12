@@ -15,6 +15,11 @@ title = "Book 3"
 
 **3-1.** Lord Naoshige once remarked: “Nothing is felt so profoundly as *giri*.[^324] There are tragic occurrences, such as when my cousin died, that do not even elicit my tears. Then, for some reason I listen to tales of men who lived 50 years or even 100 years ago, with whom I have no affinity or relation to, and I cry from a sense of *giri*.”
 
+[^324]: *Giri* is an important concept that refers to the “obligation” to act in accordance with established social protocols. In the context of samurai, the concept referred mainly to their obligation of service to their liege lord, even if it meant sacrificing their lives in their enduring quest to repay the favor \(*on*\) bestowed upon them. In this example, Naoshige is referring to the sense of obligation to unrelated ancestors allied to the clan who helped forge the culture and ways of his beloved domain.
+
+
+
+
 ___________
 
 **3-9.** A newcomer among Lord Naoshige’s attendants was shown preferential treatment by His Lordship. One day, some of the older retainers decided to express their objections to Lord Naoshige. “Sire, we see that you are showing favoritism to a certain attendant who has not fought with us in battle, and we cannot see how he can be of use in a critical time of need. Pray tell, why do you treat him so kindly?”
@@ -25,13 +30,33 @@ ___________
 
 **3-16.** Suffering in the throes of destitution, one day Saitō Yōnosuke’s[^325] wife bemoaned that had they run out of rice for the evening meal. Yōnosuke picked up his swords and left the house saying, “As the wife of a samurai it peeves me that you fret about such a trifle. There is rice everywhere. Wait here.”
 
+[^325]: Saitō Yōnosuke was a celebrated retainer of Nabeshima Naoshige who proved his martial prowess during the expeditions in Korea. Nevertheless, he appears to have been quite a problematic fellow in the ensuing peace of the Tokugawa period. Because of his brusque personality, he did not endear himself to many of his superiors, resulting in demotion and cuts to his stipend. A demonstration of his impetuousness can be seen in the following vignette, Book 3-17.
+
+
+
+
 He came across horses laden with bags of rice. Yōnosuke asked the farmers, “Where are you headed with that cargo?” They replied, “To the servant’s galley in the castle.” “If that is so, bring your horses this way, to my house. I am Saitō Yōnosuke, and I am due to collect rice from the officials. It must be quite a burden for you to lug such heavy consignments hither and thither. Leave it in my care and present my receipt of delivery to your village headman.”
 
 His request did not win the peasants over, and they tried to continue on their way. Yōnosuke flew into a rage and unsheathed his sword. “I will not allow even one of you to pass\!” The peasants were left with no choice but to haul the bales of rice into Yōnosuke’s home in exchange for his receipt. Yōnosuke crowed to his wife, “Behold this mountain of rice\! Use it as you please.”
 
 When news of the incident surfaced, Yōnosuke was interrogated and readily admitted his guilty conduct. After the trial he was sentenced to death. As was customary, Lord Katsushige told his aide: “Report the episode of Yōnosuke’s wrongdoing to my father, Lord Kashū \(Naoshige\).”[^326] The news was delivered to Lord Naoshige in the third citadel \(*san-no-maru*\) by the official.[^327]
 
+[^326]: The first daimyo of the Nabeshima domain and Katsushige’s father.
+
+
+
+
 The retired lord listened to the account, and addressed his wife without responding to the messenger. “My dear, Yōnosuke is to be executed. This is terrible news. Putting his life on the line for me many times in a manner worth more than all the warriors of Japan and China put together, he fought tooth and nail in bloody defense of Hizen.[^328] It’s thanks to the service of valiant men like him that we can now live in peace as lord and lady of the fief. He is a man with no peer who lays claim to countless feats of valor in battle. If anyone is guilty of a terrible wrongdoing, it is I. My neglect led such a dedicated vassal to be plagued by misery without even food in his bowl. How could I bear to see such a hapless vassal put to death?”
+
+[^327]: The Saga Castle consisted of four citadels referred to as *ichi-no-maru, ni-no-maru, san-no-maru*, and *nishi-no-maru*.
+
+
+
+
+[^328]: Hizen was the region that included the fiefs of Saga, Karatsu, Hirado, Ōmura, and Shimabara. In this context, Noashige is referring only to the Saga domain.
+
+
+
 
 With tears in their eyes, both lord and lady grieved over Yōnosuke’s fate. The official was shocked to see such an outpouring of heartache, and hurried back to Lord Katsushige to inform him of their distress. Lord Katsushige was moved. “How compassionate my parents are. I have been searching for ways to live up to my filial obligations, and it now seems unthinkable to execute Yōnosuke given their respect for him. Return to the third citadel and inform my parents that I have rescinded my decision.”
 
@@ -41,9 +66,19 @@ ___________
 
 **3-17.** Lord Katsushige was observing a shooting practice for his vassals. When Saitō Yōnosuke stepped up to the mark, he aimed his arquebus high, and fired. Lord Katsushige was informed by the target attendant, “No musket ball, Sire.” Yōnosuke stood tall and exclaimed for all to hear: “Of course there isn’t\! Until now, I have never shot musket balls into mounds of dirt; but, I have a curious habit of never missing the torso of a live enemy. This can be corroborated by the fact that Lord Hida[^329] is still alive\!”
 
+[^329]: Nabeshima Naoshige.
+
+
+
+
 Lord Katsushige was incensed by this outburst, and was inclined to cut Yōnosuke down in his tracks. He returned to the castle fuming instead, putting a damper on what had otherwise been a good day. Upon returning to the castle, Lord Katsushige visited his father in the third citadel, the retired Lord Naoshige, and angrily relayed the incident. “This is what happened… Yōnosuke didn’t treat me as his lord and went out of his way to embarrass me. Although tempted to kill him there and then, your long and treasured relationship with him stayed my hand. I ask you now, how is he to be castigated for his insolence?”
 
 When Katsushige had at last calmed down, Lord Naoshige responded, “Indeed, your anger is understandable. Thus, I advise you to have his unit captain commit *seppuku* immediately.” Lord Katsushige was flabbergasted by this response. “It was not the unit captain at fault. It was Yōnosuke. I am inquiring how I should punish Yōnosuke.” Lord Naoshige was insistent. “I recently instructed the unit captains that ‘Young warriors tend to let their guard down, and forget how to wield their weapons in this extended period of peace and tranquillity in the realm. They will not be able to perform in battle should the need arise without regular training to augment military preparedness. Let’s avert this problem by first having the men practice on the firing range in front of Shinano-no-Kami.’[^330] My intention was to make this exercise for young untrained warriors; but to insist that an old warhorse like Yōnosuke shoot together with inexperienced men is offensive, and so the unit captain should be held culpable. What Yōnosuke said was on the mark\! I bear witness to his past exploits. The unit captain is to be sentenced to death immediately.” Lord Katsushige apologized for his thoughtlessness, and the problem faded away.
+
+[^330]: “Shinano-no-Kami” was an honorable name for Nabeshima Katsushige, literally meaning “Lord of Shinano.”
+
+
+
 
 ___________
 
@@ -65,13 +100,33 @@ ___________
 
 ___________
 
+[^331]: All of these men were elders.
+
+
+
+
 **4-49.** Lord Katsushige was known to say, “There are four different types of retainers: swift-sluggish, sluggish-swift, swift-swift, and sluggish-sluggish.” According to Lord Katsushige: “The swift-swift retainers can understand instructions quickly, and carry them out in an expedient manner. These are the best vassals, but are few and far between. Men like Fukuchi Kichizaemon are of this caliber.[^332] The sluggish-swift retainers are slow in understanding, but are able to execute their orders quickly. Nakano Kazuma is a good example. Swift-sluggish retainers are diligent in obeying instructions, but are often slow at completing their duties. These are many. The rest all fall into the category of sluggish-sluggish.”
+
+[^332]: See Book 7-43 below.
+
+
+
 
 ___________
 
 **4-60.** During Lord Katsushige’s reign, each boy would start attending at the age of 11 or 12, regardless of his father’s high or low station. They received instruction in all manner of assignments, enabling many of them to be employed as attendants. Over 70 attendants are said to have been in his service. Soejima Hachi’uemon retained his forelock and continued serving as a page until he turned 42, and Nabeshima Kanbei until the age of 40.[^333] As long-standing servants, they knew Lord Katsushige intimately, were very familiar with the positions and duties both in Edo and the domain, and were accustomed to entertaining feudal lords, and knew them all. Following Lord Katsushige’s example they were highly disciplined samurai. As soon as they underwent the *genpuku* ritual and they removed their forelocks \[to officially mark their coming of age\], and made excellent samurai. Back in those days, young lads were not permitted to inherit their family headship and its assets when their fathers died, so they worked conscientiously to make their own way in the world.
 
+[^333]: See Book 1-112.
+
+
+
+
 One day, on the way to Edo to fulfill *sankin-kōtai* obligations,[^334] a message needed to be sent from Odawara to the shogunate. The senior attendants intended to appoint a messenger from their coterie, but no one was deemed capable of articulating the information properly. Saitō Sakutayū was selected from among the pages, and a *genpuku* ceremony was conducted to remove his forelock; then he was set off with a rank suitable for the task.
+
+[^334]: See footnote for Book 1-194.
+
+
+
 
 ___________
 
@@ -85,7 +140,22 @@ ___________
 
 **5-98.** A few years ago, the status of the Ogi, Hasuike, and Kashima lords became high enough to be awarded prestigious duties by the shogunate.[^335] They were also expected to present the government with gifts, as was the custom for lords, of the same level as the main family.[^336] At that time Prince Tsunashige had still not succeeded the clan headship and was living in Edo. He complained to his father, Lord Mitsushige, upon hearing of the situation, saying that the hierarchical relationship between the main family and branch families would be jeopardized. Lord Mitsushige warned the three branch lords, but they refused to comply. The problem worsened, creating discord between the main family and the three branches. The chief retainers discussed the issue day and night, but were unable to find a solution.
 
+[^335]: Records indicate that the third lord of the Ogi sub-domain, Nabeshima Mototake, was appointed as *gochisō-yaku*, or the official tasked with entertaining important visitors to Edo Castle, in 1692. This date is at odds with what is recorded in this section of *Hagakure*.
+
+
+
+
+[^336]: See Book 1-101.
+
+
+
+
 Nakano Shōgen[^337] appeared before Lord Mitsushige, saying: “In spite of our deliberations we cannot agree on an adequate settlement. I have given it considerable thought, as antagonism between the main family and branch families constitutes a clan emergency. I have formed some opinions and would like to offer them to you.
+
+[^337]: See Book 2-129.
+
+
+
 
 “You show me great munificence by taking me into your service and even allotting stipends for each of my children, which is much more than I could ever ask for. This bespeaks your paternal affection for us. When considered in this light, I have come to realize the state of affairs surrounding our three branch families is different from the three \[Tokugawa\] families of Owari, Kii, and Mito, or the allotment of fiefs in other domains. As it is Lord Katsushige’s offspring who serve the government, you should always regard them as your children, and cherish them as your treasures, as you do Lord Shinshū \(Tsunashige\). The better they conduct their duties for the government, the more it should gratify His Lordship. The fact that the three lords are fulfilling their obligations well does not harm the clan in any way. On the contrary, it brings us prestige.
 
@@ -95,15 +165,35 @@ Nakano Shōgen[^337] appeared before Lord Mitsushige, saying: “In spite of our
 
 “Thus, I think the weight of blame lies with us. You need to invite Lord Kashū[^338] \[of Ogi\] and say: ‘We express regret for our misconduct. Some young men made senseless remarks, and their elders agreed. The bitter recrimination is unbearable. This preposterous situation is largely due to my oversight. I am to blame, and I take full responsibility. From now on, it behoves me to make amends, and unite the families. Hereafter, you will treated the same as Shinano-no-Kami \(Tsunashige\) so that we can foster everlasting peace in the fiefdom. As you are a senior counselor with considerable experience, I call upon you to help convince the other lords to join me in setting right this most disagreeable predicament. I will talk sense into Shinano-no-Kami in person.’ If you frame it like this, Lord Kashū will be vindicated, and the problem can be resolved.”
 
+[^338]: Nabeshima Kaga-no-Kami Naoyoshi \(1623–1689\). Motoshige’s son, and second lord of the Ogi sub-domain.
+
+
+
+
 Lord Mitsushige agreed. “This is very true. I was wrong. Please go and meet Kashū and relay this sentiment.”
 
 As the quarrel was still in full swing, Shōgen wasn’t sure if Lord Kashū would be prepared to grant an audience to him, even if he went to Ogi. He thought it prudent to send Fukae Tō’emon in his place, as he was related to the lord through marriage. Tō’emon was asked to explain: “Shōgen would like to come to Ogi for counsel, and what he has to say will be in your best interest, so please lend him your ear.” Shōgen then departed for Ogi and Kashū agreed to meet him straight away. Shōgen said to him: “Tanshū \(Lord Mitsushige\) would like you to come to Saga within one or two days. I know not what this is regarding, but I feel it would be good for all families.” Shōgen returned after confirming which day Kashū would visit.
 
 On the day of the appointment, Lord Kashū came to Saga with his son, Kishū.[^339] He told him, “Wait in the west citadel as I am sure you will also be summoned later.” He then proceeded to the castle for an audience with Lord Mitsushige.
 
+[^339]: Nabeshima Kii-no-Kami Mototake \(1662–1713\).
+
+
+
+
 Lord Mitsushige started with the following speech: “A troublesome quarrel has erupted with the three lords, and regrettably the problem is yet to be resolved. After careful rumination, it is clear that we are at fault…” He offered a comprehensive explanation of his thoughts, prompting Kashū to shed many tears. He interrupted, “Please say no more. I understand what you are saying, and am humbled. Given my position, I must also take responsibility for allowing the young men to say the things they did. I will take care of the problem from here, so please worry no more. I have brought my son, Kii-no-Kami, with me. Please let him hear your views directly.” He brought his son without delay to Lord Mitsushige. Kashū swore an oath on a *Kumano go’ō* talisman,[^340] and father and son submitted a blood pledge \(*keppan*\) of reconciliation.
 
+[^340]: Distributed by Kumano Sanzan, the three major shrines \(Kumano Hongū Taisha Shrine, Kumano Hayatama Taisha Shrine, and Kumano Nachi Taisha Shrine\), these talismans were used for *kishōmon* \(sworn oath\) from the Heian period through to early modern times.
+
+
+
+
 Shōgen never sought credit for this successful resolution.[^341] He kept it secret forever, and simply reported that His Lordship had devised the whole plan himself. Showing himself to be a truly considerate, loyal servant, it was only to me that he divulged the real course of events in strict confidence.
+
+[^341]: See Book 2-129.
+
+
+
 
 As it was a secret, Yamamoto Jōchō only confessed it to me on the seventh day of the twelfth month, Shōtoku 3 \(1713\) in his peaceful abode.
 
@@ -112,6 +202,11 @@ He said: “Many times over the years have I observed talented servants expoundi
 An old samurai once recalled: “The three families in Lord Katsushige’s era were his offspring, and they were treated equally. It was like having four young lords, and so it added to the prestige of the clan. The three lived in their residences inside the castle precincts, and the men appointed to serve in Ogi were trusted retainers of Lord Naoshige, and several trustworthy men were attached to the Hasuike and Kashima lords. These excellent samurai lived around the castle, and whenever they needed to speak with Lord Katsushige, they would simply proceed to the antechamber, announce ‘There is business to discuss,’ and appear before the lord. When men were needed for various duties or tasks, they were summoned regardless of whom they served under, and on festive days and the like, all retainers participated and were treated on equal terms.
 
 “After Lord Katsushige passed away, Lord Mitsushige took over headship of the domain. As he had been raised in Edo, he had little knowledge of the old customs and lore of the clan. Even the elder Okabe Kunai was dismissed as a bannerman \(*hatamoto*\) of the Tokugawa shogunate, and Sagara Kyūma was appointed from outside the clan, so they had no veritable knowledge of the Nabeshima family traditions. This is why they transferred Lord Getsudō’s[^342] mausoleum in the Kōdenji Temple and partitioned the grounds with a hedge wall. They copied the ‘Three Family’ system of the Tokugawa family, and dealt with their retainers as if they were servants of servants, and not of the main family. When they visited the Saga Castle they were forced to wait by the entrance. Kunai and Kyūma made it increasingly difficult for them to be granted an audience with the lord, excluding them in all matters. Those who served the three lords became outraged saying, ‘It was us who brought serenity to the clan through our generations of service. There is nothing we can do if these newcomers insist on being so contemptuous, so we shan’t visit Saga again.’ With this, they all departed Saga. Their lords also confined themselves to their own castles. With the mausoleum for Lord Getsudō being moved again to Sōchiji Temple, the sense of alienation became even greater.
+
+[^342]: Nabeshima Motoshige, founder of the Ogi sub-domain.
+
+
+
 
 “The Nabeshima clan is distinct from other daimyo houses regarding sub or branch families; but the fractious events that transpired were regrettable, and it was not what Lord Katsushige would have desired. Recently, it seems as though the families have come closer together, which is a great relief.
 
@@ -123,15 +218,45 @@ ___________
 
 **7-6.** With the passing of Lord Kōkokuin,[^343] his aide Ezoe Kinbei took his ashes to Mount Kōya to be consecrated. Kinbei then shut himself away in a hermitage and carved a figurine of his master from wood, and another of him prostrating before him. Kinbei returned home, probably on the first anniversary of his death, and committed *oibara*.[^344] The statue he carved was brought from Mount Kōya and enshrined at the Kōdenji Temple in Saga.
 
+[^343]: Nabeshima Hizen-no-Kami Tadanao. Nabeshima Katsushige’s heir.
+
+
+
+
+[^344]: In 1626.
+
+
+
+
 ___________
 
 **7-43.** A story about Fukuchi Kichizaemon and the meal of crane. Crane meat was served when Lord Katsushige entertained guests. A guest remarked, “Sire, I hear that you can tell whether the meat is from a white or black crane just by tasting it. Is this true?” Lord Katsushige replied, “It is indeed the case.” The guest then inquired, “Which variety is on today’s *carte du jour*?” “It is *manazuru*, white crane.” The guest was still doubtful. “Can it really be true? I would like to verify this claim with somebody in the galley.” Lord Katsushige summoned Fukuchi Kichizaemon from the kitchen. It just happened that Kichizaemon was secretly listening to their exchange. He rushed back to the kitchen and swigged several large bowls of *saké*, before finally making an appearance after repeated requests. By this time, Kichizaemon was heavily intoxicated and his slurred words were barely legible. “It’s errr, umm, black, white… no, it’s a blackish…” Lord Katsushige reprimanded him for being drunk and sent him back to the kitchen…[^345]
 
 ___________
 
+[^345]: This section continues with exactly the same content as 4-49 regarding the four types of retainers.
+
+
+
+
 **8-22.** Yamamoto Gorōzaemon[^346] protested to the priest Chō’on when he was serving in Edo. Before Lord Tsunashige succeeded his father in becoming head of the clan, he received instruction in the teachings of Buddha from the priest Chō’on.[^347] He was to be awarded an *inka* by the priest, confirming his awakening in Buddhism. It was an event that stirred much rumor among the senior retainers in the mansion. Hearing the tittle-tattle surrounding the affair, Yamamoto Gorōzaemon, who was serving as one of Tsunashige’s attendants and was an inspector \(*o-metsuke*\), was displeased by the timing of events and decided to pay the priest a visit at his temple in Edo. His intention was to convince the priest to cancel the bestowal, or cut him down with his sword if he refused.
 
+[^346]: Tsunetomo’s nephew.
+
+
+
+
+[^347]: Also referred to as Kaion.
+
+
+
+
 The priest greeted him in a dignified manner as a worshipper to the temple. Gorōzaemon said, “There is something that I must talk with you about in private, so please send your acolytes away.” Moving closer he whispered sternly, “It is rumored that you intend to present Shinano-no-Kami[^348] with an *inka*. Having been born in the province of Hizen, I am sure that you are aware of the history and customs of the Ryūzōji-Nabeshima clan. Compared to other domains, ours has a long history of successive generations, and must continue with the lord and his men working together harmoniously. Until now, no leader of the Nabeshima clan has been endowed with an award of advanced knowledge in Buddhist teachings. If His Lordship was to be presented with an *inka*, he would become fixated on his ‘enlightenment,’ and the lord-follower relationship will unravel through his condescension of his retainers’ opinions as if they were insects. This would cause a rift between the lord and his men and, it must be said, would be terribly harmful to the wellbeing of the clan. Men in high positions are predisposed to arrogance, so I implore you by all means to desist from awarding him the *inka*. If you refuse my request, I will be forced to take action.”
+
+[^348]: Nabeshima Tsunashige.
+
+
+
 
 A little flustered at first, the priest recovered his equanimity. “I admire your intentions, and I fully understand the condition of the domain. You sir, are a retainer of commendable loyalty.” Gorōzaemon interjected saying, “Stop with your ruses. I did not come to receive acclaim from you. I only want to hear that you will abandon your plans to present His Lordship with a Dharma transmission.” The priest responded by saying, “What you ask is reasonable. I will not present him with the transmission, ever.” After confirming the priest’s promise one more time, Gorōzaemon left the temple. Master Jōchō was told of this episode by Gorōzaemon.
 
@@ -149,6 +274,11 @@ ___________
 
 **10-67.** The family history of Lord Sōma[^349] is recorded in a scroll called the *Chiken Marokashi*. It was an unequaled family genealogy in Japan. The lord’s mansion suddenly caught fire one year. Lord Sōma lamented, “I do not bemoan the loss of the manor and its fittings. They can all be replaced if they are destroyed in the fire. Regrettably, though, I couldn’t retrieve our treasured heirloom, the family tree.”
 
+[^349]: Iwaki Nakamura domain.
+
+
+
+
 One of his attendants declared, “I shall enter the flames and save this treasure.” Lord Sōma and the other retainers chortled incredulously, “How can you salvage it now when the building is engulfed by this fire?” This retainer was never effusive in service, nor had he ever been exceptionally useful, but for some reason his lord was fond of him as he was diligent. “By no means have I been an effective servant to His Lordship because of my clumsiness. Nevertheless, I have always been ready to sacrifice my life for something useful should the opportunity arise. I believe that time is now.” With that, he stormed into the blazing inferno.
 
 As soon as the fire had been put out, Lord Sōma instructed his men, “Find his body. It is such a shame\!” They searched through the burnt ruins and finally located his charred remains in the garden area next to the residence. Blood gushed from his stomach as they turned his prostrated body over. Evidently, he had slit open his belly and inserted the document inside, protecting it from the flames. Henceforth, it became known as the *Chi-keizu,* or “Blood Genealogy.”
@@ -156,6 +286,11 @@ As soon as the fire had been put out, Lord Sōma instructed his men, “Find his
 ___________
 
 **10-157.** When a retainer of Takeda Shingen named Amari Bizen-no-Kami was killed in battle, his 18-year-old son, Tōzō, replaced his father as *yoriki*.[^350] When a warrior in his unit was wounded in battle and the stream of blood would not clot, Tōzō ordered him to drink watered-down dung of a gray-haired horse. The injured warrior protested, “Although life is precious, how can I drink horse dung?\!” Tōzō overheard his aside and responded, “You are a truly brave warrior, and what you say makes sense. The real meaning of loyalty, however, means we are duty-bound to try and stay alive to contribute to our lord’s victory. Now, I will drink some also.” After gulping down a mouthful of the concoction, he gave the cup to the wounded warrior, who consumed the remedy gleefully. It is said he quickly recovered from his injuries.
+
+[^350]: In Japan’s medieval period, the position of *yoriki* was to serve as an assistant to the lord or unit commanders during military campaigns. During the later Tokugawa period, however, *yoriki* were administrative assistants in governmental offices. This passage is referring to the former.
+
+
+
 
 ___________
 
@@ -175,11 +310,31 @@ ___________
 
 **6-5.** When Takagi Akifusa[^351] turned his back on his lord, Ryūzōji Takanobu, he requested to take refuge with Maeda Iyo-no-Kami Iesada. Akifusa was a peerless and valiant warrior, and a master of the sword. He was accompanied by his loyal retainers Ingazaemon and Fudōzaemon, also daring warriors \(*kusemono*\) who never left their master’s side.
 
+[^351]: Noto-no-Kami. A son of Ryūzōji Moriie.
+
+
+
+
 Lord Takanobu sent a message to Iyo-no-Kami instructing him to slay his guest through concern of the damage his former retainer could inflict. When Akifusa was sitting on the porch with Ingazaemon washing his feet, Iyo-no-Kami crept up from behind and chopped off Akifusa’s head. Before his head fell to the ground, Akifusa was able to unsheathe his *wakizashi* and spun around to counterattack, but mistakenly took off Ingazaemon’s head instead. Both of their heads tumbled into the washbowl, but Akifusa’s head then hovered into the middle of the room. It seems that he had acquired magical abilities.
 
 ___________
 
 **6-58.** When the castle at Arima[^352] was captured, Mitsuse Genbei[^353] sat on a wall near the inner citadel on the twenty-eighth day.[^354] Nakano Takumi Shigetoshi happened by, and asked what he was doing sitting there. Mitsuse said, “I was suddenly overcome by stomach pains and cannot go any further than this. The other members of my unit have gone ahead, so I must call on you to lead them.”
+
+[^352]: During the Shimabara Uprising \(1637–1638\).
+
+
+
+
+[^353]: An inspector \(*o-metsuke*\).
+
+
+
+
+[^354]: Twenty-eighth day of the second month, 1637.
+
+
+
 
 When this act was conveyed to the inspector, it was declared to be an instance of cowardice. Mitsuse was consequently ordered to commit *seppuku*. In the old days, the debilitating malady of stomach cramps was referred to as “cursive cowardice” because it suddenly rendered the victim unable to stand \[like a brush that doesn’t leave the paper when writing in cursive script\].
 
@@ -193,7 +348,17 @@ ___________
 
 **7-14.** At the age of five, Yamamoto Kichizaemon[^355] was told by his father, Jin’uemon, to kill a dog with his sword. He was then ordered to execute a convict when he turned 15. Without fail, all young warriors were expected to behead a human when they reached the age of 14 or 15. Lord Naoshige also ordered his son Katsushige to hone his cutting skills. He is said to have decapitated ten convicts in a row.[^356]
 
+[^355]: Tsunetomo’s half-brother.
+
+
+
+
 This practice was commonplace long ago, even among sons of lords; but nowadays even the children of the lower samurai do not refine their skills through performing executions. This is a sign of willful neglect. It is simply an excuse to claim that ‘this kind of practice is not needed,’ or that ‘killing a tied-up felon is not meritorious,’ or ‘the act itself is a crime,’ or it is ‘sinful.’ In the final analysis, as the way of martial valor is disagreeable to them, all they are concerned with is polishing their nails, and having nice things.
+
+[^356]: See Book 4-46.
+
+
+
 
 Scrutiny of a man who considers such practices as ‘disgusting’ reveals that he cleverly composes justifications simply because he is frightened. Lord Naoshige ordered his son to do it because he deemed it necessary training. The previous year, I went to the execution ground in Kase for a beheading, and experienced a frisson of excitement. To be unnerved by executions is confirmation of cowardice.”
 
@@ -202,6 +367,11 @@ ___________
 **7-15.** Tomoda Shōzaemon’s *seppuku*. Shōzaemon was Lord Mitsushige’s page, and he was always in attendance. He was an unfaithful fellow, however, and became so infatuated with the leading actor in a theater troupe, Tamon Shōzaemon, that he substituted not only his name, but also his family crest for Tamon’s. He was so besotted that he sold his clothes and belongings to be his patron, but as he used all of his money, he stole Mawatari Rokubei’s sword and had a servant spear-carrier \(*yarimochi*\) pawn it. The spear-carrier reported this to the authorities. Shōzaemon was investigated, and both he and his attendant were sentenced to death.
 
 Yamamoto Gorōzaemon[^357] conducted the interrogation. When reporting his findings to Lord Mitsushige, he proclaimed, “It was the spear-carrier who snitched on his master. His name is so-and-so.” Lord Mitsushige said without hesitation, “Have them both killed.”
+
+[^357]: Jōchō’s nephew.
+
+
+
 
 When sentencing Shōzaemon to commit *seppuku*, Gorōzaemon told him: “There is no way for you to save face other than through death. Die honorably as a samurai.” Shōzaemon replied, “Thank you for your kind words. Indeed, I will do as I am told with equanimity.”
 
@@ -217,15 +387,40 @@ ___________
 
 **7-18.** A story about Ushijima Kyūjibei. At a performance by a troupe of actors in Shōzu village, Kyūjibei was walking among the audience wearing his braded straw hat. He tripped and lurched forward, and his sandal flew off, ricocheted off a hedge and hit a man on the head. Kyūjibei picked himself up, and reaching for his sandal he said: “I’m terribly sorry about that. I didn’t do it on purpose. Dear me, I have even dirtied my clothes. So sorry.” The spectator and a gang of two or three men who seemed to be his companions barked back: “Oi\! Just because you carry a sword don’t think you can throw a sandal at someone’s head and get away with a ‘so sorry’.” Turning around, Kyūjibei discarded his hat and retorted, “What unreasonable fellows you are. Although I didn’t do it on purpose, I expressed regret as a courtesy, as it was my sandal after all. Not to accept my apology and accuse me in public in such a way is unforgivable. There are too many people in here. Step outside. I will cut you all down to size\!” The men were overwhelmed by his spirit and hesitated. Kyūjibei continued in a gentler tone, “Just accept my apology. If you don’t, you will lose your head, and so will I. Hush and enjoy the *kyōgen*.”[^358] Then he put his hat back on and departed. There was nothing faint-hearted about his conduct. He must have been a very brave man.
 
+[^358]: A form of traditional Japanese comic theater usually performed as an intermission between acts in Noh performances.
+
+
+
+
 ___________
 
 **7-24.** On day eleven of the eleventh month, in the second year of Tenwa \(1682\), Sawabe Heizaemon[^359] was ordered to slit his belly.[^360] Hearing of this decree on the evening of the tenth, he dispatched a request to Yamamoto Gon’nojō \(Tsunetomo\) to be his *kaishaku,* to which he wrote the following reply. Gon’nojō was 24 years of age. “I empathise with your resolution, and agree to perform this honorable task out of my respect for you. It was my first instinct to decline your request out of courtesy, but there is no time to excuse myself for any reason as the ceremony is to take place tomorrow, and so I humbly accept. I am greatly honored that you should choose me from among so many. Rest peacefully tonight in preparation for tomorrow. It is late now, but I will visit you in person soon to make arrangements. Tenth day, eleventh month.”
+
+[^359]: Son of Nakano Masayoshi, and Jōchō’s cousin.
+
+
+
+
+[^360]: Also see Book 1-16.
+
+
+
 
 Heizaemon commented that it was an outstanding letter. Since olden times, it was inauspicious to be asked to perform *kaishaku*. It is a difficult task not readily acknowledged, even if it is performed in an excellent fashion; but if the second slips up, it will generate a lifetime of embarrassment. Master Jōchō keeps a copy of the letter.
 
 ___________
 
 **7-25.** Ōno Senbei’s *oibara*. Senbei’s older brother and some blacksmith from Hasuike were engaged in a pledge of male love relationship.[^361] One day they started to argue and their relationship deteriorated. Family and friends attempted to intercede but to no avail, so they appealed to the lord. Lord Katsushige was on duty in Edo, so Lord Kōshū[^362] presided over the case.
+
+[^361]: *Shudō*. See Book 1-180 and 181.
+
+
+
+
+[^362]: Nabeshima Naozumi. Katsushige’s son, and a later lord of the Hasuike sub-domain.
+
+
+
 
 After hearing both arguments he declared, “You shall fight it out with no assistance. Anybody who tries to help you will be punished by death.” Fences were erected in Takao Nawate and the two were to fight within. The venue became packed with spectators, dotted around like nails on the back of a shoe. The blacksmith arrived first, and then Ōno, who said: “I apologize for keeping you so long. It took me forever to take my leave. Now let’s begin.” They drew their swords and sparks flew from the tips as they clashed. The spectators watched with bated breath. Just then, Ōno’s upper thigh was cut through and he fell to the ground with a thud. With this, somebody burst through the fence screaming, “You will not get away\!” The blacksmith was cut down with a single blow of a sword. The assailant was Ōno’s younger brother, Senbei. But the older Ōno had been killed outright.
 
@@ -237,6 +432,11 @@ ___________
 
 **7-36.** Matsuura Dōun’s comment on the Arima offensive.[^363] *Dōun* said, “When I was a young man, I participated in the Arima offensive, but in retrospect, whether one is able to achieve a meritorious feat in combat depends on the course of events. Your preparedness in battle is what matters. By preparedness, I mean the closer you sit to the enemy’s camp, the more brave people will think you are. Stories told at night during campaigns emphasize how those who go to the encampments near the front seem fearless, but those who remain in the rear appear to be all the more cowardly. It would be wise to remember this when you are young.” \(This was relayed by Baba Gontarō.\)
 
+[^363]: The Shimabara Uprising of 1637–1638.
+
+
+
+
 ___________
 
 **7-40.** Whenever the members of Ōki Hyōbu’s unit gathered, he would always say after business had been completed: “Young warriors should aim to be courageous. You can be brave if you devote every thought to building your nerve. If your sword breaks in the thick of battle, fight with your bare hands. If your arms are cut from your body, wrestle your adversary to the ground with your shoulders. If your shoulders are also sliced off, you still have the ability to bite the heads off 10 or 15 enemy warriors.” He often said this.
@@ -245,6 +445,11 @@ ___________
 
 **8-48.** The making into a samurai of Hirohashi Ichiyūken. Ichiyūken worked as a manservant in Lord Ryūzōji Takanobu’s kitchen. Due to rancor incurred in a sumo bout, he drew his sword and killed seven or eight men, and was subsequently condemned to commit *seppuku*. When Lord Takanobu heard news of the fracas, he exonerated his servant. “Men of valor are important in these troublesome times we live. He seems to be one with a gallant heart.” Lord Takanobu took Ichiyūken to the battle at Anegawa, where he was unmatched in courage and demonstrated many commendable exploits.[^364] At the Battle of Takagi, Ichiyūken penetrated so far into enemy territory that his lord became concerned and detained him by his horse’s side. Still, wanting to be the first into the fray he broke off into a run when they had come to a standstill, and the lord was barely able to catch hold of the sleeve of Ichiyūken’s armor. Ichiyūken sported many wounds on his head, which he staunched with leaves and bound with a cloth.
 
+[^364]: A major battle fought on July 30, 1570 near the Anegawa River in northern Ōmi Province \(now Shiga Prefecture\) between the allied armies of Oda Nobunaga and Tokugawa Ieyasu, who defeated the combined forces of Asai Nagamasa and Asakura Kagetake.
+
+
+
+
 As there were no physicians present, a potion called Ichiyūken’s “black medicine” was mixed with ointment and applied to swellings. This concoction was made from grinding navel lint with grains of boiled rice and salt. When somebody developed a lesion, it was cut open at the top and the ointment was rubbed into the wound. The patient often fainted during this treatment.
 
 When a swelling appeared on Lord Naoshige’s arm, Ichiyūken requested: “Do show it to me, my Lord.” When His Lordship showed him, Ichiyūken pulled out a hidden needle and suddenly proceeded to pierce the lump. “What are you doing?\!” cried Lord Naoshige. He replied, “Does a minor prick like this cause you pain?” Lord Naoshige snatched the needle and slashed Ichiyūken’s cheek with it. They did not get along with each other afterwards. Ichiyūken was slain in battle under Naoshige’s command during the Hirai offensive at the Suko Castle in the second year of Tenshō \(1574\).
@@ -252,6 +457,11 @@ When a swelling appeared on Lord Naoshige’s arm, Ichiyūken requested: “Do s
 ___________
 
 **8-56.** Horie San’uemon was warden of the Edo mansion warehouse. San’uemon committed the crime of raiding the Nabeshima domain’s warehouse, and fled to another province with stolen money. He was eventually caught and acknowledged his knavery. It was declared, “Given the serious nature of the offence, he must be tortured until death.” Nakano Daigaku[^365] was appointed as the official to confirm his execution. First of all, the hairs on his body were burnt off, all of his fingernails were pulled, his tendons were severed, he was punctured with holes, and subjected to all manner of torture. Still, he whimpered not once throughout the ordeal, and his complexion remained unchanged. In the end, his back was slashed, and he died with his torso folded back as boiling soy sauce was poured over him.
+
+[^365]: Tsunetomo’s uncle.
+
+
+
 
 ___________
 
@@ -273,23 +483,58 @@ ___________
 
 **9-12.** Ōkubo Kannosuke’s retribution. Ōkubo Tō’emon from Shiota was a *saké* dealer for Lord Nabeshima Kenmotsu. Lord Kashū’s[^366] son, Lord Ōkura,[^367] was physically disabled and shut himself away in a place called Minō. He entertained sumo wrestlers, and was fond of cavorting with ruffians. The wrestlers were often disorderly, causing disruption in neighboring hamlets. Two of them visited Tō’emon’s establishment, and chatted away raucously in crude banter as they indulged in rice wine. Tō’emon was drawn into an altercation, but they cut him down as he defended himself with a *naginata*.
 
+[^366]: Nabeshima Naozumi \(1616–69\), the first daimyo of the Hizen Hasuike domain, and the fifth son of Nabeshima Katsushige.
+
+
+
+
+[^367]: Nabeshima Ukon Naomori.
+
+
+
+
 Tō’emon’s 15-year-old son, Kannosuke, was studying at the Jōzaiji Temple at the time. When he heard about his father’s murder, he jumped on his horse and galloped to the scene with a *wakizashi* that was 1-*shaku* 3-*sun* in length.[^368] He challenged the two large wrestlers and vanquished them quickly, but suffered 13 wounds in the process, from which he eventually recovered. He was later known as Dōko, and became skilled in the art of massage.
+
+[^368]: Approximately 15 inches \(39cm\).
+
+
+
 
 ___________
 
 **9-15.** They say that the late Tokunaga Kokichizaemon[^369] often grumbled, “I am so old that I wouldn’t be able to do anything, even if there was a battle I was mobilized for. Even so, I yearn to die by charging headlong into the enemy ranks and being struck down in a blaze of glory. What a pity it would be to simply perish in bed\!”
 
+[^369]: A retainer of the Taku clan in Saga.
+
+
+
+
 ___________
 
 **9-26.** Yamamoto Jin’uemon’s last days.[^370] Yamamoto Jin’uemon became ill when he was 80 years old. Looking as if he was about to groan, I said, “Go ahead and cry out. You will feel so much better.” Jin’uemon snapped, “I will do no such thing\! Everyone knows the name of Jin’uemon, so how would it look if a man considered more outstanding than the rest was to let out an audible groan in his final moments?” He never cried out to the very end.
+
+[^370]: Jōchō’s father.
+
+
+
 
 ___________
 
 **9-30.** The son of Mori Monbei[^371] got into a fight and came home with wounds on his body. Monbei asked, “What happened to your foe?” “I cut him down.” “Did you finish him off?” “Of course I did.” Then Monbei declared, “Well done. You should have no regrets. Although not right away, you will have to commit *seppuku*, so prepare to cut your belly when you are settled. Allow me to be your second rather than die by the hand of somebody else.” Not long after, Monbei performed *kaishaku* for his son.
 
+[^371]: A warrior with the rank of *teakiyari*.
+
+
+
+
 ___________
 
 **10-63.** A vassal of Lord Matsudaira Sagami-no-Kami of Tottori,[^372] was dispatched to Kyoto to procure money for his domain. He rented a townhouse to live in. One day when he went out to explore the surrounds, he happened to overhear a passerby say, “The samurai in that brawl is a retainer of Matsudaira Sagami-no-Kami.” He was alarmed as he knew that some of his fellow clansmen were in town on their way up to Edo. He asked the man where the brawl was, and made haste to the scene only to find his associate bleeding and about to be finished off. He immediately confronted the two antagonists, killed them outright, and then returned to his townhouse.
+
+[^372]: Ikeda Mitsunaka \(1630–1694\), the first daimyo of the Inaba-no-Kuni Tottori domain.
+
+
+
 
 The magistrate’s office got wind of the incident and summoned the Tottori samurai to a hearing. “You are charged with illegally joining your comrade in a fight. How do you plead?” He replied, “As I am but a bumpkin from the provinces, I am afraid I do not understand what you mean. Please repeat the charge.”
 
@@ -303,6 +548,11 @@ ___________
 
 **10-91.** In the *Kōyō-gunkan*373 a certain warrior said, “When I face my enemy, it feels as if I have entered the shadows, and so I inevitably get stricken with wounds. Even though you have achieved many exploits in battle, you have never been injured. How can this be so?” The other warrior[^374] answered, “Of course, it is like being in darkness when I face the enemy; but if I can calm my mind, it becomes like night-time illuminated dimly by moonlight. If I attack then, I know I will not be wounded.” This is the defining moment of a warrior’s true strength.
 
+[^374]: Baba Minō-no-Kami.
+
+
+
+
 ___________
 
 **10-111.** A retainer from Satsuma was walking as if in a sleepy daze when he passed by the guard house. A constable saw him, and saying “You can’t be asleep,” he poked him in the face with a staff, making him bleed. The Satsuma warrior wiped the blood off and left. He returned on horseback around evening accompanied by several others, and waited for the constable to appear. When he found the guard with his attendants, he jumped off his horse. He then addressed him before clefting him in twain. The other guards took off in terror. The incident was reported immediately, but the Satsuma side denied any association, and the episode ended there.
@@ -310,6 +560,11 @@ ___________
 ___________
 
 **10-134.** When serving as a second during *seppuku*, if you are using a *katana \(sword\)*, place your right foot about 1-*shaku* 4 or 5-*sun*away from his knee. If you are using your *wakizashi* \(short-sword\) your right foot should be 1-*shaku* away.[^375] Step forward on the same angle as your knee is pointing, and keep your hands low as you cut keeping the blade edge perpendicular to the neck.
+
+[^375]: Approximately 17–18 inches \(43–46cm\) and 12 inches \(30cm\) respectively.
+
+
+
 
 ___________
 
@@ -327,13 +582,43 @@ ___________
 
 ___________
 
+[^376]: .A possible alternative in interpretation is to translate “attacking with” as “is being attacked with.”
+
+
+
+
 **11-6.** Lord Getsudō[^377] bequeathed a document explaining how to win a sword fight. When *shogun* Iemitsu thought of practicing *kenjutsu*,[^378] he asked Kimura Sukekurō,[^379] a retainer of the Kii house, and Getsudō to write down their formulas for how to prevail in the military ways \(*hyōdō*\), with the intention of appointing one of them as his *kenjutsu* teacher. Sukekurō prepared a three-page document and offered it to Iemitsu. Getsudō simply wrote: “It is wrong to think it’s right, and it is wrong to think it’s wrong. They are both wrong. It is right to not think of anything.” Lord Iemitsu was impressed by this, and chose Getsudō as his sword master. Their practice together, however, never eventuated as Lord Getsudō died soon after.
+
+[^377]: Nabeshima Kii-no-Kami Motoshige of the Ogi sub-domain.
+
+
+
+
+[^378]: Traditional Japanese swordsmanship.
+
+
+
+
+[^379]: 1581–1650. A celebrated master of swordsmanship in the early Edo period. A student of Yagyū Munenori.
+
+
+
 
 ___________
 
 **11-8.** When the sword master Yagyū Tajima-no-Kami[^380] met with the *shogun*, several *shinai* \(bamboo swords\) suddenly dropped from the ceiling. Master Yagyū clasped his hands overhead to avoid being struck. Another time when he was called for, the *shogun* concealed himself in the shadows with a *shinai* in hand, ready to take him by surprise. Master Yagyū shouted: “The *shogun* is practicing *kenjutsu*. Don’t spy\!” Just as the bewildered *shogun* turned to see who was there, Master Yagyū moved forward and appropriated his *shinai*.[^381]
 
+[^380]: Yagyū Tajima-no-Kami Munenori.
+
+
+
+
 ___________
+
+[^381]: This is referring to the famous teaching in the Yagyū Shinkage-ryū school of swordsmanship, called *mutō-dori*. That is, to take the sword away from the opponent without cutting him down.
+
+
+
 
 **11-18.** When appointed to seek and kill. Wherever you are, accomplish your mission forthwith, without going back to your house or somewhere else first. The same applies to when you are summoned for duty on regular days. For this reason, a samurai must always be prepared, ready to respond at a moment’s notice.
 
@@ -371,6 +656,16 @@ ___________
 
 **3-29.** After breaking up, Lord Naoshige’s former wife[^382] visited often with her attendants for the purpose of *uwanari-uchi*383 or playing pranks on his new wife. Lady Yōdaiin[^384] handled her with such courtesy, His Lordship’s former wife always went away reluctantly mollified.
 
+[^382]: Keien Myōyo.
+
+
+
+
+[^384]: Nabeshima Naoshige’s new wife.
+
+
+
+
 ___________
 
 **3-42.** Following the death of her previous husband, Nōdomi Jibedayū, in battle, Lady Yōdaiin withdrew to her father Ishii Hyōbudayū’s home in Isakari.
@@ -381,11 +676,31 @@ Lady Yōdaiin was observing them from behind the curtain. She stepped out and sc
 
 One evening when Lord Naoshige was visiting Lady Yōdaiin, someone chased him away shouting, “Thief\!” He jumped over a ditch to get away, but got nicked by a sword. He suffered a minor cut on the sole of his foot. He was also slightly wounded during a night raid in Taku.[^385] There is also speculation that he was injured in the second month of the fourth year of Tenshō \(1576\) while attacking Yokozawa Castle.[^386]
 
+[^385]: 1570.
+
+
+
+
 ___________
+
+[^386]: It should read “Yokozō” Castle.
+
+
+
 
 **3-43.** When Toyotomi Hideyoshi stayed in Nagoya[^387] while on campaign, he threw a party and invited the wives of the Kyushu lords. Lady Yōdaiin’s presence at the festivity was also requested, but she asked Hideyoshi’s maid, Kōzōsu, to get her pardoned from the gathering. Kōzōsu managed the situation so that Lady Yōdaiin was exempted. However, Kōzōsu requested “Please make an appearance once, lest your actions be seen as setting an example.” Shaving her forehead and doing her hair in a way that looked as if she had horns, she appeared looking particularly ugly. She never had to join them again. \(Relayed by Kanemaru.\)[^388]
 
+[^387]: In Kyushu, not to be confused with the city in modern-day Aichi Prefecture.
+
+
+
+
 ___________
+
+[^388]: Kanemaru Gun’uemon was a scribe.
+
+
+
 
 **5-91.** When the big fire broke out in the year of the monkey \(1668\), Lord Mitsushige went to the house of Doi Toshikatsu, the husband of his daughter O-sen, in Yanagihara. Lord Mitsushige inquired, “The fire has spread to the tenement houses. Where is the lady of the house?” He was told, “She is still inside the residence.” He went inside and asked her what she was doing. “I have already been telling my servants to leave, but my husband is away, and it would not be appropriate for his wife to abandon the house in his absence. I am prepared to burn to death.” Mitsushige left the building without her. \(Relayed by Kanemaru.\)
 
@@ -393,21 +708,56 @@ ___________
 
 **6-70.** Daizen’s[^389] wife was Nabeshima Ichisuke’s daughter. She was bequeathed to Daizen after her adoption by Lord Katsushige. During the Arima offensive in the Shimabara Uprising, Daizen’s actions spawned his lord’s rancor, and he and his wife were forcibly divorced.[^390] She sent letters via a messenger, but he left them unread saying, “As much as my heart pines, even away from the prying eyes of others I can’t bring myself to read the letters of one ripped from me by my lord.” He told others, “I no longer have anything to live for.” He stopped eating and started to drink heavily. He died after he started to vomit blood. Following his death, the lord contributed 150 *koku* of rice to his former wife to compensate her living expenses…
 
+[^389]: Nabeshima Masayuki.
+
+
+
+
+[^390]: Daizen was ordered to guard the Edo residence at the time of the Shimabara Uprising, but disobeyed and went to the front.
+
+
+
+
 ___________
 
 **6-127.** The shogunal red seal \(*shuin*\) for pottery in Takagijuku. When Lord Toyotomi Hideyoshi was encamped in Nagoya \(Hizen\), he had to return to Osaka because his mother had taken ill. On his way back, he took the upper road in Saga. The reason why the place where the ferryboat departs to traverse the Kawakami River is called “Nagoya ford” is because this is where Lord Hideyoshi crossed. According to the people who witnessed the event, Lord Hideyoshi was a small man with big oily eyes, and his face and limbs were red, as if they had been painted in vermillion. He was clothed in magnificent garments and straw footgear, and was carrying long and short swords in red-lacquered sheaths with gold threads, with an extra pair of half-sandals slung from them. He was traveling on horseback, as were all members of his entourage, with no palanquins to be seen.
 
 At that time, Lady Keigin[^391] told people: “Collect all of the doors from the houses and create tables out of them by attaching four bamboo sticks as legs. Then make firm rice balls and place them on plates in the street. Hideyoshi saw them as he passed and said, “This must be the work of Lady Keigin, as she’s an astute woman. Normally there is no food available around these thoroughfares, and the people in my procession are getting hungry. That she should care for us like this is wonderful.” He then reached out and picked up a rice ball saying, “Behold. This rice ball is dense. In a samurai family, the women are considerate.” He also noticed the earthenware that the rice balls were placed on exclaiming, “Behold again, these plates are outstanding.” He summoned the potter to Nagoya and issued him with a shogunal red seal \[indicating official patronage of his craftsmanship\]. This shogunal seal is still treasured. The imprint reads: “The pottery made by this man is incomparable. He is worthy of designation as the eminent potter in Kyushu Nagoya. Issued to Pottery Master Ienaga Hikosaburō, Twenty-sixth day, seventh month, Tenshō 20 \(1592\)…”
 
+[^391]: Nabeshima Naoshige’s mother-in-law. She was Ryūzōji Takanobu’s mother and remarried Naoshige’s father.
+
+
+
+
 ___________
 
 **7-38.** About the wife of Ushijima Shingorō.[^392] Ushijima Shingorō was a favored vassal of Lord Tsunashige, and was treated cordially by him. In spite of this, it became known in the community that the brother of Shingorō’s wife, Gondō Shichibei, was frequenting establishments of ill repute. He was sentenced to death in Edo to atone for his transgression. Wanting to set an example, Lord Tsunashige had all of Shichibei’s extended family placed under house arrest. As Shingorō was Shichibei’s brother-in-law, he too was subjected to punishment, and was sent back from his post in the Edo estate to Saga, and confined to his house for a period of three years.
 
+[^392]: This episode happened in 1697.
+
+
+
+
 During this time, Shingorō’s relatives and others in his unit implored him: “Good man, sever ties with your wife so that you can resume your duties. How is it possible to survive on a mere 4 *koku* of rice?” Unfazed, Shingorō avowed, “I will never divorce my wife. I am not weakened by affection, but as a samurai I am loathe to detach myself from her when she has done no wrong, as it is a contravention of *giri*.[^393] Leave me be to die of starvation.” This episode was relayed and verified during Shingorō’s confinement.
+
+[^393]: See footnote for 3-1.
+
+
+
 
 ___________
 
 **8-47.** Hashino Shōgen’s agreement to *seppuku*. When an \[adopted\] daughter of Lord Ryūzōji Takanobu was betrothed to Lord Hata Mikawa-no-Kami of Karatsu for marriage, Yatsunami Musashi-no-Kami[^394] came to fetch her.[^395] However, she had become gravely ill, with only a one-in-ten chance of survival. “As I have been requisitioned to escort Her Ladyship to Karatsu, I resolve to commit *seppuku* should she die before my mission is complete.” Others tried to persuade him otherwise, but to no effect.
+
+[^394]: Lord Hata’s vassal.
+
+
+
+
+[^395]: See Book 2-136.
+
+
+
 
 Lord Takanobu’s chief retainers deliberated on the predicament. “It would be culpable if no one from our clan also follows Her Ladyship in death. Alas, there doesn’t seem to be anybody prepared to embrace this fate other than, perhaps, Hashino Shōgen.”
 
@@ -441,6 +791,12 @@ ___________
 
 **10-5.** Once, a certain man said, “I know the shape of ‘reason’ \(*ri*\) and ‘women.’ ”[^396] When somebody asked what shape these things were, he replied: “Reason is a square, and will not budge at all. Women are round. Women do not discriminate between good or evil, wrong or right, and will roll into any position.”
 
+[^396]: In some versions of *Hagakure*, the character for “fault” or “wrong” \(非 = *hi*\) is used instead of “woman” \(婦 = *fu*\). This actually makes more sense as it contrasts with “reason”  
+\(理 = *ri*\), but I have chosen to remain faithful to the text I am basing this translation on. It may have been done purposefully in jest, or as a cynical comparison between “women” and “reason.”
+
+
+
+
 ___________
 
 **10-17.** The Ii family did not have a designated lawful wife. Naomasa’s last words were: “Our clan always takes the vanguard in battle. By virtue of his birth mother, even an incompetent son stands to inherit the clan headship. We can’t hope to serve any purpose following a lord incapable of leading valiantly from the front. There’s little that can be done to prevent a weakling son conceived to a lawful wife from becoming the clan’s ‘rightful heir.’ Instead, it is best to single out a worthy contender sired to a concubine.”
@@ -453,9 +809,34 @@ ___________
 
 **11-36.** The story about the time when Hyakutake Shima-no-Kami[^397] did not show when Shigenami was killed.[^398] As Shima-no-Kami remained at home, despite the insurrection that broke out near Tsujinodō[^399] following Shigenami’s slaying, his wife threw his armor at him and screeched: “Are you so afraid that you can’t join the rumpus and fight with your allies?” Staying where he was, Shima-no-Kami replied: “I shed tears of sorrow for Shigenami’s downfall, and am unable to rouse myself to enter the fray.”
 
+[^397]: Hyakutake Shima-no-Kami was respected as one of Ryūzōji Takanobu’s four greatest warriors.
+
+
+
+
+[^398]: This is referring to the incident in which Ryūzōji Takanobu assassinated Kamochi Shigenami, lord of the Yanagawa castle, in 1581.
+
+
+
+
+[^399]: Saga City.
+
+
+
+
 Another time, because of a disagreement with her husband, Shima-no-Kami’s wife neglected to feed the men one morning. Her husband and his troops were suddenly mobilized for battle, and departed quickly. The repentant wife prepared some food, and dressing as a man, she hurried to the meeting point with her servant girls, carrying caskets of water and morsels.
 
 Also, after the battle at Shimabara, the Satsuma forces were approaching Chikugo when Shima-no-Kami’s wife was inside the Kamochi castle.[^400] To ensure that the castle did not look like it was only lightly guarded, she improvised by making many insignia flags, and lined them up on top of the walls. She protected the castle valiantly and saw the enemy off. It seems that the flags were used for all manner of purposes thereafter. Shima-no-Kami’s earlier residence was behind the west citadel, but is now where the Denbei mansion is.[^401] Shima-no-Kami’s wife was undeniably a feisty woman.
+
+[^400]: This was the battle in 1584 between Ryūzōji Takanobu and Shimazu Iehisa. The Ryūzōji forces were defeated, and Takanobu and Shima-no-Kami were killed in combat.
+
+
+
+
+[^401]: Nabeshima Denbei Zōfusa.
+
+
+
 
 ___________
 
@@ -466,6 +847,11 @@ ___________
 **11-162.** In raising a boy, the first priority is to encourage valor. From his youngest days, the child should be taught to respect his father as his lord, as well as matters of protocol and etiquette, service, proper speech, self-control, and even how to walk down a road. Warriors of old did this. If he is lazy, he should be scolded and not fed for a day. This is all training to be a good retainer.
 
 With a girl, it is critical to impart to her the importance of virtuousness from a young age. She should not get closer to a man than 6-*shaku*,[^402] nor should she meet his eyes, or receive things from him by hand. She should not visit attractions nor go to temples on her own. A woman who has withstood a strict upbringing at home will not falter when she is married.
+
+[^402]: 1-*shaku* = 12 inches \(30cm\).
+
+
+
 
 When managing servants, reward or punish them appropriately. If one is negligent in enforcing instructions, servants will become selfish and eventually make mistakes. Be on the watch for this.
 
@@ -489,19 +875,44 @@ Lord Katsushige implored him repeatedly: “People will judge me later as a dish
 
 Lord Naoshige called for Ishii Shōsatsu when he had taken ill. “I would like to have the study completely dismantled this evening. Do you think it is possible to keep the workers quiet?” Shōsatsu assured him, “That will be easy, My Lord.” The study was disassembled and tidied without a sound. The next morning, Lord Naoshige asked him, “How were you able to prevent any noise being made?” Shōsatsu replied, “I had the workers bite down on brushwood leaves.” Lord Naoshige commended him: “Jolly good show. That’s why I asked you to manage the task. By the way, I would like to have a rock on the island in the lake to be placed where the study was so I can hold a Buddhist service for myself.[^403] My mother and wife warn that ‘If one uses an unmarked rock as a monument, one will not be able to produce offspring.’ So, although it may be unnerving to people, I need an epitaph inscribed on the back…”
 
+[^403]: The practice called *gyakushu*, or “pre-emptive funeral,” was a Buddhist service conducted during an individual’s lifetime as a reminder of the transience of all things, and to pray for happiness after death.
+
+
+
+
 He then started thinking what to engrave, and decided on Nabeshima Kaga-no-Kami Toyotomi Asaomi Naoshige. The building is where the Sōchiji Temple was built \[in 1618\]. His grave is located there. It was constructed one year prior to his death.
 
 ___________
 
 **3-27.** Lord Naoshige once imparted the following truism to his grandson, Lord Motoshige: “Regardless of the status of your house, be it high or low, the time will come when it will crumble. The downfall will be ignominious if you display exasperation, trying to avoid the inevitable. Accept your ruin with dauntless dignity when that time is upon you. With such mental preparation and acceptance of the inevitable, it may actually prove to be a remedial setback” Lord Getsudō[^404] conveyed this story to Master Zenkai-in.[^405]
 
+[^404]: Nabeshima Motoshige.
+
+
+
+
 ___________
 
+[^405]: Motoshige’s second son, Nabeshima Naoaki.
+
+
+
+
 **3-46.** Lord Aki[^406] went on official business to see Lord Naoshige in the third citadel. Lord Naoshige was away, and no one knew where he was. He visited again the next day, but still Lord Naoshige was nowhere to be found. After searching the castle, he was finally spotted in a corner turret. Lord Aki ascended the tower and inquired,“Pray tell, what are you doing up here?” “I have been observing the manners of the people in our domain for the last two or three days.” Asked, “Why would you do such a thing?” Lord Naoshige replied, “I have been surveying peoples’ attitudes as they pass by, and pondering. Alas, it appears that warriors of Hizen have already lost the ‘sting’ in their spears. You must listen to what I say. Most men who pass by have their eyes cast to the ground. It seems that they have become somewhat docile. The thrust of one’s spear will be ineffective if lacking in fighting spirit. A benign man who is always polite but restrained, cannot do manly tasks. A true samurai sometimes needs swagger in his step, and an aura of haughtiness.” From this time on, it is said that Lord Aki was prone to speaking boastfully.
+
+[^406]: Nabeshima Shigemasa \(1571–1645\).
+
+
+
 
 ___________
 
 **3-49.** Lord Nippō[^407] said to his attendants, “A samurai should never let his guard down, even in ordinary times, as you may be confronted by a crisis when least expected. You will fall down if you are not alert. Also, don’t pour scorn on someone just because others do. In the course of service you should be proactive in offering instruction, but step back and wait for invitations to participate in diversions and sightseeing outings \[rather than organizing them yourself\]. It’s fatuous to feign knowledge of something you don’t know when others talk of it. Also, it’s inappropriate to abstain from telling others of things you do know when asked.”
+
+[^407]: Nabeshima Naoshige.
+
+
+
 
 ___________
 
@@ -513,9 +924,19 @@ ___________
 
 **4-18.** Lord Naoshige enjoyed a nightcap every evening. Before retiring for bed, he was sure to spend time conversing until he sobered up. When he was ready to turn in, he would tighten his underwear; then, unsheathing his *wakizashi*,[^408] he would hold it close to his face, trim his eyebrows as he inspected the blade, then put it back in its scabbard. He never neglected this ritual throughout his lifetime.
 
+[^408]: Short-sword.
+
+
+
+
 ___________
 
 **4-22.** Lord Katsushige made his ten footguards \(*go-kachi*\) carry swords 3-*shaku* 3-*sun* in length.[^409] He would catch them unawares by ordering them to draw their swords at any given moment. Eventually, all of his servants were so well trained, that they could draw the instant he opened his mouth. Then, they were made to carry swords approximately 1-*sun* longer. When they were proficient at drawing these, they reverted back to their old swords \[which were much easier to use\].
+
+[^409]: Approximately 3 feet 3 inches \(1 meter\). 1-*shaku* = 12 inches \(30cm\); 1-*sun* = 1.[^2] inches \(3.[^03]cm\).
+
+
+
 
 ___________
 
@@ -539,11 +960,21 @@ ___________
 
 ___________
 
+[^410]: The Tokugawa shogunate and domains restricted people from carrying swords and adopting surnames \(*myōji taitō*\). Although sword-carrying privileges and surnames were granted to select commoners by daimyo as a reward for praiseworthy service, their official status remained the same. Sometimes, samurai were forced to relinquish their status, and in such cases, the right of *myōji taitō* was renounced.
+
+
+
+
 **4-41.** When Lord Katsushige successfully landed a huge boar at the Shiroishi hunt, everybody raced forth saying, “My oh my, His Lordship has bagged such a rare and large specimen.” Suddenly, the boar jumped to its feet and started to escape. The onlookers took flight in the commotion, but Nabeshima Matabei drew his sword and killed the beast. While this was happening, Lord Katsushige shielded his face with his sleeve saying, “Dust is getting in my eyes.” He was considerately averting his gaze from the disgraceful sight of his bewildered men.
 
 ___________
 
 **4-54.** Before passing the reins of power to his son Mitsushige, Lord Katsushige presented him with a scroll consisting of 20 articles. These were Lord Katsushige’s principles. Included is an account of a discussion held between father and son on day twenty-six of the fifth month \[in Genwa 4 \(1618\)\], when Lord Katsushige visited Lord Naoshige on his deathbed.[^411] Lord Naoshige implored him: “The most important aspect in governing the domain is to retain good men.” Lord Katsushige then asked: “Should I pray for capable vassals?” Lord Naoshige replied, “People offer prayers making pleas to the Buddha and gods for things they have no capacity to obtain. But recruiting fine attendants is something within your powers.” “How can I do this?” Lord Katsushige asked again. “Things tend to be drawn to a man who is partial to them. For example, if a man who has never kept a plant before suddenly starts to love flowers, before long he will be surrounded by them, even the odd rare genus. In this way, if you are enamored of people, then good men are sure to appear. So, just be caring of others.”
+
+[^411]: He died on day three of the sixth month, 1618.
+
+
+
 
 Apparently Lord Naoshige also said, “Being devoid of sincerity will render you incapable of success.” A number of other topics were also covered.
 
@@ -559,9 +990,29 @@ ___________
 
 **5-70.** When Lord Mitsushige was a young man he was interested in all manner of amusements,[^412] and would immerse himself in anything that took his fancy. Elders sought to discourage his obsessions with this and that, thinking it would serve no good purpose in the future.
 
+[^412]: See Book 2-68.
+
+
+
+
 He grew fond of books on poetry around the age of 19. The elders thought it was acceptable for him to enjoy something along these lines, so let him do as his heart desired. Because of his infatuation with poetry, however, he subsequently abandoned all else. Lord Katsushige was enraged when he heard about this. Scolding him severely, he gathered all of his poetry books, and burned them at the Uchikoshi mansion.[^413] He dismissed the two elders[^414] serving Lord Mitsushige, and made him write a divine oath promising that he would never again look at books of poetry. “Poetry is for court nobles in Kyoto, not for men of warrior houses. How can you become head of the clan when you have neglected your duties as a samurai? You only need to be knowledgeable in military affairs and politics.”
 
+[^413]: One of the Nabeshima residences in Edo.
+
+
+
+
+[^414]: Mawatari Ichinosuke and Fukushima Gorōzaemon.
+
+
+
+
 Lord Mitsushige stopped reading poetry after this. He realized after several years had passed: “It is only natural that my grandfather, Lord Katsushige, prohibited me from reveling in poetry, lest it prove detrimental to my ability to govern. If he were alive today, I think he would permit a diversion in my free time so long as it didn’t interfere with my duties. My ancestors were born in the age of the ‘country at war,’ and left honorable reputations as valiant warriors in the realm. Having been born a samurai, it would be sad if I was unable to leave my name for posterity. However, now is an age of peace—I have no recourse to seek glory in battle. If the country was at war, I would perform valiantly in a manner not inferior to my ancestors. To make a name for myself now, I could become a master in ‘the Way of poetry’ to the extent that I am esteemed as the foremost expert in Japan. I want to become the only warrior, other than \[Hosokawa\] Yūsai,[^415] to inherit the secrets of *Kokin-denju*416 and make it my legacy. Providing it doesn’t hinder governance of the domain, then surely it would be acceptable to my late grandfather, and would not be lambasted as undutiful.”
+
+[^415]: Also known as Hosokawa Fujitaka \(1534–1610\), Yūsai was a well-known daimyo and poet who served as a crucial go-between for the shogun Ashikaga Yoshiaki and Oda Nobunaga. When Nobunaga was assassinated in the Honnōji Incident of 1582, Yūsai went into retirement and passed on his domain \(Tango\) to his son, Hosokawa Tadaoki. After this, he became known as an authority on *waka*, and even instructed Toyotomi Hideyoshi \(1537–1598\) in classical Japanese poetry. He is also known for teaching Prince Hachijō Toshihito \(1579–1629\) the secret traditions of the tenth-century *Kokin-shū* anthology \(*Kokin-denju*\).
+
+
+
 
 Thus, he made great efforts studying the ‘Way of poetry,’ and was finally able to obtain the secrets of *Kokin-denju* on his deathbed, which was really quite miraculous. He said, “As I was prohibited by my grandfather, I must continue my studies behind closed doors.” He was always concerned that his poetry fixation would be leaked to the world.
 
@@ -573,11 +1024,26 @@ ___________
 
 ___________
 
+[^417]: The inference being that it was strictly prohibited for anybody to use arms in the shogun’s Edo Castle.
+
+
+
+
 **5-81.** When Lord Tsunashige was given a reprieve from duty in Edo for the first time, Lord Mitsushige traveled with him back to Saga. All of the villagers lined the roads, prostrating with their hands clasped in prayer to welcome the young lord whom they were seeing for the first time in the fief.[^418] Lord Tsunashige later commented to his father, “They were kneeling in prayer to me as I passed by.” Lord Naoshige told him off sternly. “Understand this, son. We are no more worthy of veneration than other people.”
+
+[^418]: Due to the *sankin-kōtai* system in which daimyo were obligated to leave their families in Edo as hostages, this was the first time that Tsunashige was able to visit the domain he was destined to lead. He was 21 years of age. See Book 1-194.
+
+
+
 
 ___________
 
 **5-143.** On the twenty-fifth day of the fifth month, Empō 1 \(1673\), three vessels from England came to Nagasaki port with the intention of trading, but we turned them away.[^419] Because of the kerfuffle , Kumashiro Sakyō \(and many others\) was dispatched to Nagasaki to guard Fukahori… Sakyō sent notification that it would be unwise for many people to descend at once as it might draw attention, so the new arrivals used plain-looking palanquins to reach their destination, one at a time. Thinking it critical to prepare for any situation, Sakyō mobilized the guards with a strategic plan.
+
+[^419]: The ships belonged to the English East India Company.
+
+
+
 
 ****
 
@@ -647,7 +1113,17 @@ ___________
 
 ___________
 
+[^421]: *Essays in Idleness*, or *The Harvest of Leisure* is a well-known collection of Japanese essays or “random jottings” written by the monk Yoshida Kenkō between the years 1330 and 1332. *Azuma otoko* refers to men or warriors of the Eastern provinces who were known for being unpretentious and pragmatic.
+
+
+
+
 **6-81.** Originally there were no *ashigaru*422 in the Nabeshima clan. During the campaigns to invade Korea, various houses utilized *ashigaru* in their armies to great effect. The Nabeshima leaders decided to make second and third sons serve as *ashigaru*, and this was the beginning of the rank in the Saga domain. \(It is also said that laborers for the construction of Edo Castle were temporarily appointed as *ashigaru* during the siege of Osaka Castle.[^423] The two theories are at odds. Verification is needed.\)
+
+[^423]: Katsushige was appointed as a construction official for the building of Edo Castle. See Book 1-201 regarding the sieges at Osaka Castle.
+
+
+
 
 ___________
 
@@ -657,9 +1133,19 @@ ___________
 
 **7-1.** Naridomi Hyōgo[^424] said, “Attaining victory means to win over one’s allies. Winning over one’s allies requires defeating the self. To defeat the self necessitates triumphing over one’s body with the mind. That is, you must forge your body and mind so that even with tens of thousands of allied warriors behind you, nobody can keep up as you charge forth on your own.”
 
+[^424]: Naridomi Hyōgonosuke Shigeyasu \(1560–1634\).
+
+
+
+
 ___________
 
 **7-5.** On Tazaki Geki’s armor. When the assault took place on the Hara Castle in Shimabara, the warrior Tazaki Geki was wearing a dazzling set of armor.[^425] Lord Katsushige was displeased by his ostentatiousness, and whenever he saw something garish from then on, he would remark, “Ah, just like the armor of Geki.” In light of this anecdote, pretentious military equipment or attire will be condemned as flimsy and lacking resilience. People will see through it.
+
+[^425]: During the Shimabara Uprising of 1637.
+
+
+
 
 ___________
 
@@ -669,11 +1155,31 @@ ___________
 
 **7-48.** On knowledge gleaned by Shida Kichinosuke through the course of his life.[^426] Kichinosuke remarked: “It is exhausting to run until out of breath; but it feels particularly good when one is standing after finishing. It is even more pleasurable to sit. Furthermore, it is better still to lie down. And even more than that, how wonderful it is to take a pillow and doze off. This is the way a man’s life should be. Ideally, you should apply yourself and work vigorously in your youth, and then sleep in your old age, or when on the verge of passing away. If you sleep first you will have to ‘break your bones’ working later. Even if you work your fingers to the bone later, it would be most unfortunate to die after spending \[the latter part of\] your life bogged down in exhaustive toil.” \(This anecdote was relayed by Shimomura Rokuzaemon.\) Kichinosuke also had a similar saying. “The more hardship, the better.”
 
+[^426]: See Book 1-48.
+
+
+
+
 ___________
 
 **7-52.** When Harada Shirōzaemon slayed a giant snake. When Harada Esquire, a member of a Takeo \[Nabeshima\] family, was 15 years old, he was walking across a field with a falcon on his arm when a large serpent appeared. Perhaps with its eye on the bird, the snake lunged and wrapped its tail around Harada’s chest three times. Harada drew his short sword as he held the falcon, and waited in the ready position for the serpent’s head to approach. When it was in reach he sliced it off. The limp body of the serpent flopped to the ground. It was approximately 3-*ken* in length.[^427] Harada’s ribs were injured in the encounter and he took some time to recuperate. He says his ribs hurt to this day when it gets cold. \(Told directly by Harada.\)
 
+[^427]: Approximately 18 feet \(5.[^5]m\).
+
+
+
+
 Yet another man who went hunting in Takeo came across an unfamiliar creature with its mouth wide open. It was attempting to bite him, so he removed his hunting knife, approximately 1-*shaku* 2 or 3-*sun* long,[^428] and plunged the blade deep inside its mouth up to his elbow. It was a snake measuring 1.[^5]-*ken* or so.[^429] Its face looked like that of a guardian lion-dog, and about 4-*shaku*430 of its torso was like that of a cat. Its scales were like coins, and white hair extended from its jaw to its belly. It had eight feet that looked like those of a rat. Its body tapered towards its tail. He preserved the creature in salt and took it back to Saga. This happened about three or four years ago. For a while nobody could pass where the reptilian beast was discovered because the mountain trembled violently, and the paths were cut off.
+
+[^428]: Approximately 14–16 inches \(36–40cm\).
+
+
+
+
+[^429]: Approximately 8 feet 9 inches \(2.[^7]m\).
+
+
+
 
 If a snake assails you, quickly leap to the side so that it slithers straight by. It will come towards you with its head raised, so strike to break its back. If you cut it in two, it may still slither away. Cutting it below the head will snuff it out. If you cut low on its tail, it will progress another 2 or 3-*ken*431 and stop. It is said that snakes will jab humans with their heads, and can penetrate through one side and out the other. Furthermore, a *mamushi*432 will come back at you and take revenge if you fail to cut off its head.
 
@@ -689,6 +1195,11 @@ ___________
 
 **8-77.** Uchida Shōemon’s riposte about performing *kaishaku*. Once, a group of warriors congregated in the greeting room of the main citadel. A man passed comment to Uchida Shōemon:[^433] “I hear that you are a skilled teacher in the art of swordsmanship. But I do declare that your teaching style must be rough, judging by the way you carry yourself. I’ll wager that if you were to perform the *kaishaku*, you would probably lop the top of the poor fellow’s head off \[rather than slice through his neck\].” Shōemon retorted, “Au contraire\! Let me mark your neck with a spot of ink, and I’ll show you just how precise my cutting is.”
 
+[^433]: A master of the Tetsujin-ryū school of swordsmanship.
+
+
+
+
 ___________
 
 **8-79.** What Nagayama Rokurōzaemon said to the *rōnin*. When Rokurōzaemon was on the Tokaidō road traveling through the township of Hamamatsu, a vagrant was begging outside an inn. He approached Rokurōzaemon’s palanquin saying, “I am a *rōnin* from Echigo. I have no money and am destitute. As we are both samurai, I would be ever so grateful for assistance.” Angry at the request, Rokurōzaemon refused him by saying, “How insolent of you to proclaim that we are both samurai\! If I were you, I would slit my gut open. Instead of disgracing yourself with no money, cut open your stomach now\!” With this, the vagrant meekly slunk away into the shadows.
@@ -697,11 +1208,21 @@ ___________
 
 **9-3.** When Shimomura Shōun was attending at the castle, Lord Naoshige commented, “It is wonderful that Iheita[^434] is so burly and strong beyond his years. He wrestled some of the attendants and defeated those older than he.” Shōun replied: “Although I am an old man, let’s have a seated wrestling bout with him.” He pulled Iheita in close and threw him down with force. Taking his leave, Shōun said: “He will shame himself as his bones have not yet set, but he is immodest regarding his strength. He is weaker than he looks.”
 
+[^434]: Nabeshima Katsushige.
+
+
+
+
 ___________
 
 **9-21.** An opinion offered to a certain warrior intent on killing his superior. When the lord was residing in Edo, a certain retainer who had risen to a position of prominence harshly scolded another man to perform his duties properly. The insulted samurai withdrew from the scene without uttering so much as a word. It seemed as though he was preparing to kill his superior.
 
 Another samurai invited him into a hut. “You cannot be blamed for harboring enmity and wanting to teach him a jolly good lesson. At the risk of sounding rude, I believe your rancor may be because you have a different view of service. His Lordship looks to depend on us should the need to deploy for battle arise. So, he shows restraint in how he uses us in service in peaceful times. His Lordship is cordial to minions like him to wipe his backside, or do menial tasks.[^435] But he is a discourteous fool who is not aware of this, and misguidedly thinks he is a trusted retainer. Because he is a fool, he serves in a carefree manner, but is no more than a fly that has landed on His Lordship’s head. To fight with an idiot such as him, when you are a warrior trusted by the lord to excel in times of crisis, is no better than beating a leper to death with a staff. Furthermore, it would be disloyal to inconvenience His Lordship by causing a fracas. An admirable samurai would not do anything drastic. You must act as your heart dictates, and as this is just my opinion, I have no intention of forcing you to stop.” The samurai stopped thinking about killing the man.
+
+[^435]: See 3-9.
+
+
+
 
 ___________
 
@@ -713,11 +1234,21 @@ ___________
 
 ___________
 
+[^436]: In 2-50, he is referred to as Yozaemon.
+
+
+
+
 **10-26.** The priest Ryōzan wrote a summary of Lord Ryūzōji Takanobu’s military exploits. Another priest saw his record and censured him by saying: “It’s ill-advised for a priest to write about a military general. Notwithstanding how eloquent his writing may be, he will most likely misunderstand a famous general’s mind on account of his unfamiliarity with military affairs. Accordingly, it would be woeful to convey false impressions of a famous general to future generations \[through an amateur’s interpretation\].”
 
 ___________
 
 **10-56.** A certain man said, “There is a poem from the shrine \[of Sugawara no Michizane\][^437] that goes: ‘If one follows the path of sincerity in his heart, although he may not pray, will the deities not watch over him?’ What can ‘path of sincerity’ possibly mean?” Another man answered. “As you appear to be partial to poetry, allow me to respond in verse. ‘Inasmuch as all things in this world are deceptive, sincerity is revealed only in death.’ Living as if already dead is how to embody the path of sincerity.”
+
+[^437]: Sugawara-no-Michizane \(845–903\) was a prominent court scholar and famous poet during the Heian period \(794–1185\). After he contested the powerful Fujiwara hegemony in court, he died in exile for being accused of “plotting against the throne.” A number of subsequent misfortunes at court were attributed to his angry spirit. He was posthumously pardoned and awarded the highest court rank to pacify his ghost. He is revered now as the patron saint of scholarship.
+
+
+
 
 ___________
 
@@ -737,6 +1268,11 @@ ___________
 
 **10-127.** Hōjō Awa-no-Kami[^439] gathered his students of military science and requested that a popular Edo physiognomist come and ascertain which of them were strong, and who were cowards. He made each one of his students sit before the man. “If you are ‘strong,’ strive to better yourself even more; if you are a ‘coward,’ be even more determined to sacrifice your very life into your training. As you were born with these traits, it is nothing to be ashamed of.” Hirose Denzaemon was only 12 or 13 years old at the time, but sat in front of the physiognomist and raised his voice, saying: “If you declare that I have the countenance of a coward, I will smite you with a single blow of my sword\!”
 
+[^439]: Hōjō Awa-no-Kami Ujinaga \(1609–1670\) studied the Kōshū-ryū school of military studies \(*gungaku*\) under strategist Obata Kagenori \(1572–1639\). Ujinaga held a number of important posts in the bakufu, and taught a radically new interpretation of military strategy to powerful political figures, making him highly influential in the redefining of the samurai peacetime role.
+
+
+
+
 ___________
 
 **10-137.** It is best to say in a public discussion or tribunal: “Allow me to defer my reply until I have given it due consideration.” Even if offering only a tentative response, it is prudent to retain some flexibility by declaring, “I would still like to ponder this matter a little more, if I may.” With this margin of latitude, one should discuss the matter with others and solicit advice. An astute fellow may impart an unexpected tenet of wisdom that adds reason to your cause. Even if an ill-informed man learns the circumstances of the affair, the gist can then be spread throughout the community to your advantage.
@@ -746,6 +1282,11 @@ Also, if you rehearse your argument with your servants or maids, “When they sa
 ___________
 
 **11-26.** Aki-no-Kami’s[^440] contention that his children need not study military tactics \(*gunpō*\). “Nothing can be achieved by analyzing too much on the field of battle. Discernment \(*funbetsu*\) prohibits a warrior from charging frenetically at the enemy. Indiscretion is what is needed in the thick of battle. To have a smattering of knowledge in military tactics will make a warrior indecisive as he ponders his options. Thus, my offspring should not study military tactics.”
+
+[^440]: Nabeshima Aki-no-Kami Shigetake was the lord of the Fukabori branch of the Nabeshima clan.
+
+
+
 
 ___________
 
@@ -757,6 +1298,11 @@ ___________
 
 1. Young men should not engage in poetry, reading graphic novels, *gō*, *shōgi,* or other such activities that will cause listlessness. Members of the Nakano clan should carry an oaken sword and hone their military preparedness for service.
 
+[^441]: Jōchō’s father. See 1-60. Although the gist is generally the same for some of these precepts, the wording is slightly different than those quoted in the first book.
+
+
+
+
 2. Anything is achievable through single-minded endeavor \(*bannō-isshin*\).
 
 3. Dog skin inside, tiger hide outside.
@@ -765,9 +1311,24 @@ ___________
 
 5. Be sure to secure even a broiled chicken.[^443]
 
+[^442]: You can never be too polite.
+
+
+
+
 6. Whip even a galloping horse.[^444]
 
+[^443]: You should not let your guard down under any circumstance.
+
+
+
+
 7. A man who asks questions candidly to your face holds no malice.
+
+[^444]: Don’t take things for granted, especially if they seem to be going well.
+
+
+
 
 8. A man lives for one generation, but a name forever.
 
@@ -779,13 +1340,28 @@ ___________
 
 12. It is not rude to ask even when you know the answer, but an imperative if you don’t.
 
+[^445]: 1-*chō* = 358 feet \(110m\).
+
+
+
+
 13. If you can see one direction, you can see eight.[^446]
 
 14. If you know one truth, you will awaken to everything.
 
+[^446]: As long as you are careful in your observance, you will be able to perceive all things.
+
+
+
+
 15. Wrap your will in pine needles.[^447]
 
 16. A trustworthy man is a *kusemono* \(heroic warrior\).
+
+[^447]: If you are sincere, the gifts you send as tribute are allowed to be small as it’s the thought that counts.
+
+
+
 
 17. Don’t insert your hands in the sides of your *hakama*. It is careless.
 
@@ -795,530 +1371,23 @@ ___________
 
 20. When he was dying he said: “Everyone knows the name of Jin’uemon. It would be regrettable to groan because of the pain.” He never groaned until the very end.[^449]
 
+[^448]: To conceal where one is looking.
+
+
+
+
 ___________
+
+[^449]: See Book 9-26.
+
+
+
 
 **11-48.** On breaking free from life and death. A warrior who cannot detach himself from matters of life and death will be useless. The axiom, “Anything is achievable through single-minded endeavor” appears to be a form of attachment, but actually means to break free from concerns of life and death. With this mind-set, any meritorious feat is achievable. The \[martial\] arts are a vehicle into the Way \[of detachment from life and death\].
 
 ___________
 
 **11-74.** Matsudaira Izu-no-Kami said to Mizuno Kenmotsu \[Tadayoshi\]:[^450] “You are an expedient man, but it is a pity you are so short.” Kenmotsu retorted: “Indeed it is true. Some things turn out contrary to one’s liking. I would be a little taller if I was to chop your head off and attach it to my feet, but I am unable to have it my way.”
-
-___________
-
-**11-124.** The requisite for speaking is to not speak. If you wish to settle something without words, it can be accomplished without talk. If one is commanded to speak, do so with as few words as possible so that it sounds reasonable. It is opprobrious conduct to blurt impulsively and superfluously. You will likely be forsaken by others.
-
-___________
-
-**11-167.** It is said that, “Great enterprise does not dwell on trifles.” As long as a retainer serves his lord with singular loyalty \(which I have written about exhaustively in *Gukenshū*\), he will be forgiven, even if he is careless in other matters, or makes a nuisance of himself in having his own way. By contrast, perfection in every respect makes a man somewhat disagreeable. He will be stretched to breaking point in important matters. One cannot achieve remarkable deeds without flexibility. It is said, “When a man achieves something great, minor blunders are not to be dwelt upon as ‘undutiful.’”
-
-__________
-
-
-
-[^324]: *Giri* is an important concept that refers to the “obligation” to act in accordance with established social protocols. In the context of samurai, the concept referred mainly to their obligation of service to their liege lord, even if it meant sacrificing their lives in their enduring quest to repay the favor \(*on*\) bestowed upon them. In this example, Naoshige is referring to the sense of obligation to unrelated ancestors allied to the clan who helped forge the culture and ways of his beloved domain.
-
-
-
-[^325]: Saitō Yōnosuke was a celebrated retainer of Nabeshima Naoshige who proved his martial prowess during the expeditions in Korea. Nevertheless, he appears to have been quite a problematic fellow in the ensuing peace of the Tokugawa period. Because of his brusque personality, he did not endear himself to many of his superiors, resulting in demotion and cuts to his stipend. A demonstration of his impetuousness can be seen in the following vignette, Book 3-17.
-
-
-
-[^326]: The first daimyo of the Nabeshima domain and Katsushige’s father.
-
-
-
-[^327]: The Saga Castle consisted of four citadels referred to as *ichi-no-maru, ni-no-maru, san-no-maru*, and *nishi-no-maru*.
-
-
-
-[^328]: Hizen was the region that included the fiefs of Saga, Karatsu, Hirado, Ōmura, and Shimabara. In this context, Noashige is referring only to the Saga domain.
-
-
-
-[^329]: Nabeshima Naoshige.
-
-
-
-[^330]: “Shinano-no-Kami” was an honorable name for Nabeshima Katsushige, literally meaning “Lord of Shinano.”
-
-
-
-[^331]: All of these men were elders.
-
-
-
-[^332]: See Book 7-43 below.
-
-
-
-[^333]: See Book 1-112.
-
-
-
-[^334]: See footnote for Book 1-194.
-
-
-
-[^335]: Records indicate that the third lord of the Ogi sub-domain, Nabeshima Mototake, was appointed as *gochisō-yaku*, or the official tasked with entertaining important visitors to Edo Castle, in 1692. This date is at odds with what is recorded in this section of *Hagakure*.
-
-
-
-[^336]: See Book 1-101.
-
-
-
-[^337]: See Book 2-129.
-
-
-
-[^338]: Nabeshima Kaga-no-Kami Naoyoshi \(1623–1689\). Motoshige’s son, and second lord of the Ogi sub-domain.
-
-
-
-[^339]: Nabeshima Kii-no-Kami Mototake \(1662–1713\).
-
-
-
-[^340]: Distributed by Kumano Sanzan, the three major shrines \(Kumano Hongū Taisha Shrine, Kumano Hayatama Taisha Shrine, and Kumano Nachi Taisha Shrine\), these talismans were used for *kishōmon* \(sworn oath\) from the Heian period through to early modern times.
-
-
-
-[^341]: See Book 2-129.
-
-
-
-[^342]: Nabeshima Motoshige, founder of the Ogi sub-domain.
-
-
-
-[^343]: Nabeshima Hizen-no-Kami Tadanao. Nabeshima Katsushige’s heir.
-
-
-
-[^344]: In 1626.
-
-
-
-[^345]: This section continues with exactly the same content as 4-49 regarding the four types of retainers.
-
-
-
-[^346]: Tsunetomo’s nephew.
-
-
-
-[^347]: Also referred to as Kaion.
-
-
-
-[^348]: Nabeshima Tsunashige.
-
-
-
-[^349]: Iwaki Nakamura domain.
-
-
-
-[^350]: In Japan’s medieval period, the position of *yoriki* was to serve as an assistant to the lord or unit commanders during military campaigns. During the later Tokugawa period, however, *yoriki* were administrative assistants in governmental offices. This passage is referring to the former.
-
-
-
-[^351]: Noto-no-Kami. A son of Ryūzōji Moriie.
-
-
-
-[^352]: During the Shimabara Uprising \(1637–1638\).
-
-
-
-[^353]: An inspector \(*o-metsuke*\).
-
-
-
-[^354]: Twenty-eighth day of the second month, 1637.
-
-
-
-[^355]: Tsunetomo’s half-brother.
-
-
-
-[^356]: See Book 4-46.
-
-
-
-[^357]: Jōchō’s nephew.
-
-
-
-[^358]: A form of traditional Japanese comic theater usually performed as an intermission between acts in Noh performances.
-
-
-
-[^359]: Son of Nakano Masayoshi, and Jōchō’s cousin.
-
-
-
-[^360]: Also see Book 1-16.
-
-
-
-[^361]: *Shudō*. See Book 1-180 and 181.
-
-
-
-[^362]: Nabeshima Naozumi. Katsushige’s son, and a later lord of the Hasuike sub-domain.
-
-
-
-[^363]: The Shimabara Uprising of 1637–1638.
-
-
-
-[^364]: A major battle fought on July 30, 1570 near the Anegawa River in northern Ōmi Province \(now Shiga Prefecture\) between the allied armies of Oda Nobunaga and Tokugawa Ieyasu, who defeated the combined forces of Asai Nagamasa and Asakura Kagetake.
-
-
-
-[^365]: Tsunetomo’s uncle.
-
-
-
-[^366]: Nabeshima Naozumi \(1616–69\), the first daimyo of the Hizen Hasuike domain, and the fifth son of Nabeshima Katsushige.
-
-
-
-[^367]: Nabeshima Ukon Naomori.
-
-
-
-[^368]: Approximately 15 inches \(39cm\).
-
-
-
-[^369]: A retainer of the Taku clan in Saga.
-
-
-
-[^370]: Jōchō’s father.
-
-
-
-[^371]: A warrior with the rank of *teakiyari*.
-
-
-
-[^372]: Ikeda Mitsunaka \(1630–1694\), the first daimyo of the Inaba-no-Kuni Tottori domain.
-
-
-
-[^373]: The term *bushidō* first appeared in the *Kōyō-gunkan*. This treatise, concerning the life and times of Takeda Shingen, is a treasure-trove of information for understanding the Sengoku warrior ethos. Due to many historical inaccuracies, however, scholars tend to view the text as untrustworthy. There is even controversy over who wrote the book. Most of the chapters are signed by Kōsaka Danjō Masanobu \(1527–1578\), a Takeda house elder. However, some scholars have contested that the author was the military scholar Obata Kagenori \(1572–1663\). Research by Sakai Kenji into the language used shows that it is reminiscent of the Muromachi period, and was therefore probably written by Kōsaka Danjō, and compiled by Obata Kagenori.
-
-
-
-[^374]: Baba Minō-no-Kami.
-
-
-
-[^375]: Approximately 17–18 inches \(43–46cm\) and 12 inches \(30cm\) respectively.
-
-
-
-[^376]: .A possible alternative in interpretation is to translate “attacking with” as “is being attacked with.”
-
-
-
-[^377]: Nabeshima Kii-no-Kami Motoshige of the Ogi sub-domain.
-
-
-
-[^378]: Traditional Japanese swordsmanship.
-
-
-
-[^379]: 1581–1650. A celebrated master of swordsmanship in the early Edo period. A student of Yagyū Munenori.
-
-
-
-[^380]: Yagyū Tajima-no-Kami Munenori.
-
-
-
-[^381]: This is referring to the famous teaching in the Yagyū Shinkage-ryū school of swordsmanship, called *mutō-dori*. That is, to take the sword away from the opponent without cutting him down.
-
-
-
-[^382]: Keien Myōyo.
-
-
-
-[^383]: *Uwanari-uchi* was the practice in which a divorced woman assembled her female relatives or attendants to play pranks on her husband’s new spouse to “get even.”
-
-
-
-[^384]: Nabeshima Naoshige’s new wife.
-
-
-
-[^385]: 1570.
-
-
-
-[^386]: It should read “Yokozō” Castle.
-
-
-
-[^387]: In Kyushu, not to be confused with the city in modern-day Aichi Prefecture.
-
-
-
-[^388]: Kanemaru Gun’uemon was a scribe.
-
-
-
-[^389]: Nabeshima Masayuki.
-
-
-
-[^390]: Daizen was ordered to guard the Edo residence at the time of the Shimabara Uprising, but disobeyed and went to the front.
-
-
-
-[^391]: Nabeshima Naoshige’s mother-in-law. She was Ryūzōji Takanobu’s mother and remarried Naoshige’s father.
-
-
-
-[^392]: This episode happened in 1697.
-
-
-
-[^393]: See footnote for 3-1.
-
-
-
-[^394]: Lord Hata’s vassal.
-
-
-
-[^395]: See Book 2-136.
-
-
-
-[^396]: In some versions of *Hagakure*, the character for “fault” or “wrong” \(非 = *hi*\) is used instead of “woman” \(婦 = *fu*\). This actually makes more sense as it contrasts with “reason”  
-\(理 = *ri*\), but I have chosen to remain faithful to the text I am basing this translation on. It may have been done purposefully in jest, or as a cynical comparison between “women” and “reason.”
-
-
-
-[^397]: Hyakutake Shima-no-Kami was respected as one of Ryūzōji Takanobu’s four greatest warriors.
-
-
-
-[^398]: This is referring to the incident in which Ryūzōji Takanobu assassinated Kamochi Shigenami, lord of the Yanagawa castle, in 1581.
-
-
-
-[^399]: Saga City.
-
-
-
-[^400]: This was the battle in 1584 between Ryūzōji Takanobu and Shimazu Iehisa. The Ryūzōji forces were defeated, and Takanobu and Shima-no-Kami were killed in combat.
-
-
-
-[^401]: Nabeshima Denbei Zōfusa.
-
-
-
-[^402]: 1-*shaku* = 12 inches \(30cm\).
-
-
-
-[^403]: The practice called *gyakushu*, or “pre-emptive funeral,” was a Buddhist service conducted during an individual’s lifetime as a reminder of the transience of all things, and to pray for happiness after death.
-
-
-
-[^404]: Nabeshima Motoshige.
-
-
-
-[^405]: Motoshige’s second son, Nabeshima Naoaki.
-
-
-
-[^406]: Nabeshima Shigemasa \(1571–1645\).
-
-
-
-[^407]: Nabeshima Naoshige.
-
-
-
-[^408]: Short-sword.
-
-
-
-[^409]: Approximately 3 feet 3 inches \(1 meter\). 1-*shaku* = 12 inches \(30cm\); 1-*sun* = 1.[^2] inches \(3.[^03]cm\).
-
-
-
-[^410]: The Tokugawa shogunate and domains restricted people from carrying swords and adopting surnames \(*myōji taitō*\). Although sword-carrying privileges and surnames were granted to select commoners by daimyo as a reward for praiseworthy service, their official status remained the same. Sometimes, samurai were forced to relinquish their status, and in such cases, the right of *myōji taitō* was renounced.
-
-
-
-[^411]: He died on day three of the sixth month, 1618.
-
-
-
-[^412]: See Book 2-68.
-
-
-
-[^413]: One of the Nabeshima residences in Edo.
-
-
-
-[^414]: Mawatari Ichinosuke and Fukushima Gorōzaemon.
-
-
-
-[^415]: Also known as Hosokawa Fujitaka \(1534–1610\), Yūsai was a well-known daimyo and poet who served as a crucial go-between for the shogun Ashikaga Yoshiaki and Oda Nobunaga. When Nobunaga was assassinated in the Honnōji Incident of 1582, Yūsai went into retirement and passed on his domain \(Tango\) to his son, Hosokawa Tadaoki. After this, he became known as an authority on *waka*, and even instructed Toyotomi Hideyoshi \(1537–1598\) in classical Japanese poetry. He is also known for teaching Prince Hachijō Toshihito \(1579–1629\) the secret traditions of the tenth-century *Kokin-shū* anthology \(*Kokin-denju*\).
-
-
-
-[^416]: *Kokin-denju* \(“Transmission of the *Kokin-shū*”\) is a corpus of secret teachings concerning the poems of the imperially commissioned classic tenth century poetry anthology known as the *Kokin-shū*. These coveted teachings were usually passed on from the teacher to a chosen student. *Kokin-denju* began when the highly prominent Nijō and Kyōgoku-Reizei literary families of Kyoto disputed the bequeathal of Fujiwara no Sadaie’s \(Teika, 1162–1241\) traditions of poetry. Both families were descendants of this legendary bard.
-
-
-
-[^417]: The inference being that it was strictly prohibited for anybody to use arms in the shogun’s Edo Castle.
-
-
-
-[^418]: Due to the *sankin-kōtai* system in which daimyo were obligated to leave their families in Edo as hostages, this was the first time that Tsunashige was able to visit the domain he was destined to lead. He was 21 years of age. See Book 1-194.
-
-
-
-[^419]: The ships belonged to the English East India Company.
-
-
-
-[^420]: Clan or local deity. See Book 2-80.
-
-
-
-[^421]: *Essays in Idleness*, or *The Harvest of Leisure* is a well-known collection of Japanese essays or “random jottings” written by the monk Yoshida Kenkō between the years 1330 and 1332. *Azuma otoko* refers to men or warriors of the Eastern provinces who were known for being unpretentious and pragmatic.
-
-
-
-[^422]: Low-level foot soldiers.
-
-
-
-[^423]: Katsushige was appointed as a construction official for the building of Edo Castle. See Book 1-201 regarding the sieges at Osaka Castle.
-
-
-
-[^424]: Naridomi Hyōgonosuke Shigeyasu \(1560–1634\).
-
-
-
-[^425]: During the Shimabara Uprising of 1637.
-
-
-
-[^426]: See Book 1-48.
-
-
-
-[^427]: Approximately 18 feet \(5.[^5]m\).
-
-
-
-[^428]: Approximately 14–16 inches \(36–40cm\).
-
-
-
-[^429]: Approximately 8 feet 9 inches \(2.[^7]m\).
-
-
-
-[^430]: Approximately 3 feet 11 inches \(1.[^2]m\).
-
-
-
-[^431]: Approximately 12–18 feet \(3.[^6]–5.[^5]m\).
-
-
-
-[^432]: Japanese pit viper.
-
-
-
-[^433]: A master of the Tetsujin-ryū school of swordsmanship.
-
-
-
-[^434]: Nabeshima Katsushige.
-
-
-
-[^435]: See 3-9.
-
-
-
-[^436]: In 2-50, he is referred to as Yozaemon.
-
-
-
-[^437]: Sugawara-no-Michizane \(845–903\) was a prominent court scholar and famous poet during the Heian period \(794–1185\). After he contested the powerful Fujiwara hegemony in court, he died in exile for being accused of “plotting against the throne.” A number of subsequent misfortunes at court were attributed to his angry spirit. He was posthumously pardoned and awarded the highest court rank to pacify his ghost. He is revered now as the patron saint of scholarship.
-
-
-
-[^438]: 358 feet \(110m\).
-
-
-
-[^439]: Hōjō Awa-no-Kami Ujinaga \(1609–1670\) studied the Kōshū-ryū school of military studies \(*gungaku*\) under strategist Obata Kagenori \(1572–1639\). Ujinaga held a number of important posts in the bakufu, and taught a radically new interpretation of military strategy to powerful political figures, making him highly influential in the redefining of the samurai peacetime role.
-
-
-
-[^440]: Nabeshima Aki-no-Kami Shigetake was the lord of the Fukabori branch of the Nabeshima clan.
-
-
-
-[^441]: Jōchō’s father. See 1-60. Although the gist is generally the same for some of these precepts, the wording is slightly different than those quoted in the first book.
-
-
-
-[^442]: You can never be too polite.
-
-
-
-[^443]: You should not let your guard down under any circumstance.
-
-
-
-[^444]: Don’t take things for granted, especially if they seem to be going well.
-
-
-
-[^445]: 1-*chō* = 358 feet \(110m\).
-
-
-
-[^446]: As long as you are careful in your observance, you will be able to perceive all things.
-
-
-
-[^447]: If you are sincere, the gifts you send as tribute are allowed to be small as it’s the thought that counts.
-
-
-
-[^448]: To conceal where one is looking.
-
-
-
-[^449]: See Book 9-26.
-
-
 
 [^450]: Lord of the Okazaki domain.
 
@@ -1338,4 +1407,17 @@ __________
 
 
 
+
+
+
+
+___________
+
+**11-124.** The requisite for speaking is to not speak. If you wish to settle something without words, it can be accomplished without talk. If one is commanded to speak, do so with as few words as possible so that it sounds reasonable. It is opprobrious conduct to blurt impulsively and superfluously. You will likely be forsaken by others.
+
+___________
+
+**11-167.** It is said that, “Great enterprise does not dwell on trifles.” As long as a retainer serves his lord with singular loyalty \(which I have written about exhaustively in *Gukenshū*\), he will be forgiven, even if he is careless in other matters, or makes a nuisance of himself in having his own way. By contrast, perfection in every respect makes a man somewhat disagreeable. He will be stretched to breaking point in important matters. One cannot achieve remarkable deeds without flexibility. It is said, “When a man achieves something great, minor blunders are not to be dwelt upon as ‘undutiful.’”
+
+__________
 

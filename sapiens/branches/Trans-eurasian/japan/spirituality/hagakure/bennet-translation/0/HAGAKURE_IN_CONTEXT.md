@@ -11,7 +11,17 @@ title = "HAGAKURE IN CONTEXT"
 
 *Bushido*[^1] tends to stir people’s imaginations. The term is synonymous on the one hand with strength, masculinity, fearlessness, honor, and transcendence, and on the other, callousness and cold-hearted brutality. The most visible vestige of samurai culture in the modern age is budo, that is, the Japanese traditional martial arts, and these are indisputably Japan’s most successful cultural exports, with literally tens of millions of enthusiasts around the world. People practice these arts not only as a means of self-defense or as competitive sports, but also in the pursuit of spiritual development.
 
+[^1]: *Bushidō* \(武士道\)—literally “the Way of the warrior.” “*Bushi*” is the common Japanese word denoting warriors in academic circles, although “samurai” is probably better known in the West. Nowadays, both terms are used interchangeably; however, the word samurai is used most frequently in this book.
+
+
+
+
 Another factor that sparked interest in *bushido*—although by no means a driving force now—was Japan’s remarkable postwar economic success. In the days of the bubble economy in the late 1980s, the belief that Japan’s economic and business accomplishments could be attributed to management practices deriving from “samurai strategy” was widely held. The Japanese culture boom of the 1980s and 1990s encouraged many people to take up martial arts, and to study translations of famous warrior books, such as Miyamoto Musashi’s *The Book of Five Rings, Daidōji Yūzan’s Budō Shoshinshū*, and of course, Yamamoto Jōchō’s \(Tsunetomo\)[^2] *Hagakure*. Nowadays, Japanese culture has been embraced by a new generation of “*anime otaku*,” or diehard devotees of Japanese animation and pop culture.
+
+[^2]: Tsunetomo is written with the *kanji* characters 常朝. When Tsunetomo took the tonsure following the death of his lord in 1700, he began using his Buddhist name, Jōchō, which uses the same *kanji* characters in their *on* reading. Discussions of *Hagakure* are divided as to which reading is used. As *Hagakure* was written after Jōchō became a monk, throughout my translation he is mostly referred to as Jōchō rather than Tsunetomo.
+
+
+
 
 There have been many popular movies over the years promoting samurai ideals, including *The Last Samurai,* starring Tom Cruise and Watanabe Ken. This film sparked a resurgence of interest in samurai ethics. Also of note was the critically acclaimed 1999 film, *Ghost Dog,* starring Forest Whitaker, which used *Hagakure* aphorisms as reference points throughout the story about an African-American hit man. He worked for a Mafia mobster, seeing himself as a devoted “retainer,” unflinching in his loyalty to the man who saved his life years ago.
 
@@ -27,25 +37,60 @@ For example, our society denounces suicide, and capital punishment for murder is
 
 Properly titled *Hagakure-kikigaki* \(literally “Dictations given hidden by leaves”\), *Hagakure* is now one of the most famous treatises on *bushido*. Completed in 1716, the content consists of approximately 1,300 vignettes and contemplations of varying lengths, divided into 11 books. It covers the people, history, and traditions of the Saga domain[^3] in the southern Japanese island of Kyushu, and also records anecdotes about warriors from other provinces. Although some of the content is abstract in nature, the pages are filled with engaging stories about the feats of individual samurai and the maelstrom of retainership, premised by a balance of insanity and equanimity, rather than a convoluted philosophical discourse.
 
+[^3]: The Saga domain is also known as the Hizen domain and Nabeshima domain. It is located in the Hizen province in the modern-day prefecture of Saga on the southern island of Kyushu. The region was originally controlled by the Ryūzōji clan, of whom the Nabeshima were originally vassals. Nabeshima Naoshige became the guardian of Ryūzōji Takanobu’s son, Takafusa, when he was killed in battle in 1584. In 1590 Toyotomi Hideyoshi allowed the Nabeshima clan to usurp the region, and the Ryūzōji hegemony was superseded with Naoshige becoming the first Nabeshima daimyo of the fiefdom.
+
+
+
+
 The first two books of *Hagakure* are believed to have been dictated by Yamamoto Jōchō \(1659–1719\), a middle-ranking retainer of Nabeshima Mitsushige \(1632–1700\), daimyo of the Hizen \(Saga\) province, to fellow clansman Tashiro Tsuramoto \(1678–1748\). Books 3 to 6 are about the Nabeshima lords and episodes that occurred in the Saga domain; Books 7 to 9 delve into the “meritorious feats” of Saga warriors; Book 10 is a critique of samurai from other provinces; and Book 11 provides supplementary information about miscellaneous events and various aspects of warrior culture.
 
 Although Jōchō undoubtedly provided a fair proportion of the information contained in Book 3 onwards, given that some of the entries relate to people and happenings after his death, Tashiro Tsuramoto clearly pieced together much of the content from other sources. Thus, although the book is commonly attributed to Jōchō, it was ultimately Tsuramoto’s abiding efforts that brought it to fruition.
 
 The content is censorious of the Tokugawa shogunate \(the warrior government based in Edo\) in some sections as a reaction to restrictive decrees that reduced samurai to a “mechanical cog in the bureaucratic wheel of state.”[^4] It was also critical of the actions of certain eminent warriors of the Saga domain. Because of its somewhat guileless critiques of local dignitaries, and the effete ways of metropolitan “Kamigata” warriors of Edo and Kyoto, *Hagakure* was treated cautiously as a “forbidden text,” and secretly circulated only among members of the Saga domain until it was thrust into the limelight and popularized in the militaristic atmosphere of the 1930s and 1940s. The content was considered too inflammatory for *Hagakure* to be openly endorsed within the Saga domain, and it was not even used as a text in the domain school, Kōdōkan, where young Saga warriors were educated. Given the book’s far-reaching recognition today, however, it has become a source of great pride for the people of modern-day Saga Prefecture.
 
+[^4]: Eiko Ikegami, *The Taming of the Samurai*, p. 297
+
+
+
+
 Modern interest in *Hagakure* transpired through a resurgent fascination in the traditions of *bushido*, ironically after the samurai class had been dismantled as Japan embarked on its quest to modernize. Although the samurai class was brought to an end during the Meiji period \(1868–1912\), it did not mean the end of *bushido* as a gripping, emotive force. Many samurai traditions, including the martial arts, were briefly suspended in the early Meiji surge of modernization, only to be revived from the mid-1880s. At this time, the cultural pendulum began to swing in a more blatantly nationalist direction, where Western technology was complemented by “Japanese spirit” \(*wakon-yōsai*\).
 
 By the later 1880s, as Garon observes, “intellectuals, local elites, and officials broadly agreed on the need to foster ‘a sense of nation’ in the masses if Japan were to modernize and compete with Western rivals.”[^5] It is precisely in this period that questions of “Japaneseness,” that is, the essence of what it meant to be Japanese, became a prominent matter of debate. In many ways, the Japanese were feeling their way as they attempted to form a national identity, and according to Doak, this epoch signified the “first important moment in Japanese nationalism when culture, as a code for conceptualizing the collective identity of the Japanese as a single people, was mobilized in agendas that spanned the political spectrum.”[^6]
 
+[^5]: S. Garon, *Molding Japanese Minds*, p. 8
+
+
+
+
 Prominent scholars such as Inoue Tetsujirō sought to bind *bushido* to the service of the state by associating it with patriotism and devotion to the emperor. His contemporary, the passionate Christian Uchimura Kanzō, reinterpreted the meaning of *bushido*, equating it with loyalty to Jesus Christ. The most influential *bushido* commentator of modern times is undoubtedly Nitobe Inazō. He published *Bushido: The Soul of Japan* in English, in which he portrayed a Christianized account of *bushido* for Western readers as the backbone of Japanese morality, and suggested it was a perfect base upon which Christianity could be grafted and evangelized in Japan. He stressed such virtues as honesty, justice, courtesy, courage, compassion, sincerity, honor, duty, loyalty, and self-control. He argued that *bushido* had evolved among the feudal warriors, but its values had been inherited by all echelons of Japanese society.
+
+[^6]: Kevin Doak, *A History of Nationalism in Modern Japan: Placing the People*, p. 195
+
+
+
 
 With momentous popular and symbolic appeal, *bushido* and other vestiges of warrior culture, such as the traditional martial arts, seemed an increasingly irresistible, albeit highly romanticized, feature of the cultural makeup of the Japanese nation. Harumi Befu referred to this phenomenon as the “samuraization” of the Japanese people, in which “characteristics such as loyalty, perseverance, and diligence that were said to be held by a small \(but elite\) segment of the population—the samurai—were gradually extended through propaganda, education, and regulation to cover the whole of the population.”[^7]
 
 In particular, *Hagakure’s* underlying theme of absolute loyalty to one’s lord to the extent that a warrior must be prepared to die in the course of duty, a notion symbolized by the legendary phrase, “The Way of the warrior is to be found in dying” \(*Bushidō to iu wa shinu koto to mitsuketari*\) fitted well with Japan’s burgeoning militarism because, as Ikegami points out, of the “combination of the cult of death with the ideal of faithful and efficacious devotion to the public good.”[^8]
 
+[^7]: H. Befu, *Japan: An Anthropological Introduction*, pp. 50–52
+
+
+
+
 The first time *Hagakure* was published in print and became known outside the province of Saga was in March 1906. Elementary school teacher Nakamura Ikuichi compiled a selection of aphorisms and published them in book form. It was not until 1935 that the entire text was published in Kurihara Arano’s *Hagakure Shinzui* \(“Essence of *Hagakure”*\), followed by the carefully annotated *Hagakure Kōchū* \(“*Hagakure* collation”\) in 1940. It was from this juncture that *Hagakure* finally emerged from the mists of obscurity. Its popularity was further facilitated by prominent Japanese philosopher Watsuji Tetsurō and ethics historian Furukawa Tetsushi’s combined work, *Hagakure*, which was also published in 1940 by the major publishing house Iwanami Bunko. This pocket-sized, three volume set made *Hagakure* available to the masses. Although there was no major *Hagakure* boom *per se*, it was still a popular read among soldiers mobilized by the Japanese war machine.[^9]
 
+[^8]: Ikegami, Op. Cit., p. 288
+
+
+
+
 Following the phenomenon of the suicidal *kamikaze* pilots, and the actions of Japanese soldiers in World War II who were feared for their fanaticism in the face of death, books such as *Hagakure* were later subject to intense criticism as being tools for militaristic propaganda that sought to instil Japanese youth with an indomitable sense of patriotism, and prepare them to sacrifice their own lives for the emperor and the mother country. *Hagakure* provided a powerful and emotive creed for wartime ultranationalists, in no small part due to its one-dimensional affirmation of loyalty to the point of sacrificing one’s life by entering a ‘death frenzy’ \(*shini-gurui*\) of deadly fury. Was this, however, an accurate interpretation of *Hagakure’s* true intent?
+
+[^9]: Koike Yoshiaki, *Hagakure–Bushi to Hōkō*, p. 44
+
+
+
 
 Foreign and Japanese critics in the postwar period blamed *bushido* as representing all that was most detestable in Japanese wartime behavior. Many Japanese renounced *bushido* as part of the misguided militaristic ideology that resulted in Japan’s ensuing defeat and shame, and also as unsuited to a new post-war democratic society.
 
@@ -65,9 +110,19 @@ Foreign scholars of Japanese history and culture tend to take a sceptical view o
 
 As professional warriors, samurai were distinctive from peasant or civilian conscript soldiers of the ancient \(*kodai*\) and modern \(*kindai*\) periods. Their existence differed greatly to the officials who were merely assigned military duty in ancient times, and also to the modern career soldier.[^10] The gradual rise of the samurai to political prominence on a national scale was activated by the on-going dismantling of military obligations forced upon the general populace under the *ritsuryō* system. The system encouraged a rigid hierarchy in court, where certain offices became hereditary among a select but small group of nobles.
 
+[^10]: Motoki Yasuo, *Bushi no Seiritsu*, p. 1
+
+
+
+
 These families, determined to maintain their privileges and monopoly on government posts, increasingly sought affiliation with burgeoning warrior groups, or created private armies of their own. This, in turn, provided useful opportunities for career advancement among the middle- to lower-ranked nobles. They were quick to realize that martial ability was their ticket to a successful career in a mutually beneficial arrangement with the powerful aristocratic families that controlled the seat of government in Kyoto. “The greater such opportunities became, the more enthusiastically and the more seriously such young men committed themselves to the profession of arms.”[^11]
 
 Men from powerful local families in the eastern frontier lands entrusted with governmental titles formed bands and took up arms to defend their own estates, and helped quell other local disputes with the impending threat of violence. Provincial bands of samurai eventually formed feudal ties bound by a strong sense of identity as warriors. They maintained intense bonds of loyalty born of their shared experience in combat, as well as the promise of financial reward for services rendered. By the time Minamoto-no-Yoritomo set up the first *bakufu*, or warrior government, in Kamakura in 1192, warriors had already developed their own unique culture based on a ferocious appetite for fame, glory, and honor. Although it was not codified at this early stage, warrior culture was referred to by an array of terms, such as *bandō musha no narai* \(“customs of the Eastern warriors”\), *yumiya no michi* \(“the way of the bow and arrow”\), *kyūba no michi* \(“the way of the bow and horse”\), and so on. The term *bushido* was not coined until much later, in the 1600s.
+
+[^11]: Karl Friday, *Samurai, Warfare and the State in Early Medieval Japan*, p. 6
+
+
+
 
 To the samurai, martial ability was an expression of individual strength and valor, and symbolic of their distinctive subculture as specialist combatants. From the ninth century \(or arguably, perhaps, even earlier\), Japanese warriors developed and cultivated an idiosyncratic culture based largely on the ability to utilize violence. Warrior ideals evolved over many centuries. They abided by idioms of honor and upheld bonds of fealty forged between the retainer and lord, for whom—the classic war tales \(*gunki monogatari*\) frequently inform us—the warrior would gladly forfeit his life.
 
@@ -80,6 +135,11 @@ Despite the honorable depictions of samurai in the popular medieval genre of lit
 It was a volatile era in which the rise or demise of a great daimyo, his *ie* \(“house”\) and its members was only a treacherous back-stab away. The precariousness of the times led to a proliferation of “house rules” \(*kakun*\), laws \(*hatto*\), and prescripts defining consummate samurai deportment—obviously an indication that model behavior was far from the norm. Nevertheless, the perilous lifestyle of Sengoku warriors and their exploits were looked upon nostalgically by future generations as “the good old days” where samurai were real men, and those who dared won, or died in the process.
 
 When Japan was finally ushered into an era of peace under the Tokugawa shogunate \(1603–1867\), samurai were faced with a dilemma. How could the warrior class, constituting just five or six per cent of the total population, justify their existence at the top of the newly-established social order, or *shi-nō-kō-shō,*[^12] when there were no more wars to speak of?
+
+[^12]: Although the lines were often blurred and inter-class mobility certainly existed, *shi-nō-kō-shō* represented the social strata enforced by the shogunate which placed samurai at the top of the pyramid, followed by farmers, artisans, and merchants respectively.
+
+
+
 
 A number of military and Confucian scholars started formulating and refining protocols to guide warriors in their peacetime role, which became referred to as “*shidō*” or “*bushidō*.” The groundwork for a new system of political thought and awareness emerged over time, and arguments were circulated among the upper echelons of government advocating the centrality of warriors in affairs of state, offering validation for the existence of the privileged warrior class even though peace prevailed.
 
@@ -137,9 +197,19 @@ The original manuscript of *Hagakure* has long since been lost, but important ha
 
 The content of *Hagakure* is complicated, and unashamedly contradictory and ambiguous in places. Even the origin of the book’s name is open for conjecture. One theory cites a poem by the famous Buddhist bard Saigyō Hōshi \(1118–1190\) in the *Sanka-shū*. “*Hagakure ni chiri-todomareru hana nomi zo, shinobishi hito ni au kokochi suru*” \(“Hidden away under leaves, a blossom still left over makes me yearn to chance upon my secret love this way.”\)[^13] Another hypothesis suggests that “hidden by leaves” was a reference to the secluded environment in which Tsuramoto interviewed Jōchō. Other scholars allude to the fact that Jōchō often makes reference to stalwart service from behind the scenes, or “service from the shadows,” with no desire for recognition. It has even been postulated that the fifth Nabeshima lord, Muneshige, visited Tsuramoto and conferred the title himself.
 
+[^13]: William R. Lafleur, *Awesome Nightfall: The Life, Times, and Poetry of Saigyo*, p. 653
+
+
+
+
 It would seem that the most plausible of all these theories is the Saigyō one. Nevertheless, it has been discounted by distinguished *Hagakure* expert, Furukawa Tetsushi, due to a passage that indicates Jōchō’s contempt of Saigyō. “Kenkō and Saigyō were no more than lily-livered cowards. They masqueraded as writers because they were afraid to serve as samurai.” Still, Jōchō concludes this vignette with the observation: “A man who has renounced the world to become a monk, or old men retired from duty, may become absorbed in such books. But to be a useful vassal to his lord, a warrior must be completely devoted to him amidst his pursuit of glory, or even after falling into the chasms of hell” \(2-140\) Thus, it seems logical that Saigyō’s poem is the most conceivable derivation of the book’s title, especially with the added allusion to “secret love,” an important theme in *Hagakure* analogous with devotion and loyalty. “At a recent gathering I declared that the highest form of devotion is ‘secret love’ \(*shinobu-koi*\).” \(2-2\)
 
 The premise for writing *Hagakure* stems from a vexation at the disintegration of warrior norms over previous decades, anti-shogunate sentiment, and nostalgic longing for the previous regimes of Lord Nabeshima Naoshige, first daimyo of the Nabeshima fiefdom, and his son and heir Katsushige \(1580–1657\).[^14] Jōchō laments how young samurai “talk of money, about profit and loss, their household financial problems, taste in fashion, and idle chatter of sex.” \(1-63\) Preoccupation with frivolities and consumerism was symptomatic of new generations of warriors who had never experienced battle, and therefore lacked discipline and the purity of intent reminiscent of earlier generations.
+
+[^14]: See the timeline for a chronological list of events outlining the history of the Saga domain from the time of the Ryūzōji clan and the transition to the Nabeshima clan.
+
+
+
 
 Jōchō’s discourse is multifaceted and ostensibly chaotic, but the spirit of *Hagakure* can best be summed up by the four simple oaths he alludes to throughout the text:
 
@@ -189,6 +259,13 @@ Many of the apparent inconsistencies in *Hagakure* can be assuaged by simply bei
 
 Middle- to lower-ranked samurai were encouraged to engage in unconditional service and blind obedience, being prepared to frenetically sacrifice their own lives by entering a “frenzy of death” with purity of intention. The low-ranked warrior had no influence on how the domain was governed, or what his lord thought. The only realistic homage they could pay to their lord was expressed using their martial skill and spirit in violent or self-sacrificial acts. This included frenzied fights to the death that reflected on the lord’s reputation of having valorous, decisive warriors in his domain. The samurai were essentially expendable pawns who could only dream of upward social mobility premised on selfless service from a young age. If he was noticed by his lord for acts of gallantry, or for is outstanding attributes, he could live in hope of being promoted to a higher position up the ranks. This, however, was very much the exception rather than the norm.
 
+[^15]: Olivier Ansart, “Embracing Death: Pure will in *Hagakure,” Early Modern Japan: An Interdisciplinary Journal v. 18*, \(2010\): pp. 57–75
+
+
+
+
+
+
 On the other hand, the “loyalty of counsel” was reserved for upper-ranking samurai. To fulfill their important duty of counselling the lord, as well as remonstrating with him for his transgressions for his and the domain’s benefit, required skills in diplomacy, selfless resolve, wisdom, and prudence. Honor was found in the act of offering judicious, yet discreet, advice. This, too, was a precarious existence, as it might mean sacrificing one’s life to take the blame for a lord’s foolishness, or to atone for angering him. In both virtual and counsel-based forms of loyalty, the important mind-set was to act in accordance with a single-minded, pure will and intention, referred to throughout the pages of *Hagakure* as *ichinen*.
 
 **All that matters is having single-minded purpose \(ichinen\), in the here and now. Life is an ongoing succession of ‘one will’ at a time, each and every moment. A man who realizes this truth need not hurry to do, or seek, anything else anymore. Just live in the present with single-minded purpose. People forget this important truth, and keep seeking other things to accomplish. \(2-17\)**
@@ -214,66 +291,4 @@ This translation is based on the *Hagakure* version contained in Saiki Kazuma \(
 Finally, I would like to thank Professor Lachlan Jackson, Professor Uozumi Takashi, Professor Yamaori Tetsuo, Trevor Jones, and my research assistant for this project, Remi Yamaguchi, for their opinions and invaluable assistance in completing this translation.
 
 __________
-
-
-
-[^1]: *Bushidō* \(武士道\)—literally “the Way of the warrior.” “*Bushi*” is the common Japanese word denoting warriors in academic circles, although “samurai” is probably better known in the West. Nowadays, both terms are used interchangeably; however, the word samurai is used most frequently in this book.
-
-
-
-[^2]: Tsunetomo is written with the *kanji* characters 常朝. When Tsunetomo took the tonsure following the death of his lord in 1700, he began using his Buddhist name, Jōchō, which uses the same *kanji* characters in their *on* reading. Discussions of *Hagakure* are divided as to which reading is used. As *Hagakure* was written after Jōchō became a monk, throughout my translation he is mostly referred to as Jōchō rather than Tsunetomo.
-
-
-
-[^3]: The Saga domain is also known as the Hizen domain and Nabeshima domain. It is located in the Hizen province in the modern-day prefecture of Saga on the southern island of Kyushu. The region was originally controlled by the Ryūzōji clan, of whom the Nabeshima were originally vassals. Nabeshima Naoshige became the guardian of Ryūzōji Takanobu’s son, Takafusa, when he was killed in battle in 1584. In 1590 Toyotomi Hideyoshi allowed the Nabeshima clan to usurp the region, and the Ryūzōji hegemony was superseded with Naoshige becoming the first Nabeshima daimyo of the fiefdom.
-
-
-
-[^4]: Eiko Ikegami, *The Taming of the Samurai*, p. 297
-
-
-
-[^5]: S. Garon, *Molding Japanese Minds*, p. 8
-
-
-
-[^6]: Kevin Doak, *A History of Nationalism in Modern Japan: Placing the People*, p. 195
-
-
-
-[^7]: H. Befu, *Japan: An Anthropological Introduction*, pp. 50–52
-
-
-
-[^8]: Ikegami, Op. Cit., p. 288
-
-
-
-[^9]: Koike Yoshiaki, *Hagakure–Bushi to Hōkō*, p. 44
-
-
-
-[^10]: Motoki Yasuo, *Bushi no Seiritsu*, p. 1
-
-
-
-[^11]: Karl Friday, *Samurai, Warfare and the State in Early Medieval Japan*, p. 6
-
-
-
-[^12]: Although the lines were often blurred and inter-class mobility certainly existed, *shi-nō-kō-shō* represented the social strata enforced by the shogunate which placed samurai at the top of the pyramid, followed by farmers, artisans, and merchants respectively.
-
-
-
-[^13]: William R. Lafleur, *Awesome Nightfall: The Life, Times, and Poetry of Saigyo*, p. 653
-
-
-
-[^14]: See the timeline for a chronological list of events outlining the history of the Saga domain from the time of the Ryūzōji clan and the transition to the Nabeshima clan.
-
-
-
-[^15]: Olivier Ansart, “Embracing Death: Pure will in *Hagakure,” Early Modern Japan: An Interdisciplinary Journal v. 18*, \(2010\): pp. 57–75
-
-
 
