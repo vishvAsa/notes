@@ -29,6 +29,10 @@ The assets may be good or toxic, depending on their risk/ projected/ current ret
 
 With risky lending (ie: where the probability of default is higher than usual), the bank charges a higher rate of interest in order to mitigate the risk by purchasing or acting as insurance against default.
 
+## Joint accounts in USA
+### Custodial accounts
+Ally - Minors can't be joint account holders with adults. But can open custodial account It is owned by ONE minor, but operated by a custodian till he reaches majority. There can be a "successor custodian" named. 
+
 ## Balance sheet
 
 The bank should be capable of returning the money to the depositors whenever they demand it - as long as they do not do it all at once (a ’run on the bank’). So, always lent money <= borrowed money + capital. In order for the bank to be making the maximum possible safe profit, this should hold: lent money/ investments = borrowed money + capital. Banks for which this holds are said to be solvent.

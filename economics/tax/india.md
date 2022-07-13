@@ -9,7 +9,8 @@ Resident if one of the following is true
 - 60 days or more in a fiscal year and 365 days or more during the preceding 4 fiscal years; the 60 days may be extended to 182 days in certain cases.
 
 ## Income tax
-Non-Residents are taxed on India income only. Residents are taxed on worldwide income (subject to DTAA(Double Taxation Avoidance Agreement) with the foreign countries.).
+- Non-Residents are taxed on India income only. 
+- Residents are taxed on worldwide income (subject to DTAA(Double Taxation Avoidance Agreement) with the foreign countries.).
 
 ### Advance payments
 As the year progresses, one is expected to pay tax. Paying at the end of the year will attract interest.

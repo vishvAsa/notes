@@ -30,6 +30,8 @@ title: Implementation
 > 
 > If the primary account owner passes away then we would need a standard account opened and a death certificate to move the assets to for the secondary owner.
 
+Joint accounts only possible with majors, not minors.
+
 ### भारतेषु
 #### Post tax
 - Look up symbols in BSE and NSE websites. Sometimes equity is listed in both - only "EQ" is added in symbols to differentiate.
