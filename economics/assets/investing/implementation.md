@@ -48,6 +48,8 @@ Joint accounts only possible with majors, not minors.
 ##### Upstox
 Help -  customercareindia  dbs.com
 
+As per Exchange guidelines, since no trades/investments/transactions have been made from your Upstox Trading and Demat or MCX account in the last 12 months we’ve made it inactive/dormant.
+
 ###### Transfers
 - Deposit via NEFT - no fees.
 - Withdrawal (post Mutual fund sales, not stock sales) via NEFT - fees up to RBI limits - see transfers section [here](/notes/economics/financial_services/banking/01_Operation.md).

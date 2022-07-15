@@ -42,7 +42,10 @@ Ally - Minors can't be joint account holders with adults. But can open custodial
   - Fair mobile UI. 
   - No joint accounts
   - So, demand drafts are tough.
-
+  - Not recognized by some downstream finance apps.
+- UCO
+  - Branch nearby
+  - UI is a bit cumbersome. WebId gets deactiviated if unused for over a year. Can be reenabled by clicking the "forgot password" link.
 
 ## Balance sheet
 
