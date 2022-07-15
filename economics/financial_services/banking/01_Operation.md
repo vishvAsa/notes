@@ -29,9 +29,20 @@ The assets may be good or toxic, depending on their risk/ projected/ current ret
 
 With risky lending (ie: where the probability of default is higher than usual), the bank charges a higher rate of interest in order to mitigate the risk by purchasing or acting as insurance against default.
 
-## Joint accounts in USA
-### Custodial accounts
+## USA
+### Joint accounts
+#### Custodial accounts
 Ally - Minors can't be joint account holders with adults. But can open custodial account It is owned by ONE minor, but operated by a custodian till he reaches majority. There can be a "successor custodian" named. 
+
+## India
+- PayTm payments bank - buggy unfriendly UI. But useful for amazon payment.
+- Digibank 
+  - relatively high interest rate savings account. 
+  - fully online. 
+  - Fair mobile UI. 
+  - No joint accounts
+  - So, demand drafts are tough.
+
 
 ## Balance sheet
 
@@ -51,6 +62,11 @@ The bank should be capable of returning the money to the depositors whenever the
   - UCO - incoming free, outgoing 2.25 to  24.75 per transaction
   - Digibank - Free
   - SBI - free for staff
+  - upstox (MF) - charges for outgoing transaction. details elsewhere.
+
+#### RBI limits- 
+- [Ref](https://www.rbi.org.in/Scripts/FAQView.aspx?Id=60)
+- ₹ 2.50 up to 10k, ₹ 5 up to 1L, ₹ 25 (+ Applicable GST) beyond 2L
 
 ### RTGS
 - Realtime

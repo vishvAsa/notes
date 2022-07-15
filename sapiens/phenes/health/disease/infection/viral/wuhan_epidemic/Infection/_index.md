@@ -3,7 +3,7 @@ title = "+Infection"
 
 +++
 
-- स्तोत्रम् [अत्र](../../../../saMskAra/saMskAra/mantraH/rogAH/padyAni/corona-virus/)।
+- स्तोत्रम् [अत्र](/devaH/hindukaH/rogAH/padyAni/corona-virus/)।
 
 ## Spread data
 - Country-wise comparison - daily positives [here](https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&country=IND~GBR~SWE&region=World&casesMetric=true&interval=smoothed&aligned=true&perCapita=true&smoothing=7&pickerMetric=total_cases&pickerSort=desc).

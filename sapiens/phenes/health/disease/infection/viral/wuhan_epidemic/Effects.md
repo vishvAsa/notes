@@ -16,6 +16,19 @@ title = "Effects"
   - Opportunistic infections by bacteria and fungi may happen. Often patient feels improvement a day or two after steroid therapy is started, but by 4th day, they start having fever again. 
   - They're diabetogenic. Blood sure in diabetics may shoot to 400 or 500. Pre-diabetics may show diabetes.
 
+
+## Comorbidity
+Severe disease can result in people with diabetes, obesity, chronic breathing difficulty (like asthma), compromised immune system.
+
+The very low mortality among the slum dwellers in India have drawn lot of attention.One of the reason could be that due to repeated exposure,their gut microbiome have more of those good microbiome protecting against severe infections.
+
+- Neanderthal genetic inheritence - more susceptible.
+
+## Causal chain
+- Lung epithelial cells are infected.
+- Virus is then detected by macrophages. They produce interferons and cytokines. But the virus is oblivious to anti-viral effects of interferons. Cytokines attract more white blood cells. So there is a cytokine storm from a chain reaction.
+- This results in inflammation, formation of fibrin and damage to lung cells, weakinging of blood vessels leading to seepage and drowning.
+
 ## Duration
 - "About 80 percent of infections, according to the World Health Organization, “are mild or asymptomatic,” and patients recover after two weeks, on average."
 - Can last very long - "When I spoke with LeClerc on day 66, she was still experiencing waves of symptoms. “Before this, I was a fit, healthy 32-year-old,” she said. “Now I’ve been reduced to not being able to stand up in the shower"" [AT](https://medium.com/the-atlantic/covid-19-can-last-for-several-months-c3391bddbe6c)
@@ -74,15 +87,7 @@ title = "Effects"
 - 26% of those admitted to ICU from COVID had invasive fungal infections.
 - Auto immune disorders like guillan barre.
 
-## Genetic susceptibility
-- Neanderthal genetic inheritence.
+## Progression anecdotes
+### M 2022-07
+M (vaccinated from USA, visiting India) caught it first and passed it on (St, Se, Ja, R infected in the household - Ap, M escaped). Mild flu like symptoms started with head ache and sore throat then cough and fatigue for a day and low grade fever. Others had  fever and a bit of body ache. Transitioned to loss is smell and then it back to normal. In a span of 5 -6 days but for the test to come negative takes about 12 days.
 
-## Comorbidity
-Severe disease can result in people with diabetes, obesity, chronic breathing difficulty (like asthma), compromised immune system.
-
-The very low mortality among the slum dwellers in India have drawn lot of attention.One of the reason could be that due to repeated exposure,their gut microbiome have more of those good microbiome protecting against severe infections.
-
-## Causal chain
-- Lung epithelial cells are infected.
-- Virus is then detected by macrophages. They produce interferons and cytokines. But the virus is oblivious to anti-viral effects of interferons. Cytokines attract more white blood cells. So there is a cytokine storm from a chain reaction.
-- This results in inflammation, formation of fibrin and damage to lung cells, weakinging of blood vessels leading to seepage and drowning.
