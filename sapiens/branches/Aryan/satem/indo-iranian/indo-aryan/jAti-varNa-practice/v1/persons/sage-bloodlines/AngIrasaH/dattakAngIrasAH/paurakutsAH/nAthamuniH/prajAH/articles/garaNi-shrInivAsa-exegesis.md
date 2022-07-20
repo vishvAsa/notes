@@ -5,7 +5,6 @@ Sources: garaNi-rAdhAkRShNa.
 
 {{< figure src="../../images/garaNi-shrInivAsa.jpg" title="" class="thumbnail">}}
 
-
 ## About garaNi-shrInivAsa
 ### English Intro
 Garani Sreenivasan 1907 - 1985
@@ -43,18 +42,32 @@ Although he was known as an English teacher, he used to write in Kannada, a loca
 
 
 ## The divyaprabandha exegesis
+### Effort
 Nalayira Divya Prabandham is a magnum opus work of 4000 verses Tamil Alzwars and is a source book for the Tamil Iyengar community.  Garani Sreenivasan was enthralled by is beauty. He took up the project of translating them into Kannda with word by word meaning, translation and own commentaries.  This took him more than ten years to complete.  He did not live to  complete the last four hundred stanzas  as he passed away in 1985 in his seventy seventh year. It was a huge manuscript, with beautiful handwriting. They are of great use for shrIvaiShNa-s in karNATaka, who have long struggled in their devotions due to very slight knowledge of classical tamiL with no knowledge of tamiL script.
 
 ‘ದ್ರಾವಿಡವೇದ’ ಅಥವಾ ‘ತಮಿಳುವೇದ’ ಎಂದೇ ಹೆಸರುವಾಸಿಯಾಗಿರುವ ‘ನಾಲಾಯಿರ ದಿವ್ಯ ಪ್ರಬಂಧಮ್’ ಎಂಬ ಮಹಾನ್ ಕೃತಿಯನ್ನು ತಮಿಳು ಬಾಷೆಯನ್ನು ಓದಲು ಅರಿಯದ ಶ್ರೀವೈಷ್ಣವರಿಗೂ ಹಾಗೂ ಕನ್ನಶದ ಜನತೆಗೆ ಪರಿಚಯಿಸುವ ಹೆಬ್ಬಯಕೆಯಿಂದ, ಈ ‘ನಾಲಾಯಿರಂ’ ಕೃತಿಯ ವ್ಯಾಸಂಗವನ್ನು ಕೈಗೆತ್ತಿಕೊಂಡರು.
 
 ಹನ್ನೆರಡು ಆಳ್ವಾರುಗಳಿಂದ ರಚಿತವಾದ ನಾಲ್ಕುಸಾವಿರ ಪಾಶ್ರುಗಳುಳ್ಳ ಈ ಕೃತಿಯನ್ನು, ಮೂಲ ತಮಿಳಿನಲ್ಲಿ, ಕನ್ನಡದಲ್ಲಿ ತಮಿಳು ಲಿಪಿಯಲ್ಲಿ, ಕನ್ನಡಗ್ದಲ್ಲಿ ಪ್ರತಿಪದಾರ್ಥ, ತಾತ್ಪರ್ಯ ಹಾಗೂ ತಮ್ಮದೇ ಆದ ವಿವರಣೆಯನ್ನು ಕೊಟ್ಟು ಕನ್ನಡದ ಜನತೆಗೆ ಉಣ ಬಡಿಸಲು ಪರಿಶ್ರಮಿಸಿದ ಮಹಾನುಭಾವರಿವರು. ಸುಮಾರು ಹತ್ತು ವರುಷಗಳ ಕಾಲ, ದಿನಕ್ಕೆ ಎರಡು ಪಾಶರುಗಳನ್ನು (ಪದ್ಯಗಳನ್ನು) ಕೂಲಂಕಶವಾಗಿ ಅಧ್ಯಯನ ಮಾಡಿ, ಸತತ ಪರಿಶ್ರಮದಿಂದ ಈ ಮಹಾನ್ ಕೃತಿಯನ್ನು ಹೊರತಂದು, ಭಕ್ತಿಪಂಥದ ಬಾಗಿಲನ್ನು ತೆರೆಯಲು ಅಪೇಕ್ಷಿಸಿದ ಧೀಮಂತ ವ್ಯಕ್ತಿ ಎಂದರೆ ಅತಿಶಯೋಕ್ತಿ ಆಗಲಾರದು.
 
+<details><summary>ज्ञातदोषाः</summary>
+
+shrI garaNi shrInivAsa made a few serious mistakes.  Examples:
+
+- In the [first verse](https://archive.org/details/divya-prabandha-pratipadArtha/01.%20%20Periyazhwar%20Tiruppallandu/page/n49/mode/1up?view=theater) he makes up तिण्डोळ् instead of तिन्दोळ्  (contrast with other sources: [1](http://divyaprabandham.koyil.org/index.php/2020/03/thiruppallandu-tamil-simple/) ).
+- [२०१२](https://archive.org/details/divya-prabandha-pratipadArtha/22.%20%20Periya%20Tirumozhi-eleventh%20century/page/n95/mode/1up?view=theater) इत्यत्रापि - ईषत्परिष्कार्यो ऽर्थो भाति। Kausalya Hart तत्र - "2012. The dear lord whose chest is adorned with jewels shines like a golden hill and rides on the bird Garuḍa. He used Mandara mountain as a churning stick and the snake Vasuki as a rope, churned the milky ocean, took the nectar from it and gave it to the gods. If devotees have not seen him, their eyes are not truly eyes."
+</details>
+
+
+
+### Publishing
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-After he left for vaikuNTha, his son, garaNi-rAdhAkRShNa recovered the sole copy of this precious work from his sister's house and sought interested shrIvaiShNava-s to preserve (or publish). To this end, he approached various individuals and organizations ranging from the parakAla-maTha to a chennai library - no one agreed. 
+After he left for vaikuNTha, his son, garaNi-rAdhAkRShNa recovered the sole copy of this precious work from his sister's house and sought interested shrIvaiShNava-s to preserve (or publish). To this end, he approached various individuals and organizations ranging from the parakAla-maTha to a chennai library - no one agreed.
 </details>
 
 After he left for vaikuNTha, his son, garaNi-rAdhAkRShNa recovered the sole copy of this precious work. Eventually, he got the manuscripts scanned into pdf files (now available at [archive.org](https://archive.org/details/divya-prabandha-pratipadArtha)), and started distributing them via CD-s and on the internet. Finally, shrI lakṣmī-tātācār of melukoTe showed interest and even suggested getting it typed and publishing it. The material was rapidly typed, but the publishing process was very slow. shrI lakṣmī-tātācār departed for vaikuNTha before the first volume was published, and his son shrI MA Alwar took up the publishing task.
 
+
+### Audio
 shrI harIsh, son of kaDaba rangarAjan, somehow came upon the scanned manuscripts and started reading them aloud and saving them in audio files.
 
