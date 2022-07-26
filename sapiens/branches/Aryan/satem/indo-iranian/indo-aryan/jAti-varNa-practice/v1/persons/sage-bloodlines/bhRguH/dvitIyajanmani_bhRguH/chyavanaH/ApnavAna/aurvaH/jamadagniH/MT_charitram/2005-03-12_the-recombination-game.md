@@ -16,7 +16,7 @@ It is that yoga that has led him to all his successes in life and every other ab
 
 I have often wondered if the proclivity for that yoga a genetic trait. After all I have observed so many little things being transmitted down from my ancestors to me and manifesting in me, in many cases to my own dismay. I suddenly realized the importance of that yoga and how I would need to master to survive the next great tsunami in rasArNava. When the first great wave came the gods had borne us aid and we remained afloat under remarkable circumstances.
 
-<details><summary>विस्तारः (स्रोतोऽन्तरात्)</summary>
+<details><summary>पितृविषये विस्तारः (स्रोतोऽन्तरात्)</summary>
 
 He is extremely tenacious and maintains the same demeanor whether the task is pleasant or unpleasant. He makes checklists and never misses any item on it. Doesn't rest till the task gets done no matter how many hassles come in the way.
 
