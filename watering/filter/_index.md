@@ -27,6 +27,28 @@ title = "+Filter"
   - borewell water, filter reject - TDS 430
   - borewell water, filtered - TDS 360
 
+- अन्तर्वेदीय-गुरुकुलम्
+  - 450 TDS + water turns yellow if kept for few hours
+- हर्याणा-गुरुकुलम्
+  - bore 1 - TDS of 750+ 
+  - bore 2 TDS of 1131+
+
+
+
+<details><summary>प्रिया-प्रयोगाः</summary>
+
+- Tap water - TDS 864, ph 7.5
+- Himalaya Bottled water - TDS 210, ph 7.25
+- Himalaya Bottled water boiled to half - TDS 225, ph 9.5
+- RO water - TDS 186, ph 6.25
+- RO water, single boil - TDS 204, ph 7.25
+- RO water, boiled to half - TDS 257, ph 9.5
+- RO water, lemon for 6 hours - TDS 190, ph 5
+- RO water, cucumber for 6 hours - TDS 200, ph 7
+</details>
+
+ 
+
 ## Chemical filtration
 ### Carbon filter
 - When used as a pre-filter - removes chemical contamination - chlorine, chloramide, fluoride etc.. Hence AKA chemiblock.
