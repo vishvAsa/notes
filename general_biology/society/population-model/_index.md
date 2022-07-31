@@ -2,6 +2,18 @@
 title = "+Population model"
 +++
 
+
+## Limits on population growth
+
+### Dismal theorems
+> If the only ultimate check on the growth of population is misery, then the population will grow till it is miserable enough to stop its growth. 
+> 
+> - Kenneth Boulding
+
+Moderately cheerful version:
+
+> If something else other than misery and starvation can be found which will keep a prosperous population in check, then the population does not grow till it is miserable and starves, and it can be stably prosperous.
+
 ## Criteria to judge models
 - Does it answer some clear causal questions? (of the type: "Under conditions A, X leads to Y.") Or does it intend to make quantitative predictions?
 - Is it sufficiently abstract (and therefore intelligible), and not loaded down with unnecessary details?
