@@ -42,10 +42,11 @@ title: Notes
 ## Annotation
 ### Markdown text presented with Hugo
 - I mark specially important words by making them **bold** or _italic_. Eg. the verb and the main subject in a sanskrit verse.
-- I like to split sanskrit text - eg. इत्य् अलम्, rather than इत्यलम्.
 - To save labor upon rereading, I add text (indicating meaning or root or ellipsis/ अध्याहार) presented in a different font. Eg. संवृतः, कलः+++(=स्थानान्तरनिष्पन्नः)+++, ध्मातः. +++(यद्यपि प्रत्ययविध्यर्थो गर्गादीनां पाठः)+++ अस्त्य् अन्यत्.
   - This I also use to mark corrected text. Eg. अतः 'गावी'शब्दः गौः इत्यर्थे +++(~~न~~)+++ अपशब्दः ।
 - I like to scores phrases or verses for beauty or importance - 1/5 to 5/5. Eg: न चेदानीम् आचार्याः सूत्राणि कृत्वा निवर्तयन्ति ॥+++(5)+++
+- For long notes, I use collapsible html details and footnotes.
+- I like to use a very reader-friendly way of writing sanskrit. For example, I split sanskrit text - eg. इत्य् अलम्, rather than इत्यलम्. More details in the [sanskrit/lekhanam](/sanskrit/lekhanam/) page.
 
 ### Physical books
 
