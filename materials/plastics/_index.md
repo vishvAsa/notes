@@ -49,4 +49,6 @@ Dubious claim - "When polyurethane breaks down in the environment, it will not b
 - like wetsuits, very elastic. When putting a garment with spandex in the dryer, it tends to dry out and the strands break meaning the garment loses compression power.
 
 ## Nylon
-light, tough. Easily melts. Hydrophilic.
+- light, tough. 
+- Easily melts. 
+- Hydrophilic. Degrades (into microplastics and small threadlets) when exposed to rain and sun.
