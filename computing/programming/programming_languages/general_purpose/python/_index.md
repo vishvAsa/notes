@@ -49,6 +49,17 @@ Or run python setup.py build, python setup.py install.
 
 Or do: sudo pip install pkgName or easy\_install pkgName.
 
+### Setting up a project-specific development environment
+Different projects can have conflicting package version requirements. So, install and activate a virtual environment.
+
+```
+python3 -m pip install --user virtualenv
+python3 -m venv env
+source env/bin/activate
+```
+
+Have a requirements.txt listing packages with version numbers. This may be automatically generated or updated by  a series of `pip install PACKAGENAME` calls, followed by  `pip freeze > requirements.txt`.
+
 ## Help
 help(object/ module)
 

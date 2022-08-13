@@ -868,6 +868,13 @@ vyavasthA = 'amazon app store license purchased'
 [[data]]
 samUhaH = 'Editors'
 upasamUhaH = 'image scan'
+software = 'vFlat'
+"OS coverage" = 'android'
+description = '100 page limit per day - free usage.'
+
+[[data]]
+samUhaH = 'Editors'
+upasamUhaH = 'image scan'
 software = 'camscanner'
 "OS coverage" = 'android'
 

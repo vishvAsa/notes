@@ -62,7 +62,7 @@ The bank should be capable of returning the money to the depositors whenever the
 ### NEFT
 - Half hourly settlement
 - Charges 2021
-  - UCO - incoming free, outgoing 2.25 to  24.75 per transaction
+  - UCO - incoming free, outgoing 2.25 to  29.5 per transaction ([pdf](https://www.ucobank.com/pdf/Service-charge-GST.pdf))
   - Digibank - Free
   - SBI - free for staff
   - upstox (MF) - charges for outgoing transaction. details elsewhere.
@@ -75,7 +75,7 @@ The bank should be capable of returning the money to the depositors whenever the
 - Realtime
 - Min 2 lakhs
 - Charges 2021
-  - UCO - incoming free, outgoing 24.5 to 49.5 per transaction
+  - UCO - incoming free, outgoing 24.5 to 49.5 per transaction ([pdf](https://www.ucobank.com/pdf/Service-charge-GST.pdf))
   - Digibank - Free
   - SBI - free for staff
 
@@ -84,6 +84,7 @@ The bank should be capable of returning the money to the depositors whenever the
 - Max 2 lakhs
 - Charges 2021
   - Digibank- Free
+  - UCO - 17Rs
 
 ### ACH USA
 - Free usually.
