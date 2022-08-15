@@ -10,6 +10,7 @@ title = "Scanner"
 ## IPEVO v4k
 - IPEVO V4K Ultra High Definition 8MP
   - [Amazon](https://www.amazon.in/gp/product/B079DLTG9F/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
+
 ### Usage
 - Bought 15 Nov 2021. Taiwanese. Spent about 16k INR. Used rarely.
 - Hardware
@@ -25,7 +26,8 @@ title = "Scanner"
 - Software
   - Doesn't work well with scanner software on Arch Linux + Cinnamon.
   - Best option seems to be to use the IPEVO Visualizer ([Downloads](https://www.ipevo.com/software/visualizer#releaseNote6))
-    - chrome extension works
+    - browser app [here](https://apps.ipevo.com/pwa/visualizer.app/)
+    - chrome app works  - but is set to be retired as of 2022
     - Extracting and running the jar program from the Ubuntu package failed
       - with an exception as of 20220812. ("UnsatisfiedLinkError: /tmp/nativeutils132733616685487/libHelloJni.so: libuvc.so.0".)
       - `yay -S libuvc` produced `/usr/lib/libuvc.so`, but that did not resolve the problem.

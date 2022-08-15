@@ -29,6 +29,10 @@ Sometimes the video lags.
 ## Recorders
 <div class="spreadsheet" src="recorder.toml" fullHeightWithRowsPerScreen=8> </div>  
 
+### OBS Studio
+- Set up video capture devices (camera 1, camera 2, screen capture, window capture ...)
+- Set up audio capture devices (output, input). Best input device - webcam stereo. Not very good, but ok - doc camera mono audio.
+
 ## Editors
 <div class="spreadsheet" src="editor.toml" fullHeightWithRowsPerScreen=8> </div>  
 

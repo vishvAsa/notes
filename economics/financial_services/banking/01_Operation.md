@@ -36,16 +36,22 @@ Ally - Minors can't be joint account holders with adults. But can open custodial
 
 ## India
 - PayTm payments bank - buggy unfriendly UI. But useful for amazon payment.
-- Digibank 
-  - relatively high interest rate savings account. 
-  - fully online. 
-  - Fair mobile UI. 
-  - No joint accounts
-  - So, demand drafts are tough.
-  - Not recognized by some downstream finance apps.
-- UCO
+
+### OTPs
+- Even with joint accounts and credit cards, bank often send OTPs (One Time Passwords) to a device (usually a mobile phone). In case of joint account operation, one may need to autoforward them to emails/ alternate number (there exist apps for this).
+
+### Digibank 
+- relatively high interest rate savings account. 
+- fully online. No fees for NEFT.
+- Fair mobile UI. 
+- No joint accounts
+- So, demand drafts are tough.
+- Not recognized by some downstream finance apps.
+
+### UCO
   - Branch nearby
   - UI is a bit cumbersome. WebId gets deactiviated if unused for over a year. Can be reenabled by clicking the "forgot password" link.
+  - Charges for NEFT!
 
 ## Balance sheet
 

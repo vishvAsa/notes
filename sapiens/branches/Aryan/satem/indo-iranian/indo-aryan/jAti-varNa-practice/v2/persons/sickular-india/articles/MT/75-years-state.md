@@ -1,0 +1,11 @@
++++
+title = "75 years Republic"
++++
+Source: [TW](https://rattibha.com/thread/1559033772183588865?lang=en)
+
+
+The latest Indian empire has survived 75 years -- against the hopes and wishes of the mlechCha and marUnmatta potentates. But it is quite possible that the ultimate reckoning will be forced on the H in the coming years. I suspect we have already seen the forward floaters of that I'd be happy to be wrong because by this reading we could see a superposition of bad times -- not something the H seem to be prepared for. The ancient system of father manu that found a way to stabilize  fundamental structural problems was rent asunder by the mlechCha conquest. This will resonate with navyonmAda, the latest of the diseases from the west, something lATeshvara's court doesn't seem too clued in to. This then will be superimposed on the ultimate civilizational clash with the ekarAkShasa who wears visible and invisible cloaks.
+
+Unlike many other takes, this should not be seen as the legendary "black pill" but more as a bit of realism (from my ``bird's eye'' vantage). Many of us have been and continue to be frustrated with aspects of the working of the Indian state/H power. There are reasons for it that are not easily remedied. They are also poorly known and due to the zeitgeist, despite being fairly quantifiable, cannot be stated in public. Those who know it are tempered in their projections. The lATeshvara's court (whether you like him or hate) tried to do some long due changes, and we would say has met a degree of success in it. 
+
+However, there are some things they simply did not grasp, much like the Nehru-Gandhi court before it. What I don't know is whether part of this is tacit admission (based on classified intelligence) that leak in the boat is bigger than what the public think it to be. Whatever the case, as the lATesha fades away into the rAja-taraMga-s and shashi-yAbhaka-parampara continues, these will strike his successors like the scorpion's sting. It remains unclear if there is anyone in the current court who can lead the rAShTra in these future times as the short-sighted H masses oscillate as a pendulum weighted by incumbency and the plants of the mlechCha start emerging from the aging woodwork.
