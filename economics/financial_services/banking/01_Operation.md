@@ -49,9 +49,18 @@ Ally - Minors can't be joint account holders with adults. But can open custodial
 - Not recognized by some downstream finance apps.
 
 ### UCO
-  - Branch nearby
-  - UI is a bit cumbersome. WebId gets deactiviated if unused for over a year. Can be reenabled by clicking the "forgot password" link.
-  - Charges for NEFT!
+- Branch nearby
+- UI is a quite cumbersome. WebId gets deactiviated if unused for over a year. Can be reenabled by clicking the "forgot password" link. Did not get OTPs one day in 2022.
+- Charges for NEFT!
+
+### IDFC first
+- Highly rated app.
+- min balance 25k. No neft etc. fees.
+
+### High fees
+- Axis
+  - App rating 4.7. Much fees.
+
 
 ## Balance sheet
 
