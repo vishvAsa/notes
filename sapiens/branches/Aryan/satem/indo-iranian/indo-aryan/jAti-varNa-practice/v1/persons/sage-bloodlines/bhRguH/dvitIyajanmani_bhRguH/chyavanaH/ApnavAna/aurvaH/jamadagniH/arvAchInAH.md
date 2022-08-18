@@ -3,6 +3,10 @@ title = "अर्वाचीनाः"
 unicode_script = "devanagari"
 +++
 
+
+## बाणभट्टः
+> Was pleased to note that bANa-bhaTTa was a sagotra and his ancestors were practitioners of the cult of rAjarAja. He preserves a peculiar legend of the early settlement of the bhArgava-s, i.e., that the vatsa bhArgava-s' original center was on the banks of the shoNa river. - MT
+
 ## वर्मशिवः
 > He also was widely
    respected for his tAntric abilities in the KShudra vidyA-s acquiring the
