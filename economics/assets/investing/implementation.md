@@ -33,9 +33,11 @@ title: Implementation
 Joint accounts only possible with majors, not minors.
 
 ### भारतेषु
-- UCO + fisdom (202207)
+- fundsIndia
+  - Easy account opening, support. Excellent UI.
+- fisdom (202207)
+  - No charges in moving money. Joint account can be opened with offline support.
   - demat for mutual funds - account opening 299, AMC 0
-    - No charges in moving money. No joint account.  
   - demat trading  - annual maintenance 250
 - Groww
   - 0 AMC, 0 account opening fees.

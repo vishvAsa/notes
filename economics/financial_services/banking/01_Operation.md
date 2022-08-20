@@ -42,7 +42,8 @@ Ally - Minors can't be joint account holders with adults. But can open custodial
 
 ### Digibank 
 - relatively high interest rate savings account. 
-- fully online. No fees for NEFT.
+- fully online.
+  - 150Rs debit card annual fee.
 - Fair mobile UI. 
 - No joint accounts
 - So, demand drafts are tough.
@@ -55,18 +56,32 @@ Ally - Minors can't be joint account holders with adults. But can open custodial
 
 ### IDFC first
 - Highly rated app.
-- min balance 25k. No neft etc. fees.
+- min balance 25k. No neft etc. fees. No ATM fees, free debit card, unlimited withdrawals from any ATM, 2L/day limit. 4.5% interest rate.
 
-### High fees
+### Others
 - Axis
   - App rating 4.7. Much fees.
-
-
+  - Liberty account 
+    - 25k min balance
+    - Debit card - 200 issuance, 300 annual.
+- ICICI
+  - 15Rs/ quarter sms fees.
+  - ATM - 50k Rs / day limit.
+  - privileged account
+    - 50k min balance. 
+    - no charges
+  - 10k min balance
+    - Annual fee 590 per debit card
+- HDFC
+  - 25k min. no charges. 1L withdrawal. ATM card free.
+  - But on website - Cash withdrawal limit 10k per day (ATM card), 25k+ per day (debit card).
+  
 ## Balance sheet
 
 The bank should be capable of returning the money to the depositors whenever they demand it - as long as they do not do it all at once (a ’run on the bank’). So, always lent money <= borrowed money + capital. In order for the bank to be making the maximum possible safe profit, this should hold: lent money/ investments = borrowed money + capital. Banks for which this holds are said to be solvent.
 
 ## Transfers
+- Free transfers - DBS.
 ### Unified Payments Interface UPI BHIM
 - Max 1L
 - Instant
@@ -77,13 +92,17 @@ The bank should be capable of returning the money to the depositors whenever the
 ### NEFT
 - Half hourly settlement
 - Charges 2021
-  - UCO - incoming free, outgoing 2.25 to  29.5 per transaction ([pdf](https://www.ucobank.com/pdf/Service-charge-GST.pdf))
-  - Digibank - Free
-  - SBI - free for staff
+  - UCO 
+    - incoming free.
+    - outgoing 2.25 to  29.5 per transaction ([pdf](https://www.ucobank.com/pdf/Service-charge-GST.pdf)). no charge upto 50k online.
+  - Digibank - Free if online.
+  - SBI - free for staff offline. 0 charge online.
+  - Axis - RBI max offline, 0 online.
   - upstox (MF) - charges for outgoing transaction. details elsewhere.
 
 #### RBI limits- 
 - [Ref](https://www.rbi.org.in/Scripts/FAQView.aspx?Id=60)
+- The RBI levies no charges from member banks for NEFT Transactions. Effective January 2020, the RBI has advised banks not to impose any charges for online NEFT Transactions made from a Savings Account.
 - ₹ 2.50 up to 10k, ₹ 5 up to 1L, ₹ 25 (+ Applicable GST) beyond 2L
 
 ### RTGS
