@@ -1,7 +1,8 @@
 +++
 title = "vIrapANDya-kaTTabomman"
 +++
-(Source: https://threader.app/thread/1449209618912014348)
+Source: [TW](https://threader.app/thread/1449209618912014348)
+
 
 Veerapandya Kattabomman was hanged to death by the British from a tamarind tree at Kayathar on this date in 16 October 1799. Thread on one of the great freedom fighters, who would be an inspiration to many revolutionaries in Tamil Nadu. 
 
