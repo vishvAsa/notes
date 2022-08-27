@@ -98,7 +98,7 @@ The bank should be capable of returning the money to the depositors whenever the
   - Digibank - Free if online.
   - SBI - free for staff offline. 0 charge online.
   - Axis - RBI max offline, 0 online.
-  - upstox (MF) - charges for outgoing transaction. details elsewhere.
+  - upstox (MF) - no charges.
 
 #### RBI limits- 
 - [Ref](https://www.rbi.org.in/Scripts/FAQView.aspx?Id=60)

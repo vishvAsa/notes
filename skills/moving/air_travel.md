@@ -56,9 +56,17 @@ Expedia seemed to keep a 70$ margin on reservations (which was discounted for it
 
 It is often advantageous to call an agent - especially for international travel - to look for the best deal: some airlines are not listed on travel search websites.
 
-### For travel inside USA
+### USA
 
 Look at Orbitz and expedia. Check Southwest website, as it is not listed in these.
+
+### India
+- [sheet](https://docs.google.com/spreadsheets/d/1S8vd3QOw0CZ0H9xyblz0Fjt7q_ZV9XEAOMKTrvv8XEg/edit#gid=392850843)
+
+#### Cancellation
+- General charges 
+    - ₹ For Domestic flights INR 3500 Within 4 Days of Departure Time, INR 3000 Beyond 4 Days.
+    - For International flights INR 5000 Within 4Days of Departure Time, INR 4500 Beyond 4 Days
 
 ### Agents
 
@@ -71,33 +79,3 @@ Car rentals seem to be cheaper on the internet - due to greater competition and 
 ## Communication networks
 
 These networks provide infrastructure and services like internet access, (mobile) telephony, cable television etc..
-
-## Mobile connections
-
-Mobile connection services are either prepaid or postpaid.
-
-### Prepaid services
-
-With these services, customers buy a certain quanta of incoming and outgoing connections of various types.
-
-### Postpaid services
-
-This is offered to credit-worthy customers.
-
-#### Contracts
-
-People are attracted to enter into a contract in which they agree to use a company’s mobile connection services for a certain period of time, in exchange for incentives such as discounts on attractive mobile devices.
-
-The cost of these devices and incentives provided to sales agents is, of course, recovered from the profits earned using the customer’s business.
-
-##### Group contracts
-
-Aka family plans. Companies try to attract the close contacts of a customer to use the same network by offering reduced prices for groups of people.
-
-##### Early termination
-
-Early termination involves payment of certain fees. If a person is terminating the contract early because he is abroad, this fee may often be waived in USA.
-
-##### Renewal
-
-Companies offer to renew the contract before the termination \[**Incomplete**\]

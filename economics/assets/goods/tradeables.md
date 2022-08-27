@@ -28,6 +28,12 @@ Often, bonds yield periodic interests, the size of which corresponds to the risk
 
 Bonds may be short-term or long-term.
 
+#### Sovereign Gold Bond
+- Let a government borrow your gold (rather money equal to k grams) for n years and pay you interest. After the term (or slightly earlier), you will be able to redeem money corresponding to the quantity of gold lent.
+- India 2022 
+  - 2.50% annually payable half-yearly, guaranteed by the Government of India and no expenses or other charges.
+  - no storage hassles like physical gold, no capital gain tax on redemption, traded on exchanges, can be used as collateral for loans, and no GST and making charges unlike in physical gold.
+
 #### Mortgage backed securities
 
 Individuals get mortgages from certain businesses - loans with their homes as collateral. These lenders then bunch together such loans and sell ownership of these loans to others who then may split it up and sell shares of these loans on the stock market.
@@ -48,7 +54,7 @@ Commodity prices are highly sensitive to (speculation about) the supply situatio
 
 ### Long term investment suitability
 
-Historically, most commodities have only keep up with inflation. In the long term, Investing in commodities is essentially betting against human ingenuity .
+Historically, most commodities have only keep up with inflation. In the long term, Investing in commodities is essentially betting against inflation (and to an extant human ingenuity given war, disease etc).
 
 ### Oil
 
@@ -56,9 +62,18 @@ Oil is used in distribution of goods and services. Only a few nations produce it
 
 When its price increases, the value of all common goods increases.
 
-### Rare earth elements
+### Gold
+#### Safe Gold and MMTC-PAMP
+No annual storage fees for 5 years. Only 3% GST at time of purchase. 
 
-\[**Incomplete**\]
+Both MMTC-PAMP and Digital Gold India have appointed IDBI Trusteeship Services Ltd as their trustee. Among other things, the trustee ensures the quality of the gold and that the gold sold to investors is segregated and available in the vaults. The gold held in the vaults is also insured against any loss.
+
+##### Redemption
+You can redeem the gold by either selling it back to the vendor at applicable prices, or take the delivery of physical gold.
+
+- Minting charge = 1 gm: 450, 550 for 2 gm, 919 for 5 gm, 1500 for 10 gm, 2300 for 20 gm. + delivery charges.
+
+
 
 ## Currency
 

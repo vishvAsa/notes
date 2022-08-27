@@ -33,12 +33,42 @@ title: Implementation
 Joint accounts only possible with majors, not minors.
 
 ### भारतेषु
-- fundsIndia
-  - Easy account opening, support. Excellent UI.
+#### General - Post tax
+- Look up symbols in BSE and NSE websites. Sometimes equity is listed in both - only "EQ" is added in symbols to differentiate.
+- Can invest in several index funds via mutual fund portals - simpler than trading stocks. Can set up monthly "SIP" investment.
+- upstox order tips: [EV Note](https://www.evernote.com/u/0/client/web#?n=f9a8ba31-ac3a-4c70-a836-4ead7b16439b&).
+
+#### General - Tax saving
+- Explore funds on morning-star : see 5 yr returns, expense ratio
+- https://upstox.com → mutual-funds login
+
+
+#### Upstox
+- Tax reporting - As per agent 202208 - "No high value transactions (HVT) reported to IT department." 
+- Customer support - Despite rough patches in the past, ok customer service as of 202208.
+
+##### Dormancy
+> As per Exchange guidelines, if no trades/investments/transactions have been made from your Upstox Trading and Demat or MCX account in the last 12 months we make it inactive/dormant.
+
+##### Transfers
+- Deposit via NEFT - no fees.
+- Withdrawal (post Mutual fund sales, not stock sales) via NEFT/ RTGS - no fees. See transfers section [here](/notes/economics/financial_services/banking/01_Operation.md).
+
+##### Mutual funds
+- funds for buying Mutual Fund units will be deducted directly from your registered bank account. And on redemption of these units they will be credited to your registered bank account. Not brokerage pool account.
+- A DP (Depository Participant) charge of ₹18+ GST is applicable on the redemption of Mutual Fund units. This will be deducted from your Upstox wallet and not from your bank account.
+
+#### FundsIndia
+- Easy account opening, support. Excellent UI.
+- Tax reporting - Investments over 10L shows up in both joint holders' IT form as of 2022!
+
+#### Other providers
 - fisdom (202207)
   - No charges in moving money. Joint account can be opened with offline support.
+  - UI not very good. Poor customer support (Bank account change took well over a week on email).
   - demat for mutual funds - account opening 299, AMC 0
   - demat trading  - annual maintenance 250
+- IDFC - No joint account. Can hold MF jointly - but need to go the branch and fill a form for each folio.
 - Groww
   - 0 AMC, 0 account opening fees.
   - No joint account as of 2022.
@@ -46,28 +76,6 @@ Joint accounts only possible with majors, not minors.
   - No transaction fee on investments & withdrawals. 0 fees.
   - No joint account as of 2022.
 
-#### Accounts and fees
-##### Upstox
-Help -  customercareindia  dbs.com
-
-As per Exchange guidelines, since no trades/investments/transactions have been made from your Upstox Trading and Demat or MCX account in the last 12 months we’ve made it inactive/dormant.
-
-###### Transfers
-- Deposit via NEFT - no fees.
-- Withdrawal (post Mutual fund sales, not stock sales) via NEFT - fees up to RBI limits - see transfers section [here](/notes/economics/financial_services/banking/01_Operation.md).
-
-###### Mutual funds
-- funds for buying Mutual Fund units will be deducted directly from your registered bank account. And on redemption of these units they will be credited to your registered bank account. Not brokerage pool account.
-- A DP (Depository Participant) charge of ₹18+ GST is applicable on the redemption of Mutual Fund units. This will be deducted from your Upstox wallet and not from your bank account.
-
-#### Post tax
-- Look up symbols in BSE and NSE websites. Sometimes equity is listed in both - only "EQ" is added in symbols to differentiate.
-- Can invest in several index funds via mutual fund portals - simpler than trading stocks. Can set up monthly "SIP" investment.
-- upstox order tips: [EV Note](https://www.evernote.com/u/0/client/web#?n=f9a8ba31-ac3a-4c70-a836-4ead7b16439b&).
-
-#### Tax saving
-- Explore funds on morning-star : see 5 yr returns, expense ratio
-- https://upstox.com → mutual-funds login
 
 ## Discipline
 
