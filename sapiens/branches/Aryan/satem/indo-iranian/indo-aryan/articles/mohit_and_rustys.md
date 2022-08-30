@@ -2,6 +2,18 @@
 title = "Mohit and Rustics"
 +++
 
+## Visit-mania
+Jun 28, 2021  
+After living in village for 2 years, I’d say it is not true that there is no peace in the city life.. If you’re not into a job, there’s more peace in the city life.. 
+
+In village, everyday more than one person comes to visit just for time pass.. How long can you avoid ? And you’ve to be much more diplomatic in the village life, because from BPL families to sometimes city-level real rich people, all are found in one place.. You’ve to change the way you talk, sit, think, body language everything so many times a day.
+
+In city, you could even say you don’t want to talk to someone but it would be a social crime to do the same to a fellow villager.  
+Same with borrowing or lending stuff..
+
+And certainly, everyone minds everyone else’s business except their own which I’d say is a good thing sometimes but certainly not every time esp when you know the other guy is not your well wisher.
+
+
 ## Tube well
 202104
 
