@@ -58,6 +58,22 @@ Ally - Minors can't be joint account holders with adults. But can open custodial
 - Highly rated app.
 - min balance 25k. No neft etc. fees. No ATM fees, free debit card, unlimited withdrawals from any ATM, 2L/day limit. 4.5% interest rate.
 
+#### Customer service ladder
+- Branch 
+  - experienced very poor service (including false claims) and follow-up when adding a joint account. Remote customer service is markedly better - though they often redirect back to the branch.
+  - Some branch staff respond to whatsapp queries (either in kind or by phone) - till they decide not to.
+  - Emailing sahakarnagar.branch AT idfcfirstbank yielded no results.
+- Customer service help-line (oft experienced 5min wait time).  
+  - Can register complaint [online](https://www.idfcfirstbank.com/customer-service). This will lead to a call-back.
+- banker AT idfcfirstbank . 
+- Final recourse - head.customerservice AT idfcfirstbank
+
+##### Tracking
+- Service request numbers are given.
+- Often, no email notification is received for change in service request status.
+- Status (but nothing else) can be tracked on mobile app (only numbers are displayed - no context info). On net banking, they are not displayed.
+
+
 ### Others
 - Axis
   - App rating 4.7. Much fees.
@@ -83,7 +99,8 @@ The bank should be capable of returning the money to the depositors whenever the
 ## Transfers
 - Free transfers - DBS.
 ### Unified Payments Interface UPI BHIM
-- Max 1L
+- Max 1L.
+  - IDFC - max 25k per transaction.
 - Instant
 - Charges 2021
   - Axis Bank, ICICI Bank and Kotak Mahindra Bank charge Rs 2.50 for amounts of up to Rs 1,000 and Rs 5 for transfers above Rs 1,000 on person-to-person UPI payments beyond 20 transactions a month.
