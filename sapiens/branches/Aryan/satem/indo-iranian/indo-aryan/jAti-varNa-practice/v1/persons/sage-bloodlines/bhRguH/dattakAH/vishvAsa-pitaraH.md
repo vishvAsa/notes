@@ -31,6 +31,8 @@ unicode_script = "devanagari"
 - भार्या श्रीरङ्गम्बा। वाधूल-गोत्रः।
 
 ### श्रीरङ्गम्मा
+- Article on her sister by her [here](/kannada/gadya/prakIrNa/mAtR-devo_bhava).
+
 #### जयरामः
 - infosys-नेता।
 
