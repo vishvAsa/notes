@@ -8,11 +8,15 @@ title = "Target/ ध्येयम्"
 - Stay at the lighter end of your body's frame
   - Over-muscled, fueled by constantly eating, is not healthy
 
-
 - Keep strong (for your size)
 - regularly work your heart rate (inc. max HR)
 
 ## Physical Standards 
+- Exercise your full range of motion (including twists).
+- Progressive overload to increase strength.
+  - Can be done even without equipment - pushup variations up to handstand finger pushups.
+- Progressive movement complexity
+
 Via Guru Anaerobic:  
 
 - 1 Deadlift: One-rep max of 2 x body weight (general strength) 
