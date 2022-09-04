@@ -100,7 +100,7 @@ The bank should be capable of returning the money to the depositors whenever the
 - Free transfers - DBS.
 ### Unified Payments Interface UPI BHIM
 - Max 1L.
-  - IDFC - max 25k per transaction.
+  - IDFC - max 25k per transaction, 1L per day, 3.5L per week, 5L per month.
 - Instant
 - Charges 2021
   - Axis Bank, ICICI Bank and Kotak Mahindra Bank charge Rs 2.50 for amounts of up to Rs 1,000 and Rs 5 for transfers above Rs 1,000 on person-to-person UPI payments beyond 20 transactions a month.
