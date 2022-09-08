@@ -39,3 +39,6 @@ Sometimes the video lags.
 ### Kdenlive
 - `Shift R` for cutting
 
+## Publishing
+### YouTube
+- Mass publishing drafts - [js script](https://raw.githubusercontent.com/Niedzwiedzw/youtube-publish-drafts/master/youtube-publish-drafts.js)
