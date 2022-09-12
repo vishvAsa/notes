@@ -24,7 +24,10 @@ In कायावरोहण of लाटदेश, to a blessed father by the
 venkaTAdhvarin
 (1600s of the common era), as has [been said](http://manasataramgini.wordpress.com/2012/04/06/some-maxims-of-venkatadhvarin/)\- "a shrauta ritualist, keen observer of humanity, master poet, proponent of vishiShTAdvaita and shrIvaiShNava bigot".
 
-## गोरूरु-श्रीनिवास-मूर्तिः
+## गॊरूरु-रामस्वाम्य्-अय्यङ्गार्यः
+- प्रसिद्धः कन्नडगद्यकविः। 
+
+## गॊरूरु-श्रीनिवास-मूर्तिः
 - Aka GSS Murthy. My father belongs to the "Hemmige" clan, He and Gorur Ramaswai Iyengar are second cousins. My mother is a Hebbar.
 I have yet to study what you have sent. I shall revert.
 - Lived in mumbai and bengaLUru. Retired from the Indian Telecom department.

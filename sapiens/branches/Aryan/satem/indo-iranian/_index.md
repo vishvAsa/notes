@@ -31,3 +31,4 @@ Early IA material was composed in milieu where Iranics were part of the circle.
 - If IA they had already settled in the greater Panjab there is little evidence for Iranics in their proximity.
 - In contrast in yajur brAhmaNa-s we do see strong deva-asura polarity mirrored in avesta. Hence, that split reflects a later period, which is more in line with a time of schism and separation.
 - already there was dialectal divergence in the steppes leading towards IA when earliest layers of RV and AV-P were composed. The linguistic developments in India and compilation merely "updated" this old composition to a new register. This has happened even later: e.g. paippalAda in kAshmIra vs Odisha, and in case of mAdhyandina.
+
