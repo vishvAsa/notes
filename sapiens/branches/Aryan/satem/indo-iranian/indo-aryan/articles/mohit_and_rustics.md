@@ -30,3 +30,5 @@ Despite being well aware that the crop goes for cow fodder, every once in a whil
 ## Price gouging
 When we were new and didn’t have much idea about the rates of fodder, we paid as much as 5-10x the normal rate for a good number of weeks before we figured out the scam.
 
+## 22 Brothers
+Got to know of a peaceful family. With 22 brothers (from different mothers of course) in the age range 15-55. The last 2 out of jail also went jail a few days back. You name the crime, they have the record. The last 2 caught were caught being over smart. Stole a buffalo bull from one village and a bullock cart from another. Happily riding their cart, got caught, ran into fields, later in the night, changed clothes, pretended to be owner of the bull. Got beaten n handed to police.

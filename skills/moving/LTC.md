@@ -49,6 +49,11 @@ Air tickets should be purchased from (Helper at NCBS - sharat):
 
 - Air - Baggage fees allowed (2022 office email).
 
+- Government employees are to choose flight having the Best Available Fare on their entitled travel class which is the cheapest Fare available, preferably for Non-stop flight in a given slot, mentioned below, at the time of booking. They are to retain the print-out of the concerned webpage of the ATAs having flight and fare details for the purpose of the settlement of the LTC claims. (GOI Office memorandum - [TIFR link](https://www.tifr.res.in/new_noticesdocs/ltc.pdf)) 
+  - (a) On the day of travel in the desired 3 hours' slot of following time band - 00:00 hours to 03:00 hours, 03:00 hours to 06:00 hours, 06:00 hours to 09:00 hours, 09:00 hours to 12:00 hours, 12:00 hours to 15:00 hours, 15:00 hours to 18:00 hours, 18:00 hours to 21:00 hours, 21:00 hours to 24:00 hours.
+  - (b) With provision of optimizing within a 10% price band, for convenience
+  and comfort.
+- Employees are encouraged to book flight tickets at least 21 days prior to the intended date of travel on LTC, to avail the most competitive fares and minimize burden on the exchequer.
 
 ## Fresh recruit entitlement
 - Fresh recruits are allowed to travel to their home town along with their families on three occasions in a block of four years and to any place in India on the fourth occasion. This facility is available for the first two blocks of four years after joining the Government for the first time.
