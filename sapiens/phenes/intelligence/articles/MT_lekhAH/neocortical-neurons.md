@@ -1,0 +1,5 @@
++++
+title = "Neo-cortical neurons"
++++
+
+Even though in terms of volume the Neanderthal brains are in the same range or bigger than Homo sapiens, the authors suggest that a very subtle mutation in the gene TKTL1, which codes for a thiamine diphosphate dependent enzyme in the 5-carbon sugar cycle causes sapiens brains to have more neurons in the frontal lobe neocortex. This mutation in a basic metabolic pathway somehow results in sapiens having more basal radial glia which in turn generate neocortical neurons. The authors suggest that this is because the mutation ultimately results in the production of a certain cell membrane fat that is needed for the growth of the branched processes evinced by these glia. This raises the question of whether some traditional medicine therapies with fats aimed at improving intelligence might have a basis in this.

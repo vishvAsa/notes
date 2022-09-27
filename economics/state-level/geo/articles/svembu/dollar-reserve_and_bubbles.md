@@ -1,7 +1,8 @@
 +++
 title = "Dollar reserve and bubbles"
 +++
-(Source: https://threader.app/thread/1469463718874398723)
+Source: [TW](https://threader.app/thread/1469463718874398723)
+
 
 Why do countries as different as the US, China and India have big asset bubbles at the same time? What is the common factor? The common factor is the dollar as the reserve currency and very undisciplined monetary policy by the US Fed. Lets explore.
 

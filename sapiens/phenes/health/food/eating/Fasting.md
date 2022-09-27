@@ -45,6 +45,10 @@ title = "Fasting"
 ### Senses upregulated
 - "Too much information in the form of constant feeding dulls the senses and causes harm. Just as water tastes better when we're thirsty, if we go off sugar for two weeks our taste buds can detect it in parts-per-zillion - we can practically smell it from a distance. And the opposite, when we eat a lot of sweets (candy) it's not surprising that an apple tastes bland - the excess sugar has desensitised the taste receptors and/or the processing part of the brain. Absence of food means the senses are upregulated. As anyone who has fasted for 36hrs or more knows, eyesight improves and sense of smell becomes more intense."
 
+### Excess Weight loss benefits
+- Lower risk of heart disease, hypertension, high cholesterol, Type 2 diabetes.
+- Losing 1 lb of body weight reduces 4 lb pressure on knee joints.
+- Boost blood flow to brain.
 
 ## Stages
 - Post prandial state: After eating, when the stomach and intestines are absorbing nutrients from food. 4-6hrs.
@@ -63,14 +67,18 @@ title = "Fasting"
 - 5+ days on, you will start to lose some muscle
 - Some muscle loss is acceptable
 
+## Adipose tissue loss
+- white adipose tissue (body fat) makes and releases leptin. Leptin helps inhibit (prevent) hunger and regulate energy balance so that your body doesn’t trigger a hunger response when it doesn’t need energy (calories). Leptin doesn’t affect your hunger levels and food intake from meal to meal but rather acts to alter food intake and control energy expenditure over a longer period of time to help maintain your normal weight.
+- As your body fat (adipose tissue) decreases, your leptin levels decrease, which signals your body to think that it’s starving. This stimulates intense hunger and appetite and can lead to increased food consumption.
+
 ## Initiation
-It is actually pretty easy to start off fasting habit early in life. For example, for over a year, 6yo son has been happily doing daily (4:30PM-8:30AM) intermittent fasting and ~24 hour fast on ekAdashi-s (albeit cheating with milk and fruits), while staying fully active (eg 1 hr swimming, 1 hr dance yesterday).
+It is actually pretty easy to start off fasting habit early in life. For example, for over a year, 6yo son has been happily doing daily (4:30PM-8:30AM) intermittent fasting and ~24 hour fast on ekAdashi-s (albeit cheating with milk and fruits), while staying fully active (eg 1 hr swimming + 1 hr dance).
 
 ## Credits
 - Quotes from Mark Baker/ GuruAnaerobic.
 
 ## As treatment
-- "ज्वरदण्डं तु लङ्घनम्"
+- "ज्वरदण्डस् तु लङ्घनम्"
 
 > अतीव बलहीनं हि
   लङ्घनं नैव कारयेत् ।
