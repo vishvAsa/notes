@@ -19,7 +19,7 @@ The praise of शूद्रजाति composed by कामदेव (कौ
 > राजन्यानाम् एत्य साहाय्यम् ऊर्व्व्यास्  
 > सर्व्वं भारन् निर्वहंत्य् एव सम्यक्॥७॥
 >
-> The three castes, (viz.) the Brāhmaṇas and the next (Kshatriyas and Vaiśyas), were produced from the face, the arms and the thighs of the Lord (lśvara) ; and for their support was born the fourth caste from His (i.e., Iśvara's) feet. (5)
+> The three castes, (viz.) the Brāhmaṇas and the next (Kshatriyas and Vaiśyas), were produced from the face, the arms and the thighs of the Lord (īśvara) ; and for their support was born the fourth caste from His (i.e., Iśvara's) feet. (5)
 >   
 > That this caste is more pure than those (other three) is self-evident ; for (verily) this caste was born along with the (river) Bhāgīrathī, (i.e., the Ganges [which springs from Vishṇu's foot]), the purifier of the three worlds. (6)
 > 

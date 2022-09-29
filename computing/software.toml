@@ -642,12 +642,6 @@ kAraNaM = 'good python console.'
 
 [[data]]
 samUhaH = 'programming'
-upasamUhaH = 'programming tools'
-software = 'kdiff3'
-choice = 1
-
-[[data]]
-samUhaH = 'programming'
 upasamUhaH = 'IDE'
 software = 'intellij idea with scala, git plugin ...'
 choice = 1
