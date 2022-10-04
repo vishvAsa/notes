@@ -32,3 +32,6 @@ When we were new and didn’t have much idea about the rates of fodder, we paid 
 
 ## 22 Brothers
 Got to know of a peaceful family. With 22 brothers (from different mothers of course) in the age range 15-55. The last 2 out of jail also went jail a few days back. You name the crime, they have the record. The last 2 caught were caught being over smart. Stole a buffalo bull from one village and a bullock cart from another. Happily riding their cart, got caught, ran into fields, later in the night, changed clothes, pretended to be owner of the bull. Got beaten n handed to police.
+
+## Pit bull
+In our village where 70% homes are still made of brick and mud only, we once saw a stray pitbull trying to hunt an abandoned cow, it was so scary that none of the humans cud dare intervene except throwing stones from a good distance. He wasnt bothered by any stone (except the 2% that hit) but after getting hurt, cow got really angry, a kick got placed well on the dog and then she cud run to safety. Later those who had thrown the dog out came in the afternoon demanding why did we allow people to stand in our courtyard and throw stones (our place was somewhat protected and near to the point where cow was being attacked). Imagine that ! Could only shut them up saying is the cow not your mother (which they would have known already anyways).

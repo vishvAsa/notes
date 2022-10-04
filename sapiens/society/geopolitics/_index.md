@@ -2,6 +2,8 @@
 title: +Geopolitics
 ---
 
+> The plain truth is hard to accept: the number of high IQ nodes (individuals) in a nation & the degree of connectivity between them (density of the graph edges) decide the line between its victory and defeat. [MT - TW](https://twitter.com/blog_supplement/status/1574937417559130112)
+
 ## Economy
 " Trade is not just a game. Over the long sweep of history some nations lose independence and control of their destiny if they fall behind in trade. Therefore nations must think about it strategically, not just as a matter of where they can buy the cheapest shirt this week."
 

@@ -1,0 +1,5 @@
+---
+title: +विश्वास-पितरः
+unicode_script: devanagari
+---
+{{< gallery dir="." figureClass="thumbnail">}}

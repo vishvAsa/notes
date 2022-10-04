@@ -133,8 +133,8 @@ The bank should be capable of returning the money to the depositors whenever the
 ### IMPS
 - Real time
 - Max 2 lakhs
-- Charges 2021
-  - Digibank- Free
+- Charges 2022
+  - idfc, Digibank- Free
   - UCO - 17Rs
 
 ### ACH USA
