@@ -1,5 +1,5 @@
 +++
-title = "1165 nADatUr-ammAL"
+title = "1165 naDAtUr-ammAL"
 +++
 
 Source: [TW](https://nadadoor.org/nadadoor-ammal/)
