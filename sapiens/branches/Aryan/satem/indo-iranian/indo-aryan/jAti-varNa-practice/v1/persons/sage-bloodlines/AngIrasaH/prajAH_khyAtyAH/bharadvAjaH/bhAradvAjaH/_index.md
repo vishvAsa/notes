@@ -7,6 +7,9 @@ unicode_script: devanagari
 ### श्रीहर्षः
 - one of the greatest अद्वैती writers, author of the नैषधीयचरितम् & खण्डनखण्डखाद्यम्, the latter renowned for its aggressive tour de force against classical न्याय as we knew it
 
+### महापूर्णः
+> Periya Nambi (Mahapurnar) He was the prime disciple of Alavandhar. Year of Birth – kali 4098 in the year of Hevilambi in the month of Margazhi and Kettai nakshatram. He belonged to Bharadwaja gothram. He lived for 105 years. He was doing siddhantha pravachanam to his disciples in Srirangam. His foremost disciples were Udaiyavar(Sri Ramanuja), Ani Arangathamudhanar, Thiru kachi nimbi, Satakopa dasar.
+
 ### नच्चिनार्क्किनियार्
 One of the earliest, classical commentators for sangam-era tamiL classics including the great grammatical work, Tolkāppiyam (तोल्क्काप्पियम्) was मदुरैयासिरियर् (मदुरै-आचार्य) पारत्तुवासि (भारद्वाजी) नच्चिनार्क्किनियार्.
 
