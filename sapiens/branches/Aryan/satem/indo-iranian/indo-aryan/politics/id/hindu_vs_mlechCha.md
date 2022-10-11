@@ -13,5 +13,13 @@ It is interesting to note that 𑆯𑇀𑆫𑆵𑆮𑆫 {śrīvara} in his 15th 
 2. 𑆠𑆶𑆫𑆶𑆰𑇀𑆑𑆨𑆳𑆰𑆳 (Turkic)
 3. 𑆲𑆴𑆤𑇀𑆢𑆶𑆱𑇀𑆡𑆳𑆤𑆮𑆳𑆖𑇀 (Language of Hindus, Kashmiri)
 
+> Anyway, shrivara is well aware of who's a hindu and who's a muslim. There is no sectarianism even thought of. Keep in mind, shrivara is contemporary to vijayanagara. So in the 1500s you have the identity "hindu" being used from karnataka to kashmir already! 
+>
+> In the rajatarangini of shrivara, there are ample references to muslims. They're called 'mausala' and their religion/prophet is discussed by shrivara. In fact, he's the one who first uses the term paygambar in sanskrit to refer to mohammed. shrivara laments the growing islamization of kashmir as people abandon their ancestral religion for a foreign faith. 
+> 
+> - AryAMsha
+
 ## Royal identifications
-Various hindu kings styled themselves and their kingdoms as Hindu. Eg. shivAjI's hindavI svarAjya. vijayanagara's hindu-rAya.
+Various hindu kings styled themselves and their kingdoms as Hindu. Eg. shivAjI's hindavI svarAjya. 
+
+Emperors of vijayanagara called themselves 'hindu-rāya-suratrāṇa'.
