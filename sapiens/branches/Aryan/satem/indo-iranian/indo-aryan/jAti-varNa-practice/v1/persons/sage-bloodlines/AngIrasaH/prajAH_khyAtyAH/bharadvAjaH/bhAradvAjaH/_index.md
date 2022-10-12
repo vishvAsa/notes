@@ -8,7 +8,10 @@ unicode_script: devanagari
 - one of the greatest अद्वैती writers, author of the नैषधीयचरितम् & खण्डनखण्डखाद्यम्, the latter renowned for its aggressive tour de force against classical न्याय as we knew it
 
 ### महापूर्णः
-> Periya Nambi (Mahapurnar) He was the prime disciple of Alavandhar. Year of Birth – kali 4098 in the year of Hevilambi in the month of Margazhi and Kettai nakshatram. He belonged to Bharadwaja gothram. He lived for 105 years. He was doing siddhantha pravachanam to his disciples in Srirangam. His foremost disciples were Udaiyavar(Sri Ramanuja), Ani Arangathamudhanar, Thiru kachi nimbi, Satakopa dasar.
+> Periya Nambi (Mahapurnar) was the prime disciple of Alavandar (yAmuna). Year of Birth – kali 4098 in the year of Hevilambi in the month of Margazhi and Kettai nakshatram. He belonged to Bharadwaja gothram. He lived for 105 years. He was doing siddhantha pravachanam to his disciples in Srirangam. His foremost disciples were Udaiyavar(Sri Ramanuja), Ani Arangathamudhanar, Thiru kachi nimbi, Satakopa dasar.
+
+His satIrtha was mAranerinambi, a shUdra who was excommunicated by his jAti for studying vedAnta! In his final days, per his request, mahApUrNa cremated him on the northern bank of shrIrangam; took a bath and returned. Folks complained to rAmAnuja, his student - who said: "Listen to what my guru says in response". He knocked on their door, and mahApUrNa's little daughter attuLHai opened the door and called her father. mahApUrNa said: "rAma cremated jaTAyuSh, who was a scavenger. Am I superior to rAma or is mAraneri worse than a scavenger now? vidura was cremated by yudhiShThira." (Source: [TW](https://www.youtube.com/watch?v=crmarIYGSR8)
+)
 
 ### नच्चिनार्क्किनियार्
 One of the earliest, classical commentators for sangam-era tamiL classics including the great grammatical work, Tolkāppiyam (तोल्क्काप्पियम्) was मदुरैयासिरियर् (मदुरै-आचार्य) पारत्तुवासि (भारद्वाजी) नच्चिनार्क्किनियार्.

@@ -6,8 +6,18 @@ unicode_script = "devanagari"
 ## यामुनाचार्यः
 (श्री आळवन्दार्)-शिखामणि of शठमर्षणगोत्र of केवलाङ्गिरसगण from श्रीरङ्गम्, नाथमुनि's grandson; inspired रामानुज's धार्मिक career with 3 last wishes; authored गीतार्थसंग्रह & सिद्धित्रय, wrote आगमप्रामाण्य to defend प्रामाण्य (authoritativeness) of पाञ्चरात्रागमः
 
+### मारनेरि-नम्बि-कथा
+yAmuna's students included a non-brahmin (likely shudra) called mAraneri-nambi. He used to attend vedAnta classes as yAmuna said "vedAnta is for all" (But his caste fellows excommunicated him!) Once students collected funds to renovate the pAThashAlA. After completion, mAranerinambi was shown the new structure. Next day was gRhapravesha. 
+
+- yAmuna asked - "Where is mAranerinambi?" 
+- brAhmaNa students said: "He's not here because he's not a brAhmaNa. He's already seen yesterday - he will come soon as the classes start in the coming days".
+- yAmuna said - "So gRhapravesha has already happened yesterday." 
+
+Source: [TW](https://www.youtube.com/watch?v=crmarIYGSR8)
+
+
 ## periya-tirumalai-nambi
-Aka Srisailanatha, shrIshailapUrNa
+Aka Srisailanatha, shrIshailapUrNa. Not to be confused with periya-nambi / mahApUrNa.
 
 >  grandson and disciple of Sri Alavandar and maternal uncle of the great Vaishnavite teacher Ramanuja was staying at Tirupati (Tirumalai) and doing Kainkaryam to the Lord of the Seven Hills side by side with his teachings of Vaishnavism. He was also one of the Acharyas of Sri Ramanuja, his nephew. It is said that Lord Srinivasa was very much pleased with him for the paternal care he was taking of Him and on one occasion the God is said to have addressed him “ mama-tata ” (my father) and ever since then Peria Tirumalai Nambikal came to be recognised by the name Tatacharya, a title which his descendants also began to assume.  ...  
 > Sri Periya Tirumalai Nambikal who was said to have attained to great glory by his mastery in Srimad Ramayana. Sri Ramanuja, his nephew had to make, it is said, eighteen trips to Tirupati to get himself initiated in this sacred treatise*, under him.
