@@ -8,3 +8,4 @@ unicode_script = "devanagari"
 >
 > ... More than thirty Gahadavala inscriptions mention the Turushka-Danda.
 
+Contrary to the above, others say that the daNDa was for ransoming off the turuShka-s or paying them tribute. 
