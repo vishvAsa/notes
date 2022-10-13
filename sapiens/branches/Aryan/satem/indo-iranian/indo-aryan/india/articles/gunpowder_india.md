@@ -1,7 +1,8 @@
 +++
 title = "Gunpowder in India"
 +++
-(Source: https://threader.app/thread/1450755117083357189)
+Source: [TW](https://threader.app/thread/1450755117083357189)
+
 
 Gunpower (Agnichurna) was NOT brought by the Mughals. Hindus are using it from Ancient times. The Hindus of remote areas during the Vedic age were very familiar with Gunpower. Raja-laksmi-narayana-hrdya which is found in Atharva Rahasya have mentioned it. 
 

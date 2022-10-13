@@ -21,6 +21,7 @@ an Indian just does not have a choice. Today a paper was published by
 Rosenberg et al in the free wannabe tabloid studying the Indian
 populations using a sample of Indians living in the US. The conclusions
 are not unexpected but worth reiterating nevertheless:  
+
 1) Indians are a distinct population. When you do K-means type
 clustering with K=7 using a panel of autosomal genetic variation at 729
 microsatellite and 471 insertion/deletion polymorphisms we see the
@@ -34,7 +35,8 @@ Indo-Chinese and Yakuts included.
 5) Papuans and Melanasians.  
 6) Native Americans from North and South America.  
 7) The Kalash.  
-Baring the Kalash, who are a uniquely isolated population, the remaining
+
+Barring the Kalash, who are a uniquely isolated population, the remaining
 categories are pretty reasonable racial categories which correspond to
 what American have on their forms. So the point is clear we need a race
 for ourselves.
