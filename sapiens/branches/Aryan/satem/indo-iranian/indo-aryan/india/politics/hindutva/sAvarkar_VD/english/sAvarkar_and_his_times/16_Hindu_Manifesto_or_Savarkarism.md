@@ -5,7 +5,7 @@ title = "16 Hindu Manifesto or Savarkarism"
 
 I
 
-The ideal and ideology which Sav£irkar laid down and
+The ideal and ideology which Savarkar laid down and
 propagated is called the Hindu Sanghatan ideology or Hindu
 Nationalism or Savarkarism. Although a natural development,
 an outgrowth and a manilestation of the various views and
@@ -125,26 +125,25 @@ famous presidential speech at Ahmedabad giving the
 fundamental principles of the Hindu Nation was hailed by
 Bhai Parmananda as the Bible of Hindu Sanghatan.
 
-What is Hindutva
+## What is Hindutva
 
-The word Efindu is the heart of that ideology, and
+The word Hindu is the heart of that ideology, and
 Hindusthan its geographical centre. According to Savarkar
-“ every person is a Hindu who regards and owns this Bharat
-Bhoomi — ^this land from the Indus to the seas, as his Father-
+
+> “ every person is a Hindu who regards and owns this Bharat
+Bhoomi — this land from the Indus to the seas, as his Father-
 land and Holyland — the land of origin of his religion and the
-cradle of his faith.” Therefore it follows that the followers
+cradle of his faith.” 
+
+226 SAVABKAB AND HIS TIMES
+
+
+Therefore it follows that the followers
 of Vedism, Jainism, Buddhism, Sikhism and all Hill-tribes are
 all Hindus. Around this life-centre moves Hindutva which
 Savarkar defines as not only the spiritual or religious history
 of our people, but the history in full pervasion. Hinduism is
 only a derivative, a fraction, a part of Hindutva. Hindutva is
-
-15
-
-
-
-226 SAVABKAB AND HIS TIMES
-
 not, he observes, particularly theocratic, a religious dogma or
 a creed. It embraces all the departments of thought and
 activity of the whole being of the Hindu race. Forty
@@ -153,13 +152,13 @@ it as it is. Prophets and poets, lawyers and lawgivers, heroes
 and historians, have thought, lived, fought and died just to
 have it spelled thus.*
 
-What is Sanghatan? and Why?
+## What is Sanghatan? and Why?
 
 This movement is called Hindu Sanghatan and means
 organization for the solidarity and strength of the Hindu
 Nation. But what constitutes a nation ?
 
-What Constitutes a Nation?
+### What Constitutes a Nation?
 
 A nation is a group of mankind which is bound together by
 some or all of these common ties such as common religion and
@@ -176,14 +175,14 @@ people of any one nation. French nationality, he says, is that
 group of qualities which distinguish the French from other
 European people.-
 
-Eminent Authobs on the Pkinciples
+### Eminent Authors on the Principles
 
 The principal elements instrvunental in the formation of a
 nation are a common past, a common tradition and a will to
 live together. Renan defines a nation as a social group whose
 solidarity has been established by the sentiment of the
 sacrifices made in the past and of those it is still ready to
-make in the future. In his essay on Nationality he observes
+make in the future. 
 
 * Savarkar, Hindutva, p. 3.
 
@@ -193,7 +192,7 @@ make in the future. In his essay on Nationality he observes
 
 HINDU MANIFESTO OR SAVARKARISM 227
 
-that “ a nation is a living soul, a spiritual principle. . . . One
+In his essay on Nationality he observes that “ a nation is a living soul, a spiritual principle. . . . One
 is the common possession of a rich heritage of memories ; the
 other is actual consent, the desire to live together, the will
 to preserve worthily the undivided inheritance which has
@@ -244,7 +243,7 @@ regret, connected with the same incidents in the past.” ^
 SAVARKAR AND HIS TIMES
 
 
-Savarkar on Nation
+### Savarkar on Nation
 
 All these tenets acknowledged as the authoritative exposi-
 tion of nationalism vindicate Savarkar’s stand that in
@@ -307,7 +306,7 @@ invented to spite the Moslems or anybody in the world. But
 it is a fact as stupendous and solid as the Himalayas that
 border our North.
 
-Indian and Hindu Nationalisms
+## Indian and Hindu Nationalisms
 
 The Indian National Congress believed and upheld the
 territorial nationalism which they called Indian Nationalism.
@@ -450,7 +449,7 @@ national cataclysms because they were found the fittest to
 survive.
 
 
-Justifiable Nationalism
+## Justifiable Nationalism
 
 To those who say that the concept of the Hindu Nation is
 parochial, Savarkar asks whether or not the concept of an
@@ -512,7 +511,7 @@ any special privileges, but they will not allow themselves to
 be exploited.
 
 
-Muslims and Minorities
+## Muslims and Minorities
 
 Savarkar was for Hindu-Muslim unity and contemplated a
 non-seclarian State for India. He held that it w'as as suicidal
@@ -581,18 +580,15 @@ could be politically assimilated with the Hindus. Only
 conversion, he added, should be made voluntary and on a
 legitimate basis.
 
-As to the Jews in India, he said, they were too few and
-
-
-
 HINDU MANIFESTO OR SAVARKARISM 235
 
+As to the Jews in India, he said, they were too few and
 had given no political or cultural troubles and were not in the
 main a proselytizing people. They willed, he continued, to
 be friendly towards the Hindus who had sheltered them when
 homeless, and could be easily assimilated in a common Indian
 
-^*^us the problem of minorities was not at all the problem
+Thus the problem of minorities was not at all the problem
 of all minorities, but the problem of only one minority— the
 Muslim minority.
 
@@ -971,7 +967,7 @@ applied most of his herculean energy to the task of warning
 the leaders and the Hi|ndus against the impending holocaust
 that was soon to overtake them. Savarkar’s was a peculiar
 Maharashtrian approach. Even the great Maharashtrian
-saint, Tukaram, sings in a fit of practical righteousness : “ Kill
+saint, Tukaram, sings in a fit of practical righteousness : 
 
 • G. A. Nate^n & Co., Sarojini^s Speeches & WriHngSt p. 7B.
 
@@ -979,7 +975,7 @@ saint, Tukaram, sings in a fit of practical righteousness : “ Kill
 
 HINDU MANIFESTO OR SAVARKARISM 243
 
-the scorpion, the despiser of the worship of God, if it enters
+> “ Kill the scorpion, the despiser of the worship of God, if it enters
 the shrine ; give tit for tat. No mercy to the wicked.”
 
 Revolutions: Why and How
