@@ -1,0 +1,8 @@
++++
+title = "Rajputana praja mandals - accession"
++++
+The Praja mandals of Rajputana were all in favour of acceding to India. But Hamidullah Khan, the Nawab of Bhopal, and the chancellor of the Chamber of Princes  wanted to accede to Pakistan. But to connect Bhopal to Pakistan, Khan took the help of Udaybhan Singh of Dholpur, who sent letters to the states of Jaisalmer, Jodhpur & Mewar, to not accede to India or to stay independent. Hanvant Singh of Jodhpur, though he had previously declared to accede to India, changed his mind. When VP Menon tried to confront him, he put a gun to his head.
+
+Bhupal Singh of Mewar, when he recieved the letter invoked his ancestors (Maharana Pratap, Sanga, Kumbha, etc.) and said, they had already decided for him which side he was going to accede to. ie. He preferred to side with Hindu India over Muslim Pakistan. Because of his firm stance, the Nawab of Bhopal had to drop the plan and all the states of Rajputana acceded to India. What we see here is that, Bhupal Singh of Mewar felt a strong sense of Hindudom towards India. In fact, in the following year, 1948, his son became the RSS Sarsanghachalak of Southern Rajputana.
+
+Apart from Hindutva, it's important to mention that Maharana Bhupal Singh's decision wasn't made in a complete political vacuum. Previously, the Rana was pressurised into breaking all his ties with the British government in support of Gandhi's Quit India Movement by Manikya Lal Varma, a Praja Mandal leader, but back then, the Rana had him arrested. The shift of the Rana's stance in favour of the Indian state in 1947, could be attributed in no small part to the support of the Praja mandals for the Congress.
