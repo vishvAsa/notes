@@ -46,3 +46,13 @@ Bernanke when he was Fed Chair (2011): "Monetization would require a permanent i
 
 This is not a minor slip on Bernanke's part. His only job as the Fed Chair was to manage the money supply. He got his forecast on the money supply (i.e Fed balance sheet) disastrously wrong. It is time to junk the models and frameworks these professors use and start over. Macro economic models mostly consider only "flow" (GDP, employment, wages) and ignore "stock" (debt build up). That's like declaring that smoking did not kill me this quarter so it is okay. After all, "in the long run we are all dead" as the economists quoting Keynes say.
 
+## Rajan
+Source: [TW](https://threadreaderapp.com/thread/1582248846784356354.html)
+
+Rajan echoes the conventional-economist thinking that focuses on efficiency gains from trade and totally ignores resilience and the benefits of a diversified jobs mix in a region. As an example, a bright kid in Tenkasi wanting to build planes today has to migrate out of India. Rajan would argue "Let's make labor mobile across countries so the Tenkasi kid can migrate to where planes are built" and that ignores unmodeled costs of uprooting people, such as elderly people left behind.
+
+Their models also have no place for culture, community and so on. Economists would basically assume away those unmodeled costs as trivial or non-existent. That is the ultimate triumph of logical positivism. My contention is that when all those unmodeled costs are taken into account, those efficiency gains evaporate, particularly long term.
+
+Conveniently, the economic models they study have no long term ("in the long run we are all dead"). Well, the long run has arrived, and it is mainstream economics that is dying. We need a wholesale reexamination of the philosophical foundations of mainstream economics.
+
+
