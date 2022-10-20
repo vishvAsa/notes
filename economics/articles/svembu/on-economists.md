@@ -56,3 +56,13 @@ Their models also have no place for culture, community and so on. Economists wou
 Conveniently, the economic models they study have no long term ("in the long run we are all dead"). Well, the long run has arrived, and it is mainstream economics that is dying. We need a wholesale reexamination of the philosophical foundations of mainstream economics.
 
 
+## Wireless systems and toy models
+Source: [TW](https://threadreaderapp.com/thread/1582635173660995586.html)
+
+I spent over 4 years in my PhD deep inside mathematical models of wireless systems. It slowly dawned on me that the professors were addicted to the models themselves and never entertained any doubts about whether the models had much to do with reality. Over time, the entire purpose of the models evolved so as to allow us to publish cute theorems & win grants, awards & coveted tenure! I saw this trend everywhere I looked in academia with very few professors immune to the pull of models increasingly detached from reality. 
+
+It was therefore not a surprise for me that this trend had taken deep root in economics. In wireless systems, industry practitioners typically ignore the toy model pushers. Alas, in economics it is these toy model pushers who have come to dominate economic decision making. In that sense, people like Krugman or Bernanke are much the same as shamans of old with their aura of academic authority, peddling fake economic cures based on their irrelevant toy models that confer a veneer of mathematical prestige on what is basically nonsense.
+
+My own personal liberation came when I decided to leave that academic prestige path and go build real engineering systems for a living. I have long refused to list my PhD among my qualifications because I don't value that work and consider it all but useless. At least I got one thing out of spending those 5 years in a PhD. I learned to discriminate between bullshit toy models and endlessly fascinating reality.
+
+Economics is too important to be left to these toy model pushers. That is why I so passionately engage them. 🙏 
