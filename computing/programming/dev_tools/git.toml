@@ -8,6 +8,8 @@ Description = 'Whereas SVN tracks differences of a file, Git’s version control
 Software = 'git'
 "Operand Type" = 'Repository'
 Feature = 'concept'
+Subfeature = ''
+Syntax = ''
 Description = '''
 No fundamental centralized repository everyone directly works with as in svn. 
 Every developer has a repository copy. Collaboration occurs by passing changesets between working copies and a central repository.'''
@@ -143,7 +145,6 @@ Software = 'git'
 "Implementation Type" = 'setup'
 Syntax = 'git submodule add [-b branch] https://github.com/<user>/rock localDirPath'
 
-
 [[data]]
 Software = 'git'
 "Operand Type" = 'submodule'
@@ -177,6 +178,16 @@ Syntax = """
 Software = 'git'
 "Operand Type" = 'submodule'
 Feature = 'track remote branch'
+Subfeature = 'shallow-submodules case'
+Syntax = """
+git submodule foreach -q --recursive 'git checkout -b $(git config -f $toplevel/.gitmodules submodule.$name.branch || echo master)'
+"""
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'submodule'
+Feature = 'track remote branch'
+Subfeature = 'non-shallow-submodules case'
 Syntax = """
 git submodule foreach -q --recursive 'git checkout $(git config -f $toplevel/.gitmodules submodule.$name.branch || echo master)'
 """
