@@ -192,6 +192,15 @@ Syntax = """
 git submodule foreach -q --recursive 'git checkout $(git config -f $toplevel/.gitmodules submodule.$name.branch || echo master)'
 """
 
+
+[[data]]
+Software = 'git'
+"Operand Type" = 'submodule'
+Feature = 'unshallow'
+Syntax = "git submodule foreach -q --recursive 'git fetch --unshallow'"
+Description = 'Beware - makes tracking remote branches for submodules difficult.'
+
+
 [[data]]
 Software = 'git'
 "Operand Type" = 'submodule'

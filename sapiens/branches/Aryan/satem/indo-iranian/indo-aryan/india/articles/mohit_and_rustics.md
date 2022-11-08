@@ -42,4 +42,5 @@ There is this toilet waste exit from a home right behind a temple near our place
 ## Cows
 With lesser children, (even relatively) better off farmers/villagers now don’t want to keep cattle.
 
-Saw village women chasing away a cow w/ apparently diseased udder (mastitis looks like), as the cow tries to enter the home of her masters again and again.. occasional rooted rustic dharmika village morning.
+221108  
+Saw village women chasing away a cow w/ apparently diseased udder (mastitis looks like), as the cow tries to enter the home of her masters again and again.. occasional rooted rustic dharmika village morning. Initially i used to feel terribly sad about all this, now there's a mixture of impotent anger and pessimism.
