@@ -38,3 +38,8 @@ In our village where 70% homes are still made of brick and mud only, we once saw
 
 ## Toilet drain pipe
 There is this toilet waste exit from a home right behind a temple near our place, which falls now and then on people walking in the street. When we asked the house owner to fix a small pipe there so the waste would go into drain instead of falling on the street, he laughed it off. Then we bought and got the pipe fixed because it affected us as well. Costed us < 100₹. After a few months, I don’t know how, the pipe became a bit slanted, a vehicle or something knocked it off, a lady came a few hours later, picked the pipe and took it with her.
+
+## Cows
+With lesser children, (even relatively) better off farmers/villagers now don’t want to keep cattle.
+
+Saw village women chasing away a cow w/ apparently diseased udder (mastitis looks like), as the cow tries to enter the home of her masters again and again.. occasional rooted rustic dharmika village morning.

@@ -41,3 +41,9 @@ Of course "Southern Arc" hypothesis needs a much closer look before reaching any
 > Does this raise the possibility of Harappa having spoken a language of IE family pre-arrival of sintASta folks?
 
 Yes: If a version of Lazaridis et al's hypothesis survives then we can postulate that a broader swath CHGs spoke para-Indo-Anatolian languages (rather than IE). One of these could have reached Harappan India. Was that the sole or dominant Harappan language? Less clear for now
+
+
+Source: [TW](https://twitter.com/blog_supplement/status/1583662814324891649)
+
+Some have homologized Greek kalia (cottage) with Skt shAlA descending from a PIE root. Nostraticists have noticed North Caucasian ~kala for hut. Wonder about its implications for the so-called southern arch hypothesis for PIE. With the southern arc hypothesis brought back into fashion by recent archaeogenetic studies one can revisit some of the deeper relationships of IE. One possible candidate in North Caucasian. This link could swing either way just like the archaeogenetic evidence. On one side it might suggest a homeland close to the steppe Yamnaya flanked by the Caspian + Black Seas. On the other hand, it might not be incompatible with an Armenian (or a nearby locale)  as hinted by the recent publication,
+
