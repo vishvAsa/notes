@@ -32,9 +32,10 @@ You can redeem the gold by either selling it back to the vendor at applicable pr
 
 
 ### Jewellery
-- Look for the making charges when you invest. it can go upto 36%..😣. Be very clear in your mind that you will not get carried away with the designs and will stick to basic designs with very low making charges.
-  you can tell them beforehand that you are looking for making charges below 10% or 5%. (5% is a very optimistic figure ..all these big brads have high making charges)
-- Bengaluru recommendations
+#### Strategy
+- Look for the making charges when you invest. It can go upto 36%..😣. Be very clear in your mind that you will not get carried away with the designs and will stick to basic designs with very low making charges. You can tell them beforehand that you are looking for making charges below 10% or 5%. (5% is a very optimistic figure .. All these big brands have high making charges)
+
+#### Bengaluru recommendations
   - Navratan, Bhima
   - Abaran jewelry, Praveen Jewels
   - Shubh Jewellers (which is the outlet of a manufacturing firm) used to charge a bit more extra on gold rate but no making charges
