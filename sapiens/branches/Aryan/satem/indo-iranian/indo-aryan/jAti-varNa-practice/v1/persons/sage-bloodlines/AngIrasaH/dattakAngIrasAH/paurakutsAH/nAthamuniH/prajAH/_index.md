@@ -74,7 +74,13 @@ ettUr lakshmIkumAra tAtAchArya, son of paramatabhanjana-tAta-deshika by adoption
 - Another group of Tatacharyas settled at Srirangam. Known as the ‘ Mudhal Tirimaligai ’ Tatacharyas, they did not lag behind the other branches in propagating Srivaishnavism and increasing its votaries. Their scions have performed * PANCHASAMSKARA ’ to families of royal descent in Gujarat and Rajasthan including the princes of Jodhpur.
 
 
-## Tirupputkuzhi-svAmi
+## kRShNa-tAta-deshikaH
+
+{{< figure src="../images/tirupputkuzhi-svAmi_kRShNa-tAta-deshikaH.jpg" title="" class="thumbnail">}}
+
+- Aka Tirupputkuzhi-svAmi, श्रीमद्-वेदान्त-देशिक-सम्प्रदाय-दुरन्धरः महामहोपाध्यायः  पॆरुमाळ्-कोविल्-एडूर्-इम्मडि-कोटि-कन्यादान-कृष्ण-तातार्य-महा-देशिकः
+- Aippasi Ayilyam (Aaslesha Nakshatram)
+
 He restored the deshika's tUpul shrine from the tenkalai-s. The british judge dismissed a tenkalai criminal case against him when they all rose with folded hands as soon as he entered the court. Also given mahAmahopAdhyAya title by the british.
 
 > There was a Tirupputkuzhi Swamy who was a chanDa-prachanDa panDita - Was presiding over Nyaya sadases in Kashi and Kanchi at 18 years of age. The aged seniors in his own family declined from performing Bharanyasa for him saying they were unqualified. He went and sought Periyandavan thiruvaDi for Bharanyasam. It is said that this was a turning point in Periyandavan's tenure.
