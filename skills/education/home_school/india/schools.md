@@ -87,4 +87,5 @@ title: Un-schools
   - मैत्रेयी-गुरुकुलम्
 
 ## द्रविडदेशे
-- [मेधा शास्त्र-गुरुकुलम्](https://sites.google.com/view/sastrapatashala) 
+- [मेधा शास्त्र-गुरुकुलम्](https://sites.google.com/view/sastrapatashala)
+- [dharma gurukulam, anAdi](https://sites.google.com/anaadi.org/dharmagurukulam/homeschool), Palani. 
