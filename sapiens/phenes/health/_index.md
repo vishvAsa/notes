@@ -44,4 +44,7 @@ title: +Health
 
 
 THE BEST PREDICTOR OF YOUR FUTURE HEALTH IS YOUR CURRENT HEALTH.
-Out of interest, I asked a friend if, our health status today has a bearing on our health status tomorrow', is a Markov or Martingale process. He replied, "Martingale. Markov just means that whatever happens next only depends on what happens now
+Out of interest, I asked a friend if, 'our health status today has a bearing on our health status tomorrow', is a Markov or Martingale process. He replied, "Martingale. Markov just means that whatever happens next only depends on what happens now".
+
+## Reference
+- VB [here](https://docs.google.com/document/d/1_5Q2BqcmJFpVMoJzlhF1GbxjMbnoxlsks1seQ6yVVO4/edit).
