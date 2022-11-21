@@ -3,17 +3,27 @@ title: Greco Roman
 ---
 
 ## Greek waves
-- "One of the causes for the end of the Mycenaean civilization is held to be the invasion of another Greek group the Dorians. In Greek epics these invasions are believed to represent the return of the Heracleidai, he descendents of Herakles who set out to conquer Greece from the other rulers. From the historical view point it is interesting to note that the use of the script declined after the Dorian invasion even though the Dorians were Greek speakers and could have easily adapted the Linear B themselves." \[[MT11](https://manasataramgini.wordpress.com/2011/08/03/homers-illiteracy/)\]
-- Ancient greeks with Linear B script.
+> "One of the causes for the end of the Mycenaean civilization is held to be the invasion of another Greek group the Dorians. In Greek epics these invasions are believed to represent the return of the Heracleidai, he descendents of Herakles who set out to conquer Greece from the other rulers. From the historical view point it is interesting to note that the use of the script declined after the Dorian invasion even though the Dorians were Greek speakers and could have easily adapted the Linear B themselves." \[[MT11](https://manasataramgini.wordpress.com/2011/08/03/homers-illiteracy/)\]
 
+- Ancient greeks with Linear B script.
 
 ## Population turnover
 - Northeast Mediterranean really seems to have been part of a different ecumene from rest of Europe until the Migration Period/ Barbarian Invasions. Migrations back & forth to places as diverse as Syria & Northern Anatolia, but only once from the north prior to 279 BC.
+
+
+{{< figure src="../images/barbarian-invasions_into_roman-empire.png" title="" class="thumbnail">}}
+
+### Greeks
 - Modern Greeks are roughly 30% Yamnaya, judging from [SD202103](https://www.sciencedirect.com/science/article/pii/S0092867421003706).
 - Basil II’s reconquests & the Byzantine assimilation of the Slavs of Greece changed the composition of the Greeks dramatically. An Englishman has more blood from the Britons than a modern Greek has blood from the classical Greeks.
 - Modern Mainland Greeks have around 30-35% Slavic Admixture. Anatolian and Cypriot Greeks have almost none.
 
-{{< figure src="../images/barbarian-invasions_into_roman-empire.png" title="" class="thumbnail">}}
+
+> Ancient Greeks were never known for their blondeness, & were much darker in classical times as modern Greeks have ~40% Slavic ancestry from the 6-8th century migrations, and thus they are likely much lighter phenotypically than their ancestors :-) - AryAMsha
+> 
+> Alex's yavana-s on an average probably had less IE ancestry in genetic terms than their Ir & IA adversaries. - MT
+
+
 
 ### Depopulation 
 - ([SP15](https://twitter.com/Rjrasva/status/627290343080390656/photo/1), [BVP15](https://groups.google.com/d/msg/bvparishat/r4wVQaLJD7o/nUwnh_faIQAJ))
