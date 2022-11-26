@@ -11,7 +11,7 @@ This parallels the house cat-rodent cycle of Toxoplasma, wherein the parasite ch
 
 In domestic dogs, Toxoplasma can be sexually transmitted by males; hence, it might also similarly be transmitted within a wolf pack via sex. Toxoplasma might also make male rats more sexually active by increasing testosterone production and similarly enhance its own transmission via the sexual mode.
 
-While humans might be in part a dead end host for it, there is some evidence it might alter the sexual behavior and aggression in both males and females -- be wary of having a cat as a pet. 
+While humans might be in part a dead end host for it, there is some evidence it might alter the sexual behavior and aggression in both males and females -- be wary of having a cat as a pet.
 
 However, in our close cousin, the chimpanzee, Toxoplasmosis causes a morbid attraction towards leopard urine, thus, increasing their chances of being killed and eaten by one. 
 
