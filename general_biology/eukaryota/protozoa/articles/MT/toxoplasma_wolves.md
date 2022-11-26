@@ -17,3 +17,4 @@ However, in our close cousin, the chimpanzee, Toxoplasmosis causes a morbid attr
 
 In a different strategy, the related parasite Sarcocystis infects the heart muscles of hare and deer and makes them slower. Thus, they are eaten by dholes and is transmitted to them. In turn a subset of the dhole pack might carry higher levels of the parasite and play a role in transmitting Sarcocystis to herbivores via their latrines -- again a potential fitness gain (probably via kin) to the pack. 
 
+Another [study](https://www.nature.com/articles/s41467-021-24092-x) shows that hyena cubs infected by Toxoplasma tend to lose their fear of lions and approach them more closely than uninfected one. Thus, they tend to be killed more often by the cats and transmit the parasite to their definitive host.
