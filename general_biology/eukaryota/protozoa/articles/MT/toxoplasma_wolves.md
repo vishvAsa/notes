@@ -9,7 +9,7 @@ A rather remarkable [study - Parasitic infection increases risk-taking in a soci
 
 This parallels the house cat-rodent cycle of Toxoplasma, wherein the parasite changes the neurotransmitter concentrations in the mice and rat brains to make them go towards cats. Here, it reduces the fitness of the rodent rather unequivocally while increasing its probability of transmission to the definitive host. 
 
-In domestic dogs, Toxoplasma can be sexually transmitted by males; hence, it might also similarly be transmitted within a wolf pack via sex. Toxoplasma might also make male rats more sexually active by increasing testosterone production and similarly enhance its own transmission via the sexual mode. 
+In domestic dogs, Toxoplasma can be sexually transmitted by males; hence, it might also similarly be transmitted within a wolf pack via sex. Toxoplasma might also make male rats more sexually active by increasing testosterone production and similarly enhance its own transmission via the sexual mode.
 
 While humans might be in part a dead end host for it, there is some evidence it might alter the sexual behavior and aggression in both males and females -- be wary of having a cat as a pet. 
 
