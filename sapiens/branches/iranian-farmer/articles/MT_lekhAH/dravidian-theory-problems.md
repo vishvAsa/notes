@@ -12,3 +12,6 @@ One strong argument in that direction has been Brahui a Dravidian language in la
 Hence, together we surmise that the Iranian farmers brought a now lost language that was the primary Harappan. In their southern borderlands were DR speakers who admixed with them and acquired some of the Harappan cultural elements. 
 
 The conquest and defeat of Harappan power by the Aryans actually opened an opportunity for these Dravidian speakers to spread more widely especially towards South India. Now their new interactors were the Aryans which resulted in them developing a common culture with the latter.
+
+## iShTakA
+A point to note: iShTaka has an Iranic cognate &, as we discussed before, even a Tocharian one. However, it attested only in the middle layer of the veda. Notably, the below dravidian loan is from a mahArAShTrI prAkR^ita intermediate. Ask what it means for a Dravidian Harappan?
