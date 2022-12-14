@@ -3,7 +3,7 @@ title = "Meta"
 
 +++
 
-## Preface
+## 0 Preface
 
 THIS volume, while an independent unit by itself, is Part III in a history of civilization, of which Part I was *Our Oriental Heritage,* and Part II was *The Life of Greece.* War and health permitting, Part IV, *The Age of Faith,* should be ready in 1950.
 
@@ -23,7 +23,7 @@ I *Human, All Too Human,* Eng. tr., New York, 1911, vol. II, p. 17.
 
 
 
-## List of Illustrations
+## 1 List of Illustrations
 
 *Following page 224*
 
@@ -113,7 +113,7 @@ Maps of Ancient Rome and Ancient Italy and Sicily will be found on the inside co
 
 
 
-## About the Authors
+## 2 About the Authors
 
 WILL DURANT was born in North Adams, Massachusetts, on November 5, 1885. He was educated in the Catholic parochial schools there and in Kearny, New Jersey, and thereafter in St. Peter’s \(Jesuit\) College, Jersey City, New Jersey, and Columbia University. New York. For a summer he served as a cub reporter on the New York *Journal,* in 1907, but finding the work too strenuous for his temperament, he settled down at Seton Hall College, South Orange, New Jersey, to teach Latin, French, English, and geometry \(1907-11\). He entered the seminary at Seton Hall in 1909, but withdrew in 1911 for reasons he has described in his book *Transition.* He passed from this quiet seminary to the most radical circles in New York, and became \(1911–13\) the teacher of the Ferrer Modern School, an experiment in libertarian education. In 1912 he toured Europe at the invitation and expense of Alden Freeman, who had befriended him and now undertook to broaden his borders.
 
@@ -173,7 +173,7 @@ The publication of Volume 11, *The Age of Napoleon,* in 1975 concluded five deca
 
 
 
-### Notes
+## 3 Notes
 
 Capital Roman numerals, except at the beginning of a note, will usually indicate volumes, followed by page numbers; small Roman numerals will usually indicate “books” \(main divisions\) of a classical text, followed by chapter or verse numbers, and sometimes additionally by section or paragraph numbers.
 
@@ -4285,7 +4285,7 @@ EPILOGUE
 
 
 
-### Bibliographical Guide
+## 4 Bibliographical Guide
 
 ***to books mentioned in the Notes***
 
@@ -5007,7 +5007,7 @@ The Pharisees and the Gospels, N. Y., 1938.
 
 
 
-## Index
+## 5 Index
 
 I am indebted for this index to the careful scholarship of Mr. Arnold Canell.—W. D.
 
