@@ -529,9 +529,7 @@ X Many arguments have been raised against the story of Judas,125 but they are un
 
 
 
-## XXVII The Apostles 
-
-**A.D. 30-95**
+## XXVII The Apostles  A.D. 30-95
 
 
 
@@ -695,9 +693,7 @@ VI The ancient Jews shared with the Canaanites, Moabites, Phoenicians, Carthagin
 
 
 
-## XXVIII The Growth of the Church 
-
-**A.D. 96-305**
+## XXVIII The Growth of the Church  A.D. 96-305
 
 
 
@@ -1044,15 +1040,11 @@ V Some of the “ceilings” established in the Edict reveal the level of prices
 
 
 
-## XXX The Triumph of Christianity
-
-**A.D. 306-325**
+## XXX The Triumph of Christianity A.D. 306-325
 
 
 
-### I. THE WAR OF CHURCH AND STATE
-
-**A.D. 64-311**
+### I. THE WAR OF CHURCH AND STATE A.D. 64-311
 
 IN pre-Christian days the Roman government had for the most part allowed to the rivals of orthodox paganism a tolerance which they in turn had shown to the official and imperial cults; nothing was demanded from the adherents of new faiths except an occasional gesture of adoration to the gods and head of the state. The emperors were piqued to find that of all the heretics under their rule only the Christians and the Jews refused to join in honoring their *genius.* The burning of incense before a statue of the emperor had become a sign and affirmation of loyalty to the Empire, like the oath of allegiance required for citizenship today. On its side the Church resented the Roman idea that religion was subordinate to the state; it saw in emperor-worship an act of polytheism and idolatry, and instructed its followers to refuse it at any cost. The Roman government concluded that Christianity was a radical—perhaps a communist—movement, subtly designed to overthrow the established order.
 
@@ -1188,7 +1180,7 @@ IV The Council also decreed that all churches should celebrate Easter on the sam
 
 ### I. WHY ROME FELL
 
-**“T**HE two greatest problems in history,” says a brilliant scholar of our time, are “how to account for the rise of Rome, and how to account for her fall.”1 We may come nearer to understanding them if we remember that the fall of Rome, like her rise, had not one cause but many, and was not an event but a process spread over 300 years. Some nations have not lasted as long as Rome fell.
+“THE two greatest problems in history,” says a brilliant scholar of our time, are “how to account for the rise of Rome, and how to account for her fall.”1 We may come nearer to understanding them if we remember that the fall of Rome, like her rise, had not one cause but many, and was not an event but a process spread over 300 years. Some nations have not lasted as long as Rome fell.
 
 A great civilization is not conquered from without until it has destroyed itself within. The essential causes of Rome’s decline lay in her people, her morals, her class struggle, her failing trade, her bureaucratic despotism, her stifling taxes, her consuming wars. Christian writers were keenly appreciative of this decay. Tertullian, about 200, heralded with pleasure the *ipsa clausula saeculi*—literally the *fin de siècle* or end of an era—as probably a prelude to the destruction of the pagan world. Cyprian, towards 250, answering the charge that Christians were the source of the Empire’s misfortunes, attributed these to natural causes:
 

@@ -141,7 +141,7 @@ The publication of Volume 11, *The Age of Napoleon,* in 1975 concluded five deca
 
 **BY WILL AND ARIEL DURANT**
 
-T**HE STORY OF CIVILIZATION**
+**THE STORY OF CIVILIZATION**
 
 1. *Our Oriental Heritage*
 
