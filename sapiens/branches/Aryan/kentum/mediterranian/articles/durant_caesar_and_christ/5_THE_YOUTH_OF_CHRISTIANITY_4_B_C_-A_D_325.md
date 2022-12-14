@@ -373,11 +373,11 @@ Death of Constantine
 
 
 
-## XXVI Jesus 4 B.C..-A.D. 30 
+## 26 Jesus 4 B.C..-A.D. 30 
 
 
 
-### I. THE SOURCES
+### 01 THE SOURCES
 
 DID Christ exist? Is the life story of the founder of Christianity the product of human sorrow, imagination, and hope—a myth comparable to the legends of Krishna, Osiris, Attis, Adonis, Dionysus, and Mithras? Early in the eighteenth century the circle of Bolingbroke, shocking even Voltaire, privately discussed the possibility that Jesus had never lived. Volney propounded the same doubt in his *Ruins of Empire* in 1791. Napoleon, meeting the German scholar Wieland in 1808, asked him no petty question of politics or war, but did he believe in the historicity of Christ?1
 
@@ -407,7 +407,7 @@ All this granted, much remains. The contradictions are of minutiae, not substanc
 
 
 
-### II. THE GROWTH OF JESUS
+### 02 THE GROWTH OF JESUS
 
 Both Matthew and Luke assign Jesus’ birth to “the days when Herod was king of Judea”27—consequently before 3 B.C.. Luke, however, describes Jesus as “about thirty years old” when John baptized him “in the fifteenth year of Tiberius”27a—i.e., A.D. 28-29; this would place Christ’s birth in the year 2-1 B.C. Luke adds that “in those days there went out a decree of Caesar Augustus that all the world should be taxed . . . when Quirinius was governor of Syria.” Quirinius is known to have been legate in Syria between A.D. 6 and 12; Josephus notes a census by him in Judea, but ascribes it to A.D. 6-7;28 we have no further mention of this census. Tertullian29 records a census of Judea by Saturninus, governor of Syria 8-7 B.C.; if this is the census that Luke had in mind, the birth of Christ would have to be placed before 6 B.C.. We have no knowledge of the specific day of his birth. Clement of Alexandria *\(ca.* 200\) reports diverse opinions on the subject in his day, some chronologists dating the birth April 19, some May 20; he himself assigned it to November 17, 3 B.C. As far back as the second century the Eastern Christians celebrated the Nativity on January 6. In 354 some Western churches, including those of Rome, commemorated the birth of Christ on December 25; this was then erroneously calculated as the winter solstice, on which the days begin to lengthen; it was already the central festival of Mithraism, the *natalis invicti solis,* or birthday of the unconquered sun. The Eastern churches clung for a time to January 6, and charged their Western brethren with sun worship and idolatry, but by the end of the fourth century December 25 had been adopted also in the East.30
 
@@ -427,7 +427,7 @@ In or shortly after “the fifteenth year of Tiberius,” says Luke, Jesus came 
 
 
 
-### III. THE MISSION
+### 03 THE MISSION
 
 When John was imprisoned Jesus took up the Baptist’s work, and began to preach the coming of the Kingdom.45 He “returned to Galilee,” says Luke, “and taught in the synagogues.”46 We have an impressive picture of the young idealist taking his turn at reading the Scriptures to the congregation at Nazareth, and choosing a passage from Isaiah:
 
@@ -447,7 +447,7 @@ These men were hardly of the type that one would have chosen to remold the world
 
 
 
-### IV. THE GOSPEL
+### 04 THE GOSPEL
 
 He taught with the simplicity required by his audiences, with interesting stories that insinuated his lessons into the understanding, with pungent aphorisms rather than with reasoned argument, and with similes and metaphors as brilliant as any in literature. The parable form that he used was customary in the East, and some of his fetching analogies had come down to him, perhaps unconsciously, from the prophets, the psalmists, and the rabbis; 64 nevertheless, the directness of his speech, the vivid colors of his imagery, the warm sincerity of his nature lifted his utterances to the most inspired poetry. Some of his sayings are obscure, some seem at first sight unjust,65 some are sharp with sarcasm and bitterness; nearly all of them are models of brevity, clarity, and force.
 
@@ -479,7 +479,7 @@ The final break came from Jesus’ growing conviction and clear announcement tha
 
 
 
-### V. DEATH AND TRANSFIGURATION
+### 05 DEATH AND TRANSFIGURATION
 
 The Feast of the Passover was at hand, and great numbers of Jews were gathering in Jerusalem to offer sacrifice in the Temple. The outer court of the shrine was noisy with vendors selling doves and other sacrificial animals, and with money-changers offering locally acceptable currency for the idolatrous coins of the Roman realm. Visiting the Temple on the day after his entry into the city, Jesus was shocked by the clamor and commercialism of the booths. In a burst of indignation he and his followers overthrew the tables of the money-changers and the dove merchants, scattered their coins on the ground, and with “a scourge of rods” drove the traders from the court. For several days thereafter he taught in the Temple, unhindered; 122 but at night he left Jerusalem and stayed on the Mount of Olives, fearing arrest or assassination.
 
@@ -529,11 +529,11 @@ X Many arguments have been raised against the story of Judas,125 but they are un
 
 
 
-## XXVII The Apostles  A.D. 30-95
+## 27 The Apostles  A.D. 30-95
 
 
 
-### I. PETER
+### 01 PETER
 
 CHRISTIANITY arose out of Jewish apocalyptic—esoteric revelations of the coming Kingdom; it derived its impetus from the personality and vision of Christ; it gained strength from the belief in his resurrection, and the promise of eternal life; it received doctrinal form in the theology of Paul; it grew by the absorption of pagan faith and ritual; it became a triumphant Church by inheriting the organizing patterns and genius of Rome.
 
@@ -563,7 +563,7 @@ His missions in Asia Minor and Rome must have helped to preserve many Judaic ele
 
 
 
-### II. PAUL
+### 02 PAUL
 
 #### 1. The Persecutor
 
@@ -653,7 +653,7 @@ Even so, the man who had detached Christianity from Judaism was still so essenti
 
 
 
-### III. JOHN
+### 03 JOHN
 
 The accidents of history have transmitted Paul to us in comparative clarity, and have left the apostle John in obscurity and mystery. Besides three epistles, two major works have come down to us under his name. Criticism tentatively assigns the Book of Revelation to the year 69-70,72 and to another John, “the Presbyter” mentioned by Papias \(135\).73 Justin Martyr \(135\) attributes this powerful Apocalypse to the “beloved” apostle;74 but as early as the fourth century Eusebius75 noted that some scholars doubted its authenticity. The author must have been a man of considerable prominence, for he addresses the churches of Asia in a tone of menacing authority. If the apostle wrote it \(and we may provisionally continue to think so\), we can understand why, like his brother James, he was called *Boanerges,* Son of Thunder. In Ephesus, Smyrna, Pergamum, Sardis, and other cities of Asia Minor, John, rather than Peter or Paul, was looked upon as the highest head of the Church. Tradition as reported by Eusebius76 held that John had been banished to Patmos by Domitian, and had on that Aegean isle written both the Fourth Gospel and the Apocalypse. He lived to so great an age that people said he would never die.
 
@@ -693,11 +693,11 @@ VI The ancient Jews shared with the Canaanites, Moabites, Phoenicians, Carthagin
 
 
 
-## XXVIII The Growth of the Church  A.D. 96-305
+## 28 The Growth of the Church  A.D. 96-305
 
 
 
-### I. THE CHRISTIANS
+### 01 THE CHRISTIANS
 
 THEY met in private rooms or small chapels, and organized themselves on the model of the synagogue.1 Each congregation was called an *ekklesia*—the Greek term for the popular assembly in municipal governments. Slaves were welcomed, as in the Isiac and Mithraic cults; no attempt was made to liberate them, but they were comforted by the promise of a Kingdom in which all could be free. The early converts were predominantly proletarian, with a sprinkling of the lower middle classes and an occasional conquest among the rich. Nevertheless, they were far from being the “dregs of the people,” as Celsus would claim; they lived for the most part orderly and industrious lives, financed missions, and raised funds for impoverished Christian communities. Little effort was made as yet to win over the rural population; these came in last, and it was in this strange way that their name *pagani* \(villagers, peasants\) came to be applied to the pre-Christian inhabitants of the Mediterranean states.
 
@@ -735,7 +735,7 @@ So molded to men’s wants, the new faith spread with fluid readiness. Nearly ev
 
 
 
-### II. THE CONFLICT OF CREEDS
+### 02 THE CONFLICT OF CREEDS
 
 It would have been surprising if, in the multitude of relatively independent centers of Christianity, subject to different traditions and environments, there had failed to develop a diversity of customs and creeds. Greek Christianity in particular was destined to a flood of heresies by the metaphysical and argumentative habits of the Greek mind. Christianity can be understood only in the perspective of these heresies, for even in defeating them it took something of their color and form.
 
@@ -761,7 +761,7 @@ Celsus was alarmed by the spread of Christianity, by its scornful hostility to p
 
 
 
-### III. PLOTINUS
+### 03 PLOTINUS
 
 Moreover, Celsus was out of step with his time; he asked men to behave like gentlemen skeptics when they were withdrawing from a society that enslaved so many of them into a mystic world that made every man a god. That consciousness of supersensible powers which is the foundation of religion was prevailing universally over the materialism and determinism of a prouder age. Philosophy was abandoning the interpretation of that sense experience which is the realm of science, and was devoting itself to a study of the unseen world. Neo-Pythagoreans and Neoplatonists developed Pythagoras’ theory of transmigration, and Plato’s contemplation of the Divine Ideas, into an asceticism that sought to sharpen spiritual perception by starving the physical senses, and to reclimb by self-purification the steps by which the soul had been degraded from heaven into man.
 
@@ -787,7 +787,7 @@ We feel in this philosophy the same spiritual atmosphere as in contemporary Chri
 
 
 
-### IV. THE DEFENDERS OF THE FAITH
+### 04 THE DEFENDERS OF THE FAITH
 
 The Church now won to its support some of the finest minds in the Empire. Ignatius, Bishop of Antioch, began the powerful dynasty of the post-apostolic “Fathers,” who gave a philosophy to Christianity, and overwhelmed its enemies with argument. Condemned to be thrown to the beasts for refusing to abjure his faith \(108\), Justin composed on his way to Rome several letters whose hot devotion reveals the spirit in which Christians could go to their death:
 
@@ -819,7 +819,7 @@ In 250 the Decian persecution reached Caesarea. Origen, now sixty-five, was arre
 
 
 
-### V. THE ORGANIZATION OF AUTHORITY
+### 05 THE ORGANIZATION OF AUTHORITY
 
 The Church might be excused for condemning Origen: his principle of allegorical interpretation not only made it possible to prove anything, but at one blow it did away with the narratives of Scripture and the earthly life of Christ; and it restored individual judgment precisely while proposing to defend the faith. Faced with the hostility of a powerful government, the Church felt the need of unity; it could not safely allow itself to be divided into a hundred feeble parts by every wind of intellect, by disloyal heretics, ecstatic prophets, or brilliant sons. Celsus himself had sarcastically observed that Christians were “split up into ever so many factions, each individual desiring to have his own party.”68 About 187 Irenaeus listed twenty varieties of Christianity; about 384 Epiphanius counted eighty. At every point foreign ideas were creeping into Christian belief, and Christian believers were deserting to novel sects. The Church felt that its experimental youth was ending, its maturity was near; it must now define its terms and proclaim the conditions of its membership. Three difficult steps were necessary: the formation of a scriptural canon, the determination of doctrine, and the organization of authority.
 
@@ -857,11 +857,11 @@ VI The term *papa,* “father,” which became in English *pope,* was applied in
 
 
 
-## XXIX The Collapse of the Empire A.D. 193-305 
+## 29 The Collapse of the Empire A.D. 193-305 
 
 
 
-### I. A SEMITIC DYNASTY
+### 01 A SEMITIC DYNASTY
 
 ON January 1, 193, a few hours after the assassination of Commodus, the Senate met in a transport of happiness, and chose as emperor one of its most respected members, whose just administration as prefect of the city had continued the finest traditions of the Antonines. Pertinax accepted with reluctance a dignity so exalted that any fall from it must be fatal. He “demeaned himself as an ordinary man,” says Herodian,1 attended the lectures of the philosophers, encouraged literature, replenished the treasury, reduced taxes, and auctioned off the gold and silver, the embroideries and silks and beautiful slaves, wherewith Commodus had filled the imperial palace; “in fact, he did everything,” says Dio Cassius, “that a good emperor should do.”2 The freedmen who had lost their perquisites through his economy conspired with the Praetorian Guard, which disliked his restoration of discipline. On March 28, 300 soldiers forced their way into the palace, struck him down, and carried his head upon a spear to their camp. The people and the Senate mourned and hid.
 
@@ -907,7 +907,7 @@ Meanwhile the Alemanni and the Marcomanni, noting that the Rhine and Danube garr
 
 
 
-### II. ANARCHY
+### 02 ANARCHY
 
 It was no whim of history that made the army supreme in the third century; internal causes had weakened the state and left it exposed on every front. The cessation of expansion after Trajan, and again after Septimius Severus, was the signal for attack; and as Rome had conquered nations by dividing them, so now the barbarians began to conquer her by uniting in simultaneous assaults. The necessity of defense exalted the power of arms and the prestige of soldiery; generals replaced philosophers on the throne, and the last reign of the aristocracy yielded to the revived rule of force.
 
@@ -925,7 +925,7 @@ Seeing the wealth and weakness of the Empire, the barbarians poured down into th
 
 
 
-### III. THE ECONOMIC DECLINE
+### 03 THE ECONOMIC DECLINE
 
 Political anarchy accelerated economic disintegration, and economic decline promoted political decay; each was the cause and effect of the other. Roman statesmanship had never found a healthy economic life for Italy; and perhaps the narrow plains of the peninsula have never provided an adequate base for the soaring aims of the Italian state. The production of cereals was discouraged by the competition of cheap grains from Sicily, Africa, and Egypt, and the great vineyards were losing their markets to provincial wines. Farmers complained that high taxes consumed their precarious profits and left them too little to keep the drainage and irrigation canals in repair; the canals filled up, the marshes spread, and malaria weakened the population of the Campagna and Rome. Large tracts of fertile land had been withdrawn from cultivation for residential estates. The absentee owners of the latifundia exploited labor and the soil to the limit of tolerance, and absolved themselves by philanthropies in the towns; urban architecture and games profited while the countryside grew desolate. Many peasant proprietors and free rural workers abandoned the farms for the cities, leaving Italian agriculture for the most part to latifundia manned by listless slaves. But the latifundia themselves were ruined by the *Pax Romana,* the dearth of wars of conquest in the first and second centuries, and the consequent fall in the supply, and rise in the cost, of slaves. Compelled to lure free labor back to the land, the great landlords divided their holdings into units which they leased to *coloni,* “cultivators”; they required from these tenants a small money rent or a tenth of the produce, and a period of unpaid labor in the owner’s villa or on his private domain. In many cases landlords found it profitable to emancipate their slaves and change them into *coloni.* In the third century the owners, harassed by invasion and revolution in the cities, took more and more to living in their villas; these were fortified into castles, and were gradually transformed into medieval châteaux. III
 
@@ -939,7 +939,7 @@ The Empire suffered only less than Italy. Carthage and north Africa, farthest fr
 
 
 
-### IV. THE TWILIGHT OF PAGANISM
+### 04 THE TWILIGHT OF PAGANISM
 
 The cultural graph of the third century follows loosely the curve of declining wealth and power. Nevertheless, in these tragic years we have the rise of notational algebra, the highest names in Roman jurisprudence, the finest example of ancient literary criticism, some of Rome’s most majestic architecture, the oldest romantic novels, the greatest of mystic philosophers.
 
@@ -978,7 +978,7 @@ So the limpid verse flows on, finding the work of love in the fertilizing rain, 
 
 
 
-### V. THE ORIENTAL MONARCHY
+### 05 THE ORIENTAL MONARCHY
 
 When Claudius II died of a pestilence that was decimating Goths and Romans alike \(270\), the army chose as his successor the son of an Illyrian peasant. Domitius Aurelianus had risen from the lowest ranks by strength of body and will; his nickname was *Manu ad ferrum—“hand* on sword.” It was a sign of reawakened good sense in the army that it chose a man who exacted as hard a discipline from others as from himself.
 
@@ -1000,7 +1000,7 @@ The monarchy was divided, but it was absolute. Each law of each ruler was issued
 
 
 
-### VI. THE SOCIALISM OF DIOCLETIAN
+### 06 THE SOCIALISM OF DIOCLETIAN
 
 He proceeded with Caesarian energy to remake every branch of the government. He transformed the aristocracy by raising to it many civil or military officials, and making it a hereditary caste with an Oriental gradation of dignities, profusion of titles, and complexity of etiquette. He and his colleagues redivided the Empire into ninety-six provinces grouped into seventy-two dioceses and four prefectures, and appointed civil and military rulers for each division. It was a frankly centralized state, which considered local autonomy, like democracy, a luxury of security and peace, and excused its dictatorship by the needs of actual or imminent war. Wars were waged, and with brilliant success; Constantius recovered revolted Britain, and Galerius defeated the Persians so decisively that they surrendered Mesopotamia and five provinces beyond the Tigris. For a generation Rome’s enemies were held at bay.
 
@@ -1040,11 +1040,11 @@ V Some of the “ceilings” established in the Edict reveal the level of prices
 
 
 
-## XXX The Triumph of Christianity A.D. 306-325
+## 30 The Triumph of Christianity A.D. 306-325
 
 
 
-### I. THE WAR OF CHURCH AND STATE A.D. 64-311
+### 01 THE WAR OF CHURCH AND STATE A.D. 64-311
 
 IN pre-Christian days the Roman government had for the most part allowed to the rivals of orthodox paganism a tolerance which they in turn had shown to the official and imperial cults; nothing was demanded from the adherents of new faiths except an occasional gesture of adoration to the gods and head of the state. The emperors were piqued to find that of all the heretics under their rule only the Christians and the Jews refused to join in honoring their *genius.* The burning of incense before a statue of the emperor had become a sign and affirmation of loyalty to the Empire, like the oath of allegiance required for citizenship today. On its side the Church resented the Roman idea that religion was subordinate to the state; it saw in emperor-worship an act of polytheism and idolatry, and instructed its followers to refuse it at any cost. The Roman government concluded that Christianity was a radical—perhaps a communist—movement, subtly designed to overthrow the established order.
 
@@ -1086,7 +1086,7 @@ The Diocletian persecution was the greatest test and triumph of the Church. It w
 
 
 
-### II. THE RISE OF CONSTANTINE
+### 02 THE RISE OF CONSTANTINE
 
 Diocletian, peaceful in his Dalmatian palace, saw the failure of both the persecution and the tetrarchy. Seldom had the Empire witnessed such confusion as followed his abdication. Galerius prevailed upon Constantius to let him appoint Severus and Maximinus Daza as “Caesars” \(305\). At once the principle of heredity asserted its claims: Maxentius, son of Maximian, wished to succeed his father’s authority, and a like resolution fired Constantine.
 
@@ -1104,7 +1104,7 @@ Constantine watched for an opportunity not only to succor the Christians of the 
 
 
 
-### III. CONSTANTINE AND CHRISTIANITY
+### 03 CONSTANTINE AND CHRISTIANITY
 
 Was his conversion sincere—was it an act of religious belief, or a consummate stroke of political wisdom? Probably the latter.33 His mother Helena had turned to Christianity when Constantius divorced her; presumably she had acquainted her son with the excellences of the Christian way; and doubtless he had been impressed by the invariable victory that had crowned his arms under the banner and cross of Christ. But only a skeptic would have made so subtle a use of the religious feelings of humanity. The *Historia Augusta* quotes him as saying, “it is *Fortuna* that makes a man emperor”34—though this was a bow to modesty rather than to chance. In his Gallic court he had surrounded himself with pagan scholars and philosophers.35 After his conversion he seldom conformed to the ceremonial requirements of Christian worship. His letters to Christian bishops make it clear that he cared little for the theological differences that agitated Christendom—though he was willing to suppress dissent in the interests of imperial unity. Throughout his reign he treated the bishops as his political aides; he summoned them, presided over their councils, and agreed to enforce whatever opinion their majority should formulate. A real believer would have been a Christian first and a statesman afterward; with Constantine it was the reverse. Christianity was to him a means, not an end.
 
@@ -1140,7 +1140,7 @@ Constantine celebrated the conclusion of the Council with a royal dinner, to all
 
 
 
-### IV. CONSTANTINE AND CIVILIZATION
+### 04 CONSTANTINE AND CIVILIZATION
 
 A year after the Council Constantine dedicated, amid the desolation of Byzantium, a new city which he termed Nova Roma, and which posterity called by his name. In 330 he turned his back upon both Rome and Nicomedia, and made Constantinople his capital. There he surrounded himself with the impressive pomp of an Oriental court, feeling that its psychological influence upon army and people would make its expensive pageantry a subtle economy in government. He protected the army with able diplomacy and arms, tempered despotism with humane decrees, and lent his aid to letters and the arts. He encouraged the schools at Athens, and founded at Constantinople a new university where state-paid professors taught Greek and Latin, literature and philosophy, rhetoric and law, and trained officials for the Empire.52 He confirmed and extended the privileges of physicians and teachers in all provinces. Provincial governors were instructed to establish schools of architecture, and to draw students to them with divers privileges and rewards. Artists were exempted from civic obligations, so that they might have time to learn their art thoroughly and transmit it to their sons. The art treasures of the Empire were drawn upon to make Constantinople an elegant capital.
 
@@ -1178,7 +1178,7 @@ IV The Council also decreed that all churches should celebrate Easter on the sam
 
 
 
-### I. WHY ROME FELL
+### 01 WHY ROME FELL
 
 “THE two greatest problems in history,” says a brilliant scholar of our time, are “how to account for the rise of Rome, and how to account for her fall.”1 We may come nearer to understanding them if we remember that the fall of Rome, like her rise, had not one cause but many, and was not an event but a process spread over 300 years. Some nations have not lasted as long as Rome fell.
 
@@ -1210,7 +1210,7 @@ Externally the fall of the Western Roman Empire was hastened by the expansion an
 
 
 
-### II. THE ROMAN ACHIEVEMENT
+### 02 THE ROMAN ACHIEVEMENT
 
 It is easier to explain Rome’s fall than to account for her long survival. This is the essential accomplishment of Rome—that having won the Mediterranean world she adopted its culture, gave it order, prosperity, and peace for 200 years, held back the tide of barbarism for two centuries more, and transmitted the classic heritage to the West before she died.
 
@@ -1388,4 +1388,3 @@ FIG. 38—*Mithras and the Bull* British Museum
 
 FIG. 39—*Sarcophagus of the Empress Helena*  
 Vatican, Rome
-

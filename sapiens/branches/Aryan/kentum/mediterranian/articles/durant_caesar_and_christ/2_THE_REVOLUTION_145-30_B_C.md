@@ -289,11 +289,11 @@ Suicide of Antony and Cleopatra; Egypt annexed to the Empire; Octavian sole rule
 
 
 
-## VI The Agrarian Revolt 145-78 B.C. 
+## 06 The Agrarian Revolt 145-78 B.C. 
 
 
 
-### I. THE BACKGROUND OF REVOLUTION
+### 01 THE BACKGROUND OF REVOLUTION
 
 THE causes of revolution were many, the results were endless, the personalities thrown up by the crisis, from the Gracchi to Augustus, were among the most powerful in history. Never before, and never again till our own time, were such stakes fought for, never was the world drama more intense. The first cause was the influx of slave-grown corn from Sicily, Sardinia, Spain, and Africa, which ruined many Italian farmers by reducing the price of domestic grains below the cost of production and marketing. Second, was the influx of slaves, displacing peasants in the countryside and free workers in the towns. Third, was the growth of large farms. A law of 220 forbade senators to take contracts or invest in commerce; flush with the spoils of war, they bought up extensive tracts of agricultural land. Conquered soil was sometimes sold in small plots to colonists, and eased urban strife; more of it was given to capitalists in part payment of their war loans to the state; most of it was bought or leased by senators or businessmen on terms fixed by the Senate. To compete with these *latifundia* the little man had to borrow money at rates that insured his inability to pay; slowly he sank into poverty or bankruptcy, tenancy or the slums. Finally, the peasant himself, after he had seen and looted the world as a soldier, had no taste or patience for the lonely labor and unadventurous chores of the farm; he preferred to join the turbulent proletariat of the city, watch without cost the exciting games of the amphitheater, receive cheap corn from the government, sell his vote to the highest bidder or promiser, and lose himself in the impoverished and indiscriminate mass.
 
@@ -303,7 +303,7 @@ If we remember that at least half these slaves had once been free \(for slaves s
 
 
 
-### II. TIBERIUS GRACCHUS
+### 02 TIBERIUS GRACCHUS
 
 He was the son of the Tiberius Sempronius Gracchus who had earned the gratitude of Spain by his generous administration, had served twice as consul and once as censor, and had saved the brother and married the daughter of Scipio Africanus. Cornelia gave him twelve children, all but three of whom died in adolescence; and his own death left upon her the burden of rearing Tiberius and Caius and a daughter—also named Cornelia—who became the wife of Scipio Aemilianus. Both parents shared in the Hellenistic culture and sympathies of the Scipionic circle. Cornelia gathered about her a literary *salon,* and wrote letters of so pure and elegant a style that they were reckoned as a distinguished contribution to Latin literature. An Egyptian king, says Plutarch, offered her his hand and throne in her widowhood, but she refused; she preferred to remain the daughter of one Scipio, the mother-in-law of another, and the mother of the Gracchi.
 
@@ -321,7 +321,7 @@ The Senate sought to mollify the bitter plebs by consenting to the enforcement o
 
 
 
-### III. CAIUS GRACCHUS
+### 03 CAIUS GRACCHUS
 
 Ruthless gossip accused Cornelia of conspiring with her daughter, Scipio’s deformed and unloved wife, to murder him. In the face of these calamities she sought consolation by devoting herself to her surviving son, the last of her “jewels.” The murder of Tiberius aroused in Caius no mere spirit of vengeance, but a resolve to complete his brother’s work. He had served with intelligence and courage under Aemilianus at Numantia, and he had won the admiration of all groups by the integrity of his conduct and the simplicity of his life. His passionate temperament, all the more vehement on occasion because so long controlled, made him the greatest of Roman orators before Cicero, and opened almost any office to him in a society where eloquence served only next to bravery in the advancement of men. In the fall of 124 he was elected tribune.
 
@@ -335,7 +335,7 @@ In the following year the Senate proposed the abandonment of the colony at Carth
 
 
 
-### IV. MARIUS
+### 04 MARIUS
 
 The triumphant aristocracy devoted its subtlest intelligence to undoing the constructive, rather than the demagogic, elements in Caius’ legislation. It did not dare eject the business class from the juries, or the contractors and publicans from their happy hunting ground in Asia; and it allowed the corn dole to stand as insurance against revolution. Into an otherwise attractive measure it inserted a clause permitting the recipients of the new lands to sell them; soon thousands of holders sold to the great slaveowners, and the *latifundia* resumed their growth. In 118 the land board was abolished. The masses in the capital raised no objection; they had decided that to eat state corn in the city was better than to sweat on the land or toil in pioneer colonies. Sloth combined with superstition \(for the soil of Carthage had been cursed\) to frustrate till Caesar the attempt to mitigate urban poverty by emigration. Wealth mounted, but it did not spread; in 104 B.C.. a moderate democrat reckoned that only 2000 Roman citizens owned property.11 “The condition of the poor,” says Appian, “became even worse than before. . . . The plebeians lost everything. . . . The number of citizens and soldiers continued to decline.”12 More and more the legions had to be filled out with conscripts from the Italian states; but these men had no stomach for fighting or no love for Rome. Desertions multiplied, discipline deteriorated, and the defense of the Republic sank to its lowest ebb.
 
@@ -353,7 +353,7 @@ Marius faced the bitterest choice of his life. It seemed a miserable end to his 
 
 
 
-### V. THE REVOLT OF ITALY
+### 05 THE REVOLT OF ITALY
 
 The revolution was now passing into civil war. When the Senate asked for help against the Cimbri from the eastern kings allied with Rome, Nicomedes of Bithynia replied that all men of military value in his kingdom had been sold into slavery to satisfy the extortions of the Roman tax collectors. Preferring an army for the moment, the Senate decreed that all males enslaved for unpaid taxes should be freed. Hearing of this order, hundreds of slaves in Sicily, many of them Greeks from the Hellenistic East, left their masters and, gathering before the palace of the Roman praetor, demanded their freedom. Their owners protested, and the praetor suspended the operation of the decree. The slaves organized themselves under a religious impostor, Salvius, and attacked the town of Morgantia. The citizens there secured the loyalty of most of their slaves by promising to liberate them if they repelled the attack; they repelled it, but were not freed; and many of them joined the revolt. About the same time \(103\), some 6000 slaves in the western end of the island rose under Athenion, a man of education and resolution. This force defeated army after army sent against it by the praetor, and moving eastward, merged with the rebels under Salvius. Together they mastered an army dispatched from Italy, but Salvius died in the moment of victory. Still other legions crossed the straits, under the consul Manius Aquilius \(101\); Athenion engaged him in single combat and was killed; the leaderless slaves were overwhelmed; thousands of them died in the field, thousands were returned to their masters, hundreds were shipped to Rome to fight wild beasts in the games that celebrated Aquilius’ triumph. Instead of fighting, the slaves plunged their knives into one another’s hearts until all lay dead.
 
@@ -365,7 +365,7 @@ Aroused to hope by Drusus’ bill, and convinced by his fate that neither the Se
 
 
 
-### VI. SULLA THE HAPPY
+### 06 SULLA THE HAPPY
 
 After a few years of peace the strife of Italians against Italians was resumed, merely changing its name from “Social” to “Civil,” and its scene from the towns to Rome. Lucius Cornelius Sulla was chosen one of the consuls for 88, and took command of the army that was being prepared to march against Mithridates of Pontus. Sulpicius Rufus, a tribune, unwilling to put a conservative like Sulla in charge of so powerful a force, persuaded the Assembly to transfer the command to Marius, who, though fat and sixty-nine, was still rumbling with military ambition. Sulla refused to let his long-awaited chance for leadership slip by through what seemed to him the whim of an assembly spellbound by a demagogue and bribed, he was sure, by the merchants who liked Marius. He fled to Nola, won the army to his support, and marched at its head against Rome.
 
@@ -395,11 +395,11 @@ I This is the time-honored mistranslation of *Bellum Sociale*—the War of the A
 
 
 
-## VII The Oligarchic Reaction 77-60 B.C. 
+## 07 The Oligarchic Reaction 77-60 B.C. 
 
 
 
-### I. THE GOVERNMENT
+### 01 THE GOVERNMENT
 
 NEVERTHELESS, Sulla had erred twice on the side of generosity. He had spared the son and nephew of his enemies, the gay and brilliant Caius Julius Caesar, who was entering his twenties in the proscription years; Sulla had nominated him for death, but let him go on the importuning of their common friends; his judgment, however, was not mistaken when he remarked, “In that young man go many Mariuses.”1 And perhaps he erred in resigning too soon and enjoying himself to an early end. Had his patience and insight equaled his ruthlessness and courage, he might have saved Rome a half century of chaos and given her in 80 B.C.. the peace and security, order and prosperity, that Augustus would bring back from Actium. He restored the old when he should have created the new.
 
@@ -415,7 +415,7 @@ Antiquity had never known so rich, so powerful, and so corrupt a government.
 
 
 
-### II. THE MILLIONAIRES
+### 02 THE MILLIONAIRES
 
 The business classes reconciled themselves to the rule of the Senate because they were better prepared than the aristocracy to exploit the provinces. That “concord of the orders,” or co-operation of the two upper classes, which Cicero was to preach as an ideal, was already a reality in his youth; they had agreed to unite and conquer. Businessmen and their aggressive agents crowded the basilicas and streets of Rome and swarmed into provincial markets and capitals. Bankers issued letters of exchange on their provincial affiliates,13 and lent money for everything, even political careers. Merchants and financiers swung their influence to the *populares* when the Senate proved selfish, and back to the *optimates* when democratic leaders tried to keep their pre-election promises to the proletariat.
 
@@ -433,7 +433,7 @@ Some of the new wealth disported itself in enlarged theaters and extended games.
 
 
 
-### III. THE NEW WOMAN
+### 03 THE NEW WOMAN
 
 The increase of wealth conspired with the corruption of politics to loosen morals and the marriage bond. Despite increasing competition from women and men, prostitution continued to flourish; brothels and the taverns that usually housed them were so popular that some politicians organized votes through the *collegium lupanariorum,* or guild of brothelkeepers.25 Adultery was so common as to attract little attention unless played up for political purposes, and practically every well-to-do woman had at least one divorce. This was not the fault of women; it resulted largely from the subordination of marriage, in the upper classes, to money and politics. Men chose wives, or youths had wives chosen for them, to get a rich dowry or make advantageous connections. Sulla and Pompey married five times. Seeking to attach Pompey to him, Sulla persuaded him to put away his first wife and marry Aemilia, Sulla’s stepdaughter, who was already married and with child; Aemilia reluctantly agreed, but died in childbirth shortly after entering Pompey’s house. Caesar gave his daughter Julia to Pompey in marriage as an item in their triumviral alliance. The Empire, growled Cato, had become a matrimonial agency.25a Such unions were *mariages de politique;* as soon as their utility ended, the husband looked for another wife as a steppingstone to higher place or greater wealth. He did not need to give a reason; he merely sent his wife a letter announcing her freedom and his. Some men did not marry at all, alleging distaste for the forwardness and extravagance of the new woman; many lived in free unions with concubines or slaves. The censor Metellus Macedonicus \(131\) had begged men to marry and beget children as a duty to the state, however much of a nuisance *\{molestia\)* a wife might be;26 but the number of celibates and childless couples increased more rapidly after he spoke. Children were now luxuries which only the poor could afford.
 
@@ -443,7 +443,7 @@ Clodia, the wife of Quintus Caecilius Metellus, was the most prominent of those 
 
 
 
-### IV. ANOTHER CATO
+### 04 ANOTHER CATO
 
 Amid all this corruption and laxity one man stood out as an exemplar and professor of the ancient ways. Marcus Porcius Cato the Younger had violated a precept of his great-great-grandfather by studying Greek; from it he derived that Stoic philosophy which shared with his republican convictions the inflexible devotion of his life. He inherited 120 talents \($432,000\), but lived in sedulous simplicity. He lent money, but took no interest. He lacked his ancestor’s rough humor, and frightened people by what seemed to them his obstinate incorruptibility and his untimely addiction to principles. His life was an unforgivable indictment of theirs; they wished he would sin a little, if only out of a decent respect for the habits of mankind. They must have rejoiced when, with an almost Cynical conception of woman as a biological instrument, he “lent” his wife Marcia to his friend Hortensius—i.e., divorced her and assisted at her marriage to the orator—and later, when Hortensius died, took her again to wife.28 He could not be popular, for he was the relentless enemy of all dishonesty, the stern defender of the *patria potestas,* a more merciless *censor moralium* than Cato Censor himself. He seldom laughed or smiled, made no effort to be affable, and sharply reprimanded any who dared to flatter him. He was defeated for the consulship, said Cicero, because he acted like a citizen in Plato’s republic instead of a Roman living among “the dregs of Romulus’ posterity.”29
 
@@ -451,7 +451,7 @@ As quaestor Cato made himself a terror to all incompetence and malfeasance, and 
 
 
 
-### V. SPARTACUS
+### 05 SPARTACUS
 
 Misgovernment now reached a height, and democracy a depth, rare in the history of states. In 98 B.C.. the Roman general Didius repeated the exploit of Sulpicius Galba: he lured a whole tribe of troublesome natives into a Roman camp in Spain by pretending to register them for a distribution of land; when they had entered, with their wives and children, he had them all slaughtered. On his return to Rome he was awarded a public triumph.30 Shocked by the brutalities of empire, a Sabine officer in the Roman army, Quintus Sertorius, went over to the Spaniards, organized and drilled them, and led them to victory after victory over the legions sent to subdue him. For eight years \(80-72\) he ruled a rebel kingdom, winning the affection of the people by his just administration and by his establishment of schools for the education of native youth. Metellus, the Roman general, offered a hundred talents \($360,000\) and 20,000 acres of land to any Roman who should kill him. Perpenna, a Roman refugee in Sertorius’ camp, invited him to dinner, assassinated him, and made himself master of the army that Sertorius had trained. Pompey was sent against Perpenna and easily defeated him; Perpenna was executed, and the exploitation of Spain was resumed.
 
@@ -461,7 +461,7 @@ Half the slaves of Italy were on the verge of insurrection, and in the capital n
 
 
 
-### VI. POMPEY
+### 06 POMPEY
 
 When Crassus and Pompey returned from this campaign they did not, as the Senate wished and law required, disband or disarm their troops at the gates. Camping outside the walls, they asked permission to stand for the consulate without entering the city—again a violation of precedent; in addition Pompey demanded land for his soldiers and a triumph for himself. The Senate refused, hoping to play one general against the other. But Crassus and Pompey joined hands, made a sudden alliance with the *populares* and the business class, and by generous bribery won election as consuls for 70 B.C. The magnates entered the partnership for two immediate ends: to recapture power in the juries that tried them, and to replace Lucullus—who had ruled the Roman East with unprofitable integrity—by a man of their own class and views. In Pompey they recognized their man.
 
@@ -479,7 +479,7 @@ The measure was readily passed by the Assembly. The plebs cared little for the f
 
 
 
-### VII. CICERO AND CATILINE
+### 07 CICERO AND CATILINE
 
 Plutarch thought that Marcus Tullius was called Cicero because of a wart, shaped like a vetch \(*cicer\),* on an ancestor’s nose; more probably his forebears had earned the cognomen by raising renowned crops of chick-peas. In his *Laws* Cicero describes with engaging tenderness the modest villa that had seen his birth near Arpinum, halfway between Rome and Naples, in the foothills of the Apennines. His father was just rich enough to give his son the best education that the age could provide. He engaged the Greek poet Archias to tutor Marcus in literature and Greek and then sent the youth to study law with Q. Mucius Scaevola, the greatest jurist of his time. Cicero listened eagerly to the trials and debates in the Forum, and rapidly learned the arts and tricks of forensic speech. “To succeed in the law,” he said, “a man must renounce all pleasures, avoid all amusements, say farewell to recreation, games, entertainment, almost to intercourse with his friends.”36
 
@@ -513,11 +513,11 @@ I It was in this campaign that Cicero’s brother Quintus drew up for him a manu
 
 
 
-## VIII Literature Under the Revolution 145-30 B.C. 
+## 08 Literature Under the Revolution 145-30 B.C. 
 
 
 
-### I. LUCRETIUS
+### 01 LUCRETIUS
 
 AMID this turbulent transformation of economy, government, and morals, literature was not forgotten, and did not quite escape the fever and stimulus of the age. Varro and Nepos found safety in antiquarian scholarship or historical research; Sallust retired from his campaigns to defend his party and disguise his morals with brilliant monographs; Caesar stooped from empire to grammar and continued his wars in his *Commentaries;* Catullus and Calvus sought refuge from politics in the pursuit and poetry of love; timid and sensitive spirits like Lucretius hid themselves in the gardens of philosophy; and Cicero retreated now and then from the heat of the Forum to cool his blood with books. But not one of them found peace. War and revolution touched them with pervasive infection; and even Lucretius must have known the restlessness which he describes:
 
@@ -537,7 +537,7 @@ Mother of Aeneas’ race, delight of men and gods, O nurturing Venus\! . . . Thr
 
 
 
-### II. DE RERUM NATURA
+### 02 DE RERUM NATURA
 
 If we try to reduce to some logical form the passionate disorder of Lucretius’ argument, his initial thesis lies in a famous line:
 
@@ -581,7 +581,7 @@ In the endless struggle of East and West, of “tender-minded” and consoling f
 
 
 
-### III. LESBIA’S LOVER
+### 03 LESBIA’S LOVER
 
 In 57 B.C.. the Caius Memmius to whom Lucretius dedicated his poem left Rome to serve as propraetor in Bithynia. After the growing custom of Roman governors he took with him an author—not Lucretius, but a poet different from the other in everything but the strength of his passion. Quintus \(or Caius\) Valerius Catullus had come to Rome some five years before from his native Verona, where his father was of sufficient standing to be frequent host to Caesar. Quintus himself must have had a substantial competence, for he owned villas near Tibur and on Lake Garda and had an elegant house in Rome. He speaks of these properties as choked with mortgages, and repeatedly proclaims his poverty; but the picture we form of him from his poems is that of a polished man of the world who did not bother to earn a living, but enjoyed himself unstintingly among the wilder set in the capital. The keenest wits, the cleverest young orators and politicians belonged to this circle: Marcus Caelius, the impecunious aristocrat who was to become a communist; Licinius Calvus, brilliant in poetry and in law; and Helvius Cinna, a poet whom Antony’s mob would mistake for one of Caesar’s assassins and beat to death. These men opposed Caesar with every epigram at their disposal, unaware that their literary revolt reflected the revolution in which they lived. They were tired of old forms in literature, of the crudity and bombast of Naevius and Ennius; they wished to sing the sentiments of youth in new and lyric meters, and with a refinement and delicacy of execution known once in the Alexandria of Callimachus, but never yet seen in Rome. And they were resentful of old morals, of the *mos maiorum* perpetually preached upon them by their exhausted elders; they announced the sanctity of instinct, the innocence of desire, and the grandeur of dissipation. They and Catullus were no worse than other young literary blades of their generation and the next; Horace, Ovid, Tibullus, Propertius, even the shy Virgil in his youth, made life and verse revolve around any woman, married or not, who fed their muses with facile casual love.
 
@@ -632,7 +632,7 @@ He atoned for these faults by the conscientious perfection of his verse. His hen
 
 
 
-### IV. THE SCHOLARS
+### 04 THE SCHOLARS
 
 How were Latin books written, illustrated, bound, published, sold? For school exercises, short letters, transient commercial records, the Romans through antiquity wrote with a stylus upon waxed tablets and erased with the thumb. The oldest literary Latin known to us was written with quill and ink upon paper manufactured in Egypt from the pressed and glued leaves of the papyrus tree. In the first centuries of our era parchment made from the dried skins of animals began to rival papyrus as a receptacle of literature and important documents. A folded sheet of membrane, or *vellum,* constituted a *diploma,* or twofold. Usually a literary work was issued as a roll *\(volumen,* “wound up”\), and was read by unrolling as the reading progressed. The text was customarily written two or three narrow *columnae* to a page, often without punctuation of clauses or even separation of words. Some manuscripts were illustrated by ink drawings; Varro’s *Imagines,* e.g., consisted of 700 portraits of famous men, each picture accompanied by a biographical note. Anyone could publish a manuscript by hiring slaves to make copies, and selling the copies. Rich men had clerks who copied for them any book they wished to own. Since copyists were fed rather than paid, books were cheap. First “printings” were usually of a thousand copies. Booksellers bought wholesale from publishers like Atticus, and sold at retail in arcade bookstalls. Neither publisher nor bookseller gave the author anything except courtesy and occasional gifts; royalties were unknown. Private libraries were now numerous; and about 40 B.C. Asinius Pollio made his great collection the first public library in Rome. Caesar planned a still larger one, and made Varro its director; but this, like so many of his ideas, waited upon Augustus for its fulfillment.
 
@@ -644,7 +644,7 @@ That style, like almost all Roman prose of Sallust’s century and the next, too
 
 
 
-### V. CICERO’S PEN
+### 05 CICERO’S PEN
 
 Proud of his speeches, and aware that they were making literature, Cicero felt keenly the criticism of the “Attic” school, and defended himself in a long series of treatises on oratorical art. In lively dialogues he sketched the history of Roman eloquence and laid down the rules for composition, prose rhythm, and delivery. He did not admit that his own style was “Asian”; he had modeled it, he claimed, upon that of Demosthenes; and he reminded the Atticists that their cold and passionless speech drove audiences to sleep or flight.
 
@@ -720,11 +720,11 @@ XII *De Republica*, 54 B.C..; *De Legibus*, 52; *Academica, De Consolatione*, an
 
 
 
-## IX Caesar 100-44 B.C. 
+## 09 Caesar 100-44 B.C. 
 
 
 
-### I. THE RAKE
+### 01 THE RAKE
 
 CAIUS JULIUS CAESAR traced his pedigree to lulus Ascanius, son of Aeneas, son of Venus, daughter of Jupiter: he began and ended as a god. The Julian gens, though impoverished, was one of the oldest and noblest in Italy. A Caius Julius had been consul in 489, another in 482, a Vopiscus Julius in 473, a Sextus Julius in 157, another in 91.1 From his uncle-in-law Marius he derived by a kind of avuncular heredity an inclination toward radical politics. His mother Aurelia was a matron of dignity and wisdom, frugally managing her small home in the unfashionable Subura—a district of shops, taverns, and brothels. There Caesar was born 100 B.C.., allegedly by the operation that bears his name.I
 
@@ -738,7 +738,7 @@ Probably these diversified investments helped Caesar’s rise as well as his fal
 
 
 
-### II. THE CONSUL
+### 02 THE CONSUL
 
 Caesar began as the secret ally of Catiline and ended as the remaker of Rome. Hardly a year after Sulla’s death he prosecuted Gnaeus Dolabella, a tool of the Sullan reaction; the jury voted against Caesar, but the people applauded his democratic offensive and his brilliant speech. He could not rival Cicero’s verve and wit, passionate periods, and rhetorical flagellations; indeed, Caesar disliked this “Asianic” style and disciplined himself to the masculine brevity and stern simplicity that were to distinguish his *Commentaries* on the Gallic and Civil Wars. Nevertheless, he was soon ranked as second only to Cicero in eloquence.6
 
@@ -758,7 +758,7 @@ Toward the end of this historic consulate Caesar had himself appointed governor 
 
 
 
-### III. MORALS AND POLITICS
+### 03 MORALS AND POLITICS
 
 Publius Clodius Pulcher \(the Handsome\) was a scion of the Claudian gens, a young aristocrat whose courage knew no fear and his morals no restraint. Like Catiline and Caesar he descended from his rank to lead the poor against the rich. To be eligible as a tribune of the people he had himself adopted into a plebeian family. To redistribute the concentrated wealth of Rome and to destroy Cicero—who had abused his sister Clodia and stood for the sanctity of property—he served as a subaltern to Caesar until he could take power into his own hands. He admired Caesar’s policies and loved Caesar’s wife. To gain access to her he disguised himself as a woman, entered the house of Caesar, then \(62\) high priest, took part in the ceremonies offered by women alone to the Bona Dea, was detected, accused, and publicly tried \(61\) for having violated the mysteries of the Good Goddess. Caesar, called as a witness, said that he had no charge to make against Clodius. Why, then, asked the prosecutor, had he divorced Pompeia? “Because,” said Caesar, “my wife must be above suspicion.” It was a clever answer, which neither exonerated nor condemned a valuable political aide. Various witnesses—perhaps bribed—told the court that Clodius had had relations with Clodia and had seduced his sister Tertia after her marriage to Lucullus. Clodius protested that he had been away from Rome on the day of the alleged sacrilege; Cicero, however, testified that Clodius had on that day been with him in Rome. The populace thought the whole affair a Senatorial plot to destroy a *populares* leader and cried out for acquittal. Crassus—some say at Caesar’s behest—bribed a number of judges for Clodius. The radicals for once had the more money, and Clodius was freed. Caesar took advantage of the situation to exchange an inconveniently conservative wife for the daughter of a senator allied to the popular cause.
 
@@ -772,7 +772,7 @@ Upon Cato’s return \(57\) from his brilliant reorganization of Cyprian affairs
 
 
 
-### IV. THE CONQUEST OF GAUL
+### 04 THE CONQUEST OF GAUL
 
 In the spring of 58 Caesar took up his duties as governor of Cisalpine and Narbonese Gaul—i.e., northern Italy and southern France. In 71 Ariovistus had led 15,000 Germans into Gaul at the request of one Gallic tribe seeking assistance against another. He had provided the desired aid and then had remained to establish his rule over all the tribes of northeastern Gaul. One of these, the Aedui, appealed to Rome for help against the Germans \(61\); the Senate authorized the Roman governor of Narbonese Gaul to comply, but almost at the same time it listed Ariovistus among rulers friendly to Rome. Meanwhile 120,000 Germans crossed the Rhine, settled in Flanders, and so strengthened Ariovistus that he treated the native population as subject peoples and dreamed of conquering all Gaul.14 At the same time the Helvetii, centering about Geneva, began migrating westward, 368,000 strong, and Caesar was warned that they planned to cross his province of Narbonese Gaul on their way to southwestern France. “From the sources of the Rhine to the Atlantic Ocean,” says Mommsen, “the German tribes were in motion; the whole line of the Rhine was threatened by them; it was a movement like that when the Alemanni and the Franks threw themselves upon the falling empire of the Caesars . . . five hundred years afterward.”15 While Rome plotted against him, Caesar plotted to save Rome.
 
@@ -802,7 +802,7 @@ That there is a bridge connecting the past glory of Hellas and Rome with the pro
 
 
 
-### V. THE DEGRADATION OF DEMOCRACY
+### 05 THE DEGRADATION OF DEMOCRACY
 
 During the second quinquennium of Caesar in Gaul, Roman politics had become an unparalleled chaos of corruption and violence. Pompey and Crassus, as consuls, pursued their policies by the bribery of votes, the intimidation of juries, and occasional murder.18 When their year of office ended, Crassus recruited and conscripted a large army and sailed for Syria. He crossed the Euphrates and met the Parthians at Carrhae. Their superior cavalry defeated him, and his son fell in the battle. Crassus was withdrawing his forces in good order when the Parthian general invited him to a conference. He went and was treacherously slain. His head was sent to play the part of Pentheus in a performance of Euripides’ *Bacchae* at the Parthian court; and his leaderless army, long wearied of the campaign, disappeared in a disorderly rout \(53\).
 
@@ -814,7 +814,7 @@ Clodius and Milo were Rome’s most distinguished experts in this brand of parli
 
 
 
-### VI. CIVIL WAR
+### 06 CIVIL WAR
 
 A century of revolution had broken down a selfish and narrow aristocracy, but had put no other government in its place. Unemployment, bribery, bread and circuses had corrupted the Assembly into an ill-informed and passion-ridden mob obviously incapable of ruling itself, much less an empire. Democracy had fallen by Plato’s formula: liberty had become license, and chaos begged an end to liberty.24 Caesar agreed with Pompey that the Republic was dead; it was now, he said, “a mere name, without body or form”;25 dictatorship was unavoidable. But he had hoped to establish a leadership that would be progressive, that would not freeze the *status quo,* but would lessen the abuses, inequities, and destitution which had degraded democracy. He was now fifty-four, and surely weakened by his long campaigns in Gaul; he did not relish a war against his fellow citizens and his former friends. But he saw the snares that had been prepared for him, and resented them as an ill-reward for one who had saved Italy. His term as governor of Gaul would end on March 1, 49; he could not run for the consulship until the fall of that year; in the interval he would lose the immunity of an officeholder, and could not enter Rome without subjecting himself to those proscriptions which were among the favorite weapons of party warfare in Rome. Already Marcus Marcellus had proposed to the Senate that Caesar should be deposed from his governorship before its expiration—which meant self-exile or trial. The tribunes of the plebs had saved him by their veto, but the Senate clearly favored the motion. Cato frankly expressed the hope that Caesar would be accused, tried, and banished from Italy.
 
@@ -850,7 +850,7 @@ Probably he had been warned that Pompey hoped to resume the contest with the arm
 
 
 
-### VII. CAESAR AND CLEOPATRA
+### 07 CAESAR AND CLEOPATRA
 
 Since the death of Ptolemy VI \(145\) Egypt had rapidly decayed. Her kings were no longer able to maintain social order or national freedom; the Roman Senate increasingly dictated their policy, and garrisoned Alexandria with Roman troops. By the will of Ptolemy XI, whom Pompey and Gabinius had established on the throne, the government had descended to his son Ptolemy XII and his daughter Cleopatra, who were to marry each other and reign together.
 
@@ -874,7 +874,7 @@ When Caesar came he mourned that he had no chance to pardon Cato; he could only 
 
 
 
-### VIII. THE STATESMAN
+### 08 THE STATESMAN
 
 After appointing Sallust governor of Numidia, and reorganizing the provinces of Africa, Caesar in the fall of 46 returned to Rome. The frightened Senate, recognizing the advent of monarchy, voted him the dictatorship for ten years, and such a triumph as Rome had never seen before. He paid each of his soldiers 5000 Attic drachmas \($3000\), much more than he had promised them. He feasted the citizens at 22,000 tables, and for their amusement provided a sham sea battle involving 10,000 men. Early in 45 he left for Spain, and at Munda defeated the last Pompeian army. When, in October, he reached Rome, he found all Italy in chaos. Oligarchic misrule and a century of revolution had disordered agriculture, industry, finance, and trade. The exhaustion of the provinces, the hoarding of capital, and the precariousness of investment had disturbed the flow of money. Thousands of estates had fallen into ruin; 100,000 men had been drawn from production into war; peasants beyond number had been driven by the competition of foreign grain or *latifundia* slaves to join the proletariat in the towns and listen hungrily to promising demagogues. The surviving aristocracy, unmelted by Caesar’s clemency, plotted against him in their clubs and palaces. He appealed to them in the Senate to recognize the necessity of dictatorship, and to co-operate with him in a healing reconstruction. They scorned the advances of the usurper, denounced the presence of Cleopatra as his guest in Rome, and whispered that he was planning to make himself king and move the seat of the Empire to Alexandria or Ilium.
 
@@ -905,7 +905,7 @@ Like Alexander he did not know where to stop. Contemplating his reordered realm,
 
 
 
-### IX. BRUTUS
+### 09 BRUTUS
 
 When news of this plan trickled through Rome the common people, who love glory, applauded; the business classes, smelling war orders and provincial loot, licked their chops; the aristocracy, foreseeing its extinction on Caesar’s return, resolved to kill him before he could go.
 
@@ -939,11 +939,11 @@ VI These stories of the ides of March appear in Suetonius, Plutarch, and Appian;
 
 
 
-## X Antony 44-30 B.C. 
+## 10 Antony 44-30 B.C. 
 
 
 
-### I. ANTONY AND BRUTUS
+### 01 ANTONY AND BRUTUS
 
 THE assassination of Caesar was one of the major tragedies of history. Not merely in the sense that it interrupted a great labor of statesmanship and led to fifteen years more of chaos and war; civilization survived, and Augustus completed what Caesar had begun. It was a tragedy also in the sense that probably both parties were right: the conspirators in thinking that Caesar meditated monarchy, Caesar in thinking that disorder and empire had made monarchy inevitable. Men have divided on the issue ever since the Senate sat for a moment in consternation at the deed and then fled in tumult and terror from the hall. Antony, arriving after the event, saw valor in discretion and fortified himself in his house. Cicero’s eloquence lost its tongue, even when Brutus, dagger in hand, hailed him as “Father of His Country.” Emerging, the conspirators found an excited populace in the square; they tried to win it with catchwords of Liberty and the Republic, but the dazed crowd had no homage for phrases so long used to cover greed. Fearing for their lives, the assassins took refuge in the buildings on the Capitol and surrounded themselves there with their personal gladiatorial guards. Toward evening Cicero joined them. Antony, approached by their emissaries, sent a friendly reply.
 
@@ -971,7 +971,7 @@ The rival armies met at Philippi in September of 42. Brutus’ wing forced back 
 
 
 
-### II. ANTONY AND CLEOPATRA
+### 02 ANTONY AND CLEOPATRA
 
 The old aristocracy fought its last land battle at Philippi. Many of them—Cato’s son, Hortensius’ son, Quintilius Varus, and Quintus Labeo—joined Brutus and Cassius in suicide. The victors divided the Empire between them: Lepidus was given Africa, Octavian took the West, Antony, having his choice, took Egypt, Greece, and the East. Always needing money, Antony forgave the Eastern cities their contributions to his enemies on condition that they give him a like sum—ten years’ taxes within a year. His old geniality returned as victory made him seemingly secure. He reduced his demands upon the Ephesians when their women, dressed as Bacchantes, greeted him as the god Dionysus; but he gave his cook the house of a Magnesian magnate as reward for a distinguished supper. He called an assembly of the Ionian cities at Ephesus and settled the boundaries and affairs of these states with such good judgment that Augustus a decade later found little to change. He pardoned all who had fought against him except those who had shared in killing Caesar. He gave relief to the cities that had suffered most severely from Cassius and Brutus, released several of them from every Roman tax, freed many who had been sold into slavery by the conspirators, and liberated the cities of Syria from the despots who had overthrown their democracies.10
 
@@ -985,7 +985,7 @@ After marrying Octavia in a state ceremony at Rome, Antony went with her to Athe
 
 
 
-### III. ANTONY AND OCTAVIAN
+### 03 ANTONY AND OCTAVIAN
 
 Octavia bore her rejection silently, lived quietly in Antony’s house at Rome, and brought up faithfully his children by Fulvia and the two daughters that she herself had given him. The daily sight of her mute desolation inflamed Octavian’s conviction that both Italy and he were doomed if Antony’s plans succeeded. He saw to it that Italy should realize the situation: Antony had married the Queen of Egypt, had assigned to her and her illegitimate offspring the most tribute-yielding of Rome’s provinces, was seeking to make Alexandria the capital of the Empire, and would reduce Rome and Italy to subordinate roles. When Antony sent a message to the Senate \(which he had for years ignored\) proposing that he and Octavian should retire to private life, and that the institutions of the Republic should be restored, Octavian escaped a difficult situation by reading to the Senate what he claimed was Antony’s will, which he had taken by force from the Vestal Virgins. It named Antony’s children by Cleopatra his sole heirs, and directed that he should be buried beside the Queen in Alexandria.14 The last clause was as decisive for the Senate as it should have proved suspicious; instead of raising doubts that a will filed in Rome should have made such provisions, it convinced the Senate and Italy that Cleopatra was scheming to absorb the Empire through Antony. With characteristic subtlety Octavian declared war \(32\) against her rather than Antony, and made the conflict a holy war for the independence of Italy.
 
@@ -1006,5 +1006,4 @@ The Republic died at Pharsalus; the revolution ended at Actium. Rome had complet
 * * *
 
 I Cicero had said of Octavian: *laudandum adolescentem, ornandum, tollendum*—“the boy is to be praised, decorated, and exalted”; but *tollendum* also meant “to be killed.”6
-
 

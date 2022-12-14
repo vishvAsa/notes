@@ -293,11 +293,11 @@ Scipio Africanus Minor destroys Carthage; Mummius sacks Corinth; extension of Ro
 
 
 
-## II The Struggle for Democracy 508-264 B.C. 
+## 02 The Struggle for Democracy 508-264 B.C. 
 
 
 
-### I. PATRICIANS AND PLEBS
+### 01 PATRICIANS AND PLEBS
 
 WHO were the patricians? Livy1 thought that Romulus had chosen a hundred clan heads of his tribe to help him establish Rome and be his council or senate. These men were later called *patres*—“fathers”—and their descendants *patricii*—“derived from the fathers.” Modem theory, which lives by nibbling at tradition, likes to explain the patricians as alien conquerors, perhaps Sabines, who invaded Latium and thereafter ruled the Latin plebs, or populace, as a lower caste. We may believe that they were composed of clans that through economic or military superiority had acquired the best lands, and had transformed their agricultural leadership into political mastery. These victorious clans—the Manlii, Valerii, Aemilii, Cornelii, Fabii, Horatii, Claudii, Julii, etc.—continued for five centuries to give Rome generals, consuls, and laws. When the three original tribes united, their clan heads made a senate of some three hundred members. They were not such lords of comfort and luxury as their descendants; often they put their own hands to the ax or the plow, lived vigorously on simple fare, and wore clothing spun in their homes. The plebs admired them even when it fought them, and applied to almost anything appertaining to them the term *classicus,* “classical”—i.e., of the highest rank or class.2
 
@@ -323,7 +323,7 @@ Nevertheless, the power of the Senate soon recovered after these defeats. The de
 
 
 
-### II. THE CONSTITUTION OF THE REPUBLIC
+### 02 THE CONSTITUTION OF THE REPUBLIC
 
 #### 1. The Lawmakers
 
@@ -379,7 +379,7 @@ But it had its faults. It was a clumsy confusion of checks and balances in which
 
 
 
-### III. THE CONQUEST OF ITALY
+### 03 THE CONQUEST OF ITALY
 
 Never had Rome been so encompassed by enemies as when she emerged from the monarchy as a weak city-state ruling only 350 square miles—equivalent to a space nineteen by nineteen miles. While Lars Porsena advanced upon her, many of the neighboring communities that had been subjected by her kings resumed their liberty and formed a Latin League to withstand Rome. Italy was a medley of independent tribes or cities, each with its own government and dialect: in the north the Ligures, Gauls, Umbrians, Etruscans, and Sabines; to the south the Latins, Volscians, Samnites, Lucanians, Bruttians; along the western and southern coasts Greek colonists in Cumae, Naples, Pompeii, Paestum, Locri, Rhegium, Crotona, Metapontum, Tarentum. Rome was at the center of them all, strategically placed for expansion, but perilously open to attack from all sides at once. It was her salvation that her enemies seldom united against her. In 505, while she was at war with the Sabines, a powerful Sabine clan—the Claudian *gens*—came over to Rome and was granted citizenship on favorable terms. In 449 the Sabines were defeated; by 290 all their territory was annexed to Rome, and by 250 they had received the full Roman franchise.
 
@@ -415,11 +415,11 @@ VI This war was marked by two probably legendary deeds. One consul, Publius Deci
 
 
 
-## III Hannibal Against Rome 264-202 B.C. 
+## 03 Hannibal Against Rome 264-202 B.C. 
 
 
 
-### I. CARTHAGE
+### 01 CARTHAGE
 
 SOME eleven hundred years before our era the inquisitive traders of Phoenicia discovered the mineral wealth of Spain. Soon a fleet of merchant vessels plied between Sidon, Tyre, and Byblus, at one end of the Mediterranean, and Tartessus, at the mouth of the Guadalquivir, on the other. Since such voyages could not then be made without many stops, and the southern shores of the Mediterranean provided the shortest and safest route, the Phoenicians established intermediate posts and trading stations on the African coast at Leptis Magna \(now Lebda\), Hadrumetum \(Sousse\), Utica \(Utique\), Hippo Diarrhytus \(Bizerte\), Hippo Regius \(Bone\), and even beyond Gibraltar at Lixus \(south of Tangier\). The Semitic settlers at these posts married some of the natives and bribed the rest to peace. About 813 B.C. a new group of colonists, perhaps from Phoenicia, perhaps from expanding Utica, built their homes upon a promontory ten miles northwest of the modern Tunis. The narrow peninsula could be easily defended, and the land, watered by the Bagradas \(Medjerda\) River, was so fertile that it quickly recovered from repeated devastation. Classic tradition ascribed the founding of the city to Elissa, or Dido, daughter of the king of Tyre: her husband having been slain by her brother, she had sailed with other adventurous souls to Africa. Her settlement was called *Kart-hadasht*—Newtown-to distinguish it from Utica; the Greeks transformed the name into *Karchedon,* the Romans into *Carthago.* The Latins gave the name Africa to the region around Carthage and Utica, and followed the Greeks in calling its Semitic population *Poem—i.e.,* Phoenicians. The sieges of Tyre by Shalmaneser, Nebuchadrezzar, and Alexander drove many wealthy Tyrians to Africa. Most of them went to Carthage, and made it a new center of Phoenician trade. Carthage grew in power and splendor as Tyre and Sidon declined.
 
@@ -441,7 +441,7 @@ The commander of the armies was nominated by the Senate and chosen by the Assemb
 
 
 
-### II. REGULUS
+### 02 REGULUS
 
 The two nations had once been friends when one of them was strong enough to dominate the other. In 508 they had made a treaty that recognized the hegemony of Rome over the coast of Latium, but pledged the Romans not to sail the Mediterranean west of Carthage, nor to land in Sardinia or Libya except for the brief repair or provisioning of ships.12 It became a common practice among the Carthaginians, says a Greek geographer, to drown any foreign sailor found between Sardinia and Gibraltar.13 The Greeks of Massalia \(Marseilles\) had developed a peaceful coastal commerce between southern Gaul and northeastern Spain; Carthage, we are told, warred on this trade piratically, and Massalia was a faithful ally of Rome. \(We do not know how much of this is war propaganda dignified as history.\) Now that Rome controlled Italy she could not feel secure so long as two hostile powers—Greeks and Carthaginians—held Sicily, hardly a mile from the Italian coast. Besides, Sicily was fertile; it might supply half of Italy with grain. Sicily taken, Sardinia and Corsica would of themselves fall into Roman hands. Here was manifest destiny, the natural next step in the expansion of Rome.
 
@@ -453,7 +453,7 @@ After keeping Regulus a prisoner for five years, his captors allowed him to acco
 
 
 
-### III. HAMILCAR
+### 03 HAMILCAR
 
 Of Hamilcars, Hasdrubals, and Hannibals Carthage had an abundance, for these names were given in almost every generation in their oldest families. They were pious names, formed from those of the gods: *Hamilcar* was “He whom Melkart protects”; *Hasdrubal* was “He whose help is Baal”; *Hannibal* was the very “Grace of Baal.” Our present Hamilcar was surnamed Barca—“lightning”; it was his nature to strike swiftly, suddenly, anywhere. He was still a youth when \(247\) Carthage gave him supreme command of its forces. Taking a small fleet, he harassed the coast of Italy with surprise landings, destroying Roman outposts and taking many prisoners. Then, in the face of a Roman army holding Panormus \(Palermo\), he disembarked his troops and captured a height overlooking the town. His contingent was too small to risk a major engagement; but every time he led it forth it returned with spoils. He begged the Carthaginian Senate for reinforcements and supplies; it refused, hugged its hoards, and bade him feed and clothe his soldiers on the country that surrounded him.
 
@@ -467,7 +467,7 @@ He left behind him in the camp his son-in-law Hasdrubal, and his sons Hannibal, 
 
 
 
-### IV. HANNIBAL
+### 04 HANNIBAL
 
 Why had Rome permitted the reconquest of Spain? Because she was harassed with class strife, was expanding in the Adriatic, and was at war with the Gauls. In 232 a tribune, Caius Flaminius, foreshadowed the Gracchi by carrying through the Assembly, against the violent opposition of the Senate, a measure distributing among the poorer citizens some lands recently won from the Gauls. In 230 Rome took her first step toward the conquest of Greece by clearing the Adriatic of pirates and seizing a part of the Illyrian coast as a further protection for Italian trade. Safe now on south and east, she resolved to drive the Gauls over the Alps and make Italy a completely united state. To secure herself on the west she signed a treaty with Hasdrubal by which the Carthaginians in Spain agreed to stay south of the Ebro River; and at the same time she made an alliance with the semi-Greek towns of Saguntum and Ampurias in Spain. In the following year \(225\) a Gallic army of 50,000 foot and 20,000 horse swept down the peninsula. The inhabitants of the capital were so frightened that the Senate returned to the primitive custom of human sacrifice and buried two Gauls alive in the Forum as an appeasement of the gods.20 The legions met the invaders near Telamon, killed 40,000, took 10,000 prisoners, and marched on to subjugate all Cisalpine Gaul. In three years the task was completed; protective colonies were established at Placentia and Cremona, and from the Alps to Sicily Italy was one.
 
@@ -489,7 +489,7 @@ Rome now adopted against her greatest adversary his own baffling policy of cauti
 
 
 
-### V. SCIPIO
+### 05 SCIPIO
 
 The disaster shattered Rome’s hegemony in southern Italy. Samnites, Bruttians, Lucanians, Metapontum, Thurii, Crotona, Locri, and Capua joined Cisalpine Gaul in attaching themselves to Hannibal; only Umbria, Latium, and Etruria remained firm. Hiero of Syracuse was loyal to the death, but his successors declared for Carthage. Philip V of Macedon, fearful of Roman expansion through Illyria into the east, allied himself with Hannibal and declared war upon Rome. Carthage herself became interested and sent Hannibal meager reinforcements and supplies. Some of the young Roman nobles among the survivors at Canusium thought the situation hopeless and meditated flight to Greece, but Scipio shamed them into courage. Rome was for a month hysterical with terror; only a small garrison remained to protect it against Hannibal. Matrons of high family ran weeping to the temples and cleansed with their hair the statues of the gods; some whose husbands and sons had fallen in battle cohabited with foreigners and slaves lest their strain should die. To regain the favor of obviously offended deities the Senate again sanctioned human sacrifice and buried alive two Gauls and two Greeks.26
 
@@ -513,13 +513,13 @@ To get rid of him the oligarchy secretly sent word to Rome that Hannibal was plo
 
 
 
-## IV Stoic Rome 508-202 B.C. 
+## 04 Stoic Rome 508-202 B.C. 
 
 WHAT kind of human beings were these irresistible Romans? What institutions had formed them to such ruthless strength in character and policy?—what homes and schools, what religion and moral code? How did they take from the soil, and by what economic organization and skill did they mold to their uses, the wealth required to equip their growing cities and those ever new armies that never knew rest? What were they like in their streets and shops, their temples and theaters, their science and philosophy, their old age and death? Unless we visualize, scene by scene, this Rome of the early Republic, we shall never understand that vast evolution of customs, morals, and ideas which produced in one age the stoic Cato, in a later age the epicurean Nero, and at last transformed the Roman Empire into the Roman Church.
 
 
 
-### I. THE FAMILY
+### 01 THE FAMILY
 
 Birth itself was an adventure in Rome. If the child was deformed or female, the father was permitted by custom to expose it to death.1 Otherwise it was welcomed; for though the Romans even of this period practiced some measure of family limitation, they were eager to have sons. Rural life made children assets, public opinion condemned childlessness, and religion promoted fertility by persuading the Roman that if he left no son to tend his grave his spirit would suffer endless misery. After eight days the child was formally accepted into the family and the clan by a solemn ceremony at the domestic hearth. A clan *\(gens\)* was a group of freeborn families tracing themselves to a common ancestor, bearing his name, united in a common worship, and bound to mutual aid in peace and war. The male child was designated by an individual first name *\(praenomen\)*, such as Publius, Marcus, Caius; by his clan name *\(nomen\),* such as Cornelius, Tullius, Julius; and by his family name *\(cognomen\),* such as Scipio, Cicero, Caesar. Women were most often designated simply by the clan name-Cornelia, Tullia, Claudia, Julia. Since in classical days there were only some fifteen first names for males, and these tended to be repeated confusingly in many generations of the same family, they were usually reduced to an initial, and a fourth—or even a fifth—name was added for distinctiveness. So P. Cornelius Scipio Africanus Maior, the conqueror of Hannibal, was differentiated from P. Cornelius Scipio Aemilianus Africanus Minor, the destroyer of Carthage.
 
@@ -531,7 +531,7 @@ The father and the mother, their house and land and property, their children, th
 
 
 
-### II. THE RELIGION OF ROME
+### 02 THE RELIGION OF ROME
 
 #### 1. The Gods
 
@@ -583,7 +583,7 @@ Nevertheless, the old religion made for morality, for order and strength in the 
 
 
 
-### III. MORALS
+### 03 MORALS
 
 What kind of morality emerged from this life in the family and among the gods? Roman literature, from Ennius to Juvenal, idealized these earlier generations and mourned the passing of ancient simplicity and virtue. These pages too will suggest a contrast between the stoic Rome of Fabius and the epicurean Rome of Nero. But the contrast must not be exaggerated by a biased selection of the evidence. There were epicureans in Fabius’ days and stoics in Nero’s.
 
@@ -609,7 +609,7 @@ In summary, the typical educated Roman of this age was orderly, conservative, lo
 
 
 
-### IV. LETTERS
+### 04 LETTERS
 
 The Roman was formed not only by the family, the religion, and the moral code, but, in less degree, by the school, the language, and the literature. Plutarch dates the first Roman school about 250 B.C..; 38 but Livy, perhaps romancing, describes Virginia, the desired of the Decemvir, as “going to a grammar school in the Forum” as early as 450.39 The demand for written laws, and the publication of the Twelve Tables, suggest that by that date a majority of the citizens could read.
 
@@ -635,7 +635,7 @@ Medicine, till the third century, was largely a matter of family herbs, magic, a
 
 
 
-### V. THE GROWTH OF THE SOIL
+### 05 THE GROWTH OF THE SOIL
 
 The Roman of those centuries had little need of medicine, for his active life in farming or soldiering kept him healthy and strong. He took to the land as the Greek to the sea; he based his life on the soil, built his towns as meeting places for farmers and their products, organized his armies and his state on his readiness to defend and extend his holdings, and conceived his gods as spirits of the living earth and the nourishing sky.
 
@@ -645,7 +645,7 @@ War transformed this picture of rural toil. Many of the farmers who changed plow
 
 
 
-### VI. INDUSTRY
+### 06 INDUSTRY
 
 The soil was poor in minerals—a fact that would write much economic and political history in Italy. There was no gold and little silver; there was a fair supply of iron, some copper, lead, tin, and zinc, but too scarce to support an industrial development. The state owned all mines in the empire, but leased them to private operators, who worked them profitably by using up the lives of thousands of slaves. Metallurgy and technology made few advances. Bronze was still employed more frequently than iron, and only the best and latest mines were equipped with the winches, windlasses, and chain buckets that Archimedes and others had set up in Sicily and Egypt. The chief fuel was wood; trees were cut also for houses and ships and furniture; mile by mile, decade by decade, the forest retreated up the mountainside to meet the timber line. The most prosperous industry was the manufacture of weapons and tools in Campania. There was no factory system, except for armament and pottery. Potters made not only dishes but bricks and tiles, conduits and pipes; at Arretium and elsewhere the potters were copying Greek models and learning to make artistic wares. As early as the sixth century the textile industry, in the design, preparation, and dyeing of linen and wool, had grown beyond the domestic stage despite the busy spinning of daughters, wives, and slaves; free and unfree weavers were brought together in small factories, which produced not only for the local market but also for export trade.
 
@@ -663,7 +663,7 @@ The state regulated not only the guilds, but many aspects of Rome’s economic l
 
 
 
-### VII. THE CITY
+### 07 THE CITY
 
 Through taxes, spoils, indemnities, and inflowing population Rome was now \(202 B.C.\) one of the major cities of the Mediterranean ensemble. The census of 234 listed 270,713 citizens—i.e., free adult males; the figure fell sharply during the great war, but rose to 258,318 in 189, and 322,000 in 147. We may calculate a population of approximately 1,100,000 souls in the city-state in 189 B.C., of whom perhaps 275,000 lived within the walls of Rome. Italy south of the Rubicon had some 5,000,000 inhabitants.67 Immigration, the absorption of conquered peoples, the influx, emancipation, and enfranchisement of slaves, were already beginning the ethnic changes that by Nero’s time would make Rome the New York of antiquity, half native and half everything.
 
@@ -677,7 +677,7 @@ Perhaps we should class with these spectacles the official “triumph” of a re
 
 
 
-### VIII. POST MORTEM
+### 08 POST MORTEM
 
 War was the most dramatic feature of a Roman’s life, but it did not play so absorbing a role as in the pages of Rome’s historians. Perhaps even more than with us his existence centered about his family and his home. News reached him when it was old, so that his passions could not be stirred every day by the gathered turmoil of the world. The great events of his career were not politics and war, but anxious births, festal marriages, and somber deaths.
 
@@ -699,11 +699,11 @@ IV In northern Italy, about 250 B.C., a bushel of wheat cost half a denarius \(t
 
 
 
-## V The Greek Conquest 201-146 B.C. 
+## 05 The Greek Conquest 201-146 B.C. 
 
 
 
-### I. THE CONQUEST OF GREECE
+### 01 THE CONQUEST OF GREECE
 
 WHEN Philip V of Macedon made an alliance with Hannibal against Rome \(214\) he hoped that all Greece would unite behind him to slay the growing young giant of the west. But rumors were about that he was planning, if Carthage won, to conquer all Greece with Carthage’s aid. As a result, the Aetolian League signed a pact to help Rome against Philip, and the clever Senate, before dispatching Scipio to Africa, used Philip’s discouragement by persuading him to a separate peace \(205\). The victory of Zama had hardly been won when the Senate, which never forgave an injury, began to plot revenge upon Macedon. Rome, the Senate felt, could never be secure with so strong a power at her back across a narrow sea. When the Senate moved for war, the Assembly demurred, and a tribune accused the patricians of seeking to divert attention from domestic ills.1 The opponents of war were easily silenced by charges of cowardice and lack of patriotism; and in 200 B.C.. T. Quinctius Flamininus sailed against Macedon.
 
@@ -717,7 +717,7 @@ During the next decade the relations between Greece and Rome moved even nearer t
 
 
 
-### II. THE TRANSFORMATION OF ROME
+### 02 THE TRANSFORMATION OF ROME
 
 Step by step the Roman Empire grew, not so much through conscious design as through the compulsions of circumstance and the ever receding frontiers of security. In bloody battles at Cremona \(200\) and Mutina \(193\) the legions again subdued Cisalpine Gaul and pushed the boundaries of Italy to the Alps. Spain, rewon from Carthage, had to be kept under control lest Carthage should win it again; besides, it was rich in iron, silver, and gold. The Senate exacted from it a heavy annual tribute in the form of bullion and coin, and the Roman governors reimbursed themselves liberally for spending a year away from home; so Quintus Minucius, after a brief proconsulate in Spain, brought to Rome 34,800 pounds of silver and 35,000 silver denarii. Spaniards were conscripted into the Roman army; Scipio Aemilianus had 40,000 of them in the force with which he took Spanish Numantia. In 195 B.C.. the tribes broke out in wild revolt, which Marcus Cato put down with a hard integrity that recalled the proud virtues of a vanishing Roman breed. Tiberius Sempronius Gracchus \(179\) adjusted his rule sympathetically to the character and civilization of the native population, made friends of the tribal chieftains, and distributed land among the poor. But one of his successors, Lucius Lucullus \(151\), violated the treaties made by Gracchus, attacked without cause any tribe that could yield plunder, and slaughtered or enslaved thousands of Spaniards without bothering to invent a pretext. Sulpicius Galba \(150\) lured 7000 natives to his camp by a treaty promising them land; when they arrived he had them surrounded and enslaved or massacred. In 154 the tribes of Lusitania \(Portugal\) began a sixteen-year war against Rome. An able leader, Viriathus, appeared among them, heroic in stature, endurance, courage, and nobility; for eight years he defeated every army sent against him, until at last the Romans purchased his assassination. The rebellious Celtiberians of central Spain bore a siege of fifteen months in Numantia, living on their dead; at last \(133\) Scipio Aemilianus starved them into surrender. In general the policy of the Roman Republic in Spain was so brutal and dishonest that it cost more than it paid. “Never,” said Mommsen, “had war been waged with so much perfidy, cruelty, and avarice.”4
 
@@ -745,7 +745,7 @@ Overwhelmed with this invasion, Italian art abandoned its native quality and sty
 
 
 
-### III. THE NEW GODS
+### 03 THE NEW GODS
 
 How were the old gods faring in this age of reckless change? Apparently a rivulet of unbelief had trickled down from the aristocracy to the crowd; it is hard to understand how a people still faithful to the ancient pantheon could have accepted with such boisterous approval those comedies in which Plautus—with whatever excuse of following Greek models—made fun of Jupiter’s labors with Alcmena, and turned Mercury into a buffoon. Even Cato, so anxious to preserve old forms, marveled at the ability of two augurs to keep from laughing when they met face to face.21 Too long these takers of auspices had been suborned to political trickery; prodigies and portents had been concocted to mold public opinion, the vote of the people had been annulled by pious humbuggery, and religion had consented to turn exploitation into a sacrament. It was a bad omen that Polybius, after living seventeen years among the highest circles in Rome, could write, about 150 B.C.., as if the Roman religion were merely a tool of government:
 
@@ -757,7 +757,7 @@ In that same year \(205\) Hannibal left Italy, and the Senate complimented itsel
 
 
 
-### IV. THE COMING OF PHILOSOPHY
+### 04 THE COMING OF PHILOSOPHY
 
 The Greek conquest of Rome took the form of sending Greek religion and comedy to the Roman plebs; Greek morals, philosophy, and art to the upper classes. These Greek gifts conspired with wealth and empire in that sapping of Roman faith and character which was one part of Hellas’ long revenge upon her conquerors. The conquest reached its climax in Roman philosophy, from the stoic Epicureanism of Lucretius to the epicurean Stoicism of Seneca. In Christian theology Greek metaphysics overcame the gods of Italy. Greek culture triumphed in the rise of Constantinople as first the rival and then the successor of Rome; and when Constantinople fell, Greek literature, philosophy, and art reconquered Italy and Europe in the Renaissance. This is the central stream in the history of European civilization; all other currents are tributaries. “It was no little brook that flowed from Greece into our city,” said Cicero, “but a mighty river of culture and learning.”24 Henceforth the mental, artistic, and religious life of Rome was a part of the Hellenistic world.III
 
@@ -775,7 +775,7 @@ The Greek mentors of this group were Polybius and Panaetius. Polybius lived for 
 
 
 
-### V. THE AWAKENING OF LITERATURE
+### 05 THE AWAKENING OF LITERATURE
 
 It was a basic purpose of the Scipionic circle to encourage literature as well as philosophy, to mold the Latin tongue into a refined and fluent literary medium, to lure the Roman muses to the nourishing springs of Greek poetry, and to provide an audience for promising writers of verse or prose. In 204 Scipio Africanus proved his character by welcoming to Rome a poet brought there by Cato, the strongest opponent of everything represented by the Scipios and their friends. Quintus Ennius had been born of Greek and Italian parentage near Brundisium \(239\). He had received his education in Tarentum, and his enthusiastic spirit had been deeply impressed by the Greek dramas presented on the Tarentine stage. His courage as a soldier in Sardinia attracted Cato, who was quaestor there. Arrived in Rome, he lived by teaching Latin and Greek, recited his verses to his friends, and found admittance to the circle of the Scipios.
 
@@ -832,7 +832,7 @@ His later plays had suffered in popularity because Hellenism had won in him too 
 
 
 
-### VI. CATO AND THE CONSERVATIVE OPPOSITION
+### 06 CATO AND THE CONSERVATIVE OPPOSITION
 
 This Greek invasion, in literature, philosophy, religion, science, and art, this revolution in manners, morals, and blood, filled old-fashioned Romans with disgust and dread. Out on a Sabine farm a retired senator, Valerius Flaccus, fretted over the decay of the Roman character, the corruption of politics, the replacement of the *mos maiorum* with Greek ideas and ways. He was too old to fight the tide himself. But on a near-by homestead, just outside Reate, was a young plebeian peasant who showed all the old Roman qualities, loved the soil, worked hard, saved carefully, lived with conservative simplicity, and yet talked as brilliantly as a radical. He bore the names Marcus Porcius Cato: *Porcius* because his family had for generations raised pigs; *Cato* because they had been shrewd. Flaccus encouraged him to study law; Cato did, and won his neighbors’ cases in the local courts. Flaccus advised him to go to Rome; Cato went, and by the age of thirty obtained the quaestorship \(204\). By 199 he was aedile, by 198 praetor, by 195 consul; in 191 tribune, in 184 censor. Meanwhile he served twenty-six years in the army as a fearless soldier and an able and ruthless general. He considered discipline the mother of character and freedom; he despised a soldier “who plied his hands in marching and his feet in fighting, and whose snore was louder than his battle cry”; but he won the respect of his troops by marching beside them on foot, giving each of them a pound of silver from the spoils, and keeping nothing for himself.41
 
@@ -848,7 +848,7 @@ Having these ideas, he was a natural antagonist of the Scipionic circle, which t
 
 
 
-### VII. CARTHAGO DELETA
+### 07 CARTHAGO DELETA
 
 Their cue came from the most extraordinary ruler of his time. Masinissa, King of Numidia, lived ninety years \(238-148\), begot a son at eighty-six,48 and by a vigorous regimen kept his health and strength almost to the end. He organized his nomad people into a settled agricultural society and a disciplined state, ruled them ably for sixty years, adorned Cirta, his capital, with lordly architecture, and left as his tomb the great pyramid that still stands near the town of Constantine, in Tunisia. Having won the friendship of Rome, and knowing the political weakness of Carthage, he repeatedly raided and appropriated Carthaginian terrain, took Great Leptis and other cities, and finally controlled all land approaches to the harassed metropolis. Bound by treaty to make no war without Rome’s consent, Carthage sent ambassadors to the Senate to protest against Masinissa’s encroachments. The Senate reminded them that all Phoenicians were interlopers in Africa and had no rights there which any well-armed nation was obliged to respect. When Carthage paid the last of her fifty annual indemnities of 200 talents to Rome, she felt herself released from the treaty signed after Zama. In 151 she declared war against Numidia, and a year later Rome declared war against her.
 
@@ -871,5 +871,4 @@ I It was on leaving for this campaign that Paulus paid his classic compliments t
 II The basilica \(sc. *stoa*—i.e., royal portico\) was a Hellenistic application of the arch to the Persian palace and the Egyptian hypostyle hall; Delos and Syracuse had raised such structures in the third century B.C.
 
 III Said Horace, in a now-trite line: *Graecia capta ferum victor em cepit:* “Conquered Greece took captive her barbarous conqueror.”24a
-
 

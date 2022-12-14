@@ -341,11 +341,11 @@ End of the Arsacid Dynasty
 
 
 
-## XXI Italy
+## 21 Italy
 
 
 
-### I. A ROSTER OF CITIES
+### 01 A ROSTER OF CITIES
 
 LET us stop at this precarious zenith and try to realize that the Empire was greater than Rome.We have lingered unduly at this brilliant center, which hypnotizes historians as it fascinated provincials. In truth the vitality of the great realm no longer dwelt in the corrupt and dying capital; its surviving health and strength, much of its beauty, most of its mental life lay in the provinces and in Italy. We can have no just idea of what Rome meant, nor of its astonishing achievement in organization and pacification, until we leave it and surrender ourselves to a tour of the thousand cities that made up the Roman world.I
 
@@ -371,7 +371,7 @@ Listed so rapidly, these major cities of classic Italy are merely names; we mist
 
 
 
-### II. POMPEII
+### 02 POMPEII
 
 Pompeii was one of the minor towns of Italy, hardly noticed in Latin literature except for its fish sauces, its cabbage, and its burial. Founded by Oscans perhaps as early as Rome, peopled by Greek immigrants, captured by Sulla and turned into a Roman colony, it was partly destroyed by an earthquake in A.D. 63 and was being rebuilt when Vesuvius destroyed it again. On August 24, A.D. 79, the volcano exploded and hurled dust and rock high into the air amid clouds of smoke and flashes of flame. A heavy rainfall turned the erupted matter into a torrent of mud and stone, which in six hours covered Pompeii and Herculaneum to a depth of eight or ten feet. All that day and the next the earth shook and buildings fell. Audiences were buried in the ruins of theaters,14 hundreds were choked by dust or fumes, and tidal waves shut off escape by sea. The elder Pliny was at that time commanding the western fleet at Misenum, near Puteoli. Moved by appeals for help and by curiosity to observe the phenomenon at closer range, he boarded a small vessel, landed on the southern shore of the gulf, and rescued several persons; but as the party ran from the advancing hail and smoke, the old scientist was overcome, fell in his tracks, and died.15 The next morning his wife and his nephew joined the desperate crowd that fled down the coast, while from Naples to Sorrento the continuing eruption blackened the day into night. Many refugees, separated in the darkness from their husbands, wives, or children, made the terror worse with their laments and shrieks. Some prayed to divers gods for help; some cried out that all gods were dead and that the long-predicted end of the world had come.16 When, on the third day, the sky cleared at last, lava and mud had covered everything of Pompeii but the rooftops, and Herculaneum had completely disappeared.
 
@@ -391,7 +391,7 @@ The art recovered from Pompeii or near it suggests that not only the aristocrats
 
 
 
-### III. MUNICIPAL LIFE
+### 03 MUNICIPAL LIFE
 
 Life, private and public, individual and corporate, has never been lived more intensely than in ancient Italy. But the events of our own time are too vital and absorbing to let us spare interest for the details of municipal organization under the Caesars; the confusing diversities of constitution and the jealous gradations of franchise are no longer a part of that living past which is our matrix and our theme.
 
@@ -411,11 +411,11 @@ II Tusculum’s heir, Frascati, is still the resort of the Italian rich; there a
 
 
 
-## XXII Civilizing the West
+## 22 Civilizing the West
 
 
 
-### I. ROME AND THE PROVINCES
+### 01 ROME AND THE PROVINCES
 
 THE blot on Italian prosperity—aside from a system of slavery common to ancient states—was its partial dependence upon provincial exploitation. Italy was free of taxation because the provinces had yielded so much in plunder and tribute; and to them could be traced some of the wealth that came to flower in the Italian towns. Rome, before Caesar, frankly classed the provinces as conquered territory; all their inhabitants were Roman subjects, only a few were Roman citizens; all their land was the property of the Roman state and was held by the possessors on revocable grants from the imperial government. To lessen the likelihood of revolt Rome cut conquered regions into smaller states, forbade any province to have direct political dealings with another, and favored the business classes against the lower classes everywhere. *Divide et impera* was the secret of Roman rule.
 
@@ -427,7 +427,7 @@ Cicero, having joined the Ins, contended that the taxes paid by the provinces ba
 
 
 
-### II. AFRICA
+### 02 AFRICA
 
 Corsica and Sardinia were classed together as a province, not as parts of Italy. Corsica was for the most part a mountainous wilderness, in which Romans hunted the natives with dogs to sell them as slaves.5 Sardinia provided slaves, silver, copper, iron, and grain; it had a thousand miles of road and one excellent harbor, Carales \(Cagliari\). Sicily had been reduced to an almost purely agricultural province as one of the “frumentary supports” of Rome; its arable soil was largely taken up with latifundia devoted to cattle raising, and manned by slaves so poorly clothed and fed that they periodically revolted and escaped to form robber bands. The island had in Augustus’ days some 750,000 souls. \(In 1930 it had 3,972,000.\) Of its sixty-five cities the most flourishing were Catania, Syracuse, Tauromenium \(Taormina\), Messana, Agrigentum, and Panormus \(Palermo\). Syracuse and Tauromenium had magnificent Greek theaters, still in use today. Despite Verres’ depredations Syracuse was so full of impressive architecture, famous sculptures, and historic sites that professional guides prospered on the tourist trade,6 and Cicero considered it the finest city in the world. Most well-to-do urban families had farms or orchards in the suburbs, and the whole Sicilian countryside was fragrant with fruit trees and vineyards, as it is today.
 
@@ -453,7 +453,7 @@ Few books embrace so much nonsense, but fewer still have phrased it so pleasantl
 
 
 
-### III. SPAIN
+### 03 SPAIN
 
 Crossing the straits from Tangier, we pass from one of the newest to one of the oldest provinces of Rome. Standing strategically at the door of the Mediterranean, blessed and cursed with precious minerals that soaked her soil with the blood of greed, crossed with mountain ranges that hindered communications, assimilation, and unity, Spain has felt the full fever of life from the days when Old Stone Age artists painted bisons on the cave walls of Altamira down to our own disordered time. For thirty centuries the Spaniards have been a proud and warlike people, lean and tough, stoically brave, passionate and obstinate, sober and melancholy, frugal and hospitable, courteous and chivalrous, easily provoked to hatred, more easily to love. When the Romans came they found a population even then inextricably diverse: Iberians from Africa \(?\), Ligurians from Italy, Celts from Gaul, and a layer of Carthaginians at the top. If we may believe their conquerors, the pre-Roman Spaniards were close to barbarism, some living in towns and houses, some in hamlets and huts and caves, sleeping on the floor or the earth, and washing their teeth with urine carefully aged.18 The men wore black cloaks, the women “long mantles and gay-colored gowns.” In some parts, Strabo reprovingly adds, “the women dance promiscuously with men, taking hold of their hands.”19
 
@@ -467,7 +467,7 @@ Rome knew Portugal as the province of Lusitania, and Lisbon as Olisipo. At Norba
 
 
 
-### IV. GAUL
+### 04 GAUL
 
 In those days, when all ships were of moderate draught, even ocean-going vessels could navigate the Rhone from Marseilles to Lyons; smaller boats could continue to within thirty miles of the upper Rhine; after-a short haul over level land goods could sail by a hundred cities and a thousand villas into the North Sea. Similar overland leaps led from the Rhone and the Saône to the Loire and the Atlantic, from the Aude to the Garonne and Bordeaux, from the Saone to the Seine and the English Channel. Trade followed these waterways and created cities at their meeting points. France, like Egypt, was the gift of her streams.
 
@@ -501,7 +501,7 @@ The Rhine was the frontier between classic and primitive civilization. Gaul coul
 
 
 
-### V. BRITAIN
+### 05 BRITAIN
 
 About 1200 B.C.. a branch of the Celts crossed over from Gaul and settled in England. They found there a mingled population of dark-haired people, possibly Iberian, and light-haired Scandinavians. They conquered these natives, married them, and spread through England and Wales. About 100 B.C.. \(for so the egocentric foreshortening of history telescopes eventful centuries, and erases vital generations from a crowded memory\) another branch of Celts came from the Continent and dispossessed their kinsmen of southern and eastern Britain. When Caesar came he found the island peopled by several independent tribes, each with its expansive king. He gave to all the population the name *Britami,* from a Gallic tribe, so called, just south of the Channel, in the belief that the same tribe inhabited both shores.
 
@@ -517,7 +517,7 @@ How deeply did Roman civilization, in its four centuries of domination, penetrat
 
 
 
-### VI. THE BARBARIANS
+### 06 THE BARBARIANS
 
 The decisions of Augustus and Tiberius not to attempt the conquest of Germany were among the pivotal events of European history. Had Germany been conquered and Romanized like Gaul, nearly all Europe west of Russia would have had one organization, one government, one classic culture, perhaps one tongue; and central Europe might have served as a buffer against those eastern hordes whose pressure upon the Germans caused the Germanic invasions of Italy.
 
@@ -553,11 +553,11 @@ III Rome used the adjective *germanus* \(from *germen,* offspring\) to mean born
 
 
 
-## XXIII Roman Greece 
+## 23 Roman Greece 
 
 
 
-### I. PLUTARCH
+### 01 PLUTARCH
 
 ROME tried hard to be generous to Greece and did not quite fail. No garrisons were placed in the new province of Achaea; less was exacted from it than its own taxgatherers had claimed before; the city-states were allowed to govern themselves by their old constitutions and laws; and many of them—Athens, Sparta, Plataea, Delphi, and others—were “free cities” exempt from all restrictions except the right to wage foreign or class war.
 
@@ -587,7 +587,7 @@ We must not forget those blessings and comforts which we share with many more, b
 
 
 
-### II. INDIAN SUMMER
+### 02 INDIAN SUMMER
 
 Plutarch exemplifies two movements of his time: the return to religion and the passing renaissance of Greek literature and philosophy. The former was universal, the latter was confined to Athens and the Greek East. Six cities of the Peloponnesus prospered, but contributed little to Greek thought. Western commerce and a busy textile industry kept Patrae alive through Roman and medieval history even to our day. Olympia throve on the leavings of tourists coming to see Pheidias’ *Zeus* or the Olympic games. It is one of the pleasantest aspects of Greek history that these quadrennial contests continued from 776 B.C. to A.D. 394, when Theodosius ended them. As in the days of Prodicus and Herodotus, philosophers and historians came to harangue the crowd assembling for the festival. Dio Chrysostom describes authors reading “their stupid compositions” to transient listeners, poets reciting their verses, rhetoricians thumping the air, and “sophists in great number, like gorgeous peacocks,” coming to blow their wind over the multitude;12 he proved no more silent than the rest. Epictetus pictures the spectators cramped and sweltering in the unshaded stands, burned by the sun or drenched by the rain, but forgetting everything in the tumult and the shouting that marked the final moments of each bout or race.13 The old Nemean, Isthmian, Pythian, and Panathenaic games continued; new ones were added like the Panhellenia of Hadrian; and many of them included competitions in poetry, oratory, or music. “Can you not hear classical music at the great festivals?” asks a character in Lucian.14 Gladiatorial combats were introduced to Greece by the Roman colony at Corinth; thence they spread to other cities until even the Theater of Dionysus was befouled with butchery. Many Greeks—Dio Chrysostom, Lucian, Plutarch—protested against the desecration; Demonax, the Cynic philosopher, begged the Athenians not to allow the innovation until they had thrown down the altar of Pity at Athens;15 but the Roman games continued in Greece till predominantly Christian times.
 
@@ -609,7 +609,7 @@ The dominant philosophy had long since been Stoicism. The rigorous perfectionism
 
 
 
-### III. EPICTETUS
+### 03 EPICTETUS
 
 Epictetus was born at Hierapolis in Phrygia about A.D. 50, a slave woman’s son, and therefore himself a slave. He had little chance of education, for he was passed from one owner and city to another, until he found himself the property of Epaphroditus, a powerful freedman in Nero’s court. He was of feeble health and lame, apparently through the brutality of one of his masters, but he lived the normal threescore years and ten. Epaphroditus allowed him to attend the lectures of Musonius Rufus and later freed him. Epictetus must himself have set up as a teacher in Rome, for when Domitian banished the philosophers Epictetus was among those who fled. He settled in Nicopolis and drew to his lectures there students from many parts. One was Arrian of Nicomedia, later governor of Cappadocia; Arrian took down the words of Epictetus, probably in shorthand, and published them as *Diatribai*—“rubbings” or copies—now on all lists of the world’s best books as the *Discourses.I* It is no dull formal treatise, but a classic of simple speech and bluff humor, intimately expressing a modest and kindly, yet sharp and vigorous character. Epictetus applied his lusty sarcasms to himself and others impartially, and gaily mocked his rough-and-tumble style. He made no complaint when Demonax, hearing that the old bachelor counseled marriage, sarcastically petitioned for his daughter’s hand; he excused himself on the ground that teaching wisdom is as great a service as begetting “two or three pug-nosed children.”24 In later years he took a wife to help him care for an infant that he had rescued from exposure. In those years his fame compassed the Empire, and Hadrian counted him among his friends.
 
@@ -641,7 +641,7 @@ Is it any wonder that Christians like Saint John Chrysostom and Augustine lauded
 
 
 
-### IV. LUCIAN AND THE SKEPTICS
+### 04 LUCIAN AND THE SKEPTICS
 
 Nevertheless, in this final stage of Hellenistic culture, there were skeptics who recalled all the doubts of Protagoras, and a Lucian who laughed at belief with the insolence of Aristippus and almost Plato’s charm. The school of Pyrrho was not dead; Aenesidemus of Cnossus rephrased its denials in the Alexandria of our first century, by propounding the famous “Ten Modes” *\(tropoi\),* or contradictions, that made knowledge impossible.II Towards the end of the second century Sextus Empiricus, of unknown date or place, gave the skeptical philosophy its final formulation in several destructive volumes of which three survive. Sextus takes all the world for his enemy; he divides philosophers into diverse species and slays each breed in turn. He writes with the vigor necessary to an executioner, the good order and clarity characteristic of ancient philosophy, occasional sarcastic humor, and much dreary chopping of logic.
 
@@ -667,11 +667,11 @@ II Some of them: \(1\) The sense organs \(e.g., eyes\) of different animals, eve
 
 
 
-## XXIV The Hellenistic Revival
+## 24 The Hellenistic Revival
 
 
 
-### I. ROMAN EGYPT
+### 01 ROMAN EGYPT
 
 EGYPT should have been the happiest of lands, for not only was the earth freely nourished by the Nile, but the country was the most self-sufficient in the whole Mediterranean basin—rich in cereals and fruits, cutting three crops a year, unexcelled in its industries, exporting to a hundred nations, and seldom disturbed by foreign or civil war. And yet—perhaps for these reasons—“The Egyptians,” Josephus notes, “appear never in all their history to have enjoyed one day of freedom.”1 Their wealth tempted, their semitropical lassitude suffered, one despot or conqueror after another through fifty centuries.
 
@@ -689,7 +689,7 @@ If we may believe Philo,9 forty per cent of the city’s population was Jewish. 
 
 
 
-### II. PHILO
+### 02 PHILO
 
 The leader of the Jewish delegation to Caligula was the philosopher Philo, brother of the arabarch, or manager of the Jewish export trade in Alexandria. Eusebius describes him as belonging to an ancient priestly family.13 We know hardly anything else of his life; but his pious and generous character stands out in the many works that he wrote to expound Judaism to the Greek world. Brought up in a sacerdotal atmosphere, intensely loyal to his people, and yet fascinated by Greek philosophy, he made it the aim of his life to reconcile the Scriptures and customs of the Jews with Greek ideas and above all with the philosophy of “the most holy” Plato. He adopted for his purpose the principle that all events, characters, doctrines, and laws in the Old Testament have an allegorical as well as a literal meaning and symbolize certain moral or psychological truths; by this method he was able to prove anything. He wrote indifferently in Hebrew, but so well in Greek that his admirers said, “Plato writes like Philo.”14
 
@@ -699,7 +699,7 @@ Philo’s Logos was one of the most influential ideas in the history of thought.
 
 
 
-### III. THE PROGRESS OF SCIENCE
+### 03 THE PROGRESS OF SCIENCE
 
 In science Alexandria was the unchallenged head of the Hellenistic world. Claudius Ptolemy must be ranked among the most influential astronomers of antiquity, for despite Copernicus the world is still Ptolemaic in its speech. Born at Ptolemais on the Nile \(whence his name\), he lived most of his life at Alexandria, where he made observations from A.D. 127 to 151. The world remembers him chiefly for his rejection of Aristarchus’ theory that the earth revolves around the sun. This immortal error was enshrined in Ptolemy’s *Mathematiké Syntaxis,* or “Mathematical Arrangement” of the stars. The Arabs referred to the work with a Greek superlative as *Al-megisté,* “The Greatest”; and the Middle Ages corrupted the phrase into *Almagest,* by which the book is known to history. It ruled the skies till Copernicus upset the world. And yet Ptolemy did not claim to do more than systematize the work and observation of previous astronomers, Hipparchus above all. He pictured the universe as spherical and as daily revolving around a spherical, motionless earth. Strange as this view seems to us \(though there is no telling what some future Copernicus will do to our present Ptolemies\), the geocentric hypothesis made it possible to compute the position of the stars and planets more accurately than the heliocentric conception could do in the state of astronomic knowledge at the time.20 Ptolemy suggested further a theory of eccentrics to explain the orbits of the planets, and discovered the evection, or orbital aberration, of the moon. He measured the moon’s distance from the earth by the parallax method still in use, and calculated it as fifty-nine times the earth’s radius. This is approximately our current reckoning; but Ptolemy followed Poseidonius in underestimating the diameter of the earth.
 
@@ -729,7 +729,7 @@ The last creative age of Greek science ended with Ptolemy and Galen. Experiment 
 
 
 
-### IV. POETS IN THE DESERT
+### 04 POETS IN THE DESERT
 
 Across the Red Sea from Egypt lay Arabia. Neither the Pharaohs nor the Achaemenids nor the Seleucids nor the Ptolemies nor the Romans had been able to conquer the mysterious peninsula. Arabia Deserta knew only Arab nomads, but in the southwest a mountain range and its streams gave milder temperatures and fruitful vegetation to Arabia Felix, the Yemen of today. In those recesses the little kingdom of Saba hid, the Sheba of the Bible, so rich in frankincense and myrrh, cassia and cinnamon, aloes and nard, senna and gum and precious stones that the Sabateans could build at Mariaba and elsewhere cities proud with temples, palaces, and colonnades.40 Arab merchants not only sold Arab products at high prices, but carried on a caravan trade with northwestern Asia and an active commerce by sea with Egypt, Parthia, and India. In 25 B.C. Augustus sent Aelius Gallus to absorb the kingdom into the Empire; the legions failed to take Mariaba and returned to Egypt decimated by disease and heat. Augustus contented himself with destroying the Arab port at Adana \(Aden\) and thereby secured control of the trade between Egypt and India.
 
@@ -771,7 +771,7 @@ O Love’s delight, pale Xantho, sing.48
 
 
 
-### V. THE SYRIANS
+### 05 THE SYRIANS
 
 Northward along the coast lay the ancient cities of Phoenicia, part, with Palestine, of the province of Syria. Their industrious workers skilled in handicrafts, their favored position as traditional ports of trade, their rich and subtle merchants sending ships and agents everywhere, had kept them alive through all the vicissitudes of a thousand years. Tyre \(Sur\) had taller dwellings than Rome’s49 and worse slums; it stank with the smell of its dyeing establishments, but it consoled itself with the thought that the whole world bought its richly colored textiles, above all its purple silks. Sidon had probably discovered the art of blowing glass and now specialized in glass and bronze. Berytus \(Beirut\) was distinguished for its schools of medicine, rhetoric, and law; very likely from this university the great jurists Ulpian and Papinian went to Rome.
 
@@ -787,7 +787,7 @@ The general picture of Syria under Roman rule is one of prosperity more continuo
 
 
 
-### VI. ASIA MINOR
+### 06 ASIA MINOR
 
 North of Syria was the client kingdom—later the province—of Commagene, with a populous capital at Samosata, Lucian’s childhood home. Across the Euphrates stood the little realm of Osrhoene; Rome fortified its capital, Edessa \(Urfa\), as a base against Parthia; we shall hear more of it in Christian days. Westward from Syria one passed into Cilicia \(as now into Turkey\) at Alexandria Issi \(Alexandretta\). This, Cicero’s province, was highly civilized along the southern Asia Minor coast, but still barbarous in the Taurus hills. Tarsus \(Tersous\), the capital, was “no mean city,” said its son Saint Paul, but was renowned for its schools and philosophers.
 
@@ -817,7 +817,7 @@ From the Red to the Black Sea a hundred cities flourished under the Roman peace.
 
 
 
-### VII. THE GREAT MITHRIDATES
+### 07 THE GREAT MITHRIDATES
 
 Along the northern shores of Asia Minor sprawled Bithynia and Pontus, mountainous in the interior, but rich in timber and minerals. Here a mixture of Thracians, Greeks, and Iranians overlay an antique Hittite stock. A line of Greco-Thracian kings ruled Bithynia, built a capital at Nicomedia \(Is-nikmid\), and major cities at Prusa and Nicaea \(Is-nik\). About 302 B.C. a Persian noble, piously called Mithridates, carved a kingdom for himself out of Cappadocia and Pontus, and founded a dynasty of virile Hellenizing monarchs, with capitals at Comana Pontica and Sinope. Their rule spread until it impinged upon Roman economic and political interests. The resulting Mithridatic Wars are fitly named from the redoubtable king who united western Asia and European Greece in a revolt which, if it had succeeded, would have changed the face of history.
 
@@ -835,7 +835,7 @@ Faced with war and revolution everywhere, the Senate sold the accumulated gold a
 
 
 
-### VIII. PROSE
+### 08 PROSE
 
 It speaks well for Roman rule that the cities of Asia Minor recovered so rapidly from the intermittent fever of these wars. Nicomedia became the capital of the province of Bithynia-Pontus and later the imperial seat of Diocletian; Nicaea would be immortalized by the most important council in the history of the Christian Church. The two cities so rivaled one another in building that Trajan had to send the younger Pliny to draw them back from bankruptcy. Nicomedia made her offering to literature in Flavius Arrianus, whom we have seen recording the discourses of Epictetus. Governor of Cappadocia for six years, archon of Athens for one, Arrian yet found time to write many histories, of which only the *Anabasis of Alexander* remains, with an appendix of *Indica.* It was written in clear and simple Greek, for Arrian took Xenophon as his exemplar in style as well as life. “This work,” he says, with the bold vanity of the ancients, “is, and has been from my youth up, equivalent to native land, and family, and public office for me; and therefore I do not deem myself unworthy to rank among the greatest authors in the Greek language.”72
 
@@ -855,7 +855,7 @@ Probably what drew people to him was not his fine Attic Greek, but the courage o
 
 
 
-### IX. THE ORIENTAL TIDE
+### 09 THE ORIENTAL TIDE
 
 Religion, which had bided its time and nourished its roots through all the learned or ribald skepticism of the Periclean and Hellenistic periods, now in the second century resumed its immemorial sway as philosophy, baffled by infinity and human hope, confessed its limitations and abdicated its authority. The people themselves had never lost their faith; most of them accepted in outline the Homeric description of the afterlife,82 sacrificed religiously before undertaking a voyage, and still placed an obol in the mouth of the dead to pay his passage across the Styx. Roman statecraft welcomed the aid of established priesthoods and sought popular support by building costly temples to local gods. Throughout Palestine, Syria, and Asia Minor, the wealth of the clergy continued to grow. Hadad and Atargatis were still worshiped by the Syrians and had an awesome shrine at Hierapolis; the resurrection of the god Tammuz was still hailed in the towns of Syria with the cry, “Adonis \[i.e., the Lord\] is risen,” and his ascension into heaven was celebrated in the closing scenes of his festival.83 Similar ceremonies commemorated in Greek ritual the agony, death, and resurrection of Dionysus. From Cappadocia the worship of the goddess Ma had spread into Ionia and Italy; her priests \(called *fanatici* as belonging to the *fanum,* or temple\) danced dizzily to the sound of trumpets and drums, slashed themselves with knives, and sprinkled the goddess and her devotees with their blood.84 The making of new deities went on assiduously; Caesar and the emperors, Antinoüs and many local worthies, were deified \(i.e., canonized\) in life or death. Cross-fertilized by trade and war, pantheons were everywhere in flower, and prayers rose hopefully in a thousand tongues to a thousand gods. Paganism was not one religion; it was a jungle of rival creeds, often merging in eclectic confusion.
 
@@ -889,11 +889,11 @@ III Meleager’s *Stephanos* was combined in our sixth century with the *Musa Pa
 
 
 
-## XXV Rome and Judea 132 B.C.-A.D. 135 
+## 25 Rome and Judea 132 B.C.-A.D. 135 
 
 
 
-### I. PARTHIA
+### 01 PARTHIA
 
 BETWEEN Pontus and the Caucasus rose the troubled mountains of Armenia, on whose crest, story told, Noah’s ark had found a mooring. Through the fertile valleys ran the roads that led from Parthia and Mesopotamia to the Black Sea; hence empires competed for Armenia. The people were Indo-European, akin to the Hittites and the Phrygians, but they had never surrendered their sweeping Anatolian nose. They were a vigorous race, patient in agriculture, skilled in handicraft, unequaled in commercial acumen; they made the best of a difficult terrain and raised enough wealth to keep their kings in luxury if not in power. Darius I, in the Behistun inscription \(521 B.C.\), named Armenia among the satrapies of Persia; later it gave a nominal allegiance to the Seleucids and then alternately to Parthia and Rome; but its remoteness allowed it a practical independence. Its most famous king, Tigranes the Great \(94-56 B.C.\), conquered Cappadocia, added a second capital, Tigranocerta, to Artaxata, and joined Mithridates’ revolt against Rome. When Pompey accepted his apologies he gave the victorious general 6000 talents \($21,600,000\), 10,000 drachmas \($6000\) to each centurion, and fifty to each soldier, in the Roman army.1 Under Caesar, Augustus, and Nero Armenia acknowledged the suzerainty of Rome, and under Trajan it was for a time a Roman province; nevertheless, its culture was Iranian, and its usual orientation was toward Parthia.
 
@@ -907,7 +907,7 @@ On the death of Vologases IV \(A.D. 209\) his sons Vologases V and Artabanus IV 
 
 
 
-### II. THE HASMONEANS
+### 02 THE HASMONEANS
 
 In 143 B.C. Simon Maccabee, taking advantage of the struggles among the Parthians, Seleucids, Egyptians, and Romans, wrested the independence of Judea from the Seleucid king. A popular assembly named him general and high priest of the Second Jewish Commonwealth \(142 B.C.-A.D. 70\), and made the latter office hereditary in his Hasmonean family. Judea became again a theocracy, under the Hasmonean dynasty of priest-kings. It has been a characteristic of Semitic societies that they closely associated the spiritual and temporal powers, in the family and in the state; they would have no sovereign but God.
 
@@ -917,7 +917,7 @@ In 54 B.C. Crassus, on his way to play the part of Pentheus at Ctesiphon, robbed
 
 
 
-### III. HEROD THE GREAT
+### 03 HEROD THE GREAT
 
 His character was typical of an age that had produced so many men of intellect without morals, ability without scruple, and courage without honor. He was in his lesser way the Augustus of Judea: like Augustus he overlaid the chaos of freedom with dictatorial order, beautified his capital with Greek architecture and sculpture, enlarged his realm, made it prosper, achieved more by subtlety than by arms, married widely, was broken by the treachery of his offspring, and knew every good fortune but happiness. Josephus describes him as a man of great physical bravery and skill, a perfect marksman with arrow and javelin, a mighty hunter who in one day caught forty wild beasts, and “such a warrior as could not be withstood.”8 He must have added some charm of personality to these qualities, for he was always able to outtalk or outbribe the enemies who sought to discredit him with Antony, Cleopatra, or Octavian. From every crisis with the Triumvirs he emerged with larger powers and territory than before, until Augustus judged him “too great a soul for so small a dominion,” restored the cities of Hasmonean Palestine to his kingdom, and wished Herod might rule Syria and Egypt too.9 “The Idumean” was a generous as well as a ruthless man, and the benefits he conferred upon his subjects were equaled only by the injuries he did them.
 
@@ -935,7 +935,7 @@ Meanwhile the old king was breaking down with disease and grief. He suffered fro
 
 
 
-### IV. THE LAW AND ITS PROPHETS
+### 04 THE LAW AND ITS PROPHETS
 
 Herod’s will divided his kingdom among three remaining sons. To Philip went the eastern region known as Batanea, containing the cities of Bethsaida, Capitolias, Gerasa, Philadelphia, and Bostra. To Herod Antipas went Peraea \(the land beyond the Jordan\) and, in the north, Galilee, where lay Esdraela, Tiberias, and Nazareth. To Archelaus fell Samaritis, Idumea, and Judea. In this last were many famous cities or towns: Bethlehem, Hebron, Beersheba, Gaza, Gadara, Emmaus, Jamnia, Joppa, Caesarea, Jericho, and Jerusalem. Some Palestinian cities were predominantly Greek, some Syrian; the Gadarene swine attest the non-Jews of Gadara. The gentiles were in the majority in all the coast towns except Joppa and Jamnia, and in the “Decapolis” or ten cities of the Jordan; in the interior the villages were almost entirely Jewish. In this racial division, not unpleasing to Rome, lay the tragedy of Palestine.
 
@@ -961,7 +961,7 @@ The Council gave its second place of honor to Hillel’s rival, the conservative
 
 
 
-### V. THE GREAT EXPECTATION
+### 05 THE GREAT EXPECTATION
 
 The Jewish literature that has come down to us from this period is almost entirely religious. Just as it seemed to the orthodox Hebrew a profanation to make images of the deity, or to adorn his temples with plastic art, so it seemed to him an error to write philosophy or literature for any other ultimate purpose than to praise God and glorify the Law. There were of course many exceptions, of which the pretty story of Susannah may serve as an instance. It tells of a fair Jewess falsely accused of unchastity by two unsatisfied elders, and freed through the skillful cross-examination of witnesses by a youth named Daniel. Even this romance found its way into some editions of the Book of Daniel.
 
@@ -991,7 +991,7 @@ Essentially the movement of thought in Judea was parallel with that in the pagan
 
 
 
-### VI. THE REBELLION
+### 06 THE REBELLION
 
 No people in history has fought so tenaciously for liberty as the Jews, nor any people against such odds. From Judas Maccabee to Simeon Bar Cocheba, and even into our own time, the struggle of the Jews to regain their freedom has often decimated them, but has never broken their spirit or their hope.
 
@@ -1011,7 +1011,7 @@ Resistance continued here and there till 73, but essentially the destruction of 
 
 
 
-### VII. THE DISPERSION
+### 07 THE DISPERSION
 
 The flight or enslavement of a million Jews so accelerated their spread through the Mediterranean that their scholars came to date the *Diaspora* from the destruction of Herod’s Temple. We have seen that this Dispersion had begun six centuries before in the Babylonian Captivity, and had been renewed in the settling of Alexandria. Since fertility was commanded and infanticide sternly forbidden by Jewish piety and law, the expansion of the Jews was due to biological as well as economic causes; Hebrews still played a very minor role in the commerce of the world. Fifty years before the fall of Jerusalem, Strabo, with anti-Semitic exaggeration, reported that “it is hard to find a single place on the habitable earth that has not admitted this tribe of men, and is not possessed by it.”61 Philo, twenty years before the Dispersion, described “the continents . . . full of Jewish settlements, and likewise the . . . islands, and nearly all Babylonia.”62 By A.D. 70 there were thousands of Jews in Seleucia on the Tigris, and in other Parthian cities; they were numerous in Arabia, and crossed thence into Ethiopia; they abounded in Syria and Phoenicia; they had large colonies in Tarsus, Antioch, Miletus, Ephesus, Sardis, Smyrna; they were only less numerous in Delos, Corinth, Athens, Philippi, Patrae, Thessalonica. In the west there were Jewish communities in Carthage, Syracuse, Puteoli, Capua, Pompeii, Rome, even in Horace’s native Venusia. All in all we may reckon 7,000,000 Jews in the Empire—some seven per cent of the population, twice their proportion in the United States of America today.63
 
@@ -1038,5 +1038,4 @@ I The Talmud attributes to Hillel’s reply the additional words, “This is all
 II The word *Messiah* \(Heb. *mahsiah\)* occurs frequently in the Old Testament. The Jews who made the Septuagint *\(ca.* 280 B.C.\) translated it into the Greek *Christos,* the Anointed, he upon whom has been poured a chrism or holy oil.
 
 III Josephus rejoiced to learn that an ulcer had compelled Apion to be circumcized.64
-
 

@@ -369,11 +369,11 @@ Pertinax, prefect
 
 
 
-## XI Augustan Statesmanship 30 B.C. .- A.D . 14
+## 11 Augustan Statesmanship 30 B.C. .- A.D . 14
 
 
 
-### I. THE ROAD TO MONARCHY
+### 01 THE ROAD TO MONARCHY
 
 FROM Alexandria Octavian passed to Asia and continued the reallotment of kingdoms and provinces. Not till the summer of 29 did he reach Italy. There almost all classes welcomed and feted him as a savior and joined in a triumph that lasted three days. The Temple of Janus was closed as a sign that for a moment Mars had had his fill. The lusty peninsula was worn out with twenty years of civil war. Its farms had been neglected, its towns had been sacked or besieged, much of its wealth had been stolen or destroyed. Administration and protection had broken down; robbers made every street unsafe at night; highwaymen roamed the roads, kidnaped travelers, and sold them into slavery. Trade diminished, investment stood still, interest rates soared, property values fell. Morals, which had been loosened by riches and luxury, had not been improved by destitution and chaos, for few conditions are more demoralizing than poverty that comes after wealth. Rome was full of men who had lost their economic footing and then their moral stability: soldiers who had tasted adventure and had learned to kill; citizens who had seen their savings consumed in the taxes and inflation of war and waited vacuously for some returning tide to lift them back to affluence; women dizzy with freedom, multiplying divorces, abortions, and adulteries. Childlessness was spreading as the ideal of a declining vitality; and a shallow sophistication prided itself upon its pessimism and cynicism. This was not a full picture of Rome, but a dangerous disease burning in its blood. On the sea piracy had returned, rejoicing in the suicide of states. Cities and provinces licked their wounds after the successive exactions of Sulla, Lucullus, Pompey, Gabinius, Caesar, Brutus, Cassius, Antony, and Octavian. Greece, which had been the battlefield, was ruined; Egypt was despoiled; the Near East had fed a hundred armies and bribed a thousand generals; their peoples hated Rome as a master who had destroyed their freedom without giving them security or peace. What if some leader should arise among them, discover the exhaustion of Italy, and unite them in another war of liberation against Rome?
 
@@ -397,7 +397,7 @@ The people of Rome seem to have thought for a while that the “restoration” w
 
 
 
-### II. THE NEW ORDER
+### 02 THE NEW ORDER
 
 Let us study this principate government in some detail, for in many ways it was one of the subtlest political achievements in history.
 
@@ -421,7 +421,7 @@ It was a decision costly to the Emperor’s pride but creditable to his judgment
 
 
 
-### III. SATURNIA REGNA
+### 03 SATURNIA REGNA
 
 It could not be said that Augustus had made a desert and called it peace. Within a decade after Actium the Mediterranean knew such economic quickening as no tradition could parallel. The restoration of order was in itself a stimulus to recovery. The renewed safety of the seas, the stability of government, the conservatism of Augustus, the consumption of Egypt’s hoarded treasure, the opening of new mines and mints, the reliability and accelerated circulation of the currency, the easing of congested population into agricultural allotments and colonial settlements—how could prosperity resist so unanimous an invitation? A group of Alexandrian sailors, landing at Puteoli when Augustus was near by, approached him in festal dress and offered him incense as to a deity. It was because of him, they said, that they could voyage in safety, trade in confidence, and live in peace.8
 
@@ -435,7 +435,7 @@ All in all, taxation under the Principate was not oppressive, and until Commodus
 
 
 
-### IV. THE AUGUSTAN REFORMATION
+### 04 THE AUGUSTAN REFORMATION
 
 He destroyed his own happiness by trying to make people good as well as happy; it was an imposition that Rome never forgave him. Moral reform is the most difficult and delicate branch of statesmanship; few rulers have dared to attempt it; most rulers have left it to hypocrites and saints.
 
@@ -459,7 +459,7 @@ In Italian homes the worship of the Emperor’s *genius* became associated with 
 
 
 
-### V. AUGUSTUS HIMSELF
+### 05 AUGUSTUS HIMSELF
 
 What sort of man was this who was heir to Caesar at eighteen, master of the world at thirty-one, ruler of Rome for half a century, and architect of the greatest empire in ancient history? He was at once dull and fascinating; no one more prosaic, yet half the world adored him; a physical weakling not particularly brave, but able to overcome all enemies, regulate kingdoms, and fashion a government that would give the vast realm an unexampled prosperity for two hundred years.
 
@@ -475,7 +475,7 @@ In his senile years, when disappointments had embittered him, and he had grown a
 
 
 
-### VI. THE LAST DAYS OF A GOD
+### 06 THE LAST DAYS OF A GOD
 
 His failures and his tragedies were almost all within his home. By his three wives—Claudia, Scribonia, Livia—he had but one child: Scribonia unwittingly avenged her divorce by giving him Julia. He had hoped that Livia would bear him a son whom he might train and educate for government; but though she had rewarded her first husband with two splendid children—Tiberius and Drusus—her marriage with Augustus proved disappointingly sterile. Otherwise their union was a happy one. She was a woman of stately beauty, firm character, and fine understanding; Augustus rehearsed his most vital measures with her and valued her advice as highly as that of his maturest friends. Asked how she had acquired such influence over him, she replied, “by being scrupulously chaste . . . never meddling with his affairs, and pretending neither to hear of nor to notice the favorites with whom he had amours.”38 She was a model of the old virtues, and perhaps expounded them too persistently. In her leisure she devoted herself to charity, helping parents of large families, providing dowries for poor brides, and maintaining many orphans at her own expense. Her palace itself was almost an orphanage; for there, and in the home of his sister Octavia, Augustus supervised the education of his grandsons, nephews, nieces, and even the six surviving children of Antony. He sent the boys off early to war, saw to it that the girls should learn to spin and weave, and “forbade them to do or say anything except without concealment, and such as might be recorded in the household diary.”39
 
@@ -507,11 +507,11 @@ III Literally, century games, because given only at long intervals.
 
 
 
-## XII The Golden Age 30 B.C. - A.D. l8
+## 12 The Golden Age 30 B.C. - A.D. l8
 
 
 
-### I. THE AUGUSTAN STIMULUS
+### 01 THE AUGUSTAN STIMULUS
 
 IF peace and security are more favorable than war to the production of literature and art, yet war and profound social disturbances turn up the earth about the plants of thought and nourish the seeds that mature in peace. A quiet life does not make great ideas or great men; but the compulsions of crisis, the imperatives of survival, weed out dead things by the roots and quicken the growth of new ideas and ways. Peace after successful war has all the stimulus of a rapid convalescence; men then rejoice at mere being, and sometimes break into song.
 
@@ -527,7 +527,7 @@ Two forces opposed this conscription of letters by the state. One was Horace’s
 
 
 
-### II. VIRGIL
+### 02 VIRGIL
 
 The most lovable of Romans was born in 70 B.C. on a farm near Mantua, where the river Mincio wanders slowly toward the Po. The capital would henceforth give birth to very few great Romans; they would come from Italy in the century that was divided by the birth of Christ, and thereafter from the provinces. Perhaps Virgil’s veins contained some Celtic blood, for Mantua had long been peopled by Gauls; technically he was a Gaul by birth, for it was only twenty-one years later that Cisalpine Gaul received the Roman franchise from Caesar. The man who most eloquently sang the majesty and destiny of Rome would never show the hard masculinity of the Roman stock, but would touch Celtic strings of mysticism, tenderness, and grace rare in the Roman breed.
 
@@ -570,7 +570,7 @@ Dryden considered the *Georgics* “the best poem of the best poet.”14 It shar
 
 
 
-### III. THE AENEID
+### 03 THE AENEID
 
 At first the plan was to sing the battles of Octavian.15 But the supposed descent of his adoptive father from Venus and Aeneas led the poet—perhaps the Emperor—to conceive an epic on the founding of Rome. As the theme developed it came to include, by preview through prophecy, the expansion of Rome into the Augustan empire and peace. It would also show the role of Roman character in these achievements and seek to make the ancient virtues popular; it would picture its hero as reverent of the gods and guided by them, and would fall in with the Augustan reformation of morals and faith. Virgil retired to various lairs in Italy and spent the next ten years \(29-19\) on the *Aeneid.* He wrote slowly, with the devotion of a Flaubert, dictating a few lines in the fresh morning and rewriting them in the afternoon. Augustus waited impatiently for the poem’s completion, repeatedly inquired about its progress, and importuned Virgil to bring him any finished fragment. Virgil put him off as long as he could, but finally read to him the second, fourth, and sixth books. Octavia, Antony’s widow, fainted at the passage describing her son Marcellus, but lately dead.16 The epic was never completed, never finally revised. In 19 B.C.. Virgil visited Greece, met Augustus in Athens, was sunstruck in Megara, started home, and died soon after reaching Brundisium. On his deathbed he begged his friends to destroy the manuscript of his poem, saying that at least three years more would have been necessary to give it finished form. Augustus forbade them to carry out the request.
 
@@ -600,7 +600,7 @@ Two years after his death his executors gave the poem to the world. There were s
 
 
 
-### IV. HORACE
+### 04 HORACE
 
 One of the pleasantest pictures in the world of letters—where jealousy is only less rife than in love—is Virgil introducing Horace to Maecenas. The two poets had met in 40 B.C., when Virgil was thirty and Horace twenty-five. Virgil opened the doors of Maecenas to him a year later, and all three remained fast friends till death.
 
@@ -680,7 +680,7 @@ His last days were clouded with this thought. He had his share of pains—stomac
 
 
 
-### V. LIVY
+### 05 LIVY
 
 Augustan prose achieved no triumphs equal to those of Augustan verse. Oratory subsided as the making of laws and decisions passed in reality if not in form from Senate and assemblies to the secret chambers of the prince. Scholarship continued its quiet course, sheltered from present storms by its ghostly interests. It was only in the writing of history that the age achieved a masterpiece in prose.
 
@@ -696,7 +696,7 @@ His readers did not mind his inaccuracies or his bias. They liked his style and 
 
 
 
-### VI. THE AMOROUS REVOLT
+### 06 THE AMOROUS REVOLT
 
 Meanwhile poetry continued to flourish, but not quite on the lines of Augustus’ desire. Only supreme artists like Virgil or Horace can produce good verse to governmental specifications; greater men would refuse, lesser men are unable to comply. Of the three major sources of poetry—religion, nature, love—two had been brought under imperial sway; the third remained lawless, even in Horace’s *Odes.* Now, mildly in Tibullus and Propertius, recklessly in Ovid, poetry escaped from the bureau of propaganda and staged a rebellion that proceeded with mounting gaiety to a tragic end.
 
@@ -748,11 +748,11 @@ V E.g., *video meliora proboque, deteriora sequor*—“I see and approve the be
 
 
 
-## XIII The Other Side of Monarchy A.D . 14-96 I
+## 13 The Other Side of Monarchy A.D . 14-96 I
 
 
 
-### I. TIBERIUS
+### 01 TIBERIUS
 
 WHEN great men stoop to sentiment the world grows fonder of them; but when sentiment governs policy empires totter. Augustus had chosen Tiberius wisely, but too late. When Tiberius was saving the state with patient generalship the Emperor had almost loved him. “Farewell,” one of his letters ended, “most agreeable of men . . . most valiant of men, most conscientious of commanders.”1 Then the pathos of propinquity blinded Augustus, as later Aurelius; he set Tiberius aside for his pretty grandsons; compelled him to renounce a fortunate marriage to become the cuckold of Julia; resented his resentment, and let him grow old with philosophy in Rhodes. When at last Tiberius reached the principate he was already fifty-five, a disillusioned misanthrope who found no happiness in power.
 
@@ -788,7 +788,7 @@ He was, said Mommsen, “the ablest ruler the Empire ever had.”22 Almost every
 
 
 
-### II. GAIUS
+### 02 GAIUS
 
 The populace celebrated the old Emperor’s passing with cries of “Tiberius to the Tiber\!” and hailed the Senate’s ratification of Gaius Caesar Germanicus as his successor. Born to Agrippina as she was accompanying Germanicus on his northern campaigns, Gaius had been brought up among soldiers, had imitated their dress, and had been affectionately named Caligula, or Little Boot, from the half boot *\(caliga\)* worn in the army. He now announced that he would follow the principles of Augustus in his policy and would co-operate respectfully with the Senate in everything. He distributed among the citizens the 90,000,000 sesterces that Livia and Tiberius had bequeathed them, and added a gift of 300 sesterces to each of the 200,000 recipients of state corn. He restored to the *comitia* the power to choose the magistrates, promised low taxes and rich games, recalled the banished victims of Tiberius, and brought his mother’s ashes piously to Rome. He seemed to be in all ways the opposite of his predecessor—prodigal, cheerful, humane. Within three months of his accession the people had sacrificed 160,000 victims to the gods in gratitude for so charming and beneficent a prince.23
 
@@ -808,7 +808,7 @@ At twenty-nine this god was an old man, worn out by excesses, probably venereall
 
 
 
-### III. CLAUDIUS
+### 03 CLAUDIUS
 
 Caligula had left the Empire in a dangerous condition: the Treasury empty, the Senate decimated, the people alienated, Mauretania in rebellion, Judea in arms at his insistence on placing his cult statue in the Temple of Jerusalem. No one knew where to find a ruler fit to face these problems. The Praetorians, coming upon the apparently imbecile Claudius hiding in a corner, proclaimed him *imperator.* The Senate, in terror of the army, and perhaps relieved by the prospect of dealing with a harmless pedant instead of a reckless lunatic, confirmed the choice of the Guard; and Tiberius Claudius Caesar Augustus Germanicus hesitantly mounted the throne.
 
@@ -836,7 +836,7 @@ After five years of his fifth marriage Claudius awakened to what Agrippina was d
 
 
 
-### IV. NERO
+### 04 NERO
 
 On his father’s side Nero belonged to the Domitii Ahenobarbi—so named from the bronzelike beards that ran in the family. For five hundred years they had been famous in Rome for ability, recklessness, haughtiness, courage, and cruelty. Nero’s paternal grandfather had a passion for games and the stage; drove a chariot in the races, spent money with open hand on wild beasts and gladiatorial shows, and had to be reproved by Augustus for barbarous treatment of his employees and slaves. He married Antonia, daughter of Antony and Octavia. Their son Cnaeus Domitius enhanced the reputation of the family by adultery, incest, brutality, and treason. In A.D. 28 he married the second Agrippina, then thirteen years old. Knowing his wife’s ancestry and his own, he concluded that “no good man can possibly be born from us.”62 They named their only child Lucius, and added the cognomen Nero, meaning, in the Sabine tongue, valiant and strong.
 
@@ -884,7 +884,7 @@ As a new day dawned he heard the clatter of horses: the Senate’s soldiers had 
 
 
 
-### V. THE THREE EMPERORS
+### 05 THE THREE EMPERORS
 
 Servius Sulpicius Galba reached Rome in June of 68. He was of noble birth, for he traced his lineage on his father’s side to Jupiter, and on his mother’s to Pasiphaë, wife of Minos and the bull. In this year of his exaltation he was already bald, and his hands and feet were so crooked with gout that he could not wear a shoe or hold a book.90 He had the usual vices, normal and abnormal, but it was not these that made his reign so brief. What shocked army and populace were his economy of the public funds and his strict administration of justice.91 When he ruled that those who had received gifts or pensions from Nero must return nine tenths to the Treasury, a thousand new enemies arose, and Galba’s days ran out.
 
@@ -894,7 +894,7 @@ It does not speak well for the Roman military system that so senile a man as Gal
 
 
 
-### VI. VESPASIAN
+### 06 VESPASIAN
 
 What a relief to meet a man of sense, ability, and honor\! Vespasian, busy directing the war against Judea, took his time in coming to occupy the dangerous eminence that his soldiers had won for him, and which the Senate hurriedly confirmed. When he arrived \(October, 70\), he set himself with inspiring energy to restore order to a society disturbed in every aspect of its life. Perceiving that he would have to repeat the labors of Augustus, he modeled his behavior and policy upon those of that prince. He made his peace with the Senate and re-established constitutional government; he freed or recalled those who had been convicted of *lèse-majesté* under Nero, Galba, Otho, and Vitellius; he reorganized the army, limited the number and power of the Praetorian Guard, appointed competent generals to suppress revolts in the provinces, and was soon able to close the Temple of Janus as a sign and pledge of peace.
 
@@ -912,7 +912,7 @@ In 79 Vespasian again visited Reate. While in the Sabine country he drank copiou
 
 
 
-### VII. TITUS
+### 07 TITUS
 
 His older son, named like himself Titus Flavius Vespasianus, was the most fortunate of emperors. Titus died in the second year of his rule and the forty-second of his age, while still “the darling of mankind”; time did not suffice him for the corruptions of power or the disillusionment of desire. As a youth he had distinguished himself in ruthless war and tarnished his name with loose living; now, instead of letting omnipotence intoxicate him, he reformed his morals and made his government a model of wisdom and honor. His greatest fault was uncontrollable generosity. He counted that day lost on which he had not made someone happy with a gift; he spent too much on shows and games; and he left the replenished Treasury almost as low as his father had found it. He completed the Colosseum and built another municipal bath. No one suffered capital punishment during his brief reign; on the contrary, he had informers flogged and banished. He swore that he would rather be killed than kill. When two patricians were detected in a conspiracy to depose him he contented himself with sending them a warning; then he dispatched a courier to relieve the anxiety of a conspirator’s mother by telling her that her son was safe.
 
@@ -920,7 +920,7 @@ His misfortunes were disasters over which he could have little control. A three-
 
 
 
-### VIII. DOMITIAN
+### 08 DOMITIAN
 
 Of Domitian it is harder to paint an objective portrait than even of Nero. Our chief sources for his reign are Tacitus and the younger Pliny; they prospered under him, but belonged to the senatorial party that engaged with him in a war almost of mutual extermination. To set against these hostile witnesses we have the poets Statius and Martial, who ate or sought Domitian’s bread and literally praised him to the skies. Perhaps all four were right, for the last of the Flavians, like many of the Julio-Claudians, began like Gabriel and ended like Lucifer. In this respect Domitian’s soul walked with his body: in youth he was modest, graceful, handsome, tall; in later years he had “a protruding belly, spindle legs, and a bald head”—though he had written a book *On the Care of the Hair.103* In adolescence he composed poetry; in obsolescence he distrusted his own prose and let others write his speeches and proclamations. He might have been happier had not Titus been his brother; but only the noblest spirits can bear with equanimity the success of their friends. Domitian’s jealousy soured into a taciturn gloom, then into secret machinations against his brother; Titus had to beg his father to forgive the younger son. When Vespasian died, Domitian claimed that he had been left partner in the imperial power but that the Emperor’s will had been tampered with. Titus replied by asking him to be his partner and successor; Domitian refused, and continued to plot. When Titus fell ill, says Dio Cassius, Domitian hastened his death by packing him about with snow.104 We cannot assess the truth of these stories, nor of those tales of sexual license that have come down to us—that Domitian swam with prostitutes, made the daughter of Titus one of his concubines, and “was most profligate and lewd toward women and boys alike.”105 All Latin historiography is present politics, a partisan blow struck for contemporary ends.
 
@@ -964,11 +964,11 @@ VII The figure given by Suetonius is often rejected as incredible; but probably 
 
 
 
-## XIV The Silver Age A.D. 14-96 
+## 14 The Silver Age A.D. 14-96 
 
 
 
-### I. THE DILETTANTES
+### 01 THE DILETTANTES
 
 TRADITION has given to Latin letters from A.D. 14 to 117 the name of Silver Age, implying a fall from the cultural excellence of the Augustan Age. Tradition is the voice of time, and time is the medium of selection; a cautious mind will respect their verdict, for only youth knows better than twenty centuries. We may be permitted, however, to suspend judgment, to give Lucan, Petronius, Seneca, the elder Pliny, Celsus, Statius, Martial, Quintilian—and, in later chapters, Tacitus, Juvenal, Pliny the Younger, and Epictetus—an unbiased hearing, and enjoy them as if we had never heard that they belonged to a decadent period. In every epoch something is decaying and something is growing. In epigram, satire, the novel, history, and philosophy the Silver Age marks the zenith of Roman literature, as it represents in realistic sculpture and mass architecture the climax of Roman art.
 
@@ -980,7 +980,7 @@ Terror and poetry met in the life of Lucan. The older Seneca was his grandfather
 
 
 
-### II. PETRONIUS
+### 02 PETRONIUS
 
 We are not certain—it is only the general opinion—that the Petronius whose *Satyricon* still finds many readers was the Caius Petronius who died by Nero’s orders a year after Lucan. The book itself contains not a word to serve as a clue; and Tacitus, who describes the *arbiter elegantiarum* with pithy eloquence, makes no mention of the disreputable masterpiece. Some forty epigrams are ascribed to a Petronius, including a line that almost sums up Lucretius: *primus in orbe deos fecit timor—“it* was fear that first in the world made gods”;3 but these fragments too are silent about the author’s identity.
 
@@ -1004,7 +1004,7 @@ It is a powerful and savage satire; realistic only in its details, and probably 
 
 
 
-### III. THE PHILOSOPHERS
+### 03 THE PHILOSOPHERS
 
 In this loose and complex age, when freedom was so limited and life was so free, philosophy flourished alongside of sensuality, and the two were not above joining hands. The decay of the native religion had left a moral vacuum which philosophy sought to fill. Parents sent their sons, and themselves often went, to hear the lectures of men who offered to provide a rational code of civilized conduct, or a formal dress for naked desire. Those who could afford it paid philosophers to live with them, partly as educators, partly as spiritual counselors, partly as learned company; so Augustus had Areus, consulted him on almost everything, and for his sake \(if we may believe a ruler\) was lenient to Alexandria. When Drusus died Livia called in “her husband’s philosopher”—so Seneca phrases it—“to help her bear her grief.”9 Nero, Trajan, and of course Aurelius had philosophers residing with them at court, as kings have chaplains now. In their last moments men would summon philosophers to chart their passing, as centuries later they would ask for a priest.10
 
@@ -1020,7 +1020,7 @@ Roman Stoicism had at first profited from the Principate; the limitations on pol
 
 
 
-### IV. SENECA
+### 04 SENECA
 
 The Stoic philosophy found its most doubtful expression in the life, its most perfect expression in the writings, of Lucius Annaeus Seneca. Born at Corduba about 4 B.C., he was soon taken to Rome, and received all the education available there. He imbibed rhetoric from his father, Stoicism from Attalus, Pythagoreanism from Sotion, and practical politics from his aunt’s husband, the Roman governor of Egypt. He tried vegetarianism for a year, then gave it up, but remained always abstemious in food and drink; he was a millionaire in his surroundings rather than in his habits. He suffered so much from asthma and weak lungs that he often contemplated suicide. He practiced law, and was chosen quaestor about A.D. 33. Two years later he married Pompeia Paulina, with whom he lived in remarkable continuity until his death.
 
@@ -1056,7 +1056,7 @@ Death glorified Seneca and made one generation forget his poses and his inconsis
 
 
 
-### V. ROMAN SCIENCE
+### 05 ROMAN SCIENCE
 
 Therefore we have given him too much space; nevertheless, we have not finished with him yet, for he was also a scientist. In those fertile years between his retirement and his death he amused himself with *Quaestiones Naturales,* and sought natural explanations of rain, hail, snow, wind, comets, rainbows, earthquakes, rivers, springs. In his drama *Medea* he had suggested the existence of another continent beyond the Atlantic.60 With similar intuition, contemplating the overwhelming multitude of stars, he wrote, “How many an orb, moving in the depths of space, has never yet reached the eyes of men\!”61 And he adds, clairvoyantly, “How many things our sons will learn that we cannot now suspect\!—what others await centuries when our names will be forgotten\! . . . Our descendants will marvel at our ignorance.”62 We do. Seneca, though always eloquent, adds little to Aristotle and Aratus, and borrows abundantly from Poseidonius. He believes in divination despite Cicero, lapses into ludicrous teleology despite Lucretius, and interrupts his science at every turn to inculcate morality; he passes skillfully from mussels to luxury, and from comets to degeneration. The Fathers of the Church liked this mixture of meteorology and morals, and made the *Quaestiones Naturales* the most popular textbook of science in the Middle Ages.
 
@@ -1076,7 +1076,7 @@ The *Natural History* is a lasting monument to Roman ignorance. Pliny gathers su
 
 
 
-### VI. ROMAN MEDICINE
+### 06 ROMAN MEDICINE
 
 They did better in medicine. Medical science too they borrowed from the Greeks, but they formulated it well, and applied it ably to personal and public hygiene. Rome, almost surrounded by marshes, and subject to mephitic floods, had particular need of public sanitation. About the second century B.C. we hear of malaria in Rome; the anopheles mosquito had settled down in the Pontine swamps.95 Gout spread as luxury increased; the younger Pliny tells how his friend Corellius Rufus suffered its pains from his thirty-third to his sixty-seventh year before committing suicide, just to have the pleasure of outliving by one day “that brigand Domitian.”96 Some passages in the Roman satirists suggest the appearance of syphilis in the first century A.D.97 Great epidemics swept central Italy in 23 B.C., A.D. 65, 79, and *166.*
 
@@ -1092,7 +1092,7 @@ Of the known medical writers in this age only one was a Roman, and he was not a 
 
 
 
-### VII. QUINTILIAN
+### 07 QUINTILIAN
 
 When Vespasian established a state professorship of rhetoric in Rome he appointed to it a man who, like so many authors of this Silver Age, was of Spanish birth. Marcus Fabius Quintilianus was born at Calagurris \(A.D. 35?\), went to Rome to study oratory, and opened a school of rhetoric there which numbered Tacitus and the younger Pliny among its pupils. Juvenal describes him in his prime as handsome, noble, wise, well bred, with a fine voice and delivery, and a senatorial dignity. In old age he retired to write for the guidance of his son the classic treatment of his subject, the *Institutio Oratoria* \(96\).
 
@@ -1112,7 +1112,7 @@ To all this excellent counsel Quintilian adds, in his twelfth book, the best lit
 
 
 
-### VIII. STATIUS AND MARTIAL
+### 08 STATIUS AND MARTIAL
 
 We have left to the last two poets who belonged to the same epoch, sought the favor of the same emperor and the same patrons, and yet never mention each other: one the purest, the other the coarsest, poet in the history of imperial Rome. Publius Papinius Statius was the son of a Neapolitan poet and grammarian; his environment and his education gave him everything but money and genius. He lisped in numbers, startled *salons* with poetical improvisations, and wrote an epic, the *Thebaid,* on the war of the Seven against Thebes. We cannot read it today, for its movement is obstructed with dead gods, and its smooth verses have an overpowering *virtus dormitiva.* But his contemporaries liked it; crowds gathered to hear him recite it in a Naples theater; they understood his mythological machinery, welcomed the delicacy of his sentiment, and found that his lines ran trippingly on the tongue. The judges in the Alban poetry contest gave him the first prize; rich men became his friends and helped him stave off penury;124 Domitian himself invited him to dinner in the *domus Flavia,* and Statius repaid him by describing the palace as heaven and the Emperor as god.
 
@@ -1149,11 +1149,11 @@ II Non amo te, Sabidi, nee possum dicere quare; Hoc tantum possum dicere, non am
 
 
 
-## XV Rome at Work A.D. 14-96
+## 15 Rome at Work A.D. 14-96
 
 
 
-### I. THE SOWERS
+### 01 THE SOWERS
 
 TO the Silver Age belongs the classic Roman work on agriculture—the *De Re Rustica* \(65\) of Junius Columella. Like Quintilian, Martial, and the Senecas, he came from Spain; he farmed several estates in Italy and retired to a residence in Rome. The best lands, he found, were taken up by the villas and grounds of the rich; the next best by olive orchards and vineyards; only inferior soils were left for tillage. “We have abandoned the husbanding of our soil to our lowest slaves, and they treat it like barbarians.” The freemen of Italy, he thought, were degenerating in cities when they should have been hardening themselves by working the earth; “we ply our hands in circuses and theaters rather than among crops and vines.” Columella loved the soil, and felt that the physical culture of the earth is saner than the literary culture of the town; farming “is a blood relative of wisdom” *\(consanguinea sapientiae\).* To lure men back to the fields he adorned his subject with polished Latin, and when he came to speak of gardens and flowers he fell into enthusiastic verse.
 
@@ -1167,7 +1167,7 @@ A large part of the peninsula was given over to grazing. The cheapest soils and 
 
 
 
-### II. THE ARTISANS
+### 02 THE ARTISANS
 
 There was not in Roman life—and perhaps there would not be in a healthy economy—so geographical a division between agriculture and industry as in our modern states. The ancient rural home—cottage, villa, or estate—was literally a manufactory, where the hands of men carried on a dozen vital industries, and the skill of women filled the house and its environs with a score of wholesome arts. There the woods were turned into shelter, fuel, and furniture, cattle were slain and dressed, grain was milled and baked, oil and wine were pressed, food was prepared and preserved, wool and flax were cleaned and woven; sometimes clay was fired into vessels, bricks, and tiles, and metal was beaten into tools; life there had an educative fullness and variety that come to few of us in our time of wider movement and narrowing specialties. Nor was this diversity of occupation the sign of a poor and primitive economy; the wealthiest households were the most self-sufficient, and prided themselves on making the largest part of what they needed. A family was an organization of economic helpmates engaged in the united agriculture and industry of a home.
 
@@ -1181,7 +1181,7 @@ The factory production of glass, brick, tiles, pottery, and metalware does not w
 
 
 
-### III. THE CARRIERS
+### 03 THE CARRIERS
 
 From Caesar to Commodus wheeled vehicles were forbidden in Rome by day; people then walked, or were carried in slave-borne chairs or litters. For longer distances they traveled on horseback or in horse-drawn carriages or chariots. Travel by public stagecoach averaged some sixty miles a day. Caesar once rode by carriage 800 miles in eight days; messengers bearing the news of Nero’s death to Galba in Spain covered 332 miles in thirty-six hours; Tiberius, hurrying day and night, rode in three days 600 miles to stand beside his dying brother. The public post, by carriage or horse at all hours, averaged one hundred miles a day. Augustus had modeled it on the Persian system, as indispensable to imperial administration. It was called *cursus publicus* as serving the *res publica,* or commonwealth, by carrying official correspondence. Private individuals could use it only by rare and special permission through a government *diploma* \(“double-folded”\) or passport entitling the bearer to certain privileges and introducing him en route to persons of diplomatic importance. A more rapid means of communication was sometimes arranged by semaphores flashing signals from point to point; by this primitive telegraph the arrival of the grain ships at Puteoli was quickly made known to worried Rome. Nonofficial correspondence went by special courier or merchants or traveling friends; some traces suggest the existence, under the Empire, of private companies arranging to transmit private mail. Fewer letters were written than now, and better. Nevertheless, the movement of intelligence over western and southern Europe was as rapid in Caesar’s day as at any time before the railway. In 54 B.C.. Caesar’s letter from Britain reached Cicero at Rome in twenty-nine days; in 1834 Sir Robert Peel, hurrying from Rome to London, required thirty days.20
 
@@ -1197,7 +1197,7 @@ Passenger schedules were largely indefinite, as sailings were determined by weat
 
 
 
-### IV. THE ENGINEERS
+### 04 THE ENGINEERS
 
 The ships and roads that carried goods, the bridges that bound the roads, the harbors and docks that received the ships, the aqueducts that brought clean water to Rome, the sewers that drained the rural marshes and the city’s waste, were the work of Roman, Greek, and Syrian engineers operating with armies of free labor, legionaries, and slaves. They raised or drew heavy loads or stones by pulleys on cranes or vertical beams, worked by windlasses on treadmills turned by animals or men.35 They banked the treacherous Tiber with walls set back in three stages, so that low water would not expose the muddy bed.II They dredged a multiple harbor at Ostia for Claudius, Nero, and Trajan, opened lesser havens at Marseilles, Puteoli, Misenum, Carthage, Brundisium, and Ravenna, and renewed the greatest of all at Alexandria. They emptied the Fucine Lake and reclaimed its bed for cultivation by boring a tunnel through a mountain of rock. They lined the subsoil of Rome with sewers of concrete, brick, and tile which lasted for hundreds of years. They drained the swamps of Campania sufficiently to make it habitable, for many sumptuous palaces are indicated by the ruins there.36III They executed the astonishing public works by which Caesar and the emperors mitigated unemployment and beautified Rome.
 
@@ -1211,7 +1211,7 @@ At the head of the water department at the close of the first century was Sextus
 
 
 
-### V. THE TRADERS
+### 05 THE TRADERS
 
 The improvement of government and transport expanded Mediterranean trade to an unprecedented amplitude. At one end of the busy process of exchange were peddlers hawking through the countryside everything from sulphur matches to costly imported silks; wandering auctioneers who served also as town criers and advertised lost goods and runaway slaves; daily markets and periodical fairs; shopkeepers haggling with customers, cheating with false or tipped scales, and keeping a tangential eye for the aedile’s inspectors of weights and measures. A little higher in the commercial hierarchy were shops that manufactured their own merchandise; these were the backbone of both industry and trade. At or near the ports were wholesalers *\(magnarii\)* who sold, to retailers or consumers, goods recently brought in from abroad; sometimes the owner or captain of a vessel would sell his cargo directly from the deck.
 
@@ -1223,7 +1223,7 @@ This immense trade produced prosperity for two centuries, but its unsound basis 
 
 
 
-### VI. THE BANKERS
+### 06 THE BANKERS
 
 How were production and commerce financed? First by the maintenance of a comparatively reliable currency internationally honored. All Roman coins had suffered gradual depreciation since the First Punic War, for the Treasury had found it convenient to pay off governmental war debts by permitting the inflation that naturally comes from the multiplication of money and the diminution of goods. The as, originally a pound of copper, had been reduced to two ounces in 241, one ounce in 202, half an ounce in 87 B.C., and a quarter ounce in A.D. 60. During the final century of the Republic the generals had issued their own coinage, usually in *aurei,* gold coins, normally worth one hundred sesterces. From this military coinage that of the emperors was descended, and the emperors followed Caesar’s custom of stamping their effigies on their issues as symbols of the state’s guarantee. The sesterce was now made from copper instead of silver and was revalued at four asses.VI Nero lowered the silver content of the denarius to ninety per cent of its former quantity, Trajan to eighty-five per cent, Aurelius to seventy-five, Commodus to seventy, Septimius Severus to fifty. Nero reduced the aureus from one fortieth of a pound of gold to one forty-fifth, Caracalla to one fiftieth. A general rise of prices accompanied these depreciations, but income seems to have risen commensurately until Aurelius; perhaps this controlled inflation was a simple way of relieving debtors at the expense of creditors whose superior ability and opportunity, unchecked, would have concentrated wealth to the point of economic coagulation and political revolution. Despite these changes we must consider the Roman fiscal system one of the most successful and stable in history. For two centuries a single monetary standard was honored throughout the Empire; and with this stable medium investment and trade flourished as never before in the memory of men.
 
@@ -1233,7 +1233,7 @@ The famous “panic” of A.D. 33 illustrates the development and complex interd
 
 
 
-### VII. THE CLASSES
+### 07 THE CLASSES
 
 Nearly everybody in Rome worshiped money with mad pursuit, and all but the bankers denounced it. “How little you know the age you live in,” says a god in Ovid, “if you fancy that honey is sweeter than cash in hand\!”51—and a century later Juvenal sarcastically hails the *sanctissima divitiarum maiestas,* “the most holy majesty of wealth.” To the end of the Empire Roman law forbade the Senatorial class to invest in commerce or industry; and though they evaded the prohibition by letting their freedmen invest for them, they despised their proxies and upheld rule by birth as the sole alternative to rule by money, or myths, or the sword. After all the revolutions and the decimations the old class divisions remained, with brand-new titles: members of the Senatorial and equestrian orders, magistrates and officials, were called *honestiores,* i.e., “men of honors” or offices; all the rest were *humiliores,* “lowly,” or *tenuiores,* “weak.” A sense of honor often mingled with the proud gravity of the senator: he served in a succession of public posts without pay and at much personal expense; he administered important functions with a fair degree of competence and integrity; he provided for public games, helped his clients, freed some of his slaves, and shared a part of his fortune with the people through benefactions before or after his death. Because of the obligations his position entailed, he was required to have a million sesterces to enter or remain in the Senatorial class.
 
@@ -1253,7 +1253,7 @@ In the last century of the Republic demagogues of all orders discovered that man
 
 
 
-### VIII. THE ECONOMY AND THE STATE
+### 08 THE ECONOMY AND THE STATE
 
 How far did the government, under the Empire, attempt to control the economic life? It tried, and largely failed, to restore peasant proprietorship; here the emperors were more enlightened than the Senate, which was dominated by the owners of the latifundia. Domitian sought to encourage the planting of cereals in Italy, but without success; in consequence Italy was always in fear of starvation. Vespasian forced the Senate to accept him as emperor by holding Egypt, then the chief source of Italy’s wheat; Septimius Severus would do the same by seizing north Africa. The state had to assure, and therefore supervise, the importation and distribution of grain; it offered privileges to merchants bringing grain to Italy; Claudius guaranteed them against loss, and Nero freed their ships from the property tax. The delay or wrecking of the grain fleet was now the only cause that could stir the Roman populace to revolt.
 
@@ -1281,11 +1281,11 @@ VIII In referring to the period after Nero, Roman currency will be equated at tw
 
 
 
-## XVI Rome and Its Art 30 B.C.-A.D .96
+## 16 Rome and Its Art 30 B.C.-A.D .96
 
 
 
-### I. THE DEBT TO GREECE
+### 01 THE DEBT TO GREECE
 
 THE Romans were not of themselves an artistic people. Before Augustus they were warriors, after him they were rulers; they counted the establishment of order and security through government a greater good and nobler task than the creation or enjoyment of beauty. They paid great sums for the works of dead masters, but looked down upon living artists as menials. “While we adore images,” said the kindly Seneca, “we despise those who fashion them.”1 Only law and politics, and, of manual arts, only agriculture \(by proxy\), seemed honorable ways of life. Barring the architects, most artists in Rome were Greek slaves or freedmen or hirelings; nearly all worked with their hands and were classed as artisans; Latin authors seldom thought of recording their lives or their names. Hence Roman art is almost wholly anonymous; no vivid personalities humanize its history as Myron, Pheidias, Praxiteles, and Protogenes light up the aesthetic story of Greece. Here the historian is constrained to speak of things, not men, to catalogue coins, vases, statues, reliefs, pictures, and buildings in the desperate hope that their accumulation may laboriously convey the crowded majesty of Rome. The products of art appeal to the soul through eye or ear or hand rather than through the intellect; their beauty fades when it is diluted into ideas and words. The universe of thought is only one of many worlds; each sense has its own; each art has therefore its characteristic medium, which cannot be translated into speech. Even an artist writes about art in vain.
 
@@ -1295,7 +1295,7 @@ All this is half the truth. In one aspect, as we shall see, the history of Roman
 
 
 
-### II. THE TOILERS’ ROME
+### 02 THE TOILERS’ ROME
 
 The ancient traveler bent on making a tour of Flavian Rome, and coming northward up the Tiber from Ostia, would first of all have noted the swiftness of the muddy current, carrying along the soil of hills and valleys to the sea. In this simple fact lay the leisurely tragedy of erosion, the difficulty of two-way commerce on the river, the periodical silting of the Tiber’s mouth, and the floods that almost every spring inundated the lower levels of Rome, confined the residents to upper stories reached by boats, and often destroyed the corn stored in granaries on the wharves. When the waters fell they carried houses to ruin, and men and animals to death.2
 
@@ -1315,7 +1315,7 @@ In such shops the artists of Italy did their work—all but the greatest of them
 
 
 
-### III. THE HOMES OF THE GREAT
+### 03 THE HOMES OF THE GREAT
 
 The visitor seeking to study the dwellings of the middle class would have found them away from the city’s center on the main diverging roads. Their brick-and-stucco exteriors were still built, as before, in the plain and solid style dictated by insecurity and heat; the Roman bourgeois wasted no art on passers-by. Few houses rose to more than two stories. Cellars were rare; roofs sparkled with red tiles; windows were fitted with shutters or, occasionally, panes of glass. The entrance was usually a double door, each half turning on metal pivots. Floors were of concrete or tile, often of mosaic squares; there were no carpets. Around the central atrium were grouped the main rooms of the house: this is the architectural origin of the cloister and the college quadrangle. In the richer houses one or more rooms would be used for bathing, usually in tubs much like our own. Plumbing was carried by the Romans to an excellence unmatched before the twentieth century. Lead pipes brought water from the aqueducts and mains into most tenements and homes; fittings and stopcocks were of bronze, and some were molded into highly ornamental designs.10 Leaders and gutters of lead carried rain from the roof. Most rooms were heated, if at all, by portable charcoal braziers; a few homes, many villas and palaces, and the public baths enjoyed central heating from wood- or charcoal-burning furnaces supplying hot air to various rooms through tile pipes or passages in floors and walls.II
 
@@ -1331,7 +1331,7 @@ Domitian shared Nero’s architectural madness. For him Rabirius raised the *dom
 
 
 
-### IV. THE ARTS OF DECORATION
+### 04 THE ARTS OF DECORATION
 
 In these palaces, and in the homes of the rich, a hundred arts were employed to make everything if not beautiful, at least expensive. The floors were often of polychrome marble, or mosaics whose patient combination of tiny varicolored cubes *\(tesserae\)* resulted in paintings of remarkable realism and permanence. Furniture was less abundant and comfortable than among ourselves, but of generally superior design and workmanship. Tables, chairs, benches, couches, beds, lamps, and utensils were made of lasting materials, and lavishly adorned; the best wood, ivory, marble, bronze, silver, and gold were carefully turned and finished, decorated with plant or animal forms, or inlaid with ivory, tortoise shell, chased bronze, or precious stones. Tables were sometimes cut from costly cypress or citrus woods; some were of gold or silver; many were of marble or bronze. Chairs were of every sort from folding stool to throne, but less calculated than ours to deform the spine. Beds were of wood or metal, with slim but sturdy legs often ending in an animal’s head or foot; a bronze web, instead of a spring, supported a mattress filled with straw or wool. Bronze tripods of elegant form took the place of our end tables; and here and there were cabinets with pigeonholes for rolled books. Bronze braziers warmed the rooms, and bronze lamps lighted them. Mirrors too were of bronze, highly polished, embossed or engraved with floral or mythical designs; some were made horizontally or vertically convex or concave to distort reflections into a humorous slenderness or rotundity.17
 
@@ -1345,7 +1345,7 @@ From pottery the workers of Cumae, Liternum, and Aquileia turned to the producti
 
 
 
-### V. SCULPTURE
+### 05 SCULPTURE
 
 Pottery passed into sculpture through baked clay—terra-cotta reliefs and statuettes, toys, imitations of fruit, grapes, fish—at last full-sized statues. Glazed terra cotta—majolica—abounded in the ruins of Pompeii. Temple pediments and eaves were adorned with terra-cotta palmettes, acroteria, gargoyles, and reliefs. The Greeks laughed at these ornaments, and under the Empire they went out of fashion; Augustus was no friend of clay.
 
@@ -1367,7 +1367,7 @@ When the artist left the palace and roamed the streets he could give free play t
 
 
 
-### VI. PAINTING
+### 06 PAINTING
 
 The ancient visitor would have found painting even more popular than sculpture in Rome’s temples and dwellings, porticoes and squares. He would have come upon many works of old masters there—Polygnotus, Zeuxis, Apelles, Protogenes, and others—as dear to the opulent Empire as the paintings of the Renaissance are to rich America; and he would have seen in greater abundance, through their better preservation, the products of Alexandrian and Roman schools. The art was old in Italy, where every wall craved ornament. Once even Roman nobles had practiced it; but the Hellenistic invasion had made painting Greek and servile, and at last Valerius Maximus marveled that Fabius Pictor should have stooped to paint murals in the Temple of Health.24 There were exceptions: toward the end of the Republic Arellius made a name for himself by hiring prostitutes to pose for his goddesses; in the time of Augustus a dumb aristocrat, Quintus Pedius, took up painting because his defect closed most professions to him; and Nero employed for the interior of his Golden House one Amulius, who “painted with the greatest gravity, always in his toga.”25 But such men were *rari nantes* in the crowd of Greeks who, at Rome and Pompeii and throughout the peninsula, made copies or variations of Greek paintings on Greek or Egyptian themes.
 
@@ -1387,7 +1387,7 @@ Roman painting laid no claim to originality; Greek artists carried with them eve
 
 
 
-### VII. ARCHITECTURE
+### 07 ARCHITECTURE
 
 #### 1. Principles, Materials, and Forms
 
@@ -1453,11 +1453,11 @@ IX The Roman baths provided models for many modern structures faced with like pr
 
 
 
-## XVII Epicurean Rome 30 B.C.-A.D . 96
+## 17 Epicurean Rome 30 B.C.-A.D . 96
 
 
 
-### I. THE PEOPLE
+### 01 THE PEOPLE
 
 LET us enter these dwellings, temples, theaters, and baths, and see how these Romans lived; we shall find them more interesting than their art. We must at the outset recall that by Nero’s time they were only geographically Roman. The conditions that Augustus had failed to check—celibacy, childlessness, abortion, and infanticide among the older stocks, manumission and comparative fertility among the new—had transformed the racial character, the moral temper, even the physiognomy, of the Roman people.
 
@@ -1475,7 +1475,7 @@ There were elements of nobility in this motley crowd. It showed its contempt of 
 
 
 
-### II. EDUCATION
+### 02 EDUCATION
 
 We do not know much of Roman childhood, but we can judge from Roman art and epitaphs that when children came they were loved not wisely but too well. Juvenal interrupts his wrath to write a tender passage on the good examples we must place before our children’s eyes, the evil sights and sounds we must keep from them, the respect that we should show them even in the excesses of our love.27 Favorinus, in a discourse premimicking Rousseau, begged mothers to nurse their babes.28 Seneca and Plutarch spoke to the same effect, which was slight indeed; wet-nursing was the rule in all families that could afford it, with no evident tragedies ensuing.IV
 
@@ -1493,7 +1493,7 @@ By Vespasian’s time the schools of rhetoric had so grown in number and influen
 
 
 
-### III. THE SEXES
+### 03 THE SEXES
 
 The moral life of youth was carefully guarded in the girl, leniently supervised in the young man. The Roman, like the Greek, readily condoned the resort of men to prostitutes. The profession was legalized and restricted; brothels *\(lupanaria\)* were by law kept outside the city walls and could open only at night; prostitutes *\(meretrices\)* were registered by the aediles and were required to wear the toga instead of the stola. Some women enrolled as prostitutes to avoid the legal penalties of detected adultery. Fees were adjusted to bring promiscuity within the reach of every pocketbook; we have heard of the “quarter-of-an-as woman.” But there was now a rising number of educated courtesans who sought to win patrons by poetry, singing, music, dancing, and cultured conversation. One did not have to go outside the walls to find these or other ladies of easy persuasion; Ovid assures us that they could be met under the porticoes, at the circus, in the theater, “as numerous as stars in the sky”;34 and Juvenal found them in the precincts of temples, particularly that of Isis, a goddess lenient to love.35 Christian authors charged that prostitution was practiced within the cellas and between the altars of Roman temples.36
 
@@ -1509,7 +1509,7 @@ Behind such heroines were the nameless wives whose marital fidelity and maternal
 
 
 
-### IV. DRESS
+### 04 DRESS
 
 If we may judge from a few hundred statues, the Roman males of Nero’s day were stouter and softer in figure and features than the men of the young Republic. World rule kept many of them characteristically hard and stern, fearful rather than lovable; but food and wine and sloth had rounded many others into shapes that would have scandalized the Scipios. They still shaved, or, more usually, were shaved by barbers *\(tonsores\).* A youth’s first shave was a holyday in his life; often he piously dedicated his original whiskers to a god.57 Common Romans continued the republican tradition and had their hair cut close, or even cropped, but an increasing number of dandies had theirs curled; Mark Antony and Domitian are so represented. Many men wore wigs, some had the semblance of hair painted on their pates.58 All classes, indoors and out, now dressed in a simple tunic or blouse; the toga was donned only for formal occasions, by clients at receptions and by patricians in the Senate or at the games. Caesar wore a purple toga as a sign of office; many dignitaries imitated him; but soon the purple robe became a prerogative of the emperors. There were no irksome trousers, no elusive buttons, no drooping hose; but in the second century men began to wrap their legs with *fasciae,* or bands. Footwear ranged from the sandal—a leather or cork sole attached Nipponwise by a thong between the big and second toes—to the high shoe of full leather, or of leather and cloth, usually worn with the toga in *synthesis* or full dress.
 
@@ -1525,7 +1525,7 @@ Roman dress was not more luxurious than that of modern women, and far less gorge
 
 
 
-### V. A ROMAN DAY
+### 05 A ROMAN DAY
 
 The luxuries of the home far outran the luxuries of dress. Floors of marble and mosaic; columns of polychrome marble, alabaster, onyx; walls painted with brilliant murals or encrusted with costly stones; ceilings sometimes coffered in gold71 or plate glass;72 tables with citrus wood standing on ivory legs; divans decorated with tortoise shell, ivory, silver, or gold; Alexandrian brocades or Babylonian coverings for which common millionaires paid 800,000, Nero 4,000,000, sesterces;73 beds of bronze fitted with mosquito netting; candelabra of bronze, marble, or glass; statues and paintings and objects of art; vases of Corinthian bronze or Murrhine glass—these were some of the ornaments that crowded the mansions of Nero’s age.
 
@@ -1549,7 +1549,7 @@ We must not think of such banquets as the customary end of a Roman day, or as mo
 
 
 
-### VI. A ROMAN HOLIDAY
+### 06 A ROMAN HOLIDAY
 
 #### 1. The Stage
 
@@ -1605,7 +1605,7 @@ I come home more greedy, more cruel and inhuman, because I have been among human
 
 
 
-### VII. THE NEW FAITHS
+### 07 THE NEW FAITHS
 
 Religion accepted the games as proper forms of religious celebration and inaugurated them with solemn processions. The Vestal Virgins and the priests occupied seats of honor in the theaters, at the circus, and before the arena. The emperor who presided was the high priest of the state religion.
 
@@ -1635,11 +1635,11 @@ V Apicius squandered a huge fortune in extravagant living; then, being reduced t
 
 
 
-## XVIII Roman LawI 146 B.C. .- A.D . 192
+## 18 Roman LawI 146 B.C. .- A.D . 192
 
 
 
-### I. THE GREAT JURISTS
+### 01 THE GREAT JURISTS
 
 LAW was the most characteristic and lasting expression of the Roman spirit. As Greece stands in history for freedom, so Rome stands for order; and as Greece bequeathed democracy and philosophy as the foundations of individual liberty, so Rome has left us its laws, and its traditions of administration, as the bases of social order. To unite these diverse legacies, to attune their stimulating opposition into harmony, is the elemental task of statesmanship.
 
@@ -1651,7 +1651,7 @@ Favored by imperial patronage, the science of jurisprudence nurtured a successio
 
 
 
-### II. THE SOURCES OF THE LAW
+### 02 THE SOURCES OF THE LAW
 
 As the terminology of science and philosophy comes mostly from the Greek, betraying their source, so the language of the law comes mostly from the Latin. Law in general was *ius,* justice or right; *lex* meant a specific law.II Jurisprudence—wisdom in the law—was defined in the *Digest* of Justinian \(A.D. 533\) as both a science and an art: the “science of the just and the unjust,” and the “art \[i.e., administration\] of the good and the equitable.”2 *lus* included unwritten law, or custom, as well as written law. The latter was composed of *ius civile*—the “law of \[Roman\] citizens”—and *ius gentium—“the* law of the nations.” Civil law was “public law” when it related to the state or the official worship, and “private law” when it dealt with the legal interrelations of the citizens.
 
@@ -1667,7 +1667,7 @@ Roman law as a whole flowed from five sources. 1. Under the Republic the ultimat
 
 
 
-### III. THE LAW OF PERSONS
+### 03 THE LAW OF PERSONS
 
 “All law,” says the precise Gaius, “pertains to persons, to property, or to procedure.”3 The word *persona* had signified an actor’s mask; later it was applied to the part played by a man in life; finally it came to mean the man himself—as if to say that we can never know a man, but only the parts he plays, the mask or masks that he wears.
 
@@ -1691,7 +1691,7 @@ To these general divisions of the law of persons must be added the legislation w
 
 
 
-### IV. THE LAW OF PROPERTY
+### 04 THE LAW OF PROPERTY
 
 Problems of ownership, obligation, exchange, contract, and debt took up by far the largest part of Roman law. Material possession was the very life of Rome, and the increase of wealth and the expansion of trade demanded a body of law immeasurably more complex than the simple code of the Decemvirs.
 
@@ -1707,7 +1707,7 @@ The chief crimes against property were damage, theft, and rapine—theft with vi
 
 
 
-### V. THE LAW OF PROCEDURE
+### 05 THE LAW OF PROCEDURE
 
 Of all ancient peoples the Romans were the most prone to litigation, despite the discouraging complexity, technicality, and confusing fictions of their procedural law. Doubtless our own legal actions would have seemed to them equally devious and prolonged. The older the civilization, the longer the lawsuits. Any man, as noted above, could make himself a prosecutor in a Roman court. In the patrician Republic the accuser, the defendant, and the magistrate were required to follow a form called *legis actio,* or process of law, and the slightest deviation invalidated the action. “Thus,” says Gaius, “a man who sued another for cutting his vines, and in his action called them Vines,’ lost his case because he should have called them ‘trees,’ since the Twelve Tables speak generally of ‘trees’, and not particularly of vines.”27 Each party deposited with the magistrate a sum of money *\(sacra-mentum\),* which was forfeited by the losing party to the state religion. The defendant also had to give bail *\(vadimonium\)* as security for his subsequent appearances. The magistrate then turned over the dispute to a person on the list of those qualified to act as judges. In some cases the judge issued an interim *inter-dictum,* requiring one or more of the parties in the case to perform or refrain from certain actions. If the defendant lost, his property—sometimes his person—could be seized by the plaintiff until the judgment was satisfied.
 
@@ -1729,7 +1729,7 @@ Penalties were fixed by law rather than left to the discretion of the judge. The
 
 
 
-### VI. THE LAW OF THE NATIONS
+### 06 THE LAW OF THE NATIONS
 
 The most difficult problem of Roman law was to adjust itself as an intelligent master to the varied codes and customs of the lands that Roman arms or diplomacy had won. Many of these states were older than Rome; what they had lost in military courage they made up in proud traditions and a jealous fondness for their peculiar ways. Rome met the situation ably. A *praetor peregrinus* was appointed at first for the foreigners in Rome, then for Italy, then for the provinces; and power was given him to make some viable union between Roman and local law. The annual edicts of this praetor and the provincial governors and aediles gradually created the *ius gentium* by which the Empire was ruled.
 
@@ -1757,11 +1757,11 @@ III The mortgagor was in law bound \(*nexus*\) to the mortgagee; but the obscure
 
 
 
-## XIX The Philosopher Kings A.D . 96-180
+## 19 The Philosopher Kings A.D . 96-180
 
 
 
-### I. NERVA
+### 01 NERVA
 
 WITH the assassination of Domitian the principle of heredity disappeared for a century from Roman monarchy. The Senate had never recognized inheritance as a source of sovereignty; now, after 123 years of submission, it reasserted its authority; and as in Rome’s beginnings it had chosen the king, now it named one of its own members princeps and imperator. It was an act of courage intelligible only when we remember that the vigor of the Flavian family was exhausted in that same generation which had seen the vitality of the Senate renewed by Italian and provincial blood.
 
@@ -1771,7 +1771,7 @@ The principle of adoption thus accidentally restored meant that each emperor, as
 
 
 
-### II. TRAJAN
+### 02 TRAJAN
 
 Trajan received word of his accession while he was in charge of a Roman army in Cologne. It was characteristic of him that he went on with his work at the frontier and postponed his coming to Rome for nearly two years. He had been born in Spain of an Italian family long settled there; in him and in Hadrian Roman Spain arrived at political hegemony, as it had reached literary leadership in Seneca, Lucan, and Martial. He was the first in a long line of generals whose provincial birth and training seemed to give them the will-to-life that had gone from the native Roman stock. That Rome made no protest against this enthronement of a provincial was in itself an event and omen in Roman history.
 
@@ -1799,7 +1799,7 @@ Like Antony he had gone too fast and too far and had neglected to consolidate hi
 
 
 
-### III. HADRIAN
+### 03 HADRIAN
 
 #### 1. The Ruler
 
@@ -1867,7 +1867,7 @@ Never to play again, never to play?33
 
 
 
-### IV. ANTONINUS PIUS
+### 04 ANTONINUS PIUS
 
 Of Antoninus there is no history, for he had almost no faults and committed no crimes. His ancestors had come from Nimes two generations before, and his family was one of the wealthiest in Rome. Reaching the throne at fifty-one, he gave the Empire the most equitable, and not the least efficient, government it would ever have.
 
@@ -1883,7 +1883,7 @@ It only remained for Antoninus to crown a good life with a peaceful death. In hi
 
 
 
-### V. THE PHILOSOPHER AS EMPEROR
+### 05 THE PHILOSOPHER AS EMPEROR
 
 Antoninus, said Renan, “would have been without competition for the reputation of being the best of sovereigns, had he not designated Marcus Aurelius as his heir.”41 “If,” said Gibbon, “a man were called upon to fix the period in the history of the world during which the condition of the human race was most happy and prosperous, he would without hesitation name that which elapsed from the accession of Nerva to the death of Aurelius. Their united reigns are possibly the only period of history in which the happiness of a great people was the sole object of government.”42
 
@@ -1929,11 +1929,11 @@ III “We must not merely acknowledge the resolution and tenacity of the ruler,�
 
 
 
-## XX Life and Thought in the Second Century A.D . 96-192
+## 20 Life and Thought in the Second Century A.D . 96-192
 
 
 
-### I. TACITUS
+### 01 TACITUS
 
 THE policies of Nerva and Trajan liberated the suppressed mind of Rome, and gave to the literature of their reigns a note of fierce resentment against a despotism that had gone but might come again. Pliny’s *Panegyric* voiced it in welcoming the first of three great Spaniards to the throne; Juvenal seldom sang any other note; and Tacitus, the most brilliant of historians, became a *delator temporis acti,* an accuser of times past, and excoriated a century with his pen.
 
@@ -1957,7 +1957,7 @@ Tacitus was wrong in scorning philosophy—that is, perspective; all his faults 
 
 
 
-### II. JUVENAL
+### 02 JUVENAL
 
 Unfortunately, Juvenal corroborates Tacitus. What the one writes in mordant prose about princes and senators, the other chants in bitter verse about women and men.
 
@@ -1971,7 +1971,7 @@ We can understand such a mood; it is pleasant to contemplate the imperfections o
 
 
 
-### III. A ROMAN GENTLEMAN
+### 03 A ROMAN GENTLEMAN
 
 When he was born at Como in 61 he was named Publius Caecilius Secundus. His father owned a farm and villa near the lake and held high office in the town. Orphaned early, Publius was adopted and educated first by Virginius Rufus, governor of Upper Germany, and then by his uncle Caius Plinius Secundus, author of the *Natural History.* This busy scholar made the boy his son and heir and died soon afterward. According to custom, the youth took his adoptive father’s name, causing confusion for 2000 years. At Rome he studied under Quintilian, who formed his taste on Cicero and must receive some of the credit for the Ciceronian fluency of Pliny’s style. At 18 he was admitted to the bar; at 39 he was chosen to deliver an address of welcome to Trajan. In the same year he was made consul; in 103, augur; in 105, “Curator of the Bed and Banks of the Tiber and the City Sewers.” He took no fees or gifts for his legal services, but he was a rich man and could afford to be magnanimous. He had properties in Etruria, at Beneventum, Como, and Laurentum, and offered 3,000,000 sesterces for another.31
 
@@ -1987,7 +1987,7 @@ Most of the men whom Pliny describes were members of the new aristocracy stemmin
 
 
 
-### IV. THE CULTURAL DECLINE
+### 04 THE CULTURAL DECLINE
 
 We should obscure these outstanding figures if we were to surround them with lesser lights. After them there were no giants in pagan Latin letters. Reason had made its great effort from Ennius to Tacitus and had spent itself. It is a shock to pass from the grandeur of the *Histories* and the *Annals* to the scandalous chronicle of Suetonius’ *Lives of Illustrious Men* \(110\); history is here degenerating into biography, and biography into anecdote; portents and miracles and superstitions crowd the pages, and only the Elizabethan English of Philemon Holland’s translation \(1606\) has raised the book to the level of literature. Less disturbing is the descent from Pliny to the letters of Fronto. Perhaps these were not meant for publication, and cannot be fairly compared with Pliny’s; some were spoiled by a search for archaic phraseology, but many are touched by real affection of the teacher for his pupil. Aulus Gellius supported the archaizing movement in his *Attic Nights* \(169\)—the largest collection of worthless trifles in ancient literature; and Apuleius brought it to a climax in *The Golden Ass.* Apuleius and Fronto came from Africa, and the fad may have had partial source in the fact that written Latin there had departed less than in Rome from the language of the people and the Republic. Fronto rightly believed in strengthening literature with popular speech, as one freshens a plant by turning over the earth at its roots. But youth does not come twice to a man, a nation, a literature, or a language. Orientalization had set in and could not be stopped. The common Greek tongue of the Hellenistic East and Oriental Rome was becoming the language of literature as well as of life; Fronto’s pupil chose it for his *Meditations.* Appian, an Alexandrian Greek living at Rome, chose Greek for his vivid *Histories* of Rome’s wars *\(ca.* 160\); so did Claudius Aelian, a Roman by birth and blood; a half century later Dio Cassius, a Roman senator, would write his history of Rome in Greek. Leadership in literature was passing back from Rome to the Greek East; not to the Greek spirit, but to the Oriental soul using Hellenic speech. There would be giants again in Latin; but they would be Christian saints.
 
@@ -2001,7 +2001,7 @@ The spirit of the Emperor had helped to form the art and morals of his time. The
 
 
 
-### V. THE EMPEROR AS PHILOSOPHER
+### 05 THE EMPEROR AS PHILOSOPHER
 
 Six years before his death Marcus Aurelius sat down in his tent to formulate his thoughts on human life and destiny. We cannot be sure that the *Ta eis heauton*—“to himself”—was intended for the public eye; probably so, for even saints are vain, and the greatest man of action has moments of weakness in which he aspires to write a book. Marcus was not an expert author; most of the training that Fronto had given him in Latin was wasted now, since he wrote in Greek; besides, these “Golden Thoughts” were penned in the intervals of travel, battles, revolts, and many tribulations; we must forgive them for being disconnected and formless, often repetitious, sometimes dull. The book is precious only for its contents—its tenderness and candor, its half-conscious revelations of a pagan-Christian, ancient-medieval soul.
 
@@ -2029,7 +2029,7 @@ For as the mutation and dissolution of bodies make room for other bodies doomed 
 
 
 
-### VI. COMMODUS
+### 06 COMMODUS
 
 When the officer of the guard asked the dying Marcus for the watchword of the day he answered: “Go to the rising sun; my sun is setting.” The rising sun was then nineteen, a robust and dashing youth without inhibitions, morals, or fear. One would have expected of him, rather than of Marcus the ailing saint, a policy of war to victory or death; instead, he offered the enemy immediate peace. They were to withdraw from the vicinity of the Danube, to surrender most of their arms, return all Roman prisoners and deserters, pay Rome an annual tribute of corn, and persuade 13,000 of their soldiers to enlist in the Roman legions.66 All Rome condemned him except the people; his generals fumed at allowing the trapped prey to escape and fight again another day. During the reign of Commodus, however, no trouble came from the Danubian tribes.
 
@@ -2052,5 +2052,4 @@ As if conscious of these omens and problems, the mind of Rome, at the close of t
 I It was probably written in 98, before Trajan’s campaign against the Dacians.
 
 II Eight adorn the Arch of Constantine; three are in the Museo de’ Conservatori.
-
 
