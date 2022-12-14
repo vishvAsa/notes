@@ -67,7 +67,9 @@ There is more to come on this story, which was reported by @AbigailShrier @Shell
 We're just getting started on our reporting. Documents cannot tell the whole story here. A big thank you to everyone who has spoken to us so far. If you are a current or former Twitter employee, we'd love to hear from you. Please write to: tips@thefp.com . Watch @mtaibbi for the next installment. 
 
 ## Trump removal
-THREAD: The Twitter Files THE REMOVAL OF DONALD TRUMP Part One: October 2020-January 6th
+THREAD: The Twitter Files THE REMOVAL OF DONALD TRUMP 
+
+### October 2020-January 6th
 
 The world knows much of the story of what happened between riots at the Capitol on January 6th, and the removal of President Donald Trump from Twitter on January 8th... We’ll show you what hasn’t been revealed: the erosion of standards within the company in months before J6, decisions by high-ranking executives to violate their own policies, and more, against the backdrop of ongoing, documented interaction with federal agencies.
 
@@ -115,3 +117,103 @@ There is no way to follow the frenzied exchanges among Twitter personnel from be
 - PII has multiple meanings, one being “Public Interest Interstitial,” i.e. a covering label applied for “public interest” reasons. The post below also references “proactive V,” i.e. proactive visibility filtering.
 
 This is all necessary background to J6. Before the riots, the company was engaged in an inherently insane/impossible project, trying to create an ever-expanding, ostensibly rational set of rules to regulate every conceivable speech situation that might arise between humans. This project was preposterous yet its leaders were unable to see this, having become infected with groupthing, coming to believe – sincerely – that it was Twitter's responsibility to control, as much as possible, what people could talk about, how often, and with whom. The firm’s executives on day 1 of the January 6th crisis at least tried to pay lip service to its dizzying array of rules. By day 2, they began wavering. By day 3, a million rules were reduced to one: what we say, goes.
+
+
+
+### January 7
+
+Source: [TW](https://threadreaderapp.com/thread/1601720455005511680.html)
+
+As the pressure builds, Twitter executives build the case for a permanent ban
+On Jan 7, senior Twitter execs:
+
+- create justifications to ban Trump
+- seek a change of policy for Trump alone, distinct from other political leaders
+- express no concern for the free speech or democracy implications of a ban
+
+This #TwitterFiles is reported with @lwoodhouse.
+
+For years, Twitter had resisted calls to ban Trump. “Blocking a world leader from Twitter,” it wrote in 2018, “would hide important info... [and] hamper necessary discussion around their words and actions.” 
+
+But after the events of Jan 6, the internal and external pressure on Twitter CEO @jack grows. Former First Lady @MichelleObama , tech journalist @karaswisher , @ADL , high-tech VC @ChrisSacca , and many others, publicly call on Twitter to permanently ban Trump. Dorsey was on vacation in French Polynesia the week of January 4-8, 2021. He phoned into meetings but also delegated much of the handling of the situation to senior execs @yoyoel , Twitter’s Global Head of Trust and Safety, and @vijaya Head of Legal, Policy, & Trust. 
+
+As context, it's important to understand that Twitter’s staff & senior execs were overwhelmingly progressive. In 2018, 2020, and 2022, 96%, 98%, & 99% of Twitter staff's political donations went to Democrats. In 2017, Roth tweeted that there were “ACTUAL NAZIS IN THE WHITE HOUSE.” In April 2022, Roth told a colleague that his goal “is to drive change in the world,” which is why he decided not to become an academic. 
+
+
+On January 7, @jack emails employees saying Twitter needs to remain consistent in its policies, including the right of users to return to Twitter after a temporary suspension. After, Roth reassures an employee that "people who care about this... aren't happy with where we are". Around 11:30 am PT, Roth DMs his colleagues with news that he is excited to share. “GUESS WHAT,” he writes. “Jack just approved repeat offender for civic integrity.” The new approach would create a system where five violations ("strikes") would result in permanent suspension.
+“Progress!” exclaims a member of Roth’s Trust and Safety Team. The exchange between Roth and his colleagues makes clear that they had been pushing @jack for greater restrictions on the speech Twitter allows around elections. The colleague wants to know if the decision means Trump can finally be banned. The person asks, "does the incitement to violence aspect change that calculus?” Roth says it doesn't. "Trump continues to just have his one strike" (remaining). Roth's colleague's query about "incitement to violence" heavily foreshadows what will happen the following day.
+
+On January 8, Twitter announces a permanent ban on Trump due to the "risk of further incitement of violence." On J8, Twitter says its ban is based on "specifically how [Trump's tweets] are being received & interpreted." But in 2019, Twitter said it did "not attempt to determine all potential interpretations of the content or its intent.” The *only* serious concern we found expressed within Twitter over the implications for free speech and democracy of banning Trump came from a junior person in the organization. It was tucked away in a lower-level Slack channel known as “site-integrity-auto."
+
+> "This might be an unpopular opinion but one off ad hoc decisions like this that don’t appear rooted in policy are imho a slippery slope... This now appears to be a fiat by an online platform CEO with a global presence that can gatekeep speech for the entire world..."
+
+Twitter employees use the term "one off" frequently in their Slack discussions. Its frequent use reveals significant employee discretion over when and whether to apply warning labels on tweets and "strikes" on users. Here are typical examples. Recall from #TwitterFiles2 by @bariweiss that, according to Twitter staff, "We control visibility quite a bit. And we control the amplification of your content quite a bit. And normal people do not know how much we do."
+
+Twitter employees recognize the difference between their own politics & Twitter's Terms of Service (TOS), but they also engage in complex interpretations of content in order to stamp out prohibited tweets, as a series of exchanges over the "#stopthesteal" hashtag reveal. Roth immediately DMs a colleague to ask that they add "stopthesteal" & [QAnon conspiracy term] "kraken" to a blacklist of terms to be deamplified. Roth's colleague objects that blacklisting "stopthesteal" risks "deamplifying counterspeech" that validates the election. Indeed, notes Roth's colleague, "a quick search of top stop the steal tweets and they’re counterspeech" But they quickly come up with a solution: "deamplify accounts with stopthesteal in the name/profile" since "those are not affiliated with counterspeech". But it turns out that even blacklisting "kraken" is less straightforward than they thought. That's because kraken, in addition to being a QAnon conspiracy theory based on the mythical Norwegian sea monster, is also the name of a cryptocurrency exchange, and was thus "allowlisted". 
+
+Employees struggle with whether to punish users who share screenshots of Trump's deleted J6 tweets - "we should bounce these tweets with a strike given the screen shot violates the policy", "they are criticising Trump, so I am bit hesitant with applying strike to this user". What if a user dislikes Trump *and* objects to Twitter's censorship? The tweet still gets deleted. But since the *intention* is not to deny the election result, no punishing strike is applied. "if there are instances where the intent is unclear please feel free to raise". 
+
+Around noon, a confused senior executive in advertising sales sends a DM to Roth. Sales exec: "jack says: 'we will permanently suspend [Trump] if our policies are violated after a 12 hour account lock'… what policies is jack talking about?" Roth: "*ANY* policy violation"
+
+What happens next is essential to understanding how Twitter justified banning Trump. Sales exec: "are we dropping the public interest [policy] now..." Roth, six hours later: "In this specific case, we're changing our public interest approach for his account..." The ad exec is referring to Twitter’s policy of “Public-interest exceptions," which allows the content of elected officials, even if it violates Twitter rules, “if it directly contributes to understanding or discussion of a matter of public concern”
+
+> Public-interest exceptions to enforcement of Twitter rules Learn why we make certain exceptions, under what circumstances, and how we balance risk of harm vs. the public interest. https://help.twitter.com/en/rules-and-policies/public-interest
+
+Roth pushes for a permanent suspension of Rep. Matt Gaetz even though it “doesn’t quite fit anywhere (duh)” It's a kind of test case for the rationale for banning Trump. “I’m trying to talk [Twitter’s] safety [team] into... removal as a conspiracy that incites violence.”
+
+Around 2:30, comms execs DM Roth to say they don't want to make a big deal of the QAnon ban to the media because they fear "if we push this it looks we’re trying to offer up something in place of the thing everyone wants," meaning a Trump ban. That evening, a Twitter engineer DMs to Roth to say, "I feel a lot of debates around exceptions stem from the fact that Trump’s account is not technically different from anybody else’ and yet treated differently due to his personal status, without corresponding _Twitter rules_.." Roth's response hints at how Twitter would justify deviating from its longstanding policy. "To put a different spin on it: policy is one part of the system of how Twitter works... we ran into the world changing faster than we were able to either adapt the product or the policy."
+
+The evening of January 7, the same junior employee who expressed an "unpopular opinion" about "ad hoc decisions... that don’t appear rooted in policy," speaks up one last time before the end of the day. Earlier that day, the employee wrote, "My concern is specifically surrounding the unarticulated logic of the decision by FB. That space fills with the idea (conspiracy theory?) that all... internet moguls... sit around like kings casually deciding what people can and cannot see." The employee notes, later in the day, "And Will Oremus noticed the inconsistency too...," linking to an article for OneZero at Medium called, "Facebook Chucked Its Own Rulebook to Ban Trump."
+
+> Facebook Chucked Its Own Rulebook to Ban Trump The move is a reminder of social platforms’ power over online speech — and the inconsistency with which they wield it https://onezero.medium.com/facebook-chucked-its-own-rulebook-to-ban-trump-ecc036947f5d
+
+"The underlying problem," writes @WillOremus , is that “the dominant platforms have always been loath to own up to their subjectivity, because it highlights the extraordinary, unfettered power they wield over the global public square... ... and places the responsibility for that power on their own shoulders… So they hide behind an ever-changing rulebook, alternately pointing to it when it’s convenient and shoving it under the nearest rug when it isn’t.”
+
+
+“Facebook’s suspension of Trump now puts Twitter in an awkward position. If Trump does indeed return to Twitter, the pressure on Twitter will ramp up to find a pretext on which to ban him as well.” Indeed. And as @bariweiss will show tomorrow, that’s exactly what happened.
+
+
+
+### Jan 8
+Source: [TW](https://threadreaderapp.com/thread/1601720455005511680.html)
+
+
+On the morning of January 8, President Donald Trump, with one remaining strike before being at risk of permanent suspension from Twitter, tweets twice.
+
+> 6:46 am: “The 75,000,000 great American Patriots who voted for me, AMERICA FIRST, and MAKE AMERICA GREAT AGAIN, will have a GIANT VOICE long into the future. They will not be disrespected or treated unfairly in any way, shape or form!!!”
+
+> 7:44 am: “To all of those who have asked, I will not be going to the Inauguration on January 20th.”
+
+ For years, Twitter had resisted calls both internal and external to ban Trump on the grounds that blocking a world leader from the platform or removing their controversial tweets would hide important information that people should be able to see and debate. “Our mission is to provide a forum that enables people to be informed and to engage their leaders directly,” the company wrote in 2019. Twitter’s aim was to “protect the public’s right to hear from their leaders and to hold them to account.”
+
+But after January 6, as @mtaibbi and @ShellenbergerMD have documented, pressure grew, both inside and outside of Twitter, to ban Trump. There were dissenters inside Twitter. “Maybe because I am from China,” said one employee on January 7, “I deeply understand how censorship can destroy the public conversation.” But voices like that one appear to have been a distinct minority within the company. Across Slack channels, many Twitter employees were upset that Trump hadn’t been banned earlier. 
+
+After January 6, Twitter employees organized to demand their employer ban Trump. “There is a lot of employee advocacy happening,” said one Twitter employee. “We have to do the right thing and ban this account,” said one staffer. It’s “pretty obvious he’s going to try to thread the needle of incitement without violating the rules,” said another. In the early afternoon of January 8, The Washington Post published an open letter signed by over 300 Twitter employees to CEO Jack Dorsey demanding Trump’s ban. “We must examine Twitter’s complicity in what President-Elect Biden has rightly termed insurrection.” But the Twitter staff assigned to evaluate tweets quickly concluded that Trump had *not* violated Twitter’s policies.“I think we’d have a hard time saying this is incitement,” wrote one staffer. “It's pretty clear he's saying the ‘American Patriots’ are the ones who voted for him and not the terrorists (we can call them that, right?) from Wednesday.” Another staffer agreed: “Don’t see the incitement angle here.” “I also am not seeing clear or coded incitement in the DJT tweet,” wrote Anika Navaroli, a Twitter policy official. “I’ll respond in the elections channel and say that our team has assessed and found no vios”—or violations—“for the DJT one.” She does just that: “as an fyi, Safety has assessed the DJT Tweet above and determined that there is no violation of our policies at this time.” (Later, Navaroli would testify to the House Jan. 6 committee:“For months I had been begging and anticipating and attempting to raise the reality that if nothing—if we made no intervention into what I saw occuring, people were going to die.”) Next, Twitter’s safety team decides that Trump’s 7:44 am ET tweet is also not in violation. They are unequivocal: “it’s a clear no vio. It’s just to say he’s not attending the inauguration” 
+
+To understand Twitter’s decision to ban Trump, we must consider how Twitter deals with other heads of state and political leaders, including in Iran, Nigeria, and Ethiopia. 
+
+In June 2018, Iran’s Ayatollah Ali Khamenei tweeted, “#Israel is a malignant cancerous tumor in the West Asian region that has to be removed and eradicated: it is possible and it will happen.” Twitter neither deleted the tweet nor banned the Ayatollah. In October 2020, the former Malaysian Prime Minister said it was “a right” for Muslims to “kill millions of French people.” Twitter deleted his tweet for “glorifying violence,” but he remains on the platform. 
+
+The tweet below was taken from the Wayback Machine: Muhammadu Buhari, the President of Nigeria, incited violence against pro-Biafra groups. “Those of us in the fields for 30 months, who went through the war,” he wrote, “will treat them in the language they understand.” Twitter deleted the tweet but didn't ban Buhari.
+
+In October 2021, Twitter allowed Ethiopian Prime Minister Abiy Ahmed to call on citizens to take up arms against the Tigray region. Twitter allowed the tweet to remain up, and did not ban the prime minister.
+
+In early February 2021, Prime Minister Narendra Modi’s government threatened to arrest Twitter employees in India, and to incarcerate them for up to seven years after they restored hundreds of accounts that had been critical of him. Twitter did not ban Modi.
+
+But Twitter executives did ban Trump, even though key staffers said that Trump had not incited violence—not even in a “coded” way. Less than 90 minutes after Twitter employees had determined that Trump’s tweets were not in violation of Twitter policy, Vijaya Gadde—Twitter’s Head of Legal, Policy, and Trust—asked whether it could, in fact, be “coded incitement to further violence.” A few minutes later, Twitter employees on the “scaled enforcement team” suggest that Trump’s tweet may have violated Twitter’s Glorification of Violence policy—if you interpreted the phrase “American Patriots” to refer to the rioters.
+
+Things escalate from there. Members of that team came to “view him as the leader of a terrorist group responsible for violence/deaths comparable to Christchurch shooter or Hitler and on that basis and on the totality of his Tweets, he should be de-platformed.” Two hours later, Twitter executives host a 30-minute all-staff meeting. Jack Dorsey and Vijaya Gadde answer staff questions as to why Trump wasn’t banned yet. But they make some employees angrier. “Multiple tweeps [Twitter employees] have quoted the Banality of Evil suggesting that people implementing our policies are like Nazis following orders,” relays Yoel Roth to a colleague. Dorsey requested simpler language to explain Trump’s suspension. Roth wrote, “god help us [this] makes me think he wants to share it publicly”.
+
+One hour later, Twitter announces Trump’s permanent suspension “due to the risk of further incitement of violence.” Many at Twitter were ecstatic. And congratulatory: “big props to whoever in trust and safety is sitting there whack-a-mole-ing these trump accounts” By the next day, employees expressed eagerness to tackle “medical misinformation” as soon as possible: “For the longest time, Twitter’s stance was that we aren’t the arbiter of truth,” wrote another employee, “which I respected but never gave me a warm fuzzy feeling.” But Twitter’s COO Parag Agrawal—who would later succeed Dorsey as CEO—told Head of Security Mudge Zatko: “I think a few of us should brainstorm the ripple effects” of Trump's ban. Agrawal added: “centralized content moderation IMO has reached a breaking point now.”
+
+Outside the United States, Twitter’s decision to ban Trump raised alarms, including with French President Emmanuel Macron, German Prime Minister Angela Merkel, and Mexico's President Andres Manuel Lopez Obrador. 
+
+Macron told an audience he didn’t “want to live in a democracy where the key decisions” were made by private players. “I want it to be decided by a law voted by your representative, or by regulation, governance, democratically discussed and approved by democratic leaders.” 
+
+Merkel’s spokesperson called Twitter’s decision to ban Trump from its platform “problematic” and added that the freedom of opinion is of “elementary significance.” 
+
+Russian opposition leader Alexey Navalny criticized the ban as “an unacceptable act of censorship.”
+
+Whether you agree with Navalny and Macron or the executives at Twitter, we hope this latest installment of #TheTwitterFiles gave you insight into that unprecedented decision. From the outset, our goal in investigating this story was to discover and document the steps leading up to the banning of Trump and to put that choice into context. Ultimately, the concerns about Twitter’s efforts to censor news about Hunter Biden’s laptop, blacklist disfavored views, and ban a president aren’t about the past choices of executives in a social media company. They’re about the power of a handful of people at a private company to influence the public discourse and democracy.
+
+This was reported by @ShellenbergerMD, @IsaacGrafstein, @SnoozyWeiss, @Olivia_Reingold, @petersavodnik, @NellieBowles. Follow all of our work at The Free Press: @TheFP Please click here to subscribe to The Free Press, where you can continue reading and supporting independent journalism: thefp.com/subscribe 
