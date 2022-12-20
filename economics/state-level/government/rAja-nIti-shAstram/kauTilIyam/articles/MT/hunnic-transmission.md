@@ -1,5 +1,5 @@
 +++
-title = "nItishAstra-impact"
+title = "Hunnic transmission"
 +++
 Source: [TW](https://unrollthread.com/t/1603643482446471174/)
 

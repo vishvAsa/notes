@@ -36,6 +36,20 @@ title: नीतिसूत्राणि
 प्रकृतिसम्पदा ह्यनायकमपि राज्यं नीयते ॥ १३॥  
   
 प्रकृतिकोपः सर्वकोपेभ्यो गरीयान् ॥ १४॥  
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+This might be interpreted in 2 ways by itself: of all the insurrections the uprising of the ministers | of the masses is the most serious.
+
+bhAravI expands on the same in a verse thus:
+
+> अणूर् अप्य् उपहन्ति विग्रहः  
+प्रभुम् अन्तः-प्रकृति-प्रकोपजः ।  
+अखिलं हि हिनस्ति भूधरं  
+तरु-शाखान्त-निघर्षजो ऽनलः ॥
+
+Here it is clear that he likens the prakR^itikopa seizing a kingdom to the forest fire arising from the friction among the terminal branches of a tree. The terminal branches of the tree = the terminal branches of the state -- i.e., the masses. Hence, the sUtra indicates that the most serious uprising is that of the masses. This illustrates an example of how the sUtra-s of the arthashAstra tradition likely had a bhAShya which was presented by later authors in versified renderings as the above.
+</details>
+
   
 अविनीतस्वामिभावादस्वामिभावः श्रेयान् ॥ १५॥  
   
