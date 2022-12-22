@@ -18,4 +18,7 @@ Gene-distribution in jAti-s
 >
 > RK.
 
-
+### Maxima
+> UP Brahmins have the highest Steppe ancestry in Indian subcontinent (including Afghanistan) along with some Hindu Jats/Rors. Gangetic Rajputs, Baniyas, Kayasthas etc don't have as high Steppe. This probably confirms the fact that Gangetic Brahmins are direct descendants of Painted Grey Ware Vedic Aryans, and have stayed extremley endogamous for 2500 plus years. Many Gujarati Brahmins also show similar ancestral profile though. ... Many Tiwari Brahmins from Chattisgarh have more Aryan DNA than huge bunch of Pashtuns from Afghanistan and almost double the Aryan DNA of many Persians from Iran. This is what 2500+ years of a strict caste system looks like. 
+> 
+> - Aryamsha
