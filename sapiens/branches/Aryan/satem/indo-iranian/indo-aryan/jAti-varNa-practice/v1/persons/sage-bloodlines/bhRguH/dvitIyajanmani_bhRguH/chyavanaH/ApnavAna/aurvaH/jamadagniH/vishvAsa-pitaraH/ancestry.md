@@ -9,7 +9,6 @@ title: Remote Ancestry दूर-पितरः
     - NatGeo [2011](http://voices.nationalgeographic.com/2011/11/03/modern-humans-wandered-out-of-africa-via-arabia/).
 
 ## Genetics
-        
 ### R1a1a* (Paternal)
 {{< figure src="../r1a1a_map.png" title="R1A1A distribution" class="thumbnail">}}
 
@@ -35,6 +34,9 @@ title: Remote Ancestry दूर-पितरः
     - [![](http://i.imgur.com/dtJzFQL.png)](http://i.imgur.com/dtJzFQL.png)        
 - Haplogroup R
     - R arose in the Near East about 60,000 years ago, not long after humans first spread out of Africa into southwestern Asia.
+
+### Modeling
+qpAdm model: 45.7% Irula, 45.6% IVC and 8.6% Sintashta. Steppe rich ancestors admixed with your Steppe poor ancestors around 300 AD.
 
 ## गोत्रादिकम्
 - भार्गव-च्यावन-आप्नवान-और्व-जामदग्न्य-प्रवरः।
