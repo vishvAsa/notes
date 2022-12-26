@@ -23,5 +23,9 @@ Non-grid-tied
   - Long press power button.
   - In case of overload - Press Circuit breaker in the rear. Don't touch settings switches!
 - Settings
-  - High load - on, NC - on, TUB - on.
+  - High load - on, NC (Normal charging, up to 10.5A) - on, TUB - on.
   - Inverter settings pic [here](https://www.instagram.com/p/CmoWPbWjnT8/) .
+- Support
+  - E-Mail : 	customercare@vguard.in  
+  - Call Centre : 	1800-103-1300 (Toll-Free) 1860-180-3000 (Toll)  
+  - Timing : 	9 am to 7 pm (Monday to Saturday) 9 am to 6 pm (Sunday)
