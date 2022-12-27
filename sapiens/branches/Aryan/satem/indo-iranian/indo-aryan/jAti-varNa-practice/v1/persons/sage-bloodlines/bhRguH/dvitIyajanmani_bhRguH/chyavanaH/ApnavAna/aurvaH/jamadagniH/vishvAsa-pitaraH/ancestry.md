@@ -36,7 +36,16 @@ title: Remote Ancestry दूर-पितरः
     - R arose in the Near East about 60,000 years ago, not long after humans first spread out of Africa into southwestern Asia.
 
 ### Modeling
-qpAdm model: 45.7% Irula, 45.6% IVC and 8.6% Sintashta. Steppe rich ancestors admixed with your Steppe poor ancestors around 300 AD.
+qpAdm models (IVC = Indus Valley Civilization, Irula = A tribe acting as a placeholder for early Indian hunter gatherers)
+
+- 52.1 IVC_I8726 (90% IranN), 35.8 Onge, 12.2 Sintashta with p=0.2
+- 45.6% IVC (70% IranN, 25% AASI and 5% neolithic steppe), 45.7% Irula, 8.6% Sintashta. Steppe rich ancestors admixed with Steppe poor ancestors around 300 AD. (algorithm DATES developed by Moorjani. date was not accurate. Unfortunately for getting decent admixture dates one needs many samples.) 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+- The fundamental issue is this: IVC samples we have so far DON'T form a cluster. But they are very different from each other - this is one main reason why Razib, MT, etc believe that jAti stratification predated the Arya-s. For the sake of simplicity all of them are combined in literature as IVCperiphery.
+</details>
+
 
 ## गोत्रादिकम्
 - भार्गव-च्यावन-आप्नवान-और्व-जामदग्न्य-प्रवरः।
