@@ -38,7 +38,7 @@ Gene-distribution in jAti-s
 > AryAMsha
 
 ### Tribal R1a penetration
->  
+>  there is R1a penetration among tribals. the great exception here are todas. look at munda. almost no steppe or r1a. dravidian tribals have both to some extent. the munda are a counter-culture to the aryan-steppe patrlineage conquest system. they either resisted successfully or were exterminated. read their myths. they're alien to India. the irony of calling them indigenous is they are profoundly other. 100% austroasiatic men, probably from the kra isthmus. evidence they used to occupy lowlands, driven up.
 > 
 > - RK
 

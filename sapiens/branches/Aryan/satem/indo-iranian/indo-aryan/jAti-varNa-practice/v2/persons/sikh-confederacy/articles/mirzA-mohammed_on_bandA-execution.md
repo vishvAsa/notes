@@ -1,0 +1,9 @@
++++
+title = "mirzA-mohammed on bandA-execution"
++++
+
+On this day [of their arrival] I went to the Salt Market to witness the event and accompanied them from there to the Imperial Fort. Of the people of the city there were few who did not come to see the humbling of those rebels. Large crowds gathered in every lane and market such as had seldom appeared before. The Muslims were in a happy and festive mood. Yet many of those ill-fated ones [the Sikhs], who had come as prisoners in this condition, insisted on standing fast by their villainy. There was no sign of humility and submission on their faces. Rather most of them, riding on the camels' backs, kept singing and reciting melodious verses. If any one in the lanes and bāzār reminded them of the cruelties they had committed, which brought them to this condition, they gave immediate and manly retorts, and attributed their capture and humiliation to the doings of fate. If any one told them that they would now be executed, they replied, 
+
+> “Let them kill us! We do not fear death. Had we feared it, how could we have fought so many battles with you? We have fallen in your hands only because of hunger and lack of provisions; otherwise, you would have come to know of our bravery far more than has been witnessed till now.”
+
+To be short, for some days these ill-fated ones were kept in prison. Finally, orders were given for their execution. Thus on Tuesday, the 22nd of the above mentioned month [16 March 1716], one hundred men among them were brought out and beheaded in front of the Chabūtra-i kotwālī towards the Tarpolia. In the same way one hundred persons were daily executed. Thus in one week's time all of them were put to death. On Wednesday the 23rd of the month [17 March], I went to witness their execution, but by the time I reached there, the executions were over; the bodies of those persons had just fallen, however, and were writhing in blood and dust.
