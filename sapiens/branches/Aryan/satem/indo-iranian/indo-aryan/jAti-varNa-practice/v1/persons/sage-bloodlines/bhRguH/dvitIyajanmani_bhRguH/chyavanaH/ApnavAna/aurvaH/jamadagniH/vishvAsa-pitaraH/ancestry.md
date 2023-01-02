@@ -26,7 +26,12 @@ title: Remote Ancestry दूर-पितरः
 - R-SRY1532.2 (R1a1)
 - R-M17/M198 (R1a1a)
     - R-M512 snp
-        - "Today, the men who share your haplogroup are most common in Eastern Europe, Russia and Ukraine. The lineage is also quite common in Poland, but decreases in frequency toward the Mediterranean countries. Farther to the west, about one-third of Norwegian men and a quarter of men from the far northern British Isles carry R-M512. Their ancestors arrived with various groups over the past 2,000 years, including with the Anglo-Saxons from central Europe in the 5th century and the Vikings who came from Scandinavia beginning about 800 CE. Additionally, the haplogroup is still relatively common in the Middle East, as well as in Central and South Asia where it reaches levels of up to 60% among the Kyrgyz and the Tajiks."
+
+<details><summary>On R-M512 (द्रष्टुं नोद्यम्)</summary>
+
+> Today, the men who share your haplogroup are most common in Eastern Europe, Russia and Ukraine. The lineage is also quite common in Poland, but decreases in frequency toward the Mediterranean countries. Farther to the west, about one-third of Norwegian men and a quarter of men from the far northern British Isles carry R-M512. Their ancestors arrived with various groups over the past 2,000 years, including with the Anglo-Saxons from central Europe in the 5th century and the Vikings who came from Scandinavia beginning about 800 CE. Additionally, the haplogroup is still relatively common in the Middle East, as well as in Central and South Asia where it reaches levels of up to 60% among the Kyrgyz and the Tajiks.
+</details>
+
 
 
 ### R30a (Maternal line) Haplogroup: R, a subgroup of N
@@ -36,14 +41,48 @@ title: Remote Ancestry दूर-पितरः
     - R arose in the Near East about 60,000 years ago, not long after humans first spread out of Africa into southwestern Asia.
 
 ### Modeling
-qpAdm models (IVC = Indus Valley Civilization, Irula = A tribe acting as a placeholder for early Indian hunter gatherers)
 
+Observations:
+
+- Cluster with draviDian brAhmaNa-s.
+- Higher Iran component than average South Indian. Only some Telugus have such high Iran in the South, and these people have 2-3% less steppe.
+- Roughly same level (8%) of  steppe component as dravidian v4s.
+
+<details><summary>qpAdm models (द्रष्टुं नोद्यम्)</summary>
+
+- 48.7% pure IranN, 43.5% pure Onge and 7.8% pure Sintashta with p=0.74 when modelled distally
 - 52.1 IVC_I8726 (90% IranN), 35.8 Onge, 12.2 Sintashta with p=0.2
-- 45.6% IVC (70% IranN, 25% AASI and 5% neolithic steppe), 45.7% Irula, 8.6% Sintashta. Steppe rich ancestors admixed with Steppe poor ancestors around 300 AD. (algorithm DATES developed by Moorjani. date was not accurate. Unfortunately for getting decent admixture dates one needs many samples.) 
+- 45.6% IVC (70% IranN, 25% AASI and 5% neolithic steppe), 45.7% Irula, 8.6% Sintashta. 
+  - Steppe rich ancestors admixed with Steppe poor ancestors around 300 AD. (algorithm DATES developed by Moorjani. date was not accurate. Unfortunately for getting decent admixture dates one needs many samples.) 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+</details>
 
+
+<details><summary>Modelling FAQ (द्रष्टुं नोद्यम्)</summary>
+
+- IVC = Indus Valley Civilization, Irula = A tribe acting as a placeholder for early Indian hunter gatherers
+- p>0.05 means an acceptable model.
+- Modelled distally means modelled with sources who are far removed from the actual admixture event. So in this case one removes Ancient South Indians and IVC as the two likely sources with Sintashta and used Iran and Onge instead to get a better idea of the absolute genetic contribution.
 - The fundamental issue is this: IVC samples we have so far DON'T form a cluster. But they are very different from each other - this is one main reason why Razib, MT, etc believe that jAti stratification predated the Arya-s. For the sake of simplicity all of them are combined in literature as IVCperiphery.
+</details>
+
+### G25 coordinates
+{{< figure src="../images/gedmatch_g25-sim-coords-in-pca_v.png" title="" class="thumbnail">}}
+
+<details><summary>Sim data (द्रष्टुं नोद्यम्)</summary>
+
+```
+sample_simulated_g25_scaled,0.052518853080000205,-0.063301992006,-0.14566985323960002,0.10784362091799965,-0.07612815976539998,0.0565666492762,-0.0009902706709999654,0.010137610529000085,0.027979721893999776,0.013410032445999975,-0.005207541857356,-0.001137532665999988,-0.00009183506799999297,-0.001645104876999648,0.0010020213650001053,0.003043852208000075,-0.001736520640999939,0.0006642111010000673,0.0009010056189999865,-0.004519488418000001,-0.0006131895440000257,-0.0018655687889999606,0.0026530372280000186,-0.00029511439999993505,0.0014945043999997631
+```
+</details>
+
+<details><summary>Getting coordinates (द्रष्टुं नोद्यम्)</summary>
+
+- create an account and upload raw data on GEDMATCH
+- Go to Free tools > Admixture calculators > Eurogenes. 
+- There enter your gedmatch kit code, select K36 and click on enter. Wait.
+- Copy values you get by selecting with your cursor and copy in this link.
+- Generate simulated coordinates from [allelocator](https://allelocator.ovh/K36vertical.html).g
 </details>
 
 
