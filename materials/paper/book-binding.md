@@ -14,3 +14,9 @@ title = "Book-binding"
 ## Cover material
 - Plastic
 - Cardboard
+
+## Punching and tying
+- Can use tags.
+
+## Stitching
+- Need good jumper.
