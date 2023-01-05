@@ -15,6 +15,9 @@ title = "Book-binding"
 - Plastic
 - Cardboard
 
+## Binder clips
+- 51 mm Large - 240 sheets.
+
 ## Punching and tying
 - Can use tags.
 
