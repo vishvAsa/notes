@@ -21,7 +21,7 @@ When its price increases, the value of all common goods increases.
 
 ## Gold
 ### Safe Gold and MMTC-PAMP
-No annual storage fees for 5 years. Only 3% GST at time of purchase. 
+No annual storage fees for 5 years, 0.3 - 0.4% annually after. Only 3% GST at time of purchase. 
 
 Both MMTC-PAMP and Digital Gold India have appointed IDBI Trusteeship Services Ltd as their trustee. Among other things, the trustee ensures the quality of the gold and that the gold sold to investors is segregated and available in the vaults. The gold held in the vaults is also insured against any loss.
 
