@@ -29,6 +29,10 @@ A true स्मार्त, he composed on शिव/विष्णु/गण
 ### विद्यापतिः
 from मिथिलदेश, he not only wrote fine love poetry राधा-कृष्ण as a key theme but also wrote instructive texts on धर्म such as दुर्गाभक्तितरङ्गिणी & शैवसर्वस्वसार.
 
+### रामकृष्ण-परमहंसः
+> Sri Ramakrishna Paramhansa before taking sanyas was known as Gadadhar Chattopadhyay. The Chattos(Chatterjee/Chattopadhay) are Kulin brahmins who were called from Kanyakubja by Adisura , a King of Bengal. Total of five brahmin families came from Kanyakubja, Chattos is one of them. The Chattos have gotra Kashyap, They belong to the Rarhi clan of brahmins.
+
 ### गणेशो ऽवधानी 
 
 नैकभाषावित्। [shatAvadhAnI](http://ellakavi.wordpress.com/2007/11/22/shatavadhani-dr-r-ganesh/) rAga gaNesha, the kAshyapa, polymath and polyglot who has performed avadhAna-s in kannaDa, saMskRta, telugu, who embodies the living hindu intellectual tradition in its purity and might, who understands that the shAstra-s are but precursors to true knowledge.
+
