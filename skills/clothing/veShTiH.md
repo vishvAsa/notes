@@ -10,7 +10,12 @@ title = "वेष्टिः"
 - सरलतया शौचालयादिकं गत्वा ऽवमेढुं पुरीषं निष्कासयितुं च शक्नुयाम।
 
 ## Standard sizes
-- panchakachCha + angavastra - 9 + 5 Mul: 4.10 m + 2.25 m. Often comes uncut - so can make dhoti longer.
+- panchakachCha + angavastra. Often comes uncut - so can make dhoti longer.
+
+9x5 or 10x6 indicates the length of  dhoti/uttareeyam..  
+9x5 indicates the panche is 9 muzham (ಮೊಳ) approx 4.15 metres length and the uttareeya will be 5 muzham -approx 2.3 metres. This is suitable for Indians with normal stature.
+
+10x6 indicates the panche is 10 muzham (ಮೊಳ) approx 4.6 metres length and the uttareeya will be 6 muzham -approx 2.75 metres. This is suitable for large individuals.
 
 ## रीत्यन्तरम्
 - शोषणवस्त्रवद् बन्धनम्
