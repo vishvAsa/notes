@@ -27,6 +27,10 @@ Some unexpected countries/territories (unless u follow demography) more rural & 
 - Thailand (1.18)
 - Puerto Rico (1)
 - PRC (1.16 as per CCP fraud, likely below 1)
+- Pre-war Ukraine in 2020 1.34 (same as Japan), now lower
+- Bosnia & Herzegovina 1.22-1.24
+- Spain (1.19)
+- Italy (1.25)
 
 RW have a lot of retard takes that conform to their beliefs like porn, work hrs, feminism, megacities etc to supposedly explain low TFR in East Asia. No one associates Ricans with workaholism, CCP fills Chinese heads with wolf warrior BS & censors feminists.
 
