@@ -1,0 +1,16 @@
++++
+title = "06 CONCLUSION"
+
++++
+
+This introductory chapter was written with the intention of contextualizing the myriad of influences that resulted in the writing of, and subsequent fascination with, this collection of guileless but sometimes quixotic aphorisms known as *Hagakure*. Controversial from the beginning, modified interpretations of the text’s mentality in the twentieth century made the book particularly useful for stirring ultra-nationalistic sentiment and inculcating militarism. Consequently, *Hagakure* temporarily became a “forbidden text” of sorts again in the aftermath of World War II. Gradually, though, Japan entered a period of renewed interest in *Hagakure* from the 1960s. Renowned historians such as Furukawa Tetsushi and authors such as Mishima Yukio acclaimed *Hagakure* as representing the most exquisitely “beautiful” aspects of Japanese culture that had been indiscriminately purged in the immediate post-war period.
+
+Western interest in the book was also piqued with a growing fascination for samurai culture and philosophy, especially following Japan’s rise as an economic superpower in the 1980s. In recent years, a handful of translations into modern Japanese have become available, as have several English language translations that seek to introduce the “wisdom” of *Hagakure* to a wide international readership.
+
+Given the historical importance of the work for understanding the samurai psyche, it is hardly surprising that a number of English translations have already been published. This begs the question as to why it is necessary to produce yet another. Although the extant translations are reliable to varying degrees, they often tend to gloss over the finer nuances in the original Japanese. In addition, to date there have been no complete translations of *Hagakure* in book form. This book is by no means complete, but it is the first to contain translations of all the vignettes in the first two books. These two are particularly important as they were dictations of Yamamoto Jōchō. The remaining books were comprised of information possibly from Jōchō, but a considerable portion of the material was collated elsewhere by Tashiro Tsuramoto. In the third section of this translation, I have included a selection of these later aphorisms which I find interesting, or have used in previous research.
+
+This translation is based on the *Hagakure* version contained in Saiki Kazuma \(et al eds.\), *Mikawa Monogatari, Hagakure* \(*Nihon Shisō Taikei* 26\), which I consider to be the most academically rigorous. It is based on the aforementioned Kōhaku Book and makes exhaustive comparisons with the other extant copies, providing many notes which aid in the understanding of the obscure references in the text. I have incorporated relevant notes in the hope that this translation of *Hagakure* will facilitate the reader’s understanding of this complex yet profoundly interesting window on human experience in eighteenth-century Japan, when warriors struggled to find equilibrium between their honor and the dictates of social order.
+
+Finally, I would like to thank Professor Lachlan Jackson, Professor Uozumi Takashi, Professor Yamaori Tetsuo, Trevor Jones, and my research assistant for this project, Remi Yamaguchi, for their opinions and invaluable assistance in completing this translation.
+
+__________
