@@ -1,5 +1,5 @@
 ---
-title: +Egypt
+title: +Kemet
 ---
 
 For details on religion, see [kemet](/AgamaH/kemet/) page.
