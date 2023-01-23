@@ -12,7 +12,9 @@ title = "Printer"
 
 ### Arch Linux setup
 - Add as LPD printer - `lpd://192.168.1.26/queue`
-- Driver - Canon imageRunner 330s - CUPS+Gutenprint v5.3.4 Simplified 
+- Drivers which work
+  - Generic PCL 5e printer.  
+  - Canon imageRunner 330s - CUPS+Gutenprint v5.3.4 Simplified 
 
 ```
 Description:	
@@ -33,7 +35,10 @@ DeviceURI dnssd://Canon%20MF260._ipp._tcp.local/?uuid=01c80000-fe7f-11de-8a39-74
 ##  HP ColorLaserJet M255dw
 - Features
   - Color printer
-- Autodetected on Arch Linux
+- Drivers (Manjaro linux)
+  - generic pcl laser color printer.
+  - Autodetected on Arch Linux HP ColorLaserJet M255-M256 driver - stopped working properly 
+    - repeated "Broken pipe" error while printing large docs
 
 ```
 Description:	HP ColorLaserJet M255-M256
