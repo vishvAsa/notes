@@ -41,49 +41,37 @@ title = "कल्हण-राजतरङ्गिणी"
 बद्धा द्वादशभिर्ग्रन्थसहस्रैः पार्थिवावलिः[^0017-1] । KRT_1_0017ab  
 प्राङ्महाव्रतिना येन[^0017-2] हेलाराज[^0017-3]द्विजन्मना ॥ KRT_1_0017cd  
 
-0001.  
+[^0001-1]: The akshara गिफ written at the end of the first line in A1 have been destroyed in binding; G and Edd. read as above; R भूषाहीनफणा॰, afterwards corrected as above.  
 
---1) The akshara गिफ written at the end of the first line in A1 have been destroyed in binding; G and Edd. read as above; R भूषाहीनफणा॰, afterwards corrected as above.  
+[^0001-2]: A2 gloss च स्र.  
 
---2) A2 gloss च स्र.  
+[^0001-3]: हर being effaced at the end of the second line, has been supplemented by A4.  
 
---3) हर being effaced at the end of the second line, has been supplemented by A4.  
+[^0002-1]: A4 gloss अग्निज्वाला कुङ्कुमं च.  
 
-0002.  
+[^0002-2]: These three aksharas being faintly visible in the handwriting of A1 have been repeated by A4.  
 
---1) A4 gloss अग्निज्वाला कुङ्कुमं च.  
+[^0002-3]: A4 gloss सर्पः कुण्डलं च.  
 
---2) These three aksharas being faintly visible in the handwriting of A1 have been repeated by A4.  
+[^0002-4]: A3 gloss विषं; A4 gloss विषं शङ्खश्च.  
 
---3) A4 gloss सर्पः कुण्डलं च.  
+[^0002-5]: A1 कञ्चुकि॰; इ smeared over.  
 
---4) A3 gloss विषं; A4 gloss विषं शङ्खश्च.  
-
---5) A1 कञ्चुकि॰; इ smeared over.  
-
-0003.  
-
---1) Thus corrected by A1 or later hand from येन; G and R येना॰.  
+[^0003-1]: Thus corrected by A1 or later hand from येन; G and R येना॰.  
 
 <4>.  
 
 --1) The aksharas जाप effaced in A.  
 
-0007.  
+[^0007-1]: A3 gloss दृढा.  
 
---1) A3 gloss दृढा.  
+[^0016-1]: A2 gloss कवयः.  
 
-0016.  
+[^0017-1]: Thus corrected by A2 from A1 ॰स्रैर्या नृपावलिः; पार्थिवावलिः also in G R.  
 
---1) A2 gloss कवयः.  
+[^0017-2]: To this word, marrked by brackets in A, seems to refer a much effaced gloss or varia lectio written by A2 or A3 in the margin, looking like कङ्का(?).  
 
-0017.  
-
---1) Thus corrected by A2 from A1 ॰स्रैर्या नृपावलिः; पार्थिवावलिः also in G R.  
-
---2) To this word, marrked by brackets in A, seems to refer a much effaced gloss or varia lectio written by A2 or A3 in the margin, looking like कङ्का(?).  
-
---3) The akshara ला written at the beginning of a line has become unrcadable; हेलाराजद्वि repeated in margin by A4.  
+[^0017-3]: The akshara ला written at the beginning of a line has become unrcadable; हेलाराजद्वि repeated in margin by A4.  
 
 [page 1]  
 
@@ -130,61 +118,39 @@ title = "कल्हण-राजतरङ्गिणी"
 आलोक्य शारदां[^0037-1] देवीं यत्र संप्राप्यते क्षणात् । KRT_1_0037ab  
 तरङ्गिणी मधुमती वाणी च कविसेविता ॥ KRT_1_0037cd  
 
-0018.  
+[^0018-1]: पूर्व of A1 has been struck out and पद्म written above by A2; पद्म also in G R,  
 
---1) पूर्व of A1 has been struck out and पद्म written above by A2; पद्म also in G R,  
+[^0018-2]: Thus A1: some of the letters having become faint, A4(?) has written in margin पूर्वजान्; A4 adds the gloss अशोकादीनां पूर्वजान्.  
 
---2) Thus A1: some of the letters having become faint, A4(?) has written in margin पूर्वजान्; A4 adds the gloss अशोकादीनां पूर्वजान्.  
+[^0019-1]: च्छ corrected by A1; original reading, smeared over, perhaps श.  
 
-0019.  
+[^0020-1]: A3 marginal gloss अभिमन्योः सकाशात् अशोकात् आ अशोकमभिव्याप्य ये पञ्च राजानः उक्ताः.  
 
---1) च्छ corrected by A1; original reading, smeared over, perhaps श.  
+[^0020-2]: Thus A; G R. Edd. read ॰शतो.  
 
-0020.  
+[^0022-1]: सु of A1 corrected by a later hand into स; G R read सु.  
 
---1) A3 marginal gloss अभिमन्योः सकाशात् अशोकात् आ अशोकमभिव्याप्य ये पञ्च राजानः उक्ताः.  
+[^0028-1]: ॰निष्यन्द॰.  
 
---2) Thus A; G R. Edd. read ॰शतो.  
+[^0028-2]: A2 gloss in margin M विरीविषयस्थितेन नीलनागेन विरीनाग इति प्रसिद्धेन; A4 interlinear gloss विरनागस्थितेन.  
 
-0022.  
+[^0029-1]: The following gloss has been written in margin by A2 in red ink and partly retraced by the same hand in black ink. Words shown in brackets, having now become illegible in A3 have been restored from copy in R: गुनोह्मुखी कु[मारसम्मुखी कन्दराभि]मुखी च नागमुखापीतभूरिपयाः [नागमुखेन गजवदनेन आपीतं भूरि]पयः दुग्धं यस्याः सा । नागानां मुखेन आपीतं भूरि पयो यस्याः यया वा गौरी पार्वती वित[स्तात्वं] यातापि उचितां रुचिम् इच्छां नोज्झति न त्यजति स्वरु[चिं से॰ ॰]दिकां नात्य[जदि]त्यर्थः गौरीत्वोचितां रुचिं गुहोन्मु[खीत्या]दिकां चित[स्तात्वे]पि न त्यजति त[त्रा]पि तत्करण ॰ ॰ ॰ ॰.  
 
---1) सु of A1 corrected by a later hand into स; G R read सु.  
+[^0032-1]: A2 adds between the lines the gloss कपटेश्वरे and in margin कैदिहिरग्रामे कोटहाडाख्यविषये.  
 
-0028.  
+[^0033-1]: A2 gloss भृङ्गानामविषये देवलग्रामसमीपस्थले.  
 
---1) ॰निष्यन्द॰.  
+[^0033-2]: Thus A1; corrected by A1 into दत्ते which has been copied in G and R.  
 
---2) A2 gloss in margin M विरीविषयस्थितेन नीलनागेन विरीनाग इति प्रसिद्धेन; A4 interlinear gloss विरनागस्थितेन.  
+[^0033-3]: A2 gloss (smeared over) नीलगिर् इति प्रसिद्धे.  
 
-0029.  
+[^0034-1]: A2 gloss क्रमरा[ज्ये] स्वैम् इति प्रसिद्धः; प्रसिद्धा.  
 
---1) The following gloss has been written in margin by A2 in red ink and partly retraced by the same hand in black ink. Words shown in brackets, having now become illegible in A3 have been restored from copy in R: गुनोह्मुखी कु[मारसम्मुखी कन्दराभि]मुखी च नागमुखापीतभूरिपयाः [नागमुखेन गजवदनेन आपीतं भूरि]पयः दुग्धं यस्याः सा । नागानां मुखेन आपीतं भूरि पयो यस्याः यया वा गौरी पार्वती वित[स्तात्वं] यातापि उचितां रुचिम् इच्छां नोज्झति न त्यजति स्वरु[चिं से॰ ॰]दिकां नात्य[जदि]त्यर्थः गौरीत्वोचितां रुचिं गुहोन्मु[खीत्या]दिकां चित[स्तात्वे]पि न त्यजति त[त्रा]पि तत्करण ॰ ॰ ॰ ॰.  
+[^0034-2]: A2 gloss हंसवागीश्वरी.  
 
-0032.  
+[^0036-1]: A2 gloss नरनामग्रामे.  
 
---1) A2 adds between the lines the gloss कपटेश्वरे and in margin कैदिहिरग्रामे कोटहाडाख्यविषये.  
-
-0033.  
-
---1) A2 gloss भृङ्गानामविषये देवलग्रामसमीपस्थले.  
-
---2) Thus A1; corrected by A1 into दत्ते which has been copied in G and R.  
-
---3) A2 gloss (smeared over) नीलगिर् इति प्रसिद्धे.  
-
-0034.  
-
---1) A2 gloss क्रमरा[ज्ये] स्वैम् इति प्रसिद्धः; प्रसिद्धा.  
-
---2) A2 gloss हंसवागीश्वरी.  
-
-0036.  
-
---1) A2 gloss नरनामग्रामे.  
-
-0037.  
-
---1) A2 marginal gloss श्रीशैले हरेल् इति प्रसिद्धे स्थाने दरदेशाभ्यर्णवर्तिनि.  
+[^0037-1]: A2 marginal gloss श्रीशैले हरेल् इति प्रसिद्धे स्थाने दरदेशाभ्यर्णवर्तिनि.  
 
 [page 2]  
 
@@ -227,65 +193,39 @@ title = "कल्हण-राजतरङ्गिणी"
 ऋक्षादृक्षं शतेनाब्दैर्यात्सु चित्रशिखण्डिषु । KRT_1_0055ab  
 तच्चारे[^0055-1] संहिताकारैरेवं दत्तात्र निर्णयः । KRT_1_0055cd  
 
-0038.  
+[^0038-1]: A2 gloss चक्रभृत् केशवः चक्रधर् इति प्रसिद्धः विजयेशः ईशानः विज्यभ्राडो इति प्रसिद्धः.  
 
---1) A2 gloss चक्रभृत् केशवः चक्रधर् इति प्रसिद्धः विजयेशः ईशानः विज्यभ्राडो इति प्रसिद्धः.  
+[^0039-1]: Thus corrected by A3 from A1 मुख्य॰; G and R read पुण्य॰, the letter with the v. l. मोक्ष॰.  
 
-0039.  
+[^0040-1]: Thus emended in G; A R सुस्थ॰.  
 
---1) Thus corrected by A3 from A1 मुख्य॰; G and R read पुण्य॰, the letter with the v. l. मोक्ष॰.  
+[^0041-1]: A1 असन्तापहतां; corrected in margin by A2 as above.  
 
-0040.  
+[^0041-2]: A2 gloss कश्यपेन.  
 
---1) Thus emended in G; A R सुस्थ॰.  
+[^0042-1]: A3 adds a gloss in margin which has partially become effaced; words in brackets supplemented from copy in R: [विद्या]दिकं द्रा[क्ष्यापर्य]न्तं इत्येत[द्र्व्यजातं त्रिदिवेपि] दुर्लभं [स]त् यत्र कश्मरीमण्डले सामान्यं साधारणमस्ति सर्वजनोपभोग्यं सुलभमिति यावत् विद्यादिकं अनुपमं अत्युत्कृष्टं यत्रैवास्ति त्रिदिवेपि दुर्लभत्वा[द]न्यत्र साधारणं नास्तीति व्याख्याकरणेन । यत्रासामान्यमिति पाठान्तरं यद्यपि सङ्गच्छत इव तथापि नैतत्समीचीनम् । छन्दोभङ्गापातात् अनुष्टुभि हि सर्वपादेषु पञ्चमा[क्षरस्य] लघुतयैव सर्वत्र दर्शनात् । यदुक्तं पञ्च[मं लघु सर्वत्र इत्यादि].  
 
-0041.  
+[^0043-1]: G has the reading भूः in margin.  
 
---1) A1 असन्तापहतां; corrected in margin by A2 as above.  
+[^0044-1]: A1 had आनन्दात्; गो supplemented by A3; A2 adds a gloss in margin which has become partially effaced (words in brackets from R): आ गोनन्दात् तृतीयगोनन्दात् आ तृतीय[गो]नन्दं व[र्ज]यित्वा आदिगोनन्दमा[र]भ्य [अन्ये क]वयो न स्मर[न्ति स्म अस्माभि॰ ॰ ॰ ॰ ॰].  
 
---2) A2 gloss कश्यपेन.  
+[^0045-1]: Thus A1; corrected by a later band into कुकृत्यैः which reading is found also into G and R.  
 
-0042.  
+[^0045-2]: A3 gloss राज्ञां.  
 
---1) A3 adds a gloss in margin which has partially become effaced; words in brackets supplemented from copy in R: [विद्या]दिकं द्रा[क्ष्यापर्य]न्तं इत्येत[द्र्व्यजातं त्रिदिवेपि] दुर्लभं [स]त् यत्र कश्मरीमण्डले सामान्यं साधारणमस्ति सर्वजनोपभोग्यं सुलभमिति यावत् विद्यादिकं अनुपमं अत्युत्कृष्टं यत्रैवास्ति त्रिदिवेपि दुर्लभत्वा[द]न्यत्र साधारणं नास्तीति व्याख्याकरणेन । यत्रासामान्यमिति पाठान्तरं यद्यपि सङ्गच्छत इव तथापि नैतत्समीचीनम् । छन्दोभङ्गापातात् अनुष्टुभि हि सर्वपादेषु पञ्चमा[क्षरस्य] लघुतयैव सर्वत्र दर्शनात् । यदुक्तं पञ्च[मं लघु सर्वत्र इत्यादि].  
+[^0046-1]: A has भुजतरुवन. with figures indicating transposition, written by an old hand; G and R read as above.  
 
-0043.  
+[^0047-1]: A1 writes शरा above पदा; शरा smeared over by later hand.  
 
---1) G has the reading भूः in margin.  
+[^0047-2]: A3 in margin सर्वेप्य॰; R सर्वो by another hand.  
 
-0044.  
+[^0048-1]: A4 gloss अन्यमतं युग्मेनाह.  
 
---1) A1 had आनन्दात्; गो supplemented by A3; A2 adds a gloss in margin which has become partially effaced (words in brackets from R): आ गोनन्दात् तृतीयगोनन्दात् आ तृतीय[गो]नन्दं व[र्ज]यित्वा आदिगोनन्दमा[र]भ्य [अन्ये क]वयो न स्मर[न्ति स्म अस्माभि॰ ॰ ॰ ॰ ॰].  
+[^0048-2]: A2 marginal gloss त्रिपञ्चाशदधिके वर्षशतषट्के कलियुगस्य गते इत्यर्थः.  
 
-0045.  
+[^0052-1]: A3 marginal gloss अद्य जयसिंहमये.  
 
---1) Thus A1; corrected by a later band into कुकृत्यैः which reading is found also into G and R.  
-
---2) A3 gloss राज्ञां.  
-
-0046.  
-
---1) A has भुजतरुवन. with figures indicating transposition, written by an old hand; G and R read as above.  
-
-0047.  
-
---1) A1 writes शरा above पदा; शरा smeared over by later hand.  
-
---2) A3 in margin सर्वेप्य॰; R सर्वो by another hand.  
-
-0048.  
-
---1) A4 gloss अन्यमतं युग्मेनाह.  
-
---2) A2 marginal gloss त्रिपञ्चाशदधिके वर्षशतषट्के कलियुगस्य गते इत्यर्थः.  
-
-0052.  
-
---1) A3 marginal gloss अद्य जयसिंहमये.  
-
-0053.  
-
---1) A3 तथा.  
+[^0053-1]: A3 तथा.  
 
 55  
 
@@ -340,65 +280,41 @@ title = "कल्हण-राजतरङ्गिणी"
 आस्तां बालस्य संनद्धे द्वे धात्र्यौ तस्य वृद्धये । KRT_1_0077ab  
 एका[^0077-1] पयःप्रस्रविणी[^0077-2] सर्वसंपत्प्रसूः परा[^0077-3] ॥ KRT_1_0077cd  
 
-0056.  
+[^0056-1]: See XIII.3. A2 marginal gloss रत्नकोशाख्ये ज्योतिर्ग्रन्थे एषा आर्या । यत्सारमानीय रत्नमाला विहिता श्रीपतिना. In A alater hand, not met with elsewhere, adds in margin a gloss which has faded in parts (words in brackets supplied from R): आसन्मघास्विति एकैकस्मिन्धिष्ण्ये शतं शतं चरन्ति वर्षाणामिति वचनात् तत्समये मघास्ववस्थानात्सप्तर्षीणां कश्मीरेष्वतिप्रसिद्धलौकिकसंवत्सरपरिज्ञानार्थमेतदुक्तमन्यमन्येपीहानीतम् । षट्द्विकेति तस्य राज्यस्य युधिष्ठिरीयराज्यस्य यः शककालः पूर्वोक्तः शतेषु षट्सु सार्धेष्वित्यादिकः त्रिपञ्चाशदधिकषसट्श[रूपः स] षट्द्विकपञ्चद्वियुतः 2526 एता[व]ता वर्षवृन्देन युतः गोगैकगुन[तुल्यो भवति 3179 अयं शककालो वर्तमानशककालो भवति इत्यध्याहारः] गणितव्यवहारार्थं लौकिकः शककालः शालिवारुनीयः भवति इत्यर्थः 3179 एतावत्परिमिते कलेर्गताब्दवृन्दे याते शालिवाहनोभूदित्यर्थः तदुक्तं ब्रह्मसिद्धान्ते । कल्पपरार्धं मनवः षट् तस्याब्दाश्चतु[र्युगं त्रि]घनम् त्रीणि कृतादीनि पुनर्गोगैकगु[णाः शक]नृपान्तेब्दा इति 60.  
 
---1) See XIII.3. A2 marginal gloss रत्नकोशाख्ये ज्योतिर्ग्रन्थे एषा आर्या । यत्सारमानीय रत्नमाला विहिता श्रीपतिना. In A alater hand, not met with elsewhere, adds in margin a gloss which has faded in parts (words in brackets supplied from R): आसन्मघास्विति एकैकस्मिन्धिष्ण्ये शतं शतं चरन्ति वर्षाणामिति वचनात् तत्समये मघास्ववस्थानात्सप्तर्षीणां कश्मीरेष्वतिप्रसिद्धलौकिकसंवत्सरपरिज्ञानार्थमेतदुक्तमन्यमन्येपीहानीतम् । षट्द्विकेति तस्य राज्यस्य युधिष्ठिरीयराज्यस्य यः शककालः पूर्वोक्तः शतेषु षट्सु सार्धेष्वित्यादिकः त्रिपञ्चाशदधिकषसट्श[रूपः स] षट्द्विकपञ्चद्वियुतः 2526 एता[व]ता वर्षवृन्देन युतः गोगैकगुन[तुल्यो भवति 3179 अयं शककालो वर्तमानशककालो भवति इत्यध्याहारः] गणितव्यवहारार्थं लौकिकः शककालः शालिवारुनीयः भवति इत्यर्थः 3179 एतावत्परिमिते कलेर्गताब्दवृन्दे याते शालिवाहनोभूदित्यर्थः तदुक्तं ब्रह्मसिद्धान्ते । कल्पपरार्धं मनवः षट् तस्याब्दाश्चतु[र्युगं त्रि]घनम् त्रीणि कृतादीनि पुनर्गोगैकगु[णाः शक]नृपान्तेब्दा इति 60.  
+[^0060-1]: A1 writes in place of the last three aksharas य..., A3 has filled up the lacuna with हसितैः, striking out य.  
 
-0060.  
+[^0062-1]: Thus A1, A2 reads वरणस्रग्॰; G and R follow A1.  
 
---1) A1 writes in place of the last three aksharas य..., A3 has filled up the lacuna with हसितैः, striking out य.  
+[^0063-1]:Thus corrected by A1 रको॰.  
 
-0062.  
+[^0066-1]: Thus corrected by A3 from A1 शुश्रुवा॰.  
 
---1) Thus A1, A2 reads वरणस्रग्॰; G and R follow A1.  
+[^0068-1]: Doutful. Thus A1; A3 reads vighnyate, also copied in R; G has विघ्नति.  
 
-0063.  
+[^0069-1]: Thus A1; A3 तत्रा॰.  
 
---1)Thus corrected by A1 रको॰.  
+[^0069-2]: Thus corrected by A3; A1 reads ॰चक्र सश्चक्रा॰.  
 
-0066.  
+[^0070-1]: Thus A1; A3 यशोमतीं.  
 
---1) Thus corrected by A3 from A1 शुश्रुवा॰.  
+[^0071-1]: Thus corrected by A3; A1 स्वसिवा॰.  
 
-0068.  
+[^0071-2]: A2 gloss शमयामास.  
 
---1) Doutful. Thus A1; A3 reads vighnyate, also copied in R; G has विघ्नति.  
+[^0072-1]: Thus corrected by A2 from A1 ॰राड्पर्वती.  
 
-0069.  
+[^0072-2]: A later hand (perhaps A3) in margin ज्ञेयश्शिवांशजः.  
 
---1) Thus A1; A3 तत्रा॰.  
+[^0072-3]: A2 in margin स्वात्मनो.  
 
---2) Thus corrected by A3; A1 reads ॰चक्र सश्चक्रा॰.  
+[^0074-1]: A2 gloss यशोवती.  
 
-0070.  
+[^0077-1]: A3 gloss उपमाता.  
 
---1) Thus A1; A3 यशोमतीं.  
+[^0077-2]: A3 reads प्रसविनी.  
 
-0071.  
-
---1) Thus corrected by A3; A1 स्वसिवा॰.  
-
---2) A2 gloss शमयामास.  
-
-0072.  
-
---1) Thus corrected by A2 from A1 ॰राड्पर्वती.  
-
---2) A later hand (perhaps A3) in margin ज्ञेयश्शिवांशजः.  
-
---3) A2 in margin स्वात्मनो.  
-
-0074.  
-
---1) A2 gloss यशोवती.  
-
-0077.  
-
---1) A3 gloss उपमाता.  
-
---2) A3 reads प्रसविनी.  
-
---3) A3 has marginal gloss भूमिः below which यशोवती is written, perhaps, by the same hand.  
+[^0077-3]: A3 has marginal gloss भूमिः below which यशोवती is written, perhaps, by the same hand.  
 
 [page 4]  
 
@@ -451,53 +367,35 @@ title = "कल्हण-राजतरङ्गिणी"
 राजाग्रहारयोः कर्ता[^0100-1] शमाङ्गासाशनारयो[^0100-2]ः । KRT_1_0100ab  
 सोभूदपुत्रः सुत्रामविष्टरार्धसमाश्रयी ॥ KRT_1_0100cd  
 
-0079.  
+[^0079-1]: A3 अबुद्धमनु.  
 
---1) A3 अबुद्धमनु.  
+[^0079-2]: A3 gloss मन्त्रिणः.  
 
---2) A3 gloss मन्त्रिणः.  
+[^0083-1]: A3 adds the following notes in the margin: द्वापञ्चाशन्नृपमध्यात् अस्माकं पञ्चत्रिंशन्नृपा विस्मृताः अन्येषां तु द्वापञ्चाशति नृपाः । यत्पूर्वमुक्तं आगोनन्दात्स्मरन्ति स्म न द्वापञ्चाशतं नृपानिति ॥ and द्वापञ्चाशतो मध्यात्सप्तादश नृपा अस्माभिर्वर्णिताः । पञ्चत्रिंशन्नृपास्तु हस्तविषयं नप्राप्ताः । तत्र आदिगोनन्दादयः बालगोनन्दान्ताः चत्वारः पूर्वं वर्णिताः । लवनृपादारभ्य शचीनरान्ता अष्टौ वर्णिताः । ततः अथावहदशोकाख्य इत्यादिaन अशोकादारभ्य अभिमन्युपर्यन्तं पञ्च नृपा वर्णयिष्यते(sic) । एवं सप्तादश नृपा अन्यान्तरान्वीक्ष्य वर्णिताः । अवशिष्टाः पञ्चत्रिंशद्विस्तृता एव ॥ एवं सर्वे द्वापञ्चाशति नृपाः ॥.  
 
-0083.  
+[^0086-1]: A3 marginal gloss चतुरशीतिसहस्रगृहं नगरमित्यर्थः.  
 
---1) A3 adds the following notes in the margin: द्वापञ्चाशन्नृपमध्यात् अस्माकं पञ्चत्रिंशन्नृपा विस्मृताः अन्येषां तु द्वापञ्चाशति नृपाः । यत्पूर्वमुक्तं आगोनन्दात्स्मरन्ति स्म न द्वापञ्चाशतं नृपानिति ॥ and द्वापञ्चाशतो मध्यात्सप्तादश नृपा अस्माभिर्वर्णिताः । पञ्चत्रिंशन्नृपास्तु हस्तविषयं नप्राप्ताः । तत्र आदिगोनन्दादयः बालगोनन्दान्ताः चत्वारः पूर्वं वर्णिताः । लवनृपादारभ्य शचीनरान्ता अष्टौ वर्णिताः । ततः अथावहदशोकाख्य इत्यादिaन अशोकादारभ्य अभिमन्युपर्यन्तं पञ्च नृपा वर्णयिष्यते(sic) । एवं सप्तादश नृपा अन्यान्तरान्वीक्ष्य वर्णिताः । अवशिष्टाः पञ्चत्रिंशद्विस्तृता एव ॥ एवं सर्वे द्वापञ्चाशति नृपाः ॥.  
+[^0086-2]: A gloss below this word has been smeared over with yellow paint; it appears to be लोव(Lolan ?).  
 
-0086.  
+[^0088-1]: Thus corrected by A3 from A1 ॰शयाख्य॰; ॰याक्ष॰ also in G and R.  
 
---1) A3 marginal gloss चतुरशीतिसहस्रगृहं नगरमित्यर्थः.  
+[^0088-2]: An old gloss, apparently गल्लर्(?), has been smeared over with yellow paint; A4 adds कुलर्.  
 
---2) A gloss below this word has been smeared over with yellow paint; it appears to be लोव(Lolan ?).  
+[^0092-1]: Thus corrected by A1 तस्य.  
 
-0088.  
+[^0092-2]: A3 in margin न सुरेन्द्रः समानताम्.  
 
---1) Thus corrected by A3 from A1 ॰शयाख्य॰; ॰याक्ष॰ also in G and R.  
+[^0094-1]: A2 reads सोर॰.  
 
---2) An old gloss, apparently गल्लर्(?), has been smeared over with yellow paint; A4 adds कुलर्.  
+[^0096-1]: A2 has the glosses गोधर् and अस्तीहिल्.  
 
-0092.  
+[^0097-1]: A2 gloss in margin स्वभरमय् नाडो, smeared over and repeated between the lines by A4.  
 
---1) Thus corrected by A1 तस्य.  
+[^0097-2]: A2 gloss आर्धवने.  
 
---2) A3 in margin न सुरेन्द्रः समानताम्.  
+[^0100-1]: This word has been left out by A1 and supplied by A3.  
 
-0094.  
-
---1) A2 reads सोर॰.  
-
-0096.  
-
---1) A2 has the glosses गोधर् and अस्तीहिल्.  
-
-0097.  
-
---1) A2 gloss in margin स्वभरमय् नाडो, smeared over and repeated between the lines by A4.  
-
---2) A2 gloss आर्धवने.  
-
-0100.  
-
---1) This word has been left out by A1 and supplied by A3.  
-
---2) A4 writes the glosses श्वाङ्गस् and श्नार् over older glosses, apparently by A2, which have been smeared over with those written above them by A4. R has the glosses श्वाङ्गम् and त्त्नार्(sic). A1 puts a small after शमाङ्गासा, including the division of words.  
+[^0100-2]: A4 writes the glosses श्वाङ्गस् and श्नार् over older glosses, apparently by A2, which have been smeared over with those written above them by A4. R has the glosses श्वाङ्गम् and त्त्नार्(sic). A1 puts a small after शमाङ्गासा, including the division of words.  
 
 [page 5]  
 
@@ -548,79 +446,55 @@ title = "कल्हण-राजतरङ्गिणी"
 द्वारादिषु[^0122-1] प्रदेशेषु प्रभावोग्राण्युदग्रया । KRT_1_0122ab  
 ईशानदेव्या तत्पत्न्या मातृचक्राणि चक्रिरे ॥ KRT_1_0122cd  
 
-0102.  
+[^0102-1]: A3 writes the gloss हुखलेत्रो between the lines and adds in margin: शुष्कलेत्रश्च वि[त]स्ता[त्र]श्च तौ शुष्कलेत्रवितस्तात्रौ । द्वितीया द्विवचनमेतत्. G adds to the gloss इखलेत्र another: उत्तरहिल्.  
 
---1) A3 writes the gloss हुखलेत्रो between the lines and adds in margin: शुष्कलेत्रश्च वि[त]स्ता[त्र]श्च तौ शुष्कलेत्रवितस्तात्रौ । द्वितीया द्विवचनमेतत्. G adds to the gloss इखलेत्र another: उत्तरहिल्.  
+[^0102-2]: A2 gloss बौधविहारैः.  
 
---2) A2 gloss बौधविहारैः.  
+[^0103-1]: A2 gloss विथवत्रो; another gloss in margin smeared over with yellow paint and illegible.  
 
-0103.  
+[^0105-1]: A3 gloss सौधम्.  
 
---1) A2 gloss विथवत्रो; another gloss in margin smeared over with yellow paint and illegible.  
+[^0105-2]: A3 reads प्रासादो.  
 
-0105.  
+[^0105-3]: A1 had first written निर्मितः(?) and then erased it.  
 
---1) A3 gloss सौधम्.  
+[^0106-1]: A4 gloss आलस्यं.  
 
---2) A3 reads प्रासादो.  
+[^0108-1]: G gloss इन्द्रः.  
 
---3) A1 had first written निर्मितः(?) and then erased it.  
+[^0108-2]: Thus corrected by A3 from A1 श्रद्धया.  
 
-0106.  
+[^0109-1]: A3 reads आश्चर्यचर्यतां.  
 
---1) A4 gloss आलस्यं.  
+[^0109-2]: Thus corrected by A2 from A1 निश्चयं.  
 
-0108.  
+[^0109-3]: Emended; A R G द्युस॰.  
 
---1) G gloss इन्द्रः.  
+[^0110-1]: A3 adds a marginal not, the last line of which has become faded; this has been copied by a different hand below and is shown in brackets: सिद्धे रसे कोटिवेधिनि सति । हाटकार्पणैः स्वर्णदानैः कृत्वा स राजा ब्रह्माण्डस्य सुषिरतां शून्यतां हर्तुं दूरीकर्तुं ध्रुवं निश्चयेन क्षमः समर्थोभूत् । कोटिवेधिसिद्धरसप्राप्तिवशात्तादृशं सुवर्णं दातुं [शक्तोभूद्येन ब्रह्माण्डस्यापि पूरणं संभवेदिति भावः].  
 
---2) Thus corrected by A3 from A1 श्रद्धया.  
+[^0110-2]: A3 reads ॰वेदिनि.  
 
-0109.  
+[^0110-3]: A3 reads सुरिक्ततां.  
 
---1) A3 reads आश्चर्यचर्यतां.  
+[^0110-4]: Thus corrected by A3 from A1 कर्तुः; thus also in R and G.  
 
---2) Thus corrected by A2 from A1 निश्चयं.  
+[^0110-5]: A3 reads in margin ब्रह्माण्डस्य.  
 
---3) Emended; A R G द्युस॰.  
+[^0116-1]: Thge akshara य has been effaced in A at the beginning of a line and supplied by A4 at the end of the preceeding onbe; G and R also यत्रो॰.  
 
-0110.  
+[^0116-2]: A3 gloss निकर्षिताः.  
 
---1) A3 adds a marginal not, the last line of which has become faded; this has been copied by a different hand below and is shown in brackets: सिद्धे रसे कोटिवेधिनि सति । हाटकार्पणैः स्वर्णदानैः कृत्वा स राजा ब्रह्माण्डस्य सुषिरतां शून्यतां हर्तुं दूरीकर्तुं ध्रुवं निश्चयेन क्षमः समर्थोभूत् । कोटिवेधिसिद्धरसप्राप्तिवशात्तादृशं सुवर्णं दातुं [शक्तोभूद्येन ब्रह्माण्डस्यापि पूरणं संभवेदिति भावः].  
+[^0117-1]: A3 reads ॰कुब्जादौ.  
 
---2) A3 reads ॰वेदिनि.  
+[^0117-2]: A1 had सं॰; corrected into स which is found also G and R.  
 
---3) A3 reads सुरिक्ततां.  
+[^0118-1]: Thus corrected by later hand from A1 ॰प्राप्तं; G and R read as above.  
 
---4) Thus corrected by A3 from A1 कर्तुः; thus also in R and G.  
+[^0118-2]: A3 reads ॰राज्ञां.  
 
---5) A3 reads in margin ब्रह्माण्डस्य.  
+[^0123-1]: A3 reads वनबाला॰. R has the gloss बारबलो.  
 
-0116.  
-
---1) Thge akshara य has been effaced in A at the beginning of a line and supplied by A4 at the end of the preceeding onbe; G and R also यत्रो॰.  
-
---2) A3 gloss निकर्षिताः.  
-
-0117.  
-
---1) A3 reads ॰कुब्जादौ.  
-
---2) A1 had सं॰; corrected into स which is found also G and R.  
-
-0118.  
-
---1) Thus corrected by later hand from A1 ॰प्राप्तं; G and R read as above.  
-
---2) A3 reads ॰राज्ञां.  
-
-0123.  
-
---1) A3 reads वनबाला॰. R has the gloss बारबलो.  
-
-0122.  
-
---1) The faded gloss of A3 [ह]स्तिशालादिषु has been repented in margin by A4.  
+[^0122-1]: The faded gloss of A3 [ह]स्तिशालादिषु has been repented in margin by A4.  
 
 [page 6]  
 
@@ -679,71 +553,47 @@ title = "कल्हण-राजतरङ्गिणी"
 विधाय सोश्म[^0148-1]प्रासादं नन्दिक्षेत्रे क्षमापतिः । KRT_1_0148ab  
 भूतेशाय क्षमां[^0148-2] कोशैः पूजां रत्नमयीं ददौ ॥ KRT_1_0148cd  
 
-0126.  
+[^0126-1]: A3 gloss सदृश. G has the marginal gloss सोदरबल् गगरिबल्.  
 
---1) A3 gloss सदृश. G has the marginal gloss सोदरबल् गगरिबल्.  
+[^0128-1]: A4 reads तत्र. This various reading is not found in G and R.  
 
-0128.  
+[^0128-2]: A3 gloss रिक्त.  
 
---1) A4 reads तत्र. This various reading is not found in G and R.  
+[^0132-1]: Thus A1; also G and R. In A the various reading यथेच्छम् is indicated between the lines, perhaps by A1.  
 
---2) A3 gloss रिक्त.  
+[^0133-1]: Thus corrected by A3 from A1 दातुं. G and R read मांसं.  
 
-0132.  
+[^0137-1]: A2 reads तपसः.  
 
---1) Thus A1; also G and R. In A the various reading यथेच्छम् is indicated between the lines, perhaps by A1.  
+[^0139-1]: A3 कृपया.  
 
-0133.  
+[^0139-2]: A3 हितं.  
 
---1) Thus corrected by A3 from A1 दातुं. G and R read मांसं.  
+[^0139-3]: A3 नेच्छन्ति.  
 
-0137.  
+[^0139-4]: विश्वोद्धर॰.  
 
---1) A2 reads तपसः.  
-
-0139.  
-
---1) A3 कृपया.  
-
---2) A3 हितं.  
-
---3) A3 नेच्छन्ति.  
-
---4) विश्वोद्धर॰.  
-
-0140.  
-
---1) A3 marginal gloss तदा बोधिसत्त्वैरहमित्यनुशिष्टा इत्यनेन वक्ष्यमाणेन संबन्धः.  
+[^0140-1]: A3 marginal gloss तदा बोधिसत्त्वैरहमित्यनुशिष्टा इत्यनेन वक्ष्यमाणेन संबन्धः.  
 
 141  
 
 --1) Thus corr. by later hand from A1 ॰शक्यः; A3 gloss राज्ञः.  
 
-0142.  
+[^0142-1]: A3 gloss राजा.  
 
---1) A3 gloss राजा.  
+[^0142-2]: A3 gloss मलिनः कृतः.  
 
---2) A3 gloss मलिनः कृतः.  
+[^0143-1]: A3 gloss राज्ञः.  
 
-0143.  
+[^0144-1]: A3 बोधाय(?) in margin; struck out.  
 
---1) A3 gloss राज्ञः.  
+[^0145-1]: A3 gloss सत्त्वाधिक्यम्.  
 
-0144.  
+[^0145-2]: A3 जाता. G rads ॰पापोद्यसंवृत्तः  
 
---1) A3 बोधाय(?) in margin; struck out.  
+[^0148-1]: A3 as above; A1 सोष्म॰.  
 
-0145.  
-
---1) A3 gloss सत्त्वाधिक्यम्.  
-
---2) A3 जाता. G rads ॰पापोद्यसंवृत्तः  
-
-0148.  
-
---1) A3 as above; A1 सोष्म॰.  
-
---2) Thus A1; A3 समं.  
+[^0148-2]: Thus A1; A3 समं.  
 
 [page 7]  
 
@@ -802,99 +652,63 @@ title = "कल्हण-राजतरङ्गिणी"
 अथ निष्कण्टको राजा कण्टकोत्सा[^0174-1]ग्रहारदः । KRT_1_0174ab  
 अभीर्बभूवाभिमन्युः शतमन्युरिवापरः ॥ KRT_1_0174cd  
 
-0150.  
+[^0150-1]: G has the v. l. स्पर्धनो॰ in margin.  
 
---1) G has the v. l. स्पर्धनो॰ in margin.  
+[^0150-2]: Thus A3; A1 कुण्डताम्  
 
---2) Thus A3; A1 कुण्डताम्  
+[^0152-1]: A3 सोपरोध॰.  
 
-0152.  
+[^0153-1]: A3 gloss कुलं.  
 
---1) A3 सोपरोध॰.  
+[^0154-1]: Thus A3; A1 अस्यापि.  
 
-0153.  
+[^0155-1]: Thus A3; A1 ॰प्रासादमात्रेण.  
 
---1) A3 gloss कुलं.  
+[^0156-1]: A3 gloss गुडसुथो इति भाषया.  
 
-0154.  
+[^0157-1]: A3 gloss दान्दुर् ओडर्.  
 
---1) Thus A3; A1 अस्यापि.  
+[^0160-1]: Thus corr. by A3 from A1 ॰तयश्चिन्त्या.  
 
-0155.  
+[^0160-2]: A3 gloss दामोदरनृपसदृशानां.  
 
---1) Thus A3; A1 ॰प्रासादमात्रेण.  
+[^0161-1]: A3 बलान्नष्टा.  
 
-0156.  
+[^0163-1]:  
 
---1) A3 gloss गुडसुथो इति भाषया.  
+[^0163-2]:  
 
-0157.  
+[^0163-3]: A3 glosses ब्राह्मणः, नदीं, चक्रुः.  
 
---1) A3 gloss दान्दुर् ओडर्.  
+[^0164-1]: A3 स्पृष्टै॰.  
 
-0160.  
+[^0164-2]: A3 gloss राजा.  
 
---1) Thus corr. by A3 from A1 ॰तयश्चिन्त्या.  
+[^0164-3]: A3 gloss मायया.  
 
---2) A3 gloss दामोदरनृपसदृशानां.  
+[^0165-1]: A2 gloss ब्राह्मणाः.  
 
-0161.  
+[^0166-1]: Thus A1; A3 च in margin. G and R follow A3.  
 
---1) A3 बलान्नष्टा.  
+[^0167-1]: A2 gloss जोकोरस्य.  
 
-0163.  
+[^0167-2]: A2 gloss जिहासपुर.  
 
---1)  
+[^0170-1]: A3 पुण्याशया.  
 
---2)  
+[^0170-2]: A2 gloss हुखलेत्रो.  
 
---3) A3 glosses ब्राह्मणः, नदीं, चक्रुः.  
+[^0170-2]: A3 ॰चैत्यानि.  
 
-0164.  
+[^0171-1]: A3 gloss व्रतं नाम.  
 
---1) A3 स्पृष्टै॰.  
+[^0173-1]: Thus corr. by A3 from A2 भूम्येश्वरो.  
 
---2) A3 gloss राजा.  
+[^0173-2]: A2 वसन्.  
 
---3) A3 gloss मायया.  
+[^0173-3]: Thus corr. by A2 from A1 ॰र्हन्वन; A2 gloss हर्वन् ग्रामे.  
 
-0165.  
-
---1) A2 gloss ब्राह्मणाः.  
-
-0166.  
-
---1) Thus A1; A3 च in margin. G and R follow A3.  
-
-0167.  
-
---1) A2 gloss जोकोरस्य.  
-
---2) A2 gloss जिहासपुर.  
-
-0170.  
-
---1) A3 पुण्याशया.  
-
---2) A2 gloss हुखलेत्रो.  
-
---2) A3 ॰चैत्यानि.  
-
-0171.  
-
---1) A3 gloss व्रतं नाम.  
-
-0173.  
-
---1) Thus corr. by A3 from A2 भूम्येश्वरो.  
-
---2) A2 वसन्.  
-
---3) Thus corr. by A2 from A1 ॰र्हन्वन; A2 gloss हर्वन् ग्रामे.  
-
-0174.  
-
---1) A3 gloss कण्डोर्.  
+[^0174-1]: A3 gloss कण्डोर्.  
 
 [page 8]  
 
@@ -961,57 +775,37 @@ title = "कल्हण-राजतरङ्गिणी"
 
 --2) A2 reads शशाङ्कार्ध॰.  
 
-0176.  
+[^0176-1]: A1 originally as above; A1 or a later hand has altered this to ॰देशं तस्मात्, but A3 has restored the first reading. G and R have ॰देशं in text and ॰ देशात् in margin.  
 
---1) A1 originally as above; A1 or a later hand has altered this to ॰देशं तस्मात्, but A3 has restored the first reading. G and R have ॰देशं in text and ॰ देशात् in margin.  
+[^0176-2]: A2 gloss चन्द्रव्याकरणं.  
 
---2) A2 gloss चन्द्रव्याकरणं.  
+[^0180-1]: A2 gloss भेम्भेर् दानगले देशे.  
 
-0180.  
+[^0183-1]: A3 ॰धायिनाम्.  
 
---1) A2 gloss भेम्भेर् दानगले देशे.  
+[^0182-1]: A1 ततस्तेपे; corr. by A2 as above.  
 
-0183.  
+[^0184-1]: A2 बौद्धवि॰.  
 
---1) A3 ॰धायिनाम्.  
+[^0185-1]: A1 as above; a later hand corr. तृतीयगोनन्दः प्राप्तराज्यस्तद॰.  
 
-0182.  
+[^0185-2]: A4 gloss तीर्थेषु.  
 
---1) A1 ततस्तेपे; corr. by A2 as above.  
+[^0188-1]: A2 नश्येयुः सहान्वयाः.  
 
-0184.  
-
---1) A2 बौद्धवि॰.  
-
-0185.  
-
---1) A1 as above; a later hand corr. तृतीयगोनन्दः प्राप्तराज्यस्तद॰.  
-
---2) A4 gloss तीर्थेषु.  
-
-0188.  
-
---1) A2 नश्येयुः सहान्वयाः.  
-
-0189.  
-
---1) Thus A3; A1 देवे.  
+[^0189-1]: Thus A3; A1 देवे.  
 
 <190>.  
 
 --1) A2 gloss गोनन्दस्य.  
 
-0194.  
+[^0194-1]: A2 gloss राज्ञः.  
 
---1) A2 gloss राज्ञः.  
+[^0194-2]: A3 पूजार्ह.  
 
---2) A3 पूजार्ह.  
+[^0199-1]: A2 gloss कानीर् ग्रामः प्रसिद्धः.  
 
-0199.  
-
---1) A2 gloss कानीर् ग्रामः प्रसिद्धः.  
-
---2) A3 gloss बौद्धः.  
+[^0199-2]: A3 gloss बौद्धः.  
 
 [page 9]  
 
@@ -1070,75 +864,43 @@ title = "कल्हण-राजतरङ्गिणी"
 परदुःखं समा[^0227-1]कर्ण्य स्वभावसुजनो जनः । KRT_1_0227ab  
 उपकारासमर्थत्वात्प्राप्नोति हृदयव्यथाम् ॥ KRT_1_0227cd  
 
-0202.  
+[^0202-1]: A3 gloss कुबेर.  
 
---1) A3 gloss कुबेर.  
+[^0204-1]: A3 gloss मध्याह्ने.  
 
-0204.  
+[^0205-1]: A3 सरोजल॰.  
 
---1) A3 gloss मध्याह्ने.  
+[^0207-1]: A3 gloss द्विवचनम्.  
 
-0205.  
+[^0208-1]: A2 gloss कर्णिकायां कर्णाभरणे.  
 
---1) A3 सरोजल॰.  
+[^0209-1]: A3 gloss अंशुक.  
 
-0207.  
+[^0211-1]:  
 
---1) A3 gloss द्विवचनम्.  
+[^0211-2]: A3 glosses कच्छयधान्ये, हिम इति भाषया.  
 
-0208.  
+[^0212-1]: A3 gloss विप्रः.  
 
---1) A2 gloss कर्णिकायां कर्णाभरणे.  
+[^0213-1]: Thus corr. from A1 ॰श्चटसीत्कृतैः by A3 which adds the note चटसीकृतैः झलाहरणभाण्डतया विरचितैः पुटकैः पचपुटैः सङ्गृह्य सम्यग्गृहीत्वा पानीयं चोपनिन्ये । चटसं कुम्भाद्यभावे कृत्त्रिममुदकोत्क्षेपणभाण्डम् । इति विवरणकाराः । चटसीकृतदलपुटैर्जलानयनवर्णनाऽन्यत्रापि कृता । यथा कौसल्यां प्रति सुमंत्रो रामवनगमनदशां श्रावयति । विहितशयनोनेकन्यासैरनेकहपल्लवैः कलितकलशीकार्यः कुभीदलैश्चटसीकृतैः । अथ विरचितः किञ्चिन्म्लानप्रभोह्नि सुतेन ते परिसरसरिज्जम्बूकुञ्जे निकेतपरिग्रह इति ॥.  
 
-0209.  
+[^0213-2]: Thus corr. by A3 from A2 ॰शीस्कृतम्.  
 
---1) A3 gloss अंशुक.  
+[^0214-1]: A3 gloss चमु अदने.  
 
-0211.  
+[^0217-1]: This verse is supplied in margin by a hand resembling A3; found in G R Edd.--2) A2 gloss किञ्चित्.  
 
---1)  
+[^0220-1]: Emended; A R G ज्येष्ठे.  
 
---2) A3 glosses कच्छयधान्ये, हिम इति भाषया.  
+[^0220-2]: Thus corr. by A1 from चूलया.  
 
-0212.  
+[^0222-1]: A2 gloss प्रेक्षिकः  
 
---1) A3 gloss विप्रः.  
+[^0224-1]: A3 ॰वेदिताय.  
 
-0213.  
+[^0225-1]: A3 gloss नागः.  
 
---1) Thus corr. from A1 ॰श्चटसीत्कृतैः by A3 which adds the note चटसीकृतैः झलाहरणभाण्डतया विरचितैः पुटकैः पचपुटैः सङ्गृह्य सम्यग्गृहीत्वा पानीयं चोपनिन्ये । चटसं कुम्भाद्यभावे कृत्त्रिममुदकोत्क्षेपणभाण्डम् । इति विवरणकाराः । चटसीकृतदलपुटैर्जलानयनवर्णनाऽन्यत्रापि कृता । यथा कौसल्यां प्रति सुमंत्रो रामवनगमनदशां श्रावयति । विहितशयनोनेकन्यासैरनेकहपल्लवैः कलितकलशीकार्यः कुभीदलैश्चटसीकृतैः । अथ विरचितः किञ्चिन्म्लानप्रभोह्नि सुतेन ते परिसरसरिज्जम्बूकुञ्जे निकेतपरिग्रह इति ॥.  
-
---2) Thus corr. by A3 from A2 ॰शीस्कृतम्.  
-
-0214.  
-
---1) A3 gloss चमु अदने.  
-
-0217.  
-
---1) This verse is supplied in margin by a hand resembling A3; found in G R Edd.--2) A2 gloss किञ्चित्.  
-
-0220.  
-
---1) Emended; A R G ज्येष्ठे.  
-
---2) Thus corr. by A1 from चूलया.  
-
-0222.  
-
---1) A2 gloss प्रेक्षिकः  
-
-0224.  
-
---1) A3 ॰वेदिताय.  
-
-0225.  
-
---1) A3 gloss नागः.  
-
-0227.  
-
---1) A3 वदा.  
+[^0227-1]: A3 वदा.  
 
 [page 10]  
 
@@ -1201,33 +963,21 @@ title = "कल्हण-राजतरङ्गिणी"
 सर्वोपायैरासाध्यां च विप्रस्तत्पतिरप्यसौ । KRT_1_0255ab  
 तेनायाच्यत लुब्धेन रागान्धानां कुतस्त्रपा ॥ KRT_1_0255cd  
 
-0228.  
+[^0228-1]: Thus corr. by A3 from A1 ॰मेतः.  
 
---1) Thus corr. by A3 from A1 ॰मेतः.  
+[^0228-2]: Thus corr. by A2 from A1 स्तुतेरा॰.  
 
---2) Thus corr. by A2 from A1 स्तुतेरा॰.  
+[^0228-3]: A2 पुनः; A3 gloss नीचो जनः.  
 
---3) A2 पुनः; A3 gloss नीचो जनः.  
+[^0232-1]: A2 ॰द्धिताशने.  
 
-0232.  
+[^0234-1]: A3 अभुक्तं मान्त्रिकैरन्नं नवं.  
 
---1) A2 ॰द्धिताशने.  
+[^0237-1]: Thus A3; A1 ॰रात्रौ.  
 
-0234.  
+[^0238-1]: Thus A1; a later hand alters this into नवान्नान्यक्षिपत्, found in G and R.  
 
---1) A3 अभुक्तं मान्त्रिकैरन्नं नवं.  
-
-0237.  
-
---1) Thus A3; A1 ॰रात्रौ.  
-
-0238.  
-
---1) Thus A1; a later hand alters this into नवान्नान्यक्षिपत्, found in G and R.  
-
-0249.  
-
---1) Thus A3; A1 ॰मुद्राङ्के.  
+[^0249-1]: Thus A3; A1 ॰मुद्राङ्के.  
 
 [page 11]  
 
@@ -1288,59 +1038,37 @@ title = "कल्हण-राजतरङ्गिणी"
 षष्टिमब्दान्प्रशास्योर्वीमासन्नानुचरान्वितः । KRT_1_0282ab  
 आरुरोह सदेहोसौ लोकाञ्शशिशिखामणेः ॥ KRT_1_0282cd  
 
-0256.  
+[^0256-1]: A3 gloss तस्याः भर्तुः.  
 
---1) A3 gloss तस्याः भर्तुः.  
+[^0256-2]: A3 gloss चन्द्रलेखां.  
 
---2) A3 gloss चन्द्रलेखां.  
+[^0262-1]: A3 तं तु तदा.  
 
-0262.  
+[^0232-1]: A3 gloss रमण्या नागी.  
 
---1) A3 तं तु तदा.  
+[^0264-1]: Thus A2; A1 ॰रान्महोदरम्.  
 
-0232.  
+[^0265-1]: A2 gloss रमण्याटवी रमेआडू इति प्रसिद्धः.  
 
---1) A3 gloss रमण्या नागी.  
+[^0265-2]: A1 originally ॰प्यस्थि, altered by later hand as above. G and R ॰प्यस्ति.  
 
-0264.  
+[^0267-1]: A2 adds the note अमरेश्वरयाचायां प्रागुद्दिष्टोयं नागः सुश्रवा इत्याख्यः सुश्रम् नाग इति भाषया प्रसिद्धः तस्यैवोपरि [निक]टस्थले जामा[तृ]नाग इति भाषया प्रसिद्धः स विशाखनामा ब्राह्मण एव निजश्वशुरानुग्रहेण नागीभूतो नाग इत्यर्थः. The aksharas in brackets are effaced in A and have supplied here from R.  
 
---1) Thus A2; A1 ॰रान्महोदरम्.  
+[^0269-1]: A G R निशङ्क॰.  
 
-0265.  
+[^0269-2]:  
 
---1) A2 gloss रमण्याटवी रमेआडू इति प्रसिद्धः.  
+[^0269-3]: A3 glosses राजानः, नरनामसदृशाः.  
 
---2) A1 originally ॰प्यस्थि, altered by later hand as above. G and R ॰प्यस्ति.  
+[^0271-1]: A3 राज्ञो.  
 
-0267.  
+[^0271-2]: Emended; A G R कियन्नाम.  
 
---1) A2 adds the note अमरेश्वरयाचायां प्रागुद्दिष्टोयं नागः सुश्रवा इत्याख्यः सुश्रम् नाग इति भाषया प्रसिद्धः तस्यैवोपरि [निक]टस्थले जामा[तृ]नाग इति भाषया प्रसिद्धः स विशाखनामा ब्राह्मण एव निजश्वशुरानुग्रहेण नागीभूतो नाग इत्यर्थः. The aksharas in brackets are effaced in A and have supplied here from R.  
+[^0273-1]: A3 gloss इन्द्रः.  
 
-0269.  
+[^0274-1]: A3 gloss अत्यन्त॰.  
 
---1) A G R निशङ्क॰.  
-
---2)  
-
---3) A3 glosses राजानः, नरनामसदृशाः.  
-
-0271.  
-
---1) A3 राज्ञो.  
-
---2) Emended; A G R कियन्नाम.  
-
-0273.  
-
---1) A3 gloss इन्द्रः.  
-
-0274.  
-
---1) A3 gloss अत्यन्त॰.  
-
-0281.  
-
---1) Thus A1; A3 धर्मेण व्य॰.  
+[^0281-1]: Thus A1; A3 धर्मेण व्य॰.  
 
 [page 12]  
 
@@ -1397,47 +1125,27 @@ title = "कल्हण-राजतरङ्गिणी"
 अग्रहाराञ्जगृहिरे गान्धारा ब्राह्मणास्ततः । KRT_1_0307ab  
 समानशीलास्तस्यैव ध्रुवं तेपि द्विजाधमाः ॥ KRT_1_0307cd  
 
-0283.  
+[^0283-1]: Thus corr. by A2 from A1 ॰वन्ध्यताम्.  
 
---1) Thus corr. by A2 from A1 ॰वन्ध्यताम्.  
+[^0283-1]: Thus A3; A1 प्रोद्घोषयन्ताड॰.  
 
-0283.  
+[^0286-1]: Thus corr. by later hand from A1 पेशलाक्षितया.  
 
---1) Thus A3; A1 प्रोद्घोषयन्ताड॰.  
+[^0287-1]: A2 gloss रण्येल् with note स्वनामाङ्कपुरप्रणीरित्यपि पाठः.  
 
-0286.  
+[^0287-2]: A सप्तत्रिं॰.  
 
---1) Thus corr. by later hand from A1 पेशलाक्षितया.  
+[^0291-1]: A2 gloss हन्यमानानां लोकानां यदशनं । अदनं । तत्रोत्सुकाः.  
 
-0287.  
+[^0294-1]: A2 gloss तिङ्गालद्वीप,  
 
---1) A2 gloss रण्येल् with note स्वनामाङ्कपुरप्रणीरित्यपि पाठः.  
+[^0297-1]: Thus corr. by A1 from रुजम्.  
 
---2) A सप्तत्रिं॰.  
+[^0299-1]: Thus corr. by A3 from A1 ॰शक्तिरपा॰.  
 
-0291.  
+[^0302-1]: A2 gloss तदारभ्य हस्तिवञ्ज इति प्रसिद्धः प्रदेशवर्त्म येन आयातो मिहिरकुलः.  
 
---1) A2 gloss हन्यमानानां लोकानां यदशनं । अदनं । तत्रोत्सुकाः.  
-
-0294.  
-
---1) A2 gloss तिङ्गालद्वीप,  
-
-0297.  
-
---1) Thus corr. by A1 from रुजम्.  
-
-0299.  
-
---1) Thus corr. by A3 from A1 ॰शक्तिरपा॰.  
-
-0302.  
-
---1) A2 gloss तदारभ्य हस्तिवञ्ज इति प्रसिद्धः प्रदेशवर्त्म येन आयातो मिहिरकुलः.  
-
-0305.  
-
---1) A3 वैत्युद्वृत्त॰.  
+[^0305-1]: A3 वैत्युद्वृत्त॰.  
 
 306  
 
@@ -1502,25 +1210,17 @@ title = "कल्हण-राजतरङ्गिणी"
 कर्मणा तेन सिद्धाया व्योमाक्रमणसूचकम् । KRT_1_0334ab  
 जानुमुद्राद्वयं तस्या दृशद्यद्यापि दृश्यते ॥ KRT_1_0334cd  
 
-0308.  
+[^0308-1]: Edd. add before this verse the following verses, not found in A G R: भगिनीवर्गसम्भोगनिर्लज्जाम्लेच्छवंशजाः । स्नुषासङ्गतिसक्ताश्च दारदाः सन्ति पापिनः ॥ वस्तुभावैस्तथा भाट्टा भार्याविक्रयकारिणः । परोपभोगितास्तेषां निर्लज्जास्तर्हि योषितः ॥.  
 
---1) Edd. add before this verse the following verses, not found in A G R: भगिनीवर्गसम्भोगनिर्लज्जाम्लेच्छवंशजाः । स्नुषासङ्गतिसक्ताश्च दारदाः सन्ति पापिनः ॥ वस्तुभावैस्तथा भाट्टा भार्याविक्रयकारिणः । परोपभोगितास्तेषां निर्लज्जास्तर्हि योषितः ॥.  
+[^0308-2]: A2 ॰न्निमित्तं.  
 
---2) A2 ॰न्निमित्तं.  
+[^0308-3]: Thus A3; A1 ॰ग्रहहृतश्च.  
 
---3) Thus A3; A1 ॰ग्रहहृतश्च.  
+[^0320-1]: Thus corr. by A3 from A1 न च.  
 
-0320.  
+[^0325-1]: Emended; A R G एकस्त॰.  
 
---1) Thus corr. by A3 from A1 न च.  
-
-0325.  
-
---1) Emended; A R G एकस्त॰.  
-
-0326.  
-
---1) G उक्तात्त्रासं.  
+[^0326-1]: G उक्तात्त्रासं.  
 
 332Thus corr. by A2 from A1 ॰हरैस्तैतैर्व॰.  
 
@@ -1581,41 +1281,27 @@ title = "कल्हण-राजतरङ्गिणी"
 उपेक्षितस्य निर्द्रोहैर[^0360-1]यतन्ताजितात्मनः । KRT_1_0360ab  
 अथ लब्धबलास्तस्य नाशाय द्रोहिमन्त्रिणः ॥ KRT_1_0360cd  
 
-0339.  
+[^0339-1]: Thus corr. by A3 from A1 प्रयवीक्षा॰.  
 
---1) Thus corr. by A3 from A1 प्रयवीक्षा॰.  
+[^0340-1]: A2 gloss आडेग्राम्.  
 
-0340.  
+[^0340-2]: A2 gloss खन्दोर्.  
 
---1) A2 gloss आडेग्राम्.  
+[^0340-3]: A2 शमाजासा, with gloss श्मिन् जासव्.  
 
---2) A2 gloss खन्दोर्.  
+[^0341-1]: A2 gloss गोपकार् इति प्रसिद्धस्थले.  
 
---3) A2 शमाजासा, with gloss श्मिन् जासव्.  
+[^0342-1]: A2 gloss भूच्छ्येवाडू इति भाषया प्रसिद्धस्थले.  
 
-0341.  
+[^0342-2]: A2 gloss सोदरबले.  
 
---1) A2 gloss गोपकार् इति प्रसिद्धस्थले.  
+[^0342-3]: Emended; A R व्यधान्वि॰; G व्यथान्वि॰.  
 
-0342.  
+[^0343-1]: A2 gloss वच्यिग्रामादिषु.  
 
---1) A2 gloss भूच्छ्येवाडू इति भाषया प्रसिद्धस्थले.  
+[^0345-1]: A3 सषण्मासां.  
 
---2) A2 gloss सोदरबले.  
-
---3) Emended; A R व्यधान्वि॰; G व्यथान्वि॰.  
-
-0343.  
-
---1) A2 gloss वच्यिग्रामादिषु.  
-
-0345.  
-
---1) A3 सषण्मासां.  
-
-0347.  
-
---1) Thus corr. from A1 ॰न्याश्च by A2 which adds the glosses अविच्छिन्नमन्नदानमक्षयिणी धर्मभक्तमिति च प्रसिद्धा, and अक्षयिण्या इति पार्वतीयदेशादौ कश्मीरोपकण्ठवर्तिनि अछ्यीण्या इति प्रसिद्धाः यासु(A3 यस्यां) सदक्षिणं भूरिब्राह्मणभोजनं वितीर्यते. Of a third gloss by A2 which has been smeared over with ink, only the following can be read: उद्यापनं यज्ञमित्यक्षयि ------ .  
+[^0347-1]: Thus corr. from A1 ॰न्याश्च by A2 which adds the glosses अविच्छिन्नमन्नदानमक्षयिणी धर्मभक्तमिति च प्रसिद्धा, and अक्षयिण्या इति पार्वतीयदेशादौ कश्मीरोपकण्ठवर्तिनि अछ्यीण्या इति प्रसिद्धाः यासु(A3 यस्यां) सदक्षिणं भूरिब्राह्मणभोजनं वितीर्यते. Of a third gloss by A2 which has been smeared over with ink, only the following can be read: उद्यापनं यज्ञमित्यक्षयि ------ .  
 
 360  
 
@@ -1653,7 +1339,7 @@ title = "कल्हण-राजतरङ्गिणी"
 तस्य स्नेहादुपगतवतो राज्यविभ्रंशदुःखं मन्दीचक्रुः स्वभुवि सुजना भूपतेर्भूमिपालाः ॥ KRT_1_0373cd  
 
 
-इ(1)ति काश्मीरिकमहामात्यश्रीचण्णकप्रभुसूनोः कल्हणस्य कृतौ राजतरङ्गिण्यां प्रथमस्तरङ्गः ॥ चतुर्दशा(2)धिकं वर्षसहस्रं नव वासराः । मासाश्च विगता ह्यस्मिन्नेकविंशति(3)राजसु ॥  
+इ[^col-1]ति काश्मीरिकमहामात्यश्रीचण्णकप्रभुसूनोः कल्हणस्य कृतौ राजतरङ्गिण्यां प्रथमस्तरङ्गः ॥ चतुर्दशा[^col-2]धिकं वर्षसहस्रं नव वासराः । मासाश्च विगता ह्यस्मिन्नेकविंशति[^col-3]राजसु ॥  
 
 362  
 
@@ -1667,51 +1353,35 @@ title = "कल्हण-राजतरङ्गिणी"
 
 --1) Thus corr. by A3 from A1 कस्य न.  
 
-0365.  
+[^0365-1]: Thus corr. by A3 from A1 प्राप्तान्ह॰.  
 
---1) Thus corr. by A3 from A1 प्राप्तान्ह॰.  
+[^0367-1]: A3 gloss धर्मद्वारे.  
 
-0367.  
+[^0368-1]: Thus corr. by A3; A1 ॰रामाड्को॰.  
 
---1) A3 gloss धर्मद्वारे.  
+[^0368-2]: Thus corr. by A2 from A1 .विजह्रुः.  
 
-0368.  
+[^0368-3]: A3 विवलितस्य.  
 
---1) Thus corr. by A3; A1 ॰रामाड्को॰.  
+[^0369-1]: G has sec. manu the v.l. आसीनः प्रलयायितेन.  
 
---2) Thus corr. by A2 from A1 .विजह्रुः.  
+[^0369-2]: Thus A1; A3 given the v.l. महत् for मनः between the lines and another v.l. पुनः in margin.  
 
---3) A3 विवलितस्य.  
+[^0370-1]: A3 अध्युत्सङ्गं.  
 
-0369.  
+[^0371-1]: Thus A3; A1 पर्यस्ता॰.  
 
---1) G has sec. manu the v.l. आसीनः प्रलयायितेन.  
+[^0371-2]: A3 क्षिपत्सु.  
 
---2) Thus A1; A3 given the v.l. महत् for मनः between the lines and another v.l. पुनः in margin.  
+[^0372-1]: A2 बलमबलानां, with gloss अबलानां बलं कर्तृ.  
 
-0370.  
+[^0372-2]: A2 gloss कर्म.  
 
---1) A3 अध्युत्सङ्गं.  
+[^col-1]: A3 adds before this the note रा 38 ॥ अं ॥ 372॥.  
 
-0371.  
+[^col-2]: A3 चतुर्विंआ॰.  
 
---1) Thus A3; A1 पर्यस्ता॰.  
-
---2) A3 क्षिपत्सु.  
-
-0372.  
-
---1) A2 बलमबलानां, with gloss अबलानां बलं कर्तृ.  
-
---2) A2 gloss कर्म.  
-
-Colophon.  
-
---1) A3 adds before this the note रा 38 ॥ अं ॥ 372॥.  
-
---2) A3 चतुर्विंआ॰.  
-
---3) Thus A3; A1 ॰न्नष्टात्रिंशति रा॰  
+[^col-3]: Thus A3; A1 ॰न्नष्टात्रिंशति रा॰  
 
 [page 16]  
 
@@ -1762,47 +1432,29 @@ Colophon.
 पत्रीप्रीतिं सुतस्नेहं पितृदाक्षिण्यमातुरः । KRT_2_0021ab  
 कुक्षिभरिः क्षुदुत्तप्तो विसस्माराखिलो जनः ॥ KRT_2_0021cd  
 
-0001.  
+[^0001-1]: Thus corr. by A3 from A1 ॰गोशृङ्गा॰.  
 
---1) Thus corr. by A3 from A1 ॰गोशृङ्गा॰.  
+[^0001-2]: Thus corr. by A3 from A1 प्रतिगृह्यतः.  
 
---2) Thus corr. by A3 from A1 प्रतिगृह्यतः.  
+[^0001-3]: A4 gloss अभ्यस्ता.  
 
---3) A4 gloss अभ्यस्ता.  
+[^0002-1]: A2 gloss जितेन्द्रियाणां.  
 
-0002.  
+[^0004-1]: A2 gloss दुगज्यन्.  
 
---1) A2 gloss जितेन्द्रियाणां.  
+[^0006-1]: A3 स इति भ्रमम॰; R G follow this reading and write ॰दित्यः.  
 
-0004.  
+[^0006-2]: A2 विसंवादक॰.  
 
---1) A2 gloss दुगज्यन्.  
+[^0014-1]: A2 gloss कैय्.  
 
-0006.  
+[^0015-1]: A3 ॰तपोल्बणे.  
 
---1) A3 स इति भ्रमम॰; R G follow this reading and write ॰दित्यः.  
+[^0016-1]: Thus A3 also R G; A1 ॰कवेः.  
 
---2) A2 विसंवादक॰.  
+[^0017-1]: A3 gloss देवैः कृतत्वाद्देवानां संबन्धिनी दैवी.  
 
-0014.  
-
---1) A2 gloss कैय्.  
-
-0015.  
-
---1) A3 ॰तपोल्बणे.  
-
-0016.  
-
---1) Thus A3 also R G; A1 ॰कवेः.  
-
-0017.  
-
---1) A3 gloss देवैः कृतत्वाद्देवानां संबन्धिनी दैवी.  
-
-0020.  
-
---1) Thus A1; altered by A3 into प्रकारो.  
+[^0020-1]: Thus A1; altered by A3 into प्रकारो.  
 
 [page 17]  
 
@@ -1863,29 +1515,19 @@ Colophon.
 पत्यौ भक्तिर्व्रतं स्त्रीणामद्रोहो मन्त्रिणां व्रतम् । KRT_2_0048ab  
 प्रजानुपालनेनन्यकर्मता भूभृतां व्रतम् ॥ KRT_2_0048cd  
 
-0022.  
+[^0022-1]: A1 लोकोऽलक्ष्मी॰.  
 
---1) A1 लोकोऽलक्ष्मी॰.  
+[^0021-1]: Thus corr. by A3 from A1 उपेक्ष्यते.  
 
-0021.  
+[^0030-1]: Thus corr. by A3 from A2 सु॰.  
 
---1) Thus corr. by A3 from A1 उपेक्ष्यते.  
+[^0038-1]: A3 हिमसंपातदुर्लक्षक्षि॰.  
 
-0030.  
+[^0038-2]: A2 gloss नीडं.  
 
---1) Thus corr. by A3 from A2 सु॰.  
+[^0040-1]: A3 संस्तुतैरेषा॰, with gloss एषां श्रूरमतिमदादीनाम् निह्नुतगुनाः ये शूराद्या अत्र अस्मिन्नेव देशे वसन्ति देशान्तरं न गच्छन्ति ते कालेन मोहिताः.  
 
-0038.  
-
---1) A3 हिमसंपातदुर्लक्षक्षि॰.  
-
---2) A2 gloss नीडं.  
-
-0040.  
-
---1) A3 संस्तुतैरेषा॰, with gloss एषां श्रूरमतिमदादीनाम् निह्नुतगुनाः ये शूराद्या अत्र अस्मिन्नेव देशे वसन्ति देशान्तरं न गच्छन्ति ते कालेन मोहिताः.  
-
---3) A3 ते.  
+[^0040-3]: A3 ते.  
 
 0043. Thus corr. by A3 from A1 ॰शङ्कं.  
 
@@ -1944,51 +1586,35 @@ Colophon.
 नाचोदिता वाक्चरतीत्याप्तेभ्यः श्रुतवान्नृपः । KRT_2_0073ab  
 ततः संभूत[^0073-1]संत्रासः कारावेश्मनि तं न्यधा[^0073-2]त् ॥ KRT_2_0073cd  
 
-0050.  
+[^0050-1]: A3 देव्या.  
 
---1) A3 देव्या.  
+[^0052-1]: A3 पतन्.  
 
-0052.  
+[^0055-1]: A2 gloss कैमोह.  
 
---1) A3 पतन्.  
+[^0055-2]: A3 gloss रोमाह्.  
 
-0055.  
+[^0060-1]: Thus A1; A3 योग्यतात्तत्; G योग्यताचात्, explained by योग्यतयात्तो गृहीतः and subsequently corrected into योग्यता तु.  
 
---1) A2 gloss कैमोह.  
+[^0060-3]: Thus A1 gloss उत्पादयित्वा.  
 
---2) A3 gloss रोमाह्.  
+[^0064-1]: G आलोल॰.  
 
-0060.  
+[^0064-2]: Thus corr. by A3 from A1 ॰स्त्री॰.  
 
---1) Thus A1; A3 योग्यतात्तत्; G योग्यताचात्, explained by योग्यतयात्तो गृहीतः and subsequently corrected into योग्यता तु.  
+[^0064-3]: A2 gloss पुत्तलिकाम्.  
 
---3) Thus A1 gloss उत्पादयित्वा.  
+[^0065-1]: A3 ॰दात्तो.  
 
-0064.  
-
---1) G आलोल॰.  
-
---2) Thus corr. by A3 from A1 ॰स्त्री॰.  
-
---3) A2 gloss पुत्तलिकाम्.  
-
-0065.  
-
---1) A3 ॰दात्तो.  
-
-0068.  
-
---1) A3 कोपात्तम्.  
+[^0068-1]: A3 कोपात्तम्.  
 
 72,  
 
 --1) Thus corr. by A2 from A1 नवम॰; A2 had explained in margin the original reading by a note which has been struck out: राज्यं सन्धिमतो (sic) भावीत्यश्रुतापि सरस्वती एव नवमन्दिरं पप्रथे सन्धिमतेर्वराकस्य विषमपूर्ववृत्त्यपरिपोषकरूपत्वान्नवमन्दिररूपं तन्नात्र श्रुतवाक् श्रवणमभूदित्यर्थः येन च तदुपरि राजातीव क्रूरश्रेष्ठोभूदिति भावः.  
 
-0073.  
+[^0073-1]: Thus corr. by A2 from A1 सद्भूत॰.  
 
---1) Thus corr. by A2 from A1 सद्भूत॰.  
-
---2) Thus corr. by A3 from A1 व्यधात्.  
+[^0073-2]: Thus corr. by A3 from A1 व्यधात्.  
 
 [page 19]  
 
@@ -2047,39 +1673,25 @@ Colophon.
 उच्चण्डलाडनाद[^0099-1]ण्डोद्घृष्टघण्टौघटांकृतैः । KRT_2_0099ab  
 चण्डैर्डमरुनिर्घोषैर्घ[^0099-2]र्घरं श्रुतवान्ध्वनिम् ॥ KRT_2_0099cd  
 
-0077.  
+[^0077-1]: Thus corr. by later hand from A1 ॰र्थस्य बुधाः.  
 
---1) Thus corr. by later hand from A1 ॰र्थस्य बुधाः.  
+[^0078-1]: Another hand alters this to ॰स्थितेः.  
 
-0078.  
+[^0086-1]: A2 ॰समापूर्णमु॰ with gloss शिरः over मुण्ड.  
 
---1) Another hand alters this to ॰स्थितेः.  
+[^0090-1]: Thus A1; A3 पुनराज्यं.  
 
-0086.  
+[^0091-1]: Thus corr. by later hand from A1 ॰दृष्टार्थे.  
 
---1) A2 ॰समापूर्णमु॰ with gloss शिरः over मुण्ड.  
+[^0091-2]: A2 gloss चतुर्थ.  
 
-0090.  
+[^0091-3]: Thus corr. by later hand from A1 ॰पाशार्थे.  
 
---1) Thus A1; A3 पुनराज्यं.  
+[^0092-1]: Thus corr. by A2 from A1 कार्थमे॰.  
 
-0091.  
+[^0099-1]: A3 gloss लाडना अन्तर्गता शलाका आण्टु इति भाषया.  
 
---1) Thus corr. by later hand from A1 ॰दृष्टार्थे.  
-
---2) A2 gloss चतुर्थ.  
-
---3) Thus corr. by later hand from A1 ॰पाशार्थे.  
-
-0092.  
-
---1) Thus corr. by A2 from A1 कार्थमे॰.  
-
-0099.  
-
---1) A3 gloss लाडना अन्तर्गता शलाका आण्टु इति भाषया.  
-
---2) A3 ॰डमरुघोष्यैश्च.  
+[^0099-2]: A3 ॰डमरुघोष्यैश्च.  
 
 [page 20]  
 
@@ -2140,53 +1752,33 @@ Colophon.
 लिङ्गपीठलुटत्स्नानकुम्भाम्भःक्षोभभूर्ध्वनिः । KRT_2_0126ab  
 शयानस्याप्यभूत्तस्य वल्लभो वल्लकीद्विषः ॥ KRT_2_0126cd  
 
-0100.  
+[^0100-1]: A2 gloss तमोरिः त्राव् इति भाषया.  
 
---1) A2 gloss तमोरिः त्राव् इति भाषया.  
+[^0102-1]: Thus corr. by A3 from A1 मध्यमदे॰; A2 in margin मद्यमदेन ताः इत्यनन्यादर्शे.  
 
-0102.  
+[^0102-2]: Thus corr. by A2 from A1 तमुपाहरन्.  
 
---1) Thus corr. by A3 from A1 मध्यमदे॰; A2 in margin मद्यमदेन ताः इत्यनन्यादर्शे.  
+[^0204-1]: Thus corr. by later hand from A1 ततो.  
 
---2) Thus corr. by A2 from A1 तमुपाहरन्.  
+[^0204-2]: Thus corr. by A3 from A1 पुंलिङ्ग॰.  
 
-0204.  
+[^0205-1]: Thus corr. by A1 from भ्राम्यन्मना॰.  
 
---1) Thus corr. by later hand from A1 ततो.  
+[^0205-2]: A3 योगिन्यः.  
 
---2) Thus corr. by A3 from A1 पुंलिङ्ग॰.  
+[^0206-1]: त supplied by A3.  
 
-0205.  
+[^0207-1]: Thus corr. by A3 from A1 ईशानतस्य.  
 
---1) Thus corr. by A1 from भ्राम्यन्मना॰.  
+[^0210-1]: A3 राजा.  
 
---2) A3 योगिन्यः.  
+[^0211-1]: Thus corr. by A3 from A1 ससैन्यां.  
 
-0206.  
+[^0212-1]: A3 gloss शृङ्गेषु अरहितः न त्यक्तः वीनां पक्षिणां भ्रमः भ्रमणं याभिः ताः.  
 
---1) त supplied by A3.  
+[^0212-2]: A3 gloss शान्तस्य.  
 
-0207.  
-
---1) Thus corr. by A3 from A1 ईशानतस्य.  
-
-0210.  
-
---1) A3 राजा.  
-
-0211.  
-
---1) Thus corr. by A3 from A1 ससैन्यां.  
-
-0212.  
-
---1) A3 gloss शृङ्गेषु अरहितः न त्यक्तः वीनां पक्षिणां भ्रमः भ्रमणं याभिः ताः.  
-
---2) A3 gloss शान्तस्य.  
-
-0225.  
-
---1) Thus corr. by A3 from A2 निजड॰.  
+[^0225-1]: Thus corr. by A3 from A2 निजड॰.  
 
 [page 21]  
 
@@ -2251,51 +1843,33 @@ Colophon.
 स्वकाले[^0155-1] त्यजता लक्ष्मीं विरक्तां[^0155-2] बन्धकीमिव । KRT_2_0155ab  
 हठनिर्वासनव्रीडा दिष्ट्या नासादिता मया ॥ KRT_2_0155cd  
 
-0130.  
+[^0130-1]: Thus corr. by A3 from A1 ॰पुण्डरीकाक्षज॰.  
 
---1) Thus corr. by A3 from A1 ॰पुण्डरीकाक्षज॰.  
+[^0134-1]: The aksharas श्वरं supplied by A3 in space left by A1.  
 
-0134.  
+[^0134-2]: A2 gloss ईशाभ्राडू इति प्रसिद्धस्थले.  
 
---1) The aksharas श्वरं supplied by A3 in space left by A1.  
+[^0136-1]: A3 ॰विशेषतः.  
 
---2) A2 gloss ईशाभ्राडू इति प्रसिद्धस्थले.  
+[^0136-2]: Thus A3; A1 प्राज्यः.  
 
-0136.  
+[^0136-3]: Thus corr. by later hand from A1 काश्मीर॰.  
 
---1) A3 ॰विशेषतः.  
+[^0139-1]: Thus corr. by later hand from A1 चूडाध्या॰.  
 
---2) Thus A3; A1 प्राज्यः.  
+[^0145-1]: Thus corr. by A1 from ॰त्याख्यः.  
 
---3) Thus corr. by later hand from A1 काश्मीर॰.  
+[^0146-1]: Thus A3; A1 वसन्नपास्तसा॰.  
 
-0139.  
+[^0147-1]: A3 युवा.  
 
---1) Thus corr. by later hand from A1 चूडाध्या॰.  
+[^0154-1]: A2 glosses आलस्यम् and ---- न कर्म कौसीद्यं.  
 
-0145.  
+[^0154-2]: Thus corr. by A3 from A1 ॰श्रयम्.  
 
---1) Thus corr. by A1 from ॰त्याख्यः.  
+[^0155-1]: Thus A1; A3 स्वकुले.  
 
-0146.  
-
---1) Thus A3; A1 वसन्नपास्तसा॰.  
-
-0147.  
-
---1) A3 युवा.  
-
-0154.  
-
---1) A2 glosses आलस्यम् and ---- न कर्म कौसीद्यं.  
-
---2) Thus corr. by A3 from A1 ॰श्रयम्.  
-
-0155.  
-
---1) Thus A1; A3 स्वकुले.  
-
---2) Thus corr. by A3 from A1 सरक्ताम्.  
+[^0155-2]: Thus corr. by A3 from A1 सरक्ताम्.  
 
 [page 22]  
 
@@ -2338,55 +1912,39 @@ Colophon.
 
 इति श्रीकाश्मीरिकमहामात्यश्रीचण्णकप्रभुसूनोः कल्हणस्य कृतौ राजतरङ्गिण्यां द्वितीयस्तरङ्गः ॥ शतद्वये वत्सराणामष्टभिः परिवर्जिते । अस्मिन्द्वितीये व्याख्याताः षट्प्रख्यातगुणा नृपाः ॥  
 
-0156.  
+[^0156-1]: Thus A1; the v. l. of A2 निर्व्यूढावपि has been struck out again; G R निर्व्यूढमपि.  
 
---1) Thus A1; the v. l. of A2 निर्व्यूढावपि has been struck out again; G R निर्व्यूढमपि.  
+[^0160-1]: Thus corr. by later hand from A1 तं च.  
 
-0160.  
+[^0164-1]: Thus corr. by A3 from A1 स्तोकानुगमो.  
 
---1) Thus corr. by later hand from A1 तं च.  
+[^0165-1]: Thus A3; A1 निरुद्ध्यत्पदं.  
 
-0164.  
+[^0165-2]: Thus corr. by later hand from A1 भूर्जत्वत्प॰.  
 
---1) Thus corr. by A3 from A1 स्तोकानुगमो.  
+[^0165-3]: Thus corr. by A3 from A1 मर्जर॰.  
 
-0165.  
+[^0165-4]: The akshara लि supplied by A3 in space left by A1.  
 
---1) Thus A3; A1 निरुद्ध्यत्पदं.  
+[^0165-5]: The gloss भोमजोवो written by A4 at the foot og the page, probably refers to this word.  
 
---2) Thus corr. by later hand from A1 भूर्जत्वत्प॰.  
+[^0167-1]: Thus corr. by A2 from A1 शाद्वलैरुल्लासल॰; the latter reading repeated in margin by A3.  
 
---3) Thus corr. by A3 from A1 मर्जर॰.  
+[^0167-2]: Thus G sec manu and P; A R C ॰पालरेणु॰.  
 
---4) The akshara लि supplied by A3 in space left by A1.  
+[^0167-3]: A3 gloss पर्वताः.  
 
---5) The gloss भोमजोवो written by A4 at the foot og the page, probably refers to this word.  
+[^0168-1]: A3 वनहरि॰.  
 
-0167.  
+[^0168-2]: Thus corr. by later hand from A1. ॰ध्वनैर्द॰.  
 
---1) Thus corr. by A2 from A1 शाद्वलैरुल्लासल॰; the latter reading repeated in margin by A3.  
+[^0170-1]: A1 यावत्तावत्; supplemented as above by A2.  
 
---2) Thus G sec manu and P; A R C ॰पालरेणु॰.  
+[^0171-1]: A3 भ्राम्यच्छ्री॰.  
 
---3) A3 gloss पर्वताः.  
+[^0171-2]: Thus corr. by A3 from A1 ॰योग्यो.  
 
-0168.  
-
---1) A3 वनहरि॰.  
-
---2) Thus corr. by later hand from A1. ॰ध्वनैर्द॰.  
-
-0170.  
-
---1) A1 यावत्तावत्; supplemented as above by A2.  
-
-0171.  
-
---1) A3 भ्राम्यच्छ्री॰.  
-
---2) Thus corr. by A3 from A1 ॰योग्यो.  
-
---3) A1 writes ॰प्यनुपतन॰, with figures indicating transposition.  
+[^0171-3]: A1 writes ॰प्यनुपतन॰, with figures indicating transposition.  
 
 [page 23]  
 
@@ -2439,43 +1997,27 @@ Colophon.
 पक्वशालिवनस्हीतिर[^0022-1]क्षाक्षुभितमानसैः । KRT_3_0022ab  
 नागास्त्वत्कोपसंरम्भभूमितां[^0022-2] गमिताः प्रभो ॥ KRT_3_0022cd  
 
-0001.  
+[^0001-1]: A2 gloss इभस्य.  
 
---1) A2 gloss इभस्य.  
+[^0005-1]: A3 gloss अमारः अहिंसा.  
 
-0005.  
+[^0008-1]: A3 ॰ज्येष्ठो.  
 
---1) A3 gloss अमारः अहिंसा.  
+[^0008-2]: A3 तथा.  
 
-0008.  
+[^0009-1]: Thus A3; A1 चैष्य॰.  
 
---1) A3 ॰ज्येष्ठो.  
+[^0010-1]: Thus A1; corr. by later hand into देश्यैक॰.  
 
---2) A3 तथा.  
+[^0010-2]: A2 स्तुम्पा.  
 
-0009.  
+[^0011-1]: A3 यूख॰.  
 
---1) Thus A3; A1 चैष्य॰.  
+[^0014-1]: A3 gloss नृपस्त्रीभिः.  
 
-0010.  
+[^0022-1]: A2 ॰स्फाति॰.  
 
---1) Thus A1; corr. by later hand into देश्यैक॰.  
-
---2) A2 स्तुम्पा.  
-
-0011.  
-
---1) A3 यूख॰.  
-
-0014.  
-
---1) A3 gloss नृपस्त्रीभिः.  
-
-0022.  
-
---1) A2 ॰स्फाति॰.  
-
---2) A3 भूमिं ते.  
+[^0022-2]: A3 भूमिं ते.  
 
 [page 24]  
 
@@ -2540,21 +2082,13 @@ Colophon.
 ततः प्रहर्तुकामस्य तस्य द्युकुसुमैः शिरः । KRT_3_0051ab  
 करश्च दिव्यवपुषा रुद्धः केनाप्यजायत ॥ KRT_3_0051cd  
 
-0030.  
+[^0030-1]: Thus corr. by later hand from A1 ॰कैः.  
 
---1) Thus corr. by later hand from A1 ॰कैः.  
+[^0033-1]: A R G here and elsewhere शवर॰.  
 
-0033.  
+[^0036-1]: A3 एष.  
 
---1) A R G here and elsewhere शवर॰.  
-
-0036.  
-
---1) A3 एष.  
-
-0048.  
-
---1) Thus corr. by later hand drom A1 ॰भीष्टां.  
+[^0048-1]: Thus corr. by later hand drom A1 ॰भीष्टां.  
 
 [page 25]  
 
@@ -2617,43 +2151,27 @@ Colophon.
 इत्थमाराक्षसकुलं प्राणिहिंसाम् निष्ध सः । KRT_3_0079ab  
 स्वमण्डलं प्रति कृती न्यवर्तत नराधिपः ॥ KRT_3_0079cd  
 
-0057.  
+[^0057-1]: The aksharas न्व्यसून्वसुकु and मारेण चरसीव तदेनसः supplied by A3 in spaces left by A1.  
 
---1) The aksharas न्व्यसून्वसुकु and मारेण चरसीव तदेनसः supplied by A3 in spaces left by A1.  
+[^0058-1]: भयस्पृहाजन supplied by A3, as above.  
 
-0058.  
+[^0065-1]: त supplied by A3.  
 
---1) भयस्पृहाजन supplied by A3, as above.  
+[^0066-1]: Emended; A R G वदन्यः.  
 
-0065.  
+[^0066-2]: A1 gloss अर्थिभ्यः.  
 
---1) त supplied by A3.  
+[^0066-3]: Thus corr. by A3 from A1 दध्यात्.  
 
-0066.  
+[^0067-1]: Thus corr. by A3 from A1 तदयं.  
 
---1) Emended; A R G वदन्यः.  
+[^0071-1]: Thus A1; A3 जलं.  
 
---2) A1 gloss अर्थिभ्यः.  
+[^0074-1]: दा supplied by A3.  
 
---3) Thus corr. by A3 from A1 दध्यात्.  
+[^0074-2]: न्योन्व supplied by A3 in space left by A1.  
 
-0067.  
-
---1) Thus corr. by A3 from A1 तदयं.  
-
-0071.  
-
---1) Thus A1; A3 जलं.  
-
-0074.  
-
---1) दा supplied by A3.  
-
---2) न्योन्व supplied by A3 in space left by A1.  
-
-0077.  
-
---1) A1 glosss प्रतिमाभिः.  
+[^0077-1]: A1 glosss प्रतिमाभिः.  
 
 [page 26]  
 
@@ -2720,39 +2238,25 @@ Colophon.
 
 --1)--1) These two verses have been supplied in margin by A3.  
 
-0083.  
+[^0083-1]: A3 राजन्नुपहारं.  
 
---1) A3 राजन्नुपहारं.  
+[^0088-1]: A3 प्राग्योस्मि समकल्पयम्.  
 
-0088.  
+[^0095-1]: This verse is supplied by A3 in margin.  
 
---1) A3 प्राग्योस्मि समकल्पयम्.  
+[^0095-2]: A3 gloss जनाः.  
 
-0095.  
+[^0100-1]: Thus A3; A1 ॰सख्ये.  
 
---1) This verse is supplied by A3 in margin.  
+[^0103-1]: Thus A; G R Edd. बाला॰.  
 
---2) A3 gloss जनाः.  
+[^0103-2]: A3 gloss सुवर्णमया रजताश्रमयाश्च.  
 
-0100.  
+[^0103-3]: A3 gloss स्वाहताः स्वनामाक्षरमुद्राङ्कदानेन आहताः संप्रवर्तिताः व्यवहारविषयाः कृताः.  
 
---1) Thus A3; A1 ॰सख्ये.  
+[^0104-1]: A3 gloss तोरमाणेन.  
 
-0103.  
-
---1) Thus A; G R Edd. बाला॰.  
-
---2) A3 gloss सुवर्णमया रजताश्रमयाश्च.  
-
---3) A3 gloss स्वाहताः स्वनामाक्षरमुद्राङ्कदानेन आहताः संप्रवर्तिताः व्यवहारविषयाः कृताः.  
-
-0104.  
-
---1) A3 gloss तोरमाणेन.  
-
-0106.  
-
---1) A3 gloss त्रपार्तेन सलज्जेन.  
+[^0106-1]: A3 gloss त्रपार्तेन सलज्जेन.  
 
 [page 27]  
 
@@ -2815,37 +2319,21 @@ Colophon.
 अनाप्नुवद्भिः सावद्यदुर्विद्यसम्शीर्षिकाम् । KRT_3_0135ab  
 जीवन्मरणस्याग्रे गुणिभिर्नानुभूयते ॥ KRT_3_0135cd  
 
-0208.  
+[^0208-1]: A3 gloss भूमेः.  
 
---1) A3 gloss भूमेः.  
+[^0112-1]: A2 gloss अतिशयेन उदारम् ओजः यस्य.  
 
-0112.  
+[^0113-1]: Thus corr. by later hand from A. किंचिद॰ .  
 
---1) A2 gloss अतिशयेन उदारम् ओजः यस्य.  
+[^0116-1]: A3 gloss प्रवरसेनः.  
 
-0113.  
+[^0122-1]: Thus A1; A1 has given a varia lectio in margin of which only उत्पिञ्जोद्वास is legible ( उत्पिञ्जोद्वासनासज्ञ्जे ?). A3 उत्पिञ्जोत्पादने सज्जे, with gloss द्वन्द्वयुद्धस्य कोलाहले सज्जे सति.  
 
---1) Thus corr. by later hand from A. किंचिद॰ .  
+[^0127-1]: G Edd. गुणो येन प्रवर्धते.  
 
-0116.  
+[^0128-1]: G sec manu and Edd. सभायास्था॰.  
 
---1) A3 gloss प्रवरसेनः.  
-
-0122.  
-
---1) Thus A1; A1 has given a varia lectio in margin of which only उत्पिञ्जोद्वास is legible ( उत्पिञ्जोद्वासनासज्ञ्जे ?). A3 उत्पिञ्जोत्पादने सज्जे, with gloss द्वन्द्वयुद्धस्य कोलाहले सज्जे सति.  
-
-0127.  
-
---1) G Edd. गुणो येन प्रवर्धते.  
-
-0128.  
-
---1) G sec manu and Edd. सभायास्था॰.  
-
-0132.  
-
---1) A3 अस्मिन्ना॰.  
+[^0132-1]: A3 अस्मिन्ना॰.  
 
 [page 28]  
 
@@ -2908,39 +2396,23 @@ Colophon.
 वसन्तेनेव न मया शोभयाद्यापि योजितः । KRT_3_0163ab  
 शीतवातातपैः शुष्यन्सोयं पुरुषपादपः ॥ KRT_3_0163cd  
 
-0136.  
+[^0136-1]: संभावनानुसा supplied by A3 in space left by A1.  
 
---1) संभावनानुसा supplied by A3 in space left by A1.  
+[^0137-1]: A3 gloss प्रतिपत्तिः सत्कारः सत्क्रिया पूजनं माननमिति यावत्.  
 
-0137.  
+[^0145-1]: Thus corr. by A3 from A1 भ्राम्यते.  
 
---1) A3 gloss प्रतिपत्तिः सत्कारः सत्क्रिया पूजनं माननमिति यावत्.  
+[^0146-1]: Thus corr. by A3 from A1 नारञ्जन्न॰.  
 
-0145.  
+[^0152-1]: A1 gloss राजा चन्द्रोपि.  
 
---1) Thus corr. by A3 from A1 भ्राम्यते.  
+[^0152-2]: A3 gloss मातृगुप्तेन.  
 
-0146.  
+[^0155-1]: A3 gloss राजशत्रुभिः.  
 
---1) Thus corr. by A3 from A1 नारञ्जन्न॰.  
+[^0156-1]: A3 gloss मातृगुप्तात्.  
 
-0152.  
-
---1) A1 gloss राजा चन्द्रोपि.  
-
---2) A3 gloss मातृगुप्तेन.  
-
-0155.  
-
---1) A3 gloss राजशत्रुभिः.  
-
-0156.  
-
---1) A3 gloss मातृगुप्तात्.  
-
-0159.  
-
---1) Thus corr. by from A1 अनिविन्नो.  
+[^0159-1]: Thus corr. by from A1 अनिविन्नो.  
 
 [page 29]  
 
@@ -3001,43 +2473,25 @@ Colophon.
 अथ दूतेषु यातेषु लेखयित्वा स्वशासनम् । KRT_3_0190ab  
 क्ष्मापतिस्तं क्षपाशेषं कृतकृत्योत्यवाहयत् ॥ KRT_3_0190cd  
 
-0165.  
+[^0165-1]: A3 gloss अनेन इत्यर्थः.  
 
---1) A3 gloss अनेन इत्यर्थः.  
+[^0166-1]: A3 gloss सत्क्रियया.  
 
-0166.  
+[^0167-1]: A3 gloss चित्तविषयं न गता इत्यर्थः.  
 
---1) A3 gloss सत्क्रियया.  
+[^0171-1]: A3 gloss हसान्तिका मग्नाग्निका.  
 
-0167.  
+[^0173-1]: A3 gloss रात्रिजागरेषु पुरुषेषु.  
 
---1) A3 gloss चित्तविषयं न गता इत्यर्थः.  
+[^0175-1]: A3 तददृष्टो.  
 
-0171.  
+[^0176-1]: Thus corr. by A3 from A1 ॰रूचे च.  
 
---1) A3 gloss हसान्तिका मग्नाग्निका.  
+[^0180-1]: A1 gloss अवस्थायाः आवेदनं तस्मात्.  
 
-0173.  
+[^0186-1]: A3 gloss सत्पात्रेत्यादिना.  
 
---1) A3 gloss रात्रिजागरेषु पुरुषेषु.  
-
-0175.  
-
---1) A3 तददृष्टो.  
-
-0176. --1) Thus corr. by A3 from A1 ॰रूचे च.  
-
-0180.  
-
---1) A1 gloss अवस्थायाः आवेदनं तस्मात्.  
-
-0186.  
-
---1) A3 gloss सत्पात्रेत्यादिना.  
-
-0188.  
-
---1) A3 gloss सचिवान् प्रति.  
+[^0188-1]: A3 gloss सचिवान् प्रति.  
 
 [page 30]  
 
@@ -3092,39 +2546,25 @@ Colophon.
 उपायं यं[^0214-1] पुरस्कृत्य सेवते सेवकः प्रभुम् । KRT_3_0214ab  
 अनन्तरज्ञस्तत्रैव योग्यं तं किल मन्यते ॥ KRT_3_0214cd  
 
-0197.  
+[^0197-1]: A3 ॰पर्ययेण.  
 
---1) A3 ॰पर्ययेण.  
+[^0198-1]: A1 glosses राज्ञोपजीविनः पुरुषाः, तत्स्वामिनः तेषां स्वामिनः कर्तारः न वरं.  
 
-0198.  
+[^0202-1]: Thus corr. by later hand from A1 लुठन्ति ग॰.  
 
---1) A1 glosses राज्ञोपजीविनः पुरुषाः, तत्स्वामिनः तेषां स्वामिनः कर्तारः न वरं.  
+[^0202-2]: Thus A3; A1 ॰र्थ्यते.  
 
-0202.  
+[^0204-1]: A1 gloss द्वास्स्थं.  
 
---1) Thus corr. by later hand from A1 लुठन्ति ग॰.  
-
---2) Thus A3; A1 ॰र्थ्यते.  
-
-0204.  
-
---1) A1 gloss द्वास्स्थं.  
-
-0208.  
-
---1) A3 glosss शिक्षा.  
+[^0208-1]: A3 glosss शिक्षा.  
 
 0211.,  
 
 --1) Thus corr. by later hand from A1 अथ क्ले॰.  
 
-0212.  
+[^0212-1]: A3 gloss पूज्यान्.  
 
---1) A3 gloss पूज्यान्.  
-
-0214.  
-
---1) Doutful emendation; on account of an ink blot only the following is legible in the handwriting of A1: उपाय --- स्कृत्य. A4 reads उपायनं पुरस्कृत्य; this reading is found in R. G and Edd. read उपायं तं.  
+[^0214-1]: Doutful emendation; on account of an ink blot only the following is legible in the handwriting of A1: उपाय --- स्कृत्य. A4 reads उपायनं पुरस्कृत्य; this reading is found in R. G and Edd. read उपायं तं.  
 
 :p 31.  
 सुखार्थी नागारिप्रतिभयशमात्प्रत्युत जहौ शेषस्तल्पीकृततनु निषेव्यासुररिपुम् । KRT_3_0215ab  
@@ -3186,25 +2626,15 @@ Colophon.
 
 --1) A3 gloss मूर्खपुरुषः.  
 
-0218.  
+[^0218-1]: A3 विलोक्य जलदमित्यन्यादर्शे.  
 
---1) A3 विलोक्य जलदमित्यन्यादर्शे.  
+[^0225-1]: Thus A1; corr. by A3 into ॰नौकष्ठ॰, as also in G R.  
 
-0225.  
+[^0226-1]: A1 gloss पाल्याया इति प्रभूभविष्यता तेनैवेत्यर्थः.  
 
---1) Thus A1; corr. by A3 into ॰नौकष्ठ॰, as also in G R.  
+[^0235-1]: A1 gloss परैर्न श्रूयते यत्तदुपांशु परिकीर्तितम्; A2 adds मन्त्रकरणे.  
 
-0226.  
-
---1) A1 gloss पाल्याया इति प्रभूभविष्यता तेनैवेत्यर्थः.  
-
-0235.  
-
---1) A1 gloss परैर्न श्रूयते यत्तदुपांशु परिकीर्तितम्; A2 adds मन्त्रकरणे.  
-
-0240.  
-
---1) Thus A3; A1 ॰स्रेव, corr. by later hand into ॰स्रव.  
+[^0240-1]: Thus A3; A1 ॰स्रेव, corr. by later hand into ॰स्रव.  
 
 [page 32]  
 
@@ -3263,57 +2693,33 @@ Colophon.
 श्रीपर्वते पाशुपतव्रतिवेषस्तमा[^0267-1]गतम् । KRT_3_0267ab  
 आचख्यावश्वपादाख्यः सिद्धः कन्दाशनं ददत् ॥ KRT_3_0267cd  
 
-0243.  
+[^0243-1]:  
 
---1)  
+[^0243-2]: A1 indicates the vv. ll. विदीयन्ते and विदत्तं.  
 
---2) A1 indicates the vv. ll. विदीयन्ते and विदत्तं.  
+[^0245-1]: Thus A3; A1 राजा.  
 
-0245.  
+[^0246-1]: Thus corr. by later hand from A1 ॰गुप्तम॰; G R as above.  
 
---1) Thus A3; A1 राजा.  
+[^0247-1]: A3 gloss अत्यवाहयत्.  
 
-0246.  
+[^0250-1]: Thus A1; A3 स्वात्म्यानि, also G R; Edd. खाद्यानि.  
 
---1) Thus corr. by later hand from A1 ॰गुप्तम॰; G R as above.  
+[^0252-1]: तव supplied by A3.  
 
-0247.  
+[^0254-1]: Thus corr. by later hand from A1 ॰चित्यौन्न॰.  
 
---1) A3 gloss अत्यवाहयत्.  
+[^0260-1]: A3 gloss काव्यम्.  
 
-0250.  
+[^0261-1]: A3 राजाधः.  
 
---1) Thus A1; A3 स्वात्म्यानि, also G R; Edd. खाद्यानि.  
+[^0263-1]: A1 gloss स्वदेवगृहाय.  
 
-0252.  
+[^0265-1]: A3 gloss प्रवरसेनः.  
 
---1) तव supplied by A3.  
+[^0265-2]: A3 पराभवम्.  
 
-0254.  
-
---1) Thus corr. by later hand from A1 ॰चित्यौन्न॰.  
-
-0260.  
-
---1) A3 gloss काव्यम्.  
-
-0261.  
-
---1) A3 राजाधः.  
-
-0263.  
-
---1) A1 gloss स्वदेवगृहाय.  
-
-0265.  
-
---1) A3 gloss प्रवरसेनः.  
-
---2) A3 पराभवम्.  
-
-0267.  
-
---1) A3 gloss प्रवरसेनं.  
+[^0267-1]: A3 gloss प्रवरसेनं.  
 
 [page 33]  
 
@@ -3368,87 +2774,57 @@ Colophon.
 यावन्मूर्ध्नि रवेः पादास्तावद्द्योतयते दिशः । KRT_3_0291ab  
 द्योतने नान्यथा किंचिद्ग्रा[^0291-1]वैव तपनोपल्[^0291-2]अः ॥ KRT_3_0291cd  
 
-0268.  
+[^0268-1]: मस्म्यु supplied by A3 in space left by A1.  
 
---1) मस्म्यु supplied by A3 in space left by A1.  
+[^0269-1]:  
 
-0269.  
+[^0269-2]: A3 glosses आदिदेश and ईश्वरः.  
 
---1)  
+[^0271-1]: A3 gloss अश्वपादः.  
 
---2) A3 glosses आदिदेश and ईश्वरः.  
+[^0272-1]: A3 gloss प्रवरसेनस्य.  
 
-0271.  
+[^0272-2]: Thus A1; corr. by later hand into ॰स्मृतेः, as found also in R.  
 
---1) A3 gloss अश्वपादः.  
+[^0276-1]: A1 gloss स्वल्पमर्थिता बहु फलन्ति महान्तः.  
 
-0272.  
+[^0276-2]: A1 gloss उदन्यया पिपासया.  
 
---1) A3 gloss प्रवरसेनस्य.  
+[^0276-3]: Emended: A R G वदन्यो.  
 
---2) Thus A1; corr. by later hand into ॰स्मृतेः, as found also in R.  
+[^0276-4]: A3 gloss शिवः.  
 
-0276.  
+[^0277-1]: A3 gloss पराभवं.  
 
---1) A1 gloss स्वल्पमर्थिता बहु फलन्ति महान्तः.  
+[^0278-1]: A3 gloss प्रभुः.  
 
---2) A1 gloss उदन्यया पिपासया.  
+[^0278-2]: Thus corr. by A3 from A1 स फलार्थिनम्.  
 
---3) Emended: A R G वदन्यो.  
+[^0279-1]: Thus A1; corr. by later hand into सांयुज्या॰.  
 
---4) A3 gloss शिवः.  
+[^0280-1]: A3 अगच्छ॰.  
 
-0277.  
+[^0281-1]: त्त supplied by A3 in space left by A1.  
 
---1) A3 gloss पराभवं.  
+[^0281-2]: A3 gloss निकटं.  
 
-0278.  
+[^0284-1]: A3 gloss तेभ्यः.  
 
---1) A3 gloss प्रभुः.  
+[^0284-2]: A3 gloss नीचैः.  
 
---2) Thus corr. by A3 from A1 स फलार्थिनम्.  
+[^0286-1]: Emended; A निश्वस॰.  
 
-0279.  
+[^0289-1]: A3 gloss प्रवरसेनः.  
 
---1) Thus A1; corr. by later hand into सांयुज्या॰.  
+[^0290-1]: A3 gloss मातृगुप्तः.  
 
-0280.  
+[^0290-2]: Thus corr. by later hand from A1 निश्वस्य.  
 
---1) A3 अगच्छ॰.  
+[^0290-3]: A3 gloss विक्रमादित्यः.  
 
-0281.  
+[^0291-1]: Thus A1; corr. by A3 into द्योतयेन्नान्यथा किं न which reading is found also in G R Edd.  
 
---1) त्त supplied by A3 in space left by A1.  
-
---2) A3 gloss निकटं.  
-
-0284.  
-
---1) A3 gloss तेभ्यः.  
-
---2) A3 gloss नीचैः.  
-
-0286.  
-
---1) Emended; A निश्वस॰.  
-
-0289.  
-
---1) A3 gloss प्रवरसेनः.  
-
-0290.  
-
---1) A3 gloss मातृगुप्तः.  
-
---2) Thus corr. by later hand from A1 निश्वस्य.  
-
---3) A3 gloss विक्रमादित्यः.  
-
-0291.  
-
---1) Thus A1; corr. by A3 into द्योतयेन्नान्यथा किं न which reading is found also in G R Edd.  
-
---3) A2 gloss सूर्यकान्तः.  
+[^0291-3]: A2 gloss सूर्यकान्तः.  
 
 [page 34]  
 
@@ -3509,47 +2885,27 @@ Colophon.
 एतावत्येव कर्तव्ये यातेस्मि[^0318-1]न्कीर्तिशेषताम् । KRT_3_0318ab  
 भोगमात्रपरित्यागाद्विदध्यां सत्यसंधताम् ॥ KRT_3_0318cd  
 
-0292.  
+[^0292-1]: Thus corr. by later hand from 1 यत्पत्युप॰.  
 
---1) Thus corr. by later hand from 1 यत्पत्युप॰.  
+[^0294-1]: A3 gloss तेन हर्षदेवेन.  
 
-0294.  
+[^0295-1]: A3 ॰वशीकृताः.  
 
---1) A3 gloss तेन हर्षदेवेन.  
+[^0298-1]: A3 gloss विक्रमादित्यं.  
 
-0295.  
+[^0302-1]: A3 gloss वीथीषु.  
 
---1) A3 ॰वशीकृताः.  
+[^0302-2]: दर्श्यते supplied by A3 in space left by A1.  
 
-0298.  
+[^0307-1]: Thus A1; A3 ॰न्पाणिप्र॰.  
 
---1) A3 gloss विक्रमादित्यं.  
+[^0309-1]: Thus corr. by A3 from A1 यान्यक्षारा॰.  
 
-0302.  
+[^0310-1]: This verse has been omitted by A1 and supplied in margin by A3; found in R G.  
 
---1) A3 gloss वीथीषु.  
+[^0315-1]: A3 gloss ते भोगा इत्यर्थः.  
 
---2) दर्श्यते supplied by A3 in space left by A1.  
-
-0307.  
-
---1) Thus A1; A3 ॰न्पाणिप्र॰.  
-
-0309.  
-
---1) Thus corr. by A3 from A1 यान्यक्षारा॰.  
-
-0310.  
-
---1) This verse has been omitted by A1 and supplied in margin by A3; found in R G.  
-
-0315.  
-
---1) A3 gloss ते भोगा इत्यर्थः.  
-
-0318.  
-
---1) A3 gloss विक्रमादित्ये.  
+[^0318-1]: A3 gloss विक्रमादित्ये.  
 
 [page 35]  
 
@@ -3612,33 +2968,21 @@ Colophon.
 अङ्गेन रक्षःकायस्य ज्ञात्वा सेतुं प्रकल्पितम् । KRT_3_0346ab  
 वीरः प्रवरसेनोथ विकोशां क्षुरिकां दधे ॥ KRT_3_0346cd  
 
-0323.  
+[^0323-1]: A1 gloss त्रयाणां विक्रमादित्यमातृगुप्तप्रवरसेनानाम्.  
 
---1) A1 gloss त्रयाणां विक्रमादित्यमातृगुप्तप्रवरसेनानाम्.  
+[^0325-1]: A3 gloss जलान्यपि.  
 
-0325.  
+[^0332-1]: A3 gloss प्रवरसेनः.  
 
---1) A3 gloss जलान्यपि.  
+[^0332-2]: Doubtful emendation:: मुंमु has been supplied by A3 in space left by A1; A3 has marked a different division of the words, जित्वाऽमुं । मुनिभूभुजम्, which is also indicated by the interlinear gloss of A3 प्रतापशीलं; C reads मुम्मुनि॰. For the name मुम्मुनि see iv. 167; v. 516; vii. 2180 (C).  
 
-0332.  
+[^0335-1]: A3 gloss शिखिवद्दृष्ट्वा.  
 
---1) A3 gloss प्रवरसेनः.  
+[^0335-2]: Thus A1; A3 तालार्धचरणो॰.  
 
---2) Doubtful emendation:: मुंमु has been supplied by A3 in space left by A1; A3 has marked a different division of the words, जित्वाऽमुं । मुनिभूभुजम्, which is also indicated by the interlinear gloss of A3 प्रतापशीलं; C reads मुम्मुनि॰. For the name मुम्मुनि see iv. 167; v. 516; vii. 2180 (C).  
+[^0338-1]: Thus A3; A1 ॰त्राङ्ग॰.  
 
-0335.  
-
---1) A3 gloss शिखिवद्दृष्ट्वा.  
-
---2) Thus A1; A3 तालार्धचरणो॰.  
-
-0338.  
-
---1) Thus A3; A1 ॰त्राङ्ग॰.  
-
-0345.  
-
---1) Thus apparently A1; A3 ॰यन्.  
+[^0345-1]: Thus apparently A1; A3 ॰यन्.  
 
 [page 36]  
 
@@ -3703,27 +3047,17 @@ Colophon.
 जनैः स ददृशे गच्छन्कैलासतिलकां दिशम् । KRT_3_0375ab  
 विशदे घटयन्व्योम्नि द्वितीयतपनोदयम् ॥ KRT_3_0375cd  
 
-0347.  
+[^0347-1]: Thus corr. by A3 from A1 ॰भाल; G ॰बाल.  
 
---1) Thus corr. by A3 from A1 ॰भाल; G ॰बाल.  
+[^0349-1]: Thus corr. by later hand from A2 ॰ष्ठितं.  
 
-0349.  
+[^0349-2]: A2 gloss हारटठ्.  
 
---1) Thus corr. by later hand from A2 ॰ष्ठितं.  
+[^0351-1]: स्य supplied by A3.  
 
---2) A2 gloss हारटठ्.  
+[^0354-1]: Thus corr. by A3 from A1 तदा.  
 
-0351.  
-
---1) स्य supplied by A3.  
-
-0354.  
-
---1) Thus corr. by A3 from A1 तदा.  
-
-0355.  
-
---1) A3 gloss स्थापनम्.  
+[^0355-1]: A3 gloss स्थापनम्.  
 
 [page 37]  
 
@@ -3788,29 +3122,17 @@ Colophon.
 ततो मुहुः प्रहरतां तेषां महिषचर्मणि । KRT_3_0404ab  
 घोरश्चटचटाघोषः प्रादुरासीद्भयंकरः ॥ KRT_3_0404cd  
 
-0377.  
+[^0377-1]: Thus A3; A1 त्यक्त्त्वा.  
 
---1) Thus A3; A1 त्यक्त्त्वा.  
+[^0378-1]: A3 च्छिद्रं.  
 
-0378.  
+[^0379-1]: Thus corr. by A3 from A1 चतुर्विंशतिं.  
 
---1) A3 च्छिद्रं.  
+[^0381-1]: A3 gloss भौच्छो.  
 
-0379.  
+[^0384-1]: A1 ल X खणा॰.  
 
---1) Thus corr. by A3 from A1 चतुर्विंशतिं.  
-
-0381.  
-
---1) A3 gloss भौच्छो.  
-
-0384.  
-
---1) A1 ल X खणा॰.  
-
-0390.  
-
---1) A3 indicates a varia lectio in the marginal note अन्यत् कबन्धेभ्यः परं नृत्तं न न्यधत्त द्विषद्बलम्; over the last word the gloss कर्तृ by the same hand.  
+[^0390-1]: A3 indicates a varia lectio in the marginal note अन्यत् कबन्धेभ्यः परं नृत्तं न न्यधत्त द्विषद्बलम्; over the last word the gloss कर्तृ by the same hand.  
 
 [page 38]  
 
@@ -3873,33 +3195,19 @@ Colophon.
 रतिसेनाभिधश्चोलराजः सज्जोब्धिपूजने । KRT_3_0432ab  
 तां तरङ्गान्ताल्लेभे रत्नराजिमिवोज्ज्वलम् ॥ KRT_3_0432cd  
 
-0406.  
+[^0406-1]: A3 चित्रं.  
 
---1) A3 चित्रं.  
+[^0412-1]: Thus A1; A3 G पुरः; R and Edd. read पुनः.  
 
-0412.  
+[^0414-1]: Thus A1; altered by A3 to ॰मुक्तार्घान्बद्ध्वा. A3 reads in margin गृहीतहारमुक्तार्घां बद्ध्वपीनस्तनाञ्जलिम्, with gloss मुक्ता एवार्घाः. G and R follow A1.  
 
---1) Thus A1; A3 G पुरः; R and Edd. read पुनः.  
+[^0417-1]: A1 writes ऽ after निन्ये.  
 
-0414.  
+[^0418-1]: This division of the words in indicated by A1.  
 
---1) Thus A1; altered by A3 to ॰मुक्तार्घान्बद्ध्वा. A3 reads in margin गृहीतहारमुक्तार्घां बद्ध्वपीनस्तनाञ्जलिम्, with gloss मुक्ता एवार्घाः. G and R follow A1.  
+[^0425-1]: Thus corr. by later hand from A1 सत्यं; स्त्यां also in G and R.  
 
-0417.  
-
---1) A1 writes ऽ after निन्ये.  
-
-0418.  
-
---1) This division of the words in indicated by A1.  
-
-0425.  
-
---1) Thus corr. by later hand from A1 सत्यं; स्त्यां also in G and R.  
-
-0429.  
-
---1) A3 देव्यो.  
+[^0429-1]: A3 देव्यो.  
 
 [page 39]  
 
@@ -3962,53 +3270,35 @@ Colophon.
 रणारम्भास्वामिदेवौ दंपतिभ्यां व्यधीयत । KRT_3_0460ab  
 मठः पाशुपतानां च ताभ्यां प्रद्युम्नमूर्धनि[^0460-1] ॥ KRT_3_0460cd  
 
-0440.  
+[^0440-1]: A3 gloss शिवलिङ्गद्वयम्.  
 
---1) A3 gloss शिवलिङ्गद्वयम्.  
+[^0443-1]: Thus A3; A1 ॰धत्त.  
 
-0443.  
+[^0451-1]:  
 
---1) Thus A3; A1 ॰धत्त.  
+[^0451-2]:  
 
-0451.  
+[^0451-3]: Thus corr. by later hand from A1 तं, ॰मात्र, पाथस.  
 
---1)  
+[^0451-4]: Thus A3; A1 व्यधुः.  
 
---2)  
+[^0453-1]: Thus A1; A3 ॰लिङ्गे.  
 
---3) Thus corr. by later hand from A1 तं, ॰मात्र, पाथस.  
+[^0455-1]: Thus corr. by A3 from A1 राज्ञा.  
 
---4) Thus A3; A1 व्यधुः.  
+[^0455-2]: Thus A3; A1 भक्तैस्तां॰.  
 
-0453.  
+[^0456-1]: A3 gloss हरिहरयोः.  
 
---1) Thus A1; A3 ॰लिङ्गे.  
+[^0458-1]: Thus A3; A1 प्रवचो.  
 
-0455.  
+[^0459-1]: Thus corr. by later hand from A1 स.  
 
---1) Thus corr. by A3 from A1 राज्ञा.  
+[^0459-2]: Thus corr. by A3 from A1 पराख्यं.  
 
---2) Thus A3; A1 भक्तैस्तां॰.  
+[^0459-3]: Thus !3; A1 ॰सत्तमम्.  
 
-0456.  
-
---1) A3 gloss हरिहरयोः.  
-
-0458.  
-
---1) Thus A3; A1 प्रवचो.  
-
-0459.  
-
---1) Thus corr. by later hand from A1 स.  
-
---2) Thus corr. by A3 from A1 पराख्यं.  
-
---3) Thus !3; A1 ॰सत्तमम्.  
-
-0460.  
-
---1) A3 gloss प्रद्युम्नमूर्धनि शारिकागिरौ.  
+[^0460-1]: A3 gloss प्रद्युम्नमूर्धनि शारिकागिरौ.  
 
 [page 40]  
 
@@ -4069,49 +3359,29 @@ Colophon.
 सुतासंतानसाम्राज्यमनिच्छन्नथ पार्थिवः । KRT_3_0487ab  
 दैवं पुरुषकारेण जेतुमासीत्कृतोद्यमः ॥ KRT_3_0487cd  
 
-0466.  
+[^0466-1]: Thus A; R G वंशान्तं; Edd. वसन्तं.  
 
---1) Thus A; R G वंशान्तं; Edd. वसन्तं.  
+[^0467-1]: Thus A3 -- A1 ततो.  
 
-0467.  
+[^0468-1]: Thus corr. by later hand from A1 चान्द्र॰.  
 
---1) Thus A3 -- A1 ततो.  
+[^0470-1]: Thus corr. by A3 from A1 भूत्वा.  
 
-0468.  
+[^0470-2]: Thus A3; A1 ॰लेश्वरम्.  
 
---1) Thus corr. by later hand from A1 चान्द्र॰.  
+[^0473-1]: A1 gloss वंशे.  
 
-0470.  
+[^0473-2]: A3 gloss ययोः रामरणादित्ययोः.  
 
---1) Thus corr. by A3 from A1 भूत्वा.  
+[^0475-1]: Emended; A R G ॰गलूरा॰.  
 
---2) Thus A3; A1 ॰लेश्वरम्.  
+[^0480-1]: The words from कालाम्ब्याख्यो to कारका in verse 483 have been supplied by A1 at a later date and in a smaller handwriting., partly in space left for this purpose, partly in margin.  
 
-0473.  
+[^0481-1]: Thus corr. by A3 from A1 भेरडा॰.  
 
---1) A1 gloss वंशे.  
+[^0482-1]: A3 gloss रद्दोसाने.  
 
---2) A3 gloss ययोः रामरणादित्ययोः.  
-
-0475.  
-
---1) Emended; A R G ॰गलूरा॰.  
-
-0480.  
-
---1) The words from कालाम्ब्याख्यो to कारका in verse 483 have been supplied by A1 at a later date and in a smaller handwriting., partly in space left for this purpose, partly in margin.  
-
-0481.  
-
---1) Thus corr. by A3 from A1 भेरडा॰.  
-
-0482.  
-
---1) A3 gloss रद्दोसाने.  
-
-0483.  
-
---1) See note to verse 480 above.  
+[^0483-1]: See note to verse 480 above.  
 
 [page 41]  
 
@@ -4170,61 +3440,37 @@ Colophon.
 सोचिन्तयदहो कष्टाश्चेष्टा[^0513-1]रागानुगा इमाः । KRT_3_0513ab  
 विचारवन्ध्याः क्षिप्यन्ते क्षिप्रं याभिरधो नराः ॥ KRT_3_0513cd  
 
-0488.  
+[^0488-1]: A3 gloss न्यूनकुलोद्भवाय दत्ता.  
 
---1) A3 gloss न्यूनकुलोद्भवाय दत्ता.  
+[^0489-1]: कृत्वा जामा supplied by A3 in space left by A1.  
 
-0489.  
+[^0490-1]: Thus corr. by A3 from A1 समेयुषा.  
 
---1) कृत्वा जामा supplied by A3 in space left by A1.  
+[^0490-3]: Thus corr. by A3 from A1 सा.  
 
-0490.  
+[^0492-1]: Emended; A R G जहन्य॰.  
 
---1) Thus corr. by A3 from A1 समेयुषा.  
+[^0492-2]: Thus A3; A1 स.  
 
---3) Thus corr. by A3 from A1 सा.  
+[^0492-3]: A3 gloss दूरे इत्यर्थः.  
 
-0492.  
+[^0495-1]: A3 gloss उल्लंघितमर्यादा.  
 
---1) Emended; A R G जहन्य॰.  
+[^0497-1]: Emended; A संप्रयु॰.  
 
---2) Thus A3; A1 स.  
+[^0499-1]: A3 समम्.  
 
---3) A3 gloss दूरे इत्यर्थः.  
+[^0500-1]: The text from मान्दुर्लभवर्धनः to the end ofv verse 507 below has been supplied bv A3, partly in space left by A1, partly in margin.  
 
-0495.  
+[^0504-1]: Emended with Edd.; A ॰निद्रता.  
 
---1) A3 gloss उल्लंघितमर्यादा.  
+[^0507-1]: A3 दुर्जात॰, with v.l. as above.  
 
-0497.  
+[^0507-2]: See note to verse 500 above.  
 
---1) Emended; A संप्रयु॰.  
+[^0508-1]: Thus corr. by A3 from A1 ॰यन्तौ.  
 
-0499.  
-
---1) A3 समम्.  
-
-0500.  
-
---1) The text from मान्दुर्लभवर्धनः to the end ofv verse 507 below has been supplied bv A3, partly in space left by A1, partly in margin.  
-
-0504.  
-
---1) Emended with Edd.; A ॰निद्रता.  
-
-0507.  
-
---1) A3 दुर्जात॰, with v.l. as above.  
-
---2) See note to verse 500 above.  
-
-0508.  
-
---1) Thus corr. by A3 from A1 ॰यन्तौ.  
-
-0513.  
-
---1) Thus corrected by A3 from A1 कष्टाः श्रेष्ठा॰.  
+[^0513-1]: Thus corrected by A3 from A1 कष्टाः श्रेष्ठा॰.  
 
 [page 42]  
 
@@ -4269,39 +3515,23 @@ Colophon.
 
 इति श्रीकाश्मीरिकमहामात्यश्रीचण्पकप्रभुसूनोः कल्हणस्य कृतौ राजतरङ्गिण्यां तृतीयस्तरङ्गः ॥  
 
-0516.  
+[^0516-1]: A3 gloss विरोधः.  
 
---1) A3 gloss विरोधः.  
+[^0522-1]: Thus corr. by A3 from A1 ॰न्खड्गस्था॰.  
 
-0522.  
+[^0523-1]: मन्त्री त supplied by A3 in space left by A1.  
 
---1) Thus corr. by A3 from A1 ॰न्खड्गस्था॰.  
+[^0524-1]: तदा वि supplied vy A3 in space left by A1.  
 
-0523.  
+[^0526-1]: Thus A1; altered by A3 to सप्तात्रिं॰.  
 
---1) मन्त्री त supplied by A3 in space left by A1.  
+[^0526-2]: A3 gloss ऊनामित्यर्थः.  
 
-0524.  
+[^0527-1]: A3 gloss तस्मिन्.  
 
---1) तदा वि supplied vy A3 in space left by A1.  
+[^0528-1]: Thus corr. by A3 from A1 कर्कोट॰.  
 
-0526.  
-
---1) Thus A1; altered by A3 to सप्तात्रिं॰.  
-
---2) A3 gloss ऊनामित्यर्थः.  
-
-0527.  
-
---1) A3 gloss तस्मिन्.  
-
-0528.  
-
---1) Thus corr. by A3 from A1 कर्कोट॰.  
-
-Colophon.  
-
---1) A1 adds here लिखितश्चैष मया राजानकरत्नकण्ठेन.  
+[^col-1]: A1 adds here लिखितश्चैष मया राजानकरत्नकण्ठेन.  
 
 [page 43]  
 
@@ -4354,31 +3584,19 @@ Colophon.
 क्षणादलब्धस्पर्शोपि तां सौभाग्यसुधामयीम् । KRT_4_0022ab  
 मज्जानम[^0022-1]पि संस्पृश्य स्थितामिव विवेद सः ॥ KRT_4_0022cd  
 
-0010.  
+[^0010-1]: A3 gloss तापर्.  
 
---1) A3 gloss तापर्.  
+[^0012-1]: A3 gloss स्थितये.  
 
-0012.  
+[^0014-1]: Thus corr. by A3 from A1 प्रजानां.  
 
---1) A3 gloss स्थितये.  
+[^0015-1]: Thus corr. by A3; A1 seems to have read कृताननः.  
 
-0014.  
+[^0018-1]: A1 gloss सन्तौ च तावूरू सदूरू ताभ्यां आहितो विश्रमो यथा.  
 
---1) Thus corr. by A3 from A1 प्रजानां.  
+[^0018-2]: व स्मरस्य supplied by A3 in space left by A1.  
 
-0015.  
-
---1) Thus corr. by A3; A1 seems to have read कृताननः.  
-
-0018.  
-
---1) A1 gloss सन्तौ च तावूरू सदूरू ताभ्यां आहितो विश्रमो यथा.  
-
---2) व स्मरस्य supplied by A3 in space left by A1.  
-
-0021.  
-
---1) Thus corr. by later hand from A1 मज्जानामपि.  
+[^0021-1]: Thus corr. by later hand from A1 मज्जानामपि.  
 
 [page 44]  
 
@@ -4439,43 +3657,29 @@ Colophon.
 दोषांस्त्यक्त्वान्यभूपेषु यं शुद्धा श्रीरशिश्रियत् । KRT_4_0049ab  
 मार्गाद्रिष्वोघकालुष्यं क्षिप्त्वा सिन्धुरिवार्णवम् ॥ KRT_4_0049cd  
 
-0028.  
+[^0028-1]: चार supplied by A3 in space left by A1.  
 
---1) चार supplied by A3 in space left by A1.  
+[^0029-1]: सिता supplied by A3 in space left by A1.  
 
-0029.  
+[^0030-1]: पालो supplied by A3 in space left by A1.  
 
---1) सिता supplied by A3 in space left by A1.  
+[^0034-1]: Thus corr. by A3 from A1 ॰दुदितं.  
 
-0030.  
+[^0034-2]: Thus corr. by A3 from A1 कीर्णक॰.  
 
---1) पालो supplied by A3 in space left by A1.  
+[^0036-1]: A3 तदा.  
 
-0034.  
+[^0036-2]: A1 gloss देवगृहात्.  
 
---1) Thus corr. by A3 from A1 ॰दुदितं.  
+[^0040-1]: A3 gloss कुलदोषं.  
 
---2) Thus corr. by A3 from A1 कीर्णक॰.  
+[^0040-2]: Thus corr. by A3 from A1 ॰ककणैः.  
 
-0036.  
+[^0041-1]: Thus corr. by A1 from धूमोद्गा॰.  
 
---1) A3 तदा.  
+[^0041-2]: Thus corr. by A3 from A1 ॰ध्वलस्यो॰.  
 
---2) A1 gloss देवगृहात्.  
-
-0040.  
-
---1) A3 gloss कुलदोषं.  
-
---2) Thus corr. by A3 from A1 ॰ककणैः.  
-
-0041.  
-
---1) Thus corr. by A1 from धूमोद्गा॰.  
-
---2) Thus corr. by A3 from A1 ॰ध्वलस्यो॰.  
-
---3) Thus A, with A3 gloss भूमि R G Edd wrongly जन्मावध्य॰.  
+[^0041-3]: Thus A, with A3 gloss भूमि R G Edd wrongly जन्मावध्य॰.  
 
 [page 45]  
 
@@ -4538,43 +3742,27 @@ Colophon.
 स्वस्ति तुभ्यं चिरं स्थेयाव् धर्म्या वृत्तान्तपद्धतीः । KRT_4_0077ab  
 दर्शयन्नीदृशी शुद्धाः श्रद्धेया धर्मचारिनाम् ॥ KRT_4_0077cd  
 
-0050.  
+[^0050-1]: Thus A3; A1 ॰चरस्स्तुत्यं.  
 
---1) Thus A3; A1 ॰चरस्स्तुत्यं.  
+[^0051-1]: Thus A3; A1 मान्यैर्वि॰. G R Edd. follow A3.  
 
-0051.  
+[^0051-2]: A3 gloss रत्नैः.  
 
---1) Thus A3; A1 मान्यैर्वि॰. G R Edd. follow A3.  
+[^0052-1]: Thus corr. by A3 from A1 यस्य ध॰.  
 
---2) A3 gloss रत्नैः.  
+[^0052-2]: Thus A3; A1 ॰त्मता.  
 
-0052.  
+[^0053-1]: A1 gloss मन्देहा नाम राक्षसविशेषाश्च.  
 
---1) Thus corr. by A3 from A1 यस्य ध॰.  
+[^0054-1]: A3 gloss अस्माभिः.  
 
---2) Thus A3; A1 ॰त्मता.  
+[^0061-1]: A1 gloss चर्मकारस्य.  
 
-0053.  
+[^0066-1]: A3 विज्ञप्यसे.  
 
---1) A1 gloss मन्देहा नाम राक्षसविशेषाश्च.  
+[^0066-2]: Thus corr. by A1 from यथायथम्.  
 
-0054.  
-
---1) A3 gloss अस्माभिः.  
-
-0061.  
-
---1) A1 gloss चर्मकारस्य.  
-
-0066.  
-
---1) A3 विज्ञप्यसे.  
-
---2) Thus corr. by A1 from यथायथम्.  
-
-0076.  
-
---1) A1 मयास्पृश्येन; A3 gloss अधमेन.  
+[^0076-1]: A1 मयास्पृश्येन; A3 gloss अधमेन.  
 
 [page 46]  
 
@@ -4633,55 +3821,33 @@ Colophon.
 प्रदक्षिणं कुर्वतोस्य त्रिरत्र यदि दृश्यते । KRT_4_0103ab  
 ब्र[^0103-1]ह्महत्यापादमुद्रा पादमुद्रा[^0103-2]नुयायिनी ॥ KRT_4_0103cd  
 
-0080.  
+[^0080-1]: A3 gloss नारायणस्य.  
 
---1) A3 gloss नारायणस्य.  
+[^0080-2]: A3 gloss गम्भीरसङ्गम्.  
 
---2) A3 gloss गम्भीरसङ्गम्.  
+[^0083-1]: A1 varia lectio मत्पत्युः.  
 
-0083.  
+[^0085-1]: A3 gloss अकालमरण.  
 
---1) A1 varia lectio मत्पत्युः.  
+[^0087-1]: A3 gloss निरहङ्कारः.  
 
-0085.  
+[^0089-1]: A3 gloss रहितैः.  
 
---1) A3 gloss अकालमरण.  
+[^0095-1]: Thus corr. by later hand from A1 तं.  
 
-0087.  
+[^0096-1]: Ae gloss शूद्रादौ.  
 
---1) A3 gloss निरहङ्कारः.  
+[^0096-2]: A3 gloss सति.  
 
-0089.  
+[^0097-1]: Thus A3; A1 राजन्नपि शस्यते.  
 
---1) A3 gloss रहितैः.  
+[^0098-1]: A3 gloss हन्तरि.  
 
-0095.  
+[^0100-1]: A3 gloss नारायण and सत्यस्तु गरुडे धुवे.  
 
---1) Thus corr. by later hand from A1 तं.  
+[^0101-1]: A later hand, not met with elsewhere, adds in margin of A th following note: ब्रह्महत्या इति । यः कश्चिद्ब्रह्महत्यां करोति तस्य ब्रह्महत्या मूर्तिमती अदृष्टा वा अनुगामिनी भवति । द्रुहिणशिरच्छेदेन महादेववत् । इत्यभिप्रायवानाह ब्रह्महत्यादि विकीर्णे शालिचूर्णे प्रासादाङ्गने त्रिः परिक्रम्य यदि ब्रह्महत्यायाः कृत्याविशेषस्य पादमुद्रा चरणस्थापनमुद्रायुगलं अस्य वधकस्य पादमुद्रानुगामिनी दृश्यते । ब्रह्महत्याचरणद्वयमुद्रा वधकद्विजपादद्वयमुद्रा च यद्यनुभवविषयीभवति तर्हि एष एव द्विजो वधकः तर्हि शालिचूर्णयुक्तेङ्गने पादचारोवश्यं कारयितव्यः तेनानुमानं । अनेनैव वधः कृतः यतः पादमुद्राद्वयं अधिकं ज्ञातं । एवं ब्रह्महत्याचारणमुद्रानुगच्छतीति स्वय्ं भगवता उपायः सूचितः.  
 
-0096.  
-
---1) Ae gloss शूद्रादौ.  
-
---2) A3 gloss सति.  
-
-0097.  
-
---1) Thus A3; A1 राजन्नपि शस्यते.  
-
-0098.  
-
---1) A3 gloss हन्तरि.  
-
-0100.  
-
---1) A3 gloss नारायण and सत्यस्तु गरुडे धुवे.  
-
-0101.  
-
---1) A later hand, not met with elsewhere, adds in margin of A th following note: ब्रह्महत्या इति । यः कश्चिद्ब्रह्महत्यां करोति तस्य ब्रह्महत्या मूर्तिमती अदृष्टा वा अनुगामिनी भवति । द्रुहिणशिरच्छेदेन महादेववत् । इत्यभिप्रायवानाह ब्रह्महत्यादि विकीर्णे शालिचूर्णे प्रासादाङ्गने त्रिः परिक्रम्य यदि ब्रह्महत्यायाः कृत्याविशेषस्य पादमुद्रा चरणस्थापनमुद्रायुगलं अस्य वधकस्य पादमुद्रानुगामिनी दृश्यते । ब्रह्महत्याचरणद्वयमुद्रा वधकद्विजपादद्वयमुद्रा च यद्यनुभवविषयीभवति तर्हि एष एव द्विजो वधकः तर्हि शालिचूर्णयुक्तेङ्गने पादचारोवश्यं कारयितव्यः तेनानुमानं । अनेनैव वधः कृतः यतः पादमुद्राद्वयं अधिकं ज्ञातं । एवं ब्रह्महत्याचारणमुद्रानुगच्छतीति स्वय्ं भगवता उपायः सूचितः.  
-
---2) A3 gloss द्विजसंबन्धि.  
+[^0101-2]: A3 gloss द्विजसंबन्धि.  
 
 [page 47]  
 
@@ -4740,55 +3906,35 @@ Colophon.
 विनिःसरज्जनतया भयाद्गर्भानिवामुचन् । KRT_4_0129ab  
 द्विषां वसतयो यस्य निशम्यास्कन्ददुन्दुभिम् ॥ KRT_4_0129cd  
 
-0111.  
+[^0111-1]: A3 gloss ब्रह्मा जाड्यं विना.  
 
---1) A3 gloss ब्रह्मा जाड्यं विना.  
+[^0111-2]: A3 gloss आदौ दृष्टः पश्चान्नष्टः.  
 
---2) A3 gloss आदौ दृष्टः पश्चान्नष्टः.  
+[^0126-1]: A3 gloss उच्चाटना.  
 
-0126.  
+[^0117-1]: A3 gloss चन्द्रापीडः कृतयुगराजपङ्क्तिमध्ये.  
 
---1) A3 gloss उच्चाटना.  
+[^0117-2]: A3 gloss काकपदं कावछेदो । इति भाषया लिपिर्यथा +.  
 
-0117.  
+[^0118-1]: A3 स्वर्गं विषदं(* विषादं).  
 
---1) A3 gloss चन्द्रापीडः कृतयुगराजपङ्क्तिमध्ये.  
+[^0119-1]: A3 भ्रातृदेहासुसुहृदा.  
 
---2) A3 gloss काकपदं कावछेदो । इति भाषया लिपिर्यथा +.  
+[^0119-2]: Thus corr. by A3 from A1 उवाच.  
 
-0118.  
+[^0119-3]: Thus A1; A3 मण्डलीं.  
 
---1) A3 स्वर्गं विषदं(* विषादं).  
+[^0120-1]: A3 gloss सदृशं.  
 
-0119.  
+[^0122-1]: A3 gloss अक्षिपदित्यर्थः.  
 
---1) A3 भ्रातृदेहासुसुहृदा.  
+[^0123-1]: Thus corr. by A3 from मासैः.  
 
---2) Thus corr. by A3 from A1 उवाच.  
+[^0123-2]: A3 gloss पुण्यनाशः.  
 
---3) Thus A1; A3 मण्डलीं.  
+[^0124-1]: The text from here to नयनान्ध्यकरं यम in following verse has been supplied by A3 in space left by A1.  
 
-0120.  
-
---1) A3 gloss सदृशं.  
-
-0122.  
-
---1) A3 gloss अक्षिपदित्यर्थः.  
-
-0123.  
-
---1) Thus corr. by A3 from मासैः.  
-
---2) A3 gloss पुण्यनाशः.  
-
-0124.  
-
---1) The text from here to नयनान्ध्यकरं यम in following verse has been supplied by A3 in space left by A1.  
-
-0125.  
-
---1) See note to preceeding verse.  
+[^0125-1]: See note to preceeding verse.  
 
 [page 48]  
 
@@ -4845,63 +3991,43 @@ Colophon.
 ललितादियपादाब्जनखदर्पणमण्डले । KRT_4_0154ab  
 स्वमूर्तिं वीक्ष्य संक्रान्तां प्रणता सापि पिप्रिये ॥ KRT_4_0154cd  
 
-0130.  
-
---1) Thus corr. by A3 from A1 ॰कारयन्.  
+[^0130-1]: Thus corr. by A3 from A1 ॰कारयन्.  
 
 132  
 
 --1) A3 gloss प्रयागदेशे गङ्गायमुनयोरन्तरालभूमिरन्तर्वेदी.  
 
-0133.  
+[^0133-1]: A3 gloss कुब्जत्वं.  
 
---1) A3 gloss कुब्जत्वं.  
+[^0134-1]: A3 प्रलयादित्यतां.  
 
-0134.  
+[^0135-1]: A3 gloss सः मित्रशर्मा.  
 
---1) A3 प्रलयादित्यतां.  
+[^0135-2]: युगलकम् added by A3.  
 
-0135.  
+[^0139-1]: Thus corr. by later hand from A1 ॰तम्.  
 
---1) A3 gloss सः मित्रशर्मा.  
+[^0139-2]: Thus A G R; Edd. ॰पेक्षितां.  
 
---2) युगलकम् added by A3.  
+[^0140-1]: A1 has left before this verse a blank space for four lines, writing in the middle न किंचित्पतितम्.  
 
-0139.  
+[^0142-1]: Thus A G R; perhaps to be emended to ॰पीठं. Cf. महाप्रतीहारपीठाधिकारं iv.485.  
 
---1) Thus corr. by later hand from A1 ॰तम्.  
+[^0145-1]: Thus corr. by later hand from A1 कान्य॰.  
 
---2) Thus A G R; Edd. ॰पेक्षितां.  
+[^0145-2]: तोस्य सा and कातीरं supplied by A3 in spaces left by A1.  
 
-0140.  
+[^0145-2]: Thus A3; A1 अभूदशालि॰, altered by later hand to अभूदाशालि॰. 147.  
 
---1) A1 has left before this verse a blank space for four lines, writing in the middle न किंचित्पतितम्.  
+[^0145-1]: These words have been written twice by A1, at the end of fol.62(here struck out again) and at the head of fol. 63.  
 
-0142.  
+[^0150-1]:  
 
---1) Thus A G R; perhaps to be emended to ॰पीठं. Cf. महाप्रतीहारपीठाधिकारं iv.485.  
+[^0150-2]: A4 gives the notes यमत्रिद्वितां दक्षिणां दिशं and तस्य राज्ञः कृपाणेन खङ्गेन नु पुनर्द्विषो रिपवो वैवस्वताङ्कां दिशं प्रतस्थिरे इत्यर्थः.  
 
-0145.  
+[^0152-1]: द्वा supplied by A3 in space left by A1.  
 
---1) Thus corr. by later hand from A1 कान्य॰.  
-
---2) तोस्य सा and कातीरं supplied by A3 in spaces left by A1.  
-
---2) Thus A3; A1 अभूदशालि॰, altered by later hand to अभूदाशालि॰. 147.  
-
---1) These words have been written twice by A1, at the end of fol.62(here struck out again) and at the head of fol. 63.  
-
-0150.  
-
---1)  
-
---2) A4 gives the notes यमत्रिद्वितां दक्षिणां दिशं and तस्य राज्ञः कृपाणेन खङ्गेन नु पुनर्द्विषो रिपवो वैवस्वताङ्कां दिशं प्रतस्थिरे इत्यर्थः.  
-
-0152.  
-
---1) द्वा supplied by A3 in space left by A1.  
-
---2) A1 पृथुश्रीदक्षि, corr. by later hand into ॰श्रीः.  
+[^0152-2]: A1 पृथुश्रीदक्षि, corr. by later hand into ॰श्रीः.  
 
 [page 49]  
 
@@ -4962,51 +4088,35 @@ Colophon.
 न तत्पुरं न स ग्रामो न सा सिन्धुर्न सोर्णवः । KRT_4_0181ab  
 न स द्वीपोस्ति यत्रासौ प्रतिष्ठां न विनिर्ममे ॥ KRT_4_0181cd  
 
-0152.  
+[^0152-1]: Thus A3; A1 ॰रसोर्मयः.  
 
---1) Thus A3; A1 ॰रसोर्मयः.  
+[^0156-1]: A3 gloss मलयात्.  
 
-0156.  
+[^0156-2]: A3 gloss प्रसभमवमर्दनमास्कन्दः.  
 
---1) A3 gloss मलयात्.  
+[^0156-3]: A3 gloss श्रीखण्डद्रुनाः चन्दनवृक्षा एव दोष्पण्डाः भुजसमूहा यस्य सः तथाविधात्.  
 
---2) A3 gloss प्रसभमवमर्दनमास्कन्दः.  
+[^0156-4]: A3 gloss खड्गाः.  
 
---3) A3 gloss श्रीखण्डद्रुनाः चन्दनवृक्षा एव दोष्पण्डाः भुजसमूहा यस्य सः तथाविधात्.  
+[^0157-1]: A2 gloss उत्तरणार्थ अश्मानः उत्तसदनानः ये कुल्यायां मध्ये भवन्ति; to this gloss A3 has added उटवटपल् इति भाषया.  
 
---4) A3 gloss खड्गाः.  
+[^0159-1]: Thus A1; A3 क्रमुकश्यानान्कौ॰.  
 
-0157.  
+[^0159-2]: Thus A3; A1 तिग्मांशुः.  
 
---1) A2 gloss उत्तरणार्थ अश्मानः उत्तसदनानः ये कुल्यायां मध्ये भवन्ति; to this gloss A3 has added उटवटपल् इति भाषया.  
+[^0162-1]: Thus corr. by A3; A1 ॰रणेवृता॰.  
 
-0159.  
+[^0166-1]: A1 तु X खाराः; A3 G R भुस्दखाराः.  
 
---1) Thus A1; A3 क्रमुकश्यानान्कौ॰.  
+[^0166-2]: Thus corr. by later hand from A1 ॰भावां.  
 
---2) Thus A3; A1 तिग्मांशुः.  
+[^0166-3]: Thus A3; A1 ॰ननाम्.  
 
-0162.  
+[^0167-1]: Thus A; misread दुस्सनिम् m G R and Edd. A4 gloss सुसेन् खान्. Cf.iii.332; v.516; vii. 2180 (C).  
 
---1) Thus corr. by A3; A1 ॰रणेवृता॰.  
+[^0168-1]: Thus A1; corr. by later hand into भोट्टानां.  
 
-0166.  
-
---1) A1 तु X खाराः; A3 G R भुस्दखाराः.  
-
---2) Thus corr. by later hand from A1 ॰भावां.  
-
---3) Thus A3; A1 ॰ननाम्.  
-
-0167.  
-
---1) Thus A; misread दुस्सनिम् m G R and Edd. A4 gloss सुसेन् खान्. Cf.iii.332; v.516; vii. 2180 (C).  
-
-0168.  
-
---1) Thus A1; corr. by later hand into भोट्टानां.  
-
---2) A3 gloss वानराणां.  
+[^0168-2]: A3 gloss वानराणां.  
 
 [page 50]  
 
@@ -5065,71 +4175,45 @@ Colophon.
 अवरोधैरमात्यैश्च सेवकैश्च नरेश्वरैः । KRT_4_0207ab  
 तत्र प्रतिष्ठाः शतशो विहिता भुवनाद्भुताः ॥ KRT_4_0207cd  
 
-0182.  
+[^0182-1]: Thus corr. by A3 from A1 मुनी.  
 
---1) Thus corr. by A3 from A1 मुनी.  
+[^0183-1]: A3 सदर्पो.  
 
-0183.  
+[^0183-2]: A3 कृतधीः.  
 
---1) A3 सदर्पो.  
+[^0184-1]: A3 क्रीडाराजवि॰.  
 
---2) A3 कृतधीः.  
+[^0185-1]: Thus corr. by A3 from A1 बुद्धा.  
 
-0184.  
+[^0186-1]: A4 पुरनिर्माणाधिकारी.  
 
---1) A3 क्रीडाराजवि॰.  
+[^0186-2]: त्को and न्व supplied A3.  
 
-0185.  
+[^0187-1]: A2 gloss लितपुर.  
 
---1) Thus corr. by A3 from A1 बुद्धा.  
+[^0190-1]: Thus corr. by later hand from A1 भूमिग्रामे.  
 
-0186.  
+[^0192-1]: Thus A3; A1 ॰धरस्तेन.  
 
---1) A4 पुरनिर्माणाधिकारी.  
+[^0193-1]: Thus corr. by A3 from A1 पुरे.  
 
---2) त्को and न्व supplied A3.  
+[^0193-2]: Thus A3; A1 जिष्णुग्रामैः.  
 
-0187.  
+[^0194-1]: Thus corr. by later hand from A1 ॰पारं.  
 
---1) A2 gloss लितपुर.  
+[^0194-2]: Over हासपुरं A2 from A1 तर्तुं.  
 
-0190.  
-
---1) Thus corr. by later hand from A1 भूमिग्रामे.  
-
-0192.  
-
---1) Thus A3; A1 ॰धरस्तेन.  
-
-0193.  
-
---1) Thus corr. by A3 from A1 पुरे.  
-
---2) Thus A3; A1 जिष्णुग्रामैः.  
-
-0194.  
-
---1) Thus corr. by later hand from A1 ॰पारं.  
-
---2) Over हासपुरं A2 from A1 तर्तुं.  
-
---3) Thus G sec. manu; A रविप्रभाः.  
+[^0194-3]: Thus G sec. manu; A रविप्रभाः.  
 
 199  
 
 --1) Thus corr. by later hand from A1 हस्ताद्रो॰.  
 
-0203.  
+[^0203-1]: The words from चतुर्भिर॰ to सहस्राणि in the following verse have been omitted by A1 and supplied by A3 in margin.  
 
---1) The words from चतुर्भिर॰ to सहस्राणि in the following verse have been omitted by A1 and supplied by A3 in margin.  
+[^0205-1]: Thus A1; A3 पार्थिवो.  
 
-0205.  
-
---1) Thus A1; A3 पार्थिवो.  
-
-0203.  
-
---1) Thus A3; A1 ॰करं तथा.  
+[^0203-1]: Thus A3; A1 ॰करं तथा.  
 
 [page 51]  
 
@@ -5190,53 +4274,33 @@ Colophon.
 सत्क्षेत्रप्रतिपादितः[^0234-1] प्रियवचोबद्धालवालावलिर्निर्दोषेण मनःप्रसादपयसा निष्पन्नसेकक्रियः । KRT_4_0234ab  
 [^0234-1]दातुस्तत्तदभीप्सितं किल फलन्कालेतिबालोप्यसौ रजन्दानमहीरुहो विजयते कल्पद्रुमादीनपि ॥ KRT_4_0234cd  
 
-0208.  
+[^0208-1]: Thus A1; A3 कमलदेव्य॰.  
 
---1) Thus A1; A3 कमलदेव्य॰.  
+[^0211-1]: A1 तु X खार॰.  
 
-0211.  
+[^0211-2]: Thus corr. by A3 from A1 सुधासरमिव.  
 
---1) A1 तु X खार॰.  
+[^0213-1]: Thus A3; A1 वल्लभादित्य॰. G R copy both readings, Edd. follow A3.  
 
---2) Thus corr. by A3 from A1 सुधासरमिव.  
+[^0214-1]: Emended with Edd.; A भपटो.  
 
-0213.  
+[^0214-2]: Thus A1; A3 कर्कदेशा॰.  
 
---1) Thus A3; A1 वल्लभादित्य॰. G R copy both readings, Edd. follow A3.  
+[^0217-1]: Thus corr. by A3 from A1 उर्वरी॰.  
 
-0214.  
+[^0220-1]: A1; A2 ॰यार्तेषु.  
 
---1) Emended with Edd.; A भपटो.  
+[^0220-2]: Thus corr. by A3 from A1 ॰नयन्कपि॰.  
 
---2) Thus A1; A3 कर्कदेशा॰.  
+[^0221-1]: A4 gloss राज्ञोग्रे इत्यर्थः.  
 
-0217.  
+[^0226-1]: Thus corr. by later hand from A1 ग्रामे.  
 
---1) Thus corr. by A3 from A1 उर्वरी॰.  
+[^0230-1]: Thus A3; A1 भुङ्क्ता(for भुङ्क्थाः ?).  
 
-0220.  
+[^0234-1]: A3 ॰प्रतिरोपितः.  
 
---1) A1; A2 ॰यार्तेषु.  
-
---2) Thus corr. by A3 from A1 ॰नयन्कपि॰.  
-
-0221.  
-
---1) A4 gloss राज्ञोग्रे इत्यर्थः.  
-
-0226.  
-
---1) Thus corr. by later hand from A1 ग्रामे.  
-
-0230.  
-
---1) Thus A3; A1 भुङ्क्ता(for भुङ्क्थाः ?).  
-
-0234.  
-
---1) A3 ॰प्रतिरोपितः.  
-
---2) A3 दत्ते तत्तदभीप्सितं किल फलं काले इत्यन्यादर्शे.  
+[^0234-2]: A3 दत्ते तत्तदभीप्सितं किल फलं काले इत्यन्यादर्शे.  
 
 
 [page 52]  
@@ -5296,61 +4360,39 @@ Colophon.
 सलिकोत्तरणोपायो मणी देवेन गृह्यताम्[^0260-1] । KRT_4_0260ab  
 संसारोत्तरणोपायः सुगतो मह्यमर्प्यताम् ॥ KRT_4_0260cd  
 
-0236.  
+[^0236-1]: Thus A3; A1 चेतसि भूपाल सु॰.  
 
---1) Thus A3; A1 चेतसि भूपाल सु॰.  
+[^0238-1]: A4 gloss तद्दिक्पालस्य.  
 
-0238.  
+[^0240-1]: Thus A3; A1 ॰दाञ्जा त्वया.  
 
---1) A4 gloss तद्दिक्पालस्य.  
+[^0246-1]: A भु X3 ख्रर॰.  
 
-0240.  
+[^0246-2]: Thus corr. by A3 from A1 ॰देशानीतो.  
 
---1) Thus A3; A1 ॰दाञ्जा त्वया.  
+[^0248-1]: Thus A1; A3 स्तिमित॰.  
 
-0246.  
+[^0252-1]: A3 प्रतिभाव्या॰.  
 
---1) A भु X3 ख्रर॰.  
+[^0254-1]: A3 ॰त्कृष्टभूमिषु.  
 
---2) Thus corr. by A3 from A1 ॰देशानीतो.  
+[^0255-1]: A3 gloss चन्द्रकान्तस्य.  
 
-0248.  
+[^0255-2]: A3 gloss शशिमणिः.  
 
---1) Thus A1; A3 स्तिमित॰.  
+[^0255-3]: A3 gloss जलनिधिना.  
 
-0252.  
+[^0255-4]: Thus corr. by A3 from A1 स्यन्दं.  
 
---1) A3 प्रतिभाव्या॰.  
+[^0255-5]: Thus corr. by A3 from A1 वभाव्यः.  
 
-0254.  
+[^0257-1]: Thus A3; A1 ततो.  
 
---1) A3 ॰त्कृष्टभूमिषु.  
+[^0257-2]: Thus A1; A3 in margin कोशे त्वं.  
 
-0255.  
+[^0259-1]: A3 gloss बुद्ध.  
 
---1) A3 gloss चन्द्रकान्तस्य.  
-
---2) A3 gloss शशिमणिः.  
-
---3) A3 gloss जलनिधिना.  
-
---4) Thus corr. by A3 from A1 स्यन्दं.  
-
---5) Thus corr. by A3 from A1 वभाव्यः.  
-
-0257.  
-
---1) Thus A3; A1 ततो.  
-
---2) Thus A1; A3 in margin कोशे त्वं.  
-
-0259.  
-
---1) A3 gloss बुद्ध.  
-
-0260.  
-
---1) A2 gloss मणी एव संसारतरणोपाय इत्यारोपः । अत एव गुqह्यतामित्येकवचनान्तं क्रियापदम् मणी एव संसारतरणोपायस्त्व्यया गृह्यतामित्यन्वयः.  
+[^0260-1]: A2 gloss मणी एव संसारतरणोपाय इत्यारोपः । अत एव गुqह्यतामित्येकवचनान्तं क्रियापदम् मणी एव संसारतरणोपायस्त्व्यया गृह्यतामित्यन्वयः.  
 
 [page 53]  
 
@@ -5413,55 +4455,33 @@ Colophon.
 तद्भूमिजा बन्धवो मे न वक्ष्यन्ति तवदागमम् । KRT_4_0288ab  
 सामात्यान्तःपुरो राजा छद्मनानेन गृह्यते ॥ KRT_4_0288cd  
 
-0231.  
+[^0231-1]: Thus corr. by A3 from A1 यस्य.  
 
---1) Thus corr. by A3 from A1 यस्य.  
+[^0263-1]: Thus emended with Edd. A1 ॰स्कन्द॰.  
 
-0263.  
+[^0263-2]: Thus A1; A3 सूचकैर्यस्य.  
 
---1) Thus emended with Edd. A1 ॰स्कन्द॰.  
+[^0270-1]:  
 
---2) Thus A1; A3 सूचकैर्यस्य.  
+[^0270-2]: A4 glosses अस्मत्कुलजेन and देवगृहे.  
 
-0270.  
+[^0272-1]: Thus corr. by A1 from तदुक्तौ; A3 ॰क्तां.  
 
---1)  
+[^0272-2]: Thus A3; A1 कृच्छ्रां.  
 
---2) A4 glosses अस्मत्कुलजेन and देवगृहे.  
+[^0273-1]: Thus A1; altered by later hand to दूरनि.  
 
-0272.  
+[^0274-1]: A1 gloss अक्षरैः.  
 
---1) Thus corr. by A1 from तदुक्तौ; A3 ॰क्तां.  
+[^0279-1]: Thus corr. by A3v from A1 ॰नाख्यातं.  
 
---2) Thus A3; A1 कृच्छ्रां.  
+[^0280-1]: A4 gloss ललितादित्याय प्रणमं कुर्विति मदुक्तं हितमहितं श्रुत्वा तेन राज्ञा मम कर्णनासादयोवयवाः कृत्ताः.  
 
-0273.  
+[^0282-1]: Thus A3; A1 ॰द्विजेन.  
 
---1) Thus A1; altered by later hand to दूरनि.  
+[^0284-1]: Thus A3; A1 जह्नाद॰.  
 
-0274.  
-
---1) A1 gloss अक्षरैः.  
-
-0279.  
-
---1) Thus corr. by A3v from A1 ॰नाख्यातं.  
-
-0280.  
-
---1) A4 gloss ललितादित्याय प्रणमं कुर्विति मदुक्तं हितमहितं श्रुत्वा तेन राज्ञा मम कर्णनासादयोवयवाः कृत्ताः.  
-
-0282.  
-
---1) Thus A3; A1 ॰द्विजेन.  
-
-0284.  
-
---1) Thus A3; A1 जह्नाद॰.  
-
-0287.  
-
---1) A3 gloss पन्थाः.  
+[^0287-1]: A3 gloss पन्थाः.  
 
 [page 54]  
 
@@ -5520,39 +4540,23 @@ Colophon.
 द्वेषादिवैकृतवतः प्रतिभासतेन्यो मिथ्यैव चित्रमधिको विशदात्मनोपि । KRT_4_0314ab  
 चन्द्रादि पश्यति पुरो द्विगुणं प्रकृत्या तेजोमयं तिमिरदोषहतं हि चक्षुः ॥ KRT_4_0314cd  
 
-0295.  
+[^0295-1]: A3 gloss दुष्टवर्षणं.  
 
---1) A3 gloss दुष्टवर्षणं.  
+[^0298-1]: Thus corr. by A3; A2 ॰मेवोविधोपि तु.  
 
-0298.  
+[^0298-2]: Thus A3; A1 प्रयोगः.  
 
---1) Thus corr. by A3; A2 ॰मेवोविधोपि तु.  
+[^0299-1]: Thus corr. by A3 from A2 वज्जकणं.  
 
---2) Thus A3; A1 प्रयोगः.  
+[^0300-1]: Thus Edd. and G sec. manu; A R and G prima manu दिनेशेनैव.  
 
-0299.  
+[^0304-1]: A4 gloss ललितादित्य एव यमः.  
 
---1) Thus corr. by A3 from A2 वज्जकणं.  
+[^0308-1]: Thus corr. by A2 from A1 धिग्देश॰; A2 gloss दिशि देशः दिग्देशः स च कालश्च तौ.  
 
-0300.  
+[^0311-1]: Thus A1; A3 मत्पुरस्यैव.  
 
---1) Thus Edd. and G sec. manu; A R and G prima manu दिनेशेनैव.  
-
-0304.  
-
---1) A4 gloss ललितादित्य एव यमः.  
-
-0308.  
-
---1) Thus corr. by A2 from A1 धिग्देश॰; A2 gloss दिशि देशः दिग्देशः स च कालश्च तौ.  
-
-0311.  
-
---1) Thus A1; A3 मत्पुरस्यैव.  
-
-0312.  
-
---1) Thus corr. by A3 from A1 गत्वाशुघास॰.  
+[^0312-1]: Thus corr. by A3 from A1 गत्वाशुघास॰.  
 
 [page 55]  
 
@@ -5611,29 +4615,21 @@ Colophon.
 चिरमज्ञातवृत्तान्तैर्मन्त्रिभिः प्रहितस्तनः । KRT_4_0340ab  
 प्रत्यावृत्तस्तस्य पार्श्वाद्दूतस्तानेवमुक्तवान् ॥ KRT_4_0340cd  
 
-0327.  
+[^0327-1]: A3 gloss अन्तश्छिद्राः.  
 
---1) A3 gloss अन्तश्छिद्राः.  
+[^0327-2]: A3 gloss मध्ये एव.  
 
---2) A3 gloss मध्ये एव.  
+[^0327-3]: A3 gloss क्रियाविशेषणम्.  
 
---3) A3 gloss क्रियाविशेषणम्.  
+[^0327-4]: A3 gloss कर्मकर्तरि लकारः स्वयमेव दह्यन्ते । अन्तश्छिद्राः पुरुषास्तत्कार्यं कुर्वते । येन कार्येण अतनुक्षयं यथा भवति तथा स्वयमेव दह्यन्ते । यथा कोटस्थाग्रयस्तरवस्वयमेव गूढं अन्तरेव दह्यन्ते ॥.  
 
---4) A3 gloss कर्मकर्तरि लकारः स्वयमेव दह्यन्ते । अन्तश्छिद्राः पुरुषास्तत्कार्यं कुर्वते । येन कार्येण अतनुक्षयं यथा भवति तथा स्वयमेव दह्यन्ते । यथा कोटस्थाग्रयस्तरवस्वयमेव गूढं अन्तरेव दह्यन्ते ॥.  
+[^0331-1]: Thus corr. by A3 from A1 कर्माति॰.  
 
-0331.  
+[^0331-2]: Thus corr. by A3 from A1 परम॰.  
 
---1) Thus corr. by A3 from A1 कर्माति॰.  
+[^0333-1]: र supplied by A3.  
 
---2) Thus corr. by A3 from A1 परम॰.  
-
-0333.  
-
---1) र supplied by A3.  
-
-0337.  
-
---1) Thus corr. A3 from A1 अनन्यक्रा॰.  
+[^0337-1]: Thus corr. A3 from A1 अनन्यक्रा॰.  
 
 0339.  
 
@@ -5696,31 +4692,19 @@ A3 तासु.
 सैकादशदिनान्सप्त मासान्षट्त्रिंशतं समाः । KRT_4_0366ab  
 एवमाह्लाद्य स महीं प्रजाचन्द्रोस्तमाययौ ॥ KRT_4_0366cd  
 
-0341.  
+[^0341-1]: The words from प्रतीक्ष्यध्वे to संप्रविष्टस्य in the following verse have been omitted by A1 and supplied in margin by A3.  
 
---1) The words from प्रतीक्ष्यध्वे to संप्रविष्टस्य in the following verse have been omitted by A1 and supplied in margin by A3.  
+[^0343-1]: Thus corr. by later hand from A1 निर्व्याजं.  
 
-0343.  
+[^0346-1]: Thus A1; altered by later hand to दुर्भेदा which is found in R G.  
 
---1) Thus corr. by later hand from A1 निर्व्याजं.  
+[^0354-1]: A3 gloss करटी हस्ती.  
 
-0346.  
+[^0356-1]: A4 gloss कुवलयापीडः.  
 
---1) Thus A1; altered by later hand to दुर्भेदा which is found in R G.  
+[^0356-2]: Emended; A षिक्तव्यः.  
 
-0354.  
-
---1) A3 gloss करटी हस्ती.  
-
-0356.  
-
---1) A4 gloss कुवलयापीडः.  
-
---2) Emended; A षिक्तव्यः.  
-
-0365.  
-
---1) Thus corr. by A3 from A1 ॰यन्त्रणम्.  
+[^0365-1]: Thus corr. by A3 from A1 ॰यन्त्रणम्.  
 
 [page 57]  
 
@@ -5779,37 +4763,21 @@ A3 तासु.
 राज्यं समां समासार्धां कृत्वा स वसुधाधिपः । KRT_4_0392ab  
 निःश्रेय्तसाप्तिनिःश्रेणीं सुधीः सिद्धिं समासदत् ॥ KRT_4_0392cd  
 
-0368.  
+[^0368-1]: Thus A1; A3 ॰प्रष्ठः.  
 
---1) Thus A1; A3 ॰प्रष्ठः.  
+[^0371-1]: Thus corr. by A3 from A1 परो॰.  
 
-0371.  
+[^0372-1]: Thus corr. by A2 from A1 भूवलयो॰; A2 adds the gloss को भूमेः वलयः कुवलयः.  
 
---1) Thus corr. by A3 from A1 परो॰.  
+[^0376-1]: A चिक्कि॰.  
 
-0372.  
+[^0380-1]: This and the following verse have been omitted by A1 and supplied in margin A3.  
 
---1) Thus corr. by A2 from A1 भूवलयो॰; A2 adds the gloss को भूमेः वलयः कुवलयः.  
+[^0383-1]: A3 देहं तत्कस्य सुस्थिरम्.  
 
-0376.  
+[^0386-1]: Thus A3; A1 श्मश्रूद्बोध॰.  
 
---1) A चिक्कि॰.  
-
-0380.  
-
---1) This and the following verse have been omitted by A1 and supplied in margin A3.  
-
-0383.  
-
---1) A3 देहं तत्कस्य सुस्थिरम्.  
-
-0386.  
-
---1) Thus A3; A1 श्मश्रूद्बोध॰.  
-
-0387.  
-
---1) A4 gloss मन्त्री.  
+[^0387-1]: A4 gloss मन्त्री.  
 
 [page 58]  
 
@@ -5874,31 +4842,19 @@ A3 तासु.
 प्रविवेश क्रमेणाथ नगरं पौण्ड्रवर्धनम् । KRT_4_0421ab  
 यस्मिन्[^0421-1]सौराज्यरम्याभिः प्रीतः[^0421-1] पौरविभूतिभिः ॥ KRT_4_0421cd  
 
-0393.  
+[^0393-1]: A3 ललितापीड.  
 
---1) A3 ललितापीड.  
+[^0394-1]: A3 दूरं.  
 
-0394.  
+[^0400-1]: Thus A1 R G; वत्सरान्.  
 
---1) A3 दूरं.  
+[^0411-1]: Thus A3; A1 स्वा न्यवर्तन्त.  
 
-0400.  
+[^0419-1]: Thus corr. by A3 from A1 ॰प्तसुक्योथ सः.  
 
---1) Thus A1 R G; वत्सरान्.  
+[^0419-2]: Thus corr. by A3 from A1 कृत्वा(?).  
 
-0411.  
-
---1) Thus A3; A1 स्वा न्यवर्तन्त.  
-
-0419.  
-
---1) Thus corr. by A3 from A1 ॰प्तसुक्योथ सः.  
-
---2) Thus corr. by A3 from A1 कृत्वा(?).  
-
-0422.  
-
---1) Thus corr. by A3 from A1 तस्मि॰ and प्रीतिं.  
+[^0422-1]: Thus corr. by A3 from A1 तस्मि॰ and प्रीतिं.  
 
 [page 59]  
 
@@ -5959,45 +4915,29 @@ A3 तासु.
 तामिति ब्रुवतीं[^0448-1] मुग्धां निषिध्य च विहस्य च । KRT_4_0448ab  
 सन्नीड इव तां रात्रिं जयापीडोत्यवाहयत् ॥ KRT_4_0448cd  
 
-0422.  
+[^0422-1]: द्रष्टु supplied by A3 in space left by A1.  
 
---1) द्रष्टु supplied by A3 in space left by A1.  
+[^0422-2]: A3 gloss भरताचार्यकृतगीतशास्त्रसदृशं ज्ञात्वा.  
 
---2) A3 gloss भरताचार्यकृतगीतशास्त्रसदृशं ज्ञात्वा.  
+[^0423-1]: Here two padas seem to be wanting.  
 
-0423.  
+[^0425-1]: Thus A1; A2 ॰पृष्ठेथ.  
 
---1) Here two padas seem to be wanting.  
+[^0427-1]: A3 नूनं.  
 
-0425.  
+[^0427-2]: Emended; A गृहीतु॰.  
 
---1) Thus A1; A2 ॰पृष्ठेथ.  
+[^0427-3]: Thus corr. by A3 from A1 स्व.  
 
-0427.  
+[^0440-1]: Thus A3; A1 जगच्चित्रं.  
 
---1) A3 नूनं.  
+[^0443-1]: A3 नितं.  
 
---2) Emended; A गृहीतु॰.  
+[^0444-1]: A3 स सरित्तटम्.  
 
---3) Thus corr. by A3 from A1 स्व.  
+[^0444-2]: Thus A1; altered by later hand to ॰ह्वलाम्.  
 
-0440.  
-
---1) Thus A3; A1 जगच्चित्रं.  
-
-0443.  
-
---1) A3 नितं.  
-
-0444.  
-
---1) A3 स सरित्तटम्.  
-
---2) Thus A1; altered by later hand to ॰ह्वलाम्.  
-
-0448.  
-
---1) Thus corr. by later hand from A1 ब्रुवतां.  
+[^0448-1]: Thus corr. by later hand from A1 ब्रुवतां.  
 
 [page 60]  
 
@@ -6060,41 +5000,23 @@ A3 तासु.
 तृष्णार्तं स्वर्णभृङ्गारात्पिबन्तं वारि तस्य ते । KRT_4_0476ab  
 रणमध्ये हयारूढं तं दूरात्समदर्शयन् ॥ KRT_4_0476cd  
 
-0451.  
+[^0451-1]: Thus corr. by A3 from A1 ॰सिंहं.  
 
---1) Thus corr. by A3 from A1 ॰सिंहं.  
+[^0452-1]: Thus corr. by A3 from A1 कम्प॰.  
 
-0452.  
+[^0453-1]: A3 gloss खञ्जर्.  
 
---1) Thus corr. by A3 from A1 कम्प॰.  
+[^0463-1]: A2 gloss दृष्टान्तोयम्.  
 
-0453.  
+[^0465-1]: A4 gloss सविश्वासाः.  
 
---1) A3 gloss खञ्जर्.  
+[^0469-1]: Thus A3; A1 ॰दादौ.  
 
-0463.  
+[^0470-1]: A4 gloss कमलानर्तकीं कल्याणदेवीं च.  
 
---1) A2 gloss दृष्टान्तोयम्.  
+[^0471-1]: Thus A3; A1 ॰दादौ.  
 
-0465.  
-
---1) A4 gloss सविश्वासाः.  
-
-0469.  
-
---1) Thus A3; A1 ॰दादौ.  
-
-0470.  
-
---1) A4 gloss कमलानर्तकीं कल्याणदेवीं च.  
-
-0471.  
-
---1) Thus A3; A1 ॰दादौ.  
-
-0474.  
-
---1) Thus A3; A1 सोन्विष्यमानो.  
+[^0474-1]: Thus A3; A1 सोन्विष्यमानो.  
 
 [page 61]  
 
@@ -6149,85 +5071,53 @@ A3 तासु.
 अपश्यद्भिर्महास्वादान्भावान्स्वादुविवेकिभिः । KRT_4_0500ab  
 किं ज्ञेयमशनादन्यत्क्ष्मापैरन्धै[^0500-1]रिवोक्षभिः ॥ KRT_4_0500cd  
 
-0478.  
+[^0478-1]: A2 indicates by asterisks and the marginal note मण्डलैः साहायकाय, a different reading in which this verse followed after verse 474.  
 
---1) A2 indicates by asterisks and the marginal note मण्डलैः साहायकाय, a different reading in which this verse followed after verse 474.  
+[^0478-2]: Thus A2; A1 हिताशनः.  
 
---2) Thus A2; A1 हिताशनः.  
+[^0479-1]: Thus A1; A3 ॰संरोध॰.  
 
-0479.  
+[^0480-1]: Thus A3; A1 द्रोहाज्जितेन.  
 
---1) Thus A1; A3 ॰संरोध॰.  
+[^0481-1]: Thus corr. by A3 from A1 स्वा.  
 
-0480.  
+[^0484-1]: A1 gloss मलरो इति भाषया.  
 
---1) Thus A3; A1 द्रोहाज्जितेन.  
+[^0484-2]: Doubtful: thus A2; A1 चिरलके॰; A3 मरलकेशवम्.  
 
-0481.  
+[^0484-3]: Thus corr. by A3 from A1 स्वा.  
 
---1) Thus corr. by A3 from A1 स्वा.  
+[^0484-2]: A2 gloss कलमपुरं.  
 
-0484.  
+[^0485-1]: Thus corr. by A2 from A1 ॰पेडाधि॰. Cf. महाप्रतीहारपीडा iv 142.  
 
---1) A1 gloss मलरो इति भाषया.  
+[^0485-2]: Thus A1; A3 ॰देवीं and ॰न्नताम्.  
 
---2) Doubtful: thus A2; A1 चिरलके॰; A3 मरलकेशवम्.  
+[^0486-1]: Thus G R Edd.; A ॰हितौ.  
 
---3) Thus corr. by A3 from A1 स्वा.  
+[^0487-1]: वैज्ञाना supplied by A3 in space left by A1.  
 
---2) A2 gloss कलमपुरं.  
+[^0488-1]: A3 gloss प्रापय्य.  
 
-0485.  
+[^0488-2]: Thus A3; A1 ॰चक्षाणः.  
 
---1) Thus corr. by A2 from A1 ॰पेडाधि॰. Cf. महाप्रतीहारपीडा iv 142.  
+[^0489-1]: A2 gloss क्षीरस्वामिनः.  
 
---2) Thus A1; A3 ॰देवीं and ॰न्नताम्.  
+[^0492-1]: Thus corr. by A1 from राज्य॰.  
 
-0486.  
+[^0494-1]: Thus corr. by later hand from A1 थाक्वया.  
 
---1) Thus G R Edd.; A ॰हितौ.  
+[^0495-1]: A2 gloss भट्टोद्भट आलङ्कारिकः.  
 
-0487.  
+[^0496-1]: A3 ॰कारणम्.  
 
---1) वैज्ञाना supplied by A3 in space left by A1.  
+[^0496-2]: A3 gloss शुक्रं॰.  
 
-0488.  
+[^0498-1]: Thus A3; A1 सुस्वप्नं,  
 
---1) A3 gloss प्रापय्य.  
+[^0498-2]: Thus according to marginal note of A3: देश धर्मोत्तराचार्यमित्यन्यादर्शे; A1 देशे धर्मोत्तराचार्ये.  
 
---2) Thus A3; A1 ॰चक्षाणः.  
-
-0489.  
-
---1) A2 gloss क्षीरस्वामिनः.  
-
-0492.  
-
---1) Thus corr. by A1 from राज्य॰.  
-
-0494.  
-
---1) Thus corr. by later hand from A1 थाक्वया.  
-
-0495.  
-
---1) A2 gloss भट्टोद्भट आलङ्कारिकः.  
-
-0496.  
-
---1) A3 ॰कारणम्.  
-
---2) A3 gloss शुक्रं॰.  
-
-0498.  
-
---1) Thus A3; A1 सुस्वप्नं,  
-
---2) Thus according to marginal note of A3: देश धर्मोत्तराचार्यमित्यन्यादर्शे; A1 देशे धर्मोत्तराचार्ये.  
-
-0500.  
-
---1) Thus corr. by A2 from A1 ॰रन्यैरि॰.  
+[^0500-1]: Thus corr. by A2 from A1 ॰रन्यैरि॰.  
 
 [page 62]  
 
@@ -6282,55 +5172,35 @@ A3 तासु.
 अत्रान्तरे नरपतेः पौराणामतिदुस्तरा । KRT_4_0524ab  
 लूता[^0524-1]मयकृता व्यापदुदपद्यत मण्डले ॥ KRT_4_0524cd  
 
-0501.  
+[^0501-1]: A2 note in margin; आरूढस्येत्यादिस्थाने षण्ढस्योन्मदबालपङ्कजमुखीपीनस्तनालिङ्गनमित्यपि पाठो रम्यः.  
 
---1) A2 note in margin; आरूढस्येत्यादिस्थाने षण्ढस्योन्मदबालपङ्कजमुखीपीनस्तनालिङ्गनमित्यपि पाठो रम्यः.  
+[^0503-1]: The original reading of A1, अकुर्वन्वि॰, has been corrected into आकुर्वन्त्वि॰ by a later hand, probably A2; A2 explains the latter reading by the gloss विगुणानपि आज्ञामाकुर्वन् आं अङ्गीकारे. A3 gives the interlinear note अकुर्वन्विगुणामित्यन्यादर्शे, and explains this reading in margin: दूतः किं कुर्वन् आज्ञां राजसम्बन्धिनां निष्फलां अकुर्वन् न विरचयन् मानयन्नाज्ञामित्यर्थः.  
 
-0503.  
+[^0503-2]: Thus corr. by A2 from A1 लङ्केन्द्रान्पञ्च.  
 
---1) The original reading of A1, अकुर्वन्वि॰, has been corrected into आकुर्वन्त्वि॰ by a later hand, probably A2; A2 explains the latter reading by the gloss विगुणानपि आज्ञामाकुर्वन् आं अङ्गीकारे. A3 gives the interlinear note अकुर्वन्विगुणामित्यन्यादर्शे, and explains this reading in margin: दूतः किं कुर्वन् आज्ञां राजसम्बन्धिनां निष्फलां अकुर्वन् न विरचयन् मानयन्नाज्ञामित्यर्थः.  
+[^0504-1]: Thus corr. by later hand from A1 ॰ग्रहक.  
 
---2) Thus corr. by A2 from A1 लङ्केन्द्रान्पञ्च.  
+[^0507-1]: चुद्ध supplied by A3 in space left by A1; found also in G R; C पुर॰.  
 
-0504.  
+[^0511-1]: Thus A R G; C राज्यं.  
 
---1) Thus corr. by later hand from A1 ॰ग्रहक.  
+[^0511-2]: A3 gloss अन्तर्कोट् इति भाषया.  
 
-0507.  
+[^0513-1]: Thus corr. by A2 from A1 मधुरा॰.  
 
---1) चुद्ध supplied by A3 in space left by A1; found also in G R; C पुर॰.  
+[^0515-1]: Thus corr. by A3 from A1 ॰द्रिम्.  
 
-0511.  
+[^0518-1]: Thus A3; A1 सहसा.  
 
---1) Thus A R G; C राज्यं.  
-
---2) A3 gloss अन्तर्कोट् इति भाषया.  
-
-0513.  
-
---1) Thus corr. by A2 from A1 मधुरा॰.  
-
-0515.  
-
---1) Thus corr. by A3 from A1 ॰द्रिम्.  
-
-0518.  
-
---1) Thus A3; A1 सहसा.  
-
---2) Thus corr. A3 from A1 सहसाव्यवसायिनाम्; A3 gloss साहसेन हिताहितानपेक्षेण कर्मणा अद्यवसायो येषां.  
+[^0518-2]: Thus corr. A3 from A1 सहसाव्यवसायिनाम्; A3 gloss साहसेन हिताहितानपेक्षेण कर्मणा अद्यवसायो येषां.  
 
 0519..  
 
 --1) Thus A3; A1 ॰भूपते.  
 
-0521.  
+[^0521-1]: Thus corr. by A3 from A1 ॰पतिर्भीम॰.  
 
---1) Thus corr. by A3 from A1 ॰पतिर्भीम॰.  
-
-0524.  
-
---1) A2 gloss उच्छूनो रक्तवर्णः पिटकाकृतिविस्तृतः सञ्चारी च त्वचि रोगविशेषः लूताख्यः लोत् इति प्रसिद्धः.  
+[^0524-1]: A2 gloss उच्छूनो रक्तवर्णः पिटकाकृतिविस्तृतः सञ्चारी च त्वचि रोगविशेषः लूताख्यः लोत् इति प्रसिद्धः.  
 
 [page 63]  
 
@@ -6387,57 +5257,35 @@ A3 तासु.
 अपश्यन्निर्गत[^0549-1]ः किंचिदालोकन्यस्तलोचन[^0549-2]ः । KRT_4_0549ab  
 आसन्नां तटिनीमासीदुपायांश्च स चिन्तयन् ॥ KRT_4_0549cd  
 
-0525.  
+[^0525-1]: Thus corr. by A1 from सर्वसं॰.  
 
---1) Thus corr. by A1 from सर्वसं॰.  
+[^0532-1]: A1 gloss आरमुडिः.  
 
-0532.  
+[^0532-2]: A4 gloss जयापीडस्य.  
 
---1) A1 gloss आरमुडिः.  
+[^0532-2]: Thus A1; A3 अगात्सु॰; G R have both readings.  
 
---2) A4 gloss जयापीडस्य.  
+[^0533-1]: A4 gloss जयापीडस्य.  
 
---2) Thus A1; A3 अगात्सु॰; G R have both readings.  
+[^0534-1]: A3 gloss श्येनः कपोतं भक्षयतीति प्रसिद्धिः.  
 
-0533.  
+[^0534-2]: Emended; A G R ॰न्वेष्य॰.  
 
---1) A4 gloss जयापीडस्य.  
+[^0535-1]: A2 gloss सरितः.  
 
-0534.  
+[^0537-1]: Thus corr. by A3 from A1 तस्यावुरसुडेः.  
 
---1) A3 gloss श्येनः कपोतं भक्षयतीति प्रसिद्धिः.  
+[^0539-1]: Thus corr. by A2 from A1 ॰स्तंतं.  
 
---2) Emended; A G R ॰न्वेष्य॰.  
+[^0542-1]: Thus corr. by A2 from A1 ॰मर्म॰.  
 
-0535.  
+[^0544-1]: A2 gloss दृतिः जलोत्तरणार्थं श्नाहा इति प्रसिद्धा.  
 
---1) A2 gloss सरितः.  
+[^0546-1]: Thus corr. by A3 from A1 ॰पीडं सप्तानां.  
 
-0537.  
+[^0549-1]: Thus corr. by later hand from A1 निर्गतं.  
 
---1) Thus corr. by A3 from A1 तस्यावुरसुडेः.  
-
-0539.  
-
---1) Thus corr. by A2 from A1 ॰स्तंतं.  
-
-0542.  
-
---1) Thus corr. by A2 from A1 ॰मर्म॰.  
-
-0544.  
-
---1) A2 gloss दृतिः जलोत्तरणार्थं श्नाहा इति प्रसिद्धा.  
-
-0546.  
-
---1) Thus corr. by A3 from A1 ॰पीडं सप्तानां.  
-
-0549.  
-
---1) Thus corr. by later hand from A1 निर्गतं.  
-
---2) A3 gloss आलोक्यतेतेनेत्यालोकः वातायनं । तस्मिन् न्यस्ते लोचने येन सः.  
+[^0549-2]: A3 gloss आलोक्यतेतेनेत्यालोकः वातायनं । तस्मिन् न्यस्ते लोचने येन सः.  
 
 [page 64]  
 
@@ -6494,55 +5342,35 @@ A3 तासु.
 एकाकी संप्रविष्टोथ तं ददर्श च्युतं क्षितौ । KRT_4_0574ab  
 विपन्नं गलमुद्बध्य दृढया चेलचीरया ॥ KRT_4_0574cd  
 
-0550.  
+[^0550-1]: A3 gloss बन्धनवेश्मनि.  
 
---1) A3 gloss बन्धनवेश्मनि.  
+[^0551-1]: Thus corr. by later hand from A1 ॰न्स्थितो.  
 
-0551.  
+[^0552-1]: न supplied by A3.  
 
---1) Thus corr. by later hand from A1 ॰न्स्थितो.  
+[^0552-2]: Enended; A1 ॰रारमुडैश्चक्रे, changed by later hand to ॰मुडेश्चक्रे.  
 
-0552.  
+[^0552-3]: Thus corr. by later hand from A1 ग्भिर्विलोभनम्.  
 
---1) न supplied by A3.  
+[^0556-1]: Thus corr. by A3 from A1 ॰डेः.  
 
---2) Enended; A1 ॰रारमुडैश्चक्रे, changed by later hand to ॰मुडेश्चक्रे.  
+[^0557-1]: Thus A1; A3 प्रतिक्षिप्त.  
 
---3) Thus corr. by later hand from A1 ग्भिर्विलोभनम्.  
+[^0558-1]: A2 gloss पीतकोशौ कृतद्रौहिकावित्यर्थः; to द्रौहिका॰ A2 adds the note शपथः.  
 
-0556.  
+[^0561-1]: Thus corr. A13 from A1 यदि जन्म॰; A3 gloss follow A3.  
 
---1) Thus corr. by A3 from A1 ॰डेः.  
+[^0564-1]: Thus corr. by A3 from A1 दर्शय॰.  
 
-0557.  
+[^0571-1]: THus corr. by A3 from A1 इति.  
 
---1) Thus A1; A3 प्रतिक्षिप्त.  
+[^0571-2]: Thus corr. by later hand from A1 वहस्त्वं; A3 gloss वहेः गमयेत्यर्थः.  
 
-0558.  
+[^0571-2]: A3 gloss घटिकाद्वयमित्यर्थः.  
 
---1) A2 gloss पीतकोशौ कृतद्रौहिकावित्यर्थः; to द्रौहिका॰ A2 adds the note शपथः.  
+[^0573-1]: Thus corr. by A2 from A1 पाद॰.  
 
-0561.  
-
---1) Thus corr. A13 from A1 यदि जन्म॰; A3 gloss follow A3.  
-
-0564.  
-
---1) Thus corr. by A3 from A1 दर्शय॰.  
-
-0571.  
-
---1) THus corr. by A3 from A1 इति.  
-
---2) Thus corr. by later hand from A1 वहस्त्वं; A3 gloss वहेः गमयेत्यर्थः.  
-
---2) A3 gloss घटिकाद्वयमित्यर्थः.  
-
-0573.  
-
---1) Thus corr. by A2 from A1 पाद॰.  
-
---2) A3 gloss घटिकाद्वयरूपां.  
+[^0573-2]: A3 gloss घटिकाद्वयरूपां.  
 
 [page 65]  
 
@@ -6601,35 +5429,25 @@ A3 तासु.
 अथानुगम्यमानः स राज्ञा प्राप्तः सरोन्तिकम् । KRT_4_0600ab  
 अभिमन्त्र्योज्झितैर्बाणैर्बद्धाशोशोषयज्जलम् ॥ KRT_4_0600cd  
 
-0575.  
+[^0575-1]: A2 gloss सद्यो व्यापादिततनुरित्यादि पताम्भसीत्यन्ता शिक्षा राज्ञः कृते नखनिर्भिन्नस्वशरीररक्तेन लिखिता तेन कृतज्ञेन संत्रिवरेण स्वकीयकण्ठनिबद्धे वस्त्रखण्डे.  
 
---1) A2 gloss सद्यो व्यापादिततनुरित्यादि पताम्भसीत्यन्ता शिक्षा राज्ञः कृते नखनिर्भिन्नस्वशरीररक्तेन लिखिता तेन कृतज्ञेन संत्रिवरेण स्वकीयकण्ठनिबद्धे वस्त्रखण्डे.  
+[^0575-2]: A2 gloss अत एव दृतिविदित्यर्थः.  
 
---2) A2 gloss अत एव दृतिविदित्यर्थः.  
+[^0575-3]: A1 originally दृतेर्मा॰; to this reading refers the gloss of A1: दृतेः सकाशादप्यभेद्योहमित्यर्थः. On altering the reading to दृतिर्मा॰, A2 has struck out the first gloss and added a fresh one: अहमभेद्यो दृतिरस्मि.  
 
---3) A1 originally दृतेर्मा॰; to this reading refers the gloss of A1: दृतेः सकाशादप्यभेद्योहमित्यर्थः. On altering the reading to दृतिर्मा॰, A2 has struck out the first gloss and added a fresh one: अहमभेद्यो दृतिरस्मि.  
+[^0575-4]: A2 gloss मां दृतिरूपं.  
 
---4) A2 gloss मां दृतिरूपं.  
+[^0576-1]: Thus corr. by later hand from A1 ॰रूढबन्धाय.  
 
-0576.  
+[^0576-2]: A2 gloss उष्णीषपद्दिका वेष्टनाञ्चलद्वयपद्दिकेत्यर्थः.  
 
---1) Thus corr. by later hand from A1 ॰रूढबन्धाय.  
+[^0583-1]: Thus corr. by later hand from A1 क्षणं.  
 
---2) A2 gloss उष्णीषपद्दिका वेष्टनाञ्चलद्वयपद्दिकेत्यर्थः.  
+[^0584-1]: Thus A R G; C नाभूद्विसदृशः.  
 
-0583.  
+[^0584-2]: Thus A1; A3 भास्वरस्य.  
 
---1) Thus corr. by later hand from A1 क्षणं.  
-
-0584.  
-
---1) Thus A R G; C नाभूद्विसदृशः.  
-
---2) Thus A1; A3 भास्वरस्य.  
-
-0596.  
-
---1) Thus A1; A3 ॰प्रेषितैश्च॰.  
+[^0596-1]: Thus A1; A3 ॰प्रेषितैश्च॰.  
 
 [page 66]  
 
@@ -6690,45 +5508,25 @@ A3 तासु.
 कुर्मः किल्विषमेतदेव हृदये कृत्वेति कौतूहलात्स्वैरिण्यः क्षित्पाश्च धिक्चपलतां क्रौर्यं च कुर्युः सकृत् । KRT_4_0627ab  
 पापाक्रान्तधियो भवन्त्यथ तथा[^0627-1] नान्त्यान्स्पृशन्त्योपि ता दूयन्ते न च ते यथा स्वपितरौ घ्नन्तोपि शान्तत्रपाः ॥ KRT_4_0627cd  
 
-0602.  
+[^0602-1]: Emended; A सोभ्यधाय.  
 
---1) Emended; A सोभ्यधाय.  
+[^0603-1]: Thus corr. by A3 from A1 याते.  
 
-0603.  
+[^0608-1]: Thus corr. by A3 from A1 ॰भूतये.  
 
---1) Thus corr. by A3 from A1 याते.  
+[^0610-1]: A1 येऽकारण॰.  
 
-0608.  
+[^0612-1]: Thus corr. by later hand from A1 विमानिनाम्.  
 
---1) Thus corr. by A3 from A1 ॰भूतये.  
+[^0613-1]: A2 gloss त्याज्य.  
 
-0610.  
+[^0617-1]: Thus A1; A3 दीन्नार॰.  
 
---1) A1 येऽकारण॰.  
+[^0622-1]: Thus corr. by A3 from A1 ॰कारादिभिः.  
 
-0612.  
+[^0623-1]: Thus corr. by A3 from A1 काश्मीरका॰.  
 
---1) Thus corr. by later hand from A1 विमानिनाम्.  
-
-0613.  
-
---1) A2 gloss त्याज्य.  
-
-0617.  
-
---1) Thus A1; A3 दीन्नार॰.  
-
-0622.  
-
---1) Thus corr. by A3 from A1 ॰कारादिभिः.  
-
-0623.  
-
---1) Thus corr. by A3 from A1 काश्मीरका॰.  
-
-0627.  
-
---1) Thus A3; A1 यथा.  
+[^0627-1]: Thus A3; A1 यथा.  
 
 [page 67]  
 
@@ -6787,57 +5585,35 @@ A3 तासु.
 नन्वयं पतितो जाल्मेत्यथ विप्रेण भाषिते । KRT_4_0653ab  
 राज्ञः कनकदण्डोङ्गे वितानस्खलितोपतत् ॥ KRT_4_0653cd  
 
-0630.  
+[^0630-1]: Thus A1; A2 हृतान॰.  
 
---1) Thus A1; A2 हृतान॰.  
+[^0630-2]: Thus A1; A3 ॰तान्वि॰.  
 
---2) Thus A1; A3 ॰तान्वि॰.  
+[^0633-1]: Thus A1; A3 ॰काहे चेद्वि॰.  
 
-0633.  
+[^0636-1]: Thus A1; A3 ओके वै॰.  
 
---1) Thus A1; A3 ॰काहे चेद्वि॰.  
+[^0636-2]: Thus corr. by A3 from A1 विपर्यासे.  
 
-0636.  
+[^0636-2]: Thus corr. by A1 from A1 विवर्तितः.  
 
---1) Thus A1; A3 ओके वै॰.  
+[^0637-1]: A3 gloss निष्ठाशब्द इह नाशवाची.  
 
---2) Thus corr. by A3 from A1 विपर्यासे.  
+[^0638-1]: Thus corr. by A2 from A1 तूलमूला॰.  
 
---2) Thus corr. by A1 from A1 विवर्तितः.  
+[^0640-1]: Thus A2; A1 तूलमूलौ॰. A2 gloss तूलमूलाख्यो ग्रामः.  
 
-0637.  
+[^0644-1]: Thus corr. by A3 from A1 ॰व्यापकं.  
 
---1) A3 gloss निष्ठाशब्द इह नाशवाची.  
+[^0645-1]: Thus corr. by A3 from A1 तूर्णी.  
 
-0638.  
+[^0645-2]: Thus corr. by A2 from A1 इद्दिला..  
 
---1) Thus corr. by A2 from A1 तूलमूला॰.  
+[^0646-1]: A3 विप्रा भूपानुवर्तिनः इत्यन्यादर्शो.  
 
-0640.  
+[^0648-1]: Thus A1; A3 दुष्प्रेक्ष॰.  
 
---1) Thus A2; A1 तूलमूलौ॰. A2 gloss तूलमूलाख्यो ग्रामः.  
-
-0644.  
-
---1) Thus corr. by A3 from A1 ॰व्यापकं.  
-
-0645.  
-
---1) Thus corr. by A3 from A1 तूर्णी.  
-
---2) Thus corr. by A2 from A1 इद्दिला..  
-
-0646.  
-
---1) A3 विप्रा भूपानुवर्तिनः इत्यन्यादर्शो.  
-
-0648.  
-
---1) Thus A1; A3 दुष्प्रेक्ष॰.  
-
-0649.  
-
---1) A2 gloss भवान्यत्रेति विश्वामित्रशापाद्धरिश्चन्द्रो भ्रष्टः स्वपदात् वसिष्ठशापाचिशङ्कुर्भ्रष्टः अगस्त्यशापाच्च नहुषो भ्रष्टः इति तद्दृष्टान्तोत्र दत्तः.  
+[^0649-1]: A2 gloss भवान्यत्रेति विश्वामित्रशापाद्धरिश्चन्द्रो भ्रष्टः स्वपदात् वसिष्ठशापाचिशङ्कुर्भ्रष्टः अगस्त्यशापाच्च नहुषो भ्रष्टः इति तद्दृष्टान्तोत्र दत्तः.  
 
 [page 68]  
 
@@ -6896,39 +5672,23 @@ A3 तासु.
 पद्मोत्पलककल्याणमम्मधर्मै[^0679-1]ः स मातुलैः । KRT_4_0679ab  
 बालकैः पाल्यमानोभूत्पृथिवीभोगभागिभिः ॥ KRT_4_0679cd  
 
-0654.  
+[^0654-1]: Thus corr. by A3 from A1 विसर्प॰.  
 
---1) Thus corr. by A3 from A1 विसर्प॰.  
+[^0658-1]: Thus corr. by A2 from A1 क्षितिं.  
 
-0658.  
+[^0662-1]: A1 seems to have read यच्चा॰; corrected by A3.  
 
---1) Thus corr. by A2 from A1 क्षितिं.  
+[^0665-1]: Thus corr. by A3 from A1 ॰कथादिज्ञो.  
 
-0662.  
+[^0671-1]: Thus corr. by A3 from A1 तत्.  
 
---1) A1 seems to have read यच्चा॰; corrected by A3.  
+[^0672-1]: A1 gloss परिहासपुरसमीपे.  
 
-0665.  
+[^0678-1]: A3 gloss कल्यं सुरां पालयतीति कल्यपालः कलवाल् इति भाषया.  
 
---1) Thus corr. by A3 from A1 ॰कथादिज्ञो.  
+[^0678-2]: Thus corr. by A3; two aksharas of A1, corresponding to रुद्धा, are illegible on account of an ink blot. A3 gloss अवरुद्धा उरद्धा इति भाषया.  
 
-0671.  
-
---1) Thus corr. by A3 from A1 तत्.  
-
-0672.  
-
---1) A1 gloss परिहासपुरसमीपे.  
-
-0678.  
-
---1) A3 gloss कल्यं सुरां पालयतीति कल्यपालः कलवाल् इति भाषया.  
-
---2) Thus corr. by A3; two aksharas of A1, corresponding to रुद्धा, are illegible on account of an ink blot. A3 gloss अवरुद्धा उरद्धा इति भाषया.  
-
-0679.  
-
---1) Thus A1; A3 ॰धम्मैः.  
+[^0679-1]: Thus A1; A3 ॰धम्मैः.  
 
 [page 69]  
 
@@ -6987,43 +5747,27 @@ A3 तासु.
 कविर्बुधमनःसिन्धुशशाङ्कः शङ्कुका[^0705-1]भिधः । KRT_4_0705ab  
 यमुद्दिश्याकरोत्काव्यं भुवनाभ्युदयाभिधम् ॥ KRT_4_0705cd  
 
-0680.  
+[^0680-1]: A2 gloss कर्मस्थानानि कार्खान इति प्रसिद्धानि.  
 
---1) A2 gloss कर्मस्थानानि कार्खान इति प्रसिद्धानि.  
+[^0683-1]: A4 glosses ललितापीडेन and पद्मोत्पलकादिभिः.  
 
-0683.  
+[^0688-1]: Thus corr. A3 from A1 ॰देहानां.  
 
---1) A4 glosses ललितापीडेन and पद्मोत्पलकादिभिः.  
+[^0688-2]: A1 wrote ॰मसामान्याद्वि॰; A2 altered this to ॰मसम्मत्या; A3 has struck out the reading of A2 and has written above ॰मसामान्यान्वि॰.  
 
-0688.  
+[^0688-3]: Thus corr. by A3 from A1 ॰माययौ.  
 
---1) Thus corr. A3 from A1 ॰देहानां.  
+[^0690-1]: युग्मम् added by A3.  
 
---2) A1 wrote ॰मसामान्याद्वि॰; A2 altered this to ॰मसम्मत्या; A3 has struck out the reading of A2 and has written above ॰मसामान्यान्वि॰.  
+[^0691-1]: Thus corr. by a later hand from A1 वेडा॰; G वेडा॰. Cf. viii. 578(C)  
 
---3) Thus corr. by A3 from A1 ॰माययौ.  
+[^0691-2]: A2 gives the marginal note शलस्थूलं नामेल्याणकं मिथान नवग्Fरामादि एषां चतुर्णां सम्बन्धी एकोत्पत्तिप्रवेशः स पञ्चमगणनास्थानमिति लोकाश्रायः.  
 
-0690.  
+[^0692-1]: Thus A1; A2 ॰मुखान्यै॰.  
 
---1) युग्मम् added by A3.  
+[^0699-1]: To this verse seems to refer the gloss og A2: मलूनायां.  
 
-0691.  
-
---1) Thus corr. by a later hand from A1 वेडा॰; G वेडा॰. Cf. viii. 578(C)  
-
---2) A2 gives the marginal note शलस्थूलं नामेल्याणकं मिथान नवग्Fरामादि एषां चतुर्णां सम्बन्धी एकोत्पत्तिप्रवेशः स पञ्चमगणनास्थानमिति लोकाश्रायः.  
-
-0692.  
-
---1) Thus A1; A2 ॰मुखान्यै॰.  
-
-0699.  
-
---1) To this verse seems to refer the gloss og A2: मलूनायां.  
-
-0705.  
-
---1) A2 gloss श्रीशङ्कुकाभिधः प्रसिद्ध आलङ्कारिकः यस्य मतं रसनिरूपणे काव्यप्रकाशे चतुर्थोल्लासे श्रीमम्मटाचार्येण निरूपितम्.  
+[^0705-1]: A2 gloss श्रीशङ्कुकाभिधः प्रसिद्ध आलङ्कारिकः यस्य मतं रसनिरूपणे काव्यप्रकाशे चतुर्थोल्लासे श्रीमम्मटाचार्येण निरूपितम्.  
 
 [page 70]  
 
@@ -7061,33 +5805,21 @@ A3 तासु.
 राजा मण्डनकुण्डलद्वयमिषात्स्वच्छातपत्रच्छलाल्लक्ष्मीविष्टरपुण्डरीकघटितच्छायोदयो दिद्युते ॥ KRT_4_0720cd  
 
 
-(1)इति श्रीकाश्मीरिकमहामात्यचण्णकप्रभुसूनोः कल्हणस्य कृतौ राजतरःहिण्यां चतुर्थस्तरङ्गः ॥ समाशतद्वये षष्टियुते मासेषु षट्सु च । निर्दशाहेषु कार्कोटवंशे सप्तदशाभवन् ॥  
+[^col-1]इति श्रीकाश्मीरिकमहामात्यचण्णकप्रभुसूनोः कल्हणस्य कृतौ राजतरःहिण्यां चतुर्थस्तरङ्गः ॥ समाशतद्वये षष्टियुते मासेषु षट्सु च । निर्दशाहेषु कार्कोटवंशे सप्तदशाभवन् ॥  
 
-0709.  
+[^0709-1]: A4 gloss सुखवर्मा.  
 
---1) A4 gloss सुखवर्मा.  
+[^0710-1]: Thus corr. by A1 from ॰युजे मासस॰; A2 gloss आश्वयुजे मासि चश्चर्यर्थं ये निर्गच्छन्ति ते हेयारया इति प्रसिद्धास्तत्सदृशानां.  
 
-0710.  
+[^0710-2]: Thus A3; A1 कठिना.  
 
---1) Thus corr. by A1 from ॰युजे मासस॰; A2 gloss आश्वयुजे मासि चश्चर्यर्थं ये निर्गच्छन्ति ते हेयारया इति प्रसिद्धास्तत्सदृशानां.  
+[^0716-1]: A4 gloss अवन्तिवर्माणम्.  
 
---2) Thus A3; A1 कठिना.  
+[^0719-1]: Thus corr. by A3 from A1 तदुरु.  
 
-0716.  
+[^0720-1]: A1; A3 ॰तपनौ युक्तं.  
 
---1) A4 gloss अवन्तिवर्माणम्.  
-
-0719.  
-
---1) Thus corr. by A3 from A1 तदुरु.  
-
-0720.  
-
---1) A1; A3 ॰तपनौ युक्तं.  
-
-Colophon.  
-
---1) A3 inserts before this the following note: रा 17 ग्रं 116 आदितः राजानः 70 ग्रं 1785.  
+[^col-1]: A3 inserts before this the following note: रा 17 ग्रं 116 आदितः राजानः 70 ग्रं 1785.  
 
 [page 71]  
 
@@ -7126,29 +5858,19 @@ Colophon.
 या वारिराशिसलिलान्तरसंनिधानसंसेवयापि सततं मलिनैव लक्ष्मीः । KRT_5_0015ab  
 पात्रेषु रोर[^0015-1]शिखिभागिषु सा विमुक्ता वैमल्यमेति हरिणीव हुताशशौचा[^0015-2] ॥ KRT_5_0015cd  
 
-0002.  
+[^0002-1]: A3 gloss: काव्येतेषु इति । एतेषु प्रत्यक्षविषयेषु फणिनां सर्पाणां कचेषु बन्धनेषु ते कापि रुचिः कश्चिदप्यभिलाषोस्ति । जडाजूटकक्ष्यादिबन्धनार्थनत्यन्तं सर्पानभिलषसीति देवीवचनम् । बन्धनस्थानानां कण्ठप्रकोष्ठकक्ष्यादीनां बहुत्वाद्बन्धानामपि बहुवचनम् । एतेषु कचेषु केशेषु फणिनां सम्बन्धिनी अर्थान्मोहकारिणी कापि रुचिरनिर्वचनीया कान्तिस्तवास्ति तत्र केशानामजगराणामिव दर्शनेनातीव मोहो ज्ञायते इति महादेववचनम् । पुंस्कोकिलस्येव तव कण्ठतटस्य गोभिर्वचनैः चक्षुःश्रुतेः सर्पस्य दृक् नेत्रं हृष्यति मोदते । कोकिलरुतमिव तव क्ण्ठध्वनिं श्रुत्वा सर्पस्य दृघर्षः सर्पाणां चक्षुरेव श्रवणस्थानीयमित्यतो दृक् हृष्यतीत्युक्तम् । गीतप्रियो हि सर्पः । यदुक्तम् । शिशुर्वेत्ति पशुर्वेत्ति वेत्ति गीतरसं फणी । साहित्यामृतसारस्य शङ्करो वेत्ति वा नवेति ॥ इति महादेववचनम् ॥ देवीवचनं तु । तव कण्ठतटस्य कोकिलस्येव करैः पुरोग्रे नेत्रं हृष्यति । गोभिः किरणैः । कोकिलतुल्यवर्णकण्ठतटनैल्यदर्शनेन सर्पस्य दृघर्षः दृग्विकासः कोकिलरुतं श्रुत्वा सर्पाणां नेत्रविकासो जायते शीतसमये तु संकोच इति लौकिकाः ॥.  
 
---1) A3 gloss: काव्येतेषु इति । एतेषु प्रत्यक्षविषयेषु फणिनां सर्पाणां कचेषु बन्धनेषु ते कापि रुचिः कश्चिदप्यभिलाषोस्ति । जडाजूटकक्ष्यादिबन्धनार्थनत्यन्तं सर्पानभिलषसीति देवीवचनम् । बन्धनस्थानानां कण्ठप्रकोष्ठकक्ष्यादीनां बहुत्वाद्बन्धानामपि बहुवचनम् । एतेषु कचेषु केशेषु फणिनां सम्बन्धिनी अर्थान्मोहकारिणी कापि रुचिरनिर्वचनीया कान्तिस्तवास्ति तत्र केशानामजगराणामिव दर्शनेनातीव मोहो ज्ञायते इति महादेववचनम् । पुंस्कोकिलस्येव तव कण्ठतटस्य गोभिर्वचनैः चक्षुःश्रुतेः सर्पस्य दृक् नेत्रं हृष्यति मोदते । कोकिलरुतमिव तव क्ण्ठध्वनिं श्रुत्वा सर्पस्य दृघर्षः सर्पाणां चक्षुरेव श्रवणस्थानीयमित्यतो दृक् हृष्यतीत्युक्तम् । गीतप्रियो हि सर्पः । यदुक्तम् । शिशुर्वेत्ति पशुर्वेत्ति वेत्ति गीतरसं फणी । साहित्यामृतसारस्य शङ्करो वेत्ति वा नवेति ॥ इति महादेववचनम् ॥ देवीवचनं तु । तव कण्ठतटस्य कोकिलस्येव करैः पुरोग्रे नेत्रं हृष्यति । गोभिः किरणैः । कोकिलतुल्यवर्णकण्ठतटनैल्यदर्शनेन सर्पस्य दृघर्षः दृग्विकासः कोकिलरुतं श्रुत्वा सर्पाणां नेत्रविकासो जायते शीतसमये तु संकोच इति लौकिकाः ॥.  
+[^0002-2]: Thus A3; A1 ॰स्पर्धिनी.  
 
---2) Thus A3; A1 ॰स्पर्धिनी.  
+[^0003-1]: Thus corr. by A3 from A1 ॰धाने.  
 
-0003.  
+[^0007-1]: Thus corr. by later hand from A1 ॰कूल्यताम्.  
 
---1) Thus corr. by A3 from A1 ॰धाने.  
+[^0010-1]: न supplied by A3.  
 
-0007.  
+[^0015-1]: A3 gloss रोरः दारिद्र्या.  
 
---1) Thus corr. by later hand from A1 ॰कूल्यताम्.  
-
-0010.  
-
---1) न supplied by A3.  
-
-0015.  
-
---1) A3 gloss रोरः दारिद्र्या.  
-
---2) A1 ॰शौचे altered by later hand to ॰शौचा; A3 glosses: अग्निशौचानां मृगाणां अग्निना लोमशुद्धिः अग्निशौचवसनवत्, and हुताशेनाग्निना शौचं शुद्धिर्यस्याः सा हुताशशौचा । हरिणी मृगी इव यथा सा अग्नौ प्रक्षिप्तदेहा सती शुद्धलोमा भवति तद्वद्.  
+[^0015-2]: A1 ॰शौचे altered by later hand to ॰शौचा; A3 glosses: अग्निशौचानां मृगाणां अग्निना लोमशुद्धिः अग्निशौचवसनवत्, and हुताशेनाग्निना शौचं शुद्धिर्यस्याः सा हुताशशौचा । हरिणी मृगी इव यथा सा अग्नौ प्रक्षिप्तदेहा सती शुद्धलोमा भवति तद्वद्.  
 
 [page 72]  
 
@@ -7207,61 +5929,41 @@ Colophon.
 काव्यदेव्यभिधा शूरवधूः शुद्धान्वया व्यधात् । KRT_5_0041ab  
 सदाशिवं सुरेश्वर्यां काव्यदेवीश्वराभिधम् ॥ KRT_5_0041cd  
 
-0016.  
+[^0016-1]: A2 gloss आदिशब्देन मौक्तिकादेः परिग्रहः.  
 
---1) A2 gloss आदिशब्देन मौक्तिकादेः परिग्रहः.  
+[^0016-2]: A2 gloss हम्बलं and करम्बं व्यामिश्रं खिचडू इति भाषया.  
 
---2) A2 gloss हम्बलं and करम्बं व्यामिश्रं खिचडू इति भाषया.  
+[^0023-1]: A2 gloss धुधखोहा.  
 
-0023.  
+[^0023-2]: A2 gloss व्याघ्राश्रमे वागहामे.  
 
---1) A2 gloss धुधखोहा.  
+[^0023-3]: A3 विधाय.  
 
---2) A2 gloss व्याघ्राश्रमे वागहामे.  
+[^0024-1]: Thus A1; A3 सपूर्णपुण्यमहिमा.  
 
---3) A3 विधाय.  
+[^0024-2]: Thus A1; A3 मन्त्रमा॰.  
 
-0024.  
+[^0024-3]: A2 gloss पाञ्जथ्.  
 
---1) Thus A1; A3 सपूर्णपुण्यमहिमा.  
+[^0025-1]: A1 gloss शाल्यानश्रमे समरभोग.  
 
---2) Thus A1; A3 मन्त्रमा॰.  
+[^0027-1]: तू written above the line by A3; corresponding letter of A1 smeared over. A3 gloss इमौ वातूलावुन्मत्ताविति स्वस्य तद्भावमिव विधाय लोकविषये गोपितनिजप्रभावावित्यर्थः.  
 
---3) A2 gloss पाञ्जथ्.  
+[^0027-2]: Thus corr. by A3 from A1 गुरौ.  
 
-0025.  
+[^0028-1]: A2 gloss म्डवाश्रमे.  
 
---1) A1 gloss शाल्यानश्रमे समरभोग.  
+[^0031-1]: सार्धं supplied by A3 in space left by A1.  
 
-0027.  
+[^0031-2]: Thus corr. by later hand from A1 ख्यानशुका॰.  
 
---1) तू written above the line by A3; corresponding letter of A1 smeared over. A3 gloss इमौ वातूलावुन्मत्ताविति स्वस्य तद्भावमिव विधाय लोकविषये गोपितनिजप्रभावावित्यर्थः.  
+[^0034-1]: A2 gloss आनन्दवर्धनः काव्यालङ्कारध्वनिग्रन्थकारः.  
 
---2) Thus corr. by A3 from A1 गुरौ.  
+[^0034-2]: A2 gloss रत्नाकरः हरविजयकारः.  
 
-0028.  
+[^0036-1]: Thus corr. by A3 from A1 समाभ्यु॰.  
 
---1) A2 gloss म्डवाश्रमे.  
-
-0031.  
-
---1) सार्धं supplied by A3 in space left by A1.  
-
---2) Thus corr. by later hand from A1 ख्यानशुका॰.  
-
-0034.  
-
---1) A2 gloss आनन्दवर्धनः काव्यालङ्कारध्वनिग्रन्थकारः.  
-
---2) A2 gloss रत्नाकरः हरविजयकारः.  
-
-0036.  
-
---1) Thus corr. by A3 from A1 समाभ्यु॰.  
-
-0038.  
-
---1) A2 gloss शूरपुरे.  
+[^0038-1]: A2 gloss शूरपुरे.  
 
 39,  
 
@@ -7330,35 +6032,21 @@ Colophon.
 ललितादित्यभूभर्तुरुद्योगेन बलीयसा । KRT_5_0069ab  
 किंचिदाकृष्टसलिलः प्राप्तोत्पत्तिं मनाक्ततः ॥ KRT_5_0069cd  
 
-0044.  
+[^0044-1]: A2 gloss विश्वैकसाराख्ये भारसो इति ग्रामे.  
 
---1) A2 gloss विश्वैकसाराख्ये भारसो इति ग्रामे.  
+[^0044-2]: Thus corr. by later hand from A1 राजा.  
 
---2) Thus corr. by later hand from A1 राजा.  
+[^0048-1]: Thus corr. by later hand from A1 जातो.  
 
-0048.  
+[^0051-1]: A3 gloss लार् इति प्रसिद्धे राष्ट्रे.  
 
---1) Thus corr. by later hand from A1 जातो.  
+[^0055-1]: A2 separates स from the following and gives the gloss शूरः to स.  
 
-0051.  
+[^0056-1]: Thus A1; A3 ॰बाहुल्ये भूत्वा.  
 
---1) A3 gloss लार् इति प्रसिद्धे राष्ट्रे.  
+[^0057-1]: Thus A3; A1 पुरः.  
 
-0055.  
-
---1) A2 separates स from the following and gives the gloss शूरः to स.  
-
-0056.  
-
---1) Thus A1; A3 ॰बाहुल्ये भूत्वा.  
-
-0057.  
-
---1) Thus A3; A1 पुरः.  
-
-0060.  
-
---1) Thus corr. by A2 from A1 क्षण॰.  
+[^0060-1]: Thus corr. by A2 from A1 क्षण॰.  
 
 [page 74]  
 
@@ -7423,35 +6111,21 @@ Colophon.
 वर्ततेद्य महानद्योः कल्पापायेप्यनत्ययः । KRT_5_0098ab  
 संगमो नगरोपान्ते स सुय्योपक्रमस्तयोः ॥ KRT_5_0098cd  
 
-0071.  
+[^0071-1]: Thus A1; A3 पञ्चाशदधि॰.  
 
---1) Thus A1; A3 पञ्चाशदधि॰.  
+[^0071-2]: Thus corr. by A3 from A1 ॰खारेः.  
 
---2) Thus corr. by A3 from A1 ॰खारेः.  
+[^0073-1]: A2 gloss चतुर्थे युगे.  
 
-0073.  
+[^0074-1]: Thus A1; A3 पूयाभि॰.  
 
---1) A2 gloss चतुर्थे युगे.  
+[^0077-1]: Thus corr. by later hand from A1 ॰न्त्याः.  
 
-0074.  
+[^0082-1]: Thus corr. by A3 from A1 ॰सम्भवः.  
 
---1) Thus A1; A3 पूयाभि॰.  
+[^0087-1]: A2 gloss द्यारगलाख्ये.  
 
-0077.  
-
---1) Thus corr. by later hand from A1 ॰न्त्याः.  
-
-0082.  
-
---1) Thus corr. by A3 from A1 ॰सम्भवः.  
-
-0087.  
-
---1) A2 gloss द्यारगलाख्ये.  
-
-0079.  
-
---1) समगं supplied by A3 in space left by A1.  
+[^0079-1]: समगं supplied by A3 in space left by A1.  
 
 [page 75]  
 
@@ -7512,9 +6186,7 @@ Colophon.
 तेनान्ते भगवद्गीताः शृण्वता भावितात्मना । KRT_5_0125ab  
 ध्यायता वैष्णवं धाम निरमुच्यत जीवितम् ॥ KRT_5_0125cd  
 
-0092.  
-
---1) Emended A1 अध्यप्या॰, altered by later hand to अधप्या॰.  
+[^0092-1]: Emended A1 अध्यप्या॰, altered by later hand to अधप्या॰.  
 
 102  
 
@@ -7524,49 +6196,31 @@ Colophon.
 
 --1) Thus G and Edd.; A ॰र्यान्ति.  
 
-0108.  
+[^0108-1]: Emended; A ॰भाण्डात्नौ॰.  
 
---1) Emended; A ॰भाण्डात्नौ॰.  
+[^0112-1]: Supplied by A2.  
 
-0112.  
+[^0115-1]: Thus corr. by A2 from A1 यत्सिद्ध॰.  
 
---1) Supplied by A2.  
+[^0115-2]: युग्मम् supplied by A2.  
 
-0115.  
+[^0116-1]: Thus corr. by A1 from खारी.  
 
---1) Thus corr. by A2 from A1 यत्सिद्ध॰.  
+[^0117-1]: A2 gloss द्वादशदीनाराणां बाहगन्ये इति कश्मीरदेशभाषया परिगणने षट्त्रिंशद्दीन्नाराः त्रिबाहगन्य इति ज्ञेयाः.  
 
---2) युग्मम् supplied by A2.  
+[^0118-1]: Thus corr. by A3 from A1 निर्गता वा.  
 
-0116.  
+[^0118-2]: A2 gloss सुय्यपुराख्यम्.  
 
---1) Thus corr. by A1 from खारी.  
+[^0119-1]: Thus corr. by A3 from A1 स्थिरासार॰.  
 
-0117.  
+[^0120-1]: Thus corr. by later hand from A1 सुय्यकु॰.  
 
---1) A2 gloss द्वादशदीनाराणां बाहगन्ये इति कश्मीरदेशभाषया परिगणने षट्त्रिंशद्दीन्नाराः त्रिबाहगन्य इति ज्ञेयाः.  
+[^0120-2]: Emended; A सय्या॰.  
 
-0118.  
+[^0120-3]: Thus corr. by later hand from A1 सय्या॰.  
 
---1) Thus corr. by A3 from A1 निर्गता वा.  
-
---2) A2 gloss सुय्यपुराख्यम्.  
-
-0119.  
-
---1) Thus corr. by A3 from A1 स्थिरासार॰.  
-
-0120.  
-
---1) Thus corr. by later hand from A1 सुय्यकु॰.  
-
---2) Emended; A सय्या॰.  
-
---3) Thus corr. by later hand from A1 सय्या॰.  
-
-0121.  
-
---1) A2 gloss जिथन्.  
+[^0121-1]: A2 gloss जिथन्.  
 
 :p 76.  
 आषाढशुक्लपक्षस्य तृतीयस्याम् क्षमापतिः[^0126-1] । KRT_5_0126ab  
@@ -7622,51 +6276,33 @@ Colophon.
 हृतं भोजाधिराजेन स साम्राज्यमदापयत् । KRT_5_0151ab  
 प्रतीहारतया भृत्यीभूते थक्कियक्रान्वये ॥ KRT_5_0151cd  
 
-0126.  
+[^0126-1]: Thus corr. by A3 from A1 ॰पतेः.  
 
---1) Thus corr. by A3 from A1 ॰पतेः.  
+[^0129-1]: Thus A3; A1 ॰पापत्य॰.  
 
-0129.  
+[^0129-2]: A4 gloss अवन्तिवर्मभ्रातुः.  
 
---1) Thus A3; A1 ॰पापत्य॰.  
+[^0134-1]: A4 gloss सुखवर्माणम्.  
 
---2) A4 gloss अवन्तिवर्मभ्रातुः.  
+[^0131-1]: Thus A1; altered by later hand to ॰विच्छेदं.  
 
-0134.  
+[^0141-1]: A2 gloss दर्वाभिसारः दानगलो इति भाषया.  
 
---1) A4 gloss सुखवर्माणम्.  
+[^0141-2]: A4 gloss नरवाहननाम्ना.  
 
-0131.  
+[^0141-3]: A3 भ्राम्यता.  
 
---1) Thus A1; altered by later hand to ॰विच्छेदं.  
+[^0141-4]: A4 gloss दार्वाभिसारनृपस्य सेना.  
 
-0141.  
+[^0144-1]: A2 gloss गूर्जरेति अत्र गुर्जरः लघुगोज्यराद इति प्रसिद्धो देशः.  
 
---1) A2 gloss दर्वाभिसारः दानगलो इति भाषया.  
+[^0144-2]: A2 gloss त्रिगर्तो नगरकोट्टः तदधीशः.  
 
---2) A4 gloss नरवाहननाम्ना.  
+[^0142-1]: A1 writes in margin the gloss: नीविः । नेय इति देशभाषया प्र, which A2 continues with सिद्धः यः स्वप्रतिनिधिः न्यूनबलेन माण्डलिकेनाधिकबलस्य राज्ञः प्रतीत्यर्थं सतर्ण्यते ॥.  
 
---3) A3 भ्राम्यता.  
+[^0147-1]: ति suppied by A3 in space left by A1.  
 
---4) A4 gloss दार्वाभिसारनृपस्य सेना.  
-
-0144.  
-
---1) A2 gloss गूर्जरेति अत्र गुर्जरः लघुगोज्यराद इति प्रसिद्धो देशः.  
-
---2) A2 gloss त्रिगर्तो नगरकोट्टः तदधीशः.  
-
-0142.  
-
---1) A1 writes in margin the gloss: नीविः । नेय इति देशभाषया प्र, which A2 continues with सिद्धः यः स्वप्रतिनिधिः न्यूनबलेन माण्डलिकेनाधिकबलस्य राज्ञः प्रतीत्यर्थं सतर्ण्यते ॥.  
-
-0147.  
-
---1) ति suppied by A3 in space left by A1.  
-
-0150.  
-
---1) A1 gloss तक्कदेशः अट्किनदीतटे शकरवो नाम भुद्ददेशाद्दूरं वर्तमानो योजनविंशतिकेन.  
+[^0150-1]: A1 gloss तक्कदेशः अट्किनदीतटे शकरवो नाम भुद्ददेशाद्दूरं वर्तमानो योजनविंशतिकेन.  
 
 [page 77]  
 
@@ -7725,55 +6361,35 @@ Colophon.
 व्यधत्त पञ्च दिविरा[^0177-1]न्स तस्मिन्भिन्नकर्मणि । KRT_5_0177ab  
 षष्ठं तथा गञ्जवरं शकचं लवटाभिधम् ॥ KRT_5_0177cd  
 
-0153.  
+[^0153-1]: This verse is added in margin by A3; found in G R.  
 
---1) This verse is added in margin by A3; found in G R.  
+[^0154-1]: A1 विपुलख्याति मा॰; A3 has altered this to विपुला ख्यातिर्मा॰, but has subsequently restored the reading of A1. G follow A1, R reads as A3.  
 
-0154.  
+[^0155-1]: A3 gloss शङ्करवर्मा.  
 
---1) A1 विपुलख्याति मा॰; A3 has altered this to विपुला ख्यातिर्मा॰, but has subsequently restored the reading of A1. G follow A1, R reads as A3.  
+[^0155-2]: A2 gloss शङ्करपोर्.  
 
-0155.  
+[^0157-1]: A3 gloss शङ्करवर्मणः.  
 
---1) A3 gloss शङ्करवर्मा.  
+[^0157-2]: A3 gloss कन्या.  
 
---2) A2 gloss शङ्करपोर्.  
+[^0158-1]: Emended; A गौरेश॰.  
 
-0157.  
+[^0165-1]: Thus corr. by A3 from A1 अधेयमान॰.  
 
---1) A3 gloss शङ्करवर्मणः.  
+[^0168-1]: Thus A1; A3 ॰नचेला॰.  
 
---2) A3 gloss कन्या.  
+[^0168-2]: Thus corr. by later hand from A1 ॰मूल्ये.  
 
-0158.  
+[^0168-3]: A2 gloss कलालाभः.  
 
---1) Emended; A गौरेश॰.  
+[^0169-1]: Thus A3; A1 मुमोचेत॰.  
 
-0165.  
+[^0171-1]: Thus A1; A3 भुक्त॰.  
 
---1) Thus corr. by A3 from A1 अधेयमान॰.  
+[^0171-2]: दम्भा supplied by A3 in space left by A1.  
 
-0168.  
-
---1) Thus A1; A3 ॰नचेला॰.  
-
---2) Thus corr. by later hand from A1 ॰मूल्ये.  
-
---3) A2 gloss कलालाभः.  
-
-0169.  
-
---1) Thus A3; A1 मुमोचेत॰.  
-
-0171.  
-
---1) Thus A1; A3 भुक्त॰.  
-
---2) दम्भा supplied by A3 in space left by A1.  
-
-0177.  
-
---1) Thus A1. Cf. vi. 130; vii. 111, 119; misread शिविरान्स in R G Edd.  
+[^0177-1]: Thus A1. Cf. vi. 130; vii. 111, 119; misread शिविरान्स in R G Edd.  
 
 [page 78]  
 
@@ -7836,31 +6452,19 @@ Colophon.
 निर्वेतनाः तु कवयो भारिको लवटस्त्वभूत् । KRT_5_0205ab  
 प्रसादात्तस्य दीन्नारसहस्रद्वयवेतनः ॥ KRT_5_0205cd  
 
-0178.  
+[^0178-1]: Thus A; varia lectio in R G पापीयस्त्वा.  
 
---1) Thus A; varia lectio in R G पापीयस्त्वा.  
+[^0178-2]: Thus corr. by A3 from A1 वियोगि॰.  
 
---2) Thus corr. by A3 from A1 वियोगि॰.  
+[^0181-1]: A2 gloss अपयशः.  
 
-0181.  
+[^0196-1]: Thus A3; A1 ॰दत्त्वोश्चमं॰.  
 
---1) A2 gloss अपयशः.  
+[^0197-1]: Thus corr. by A3 from A1 ॰दन्तः.  
 
-0196.  
+[^0200-1]: Thus corr. by A3 from A1 ॰क्षिताः.  
 
---1) Thus A3; A1 ॰दत्त्वोश्चमं॰.  
-
-0197.  
-
---1) Thus corr. by A3 from A1 ॰दन्तः.  
-
-0200.  
-
---1) Thus corr. by A3 from A1 ॰क्षिताः.  
-
-0203.  
-
---1) A3 ॰चिन्तितम्.  
+[^0203-1]: A3 ॰चिन्तितम्.  
 
 [page 79]  
 
@@ -7921,61 +6525,37 @@ Colophon.
 कोशाध्यक्षेण रागिण्यास्तस्या लुण्ठितसंपदा । KRT_5_0232ab  
 उदभाण्डपुरे[^0232-1] तेन शाहिराज्यं व्यजीयत[^0232-2] ॥ KRT_5_0232cd  
 
-0207.  
+[^0207-1]: Thus corr. by A3 from A1 ॰रागस्य.  
 
---1) Thus corr. by A3 from A1 ॰रागस्य.  
+[^0210-1]: न supplied by A3.  
 
-0210.  
+[^0210-2]: A1 writes below this word 50.  
 
---1) न supplied by A3.  
+[^0213-1]: A2 gloss पट्टन्.  
 
---2) A1 writes below this word 50.  
+[^0214-1]: A2 gloss द्वारविद्यायां वीराणकं.  
 
-0213.  
+[^0214-2]: A4 gloss सुखराजस्वस्रीयः.  
 
---1) A2 gloss पट्टन्.  
+[^0217-1]: A2 gloss उडू.  
 
-0214.  
+[^0219-1]: Thus A2; A1 ॰रूढान्स्था॰.  
 
---1) A2 gloss द्वारविद्यायां वीराणकं.  
+[^0220-1]: Thus corr. by later hand from A1 ॰लिङ्ग्या.  
 
---2) A4 gloss सुखराजस्वस्रीयः.  
+[^0223-1]: A3 gloss मन्त्रिणः.  
 
-0217.  
+[^0223-2]: Thus A1; A3 वृत्तान्तं गो॰.  
 
---1) A2 gloss उडू.  
+[^0225-1]: Thus A R G; A3 gloss वराहबलसमीपे द्वारवत्यां.  
 
-0219.  
+[^0226-1]: Emended: A R बालावित्तः; G बालाविभुः. Cf. वेलावित्तः vi 73, 106, 324.  
 
---1) Thus A2; A1 ॰रूढान्स्था॰.  
+[^0229-1]: A3 gloss लालितकाः पदातयः.  
 
-0220.  
+[^0232-1]: Thus corr. from A1 उदाभाण्ड॰ by A2 which adds the gloss हैभङ्; R G read as A2. Cf. उदभाण्डुपुरे v. 153.  
 
---1) Thus corr. by later hand from A1 ॰लिङ्ग्या.  
-
-0223.  
-
---1) A3 gloss मन्त्रिणः.  
-
---2) Thus A1; A3 वृत्तान्तं गो॰.  
-
-0225.  
-
---1) Thus A R G; A3 gloss वराहबलसमीपे द्वारवत्यां.  
-
-0226.  
-
---1) Emended: A R बालावित्तः; G बालाविभुः. Cf. वेलावित्तः vi 73, 106, 324.  
-
-0229.  
-
---1) A3 gloss लालितकाः पदातयः.  
-
-0232.  
-
---1) Thus corr. from A1 उदाभाण्ड॰ by A2 which adds the gloss हैभङ्; R G read as A2. Cf. उदभाण्डुपुरे v. 153.  
-
---2) Thus A1; A3 व्यधीयत; G R follow A3.  
+[^0232-2]: Thus A1; A3 व्यधीयत; G R follow A3.  
 
 [page 80]  
 
@@ -8036,75 +6616,47 @@ Colophon.
 वर्षे एकान्नन[^0259-1]वते संभूयैकाङ्गसैनिकाः । KRT_5_0259ab  
 गत्वा सुगन्धामानिन्युः पुनर्हुष्कपुर[^0259-2]स्थिताम् ॥ KRT_5_0259cd  
 
-0233.  
+[^0233-1]: Thus corr. by later haand from A1 ॰धम्.  
 
---1) Thus corr. by later haand from A1 ॰धम्.  
+[^0233-2]: Thus A2; A1 तोमराणाय.  
 
---2) Thus A2; A1 तोमराणाय.  
+[^0235-1]: Thus A2; A1 ॰जननीसङ्गात्साभिमानो.  
 
-0235.  
+[^0235-2]: Thus corr. by A3 from A1 मनः॰.  
 
---1) Thus A2; A1 ॰जननीसङ्गात्साभिमानो.  
+[^0237-1]: Thus corr. by A3 from A1 ॰मालाप॰.  
 
---2) Thus corr. by A3 from A1 मनः॰.  
+[^0239-1]: A4 gloss प्रभाकरः.  
 
-0237.  
+[^0243-1]: A2 gloss गोपालवर्मसङ्कटयोर्माता सुगन्धाः.  
 
---1) Thus corr. by A3 from A1 ॰मालाप॰.  
+[^0243-2]: Thus corr. by A2 from A1 पुरम्.  
 
-0239.  
+[^0244-1]: A2 gloss गुरीपुरम्.  
 
---1) A4 gloss प्रभाकरः.  
+[^0245-1]: A2 gloss नन्दीमठं.  
 
-0243.  
+[^0248-1]: Thus corr. by A3 from A1 विग्रहा॰.  
 
---1) A2 gloss गोपालवर्मसङ्कटयोर्माता सुगन्धाः.  
+[^0248-2]: Thus A2; A1 तत्र.  
 
---2) Thus corr. by A2 from A1 पुरम्.  
+[^0249-1]: Thus emended; A G R समित्र॰.  
 
-0244.  
+[^0249-2]: A3 v.l. मन्त्रिणाम्; struck out.  
 
---1) A2 gloss गुरीपुरम्.  
+[^0250-1]: Thus A3; A1 ॰न्तात्तन्त्र्यै॰.  
 
-0245.  
+[^0254-1]: A2 gloss निर्जितवर्मा.  
 
---1) A2 gloss नन्दीमठं.  
+[^0256-1]: A2 gloss कोट्टरक्षाः.  
 
-0248.  
+[^0257-1]: Thus corr. by later hand from A1 राज्य॰.  
 
---1) Thus corr. by A3 from A1 विग्रहा॰.  
+[^0257-2]: Thus A3; A1 हृता॰.  
 
---2) Thus A2; A1 तत्र.  
+[^0259-1]: Thus A1; A3 एकोन॰.  
 
-0249.  
-
---1) Thus emended; A G R समित्र॰.  
-
---2) A3 v.l. मन्त्रिणाम्; struck out.  
-
-0250.  
-
---1) Thus A3; A1 ॰न्तात्तन्त्र्यै॰.  
-
-0254.  
-
---1) A2 gloss निर्जितवर्मा.  
-
-0256.  
-
---1) A2 gloss कोट्टरक्षाः.  
-
-0257.  
-
---1) Thus corr. by later hand from A1 राज्य॰.  
-
---2) Thus A3; A1 हृता॰.  
-
-0259.  
-
---1) Thus A1; A3 एकोन॰.  
-
---2) A2 gloss वराहमूले.  
+[^0259-2]: A2 gloss वराहमूले.  
 
 :p 81.  
 तामापतन्तीमाकर्ण्य पार्थानुग्रहका मदात् । KRT_5_0260ab  
@@ -8160,71 +6712,41 @@ Colophon.
 पर्यायेणाभवद्भृत्यः स तयोर्भोग[^0285-1]वृद्धये । KRT_5_0285ab  
 दरिद्रयोषितोरेकं भुक्तिपात्रमिवान्वहम् ॥ KRT_5_0285cd  
 
-0264.  
+[^0264-1]: A2 gloss निर्जितवर्मा.  
 
---1) A2 gloss निर्जितवर्मा.  
+[^0266-1]: Thus A1; alrered by later hand to यद्राज्यैः.  
 
-0266.  
+[^0267-1]: A2 gloss पांय्दृठन् इति प्रसिद्धे ग्रामे.  
 
---1) Thus A1; alrered by later hand to यद्राज्यैः.  
+[^0267-2]: A4 gloss पङ्गुश्वशुरेण.  
 
-0267.  
+[^0268-1]: A2 gloss निर्जितवर्मजाः तदात्मजाः चक्रवमी शूरवर्मा । शम्भुवर्धनः शंकरवर्धनः मेरुवर्धनपुत्राः.  
 
---1) A2 gloss पांय्दृठन् इति प्रसिद्धे ग्रामे.  
+[^0269-1]: A2 gloss मन्त्रिणा.  
 
---2) A4 gloss पङ्गुश्वशुरेण.  
+[^0269-2]: A4 सुगन्धादित्येन सह.  
 
-0268.  
+[^0270-1]: Thus corr. by later hand from A1 उद्द्वीपः; A4 gloss य्योपो( ).  
 
---1) A2 gloss निर्जितवर्मजाः तदात्मजाः चक्रवमी शूरवर्मा । शम्भुवर्धनः शंकरवर्धनः मेरुवर्धनपुत्राः.  
+[^0271-1]: A4 gives the full date Saptarshi 3993.  
 
-0269.  
+[^0272-1]: Thus A1; altered by later hand to दुर्लक्ष॰.  
 
---1) A2 gloss मन्त्रिणा.  
+[^0273-1]: जाते supplied by A3 in space left by A1.  
 
---2) A4 सुगन्धादित्येन सह.  
+[^0274-1]: A3 मार्घ॰.  
 
-0270.  
+[^0275-1]: Thus A1; A3 आदेयः.  
 
---1) Thus corr. by later hand from A1 उद्द्वीपः; A4 gloss य्योपो( ).  
+[^0276-1]: Thus corr. by A3 from A1 दृष्टि॰.  
 
-0271.  
+[^0281-1]: A3 gloss मन्त्री.  
 
---1) A4 gives the full date Saptarshi 3993.  
+[^0281-2]: A3 gloss व्यवायः मैथुनम्.  
 
-0272.  
+[^0282-1]: A4 gloss चक्रवर्ममातुः.  
 
---1) Thus A1; altered by later hand to दुर्लक्ष॰.  
-
-0273.  
-
---1) जाते supplied by A3 in space left by A1.  
-
-0274.  
-
---1) A3 मार्घ॰.  
-
-0275.  
-
---1) Thus A1; A3 आदेयः.  
-
-0276.  
-
---1) Thus corr. by A3 from A1 दृष्टि॰.  
-
-0281.  
-
---1) A3 gloss मन्त्री.  
-
---2) A3 gloss व्यवायः मैथुनम्.  
-
-0282.  
-
---1) A4 gloss चक्रवर्ममातुः.  
-
-0285.  
-
---1) A4 gloss तयोर्चप्पटदेवीमृगावत्योः पङ्गुपत्न्योः.  
+[^0285-1]: A4 gloss तयोर्चप्पटदेवीमृगावत्योः पङ्गुपत्न्योः.  
 
 280  
 
@@ -8287,49 +6809,33 @@ Colophon.
 धीधैर्यादिप्रकर्षेण येनोपक्रियते नृपः । KRT_5_0312ab  
 प्राप्तोदयः स तेनैव शङ्क्यं वेत्त्युपकारिणम् ॥ KRT_5_0312cd  
 
-0286.  
+[^0286-1]: A2 reads धनधान्यैः.  
 
---1) A2 reads धनधान्यैः.  
+[^0290-1]: Thus corr. by later hand from A1 क्षल्लि.  
 
-0290.  
+[^0292-1]: A4 gloss मेरुवर्धनपुत्र्यां.  
 
---1) Thus corr. by later hand from A1 क्षल्लि.  
+[^0292-2]: Thus A3; A1 मन्त्रिभिः.  
 
-0292.  
+[^0296-1]: A2 gloss साम्बोरणग्रामे.  
 
---1) A4 gloss मेरुवर्धनपुत्र्यां.  
+[^0298-1]: A4 gloss अत्र सर्वत्र यच्छब्देन मेरुवर्धनपरामर्शः.  
 
---2) Thus A3; A1 मन्त्रिभिः.  
+[^0298-2]: A4 पार्थादिभ्यः.  
 
-0296.  
+[^0299-1]: A4 gloss पङ्गुः.  
 
---1) A2 gloss साम्बोरणग्रामे.  
+[^0299-2]: A4 gloss पार्थः शूरवर्मा वा.  
 
-0298.  
+[^0299-3]: A4 gloss चक्रवर्मणः..  
 
---1) A4 gloss अत्र सर्वत्र यच्छब्देन मेरुवर्धनपरामर्शः.  
+[^0299-4]: A4 gloss मृगावतीं.  
 
---2) A4 पार्थादिभ्यः.  
+[^0299-5]: A4 gloss पङ्गवे.  
 
-0299.  
+[^0305-1]: Emended; A चञ्चु॰.  
 
---1) A4 gloss पङ्गुः.  
-
---2) A4 gloss पार्थः शूरवर्मा वा.  
-
---3) A4 gloss चक्रवर्मणः..  
-
---4) A4 gloss मृगावतीं.  
-
---5) A4 gloss पङ्गवे.  
-
-0305.  
-
---1) Emended; A चञ्चु॰.  
-
-0310.  
-
---1) Thus corr. by A3 from A1 ॰स्मान्नेद.  
+[^0310-1]: Thus corr. by A3 from A1 ॰स्मान्नेद.  
 
 [page 83]  
 
@@ -8388,49 +6894,31 @@ Colophon.
 माननीयानधृष्यांश्च महावंश्यान्महीपतीन् । KRT_5_0338ab  
 अहीनिव खिलीकृत्य भिक्षयन्तः क्षणे क्षणे ॥ KRT_5_0338cd  
 
-0316.  
+[^0316-1]: A3 note न विशुद्धा प्रकृतिर्येषां ते । अविशुद्धप्रकृतयः सूचकाः यस्य राज्ञः कर्णयोर्विषये ध्वनन्ति । तस्य सतोपि साधोरपि स्वयं नाश्वासः । इभस्येव । यथा हस्तिनः कर्णयोर्मलिनाः मधुपा ध्वनन्ति ॥.  
 
---1) A3 note न विशुद्धा प्रकृतिर्येषां ते । अविशुद्धप्रकृतयः सूचकाः यस्य राज्ञः कर्णयोर्विषये ध्वनन्ति । तस्य सतोपि साधोरपि स्वयं नाश्वासः । इभस्येव । यथा हस्तिनः कर्णयोर्मलिनाः मधुपा ध्वनन्ति ॥.  
+[^0316-2]: A2 gloss कुटिलाः.  
 
---2) A2 gloss कुटिलाः.  
+[^0319-1]: A3 गोपस्य॰.  
 
-0319.  
+[^0320-1]: A3 भोगं.  
 
---1) A3 गोपस्य॰.  
-
-0320.  
-
---1) A3 भोगं.  
-
-0321.  
-
---1) Thus corr. by later hand from A1 परं.  
+[^0321-1]: Thus corr. by later hand from A1 परं.  
 
 322,  
 
 --1) Thus A1 and R; misread in G and Edd. जार्यकः: A3 gloss जार्यको घूकमार्जारखट्टाकैरण्डकासु चेति विश्वः.  
 
-0326.  
+[^0326-1]: A3 gloss दिव्यमित्यर्थः । उभौ मैत्रीसम्बन्धार्थं रक्ताक्ते मेषचर्मणि(gloss भ्रस्त्रायां) परस्परं पादप्रक्षेपं कुरुत इति शपथसंप्रदायः दिव्ये च कोशः पुष्पादिकुद्वलासिपिधानयोरिति मङ्खः.  
 
---1) A3 gloss दिव्यमित्यर्थः । उभौ मैत्रीसम्बन्धार्थं रक्ताक्ते मेषचर्मणि(gloss भ्रस्त्रायां) परस्परं पादप्रक्षेपं कुरुत इति शपथसंप्रदायः दिव्ये च कोशः पुष्पादिकुद्वलासिपिधानयोरिति मङ्खः.  
+[^0331-1]: A3 विशीर्णा.  
 
-0331.  
+[^0332-1]: Thus corr. by later hand from A1 ॰सारणो॰.  
 
---1) A3 विशीर्णा.  
+[^0333-1]: A2 gloss अधारयन्.  
 
-0332.  
+[^0333-2]: A2 gloss शिरस्त्रबन्धनार्थं दत्तो यो वीरपट्टः डोपट्ट इति प्रसिद्धः तस्य असलच्छटाः फिते इति प्रसिद्धाः.  
 
---1) Thus corr. by later hand from A1 ॰सारणो॰.  
-
-0333.  
-
---1) A2 gloss अधारयन्.  
-
---2) A2 gloss शिरस्त्रबन्धनार्थं दत्तो यो वीरपट्टः डोपट्ट इति प्रसिद्धः तस्य असलच्छटाः फिते इति प्रसिद्धाः.  
-
-0336.  
-
---1) Thus A1; altered by later hand to ॰हतः.  
+[^0336-1]: Thus A1; altered by later hand to ॰हतः.  
 
 [page 84]  
 
@@ -8493,41 +6981,25 @@ Colophon.
 गायन्यौ[^0366-1] भावमा[^0366-1]लक्ष्य तस्य स्निग्धमगायताम् । KRT_5_0366ab  
 अधिकोद्रेचिताभिख्यं विलासस्मितविभ्रमैः ॥ KRT_5_0366cd  
 
-0344.  
+[^0344-1]: Thus A1; A3 स वामोतर॰.  
 
---1) Thus A1; A3 स वामोतर॰.  
+[^0345-1]: A3 संरुद्ध॰.  
 
-0345.  
+[^0345-2]: A3 वक्रभु॰.  
 
---1) A3 संरुद्ध॰.  
+[^0346-1]: Thus corr. by A3 from A1 ॰लिब्धकां॰.  
 
---2) A3 वक्रभु॰.  
+[^0348-1]: Thus A3; A1 ॰क्राम्यति.  
 
-0346.  
+[^0350-1]: Thus G Edd. A ॰स्तस्तन्नृप॰.  
 
---1) Thus corr. by A3 from A1 ॰लिब्धकां॰.  
+[^0363-1]: A3 ताने.  
 
-0348.  
+[^0364-1]: Thus corr. by later hand from A1 गायन्त्योर्गी॰.  
 
---1) Thus A3; A1 ॰क्राम्यति.  
+[^0366-1]: Thus corr. by later hand from A1 गायन्त्यौ.  
 
-0350.  
-
---1) Thus G Edd. A ॰स्तस्तन्नृप॰.  
-
-0363.  
-
---1) A3 ताने.  
-
-0364.  
-
---1) Thus corr. by later hand from A1 गायन्त्योर्गी॰.  
-
-0366.  
-
---1) Thus corr. by later hand from A1 गायन्त्यौ.  
-
---2) A3 gloss आशयं.  
+[^0366-2]: A3 gloss आशयं.  
 
 [page 85]  
 
@@ -8576,67 +7048,51 @@ Colophon.
 रागान्धेन कृता हंसी महादेवी महीभुजा । KRT_5_0387ab  
 भेजे राजवधूमध्ये बालव्यजनवीजनम् ॥ KRT_5_0387cd  
 
-0368.  
+[^0368-1]: A2 तत्र.  
 
---1) A2 तत्र.  
+[^0369-1]: A3 gloss हरति मन इति हारी तस्य भावः तत्ता तं यातमिति सम्बन्धः.  
 
-0369.  
+[^0370-1]: Thus corr. by A3 from A1 गायन्त्योः.  
 
---1) A3 gloss हरति मन इति हारी तस्य भावः तत्ता तं यातमिति सम्बन्धः.  
+[^0370-2]: Thus A3; A1 .  
 
-0370.  
+[^0370-3]: A2 gloss दन्तपङ्क्तिचतुष्टयं.  
 
---1) Thus corr. by A3 from A1 गायन्त्योः.  
+[^0376-1]: A3 gloss दुष्कृतं.  
 
---2) Thus A3; A1 .  
+[^0376-2]: A3 gloss त्वगिन्द्रियस्य.  
 
---3) A2 gloss दन्तपङ्क्तिचतुष्टयं.  
+[^0378-1]: A3 gloss वारिधराः विटाश्च.  
 
-0376.  
+[^0378-2]: A2 gloss वर्णाः नीलपीताद्याः ब्राह्मणाद्याश्च.  
 
---1) A3 gloss दुष्कृतं.  
+[^0378-3]: A3 gloss गोत्रान्तकृति इन्द्रे बद्धा अवस्थिर्येन स चासौ चापः धनुः इन्द्रचापः तस्य लङ्घनं । गोत्रान्तकृद्भिः कुलक्षयकारिभिः पापिभिः बद्धा स्थितिर्यस्य । तत् चापलं प्रदर्श्य ध्वनन्ति इति च घनं निविडं इति चापलविशेषणं.  
 
---2) A3 gloss त्वगिन्द्रियस्य.  
+[^0378-4]: Thus corr. by later hand from गीयन्ते.  
 
-0378.  
+[^0378-5]: A3 कुपथाव॰.  
 
---1) A3 gloss वारिधराः विटाश्च.  
+[^0378-6]: A3 तरसा भू॰.  
 
---2) A2 gloss वर्णाः नीलपीताद्याः ब्राह्मणाद्याश्च.  
+[^0379-1]: A3 gloss नित्यशून्येषु.  
 
---3) A3 gloss गोत्रान्तकृति इन्द्रे बद्धा अवस्थिर्येन स चासौ चापः धनुः इन्द्रचापः तस्य लङ्घनं । गोत्रान्तकृद्भिः कुलक्षयकारिभिः पापिभिः बद्धा स्थितिर्यस्य । तत् चापलं प्रदर्श्य ध्वनन्ति इति च घनं निविडं इति चापलविशेषणं.  
+[^0380-1]: A3 gloss अपाaत्रत्यागे कर्णः.  
 
---4) Thus corr. by later hand from गीयन्ते.  
+[^0381-1]: A3 gloss डोम्बेनोच्चरारिता उर्वीपतेः अभिधा नामधेयं एकतः इत्यस्ति इति कथमिति कान्तोस्या इति.  
 
---5) A3 कुपथाव॰.  
+[^0381-3]: A3 gloss उर्वीपतिः.  
 
---6) A3 तरसा भू॰.  
+[^0381-4]: A3 डाम्बस्य नामा॰.  
 
-0379.  
+[^0381-5]: A3 मध्येन्यत्किम॰.  
 
---1) A3 gloss नित्यशून्येषु.  
+[^0381-6]: A3 gloss यत्किमपीति । यत्किञ्चिदालजालप्रायं लौकिकं गीतं । तस्य रचना एव काव्यं.  
 
-0380.  
+[^0381-7]: A3 gloss एतत् गीतिरचनाकाव्यं विदन्ति एतद्विदः.  
 
---1) A3 gloss अपाaत्रत्यागे कर्णः.  
+[^0381-8]: A3 gloss येषां पार्थिवानां लक्ष्मीः यल्लक्ष्मीः तां.  
 
-0381.  
-
---1) A3 gloss डोम्बेनोच्चरारिता उर्वीपतेः अभिधा नामधेयं एकतः इत्यस्ति इति कथमिति कान्तोस्या इति.  
-
---3) A3 gloss उर्वीपतिः.  
-
---4) A3 डाम्बस्य नामा॰.  
-
---5) A3 मध्येन्यत्किम॰.  
-
---6) A3 gloss यत्किमपीति । यत्किञ्चिदालजालप्रायं लौकिकं गीतं । तस्य रचना एव काव्यं.  
-
---7) A3 gloss एतत् गीतिरचनाकाव्यं विदन्ति एतद्विदः.  
-
---8) A3 gloss येषां पार्थिवानां लक्ष्मीः यल्लक्ष्मीः तां.  
-
---2) A3 gloss अपहरन्ति.  
+[^0381-2]: A3 gloss अपहरन्ति.  
 
 [page 86]  
 
@@ -8699,47 +7155,27 @@ Colophon.
 श्वपाकीकामुके पापे निहते निशि तस्करैः । KRT_5_0415ab  
 प्रजानां पाप्मना सोभूत्पापात्पापतरो नृपः ॥ KRT_5_0415cd  
 
-0389.  
+[^0389-1]: A2 gloss गणनार्थं गणनाधिपतिस्थानस्य अक्षपटलस्य अट्टले इति भाषया नाम शिष्टदेश इति केचित्.  
 
---1) A2 gloss गणनार्थं गणनाधिपतिस्थानस्य अक्षपटलस्य अट्टले इति भाषया नाम शिष्टदेश इति केचित्.  
+[^0392-1]: A2 gloss रजः.  
 
-0392.  
+[^0395-1]: A3 gloss केवलं.  
 
---1) A2 gloss रजः.  
+[^0397-1]: Thus corr. by later hand here and in following verse from A1 हलु॰.  
 
-0395.  
+[^0398-1]: A3 gloss रङ्गस्य हेलुः दत्ता.  
 
---1) A3 gloss केवलं.  
+[^0399-1]: Thus corr. by A3 from A1 के.  
 
-0397.  
+[^0399-2]: Thus corr. by A3 from A1 भवन्नी॰.  
 
---1) Thus corr. by later hand here and in following verse from A1 हलु॰.  
+[^0401-1]: A3 दधर्षापरमातरमित्यन्यादर्शे.  
 
-0398.  
+[^0404-1]: Thus corr. by A3 from A1 ॰र्यवदयो॰; A2 gloss मठं.  
 
---1) A3 gloss रङ्गस्य हेलुः दत्ता.  
+[^0412-1]: Thus A; G R Edd. शिलायां.  
 
-0399.  
-
---1) Thus corr. by A3 from A1 के.  
-
---2) Thus corr. by A3 from A1 भवन्नी॰.  
-
-0401.  
-
---1) A3 दधर्षापरमातरमित्यन्यादर्शे.  
-
-0404.  
-
---1) Thus corr. by A3 from A1 ॰र्यवदयो॰; A2 gloss मठं.  
-
-0412.  
-
---1) Thus A; G R Edd. शिलायां.  
-
-0413.  
-
---1) Thus G. Edd; A ज्येष्ठस्य.  
+[^0413-1]: Thus G. Edd; A ज्येष्ठस्य.  
 
 [page 87]  
 
@@ -8804,21 +7240,13 @@ Colophon.
 व्यथया तस्य तादृश्या प्रजा एव न केवलम् । KRT_5_0444ab  
 तुतुषुर्निजशुद्धान्तमहिष्योपि चतुर्दश ॥ KRT_5_0444cd  
 
-0426.  
+[^0426-1]: Thus corr. by A3 from A1 तावद्रक्क॰.  
 
---1) Thus corr. by A3 from A1 तावद्रक्क॰.  
+[^0432-1]: Thus corr. by later hand from A1 निपत्य.  
 
-0432.  
+[^0440-1]: Thus corr. by later hand from A1 कौटवी॰.  
 
---1) Thus corr. by later hand from A1 निपत्य.  
-
-0440.  
-
---1) Thus corr. by later hand from A1 कौटवी॰.  
-
-0442.  
-
---1) Thus corr. by later hand from A1 द्विजः.  
+[^0442-1]: Thus corr. by later hand from A1 द्विजः.  
 
 [page 88]  
 
@@ -8879,43 +7307,25 @@ Colophon.
 क्रामाद्गञ्जाधिकार्यासीदथ तस्यात्मजः शनैः । KRT_5_0471ab  
 लेभे गञ्जाधिकारित्वं राज्ञः शंकरवर्मणः ॥ KRT_5_0471cd  
 
-0448.  
+[^0448-1]: Thus corr. by A3 from A1 ॰प्राप्तेः.  
 
---1) Thus corr. by A3 from A1 ॰प्राप्तेः.  
+[^0449-1]: Thus corr. by A3 from A1 अषाढे.  
 
-0449.  
+[^0451-1]: श्चारै supplied by A3.  
 
---1) Thus corr. by A3 from A1 अषाढे.  
+[^0457-1]: Thus A1; A3 संघटय्य.  
 
-0451.  
+[^0459-1]: G sec manus अप्रौढो नोपभुङ्क्तेन्यदिने दूत्यार्थयन्नु यः.  
 
---1) श्चारै supplied by A3.  
+[^0461-1]: A3 अथौत्पल॰.  
 
-0457.  
+[^0461-2]: A3 gloss उत्पलो नाम बाल्यपालः तेन चिप्पटजयापीडं स्वस्रीयं निहत्याभिचारक्रियया स्वकीयभ्रातुःपुत्रः अजितपीडः राज्ये स्थापितः । ततः प्रभृति कल्यपालकुलराज्यं । उन्मत्तावन्तिपर्यन्तं प्राप्य कल्यपालकुलस्य च्छेदः । अत एवोक्तं । उत्पलकुले च्छिन्ने इति ।.  
 
---1) Thus A1; A3 संघटय्य.  
+[^0463-1]: Thus A1; A3 रूक्षभा॰.  
 
-0459.  
+[^0464-1]: A2 प्राप्तैः.  
 
---1) G sec manus अप्रौढो नोपभुङ्क्तेन्यदिने दूत्यार्थयन्नु यः.  
-
-0461.  
-
---1) A3 अथौत्पल॰.  
-
---2) A3 gloss उत्पलो नाम बाल्यपालः तेन चिप्पटजयापीडं स्वस्रीयं निहत्याभिचारक्रियया स्वकीयभ्रातुःपुत्रः अजितपीडः राज्ये स्थापितः । ततः प्रभृति कल्यपालकुलराज्यं । उन्मत्तावन्तिपर्यन्तं प्राप्य कल्यपालकुलस्य च्छेदः । अत एवोक्तं । उत्पलकुले च्छिन्ने इति ।.  
-
-0463.  
-
---1) Thus A1; A3 रूक्षभा॰.  
-
-0464.  
-
---1) A2 प्राप्तैः.  
-
-0466.  
-
---1) तासनम् supplied by A3 in space left by A2.  
+[^0466-1]: तासनम् supplied by A3 in space left by A2.  
 
 [page 89]  
 
@@ -8951,31 +7361,19 @@ Colophon.
 त्रयधिकायां समाशीतौ मासेषु च चतुर्ष्वगात् ।  
 कल्यपालाष्टकं रथ्याहृतस्त्रीसचिवा अपि ॥  
 
-0472.  
+[^0472-1]: Thus A3; A1 ॰तो गतः.  
 
---1) Thus A3; A1 ॰तो गतः.  
+[^0477-1]: A3 gloss क्ष्मायाः भूमेः धृतिः धारणं तस्मिन् प्रौढं सामर्थ्यं यस्य सः.  
 
-0477.  
+[^0478-1]: हं supplied by A3.  
 
---1) A3 gloss क्ष्मायाः भूमेः धृतिः धारणं तस्मिन् प्रौढं सामर्थ्यं यस्य सः.  
+[^0478-2]: A3 दैवेन किं सूत्रितमित्यादर्शान्तरे पाठः.  
 
-0478.  
+[^0480-1]: A3 gloss नीचकूलोत्पन्नस्य.  
 
---1) हं supplied by A3.  
+[^0481-1]: Thus A3; A1 ॰कीर्तिः.  
 
---2) A3 दैवेन किं सूत्रितमित्यादर्शान्तरे पाठः.  
-
-0480.  
-
---1) A3 gloss नीचकूलोत्पन्नस्य.  
-
-0481.  
-
---1) Thus A3; A1 ॰कीर्तिः.  
-
-0483.  
-
---1) A3 gloss अवनौ भूमौ हरिणधामा चन्द्रः and राजासनं.  
+[^0483-1]: A3 gloss अवनौ भूमौ हरिणधामा चन्द्रः and राजासनं.  
 
 [page 90]  
 
@@ -9028,31 +7426,21 @@ Colophon.
 किं दत्तजीविकापि त्वमीदृशीं वृत्तिमाश्रिता । KRT_6_0022ab  
 मयेति सा सदुःखेन पृष्टा स्वोदन्तमब्रवीत् ॥ KRT_6_0022cd  
 
-0001.  
+[^0001-1]: A3 gloss पर्णवातजीवनौ.  
 
---1) A3 gloss पर्णवातजीवनौ.  
+[^0001-2]: A3 gloss एतौ चराचरगुरुणा बहिः कृतौ इत्यन्वयः.  
 
---2) A3 gloss एतौ चराचरगुरुणा बहिः कृतौ इत्यन्वयः.  
+[^0001-3]: Thus A1; A3 ॰सुखाच्छृण्व॰.  
 
---3) Thus A1; A3 ॰सुखाच्छृण्व॰.  
+[^0011-1]: Thus corr. by later hand from A1 मूर्खा गु॰.  
 
-0011.  
+[^0013-1]: A3 gloss विवादपरिनिर्णेता स्थेयः.  
 
---1) Thus corr. by later hand from A1 मूर्खा गु॰.  
+[^0014-1]: A3 gloss मृतावनशने प्रायो बाहुल्ये सदृशे त्रिषु इति कोशः.  
 
-0013.  
+[^0019-1]: A3 gloss पौष्पिकैः.  
 
---1) A3 gloss विवादपरिनिर्णेता स्थेयः.  
-
-0014.  
-
---1) A3 gloss मृतावनशने प्रायो बाहुल्ये सदृशे त्रिषु इति कोशः.  
-
-0019.  
-
---1) A3 gloss पौष्पिकैः.  
-
---2) A3 gloss भाटी इति भाषया । प्रत्यहं वेतनं भाटी.  
+[^0019-2]: A3 gloss भाटी इति भाषया । प्रत्यहं वेतनं भाटी.  
 
 [page 91]  
 
@@ -9111,45 +7499,27 @@ Colophon.
 वेतनं ग्रन्थिबद्धं तदुत्थास्नोरपतन्मम[^0048-1] । KRT_6_0048ab  
 अरघट्टे समीपस्थे कक्षयोगादलक्षिते ॥ KRT_6_0048cd  
 
-0028.  
+[^0028-1]: Thus A; G has sec. manu the conjuctural reading गत्वा.  
 
---1) Thus A; G has sec. manu the conjuctural reading गत्वा.  
+[^0034-1]: Thus A3; A1 ॰दिवा॰.  
 
-0034.  
+[^0036-1]: A2 gloss गणत् वतूर् इति भाषया बही इति मध्यदेशीयाः.  
 
---1) Thus A3; A1 ॰दिवा॰.  
+[^0038-1]: A2 gloss दीन्नाराः द्यार् इति कश्मीरभाषया.  
 
-0036.  
+[^0038-2]: A2 gloss यत्सन्निधौ अर्थिप्रत्यर्थिनावुभौ भूमेः क्रयविक्रयं कुरुतः । येन चावस्तरमानं क्रियते सोधिकरणलेखकः । अवस्तरपरिमाणलेखपत्रकारी सराफ् इति भाषया .  
 
---1) A2 gloss गणत् वतूर् इति भाषया बही इति मध्यदेशीयाः.  
+[^0039-1]: A2 gloss अधिकरणलेखकाय दीन्नारदशशतीशनात्.  
 
-0038.  
+[^0039-2]: A2 gloss गृहविक्रयिणा यदिना विक्रयपत्रे लिखितं । सोपानकूपरहितं विक्रीतं गृहमिति । ततस्तेन लुब्धेन वणिजा प्रत्यर्थिना रेफविषये सकारः कारितः अधिकरणलेखकहस्तेन । उत्कोचं दीन्नारदशशत्याख्यं दत्त्वा कूपसहितं गृहं विक्रीतमिति लेखितं । ततोनन्तरं राञ्जानुमितं लेखपत्रचित्रणार्थं किमर्थं दीन्नारदशशती । बहुमूल्यत्वादिति रेफस्य सकार एव कृतोनेन इति ॥.  
 
---1) A2 gloss दीन्नाराः द्यार् इति कश्मीरभाषया.  
+[^0041-1]: A3 gloss विज्ञप्तिकराय.  
 
---2) A2 gloss यत्सन्निधौ अर्थिप्रत्यर्थिनावुभौ भूमेः क्रयविक्रयं कुरुतः । येन चावस्तरमानं क्रियते सोधिकरणलेखकः । अवस्तरपरिमाणलेखपत्रकारी सराफ् इति भाषया .  
+[^0042-1]: A3 gloss द्वास्स्थः.  
 
-0039.  
+[^0044-1]: Thus corr. by later hand from A1 पृष्टोथ.  
 
---1) A2 gloss अधिकरणलेखकाय दीन्नारदशशतीशनात्.  
-
---2) A2 gloss गृहविक्रयिणा यदिना विक्रयपत्रे लिखितं । सोपानकूपरहितं विक्रीतं गृहमिति । ततस्तेन लुब्धेन वणिजा प्रत्यर्थिना रेफविषये सकारः कारितः अधिकरणलेखकहस्तेन । उत्कोचं दीन्नारदशशत्याख्यं दत्त्वा कूपसहितं गृहं विक्रीतमिति लेखितं । ततोनन्तरं राञ्जानुमितं लेखपत्रचित्रणार्थं किमर्थं दीन्नारदशशती । बहुमूल्यत्वादिति रेफस्य सकार एव कृतोनेन इति ॥.  
-
-0041.  
-
---1) A3 gloss विज्ञप्तिकराय.  
-
-0042.  
-
---1) A3 gloss द्वास्स्थः.  
-
-0044.  
-
---1) Thus corr. by later hand from A1 पृष्टोथ.  
-
-0048.  
-
---1) Thus corr. A3 from A1 ॰तद्भुवि.  
+[^0048-1]: Thus corr. A3 from A1 ॰तद्भुवि.  
 
 [page 92]  
 
@@ -9208,55 +7578,37 @@ Colophon.
 रामाच्छुद्धान्तकान्तानां मूर्धानमधिरोपिता । KRT_6_0074ab  
 लल्ला नामाभवत्तस्य वेश्या वैवश्यकारिणी ॥ KRT_6_0074cd  
 
-0050.  
+[^0050-1]: Thus A1; A3 ॰सी.  
 
---1) Thus A1; A3 ॰सी.  
+[^0050-2]: A3 gloss वचसि वाक्य एव निष्ठा येषां । न तु न्यायविचारणे इति व्यवस्थां निन्दन्.  
 
---2) A3 gloss वचसि वाक्य एव निष्ठा येषां । न तु न्यायविचारणे इति व्यवस्थां निन्दन्.  
+[^0054-1]: Thus corr. by later hand from A1 ॰सारल्येच्छ॰.  
 
-0054.  
+[^0055-1]: A4 gloss वदनमेव केवलं तदीयं विदितं माम् न तु नामप्रकृती इत्यर्थः.  
 
---1) Thus corr. by later hand from A1 ॰सारल्येच्छ॰.  
+[^0062-1]: A3 gloss आप्यं.  
 
-0055.  
+[^0064-1]: Thus corr. by A3 from A1 तिष्ठनिष्टम॰.  
 
---1) A4 gloss वदनमेव केवलं तदीयं विदितं माम् न तु नामप्रकृती इत्यर्थः.  
+[^0069-1]: Thus A1; A3 ॰येणैव.  
 
-0062.  
+[^0069-2]: Thus corr. by A3 from A1 ॰भृत्यान्पा॰.  
 
---1) A3 gloss आप्यं.  
+[^0070-1]: A2 gloss हट्टरक्षिभिः.  
 
-0064.  
+[^0070-2]: Thus corr. by A3 from A1 सोथसं॰.  
 
---1) Thus corr. by A3 from A1 तिष्ठनिष्टम॰.  
+[^0072-1]: Thus A3; A1 ॰भूदुदित॰.  
 
-0069.  
+[^0072-2]: Thus corr. by A3 from A1 तदुपज्ञौ; Edd. ॰ज्ञैर्यथा.  
 
---1) Thus A1; A3 ॰येणैव.  
+[^0072-3]: Emended; A R G ॰त्प्रेक्षि॰.  
 
---2) Thus corr. by A3 from A1 ॰भृत्यान्पा॰.  
+[^0072-4]: A3 gloss भुवः.  
 
-0070.  
+[^0073-1]: A3 gloss एतन्नामकसचिवस्य; एतन्नामक struck out again.  
 
---1) A2 gloss हट्टरक्षिभिः.  
-
---2) Thus corr. by A3 from A1 सोथसं॰.  
-
-0072.  
-
---1) Thus A3; A1 ॰भूदुदित॰.  
-
---2) Thus corr. by A3 from A1 तदुपज्ञौ; Edd. ॰ज्ञैर्यथा.  
-
---3) Emended; A R G ॰त्प्रेक्षि॰.  
-
---4) A3 gloss भुवः.  
-
-0073.  
-
---1) A3 gloss एतन्नामकसचिवस्य; एतन्नामक struck out again.  
-
---2) A3 gloss उपेक्षा कृता इत्यर्थः.  
+[^0073-2]: A3 gloss उपेक्षा कृता इत्यर्थः.  
 
 [page 93]  
 
@@ -9317,65 +7669,37 @@ Colophon.
 राजभृत्यैः प्रतिज्ञातः स तस्मिन्निश्चितक्षये । KRT_6_0101ab  
 जीवत्येव कृतज्ञत्वव्यञ्जकैः परिवर्जितः ॥ युग्मम्॥ KRT_6_0101cd  
 
-0076.  
+[^0076-1]: Thus corr. by A3; reading of A1 illegible; A3 in margin ॰ङ्गनाख्यां.  
 
---1) Thus corr. by A3; reading of A1 illegible; A3 in margin ॰ङ्गनाख्यां.  
+[^0077-1]: A2 gloss प्रहरजागरूकेण.  
 
-0077.  
+[^0079-1]: A3 gloss वशीकरण.  
 
---1) A2 gloss प्रहरजागरूकेण.  
+[^0079-2]: Thus corr. by A3 from A1 सम्भवः.  
 
-0079.  
+[^0081-1]: Thus corr. by A3 from A1 ॰भार्यादृ॰.  
 
---1) A3 gloss वशीकरण.  
+[^0083-1]: A3 न्यग्रहीद्र॰.  
 
---2) Thus corr. by A3 from A1 सम्भवः.  
+[^0086-1]: Thus A3; A1 ॰कामोपि नृपो भा॰.  
 
-0081.  
+[^0087-1]: Thus A3; A1 स्थितः.  
 
---1) Thus corr. by A3 from A1 ॰भार्यादृ॰.  
+[^0087-2]: Thus corr. by A3 from A1 ॰देशानां.  
 
-0083.  
+[^0088-1]: Thus A3; A1 नरेन्द्राश्रितां.  
 
---1) A3 न्यग्रहीद्र॰.  
+[^0089-1]: A3 gloss काषट्ःएलतीर्थविषये यशस्करस्याग्रहारा अभवन्नित्याहुः लोकाः.  
 
-0086.  
+[^0090-1]: Thus corr. by A3 from A1 नृपा॰.  
 
---1) Thus A3; A1 ॰कामोपि नृपो भा॰.  
+[^0093-1]: Thus corr. by A3 from A1 विपाकपाकस्त॰.  
 
-0087.  
+[^0095-1]: Thus corr. by A3 from A1 ॰देवस्य.  
 
---1) Thus A3; A1 स्थितः.  
+[^0096-1]: Thus A1; A3 निरवास्यत; perhaps to be emended निरवत्स्यत.  
 
---2) Thus corr. by A3 from A1 ॰देशानां.  
-
-0088.  
-
---1) Thus A3; A1 नरेन्द्राश्रितां.  
-
-0089.  
-
---1) A3 gloss काषट्ःएलतीर्थविषये यशस्करस्याग्रहारा अभवन्नित्याहुः लोकाः.  
-
-0090.  
-
---1) Thus corr. by A3 from A1 नृपा॰.  
-
-0093.  
-
---1) Thus corr. by A3 from A1 विपाकपाकस्त॰.  
-
-0095.  
-
---1) Thus corr. by A3 from A1 ॰देवस्य.  
-
-0096.  
-
---1) Thus A1; A3 निरवास्यत; perhaps to be emended निरवत्स्यत.  
-
-0098.  
-
---1) A4 gloss एकाहं राजभूतस्य वर्णटस्य पुरुषो भृत्यः.  
+[^0098-1]: A4 gloss एकाहं राजभूतस्य वर्णटस्य पुरुषो भृत्यः.  
 
 [page 94]  
 
@@ -9432,43 +7756,27 @@ Colophon.
 विरोधकारिणं बुद्धाभिधेन सह सूनुना । KRT_6_0126ab  
 निर्द्रोहमाहवे हत्वा मन्त्रिणं रामवर्धनम् ॥ KRT_6_0126cd  
 
-0102.  
+[^0102-1]: Thus corr. by later hand from A1 बद्धा.  
 
---1) Thus corr. by later hand from A1 बद्धा.  
+[^0108-1]: A3 gloss, partly effaced चक्र.... जने.... क्ररक्षा.... चक्रमेल.... वे.... .  
 
-0108.  
+[^0109-1]: A3 gloss अतिक्रान्ताचारम्.  
 
---1) A3 gloss, partly effaced चक्र.... जने.... क्ररक्षा.... चक्रमेल.... वे.... .  
+[^0110-1]: A4 gloss चक्रभानुद्विजमातुलेन.  
 
-0109.  
+[^0110-2]: A3 gloss सन्धिविग्रहशुद्धान्तमुख्यकर्माधिकारी सान्धिविग्राहिकः कटकपालः.  
 
---1) A3 gloss अतिक्रान्ताचारम्.  
+[^0114-1]: नव supplied by A3 in space left by A1.  
 
-0110.  
+[^0115-1]: A4 gloss सङ्ग्रामदेवस्य.  
 
---1) A4 gloss चक्रभानुद्विजमातुलेन.  
+[^0115-2]: A2 gloss प्रभुरभूत्.  
 
---2) A3 gloss सन्धिविग्रहशुद्धान्तमुख्यकर्माधिकारी सान्धिविग्राहिकः कटकपालः.  
+[^0116-1]: Emended with G Edd; A1 एव साङ्क्रान्तिः which A3 alters to एवमाक्रान्तिः.  
 
-0114.  
+[^0117-1]: Thus A3; A1 स्फुटम्.  
 
---1) नव supplied by A3 in space left by A1.  
-
-0115.  
-
---1) A4 gloss सङ्ग्रामदेवस्य.  
-
---2) A2 gloss प्रभुरभूत्.  
-
-0116.  
-
---1) Emended with G Edd; A1 एव साङ्क्रान्तिः which A3 alters to एवमाक्रान्तिः.  
-
-0117.  
-
---1) Thus A3; A1 स्फुटम्.  
-
---2) A2 gloss राज्ञा पार्थिवः राजानकः मन्त्री । राज्ञः अनः प्राणनं । जिवनं धरित्रीरक्षणलक्षणं । यस्मात्सः राजानः अनश्वसप्राणने । राजान एव राजानकः । स्वार्थे कः यद्वा अत्र लिङ्गात् । कः सादृश्ये देवदत्त इव देवदत्तक इतिवत् । यथा प्राणनं विना देहस्थितिर्नास्ति । तथा धीसचिवं मन्त्त्रिणं विना पार्थिवानां स्वयं कार्याकार्यविवेककौशलातिशयो न सम्भवेदिति । राजानकमपेक्षते राजा ॥ यद्वा राज्ञः अनः प्राण इव राजानक इत्यर्थः ॥.  
+[^0117-2]: A2 gloss राज्ञा पार्थिवः राजानकः मन्त्री । राज्ञः अनः प्राणनं । जिवनं धरित्रीरक्षणलक्षणं । यस्मात्सः राजानः अनश्वसप्राणने । राजान एव राजानकः । स्वार्थे कः यद्वा अत्र लिङ्गात् । कः सादृश्ये देवदत्त इव देवदत्तक इतिवत् । यथा प्राणनं विना देहस्थितिर्नास्ति । तथा धीसचिवं मन्त्त्रिणं विना पार्थिवानां स्वयं कार्याकार्यविवेककौशलातिशयो न सम्भवेदिति । राजानकमपेक्षते राजा ॥ यद्वा राज्ञः अनः प्राण इव राजानक इत्यर्थः ॥.  
 
 [page 95]  
 
@@ -9529,47 +7837,29 @@ Colophon.
 द्यूतासवाङ्गनासेवाव्यसनेपि स पार्थिवः । KRT_6_0153ab  
 विटनिर्लुण्द्यमानोपि नाभूल्लक्ष्मीबहिष्कृतः ॥ KRT_6_0153cd  
 
-0127.  
+[^0127-1]: Thus corr. by A3 from A1 ॰हृतम्.  
 
---1) Thus corr. by A3 from A1 ॰हृतम्.  
+[^0129-1]: चक्कलकम् added by A3.  
 
-0129.  
+[^0130-1]: Thus corr. by A3 from A1 विशोके.  
 
---1) चक्कलकम् added by A3.  
+[^0130-2]: Thus A3; A1 तथा.  
 
-0130.  
+[^0131-1]: Thus A1; A3 केचित्तत्प्रत्य॰.  
 
---1) Thus corr. by A3 from A1 विशोके.  
+[^0132-1]: Thus A3; A1 द्रोहाद्द्वै॰.  
 
---2) Thus A3; A1 तथा.  
+[^0138-1]: A3 gloss कौलीनं लोकनिन्दां.  
 
-0131.  
+[^0138-2]: Thus corr. by A3 from A1 ॰मधुनाद॰.  
 
---1) Thus A1; A3 केचित्तत्प्रत्य॰.  
+[^0140-1]: Thus corr. by A3 from A1 निर्वाण॰.  
 
-0132.  
+[^0141-1]: A3 gloss अस्मीति निपातः अहमित्यर्थे.  
 
---1) Thus A3; A1 द्रोहाद्द्वै॰.  
+[^0152-1]: Thus A1; A3 ॰वेशा॰.  
 
-0138.  
-
---1) A3 gloss कौलीनं लोकनिन्दां.  
-
---2) Thus corr. by A3 from A1 ॰मधुनाद॰.  
-
-0140.  
-
---1) Thus corr. by A3 from A1 निर्वाण॰.  
-
-0141.  
-
---1) A3 gloss अस्मीति निपातः अहमित्यर्थे.  
-
-0152.  
-
---1) Thus A1; A3 ॰वेशा॰.  
-
---2) A3 gloss पतातयः.  
+[^0152-2]: A3 gloss पतातयः.  
 
 [page 96]  
 
@@ -9626,53 +7916,31 @@ Colophon.
 मातामहेन भूभर्तृवध्वास्तस्या व्यधीयत । KRT_6_0178ab  
 श्रीभीमशाहि[^0178-1]नोदात्तप्रासादो भीमकेशवः ॥ KRT_6_0178cd  
 
-0157.  
+[^0157-1]: Corr. by A3 from A1 ॰पालयः.  
 
---1) Corr. by A3 from A1 ॰पालयः.  
+[^0158-1]: Corr. by A3 from A1 घटनान्न॰.  
 
-0158.  
+[^0158-2]: मृगव्यज्ञा supplied by A3 in space left by A1.  
 
---1) Corr. by A3 from A1 घटनान्न॰.  
+[^0160-1]: Corr. A3 from A1 ॰नन्द्यत.  
 
---2) मृगव्यज्ञा supplied by A3 in space left by A1.  
+[^0165-1]: युग्मम् supplied by A3.  
 
-0160.  
+[^0166-1]: Thus corr. by A2: A1 ॰रक्षित्वा भिक्षा॰.  
 
---1) Corr. A3 from A1 ॰नन्द्यत.  
+[^0170-1]: Thus A3; A1 ॰न्विशेषतां.  
 
-0165.  
+[^0172-1]: Thus A3; A1 दग्ध्वा ततो.  
 
---1) युग्मम् supplied by A3.  
+[^0172-2]: Thus A3; A1 सङ्ग्राह्य.  
 
-0166.  
+[^0174-1]: Thus corr. by A3 from A1 कृत्वा.  
 
---1) Thus corr. by A2: A1 ॰रक्षित्वा भिक्षा॰.  
+[^0175-1]: A4 gloss सिंहराजाय.  
 
-0170.  
+[^0176-1]: Thus corr. by from A1 शतमुखो॰.  
 
---1) Thus A3; A1 ॰न्विशेषतां.  
-
-0172.  
-
---1) Thus A3; A1 दग्ध्वा ततो.  
-
---2) Thus A3; A1 सङ्ग्राह्य.  
-
-0174.  
-
---1) Thus corr. by A3 from A1 कृत्वा.  
-
-0175.  
-
---1) A4 gloss सिंहराजाय.  
-
-0176.  
-
---1) Thus corr. by from A1 शतमुखो॰.  
-
-0178.  
-
---1) Thus A3; A1 श्रीभूमिस्वामिनो॰. Cf. Alberuni's Indica(trans. by Sachau), ii. 13.  
+[^0178-1]: Thus A3; A1 श्रीभूमिस्वामिनो॰. Cf. Alberuni's Indica(trans. by Sachau), ii. 13.  
 
 [page 97]  
 
@@ -9733,55 +8001,33 @@ Colophon.
 श्रुत्वा समेतसैन्यं तं प्रत्यायातं प्रतापिनम् । KRT_6_0205ab  
 आस्कन्दशङ्किनी दिद्दा सामात्या समकम्पत ॥ KRT_6_0205cd  
 
-0179.  
+[^0179-1]: Thus corr. by later hand from A1 राज्ञो.  
 
---1) Thus corr. by later hand from A1 राज्ञो.  
+[^0180-1]: Thus corr. by A3 from A1 ॰द्गर्ह्याभू॰.  
 
-0180.  
+[^0181-1]: Thus corr. by A3 from A1 ॰प्रतिमान्प्रा॰.  
 
---1) Thus corr. by A3 from A1 ॰द्गर्ह्याभू॰.  
+[^0181-2]: A3 कुन्तान्.  
 
-0181.  
+[^0181-2]: Thus corr. by A3 from A1 श्राध्यामम॰.  
 
---1) Thus corr. by A3 from A1 ॰प्रतिमान्प्रा॰.  
+[^0182-1]: Thus corr. by A3 from A1 ॰टविटपे॰.  
 
---2) A3 कुन्तान्.  
+[^0185-1]: Thus corr. by A3 from A1 ॰तस्थितिः.  
 
---2) Thus corr. by A3 from A1 श्राध्यामम॰.  
+[^0187-1]: Thus corr. by A3 from A1 नवमेब्दे.  
 
-0182.  
+[^0189-1]: Thus corr. by A3 from A1 मन्त्रिवि॰.  
 
---1) Thus corr. by A3 from A1 ॰टविटपे॰.  
+[^0194-1]: A4 gloss सभर्तृकैव सती.  
 
-0185.  
+[^0195-1]: Thus corr. by A3 from A1 पत्न्यौ.  
 
---1) Thus corr. by A3 from A1 ॰तस्थितिः.  
+[^0195-2]: A1 ॰नुसरणं.  
 
-0187.  
+[^0199-1]: Thus A3; A1 तन्त्र॰.  
 
---1) Thus corr. by A3 from A1 नवमेब्दे.  
-
-0189.  
-
---1) Thus corr. by A3 from A1 मन्त्रिवि॰.  
-
-0194.  
-
---1) A4 gloss सभर्तृकैव सती.  
-
-0195.  
-
---1) Thus corr. by A3 from A1 पत्न्यौ.  
-
---2) A1 ॰नुसरणं.  
-
-0199.  
-
---1) Thus A3; A1 तन्त्र॰.  
-
-0202.  
-
---1) Thus corr. by later hand from A1 प्राप्य; A3 gloss प्राप्त इत्यर्थः.  
+[^0202-1]: Thus corr. by later hand from A1 प्राप्य; A3 gloss प्राप्त इत्यर्थः.  
 
 [page 98]  
 
@@ -9840,45 +8086,25 @@ Colophon.
 तद्देशं निमन्गाशैलदुर्गं प्रविशता जवात् । KRT_6_0231ab  
 अखण्डशक्तिना तेन बलादग्राहि थक्कनः ॥ KRT_6_0231cd  
 
-0206.  
+[^0206-1]: Corr. by later hand from A1 तत्र.  
 
---1) Corr. by later hand from A1 तत्र.  
+[^0211-1]: Thus corr. by later hand from A1 यो.  
 
-0211.  
+[^0213-1]: Emended; A R G ॰र्हिमका॰.  
 
---1) Thus corr. by later hand from A1 यो.  
+[^0216-1]: Thus corr. by A3 from A1 शक्तिसेवाभि॰.  
 
-0213.  
+[^0218-1]: Thus corr. by A3 from A1 तैर्लब्ध॰; A3 gloss तं महिमानं.  
 
---1) Emended; A R G ॰र्हिमका॰.  
+[^0220-1]: Thus A3; A2 एकैकं तं.  
 
-0216.  
+[^0227-1]: Thus corr. by A2 from A1 नमोस्तु.  
 
---1) Thus corr. by A3 from A1 शक्तिसेवाभि॰.  
+[^0228-1]: Emended; A R G समर्पयत्.  
 
-0218.  
+[^0229-1]: Thus A3; A1 दिद्दायाः. Cf. vi. 260.  
 
---1) Thus corr. by A3 from A1 तैर्लब्ध॰; A3 gloss तं महिमानं.  
-
-0220.  
-
---1) Thus A3; A2 एकैकं तं.  
-
-0227.  
-
---1) Thus corr. by A2 from A1 नमोस्तु.  
-
-0228.  
-
---1) Emended; A R G समर्पयत्.  
-
-0229.  
-
---1) Thus A3; A1 दिद्दायाः. Cf. vi. 260.  
-
-0230.  
-
---1) Thus corr. by A1 from ॰चिड्ढक्कना॰.  
+[^0230-1]: Thus corr. by A1 from ॰चिड्ढक्कना॰.  
 
 [page 99]  
 
@@ -9933,71 +8159,43 @@ Colophon.
 बद्ध्वा महाशिलां कण्ठे वितस्ताम्भसि पातितः । KRT_6_0255ab  
 स्वदुर्नयफलं देव्याः प्रकोपेनानुभावितः ॥ KRT_6_0255cd  
 
-0232.  
+[^0232-1]: A2 gloss श्रीः एव लता.  
 
---1) A2 gloss श्रीः एव लता.  
+[^0233-1]: Thus corr. by later hand from A1 ॰देशः; R G as above.  
 
-0233.  
+[^0234-1]: Thus corr. by A3 from A1 ॰न्योन्यरागः.  
 
---1) Thus corr. by later hand from A1 ॰देशः; R G as above.  
+[^0236-1]: Thus A1; A3 स्वसंवादा॰.  
 
-0234.  
+[^0238-1]: A3 gloss एकाक्षेपेखिलैः कोपो विधेय इत्येवंरूपां.  
 
---1) Thus corr. by A3 from A1 ॰न्योन्यरागः.  
+[^0239-1]: मुख्या supplied by A3 in space left by A1.  
 
-0236.  
+[^0241-1]: Thus corr. by A3 from A1 नोपपाट॰.  
 
---1) Thus A1; A3 स्वसंवादा॰.  
+[^0245-1]: Thus corr. by A3 from A1 अधावद्वि॰.  
 
-0238.  
+[^0245-2]: The words from चैलुः to सैन्यं in the following verse are omitted by A1 and supplied in margin by A3.  
 
---1) A3 gloss एकाक्षेपेखिलैः कोपो विधेय इत्येवंरूपां.  
+[^0246-1]: A3 ॰न्निजान्.  
 
-0239.  
+[^0247-1]: Thus A1; A3 G R विनेश्वरम्.  
 
---1) मुख्या supplied by A3 in space left by A1.  
+[^0248-1]: Thus corr. by later hand from A1 लोट॰.  
 
-0241.  
+[^0248-2]: तिमवहत्त supplied by A3 in space left by A1.  
 
---1) Thus corr. by A3 from A1 नोपपाट॰.  
+[^0250-1]: Emended with C; A R G ॰रवष्टम्भि.  
 
-0245.  
+[^0251-1]: Thus A; R G ऐर॰.  
 
---1) Thus corr. by A3 from A1 अधावद्वि॰.  
+[^0254-1]: Thus corr. by A3 from A1 काश्मीरका॰.  
 
---2) The words from चैलुः to सैन्यं in the following verse are omitted by A1 and supplied in margin by A3.  
+[^0254-2]: Thus corr. by A2 from A1 ॰शुष्कोच्छेता.  
 
-0246.  
+[^0254-3]: Thus corr. by A3 from A1 गमान्तरे.  
 
---1) A3 ॰न्निजान्.  
-
-0247.  
-
---1) Thus A1; A3 G R विनेश्वरम्.  
-
-0248.  
-
---1) Thus corr. by later hand from A1 लोट॰.  
-
---2) तिमवहत्त supplied by A3 in space left by A1.  
-
-0250.  
-
---1) Emended with C; A R G ॰रवष्टम्भि.  
-
-0251.  
-
---1) Thus A; R G ऐर॰.  
-
-0254.  
-
---1) Thus corr. by A3 from A1 काश्मीरका॰.  
-
---2) Thus corr. by A2 from A1 ॰शुष्कोच्छेता.  
-
---3) Thus corr. by A3 from A1 गमान्तरे.  
-
---4) Thus corr. by A3 from A1 ॰हार॰.  
+[^0254-4]: Thus corr. by A3 from A1 ॰हार॰.  
 
 [page 100]  
 
@@ -10058,29 +8256,19 @@ Colophon.
 उत्पिञ्ज[^0282-1]भितया राज्ञ्या त्यक्त्वा परिभवत्रपाम् । KRT_6_0282ab  
 ते यत्नात्समपद्यन्त मानः स्वार्थार्थिनां कुतः ॥ KRT_6_0282cd  
 
-0265.  
+[^0265-1]: A3 gloss स्यनौ सुरागृहे गञ्जा भण्डागारे पुमानथेति कोशः.  
 
---1) A3 gloss स्यनौ सुरागृहे गञ्जा भण्डागारे पुमानथेति कोशः.  
+[^0265-2]: Thus A R G; perhaps, to be emended with G sec. manu गञ्जाध्यक्षस्ततः क्रमात्.  
 
---2) Thus A R G; perhaps, to be emended with G sec. manu गञ्जाध्यक्षस्ततः क्रमात्.  
+[^0266-1]: Thus emended according to conjectural reading ( sec manu) in G; A R G ( prima manu) नवायामदि॰.  
 
-0266.  
+[^0269-1]: Emended; A1 वंत्स्यति; G P वत्स्यति; R भर्त्स्यति; C वत्स्यति.  
 
---1) Thus emended according to conjectural reading ( sec manu) in G; A R G ( prima manu) नवायामदि॰.  
+[^0271-1]: A3 ॰वृत्ताप॰.  
 
-0269.  
+[^0271-2]: A3 तन्मृतातथा.  
 
---1) Emended; A1 वंत्स्यति; G P वत्स्यति; R भर्त्स्यति; C वत्स्यति.  
-
-0271.  
-
---1) A3 ॰वृत्ताप॰.  
-
---2) A3 तन्मृतातथा.  
-
-0274.  
-
---1) Thus A3; A1 किन्ताव॰.  
+[^0274-1]: Thus A3; A1 किन्ताव॰.  
 
 [page 101]  
 
@@ -10143,33 +8331,19 @@ Colophon.
 चर्षणी[^0310-1] वर्षमात्रेण शान्तशोका बभूव सा । KRT_6_0310ab  
 भोगोत्सुकार्भके तस्मिन्नप्तरि व्यभिचारकृत् ॥ KRT_6_0310cd  
 
-0292.  
+[^0292-1]: Thus A R G; Edd. वर्धमानः, found also sec. manu in R G. A2 gloss अर्धवयाः खण्डबिम्बश्च.  
 
---1) Thus A R G; Edd. वर्धमानः, found also sec. manu in R G. A2 gloss अर्धवयाः खण्डबिम्बश्च.  
+[^0300-1]: Thus A R G.  
 
-0300.  
+[^0303-1]: Thus corr. by A3 from A1 जनाश्र॰.  
 
---1) Thus A R G.  
+[^0304-1]: स्थित्यै omitted by A1 and supplied in margin by A2.  
 
-0303.  
+[^0306-1]: Thus A3; A1 श्रुताः.  
 
---1) Thus corr. by A3 from A1 जनाश्र॰.  
+[^0309-1]: Thus A1; A2 ॰विरतौ.  
 
-0304.  
-
---1) स्थित्यै omitted by A1 and supplied in margin by A2.  
-
-0306.  
-
---1) Thus A3; A1 श्रुताः.  
-
-0309.  
-
---1) Thus A1; A2 ॰विरतौ.  
-
-0320.  
-
---1) A2 gloss चर्मणी असती इत्यर्थः.  
+[^0320-1]: A2 gloss चर्मणी असती इत्यर्थः.  
 
 [page 102]  
 
@@ -10230,49 +8404,29 @@ Colophon.
 त्रिहितैक्येषु विप्रेषु लोकः सर्वोपि विप्लुतः । KRT_6_0337ab  
 अन्वियेषान्वहं तुङ्गं तत्र तत्र जिघांसया ॥ KRT_6_0337cd  
 
-0311.  
+[^0311-1]: Thus A1; A3 एकोनप॰.  
 
---1) Thus A1; A3 एकोनप॰.  
+[^0312-1]: Thus corr. by later hand from A1 मार्गशीर्ष.  
 
-0312.  
+[^0315-1]: बभूव साथ supplied by A3 in space left by A1.  
 
---1) Thus corr. by later hand from A1 मार्गशीर्ष.  
+[^0318-1]: A4 gloss बोदोल् ग्रामः.  
 
-0315.  
+[^0319-1]: ख supplied by A3 in space left by A1.  
 
---1) बभूव साथ supplied by A3 in space left by A1.  
+[^0320-1]: Corr. by A3 from A1 सन्धि॰.  
 
-0318.  
+[^0320-2]: Thus A1; A3 ॰कान्तरे.  
 
---1) A4 gloss बोदोल् ग्रामः.  
+[^0325-1]: Thus corr. by A3 from A1 कौटिन्य॰.  
 
-0319.  
+[^0329-1]: Thus corr. by A3 from A1 अभिमत्यव॰.  
 
---1) ख supplied by A3 in space left by A1.  
+[^0333-1]: धारे supplied by A3 in space left by A1.  
 
-0320.  
+[^0336-1]: A3 gloss प्रावः भोजनत्यागः.  
 
---1) Corr. by A3 from A1 सन्धि॰.  
-
---2) Thus A1; A3 ॰कान्तरे.  
-
-0325.  
-
---1) Thus corr. by A3 from A1 कौटिन्य॰.  
-
-0329.  
-
---1) Thus corr. by A3 from A1 अभिमत्यव॰.  
-
-0333.  
-
---1) धारे supplied by A3 in space left by A1.  
-
-0336.  
-
---1) A3 gloss प्रावः भोजनत्यागः.  
-
---2) Thus A1; A3 प्रायोजयद्द्वि॰.  
+[^0336-2]: Thus A1; A3 प्रायोजयद्द्वि॰.  
 
 [page 103]  
 
@@ -10333,31 +8487,21 @@ Colophon.
 काष्ठं बह्न्युज्झितमपि भवेच्छीतशान्त्यै कपीनां लोम्नां शुद्ध्यै सलिलमनलश्चाग्नि[^0364-1]शौचैणकानाम् । KRT_6_0364ab  
 जन्तोर्भावा विदधति यथा भाविनः[^0364-2] कार्यसिद्धिं तत्त्वं तेषां क्वचन वस्तुतो नास्ति किंचित् ॥ KRT_6_0364cd  
 
-0350.  
+[^0350-1]: Thus A3; A1 ॰दुर्गतिं दृष्ट्वा.  
 
---1) Thus A3; A1 ॰दुर्गतिं दृष्ट्वा.  
+[^0350-2]: Thus corr. by later hand from A1 भैष॰.  
 
---2) Thus corr. by later hand from A1 भैष॰.  
+[^0353-1]: नष्टस्था supplied by A3 in space left by A1.  
 
-0353.  
+[^0358-1]: राजं omitted by A1 and supplied by A3.  
 
---1) नष्टस्था supplied by A3 in space left by A1.  
+[^0361-1]: Thus corr. by A1 व्यसने संप्रविश्या॰.  
 
-0358.  
+[^0361-2]: Thus corr. by A3 from A1 ॰विहीनां.  
 
---1) राजं omitted by A1 and supplied by A3.  
+[^0364-1]: A3 gloss अग्निशौचा मृगा अग्निमश्नन्ति विषमूषकाः विषं च न विपद्यन्ते जीविता-----.  
 
-0361.  
-
---1) Thus corr. by A1 व्यसने संप्रविश्या॰.  
-
---2) Thus corr. by A3 from A1 ॰विहीनां.  
-
-0364.  
-
---1) A3 gloss अग्निशौचा मृगा अग्निमश्नन्ति विषमूषकाः विषं च न विपद्यन्ते जीविता-----.  
-
---2) A3 यथाभावनं.  
+[^0364-2]: A3 यथाभावनं.  
 
 [page 104]  
 
@@ -10373,33 +8517,25 @@ Colophon.
 विसकुलनिभशोभानिह्नुतप्राणसारः फणकुल[^0368-1] उरगाणामीशितेव न्यधत्त ॥ KRT_6_0368cd  
 
 
-(1)इति श्रीकाश्मीरिकमहामात्यचप्पकप्रभुसूनोः कल्हणस्य कृतौ राजतरङ्गिण्यां षष्ठस्तरङ्गः(2) ॥  
+[^col-1]इति श्रीकाश्मीरिकमहामात्यचप्पकप्रभुसूनोः कल्हणस्य कृतौ राजतरङ्गिण्यां षष्ठस्तरङ्गः[^col-2] ॥  
 अत्र वर्षचतुःषष्टौ मासेप्यर्धे दिनेषु च ।  
-अष्टस्वभूवन्भूपाला दश भूभोगभोगिनः(3) ॥  
+अष्टस्वभूवन्भूपाला दश भूभोगभोगिनः[^col-3] ॥  
 
-0366.  
+[^0366-1]: Thus corr. by later hand from A1 ॰वंशा॰.  
 
---1) Thus corr. by later hand from A1 ॰वंशा॰.  
+[^0367-1]: Thus corr. by A3 from A1 निष्पन्नक॰.  
 
-0367.  
+[^0367-2]: Thus corr. by A2 from A1 सालवा॰; R G as above.  
 
---1) Thus corr. by A3 from A1 निष्पन्नक॰.  
+[^0367-3]: A3 प्ररूढिम्.  
 
---2) Thus corr. by A2 from A1 सालवा॰; R G as above.  
+[^0368-1]: Thus corr. by A3 from A1 फलकुल.  
 
---3) A3 प्ररूढिम्.  
+[^col-1]: A3 inserts here the note: रा॰ 10 ग्र 369 ॥ आदितः रा॰ 92 ग्रन्थः 1663 ॥.  
 
-0368.  
+[^col-2]: A1 adds here: लिखितश्चैष राजानकरत्नकण्टेन.  
 
---1) Thus corr. by A3 from A1 फलकुल.  
-
-Colophon.  
-
---1) A3 inserts here the note: रा॰ 10 ग्र 369 ॥ आदितः रा॰ 92 ग्रन्थः 1663 ॥.  
-
---2) A1 adds here: लिखितश्चैष राजानकरत्नकण्टेन.  
-
---3) A3 भागिनः.  
+[^col-3]: A3 भागिनः.  
 
 [page 105]  
 
@@ -10450,41 +8586,27 @@ Colophon.
 स व्यक्तीभूतकौटिल्यः संग्रामं सुचिरं व्यधात् । KRT_7_0021ab  
 अपद्वारैस्तु ते विप्राः पलाय्य स्वगृहान्ययुः ॥ KRT_7_0021cd  
 
-0001.  
+[^0001-1]: A3 निर्मिते.  
 
---1) A3 निर्मिते.  
+[^0002-1]: A3 gloss भुवं क्षान्तिं च.  
 
-0002.  
+[^0002-2]: A3 gloss सेनापतीन् समुद्रांश्च.  
 
---1) A3 gloss भुवं क्षान्तिं च.  
+[^0005-1]: गा supplied by A2.  
 
---2) A3 gloss सेनापतीन् समुद्रांश्च.  
+[^0008-1]: A3 gloss कोशं । दिव्यं । अपाययत् अकारयत् । पीतकोशान् कृतवती इत्यर्थः.  
 
-0005.  
+[^0015-1]: Thus corr. by A3 from A1 प्रार्थितो.  
 
---1) गा supplied by A2.  
+[^0015-2]: A3 ॰प्रायैस्तु॰.  
 
-0008.  
+[^0016-1]: Thus corr. by A3 from A1 राज्ञस्तु॰.  
 
---1) A3 gloss कोशं । दिव्यं । अपाययत् अकारयत् । पीतकोशान् कृतवती इत्यर्थः.  
+[^0016-2]: A3 gloss निःसारणं.  
 
-0015.  
+[^0017-1]: यं supplied by A3.  
 
---1) Thus corr. by A3 from A1 प्रार्थितो.  
-
---2) A3 ॰प्रायैस्तु॰.  
-
-0016.  
-
---1) Thus corr. by A3 from A1 राज्ञस्तु॰.  
-
---2) A3 gloss निःसारणं.  
-
-0017.  
-
---1) यं supplied by A3.  
-
---2) A4 gloss तुङ्गगृहे.  
+[^0017-2]: A4 gloss तुङ्गगृहे.  
 
 [page 106]  
 
@@ -10545,37 +8667,23 @@ Colophon.
 राजपुत्रमहामात्यसामन्तादिनिरन्तरम् । KRT_7_0048ab  
 सैन्यं तमन्वगाद्भूरि भुवनक्षोभनक्षमम् ॥ KRT_7_0048cd  
 
-0024.  
+[^0024-1]: A4 gloss तुङ्गानुजेन.  
 
---1) A4 gloss तुङ्गानुजेन.  
+[^0035-1]: A3 gloss वृद्धिकरः.  
 
-0035.  
+[^0037-1]: Thus emended with C; A R G ,,सीद्स्यल॰.  
 
---1) A3 gloss वृद्धिकरः.  
+[^0039-1]: A2 gloss गोमयविक्रयित्वं.  
 
-0037.  
+[^0039-2]: Thus corr. by A3 from A1 ॰क्रयिकादि.  
 
---1) Thus emended with C; A R G ,,सीद्स्यल॰.  
+[^0040-1]: Thus first half of this verse has been omitted by A1 and supplied by A3 in margin.  
 
-0039.  
+[^0042-1]: Thus corr. by A3 from A1 ॰कारी.  
 
---1) A2 gloss गोमयविक्रयित्वं.  
+[^0047-1]: A4 gloss तुरुष्कसमरे.  
 
---2) Thus corr. by A3 from A1 ॰क्रयिकादि.  
-
-0040.  
-
---1) Thus first half of this verse has been omitted by A1 and supplied by A3 in margin.  
-
-0042.  
-
---1) Thus corr. by A3 from A1 ॰कारी.  
-
-0047.  
-
---1) A4 gloss तुरुष्कसमरे.  
-
---2) A4 gloss तुङ्गं.  
+[^0047-2]: A4 gloss तुङ्गं.  
 
 [page 107]  
 
@@ -10636,61 +8744,35 @@ Colophon.
 कोशादिस्मरणा[^0075-1]द्राजा चिरं दोलायमानधीः । KRT_7_0075ab  
 अभीक्ष्णप्रेरणोद्विग्नः प्रेरकानब्रवीत्ततः ॥ KRT_7_0075cd  
 
-0049.  
+[^0049-1]: Thus A3; A1 स तथा.  
 
---1) Thus A3; A1 स तथा.  
+[^0050-1]: र supplied by A3 in space left by A1.  
 
-0050.  
+[^0050-2]: Thus corr. by A3 from A1 ॰पश्यत्तं.  
 
---1) र supplied by A3 in space left by A1.  
+[^0052-1]: Thus corr. by A3 from A1 ॰नोक्ताः.  
 
---2) Thus corr. by A3 from A1 ॰पश्यत्तं.  
+[^0053-1]: Thus A1; altered by later hand to हस्मी॰; G as above.  
 
-0052.  
+[^0053-2]: Thus corr. by A2 from A1 ॰प्राय; A3 gloss तौषी नाम नदी.  
 
---1) Thus corr. by A3 from A1 ॰नोक्ताः.  
+[^0054-1]: स्त supplied by A3.  
 
-0053.  
+[^0056-1]: Thus A3; A1 ॰रेणोद्गच्छ॰.  
 
---1) Thus A1; altered by later hand to हस्मी॰; G as above.  
+[^0058-1]: Thus A3 with gloss सङ्ग्रामस्यापत्यं साङ्ग्रामिः; A1 सङ्ग्रामे.  
 
---2) Thus corr. by A2 from A1 ॰प्राय; A3 gloss तौषी नाम नदी.  
+[^0063-1]: Thus A3; A1 रिपुम॰.  
 
-0054.  
+[^0068-1]: A3 gloss यस्य देशस्य भूमेः वैपुल्यं.  
 
---1) स्त supplied by A3.  
+[^0072-1]: पशोर supplied by A3 in space left by A1.  
 
-0056.  
+[^0073-1]: Emended; A राज्यो॰.  
 
---1) Thus A3; A1 ॰रेणोद्गच्छ॰.  
+[^0074-1]: Thus A1; altered by later hand to भूभुजाम् which is found also in G R.  
 
-0058.  
-
---1) Thus A3 with gloss सङ्ग्रामस्यापत्यं साङ्ग्रामिः; A1 सङ्ग्रामे.  
-
-0063.  
-
---1) Thus A3; A1 रिपुम॰.  
-
-0068.  
-
---1) A3 gloss यस्य देशस्य भूमेः वैपुल्यं.  
-
-0072.  
-
---1) पशोर supplied by A3 in space left by A1.  
-
-0073.  
-
---1) Emended; A राज्यो॰.  
-
-0074.  
-
---1) Thus A1; altered by later hand to भूभुजाम् which is found also in G R.  
-
-0075.  
-
---1) A3 gloss वयं देव्या पीतकोशः कृता इति स्मरणात्.  
+[^0075-1]: A3 gloss वयं देव्या पीतकोशः कृता इति स्मरणात्.  
 
 [page 108]  
 
@@ -10753,41 +8835,25 @@ Colophon.
 प्रशान्ते तुमुले बिम्बा चतुर्भिर्दिवसैः सती । KRT_7_0103ab  
 तुङ्गस्नुषा सुता शाहेः प्रविवेश हुताशनम् ॥ KRT_7_0103cd  
 
-0077.  
+[^0077-1]: Thus corr. by A3 from A1 ह्ययमा॰.  
 
---1) Thus corr. by A3 from A1 ह्ययमा॰.  
+[^0079-1]: Thus corr. by A3 from A1 गृहान्.  
 
-0079.  
+[^0084-1]: Emended; A R G रुद्धश्वासो॰.  
 
---1) Thus corr. by A3 from A1 गृहान्.  
+[^0087-1]: च supplied by A3 in space left by A1.  
 
-0084.  
+[^0092-1]: Thus corr. by A3 from A1 रञ्जन्तेर्गलितं हतः.  
 
---1) Emended; A R G रुद्धश्वासो॰.  
+[^0095-1]: Thus corr. by A3 from A1 ॰ख्य कृत्वा.  
 
-0087.  
+[^0095-2]: A1 निस्सृतो; A3 निसृतो.  
 
---1) च supplied by A3 in space left by A1.  
+[^0100-1]: Thus corr. by A3 from A1 भ्रातृपुत्रसुत॰.  
 
-0092.  
+[^0102-1]: Emended; A ॰चर्षिणी.  
 
---1) Thus corr. by A3 from A1 रञ्जन्तेर्गलितं हतः.  
-
-0095.  
-
---1) Thus corr. by A3 from A1 ॰ख्य कृत्वा.  
-
---2) A1 निस्सृतो; A3 निसृतो.  
-
-0100.  
-
---1) Thus corr. by A3 from A1 भ्रातृपुत्रसुत॰.  
-
-0102.  
-
---1) Emended; A ॰चर्षिणी.  
-
---2) A3 gloss रक्षो हि रात्रौ चरति.  
+[^0102-2]: A3 gloss रक्षो हि रात्रौ चरति.  
 
 [page 109]  
 
@@ -10848,51 +8914,31 @@ Colophon.
 अचिरस्थायिनी राज्ञस्तस्याज्ञाचिन्तितोन्न[^0130-1]तिः । KRT_7_0130ab  
 वन्द्या नवेन्दुलेखेव पार्थिवानामजायत ॥ KRT_7_0130cd  
 
-0104.  
+[^0104-1]: A3 gloss कन्द्र्पसिंहः.  
 
---1) A3 gloss कन्द्र्पसिंहः.  
+[^0105-1]: युग्मम्. added by A3.  
 
-0105.  
+[^0110-1]: Emended with G C; A R भूभर्तुः सतङ्गः.  
 
---1) युग्मम्. added by A3.  
+[^0113-1]: A3 gloss कोशलिकार्थं.  
 
-0110.  
+[^0117-1]: Thus A1; A3 ॰पदेर्पणम्.  
 
---1) Emended with G C; A R भूभर्तुः सतङ्गः.  
-
-0113.  
-
---1) A3 gloss कोशलिकार्थं.  
-
-0117.  
-
---1) Thus A1; A3 ॰पदेर्पणम्.  
-
-0124.  
-
---1) Thus corr. by A3 from A1 ॰लक्ष्मीं.  
+[^0124-1]: Thus corr. by A3 from A1 ॰लक्ष्मीं.  
 
 0125.  
 
-0126.  
+[^0126-1]: Thus words from गञ्जादिगञ्जस्रष्टा॰ to मयग्रामीण in the following verse have been omitted by A1 and supplied in margin by A3; they are found in G R.  
 
---1) Thus words from गञ्जादिगञ्जस्रष्टा॰ to मयग्रामीण in the following verse have been omitted by A1 and supplied in margin by A3; they are found in G R.  
+[^0128-1]: A3 gloss पण्डितैः पुपैश्च.  
 
-0128.  
+[^0128-2]: A3 gloss आकाङ्क्षा दिशश्च.  
 
---1) A3 gloss पण्डितैः पुपैश्च.  
+[^0128-2]: A3 gloss शैत्यं तोषश्च.  
 
---2) A3 gloss आकाङ्क्षा दिशश्च.  
+[^0129-1]: Thus corr. by A3 from A1 पुण्यबोध्यां and निषीथिन्यां.  
 
---2) A3 gloss शैत्यं तोषश्च.  
-
-0129.  
-
---1) Thus corr. by A3 from A1 पुण्यबोध्यां and निषीथिन्यां.  
-
-0130.  
-
---1) Thus A3; A1 ॰ज्ञाचिन्तनोन्नतिः.  
+[^0130-1]: Thus A3; A1 ॰ज्ञाचिन्तनोन्नतिः.  
 
 [page 110]  
 
@@ -10955,51 +9001,31 @@ Colophon.
 विनयच्छन्नशौटीर्य[^0158-1]ः शिशुप्राaय[^0158-2]ः स भूपतिः । KRT_7_0158ab  
 दृष्ट्वा बलमसंभाव्यं तस्मिंस्त्यक्त्वा रणं गते ॥ KRT_7_0158cd  
 
-0133.  
-
---1) त्यविगाता supplied by A3 in space left by A1.  
+[^0133-1]: त्यविगाता supplied by A3 in space left by A1.  
 
 0135.,  
 
 --1) A4 gloss तस्या अपरः पुत्रः.  
 
-0136.  
+[^0136-1]: Thus A3; A1 रत्नं.  
 
---1) Thus A3; A1 रत्नं.  
+[^0139-1]: Thus A R; G C हन्तुं.  
 
-0139.  
+[^0141-1]: Thus corr. by A3 from A1 प्रविष्टो.  
 
---1) Thus A R; G C हन्तुं.  
+[^0147-1]: Thus corr. by A3 from A1 ॰मापटले.  
 
-0141.  
+[^0150-1]: प supplied by A3.  
 
---1) Thus corr. by A3 from A1 प्रविष्टो.  
+[^0151-1]: मास supplied by A3 in space left by A1.  
 
-0147.  
+[^0152-1]: Thus A1; A3 किंचिदिव.  
 
---1) Thus corr. by A3 from A1 ॰मापटले.  
+[^0157-1]: A3 gloss चचाल.  
 
-0150.  
+[^0158-1]: A3 gloss शौटीर्यं अभिमानः प्रागल्भ्यं वा.  
 
---1) प supplied by A3.  
-
-0151.  
-
---1) मास supplied by A3 in space left by A1.  
-
-0152.  
-
---1) Thus A1; A3 किंचिदिव.  
-
-0157.  
-
---1) A3 gloss चचाल.  
-
-0158.  
-
---1) A3 gloss शौटीर्यं अभिमानः प्रागल्भ्यं वा.  
-
---2) A3 gloss शिशुसदृशः.  
+[^0158-2]: A3 gloss शिशुसदृशः.  
 
 [page 111]  
 
@@ -11060,43 +9086,27 @@ Colophon.
 पत्युर्नाम्नाप्यग्रहारान्प्रददावमरेश्वरे । KRT_7_0185ab  
 त्रिशूलबाणलिङ्गादिप्रतिष्ठाश्च विनिर्ममे ॥ KRT_7_0185cd  
 
-0159.  
+[^0159-1]: Thus corr. by A3 from A1 मोघवक्रियम्.  
 
---1) Thus corr. by A3 from A1 मोघवक्रियम्.  
+[^0162-1]: Supplied by A3.  
 
-0162.  
+[^0166-1]: Emended with G C; A कृपः.  
 
---1) Supplied by A3.  
+[^0167-1]: A3 gloss ब्रह्मराजेन.  
 
-0166.  
+[^0167-2]: दचलमङ्गलः supplied by A3 in space left by A1; A3 gloss नाम.  
 
---1) Emended with G C; A कृपः.  
+[^0168-1]: Thus A1; A3 स्यरपृष्ठा॰, with gloss स्वरोद् इति ग्रामः क्रमराज्ये.  
 
-0167.  
+[^0172-1]: Emended; A विदन्.  
 
---1) A3 gloss ब्रह्मराजेन.  
+[^0176-1]: A3 gloss उत्तंसभूताः या मुक्ताः कुम्तामणयः तासां यो द्योतः दीप्तिः स एवाम्भः तेन क्षालिता अस्रस्य रुधिरस्य झलज्झलाकाचकच्यं प्रकाशः स्फार इति यावत् यस्य तत् इति शिरोविशेषणम् । झलज्झला नु शोभायामिति कोशः मुक्ताफलदीप्तेरतिशुक्लत्वादम्भस्त्वेन रूपणम् । जलस्य हि शुक्लं रूपमिति वैशेषिकाः ॥.  
 
---2) दचलमङ्गलः supplied by A3 in space left by A1; A3 gloss नाम.  
+[^0176-2]: Thus corr. by A3 from A1 झलज्जलम्.  
 
-0168.  
+[^0176-2]: Thus corr. by A3 from A1 ॰रुपायनम्.  
 
---1) Thus A1; A3 स्यरपृष्ठा॰, with gloss स्वरोद् इति ग्रामः क्रमराज्ये.  
-
-0172.  
-
---1) Emended; A विदन्.  
-
-0176.  
-
---1) A3 gloss उत्तंसभूताः या मुक्ताः कुम्तामणयः तासां यो द्योतः दीप्तिः स एवाम्भः तेन क्षालिता अस्रस्य रुधिरस्य झलज्झलाकाचकच्यं प्रकाशः स्फार इति यावत् यस्य तत् इति शिरोविशेषणम् । झलज्झला नु शोभायामिति कोशः मुक्ताफलदीप्तेरतिशुक्लत्वादम्भस्त्वेन रूपणम् । जलस्य हि शुक्लं रूपमिति वैशेषिकाः ॥.  
-
---2) Thus corr. by A3 from A1 झलज्जलम्.  
-
---2) Thus corr. by A3 from A1 ॰रुपायनम्.  
-
-0177.  
-
---1) Thus A3; A1 तथा ह्येवं॰.  
+[^0177-1]: Thus A3; A1 तथा ह्येवं॰.  
 
 [page 112]  
 
@@ -11157,73 +9167,43 @@ Colophon.
 स तन्निवारयामास भाविनां भूभुजां विदन् । KRT_7_0212ab  
 ज्ञानी[^0212-1] संचितवित्तस्य दण्डाद्यायासकारिताम् ॥ KRT_7_0212cd  
 
-0187.  
+[^0187-1]: Thus corr. by A3 from A1 रूढा.  
 
---1) Thus corr. by A3 from A1 रूढा.  
+[^0188-1]: Thus corr. by A3 from A1 ॰लुण्ठा.  
 
-0188.  
+[^0190-1]: Thus corr. by later hand from A1 ॰भोंजैः.  
 
---1) Thus corr. by A3 from A1 ॰लुण्ठा.  
+[^0192-1]: A3 gloss प्रतिज्ञां.  
 
-0190.  
+[^0192-2]: Thus corr. by later hand from A1 प्रहितै काशक॰.  
 
---1) Thus corr. by later hand from A1 ॰भोंजैः.  
+[^0192-3]: A3 gloss शेष इति भाषया.  
 
-0192.  
+[^0193-1]: A3 gloss ग्रामविशेषः.  
 
---1) A3 gloss प्रतिज्ञां.  
+[^0195-1]: Thus corr. by later hand from A1 ॰सनं.  
 
---2) Thus corr. by later hand from A1 प्रहितै काशक॰.  
+[^0196-1]: र्घ supplied by A3 in space left by A1.  
 
---3) A3 gloss शेष इति भाषया.  
+[^0200-1]: Thus corr. by later hand from A1 शीलेना.  
 
-0193.  
+[^0200-2]: Thus corr. by A3 from A1 गुह्यता॰/  
 
---1) A3 gloss ग्रामविशेषः.  
+[^0201-1]: Thus corr. by A3 from A1 ॰स्थान॰.  
 
-0195.  
+[^0203-1]: A3 gloss नापितः.  
 
---1) Thus corr. by later hand from A1 ॰सनं.  
+[^0204-1]: Thus corr. by later hand from A1 कैशवो.  
 
-0196.  
+[^0207-1]: Thus A1; A3 भूत्रिह॰.  
 
---1) र्घ supplied by A3 in space left by A1.  
+[^0209-1]: Thus A1; A3 ॰शुद्धेन.  
 
-0200.  
+[^0209-2]: Thus corr. by A3 from A1 ॰न्म्तरम्.  
 
---1) Thus corr. by later hand from A1 शीलेना.  
+[^0210-1]: Thus A1; A3 सर्वकार्यधु॰.  
 
---2) Thus corr. by A3 from A1 गुह्यता॰/  
-
-0201.  
-
---1) Thus corr. by A3 from A1 ॰स्थान॰.  
-
-0203.  
-
---1) A3 gloss नापितः.  
-
-0204.  
-
---1) Thus corr. by later hand from A1 कैशवो.  
-
-0207.  
-
---1) Thus A1; A3 भूत्रिह॰.  
-
-0209.  
-
---1) Thus A1; A3 ॰शुद्धेन.  
-
---2) Thus corr. by A3 from A1 ॰न्म्तरम्.  
-
-0210.  
-
---1) Thus A1; A3 सर्वकार्यधु॰.  
-
-0212.  
-
---1) Thus A3; A1 ज्ञाने.  
+[^0212-1]: Thus A3; A1 ज्ञाने.  
 
 [page 113]  
 
@@ -11286,39 +9266,25 @@ Colophon.
 दृष्ट्वान्येद्युर्नवं भूपं राजचक्रेण सेवितम् । KRT_7_0240ab  
 नवेतरं च सहितं परिमेयैः परिच्छदैः ॥ KRT_7_0240cd  
 
-0214.  
+[^0214-1]: Thus corr. by A3 from A1 कश्चित्स्व॰; A3 gloss क्चत् देदीप्यमानं स्वर्णं येषां तैः.  
 
---1) Thus corr. by A3 from A1 कश्चित्स्व॰; A3 gloss क्चत् देदीप्यमानं स्वर्णं येषां तैः.  
+[^0217-1]: Thus corr. by A3 from A1 ॰भवत्.  
 
-0217.  
+[^0217-2]: Thus A3; A1 जहत्.  
 
---1) Thus corr. by A3 from A1 ॰भवत्.  
+[^0220-1]: तुक्का supplied by A3 in space left by A1.  
 
---2) Thus A3; A1 जहत्.  
+[^0221-1]: Thus corr. by A3 from A1 मार्गात्सं॰.  
 
-0220.  
+[^0232-1]: सज्जं supplied by A3 in space left by A1.  
 
---1) तुक्का supplied by A3 in space left by A1.  
+[^0232-2]: A3 gloss तेनानन्तदेवेन रणादित्यनामा क्षत्ता प्रतीहारः अभिषेचनं सज्जं कारित इत्यन्वयः कथं भूतः एवंवादी अपि.  
 
-0221.  
+[^0233-1]: A2 gloss कलशः.  
 
---1) Thus corr. by A3 from A1 मार्गात्सं॰.  
+[^0233-2]: Thus corr. by later hand from A1 बहु॰; A2 gloss कार्तिकस्य.  
 
-0232.  
-
---1) सज्जं supplied by A3 in space left by A1.  
-
---2) A3 gloss तेनानन्तदेवेन रणादित्यनामा क्षत्ता प्रतीहारः अभिषेचनं सज्जं कारित इत्यन्वयः कथं भूतः एवंवादी अपि.  
-
-0233.  
-
---1) A2 gloss कलशः.  
-
---2) Thus corr. by later hand from A1 बहु॰; A2 gloss कार्तिकस्य.  
-
-0234.  
-
---1) प supplied by A2.  
+[^0234-1]: प supplied by A2.  
 
 [page 114]  
 
@@ -11464,73 +9430,41 @@ Colophon.
 कल्लनाख्या स्वसा राज्ञो नागाख्या च तदात्मजा । KRT_7_0293ab  
 परदारप्रसक्तेन संभोक्तुं नावशेषिता ॥ KRT_7_0293cd  
 
-0237.  
+[^0237-1]: Thus corr. by A3 from A1 सपर्थो and ॰न्देशाञ्चक्रे.  
 
---1) Thus corr. by A3 from A1 सपर्थो and ॰न्देशाञ्चक्रे.  
+[^0237-2]: A3 gloss राजविर्.  
 
---2) A3 gloss राजविर्.  
+[^0271-1]: A4 gloss कलशेन.  
 
-0271.  
+[^0271-2]: A4 gloss अनन्तदेवगञ्जपतेर्नागनाम्नी भृत्यस्य पुत्रः.  
 
---1) A4 gloss कलशेन.  
+[^0272-1]: A4 gloss हलधरेण.  
 
---2) A4 gloss अनन्तदेवगञ्जपतेर्नागनाम्नी भृत्यस्य पुत्रः.  
+[^0274-1]: Emended; A R G ॰भवद्विज्ज॰.  
 
-0272.  
+[^0275-1]: A4 gloss तुङ्गभ्रातुः.  
 
---1) A4 gloss हलधरेण.  
+[^0276-1]: Thus corr. by A3 from A1 तज्जनशि॰.  
 
-0274.  
+[^0278-1]: र supplied by A3; A3 gloss स्वा आत्मीया चासौ पुत्री तस्याः सुरते सम्भोगे.  
 
---1) Emended; A R G ॰भवद्विज्ज॰.  
+[^0272-1]: Thus A1; A3 निर्भयः.  
 
-0275.  
+[^0280-1]: Thus corr. by A3 from A1 विडाज॰.  
 
---1) A4 gloss तुङ्गभ्रातुः.  
+[^0281-1]: Thus corr. by A3 from A1 विडालनाम इत्या॰.  
 
-0276.  
+[^0282-1]: This verse has been omitted by A1 and added in margin by A3; found in R G.  
 
---1) Thus corr. by A3 from A1 तज्जनशि॰.  
+[^0285-1]: Thus A3; A1 ॰जागराद्रात्रौ.  
 
-0278.  
+[^0286-1]: Thus corr. by A3 from A1 क्षिप्रम॰.  
 
---1) र supplied by A3; A3 gloss स्वा आत्मीया चासौ पुत्री तस्याः सुरते सम्भोगे.  
+[^0289-1]: Thus corr. by A3 from A1 कौढ॰.  
 
-0272.  
+[^0291-1]: Thus A3; A1 कथामाप्तो - पाहेतुं.  
 
---1) Thus A1; A3 निर्भयः.  
-
-0280.  
-
---1) Thus corr. by A3 from A1 विडाज॰.  
-
-0281.  
-
---1) Thus corr. by A3 from A1 विडालनाम इत्या॰.  
-
-0282.  
-
---1) This verse has been omitted by A1 and added in margin by A3; found in R G.  
-
-0285.  
-
---1) Thus A3; A1 ॰जागराद्रात्रौ.  
-
-0286.  
-
---1) Thus corr. by A3 from A1 क्षिप्रम॰.  
-
-0289.  
-
---1) Thus corr. by A3 from A1 कौढ॰.  
-
-0291.  
-
---1) Thus A3; A1 कथामाप्तो - पाहेतुं.  
-
-0292.  
-
---1) Thus R G; A यश्चक्रे.  
+[^0292-1]: Thus R G; A यश्चक्रे.  
 
 [page 116]  
 
@@ -11589,45 +9523,27 @@ Colophon.
 सवविद्यानिधिं ज्येष्ठं नप्तॄणां बप्पिकात्मजम् । KRT_7_0319ab  
 हर्षं राज्ये चिकीर्षू च निन्यतुस्तां निशीथिनाम् ॥ KRT_7_0319cd  
 
-0295.  
+[^0295-1]: Thus A B G; C भिक्षुकः.  
 
---1) Thus A B G; C भिक्षुकः.  
+[^0295-2]: A2 gloss उयन् नाम ग्रामः.  
 
---2) A2 gloss उयन् नाम ग्रामः.  
+[^0298-1]: A3 gloss भ्रडीमइ.  
 
-0298.  
+[^0299-2]: The second half of this verse has been omitted by A1 and supplied by A3 in margin.  
 
---1) A3 gloss भ्रडीमइ.  
+[^0300-1]: A4 gloss मदनं वक्ष्यमाणं.  
 
-0299.  
+[^0300-2]: A4 gloss व्योमशिवेन.  
 
---2) The second half of this verse has been omitted by A1 and supplied by A3 in margin.  
+[^0301-1]: A1 indicate here a lacuna of two padas.  
 
-0300.  
+[^0307-1]:Thus corr. by two dots.  
 
---1) A4 gloss मदनं वक्ष्यमाणं.  
+[^0312-1]: A4 gloss चमकं विटं.  
 
---2) A4 gloss व्योमशिवेन.  
+[^0313-1]: Thus emended with C and G sec. manu; A ॰कटाक्षा.  
 
-0301.  
-
---1) A1 indicate here a lacuna of two padas.  
-
-0307.  
-
---1)Thus corr. by two dots.  
-
-0312.  
-
---1) A4 gloss चमकं विटं.  
-
-0313.  
-
---1) Thus emended with C and G sec. manu; A ॰कटाक्षा.  
-
-0314.  
-
---1) प suipplied by A3.  
+[^0314-1]: प suipplied by A3.  
 
 
 [page 117]  
@@ -11687,53 +9603,31 @@ Colophon.
 अथ प्रविश्य नगरं स प्रासादा[^0345-1]पवर्जितान् । KRT_7_0345ab  
 अशान्तमन्युरादाय लक्ष्मीं भूयो विनिर्ययौ ॥ KRT_7_0345cd  
 
-0320.  
+[^0320-1]: A3 gloss जयानन्दः नागपुत्रः तुङ्गभ्रातृपुत्रः.  
 
---1) A3 gloss जयानन्दः नागपुत्रः तुङ्गभ्रातृपुत्रः.  
+[^0324-1]: Thus corr. by A3 from A1 न व्याज्यं.  
 
-0324.  
+[^0329-1]: ण्डीनरपतेः and न्नवसरेभवत् supplied by A2 in space left by A1.  
 
---1) Thus corr. by A3 from A1 न व्याज्यं.  
+[^0330-1]: सिध्यतो supplied by A2 in space left by A1.  
 
-0329.  
+[^0330-2]: र्वनाशाद्वा बन्ध supplied by A2 in space left by A1.  
 
---1) ण्डीनरपतेः and न्नवसरेभवत् supplied by A2 in space left by A1.  
+[^0335-1]: Emended: A1 बन्धुं; A3 बन्द्धुं.  
 
-0330.  
+[^0336-1]: द्धतः supplied by A3 in space left by A1.  
 
---1) सिध्यतो supplied by A2 in space left by A1.  
+[^0337-1]: Emended; A बिश्चाव॰.  
 
---2) र्वनाशाद्वा बन्ध supplied by A2 in space left by A1.  
+[^0338-1]: कुतस्या supplied by A3.  
 
-0335.  
+[^0339-1]: Thus corr. by A3 from A1 व्यक्त्त्वा.  
 
---1) Emended: A1 बन्धुं; A3 बन्द्धुं.  
+[^0339-2]: A3 gloss, partly effaced, दुर्मतौ दुष्टबुद्धिविशिष्टेँ पुत्रे मया एताः प्रजाः त्यकत्[आः] पुत्र एव राज्य[स्या]पनादित्यपि [ध्या]त्वा दुष्टस्य पुत्रस्य वाच्यता निन्दा कर्तुं न समुचिता ते --- त्यन्वयः.  
 
-0336.  
+[^0342-1]: A3 gloss भाण्डागारं.  
 
---1) द्धतः supplied by A3 in space left by A1.  
-
-0337.  
-
---1) Emended; A बिश्चाव॰.  
-
-0338.  
-
---1) कुतस्या supplied by A3.  
-
-0339.  
-
---1) Thus corr. by A3 from A1 व्यक्त्त्वा.  
-
---2) A3 gloss, partly effaced, दुर्मतौ दुष्टबुद्धिविशिष्टेँ पुत्रे मया एताः प्रजाः त्यकत्[आः] पुत्र एव राज्य[स्या]पनादित्यपि [ध्या]त्वा दुष्टस्य पुत्रस्य वाच्यता निन्दा कर्तुं न समुचिता ते --- त्यन्वयः.  
-
-0342.  
-
---1) A3 gloss भाण्डागारं.  
-
-0345.  
-
---1) Emended: A प्रसादा॰; C प्रमादा॰.  
+[^0345-1]: Emended: A प्रसादा॰; C प्रमादा॰.  
 
 [page 118]  
 
@@ -11794,59 +9688,35 @@ Colophon.
 तत्ः सूर्यमती रत्नात्पतिं परमकोपनम् । KRT_7_0372ab  
 ययाचे पुत्रवात्सल्यादयुद्धं दिवसद्वयम् ॥ KRT_7_0372cd  
 
-0343.  
+[^0343-1]: Thus corr. by A3 from A1 ॰स्या सरि॰.  
 
---1) Thus corr. by A3 from A1 ॰स्या सरि॰.  
+[^0348-1]: Thus corr. by A3 from A1 ॰स्तदाप्यासी॰.  
 
-0348.  
+[^0350-1]: Thus corr. by A3 from A1 क्व.  
 
---1) Thus corr. by A3 from A1 ॰स्तदाप्यासी॰.  
+[^0353-1]: A2 gloss शावाः पोताः तेषां भरणं पोषणम्.  
 
-0350.  
+[^0356-1]: A2 गण्डाल्यः गण्यः इति भाषया.  
 
---1) Thus corr. by A3 from A1 क्व.  
+[^0357-1]: Thus corr. A3 from A2 ॰गुङ्गा॰.  
 
-0353.  
+[^0361-1]: A2 gloss अनन्तदेवः.  
 
---1) A2 gloss शावाः पोताः तेषां भरणं पोषणम्.  
+[^0361-2]: A3 gloss स्वर्गसुiखं परमानन्दं न तु भृ[तिम्].  
 
-0356.  
+[^0362-1]: A3 gloss धनरहिताम्.  
 
---1) A2 गण्डाल्यः गण्यः इति भाषया.  
+[^0364-1]: त्र supplied by A3 in space left by A1.  
 
-0357.  
+[^0364-2]: A3 gloss वितस्तात्रं नाम यत्पुरं । तस्मादुद्भवो यस्य स वितस्तात्रपुरोद्भवः.  
 
---1) Thus corr. A3 from A2 ॰गुङ्गा॰.  
+[^0365-1]: Thus corr. by A3 from A1 यो-.  
 
-0361.  
+[^0365-2]: A3 gloss कलशेन.  
 
---1) A2 gloss अनन्तदेवः.  
+[^0369-1]: वे supplied by A3 in space left by A1.  
 
---2) A3 gloss स्वर्गसुiखं परमानन्दं न तु भृ[तिम्].  
-
-0362.  
-
---1) A3 gloss धनरहिताम्.  
-
-0364.  
-
---1) त्र supplied by A3 in space left by A1.  
-
---2) A3 gloss वितस्तात्रं नाम यत्पुरं । तस्मादुद्भवो यस्य स वितस्तात्रपुरोद्भवः.  
-
-0365.  
-
---1) Thus corr. by A3 from A1 यो-.  
-
---2) A3 gloss कलशेन.  
-
-0369.  
-
---1) वे supplied by A3 in space left by A1.  
-
-0370.  
-
---1) संरम्भा supplie A2 in space left by A1.  
+[^0370-1]: संरम्भा supplie A2 in space left by A1.  
 
 [page 119]  
 
@@ -11909,45 +9779,25 @@ Colophon.
 अत्रान्तरे शमयितुं वैरं देशोपघातकृत् । KRT_7_0400ab  
 तावुद्दिश्य पितापुत्रौ द्विजाः प्रायं प्रचक्रिरे ॥ KRT_7_0400cd  
 
-0375.  
+[^0375-1]: Thus corr. by A3 from A1 दीशिषे.  
 
---1) Thus corr. by A3 from A1 दीशिषे.  
+[^0376-1]: A3 gloss अश्वं.  
 
-0376.  
+[^0378-1]: Thus corr. by A3 from A1 भुङ्क्त.  
 
---1) A3 gloss अश्वं.  
+[^0383-1]: A3 gloss अनन्तकलशयोः.  
 
-0378.  
+[^0384-1]: रूप supplied by A3 in space left by A1.  
 
---1) Thus corr. by A3 from A1 भुङ्क्त.  
+[^0385-1]: Thus corr. by A3 from A1 बाह्याला॰.  
 
-0383.  
+[^0386-1]: ॰त्तुच्छ upplied by A3 in space left by A1.  
 
---1) A3 gloss अनन्तकलशयोः.  
+[^0388-1]: Thus A3; A1 तदा.  
 
-0384.  
+[^0391-1]: Thus corr. by A3 from A1 स्वन्व॰.  
 
---1) रूप supplied by A3 in space left by A1.  
-
-0385.  
-
---1) Thus corr. by A3 from A1 बाह्याला॰.  
-
-0386.  
-
---1) ॰त्तुच्छ upplied by A3 in space left by A1.  
-
-0388.  
-
---1) Thus A3; A1 तदा.  
-
-0391.  
-
---1) Thus corr. by A3 from A1 स्वन्व॰.  
-
-0392.  
-
---1) A3 gloss पितामहयोः पितामहपितामह्योः.  
+[^0392-1]: A3 gloss पितामहयोः पितामहपितामह्योः.  
 
 [page 120]  
 
@@ -12012,29 +9862,19 @@ Colophon.
 सर्वकालं विदित्वापि दोषान्योषित्कृतानमून् । KRT_7_0429ab  
 प्रतिपत्त्यनुरोधेन मयेयं नावधीरिता ॥ KRT_7_0429cd  
 
-0406.  
+[^0406-1]: A2 gloss पितराविति पितरौ राजा राज्ञी च राजा थक्कडामरनाम्ना समीपगैः कथ्यमानः राज्ञी च लुड्डाभिधा कैवर्ती नाम्ना कथ्यमाना उपहासार्थमित्यर्थः.  
 
---1) A2 gloss पितराविति पितरौ राजा राज्ञी च राजा थक्कडामरनाम्ना समीपगैः कथ्यमानः राज्ञी च लुड्डाभिधा कैवर्ती नाम्ना कथ्यमाना उपहासार्थमित्यर्थः.  
+[^0414-1]: Thus corr. by A3 from A1 नृपात्मजा.  
 
-0414.  
+[^0414-2]: Thus corr. by A3 from A1 विक्री॰.  
 
---1) Thus corr. by A3 from A1 नृपात्मजा.  
+[^0414-3]: Thus A3; A1 पूर्वमीयु॰.  
 
---2) Thus corr. by A3 from A1 विक्री॰.  
+[^0415-1]: Thus A1; A3 तत्प्र॰.  
 
---3) Thus A3; A1 पूर्वमीयु॰.  
+[^0417-1]: नडत्वक् । पिचू इति भाषया.  
 
-0415.  
-
---1) Thus A1; A3 तत्प्र॰.  
-
-0417.  
-
---1) नडत्वक् । पिचू इति भाषया.  
-
-0426.  
-
---1) दसून्काश्चि supplied by A2 in space left by A1.  
+[^0426-1]: दसून्काश्चि supplied by A2 in space left by A1.  
 
 [page 121]  
 
@@ -12097,21 +9937,13 @@ Colophon.
 दाक्षिण्योल्लङ्घनप्रायश्चित्तायेव त्यजन्नसून् । KRT_7_0457ab  
 कृतज्ञया पतिः पत्न्या ततो निन्ये सनाथताम् ॥ KRT_7_0457cd  
 
-0449.  
+[^0449-1]: Thus A3; A1 ॰योगं लघु॰.  
 
---1) Thus A3; A1 ॰योगं लघु॰.  
+[^0450-1]: A2 gloss धान्यं धनिका धान्यवल् इति भाषया । तदम्बु.  
 
-0450.  
+[^0452-1]: Thus corr. by A3 from A1 क्षपान्तिके.  
 
---1) A2 gloss धान्यं धनिका धान्यवल् इति भाषया । तदम्बु.  
-
-0452.  
-
---1) Thus corr. by A3 from A1 क्षपान्तिके.  
-
-0455.  
-
---1) Thus corr. by A1 सोभवत्.  
+[^0455-1]: Thus corr. by A1 सोभवत्.  
 
 [page 122]  
 
@@ -12172,33 +10004,21 @@ Colophon.
 एकषष्टिमतिक्रम्य वर्षान्भूपतिरायुषः । KRT_7_0484ab  
 सपत्नीकः पुरारातिगौरीसायुज्यमासदत् ॥ KRT_7_0484cd  
 
-0459.  
+[^0459-1]: A3 gloss दिव्यं.  
 
---1) A3 gloss दिव्यं.  
+[^0461-1]: उत्थि supplied by A2 in space left by A1.  
 
-0461.  
+[^0461-2]: A3 gloss आत्ता गृहीता लता यथा.  
 
---1) उत्थि supplied by A2 in space left by A1.  
+[^0461-3]: A3 gloss द्वास्स्थत्वं.  
 
---2) A3 gloss आत्ता गृहीता लता यथा.  
+[^0466-1]: A3 gloss वितीर्णाः दत्ताः स्कन्दाः भुजशिरांसि शिविकावाहार्थं यैः तेषां.  
 
---3) A3 gloss द्वास्स्थत्वं.  
+[^0467-1]: Thus corr. by A3 from A1 पश्यन्त्यपश्चि॰.  
 
-0466.  
+[^0469-1]: Thus corr. by A3 from A1 ॰गमाशया.  
 
---1) A3 gloss वितीर्णाः दत्ताः स्कन्दाः भुजशिरांसि शिविकावाहार्थं यैः तेषां.  
-
-0467.  
-
---1) Thus corr. by A3 from A1 पश्यन्त्यपश्चि॰.  
-
-0469.  
-
---1) Thus corr. by A3 from A1 ॰गमाशया.  
-
-0483.  
-
---1) A3 gloss चेतोरूपे काचघटे शीश इति प्रसिद्धे.  
+[^0483-1]: A3 gloss चेतोरूपे काचघटे शीश इति प्रसिद्धे.  
 
 [page 123]  
 
@@ -12259,29 +10079,19 @@ Colophon.
 तस्य त्वेषां परेषां च कृत्यमन्विष्यतश्चरैः । KRT_7_0511ab  
 अज्ञातः स्वप्नवृत्तान्तः प्रजानामभवद्यदि ॥ KRT_7_0511cd  
 
-0487.  
+[^0487-1]: Thus emended with G; A पुत्रवरे.  
 
---1) Thus emended with G; A पुत्रवरे.  
+[^0495-1]: शस्प supplied by A3 in space left by A1.  
 
-0495.  
+[^0495-2]: Thus corr. by A2 from A1 र्धतामगात्.  
 
---1) शस्प supplied by A3 in space left by A1.  
+[^0500-1]: Emended; A तद्दीना॰.  
 
---2) Thus corr. by A2 from A1 र्धतामगात्.  
+[^0503-1]: Thus corr. by A3 from A1 ॰स्ताता.  
 
-0500.  
+[^0506-1]: ततः supplied by A3 in space left by A1.  
 
---1) Emended; A तद्दीना॰.  
-
-0503.  
-
---1) Thus corr. by A3 from A1 ॰स्ताता.  
-
-0506.  
-
---1) ततः supplied by A3 in space left by A1.  
-
---2) Thus corr. by A3 from A1 ॰वान्तिकम्.  
+[^0506-2]: Thus corr. by A3 from A1 ॰वान्तिकम्.  
 
 [page 124]  
 
@@ -12344,43 +10154,25 @@ Colophon.
 मतिं राजपुरीयाणामसावेतामदादिति । KRT_7_0539ab  
 शङ्कमानेन तेनाथ बिज्जे मन्युरुपाहृतः ॥ KRT_7_0539cd  
 
-0525.  
+[^0525-1]: Thus corr. by A1 from जनैः.  
 
---1) Thus corr. by A1 from जनैः.  
+[^0527-1]: Doubtful; thus A.  
 
-0527.  
+[^0528-1]: मः supplied by A3 in space left by A1.  
 
---1) Doubtful; thus A.  
+[^0520-1]: Thus A3; A1 तुरुष्केन.  
 
-0528.  
+[^0522-1]: A3 gloss वृष्यैः वाजीकरणैः. A2 quotes: वृष्यकल्पतरौ पारिभद्ररसेनैव हिङ्गुलं याममात्रकम् । मर्दयित्वा पारदवत्पातयेत्पूर्वयुक्तितः । योजयेत्सर्वयोगेषु सप्तकञ्चुकवर्जितम्॥.  
 
---1) मः supplied by A3 in space left by A1.  
+[^0524-1]: न supplied by A3 in space left by A1.  
 
-0520.  
+[^0533-1]: A3 gloss राजविर् इति भाषया.  
 
---1) Thus A3; A1 तुरुष्केन.  
+[^0535-1]: Thus corr. by A3 from A1 संग्रामराजस्य.  
 
-0522.  
+[^0537-1]: A4 gloss जयानन्दः.  
 
---1) A3 gloss वृष्यैः वाजीकरणैः. A2 quotes: वृष्यकल्पतरौ पारिभद्ररसेनैव हिङ्गुलं याममात्रकम् । मर्दयित्वा पारदवत्पातयेत्पूर्वयुक्तितः । योजयेत्सर्वयोगेषु सप्तकञ्चुकवर्जितम्॥.  
-
-0524.  
-
---1) न supplied by A3 in space left by A1.  
-
-0533.  
-
---1) A3 gloss राजविर् इति भाषया.  
-
-0535.  
-
---1) Thus corr. by A3 from A1 संग्रामराजस्य.  
-
-0537.  
-
---1) A4 gloss जयानन्दः.  
-
---2) Thus emended with G sec. manu; A शक्यतां.  
+[^0537-2]: Thus emended with G sec. manu; A शक्यतां.  
 
 [page 125]  
 
@@ -12445,29 +10237,19 @@ Colophon.
 जयानन्दसहायोथ तत्पुत्रान्परिपालयन् । KRT_7_0568ab  
 सर्वाधिकारी भूपेन वामनाख्यो व्यधीयत ॥ KRT_7_0568cd  
 
-0551.  
+[^0551-1]: Thus corr. by later hand from A1 राज्य॰.  
 
---1) Thus corr. by later hand from A1 राज्य॰.  
+[^0558-1]: A3 gloss हूरपुर्.  
 
-0558.  
+[^0565-1]: A2 gloss आकस्मिके प्रमये मारीदोष इत्यर्थः.  
 
---1) A3 gloss हूरपुर्.  
+[^0566-1]: Thus A1; A3 R G पाजकाः.  
 
-0565.  
+[^0566-2]: Thus A1; A3 ततस्त॰.  
 
---1) A2 gloss आकस्मिके प्रमये मारीदोष इत्यर्थः.  
+[^0567-1]: Thus A1; A3 द्वित्रास्तु द्वैध॰.  
 
-0566.  
-
---1) Thus A1; A3 R G पाजकाः.  
-
---2) Thus A1; A3 ततस्त॰.  
-
-0567.  
-
---1) Thus A1; A3 द्वित्रास्तु द्वैध॰.  
-
---2) Thus corr. by A3 from A1 -- तैस्तैर्भवि॰.  
+[^0567-2]: Thus corr. by A3 from A1 -- तैस्तैर्भवि॰.  
 
 [page 126]  
 
@@ -12532,37 +10314,23 @@ Colophon.
 स प्रविष्टोपि नगरं खिन्नः केनापि हेतुना । KRT_7_0597ab  
 पार्थिवाभ्यर्थ्यमानोपि कार्यं नैवाग्रहीद्यदा ॥ KRT_7_0597cd  
 
-0569.  
+[^0569-1]: पि supplied by A3.  
 
---1) पि supplied by A3.  
+[^0575-1]: Thus corr. by A3 from A1 ॰शेमाति.  
 
-0575.  
+[^0579-1]: A3 gloss मदनपालः.  
 
---1) Thus corr. by A3 from A1 ॰शेमाति.  
+[^0580-1]: स supplied by A3.  
 
-0579.  
+[^0581-1]: Thus corr. by A3 from A1 कन्दर्पोभ॰.  
 
---1) A3 gloss मदनपालः.  
+[^0582-1]: Thus corr. by A3 from A1 ॰च्छिन्नाश्रयो॰.  
 
-0580.  
+[^0585-1]: A3 gloss अर्जुनस्य.  
 
---1) स supplied by A3.  
+[^0585-2]: A3 gloss उत्तरो विराटपुत्रः.  
 
-0581.  
-
---1) Thus corr. by A3 from A1 कन्दर्पोभ॰.  
-
-0582.  
-
---1) Thus corr. by A3 from A1 ॰च्छिन्नाश्रयो॰.  
-
-0585.  
-
---1) A3 gloss अर्जुनस्य.  
-
---2) A3 gloss उत्तरो विराटपुत्रः.  
-
---3) Thus A1; A3 द्रुतं.  
+[^0585-3]: Thus A1; A3 द्रुतं.  
 
 [page 127]  
 
@@ -12623,45 +10391,27 @@ Colophon.
 भृत्यैः प्रक्षालयन्नस्रम् तस्येदृक्पाप्मनो भवेत् । KRT_7_0624ab  
 उक्तेनापीति कथयन्स्मित्वा वासांस्यदापयत् ॥ KRT_7_0624cd  
 
-0598.  
+[^0598-1]: Emended; A R G ॰कलशं.  
 
---1) Emended; A R G ॰कलशं.  
+[^0600-1]: Thus A1; A3 नीत॰.  
 
-0600.  
+[^0600-2]: Thus corr. by later hand from A1 कन्दर्पः समः.  
 
---1) Thus A1; A3 नीत॰.  
+[^0602-1]: जाह्न supplied by A3 in space left by A1.  
 
---2) Thus corr. by later hand from A1 कन्दर्पः समः.  
+[^0603-1]: Thus corr. by A3 from A1 प्रत्यास्ने.  
 
-0602.  
+[^0604-1]: Thus A1; A3 ॰स्येदितस्यासीदा॰.  
 
---1) जाह्न supplied by A3 in space left by A1.  
+[^0613-1]: Emended; A ॰तोषकैः.  
 
-0603.  
+[^0615-1]: Thus A1; A3 क्षुभ्यद्वै॰.  
 
---1) Thus corr. by A3 from A1 प्रत्यास्ने.  
+[^0615-2]: Thus corr. by A3 from A1 कुमाराः.  
 
-0604.  
+[^0618-1]: Emended; A धर्मटेँना॰.  
 
---1) Thus A1; A3 ॰स्येदितस्यासीदा॰.  
-
-0613.  
-
---1) Emended; A ॰तोषकैः.  
-
-0615.  
-
---1) Thus A1; A3 क्षुभ्यद्वै॰.  
-
---2) Thus corr. by A3 from A1 कुमाराः.  
-
-0618.  
-
---1) Emended; A धर्मटेँना॰.  
-
-0619.  
-
---1) Thus A1; A3 कामी स॰.  
+[^0619-1]: Thus A1; A3 कामी स॰.  
 
 [page 128]  
 
@@ -12724,57 +10474,35 @@ Colophon.
 सामान्यप्रेरणादेषा चिकीर्षाभूदिति ब्रुवन् । KRT_7_0652ab  
 स पितृप्रहितं दूतं ह्रीतः स्वा[^0652-1]वसथं ययौ ॥ KRT_7_0652cd  
 
-0625.  
+[^0625-1]: Thus corr. by A3 from A1 दुःशीलान्य॰.  
 
---1) Thus corr. by A3 from A1 दुःशीलान्य॰.  
+[^0627-1]: रं supplied by A3.  
 
-0627.  
+[^0639-1]: Thus corr. by A3 from A1 ॰पुत्रस्तस्त॰.  
 
---1) रं supplied by A3.  
+[^0631-1]: A1 तत्रार्थेऽशान्त॰.  
 
-0639.  
+[^0633-1]: Emended; A दम्मटो॰.  
 
---1) Thus corr. by A3 from A1 ॰पुत्रस्तस्त॰.  
-
-0631.  
-
---1) A1 तत्रार्थेऽशान्त॰.  
-
-0633.  
-
---1) Emended; A दम्मटो॰.  
-
---2) Emended; A बुद्ध्वा.  
+[^0633-2]: Emended; A बुद्ध्वा.  
 
 634,.  
 
 --1) A3 gloss धम्मटस्य.  
 
-0635.  
+[^0635-1]: यावावां तत्प्रवेशा supplied by A3 in space left by A1.  
 
---1) यावावां तत्प्रवेशा supplied by A3 in space left by A1.  
+[^0639-1]: Emended; दम्मटम् supplied by A3 in space left by A1.  
 
-0639.  
+[^0641-1]: A4 gloss पुत्रस्य.  
 
---1) Emended; दम्मटम् supplied by A3 in space left by A1.  
+[^0644-1]: A4 gloss अनन्तदेवसम्बन्धिनं.  
 
-0641.  
+[^0644-2]: Emended with C; A समर्पयम्.  
 
---1) A4 gloss पुत्रस्य.  
+[^0646-1]: Thus R G C; A पुत्रः.  
 
-0644.  
-
---1) A4 gloss अनन्तदेवसम्बन्धिनं.  
-
---2) Emended with C; A समर्पयम्.  
-
-0646.  
-
---1) Thus R G C; A पुत्रः.  
-
-0652.  
-
---1) Emended; A सावसथं.  
+[^0652-1]: Emended; A सावसथं.  
 
 [page 129]  
 
@@ -12835,21 +10563,13 @@ Colophon.
 एवं स खलसंगत्या कुमारो लब्धलाघवः । KRT_7_0679ab  
 बन्धं कारागृहे प्रापदसुखानि सुकोचितः ॥ KRT_7_0679cd  
 
-0655.  
+[^0655-1]: A4 gloss स्वकीया एव पूर्व राजवधं प्रति प्रोत्साहिताः.  
 
---1) A4 gloss स्वकीया एव पूर्व राजवधं प्रति प्रोत्साहिताः.  
+[^0661-1]: A2 gloss कारणानि ब्रह्मादीनि पञ्च.  
 
-0661.  
+[^0667-1]: Fol. 166 of A ends with पश्चात्प्र; fol. 167 which ended with verse 688, is now lost.  
 
---1) A2 gloss कारणानि ब्रह्मादीनि पञ्च.  
-
-0667.  
-
---1) Fol. 166 of A ends with पश्चात्प्र; fol. 167 which ended with verse 688, is now lost.  
-
-0675.  
-
---1) Thus R; G केशश्च.  
+[^0675-1]: Thus R; G केशश्च.  
 
 [page 130]  
 
@@ -12914,33 +10634,19 @@ Colophon.
 अथोज्जि[^0708-1]गमिषून्प्राणान्निःसामर्थ्यो विदन्नृपः । KRT_7_0708ab  
 मुमूर्षुरभवत्तीर्थस्थानाय कृतत्वरः ॥ KRT_7_0708cd  
 
-0680.  
+[^0680-1]: Thus R G sec. manu; C G prima manu माध्यस्थ॰.  
 
---1) Thus R G sec. manu; C G prima manu माध्यस्थ॰.  
+[^0658-1]: Emended; G R ॰भूभर्तृनप्तृभर्त्रूपधार्थिनी; C ॰भूभर्तृनप्तृभर्तृपधा॰.  
 
-0658.  
+[^0686-1]: Thus G C; R रसे.  
 
---1) Emended; G R ॰भूभर्तृनप्तृभर्त्रूपधार्थिनी; C ॰भूभर्तृनप्तृभर्तृपधा॰.  
+[^0688-1]: Thus emended with C; A R G तेनात्तेन.  
 
-0686.  
+[^0701-1]: Emended; A अवु॰.  
 
---1) Thus G C; R रसे.  
+[^0706-1]: Emended with C; A गोप्तृन्नि.  
 
-0688.  
-
---1) Thus emended with C; A R G तेनात्तेन.  
-
-0701.  
-
---1) Emended; A अवु॰.  
-
-0706.  
-
---1) Emended with C; A गोप्तृन्नि.  
-
-0708.  
-
---1) Emended with C; A अथोजग॰.  
+[^0708-1]: Emended with C; A अथोजग॰.  
 
 [page 131]  
 
@@ -12999,29 +10705,17 @@ Colophon.
 अन्विष्यन्ति रुदत्य एव तरला गत्यन्तरं योषितो योगक्षेमकथां चितान्तिकगता एवात्मजाः कुर्वते । KRT_7_0734ab  
 अन्येषां शतशोवसानसमये चर्वां विचार्येदृशीम् स्त्रीपुत्रादिकृते कुकर्मभिरहो संनिन्वतेर्थं जडाः ॥ KRT_7_0734cd  
 
-0711.  
+[^0711-1]: Emended with C; A ॰देशोधि॰.  
 
---1) Emended with C; A ॰देशोधि॰.  
+[^0720-1]: A2 gloss हर्ष आनीयतामिति राज्ञो भावमभिप्रायं निह्नोतुं आदर्शो नोनकेना नित इत्यर्थः हर्षः आदर्श इति पाठमात्रसाम्यादित्यर्थः.  
 
-0720.  
+[^0724-1]: A2 gloss उरद्धा इति वेद्यभाषया.  
 
---1) A2 gloss हर्ष आनीयतामिति राज्ञो भावमभिप्रायं निह्नोतुं आदर्शो नोनकेना नित इत्यर्थः हर्षः आदर्श इति पाठमात्रसाम्यादित्यर्थः.  
+[^0729-1]: Emended with C; A अन्त्येष्टि॰.  
 
-0724.  
+[^0731-1]: ज supplied by A3.  
 
---1) A2 gloss उरद्धा इति वेद्यभाषया.  
-
-0729.  
-
---1) Emended with C; A अन्त्येष्टि॰.  
-
-0731.  
-
---1) ज supplied by A3.  
-
-0732.  
-
---1) Emended; A तदैवो॰.  
+[^0732-1]: Emended; A तदैवो॰.  
 
 [page 132]  
 
@@ -13084,43 +10778,25 @@ Colophon.
 लवणोत्से निशामेकां पुरान्निर्गत्य तस्थुषः । KRT_7_0762ab  
 मध्यस्थ[^0762-1]सैन्यास्तस्यैव[^0762-2] योधाः पक्षमशिश्रयम् ॥ KRT_7_0762cd  
 
-0737.  
+[^0737-1]: Thus corr. by A3 from A1 ॰न्नस्मि.  
 
---1) Thus corr. by A3 from A1 ॰न्नस्मि.  
+[^0746-1]: Thus corr. by A3 from A1 राज्यात्सन्त्य॰.  
 
-0746.  
+[^0746-1]: त्या supplied by A3 in space left by A1.  
 
---1) Thus corr. by A3 from A1 राज्यात्सन्त्य॰.  
+[^0748-1]: Emended; A ॰दर्थमान.  
 
-0746.  
+[^0749-1]: ताड supplied by A3 in space left by A1.  
 
---1) त्या supplied by A3 in space left by A1.  
+[^0757-1]: येन वा supplied by A3 in space left by A1.  
 
-0748.  
+[^0759-1]: A3 gloss उत्कम्पी दानसस्मये सकम्प इत्यर्थः.  
 
---1) Emended; A ॰दर्थमान.  
+[^0761-1]: A4 gloss हेतुना.  
 
-0749.  
+[^0762-1]: मध्यस्थ supplied by A3 in space left by A1.  
 
---1) ताड supplied by A3 in space left by A1.  
-
-0757.  
-
---1) येन वा supplied by A3 in space left by A1.  
-
-0759.  
-
---1) A3 gloss उत्कम्पी दानसस्मये सकम्प इत्यर्थः.  
-
-0761.  
-
---1) A4 gloss हेतुना.  
-
-0762.  
-
---1) मध्यस्थ supplied by A3 in space left by A1.  
-
---2) Thus corr. by A3 from A1 ॰स्तस्या-.  
+[^0762-2]: Thus corr. by A3 from A1 ॰स्तस्या-.  
 
 [page 133]  
 
@@ -13183,17 +10859,11 @@ Colophon.
 राजपुत्रः स तानूचे किं ह्रीता इव तिष्ठथ । KRT_7_0790ab  
 निर्दोषाः सर्वथा प्रेष्याः स्वाम्यादेशानुपालने ॥ KRT_7_0790cd  
 
-0770.  
+[^0770-1]: Thus corr. by A3 from A1 त्यक्तोत्क॰.  
 
---1) Thus corr. by A3 from A1 त्यक्तोत्क॰.  
+[^0776-1]: Emended; A वैरि -- वि॰; C वैरिकानवि॰.  
 
-0776.  
-
---1) Emended; A वैरि -- वि॰; C वैरिकानवि॰.  
-
-0781.  
-
---1) Thus A; R ॰वार्षिकान्.  
+[^0781-1]: Thus A; R ॰वार्षिकान्.  
 
 [page 134]  
 
@@ -13248,43 +10918,25 @@ Colophon.
 गत्वामात्याः स्वयं नोनप्रशस्तकलशादयः । KRT_7_0814ab  
 हर्षं निर्निगडं कृत्वा कारागारात्ततोत्यजन् ॥ KRT_7_0814cd  
 
-0712.  
+[^0712-1]: Thus corr. by later hand from A1 ॰द्भुताम्.  
 
---1) Thus corr. by later hand from A1 ॰द्भुताम्.  
+[^0712-2]: देष्यत्य supplied by A3 in space left by A1.  
 
---2) देष्यत्य supplied by A3 in space left by A1.  
+[^0795-1]: Thus corr. by A1 from ॰प्रतापम्; A3 ॰प्रभाते.  
 
-0795.  
+[^0796-1]: Thus corr. by A3 from A1 शुचोद॰.  
 
---1) Thus corr. by A1 from ॰प्रतापम्; A3 ॰प्रभाते.  
+[^0719-1]: A3 gloss कली यमस्त्री.  
 
-0796.  
+[^0802-1]: Doubtful; thus A R G.  
 
---1) Thus corr. by A3 from A1 शुचोद॰.  
+[^0804-1]: A2 gloss यः पातार्थमिति एतद्वृत्तद्वयोपाख्यानं महाभारते द्रोणपर्वणि ज्ञेयम्.  
 
-0719.  
+[^0806-1]: A3 gloss आभीजन् इति देशभाषया.  
 
---1) A3 gloss कली यमस्त्री.  
+[^0808-1]: कं नृत्यन्तो supplied by A3 in space left by A1.  
 
-0802.  
-
---1) Doubtful; thus A R G.  
-
-0804.  
-
---1) A2 gloss यः पातार्थमिति एतद्वृत्तद्वयोपाख्यानं महाभारते द्रोणपर्वणि ज्ञेयम्.  
-
-0806.  
-
---1) A3 gloss आभीजन् इति देशभाषया.  
-
-0808.  
-
---1) कं नृत्यन्तो supplied by A3 in space left by A1.  
-
-0811.  
-
---1) Emended A R G तेनुज्ञः.  
+[^0811-1]: Emended A R G तेनुज्ञः.  
 
 [page 135]  
 
@@ -13345,19 +10997,13 @@ Colophon.
 तादृक्साहससंरम्भपरिश्रान्तो दिनात्यये । KRT_7_0841ab  
 कृतारोहोथ शय्यायां त्यक्तभार इवापतत् ॥ KRT_7_0841cd  
 
-0820.  
+[^0820-1]: त्काम्या supplied by A3 in space left by A1.  
 
---1) त्काम्या supplied by A3 in space left by A1.  
+[^0820-2]: Emended with C; A ॰न्नुपकर्त्रूप॰.  
 
---2) Emended with C; A ॰न्नुपकर्त्रूप॰.  
+[^0823-1]: Thus A; perhaps, ॰पक्षि॰.  
 
-0823.  
-
---1) Thus A; perhaps, ॰पक्षि॰.  
-
-0824.  
-
---1) The same hand which has supplemented the marginal note of A3 in i. 110, writes here: नक्रास्याच्चलतश्च मज्जनमयी शङ्का प्लवस्याम्बुधौ इत्यन्यादर्शे with the gloss नक्रः जलप्राणिविशेषः यो जलहस्तिनोपीरयति तन्मुखात्सकाशाद्दैववशाच्चलितस्यापि ब्रुडनमयी शङ्का उडुपस्य स्यादेवेत्यर्थः.  
+[^0824-1]: The same hand which has supplemented the marginal note of A3 in i. 110, writes here: नक्रास्याच्चलतश्च मज्जनमयी शङ्का प्लवस्याम्बुधौ इत्यन्यादर्शे with the gloss नक्रः जलप्राणिविशेषः यो जलहस्तिनोपीरयति तन्मुखात्सकाशाद्दैववशाच्चलितस्यापि ब्रुडनमयी शङ्का उडुपस्य स्यादेवेत्यर्थः.  
 
 [page 136]  
 
@@ -13422,9 +11068,7 @@ Colophon.
 उद्रिक्तशासनस्फूर्तिरुद्रिक्ताज्ञाक्षयक्षितिः । KRT_7_0870ab  
 उद्रिक्तत्यागसंपत्तिरुद्रिक्तहरणपग्रहा ॥ KRT_7_0870cd  
 
-0847.  
-
---1) अवसाद supplied by A3 in space left by A1.  
+[^0847-1]: अवसाद supplied by A3 in space left by A1.  
 
 [page 137]  
 
@@ -13485,41 +11129,23 @@ Colophon.
 जाह्नवीयात्रया भ्रात्रीरानुशंस्या ॰ ॰ ॰ ॰ [^0897-1] । KRT_7_0897ab  
 धम्मटः सोपि तान्वङ्गैर्भ्रातृपुत्रैः सहाययौ ॥ KRT_7_0897cd  
 
-0879.  
+[^0879-1]: Thus corr. by A3 from A1 मघा॰.  
 
---1) Thus corr. by A3 from A1 मघा॰.  
+[^0880-1]: कर्ण्य and तृष्णा supplied by A3 in space left by A1.  
 
-0880.  
+[^0881-1]: A1 indicates here a lacuna of two aksharas; C विगतोत्तापे; perhaps, विगतोद्वेगे(?).  
 
---1) कर्ण्य and तृष्णा supplied by A3 in space left by A1.  
+[^0882-1]: Emended; A ॰मासीन्नाशी॰.  
 
-0881.  
+[^0888-1]: Thus corr. by A3; A1 ----- सन्त्यज्य कार्येषु नियोजिताः.  
 
---1) A1 indicates here a lacuna of two aksharas; C विगतोत्तापे; perhaps, विगतोद्वेगे(?).  
+[^0889-1]: Thus corr. by later hand from A1 स्मृत्वोप॰.  
 
-0882.  
+[^0892-1]: Thus A; perhaps, to be read विश्शावट्टो; cf. vii. 617, 621,630.  
 
---1) Emended; A ॰मासीन्नाशी॰.  
+[^0893-1]: A2 gloss मधौ वसन्ते भूविवरोत्थिता भृङ्गा नीज्यन्नम्बर इति भाषाया प्रसिद्धाः ये अस्तावलम्बिनि सूर्ये सूक्ष्मेभ्यः भूविवरेभ्यः वसन्तसमये उत्तिष्ठन्ति शाद्वलोपरि सञ्चारार्थं ॥  
 
-0888.  
-
---1) Thus corr. by A3; A1 ----- सन्त्यज्य कार्येषु नियोजिताः.  
-
-0889.  
-
---1) Thus corr. by later hand from A1 स्मृत्वोप॰.  
-
-0892.  
-
---1) Thus A; perhaps, to be read विश्शावट्टो; cf. vii. 617, 621,630.  
-
-0893.  
-
---1) A2 gloss मधौ वसन्ते भूविवरोत्थिता भृङ्गा नीज्यन्नम्बर इति भाषाया प्रसिद्धाः ये अस्तावलम्बिनि सूर्ये सूक्ष्मेभ्यः भूविवरेभ्यः वसन्तसमये उत्तिष्ठन्ति शाद्वलोपरि सञ्चारार्थं ॥  
-
-0897.  
-
---1) Here A1 indicates a lacuna; C ॰नृशंस्याद्विचक्षणः.  
+[^0897-1]: Here A1 indicates a lacuna; C ॰नृशंस्याद्विचक्षणः.  
 
 [page 138]  
 
@@ -13578,41 +11204,27 @@ Colophon.
 धम्मिल्लग्रथनाद्यत्र मदनः कम्पनापतिः । KRT_7_0923ab  
 जयानन्दोप्यमात्याग्र्यश्चित्रार्धोरुकधारणात् ॥ KRT_7_0923cd  
 
-0902.  
+[^0902-1]: थास्कन्द supplied by A3 in space left by A1.  
 
---1) थास्कन्द supplied by A3 in space left by A1.  
+[^0902-2]: Emended; A ॰नोद्यतम्.  
 
---2) Emended; A ॰नोद्यतम्.  
+[^0904-1]: संहरं supplied by A3 in space left by A1.  
 
-0904.  
+[^0908-1]: Thus A; perhaps, to be read प्राक्कृतानीव.  
 
---1) संहरं supplied by A3 in space left by A1.  
+[^0909-1]: सजानिर supplied by A5 in space left by A1.  
 
-0908.  
+[^0909-2]: Thus corr. by A3 from A1 ॰तरन्दो॰.  
 
---1) Thus A; perhaps, to be read प्राक्कृतानीव.  
+[^0909-3]: Thus corr. by A3 from A1 ॰तार्य.  
 
-0909.  
+[^0910-1]: Thus corr. by A3 from A1 ॰वामक॰.  
 
---1) सजानिर supplied by A5 in space left by A1.  
+[^0910-2]: त्पत्न्या and नं supplied by A3 in space left by A1.  
 
---2) Thus corr. by A3 from A1 ॰तरन्दो॰.  
+[^0916-1]: Thus corr. by A3 from A1 पुरम॰.  
 
---3) Thus corr. by A3 from A1 ॰तार्य.  
-
-0910.  
-
---1) Thus corr. by A3 from A1 ॰वामक॰.  
-
---2) त्पत्न्या and नं supplied by A3 in space left by A1.  
-
-0916.  
-
---1) Thus corr. by A3 from A1 पुरम॰.  
-
-0919.  
-
---1) प्रभयतो लग्नं राज्यं supplied by A3 in space left by A1.  
+[^0919-1]: प्रभयतो लग्नं राज्यं supplied by A3 in space left by A1.  
 
 [page 139]  
 
@@ -13677,23 +11289,15 @@ Colophon.
 निजा जयवने सूर्यामूलके विजयेश्वरे । KRT_7_0952ab  
 आख्यान्ति यस्य लुब्धत्वं निर्व्ययस्थितये मठाः ॥ KRT_7_0952cd  
 
-0928.  
+[^0928-1]: A3 gloss ललाटलम्ब्यलङ्कारश्चटुलातिलको मतः.  
 
---1) A3 gloss ललाटलम्ब्यलङ्कारश्चटुलातिलको मतः.  
+[^0931-1]: Emended; A ॰पुंवेशा.  
 
-0931.  
+[^0935-1]: Thus corr. by A3 from A1 ॰टश्चे.  
 
---1) Emended; A ॰पुंवेशा.  
+[^0938-1]: Thus corr. by later hand from A1 सौवर्णामाल॰.  
 
-0935.  
-
---1) Thus corr. by A3 from A1 ॰टश्चे.  
-
-0938.  
-
---1) Thus corr. by later hand from A1 सौवर्णामाल॰.  
-
---2) राढ्या supplied by A3 in space left by A1.  
+[^0938-2]: राढ्या supplied by A3 in space left by A1.  
 
 [page 140]  
 
@@ -13758,13 +11362,9 @@ Colophon.
 तेनैवं स्वाम्युपालम्भवेतालो रभसार्पितः । KRT_7_0981ab  
 रणश्मशाने वीरेण शमितो मांसशोणितैः ॥ KRT_7_0981cd  
 
-0164.  
+[^0164-1]: Emended; A डोम्भ॰.  
 
---1) Emended; A डोम्भ॰.  
-
-0179.  
-
---1) Emended; A काश्मीरका॰.  
+[^0179-1]: Emended; A काश्मीरका॰.  
 
 [page 141]  
 
@@ -13825,45 +11425,27 @@ Colophon.
 हत्वा गयायां सामन्तमेकमन्यं निवेश्य च । KRT_7_1008ab  
 काश्मीरिका[^1008-1]णां चक्रे स श्राद्धशुल्कनिवारणम् ॥ KRT_7_1008cd  
 
-0982.  
+[^0982-1]: Emended; ॰भवो तप्ताः.  
 
---1) Emended; ॰भवो तप्ताः.  
+[^0991-1]: Thus A; perhaps, to be read स्वभुवं.  
 
-0991.  
+[^0994-1]: Thus A1; A3 वासनं.  
 
---1) Thus A; perhaps, to be read स्वभुवं.  
+[^0999-1]: Thus corr. by A3 from A1 मुष्टिरिव.  
 
-0994.  
+[^1001-1]: A4 gloss मन्त्रिणं.  
 
---1) Thus A1; A3 वासनं.  
+[^1001-2]: Thus A2; A1 रक्किं.  
 
-0999.  
+[^1002-1]: तां supplied by A3 in space left by A1.  
 
---1) Thus corr. by A3 from A1 मुष्टिरिव.  
+[^1003-1]: Emended with C; A ॰न्सेवकत्पुरः.  
 
-1001.  
+[^1003-2]: Emended; A बद्धुमु॰.  
 
---1) A4 gloss मन्त्रिणं.  
+[^1004-1]: Doubtful emendation; A apparently निस्त्वक्त्यं; R G निस्त्वथ्यं.  
 
---2) Thus A2; A1 रक्किं.  
-
-1002.  
-
---1) तां supplied by A3 in space left by A1.  
-
-1003.  
-
---1) Emended with C; A ॰न्सेवकत्पुरः.  
-
---2) Emended; A बद्धुमु॰.  
-
-1004.  
-
---1) Doubtful emendation; A apparently निस्त्वक्त्यं; R G निस्त्वथ्यं.  
-
-1008.  
-
---1) Emended; A काश्मीरकाणां.  
+[^1008-1]: Emended; A काश्मीरकाणां.  
 
 [page 142]  
 
@@ -13926,29 +11508,17 @@ Colophon.
 द्रोहोदन्तं पृच्छयमानो धीरस्तन्मध्यपातिनम् । KRT_7_1036ab  
 यातनाक्लेशितोप्यूचे स्वमेव न तु धम्मटम् ॥ KRT_7_1036cd  
 
-1009.  
+[^1009-1]: च has been erased by A1.  
 
---1) च has been erased by A1.  
+[^1012-1]: Thus A1; corr. by later hand दुर्मन्त्रिशेषाः.  
 
-1012.  
+[^1014-1]: Thus corr. by later hand from A1 वेश्या॰.  
 
---1) Thus A1; corr. by later hand दुर्मन्त्रिशेषाः.  
+[^1018-1]: Thus corr. by later hand from A1 स्थितिम्.  
 
-1014.  
+[^1024-1]: Thus corr. by A2 from A1 पूर्तये; A2 in margin भोजने.  
 
---1) Thus corr. by later hand from A1 वेश्या॰.  
-
-1018.  
-
---1) Thus corr. by later hand from A1 स्थितिम्.  
-
-1024.  
-
---1) Thus corr. by A2 from A1 पूर्तये; A2 in margin भोजने.  
-
-1026.  
-
---1) Thus corr. by A2 from A1 प्रायम्.  
+[^1026-1]: Thus corr. by A2 from A1 प्रायम्.  
 
 [page 143]  
 
@@ -14013,33 +11583,19 @@ Colophon.
 टुल्लो विजयराजश्च बुल्लो गुल्लश्च तेलुठन् । KRT_7_1065ab  
 तन्वङ्गपौत्राश्चत्वारो हता वध्यमहीतले ॥ KRT_7_1065cd  
 
-1043.  
+[^1043-1]: Emended; A मन्त्रिय॰.  
 
---1) Emended; A मन्त्रिय॰.  
+[^1045-1]: A here and elsewhere प्रयोगेण.  
 
-1045.  
+[^1047-1]: Emended; A ॰त्सशङ्कमा॰.  
 
---1) A here and elsewhere प्रयोगेण.  
+[^1048-1]: Thus A; perhaps, to be emended कृपाणीमतिवादिनीम्.  
 
-1047.  
+[^1051-1]: युधो supplied by A3 in space left by A1.  
 
---1) Emended; A ॰त्सशङ्कमा॰.  
+[^1054-1]: Emended; A ॰स्कन्दाद्यास्तु.  
 
-1048.  
-
---1) Thus A; perhaps, to be emended कृपाणीमतिवादिनीम्.  
-
-1051.  
-
---1) युधो supplied by A3 in space left by A1.  
-
-1054.  
-
---1) Emended; A ॰स्कन्दाद्यास्तु.  
-
-1058.  
-
---1) Emended; A ॰नप्तो यत्पूर्वं.  
+[^1058-1]: Emended; A ॰नप्तो यत्पूर्वं.  
 
 [page 144]  
 
@@ -14096,51 +11652,31 @@ Colophon.
 पूर्वराजार्पितन्कोशांस्ततः स भुवनाद्भुतान् । KRT_7_1090ab  
 सर्वगीर्वाणवेश्मभ्यो लुब्धबुद्धिरपाहरत् ॥ KRT_7_1090cd  
 
-1067.  
+[^1067-1]: Thus A1; altered by later hand into ॰गोणाश्म॰.  
 
---1) Thus A1; altered by later hand into ॰गोणाश्म॰.  
+[^1068-1]: Emended; A प्रसिस्थे.  
 
-1068.  
+[^1070-1]: Emended; A गोप्तृ॰.  
 
---1) Emended; A प्रसिस्थे.  
+[^1071-1]: Emended; A तद्गोप्तृ॰.  
 
-1070.  
+[^1073-1]: Emended; A जान जनक॰.  
 
---1) Emended; A गोप्तृ॰.  
+[^1073-2]: य supplied by A2.  
 
-1071.  
+[^1081-1]: Two aksharas are wanting; A does not indicate the lacuna.  
 
---1) Emended; A तद्गोप्तृ॰.  
+[^1081-2]: Emended; A भीमश्शाहिर॰. Cf. vi. 178.  
 
-1073.  
+[^1082-1]: Doubtful emendation; A ॰त्परिपत्यानां. Cf. vii. 1088.  
 
---1) Emended; A जान जनक॰.  
+[^1085-1]: Emended; A ॰त्कोशचौर॰.  
 
---2) य supplied by A2.  
+[^1087-1]: Emended; A यत्रेदृद्वस्तु.  
 
-1081.  
+[^1087-2]: Emended with C; A कीदृक्कुत्रा॰.  
 
---1) Two aksharas are wanting; A does not indicate the lacuna.  
-
---2) Emended; A भीमश्शाहिर॰. Cf. vi. 178.  
-
-1082.  
-
---1) Doubtful emendation; A ॰त्परिपत्यानां. Cf. vii. 1088.  
-
-1085.  
-
---1) Emended; A ॰त्कोशचौर॰.  
-
-1087.  
-
---1) Emended; A यत्रेदृद्वस्तु.  
-
---2) Emended with C; A कीदृक्कुत्रा॰.  
-
-1089.  
-
---1) Thus A; G C सुराकुहरणे.  
+[^1089-1]: Thus A; G C सुराकुहरणे.  
 
 [page 145]  
 
@@ -14193,25 +11729,15 @@ Colophon.
 निशासु येषां प्रभवन्ति दारा दिनेष्वमात्या नियताधिकाराः । KRT_7_1113ab  
 अहो भ्रमः स्वस्य यदत्र तेपि विदन्ति भूपा प्रभविष्णुभावम् ॥ KRT_7_1113cd  
 
-1091.  
+[^1091-1]: Emended with R C; A ॰त्पाटनायकम्.  
 
---1) Emended with R C; A ॰त्पाटनायकम्.  
+[^1093-1]: Emended; A ॰रुप्या॰.  
 
-1093.  
+[^1094-1]: Thus corr. by later hand from A1 रुग्नन॰.  
 
---1) Emended; A ॰रुप्या॰.  
+[^1100-1]: Emended; A ॰भूपतिः.  
 
-1094.  
-
---1) Thus corr. by later hand from A1 रुग्नन॰.  
-
-1100.  
-
---1) Emended; A ॰भूपतिः.  
-
-1105.  
-
---1) Emended; A च हेलकः. Cf. vii. 1170, 1319, 1358, 1359.  
+[^1105-1]: Emended; A च हेलकः. Cf. vii. 1170, 1319, 1358, 1359.  
 
 [page 146]  
 
@@ -14270,15 +11796,11 @@ Colophon.
 राज्ये बहुच्छले तादृग्दुर्नीत्योपहतोप्यभूत् । KRT_7_1139ab  
 आयुःशेषेण न वशे स रन्ध्रान्वेषिणां द्विषाम् ॥ KRT_7_1139cd  
 
-1128.  
+[^1128-1]: Emended; A बाधिका. Cf. vii. 319.  
 
---1) Emended; A बाधिका. Cf. vii. 319.  
+[^1136-1]: Emended; A ॰तामस्रे.  
 
-1136.  
-
---1) Emended; A ॰तामस्रे.  
-
---2) Emended; A स्वजात्येन; C स्वजन्येन.  
+[^1136-2]: Emended; A स्वजात्येन; C स्वजन्येन.  
 
 [page 147]  
 
@@ -14343,21 +11865,13 @@ Colophon.
 तं विटाश्चाटुभिर्भूयो राजानमुदतेजयन् । KRT_7_1168ab  
 घोषयान्राजितं स्तोत्रैः कर्णाद्या इव कौरवम् ॥ KRT_7_1168cd  
 
-1142.  
+[^1142-1]: Emended; A सर्वशुद्धनिधेः.  
 
---1) Emended; A सर्वशुद्धनिधेः.  
+[^1156-1]: Emended; A प्रमन्यमाने.  
 
-1156.  
+[^1165-1]: Emended; A न्यगृही॰.  
 
---1) Emended; A प्रमन्यमाने.  
-
-1165.  
-
---1) Emended; A न्यगृही॰.  
-
-1166.  
-
---1) Conjectural reading; A दुग्धे.  
+[^1166-1]: Conjectural reading; A दुग्धे.  
 
 [page 148]  
 
@@ -14420,25 +11934,15 @@ Colophon.
 अनाथवत्तथा भूतं सैन्यं त्रातुं कृतोद्यमः । KRT_7_1196ab  
 एकस्तु सानुजो मानि नाचलन्माल्लिरुच्चलः ॥ KRT_7_1196cd  
 
-1175.  
+[^1175-1]: Emended; A निह्रादे.  
 
---1) Emended; A निह्रादे.  
+[^1177-1]: Emendedl; A वातगण्डस्तदु॰.  
 
-1177.  
+[^1179-1]: Thus or, perhaps, विसूत्रितेपि to be read fro A विसूत्रितापि.  
 
---1) Emendedl; A वातगण्डस्तदु॰.  
+[^1181-1]: Emended; A काश्मीरकाः.  
 
-1179.  
-
---1) Thus or, perhaps, विसूत्रितेपि to be read fro A विसूत्रितापि.  
-
-1181.  
-
---1) Emended; A काश्मीरकाः.  
-
-1183.  
-
---1) Emended; A तत्पुत्रो.  
+[^1183-1]: Emended; A तत्पुत्रो.  
 
 [page 149]  
 
@@ -14499,13 +12003,9 @@ Colophon.
 एतद्व्यवहिता[^1223-1] राजधानी दूरान्न दृश्यते । KRT_7_1223ab  
 ध्यात्वेति सर्वतो राजा द्रुमाणाम् छेदमादिशत् ॥ KRT_7_1223cd  
 
-1207.  
+[^1207-1]: Emended; A ठक्क.  
 
---1) Emended; A ठक्क.  
-
-1223.  
-
---1) Emended; A व्यवहृता.  
+[^1223-1]: Emended; A व्यवहृता.  
 
 [page 150]  
 
@@ -14570,29 +12070,17 @@ Colophon.
 आसन्नवारवनिता थक्कनाख्याथ तं व्यधात् । KRT_7_1252ab  
 भूभर्तुर्दुरभिप्रायं तयोः कर्णपथातिथिम् ॥ KRT_7_1252cd  
 
-1224.  
+[^1224-1]: Emended; A रोलम्भैर॰.  
 
---1) Emended; A रोलम्भैर॰.  
+[^1232-1]: Thus A2; A1 ॰वादयन्; G ॰वागलन्.  
 
-1232.  
+[^1236-1]: Emended; A व्याप्ता विस्तीर्णतोरणा.  
 
---1) Thus A2; A1 ॰वादयन्; G ॰वागलन्.  
+[^1239-1]: A2 gloss नूतन --- यावल्लोकभवनं ( three akshara illegible).  
 
-1236.  
+[^1249-1]: Emended; A चक्रोधा॰.  
 
---1) Emended; A व्याप्ता विस्तीर्णतोरणा.  
-
-1239.  
-
---1) A2 gloss नूतन --- यावल्लोकभवनं ( three akshara illegible).  
-
-1249.  
-
---1) Emended; A चक्रोधा॰.  
-
-1250.  
-
---1) A1 indicates a lacuna of two aksharas.  
+[^1250-1]: A1 indicates a lacuna of two aksharas.  
 
 [page 151]  
 
@@ -14657,31 +12145,19 @@ Colophon.
 स विविक्तीकृते[^1281-1] धाम्नि खशाधी[^1281-2]शं समन्त्रिणम् । KRT_7_1281ab  
 सान्त्वयन्तं महातेजाः कोपरूक्षाक्षरोब्रवीत् ॥ KRT_7_1281cd  
 
-1254.  
+[^1254-1]: Thus A1; A2 gloss उचसो, corr. by later hand into उत्रास; A3 reads उत्त्रास.  
 
---1) Thus A1; A2 gloss उचसो, corr. by later hand into उत्रास; A3 reads उत्त्रास.  
+[^1256-1]: Thus corr. by A1 from कालि॰.  
 
-1256.  
+[^1257-1]: Emended; A .  
 
---1) Thus corr. by A1 from कालि॰.  
+[^1263-1]: Thus A1; A later hand corrects डामरांस्तु महोत्साहांस्त॰ and विप्रकृतान्दू॰.  
 
-1257.  
+[^1280-1]: Emended; A तन्नाश॰.  
 
---1) Emended; A .  
+[^1281-1]: Emended; A कृतो.  
 
-1263.  
-
---1) Thus A1; A later hand corrects डामरांस्तु महोत्साहांस्त॰ and विप्रकृतान्दू॰.  
-
-1280.  
-
---1) Emended; A तन्नाश॰.  
-
-1281.  
-
---1) Emended; A कृतो.  
-
---2) Emended; A खशादीशं.  
+[^1281-2]: Emended; A खशादीशं.  
 
 [page 152]  
 
@@ -14746,41 +12222,25 @@ Colophon.
 महावराहमौलिस्रक्तस्य मूर्ध्नि पपात च । KRT_7_1310ab  
 तदसंस्थितया पृथ्व्या वरणार्थमिवार्पिता ॥ KRT_7_1310cd  
 
-1283.  
+[^1283-1]: Emended; A सार्थवाहनं. Cf. vi.367.  
 
---1) Emended; A सार्थवाहनं. Cf. vi.367.  
+[^1285-1]: Thus corr. by A3 from A1 ॰स्यास्सज्जरा॰.  
 
-1285.  
+[^1289-1]: Emended; A काश्मीरकाणां.  
 
---1) Thus corr. by A3 from A1 ॰स्यास्सज्जरा॰.  
+[^1295-1]: Thus A1; corr. by later hand into लोष्टवद्दा॰.  
 
-1289.  
+[^1298-1]: Emended; A1 वद्द॰.  
 
---1) Emended; A काश्मीरकाणां.  
+[^1298-2]: न्विप्लवा and र्त्म supplied by A3 in space left by A1.  
 
-1295.  
+[^1298-3]: Emended; A आललम्ब.  
 
---1) Thus A1; corr. by later hand into लोष्टवद्दा॰.  
+[^1299-1]: Thus A; perhaps, to be emended क्षेमटा॰. Cf. vii. 482.  
 
-1298.  
+[^2304-1]: Emended; A ॰स्थितिम्.  
 
---1) Emended; A1 वद्द॰.  
-
---2) न्विप्लवा and र्त्म supplied by A3 in space left by A1.  
-
---3) Emended; A आललम्ब.  
-
-1299.  
-
---1) Thus A; perhaps, to be emended क्षेमटा॰. Cf. vii. 482.  
-
-2304.  
-
---1) Emended; A ॰स्थितिम्.  
-
-2308.  
-
---1) Thus A1; A3 ॰नायकसख्ये.  
+[^2308-1]: Thus A1; A3 ॰नायकसख्ये.  
 
 [page 153]  
 
@@ -14843,23 +12303,15 @@ Colophon.
 यत्नाज्जनकचन्द्राद्यैर्मानी व्यावर्तितो रणात् । KRT_7_1338ab  
 परिहासपुरात्प्रायान्मृत्युवक्त्रादिवोच्चलः ॥ KRT_7_1338cd  
 
-1311.  
+[^1311-1]: Thus A1; corr. by later hand into कांकाद्यवैश्य॰.  
 
---1) Thus A1; corr. by later hand into कांकाद्यवैश्य॰.  
+[^1319-1]: Emended; A सहलो.  
 
-1319.  
+[^1319-2]: Emended; A ॰भूमहन्तमः.  
 
---1) Emended; A सहलो.  
+[^1332-1]: Doubtful; thus emended with C; A ॰सीत्पारैर॰.  
 
---2) Emended; A ॰भूमहन्तमः.  
-
-1332.  
-
---1) Doubtful; thus emended with C; A ॰सीत्पारैर॰.  
-
-1336.  
-
---1) Thus A1; corr. by later hand into प्रविष्टा.  
+[^1336-1]: Thus A1; corr. by later hand into प्रविष्टा.  
 
 [page 154]  
 
@@ -14928,25 +12380,15 @@ Colophon.
 
 --1) A2 gloss परिहासपुरसमीपे गुरिकाबलमस्ति.  
 
-1346.  
+[^1346-1]: Emended; A ॰कारदेशे॰.  
 
---1) Emended; A ॰कारदेशे॰.  
+[^1349-1]: Thus A1; A2(?) अशनाहे; A3 gloss पौदुपावग्रामे.  
 
-1349.  
+[^1351-1]: Emended; A मोहौवहं.  
 
---1) Thus A1; A2(?) अशनाहे; A3 gloss पौदुपावग्रामे.  
+[^1360-1]: Emended; A ॰नीकान्पत्ति॰.  
 
-1351.  
-
---1) Emended; A मोहौवहं.  
-
-1360.  
-
---1) Emended; A ॰नीकान्पत्ति॰.  
-
-1366.  
-
---1) Emended; A क्रमता.  
+[^1366-1]: Emended; A क्रमता.  
 
 [page 155]  
 
@@ -15007,21 +12449,13 @@ Colophon.
 कार्यं न पश्येदलसः स्वयं यो भृत्येषु विन्यस्तसमस्तकृत्यः । KRT_7_1394ab  
 यष्ट्याश्रयस्येव विनष्टदृष्टेः पदे पदे तस्य किलोपघातः ॥ KRT_7_1394cd  
 
-1379.  
+[^1379-1]: Emended; A धान्व॰.  
 
---1) Emended; A धान्व॰.  
+[^1382-1]: Emended; A नियुक्या.  
 
-1382.  
+[^1384-1]: Emended; A ता भर्तु॰.  
 
---1) Emended; A नियुक्या.  
-
-1384.  
-
---1) Emended; A ता भर्तु॰.  
-
-1392.  
-
---1) Thus A1; corr. by later hand into सैन्य॰.  
+[^1392-1]: Thus A1; corr. by later hand into सैन्य॰.  
 
 [page 156]  
 
@@ -15072,35 +12506,23 @@ Colophon.
 एतस्मिन्पश्चिमे काले भुक्तं राज्यं यथा मया । KRT_7_1416ab  
 जानेविशालेच्छतया तथान्यो नोपभोक्ष्यते ॥ KRT_7_1416cd  
 
-1395.  
+[^1395-1]: ह supplied by A3 in space left by A1.  
 
---1) ह supplied by A3 in space left by A1.  
+[^1398-1]: Thus corr. by later hand from A1 तत्प्रभावः.  
 
-1398.  
+[^1403-1]: Emended; A1 has written first ॰उधुरनख and corrected this into ॰द्धुरनटो.  
 
---1) Thus corr. by later hand from A1 तत्प्रभावः.  
+[^1403-2]: Thus corr. A1 from ज्वालाग्र.  
 
-1403.  
+[^1403-3]: Thus corr. vy A1 from ॰च्छिवो.  
 
---1) Emended; A1 has written first ॰उधुरनख and corrected this into ॰द्धुरनटो.  
+[^1403-4]: प omitted in A.  
 
---2) Thus corr. A1 from ज्वालाग्र.  
+[^1404-1]: Thus A; perhaps, to be emended संचिन्त्य.  
 
---3) Thus corr. vy A1 from ॰च्छिवो.  
+[^1405-1]: Emended; A पुरुषं.  
 
---4) प omitted in A.  
-
-1404.  
-
---1) Thus A; perhaps, to be emended संचिन्त्य.  
-
-1405.  
-
---1) Emended; A पुरुषं.  
-
-1411.  
-
---1) Emended; A वः.  
+[^1411-1]: Emended; A वः.  
 
 [page 157]  
 
@@ -15159,15 +12581,11 @@ Colophon.
 भोगान्निर्वाणभूयिष्ठानिष्टान्प्राप्तानवेत्य तत् । KRT_7_1442ab  
 प्रतिष्ठासौष्ठवत्राणे संरब्धुं देव सांप्रतम् ॥ KRT_7_1442cd  
 
-1430.  
+[^1430-1]: Thus A1; A2 ॰वैबल्य॰.  
 
---1) Thus A1; A2 ॰वैबल्य॰.  
+[^1440-1]: Thus corr. by A1 or a later hand from ॰धातुरियं.  
 
-1440.  
-
---1) Thus corr. by A1 or a later hand from ॰धातुरियं.  
-
---3) The lacuna not indicated in A; न supplied in R C.  
+[^1440-3]: The lacuna not indicated in A; न supplied in R C.  
 
 [page 158]  
 
@@ -15230,25 +12648,15 @@ Colophon.
 तदेष पुत्रराज्येछुर्वध्य[^1470-1]तां निर्भयं रिपुः । KRT_7_1470ab  
 शाहिपुत्रीभिरित्यूचे तस्मिन्नवसरे नृपः ॥ KRT_7_1470cd  
 
-1455.  
+[^1455-1]: Emended; A लक्ष्मीस्तडि॰.  
 
---1) Emended; A लक्ष्मीस्तडि॰.  
+[^1459-1]: Emended; A ॰मुञ्चदचि॰.  
 
-1459.  
+[^1462-1]: A1 writes here 3 instead of तिलकम्.  
 
---1) Emended; A ॰मुञ्चदचि॰.  
+[^1466-1]: A1 writes here 2 instead og युग्मम्( युगलकम्).  
 
-1462.  
-
---1) A1 writes here 3 instead of तिलकम्.  
-
-1466.  
-
---1) A1 writes here 2 instead og युग्मम्( युगलकम्).  
-
-1470.  
-
---1) Emended; A ॰र्बध्यतां.  
+[^1470-1]: Emended; A ॰र्बध्यतां.  
 
 [page 159]  
 
@@ -15315,25 +12723,15 @@ Colophon.
 निजैरुपेक्षितश्चक्रे स चिरं तत्र दुष्करम् । KRT_7_1500ab  
 स्वल्पसैन्योपि संग्रामं भूरिसैन्येन शत्रुणा ॥ KRT_7_1500cd  
 
-1477.  
+[^1477-1]: Emended; A ॰धम्मिल॰.  
 
---1) Emended; A ॰धम्मिल॰.  
+[^1480-1]: Emended; A योधा.  
 
-1480.  
+[^1481-1]: Emended; A क्षतायुः॰.  
 
---1) Emended; A योधा.  
+[^1491-1]: Emended A राज्ञो नन्दा॰.  
 
-1481.  
-
---1) Emended; A क्षतायुः॰.  
-
-1491.  
-
---1) Emended A राज्ञो नन्दा॰.  
-
-1499.  
-
---1) Emended; A योद्धुमस्याप॰.  
+[^1499-1]: Emended; A योद्धुमस्याप॰.  
 
 [page 160]  
 
@@ -15398,23 +12796,15 @@ Colophon.
 नानीतिविन्नाम कश्चित्प्रयोगस्तु विहीयते । KRT_7_1529ab  
 अस्त्रविल्लभ्यते सर्वो विषयज्ञस्तु दुर्लभः ॥ KRT_7_1529cd  
 
-1502.  
+[^1502-1]: Thus corr. by A1 from ॰भिर्नन्द्रराजो॰.  
 
---1) Thus corr. by A1 from ॰भिर्नन्द्रराजो॰.  
+[^1502-2]: Thus corr. by A1 from चात्मजः.  
 
---2) Thus corr. by A1 from चात्मजः.  
+[^1517-1]: Emended; A ॰रुप्य॰.  
 
-1517.  
+[^1523-1]: Emended with C; A वयसो.  
 
---1) Emended; A ॰रुप्य॰.  
-
-1523.  
-
---1) Emended with C; A वयसो.  
-
-1525.  
-
---1) Thus A1; C कलशाख्यं; doubtful.  
+[^1525-1]: Thus A1; C कलशाख्यं; doubtful.  
 
 [page 161]  
 
@@ -15477,21 +12867,13 @@ Colophon.
 उदात्तवेष[^1557-1]रहितो रहोपि ददृशे न यः । KRT_7_1557ab  
 भुञ्जानस्यापि यस्यास्यमुद्रा नैव व्यभाव्यत ॥ KRT_7_1557cd  
 
-1530.  
+[^1530-1]: Emended with C; A जाता तिमेरिव.  
 
---1) Emended with C; A जाता तिमेरिव.  
+[^1531-1]: Emended; A शङ्की॰, corr. by later hand into शल्की॰. Cf. Böhtlingk, Sanskrit Wörterbuch in kürzerer Fassung, vi. 214 b.  
 
-1531.  
+[^1552-1]: Emended; A सावशेषोसौ.  
 
---1) Emended; A शङ्की॰, corr. by later hand into शल्की॰. Cf. Böhtlingk, Sanskrit Wörterbuch in kürzerer Fassung, vi. 214 b.  
-
-1552.  
-
---1) Emended; A सावशेषोसौ.  
-
-1557.  
-
---1) Emended; A ॰वेशर॰.  
+[^1557-1]: Emended; A ॰वेशर॰.  
 
 [page 162]  
 
@@ -15556,29 +12938,17 @@ Colophon.
 युध्यस्व लोहरं वापि याहीत्यूचे च[^1586-1] चण्णकः । KRT_7_1586ab  
 प्रयोगस्योत्तरं पक्षः प्रत्यभान्नाग्रिमः पुनः ॥ KRT_7_1586cd  
 
-1572.  
+[^1572-1]: Emended; A ॰स्तदा ज्ञात्वा.  
 
---1) Emended; A ॰स्तदा ज्ञात्वा.  
+[^1576-1]: Emended; A ॰स्तोमसित॰.  
 
-1576.  
+[^1577-1]: Emended; A वसत्वदृश्ये.  
 
---1) Emended; A ॰स्तोमसित॰.  
+[^1578-1]: Emended; A ॰वेशाः.  
 
-1577.  
+[^1580-1]: Emended; A ॰श्रूयन्त.  
 
---1) Emended; A वसत्वदृश्ये.  
-
-1578.  
-
---1) Emended; A ॰वेशाः.  
-
-1580.  
-
---1) Emended; A ॰श्रूयन्त.  
-
-1586.  
-
---1) च wanting in A; supplied with R C.  
+[^1586-1]: च wanting in A; supplied with R C.  
 
 [page 163]  
 
@@ -15639,33 +13009,21 @@ Colophon.
 तस्मिंस्ल्लोहरकोट्टस्थे तत्पत्न्या स्थातुमर्थितः । KRT_7_1613ab  
 नौभिश्च कोट्टं गन्तुं न प्राविक्षद्दैवमोहितः ॥ KRT_7_1613cd  
 
-1594.  
+[^1594-1]: Emended; A भ्रातृद्वारे.  
 
---1) Emended; A भ्रातृद्वारे.  
+[^1594-2]: Thus A; cf. vii. 1607.  
 
---2) Thus A; cf. vii. 1607.  
+[^1597-1]: Emended; A ॰न्निसारः.  
 
-1597.  
-
---1) Emended; A ॰न्निसारः.  
-
-1598.  
-
---1) Emended A राजपुत्रस्य. Cf. vii.1453  
+[^1598-1]: Emended A राजपुत्रस्य. Cf. vii.1453  
 
 .  
 
-1599.  
+[^1599-1]: A1 writes here 3 instead of तिलकम्.  
 
---1) A1 writes here 3 instead of तिलकम्.  
+[^1604-1]: Emended; A प्राग्जगायन्तत्सिता॰ C ॰गाय तत्पिता॰.  
 
-1604.  
-
---1) Emended; A प्राग्जगायन्तत्सिता॰ C ॰गाय तत्पिता॰.  
-
-1607.  
-
---1) A1 शेया-- राजन्मभ्यो; ज subsequently supplied by A1 or later hand; or but comp. शेषा राजात्मजे. vii.1594.  
+[^1607-1]: A1 शेया-- राजन्मभ्यो; ज subsequently supplied by A1 or later hand; or but comp. शेषा राजात्मजे. vii.1594.  
 
 [page 164]  
 
@@ -15726,51 +13084,29 @@ Colophon.
 निरुष्णीषोङ्गसंस्यूतक्रूतवासाः स्खलन्नृपः । KRT_7_1640ab  
 स तां प्रयागमुक्ताभ्यां कथंचित्प्रापितः कुटीम् ॥ KRT_7_1640cd  
 
-1618.  
+[^1618-1]: A1 writes here 3(instead of युग्मम्?).  
 
---1) A1 writes here 3(instead of युग्मम्?).  
-
-1619.  
-
---1) Emended; A सोनुजन्मना. Cf. vii. 894  
+[^1619-1]: Emended; A सोनुजन्मना. Cf. vii. 894  
 
 .  
 
-1620.  
+[^1620-1]: Emended; A निजम्.  
 
---1) Emended; A निजम्.  
+[^1621-1]: Emended with C; A तं पुनः.  
 
-1621.  
+[^1626-1]: Emended; A भूमादेवस्य.  
 
---1) Emended with C; A तं पुनः.  
+[^1631-1]: Emended; A डामरामि॰.  
 
-1626.  
+[^1633-1]: Thus A.  
 
---1) Emended; A भूमादेवस्य.  
+[^1635-1]: Thus A3; A1 ॰वनान्तिके.  
 
-1631.  
+[^1636-1]: Thus A3; A1 अभूच्छिन्नाभि॰.  
 
---1) Emended; A डामरामि॰.  
+[^1637-1]: वारस्त्रिया supplied by A3 in space left by A1.  
 
-1633.  
-
---1) Thus A.  
-
-1635.  
-
---1) Thus A3; A1 ॰वनान्तिके.  
-
-1636.  
-
---1) Thus A3; A1 अभूच्छिन्नाभि॰.  
-
-1637.  
-
---1) वारस्त्रिया supplied by A3 in space left by A1.  
-
-1638.  
-
---1) Emended; A क्षमम्.  
+[^1638-1]: Emended; A क्षमम्.  
 
 [page 165]  
 
@@ -15833,19 +13169,13 @@ Colophon.
 भृत्यभिक्षाकयोः पूर्वं स्त्रिया अप्यथ पार्थिवः । KRT_7_1668ab  
 स्वं वीक्ष्य गोचरीभूतं निराशो जीवितेभवत् ॥ KRT_7_1668cd  
 
-1644.  
+[^1644-1]: Emended with C; A ॰र्भीतिवतो.  
 
---1) Emended with C; A ॰र्भीतिवतो.  
+[^1661-1]: प्राह्ने कुतश्चि, पसः, चक्रे स्वकुटीं तां, supplied by A3 in space left by A1.  
 
-1661.  
+[^1662-1]: Thus corr. by A2 from A1 चाधम॰.  
 
---1) प्राह्ने कुतश्चि, पसः, चक्रे स्वकुटीं तां, supplied by A3 in space left by A1.  
-
-1662.  
-
---1) Thus corr. by A2 from A1 चाधम॰.  
-
---2) Emended; A ॰मषका॰.  
+[^1662-2]: Emended; A ॰मषका॰.  
 
 [page 166]  
 
@@ -15904,41 +13234,25 @@ Colophon.
 इल्लाराजस्तां प्रवृत्तिं बुद्ध्वा ताभ्यां न्यवेदयत् । KRT_7_1694ab  
 उच्चलाय समादिक्षत्कार्ये तत्र तमेव सः ॥ KRT_7_1694cd  
 
-1671.  
+[^1671-1]: Emended; A तेनार्ध.  
 
---1) Emended; A तेनार्ध.  
+[^1673-1]: स्तया supplied by A3 in space left by A1.  
 
-1673.  
+[^1676-1]: Thus corr. by A3 from A1 ह्नुतो.  
 
---1) स्तया supplied by A3 in space left by A1.  
+[^1676-2]: रक्ष्याम्यनु and ताचारै supplied by A3 in space left by A1.  
 
-1676.  
+[^1679-1]: Thus corr. by later hand from A1 ॰वदना.  
 
---1) Thus corr. by A3 from A1 ह्नुतो.  
+[^1679-2]: Emended with C; A ॰श्यायोम्भो॰.  
 
---2) रक्ष्याम्यनु and ताचारै supplied by A3 in space left by A1.  
+[^1681-1]: Two aksharas wanting in fourth ; the lacuna not marked in A; C तद्वीक्षणात्पुरः.  
 
-1679.  
+[^1686-1]: Thus A1; A3 पूर्वमाप्तक्षये.  
 
---1) Thus corr. by later hand from A1 ॰वदना.  
+[^1688-1]: प्रैरयत्तापसं supplied by A3 in space left by A1.  
 
---2) Emended with C; A ॰श्यायोम्भो॰.  
-
-1681.  
-
---1) Two aksharas wanting in fourth ; the lacuna not marked in A; C तद्वीक्षणात्पुरः.  
-
-1686.  
-
---1) Thus A1; A3 पूर्वमाप्तक्षये.  
-
-1688.  
-
---1) प्रैरयत्तापसं supplied by A3 in space left by A1.  
-
-1692.  
-
---1) Emended; A दोग्धृतां.  
+[^1692-1]: Emended; A दोग्धृतां.  
 
 [page 167]  
 
@@ -15995,29 +13309,19 @@ Colophon.
 तस्यासन्क्ष्मार्कजौ जीवबुधौ शुक्रोष्णगू[^1719-2] शशी । KRT_7_1719ab  
 तनयामित्रजामित्रखेषु कर्कटजन्मनः[^1719-3] ॥ KRT_7_1719cd  
 
-1695.  
+[^1695-1]: Emended; A भूमिश्चा॰. Cf. viii. 94.  
 
---1) Emended; A भूमिश्चा॰. Cf. viii. 94.  
+[^1704-1]: Emended; A संकटी कु॰.  
 
-1704.  
+[^1707-1]: Emended with C; A प्रविष्ट.  
 
---1) Emended; A संकटी कु॰.  
+[^1717-1]: Emended; A द्वाचत्वारिंशतः.  
 
-1707.  
+[^1719-1]: Emended; A तस्यासी क्ष्मा॰.  
 
---1) Emended with C; A प्रविष्ट.  
+[^1719-2]: Emended with C; A ॰ष्णगी.  
 
-1717.  
-
---1) Emended; A द्वाचत्वारिंशतः.  
-
-1719.  
-
---1) Emended; A तस्यासी क्ष्मा॰.  
-
---2) Emended with C; A ॰ष्णगी.  
-
---3) A2 explains this verse by the following janmachakra: कं । सिं । क । मि । वृ । मे चं । मी । कुं । म सू शु । ध्ं बु जी । वृं भौ श । तुं ।  
+[^1719-3]: A2 explains this verse by the following janmachakra: कं । सिं । क । मि । वृ । मे चं । मी । कुं । म सू शु । ध्ं बु जी । वृं भौ श । तुं ।  
 
 [page 168]  
 
@@ -16051,21 +13355,15 @@ Colophon.
 शृङ्गं दुरैर्विरहितं जहती हिमाद्रेर्दिव्ये तटे सुरगिरेरिव वासरश्रीः ॥ KRT_7_1732cd  
 
 
-इति काश्मीरिकमहामात्यचण्पकप्रभुसूनोः कल्हणस्य कवेः कृतौ राजतरङ्गिण्यां सप्तमस्तरङ्गः ॥ समाष्टानवतावस्यां त्र्यहोनायां महीभुजः । षडत्रोदयराजस्य वंशे जाताः प्रकीर्तिताः ॥ राजानः 6 श्लोकाः 1723(1) ॥  
+इति काश्मीरिकमहामात्यचण्पकप्रभुसूनोः कल्हणस्य कवेः कृतौ राजतरङ्गिण्यां सप्तमस्तरङ्गः ॥ समाष्टानवतावस्यां त्र्यहोनायां महीभुजः । षडत्रोदयराजस्य वंशे जाताः प्रकीर्तिताः ॥ राजानः 6 श्लोकाः 1723[^col-1] ॥  
 
-1720.  
+[^1720-1]: A2 gloss शु.  
 
---1) A2 gloss शु.  
+[^1732-1]: Emended; A श्रीसात॰.  
 
-1732.  
+[^1732-2]: Emended; A कान्तराज॰. Cf. vii. 1285.  
 
---1) Emended; A श्रीसात॰.  
-
---2) Emended; A कान्तराज॰. Cf. vii. 1285.  
-
-Colophon.  
-
---1) Thus A1, perhaps for 1732. A1 adds here लिखितश्चैष मया राजानकरत्नकण्ठेन.  
+[^col-1]: Thus A1, perhaps for 1732. A1 adds here लिखितश्चैष मया राजानकरत्नकण्ठेन.  
 
 [page 169]  
 
@@ -16117,23 +13415,15 @@ Colophon.
 इति संचिन्त्य स द्वारदित्सां तस्योदघोषयत् । KRT_8_0021ab  
 यथा विकारं प्रययुर्भीमादेवादयोखिलाः ॥ KRT_8_0021cd  
 
-0001.  
+[^0001-1]: Thus A1; A2 भिन्द्यादु॰.  
 
---1) Thus A1; A2 भिन्द्यादु॰.  
+[^0002-1]: Emended; A ॰भूत्किंचित्कालं.  
 
-0002.  
+[^0005-1]: कोशासिः supplied by A3 in space left by A1.  
 
---1) Emended; A ॰भूत्किंचित्कालं.  
+[^0005-2]: Emended with C; A सूतं.  
 
-0005.  
-
---1) कोशासिः supplied by A3 in space left by A1.  
-
---2) Emended with C; A सूतं.  
-
-0018.  
-
---1) Emended with C; A समर्पयत्.  
+[^0018-1]: Emended with C; A समर्पयत्.  
 
 [page 170]  
 
@@ -16198,33 +13488,21 @@ Colophon.
 तेनानुपचिताङ्गेन प्रायशो विनिवारिताः । KRT_8_0050ab  
 अनूरुणेव सदृष्टिध्वंसिनो ध्वान्तसंचयाः ॥ KRT_8_0050cd  
 
-0026.  
+[^0026-1]: स्पृ supplied by A3 in space left by A1.  
 
---1) स्पृ supplied by A3 in space left by A1.  
+[^0027-1]: Emended; A निहिता॰.  
 
-0027.  
+[^0039-1]: Emended; A प्राप्तराज्यं.  
 
---1) Emended; A निहिता॰.  
+[^0044-1]: Emended; A सापराध न क्वचित्.  
 
-0039.  
+[^0047-1]: Thus A1; corr. byu later hand into अन्यायो॰.  
 
---1) Emended; A प्राप्तराज्यं.  
+[^0048-1]: तस्यैवालुप्तधैर्यस्य राज्ञां मध्ये supplied by A3 in space left by A1.  
 
-0044.  
+[^0048-2]: Thus A3; A1 कार्मणापहतं.  
 
---1) Emended; A सापराध न क्वचित्.  
-
-0047.  
-
---1) Thus A1; corr. byu later hand into अन्यायो॰.  
-
-0048.  
-
---1) तस्यैवालुप्तधैर्यस्य राज्ञां मध्ये supplied by A3 in space left by A1.  
-
---2) Thus A3; A1 कार्मणापहतं.  
-
---3) Thus A3; A1 नाप्राभूद॰.  
+[^0048-3]: Thus A3; A1 नाप्राभूद॰.  
 
 [page 171]  
 
@@ -16289,29 +13567,17 @@ Colophon.
 हर्षदेवेन यो निन्ये श्रीपरीहासकेशवः । KRT_8_0079ab  
 परिहासपुरे तं स नवं नरपतिर्व्यधात् ॥ KRT_8_0079cd  
 
-0053.  
+[^0053-1]: Emended; A दोषादर्ता॰; C दोषाद्दत्ता॰.  
 
---1) Emended; A दोषादर्ता॰; C दोषाद्दत्ता॰.  
+[^0057-1]: A विस्रम्भ॰.  
 
-0057.  
+[^0071-1]: Thus A1; A3 ॰स्यास्तु.  
 
---1) A विस्रम्भ॰.  
+[^0072-1]: Emended; A ॰विभ्रमास्तान्ये.  
 
-0071.  
+[^0073-1]: Emended; A काश्मीरकोपि.  
 
---1) Thus A1; A3 ॰स्यास्तु.  
-
-0072.  
-
---1) Emended; A ॰विभ्रमास्तान्ये.  
-
-0073.  
-
---1) Emended; A काश्मीरकोपि.  
-
-0076.  
-
---1) Emended; A ॰पमार्तिषु.  
+[^0076-1]: Emended; A ॰पमार्तिषु.  
 
 [page 172]  
 
@@ -16378,11 +13644,9 @@ Colophon.
 तान्प्रजाकण्टकान्दुष्टान्कृतधीरकृतानिशम् । KRT_8_0109ab  
 तैस्तैः शुचिभिरध्यक्षैः स विशामीश्वरो वशान् ॥ KRT_8_0109cd  
 
-0094.  
+[^0094-1]: Emended; A ॰डूतभिश्चधा॰.  
 
---1) Emended; A ॰डूतभिश्चधा॰.  
-
---2) Emended; A डोम्भ॰.  
+[^0094-2]: Emended; A डोम्भ॰.  
 
 [page 173]  
 
@@ -16445,25 +13709,15 @@ Colophon.
 छिन्नोपानत्कषाबन्धे शतं चर्मकृतेर्पितम् । KRT_8_0137ab  
 विपादिकाकृते दास्या नीतं पञ्चाशतो घृतम् ॥ KRT_8_0137cd  
 
-0110.  
+[^0110-1]: A1 indicates here a lacuna of one of akshara.  
 
---1) A1 indicates here a lacuna of one of akshara.  
+[^0111-1]: Emended with C; A लोक॰.  
 
-0111.  
+[^0125-1]: Emended; A ॰भूदत्तमा॰. Cf. viii. 154.  
 
---1) Emended with C; A लोक॰.  
+[^0126-1]: Emended; A विंशद्विंशद्यातास्. Cf. v.210.  
 
-0125.  
-
---1) Emended; A ॰भूदत्तमा॰. Cf. viii. 154.  
-
-0126.  
-
---1) Emended; A विंशद्विंशद्यातास्. Cf. v.210.  
-
-0132.  
-
---1) Emended; A किराटे.  
+[^0132-1]: Emended; A किराटे.  
 
 [page 174]  
 
@@ -16526,17 +13780,11 @@ Colophon.
 प्रसुप्तानां फणीन्द्राणामिव कोपोद्भवं विना । KRT_8_0165ab  
 तेजो विस्फूर्जितं ज्ञेयं न हि नाम शरीरिणाम् ॥ KRT_8_0165cd  
 
-0147.  
+[^0147-1]: A विस्रम्भ॰.  
 
---1) A विस्रम्भ॰.  
+[^0149-1]: Emended with C; A क्रौर्यानर्य॰.  
 
-0149.  
-
---1) Emended with C; A क्रौर्यानर्य॰.  
-
-0162.  
-
---1) Emended; A स किला॰  
+[^0162-1]: Emended; A स किला॰  
 
 [page 175]  
 
@@ -16601,17 +13849,11 @@ Colophon.
 विद्रुतस्यास्पदे तस्य नानोपकरणैश्च्युतैः । KRT_8_0194ab  
 ताम्बूलवलीकू[^0194-1]टैश्च सामग्री समभाव्यत ॥ KRT_8_0194cd  
 
-0184.  
+[^0184-1]: Emended with C; A ॰श्चास्तम॰.  
 
---1) Emended with C; A ॰श्चास्तम॰.  
+[^0186-1]: Emended; A ॰जीर्णानौकह॰.  
 
-0186.  
-
---1) Emended; A ॰जीर्णानौकह॰.  
-
-0194.  
-
---1) Emended; A ताम्बूलवेलाकू॰.  
+[^0194-1]: Emended; A ताम्बूलवेलाकू॰.  
 
 [page 176]  
 
@@ -16674,25 +13916,15 @@ Colophon.
 पलायनैर्वापयाति निश्चला भवितव्यता । KRT_8_0222ab  
 देहिनः पुच्छसंलीना वह्निज्वालेव पक्षिणः ॥ KRT_8_0222cd  
 
-0199.  
+[^0199-1]: Emended; A ॰नीकान्गग्ग॰.  
 
---1) Emended; A ॰नीकान्गग्ग॰.  
+[^0204-1]: Emended; A कालिन्दर॰. Cf. vii.1256. viii. 618.  
 
-0204.  
+[^0214-1]: Emended with C; A वद्रव॰.  
 
---1) Emended; A कालिन्दर॰. Cf. vii.1256. viii. 618.  
+[^0216-1]: Thus corr. by A3 from A1 मल्लरामाला॰.  
 
-0214.  
-
---1) Emended with C; A वद्रव॰.  
-
-0216.  
-
---1) Thus corr. by A3 from A1 मल्लरामाला॰.  
-
-0217.  
-
---1) A1 writes here 2 instead of युग्मम्.  
+[^0217-1]: A1 writes here 2 instead of युग्मम्.  
 
 [page 177]  
 
@@ -16753,25 +13985,15 @@ Colophon.
 मृत्योर्मस्तकपातित्वं तस्याकलयतः किल । KRT_8_0249ab  
 न निष्ठां स्वप्रतिष्ठासु संप्रपेदे व्ययस्थितिः ॥ KRT_8_0249cd  
 
-0227.  
+[^0227-1]: A1 writes here 3 instead of तिलकम्.  
 
---1) A1 writes here 3 instead of तिलकम्.  
+[^0230-1]: Emended; A ॰लात्तावत्तमुप॰.  
 
-0230.  
+[^0234-1]: Emended with C; A ॰शङ्कत.  
 
---1) Emended; A ॰लात्तावत्तमुप॰.  
+[^0237-1]: A3 gloss प्रतिविषा वीरुत् यस्या उपविषेत्यादिनामान्तरं कोशे यथा विश्वाविषा प्रतिविषातिविषोपविषारुणा शृङ्गीमहौषधं चेति( ii. 4.99-100).  
 
-0234.  
-
---1) Emended with C; A ॰शङ्कत.  
-
-0237.  
-
---1) A3 gloss प्रतिविषा वीरुत् यस्या उपविषेत्यादिनामान्तरं कोशे यथा विश्वाविषा प्रतिविषातिविषोपविषारुणा शृङ्गीमहौषधं चेति( ii. 4.99-100).  
-
-0247.  
-
---1) Emended; A ॰मठे.  
+[^0247-1]: Emended; A ॰मठे.  
 
 [page 178]  
 
@@ -16838,13 +14060,9 @@ Colophon.
 जिघांसवस्ते नृपतिं प्रसङ्गापेक्षिणः परैः । KRT_8_0279ab  
 समगंसत दुष्प्रज्ञैरथ हंसरथादिभिः ॥ KRT_8_0279cd  
 
-0252.  
+[^0252-1]: Doubtful emendation; A ॰मुद्रोजोवष्टम्भ॰.  
 
---1) Doubtful emendation; A ॰मुद्रोजोवष्टम्भ॰.  
-
-0275.  
-
---1) Emended; A पुत्रायाच्छिन्न॰.  
+[^0275-1]: Emended; A पुत्रायाच्छिन्न॰.  
 
 [page 179]  
 
@@ -16909,35 +14127,21 @@ Colophon.
 अन्यैरप्यग्रिमे द्वारे निरुद्धे सर्व एव ते । KRT_8_0308ab  
 जिघांसवः समुत्थाय नृपतिं पर्यवाaरयन् ॥ KRT_8_0308cd  
 
-0283.  
+[^0283-1]: Emended with C; A पार्थिवे.  
 
---1) Emended with C; A पार्थिवे.  
+[^0285-1]: Emended; A महा॰.  
 
-0285.  
+[^0286-1]: Emended with C; A विद्वत्स॰.  
 
---1) Emended; A महा॰.  
+[^0290-1]: A omits here two without indicating a lacuna. C adds here: तं प्रेष्ठं सर्व्वलोकानां श्रेष्ठं सर्व्वक्षमाभुजां.  
 
-0286.  
+[^0292-1]: Emended with C; A निर्वृतीड्किमपि.  
 
---1) Emended with C; A विद्वत्स॰.  
+[^0292-2]: Emended; A ॰दुदुक्षूंस्तु.  
 
-0290.  
+[^0295-1]: Emended with C; A ॰मिश्रं वै॰.  
 
---1) A omits here two without indicating a lacuna. C adds here: तं प्रेष्ठं सर्व्वलोकानां श्रेष्ठं सर्व्वक्षमाभुजां.  
-
-0292.  
-
---1) Emended with C; A निर्वृतीड्किमपि.  
-
---2) Emended; A ॰दुदुक्षूंस्तु.  
-
-0295.  
-
---1) Emended with C; A ॰मिश्रं वै॰.  
-
-0309.  
-
---1) A दुद्रुक्षु॰  
+[^0309-1]: A दुद्रुक्षु॰  
 
 [page 180]  
 
@@ -17000,9 +14204,7 @@ Colophon.
 परासुमहितैस्त्यक्तं तमनाथमिव प्रभुम् । KRT_8_0336ab  
 नग्रं हुताशसात्कृतुं स्वच्छन्नग्राहिणोनयन् ॥ KRT_8_0336cd  
 
-0309.  
-
---1) Thus corr. by A1 from ॰स्तेज्जः.  
+[^0309-1]: Thus corr. by A1 from ॰स्तेज्जः.  
 
 [page 181]  
 
@@ -17063,23 +14265,15 @@ Colophon.
       कारुण्योत्पत्तये दत्त्वा कोशं जीवितकामया । KRT_8_0363ab  
       जयमत्या तदावादि गर्गः कपटशीलया ॥ KRT_8_0363cd  
 
-0343.  
+[^0343-1]: There words written by A1 after verse 342, belong apparently to a verse of which the beginning is lost; the lacuna in the text is not indicated in A. Perhaps, more verses have been lost here.  
 
---1) There words written by A1 after verse 342, belong apparently to a verse of which the beginning is lost; the lacuna in the text is not indicated in A. Perhaps, more verses have been lost here.  
+[^0343-2]: A तन्निदि॰.  
 
---2) A तन्निदि॰.  
+[^0348-1]: Thus corr. by A1 from गग्गः.  
 
-0348.  
+[^0352-1]: Thus corr. by A1 from गग्गं.  
 
---1) Thus corr. by A1 from गग्गः.  
-
-0352.  
-
---1) Thus corr. by A1 from गग्गं.  
-
-0358.  
-
---1) A1 gloss अहं हन्ता.  
+[^0358-1]: A1 gloss अहं हन्ता.  
 
 [page 182]  
 
@@ -17142,17 +14336,11 @@ Colophon.
 प्रवृत्तायां विभावर्यां दूतैः कृतगतागतैः । KRT_8_0391ab  
 तस्याङ्गीकृतसामापि गर्गो द्रोग्धाभ्यधीयत ॥ KRT_8_0391cd  
 
-0369.  
+[^0369-1]: Emended; A राज्ञो.  
 
---1) Emended; A राज्ञो.  
+[^0372-1]: Emended with C; A ॰न्वेष्यन्त.  
 
-0372.  
-
---1) Emended with C; A ॰न्वेष्यन्त.  
-
-0373.  
-
---1) Thus A4 C R; A1 यं.  
+[^0373-1]: Thus A4 C R; A1 यं.  
 
 [page 183]  
 
@@ -17219,17 +14407,11 @@ Colophon.
 पुरुषान्तरविज्ञानविहीनस्य प्रमाद्यतः । KRT_8_0421ab  
 सर्वोपि तस्य तन्त्रज्ञैर्व्यवहारो व्यहस्यत ॥ KRT_8_0421cd  
 
-0396.  
+[^0396-1]: Emended with C; A सन्दिशत्.  
 
---1) Emended with C; A सन्दिशत्.  
+[^0418-1]: Thus A.  
 
-0418.  
-
---1) Thus A.  
-
-0420.  
-
---1) Emended with C; A लोष्ठनः.  
+[^0420-1]: Emended with C; A लोष्ठनः.  
 
 [page 184]  
 
@@ -17294,27 +14476,17 @@ Colophon.
 कालवित्सुस्सलो गर्गाद्बद्धसंधिरपि त्रसन् । KRT_8_0450ab  
 न्ययुङ्क्ताग्रे सञ्जपालं काश्मीरौन्मुख्यभाक्ततः ॥ KRT_8_0450cd  
 
-0422.  
+[^0422-1]: Emended; A ॰स्योजस्सूह॰. Cf.viii.437.  
 
---1) Emended; A ॰स्योजस्सूह॰. Cf.viii.437.  
+[^0443-1]: Emended; A नृपोब्रवीत्.  
 
-0443.  
+[^0444-1]: A1 ॰प्रवेशैर्जनः, without indicating the lacuna; C ॰देशैरिह दुर्जनः.  
 
---1) Emended; A नृपोब्रवीत्.  
+[^0444-2]: Emended; A ॰भीभवत्.  
 
-0444.  
+[^0445-1]: Thus corr. by later hand from A वसन्तीं.  
 
---1) A1 ॰प्रवेशैर्जनः, without indicating the lacuna; C ॰देशैरिह दुर्जनः.  
-
---2) Emended; A ॰भीभवत्.  
-
-0445.  
-
---1) Thus corr. by later hand from A वसन्तीं.  
-
-0449.  
-
---1) Emended with R C; A राजका॰.  
+[^0449-1]: Emended with R C; A राजका॰.  
 
 [page 185]  
 
@@ -17381,17 +14553,11 @@ Colophon.
 त्र्यहोनांश्चतुरो मासान्भुक्तराज्यं बबन्ध तम् । KRT_8_0480ab  
 सितस्य सोष्टाशीतेब्दे राधस्य त्रितयेहनि ॥ KRT_8_0480cd  
 
-0452.  
+[^0452-1]: Thus A.  
 
---1) Thus A.  
+[^0462-1]: Emended with C; A साधाद्वि॰.  
 
-0462.  
-
---1) Emended with C; A साधाद्वि॰.  
-
-0466.  
-
---1)Emended; A ग्रामनि॰.  
+[^0466-1]:Emended; A ग्रामनि॰.  
 
 :p: 186  
 तेन सिंहासने क्रान्ते भास्वतेव नभस्तले । KRT_8_0481ab  
@@ -17453,17 +14619,11 @@ Colophon.
 हर्षमित्रः कम्पनेशो भूभर्तुर्मातुलात्मजः । KRT_8_0509ab  
 विजयेन हतानीको विदधे विजयेश्वरे ॥ KRT_8_0509cd  
 
-0492.  
+[^0492-1]: Emended; A ॰नैयत्या तु.  
 
---1) Emended; A ॰नैयत्या तु.  
+[^0498-1]: Emended with C; A स्वप्नेदृश्यत.  
 
-0498.  
-
---1) Emended with C; A स्वप्नेदृश्यत.  
-
-0506.  
-
---1) Emended with C; A राज्यसै॰  
+[^0506-1]: Emended with C; A राज्यसै॰  
 
 [page 187]  
 
@@ -17526,17 +14686,11 @@ Colophon.
 अथानेष्वपि भृत्येषु राज्ञा निर्वासितेषु सः । KRT_8_0537ab  
 मिलितेषु प्रथां यावद्यथावदुपलब्धवान् ॥ KRT_8_0537cd  
 
-0514.  
+[^0514-1]: Emended; A फलाहा॰. Cf. हालालाण्डामरान् viii.425.  
 
---1) Emended; A फलाहा॰. Cf. हालालाण्डामरान् viii.425.  
+[^0517-1]: Emended; A with diplography मल्लकोष्ठकोष्ठकम्.  
 
-0517.  
-
---1) Emended; A with diplography मल्लकोष्ठकोष्ठकम्.  
-
-0534.  
-
---1) Emended with C; A राजा.  
+[^0534-1]: Emended with C; A राजा.  
 
 [page 188]  
 
@@ -17601,25 +14755,15 @@ Colophon.
 कोशः कृपणवित्तेन प्रविष्टेन हि दूषितः । KRT_8_0566ab  
 भुज्यते भूमिपालानां तस्करैरथ वारिभिः ॥ KRT_8_0566cd  
 
-0538.  
+[^0538-1]: Comp. vii. 588.  
 
---1) Comp. vii. 588.  
+[^0545-1]: A1 with Diplography दर्यको राजको राजपुत्रस्तं.  
 
-0545.  
+[^0550-1]: Emended; A प्रतिगतो.  
 
---1) A1 with Diplography दर्यको राजको राजपुत्रस्तं.  
+[^0552-1]: Emended; A क्षणे.  
 
-0550.  
-
---1) Emended; A प्रतिगतो.  
-
-0552.  
-
---1) Emended; A क्षणे.  
-
-0563.  
-
---1) Emended; A निर्वार्य.  
+[^0563-1]: Emended; A निर्वार्य.  
 
 [page 189]  
 
@@ -17686,17 +14830,11 @@ Colophon.
 गिरिमूलोपविष्टस्य भूपतेः सैनिकैः समम् । KRT_8_0596ab  
 तेषु तेष्वकरोन्नित्यं गिरिमार्गेषु संगरम् ॥ KRT_8_0596cd  
 
-0575.  
+[^0575-1]: Emended with C; A प्रकम्पं सहिता॰.  
 
---1) Emended with C; A प्रकम्पं सहिता॰.  
+[^0577-1]: Emended; A ॰श्रयान्प्राप्त॰.  
 
-0577.  
-
---1) Emended; A ॰श्रयान्प्राप्त॰.  
-
-0581.  
-
---1) Thus A; cf. viii. 764, 831, 1947(C).  
+[^0581-1]: Thus A; cf. viii. 764, 831, 1947(C).  
 
 [page 190]  
 
@@ -17759,25 +14897,15 @@ Colophon.
 दत्त्वा राज्ये नागपालं सोमपाले पलायिते । KRT_8_0624ab  
 सप्त मासान्स तत्रासीत्तांस्तान्संवासयन्रिपून् ॥ KRT_8_0624cd  
 
-0918.  
+[^0918-1]: A फाल्गुणे.  
 
---1) A फाल्गुणे.  
+[^0604-1]: Emended with C; A पार्णिवा॰.  
 
-0604.  
+[^0605-1]: Emended; A ॰क्षिप्तशस्त्रं.  
 
---1) Emended with C; A पार्णिवा॰.  
+[^0609-1]: Emended; A सङ्ग्रमि प्रा॰.  
 
-0605.  
-
---1) Emended; A ॰क्षिप्तशस्त्रं.  
-
-0609.  
-
---1) Emended; A सङ्ग्रमि प्रा॰.  
-
-0610.  
-
---1) Emended with C; A समर्पयत्.  
+[^0610-1]: Emended with C; A समर्पयत्.  
 
 [page 191]  
 
@@ -17842,33 +14970,19 @@ Colophon.
 संग्रामैः खण्डशः कुर्वन्स तानतुलविक्रमः । KRT_8_0653ab  
 विद्रावयामास रयैः पुरोवायुरिवाम्बुदान् ॥ KRT_8_0653cd  
 
-0626.  
+[^0626-1]: Emended; A तान्सैन्य॰.  
 
---1) Emended; A तान्सैन्य॰.  
+[^0631-1]: Emended with C; A स्थापितां.  
 
-0631.  
+[^0633-1]: Emended; A अनन्ताधिपमा॰. Cf. viii.713. 1005. 1042.  
 
---1) Emended with C; A स्थापितां.  
+[^0636-1]: Emended; A क्षोभतस्ततः.  
 
-0633.  
+[^0640-1]: Emended with C; A ॰कारिणाम्.  
 
---1) Emended; A अनन्ताधिपमा॰. Cf. viii.713. 1005. 1042.  
+[^0644-1]: Emended with C; A परंस्त॰.  
 
-0636.  
-
---1) Emended; A क्षोभतस्ततः.  
-
-0640.  
-
---1) Emended with C; A ॰कारिणाम्.  
-
-0644.  
-
---1) Emended with C; A परंस्त॰.  
-
-0650.  
-
---1) Emended with C; A प्रमाद्भूपतेः.  
+[^0650-1]: Emended with C; A प्रमाद्भूपतेः.  
 
 [page 192]  
 
@@ -17931,25 +15045,15 @@ Colophon.
 येनैवानीतिमार्गेण हारितं हर्षभूभुजा । KRT_8_0681ab  
 निन्दन्नप्यादधे तं स राज्ये व्यवहरन्स्वयम् ॥ KRT_8_0681cd  
 
-0656.  
+[^0656-1]: Thus corr. by A1 from पदं.  
 
---1) Thus corr. by A1 from पदं.  
+[^0665-1]: Emended; A ॰दौरात्म्यासं॰.  
 
-0665.  
+[^0669-1]: मात्र supplied by A3.  
 
---1) Emended; A ॰दौरात्म्यासं॰.  
+[^0674-1]: Emended; A चरके॰.  
 
-0669.  
-
---1) मात्र supplied by A3.  
-
-0674.  
-
---1) Emended; A चरके॰.  
-
-0677.  
-
---1) Emended; A तथैव.  
+[^0677-1]: Emended; A तथैव.  
 
 [page 193]  
 
@@ -18008,23 +15112,15 @@ Colophon.
 स्वभावदुर्जनाः केचिद्योधाश्चोच्चाश्वकाङ्क्षिणः । KRT_8_0707ab  
 कारयन्तोप्युपाध्यायाः शिष्यान्स्फिक्कष[^0707-1]णं नखैः ॥ KRT_8_0707cd  
 
-0194.  
+[^0194-1]: Emended; A ॰कोष्ठं.  
 
---1) Emended; A ॰कोष्ठं.  
+[^0194-2]: Emended; A विषलाटं. Cf. viii. 177. 1074. 1564(C).  
 
---2) Emended; A विषलाटं. Cf. viii. 177. 1074. 1564(C).  
+[^0701-1]: Emended; A ॰चरागम्.  
 
-0701.  
+[^0704-1]: A1 writes 2 instead of युग्मम्.  
 
---1) Emended; A ॰चरागम्.  
-
-0704.  
-
---1) A1 writes 2 instead of युग्मम्.  
-
-0707.  
-
---1) Thus corr. by A3 from A1 शिष्याक्स्फिक्क॰.  
+[^0707-1]: Thus corr. by A3 from A1 शिष्याक्स्फिक्क॰.  
 
 [page 194]  
 
@@ -18089,25 +15185,15 @@ Colophon.
 प्रसरत्प्रेक्षिनिवहा व[^0736-1]हदाशुगभारिकाः । KRT_8_0736ab  
 संचार्यमाणसंनाहाः कृष्यमाणतुरंगमाः ॥ KRT_8_0736cd  
 
-0716.  
+[^0716-1]: A1 writes here 2 instead of युग्मम्.  
 
---1) A1 writes here 2 instead of युग्मम्.  
+[^0725-1]: य and माथाय supplied by A3 in space left by A1.  
 
-0725.  
+[^0726-1]: Emended; A संगृहीतुं.  
 
---1) य and माथाय supplied by A3 in space left by A1.  
+[^0733-1]: A ॰होलळौ॰.  
 
-0726.  
-
---1) Emended; A संगृहीतुं.  
-
-0733.  
-
---1) A ॰होलळौ॰.  
-
-0736.  
-
---1) Emended with C; A व्यहद॰.  
+[^0736-1]: Emended with C; A व्यहद॰.  
 
 [page 195]  
 
@@ -18172,25 +15258,15 @@ Colophon.
 सिंहे गजाहवव्यग्रे तद्गुहाग्रपरिग्रहे । KRT_8_0765ab  
 समयो ग्रामगोमायोः पौरुषस्यापरोस्तु कः ॥ KRT_8_0765cd  
 
-0737.  
+[^0737-1]: A1 writes 3 instead of तिलकम्.  
 
---1) A1 writes 3 instead of तिलकम्.  
+[^0746-1]: Thus corr. by A3 from A1 कम्पनेशस्य.  
 
-0746.  
+[^0753-1]: Thus corr. by A3 from A1 ॰पद्यत.  
 
---1) Thus corr. by A3 from A1 कम्पनेशस्य.  
+[^0756-1]: A1 writes here 2 for युग्मम् which would be in its place after the following verse.  
 
-0753.  
-
---1) Thus corr. by A3 from A1 ॰पद्यत.  
-
-0756.  
-
---1) A1 writes here 2 for युग्मम् which would be in its place after the following verse.  
-
-0764.  
-
---1) Emended; A ॰चाटलिकां. Cf. viii. 581. 831. 1947(C).  
+[^0764-1]: Emended; A ॰चाटलिकां. Cf. viii. 581. 831. 1947(C).  
 
 [page 196]  
 
@@ -18324,29 +15400,17 @@ n
 द्रोहं न कुर्यादेवं मे चिन्तयित्वेति सत्वरम् । KRT_8_0822ab  
 वेश्म हुष्कपुरेन्येद्युस्तस्य च प्राविशत्स्वयम् ॥ KRT_8_0822cd  
 
-0797.  
+[^0797-1]: Emended; A ॰ममर्ष.  
 
---1) Emended; A ॰ममर्ष.  
+[^0802-1]: Emended; A दुद्रुक्षून॰.  
 
-0802.  
+[^0810-1]: Emended with C; A विचलि॰.  
 
---1) Emended; A दुद्रुक्षून॰.  
+[^0813-1]: Emended; A स शस्त्रिभिः.  
 
-0810.  
+[^0816-1]: Emended; A आङ्गना॰.  
 
---1) Emended with C; A विचलि॰.  
-
-0813.  
-
---1) Emended; A स शस्त्रिभिः.  
-
-0816.  
-
---1) Emended; A आङ्गना॰.  
-
-0819.  
-
---1) Emended with C; A षण्णनवते.  
+[^0819-1]: Emended with C; A षण्णनवते.  
 
 [page 198]  
 
@@ -18409,25 +15473,15 @@ n
 अयं पितुः प्रियस्तेभूत्त्वमस्याङ्के विवर्धितः । KRT_8_0850ab  
 राज्यस्यायं मूलमिति प्रत्येकं समदर्शयत् ॥ KRT_8_0850cd  
 
-0823.  
+[^0823-1]: Emended; A जनोत्सुकः  
 
---1) Emended; A जनोत्सुकः  
+[^0824-1]: A ॰न्कल्याणवाळादी॰.  
 
-0824.  
+[^0830-1]: Emended with C; A भिन्नोवस्थां.  
 
---1) A ॰न्कल्याणवाळादी॰.  
+[^0837-1]: Doubtful emendation; A पुराणि राज॰.  
 
-0830.  
-
---1) Emended with C; A भिन्नोवस्थां.  
-
-0837.  
-
---1) Doubtful emendation; A पुराणि राज॰.  
-
-0847.  
-
---1) A omits here two akshara without indicating a lacuna; चापि supplied with C.  
+[^0847-1]: A omits here two akshara without indicating a lacuna; चापि supplied with C.  
 
 [page 199]  
 
@@ -18492,35 +15546,21 @@ n
 द्रुह्यञ्जनककाणोपि संबन्धापेक्षयोज्झितः । KRT_8_0879ab  
 विरागमोजानन्दादीन्निन्ये ब्राह्मणमन्त्रिणः ॥ KRT_8_0879cd  
 
-0851.  
+[^0851-1]: Thus A.  
 
---1) Thus A.  
+[^0854-1]: A कोषेण.  
 
-0854.  
+[^0862-1]: Emended with C; A राजा लक्ष्मीबिम्बमशिश्रयन्.  
 
---1) A कोषेण.  
+[^0865-1]: Emended; A भूतविश्चा॰. Cf. vii. 1695. viii. 94.  
 
-0862.  
+[^0870-1]: Emended with C; A वैश्यैच्छ॰.  
 
---1) Emended with C; A राजा लक्ष्मीबिम्बमशिश्रयन्.  
+[^0874-1]: Emended; A ॰मुष्टिर्वि॰.  
 
-0865.  
+[^0874-2]: Emended with C; A तस्याश्चेव.  
 
---1) Emended; A भूतविश्चा॰. Cf. vii. 1695. viii. 94.  
-
-0870.  
-
---1) Emended with C; A वैश्यैच्छ॰.  
-
-0874.  
-
---1) Emended; A ॰मुष्टिर्वि॰.  
-
---2) Emended with C; A तस्याश्चेव.  
-
-0877.  
-
---1) Emended; A ॰मुपेक्षेतां.  
+[^0877-1]: Emended; A ॰मुपेक्षेतां.  
 
 [page 200]  
 
@@ -18585,21 +15625,13 @@ n
 प्रायाद्वारयितुं पूर्वमग्रहारद्विजान्नृपः । KRT_8_0908ab  
 प्रययौ विजयक्षेत्रं तत्रासीच्च हतोद्यमः ॥ KRT_8_0908cd  
 
-0881.  
+[^0881-1]: A1 had first repeated here the second half of verse 878, but has subsequently erased it and written as above.  
 
---1) A1 had first repeated here the second half of verse 878, but has subsequently erased it and written as above.  
+[^0886-1]: Conjectural reading; A ॰स्तुरुष्कामकथ्यत; C ॰तुरुष्कैः समकथ्यत.  
 
-0886.  
+[^0887-1]: Emended; A काश्मीरक॰.  
 
---1) Conjectural reading; A ॰स्तुरुष्कामकथ्यत; C ॰तुरुष्कैः समकथ्यत.  
-
-0887.  
-
---1) Emended; A काश्मीरक॰.  
-
-0892.  
-
---1) Emended with C; A ॰गुणो.  
+[^0892-1]: Emended with C; A ॰गुणो.  
 
 [page 201]  
 
@@ -18664,41 +15696,23 @@ n
 तन्त्र्यश्वा[^0937-1]रोहपौरेषु विद्रुतेषु सबान्धवः । KRT_8_0937ab  
 नक्तं जनकसिंहोथ पलाय्य लहरं ययौ ॥ KRT_8_0937cd  
 
-0910.  
+[^0910-1]: Emended; A मुखाद्बुद्ध्वा.  
 
---1) Emended; A मुखाद्बुद्ध्वा.  
+[^0911-1]: Emended; A बन्धुमै॰.  
 
-0911.  
+[^0914-1]: Emended; A लहरे.  
 
---1) Emended; A बन्धुमै॰.  
+[^0921-1]: Emended; A ॰ध्वस्तयथा॰.  
 
-0914.  
+[^0922-1]: Emended; A काश्मीरका॰.  
 
---1) Emended; A लहरे.  
+[^0923-1]: Emended; A काश्मीरका॰.  
 
-0921.  
+[^0929-1]: Emended with C; A ॰वेदनः.  
 
---1) Emended; A ॰ध्वस्तयथा॰.  
+[^0931-1]: Emended with C; A स.  
 
-0922.  
-
---1) Emended; A काश्मीरका॰.  
-
-0923.  
-
---1) Emended; A काश्मीरका॰.  
-
-0929.  
-
---1) Emended with C; A ॰वेदनः.  
-
-0931.  
-
---1) Emended with C; A स.  
-
-0937.  
-
---1) Emended with C; A तन्व्यारोह॰.  
+[^0937-1]: Emended with C; A तन्व्यारोह॰.  
 
 [page 202]  
 
@@ -18763,37 +15777,21 @@ n
 भिक्षाचरो[^0966-1] बिम्बशून्यो भजन्दुर्नयपात्राम् । KRT_8_0966ab  
 अनैषीदवरुद्धात्वं तत्प्रियां तां गतत्रपः ॥ KRT_8_0966cd  
 
-0942.  
+[^0942-1]: Emended; A पितृव्येणा॰.  
 
---1) Emended; A पितृव्येणा॰.  
+[^0947-1]: Emended; A ॰मुखात्पुरः.  
 
-0947.  
+[^0948-1]: Emended with A वस्त्रेण.  
 
---1) Emended; A ॰मुखात्पुरः.  
+[^0955-1]: Emended with A सकवन्यो.  
 
-0948.  
+[^0960-1]: Thus A; perhaps to be emended प्रस्थितो.  
 
---1) Emended with A वस्त्रेण.  
+[^0961-1]: Here two are missing. A does not indicate the lacuna; C supplements पूर्व्वविद्वेषिणस्तस्य न कृपां प्रतिपेदिरे.  
 
-0955.  
+[^0965-1]: Emended; A ॰र्बद्धैः; C ॰र्बद्धो.  
 
---1) Emended with A सकवन्यो.  
-
-0960.  
-
---1) Thus A; perhaps to be emended प्रस्थितो.  
-
-0961.  
-
---1) Here two are missing. A does not indicate the lacuna; C supplements पूर्व्वविद्वेषिणस्तस्य न कृपां प्रतिपेदिरे.  
-
-0965.  
-
---1) Emended; A ॰र्बद्धैः; C ॰र्बद्धो.  
-
-0966.  
-
---1) Emended with C; A भिक्षाचरे.  
+[^0966-1]: Emended with C; A भिक्षाचरे.  
 
 [page 203]  
 
@@ -18858,33 +15856,19 @@ n
 मङ्खाख्यो डमरश्चिन्वञ्शवान्नौन[^0995-1]गरोद्भवः । KRT_8_0995ab  
 प्रीतिं प्राप्तैस्तदीयार्थैः कापालिक इवाययौ ॥ KRT_8_0995cd  
 
-0937.  
+[^0937-1]: Emended with C; A विद्राव॰.  
 
---1) Emended with C; A विद्राव॰.  
+[^0976-1]: Emended; A तैर्भैक्षवै॰.  
 
-0976.  
+[^0974-1]: Emended with C, A अङ्गाने.  
 
---1) Emended; A तैर्भैक्षवै॰.  
+[^0975-1]: Emended; A निर्गुटडा॰.  
 
-0974.  
+[^0993-1]: Emended with C; A ईदृग्धुत॰.  
 
---1) Emended with C, A अङ्गाने.  
+[^0992-1]: Emended; A भूतग्रामसंहार॰; C भूतग्रामादिसं॰.  
 
-0975.  
-
---1) Emended; A निर्गुटडा॰.  
-
-0993.  
-
---1) Emended with C; A ईदृग्धुत॰.  
-
-0992.  
-
---1) Emended; A भूतग्रामसंहार॰; C भूतग्रामादिसं॰.  
-
-0995.  
-
---1) Emended; A ॰औगरोद्भवः.  
+[^0995-1]: Emended; A ॰औगरोद्भवः.  
 
 [page 204]  
 
@@ -18949,23 +15933,15 @@ n
 अनाथा इव ते नाथा विशां व्यापादनक्षणे । KRT_8_1024ab  
 ज्ञात्वा नष्टं कुलं नाथवद्भ्यो नूनं स्पृहां दधुः ॥ KRT_8_1024cd  
 
-1003.  
+[^1003-1]: Emended with C; A मल्लन.  
 
---1) Emended with C; A मल्लन.  
+[^1005-1]: ॰वाळादी॰.  
 
-1005.  
+[^1005-2]: Emended with C; A.. ॰दीन्रल्हणो॰.  
 
---1) ॰वाळादी॰.  
+[^1008-1]: Emended; A ॰बलाक्रान्तमु॰.  
 
---2) Emended with C; A.. ॰दीन्रल्हणो॰.  
-
-1008.  
-
---1) Emended; A ॰बलाक्रान्तमु॰.  
-
-1009.  
-
---1) Emended; A अथ यातो.  
+[^1009-1]: Emended; A अथ यातो.  
 
 [page 205]  
 
@@ -19028,35 +16004,21 @@ n
 वितस्तापरिखाक्षिप्ता भूरगम्या द्विषामियम् । KRT_8_1052ab  
 इति प्रायान्नवमठं त्यक्त्वा राजगृहं नृपः ॥ KRT_8_1052cd  
 
-1025.  
+[^1025-1]: A1 gloss स्वयं.  
 
---1) A1 gloss स्वयं.  
+[^1026-1]: Emended with C; A नास्त्येवप्राप्त॰.  
 
-1026.  
+[^1032-1]: Emended; A चेदाप्स्योत्कैव.  
 
---1) Emended with C; A नास्त्येवप्राप्त॰.  
+[^1032-2]: A1 writes here 4 instead of चक्कलकम्.  
 
-1032.  
+[^1033-1]: Doubtful emendation; A जिगीषोर्नी॰ and प्रयुक्तो लिप्तरन्तरम्; C जिगीषोर्नी॰ and प्रयत्नो लिप्यनन्तरः.  
 
---1) Emended; A चेदाप्स्योत्कैव.  
+[^1038-1]: A पुष्यान॰.  
 
---2) A1 writes here 4 instead of चक्कलकम्.  
+[^1048-1]: Emended; A त्यक्ताधिश्र॰.  
 
-1033.  
-
---1) Doubtful emendation; A जिगीषोर्नी॰ and प्रयुक्तो लिप्तरन्तरम्; C जिगीषोर्नी॰ and प्रयत्नो लिप्यनन्तरः.  
-
-1038.  
-
---1) A पुष्यान॰.  
-
-1048.  
-
---1) Emended; A त्यक्ताधिश्र॰.  
-
-1051.  
-
---1) Emended; A ॰कोष्टाद्ये आदूताः.  
+[^1051-1]: Emended; A ॰कोष्टाद्ये आदूताः.  
 
 [page 206]  
 
@@ -19121,21 +16083,13 @@ n
 हित्वा भूर्यथ तूर्यादि परिच्छेत्तुं स कौतुकी । KRT_8_1081ab  
 श्वपाकदुन्दुभीभाण्डशतानि द्वादशाशकत् ॥ KRT_8_1081cd  
 
-1055.  
+[^1055-1]: Here two seem to be lost; A does not indicate the lacuna. C adds रामेण वानरी सेना यथा पाथोनिधेस्तटे.  
 
---1) Here two seem to be lost; A does not indicate the lacuna. C adds रामेण वानरी सेना यथा पाथोनिधेस्तटे.  
+[^1058-1]: Emended; A ॰श्यादाववस्कन्दं.  
 
-1058.  
+[^1059-1]: Emended with C; A ॰विक्षितः.  
 
---1) Emended; A ॰श्यादाववस्कन्दं.  
-
-1059.  
-
---1) Emended with C; A ॰विक्षितः.  
-
-1061.  
-
---1) Emended with C; A ॰न्दग्ध्वाग्रात्क्षि॰.  
+[^1061-1]: Emended with C; A ॰न्दग्ध्वाग्रात्क्षि॰.  
 
 [page 207]  
 
@@ -19200,31 +16154,19 @@ n
 आपातं सुस्सलो राजा यावत्तस्याविसोढवान् । KRT_8_1110ab  
 तावत्सावरजः प्रज्जि[^1110-1]राजगाम रणाङ्गनम् ॥ KRT_8_1110cd  
 
-1084.  
+[^1084-1]: Thus A1 in margin; A1 तेजो in text.  
 
---1) Thus A1 in margin; A1 तेजो in text.  
+[^2090-1]: Thus A; perhaps to be emended मुङ्गजाः; cf. vii. 589.  
 
-2090.  
+[^1093-1]: Emended (i.e. पाञ्चालाड्); A पाञ्चालौ.  
 
---1) Thus A; perhaps to be emended मुङ्गजाः; cf. vii. 589.  
+[^1093-2]: Thus A; parhaps read with C फाल्गुन॰.  
 
-1093.  
+[^1104-1]: Thus A3; A1 दिशाम्.  
 
---1) Emended (i.e. पाञ्चालाड्); A पाञ्चालौ.  
+[^1108-1]: Emended; A ॰तिष्ठ -- मेन; C ॰तिष्ठत् सुस्सेन.  
 
---2) Thus A; parhaps read with C फाल्गुन॰.  
-
-1104.  
-
---1) Thus A3; A1 दिशाम्.  
-
-1108.  
-
---1) Emended; A ॰तिष्ठ -- मेन; C ॰तिष्ठत् सुस्सेन.  
-
-1110.  
-
---1) Emended with C; A प्राज्जि॰.  
+[^1110-1]: Emended with C; A प्राज्जि॰.  
 
 [page 208]  
 
@@ -19289,33 +16231,19 @@ n
 अबलां स्वामिनीं हन्यमानां त्यक्त्वा पलायिताः[^1139-1] । KRT_8_1139ab  
 चित्रं पशूपमाः शस्त्रं स्वीचक्रुर्लाहराः पुनः ॥ KRT_8_1139cd  
 
-1112.  
+[^1112-1]: The text of this verse appears to be defective.  
 
---1) The text of this verse appears to be defective.  
+[^1114-1]: A विलम्भेन.  
 
-1114.  
+[^1121-1]: Emended with C; A प्रातिपक्षे.  
 
---1) A विलम्भेन.  
+[^1123-1]: Emended with C; A ॰त्तान्पक्ष॰.  
 
-1121.  
+[^1136-1]: Conjectural reading; A मातुरन्तिकम्. Cf. viii. 1069 ff. and 1138.  
 
---1) Emended with C; A प्रातिपक्षे.  
+[^1138-1]: Emended with C; A द्वितीयामपि.  
 
-1123.  
-
---1) Emended with C; A ॰त्तान्पक्ष॰.  
-
-1136.  
-
---1) Conjectural reading; A मातुरन्तिकम्. Cf. viii. 1069 ff. and 1138.  
-
-1138.  
-
---1) Emended with C; A द्वितीयामपि.  
-
-1139.  
-
---1) Emended with C; A ॰यितः.  
+[^1139-1]: Emended with C; A ॰यितः.  
 
 [page 209]  
 
@@ -19380,23 +16308,15 @@ n
 पवनोत्थापितैः पांसुकूटैर्दध्रे मदो[^1168-1]द्धतैः । KRT_8_1168ab  
 व्योम्नि प्रोत्तम्भनस्तस्म्भभङ्गिर्निर्घातदारिते ॥ KRT_8_1168cd  
 
-1148.  
+[^1148-1]: A काश्मीरिके.  
 
---1) A काश्मीरिके.  
+[^1148-2]: Emended; A निराशे.  
 
---2) Emended; A निराशे.  
+[^1153-1]: Emended with C; A ॰न्त्रितैच्छुड्डां.  
 
-1153.  
+[^1157-1]: Thus corr. by A3 from A1 -- -- -- -- भूत्.  
 
---1) Emended with C; A ॰न्त्रितैच्छुड्डां.  
-
-1157.  
-
---1) Thus corr. by A3 from A1 -- -- -- -- भूत्.  
-
-1168.  
-
---1) Thus A; C महोद्धतैः.  
+[^1168-1]: Thus A; C महोद्धतैः.  
 
 [page 210]  
 
@@ -19459,31 +16379,19 @@ n
 कौलपुत्र्यं स्तुवंस्तस्य वात्सल्यादेष भूपतिः । KRT_8_1196ab  
 स्वस्यात्तनिष्क्रयां[^1196-1] मेने सेवाविष्कृत्युपक्रियाम् ॥ KRT_8_1196cd  
 
-1172.  
+[^1172-1]: Thus corr. by A1 from ॰पतत्.  
 
---1) Thus corr. by A1 from ॰पतत्.  
+[^1178-1]: Emended with C; A ॰भवन्त्यो.  
 
-1178.  
+[^1178-2]: Emended; A यत.  
 
---1) Emended with C; A ॰भवन्त्यो.  
+[^1179-1]: Emended with C; A ज्वल्वितै॰.  
 
---2) Emended; A यत.  
+[^1187-1]: Emended; A सम्प्रष्टुमिच्छुः; cf. viii. 1528.  
 
-1179.  
+[^1194-1]: Emended with C; A निर्गृह्य.  
 
---1) Emended with C; A ज्वल्वितै॰.  
-
-1187.  
-
---1) Emended; A सम्प्रष्टुमिच्छुः; cf. viii. 1528.  
-
-1194.  
-
---1) Emended with C; A निर्गृह्य.  
-
-1196.  
-
---1) Emended with C; A स्वस्थात्तन्निष्क्रियां.  
+[^1196-1]: Emended with C; A स्वस्थात्तन्निष्क्रियां.  
 
 [page 211]  
 
@@ -19552,25 +16460,15 @@ n
 
 --1) The text in these two verses appears to be corrupt or incomplete.  
 
-1203.  
+[^1203-1]: Thus A.  
 
---1) Thus A.  
+[^1208-1]: Emended; A प्रपे॰.  
 
-1208.  
+[^1211-1]: Emended with C; A ॰कुलाः.  
 
---1) Emended; A प्रपे॰.  
+[^1219-1]: A1 writes here 3 insetead of तिलकम्.  
 
-1211.  
-
---1) Emended with C; A ॰कुलाः.  
-
-1219.  
-
---1) A1 writes here 3 insetead of तिलकम्.  
-
-1220.  
-
---1) ण्ण supplied by A3 in space left by A1.  
+[^1220-1]: ण्ण supplied by A3 in space left by A1.  
 
 [page 212]  
 
@@ -19635,19 +16533,13 @@ n
 वरं स एव विश्वास्य व्यापाद्यस्तत्र चेद्वधः । KRT_8_1254ab  
 भवेत्ते स्वामिपुत्रादिकुटुम्बं स्याद्विभूतिभाक् ॥ KRT_8_1254cd  
 
-1238.  
+[^1238-1]: A ॰विमृषं॰.  
 
---1) A ॰विमृषं॰.  
+[^1238-2]: Emended; A बन्धुं.  
 
---2) Emended; A बन्धुं.  
+[^1244-1]: Thus A.  
 
-1244.  
-
---1) Thus A.  
-
-1261.  
-
---1) Emended with C; A प्रहिणो॰.  
+[^1261-1]: Emended with C; A प्रहिणो॰.  
 
 [page 213]  
 
@@ -19708,37 +16600,23 @@ n
 प्रतिश्रुतविलम्बेन समन्योरथ भूपतेः । KRT_8_1281ab  
 प्रत्ययोत्पत्तये देवसरसान्नीविमात्मजम् ॥ KRT_8_1281cd  
 
-1258.  
+[^1258-1]: A2 gloss सरघा मधुमक्षिका( Amara. ii. 5. 26).  
 
---1) A2 gloss सरघा मधुमक्षिका( Amara. ii. 5. 26).  
+[^1262-1]: Emended; A सुज्जिं.  
 
-1262.  
+[^1264-1]: वळोसके; perhaps read बडोत्सके. Cf. वाडौत्सः viii. 1306.  
 
---1) Emended; A सुज्जिं.  
+[^1264-2]: Emended with C; A स्थितं.  
 
-1264.  
+[^1271-1]: The last two have become in A partly illegible by an ink blot and have been repeated in the margin by the same hand which supplemented the gloss to i. 110.  
 
---1) वळोसके; perhaps read बडोत्सके. Cf. वाडौत्सः viii. 1306.  
+[^1274-1]: Emended with C; A ॰वैचित्य॰.  
 
---2) Emended with C; A स्थितं.  
+[^1277-1]: Emended with C; A विडूरया॰.  
 
-1271.  
+[^1277-2]: Emended; A ॰मानास्वविश्वास॰.  
 
---1) The last two have become in A partly illegible by an ink blot and have been repeated in the margin by the same hand which supplemented the gloss to i. 110.  
-
-1274.  
-
---1) Emended with C; A ॰वैचित्य॰.  
-
-1277.  
-
---1) Emended with C; A विडूरया॰.  
-
---2) Emended; A ॰मानास्वविश्वास॰.  
-
-1272.  
-
---1) Emended; A ॰न्यतमे.  
+[^1272-1]: Emended; A ॰न्यतमे.  
 
 [page 214]  
 
@@ -19801,41 +16679,25 @@ n
 प्रविष्टो निर्जनं बाह्यमाकलय्य स मण्डलम् । KRT_8_1309ab  
 अलक्ष्यमाणव्यापारो द्वारमर्गलितं व्यधात् ॥ KRT_8_1309cd  
 
-1282.  
+[^1282-1]: Emended; A ॰त्मसरान्परान्.  
 
---1) Emended; A ॰त्मसरान्परान्.  
+[^1283-1]: A1 writes here 3 instead of तिलकम्.  
 
-1283.  
+[^1286-1]: Thus A1; A3 पक्ष्मक॰.  
 
---1) A1 writes here 3 instead of तिलकम्.  
+[^1286-2]: वा supplied by A3 in space left by A1.  
 
-1286.  
+[^1289-1]: Emended; A प्रकटयन्.  
 
---1) Thus A1; A3 पक्ष्मक॰.  
+[^1309-1]: Emended; A द्वास्थ.  
 
---2) वा supplied by A3 in space left by A1.  
+[^1305-1]: Emended; A ॰स्याघदेवतिष्ठवैश्य॰; Cf. viii. 1543.  
 
-1289.  
+[^1306-1]: A वाळौत्सः perhaps read वाडोत्सः. Cf. वडोसके viii. 1264.  
 
---1) Emended; A प्रकटयन्.  
+[^1306-2]: A सु X ख॰.  
 
-1309.  
-
---1) Emended; A द्वास्थ.  
-
-1305.  
-
---1) Emended; A ॰स्याघदेवतिष्ठवैश्य॰; Cf. viii. 1543.  
-
-1306.  
-
---1) A वाळौत्सः perhaps read वाडोत्सः. Cf. वडोसके viii. 1264.  
-
---2) A सु X ख॰.  
-
-1307.  
-
---1) A डमरं.  
+[^1307-1]: A डमरं.  
 
 [page 215]  
 
@@ -19900,37 +16762,23 @@ n
 श्राश्यानास्रजटीभूतकेशं नग्नं भुवि च्युतम् । KRT_8_1338ab  
 पर्यस्ततपाणिचरणं स्कन्धाग्रालम्बिकन्धरम्[^1338-1] ॥ KRT_8_1338cd  
 
-1313.  
+[^1313-1]: Emended with C; A विकोशं.  
 
---1) Emended with C; A विकोशं.  
+[^1314-1]: A1 writes here 2 instead of युग्मम्.  
 
-1314.  
+[^1318-1]: Emended; A कङ्काला॰.  
 
---1) A1 writes here 2 instead of युग्मम्.  
+[^1324-1]: Conjectural reading; A ॰शक्यापालस्य.  
 
-1318.  
+[^1324-2]: Emended; A ॰र्द्वास्थश्चैको.  
 
---1) Emended; A कङ्काला॰.  
+[^1324-3]: Emended; A व्यपादितः.  
 
-1324.  
+[^1328-1]: Emended; A हतदैशि॰.  
 
---1) Conjectural reading; A ॰शक्यापालस्य.  
+[^1336-1]: The first of this verse has been first omitted and subsequently supplied by A1 in margin.  
 
---2) Emended; A ॰र्द्वास्थश्चैको.  
-
---3) Emended; A व्यपादितः.  
-
-1328.  
-
---1) Emended; A हतदैशि॰.  
-
-1336.  
-
---1) The first of this verse has been first omitted and subsequently supplied by A1 in margin.  
-
-1338.  
-
---1) A कन्दरस्.  
+[^1338-1]: A कन्दरस्.  
 
 [page 216]  
 
@@ -19995,37 +16843,21 @@ n
 कालापेक्षापरिव्यक्तपितृव्यापत्तिदुःस्थितः । KRT_8_1367ab  
 स कोशादिष्वथादिक्षद्रक्षिणस्त्राणदीक्षितम् ॥ KRT_8_1367cd  
 
-1346.  
+[^1346-1]: Thus A; cf. बाष्टुकं viii. 1459.  
 
---1) Thus A; cf. बाष्टुकं viii. 1459.  
+[^1349-1]: Emended; A धात्रीयेन.  
 
-1349.  
+[^1350-1]: नुभाव supplied by A3 in space left by A1.  
 
---1) Emended; A धात्रीयेन.  
+[^1355-1]: Thus A.  
 
-1350.  
+[^1360-1]: Emended; A कुरुतः.  
 
---1) नुभाव supplied by A3 in space left by A1.  
+[^1361-1]: Emended with C; A न हते.  
 
-1355.  
+[^1364-1]: Emended; A ॰लम्भ्य.  
 
---1) Thus A.  
-
-1360.  
-
---1) Emended; A कुरुतः.  
-
-1361.  
-
---1) Emended with C; A न हते.  
-
-1364.  
-
---1) Emended; A ॰लम्भ्य.  
-
-1366.  
-
---1) तादृशां supplied by A3 in space left by A1.  
+[^1366-1]: तादृशां supplied by A3 in space left by A1.  
 
 [page 217]  
 
@@ -20090,29 +16922,19 @@ n
 क्षणेनैव ययुर्भङ्गं तांस्तान्वीक्ष्य हतानिजान् । KRT_8_1396ab  
 न संस्तम्भयितुं शेकुः स्वचमूश्च पलायिनीः ॥ KRT_8_1396cd  
 
-1373.  
+[^1373-1]: Emended; A ॰नायकः.  
 
---1) Emended; A ॰नायकः.  
+[^1374-1]: A विमृषत॰.  
 
-1374.  
+[^1374-2]: A निषीथिनी.  
 
---1) A विमृषत॰.  
+[^1377-1]: Thus A; perhaps read मोघदैन्येषु.  
 
---2) A निषीथिनी.  
+[^1377-2]: A विमृष्य.  
 
-1377.  
+[^1372-1]: A1 writes here 3 instead of तिलकम्.  
 
---1) Thus A; perhaps read मोघदैन्येषु.  
-
---2) A विमृष्य.  
-
-1372.  
-
---1) A1 writes here 3 instead of तिलकम्.  
-
-1392.  
-
---1) Emended; A संप्राप्तांस्तांस्ता॰.  
+[^1392-1]: Emended; A संप्राप्तांस्तांस्ता॰.  
 
 [page 218]  
 
@@ -20175,27 +16997,17 @@ n
 ततः परं प्रशान्तारिभयं दूराद्विरोधिनः । KRT_8_1424ab  
 भ्रूभङ्गतर्जनीकम्परूक्षालापैरतर्जयत् ॥ KRT_8_1424cd  
 
-1398.  
+[^1398-1]: Emended with C; A तान्नून॰.  
 
---1) Emended with C; A तान्नून॰.  
+[^1403-1]: Emended; A मेघाचक्रं पुर॰.  
 
-1403.  
+[^1417-1]: A2 had written in margin a gloss of which only इति भाषया is now legible.  
 
---1) Emended; A मेघाचक्रं पुर॰.  
+[^1420-1]: Emended; A लुण्ठितः श्री॰.  
 
-1417.  
+[^1423-1]: ॰कोष॰.  
 
---1) A2 had written in margin a gloss of which only इति भाषया is now legible.  
-
-1420.  
-
---1) Emended; A लुण्ठितः श्री॰.  
-
-1423.  
-
---1) ॰कोष॰.  
-
---2) Emended with C; A सोनवीक्ष्य.  
+[^1423-2]: Emended with C; A सोनवीक्ष्य.  
 
 [page 219]  
 
@@ -20260,35 +17072,21 @@ n
 दश मासान्मदाद्यानां सुखच्छेदं व्यधत्त यः । KRT_8_1453ab  
 तत्तद्दुखं स तु मया दशाब्दाननुभावितः ॥ KRT_8_1453cd  
 
-1430.  
+[^1430-1]: Doubtful emendation; A नोद्ग्राहकः.  
 
---1) Doubtful emendation; A नोद्ग्राहकः.  
+[^1430-2]: Emended with C; A ॰रवेष्ट्येत.  
 
---2) Emended with C; A ॰रवेष्ट्येत.  
+[^1431-1]: Emended; A ॰ड्डारं.  
 
-1431.  
+[^1433-1]: A क्षताश्चाश्चाश्चासंस्तत्र with diplography.  
 
---1) Emended; A ॰ड्डारं.  
+[^1438-1]: Emended; A ॰शिश्रयत्.  
 
-1433.  
+[^1441-1]: Thus A1; corr. by later hand into तानेनु॰.  
 
---1) A क्षताश्चाश्चाश्चासंस्तत्र with diplography.  
+[^1444-1]: One akshara wanting; the lacuna not indicated in A; C supplements सा.  
 
-1438.  
-
---1) Emended; A ॰शिश्रयत्.  
-
-1441.  
-
---1) Thus A1; corr. by later hand into तानेनु॰.  
-
-1444.  
-
---1) One akshara wanting; the lacuna not indicated in A; C supplements सा.  
-
-1449.  
-
---1) Emended; A विपन्नां; C ॰दायादे विपन्न.  
+[^1449-1]: Emended; A विपन्नां; C ॰दायादे विपन्न.  
 
 [page 220]  
 
@@ -20349,35 +17147,21 @@ n
 देवागाराद्विनिर्याता भासाद्यास्ते च विद्विषाम् । KRT_8_1480ab  
 भग्नानामनुगान्हत्वा सुज्जेरन्तिकमाययुः ॥ KRT_8_1480cd  
 
-1456.  
+[^1456-1]: Emended with C; A शीर्तार्त॰.  
 
---1) Emended with C; A शीर्तार्त॰.  
+[^1459-1]: Thus A; cf. वाष्टुवं वीi.1346.  
 
-1459.  
+[^1459-2]: A1 writes here 3 instead of तिलकम्.  
 
---1) Thus A; cf. वाष्टुवं वीi.1346.  
+[^1462-1]: A1 writes here 3 instead of तिलकम्.  
 
---2) A1 writes here 3 instead of तिलकम्.  
+[^1465-1]: A1 writes here 2 instead of युग्मम्.  
 
-1462.  
+[^1466-1]: Emended; A आदीनास्थ.  
 
---1) A1 writes here 3 instead of तिलकम्.  
+[^1470-1]: Emended with C; A ये.  
 
-1465.  
-
---1) A1 writes here 2 instead of युग्मम्.  
-
-1466.  
-
---1) Emended; A आदीनास्थ.  
-
-1470.  
-
---1) Emended with C; A ये.  
-
-1473.  
-
---1) Emended with C; A एकत्रेतगा॰.  
+[^1473-1]: Emended with C; A एकत्रेतगा॰.  
 
 [page 221]  
 
@@ -20440,35 +17224,21 @@ n
 हतलुण्ठितविध्वस्तध्वजिनीका विरोधिनः । KRT_8_1508ab  
 ध्यानोड्डारादिषु ग्रामेष्वमिलन्खण्डशो गताः ॥ KRT_8_1508cd  
 
-1485.  
+[^1485-1]: Emended with C; A नाशिश्रयन्नृपं.  
 
---1) Emended with C; A नाशिश्रयन्नृपं.  
+[^1488-1]: Emended; A भिक्षून्डा॰.  
 
-1488.  
+[^1488-2]: Emended; A अथाधिष्ठव्द॰; C अथातिष्ठद॰.  
 
---1) Emended; A भिक्षून्डा॰.  
+[^1490-1]: Conjectural reading; A एकैकस्यौषधीशौर्य॰.  
 
---2) Emended; A अथाधिष्ठव्द॰; C अथातिष्ठद॰.  
+[^1493-1]: Emended; पापीये.  
 
-1490.  
+[^1501-1]: Emended with C; A ॰वीक्षण॰.  
 
---1) Conjectural reading; A एकैकस्यौषधीशौर्य॰.  
+[^1505-1]: Emended with C; A प्रेक्षितुः.  
 
-1493.  
-
---1) Emended; पापीये.  
-
-1501.  
-
---1) Emended with C; A ॰वीक्षण॰.  
-
-1505.  
-
---1) Emended with C; A प्रेक्षितुः.  
-
-1507.  
-
---1) Emended; A निर्यन्त्य; C निर्यत्य.  
+[^1507-1]: Emended; A निर्यन्त्य; C निर्यत्य.  
 
 [page 222]  
 
@@ -20533,25 +17303,15 @@ n
 औदार्याकारतारुण्यवेषसौन्दर्यमन्दिरम् । KRT_8_1537ab  
 कोष्ठेश्वरोधिकं स्त्रीणां प्रययौ प्रेक्षणीयताम् ॥ KRT_8_1537cd  
 
-1509.  
+[^1509-1]: Thus corr. by A1 from ॰ममतः.  
 
---1) Thus corr. by A1 from ॰ममतः.  
+[^1510-1]: Emended; A कम्पनेशं.  
 
-1510.  
+[^1519-1]: Emended with C; A ॰जवनिकां लक्ष्य॰.  
 
---1) Emended; A कम्पनेशं.  
+[^1528-1]: Emended with C; A संप्रष्टुं; cf. viii. 1193.  
 
-1519.  
-
---1) Emended with C; A ॰जवनिकां लक्ष्य॰.  
-
-1528.  
-
---1) Emended with C; A संप्रष्टुं; cf. viii. 1193.  
-
-1530.  
-
---1) Emended with C; A तदेश॰.  
+[^1530-1]: Emended with C; A तदेश॰.  
 
 [page 223]  
 
@@ -20612,33 +17372,19 @@ n
 तस्य नातिशितं कोपे प्रसादे निशितं पुनः । KRT_8_1564ab  
 धत्ते तीक्ष्णैकधारस्य तरवारेस्तुलां वचः ॥ KRT_8_1564cd  
 
-1538.  
+[^1538-1]: Doubtful emendation; A ॰घोषा; G ॰विप्लवो देशो and ॰घोषादिवा॰.  
 
---1) Doubtful emendation; A ॰घोषा; G ॰विप्लवो देशो and ॰घोषादिवा॰.  
+[^1540-1]: Thus A; C पौरान्सं॰.  
 
-1540.  
+[^1543-1]: Cf. दूतौ ढिक्कस्यावदेवतिष्ठवैश्या॰ (A)viii. 1305.  
 
---1) Thus A; C पौरान्सं॰.  
+[^1545-1]: Thus A1; R C निवासन॰, as apparently corr. by later hand in A.  
 
-1543.  
+[^1547-1]: Conjectural emendation; A मत्तोपदेशवृद्धस्य.  
 
---1) Cf. दूतौ ढिक्कस्यावदेवतिष्ठवैश्या॰ (A)viii. 1305.  
+[^1550-1]: दृष्टान्त supplied by A3 in space left by A1.  
 
-1545.  
-
---1) Thus A1; R C निवासन॰, as apparently corr. by later hand in A.  
-
-1547.  
-
---1) Conjectural emendation; A मत्तोपदेशवृद्धस्य.  
-
-1550.  
-
---1) दृष्टान्त supplied by A3 in space left by A1.  
-
-1558.  
-
---1) Emended with C; A ॰द्भॄभङ्गेन.  
+[^1558-1]: Emended with C; A ॰द्भॄभङ्गेन.  
 
 [page 224]  
 
@@ -20699,21 +17445,13 @@ n
 आरम्भमात्रमपि कस्यचिदेव सिद्ध्यै कश्चित्प्रयत्नपरमोप्यफलप्रयासः । KRT_8_1591ab  
 मन्थाद्रिणामृतमवाप्युदधेर्मुहूर्तात्सक्तिं चिराद्विदधता न हिमाद्रिजेन ॥ KRT_8_1591cd  
 
-1571.  
+[^1571-1]: Emended; A नृपो.  
 
---1) Emended; A नृपो.  
+[^1580-1]: Emended with C; A ॰पुरस्स्थस्य.  
 
-1580.  
+[^1581-1]: Emended; A विपादनम्.  
 
---1) Emended with C; A ॰पुरस्स्थस्य.  
-
-1581.  
-
---1) Emended; A विपादनम्.  
-
-1584.  
-
---1) Emended with C; A कैश्चित्प॰.  
+[^1584-1]: Emended with C; A कैश्चित्प॰.  
 
 [page 225]  
 
@@ -20768,27 +17506,17 @@ n
 अपि जातु स दृश्येत निःसंक्षोभमतिर्नृपः । KRT_8_1615ab  
 यो यन्त्रपुत्रक इव व्यक्तं धूर्तैर्न नर्त्यते ॥ KRT_8_1615cd  
 
-1594.  
+[^1594-1]: Here one akshara is wanting in A; तु supplemented with C.  
 
---1) Here one akshara is wanting in A; तु supplemented with C.  
+[^1602-1]: Emended; A ॰क्षमतां मुहुस्ते.  
 
-1602.  
+[^1606-1]: Thus corr. by A1 from कुलेस्यै॰.  
 
---1) Emended; A ॰क्षमतां मुहुस्ते.  
+[^1608-1]: Emended; A गर्गिणा.  
 
-1606.  
+[^1619-1]: Emended; A ॰स्रज.  
 
---1) Thus corr. by A1 from कुलेस्यै॰.  
-
-1608.  
-
---1) Emended; A गर्गिणा.  
-
-1619.  
-
---1) Emended; A ॰स्रज.  
-
---2) Emended with C; A ॰तत्त्वं व्या॰.  
+[^1619-2]: Emended with C; A ॰तत्त्वं व्या॰.  
 
 [page 226]  
 
@@ -20847,47 +17575,29 @@ n
 प्रीतिदायैस्तोष्यमाणस्तैस्तैस्तुष्टेन भूभुजा । KRT_8_1641ab  
 विस्रब्धो नगरे तस्थौ सोपि लूतामयातुरः ॥ KRT_8_1641cd  
 
-1619.  
+[^1619-1]: Emended; A जह्रिरेखिलाः.  
 
---1) Emended; A जह्रिरेखिलाः.  
+[^1622-1]: Emended; A आक्रम्यासौ.  
 
-1622.  
+[^1622-2]: Thus corr. in A from न.  
 
---1) Emended; A आक्रम्यासौ.  
+[^1624-1]: Emended; A धान्य॰.  
 
---2) Thus corr. in A from न.  
+[^1625-1]: Emended; A हिता॰.  
 
-1624.  
+[^1629-1]: Conjectural reading; A कोप; R C ॰कोथ.  
 
---1) Emended; A धान्य॰.  
+[^1632-1]: Emended; A समर्पयत्.  
 
-1625.  
+[^1633-1]: Thus A1; A2 ॰पातनोत्थापनक्षमः.  
 
---1) Emended; A हिता॰.  
+[^1635-1]: Thus A1; A3 सुज्जिः.  
 
-1629.  
+[^1635-2]: Thus corr. by A3 from A1 मत्केश॰.  
 
---1) Conjectural reading; A कोप; R C ॰कोथ.  
+[^1635-3]: Thus corr. by A3 from A1 स्पर्धामेष वहे -- -- विती॰.  
 
-1632.  
-
---1) Emended; A समर्पयत्.  
-
-1633.  
-
---1) Thus A1; A2 ॰पातनोत्थापनक्षमः.  
-
-1635.  
-
---1) Thus A1; A3 सुज्जिः.  
-
---2) Thus corr. by A3 from A1 मत्केश॰.  
-
---3) Thus corr. by A3 from A1 स्पर्धामेष वहे -- -- विती॰.  
-
-1638.  
-
---1) पटुः supplied by A3 in space left by A1.  
+[^1638-1]: पटुः supplied by A3 in space left by A1.  
 
 [page 227]  
 
@@ -20952,19 +17662,13 @@ n
 सुज्जिर्जालंधरं प्राप्तः प्रातर्भिक्षाचरान्तिकम् । KRT_8_1670ab  
 यावद्यास्यति तं सायं तद्दूतस्तावदासदत् ॥ KRT_8_1670cd  
 
-1649.  
+[^1649-1]: Emended with C; A स्वस्रेयी.  
 
---1) Emended with C; A स्वस्रेयी.  
+[^1655-1]: These two have been written by A1.  
 
-1655.  
+[^1655-2]: Emended with C; A ॰शाधि.  
 
---1) These two have been written by A1.  
-
---2) Emended with C; A ॰शाधि.  
-
-1689.  
-
---1) Thus A; perhaps read शास्त्यैवमु॰.  
+[^1689-1]: Thus A; perhaps read शास्त्यैवमु॰.  
 
 [page 228]  
 
@@ -21029,33 +17733,19 @@ n
 मत्वेति तेन प्रत्युक्ता भिक्षुं[^1699-1] शौचस्थितं गृहात् । KRT_8_1699ab  
 विपाद्यातः फलहकं निर्गच्छेत्यूचिरेपि ते ॥ KRT_8_1699cd  
 
-1676.  
+[^1676-1]: Emended; A संप्रैषयच्चमूः.  
 
---1) Emended; A संप्रैषयच्चमूः.  
+[^1679-1]: Emended; A धान्यः; C धान्यखा॰; cf.viii.1624.  
 
-1679.  
+[^1681-1]: Emended; A राज्ञां.  
 
---1) Emended; A धान्यः; C धान्यखा॰; cf.viii.1624.  
+[^1682-1]: Thus corr. by A2 from A1 कृच्छ्रात्तस्य.  
 
-1681.  
+[^1693-1]: Emended; A ॰दुधुक्षु॰.  
 
---1) Emended; A राज्ञां.  
+[^1697-1]: Emended with R; A दद्यावु॰.  
 
-1682.  
-
---1) Thus corr. by A2 from A1 कृच्छ्रात्तस्य.  
-
-1693.  
-
---1) Emended; A ॰दुधुक्षु॰.  
-
-1697.  
-
---1) Emended with R; A दद्यावु॰.  
-
-1699.  
-
---1) Emended; A भिक्षुशौ॰.  
+[^1699-1]: Emended; A भिक्षुशौ॰.  
 
 [page 229]  
 
@@ -21120,23 +17810,15 @@ n
 स हन्तुं वैपरीत्यं तं खशानां त्वं व्रजेत्यथ । KRT_8_1728ab  
 उक्त्वा व्यसृजदानन्दं जहसे चान्यमन्त्रिभिः ॥ KRT_8_1728cd  
 
-1704.  
+[^1704-1]: Emended; A ॰यन्त्रस्य.  
 
---1) Emended; A ॰यन्त्रस्य.  
+[^1718-1]: Emended; A सह.  
 
-1718.  
+[^1718-2]: Thus A; perhaps read कृतद्रोहस्तुमुले प्रस्तुते.  
 
---1) Emended; A सह.  
+[^1723-1]: Emended with C; A न्यरुधन्ता॰.  
 
---2) Thus A; perhaps read कृतद्रोहस्तुमुले प्रस्तुते.  
-
-1723.  
-
---1) Emended with C; A न्यरुधन्ता॰.  
-
-1725.  
-
---1) Emended; A स्वार्त्या.  
+[^1725-1]: Emended; A स्वार्त्या.  
 
 [page 230]  
 
@@ -21199,31 +17881,19 @@ n
 भिक्षोरेकं क्षणालक्ष्यधैर्यं पार्श्वधृतायुधम् । KRT_8_1756ab  
 अधावत्तूर्णमादाय शूलमेको वृहद्भटः ॥ KRT_8_1756cd  
 
-1729.  
+[^1729-1]: A1 omits here two aksharas without indicating the lacuna; C देङ्गपालगृहादस्मादारम्भः; perhaps read ॰गृहाभ्यर्णादारम्भः.  
 
---1) A1 omits here two aksharas without indicating the lacuna; C देङ्गपालगृहादस्मादारम्भः; perhaps read ॰गृहाभ्यर्णादारम्भः.  
+[^1730-1]: Thus A; C स समगृह्यत.  
 
-1730.  
+[^1736-1]: Emended with C; A राज्ञोपजी॰.  
 
---1) Thus A; C स समगृह्यत.  
+[^1737-1]: Emended; A तेषां सन्यव॰.  
 
-1736.  
+[^1737-2]: A1 writes here 3 instead of तिलकम्.  
 
---1) Emended with C; A राज्ञोपजी॰.  
+[^1742-1]: Emended with C; A दीव्यन्तः.  
 
-1737.  
-
---1) Emended; A तेषां सन्यव॰.  
-
---2) A1 writes here 3 instead of तिलकम्.  
-
-1742.  
-
---1) Emended with C; A दीव्यन्तः.  
-
-1749.  
-
---1) चर्Fया.  
+[^1749-1]: चर्Fया.  
 
 [page 231]  
 
@@ -21286,27 +17956,17 @@ n
 आकारस्यास्य संभाव्यं सत्त्वं न द्वेषवैकृतम् । KRT_8_1784ab  
 वैशद्यं स्फटिकस्येव नार्कालोकोपतप्तता[^1784-1] ॥ KRT_8_1784cd  
 
-1758.  
+[^1758-1]: Emended; A प्रह॰.  
 
---1) Emended; A प्रह॰.  
+[^1765-1]: Emended; A पादोपान्तो.  
 
-1765.  
+[^1766-1]: Emended with C; A भक्तिकस्तु.  
 
---1) Emended; A पादोपान्तो.  
+[^1668-1]: Thus A; C ॰त्मजः.  
 
-1766.  
+[^1668-2]: Perhaps read ॰द्भिक्षुः.  
 
---1) Emended with C; A भक्तिकस्तु.  
-
-1668.  
-
---1) Thus A; C ॰त्मजः.  
-
---2) Perhaps read ॰द्भिक्षुः.  
-
-1770.  
-
---1) Thus A; R C ॰नात्तकृत्येन.  
+[^1770-1]: Thus A; R C ॰नात्तकृत्येन.  
 
 17775.  
 
@@ -21371,31 +18031,19 @@ n
 नियतं निरुपादानां शक्तिं दर्शयितुं जने । KRT_8_1811ab  
 नानोपकरणग्रामं संनद्धोस्याच्छिनद्विधिः ॥ KRT_8_1811cd  
 
-1788.  
+[^1788-1]: च omitted in A; supplemented with C.  
 
---1) च omitted in A; supplemented with C.  
+[^1788-2]: Emended with C; A यान्ययौ.  
 
---2) Emended with C; A यान्ययौ.  
+[^1790-1]: Thus corr. by A1 from ॰तोष्म चिरं.  
 
-1790.  
+[^1792-1]: Emended; A दीर्घमदन॰.  
 
---1) Thus corr. by A1 from ॰तोष्म चिरं.  
+[^1795-1]: Emended; A सुल्हण॰.  
 
-1792.  
+[^1803-1]: A ॰कोषौ.  
 
---1) Emended; A दीर्घमदन॰.  
-
-1795.  
-
---1) Emended; A सुल्हण॰.  
-
-1803.  
-
---1) A ॰कोषौ.  
-
-1805.  
-
---1) Emended; A ॰मेतं च.  
+[^1805-1]: Emended; A ॰मेतं च.  
 
 [page 233]  
 
@@ -21460,33 +18108,21 @@ n
 उदयः कम्पनाधीशो राज्जोग्रे पर्यशिष्यत । KRT_8_1840ab  
 सर्वामात्यः प्रतीहारमन्वगच्छन्पुनः परे ॥ KRT_8_1840cd  
 
-1813.  
+[^1813-1]: A कोट॰.  
 
---1) A कोट॰.  
+[^1816-1]: Emended with C; A दृष्ट्युपात्पट॰.  
 
-1816.  
+[^1816-2]: Emended with C; A देवेनादाद्व॰ with haplography.  
 
---1) Emended with C; A दृष्ट्युपात्पट॰.  
+[^1818-1]: Emended; A ॰चिन्तयत्.  
 
---2) Emended with C; A देवेनादाद्व॰ with haplography.  
+[^1822-1]: ॰षेचयत्.  
 
-1818.  
+[^1822-2]: A1 3.  
 
---1) Emended; A ॰चिन्तयत्.  
+[^1825-1]: Emendation doubtful; A ॰तायामा.  
 
-1822.  
-
---1) ॰षेचयत्.  
-
---2) A1 3.  
-
-1825.  
-
---1) Emendation doubtful; A ॰तायामा.  
-
-1837.  
-
---1) Emended with C; A चौर्य॰.  
+[^1837-1]: Emended with C; A चौर्य॰.  
 
 [page 234]  
 
@@ -21551,51 +18187,29 @@ n
 भ्रातृव्याय च मुख्याय भूभुजां च करार्पणम् । KRT_8_1869ab  
 विदध्यां जयसिंहाय वरमित्यभिमानिनाम् ॥ KRT_8_1869cd  
 
-1841.  
+[^1841-1]: Emended with C; A सर्वे.  
 
---1) Emended with C; A सर्वे.  
+[^1842-1]: Emended; A सर्वोपायवि॰.  
 
-1842.  
+[^1844-1]: Emended; A ॰र्बद्धो.  
 
---1) Emended; A सर्वोपायवि॰.  
+[^1847-1]: Emended; A ॰लाघव; C ॰लाघवः.  
 
-1844.  
+[^1849-1]: Emended; A प्रत्य॰.  
 
---1) Emended; A ॰र्बद्धो.  
+[^1849-2]: Emended with C; A ॰स्मीत्यान्व॰, with haplography.  
 
-1847.  
+[^1853-1]: A1 2.  
 
---1) Emended; A ॰लाघव; C ॰लाघवः.  
+[^1855-1]: Emended; A ॰मानस्यार्थान्प्रा॰, omitting two aksharas; C ॰मानस्य तानर्थान्प्र॰.  
 
-1849.  
+[^1861-1]: Emended; A ॰मन्यप्र॰.  
 
---1) Emended; A प्रत्य॰.  
+[^1865-1]: Emended; A ॰शिश्रियन्.  
 
---2) Emended with C; A ॰स्मीत्यान्व॰, with haplography.  
+[^1866-1]: A पिबद्भिः.  
 
-1853.  
-
---1) A1 2.  
-
-1855.  
-
---1) Emended; A ॰मानस्यार्थान्प्रा॰, omitting two aksharas; C ॰मानस्य तानर्थान्प्र॰.  
-
-1861.  
-
---1) Emended; A ॰मन्यप्र॰.  
-
-1865.  
-
---1) Emended; A ॰शिश्रियन्.  
-
-1866.  
-
---1) A पिबद्भिः.  
-
-1868.  
-
---1) Emended; A तेप्युद्य॰.  
+[^1868-1]: Emended; A तेप्युद्य॰.  
 
 [page 235]  
 
@@ -21658,49 +18272,31 @@ n
 आराधनधिया स्वैरं यस्याग्रेभोजि भृत्यवत् । KRT_8_1897ab  
 गात्राणि कुङ्कुमालेपैरुपाच[^1897-1]र्यन्त च स्वयम् ॥ KRT_8_1897cd  
 
-1873.  
+[^1873-1]: Emended; A जरढा॰.  
 
---1) Emended; A जरढा॰.  
+[^1876-1]: नका written by A3 in space left by A1.  
 
-1876.  
+[^1877-1]: Emended; A न्यविक्ष्यन्त.  
 
---1) नका written by A3 in space left by A1.  
+[^1877-2]: 2.  
 
-1877.  
+[^1881-1]: Emended with C; A नानातुधातु॰.  
 
---1) Emended; A न्यविक्ष्यन्त.  
+[^1882-1]: Conjectural reading; A स्वत्मनान्यस्तु.  
 
---2) 2.  
+[^1883-1]: Emended; A तिरश्चेर्य.  
 
-1881.  
+[^1887-1]: A ॰स्कन्दा॰.  
 
---1) Emended with C; A नानातुधातु॰.  
+[^1887-2]: Thus corr. by A1 from प्रधायितुम्.  
 
-1882.  
+[^1890-1]: A ॰कृषवि॰.  
 
---1) Conjectural reading; A स्वत्मनान्यस्तु.  
+[^1890-2]: Thus A without indicating the lacuna; parhaps read गल्गलिरिव.  
 
-1883.  
+[^1890-2]: Thus A1. apparently corr. from व्यञ्जन्मिषः; doubtful.  
 
---1) Emended; A तिरश्चेर्य.  
-
-1887.  
-
---1) A ॰स्कन्दा॰.  
-
---2) Thus corr. by A1 from प्रधायितुम्.  
-
-1890.  
-
---1) A ॰कृषवि॰.  
-
---2) Thus A without indicating the lacuna; parhaps read गल्गलिरिव.  
-
---2) Thus A1. apparently corr. from व्यञ्जन्मिषः; doubtful.  
-
-1897.  
-
---1) Emended with C; A ॰रुपचर्यन्त.  
+[^1897-1]: Emended with C; A ॰रुपचर्यन्त.  
 
 [page 236]  
 
@@ -21765,13 +18361,9 @@ n
 इत्थंभूतं कृतैक्यं च समं सीमान्तभूमिपैः । KRT_8_1926ab  
 अथ छलयितुं शत्रुं नीतिं प्रायुङ्क्त सौस्सलिः ॥ KRT_8_1926cd  
 
-1903.  
+[^1903-1]: Emended, A लब्धेन.  
 
---1) Emended, A लब्धेन.  
-
-1925.  
-
---1) य omitted in A; supplied with C.  
+[^1925-1]: य omitted in A; supplied with C.  
 
 [page 237]  
 
@@ -21832,47 +18424,29 @@ n
 लोकसंक्लेशनोद्भूतः कोशः शंकरवर्मणः । KRT_8_1953ab  
 प्रभाकरादिभिः स्वैरं जायाजारैरभुज्यत ॥ KRT_8_1953cd  
 
-1928.  
+[^1928-1]: Thus A; perhaps read नित्योद्यतो॰.  
 
---1) Thus A; perhaps read नित्योद्यतो॰.  
+[^1930-1]: Thus corr. by A1 from ॰केन्दाकादयः. Perhaps read ॰केन्दाकरा॰; cf. viii. 1818.  
 
-1930.  
+[^1933-1]: Emended with C; A ॰सन्धात्त.  
 
---1) Thus corr. by A1 from ॰केन्दाकादयः. Perhaps read ॰केन्दाकरा॰; cf. viii. 1818.  
+[^1936-1]: Emended; A सामान्यो.  
 
-1933.  
+[^1941-1]: Emended; A कोष्ठराज्ये.  
 
---1) Emended with C; A ॰सन्धात्त.  
+[^1942-1]: Emended A ॰वारयत्.  
 
-1936.  
-
---1) Emended; A सामान्यो.  
-
-1941.  
-
---1) Emended; A कोष्ठराज्ये.  
-
-1942.  
-
---1) Emended A ॰वारयत्.  
-
-1943.  
-
---1) A फाल्गुणे.  
+[^1943-1]: A फाल्गुणे.  
 
 1945  
 
 --1) Thus A1; A2 ॰त्याटिल्लिकां; cf. viii. 581.  
 
-1950.  
+[^1950-1]: Thus A1 in margin; in text ॰ष्णाद्घर्मोष्णः.  
 
---1) Thus A1 in margin; in text ॰ष्णाद्घर्मोष्णः.  
+[^1950-2]: Thus corr. by A1 from कुपति॰.  
 
---2) Thus corr. by A1 from कुपति॰.  
-
-1952.  
-
---1) Emended with C; A1 नप्तरक्तकैः; the reading नप्तृनर्तकैः, given by A2 in margin, has been struck out.  
+[^1952-1]: Emended with C; A1 नप्तरक्तकैः; the reading नप्तृनर्तकैः, given by A2 in margin, has been struck out.  
 
 [page 238]  
 
@@ -21939,21 +18513,15 @@ n
 निस्तोषाय गृहायातसोमपालानुरोधतः । KRT_8_1983ab  
 प्रसीदन्वामहस्तेन निजजूटस्रजं मदात् ॥ KRT_8_1983cd  
 
-1959.  
+[^1959-1]: A कोषः.  
 
---1) A कोषः.  
+[^1959-2]: Emended; A वैधव्यं वि॰.  
 
---2) Emended; A वैधव्यं वि॰.  
+[^1959-2]: Emended; A वेषेणैश्व॰.  
 
---2) Emended; A वेषेणैश्व॰.  
+[^1972-1]: Emended; A अर्धरूढेन.  
 
-1972.  
-
---1) Emended; A अर्धरूढेन.  
-
-1978.  
-
---1) A वालिशैः.  
+[^1978-1]: A वालिशैः.  
 
 [page 239]  
 
@@ -22016,35 +18584,21 @@ n
 जतुसंहतयोः काचकलशीदलयोरिव । KRT_8_2011ab  
 क्षणे क्षणे संधिभङ्गस्तयोः समुदपद्यत ॥ KRT_8_2011cd  
 
-1984.  
+[^1984-1]: A1 4.  
 
---1) A1 4.  
+[^1991-1]: A1 indicates here a lacuna of two aksharas; C तदा.  
 
-1991.  
+[^1994-1]: Emended; A ॰वसन्.  
 
---1) A1 indicates here a lacuna of two aksharas; C तदा.  
+[^1996-1]: Emended; A ॰स्थैर्ये.  
 
-1994.  
+[^1996-2]: Emended with C; A ॰विजिगृक्षुः.  
 
---1) Emended; A ॰वसन्.  
+[^1999-1]: Emended with C; A ॰हारप्रापास्तमपीडया.  
 
-1996.  
+[^2004-1]: Emended with C; A कोष्ठभू॰.  
 
---1) Emended; A ॰स्थैर्ये.  
-
---2) Emended with C; A ॰विजिगृक्षुः.  
-
-1999.  
-
---1) Emended with C; A ॰हारप्रापास्तमपीडया.  
-
-2004.  
-
---1) Emended with C; A कोष्ठभू॰.  
-
-2010.  
-
---1) Emended; A ॰मुद्रणाम्.  
+[^2010-1]: Emended; A ॰मुद्रणाम्.  
 
 [page 240]  
 
@@ -22097,41 +18651,25 @@ n
 भृत्यान्तरापरिज्ञानमात्रेण जगतीभुजाम् । KRT_8_2034ab  
 निरागसो वज्रपातः कष्ठं राष्ट्रस्य जायते ॥ KRT_8_2034cd  
 
-2013.  
+[^2013-1]: A1 indicates here a lacuna of one of akshara; C सुस्थिरं.  
 
---1) A1 indicates here a lacuna of one of akshara; C सुस्थिरं.  
+[^2014-1]: Thus or त्व-- -- A2; दत्त्वाभयं तैरायत्यां.  
 
-2014.  
+[^2019-1]: Cf. viii. 1818. 1930.  
 
---1) Thus or त्व-- -- A2; दत्त्वाभयं तैरायत्यां.  
+[^2022-1]: Emended; A कोद्दे.  
 
-2019.  
+[^2024-1]: Thus A; text evidently corrupt; perhaps read ॰द्देश्यस्याष्टम॰.  
 
---1) Cf. viii. 1818. 1930.  
+[^2024-2]: Thus corr. by later hand from A1 ॰स्याहितेहनि.  
 
-2022.  
+[^2025-1]: Thus A1; C विलुब्धकार्पण्यकृ॰; perhaps read विलुब्धकारुण्यकृ॰.  
 
---1) Emended; A कोद्दे.  
+[^2031-1]: A1 writes here 4 instead of तिलकम्(?).  
 
-2024.  
+[^2033-1]: A वालि॰.  
 
---1) Thus A; text evidently corrupt; perhaps read ॰द्देश्यस्याष्टम॰.  
-
---2) Thus corr. by later hand from A1 ॰स्याहितेहनि.  
-
-2025.  
-
---1) Thus A1; C विलुब्धकार्पण्यकृ॰; perhaps read विलुब्धकारुण्यकृ॰.  
-
-2031.  
-
---1) A1 writes here 4 instead of तिलकम्(?).  
-
-2033.  
-
---1) A वालि॰.  
-
---2) Thus corr. by A3 from A1 कार्श्यं.  
+[^2033-2]: Thus corr. by A3 from A1 कार्श्यं.  
 
 [page 241]  
 
@@ -22196,21 +18734,13 @@ n
 मयि सत्यपरोपि स्यात्किमनुग्राहकः स्मयात् । KRT_8_2063ab  
 अकारि चारणप्रायस्तादृक्कोपीति सुज्जिना ॥ KRT_8_2063cd  
 
-2033.  
+[^2033-1]: Emended; A धन्योदयो.  
 
---1) Emended; A धन्योदयो.  
+[^2044-1]: Emended; A राज्यपुर्यो.  
 
-2044.  
+[^2045-1]: Doubtful emendation; A चावालगतौ; G चारालगतौ.  
 
---1) Emended; A राज्यपुर्यो.  
-
-2045.  
-
---1) Doubtful emendation; A चावालगतौ; G चारालगतौ.  
-
-2051.  
-
---1) न्न supplied with C; A न्यध्र -- त्र.  
+[^2051-1]: न्न supplied with C; A न्यध्र -- त्र.  
 
 [page 242]  
 
@@ -22273,21 +18803,13 @@ n
 संमन्त्र्य नृपतिं मैत्रीप्रार्थिना सुज्जिना समम् । KRT_8_2091ab  
 पीत्वा कोशं सञ्जपालः प्राप्तो रात्रौ व्यजिज्ञपत् ॥ KRT_8_2091cd  
 
-2066.  
+[^2066-1]: Thus corr. by A3 from A1 समुददीपित्.  
 
---1) Thus corr. by A3 from A1 समुददीपित्.  
+[^2037-1]: Emended; A आसन॰.  
 
-2037.  
+[^2082-1]: Emended with C; A ॰ चाख्युः.  
 
---1) Emended; A आसन॰.  
-
-2082.  
-
---1) Emended with C; A ॰ चाख्युः.  
-
-2090.  
-
---1) Emended with C; A निर्यायासु॰.  
+[^2090-1]: Emended with C; A निर्यायासु॰.  
 
 [page 243]  
 
@@ -22352,29 +18874,17 @@ n
 विस्रम्भभृत्यः शृङ्गारनामा चाप्यब्रवीत्प्रभोः । KRT_8_2120ab  
 तं दृष्टवांस्तृतीयेह्नि शयनेवगणं स्थितम् ॥ KRT_8_2120cd  
 
-2092.  
+[^2092-1]: Emended; A ,,प्रायस्पर्धिनो॰.  
 
---1) Emended; A ,,प्रायस्पर्धिनो॰.  
+[^2100-1]: Emended with C; A स्रजन्.  
 
-2100.  
+[^2103-1]: Emended; A य आकोप॰; G sec. manu यतः को॰.  
 
---1) Emended with C; A स्रजन्.  
+[^2106-1]: A वालि॰.  
 
-2103.  
+[^2107-1]: Here two are missing; C supplements क्व स नीतिज्ञविज्ञेयः क्व च ते खलबुद्धयः.  
 
---1) Emended; A य आकोप॰; G sec. manu यतः को॰.  
-
-2106.  
-
---1) A वालि॰.  
-
-2107.  
-
---1) Here two are missing; C supplements क्व स नीतिज्ञविज्ञेयः क्व च ते खलबुद्धयः.  
-
-2112.  
-
---1) Emended; A कुरुतां.  
+[^2112-1]: Emended; A कुरुतां.  
 
 <2116>.  
 
@@ -22441,29 +18951,17 @@ n
 अस्रनिःसरणाभीक्ष्णशुक्लेक्षणपुटश्रुतिः । KRT_8_2148ab  
 उत्तरौष्ठकचच्छन्नसन्नघ्राणपुटद्वयम् ॥ KRT_8_2148cd  
 
-2124.  
+[^2124-1]: Thus emended in C; A आरेभेति.  
 
---1) Thus emended in C; A आरेभेति.  
+[^2125-1]: Emended; A ॰तोन्वगाः.  
 
-2125.  
+[^2127-1]: Here two are missing; C supplements इति चिन्तयतस्तस्य मन आसीद्विशृङ्खलं.  
 
---1) Emended; A ॰तोन्वगाः.  
+[^2128-1]: Emended; A ॰मृषन्.  
 
-2127.  
+[^2129-1]: A विमर्षः.  
 
---1) Here two are missing; C supplements इति चिन्तयतस्तस्य मन आसीद्विशृङ्खलं.  
-
-2128.  
-
---1) Emended; A ॰मृषन्.  
-
-2129.  
-
---1) A विमर्षः.  
-
-2146.  
-
---1) Emended; A तान्स सम्भ्रम॰  
+[^2146-1]: Emended; A तान्स सम्भ्रम॰  
 
 [page 245]  
 
@@ -22526,17 +19024,11 @@ n
 व्यापाद्यमानाः साकोपं भूपतिप्रेरितैर्भटैः । KRT_8_2176ab  
 उच्चावचाः सुज्जिभृत्याः कृत्यं सत्त्वोचितं व्यधुः ॥ KRT_8_2176cd  
 
-2157.  
+[^2157-1]: Emended with C; A कल -- -- स्याद्य.  
 
---1) Emended with C; A कल -- -- स्याद्य.  
+[^2166-1]: A1 3.  
 
-2166.  
-
---1) A1 3.  
-
-2171.  
-
---1) Before or after साधु two aksharas  
+[^2171-1]: Before or after साधु two aksharas  
 
 are missing; the lacuna not indicated in A; C supplements सम्यग्जा॰.  
 
@@ -22603,31 +19095,19 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 रिल्हणादीन्योधयित्वा व्यूढव्यस्ताखिलानुगः । KRT_8_2205ab  
 लवन्यो न्यपतत्सायं कम्पनाधिपतेर्बले[^2205-1] ॥ KRT_8_2205cd  
 
-2183.  
+[^2183-1]: C शरदि यो.  
 
---1) C शरदि यो.  
+[^2185-1]: Emended with C; A ॰मन्ये.  
 
-2185.  
+[^2189-1]: Conjectural emendation of G.(sec. manu); A प्रजाः.  
 
---1) Emended with C; A ॰मन्ये.  
+[^2190-1]: Emended; A ॰भुजाम्.  
 
-2189.  
+[^2190-2]: Emended; A संप्रसाद॰.  
 
---1) Conjectural emendation of G.(sec. manu); A प्रजाः.  
+[^2204-1]: Doubtful emendation; A भङ्गनामङ्गलों॰; C अङ्गनामङ्गलौङ्कार॰.  
 
-2190.  
-
---1) Emended; A ॰भुजाम्.  
-
---2) Emended; A संप्रसाद॰.  
-
-2204.  
-
---1) Doubtful emendation; A भङ्गनामङ्गलों॰; C अङ्गनामङ्गलौङ्कार॰.  
-
-2205.  
-
---1) Emended; A ॰र्बली.  
+[^2205-1]: Emended; A ॰र्बली.  
 
 [page 247]  
 
@@ -22692,21 +19172,13 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 धर्मः सर्वोपकार्येकक्षुद्रक्षपणमुच्यते । KRT_8_2234ab  
 जघानाजगरं सोपि जन्तूनामन्तकं जिनः ॥ KRT_8_2234cd  
 
-2206.  
+[^2206-1]: Emended; A सह.  
 
---1) Emended; A सह.  
+[^2221-1]: Emended; A सङ्घटितुं.  
 
-2221.  
+[^2224-1]: Emended with C; A सवृद्धायास॰.  
 
---1) Emended; A सङ्घटितुं.  
-
-2224.  
-
---1) Emended with C; A सवृद्धायास॰.  
-
-2230.  
-
---1) Emended with C; A apparently ॰मान्यानां.  
+[^2230-1]: Emended with C; A apparently ॰मान्यानां.  
 
 [page 248]  
 
@@ -22771,33 +19243,19 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 तरुदुर्गं तदकृशक्रोश[^2263-1]व्याप्यथ सर्वतः । KRT_8_2263ab  
 व्याप्तोपान्तवनग्रामैः सचिवैः स न्यरोधयत् ॥ KRT_8_2263cd  
 
-2235.  
+[^2235-1]: Misread in C दुर्वृत्तहसने॰.  
 
---1) Misread in C दुर्वृत्तहसने॰.  
+[^2246-1]: Emended; A स्तम्बाग्रे.  
 
-2246.  
+[^2251-1]: Emended with C; A प्र--.  
 
---1) Emended; A स्तम्बाग्रे.  
+[^2253-1]: Emended with C; A भैषीन्प्रा॰.  
 
-2251.  
+[^2256-1]: Compare fore this verse iv. 8.  
 
---1) Emended with C; A प्र--.  
+[^2261-1]: The text od the first is corrupt; perhaps read स समभ्रमयद्भ्रा॰.  
 
-2253.  
-
---1) Emended with C; A भैषीन्प्रा॰.  
-
-2256.  
-
---1) Compare fore this verse iv. 8.  
-
-2261.  
-
---1) The text od the first is corrupt; perhaps read स समभ्रमयद्भ्रा॰.  
-
-2263.  
-
---1) A ॰क्रोष॰.  
+[^2263-1]: A ॰क्रोष॰.  
 
 [page 249]  
 
@@ -22860,33 +19318,21 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 सत्यंकारोधुना भूत्वा विधत्तां स्वान्तसुस्थितिम् । KRT_8_2291ab  
 साध्यत्वानतिवृत्तेन वरेणैकेन मे भवान् ॥ KRT_8_2291cd  
 
-2264.  
+[^2264-1]: A. स्कन्दा॰.  
 
---1) A. स्कन्दा॰.  
+[^2265-1]: A सिन्दुरस्येव.  
 
-2265.  
+[^2269-1]: A वालि॰.  
 
---1) A सिन्दुरस्येव.  
+[^2276-1]: Emended; A स्कन्दम॰.  
 
-2269.  
+[^2276-2]: Emended; ॰ल्लङ्घनाय स नि॰.  
 
---1) A वालि॰.  
+[^2279-1]: Emended; A शक्ति.  
 
-2276.  
+[^2279-2]: Emended; A भावार्थ.  
 
---1) Emended; A स्कन्दम॰.  
-
---2) Emended; ॰ल्लङ्घनाय स नि॰.  
-
-2279.  
-
---1) Emended; A शक्ति.  
-
---2) Emended; A भावार्थ.  
-
-2281.  
-
---1) Doubtful; A जग्गके; cf. viii. 2278.  
+[^2281-1]: Doubtful; A जग्गके; cf. viii. 2278.  
 
 [page 250]  
 
@@ -22951,25 +19397,15 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 उच्चावचेषु प्रहरन्स भूपालोपजीविषु । KRT_8_2320ab  
 अतर्क्यमाणस्तुमुलं राज्ञैवालक्ष्यतापतत् ॥ KRT_8_2320cd  
 
-2293.  
+[^2293-1]: A माऽयं.  
 
---1) A माऽयं.  
+[^2300-1]: Emended; A जनाः.  
 
-2300.  
+[^2304-1]: A ॰वालि॰.  
 
---1) Emended; A जनाः.  
+[^2315-1]: A भि X ख॰.  
 
-2304.  
-
---1) A ॰वालि॰.  
-
-2315.  
-
---1) A भि X ख॰.  
-
-2319.  
-
---1) Emended with C; A स्वामिनो.  
+[^2319-1]: Emended with C; A स्वामिनो.  
 
 [page 251]  
 
@@ -23034,17 +19470,11 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 श्वेतच्छत्त्रांशुपृक्तेव चिन्तापाण्डुरवर्तत । KRT_8_2349ab  
 बन्दीकृता नरेन्द्रश्रीर्निर्निद्रा यस्य मन्दिरे ॥ KRT_8_2349cd  
 
-2323.  
+[^2323-1]: Emended with C; संष्तम्भ्यैनं.  
 
---1) Emended with C; संष्तम्भ्यैनं.  
+[^2326-1]: Emended; A बिज्जराजो.  
 
-2326.  
-
---1) Emended; A बिज्जराजो.  
-
-2348.  
-
---1) Emended; A साल्वः सौ-- मिवा॰; C सालूरोऽन्धुमिवा॰.  
+[^2348-1]: Emended; A साल्वः सौ-- मिवा॰; C सालूरोऽन्धुमिवा॰.  
 
 [page 252]  
 
@@ -23105,47 +19535,31 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 यः सर्वकषनिष्कम्पशेमुषीकः क्षमापतिः । KRT_8_2376ab  
 धुर्यतां धर्मचर्याभिर्गतः सुकृतशालिनाम् ॥ KRT_8_2376cd  
 
-2350.  
+[^2350-1]: A4 3.  
 
---1) A4 3.  
+[^2350-1]: A1 4  
 
---1) A1 4  
+[^2350-1]: Emended; A दुष्कृताम्.  
 
---1) Emended; A दुष्कृताम्.  
+[^2350-2]: Thus A; R G C नातः.  
 
---2) Thus A; R G C नातः.  
+[^2362-1]: A ॰ददन्य.  
 
-2362.  
+[^2363-1]: Emended with C; A रुप्यं.  
 
---1) A ॰ददन्य.  
+[^2369-1]: Emended; A शृङ्गारं.  
 
-2363.  
+[^2370-1]: Thus A; C emends रूक्षरक्षा॰.  
 
---1) Emended with C; A रुप्यं.  
+[^2371-1]: Emended; A कु-- तेक्षणः; C कुरुते क्षणः.  
 
-2369.  
+[^2372-1]: Thus A; perhaps read with C ॰द्वेल्लित॰.  
 
---1) Emended; A शृङ्गारं.  
+[^2372-2]: A1 3.  
 
-2370.  
+[^2374-1]: Emended; A ॰त्त्वरां.  
 
---1) Thus A; C emends रूक्षरक्षा॰.  
-
-2371.  
-
---1) Emended; A कु-- तेक्षणः; C कुरुते क्षणः.  
-
-2372.  
-
---1) Thus A; perhaps read with C ॰द्वेल्लित॰.  
-
---2) A1 3.  
-
-2374.  
-
---1) Emended; A ॰त्त्वरां.  
-
---2) Emended; A न दृशां.  
+[^2374-2]: Emended; A न दृशां.  
 
 [page 253]  
 
@@ -23206,41 +19620,25 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 रिल्हणोथ गुणग्रामबान्धवो धर्मपद्धतौ । KRT_8_2403ab  
 बभूव पूर्वपथिकः समस्तामात्यसंततेः ॥ KRT_8_2403cd  
 
-2384.  
+[^2384-1]: A ॰कार्यसन्नह्यचारिणा, evidently corrupt; emendation doubtful.  
 
---1) A ॰कार्यसन्नह्यचारिणा, evidently corrupt; emendation doubtful.  
+[^2382-1]: Conjectural reading; A सरगज॰; C सुरगज॰.  
 
-2382.  
+[^2382-2]: Thus A; perhaps read ॰स्पर्शनात्पूता; C ॰नात् जाता.  
 
---1) Conjectural reading; A सरगज॰; C सुरगज॰.  
+[^2383-1]: Emended; A ॰न्तरं.  
 
---2) Thus A; perhaps read ॰स्पर्शनात्पूता; C ॰नात् जाता.  
+[^2390-1]: A कोष॰.  
 
-2383.  
+[^2392-1]: A सायाह्ण॰.  
 
---1) Emended; A ॰न्तरं.  
+[^2395-1]: A1 indicates a lacuna of three aksharas; C supplements संग्रामे.  
 
-2390.  
+[^2395-2]: Emended with G (sec. manu); A ॰ग्रहा X कन्दु.  
 
---1) A कोष॰.  
+[^2328-1]: Emended; A ॰व्यतिश्रियः; cf. the passage ii. 126, to which evidently reference is made here.  
 
-2392.  
-
---1) A सायाह्ण॰.  
-
-2395.  
-
---1) A1 indicates a lacuna of three aksharas; C supplements संग्रामे.  
-
---2) Emended with G (sec. manu); A ॰ग्रहा X कन्दु.  
-
-2328.  
-
---1) Emended; A ॰व्यतिश्रियः; cf. the passage ii. 126, to which evidently reference is made here.  
-
-1401.  
-
---1) Perhaps read ॰ष्वेकं.  
+[^1401-1]: Perhaps read ॰ष्वेकं.  
 
 [page 254]  
 
@@ -23303,29 +19701,17 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 सविहारमठोदग्रवेश्मभिः कलुषोज्झितम्[^2431-1] । KRT_8_2431ab  
 तेन तत्र कृतं भट्टपुराख्यं पुटभेदनम् ॥ KRT_8_2431cd  
 
-2404.  
+[^2404-1]: Emended with C; A तपोधनाल्ल॰.  
 
---1) Emended with C; A तपोधनाल्ल॰.  
+[^2410-1]: Thus A; cf. vii. 1239, where बलेरकप्रपा॰.  
 
-2410.  
+[^2413-1]: Emended with C; A उत्सज॰.  
 
---1) Thus A; cf. vii. 1239, where बलेरकप्रपा॰.  
+[^2414-1]: Emended; A ॰धुना.  
 
-2413.  
+[^2425-1]: Doubtful emendation; A ॰कशिपुदः. withput indicating the lacuna; C ॰कशिपुच्छिदः.  
 
---1) Emended with C; A उत्सज॰.  
-
-2414.  
-
---1) Emended; A ॰धुना.  
-
-2425.  
-
---1) Doubtful emendation; A ॰कशिपुदः. withput indicating the lacuna; C ॰कशिपुच्छिदः.  
-
-2429.  
-
---1) Emended; A षोज्झितः.  
+[^2429-1]: Emended; A षोज्झितः.  
 
 [page 255]  
 
@@ -23390,35 +19776,21 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 
 --1) The last two of verse 2438 and the following verse are found in the above, mutilated form in A at the foot of fol. 290, having been added subsequently by A1; C reads: मठप्रतिष्ठां कृत्वा सा नन्दिक्षेत्रेऽकरोत् स्थितिं । विहारान् यवनाद्येषु स्थानेषु च मनोरमान्.  
 
-2440.  
+[^2440-1]: The first two of this verse have been subsequently added by A1 at the top of fol. 291.  
 
---1) The first two of this verse have been subsequently added by A1 at the top of fol. 291.  
+[^2440-2]: Emended; A दार्वासारे; C दार्वागारेष्वप्यू॰.  
 
---2) Emended; A दार्वासारे; C दार्वागारेष्वप्यू॰.  
+[^2445-1]: Emended; A सङ्ग्राम.  
 
-2445.  
+[^2449-1]: Thus A1 originally; corr. by A1 to शालिष्वक्षीणं.  
 
---1) Emended; A सङ्ग्राम.  
+[^2451-1]: Emended with C; A निन्येन्तिका॰.  
 
-2449.  
+[^2453-1]: A प्रजेशा X का॰.  
 
---1) Thus A1 originally; corr. by A1 to शालिष्वक्षीणं.  
+[^2458-1]: A1 2.  
 
-2451.  
-
---1) Emended with C; A निन्येन्तिका॰.  
-
-2453.  
-
---1) A प्रजेशा X का॰.  
-
-2458.  
-
---1) A1 2.  
-
-2457.  
-
---1) Emended; A ॰मात्रशिशुं नृपम्;  
+[^2457-1]: Emended; A ॰मात्रशिशुं नृपम्;  
 
 [page 256]  
 
@@ -23479,55 +19851,33 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 कर्णाढकादावभवत्स्थाने स्थाने विलोक्य तम् । KRT_8_2485ab  
 प्रस्थितं कस्यचिद्द्रोहे बुद्धिः कस्यापि साधुता ॥ KRT_8_2485cd  
 
-2461.  
+[^2461-1]: Emended; A सज्जे॰.  
 
---1) Emended; A सज्जे॰.  
+[^2461-2]: A1 3.  
 
---2) A1 3.  
+[^2463-1]: A ॰वालि॰.  
 
-2463.  
+[^2463-2]: Thus A; perhaps read विशन्त्यन्त॰; C न शंसन्त्य॰.  
 
---1) A ॰वालि॰.  
+[^2466-1]: Emended; A apparently वैधेयान्बकप्रायान्कार्य॰, as read in R. C.  
 
---2) Thus A; perhaps read विशन्त्यन्त॰; C न शंसन्त्य॰.  
+[^2467-1]: Emended; A ॰न्योन्यं भेद॰.  
 
-2466.  
+[^2469-1]: Emended; A सज्जौ.  
 
---1) Emended; A apparently वैधेयान्बकप्रायान्कार्य॰, as read in R. C.  
+[^2491-1]: Emended with G (sec. manu); A निर्भरा.  
 
-2467.  
+[^2473-1]: Emended with C; A ॰मात्यर्भका॰.  
 
---1) Emended; A ॰न्योन्यं भेद॰.  
+[^2480-1]: Emended; A सुज्जिर्नि॰.  
 
-2469.  
+[^2482-1]: A दूरा -- खण्डि॰.  
 
---1) Emended; A सज्जौ.  
+[^2482-2]: Emended; A जीवत्कृषि॰.  
 
-2491.  
+[^2483-1]: A1 2.  
 
---1) Emended with G (sec. manu); A निर्भरा.  
-
-2473.  
-
---1) Emended with C; A ॰मात्यर्भका॰.  
-
-2480.  
-
---1) Emended; A सुज्जिर्नि॰.  
-
-2482.  
-
---1) A दूरा -- खण्डि॰.  
-
---2) Emended; A जीवत्कृषि॰.  
-
-2483.  
-
---1) A1 2.  
-
-2484.  
-
---1) Doubtful emendation; A साप्यद्रि॰.  
+[^2484-1]: Doubtful emendation; A साप्यद्रि॰.  
 
 [page 257]  
 
@@ -23588,47 +19938,29 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 भुवनाद्भुतसंभारप्रेषणं विजयैषिणः । KRT_8_2512ab  
 द्वैराज्यमीलिताज्ञेपि काले राज्ञो न खण्डितम् ॥ KRT_8_2512cd  
 
-2488.  
+[^2488-1]: Emended; A च मूर्तेन.  
 
---1) Emended; A च मूर्तेन.  
+[^2489-1]: Emended; A सुल्हण॰.  
 
-2489.  
+[^2489-2]: Emended with C; A ॰गता.  
 
---1) Emended; A सुल्हण॰.  
+[^2490-1]: Thus A; perhaps read अथोपहत्या उत्थान; cf. viii.2513; C अथोपचित उत्थान.  
 
---2) Emended with C; A ॰गता.  
+[^2492-1]: Conjectural reading; A ॰श्रियरन्तस्थितं; G(sec. manu) ॰श्रिय अन्ते स्थितं.  
 
-2490.  
+[^2495-1]: Doubtful emendation; A ॰भवन्.  
 
---1) Thus A; perhaps read अथोपहत्या उत्थान; cf. viii.2513; C अथोपचित उत्थान.  
+[^2496-1]: Comp. for this name viii. 2799.2912.3313.  
 
-2492.  
+[^2496-2]: Emended; A पा -- हरिः; cf. viii. 2748. 2759. 2793. 2838.  
 
---1) Conjectural reading; A ॰श्रियरन्तस्थितं; G(sec. manu) ॰श्रिय अन्ते स्थितं.  
+[^2496-3]: Emended; A ॰क्रिकैः.  
 
-2495.  
+[^2501-1]: A तत्स्कन्दा॰.  
 
---1) Doubtful emendation; A ॰भवन्.  
+[^2506-1]: A does not indicate the lacuna; C मुख्याश्चारणैः.  
 
-2496.  
-
---1) Comp. for this name viii. 2799.2912.3313.  
-
---2) Emended; A पा -- हरिः; cf. viii. 2748. 2759. 2793. 2838.  
-
---3) Emended; A ॰क्रिकैः.  
-
-2501.  
-
---1) A तत्स्कन्दा॰.  
-
-2506.  
-
---1) A does not indicate the lacuna; C मुख्याश्चारणैः.  
-
-2507.  
-
---1) Thus A; perhaps read with C श्रयत्स्वगच्छद्वा॰.  
+[^2507-1]: Thus A; perhaps read with C श्रयत्स्वगच्छद्वा॰.  
 
 [page 258]  
 
@@ -23685,53 +20017,33 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 त्वय्यास्मासु च सर्वेषु वेष्टितेषूत्कटा द्विषः । KRT_8_2537ab  
 पृष्ठकोपमसंभाव्य कुतश्चिन्निश्चलोद्यमाः ॥ KRT_8_2537cd  
 
-2513.  
+[^2513-1]: Doubtful emendation; A एवौपह -- एवोपहतभये.  
 
---1) Doubtful emendation; A एवौपह -- एवोपहतभये.  
+[^2513-2]: Emended; A ॰क्रन्दं क्षान्ति॰(the letter क्ष is of unusual shape and resembles श्श); C क्षान्तिचमू॰.  
 
---2) Emended; A ॰क्रन्दं क्षान्ति॰(the letter क्ष is of unusual shape and resembles श्श); C क्षान्तिचमू॰.  
+[^2514-1]: Emended; A चलितां; another possible emendation would be चलिता दर्शयत्रुषम् । स्थास्नूश्च.  
 
-2514.  
+[^2515-1]: Emended; A संशयाः.  
 
---1) Emended; A चलितां; another possible emendation would be चलिता दर्शयत्रुषम् । स्थास्नूश्च.  
+[^2520-1]: Emended with G (sec. manu); A हिमिका॰.  
 
-2515.  
+[^2525-1]: Thus A; cf. कर्णाटका॰ viii. 2485.  
 
---1) Emended; A संशयाः.  
+[^2528-1]: Emended; A कृषोधः.  
 
-2520.  
+[^2528-2]: Emended with C; A तैर्वेसारण॰.  
 
---1) Emended with G (sec. manu); A हिमिका॰.  
+[^2530-1]: Emended; A शरैर्द्विषद्व॰.  
 
-2525.  
+[^2531-1]: Emended; A तैरभिदद्धैर्या॰; C तैरभिरुद्धैर्य्यावदा॰.  
 
---1) Thus A; cf. कर्णाटका॰ viii. 2485.  
+[^2531-2]: A1. 2.  
 
-2528.  
+[^2534-1]: Emended; A भोजं; R भोजो.  
 
---1) Emended; A कृषोधः.  
+[^2535-1]:Emended; A सान्त्वनेः; C सान्त्वने.  
 
---2) Emended with C; A तैर्वेसारण॰.  
-
-2530.  
-
---1) Emended; A शरैर्द्विषद्व॰.  
-
-2531.  
-
---1) Emended; A तैरभिदद्धैर्या॰; C तैरभिरुद्धैर्य्यावदा॰.  
-
---2) A1. 2.  
-
-2534.  
-
---1) Emended; A भोजं; R भोजो.  
-
-2535.  
-
---1)Emended; A सान्त्वनेः; C सान्त्वने.  
-
---2) Doubtful emendation; A ॰त्सवर्तिष्ट च; C ॰त्सनवर्तिष्ट सं॰.  
+[^2535-2]: Doubtful emendation; A ॰त्सवर्तिष्ट च; C ॰त्सनवर्तिष्ट सं॰.  
 
 [page 259]  
 
@@ -23788,41 +20100,27 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 निद्राच्छेदार्थमन्योन्यं क्रोशन्तो नास्वपन्निशि । KRT_8_2562ab  
 स्वपन्तोह्नि तु निःशब्दशून्यं कोट्टमदीदृशन् ॥ KRT_8_2562cd  
 
-2538.  
+[^2538-1]: Emended with G(sec. manu); A वा -- येन; C यवेन.  
 
---1) Emended with G(sec. manu); A वा -- येन; C यवेन.  
+[^2540-1]: Emended with C; A ह्यो.  
 
-2540.  
+[^2540-2]: Emended with C; सत्त्वसङ्क्षी॰.  
 
---1) Emended with C; A ह्यो.  
+[^2545-1]: A कठो -- प्या॰; C कठोरोऽप्या॰.  
 
---2) Emended with C; सत्त्वसङ्क्षी॰.  
+[^2545-2]: Could be read in A also ॰निष्टान्नि॰.  
 
-2545.  
+[^2545-3]: A ॰स्यामो -- शयं.  
 
---1) A कठो -- प्या॰; C कठोरोऽप्या॰.  
+[^2548-1]: Emended with G (sec. manu); A गर्भे.  
 
---2) Could be read in A also ॰निष्टान्नि॰.  
+[^2553-1]: Emended; A ॰त्प्रैक्ष्यन्त.  
 
---3) A ॰स्यामो -- शयं.  
+[^2554-1]: Thus A; perhaps read अधःस्थो.  
 
-2548.  
+[^2554-2]: A1 2.  
 
---1) Emended with G (sec. manu); A गर्भे.  
-
-2553.  
-
---1) Emended; A ॰त्प्रैक्ष्यन्त.  
-
-2554.  
-
---1) Thus A; perhaps read अधःस्थो.  
-
---2) A1 2.  
-
-2556.  
-
---1) Emended with G (sec. manu); A ॰पौरयोधैर्वृद्धिं हतै॰.  
+[^2556-1]: Emended with G (sec. manu); A ॰पौरयोधैर्वृद्धिं हतै॰.  
 
 [page 260]  
 
@@ -23885,49 +20183,27 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 अगृह्यतोचिते दन्तवीणावाद्योद्यमे तथा । KRT_8_2590ab  
 शीतासादितसादेन पाणि[^2590-1]पादेन सुप्तता ॥ KRT_8_2590cd  
 
-2534.  
+[^2534-1]: Emended with C; A तान्ससम्भ्रम॰.  
 
---1) Emended with C; A तान्ससम्भ्रम॰.  
+[^2565-1]: The letter श is indistinctly written; C ॰दोषं; R ॰रोषं.  
 
-2565.  
+[^2566-1]: Emended; A ॰सनैर्व्यधुः.  
 
---1) The letter श is indistinctly written; C ॰दोषं; R ॰रोषं.  
+[^2572-1]: A1 2.  
 
-2566.  
+[^2573-1]: Emended with C; A प्राका॰.  
 
---1) Emended; A ॰सनैर्व्यधुः.  
+[^2576-1]: A ॰शिविरा॰.  
 
-2572.  
+[^2577-1]: A1 2.  
 
---1) A1 2.  
+[^2578-1]: Emended with C; A निभर्त्स्य..  
 
-2573.  
+[^2582-1]: Emended; A ॰प्रकाशं चाञ्च॰.  
 
---1) Emended with C; A प्राका॰.  
+[^2583-1]: Emended; A ॰क्षमः.  
 
-2576.  
-
---1) A ॰शिविरा॰.  
-
-2577.  
-
---1) A1 2.  
-
-2578.  
-
---1) Emended with C; A निभर्त्स्य..  
-
-2582.  
-
---1) Emended; A ॰प्रकाशं चाञ्च॰.  
-
-2583.  
-
---1) Emended; A ॰क्षमः.  
-
-2590.  
-
---1) Emended with C; A पादिपादेन.  
+[^2590-1]: Emended with C; A पादिपादेन.  
 
 [page 261]  
 
@@ -23992,29 +20268,17 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 एकाहं गमने सोढविलम्बस्तत्र वासरे । KRT_8_2619ab  
 लोठनं[^2619-1] क्षीणदाक्षिण्यः स गच्छेत्यब्रवीत्स्फुटम् ॥ KRT_8_2619cd  
 
-2595.  
+[^2595-1]: Emended; A जनान्स्निग्धां.  
 
---1) Emended; A जनान्स्निग्धां.  
+[^2597-1]: Emended; A ॰भोजस्य.  
 
-2597.  
+[^2603-1]: Emended; A भोज्यभाव॰.  
 
---1) Emended; A ॰भोजस्य.  
+[^2612-1]: Emended with G (sec. manu); A ॰केलित॰.  
 
-2603.  
+[^2615-1]: Emended with C; A ॰पश्यन्त.  
 
---1) Emended; A भोज्यभाव॰.  
-
-2612.  
-
---1) Emended with G (sec. manu); A ॰केलित॰.  
-
-2615.  
-
---1) Emended with C; A ॰पश्यन्त.  
-
-2619.  
-
---1) Emended; A लोठने.  
+[^2619-1]: Emended; A लोठने.  
 
 [page 262]  
 
@@ -24067,33 +20331,19 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 दीर्घप्रवासादायातं सत्कर्तुं कटकं पुनः । KRT_8_2642ab  
 निर्ममो हर्म्यमुत्तुङ्गमारुरोह महीपतिः ॥ KRT_8_2642cd  
 
-2620.  
+[^2620-1]: Emended; A उपन्यस्यंस्त॰.  
 
---1) Emended; A उपन्यस्यंस्त॰.  
+[^2628-1]: A2 gloss शान्ता अहन्ता अहंभावो यस्य.  
 
-2628.  
+[^2630-1]: Emended; A दैवस्य.  
 
---1) A2 gloss शान्ता अहन्ता अहंभावो यस्य.  
+[^2637-1]: Emended; A ॰कूर्चं स॰.  
 
-2630.  
+[^2638-1]: A ॰शिविरो॰.  
 
---1) Emended; A दैवस्य.  
+[^2639-1]: A स्कन्दावारे.  
 
-2637.  
-
---1) Emended; A ॰कूर्चं स॰.  
-
-2638.  
-
---1) A ॰शिविरो॰.  
-
-2639.  
-
---1) A स्कन्दावारे.  
-
-2640.  
-
---1) Emended with G  
+[^2640-1]: Emended with G  
 
 [page 263]  
 
@@ -24156,35 +20406,21 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 साल्हणिः[^2670-1] स तु निस्ती[^2670-1]र्णः श्वभ्राच्छून्यगृहे वसन् । KRT_8_2670ab  
 पितृव्यविग्रहोदन्तमुपलेभे न कंचन ॥ KRT_8_2670cd  
 
-2645.  
+[^2645-1]: A वलक्ष॰.  
 
---1) A वलक्ष॰.  
+[^2648-1]: Emended with C; A ॰पतितानिव.  
 
-2648.  
+[^2648-2]: Thus A; C supplements शोषबहुशुष्करद॰.  
 
---1) Emended with C; A ॰पतितानिव.  
+[^2649-1]: Emended with C; A दैविकोन्तरा॰.  
 
---2) Thus A; C supplements शोषबहुशुष्करद॰.  
+[^2655-1]: Emended; A धन्यं मु॰.  
 
-2649.  
+[^2667-1]: Emended; A ॰कृत्रिमः.  
 
---1) Emended with C; A दैविकोन्तरा॰.  
+[^2668-1]: Conjectural reading; A भोजनोत्पञ्ज॰.  
 
-2655.  
-
---1) Emended; A धन्यं मु॰.  
-
-2667.  
-
---1) Emended; A ॰कृत्रिमः.  
-
-2668.  
-
---1) Conjectural reading; A भोजनोत्पञ्ज॰.  
-
-2670.  
-
---1) Emended; A विस्तीर्णः.  
+[^2670-1]: Emended; A विस्तीर्णः.  
 
 [page 264]  
 
@@ -24245,69 +20481,41 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 पितुराप्ततया राज्ञा वर्धितस्तदनन्तरम् । KRT_8_2697ab  
 एवेनकादिविषयाधीकारित्वं क्रमाद्भजन् ॥ KRT_8_2697cd  
 
-2671.  
+[^2671-1]: Emended; A राजा गृहे त्वलङकरडामर॰; cf. viii. 2925. 2618.  
 
---1) Emended; A राजा गृहे त्वलङकरडामर॰; cf. viii. 2925. 2618.  
+[^2672-1]: Emended; A ॰विस्मृति.  
 
-2672.  
+[^2672-2]: A स्कन्दा॰.  
 
---1) Emended; A ॰विस्मृति.  
+[^2675-1]: Emended; A पृष्ठसेना॰.  
 
---2) A स्कन्दा॰.  
+[^2676-1]: Thus A; the text of this appears to be corrupt; perhaps read संदेहं जहतो द्रोहभयमु॰.  
 
-2675.  
+[^2676-2]: भजेत् corr. by A1 from व्रजेत्.  
 
---1) Emended; A पृष्ठसेना॰.  
+[^2677-1]: Emended; A व्यकल्पयत.  
 
-2676.  
+[^2683-1]: Emended with C; A संस्तम्भ्य.  
 
---1) Thus A; the text of this appears to be corrupt; perhaps read संदेहं जहतो द्रोहभयमु॰.  
+[^2687-1]: Emended; A शेषं मां; C स्वां सभां.  
 
---2) भजेत् corr. by A1 from व्रजेत्.  
+[^2688-1]: Emended with G; A तमेव.  
 
-2677.  
+[^2690-1]: Emended; A दस्यून्विप॰.  
 
---1) Emended; A व्यकल्पयत.  
+[^2691-1]: Conjectural reading; A विक्रीयतामिति; cf. for the context viii. 2598 fig.  
 
-2683.  
+[^2692-1]: Emended with C; A देति.  
 
---1) Emended with C; A संस्तम्भ्य.  
+[^2693-1]: Emended; A राज्ञा.  
 
-2687.  
+[^2695-1]: Emended; A ओजो॰; cf. viii. 2862 and the vv. ll. तेजो, ओजो viii. 1084.  
 
---1) Emended; A शेषं मां; C स्वां सभां.  
+[^2695-2]: Emended; A ॰जातं.  
 
-2688.  
+[^2695-3]: The text of this is corrupt.  
 
---1) Emended with G; A तमेव.  
-
-2690.  
-
---1) Emended; A दस्यून्विप॰.  
-
-2691.  
-
---1) Conjectural reading; A विक्रीयतामिति; cf. for the context viii. 2598 fig.  
-
-2692.  
-
---1) Emended with C; A देति.  
-
-2693.  
-
---1) Emended; A राज्ञा.  
-
-2695.  
-
---1) Emended; A ओजो॰; cf. viii. 2862 and the vv. ll. तेजो, ओजो viii. 1084.  
-
---2) Emended; A ॰जातं.  
-
---3) The text of this is corrupt.  
-
-2696.  
-
---1) Emended with G; A ॰जिंतांस्तत्त॰.  
+[^2696-1]: Emended with G; A ॰जिंतांस्तत्त॰.  
 
 [page 265]  
 
@@ -24370,33 +20578,19 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 स हि त्यागक्षमास्तम्भालोभादिगुणभूषितः । KRT_8_2725ab  
 अभिगम्योभवन्नित्याभ्यस्तभूतिरिवोन्मिषन् ॥ KRT_8_2725cd  
 
-2700.  
+[^2700-1]: Emended; A कुर्वतात्य॰.  
 
---1) Emended; A कुर्वतात्य॰.  
+[^2702-1]: Emended; A प्राप्य.  
 
-2702.  
+[^2703-1]: Conjectural reading; A गन्तुं मामुत्सृज्य; C मासमुत्सृज्य.  
 
---1) Emended; A प्राप्य.  
+[^2712-1]: Emended; A ॰रोहे.  
 
-2703.  
+[^2715-1]: Emended; A ॰गतोचिनुम्; C `अतोचितं; G ॰गतोचिताम्.  
 
---1) Conjectural reading; A गन्तुं मामुत्सृज्य; C मासमुत्सृज्य.  
+[^2722-1]: Emended; A ॰द्रोणे.  
 
-2712.  
-
---1) Emended; A ॰रोहे.  
-
-2715.  
-
---1) Emended; A ॰गतोचिनुम्; C `अतोचितं; G ॰गतोचिताम्.  
-
-2722.  
-
---1) Emended; A ॰द्रोणे.  
-
-2723.  
-
---1) Conjectural reading; A सामग्री नः.  
+[^2723-1]: Conjectural reading; A सामग्री नः.  
 
 [page 266]  
 
@@ -24461,37 +20655,21 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 ज्ञातनिवृत्त्यपर्याप्ती धुर्यकार्यवशप्रियात् । KRT_8_2754ab  
 प्रतीक्ष्यादग्रजाद्राज्ञः शङ्कितावशुभागमम् ॥ KRT_8_2754cd  
 
-2728.  
+[^2728-1]: Emended; A वः.  
 
---1) Emended; A वः.  
+[^2734-1]: Emended; A जानते॰.  
 
-2734.  
+[^2727-1]: Doubtful emendation; A स्वशाठ्यं मठ॰.  
 
---1) Emended; A जानते॰.  
+[^2744-1]: Emended; A ॰पालाब्धिस्तुच्छा॰.  
 
-2727.  
+[^2746-1]: Emended; A प्रतीक्ष्यमाणो.  
 
---1) Doubtful emendation; A स्वशाठ्यं मठ॰.  
+[^2748-1]: Emended; A ॰ष्कः कोष्ठका॰; comp. for the name of 's son, vii. 2912. 2799. 2496. 3313.  
 
-2744.  
+[^2750-1]: A2 gloss कुररस्येति कुररः नद् दूर् इति भाषया कश्मीरेषु प्रसिद्धः.  
 
---1) Emended; A ॰पालाब्धिस्तुच्छा॰.  
-
-2746.  
-
---1) Emended; A प्रतीक्ष्यमाणो.  
-
-2748.  
-
---1) Emended; A ॰ष्कः कोष्ठका॰; comp. for the name of 's son, vii. 2912. 2799. 2496. 3313.  
-
-2750.  
-
---1) A2 gloss कुररस्येति कुररः नद् दूर् इति भाषया कश्मीरेषु प्रसिद्धः.  
-
-2751.  
-
---1) Thus corr. by A2 from गर्गजः.  
+[^2751-1]: Thus corr. by A2 from गर्गजः.  
 
 [page 267]  
 
@@ -24556,29 +20734,17 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 प्रादुष्कृतजगत्क्षोभे बले तत्रानुयायिनि । KRT_8_2783ab  
 उत्साहात्साल्हणिर्मेने कृत्स्नां हस्तगतां महीम् ॥ KRT_8_2783cd  
 
-2755.  
+[^2755-1]: Emended; A प्रतियोग्यताम्.  
 
---1) Emended; A प्रतियोग्यताम्.  
+[^2758-1]: Emended; A कम्पनाधीशरि॰.  
 
-2758.  
+[^2764-1]: A स्कन्दा॰.  
 
---1) Emended; A कम्पनाधीशरि॰.  
+[^2767-1]: Emended; A काश्मीरिका.  
 
-2764.  
+[^2774-1]: Emended; A ॰गमिनी॰.  
 
---1) A स्कन्दा॰.  
-
-2767.  
-
---1) Emended; A काश्मीरिका.  
-
-2774.  
-
---1) Emended; A ॰गमिनी॰.  
-
-2780.  
-
---1) Emended; A कैश्चि॰  
+[^2780-1]: Emended; A कैश्चि॰  
 
 [page 268]  
 
@@ -24643,33 +20809,19 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 अधावच्चाभ्यमित्रीणस्तान्व्यावृत्य निपातयन् । KRT_8_2812ab  
 पद्माकरोन्मुखः पृष्ठलग्नान्भृङ्गानिव द्विपः ॥ KRT_8_2812cd  
 
-2784.  
+[^2784-1]: Doubtful emendation; A ॰स्तर्जितो.  
 
---1) Doubtful emendation; A ॰स्तर्जितो.  
+[^2786-1]: Emended with C; A प्रावृड्पयो॰.  
 
-2786.  
+[^2787-1]: A ॰शीधु॰.  
 
---1) Emended with C; A प्रावृड्पयो॰.  
+[^2799-1]: Thus A; comp. for this name viii. 2496. 2748. 2912. 3313.  
 
-2787.  
+[^2803-1]: Emended with C; A ॰हरित.  
 
---1) A ॰शीधु॰.  
+[^2808-1]: A होलळौकसि.  
 
-2799.  
-
---1) Thus A; comp. for this name viii. 2496. 2748. 2912. 3313.  
-
-2803.  
-
---1) Emended with C; A ॰हरित.  
-
-2808.  
-
---1) A होलळौकसि.  
-
-2810.  
-
---1) Emended with G; A रिल्हणप्रेषितं.  
+[^2810-1]: Emended with G; A रिल्हणप्रेषितं.  
 
 [page 269]  
 
@@ -24730,59 +20882,35 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 पर्यस्तशौचान्संचिन्त्य त्रिल्लकादीनथाययौ । KRT_8_2839ab  
 सञ्जपालस्तृतीयस्मिन्दिवसे रिल्हणान्तिकम् ॥ KRT_8_2839cd  
 
-2813.  
+[^2813-1]: Should probablry be रामुषे; cf. ii. 55.  
 
---1) Should probablry be रामुषे; cf. ii. 55.  
+[^2813-2]: Emended; A गर्जन्कुल्या॰.  
 
---2) Emended; A गर्जन्कुल्या॰.  
+[^2814-1]: Emended; A तत्कल्या॰.  
 
-2814.  
+[^2818-1]: Thus A; perhaps read with G (sec. manu) प्रजासृजश्चास्यं.  
 
---1) Emended; A तत्कल्या॰.  
+[^2819-1]: Thus A; C ह्रीप्रभावाविशेषे.  
 
-2818.  
+[^2820-1]: Emended; A ॰भोजनम्.  
 
---1) Thus A; perhaps read with G (sec. manu) प्रजासृजश्चास्यं.  
+[^2823-1]: Thus corr. by a later hand from A1 वैह्वल्ये.  
 
-2819.  
+[^2823-2]: Conjectural reading; A वैकल्या॰.  
 
---1) Thus A; C ह्रीप्रभावाविशेषे.  
+[^2825-1]: Emended with C; A ॰प्रजाजाल॰.  
 
-2820.  
+[^2832-1]: Emended; A संरम्भे.  
 
---1) Emended; A ॰भोजनम्.  
+[^2833-1]: Thus A; C supplements पुरण्योस्तुरंग॰.  
 
-2823.  
+[^2833-2]: Emended with C; A ॰गमतुरान्वितः.  
 
---1) Thus corr. by a later hand from A1 वैह्वल्ये.  
+[^2838-1]: Emended with C; A पूतनादयम्.  
 
---2) Conjectural reading; A वैकल्या॰.  
+[^2836-1]: Emended with C; A ॰भुजाम्.  
 
-2825.  
-
---1) Emended with C; A ॰प्रजाजाल॰.  
-
-2832.  
-
---1) Emended; A संरम्भे.  
-
-2833.  
-
---1) Thus A; C supplements पुरण्योस्तुरंग॰.  
-
---2) Emended with C; A ॰गमतुरान्वितः.  
-
-2838.  
-
---1) Emended with C; A पूतनादयम्.  
-
-2836.  
-
---1) Emended with C; A ॰भुजाम्.  
-
-2838.  
-
---1) Emended; A साक्षीकृतक्ष्मा॰.  
+[^2838-1]: Emended; A साक्षीकृतक्ष्मा॰.  
 
 [page 270]  
 
@@ -24841,41 +20969,27 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 ज्योतिस्तर्जितकान्ति दन्तयुगलं वाच्यं सुधादीधितेर्दानास्वादधिया प्रिया मधुलिहां कुम्भस्थली कुम्भिनः । KRT_8_2865ab  
 वासस्वैuष[^2865-1] विरोधभाक्सरसिजस्येत्यत्र नेन्दो रतिस्तस्याप्यायकृतो हितोयमिति नाप्यस्य द्विरेफा द्विषः ॥ KRT_8_2865cd  
 
-2842.  
+[^2842-1]: Thus A; C तद्बलं.  
 
---1) Thus A; C तद्बलं.  
+[^2842-2]: Emended with C; A दृप्येद्धेम॰.  
 
---2) Emended with C; A दृप्येद्धेम॰.  
+[^2844-1]: Doubtful emendation of C; A तत्स्याळ् गेरग्र॰.  
 
-2844.  
+[^2853-1]: A स्कन्दा॰.  
 
---1) Doubtful emendation of C; A तत्स्याळ् गेरग्र॰.  
+[^2853-2]: Emended; A रुचिरमाभा॰.  
 
-2853.  
+[^2861-1]: Emended with C; A सात्याज्य.  
 
---1) A स्कन्दा॰.  
+[^2862-1]: Emended with C; A प्रतीक्ष्यध्वं.  
 
---2) Emended; A रुचिरमाभा॰.  
+[^2862-2]: Cf. भोजोनाम्नो बलहरात्संजातो viii. 2695 and note.  
 
-2861.  
+[^2862-2]: Thus A; perhapts read नाडीसे॰.  
 
---1) Emended with C; A सात्याज्य.  
+[^2863-1]: The text of this verse is evidently corrupt; A as above. C reads व्यहसन् संदिहाय सं । कामधेनुसमं छागाश्रेषो विधिर्न यत्.  
 
-2862.  
-
---1) Emended with C; A प्रतीक्ष्यध्वं.  
-
---2) Cf. भोजोनाम्नो बलहरात्संजातो viii. 2695 and note.  
-
---2) Thus A; perhapts read नाडीसे॰.  
-
-2863.  
-
---1) The text of this verse is evidently corrupt; A as above. C reads व्यहसन् संदिहाय सं । कामधेनुसमं छागाश्रेषो विधिर्न यत्.  
-
-2865.  
-
---1) Doubtful; A वा -- स्यैष; C सूरस्यैष.  
+[^2865-1]: Doubtful; A वा -- स्यैष; C सूरस्यैष.  
 
 [page 271]  
 
@@ -24938,45 +21052,29 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 आडम्बरालम्बनस्य भेदेप्यच्छिन्नविग्रहः । KRT_8_2893ab  
 यदयुद्धोद्धतं सिध्येत्तत्कस्यामानुषं विना ॥ KRT_8_2893cd  
 
-2868.  
+[^2868-1]: Thus A; the akshara before the lacuna could be read also शु; C ॰वदनमधुभद्राभिधा॰.  
 
---1) Thus A; the akshara before the lacuna could be read also शु; C ॰वदनमधुभद्राभिधा॰.  
+[^2870-1]: Emended with C; A दिदक्षु.  
 
-2870.  
+[^2870-2]: Emended; A विड्डसूहेन्धने॰.  
 
---1) Emended with C; A दिदक्षु.  
+[^2873-1]: Emended; A पलायिततेन्ये॰.  
 
---2) Emended; A विड्डसूहेन्धने॰.  
+[^2875-1]: A ॰कोषो.  
 
-2873.  
+[^2876-1]: Doubtful emendation; A सर्वशिरोदृक्त॰.  
 
---1) Emended; A पलायिततेन्ये॰.  
+[^2876-2]: Emended; A ॰ज्वलन्.  
 
-2875.  
+[^2884-1]: A स्वशिविरा॰.  
 
---1) A ॰कोषो.  
+[^2884-2]: Emended; A रोहद्दोहः स्पृहा॰.  
 
-2876.  
+[^2889-1]: Emended; A ॰दस्राणां.  
 
---1) Doubtful emendation; A सर्वशिरोदृक्त॰.  
+[^2891-1]: Emended with C; A गर्गिम॰.  
 
---2) Emended; A ॰ज्वलन्.  
-
-2884.  
-
---1) A स्वशिविरा॰.  
-
---2) Emended; A रोहद्दोहः स्पृहा॰.  
-
-2889.  
-
---1) Emended; A ॰दस्राणां.  
-
-2891.  
-
---1) Emended with C; A गर्गिम॰.  
-
---2) Doubtful emendation; A ॰कमु -- जान्न; C ॰नीकं दृष्ट्वापि नव्य॰.  
+[^2891-2]: Doubtful emendation; A ॰कमु -- जान्न; C ॰नीकं दृष्ट्वापि नव्य॰.  
 
 [page 272]  
 
@@ -25039,55 +21137,31 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 अलंकारादिभिः स्वास्थ्ये स्थाप्यमानोपि मन्त्रिभिः । KRT_8_2921ab  
 अत्यजन्नैव[^2921-1] कौटिल्यमजितात्मेव[^2921-1] दुर्ग्रहम् ॥ KRT_8_2921cd  
 
-2895.  
+[^2895-1]: Emended; A ॰हारादावेत्य; the text is corrupt.  
 
---1) Emended; A ॰हारादावेत्य; the text is corrupt.  
+[^2900-1]: Emended; A विद्रावितानि.  
 
-2900.  
+[^2901-1]: Emended; A वरूथिन्या.  
 
---1) Emended; A विद्रावितानि.  
+[^2902-1]: Emended; A ताव -- त्स्वामिना.  
 
-2901.  
+[^2903-1]: Emended with C; A यान्तो.  
 
---1) Emended; A वरूथिन्या.  
+[^2905-1]: Emended; A ॰मालिकाम्.  
 
-2902.  
+[^2907-1]: The later corresponding to थ cannot be read with certainty in A; C तावताभ्यर्णं.  
 
---1) Emended; A ताव -- त्स्वामिना.  
+[^2908-1]: A ॰विमर्षेण.  
 
-2903.  
+[^2908-2]: Emended; A भजते.  
 
---1) Emended with C; A यान्तो.  
+[^2912-1]: Comp. note to लोठन: viii. 2496.  
 
-2905.  
+[^2913-1]: Emended with C; A भजंञ्च॰.  
 
---1) Emended; A ॰मालिकाम्.  
+[^2919-1]: Emended with C; A ॰स्रोतपाते॰.  
 
-2907.  
-
---1) The later corresponding to थ cannot be read with certainty in A; C तावताभ्यर्णं.  
-
-2908.  
-
---1) A ॰विमर्षेण.  
-
---2) Emended; A भजते.  
-
-2912.  
-
---1) Comp. note to लोठन: viii. 2496.  
-
-2913.  
-
---1) Emended with C; A भजंञ्च॰.  
-
-2919.  
-
---1) Emended with C; A ॰स्रोतपाते॰.  
-
-2921.  
-
---1) Emended; A अत्यजन्नेव and ॰जितात्मैव.  
+[^2921-1]: Emended; A अत्यजन्नेव and ॰जितात्मैव.  
 
 [page 273]  
 
@@ -25148,35 +21222,21 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 बाणाग्निजस्त्रिपुरनिर्दहने प्रतापः पाथोनिधेः प्रमथने वडवाग्निजन्मा । KRT_8_2948ab  
 आसाद्य मन्दरनगेन समागमं हि न कापि पन्नगपतेः सुखसख्यमासीत् ॥ KRT_8_2948cd  
 
-2923.  
+[^2923-1]: Emended with C; A ॰चक्रेगाद्वि॰.  
 
---1) Emended with C; A ॰चक्रेगाद्वि॰.  
+[^2924-1]: A ॰वाळ्हाख्यो and वाळ्हजः.  
 
-2924.  
+[^2925-1]: Emended with G (sec. manu); A ॰कल्पस्तं जज्ञे.  
 
---1) A ॰वाळ्हाख्यो and वाळ्हजः.  
+[^2926-1]: Conjectural reading; A राम -- राद्या॰; C शत्रुभिराद्या॰.  
 
-2925.  
+[^2929-1]: Emended; A ॰पतिव्रातस्य; C ॰पातित्रा॰.  
 
---1) Emended with G (sec. manu); A ॰कल्पस्तं जज्ञे.  
+[^2929-2]: A आनन्दावाळ्ह॰.  
 
-2926.  
+[^2932-1]: Emended; A तत्प्रामु॰.  
 
---1) Conjectural reading; A राम -- राद्या॰; C शत्रुभिराद्या॰.  
-
-2929.  
-
---1) Emended; A ॰पतिव्रातस्य; C ॰पातित्रा॰.  
-
---2) A आनन्दावाळ्ह॰.  
-
-2932.  
-
---1) Emended; A तत्प्रामु॰.  
-
-2938.  
-
---1) Emended; A सन्ता॰. lost here; A does not indicate the lacuna; C supplements संरम्भात्कर्त्तुमारेभे सामर्थ्यान्न च चक्षमे.  
+[^2938-1]: Emended; A सन्ता॰. lost here; A does not indicate the lacuna; C supplements संरम्भात्कर्त्तुमारेभे सामर्थ्यान्न च चक्षमे.  
 
 [page 274]  
 
@@ -25239,37 +21299,21 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 काकुत्स्थो[^2976-1]पि प्रियाप्रार्थी व्यग्रः सुग्रीवसंग्रहे । KRT_8_2976ab  
 वीरोविधेयं स्वार्थान्ध्याद्वधं व्यधित बालिनः ॥ KRT_8_2976cd  
 
-2942.  
+[^2942-1]: A बन्धुं.  
 
---1) A बन्धुं.  
+[^2956-1]: Emended; A तमनुजं निजम्; cf. षष्ठस्य जयचन्द्रश्च श्रीचन्द्रश्चानुजौ viii 2753.  
 
-2956.  
+[^2958-1]: Emended; A धन्ये.  
 
---1) Emended; A तमनुजं निजम्; cf. षष्ठस्य जयचन्द्रश्च श्रीचन्द्रश्चानुजौ viii 2753.  
+[^2962-1]: Emended; A ॰भुजाम्.  
 
-2958.  
+[^2969-1]: Emended; A द्व्यवर्त॰.  
 
---1) Emended; A धन्ये.  
+[^1972-1]: A1 has written first द्यूतसङ्गेषु and subsequently indicated the reading स्यूत॰.  
 
-2962.  
+[^2974-1]: Emended; A ॰वहं.  
 
---1) Emended; A ॰भुजाम्.  
-
-2969.  
-
---1) Emended; A द्व्यवर्त॰.  
-
-1972.  
-
---1) A1 has written first द्यूतसङ्गेषु and subsequently indicated the reading स्यूत॰.  
-
-2974.  
-
---1) Emended; A ॰वहं.  
-
-2976.  
-
---1) Emended with C; A काकुस्थोपि.  
+[^2976-1]: Emended with C; A काकुस्थोपि.  
 
 [page 275]  
 
@@ -25330,45 +21374,29 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 [^3003-1]यश्च युद्धमिति व्यग्रं[^3003-2] हर्षादाद्यामवापि यः । KRT_8_3003ab  
 भोजमन्यकरस्थोयमशक्यो ह्यन्यथा मम ॥ KRT_8_3003cd  
 
-2979.  
+[^2979-1]: Emended; A सोवष्टम्भी॰.  
 
---1) Emended; A सोवष्टम्भी॰.  
+[^2982-1]: Emended; A ॰एबलहरे.  
 
-2982.  
-
---1) Emended; A ॰एबलहरे.  
-
-2984.  
-
---1) Thus A; perhaps read ॰न्मन्त्रितमबो॰.  
+[^2984-1]: Thus A; perhaps read ॰न्मन्त्रितमबो॰.  
 
 <2985>.  
 
 --1) Emended; A ॰स्मीत्येतैर॰.  
 
-2988.  
+[^2988-1]: Emended with C; A भोजोनि॰.  
 
---1) Emended with C; A भोजोनि॰.  
+[^2988-2]: Emended with C; A ॰न्बलहरोन्तिकम्.  
 
---2) Emended with C; A ॰न्बलहरोन्तिकम्.  
+[^2989-1]: Emended; A मोहयन्तौ.  
 
-2989.  
+[^2991-1]: Thus corr. by A1 from ॰व्यधात्.  
 
---1) Emended; A मोहयन्तौ.  
+[^2995-1]: A1 has written मतिमोहे; न supplied apparently by A2.  
 
-2991.  
+[^3003-1]: The text of this verse is evidently corrupt; emendation doubtful.  
 
---1) Thus corr. by A1 from ॰व्यधात्.  
-
-2995.  
-
---1) A1 has written मतिमोहे; न supplied apparently by A2.  
-
-3003.  
-
---1) The text of this verse is evidently corrupt; emendation doubtful.  
-
---2) Perhaps read युद्धमतिव्यघ्रं.  
+[^3003-2]: Perhaps read युद्धमतिव्यघ्रं.  
 
 [page 276]  
 
@@ -25427,33 +21455,21 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 इत्युक्तवन्तं तं सान्त्वयित्वा भोजो व्यसर्जयत् । KRT_8_3029ab  
 तदैव[^3029-1] चाशु व्याकोशविवेकः समपद्यत ॥ KRT_8_3029cd  
 
-3004.  
+[^3004-1]: Thus A; C ॰मुख्यान्मुग्धोऽस्मि सन्दिशेत्.  
 
---1) Thus A; C ॰मुख्यान्मुग्धोऽस्मि सन्दिशेत्.  
+[^3004-2]: Perhaps read संदिशन्.  
 
---2) Perhaps read संदिशन्.  
+[^3019-1]: Emended with C; A ॰नीतः.  
 
-3019.  
+[^3022-1]: सारसा no longer legible in A; found in R G C.  
 
---1) Emended with C; A ॰नीतः.  
+[^3027-1]: Emended; A दृप्य.  
 
-3022.  
+[^3028-1]: Emended with G (sec. manu); A ॰कलैर्धिर्भोगि.  
 
---1) सारसा no longer legible in A; found in R G C.  
+[^3028-2]: Emended with G (sec. manu); A ॰कासितस्य कुहरैर्ग्रामस्य.  
 
-3027.  
-
---1) Emended; A दृप्य.  
-
-3028.  
-
---1) Emended with G (sec. manu); A ॰कलैर्धिर्भोगि.  
-
---2) Emended with G (sec. manu); A ॰कासितस्य कुहरैर्ग्रामस्य.  
-
-3029.  
-
---1) Emended; A तदेव.  
+[^3029-1]: Emended; A तदेव.  
 
 [page 277]  
 
@@ -25508,53 +21524,31 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 तन्निशम्यैव भोजस्य द्रवीभूतमभून्मनः । KRT_8_3053ab  
 सोन्तर्बाष्पोप्य[^3053-2]पश्यत्तं सान्त्वयन्तमिवाग्रतः ॥ KRT_8_3053cd  
 
-3030.  
+[^3030-1]: Emended with C; A स्पष्टं.  
 
---1) Emended with C; A स्पष्टं.  
+[^3035-1]: Emended; A चाधितुम्.  
 
-3035.  
+[^3039-1]: Emended with G (sec. manu); A समग्रोदु॰.  
 
---1) Emended; A चाधितुम्.  
+[^3040-1]: Emended with G (sec. manu); A ॰मेकमेकं.  
 
-3039.  
+[^3041-1]: Emended; A ॰न्दृष्टवाक्प्रज्ञान्तम्॰; C ॰वाक्प्रज्ञातुम॰.  
 
---1) Emended with G (sec. manu); A समग्रोदु॰.  
+[^3042-1]: Emended with C; A सन्धिबन्धात्त्वसौ.  
 
-3040.  
+[^3046-1]: Emended; A ॰पोह्यत.  
 
---1) Emended with G (sec. manu); A ॰मेकमेकं.  
+[^3047-1]: Emended; A चारुत्वे.  
 
-3041.  
+[^3048-1]: Emended; A कथादैर्घ्यं.  
 
---1) Emended; A ॰न्दृष्टवाक्प्रज्ञान्तम्॰; C ॰वाक्प्रज्ञातुम॰.  
+[^3048-2]: Emended; A तमभ्यधात्.  
 
-3042.  
+[^3049-1]: Doubtful emendation of C; A क्षुन्दन्नध्व॰.  
 
---1) Emended with C; A सन्धिबन्धात्त्वसौ.  
+[^3049-3]: Emended; A भोजं.  
 
-3046.  
-
---1) Emended; A ॰पोह्यत.  
-
-3047.  
-
---1) Emended; A चारुत्वे.  
-
-3048.  
-
---1) Emended; A कथादैर्घ्यं.  
-
---2) Emended; A तमभ्यधात्.  
-
-3049.  
-
---1) Doubtful emendation of C; A क्षुन्दन्नध्व॰.  
-
---3) Emended; A भोजं.  
-
-3053.  
-
---1) प्य omitted in A; supplied with C.  
+[^3053-1]: प्य omitted in A; supplied with C.  
 
 [page 278]  
 
@@ -25617,53 +21611,31 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 अटन्ती[^3081-1] कुटिलं स्पष्टं सरित्स[^3081-1]र्वैर्न लक्ष्यते । KRT_8_3081ab  
 कान्ताकुन्तलविष्यन्दी तोयबिन्दुरिव क्रमः ॥ KRT_8_3081cd  
 
-3054.  
+[^3054-1]: Emended with G (sec. manu); A ॰कारणज्ञा॰.  
 
---1) Emended with G (sec. manu); A ॰कारणज्ञा॰.  
+[^3062-1]: Emended; A हीने.  
 
-3062.  
+[^3064-1]: Emended; A ॰ल्लासो.  
 
---1) Emended; A हीने.  
+[^3065-1]: Emended; A वा.  
 
-3064.  
+[^3069-1]: Emended; A सीमन्ताप्रा॰.  
 
---1) Emended; A ॰ल्लासो.  
+[^3070-1]: Emended; A ॰पातिनम्.  
 
-3065.  
+[^3071-1]: Emended with C; A प्राप्नुयामास.  
 
---1) Emended; A वा.  
+[^3071-2]: Emended with G (sec. manu); A ॰न्देवीवत्स॰.  
 
-3069.  
+[^3074-1]: Doubtful emendation; A ॰तव्यासौ.  
 
---1) Emended; A सीमन्ताप्रा॰.  
+[^3076-1]: Emended; A मुiग्धानिर॰.  
 
-3070.  
+[^3077-1]: Emended; A शक्तो.  
 
---1) Emended; A ॰पातिनम्.  
+[^3081-1]: Emended with C; A1 has first written अ -- लं and then supplied टि over the lacuna.  
 
-3071.  
-
---1) Emended with C; A प्राप्नुयामास.  
-
---2) Emended with G (sec. manu); A ॰न्देवीवत्स॰.  
-
-3074.  
-
---1) Doubtful emendation; A ॰तव्यासौ.  
-
-3076.  
-
---1) Emended; A मुiग्धानिर॰.  
-
-3077.  
-
---1) Emended; A शक्तो.  
-
-3081.  
-
---1) Emended with C; A1 has first written अ -- लं and then supplied टि over the lacuna.  
-
---2) Emended with C; A शरत्स॰.  
+[^3081-2]: Emended with C; A शरत्स॰.  
 
 [page 279]  
 
@@ -25724,57 +21696,33 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 भङ्गं सर्वानयं त्रातुं प्रयोक्तुं वेतनं नृपः । KRT_8_3108ab  
 संरम्भे किमयं ध्यायत्यन्तः सर्वेप्यचिन्तयत् ॥ KRT_8_3108cd  
 
-3083.  
+[^3083-1]: Emended; A ॰णिस्तां.  
 
---1) Emended; A ॰णिस्तां.  
+[^3084-1]: Emended; A भैषीरेष सन्धित्स्व.  
 
-3084.  
+[^3087-1]: Emended with C; A ॰रोपमतां.  
 
---1) Emended; A भैषीरेष सन्धित्स्व.  
+[^3088-1]: Emended; A खश॰.  
 
-3087.  
+[^3088-2]: Emended; A पतिते.  
 
---1) Emended with C; A ॰रोपमतां.  
+[^3088-3]: Emended; A ॰चिन्तयत्.  
 
-3088.  
+[^3089-1]: Emended; A ॰तर्ज्य वृजिनो॰.  
 
---1) Emended; A खश॰.  
+[^3090-1]: Emended; A विधेः.  
 
---2) Emended; A पतिते.  
+[^3092-1]: Emended; A ॰बोधनात्.  
 
---3) Emended; A ॰चिन्तयत्.  
+[^3093-1]: Emended; A रूपं.  
 
-3089.  
+[^3097-1]: The akshara त्यां could also be read न्यां; thus C.  
 
---1) Emended; A ॰तर्ज्य वृजिनो॰.  
+[^3099-1]: Doubtful emendation; A विचार्योसि.  
 
-3090.  
+[^3100-1]: Conjectural emendation.  
 
---1) Emended; A विधेः.  
-
-3092.  
-
---1) Emended; A ॰बोधनात्.  
-
-3093.  
-
---1) Emended; A रूपं.  
-
-3097.  
-
---1) The akshara त्यां could also be read न्यां; thus C.  
-
-3099.  
-
---1) Doubtful emendation; A विचार्योसि.  
-
-3100.  
-
---1) Conjectural emendation.  
-
-3107.  
-
---1) Conjectural reanding; A has written originally -- -- -- -- न्ययो॰ and subsequently filled up the lacuna with माता मन्त्र्या; G (sec. manu) सोनामन्त्र्य.  
+[^3107-1]: Conjectural reanding; A has written originally -- -- -- -- न्ययो॰ and subsequently filled up the lacuna with माता मन्त्र्या; G (sec. manu) सोनामन्त्र्य.  
 
 [page 280]  
 
@@ -25837,47 +21785,29 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 घटनामुद्ययौ यो यो विरोधः कटकद्वयात् । KRT_8_3136ab  
 सत्त्वैकाग्रः स्वयं भोजस्तं तं त्वरितमच्छिनत् ॥ KRT_8_3136cd  
 
-3115.  
+[^3115-1]: A ॰द्धोलळ्हातश्च.  
 
---1) A ॰द्धोलळ्हातश्च.  
+[^3116-1]: Emended; A साल्हणे बले.  
 
-3116.  
+[^3116-2]: Emended with C; A ॰प्रमत्तोघ॰.  
 
---1) Emended; A साल्हणे बले.  
+[^3117-1]: Doubtful emendation; A दीदीमायान्तौ.  
 
---2) Emended with C; A ॰प्रमत्तोघ॰.  
+[^3117-2]: Emended A ॰हरस्ततः.  
 
-3117.  
+[^3121-1]: Doubtful emendation; A चेदृशां व्यूहानवरुक्ष्याम; C चेदृशं व्यूहमवरोक्ष्यामि.  
 
---1) Doubtful emendation; A दीदीमायान्तौ.  
+[^3124-1]: Doubtful emendation; A ॰स्थिते राज्ञ्यां; C ॰स्थिते राज्ञि.  
 
---2) Emended A ॰हरस्ततः.  
+[^3124-2]: Emended with C; A धैन्य॰.  
 
-3121.  
+[^3130-1]: A1 gloss श्वाल्.  
 
---1) Doubtful emendation; A चेदृशां व्यूहानवरुक्ष्याम; C चेदृशं व्यूहमवरोक्ष्यामि.  
+[^3139-1]: Thus A; C ॰रैरीर्ष्या.  
 
-3124.  
+[^3132-1]: Emended with C; A ॰भवत्.  
 
---1) Doubtful emendation; A ॰स्थिते राज्ञ्यां; C ॰स्थिते राज्ञि.  
-
---2) Emended with C; A धैन्य॰.  
-
-3130.  
-
---1) A1 gloss श्वाल्.  
-
-3139.  
-
---1) Thus A; C ॰रैरीर्ष्या.  
-
-3132.  
-
---1) Emended with C; A ॰भवत्.  
-
-3135.  
-
---1) Emended; A बध्यमानस्वान्त॰.  
+[^3135-1]: Emended; A बध्यमानस्वान्त॰.  
 
 [page 281]  
 
@@ -25930,73 +21860,49 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 मरुत्काकुत्स्थ[^3159-1]दूतस्य कपेस्तीर्णाम्बुधेः पिता । KRT_8_3159ab  
 ततान तेषां दूतानां सरित्पारगतौ -- --2 ॥ KRT_8_3159cd  
 
-3138.  
+[^3138-1]: This verse and the following are found in Vallabhadeva's , 462-463 (ed. Peterson and ).  
 
---1) This verse and the following are found in Vallabhadeva's , 462-463 (ed. Peterson and ).  
+[^3138-2]: न्नम्राङ्गतया supplied by A3 in space left by A1.  
 
---2) न्नम्राङ्गतया supplied by A3 in space left by A1.  
+[^3138-3]: Thus corr. by A1 from करुणां.  
 
---3) Thus corr. by A1 from करुणां.  
+[^3138-4]: Thus corr. by A3 from A1 त्रपावाभ॰.  
 
---4) Thus corr. by A3 from A1 त्रपावाभ॰.  
+[^3138-5]: Thus in ; A प्युग्रेण.  
 
---5) Thus in ; A प्युग्रेण.  
+[^3138-6]: Thus corr. by A3 from A1 कर्मा.  
 
---6) Thus corr. by A3 from A1 कर्मा.  
+[^3138-7]: न्ननु supplied by A5 in space left by A1.  
 
---7) न्ननु supplied by A5 in space left by A1.  
+[^3139-1]: Emended; A कटुकथावीचीषु; . चटुकथावीथीषु.  
 
-3139.  
+[^3139-2]: Thus A1 in margin and ; A1 in text भूगर्भे.  
 
---1) Emended; A कटुकथावीचीषु; . चटुकथावीथीषु.  
+[^3140-1]: तुङ्ग supplied by A3 in space left by A1.  
 
---2) Thus A1 in margin and ; A1 in text भूगर्भे.  
+[^3142-1]: Thus A1; C supplements ॰योरपि.  
 
-3140.  
+[^3142-2]: Emended with C; A जनयन्व्यञ्जि॰.  
 
---1) तुङ्ग supplied by A3 in space left by A1.  
+[^3146-1]: Emended; A ॰भात्स्वं.  
 
-3142.  
+[^3147-1]: Emended with C; A ॰स्कन्दोबुद्धिः.  
 
---1) Thus A1; C supplements ॰योरपि.  
+[^3147-2]: Emended with C; A साल्हणना॰.  
 
---2) Emended with C; A जनयन्व्यञ्जि॰.  
+[^3149-1]: Emended A ॰पतद्रात्रौ.  
 
-3146.  
+[^3183-1]: नेन supplied by A3; A1 indicated originally a lacuna of four akshara; C supplements सर्वं.  
 
---1) Emended; A ॰भात्स्वं.  
+[^3154-1]: A दुद्रु॰.  
 
-3147.  
+[^3155-1]: Doubtful emendation; A समत्यावै॰.  
 
---1) Emended with C; A ॰स्कन्दोबुद्धिः.  
+[^3157-1]: Emended; A ॰स्कन्दप्र॰.  
 
---2) Emended with C; A साल्हणना॰.  
+[^3159-1]: Emended with C; A काकुस्थ॰.  
 
-3149.  
-
---1) Emended A ॰पतद्रात्रौ.  
-
-3183.  
-
---1) नेन supplied by A3; A1 indicated originally a lacuna of four akshara; C supplements सर्वं.  
-
-3154.  
-
---1) A दुद्रु॰.  
-
-3155.  
-
---1) Doubtful emendation; A समत्यावै॰.  
-
-3157.  
-
---1) Emended; A ॰स्कन्दप्र॰.  
-
-3159.  
-
---1) Emended with C; A काकुस्थ॰.  
-
---3) Thus A; C fills up the lacuna with बलम्.  
+[^3159-3]: Thus A; C fills up the lacuna with बलम्.  
 
 [page 282]  
 
@@ -26057,79 +21963,47 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 राज्ञोभ्यर्णं विशे[^3186-1]त्युक्तेरुपोद्घातोपमं वचः । KRT_8_3186ab  
 तत्तस्य श्रोत्रशुष्कुल्यां -- --1 शङ्कुक्रियां व्यधात् ॥ KRT_8_3186cd  
 
-3163.  
+[^3163-1]: Thus A; C स वीरस्त्वर॰.  
 
---1) Thus A; C स वीरस्त्वर॰.  
+[^3163-2]: Emended with C; A ॰न्य्युद्ध्यवा॰.  
 
---2) Emended with C; A ॰न्य्युद्ध्यवा॰.  
+[^3163-3]: The latter न् cannot be read with certainty; C ॰स्पृशत्.  
 
---3) The latter न् cannot be read with certainty; C ॰स्पृशत्.  
+[^3169-1]: Emended; A ॰क्रान्ति॰.  
 
-3169.  
+[^3170-1]: Thus corr. by A1 from डामरैर्नि॰.  
 
---1) Emended; A ॰क्रान्ति॰.  
+[^3171-1]: Emended with G (sec. manu); A ॰मुखापक्रि॰.  
 
-3170.  
+[^3172-1]: Emended with C; A ॰स्तम्भ्य.  
 
---1) Thus corr. by A1 from डामरैर्नि॰.  
+[^3174-1]: Thus A; C supplements तं.  
 
-3171.  
+[^3177-1]: Emended; A ॰दन्तोल्लापोधिरोह.  
 
---1) Emended with G (sec. manu); A ॰मुखापक्रि॰.  
+[^3178-1]: Emended; A ॰त्क्रोशाद्वि॰.  
 
-3172.  
+[^3179-1]: Emended with C; A ज्येष्ठस्य.  
 
---1) Emended with C; A ॰स्तम्भ्य.  
+[^3181-1]: Emended; A इन्द्रवंशा॰.  
 
-3174.  
+[^3183-1]: Emended; A मुखरागमनो॰.  
 
---1) Thus A; C supplements तं.  
+[^3184-1]: Emended with C; A ॰क्लमां.  
 
-3177.  
+[^3184-3]: Emended; A इन्द्रवंशा॰.  
 
---1) Emended; A ॰दन्तोल्लापोधिरोह.  
+[^3183-1]: Emended; A मुखरागमनो॰.  
 
-3178.  
+[^3184-1]: Emended with C; A ॰क्लमां.  
 
---1) Emended; A ॰त्क्रोशाद्वि॰.  
+[^3184-2]: Emended; A विशत्येनं.  
 
-3179.  
+[^3185-1]: Doubtful emendation; A स त्वादिक्षुर्नरपतिराशान्तेभ्योभ्य॰.  
 
---1) Emended with C; A ज्येष्ठस्य.  
+[^3186-1]: Emended; A विशत्यु॰.  
 
-3181.  
-
---1) Emended; A इन्द्रवंशा॰.  
-
-3183.  
-
---1) Emended; A मुखरागमनो॰.  
-
-3184.  
-
---1) Emended with C; A ॰क्लमां.  
-
---3) Emended; A इन्द्रवंशा॰.  
-
-3183.  
-
---1) Emended; A मुखरागमनो॰.  
-
-3184.  
-
---1) Emended with C; A ॰क्लमां.  
-
---2) Emended; A विशत्येनं.  
-
-3185.  
-
---1) Doubtful emendation; A स त्वादिक्षुर्नरपतिराशान्तेभ्योभ्य॰.  
-
-3186.  
-
---1) Emended; A विशत्यु॰.  
-
---2) Thus A; C supplements तदा.  
+[^3186-2]: Thus A; C supplements तदा.  
 
 [page 283]  
 
@@ -26186,67 +22060,41 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 समाहितांशुकोष्णीष -- --1 श्रीखण्डव -- --2म् । KRT_8_3211ab  
 सीमन्त -- --3 चुम्बिन्या रेखया चन्द्रगौरया ॥ KRT_8_3211cd  
 
-3187.  
+[^3187-1]: Emended with C; A स्थौर्यं.  
 
---1) Emended with C; A स्थौर्यं.  
+[^3193-1]: Emended; A सुलभे.  
 
-3193.  
+[^3193-2]: Emended; A भूभुजां.  
 
---1) Emended; A सुलभे.  
+[^3194-1]: Emended with G (sec. manu); A ॰स्तम्भप्री॰.  
 
---2) Emended; A भूभुजां.  
+[^3195-1]: Emended with C; A सः.  
 
-3194.  
+[^3195-2]: Emended with C; A बिम्बतो.  
 
---1) Emended with G (sec. manu); A ॰स्तम्भप्री॰.  
+[^3196-1]: Thus A; parhaps read राजर्षेर्विद्वद्वृन्दा॰; C र्षेर्ज्जनान् वृन्दा॰.  
 
-3195.  
+[^3198-1]: Emended with C; A ॰जल -- जो.  
 
---1) Emended with C; A सः.  
+[^3198-2]: Emended with C; A ॰शीतम -- वं.  
 
---2) Emended with C; A बिम्बतो.  
+[^3201-1]: Doubtful emendation; A समर्थासमर्थ्या -- प्रत्या॰; C ॰सामथ्यान्न प्रत्या॰.  
 
-3196.  
+[^3204-1]: Thus A; C supplements विज्ञतरो.  
 
---1) Thus A; parhaps read राजर्षेर्विद्वद्वृन्दा॰; C र्षेर्ज्जनान् वृन्दा॰.  
+[^3205-1]: Thus A; C आराधयन् प्रभुं धाम्नि.  
 
-3198.  
+[^3206-1]: Thus A; C ॰हतमेव तत् स्यात्.  
 
---1) Emended with C; A ॰जल -- जो.  
+[^3207-1]: Emended; A ॰सन्ननृपास्पदम्.  
 
---2) Emended with C; A ॰शीतम -- वं.  
+[^3210-1]: Thus A; C ॰प्रेक्ष्यमाणास्यं.  
 
-3201.  
+[^3211-1]: Thus A; C ॰ष्णीषमौलिं.  
 
---1) Doubtful emendation; A समर्थासमर्थ्या -- प्रत्या॰; C ॰सामथ्यान्न प्रत्या॰.  
+[^3211-2]: Thus A; C श्रीखण्डवर्द्धनं.  
 
-3204.  
-
---1) Thus A; C supplements विज्ञतरो.  
-
-3205.  
-
---1) Thus A; C आराधयन् प्रभुं धाम्नि.  
-
-3206.  
-
---1) Thus A; C ॰हतमेव तत् स्यात्.  
-
-3207.  
-
---1) Emended; A ॰सन्ननृपास्पदम्.  
-
-3210.  
-
---1) Thus A; C ॰प्रेक्ष्यमाणास्यं.  
-
-3211.  
-
---1) Thus A; C ॰ष्णीषमौलिं.  
-
---2) Thus A; C श्रीखण्डवर्द्धनं.  
-
---2) Thus A; C सीमन्तस्थानचु॰.  
+[^3211-2]: Thus A; C सीमन्तस्थानचु॰.  
 
 [page 284]  
 
@@ -26305,75 +22153,47 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 ततो निर्यन्त्रणत्वस्य निर्मणः सान्त्वनस्य च । KRT_8_3237ab  
 चिरसेवीव तत्कालं राज्ञोजायत भाजनम् ॥ KRT_8_3237cd  
 
-3212.  
+[^3212-1]: Emended; A ॰रितम्.  
 
---1) Emended; A ॰रितम्.  
+[^3212-2]: Thus A; C अनङ्गतुल्यमायान्तं.  
 
---2) Thus A; C अनङ्गतुल्यमायान्तं.  
+[^3212-3]: Emended with C; A पार्थिवम्.  
 
---3) Emended with C; A पार्थिवम्.  
+[^3214-1]: Emended with C; A समर्पयत्.  
 
-3214.  
+[^3216-1]: Emended; A न बध्यसे.  
 
---1) Emended with C; A समर्पयत्.  
+[^3223-1]: Emended with C; A विद्म स्मा॰.  
 
-3216.  
+[^3224-1]: Thus A; C तदा भूता पात्रं कम्पस्य भूयसः; perhaps read भूम्ना भूः प्रकम्पस्य भूयसः.  
 
---1) Emended; A न बध्यसे.  
+[^3226-1]: Emended; A ॰ज्झिते.  
 
-3223.  
+[^3227-1]: Emended; A संध्यायिव॰.  
 
---1) Emended with C; A विद्म स्मा॰.  
+[^3227-2]: Emended; A दूरस्थिते न.  
 
-3224.  
+[^3228-1]: Emended with C; A पा -- द्यत्किल.  
 
---1) Thus A; C तदा भूता पात्रं कम्पस्य भूयसः; perhaps read भूम्ना भूः प्रकम्पस्य भूयसः.  
+[^3229-1]: Emended; A क्ष्माभुजा.  
 
-3226.  
+[^3230-1]: Emended; A शाहेवाह्व॰.  
 
---1) Emended; A ॰ज्झिते.  
+[^3231-1]: Thus A; doubtful.  
 
-3227.  
+[^3231-2]: Thus A; C कदन्नाशनदुर्भोगासुस्थैः खे॰.  
 
---1) Emended; A संध्यायिव॰.  
+[^3232-1]: Emended with C; A इदीदृ॰.  
 
---2) Emended; A दूरस्थिते न.  
+[^3232-2]: Thus A; C supplements स्तुतिभिः.  
 
-3228.  
+[^3235-1]: Emended; A दत्तं.  
 
---1) Emended with C; A पा -- द्यत्किल.  
+[^3236-1]: Emended; A ॰शासनो --; perhaps read अवन्ध्यशासने राज्ञीत्यनु॰; C ॰शासनोमानीत्य॰.  
 
-3229.  
+[^3236-2]: Emended; A ॰त्यनुबति ते; the lacuna not indicated.  
 
---1) Emended; A क्ष्माभुजा.  
-
-3230.  
-
---1) Emended; A शाहेवाह्व॰.  
-
-3231.  
-
---1) Thus A; doubtful.  
-
---2) Thus A; C कदन्नाशनदुर्भोगासुस्थैः खे॰.  
-
-3232.  
-
---1) Emended with C; A इदीदृ॰.  
-
---2) Thus A; C supplements स्तुतिभिः.  
-
-3235.  
-
---1) Emended; A दत्तं.  
-
-3236.  
-
---1) Emended; A ॰शासनो --; perhaps read अवन्ध्यशासने राज्ञीत्यनु॰; C ॰शासनोमानीत्य॰.  
-
---2) Emended; A ॰त्यनुबति ते; the lacuna not indicated.  
-
---2) Emended; शस्त्रौ.  
+[^3236-2]: Emended; शस्त्रौ.  
 
 [page 285]  
 
@@ -26432,71 +22252,43 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 आसन्नाभ्यन्तरा भिन्ना ये द्वैधे तानदर्शयत् । KRT_8_3263ab  
 राजा[^3263-1] विरक्तिं स्वस्यारिबाहुल्यं च व्यसर्जयत् ॥ KRT_8_3263cd  
 
-3238.  
+[^3238-1]: Thus A; C स्वार्चाममलयन्कृती.  
 
---1) Thus A; C स्वार्चाममलयन्कृती.  
+[^3239-1]: Emended with C; A स्वामिनो -- र्थे.  
 
-3239.  
+[^3240-1]: Emended; A यदस्मि॰.  
 
---1) Emended with C; A स्वामिनो -- र्थे.  
+[^3243-1]: Emended with C; A क्ष्माभृद्योपैत्य॰.  
 
-3240.  
+[^3245-1]: Emended; A संवृत्तोर्मीति; C संवृत्तोऽस्मीति.  
 
---1) Emended; A यदस्मि॰.  
+[^3250-1]: A1 gloss उदीपः अतिवृष्ट्या अत्युद्रिक्तजलागमः.  
 
-3243.  
+[^3250-2]: Emended with C; A ॰वीरुस्तन्नि॰.  
 
---1) Emended with C; A क्ष्माभृद्योपैत्य॰.  
+[^3252-1]: Emended; A प्रतिपत्त्य.  
 
-3245.  
+[^3252-2]: Emended with C; A त्वमप्य --.  
 
---1) Emended; A संवृत्तोर्मीति; C संवृत्तोऽस्मीति.  
+[^3254-1]: Emended; A ॰धन्यां.  
 
-3250.  
+[^3256-1]: Emended; A ॰क्ष्मापान्स्थिरं.  
 
---1) A1 gloss उदीपः अतिवृष्ट्या अत्युद्रिक्तजलागमः.  
+[^3256-2]: Thus A; the text is here evidently corrupt; C अनयात्तं नृपं; G(sec. manu) अनुयान्तं नृपं कार्यान्नृसुराराधनागमे.  
 
---2) Emended with C; A ॰वीरुस्तन्नि॰.  
+[^3257-1]: Emended with C; A दातुं.  
 
-3252.  
+[^3260-1]: Written by A5 on new paper.  
 
---1) Emended; A प्रतिपत्त्य.  
+[^3261-1]: Written by A5 on new paper.  
 
---2) Emended with C; A त्वमप्य --.  
+[^3261-2]: Thus A; C supplements जनको.  
 
-3254.  
+[^3261-3]: Emended; A ॰स्तब्दलापत्यकैः.  
 
---1) Emended; A ॰धन्यां.  
+[^3262-1]: Conjectural reading; A तमेवालम्बत व्यक्तिं.  
 
-3256.  
-
---1) Emended; A ॰क्ष्मापान्स्थिरं.  
-
---2) Thus A; the text is here evidently corrupt; C अनयात्तं नृपं; G(sec. manu) अनुयान्तं नृपं कार्यान्नृसुराराधनागमे.  
-
-3257.  
-
---1) Emended with C; A दातुं.  
-
-3260.  
-
---1) Written by A5 on new paper.  
-
-3261.  
-
---1) Written by A5 on new paper.  
-
---2) Thus A; C supplements जनको.  
-
---3) Emended; A ॰स्तब्दलापत्यकैः.  
-
-3262.  
-
---1) Conjectural reading; A तमेवालम्बत व्यक्तिं.  
-
-3263.  
-
---1) Emended; A राज्ञां.  
+[^3263-1]: Emended; A राज्ञां.  
 
 [page 286]  
 
@@ -26555,65 +22347,39 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 रराजाजौ साञ्ज[^3289-1]पालिर्गया[^3289-2]पालो हतेषु यः । KRT_8_3289ab  
 त्रिषु वाजिषु[^3289-3] चातुर्यात्पदातिर्नोपलक्षितः ॥ KRT_8_3289cd  
 
-3263.  
+[^3263-1]: Thus A; C supplements ॰सत्त्रादानाद्यैः स्वं व्य॰.  
 
---1) Thus A; C supplements ॰सत्त्रादानाद्यैः स्वं व्य॰.  
+[^3267-1]: Thus A; possible emendations would be विडम्बकान्प्रभोः or विगर्हकान्प्रभोः; C विचारकात्प्रभोः.  
 
-3267.  
+[^3269-1]: Thus A; C प्राप्तोऽस्याव॰.  
 
---1) Thus A; possible emendations would be विडम्बकान्प्रभोः or विगर्हकान्प्रभोः; C विचारकात्प्रभोः.  
+[^3269-2]: Emended; A गच्छच्छ -- ङ्कां.  
 
-3269.  
+[^3273-1]: Thus A; C अनाप्तसमये तस्य न ययुः पथि रक्षिणः.  
 
---1) Thus A; C प्राप्तोऽस्याव॰.  
+[^3274-1]: Written by A5 on new paper.  
 
---2) Emended; A गच्छच्छ -- ङ्कां.  
+[^3276-1]: Emended with C; A भोजे.  
 
-3273.  
+[^3278-1]: Thus A; C अग्निप्रोषमपि स्वास्थ्यहेतुंभू॰.  
 
---1) Thus A; C अनाप्तसमये तस्य न ययुः पथि रक्षिणः.  
+[^3284-1]: Emended with C; A निःसीमः सै॰.  
 
-3274.  
+[^3285-1]: Emended; A ॰जग्रिरे.  
 
---1) Written by A5 on new paper.  
+[^3286-1]: Thus corr. by a later hand from A2 अधिष्ठाने भटा.  
 
-3276.  
+[^3286-2]: Emended with C; A इवोद्धताः.  
 
---1) Emended with C; A भोजे.  
+[^3287-1]: Emended with C; A बहूनिह॰.  
 
-3278.  
+[^3288-1]: Written by A5 on new paper.  
 
---1) Thus A; C अग्निप्रोषमपि स्वास्थ्यहेतुंभू॰.  
+[^3289-1]: Emended; A सञ्जपालि॰.  
 
-3284.  
+[^3289-2]: Emended; A गयपालः; cf. viii. 3322.  
 
---1) Emended with C; A निःसीमः सै॰.  
-
-3285.  
-
---1) Emended; A ॰जग्रिरे.  
-
-3286.  
-
---1) Thus corr. by a later hand from A2 अधिष्ठाने भटा.  
-
---2) Emended with C; A इवोद्धताः.  
-
-3287.  
-
---1) Emended with C; A बहूनिह॰.  
-
-3288.  
-
---1) Written by A5 on new paper.  
-
-3289.  
-
---1) Emended; A सञ्जपालि॰.  
-
---2) Emended; A गयपालः; cf. viii. 3322.  
-
---3) Emended; A वाजिष्मचा॰; C वाजिष्वचा॰.  
+[^3289-3]: Emended; A वाजिष्मचा॰; C वाजिष्वचा॰.  
 
 [page 287]  
 
@@ -26672,67 +22438,43 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 मल्लोकाष्ठक्षुरजय्यसड्ड[^3315-1]चन्द्रादयोभवन् । KRT_8_3315ab  
 जीवन्मृताश्च शान्ताश्च दारिद्र्योपप्लवार्दिताः ॥ KRT_8_3315cd  
 
-3290.  
+[^3290-1]: Emended with C; A ॰न्दृष्टसङ्ख्य॰.  
 
---1) Emended with C; A ॰न्दृष्टसङ्ख्य॰.  
+[^3292-1]: Emended with C; A ॰दण्डं.  
 
-3292.  
+[^3292-2]: Emended with C; A ॰द्रादिव.  
 
---1) Emended with C; A ॰दण्डं.  
+[^3293-1]: Thus A; C तदन्वाबद्ध॰.  
 
---2) Emended with C; A ॰द्रादिव.  
+[^3296-1]: Thus A; C कम्पनाक्ष्मा॰.  
 
-3293.  
+[^3298-1]: Emended with C; A क्रुद्धो.  
 
---1) Thus A; C तदन्वाबद्ध॰.  
+[^3298-2]: Wirtten by A5 on new paper.  
 
-3296.  
+[^3302-1]: Written by A5 on new paper.  
 
---1) Thus A; C कम्पनाक्ष्मा॰.  
+[^3307-1]: Emended with C; A ॰सुताग्रव्यामब॰.  
 
-3298.  
+[^3307-2]: Comp. viii. 2996.  
 
---1) Emended with C; A क्रुद्धो.  
-
---2) Wirtten by A5 on new paper.  
-
-3302.  
-
---1) Written by A5 on new paper.  
-
-3307.  
-
---1) Emended with C; A ॰सुताग्रव्यामब॰.  
-
---2) Comp. viii. 2996.  
-
-3308.  
-
---1) Emended with A स.  
+[^3308-1]: Emended with A स.  
 
 \_ 3310.  
 
 --1) Doubtful; thus C; A ...खान्यववधीनवत्.  
 
-3312.  
+[^3312-1]: Conjectural reading; A ॰विचार्यास्यङ्कुरो॰; C ॰वियास्यंकुरणेणो॰.  
 
---1) Conjectural reading; A ॰विचार्यास्यङ्कुरो॰; C ॰वियास्यंकुरणेणो॰.  
+[^3313-1]: Emended with C; A ॰पतेः.  
 
-3313.  
+[^3313-2]: Comp. regarding this name the note to viii. 2406.  
 
---1) Emended with C; A ॰पतेः.  
+[^3313-3]: Emended; A च्छत्त्रद॰.  
 
---2) Comp. regarding this name the note to viii. 2406.  
+[^3314-1]: Emended with C; A ॰भ्यवर्तिता.  
 
---3) Emended; A च्छत्त्रद॰.  
-
-3314.  
-
---1) Emended with C; A ॰भ्यवर्तिता.  
-
-3315.  
-
---1) Thus A; misread ॰मड्डुचन्द्रा॰ in R C; cf. सड्डचन्द्रस्य viii.643.  
+[^3315-1]: Thus A; misread ॰मड्डुचन्द्रा॰ in R C; cf. सड्डचन्द्रस्य viii.643.  
 
 [page 288]  
 
@@ -26785,83 +22527,55 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 बद्धाभिर्नर्त[^3338-1]कीभिश्च परिणीत[^3338-3]गृहस्थितौ । KRT_8_3338ab  
 संप्रयुक्तान्कथ्यमानान्हठेनादण्डयद्बहून् ॥ KRT_8_3338cd  
 
-3316.  
+[^3316-1]:  
 
---1)  
+[^3316-2]: Written by A5 on new paper.  
 
---2) Written by A5 on new paper.  
+[^3316-2]: Emended with C; A ऐश्वर्यं रू॰.  
 
---2) Emended with C; A ऐश्वर्यं रू॰.  
+[^3317-1]: Written by A5 on new paper.  
 
-3317.  
+[^3317-2]: Emended; A ॰स्थितम्.  
 
---1) Written by A5 on new paper.  
+[^3318-1]:  
 
---2) Emended; A ॰स्थितम्.  
+[^3318-1]: Written by A5 on new paper.  
 
-3318.  
+[^3318-2]: Emended with C; A स्वल्ला॰; cf. viii. 248.  
 
---1)  
+[^3318-3]: Emended with C; A पैत्रृव्य.  
 
---1) Written by A5 on new paper.  
+[^3318-4]: Emended with C; A -- -- न्नृपः.  
 
---2) Emended with C; A स्वल्ला॰; cf. viii. 248.  
+[^3319-1]: Emended with G ( sec. manu); A ग्रामसा॰.  
 
---3) Emended with C; A पैत्रृव्य.  
+[^3320-1]: Emended with C; A ॰वदनं.  
 
---4) Emended with C; A -- -- न्नृपः.  
+[^3320-2]: Thus A1 R; A5 दन्दलाम्; C चन्द्रलाम्.  
 
-3319.  
+[^3321-1]: Emended with G (sec. manu); A धन्यो नान्यसा॰.  
 
---1) Emended with G ( sec. manu); A ग्रामसा॰.  
+[^3327-1]: Thus A; perhaps read नीत्वासूना॰.  
 
-3320.  
+[^3327-2]: Emended with C; A आर्पिपामधु॰.  
 
---1) Emended with C; A ॰वदनं.  
+[^3329-1]: Written by A5 on new paper.  
 
---2) Thus A1 R; A5 दन्दलाम्; C चन्द्रलाम्.  
+[^3330-1]:  
 
-3321.  
+[^3330-1]: Written by A5 on new paper.  
 
---1) Emended with G (sec. manu); A धन्यो नान्यसा॰.  
+[^3332-1]: Emended with C; A अप्याहतं.  
 
-3327.  
+[^3333-1]: Emended with G (sec. manu); A निर्मारणे.  
 
---1) Thus A; perhaps read नीत्वासूना॰.  
+[^3335-1]: Doubtful emendation; A प्रवर्तत; C प्रवर्त्तते.  
 
---2) Emended with C; A आर्पिपामधु॰.  
+[^3337-1]: Emended; A पीडयन्.  
 
-3329.  
+[^3338-1]: Emended with C; A ॰बद्धानि-- -- कीभिश्च.  
 
---1) Written by A5 on new paper.  
-
-3330.  
-
---1)  
-
---1) Written by A5 on new paper.  
-
-3332.  
-
---1) Emended with C; A अप्याहतं.  
-
-3333.  
-
---1) Emended with G (sec. manu); A निर्मारणे.  
-
-3335.  
-
---1) Doubtful emendation; A प्रवर्तत; C प्रवर्त्तते.  
-
-3337.  
-
---1) Emended; A पीडयन्.  
-
-3338.  
-
---1) Emended with C; A ॰बद्धानि-- -- कीभिश्च.  
-
---2) Conjectural reading; A परि -- तगृ॰; C परिवीतगृ॰.  
+[^3338-2]: Conjectural reading; A परि -- तगृ॰; C परिवीतगृ॰.  
 
 [page 289]  
 
@@ -26920,90 +22634,60 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 कलशक्ष्मापतेः[^3364-1] प्राज्ञोपज्ञं[^3364-2] भृत्योस्य रिल्हणः । KRT_8_3364ab  
 कुर्वन्स्वर्णातपत्राणां प्रतिष्ठां प्रीतिकार्यभूत् ॥ KRT_8_3364cd  
 
-3339.  
+[^3339-1]: Thus A; C वो भवेद्बलेशानां.  
 
---1) Thus A; C वो भवेद्बलेशानां.  
+[^3340-1]: Thus R C; A5 भिल्लमल्ला॰.  
 
-3340.  
+[^3340-2]:  
 
---1) Thus R C; A5 भिल्लमल्ला॰.  
+[^3340-2]: Written by A5 on new paper.  
 
---2)  
+[^3340-3]: Thus A5; C ॰वृत्त्या श्रुत॰.  
 
---2) Written by A5 on new paper.  
+[^3340-4]: Emended; A स्वामिहतं.  
 
---3) Thus A5; C ॰वृत्त्या श्रुत॰.  
+[^3340-5]: Thus A; C supplements तादपि.  
 
---4) Emended; A स्वामिहतं.  
+[^3343-1]: Doubtful emendation; A ॰नामाख्य॰.  
 
---5) Thus A; C supplements तादपि.  
+[^3344-1]: Emended with G (sec. manu); A निर्वाण॰.  
 
-3343.  
+[^3346-1]: Emended with C; A तुरुष्कामिषया॰.  
 
---1) Doubtful emendation; A ॰नामाख्य॰.  
+[^3347-1]:  
 
-3344.  
-
---1) Emended with G (sec. manu); A निर्वाण॰.  
-
-3346.  
-
---1) Emended with C; A तुरुष्कामिषया॰.  
-
-3347.  
-
---1)  
-
---1) Written by A5 on new paper.  
+[^3347-1]: Written by A5 on new paper.  
 
 
-3348.  
+[^3348-1]:  
 
---1)  
+[^3348-1]: Written by A5 on new paper.  
 
---1) Written by A5 on new paper.  
+[^3351-1]: Emended; A संरब्धे.  
 
-3351.  
+[^3355-1]: Emended; A अनुज्ञा.  
 
---1) Emended; A संरब्धे.  
+[^3356-1]: Emended; A त्रिग्राम्यमप्यपातयत्॰; cf. वामेन सिन्धुस्त्रिग्राम्या वितस्ता दक्षिणेन तु v. 97.  
 
-3355.  
+[^3357-1]: Emended; A प्रदेश्य.  
 
---1) Emended; A अनुज्ञा.  
+[^3357-2]: These two and the following three verses are written by A5 on new paper.  
 
-3356.  
+[^3360-1]: Emended with C; A5 R ॰मलशारं.  
 
---1) Emended; A त्रिग्राम्यमप्यपातयत्॰; cf. वामेन सिन्धुस्त्रिग्राम्या वितस्ता दक्षिणेन तु v. 97.  
+[^3360-2]: Emended; A5 R ॰द्यानामुद्योति॰.  
 
-3357.  
+[^3361-1]: Doubtful emandation; A क्ष्माभूभुजौ.  
 
---1) Emended; A प्रदेश्य.  
+[^3361-2]: Emended; A ॰त्वमामात्यानां.  
 
---2) These two and the following three verses are written by A5 on new paper.  
+[^3361-3]: Emended; ॰धिहारिणः.  
 
-3360.  
+[^3362-1]: Emended with C; A देवीं.  
 
---1) Emended with C; A5 R ॰मलशारं.  
+[^3364-1]: Thus corr. by A1 from ॰पतिः.  
 
---2) Emended; A5 R ॰द्यानामुद्योति॰.  
-
-3361.  
-
---1) Doubtful emandation; A क्ष्माभूभुजौ.  
-
---2) Emended; A ॰त्वमामात्यानां.  
-
---3) Emended; ॰धिहारिणः.  
-
-3362.  
-
---1) Emended with C; A देवीं.  
-
-3364.  
-
---1) Thus corr. by A1 from ॰पतिः.  
-
---2) Thus A; cf. vii. 528 ffg.  
+[^3364-2]: Thus A; cf. vii. 528 ffg.  
 
 [page 290]  
 
@@ -27052,69 +22736,41 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 चित्रे कालेत्र यात्रासु द्रष्टुं वृष्ट्युत्तरौ सदा । KRT_8_3385ab  
 यत्प्रावृडिव -- --1यं जीमूतैरनुगम्यते ॥ KRT_8_3385cd  
 
-3365.  
+[^3365-1]: Emended; A ॰पत्त्रां.  
 
---1) Emended; A ॰पत्त्रां.  
+[^3367-1]: Thus A; C करुणामुनयेति॰.  
 
-3367.  
+[^3367-2]: The last and the following verse written by A5.  
 
---1) Thus A; C करुणामुनयेति॰.  
+[^3368-1]: Emended with C; A5 R चक्रमिवे॰.  
 
---2) The last and the following verse written by A5.  
+[^3369-1]: Thus A; C ॰पमं.  
 
-3368.  
+[^3370-1]: Thus A; C ॰र्धितार्घे घने.  
 
---1) Emended with C; A5 R चक्रमिवे॰.  
+[^3371-1]: Emended with C; A ॰श्चतुरस्सुताः.  
 
-3369.  
+[^3373-1]: Emended with C; A ललितालित्य॰.  
 
---1) Thus A; C ॰पमं.  
+[^3373-2]: Emended with C; A पालमानः.  
 
-3370.  
+[^3374-1]: The last two and the following verse written by A5 on new paper.  
 
---1) Thus A; C ॰र्धितार्घे घने.  
+[^3376-1]: Emended with C; A ॰भुजङ्गाङ्कास्वर्ण॰.  
 
-3371.  
+[^3377-1]: Emended; A बालास्फुटा.  
 
---1) Emended with C; A ॰श्चतुरस्सुताः.  
+[^3380-1]: Emended with C; A मैनिला; cf. viii. 3394. 3397.  
 
-3373.  
+[^3380-2]: Emended; A संजाता.  
 
---1) Emended with C; A ललितालित्य॰.  
+[^3381-1]: Doubtful emendation; A विद्योतयान्नवद्यौ; C द्योतितावनवद्यौ.  
 
---2) Emended with C; A पालमानः.  
+[^3383-1]: Emended with C; A यात्रास्वक्षि॰.  
 
-3374.  
+[^3383-2]: These two and the first of the following verse are written by A5 on new paper.  
 
---1) The last two and the following verse written by A5 on new paper.  
-
-3376.  
-
---1) Emended with C; A ॰भुजङ्गाङ्कास्वर्ण॰.  
-
-3377.  
-
---1) Emended; A बालास्फुटा.  
-
-3380.  
-
---1) Emended with C; A मैनिला; cf. viii. 3394. 3397.  
-
---2) Emended; A संजाता.  
-
-3381.  
-
---1) Doubtful emendation; A विद्योतयान्नवद्यौ; C द्योतितावनवद्यौ.  
-
-3383.  
-
---1) Emended with C; A यात्रास्वक्षि॰.  
-
---2) These two and the first of the following verse are written by A5 on new paper.  
-
-3385.  
-
---1) Thus A; C supplements तैश्चेयं.  
+[^3385-1]: Thus A; C supplements तैश्चेयं.  
 
 [page 291]  
 
@@ -27169,45 +22825,27 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 पञ्चत्रिंशतमज्ञातानुग्रहाभिजनाभिधाम् । KRT_8_3409ab  
 राजाभवल्लवो[^3409-1] नाम सूनुस्तस्य कुशस्ततः ॥ KRT_8_3409cd  
 
-3386.  
+[^3386-1]: Emended; A प्रस्थितं.  
 
---1) Emended; A प्रस्थितं.  
+[^3392-1]: Emended with C; A सरणं.  
 
-3392.  
+[^3392-2]: The last and the following two verses written by A5 on new paper.  
 
---1) Emended with C; A सरणं.  
+[^3393-1]: Emended; A ॰मार्जनो.  
 
---2) The last and the following two verses written by A5 on new paper.  
+[^3392-1]: Emended; A ॰त्योच्चं मानोत्क॰.  
 
-3393.  
+[^3400-1]: Emended; A राज्यं प्रा॰.  
 
---1) Emended; A ॰मार्जनो.  
+[^3400-2]: Doubtful emendation; A ॰बटो.  
 
-3392.  
+[^3401-1]: The last and following verse written by A5 on new paper.  
 
---1) Emended; A ॰त्योच्चं मानोत्क॰.  
+[^3402-1]: Doubtful emendation of G (sec. manu); A ॰कीर्तिर्निज॰.  
 
-3400.  
+[^3404-1]: Emended with C; A ॰विंशतु व॰.  
 
---1) Emended; A राज्यं प्रा॰.  
-
---2) Doubtful emendation; A ॰बटो.  
-
-3401.  
-
---1) The last and following verse written by A5 on new paper.  
-
-3402.  
-
---1) Doubtful emendation of G (sec. manu); A ॰कीर्तिर्निज॰.  
-
-3404.  
-
---1) Emended with C; A ॰विंशतु व॰.  
-
-3406.  
-
---1) Emended with C; A ग्रावोम्भः.  
+[^3406-1]: Emended with C; A ग्रावोम्भः.  
 
 3408  
 
@@ -27217,9 +22855,7 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 
 --3) Emended with C; A ॰पती.  
 
-3409.  
-
---1) Emended with C; A राजा वल्लभको; cf. अथाभवल्लवो नाम i. 84.  
+[^3409-1]: Emended with C; A राजा वल्लभको; cf. अथाभवल्लवो नाम i. 84.  
 
 [page 292]  
 
@@ -27268,85 +22904,55 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 तमुत्पाट्योत्पलापीडोस्याजितापीडनन्दनः । KRT_8_3429ab  
 अवन्तिवर्मा शू[^3429-1]रेण तं निवार्याथ मन्त्रिणा ॥ KRT_8_3429cd  
 
-3410.  
+[^3410-1]: The last three and the following verse are no longer founf in A as the upper portion of fol. 327 has broken off; the text is given from R G.  
 
---1) The last three and the following verse are no longer founf in A as the upper portion of fol. 327 has broken off; the text is given from R G.  
+[^3410-2]: Emended with C; R G (prima manu) सुiवर्णाकृत्तदा॰; cf. i. 97.  
 
---2) Emended with C; R G (prima manu) सुiवर्णाकृत्तदा॰; cf. i. 97.  
+[^3412-1]: Emended; R C ॰वंशे; the upper strokes of the latters are not legible in A.  
 
-3412.  
+[^3413-1]: Thus A; C पितापुत्री क्रमान्नृपौ.  
 
---1) Emended; R C ॰वंशे; the upper strokes of the latters are not legible in A.  
+[^3414-1]: Here the name of Nara is omitted.  
 
-3413.  
+[^3414-2]: Emended; A उत्पलाख्यश्च.  
 
---1) Thus A; C पितापुत्री क्रमान्नृपौ.  
+[^3414-3]: Thus A; doubtful.  
 
-3414.  
+[^3414-4]: Emended; A हिरण्याख्येहिरण्यकुशयोर॰.  
 
---1) Here the name of Nara is omitted.  
+[^3415-1]: C inserts here two श्रीमिहिरकुलो राजा बकाख्यस्तदनन्तरं.  
 
---2) Emended; A उत्पलाख्यश्च.  
+[^3415-2]: Emended; A क्षितिनन्दो बलात्मजाद्वसु॰.  
 
---3) Thus A; doubtful.  
+[^3418-1]: Emended; A तुञ्जने; cf. ii.11.  
 
---4) Emended; A हिरण्याख्येहिरण्यकुशयोर॰.  
+[^3418-2]: Emended; A जयेन्द्रस्य -- -- पुत्रे; C जयेन्द्रत्तत्सुतोऽपुत्रः.  
 
-3415.  
+[^3419-1]: Thus A; but compare ii. 145.11g.  
 
---1) C inserts here two श्रीमिहिरकुलो राजा बकाख्यस्तदनन्तरं.  
+[^3419-2]: Emended with C; A गोनन्दाभ्युदितं.  
 
---2) Emended; A क्षितिनन्दो बलात्मजाद्वसु॰.  
+[^3419-3]: After this verse(: inserts the following: ततः प्रवरसेनोभूद्भूपः काश्मीरमण्डले ॥ तत्सूनुश्च हिरण्योऽभूत् पालयन् क्षितिमण्डलं । मातृगुप्तो ऽभवदत्तराज्यस्तेन शकारिणा ॥. One verse containing the names of I., and appears to have been omitted here by A.  
 
-3418.  
+[^3420-1]: The remaining portion of this verse, the followiong verse and the first of verse 3422 are no longer found in A, as the upper portion of fol. 327 has broken off; the text is given from R G.  
 
---1) Emended; A तुञ्जने; cf. ii.11.  
+[^3420-2]: Thus C; R पुत्रो -- धिष्ठिरात्, corr. sec. manu as above; G पुत्राद्युधिष्ठिरात्.  
 
---2) Emended; A जयेन्द्रस्य -- -- पुत्रे; C जयेन्द्रत्तत्सुतोऽपुत्रः.  
+[^3421-1]: Thus C R; G तद्वच्च विक्रमादित्य उर्वरीम्.  
 
-3419.  
+[^3422-1]: Thus C R; G ॰त्यश्चोदवहद्रणा॰.  
 
---1) Thus A; but compare ii. 145.11g.  
+[^3422-2]: Emended with R G; A ॰दित्यश्च नं॰.  
 
---2) Emended with C; A गोनन्दाभ्युदितं.  
+[^3423-1]: Thus C; R G ॰पीडस्य; in A three aksharas after मुक्ता have become illegible.  
 
---3) After this verse(: inserts the following: ततः प्रवरसेनोभूद्भूपः काश्मीरमण्डले ॥ तत्सूनुश्च हिरण्योऽभूत् पालयन् क्षितिमण्डलं । मातृगुप्तो ऽभवदत्तराज्यस्तेन शकारिणा ॥. One verse containing the names of I., and appears to have been omitted here by A.  
+[^3425-1]: Emended with C; A जज्जपुत्रावपि.  
 
-3420.  
+[^3426-1]: Emended with C; A ॰पीडज्येष्ठा॰.  
 
---1) The remaining portion of this verse, the followiong verse and the first of verse 3422 are no longer found in A, as the upper portion of fol. 327 has broken off; the text is given from R G.  
+[^3427-1]: Emended with C; A सम्मत्या॰.  
 
---2) Thus C; R पुत्रो -- धिष्ठिरात्, corr. sec. manu as above; G पुत्राद्युधिष्ठिरात्.  
-
-3421.  
-
---1) Thus C R; G तद्वच्च विक्रमादित्य उर्वरीम्.  
-
-3422.  
-
---1) Thus C R; G ॰त्यश्चोदवहद्रणा॰.  
-
---2) Emended with R G; A ॰दित्यश्च नं॰.  
-
-3423.  
-
---1) Thus C; R G ॰पीडस्य; in A three aksharas after मुक्ता have become illegible.  
-
-3425.  
-
---1) Emended with C; A जज्जपुत्रावपि.  
-
-3426.  
-
---1) Emended with C; A ॰पीडज्येष्ठा॰.  
-
-3427.  
-
---1) Emended with C; A सम्मत्या॰.  
-
-3429.  
-
---1) Here ends the text of A at the foot of fol. 327 rev., the last of the MS. being lost. The text of the remaining verses is given from R G.  
+[^3429-1]: Here ends the text of A at the foot of fol. 327 rev., the last of the MS. being lost. The text of the remaining verses is given from R G.  
 
 [page 293]  
 
@@ -27394,53 +23000,33 @@ are missing; the lacuna not indicated in A; C supplements सम्यग्ज�
 श्रीकान्ति[^3449-1]राजविपुलाभिजनाब्धिमध्यं विश्रान्तये विशति राजतरङ्गिणीयम् ॥ KRT_8_3449cb  
 
 
-इति श्रीमहाकविश्रीकल्हणकृतायां राजतरङ्गिण्यामष्टमस्तरङ्गः(1) ॥ समाप्तोयं राजतरङ्गिनी कृतिः श्रीमहामात्यचप्पकप्रभुसूनोर्महाकवेः कल्हणस्य ॥  
+इति श्रीमहाकविश्रीकल्हणकृतायां राजतरङ्गिण्यामष्टमस्तरङ्गः[^col-1] ॥ समाप्तोयं राजतरङ्गिनी कृतिः श्रीमहामात्यचप्पकप्रभुसूनोर्महाकवेः कल्हणस्य ॥  
 
-3430.  
+[^3430-1]: The last two are found in the above form in C; in R G they are added sec. manu, being probably copied from C.  
 
---1) The last two are found in the above form in C; in R G they are added sec. manu, being probably copied from C.  
+[^3431-1]: Emended with C; R G निनाश्य॰.  
 
-3431.  
+[^3432-1]: Thus R G; cf. v. 287 ffg; C ततः पाथस्ततः क्रमात्.  
 
---1) Emended with C; R G निनाश्य॰.  
+[^3433-1]: These two and the first half of the following verse are omitted in C.  
 
-3432.  
+[^3433-2]: Thus R; G -- -- म्भे.  
 
---1) Thus R G; cf. v. 287 ffg; C ततः पाथस्ततः क्रमात्.  
+[^3437-1]: Thus C R (sec. manu); G R (prima manu) सोमगुप्तः.  
 
-3433.  
+[^3439-1]: Emended; R G CX निहिते.  
 
---1) These two and the first half of the following verse are omitted in C.  
+[^3439-2]: Emended; R G राज्ये; C कृते । राज्ये.  
 
---2) Thus R; G -- -- म्भे.  
+[^3444-1]: Emended; R G C मल्लो; R (sec. manu) सल्लो.  
 
-3437.  
+[^3447-1]: Thus R; G ॰लांस्ते च; C ॰लांस्तांश्च.  
 
---1) Thus C R (sec. manu); G R (prima manu) सोमगुप्तः.  
+[^3449-1]: Emended; R G C श्रीकान्त॰; comp. vii. 1285.  
 
-3439.  
+[^col-1]:  
 
---1) Emended; R G CX निहिते.  
-
---2) Emended; R G राज्ये; C कृते । राज्ये.  
-
-3444.  
-
---1) Emended; R G C मल्लो; R (sec. manu) सल्लो.  
-
-3447.  
-
---1) Thus R; G ॰लांस्ते च; C ॰लांस्तांश्च.  
-
-3449.  
-
---1) Emended; R G C श्रीकान्त॰; comp. vii. 1285.  
-
-Colophon.  
-
---1)  
-
---1) This part of the Colophon in not founf in G.  
+[^col-1]: This part of the Colophon in not founf in G.  
 
 [page 294]  
 
