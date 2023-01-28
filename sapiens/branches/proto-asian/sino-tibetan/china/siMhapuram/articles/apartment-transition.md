@@ -1,0 +1,9 @@
++++
+title = "Apartment-transition"
++++
+
+There were enormous problems, especially in the early stages when we resettled farmers and others from almost rent-free wooden squatter huts with no water, power, or modern sanitation, and therefore no utility bills, into high-rise dwellings with all these amenities but also a monthly bill to pay. It was a wrenching experience for them in personal, social, and economic terms.
+
+Difficult adjustments were inevitable and there were comic, even absurd, results. Several pig farmers could not bear to part with their pigs and reared them in their high-rise apartments. Some were seen coaxing their pigs up the stairs! One family, a couple with 12 children moving from a hut to a new HDB apartment at Old Airport Road, brought a dozen chickens and ducks to rear in the kitchen. The mother built a wooden gate at the kitchen entrance to stop them from entering the living room. In the evenings, the children would look for earthworms and insects at the grass patches outdoors for feed. They did this for 10 years until they moved into another apartment.
+
+The Malays preferred to be closer to the ground. They planted vegetables around the high-rise as they used to do in their kampongs. For a long while, many Chinese, Malays, and Indians walked up the stairs instead of taking the elevators, not because they wanted the exercise but because they were afraid of elevators. There were people who continued to use kerosene lamps instead of electric bulbs Others carried on their old business as before, selling cigarettes, sweets, and sundry goods from their front rooms on the ground floor. They all suffered from culture shock.
