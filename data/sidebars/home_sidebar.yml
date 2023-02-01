@@ -26,7 +26,9 @@ contents:
       - title: वेदाः
         url: ../vedAH/
       - title: पुराणम्
-        url: ../purANam/
+        url: ../purANam
+      - title: पुराणम् वैष्णवम्
+        url: ../purANam_vaiShNavam/
       - title: काव्यम्
         url: ../kAvyam/
       - title: मीमांसा
