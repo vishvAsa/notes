@@ -86,7 +86,7 @@ title = "+Filter"
 - can "soften" water by retaining scale-forming, hydrated divalent ions (e.g. Ca2+, Mg2+) while passing smaller hydrated monovalent ions.
 - very high effectiveness in removing protozoa (for example, Cryptosporidium, Giardia), bacteria (for example, Campylobacter, Salmonella, Shigella, E. coli),  viruses (for example, Enteric, Hepatitis A, Norovirus, Rotavirus); moderate effectiveness in removing chemicals.
 
-## RO (Reserve Osmosis)
+## RO (Reverse Osmosis)
 - filters 98% heavy dissolved solids: metals, particulates, minerals
 - Recommended for TDS 200-2k.
 - uses semi permeable membranes
@@ -130,3 +130,7 @@ title = "+Filter"
 
 ## Filter replacement
 - Aquadyne video [here](https://www.youtube.com/watch?v=_v9HApGAmY0).
+- filterkart site in India - used once. Good quality filters, it seems.
+- Good idea to change external sediment filter every 6 months or so.
+- Service near sahakAranagara
+  - Manju and chandan - INR 2800 in 2023 for replacing prefilter, sediment, carbon, RO filters, + flow restrictor. 3k when another pre-filter was serviced.
