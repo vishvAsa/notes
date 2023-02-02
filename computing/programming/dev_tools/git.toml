@@ -159,7 +159,7 @@ Description = 'In .gitmodules'
 Software = 'git'
 "Operand Type" = 'submodule'
 Feature = 'initialize'
-Syntax = 'git submodule update --init --recursive'
+Syntax = 'git submodule update  --single-branch --init --recursive'
 Description = 'NOTE: Tracks a certain gitlink, and never the moving head of a branch. Checks out to a headles state. Does not track the remote branch properly.'
 
 
