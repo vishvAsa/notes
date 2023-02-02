@@ -51,7 +51,7 @@ jobs:
       run: |
         set -o xtrace
         git submodule update  --single-branch --init --recursive
-        git submodule update  --single-branch --remote --merge --recursive
+        git submodule update --remote --merge --recursive
     - name: Set content to pull request
       if: ${{ github.event_name == 'pull_request'}}
       uses: actions/checkout@master
