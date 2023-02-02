@@ -43,7 +43,7 @@ jobs:
           echo "=====${{ steps.changed-files.outputs.all}}======"
           echo "=====${{ steps.changed-files.outputs.all}}======"
           git submodule update  --single-branch --init --recursive
-          git submodule update  --single-branch --remote --merge --recursive
+          git submodule update --remote --merge --recursive
       - name: Setup Hugo
         id: setup_hugo
         if: steps.update_submods.conclusion == 'success'
