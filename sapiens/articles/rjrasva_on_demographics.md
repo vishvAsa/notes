@@ -10,15 +10,14 @@ Also keep in mind that replacement TFR is only 2.1 in 1st world countries with n
 
 "Switzerland has some data on the development of the replacement level. In 1920 it was 2.56, in 1930 2.32, in 1940 2.26 and in 1950 2.16. Switzerland always had better health indicators than Germany, so it is a safe bet that Germany's replacement level was somewhat higher."
 
-## Impact on State power 
-### General
+## General Impact on State power
 "The triumph of small nations or armies over large ones are remembered precisely because they are the exception to the rule." - The Human Tide: How Population Shaped the Modern World by Paul Moreland
 
 > Tacitus, the Roman historian and statesman, compared the small families of the Romans unfavourably to the fertile Germans, while Ibn Khaldun, the medieval Arab historian, associated depopulation with the desolation and reversal of civilisation. Vauban, Louis XIV's great military architect, was under no illusion about what ultimately drove power; however innovative the defensive buildings might be, he declared that the greatness of kings... is measured in the number of their subjects'. Clausewitz, a Prussian theorist of war living in the Napoleonic era, considered superiority of numbers to be the most general principle of victory', and it was Voltaire who insisted that God was on the side of the big battalions. Adam Smith declared that the most decisive mark of the prosperity of any country is the increase in the number of its habitants'. Asked which woman he loved most, Napoleon is reported to have replied: 'she who has the largest number of children'.
 >
 > Of course, a big technological advantage can undoubtedly be decisive. But often such an advantage, whether it be the Maxim gun or the atom bomb, cannot be indefinitely sustained, since it is invariably adopted by the enemy, whereupon population again becomes key. Iraqi and Afghan militants in recent decades were able to deploy devastating weapons against their first world invaders. Russian efforts to dominate Afghanistan in the 1980s and American attempts to dominate both Iraq and Afghanistan in the first decade of the twenty-first century were in large part frustrated by the fact that Afghanistan and Iraq had populations with a median age of under twenty, while those of the USSR and the USA were well over thirty. It could be argued that in the end what was lacking on the part of the Russians and Americans was not sheer numbers but will; but even here, demography has a role to play. A country with a fertility rate of two or less is much more likely to have a culture in which civilian or military losses are unacceptable than a country with a fertility rate of over seven or nearly five, as was the case in Afghanistan and Iraq respectively around the time of the US invasions in 2002 and 2003.+++(5)+++ Each mother in the former case simply has fewer sons to lose. It seems callous to imagine that mothers of large families are any more willing to lose their children in a conflict, but there is compelling evidence to suggest that societies with smaller families are generally less bellicose.
 
-
+## Case studies
 #### False explanations
 Some unexpected countries/territories (unless u follow demography) more rural & lower in per capita GDP than Japan (1.3) yet with lower/on par TFR's for 2021
 
@@ -35,6 +34,8 @@ Some unexpected countries/territories (unless u follow demography) more rural & 
 RW have a lot of retard takes that conform to their beliefs like porn, work hrs, feminism, megacities etc to supposedly explain low TFR in East Asia. No one associates Ricans with workaholism, CCP fills Chinese heads with wolf warrior BS & censors feminists.
 
 Thailand, CR, & Chile r all more rural, 2 of them even follow Catholicism (this is for those ecath LARP retards who fantasize about a Catholic Japan, see attached image) with incomes well < Japan. I guess its easier to think world confirms to ur pet beliefs
+
+Female Edu and TFR: It correlates but not perfectly (Japanese female edu > Chinese but higher TFR).
 
 ### Greece
 When Greeks depopulated themselves through hedonism (Polybius), fecund Rome was on the ascent & made them a colony
@@ -73,13 +74,17 @@ The child migration scheme founded by Annie MacPherson in 1869, under which more
 
 > The election has exhibited another fact not less valuable to be known—the fact that we do not approach exhaustion in the most important branch of national resources, that of living men. While it is melancholy to reflect that the war has filled so many graves and carried mourning to so many hearts, it is some relief to know that, compared with the surviving, the fallen have been so few. While corps and divisions and brigades and regiments have formed and fought and dwindled and gone out of existence, a great majority of the men who composed them are still living. The same is true of the naval service. The election returns prove this. So many voters could not else be found. The States regularly holding elections, both now and four years ago, to wit, California, Connecticut Delaware, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New Jersey, New York, Ohio, Oregon, Pennsylvania, Rhode Island, Vermont, West Virginia, and Wisconsin, cast 3,982,011 votes now, against 3,870,222 cast then, showing an aggregate now of 3,982,011. To this is to be added 33,762 cast now in the new States of Kansas and Nevada, which States did not vote in 1860, thus swelling the aggregate to 4,015,773 and the net increase during the three years and a half of war to 145,551. A table is appended showing particulars. To this again should be added the number of all soldiers in the field from Massachusetts, Rhode Island, New Jersey, Delaware, Indiana, Illinois, and California, who by the laws of those States could not vote away from their homes, and which number can not be less than 90,000. Nor yet is this all. The number in organized Territories is triple now what it was four years ago—while thousands, white and black, join us as the national arms press back the insurgent lines. So much is shown, affirmatively and negatively, by the election. It is not material to inquire how the increase has been produced or to show that it would have been greater but for the war, which is probably true. The important fact remains demonstrated that we have more men now than we had when the war began; that we are not exhausted nor in process of exhaustion; that we are gaining strength and may if need be maintain the contest indefinitely.+++(5)+++ [This sentence recognizes the concern of a guerilla war after the main war finished.] This as to men. Material resources are now more complete and abundant than ever. The national resources, then, are unexhausted, and, as we believe, inexhaustible.
 
-### Abortion prevention impace
+### Abortion prevention impact
 Abortion prevention won't raise TFR much (see Abkhazia's ban results). To work u need to combine it with a ban on contraception & implement it rigorously. This was possible in closed Romania which is why Decree 770 "worked" for sometime.
 
 ### Shia power
 - Iran’s dream of being an Islamic powerhouse is threatened by baby drought. by Michael Cook Nov 24, 2021
 - Hezbollah’s demographic problem explains its restraint By HILLEL FRISCH  SEPTEMBER 4, 2019.
-  - By far, the most important restraint for Hezbollah is that small families are reluctant to sacrifice what is all too often their only son. We know this from Israeli data. Every year, the IDF identifies the high schools with the highest percentages of male graduates that volunteer in fighting units... common denominator is these high schools is that these recruits come from larger families than from secular schools.
+
+> By far, the most important restraint for Hezbollah is that small families are reluctant to sacrifice what is all too often their only son. We know this from Israeli data. Every year, the IDF identifies the high schools with the highest percentages of male graduates that volunteer in fighting units... common denominator is these high schools is that these recruits come from larger families than from secular schools.
+
+#### Iran
+TFR down to 1.6 from close to 1.7 in 2021, doubt all these measures will do anything. Iranian mullahs encouraged baby boom during war with Iraq for future cannon fodder & later encouraged family planning as they realized they couldn't create jobs for the explosive pop growth. E. g. of how even Abrahamic kooks who think "God will provide" r forced to conform to the reality of a finite planet when shit hits the fan.
 
 ### Israel
 - In Israel, an only child who wishes to join a combat unit must obtain parental consent. Ironically, many Force 100 soldiers are only children whose parents objected to them performing combat service. In some of those cases, a decision to revoke permission for an only child meant that a soldier’s entire unit had to leave the Gaza.

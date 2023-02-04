@@ -160,7 +160,7 @@ Software = 'git'
 "Operand Type" = 'submodule'
 Feature = 'initialize'
 Syntax = 'git submodule update --init --recursive'
-Description = 'NOTE: Tracks a certain gitlink, and never the moving head of a branch. Checks out to a headles state. Does not track the remote branch properly.'
+Description = 'NOTE: Tracks a certain gitlink, and never the moving head of a branch. Checks out to a headles state. Does not track the remote branch properly. Also, pulls all branches by default - leading to delays - https://github.com/vishvAsa/purANam/issues/5 .'
 
 
 
