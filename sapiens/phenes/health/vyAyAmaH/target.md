@@ -55,6 +55,12 @@ There are different health tests a person can do: In a clinic/lab – blood test
 
 > "A study found that lactic acid (as sodium lactate, injected into the blood stream) in mice, keeps them young by assisting in the production of mitochondria, the power generators in every cell. "
 
+
+- 1 Rate of muscle mass decrease is 0.5% to 1% per year after 60, loss of strength 2 or 3x's that, and *loss of power* 3x's strength.
+- 2 Endurance training converts type 2 fibres to type 1; makes u weaker & less powerful ("frail healthy")
+- 3 The atrophy of fast twitch fibres is almost exclusively the problem with aging and muscles.
+
+
 ### Leeway for youth
 - 1 Young athletes (teens/20's) can be lean & fit, even with a bad diet
 - 2 They can progress even with a bad training program

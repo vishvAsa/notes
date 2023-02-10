@@ -3,6 +3,9 @@ title = "Display"
 
 +++
 
+## GPU
+-  nVidia GP107 [GeForce GTX 1050] - DP 1.43, HDMI 2.0b, Dual Link-DVI
+
 ## Display screens
 Liquid Crystal displays tend to be more ergonomically friendly than CRT tube monitors.
 
@@ -16,7 +19,10 @@ They also vary in refresh rate, in the case of images generated from projection,
 In addition LCD screens vary in adjustibility of height, orientation etc. and whether they also function as a touch sensitive input device. Screen size of around 14' has been quite adequate in my laptop computer.
 
 #### Best and economical
-23 inch LCD without touch sensitivity was available for around 110\\\( in a sale.
+24 inch LCD without touch sensitivity was available for around 110 USD in a sale.
+
+#### Ports
+???
 
 ## Projectors
 Using projectors for display allows display size to be set dynamically; allowing a variety of postures and ability to view from a distance, it may be ergonomically better. But, it is not suitable for close viewing (and there fore use as a second monitor), because of the flickering in the display.
@@ -42,3 +48,18 @@ Too low means you can't make out greys on a black background. Too high means you
 - Black text on a white background is the best. This comes down to the properties of color, light, and the human iris. White essentially reflects every wavelength in the color spectrum, which means our irises don’t need to open wide to absorb enough light, leaving them in their natural shape.
 - Dark themes can put more strain on your eyes in high-light conditions, since it washes out the text. 100% contrast (white text on a black background) is typically harder to read and may cause more eye strain. Dark themes can reduce eye strain in low-light conditions (night-time or dimmer workspaces). 
 - Try to control your screen brightness and your ambient light situation instead of changing the colors.
+
+## Usage history
+- Acer S241HL bmid 24-Inch 
+  - 2015 - 2023.
+  - DVI + VGA+ HDMI Inputs
+  - 1920 x 1080 Resolution
+  - 250cd/m² Brightness
+- Samsung LS27E330HZX/ZA 27-Inch Gaming Monitor (1ms / 60Hz / Game mode)
+  - 2018-2023
+  - 1920x1080
+  - 60 Hz
+  - HDMI - VGA - 35 W
+  - Response time 1ms.
+  - Wall mount 75 x 75 millimeter. 
+  - 1000:1 Contrast Ratio Static 
