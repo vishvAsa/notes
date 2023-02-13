@@ -59,7 +59,7 @@ title: Un-schools
 - Otter nature school. sarjapur road.
 - Teach for life, nelamangaLa.
 
-### साप्रदायिकतर-गुरुकुलानि
+### साम्प्रदायिकतर-गुरुकुलानि
 - purna pramati mAdhva-shAlA - गिरिनगरपरिसरे।
   - [अत्र](https://purnapramati.in/programs/)। 
   - Students seated on floor study shAstra-s.
