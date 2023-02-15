@@ -11,8 +11,7 @@ title = "21 THE END"
 
 The situation which Mr. Tilak occupied towards the 
 middle of 1920 was the most enviable any public 
-man has occupied in India. He was the most success- 
-ful and the most longlived of the band of self-sacrificing 
+man has occupied in India. He was the most success###ful and the most longlived of the band of self-sacrificing 
 workers who started the New English School (1880), 
 the Kesari and the Mahratta (1881). His opponents — 
 Ranade, Telang, Mehta and Gokhale — were gathered 
@@ -52,8 +51,7 @@ into the public life.
 But, — alas ! the end was approaching. Ever since 
 his return from Amritsar, a sense of inexplicable fatigue 
 frequently haunted him. He would occasionally talk 
-of retiring from active hfe. PoUtics meant strain, phy- 
-sical and mental and he did not feel himself up to it. 
+of retiring from active hfe. PoUtics meant strain, phy###sical and mental and he did not feel himself up to it. 
 This was surely the whispering of Death. 
 
 After his sickly boyhood, Mr. Tilak enjoyed many 
@@ -81,8 +79,7 @@ improvement of his health. To a certain extent it
 did improve. But he never fully recovered from the 
 blow. 
 
-Then came diabetes, the companion of the English- 
-educated in India. Evidently it was the gift of the 
+Then came diabetes, the companion of the English###educated in India. Evidently it was the gift of the 
 Yeravda jail and it cast sUght shadows of old age on 
 his person. 
 
@@ -143,8 +140,7 @@ vicissitudes of his life.
 
 Chiplonker died in 1882, Apte in 1892, Agarkar, 
 Kelkar, and Namjoshi in 1895, all in the prime of hfe. 
-At one time Mr. Tilak thought that he too, would be sum- 
-moned away early. Providence, however, had reserved 
+At one time Mr. Tilak thought that he too, would be sum###moned away early. Providence, however, had reserved 
 for him a longer career, to be written in letters of gold ; 
 and yet could he not have been spared a httle more ? 
 
@@ -154,8 +150,7 @@ an ultimatiun to the Bureaucracy, a vigorous foreign
 propaganda, these were the thoughts that occupied his 
 waking and sleeping hours in the last month ( July 
 1920) of his Hfe. In the course of this month, he had 
-severe attacks of malaria. However, he completely re- 
-covered, went to Bombay for his last fight in the Tai 
+severe attacks of malaria. However, he completely re###covered, went to Bombay for his last fight in the Tai 
 Maharaj case, triumphed over his enemies and had 
 begun to think of recuperating his strength when 
 
@@ -164,18 +159,12 @@ begun to think of recuperating his strength when
 308 LOKAMANYA TILAK 
 
 an evening motor-drive brought him a chill whicS 
-soon developed into high fever. None, however, sus- 
-pected the worst and congratulatory anniversary meet- 
-i ngs were held (23rd July) in Bombay and elsewhere. 
-The fever, brought by the chill, subsided only to rec- 
-tum soon. From Monday night (26th July), " his- 
-fever took a decidedly serious turn and it was found 
+soon developed into high fever. None, however, sus###pected the worst and congratulatory anniversary meet###i ngs were held (23rd July) in Bombay and elsewhere. 
+The fever, brought by the chill, subsided only to rec###tum soon. From Monday night (26th July), " his###fever took a decidedly serious turn and it was found 
 that the base of his right lung was affected and the 
 fever developed signs of pneumonia. The whole of 
-Tuesday was a day of anxiety. There was no brain- 
-complication and his consciousness was unimpaired.*' 
-Still the situation was critical and his friends and rela- 
-tives gathered to wait upon him. He chaffed his son 
+Tuesday was a day of anxiety. There was no brain###complication and his consciousness was unimpaired.*' 
+Still the situation was critical and his friends and rela###tives gathered to wait upon him. He chaffed his son 
 upon having run up to Bombay on this flimsy pretence 
 and his daughters upon being rather too fond of their 
 parents' home. He disdained to leave any initructions 
@@ -188,8 +177,7 @@ heart began to show signs of weakness. He lost all
 consciousness and became delirious. He continued 
 more or less in the same state during the whole of 
 Wednesday and Thursday. On Wednesday, there was 
-a complication of the stomach which began to be dis- 
-tended. With great difficulty, the doctors led him out 
+a complication of the stomach which began to be dis###tended. With great difficulty, the doctors led him out 
 of the crisis. On Thursday at about 5 p.m., he had an 
 attack of angina pectoris which threatened to be serious 
 and fatal but, thanks to the timely efforts of the doctors, 
@@ -208,8 +196,7 @@ his breathing became hard, and at last at 12-50 a.m.,
 August 1st, 1920, the cruel hand of Death snatched him 
 away." 
 
-Anxious messages, distinguished callers, large, un- 
-manageable crowds testified to the love and devotion 
+Anxious messages, distinguished callers, large, un###manageable crowds testified to the love and devotion 
 he inspired. During the sad week, the hearts of all 
 Indians, alternating with hopes and fears, must have 
 gone up to the Almighty in silent or vocal prayer. But 
@@ -236,10 +223,8 @@ These memorable words of Lord Krishna, uttered by
 
 310 LOKAMANYA TILAK 
 
-Mr. Tilak in his unconscious state, reveal the back- 
-^ound of his mind. He braved the terrors of gaol-Ufe, 
-he could Uve down all obloquy, persecution and misre- 
-presentation on the strength of this Faith. All the 
+Mr. Tilak in his unconscious state, reveal the back###^ound of his mind. He braved the terrors of gaol-Ufe, 
+he could Uve down all obloquy, persecution and misre###presentation on the strength of this Faith. All the 
 political battles fought by him were not waged for any 
 earthly reward but from a high sense of duty, based on 
 an unshakable faith that God was working through him. 
@@ -247,22 +232,18 @@ During all the storms of his life, he never felt weak or
 pessimistic because he knew that he was a mere pawn 
 employed by that Divinity which presided over the 
 destinies of India. A Tilak may come and go ; but His 
-work would never wait ; and when the ground is suffi- 
-ciently prepared. He shall come down to estabhsh the 
+work would never wait ; and when the ground is suffi###ciently prepared. He shall come down to estabhsh the 
 reign of Peace and Goodness. 
 
-Mr. Tilak's scattered and subdued utterances in deli- 
-rium bespeak his love of the country. He frequently^ 
+Mr. Tilak's scattered and subdued utterances in deli###rium bespeak his love of the country. He frequently^ 
 referred to the Calcutta Congress and asked " Has the 
 Special been arranged ?" *' Have you wired to Mr. 
 Pat el ?" Then there was the Punjab wrong to which 
 he occasionally referred. Sometimes, he would get 
 excited and talk wildly. In an outburst of passion he 
-cmce said " 500 rupees to the editor; plus motor- 
-aUowance ! What will these lord-lings do for the 
+cmce said " 500 rupees to the editor; plus motor###aUowance ! What will these lord-lings do for the 
 country ?" On the 28th, he frequently talked of 1818 
-" 1818 — 1918 — one hundred years — what a Ufe of servi- 
-tude !" The last important words, reported to have 
+" 1818 — 1918 — one hundred years — what a Ufe of servi###tude !" The last important words, reported to have 
 been uttered by him on July 29th at i p.m., were " unless. 
 Swaraj is achieved, — India shall not prosper. It is 
 required for our very existence !" 
@@ -294,15 +275,11 @@ to do.
 scene of universal grief witnessed. People had begun 
 to flock near Sirdar Griha from 7 in the morning and by 
 8a.m., there was no room for anybody to go up to catch 
-his last sight. The labourer had left the miU, the Mar- 
-wari his account-book, the Bania his purse and every 
-man and woman was out to see the last of their be- 
-loved leader. Musalmans, Parsees, Christians deserted 
+his last sight. The labourer had left the miU, the Mar###wari his account-book, the Bania his purse and every 
+man and woman was out to see the last of their be###loved leader. Musalmans, Parsees, Christians deserted 
 their homes to pay their respects to a man, who had 
 sacrificed his all at the altar of the country and suffered 
-heavily for bravely defending her cause. In his life- 
-time, Mr. Tilak was the recipient of many popular de- 
-monstrations of good-will but the triumphal march of 
+heavily for bravely defending her cause. In his life###time, Mr. Tilak was the recipient of many popular de###monstrations of good-will but the triumphal march of 
 of dead Tilak through the streets on August ist, 1920 
 was more magnificent than any during his life-time. 
 
@@ -324,8 +301,7 @@ estimate, about two lakhs of men took part in it.
 Mr. Shaukat Ah, Dr. Kitchlew, Mr. Jamnadas, Mr. 
 Banker, and many other prominent citizens of Bombay. 
 Two special trains from Poona brought a number of 
-Mr. Tilak's friends and devoted followers. They claim- 
-ed that Mr. Tilak's body should be cremated at Poona. 
+Mr. Tilak's friends and devoted followers. They claim###ed that Mr. Tilak's body should be cremated at Poona. 
 The people of Bombay insisted on getting the honour to 
 themselves and in the end they won and cremated him, 
 by special arrangements, on the sands of the Back Bay. 
@@ -333,16 +309,13 @@ His body was seated in a palanquin and the pall-bearers
 included Mr. Gandhi, Mr. Shaukat Ali, Dr. Kitchlew 
 and many others. On the route, the procession had to 
 stop at innumerable places, because a number of people 
-came out to offer flowers. At every step, most enthu- 
-siastic ovations were received. 
+came out to offer flowers. At every step, most enthu###siastic ovations were received. 
 
-" The body was gently placed on a pyre of sandal- 
-wood, so lo\dngly and liberally supplies by the Parsi 
+" The body was gently placed on a pyre of sandal###wood, so lo\dngly and liberally supplies by the Parsi 
 traders ; and at sun-down, the last earthly remains of 
 the Sun of Maharashtra were reduced to ashes!" 
 
-The unexpected death of a personality of the magni- 
-tude of Lokamanya Tilak united, for a time, all parties, 
+The unexpected death of a personality of the magni###tude of Lokamanya Tilak united, for a time, all parties, 
 and all India mourned for the eternal loss of her great 
 son. Even the Anglo-Indian Press, taken as a whole, 
 expressed appreciation of their life-long opponent. 
@@ -355,8 +328,7 @@ orfeited a precious opportunity of winning the hearts
 THE END 313 
 
 of the people by a tactful concession to the sentiments 
-of 17 non-official members of the Council, who, belong- 
-ing to different political parties had united in desiring 
+of 17 non-official members of the Council, who, belong###ing to different political parties had united in desiring 
 that the Council should be closed in honour of Mr. Tilak 
 ** a former member of this Council, a great Oriental 
 scholar and a prominent worker in the cause of the 
@@ -370,14 +342,11 @@ been suggested and raised in different parts of India.
 But the grandest of them all is the one for which 
 Mahatma Gandhi moved from city to city and province 
 to province, collecting huge sums during the eventful 
-months of April, May and June 1921. As the Mahat- 
-maji has said " Truly to revere the memory of a person 
+months of April, May and June 1921. As the Mahat###maji has said " Truly to revere the memory of a person 
 is to achieve his life's purpose. Truly to revere the 
 Memory of Bal Gangadhar Tilak, whom India delighted 
-and still delights to call Lokamanya must be to esta- 
-blish Swaraj and thus forever perpetuate his 
-memory." For this purpose, the Mahatma ji has col- 
-lected the biggest fund ever raised by the people of 
+and still delights to call Lokamanya must be to esta###blish Swaraj and thus forever perpetuate his 
+memory." For this purpose, the Mahatma ji has col###lected the biggest fund ever raised by the people of 
 India during the last hundred years. " The Tilak 
 Memorial Swaraj Fund " will go down to posterity as 
 a unique event in the history of this country. It will 
@@ -403,10 +372,8 @@ are given below. The largest contribution that of
 
 Rs. 3,00,000 ^has been made by Mr. A. B. Godrej^ 
 
-Proprietor of the Godrej, Boyce Manufacturing Com- 
-pany. It is earmarked for the (i) eradiction of the 
-liquor traffic in India and (2) the elevation of the de- 
-pressed classes. 
+Proprietor of the Godrej, Boyce Manufacturing Com###pany. It is earmarked for the (i) eradiction of the 
+liquor traffic in India and (2) the elevation of the de###pressed classes. 
 
 
 
@@ -619,8 +586,7 @@ Total
 
 THE END 315 
 
-" May his soul rest in peace !" How poor, how un- 
-real do these words strike to the ear ! The soul of the 
+" May his soul rest in peace !" How poor, how un###real do these words strike to the ear ! The soul of the 
 Lokamanya will never rest in peace unless and until Swaraj 
 is established. It will be bom again and again, if need 
 be, in this holy land of the rishis until its high purpose 

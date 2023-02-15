@@ -6,8 +6,7 @@ title = "27 THE ORION"
 ( Appendix A and B will give the reader an idea of 
 the principal arguments advanced by Mr. Tilak 
 in the Orion and the Arctic Home in the Vedas to 
-establish his theories. The Gita-Rahasya being com- 
-paratively a recent production is too well-known 
+establish his theories. The Gita-Rahasya being com###paratively a recent production is too well-known 
 to require any summary. ) 
 
 Oriental scholars have advanced vague and uncertain conjectures about the age and character of the Vedas. Prof. Max Muller has divided the Vedic literature into four arbitrary periods, the Chhandas, Mantra, Brahmana and Sutra and by assigning two hundred 
@@ -36,8 +35,7 @@ time. 30 such days made a month and 12 such months
 or 360 Savana days made a year. Now, a month of 30 
 civil or savana days cannot correspond with a lunar 
 synodical month and so a day in some of the Savana 
-months was required to be omitted to secure the con- 
-currence of the civil and lunar months. The year of 
+months was required to be omitted to secure the con###currence of the civil and lunar months. The year of 
 360 Savana days was thus practically reduced to a 
 lunar year of 354 civil days or 360 tithis. But a further 
 correction was necessary to adjust the lunar with the 
@@ -81,8 +79,7 @@ the northern hemisphere, i.e., to the north of the
 equator ; and thus we can say that the Uttarayana and 
 the year must have commenced with the Vernal equinox. 
 While describing the Devayana and Pitriyana, the 
-Shatapatha Brahmana (ii-i-3-3). lays it down in dis- 
-tinct terms that Vasanta, Grishma and Varsha were 
+Shatapatha Brahmana (ii-i-3-3). lays it down in dis###tinct terms that Vasanta, Grishma and Varsha were 
 the seasons of the Devas. It is impossible therefore 
 to maintain that the Devayana or the Uttarayana 
 -ever commenced with the winter-solstice, for in 
@@ -95,11 +92,9 @@ come to denote the first half of the new year, i.e., the
 period from the winter to the summer solstice especially 
 as the word was capable of being understood as " turning towards the North from the Southern- most point.
 
-All our present calenders are prepared on the sup- 
-position that the Vernal equinox still coincides with the 
+All our present calenders are prepared on the sup###position that the Vernal equinox still coincides with the 
 end of Revati and our enumeration of the Nakshatras 
-begins with Ashvini, though the equinox has now re- 
-ceded about 18° from Revati. This position of the 
+begins with Ashvini, though the equinox has now re###ceded about 18° from Revati. This position of the 
 Vernal equinox was true at about 490 A.D. when 
 probably the present system was introduced. Let us 
 now see if we can trace back the position of the Vernal 
@@ -107,9 +102,7 @@ equinox amongst the fixed circle of stars. From Varahamihira, we know that befor
 make their measurements from the Vernal equinox in Revati, there existed a system in which the year commenced 
 with the winter solstice in the month of Magha and the 
 Vernal equinox was in the last quarter of Bharani or the 
-beginning of the Krittikas. The Vedanga- Jyotish, the old- 
-est astronomical work in Sanskrit, gives the follow- 
-ing positions of the solstice and the equinoxes : — 
+beginning of the Krittikas. The Vedanga- Jyotish, the old###est astronomical work in Sanskrit, gives the follow###ing positions of the solstice and the equinoxes : — 
 
 - (i) The winter solstice in the beginning of Shravishtha (divisional). 
 - (2) The Vernal equinox in 10° of Bharani. 
@@ -117,8 +110,7 @@ ing positions of the solstice and the equinoxes : —
 - (4) The autumnal equinox in 3° 20' of Vishakha. 
 
 From these data, astronomers have calculated that 
-the solstitial colure occupied the above position be- 
-tween 1269 B.C. to 1181 B.C. There are many passages 
+the solstitial colure occupied the above position be###tween 1269 B.C. to 1181 B.C. There are many passages 
 in the Taittiriya Samhita and the Taittiriya Brahmana 
 where the Krittikas occupy the first place in the list of 
 the Nakshatras. We must, therefore, presume that 
@@ -140,8 +132,7 @@ that the winter solstice fell in Magha also refers to the
 Phalguni full-moon and the Chitra full-moon as the 
 first days of the year. Now as evidently there can't 
 be real beginnings of the year at an interval of one 
-month each, the passage must be understood as re- 
-cording a tradition about these two full-moon days 
+month each, the passage must be understood as re###cording a tradition about these two full-moon days 
 being once considered as the first days of the year. If 
 the year commenced with winter solstice with the 
 Phalguni full-moon, the Vernal equinox must have been 
@@ -154,8 +145,7 @@ the Bhadrapadi full moon so that the dark half of
 Bhadrapada was the first fortnight in the Pitriyana, 
 understood as commencing on the summer solstice. 
 On no other hypothesis can the dedication of the dark 
-half of Bhadrapada to the Pitris be satisfactorily ex- 
-plained. 
+half of Bhadrapada to the Pitris be satisfactorily ex###plained. 
 
 When the Vernal equinox was in Orion it was the 
 beginning of the Devayana and as the constellation is 
@@ -164,18 +154,15 @@ ancient Aryans may have been naturally influenced not
 merely to connect their old traditions with it but also 
 to develop them on the same lines. Thus the Devayana 
 and the Pitriyana, as representing the two hemispheres 
-must be joined and the Vernal and the autumnal equi- 
-noxes became the natural points of union between the 
+must be joined and the Vernal and the autumnal equi###noxes became the natural points of union between the 
 regions of Gods and Yama. The equinoxes were in fact 
-the gates, of heaven and as such it was natural to sup- 
-pose that they were watched by dogs (Canis Major 
+the gates, of heaven and as such it was natural to sup###pose that they were watched by dogs (Canis Major 
 and Canis Miror). In the later Indian literature we are 
 told that the souls of the deceased have to cross a stream 
 before they reach the region of Yama which we can 
 easily identify with the Milky W^ay which could then 
 have been appropriately described as separating the 
-regions of Gods and Yama, the Devayana and the Pritri- 
-yana or the Northern and the Southern hemisphere. 
+regions of Gods and Yama, the Devayana and the Pritri###yana or the Northern and the Southern hemisphere. 
 
 
 Later, it is actually called the celestial river and we are 
@@ -185,30 +172,23 @@ satisfactorily account for these legends by supposing
 that the Vernal equinox was near the Dog-star in those 
 days just near the Milky Way, 
 
-There is another set of traditions which can be simi- 
-larly explained on the supposition with which we have 
+There is another set of traditions which can be simi###larly explained on the supposition with which we have 
 started, viz., the Vernal equinox was then in Orion. The 
 heliacal rising of the constellation at the beginning of 
-the year marked the revival of nature at the commence- 
-ment of spring and the asterism may thus be said to 
+the year marked the revival of nature at the commence###ment of spring and the asterism may thus be said to 
 represent all these milder influences which in later 
 mythology were fully embodied in the conception of 
 Vishnu. But the case was completely reversed if we 
 take the acronycal rising of the same. It was at the 
-autumnal equinox that the Dog-star rose at the begin- 
-ning of night and though strictly speaking it marked 
+autumnal equinox that the Dog-star rose at the begin###ning of night and though strictly speaking it marked 
 the end of Varsha,yet the portion of the heaven wherein 
-the constellation is situated could have been easily re- 
-garded as the battle-ground of Indra and Vritra, who 
+the constellation is situated could have been easily re###garded as the battle-ground of Indra and Vritra, who 
 fought in those days and also as the stage on which the 
 terrible Rudra made his appearance. On this same 
-hypothesis we can explain how Vritra came to be sta- 
-tioned at the gates of hell. Indra cut off the head of Vritra 
-or Namuchi in the form of a Mriga and this at once sug- 
-gests whether that head is not the same as that of 
+hypothesis we can explain how Vritra came to be sta###tioned at the gates of hell. Indra cut off the head of Vritra 
+or Namuchi in the form of a Mriga and this at once sug###gests whether that head is not the same as that of 
 Prajapati cut off by Rudra (Ardra or Sirius). The 
-foamy weapon with which Indra killed Namuchi is noth- 
-ing but a reference tot he Milky Way, The attributes of 
+foamy weapon with which Indra killed Namuchi is noth###ing but a reference tot he Milky Way, The attributes of 
 Rudra, chasing of the antelope, his bearing of the Ganges 
 in his matted hair and fondness for the burning ground 
 and appearance as a Kirata or hunter — all these can be 
@@ -236,8 +216,7 @@ Trinity with Orion having three stars in the head and
 closely followed by the dog (canis) at its foot. 
 
 These and other traditions especially those of Ribhus 
-and Vrishakapi strengthen the hypothesis of the tradi- 
-tional year-beginning on the Phalguni full moon. With 
+and Vrishakapi strengthen the hypothesis of the tradi###tional year-beginning on the Phalguni full moon. With 
 the Phalguni full moon at the winter solstice, the Vernal 
 equinox was in Mrigashiras ; so with the Chitra full 
 moon at the solstice, the Vernal equinox would be in 
@@ -252,24 +231,18 @@ perform any further ceremonies, and did not know
 where it (the sacrifice) had gone to ; and it was Aditi 
 that helped them in this state, to find out the proper 
 commencement of the sacrifice. This clearly means 
-that before this time sacrifices were performed at ran- 
-dom, but it was at this time resolved and fixed to com- 
-mence them from Aditi. Aditi was thus the oldest and 
+that before this time sacrifices were performed at ran###dom, but it was at this time resolved and fixed to com###mence them from Aditi. Aditi was thus the oldest and 
 rst commencement of the sacrifice or the year. In 
-the Vajasaneyi Samhita 4-19 Aditi is said to be Ubha- 
-yatah Shirshni " double-headed " and the commenta- 
-tors interpret it to mean that the two termini of the 
+the Vajasaneyi Samhita 4-19 Aditi is said to be Ubha###yatah Shirshni " double-headed " and the commenta###tors interpret it to mean that the two termini of the 
 sacrifice which began and ended with Aditi, are the 
 two heads here alluded to. These traditions are further 
 corroborated by the sacrificial ceremonies. According 
-to the sacrificial terminology, the 4th day before Vishnu- 
-van or the central day of the yearly Satra is called the 
+to the sacrificial terminology, the 4th day before Vishnu###van or the central day of the yearly Satra is called the 
 Abhijit day. Now if Abhijit day be supposed to be 
 named after the Nakshtra of that name (i.e. when the 
 Sun is in Abhijit) then the Vishnu van or the autumnal 
 equinox must fall four days after the asterism 
-of Abhijit ; and it can be shown by astronomical calcu- 
-lation that with Aditi or Punarvasu at the Vernal 
+of Abhijit ; and it can be shown by astronomical calcu###lation that with Aditi or Punarvasu at the Vernal 
 equinox to commence the sacrifice, we nearly get at 
 the same result. 
 
@@ -282,11 +255,9 @@ Vernal equinox was in the asterism of Ardra to the
 time when it receded to the asterism of the Krittkias. 
 The third or the Krittika period commences with the 
 Vernal equinox in the asterism of the Krittikas and 
-•extends up to the period recorded in the Vedanga- 
-Jyotisha, i.e., 2500 B.C. to 1400 B.C. and the fourth and 
+•extends up to the period recorded in the Vedanga###Jyotisha, i.e., 2500 B.C. to 1400 B.C. and the fourth and 
 last period of the old Sanskrit literature extends from 
-1400 B.C. to 500 B.C. or to the birth and rise of Bud- 
-dhism which may be called the real-Pre Buddhistic 
+1400 B.C. to 500 B.C. or to the birth and rise of Bud###dhism which may be called the real-Pre Buddhistic 
 period. It will thus be found that the antiquities of 
 the Vedas can be traced up to a far remoter time than 
 what Max Muller and other European scholars were 

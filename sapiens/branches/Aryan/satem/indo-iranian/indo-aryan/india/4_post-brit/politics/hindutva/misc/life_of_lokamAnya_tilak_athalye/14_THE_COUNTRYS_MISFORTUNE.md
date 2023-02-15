@@ -17,8 +17,7 @@ selected for prosecuting Mr. Tilak under Sections 124 A
 and 153 A of the Indian Penal Code. The Government 
 of Bombay seem to have realised the risk of getting 
 conviction on the article of May 12th and so, another 
-sanction to prosecute Mr. Tilak for publishing the lead- 
-ing article in the Kesari of June 9th entitled " These 
+sanction to prosecute Mr. Tilak for publishing the lead###ing article in the Kesari of June 9th entitled " These 
 remedies are not lasting " was given, a fresh warrant 
 was issued and executed on Mr. Tilak in jail ; and by 
 two separate orders was Mr. Tilak committed to the 
@@ -40,14 +39,12 @@ point. Mr. Davar the Barrister had argued that " the
 'Only ground on which this application could be opposed 
 would be an apprehension that the accused might not be 
 forthcoming for his trial." Mr. Davar, the Judge, 
-however declared " I am not in accord with the state- 
-ment, broadly made that the only consideration which 
+however declared " I am not in accord with the state###ment, broadly made that the only consideration which 
 ought to guide the Court in deciding whether bail 
 should or should not be granted, was the consideration 
 that the accused would appear to take his trial." 
 
-Mr. Tilak's next misfortune was the successful appli- 
-cation of the Crown to the Court for directing that 
+Mr. Tilak's next misfortune was the successful appli###cation of the Crown to the Court for directing that 
 a Special Jury should be empanelled to try him. Mr. 
 Baptista, appearing for Mr. Tilak conclusively proved 
 how, if a Special Jury was empanelled it would consist 
@@ -57,8 +54,7 @@ of Marathi would not be the best Judges of articles
 Tilak was moreover charged with exciting the feelings 
 of Indians against Europeans. The result would be, 
 said Mr. Baptista, that on the charge under 124 A, the 
-rulers would sit in judgment upon a subject for his alle- 
-ged rebellious spirit and under Section 153 A, the 
+rulers would sit in judgment upon a subject for his alle###ged rebellious spirit and under Section 153 A, the 
 accusers would sit in judgment upon the accused for 
 exciting hostility against themselves. A Common Jury 
 would, on the other hand, cons st of a majority of 
@@ -75,8 +71,7 @@ commenced, the Advocate General proposed (Sec. 234
 
 C. P. Code) to put Up the accused on both the charges at' 
 the same trial ; and to avoid a technical difficulty of 
-law, he proposed to put the accused up on two charges- 
-under Section 124 A and one charge under Section. 
+law, he proposed to put the accused up on two charges###under Section 124 A and one charge under Section. 
 153 A, staying for a time proceedings under 153 A with 
 respect to the article of 12th May. This procedure was 
 prejudicial to Mr. Tilak's interests but in spite of his 
@@ -86,25 +81,20 @@ clearly show% that practically "one single article of June
 9th was made the ground of three convictions and 
 sentences on three different charges." 
 
-The * objectionable ' passages on which the prosecu- 
-tion relied were not specified. Mr. Tilak drew the 
+The * objectionable ' passages on which the prosecu###tion relied were not specified. Mr. Tilak drew the 
 attention of the learned Judge to this difficulty. He 
 was however told that the whole lot of the words was 
 objected to and with His Lordship's permission, the 
-charges were amended by putting in the whole articles- 
-into the charge. This was, of course very convenient 
+charges were amended by putting in the whole articles###into the charge. This was, of course very convenient 
 to the Prosecution, but it increased Mr. Tilak's burden 
 and compelled him to explain each and every sentence 
 while conducting his defence. 
 
-The only prosecution witness seriously cross-exami- 
-ned by Mr. Tilak, who conducted his own defence, was- 
-the late Mr. B. V. Joshi, First Assistant to the Oriental 
+The only prosecution witness seriously cross-exami###ned by Mr. Tilak, who conducted his own defence, was###the late Mr. B. V. Joshi, First Assistant to the Oriental 
 Translator, Bombay. The cross-examination is a model. 
 of skill and resourcefulness. It reveals Mr. Tilak's 
 command over the Marathi as also his proficiency in all. 
-the arts of an Advocate. Mr. Tilak completely suc- 
-ceeded in proving that the transaltions were perverted* 
+the arts of an Advocate. Mr. Tilak completely suc###ceeded in proving that the transaltions were perverted* 
 Words likely to be unfavourable to him were grossly 
 though unintentionally mistranslated ; while expres- 
 
@@ -112,8 +102,7 @@ though unintentionally mistranslated ; while expres-
 
 THE country's MISFORTUNE igg 
 
-sions, which were favourable to him were made consi- 
-derably milder. 
+sions, which were favourable to him were made consi###derably milder. 
 
 When Mr. Tilak's house was searched, a post-card 
 containing the names of two books " Hand-book on 
@@ -122,26 +111,20 @@ found. It was quite natural and proper for the editor
 of a newspaper to purchase books on explosives whea 
 the Government was contemplating legislation on the 
 subject. *' A book is not a bomb, much less the name ot 
-It." The Post-card, however, received undue promi- 
-nence and it was put in, as one of the Exhibits by the 
+It." The Post-card, however, received undue promi###nence and it was put in, as one of the Exhibits by the 
 Prosecution. To explain the Post-Card, Mr. Tilak had 
 to put a bundle of sundry papers, by which he lost 
-his right of reply. Finding that this right, so precious- 
-to an accused, especially in a trial by Jury, was thus 
+his right of reply. Finding that this right, so precious###to an accused, especially in a trial by Jury, was thus 
 taken away, Mr. Tilak put in 71 cutting from different 
 papers, to show how his own articles formed part of a 
 political controversy. 
 
-In his written Statement, Mr. Tilak accepted full res- 
-ponsibility for the incriminating articles, gave his own 
-English renderings for some of the Marathi words oc- 
-curring in the articles, quoted his views on Political 
+In his written Statement, Mr. Tilak accepted full res###ponsibility for the incriminating articles, gave his own 
+English renderings for some of the Marathi words oc###curring in the articles, quoted his views on Political 
 Reform from his statement before the Decentralization 
-Commission and concluded by saying that the Charge- 
-Articles formed part of a controversy, in which he had 
+Commission and concluded by saying that the Charge###Articles formed part of a controversy, in which he had 
 endeavoured to maintain and defend those views. He 
-also successfully explained the post-card. He commen- 
-ced his speech on "Wednesday, July 15th, at about 4 P.M. 
+also successfully explained the post-card. He commen###ced his speech on "Wednesday, July 15th, at about 4 P.M. 
 the speech occupied full 21 hours and 10 minutes, 
 WTiile it was being delivered, * " The Judge, Jury an(i 
 
@@ -151,8 +134,7 @@ WTiile it was being delivered, * " The Judge, Jury an(i
 
 200 LOKAMANYA TILAK 
 
-the Prosecuting Counsel shrank into insignificance be- 
-fore the towering personahty of Mr. Tilak." It was a 
+the Prosecuting Counsel shrank into insignificance be###fore the towering personahty of Mr. Tilak." It was a 
 nice discourse on the law of sedition both Indian and 
 English ; and though Mr. Tilak did not succeed in 
 convincing the Judge and the majority of the Jurors, 
@@ -168,8 +150,7 @@ Prosecution does not mean to proceed under that part
 of the section. The second part of the Section deals 
 with ' attempts to excite disaffection '. The Section 
 does not simply refer to the publication of anything 
-likely to create disaffection. * An attempt is an inten- 
-tional premeditated action, which if it fails in its objects, 
+likely to create disaffection. * An attempt is an inten###tional premeditated action, which if it fails in its objects, 
 fails through circumstances independent of the person, 
 who seeks its accomplishment.' Attempt is actually 
 an offence, minus the final act of crime. The mere fact 
@@ -178,8 +159,7 @@ attempt. There must be a criminal mind, a culpable
 indifference to consequences. In the present case, there 
 has been no evidence to prove that the attempt failed 
 because, the Government interfered or because the 
-people refused to listen. Attempt includes both mo- 
-tives and intention. To take a common illustration, I 
+people refused to listen. Attempt includes both mo###tives and intention. To take a common illustration, I 
 intend to go the Bori Bunder Station and my end in 
 view is to go to Poona. In deciding intention, it is 
 not safe to follow the maxim of the Civil Law * every 
@@ -188,14 +168,12 @@ not safe to follow the maxim of the Civil Law * every
 
 THE country's MISFORTUNE 201 
 
-man must be presumed to intend the natural conse- 
-quences of his acts.' My contention is supported by 
+man must be presumed to intend the natural conse###quences of his acts.' My contention is supported by 
 the caseofRex z;s.Baru3,Hyndmanaai^Or3 which was 
 tried by Justice Cave who in his charge to the Jury 
 said : 
 
-' I am unable to agree entirely with the Attorney- 
-General when he says that the real charge is that 
+' I am unable to agree entirely with the Attorney###General when he says that the real charge is that 
 though these men did not incite or contemplate disorder 
 yet as it was the natural consequence of the words they 
 used, they are responsible for it. In order to make out 
@@ -206,8 +184,7 @@ it is a good working rule to say that a man must be
 taken to intend the natural consequences of his acts, 
 yet if it is shown from other circumstances that he did 
 not actually intend them, I do not see how you can ask 
-a Jury to act upon what has become a legal fic- 
-tion. * * * * j]^Q maxim that a man intends the 
+a Jury to act upon what has become a legal fic###tion. * * * * j]^Q maxim that a man intends the 
 natural consequences of his acts is usually true, but it 
 may be used as a way of saying that, because reckless 
 indifference to probable consequences is morally as bad 
@@ -219,9 +196,7 @@ and another to write, violently and recklessly, matter
 likely to produce disturbances.' 
 
 Criminal intention cannot be presumed but must be 
-positively proved by the evidence of surrounding cir- 
-cumstances. The motive of an act must not be con- 
-■" ^ » 
+positively proved by the evidence of surrounding cir###cumstances. The motive of an act must not be con###■" ^ » 
 
 * Vol- i6, Cox's Criminal cases Page 365. 
 
@@ -230,69 +205,53 @@ cumstances. The motive of an act must not be con-
 202 LOKAMANYA TILAK 
 
 founded with the intention ; but is always one of the 
-surest indications in an inquiry as to intention. If the- 
-writer's motives are good, if he is trying to secure 
+surest indications in an inquiry as to intention. If the###writer's motives are good, if he is trying to secure 
 constitutional rights for the people, trying in a 
 fair way and persevering manner, he is entitled 
 to express his views fully and fearlessly. Intention 
 may be inferred from the legal fiction that a 
 man intends the natural consequences of his acts. 
-But if there are circumstances to show that the- 
-motive of a man is different, then the mere fact 
+But if there are circumstances to show that the###motive of a man is different, then the mere fact 
 that the views of the writer are not correct, or are even 
-absurd, or that he has expressed them in violent lan- 
-guage, would not make him seditious. It is not a 
+absurd, or that he has expressed them in violent lan###guage, would not make him seditious. It is not a 
 question of the correctness and acceptability of views^ 
 or of the stylef in which they have been expressed. 
 The incriminating articles form part of a controversy 
-between the Pro-Bureaucratic party and the Pro- 
-Congress party. There was a bomb outrage at Mozuf- 
-ferpore. There was no difference of opinion as to the 
+between the Pro-Bureaucratic party and the Pro###Congress party. There was a bomb outrage at Mozuf###ferpore. There was no difference of opinion as to the 
 character of the deplorable event ; but the question was 
 * what is the cause of it ?' The Pro-Bureaucratic 
 Party laid the blame at the doors of the Congress or of 
 the Nationalist Party and called upon Government to 
-put us down. I have taken the other side. My wri- 
-tings are (i) a reply to the Anglo-Indian criticism (2) 
-a suggestion to Government and addressed to Govern- 
-ment (3) a discussion of the situation (4) a warning to 
+put us down. I have taken the other side. My wri###tings are (i) a reply to the Anglo-Indian criticism (2) 
+a suggestion to Government and addressed to Govern###ment (3) a discussion of the situation (4) a warning to 
 both parties which, it is my duty as a journalist to give 
 (5) a criticism of the contemplated measures by the 
-Government. I will read extracts from a few Anglo- 
-Indian writings. The Pioneer of May 7th recommends- 
-a whole-sale arrest of the acknowledged Terrorists in a 
+Government. I will read extracts from a few Anglo###Indian writings. The Pioneer of May 7th recommends###a whole-sale arrest of the acknowledged Terrorists in a 
 
 
 
 THE COUNTRY S MISFORTUNE 20^ 
 
-city or District, coupled with an intimation that on the- 
-repetition of the offence, ten of them would be shot for 
+city or District, coupled with an intimation that on the###repetition of the offence, ten of them would be shot for 
 every life sacrificed. It tries to establish a logical con-^ 
-nection between members of the Council and Bomb- 
-throwers in Bengal. The Asian recommends to Mr. 
+nection between members of the Council and Bomb###throwers in Bengal. The Asian recommends to Mr. 
 Kingsford's notice a Mauser pistol and hopes he would 
 secure a big * bag ', adding that he will be more than 
 justified in letting day-light into every strange native 
 approaching his house or person. A correspondent of 
 the Englishman suggests that * a few of these worthy 
-agitators should be flogged in public by the town-sweep- 
-ers.' Now, we honestly believed that these writings- 
-were mischievous, particularly the insinuations of those 
+agitators should be flogged in public by the town-sweep###ers.' Now, we honestly believed that these writings###were mischievous, particularly the insinuations of those 
 writers and they had to be counteracted. My reply 
 to the Anglo-Indian Press is written on an occasiou 
 of provocation. It does not intend to excite dis-affection. 
 For every sentence in my writings, I can point out a 
-parallel passage from the literature of our party. Pro- 
-Congress Newspapers, completely hostile to the Kesariy 
-take the same view of the matter. I am charged spe- 
-cifically with attempting to cause excitement, not 
+parallel passage from the literature of our party. Pro###Congress Newspapers, completely hostile to the Kesariy 
+take the same view of the matter. I am charged spe###cifically with attempting to cause excitement, not 
 through-out India, but among the Marathi-speaking 
 population. I do not stand alone in my views. Papers 
 of all parties in the Marathi-speaking community have 
 taken the same view of the matter. This absolves me 
-from any evil intention. If there is no personal preju- 
-dice against me, these articles will show that I was not 
+from any evil intention. If there is no personal preju###dice against me, these articles will show that I was not 
 prompted by my personal prejudices. The arguments 
 have not been invented by me. In charging me with 
 sedition, this must be borne in mind * what impressions 
@@ -310,25 +269,19 @@ our party. Taking all these points into consideration,
 the construction put upon the words of the articles by 
 the Prosecution is unjustifiable. Moreover, in my own 
 interest, and in the interest of the cause I represent I 
-am bound to question the translations, which are com- 
-pletely distorted. It is simply intolerable that con- 
-viction for sedition should be based upon such trans- 
-lations. If I succeeded in showing that the wording of 
+am bound to question the translations, which are com###pletely distorted. It is simply intolerable that con###viction for sedition should be based upon such trans###lations. If I succeeded in showing that the wording of 
 these translations is not correct, that in itself is enough 
-to ensure my acquittal. The words on which the Pro- 
-secution is likely to rely are found to be distorted 
+to ensure my acquittal. The words on which the Pro###secution is likely to rely are found to be distorted 
 images of the original words. Marathi terminology in 
 the discussion of Political subjects not being settled, I 
-have been required to labour under a very great dis- 
-advantage, especially as, frequently we have to write 
+have been required to labour under a very great dis###advantage, especially as, frequently we have to write 
 on the spur of the moment ; and the translator has made 
 an attempt to translate the Marathi language of 1908 
 with the aid of a dictionary published full fifty years 
 ago, not realizing that old fortifications cannot stand 
 before new guns. I gave Mr. Joshi this sentence to 
 translate " A despotic Government need not necessarily 
-be tyrannical," and the translator himself found it diffi- 
-cult to express the two shades of meaning in Marathi. 
+be tyrannical," and the translator himself found it diffi###cult to express the two shades of meaning in Marathi. 
 The charge is based not upon the original Marathi but 
 upon the translations. Therefore the Prosecution 
 must stand or fall by the correctness or incorrectness 
@@ -342,8 +295,7 @@ THE country's MISFORTUNE 205-
 
 outrages were quickly condemned in my papers, as 
 the Anglo-Indian papers. But in condemning them^ 
-we say that we must also condemn the repres- 
-sive measures of Government. Both parties are 
+we say that we must also condemn the repres###sive measures of Government. Both parties are 
 taking advantage of the presence of the bomb. The 
 Bureaucratic Party are taking advantage of it to 
 suppress political agitation, and the other party is 
@@ -361,14 +313,11 @@ would come forward and say that I was right, it will
 be a matter of satisfaction to me ; for I know, that if 
 the Jury are not unanimous in England, another trial 
 takes place. It is not so here, but it would be a 
-moral support upon which I would rely with great satis- 
-faction. I appeal to you, not for myself, but in the 
-interest of the cause which I have the honour to re- 
-present. It is the cause that is sacred and I doubt 
+moral support upon which I would rely with great satis###faction. I appeal to you, not for myself, but in the 
+interest of the cause which I have the honour to re###present. It is the cause that is sacred and I doubt 
 not, gentlemen, that He, before whom all of us will 
 have to stand one day and render an account of our 
-actions will inspire you with the courage of 3'our con- 
-victions and help you in arriving at a right decision on 
+actions will inspire you with the courage of 3'our con###victions and help you in arriving at a right decision on 
 the issue involved in this case." 
 
 It is impossible to adequately summarize the whole 
@@ -380,13 +329,9 @@ of Mr. Tilak's masterly address within the limits at our
 
 disposal. His disquisitions on Section 153A, and his 
 running commentary on the incriminating articles 
-must be completely dropped. What has been at- 
-tempted above is a bare outline of some of the princi- 
-ple points which he pressed in his favour. He finish- 
-ed his address at about 12-30 p.m., on the eighth and 
+must be completely dropped. What has been at###tempted above is a bare outline of some of the princi###ple points which he pressed in his favour. He finish###ed his address at about 12-30 p.m., on the eighth and 
 last date of the trial (Wednesday, 22nd July 1908). 
-The reply of the Advocate-General was severely satiri- 
-cal and extremely offensive. He himself seems to 
+The reply of the Advocate-General was severely satiri###cal and extremely offensive. He himself seems to 
 have been conscious that he had exceeded the bounds 
 of decorum and in conclusion declared himself to be 
 ready to stand by any rebuke, which His Lordship 
@@ -409,8 +354,7 @@ that matters He cannot be allowed
 ' ^ meant affection.' 
 
 " Can you conceive anybody with the faintest 
-knowledge of law putting forward such a sug- 
-gestion seriously, that he was entitled to write 
+knowledge of law putting forward such a sug###gestion seriously, that he was entitled to write 
 these articles in self-defence ? This is the 
 right that Mr. Tilak put forward in his defence 
 yesterday. I think the accused must have 
@@ -421,19 +365,15 @@ THE country's MISFORTUNE 20/
 
 laughed, when he left the Court, after having 
 put forward that defence, to think that it was 
-received in silence instead of Homeric laugh- 
-ter." 
+received in silence instead of Homeric laugh###ter." 
 " I had intended to avoid the language of passion. 
 But having the misfortune to sit through 
 these ravings from morning to morning etc." 
 Strong exception could have been taken to such 
-"" ravings " and Mr. Tilak was nothing, if not extre- 
-mely jealous of his rights. But he disdained to cri- 
-ticise the satirical language which Mr. Branson used 
+"" ravings " and Mr. Tilak was nothing, if not extre###mely jealous of his rights. But he disdained to cri###ticise the satirical language which Mr. Branson used 
 in his speech, which lasted for four hours. The 
 Judge thought it desirable to finish the case that day 
-- — or rather that night ; and so, perhaps the Advocate- 
-General brought his remarks to a hurried close. The 
+- — or rather that night ; and so, perhaps the Advocate###General brought his remarks to a hurried close. The 
 Summing-up of the Judge followed — in lamp light, — 
 and it was an adverse charge to the Jury. The Jury 
 retired for consideration at about 8 p.m., and returned 
@@ -441,15 +381,13 @@ at 9-20 P.M. During the dismal silence of more than
 one hour in the dim gas-light, every friendly heart 
 quailed. The finger on the wall was but too clear; 
 Mr. Tilak, however, was always peculiarly 
-heroic in such moments and in a whisper gave expres- 
-sion to his feelings in the noble words of Lord Krishna 
+heroic in such moments and in a whisper gave expres###sion to his feelings in the noble words of Lord Krishna 
 
 "If you are defeated, you rule heaven ; if you 
 win, the world is at your feet." At last, the suspense 
 was over. The Jurors came out and announced the 
 majority verdict of guilty on all charges. They were 
-divided by 7 to 2 ; the Judge agreed with their ver- 
-dict and before passing any sentence, asked the accused 
+divided by 7 to 2 ; the Judge agreed with their ver###dict and before passing any sentence, asked the accused 
 whether he wished to say anything before sentence 
 
 
@@ -464,8 +402,7 @@ and piercing tone " he uttered the following words
 which deserve to be written in letters of gold : — 
 *' All I wish to say is that in spite of the verdict 
 of the Jury, I maintain that I am innocent. 
-There are higher Powers that rule the desti- 
-nies of things ; and it may be the will of the 
+There are higher Powers that rule the desti###nies of things ; and it may be the will of the 
 Providence that the cause which I represent 
 may prosper more by my sufferings than by 
 my remaining free." 
@@ -480,8 +417,7 @@ and great power and influence. Those talents and
 that influence, if used for the good of your country, 
 would have been instrumental in bringing about a 
 great deal of happiness for those very people whose 
-cause you espouse. Ten years ago you were con- 
-victed and the Court dealt most leniently with you 
+cause you espouse. Ten years ago you were con###victed and the Court dealt most leniently with you 
 and the Crown dealt still more kindly with you. 
 * * * It seems to me that it must be a diseased 
 mind, a most perverted intellect, that could say that 
@@ -493,29 +429,23 @@ with sedition, they preach violence ; they speak ol
 
 THE country's MISFORTUNE 209 
 
-murders with approval ; and the cowardly and atro- 
-cious act of committing murders with bombs not only 
+murders with approval ; and the cowardly and atro###cious act of committing murders with bombs not only 
 seems to meet with your approval, but you hail the 
 advent of the bomb in India as if something has 
 come to India for its good. As I said it can be only 
 a diseased and perverted mind that can think that 
-bombs are legitimate instruments in political agita- 
-tions. And it must be a diseased mind that could 
+bombs are legitimate instruments in political agita###tions. And it must be a diseased mind that could 
 ever have thought that the articles you wrote were 
 articles that could have been legitimately written. 
 Your hatred of the Ruling Class has not disappeared 
-during these ten years. And in these articles, delibe- 
-rately and defiantly written week by week, not as 
+during these ten years. And in these articles, delibe###rately and defiantly written week by week, not as 
 you say, on the spur of the moment, but a fortnight 
-after that cruel and cowardly outrage had been com- 
-mitted upon two innocent English women, you wrote 
+after that cruel and cowardly outrage had been com###mitted upon two innocent English women, you wrote 
 about bombs as if they were legitimate instruments 
 in political agitations. Such journalism is a curse 
 to the country. I feel much sorrow in sentencing 
 you. I have considered most anxiously in the case 
-of a verdict being returned against you, what sen- 
-tence I should pass upon you. * * * Having re- 
-gard to your age and circumstances, I think it is 
+of a verdict being returned against you, what sen###tence I should pass upon you. * * * Having re###gard to your age and circumstances, I think it is 
 most desirable, in the interest of peace and order and 
 in the interest of the country which you profess to 
 love, that you should be out of it for some time." 
@@ -548,21 +478,15 @@ In noticing Mr. Tilak's conviction, the London
 Times said : — 
 
 " The real importance of Mr. Tilak's conviction 
-lies in the fact that he is the acknowledged and un- 
-disputed leader of the Extremists' Movement in India. 
-That he had a guilty knowledge of the darker deve- 
-lopments of that movement is not, of course, sug- 
-gested. Mr. Tilak remained, at the moment of his 
+lies in the fact that he is the acknowledged and un###disputed leader of the Extremists' Movement in India. 
+That he had a guilty knowledge of the darker deve###lopments of that movement is not, of course, sug###gested. Mr. Tilak remained, at the moment of his 
 -conviction, the most conspicuous politician in India 
-and among large sections of the people, he has enjoy- 
-ed a popularity and wielded an influence that no 
+and among large sections of the people, he has enjoy###ed a popularity and wielded an influence that no 
 other public matt in the Dependency could claim to 
-equal. The Extremists' Movement, in its open mani- 
-festitations both within and outside the Congress 
+equal. The Extremists' Movement, in its open mani###festitations both within and outside the Congress 
 was ahnost entirely his conception." 
 
-The Indian Press was almost unanimously of opi- 
-nion that Mr. Tilak did not get justice. But the 
+The Indian Press was almost unanimously of opi###nion that Mr. Tilak did not get justice. But the 
 Full Bench of the Bombay High Court as also the 
 Judicial Committee of the Privy Council, thought 
 that he had ; — and there we must leave the 
@@ -584,8 +508,7 @@ him.
 
 From Sabarmati, he was removed (Sept. 13th, 1908) 
 to Mandalay. His sentence was commuted to one of 
-simple imprisonment. This '* act of grace " acted pre- 
-judicially to Mr. Tilak's interests. Had the original 
+simple imprisonment. This '* act of grace " acted pre###judicially to Mr. Tilak's interests. Had the original 
 sentence been executed, he would have got greater 
 remission. Besides, in the Andamans he would have 
 been able to Uve in perfect freedom after furnishing 
@@ -598,8 +521,7 @@ When Mr. Tilak was sentenced to transportation for
 six years, there were few, even among his opponents 
 who expected him to survive the term of his exile. 
 Two things however, besides his own fortitude and 
-Faith in God, enabled him to outlive the dread mo- 
-notony and killing soUtude of his life. They were (i) 
+Faith in God, enabled him to outlive the dread mo###notony and killing soUtude of his life. They were (i) 
 health and {2) mental occupation. But these, in their 
 turn depended upon things quite beyond his control. 
 The Government, however, was pleased to deal with 
@@ -617,8 +539,7 @@ careful research, found suitable for diabetic patients.
 As regards mental occupation, though all books or 
 periodicals bearing on current Politics were rigourously 
 excluded, Mr. Tilak could yet command the free use of 
-other books and of writing materials. " Though con- 
-j&ned in a room of 20X12 he could, if he liked, go out 
+other books and of writing materials. " Though con###j&ned in a room of 20X12 he could, if he liked, go out 
 hunting with the primeval Aryan warriors in the 
 Rigveda; enjoy the super glory of the Aurora with the 
 Pole-Star at zenith overhead; busy himself with the 

@@ -24,10 +24,7 @@ leaving himself free to deal with one at a time.
 
 The stagnant condition of the Indian civilisation 
 during several centuries has given rise to a number 
-of social evils which by their very accumulation impres- 
-sed the imagination of the first generation of English- 
-educated Indians. But these evils are neither more pres- 
-sing nor more hideous than those which during the last 
+of social evils which by their very accumulation impres###sed the imagination of the first generation of English###educated Indians. But these evils are neither more pres###sing nor more hideous than those which during the last 
 three centuries have accompanied the rapid growth of 
 European power and culture. The first duty of every 
 country is to strengthen its position and consolidate its 
@@ -52,9 +49,7 @@ For, relieved of the cares and responsibilities of
 political and international questions, the new leaders 
 of the country attended to the next best thing, 
 the condition of their society. In this attitude 
-they were encouraged by their English and Anglo- 
-Indian masters as well as by the zealous Mission- 
-aries, who, too had an axe of their own to grind. Add 
+they were encouraged by their English and Anglo###Indian masters as well as by the zealous Mission###aries, who, too had an axe of their own to grind. Add 
 to this the tendency of a fallen nation to be-little its 
 own worth and admire the customs, manners, thoughts 
 and institutions of the rulers. Knowing that they were 
@@ -65,13 +60,11 @@ India was an impossibility and hence they appeared to
 us at their best, — strong, masterful, gifted with all the 
 qualities of greatness. They were demigods amidst a 
 race of mortals, giants ruling over pigmies and the very 
-limited intercourse Indians could have with them com- 
-pletely concealed from us their shortcomings. It is not 
+limited intercourse Indians could have with them com###pletely concealed from us their shortcomings. It is not 
 surprising that in the psychological situation detailed 
 above, Indian leaders, cut off from the moorings of 
 National traditions mistook the unreal for the real, the 
-accidental accompaniment for the substance. Cons- 
-cious of their own impotence and anxious to lift up the 
+accidental accompaniment for the substance. Cons###cious of their own impotence and anxious to lift up the 
 
 
 
@@ -81,8 +74,7 @@ country to a high level they could think of only one
 way, the complete Westernisation of India. English 
 dress, English habits, even English diet and English 
 life must, they thought, be imported into this country 
-before we could think of replacing the English Bureau- 
-crats. Ladies must learn, widows must remarry, castes 
+before we could think of replacing the English Bureau###crats. Ladies must learn, widows must remarry, castes 
 must go, — all because we must be equal to our rulers in 
 efficiency and strength. These early English-educated 
 leaders advocated Social Reform with the same 
@@ -123,22 +115,15 @@ Mr. Tilak did not much depart from the lines laid down
 by his master. Mr. Tilak was essentially a Puritan of 
 Puritans and so was in a sense more fitted to lead Social 
 Reform than many of the so-called Reformers ; but 
-being more a man of action than of thought he prefer- 
-red to concentrate on the political issue. 
+being more a man of action than of thought he prefer###red to concentrate on the political issue. 
 
 ** Was Mr. Tilak a Social Reformer "? The question 
-can be correctly answered only by knowing which re- 
-forms he approved of and which ' reforms ' he con- 
-demned. He favoured foreign travel but insisted on 
-teetotalism and vegetarian diet. He applauded re- 
-marriages of child-widows ; but laid stress on the proper 
-performance of the Vedic rites. He was for female edu- 
-cation but wanted it to be both useful and ornamental. 
-He tolerated inter-dining but only on occasions of neces- 
-sity. He wanted sub-castes to intermarry before he 
+can be correctly answered only by knowing which re###forms he approved of and which ' reforms ' he con###demned. He favoured foreign travel but insisted on 
+teetotalism and vegetarian diet. He applauded re###marriages of child-widows ; but laid stress on the proper 
+performance of the Vedic rites. He was for female edu###cation but wanted it to be both useful and ornamental. 
+He tolerated inter-dining but only on occasions of neces###sity. He wanted sub-castes to intermarry before he 
 could favour the larger question of intercaste marriages. 
-He advocated adult marriages but disliked the predo- 
-minantly materialistic nature of Western marriages. 
+He advocated adult marriages but disliked the predo###minantly materialistic nature of Western marriages. 
 He wanted the badge of untouchability to be removed 
 but would be no party to hasty and fanatical measures 
 that would only retard the improvement of the social 
@@ -146,27 +131,21 @@ life of the ' depressed ' classes. He was for a policy oi
 open door to all classes and creeds. Drink he abhored, 
 also sexual vice. He wished our reformers to actively 
 combat these evils by strenuous propaganda. Reform 
-he wanted, but genuine reform and not apish imita- 
-tion of Western life and manners. 
+he wanted, but genuine reform and not apish imita###tion of Western life and manners. 
 
 
 
 TILAK AND SOCIAL REtCRM 49 
 
 His ideal of a Social Reformer was a Buddha, a Kabir 
-or a Tukaram. The leader of the Social Reform move- 
-ment must essentially be a man of peace. He must be 
-a lover of Indian civilisation and culture and must pro- 
-ceed to reform society with due respect for the tradi- 
-tions of the society itself. He must not only be of our 
+or a Tukaram. The leader of the Social Reform move###ment must essentially be a man of peace. He must be 
+a lover of Indian civilisation and culture and must pro###ceed to reform society with due respect for the tradi###tions of the society itself. He must not only be of our 
 society but must live in it. He must be bold enough 
 to break those bonds that have outlived their utility ; 
 but at the same time he must be calm enough 
 not to harm his cause by abusive language. He 
 must be a " stalwart Puritan man, battling for the 
-right, trustful but not elated, serious but not de- 
-jected." He should make his way through mis- 
-understandings, opposition and persecution by sheer 
+right, trustful but not elated, serious but not de###jected." He should make his way through mis###understandings, opposition and persecution by sheer 
 force of truth, love and courage. 
 
 But the Social Reform movement of Mr. Tilak's 
@@ -176,16 +155,11 @@ its origin in callous disregard of the past. It ignored
 the study of the fundamental basis of Indian Society. 
 It was not discriminating. It was largely imitative. 
 It sought to copy Western life and institutions. The 
-leaders were weak, halting and inconsistent ; the fol- 
-lowers had nothing in them but sound and fury. Sus- 
-tained enthusiasm and sterling sacrifice were woefully 
+leaders were weak, halting and inconsistent ; the fol###lowers had nothing in them but sound and fury. Sus###tained enthusiasm and sterling sacrifice were woefully 
 at a discount. It was a movement which claimed, 
-first priority to and later on equal status with the poli- 
-tical movement and sought radically to reconstruct our 
+first priority to and later on equal status with the poli###tical movement and sought radically to reconstruct our 
 society without taking note of the traditions of the 
-past or the insufficient materials available in the pre- 
-sent. Such an artificial and indiscriminating move- 
-ment, launched by a handful of fanatics simultaneously 
+past or the insufficient materials available in the pre###sent. Such an artificial and indiscriminating move###ment, launched by a handful of fanatics simultaneously 
 4 
 
 
@@ -193,16 +167,13 @@ ment, launched by a handful of fanatics simultaneously
 50 LOKAMANYA TILAK 
 
 with the National Congress excited Mr. Tilak's liveliest 
-opposition ; and for a few years he was engaged in rele- 
-gating the movement to its normal plane and not allow- 
-ing it to usurp the chief attention of the country. 
+opposition ; and for a few years he was engaged in rele###gating the movement to its normal plane and not allow###ing it to usurp the chief attention of the country. 
 
 Ever since 1S34, the ' irrepressible and audacious * 
 Mr. Malbari had been trying to raise the age of marriage 
 of Hindu girls. The field of his activity covered not 
 only the length and breadth of India but the United 
-Kingdom of Great Britain also, whence he brought con- 
-siderable pressure to bear on the then Viceroy and his 
+Kingdom of Great Britain also, whence he brought con###siderable pressure to bear on the then Viceroy and his 
 Council to consider his proposals some of which were as 
 follows : — 
 
@@ -223,8 +194,7 @@ gal rights should not be allowed. ,
 band's property even after her remarriage. 
 These and other proposals struck at the very root of 
 Hindu Society and nullified at one stroke the sanctity 
-and indissoiubiUty of the marriage-tie. They, there- 
-fore caused intense alarm ; and when it was known 
+and indissoiubiUty of the marriage-tie. They, there###fore caused intense alarm ; and when it was known 
 that a Bill to raise the " Age of Consent " from 
 10 (Vide Sec. 375 of the Indian Penal Code) to 12 
 was in contemplation not only the orthodox people 
@@ -239,10 +209,8 @@ TILAK AND SOCIAL REFORM $1
 
 contrary, that the introduction of this Bill was 
 only the thin end of the wedge and that the 
-whole of Mr. Malabari's programme was likely to re- 
-ceive legislative sanction. Mr. Tilak's opposition to 
-this Bill has been severely criticised. We should re- 
-member, however, that amongst those who diaspproved 
+whole of Mr. Malabari's programme was likely to re###ceive legislative sanction. Mr. Tilak's opposition to 
+this Bill has been severely criticised. We should re###member, however, that amongst those who diaspproved 
 of this Bill, can be seen the names of the late Sir Romesh 
 Chander Mitter, the late Mr. W. C. Banerjea, the late 
 Sir T. Madhavarao, Babu (now Hoa. Sir) Surendranath 
@@ -257,10 +225,7 @@ education. He led a vigorous agitation, which there
 is reason to believe convinced the Government of the 
 day of the unwisdom of its step ; the fetish of prestige, 
 however steeled the Governments' determination to 
-get the BiU passed (19th March 189 1). The Govern- 
-ment even preferred* "to be wrong with Prof. Bhan- 
-darkar, Mr. Justice Telang and Dewan Bahdur Raghu- 
-nath Rao, than to be right with Pandit Sasadhar and 
+get the BiU passed (19th March 189 1). The Govern###ment even preferred* "to be wrong with Prof. Bhan###darkar, Mr. Justice Telang and Dewan Bahdur Raghu###nath Rao, than to be right with Pandit Sasadhar and 
 Prof. Tilak." The impression which Mr. Tilak made, in 
 those eventful months marked him out as the ** coming 
 man". The merciless logic and the vast knowledge 
@@ -283,8 +248,7 @@ Bill." It is worth noting that the leaders of the
 Keform Party who were present at the Conference 
 dared not oppose the resolution moved by Mr. Tilak. 
 Mr. Tilak was not merely a destructive critic. He 
-showed the way in which the Bill could be made accept- 
-able to the Orthodox party. He suggested that the 
+showed the way in which the Bill could be made accept###able to the Orthodox party. He suggested that the 
 attainment of puberty should be made the legal age for 
 the consummation of marriage. Had this compromise 
 been accepted there would have been no trouble. But 
@@ -294,8 +258,7 @@ time (26th October 1890) put forth one suggestion which
 shows the sincerity of his faith in genuine social reform. 
 He disapproved of general legislation as the masses 
 were not prepared for the same. But he welcomed 
-resort to legislation as a binding force to those who be- 
-lieved in reforms. His proposals were as follows : — 
+resort to legislation as a binding force to those who be###lieved in reforms. His proposals were as follows : — 
 (i) & (2) Girls and boys should not be married until 
 
 they have reached the age of 16 and 2a 
@@ -321,27 +284,21 @@ stopped.
 
 TILAK AND SOCIAL REFORM 53 
 
-(8) One-tenth of the monthly income of every re- 
-former should be devoted to public purposes. 
+(8) One-tenth of the monthly income of every re###former should be devoted to public purposes. 
 Neither Ranade nor Agarkar were willing to bind 
 themselves with this pledge. However, on Nov. ist 
 1890, a meeting was held under the presidency of the 
 late Hon. Rao Bahadur Nulkar to consider Mr. Tilak s 
 proposals. At this meeting where both Mr. Ranade and 
-Prof. (Dr. Sir) Bhandarkar were present, Mr. Tilak de- 
-livered a speech which deserves to be recorded. He 
+Prof. (Dr. Sir) Bhandarkar were present, Mr. Tilak de###livered a speech which deserves to be recorded. He 
 said — " There has been much tall talk but little action 
 regarding social reform, with the result that even those 
-reforms, the vital need of which has been generally ad- 
-mitted have not been carried out into practice. We 
+reforms, the vital need of which has been generally ad###mitted have not been carried out into practice. We 
 must not only see what reforms are required, but also 
 whether and how far they are practicable and how 
 they can be made popular ; for in reforming society, 
 care ought to be taken to avoid the creation of any 
-gulf between the people on the one hand and the refor- 
-mers on the other. We must always carry public opi- 
-nion with us ; and this can be done, inter alia, by secur- 
-ing for our reforms the sanction of religion. I am in 
+gulf between the people on the one hand and the refor###mers on the other. We must always carry public opi###nion with us ; and this can be done, inter alia, by secur###ing for our reforms the sanction of religion. I am in 
 favour of Social Reform." He then discussed his 8 
 points and wound up by saying that modifications 
 might here and there be made in his scheme and then 
@@ -362,17 +319,13 @@ religious leaders for support, (2) Those who wanted ta
 avail themselves of caste-unions, (3) Those who were 
 willing to accept legislation for themselves and (4) 
 Those w*ho wanted legislation applicable to all. He 
-concluded by saying that as Mr. Tilak had fairly ad- 
-vanced up to the third stage, there was very little- 
-difference between himself and Mr. Tilak. 
+concluded by saying that as Mr. Tilak had fairly ad###vanced up to the third stage, there was very little###difference between himself and Mr. Tilak. 
 
 What, then, was the difference between the school of 
-thought represented by Mr. Ranade and that represent- 
-ed by Mr. Tilak ? For difference — vital difference — 
+thought represented by Mr. Ranade and that represent###ed by Mr. Tilak ? For difference — vital difference — 
 there was, in spite of Mr. Ranade's attempt to 
 emphasise the points of agreement. The difference 
-was this that while Ranade was prepared, if con- 
-venient, to coquette with religious sanction to 
+was this that while Ranade was prepared, if con###venient, to coquette with religious sanction to 
 social reform, Mr. Tilak insisted that there should 
 be no divorce between the two. The former wanted 
 to utilise, for the propagation of his ideas, the 
@@ -385,11 +338,9 @@ tering a due sense of pride in and respect for the social
 and religious institutions of the people. The former 
 depended solely on Western influence and thought; 
 Mr. Tilak was for the blending of the old culture and the 
-new. The former welcomed State-interference in mat- 
-ters social, the latter strongly resented it for the simple 
+new. The former welcomed State-interference in mat###ters social, the latter strongly resented it for the simple 
 reason that reform to be durable must be a growth from 
-within. Differing thus in their outlook, it is not sur- 
-prising that while Ranade was prepared to associate 
+within. Differing thus in their outlook, it is not sur###prising that while Ranade was prepared to associate 
 and work with wild and reckless people, people who^ 
 
 
@@ -404,21 +355,15 @@ and was for the above reason compelled to adopt
 first an attitude of constructive opposition and then 
 of neutrality. No ' petti-fogging motives of policy/ 
 no consideration of winning cheap popularity by 
-' pandering to public prejudices ' determined his atti- 
-tude. 
+' pandering to public prejudices ' determined his atti###tude. 
 
 Looking back at the controversy from a distance of 
 30 years, what, after all has been the net result of this 
-much-debated measure ? Under the combined influ- 
-ence of increasing education and economic conditions 
+much-debated measure ? Under the combined influ###ence of increasing education and economic conditions 
 and not certainly as a result of the passing of the Bill, 
-the age of marriage has gone up, making the law practi- 
-cally a dead letter. Only bitter feelings have been 
-created, feelings which have widened the gulf be- 
-tween the Orthodox and the Reformers and frus- 
-trated Mr. Tilak's attempts to bring about a 
-social Reform that would not run counter to the reli- 
-gious and patriotic susceptibilities of the people. It 
+the age of marriage has gone up, making the law practi###cally a dead letter. Only bitter feelings have been 
+created, feelings which have widened the gulf be###tween the Orthodox and the Reformers and frus###trated Mr. Tilak's attempts to bring about a 
+social Reform that would not run counter to the reli###gious and patriotic susceptibilities of the people. It 
 is with pain that one recalls the rowdy scenes that 
 unfortunately marred a meeting convened by the 
 Reformers at the Kreeda Bhuwan (25th Feb. 1891). 
@@ -439,10 +384,7 @@ acquitted by the Magistrate. (23rd Mar. 1891).
 
 While the ashes of the * Age of Consent ' controversy 
 were still hot, another episode, still less important 
-widened the breach between Mr. Tilak and the Refor- 
-mers. Mrs. Ramabai — that enterprising Indian Chris- 
-tian lady — had, by her untiring efforts in America, col- 
-lected funds for the establishment of a Resident School 
+widened the breach between Mr. Tilak and the Refor###mers. Mrs. Ramabai — that enterprising Indian Chris###tian lady — had, by her untiring efforts in America, col###lected funds for the establishment of a Resident School 
 for Indian girls, especially widows. Mr. Tilak, did not 
 at all approve of the idea of a school for Indian girls 
 managed by a Christian lady ; but knowing full well 
@@ -453,14 +395,11 @@ after satisfying himself that only secular education
 would be imparted in the school. When, however, he 
 read in the Illustrated Christian Weekly of New York 
 (21st Dec. 1889) ^^^^ there were about four students 
-in the school studying Christianity or attending Chris- 
-tian prayers in a Church, he indignantly asked what 
+in the school studying Christianity or attending Chris###tian prayers in a Church, he indignantly asked what 
 became of Mrs. Ramabai's pledge that the school 
 would strictly remain secular in its character. 
-Mrs. Ramabai protested and explained the circum- 
-stances under which her four students were receiving 
-Christian training. The Advisory Committee consist- 
-ing of men like Mr. Ranade and Dr. Bhandarkar 
+Mrs. Ramabai protested and explained the circum###stances under which her four students were receiving 
+Christian training. The Advisory Committee consist###ing of men like Mr. Ranade and Dr. Bhandarkar 
 took Mrs. Ramabai to task and asked her to 
 confine herself to secular education. Mrs. Ramabai 
 had to yield for a time. But she soon 
@@ -490,21 +429,16 @@ day. The taunting and violent way in which papers
 like the Subodh Patrika and Agarkar's Sudharak fell foul 
 of Mr. Tilak is the more remarkable when we remember 
 how they must have realised their double game. Why 
-should they all have clung up to Mrs. Ramabai, so un- 
-reasonably, so fanatically ? Could they not have 
-started an institution of their own, under some trust- 
-worthy management ? Did they think that female 
-education, even attended with grave risks of conver- 
-sion to Christianity was so necessary ? Apparently 
-they did not, for on Aug. 13th, 1893, they publicly dis- 
-owned all connection with the institution because it was 
+should they all have clung up to Mrs. Ramabai, so un###reasonably, so fanatically ? Could they not have 
+started an institution of their own, under some trust###worthy management ? Did they think that female 
+education, even attended with grave risks of conver###sion to Christianity was so necessary ? Apparently 
+they did not, for on Aug. 13th, 1893, they publicly dis###owned all connection with the institution because it was 
 ^'conducted as an avowedly proselytizing institution"*. 
 They admitted that " during the past year or so, Pandita 
 Ramabai departed from the lines of strict neutrality "; 
 In trying, therefore to screen Pandita Ramabai from the 
 
-* The Sharada Sudan is now avowedly a Missionary institu- 
-tion, located at Kedgaon near Poona. 
+* The Sharada Sudan is now avowedly a Missionary institu###tion, located at Kedgaon near Poona. 
 
 
 
@@ -517,8 +451,7 @@ still wider.
 
 The same fateful year (1890) which witnessed the 
 origin of the Age of Consent controversy and the 
-SJiarada-Sadana episode was marked by the com- 
-mencement of a dispute still more ridiculous — a 
+SJiarada-Sadana episode was marked by the com###mencement of a dispute still more ridiculous — a 
 veritable storm in a tea cup. The responsibihty of 
 this dispute rests not with the Reformers but with 
 the Orthodox party at Foona, the fanatical and 
@@ -528,21 +461,15 @@ having taken tea (Oct. 4th 1S90), at the residence of a
 Missionary with the deliberate object of breaking caste 
 and in the following two years (1891-92) this suit of 
 the Orthodox party against these 42 gentlemen in the 
-Court of Shree Shankaracharya was the principle sub- 
-ject of heated public controversy. The Reformers con- 
-gratulated themselves on having an ally in Mr. Trlak 
+Court of Shree Shankaracharya was the principle sub###ject of heated public controversy. The Reformers con###gratulated themselves on having an ally in Mr. Trlak 
 whose resourceful Sanskrit scholarship stood them in 
-good stead and helped them in getting very light punish- 
-ment from the religious tribunal. It is noteworthy that 
+good stead and helped them in getting very light punish###ment from the religious tribunal. It is noteworthy that 
 Ranade thought it in no way humiliating to submit to 
 the decision of the Court and for this conduct he was 
-severely criticised by both the Orthodox and the Re- 
-form parties (the latter included some of his own ardent 
-followers). Mr. Tilak justified the taking of Pray ash- 
-chitia, and said that in such matters it is the duty of us 
+severely criticised by both the Orthodox and the Re###form parties (the latter included some of his own ardent 
+followers). Mr. Tilak justified the taking of Pray ash###chitia, and said that in such matters it is the duty of us 
 all to be actuated by a spirit of compromise. He said 
-** There is considerable resemblance between our diffi- 
-culties in the Political field and those in the Social one J 
+** There is considerable resemblance between our diffi###culties in the Political field and those in the Social one J 
 
 
 
@@ -551,28 +478,22 @@ TILAK AND SOCIAL REFORM 59
 neither the political asdministration nor the structure 
 of our society completely satisfies us. We want to 
 reform both. The English administration as well as 
-the Indian society have solid foundations; we are, there- 
-fore, bound to proceed with caution. Now, if people 
+the Indian society have solid foundations; we are, there###fore, bound to proceed with caution. Now, if people 
 are willing to accept Political Reforms in a spirit of 
 conciliation and compromise we fail to understand why 
 we should like to proceed with Social Reform in an 
 arrogant and defiant manner. If we are prepared to 
 make compromise when the Parliament passes the 
-Council's Act, 1892, why should we not do so with res- 
-pect to questions likes widow-remarriage ? Fanatical 
+Council's Act, 1892, why should we not do so with res###pect to questions likes widow-remarriage ? Fanatical 
 opposition might occassionally be successful, but as a 
 rule, in political as well as social matters, fanaticism is 
 suicidal " {Kesari 7th June 1892). 
 
 It will be news to this generation, accustomed to take 
 for granted Mr. Tilak's hostility or indifference to Social 
-Reform, that not only did he attend Social Confer- 
-ences but also took active part in the proceedings. In 
+Reform, that not only did he attend Social Confer###ences but also took active part in the proceedings. In 
 the 4th Social Conference, held at Calcutta, (Dec. 1890), 
-Mr. Tilak moved an amendment to a Resolution pro- 
-posed by the late Mr. R. N, Mudholkar. The resolu- 
-tion condemned child-marriages and advocated adult- 
-marriages. Mr. Tilak, who whole-heartedly supported 
+Mr. Tilak moved an amendment to a Resolution pro###posed by the late Mr. R. N, Mudholkar. The resolu###tion condemned child-marriages and advocated adult###marriages. Mr. Tilak, who whole-heartedly supported 
 the proposition wanted to delete an incorrect reference 
 to the Shastras. In the Social Conference of 1891, held 
 at Nagpur, Mr. Tilak suggested a bold amendment to 
@@ -586,10 +507,8 @@ remarriages would not do. These who sympathised
 
 -60 LOKAMANYA TILAK 
 
-with the cause ought to show their sympathy by attend- 
-ing not only the marriage-ceremony but the marriage 
-feasts also. But the diplomatic leaders of the Confer- 
-ence, the professions of some of whom considerably 
+with the cause ought to show their sympathy by attend###ing not only the marriage-ceremony but the marriage 
+feasts also. But the diplomatic leaders of the Confer###ence, the professions of some of whom considerably 
 differed from practice, wriggled themselves out of the 
 difficulty, by adding the words " so far as possible " to 
 " help the movement ." To the resolution advocating 
@@ -599,26 +518,19 @@ supported by Pandit Mad an Mohan Malaviya.
 
 In 1889, the Social Reform leaders issued a circular 
 together with printed copies of pledges which persons 
-who believed in Social Reform had to sign. The cir- 
-cular expressly declared that the idea of resort to legis- 
-lation, in matters social, was definitely given up. So 
+who believed in Social Reform had to sign. The cir###cular expressly declared that the idea of resort to legis###lation, in matters social, was definitely given up. So 
 Mr. Tilak gladly associated himself with this movement 
 led by Ranade and other leading Reformers of the 
 Bombay Presidency. But when the Government, 
 showed their willingness to introduce the " Age of 
 Consent Bill ", the leaders of Social Reform did not 
 hesitate to go back on their pledged word. The Social 
-Conference of 1889 decided — altogether without con- 
-sulting the signatories to the pledge — that the pledge 
-bound not themselves alone but their children and exe- 
-cutors as well ! ! ! Mr. Tilak was utterly disgusted 
+Conference of 1889 decided — altogether without con###sulting the signatories to the pledge — that the pledge 
+bound not themselves alone but their children and exe###cutors as well ! ! ! Mr. Tilak was utterly disgusted 
 with such ridiculous resolutions. He admitted that the 
 disfigurement of widow was unjustifiable but he had 
-nothing but contempt and ridicule for those who seri- 
-ously brought forward a resolution in the Conference 
-requesting Government to make penal the disfigure- 
-ment of widows. Such childish, perverse and un- 
-reasonable conduct was in his opinion extremely 
+nothing but contempt and ridicule for those who seri###ously brought forward a resolution in the Conference 
+requesting Government to make penal the disfigure###ment of widows. Such childish, perverse and un###reasonable conduct was in his opinion extremely 
 
 
 
@@ -653,8 +565,7 @@ atmosphere of political serfdom, there are countless
 things that make us conscious of our weakness. What 
 we want is self-confidence ; and all reform that tends 
 to make the nation more conscious of its shortcomings 
-than of its strength, is not only undesirable but is posi- 
-tively mischievous. 
+than of its strength, is not only undesirable but is posi###tively mischievous. 
 
 It will thus be seen there was something more than 
 
@@ -664,18 +575,15 @@ It will thus be seen there was something more than
 
 mere Opportunism behind Mr. Tilak's attitude towards 
 Social Reform nearly 30 years ago. It has been said 
-that since his return from Mandalay he showed a broad- 
-er outlook and he did not hesitate to assimilate " the 
+that since his return from Mandalay he showed a broad###er outlook and he did not hesitate to assimilate " the 
 more Catholic tendencies " of the time. But a careful 
 perusal of the preceding pages will show that, even in 
 his younger days, Mr. Tiiak was a Social Reformer. 
 His declaration of sympathy with the depressed classes, 
 made on the eve of his departure to England was much 
 appreciated. Here again Mr. Tilak's ideas about the 
-best v/ay of effecting reform prevented him from sign- 
-ing the manifesto which pledged the signatories to take 
-every opportunity of breaking the bonds of untoucha- 
-bility. Mr. Tilak was no believer in violent Social 
+best v/ay of effecting reform prevented him from sign###ing the manifesto which pledged the signatories to take 
+every opportunity of breaking the bonds of untoucha###bility. Mr. Tilak was no believer in violent Social 
 Reform. Regarding the Patel-marriage-Bill, though 
 he was in favour of some such legislation, he 
 believed the Bill to be untimely and against the basic 
@@ -686,14 +594,12 @@ the new Councils. In his youth, parasitical Social
 Reform was blended with lukewarm political spirit. 
 Mr. Tilak gave a rub to both and became, in spite of an 
 unpleasant episode the leader of the Orthodox Party 
-in social as well as political matters. He lived, how- 
-ever to claim amongst his followers, persons of all castes 
+in social as well as political matters. He lived, how###ever to claim amongst his followers, persons of all castes 
 and creeds, the Orthodox and the Reformers. The 
 silent force of modern conditions has wrought a mighty 
 revolution in the Social ideas of the people in spite of 
 the fact that there has been no propaganda worth the 
-name. All have moved with it ; Tilak and Chanda- 
-varkar, the bigots of the Orthodox Party and the fire- 
+name. All have moved with it ; Tilak and Chanda###varkar, the bigots of the Orthodox Party and the fire- 
 
 
 
@@ -703,18 +609,15 @@ eaters amongst Social Reformers. To-day's Social
 Reformer speaks quite a different language from that 
 of Ranade and others. And the venerable Shastris 
 and Pandits of the present time sanction things that 
-would have shocked their own susceptibilities a gene- 
-ration ago. The evolution of Mr. Tilak's religious 
+would have shocked their own susceptibilities a gene###ration ago. The evolution of Mr. Tilak's religious 
 views, so bold and original — lies recorded in the pages 
 of the Gita-Rahasya ; but the cruel hand of death has 
 for ever prevented us from having an actual knowledge 
 of the evolution of his ideas about the Hindu Society 
-and the ways and means he had devised for its improve- 
-ment. ' Ditcher ' in the Capital (7th August 1920) 
+and the ways and means he had devised for its improve###ment. ' Ditcher ' in the Capital (7th August 1920) 
 remarks most thoughtfully; — 
 
-" There were epochs of thought in his personal bio- 
-graphy ; and I think that in the zenith of his power, the 
+" There were epochs of thought in his personal bio###graphy ; and I think that in the zenith of his power, the 
 fervour of his Hindu particularism began to cool and 
 blend with the more CathoUc tendencies of his time and 
 conutry." 

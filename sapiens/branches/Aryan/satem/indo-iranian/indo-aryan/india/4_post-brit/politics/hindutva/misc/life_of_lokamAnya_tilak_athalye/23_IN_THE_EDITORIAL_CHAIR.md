@@ -38,23 +38,19 @@ The Kesari, as the name indicates, stands for manli-
 326 LOKAMANYA TILAK 
 
 ness, strength. During all its vicissitudes, courage has 
-never failed it. Its wisdom has been occasionally chal- 
-lenged, its tact or fairplay. But not even the worst 
+never failed it. Its wisdom has been occasionally chal###lenged, its tact or fairplay. But not even the worst 
 enmies have whispered cowardice to its discredit. 
 
 During his life-time, Mr. Tilak conducted the Kesari 
 nominally as a proprietory concern. In the evening of 
 his life, he intended to put it on a democratic basis. 
-It was only latteriy that the Kesari was a financial suc- 
-cess. During the first lo years of his ownership of the 
+It was only latteriy that the Kesari was a financial suc###cess. During the first lo years of his ownership of the 
 paper, it was burdened with a heavy debt. During the 
 last six years ctgain the extraordinary rise in the cost of 
 paper did not make it quite a profitable concern, and in 
 spite of the increase in the subscription rates, Mr. Tilak 
-had to succour the paper from the profits of the Gita- 
-Rahasya. Then there was the terrible expenditure of 
-the long- drawn Tai Maharaj case, which had to be pro- 
-vided for. In spite of all these difficulties, Mr. Tilak 
+had to succour the paper from the profits of the Gita###Rahasya. Then there was the terrible expenditure of 
+the long- drawn Tai Maharaj case, which had to be pro###vided for. In spite of all these difficulties, Mr. Tilak 
 had unreservedly placed the cash-box of the Kesari at 
 the entire disposal of the national propaganda. He 
 spent hundreds and thousands for the national work, 
@@ -83,8 +79,7 @@ Mr. Tilak and the Kesari were convertible terms.
 Their careers have been synonmous with the history of 
 Maharashtra during the last 30 years. It has been a 
 period of storm and stress. It has witnessed a vast 
-transformation and has been the era of action and re- 
-action — ^political and social. Through rocks and shoals, 
+transformation and has been the era of action and re###action — ^political and social. Through rocks and shoals, 
 Mr. Tilak steered the Kc^sari, not caring for favour, nor 
 afraid of frown, with a grim S3nse of duty . He was 
 always bold but uniformly wary. His is one long 
@@ -95,9 +90,7 @@ very nose of the Bureaucracy, proving impregnable even
 under shells of repression. Truly, it has become a 
 national asset. 
 
-The style of Mr. Tilak's Kesari was, like the physio- 
-gnomy of its illustrious editor, plain, blunt, and aggres- 
-sive. It was " reason fused and made red-hot with 
+The style of Mr. Tilak's Kesari was, like the physio###gnomy of its illustrious editor, plain, blunt, and aggres###sive. It was " reason fused and made red-hot with 
 passion." It despised mere literary garnish and was the 
 very negation of the soft suppleness of an intellectual 
 epicurean. It had nothing of the flowing humour of Mr. 
@@ -118,22 +111,18 @@ bold articles had created (1899) quite a panic in Congress circles.
 328 [lokamanya tilak 
 
 or an academy, not of a music-hall or a ball-room, but 
-of the battle-field. Straight, pointed, Mr. Tilak's writ- 
-ten words, arrow-like whistled through the air and hit 
+of the battle-field. Straight, pointed, Mr. Tilak's writ###ten words, arrow-like whistled through the air and hit 
 the mark. They struck terror into the hearts of those 
 who opposed him. The flunkeys, the Government 
 minions and the busy nobodies were as mortally afraid 
 of them as were the Reformers, the Moderates or the 
 Liberals. Even the powerful Bureaucracy, protected by 
 the prestige of the British Empire and the swords and 
-guns of two hundred thousand soldiers, feared his at- 
-tacks. Mr. Tilak has been frequently blamed for his 
+guns of two hundred thousand soldiers, feared his at###tacks. Mr. Tilak has been frequently blamed for his 
 strong language. We should, however, remember that 
-he was the centre of acute political and social contro- 
-versies extending over one generation. He could not 
+he was the centre of acute political and social contro###versies extending over one generation. He could not 
 be expected to rouse the masses to a sense of self-respect, 
-self-reliance, and self-confidence except by pointed lan- 
-guage. He, however, never hit below the belt. His 
+self-reliance, and self-confidence except by pointed lan###guage. He, however, never hit below the belt. His 
 criticism was impetuous but never vulgar, mean or 
 vindictive. It bore ' no spots which all the perfumes 
 of Arabia could not sweeten." 
@@ -141,8 +130,7 @@ of Arabia could not sweeten."
 His instructions to his assistants reveal the secret of 
 his direct but homely style. " Imagine that you are 
 speaking to a villager and not writing for University 
-people. No Sanskrit words please. Avoid quoting sta- 
-tistics. Don't scare away the reader by quoting figures. 
+people. No Sanskrit words please. Avoid quoting sta###tistics. Don't scare away the reader by quoting figures. 
 Keep them to yourself. Let your style be simple and 
 homely. It should be as clear as day-light. The 
 meaning must never be obscure." 
@@ -169,28 +157,23 @@ treat and would repay a careful perusal even to-day.
 
 But Mr. Tilak soon realised that it is not seed, lavishly 
 sown that bears fruit, but the seed that is carefully put 
-under the earth. This made him take into consider- 
-ation the intellectual level of his readers. He put him- 
-self the question " Whom do I write for ?" and it was 
+under the earth. This made him take into consider###ation the intellectual level of his readers. He put him###self the question " Whom do I write for ?" and it was 
 got long before he gave himself the correct answer. 
 uince then, his writings and speeches tended more and 
 more to simplicity, without losing an iota of vigour. 
 
-The equipment which he brought to bear on his edi- 
-torial work was indeed, extremely rare, not only in 
+The equipment which he brought to bear on his edi###torial work was indeed, extremely rare, not only in 
 this country but in any other. Possessed of a profound 
 knowledge of the law, he did not care what restrictions the 
 Government put on the freedom of the Press. He was 
 prepared, he used to say, to convey his message under 
-any rigours imposed by the law. Only the Bureau- 
-cracy must adhere to the compact and must not shuffle 
+any rigours imposed by the law. Only the Bureau###cracy must adhere to the compact and must not shuffle 
 its position again and again and try to seek new meaning 
 into the definition of sedition every time, by straining 
 its words and distorting their import and significance. 
 
 His complete mastery over the Sanskrit language and 
-literature, Vedic and post-Vedic, classical and philoso- 
-phical, enabled him not only to form a style at once simple 
+literature, Vedic and post-Vedic, classical and philoso###phical, enabled him not only to form a style at once simple 
 
 
 
@@ -212,8 +195,7 @@ to speak, in the melting pot and the changes that are
 to be introduced must suit the basic ideas of our society. 
 Mr. Tilak believed in what may be termed, " Indian 
 Sociology " as Mr. Ranade did in " Indian Economics." 
-His attitude towards Social Reform was largely deter- 
-mined by sociological considerations. Others had seen 
+His attitude towards Social Reform was largely deter###mined by sociological considerations. Others had seen 
 only the crust that lies on the Indian civilisation 
 and had pronounced it to be worthless. Mr. Tilak 
 had gone deeper and had learnt how precious our 
@@ -242,8 +224,7 @@ hold over its readers, which has hardly a parallel.
 
 Possessed of a wonderful memory, Mr. Tilak never 
 cared to cultivate those methods by which many a 
-newspaper writer tries to lessen the burden on his memo- 
-ry. Mr. Tilak never kept notes nor topic-books. What 
+newspaper writer tries to lessen the burden on his memo###ry. Mr. Tilak never kept notes nor topic-books. What 
 he read, he remembered. What he remembered was 
 alwaj^ ready at his beck and call. Quotations, extracts, 
 references — everything was ready at a moment's 
@@ -252,17 +233,14 @@ the Kesari, his amanuensis could, with very great
 difficulty, keep pace with him. But though Mr. Tilak 
 was a rapid reader and a rapid writer, he was a very 
 careful student. Before commencing to dictate, he 
-carefully studied the question in all its bearing, ransack- 
-ed all the available literature on the subject and then 
+carefully studied the question in all its bearing, ransack###ed all the available literature on the subject and then 
 considered himself ready for the task. Thoroughness 
 was the secret of his success. 
 
 As the political life of the people is developing, it has 
 been found necessary to supply suitable equivalents for 
-English political terminology. Such v/ords as, Respon- 
-sible Government, Imperial Federation, Passive Resis« 
-tance, despotism. Limited Monarchy, Budget, Decentra- 
-lization, do not easily lend themselves to translation. 
+English political terminology. Such v/ords as, Respon###sible Government, Imperial Federation, Passive Resis« 
+tance, despotism. Limited Monarchy, Budget, Decentra###lization, do not easily lend themselves to translation. 
 The brunt of the work of coining suitable Marathi 
 words congenial to the genius of the language, had 
 mainly fallen on Mr. Tilak, and it was very interesting 
@@ -287,8 +265,7 @@ tusk, strong enough to bear the load of heavy timber,
 was also capable of lifting up a pin. His genius was 
 .at once comprehensive and subtle. 
 
-The expression " old wine in new bottles '* is gene- 
-rally an empty compliment. Mr. Tilak's discussion of 
+The expression " old wine in new bottles '* is gene###rally an empty compliment. Mr. Tilak's discussion of 
 abstruse political theories, however, never struck his 
 readers as something outlandish, something developed 
 and prepared thousands of miles away and thence 
@@ -314,8 +291,7 @@ imparts it at compound interest. Mr. Tilak bore this
 
 IN THE EDITORIAL CHAIR 333. 
 
-truth in mind while conducting the Kesari. He con- 
-centrated all his energies on the work of national 
+truth in mind while conducting the Kesari. He con###centrated all his energies on the work of national 
 awakening. Whatever helped that work found a place 
 in the Kesari ; otherwise it was shunned, though the 
 very best. People went to the Kesari, not to get news, 
@@ -341,10 +317,8 @@ not directly concerned with that issue. It has set an
 example of devotion, of sacrifice, of plain speaking and 
 of courage. It has taught them to keep their heads 
 cool in storms and rear them again after the hurricane 
-spent its force. It has been the centre of political edu- 
-cation, the source of political agitation, and the pivot 
+spent its force. It has been the centre of political edu###cation, the source of political agitation, and the pivot 
 of aU national organization, in Western India. As one 
-speaker aptly put it, it has transformed the Maharash- 
-tra of 1890 to what it is in 192 1. 
+speaker aptly put it, it has transformed the Maharash###tra of 1890 to what it is in 192 1. 
 
 

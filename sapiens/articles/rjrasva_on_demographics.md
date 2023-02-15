@@ -84,7 +84,11 @@ Abortion prevention won't raise TFR much (see Abkhazia's ban results). To work u
 > By far, the most important restraint for Hezbollah is that small families are reluctant to sacrifice what is all too often their only son. We know this from Israeli data. Every year, the IDF identifies the high schools with the highest percentages of male graduates that volunteer in fighting units... common denominator is these high schools is that these recruits come from larger families than from secular schools.
 
 #### Iran
-TFR down to 1.6 from close to 1.7 in 2021, doubt all these measures will do anything. Iranian mullahs encouraged baby boom during war with Iraq for future cannon fodder & later encouraged family planning as they realized they couldn't create jobs for the explosive pop growth. E. g. of how even Abrahamic kooks who think "God will provide" r forced to conform to the reality of a finite planet when shit hits the fan.
+TFR down to 1.6 from close to 1.7 in 2021, doubt all these measures will do anything. 
+
+80s under the pressure of the Iran-Iraq war, the initial rhetoric of the Islamic Republic was pronatalist. Ayatollah Khomeini called for e a “20 million man army”. Iranian mullahs encouraged baby boom during war with Iraq for future cannon fodder & later encouraged family planning as they realized they couldn't create jobs for the explosive pop growth. E. g. of how even Abrahamic kooks who think "God will provide" are forced to conform to the reality of a finite planet when shit hits the fan.
+
+Ahmadinejad pilloried family planning as a Western conspiracy and in 2010 he rolled out a program of lavish subsidies for large Iranian families. Ayatollah Ali Khamenei now denounced his governments’ previous population control measures as a “mistake.”
 
 ### Israel
 - In Israel, an only child who wishes to join a combat unit must obtain parental consent. Ironically, many Force 100 soldiers are only children whose parents objected to them performing combat service. In some of those cases, a decision to revoke permission for an only child meant that a soldier’s entire unit had to leave the Gaza.

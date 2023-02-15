@@ -33,9 +33,7 @@ wound in Mr. Tilak's mind ; for its patriotism was
 not outlandish, based merely on the perusal of the 
 works of Mill and Bright. It was essentially Indian, 
 and was directly derived from a contemplation of 
-the great and heroic deeds of Shivaji and his descend- 
-ants. The Maratha History of the 17th and 18th Centu- 
-ries formed the Bible of his patriotism and his blood 
+the great and heroic deeds of Shivaji and his descend###ants. The Maratha History of the 17th and 18th Centu###ries formed the Bible of his patriotism and his blood 
 was aflame when he reflected on the utter impotence 
 to which the representatives of the Empire-builders 
 of the 1 8th century were reduced. 
@@ -48,8 +46,7 @@ Wasudeo Balvant Phadke, a clerk in Government
 employ. The enthusiasm of these people far exceeded 
 their limitations. They had neither birth nor fortune 
 to impress the imagination of the public. Wasudeo 
-Balvant scarcely took note of the practical disappear- 
-ance of the martial instincts of the race, the apathy 
+Balvant scarcely took note of the practical disappear###ance of the martial instincts of the race, the apathy 
 and ignorance of the masses, the denationalisation of 
 the classes, the sloth of the degenerate descendants of 
 the old aristocracy.+++(4)+++ His attempts were doomed to 
@@ -62,9 +59,7 @@ essay on Shivaji, that deprived him temporarily of
 his fellowship in the Elphinstone College, did not 
 escape suspicion. The impression of the two upheavels of 1857 and 1876 on the mind of Mr. Tilak 
 was in inverse proportion to their magnitude and 
-importance. The former was an incident which hap- 
-pened when he was quite a baby and so the impres- 
-sion which he formed concerning it in his boyhood 
+importance. The former was an incident which hap###pened when he was quite a baby and so the impres###sion which he formed concerning it in his boyhood 
 was necessarily hazy. In the case of the latter, our 
 hero was a full-fledged gentleman, well-armed and 
 equipped with knowledge and reason. He saw how 
@@ -74,8 +69,7 @@ dated his horror of bloody revolutions. He clearly
 saw that if Indians had to fight with Anglo-Indian 
 despots, it could only be, not with sword and gun, 
 but with pen and tongue. He saw that the secret of 
-the English power in India lay in their superior edu- 
-cation and organisation, and that we could wrest that 
+the English power in India lay in their superior edu###cation and organisation, and that we could wrest that 
 power only by meeting the English on their own 
 ground. The collection of a few fire-arms and the 
 slaughter of a handful of of&cials would not shake 
@@ -93,12 +87,10 @@ his was impressed with Mr. Tilak's concern for the
 poor. It was here, in this terrible famine of 1877-8, 
 that his sympathy for the poor was roused. To add 
 insult to injury, the advisers of Queen Victoria the 
-Good induced her to assume the title of ** Kaiser- 
-i-Hind " in this very year of famine and starvation. 
+Good induced her to assume the title of ** Kaiser###i-Hind " in this very year of famine and starvation. 
 
 The impressions of these events were strengthened by 
-the companionship of a congenial friend and the mes- 
-sage of an inspiring leader. Since 1874, the young men 
+the companionship of a congenial friend and the mes###sage of an inspiring leader. Since 1874, the young men 
 of Maharashtra were watching with passionate enthusiasm the appearance of a luminary in the literary 
 firmament of Poona. This luminary was no other 
 than the illustrious Vishnushastri Chiploonkar, son 
@@ -112,8 +104,7 @@ when, after passing the Matriculation he joined the
 Deccan College, he could carry thither a correctness of 
 taste and a depth and variety of knowledge which 
 many graduates could not claim. While many of his 
-fellow-students were abusing the liberty of college- 
-life and the liberality of their parents in a variey of 
+fellow-students were abusing the liberty of college###life and the liberality of their parents in a variey of 
 ways, the excesses of Vishnu were merely intellectual 
 and amounted to nothing more than a passionate 
 study of history and literature, to the neglect of 
@@ -145,8 +136,7 @@ called upon the rising generation to make sacrifices ;
 and he himself led the way by " snapping asunder 
 (1879) the chain (of service) once and for ever " and 
 resolved " to try what might be done for public good 
-with the potent instrumentality of a press establish- 
-ment worked by a vigorous hand."* 
+with the potent instrumentality of a press establish###ment worked by a vigorous hand."* 
 
 The example and message of Vishnushastri had 
 undoubtedly a stimulating effect upon Mr. Tilak. They 
@@ -203,8 +193,7 @@ should not prevent both from co-operating with each
 other with respect to the main part of the 
 programme which was education in the widest 
 sense of the term.+++(4)+++ To cover the Presidency with a 
-network of schools was only a part of their aspira- 
-tions. They wanted to do something more ; they 
+network of schools was only a part of their aspira###tions. They wanted to do something more ; they 
 wanted to educate the masses by imparting to them 
 democratic ideas and enlightening them on the 
 true state of the country. The birth of the New 
@@ -235,15 +224,13 @@ very good post in the Educational Department. But
 such is the rigidity of red-tape, that he was offered the 
 modest post of an assistant master in an Anglo-Vernacular school. When the founders of the New English 
 School heard this, they at once approached Mr. Apte 
-and secured his services for the school as its Superin- 
-tendent. The choice was most appropriate. Mr. Apte 
+and secured his services for the school as its Superin###tendent. The choice was most appropriate. Mr. Apte 
 fully justified his selection for the post by the diligent 
 and thorough manner in which he discharged his duties. 
 He had in him the school-master's instinct, which 
 taken at its best means a strict but temperate sense of 
 discipline, patience with ignorance, system in exposition, 
-attention to minute details and a readiness to plod un- 
-wearied through the dull monotony of school-life. 
+attention to minute details and a readiness to plod un###wearied through the dull monotony of school-life. 
 
 The Vernacular newspapers in Western India were, 
 in those days mostly conducted by political dilettanti 
@@ -254,11 +241,9 @@ the Dnyana-Prakash, the Native Opinion and the Subodh
 Patrika. These, out of the 77 newspapers conducted by 
 the " Natives " commanded some influence. At such a 
 time, therefore, the appearance of the Kesari (Marathi. 
-weekly) and of the Mahratta (English weekly), with self- 
-sacrificing and patriotic proprietors evoked the liveliest, 
+weekly) and of the Mahratta (English weekly), with self###sacrificing and patriotic proprietors evoked the liveliest, 
 appreciation in the mind of the public and considerable 
-uneasiness in the mind of the Government. The appre- 
-ciation of the public was shown by the rapid increase 
+uneasiness in the mind of the Government. The appre###ciation of the public was shown by the rapid increase 
 in the circulation of the Kesari — reaching nearly 4,350 
 within three years and the uneasiness of the Government stands mirrored in a remark in the Report (1882), 
 on the Native Press which characterized the "prevailing 
@@ -271,10 +256,7 @@ very young and had yet to form sound views on many
 of the social and religious questions of the day. The 
 editorial eloquence of Agarkar was still in its dawn ; 
 the exuberant rhetorical style of Vishnushastri felt 
-the limitations of a newspaper article ; nor do we any- 
-where find the "parthian shots" of Mr. Tilak, his inci- 
-sive logic and trenchant criticism. With all their- 
-faults, the news-papers — especially the Kesari — supplied 
+the limitations of a newspaper article ; nor do we any###where find the "parthian shots" of Mr. Tilak, his inci###sive logic and trenchant criticism. With all their###faults, the news-papers — especially the Kesari — supplied 
 the wants of their readers and were everywhere 
 praised with warmth and enthusiasm. 
 
@@ -293,8 +275,7 @@ tendencies. It was generally believed that this mental
 derangement was due to compulsory adminstration of 
 intoxicating drugs to the Prince. The author of this 
 mischief was supposed to be Rao Bahadur Barve, 
-State Karbhari, who, spurred by the Queen- 
-Dowager Sakawarbai, wanted to remove the Maharaja 
+State Karbhari, who, spurred by the Queen###Dowager Sakawarbai, wanted to remove the Maharaja 
 from the Gadi either by death or by proof of his lunacy 
 and to have a new youth adopted by the Dowager. 
 People, high and low believed in these rumours, and 
@@ -325,8 +306,7 @@ Bhide who having been refused a pleader's Sanad,
 had sought to wreck his vengeance by machinations 
 in and outside the State. A willing tool was found by 
 Nana Bhide in the natural mother of the Prince who 
-had a grievancs of her own against the Diwan. Find- 
-ing themselves impotent to do mischief in the State, 
+had a grievancs of her own against the Diwan. Find###ing themselves impotent to do mischief in the State, 
 these persons had gone over to Poena, caught the ear 
 of a credulous public and having approached the 
 inexperienced editors of the Kesari and the Mahratta, 
@@ -346,12 +326,10 @@ and eloquence of Bombay's rising leaders — the
 fiery Mehta and the sweet-tempered Telang. 
 
 The three letters, of course, formed the pivot of the 
-case. Were they genuine ? The State Karbhari as- 
-serted that they were not ; Nana Bhide till the last 
+case. Were they genuine ? The State Karbhari as###serted that they were not ; Nana Bhide till the last 
 persisted in holding that they were. Who could throw 
 light on the question ? Some witnesses from Kolhapur 
-were expected to solve the riddle. But, though sum- 
-moned they did no elect to appear. The High Court 
+were expected to solve the riddle. But, though sum###moned they did no elect to appear. The High Court 
 could not compel attendance ; for the witnesses were 
 beyond its jurisdiction. Neither the Political Agent 
 nor the Government of Bombay were willing to interfere as the case was a private one. The decision of 
@@ -361,8 +339,7 @@ Agarkar tendered a graceful apology. But the wrath
 of Barve was not to be so appeased. He pressed for 
 conviction ; and Tilak and Agarkar, though declared 
 "free from any suspicion of malvolence " were found 
-guilty of having " thoughtlessly published defama- 
-tory " articles and were sentenced (i6th july 1882) each 
+guilty of having " thoughtlessly published defama###tory " articles and were sentenced (i6th july 1882) each 
 to four months simple imprisonment. 
 
 The decision of the High Court caused no surprise, 
@@ -374,8 +351,7 @@ Being inmates of the same cell, they could compare
 notes, review their conduct, weigh men and things, 
 discuss future schemes and past mistakes. Such 
 discussions were often carried far into the night 
-and then the bugs and fleas of the dungeon were for- 
-gotten ; not so the warders' reprimands for having 
+and then the bugs and fleas of the dungeon were for###gotten ; not so the warders' reprimands for having 
 broken the stillness of the night by their loud and at 
 times heated conversation. In spite of such " lapses" 
 Tilak and Agarkar were on the whole fairly " well 
@@ -384,8 +360,7 @@ conduct." The disgusting nature of the gaol-diet
 told heavily on their health, Mr. Tilak losing as much 
 as 24 lbs. in weight. But they never complained , 
 Only one thing troubled them ; time hung heavily 
-upon them and they even envied those of their fellow- 
-prisoners who had been sentenced to rigorous imprisonment. Wearied of inaction, they sent in an application to the General Superintendent of gaols for 
+upon them and they even envied those of their fellow###prisoners who had been sentenced to rigorous imprisonment. Wearied of inaction, they sent in an application to the General Superintendent of gaols for 
 some sort of work and were glad to find that he was 
 kind enough to place books and writing materials 
 at their disposal. 
@@ -394,8 +369,7 @@ While Tilak and Agarkar were in gaol, a movement, headed by the late Principal W
 and the late Hon. Mr. Mandlik was started to petition 
 the Government to intervene and save these youths 
 from the rigours of prison-life. The appeal fell on 
-deaf ears. The Dinbandhu very properly said " In- 
-stead of applying to Government for the cancellation 
+deaf ears. The Dinbandhu very properly said " In###stead of applying to Government for the cancellation 
 of the punishment, let us show our regard for the 
 patriotic prisoners by giving them a right royal reception on their return." On October 26th 1882, 
 Tilak and Agarkar walked out of the portals of 
@@ -410,8 +384,7 @@ bravely and sincerely their duties. Soon after,
 Agarkar ceased to be a politician and confined his 
 attention only to Education and Social Reform. 
 Mr. Tilak, however, was privileged frequently to 
-enjoy the hospitality of His Majesty's gaols ; and un- 
-broken in his resolution, he pursued till the end his 
+enjoy the hospitality of His Majesty's gaols ; and un###broken in his resolution, he pursued till the end his 
 self-chosen work of National uplift. 
 
 We must not forget to mention that while the 

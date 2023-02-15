@@ -12,20 +12,16 @@ Elsewhere we have traced Mr. Tilak's connection
 with the Congress from 1889 down to the early 
 years of the present century. We have seen, how, 
 in the period of poUtical re-action, beginning 'with 
-1897, the Congress leaders showed their ** states- 
-manship," by scrupulously following a policy of 
-Moderation, which, very often meant inaction, timi- 
-dity or indifference to the National good. 
+1897, the Congress leaders showed their ** states###manship," by scrupulously following a policy of 
+Moderation, which, very often meant inaction, timi###dity or indifference to the National good. 
 Ever since his return (1899) ^^ public life after 
 one year's incarceration,Mr. Tilak had been fighting with 
 these tendencies in and out of the National Congress. 
 but what with his pre-occupations in the Tai Maharaj 
 Case, and what with the small following he had in the 
 Congress, he could not effectually raise his voice against 
-the policy of inertia and negation, which Sir Pheroze- 
-shah later came to glory in. From 1905, however all 
-this was changed. The wave of awakening in the coun- 
-try strengthened the nascent New Party and Mr. Tilak 
+the policy of inertia and negation, which Sir Pheroze###shah later came to glory in. From 1905, however all 
+this was changed. The wave of awakening in the coun###try strengthened the nascent New Party and Mr. Tilak 
 could get that amount of following in the Congress 
 which was required to put up a fair fight. This tended 
 to enUven the proceedings of the Congress and increase - 
@@ -42,29 +38,22 @@ be broken ; (2) the National sentiments must be
 more faithfully echoed in the Congress resolutions ; 
 (3) The Congress must no longer remain a holiday 
 gathering, but must work continuously and lead the 
-National agitations. This was a war between auto- 
-cracy and democracy, oldage and youth, apathy and 
+National agitations. This was a war between auto###cracy and democracy, oldage and youth, apathy and 
 enthusiasm, between timidity and courage. The old 
 generation tried to win the officials ; Mr. Tilak 
 sought to inspire and organize the people of the country. 
 At the Benares Congress (1905) Mr. Tilak got much, 
 though not all, that he wanted. Sir Pherozeshah, " the 
-Autocrat of the Congress " was absent ; and the Presi- 
-dent, Mr. Gokhale, had enthusiastically championed the 
-Bengalees' cause in England and had justified the in- 
-aguration of the Swadeshi Boycott movement in 
-speeches which came as a surprise to many of his fol- 
-lowers. In his Presidential address, he severely criti- 
-cized the Viceroyalty of Lord Curzon, compared it with 
+Autocrat of the Congress " was absent ; and the Presi###dent, Mr. Gokhale, had enthusiastically championed the 
+Bengalees' cause in England and had justified the in###aguration of the Swadeshi Boycott movement in 
+speeches which came as a surprise to many of his fol###lowers. In his Presidential address, he severely criti###cized the Viceroyalty of Lord Curzon, compared it with 
 the odious reign of Aurangzeb and spoke in favour of 
-Swadeshi and Boycott. Mr. Tilak wanted separate re- 
-solutions on Swadeshi and Boycott. The resolution, 
+Swadeshi and Boycott. Mr. Tilak wanted separate re###solutions on Swadeshi and Boycott. The resolution, 
 justifying the Boycott of British goods, as perhaps the 
 only constitutional and effective means left to the 
 Bengalees, was huddled up with the condemnation of 
 the repressive Policy of the Bureaucracy. Mr. Tilak 
-would have liked an independent resolution on the sub- 
-ject. He wanted the Boycott resolution to go one 
+would have liked an independent resolution on the sub###ject. He wanted the Boycott resolution to go one 
 step further and call upon the various Provinces of 
 
 
@@ -75,9 +64,7 @@ India to prove their sympathy for the Bengalees by
 adopting Boycott, but evidently, the Moderates were 
 not yet prepared to recommend Boycott for aU the 
 provinces. Mr. Tilak, however, was not discouraged* 
-The Congress, he said, had broken its tradition by sup- 
-porting the Boycott and he looked up to the next Con- 
-gress at Calcutta, to vigourously continue the work so 
+The Congress, he said, had broken its tradition by sup###porting the Boycott and he looked up to the next Con###gress at Calcutta, to vigourously continue the work so 
 substantially begun at Benares. 
 
 In June igo6, Mr. Tilak paid a visit to Calcutta on 
@@ -91,8 +78,7 @@ content merely with proposing Mr. Tilak's name. He
 carried on a regular campaign. The Moderates were 
 afraid. Sir Pherozeshah set racking his brains to avert 
 the " catastrophe." Babu Surendranath, evidently 
-smarting under the misrepresentations of the " crown- 
-ing " incident promised every possible help to the Lion 
+smarting under the misrepresentations of the " crown###ing " incident promised every possible help to the Lion 
 of Bombay. At last a master stroke was delivered A 
 cable was sent to Dadabhai Nooroji, the G. O. M. of 
 India ; it said that the Congress was in danger ; would 
@@ -111,12 +97,10 @@ reported to be in danger. At once he cabled back aa
 
 affirmative and the Moderates were delighted at having 
 out-witted the Extremists ; for it was clear that none 
-would like to contest the honour of the Congress Pre- 
-sidentship with Dadabhai Nooroji. 
+would like to contest the honour of the Congress Pre###sidentship with Dadabhai Nooroji. 
 
 But though the question of the Presidentship of the 
-Congress was thus settled to the satisfaction of the Mode- 
-rates, the larger question still remained. " Should the 
+Congress was thus settled to the satisfaction of the Mode###rates, the larger question still remained. " Should the 
 Policy of the Congress be changed ? " (The Hon.) Mr. 
 Khaparde, after full consultation with Mr. Tilak sent 
 a Circular letter to leading Congressmen as early as July 
@@ -138,8 +122,7 @@ Tilak said : — [Kesari nth December 1906).
 the Moderates think that we are easily disappointed and 
 lack grim determination, they are entirely mistaken. 
 We have lost faith, not in the ultimate result, but in 
-the dilatory activities of the Congress. To us, the hold- 
-ing of the Congress for three days in the year, the tepid 
+the dilatory activities of the Congress. To us, the hold###ing of the Congress for three days in the year, the tepid 
 work of the British Congress Committee and the 
 occasional sending of a deputation to England-— 
 seems quite an insufficient work. • Not that we 
@@ -155,18 +138,13 @@ Moderates think that these can be won by
 persuasion. We think they can only be got by strong 
 pressure. Will the Congress exert itself to apply this 
 pressure ? That is the point ; and if such a pressure is 
-to be applied, the Congress must leave this holiday cha- 
-racter and develop into an organisation working con- 
-tinuously and energetically." 
+to be applied, the Congress must leave this holiday cha###racter and develop into an organisation working con###tinuously and energetically." 
 
 All India anxiously awaited to see how the Calcutta 
-Congress would give its decision on this point. Anglo- 
-India wanted also to see whether the differences of opi- 
-nion between the Old and the New Parties would lead 
+Congress would give its decision on this point. Anglo###India wanted also to see whether the differences of opi###nion between the Old and the New Parties would lead 
 to open and permanent rupture. They wanted the 
 Extremists to be driven out of the Congress. But this 
-was an impossibility. In the first place, the Presiden- 
-tial Chair was occupied by the Angel of Peace. Besides, 
+was an impossibility. In the first place, the Presiden###tial Chair was occupied by the Angel of Peace. Besides, 
 Bengal was a strong-hold of the * Extremists ' and in 
 the Congress session the New Party commanded a 
 majority. The Presidential address was devoted to the 
@@ -186,15 +164,11 @@ was passed by the Subjects' Committee without any
 
 l6o LOKAMANYA TILAK 
 
-ado. The storm of discussion — hot and acrimonious — -- 
-centred round the Boycott and the Swadeshi resolu- 
-tions. At the Benares Congress, Boycott was accepted 
-as a political weapon but only incidentally, in the reso- 
-lution on the repressive policy of the Government. 
+ado. The storm of discussion — hot and acrimonious — -###centred round the Boycott and the Swadeshi resolu###tions. At the Benares Congress, Boycott was accepted 
+as a political weapon but only incidentally, in the reso###lution on the repressive policy of the Government. 
 This was merely a flank movement. Mr. Tilak was not 
 content with it. He wanted to make a frontal attack 
-and after a prolonged controversy and frequent passa- 
-ges at arms with Moderate leaders like Sir P. M. Mehta^ 
+and after a prolonged controversy and frequent passa###ges at arms with Moderate leaders like Sir P. M. Mehta^ 
 he wrung out the words " the Boycott movement was 
 and is legitimate." At the Benares Congress it was 
 only the " Boycott of British goods " that had received 
@@ -205,8 +179,7 @@ were given for the acceptance of Boycott. But
 at Calcutta, the mistake was rectified ; and the 
 preamble to the resolution specifically referred 
 to the fact that Indians had no share in the 
-administration and that their representations to Go- 
-vernment went unheeded. There was only one thing 
+administration and that their representations to Go###vernment went unheeded. There was only one thing 
 wanting in the resolution. The resolution approved of 
 the Boycott Movement as started in Bengal ; it did not 
 urge other provinces to follow suit. But Mr. Tilak 
@@ -225,21 +198,16 @@ defeated. Mr. Tilak demanded a poll, which was re-
 TILAK AND THE CONGRESS — II l6r 
 
 fused. As a protest, he had to leave the Subjects' 
-Committee accompanied, by nearly sixty members in- 
-cluding distinguished Nationalists like Mr. Pal and 
+Committee accompanied, by nearly sixty members in###cluding distinguished Nationalists like Mr. Pal and 
 Babu Ashwini Kumar Dutt. Mr. Tilak wanted to move 
 his amendment in the open Congress. Accordingly he 
-sent notice thereof to the President, who, at last reali- 
-sing the strength of Mr. Tilak's party accepted the 
-amendment and bodily inserted it into the main propo- 
-sition. Discord was thus timely averted and Mr.Tilakj 
+sent notice thereof to the President, who, at last reali###sing the strength of Mr. Tilak's party accepted the 
+amendment and bodily inserted it into the main propo###sition. Discord was thus timely averted and Mr.Tilakj 
 speaking to the resolution declared that he was pleased 
-to state that some ideas he favoured had been incorpo- 
-rated in the resolution ; he further said that he was 
+to state that some ideas he favoured had been incorpo###rated in the resolution ; he further said that he was 
 glad they had come to such a solution because the 
 Anglo-Indians had predicted that the 22nd Congress 
-would probably be the last ; he expressed his satisfac- 
-tion that all differences had been squared, and that 
+would probably be the last ; he expressed his satisfac###tion that all differences had been squared, and that 
 both the parties had approached the question in a spirit 
 of conciliation and had met half way. 
 
@@ -251,8 +219,7 @@ Swaraj or Self-Govemment is the goal to be ultimately
 and gradually attained by the Nation and that, while 
 the Nation may pray and petition to the Government 
 as part of the constitutional agitation and seek the 
-redress of grievances or the fruition of political aspira- 
-tions, the Nation will mainly rely on its owti endeavours 
+redress of grievances or the fruition of political aspira###tions, the Nation will mainly rely on its owti endeavours 
 to accomplish the object. Swadeshi, Boycott, and 
 National Education are the three most potent weapons 
 given into our hands by the National Congress, and 
@@ -276,25 +243,19 @@ upon the Calcutta Resolutions and thus prepare the
 ground for a retrograde step in December. In Bengal, 
 happily there was no such attempt, as both the parties 
 were suijiciently advanced and knew the value of unity. 
-But in the Provincial Conference at Surat, Sir Pheroze- 
-shah, taking advantage of Mr. Tilak's absence, tried to 
+But in the Provincial Conference at Surat, Sir Pheroze###shah, taking advantage of Mr. Tilak's absence, tried to 
 overawe the " Extremists '* and succeded in dropping 
 the Resolutions on Boycott and National Education. 
 In the Provincial Conference at Raipur (Berar), there 
-was a serious dispute over the singing of such an inno- 
-cent song, as the *' Bande Mataram "; and it was only 
+was a serious dispute over the singing of such an inno###cent song, as the *' Bande Mataram "; and it was only 
 the presence of Mr. Khaparde that compelled the 
 Moderate leaders to give in. At Allahabad, Pandit 
 Madan Mohan Malaviya, who in the Calcutta Congress 
-had declared that his province would not accept Boy- 
-cott, refused admittance to about 200 Delegates to the 
-Conference. He put forth the strange plea of inconve- 
-nience but presumably he wanted to boycott the sup- 
-porters of Boycott. All these signs showed how the 
+had declared that his province would not accept Boy###cott, refused admittance to about 200 Delegates to the 
+Conference. He put forth the strange plea of inconve###nience but presumably he wanted to boycott the sup###porters of Boycott. All these signs showed how the 
 Moderates were smarting under their " discomfiture " 
 at Calcutta. At Nagpur, a Conference was held on 
-January'' 27th, 1907, to appoint the Provincial Commit- 
-tee which in its turn met on February 22nd to consti^ 
+January'' 27th, 1907, to appoint the Provincial Commit###tee which in its turn met on February 22nd to consti^ 
 tute the Reception Committee. The new constitution 
 of the Congress had practically delegated the work of 
 
@@ -324,8 +285,7 @@ of the Reception Committee without consulting the
 Executive Committee or Dr. Munje, the joint General 
 Secretary. The meeting (September 22nd, 1907) was a 
 fiasco and the Hon. convener was the object of a hostile 
-demonstration on the part of an angry mob. A compro- 
-mise was attempted. Dr. Gour, himself a Moderate, 
+demonstration on the part of an angry mob. A compro###mise was attempted. Dr. Gour, himself a Moderate, 
 proposed that the work of the Congress should begin 
 with Rs. 20,000 collected by the Moderates from the 
 800 enlisted members of the Reception Committee 
@@ -339,8 +299,7 @@ to hold it themselves ; they, therefore, did the easiest
 
 164 LOKAMANYA TILAK 
 
-and most inglorious thing ; they reported to the All- 
-India Congress Committee their inability to hold the 
+and most inglorious thing ; they reported to the All###India Congress Committee their inability to hold the 
 Sessions of the Congress at Nagpur. A meeting of the 
 All-India Congress Committee was held at Bombay on 
 November loth, and there, in spite of the protests of 
@@ -350,24 +309,16 @@ for the sake of the reputation of their City and Province,
 the venue of the Congress was changed to Surat, one of 
 the strongholds of the Moderates. 
 
-Alerady the people were in an angry mood. Repres- 
-sion was at work in several part of India. Bombay was 
+Alerady the people were in an angry mood. Repres###sion was at work in several part of India. Bombay was 
 comparatively quiet. Far in the South, Rajmahendri, 
-Cocoanada were seething with discontent. More im- 
-portant still were the events in the Punjab, where the 
+Cocoanada were seething with discontent. More im###portant still were the events in the Punjab, where the 
 mistaken and short-sighted policy of the Bureaucracy 
 in trying to pass into Acts two Bills — the Colonisation 
-Bill and the Land Alienation Act Amendment Bill — - 
-endangered the rights of the people over their lands 
+Bill and the Land Alienation Act Amendment Bill — ###endangered the rights of the people over their lands 
 and made the discontent acute. The abnormal increase 
-of Land Revenue in the Rawalpindi District, the in- 
-crease of the Canal rates on the Bari-Doab Canal, touch- 
-ed the pockets of even the poorest cultivators and thus 
-created a grave situation. The Editor and the Pro- 
-prietor of the Punjabee were prosecuted and in May 
-1907 Lala Rajpat Rai and Sirdar Ajit Singh were de- 
-ported. This deportation created a storm of indigna- 
-tion and convinced the country of its helplessness in 
+of Land Revenue in the Rawalpindi District, the in###crease of the Canal rates on the Bari-Doab Canal, touch###ed the pockets of even the poorest cultivators and thus 
+created a grave situation. The Editor and the Pro###prietor of the Punjabee were prosecuted and in May 
+1907 Lala Rajpat Rai and Sirdar Ajit Singh were de###ported. This deportation created a storm of indigna###tion and convinced the country of its helplessness in 
 defending its birth-rights. In Bengal, the Editor of 
 Yugantar was sent to goil. The Editor of the 
 Sandhya refused to conduct his defence because " he 
@@ -380,8 +331,7 @@ TILAK AND THE CONGRESS — II 165
 ^anission of Swaraj he was in any way responsible to the 
 aUen rulers." Babu Arabindo Ghosh was arrested on 
 a charge of sedition, and on November ist, 1907 the 
-Seditious Meetings Act was passed, despite the opposi- 
-tion of the Hon. Mr. Gokhale and of the Hon, Mr. Rash 
+Seditious Meetings Act was passed, despite the opposi###tion of the Hon. Mr. Gokhale and of the Hon, Mr. Rash 
 Behari Ghosh, and it was rumoured that the liberty of 
 Press was also on the point of being taken away. 
 
@@ -393,21 +343,17 @@ round that Lajpat Rai was the fittest man to preside.
 At Surat on November 21st, the Reception Committee 
 was formed and the office bearers of the Congress were 
 appointed. To prevent many of the Congress-men in 
-Maharashtra from attending the meeting, it was an- 
-nounced that the Presidential Election would be made 
+Maharashtra from attending the meeting, it was an###nounced that the Presidential Election would be made 
 
 •on November 24th. Though thus out-manoeuvred, the 
 young Nationalists of Surat and adjoining places 
 stoutly suggested the name of Lala Lajpat Rai for the 
-Presidential post. Mr. Gokhale argued, coaxed, ap- 
-pealed ; and when every device proved unavailing, he 
+Presidential post. Mr. Gokhale argued, coaxed, ap###pealed ; and when every device proved unavailing, he 
 removed the velvet glove from off his mailed list, and 
 challenged the younger Nationalists to secure Lala 
 Lajpat Rai's election in the face of the packed majority 
 of the Moderates. The Nationalists were in a fix. 
-They could not allow the Hero of the hour to be humi- 
-liated by the unworthy tactics of the Moderates. Silent- 
-ly and sullenly they allowed Dr. Rash Behari Ghose to 
+They could not allow the Hero of the hour to be humi###liated by the unworthy tactics of the Moderates. Silent###ly and sullenly they allowed Dr. Rash Behari Ghose to 
 be ' unaniomously ' elected President. 
 
 The selection of Dr. Ghose for the Presidential chair 
@@ -418,13 +364,11 @@ The selection of Dr. Ghose for the Presidential chair
 l66 LOKAMANYA TILAK 
 
 position accepted at Calcutta and of permanentlj?? 
-shutting out the ' Extremists ' from all future sessions- 
-of the Congress. The Indu Prakash and the Indian: 
+shutting out the ' Extremists ' from all future sessions###of the Congress. The Indu Prakash and the Indian: 
 Social Reformer clearly hinted this purpose and the 
 whole conduct of the Moderate leaders all over India 
 in the eventful months of 1907 clearly strengthens this 
-belief. It was the duty of the Moderates and especial- 
-ly that of the Hon. Mr. Gokhale who was entrusted 
+belief. It was the duty of the Moderates and especial###ly that of the Hon. Mr. Gokhale who was entrusted 
 with the work of drafting the resolutions to publicly 
 declare if this belief was incorrect and unfounded.* 
 A list of the headings of the subjects likely to be 
@@ -432,15 +376,11 @@ taken up for discussion by the Surat Congress
 was of&cicially published a week or ten days 
 before the date of the Congress Sessions. This list did 
 not include the subjects of Self-Government, Boycottp 
-National Education on all of which distinct and sepa- 
-rate resolutions were passed at Calcutta in 1906. This- 
-omission naturally strengthened the suspicion that the. 
+National Education on all of which distinct and sepa###rate resolutions were passed at Calcutta in 1906. This###omission naturally strengthened the suspicion that the. 
 Bombay Moderates really intended to go back from the 
 position taken up by the Calcutta Congress in these 
 matters. The Press strongly commented upon this 
-omission and Mr. Tilak, who reached Surat on the morn- 
-ing of the 23rd December, denounced such retrogres- 
-sion as suicidal in the interests of the countrj^ more, 
+omission and Mr. Tilak, who reached Surat on the morn###ing of the 23rd December, denounced such retrogres###sion as suicidal in the interests of the countrj^ more, 
 especially at the present juncture, and appealed to the 
 Surat public to help the Nationalists in their endeavours. 
 to maintain at least the status quo in these matters. 
@@ -449,82 +389,60 @@ Nationalist Delegates was held at Surat under the
 Chairmanship of Shrijut Arabindo Ghose, where it was. 
 
 * We are indebted for the bulk of the contents of the next 
-8 Pages to the closely-reasoned document published by th©- 
-Nationalist Leaders soon after the break-up of the Congress. 
+8 Pages to the closely-reasoned document published by th©###Nationalist Leaders soon after the break-up of the Congress. 
 
 
 
 TILAK AND THE CONGRESS — II 167 
 
-decided that the NationaUsts should prevent the at- 
-tempted retrogression of the Congress by all Constitu- 
-tional means even by opposing the election of the Pre- 
-sident, if necessary ; and a letter was written to the 
-Congress Secretaries requesting them to make arrange- 
-ments for dividing the house, if need be, on every con- 
-tested proposition, including that of election of the 
+decided that the NationaUsts should prevent the at###tempted retrogression of the Congress by all Constitu###tional means even by opposing the election of the Pre###sident, if necessary ; and a letter was written to the 
+Congress Secretaries requesting them to make arrange###ments for dividing the house, if need be, on every con###tested proposition, including that of election of the 
 President. 
 
-In the meanwhile, a press-note was issued by the Re- 
-ception Committee to the effect that the statement that 
+In the meanwhile, a press-note was issued by the Re###ception Committee to the effect that the statement that 
 certain resolutions adopted in 1906 were omitted from 
-the Congress Programme prepared by the Surat Recep- 
-tion Committee was wholly unfounded ; but the draft 
+the Congress Programme prepared by the Surat Recep###tion Committee was wholly unfounded ; but the draft 
 resolutions themselves were still with-held from the 
 public ; on the morning of the 25th December, Mr. 
-Tilak happened to get a copy of the draft of the propos- 
-ed Constitution of the Congress prepared by the Hon. 
+Tilak happened to get a copy of the draft of the propos###ed Constitution of the Congress prepared by the Hon. 
 Mr. Gokhale. In this draft, the object of the Congress 
 was thus stated : " The Indian National Congress 
 has for its ultimate goal, the attainment by India 
 of Self-Government similar to that enjoyed by the 
 other members of the British Empire. Mr. Tilak, 
-addressing a meeting of the Delegates the same morn- 
-ing, at the Congress Camp, explained how this Consti- 
-tution was devised to exclude the Nationalists from the 
+addressing a meeting of the Delegates the same morn###ing, at the Congress Camp, explained how this Consti###tution was devised to exclude the Nationalists from the 
 Congress by making the acceptance of this new creed 
 an indispensable condition of the Congress membership. 
 Mr. Tilak further stated in plain terms, that if they 
 were assured that no sliding back of the Congress would 
-be attempted, the opposition to the election of the Pre- 
-sident would be withdrawn. The Delegates at the 
+be attempted, the opposition to the election of the Pre###sident would be withdrawn. The Delegates at the 
 meeting were asked to sign a letter to Dr. Ghose re- 
 
 
 
 l68 LOKAMANYA TILAK 
 
-questing him to take up the four old resolutions for re- 
-affirmation. 
+questing him to take up the four old resolutions for re###affirmation. 
 
-Lala Lajpat Rai who arrived at Surat on the morn- 
-ing of 25th, saw Messrs. Tilak and Khaparde in the 
-afternoon and intimated to them his intention to ar- 
-range for a Committee of a few leading Delegates from 
+Lala Lajpat Rai who arrived at Surat on the morn###ing of 25th, saw Messrs. Tilak and Khaparde in the 
+afternoon and intimated to them his intention to ar###range for a Committee of a few leading Delegates from 
 each side to settle the question in dispute. Messrs. 
 Tilak and Khaparde having agreed, he went to Mr. 
 Gokhale to arrange for the Committee if possible ; and 
-Messrs. Tilak and Khaparde returned to the Nationa- 
-list Conference which was held that evening. At this 
+Messrs. Tilak and Khaparde returned to the Nationa###list Conference which was held that evening. At this 
 Conference, a Nationalist Committee consisting of one 
 Nationalist Delegate from each Province was appointed 
 to earry on the negotiations with the other side ; and it 
 was decided that if the Nationalist Committee failed 
 to obtain any assurance from the responsible Congress 
-Officials about status quo being maintained, the Nationa- 
-lists should begin their opposition from the election of 
+Officials about status quo being maintained, the Nationa###lists should begin their opposition from the election of 
 the President. For the retrogression of the Congress 
 was a serious step, not to be decided upon by a bare 
 accidental majority of any party either in the Subjects' 
-Committee or in the whole Congress as then constitu- 
-ted, and the usual acceptance of the President would 
+Committee or in the whole Congress as then constitu###ted, and the usual acceptance of the President would 
 have under such circumstances greatly weakened the 
-point and force of the opposition. No kind of intima- 
-tion was received from Lala Lajpat Rai on the night 
-of the 25th, or the morning of the 26th December re- 
-garding the proposal of a joint Committee of reconcili- 
-ation proposed by him, nor was a copy of the draft reso- 
-lutions supplied to Mr. Tilak or any delegates to enable 
+point and force of the opposition. No kind of intima###tion was received from Lala Lajpat Rai on the night 
+of the 25th, or the morning of the 26th December re###garding the proposal of a joint Committee of reconcili###ation proposed by him, nor was a copy of the draft reso###lutions supplied to Mr. Tilak or any delegates to enable 
 them to judge if sliding back from the old position was 
 really intended. 
 
@@ -533,10 +451,8 @@ really intended.
 TILAK AND THE CONGRESS — II 169 
 
 On the morning of the 26th December, Mr. Tilak and 
-the other Nationalist leaders went to Babu Surendra- 
-Nath Banerjea at his residence, and informed him that 
-the Nationalist opposition to the election of the Presi- 
-dent would be withdrawn if (i) the Nationalist Party 
+the other Nationalist leaders went to Babu Surendra###Nath Banerjea at his residence, and informed him that 
+the Nationalist opposition to the election of the Presi###dent would be withdrawn if (i) the Nationalist Party 
 were assured that the Status quo would not be disturbed, 
 and (2) if some graceful allusion was made by any one 
 of the speakers on the resolution about the election of 
@@ -546,9 +462,7 @@ latter proposal as he said he was himself to second the
 resolution ; while as regards the first, though he gave 
 an assurance foi himself and Bengal, he asked Mr. 
 Tilak to see Mr. Gokhale or Mr. Malvi, the Chairman of 
-the Reception Committee. A volunteer was accord- 
-ingly sent in a carriage to invite Mr. Malvi to Mr. Ban- 
-erjea's residence, but the volunteer brought a reply 
+the Reception Committee. A volunteer was accord###ingly sent in a carriage to invite Mr. Malvi to Mr. Ban###erjea's residence, but the volunteer brought a reply 
 that Mr. Malvi had no time to come as he was engaged 
 in religious practices. Mr. Tilak then returned to his 
 Camp to take his meals as it was already about 11 a.m.; 
@@ -562,8 +476,7 @@ short interview. Mr. Malvi replied that he could not
 see Mr. Tilak as the Presidential procession was being 
 formed. 
 
-These facts will explain the position of the two par- 
-lies, when the Congress commenced its proceedings on 
+These facts will explain the position of the two par###lies, when the Congress commenced its proceedings on 
 Thursday the 26th December, at 2-30 P.M. No assur- 
 
 
@@ -585,21 +498,15 @@ address was over, Dewan Bahadur Ambalal Sakarlal
 proposed Dr. Ghose to the Chair in a speech, which, 
 though evoking occasional cries of dissent, was heard' 
 to the end. The declaration by the Dewan Bahadur 
-as well as by Mr. Malvi that the proposing and second- 
-ing of the resolution to elect the President was only a 
-formal matter, led many to believe that it was not im- 
-probable that the usual procedure of taking votes on 
+as well as by Mr. Malvi that the proposing and second###ing of the resolution to elect the President was only a 
+formal matter, led many to believe that it was not im###probable that the usual procedure of taking votes on 
 the proposition might be dispensed with. And when 
 Babu Surendranath, whose rising on the platform 
-seems to have reminded many of the Midnapur Con- 
-ference where he was instrumental in getting the Na- 
-tionalist party headed by Srij. Arabindo Ghose practi- 
-cally ejected with Police aid, commenced his speech, 
+seems to have reminded many of the Midnapur Con###ference where he was instrumental in getting the Na###tionalist party headed by Srij. Arabindo Ghose practi###cally ejected with Police aid, commenced his speech, 
 there was persistent shouting and he was asked to sit 
 down. In spite of his numerous efforts, he could not 
 go on and so the Session had to be suspended for the 
-day. It is unjust to suggest that this hostile demons- 
-tration was pre-arranged by the Nationalists as what 
+day. It is unjust to suggest that this hostile demons###tration was pre-arranged by the Nationalists as what 
 they had decided to do was silently and solidly to vote 
 against the election. 
 
@@ -614,8 +521,7 @@ Surat Reception Committee, accompanied by two other
 gentlemen, went in his un-ofhcial Capacity and on his 
 own account, to Mr. Tilak and proposed that he intended' 
 to arrange for a meeting that night between Mr. Tilak 
-and Mr. Gokhale at the residence of a leading Con- 
-gressman to settle the diSerences. Mr. Tilak agreed 
+and Mr. Gokhale at the residence of a leading Con###gressman to settle the diSerences. Mr. Tilak agreed 
 and requested Mr. Chunilal if an interview could be 
 arranged, to fix the time in consultation with Mr. Gokhale 
 adding that he (Mr. Tilak) would be glad to be present 
@@ -626,8 +532,7 @@ from him was received by the latter that night.
 On the morning of Friday the 27th, (iia.m.) Mr. 
 Chunilal Saraya again saw Mr. Tilak and requested him 
 to go in company with Mr. Khaparde to Prof. Gaj jar's 
-bungalow near the Congress pandal where, by appoint- 
-ment, they were to meet Dr. Rutherford, M.P., who 
+bungalow near the Congress pandal where, by appoint###ment, they were to meet Dr. Rutherford, M.P., who 
 was trying for a reconciliation. Messrs. Tilak and 
 Khaparde went to Prof. Gaj jar's, but Dr. Rutherford 
 could not come there owing to other engagements. 
@@ -647,8 +552,7 @@ as final and then proceed to the unanimous election of
 
 172 LOKAMANYA TILAK 
 
-the President. Prof. Gajjar and Mr. Chunilal under- 
-took to convey the proposal to Sir P. M. Mehta or Dr. 
+the President. Prof. Gajjar and Mr. Chunilal under###took to convey the proposal to Sir P. M. Mehta or Dr. 
 Rutherford in the Congress Camp ; after half an hour 
 they returned and told Messrs. Tilak and Khaparde 
 that nothing could be done in the matter. 
@@ -686,12 +590,10 @@ stood up on the platform he was greeted with shouts of
 
 TILAK AND THE CONGRESS — II I73 
 
-disapproval from the members of the Reception Com- 
-mittee on the platform and the cry was taken up by 
+disapproval from the members of the Reception Com###mittee on the platform and the cry was taken up by 
 other Moderates. Mr. Tilak repeatedly insisted upon 
 his right of addressing the delegates and told Dr. Ghose 
-when he attempted to interfere that he was not pro- 
-perly elected. Mr. Malvi said that he had ruled Mr. 
+when he attempted to interfere that he was not pro###perly elected. Mr. Malvi said that he had ruled Mr. 
 Tilak'samendmentoutof order, to which Mr. Tilak replied 
 that the ruling, if any, was wrong and that he had a 
 right to appeal to the delegates on the same. By this 
@@ -700,16 +602,13 @@ Moderates shouting at Mr. Tilak and asking him to
 sit down, and the Nationalists demanding that he 
 should be heard. At this stage, Dr. Ghose and Mr. 
 Malvi said that Mr. Tilak should be removed from the 
-platform ; and a young gentleman holding the impor- 
-tant office of a Secretary to the Reception Committee 
+platform ; and a young gentleman holding the impor###tant office of a Secretary to the Reception Committee 
 touched Mr. Tilak 's person with a view to carry out 
-the Chairman's order. Mr. Tilak pushed the gentle- 
-man aside and again asserted his right of being heard, 
+the Chairman's order. Mr. Tilak pushed the gentle###man aside and again asserted his right of being heard, 
 declaring that he would not leave the platform, unless 
 bodil}' removed. At this stage, Mr. Gokliale asked the 
 above-mentioned gentleman not to touch Mr. Tilak's 
-person. But there were others who were seen threat- 
-ening an assault on his person, though he was calmly 
+person. But there were others who were seen threat###ening an assault on his person, though he was calmly 
 standing on the platform facing the delegates with his 
 arms folded over his chest. 
 
@@ -724,17 +623,13 @@ lifted to be thrown at Mr. Tilak by persons on and
 
 174 LOKAMANYA TILAK 
 
-below the platform and some of the Nationalists, there- 
-fore, rushed on to the platform to his rescue. Dr. 
+below the platform and some of the Nationalists, there###fore, rushed on to the platform to his rescue. Dr. 
 Ghose in the meanwhile twice attempted to read his 
 address but was stopped by cries of * No, No ' from all 
 sides in the Pandal and the confusion became still 
-worse. It was now found impossible to arrest the pro- 
-gress of disorder and the proceedings were then suspen- 
-ded sine die. 
+worse. It was now found impossible to arrest the pro###gress of disorder and the proceedings were then suspen###ded sine die. 
 
-Dr. Ghose's speech, though undelivered in the Con- 
-gress Pandal, had been by this time published in the 
+Dr. Ghose's speech, though undelivered in the Con###gress Pandal, had been by this time published in the 
 Calcutta papers and telegrams from Calcutta, received 
 in the evening, showed that in the speech he had made 
 an offensive attack on the Nationalist Party. This 
@@ -746,8 +641,7 @@ tried their best to bring about a compromise and if
 possible to have the Congress Session revived the next 
 day. They went to Mr. Tilak on the night of the 27th 
 and the morning of the 28th to ascertain the views of 
-his party and to each of them Mr. Tilak gave the fol- 
-lowing assurance in writing : — 
+his party and to each of them Mr. Tilak gave the fol###lowing assurance in writing : — 
 
 SuRAT, 2Sth December, 1907. 
 
@@ -773,8 +667,7 @@ Your's etc.,
 B. G. TILAK. 
 
 This letter was taken by the gentleman to whom it 
-was addressed to the Moderate leaders but no compro- 
-mise was arrived at, as the Moderates were all along 
+was addressed to the Moderate leaders but no compro###mise was arrived at, as the Moderates were all along 
 bent upon the retrogression of the Congress at any cost. 
 A Convention of the Moderates was, therefore, held, in 
 the Pandal, the next day, where the Nationalists were 
@@ -808,8 +701,7 @@ like these passed as a compromise between two parties
 could not be altered even in the drafts by any one only 
 because that gentleman has been entrusted with the 
 work of drafting the Congress Resolutions. At the 
-Calcutta Congress (1906) it was resolved that the sys- 
-tem of Government obtaining in the Self-Governing 
+Calcutta Congress (1906) it was resolved that the sys###tem of Government obtaining in the Self-Governing 
 British Colonies should be extended to India ; at Surat 
 though this resolution was almost repeated still this was 
 set up as the ultimate goal, evidently meaning that it 
@@ -821,16 +713,13 @@ goal of the Congress was defined as follows : —
 '* The Indian National Congress has for its ultimate 
 goal the attainment by India of self-government 
 similar to that enjoyed by other members of the 
-British Empire * * *. It seeks to advance towards- 
-this goal b}^ strictly constitutional means, by 
+British Empire * * *. It seeks to advance towards###this goal b}^ strictly constitutional means, by 
 bringing about a steady reform of the existing 
 system of administration * * *." 
-So then, the reform of the existing system of adminis- 
-tration and not its gradual replacement by a popular 
+So then, the reform of the existing system of adminis###tration and not its gradual replacement by a popular 
 system v<^as to be the immediate object of the Congress. 
 The sting of this seemingly innocent constitution lay 
-in the fact that it sought to convert the National Con- 
-gress into a party organisation. As the acceptance of 
+in the fact that it sought to convert the National Con###gress into a party organisation. As the acceptance of 
 this creed was the condition of the membership of the 
 Congress, the Bengal ' Extremists ' who had repudiated 
 the ideal of Colonial Self-Government were to be shut 
@@ -844,8 +733,7 @@ TILAK AND THE CONGRESS — II V]f
 
 only by the Law Courts* of Bengal but also by Lord 
 Morley, what right had the Moderates to shut out an 
-important and law-abiding section of Indian poli- 
-ticians from the Congress ? Mr. Tilak has been 
+important and law-abiding section of Indian poli###ticians from the Congress ? Mr. Tilak has been 
 often blamed for " coquetting with the views 
 of the Bengal School of Extremist politicians " — 
 these are Mr. Gokhale's words — but though four 
@@ -861,8 +749,7 @@ Education meant ?
 
 The draft resolution about the ' Swadeshi movement * 
 did not contain the words * even at a sacrifice.' Mr. 
-Gokhale later explained that this omission was * unin- 
-tentional ' and we readily accept his word but the effect 
+Gokhale later explained that this omission was * unin###tentional ' and we readily accept his word but the effect 
 of this omission was that the very soul of the resolution 
 was taken out. 
 
@@ -899,8 +786,7 @@ movement " to the " Boycott of foreign (British)
 goods." As Babu Bepin Chunder Pal said " We in 
 Eastern Bengal and Assam have not only tried to 
 boycott British goods , but all honorary offices and 
-association with Government " and the words' 1" Boy- 
-cott Movement" were comprehensive enough to include 
+association with Government " and the words' 1" Boy###cott Movement" were comprehensive enough to include 
 these phases of Boycott while the wording adopted by 
 Mr, Gokhale was evidently narrow. 
 

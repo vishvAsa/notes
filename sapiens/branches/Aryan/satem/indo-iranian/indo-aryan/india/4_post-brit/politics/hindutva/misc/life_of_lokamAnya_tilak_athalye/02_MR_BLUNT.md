@@ -36,15 +36,13 @@ by the rulers of the land. Where could such an one be
 found except in the great Mahratta race ? 
 
 Bal Gangadar Tilak was born at Ratnagiri on July 
-23rd, 1856. Born in a race to which the Peshwas be- 
-longed and in a town not far away from the birth-place 
+23rd, 1856. Born in a race to which the Peshwas be###longed and in a town not far away from the birth-place 
 of Balaji Vishwanath, he was, indeed, destined to play 
 the role of a representative of those who had ruled the 
 greater part of India for nearly a hundred years. In 
 the year of his birth the political atmosphere in India 
 was electric. It was a remarkable year for this remarkable child to be ushered into existence. It was as ominous to the new rulers of the land as this child was 
-destined to be. Lord Dalhousie, the last of the aggres- 
-sive proconsuls of the British East India Company had 
+destined to be. Lord Dalhousie, the last of the aggres###sive proconsuls of the British East India Company had 
 just departed, cutting off all the Native poppies that 
 dared appear tall among the degenarates of the vanquished races of India, and while he was thus stretching 
 the red canvas over the country, the last vestiges of the 
@@ -64,16 +62,13 @@ secure in the land.
 
 Thus it was that when Bal, the only son and second 
 child of Gangadharpant {alias Nana) Tilak was passing 
-the early days of his life in his home at Ratnagiri, re- 
-markable deeds of grim valour and cruel carnage were 
+the early days of his life in his home at Ratnagiri, re###markable deeds of grim valour and cruel carnage were 
 an every-day occurance in distant Delhi. The red 
 fury of inflamed soldiery that had set the whole country 
 ablaze must have borne its flues and sparks to the 
-birth-place of our hero, at least in the form of a wonder- 
-ful crop of rumours. It is inconceivable that the green 
+birth-place of our hero, at least in the form of a wonder###ful crop of rumours. It is inconceivable that the green 
 memory of these things should have failed to impress 
-the imagination of a child whose whole life was a dedi- 
-cation to the service of the Motherland. 
+the imagination of a child whose whole life was a dedi###cation to the service of the Motherland. 
 
 What little is known of Bal's mother shows that she 
 was a kind-hearted and an intensely religious woman. 
@@ -100,13 +95,11 @@ personal independence. The inevitable consequence
 followed : he was neglected in official preferment. 
 It was only after full 17 years of service, when 
 his claims could not with decency be set aside, that he 
-was rewarded with the much-coveted post of an Assist- 
-ant Deputy Educational Inspector and was transferred 
+was rewarded with the much-coveted post of an Assist###ant Deputy Educational Inspector and was transferred 
 to Poona (1866). 
 
 The intensely religious vein of the mother and the 
-stern sense of personal independence of the father re- 
-flected themselves in the wilful nature of the boy, a 
+stern sense of personal independence of the father re###flected themselves in the wilful nature of the boy, a 
 characteristic which has played no insignificant part in 
 his future career. This delicate child of a delicate 
 mother was not put to school before he was 11, not certainly for want of facilities — Ratnagiri was a District 
@@ -152,8 +145,7 @@ pedagogue. "It is here " said our hero, pointing to
 his head. 
 
 Such an "unmethodical " and rebellious child was 
-never likely to be popular with the teachers, who on oc- 
-casions took complaints to his father. Bal cared little for 
+never likely to be popular with the teachers, who on oc###casions took complaints to his father. Bal cared little for 
 their good opinion and less for their " time-honoured '* 
 methods. His father was intensely proud of him and 
 presaged for him a great career. The promising son of 
@@ -162,8 +154,7 @@ of early marriages, long escape the fetters of wedlock.
 A suitable bride was found in Tapibai, daughter of 
 Ballal Bal of Ladghar (Dist. Ratnagiri), to whom he was 
 married in 1871. Soon after this event happened two 
-others, the one favourable and the other extremely un- 
-fortunate. Bal passed his Matriculation in December 
+others, the one favourable and the other extremely un###fortunate. Bal passed his Matriculation in December 
 1872 ; but only a few months before his success in the 
 examination his father died, leaving him quite an. 
 orphan. "It is the bitterest element in the vast irony 
@@ -171,8 +162,7 @@ of human life that the time-worn eyes, to which a
 son's success would have brought the purest gladness are 
 so often closed for ever, even before success has come." +++(* Morley's Life of Cobden)+++
 
-When Bal joined (1873) the Deccan College as a resi- 
-dent student, the Bombay University and its affiliated 
+When Bal joined (1873) the Deccan College as a resi###dent student, the Bombay University and its affiliated 
 Colleges were not quite as old as their alumni. The 
 rough and ready methods of the East India Company's 
 Government were, by this time being gradually substituted by Institutions more imposing under the direct 
@@ -224,8 +214,7 @@ portals as physical wrecks is, in no small measure,
 due to the circumstances detailed above.+++(4)+++ 
 
 Bal must either have instinctively realized these 
-dangers or must have found his fragile frame quite in- 
-adequate to the manifestations of the mighty spirit 
+dangers or must have found his fragile frame quite in###adequate to the manifestations of the mighty spirit 
 within. For, soon after joining the Deccan College he 
 determined to lay the foundation of that physical 
 strength and endurance, which, in spite of worries and 
@@ -296,8 +285,7 @@ Gidumal — need no introduction to our readers. Mr.
 (Dr. Sir) N. G. Chandavarkar, too was a contemporary 
 of Mr. Tilak, though studying in a different college. 
 He passed his B. A. examination in the same year with 
-Mr. Tilak (1876). Both Tilak and Chandavarkar secu- 
-red a first Class in the B. A. examination. 
+Mr. Tilak (1876). Both Tilak and Chandavarkar secu###red a first Class in the B. A. examination. 
 
 The Mathematical abilities of Mr. Tilak were of the 
 highest order and were fully and frankly recognised by 
@@ -351,8 +339,7 @@ one of his Composition Note-Books : —
 
 His utter disregard of praise and scholarships was 
 not due to the perfunctory method of his studies but 
-rather the reverse. If one were to analyse the prize- 
-hunters' mentality, it will be found that their studies 
+rather the reverse. If one were to analyse the prize###hunters' mentality, it will be found that their studies 
 are not the outcome of a love of knowledge but the show 
 of it. The one aim of Mr. Tilak's life was the acquisition of the intrinsic and so all the rewards resulting from 
 the attainment of merely marketable knowledge had no 
@@ -373,8 +360,7 @@ were students of Law at Bombay ; and I don't remember a single occasion when he 
 unworthy thought."+++(5)+++ Happy the youth which, like a 
 lotus, can grow, unsullied and uncontaminated, in the 
 muddy water of worldly life and which, the moment it 
-is full blown is dedicated to the service of the Mother- 
-land. For such sacred worship, only the freshest, the 
+is full blown is dedicated to the service of the Mother###land. For such sacred worship, only the freshest, the 
 most fragrant and unsmelt flowers are necessary. Mr. 
 Tilak passed his LL. B. in December 1879. 
 
