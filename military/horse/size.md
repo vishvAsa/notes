@@ -11,6 +11,11 @@ title = "Size"
 ### Calmer stronger horse
 Unlike early semi-domesticated horses, fully domesticated (taking over between 4200 and 3000 years ago) ones had only two gene changes: ZFPM1 (anxiety and aggression) and GSDMC (associated with chronic back pain in humans). [SCI](https://www.science.org/content/article/ancient-dna-reveals-long-sought-homeland-modern-horses) The fully domesticated ones were calm enough to train to pull a chariot, and a back strong enough to ride.
 
+> क्व१॒॑ वो ऽश्वाः॒, क्वा॒३॒॑भीश॑वः +++(=रश्मयः)+++  
+क॒थं शे॑क+++(←शक्)+++, क॒था य॑य ।  
+पृ॒ष्ठे सदो॑+++(→आसनम्)+++, +++(अश्व-)+++न॒सोर् यमः॑ ॥  
+> RV 5.61.2
+
 #### Charriot age
 - Horses were mostly too small to be able to carry people on their backs (except light frail people).
 - Kikkuli the Mittani wrote a manual for horse conditioning.
