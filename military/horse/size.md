@@ -36,7 +36,7 @@ Unlike early semi-domesticated horses, fully domesticated (taking over between 4
 ## Evolution
 North America saw in the Eocene epoch (56-44 million years ago) a dwarf horse like animal with arched back. From that across the ages, they grew larger in size, had longer legs & bigger brains.
 
-By the end of Pleistocene epoch (11, 700 years ago), horses had spread all over the world including Eurasia via the Bering land bridge which connects Americas to Eurasia. After this land bridge was submerged, in the next 2000 years, horses went extinct in the Americas. This extinction was partly due to climate change & partly due to overhunting by humans who had just crossed over to Americas before the land bridge was submerged. This extinction was bad for American humans too as they lost the advantage of fast travel which the Eurasians had.
+By the end of Pleistocene epoch (11,700 years ago), horses had spread all over the world including Eurasia via the Bering land bridge which connects Americas to Eurasia. After this land bridge was submerged, in the next 2000 years, horses went extinct in the Americas. This extinction was partly due to climate change & partly due to overhunting by humans who had just crossed over to Americas before the land bridge was submerged. This extinction was bad for American humans too as they lost the advantage of fast travel which the Eurasians had.
 
 Back in Eurasia in Middle East & Steppes around the 5th millennium BC, humans domesticated wild horses and used them for transport & it proved out to be a gamechanger for humans as this accelerated the spread of humans, resources & even ideas. 
 
