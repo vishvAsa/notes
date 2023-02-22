@@ -30,3 +30,15 @@ The majority of "young" American (~20-30 yrs) are likely navyonmAtta or navyonma
 It also means that the power of the mahAmlechCha deep state is going to continue unhindered spreading navyonmAda. What might this mean for muShkavAn kastUri -- could piNDaka's backer move against him? Win him back to their side with carrots & sticks if vi-grahaNa goes really bad?
 
 Heard a young practicing, navyonmAda-infected H mention she will not go to college in an American state ruled by a hastin sAmanta -- e.g., of the deep faith navyonmAda engenders like its overt predecessors from West Asia. That explains the drive they have to go & vote for the mata. As they do so, they also believe they are working towards a larger cause -- as self-perceived smart, educated people doing their chosen part to save "democracy" & the rights of the a~Ngalubdha-s & kR^iShNa-s from those like nAri~Nga, the Florida man & others. 
+
+## 202302 khara advantage
+Source: [TW](https://unrollthread.com/t/1628280614943170560/)
+
+The battle between the khara-s & the karin-s among the mahAmlechCha will have consequences for the extension of the same fought in the desh. Things are now truly a world system. 
+
+The khara-s are now quite united & largely a frontend for remarkable convergence of interests of an array duShTa-s backed by sora-bejha-guggulu-mukhagiri-reNugirI-dvArAdiduShTAH, who have essentially taken control of the govt & as well as the military apparatus at the high ranks. 
+
+The karin-s on the other hand are divided about whether they should back nAri~NgapuruSha, anugAmin or someone else. On top of this Putin has let out a cat among their sparrows. They cannot disagree that he is essentially aligned with their counter-navyonmAda talking points. However, the MIC component of the deepstate will want them pursue worldwide conflict inline with its navyonmatta counterparts/allies. 
+
+Thus, the khara-s have a golden opportunity to brand their rivals (not just Tulsi) as partisans of the enemy & will do so. Along with this, as we have remarked before, the newly unveiled machine weapons +++(eg. chatGPT)+++ have already been tokenized as khara-s. The khara-s could thus pull of a win even as they fought off the imagined wave of gaja-s in the recent elections. This would mean they can have total freedom to pursue international agenda like India.
+
