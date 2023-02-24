@@ -1,0 +1,9 @@
++++
+title = "hanno"
++++
+
+The Greeks were not the only intrepid explorers of these far-flung lands. The great city of Carthage, Queen of the Western Mediterranean & jewel of Africa, launched her own fleets in search of trade, land for colonies, & curiosity. The gold trade with Sub-Saharan Africa was a critical source of income for the Carthaginian Empire. Much like Pytheas’s voyage, the Carthaginians wished to strengthen this trade route by voyaging to its source, forge connections, & cut out middlemen.
+
+Hanno the Navigator was dispatched in the 5th c. BC to accomplish these goals & establish colonies on the way to provide safe places to refit & increase Carthaginian control of the route. Hanno sailed from Gades with 60 ships & 30,000 people. Hanno established seven cities on the Moroccan coast, the furthest at Ras Nouadhibou in Mauritania. Hanno initiated friendly relations with locals, some served as guides for parts of the journey. Hanno encountered both “Libyans” (Berbers), and “Ethiopians” (Black Africans).
+
+Some scholars believe Hanno made it as far as Mount Cameroon where his expedition witnessed a volcanic eruption. The men sailed on from this apocalyptic scene & captured some of the strange creatures they encountered in the dark jungles before turning back for want of supplies. The locals called the “hairy people” “gorillai.” 3 females were taken but were so ferocious the Carthaginians killed them & had their skins displayed in the temple of Tanit/Astarte in Carthage. According to Pliny the Elder these skins survived until Rome razed the city in 146 BC. The identity of these “Gorillai” is unknown but believed to be Gorillas (who are named for this episode) or chimpanzees. These journeys, undertaken in fragile wooden craft with little more than the stars for a guide into the unknown, strain the imagination.

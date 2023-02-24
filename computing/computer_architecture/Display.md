@@ -13,16 +13,34 @@ Liquid Crystal displays tend to be more ergonomically friendly than CRT tube mon
 #### Image quality
 Display screens vary in image quality parameters: screen size, maximum resolution: SVGA (800 x 600), XGA (1024 x 768), SXGA (1280 x 1024), or UXGA (1600 x 1200), contrast ratio.
 
+#### Refresh rate
 They also vary in refresh rate, in the case of images generated from projection, as in CRT monitors or projectors: low refresh rate results in flicker and eye strain - especially from typing distance. Higher resolutions require correspondingly higher refresh rates.
 
+Some ad fraud: "75hz is only on 1280x720 resolution, so viewsonic is lying about 75hz."
+
 #### LCD screens
-In addition LCD screens vary in adjustibility of height, orientation etc. and whether they also function as a touch sensitive input device. Screen size of around 14' has been quite adequate in my laptop computer.
+In addition LCD screens vary in adjustibility of height, orientation etc. and whether they also function as a touch sensitive input device. 
+
+First, screen size of around 14' has been quite adequate for laptop use. Later, external monitor became indispensable.
+
+#### Borders and mounts
+Borderless monitors may be useful for stacking.
+
+100x100 VESA mount is common.
+
+#### Response time
+Short response time (1ms) is useful for gaming. 5ms is common.
+
+##### Bleed
+IPS panel - some glow and backlight bleeding is common.
+
+#### Ports
+Cheap monitors come with fewer or obsolete ports.
+???
+  
 
 #### Best and economical
 24 inch LCD without touch sensitivity was available for around 110 USD in a sale.
-
-#### Ports
-???
 
 ## Projectors
 Using projectors for display allows display size to be set dynamically; allowing a variety of postures and ability to view from a distance, it may be ergonomically better. But, it is not suitable for close viewing (and there fore use as a second monitor), because of the flickering in the display.
