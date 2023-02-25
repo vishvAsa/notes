@@ -48,5 +48,7 @@ sAmavedin bhAradvAja, whose insightful and brilliant mind shines through in work
 ### त्यागराजः
 1 of the 3 founding fathers of the carnatic stream of the classical indic सङ्गीतसम्प्रदाय; born as a blessing to the भारद्वाज गोत्र in तिरुवारूर् , TN & named after its shiva of that great shrine; he grew up to be a musical genius & one of the most glorious रामभक्ताः
 
+Tyagaraja Swami (of Kakarla-kula of vaidiki mulukanADu brAhmaNas, a Telugu clan) sang 'Nidhi Chaala SukhamA' & refused Vadivelu's invite to the Royal Court of Travancore. His material poverty is well-known.
+
 ### रङ्गरामानुजः
 the उपनिषद्-भाष्यकार of the रामानुज tradition & is remembered for writing commentaries for the उपनिषद्-s from a विशिष्टाद्वैत perspective
