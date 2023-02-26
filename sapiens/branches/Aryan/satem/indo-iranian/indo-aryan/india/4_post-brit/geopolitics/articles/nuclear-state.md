@@ -4,6 +4,8 @@ title = "Nuclear-state"
 
 Source: [TW](https://twitter.com/arya_amsha/status/1628820264107782144)
 
+It's important for people to understand that Smiling Buddha didn't make us a nuclear weapons state; it was not a bomb but simply a controlled peaceful nuclear explosion. Big difference in the two things. Nuclear states can successfully deliver warheads, the actual military use. 
+
 India became a nuclear weapon state in 1994 but we could've become one at least 25-30 years earlier. India was a nuclear weapons state by 1994 at the latest. Narasimhan Rao delayed showing off our bomb because India was economically screwed and everyone knew we will face sanctions the moment the world knows, and we couldn't afford them then.
 
 
