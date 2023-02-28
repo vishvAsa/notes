@@ -1,0 +1,7 @@
++++
+title = "Suren: Disaster relief experience"
++++
+
+In 1993, there was a terrible earthquake in Latur. I wanted to do something, but didn't know what to do. Someone sent me to Kurla and I met the Kurla Vyapari Sangh rep. He put me and another guy on a truck with groceries to Latur. We were given food at dharamshalas on the way. When we got down at district headquarters, a middle-aged guy greeted us. 
+
+He looked at us up and down - Young, tall and strong. Go to Mangrul. We got on another truck. This time, all the guys travelling with me were between 18 and 30 only. We got down in an open field. 2 days after the earthquake, there were tents on an open field. We were given bhakris, boiled besan and a raw onion. We started by taking vans to the village and helping people salvage their stuff. We set up tents, fed the people. The ABVP camp accepted anyone - whether they needed help or whether they had come to help. On the 4th day, a pracharak arrived. They started classes for the kids. On the 5th day, all of us volunteers attended our first shakha. I had just sent a postcard to my parents that I was going to Latur. I came back to my room after 10 days to see 2 frantic telegrams from my parents. My Dad sent a friend of his to the hostel to find out what happened. I didn't even tell my hostel warden what I was up to. I lost touch with those swayamsevaks, but I will never forget one thing. When shit happens, the Sangh's got your back.

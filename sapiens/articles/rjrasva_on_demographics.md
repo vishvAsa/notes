@@ -18,25 +18,6 @@ Also keep in mind that replacement TFR is only 2.1 in 1st world countries with n
 > Of course, a big technological advantage can undoubtedly be decisive. But often such an advantage, whether it be the Maxim gun or the atom bomb, cannot be indefinitely sustained, since it is invariably adopted by the enemy, whereupon population again becomes key. Iraqi and Afghan militants in recent decades were able to deploy devastating weapons against their first world invaders. Russian efforts to dominate Afghanistan in the 1980s and American attempts to dominate both Iraq and Afghanistan in the first decade of the twenty-first century were in large part frustrated by the fact that Afghanistan and Iraq had populations with a median age of under twenty, while those of the USSR and the USA were well over thirty. It could be argued that in the end what was lacking on the part of the Russians and Americans was not sheer numbers but will; but even here, demography has a role to play. A country with a fertility rate of two or less is much more likely to have a culture in which civilian or military losses are unacceptable than a country with a fertility rate of over seven or nearly five, as was the case in Afghanistan and Iraq respectively around the time of the US invasions in 2002 and 2003.+++(5)+++ Each mother in the former case simply has fewer sons to lose. It seems callous to imagine that mothers of large families are any more willing to lose their children in a conflict, but there is compelling evidence to suggest that societies with smaller families are generally less bellicose.
 
 ## Case studies
-#### False explanations
-Some unexpected countries/territories (unless u follow demography) more rural & lower in per capita GDP than Japan (1.3) yet with lower/on par TFR's for 2021
-
-- Costa Rica (1.31)
-- Chile (1.22)
-- Thailand (1.18)
-- Puerto Rico (1)
-- PRC (1.16 as per CCP fraud, likely below 1)
-- Pre-war Ukraine in 2020 1.34 (same as Japan), now lower
-- Bosnia & Herzegovina 1.22-1.24
-- Spain (1.19)
-- Italy (1.25)
-
-RW have a lot of retard takes that conform to their beliefs like porn, work hrs, feminism, megacities etc to supposedly explain low TFR in East Asia. No one associates Ricans with workaholism, CCP fills Chinese heads with wolf warrior BS & censors feminists.
-
-Thailand, CR, & Chile r all more rural, 2 of them even follow Catholicism (this is for those ecath LARP retards who fantasize about a Catholic Japan, see attached image) with incomes well < Japan. I guess its easier to think world confirms to ur pet beliefs
-
-Female Edu and TFR: It correlates but not perfectly (Japanese female edu > Chinese but higher TFR).
-
 ### Greece
 When Greeks depopulated themselves through hedonism (Polybius), fecund Rome was on the ascent & made them a colony
 
@@ -104,6 +85,14 @@ China is in no position for any conquest of Siberia. If such an unlikely thing w
 ### Costa Rica
 The TFR declined from 1.41 to 1.31. 21% of births were to mothers of foreign origin, mostly from Nicaragua. The number of middle income countries whose demographics resembles developed countries is growing rapidly.
 
+### Germany
+> "If we had multiplied in Germany like the Palestinians in the Gaza Strip, there would be 550 million Germans today. And there would be 80 million young people between the ages of 15 and 30. Do you think the 80 million young German men are ten times as pacifist as the 7 million we have today?"
+
+## Turkey
+The Turkish population register counted 4% fewer 0-year olds in 2022 than the year before. From that, it follows that the TFR of Turkey in 2022 was 1.64, down from 1.70 in 2021.
+
+## Lebanon
+> "By 1970, the Christians had landed themselves in a declining fertility rate of 4 children per woman, while the Muslims maintained a steady fertility rate of 6 children per woman. The result was that between 1965 and 1970 Lebanon became a Muslim majority country during a raging civil war. In the ensuing bloodbath and mayhem nearly five million Christians out-migrated within 2-3 years."\[[IT15](http://indiatomorrow.co/nation/3778-fudging-of-census-data-continues-while-the-bjp-slumbers)\]
 
 ## Disincentives
 ### 1 child policy impact
@@ -112,7 +101,26 @@ Neighbors & many Euro countries also have similarly low TFR's without any 1 chil
 NE China is rust belt with lowest TFR in world & rapid depop due to lack of jobs
 So much for Western fantasy of China conquering Siberia from Rus.
 
-## Polygyny
+### False explanations
+Some unexpected countries/territories (unless u follow demography) more rural & lower in per capita GDP than Japan (1.3) yet with lower/on par TFR's for 2021
+
+- Costa Rica (1.31)
+- Chile (1.22)
+- Thailand (1.18)
+- Puerto Rico (1)
+- PRC (1.16 as per CCP fraud, likely below 1)
+- Pre-war Ukraine in 2020 1.34 (same as Japan), now lower
+- Bosnia & Herzegovina 1.22-1.24
+- Spain (1.19)
+- Italy (1.25)
+
+RW have a lot of retard takes that conform to their beliefs like porn, work hrs, feminism, megacities etc to supposedly explain low TFR in East Asia. No one associates Ricans with workaholism, CCP fills Chinese heads with wolf warrior BS & censors feminists.
+
+Thailand, CR, & Chile r all more rural, 2 of them even follow Catholicism (this is for those ecath LARP retards who fantasize about a Catholic Japan, see attached image) with incomes well < Japan. I guess its easier to think world confirms to ur pet beliefs
+
+Female Edu and TFR: It correlates but not perfectly (Japanese female edu > Chinese but higher TFR).
+
+### Polygyny
 If u have 5 wives & produce 10 kids, that's merely replacement. Mormon polygamists shared the flaws of the fruit fly.
 
 ### Hard to sustain
