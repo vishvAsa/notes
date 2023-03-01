@@ -120,6 +120,13 @@ Thailand, CR, & Chile r all more rural, 2 of them even follow Catholicism (this 
 
 Female Edu and TFR: It correlates but not perfectly (Japanese female edu > Chinese but higher TFR).
 
+#### Belief in government 
+
+- Eberstadt is typical e. g. of reaching a conclusion & then trying to fit the data to supp ur predetermined conclusion, quiet similar to right wing kooks who think low TFR can be explained by porn, anime, & whatever else takes their fancy. 
+- If highlighted bit had any truth to it, what do similarly collapsing births in Taiwan, SK, Uruguay, Chile etc indicate? A vote of no confidence in democracy? 
+- PRC could become a liberal democracy tomorrow & it wouldn't make 1 whit of difference to its TFR except continue its decline as under Xi. 
+- Supposedly North Korean TFR is 1.8-1.9, way higher than SK's dismal 0.78. By Eberstadt's logic, there is a vote of confidence in the glorious Kim dynasty & Juche against the decadent capitalist democracy of SK & its Hallyu
+
 ### Polygyny
 If u have 5 wives & produce 10 kids, that's merely replacement. Mormon polygamists shared the flaws of the fruit fly.
 
