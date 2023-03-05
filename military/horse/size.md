@@ -5,11 +5,17 @@ title = "Size"
 - See images [here](images/size/).
 
 ## Bronze Age
-### Wagon age
+### Mostly Wagon age
 - The earlier ones could provide milk and probably pull wagons. These are what the IEs had when they conquered Europe.
+- Scientific studies show that horses were kept for their milk ~3500 to 3000 BCE, widely accepted as indicating domestication. [SA2023](https://www.science.org/doi/10.1126/sciadv.ade2451)
+
+### Early riding evidence
+"five Yamnaya individuals well-dated to 3021 to 2501 calibrated BCE from kurgans in Romania, Bulgaria, and Hungary, displaying changes in bone morphology and distinct pathologies associated with horseback riding." [SA2023](https://www.science.org/doi/10.1126/sciadv.ade2451)
 
 ### Calmer stronger horse
-Unlike early semi-domesticated horses, fully domesticated (taking over between 4200 and 3000 years ago) ones had only two gene changes: ZFPM1 (anxiety and aggression) and GSDMC (associated with chronic back pain in humans). [SCI](https://www.science.org/content/article/ancient-dna-reveals-long-sought-homeland-modern-horses) The fully domesticated ones were calm enough to train to pull a chariot, and a back strong enough to ride.
+Unlike early semi-domesticated horses, fully domesticated (taking over between 4200 and 3000 years ago) ones had only two gene changes: ZFPM1 (anxiety and aggression) and GSDMC (associated with chronic back pain in humans). [SCI](https://www.science.org/content/article/ancient-dna-reveals-long-sought-homeland-modern-horses) 
+
+The fully domesticated ones were calm enough to train to pull a chariot, and a back strong enough to ride.
 
 > क्व१॒॑ वो ऽश्वाः॒, क्वा॒३॒॑भीश॑वः +++(=रश्मयः)+++  
 क॒थं शे॑क+++(←शक्)+++, क॒था य॑य ।  
