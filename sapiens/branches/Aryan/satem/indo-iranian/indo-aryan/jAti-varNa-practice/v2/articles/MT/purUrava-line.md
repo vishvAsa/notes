@@ -1,5 +1,5 @@
 +++
-title = "yayAti-line"
+title = "purUrava-line"
 +++
 
 Source: [TW](https://www.oocities.org/somasushma/puru.html)
@@ -151,3 +151,158 @@ All of draupadi's sons and brothers perished effectively ending the pAnchala dyn
 - prachetA
 
 ## yadu
+(After yayAti)
+
+- yadu
+- sahasrajit
+- shatajit
+- haihaya
+- dharma
+- dharmanetra
+- kunti
+- sAhanji
+- mahiShmA
+- bhadrashreNya
+- durdama
+- dhanaka
+- kR^itavIrya
+- arjuna
+- vR^ishaNa
+- madhu
+- kroshhTu
+- ahi
+- usha~Nku
+- chitraratha
+- shashabindu
+- pR^ithukIrti
+- pR^ithushravA
+- suyaGYaka
+- ushanA
+- titikshu
+- rukmakavacha
+- jyAmagha
+- vidarbha
+- ?
+- ?
+- ?
+- kaushika
+- R^ichi
+- chaidya
+- kunti-II
+- vR^ishNi
+- nivR^iti
+- udarka
+- dashArha
+- vyoma
+- jImUta
+- vikR^iti
+- bhimaratha
+- madhuratha
+- dR^iDharatha
+- shakunti
+- karambhi
+- devarAta
+- devakshatra
+- madhu-II
+- kurushravaNa
+- anu
+- puruhotra
+- amshu
+- satvashruta
+- **sAttvata**
+- vR^ishNi-II
+- sumitraka
+- anamitra
+- sini
+- satyaka
+- sAtyaki
+- sa~njaya-II
+- kuli
+- yugantara
+- svAhya
+- R^ishabha
+- shvaphalkaka
+- akrUra
+- sudhanvaka
+
+### bhAjamAna
+(After sAttvata)
+
+- bhajamAna	
+- ?
+- ?
+- vidUratha
+- shura
+- vasudeva, **shami**
+- **balabhadra, kRShNa**
+
+#### kArShNa
+- pradyumna
+- aniruddha
+- vajra
+- pratibhanu
+- charu
+
+
+#### shami line
+- praikShatra
+- svaMbhoja
+- hRdika
+- kRtavarma
+
+## kshAtravR^iddha 
+(After Ayu)
+
+- **kshatravR^iddha**
+- suhotra-II, pratikShatra
+- kAshya
+- dIrghatamA
+- dhanvantari
+- ketumAn
+- bhImaratha
+- divodAsa
+- pratardana
+- R^itadhvaja
+- alarka
+- sannati
+- sunIta
+- satyaketu
+- vibhu
+- suvibhu
+- sukumAraka
+- dhR^ishTaketu
+- vItihotra
+- bharga
+- bhargabhumi
+
+### prAtikShatra
+(After kshatravR^iddha)
+
+- pratikShatra
+- sanjaya
+- vijaya
+- KR^ita
+- VR^ishaghna
+- sahadeva
+- adIna
+- jayatsena
+- saMkR^ti
+- kshAtradharma
+
+
+## kaushika
+(After pururavas)
+
+- amAvasu
+- bhIma
+- KA-nchana
+- suhotra
+- jAhnu
+- sumantu
+- balAkAshva
+- ishhiratha
+- kushika
+- kushAshva
+- gAthi
+- vishvAmitra
+- ashTaka and other kaushikas

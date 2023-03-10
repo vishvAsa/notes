@@ -98,4 +98,9 @@ Foot Notes
 
 
 
-[^3]: iv n? #NÔ/ m&xa?e jih nI/ca y?CD p&tNy/t>, A/x/m< g?mya/ tmae/ yae A/Sma~ A?i-/ds?it.
+[^3]: 
+
+    वि न इन्द्र वि मृधो जहि  
+    नीचा यच्छ पृतन्यतः ।  
+    अधमं गमया तमो  
+    यो अस्माꣳ अभिदासति ॥
