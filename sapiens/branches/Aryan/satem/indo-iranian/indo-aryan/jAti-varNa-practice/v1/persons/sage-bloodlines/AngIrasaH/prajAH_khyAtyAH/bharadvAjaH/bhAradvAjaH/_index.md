@@ -33,7 +33,10 @@ great debator, fine poet.
 Contemprory of Appayya Dikshit and paramaguru of Sri Raghavendra thirta.Authoritative in Vedanta and 64 arts. He is the founder of Kumbakkona  mutt
 
 ### अप्पय्य-दीक्षितः
-An आन्ध्रदेश ornament of the भारद्वाज गोत्र of the भारद्वाज गण of the आङ्गिरसाः (Descendants of ऋषि अङ्गिरस् ); championed the defense of शैवमत against the churlish, authored many a beautiful स्तोत्र; an ocean of वेद & वेदान्त & a genius of the field of poetics.
+- his ancestors were from the banks of Narmada and slowly moved to North Arcot due to disturbances in North.
+- The family became heavily Teluguized whilst settling in North Arcot. It is observed by the way they speak Tamil using Telugu aphorisms, having Venkanna as their kuladevata and naming their children as Venkata
+- He belonged to Bharadwaja gotra and a Samavedi. (6/n)
+- championed the defense of शैवमत against the churlish, authored many a beautiful स्तोत्र; an ocean of वेद & वेदान्त & a genius of the field of poetics.
 
 - Defeat by bhaTTatiri - See [heliocentricism page](/jyotiSham/history/heliocentrism/).
 

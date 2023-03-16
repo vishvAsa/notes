@@ -36,3 +36,16 @@ From the book:
 > . . trade flows were determined by financial flows.  The financial innovations that led to massive British capital outflows to Latin America in the early 1820s . . were directly connected to Britain’s massive trade surpluses with Latin America during the same period. "These trade relations cannot be explained by analyses of British manufacturing efficiency or the comparative advantages of Latin American producers. 
 
 This is a very critical point for policy makers. 
+
+
+## Fragility
+
+Source: [TW](https://threadreaderapp.com/thread/1636172176276455424.html)
+
+The Credit Suisse crisis demonstrates yet again the extreme fragility of the global financial system, caused by decades of central bank madness, with endless QE distorting financial markets & the real economy beyond recognition, causing massive inequality & other social ills. This hyper-financialized regime of debt driven "growth" cannot be sustained. The problem today is that global policy makers, particularly central bankers in the developed world, know no other play book than yet more QE and curing extreme debt with yet more debt and bailouts.
+
+Inflation is the inevitable consequence, and as long as inflation was confined to asset markets (stocks, bonds, real estate) it all seemed to work. We have now reached a point where the real economic distortions of decades of ultra-easy money have led to loss of productivity. At this point, repeating their old playbook of yet more QE & endless bailouts can only lead to an hyper-inflationary end-game. 
+
+### Back to basics
+That is why I focus on basics: grow more food, build lower cost housing, affordable education & healthcare & importantly, learn to live well on less. Back to Basics: that summarizes my approach on how to cope with the impending economic dislocations central bankers have all but ensured for the world. I know from experience back to basics helps us be happier and more rooted as well, so this approach is good on its own. 🙏
+

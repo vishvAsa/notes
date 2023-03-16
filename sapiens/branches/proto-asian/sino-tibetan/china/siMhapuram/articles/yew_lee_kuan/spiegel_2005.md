@@ -25,7 +25,6 @@ SPIEGEL: You've been the leader of a very successful state for a long time. Retu
 
 Mr. Lee: I saw it coming from the late 1980s. Deng Xiaoping started this in 1978. He visited Bangkok, Kuala Lumpur and Singapore in November 1978. I think that visit shocked him because he expected three backward cities. Instead he saw three modern cities and he knew that communism -- the politics of the iron rice bowl -- did not work. So, at the end of December, he announced his open door policy. He started free trade zones and from there, they extended it and extended it. Now they have joined the WTO and the whole country is a free trade zone.
 VERLAGSANGEBOT
-#
 
 Eine Klasse für sich
 
