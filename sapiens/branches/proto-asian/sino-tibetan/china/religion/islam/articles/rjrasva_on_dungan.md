@@ -2,17 +2,19 @@
 title = "rjrasva on dungan"
 +++
 
-## Context
-Panthay 17 yr rebellion with heavy Mohammedan element, overlapped with Dungan jihad. Jahangir Khoja→Panthay Rebellion (1 mill dead)→1st Dungan (8-12 mill dead) 1862–77 →2nd Dungan (1895 during 1st S-J war)
-
-### Religious motivations
+## Religious motivations
 - sUfi rAshidIn khwAja
 
-## Costly suppression
-- "Dungan revolt: 8-12 mill dead, lasted 15 yrs,sullas prob around 10% of Qing : 32-48 mill or more dead(Indian pop 4X Qing & sulla % higher)" \[TW\]
-- Zuo reported 60K of 700K Shaanxi Mohammedans left. "Among those fortunate to survive this catastrophe, some had relocated ... while others were forced to abandon their religion and become part of today's Han people". Islam in Shaanxi was completely destroyed as a result of the policy of “demolishing Hui” in the late Qing Dynasty. ([TW](https://twitter.com/Rjrasva/status/972870662023860224))
+## Impact
+Panthay 17 yr rebellion with heavy Mohammedan element, overlapped with Dungan jihad. Jahangir Khoja→Panthay Rebellion (1 mill dead)→1st Dungan (8-12 mill dead) 1862–77 →2nd Dungan (1895 during 1st S-J war)
 - "(80% of sullas in empire died when curbing Dungan, Panthay etc)." \[TW\]
-- Qing punishment for sons & grandsons of Yaqub Beg: castration \[[TW](https://twitter.com/Rjrasva/status/710988882742005760)\].
+- This Dungan jihad tmk is the largest jihad in hist in total #'s & yet is mostly unknown to non historians, even most Mohammedans including Pakistanis have no idea.
+
+## Costly suppression
+- During the initial phase the Manchu & Han were caught off guard & for a time western observers of the time thought a caliphate would be born in western China before they turned the tide
+- "Dungan revolt: 8-12 mill dead, lasted 15 yrs,sullas prob around 10% of Qing : 32-48 mill or more dead(Indian pop 4X Qing & sulla % higher)" \[TW\]
+- Famous General Tso's chicken btw is named after Zuo Zongtang who carried on a part war of extermination of Mohammedans to put down the jihad.
+- Zuo reported 60K of 700K Shaanxi Mohammedans left. "Among those fortunate to survive this catastrophe, some had relocated ... while others were forced to abandon their religion and become part of today's Han people". Islam in Shaanxi was completely destroyed as a result of the policy of “demolishing Hui” in the late Qing Dynasty. ([TW](https://twitter.com/Rjrasva/status/972870662023860224))
 
 ### Economic and social restrictions
 - \[[TW](https://twitter.com/Rjrasva/status/471303134216998912)\]
