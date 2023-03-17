@@ -18,7 +18,7 @@ Precautions r taken against appointing Mohammedans to sensitive military posts (
 
 > AT A Singapore 21 forum at Tanjong Pagar on Sept 18, a polytechnic student had asked Senior Minister Lee Kuan Yew if certain instinctive emotional bonds among the ethnic groups could be overcome so that Singapore could become a nation. This was Mr Lee's reply: 
 > 
-> > "Yes, I think so, over a long period of time, and selectively. We must not make an error. If, for instance, you put in a Malay officer who's very religious and who has family ties in Malaysia in charge of a machine-gun unit, that's a very tricky business. We've got to know his background. I'm saying these things because they are real, and if I don't think that, and I think even if today the Prime Minister doesn't think carefully about this, we could have a tragedy. So, these are problems which, as poly students, you're colour-blind to, but when you face life in reality, it's a different proposition."
+> > "Yes, I think so, over a long period of time, and selectively. We must not make an error. If, for instance, you put in a Malay officer who's very religious and who has family ties in Malaysia in charge of a machine-gun unit, that's a very tricky business. We've got to know his background. I'm saying these things because they are real, and if I don't think that, and I think even if today the Prime Minister doesn't think carefully about this, we could have a tragedy. So, these are problems which, as poly students, you're colour-blind to, but when you face life in reality, it's a different proposition."+++(5)+++
 
 There is a local gov't managed mosque building fund that SG Mohammedans can voluntarily contribute to. This is in part to prevent Saudi (& other foreign) funded mosques
 
