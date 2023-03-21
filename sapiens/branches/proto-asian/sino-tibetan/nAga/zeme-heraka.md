@@ -2,6 +2,8 @@
 title = "Zeme Heraka"
 +++
 
+> Zeliangrong Nagas were coming under the influence of Hinduism, particularly the Manipuri variant of Vaishnavism. They were building temples and adopting Meitei customs. This worried the British and they destroyed their temples. - porbotialora
+
 A group of nAga-s inspired, by rAni Gaidinliu, has remained heathen, and has successfully resisted Christianization in Nagaland.
 
 ## Syncretism with Hinduism
