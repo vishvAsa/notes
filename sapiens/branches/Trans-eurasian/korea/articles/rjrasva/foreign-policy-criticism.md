@@ -1,0 +1,26 @@
++++
+title = "Foreign-policy-criticism"
++++
+
+## Opium war
+Multiple Views of the Opium Wars in the Joseon Dynasty: A Study on the Joseon Government`s, Intellectuals`, and Commoners` Perceptions of the Qing Dynasty in the mid- to late-19th century  
+Zhang Bao Yun  
+2017
+
+This article considers how the different society strata of the Joseon Dynasty's perceptions of the Qing Dynasty were affected by the First and Second Opium Wars with attention to the reactions of the Joseon Dynasty, intellectuals, and commoners at that time. 
+
+As regards the First Opium War, except a few intellectuals, such as Yu Shin- hwan(1801~1859) and Yi Hang-no, 1792~ 1868), the Joseon government, the intellectuals and the commoners did not recognize it as a serious crisis and reacted with a calm, even optimistic, attitude. The fact that the commoners and some intellectuals did not receive the latest news about the war in a timely manner contributed to this perception. Additionally, Qing Dynasty`s own attitude to the First Opium War reduced concerns about the Qing's defeat in Joseon society. In contrast, even those intellectuals who viewed the Qing defeat as a threat still had different viewpoints. Firstly, some of them expected the destruction of the Qing Dynasty; while others emphasized the common destiny between the two countries. Further, commoners retained a significant amount of revenge consciousness regarding the Qing Dynasty. That the Western powers were not viewed with the same sense of crisis by Koreans of different class influenced the diversity of opinion. 
+
+However, the Second Opium War induced in all Joseon social strata an extreme sense of crisis. Still, opinions about the crisis and attitudes toward the Qing Dynasty varied among the classes. On one hand, the rulers of government and some intellectuals who participated in realpolitik understood the Qing as an allied force. On the other hand, due to the weakness of the Qing Dynasty, the commoners and some intellectuals who were out of power expanded calls for revenge against the Qing; finally, some also looked at the Qing Dynasty objectively, and took a wait-and-see attitude to the Qing's crisis. Different social strata's perceptions of Western powers and their own attitudes toward the identity of the Joseon Dynasty, such as the level of self-confidence in the realms of policy, culture, and so on, directly affected their perceptions of the Qing and its level of crisis in the aftermath of both Opium Wars.
+
+## Pak Chega's discource
+A Korean Scholar's Rude Awakening in Qing China: Pak Chega's Discourse on Northern Learning
+
+After traveling to Beijing in 1776, Pak wrote Discourse on Northern Learning, in which he favorably introduced many aspects of China’s economy and culture. ... Sŏng Taejung (1732–1812) and Wŏn Chunggŏ (1719–1790) had traveled in Japan for a year, from 1763 to 1764, and their reports upon returning home were read with great interest. Pak Chega was impressed with how advanced Japanese culture seemed — a scarcely believable development... If they who consider themselves literati should ever think about this, they would realize that only studying Chinese isn’t adequate preparation. To avoid humiliation, they would also need to learn the Manchu, Japanese, and Mongolian languages.
+
+When Hyŏnch’ŏn Wŏn Chunggŏ (1719–1790)168 went to Japan, the Japanese showed him a woodblock print of our National Code (Kyŏngguk taejŏn), and pointing to the chapter on salaries for clerks, they asked, “Why are the salaries of officials in your country so low?” The next day was the same. This is how the Japanese tried to show off their prosperity to our embassy. Since everyone wants their own country to be rich and powerful, why would they concede to anyone else the very means of becoming rich and powerful?
+
+The people in our country are quite good at talking but poor at find- ing solutions. They work busily on immediate plans but remain in the dark about overall strategies. Each district manages to exhaust itself by checking for able-bodied enlistees, and each province wears itself out by training troops, yet all of this amounts to nothing more than a waste of our country's gunpowder. Our officials constantly embark on diplomatic missions to China and other countries, and yet in the end not one has returned with any knowledge of the systems that are deployed in other countries. Instead, they dismiss their hosts as barbarians, referring to them in Japan as "Wae" and in China as "Ho." Of course, we arrogantly believe that the rest of the world agrees with us. Is it any wonder that we were routed by the Japanese in the year imjin (1592) and that the Namhan mountain for- tress was retaken by the Manchus in the year chongch'uk (1637),181 so that our grief over Pingcheng has yet to be avenged, and our enemies through nine reigns yet to be defeated?
+
+His view of Japan may have been influenced by
+that of Cho Myŏngch’ae, who visited Japan in 1748 and wrote: “What was worth observing in Japan was the rules and discipline. Measurements and regulations were exactly the same throughout the country"
