@@ -41,6 +41,10 @@ title: Flight
 - BAA Yellahanka field : 13.1324210, 77.5545510 .
 - Bangalore Flyers Club, with its runway near Anekal
 
+## Rocket launches
+- SDSC SHAR at sriharikota routinely launches rockets.
+  - From 2023 - "A link will be generated 5-6 days before launch and one can book thru that. Before the next launch, the link he Promised to send to me."
+
 ## To check
 
 - Sky-jumping
