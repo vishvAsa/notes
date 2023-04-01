@@ -36,6 +36,15 @@ If the Portuguese had such great prospects? Then why didn't they do fuck all whe
 
 Right - it couldn't be because Hideyoshi was able to mount the largest pre modern naval invasion before D-Day Why r u linking me unrelated stuff? That slave trade carried out by padres & Xtian daimyo was 1 of the reasons y Xtians were exterminated.
 
+## Chinese study
+> During his 1592 invasion of the Korean peninsula, Hideyoshi ordered Katō Kiyomasa to explore the region north of the Tumen River in search of more precise geographic information ... Katō’s ten-day foray into the region lying north of the Tumen River informed Hideyoshi that a process of state-building was taking place there. ...
+> As noted previously, Japanese leaders, who had collected information about the Jurchen since the 1590s, were keen observers of the Manchu conquest. News of the Qing capture of the Ming capital, Peking, in June 1644, was brought to Nagasaki by Chinese merchants arriving in October
+>
+> - Early Modern China and Northeast Asia
+  By Evelyn S. Rawski · 2015
+
+
+
 ## Map making
 Source: [TW](https://twitter.com/Rjrasva/status/724275252285575168)
 

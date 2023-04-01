@@ -1,3 +1,10 @@
++++
+title = "Not understanding Isalm"
++++
+
+Source: [TW](https://en.rattibha.com/thread/1412388808482508810)
+
+Not understanding Isalm -Rjrasva
 
 ## State level
 What creative excuses our folks come up with! "Rashtrakutas of 10th cent couldn't have known about Mohammedanism & its future effects, so they let sulla merchants infest their kingdom". 
