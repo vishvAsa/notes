@@ -24,6 +24,21 @@ In कायावरोहण of लाटदेश, to a blessed father by the
 venkaTAdhvarin
 (1600s of the common era), as has [been said](http://manasataramgini.wordpress.com/2012/04/06/some-maxims-of-venkatadhvarin/)\- "a shrauta ritualist, keen observer of humanity, master poet, proponent of vishiShTAdvaita and shrIvaiShNava bigot".
 
+> श्रीपञ्चमत-भञ्जन-निबन्धन-विख्यात-  
+तात-यज्व-भागिनेय-  
+वाजपेय--सार्व-प्रष्टाप्तोर्यामादि-याज्य्--  
+आत्रेय-वंश-मौक्तिकी-भवद्-  
+अप्पय्यार्य-तनू-भव--  
+श्लेष-यमक-चक्र-वर्ति-  
+रघुनाथाचार्य-तनयस्य  
+श्रीनिवास-कृपातिशय-संविदित-नयस्य  
+सीताम्बा-गर्भ-संभवस्य  
+श्रीमत्-काञ्ची-नगर-वास्तव्यस्य  
+महा-कवि-श्रीमद्-वेङ्कटाध्वरिणः कृतौ  
+विश्वगुणादर्श-चम्पूः समाप्तिम् अगात् ॥
+
+इति तत्प्रशस्तिः। 
+
 ### Ranga Nath Poudyal
 Son of Tāntrika Pandit Brajnath Poudyal Atri (Guru of King Pratap Singh Shah, writer of Purascaryarnava). Ranga Nath grew up in Benaras although he was born in Makhantol, Kathmandu in 1773 AD as his father was exiled to Benaras by Queen Rajendra Laxmi. Ranga Nath was considered among the finest scholars in all of Kashi. Hence, the king of Kashi gave him the title "King of Pandits". Once back to Nepal, he not only became Rājguru but also Mukhtiyār (Prime Minister) for a short time. 
 
