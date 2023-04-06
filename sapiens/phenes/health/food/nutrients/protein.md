@@ -2,6 +2,12 @@
 title = "Protein"
 +++
 
+## Protein quality metrics
+ - "limiting amino acid"  = essential amino acid present in the lowest quantity in a food protein relative to a reference food protein like egg whites.
+- DIAAS
+  - Accounts for amino acid digestibility at the end of the small intestine; contribution to human amino acid requirements.
+  - [wiki](https://en.wikipedia.org/wiki/Digestible_Indispensable_Amino_Acid_Score)
+
 ## Recommended quantity
 - The recommended dietary allowance to prevent deficiency for an average sedentary adult is 0.8 grams per kilogram of body weight. For example, a person who weighs 121 pounds, or 55 kilograms, should consume 44 grams of protein per day.
 - Once you reach ages 40–50, sarcopenia, or losing muscle mass as you age, begins to set in. To prevent this and to maintain independence and quality of life, your protein needs increase to about 1–1.2 grams per kilogram or 55–66 grams per day for a 55-kilogram person.
