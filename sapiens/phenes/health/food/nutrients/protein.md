@@ -29,6 +29,8 @@ title = "Protein"
 - Cooked Green Peas / maTTar - 5.2%
 - Chickpeas Garbanzos - 8.9%
   - 100g - 165 cal
+- Soy
+  - Not great idea given it's phyto-estrogen isoflavone contents
 
 ### Cereals
 - Rolled Oats - 13.5%
