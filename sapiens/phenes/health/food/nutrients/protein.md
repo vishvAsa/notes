@@ -18,17 +18,22 @@ title = "Protein"
 - egg white raw - 11% by weight
 
 ### Milk products
+Before processing, about 20% of the protein in milk is whey (fast-digesting, आमीक्षा।) and the other 80% is made up of the slower-digesting casein proteins. Both high quality proteins.
+
 - Low fat paneer 22%
 - yoghurt
   - regular - 3.5%
+- Whey concentrate - 80% 
+- Whey isolate - 90%
+- 88.8%. 31 grams has 24 grams of protein. 
   
 ### Pulses and beans
+- Chickpeas Garbanzos Bengal gram (sattu is it's flour) - 8.9%
+  - 100g - 165 cal
 - mUng dAl 
   - cooked - 8%
   - Uncooked - 24%
 - Cooked Green Peas / maTTar - 5.2%
-- Chickpeas Garbanzos - 8.9%
-  - 100g - 165 cal
 - Soy
   - Not great idea given it's phyto-estrogen isoflavone contents
 
@@ -43,14 +48,15 @@ title = "Protein"
 ### Nuts
 - Peanut/ groundnut - 28%
   - 32 nuts - 168 cals, 7.8g protein
-- almonds - 21.26%
+- almonds - 21.26%. Low quality.
   - 1 almond - 7 cals, .26g protein, 1.2g
   - 25 almonds - 173 cal, 6g protein
 - cashew - 18.2%
   - 1 nut - 9 cals, .2g proten, 1.6g
 
-### Supplements
-- whey protein powder - 88.8%. 31 grams has 24 grams of protein. आमीक्षा। 
+### Other Supplements
+- [proteinchef blr](https://proteinchef.fit/products/protein-powder-for-cooking?variant=42874795163903) 
+- preteinchef pro - 72% (12% carb)
 
 #### Desiderata
 - About 200 or fewer calories
