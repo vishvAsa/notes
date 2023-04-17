@@ -1,0 +1,225 @@
++++
+title = "Tilak-jail-books"
++++
+
+Tilak’s Study in Jail
+
+Source: Reminisces and Anecdotes of Lokamanya Tilak,  Edited by S V Bapat, 1928
+
+=================
+
+When Lokamanya Tilak returned to his mother-country after his six years incarceration at Mandalay he carried with him nearly four hundred books, mostly on Gita and Hindu religious philosophy. These books were packed in two crates and a list of them was made by Lokamanya Tilak himself and signed by the jailor with the remark “Packed in my presence”.  We print the list below for the information of the readers. It shows Lokamanya’s vast reading and the amount of trouble he took in preparing his Magnum Opus! the Gita-Rahasya. The list will be useful to the students of Gita and the Gita-Rahasya. It will alao be helpful to those who wish to furnish public or private libraries with literature about the Gita and Hindu Philosophy and Ethics – Editor.
+
+- Nos. 1–4 Rigveda Samhita, 4 Volumes, edited by Prof. MaxMuller.
+- 5-19 .Anandashram Series (II volumes) Ishavasya Upanishad, Kenopanishad, Kathopanishad, Prasnopanishad, Taittiriya Upanishad, Chhandogya Upanishad, Brihadaranyaka Upanishad, Shyetashvatara Up, Brahma-Sutra Pt. I, Brahma-Sutra Pt. II
+- ThirtyTwo Upanishads
+- 17-20 Anandashram Series (continued)–4 volumes. Brahms. Sutra Pt. I ( Second copy,) Brahma-Sutra Pt. II ( Second copy) ThirtyTwo Up.-{ Second copy),  Bhagvatgita
+- 21 Bhagvagita by Brooks
+- 22 Sankhya-Karika
+- 23 Sankhya-Sutra Vritti
+- 24 Dnyaneshwari
+- 25 Ramdas and Ramdasi
+- 26 Shri Tukaram
+- 27 Bharatiya Yuddha ( Marathi)
+- 28 Ramakathamrita Pt. I (Marathi)
+- 29 Ramakathamrita Pt. II ( Marathi)
+- 30-36 Maha-Bharata in 7 Volumes (in Sans)
+- 37 Manava-Dharmashastra
+- 38-39 Rigveda Samhita ( text ) VoL I and II
+- 40 Rigveda Trans by Max Muller
+- 41 Rigveda Worterluch (German) by Grassman
+- 42 Sanskrit English Dictionary-Apte
+- 43-47 Sacred books of the East Series { 3 Vols.) Vol I Upanishad Pt. I Vol XV Upanishad; Pt II, Vol VIII The Bhagawat-Gita
+- 48 Arctic Home in the Vedas
+- 50 Vedische Mythology-Macdonnel
+- 51 Ancient Hindu -Astronomy and Chronology (Max Muller )
+- 52-54 Vedishe Mythology-by Aillebundry in three volumes ( German)
+- 55 Allgemum Geshikte der Philosophic–Upanishads-Paul Deussen (German)
+- 56 Religion and Philosophy of India by Paul Deussen
+- 57 Twenty-eight Upanishads (in Sans)
+- 58 Gita with Shridhara’s Commentary (in Sans)
+- 59 Gita with Ramanuja-Bhashya
+- 60 Concepts of Monism by Worsley
+- 61 Haekel’s Monism false
+- 6l Sketch of Vedanta Philosophy by Trivedi
+- 63 Gospel of Life by Brooks VoL I
+- 64 Riks
+- 65 Kants Critique of Pure Reason
+- 66 Kants Theory of Ethics
+- 67 Pessimism by James Sully
+- 68 Elements of Moral Philosophy, Whewell
+- 69 Data of Ethics-Spencer
+- 70 Methods of Ethics-Sedgwick
+- 71 Utilitarianism by J S. Mill
+- 72 Types of Ethics Vol 1 Martineau
+- 73 Types of Eithics Vol1 Martineau
+- 74 Prolegomena to Ethics-Green
+- 75 Science of Ethics-Leslie Stephen
+- 76-77 Buller’s Works. Vol. I and II
+- 78 Mental and Moral Science Bain
+- 79 History of Ethics-Sedgwick
+- 80 Ethical Problem -Carus
+- 81 Nicomachean Ethics-Aristotle
+- 82-3 Politics of Aristotle Vol I and II
+- 84 Study of Sanology Spencer
+- 85 Relpublic of Plato
+- 86 Loke’s Essays
+- 87 Hume’s Essays
+- 88-91 Courtes System of Positive Philosophy 4 vols
+- 92 General view of Positivism-Courtes
+- 93-95 Courtes Positive Philosophy 3 vols
+- 96 Hegel’s Philosophy of history
+- 97 Scheegel’s Philosophy of history
+- 98 Scheegel’s Philosophy of life
+- 99 Mavsonis-The Betrothed
+- 100 Plutarch’s Morals
+- 101 Hobb’s Leviathan
+- 102 Machiavell’s-The Prince
+- 103 Darvinism and Politics
+- 104 Darvinism and Race, Progress
+- 105 Promotion of general Happiness
+- 106 Social Contract
+- 107 Voltaire–J. Morley
+- 108-109 Rousaeau VoL I and II by J. Morley
+- 110–111 Didero VoL I and II by J. Morley
+- 112Burke by J. Morley
+- 113 Ideal Commonwealths
+- 114-115 Burke’s select works VoL I and II
+- 116 Burke’s select works Regicide
+- 117 Milton’s Areopagitica
+- 118 Lewis’ Government of tbe Dependencies
+- 119 The State by Woodrow Wilson
+- 120 Principles of Science by Jevons
+- 121-23 Todhunter’s Trigonometry, Conic sections and Integral Calculus
+- 124 Edward’s Dilferential Calculus
+- 125 Clebrooke’s Essays, Vol. II (only)
+- 126 Herschels Astronomy
+- 130-133 Stricklands 4 books Folklore and legend
+- 134 Omina and Portenta-Weber
+- 135 Bentley’s Hindu Astronomy
+- 157 Riddle of the Universe
+- 158 Fundamental principles of Positive Philosophy
+- 159 Hume’s Essays
+- 161 Cassel’s German-English Dictionary
+- 162-163 German Principia PL I and II
+- 164-165 Otto’s German Baader I and II
+- 166 Whitakar’s Modern Method of studying German
+- 167 German Composition by Lange
+- 169 Hugo’s German Simplified
+- 170 How to speak German (set of three)
+- 171 German verbs simplified
+- 172 German idioms simplified
+- 173 Hugo’s German Reading simplified
+- l74 MacMillan’s German Series First Course
+- 175 The Karavan(German)
+- 176-179 Sebabu’s Classics (German) 4 Volumes
+- 180 Der Land firediger (German Trans. of Vicar of Wakefield)
+- 181 Gulliver’s Reisin (Germ. Trans.)
+- 182 Robinson Crusoe (Germ Trans)
+- 183 Macaulays Hastings (Germ Trans)
+- 184 Vicar of Wakefield (English)
+- 185 Gulliver’s Travels (English)
+- 186 Macaulay’s Hastings (English)
+- 187 Robinson Crusoe (English)
+- 188 Otto’s French Conversation Grammar
+- 189 De Feva’s Germanaireder German-French Reader
+- 192-203 Hugo’s French books (12 books in all)
+- 205 Henri Bue’s first and second book
+- 206 Key to Henri-Henri Bue’s first course
+- 207-210 Self-taught series (4 books German, French, Hindustani Grammar)
+- 2l1 Guide to French Pronunciation
+- 212 La Cariculture La Angleterre
+- 213 Petit Jap
+- 214-230 Story of the Nations series (17 Volumes) Moors in Spain, Hungary etc
+- 231 Chambers 20th Century Dictionary
+- 232 Shranta Bhumi-Athavale
+- 233 Kumardasa-Nandargikar
+- 234 Kurukshetra-Brooks
+- 235 Hindu Aspect of Salvation by Brooks
+- 236 Bhagavatgita (Marathi Trans and Text)
+- 237 Holy Bible
+- 239 Diary for 1912
+- 241 Murray’s Classical Atlas
+- 242 The worldwide Atlas
+
+In addition to the above the following
+
+- 268-269 Note-books
+- 275 Note-book
+- 283 Grundrin Buddhism
+- 285 Goethea Faust (Text and trans)
+- 291 Diary for 1913
+- 306 Buddha and Buddhism Silie
+- 307-308 Pali Course I and II – Gray
+- 312 Pali Reader I
+- 313-314 DhammaPada in Burm and Sans
+- 318 Pali Reader II
+- 321 Bhagawat Puran (Sans)
+- 327 Hegel and Hegelianism
+- 339 Siddhanta-Kaumudi 3 vols
+- 342 Paulsen’s System of Ethics – 2 vols
+- 344 Mahavamsha (Eng. Trans) 7 vols
+- 351 The Gitaa
+- 353-354-356 Vinaya-Pitaka, Vol I and II and IV (Three Books)
+- 360 Sutta-Nipata (Pali)
+- 362 Buddhism and Christendom (Lilie)
+- 365 Bharatiya Upakatha
+- 366 Sarva Mula Part I
+- 376-371 Note books (blank)
+- 372 Uttar-Gita
+- 373 Gita with Hammat Bhashya
+- 376 Tatvadipika Gita (Vallabha)
+- 379-380 Two Nietze’s books
+- 381 Sarvadarshan-Sangraha-(clothing).
+
+Crate II (small)
+NOS:
+
+- 243-267 Historian’s History of the world 25 Vol
+- 276-79 Note-books
+- 280-81 Hymns of the Rigveda Translated
+- 282 The Koran
+- 284 Amarkosha (Oka’s Part 1)
+- 286 Locke on Civil Government
+- 288-89 Two French books
+- 302 Old Testament of New India
+- 309 Pali Grammer
+- 311 A Grammar of the Burmese Language(small)
+- 315 Dhammapada in Marathi
+- 316 Vocabulary School Pali Series
+- 317 Berictubernura Erwerbungen (German catalogue)
+- 320 Panchadashi
+- 322 Amarkosha (Oka’s) Pt. II
+- 323-24 Yogavasisth Pt I & II
+- 325 B. B. Press Price-list
+- 326 A. B. M. Press Price-list
+- 328 Thomson’s Bhag-Gita
+- 329 Kielhorns Sans Grammar
+- 332 Chimea Pali Books price-list
+- 333-334 Saddaniti Part I and II
+- 335 Bhavartha Sangraha Pali
+- 336-337 Dhammapada Atha Khatha (Pali Part I and II)
+- 338 Elements of Metaphysics (Deussen)
+- 343 Mahawansa
+- 345 Harros and Owity’s Catalogue
+- 346 Harros and Owity’s Catalogue (Pali books)
+- 337-350 Pali Text Society books 4 Vols
+- 355 Ninaya Pitika Vol III
+- 357 Vinaya Pitika Vol V
+- 358 Life of Buddha (Ruekile)
+- 359 Sacred books of the East Vol. X Dhammapada
+- 363-364 Note-books (blank)
+- 367 Lists of books
+- 368 Deepawansa and Mahavansa
+- 369 Mahavansa Pali
+- 377 Diary for 1911
+- 378 Beyond Good and Evil
+- 382 Buddhism and Christendom (German)
+- 384-385 Garbe’s and other German Gita (Two books)
+- 386 Sutta Nipta Part II (Vocabulary)
+- 387 Nighantu 3 Vols
+- 388 Garde’s Vagbhata
+- 389 Gita (Marathi)
+- 390 Tilak’s trial 2 books
+
+Mandalay, 30 April, 1914
