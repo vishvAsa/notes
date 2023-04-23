@@ -4,10 +4,12 @@ unicode_script = "devanagari"
 +++
 
 ## Danger
-- Dog packs instinctually attack and kill humans - within seconds. Hunger is NOT the cause.
-  - [65yo dead AMU 2023-04-16](https://twitter.com/Mithileshdhar/status/1647480502444752903)
+- Dog packs instinctually attack and kill humans - within seconds. Hunger is NOT the cause, neither is provocation (evident from videos and live observation).
+  - 2023-04-20 0yo in cradle, Ahmedabad - serious injury [TW](https://twitter.com/DeshGujarat/status/1649394164692312064).
+  - 2023-04-21 9yo, Kolar serious injury.[OP](https://www.opindia.com/2023/04/9-year-old-boy-attacked-by-stray-dogs-in-karnatakas-kolar-rescued-by-a-cop/), [TW](https://twitter.com/MirrorNow/status/1649385372277940224)
+  - 65+yo dead AMU 2023-04-16 [TW](https://twitter.com/Mithileshdhar/status/1647480502444752903)
   - [6yo almost-dead Nagpur 2023-04-13](https://twitter.com/CNNnews18/status/1646363893235867649)
-  - [4yo dead HYD 2023-02-23](https://twitter.com/porinju/status/1627912438376181761)
+  - 4yo dead HYD 2023-02-23 [TW](https://twitter.com/porinju/status/1627912438376181761)
   - [9yo almost-dead BLR 2023-01-28](https://twitter.com/virendra1137/status/1627935641064595457)
 
 ## First aid
