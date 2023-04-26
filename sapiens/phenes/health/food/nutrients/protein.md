@@ -26,7 +26,8 @@ Before processing, about 20% of the protein in milk is whey (fast-digesting, आ
 - Whey concentrate - 80% 
 - Whey isolate - 90%
 - 88.8%. 31 grams has 24 grams of protein. 
-  
+
+
 ### Pulses and beans
 - Chickpeas Garbanzos Bengal gram (sattu is it's flour) - 8.9%
   - 100g - 165 cal
