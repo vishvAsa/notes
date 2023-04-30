@@ -29,9 +29,13 @@ title = "Lock"
 #### Usage history
 - 4 Wifi controllers + electronic locks  purchased (18 Jan 2021).
 - Installation of the electronic lock was tricky for the carpenter - lost one lock and needed to repay and reorder (7 Apr 2021). Customer support was ok.
+
+2A Fuse replacement 2022:
+
 - L1 door lock controller stopped working on 11 Apr 2022. Green LED went off. 
   - Customer support initially idiotically asked me to swap phase and neutral of AC input - obviously fruitless. Warranty expired.
-- L0 and L2 door lock controller stopped working on 19 Apr 2022. Green LED went off.
+- L0 and L2 door lock controller stopped working on 19 Apr 2022. Green LED went off. Later L3 controller went bust as well.
+- 2A Fuse was replaced on 3 controllers.
 
 ### Alternates
 - Uwanxt - [Amazon](https://www.amazon.in/UwaNxt-Electronic-Silver-Standard-Single/dp/B083M3HSK8/)

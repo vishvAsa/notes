@@ -16,3 +16,11 @@ title = "Joiners"
 
 ## Welding tools
 - Rods - 1 pack - 280 Rs (2021)
+
+## Stapler
+- Kangaro is an Indian manufacturer.
+- Kangaro Stapler HD 23S24 is heavy duty. Good for binding books.
+- Gun tackers staple into wood!
+
+## Staple pins
+Size - 23mm/6mm (H=height)

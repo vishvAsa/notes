@@ -16,5 +16,8 @@ title = "Mittani"
   - (Vedic Sanskrit eka/ aika as opposed to Indo-Iranian or early Iranian (which has *aiva; compare Vedic eva "only")
 
 
+## Pre-RV
+> Firstly, there's no retroflexion (mani instead of maNi). Retroflexion was an areal south asian feature that developed after the aryans reached india. Second, pre-Rigvedic forms show up (arta instead of rta, mazdha instead of medha, etc). 
+
 ## Absorption
 > As for mitanni, latest archaeology suggests that they might have ruled as much as 1700-1350 BCE. This is a fairly long presence for a rather small Indo-Aryan group -- it is clear they were just superimposed on the older Hurrian population. Hence, their absorption is unsurprising given that even larger groups got absorbed on the steppes with  the new expansions out of Mongolia. - MT
