@@ -29,8 +29,8 @@ title = "Steel"
 - 12% + Chromium added for corrossion resistance.
 - very expensive. Hence items are often made hollow.
 - 202 grade
-- 304 grade  
-- 316 grade
+- 304 grade -  8% nickel and 18% chromium, making it ultra resistant to corrosion and oxidation. 
+- 316 grade - higher corrosion resistence.
 
 ## Cast Iron
 - >2% carbon. Brittle.
