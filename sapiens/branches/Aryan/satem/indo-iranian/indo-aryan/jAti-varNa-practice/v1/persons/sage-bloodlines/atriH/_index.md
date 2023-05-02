@@ -42,11 +42,14 @@ venkaTAdhvarin
 ### Ranga Nath Poudyal
 Son of Tāntrika Pandit Brajnath Poudyal Atri (Guru of King Pratap Singh Shah, writer of Purascaryarnava). Ranga Nath grew up in Benaras although he was born in Makhantol, Kathmandu in 1773 AD as his father was exiled to Benaras by Queen Rajendra Laxmi. Ranga Nath was considered among the finest scholars in all of Kashi. Hence, the king of Kashi gave him the title "King of Pandits". Once back to Nepal, he not only became Rājguru but also Mukhtiyār (Prime Minister) for a short time. 
 
-### गॊरूरु-रामस्वाम्य्-अय्यङ्गार्यः
-- प्रसिद्धः कन्नडगद्यकविः। 
-
 ### किडाम्बि-प्रणतार्थिहरः
-रामानुजशिष्येष्व् अन्यतमः। विद्वान्। रामानुजपाकम् अकरोत् - तच्छ्रद्धया प्रसन्नेन श्रीगोष्ठिपुरगुरुणा नियुक्तः। 
+रामानुजशिष्येष्व् अन्यतमः। विद्वान्।  
+रामानुज-पाकम् अकरोत् -  
+तच्-छ्रद्धया प्रसन्नेन श्रीगोष्ठि-पुर-गुरुणा नियुक्तः। 
+
+#### गॊरूरु-रामस्वाम्य्-अय्यङ्गार्यः
+- प्रसिद्धः कन्नडगद्यकविः।
+- कडबग्रामाद् आगताद् +हैमक(hemmige)-कुले जातः।
 
 #### गॊरूरु-श्रीनिवास-मूर्तिः
 - Aka GSS Murthy. My father belongs to the "Hemmige" clan, He and Gorur Ramaswai Iyengar are second cousins. My mother is a Hebbar.
