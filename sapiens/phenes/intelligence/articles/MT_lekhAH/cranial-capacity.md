@@ -23,3 +23,5 @@ A 1946 English phrenological study found a fellow with a 1800 cc skull. In India
 
 Hence, it does seem that East Asian archaic Homo possibly Denisovan had unusually large cranial volumes by modern Homo standards
 
+
+Distribution of cephalic index, i.e., maximal breadth/maximal length*100 from Morton's skulls. Cephalic index is not meaningfully correlated with cranial capacity but is of forensic value. In this data those with CI<70 tend to be from Africa or native Australians; CI>85 tend to be First Americans, predominantly from the tail of South America/Andes. A visual of cephalic index. Those with lower values will have longer heads and those with higher values broader heads.
