@@ -1,0 +1,4 @@
++++
+title = "nehru-envin-pact"
++++
+Nehru, like a typical imperialist slave, signed an agreement with Verier Envin, a foreign born missionary, imagine, to block Hindu Sadhus from parts of NE. Not just that, on Verier's orders Nehru followed a policy of isolating NE from rest of India so Verier's missionaries could convert all of NE and persecute Hindus in peace. The shameless man allowed the depraved missionaries to exploit the tribals too. Verier himself got sexually involved with underage women there. Only recently Indian govt has made strides in integrating NE with rest of India while Congress desperately tries to fan violence & separatism there.

@@ -9,3 +9,6 @@ AASI ancestry in NW India increases after Aryan entry. So migration was happenin
 > 
 > increase of AHG and steppe in Swat is probably due to the Indo-Aryanization of the region after 1000 BCE. That process occurred partly through migration, and these cosmopolitan migrants naturally had more steppe and AHG.
 > - [RK](https://www.gnxp.com/WordPress/2019/09/12/the-aryan-integration-theory-ait/)
+
+## Ochre colored pottery OCP culture 
+- 70% Steppe, 30% Indic

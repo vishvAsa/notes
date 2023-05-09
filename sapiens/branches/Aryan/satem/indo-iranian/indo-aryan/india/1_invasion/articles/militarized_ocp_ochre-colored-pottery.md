@@ -11,7 +11,11 @@ Indian Journal of Archaeology, Vol. 7, No 2, (2022), Pages 207-305
 
 Militarized OCP settlement:
 
-When we compare OCP culture with Harappans, we find a great difference in material culture. The Harappans cities were large & prosperous settlements with brick houses and places of worship. This was a trading economy also. In contrast to this OCP settlements are village settlements with wattle and daub huts spread over a large area. The Harappan prosperity is not visible here. This situation is parallel to the Athens with monumental structures and sign of great prosperity and frugal Spartans who dwelt in huts, did not make cities like Athens and didn't built monumental structures Acropolis. The Athenians were a trading urban society where as the Spartans were purely agricultural society but both shared a common religion, language & culture. In warfare, Spartans were more than a match to Athenians. The checking the spread of mature Harappan influence beyond upper Ganga-Yamuna doab suggests that the armed North-Indians (OCPians) were more than a match to the people belonging to Mature Harappan Empire which reached its peak between 2500 B.C.-2000 B.C.
+When we compare OCP culture with Harappans, we find a great difference in material culture. The Harappans cities were large & prosperous settlements with brick houses and places of worship. This was a trading economy also. In contrast to this OCP settlements are village settlements with wattle and daub huts spread over a large area. The Harappan prosperity is not visible here. 
+
+This situation is parallel to the Athens with monumental structures and sign of great prosperity and frugal Spartans who dwelt in huts, did not make cities like Athens and didn't built monumental structures Acropolis. The Athenians were a trading urban society where as the Spartans were purely agricultural society but both shared a common religion, language & culture. In warfare, Spartans were more than a match to Athenians. 
+
+The checking the spread of mature Harappan influence beyond upper Ganga-Yamuna doab suggests that the armed North-Indians (OCPians) were more than a match to the people belonging to Mature Harappan Empire which reached its peak between 2500 B.C.-2000 B.C.
 
 2.1: How did OCP people choose the location of a settlement? : 
 
