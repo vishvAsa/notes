@@ -13,6 +13,8 @@ Manu is the main V2 Ṛṣi whose Mānava gotra some V2s used to have. Apart fro
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
+Source: [TW](https://twitter.com/blog_supplement/status/1621760307746971648)
+
 One can say that these so called "unstable v1/v2" had vedic founders who were clearly v2s & appear as such in dynastic lists in the purANa-s. Some of them from the RV would be indeed divodAsa, his son paruchChepa, ajAmILa and purumILa; ikShvAku himself; pururavas; devApi; gaya; vadhryashva; trasadasyu; mandhAtR^i. From the later layers we have the janaka-s; In the RV itself we also have the v3s vatsapri & bhAlandana. 
 
 Some might say that kakShIvAn or trishoka were v4 but it would be a liberal interpretation.

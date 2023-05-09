@@ -14,4 +14,5 @@ title = "Plywood"
 ## Birch plywood
 - Doesn't need laminate - naturally comes with good veneer.
 - Birch plywood does not have jagged edges and knots. Safer, and edges look better.
+- 2020: Observed to bend with season when used as cabinet doors. Gets algae growth when exposed to rain or humidity. Emits wood stench within cabinets.
 - Grows fast in baltic countries.

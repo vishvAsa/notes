@@ -22,3 +22,6 @@ Hindalium is the alloy of aluminium, magnesium, manganese, chromium and silicon 
 - 
 ## Sheets
 - Ribbed sheet - 160 / sqft.
+
+### ACP sheet or Aluminium Composite Panel
+top and the bottom layers of ACP sheets are of coated aluminium sheets and the core sandwiched between them is polyethylene.

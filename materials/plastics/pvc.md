@@ -24,8 +24,8 @@ title = "PVC"
 - Oft used in windows.
 - PVC without plasticizers - hard, rigid.
 
-### Vendors
-- Supreme Alpha gold - lead free. [sheet](https://www.supreme.co.in/images/pdf/1-Aqua-Gold-Plumbing-System.pdf).
+### Pipe Vendors
+- Supreme Alpha gold - lead free.
 - Astral UPVC lead free. UV stabilized, but paint recommended. Claims 50 years life expectancy. [sheet](https://www.astralpipes.com/uploads/product_broucher/broucher_1571982971.pdf)
 
 ### Negatives
@@ -39,8 +39,14 @@ title = "PVC"
 - Because PVC catalyses its own decomposition, metal stabilisers are added to vinyl for construction and other extended-life applications. Common PVC additives are lead, cadmium, and organotins – all highly toxic.
 
 ## Environment 
-- PVC is one of the most environmentally hazardous consumer materials ever producedx.
+- PVC is one of the most environmentally hazardous consumer materials ever produced.
 - PVC is the only major plastic that contains chlorine – the by-products are far more toxic, more persistent in the environment, and more likely to build up in the food supply & people’s bodies than similar chlorine-free chemicals.
 - Chlorine production is one of the world’s most energy-intensive industrial processes, taking huge amounts of energy – about 1% of the world’s total electricity outputxi. Chlorine production for PVC uses an equivalent to the yearly output of eight medium-sized nuclear power plants.
   - Chlorine production causes mercury pollution which causes severe reproductive, developmental, and neurological impacts at low doses. 
 - The production of PVC is one of the main sources of dioxin.
+
+## Tarpaulin
+Heavy-duty tarps are typically made from polyethylene, polypropylene, or polyvinyl chloride. Last 2 to 5 years. Degrade and tatter with sunlight.
+
+## Plastic ad boards
+- Degrade with even indirect sunlight - not affected by water. 

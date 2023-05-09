@@ -16,6 +16,9 @@ title: +Bengaluru
 - Each ward has a Chief Engineer , Executive Engineer, Assistant Engineer , Assistant Executive Engineer , Health Inspector , Work Inspector , Supervisor , Pourakarmikas. Engineers are there to develop the ward , health inspector makes sure the ward is healthy. Supervisors supervise the Pourakarmikas .
 - These many officers are there to take care of one ward but still we are not able to overcome the garbage issue , it's only because that the people are not aware of what is to be done when their garbage isn't taken or any work in the ward to be taken care off. First thing to do is to go to the ward office and complaint about your problem, by doing so you will have a bridge connection with the officials and your problem is solved.
 
+### Voting
+
+
 ## Trouble spots
 - [map](https://www.google.com/maps/d/u/0/viewer?mid=1asgLRhOHyT2T--cGDoqrzkEuqdQ&shorturl=1)
 

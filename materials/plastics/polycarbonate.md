@@ -2,6 +2,9 @@
 title = "Polycarbonate"
 +++
 
+- thermoplastic polymers containing carbonate groups
+- produced by the reaction of bisphenol A (BPA) and phosgene COCl2.
+
 ## Lifetime
 - Degrades with time and exposure to sunlight.
 - Solid sheet is guaranteed to endure at least 10 years, while twin wall sheet is guaranteed to last 5-8 years.
