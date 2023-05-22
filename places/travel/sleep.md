@@ -28,3 +28,6 @@ title = "Sleep"
 - Closed cell foam pads are low weight and durable.
 - Decathlon size 1.8m * 50cm * 0.7cm  210 g
 - Decathlon foldable 180 x 55 x 2 cm
+
+## Bed
+- Double - 48in * 72 in.

@@ -25,6 +25,7 @@ title: +Bengaluru
 ## प्रेक्षणीयानि
 ### प्रकीर्णम्
 - old temples - [TW16](https://twitter.com/ColonelGerard/status/775920873744113664)
+- tulasI-toTa chikkapeTe [web](http://www.tulasivanam.com/), founded by late mayor Bindingnavile K Garudachar - Loose ahobila-maTha affiliation. Free hostel for shrIvaiShNava students.
 
 ### पश्चिमाद् बहिः
 - omthara kala kuTIra, nelamangala. [GM](https://goo.gl/maps/DnMdrdvW4oodeN6y9) [SS](https://threadreaderapp.com/thread/1536737458129235968.html)
