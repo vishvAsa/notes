@@ -4,9 +4,9 @@ title = "6 Appendices"
 
 
 Part V 
-APPENDICES 
-Math and Equations 
-A 
+APPENDICES
+## A Math and Equations 
+
 Depending on background, math and equations may be an intimidat- ing "foreign language" to some students. This brief appendix aims to offer a refresher on techniques, and hopefully inspire a more peaceful relationship for students. 
 A.1 Relax on the Decimals 
 First, we can form a more natural, forgiving relationship with numbers. Like your friends, they need not be held to exacting standards: they are simply trying to tell you something useful. Remembering that π is roughly 3 is far more important than committing any further decimals to 
@@ -228,7 +228,7 @@ which is why it is relegated to an
 appendix 
 A.5 Integer Powers 
 Raising a number to a power, like 43, is just a mathematical shorthand for 4 4 4. Think of all the room we save in the case of 423! 
-# 
+
 • 
 So what are the rules for dealing with exponents when we raise the whole thing to another power, or when we multiply two exponentiated pieces together, or if we divide by (or invert) the thing? In other words, what are: 
 (xa)b =? x2 • x¶ =? 
@@ -276,7 +276,8 @@ A.7 Scientific Notation
 The single-biggest mistake students make when it comes to scientific notation is easily remedied by understanding it not as a set of rules, but for what it's actually doing. 
 Most of the time, students get it right: they see 1.6 x 102 and move the decimal to the right two times to get 160. A little harder is negative exponents, like 2.4 x 10-2. Moving the decimal point twice to the left results in the correct 0.024 answer. 
 The hangup can come about if the process is misconstrued as simply "counting zeros." Ironically, a student might correctly convert 6 × 103 by adding three zeros to the 6 to get 6,000, but then mistake 103 for 10,000-thinking: start with 10 and add three zeros. 
-# 
+
+
 The sure-fire way is to connect to the concept of integer powers, so that 103 is simply 10 10 10, which is unmistakably 1,000. Likewise, 10-4 is four repeated (multiplied) instances of 10-1, each one representing 10/ or 0.1. String four together, and we have 10,000, or 0.0001. So fall back on 
 the basics. 
 Example A.7.1 We can also apply the rule of multiplying exponenti- ated quantities covered in Eq. A.8. So 3.2 × 103 times 2 × 102 can be written out as 3.2 2 103 102 (order does not matter), which we can recognize as 6.4 x 105. 
@@ -463,9 +464,9 @@ A.11 Just the Start
 374 
 useful foundation. The key lesson is that the knowledge and intuition students already hold in their heads can be leveraged effectively to recreate forgotten rules of math. Just remember: it all makes sense and hangs together. Creating customized simple problems39 allows a way to make sure the math rules being applied replicate the right answer. If not, a few tests can often get things back on the right track. By doing so, students can claim greater personal ownership of the math, and have a better internal mastery of its workings. 
 39: ... whose answers are already known or can be figured out 
- 
-Chemistry Primer/Refresher 
-B 
+
+## B Chemistry Primer/Refresher 
+
 This book does not rely heavily on past knowledge of chemistry, but it is helpful to know a few basic elements that play a role in fossil fuels, biological energy, and climate change. This section could act as a refresher, or a first exposure to the fundamentals. 
 B.1 Moles 
 Chemistry deals with atoms and molecules and the interactions between them. Atoms and molecules1 are irreducible nuggets of a substance the minimum unit that carries the essential properties of that substance. Water, for instance, is comprised of two hydrogen atoms bonded to a single oxygen atom, which we denote as H2O. 
@@ -846,9 +847,9 @@ This is an example where internalizing the ideal law for what it means, or what 
 gas says is more important than treating it like a recipe for cranking out problems. Don't just treat equations as mechanical objects: learn what it is they have to say! 
 24: The gas is not leaking out, and the cylinder does not change size-at least not significantly—as it warms. 
 25: That's one of the things Eq. B.4 is trying to say, beneath all the bluster. 
- 
-Selected Answers 
-C 
+
+## C Selected Answers 
+
 Numerical answers are given as ranges or other hints, meant to facilitate checking for gross departures from the right track, without revealing the precise answer so that shortcuts are discouraged. Questions for which the answer is already known (questions asking to verify an answer), easily validated in the text, or that are a matter of original thought or opinion may not be included here. 
 The ranges sometimes may be annoyingly large, but think of them as guard rails to prevent a tragic miscalculation or to catch a fundamental misunderstanding of the underlying concepts. It can help catch errors like dividing the wrong things or swapping numerator and denominator, or multiplying when division is called for. In many cases, intuition, or guessing, might lead you already to similar answers or ranges. With practice, students may be able to anticipate what they think are reasonable ranges for answers. In fact, it is a great practice to think about expectations before working on the problem. 
 This appendix, then, might be thought of as an "intuition implant" that simulates how problems are for experts. Real life does not provide "answers at the back of the book," so experts rely on experience, intuition, and a sense for "reasonable" results to help them understand when they've taken a wrong turn. A successful use of this appendix would help train students to develop their own "common sense" guard rails. 
@@ -1311,9 +1312,9 @@ way
 20. Think frivolous or huge resource de- mand 
 21. Do your best: might prevent the worst 
 22. Can you even tell the needle isn't at full? 
- 
-Alluring Tangents 
-D 
+
+## D Alluring Tangents 
+
 This Appendix contains tangential information that may be of interest to students, but too far removed from the main thread of material to warrant placement within chapters. Many of these items were prompted by student feedback on the first draft of the textbook, wanting to know more about some tantalizing piece mentioned in the text. Pick and choose according to your interests. 
 D.1 Edge of the Universe 
 Sec. 4.1 (p. 54) built a step-wise scale out to the edge of the visible universe, which a margin note clarifies as the visible horizon of our universe. This fascinating and deep concept deserves elaboration. 
