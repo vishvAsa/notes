@@ -86,7 +86,8 @@ Protein
 Sodium 
 8g 
 Omg Vitamin D 0% Calcium 1% 
-5 Energy and Power Units 
+
+## 5 Energy and Power Units 
 0% 
 CAPACITY 
 40.0 
@@ -129,7 +130,7 @@ Energy units from everyday life. Clockwise from upper left: a utility bill (kWh 
 80 
 1: This definition applies to the common circumstance when the motion is aligned with the direction of force, like pushing a box across a level floor, propelling a car along the road, or lifting a weight. 
 2: Acceleration is the rate of change of ve- locity. Since velocity is measured in meters per second, the rate at which it changes will be meters per second per second, or m/s/s, or m/s2. Some students may know that gravitational acceleration on Earth's surface is 9.8 m/s2, which is another way to remember. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Joule (J). Thus, the application of 1 N of force across a distance of 1 m constitutes 1 J of work, requiring 1J of energy to perform. Table 5.1 offers contextual examples (unit prefixes are on page 420). 
 Example 5.1.1 Several examples3 illustrate force times distance, the first two amounting to one Joule of energy: 
 ► Pushing a book across a table, applying 2 N of force and sliding it 0.5 m amounts to 1 J of work. 
@@ -176,7 +177,7 @@ Sec. A.10 (p. 370) in the Appendices pro- vides additional guidance on manipulat
 We'll encounter other ways to describe energy in this book, but any energy unit can always be cast into units of Joules, if desired. Later sections in this chapter detail alternative units whose acquaintance we must make in order to interpret energy information in our lives. 
 5.2 Energy Forms and Conservation 
 Energy manifests in a variety of forms, which we will treat in greater detail in application-specific chapters in Part III of this text. For now we just want to name them and point to related chapters and applications, as is done in Table 5.2. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Energy Form 
 Formula Chapter(s) Applications 
 gravitational potential 
@@ -229,7 +230,7 @@ K.E. = 4 J
 P.E. = 1 J 
 K.E. = 6 J 
 Figure 5.1: Example exchange of potential energy (P.E.) into kinetic energy (K.E.) as an apple drops from a tree. The total en- ergy always adds to the same amount (here 7 J). The apple speeds up as it gains kinetic energy (losing potential energy). When it comes to rest on the ground, the energy will have gone into 7 J of heat (the associated temperature rise is too small to notice). 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.can be used to make steam that drives a turbine (kinetic energy) that in turn generates electrical energy (voltage, current). 
+can be used to make steam that drives a turbine (kinetic energy) that in turn generates electrical energy (voltage, current). 
 Any of the forms of energy (e.g., in Table 5.2) can convert into the other, directly or indirectly. In each conversion, 100% of the energy is accounted for. In the general case, the energy branches into multiple paths, so we do not get 100% efficiency into the channel we want. For instance, the pendulum example above will eventually bleed its energy into stirring the air (kinetic energy) and friction (heat) at the pivot point. The stirring air eventually turns to heat via internal (viscous) friction of the air. 
 One useful clarification is that thermal energy is really just random motions-kinetic energy-of individual atoms and molecules. So in the case of nuclear fission in Example 5.2.1, the initial kinetic energy of the nuclear fragments is already thermal in nature, but at a higher temperature (faster speeds) than the surrounding material. By bumping into surrounding atoms, the excess speed is diffused into the medium, raising its temperature while "cooling" the fragments themselves as they are slowed down. 
 8 
@@ -247,7 +248,7 @@ sometimes called channels
 8: Actually, the principle is so well estab- lished that new particles (like the neutrino) have been discovered by otherwise unac- counted energy in nuclear processes. 
 One Watt is simply one Joule per second. 
 Weight is mg. In this case, m is 10 kg. If we're being sticklers, g = 9.8 m/s2, but for con- venience we can typically use g≈ 10 m/s2 without significant loss of precision. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 rat (1.4 W) 
 ---- cell phone charging (4 W) 
 ----- 
@@ -300,7 +301,7 @@ power plant; city
 TW societal scale 
 It is usually sufficient to remember that 1 hp is about 750 W. 
 It may help to think of the sequence: kilo- watt x hour; kWxh; kW-h; kWh. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 clothes dryer (5,000 W) 
 average U.S. citizen (10,000 W) 
 72 
@@ -327,7 +328,7 @@ A common unit for describing chemical and thermal processes is the calorie and i
 Definition 5.5.1 A calorie is defined as the amount of energy it takes to heat one gram of water (thus also 1 mL, or 1 cm3, or 1 cc) by one degree Celsius (Figure 5.3). One calorie (note the small "c") is 4.184 J of energy. 
 One Calorie (note the capital "C")14 is 1,000 calories, or 1 kilocalorie 
 14: This might win the prize for the dumb- est convention in science: never define a unit as case-sensitive, as it cannot be differ- entiated in spoken language! 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 (1 kcal), equating to 4,184 J. Most memorably, it is the amount of energy it takes to heat one kilogram (or one liter; 1 L) of water by 1°C. Due to the tragic convention of Calorie, we will opt for kcal whenever possible. 
 Food labels in the U.S. are in Calories, describing the energy content of the food we eat.15 We would all do ourselves a favor by calling these kcal instead of Calories (same thing). Many other countries sensibly use either kJ or kcal for quantifying food energy. 
 20°C 
@@ -359,7 +360,7 @@ water.
 Example 5.5.3 Let's say you want to heat a half-liter (0.5 kg) of water from room temperature (20°C) to boiling (100°C). Since each kcal can heat 1 kg by 1°C, that same energy will raise our half-kg by 2°C.17 So raising the temperature by 80°C will require 40 kcal, or 167 kJ. 
 If the water is heated at a rate of 1,000 W (1,000 J/s), it would take 167 seconds for the water to reach boiling temperature. 
 Notice that we did not apply an explicit formula in Example 5.5.3. By proceeding stepwise, we attempt to keep it intuitive. We could write a 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 16: It would serve little purpose to perform exact math here-producing 96.85 W in this case since the idea that someone's daily diet is exactly 2,000.00 kcal is pretty preposterous. It will likely vary by at least 10% from day to day, and by even larger amounts from individual to individual, so that 100 W is a convenient and approximate representation. 
 17: Make sure this is clear to you; by under- standing, we are installing concepts instead of formulas, which are more powerful and lasting. 
 Appendix Sec. A.8 (p. 368) addresses this philosophy in a bit more detail. 
@@ -386,7 +387,7 @@ We need to cover the unit in this chapter in order to be energy-literate in the 
 21: A cute and convenient way to remember this, approximately, is л x 107 seconds per 
 year. 
 22: Typical shower flow is about 2 gallons, or ~8 L, per minute. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 125 × 63 = 7,900 Btu of energy at a rate of 30,000 Btu/hr, so it will take 7,900/30,000 of an hour, or just over 15 minutes. 2. In metric terms, the equivalent to 15 gallons is 57 L (57 kg), and we heat from 20°C to 55°C at 8,800 W.23 Since one kcal heats one kilogram of water 1°C, heating 57 kg by 35°C will require 57 x 35 kcal, or 57 x 35 x 4, 184J = 8.35 MJ, which at 8,800 W will take 950 seconds, also just over 15 minutes (reassuringly, the same answer). 
 5.7 Therms 
 We will rarely encounter this unit, but include it here because natural gas utility bills24 in the U.S. often employ Therms. Since part of the goal of this book is to empower a personal understanding of energy and how to compare different measures of energy (e.g., on a utility bill), conventions in the U.S. demand that we cover the unit here.25 
@@ -406,7 +407,7 @@ It is interesting to reflect on the notion that 200 L of water can be heated by 
 ume. 
 5.8 Electrical Power 
 Electronic interactions are governed by charges pushing on each other. For the purposes of this course, we need only understand a few concepts. The first is voltage. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Voltage is a measure of electric potential, in Volts, and can be thought of as analogous to how high something is lifted.28 A higher voltage is like sitting higher on the shelf, and can do more work if allowed to be released. 
 Charge is moved around by electrical forces, and the amount of charge moved plays a role similar to that of mass in gravitational settings. The unit of charge is the Coulomb (C), and the smallest unit of charge we encounter in normal situations is from the proton (+1.6 × 10-19 C) or the electron (-1.6 x 10-19 C). 
 Definition 5.8.1 The amount of energy in a charge, q, at a voltage, V, is 
@@ -430,7 +431,7 @@ from Section 5.4.
 30: The alternating current nature is al- ready accommodated in this measure of voltage. 
 31: Safety regulations limit continuous use to 80% of the breaker current capacity, so that realistically the limits are 1,400 W and 1,920 W, respectively. This is why "heating appliances" in Figure 5.2 top out around 1,500 W: circuit/safety limits. 
 32: For example, 0.1 Amps (0.1 Coulombs per second) of current sustained for a dura- tion of 100 seconds results in 10 Coulombs of charge flow. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Example 5.8.2 A typical 9-volt battery has a capacity of 500 mAh. How much energy is this? 
 500 mAh is 0.5 Ah. Multiplying by 9 V produces 4.5 Wh. Recall that 1 Wh is 1 J/s times 3,600 s (one hour), or 3,600 J. So 4.5 Wh is 16.2 kJ. 
 How long can we power a 1 W LED array from this battery? We can go the long way (16.2 kJ divided by 1J/s) and say 16,200 seconds, or recognize that a 4.5 Wh battery can dispense 1 W for 4.5 hours. It's the same either way. 
@@ -453,7 +454,7 @@ Because CO2 has a total of four bonds between the carbon atom and the two oxygen
 35: See Appendix B for a primer/refresher on chemistry. 
 36: Tables in chemistry books contain this type of information. 
 37: Each carbon-to-oxygen link is a double bond, meaning that two electrons partici- pate in the link, for a total of four. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 5 Energy and Power Units 
 79 
 5.10 Light Energy 
@@ -485,7 +486,7 @@ Example 5.10.2 The red-end of the visible spectrum, around 0.7 μm, corresponds 
 5.11 Upshot on Units 
 Every chapter has an upshot, usually distilling key lessons from the chapter or offering final thoughts. Such a treatment is not necessary here, although we could reinforce the idea that energy can always be expressed in Joules, or converted into any of the units described in the chapter. Also critical is the notion that energy is conserved-only exchanging from one form to another but never truly disappearing or coming from nowhere. 
 Students may wish to see a master table of conversions between all the units discussed-and what a glorious table this would be! But it is intentionally left out for three reasons: 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 5 Energy and Power Units 
 80 
 1. It could short-circuit your effort to learn the material; 
@@ -508,7 +509,7 @@ Weight is mg, where ༢ ༤ 10 m/s2.
 40: Every nerf toss is not 15 J; the bookbag lift depends on how heavy and how high the lift; every example would have a range of reasonable numbers. 
 41:... based on 0.1 mm diameter and 1 mm long 
 The equivalent force to lifting 10 kg, or 22 lb of pushing force. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.10. If a 70 kg person (weight: 700 N) is capable of putting out energy at a rate of 500 W in short bursts, how long will it take the person to race up a flight of stairs 4 m high, considering only the vertical energy42 
+10. If a 70 kg person (weight: 700 N) is capable of putting out energy at a rate of 500 W in short bursts, how long will it take the person to race up a flight of stairs 4 m high, considering only the vertical energy42 
 required? 
 11. If asked to compute the power associated with performing a pull-up,43 what specific information would you need to solve the problem (and what are the units of each)? Write out the math that would give the final answer. 
 12. How 
@@ -529,7 +530,7 @@ power.
 Hint: it may be convenient to first get power in Watts and round to a nice number before proceeding. 
 Comparable to a full day's intake. 
 44: ... regionally variable 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 kWh? At a typical electricity cost of $0.15 per kWh, about how much does it cost per year to run the refrigerator? 
 20. The chapter banner image (page 68) shows data from the author's utility bill, indicating 230 kWh of electrical usage for a 30-day period in 2020. What does this rate of energy usage translate to, in Watts? 
 21. Heating a typical house might require something like 200 W of power for every degree Celsius difference between inside and outside temperatures. If the inside temperature is kept at 20°C and the outside temperature holds steady all day and night at 0°C, how much power is required to maintain the temperature? 
@@ -555,7 +556,7 @@ it does not, exactly
 49: it does not, exactly 
 50: Hint: related to Problem 24 and the fact that a gallon of propane contains 0.915 Therms of energy. 
 51: .recommend kWh as common basis 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 29. The chapter banner image (page 68) has two panels relating to the same hot water heater. One indicates the rate of gas usage when the heater is on (ignited, heating water) as 40,000 Btu/hr, and the other anticipates 242 Therms per year will be used. How many hours per day is the heater expected to be on (heating water) based on these numbers? 
 30. Gather up or compute conversion factors from the chapter to start your own conversion table (empty version below). Express kWh, cal, kcal, Btu, and Therms in terms of Joules. 
 From → kWh cal kcal Btu Therms To: J 
@@ -585,9 +586,9 @@ Not all these conversions are likely to be useful, but a few will come up in pra
 52: All circuits blazing at the safety limit! 
 53: This is one mole, as covered in Sec. B.1 (p. 375). 
 54: Assuming 100% efficiency 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 179- 
-6 Putting Thermal Energy to Work 
+## 6 Putting Thermal Energy to Work 
 S 
 A 
 R 
@@ -612,7 +613,7 @@ Consumer Metrics.
 Before diving in to thermal issues, let's do a quick run-down of the various ways we can generate heat. 
 Example 6.1.1 Ways to Generate Heat: Roughly arranged according to degree of sophistication: 
 A locomotive engine as an example heat engine. Photo credit: South Australian Govern- ment Photographer. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 1. Rub your hands together (or other forms of friction). 
 6 Putting Thermal Energy to Work 85 
 2. Harvest sunlight, possibly concentrating it, for heat; drying clothes outside and letting sunlight warm a room through a window are examples. 
@@ -663,7 +664,7 @@ case
 5:500 for heavier metals like steel; al- though light metals like aluminum are not far from 1,000 J/kg/°C 
 6: Notice that the water demands far more energy to heat, even though it is half the 
 mass. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 6 Putting Thermal Energy to Work 86 
 To perform computations using specific heat capacity, try an intuitive approach rather than some algorithmic formula. The following should just make a lot of sense to you, and can guide how to put the pieces together: it takes more energy to heat a larger mass or to raise the tempera- ture by a larger amount. It's all proportional. The units also offer a hint. 
 To 
@@ -687,7 +688,7 @@ How much it takes to maintain temperature depends on how heat flows out of (or i
 11: 
 or to remove, if cooling 
 12: Only 300 kg is in the form of air: most of the mass to be heated is in the walls, floor, and ceiling. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 6 Putting Thermal Energy to Work 87 
 and air gaps. But it also depends linearly on AT-the difference between inside and outside temperatures-that is being maintained. A house can be characterized by its heat loss rate in units of Watts per degree Celsius.13 This single number then indicates how much power is needed to maintain a certain AT between inside and outside. Box 6.1 explores an example of how to compute the heat loss rate for a house, and Example 6.3.2 applies the result to practical situations. 
 13: or equivalently, Watts per degree Kelvin 
@@ -714,7 +715,7 @@ Example 6.3.2 Let's compare the requirements to keep three different houses at 2
 house at 300 W/°C. 
 The temperature difference, AT, is 20°C, so that our super-snug house 
 15:... not "thermally woke" 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 6 Putting Thermal Energy to Work 
 will require 75 W/°C times 20°C, or 1,500 W16 to keep it warm, while the decent house needs 3,000 W and the shoddy house needs 6,000 W. 
 Once we understand how much power it takes to maintain a certain temperature (AT) in a house, we can anticipate the behavior of the house's heater. Heaters are typically either on full-blast or off. Regulation is achieved by turning the heat on and off-usually controlled by a thermostat. Given the rating of a heater,17 it is then straightforward to anticipate the duty cycle: the percentage of time it has to be on to produce an average output meeting the power requirement for some particular ΔΤ. 
@@ -731,7 +732,7 @@ Cooling a home (or refrigerator interior, or whatever) is also a thermal process
 22: In fact, we've had the word "warmth" for a long time, but have not even gotten around to inventing the word "coolth" yet. 
 6.4 Heat Engines 
 Now we get to the part where thermal energy can be used to do something other than just provide direct heat to a home. It may seem odd to always 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 6 Putting Thermal Energy to Work 
 89 
 characterize burning fuel as a purely thermal action, since what transpires within the cylinder of a gasoline-burning internal combustion engine seems like more of a little explosion than just the generation of heat. This is not wrong, but neither is it the whole story. The process still begins as a fundamentally thermal event. When the fuel-air mixture ignites, the temperature in the cylinder increases dramatically. To appreciate what happens as an immediate consequence, we turn to the ideal gas law: 
@@ -776,7 +777,7 @@ Geotherm.
 Sol. Therm. 
 0.4 
 0.09 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 turbine 
 boiler 
 high pressure 
@@ -801,7 +802,7 @@ This definition may be an obscure disappointment to those expecting entropy to b
 Example 6.4.2 To illustrate, consider a tiny system containing 3 molecules labeled A, B, and C, having a total energy of 6 units split 
 25: E.g., at constant temperature, pressure, volume. 
 26: Entropy is indeed related to disorder, in that there are many more ways to configure matches in a mess than there are ways to neatly stack them. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.6 Putting Thermal Energy to Work 
+6 Putting Thermal Energy to Work 
 between them in some way. They can all have exactly 2.0 units of energy apiece, or can have individual energies of 1.2, 1.8, and 3.0 units; or 3.2, 0.4, and 2.4; or any other of myriad combinations adding to the same thing. Entropy provides a measure of how many combinations27 are possible. 
 91 
 27: It is far beyond the scope of this book to detail the counting scheme, but it is perhaps important to appreciate that energy levels are discrete or quantized-which prevents an infinite number of possible energy com- binations. 
@@ -829,7 +830,7 @@ Box 6.2: The Arrow of Time
 Consider that if you were shown videos of a rock splashing into water, a coffee mug shattering on the floor, or an icicle melting, you would have no difficulty differentiating between the forward and reverse playbacks of the video. 
 The reverse action, you would conclude, is preposterous and can 
 28: It is, however, possible to see lowered entropy in one place if balanced by an in- crease elsewhere: life organizes matter, but at the expense of increased entropy in the wider universe. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 6 Putting Thermal Energy to Work 
 never happen. Pieces of ceramic strewn about the floor will never spontaneously assemble into a mug and leap from the floor! Energy is not the barrier, because the total energy in all forms is the same29 before and after. It's entropy: the more ordered states are less likely to spontaneously emerge. To appreciate how pervasive entropy is, imagine how easy it is to spot a "fake" video run backwards. 
 These two laws of thermodynamics, plus a way to quantify entropy changes that we will see shortly, are all we need to figure out the maximum efficiency a heat engine can achieve in delivering work. If we draw an amount of heat, AQh from a hot bath30 at temperature Th, and allow part of this energy to be "exported" as useful work, AW, then we must have the remainder flow as heat (AQc) into the cold bath at temperature Te. Figure 6.4 offers a schematic of the process. The First Law of Thermodynamics31 requires that AQh = AQc + AW, or that all of the extracted heat from the hot bath is represented in the external work and flow to the cold bath: nothing is lost. 
@@ -878,7 +879,7 @@ efficiency
 entropy ratio 
 When heat is removed, entropy is reduced. When heat is added, entropy increases. The temperature, T, must be in Kelvin, and entropy is measured in units of J/K. 
 So the extraction of energy from the hot bath results in a decrease of entropy in the hot bath of ASh according to AQh = ThASh. Meanwhile, AS, of entropy is added to the cold bath according to AQc = TASc. The Second Law of Thermodynamics enforces that the total change in 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 6 Putting Thermal Energy to Work 93 
 entropy may not be negative (it can't decrease). In equation form (symbol definitions in Table 6.3):32 
 = 
@@ -918,7 +919,7 @@ where we create η (eta) to represent the ratio of entropies: n = AS/ASh which w
 7≥1. 
 (6.8) 
 Looking at Eq. 6.7, if we want the highest possible efficiency in extracting work from a flow of heat, we want the numerator to be as large as possible. To achieve this, we want to subtract as little as possible from Th If η were allowed to be very large, then the numerator would be reduced. So we want the smallest possible value for η, which we know from Eq. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 6 Putting Thermal Energy to Work 94 
 6.8 happens when n = 1. We therefore derive the maximum physically allowable efficiency of a heat engine as 
 Emax 
@@ -941,7 +942,7 @@ Real heat engines like power plants (Figure 6.2) or automobile engines tend to o
 35: 300 K is a convenient and reasonable temperature for "normal" environments, corresponding to 27°C or 80.6°F. 
 36: This is a common situation, as Te is usually set by the ambient temperature of the air or of a body of water. 
 37: ... absolute zero temperature, -273°C 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 6 Putting Thermal Energy to Work 
 95 
 95 
@@ -990,7 +991,7 @@ relations.
 (6.11) 
 These look a lot like Eq. 6.9, but turned upside down. The maximum efficiencies can be larger than unity!42 
 42: See Box 6.4. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 6 Putting Thermal Energy to Work 
 Example 6.5.1 What is the limit to efficiency of maintaining a freezer at -10°C in a room of 20°C? 
 First, we express the temperatures in Kelvin: T≈ 263 K and AT = 30 K.43 The maximum efficiency, by Eq. 6.10, computes to cool ≤ 8.8 (880%). 
@@ -1016,7 +1017,7 @@ Maybe the situation can be compared more understandably to money transfers, wher
 .e.g., four space heaters each expend- ing 1,500 W 
 AQh/Cheat 
 48: We are solving for AW = and consider the energy moved in one sec- ond in order to go from W to J. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 6 Putting Thermal Energy to Work 
 namic limit, but we might at least expect to be able to accomplish the 6,000 W goal of Example 6.5.3 for under 2,000 W. Thus the heat pump has shaved a factor of three (or more) off the energy required to provide heat inside. Heat pumps are very special. 
 As Eq. 6.10 and Eq. 6.11 imply, heat pumps are most efficient when AT is small. Thus a refrigerator in a hot garage must not only work harder to maintain a large AT, it does so less efficiently-making it a double-whammy. For home heating, heat pumps offer the most gain in milder climates where AT is not so brutal. 
@@ -1057,7 +1058,7 @@ Figure 6.6: Typical heat pump energy label in the U.S., showing an EER around 21
 49: This corresponds to maintaining the hotter environment at 27°C, for instance in the context of heating a house. 
 50: ... or any other energy unit of choice 
 51: 1 watt-hour (Wh) is 1 J/s times 3,600 s. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 6 Putting Thermal Energy to Work 
 Definition 6.5.4 EER: Heat pumps used for cooling are specified by the energy efficiency ratio (EER), which modifies Eq. 6.10 as follows. 
 Єcool 
@@ -1095,7 +1096,7 @@ We go back to the original definition of Ɛheat as AQh/AW, which for our numbers
 HSPF is 3.41 times this, or 10.2. 
 Typical COP values for heat pumps range from about 2.5-4.5.53 This means an energy savings by a factor of 2.5 to 4.5 for heating a house via heat pump vs. direct electrical heating. Quite a bargain. An air conditioner EER rating is typically in the range 10-20, corresponding to 3-6 in terms of Ecool-similar to the range for heat pumps in heating 
 53: ... mapping to HSPF from ~8-15 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 6 Putting Thermal Energy to Work 
 mode.54 Houses equipped with electric heat pumps can typically be run for both cooling and heating applications, making them a versatile and efficient solution for moving thermal energy in or out of a house. 
 Heat pumps leveraging the moderate-temperature ground just below the surface as the external thermal bath are called "geothermal" heat pumps, but have nothing to do with geothermal energy (as a source). Compared to heat pumps accessing more extreme outside air temper- atures, geothermal heat pumps benefit from a smaller AT, and thus operate at higher efficiency. 
@@ -1114,7 +1115,7 @@ Heat pumps are like heat engines in reverse: driving a flow of thermal energy ag
 2. How long will it take a space heater to heat the air58 in an empty room by 10°C if the room has a floor area of 10 m2 and a height of 2.5 m and the space heater is rated at 1,500 W? Air has a density59 
 58: We only consider the air for this prob- lem, and ignore other objects-including walls and furniture-that would add sub- stantially to the time required in real life. 
 59: Use density to get at the mass of air. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 6 Putting Thermal Energy to Work 100 
 of 1.25 kg/m3. Express your answer as an approximate number in minutes. 
 3. When you put clothes on in the morning in a cool house at 15°C, you warm them up to something intermediate between your skin temperature (35°C) and the ambient environment.60 If your clothes have a mass of 2 kg, how much energy must be deposited into the clothes? If you are emitting power at 100 W, how long will this take? 
@@ -1136,7 +1137,7 @@ Note that a microwave oven might be rated for 1,500 W, but not all the energy en
 64: Hint: compute the average power that would be needed in this case. 
 65: ... no heat pump: just straight energy deposition at 100% efficiency 
 66: Think about motion deriving from or caused by heat or thermal release. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.6 Putting Thermal Energy to Work 101 
+6 Putting Thermal Energy to Work 101 
 U.S. that does not involve a spinning shaft? 
 12. If a can of soda (350 mL; treat as water) cools from 20°C to 0°C, how much energy is extracted, and how much is the entropy (in J/K) in the can reduced using the average temperature and the relation that AQ = TAS? 
 13. What would the maximum thermodynamic efficiency be of some heat engine operating between your skin temperature and the ambient environment 20°C cooler than 
@@ -1156,8 +1157,8 @@ operating between the 288 K surface and the top of the tropo- sphere68 at 230 K.
 71: The hot temperature, Th, would be internal body temperature of 37°C. 
 72: Hint: do our bodies have regular access to temperatures this cold? 
 73: Treat as water, and recall that the den- sity of water is one gram per milliliter. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
-7 The Energy Landscape 
+ 
+## 7 The Energy Landscape 
 Now that we have a handle on common energy units and thermal processes, we can take a look at various sources of energy data and make sense of the information, allowing meaningful cross-comparisons. In this chapter, we will do exactly that, gaining in the process a perspective on the past and present roles different energy sources play at a national and global level. 
 Most of the information in this chapter comes from the U.S. Energy Information Administration's (EIA's) Annual Energy Review [34], and from a compilation of global data owing to Vaclav Smil and the British Petroleum Statistical Review of World Energy [16]. Rather than laboriously citing each instance, it is sufficient to assume for this chapter that numbers for the U.S. come from the former and global numbers come from the latter, unless stated otherwise. 
 7.1 The Annual Energy Review 102 
@@ -1180,7 +1181,7 @@ U.S. Global Share
 7.1 The Annual Energy Review 
 Until 2011, the Annual Energy Review (AER) was compiled for the U.S. as an annual report. Since then, a web interface provides access to many of the same products, but not as a single document. An impressive amount of detail is available in the AER products, and we will only scratch the surface in this book, looking at high-level overviews. Later chapters will sometimes rely on deeper information to provide state-by-state use of hydroelectric, solar, wind, etc. But for now, we stick mostly to section 1 of the Annual Energy Review (AER), labeled Energy Overview. 
 An oil pump dominates the foreground, while wind makes a visible presence in the background. Photo credit: Tom Murphy 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 7.1.1 Energy Flow 
 Section 1.0 of the AER is a one-page PDF graphic that conveys at a glance the flow of energy into and out of the U.S. Figure 7.1 shows the 2018 
 version. 
@@ -1265,7 +1266,7 @@ To understand, let's start in the middle section. To the left of center, we see 
 2: By luck, total consumption is very nearly 100 qBtu, so the amount of each source in qBtu is already approximately a percentage! 
 See how they add up? 
 3: Think of the three forms of fossil fuels as solid (coal), liquid (petroleum/oil) and gas (natural gas; not the same as liquid gasoline, which is a petroleum product). 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Now the right-hand side shows the sectors into which the energy flows, finding roughly equal distribution between residential (homes), commercial (businesses), industrial (manufacture), and transportation (both personal and commercial/shipping). In this graphic, we lose entirely any sense for how much of each energy source contributes to each sector, but that is coming in the next section. 
 Finally, the left-hand side indicates the inputs, grouped as domestic fossil fuel supply at top (out of our own ground), nuclear energy and renewable in the middle, and imports at bottom. From this, we can learn that we export some coal,5 that almost all of our natural gas and 100% of our nuclear is domestic, and that 62% of our petroleum comes from domestic crude oil production. 
 Other insights are present in the graphic as well. Don't be afraid to subtract or divide numbers to aid new discoveries. 
@@ -1287,7 +1288,7 @@ Figure 7.2 provides a more detailed breakdown of how energy flows from source to
 Notice the black and gray block at lower center, representing electricity. We derive electricity from all the sources on the left, and electricity is consumed in all sectors. Also, of the 38.3 qBtu going into making electricity, only 13.0 qBtu (34%) makes it out the door as electricity, due to thermodynamic losses that were covered in Chapter 6. 
 9: Notice that the source and end-use num- 
 bers in the boxes match the numbers in Figure 7.1 within rounding error. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 7 The Energy Landscape 
 105 
 eia 
@@ -1364,7 +1365,7 @@ Example 7.1.1 Let's work through the numbers in Figure 7.2 to elucidate what per
 We start simply, by noting that 43% of the 11.9 qBtu residential energy 
 [35]: LLNL (2019), Energy Flow Charts 
 10: See also [36] for a fascinating animated version. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 7 The Energy Landscape 
 106 
 budget comes directly from natural gas. So that's 5.1 qBtu."1 
@@ -1425,7 +1426,7 @@ coal
 30.9% 
 gas 
 Figure 7.3: 2018 Energy sources for the U.S. Figure 7.6 shows the global distribution. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 sured by electrical output, not thermal input (which is meaningless for solar, wind, and hydro). 
 Multiplying the electrical output by a factor of about 3 recovers the thermal equivalent.16 The interpretation is: how much fossil fuel (thermally) would have been necessary to achieve the same result? As a consequence, when Table 7.1 says the solar contribution is 0.92 qBtu, and therefore about 1% of the total, the actual solar energy was smaller by a factor of three, but the practice is fair because now we can directly compare solar to the fossil fuels. Reporting electrical output alongside thermal inputs would make the renewables appear to have a smaller contribution than they effectively do, against fossil fuels. 
 7 The Energy Landscape 
@@ -1498,7 +1499,7 @@ Figure 7.4: Recent history of primary energy consumption in the U.S. The three f
 It is worth looking at trends to understand not only the state of affairs today, but what happened over past decades and trends that may carry into the near future. Section 1.3 of the AER includes data going back to 1950 on the categories in Table 7.1. 
 Figure 7.4 shows the trends for the fossil fuels over the last 70 years, along with the slow rise of the sub-dominant non-fossil sources. Recent news touted the fact that the renewable sources17 surpassed coal as an energy source in the U.S. Indeed, the lines basically meet on the 
 17: The term "renewable," will be more fully explained in Chapter 10. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 right-hand side of the plot, and the trends suggest a clear reversal of rank going forward. Note, however, that this result is largely due to natural gas replacing coal at electrical power plants. The sharp rise in natural gas nearly mirrors the decline in coal, while the rise in renewable resources is more modest. So this is really more a story of trading gas for coal than renewables replacing coal. Figure 7.4 also shows each source as a percentage of all energy. For a few decades (1980-2010), coal and gas were essentially tied, while oil sat at almost double these two. Lately, gas is approaching oil while coal plummets. 
 10 
 nuclear* 
@@ -1555,7 +1556,7 @@ coal
 7.2 Global Energy 
 Not surprisingly, the global story is not dramatically different from the story in the U.S., as Figure 7.6 and Figure 7.7 show. Fossil fuels dominate, with oil at the top. Coal has held a lead over natural in 
 gas the wider world, unlike the U.S. Also, while nuclear and renewables are 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 solar 1.2% wind 2.4% 
 nuclear 
 4.9% 
@@ -1667,7 +1668,7 @@ year
 Figure 7.8: Recent history of non-fossil global energy consumption. Asterisks indicate thermal equivalents, as described in Box 7.2. The plot at right shows each source as a percentage of the total energy. Biomass accounted for a quarter of global energy in 1950. 
 Box 7.3: TWh vs. qBtu 
 You may have noticed that as soon as we departed from the AER 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 7 The Energy Landscape 
 110 
 data, which expressed energy in qBtu, the units on the plot (Fig. 7.7) changed to terawatt-hours (TWh). It means what it sounds like: tera is 1012, so this is 1012 watt-hours (Wh). We use kWh more often than Wh, so a TWh is the same as a giga-kWh, or GkWh (can you do that?). One kWh is 3.6 x 106 J, so 1 TWh is 3.6 x 1015 J. Meanwhile, 1 qBtu is 1.055 × 1018 J, facilitating a conversion. The figures for global power also 
@@ -1737,7 +1738,7 @@ year
 Figure 7.9: The left figure combines Figure 7.4 and Figure 7.7 to show the percentage of energy resources consumed by the U.S. over time. The overall picture is of a world catching up to an early leader. The U.S. was a literal "superpower" in the middle of the twentieth century. The dashed line at bottom represents the fraction of U.S. population in the world, so that energy use above this line means a greater-than-average share, which is true for all sources. The plot at right combines Figure 7.5 and Figure 7.8 to show the percentage of renewable and nuclear energy resources consumed by the U.S. over time. Solar and wind are characteristic of a nation known for innovation: first on the scene. 
 The thicker dark blue line in the left panel of Figure 7.9 represents all sources of energy, combined. Around 1950, Americans used a third of all the global energy, corresponding to almost 8 times0mm the global 
 Omm: The math is 35% over 6% of popula- tion compared to 65% over 94% of popula- tion: (35/6)/(65/94)≈ 8.4. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.7 The Energy Landscape 
+7 The Energy Landscape 
 111 
 average per non-American. Today, the ratio is closer to 4. 
 18 
@@ -1760,7 +1761,7 @@ Not the same as previous question.
 20: Verifying that they add to 100% is a good check. 
 21: See also Example 7.1.1. 
 22: 13.0 qBtu delivered; implying 34% con- version efficiency from primary sources to delivered electricity 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 and their total qBtu amounts. Treat "< 1%" as 0.5%. Do these add to 13 qBtu, as they should, within rounding error?23 
 5. Figure 7.2 hides contributions of sources to end sectors behind the "electric black box."24 Following similar logic to that in the margin, and using results from Problem 4, figure out "corrected" values for what percentage of coal provides energy to each of the four end-sectors (re-distributing the 91% going to electricity into end-sectors).25 
 6. Figure 7.2 makes it look as if residential demand is satisfied without coal or nuclear, but 42% of residential demand comes from electricity, which does depend in part on coal and nuclear. Using numbers derived in Problem 3, and following a logic similar to that in Problem 5 and Example 7.1.1, redistribute this 42% residential contribution from electricity into its primary sources to ascertain what fraction of residential demand comes from each of the five source categories. For instance, petroleum would be the direct 8% plus 42% times the fraction (or percentage) of electricity coming from petroleum.26 
@@ -1782,26 +1783,25 @@ pace, approximately what year would we hit zero?
 i 
 Keep it simple, as there is no single correct way to extrapolate this far into the future; just explain your approach. 
 27: We can hope to see faster-than-linear expansion in renewables, but this question asks what would happen without dramatic changes to the recent trends. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 fossil fuels, based on trends to date? 
 usage of 
 14. As explored in Problem 11, the U.S. usage of coal is falling precipi- 
 tously. According to the left plot in Figure 7.9, is the U.S. coal greater or less than the global per-capita average? 
 15. Is the U.S. per-capita usage of any energy source lower than the 
 global average, according to Figure 7.9? 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 7 The Energy Landscape 
 113 
 SPEED LIMIT 
 25 
-8 Fossil Fuels 
+## 8 Fossil Fuels 
 We are now ready to dive into the core content of the book: assessing global energy demands and prospects. For most of human history, we derived energy from food-supplied muscle power of people and work animals, burning firewood, and harnessing wind and water flow (all deriving from solar energy). Then a most remarkable thing happened: the discovery and widespread utilization of fossil fuels. The abundance of energy delivered by fossil fuels profoundly changed the human condition, such that many elements of our modern world would seem like magic to someone living 200 or even 100 years ago. 
 Fossil fuels still completely dominate our energy usage. Every country is reliant on some amount of fossil fuels especially for transportation. Even though fossil fuels cannot be our future due to finite resource depletion and climate change concerns it is critical that we look at these pillars of modern life, assessing what makes them both amazing and terrible, and what we might expect going forward. Facing the stark and underappreciated reality of fossil fuels will sharpen our desire to learn more about what might come after, as subsequent chapters address. 
 8.1 The Most Important Plot Ever 
 We have so far gained a few big-picture perspectives on the human endeavor. First, we illustrated the absurdity of constant growth in both physical and economic terms, concluding that growth must be confined to a temporary phase and will not be physically allowed to continue indefinitely. Next, we looked at population realities to understand how that story might develop. Then we looked at the scale of the universe, how minuscule Earth is in the vast emptiness, and explored the extreme 
 Oil pipelines and gas flaring on the Alaskan tundra at Prudhoe Bay. A drill rig fades into the fog at top center. Note the optical illusion that makes the photo's bottom border look crooked! Photo credit: Tom Murphy 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8.1 The Most Important Plot Ever114 8.2 Overview: Coal, Oil, and Gas 117 
 Coal ... 
 Petroleum (Oil). Natural Gas 
@@ -1848,7 +1848,7 @@ Because the upswing has lasted for generations, it seems entirely normal to most
 10,000 
 2: It's even worse than it sounds, since 10% is still in the form of biomass, much of which is old-technology firewood, leaving only 10% in the more modern forms of hydro, nuclear, solar, wind, geothermal, and tidal. 
 3: Social scientists are trained to not label their own time as abnormal, as such think- ing may reflect a sloppy bias that all people through history might be tempted to adopt. Yet, neither should we declare that abnor- mal times can never happen. Any quantita- tive assessment of the current human scale and planetary resource impact argues that we are justified in allowing ourselves an exception for the present age. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 ultimately considers the last century or two to be the most insanely unusual period of the human experience-like a fireworks show. 
 8 Fossil Fuels 116 
 energy scale 
@@ -1872,7 +1872,7 @@ Figure 8.1: Energy over the ages, in the form of fossil fuels. Up until the pres
 4: We can rule some things out, though, like unending growth and fossil fuels lasting centuries more. 
 [38]: Hubbert (1962), "Energy resources: a report to the Committee on Natural Resources of the National Academy of Sciences; National Research Council" 
 5: In this sense, taking the risk seriously fits the definition of the word "conserva- tive," even if present political alignments are mislabeled in this regard. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8 Fossil Fuels 
 117 
 Also, the very disruption of losing such a critical resource without adequate advanced preparation may damage our capabilities. The short answer is: we simply do not know. The question mark in Figure 8.1 is the most fair statement we can make. 
@@ -1887,7 +1887,7 @@ Coal-which looks like black rock-is the remnant of plant matter deposited, turne
 8: 15 TW of fossil fuel use divided by nearly 8 billion people is about 2,000 W per person. Compare to the U.S. total energy appetite of 10,000 W per person. 
 9: All of these sources were first used much earlier, but at insignificant levels. Natural gas makes a meaningful appearance start- ing around 1920, but heavy use began 50 years later after pipeline infrastructures were in place. 
 10: ... covered in Chapter 6 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 TW 
 2 
 4 
@@ -1949,7 +1949,7 @@ volatiles
 Table 8.1: Four classes for grades of coal, in order of decreasing energy content and value. Anthracite has been largely depleted and is a rare find today. [39, 40] 
 8.2.2 Petroleum (Oil) 
 Petroleum also called oil-is ubiquitous in our world as the source for gasoline, diesel, kerosene, lubricating oils, tar/asphalt, and even most 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8 Fossil Fuels 119 
 plastics. Virtually all transportation: planes, trains, automobiles, and ships run on petroleum-based energy. 
 Petroleum first entered the modern scene around 1850, and the first drilled well18 was in 1858 in Pennsylvania. Early uses were for kerosene lamps.19 The first commercial internal combustion engine closely fol- lowed in 1859, arriving at an essentially modern form in 1876 at the hands of Nikolaus Otto.20 The first production automobile using a gasoline-powered internal combustion engine was developed by Karl Benz in 1885 and Henry Ford's Model T began mass-production in 1913. In the intervening years, electric cars surprisingly were more popular, but quickly gave way to the gasoline21 car due to superior range, quick refueling, and cost. 
@@ -1991,8 +1991,7 @@ jet fuel
 23% 
 heating oil/diesel 
 Figure 8.4: Fractional use of a barrel of petroleum, from [41]. All but asphalt, petro- chemical feedstock, lubricants, and "other" are burned for energy, amounting to 92% burned. Still gases include methane, ethane, propane and butane in gaseous form, while the light liquids are also mostly propane and butane in liquid form. Coke is not the soft drink. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8 Fossil Fuels 120 
 Petroleum is measured in barrels (bbl), equating to 159 L (42 gal). Each barrel of crude oil contains about 6.1 GJ of energy (1,700 kWh; 5.8 MBtu). For reference, the world consumes about 30 billion barrels a year (the U.S. is about 7 billion barrels per year, or 20 million barrels per day). No single country produces oil at a rate greater than about 12 million barrels per day.25 
 To provide some perspective on how special/rare oil is, the chances of finding any by drilling a random spot on the planet is about 0.01%.26 This is because many geological conditions must be met to make oil: 
@@ -2019,7 +2018,7 @@ Figure 8.5: Oil and gas embedded in porous rock, under an impermeable caprock [4
 Natural gas is familiar to many as a source of heat in homes (stoves, hot water, furnace), but is also a major contributor to electricity production and industrial processes (usually for direct heat in furnaces/ovens). It is also used extensively in the production of fertilizer via the Haber process.30 
 Natural gas is primarily methane (CH4). Its formation process is similar to that of oil, but deeper underground where the pressure is higher and 
 30: The Haber process uses the energeti- cally cheap hydrogen in methane (CH4) to produce ammonia (NH3) as a chief ingredi- ent in nitrogen-rich fertilizers. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.8 Fossil Fuels 
+8 Fossil Fuels 
 121 
 longer-chain hydrocarbons are broken down to single-carbon methane molecules. We find natural gas trapped in underground reservoirs, often on top of oil deposits (Figure 8.5). Thus petroleum drilling operations typically also produce natural gas output.31 The gas itself tends to flow out freely once a well is drilled, since it is under great pressure and not viscous like oil. The first commercial use of natural gas started with a well in New York in 1821, leading to a pipeline distribution for street lighting in Philadelphia in 1836. Because of its low density32 compared to coal or petroleum, it is often impractical to collect, store and transport the gas, strongly favoring a pipeline infrastructure for its delivery. Lack of pipeline infrastructure delayed widespread use of natural gas until about 1970. It is also possible to liquefy natural gas (called LNG) by cooling to -160°C and then storing/transporting in cryogenic vessels. 
 Natural gas constitutes 31% of energy consumption in the U.S., and 22% globally.33. Because of the need for pipeline infrastructure in order to deliver gas to consumers, remote areas are typically unable to take advantage of the resource. The uses for natural gas in the U.S. are more diverse than for coal or oil: 35% goes to electricity production, 34% for industrial purposes, and 29% for residential and commercial heating.34 
@@ -2063,8 +2062,7 @@ C8H18
 36: ...not counting the oxygen; just the carbon-based fuel 
 Both fossil fuels and food are a type of chemical storage ultimately tracing back to photosynthesis in plants. 
 Table 8.2: Combustion properties of fossil fuels. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8 Fossil Fuels 122 
 Note that fossil fuels are more like fat (near 10 kcal/g) than carbohydrates (at 4 kcal/g). 
 37 
@@ -2095,7 +2093,7 @@ kcal/g
 0.03 
 0.0001 
 41: ... discounting dramatic events the en- tertainment industry prepares for us 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8 Fossil Fuels 
 123 
 37 kWh and costs $4—would be just $0.43. Efficiency differences, and the cost of the machine to perform the labor also factor in. But the point should be clear enough. 
@@ -2109,7 +2107,7 @@ fossil fuels.
 Climate Change: Nothing comes for free. Fossil fuels also bring many downsides. Chief on many peoples' minds today is climate change, via CO2 emission-an unavoidable consequence of combustion (Eq. 8.1). Extracting energy from fossil fuels, 43 leaves no choice but to accept CO2 as a byproduct, in large quantities. We will get to the details of climate change in Chapter 9, but for now will just say that increased CO2 in the atmosphere changes the equilibrium temperature of Earth by altering how effectively the surface can radiate heat away to space through the atmosphere. The physical mechanism is very well understood, and the amount of CO2 that fossil fuel combustion has produced is more than enough to account for the measured CO2 increase in our atmosphere. What is less certain is how the complex, nonlinear, interconnected climate systems will react, and whether positive feedbacks that exacerbate the problem dominate over negative feedbacks that act to tame the consequences. In the meantime, fossil fuels have handed us a global-scale 
 43... that's the whole point 
 44: All evidence says positive dominates. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8 Fossil Fuels 
 124 
 problem of uncertain magnitude and may end up costing us and other species dearly. 
@@ -2123,7 +2121,7 @@ Substance Addiction: Finally, the very fact that fossil fuels are finite may be 
 47: All of these modes of transportation are difficult to accomplish via electric drive (Sec. D.3; p. 397), and critical to our global supply chains for manufacture of consumer goods. 
 48: By the same token, it is unlikely that we would be at a comparable technologi- cal level if our inheritance had been much 
 smaller. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8 Fossil Fuels 
 125 
 8.4.3 On Balance? 
@@ -2144,7 +2142,7 @@ overpopulation
 agent of war environ. damage overdependency so yesterday 
 [43]: Diamond (2005), Collapse: How Societies Choose to Fail or Succeed 
 These are not strictly exclusive of each other, so some combinations are also possible. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8 Fossil Fuels 
 126 
 4. Increased difficulty in extracting fossil fuels drives their price up so that the market is ultimately forced to accept less convenient and more expensive forms of energy. 
@@ -2193,7 +2191,7 @@ coal
 50: Consumption and production are es- sentially identical: no stockpiling. 
 Table 8.5: Summary of proven reserves, usage rates, and time remaining for the world and for the U.S. (if using only its domestic supply) [44-46]. Oil is measured in giga-barrels (Gbbl; 109 bbl), gas in tera- cubic-meters (Tcm; 1012 m3), and coal in gigatons (Gt; 1012 kg; noting that 1 ton is 1,000 kg). 
 The world has already consumed 1.5 trillion barrels of oil, which is nearly the same amount as the 1.7 trillion barrels of proven reserves—indicating that we are roughly halfway through the resource.51 Certainly, we can expect that additional resources will be discovered and added to the 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 51: This fact is one justification for believing we may be near the top of the symmetric curve in Figure 8.1. 
 8 Fossil Fuels 
 127 
@@ -2236,7 +2234,7 @@ Gas
 56: If the number worked out to 5 years, we would be in a panic. If it worked out to 5,000 years, climate change would loom as the chief concern. 
 A car's gas tank is another tempting, but flawed mental model. Getting water out of wet sand is closer to the truth for oil 
 extraction. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8 Fossil Fuels 
 128 
 rate at which it can be removed depends on the thickness of the seam, how deep it is located, and how hard it is to dig out surrounding rock. Even oil is not in some sloshing reservoir, but permeates porous rock, limiting how quickly the viscous fluid can be coaxed to flow out of the rock and into the pump tube. Gas is the quickest to escape its rocky tomb, but at this stage the U.S. has moved to "tight gas" that does not so easily break free-forcing a technique of fracking the rock to open channels for gas to flow. The same technique is being used to access "tight oil" that otherwise refuses to be pumped out of the ground by conventional means. 
@@ -2253,7 +2251,7 @@ simple growth peak
 Figure 8.6: Three scenarios for a finite re- source playing out, all based on the same initial history (the red dot is "now") and the same remaining amount (blue-shaded region). The red bar over each represents the remaining time until resource decline. See text for details. 
 58: ... also applies to gas 
 59: Think about throwing a dart at the globe. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 70 
 8 Fossil Fuels 
 129 
@@ -2305,7 +2303,7 @@ LO
 2010 
 2020 
 We have seen this story play out numerous times within oil-producing regions. Discovery of oil in the North Sea put the U.K. into the oil business about 50 years ago (Figure 8.9). At first, the discovery rate was brisk, followed by 20 years of modest discovery. It appears that nothing is left to find, as discoveries have stopped. The production shows a double-peak structure maybe echoing the discovery lull around 1980- but in any case is nearing the end of extraction. Only about 6% of the discovered oil (effectively that discovered after 1996; unshaded in Figure 8.9) is left: not much remains to pump out. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Figure 8.9: North Sea (U.K.) oil discoveries (blue, in giga-barrels per year) peaked in the 1970s and have basically ended. Production (red) lags discovery, and cannot carry on much longer as the last of the discovered oil (unshaded blue outline) is extracted. Plot conventions follow those in Figure 8.7. 
 8 Fossil Fuels 
 130 
@@ -2350,7 +2348,7 @@ Figure 8.10: U.S. oil production history (blue; from [49]) and consumption histo
 63: By develop, we mean populate the de- posit with multiple drill sites and pumps. 
 64: Note that the curve is an aggregation of many hundreds of individual wells whose individual production rates rise and fall on shorter time scales. 
 65: ... the term for a field to be exploited 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.8 Fossil Fuels 
+8 Fossil Fuels 
 131 
 8.5.4 Geopolitics 
 Another wrinkle worth mentioning is the geopolitical angle. Much of the world's proven reserves are not owned by the countries having the highest oil consumption. Figure 8.11 shows which countries hold the largest stocks, with a caveat that the deposits in Venezuela and Canada are heavy oils,66 which are harder to extract and refine into lighter forms like gasoline, making the middle-east (Saudi Arabia, Iran, Iraq, UAE, and Kuwait) the "real" leaders of light67 crude oil dominated by the more useful shorter-chain hydrocarbon molecules like octane (Figure 8.3). One thing that should cause Americans alarm is to go around the circle looking for close allies. Aside from Canada, with its inconvenient heavy-oil, the picture is not terribly reassuring. Proven reserves of oil in the U.S. amount to 35 billion barrels. At a consumption rate of 20 million barrels per day, the math suggests only 5 years, if we only used our own supply. The proven reserve, however, is a conservative number, often short of estimated total resource: exploration can add to proven reserves. The estimated resource in the U.S. is closer to 200 Gbbl, which would last a little less than 30 years without imports at the present rate of consumption. These short timescales offer some relief for climate change concerns, but perhaps represent bad news for global economies utterly dependent on fossil fuels. 
@@ -2407,7 +2405,7 @@ Figure 8.11: Distribution of proven oil reserves by country, on left, according 
 68 
 Because the rate of extraction can be a limiting factor, it often happens that the rate of production begins to slow down (peaks) around the time half the resource has been exhausted, producing a symmetric usage curve over time. This suggests that the peak can occur well before the timescales resulting from the R/P ratio, as depicted in Figure 8.6. Once the world passes the peak rate of oil production, a sequence of panic-driven damaging events could ensue, making it more difficult (less likely) for us to embark on a renewable-centered post-fossil world. Boxes Box 8.3 and Box 8.4 paint scenarios that cause concern. 
 68: ... about where we appear to be on oil 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8 Fossil Fuels 
 132 
 Box 8.3: Resource War 
@@ -2420,7 +2418,7 @@ energy resources— having clung too tightly to fossil fuels as a cheap and larg
 This notion is further explored in Sec. 18.3 (p. 310). 
 8.6 Upshot: Amazing, Terrible, and Limited 
 History may very well view this time period as the Fossil Fuel Age rather than the Industrial Age. Fossil fuels are a ubiquitous and defining characteristic of this unusual time. The current level of technology, 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8 Fossil Fuels 
 133 
 global population, or impressive state of knowledge would not have been possible without fossil fuels. We therefore owe a great debt of gratitude to these three amazing resources. Perhaps the first species on any planet to discover and use fossil fuels will follow a similar madcap trajectory and even temporarily poke into space, as we have. 
@@ -2435,7 +2433,7 @@ If continued reliance on fossil fuels is risky-both from resource
 72: 
 .especially in the hardest-to-replace oil resource 
 73: One is justified in asking why prices are not raised to discourage fossil fuel use and catalyze development of alternatives. See Box 8.6. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 scarcity and climate change points of view-then why do prices remain low, serving to encourage continued use and hinder adoption of alternatives? Why doesn't the government raise the price? 
 The rookie mistake here is assuming that adults are in charge. Markets are in charge. Governments may impose taxes and tariffs, but cannot go overboard before voters74 object. Global competition without global government penalizes those countries self-imposing additional costs on their citizens. And finally, short-term sacrifice for long- term benefit is not a human strong suit-especially in the face of uncertainty. Convincing people of a future problem that has never surfaced for generation after generation turns out to be hard. 
 74: 
@@ -2455,7 +2453,7 @@ now will view the period from 1900-2100?
 ... or something representative of their generation 
 77: Just stack them a bit so you can tell them apart. 
 78: E.g., what energy sources, primitive vs. technological, dwelling style, etc. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8 Fossil Fuels 135 
 global fossil fuel use (total, not per-capita) during the last 20 years. 
 7. Coal usage in the U.S. has declined dramatically in the last 20 years as natural gas has replaced much of the electricity production from coal. What does Figure 8.2 say about the global coal trend during this period? 
@@ -2479,7 +2477,7 @@ This problem has much in common with Prob. 3 (p. 111) in Chapter 7.
 Don't do this! It won't work! 
 83: ... represented by octane, C8H18 
 84: For reference, 100 mL is 3.4 oz. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8 Fossil Fuels 
 136 
 occupies 7.4 mL of volume at a mass of 23 g, while holding about 0.003 kWh of energy. How much volume and how heavy would a collection of AA batteries be in order to match the energy in a liter of gasoline, and by what factors (in volume and mass) is gasoline superior? 
@@ -2499,7 +2497,7 @@ you (or explain why not, if they don't concern you).
 per person 
 87:...a made-up thing that we presume is irreplaceable 
 88: ZJ is zetta-Joules, or 1021 J. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 8 Fossil Fuels 137 
 "run out one day," because they don't appreciate the substantial amount of work that must go into extracting the resource from a reluctant ground. What common, day-to-day personal experiences do you imagine contributes to this disconnect?89 
 27. Simultaneously considering Table 8.5 and the lessons from Figure 8.6, what sort of timescale might you guess for when the world might see a more-or-less permanent downturn in oil production? Say how many years you think we have until a downturn and explain your reasoning. 
@@ -2509,9 +2507,8 @@ per person
 30. If the inevitable decline in fossil fuel availability is a potentially important disrupter of the status quo in the decades to come, what are some reasons it gets little attention compared to, say, climate change? No right answer here, but what do you think contributes? 
 89: In other words, what is your personal experience obtaining resources that can sud- denly just run out? 
 90: Note that the shaded blue area is not the entire area under the blue curve, but has been set to equal the red area. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions. 
-9 Climate Change 
+ 
+## 9 Climate Change 
 Climate change stands tall among the global scale problems created by our energy appetite caused by the accumulation of carbon dioxide (CO2) in our atmosphere from the burning of fossil fuels. This chapter aims to provide a no-nonsense account of the basis for climate change that leaves little room for the kind of uncertainty often injected by (alarmingly successful) disinformation campaigns. While the response of our complex climate system is more difficult to predict in detail, the core physics is unassailable. We will see that the rise in CO2 is not at all mysterious, stemming from fossil fuels. We will also explore a few scenarios and connect the CO2 rise to temperature consequences. 
 9.1 The Source of CO2. 
 138 
@@ -2565,8 +2562,7 @@ C8H18
 64 
 Of chief interest in Table 9.1 for this chapter are the last two columns: 
 Elephants doing their best. Photo courtesy of O'Connell & Rodwell. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 9 Climate Change 
 139 
 1. mass ratio: how many grams of CO2 are produced per gram1 of 
@@ -2612,8 +2608,7 @@ year
 2000 
 2010 
 2020 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 When the measurements started, the atmosphere consisted of less than 320 parts per million by volume (ppm), or < 0.032%. By now, we are beyond 410 ppmy. 
 Measurements of trapped air bubbles in the Greenland ice sheet going back about 100,000 years and the Antarctic ice sheet going back 800,000 years indicate that CO2 has fluctuated between 180-280 ppm, reaching the higher end of the range during the warmer periods between ice ages (interglacial periods). For at least the last thousand years before the Fossil Fuel Age, CO2 held steady around 280 ppm.. 
 9.1.2 CO2 Expectations 
@@ -2651,7 +2646,7 @@ Box 9.1: Computing CO2 ppm, from TW
 We will use oil as an example. In Figure 9.2, we appear to get about 6 TW from oil (5 TW from coal, 4 TW from natural gas). Multiplying by 1012 puts this in Watts (J/s) and by 3.156 × 107 seconds per year results in the annual global energy from oil in Joules: 1.9 × 1020 J/yr. Table 9.1 indicates that oil contains about 11.5 kcal/g, so the number of grams of oil used per can be determined by first converting J to kcal 
 Figure 9.2: Historical use of fossil fuels worldwide, repeated from Figure 8.2 [16]. On the left is the raw usage rate expressed in terawatts, while the right is a per-capita mea- sure. The three fossil fuel types are stacked on top of one another, so that gas makes the smallest contribution, not the largest. For instance, on the right-hand-edge of the left panel, coal goes from 0 to 5 TW, oil from 5 to 11 (thus 6 TW from oil), and gas from 11 to 15, indicating 4 TW from gas. The left-hand panel makes clear that fossil fuel use is still rising dramatically, and thus CO2 
 emissions. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.Operation 
+Operation 
 Starting value x 1012 W/TW x3.16 x 107 s/yr 
 Resulting Units Coal 
 TW 
@@ -2684,7 +2679,7 @@ The mass of the atmosphere is about 5 × 1018 kg, obtained by multiplying 10,000
 Figure 9.3 shows the result of this computation as a function of time in terms of annual rate and cumulative emission. We find that even though oil and coal deliver about the same global annual energy now, the carbon-intensity of coal is much higher so that its CO2 emission dominates10 over the other sources. In fact, coal always has been the dominant CO2 producer, seen by the fact that the black curve in the left-hand panel of Figure 9.3 has always been higher than the other two CO2 sources. In total, this estimate suggests that we should see CO2 levels rising by 2.6 ppm, per year, a little over half of which is due to coal (1.4 ppm/year). 
 11 
 Summing up the rising contributions over time, this method of estimation suggests that we have increased the atmospheric CO2 by 123 ppm, and that 75 ppm, of this (61%) is attributed to coal (right-hand panel of Figure 9.3). 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 5: At 120 kg per barrel, this turns into the expected 30 billion barrels per year as a check to see that we're on the right track. 
 6: This is a close approximation to the actual value, obtained by dividing stan- dard atmospheric pressure of 101,325 Pa by g≈ 9.8 m/s2. 
 7: the result of Box 9.1 
@@ -2762,7 +2757,7 @@ The curve computed from fossil fuel use overlaps the Keeling Curve so faithfully
 13 
 Figure 9.4: Fossil fuel contribution to CO2 (red) on top of CO2 measurements (blue). The red curve uses a starting point of 285 ppm, and has 49% of CO2 emissions staying in the atmosphere. The overlap is remarkably good and convincing. 
 13: ... acidifying the ocean's water 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Box 9.2: If We Ignored Oceans 
 Reflect on what our reaction might have been had we not corrected for oceanic and land absorption: we would conclude that we have no trouble quantitatively accounting for the CO2 rise based on fossil fuels, and would be left asking why we don't see an even larger rise. In other words, it is no stretch to account for the cause of excess CO2-making it far from mysterious. If our CO2 increase were not due to humans,14 we would be left with a real mystery: then where is all of the known CO2 emission from burning fossil fuels disappearing to? 
 9 Climate Change 
@@ -2833,7 +2828,7 @@ Figure 9.5: Cumulative contributions to CO2 emissions to date, grouped by con- t
 The 
 presence of excess CO2 in our atmosphere is undeniably from fossil fuel combustion. But how does this alter our climate? How can such a minor constituent of the atmosphere (now 0.04%) cause so much trouble? The answer lies in infrared radiation [54]. Recall from Sec. 1.3 (p. 10) that 
 [54]: Pierrehumbert (2011), "Infrared radiation and planetary temperature" 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 of 
 this is the mechanism by which energy leaves the earth, the power which is governed by the Stefan-Boltzmann law P = AsurfσT4, where the Stefan-Boltzmann constant,15 σ = 5.67 x 10-8 W/m2/K4, and T is the temperature of the radiating surface, in Kelvin. 
 Sun 
@@ -2865,7 +2860,7 @@ Verify for yourself. Two square roots in a row accomplish a fourth root.
 19: We will see how/why in in Section 13.2 (Eq. 13.5; p. 199). 
 20: ... the infrared radiation that directly escapes to space 
 21: Thus the white portions indicate the open "windows." 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 9 Climate Change 
 145 
 Percent 
@@ -2917,7 +2912,7 @@ Wavelength (um)
 30 
 but 
 If some portion of the infrared radiation does not escape to space is absorbed by the atmosphere, the planet does not cool as effectively, adding some offset to Eq. 9.2-in Earth's case 33°C. It is like the earth is wearing a blanket that raises its temperature by 33°C. Figure 9.9 illustrates the mechanism. Water vapor is responsible for ~20°C of this 33°C, and CO2 is responsible for another ~8°C, leaving ~5°C for ozone, methane, and other minor contributors (Table 9.4). Incidentally, methane (CH4) is about 80 times more potent than the same amount of CO2 as a greenhouse gas, but is at a far lower concentration than CO2, and also shorter-lived in the atmosphere before being chemically destroyed.23 We focus on CO2 because this is what human activity is changing rapidly by burning fossil fuels. The vast ocean-air interface means water concentration is impossible to control, and simply responds to temperature due to the fact that warmer air holds more moisture- becoming an important feedback agent. Water is not the driver of climate 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Figure 9.8: Another view of just the water and carbon dioxide absorption spectra, bet- ter showing the overlapping role of each in the 10 um window. From Robert Rohde (NASA). 
 Table 9.4: Greenhouse contributions [56]. 
 Molecule 
@@ -2972,7 +2967,7 @@ T =
 +33≈ 288.6, 
 σ 
 (9.6) 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 which is about 0.6°C larger than it was before increasing the amount of CO2. We can express this as a sensitivity: how much AT do we get for a given imbalance in radiative forcing? In this case, 0.6°C from a 2.2 W/m2 increase is 0.27°C per W/m2. But when the known feedback mechanisms are included-most of them in the positive direction-the temperature sensitivity becomes 0.8°C for every W/m2 of additional forcing: called the climate sensitivity parameter.28 
 Definition 9.2.2 The climate sensitivity parameter connects the amount of warming expected for a given amount of radiative forcing. Current understanding puts this at 0.8°C per W/m2 of radiative forcing. 
 Therefore, our current 2.2 W/m2 of additional (fossil-fuel added) radia- tive forcing translates29 to a 1.7°C temperature increase (Figure 9.10), which is about three times what the non-feedback calculation would provide. 
@@ -3015,7 +3010,7 @@ Figure 9.10: As CO2 concentration increases, the radiative forcing (left axis) i
 By far the most important negative feedback mechanism is the infrared radia- tion itself, increasing dramatically as tem- perature increases (as T4), thus opposing the temperature rise by a cooling influence. Here, we mean negative feedback influences in addition to this main one. 
 [58]: National Oceanic and Atmospheric Administration (NOAA) (2019), Global Climate Report 
 31:... lots of thermal mass, or heat capacity 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 9 Climate Change 
 148 
 9.3 Possible Trajectories 
@@ -3093,7 +3088,7 @@ The second scenario focuses on eliminating coal, since it is the highest intensi
 35: On the other hand, we may not have enough fossil fuel resource to realize this scenario, in which case it can be treated as an upper limit. 
 36: 
 based on its lower energy density (5-8 kcal/g vs. 13 for natural gas) and its higher CO2-to-fuel mass ratio (3.67 vs. 2.75 for natural gas) 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 simulation allows us to evaluate the best-case (and unrealistic) scenario of instant, complete replacement, to put a limit on how much benefit such a move brings. Figure 9.12 shows what happens. The rate of CO2 emission would immediately drop to 1.8 ppm/year.37 That definitely helps, but the total emission by 2100-if carrying on at today's energy demand via fossil fuels-would climb to 268 ppmy. The effect would more than double the 123 ppm, that we've already contributed to the atmosphere, and would approximately double the pre-industrial CO2 level in the atmosphere, leading to a forcing of 3.6 W/m2 and AT ≈ 2.9°C (summarized in Table 9.5). So as beneficial as the termination of coal would be, any path that involves carrying our fossil fuel use forward at today's levels even substituting the best form for the worst form-does not look promising. 
 9 Climate Change 
 149 
@@ -3142,7 +3137,7 @@ Figure 9.12: CO2 rise if instantly substitut- ing coal (worst CO2 intensity) wit
 Again, follow along for good practice. 
 39: 
 ... resource wars, devastating climate change repercussions 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 CO2 ppmy annual contribution 
 CO2 ppmy annual contribution 
 140 
@@ -3226,7 +3221,7 @@ contribution to the atmosphere would be an increase of 169 ppmv, which is 37% mo
 9.4 Climate Change Consequences 
 Turning up the thermostat on the planet results in too many effects to chronicle here. Obviously, the climate is impacted-in terms of storm frequency and intensity, rainfall, snowfall and water supply, season durations, and the ability of plant and animal species to adapt to the changes. The timescale over which we are changing the climate is far faster than evolution can track, except for microbial life and maybe insects, whose shorter generational turnover permits a more dynamic response. Humans are late arrivals to a long evolutionary sequence, which laid a foundation to support our lives in complex interconnected 
 Try replicating! 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.ways that we are not close to fully understanding. Climate change messes with the system in such a way to prevent accurate prediction of the long-term consequences of one species or another disappearing from the web of life. 
+ways that we are not close to fully understanding. Climate change messes with the system in such a way to prevent accurate prediction of the long-term consequences of one species or another disappearing from the web of life. 
 The consequences of climate change are elaborated in many sources that are not difficult to find. Rather than try to add to the general awareness, this section in the spirit of the book-aims to provide students with some tools40 to be able to quantitatively understand how the physical world reacts to changes in radiative forcing. Specifically, we concentrate on the process of heating up11 elements of the planet, and on sea level 
 rise. 
 9 Climate Change 
@@ -3282,7 +3277,7 @@ add CO,: 2 W/m2 imbalance adjusting: 1 W/m2 imbalance
 post-CO, equilibrium 
 Figure 9.15: Four steps to illustrate (in a grossly simplified way) the process of Earth adapting to an increase in greenhouse gas (GHG). Starting from the left within each panel, solar input is held constant at 240 W/m2. Most of the radiation leaving the ground-quantitatively adhering to oT1-is absorbed by GHGs (fraction absorbed indicated in GHG "cloud"), the rest escaping directly to space. Half the absorbed energy is radiated up (escaping) and half back down. The dashed arrow at right is the net radiation escaping. Integer numbers are in W/m2, and arrow widths are scaled accordingly. Ground temperature is indicated at bottom. See text for narrative sequence. 
 Figure 9.15 sums up the story.45 The first panel shows the pre-industrial equilibrium condition, in which 77% of the infrared radiation from the ground was intercepted by the greenhouse gases, while 23% (90 W/m2) 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 45: Note that in each panel, adding the two top arrows or subtracting the two bot- tom ones both yield the same number- matching the dashed arrow on the right. 
 directly escaped. The 77% absorbed (300 W/m2) is re-radiated equally up and down (150 W/m2 each). The net outgoing radiation matches the 240 W/m2 solar input exactly, signaling equilibrium. 
 47 
@@ -3310,7 +3305,7 @@ Try re-creating the upward radiation numbers using oT4
 53: This is why ice in a glass of water does not all melt suddenly-keeping the water around it basically right at 0°C as the ice slowly melts, limited by the rate of heat transfer. 
 54: Two entries in the table are blank, be- 
 cause it does not make much sense to talk about heating just a layer of the atmosphere, or heating the "whole" ground: how deep makes sense? 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 area 
 Component (1012 m2) (1015 m3) 
 volume 
@@ -3367,7 +3362,7 @@ as it roughly is now; third panel in Figure 9.15
 56: 1 W/m2 times the 5.1 x 1014 m2 area of Earth, then 3.16 x 107 seconds in a year. 
 57: 
 not how it really works 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 9 Climate Change 
 154 
 component math 
@@ -3414,7 +3409,7 @@ severe.
 Tip: don't treat sections like this as the text- book "telling" you stuff. It is far more pro- ductive to follow the logic, reasoning, and numbers yourself as an active participant in the story. Otherwise, OMG is it boring! The value is empowerment: bestowing tools for transparent understanding of fundamental processes. 
 60: Ice covers 3% of the globe, while the ocean covers 71%. 
 61: This is not far from reality, as will be seen in Section 9.4.3. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 centimeters 
 factor on how fast things can heat up. If we confine ocean heating to the top 300 m62 of water, the excess 1.6 × 1022 J per year leads to an annual temperature rise of about 0.035°C per year, or about 30 years to climb 1°C (at a 1 W/m2 imbalance). 
 Although this section may seem to be long, convoluted, and perhaps even boring, it accomplished a number of things for us: 
@@ -3457,7 +3452,7 @@ NOAA Climate.gov Adapted from SOTC 2018
 Melting ice contributes about 2.4 mm/yr of rise, while thermal expansion accounts for about 1.2 mm/yr for a total rate of 3.6 mm/yr [61]. Since 
 Figure 9.16: Satellite measurements of sea level since 1993, showing a rise of 3.6 mm per year. Melting ice is the largest contribu- tion, although thermal expansion plays a role as well [61]. From NOAA. 
 [61]: Lindsey (2020), Climate Change: Global Sea Level 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 9 Climate Change 
 156 
 1880, sea level has risen about 230 mm At the current rate, we would expect a comparable addition by 2100 for a total of 0.5 m. 
@@ -3477,7 +3472,7 @@ The preceding paragraph and Table 9.6 have enough information (absolute and rela
 66: Divide volume by area. 
 [60]: Davies (2020), Calculating glacier ice volumes and sea level equivalents 
 67: One goal of this book is to empower students to independently check more au- thoritative sources-much like 2+2 = 4 can be personally verified and is not a matter of faith. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Coastal cities are already struggling to deal with the present ~0.25 m rise. This may not sound like much, and on normal days does not cause problems. But the low pressure associated with storms results in a local swell in water level,68 so that a storm plus high tide plus heavy waves adds to the climate-change rise to destroy human structures that otherwise may have escaped harm. Even if CO2 emissions ceased today, the warming that has already happened will continue melting ice. Temperatures will also continue to climb as increased forcing from the already-present CO2 continues to heat the ocean as we creep toward equilibrium a slow process. So sea-level rise may turn out to be the gift that keeps on giving for centuries more. 
 Sea level in the distant past-tens of millions of years ago—has been as high as 200 m over where it is now. And 20,000 years ago, during the last glacial maximum, sea level was 120 m lower than it is today [62]. So Earth is no stranger to large fluctuations in sea level. By contrast, many coastal cities do not know how to handle even a one meter rise-which is within the projections for 2100 in a number of models. 
 9 Climate Change 
@@ -3488,7 +3483,7 @@ Sea level in the distant past-tens of millions of years ago—has been as high a
 So far, we have simply described the climate change phenomenon as an unambiguous consequence of our fossil fuel habit, but have not addressed what we might do to combat it. In this section, the author will not attempt to conceal his personal take on the matter, and will keep it short. 
 First, clever geo-engineering ideas ring of hubris, and seem like solving a problem of hurtling toward the ground by digging a hole ahead of the fall fast enough to keep up. Our whole problem is that we have convinced ourselves that we can outsmart nature.69 You would stop going to a doctor who tried to treat your illness by applying superficial remedies to a resulting skin condition without addressing the underlying cause. 
 In this case, the underlying cause is very simple: unchecked70 human ambitions. The combination of fossil fuels, an incessant drive for growth, destruction of forests and habitat,71 population pressures, and an in- dustrial approach to agriculture all play a role. This is why it has been hard to combat: it's us. It pervades all the things we do. We are our own adversaries. How do we fight ourselves? To do so requires honesty and even a collective willingness to sacrifice and prioritize planetary health over narrow short-term human interests. What is more important: that individuals attempt to fulfill all their dreams now, or that civilization endures for the long haul? Are we willing to dial back our own desires so that billions of future humans who we will never meet and countless other species on the planet can also enjoy life? We have never had to make such a difficult choice as a global whole, so it is hard to say if Homo sapiens can pull it off. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 69: See Sec. D.6 (p. 408) in Appendix D for an extended discussion of this notion. 
 70: Nature just called and left this cryptic message: "Check." 
 71: ... eliminating carbon sinks and com- promising nature's ability to adapt 
@@ -3507,7 +3502,7 @@ stances
 .e.g., energy, water, food, mined sub- 
 9.7 Problems 
 1. If you were asked to characterize a typical carbon cost of fossil fuels, in grams of CO2 emitted per gram of input fuel, what single simple number would be a good approximation to all three types, referring to Table 9.1? 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 9 Climate Change 
 159 
 2. How many kilograms of CO2 are produced from consuming a 40 L tank of gasoline? Compare the result to typical human mass. Gasoline is about 0.75 kg/L. 
@@ -3523,7 +3518,7 @@ stances
 76: E.g., Even swap, MJ for MJ 
 77: Multiplying ppm/yr (height) times years (base) gives units of ppmy, matching the plot on the right. 
 78: ... or equivalently, 135 g/MJ 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 9 Climate Change 
 160 
 skeptic" who names many natural sources of CO2 and says we should not be too quick to label the CO2 rise as anthropogenic?79 
@@ -3543,7 +3538,7 @@ Is this warmer or cooler than the actual average surface temperature (given GHG 
 82: For instance, if we could cut them all in half, would that be good? 
 83: Hint: Figure 9.15 offers clues. 
 84: A table would make sense, including the radiative forcing as one column. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.9 Climate Change 
+9 Climate Change 
 161 
 (linearly). Is the corresponding temperature trend linear?85 
 20. Which of the following are positive vs. negative feedback effects 
@@ -3570,7 +3565,7 @@ Hint: It is easiest just to consider a single square meter of surface and figure
 86: 3 J deposited every second in each square meter 
 87: Hint: use kcal (4,184 J) and solve for the temperature increase in one year, then figure out how many years for that to accu- mulate to 1oC. 
 Hint: multiply by area of Earth and seconds in a year to get Joules of input. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 forcing is 3 x 1022 J per year. How much would the temperature of the top 10 m of ocean rise in one year at this level? 
 29. If we somehow maintained a steady 2 x 1022 J/yr of unbalanced 
 input indefinitely, how long would it take to: 
@@ -3585,5 +3580,4 @@ The sum of all these is how long it would take to get all of these tasks done, e
 9 Climate Change 
 162 
 In practice, this is not how things will go. The ocean will heat up more near the surface, allowing air to get hotter and ice to melt faster while the deep ocean stubbornly resists warming for centuries. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 

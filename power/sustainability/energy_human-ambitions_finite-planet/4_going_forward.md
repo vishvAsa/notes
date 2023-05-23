@@ -6,14 +6,14 @@ Part IV
 GOING FORWARD
 We have layered an artificial world atop the natural one. Which do you think will stand the test of time? The sooner we dovetail back to the natural,
 the greater our chances for success become.
-18 Human Factors
+## 18 Human Factors
 Energy has occupied center-stage in this book because it is the physical currency of activity. Fossil fuel availability permitted the Industrial Revolution and all that came with it. Human civilization has never before faced the prospect of such a crucial global resource either disappearing or being abandoned due to other ills (e.g., climate change).
 Despite the mixed suitabilities of alternative energy sources presented in Chapter 17, some physically viable avenues are open to us. In other words, physics itself does not preclude development of an energy landscape consisting primarily of solar, wind, and hydroelectric power, plus a few small contributions from a variety of other sources. Life may be different; less air travel or transportation in general, as one possibility. The enormous solar potential combined with decent storage technologies could conceivably maintain our 18 TW appetite without fossil fuels. Or we could scale back and not expect to live in such a profligate manner, viewing our current ways and expectations in the broader human experience as anomalous, temporary, and not important to preserve.
 In any case, the barriers are not completely due to physical constraints— though we must heed limits where they exist. A practical concern is the expense of a non-fossil energy infrastructure: both in energy and financial terms. It is possible that the prosperity required to afford such a dream is physically unavailable.1 Another limitation involves people and how they work collectively, which is the focus of this chapter.
 18.1 Personality
 Discussion of personality may seem out of place in a physics-based textbook. But how we react to a looming crisis-both individually
 Easter Island stands as a testament to humans' ability to do really dumb things, like cutting every tree on the island. Who cut down the last one? Photo by Sophie Hurel.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 18.1 Personality.
 304
 Consequences and Coping 307
@@ -48,7 +48,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    can also access from citation link
    7: Experimentalists are more likely to be J and theorists are more likely to be P.
    8: Keep in mind that real people can blend attributes and do not always fall cleanly into a given "box," so the 16 tidy categories is somewhat artificial.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    XSTx
    XSFx
    xNFx
@@ -97,7 +97,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    Much of the criticism of the Myers-Briggs personality type indicator owes to the binary nature of each result, unlike the Big-5 percentage for each category. The argument is that people are more complex than this, and do not fall into 16 distinct and tidy categories. But any Myers-Briggs test will indicate where you fall on the spectrum from the hard extremes-based on the number of answers in the survey toward each direction. Some people fall in the middle of a category and get an X designation. 16 rigid types is illusory and unnecessary.
    It is easy enough to accept this valid criticism yet still value the fact that people do spread out in their preferences. Also, some of the dimensions map onto the more widely-embraced Big 5 scheme.
    The most important aspect of personality that bears on our energy/re- source challenges, and a key reason for covering the topic at all in this book, is that the Myers-Briggs "S" types constitute 73% of the population, yet are most resistant to the argument that unprecedented disruptive changes are on the horizon. S-types place more value on direct sen- sory input than on abstraction. Things directly experienced-seen with their own eyes, heard by their own ears, personally touched, smelled or tasted-carry much greater weight than "theory." Presented with
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    ISTJ
    ISFJ
    INFJ
@@ -150,7 +150,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    11: ... fewer resources and possessions, no space colonies, closer to nature
    12: See Fig. 8.1 (p. 116) for a visual reminder.
    13: Recall that Chapters 1 and 2 made a compelling case.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    WRONG
    WRONG
    WRONG
@@ -173,7 +173,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    One other coping mechanism is simple: time. The world a child is born into is by definition "normal" to the child. Future generations who do not grow up spoiled by abundant fossil fuel energy will not fight for a bygone lifestyle, and will simply adapt to the world as they find it-where the S-types shine. One way or another, nature will settle on a solution, and humans will be part of that solution, whatever its form. Ideally, we can guide ourselves into a mutually agreeable coexistence.
    14: See Sec. D.6 (p. 408) for additional dis-
    cussion.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    18 Human Factors
    309
    18.2 Policy vs. Individual Action
@@ -190,7 +190,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    It feels icky to point out flaws in democ- racy, as this form of government has ad- mirably lifted countless individuals up and promoted enlightened progress. It really is the best in many respects-except for this fundamental flaw in a world of constraints and possible reductions.
    18: ...or even a large majority
    19: The technical term for these people is: jerks.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    18 Human Factors
    310
    voting in the future, lest they be labeled hypocrites. Often such objections are rooted in defense: they want stuff, and your giving something up is a threat to their perceived moral "right" to have it. The sense of sanctimony and righteousness of the individual making sacrifices-even if not intentional-can be very offputting.
@@ -211,7 +211,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    ...as if first 5 years spent repaying "loan"
    Figure 18.5: Energy "payback" time for 30 year resource with EROEI of 6:1.
    22: Any EROEI estimate must assume some resource lifetime in order to compute the amount of energy delivered.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.18 Human Factors
+   18 Human Factors
    311
    6:1 construction; see Sec. 14.3.1; p. 231), we conclude that it takes 5 years of the panel's output energy to fabricate the panel. So its first five years are spent paying off the "loan," in a sense.
    As another example, development of a resource that will last 40 years and whose EROEI is 10:1 will require 4 years of its energy output ahead of time23 to bring it to fruition.
@@ -234,7 +234,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    29: ... in the true sense of the word
    30: See Chapter 17, for instance.
    31: Is this a human limitation?
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    18 Human Factors
    312
    18.4 Fermi Paradox Explained?
@@ -252,7 +252,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    36: ... buried remnants of life
    37: Fossil fuels can be thought of as a solar- charged battery that we are discharging almost a million times faster than the time it took to charge it: see Box 10.2 (p. 169).
    38: Also, easily accessed surface metal de- posits have long disappeared, bringing into question whether a Bronze Age would be possible to replicate.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    18 Human Factors
    313
    combination of evolution and fossil fuels makes our path-including a possible decline to follow-a very natural and expected outcome, leaving the universe a quiet place.
@@ -280,8 +280,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    they are not, in reality
    Hint: the total should add to 100%.
    42: You can recreate this table by adding numbers in Figure 18.1.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-   Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    Axis % Share
    % Share
    I/E
@@ -324,7 +323,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    46: Form a rough guess on ratio of areas.
    47:...emerging to best serve collective sur- vival interests
    48: E.g., allow a larger indoor temperature range as it gets colder/warmer outside; eat- ing less meat; conserving water via shower habits
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    18 Human Factors
    315
    out that your effort is so small in the grand scheme of things that it cannot make a credible difference, and others will just use more-offsetting your sacrifice. Do you believe that is correct? If not, what argument would you offer in support of your decision?
@@ -344,9 +343,8 @@ A common fallacy is that a collection of people, possessing access to the same s
     52:... stable star without flares and cosmic
     rays
     Note that we have no solid understanding of the probability that life emerges or that having done so intelligent life will form, so these numbers could be optimistic or pessimistic.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-    Freely available at: https://escholarship.org/uc/energy_ambitions.
-    19 A Plan Might Be Welcome
+    
+## 19 A Plan Might Be Welcome
     Having discussed some of the human factors related to accepting and mitigating challenges, we now turn to the question of what humanity's goal might be if we could collectively start rowing in the same direction.
     First, we will have to assess the form that our actions have taken in the absence of a coherent plan. Next, we address challenges inherent in devising and adopting a roadmap for our future. Finally, a possible target is presented that bears consideration as we grapple with possible modes of human society going forward.
     19.1 No Master Plan.
@@ -368,7 +366,7 @@ A common fallacy is that a collection of people, possessing access to the same s
     Perhaps we are structuring our world exactly backwards. An attempt to put a monetary value on the earth and its intricate biological web-a web that by construction is exactly the foundation humans rely upon
     for survival-produces absurdly large numbers in the sextillions of dollars
     Uh. Shouldn't I have more pieces? Photo credit: Tom Murphy
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     1: 96% of mammal mass on Earth is now humans and their livestock [121].
     2: In rare cases, small islands like Tikopia operated under plans to live within finite bounds. Now, Earth is effectively a small island and needs to shift to a "small-island" plan.
     3: Consider whether a tree or a polar bear can sue a lumber or oil company.
@@ -393,7 +391,7 @@ A common fallacy is that a collection of people, possessing access to the same s
     8: ... rather than by volume
     9:...just 0.4% of Earth's volume
     10: For instance, gold is about $60,000 per kilogram, and according to crustal abun- dances in Table 15.9 (p. 258), gold is 4 parts per billion of the crust by mass. The crust in question has a volume of 4.4 x 1018 m3 and a mass around 1.3 x 1022 kg. The ex- pected mass of gold is then about 5x1013 kg, and would cost $3 x 1018. Notice that the total values are amazingly close for these metals: rarer is more expensive in inverse proportion and thus in rough balance.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     there, has always been there, feels "right" and good on their claws, and surely can serve no other purpose than to satisfy their urges. How could they possibly understand what it would cost to replace, or why we even care about the appearance to begin with? It would be an even better analogy if the cats' very survival depended11 on maintaining an unspoiled sofa, in ways the cats could never grasp.
     19 A Plan Might Be Welcome 318
     Maybe humans as a species are as clueless12 as the cats in Box 19.2 about their present actions. In some sense, this possibility provides a compelling reason to stop. If we can't understand the consequences of our actions, maybe that signals a tremendous risk and we should cease until we have a better grasp: do no more harm until we know what we are about. Unfortunately, there's no money in that idea.
@@ -404,7 +402,7 @@ A common fallacy is that a collection of people, possessing access to the same s
 1. If a politician or activist calls your phone during an election cycle, ask if their platform supports growth.15 Of course it does. It is hard to find mainstream politicians opposed to growth, and this is fundamentally a reflection of attitudes among the populace. 2. Communities make plans predicated on growth. Most seek ways to promote growth: more people, more jobs, more housing, more stores, more everything.
 3. Financial markets certainly want growth. Recessions are the scariest prospect for banks and investors. What would interest rates or investment even mean without growth? What role would banks play?
 4. Social safety net systems16 are predicated on growth both in the workforce (as population grows) and the economy (so that interest accumulates). In this way, post-retirement pay can be greater than the cumulative contributions that an individual pays during their career. A retiree today is benefiting not only by accumulated interest on their past contributions to the fund, but on a greater workforce today paying into the fund. If growth falters in either or both (workforce/interest), the institution is at risk. It is essentially a
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    11:
    for instance, if their food source de- pended on a pristine sofa for some reason
    12: Why would evolution have resulted in a being smart enough to fully grasp this ex- ceedingly complex reality? Maybe humans are smart enough to ruin things, but not smart enough to refrain from the ruining. Sec. D.6 (p. 408) explores this further.
@@ -426,7 +424,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    18
    17: ... discussed in Sec. 18.2 (p. 309)
    18: ... from lowered demand
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    19 A Plan Might Be Welcome 320
    Box 19.3: What About Ozone?
    Scientists discovered an alarming decrease in stratospheric ozone (03) in the latter part of the twentieth century—particularly acute aver the Antarctic, earning the title "ozone hole." A global agreement in 1989 called the Montreal Protocol banned the use of chlorofluorocarbons.19 Substitutes largely but not entirely-mitigated the ozone problem. Ozone depletion has improved by 20% since 2005 [122]. While the problem is not yet gone, or solved, it is encouraging that global policy can at least reverse and possibly fix a problem.
@@ -440,7 +438,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    [122]: Nunez (2019), "Climate 101: Ozone Depletion"
    20: An analogy is if your doctor told you to avoid monosodium-glutimate (MSG) in your food, you'd be able to find substitutes and still do fine. If your doctor asked you to avoid carbohydrates, protein, and fat- sort-of like the three fossil fuels that are the staple of our diet-we'd be down to what, exactly? Progress in eliminating MSG says little about prospects for addressing the much larger problem.
    21: It's one thing to rinse off (scrub) cans before putting them in the trash. It's another thing entirely to eliminate the production of trash (CO2) altogether.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.have. Occasionally, the U.N. sponsors international pacts to set limits on CO2 emissions in a quest to limit the harm of climate change. The Kyoto Protocol of 1997 and Paris Agreement of 2015 are the most notable of these.
+   have. Occasionally, the U.N. sponsors international pacts to set limits on CO2 emissions in a quest to limit the harm of climate change. The Kyoto Protocol of 1997 and Paris Agreement of 2015 are the most notable of these.
    Despite the best of intentions, the agreements have not yet shown effectiveness, in that CO2 rises faster than ever (Fig. 9.1; p. 139). Countries fail to meet their target reductions, and suffer no penalties: what authority would enforce the targets, and how? Until people are willing to voluntarily use less and/or pay more for energy, these scientifically solid and well-meaning international agreements will lose out to political pressures for cheap comfort at a national level.
    19.2.1 Who Makes the Plan?
    19 A Plan Might Be Welcome 321
@@ -455,7 +453,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    23: ... or even the threat of high-turnover
    24: The author has been visited by U.S. mil- itary strategists concerned about the reper- cussions of diminishing petroleum supply.
    25: Contrary to a common misconception, it is rare for tenured professors to rest on their laurels. Tenured professors by-and- large are intensely driven to push the bound- aries of knowledge (which is what earns tenure), and are unlikely to change character upon being granted tenure. In fact, tenure should be looked at not as a reward for past accomplishments, but an investment in a future that (based on past accomplishment) promises to continue bearing fruit.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    19 A Plan Might Be Welcome 322
    economics, political science, sociology, psychology and cognitive science, history, anthropology, industrial studies, communications, and really all other academic fields. Every field of study has a stake in the fate of human civilization and has meaningful understandings and insights to contribute.
    Of course, any such plan that might emerge will be attacked from all sides, derided as alarmist academic fantasy. It is exceedingly difficult to imagine that the entrenched world will just decide to get started rebuilding the world according to "the plan." But the hope is that if conditions eventually deteriorate to the point that continuation of business as usual is clearly not viable, enough people may remember the plan and dust it off to see what insights it might contain.20 In such a scenario, hopefully it is not too late to salvage a satisfying future.
@@ -468,7 +466,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    26: In this sense, we might view such a master plan as a "break glass in case of emergency" safeguard.
    27: The wind is in our collective hair; this
    is fun!
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    The Environment
    goods & services
    19 A Plan Might Be Welcome
@@ -486,7 +484,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    The
    Figure 19.2: Does our economy have ample room, or is it straining the limits of the environment?
    28: Economics lingo would call this "inter- nalizing externalities." Typically, the price additions are too minor to be disruptive or fully capture the cost to nature, which is very hard to assess objectively.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    19 A Plan Might Be Welcome 324
    In effect, our "boat" has no "waterline" painted on its side to indicate when it is fully loaded. The word "macro" in macro-economics makes it sound like the "big picture" view, but it's really just intermediate. By analogy, we might say that micro-economics is about understanding all the complex workings within a house or building. Macro-economics concerns itself with the distribution of various building types and functions within a city. Missing is a branch evaluating how many cities can fit on Earth and be supplied by the environment. Ecological Economics attempts to address this shortcoming, which is not important in an "empty" earth but becomes crucial as the human scale begins to dominate the planet.
    19.3.1 Steady State Economy
@@ -495,7 +493,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    Think about what happens under these conditions. Buying a newly manufactured item becomes expensive. Throwing away an old device becomes expensive. Repair (labor) becomes cheaper. Say goodbye to the disposable economy, or "planned obsolescence." Durable goods. and lifetime warranties become popular. Items are designed to facilitate upgrade or repair. For instance, once you own a large display at high resolution, good contrast, and good color representation, it should satisfy for a lifetime.29 Human visual acuity is static, and modern displays are effectively perfect, relative to our biological hardware. If a small electronic component fails, the environmental cost of manufacturing a whole new unit and disposing of the old one is enormous especially compared to the environmental cost of replacing the small failed compo- nent. At present, repair cost often exceeds the cost of replacement and disposal.30 Under the new arrangement, we begin to place greater value in craftsmanship, community resources, and high-quality goods.31
    29: Functional upgrades could potentially be modularized to small inserts.
    30: ... disposal is essentially free now 31:... less plastic junk!
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    19 A Plan Might Be Welcome 325
    find
    Consider now the effect on our consumer treadmill.32 Let's say you the perfect toothbrush. When it is worn out, you try to get the same one again. But the company has changed its style, so the one you like is no longer available. Why does this happen? The company has a standing army of designers and marketers that must continually "improve" the product to stay competitive in the market. If we all bought less stuff, or more durable items that lasted far longer, the demand for manufacturing would wane. Markets and politicians shudder to contemplate this, as the result would be recession and loss of jobs.
@@ -512,7 +510,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    35:
    sures
    ... as a product of evolutionary pres-
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    19 A Plan Might Be Welcome 326
    19.4 Upshot on the Plan
    Humanity has historically not needed a master plan. Plenty of space, resources, and natural services allowed unwitting expansion. Yes, wars occasionally broke out over contested resources, but generally in localized regions. This state of affairs will continue to be true until it isn't any more. That is to say, just because something has never happened before does not mean it cannot. Earth has never hosted 8 billion high-demand humans, yet here we are. Human imagination is not the ultimate limit in this physical world. At this juncture, it would be prudent to heed the warning signs and attempt to make a plan for survival/prosperity.
@@ -528,7 +526,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    38: Who else would pay for it?
    The value likely goes up if your own biology is adapted to that same life-filled planet: it becomes special to you as almost a part of
    you.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    19 A Plan Might Be Welcome 327
 4. What institutions can you think of that are prevalent now but will be rendered obsolete—or at least radically diminished-if the economy stopped growing permanently?
 5. Why do you think we have not yet formulated a master plan for how humans can live on the earth indefinitely without exceeding limits?
@@ -544,8 +542,8 @@ A common fallacy is that a collection of people, possessing access to the same s
 14. Are you left thinking that we are likely to establish and implement a viable global plan for how humans might live prosperously on the planet indefinitely, or do you think it is more likely we will fail to do so and "wing it" into whatever fate awaits?
     39: It is even possible we have exceeded those steady-state bounds and are spend- ing down an irreplaceable inheritance right
     now.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
-    20 Adaptation Strategies
+    
+## 20 Adaptation Strategies
     We made it to the final chapter. How are we doing? Anxious? Excited? Alarmed? Inspired? This book has compressed a perspective that took the author many years to absorb. Exposure in one short sprint would likely be overwhelming, and might even generate an impulse to reject the message as both unfamiliar and grim-thus hopefully wrong?
     Up to this point, the theme of the book might be characterized as one of closing lots of exits. Growth can't continue indefinitely requiring a whole different economic model. Space is not a realistic escape hatch. Fossil fuels are what made this life possible, but will not last and are causing disruptive climate change. The alternative options all have their own practical limitations, and offer no drop-in replacements for fossil fuels. At least sunshine offers a ray of light as a super-abundant energy flow. But when it comes to making collectively smart decisions about a future path, more obstacles surface on the human side. Success requires long-term planning and not the more common crisis response.
     This chapter changes gears a bit to touch on individual actions and values that could amount to big things in aggregate. At the very least, it may provide individual-scale escape hatches allowing some peace of mind about personal contributions to the problem.
@@ -570,7 +568,7 @@ A common fallacy is that a collection of people, possessing access to the same s
     20.1 Awareness
     How many people do you know who are concerned about a legitimate threat of collapse of our civilization? It is an extreme outcome, and one without modern precedent. It seems like a fringe, alarmist position that is uncomfortable to even talk about in respectable company. Yet the evidence on the ground points to many real concerns:
     Growing your own food is a great way to lower your impact and be closer to nature. Photo credit: Irina Fischer.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
 1. The earth has never had to accommodate 8 billion people at this
    level of resource demand;
 2. Humankind has never run out of a resource as vital as fossil fuels; 3. Humans have never until now altered the atmosphere to the point
@@ -586,7 +584,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    A key contributor to awareness is in how information sources and activi- ties shape opinions and views. A world overflowing with information can be difficult to navigate, and has a tendency to coagulate into isolated domains that cater to predispositions. The result can be disagreement on basic facts, making coordinated progress difficult. Luckily, attentive individuals can perform an assessment of the trustworthiness of various information outlets. The process is to watch an entire live event, like a
    1: Y2K is short for year-2000.
    2: Surprise-it was!
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    debate or a hearing, and see how the event is covered by various news sources. Does the coverage3 reflect the event as you experienced it? Did it focus on the key developments or on distractions that might be emotionally "triggering?"
    Entertainment is another source/activity that can influence mindsets in subtle ways. For example, the grossly simplified and virtual world of video games promotes a false sense of what is possible—rather than helping model responses to real-world challenges, constrained by many layers of practical considerations. Reaching level 42 without suffering too many damage points is a fairly empty accomplishment1 that just means having followed some game designer's artificial and arbitrary rule set pretty well, combined with some skill in pressing buttons. More impressive is building or creating something, repairing something, or having some beneficial impact in the external world that would not otherwise have happened.
    Likewise for movies and shows, which can provide healthy joy and social bonding. But because the industry is not constrained to follow rules of nature, it is easy to form dangerous misconceptions about what humans are capable of doing. As a result, not only does the likelihood of disappointment increase, but the necessary sort of deliberate and unglamorous work that must be initiated well before crisis becomes apparent is less likely to materialize if the populace is trained to hold out for unrealistic and spectacularly successful outcomes.
@@ -601,7 +599,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    In a democracy, collective public awareness drives the issues politi- cians serve. Only by having voters demand action will progress follow. Conversations with friends and family then become necessary to raise awareness among others. Effective communication that accomplishes this goal without turning people off is tricky. When the message contains bad news or suggests sacrifice, the effort can easily backfire.
    It is important not to polarize the conversation by "bossing" people or projecting a sense of authority. An effective strategy is to fairly represent uncertainty, while still conveying credible concern. Caveats like "it seems that," or "it appears to me that," or "I may be wrong, but" go a long way to taking the edge off of the message and inviting the listener into a constructive conversation. It is possible to couch the language in uncertainty while still hitting the main points. Words like "possible," "likely," "plausible," and "risk" can be useful to soften the tone but still express concern.
    Division in the U.S. is frighteningly high right now, so that distrust is a real barrier to sharing a common factual basis. The communication needs to be "we," not "you." For instance, "we really should be concerned
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.20 Adaptation Strategies
+   20 Adaptation Strategies
    331
    about X" rather than "I think you should X." It is best to try to convey a sense that we are all in this together. Expressions like "I worry that," or "Do you also feel that..." bring a human touch and invite a sense of inclusion and collaboration.
    One potentially interesting approach is to appeal to the fundamentally conservative nature of most people. This is conservative with a small "c," rather than the Conservative (right-leaning) political party. In this sense, conservative means:
@@ -614,7 +612,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    7: It's right there in the name!
    8: Ask yourself: what conservation efforts have Conservatives championed lately?
    9: This decision would be okay if we knew that the cliff is not there, but we can't know that, and plenty of evidence suggests reason for concern.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    on any criticism demanding that you need to supply a happy picture at the end of the story. Challenge the listener to deal with the tension, as this book has attempted to do. Tough love.
    20.2.1 Predicament, not Problems
    It may also be advisable to avoid characterizing the set of interconnected global challenges as "problems," because the word problem implies a solution. It implicitly isolates the issue at hand into a stand-alone simple issue, promoting "what if we just..." proposed solutions. The real story is far more intricate, and more like a game of whack-a-mole.10 A simple "fix" to one corner of the problem makes something worse elsewhere. A better word is predicament, intoning a more serious and possibly intractable situation. Perhaps a predicament can be viewed as an interconnected set of thorny challenges rather than a collection of isolated problems.
@@ -629,7 +627,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    12
    This section addresses ways to take personal control of energy expen- ditures.12 The presupposition is that the reader is interested in ways to reduce their impact, or footprint, on the planet and its resources. Col- lective progress on this front would reduce the current 18 TW demand on energy, making it that much easier for fossil fuel replacements to satisfy a more modest demand. A voluntary course of reduction on a broad enough scale would reduce vulnerability to forced reduction that would ultimately accompany declining fossil resource availability or climate-motivated reduction targets. It is also good preparation for potential scarcity.
    12: Energy usage correlates strongly with resource usage, in general.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    We will first look at attitudes and framing, then some overarching guidelines, followed by specific quantitative assessment of energy expen- ditures. Readers can identify for themselves areas for potential change in their own habits and expectations.
    20.3.1 Overall Framing
    In the absence of a major shift in public attitudes toward energy and resource usage, motivated individuals can control their own footprints via personal decisions. This can be a fraught landscape, as some people may try to out-woke each other and others will resist any notion of giving up freedoms or comforts-only exacerbated by a sense of righteous alienation from the "do-gooders."
@@ -650,7 +648,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    13:... resulting in a mindful pursuit and not an impersonal set of imposed chores
    14: A joke illustrates the usual pitfall: "How will you know if a new acquaintance is ve- gan? Oh, don't worry, they'll tell you within 10 minutes."
    15:... except, of course, in the broadest col- lective sense: it's for people you will never meet who are not even alive yet, and for other life on Earth you will never see.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    20 Adaptation Strategies 334
    20.3.2 Energy Assessment Principles
    This section contains a number of key insights that can guide actions. Each starts with a simple statement in bold font, followed by elaboration and then an example or two16 for most.
@@ -673,7 +671,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    17:...1.5 kW times 0.2 hours
    18: See heat loss rate and Sec. 6.3 (p. 86).
    19: ... and at lower efficiency according to Eq. 6.10 (p. 95)
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    standard. In terms of power, many appliances are rated in Btu/hr, which is 0.293 W. So a hot water heater at 30,000 Btu/hr is equivalent to about 10 kW and will consume 5 kWh if running for half-an-hour, for instance. Putting everything in the same units (kWh as a suggestion here) allows useful comparisons of choices.
    Example 20.3.5 In a month, the utility bill for a house shows 600 kWh, 20 Therms, and the two cars of the household used a total of 60 gallons of gasoline. How do these stack up, when assessed in the same units?
    Using Table 20.1, the gas amounts to 586 kWh-almost identical to electricity and the gasoline totals about 2,200 kWh, far outweighing the other two.
@@ -704,7 +702,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    23: ... really we mean mass
    24:
    . almost certainly not worth it to drive back; can you manage without any bags at all and not risk dropping anything?
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    Example 20.3.7 Should you buy a new, more efficient refrigerator that will use 1.8 kWh per day (75 W average) instead of your current one that uses 2.4 kWh/day (100 W average)?
    At a mass around 150 kg, the refrigerator's manufacture might require ~2,000 kWh,25 taking about 9 years to pay back at the 0.6 kWh/day saving. This is long enough that considerations such as material resources and disposal might tip the scale against replacement.
    Cost is a guide. A secondary approach to figuring energy content is to suspect that the item's cost is appreciably greater than the cost of the energy that went in. Perhaps a reasonable number is that 15% of the total cost goes toward energy.26 Conveniently, a typical retail price of electricity of $0.15/kWh then translates to 1 kWh for each $1 of consumer spending. When results from the two approaches (by mass or by price) differ, the higher energy cost number may be the safer bet.
@@ -724,7 +722,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    28: Better yet is to try getting by without purchasing items that require later disposal.
    29: Consider the duration of ownership or of usage and how many disposable cups are avoided.
    30: A side benefit to these actions is sav- ing money, maybe working less hard and retiring earlier.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    yourself better to the climate.31 Eat more responsibly. The next section digs into related actions in more quantitative detail.
    20.3.3 Quantitative Footprint
    A useful exercise is to compare your own energy footprint to national averages. How much more or less are you using? For some categories, information is hard to assess. For instance, how much oil is used to transport the goods you buy and the food you eat? How much energy is used in the industrial and commercial sectors on your behalf?32 In part, your level of consumerism is a good clue, but it still may be hard to compare to others. The following items offer some guidance. The first two entries can be derived from Fig. 7.2 (p. 105), after unit conversions and dividing by the U.S. population.
@@ -748,7 +746,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    38:...36.6 kWh per gallon, or 9.7 kWh/L
    39: This practice is good for tracking fuel economy as well.
    40:...e.g., miles per gallon or L/100 km
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    Example 20.3.12 The author's household has two vehicles,41 one of which drove 400 miles and used 22 gallons of gasoline in 2019, and the other covered 8,660 miles using 69 gallons. What is the daily average use per person in the household, and how does this compare to the national average?
    A total of 91 gallons for two people is about 45 gallons per person, equivalent to 4.5 kWh/day, and 11% of the national average.
    Air travel: Expressing an average in this case is inappropriate, as many Americans do not fly at all, while all use some combination of electricity, gas, and gasoline in some capacity. The average works out to 2,300 miles (3,700 km) per year when averaging all people, but among those for whom air travel is a utilized, the number is generally a good bit higher. To put it in context and enable useful comparisons, we will compare it to ground transportation.
@@ -765,7 +763,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    43: ... guessing this to be typical
    44: Ugh. Wish I didn't have to.
    Note that we didn't need the distance. This may seem like a "trick," but consider that life is even trickier: real-world problems have no (or maybe all available) information provided, and it's up to us to sort out what's relevant.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    20 Adaptation Strategies
    339
    anything getting better performance will deliver the three people at a lower energy cost.
@@ -830,7 +828,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    Armed with this information, it is possible to assess a dietary energy factor48 for various dietary choices.
    47: Owning egg-laying chickens and feed- ing them scraps is a delightful win, however.
    48: "Dietary energy factor" is a term used in this textbook; not likely to be found else- where.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    Definition 20.3.1 The dietary energy factor is a weighted sum of individ- ual energy ratios for food categories:
    d.e.f. = fv · Rv + frm · Rrm + ff · Rf + fp · Rp + fd · Rd,
    (20.1)
@@ -883,7 +881,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    51: Red meat is 3.33, which is 55% of the total energy cost while providing only 9% of the dietary benefit.
    52: The actual number depends on the frac- tion of calories coming from dairy/eggs (fa), and can be dialed at will: it's not stuck at exactly 2.4.
    Get on it! Evaluate your own diet and how you might modify it.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.20 Adaptation Strategies
+   20 Adaptation Strategies
    341
    Example 20.3.16 What is the dietary energy factor for a diet in which one-third of caloric intake is from red meat, 10% is from dairy/eggs, and the rest is plant matter?
    Setting frm= 0.33 and fa = 0.10, we require that fy = 0.57 in order that all three sum to 1.0. Now using Rrm = 37, Ra = 8, and Ry = 1, the dietary energy factor computes to 12.2+0.8+0.57 = 13.6 for red meat, dairy, and vegetable matter, respectively. This diet requires more than twice the production energy as a standard American diet.
@@ -901,7 +899,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    53: In other words, if performing the same sort of calculation for 10% contributions from each of the ten plant-based foods in Table 20.2, the raw result would be 0.65.
    [127]: Eshel et al. (2006), "Diet, Energy, and Global Warming"
    54:... out of about 40 meals
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    20 Adaptation Strategies
    342
    dairy contributions by
@@ -918,7 +916,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    arguably making them more special
    ...or note that you have already offset it by prior actions
    57:
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    political, consumer, and dietary choices that exercise limited control over these distant activities, but effects are small and gradual.
    20 Adaptation Strategies 343
    Sector
@@ -954,7 +952,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    20.4 Values Shifts
    In the end, a bold reformulation of the human approach to living on this planet will only succeed if societal values change from where they are now. Imagine if the following activities were frowned upon-found distasteful and against social norms:
 1. keeping a house warm enough in winter to wear shorts inside;
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    20 Adaptation Strategies
    344
 2. keeping a house so cool in summer that people's feet get cold; 3. having 5 cars in an oversized garage;
@@ -974,7 +972,7 @@ A common fallacy is that a collection of people, possessing access to the same s
     e.g., not a very nurturing approach to promote change
     20.5 Flexibility as an Answer to Uncertainty
     No one has a crystal ball. No one can credibly say what the future holds. Anyone claiming that we're heading for certain complete collapse should not be trusted. But neither should someone who says everything will be glorious. It is not hard to find either sort of message in this world, yet we cannot discern with confidence which is ultimately correct.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     While this text may seem more aligned toward a grim outlook, it is somewhat intentional as a means to raise awareness toward what seems like a minority view-without crossing the line and claiming any certainty on the possible perils ahead.
     right about threat wrong about threat
     plan A
@@ -990,7 +988,7 @@ A common fallacy is that a collection of people, possessing access to the same s
     What skills or functions will likely always be valuable? One approach is to think about what elements of human existence are likely to always be present. We will always need food, shelter, health care, transportation, fabrication capability, resource utilization, wisdom, and entertainment. The exact form ranges from primitive to high-tech. But not every profes- sion supported today has an obvious place on this list. In the face of this, it seems worthwhile to learn the fundamentals of any vocation you elect to pursue, so that if deprived of all the technological assistance available today, you can fall back on the basics and still achieve some worthwhile results.
     65
     A first step may be to become less reliant on technology for simple tasks. Use brains more and devices less. The practice will lead to greater mental capacity in any outcome. Do math in your head. Learn and retain important facts and concepts, so that Google is not required to form full thoughts.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     20 Adaptation Strategies
     345
     Figure 20.1: Asymmetric risk in the face of a potential devastating threat. Plan A is the natural response if the threat is not believed to be real, and Plan B is appropriate for mitigating the threat. The downside of the threat being real but sticking to Plan A is catastrophic, whereas pursuing Plan B unnecessarily is not ideal, but not nearly as bad. We don't get to choose reality (column), but we do get to chose the plan (row). Are we feeling lucky, or conservative?
@@ -1005,7 +1003,7 @@ A common fallacy is that a collection of people, possessing access to the same s
     20.6 Upshot on Strategies
     No one can know what fate awaits us, or control the timing of whatever unfolds. But individuals can take matters into their own hands and adopt practices that are more likely to be compatible with a future defined by reduced resource availability. We can learn to communicate future concerns constructively, without being required to paint an artificial picture of hope.67 Our actions and choices, even if not showcased, can serve as inspiration for others—or at least can be personally rewarding as an impactful adventure. Quantitative assessment of energy and resource demands empowers individuals to make personal choices carrying large impacts. Reductions of factors of 2 and 3 and 4 are not out of reach. Maybe the world does not need 18 TW to be happy. Maybe we don't have to work so hard to maintain a peaceful and rewarding lifestyle once growth is not the driver. Maybe we can re-learn how to adapt to the seasons and be fulfilled by a more intimate connection with nature. The value of psychological preparedness should not underestimated. By staring unblinking into the abyss, we are ready to cope with disruption, should it come. And if it never does in our lifetimes, what loss do we
     67: The hope lies in how we react to the challenges, not necessarily in eliminating, conquering, or denying them.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     really suffer if we have chosen our adventure and lived our personal values?
     In this sense, the best adaptation comes in the form of a mental shift. Letting go of humanity's self-image as a growth juggernaut, and finding an "off-ramp" to a more rewarding lifestyle in close partnership with nature is the main goal. The guidelines provided in this chapter for quantifying and reducing resource demands then simply become the initial outward expressions of this fresh vision. Ignore the potentially counterproductive allure of fusion, teleportation, and warp drive. Em- brace instead a humbler, slower, more feasible future that stresses natural harmony over conquest and celebrates life in all forms-while preserving and advancing the knowledge and understanding of the universe we have worked so hard to achieve. Picture a future citizen of this happier world looking back at the present age as embarrassingly misguided and inexplicably delusional. Earth is a partner, not a possession to be exploited. Figuratively throwing Earth under the bus precludes our own chances for long-term success. A common phrasing68 of this sentiment is that humans are a part of nature, not apart from nature. Let's not lose the path in a flight of fossil-fueled fantasy.
     20.7 Problems (Predicaments?)
@@ -1021,7 +1019,7 @@ A common fallacy is that a collection of people, possessing access to the same s
    20 Adaptation Strategies 347
    Continuing the freeway metaphor, the cur- rent path has us hurtling forward to certain involuntary termination of growth (a dead end, or cliff, or brick wall), very probably resulting in overshoot and/or crash.
    68: ... attributed to Marc Bekoff, 2002
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    20 Adaptation Strategies
    348
    a) laptop computer b) phone charging
@@ -1039,7 +1037,7 @@ A common fallacy is that a collection of people, possessing access to the same s
 13. Use the two rule-of-thumb approaches (by mass and by cost) to estimate the energy investment in a farm tractor, whose mass is 2,400 kg and cost is $25,000. If the results are even within a factor-of-two of each other, we can conclude that the estimate is probably pretty decent as a rough guide.
 14. Use the two rule-of-thumb approaches (by mass and by cost) to estimate the energy investment in a laptop computer, whose mass is 1.4 kg and cost is $1,300. If the estimates are strikingly different, which do you suspect is more representative of the truth?
 15. You and three friends want to take a trip together and are debating whether to fly or drive in a gasoline-powered car. In the context of fossil fuel energy use (and thus CO2 emission), how good does the car's fuel efficiency need to be (in miles per gallon) in order for
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     69: ... effectively power, then
     70: Most is outside the home.
     the driving option to use less fuel (per person) than would a fully- occupied airplane, if the airplane gets 90 m.p.g. per passenger? Is it easy to find cars whose performance is at least this good?
@@ -1056,14 +1054,13 @@ A common fallacy is that a collection of people, possessing access to the same s
     72: See margin note for Prob. 16.
     73: ... not comfortably, and this is not rec- ommended!
     Note that, unlike a car, the body does not function just as well at 25% "full" as it does when it is 100% full. Thus the analogy is very flawed. Yet, in primitive times, it was surely routine to dip well below hunger levels not often tolerated today.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-    Freely available at: https://escholarship.org/uc/energy_ambitions.
-    Epilogue
-    350
-    This book may be distressing for some: a body-slam to hope. The message can be more than some are ready to take in, or of an unacceptable flavor. I myself first approached this subject-when assigned to teach a general-education course on energy and the environment-with great enthusiasm, intending to sort out to my own satisfaction how I thought our gleaming future would migrate to renewable energy.
-    As I "ran the numbers" on various sources, I came to appreciate the tremendous quantitative advantage that solar power has over the alter- natives. Being a hands-on person, I started cobbling together various off-grid photovoltaic systems, learning the practical ins and outs of stand-alone solar power1 coupled with storage as a crucial means to mitigate intermittency of the solar resource. My wife and I also bought a plug-in hybrid vehicle in 2013 to learn the pros and cons2 of electric cars, while preserving the ability to do occasional longer trips on gasoline. My commute to work is via an electric-assist bicycle charged by my off-grid solar system for a fossil-free transportation option.3 I have found adventure and delight in challenging myself to live a lower-energy lifestyle, and know from personal experience that dialing down demand does not have to be a crushing defeat for the human race. Our ambitions1 might suffer, but our spirits need not.
-    This book takes an approach that deliberately asks the wrong question, chapter after chapter: how can we keep going in a manner resembling the present form in the face of declining fossil fuel resources and/or a commitment to wean ourselves from fossil fuels as a mitigation strategy for climate change? This approach manifested itself as: can we get 18 TW of power5 from this or that alternative resource? In most cases, the answer was no. Solar is the glaring exception. Also, nuclear breeders- bringing a tangle of tough problems-and the perpetually intractable nuclear fusion could offer long term provision of electricity. But none of the abundant resources easily replace liquid fuels for transportation, and effective utilization of the abundant yet intermittent solar resource depends critically on storage capabilities.
-    Thus, pretending that the goal is to keep 18 TW and carry on business as usual after a tidy substitution of energy turns out to be misguided. The real question becomes one of adapting to a new landscape: one in which our ambitions are checked by planetary limits. Indeed, if energy became essentially unlimited by some technology, I shudder to think what it would mean for the rest of the planet." An age-old saying goes: With great power comes great responsibility. Humans have achieved great power, but have not yet demonstrated a respectable degree of responsibility in prioritizing the protection of plants, animals, and ecosystems.
+    
+## Epilogue
+350
+This book may be distressing for some: a body-slam to hope. The message can be more than some are ready to take in, or of an unacceptable flavor. I myself first approached this subject-when assigned to teach a general-education course on energy and the environment-with great enthusiasm, intending to sort out to my own satisfaction how I thought our gleaming future would migrate to renewable energy.
+As I "ran the numbers" on various sources, I came to appreciate the tremendous quantitative advantage that solar power has over the alter- natives. Being a hands-on person, I started cobbling together various off-grid photovoltaic systems, learning the practical ins and outs of stand-alone solar power1 coupled with storage as a crucial means to mitigate intermittency of the solar resource. My wife and I also bought a plug-in hybrid vehicle in 2013 to learn the pros and cons2 of electric cars, while preserving the ability to do occasional longer trips on gasoline. My commute to work is via an electric-assist bicycle charged by my off-grid solar system for a fossil-free transportation option.3 I have found adventure and delight in challenging myself to live a lower-energy lifestyle, and know from personal experience that dialing down demand does not have to be a crushing defeat for the human race. Our ambitions1 might suffer, but our spirits need not.
+This book takes an approach that deliberately asks the wrong question, chapter after chapter: how can we keep going in a manner resembling the present form in the face of declining fossil fuel resources and/or a commitment to wean ourselves from fossil fuels as a mitigation strategy for climate change? This approach manifested itself as: can we get 18 TW of power5 from this or that alternative resource? In most cases, the answer was no. Solar is the glaring exception. Also, nuclear breeders- bringing a tangle of tough problems-and the perpetually intractable nuclear fusion could offer long term provision of electricity. But none of the abundant resources easily replace liquid fuels for transportation, and effective utilization of the abundant yet intermittent solar resource depends critically on storage capabilities.
+Thus, pretending that the goal is to keep 18 TW and carry on business as usual after a tidy substitution of energy turns out to be misguided. The real question becomes one of adapting to a new landscape: one in which our ambitions are checked by planetary limits. Indeed, if energy became essentially unlimited by some technology, I shudder to think what it would mean for the rest of the planet." An age-old saying goes: With great power comes great responsibility. Humans have achieved great power, but have not yet demonstrated a respectable degree of responsibility in prioritizing the protection of plants, animals, and ecosystems.
     1:
     ... as a miniature model of what society at large may one day hope to do in a solar- dominated energy landscape
     2: We have watched battery capacity drift down to about 65% presently.
@@ -1072,7 +1069,6 @@ A common fallacy is that a collection of people, possessing access to the same s
     5:
     or some sizable fraction thereof
     6: A children's story called Don't Let the Pi- geon Drive the Bus echoes the sense that great power in the hands of incompetence can be bad news. We would not put a toddler in command of an arsenal.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.Epilogue 351
     Should attention to planetary limits turn out to be a crucial element in the assessment of our situation, then we owe it to ourselves to get it straight. Imagine that you are running across a rooftop and have to make a quick decision about whether to jump a large gap between buildings. Would you appreciate a lightning-quick analysis of physics concluding that a successful jump is impossible? Certainly, such insight would be valuable, permitting the formation of an alternate plan, and saving yourself from the unfortunate fate of misplaced faith in your jumping abilities or in some fanciful notion of gravity's weak grip over the chasm.8
     Humanity is staring at a leap unlike anything history has prepared us to face, having accelerated ourselves to previously unimaginable speeds by the grace of fossil fuels, but now confronting their inevitable removal from the menu. The past offers little guidance on how to navigate such a situation, so we need to do our level best to soberly assess the challenges and recognize what is and what is not within the realm of practical expectations. I would love to be wrong about the numerous concerns raised in the book, but the asymmetric risk of trying the leap and failing could lead to a devastation that frightens me. Please, let us not risk it all on unfounded hopes or magical thinking."
     9
@@ -1088,7 +1084,7 @@ A common fallacy is that a collection of people, possessing access to the same s
     10: Aha! Am I just a recurrent predictor of crashes? Not at all. Numerous times, I had faith in rising markets and prospects for achieving success in difficult endeav- ors. Meanwhile, I blew off concerns of Y2K (Box 20.1; p. 329) and even downplayed the COVID-19 pandemic in early 2020-in both cases on the premise that high levels of awareness and fear would trigger massive attention and mitigating actions by respon- sible governments and stakeholders. In the COVID case, my faith in competence was sadly misplaced: I was too optimistic.
     11: The wolf did come in the apocryphal tale. The adults should accept some responsibil- ity for their failures, rather than throwing the "boy who cried" under the bus.
     12: ... and growing
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     Fossil fuels are a one-time resource- -an inheritance that will not continue propelling the future, and nature does not guarantee a superior substitute.
     ▸ Wild spaces on the planet are rapidly diminishing as development spreads and resources are culled. Permanent extinction of species accompanies pollution and habitat loss.
     ► Climate change and habitat destruction threaten a mass extinc- tion and environmental disruption whose full consequences are unpredictable.
@@ -1099,7 +1095,7 @@ A common fallacy is that a collection of people, possessing access to the same s
     Returning to the analogy of receiving quantitative analysis on a contem- plated leap across a chasm-having indicated serious shortcomings in the notion of maintaining current luxuries-please think twice about trying to carry our resource-heavy ways into the future in heroic fashion. Ignominious failure, not glory, may lie there. But this does not mean the human endeavor has been all for naught, and that we should just sit down and cry about dashed dreams. Let's be smart about this: heed the warning signs; alter course; re-imagine the future; design a new adventure.
     16
     Contrary to what the tone of the book might suggest, I am a fundamen- tally optimistic person, which has fueled a lifetime of pursuing tough
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     Epilogue
     352
     13: ... economic, political, societal, agricul- tural, provision of energy and material re- sources, manufacturing, buildings, and vir- tually everything else
@@ -1124,73 +1120,6 @@ A common fallacy is that a collection of people, possessing access to the same s
     18:
     ...as
     opposed to hacking it down to ever-smaller parcels
-    19: Billionaires who strive for immortal recognition by launching the human race into space are likely to fail and be forgotten, while those who set us on a truly sustain- able path have by design a better shot at long-term respect.
+    19: Billionaires who strive for immortal recognition by launching the human race into space are likely to fail and be forgotten, while those who set us on a truly sustainable path have by design a better shot at long-term respect.
     20: ... as if the present track would even be deemed desirable: if such a catastrophic de- railment comes to pass, maybe our wisdom is not worth so much.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-    Freely available at: https://escholarship.org/uc/energy_ambitions.
-    Image Attributions
-    354
-1. Cover Photos: Space Shuttle photo courtesy of NASA/Jerry Cannon & George Roberts; Alpine
-   lake on the Olympic Peninsula photo by Tom Murphy.
-2. Chapter 1 banner image (page 2): NGC 253 by Dylan O'Donnell; This file is made available
-   under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
-3. Chapter 4 banner image (page 54): NASA/Bill Anders from Apollo 8 [22]; manipulated
-   to-ironically-remove empty space; Public Domain.
-4. Fig. 4.3 (p. 57): Millennium Simulation, produced by Volker Springel et al. at the Max Plank
-   Institute [25], https://wwwmpa.mpa-garching.mpg.de/galform/virgo/millennium/.
-5. Chapter 6 banner image (page 84): State Government Photographer-The History Trust of South Australian, South Australian Government Photo; This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
-6. Fig. 6.6 (p. 97): originates from U.S. Department of Energy; Public Domain.
-7. Fig. 7.1 (p. 103): Source: U.S. Energy Information Administration (2019); Public Domain.
-8. Fig. 7.2 (p. 105): Source: U.S. Energy Information Administration (2019); Public Domain.
-9. Fig. 8.5 (p. 120): From University of Calgary Energy Education: https://energyeducation.ca/ encyclopedia/Cap_ rock; citation within says: Source unknown. Calgary site materials under Creative Commons license.
-10. Chapter 9 banner image (page 138): © C. O'Connell & T. Rodwell, by permission.
-11. Fig. 9.7 (p. 145): Created by Robert A. Rohde for Global Warming Art; Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2.
-12. Fig. 9.8 (p.145): Created by Robert A. Rohde, posted on NASA site: https://earthobservatory.
-    nasa.gov/features/EnergyBalance/page7.php.
-13. Fig. 9.16 (p. 155): From the National Oceanic and Atmospheric Administration's Climate.gov
-    site; Public Domain.
-14. Fig. 12.2 (p. 186): Sourced from U.S. Department of Energy and National Renewable Energy Lab;
-    Public Domain.
-15. Fig. 12.4 (p. 188): Adapted from Figure 3 in [74]; Courtesy of WIT Press from WIT Transactions on State of the Art in Science and Engineering, Volume 44 (2010), page 92 (reproduced with permission).
-16. Fig. 12.6 (p. 190): Adapted from [76]; Reprinted by permission from Springer Nature: Handbook of Power Systems, Vol. 2, 2010, "Short-termForecasting in Power Systems: A Guided Tour," by A. Muñoz, E. Sanchez, A. Cruz, Alberto & J. Marín, ©2010.
-17. Fig. 12.7 (p. 190): Adapted from Figure 1 in [77]; Copyright © 2017 John Wiley & Sons, Ltd.;
-    Reproduced with permission.
-18. Fig. 13.8 (p. 207): Source: © The World Bank; adapted to hide banner, footer and some labels;
     
-    Attributions 355
-    adding the blue square and numbers in W/m2. This file is licensed under the Creative Commons Attribution 4.0 International license (CC-BY).
-19. Fig. 13.9 (p. 207): Sourced from U.S. Department of Energy and National Renewable Energy Lab;
-    Public Domain.
-20. Fig. 13.11 (p. 208): Sourced from U.S. Department of Energy and National Renewable Energy
-    Lab; Public Domain.
-21. Fig. 13.13 (p. 209): Sourced from U.S. Department of Energy and National Renewable Energy
-    Lab; Public Domain.
-22. Fig. 13.16 (p. 215): Excerpted graphic from [91]; From U.S. Department of Energy and National
-    Renewable Energy Lab; Public Domain.
-23. Fig. 13.24 (p. 220): From U.S. Department of Energy; Public Domain.
-24. Fig. 13.25 (p. 220): Credit: Craig Dietrich; This file is licensed under the Creative Commons
-    Attribution 2.0 Generic license.
-25. Chapter 14 banner image (page 227): courtesy Rudy and Peter Skitterians; unrestricted.
-26. Fig. 15.8 (p. 245): Source: U.S. Department of Energy and Brookhaven National Laboratory;
-    Public Domain.
-27. Fig. 15.12 (p. 250): Source: Tennessee Valley Authority; Public Domain.
-28. Fig. 15.20 (p. 261): Source: U.S. Department of Energy; Public Domain.
-29. Fig. 15.21 (p. 263): Source: U.S. Department of Energy; Public Domain.
-30. Fig. 15.23 (p. 267): Credit: © ITER Organization; https://www.iter.org/; Permitted for educa-
-    tional and informational use.
-31. Chapter 17 banner image (page 289): courtesy J. Rue; unrestricted.
-32. Chapter 18 banner image (page 304): By Sophie Hurel; This file is licensed under the Creative
-    Commons Attribution 3.0 Unported license (CC-BY).
-33. Chapter 20 banner image (page 328): Photo by Irina Fischer; obtained under Standard Image
-    License from Shutterstock as royalty-free stock photo.
-    
-    Changes and Corrections
-    356
-    An electronic textbook has the luxury of being able to correct inevitable typos and mistakes prior to the release of an updated edition. This page reports such corrections. Page ii has information on when this PDF file was produced relative to its initial release on eScholarship.
-    Changes in the text are marked by a red square which is hyperlinked (in electronic versions) to an entry below. The page number in the entry is also hyperlinked for easy return.
-1. Page viii: Demonstration of correction scheme. The page reference returns to the invocation.
-2. Page 18: Corrected erroneous energy value for Taiwan in Figure 2.1 (error in Wikipedia table).
-3. Page 19: Corrected erroneous energy value for Taiwan in Figure 2.2 (error in Wikipedia table).
-4. Page 61: Added Mt. Everest to Figure 4.5.
-5. Page 331: Replaced political musings specific to the U.S. with a more general statement.
-

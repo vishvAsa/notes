@@ -2,321 +2,271 @@
 title = "03 Contents"
 
 +++
-viii
-xi
-xi
-I SETTING THE STAGE: GROWTH AND LIMITATIONS
-1 Exponential Growth
-1.1
-Bacteria in a Jar.
-1.1.1 Exponential Math
-1.2 Energy Extrapolation
-1.3 Thermodynamic Absurdity 1.4 Upshot: Limits to Growth
-Problems
-1.5
-2 Economic Growth Limits
-2.1 Historical Coupling
-2.2 Decoupling and Substitution. 2.3 Forced Economic Limits. .
-2.4 No-Growth World . . 2.5 Upshot: Growth Will End
-2.6 Problems
-3 Population
-3.1 Population History.
-3.2 Logistic Model .
-3.2.1 Overshoot
-3.2.2 Logistic Projection
-3.3 Demographic Transition
-3.3.1
-Geographic Considerations.
-3.3.2 Transition Cost . . .
-3.4 Touchy Aspects
-3.4.1 It's Personal
-3.4.2 Population Policy
-3.5 Upshot: It Depends on Us
-3.6 Problems
-4 Space Colonization
-4.1 Scale of Space
-4.2 The Wrong Narrative
-4.3 A Host of Difficulties
-4.4 Exploration's Role
-4.5 Upshot: Earth First.
-4.6 Problems
-64
-II ENERGY AND FOSSIL FUELS
-5 Energy and Power Units
-5.1 Energy (J)
-5.2 Energy Forms & Conservation
-5.3 Power (W)
-5.4 Kilowatt-hour (kWh)
-5.5 Calories (kcal)
-5.6 British Thermal Unit (Btu)
-5.7 Therms
-5.8 Electrical Power
-5.9 Electron Volt (eV)
-5.10 Light Energy
-5.11 Upshot on Units
-5.12 Problems
-6 Putting Thermal Energy to Work
-6.1 Generating Heat
-6.2 Heat Capacity
-6.3 Home Heating/Cooling
-6.4 Heat Engines.
-6.4.1 Entropy and Efficiency Limits
-6.5 Heat Pumps
-6.5.1 Consumer Metrics.
-6.6 Upshot on Thermal Energy 6.7
-Problems
-7 The Energy Landscape
-7.1 The Annual Energy Review
-Energy Flow
-7.1.1
-7.1.2
-Source and Sector
-7.1.3
-Detailed Mix.
-7.1.4
-Energy Trends
-7.2 Global Energy
-7.2.1 U.S. Global Share
-7.3 Upshot: Go to the Source
-7.4 Problems
-8 Fossil Fuels
-8.1 The Most Important Plot Ever
-Overview: Coal, Oil, and Gas
-8.2
-8.2.1
-8.2.2
-8.2.3
-Coal..
-Natural Gas
-8.3 Chemical Energy.
-Petroleum (Oil)
-8.4 Fossil Fuel Pros and Cons.
-8.4.1
-Fossil Fuels are Amazing
-8.4.2 Fossil Fuels are Terrible
-8.4.3
-On Balance?
-8.5 The Future of Fossil Fuels.
-8.5.1
-8.5.2
-Scenarios.
-Timescales
-8.5.3 Clues in the Data
-8.5.4 Geopolitics
-8.6 Upshot: Good, Bad, Limited
-8.7 Problems
-9 Climate Change
-9.1 The Source of CO2
-9.1.1
-CO2 Measurements
-9.1.2
-CO2 Expectations
-9.1.3
-Chief Contributors
-9.2 Warming Mechanism
-9.3 Possible Trajectories
-9.4 Consequences
-9.4.1 Heating Up.
-9.4.2 Heating Earth's Skin 9.4.3 Sea Level Rise
-9.5 What Can Be Done?
-9.6 Upshot: A Serious Problem
-9.7 Problems
-III ALTERNATIVE ENERGY
-10 Renewable Overview
-10.1 The Players
-10.2 Alternatives vs. Renewables 10.3 Renewable Energy Budget 10.4 Renewable Snapshot..
-10.5 Upshot: Our Path Forward
-10.6 Problems
 
-11 Hydroelectric Energy
-173
-11.1 Grav. Potential Energy
-173
-11.1.1 Comparison to Other Forms
-174
-11.2 Hydroelectric Energy
-175
-11.2.1 Theoretical Potential.
-177
-11.3 Hydropower in the U.S.
-11.4 Global Hydropower
-11.5 Upshot: Pros and Cons 11.6 Problems
-12 Wind Energy
-12.1 Kinetic Energy
-12.2 Wind Energy
-12.2.1 Wind Turbines
-12.3 Wind Installations
-12.4 Upshot: Not Overblown 12.5 Problems
-13 Solar Energy
-13.1 The Energy of Light
-13.2 The Planck Spectrum
-199
-13.3 Photovoltaics .
-201
-13.3.1 Theoretical Efficiency
-202
-13.4 Insolation. . .
-206
-13.7 Photovoltaic Installations
-13.5 Incredible Solar Potential
-13.6 Residential Considerations
-13.6.1 Configurations. . 13.6.2 Sizing and Cost
-13.7.1 Pros and Cons of PV
-13.8 Solar Thermal
-13.8.1 Passive Solar Heat
-13.8.2 Solar Thermal Electricity
-13.8.3 Pros and Cons of ST.
-13.9 Upshot for Solar 13.10 Problems
-14 Biological Energy
-14.1 Photosynthesis
-14.2 Biomass.
-14.3 Biofuels
-211
-14.3.1 EROEI
-231
-14.3.2 EROEI of Biofuels
-234
-14.4 Upshot: Nature's Burn.
-235
-14.5 Problems
-15 Nuclear Energy
-15.1 The Nucleus
-15.2 Radioactive Decay
-15.3 Mass Energy
-15.4 Fission
-15.4.1 The Basic Idea.
-15.4.2 Chain Reaction.
-15.4.3 Fission Accounting
-15.4.4 Practical Implementations
-15.4.5 Nuclear Waste ...
-260
-15.4.6 Weapons and Proliferation
-262
-15.4.7 Nuclear Safety
-263
-15.4.8 Pros and Cons of Fission
-15.5 Fusion..
-15.5.1 Fuel Abundance
-15.5.2 Fusion Realities
-15.5.3 Pros and Cons of Fusion
-15.6 Upshot on Nuclear..
-15.7 Problems
-16 Small Players
-16.1 Geothermal Energy
-16.1.1 Sustainable Harvest
-16.1.2 Geothermal Depletion
-16.1.3 Geothermal Reality
-16.2 Tidal Capture. .
-16.3 Ocean Currents
-16.4 Wave Energy
-16.5 Hydrogen.
-16.6 Upshot on Small Players 16.7 Problems
-17 Comparison of Alternatives
-17.1 Alternative Energy Matrix
-17.2 Individual Tally
-17.3 Student Rankings
-17.4 Upshot: Fossil Fuel Gap
-17.5 Problems
-IV GOING FORWARD
-18 Human Factors
-18.1 Personality
-18.1.1 Consequences and Coping
-18.2 Policy vs. Individual Action.
-18.3 The Energy Trap . . .
-18.4 Fermi Paradox Explained? 18.5 Upshot on Humanity
-18.6 Problems
-19 A Plan Might Be Welcome
-19.1 No Master Plan . . .
-316
-19.1.1 The Growth Imperative
-318
-19.2 No Prospect for a Plan.
-319
-19.2.1 Who Makes the Plan?
-321
-19.3 Economic Regimes..
-322
-19.3.1 Steady State Economy
-324
-19.4 Upshot on the Plan 19.5 Problems
-326
-326
-20 Adaptation Strategies
-20.1 Awareness
-20.2 Communication
-20.2.1 Predicament, not Problems
-20.3 Guidelines for Adaptation
-20.3.1 Overall Framing.
-20.3.2 Energy Assessment Rules. 20.3.3 Quantitative Footprint 20.3.4 Dietary Energy.
-20.3.5 Flexitarianism
-20.3.6 Discretionary Summary
-20.4 Values Shifts ..
-20.5 Flexibility in Uncertainty
-20.6 Upshot on Strategies.
-20.7 Problems (Predicaments?)
-Epilogue
-Image Attributions
-Changes and Corrections
-328
-V APPENDICES
-A Math and Equations
-358
-359
-A.1 Relax on the Decimals.
-A.2 Forget the Rules
-A.3 Areas and Volumes
-A.4 Fractions
-A.5 Integer Powers
-A.6 Fractional Powers
-366
-A.7 Scientific Notation
-A.8 Equation Hunting
-A.9 Equation Manipulation A.10 Units Manipulation
-A.11 Just the Start
-B Chemistry Primer/Refresher
-B.1
-Moles
-367
-B.2 Stoichiometry
-376
-B.3 Chemical Energy.
-B.4 Ideal Gas Law
-C Selected Answers
-D Alluring Tangents
-379
-D.1 Edge of the Universe.
-. 392
-D.2 Cosmic Energy Conservation
-D.2.1 Cosmological Exception
-D.2.2
-D.2.3
-Convoluted Conservation.
-Lost to Heat
-D.3 Electrified Transport
-D.3.1 Airplanes.
-D.3.2 Shipping
-D.3.3 Long-haul trucking
-D.3.4 Buses
-D.3.5 Passenger Cars.
-D.3.6 Wired Systems
-D.3.7
-Collected Efficiencies
-D.4 Pushing Out the Moon
-D.5.1
-D.5 Humanity's Long View
-Success vs. Failure . D.5.2 Sustainable Living. D.5.3 Time to Grow Up
-393
-D.5.4 Frameworks
-407
-D.6 Too Smart to Succeed? .
-408
-D.6.1 Evolution's Biggest Blunder?
-411
-Bibliography
-412
-Notation
-420
-Glossary
-422
-Alphabetical Index
-439Part I
+## I SETTING THE STAGE: GROWTH AND LIMITATIONS
+- 1 Exponential Growth
+  - 1.1 Bacteria in a Jar.
+    - 1.1.1 Exponential Math
+  - 1.2 Energy Extrapolation
+  - 1.3 Thermodynamic Absurdity 
+  - 1.4 Upshot: Limits to Growth 
+  - 1.5 Problems
+- 2 Economic Growth Limits
+  - 2.1 Historical Coupling
+  - 2.2 Decoupling and Substitution. 
+  - 2.3 Forced Economic Limits. .
+  - 2.4 No-Growth World . . 
+  - 2.5 Upshot: Growth Will End
+  - 2.6 Problems
+- 3 Population
+  - 3.1 Population History.
+  - 3.2 Logistic Model .
+    - 3.2.1 Overshoot
+    - 3.2.2 Logistic Projection
+  - 3.3 Demographic Transition
+    - 3.3.1 Geographic Considerations.
+    - 3.3.2 Transition Cost . . .
+  - 3.4 Touchy Aspects
+    - 3.4.1 It's Personal
+    - 3.4.2 Population Policy
+  - 3.5 Upshot: It Depends on Us
+  - 3.6 Problems
+- 4 Space Colonization
+  - 4.1 Scale of Space
+  - 4.2 The Wrong Narrative
+  - 4.3 A Host of Difficulties
+  - 4.4 Exploration's Role
+  - 4.5 Upshot: Earth First.
+  - 4.6 Problems
+
+## II ENERGY AND FOSSIL FUELS
+- 5 Energy and Power Units
+  - 5.1 Energy (J)
+  - 5.2 Energy Forms & Conservation
+  - 5.3 Power (W)
+  - 5.4 Kilowatt-hour (kWh)
+  - 5.5 Calories (kcal)
+  - 5.6 British Thermal Unit (Btu)
+  - 5.7 Therms
+  - 5.8 Electrical Power
+  - 5.9 Electron Volt (eV)
+  - 5.10 Light Energy
+  - 5.11 Upshot on Units
+  - 5.12 Problems
+- 6 Putting Thermal Energy to Work
+  - 6.1 Generating Heat
+  - 6.2 Heat Capacity
+  - 6.3 Home Heating/Cooling
+  - 6.4 Heat Engines.
+    - 6.4.1 Entropy and Efficiency Limits
+  - 6.5 Heat Pumps
+  - 6.5.1 Consumer Metrics.
+  - 6.6 Upshot on Thermal Energy 
+  - 6.7 Problems
+- 7 The Energy Landscape
+  - 7.1 The Annual Energy Review
+    - 7.1.1 Energy Flow
+    - 7.1.2 Source and Sector
+    - 7.1.3 Detailed Mix.
+    - 7.1.4 Energy Trends
+  - 7.2 Global Energy
+    - 7.2.1 U.S. Global Share
+  - 7.3 Upshot: Go to the Source
+  - 7.4 Problems
+- 8 Fossil Fuels
+  - 8.1 The Most Important Plot Ever
+  - 8.2 Overview: Coal, Oil, and Gas
+    - 8.2.1 Coal
+    - 8.2.2 Petroleum (Oil)
+    - 8.2.3 Natural Gas
+  - 8.3 Chemical Energy.
+  - 8.4 Fossil Fuel Pros and Cons.
+    - 8.4.1 Fossil Fuels are Amazing
+    - 8.4.2 Fossil Fuels are Terrible
+    - 8.4.3 On Balance?
+  - 8.5 The Future of Fossil Fuels.
+    - 8.5.1 Scenarios.
+    - 8.5.2 Timescales
+    - 8.5.3 Clues in the Data
+    - 8.5.4 Geopolitics
+  - 8.6 Upshot: Good, Bad, Limited
+  - 8.7 Problems
+- 9 Climate Change
+  - 9.1 The Source of CO2
+    - 9.1.1 CO2 Measurements
+    - 9.1.2 CO2 Expectations
+    - 9.1.3 Chief Contributors
+  - 9.2 Warming Mechanism
+  - 9.3 Possible Trajectories
+  - 9.4 Consequences
+    - 9.4.1 Heating Up.
+    - 9.4.2 Heating Earth's Skin 
+    - 9.4.3 Sea Level Rise
+  - 9.5 What Can Be Done?
+  - 9.6 Upshot: A Serious Problem
+  - 9.7 Problems
+## III ALTERNATIVE ENERGY
+- 10 Renewable Overview
+  - 10.1 The Players
+  - 10.2 Alternatives vs. Renewables 
+  - 10.3 Renewable Energy Budget 
+  - 10.4 Renewable Snapshot..
+  - 10.5 Upshot: Our Path Forward
+  - 10.6 Problems
+
+- 11 Hydroelectric Energy
+  - 11.1 Grav. Potential Energy
+    - 11.1.1 Comparison to Other Forms
+  - 11.2 Hydroelectric Energy
+    - 11.2.1 Theoretical Potential.
+  - 11.3 Hydropower in the U.S.
+  - 11.4 Global Hydropower
+  - 11.5 Upshot: Pros and Cons 11.6 Problems
+- 12 Wind Energy
+  - 12.1 Kinetic Energy
+  - 12.2 Wind Energy
+    - 12.2.1 Wind Turbines
+  - 12.3 Wind Installations
+  - 12.4 Upshot: Not Overblown 12.5 Problems
+- 13 Solar Energy
+  - 13.1 The Energy of Light
+  - 13.2 The Planck Spectrum
+  - 13.3 Photovoltaics .
+    - 13.3.1 Theoretical Efficiency
+  - 13.4 Insolation. . .
+  - 13.5 Incredible Solar Potential
+  - 13.6 Residential Considerations
+    - 13.6.1 Configurations. . 
+    - 13.6.2 Sizing and Cost
+  - 13.7 Photovoltaic Installations
+    - 13.7.1 Pros and Cons of PV
+  - 13.8 Solar Thermal
+    - 13.8.1 Passive Solar Heat
+    - 13.8.2 Solar Thermal Electricity
+    - 13.8.3 Pros and Cons of ST.
+  - 13.9 Upshot for Solar 13.10 Problems
+- 14 Biological Energy
+  - 14.1 Photosynthesis
+  - 14.2 Biomass.
+  - 14.3 Biofuels
+    - 14.3.1 EROEI
+    - 14.3.2 EROEI of Biofuels
+    - 14.4 Upshot: Nature's Burn.
+  - 14.5 Problems
+- 15 Nuclear Energy
+  - 15.1 The Nucleus
+  - 15.2 Radioactive Decay
+  - 15.3 Mass Energy
+  - 15.4 Fission
+    - 15.4.1 The Basic Idea.
+    - 15.4.2 Chain Reaction.
+    - 15.4.3 Fission Accounting
+    - 15.4.4 Practical Implementations
+    - 15.4.5 Nuclear Waste ...
+    - 15.4.6 Weapons and Proliferation
+    - 15.4.7 Nuclear Safety
+    - 15.4.8 Pros and Cons of Fission
+  - 15.5 Fusion..
+    - 15.5.1 Fuel Abundance
+    - 15.5.2 Fusion Realities
+    - 15.5.3 Pros and Cons of Fusion
+  - 15.6 Upshot on Nuclear..
+  - 15.7 Problems
+- 16 Small Players
+  - 16.1 Geothermal Energy
+    - 16.1.1 Sustainable Harvest
+    - 16.1.2 Geothermal Depletion
+    - 16.1.3 Geothermal Reality
+  - 16.2 Tidal Capture. .
+  - 16.3 Ocean Currents
+  - 16.4 Wave Energy
+  - 16.5 Hydrogen.
+  - 16.6 Upshot on Small Players 
+  - 16.7 Problems
+- 17 Comparison of Alternatives
+  - 17.1 Alternative Energy Matrix
+  - 17.2 Individual Tally
+  - 17.3 Student Rankings
+  - 17.4 Upshot: Fossil Fuel Gap
+  - 17.5 Problems
+## IV GOING FORWARD
+- 18 Human Factors
+  - 18.1 Personality
+    - 18.1.1 Consequences and Coping
+  - 18.2 Policy vs. Individual Action.
+  - 18.3 The Energy Trap . . .
+  - 18.4 Fermi Paradox Explained? 
+  - 18.5 Upshot on Humanity
+  - 18.6 Problems
+- 19 A Plan Might Be Welcome
+  - 19.1 No Master Plan . . .
+    - 19.1.1 The Growth Imperative
+  - 19.2 No Prospect for a Plan.
+    - 19.2.1 Who Makes the Plan?
+  - 19.3 Economic Regimes..
+    - 19.3.1 Steady State Economy
+  - 19.4 Upshot on the Plan 19.5 Problems
+- 20 Adaptation Strategies
+  - 20.1 Awareness
+  - 20.2 Communication
+    - 20.2.1 Predicament, not Problems
+  - 20.3 Guidelines for Adaptation
+    - 20.3.1 Overall Framing.
+    - 20.3.2 Energy Assessment Rules. 
+    - 20.3.3 Quantitative Footprint 
+    - 20.3.4 Dietary Energy.
+    - 20.3.5 Flexitarianism
+    - 20.3.6 Discretionary Summary
+  - 20.4 Values Shifts ..
+  - 20.5 Flexibility in Uncertainty
+  - 20.6 Upshot on Strategies.
+  - 20.7 Problems (Predicaments?)
+  
+- Epilogue 
+- Image Attributions 
+- Changes and Corrections
+
+## V APPENDICES
+- A Math and Equations
+  - A.1 Relax on the Decimals.
+  - A.2 Forget the Rules
+  - A.3 Areas and Volumes
+  - A.4 Fractions
+  - A.5 Integer Powers
+  - A.6 Fractional Powers
+  - A.7 Scientific Notation
+  - A.8 Equation Hunting
+  - A.9 Equation Manipulation A.10 Units Manipulation
+  - A.11 Just the Start
+- B Chemistry Primer/Refresher
+  - B.1 Moles
+  - B.2 Stoichiometry
+  - B.3 Chemical Energy.
+  - B.4 Ideal Gas Law
+- C Selected Answers
+- D Alluring Tangents
+  - D.1 Edge of the Universe.
+  - D.2 Cosmic Energy Conservation
+    - D.2.1 Cosmological Exception
+    - D.2.2 - Convoluted Conservation.
+    - D.2.3 Lost to Heat
+  - D.3 Electrified Transport
+    - D.3.1 Airplanes.
+    - D.3.2 Shipping
+    - D.3.3 Long-haul trucking
+    - D.3.4 Buses
+    - D.3.5 Passenger Cars.
+    - D.3.6 Wired Systems
+    - D.3.7 Collected Efficiencies
+  - D.4 Pushing Out the Moon
+    - D.5.1 Success vs. Failure .
+    - D.5 Humanity's Long View 
+    - D.5.2 Sustainable Living. 
+    - D.5.3 Time to Grow Up - 393
+    - D.5.4 Frameworks - 407
+    - D.6 Too Smart to Succeed? .- 408
+    - D.6.1 Evolution's Biggest Blunder? - 411
+- Bibliography - 412
+- Notation - 420
+- Glossary - 422
+- Alphabetical Index

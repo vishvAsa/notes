@@ -6,7 +6,7 @@ title = "3 Alternative-energy"
 Part III
 ALTERNATIVE ENERGY
 The options have not changed in 50 years. There is nothing new under the sun.
-10 Renewable Overview
+## 10 Renewable Overview
 We now understand that the path human civilization has traveled to this point-a path paved by fossil fuels cannot lead very much farther before a new path must take over. One distinct possibility is a trek back toward a low-tech existence, but most people would consider such a development to be a failure. What would success look like, then? Sec. D.5 (p. 404) in the Appendices takes a look at the big picture of long-term human success, but for present purposes we will focus on the critical issue of energy: where could we get enough energy to replace the prodigious one-time gift of fossil fuels?
 This chapter is very brief, only setting the stage for upcoming chapters that go into alternative energy sources in greater detail. At the end of this effort, Chapter 17 summarizes the potential of all the energy resources. For now, we describe the origins and scales of Earth's energy inputs, and finish with a reminder of how much energy we get from these sources today.
 10.1 The Players
@@ -20,7 +20,7 @@ Before launching into detailed attributes of energy sources beyond fossil fuels,
 1: A turbine is basically a set of fan blades.
 2: Wind turbines are sometimes called ro- tors or windmills.
 The remnant of a fallen tree called a nurselog-provides nutrition for a row of new trees, arranged in a colonnade. Photo credit: Tom Murphy
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 10 Renewable Overview
 165
 ► Solar energy (Chap. 13) can provide direct heat or make electricity via photovoltaic (PV) panels or in a utility-scale solar thermal installation.
@@ -40,7 +40,7 @@ which requires a lot of heat
 Before going further, we should clarify the difference between "alterna- tive" and "renewable" resources.
 Definition 10.2.1 Alternative Energy is a non-fossil source of energy. Solar, wind, and nuclear would be examples.
 Definition 10.2.2 Renewable Energy is a source of energy that is replen- ished by nature, so that its use may be sustained "indefinitely," without depletion. Solar energy, for instance is not "used up" by placing a panel in the sunlight.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 The sun will continue to shine no matter how many solar panels we set out. Wind is replenished daily by the sun heating the land and driving air currents. Solar energy drives the hydrological cycle, refilling the reservoirs behind hydroelectric dams. Plants grow back to replace harvested ones again thanks to the sun. Ocean currents and waves are also driven by the sun, via wind.
 Nothing, of course, lasts forever, but the sun will continue to operate in its current mode for billions of years more, and this is long enough to count as indefinite, for our purposes. Table 10.1 classifies various sources as to whether they are alternatives or renewables, along with justifications. The items with asterisks are technically not renewable, but last long enough that we can treat them as such in a practical sense (see Box 10.1).
 Table 10.1: Energy classification. Asterisks indicate non-replenished, but long-lasting sources.
@@ -124,7 +124,7 @@ the earth.
 6: This would be a hugely expensive and impractical undertaking, but helps illustrate the point that renewable does not mean unlimited.
 7:...now at 3.8 cm/year
 8: It would take hundreds of millions of years to "accomplish" this (see Sec. D.4; p. 402).
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 10 Renewable Overview 167
 deposit of heat left over from the collapse/formation of the earth, the other half coming from radioactive decays of elements ultimately tracing to ancient astrophysical cataclysms.10 For both the formation and radioactive contributions, the supply is not replenished after its use, although the timescale for the radioactive decays to fade away is billions of years.
 Nuclear fusion needs deuterium and tritium." Roughly one out of every 10,000 hydrogen atoms is deuterium, so ocean water (H2O) will have enough deuterium to last billions of years. Tritium, however, is not found naturally and must be synthesized from lithium, in finite supply. Details will follow in Chapter 15.
@@ -158,7 +158,7 @@ First, sunlight arriving at the top of Earth's atmosphere delivers energy at a r
 Figure 10.1: Energy inputs to the earth, ig- noring the radiation piece (since that is an output channel). About 70% of incoming solar energy is absorbed by the atmosphere and land, while about 30% is immediately reflected back to space (mostly by clouds). About half of the energy absorbed at the surface
 into evaporating water, while goes smaller portions drive winds, photosyn- thesis (land and sea), and ocean currents. Additional non-solar inputs are geothermal and tidal in origin [63-65].
 [4]: Kopp et al. (2011), "A new, lower value of total solar irradiance: Evidence and climate significance"
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 Treating Earth as a sphere of radius R, it has surface area 47R2, but the sun doesn't "see" the whole surface at once. In fact, from the vantage point of the rays of sunlight intercepting Earth, what matters is the projection of Earth,14 which just looks like a disk of area лR2. Averaging the solar input across the entire planet therefore reduces the 1,360 W/m2 by a factor of 4 to 340 W/m2.
 Not all the sunlight arriving at the top of the atmosphere makes it to the surface, so in practice, a typical location will receive an average15 of about 200 W/m2. This is a number that comes up often as a typical insolation, so is worth remembering.
 Clouds and ice (mostly) reflect almost 30% of incoming sunlight, leaving 123,000 TW to be absorbed by land, water, and atmosphere in various forms (see Table 10.2). Virtually all of the energy hitting the surface goes to direct thermal absorption,16 much of which then flows into evaporation of water-the starting point of the hydrological cycle. A tiny portion of the absorbed energy gives rise to wind, some of which will drive waves. An even smaller portion contributes to photosynthesis and supports essentially all life (biology) on the planet. And finally, a tiny fragment of the absorbed energy drives ocean currents. Table 10.2 tracks where the incoming solar energy goes, in several stages, also listing non-solar geothermal and tidal contributions. For comparison, the current energy scale of human activity is approximately 18 TW, while human metabolism,17 is about 0.8 TW.
@@ -213,7 +213,7 @@ half original heat, half radioactive decays gravitational; mostly from Moon, som
 Example 10.3.2 Solar Heating: How much would a black table18 warm up sitting in full sun for ten minutes?
 A nice round-number approximation of full overhead sunlight is that it delivers 1,000 W/m2 to the ground. If we situate a table whose top surface area is 1 m2, has a mass of 20 kg, and a specific heat capacity
 18: ... parameters defined below
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 10 Renewable Overview
 169
 of 1,000 J/kg/°C under full sun, we can proceed as follows.
@@ -234,7 +234,7 @@ Finally, if we only used fossil fuels at a rate of 30 MW,24, then we could consi
 24: This amount of power could supply only a single campus-sized consumer on Earth.
 10.4 Renewable Snapshot
 Table 7.1 (p. 106) already gave an account of the mix of energy use in the U.S., including many of the renewables. This section revisits those numbers, in slightly more detail.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 Source
 hydroelectricity
 geothermal
@@ -285,7 +285,7 @@ Four forms dominate Table 10.3 (and Figure 10.2), each roughly equal in contribu
 10.5 Upshot: Our Path Forward
 We are now ready to plunge into learning about renewable energy resources. The topics are arranged according to ease of understanding the associated physics, which will be new to many students. So while solar is the most potent of the resources, its chapter follows those of hydroelectricity and wind, since its scheme for generating electricity29 is likely the least intuitive of the three. Biologically-derived energy comes next sharing its direct sunlight origin with solar. Following a foray into nuclear energy, a number of minor contributors that are unlikely to be important are relegated to a single chapter of misfits, for completeness.
 After this, we will be in a position to assess the entire landscape of alternative energy options (Chapter 17). The book will then take a turn
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 hydro
 geothermal 1.8%
 waste
@@ -332,7 +332,7 @@ away from physics and address how all this new information might fit into future
     tion.
     34: face area
     account for projected vs. total sur-
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     10 Renewable Overview
     172
     sun overhead, a solar panel has access to more light than the 48% depicted reaching the ground. If we can also capture the portion that on average is reflected by the ground and clouds,35 what might we expect for the rate of energy reaching the ground (in W/m2) if the input at the top of the atmosphere is 1,360 W/m2?
@@ -348,16 +348,15 @@ away from physics and address how all this new information might fit into future
     Use the 37.5% factor discussed in
     39: origin
     since it's almost all solar in ultimate
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-    Freely available at: https://escholarship.org/uc/energy_ambitions.
-    11 Hydroelectric Energy
+    
+## 11 Hydroelectric Energy
     Energy has been harnessed from flowing water for ages. Milling oper- ations were often located on streams so that water could turn a wheel attached to grinding machinery. Today, captured water flow is a signifi- cant contributor to electricity worldwide in the form of hydroelectricity. The U.S. gets about 2.8% of its current energy (and 7% of electricity) from hydropower. Globally, hydropower accounts for about 9% of energy, or 16% of electrical production (Table 7.2; p. 107).
     Hydroelectricity taps into the solar-driven evaporation cycle, relying on the gravitational energy embodied in water lifted onto the land from lower bodies of water. In other words, solar energy lifts water, giving it gravitational potential energy, which is captured and converted to electrical energy.
     While hydroelectric power is a simple and low-tech form of renewable energy that has been heavily exploited for over a hundred years, it is not one that is easy to expand beyond its current level of usage. This chapter will provide a better understanding of this mainstay of the renewable portfolio and its likely role in our future.
     11.1 Gravitational Potential Energy
     Gravitational force is incredibly weak. It may not seem so from daily experience, but consider the fact that a magnet held in your hand can lift a paperclip overwhelming the gravitational pull of the entire earth! By comparison, electromagnetic forces are forty orders-of-magnitude stronger than gravitational force. We don't tend to notice because electric charges tend to balance out so that gravity is the most obvious force in our daily lives.1
     Boulder Dam. Photo Credit: Tom Murphy
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     173
     11.1 Grav. Potential Energy
     Comparison to Other Forms 174 11.2 Hydroelectric Energy
@@ -393,7 +392,7 @@ away from physics and address how all this new information might fit into future
     2 m
     20 kg
     Figure 11.1: Diagram for Example 11.1.1.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     a small finger. We want to know how much mass must be lifted to yield the same amount of gravitational potential energy as is contained in a battery or equivalent volume of gasoline. In the comparison, we will imagine having a hoist that can lift a large mass? 4 m high-about house-height.
     A standard AA battery cell has a charge rating of 2.5 Ah3 and operates at about 1.5 V. Following the development in Sec. 5.8 (p.76), we multiply these two numbers to get 3.75 Wh, translating to 13.5 kJ. Equating this to mgh, where we know g≈ 10 m/s2 and h = 4 m, we find that m≈ 340 kg. That's really heavy-about the mass of 4-5 people." Meanwhile, the AA battery is a puny 0.023 kg. Reflect for a moment on this comparison, visualizing 340 kg lifted 4 m above the ground providing the same amount of energy as a AA battery held in your hand.
     11
@@ -421,7 +420,7 @@ away from physics and address how all this new information might fit into future
     8 8
     penstock
     Figure 11.2: Cross section of a dam, holding back a reservoir of water at height, h, over the downstream river.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     11 Hydroelectric Energy
     176
     Box 11.1: Why So Efficient?
@@ -445,7 +444,7 @@ away from physics and address how all this new information might fit into future
     15: Flow rate times density gives mass per second: 2,000 m3/s times 1,000 kg/m3 2 x 106 kg/s
     Look at the Wikipedia page on largest hydroelectric power stations [66] for a complete list.
     16: 1 TWh is 1012 Wh.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     indicates that 44,000 TW of solar input goes into evaporation and the hydrological cycle. Why, then, are we only able to use 0.477 TW (0.001%) of this bounty? Is this a great, untapped renewable resource?
     11.2.1 Theoretical Potential
     To understand the giant mismatch between solar input and hydroelectric development, we first need to study evaporation.
@@ -466,7 +465,7 @@ away from physics and address how all this new information might fit into future
     800 m
     So let's follow the energetics of a gram of water17 on its journey to a hydroelectric dam-most of which is represented in Figure 11.4. First, the sun injects 2,250 J to evaporate that gram. Then let's say it gets lofted to 5 km.18 The gravitational potential energy, mgh, comes to 0.001 X 10 X 5000 = 50 J. That's only 2% of the amount that went into evaporation.19
     When the water condenses in the cloud, it releases 2,250 J of thermal energy into the cloud/air, then falls back to the ground as rain, offering 50 J of still-available energy. If it falls on the ocean, where it presumably started, it gives up all 50 J of gravitational potential energy into useless forms.20 But if it falls on land-higher than sea level-it retains some gravitational potential, based on how high that land is above sea level.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     Figure 11.4: The hydrological cycle. Sun- light evaporates water from the surface, at a cost of 2,250 J per gram. Each kilometer of height the gram of water gains in forming clouds costs an additional 10 J. When rain falls on terrain, most of the gravitational potential energy is spent, but on average retains 8 J-based on an average land ele- vation of 800 m. The 2,250 J of evaporation energy is released as heat when the water condenses into clouds.
     17:...one cubic centimeter
     18:... typical cloud height
@@ -500,7 +499,7 @@ away from physics and address how all this new information might fit into future
     2.9
     33
     23: ... based on actual generation, not in- stalled capacity
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     11 Hydroelectric Energy
     179
     0 2 4 6 8 10 Hydro generation (GW)
@@ -518,7 +517,7 @@ away from physics and address how all this new information might fit into future
     27:
     delivering an average of 0.114 GW in 8 dams, dominated by the 0.125 GW Keokuk dam
     28: ... delivering an average of 8.9 GW spread across 65 dams
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     11 Hydroelectric Energy 180
     0 300 600 900 1200 Hydro power/person (W)
     Figure 11.7: U.S. hydroelectric power per population within each state, indicating which residents receive the most hydro- electric power. The Pacific Northwest wins.
@@ -574,7 +573,7 @@ away from physics and address how all this new information might fit into future
    Table 11.2: Top ten hydroelectric producers in the world, accounting for two-thirds of the hydroelectricity production worldwide.
    11.5 Upshot: Pros and Cons of Hydro
    The two lists below provide some pros and cons to hydroelectric power that are relevant to our assessment of its value to our mix of renewable energy options. First, the positive attributes:
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.► Natural source, solar-driven, without waste products or pollu- tion;29
+   ► Natural source, solar-driven, without waste products or pollu- tion;29
    ► Technologically simple, therefore straightforward to implement and maintain;
    ► High efficiency, turning 90% of available energy into useful elec- tricity;
    ▸ Good baseline of steady power over daily timescales;
@@ -602,7 +601,7 @@ away from physics and address how all this new information might fit into future
    33:... whether due to resource limits or climate change action
    34: It is hard to keep up 200 W for too long.
    35: The shelf is therefore 1 m off the same (original) floor.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    11 Hydroelectric Energy
    182
    How much net gravitational potential energy was given to the box from the start to the end of the process?
@@ -623,7 +622,7 @@ away from physics and address how all this new information might fit into future
     39: ... cube root of volume
     40: For comparison, a large nuclear re- actor typically produces about 1 GW of electrical power.
     This stepwise behavior is not exactly real- istic, but need not be to apply the concept correctly.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
 12. While the Chief Joseph Dam on the Columbia River can generate as much as 2.62 GW (2.62 x 109 W) of power at full flow, the river does not always run at full flow. The average annual production is 10.7 TWh per year (10.7 x 1012 Wh/yr). What is the capacity factor of the dam: the amount delivered vs. the amount if running at 100% capacity the whole year?
 13. The Robert Moses Niagara dam in New York is rated at 2,429 MW41 and has a high capacity factor of 0.633. How many kWh does it produce in an average day, and how many homes would this serve at the national average of 30 kWh/day?
 14. The Robert Moses Niagara dam from Problem 13 is 30 m high. What is the peak flow rate, in m3/s, if it can produce full capacity power (2.43 GW electrical output) while converting gravitational potential energy to electricity at 90% efficiency?
@@ -648,7 +647,7 @@ away from physics and address how all this new information might fit into future
     2
     44: 44,000×1012 W divided by 3.7x1014 m2 of ocean surface is 120 W/m2.
     45: The steady 120 W is already account- ing for day/night: this is a time average.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     12 Wind Energy
     Wind energy has made significant inroads for electricity production in the U.S. and globally. Today, the U.S. gets about 2.5% of its energy (and 6.5% of electricity) from wind. Globally, wind accounts for about 2.6% of energy, or 4.8% of electrical production (Table 7.2; p. 107).
     The basic technology of harnessing wind power is rather old, powering ships, milling operations, and water pumps for centuries. Today, the predominant use of wind drives generators to make electricity.
@@ -674,7 +673,7 @@ away from physics and address how all this new information might fit into future
     Pushing a 50 kg ice skater from rest at a power of 75 W for 3 seconds would impart 225 J of kinetic energy, resulting in a speed of 3 m/s.
     For examples like these, framed as state- ments and not questions, you can practice solving several types of problems by cov- ering up one number and then solving for it using still-available information. So they provide several examples in one!
     Photo credit: Tom Murphy
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     Often, we use energy sources to deliver kinetic energy, as in moving planes, trains and automobiles.
     Example 12.1.2 A 1,500 kg car moving at freeway speeds (30 m/s) has a kinetic energy around 675 kJ.
     Getting up to this speed from rest in 5 seconds would require a power of 135 kW,1 equating to 180 horsepower.2
@@ -698,7 +697,7 @@ away from physics and address how all this new information might fit into future
     1 m2
     Figure 12.1: The mass of a cubic meter of air is 1.25 kg, and the mass of atmosphere over one square meter is an astounding 10 metric tons.
     5: 104 kg per square meter times the surface area of Earth (47R)
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     12 Wind Energy
     186
     patterns over the course of 24 hours: a full day of the driving solar input around the globe. The associated power works out to 700 TW. Notice that the value for wind in Table 10.2 (p. 168) is pretty-darned close to this, at 900 TW. As the margin note indicates, we should be pleased to get within a factor of two for so little work and very off-the-cuff assumptions about global average air speed (see Box 12.1 for related thoughts). Figure 12.2 shows the annual average wind velocity at a height of 80 m (typical wind turbine height) for the U.S. Note that the 5 m/s we used above falls comfortably within the 4-8 m/s range seen in the map.
@@ -731,7 +730,7 @@ Figure 12.2: Average wind velocity at a height of 80 m across the U.S. [69]. Bou
 Box 12.1: The Value of Estimation/Checking
 Calculations like the one above offer a way to see if something at least checks out and seems plausible. If we had found that the whole atmosphere would have to be moving at 50 m/s to get the 900 TW figure in Table 10.2 (p. 168), we would suspect a problem, and either distrust the 900 TW number-seeking another source to confirm or re-evaluate our own understanding. If we could get to 900 TW by only having wind speeds of 0.1 m/s, we would also have cause for skepticism. When crude estimates of this type land in the general vicinity of a number we see in a table, we can at least be assured that the number is not outlandish, and that our basic understanding of the phenomenon is okay. Checking understanding against presented data is excellent practice!
 But we can't capture the entire atmospheric wind, because doing so would require wind turbines throughout the volume, up to 10 km high! In fact, some estimates [70] of practical global wind installations come in as low as 1 TW-well below our 18 TW demand. Wind alone is unlikely
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 7:
 or requiring weeks rather than a day to re-establish, once sapped
 . say, within a factor of ten
@@ -771,10 +770,10 @@ Pair ≈ 1.25 kg/m3 at sea level. Efficiency has been inserted as ε and tends t
 Notice that the delivered power scales, sensibly, with the area of the wind turbine's blade path, but more importantly and perhaps surprisingly as the velocity cubed (Table 12.1). The cubed part should make you sit
 :
 10 1,000
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 up straight: that's a very strong function of velocity! It means that if the wind changes from a gentle 5 m/s to a brisk 10 m/s, the power available goes up by a factor of 8. A strong wind at 20 m/s has 64 times as much power as the 5 m/s breeze.11 We can understand the three powers of velocity thusly: two powers come from kinetic energy, and one from the length of the cylinder. As wind speed increases, not only does the oncoming air have more kinetic energy per fixed volume, but also a larger volume encounters the turbine in a given time.
 Setting & = 1 in Eq. 12.2 corresponds to the total power present in the wind. But we can't be greedy and grab all of it. In fact, if we did, it would mean stopping the air at the wind turbine: pulling out all the kinetic energy means no velocity is left. If we did this, newly arriving air would divert around the stopped mass of air, and the turbine would no longer have access to oncoming energy. The theory has all been worked out:12 a turbine is limited to ε ≤ 16/27 (59%) of the available energy, known as the Betz limit [72]. This is not a technological limitation, but comes from the physics of fluid flow. A second consideration enters for low-speed rotor motion, known as the Glauert limit [73], resulting in diminishing efficiency as wind speed drops.
-12 Wind Energy
+## 12 Wind Energy
 188
 11: Now it may be easier to understand why hurricanes can be so destructive, if their power scales as the cube of wind velocity, and velocities exceed 50 m/s.
 12: A recent derivation is in [71].
@@ -812,7 +811,7 @@ American windmill
 Figure 12.4 shows these theoretical limits, along with design limits from various rotor configurations. Curves reflect an optimum rotor speed for each design: speeding up produces more generator output until it gets fast enough that air drag on the blades starts to dominate. The most common modern turbine is the 3-blade design,13 able to get roughly 50% of the energy out of the wind. Notice that the tip speed can be quite high: 6-8 times the wind speed. This can be quite alarming to birds in the area, whose cruising speed is nearer wind speed, and they
 Figure 12.4: Theoretical and practical wind turbine efficiencies (e, or cp in the plot), for various designs. The parameter A is the ratio of tip speed to wind speed: higher A means a faster tip speed [74]. All designs must be below the Betz limit (horizontal line near top). At slower speeds, the Glauert limit confines performance to occupy the region to the right of the curve marked 2. Each of the 7 designs shown have arched curves, achieving maximum efficiency at a particular tip speed. Too slow, and the turbine is not transmitting much energy; too fast and drag/friction begins to dominate. Adapted from ©2010 WIT Press.
 13: Not only is the three-blade design the most efficient, its lower tip speed is less dangerous than for 2 or 1-blade designs, according to Figure 12.4.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 12 Wind Energy
 189
 have never met something so fast before. For a modern derivation of the Betz limit and how efficiency depends on tip speed, see [71]. The largest turbines having 150 m diameter rotors are rated for up to 10 MW of electrical power production.
@@ -830,9 +829,8 @@ a power per unit land area (in W/m2) by the following approach:
 [71]: Ragheb et al. (2011), "Wind Turbines Theory - The Betz Equation and Optimal Rotor Tip Speed Ratio"
 14: Not too impressive: hard to get much wind power on a household scale, although 10 m/s would give 3.6 kW.
 15: An older "rule of thumb" was 5 side-to- side and 7-8 deep, but newer work suggests as much as 8 diameters side-to-side and 15 diameters deep.
--
 120D2
-= 
+
 16: ...one лR2 rotor area for every 8D X 15D
 120 x (2R)2 = 480R2 of land area
 Figure 12.5: Overhead view of wind farm turbine locations, for the case where separa- tions are 10 rotor-diameters along the wind direction, and 5 rotor diameters in the cross- wind direction a geometry that yields 1.6% area "fill factor." Current recommendations are for 15 and 8 rotor diameters, which is significantly more sparse than even this de- piction, leading to 0.65% area fill. Note that most wind turbines can turn to face the wind direction, for times when its direction is not the prevailing one.
@@ -847,7 +845,7 @@ area
 employing the rule-of-thumb 8 x 15 turbine placement scheme. Using an efficiency of 40% and v = 5 m/s,17 we get 0.2 W/m2-which is 1,000 times smaller than solar's ~200 W/m2 insolation (Ex. 10.3.1; p. 167).
 A final general note about wind generation is somewhat obvious: the
 17: Recall that this choice gave sensible global wind power estimates lining up with Table 10.2 (p. 168).
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 12 Wind Energy
 190
 wind is not always blowing, and its speed varies over wide ranges. this sense, wind is an intermittent power source. Just as for hydroelectric installations, wind resources are characterized by a regionally-dependent capacity factor, which is the ratio of energy delivered to what would have been delivered if the generation facility operated at full capacity at all times. Typical capacity factors for wind in the U.S.18 are around 33%, and Figure 12.6 provides a visual sense for how this manifests in the real world: pretty erratic.
@@ -884,7 +882,7 @@ Builder curve
 15
 20
 Figure 12.7 shows a typical power curve for a 2 MW turbine, on top of which are drawn a cubic function of velocity at the theoretical Betz limit (red curve), a cubic (blue) at 44% efficiency (ε = 0.44), and the green manufacturer's curve [77]. Notice that the turbine performance
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 Figure 12.7: Actual data (thickly-clustered black circles) of power delivered by a tur- bine rated at 2 MW, as a function of wind velocity. The red curve represents the the- oretical Betz limit of 59%, appearing as a cubic function of velocity-as Eq. 12.2 dic- tates. The better-matching blue curve corre- sponds to an overall efficiency & =
 Cp = 0.44 (44%), and the green curve-which rolls over from the cubic function and saturates at higher velocities-is the manufacturer's expectation for the unit [77]. The "cut-in" velocity for this turbine is around 3.5 m/s: note the small step up from zero output in the green curve. This turbine saturates around 12 m/s: the green curve flattens out and no black circles appear above the cutoff. From ©2017 Wiley.
 [77]: Fischer et al. (2017), "Statistical learning for windpower: a modeling and stability study towards forecasting"demonstrates the aspects covered in the previous paragraph: "cutting in" just above 3 m/s and maxing out (saturating) beyond about 12 m/s. In between, it closely follows a cubic function at an overall efficiency of 44% (blue curve).
@@ -952,7 +950,7 @@ Figure 12.8: Wind power by state, in terms of average generation, in GW, in 2018
 25: From tables 1.14.B and 6.2.B in [85]
 26:
 ... as we also saw in Table 10.3 (p. 170)
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 0
 5 10 15 20 Wind density (mW/m2)
 12 Wind Energy
@@ -971,7 +969,7 @@ Next, we look at wind generation per capita in states, in Figure 12.10. Now Nort
 Finally, Figure 12.11 shows wind capacity factors, indicating where the wind is most reliable. It peaks around 41% in Kansas, but all of the plains states in general do well. The southeastern U.S. has almost no wind development,29 as is evident in any one of these figures.
 Figure 12.10: Average wind power gener- ation by state divided by state population for an average power per person (based on 2018 data).
 29: Lack of wind makes it a poor fit: see also Figure 12.2.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 0.1
 0.2
 0.3
@@ -991,7 +989,7 @@ A pros and cons list will help summarize. First, the positive attributes:
 30: We're fudging things a bit here for the sake of simplicity. If turbines are built for 12 m/s, the capacity factor already has some averaging built in, so using 5 m/s and a capacity factor of 0.33 is unfair. On the other hand, much of the country spends substantial time below the cut-in speed for turbines, and the cruel cubic function of velocity greatly suppresses much of the land area as impractical for wind development. So the approach is a compromise that might balance out reasonably.
 [70]: Castro et al. (2011), "Global Wind Power Potential: Physical and Technological Limits"
 31: Domestic cats turn out to kill far more birds than wind turbines do, currently.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 12 Wind Energy
 194
 ► Harnessing wind is relatively low-tech and straightforward; Wind has decent efficiency-typically 40-50%-in extracting en- ergy from the oncoming wind;
@@ -1020,7 +1018,7 @@ Esthetic objections to noise and degradation of scenery hamper expansion.
    36: ... using variables/symbols
    37: ...0 K, when the kinetic energy is effec- tively frozen out, or stopped
    As large as the number is, it is represen- tative of the speeds of individual molecules within the water, and is, not coincidentally, similar to the speed of sound in water.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
 6. A typical house may have a floor area around 150 m2 (1,600 square feet). If the floor-to-ceiling distance is typically 2.5 m, how much mass is in the air within the house? Could you lift this much mass if handed to you as bags of rocks?
 7. Atmospheric pressure is about 105 N/m2, meaning that a 100,000 N weight of air-corresponding to a mass of 10,000 kg-sits atop very square meter of the ground (at or near sea level). If the air density were constant at 1.25 kg/m3-rather than decreasing with height as it actually does how high would the atmosphere extend to result in this weight (mass)?
 8. Comparing the pale green region in the southeastern U.S. to the purple region of the plains states in Figure 12.2, how much more power would we expect out of the same rotor placed in the plains than in the southeast (by what factor is it bigger in the plains)?
@@ -1046,7 +1044,7 @@ Esthetic objections to noise and degradation of scenery hamper expansion.
     41: Hint: focus on tip speed.
     42: ... corresponding to radius of the rotor
     Reflect on the fact that just estimating the rotor blade length and timing its revolution is enough for you to produce an estimate of power being generated!
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
 17. In a way similar to Figure 12.5, replicate the statement in the text that the fraction of land covered per rotor area is 0.65% if turbines are separated by 15 rotor diameters along one direction and 8 rotor diameters along the cross direction.
 18. Check that the units of Eq. 12.343 indeed are equivalent to Watts
     per square meter (W/m2).
@@ -1062,9 +1060,8 @@ Esthetic objections to noise and degradation of scenery hamper expansion.
     196
     44: Hint: compute power at 12 m/s then apply capacity factor
     Hint: no external research necessary: what do the numbers mean?
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-    Freely available at: https://escholarship.org/uc/energy_ambitions.
-    13 Solar Energy
+    
+## 13 Solar Energy
     Now we come to the main attraction. As we saw in Chapter 10, all of the strictly renewable energy options are ultimately derived from the sun. The two resources of the last two chapters-hydroelectricity and wind-represent tiny crumbs of the overall solar input to the planet.
     Practically speaking, it is difficult to concoct ways to harness more than a few terawatts of power from hydroelectric or wind-based resources. Similar limitations apply to biologically-derived energy, geothermal, tidal, ocean currents, wave energy, etc. This may be worrisome consid- ering that human society currently demands 18 TW. Meanwhile, the sun delivers 83,000 TW to the earth's surface (Fig. 10.1; p. 167, Table 10.2; p. 168). That's almost 5,000 times more than the demand. By the numbers, then, the sun seems to offer all we might ever need. In fact, the quantitative imbalance is so extreme as to make one wonder why we would ever mess around doing anything else.
     Yet at present, the U.S. gets only about 0.9% of its energy from solar power, or 2.3% of its electricity. Similarly for the world, 1.2% of global energy is solar (2.1% of the electricity). It would seem to be vastly underutilized.
@@ -1072,7 +1069,7 @@ Esthetic objections to noise and degradation of scenery hamper expansion.
     13.1 The Energy of Light
     Sec. 5.10 (p.79) introduced the basics of the energy of light. This section acts as a refresher and lays the foundation for the rest of the chapter.
     Photovoltaic cells, showing grid contacts and crystal domains. Photo Credit: Tom Murphy
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     13.1 The Energy of Light. 13.2 The Planck Spectrum 13.3 Photovoltaics
     . 197
     199
@@ -1130,7 +1127,7 @@ Esthetic objections to noise and degradation of scenery hamper expansion.
    0.4 m2 times 1,000 W/m2
    4: ... or try reasoning it out: 1019 of them would make 4 J, so we need 100x more
    5:... shorter wavelength
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
 2. Individual photons interact with matter at the microscopic scale and are relevant to understanding solar photovoltaics and photo- synthesis;
 3. It's how nature really works.
    13.2 The Planck Spectrum
@@ -1164,7 +1161,7 @@ Esthetic objections to noise and degradation of scenery hamper expansion.
    11: This last one may be more familiar to students in its chemistry form of the gas constant R = kB NA≈ 8.31J/K/mol, where NA≈ 6.022 × 1023 is Avogadro's number.
    Eq. 13.5 is called the Wien law and is a numerical solution identifying the peak of the blackbody spectrum as a function of temperature. Higher temperatures mean higher kinetic energies at a microscopic scale, so that higher-energy (shorter-wavelength) photons can be produced. This is why as objects get hotter, they move from red to white, and eventually to a blue tint.
    All this may seem overwhelming, but take a breath, then just look at Figure 13.1. Everything so far in this section is captured by Figure 13.1.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    1e8
    1.0
    0.9
@@ -1205,7 +1202,7 @@ Esthetic objections to noise and degradation of scenery hamper expansion.
    Figure 13.1: Planck spectra, or blackbody spectra for three temperatures, indicating where the ultraviolet, visible, and infrared regions lie. The shapes of the three curves (spectra) are described by Eq. 13.4, the star locations are found by Eq. 13.5, and the total power radiated, per square meter of surface is the area under each curve, as captured in Eq. 13.3. The dotted line relates to Example 13.2.2. Note the le8 factor on the vertical axis, meaning that the axis goes from 0 to 1.0 x 108 W/m2/μm.
    12: Eq. 13.4 uses units of meters for A, but Figure 13.1 uses microns (um, or 10-6 m) for convenience. Also, Eq. 13.4 delivers an answer in units of W/m2 per meter of wave- length, but for the plot we divided by 106 so it would be W/m2 per micron of wavelength. By taking care of this detail, the area under each curve in Figure 13.1 should match σT4 as in Eq. 13.3.
    13: Numerically, the numerator is 3.74 x 10-16, the denominator is 10-30, and the argument in the exponential is 2.4, so that the second fraction is 0.1.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.13 Solar Energy
+   13 Solar Energy
    201
    Example 13.2.3 Finally, to assess Eq. 13.3, we can crudely estimate the area under the blue curve by drawing a rectangle that we think has about the same total area. We put the top of the rectangle at the top of the blue curve and ask how wide it would need to be to approximately match the area under the blue curve.
    If we make it 0.5 μm wide, it seems too thin: the area is smaller than what's under the blue curve. 1.0 μμm wide seems like too much area. So we pick something in the middle like 0.75 μm (Figure 13.2).
@@ -1243,7 +1240,7 @@ Esthetic objections to noise and degradation of scenery hamper expansion.
    We are now prepared to dig into how photovoltaic (PV) panels actually work, and what governs panel efficiency.16 The word "photovoltaic" can be loosely read as: volts from photons, or electricity from light.
    Various materials are used as the principal component in PV panels, but the vast majority are made of high-purity silicon, so we will speak in these terms alone. The basic physics will be the same for other materials as well. Getting too far into the weeds in describing the semiconductor
    16: Solar thermal generation will be covered in Section 13.8.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    physics is outside the scope of this course, but it is worth painting a general picture enough to appreciate how much we can expect to get out of a PV panel.
    13 Solar Energy
    202
@@ -1272,7 +1269,7 @@ Figure 13.4: PV cell structure and function. A junction between n-doped and p-do
 20: ... called the "depletion region," as elec- trons have been depleted from the portion of the n-side adjacent to the junction
 21: Once it is "home," the electron will fill a vacancy created by a sun-liberated electron to end the journey.
 22: Current is just flow of charge, and in this case is just movement of electrons through the external circuit.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 A photon leaves the hot solar surface aimed right at a PV panel on Earth. The photon can be any "color," distributed according to the Planck spectrum23 in Figure 13.1. The most probable wavelength for a 5,800 K blackbody-according to Eq. 13.5-is ~0.5 μm, but it could reasonably be anywhere from 0.2-3 um. The atmosphere will knock out (absorb or scatter) most of the ultraviolet light before it reaches the panel, and some of the infrared light is absorbed in the atmosphere as well. But almost 75% of the energy24 makes it to the panel. What happens next depends on the wavelength.
 First, we must understand something about the silicon material. The atoms in a typical silicon PV cell are arranged in an orderly lattice, grown as a single crystal. Expensive panels have mono-crystalline silicon, meaning that each 15 cm square cell comprising the panel is a thin slice of one giant crystal. Less expensive poly-crystalline (or multi-crystalline) panels have cells that are a patchwork25 of randomly-oriented crystals at the millimeter to centimeter scale. But microscopically, both types are orderly crystals. Silicon has four electrons in its valence shell (outermost shell), so that a "happy" silicon atom is home to a four-outer-electron family. These electrons are said to exist in the valence band.26 But provided a sufficient energy kick, an electron can leave home and enter the conduction band,27 where it can freely move through the crystal and can potentially contribute to an electric current, if it finds the junction. The threshold energy level to promote an electron from the valence to the conduction band is called the band gap,20 which for silicon is 1.1 eV (1.8 × 10-19 J).
 28
@@ -1293,7 +1290,7 @@ than is needed to lift the electron into the conduction band. It only takes 1.1 
 29: That A 1.1 μm happens to correspond to 1.1 eV is a numerical coincidence, but perhaps convenient, in that remembering 1.1 for silicon covers it from both directions.
 30: ... denoted as e in Figure 13.4
 31: Solar panels in the sun get pretty hot.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 relative intensity
 1.0
 13 Solar Energy
@@ -1322,7 +1319,7 @@ Now we're down to 44% of the original incident energy in the form of conduction-
 .35
 Another significant loss arises because some photons are absorbed in the very top layer above the junction, so that the resulting electrons do not have the opportunity to be swept across the junction to contribute to useful energy. The shorter the wavelength, the shallower the photon is likely to penetrate into the cell.36 Meanwhile, photons around 1 um are likely to penetrate deep-well past the junction-making it less likely that the liberated electrons will find the junction before settling into a new home (lattice site) via recombination. Figure 13.4 reflects this color-dependence, and also depicts one electron from the blue photon being generated above the junction, which will not have an opportunity to do useful work by crossing the junction.
 In total, the basic physics of a PV cell is such that 20% efficiency is a reasonable expectation for practical implementations.37 Indeed, commercial silicon-based PV panels tend to be 15-20% efficient, not far from the theoretical maximum. This may seem like a low number, but don't be disappointed! Biology has only managed to achieve 6%
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 32:
 sometimes called drunken walk, de- picted as meandering paths in Figure 13.4
 33:... red arrow in Figure 13.4
@@ -1349,7 +1346,7 @@ Figure 13.7: Current-voltage (I–V) curve for a PV cell. The cell in full sunli
 -
 38:...because in series, each cell shares the same current
 This problem is sometimes mitigated via micro-inverters: each panel has an inverter so that higher-voltage outputs are combined in parallel.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 Series combination adds voltages, keeping the same common current. Parallel combination shares a common (low) voltage but adds cur- rents. The same power (P = IV) obtains either way. But two problems arise from a parallel combination of cells. First, the ~0.5 V voltage is too small to be useful for most devices. Second, the power lost in connecting wires scales as the square of current, so designing a system with a large current is asking for trouble.39
 That said, PV installations often combine panels in both series and parallel-like 10 panels in series in parallel to another 10 in series. By this time, the voltage is plenty high to offset the losses.
 13 Solar Energy
@@ -1383,8 +1380,7 @@ Typical insolation, includes weather
 ~200
 Typical delivered by 15% efficient PV
 30
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 Table 13.1: Summary of solar power densi- ties. Full overhead sun can be larger than the global absorbed number because the global number includes reflection from clouds, while overhead direct sun corresponds to a local cloud-free condition.
 Table 13.1 summarizes these various power densities, the last line being typical insolation multiplied by 0.15 to represent the yield from a 15% efficient photovoltaic panel lying flat in a location receiving an insolation of 200 W/m2. Figure 13.8 shows global insolation, variations arising from a combination of latitude and weather.
 13 Solar Energy
@@ -1478,7 +1474,7 @@ ONREL
 Figure 13.9: Horizontal insolation for the U.S. for a flat plate facing directly upward. Native units for the graphic are in kWh/m2/day, the break-points between colors running from 4.0 to 5.75 kWh/m2/day in steps of 0.25. These values can be converted to W/m2 by mul- tiplying by 1,000 W/kW and dividing by 24 h/day. Annotations are added once in each color band (in black or yellow) to in- dicate the equivalent measure in W/m2 [87]. Alaska is not even close to scale. From NREL.
 Figure 13.9 shows the variation of insolation across the U.S. The latitude effect is evident, but also weather/clouds make a mark, giving the southwest desert the highest solar potential. Even so, the variation from best to worst locations45 is not even a factor of two.
 Figures 13.8 and 13.9 are in the context of a flat surface.46 For solar panels, it makes sense to tilt them to an angle equaling the site latitude and oriented toward the south.47 The noon-time sun is always high in
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 45: e.g., 250 vs. 150 W/m2
 46:... as is the definition of insolation
 47:
@@ -1577,7 +1573,7 @@ TOWE ADDR
 Tilting panels toward the equator at an angle equal to site latitude optimizes annual yield, and the results are shown in Figure 13.11. Note that the numbers in Figure 13.11 are not strictly insolations, since that's defined as what reaches flat ground. In this case, the area (square meters) is that of the panel, not of the land.
 The fact that the numbers in Figure 13.11 are higher than in Figure 13.9 is not to say that the land offers more solar energy if the panels are tilted: just that an individual panel can get more light. But in this case, panels need to be spaced out to avoid shadowing,49 as Figure 13.12 illustrates.
 Some applications need to track the sun, like those that concentrate solar power, and only work when the sun is not blocked by clouds.50 This brings us to Figure 13.13, showing the potential per square meter of collector (mirror or lens) used for the concentration (the topic of Section 13.8.2). The same pattern holds, in that the desert southwest dominates. But a look at the numbers indicates that the cloudier regions are not much better than just a flat panel facing upward (as is the case for Figure 13.9). In the southwest, where skies are often cloud-free, the boost can be
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 Figure 13.11: Solar potential for flat panels tilted to latitude, oriented south-relevant to PV panel installations. The graphic is pre- sented in units of kWh/m2/day, the break- points between colors running from 3.0 to 6.5 kWh/m2/day in steps of 0.5. Annota- tions are added once in each color band (in black or yellow) to indicate the equivalent measure in W/m2 [87]. From NREL.
 49: ... which can be more devastating than just fractional area blocked, due to series arrangement of cells in panel modules
 50: Photovoltaics still produce 10-50% of full capacity under cloudy skies during day- light hours, depending on how thick the clouds are: daylight still means photons.
@@ -1638,7 +1634,7 @@ Figure 13.13: Solar potential for tracking panels, facing directly toward the su
 52: The northwest benefits from long sum- mer days when clouds are also less likely.
 53: This would require huge storage capac- ity: giant batteries, for instance.
 54: The hours in numerator and denomi- nator cancel, since the kilowatt-hour is kW times hours.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 13 Solar Energy
 210
 But the main purpose of this box is to point out the following. Full overhead sunshine bathes the ground in about 1,000 W/m2.55 So if you could contrive to keep the sun directly overhead for 5 hours, you'd get 5 kWh of solar energy for each square meter on the ground. Therefore, if your site is listed as getting 5 kWh/m2/day, it's the equivalent amount you'd get from 5 hours of direct overhead sun.56
@@ -1677,8 +1673,7 @@ south
 90°
 Figure 13.14: Panel tilts for Table 13.2, for 0 = 39°.
 Table 13.2: Solar exposure (kWh/m2/day) for a south-facing panel in St. Louis, MO, at various panel tilts (0 is latitude, which happens to be 39° for St. Louis). 0° means a panel lying flat, pointing straight up (like on a flat roof), and 90° means vertical, like on a (south-facing) wall (see Figure 13.14).
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-Freely available at: https://escholarship.org/uc/energy_ambitions.13 Solar Energy
+13 Solar Energy
 211
 13.5 The Incredible Solar Potential
 The potential of sunlight can be assessed by pieces we have already seen. Multiplying the solar constant of 1,360 W/m2 by the projected area of Earth (R) and by 0.707 to account for the 29.3% reflection loss, we compute that Earth absorbs solar energy at a rate of 1.23 x 1017 W, or 123,000 TW (1 TW is 1012 W). Compared to the 18 TW societal scale, that's huge! Notice that the non-reflected entries back in Table 10.2 (p. 168) add60
@@ -1697,7 +1692,7 @@ Another daunting realization is that even though only 0.4% of the land is needed
 65: The cost over the ~40 year lifetime of the panels is already competitive with con- ventional means, but when fuel cost is zero, all the cost is up-front, which presents a significant barrier.
 66: ... based on 40 year effort, at which point the first panels need replacing
 67: A subtlety here is that most of the 10 kW Americans use presently is in thermal form (fossil fuels), at ~35% efficiency. For non- heating applications that can use electric- ity, solar has an advantage. On the other hand, mitigating intermittency via storage requires a larger PV installation by as much as a factor of two. For the purposes of a crude estimate, we'll call it even and say that 10 kW per capita from PV would cover the entire demand 100% of the time.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 13 Solar Energy
 212
 68
@@ -1730,7 +1725,7 @@ Consider that full overhead sun delivers 1,000 W/m2. The top surface area of a t
 71: An airplane will not always have full overhead sun!
 72: If your niece or nephew draws a solar plane in crayon, just smile, say it's very nice, put it on the refrigerator, and cry
 inside.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 Cars have a similar problem: a top area around 10 m2 equipped with the most expensive PV money can buy would get 5 kW, or less than 7 horsepower. That's about 20 times less powerful than typical cars, so again: light and slow.
 13 Solar Energy
 213
@@ -1745,7 +1740,7 @@ Only "off-grid" battery systems continue to work in these scenarios, but then th
 While a description of the components and practical workings are beyond the scope of this book, students might be interested in an article the author wrote after first getting started tinkering with PV systems [90].
 13.6.2 Sizing and Cost
 How large does an installation need to be? If the goal is to cover annual or monthly electricity use in a grid-tied system, the only two pieces of information needed are the typical electricity consumption in the
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 74: ... batteries: expensive, require mainte- nance, and periodic replacement
 [90]: Murphy (2008), "Home photovoltaic systems for physicists"
 relevant period and the average solar input at that location for the period of interest.
@@ -1774,7 +1769,7 @@ The 25°C specification is almost never realized for a PV panel in the sun: PV p
 79: ... Divide 6.25 m2 by 0.18
 80: 6.25 kW times 4.8 hours is 30 kWh.
 81: The math is actually just the same, but we rearranged the order and interpretation.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 13 Solar Energy
 215
 The equipment that converts panel output to AC electricity is not 100% efficient.
@@ -1818,7 +1813,7 @@ so we would need about 8
 The Energy Information Administration's Electric Power Monthly (EPM) [85] provides detailed statistics on power generation in the U.S. Pho- tovoltaic data is available in the EPM's tables 1.17.B and 6.2.B. In the usual way, we first look at installed capacity, based on the actual average delivered power. Figure 13.17 shows the situation in the U.S. California is
 [85]: U.S. Energy Inform. Admin. (2020), Electric
 power monthly
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 13 Solar Energy
 216
 0
@@ -1837,7 +1832,7 @@ Finally, we look at capacity factor: how much was generated compared to installe
 Figure 13.18: Photovoltaic power produc- tion areal density by state, in milliwatts per square meter.
 88: Compare to 50 mW/m2 for hydroelec- tricity in Washington state (Fig. 11.6; p. 179) and 17 mW/m2 for wind in Iowa (Fig. 12.9; p. 192).
 89: ... still small compared to the American metric of 10,000 W/person
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 0
 13 Solar Energy
 217
@@ -1887,7 +1882,7 @@ Globally, two-thirds of the photovoltaic capacity is represented by five countri
 13.7.1 Pros and Cons of Photovoltaics
 Before advancing to solar thermal generation, let's summarize the major advantages and disadvantages of solar photovoltaics. First, the good stuff:
 PV taps into a super-abundant resource-the only renewable that has such a margin;
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 Figure 13.20: Photovoltaic capacity factors by state. While we see lots of darker green, it's because everybody has similarly low numbers, due to unavoidable nighttime and low sun angles. Somebody tell Wyoming, North Dakota, and Alabama to get with the program!
 Table 13.3: Top five global producers of PV power in 2018, accounting for two-thirds of the world's total production [92, 93]. The in- stalled PV corresponds to peak watts (Wp), or production in full overhead sun.
 13 Solar Energy
@@ -1912,7 +1907,7 @@ areas.
 Photovoltaics (Section 13.3) convert sunlight directly into electricity, but this is not the only way to harness energy from the sun. Solar energy can also be used for heat. We'll first have a brief look at home heating, then turn to electricity generation from solar heat.
 13.8.1 Passive Solar Heat
 Full sun delivers something like 1,000 W/m2 at the earth's surface. Now imagine a window in a house intercepting 1.5 m2 of sunlight, in effect admitting 1,500 W into the home-like a space heater, and it's free! Depending on window construction, some of the infrared energy may be blocked, so maybe not all 1,000 W/m2 will make it inside, but a sizable portion will. Clever design has south-facing windows for receiving low-angle winter sun, but an overhang to keep out the high summer sun
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 13 Solar Energy
 219
 (Figure 13.21). A dark and massive absorber91 inside the house capturing the heat can continue to provide warmth through the evening hours. The Passive House designs mentioned in the context of Box 6.1 (p. 87) attempt to maximize solar capture so that little active heating is required.
@@ -1940,7 +1935,7 @@ electricity
 cooling towers
 Figure 13.23: A common solar thermal power scheme uses parabolic "trough" reflectors to focus sunlight onto a central pipe, which carries oil that can be heated to very high temperatures for making steam to run a traditional electrical power plant very much like that of Fig. 6.2 (p. 90). Optional thermal storage can save heat for later use.
 Figure 13.23 shows a schematic representation of a typical solar thermal (ST) collector, and a picture of one appears in Figure 13.24. A curved reflector tilts to track the sun, concentrating light onto a long pipe in
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 front of the reflector carrying a fluid (usually oil) that can be heated to a high temperature by the absorbed sunlight. The hot oil pipes can then be run through water to boil it and make steam, thereafter driving a traditional steam power plant. Such ST arrangements are sometimes called concentrated solar power (CSP). Another common variant-called a "power tower"-is shown in Figure 13.25, in which an array of steerable flat mirrors on the ground direct sunlight to the top of a central tower to make steam.
 As for efficiency, solar thermal is at face value similar to PV: 15-20% is fairly typical. Broken down, roughly 50-75% of the available energy successfully transfers to the fluid, and then the heat engine delivers about 25-30% efficiency. But these numbers only apply if we count just the area of the reflective collector. Because they have to track the sun, and self-shadowing is to be avoided, only a small amount of the land area is occupied by the reflectors. Characterization of real facilities indicates that only 3% of the solar energy hitting the patch of land corresponding to the power plant is exported in the form of electrical energy.
 But efficiency is not everything. 3% of a gigantic resource like solar energy input can still be tremendously large. It translates to over 6 W/m2 for a standard insolation of 200 W/m2, which is about thirty-times better than wind, per land area. While a field of PV panels outperform an ST installation by a factor of 5-6, the technologically simpler solar thermal designs can be more cost effective than PV. Reflectors and oil pipes are low-tech cheap devices, compared to photovoltaic material. The production cost for solar thermal is estimated to be about $0.06/kWh, which is lower than the typical retail cost of electricity, but still a factor of two higher than fossil fuel electricity production costs.
@@ -1953,7 +1948,7 @@ Figure 13.24: Parabolic trough-based ST plant, in which part of the power gener-
 Figure 13.25: One of three "power tow- ers" of the Ivanpah facility in California. By Craig Dietrich.
 92:
 thus the "optional storage" block in Figure 13.23
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.In terms of implementation, solar thermal is a small player. In 2018, only four states produced solar thermal power, 68% from California and 22% from Arizona. Table 13.4 provides some context, comparing ST to PV in each of the four states that have any solar thermal. For the entire U.S., less than 0.1% of electricity derives from solar thermal, and PV is about 25 times bigger on the whole. Globally, ST averages about 1.1 GW93 (2016), about half in Spain and a third in the U.S.94
+In terms of implementation, solar thermal is a small player. In 2018, only four states produced solar thermal power, 68% from California and 22% from Arizona. Table 13.4 provides some context, comparing ST to PV in each of the four states that have any solar thermal. For the entire U.S., less than 0.1% of electricity derives from solar thermal, and PV is about 25 times bigger on the whole. Globally, ST averages about 1.1 GW93 (2016), about half in Spain and a third in the U.S.94
 State
 ST MW avg. ST % elec. PV MW avg. PV % elec. ST/PV %
 California
@@ -2008,7 +2003,7 @@ ST has a lower land-area efficiency than PV panels;
 Hands down, solar is the only renewable resource capable of matching our current societal energy demand. Not only can it reach 18 TW, it can exceed the mark by orders of magnitude. Finding space for panels is not a limitation. The efficiency of PV panels is perfectly respectable based on physics expectations, and beats the best that biology has done by a factor of 3-4. The efficiency is high enough that roof space tends to be more than sufficient to satisfy the demands of individual houses.
 [68]: (2020), Life Cycle GHG Emissions
 Pros and cons are listed separately for PV and ST in Section 13.7.1 and Section 13.8.3, respectively.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 13 Solar Energy
 222
 Holding solar back is its intermittency95 and high up-front cost. Intermit- tency can be solved by battery storage, but this can double the cost and require maintenance and periodic battery replacement. Additionally-as for many of our renewable options-all of our society's demands9% are not well met by electricity generation.
@@ -2036,7 +2031,7 @@ even if the efficiency is modest or
 4. The dimmest stars we can see with our eyes are thirteen orders-of- magnitude104 dimmer than the intensity of the sun. Building off of Problem 3, how many photons enter your eye per second at this edge of detectability?
    103: Hint: recall that 1 W is 1 J/s.
    104: 10-13 times
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    13 Solar Energy
    223
 5. Warm humans at ~300 K and glowing-hot light bulb filaments at ~2,400 K both radiate according to Eq. 13.3. How much more power per unit area (W/m2) does an incandescent filament emit compared to human skin, roughly?
@@ -2057,7 +2052,7 @@ even if the efficiency is modest or
     106: like the sun or an incandescent light bulb; one that obeys Eq. 13.4
     107: The rest going into excess kinetic en- ergy which just heats up the PV cell.
     108: ...consistent with the relevant physics, of course
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     13 Solar Energy
     224
     successful contribution to PV current, starting with a green photon leaving the sun and ending with an electron crossing the junction.
@@ -2079,7 +2074,7 @@ even if the efficiency is modest or
     111:
     ... full sun meaning 1,000 W/m2
     112: ... called the Redbook study: [88]
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     and the best gave 5.2 kWh/m2/day for a flat horizontal panel. What, then, is the range of annual average insolation values in units of W/m2 for San Diego, and what percentage variation is this, roughly (in round numbers)?
 26. The study from Problem 24 finds that a flat panel facing south and tilted at various angles113 relative to the horizontal produce the following annual average yields in units of kWh/m2/day:
     Angle Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year
@@ -2112,7 +2107,7 @@ even if the efficiency is modest or
 30. Based on what is presented in the text,115 why is solar power still such a minor player if it is so hugely abundant and the technology has been around for a long time? What are some of the challenges?
 31. You look at a PV panel and mentally estimate it to measure about 0.8 m by 1.5 m. Knowing that PV panels tend to be 15-20% efficient, you guess that it is 18% efficient. How much power would you expect it to deliver in full sun (1,000 W/m2 incident)?
 32. According to the table in Problem 26, San Diego can expect an annual average solar yield of 5.7 kWh/m2/day when the panel is tilted to the site latitude and facing south.116 If a household seeks to produce a modest 8 kWh per day using 16% efficient panels,
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     114: The pattern will "graph out" the tilt adjustments over time.
     This exercise provides insight into PV at a personal-scale that would cover an Amer- ican's total share of energy demand across all sectors.
     This exercise provides insight into the total PV area needed to cover America's total energy demand across all sectors.
@@ -2134,9 +2129,8 @@ even if the efficiency is modest or
     117: ... consistent with the first sentence
     118: Hint: a large part is insolation vs. over- head sun.
     119: ..e.g., what is the most one might expect for direct sun?
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-    Freely available at: https://escholarship.org/uc/energy_ambitions.
-    14 Biological Energy
+    
+## 14 Biological Energy
     The renewable energy options discussed thus far have been rather different from the chemically-stored thermal energy provided by fossil fuels. These sources-hydroelectricity, wind, and solar-are good at making electricity, but are intermittent to various degrees and are not directly suitable for transportation, except via bulky batteries.
     Biologically-based energy is more similar to fossil fuels in that it is a form of chemical energy burned to create thermal energy. We will focus on two major forms: solid biomass and liquid biofuels. The latter is well-suited to transportation: one of the few renewable energies that can make this claim. In some cases, the same plant can produce either food or bio-energy-depending on whether it is eaten by another biological form or by a machine.
     Ultimately, biologically-based energy is a form of solar energy, creating chemical storage by means of photosynthesis. Fossil fuels are also an ancient form of biofuel, deriving from photosynthetic energy captured millions of years ago. So sunlight is the actual energy source, and photosynthesis is the mechanism by which the energy is stored in chemical form.
@@ -2156,7 +2150,7 @@ even if the efficiency is modest or
     This textbook will not focus on the complex mechanisms responsible for photosynthesis, but rather will describe the net result and efficiency. Photosynthesis involves the absorption of individual solar photons that ultimately facilitate the movement of electrons in order to change bonding structures, forming sugars, cellulose, and other materials used to construct a plant. The fundamental chemical reaction is depicted in
     Figure 14.1: Cartoon version of photosyn- thesis, providing a graphical representation of Eq. 14.1. Water, CO2, and sunlight are in- puts. The leaf "exhales" oxygen and keeps sugar (only part of the final sugar molecule is pictured here).
     Photo Credit: Rudy and Peter Skitterians.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     14 Biological Energy
     228
     Figure 14.1 and represented as a formula in Eq. 14.1, in which the product is a basic unit of a larger sugar molecule, like glucose (C6H12O6).
@@ -2186,7 +2180,7 @@ even if the efficiency is modest or
     summer, averaging day/night and
     weather
     5: 250 W/m2 times the plant area
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     efficiency is calculated as the ratio of output to input: about 2% in this case.
     14 Biological Energy
     229
@@ -2208,7 +2202,7 @@ even if the efficiency is modest or
     The total mass of living organisms on Earth is estimated to be about 2 trillion tons [94]. Having a density similar to that of water, 2x 1015 kg, if spread uniformly around the planet, would stack to 4 mm high! Put another way, a random line projecting upward from the surface of the earth would go through about 4 mm of living matter, on average. That's a pretty thin shell of life!
     If we tried to substitute our 18 TW global power demand by burning
     [94]: Elhacham et al. (2020), "Global human-made mass exceeds all living biomass"
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     12
     biological matter,12 we would run through all the currently-living mass-land and sea-in a short 15 years!
     Can you imagine burning through all of Earth's forests and animals in 15 years? That's the rate at which we use energy today-illustrating the disparity between the biological resources on the planet and our staggering energy appetite. We can't expect to maintain our based on biomass and biofuels, and still have a vibrant natural
@@ -2238,7 +2232,7 @@ even if the efficiency is modest or
     H-C-C-O
     HH
     Figure 14.3: Ethanol is similar to ethane, but replacing the hydrogen at the end with hydroxyl (OH).
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.for octane. In terms of CO2 energy intensity, ethanol produces 64 g of CO2 for every 1 MJ of energy: exactly the same as petroleum (Table 8.2). Generally speaking, biofuels-and other forms of biomass-are often considered to be carbon-neutral,18 as the carbon released upon burning was taken in from the atmosphere in the process of photosynthesis, making it a cycle.
+    for octane. In terms of CO2 energy intensity, ethanol produces 64 g of CO2 for every 1 MJ of energy: exactly the same as petroleum (Table 8.2). Generally speaking, biofuels-and other forms of biomass-are often considered to be carbon-neutral,18 as the carbon released upon burning was taken in from the atmosphere in the process of photosynthesis, making it a cycle.
     Most of the ethanol in the U.S. is blended into gasoline into E10, E15, or E85 products meaning 10%, 15%, or 85% ethanol. Not all vehicles are equipped to handle the more corrosive ethanol, and those that are ("flex-fuel" vehicles) might expect lower energy performance due to the fact that ethanol has lower energy density than gasoline.
     Both the lower energy density and lower carbon mass per input fuel mass can be attributed to the oxygen atom hosted by the ethanol molecule.19 Ethanol can derive from a number of plants. In the U.S., corn is the most common feedstock. Brazil uses sugar cane, which requires tropical climates.
     14 Biological Energy
@@ -2256,7 +2250,7 @@ even if the efficiency is modest or
     20: In some cases, it may still make sense to pursue EROEI < 1 resources if the resulting form is otherwise hard to obtain, like food
     energy.
     As another example, we might use coal to process biofuels, in effect converting a less useful solid to a more useful liquid, even if losing energy in the process. But such desperate measures will not be favored if alternatives exist.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     14 Biological Energy
     232
     using oil as the energy source for the original exploration, building the equipment, running the drill, and collecting/storing the product. An EROEI of 100:1 means that for
@@ -2297,7 +2291,7 @@ even if the efficiency is modest or
     Example 14.3.2 Let's say a particular wind turbine achieves a 20:1 EROEI after operating for a 40 year lifetime. How many years-worth of its energy output went into constructing and installing it?
     Each year the turbine produces some amount of energy, which we can call E (in Joules, for instance). In this case, it will produce 40E Joules in its lifetime. Since EROEI is 20:1, it must have taken 40E /20 = 2E Joules of input energy to create.22 At a rate of E per year, it will produce 2E
     22:...because the delivered energy is 20 times the input energy
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     14 Biological Energy
     233
     in 2 years, therefore taking two years to produce as much as went into its manufacture-paying for itself, energetically.
@@ -2316,7 +2310,7 @@ even if the efficiency is modest or
     25: .e.g., same number of barrels of oil produced each year
     26:
     ... a form of energy
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     14 Biological Energy
     234
     food energy consumed [97]. In a sense, we are eating27 our fossil fuels! It also points to an EROEI of 0.1:1, which is well below break-even. Obviously in times prior to fossil fuels, when we used human and animal labor in our agricultural pursuits, an EROEI less than 1:1 would spell starvation: more energy going in than was recouped from the land. Today, fossil fuels give us a temporary exception, so that we can afford to lose useful energy in the bargain, turning 10 units of fossil fuel energy into one unit that we eat. We might view this as a negative aspect of the Green Revolution.
@@ -2344,7 +2338,7 @@ even if the efficiency is modest or
     [99]: Murphy et al. (2011), "Order from Chaos: A Preliminary Protocol for Deter- mining the EROI of Fuels"
     Figure 14.4: Area of corn growth needed to displace U.S. petroleum demand if at EROEI of 1.2:1. This is far larger than agriculturally productive land in the U.S.
     28: 150 days times 86,400 seconds per day times 250 W/m2 times 0.015 gives Joules per square meter produced.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     Why do we have mandates to introduce ethanol into fuel blends?
     Don't assume that the world is always scientifically rational and run by "adults" whose interests extend beyond personal gain. Many political factors enter: votes from midwestern swing-states,29 job dependencies, influences from a powerful industry, the appearance of "green" (carbon-neutral) energy30 all play a role.
     A fundamental reason why the EROEI for biofuels tends to be low is that processing the material into ethanol requires a fair amount of energy input in the form of heat. Burning biomass, by contrast, does not have this requirement. Also, burned biomass is often gathered from untended (natural) environments that required little deliberate energy input on the parts of humans. Therefore, low EROEI is more a problem for biofuels than biomass.
@@ -2365,7 +2359,7 @@ even if the efficiency is modest or
     31: ... subject to availability in the face of deforestation
     [100]: Saad et al. (2019), "Algal Biofuels: Current Status and Key Challenges"
     32: compared to solar or wind budgets, for instance, which are 5,000 times and 50 times our demand-not just 5 times as is the case for all biology
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     We conclude by listing some pros and cons for biologically-derived energy, beginning with the advantageous aspects:
     ► Biofuels offer a possible liquid fuel substitute to support trans- portation needs;
     ► Biological energy relies on dependable solar input, replenished as harvested stocks grow back;
@@ -2386,8 +2380,7 @@ even if the efficiency is modest or
    33: Water has a density of 1,000 kg/m3.
    Hint: carbon dioxide is 44/12 times the mass of plain carbon.
    Now if you could just think of a way to put the answer on a log scale, ha ha.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-   Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    14 Biological Energy
    237
 4. How many logs of firewood per day (whose parameters are speci- fied in Problem 3) would you need to burn to provide 5,000 W of heating to a house?
@@ -2404,13 +2397,12 @@ even if the efficiency is modest or
 13. Using the setup for Problem 12, how large would the required corn
     34: You can always multiply both sides by the same factor to make both sides integers, if this is easier to understand.
     35:...i.e., relying on its own energy to re-invest in its extraction
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     14 Biological Energy 238
     area be in terms of the side length of a square in units of kilometers. Draw this to approximate scale on a crude representation of the contiguous U.S. And this is at the optimistic end.
 14. What fraction of the earth's 100 TW biological budget (all life on the planet) do you think is justifiable to use in service of human energy needs? Explain your reasoning. What does this become in TW, and how does it compare to our 18 TW current appetite?
     If the EROEI is less than 2:1 (as it is for many biofuels), we would cut your estimate in TW by more than half to account for the diverted energy used for extraction.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-    Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     15 Nuclear Energy
     Most of the energy forms discussed thus far derive from sunlight— either contemporary input or fossilized storage. The fuel for nuclear energy is truly ancient, predating the solar system. The heavy elements participating in fission were produced by astrophysical cataclysms (most likely merging neutron stars), while the hydrogen building blocks for fusion originated in the Big Bang itself. In brief, fission involves the splitting of heavy nuclei into smaller pieces, while fusion builds larger nuclei from smaller ones.
     While only fission has been successfully implemented as a source of societal energy, both types essentially boil down to the same thing: a source of heat to make steam and drive a heat engine. How and why nuclear material generates heat will be a primary focus of this chapter. Many practical concerns surround nuclear power, such as safety, weapons, waste, and proliferation of dangerous material. Self-pride for the impressive accomplishment of mastering nature well enough to implement nuclear power may not adequately justify continued reliance upon it-even if it is not a direct emitter of CO2.
@@ -2418,7 +2410,7 @@ even if the efficiency is modest or
     15.1 The Nucleus
     First, what is a nucleus? Every (neutral) atom consists of a positively- charged nucleus surrounded by a cloud of negative electrons (Figure 15.1).
     Cooling towers of the decommissioned Satsop nuclear power plant in Washington. Photo credit: Tom Murphy
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     15.4 Fission
     15.1 The Nucleus.
     239
@@ -2482,7 +2474,7 @@ even if the efficiency is modest or
      The physicist's version of the periodic table is called the Chart of the Nuclides, and contains a wealth of information. The basic layout idea is introduced in Figure 15.2, for the extreme low-mass end of nuclides.
      Definition 15.1.1 A nuclide is any unique combination of nucleons, so that every nucleus is one of the possible nuclides. For example, the 12C nucleus is one nuclide, while 13C is a distinct, different nuclide.
      Figure 15.3 provides a full view of the chart layout: neutron number, N, runs horizontally and proton number, Z, runs vertically. Stable nuclei are indicated by black boxes at some particular integer value of N and
-     2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+     
      2: ... a name describing either protons or neutrons: any nuclear constituent
      3: One might say this is what defines the carbon atom.
      4:...just the sequential number labeling boxes in the periodic table: Fig. B.1 (p. 375)
@@ -2536,7 +2528,7 @@ even if the efficiency is modest or
      6: ... and in the summary information in the blue box at the left of each row
      =
      Follow A 12, for instance, from O12 through Be12, crossing through C12 as the only stable element of this mass.
-     2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+     
      15 Nuclear Energy
      H1
      isotope
@@ -2823,8 +2815,8 @@ Definition 15.2.1 The half life of a nuclide is the time at which the probabilit
 nature
 or long-lived enough to be found in
 8: Nuclides are unstable if a lower energy (more stable) configuration is within easy reach, better balancing desire for N = Z against the cost of proton repulsion.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
-15 Nuclear Energy
+
+## 15 Nuclear Energy
 243
 Figure 15.4 lists a half-life9 for each unstable nuclide. For example, the half-life for a neutron (n1 in Figure 15.4) is 10.25 minutes, meaning that a lone neutron has a 50% chance of surviving this long. The process is statistical, so an individual neutron might only last 3 seconds, or might still be around in 15 or even 60 minutes. The predictive power is sharpened the larger the sample is: half will remain after 10.25 minutes.
 Example 15.2.1 If starting with 16 million separate neutrons, we would expect 8 million to still be present after 10.25 minutes, 4 million after 20.5 minutes, 2 million after 30.75 minutes, and down to 1 million neutrons in 41 minutes.
@@ -2891,7 +2883,7 @@ Figure 15.5: Radioactive decay mechanisms for a, ß, and ßt. Protons are colore
    8
    10: Helium is found mixed in with natural gas, and derives from alpha particle decay of elements in the earth's interior.
    Follow along on Figure 15.4.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
 2. Beta-minus (ẞ) decay is a manifestation of the weak nuclear force, in which a neutron within the nucleus converts to a proton, and in the process spits out an electron (ẞ particle, really just e ̄) to conserve total electric charge, and a neutrino-which we will ignore." The mass number, A is unchanged, but N goes down one and Z goes up one (gaining a proton and losing a neutron). Thus on the chart of nuclides the motion is one left, one up.
    It's like a chess move (Figure 15.7);
 3. Beta-plus (+) decay, like ß-, is a manifestation of the weak nuclear force, in which a proton within the nucleus converts to a neutron, emitting a positron (B+, or e+, or anti-electron; a form of antimatter) again maintaining charge conservation, and an ignored neutrino. Similar to ẞ decay, A is unchanged, but Z is reduced by one and N gains one. On the chart, the move is diagonal: down one and right one (Figure 15.7).
@@ -3052,8 +3044,7 @@ Figure 15.5: Radioactive decay mechanisms for a, ß, and ßt. Protons are colore
    N+1 unchanged
    unchanged
    unchanged unchanged
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-   Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    Example 15.2.2 What will the fate of He be, according to Figure 15.4?
    We can play this chess game! According to the chart, the primary decay mechanism of He8 is ẞ with a half-life of about a tenth of a second. It will become Li, which hangs around for about a second before undergoing another ß- decay to Be. This one lasts almost no time at all (~ 10-16 s) before a decay into two alpha particles (two *He). Such a sequence is called a decay chain.
    As is evident in Figure 15.8, unstable isotopes above the stable track in Figure 15.3 tend to undergo ẞ+ decays to drive toward stable nuclei, while those below the track tend to experience ẞ- decays to drive up toward the stable track. The a decays are more common for heavy nuclei (around uranium), which drive toward the end of the train of stable elements in Figure 15.3, ending up around lead (Pb). We can understand the abundance of lead as a byproduct of heavy-element decay chains.
@@ -3071,7 +3062,7 @@ Figure 15.5: Radioactive decay mechanisms for a, ß, and ßt. Protons are colore
    Figure 15.8: Another view of the Chart of the Nuclides, color coded to indicate pre- vailing decay modes as a function of posi- tion on the chart. Note that ẞ+ sometimes captures an electron rather than emitting a positron, but amounting to the same thing, essentially. From U.S. DOE.
    Box 15.1: The Weak Nuclear Force
    An aside worth making is that having discussed beta decays, gov- erned by the weak nuclear force, we have now covered all four known forces of nature: gravity, electromagnetism, the weak nuclear force, and the strong nuclear force. That's it: a small menu, really. The latter three are unified into a Standard Model of Physics, but gravity-described by General Relativity has defied all attempts at "grand unification," or a "theory of everything" trying to unite all four forces under a single theoretical framework. One implication is that known physics offers no other "magic" solutions to our energy needs. No new forces have come to light in more than half-a-century, despite dramatic advances in tools to probe the fundamental nature of physics.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    15 Nuclear Energy
    246
    15.3 Mass Energy
@@ -3089,7 +3080,7 @@ Figure 15.5: Radioactive decay mechanisms for a, ß, and ßt. Protons are colore
    12: The burrito is also ever-so-slightly more massive if it has kinetic energy, gravitational potential energy, or any form of energy. A battery is more massive when charged, even if no atoms or electrons are added. Inci- dentally, charging a battery does not mean literally adding electrical charges (adding particles), but amounts to rearranging elec- trons among the atoms within the battery.
    13: ... ultimately given off as thermal en- ergy to our environment
    14: This amount of mass corresponds to that of a tiny length of hair that is shorter than it is wide.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    15 Nuclear Energy
    247
    11,200 MeV corresponding to 12 a.m.u. (1 a.m.u. is 931.5 MeV).
@@ -3137,7 +3128,7 @@ Figure 15.5: Radioactive decay mechanisms for a, ß, and ßt. Protons are colore
   16: The whole atom is around 10-10
   scale
   m in
-  2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+  
   on short length scales, but ceases to operate much beyond the confines of the nucleus. Think about binding energy this way: if we tried to pry a proton or a neutron (nucleon, generically) away from a nucleus, we would encounter a very powerful force opposing the action. But let's say we persist, and do work in extracting the nucleon by the usual recipe of force times distance. It is so much work, in fact, that AE = Amc2 becomes relevant, measurably altering the mass.
   Table 15.5 walks through some example calculations, one of which is traced in Example 15.3.2. Because the 1H nuclide is just a lone proton, it has no binding energy.
   Nucleus Emp,n,e
@@ -3187,7 +3178,7 @@ Figure 15.5: Radioactive decay mechanisms for a, ß, and ßt. Protons are colore
   15.5.
   19: 1 MeV is 106 eV, and 1 eV is 1.6022 × 10-19 J (Sec. 5.9; p. 78).
   20: ... thus how much energy would need to be supplied to completely unbind the entire nucleus, as in Figure 15.9
-  2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+  
   energy per nucleon in the last column of Table 15.5 starts out small, but soon settles to the 7-9 range for most of the entries. It is extremely insightful to plot the binding energy per nucleon as a function of the nucleon mass number, A, which we do in Figure 15.10.
   15 Nuclear Energy
   00
@@ -3226,7 +3217,7 @@ are:
    Fe
    fission
    Figure 15.11: Turning the binding energy curve upside-down makes it easier to con- ceptualize fusion and fission driving toward the most tightly bound point (iron), like a ball might roll.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    small
    space will get hot, for reasons detailed below. The heat is used to boil water into high-pressure steam, which then turns a turbine and generator (Figure 15.12). Note that a nuclear fission plant has much in common with a coal-fired power plant, as evidenced by the similarity of Figure 15.12 to Fig. 6.2 (p. 90). Only the source of heat is much different in origin.
    CONTAINMENT STRUCTURE
@@ -3260,7 +3251,7 @@ are:
    Y
    90Br
    When the nucleus breaks up, the pieces fly out at high speed, carrying kinetic energy that will be deposited in the local material as they bump
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    23: This is in contrast to a fast neutron that
    tends to bounce rather than stick to the
    nucleus.
@@ -3277,7 +3268,7 @@ are:
    The nucleus (uranium in the present discussion) always breaks up into two largish pieces, possibly accompanied by a few liberated spare neutrons. Because of the way the track of stable elements curves on the Chart of the Nuclides, the resultant pieces are likely to be neutron rich, to the right of the stable nuclei. To understand this, refer to Figure 15.14 and the associated caption.
    The math always has to add up: nucleons are not created or destroyed during a fission event. They just rearrange themselves, so the total number of neutrons stays the same, as does the total number of protons. After the split, ẞ decays will carry out flavor changes, but we'll deal with that part later.
    26: ... usually either water or carbon in the form of graphite
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    proton number, Z
    A=50
    A=100
@@ -3333,7 +3324,7 @@ are:
    27: 235U had A - Z = 23592 143 neu- trons, plus the thermal neutron addition.
    =
    Being a probabilistic (random) process, each fission can result in a large set of possible "daughter" nuclei-only one set of which was explored in Example 15.4.1. As long as the masses all add up, and the two-hump probability distribution in Figure 15.14 is respected, anything goes. In other words, we have no control over exactly what pieces come out. Figure 15.15 provides a graphic illustration of four different possible pairs of daughter fragments. The counting requirement is satisfied by having the products located diametrically opposite from the 235U midpoint (yellow circle). The positions of the stars will distribute along A-values
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    Table 15.6: Possible outcomes for Example 15.4.1 if we set one of the daughter particles to be bromine-90, forcing the other daugh- ter to be lanthanum. Different isotopes of lanthanum will result for differing numbers of spare neutrons left after the break-up (last row).
    according to the probability distribution (multi-colored histogram). Note the completely distinct peaks, conveying that virtually every fission event results in just two fragments: one bigger and one smaller. At least that aspect of fission is predictable, even if we can't say precisely which nuclei
    will be left after an individual fission event.
@@ -3386,7 +3377,7 @@ are:
    0.18502
    172.3
    The masses of each piece, according to the Chart of the Nuclides, appear in Table 15.7. Again, we find that the mass sums don't equal: the final parts are lighter than the inputs. The fission managed to lose 0.185 a.m.u. of mass, corresponding to 172 MeV of energy (via E = mc2; see Example 15.3.1). That's a 0.08% change in the mass, and converts to an energy density of roughly 17 million kcal/g, making the process over a million
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    Table 15.7: Mass details of Eq. 15.2, track- ing before and after masses in both a.m.u. and MeV units. The input mass of around 236 a.m.u. is reduced by about 0.185 a.m.u., or 0.08%.
    times more energy-dense than our customary ~10 kcal/g chemical energy density. See Box 15.3 for an example of how to compute this.
    Box 15.3: Nuclear Energy Density
@@ -3408,7 +3399,7 @@ are:
    30: 75 million kcal divided by 17 million kcal/g is 4.5 g.
    31: 7.6 x 235; 8.7 x 95; and 8.4 x 140
    32: Binding energy reduces mass, so larger binding energy means lighter overall mass.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    paragraph explains the discrepancy, but should be considered non- essential reading. The fission process typically results in a few spare neutrons. Each left-over (unbound) neutron deprives us of at least 8 MeV in unrealized binding potential,33 and the subsequent ẞ- decays from the neutron-rich daughter nuclei to stable nuclei also release energy not accounted in Table 15.7. Both of these contribute to the shortfall in comparing 172 MeV to 210 MeV, but even without this, we got a decent estimate just using the graph in Figure 15.10.
    15.4.4 Practical Implementations
    As we saw above, nuclear fission involves getting fissile nuclei generally 235U-to split apart by the addition of a neutron. The following criteria
@@ -3421,29 +3412,27 @@ are:
 4. a high enough concentration of nuclear fuel that the slowed-down
    spare neutrons are likely to find fissile nuclei;
 5. neutron absorbers in the form of control rods that can be lowered into the reactor and act as the main "throttle" to set reaction speed (thus power output), and also prevent a runaway chain reaction; 6. a containment vessel to mitigate radioactive particles (gamma rays, high-speed electrons and positrons) from escaping to the environment.
-   Figure 15.16 shows a typical configuration.
-   15 Nuclear Energy
-   255
-   33: Each missing neutron deprives us of more than the standard ~8 MeV per nu- cleon, as neutrons have no penalty for repul- sive electric charge. The 8 MeV per nucleon is an average over protons and neutrons.
-   control rod actuators
-   control rods.
-   steam out
-   fuel rods.
-   containment vessel
-   water in
-   Figure 15.16: Typical boiling water reactor design. A thick-walled containment vessel holds water surrounding 235U fuel rods.
-   The water acts as the moderator to slow neutrons and also circulates around the rods to carry heat away, boiling to form steam that can run a standard power plant. Control rods set the pace of the reaction based on how far they are inserted into the spaces between fuel rods. Extra control rods are poised above the reactor core ready to drop quickly into the core in case of emergency suddenly bringing the chain reaction to a halt.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-   Freely available at: https://escholarship.org/uc/energy_ambitions.
-   15 Nuclear Energy
-   256
-   In the design of Figure 15.16, called a boiling water reactor, the water acts as both the neutron moderator and the thermal conveyance medium. Nuclear fuel (uranium) is arranged in fuel rods, providing ample surface area and allowing water to circulate between the rods to slow down neutrons and carry the heat away. Neutron-absorbing control rods- usually containing boron-set the reaction speed by lowering from the top. An emergency set of control rods can be dropped into the core in a big hurry to shut down the reactor instantly if something goes wrong. When the emergency rods are in place, neutrons have little chance of finding a 235U nucleus before being gobbled up by boron.
-   34
-   As of 2019, the world has about 455 operating nuclear reactors, amounting to an installed capacity of about 400 GW.35 The average produced power— not all are running all the time-was just short of 300 GW. The thermal equivalent would be approximately three times this, or 1 TW out of the 18 TW we use in the world. So nuclear is a relevant player. See Table 15.8 for a breakdown of the top several countries, Fig. 7.7 (p. 109) for nuclear energy's trend in the world, and Fig. 7.4 (p. 107) for the U.S. trend.
-   % elec. global share (%)
-   225 22
-   Country
-# Plants GW inst.
+Figure 15.16 shows a typical configuration.
+15 Nuclear Energy
+255
+33: Each missing neutron deprives us of more than the standard ~8 MeV per nu- cleon, as neutrons have no penalty for repul- sive electric charge. The 8 MeV per nucleon is an average over protons and neutrons.
+control rod actuators
+control rods.
+steam out
+fuel rods.
+containment vessel
+water in
+Figure 15.16: Typical boiling water reactor design. A thick-walled containment vessel holds water surrounding 235U fuel rods.
+The water acts as the moderator to slow neutrons and also circulates around the rods to carry heat away, boiling to form steam that can run a standard power plant. Control rods set the pace of the reaction based on how far they are inserted into the spaces between fuel rods. Extra control rods are poised above the reactor core ready to drop quickly into the core in case of emergency suddenly bringing the chain reaction to a halt.
+
+15 Nuclear Energy
+256
+In the design of Figure 15.16, called a boiling water reactor, the water acts as both the neutron moderator and the thermal conveyance medium. Nuclear fuel (uranium) is arranged in fuel rods, providing ample surface area and allowing water to circulate between the rods to slow down neutrons and carry the heat away. Neutron-absorbing control rods- usually containing boron-set the reaction speed by lowering from the top. An emergency set of control rods can be dropped into the core in a big hurry to shut down the reactor instantly if something goes wrong. When the emergency rods are in place, neutrons have little chance of finding a 235U nucleus before being gobbled up by boron.
+34
+As of 2019, the world has about 455 operating nuclear reactors, amounting to an installed capacity of about 400 GW.35 The average produced power— not all are running all the time-was just short of 300 GW. The thermal equivalent would be approximately three times this, or 1 TW out of the 18 TW we use in the world. So nuclear is a relevant player. See Table 15.8 for a breakdown of the top several countries, Fig. 7.7 (p. 109) for nuclear energy's trend in the world, and Fig. 7.4 (p. 107) for the U.S. trend.
+% elec. global share (%)
+225 22
+Country # Plants GW inst.
 GW avg.
 U.S.
 95
@@ -3499,7 +3488,7 @@ Nuclear plants only last about 50-60 years, after which the material comprising 
 When nuclear energy was first being rolled out in the 1950s, the catch phrase was that it would be "too cheap to meter," a sentiment presumably fueled by the stupendous energy density of uranium, requiring very small quantities compared to fossil fuels. The reality has not worked out that way. Today, a 1 GW nuclear power plant may cost $9 billion to build [102]. That's $9 per Watt of output power, which we can compare to the cost of a solar panel, at about $0.50 per W (Fig. 13.16; p. 215), or utility-scale installation at $1 per Watt [89]. While it seems that solar36 wins by a huge margin, the low capacity factor of solar reduces average power output to 10-20% of the peak rating, depending on location. Meanwhile, nuclear reactors tend to run steadily 90% of the time-the off-time used for maintenance and fuel loading. So nuclear fission costs about $10 per delivered Watt, while solar panels are $2.5-5 per delivered
 [102]: Union of Concerned Scientists (2015), The Cost of Nuclear Power
 36: Recall, for context, that solar is not among the cheaper energy resources. Like so- lar, nuclear power is dominated by up-front costs, rather than fuel cost.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 Watt and installed utility-scale systems are $5-10 per Watt. In short, nuclear power is not an economic slam dunk.
 15 Nuclear Energy 257
 15.4.4.1 Uranium
@@ -3515,7 +3504,7 @@ Evaluating the uranium reserves in energy terms is the most revealing
 =
 39: This follows almost the exact same logic and process as carbon-14 radioactive dating, but using much longer half life nuclei to date Earth's building blocks!
 [103]: (2020), List of Countries by Uranium Reserves
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 Element
 silicon
 aluminum
@@ -3572,7 +3561,7 @@ But what if we could use the bulk uranium, 238U, in reactors and not only save o
 41:
 in gaseous form
 42: Depleted uranium is defined as contain- ing 0.3% or less in the form of 235U, which is not a huge reduction from the 0.72% start- ing point.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 15 Nuclear Energy
 259
 one of the three fissile nuclei, we can convert43 238U into the fissile the following way.
@@ -3874,7 +3863,7 @@ The result is that sterile 238U can be turned into fissile 239Pu that can be use
 44:
 .e.g.,
 for weapons
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 15 Nuclear Energy
 260
 energy in ordinary nuclear reactors comes from plutonium breeding and subsequent fissioning-without any extra effort. Special reactor designs enhance plutonium production, allowing the fuel rod to be "harvested" for plutonium. Usually, the plutonium is destined for use in weapons, but in principle reactors could be designed to efficiently produce and use plutonium from the 238U feedstock. Downsides will be addressed in Section 15.4.6 on weapons and proliferation.
@@ -3887,7 +3876,7 @@ isotope
 15.4.5 Nuclear Waste
 As we saw in our description of the fission process, the fragments distribute over a range of masses in a randomized way (Figure 15.15). The results are generally neutron-rich, and will migrate toward stable elements via ẞ decays over the ensuing seconds, hours, days, months, and years. Some will go fast, and some will take ages to settle, depending on half-lives. Radioactive waste is dangerous to be around because the high-energy particles (like sub-atomic "bullets") spewing out in all directions can alter DNA, leading to cancer and birth defects, for instance.
 The lighter of the two fission fragments has a 59% chance of landing on a stable nucleus within a day or so. For the heavier fragment, it's a 45% chance. The rest get hung up on some longer half-life nuclide, and could remain radioactive for a matter of weeks or in some cases millions of years. The colors in the fission probability histograms in Figure 15.15 provide a visual guide for the mass numbers that reach stability promptly (gray) vs. those that get hung up for a long time (blue is more than 10 years). For example, the histogram element at A = 90 is blue because 90Sr-discussed below-stands in the way of a fast path to stability.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.106
+106
 Tel32
 105
 Balte
@@ -3925,7 +3914,7 @@ The bottom line is that fission leaves a trash heap of radioactive waste that re
 Figure 15.19: Decay activity of fragments from 1 kg of fissioned 235U over time, on a log-log plot. The vertical axis is the power of radioactive emission, in W, for a variety of relevant isotopes-each having their own characteristic half life. The black line at the top is the total activity (sum of all contribu- tions), and some of the key individuals are separated out. The dashed line for actinides is an approximate representative indicator of the role played by heavy nuclides formed in the reactor by uranium absorption of neu- trons. Minor tick marks are at multipliers of 2, 4, 6, and 8 for each axis. As a matter of possible interest, the exponential decays of each element on this log-log plot have the functional form of exponential curves drawn upside-down.
 47: Breeder reactors can "burn" the ac- tinides, reducing some of the long-term waste threat, but will unavoidably still be left with all the radioactive fission products.
 Figure 15.20: A spent fuel rod being lowered into a storage grid in a pool of water at a nuclear power plant. Source: U.S. DOE.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 15 Nuclear Energy
 262
 15.4.6 Nuclear Weapons and Proliferation
@@ -3935,7 +3924,7 @@ While we worry about 235U falling into the wrong hands, perhaps more disturbing 
 Serious pursuit of breeder reactors effectively means manufacturing lots of plutonium, leading to proliferation of nuclear materials: it becomes harder to track and keep away from mal-intentioned groups. The world becomes more dangerous under a breeder program. Thorium breeding (Box 15.5) is less risky in this regard because the 233U prize is mixed with a ridiculously dangerous 232U isotope that puts plutonium to shame, so working with it is pretty deadly, which may deter would-be pursuit of this material by rogue groups.
 A related concern involves proliferation of the abundant radioactive waste from fission plants, which could be mixed into conventional ex- plosives31 to radioactively contaminate a city or local region-poisoning
 51
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 48: For plutonium, this process is fouled by the presence of 240 Pu, forcing a different approach in which a sphere below critical mass is imploded to create high density.
 49: Never stack lumps of fissile material together on a shelf, or a nasty surprise may be in store.
 50:...much higher rate of radioactive de-
@@ -3953,7 +3942,7 @@ The most recent major accident was the Fukushima Daiichi plant in Japan followin
 53: We are unavoidably exposed to radia- tion in our daily lives from air, water, food, Earth, and the cosmos.
 Figure 15.21: Three Mile Island nuclear plant in Pennsylvania. The two reactor cores are in the foreground of the larger cooling towers behind. Source: U.S. DOE.
 54: ... within 10 minutes of the earthquake
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 15 Nuclear Energy
 264
 15.4.8 Pros and Cons of Fission
@@ -3979,7 +3968,7 @@ Given that fission has problems of finite uranium supply, radioactive waste, pro
 [104]: Pew Research (2015), "Elaborating on the Views of AAAS Scientists, Issue by Issue"
 56: ... a clear, but not overwhelming, result
 57: We might also acknowledge an intrinsic psychological appeal for complex topics that have been mastered: a sort of pride in the privileged comprehension that might transfer to warm feelings for the subject.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 Fusion, on the other hand, is not plagued by most of these issues. It's main problem is that it is incredibly difficult and has been in the research stage for 70 years. Other than that, it has many (virtual) virtues. To be clear, the world does not have and never has had an operational fusion power plant. It may belong to the future, but is not guaranteed to ever become practical.
 58
 First, the basics. We have alluded to the fact that fusion builds from the small to the big. Putting four 1H nuclei together, at 1.007825 a.m.u. each and forming *He at 4.0026033 a.m.u. leaves a difference of 0.0287 a.m.u.— 0.7% of the total mass-which amounts to 153 million kcal/g. This is almost ten times as large as the amount for fission (17 million kcal/g; Box 15.3), making it ten-million times more potent than chemical reactions. Recall that fusion's better performance can be related to the steepness of the left-hand-side of the binding-energy-per-nucleon curve of Figure 15.10.
@@ -4012,7 +4001,7 @@ on.
 61: If only the UCSD mascot were named after this triton...
 62: ... allowing beta decays to change pro- tons to neutrons in the process
 63: Plasma is a hot ionized gas where elec- trons are stripped off the nuclei. The sun qualifies as a plasma.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 15 Nuclear Energy
 266
 walls of the chamber, despite its constituents zipping around at speeds around 1,000 km/s! This feat can be sort-of managed via magnetic fields bending the paths of the fast-moving charged particles into circles. But turbulence in the plasma plagues attempts to confine the D-T mixture at temperatures high enough to produce fusion yield.
@@ -4027,7 +4016,7 @@ Deuterium-an isotope of hydrogen-is found in 0.0115% of hydrogen, which means th
 66: See the Chart of the Nuclides abun- dance information in Figure 15.4.
 67: ... one 1H, one 2H and one oxygen
 68: Ocean water is far easier to access than underground oil deposits, after all.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 Tritium, however, is essentially nowhere to be found, as it has a half-life of 12.3 years. We can generate tritium by adding a neutron to lithium and stimulating an a decay. So the question moves to how much lithium we have. Proven reserves are at about 15 million tons, currently produced at about 30,000 tons per year.69 We would need 2,300 tons70 of lithium per year to meet our 2 × 1032 tritium atom target (for 18 TW). In the absence of competition"1 for lithium resources, the associated R/P ratio timescale is 6,500 years. Yes, that is a comfortably long time, but not eons. The thought is that this would buy time to solve the D-D challenge.
 15 Nuclear Energy
 267
@@ -4046,7 +4035,7 @@ Figure 15.23: ITER tokamak cut-away where the plasma would be created. The white
 the prospects for which are dubious
 73: ... thus 3 GW thermal, given typical heat engine efficiency
 74:... 10-20% for PV and perhaps 90% for fusion?
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 15 Nuclear Energy
 268
 Fusion is therefore a complicated and not particularly cheap way to generate electricity. Meanwhile, we are not running terribly short on renewable ways to produce electricity: solar; wind; hydroelectric; geother- mal; tidal. Liquid fuels for transportation represent a greater and more pressing challenge, and fusion does not directly address this aspect any better than other options for electrical production. Fusion is by far the most complex power generation scheme we have ever attempted, evidenced by the 70 year effort to bring it to fruition that is still underway. How many physics PhDs will it take to keep a fusion plant running? Sometimes, we get stuck pursuing a flawed vision of the future, and have trouble reevaluating our options. Imagine being a middle-aged physicist or engineer in the 1950s. In your lifetime, you would have seen the advent of the car, airplane, radio, television, nuclear fission, among a blur of other technology advances. The next frontier was obviously fusion, so let's crack that one! At this point, 70 years later, maybe we should ask: why?
@@ -4063,7 +4052,7 @@ Stable plasmas are exceedingly hard to generate at the requisite temperatures;
 70 years of effort have not yet borne fruit as an energy supply;
 ► Tritium is not available, and must be fabricated from a limited supply of lithium;
 Fusion still contends with radioactive fuel (tritium) and a contain- ment vessel that is radioactively contaminated.
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+
 The smaller number of positive points is not in itself an indicator of imbalance, since the first point is huge. One elephant can balance dozens of kids on a playground see-saw.
 15.6 Upshot on Nuclear
 Nuclear fission is a real thing: it can and does produce a significant fraction the world's power. A number of substantive challenges stand in the way of scaling up significantly.76 For conventional nuclear fission as it has been practiced thus far, the proven reserves of uranium only last 90 years at today's rate of use, and less than 4 years if we tried to get all 18 TW from fission. Radioactive waste is an unsolved problem that persists for hundreds to thousands of years. Breeder programs can extend the resource by large factors (into the 500 or 1,000 year range under an 18 TW nuclear-breeder effort). But proliferation and bomb dangers become more pronounced-not to mention an even more pressing waste issue and greater accident rates given the profusion of operating reactors. It can be difficult to get excited about a nuclear future. It is
@@ -4081,7 +4070,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
    Pros and cons are listed separately for PV and ST in Section 15.4.8 and Section 15.5.3, respectively.
    77:
    as it also is for solar power, which does not mean solar power is cheap
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    15 Nuclear Energy
    270
 3. How many neutrons does the isotope
@@ -4107,7 +4096,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     ...a factor of 6 different
     81: ... as indicated by the orange lower-half of the corresponding box in Figure 15.4
     82: Region descriptions can include refer- ences to the mass range (e.g., low mass or high mass), above or below the stable elements (proton-rich or neutron-rich).
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.15 Nuclear Energy
+    15 Nuclear Energy
     271
     decay, ẞ decay, B+ decay, and spontaneous fission?
     energy.
@@ -4130,8 +4119,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     fission event?
     a) any number of fragments (2 through 235) can be produced b) a small number of fragments will emerge (2 to 5)
     c) two nearly identical fragments will emerge
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-    Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     83: This is how much mass would have to "disappear" each year to satisfy current human demand.
     Hint: convert MeV to Joules, then kg, then
     a.m.u.
@@ -4161,7 +4149,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     part.
     86: It's not, actually, so this answer is a lower limit on the actual mass that has to be loaded in. So much for the ~1 kg answer from Problem 16.
     87: One ton is 1,000 kg.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     needs. But given realities that only 0.08% of mass is converted to energy in nuclear reactions, that only 0.72% of natural uranium. is fissile 235U, and that only half of the 235U is retrievable88 and "burned" in reactors, how many tons of uranium must be mined per year to support 18 TW via conventional fission, assuming for the sake of this problem that 5 tons of mass need to convert to energy via E = mc2?
 33. Based on the abundance of 235U in the earth's crust (Table 15.9), how many kilograms of typical crust would need to be excavated and processed per year to provide the~ 0.005 kg of 235U you
     need for your personal energy (as in Example 15.4.2)?
@@ -4180,7 +4168,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     Of course mining does not work this way, instead seeking concentrations.
     Hint: start by adding a neutron to 232 Th
     89: ... also a thermal measure
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
 41. The sun is a fusion power plant producing 3.8 x 1026 W of power. How many kilograms of mass does it lose in a year trough pure energy conversion? How does this compare to the mass of a spherical asteroid 50 km in diameter whose density is 2,000 kg/m3?
 42. Based on the fractional mass loss associated with turning four hydrogen atoms into a helium atom, what fraction of the sun's mass would it lose over its lifetime by converting all its hydrogen into helium, under the simplifying assumption that it starts its life as 100% hydrogen?
 43. The three fusion forms in Eq. 15.3 each have different energy outputs. Looking at Figure 15.10,90 how would you qualitatively describe why the three reactions differ in this way?
@@ -4191,15 +4179,14 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     274
     Hint: the volume of a sphere is 47R3/з.
     90: Tritium is not labeled, but visible just below 3 MeV on the left side.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-    Freely available at: https://escholarship.org/uc/energy_ambitions.
-    16 Small Players
+    
+## 16 Small Players
     This short chapter serves to round out the menu of renewable energy options. While all of the entries are viable, at various levels of demonstra- tion and implementation, none of them can scale up to be an important contributor to global power at the relevant level of many terawatts. In this sense, we might call the remaining resources "cute." Because of this, items are kept brief-not warranting unjustified attention. Likewise for graphical adornment: the chapter is a little bare, in part because the subjects do not deserve much in the way of undue promotion.
     Skipping this chapter will not sacrifice much in the way of knowledge vital to our future. It simply fills in the gaps and addresses some of the "but what about insert-scheme?" questions that may arise. The next chapter, Chapter 17, highlights the pros and cons of the full range of alternative energy resources, so this installment largely exists to provide a basis for the conclusions of that more important capstone.
     16.1 Geothermal Energy
     The interior of Earth is still hot from the initial collapse of mass in the formation of the planet. We can think of this as the thermal conversion of gravitational potential energy as pieces fell into the gravitational field of the earth, converting first to kinetic energy and then into thermal energy (heat) after collision. But that's only half of the story. The other half is radioactive decay of long-lived unstable elements within the earth [106]. Of the radioactive decay part, 40% is from uranium (238U), 40% is from thorium (232Th), and 20% is from potassium (40K). As was indicated in Table 10.2 (p. 168), a total of 44 TW of geothermal power flows through the earth's crust. Divided by total surface area, this amounts to less than
     Lava seeping along east of Pu'u 'O'o crater in Hawaii as an evident display of geothermal energy. Photo Credit: Tom Murphy
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     16.1 Geothermal Energy
     275
     Sustainable Harvest.
@@ -4239,7 +4226,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     4: In fact, the continental share of the steady geothermal flow-29% of 44 TW-is only 13 TW and not enough to satisfy demand even at the impossible-to-realize efficiency of 100%.
     5:
     Beware of the word "just."
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     16 Small Players
     277
     engineering challenges that may limit us to half the theoretical efficiency, we would have to capture 36 TW of theoretical flow to end up at 18 TW. Now we need a theoretical efficiency of 82%, translating to Th of 1,600 K, which would be about 50 km down: deeper than the earth's crust is thick.
@@ -4265,7 +4252,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     0.006
     0.0001
     8: ...4% efficiency times 600 qBtu thermal resource for one meter
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     heat to diffuse in, so we'd have to keep moving down, year after year. This would mean completely replacing the collection network (whatever comprises it—this is all fantasy) every few years. It's ludicrous to imagine we would endeavor to go to such extremes, plowing through the deep earth to remove every scrap of thermal energy in a massive never-ending effort. Such a colossal scheme makes oil drilling seem like child's play.
     Granted, as one drills deeper, the thermal energy goes up and the efficiency increases as AT climbs. The result is quadratic, in that the energy yield 3 km down is 9 times that at 1 km down.10 At the same time, drilling gets more challenging and at some point exceeds the current state of the art. By the time the temperature reaches 150°C-which is thought of as a minimum viable temperature for traditional geothermal ventures-drilling technology runs into limitations.
     Box 16.2: There Will Be Hype
@@ -4285,7 +4272,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     ‣ magma near the surface-volcanic regions, for instance;
     ► fractured rock above the magma in which water can flow; water temperatures in excess of 180°C (under pressure);
     ‣ a caprock above the fractured rock, able to trap pressurized steam.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     The most common scheme-labeled "hydrothermal"—is to drill two holes into the ground near each other, injecting water into one and collecting pressurized steam from the other. Fractures in the rock permit water and/or steam to flow between the two holes. Alternatively, but far less common, a fluid13 can be run through a closed loop that passes through the hot medium. By either direct use of the steam in the hydrothermal case, or generating steam from the hot fluid in the closed- loop case, the resulting steam can be used to run a turbine and generator in the usual
     way.
     A newer form, called "binary" geothermal uses two fluids: water in the ground as in other schemes, but a second fluid having a much lower boiling point to make a steam analog at lower temperatures. This opens additional power generation possibilities at temperatures below 100°C, but of course will suffer the inevitable efficiency hit when Th is lower, according to Eq. 16.1.
@@ -4335,7 +4322,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     14: And electricity is only about one third of Iceland's energy demand.
     15:...~0.4% of total electricity
     [85]: U.S. Energy Inform. Admin. (2020), Electric power monthly
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     not expect geothermal to assume a large role in the energy landscape of
     tomorrow.
     16 Small Players
@@ -4352,7 +4339,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     Figure 16.1: The moon (pictured closer here to fit on page) raises bulges on the near and far side of the earth, while the earth rotates underneath, causing two high tides and two low tides each day.
     18: The sun also contributes, sometimes adding to the peaks and troughs (near new and full moon, when Earth, Moon, and Sun are arranged along a line), and sometimes moderating the tides by filing in the gaps a bit (at quarter moon phases).
     19: An aggressive global-scale tidal capture enterprise could actually increase the total tidal energy budget, which would have the side effect of pushing the moon further away, slowly, as is described in Sec. D.4 (p. 402).
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.16 Small Players
+    16 Small Players
     281
     divide the energy available by the time over which we let out the water: nominally 6 hours.20 Collecting it all, we have:
     P = &
@@ -4376,7 +4363,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     20: Six hours is a typical time between high tide and the next low tide.
     21: It has to spend half the time letting water back in as the tide flows.
     22: ... contrasted to the oscillating currents from tides
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     16 Small Players
     282
     almost 200 times as much power. And we saw that getting even a few terawatts out of wind is a challenge, globally.
@@ -4398,7 +4385,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     24: Look at pier pilings and sunken ships to get an idea.
     16.4 Wave Energy
     Waves present an interesting case to study, being composed of a continu- ous interplay between potential and kinetic energies-water particles
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     executing circular paths as they gain and lose gravitational potential energy. Meanwhile, the energy in a packet of waves travels efficiently onward, until reaching a barrier like a shoreline, where they break in a display of kinetic energy. It is hard to stare at a coastline being pounded by surf without admiring the power of nature. What if we harnessed that power?
     As a means of estimation, let's imagine sinusoidal25 waves 1 m in amplitude (peak-to-trough) arriving every 6 seconds, traveling at about 3 m/s. Crests must then be 18 m apart, since the distance between crests is their rate (3 m/s) times time (6 seconds). We call this the wavelength, symbolized by A (Greek lambda). See Figure 16.2 for the layout.
     25:
@@ -4426,8 +4413,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     pilgА2
     (16.4)
     16
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-    Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     It's not an equation to remember, just a way to keep track of the physics as we build toward a final/useful result. Next, we want to understand the
     power delivered as the waves come and come. We get a new one every At = 6 s. And we also reasoned before, in slightly different form, that At A/v, where v is the velocity of the wave: 3 m/s in our example. The power looks like:
     EGPE pilgА2 plgA2v
@@ -4455,7 +4441,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     Example 16.4.1 How much wave power arrives on the U.S. Pacific coast if the whole coastline is experiencing 1 m amplitude waves at a
     26: The velocity of near-shore waves is set only by the depth, d, of the water (v = √gd).
     We will use this 3,750 W/m figure from here on for our rough analysis, but it should be borne in mind that larger wave ampli- tude has a quadratic effect on power, and waves are not all 1 m peak-to-trough!
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     16 Small Players
     285
     wave speed of 3 m/s?
@@ -4466,7 +4452,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     We can play a crude trick by recognizing that two big clumps of connected land occupy the eastern and western hemispheres, each having an east coast and a west coast, running roughly pole to pole. So the exposed coastlines roughly ring the globe twice. Our familiar unit of length, the meter, was actually chosen to yield approximately 10,000 km from equator to pole, so it takes 40,000 km to circle the earth once, and we therefore estimate 80,000 km of wave-receiving coastline. Multiplying 3.75 kW/m by 80,000 km yields 0.3 TW, or less than 2% of global demand, if fully developed.
     3,750 W/m seemed so promising at first, especially compared to insola- tion numbers we saw in Chapter 13 that tend to be around 200 W/m2. But a huge difference here is that wave density is a linear measure (Watts per meter of coastline) versus an areal measure in the case of insolation (Watts per square meter of land). A country has far more square meters than linear meters. So wave power, even if fully developed around all the world's coastlines, could not amount to very much, and is therefore placed in the "boutique" category, along with the other occupants of this chapter.
     We have not even mentioned the technologies that can convert wave power to electricity-because what's the point? Suffice it to say that the same relative motion of magnets past coils of wire that create electrical energy in a generator can work in applications that do not spin all the way around, as is usually the case. A back-and-forth motion like one cylinder inside another, or a joint bending back and forth can be configured to generate electrical power as well.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     Table 16.3: Alternative electricity scales in the U.S.
     Solar
     Resource
@@ -4495,7 +4481,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     29: It is too reactive to survive on its own, in- stead bound in H2O and CH4, for instance.
     30: ... meaning charge and discharge en- ergy cycle
     [110]: Volkswagen (2019), Hydrogen or battery? A clear case, until further notice
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     16 Small Players
     287
     some locations are well-suited to supplement local power generation from this resource. The possibilities for terawatt-scale extraction are essentially non-existent, so tidal will remain a small player.
@@ -4511,7 +4497,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
 4. Your friend just visited a geothermal power plant, and is excited by the facts that it is environmentally clean, not intermittent like solar or wind, can last ages, totals more than twice our 18 TW budget, and it really works-seen with their very own eyes. What are the key points you might offer to temper their unvarnished enthusiasm?
    Hint: using T = 288 K, solve for Th at the target theoretical maximum efficiency, then figure out AT.
    Hint: breathe. Realized efficiency; amount of thermal power needed; thermal energy in a year; how many cubic meters; how thick for the campus area?
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
 5. What are your thoughts on whether we should "mine" geothermal heat in a way that could theoretically last hundreds or thousands of years, but not tens of thousands of years before depleting the resource? Such activity would not be strictly sustainable in the long haul, but could seem abundant for many generations. Should we care about this? Where do you land?
 6. Work out the capacity factors of geothermal installations for various
    countries and the world as a whole from the data in Table 16.2.
@@ -4522,8 +4508,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
 11. The running example for waves in the text delivers 3,750 W/m of energy along a coastline. It sounds like a lot. But if we put the 40 million residents of California along its 1350 km coastline, how many meters does each person have, and how much power from waves?
 12. Let's imagine waves hitting the entire 2,000 km Pacific coastline of the U.S. that are different from those evaluated in the text. This time, the waves have 50 m wavelength, arriving every 10 seconds, and 2 m crest-to-trough amplitude. How much power does the coast receive under these more active conditions?
     32:
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-    Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     16 Small Players
     288
     so that the five add to 100%
@@ -4599,7 +4584,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     38 18 10
     இககன் ப
     . 851
-    17 Comparison of Alternatives
+## 17 Comparison of Alternatives
     7
     8
     83
@@ -4611,7 +4596,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     17.1 The Alternative Energy Matrix
     In exploring potential replacements for fossil energy, it soon becomes apparent that fossil fuels are unparalleled in many respects. Even though
     Imagery from the groundbreaking movie The Matrix, by J. Rue.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     17.1 Alternative Energy Matrix. 289 17.2 Individual Tally
     17.3 Student Rankings
     17.4 Upshot: Fossil Fuel Gap 17.5 Problems . .
@@ -4637,7 +4622,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     5: This may be too generous, since perfor- mance will depend on the propulsion mech- anism: propellers?
     Electric flight is not impossible. Model air- planes, drones, and other cute demonstra- tions may get airborne. But this is not at all the same thing as practical air travel!
     6: The criteria are defined by the author: this method of comparison is not common practice even if something like it perhaps should be.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.17 Comparison of Alternatives 291
+    17 Comparison of Alternatives 291
     sources are coded blue, while niche ideas like hydroelectricity that cannot conceivably fulfill a quarter of global demand are colored red. Intermediate players that can satisfy a substantial fraction of demand are coded yellow.
     ► Difficulty. This field tries to capture the degree to which a resource brings with it large technical challenges. How many PhDs does it take to run the plant? How intensive is it to maintain an operational state? This one might translate into economic terms: difficulty serves as a crude proxy for expensive.
     ► Intermittency. Colored blue if the source is rock-steady or avail- able whenever it is needed. If the availability is beyond our control, then it gets a yellow at least. The possibility of substantial under- production for a few days earns red.
@@ -4649,7 +4634,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     ► Backyard. Is this something that can be used domestically, in someone's backyard, rooftop, or small property, managed by the individual? Distributed power adds to system resilience. Efficiency. Over 50% earns blue. Below about 10% gets red. It is not the most important of criteria, as the abundance score implicitly incorporates efficiency expectations, but we will always view low efficiency negatively.
     Environmental impact has no column in this matrix, although the "acceptance" measure captures some of this. Climate change is an obvious negative for fossil fuels, but not so much as to have resulted in curtailed global demand thus far (see Fig. 8.2; p. 118). None of the alternatives presented here contribute directly to carbon dioxide emissions, earning an added advantage for all entries.
     Each energy source can be assigned a crude numerical score, adding one
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     Storage can offset this concern, at increased cost. Seasonal storage is particularly imprac- tical, which hampers solar resources.
     7: For instance, biofuels could be used to make electricity, but renewable liquid fuels are too rare to squander in this way.
     See additional discussion on page 292 and in Sec. D.3 (p. 397).
@@ -4693,7 +4678,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     Transportation needs are hard to satisfy. Together with the fact that oil production will peak before natural gas or coal, transportation may appear as the foremost problem to address. Electric cars are an obvious- albeit expensive solution. Besides being unclear how we might all afford11 electric cars, the technology has a number of drawbacks relative
     10: Because the list is ranked by overall score, those near the bottom are disfavored as sources of electricity, likely correlating with economic disadvantage.
     11: Battery cost remains high: about $10,000 per 100 miles (160 km) of range.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     17 Comparison of Alternatives
     abundance
     difficulty
@@ -4817,7 +4802,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     Few of the options face serious barriers to acceptance, especially when energy scarcity is at stake. Some energy sources are available for individ- ual implementation, allowing distributed power generation as opposed to centralized resources. For example, a passive solar home having PV panels, wind power, and some method to produce liquid fuels on-site would satisfy most domestic energy needs in a self-sufficient manner.
     Cost is not directly represented in the matrix, although the difficulty rating may serve as an imperfect proxy. In general, the alternative meth- ods have difficulty competing against cheap fossil fuels. It is not yet clear whether the requisite prosperity needed to afford a more expen- sive energy future at today's scale will be forthcoming, as prosperity historically has been closely tied to the availability of natural resources,
     12: A 220 V 40-Amp circuit, which is on the high end of practicality for a residence, will charge a single car at a rate of about 20 miles of range per hour.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     and these are precisely what our populated planet strains the most.
     17 Comparison of Alternatives
     294
@@ -4832,7 +4817,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     translating to about 10-15 GW of av- erage power production added per year
     14:...especially sun-saturated deserts
     [112]: Pickard (2012), "A Nation-Sized Battery?"
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     17 Comparison of Alternatives 295
     Hydroelectric (Chapter 11): Despite impressive efficiency, hydroelectric potential is already well developed in the world and is destined to remain a sub-dominant player on the scale of today's energy use. It has seasonal intermittency,15 does not directly provide heat or transport, and can only rarely be implemented on a personal scale. Acceptance is fairly high, although silting and associated dangers-together with habitat destruction and the forced displacement of people-do cause some opposition to expansion and have resulted in removal of some hydroelectric facilities.
     Biofuels from Algae (Sec. 14.3.2; p. 234): Because algae capture solar energy-even at less than 5% efficiency-the potential energy scale is enormous.16 Challenges include keeping the plumbing clean, possible infection,17 contamination by other species, and so on. At present, no algal sample that secretes the desired fuels has been identified or engineered. No one knows whether genetic engineering will succeed at creating a suitable organism. Otherwise, the ability to provide transportation fuel is the big draw. Heat may also be efficiently produced, but electricity production would represent a misallocation of precious liquid fuel.
@@ -4844,14 +4829,14 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     17: ... for example, a genetic arms race with evolving biological phages
     [70]: Castro et al. (2011), "Global Wind Power Potential: Physical and Technological Limits"
     [113]: Andreiadis et al. (2011), "Artificial Photosynthesis: From Molecular Catalysts for Light-driven Water Splitting to Photoelectrochemical Cells"
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     17 Comparison of Alternatives 296
     Tidal Power (Sec. 16.2; p. 280): Restricted to select coastal locations, tidal power will never be a large contributor to global energy. The resource is intermittent on daily and monthly scales but in a wholly predictable manner. Extracting tidal energy is not terribly hard-the efficient technology is similar to that found in hydroelectric installations- and has been demonstrated in a number of locations around the world.
     Conventional Fission (Sec. 15.4.4; p. 255): Using conventional uranium reactors and conventional mining practices, nuclear fission does not have the legs for a marathon. On the other hand, it is certainly well demonstrated and has no intermittency problems-except that it can- not accommodate intermittency on the demand side (variable load). Compared to other options, nuclear power qualifies as a high-tech approach-meaning that design, construction, operation, and emer- gency mitigation require more advanced training and sophistication than the average energy producer.
     Acceptance is mixed. Germany and Japan plan to phase out their nuclear programs by 2022 and the 2030s, respectively, despite being serious about CO2 reduction. Public unease also contributed to a halt in licensing new reactors in the United States from 1978-2012. Some opposition stems from unwarranted-yet no less real-fear, sustained in part by the technical complexity of the subject. But some opposition relates to political difficulty surrounding proliferation and the onerous radioactive waste problem that no country has yet solved to satisfaction.
     Uranium Breeder (Sec. 15.4.4.2; p. 258): Extending nuclear fission to use plutonium synthesized from 238U, which is 140 times more abundant than 235U, gives uranium fission the legs to run for at least centuries if not a few millennia, ameliorating abundance issues. Breeding has been practiced in military reactors, and indeed some significant fraction of the power in conventional uranium reactors comes from incidental synthesis of plutonium (239Pu) from 238U. But no commercial power plant has been built to deliberately tap the bulk of uranium for power production. Public acceptance of breeder reactors will face even higher hurdles because plutonium is more easily separated into bomb material than is 235U, and the increase in radioactive waste from an expansion of nuclear power causes trouble.
     Thorium Breeder (Box 15.5; p. 260): Thorium is more abundant than uranium and only has one natural isotope,18 qualifying it as an abundant resource. Like all nuclear options, thorium reactors fall into the high-tech camp and include new challenges19 that conventional reactors have not faced. A few small-scale demonstrations have been carried out, but nothing in the commercial realm; bringing thorium reactors online at scale is probably a few decades away, if it happens at all. Public reaction will likely be similar to that for conventional nuclear: not a deal breaker, but some resistance on similar grounds. It is not clear whether the novelty of thorium will be greeted with suspicion or enthusiasm. Although thorium also represents a breeding technology (making fissile
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     18:
     ... thus enrichment is not a bottleneck
     19: ... such as a liquid sodium medium for the reactor core
@@ -4862,7 +4847,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     Geothermal Heating, Steady State (Sec. 16.1.1; p. 276): Sustainable extraction of geothermal heat-replenished by radioactive decay within the Earth offers far less total potential, coming to about 13 TW of flow if summed across all land. And to get to temperatures hot enough to be useful for heating purposes, boreholes at least 1 km deep would be required. It is tremendously challenging to cover any significant fraction of land area with thermal collectors 1 km deep. As a result, a yellow score for the abundance factor may be generous. To gather enough steady-flow heat to provide for a normal U.S. home's heating demand, the collection network would have to span a square 200 m on a side at depth, which is likely unachievable.
     Biofuels from Crops (Sec. 14.3; p. 230): While corn ethanol may not even be net energy-positive, sugar cane and vegetable oils as sources of biofuel fare better. But these sources compete with food production and arable land availability. So biofuels from crops can only graduate from "niche" to moderate scale in the context of plant waste or cellulosic conversion. The abundance and demonstration fields are thus split: food crop energy is demonstrated but severely constrained in scale. Cellulosic matter becomes a potentially larger-scale source but is undemonstrated.2 Growing and harvesting annual crops on a relevant scale constitutes a massive, perpetual task and thus scores yellow in difficulty-also driving down EROEI.
     22
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     20:... making it deadly to rogue actors
     op-
     21:...especially given that many easier tions are available for producing electricity
@@ -4876,7 +4861,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     23:
     ... a few hundred meters down
     24:... far from demand locations
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     17 Comparison of Alternatives
     D-T Fusion (Sec. 15.5; p. 264): The easier of the two fusion options, involving deuterium and tritium, represents a longstanding goal under active development since 1950. The well-funded international effort, ITER, plans to accomplish a 480 second pulse of 500 MW power25 by 2035. This defines the pinnacle of hard. Fusion brings with it numerous advantages: enormous power density; only moderate radioactive waste products; and abundant deuterium.26 Fusion would have no intermit- tency issues, can directly produce heat and derivative electricity, but like the others does not directly address transportation. The non-existent tritium can be knocked out of lithium with neutrons, and even though we are not awash in lithium, we have enough to last many thousands of years in the absence of demand for batteries. We might expect some public opposition to D-T fusion due to the necessary neutron flux and associated radioactivity. Fusion is the highest-tech energy we can envi- sion at present, requiring a team of well-educated scientists/technicians to run-meaning don't plan on building one in your backyard, unless you can afford to have some staff PhDs on hand.
     D-D Fusion (Sec. 15.5; p. 264): Replacing tritium with deuterium means abundance of materials is no concern whatsoever for many billions of years. As a trade, it's substantially harder than D-T fusion.27 D-D fusion requires higher temperatures, making confinement that much more difficult. It is for this reason that we make a single exception to the scoring scheme and give D-D fusion a -2 score for difficulty.
@@ -4887,7 +4872,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     29
     28
     Table 17.1 summarizes the outcome of this experiment, in which we see broad agreement with the nominal uniform-weighting scheme, mostly serving to downgrade the scores of some entries, and only promoting one (thorium breeding). Note that the exercise preserved the blue/yellow/red color scheme of the figures and only changed relative
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+    
     299
     25: Compare to a real power plant: years- long "pulse" at 3,000 MW thermal power.
     26: ... though no natural tritium
@@ -4963,7 +4948,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     expose gaps that we might not otherwise appreciate;
     bring attention to the complexity of energy choices: it's more than how many terawatts are available.
     One lesson is that a transition away from fossil fuels does not appear at this time to involve superior substitutes, as has been characteristic of our energy history. The alternatives might be good enough, even if not as good as what we are accustomed to using. Fossil fuels represent a generous one-time gift from the earth. From our current vantage point, it is not clear that energy-vital to our economic activity-will be as cheap, convenient, and abundant as it has been during our meteoric ascent to the present. If not for finite supply and the CO2 problem, fossil fuels would continue to satisfy our energy needs-shifting focus to various other global-scale
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.30
+    30
     17 Comparison of Alternatives 301
     problems resulting from human pressures on the planet. Because of the downsides of fossil fuels and the inferiority of the substitutes on a number of fronts, it is unclear how we might patch together an energy portfolio out of the alternatives that allows a continuation of our current lifestyle. Even if the physics allows it, many other practical and economic barriers may limit options or successful implementations.
     Adding to the hardship is the fact that many of the alternative energy technologies-solar, wind, nuclear power, hydroelectric, and so on- require substantial up-front energy investment to build and deploy. If society waits until energy scarcity forces large-scale deployment of such alternatives, it risks falling into an "energy trap" in which aggressive use of energy needed to develop a new energy infrastructure leaves less available to society in general-a political non-starter. If there is to be a transition to a sustainable energy regime, it is best to begin it now. 31
@@ -4981,7 +4966,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
    30: ... which could conceivably get only worse if humans "solved" energy, effectively unconstrained
    See Sec. 18.3 (p. 310) for more discussion of the energy trap.
    31: We can't count on better options show- ing up, and may need to get busy migrating to available choices. Fossil fuels not only drive climate change, but create an addic- tion that is best tapered slowly rather than risk chaos and war if we remain completely reliant on a dwindling crucial resource.
-   2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.
+   
    17 Comparison of Alternatives 302
 5. Why is it so hard to satisfy transportation needs? What is it about fossil fuels that has made transportation so much easier than electrified transport would be?
 6. Verify-showing work-the claim on page 292 that a car refueling at a gasoline station is transferring energy at a rate in the neigh- borhood of 15 MW if the transfer rate is about 6 gallons (23 L) per minute32 and gasoline contains about 34 MJ per liter.
@@ -4998,5 +4983,4 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
     Different students may get different results, but this will provide some appreci- ation for considerations that enter the cre- ation of such a scoring scheme.
     34: A category might be worth 2 points, 0.3 points, 5 points, or whatever you wish; need not add to 10
     First, make sure you can reproduce the scor- ing in the present table based on all weights being 1.0.
-    2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.;
-    Freely available at: https://escholarship.org/uc/energy_ambitions. 
+     

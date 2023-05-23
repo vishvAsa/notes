@@ -84,7 +84,7 @@ Reciprocal
 ~3 
 6: This is where "blurry" numbers are use- ful: 8 10 if you squint. 
 Study Table A.1 for each of these statements to see how it might fit in. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.Americans is roughly 15%. A month is about 8% (0.08) of a year. Six goes into 100 a little more than 16 times. Four quarters make up a dollar. π fits into 10 about 7 times. Each student in a 30-student class represents about 3% of the class population. 
+Americans is roughly 15%. A month is about 8% (0.08) of a year. Six goes into 100 a little more than 16 times. Four quarters make up a dollar. π fits into 10 about 7 times. Each student in a 30-student class represents about 3% of the class population. 
 Some students view math and numbers as dangerous, unwelcoming territory-maybe like deep water in which they might drown. But think about dolphins, who not only are not afraid to immerse themselves in deep water (numbers), but frolic and play on its surface. Numbers can be that way too: flinging them this way and that to see that a calculation makes sense in lots of different ways. Humans are not natural-born swimmers, but we can learn to be comfortable in water. Likewise, we can learn to be quantitatively comfortable and even have fun messing around. So get your floaties on and jump in! 
 A.2 Forget the Rules 
 361 
@@ -99,7 +99,7 @@ Let's step aside for a moment to explore how rules of language are obvious to us
 8: Except, perhaps we would learn that we inexplicably share the word "sock." 
 9: 
 . acknowledging that this exercise may be less intuitively obvious to non-native English speakers 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 A.3 Areas and Volumes 362 
 about how letters might be arranged in relation to each other. We recognize the nonsense without being able to cite specific rules. Math can work the same way: we can rely on intuition to rule out nonsense. 
 How about this collection of four words: that, how, happen, did. Now arrange them into a single sentence, ignoring punctuation. Notwithstanding how Yoda might arrange things, only one of the 24 possible arrangements10 makes a single valid sentence. Have you intuited what it is? How did that happen? Without conscious thought, you understand the underlying rules of grammar well enough to see the answer without having to sift through all the combinations. Math can work like that, too. 
@@ -118,7 +118,7 @@ Volume is a little harder to visualize, but again the sphere will have a volume 
 . literally cutting corners 
 12: This path would look like a line across 
 the square, traversed twice as a there-and- back trip. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 volume is about half that of the cube, so 4r3. But where would a л go? It's always a multiplier in these situations, so we can harmlessly throw in a pi/3 ~ 1 factor to get a volume 
 r3. 
 The point is that forgetting the exact formulas is not fatal: just back up to a more familiar setting and build out from there. For cylinders, just combine elements of circular and rectangular geometries to realize that the volume is the area of the circle times the height13 of the cylinder. External surface area is twice the areas of the end-caps (each лr2) plus the perimeter of the circle times the height-as if rolling out the skin into a rectangle and calculating its area. 
@@ -143,7 +143,7 @@ Figure A.1 shows the first two options in Eq. A.1 graphically. We can either sli
 Let's formulate rules about multiplication of fractions based on stuff we know (intuition). What is the rule for the general multiplication of two fractions, expressed symbolically so we can substitute any number 
 14: 
 15: 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 as expressed in the first paragraph 
 ... all correct, and depends on context of the problem at hand 
 A.4 Fractions 
@@ -200,7 +200,7 @@ How can our intuition assist us in figuring out addition and subtraction of frac
 3 
 (A.5) 
 Hopefully, the first two statements in Eq. A.5 are apparent enough. The 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 last one bounds the answer by what you already know. Since is larger than 1.17 So adding + must be larger than += 2. By similar logic, since one-third is smaller than one-half,18 their sum must be smaller 
 than 1. 
 Adding fractions like and is where common denominators come in. We can add numerators only if the fractions share the same denominator. We never add denominators. We can't replicate the middle example in Eq. A.5 by adding numerators and denominators, or we would get the nonsense answer? , rather than 2. 
@@ -237,7 +237,7 @@ xn
 =? 
 (A.6) 
 The theme of this appendix is: discover the rule through your own experimentation. Tackling in stages, what is (74)3? We can write out 74 as 7.7.7.7 easily enough. If we cube this number, it's the same as 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Notice that the the symbols used in this equation are just stand-ins for numbers, and have no intrinsic significance-whether we use n or p or a for an exponent is irrelevant. For that matter, x is not special either and we could have used a hexagon to stand in for the base in these relations, as a symbolic placeholder. 
 A.6 Fractional Powers 
 366 
@@ -267,7 +267,7 @@ We can get a hint from Eq. A.8. Consider, for example, 52. 52. We know that we c
 x2 = √x. 
 (A.10) 
 In principle, then, we could approach 31.7 by taking the tenth-root of 3 and raising it to 17th power: 31.7 = (3)17 = 30. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 More generally, in Chapter 1, we saw that we can represent any base, b, raised to some arbitrary number, n, as: 
 bn = en lnb = 10n log10 b 
 (A.11) 
@@ -282,7 +282,7 @@ the basics.
 Example A.7.1 We can also apply the rule of multiplying exponenti- ated quantities covered in Eq. A.8. So 3.2 × 103 times 2 × 102 can be written out as 3.2 2 103 102 (order does not matter), which we can recognize as 6.4 x 105. 
 What about division: 2.4 x 1013 divided by 8 x 107? Several ways to approach this might be instructive. Let's ignore the pre-factors (2.4 and 8) for now and focus on the powers of ten. The standard practice is to subtract the exponent in the denominator from that in the numerator: 13 - 7 = 6 in this case, so that we are left with 24 × 106. We could also represent the 107 in the denominator as 10-7 in the numerator, as per Eq. A.9. Now we just add the exponents to get the same result. Or we could invert the 8 x 107 to become 0.125 x 10-7 and multiply this by 2.4 x 1013 
 But I want to present the way I would do it to make it easy enough 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 A.7 Scientific Notation 
 367 
 to perform in my head. Recognizing that 24 is divisible by 8, I am strongly tempted to re-express the first number as 24 × 1012. See what I did there? I multiplied the prefactor by 10, and decreased the exponent by one accordingly to end up at the same place. Now I have 24 x 1012-7, which reduces to 3 x 105. All methods get the same answer,23 which turns into another lesson that math provides many paths to the same answer, which can be used to check and reinforce. 
@@ -297,7 +297,7 @@ A.8 Equation Hunting
 24: ... perhaps within some context or set of assumptions 
 25: 
 . which in this case is not a heavy lift 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 A.9 Equation Manipulation 
 369 
 A.9 Equation Manipulation 
@@ -339,7 +339,7 @@ b
 - 
 Whatever you want to do, just do it to both sides. 
 It's not always so straightforward. Sometimes we have to "undo" or "invert" a mathematical function. Consider for instance a familiar prob- lem: find the side length, a, of a right triangle whose other side is b and hypotenuse c. We know from the Pythagorean Theorem that a2+b2 = c2, so that a2 = c2b2. But we want a, not a2. How do we "undo" the square? Take a page from Eq. A.7. We want a to the power of 1, so we want to raise a2 to whatever power will neutralize the 2 via multiplication. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Looks like (square root) will do the trick. But we need to treat both sides: 
 a = 
 = (a2)2 = √a2 = √c2 = b2 
@@ -368,7 +368,7 @@ If we fill a room whose floor area is 10 square meters with water one meter deep
 10m2 1 m = 10.1 m2 m = 10 m3. 
 . 
 So we multiply the meters together just like we do the numbers, following the same rules but acting as if they are variables and keeping it symbolic. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.More complicated arrangements follow the same rules. For example, the force of drag30 on an object moving at speed v through a medium of density p is Fdrag = CDApv2, where A is the frontal (cross-sectional) area of the object and cp is the dimensionless drag coefficient.31 The dimensions of area are m2; density is kg/m3 (mass per volume), and velocity is m/s (distance over time). The whole arrangement therefore has dimensions: 
+More complicated arrangements follow the same rules. For example, the force of drag30 on an object moving at speed v through a medium of density p is Fdrag = CDApv2, where A is the frontal (cross-sectional) area of the object and cp is the dimensionless drag coefficient.31 The dimensions of area are m2; density is kg/m3 (mass per volume), and velocity is m/s (distance over time). The whole arrangement therefore has dimensions: 
 A.10 Units Manipulation 371 
 30: This choice is intentionally unfamiliar and complicated-looking to demonstrate that units can help bring a sense of order and correctness even in alien contexts. 
 31: The drag coefficient, cp, is usually in the 
@@ -405,7 +405,7 @@ J
 year person 
 Oops, the units are helping us here by reminding us that we need to multiply by the population (3.3 x 108 persons) to get the answer 
 33: E.g., 24 hours and 1 day describe the same time interval. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 we sought.34 In this case, we end up with 1.04 × 1020 J/year, which is 
 what we were after. 
 We just carried out unit conversions (in time) in Example A.10.2, when we multiplied by constructs like 60 s/1 min. The key to unit conversions is to arrange a fraction expressing the same physical thing in both the nu- merator and denominator, just using different units. So we're looking for equivalent measures. Most of the time, one of them will be 1, numerically, as in the following example. 
@@ -431,7 +431,7 @@ S
 kg.° C 
 It looks like if we multiply by the mass in kg and multiply by the temperature difference, we're home free. Doing so results in 5,000 seconds. Whenever possible, try to extract the most context/intuition out of an answer as you can. Does 5,000 seconds mean a lot to you? Divide by 60 (or multiply by 1min) to get 83 minutes. Better. Or another factor of 60 and we're at 1.4 hours. That seems like the most natural 
 60 s 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 A.11 Just the Start 
 373 
 way 
@@ -458,13 +458,12 @@ m.° C
 which is about the output of one space heater. 
 A.11 Just the Start 
 It is well beyond the scope of this book to engage in an exhaustive review of math concepts. Hopefully what has been covered provides a 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 A.11 Just the Start 
 374 
 useful foundation. The key lesson is that the knowledge and intuition students already hold in their heads can be leveraged effectively to recreate forgotten rules of math. Just remember: it all makes sense and hangs together. Creating customized simple problems39 allows a way to make sure the math rules being applied replicate the right answer. If not, a few tests can often get things back on the right track. By doing so, students can claim greater personal ownership of the math, and have a better internal mastery of its workings. 
 39: ... whose answers are already known or can be figured out 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Chemistry Primer/Refresher 
 B 
 This book does not rely heavily on past knowledge of chemistry, but it is helpful to know a few basic elements that play a role in fossil fuels, biological energy, and climate change. This section could act as a refresher, or a first exposure to the fundamentals. 
@@ -670,7 +669,7 @@ B.2 Stoichiometry
 Chemistry starts by counting atoms and molecules. Since molecules are comprised of integer numbers of atoms of specific types, the counting fun does not stop there. When atoms and molecules react chemically, the atoms themselves are never created or destroyed-only rearranged. This means that an accurate count of how many of each atom type are present at the start, a proper count at the end should yield exactly the same results. 
 Before we get into balancing chemical reactions, we need to know some- thing about the scheme for labeling chemical compounds. A compound is an arrangement of atoms (representing pure elements) into a molecule. For instance, water is made of three atoms drawn from two elements: hydrogen and oxygen. Two atoms of hydrogen are bonded to an atom of oxygen to make a molecule of water. We denote this as H2O. 
 Examples of a few familiar atoms and molecules are presented in Figure B.2. Each one is named at the top. Below each one appears the bond structure in the case of molecules and the chemical "formula" in all cases. Notice that hydrogen atoms always have a single bond (single 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 hydrogen 
 atom 
 oxygen 
@@ -707,7 +706,7 @@ Example B.2.1 Let's figure out a tougher formula, pertaining to the combustion o
 C2H6O+?O2 →?CO2 + ?H2O 
 9: Two variants are shown for ethanol. The first is a no-nonsense census of the atoms, while the second pulls one of the H symbols to the end to call attention to the OH (hy- droxyl) tagged onto the end of the molecule. In either case, the formula specifies 2 car- bons, 6 hydrogens, and 1 oxygen, in total. 
 10: For example, 2H2O has a total of 4 hy- drogen atoms and 2 oxygens. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 + 
 C+02 → CO2 
 + 
@@ -729,7 +728,7 @@ The treatment above cast chemical reactions at the most fundamental level of ind
 Thinking of the chemical formulas in terms of moles makes assessment of the masses involved more intuitive. Recall that one mole of carbon 
 13: ... also called coefficients 
 14: To be explicit, if a formula is balanced for individual molecules, then it should also be balanced if doubling the "recipe," or tripling, multiplying by 10, or even by 6 × 1023. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 atoms is exactly 12 grams, that hydrogen is 1 g, and oxygen is 16 g. That means one mole of water molecules (H2O) will be 18 g (16 + 1 + 1), one mole of carbon dioxide (CO2) is 44 g (12 + 16 + 16), and one mole of ethanol (C2H6O) is 46 g (12 + 12 + 1 + 1 + 1 + 1+1+1+16). We refer to this figure as the molar mass, and standard periodic tables display the molar masses for each element: the mass of one mole of the substance. The unit is typically grams per mole, or g/mol. 
 Example B.2.2 How much mass of CO2 will emerge from the burning of 1 kg of ethanol? We start with the formula we worked out in Example B.2.1: 
 C2H6O302 → 2CO2 + 3H2O 
@@ -745,7 +744,7 @@ B.3 Chemical Energy
 Atoms (elements) can bond together to make molecules (compounds). The bond-formed by outer electrons within the atoms can be strong or weak. It takes energy15 to pull apart bonded atoms. It stands to reason that when two atoms form a new bond, energy is released-usually as vibrations that we know as heat. In a typical reaction, some bonds are broken and other new ones formed. If the balance is that the new bonds are stronger than the broken bonds, energy will be released. Otherwise, energy will have to be put into the reaction to allow it to happen. 
 In the context of this book, chemical energy is typically associated with combustion (burning) a substance in the presence of oxygen. This is true for burning coal, oil, gas, biofuels, and firewood. In a chemistry class, one learns to look up the energetic properties of various compounds in tables, combining them according to the stoichiometric reaction formula 
 15: Recall that energy is a measure of work, or a force times a distance. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 to ascertain a net energy value. We're going to take a shortcut to all that, by introducing the following approximate formula for combustion 
 energy. 
 The approximate energy available from the compound CcHhOoNn where the subscripts represent the number of each atom in the molecule to be burned-is: 
@@ -796,7 +795,7 @@ CH4
 84 16 0 
 75 25 0 
 The resulting calculated energies are definitely in the right (expected) ranges. Notice that the "winners" have little or no oxygen as a percentage of the total molecular mass. The lower-energy entries in Table B.1 are more than half oxygen, by mass. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Table B.1: Example approximate chemical energies. The results of the approximate formula are compared to true values (favor- ably). Fractional mass in carbon, hydrogen, and oxygen also appear-emphasizing the penalty for molecules already carrying oxy- gen.B.4 Ideal Gas Law 
 381 
 B.4 Ideal Gas Law 
@@ -833,7 +832,7 @@ KB = 1.3806 × 10-23
 (B.5) 
 Notice that N, the number of particles, and n, the number of moles, differs simply by a factor of Avogadro's number, NA = 6.022 x 1023. Indeed, if we multiply NA by kв, we get 8.314, and are back to R.22 
 22: The units work, too, since NA effectively has units of a number (of particles) per mole. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 B.4 Ideal Gas Law 
 382 
 Example B.4.2 Gas is stored at high pressure at room temperature in a metal cylinder, at a pressure of about 200 atmospheres.23 The cylinder is designed to meet a safety factor of 2, meaning that it likely will not fail until pressure reaches 400 atmospheres. If a fire breaks out and the cylinder heats up, the pressure will rise. How hot must the gas get before the cylinder may no longer be able to hold the pressure (assuming no fire damage to the cylinder itself)? 
@@ -847,8 +846,7 @@ This is an example where internalizing the ideal law for what it means, or what 
 gas says is more important than treating it like a recipe for cranking out problems. Don't just treat equations as mechanical objects: learn what it is they have to say! 
 24: The gas is not leaking out, and the cylinder does not change size-at least not significantly—as it warms. 
 25: That's one of the things Eq. B.4 is trying to say, beneath all the bluster. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Selected Answers 
 C 
 Numerical answers are given as ranges or other hints, meant to facilitate checking for gross departures from the right track, without revealing the precise answer so that shortcuts are discouraged. Questions for which the answer is already known (questions asking to verify an answer), easily validated in the text, or that are a matter of original thought or opinion may not be included here. 
@@ -1090,7 +1088,7 @@ Chapter 10
 13. Look for crazy-big input 
 14. Between 0.5-1 gallon 
 15. More than 4,000x 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 C Selected Answers 
 388 
 Chapter 11 
@@ -1137,7 +1135,7 @@ Chapter 12
 7. Comparable to the height of Mt. Everest 
 8. Around about 8 times 
 9. Follow the cube... 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 C Selected Answers 
 389 
 Chapter 13 
@@ -1370,7 +1368,7 @@ D.2 Cosmic Energy Conservation
 Sec. 5.2 (p. 69) discussed the foundational principle of the conservation of energy, claiming that the principle is never violated except on cosmic scales. Besides elaborating on that point, this section follows the story of energy across vast spans of time as our sun forms and ultimately delivers energy to propel a car. We also clarify what it means for energy to be "lost" to heat. 
 393 
 1: ... much as the sun, another plasma is opaque: we only see light from its outer surface 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 D.2 Cosmic Energy Conservation 
 394 
 D.2.1 Cosmological Exception 
@@ -1383,7 +1381,7 @@ The insight is that these symmetries imply conservation laws. Time symmetry dict
 Great. As far as we know, the latter two are satisfied by our universe. To the best of our observational capabilities, the universe appears to be homogeneous (the same everywhere) and isotropic (the same in all directions). Yes, it's clumpy with galaxies, but by "same," we mean that physics appears to act the same way. Therefore, substantial observa- tional evidence supports our adopting conservation of momentum and conservation of angular momentum as a fact of our reality. 
 But time symmetry is a problem, because the universe does not appear to be the same for all time. It appears to have emerged from a Big Bang (see Section D.1), and was therefore much different in the past than it is now, and continues to change/evolve. An experiment to measure the effective temperature of the Cosmic Microwave Background is enough to establish one's place on the timeline of the cosmic unfolding. 
 As a consequence, conservation of energy is not strictly enforced over cosmological timescales. When a photon travels across the universe, it "redshifts," as if its wavelength were being stretched along with the expansion of the universe. Longer wavelengths correspond to lower energy. Where did the photon's energy go? Because time symmetry is broken in the universe, the energy of the photon is under no obligation to remain constant over such timescales. Deal with it, the universe says. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 D.2 Cosmic Energy Conservation 395 
 On timescales relevant to human activities, conservation of energy is extremely reliable. One way to put this is that the universe is 13.8 billion years old, or just over 1010 years. So in the course of a year, physics would allow an energy change by one part in 1010, or in the tenth decimal place. Generally, this is beyond our ability to distinguish, in practical circumstances. 
 But violations are even more restricted than that. A photon streaming across the universe is in the grip of cosmic expansion and bears witness to associated energy changes. But a deposit of oil lying underground for 100 million years is chemically bound and not "grabbable" by universal expansion, so is not "degraded" by cosmic expansion. In the end, while we acknowledge that energy conservation is not strictly obeyed in our universe, it might as well be for all practical purposes. Thus, this section amounts to a tiny asterisk or caveat on the statement that energy is always conserved. 
@@ -1401,7 +1399,7 @@ The photons eventually make it out of the opaque plasma of the star, and stream 
 via E = mc2; see Sec. 15.3 (p. 246) 
 6: We call this photosynthesis. 
 7: To the extent that energy is "lost" in any of these exchanges-operating at < 100% efficiency-we should recognize that the missing energy just flows into other paths, generally into heat. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 D.2 Cosmic Energy Conservation 396 
 One day, a silly human digs up the oil and combusts it with oxygen, converting chemical energy to thermal energy in a contained fireball explosion. The thermal energy is used to produce kinetic energy of a piston in a cylinder, transmitted mechanically to wheels that in turn propel a car along a freeway. 
 The car climbs a mountain, converting chemical energy in the fuel into gravitational potential energy via the same thermal-to-mechanical chain described above. Along the way, kinetic energy is given to the air, thermal energy is given to the environment by the hot engine, and brakes get hot as the kinetic energy of the car is converted to heat via friction as the car comes to a stop. But the car does not fully stop in time before tipping over a cliff and giving up its gravitational potential energy to kinetic energy as the car plummets and picks up speed. 
@@ -1417,7 +1415,7 @@ energy.
 When a book slides across a floor, it gives up its kinetic energy to heat caused by friction in the floor-book interface. When a car applies brakes and comes to a stop, a very similar process heats the brake pads and rotors. As a car speeds down the road, it stirs the air and also experiences friction in the axle/bearings and in the constant deformation of the tire as its round shape flattens on the road continuously. The stirred air swirls around in eddies that break up into progressively smaller ones 
 10: In this way, we can make an explosion or fireball do useful work as in dynamite, internal combustion, or a coal-fired power 
 plant. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 D.3 Electrified Transport 
 397 
 until at the millimeter scale viscosity (friction) turns even this kinetic motion into randomized motion (heat). 
@@ -1438,7 +1436,7 @@ assessment.
 ... 
 14: 
 beware of the word "just," often hid- ing lack of familiarity 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Box 13.3 (p. 212) indicated that direct drive of cars and airplanes from solar energy is impractical: while it may work in limited applications, solar power is too diffuse to power air and car travel as we know it. 
 Thus electrified transport becomes all about storage, generally in bat- teries. Several times in the book, the energy density of gasoline was compared to that of battery storage. In rough numbers, gasoline delivers about 11 kcal/g, working out to ~13 kWh/kg in units that will be useful to this discussion. Meanwhile, lithium-ion batteries characteristic of those found in cars15 have energy densities about one-hundred times 
 smaller. 
@@ -1453,7 +1451,7 @@ Box 17.1 (p. 290) already did the work to evaluate the feasibility of powering t
 Keeping the same 15 ton17 "fuel" mass, but now at 0.2 kWh/kg results in a 3,000 kWh battery capacity. The factor-of-twenty energy reduction per mass results in ranges down from 4,000 km via jet fuel to 200 km on battery, which is a two-hour drive, effectively. Charging a 3,000 kWh battery in the 30 minutes it typically takes for a plane to turn around-in efficient operations, anyway-would consume 6,000 kW, or 6 MW of power, which is about the same as the average electricity consumption of 5,000 homes. 
 We will keep track of kWh per kilometer as a useful metric for trans- portation efficiency, putting it all together at the end (Section D.3.7). In the case of air travel, it's 3,000 kWh to go 200 km, or 15 kWh/km. On a per-passenger basis, 150 passengers in the airplane results in 0.1 kWh/km/person. 
 17: One metric ton is 1,000 kg, and is often spelled tonne. Here, ton is used to mean metric ton, which is only 10% larger than the Imperial "short ton." 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 D.3 Electrified Transport 
 399 
 D.3.2 Shipping 
@@ -1474,7 +1472,7 @@ A solution would be smaller batteries and more frequent charging stops possibly 
 22:...not using 100% of capacity to leave some prudent reserve 
 23: 
 density, in unusual units; equivalent to ~0.75 kg/L 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 It is not impossible24 to electrify long-haul trucking, but neither is it free of significant challenges. Certainly it is not as easy and convenient as fossil fuels. 
 D.3 Electrified Transport 400 
 24: Indeed, Tesla offers a Semi capable of 500 mile range, but see this careful analysis [129] on the hardships. 
@@ -1495,7 +1493,7 @@ instance.
 28: . satisfying the 80% safety limit for a 15 A circuit 
 29: 
 3.3 days! 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.D.3 Electrified Transport 
+D.3 Electrified Transport 
 401 
 Volts 
 Amps circuit kW 
@@ -1538,7 +1536,7 @@ which is much higher than typical parking lot chargers that are more in line wit
 32:...like 200 homes 
 33:...higher energy density (better) batter- ies will experience a larger temperature rise based on less mass to heat up per amount of energy injected 
 34: the equivalent electricity consump- tion of 10,000 homes or a medium-sized college campus 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 D.4 Pushing Out the Moon 402 
 D.3.6 Wired Systems 
 To finalize the progression of hardest-to-easiest electrified transporta- tion, we leave the problematic element behind: batteries. Vehicles on prescribed routes (trains, buses) can take advantage of wires carrying electricity: either overhead or tucked into a "third rail" on the ground. Most light rail systems use this approach, and some cities have wires over their streets for trolley buses. High-speed trains also tend to be driven electrically, via overhead lines. 
@@ -1584,7 +1582,7 @@ passenger passenger
 D.4 Pushing Out the Moon 
 Some forms of alternative energy are tagged with asterisks in Table 10.1 (p. 166), indicating that they are not technically renewable, but will last a very long time so might as well be considered to be renewable. 
 Tidal energy, covered in Sec. 16.2 (p. 280), is one such entry that honestly does not deserve much attention. The text mentioned in passing that 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 aggressive use of tidal energy has the power to push the moon away from Earth, providing the mechanism by which we could "use up" this resource. Curious students demanded an explanation. Even though it's not of any practical importance, the physics is neat enough that the explanation can at least go in an appendix. 
 D.4 Pushing Out the Moon 
 403 
@@ -1599,7 +1597,7 @@ orbital velocity
 resultant (mostly to Earth) has nudge to side 
 Now think about how the moon sees the earth, gravitationally. It mostly sees a spherical earth, but also a bulge on the front side, slightly displaced, and a bulge on the back side, also displaced in the opposite direction (Figure D.3). While the bulge masses are equal, the closer one has a greater gravitational influence and acts to pull the moon a little forward in its orbit, speeding it up. 39 
 Accelerating an orbiting object along its trajectory adds energy to the orbit and allows the object to "climb" a little farther away from the 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Figure D.1: The moon pulls harder on the near side of the earth, and less hard on the back side. Relative to the earth as a whole (medium force), the near side advances to- ward the moon and the back side lags the rest of the earth, creating a bulge on both sides that is aligned toward the moon. Note that a drawing to scale would put the moon well off the page. 
 36: In fact, equally, per Newton's third law. 
 Figure D.2: The rotation of Earth and it continents "underneath" the tidal bulge creates a friction, or drag, that pulls the bulge around a few degrees (somewhat exaggerated here), so that it no longer points directly at the moon. 
@@ -1630,7 +1628,7 @@ We start by noting that human civilization is about 10,000 years old, to the nea
 Is human civilization still in its infancy, or are we closer to the end than the beginning? 
 Wow. Heavy question. Of course, we do not know the answer, but most of us would prefer to believe the first-that we are only beginning. So let's roll with that and explore the consequences. 
 45: This roughly marks the start of agri- culture, and in any case is far closer to the truth than the adjacent order-of-magnitude figures of 1,000 years or 100,000 years. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 In order for human civilization to be in its infancy, it would have to continue for at least 10,000 years more, if not far longer. What would it mean for us to still be operating "successfully" 10,000 years from now? Our physics and math approach actually allows us to place constraints! 
 This discussion is limited to living on Earth. Chapter 4 laid out reasons why imagining a space-faring future may be misguided. But even ignoring these arguments, Chapter 1 illustrated that human growth ambitions would be brought to an end long before 10,000 years pass. In this light, it is most straightforward to concentrate on what it would take to succeed on Earth itself.4 
 46 
@@ -1654,7 +1652,7 @@ most of this in the last 50 years
 unlikely as high as 10 billion, and 
 it could even be well less than a billion, depending on living standards 
 50:... author's conjecture; it could well be higher 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 or depletion rate of less than 0.007% per year, which is essentially zero-growth. 
 It becomes clear that long-term success is practically synonymous with the word sustainable. Any practice that is not long-term sustainable will fail to continue.51 We therefore cannot depend on any non-sustainable resource if we strive for success. 
 D.5 Humanity's Long View 
@@ -1669,7 +1667,7 @@ Nature prepared a biosphere that has stood the test of time. Natural selection h
 . hardly different from $18,000 per year, so if you're going this far already, why not? 
 53: Interest is an artificial construct made possble by accelerating resource use. 
 54: Annual income would be in the form of solar energy delivered and biomass that has grown in the course of the year, for instance. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 D.5 Humanity's Long View 407 
 D.5.3 Time to Grow Up 
 In a sense, humanity is going through an awkward adolescent phase: growth spurts, a factory (pimple) strewn landscape, an attitude that we have all the answers-adults55 can't possibly understand or tell us what to do. Conversely, nature is mature.56 Ignoring recent human influences, it had already forged its complex, never perfect, but functional interdependencies and had settled into something resembling a steady state. Adolescents new to the scene may be hugely disruptive and destructive, and unless they change their ways, civilization drives straight into the jaws of failure. The adolescents lack the wisdom to build lasting systems that will have the privilege of co-existing with nature for very long. 
@@ -1681,7 +1679,7 @@ D.5.4 Frameworks
 Humanity needs to develop a framework by which to evaluate its activities and ask whether each helps or hurts ultimate human success. Sometimes this might produce jarring results. Consider, for instance, a cure for cancer or other advances that might extend human lifetimes. Only if balanced against a smaller population or a smaller resource utilization per capita could such seemingly positive developments be accommodated once a steady equilibrium is established. Otherwise, total demand on Earth's resources goes up if the same number of people live longer at a fixed annual resource utilization per living person. In a successful world, any proposed new activity would have to demonstrate how it fits within a sustainable framework. Ignoring the issue would irresponsibly imperil overall long-term human happiness.58 
 At some level, humans need to realize that success means the thriving of not only themselves, but all of Earth's precious irreplaceable species and ecosystems. Without them, humans cannot be successful anyway. This is another part of maturing: many adolescents have difficulty considering the impacts of their actions on anyone other than themselves. Humans need to realize that hurting any component of Earth is hurting humans, long-term. Our legal system affords rights to humans, but gives no agency to plants, animals, or even non-living features of our planet. A successful future must give voice to every element of our world, lest we trample it and rue the day. 
 58: In such cases, the outcome may ulti- mately settle on longer lives for fewer peo- ple. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 D.6 Too Smart to Succeed? 408 
 Can it work? Can humans create the institutions and uncorrupted global authority to regulate the entire biosphere-or at least the human interface to prevent unsustainable disruption to the rest? Is human nature compatible with such schemes? Do we have the discipline to deny ourselves easily reached resources for the good of the whole? Individual desires for "more" may always work to subvert sustainable practices. Individual lifetimes are so very short compared to the necessarily long- term considerations of success that it will be very hard to universally accept seemingly artificial restrictions generation after generation. Also unclear is whether it is possible to maintain a technological society preserving knowledge and history while living on the annual renewable resources of the planet. We simply have no guiding precedent for that mode of human existence. 
 It is therefore an open question whether a technological society is even compatible with planetary limits. Are modern humans just a passing phase whose creations will crumble into oblivion in a geological blink, or can we stick it out in something other than a primitive state? We again have no evidence59 one way or another. The current state of apparent success cannot be taken as a meaningful proof-of-concept, because it was achieved at the expense of finite resources in a shockingly short time: an extravagant party funded by the great one-time inheritance. The aftermath is only beginning to appear. 
@@ -1694,7 +1692,7 @@ Evolution works incrementally by random experimentation: mutations that either c
 59: See Sec. 18.4 (p. 312) on the Fermi para- dox for a worrisome-albeit inconclusive- 
 lack of evidence of success in the universe. 
 60: After all, advantages make survival and procreation more likely. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 D.6 Too Smart to Succeed? 
 409 
 Intelligence confers obvious advantages to organisms, able to "out- smart" competition to find resources, evade dangers, and adapt to new situations. It also has some cost in terms of energy resources devoted to a larger brain. But multiple organisms from across the animal kingdom have taken advantage of the "smart" niche: octopuses, ravens, dolphins, and apes to name a few. Experiments reveal the ability of these species to solve novel, brainy puzzles in order to get at food, for instance. 
@@ -1710,7 +1708,7 @@ It seems fairly clear that hunter-gatherer humans could have continued essential
 63: Not only is climate change a problem, but building an entire civilization depen- dent on a finite energy resource and also en- abling a widespread degradation of natural ecosystems seems like an amateur blunder. 
 64: Since mutations are random mistakes, and some actually, surprisingly, turn out to be advantageous, one might say that life is a giant pile of mistakes that failed to de- liver the expected bad outcomes, snatching success from the jaws of failure. 
 65...e.g., agriculture, cities 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 D.6 Too Smart to Succeed? 
 410 
 as we "outsmart" nature we run a grave risk as nature and evolution cease to protect us. In other words, a species that lives completely within the relationships established by the same evolutionary pressures that created that species is operating on firm ground: well adapted and likely to succeed, having stood the test of time.66 
@@ -1727,8 +1725,7 @@ a reasonably long track record of success behind it.
 67: Forests can grow back, but not at the rate of their destruction at present. 
 68: What hope we have lies here, and pro- vides the underlying motivation for writing this book. The first step is appreciating in full the gravity of the challenge ahead. 
 69: Success here means preserving civiliza- tion. It is far easier-and perhaps more likely to at least survive as a species in a more primitive, natural state. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions.D.6 Too Smart to Succeed? 411 
+D.6 Too Smart to Succeed? 411 
 D.6.1 Evolution's Biggest Blunder? 
 As a brief follow-on, we framed evolution as a mistake-machine, some- times accidentally producing functionally advantageous incremental improvements. Countless species adapt in ways that are not able to survive long term, and die off. So those "blunders" are inconsequential failed experiments. Evolution is indifferent to failure, being a mechanism rather than a sentient entity. 
 But most of the time, these failures are isolated, bearing little consequence on the wider world. Did anybody notice the three-dotted bark slug70 disappear? If the human species turns out to be another of evolution's failed experiments-having made a creature too smart to stay within the lanes of nature is it just another inconsequential blunder? 
@@ -1743,4 +1740,4 @@ Please, please, please let this tragic fate not come to pass!
 71: 
 .although it took over a billion years to get there: no instant gratification 
 72: The anaerobic life would disagree, but when do we ever listen to them anymore? In any case, the result was tremendous bio- diversity, which ultimately may be a decent figure of merit for value in this world. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 

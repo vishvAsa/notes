@@ -4,10 +4,13 @@ title = "1 Setting the stage"
 
 SETTING THE STAGE: 
 GROWTH AND LIMITATIONS 
-We arrived late. 
-All the good stuff was gone. Oh, what we would have paid. 
-But no amount of money could bring it back. 
-1 Exponential Growth 
+
+We arrived late.  
+All the good stuff was gone.  
+Oh, what we would have paid.  
+But no amount of money could bring it back.  
+
+## 1 Exponential Growth 
 Humans have amazing strengths, but also significant weaknesses. Chief among them, perhaps, is our collective difficulty in grasping the math- ematical consequences of exponential growth.1 This is an ironic state, given that our economic and political goals are often geared explicitly to support continued growth. The degree to which an expectation and desire for continued growth is woven into our society makes it important to examine the phenomenon carefully, so that we might avoid building upon a shaky foundation. In this chapter, we explore the general nature of exponential growth, in order to understand the impossibility of its long-term continuance by way of exposing various absurd consequences that uninterrupted growth prescribes. The upshot2 is that our societal framework eventually must face a mandatory departure from the current model-a piece of knowledge we should all lodge into the backs of our minds. Subsequent chapters will address applications to economic and population growth-including more realistic logistic growth curves, then pivot toward nailing down limits imposed by our finite planet. 
 1.1 Bacteria in a Jar 
 One hallmark of exponential growth is that the time it takes to double in size, or the doubling time, is constant. An important and convenient concept we will repeatedly use in this chapter is the rule of 70: 
@@ -26,7 +29,7 @@ Exponential Math
 2: The word "upshot" means final result or bottom-line. Each chapter has an Upshot at the end. 
 Note that any growth, however slow, can be characterized by a doubling time, even if the process does not involve discrete steps of doubling. 
 NGC 253 photo credit: Dylan O'Donnell. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 We will see how the rule of 70 arises mathematically later in this chapter. But first, it is more important to understand the consequences. To make the math simple, let's say that a town's size doubles every 10 years (which by the rule of 70 corresponds to a 7% growth rate, incidentally). Starting in the year 1900 at 100 residents, we expect town population to be 200 in 1910, 400 in 1920, 800 in 1930, eventually climbing to over 100,000 by the year 2000 (see Table 1.1). Unabated 7% growth would result in the town reaching the current world population just 260 years after the experiment began. 
 But let's explore an example that often reveals our faulty intuition around exponential growth. Here, we imagine a jar rich in resources, seeded with just the right number of bacteria so that if each bacterium splits every 10 minutes, the jar will become full of bacteria in exactly 24 hours. The experiment starts right at midnight. The question is: at what time will the jar be half full? 
 Think about this on your own for a minute. Normal intuition might suggest a half-full jar at noon-halfway along the experiment. But what happens if we work backwards? The jar is full at midnight, and doubles every ten minutes. So what time is it half full? 
@@ -71,7 +74,7 @@ Population
 24:00 
 Figure 1.1: The last 90 minutes in the sequence of bacteria (green) growing in a jar, doubling every 10 minutes. For the first 22.5 hours, hardly anything would be visible. Note that the upward rise of green "bars" makes an exponential curve. 
 Now let's imagine another illustrative scenario in connection with our jar of bacteria. The time is 11:30 PM: one-half hour before the end. The jar is one-eighth full. A thoughtful member of the culture projects the future and decides that more uninhabited resource-laden jars must be discovered in short order if the culture is to continue its trajectory. Imagine for a second the disbelief expressed by probably the vast majority of other inhabitants: the jar is far from full, and has served for 141 generations-a seeming eternity. Nonetheless, this explorer returns reporting three other equal-sized food-filled jars within easy reach. A hero's welcome! How much longer will the culture be able to continue growing? What's your answer? 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 The population doubles every ten minutes. If the original jar is filled at 12:00, the population doubles to fill the second jar by 12:10. Another doubling fills all four by 12:20. The celebration is short-lived. 
 Now we draw the inevitable parallels. A planet that has served us for countless generations, and has seemed effectively infinite-imponderably large makes it difficult for us to conceive of hitting limits. Are we half-full now? One-fourth? One-eighth? All three options are scary, to different degrees. At a 2% rate of growth (in resource use), the doubling time is 35 years, and we only have about a century, even if at 1/8 full right now.3 
 In relation to the bacteria parable, we've already done a fair bit of exploring. We have no more jars. One planet rhymes with jars, but it is hostile to human life, has no food, and is not within easy reach. We have no meaningful outlet. And even if we ignore the practical hardships, how much time would a second planet buy us anyway for uninterrupted growth? Another 35 years? 
@@ -88,7 +91,7 @@ Experts habitually read complicated pas- sages multiple times before the materia
 M = 
 = 2n = 2t/t2, 
 (1.1) 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 1 Exponential Growth 
 5 
 where M represents the multiplicative scale, t is the elapsed time, and t2 is the symbol we choose to represent the doubling time-so that n = t/t2 is just "counting" the number of doubling times. 
@@ -139,7 +142,7 @@ you (make it real for yourself!).
 In M = n lnb, 
 (1.5) 
 so that the number of applications of base, b, needed to achieve multi- plicative factor M is found by solving the equation above for n, in which 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 1 Exponential Growth 
 6 
 case we get: n = In M/ln b. 
@@ -161,7 +164,7 @@ Try it yourself to verify on a calculator, by sticking in various small amounts 
 Don't view this as a recipe for solving prob- lems, but as a way to romp through the section and help piece it together. 
 = 
 More generally, we are not confined to any particular base, b, having just seized upon two convenient and relevant possibil- ities. If we wanted b 10, we would have n = 0.211, for example. In this case, the interpretation is that our ten-year point is 21.1% of the way to a factor-of-ten multi- plication, so that 47.4 years at 5% growth results in a factor of 10 growth. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 We can check the result using Eq. 1.6 by putting in t = 22.5 and p = 0.05 or t2 = 14.2 in the latter form. 
 1.2 Exponential Energy Extrapolation 
 Having established some basic principles of exponential growth, it's time for a first look at how we can use the math to argue about limits to our expectations. We'll concentrate on energy use. The United States Energy Information Administration (EIA) provides information on energy use from 1949 to the present. An appendix (E1: [3]) presents an approximate account of energy use from 1635-1945. Figure 1.2 displays the more recent portion of this history. 
@@ -187,7 +190,7 @@ year
 2000 
 Note that the energy rate at the left edge of Figure 1.2 becomes almost invisibly small. Presenting the data on a logarithmic plot, as in Figure 1.3, we can better see the entire trajectory. On such a plot, exponentials become straight lines. The trend is remarkably consistent with an expo- nential (red line) for most of the history, at a rate just shy of 3% per year. Note that this total effect includes population growth, but population has not grown as fast as energy, so that per-capita energy has also risen. This makes sense: our lives today are vastly more energetically rich than lives of yesteryear, on a per-person basis. 
 Having established that energy growth over the past several centuries is well-described by an exponential, we can explore the implications of continuing this trend forward. Starting at a present-day global energy production rate of 18×1012 Watts (18 TW), we adopt a convenient growth rate of 2.3% per year for this exercise. We pick this for two reasons: 1) it is more modest than the historical trend, so will not over-exaggerate the 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Figure 1.2: U.S. energy over 200 years, show- ing a dramatic rise due almost entirely to fossil fuels. The red curve is an exponential fit tuned to cover the broader period shown in Figure 1.3. 
 The astute reader might note a departure from the exponential fit in recent years. This only reinforces the primary point of this chapter that sustaining exponential growth indefinitely is absurd and will not happen. If growth is destined to stop, perhaps we are beginning to experience its limits well before the theoretical timescales developed in this chapter. 
 Watts is a unit of power, which is a rate of energy. Chapter 5 will cover the concept and units more thoroughly. 
@@ -230,7 +233,7 @@ The merits of various alternative energy sources will be treated in later chapte
 for instance. power, 
 In defiance of physical limits. 
 10,000 is not too different from 7,000, and the "rounding up" helps us conveniently make sense of the result, since a factor of 10,000 is easier to interpret as four applications of 10x, and thus 400 years. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 solar energy hitting the planet at 100% efficiency. But our planet is a tiny speck in space. Why not capture all the light put out by the sun, in a sphere surrounding the sun (called a Dyson sphere; see Box 1.3)? Now we're talking some real power! The sun puts out 4 x 1026 W. If it were a light bulb, this would be its label (putting the 100 W standard incandescent bulb to shame). So the number is enormous. But the math is actually pretty easy to grasp.11 Every century gets another factor of ten. To go from where we are now (18 x 1012 W) to the solar regime is about 14 orders-of-magnitude. So in 1,400 years, 12 we would be at 18 x 1026 W, which is about 4.5 times the solar output. Therefore we would use the entire sun's output in a time shorter than the 2,000-year run of our current calendar. 
 Box 1.3: Dyson Sphere Construction 
 If we took the material comprising the entire Earth (or Venus) and created a sphere around the sun at the current Earth-Sun distance, it would be a shell less than 4 mm thick! And it's not necessarily ideal material stock for building a high-tech sphere and solar panels. The earth's atmosphere distributed over this area would be 0.015 m thick. Don't hold your breath waiting for this to happen. 
@@ -254,7 +257,7 @@ Light in Universe Mass in Universe
 3,600 
 5,000 
 By coincidence, the visible universe has about as many galaxies as our galaxy has stars. By "visible" universe, we mean every- thing within 13.8 billion light years, which is as far as light has been able to travel since the Big Bang (see Sec. D.1; p. 392). 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 the impossibility of our continuing exponential growth in energy. All kinds of reasons will preclude continued energy growth, including the fact that human population cannot continue indefinite growth on this planet. We will address space colonization fantasies in Chapter 4. 
 1 Exponential Growth 10 
 1.3 Thermodynamic Consequences 
@@ -273,7 +276,7 @@ Some time, go feel the exhaust air from an air-conditioning unit, or the heat pr
 16: Conversions to Kelvin from Celsius (or Fahrenheit) go like: 
 T(K) = T(C) + 273.15; T(C) = (T(F) - 32)/1.8 
 17: It's actually an easy constant to remem- ber: 5-6-7-8 (but must remember the minus sign on the exponent). 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.Because space is so cold (tens of Kelvin, effectively, unless exposed to the sun), the fourth power of such a small number pales so much in comparison to the fourth power of a number like 300 that we can safely ignore it for radiation to space: 
+Because space is so cold (tens of Kelvin, effectively, unless exposed to the sun), the fourth power of such a small number pales so much in comparison to the fourth power of a number like 300 that we can safely ignore it for radiation to space: 
 Pspace≈ AsurfOT4, 
 (1.9) 
 where we now just have a single temperature: that of the warm body in 
@@ -296,8 +299,7 @@ Figure 1.4: Earth-shown here in northern hemisphere summer intercepts sunlight a
 This 1,360 W/m2, known as the solar con- stant, is the incident energy rate (power), or the flux, of sunlight incident on Earth. 
 (1.10) 
 The 0.707 factor represents absorbed frac- tion after 29.3% is reflected. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 which we can rearrange to isolate temperature, satisfying 
 T4 
 0.707 x 1360 W/m2 
@@ -340,7 +342,7 @@ AT (C)
 Table 1.4: At a constant energy growth rate of 2.3% per year, the temperature climb from waste heat (not CO2 emissions) is slow at first, but becomes preposterous within a few-hundred years. Water boils in just over 400 years, and by 900 years Earth is hotter than the sun! The scenario of continued growth is obviously absurd. 
 Connecting some ideas, we found in the previous section that we would be consuming the sun's entire output in 1,400 years at the 2.3% growth rate. It stands to reason that if we used a sun's worth of energy confined to the surface of the earth, the (smaller) surface would necessarily be hotter than the sun (in 1,400 years), just like a light bulb filament is hotter than human skin despite putting out the same power owing to the difference in area.19 
 One key aspect of this thermal radiation scenario is that it does not depend on the form of power source. It could in principle be fossil fuels, nuclear fission, nuclear fusion, or some form of energy we have not yet realized and may not even have named! Whatever it is, it will have to obey thermodynamics. Thus, thermodynamics puts a time limit on energy growth on this planet. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 19: This can be gleaned from Eq. 1.8 or Eq. 
 1.9. 
 1.4 Upshot: Physics Limits Physical Growth 
@@ -357,7 +359,7 @@ Hint: for problems that require solving temperature when it appears as T1, you'l
 Was the exercise pointless, since the math leads to absurdity? Is the math wrong? No- it's immensely valuable to learn that our assumption of continued growth (and ap- plication of the corresponding correct math) fails to make sense, ultimately. The logical conclusion is that growth cannot continue indefinitely. 
 Note that a deviation from the assumed steady 2.3% growth rate changes all the numbers, and therein may lie the solution: ramp down growth! 
 A number of these issues will be addressed in subsequent chapters. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 3. Our example town from the text (page 3) starting at 100 people in the year 1900 and doubling every 10 years was said to take about 260 years (26 doubling times) to reach world population. Verify that the population indeed would approach 7 billion in 260 years (when the year would be 2160), by any means you wish.20 
 4. Use Eq. 1.5 with b = 2 to figure out exactly how many years-via a computation of doubling times, which may not be an integer-our example town from the text (page 3) would take to reach 7 billion people. 
 5. If our example town from page 3, doubling every 10 years, reaches a population of 7 billion in 260 years, how many years before it reaches 14 billion? 
@@ -375,7 +377,7 @@ Hint: In is the natural log function found on scientific calculators (sometimes 
 Hint: M is the ratio of the final population to the initial population. 
 To get 2,000 kcal of metabolic content per day, a person would need to eat 30,000 grains of rice each day. The amount of rice computed for this problem would feed the current world population for 240 years, which you are encouraged to check for your- self! 
 Roughly 10 bacteria fit within a cubic micron (tiny), so you would not be able to see this tiny starting amount. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 13. Using Eq. 1.5 and showing work, what annual growth rate, in per- cent, leads to the mathematically convenient factor-of-ten growth every century? 
 14. Use Eq. 1.5 with b = 1+ p to figure out how long it takes to increase our energy by a factor of 10 if the growth rate is closer to the historical value of 2.9% (p = 0.029). Using 2.3% as we did in the examples (starting on page 7) puts this at 100 years.21 
 15. Extrapolating a constant growth rate in energy is motivated by historical performance. During this period, population was also growing, albeit not as fast. If population were to double every 50 years, 22 how many people would Earth host when we hit the energy/thermodynamic limits in roughly 300 years? 
@@ -399,14 +401,13 @@ Earth
 incident at the same rate/flux as at 
 24: Referring to the 4 that shows up in Eqs. 1.10 and 1.11. 
 The surface of Venus is much hotter than that of Earth owing to a runaway green- house condition. On Earth, the greenhouse boost is only 33 K, but on Venus it's hun- dreds of degrees. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 22. Adapt Eq. 1.11 to Mars to find its equilibrium temperature. The solar flux averages 590 W/m2 there, and it absorbs 75% of incident sunlight. Express the answer in both Kelvin and Celsius, and put in context. 
 23. If a human body having an outward surface area of 1 m2 continued to put out 100 W of metabolic power in the form of infrared radiation in the cold of space (naked; no sun), what would the equilibrium temperature be? Would this be comfortable (put in context)? 
 24. Verify the total solar power output of 4 x 1026 W based on its surface temperature of 5,800 K and radius of 7 x 108 m, using Eq. 
 1.9. 
 25. Verify that Earth would reach a temperature far in excess of boiling point of water25 after 500 years if today's power output (18 TW) increased by a factor of 10 each century. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 1 Exponential Growth 
 16 
 25: Water boils at 100°C, or 373 K. 
@@ -421,7 +422,7 @@ Chapter 1 demonstrated that the laws of physics and mathematical logic render a 
 In subsistence times, esthetics held little value compared to physical goods: you couldn't eat a sculpture, for instance-nor would it help keep you warm.2 Food, tools, resources like wood, pack or draft animals carried primary value. When basic subsistence requirements were met, gold or jewelry may have warranted some expenditure-but even these were physical resources. 
 Agriculture freed some individuals in society to think and create. The economy found more room to value arts and performance: things that fueled the mind, if not the body. During the Renaissance, patrons would support artists and scientists whose output had few other channels of economic support. In today's world, a complex economy distributes financial assets to a wide variety of practitioners in general accordance with society's values. 
 Banner photo pokes fun at what physics (gravity) finds more valuable: a silver dollar (real silver) vs. a $20 bill; Credit: Tom Murphy 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 2.1 Historical Coupling 
 17 
 2.2 Decoupling and Substitution 20 2.3 Forced Economic Limits .. 24 
@@ -470,9 +471,10 @@ One way to capture the physical connection to economic activity is to represent 
 Figure 2.1: Per capita energy use as a func- tion of GDP on a logarithmic scale. Per capita GDP is the sum total of a country's economy divided by population, effectively indicating average annual income. The rate at which an individual uses energy is ex- pressed as a power, in Watts. A strong cor- relation exists here across many orders-of- magnitude: rich countries use more energy, per person [6–8]. A few instructive cases (red dots) are labeled. The dot areas are scaled to population. 
 3: Or converted monetary equivalent. 
 4: GDP is a measure of total monetary value of goods and services produced in a country within a year. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Definition 2.1.1 Energy intensity is a measure of how much energy a society uses relative to its economic scale-sort of like an efficiency. It can be a proxy for resource use in general, and is calculated as: 
-2 Economic Growth Limits 
+
+## 2 Economic Growth Limits 
 19 
 Energy Intensity = 
 Energy Expended Money Spent 
@@ -508,7 +510,7 @@ Per Capita GDP ($)
 100000 
 Figure 2.2 illustrates the range of intensities for all the countries in the world. Among the factors driving energy use are geographical extent (large countries require more long-haul transportation), climate (cold countries require more heating), efficiency, and lifestyle. Russia, Canada, and the U.S. have large territories, and the former two require more heating than most. By contrast, Switzerland is geographically small 
 Figure 2.2: Energy intensity of countries, on a log-log plot. The vertical axis shows how energetically "hungry" each country is in relation to its economic output, while the horizontal axis sorts countries by economic output per person. A few instructive cases (red dots) are labeled. The dot areas are scaled to population. Prosperous countries tend to have lower intensity than develop- ing countries, but part of this may relate to moving manufacturing from the former to the latter [6–8]. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 2 Economic Growth Limits 
 20 
 and outsources much of its heavy industry. Somebody should probably check on what's happening in Venezuela.5 
@@ -526,7 +528,7 @@ At the upper end of personal income (right side of Figure 2.2), we might detect 
 8: Such services might include things like singing lessons, life coaching, psychother- apy, financial planning, and other activities that demand little physical input. 
 Part of the reason prosperous countries demonstrate a lower intensity is that man- ufacturing moves overseas. Driving the whole world toward lower intensity is a more difficult prospect, as the physical pro- cesses must still happen somewhere. 
 9: $65,000 vs. $2,100 for the U.S. and India, respectively. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.2 Economic Growth Limits 21 
+2 Economic Growth Limits 21 
 the face of non-replicable circumstances. Not every country can assume the geography and financially-focused nature of Switzerland. And at the same time, if the U.S. imagines itself providing a model that other countries might emulate, the intensity of many European countries could actually increase if adopting U.S. habits. But more broadly, we don't have evidence that a country on the prosperous end of the distribution can operate at even a factor-of-four lower intensity than the 4 MJ/$ level typical of developed countries. In the present context of assessing the future of growth, in which we are concerned with order-of-magnitude scales and limits (as in Chapter 1), it does not appear that decoupling has very much to offer.1 
 10 
 Definition 2.2.2 Substitution refers to the ability to switch resources when one becomes scarce or a better/superior alternative is found. Substitution is often invoked to counter concerns about scarcity. A common and cute way to frame it is that the stone age did not end because we ran out of stones-—we found bronze. 
@@ -551,7 +553,7 @@ Halogen CFL
 45-75 
 LED 
 75-120 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 luminous efficacy (Im/W) 
 theoretical maximum 
 102 
@@ -580,7 +582,7 @@ More generally, sometimes the best possible solution and "peak" technol- ogy arr
 12: ... magician reference 
 We will return to this theme in the context of fossil fuels, which might be termed the mother of all rabbits, in this context. Having pulled such a stupendous rabbit out of the hat once, many assume we're set from now on. In this case, equating one to infinity is even more dubious. 
 An electric car having hundreds of kilome- ters of range seems like an obvious path forward beyond fossil fuels. But at a price tag above $40,000, it does not look like much of a solution to most people, and we can't be sure prices will fall steeply. Section D.3 covers electrified transportation in more detail. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 2 Economic Growth Limits 
 23 
 as a vital substance.13 Marketers might sell H2O2 as superior, having one more beneficial oxygen atom, but please don't drink hydrogen peroxide! Some technologies in use today would be recognized by pre-industrial people: wheels, string, bowls, glass, clothing. We won't always find better things, though we may make a series of incremental improvements over time. Not everything will experience game-changing developments. 
@@ -602,7 +604,7 @@ limited to the same set of elements.
 17: fices 
 ..e.g., in basements or garages or of- 
 [12]: Garret (2014), Rebound, Backfire, and the Jevons Paradox 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 2.3 Physically Forced Economic Limits 
 Let us now consider a thought experiment. We will use Figure 2.4 as a guide as we go along. Colored numbers in the following text point to similarly-colored labels in the figure. We start by positing a constant growth rate for the entire economy (point 1; red curve in Figure 2.4) following the familiar 2.3% annual growth rate, picked for its convenient factor of 10 each century. Meanwhile, the scale of physical resources (energy, materials) in the economy also climbs at the same rate, starting at point 2. The vertical gap between the curves at the left-hand edge conveys that the economy is not 100% physical in the beginning: the total economy is larger than the physical piece.18 
 2 Economic Growth Limits 24 
@@ -641,7 +643,7 @@ percentage of economy that's non-physical
 300 
 Fast-forward to a time when physical resources have stopped growing, starting at point 3. Chapter 1-using energy and thermodynamics as the basis-made the case that we cannot expect physical growth to continue indefinitely, ending on a few-century timescale at the longest.19 In this scenario, the scale of energy in our society flat-lines at a steady scale (point 4). 
 If we demand continued economic growth in the context of fixed energy, decoupling becomes increasingly necessary, shown as a growing gap in Figure 2.4. In other words, if the gross domestic product (GDP; as an indicator of economic activity) is to continue rising20 (point 5), then overall intensity (energy per dollar) must continually decrease. For this to happen, less-energetic activities must assume increasing importance in the economy. So far, economists are on board: this is precisely what inspires an affinity for decoupling-a way forward in the face of physical limits. One might expect more abstract services, virtual experiences, art dealing, enhanced presentation: all requiring little or no additional 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Figure 2.4: Model evolution of the economy after physical resources saturate. The blue curve is the scale of the physical economy (leveling out, or saturating). The solid red curve is the total economic scale, which we force to adhere to a constant growth rate (10x per century, or 2.3% annual rate). The magenta curve is the percentage of the economy in non-physical sectors, and the red dashed curve is a more realistic reaction of the economy to a saturating physical sector. Colored arrows point to the scale that each curve should use -logarithmic on the left for economic scales and linear on the right for the percentage curve. This model is constructed simply to illustrate the overall behavior: time scales and other quantitative details should not be taken literally. 
 19: It is assumed here (optimistically) that we have managed to find a renewable alter- native that can satisfy a constant demand effectively indefinitely. If not, the story is even worse and we are forced to ramp down the scale of the physical sector, which would force the blue curve in Figure 2.4 to descend in later years. 
 20: ... and not artificially via inflation, but in terms of real value 
@@ -675,7 +677,7 @@ hours
 0.1 
 Box 2.4: Monopoly Made Easy 
 One way to highlight the absurdity of the scenario is that if the physically-limited but essential (life sustaining) resources became arbitrarily cheap in the fullness of time, a single person could buy them all for a pittance, and then charge a hefty price for anyone 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 2 Economic Growth Limits 
 26 
 who wants to keep living. We simply will not find ourselves in the situation where precious and limited resources become arbitrarily cheap. Alternatively, if people only needed to work an hour per year to accommodate basic needs, expect a lot less work to be done, acting as a drag on economic productivity and thus preventing inexorable growth-one way or another. 
@@ -688,7 +690,7 @@ The foregoing arguments spell out why economic growth cannot be expected to cont
 The growth regime is woven deeply into our current global society. And why wouldn't it be? We've enjoyed its benefits for many generations. We celebrate the myriad advantages it has brought, and therefore align our political and economic institutions toward its robust preservation. Community planning, interest rates, investment, loans, the very role of banks, social safety net systems,21 and retirement plans all hinge on the assumption of growth.22 Shock waves of panic reverberate at signs of (even temporary) recession, given the importance of growth to our institutions. Yet the message here is that we cannot expect its unfaltering continuance implying that many things will have to change. 
 21: In the U.S., Social Security and Medicare are examples. 
 22: Growth in both workforce and invest- ments are essential ingredients of these schemes that pay out more than an indi- vidual's past contributions to the program. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Returning to the roots of economic theory, the earliest thinkers-Adam Smith, David Ricardo, Thomas Malthus, John Stuart Mill-had founda- tions in natural philosophy23 and saw growth as a temporary phase, ulti- mately limited by a prime physical resource: land. In that time, land held the key to outputs from farming, timber, mining, and game-thereby dic- tating economic development. What these pioneering economic thinkers did not foresee was the arrival of fossil fuels, and the technological developments that accompanied this energy explosion. 
 24 
 Now, we have fallen into something of a lulled complacency: having rescued ourselves so far from the end-of-growth predictions of the early economists, the temptation is to conclude that they were just wrong, and we have outsmarted natural limits. This is dangerous thinking. In the end, nature is indifferent to how smart we imagined ourselves to be. If we were truly clever, we would start thinking about a world that does not depend on growth, and how to live compatibly within planetary limits. Chapter 19 touches on this theme, after intervening chapters paint a more complete picture of energy constraints. 
@@ -707,8 +709,7 @@ ity for continued economic growth, if growth is to continue. 3. The economy come
 24: The classic example is Thomas Malthus, who warned of limits over 200 years ago based on finite resource limits before fossil fuels ripped the narrative apart. The lasting association is that "Malthus equals wrong," leading to the dangerous takeaway that all warnings in this vein are discredited and can be ignored. Note that the most consequential and overlooked lesson from the story about "the boy who cried wolf" is that a real wolf did appear. 
 As was stated before, experts frequently read complex sections more than once to fully absorb the arguments; feel free to do so here. 
 25:...which, let's be clear, we're arguing is ultimately not at all viable... 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 2 Economic Growth Limits 
 28 
 Just because we can point to some completely legitimate examples of decoupled activities and many impressive substitution stories does not mean that an entire economy can be based on indefinite continu- ance of such things. We are physical beings in a physical world and have non-negotiable minimum requirements for life. The activities and commodities that support critical functions cannot continue to expand indefinitely, and will not become arbitrarily cheap once their expansion hits physical limits. The finite nature of our world guarantees that such limits will be asserted, committing economic growth to stall in turn. Nothing, in the end, escapes physics. 
@@ -731,7 +732,7 @@ The result should be larger than the typical energy intensity for all economic a
 28: In the same sense as was calculated for 
 Problem 5 
 The answer should be well less than 100%. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 2 Economic Growth Limits 
 29 
 20 
@@ -754,8 +755,8 @@ things that cost money
 31: You can just estimate, use appropriate math, or refer to the guiding line in Figure 2.3 to arrive at a rough number. 
 32: ... perhaps defined by widespread or universal adoption or replacement. 
 You might pick any subset of solar, wind, hydroelectric, geothermal, nuclear, etc. to guide your thinking. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
-3 Population 
+ 
+## 3 Population 
 Underlying virtually every concern relating to our experience on this planet is the story of human population. The discussion of continued energy growth in Chapter 1 was based on the historical growth rate of energy, which is partly due to growing population and partly due to increased use per capita. But the notion that population will continue an exponential climb, as is implicit in the Chapter 1 scenario, is impractical- one of many factors that will render the "predictions" of Chapter 1 invalid and prohibit "growth forever." 
 So let's add a dose of reality and examine a more practical scenario. Americans' per-capita use of energy is roughly five times the global average rate. If global population eventually doubles, and the average global citizen advances to use energy at the rate Americans currently do,1 then the total scale of energy use would go up by a factor of 10, which would take 100 years at our mathematically convenient 2.3% annual rate (see Eq. 1.5; p. 5). This puts a more realistic-and proximate— timescale on the end of energy growth than the fantastical extrapolations of Chapter 1. 
 Although the focus of this chapter will be on the alarming rate of population growth, we should keep the energy and resource context in mind in light of the overall theme of this book. To this end, Figure 3.1 shows the degree to which energy demand has outpaced population growth, when scaled vertically to overlap in the nineteenth century. From 1900 to 1950, per-capita energy consumption increased modestly, but then ballooned dramatically after 1950, so that today we have the equivalent of 25 billion people on the planet operating at nineteenth century energy levels. 
@@ -804,7 +805,7 @@ year
 Population (Gppl) 
 Figure 3.1: Population (red) and energy de- mand (blue) on the same plot, showing how much faster energy demand (power) has risen compared to population, which trans- lates to increasing per-capita usage. The vertical axes are scaled so that the curves overlap in the nineteenth century. [14–16]. 
 Photo Credit: Tom Murphy 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.3 Population 
+3 Population 
 31 
 expectations, then discuss the heralded "demographic transition" and its implications. 
 3.1 Population History 
@@ -868,7 +869,7 @@ t2
 1950-2020 
 1.70% 
 40 yr 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 In more recent years, the rate has fallen somewhat from the 1.7% fit of the last segment in Figure 3.4, to around 1.1%. Rounding down for convenience, continuation at a 1% rate would increase population from 7 billion to 8 billion people in less than 14 years. The math is the same as in Chapter 1, re-expressed here as 
 P = Poeln(1+p)(t-to) 
 (3.1) 
@@ -936,7 +937,7 @@ Population (Gppl)
 1800 1850 1900 1950 2000 
 year 
 Figure 3.5: Graphical representation of Ta- ble 3.2, showing the time between each billion people added [14, 15]. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 3 Population 33 
 3.2 Logistic Model 
 Absent human influence, the population of a particular animal species. on the planet might fluctuate on short timescales (year by year) and experience large changes on very long timescales (centuries or longer). But by-and-large nature finds a rough equilibrium. Overpopulation proves to be temporary, as exhaustion of food resources, increased predation, and in some cases disease (another form of predation, really) knock back the population. On the other hand, a small population finds it easy to expand into abundant food opportunities, and predators reliant on the species have also scaled back due to lack of prey. 
@@ -957,7 +958,7 @@ The word negative may sound like some- thing we would not want, but its cousin- 
 7: We have just described a state of positive feedback: more begets more. 
 8: P is a time derivative (note the dot on top), defined as P = dP/dt. But don't panic if calculus is not your thing: what we de- scribe here is still totally understandable. 
 9: In terms of the growth rate we used before, p, as in Eq. 3.1, r = ln(1 + p). So for instance, if growing at 2%, p = 0.02 and r also is 0.02 (r≈ p for small values of p). 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 which is really just a repeat of Eq. 3.1, where r takes the place of In(1+p). 
 Example 3.2.2 Paralleling the deer population scenario from Example 3.2.1, if we set r = 0.5, and have a population of P = 100 adult deer (half female), Eq. 3.3 says that P = 50, meaning the population will change by 50 units.10 
 We could then use Eq. 3.4 to determine the population after 4 years: P = 100e0.5.4≈ 739. 
@@ -984,7 +985,7 @@ Q 1+e-r(t-to)
 (3.6) 
 The first part of the curve in Figure 3.7, for very negative values11 of t- to, is exponential but still small. At t = to (time of inflection), the population is Q/2. As time marches forward into positive territory, P approaches Q. As it does so, negative feedback mechanisms (limits to resource/food availability, predation, disease) become more assertive 
 11: The parameter to is the time when the logistic curve hits its halfway point. Times before this have negative values of t - to. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 population, P, as fraction of maximum, Q 
 1.0 
 0.9 
@@ -1031,7 +1032,7 @@ Figure 3.7: Logistic population curve (blue), sometimes called an S-curve, as gi
 Q/2 at the half- 
 Three consecutive 12-year intervals appear in Table 3.2. If the middle one is the mid- point of a logistic linear phase-in 2011 at 7 billion people it would suggest an ulti- mate population of 14 billion. 
 14: ... based on remaining resources, Q-P, at the moment in Eq. 3.5 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 3 Population 
 36 
 Definition 3.2.3 Overshoot is a generic consequence of delaying negative feedback. Since negative feedback is a "corrective," stabilizing influence, delaying its application allows the system to "get away" from the control, thereby exceeding the target equilibrium state. 
@@ -1041,7 +1042,7 @@ We can explore what happens to our logistic curve if the negative feedback is de
 By "generic consequence," we just mean an outcome that is characteristic of the situa- tion, independent of details. 
 [1]: Meadows et al. (1972), The Limits to Growth: A Report for the Club of Rome's Project on the Predicament of Mankind 
 Another example of feedback delay leading to overshoot: let's say you are holding down the space bar and trying to position the cursor in the middle of the screen. But your connection is lagging and even though you release the space bar when you see the cursor reach the middle, it keeps sailing past due to the delay: overshooting. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 population as fraction of steady-state max, Q 
 1.8 
 T= 0.0/ I 
@@ -1084,7 +1085,7 @@ year
 Figure 3.9: Human population data points (blue) and a logistic curve (red) that repre- sents the best fit to data points from 1950 onward. The resulting logistic function has Q≈ 12 Gppl, r = 0.028, and a midpoint at the year 1997. The actual data sequence has a sudden bend at 1950 (Green Revolution?) that prevents a suitable fit to a larger span of data. In other words, the actual data do not follow a single logistic function very well, which is to be expected when conditions change suddenly (energy and technology, in this case) [14, 15]. 
 Box 3.1: Will Human Population Overshoot? 
 Are humans in danger of population overshoot? What is our r value? It is tempting to take r = 0.01 corresponding to the present 1% growth rate. This would imply that any delay shorter than 100 years will not produce significant overshoot, which seems reassuring. But if human population is following a logistic curve rather than an exponential, resource availability is already exerting a moderating influence, now appearing to be in the linear "cruise" phase roughly 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 halfway to the limiting value. A fit to the data (Figure 3.9) suggests that r≈ 0.028, corresponding to a timescale of 36 years (1/r). This puts the overshoot-prone delay squarely into relevant timescales for human lifetimes, generations, and societal change—thus leaving the door open for an overshoot scenario. 
 3 Population 38 
 3.2.2 Logistic Projection 
@@ -1102,7 +1103,7 @@ Population growth happens when the birth rate exceeds the death rate.
 Definition 3.3.1 Birth rate, typically expressed in births per 1,000 people per year, minus death rate (also in deaths per 1,000 people per year) is the net population rate. If the difference is positive, the population grows, and it shrinks if the difference is negative. 
 17 
 17: This ignores immigration, which just shifts living persons around. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 + 
 Population Growth Rate (%) 
 N 
@@ -1140,7 +1141,7 @@ In order to accomplish this goal, reduced death rates are facilitated by
 20: 
 ers 
 but unsolicited "preaching" to oth- 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Birth rate (per 1000 per year) 
 50 
 10 
@@ -1189,7 +1190,7 @@ zero net growth 4
 15 death rate 
 20 
 Figure 3.12: Schematic of how the demo- graphic transition may play out in the space plotted in Figure 3.11. At points A and D, birth rates and death rates are equal, re- sulting in no population growth. Typically, death rates decline while birth rates increase (point B), and eventually death rates reach a floor while birth rates begin to fall (at C). 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.empowered women; better education; more advanced jobs; and greater tolerance in the society. It might even seem condemnable not to wish for these things for all people on Earth. 
+empowered women; better education; more advanced jobs; and greater tolerance in the society. It might even seem condemnable not to wish for these things for all people on Earth. 
 However, we need to understand the consequences. Just because we want something does not mean nature will comply. Do we have the resources to accomplish this goal? If we fail in pursuit of a global demographic transition, have we unwittingly unleashed even greater suffering on humanity by increasing the total number of people who can no longer be supported? It is possible that well-intentioned actions produce catastrophic results, so let us at least understand what is at stake. may be condemnable not to wish for a global demographic transition, but failing to explore potential downsides may be equally ignoble. 
 It 
 3.3.1 Geographic Considerations 
@@ -1199,7 +1200,7 @@ net population rate (annual births minus deaths per 1000 people)
 Figure 3.13 shows the net population rate (birth minus death rate) on a world map. Africa stands out as the continent having the largest net population growth rate, and has been the focus of much attention when discussing population dynamics. 
 But let us cast population rates in different countries in a new light. Referring to Figure 3.13, it is too easy to look at Niger's net population rate—which is about ten times higher than that of the U.S. (see Example 3.3.1) and conclude that countries similar to Niger present a greater risk to the planet in terms of population growth. However, our perspective changes when we consider absolute population levels. Who cares if a country's growth rate is an explosive 10% if the population is only 73 people?23 
 Figure 3.14 multiplies the net rate by population to see which countries contribute the most net new people to the planet each year, and Table 3.3 lists the top ten. Africa no longer appears to be the most worrisome region in this light.24 India is the largest people-producing country at present, adding almost 18 million per year. Far behind is China, in second 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Figure 3.13: Net population growth rate by country: birth rate minus death rate per 1,000 people per year. The highest net growth (darkest shading) is Niger, in Saha- ran Africa [19, 20]. 
 23: But check back in 100 years! 
 24: Although, the continent as a whole ac- counts for 35% of the total added popula- tion each year. 
@@ -1273,7 +1274,7 @@ Adding another relevant perspective, when one considers that the per- capita ene
 26: In other words, for every additional kilogram of coal, steel, or whatever required by Niger's added population, the U.S. will require 400 kg of the same to satisfy its population growth. 
 27: 28 is smaller than 400 by the ratio of populations in the two countries. 
 28: This does not even consider rising stan- dards placing additional burdens. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Power 
 Added Per Citizen (W) 
 3 Population 43 
@@ -1385,7 +1386,7 @@ The last column in Table 3.4 is the per-citizen cost, meaning, for instance that
 Before departing this section, let us look at continent-scale regions rather than individual countries in terms of adding people and resource demands. Table 3.5 echoes similar information to that in Table 3.4, in modified form. What we learn from this table is that Asia's demands are commensurate with their already-dominant population; North America creates the next largest pressure despite a much smaller population; 
 Figure 3.15: Graphical representation of Ta- ble 3.4, for all countries. Dots, whose size is proportional to population, indicate how many people are added per year, and how much additional energy demand is created as a consequence. Color indicates the added population-growth-driven power demand an individual citizen is responsible for gen- erating each year as a member of the society. Negative cases (contracting) include Russia, Japan, Germany, and Ukraine [7, 8, 19, 20]. 
 29: A citizen of Niger, by comparison, only adds 1.7 W of demand per year on energy resources via population growth. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Country 
 Population Annual Per Capita Power Added 
 (%) 
@@ -1455,8 +1456,7 @@ e(ri-r2)T
 el 
 (0.025-0.008).50 
 = 0.85 = 2.34. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 This means that the population more than doubles, or increases by 134%. 
 So to effect a demographic transition means to increase the population burden substantially. Meanwhile, the transitioned population consumes resources at a greater rate—a natural byproduct of running a more advanced society having better medical care, education, and employment opportunities. Transportation, manufacturing, and consumer activity all increase. The net effect is a double-whammy: the combined impact of a greater population using more resources per capita. The resource impact on the planet soars. 
 The pertinent question is whether the Earth is prepared to host a dramatic increase in resource usage. Just because we might find appealing the idea that all countries on Earth could make it through the demographic transition and live at a first-world standard does not mean nature has the capacity to comply. The U.S. per-capita energy usage is roughly five times the current global average. To bring 7 billion people to the same standard would require five times the current scale. Completion of a global demographic transition would roughly double the current world population so that the total increase in energy would be a factor of ten. The blue-dashed projection in Figure 3.17 looks rather absurd as an extension of the more modest-but still rather remarkable energy climb to date. As we are straining to satisfy current energy demand, the "amazing dream" scenario seems unlikely to materialize. 
@@ -1496,7 +1496,7 @@ Population (Gppl)
 year 
 2100 
 Figure 3.17: What our energy demand would have to do (blue-dashed line) if the growing global population (here projected as a red-dashed logistic curve) grew its per- capita energy consumption to current U.S. standards by the year 2100 (a factor-of-five increase). Historical energy and population are represented as solid curves. The depar- ture from past reality would have to be staggering [15, 16]. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 3 Population 
 46 
 continue until all countries have completed the journey. But bear in mind that earlier successes transpired during times in which global resource availability was not a major limitation. If conditions change, and we reach a "full" earth, past examples may offer little relevant guidance. 
@@ -1508,7 +1508,7 @@ The overall point is to be aware of the sensitive nature of this topic when disc
 Box 3.2: Which is More Selfish? 
 Parents, many of whom sacrifice dearly in raising kids-financially, emotionally, and in terms of time investment—understandably view their tireless commitment as being selfless: they often give up their own time, comfort, and freedom in the process. It is understandable, then, that they may view those not having kids as being selfish: the opposite of selfless. But this can be turned on its head. Why, 
 Having two kids is not a strict replacement, in that parents and children overlap (double- occupancy) on Earth. But the practice is at least consistent with a steady state. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 exactly, did they decide to have kids and contribute to the toll on our planet? It was their choice (or inattention) that placed them in parental roles, and the entire planet—not just humans-pays a price for their decision, making it seem a bit selfish.31 In the end, almost any decision we make can be called selfish, since we usually have our own interests at least partly in mind. So it is pointless to try assigning more or less selfishness to the decision to have kids or not to have them. But consider this: if the rest of the Earth-all its plants and creatures—had a say, do you think they would vote for adding another human to the planet? Humans have the capacity, at least, to consider a greater picture than their own self interest, and provide representation to those sectors that otherwise have no rights or voice in our highly human-centric system. 
 3 Population 47 
 31: Reasons for having children are numer- ous: genetic drive; family name/tradition; labor source; care in old age; companionship and love (projected onto not-yet-existing person). Note that adoption can also satisfy many of these aims without contributing additional population. 
@@ -1519,7 +1519,7 @@ The net effect of the various exceptions meant that for most of this period half
 32: This is another case of delay in negative feedback resulting in overshoot. 
 [21]: Diamond (2005), Collapse: How Societies Choose to Fail or Succeed 
 33: A group size of 1,200 is small enough to prevent hiding irresponsible actions behind anonymity. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 3 Population 48 
 began to climb, leading to famine and driving the population excess off the island. 
 In the end, personal choice will be important, if we are to tame the population predicament. Either conditions will be too uncertain to justify raising children, or we adopt values that place short term personal and human needs into a larger context concerning ecosystems and long-term human happiness. 
@@ -1531,7 +1531,7 @@ Nature, it turns out, is indifferent to our belief systems.
 A common knee-jerk reaction to a statement that we would be better off with a smaller population is to demand an answer to who, exactly, we propose eliminating. Ideally, we should be able to discuss an important topic like population without resorting to accu- sations of advocating genocide. Of course we need to take care of those already alive, and address the problem via future repro- ductive choices. 
 3.6 Problems 
 1. The text accompanying Figure 3.1 says that Earth currently hosts the equivalent of 25 billion nineteenth-century-level energy consumers. If we had maintained our nineteenth-century energy appetite but 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 3 Population 49 
 followed the same population curve, what would our global power demand be today, in TW? How does this compare to the actual 18 TW we use today? 
 2. Notice that on logarithmic plots,34 factors of ten on the logarithmic axis span the same distance. This applies for any numerical factor- not just ten.35 Shorter (minor) tick marks between labeled (major) ticks multiply the preceding tick label by 2, 3, 4, 5, 6, 7, 8, 9. The graphic below illustrates the constant distance property for a factor of two.36 Now try a different multiplier (not 2 or 10), measuring the distance between tick marks, and report/draw how you graphically verified that your numerical factor spans the same distance no matter where you "slide" it on the axis. 
@@ -1565,7 +1565,7 @@ in billions of people. First verify that inserting the year 2011 results in 7 (b
 38: I.e., don't say 0.01 billion if 10 million is more natural, or 8,000 million when 8 billion would do. 
 See margin notes for Problem 3. 
 39: See Eq. 3.6. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 think that is (hint: what changed so that we invalidated a single, continuous mathematical function)? 
 8. Using the logistic model presented in Problem 7, what would the population be in the year 2100? How does this compare to the exponential result at 1% growth as in Problem 6? 
 9. Which of the following are examples of positive feedback, and 
@@ -1591,7 +1591,7 @@ Comparison of this problem and Problem 6 highlights the difference the choice of
 40: Numbers may change from when the plot was made; population can help settle based on dot size. 
 41:... much farther from dashed line 
 Show work and add one more decimal place to the answer as a way to validate that you did more than copy the table result. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.and Figure 3.14 look so different, in terms of which countries are shaded most darkly? 
+and Figure 3.14 look so different, in terms of which countries are shaded most darkly? 
 16. Table 3.4 indicates which countries place the highest population- driven new demand on global resources using energy as a proxy. Which countries can American citizens regard as contributing more total resource demand? At the individual citizen-contribution level, what other citizens can Americans identify as being responsible for a greater demand on resources via population growth? 
 17. The last two columns in Table 3.4 were computed for this book from available information on population, birth and death rates, and annual energy usage for each country (as represented in the first four columns; references in the caption). Use logical reasoning to replicate the calculation that produces the last two columns from the others and report how the computation goes, using an example from the table. 
 18. The bottom row of Table 3.4 is important enough to warrant having students pull out and interpret its content. What is world population, in billions? How many people are added to the world each year? What is the typical power demand for a global citizen (and how does it compare to the U.S.)? If a typical coal or nuclear plant puts out 1 GW of power, how many power-plant-equivalents must we add each year to keep up with population increase? And finally, how much power (in W) is added per global citizen each year due to population growth (and it is worth reflecting on which countries contribute more than this average)? 
@@ -1603,7 +1603,7 @@ The point is that the U.S. is a major con- tributor to increased resource demand
 Careful about 106 factors and GW = 109 W. 
 Some students may see this as free/easy points, but consider the value in internaliz- ing the associated information. 
 For instance, Oceania has a ratio of 1.0 for population growth (0.5% of popula- tion growth and 0.5% of global population), meaning it is not over- or under-producing relative to global norms. But in terms of power, it is 3 times the global expectation (1.5 divided by 0.5). 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 3. 
 3 Population 
 52 
@@ -1659,7 +1659,7 @@ death rate
 24. Referring to the figures for Problem 22 (and described within the same problem), which pair44 is most similar to the actual trajectory we witness (i.e., Figure 3.11), and what does this say about the 
 43:... number and associated letter; not necessarily arranged next to each other 
 44:... number and associated letter; not necessarily arranged next to each other 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 population cost of the demographic transition in the context of Problem 23? 
 25. Considering Figure 3.11 in the context of a trajectory (as in Figure 3.12), would it appear that most countries in the world have begun the demographic transition? Have very few of them started? Is it about half-and-half? Justify your answer. 
 26. Express your view about what you learn from Figure 3.17. Do you sense that the prescribed trajectory is realistic? If so, justify. If not, what about it bothers you? What does this mean about the goal of bringing the (growing) world to "advanced" status by the end of this century? Are we likely to see this happen? 
@@ -1672,9 +1672,9 @@ population cost of the demographic transition in the context of Problem 23?
 53 
 Hint: think about what the graph would look like in these scenarios. 
 45: Assume for the purpose of the question that it is biologically possible. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; 
-Freely available at: https://escholarship.org/uc/energy_ambitions. 
-4 Space Exploration vs. Colonization 
+ 
+
+## 4 Space Exploration vs. Colonization 
 This textbook assesses the challenges and limitations imposed upon us by living on a finite planet having finite resources. If harboring expectations that we will break out into a space-faring existence as a way to mitigate our earthly challenges, then it becomes harder for us to respond earnestly to information about where things are headed on Earth. This chapter is placed where it is to "close the exit" so that the content in the rest of the book might become more relevant and worth the investment to learn. Some of the sections in this chapter offer more of an author's perspective than might be typical for a textbook. Some may disagree with the case that is made, but consider that the burden of proof for a way of life unfathomably beyond our current means should perhaps fall to the enthusiasts.1 
 4.1 Scale of Space 
 In the span of two hours, we can sit through a movie and "participate" in interstellar travel without getting tired. Let's step out of the entertainment (fiction) industry and come to terms with the physical scale of the real space environment. 
@@ -1690,7 +1690,7 @@ Describing an analogous scale model of the solar system, galaxy, and universe as
 1: To quote Carl Sagan, extraordinary claims require extraordinary evidence. 
 The convention is to capitalize Earth when it is used as a proper name, and refer to the earth when it is an object. Similar rules apply to Moon and Sun. 
 Photo credit: NASA/Bill Anders from Apollo 8 [22]. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 4 Space Colonization 
 55 
 55 
@@ -1722,7 +1722,7 @@ We will construct a model using the set of scale relations in Definition 4.1.1, 
 We'll make Earth the size of a grain of sand (about 1 mm diameter). The moon is a smaller speck (dust?) and the diameter of its orbit would 
 span 
 the separation of your eyes. On this scale, the sun is 100 mm in diameter (a grapefruit) and about 12 meters away (40 feet). Mars could be anywhere from 4.5 meters (15 feet) to 30 meters (100 feet) away. Reflect 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Table 4.1: Progression of scale factors. 
 Sun distance 
 Step 
@@ -1793,7 +1793,7 @@ your nose.
 9: It does not happen to be aimed toward the nearest star, however. 
 10: It only had 17 km/s left. 
 [24]: (2020), Saturn V 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 a typical car 2,000 years to spend this much fuel. Do you think the astronauts argued about who should pay for the gas? 
 Let's relax the scale slightly, making the sun a chickpea (garbanzo bean). Earth is now the diameter of a human hair (easy to lose), and one meter from the sun. The moon is essentially invisible and a freckle's-width away from the earth. The next star is now 300 km away (a 3-hour drive at freeway speed), while the Milky Way center is 1.5 million kilometers away. Oops. This is more than four times the actual Earth-Moon distance. We busted our scale again without even getting out of the galaxy. 
 So we reset and make the sun a grain of sand. Now the earth is 10 cm away and the next star is 30 km.11 Think about space this way: the swarm of stars within a galaxy are like grains of sand tens of kilometers apart. On this scale, solar systems are bedroom-sized, composed of a brightly growing grain of sand in the middle and a few specks of dust (planets) sprinkled about the room.12 It gets even emptier in the vast tracts between the stars. The Milky Way extent on this scale is still much larger than the actual Earth, comparable to the size of the lunar orbit. 
@@ -1807,7 +1807,7 @@ It is not necessary to harp further on the vastness of space, but having come th
 As mind-bogglingly large as the solar system is, not to mention that it itself is dwarfed by interstellar distances, which in turn are minuscule compared to the scale of the galaxy, how can we possibly appreciate the largest scales in the universe? Let's start by making galaxies manageable. If galaxies are like coins (say a U.S. dime at approximately 1 cm diameter), they are typically separated by meter- like scales. The edge of the visible universe (see Sec. D.1; p. 392) would be only 1.5 km away. Finally, the picture is easy to visualize: coins as galaxies separated by something like arm's length and extending over an area like the center of a moderately-sized town. We can even imagine the frothy, filamentary arrangement of these galaxies, containing house-sized (5–50 m) voids empty of coins (galaxies). See Figure 4.3 for a visual explanation. 
 But penetrating the nature of the individual galaxies (coins, in the previous example scale) is extremely daunting: they are mostly empty space, and by the time we reduce the galaxy to a manageable scale (say 10 km, so that we can picture the whole thing as city-sized), individual stars are a few tenths of a meter apart and only about 50 atoms across (roughly 10 nm). Cells and bacteria are about 100-1,000 times larger than this. So it's nearly impossible to conceive of the scale of the galaxy while simultaneously appreciating the sizes of the stars and just how much space lies between. 
 Figure 4.3: Galaxies are actually distributed in a frothy foam-like pattern crudely lining the edges of vast bubbles (voids; appearing as dark regions in the image). This structure forms as a natural consequence of gravity as galaxies pull on each other and coalesce into groups, leaving emptiness between. This graphic shows the bubble edges and filaments where galaxies collect. The larger galaxies are bright dots in this view-almost like cities along a 3-dimensional web of highways through the vast emptiness. From the Millennium Simulation [25]. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 4 Space Colonization 
 58 
 travel 
@@ -1817,7 +1817,7 @@ Humans are not shy about congratulating themselves on accomplish- ments, and yes
 But let's not get ahead of ourselves. Just because we can point to a few special example accomplishments does not mean that such examples presage a new normal. A person can climb Mt. Everest, but it is not ever likely to become a commonplace activity. We can build a supersonic passenger airplane for trans-atlantic flight, but it does not mean it will be viable to sustain.14 One can set up a backyard obstacle course for squirrels and generate viral videos, but the amusing demonstration does not signal a "new normal" in backyard design. We need to separate the possible from the practical. The moon landings might then be viewed as a nifty stunt a demonstration of capability-rather than a path to our future. We encountered similar arguments in Chapter 2 in relation to decoupling: just because it can happen in certain domains of the economy does not mean that the entire economy can decouple and "defy gravity." 
 The attractive evolutionary argument misses two critical facets of reality. When fish crawled out of the sea, they escaped predation (as the first animals on land) and found new food sources free of competition. That's a win-win: less dangerous, more sustenance.15 Likewise, when birds took flight (or we could discuss insects, which beat the birds to it), it was a similar story: evade ground-based predators who could not fly, and access a whole new menu of food-another win-win. 
 Going to space could easily be cast as a lose-lose. It's an extremely hostile environment offering no protection or safe haven,16 and there's nothing to eat.17 Think about it: where would you go to grab a bite in our solar system at present, outside of Earth? And a solar system is an absolute oasis compared to the vast interstellar void. The two factors that jointly 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 Table 4.3: Approximate/estimated costs, adjusted for inflation (M = million; B billion). [26-29] 
 13: 
 Effort 
@@ -1860,7 +1860,7 @@ Figure 4.4: The pink band indicates the farthest humans have been from the surfa
 [30]: (2020), International Space Station 
 4.3 A Host of Difficulties 
 If undeterred by the vast emptiness, hostile conditions, or lack of human- supporting resources in space, then maybe it's because you believe 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 human ingenuity can overcome these challenges. And this is correct to a degree. We have walked on one other solar system body.18 We have had individuals spend a year or so in earth orbit. Either these represent first baby steps to a space future, or just rare feats that we can pull off at great effort/expense. How can we tell the difference? 
 Box 4.4: Comparison to Backpacking 
 The way most people experience backpacking is similar to how we go about space exploration: carry on your back all the food, clothing, shelter, and utility devices that will be needed for a finite trip duration. Only air and water are acquired in the wild. For space travel, even the air and water must be launched from Earth. So space travel is like a glorified and hyper-expensive form of backpacking—albeit offering breathtaking views!. 
@@ -1879,7 +1879,7 @@ Building a habitat on the ocean floor would be vastly easier than trying to do s
 20: Even just 10 meters under the surface! 
 This is not to advocate ocean floor habi- tation as a good idea; it is merely used to illustrate that space habitation is an even less practical idea, by far. 
 [31]: (2020), Biosphere 2 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions.On the subject of terraforming, consider this perspective. Earth right now has a problem of excess CO2 as a result of fossil fuel combustion (the subject of Chapter 9). The problem has flummoxed our economic and political systems, so that not only do we seem to be powerless to revert to pre-industrial CO2 levels, but even arresting the annual increase in emissions appears to be beyond our means. Pre-industrial levels of CO2 measured 280 parts per million (ppm) of the atmosphere, which we will treat as the normal level. Today's levels exceed 400 ppm, so that the modification is a little more than 100 ppm, or 0.01% of our atmosphere.21 Meanwhile, Mars' atmosphere is 95% CO2. So we might say that Earth has a 100 ppm problem, but Mars has essentially a million part-per- million problem. On Earth, we are completely stymied by a 100 ppm 
+On the subject of terraforming, consider this perspective. Earth right now has a problem of excess CO2 as a result of fossil fuel combustion (the subject of Chapter 9). The problem has flummoxed our economic and political systems, so that not only do we seem to be powerless to revert to pre-industrial CO2 levels, but even arresting the annual increase in emissions appears to be beyond our means. Pre-industrial levels of CO2 measured 280 parts per million (ppm) of the atmosphere, which we will treat as the normal level. Today's levels exceed 400 ppm, so that the modification is a little more than 100 ppm, or 0.01% of our atmosphere.21 Meanwhile, Mars' atmosphere is 95% CO2. So we might say that Earth has a 100 ppm problem, but Mars has essentially a million part-per- million problem. On Earth, we are completely stymied by a 100 ppm 
 CO2 increase while enjoying access to all the resources available to us on the planet. Look at all the infrastructure available on this developed world and still we have not been able to reverse or even stop the CO2 increase. How could we possibly see transformation of Mars' atmosphere into habitable form as realistic, when Mars has zero infrastructure to support such an undertaking? We must be careful about proclaiming notions to be impossible, but we can be justified in labeling them as outrageously impractical, to the point of becoming a distraction to discuss. Figure 4.5 further illustrates the giant gap between tolerable conditions and actual atmospheres on offer in the solar system. 
 We also should recall the lesson from Chapter 1 about exponential growth, and how the addition of another habitat had essentially no effect on the overall outcome, aside from delaying by one short doubling time. Therefore, even if it is somehow misguided to discount colonization of another solar system body, who cares? We still do not avoid the primary challenge facing humanity as growth slams into limitations in a finite world (or even finite solar system, if it comes to that). 
 4.4 Exploration's Role 
@@ -1904,7 +1904,7 @@ Temperature (C)
 Figure 4.5: Rocky-body atmospheres in the solar system, showing average temperature (Celsius) and pressure (atmospheres). The range 
 of "comfort" for Earth is shown as a blue rectangle going from -10°C to 40°C and 0.2 atm (where the atmosphere would need to be 100% oxygen) to (arbitrarily) 10 atm. Not only are the other bodies far outside our comfort range, the composi- tions are noxious, and lack oxygen. Bear in mind that a change of even a few degrees- as in climate change is a big deal. Even Mt. Everest, where humans can survive for only a few hours with supplemental oxygen is substantially more hospitable than Mars. 
 22: Reaching the Americas involved a leap across a span of (life-supporting) ocean about twice the size of Europe. Reaching Mars involves a leap across inhospitable space 5,000 times the diameter of Earth- not very similar at all. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 4 Space Colonization 62 
 places to test our toughness and also learn about new environments. We do not view these sorts of explorations as mistakes just because they did not pave the way for inhabitation. Rather, we speak fondly of such excursions as feathers in our collective cap: feats that make us proud as a species. Space might be viewed in a similar way: superlative in terms of challenge and wonderment, reflecting positively on our curiosity, drive, ingenuity, and teamwork. We also derive benefits23 in the way of technological advancement propelled by our quest to explore, and in furthering our scientific understanding of nature. 
 So even if space does not fulfill the fantasy of continued human expansion across the cosmos, it is in our nature to at least explore it. We would do well to put space exploration in the category of conquering Mt. Everest rather than that of Europeans stumbling upon the West Indies (one is as imminently uninhabitable as the other is inhabitable). Let us not make the mistake of applying the wrong narrative to space. 
@@ -1916,7 +1916,7 @@ Space colonization might be treated as a pretend fantasy for the moment. We woul
 23: 
 among them a deeper appreciation for the rare and precious Earth 
 Despite the pessimistic tone of this chapter, the author is himself captivated by space, and has built a life around it: Star Wars was a transformative influence as a kid, and later Star Trek. The movie The Right Stuff is still a favorite. He has peered to the edge of the universe first through a 10-inch tele- scope he built in high school, and later us- ing the largest telescopes in the world. He has worked on a Space Shuttle experiment, met astronauts, knew Sally Ride, and spent much of his career building and operating a laser system to bounce and detect indi- vidual photons off the reflectors placed on the lunar surface by the Apollo astronauts (as a test of the fundamental nature of grav- ity), which directly inspired part of a Big Bang Theory episode via personal interac- tions with the show's writers. So a deep fondness for space? Yes. Would volunteer to go to the moon or Mars? Yes. Believes it holds the key to humanity's future? No. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 4 Space Colonization 63 
 Box 4.5: Q&A on State of Exploration 
 After reading the first draft of this chapter, students had a number of remaining questions. Here are some of them, along with the author's 
@@ -1935,7 +1935,7 @@ nature.
 4.5 Upshot: Putting Earth First 
 The author might even go so far as to label a focus on space colonization in the face of more pressing challenges as disgracefully irresponsible. Diverting attention in this probably-futile26 effort could lead to greater total suffering if it means not only mis-allocation of resources but perhaps 
 26: ... at least on relevant time scales 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 more importantly lulling people into a sense that space represents a viable 
 escape hatch. Let's not get distracted! 
 The fact that we do not have a collective global agreement on priorities or the role that space will (or will not) play in our future only highlights the fact that humanity is not operating from a master plan27 that has been well thought out. We're simply "winging it," and as a result potentially wasting our efforts on dead-end ambitions. Just because some people are enthusiastic about a space future does not mean that it can or will happen. 
@@ -1953,7 +1953,7 @@ how big is this in relation to familiar objects?
 4. Find an Earth globe and an object about one-fourth its size to represent the moon, then place at the appropriate distance apart. Report on how far this is. Take a personalized/unique picture to document, and take some time appreciating how big Earth would look from the moon. 
 This kind of exercise might seem like a hassle, but it can really help internalize the scales in a way words never will. 
 By doing this, you can get maybe 2% of the enjoyment of a trip to the moon for less than one-billionth the cost: a real bargain! Can you make out Florida? Japan? 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 5. Highway 6563 in New Mexico has signs along a roughly 30 km stretch of road corresponding to the solar system scale from the Sun to Neptune. On this scale, how large would Earth, Sun, and Jupiter be, in diameter? Express in convenient units appropriate to the scale. 
 6. Using the setup in Problem 5, how fast would you have to travel on the road to match the speed of light, for which it takes 500 seconds to go from Earth to the sun? Express in familiar/convenient units. 
 7. Note that the size of the moon in Figure 4.1 is about the same size as the sun in Figure 4.2. Explain how this is related to the fact that they appear to be about the same size in our sky. Hint: imagine putting your eye at the earth location in each figure and looking at the other body. 
@@ -1969,7 +1969,7 @@ This is why eclipses are special on Earth.
 30:...since Earth is the only livable "oasis" in our own solar system 
 31: In other words, Earth diameter is to interstellar distances as a 100 m oasis is to how far? 
 The insight you develop will not depend on exact choices for distance and speed, as long as they are reasonable. 
-2022 T. W. Murphy, Jr.; Creative Commons Attribution-NonCommercial 4.0 International Lic.; Freely available at: https://escholarship.org/uc/energy_ambitions. 
+ 
 the last 45 years; 
 4 Space Colonization 
 66 
