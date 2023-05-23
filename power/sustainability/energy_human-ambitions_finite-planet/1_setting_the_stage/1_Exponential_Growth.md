@@ -2,92 +2,97 @@
 title = "1 Exponential Growth"
 
 +++
-Humans have amazing strengths, but also significant weaknesses. Chief among them, perhaps, is our collective difficulty in grasping the math- ematical consequences of exponential growth.1 This is an ironic state, given that our economic and political goals are often geared explicitly to support continued growth. The degree to which an expectation and desire for continued growth is woven into our society makes it important to examine the phenomenon carefully, so that we might avoid building upon a shaky foundation. In this chapter, we explore the general nature of exponential growth, in order to understand the impossibility of its long-term continuance by way of exposing various absurd consequences that uninterrupted growth prescribes. The upshot2 is that our societal framework eventually must face a mandatory departure from the current model-a piece of knowledge we should all lodge into the backs of our minds. Subsequent chapters will address applications to economic and population growth-including more realistic logistic growth curves, then pivot toward nailing down limits imposed by our finite planet. 
+Humans have amazing strengths, but also significant weaknesses. Chief among them, perhaps, is our collective difficulty in grasping the mathematical consequences of exponential growth.[^1] This is an ironic state, given that our economic and political goals are often geared explicitly to support continued growth. The degree to which an expectation and desire for continued growth is woven into our society makes it important to examine the phenomenon carefully, so that we might avoid building upon a shaky foundation. In this chapter, we explore the general nature of exponential growth, in order to understand the impossibility of its long-term continuance by way of exposing various absurd consequences that uninterrupted growth prescribes. The upshot[^2] is that our societal framework eventually must face a mandatory departure from the current model- a piece of knowledge we should all lodge into the backs of our minds. Subsequent chapters will address applications to economic and population growth-including more realistic logistic growth curves, then pivot toward nailing down limits imposed by our finite planet. 
+
 ## 1.1 Bacteria in a Jar 
 One hallmark of exponential growth is that the time it takes to double in size, or the doubling time, is constant. An important and convenient concept we will repeatedly use in this chapter is the rule of 70: 
+
 Definition 1.1.1 Rule of 70: The doubling time associated with a percentage growth rate is just 70 divided by the percentage rate. A 1% growth rate doubles in 70 years, while a 2% rate doubles in 35 years, and a 10% rate doubles in 7 years. It also works for other timescales: if pandemic cases are increasing at a rate of 3.5% per day, the doubling time is 20 days. 
-1.1 Bacteria in a Jar . 
-Exponential Math 
-2 
-4 
-7 
-1.2 Energy Extrapolation . . . 1.3 Thermodynamic Absurdity. 10 1.4 Upshot: Limits to Growth .. 
-13 
-1.5 Problems. 
-1: 
-13 
-... a nod to Al Bartlett, who worked to raise awareness about exponential growth 
-2: The word "upshot" means final result or bottom-line. Each chapter has an Upshot at the end. 
+
+
+
+[^1]: ... a nod to Al Bartlett, who worked to raise awareness about exponential growth
+
+[^2]: The word "upshot" means final result or bottom-line. Each chapter has an Upshot at the end. 
+
 Note that any growth, however slow, can be characterized by a doubling time, even if the process does not involve discrete steps of doubling. 
 NGC 253 photo credit: Dylan O'Donnell. 
  
 We will see how the rule of 70 arises mathematically later in this chapter. But first, it is more important to understand the consequences. To make the math simple, let's say that a town's size doubles every 10 years (which by the rule of 70 corresponds to a 7% growth rate, incidentally). Starting in the year 1900 at 100 residents, we expect town population to be 200 in 1910, 400 in 1920, 800 in 1930, eventually climbing to over 100,000 by the year 2000 (see Table 1.1). Unabated 7% growth would result in the town reaching the current world population just 260 years after the experiment began. 
+
+Table 1.1: Example 7% growth progression.
+
+- Year Population
+- 1900 100
+- 1910 200
+- 1920 400
+- 1930 800
+- 1940 1,600
+- 2000 102,400
+
+
 But let's explore an example that often reveals our faulty intuition around exponential growth. Here, we imagine a jar rich in resources, seeded with just the right number of bacteria so that if each bacterium splits every 10 minutes, the jar will become full of bacteria in exactly 24 hours. The experiment starts right at midnight. The question is: at what time will the jar be half full? 
+
 Think about this on your own for a minute. Normal intuition might suggest a half-full jar at noon-halfway along the experiment. But what happens if we work backwards? The jar is full at midnight, and doubles every ten minutes. So what time is it half full? 
+
 The answer is one doubling-time before midnight, or 11:50 PM. Figure 1.1 illustrates the story. At 11 PM, the jar is at one-64th capacity, or 1.7% full. So, for the first 23 of 24 hours, the jar looks basically empty. All the action happens at the end, in dramatic fashion. 
-1 Exponential Growth 
-3 
-Table 1.1: Example 7% growth progression. 
-Year 
-Population 
-1900 
-100 
-1910 
-200 
-1920 
-400 
-1930 
-800 
-1940 
-1,600 
-2000 
-102,400 
+
+ 
+
 10 minutes is perhaps a little fast for biology, but we're looking for easy understanding and picking convenient numbers. In prac- tice, 20-30 minutes may be more realistic. We will also ignore deaths for this "toy" ex- ample, although the net effect only changes the rate and not the overall behavior. 
-1/512 
-22:30 
-1/256 
-1/128 
-1/64 
-1/32 
-1/16 
-1/8 
-1/4 
-1/2 
-1 
-22:40 
-22:50 
-23:00 
-23:10 
-23:20 
-23:30 
-23:40 
-23:50 
-24:00 
+
+
+|        |       |
+|--------|-------|
+| 22:30  | 1/512 |
+| 22:40  | 1/256 |
+| 22:50  | 1/128 |
+| 23:00  | 1/64  |
+| 23:10  | 1/32  |
+| 23:20  | 1/16  |
+| 23:30  | 1/8   |
+| 23:40  | 1/4   |
+| 23:50  | 1/2   |
+| 24:00  | 1     |
+
 Figure 1.1: The last 90 minutes in the sequence of bacteria (green) growing in a jar, doubling every 10 minutes. For the first 22.5 hours, hardly anything would be visible. Note that the upward rise of green "bars" makes an exponential curve. 
+
 Now let's imagine another illustrative scenario in connection with our jar of bacteria. The time is 11:30 PM: one-half hour before the end. The jar is one-eighth full. A thoughtful member of the culture projects the future and decides that more uninhabited resource-laden jars must be discovered in short order if the culture is to continue its trajectory. Imagine for a second the disbelief expressed by probably the vast majority of other inhabitants: the jar is far from full, and has served for 141 generations-a seeming eternity. Nonetheless, this explorer returns reporting three other equal-sized food-filled jars within easy reach. A hero's welcome! How much longer will the culture be able to continue growing? What's your answer? 
  
 The population doubles every ten minutes. If the original jar is filled at 12:00, the population doubles to fill the second jar by 12:10. Another doubling fills all four by 12:20. The celebration is short-lived. 
-Now we draw the inevitable parallels. A planet that has served us for countless generations, and has seemed effectively infinite-imponderably large makes it difficult for us to conceive of hitting limits. Are we half-full now? One-fourth? One-eighth? All three options are scary, to different degrees. At a 2% rate of growth (in resource use), the doubling time is 35 years, and we only have about a century, even if at 1/8 full right now.3 
-In relation to the bacteria parable, we've already done a fair bit of exploring. We have no more jars. One planet rhymes with jars, but it is hostile to human life, has no food, and is not within easy reach. We have no meaningful outlet. And even if we ignore the practical hardships, how much time would a second planet buy us anyway for uninterrupted growth? Another 35 years? 
+
+Now we draw the inevitable parallels. A planet that has served us for countless generations, and has seemed effectively infinite-imponderably large makes it difficult for us to conceive of hitting limits. Are we half-full now? One-fourth? One-eighth? All three options are scary, to different degrees. At a 2% rate of growth (in resource use), the doubling time is 35 years, and we only have about a century, even if at 1/8 full right now.[^3] 
+
+[^3]: If we're at 1/8 right now and double every 35 years, we will be at 1/4 in 35 years, 1/2 in 70 years, and full in 105 years.
+
+
+In relation to the bacteria parable, we've already done a fair bit of exploring. We have no more jars. One planet rhymes with jars, but it is hostile to human life, has no food, and is not within easy reach.+++(5)+++ We have no meaningful outlet. And even if we ignore the practical hardships, how much time would a second planet buy us anyway for uninterrupted growth?[^4] Another 35 years? 
+
+
+[^4]: Chapter 4 addresses space realities.
+
 ### 1.1.1 Exponential Math 
+
 Box 1.1: Advice on Reading Math 
-This section is among the most mathematically sophisticated in the book. Don't let it intimidate you: just calmly take it in. Realize that exponential growth obeys an unchanging set of rules, and can be covered in just a few pages. Your brain can absorb it all if you give it a chance. Read paragraphs multiple times and find that each pass can add to your comprehension. Equations are just shorthand sentences5 capturing the essence of the concepts being covered, so rather than reading them as algorithms to file and use later when solving problems, work to comprehend the meaning behind each one and its reason for being a part of the development. In this way, what follows is not a disorganized jumble, recklessly bouncing between math and words, but one continuous development of thought expressed in two languages at once. The Preface offers additional thoughts related to this theme, and Appendix A provides a math refresher. 
-The essential feature of exponential growth is that the scale goes as the power of some base (just some number) raised to the time interval. In the doubling sequence, we start at 1x the original scale, then go to 2x, then 4×, then 8x, etc. At each time interval, we multiply by 2 (the base). After 5 such intervals, for instance, we have 2 x 2 x 2 x 2 x 2, or 25 = 32. More generally, after n doubling times, we have increased by a factor of 2", where 2 is the base, and n is the number of doubling times. We might formalize this as 
-1 Exponential Growth 
-4 
-3: If we're at 1/8 right now and double every 35 years, we will be at 1/4 in 35 years, 1/2 in 70 years, and full in 105 years. 
-4: Chapter 4 addresses space realities. 
-Experts habitually read complicated pas- sages multiple times before the material sinks in. Maybe it's this calm habit that turns them into experts! 
-5: Unlike words/language, the symbols chosen for equations are just labels and carry no intrinsic meaning-so electing to use x, n, t, b, M, etc. reflect arbitrary choices and can be substituted at will, if done con- sistently. The content is in the structure of the equation/sentence. 
-M = 
-= 2n = 2t/t2, 
-(1.1) 
- 
-1 Exponential Growth 
-5 
+
+This section is among the most mathematically sophisticated in the book. Don't let it intimidate you: just calmly take it in. Realize that exponential growth obeys an unchanging set of rules, and can be covered in just a few pages. Your brain can absorb it all if you give it a chance. Read paragraphs multiple times and find that each pass can add to your comprehension. Equations are just shorthand sentences[^5] capturing the essence of the concepts being covered, so rather than reading them as algorithms to file and use later when solving problems, work to comprehend the meaning behind each one and its reason for being a part of the development. In this way, what follows is not a disorganized jumble, recklessly bouncing between math and words, but one continuous development of thought expressed in two languages at once. The Preface offers additional thoughts related to this theme, and Appendix A provides a math refresher. 
+
+Experts habitually read complicated passages multiple times before the material sinks in. Maybe it's this calm habit that turns them into experts!
+
+[^5]: Unlike words/language, the symbols chosen for equations are just labels and carry no intrinsic meaning-so electing to use x, n, t, b, M, etc. reflect arbitrary choices and can be substituted at will, if done con- sistently. The content is in the structure of the equation/sentence.
+
+
+The essential feature of exponential growth is that the scale goes as the power of some base (just some number) raised to the time interval. In the doubling sequence, we start at 1x the original scale, then go to 2x, then 4x, then 8x, etc. At each time interval, we multiply by 2 (the base). After 5 such intervals, for instance, we have 2 x 2 x 2 x 2 x 2, or 2^5 = 32. More generally, after n doubling times, we have increased by a factor of 2^n, where 2 is the base, and n is the number of doubling times. We might formalize this as 
+
+$$M = 2^n = 2^(t/t2)$$,  (1.1)
+
+
 where M represents the multiplicative scale, t is the elapsed time, and t2 is the symbol we choose to represent the doubling time-so that n = t/t2 is just "counting" the number of doubling times. 
+
 Box 1.2: Interest Example 
+
 The same process happens in a bank account accumulating interest. Let's consider that you deposit $100 into a bank account bearing 2% annual interest. At the end of one year, you'll have $102, which is 1.02 times the original amount. For the next year, it's 1.02 times $102, or $104.04, which is the original $100 times 1.02 x 1.02. Then in three years it will be $106.18, or $100 times 1.023. Having sussed out the pattern, after 35 years it would be $100 times 1.0235, which happens to come to $199.99. Notice that doubling in 35 years at 2% exactly obeys the rule of 70. Table 1.2 summarizes this example. 
+
 The pattern-whether doubling, or applying interest as in Box 1.2-is that we multiply a chain of the same number, the base, over and over. This is the same as raising the base to some power-the power equaling how many times the base appears in the chain to get our overall factor. Therefore, if we designate the base as b and the number of times it appears as n, we have 
 M = b2. 
 (1.2) 
@@ -134,7 +139,7 @@ In M = n lnb,
 (1.5) 
 so that the number of applications of base, b, needed to achieve multi- plicative factor M is found by solving the equation above for n, in which 
  
-1 Exponential Growth 
+ 
 6 
 case we get: n = In M/ln b. 
 Example 1.1.1 The time it would take to increase by a factor of 1,000 (M = 1000) at a rate of 1.07 (annual growth rate of 7%; b = 1.07) is n = ln M/ln 1.07 = 102 years. 
@@ -157,9 +162,10 @@ Don't view this as a recipe for solving prob- lems, but as a way to romp through
 More generally, we are not confined to any particular base, b, having just seized upon two convenient and relevant possibil- ities. If we wanted b 10, we would have n = 0.211, for example. In this case, the interpretation is that our ten-year point is 21.1% of the way to a factor-of-ten multi- plication, so that 47.4 years at 5% growth results in a factor of 10 growth. 
  
 We can check the result using Eq. 1.6 by putting in t = 22.5 and p = 0.05 or t2 = 14.2 in the latter form. 
+
 ## 1.2 Exponential Energy Extrapolation 
 Having established some basic principles of exponential growth, it's time for a first look at how we can use the math to argue about limits to our expectations. We'll concentrate on energy use. The United States Energy Information Administration (EIA) provides information on energy use from 1949 to the present. An appendix (E1: [3]) presents an approximate account of energy use from 1635-1945. Figure 1.2 displays the more recent portion of this history. 
-1 Exponential Growth 
+ 
 7 
 Lacking comparable data for the world, we use U.S. data simply to illustrate the more broadly applicable global growth trend. Even countries far behind are growing en- ergy use often faster than the 3% charac- teristic of U.S. history. 
 Energy Production Rate (TW) 
@@ -195,7 +201,7 @@ Energy Production Rate (Watts)
 www 
 109 
 T 
-1 Exponential Growth 
+ 
 108 
 1650 
 1700 
@@ -231,7 +237,7 @@ If we took the material comprising the entire Earth (or Venus) and created a sph
 Bypassing boring realism, we recognize that our sun is not the only star in the Milky Way galaxy. In fact, we estimate our galaxy to contain roughly 100 billion stars! This seems infinite. A billion seconds is just over 30 years, so no one could count to 100 billion in a lifetime. But let's see: 100 billion is 1011. Immediately, we see that we buy another 11 centuries at our 2.3% rate. So it takes 1,100 years to go from consuming our entire sun to all the stars in our galaxy! That's 2,500 years from now, adding the two timescales, and still a civilization-relevant time period. Leave aside the pesky fact that the scale of our galaxy is 100,000 light years, so that we can't possibly get to all the stars within a 2,500 year timeframe. So even as a mathematical exercise, physics places yet another limit on how long we could conceivably expect to maintain our current energy growth trajectory. 
 The unhinged game can continue, pretending we could capture all the light put out by all the stars in all the galaxies in the visible universe. Because the visible universe contains about 100 billion galaxies, we buy another 1,100 years. We can go even further, imagining converting all matter (stars, gas, dust) into pure energy (E= mc2), not limiting ourselves to only the light output from stars as we have so far. Even playing these unhinged games, we would exhaust all the matter in the visible universe within 5,000 years at a 2.3% rate. The exponential is a cruel beast. Table 1.3 summarizes the results. 
 The point is not to take seriously the timescales for conquering the sun or the galaxy. But the very absurdity of the exercise serves to emphasize 
-1 Exponential Growth 
+ 
 9 
 11: Math becomes easier if you blur your vision a bit and do not demand lots of pre- cision. In this case, we essentially ignore everything but the exponent, recognizing that each century will increment it by 1, at our chosen 2.3% rate. 
 12: In this case, the "real" answer would be 1,335 years, but why fret over the details for little gain or qualitative difference in the outcome? 
@@ -250,7 +256,7 @@ Light in Universe Mass in Universe
 By coincidence, the visible universe has about as many galaxies as our galaxy has stars. By "visible" universe, we mean every- thing within 13.8 billion light years, which is as far as light has been able to travel since the Big Bang (see Sec. D.1; p. 392). 
  
 the impossibility of our continuing exponential growth in energy. All kinds of reasons will preclude continued energy growth, including the fact that human population cannot continue indefinite growth on this planet. We will address space colonization fantasies in Chapter 4. 
-1 Exponential Growth 10 
+ 10 
 ## 1.3 Thermodynamic Consequences 
 Physics places another relevant constraint on growth rate, and that concerns waste heat. Essentially all of our energy expenditures end up as heat. Obviously many of our activities directly involve the production of heat: ovens, stoves, toasters, heaters, clothes dryers, etc. But even cooling devices are net heat generators. Anything that uses power from an electrical outlet ends up creating net heat in the environment, with very few exceptions. A car moving down the road gets you from place A to place B, but has stirred the air,13 heated the engine and surrounding air, and deposited heat into the brake pads and rotors, tires and road. Our metabolic energy mostly goes to maintaining body temperature. But even our own physical activity tends to end up as heat in the environment. The only exceptions would be beaming energy out of the earth environment (e.g., light or radio) or putting energy into storage (eventually to be converted to heat). But such exceptions do not amount to much, quantitatively. 
 What happens to all of this waste heat? If it all stayed on Earth, the temperature would climb and climb. But the heat does have an escape path: infrared radiation14 to space. The earth is in an approximate thermodynamic equilibrium: solar energy is deposited, and infrared radiation balances the input to result in steady net energy. As we will see in Chapter 5, the rate at which energy flows is called power, so that we can describe energy flows into and out of the earth system in terms of power. Physics has a well-defined and simple rule for how much power a body radiates, called the Stefan-Boltzmann law: 
@@ -275,7 +281,7 @@ space.
 Earth reaches an equilibrium so that power-in equals power-out.18 If more power is dumped onto the planet, then the temperature rises until σT4 climbs to match. The relation in Eq. 1.9 is fundamentally important to Earth's temperature balance, and applies pretty universally, as highlighted in Box 1.4. 
 Box 1.4: Everything Radiates 
 The same relation (Eq. 1.8) governs the surface of the sun, light bulb filaments, glowing coals, and even the human body. While the human body expends metabolic energy at a similar rate to an incandescent light bulb (about 100 W), one is much hotter than the other because the surface areas are vastly different. 
-1 Exponential Growth 11 
+ 11 
 Try it yourself on a calculator! 
 Temperature must be in Kelvin. 
 18: Climate change is due to greenhouse gases blocking the escape of some radia- tion to space, presently causing a ~0.1% imbalance that Chapter 9 will address. 
@@ -297,7 +303,7 @@ T4
 = 
 40 
 (1.11) 
-1 Exponential Growth 
+ 
 12 
 Solving for T yields T≈ 255 K, or -18°C (about 0°F). This is cold-too cold. We observe the average temperature of Earth to be about 288 K, or 15°C (59°F). The difference of 33°C is due to greenhouse gases-mostly H2O-impacting the thermal balance by preventing most radiation from escaping directly to space. We'll cover this more extensively in Chapter 
 9. 
@@ -345,7 +351,7 @@ Many factors will intercede to limit growth in both population and resource use:
 Hint: for problems that require solving temperature when it appears as T1, you'll need to take the fourth root, which is the same as raising to thepower. So use the y* button (or equivalent) and raise to the 0.25 power. You can check this technique by comparing the square root of a number to the result of raising that number to the 0.5 power. Another technique for the fourth root is to take the square root twice in a row. 
 1. Verify the claim in the text that the town of 100 residents in 1900 reaches approximately 100,000 in the year 2000 if the doubling time is 10 years. 
 2. Fill out Table 1.1 for the missing decades between 1940 and 2000. 
-1 Exponential Growth 
+ 
 13 
 Was the exercise pointless, since the math leads to absurdity? Is the math wrong? No- it's immensely valuable to learn that our assumption of continued growth (and ap- plication of the corresponding correct math) fails to make sense, ultimately. The logical conclusion is that growth cannot continue indefinitely. 
 Note that a deviation from the assumed steady 2.3% growth rate changes all the numbers, and therein may lie the solution: ramp down growth! 
@@ -362,7 +368,7 @@ this?
 10. A more dramatic, if entirely unrealistic, version of the bacteria-jar story is having the population double every minute. Again, we start the jar with the right amount of bacteria so that the jar will be full 24 hours later, at midnight. At what time is the jar half full now? 
 11. In the more dramatic bacteria-jar scenario in which doubling happens every minute and reaches single-jar capacity at midnight, at what time will the colony have to cease expansion if an explorer finds three more equivalent jars in which they are allowed to expand without interruption/delay? 
 12. What is the doubling time associated with 3.5% annual growth? 
-1 Exponential Growth 14 
+ 14 
 20: E.g., brute force doubling 26 times or using math to get straight at the answer. 
 Hint: In is the natural log function found on scientific calculators (sometimes as LN). 
 Hint: M is the ratio of the final population to the initial population. 
@@ -378,7 +384,7 @@ Roughly 10 bacteria fit within a cubic micron (tiny), so you would not be able t
 19. Your skin temperature is about 308 K, and the walls in a typical room are about 295 K. If you have about 1 m2 of outward-facing surface area, how much power do you radiate as infrared radiation, in Watts? Compare this to the typical metabolic rate of 100 W. 
 20. The moon absorbs 90% of the solar energy incident on it.23 How hot would you expect the surface to get under full sun? You don't need the factor of four here24 because the moon rotates very slowly under the sun and we're considering a patch experiencing overhead sunlight (rather than averaging over the sphere). Compare the result to boiling water temperature. 
 21. Venus is, ironically, colder than Earth as an infrared radiator. This is because Venus is covered in bright clouds, absorbing only 25% of the incident solar flux. Sunlight is more intense there due to it's being closer to the sun: it's almost double, at 2,620 W/m2. Adapting Eq. 1.11, calculate the equilibrium temperature of Venus in the infrared and compare it to the Earth value of 255 K. 
-1 Exponential Growth 15 
+ 15 
 Hint: the exponential, ex, "undoes" the nat- ural logarithm. 
 21: Hint: a good way to check your math. Note that if we were to use 2.9% instead of 2.3%, all of the time estimates in Section 1.2 are reduced by the ratio of this question's answer to 100 years. 
 22: This corresponds to a 1.4% growth rate, but you don't need to use this number in your calculation. 
@@ -399,7 +405,7 @@ The surface of Venus is much hotter than that of Earth owing to a runaway green-
 1.9. 
 25. Verify that Earth would reach a temperature far in excess of boiling point of water25 after 500 years if today's power output (18 TW) increased by a factor of 10 each century. 
  
-1 Exponential Growth 
+ 
 16 
 25: Water boils at 100°C, or 373 K. 
 WL23375422N LIB 
