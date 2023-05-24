@@ -107,13 +107,12 @@ year bn dollars
 
 The pattern-whether doubling, or applying interest as in Box 1.2-is that we multiply a chain of the same number, the base, over and over. This is the same as raising the base to some power-the power equaling how many times the base appears in the chain to get our overall factor. Therefore, if we designate the base as b and the number of times it appears as n, we have 
 
-M = b2. 
-(1.2) 
+$$M = b^n$$  (1.2) 
 
-Now we're going to play a math trick that will help us compute various useful attributes of growth. The exponential and natural logarithm are inverse functions, each undoing the other. So In (ex) = x and elnx = x. We can use this trick to express the number 2 as eln2, or any base number b = elnb. For the special case of b = 2 (doubling), we then have: 
-t/t2 
-M = 21/12 = (eln 2) /12 = et In 2/12, 
-(1.3) 
+Now we're going to play a math trick that will help us compute various useful attributes of growth. The exponential and natural logarithm are inverse functions, each undoing the other. So $ln(e^x) = x$ and $e^{ln x} = x$. We can use this trick to express the number 2 as $e^{ln 2}$, or any base number $b = e^{ln b}. For the special case of b = 2 (doubling), we then have: 
+
+$$M = 2^{t/t_2} = (e^{ln 2})^{t/t_2} = e^{t/t_2 In 2}$$, (1.3) 
+
 where we started with Eq. 1.1, re-expressed the number 2, and then applied the rule that raising a power to another power is the same as multiplying the powers to form a single one. By employing such tricks, we could cast any base to a power, like b* as some exponential function ex lnb, and thus can transform any "power" relationship into an exponential using base e≈ 2.7183. Casting Eq. 1.2 in this form: 
 M=b" "In b 
 = e 
