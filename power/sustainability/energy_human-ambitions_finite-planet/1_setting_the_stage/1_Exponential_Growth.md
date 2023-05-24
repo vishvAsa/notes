@@ -73,15 +73,16 @@ In relation to the bacteria parable, we've already done a fair bit of exploring.
 
 ### 1.1.1 Exponential Math 
 
-Box 1.1: Advice on Reading Math 
+<details><summary>Box 1.1: Advice on Reading Math</summary>
 
 This section is among the most mathematically sophisticated in the book. Don't let it intimidate you: just calmly take it in. Realize that exponential growth obeys an unchanging set of rules, and can be covered in just a few pages. Your brain can absorb it all if you give it a chance. Read paragraphs multiple times and find that each pass can add to your comprehension. Equations are just shorthand sentences[^5] capturing the essence of the concepts being covered, so rather than reading them as algorithms to file and use later when solving problems, work to comprehend the meaning behind each one and its reason for being a part of the development. In this way, what follows is not a disorganized jumble, recklessly bouncing between math and words, but one continuous development of thought expressed in two languages at once. The Preface offers additional thoughts related to this theme, and Appendix A provides a math refresher. 
 
 Experts habitually read complicated passages multiple times before the material sinks in. Maybe it's this calm habit that turns them into experts!
 
 [^5]: Unlike words/language, the symbols chosen for equations are just labels and carry no intrinsic meaning-so electing to use x, n, t, b, M, etc. reflect arbitrary choices and can be substituted at will, if done consistently. The content is in the structure of the equation/sentence.
+</details>
 
-
+#### Multiplication time
 The essential feature of exponential growth is that the scale goes as the power of some base (just some number) raised to the time interval. In the doubling sequence, we start at 1x the original scale, then go to 2x, then 4x, then 8x, etc. At each time interval, we multiply by 2 (the base). After 5 such intervals, for instance, we have 2 x 2 x 2 x 2 x 2, or $2^5$ = 32. More generally, after n doubling times, we have increased by a factor of $2^n$, where 2 is the base, and n is the number of doubling times. We might formalize this as 
 
 $$M = 2^n = 2^{t/t2}$$,  (1.1)
@@ -95,7 +96,8 @@ For instance, doubling has M = 2, tripling has M = 3, and increasing by 29% woul
 </details>
 
 
-Box 1.2: Interest Example 
+<details><summary>Box 1.2: Interest Example</summary>
+
 
 The same process happens in a bank account accumulating interest. Let's consider that you deposit \$100 into a bank account bearing 2% annual interest. At the end of one year, you'll have \$102, which is 1.02 times the original amount. For the next year, it's 1.02 times \$102, or \$104.04, which is the original \$100 times 1.02 x 1.02. Then in three years it will be \$106.18, or \$100 times 1.023. Having sussed out the pattern, after 35 years it would be \$100 times 1.0235, which happens to come to \$199.99. Notice that doubling in 35 years at 2% exactly obeys the rule of 70. Table 1.2 summarizes this example. 
 
@@ -110,6 +112,8 @@ year bn dollars
 10 1.2190 \$121.90  
 ...  
 35 1.9999 \$199.99
+</details>
+
 
 The pattern-whether doubling, or applying interest as in Box 1.2-is that we multiply a chain of the same number, the base, over and over. This is the same as raising the base to some power-the power equaling how many times the base appears in the chain to get our overall factor. Therefore, if we designate the base as b and the number of times it appears as n, we have 
 
@@ -157,8 +161,14 @@ so that the number of applications of base, b, needed to achieve multiplicative 
 
 
  
-Example 1.1.1 The time it would take to increase by a factor of 1,000 (M = 1000) at a rate of 1.07 (annual growth rate of 7%; b = 1.07) is n = ln M/ln 1.07 = 102 years. 
+<details><summary>Example 1.1.1</summary>
 
+ The time it would take to increase by a factor of 1,000 (M = 1000) at a rate of 1.07 (annual growth rate of 7%; b = 1.07) is n = ln M/ln 1.07 = 102 years.
+
+The same result happens if using log instead of ln: try it!
+</details>
+
+#### Rule of 70
 The rule of 70 can be recovered[^7] by setting the multiplicative factor, M, to 2. 
 
 [^7]: What follows is a high-brow symbolic approach, but the same effective result can be achieved by setting M 2 in Eq. 1.5 and solving for n.
@@ -170,19 +180,27 @@ $$M = e^{t ln(1+p)} = e^{t ln^{2}/t_2}$$ (1.6)
 
 From this expression, we can gather that $ln(1 + p) = ln 2/t_2$ by equating the exponents, and then see that the doubling time, $t_2$, can be solved as $t_2 = ln 2/ln(1+p)$. (1.7) 
 
-For small values of p (much smaller than 1), the natural log of 1 + p is approximately p. In other words, when p = 0.02, ln 1.02≈ 0.02≈ p. This is part of the reason why we chose e as our base, as it is mathematically "natural." Since ln 2≈ 0.693.70, the doubling time, t2, is approximately 70 divided by the annual growth rate, p, in percent. So the reason it's a rule of 70 for doubling (and not a rule of 60 or 80) is basically because the natural log of 2 (representing doubling) is roughly 0.70. 
-Example 1.1.2 To tie some things together, let's look at a quantitative case that can be used to validate how various pieces relate to each other. We will describe a 5% annual growth rate. 
-The rule of 70 (Definition 1.1.1) indicates a 14 year doubling time, so that we could define t2 appearing in Eqs. 1.1, 1.3, 1.6, and 1.7 to be 14 years. Calculating exactly using Eq. 1.7 yields 14.2 years. 
-To evaluate growth in 10 years, we could use Eq. 1.1 with t = 10 and t2 = 14.2 to suggest M = 1.63, meaning a 63% increase in size (1.63 times as large as at the start). Or we could apply Eq. 1.2 using b = 1.05 and n = 10 to get the exact same result. Note that we have freedom to define the base as 1.05 or 2, and the corresponding number of steps (n) as 10 or t/t2 = 0.704, respectively, and get the same answer. In terms of the exponential form in Eq. 1.4, either pair of b and n produces 20.488 
-If we wanted to "work backwards" and ask when the amount is 3 times the original (M = 3), we could use Eq. 1.5 to find that n is 22.5 steps at b = 1.05 (thus 22.5 years, since this base is the yearly increase). Had we used b = 2, we would compute n = 1.58, meaning that the scale would reach 3x after 1.58 doubling times, or 1.58t2 = 22.5 years. 
-The same result happens if using log instead of ln: try it!
+For small values of p (much smaller than 1), the natural log of 1 + p is approximately p +++(via mcLaurin series)+++. In other words, when p = 0.02, ln 1.02≈ 0.02≈ p. (Try it yourself to verify on a calculator, by sticking in various small amounts for p.)
 
-Try it yourself to verify on a calculator, by sticking in various small amounts for p. 
-Don't view this as a recipe for solving problems, but as a way to romp through the section and help piece it together. 
-= 
-More generally, we are not confined to any particular base, b, having just seized upon two convenient and relevant possibilities. If we wanted b 10, we would have n = 0.211, for example. In this case, the interpretation is that our ten-year point is 21.1% of the way to a factor-of-ten multiplication, so that 47.4 years at 5% growth results in a factor of 10 growth. 
- 
-We can check the result using Eq. 1.6 by putting in t = 22.5 and p = 0.05 or t2 = 14.2 in the latter form. 
+This is part of the reason why we chose e as our base, as it is mathematically "natural." Since ln 2≈ 0.693 ≈ .70, the doubling time, $t_2$, is approximately 70 divided by the annual growth rate, p, in percent.+++(4)+++ So the reason it's a rule of 70 for doubling (and not a rule of 60 or 80) is basically because the natural log of 2 (representing doubling) is roughly 0.70.
+
+<details><summary>Example 1.1.2</summary>
+
+To tie some things together, let's look at a quantitative case that can be used to validate how various pieces relate to each other. We will describe a 5% annual growth rate. 
+
+The rule of 70 (Definition 1.1.1) indicates a 14 year doubling time, so that we could define $t_2$ appearing in Eqs. 1.1, 1.3, 1.6, and 1.7 to be 14 years. Calculating exactly using Eq. 1.7 yields 14.2 years. 
+
+To evaluate growth in 10 years, we could use Eq. 1.1 with t = 10 and t2 = 14.2 to suggest M = 1.63, meaning a 63% increase in size (1.63 times as large as at the start). Or we could apply Eq. 1.2 using b = 1.05 and n = 10 to get the exact same result. Note that we have freedom to define the base as 1.05 or 2, and the corresponding number of steps (n) as 10 or t/t2 = 0.704, respectively, and get the same answer. In terms of the exponential form in Eq. 1.4, either pair of b and n produces $e^0.488$. 
+
+If we wanted to "work backwards" and ask when the amount is 3 times the original (M = 3), we could use Eq. 1.5 to find that n is 22.5 steps at b = 1.05 (thus 22.5 years, since this base is the yearly increase). Had we used b = 2, we would compute n = 1.58, meaning that the scale would reach 3x after 1.58 doubling times, or $1.58 t_2$ = 22.5 years.
+
+We can check the result using Eq. 1.6 by putting in t = 22.5 and p = 0.05 or t2 = 14.2 in the latter form.
+
+Don't view this as a recipe for solving problems, but as a way to romp through the section and help piece it together.
+
+More generally, we are not confined to any particular base, b, having just seized upon two convenient and relevant possibilities. If we wanted b = 10, we would have n = 0.211, for example. In this case, the interpretation is that our ten-year point is 21.1% of the way to a factor-of-ten multiplication, so that 47.4 years at 5% growth results in a factor of 10 growth.
+</details>
+
 
 ## 1.2 Exponential Energy Extrapolation 
 Having established some basic principles of exponential growth, it's time for a first look at how we can use the math to argue about limits to our expectations. We'll concentrate on energy use. The United States Energy Information Administration (EIA) provides information on energy use from 1949 to the present. An appendix (E1: [3]) presents an approximate account of energy use from 1635-1945. Figure 1.2 displays the more recent portion of this history. 
