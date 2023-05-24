@@ -109,26 +109,42 @@ The pattern-whether doubling, or applying interest as in Box 1.2-is that we mult
 
 $$M = b^n$$  (1.2) 
 
-Now we're going to play a math trick that will help us compute various useful attributes of growth. The exponential and natural logarithm are inverse functions, each undoing the other. So $ln(e^x) = x$ and $e^{ln x} = x$. We can use this trick to express the number 2 as $e^{ln 2}$, or any base number $b = e^{ln b}. For the special case of b = 2 (doubling), we then have: 
+Now we're going to play a math trick that will help us compute various useful attributes of growth. The exponential and natural logarithm are inverse functions, each undoing the other. So $ln(e^x) = x$ and $e^{ln x} = x$. We can use this trick to express the number 2 as $e^{ln 2}$, or any base number $b = e^{ln b}$. 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Try it on a calculator for several examples of b that concoct you (make it real for yourself!). 
+</details>
+
+
+For the special case of b = 2 (doubling), we then have: 
 
 $$M = 2^{t/t_2} = (e^{ln 2})^{t/t_2} = e^{t/t_2 In 2}$$, (1.3) 
 
-where we started with Eq. 1.1, re-expressed the number 2, and then applied the rule that raising a power to another power is the same as multiplying the powers to form a single one. By employing such tricks, we could cast any base to a power, like $b^x$ as some exponential function $e^{x ln b}, and thus can transform any "power" relationship into an exponential using base e≈ 2.7183. Casting Eq. 1.2 in this form: 
+where we started with Eq. 1.1, re-expressed the number 2, and then applied the rule that raising a power to another power is the same as multiplying the powers to form a single one.[^6] 
 
-$$M=b^n = e^{n In b} $$ (1.4) 
+[^6]: As an example, think of (53) as (5 x5× 5)=(5x5x5)x(5×5×5)×(5×5×5)X(5× 5 x 5), which is just 12 fives multiplied, or 512. So we effectively just multiplied the two exponents 3 and 4-to get the 12. It always works. Often, one need not memorize math rules: quick experimentation reveals how and why it works.
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+By "trick," we do not mean to imply anything devious or untoward: just a cute manipulation that can bring additional insight or make something easier.
+</details>
+
+
+
+By employing such tricks, we could cast any base to a power, like $b^x$ as some exponential function $e^{x ln b}$, and thus can transform any "power" relationship into an exponential using base e≈ 2.7183. Casting Eq. 1.2 in this form: 
+
+$$M=b^n = e^{n ln b} $$ (1.4) 
 
 If we want to go backwards, and compute the time to reach a certain M factor, we can take the natural logarithm of both sides to learn that 
 
-For instance, doubling has M = 2, tripling has M = 3, and increasing by 29% would mean M 
-1.29. 
-= 
-By "trick," we do not mean to imply anything devious or untoward: just a cute manipulation that can bring additional insight or make something easier. 
-Try it on a calculator for several examples of b that concoct 
-you (make it real for yourself!). 
+For instance, doubling has M = 2, tripling has M = 3, and increasing by 29% would mean M = 1.29. 
+
+
 4 
-6: As an example, think of (53) as (5 x5× 5)=(5x5x5)x(5×5×5)×(5×5×5)X(5× 
-5 x 5), which is just 12 fives multiplied, or 512. So we effectively just multiplied the two exponents 3 and 4-to get the 12. It always works. Often, one need not memorize math rules: quick experimentation reveals how and why it works. 
-In M = n lnb, 
+
+
+ln M = n lnb, 
 (1.5) 
 so that the number of applications of base, b, needed to achieve multiplicative factor M is found by solving the equation above for n, in which case we get: n = ln M/ln b.
  
@@ -137,12 +153,12 @@ so that the number of applications of base, b, needed to achieve multiplicative 
  
 Example 1.1.1 The time it would take to increase by a factor of 1,000 (M = 1000) at a rate of 1.07 (annual growth rate of 7%; b = 1.07) is n = ln M/ln 1.07 = 102 years. 
 The rule of 70 can be recovered? by setting the multiplicative factor, M, to 2. Comparing to interest accumulation described by (1 + p), where p is the annual interest (0.02 for 2%, e.g.) and t is the number of years, Eq. 1.4 can be re-expressed by substituting b = 1+p and n = t as the number of years, then equating the result to the doubling time representation in Eq. 1.3 to form 
-M = et In(1+p) = et In2/t2 
+M = et ln(1+p) = et ln2/t2 
 (1.6) 
-From this expression, we can gather that ln(1 + p) = In 2/t2 by equating the exponents, and then see that the doubling time, t2, can be solved as 
-t2 = In 2/ln(1+p). 
+From this expression, we can gather that ln(1 + p) = ln 2/t2 by equating the exponents, and then see that the doubling time, t2, can be solved as 
+t2 = ln 2/ln(1+p). 
 (1.7) 
-For small values of p (much smaller than 1), the natural log of 1 + p is approximately p. In other words, when p = 0.02, In 1.02≈ 0.02≈ p. This is part of the reason why we chose e as our base, as it is mathematically "natural." Since ln 2≈ 0.693.70, the doubling time, t2, is approximately 70 divided by the annual growth rate, p, in percent. So the reason it's a rule of 70 for doubling (and not a rule of 60 or 80) is basically because the natural log of 2 (representing doubling) is roughly 0.70. 
+For small values of p (much smaller than 1), the natural log of 1 + p is approximately p. In other words, when p = 0.02, ln 1.02≈ 0.02≈ p. This is part of the reason why we chose e as our base, as it is mathematically "natural." Since ln 2≈ 0.693.70, the doubling time, t2, is approximately 70 divided by the annual growth rate, p, in percent. So the reason it's a rule of 70 for doubling (and not a rule of 60 or 80) is basically because the natural log of 2 (representing doubling) is roughly 0.70. 
 Example 1.1.2 To tie some things together, let's look at a quantitative case that can be used to validate how various pieces relate to each other. We will describe a 5% annual growth rate. 
 The rule of 70 (Definition 1.1.1) indicates a 14 year doubling time, so that we could define t2 appearing in Eqs. 1.1, 1.3, 1.6, and 1.7 to be 14 years. Calculating exactly using Eq. 1.7 yields 14.2 years. 
 To evaluate growth in 10 years, we could use Eq. 1.1 with t = 10 and t2 = 14.2 to suggest M = 1.63, meaning a 63% increase in size (1.63 times as large as at the start). Or we could apply Eq. 1.2 using b = 1.05 and n = 10 to get the exact same result. Note that we have freedom to define the base as 1.05 or 2, and the corresponding number of steps (n) as 10 or t/t2 = 0.704, respectively, and get the same answer. In terms of the exponential form in Eq. 1.4, either pair of b and n produces 20.488 
