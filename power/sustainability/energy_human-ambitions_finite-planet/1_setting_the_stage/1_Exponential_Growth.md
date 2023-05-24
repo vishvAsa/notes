@@ -39,7 +39,7 @@ The answer is one doubling-time before midnight, or 11:50 PM. Figure 1.1 illustr
 
  
 
-10 minutes is perhaps a little fast for biology, but we're looking for easy understanding and picking convenient numbers. In prac- tice, 20-30 minutes may be more realistic. We will also ignore deaths for this "toy" ex- ample, although the net effect only changes the rate and not the overall behavior. 
+10 minutes is perhaps a little fast for biology, but we're looking for easy understanding and picking convenient numbers. In practice, 20-30 minutes may be more realistic. We will also ignore deaths for this "toy" example, although the net effect only changes the rate and not the overall behavior. 
 
 
 |        |       |
@@ -79,12 +79,12 @@ This section is among the most mathematically sophisticated in the book. Don't l
 
 Experts habitually read complicated passages multiple times before the material sinks in. Maybe it's this calm habit that turns them into experts!
 
-[^5]: Unlike words/language, the symbols chosen for equations are just labels and carry no intrinsic meaning-so electing to use x, n, t, b, M, etc. reflect arbitrary choices and can be substituted at will, if done con- sistently. The content is in the structure of the equation/sentence.
+[^5]: Unlike words/language, the symbols chosen for equations are just labels and carry no intrinsic meaning-so electing to use x, n, t, b, M, etc. reflect arbitrary choices and can be substituted at will, if done consistently. The content is in the structure of the equation/sentence.
 
 
-The essential feature of exponential growth is that the scale goes as the power of some base (just some number) raised to the time interval. In the doubling sequence, we start at 1x the original scale, then go to 2x, then 4x, then 8x, etc. At each time interval, we multiply by 2 (the base). After 5 such intervals, for instance, we have 2 x 2 x 2 x 2 x 2, or 2^5 = 32. More generally, after n doubling times, we have increased by a factor of 2^n, where 2 is the base, and n is the number of doubling times. We might formalize this as 
+The essential feature of exponential growth is that the scale goes as the power of some base (just some number) raised to the time interval. In the doubling sequence, we start at 1x the original scale, then go to 2x, then 4x, then 8x, etc. At each time interval, we multiply by 2 (the base). After 5 such intervals, for instance, we have 2 x 2 x 2 x 2 x 2, or $2^5$ = 32. More generally, after n doubling times, we have increased by a factor of $2^n$, where 2 is the base, and n is the number of doubling times. We might formalize this as 
 
-$$M = 2^n = 2^(t/t2)$$,  (1.1)
+$$M = 2^n = 2^{t/t2}$$,  (1.1)
 
 
 where M represents the multiplicative scale, t is the elapsed time, and t2 is the symbol we choose to represent the doubling time-so that n = t/t2 is just "counting" the number of doubling times. 
@@ -113,15 +113,16 @@ Now we're going to play a math trick that will help us compute various useful at
 
 $$M = 2^{t/t_2} = (e^{ln 2})^{t/t_2} = e^{t/t_2 In 2}$$, (1.3) 
 
-where we started with Eq. 1.1, re-expressed the number 2, and then applied the rule that raising a power to another power is the same as multiplying the powers to form a single one. By employing such tricks, we could cast any base to a power, like b* as some exponential function ex lnb, and thus can transform any "power" relationship into an exponential using base e≈ 2.7183. Casting Eq. 1.2 in this form: 
-M=b" "In b 
-= e 
-(1.4) 
+where we started with Eq. 1.1, re-expressed the number 2, and then applied the rule that raising a power to another power is the same as multiplying the powers to form a single one. By employing such tricks, we could cast any base to a power, like $b^x$ as some exponential function $e^{x ln b}, and thus can transform any "power" relationship into an exponential using base e≈ 2.7183. Casting Eq. 1.2 in this form: 
+
+$$M=b^n = e^{n In b} $$ (1.4) 
+
 If we want to go backwards, and compute the time to reach a certain M factor, we can take the natural logarithm of both sides to learn that 
+
 For instance, doubling has M = 2, tripling has M = 3, and increasing by 29% would mean M 
 1.29. 
 = 
-By "trick," we do not mean to imply any- thing devious or untoward: just a cute ma- nipulation that can bring additional insight or make something easier. 
+By "trick," we do not mean to imply anything devious or untoward: just a cute manipulation that can bring additional insight or make something easier. 
 Try it on a calculator for several examples of b that concoct 
 you (make it real for yourself!). 
 4 
@@ -129,7 +130,7 @@ you (make it real for yourself!).
 5 x 5), which is just 12 fives multiplied, or 512. So we effectively just multiplied the two exponents 3 and 4-to get the 12. It always works. Often, one need not memorize math rules: quick experimentation reveals how and why it works. 
 In M = n lnb, 
 (1.5) 
-so that the number of applications of base, b, needed to achieve multi- plicative factor M is found by solving the equation above for n, in which 
+so that the number of applications of base, b, needed to achieve multiplicative factor M is found by solving the equation above for n, in which 
  
  
 6 
@@ -149,9 +150,9 @@ If we wanted to "work backwards" and ask when the amount is 3 times the original
 The same result happens if using log instead of ln: try it! 
 7: What follows is a high-brow symbolic approach, but the same effective result can be achieved by setting M 2 in Eq. 1.5 and solving for n. 
 Try it yourself to verify on a calculator, by sticking in various small amounts for p. 
-Don't view this as a recipe for solving prob- lems, but as a way to romp through the section and help piece it together. 
+Don't view this as a recipe for solving problems, but as a way to romp through the section and help piece it together. 
 = 
-More generally, we are not confined to any particular base, b, having just seized upon two convenient and relevant possibil- ities. If we wanted b 10, we would have n = 0.211, for example. In this case, the interpretation is that our ten-year point is 21.1% of the way to a factor-of-ten multi- plication, so that 47.4 years at 5% growth results in a factor of 10 growth. 
+More generally, we are not confined to any particular base, b, having just seized upon two convenient and relevant possibilities. If we wanted b 10, we would have n = 0.211, for example. In this case, the interpretation is that our ten-year point is 21.1% of the way to a factor-of-ten multiplication, so that 47.4 years at 5% growth results in a factor of 10 growth. 
  
 We can check the result using Eq. 1.6 by putting in t = 22.5 and p = 0.05 or t2 = 14.2 in the latter form. 
 
@@ -159,7 +160,7 @@ We can check the result using Eq. 1.6 by putting in t = 22.5 and p = 0.05 or t2 
 Having established some basic principles of exponential growth, it's time for a first look at how we can use the math to argue about limits to our expectations. We'll concentrate on energy use. The United States Energy Information Administration (EIA) provides information on energy use from 1949 to the present. An appendix (E1: [3]) presents an approximate account of energy use from 1635-1945. Figure 1.2 displays the more recent portion of this history. 
  
 7 
-Lacking comparable data for the world, we use U.S. data simply to illustrate the more broadly applicable global growth trend. Even countries far behind are growing en- ergy use often faster than the 3% charac- teristic of U.S. history. 
+Lacking comparable data for the world, we use U.S. data simply to illustrate the more broadly applicable global growth trend. Even countries far behind are growing energy use often faster than the 3% characteristic of U.S. history. 
 Energy Production Rate (TW) 
 1e12 
 4.0 
@@ -177,10 +178,10 @@ Energy Production Rate (TW)
 year 
 1950 
 2000 
-Note that the energy rate at the left edge of Figure 1.2 becomes almost invisibly small. Presenting the data on a logarithmic plot, as in Figure 1.3, we can better see the entire trajectory. On such a plot, exponentials become straight lines. The trend is remarkably consistent with an expo- nential (red line) for most of the history, at a rate just shy of 3% per year. Note that this total effect includes population growth, but population has not grown as fast as energy, so that per-capita energy has also risen. This makes sense: our lives today are vastly more energetically rich than lives of yesteryear, on a per-person basis. 
+Note that the energy rate at the left edge of Figure 1.2 becomes almost invisibly small. Presenting the data on a logarithmic plot, as in Figure 1.3, we can better see the entire trajectory. On such a plot, exponentials become straight lines. The trend is remarkably consistent with an exponential (red line) for most of the history, at a rate just shy of 3% per year. Note that this total effect includes population growth, but population has not grown as fast as energy, so that per-capita energy has also risen. This makes sense: our lives today are vastly more energetically rich than lives of yesteryear, on a per-person basis. 
 Having established that energy growth over the past several centuries is well-described by an exponential, we can explore the implications of continuing this trend forward. Starting at a present-day global energy production rate of 18×1012 Watts (18 TW), we adopt a convenient growth rate of 2.3% per year for this exercise. We pick this for two reasons: 1) it is more modest than the historical trend, so will not over-exaggerate the 
  
-Figure 1.2: U.S. energy over 200 years, show- ing a dramatic rise due almost entirely to fossil fuels. The red curve is an exponential fit tuned to cover the broader period shown in Figure 1.3. 
+Figure 1.2: U.S. energy over 200 years, showing a dramatic rise due almost entirely to fossil fuels. The red curve is an exponential fit tuned to cover the broader period shown in Figure 1.3. 
 The astute reader might note a departure from the exponential fit in recent years. This only reinforces the primary point of this chapter that sustaining exponential growth indefinitely is absurd and will not happen. If growth is destined to stop, perhaps we are beginning to experience its limits well before the theoretical timescales developed in this chapter. 
 Watts is a unit of power, which is a rate of energy. Chapter 5 will cover the concept and units more thoroughly. 
 1013 
@@ -231,7 +232,7 @@ The unhinged game can continue, pretending we could capture all the light put ou
 The point is not to take seriously the timescales for conquering the sun or the galaxy. But the very absurdity of the exercise serves to emphasize 
  
 9 
-11: Math becomes easier if you blur your vision a bit and do not demand lots of pre- cision. In this case, we essentially ignore everything but the exponent, recognizing that each century will increment it by 1, at our chosen 2.3% rate. 
+11: Math becomes easier if you blur your vision a bit and do not demand lots of precision. In this case, we essentially ignore everything but the exponent, recognizing that each century will increment it by 1, at our chosen 2.3% rate. 
 12: In this case, the "real" answer would be 1,335 years, but why fret over the details for little gain or qualitative difference in the outcome? 
 Table 1.3: Energy limit timescales. 
 Utilizing 
@@ -245,7 +246,7 @@ Entire Galaxy
 Light in Universe Mass in Universe 
 3,600 
 5,000 
-By coincidence, the visible universe has about as many galaxies as our galaxy has stars. By "visible" universe, we mean every- thing within 13.8 billion light years, which is as far as light has been able to travel since the Big Bang (see Sec. D.1; p. 392). 
+By coincidence, the visible universe has about as many galaxies as our galaxy has stars. By "visible" universe, we mean everything within 13.8 billion light years, which is as far as light has been able to travel since the Big Bang (see Sec. D.1; p. 392). 
  
 the impossibility of our continuing exponential growth in energy. All kinds of reasons will preclude continued energy growth, including the fact that human population cannot continue indefinite growth on this planet. We will address space colonization fantasies in Chapter 4. 
  10 

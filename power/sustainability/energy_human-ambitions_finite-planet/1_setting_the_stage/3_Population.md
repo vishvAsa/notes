@@ -2,7 +2,7 @@
 title = "3 Population"
 
 +++
-Underlying virtually every concern relating to our experience on this planet is the story of human population. The discussion of continued energy growth in Chapter 1 was based on the historical growth rate of energy, which is partly due to growing population and partly due to increased use per capita. But the notion that population will continue an exponential climb, as is implicit in the Chapter 1 scenario, is impractical- one of many factors that will render the "predictions" of Chapter 1 invalid and prohibit "growth forever." 
+Underlying virtually every concern relating to our experience on this planet is the story of human population. The discussion of continued energy growth in Chapter 1 was based on the historical growth rate of energy, which is partly due to growing population and partly due to increased use per capita. But the notion that population will continue an exponential climb, as is implicit in the Chapter 1 scenario, is impracticalone of many factors that will render the "predictions" of Chapter 1 invalid and prohibit "growth forever." 
 So let's add a dose of reality and examine a more practical scenario. Americans' per-capita use of energy is roughly five times the global average rate. If global population eventually doubles, and the average global citizen advances to use energy at the rate Americans currently do,1 then the total scale of energy use would go up by a factor of 10, which would take 100 years at our mathematically convenient 2.3% annual rate (see Eq. 1.5; p. 5). This puts a more realistic-and proximate— timescale on the end of energy growth than the fantastical extrapolations of Chapter 1. 
 Although the focus of this chapter will be on the alarming rate of population growth, we should keep the energy and resource context in mind in light of the overall theme of this book. To this end, Figure 3.1 shows the degree to which energy demand has outpaced population growth, when scaled vertically to overlap in the nineteenth century. From 1900 to 1950, per-capita energy consumption increased modestly, but then ballooned dramatically after 1950, so that today we have the equivalent of 25 billion people on the planet operating at nineteenth century energy levels. 
 Since population plays a giant role in our future trajectory, we need to better understand its past. We can also gain some sense for theoretical 
@@ -48,7 +48,7 @@ year
 10 
 0 
 Population (Gppl) 
-Figure 3.1: Population (red) and energy de- mand (blue) on the same plot, showing how much faster energy demand (power) has risen compared to population, which trans- lates to increasing per-capita usage. The vertical axes are scaled so that the curves overlap in the nineteenth century. [14–16]. 
+Figure 3.1: Population (red) and energy demand (blue) on the same plot, showing how much faster energy demand (power) has risen compared to population, which translates to increasing per-capita usage. The vertical axes are scaled so that the curves overlap in the nineteenth century. [14–16]. 
 Photo Credit: Tom Murphy 
 3 Population 
 31 
@@ -96,7 +96,7 @@ year
 1950 
 1800 
 2000 
-Figure 3.4: Global population estimate, over recent centuries. On the logarithmic plot, lines of constant slope are exponential in be- havior. Four such exponential segments can be broken out in the plot, having increasing growth rates. [14, 15]. 
+Figure 3.4: Global population estimate, over recent centuries. On the logarithmic plot, lines of constant slope are exponential in behavior. Four such exponential segments can be broken out in the plot, having increasing growth rates. [14, 15]. 
 2: except that famine and plague took a toll in the 14th century 
 Table 3.1: Doubling times for Fig. 3.4. 
 Years 

@@ -36,13 +36,13 @@ Per Capita GDP ($)
 "Switzerland 
 100000 
 Figure 2.2 illustrates the range of intensities for all the countries in the world. Among the factors driving energy use are geographical extent (large countries require more long-haul transportation), climate (cold countries require more heating), efficiency, and lifestyle. Russia, Canada, and the U.S. have large territories, and the former two require more heating than most. By contrast, Switzerland is geographically small 
-Figure 2.2: Energy intensity of countries, on a log-log plot. The vertical axis shows how energetically "hungry" each country is in relation to its economic output, while the horizontal axis sorts countries by economic output per person. A few instructive cases (red dots) are labeled. The dot areas are scaled to population. Prosperous countries tend to have lower intensity than develop- ing countries, but part of this may relate to moving manufacturing from the former to the latter [6–8]. 
+Figure 2.2: Energy intensity of countries, on a log-log plot. The vertical axis shows how energetically "hungry" each country is in relation to its economic output, while the horizontal axis sorts countries by economic output per person. A few instructive cases (red dots) are labeled. The dot areas are scaled to population. Prosperous countries tend to have lower intensity than developing countries, but part of this may relate to moving manufacturing from the former to the latter [6–8]. 
  
 2 Economic Growth Limits 
 20 
 and outsources much of its heavy industry. Somebody should probably check on what's happening in Venezuela.5 
 2.2 Decoupling and Substitution 
-As economies expand beyond subsistence level, a larger fraction of the total activity can go to "frivolous" elements, such as art and entertain- ment. The intensity of such activities can be quite low. An art collector may pay $1 million for a coveted painting. Very little energy is required. The painting was produced long ago. It may even remain on display in the same location-only the name of the owner changing. Finan- cial transactions that require no manufacture, transport, and negligible energy are said to be "decoupled" from physical resources. Plenty of examples exist in society, and are held up by economists as illustrating how we can continue to expand the economy without a commensurate expansion of resource needs." 
+As economies expand beyond subsistence level, a larger fraction of the total activity can go to "frivolous" elements, such as art and entertainment. The intensity of such activities can be quite low. An art collector may pay $1 million for a coveted painting. Very little energy is required. The painting was produced long ago. It may even remain on display in the same location-only the name of the owner changing. Financial transactions that require no manufacture, transport, and negligible energy are said to be "decoupled" from physical resources. Plenty of examples exist in society, and are held up by economists as illustrating how we can continue to expand the economy without a commensurate expansion of resource needs." 
 Definition 2.2.1 Decoupling is the notion that economic activities need not be strongly tied to physical (e.g., energy) requirements, so that energy intensity might become arbitrarily small. The degree to which some economic activity is decoupled forms a continuous scale, where intense utilization of energy and physical resources (e.g., steel production) are on one end and fine art dealing on the other? The only way for an economy to maintain growth in the event that physical sector growth becomes limited is to increase the degree of decoupling in the society. 
 The dream is that as development progresses, economic energy intensity may decline (greater decoupling) so that more money is made per unit of energy expended. If the economy can decouple from energy needs, we are not constrained in our quest to continue economic growth, bringing smiles to the faces of investors and politicians. Such a transition would mean less emphasis on energy and resource-intensive industrial development/manufacturing, and more on abstract services, broadly 
 speaking. 
@@ -51,9 +51,9 @@ The question is: as countries develop and become more prosperous, does intensity
 At the upper end of personal income (right side of Figure 2.2), we might detect a downward slope. But we must be careful about cherry-picking in 
 5: Maybe they left the oven on by mistake? 
 6: This is the hope, anyway. 
-7: Services, like plumbing, journalism, or marketing fall in between, using some phys- ical resources, but not as much as heavy industry. 
-8: Such services might include things like singing lessons, life coaching, psychother- apy, financial planning, and other activities that demand little physical input. 
-Part of the reason prosperous countries demonstrate a lower intensity is that man- ufacturing moves overseas. Driving the whole world toward lower intensity is a more difficult prospect, as the physical pro- cesses must still happen somewhere. 
+7: Services, like plumbing, journalism, or marketing fall in between, using some physical resources, but not as much as heavy industry. 
+8: Such services might include things like singing lessons, life coaching, psychotherapy, financial planning, and other activities that demand little physical input. 
+Part of the reason prosperous countries demonstrate a lower intensity is that manufacturing moves overseas. Driving the whole world toward lower intensity is a more difficult prospect, as the physical processes must still happen somewhere. 
 9: $65,000 vs. $2,100 for the U.S. and India, respectively. 
 2 Economic Growth Limits 21 
 the face of non-replicable circumstances. Not every country can assume the geography and financially-focused nature of Switzerland. And at the same time, if the U.S. imagines itself providing a model that other countries might emulate, the intensity of many European countries could actually increase if adopting U.S. habits. But more broadly, we don't have evidence that a country on the prosperous end of the distribution can operate at even a factor-of-four lower intensity than the 4 MJ/$ level typical of developed countries. In the present context of assessing the future of growth, in which we are concerned with order-of-magnitude scales and limits (as in Chapter 1), it does not appear that decoupling has very much to offer.1 
@@ -63,8 +63,8 @@ The past is full of examples of substitution (Definition 2.2.2). Consider the pr
 Box 2.1: A Story of Lighting Efficiency 
 One way to quantify lighting progress is in the luminous efficacy of light, in units of lumens per Watt. In the 20th century, incandescent bulbs were so ubiquitous for so long that we fell into the bad habit of characterizing brightness in terms of the electrical power consumed by the bulb, in Watts. Thus we have generations of people accustomed to how bright a "100 W" or "60 W" bulb is. As technology changes, we should migrate to "lumens," which accurately captures how bright a source is perceived by the human eye. 
 Table 2.1 and Figure 2.3 present the evolution of luminous efficacy as sources improved. Can this trend continue indefinitely? No. Every photon of light carries a minimum energy11 requirement based on its wavelength. For photons spread across the visible spectrum (creating light we perceive as white), the theoretical limit is about 300 lm/W [9]. At this extreme, no energy is wasted in the production of light, putting 100% of the energy into the light itself. Engineering rarely reaches theoretical limits, due to a host of practical challenges. It would therefore not be surprising if lighting efficiency does not improve over where it is today by another factor of two, ending yet another centuries-long trend. 
-10: That is, no orders-of-magnitude that will allow us to continue growth for cen- turies more after physical resources limit growth. 
-Through this example, we can see how substitution and decoupling might be con- nected: efficiency improves through substi- tution, requiring less energy for the same lighting value. 
+10: That is, no orders-of-magnitude that will allow us to continue growth for centuries more after physical resources limit growth. 
+Through this example, we can see how substitution and decoupling might be connected: efficiency improves through substitution, requiring less energy for the same lighting value. 
 Bulb packaging still refers to the "equivalent wattage" of a bulb, even though a "60 W equivalent" bulb may only consume 12 W of power. 
 11: We will see this in Sec. 5.10 (p.79). 
 Table 2.1: Luminous efficacies [10, 11]. 
@@ -96,7 +96,7 @@ halogen
 incandescent 
 זוזו 
 1700 1800 1900 2000 2100 
-Figure 2.3: Historical progress of lighting efficiency on a logarithmic plot, using bars to indicate the approximate range of time and performance. The dashed line at top represents the maximum theoretical lumi- nous efficacy for white light (no waste heat). The dotted line rises by our customary fac- tor of ten per century (2.3% annual rate). Note that the guiding line reaches the the- oretical maximum mid-century (red star), indicating that this centuries-long ride can- not continue much longer [10, 11]. 
+Figure 2.3: Historical progress of lighting efficiency on a logarithmic plot, using bars to indicate the approximate range of time and performance. The dashed line at top represents the maximum theoretical luminous efficacy for white light (no waste heat). The dotted line rises by our customary factor of ten per century (2.3% annual rate). Note that the guiding line reaches the theoretical maximum mid-century (red star), indicating that this centuries-long ride cannot continue much longer [10, 11]. 
 10:1 
 1200 1300 1400 1500 
 1600 
@@ -105,10 +105,10 @@ The historical progress can fool us into thinking that we can expect a continued
 For financially secure individuals at the top end of the wealth distribution, it is easier to buy into the allure of substitution as a way forward. Many have achieved wealth from humble beginnings, and have therefore lived a life of continual upgrades in terms of housing, transportation, clothing, food, travel, etc. Even those who have been surrounded by wealth their whole lives have been in a position to afford new upgrades as they become available. Yet, it is not always possible to export the capabilities of those at the top to a significant sector of the population. Not everything can scale. 
 Box 2.2: The Fate of the Concorde 
 The fate of the Concorde which offered supersonic transatlantic passenger service between 1976-2003-may offer a useful lesson here: just because it is possible to construct a supersonic passenger airplane does not mean that enough people can afford it to result in an economically viable reduction in trans-oceanic travel time for all. Consumers no longer have the option for supersonic flight, even though 50 years ago it was assumed that this was the future. Sometimes we go backwards, when our dreams don't line up to practical reality. 
-More generally, sometimes the best possible solution and "peak" technol- ogy arrives at some early point in history. As much as we mess around with elements on the Periodic Table, we are never going to beat H2O 
+More generally, sometimes the best possible solution and "peak" technology arrives at some early point in history. As much as we mess around with elements on the Periodic Table, we are never going to beat H2O 
 12: ... magician reference 
 We will return to this theme in the context of fossil fuels, which might be termed the mother of all rabbits, in this context. Having pulled such a stupendous rabbit out of the hat once, many assume we're set from now on. In this case, equating one to infinity is even more dubious. 
-An electric car having hundreds of kilome- ters of range seems like an obvious path forward beyond fossil fuels. But at a price tag above $40,000, it does not look like much of a solution to most people, and we can't be sure prices will fall steeply. Section D.3 covers electrified transportation in more detail. 
+An electric car having hundreds of kilometers of range seems like an obvious path forward beyond fossil fuels. But at a price tag above $40,000, it does not look like much of a solution to most people, and we can't be sure prices will fall steeply. Section D.3 covers electrified transportation in more detail. 
  
 2 Economic Growth Limits 
 23 
@@ -117,12 +117,12 @@ In summary, decoupling and substitution are touted as mechanisms by which econom
 Box 2.3: Efficiency Limits 
 Efficiency improvements would seem to offer a way to tolerate a stagnation or decline in available energy resources. Getting more from less is very appealing. Yes, efficiency improvements are good and should be pursued. But they are no answer to growth limits, for the following reasons. 
 1. For the most part, realized efficiencies are already within a 
-factor-of-two of theoretical limits.14 A motor or generator oper- ating at 90% efficiency has little room to improve. If efficiencies were typically far smaller than 1%, it would be reasonable to seek improvements as a "resource" for some time to come, but that is not the lay of the land. 
+factor-of-two of theoretical limits.14 A motor or generator operating at 90% efficiency has little room to improve. If efficiencies were typically far smaller than 1%, it would be reasonable to seek improvements as a "resource" for some time to come, but that is not the lay of the land. 
 16 
 2. Efficiency improvements in energy use tend to creep along at ~1% per year,15 or sometimes 2%. Doubling times are therefore measured in decades, which combined with the previous point suggests an end to this train ride within the century. 3. Efficiency improvements can backfire, in a process called the Jevons paradox or the rebound effect. Increased demand for the more efficient technology results in greater demand for the underlying resource. For example, improvements in refrigerator efficiency resulted in larger refrigerators and more of them," for a net increase in energy devoted to refrigeration. Consider that per-capita global energy and material resource use has climbed inexorably amidst a backdrop of substantial efficiency improvements over the last century [12]. 
 17 
-Efficiency improvements are not capable of resolving resource de- mand. 
-13: Relatedly, consider that the Periodic Ta- ble is finite and fits easily on a single sheet of paper (Fig. B.1; p. 375). We don't have an unlimited set of substitute elements/com- pounds available. Astrophysical measure- ments validate that the whole universe is 
+Efficiency improvements are not capable of resolving resource demand. 
+13: Relatedly, consider that the Periodic Table is finite and fits easily on a single sheet of paper (Fig. B.1; p. 375). We don't have an unlimited set of substitute elements/com- pounds available. Astrophysical measure- ments validate that the whole universe is 
 limited to the same set of elements. 
 14: Chapter 6 covers theoretical efficiency limits for thermal sources like fossil fuels. 
 15: ... meaning 30% one year might be 30.3% next year (not 31%, which would be a ~3% improvement) 

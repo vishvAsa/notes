@@ -16,7 +16,7 @@ Call-out boxes indicate places where a student might enhance their understanding
 
 This electronic version contains a Changes and Corrections section that lists any modifications since the original release the relevant dates being provided on page ii. Within the text, a red square■ marks the location of a change, the square being hyperlinked to the corresponding entry describing the change, which itself has a hyperlinked page reference
 
-[^1]: Numbered notes point to a specific location in the text. Non-numbered notes are general asides re- lating to the paragraph.
+[^1]: Numbered notes point to a specific location in the text. Non-numbered notes are general asides relating to the paragraph.
 
 [^2]: A link to the electronic document is in the first paragraph, above.
 

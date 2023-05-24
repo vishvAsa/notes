@@ -24,7 +24,7 @@ References are in order of appearance in the book.
 [5] TW Murphy. Exponential Economist Meets Finite Pysicist. Online. Accessed 2021 Jan. 8. Apr. 2012. URL: https://dothemath.ucsd.edu/2012/04/economist-meets-physicist/ (cited on page 17). 
 
 
-[6] List of countries by GDP (nominal). Wikipedia. Source: World Economic Outlook Database, Interna- tional Monetary Fund. Accessed 2019 Sept. 3. Oct. 2019. URL: https://en.wikipedia.org/wiki/List_of_countries_by_GDP (nominal) (cited on pages 18, 19, 39). 
+[6] List of countries by GDP (nominal). Wikipedia. Source: World Economic Outlook Database, International Monetary Fund. Accessed 2019 Sept. 3. Oct. 2019. URL: https://en.wikipedia.org/wiki/List_of_countries_by_GDP (nominal) (cited on pages 18, 19, 39). 
 
 
 [7] List of Countries by Total Primary Energy Consumption and Production. Wikipedia. Source: International Energy Statistics, U.S. Energy Information Administration. Accessed 2017 Feb. 12. 2016. URL: https://en.wikipedia.org/wiki/List_of_countries_by_total_primary_ energy consumption_and_production (cited on pages 18, 19, 43, 44). 

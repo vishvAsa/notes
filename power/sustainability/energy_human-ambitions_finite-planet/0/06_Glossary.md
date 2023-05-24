@@ -464,7 +464,7 @@ refers to a failure mode of nuclear fission reactors, in which the chain reactio
 is a mega-electron-volt, or 106 eV. In Joules, it is equivalent to 1.6 x 10-13 J. Nuclear masses are often expressed in MeV/c2 terms, where 1 a.m.u. is equivalent to 931.4941 MeV. 78, 246-248, 253, 265, 422, 427, 433, 435
 
 ## micro-economics
-concerns itself with the production of goods, including raw resources, marketing, and distribu- tion. 323, 324, 433
+concerns itself with the production of goods, including raw resources, marketing, and distribution. 323, 324, 433
 
 ## micron
 (um) is 10-6 meters, or a micro-meter. 198, 200, 438 
