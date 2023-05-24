@@ -91,19 +91,19 @@ where M represents the multiplicative scale, t is the elapsed time, and t2 is th
 
 Box 1.2: Interest Example 
 
-The same process happens in a bank account accumulating interest. Let's consider that you deposit $100 into a bank account bearing 2% annual interest. At the end of one year, you'll have $102, which is 1.02 times the original amount. For the next year, it's 1.02 times $102, or $104.04, which is the original $100 times 1.02 x 1.02. Then in three years it will be $106.18, or $100 times 1.023. Having sussed out the pattern, after 35 years it would be $100 times 1.0235, which happens to come to $199.99. Notice that doubling in 35 years at 2% exactly obeys the rule of 70. Table 1.2 summarizes this example. 
+The same process happens in a bank account accumulating interest. Let's consider that you deposit \$100 into a bank account bearing 2% annual interest. At the end of one year, you'll have \$102, which is 1.02 times the original amount. For the next year, it's 1.02 times \$102, or \$104.04, which is the original \$100 times 1.02 x 1.02. Then in three years it will be \$106.18, or \$100 times 1.023. Having sussed out the pattern, after 35 years it would be \$100 times 1.0235, which happens to come to \$199.99. Notice that doubling in 35 years at 2% exactly obeys the rule of 70. Table 1.2 summarizes this example. 
 
 Table 1.2: Interest example (2% rate). 
 
 year bn dollars  
-0 1.00 $100.00  
-1 1.02 $102.00  
-2 1.0404 $104.04  
-23 1.0612 $106.12  
+0 1.00 \$100.00  
+1 1.02 \$102.00  
+2 1.0404 \$104.04  
+23 1.0612 \$106.12  
 ..   
-10 1.2190 $121.90  
+10 1.2190 \$121.90  
 ...  
-35 1.9999 $199.99
+35 1.9999 \$199.99
 
 The pattern-whether doubling, or applying interest as in Box 1.2-is that we multiply a chain of the same number, the base, over and over. This is the same as raising the base to some power-the power equaling how many times the base appears in the chain to get our overall factor. Therefore, if we designate the base as b and the number of times it appears as n, we have 
 
@@ -130,11 +130,11 @@ you (make it real for yourself!).
 5 x 5), which is just 12 fives multiplied, or 512. So we effectively just multiplied the two exponents 3 and 4-to get the 12. It always works. Often, one need not memorize math rules: quick experimentation reveals how and why it works. 
 In M = n lnb, 
 (1.5) 
-so that the number of applications of base, b, needed to achieve multiplicative factor M is found by solving the equation above for n, in which 
+so that the number of applications of base, b, needed to achieve multiplicative factor M is found by solving the equation above for n, in which case we get: n = ln M/ln b.
  
  
-6 
-case we get: n = In M/ln b. 
+[[6]] 
+ 
 Example 1.1.1 The time it would take to increase by a factor of 1,000 (M = 1000) at a rate of 1.07 (annual growth rate of 7%; b = 1.07) is n = ln M/ln 1.07 = 102 years. 
 The rule of 70 can be recovered? by setting the multiplicative factor, M, to 2. Comparing to interest accumulation described by (1 + p), where p is the annual interest (0.02 for 2%, e.g.) and t is the number of years, Eq. 1.4 can be re-expressed by substituting b = 1+p and n = t as the number of years, then equating the result to the doubling time representation in Eq. 1.3 to form 
 M = et In(1+p) = et In2/t2 
