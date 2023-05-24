@@ -24,7 +24,14 @@ Say you start with a capital of 25. Then you fight your rival. If you win you ad
 - Statement: Find n such that Pr(capital C(n)=0) = 1/2.
 - For n<25, Pr(C(n)=0) = 0
 - For n=25, \\(Pr(C(n)=0) = P(-1)^{25}\\)
-- For n=25+k where k is odd, \\(Pr(C(n) → 0\\) is impossible. <div class="proof">Beyond 25 losses, it is impossible to have exactly k/2 wins as it won't be a whole number.</div>
+- For n=25+k where k is odd, \\(Pr(C(n) → 0\\) is impossible. 
+
+<details><summary>Proof</summary>
+
+Beyond 25 losses, it is impossible to have exactly k/2 wins as it won't be a whole number.
+</details>
+
+
 - At n=25+2k, C(n) becomes 0 only if there are k wins and 25 + k losses, and if for any t<n, C(t) was not 0. An upper bound on the number of such events is \\(\binom{n}{k} = \frac{n!}{k!(n-k)!}\\). We consider this n=25+2k case below. 
 - \\(P(C(n) → 0) \leq \binom{n}{k}P(-1)^{25+k}P(+1)^{k}\\)
 - \\(P(C(n) → 0) \geq P(-1)^{25+k}P(+1)^{k}\\)

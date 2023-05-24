@@ -58,7 +58,13 @@ Thence, \\(\ln x^{k} = k \ln x\\).
 \\(e \dfn x: \ln x = 1\\).   
 So, \\(\ln e^{x} = x\\) (using \\(\ln x^{k} = k \ln x\\) from above).  
 Thence \\(\der{e^{x}} = e^{x}\\).  
-Thence expressing as MacLaurin series \\(e^{x} = 1 + \dfrac{x}{1} +  \dfrac{x^2}{2!} +  \dfrac{x^3}{3!} ... = \sum_{n=0}^{\infty} \dfrac{x^n}{n!}\\) .
+
+#### Approximations
+Thence expressing as McLaurin series \\(e^{x} = 1 + \dfrac{x}{1} +  \dfrac{x^2}{2!} +  \dfrac{x^3}{3!} ... = \sum_{n=0}^{\infty} \dfrac{x^n}{n!}\\) .
+
+Also, McLaurin series - 
+
+$$ ln (1+p) = 0 + \dfrac{p}{1+p} - \dfrac{p^2}{(1+p)^2} ... $$ 
 
 ### Generalized binomial coefficient
 \\(\binom{r}{k}\\) for any \\(k\in Z, r\in R\\): generalizes \\(\binom{r}{k}\\) from combinatorics (See probability ref).

@@ -58,10 +58,24 @@ Let \\(F = \set{f}\\) be a class of events (or binary functions) defined on the 
 
 Then \\(Pr(\sup_{f \in F} |v_n(f|D) - v(f)| > \eps) \leq 8 E_{F}(n)exp(\frac{-n\eps^{2}}{32})\\).
 
-<div class="proof">  If we were to use the union bound and the Hoeffding inequality naively, we would have a factor of \\(2|F| >> 8E_F(n)\\) on the RHS. So, we want to get to a point where we need only take the union bound over a small subset of \\(F\\)</div>
+
+
+<details><summary>Proof</summary>
+
+  If we were to use the union bound and the Hoeffding inequality naively, we would have a factor of \\(2|F| >> 8E_F(n)\\) on the RHS. So, we want to get to a point where we need only take the union bound over a small subset of \\(F\\)
+</details>
+
+
 
 So, first we show that \\
-\\(Pr_D(\sup_{f \in F} |v_n(f|D) - v(f)| > \eps) \leq 2Pr_{D, D'}(\sup_{f \in F} |v_n(f|D) - v_n(f|D')| > \eps/2)\\), for sample set \\(D'\\) acquired in the same way as \\(D\\). Lemma <div class="proof">\\(Pr_{D, D'}(\sup_{f \in F} |v_n(f|D) - v_n(f|D')| > \eps/2) \geq Pr_{D}(\sup_{f \in F} |v_n(f|D) - v(f)| > \eps)Pr_{D'}(|v_n(f|D') - v_n(f)| < \eps/2| |v_n(f'|D) - v(f')| > \eps)\\); and the latter factor can be seen to be small: \\(<1/2\\) using Chebyshev inequality. This is called the 'ghost sample technique'.</div>
+\\(Pr_D(\sup_{f \in F} |v_n(f|D) - v(f)| > \eps) \leq 2Pr_{D, D'}(\sup_{f \in F} |v_n(f|D) - v_n(f|D')| > \eps/2)\\), for sample set \\(D'\\) acquired in the same way as \\(D\\). Lemma 
+
+<details><summary>Proof</summary>
+
+\\(Pr_{D, D'}(\sup_{f \in F} |v_n(f|D) - v_n(f|D')| > \eps/2) \geq Pr_{D}(\sup_{f \in F} |v_n(f|D) - v(f)| > \eps)Pr_{D'}(|v_n(f|D') - v_n(f)| < \eps/2| |v_n(f'|D) - v(f')| > \eps)\\); and the latter factor can be seen to be small: \\(<1/2\\) using Chebyshev inequality. This is called the 'ghost sample technique'.
+</details>
+
+
 
 So, now we need only bound \\(Pr_{D, D'}(\sup_{f \in F} |v_n(f|D) - v_n(f|D')| > \eps/2)\\). One way to deal with this is to take the union bound now over the set of all dichotomies induced over \\(D \union D'\\) to get the bound: \\(E_F(2n)Pr(D, D')( |v_n(f|D) - v_n(f|D')| > \eps/2)\\), which can then be bounded as described elsewhere.}
 

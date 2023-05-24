@@ -89,6 +89,12 @@ $$M = 2^n = 2^{t/t2}$$,  (1.1)
 
 where M represents the multiplicative scale, t is the elapsed time, and t2 is the symbol we choose to represent the doubling time-so that n = t/t2 is just "counting" the number of doubling times. 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+For instance, doubling has M = 2, tripling has M = 3, and increasing by 29% would mean M = 1.29.
+</details>
+
+
 Box 1.2: Interest Example 
 
 The same process happens in a bank account accumulating interest. Let's consider that you deposit \$100 into a bank account bearing 2% annual interest. At the end of one year, you'll have \$102, which is 1.02 times the original amount. For the next year, it's 1.02 times \$102, or \$104.04, which is the original \$100 times 1.02 x 1.02. Then in three years it will be \$106.18, or \$100 times 1.023. Having sussed out the pattern, after 35 years it would be \$100 times 1.0235, which happens to come to \$199.99. Notice that doubling in 35 years at 2% exactly obeys the rule of 70. Table 1.2 summarizes this example. 
@@ -138,33 +144,39 @@ $$M=b^n = e^{n ln b} $$ (1.4)
 
 If we want to go backwards, and compute the time to reach a certain M factor, we can take the natural logarithm of both sides to learn that 
 
-For instance, doubling has M = 2, tripling has M = 3, and increasing by 29% would mean M = 1.29. 
+$$ ln M = n ln b$$ ,(1.5)
+
+so that the number of applications of base, b, needed to achieve multiplicative factor M is found by solving the equation above for n, in which case we get: $n = ln M/ln b$.
 
 
-4 
 
 
-ln M = n lnb, 
-(1.5) 
-so that the number of applications of base, b, needed to achieve multiplicative factor M is found by solving the equation above for n, in which case we get: n = ln M/ln b.
- 
- 
-[[6]] 
+
+
+[[4]] 
+
+
  
 Example 1.1.1 The time it would take to increase by a factor of 1,000 (M = 1000) at a rate of 1.07 (annual growth rate of 7%; b = 1.07) is n = ln M/ln 1.07 = 102 years. 
-The rule of 70 can be recovered? by setting the multiplicative factor, M, to 2. Comparing to interest accumulation described by (1 + p), where p is the annual interest (0.02 for 2%, e.g.) and t is the number of years, Eq. 1.4 can be re-expressed by substituting b = 1+p and n = t as the number of years, then equating the result to the doubling time representation in Eq. 1.3 to form 
-M = et ln(1+p) = et ln2/t2 
-(1.6) 
-From this expression, we can gather that ln(1 + p) = ln 2/t2 by equating the exponents, and then see that the doubling time, t2, can be solved as 
-t2 = ln 2/ln(1+p). 
-(1.7) 
+
+The rule of 70 can be recovered[^7] by setting the multiplicative factor, M, to 2. 
+
+[^7]: What follows is a high-brow symbolic approach, but the same effective result can be achieved by setting M 2 in Eq. 1.5 and solving for n.
+
+
+Comparing to interest accumulation described by $(1 + p)^t$, where p is the annual interest (0.02 for 2%, e.g.) and t is the number of years, Eq. 1.4 can be re-expressed by substituting b = 1+p and n = t as the number of years, then equating the result to the doubling time representation in Eq. 1.3 to form 
+
+$$M = e^{t ln(1+p)} = e^{t ln^{2}/t_2}$$ (1.6) 
+
+From this expression, we can gather that $ln(1 + p) = ln 2/t_2$ by equating the exponents, and then see that the doubling time, $t_2$, can be solved as $t_2 = ln 2/ln(1+p)$. (1.7) 
+
 For small values of p (much smaller than 1), the natural log of 1 + p is approximately p. In other words, when p = 0.02, ln 1.02≈ 0.02≈ p. This is part of the reason why we chose e as our base, as it is mathematically "natural." Since ln 2≈ 0.693.70, the doubling time, t2, is approximately 70 divided by the annual growth rate, p, in percent. So the reason it's a rule of 70 for doubling (and not a rule of 60 or 80) is basically because the natural log of 2 (representing doubling) is roughly 0.70. 
 Example 1.1.2 To tie some things together, let's look at a quantitative case that can be used to validate how various pieces relate to each other. We will describe a 5% annual growth rate. 
 The rule of 70 (Definition 1.1.1) indicates a 14 year doubling time, so that we could define t2 appearing in Eqs. 1.1, 1.3, 1.6, and 1.7 to be 14 years. Calculating exactly using Eq. 1.7 yields 14.2 years. 
 To evaluate growth in 10 years, we could use Eq. 1.1 with t = 10 and t2 = 14.2 to suggest M = 1.63, meaning a 63% increase in size (1.63 times as large as at the start). Or we could apply Eq. 1.2 using b = 1.05 and n = 10 to get the exact same result. Note that we have freedom to define the base as 1.05 or 2, and the corresponding number of steps (n) as 10 or t/t2 = 0.704, respectively, and get the same answer. In terms of the exponential form in Eq. 1.4, either pair of b and n produces 20.488 
 If we wanted to "work backwards" and ask when the amount is 3 times the original (M = 3), we could use Eq. 1.5 to find that n is 22.5 steps at b = 1.05 (thus 22.5 years, since this base is the yearly increase). Had we used b = 2, we would compute n = 1.58, meaning that the scale would reach 3x after 1.58 doubling times, or 1.58t2 = 22.5 years. 
-The same result happens if using log instead of ln: try it! 
-7: What follows is a high-brow symbolic approach, but the same effective result can be achieved by setting M 2 in Eq. 1.5 and solving for n. 
+The same result happens if using log instead of ln: try it!
+
 Try it yourself to verify on a calculator, by sticking in various small amounts for p. 
 Don't view this as a recipe for solving problems, but as a way to romp through the section and help piece it together. 
 = 

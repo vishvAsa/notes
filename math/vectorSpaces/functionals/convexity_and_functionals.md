@@ -110,7 +110,14 @@ This property can be used to find subdifferential of the \\(\infty\\) norm.
 #### Subdifferentials of norms
 For any norm, subdifferential at 0 is just the unit ball of the corresponding dual norm!
 
-<div class="proof">\\(\subdifferential \norm{0} = \set{z: \forall d: \norm{0+d} \geq \norm{0} + \dprod{d, z}} = \set{z: \forall d: \norm{d} \geq \dprod{d, z}} \\= \set{z: \forall \norm{d} = 1: 1 \geq \dprod{d, z}} = \set{z: 1 \geq \norm{z}^{D}}\\).</div>
+
+
+<details><summary>Proof</summary>
+
+\\(\subdifferential \norm{0} = \set{z: \forall d: \norm{0+d} \geq \norm{0} + \dprod{d, z}} = \set{z: \forall d: \norm{d} \geq \dprod{d, z}} \\= \set{z: \forall \norm{d} = 1: 1 \geq \dprod{d, z}} = \set{z: 1 \geq \norm{z}^{D}}\\).
+</details>
+
+
 
 For \\(\norm{x}_\infty\\), many other points are non differentiable. Using the form of \\(\subdifferential \max f_i(x)\\), we get: \\(x\neq 0: \subdifferential \norm{x}_\infty = conv(\set{sgn(x_i)e_i: \forall |x_i| = \norm{x}_\infty})\\).
 

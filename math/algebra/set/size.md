@@ -44,7 +44,14 @@ The following holds for any measure which is finite on the sets involved. \\(|\c
 #### Bounds
 Thence, we have the union upper bound: \\(m(A \cup B) \leq m(A) + m(B)\\). In the case of probabilistic analysis, this is very useful. Aka Boole's inequality.
 
-Intersection lower bound: \\(m(A \cap B) \geq m(A) + m(B) - 1\\). Aka Bonferroni's inequality. <div class="proof">\\(m(A \cup B) \leq 1\\) with the inclusion-exclusion principle.</div>
+Intersection lower bound: \\(m(A \cap B) \geq m(A) + m(B) - 1\\). Aka Bonferroni's inequality. 
+
+<details><summary>Proof</summary>
+
+\\(m(A \cup B) \leq 1\\) with the inclusion-exclusion principle.
+</details>
+
+
 
 By mathematical induction, \\(m(\cap_{i \in (1, n)} A_i) \geq \sum_i m(A_i) - (n-1)\\).
 
@@ -80,7 +87,14 @@ If \\(S\\) is countable, \\(S^{n}\\) is countable: use induction: if \\(S^{k-1}\
 Use Cantor's diagonalization.
 
 ### Infinite (sub)sets' cardinality
-(Dedekind): \\(S\\) is \\(\infty\\) iff \\(\exists A\set S\\) with same cardinality as \\(S\\). <div class="proof">Finite \\(S\\) can't have such a proper subset. If \\(|S|= \infty\\), get countably \\(\infty\\) \\(S'\\); map to \\(N\\) with function \\(f\\); but map \\(n\in N\\) to \\(n+1\\) with function g, do \\(f^{-1}\\).</div>
+(Dedekind): \\(S\\) is \\(\infty\\) iff \\(\exists A\set S\\) with same cardinality as \\(S\\). 
+
+<details><summary>Proof</summary>
+
+Finite \\(S\\) can't have such a proper subset. If \\(|S|= \infty\\), get countably \\(\infty\\) \\(S'\\); map to \\(N\\) with function \\(f\\); but map \\(n\in N\\) to \\(n+1\\) with function g, do \\(f^{-1}\\).
+</details>
+
+
 
 ## Product measure
 Consider the product of two measure spaces: \\(\set{(S_i, F_i, m_i) | i \in \set{1, 2}}\\). The product measure: \\(m(E_1, E_2) = m_1(E_1) \times m_2(E_2) : \forall E_i \in S_i\\).

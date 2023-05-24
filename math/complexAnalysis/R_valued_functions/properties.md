@@ -43,7 +43,14 @@ Fixing discontinuities. \\(\lim_{x \to 0} \frac{\sin x}{x} = 1\\).
 #### Extreme value existence, boundedness
 (Weierstrass) If real valued \\(f\\) is continuous over compact (closed and bounded in R) \\(S = [x_{1}, x_{2}]\\), it attains maximum and minimum value somewhere in S.
 
-<div class="proof">As S compact, f(S) compact [See topology ref.]. So \\(f\\) closed and bounded. By LUB property of R, \\(\sup \\)f\\( = M\\); take \\(d_{n}\\): \\(M - n^{-1}\leq f(d_{n}) \leq M\\); so \\(f(d_{n}) \to M\\); by Bolzano Weierstrass take convergent subseq \\((d_{n_{k}}) \to d\\); \\(d \in S\\) as S closed; as \\(f\\) cont, so \\(f(d) = M\\). </div>
+
+
+<details><summary>Proof</summary>
+
+As S compact, f(S) compact [See topology ref.]. So \\(f\\) closed and bounded. By LUB property of R, \\(\sup \\)f\\( = M\\); take \\(d_{n}\\): \\(M - n^{-1}\leq f(d_{n}) \leq M\\); so \\(f(d_{n}) \to M\\); by Bolzano Weierstrass take convergent subseq \\((d_{n_{k}}) \to d\\); \\(d \in S\\) as S closed; as \\(f\\) cont, so \\(f(d) = M\\). 
+</details>
+
+
 
 If S not compact, there can be: unbounded but cont f: \\(S = (0,1), f(x) = x^{-1}\\); cont \\(f\\) without max: f(x) = \\(x\\) on (0,1); cont but not uniformly cont: \\(S = (0,1), f(x) = x^{-1}\\).
 

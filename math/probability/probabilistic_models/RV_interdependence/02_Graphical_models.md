@@ -57,7 +57,14 @@ Aka Markov properties. Conditional independence properties, markov blanket same 
 ##### Global Markov
 Take any A, B, Z. If Z separates A and B, \\(A \perp B | Z\\).
 
-<div class="proof">Factorization implies this. Take A, B, Z; expand A and B to get A', B' which include all nodes reachable from A and B without crossing Z; So, \\(f_X(x) = f(x_{A'}, x_Z)f(x_{B'}, x_Z)\\); so \\(A' \perp B' |Z\\).</div>
+
+
+<details><summary>Proof</summary>
+
+Factorization implies this. Take A, B, Z; expand A and B to get A', B' which include all nodes reachable from A and B without crossing Z; So, \\(f_X(x) = f(x_{A'}, x_Z)f(x_{B'}, x_Z)\\); so \\(A' \perp B' |Z\\).
+</details>
+
+
 
 ##### Local Markov
 \\(X_i \perp X_{V - i - N(i)} | X_{N(i)}\\). Global markov implies this.

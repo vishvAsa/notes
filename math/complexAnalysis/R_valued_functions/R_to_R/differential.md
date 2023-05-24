@@ -95,7 +95,14 @@ differentiable in \\([x_{1}, x_{2}], f(x_{1}) = f(x_{2}) = 0, \exists c \in (x_{
 
 Easy to make a visual argument.
 
-<div class="proof">There exists atleast one maximum and one minimum in [a, b]; if it happens to be in the interior set \\((a, b)\\), \\(f'(x) = 0\\) at this point; otherwise \\(f\\) is a constant function, and there is still an extremum in \\((a, b)\\).</div>
+
+
+<details><summary>Proof</summary>
+
+There exists atleast one maximum and one minimum in [a, b]; if it happens to be in the interior set \\((a, b)\\), \\(f'(x) = 0\\) at this point; otherwise \\(f\\) is a constant function, and there is still an extremum in \\((a, b)\\).
+</details>
+
+
 
 #### Mean value theorem
 If \\(f\\) is continuous and differentiable in \\
@@ -106,7 +113,12 @@ If \\(f\\) is continuous and differentiable in \\
 #### Relative to another function
 If \\(f, g\\) continuous and differentiable: \\((f(b) - f(a)) g'(x) = (g(b) - g(a)) f'(x)\\): Make new function, apply Rolle. Aka Cauchy's mean value theorem.
 
-<div class="proof">Suppose that \\(f(b) = f(a) + M(g(b)- g(a))\\). Now, solve for \\(M\\). Take \\(F(x) = f(x) - f(a) - M (g(x) - g(a))\\). \\(F(a) = F(b) = 0\\); so because of the Interior extremum existance argument, there must exist some \\(c \in [a, b]\\) with \\(F'(c) = 0\\).</div>
+<details><summary>Proof</summary>
+
+Suppose that \\(f(b) = f(a) + M(g(b)- g(a))\\). Now, solve for \\(M\\). Take \\(F(x) = f(x) - f(a) - M (g(x) - g(a))\\). \\(F(a) = F(b) = 0\\); so because of the Interior extremum existance argument, there must exist some \\(c \in [a, b]\\) with \\(F'(c) = 0\\).
+</details>
+
+
 
 #### Definite integral view and the mean
 \\(\int_{[a, b]} f'(x) dx = f(b) - f(a) = f'(c) (b-a)\\) for some \\(c \in [a, b]\\). This can be extended to integration \\(\int_{[a, b]} f'(x) dg(x)\\) wrt another function \\(g(x)\\) using the mean value theorem relative to another function.
@@ -118,9 +130,13 @@ Aka Taylor theorem. \\(P(a)\dfn \sum_{k=0}^{n-1}f^{(k)}(a) (b-a)^{k}/k!\\); then
 
 Can then bound error term by bounding \\(f^{(n)}(c)\\).
 
-\pf{We want to find \\(f(b) - P(a)\\). Note that \\(P(b) = f(b)\\), and \\(P'(x) = \sum_{k \geq 0} (- f^{(k)}(x)/((k-1)!) + f^{(k+1)}(x)(b-x)^{k}/(k!)) = f^{(n)}(x) (b-x)^{n-1}/(n-1)!\\): note how P was cleverly defined around \\(b\\) rather than \\(a\\) to let this happen.
+<details><summary>Proof</summary>
 
-From mean value theorem wrt function \\(g\\), we get \\(f(b) - P(a) = P(b) - P(a) = \frac{f^{(n)}(c) (b-c)^{n-1}/(n-1)!}{g'(c)}(g(b) - g(a))\\). Then, using alternatively \\(g(x) = (b-x)^{n}\\) and \\(g(x) = \int_{[a, x]} f^{(n)}(y)(b-y)^{n-1}dy\\), we get the stated remainders.} 
+We want to find \\(f(b) - P(a)\\). Note that \\(P(b) = f(b)\\), and \\(P'(x) = \sum_{k \geq 0} (- f^{(k)}(x)(b-x)^{k-1}/((k-1)!) + f^{(k+1)}(x)(b-x)^{k}/(k!)) = f^{(n)}(x) (b-x)^{n-1}/(n-1)!\\): note how P was cleverly defined around \\(b\\) rather than \\(a\\) to let this happen.
+
+From mean value theorem wrt function \\(g\\), we get \\(f(b) - P(a) = P(b) - P(a) = \frac{f^{(n)}(c) (b-c)^{n-1}/(n-1)!}{g'(c)}(g(b) - g(a))\\). Then, using alternatively \\(g(x) = (b-x)^{n}\\) and \\(g(x) = \int_{[a, x]} f^{(n)}(y)(b-y)^{n-1}dy\\), we get the stated remainders.
+</details>
+ 
 
 ### Associated series
 In Pf, note that, in general, \\(c_i\\) getting closer and closer to \\(a\\) as \\(n\\) increases; but we cannot be sure about it: for all we know, all \\(c_i\\) may be very close to \\(b\\).

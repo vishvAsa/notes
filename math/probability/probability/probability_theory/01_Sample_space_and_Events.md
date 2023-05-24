@@ -60,7 +60,14 @@ Here, order does not matter. Observing that, for each selection of \\(k\\) items
 Useful property: \\(\binom{n}{r} = \binom{n}{n-r}\\). For extension to real n and general properties, see complex analysis ref.
 
 #### Choosing with repetition
-\\(\binom{n+k-1}{k-1}\\) choices. <div class="proof">select places to put k-1 \\(|\\) in \\(n+k-1\\) spots.</div>
+\\(\binom{n+k-1}{k-1}\\) choices. 
+
+<details><summary>Proof</summary>
+
+select places to put k-1 \\(|\\) in \\(n+k-1\\) spots.
+</details>
+
+
 
 \error{One may try to use the argument, as in the case of choosing without repetition, that for each selection of \\(k\\) items, there are \\(k!\\) permutations and conclude that there are \\(\frac{n^k}{k!}\\) choices. But this is false (too low) because, when there are repetitions, each selection of \\(k\\) items corresponds to fewer than \\(k!\\) items.}
 
