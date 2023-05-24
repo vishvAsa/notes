@@ -93,9 +93,23 @@ Box 1.2: Interest Example
 
 The same process happens in a bank account accumulating interest. Let's consider that you deposit $100 into a bank account bearing 2% annual interest. At the end of one year, you'll have $102, which is 1.02 times the original amount. For the next year, it's 1.02 times $102, or $104.04, which is the original $100 times 1.02 x 1.02. Then in three years it will be $106.18, or $100 times 1.023. Having sussed out the pattern, after 35 years it would be $100 times 1.0235, which happens to come to $199.99. Notice that doubling in 35 years at 2% exactly obeys the rule of 70. Table 1.2 summarizes this example. 
 
+Table 1.2: Interest example (2% rate). 
+
+year bn dollars  
+0 1.00 $100.00  
+1 1.02 $102.00  
+2 1.0404 $104.04  
+23 1.0612 $106.12  
+..   
+10 1.2190 $121.90  
+...  
+35 1.9999 $199.99
+
 The pattern-whether doubling, or applying interest as in Box 1.2-is that we multiply a chain of the same number, the base, over and over. This is the same as raising the base to some power-the power equaling how many times the base appears in the chain to get our overall factor. Therefore, if we designate the base as b and the number of times it appears as n, we have 
+
 M = b2. 
 (1.2) 
+
 Now we're going to play a math trick that will help us compute various useful attributes of growth. The exponential and natural logarithm are inverse functions, each undoing the other. So In (ex) = x and elnx = x. We can use this trick to express the number 2 as eln2, or any base number b = elnb. For the special case of b = 2 (doubling), we then have: 
 t/t2 
 M = 21/12 = (eln 2) /12 = et In 2/12, 
@@ -108,27 +122,6 @@ If we want to go backwards, and compute the time to reach a certain M factor, we
 For instance, doubling has M = 2, tripling has M = 3, and increasing by 29% would mean M 
 1.29. 
 = 
-Table 1.2: Interest example (2% rate). 
-year 
-bn 
-dollars 
-0 
-1.00 
-$100.00 
-1 
-1.02 
-$102.00 
-2 
-1.0404 $104.04 
-1.0612 
-$106.12 
-23 
-: 
-10 
-... 
-35 
-1.2190 $121.90 
-1.9999 $199.99 
 By "trick," we do not mean to imply any- thing devious or untoward: just a cute ma- nipulation that can bring additional insight or make something easier. 
 Try it on a calculator for several examples of b that concoct 
 you (make it real for yourself!). 
