@@ -16,3 +16,9 @@ title = "+nAga"
 > "Country Reports on Human Rights Practices"
 > 
 > - porbotialora
+
+## Hindu nagas
+> Hindu Nocte (Nagas) observing the annual Hum Kamhoan ceremony to honor Lotha Khunbao, the 18th century Naga Vaishnavite saint (who took the name Naga Narottam upon initiation by Guru Ramadeva) 
+> 
+> NocteDigest via porbotialora
+

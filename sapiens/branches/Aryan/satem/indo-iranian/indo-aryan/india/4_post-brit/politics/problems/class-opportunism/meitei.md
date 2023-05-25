@@ -3,7 +3,7 @@ title: Meitei lemurism
 ---
 
 ## Background
-- This is also known as "Sanamahi cult". Sanamahi is revered by manipuri hindus and brAhmaNa-s too.
+- "Sanamahi cult". Sanamahi is revered by manipuri hindus and brAhmaNa-s too.
 
 ## Phullo
 - "Naoria Phullo, the sixth child of the  ten children ofhis parents was born in 1838 in a  peasant family at the Laishramkhul,  Jariband, Cachar85, Assam. ... Phullo resigned and devoted full time  to rediscover the identity of the Meiteis amidst the interplay of two religious forms e.g., traditional religion and vaisnavism in the Meitei society. His search led him to conclude the : vaisnavite Hinduism as an exogenous force that had submerged the traditional Meitei religion. His movement rested on reviving the self identity and racial consciousness of the Meiteis. The movement kicked off with the establishment of Apokpa Marup in Cachar in 1930 with an underlying objective of academic pursuit to the ancient religion and culture of the Meiteis and towards reviving the traditional Manipuri culture."

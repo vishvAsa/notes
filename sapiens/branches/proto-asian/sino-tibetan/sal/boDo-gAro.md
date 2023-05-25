@@ -11,7 +11,9 @@ unicode_script = "devanagari"
 - Assam and meghAlaya.
 - The rAjbonshi became IA-ized.
   - In the 16th century, the founder of the Koch dynasty, Bisu, adopted Hinduism, and called himself Biswa Singha. 
-    
+
+The 1871-1872 census of Assam shows Koch Rajbongshis to be the largest community in the state, coming at ~14%, Kacharis (not sure if this is only Bodo or it includes Dimasas, etc as well) at ~12%, Muslims were ~12%. ("Perspective of Security and Development in North East India")
+
 ## Boro-kachari
 - Mostly hindu.
 - Adapted the devanAgarI script to get their language recognized at national level.

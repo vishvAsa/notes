@@ -71,3 +71,6 @@ of navadvipa/agartala, who continues to visit bAngladesha and inspire hindus des
 
 ## CV rAman-परिवारः
 CV rAman, chadrashekharaH-subrahmaNyaH, V shAntA oncologist. 
+
+## Bhubaneswar Sadhu
+Sri Sri Bhubaneswar Sadhu Thakur, the Bishnupriya Manipuri Vaishnavite saint. He sang paens about the glory of Sri Krishna and is said to be have been told by Hari himself to settle in Nabadwip. He would then go on to establish the Sri Radha Govinda Ji mandir (aka Gobindobari).

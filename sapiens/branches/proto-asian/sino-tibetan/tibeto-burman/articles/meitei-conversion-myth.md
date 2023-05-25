@@ -24,3 +24,4 @@ Ramanandi school is centred around Rama, not Krishna who is prevalent in Manipur
 The claim about the script is also another missionary myth. The ban was introduced by the British backed by Christian missionaries in colonial era. 
 
 Puya mei thaba is also exaggerated. Wahengbam Ibohal Singh's analysis shows that only parts containing Shakta rituals were removed.
+

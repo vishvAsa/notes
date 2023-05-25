@@ -2,10 +2,6 @@
 title: Indonesia
 ---
 
-## Bali
-- Bali population is dropping.
-- Daily school practice trisandhya - [IMG](../../../images/snippets/trisandhyA.jpg).
-
 ## Chinese role
 - Anti chinese riots in may 1998, involving looting, burning, temple desecration, gang rapes, murders - [WI](https://en.wikipedia.org/wiki/May_1998_riots_of_Indonesia), [YT](https://www.youtube.com/watch?time_continue=414&v=soB7rosSWWU); resulting in many Chinese fleeing the country, and some converting to Islam.
 

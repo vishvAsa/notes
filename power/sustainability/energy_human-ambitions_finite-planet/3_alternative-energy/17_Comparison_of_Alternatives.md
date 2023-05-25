@@ -44,25 +44,30 @@ In order to make comparisons, it is helpful to create a matrix of energy source 
 
 [[291]]
 
-- Abundance. Not all ideas, however clever or practical, can scale to meet the needs of modern society. Hydroelectric power cannot expand beyond about 10% of current global demand, while the solar potential reaching Earth's surface is easily calculated to exceed this benchmark by a factor of about 5,000. Abundant sources are coded blue, while niche ideas like hydroelectricity that cannot conceivably fulfill a quarter of global demand are colored red. Intermediate players that can satisfy a substantial fraction of demand are coded yellow.
+- Abundance. Not all ideas, however clever or practical, can scale to meet the needs of modern society. Hydroelectric power cannot expand beyond about 10% of current global demand, while the solar potential reaching Earth's surface is easily calculated to exceed this benchmark by a factor of about 5,000.+++(5)+++ Abundant sources are coded blue, while niche ideas like hydroelectricity that cannot conceivably fulfill a quarter of global demand are colored red. Intermediate players that can satisfy a substantial fraction of demand are coded yellow.
 - Difficulty. This field tries to capture the degree to which a resource brings with it large technical challenges. How many PhDs does it take to run the plant? How intensive is it to maintain an operational state? This one might translate into economic terms: difficulty serves as a crude proxy for expensive.
 - Intermittency. Colored blue if the source is rock-steady or available whenever it is needed. If the availability is beyond our control, then it gets a yellow at least. The possibility of substantial underproduction for a few days earns red.
+  - Storage can offset this concern, at increased cost. Seasonal storage is particularly impractical, which hampers solar resources.
 - Demonstrated. To be blue, a resource has to be commercially available today and providing significant energy to society. Proof of concept on paper, or prototypes that exhibit some of the technology, do not count as demonstrated.
-- Electricity. Can the technology produce electricity? For most sources, the answer is yes. Sometimes it would make little sense to try. For other sources, it is impractical.
-Heat. Can the resource produce direct heat? Colored yellow if only via electric means.
-Transport. Does the technology relieve the looming decline in oil production? Anything that makes electricity can power an electric car, earning a yellow score. Liquid fuels are blue. Bear in mind that large-scale migration to electric cars is not guaranteed to happen, as the cars may remain too expensive or impractical to be widely adopted, among other challenges related to grid infrastructure for mass-scale charging.
-- Acceptance. Is public opinions favorable to this method? Is resistance likely, whether justified or not? This dimension encompasses environmental concerns, threats to health and safety, and unsightliness in natural settings.
-- Backyard. Is this something that can be used domestically, in someone's backyard, rooftop, or small property, managed by the individual? Distributed power adds to system resilience. Efficiency. Over 50% earns blue. Below about 10% gets red. It is not the most important of criteria, as the abundance score implicitly incorporates efficiency expectations, but we will always view low efficiency negatively.
+- Electricity. Can the technology produce electricity? For most sources, the answer is yes. Sometimes it would make little sense to try. For other sources, it is impractical.[^7]
+- Heat. Can the resource produce direct heat? Colored yellow if only via electric means.
+- Transport. Does the technology relieve the looming decline in oil production? Anything that makes electricity can power an electric car, earning a yellow score. Liquid fuels are blue. Bear in mind that large-scale migration to electric cars is not guaranteed to happen, as the cars may remain too expensive or impractical to be widely adopted, among other challenges related to grid infrastructure for mass-scale charging.
+  - See additional discussion on page 292 and in Sec. D.3 (p. 397).
+- Acceptance. Is public opinions favorable to this method? Is resistance likely, whether justified or not? [^8] This dimension encompasses environmental concerns, threats to health and safety, and unsightliness in natural settings.
+- Backyard. Is this something that can be used domestically, in someone's backyard, rooftop, or small property, managed by the individual? Distributed power adds to system resilience. 
+- Efficiency. Over 50% earns blue. Below about 10% gets red. It is not the most important of criteria, as the abundance score implicitly incorporates efficiency expectations, but we will always view low efficiency negatively.
+
+[^7]: For instance, biofuels could be used to make electricity, but renewable liquid fuels are too rare to squander in this way.
+
+[^8]:... judging by U.S. attitudes
+
 
 Environmental impact has no column in this matrix, although the "acceptance" measure captures some of this. Climate change is an obvious negative for fossil fuels, but not so much as to have resulted in curtailed global demand thus far (see Fig. 8.2; p. 118). None of the alternatives presented here contribute directly to carbon dioxide emissions, earning an added advantage for all entries.
-Each energy source can be assigned a crude numerical score, adding one
 
-Storage can offset this concern, at increased cost. Seasonal storage is particularly impractical, which hampers solar resources.
-7: For instance, biofuels could be used to make electricity, but renewable liquid fuels are too rare to squander in this way.
-See additional discussion on page 292 and in Sec. D.3 (p. 397).
-8:... judging by U.S. attitudes
- 292
-point for each blue box, no points for yellow boxes, and deducting a point for each red box. Certainly this is an imperfect scoring scheme, giving each criterion equal weight, but it provides some means of comparing and ranking sources.
+[[292]]
+
+Each energy source can be assigned a crude numerical score, adding one point for each blue box, no points for yellow boxes, and deducting a point for each red box. Certainly this is an imperfect scoring scheme, giving each criterion equal weight, but it provides some means of comparing and ranking sources. (9: See Section 17.3 for an alternate approach.)
+
 abundance difficulty intermittency demonstrated electricity
 Natural Gas
 for now
@@ -70,7 +75,7 @@ Petroleum
 for now
 Coal
 for now
-9: See Section 17.3 for an alternate approach.
+
 heat
 transport
 buses, trucks

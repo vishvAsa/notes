@@ -6,6 +6,8 @@ title = "Zeme Heraka"
 
 A group of nAga-s inspired, by rAni Gaidinliu, has remained heathen, and has successfully resisted Christianization in Nagaland.
 
+Zeliangrong Nagas were getting Hinduized which the British stopped by destroying Hindu temples. Zeliangrongs would dress up Hindu deities in their traditional tribal attire + offer oblations."Reform, Identity and Narratives of Belonging: The Heraka Movement" - Arkotong Longkumer
+
 ## Syncretism with Hinduism
 From Longkumer’s thesis ([pdf link](https://www.era.lib.ed.ac.uk/bitstream/handle/1842/2669/Longkumer%20A%20thesis%2008%20small.pdf?sequence=2)):
 
