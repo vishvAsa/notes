@@ -682,7 +682,9 @@ When one nuclide, or isotope changes into another, it does so by the process of 
 8
 The black squares in Figure 15.3, or gray squares in Figure 15.4 are stable, leaving all others as unstable, meaning that they will undergo radioactive decay to a different nucleus after some time interval that is characterized by the nuclide's half life.
 Definition 15.2.1 The half life of a nuclide is the time at which the probability of decay reaches 50%. A large sample of such nuclides will be reduced to half the original number after one half-life. Each subsequent half-life interval removes another half of what remains.
-7:
+
+[^7]:
 nature
 or long-lived enough to be found in
-8: Nuclides are unstable if a lower energy (more stable) configuration is within easy reach, better balancing desire for N = Z against the cost of proton repulsion.
+
+[^8]: Nuclides are unstable if a lower energy (more stable) configuration is within easy reach, better balancing desire for N = Z against the cost of proton repulsion.

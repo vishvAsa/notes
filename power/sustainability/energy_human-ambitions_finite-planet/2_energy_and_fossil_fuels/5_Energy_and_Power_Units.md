@@ -16,7 +16,7 @@ This chapter provides a baseline for understanding the rest of the content in th
 Unlike most chapters, this one does not tell a single story or advance our perspective on the world. But it builds a foundation, putting us in a position to start looking at consequential matters of energy use in our society in chapters to come. Hopefully, patience will be rewarded. 
 5.1 Energy (J) 
 First, what is energy? 
-Definition 5.1.1 Energy is defined as the capacity to do work. Work is well-defined in physics as the application of force through a distance.1 The colloquial use of the word “work” matches relatively well, in that pushing a large couch across the floor (applying force through a distance) or lifting a heavy box up to a shelf feels like work and can tire you out. 
+Definition 5.1.1 Energy is defined as the capacity to do work. Work is well-defined in physics as the application of force through a distance.[^1] The colloquial use of the word “work” matches relatively well, in that pushing a large couch across the floor (applying force through a distance) or lifting a heavy box up to a shelf feels like work and can tire you out. 
 The SI unit of force is the Newton (N), breaking down more fundamen- tally to kg m/s2. The best way to remember this is via Newton's Second Law: F = ma (force equals mass times acceleration). Mass has units of kg, and acceleration2 is measured in meters per second squared. 
 Since work is force times distance, the unit for work (and thus energy) is Newtons times meters, or N. m. We give this unit its own name: the 
 Energy units from everyday life. Clockwise from upper left: a utility bill (kWh and Therms); a hot water heater label (Btu/hr); EnergyGuide for same hot water heater (Therms); U.S. nutrition label for peanut butter (Calories; should be kcal); a German nutrition label for Nutella (kJ, kcal); and rechargeable AA batteries (2200 mAh, 1.2 V). 
@@ -42,8 +42,10 @@ Energy units from everyday life. Clockwise from upper left: a utility bill (kWh 
 5.9 Electron Volt (eV) 5.10 Light Energy 5.11 Upshot on Units 5.12 Problems. 
 • 
 80 
-1: This definition applies to the common circumstance when the motion is aligned with the direction of force, like pushing a box across a level floor, propelling a car along the road, or lifting a weight. 
-2: Acceleration is the rate of change of ve- locity. Since velocity is measured in meters per second, the rate at which it changes will be meters per second per second, or m/s/s, or m/s2. Some students may know that gravitational acceleration on Earth's surface is 9.8 m/s2, which is another way to remember. 
+
+[^1]: This definition applies to the common circumstance when the motion is aligned with the direction of force, like pushing a box across a level floor, propelling a car along the road, or lifting a weight. 
+
+[^2]: Acceleration is the rate of change of ve- locity. Since velocity is measured in meters per second, the rate at which it changes will be meters per second per second, or m/s/s, or m/s2. Some students may know that gravitational acceleration on Earth's surface is 9.8 m/s2, which is another way to remember. 
  
 Joule (J). Thus, the application of 1 N of force across a distance of 1 m constitutes 1 J of work, requiring 1J of energy to perform. Table 5.1 offers contextual examples (unit prefixes are on page 420). 
 Example 5.1.1 Several examples3 illustrate force times distance, the first two amounting to one Joule of energy: 
@@ -81,12 +83,15 @@ Charge cell phone Car on freeway (K.E.) human daily diet
 8 MJ 
 250 MJ 
 1 hour freeway drive 
-3: For examples like these, framed as state- ments and not questions, you can practice solving several types of problems by cov- ering up one number and then solving for it using still-available information. So each statement can be seen as several examples in one! 
+
+[^3]: For examples like these, framed as state- ments and not questions, you can practice solving several types of problems by cov- ering up one number and then solving for it using still-available information. So each statement can be seen as several examples in one! 
 More on mass-energy in Chapter 15. 
 More on kinetic energy in Chapter 12. 
 More on gravitational potential energy in Chapter 11. 
-4: Another example of work (energy) being force times distance. 
-5: The force needed to hold against gravity is just F = ma = mg 
+
+[^4]: Another example of work (energy) being force times distance. 
+
+[^5]: The force needed to hold against gravity is just F = ma = mg 
 Sec. A.10 (p. 370) in the Appendices pro- vides additional guidance on manipulating units. 
 We'll encounter other ways to describe energy in this book, but any energy unit can always be cast into units of Joules, if desired. Later sections in this chapter detail alternative units whose acquaintance we must make in order to interpret energy information in our lives. 
 5.2 Energy Forms and Conservation 
@@ -135,7 +140,8 @@ The fireball of hot material from the exploding dynamite ex- pands rapidly, push
 ► Light from the sun (photons) hits a black parking lot surface, heating it up as light energy is converted to thermal energy. 
 ► A uranium nucleus splits apart, releasing nuclear (potential) energy, sending the particles flying off at high speed (kinetic energy). These particles bump into surrounding particles trans- ferring kinetic energy into thermal energy. 
 Thermal energy from burning a fossil fuel or from nuclear fission 
-6: The only exception is on cosmological scales and times. But across scales even as large as the Milky Way galaxy and over millions of years, we are on solid footing to consider conservation of energy to be inviolate. It is fascinating to note that con- servation of energy stems from a symmetry in time itself: if the laws and constants of the Universe are the same across some span of time, then energy is conserved during such time a concept we trace to Emmy Noether. See Sec. D.2 (p. 393) for more. 
+
+[^6]: The only exception is on cosmological scales and times. But across scales even as large as the Milky Way galaxy and over millions of years, we are on solid footing to consider conservation of energy to be inviolate. It is fascinating to note that con- servation of energy stems from a symmetry in time itself: if the laws and constants of the Universe are the same across some span of time, then energy is conserved during such time a concept we trace to Emmy Noether. See Sec. D.2 (p. 393) for more. 
 P.E. = 7 J K.E. = 0 J 
 P.E. = 5 J 
 K.E. = 2 J 
@@ -157,9 +163,11 @@ Example 5.3.1 Lifting a 10 kg box, whose weight is therefore about 100 N, throug
 5 Energy and Power Units 
 71 
 The differences between kinetic and ther- mal energy is about coherence, in that we characterize the kinetic energy of a raindrop by its bulk motion or velocity. Meanwhile, water molecules within the drop are zipping about in random directions and at very high speeds exceeding 1,000 meters per second. 
-7: 
+
+[^7]: 
 sometimes called channels 
-8: Actually, the principle is so well estab- lished that new particles (like the neutrino) have been discovered by otherwise unac- counted energy in nuclear processes. 
+
+[^8]: Actually, the principle is so well estab- lished that new particles (like the neutrino) have been discovered by otherwise unac- counted energy in nuclear processes. 
 One Watt is simply one Joule per second. 
 Weight is mg. In this case, m is 10 kg. If we're being sticklers, g = 9.8 m/s2, but for con- venience we can typically use g≈ 10 m/s2 without significant loss of precision. 
  
@@ -221,30 +229,36 @@ average U.S. citizen (10,000 W)
 72 
 It is straightforward to convert back to Joules, because 1 kW is 1,000 J/s and one hour is 3,600 s. So 1 kWh is 1 kW times 1 hr, which is 1,000 J/s times 3,600 s, and is therefore equal to 3,600,000 J, or 3.6 MJ. A related measure sometimes comes up: the watt-hour (Wh). In much the same vein, this is equivalent to 1 J/s for 3,600 seconds, or 3,600 J.9 
 Box 5.3: Don't be one of those people... 
-If you ever hear someone say "kilowatts per hour,” it's likely a mistake,10 and has the side effect of leading people to erroneously think that kilowatts is a unit of energy, not a power. Kilowatts is already a rate (speed) of energy use: 1,000 Joules per second. 
-One tendency some people have is to mix up kW and kWh.11 Kilowatts is a unit of power, or how fast energy is being used. Think of it like a speedometer: how fast are you moving (through space or energy)? Kilowatt-hours is a multiplication of power times time, becoming an energy. It's more like the odometer: how much have you accumulated (distance or energy)? Just like distance is rate (speed) times time, energy is rate (power) times time. 
+If you ever hear someone say "kilowatts per hour,” it's likely a mistake,[^10] and has the side effect of leading people to erroneously think that kilowatts is a unit of energy, not a power. Kilowatts is already a rate (speed) of energy use: 1,000 Joules per second. 
+One tendency some people have is to mix up kW and kWh.[^11] Kilowatts is a unit of power, or how fast energy is being used. Think of it like a speedometer: how fast are you moving (through space or energy)? Kilowatt-hours is a multiplication of power times time, becoming an energy. It's more like the odometer: how much have you accumulated (distance or energy)? Just like distance is rate (speed) times time, energy is rate (power) times time. 
 Example 5.4.2 We will explore kWh using a light bulb for an example. Let's say the light bulb is labeled as 100 W.12 How much energy does 
 it use? 
 Well, it depends on how long it's on. If it is never turned on, it uses no energy. If it is on for 10 seconds, it uses far less than if it's on for a day. 
-The characteristic quality of the light bulb is the power it expends when it's on-in this case 100 W. It only has one speed. In analogy to a car and speedometer, it's similar to saying that a car travels at a constant speed,13 and asking how far it travels. Well, it depends on how much time it spends traveling at speed. 
+The characteristic quality of the light bulb is the power it expends when it's on-in this case 100 W. It only has one speed. In analogy to a car and speedometer, it's similar to saying that a car travels at a constant speed,[^13] and asking how far it travels. Well, it depends on how much time it spends traveling at speed. 
 So view kWh (energy) as an accumulated amount that increases with time. On the other hand, kW is a rate of energy expenditure. 
 5 Energy and Power Units 
 73 
-9: A Wh is one-thousandth of a kWh, not surprisingly. 
-10: Literally, kW/hr would be a sort of ac- celeration through energy. It's a real thing that can happen, but it's usually not what people mean. 
-11: 
+
+[^9]: A Wh is one-thousandth of a kWh, not surprisingly. 
+
+[^10]: Literally, kW/hr would be a sort of ac- celeration through energy. It's a real thing that can happen, but it's usually not what people mean. 
+
+[^11]: 
 Perhaps related to Box 5.3. 
-12:... an incandescent, for instance 
-13: 
+
+[^12]:... an incandescent, for instance 
+
+[^13]: 
 . maybe 30 m/s; 67 m.p.h.; 108 k.p.h. 
 5.5 Calories (kcal) 
 A common unit for describing chemical and thermal processes is the calorie and its siblings. 
 Definition 5.5.1 A calorie is defined as the amount of energy it takes to heat one gram of water (thus also 1 mL, or 1 cm3, or 1 cc) by one degree Celsius (Figure 5.3). One calorie (note the small "c") is 4.184 J of energy. 
 One Calorie (note the capital "C")14 is 1,000 calories, or 1 kilocalorie 
-14: This might win the prize for the dumb- est convention in science: never define a unit as case-sensitive, as it cannot be differ- entiated in spoken language! 
+
+[^14]: This might win the prize for the dumb- est convention in science: never define a unit as case-sensitive, as it cannot be differ- entiated in spoken language! 
  
 (1 kcal), equating to 4,184 J. Most memorably, it is the amount of energy it takes to heat one kilogram (or one liter; 1 L) of water by 1°C. Due to the tragic convention of Calorie, we will opt for kcal whenever possible. 
-Food labels in the U.S. are in Calories, describing the energy content of the food we eat.15 We would all do ourselves a favor by calling these kcal instead of Calories (same thing). Many other countries sensibly use either kJ or kcal for quantifying food energy. 
+Food labels in the U.S. are in Calories, describing the energy content of the food we eat.[^15] We would all do ourselves a favor by calling these kcal instead of Calories (same thing). Many other countries sensibly use either kJ or kcal for quantifying food energy. 
 20°C 
 + 50 calories (209 J) 
 1 cm3 = 1 mL = 1 g 
@@ -256,7 +270,8 @@ energy.
 It is usually sufficient to remember that the conversion factor between calories and Joules is about 4.2-or just 4 if performing a crude calcula- tion. 
 5 Energy and Power Units 
 74 
-15: Human metabolism is not the same as heating water, but the energy involved can still be counted in an energy unit that is defined in terms of heating water. It's still just energy. 
+
+[^15]: Human metabolism is not the same as heating water, but the energy involved can still be counted in an energy unit that is defined in terms of heating water. It's still just energy. 
 Figure 5.3: Following the definition of a calorie, adding 50 cal to one gram of water raises its temperature by 50°C. 
 No deep significance attaches to the fact that 1 cal happens to equate to 4.184 J, other than to say this describes a property of water (called specific heat capacity). 
 1 cal = 
@@ -275,8 +290,10 @@ Example 5.5.3 Let's say you want to heat a half-liter (0.5 kg) of water from roo
 If the water is heated at a rate of 1,000 W (1,000 J/s), it would take 167 seconds for the water to reach boiling temperature. 
 Notice that we did not apply an explicit formula in Example 5.5.3. By proceeding stepwise, we attempt to keep it intuitive. We could write a 
  
-16: It would serve little purpose to perform exact math here-producing 96.85 W in this case since the idea that someone's daily diet is exactly 2,000.00 kcal is pretty preposterous. It will likely vary by at least 10% from day to day, and by even larger amounts from individual to individual, so that 100 W is a convenient and approximate representation. 
-17: Make sure this is clear to you; by under- standing, we are installing concepts instead of formulas, which are more powerful and lasting. 
+
+[^16]: It would serve little purpose to perform exact math here-producing 96.85 W in this case since the idea that someone's daily diet is exactly 2,000.00 kcal is pretty preposterous. It will likely vary by at least 10% from day to day, and by even larger amounts from individual to individual, so that 100 W is a convenient and approximate representation. 
+
+[^17]: Make sure this is clear to you; by under- standing, we are installing concepts instead of formulas, which are more powerful and lasting. 
 Appendix Sec. A.8 (p. 368) addresses this philosophy in a bit more detail. 
 formula, but we implicitly create the formula on the fly by recognizing that the amount of energy required should scale with the mass of water and with the amount of temperature increase. Hopefully, this approach leads to a deeper understanding of the concept, while printing a formula on the page might short-circuit comprehension. 
 5 Energy and Power Units 
@@ -284,27 +301,32 @@ formula, but we implicitly create the formula on the fly by recognizing that the
 This would be an excellent oppor- tunity to create your own formula to capture the idea, like an expert! 
 5.6 British Thermal Unit (Btu) 
 Why would we waste our time talking about the arcane British thermal unit (Btu)? It's because data provided by the U.S. Energy Information Administration on global energy use is based on the Btu. More specifically, country-scale annual energy expenditures are measured in units of quadrillion (1015) Btu (see Box 5.4). Also, heating appliances in the U.S.18 are rated in Btu/hour-a unit of power that can be converted to Watts. 
-Definition 5.6.1 The Btu is the Imperial analog to the kcal.19 One Btu is the energy required to heat one pound of water one degree Fahrenheit. 
+Definition 5.6.1 The Btu is the Imperial analog to the kcal.[^19] One Btu is the energy required to heat one pound of water one degree Fahrenheit. 
 In terms of Joules, 1 Btu is about 1,055 J, or not far from 1 kJ. 
 We can make sense of the conversion to Joules in the following way: a pound is roughly half a kilogram and one degree Fahrenheit is approxi- mately half a degree Celsius. So a Btu should be roughly a quarter of a kcal. Indeed, 1,055 J is close to one quarter of 4,184 J. 
 Box 5.4: Quads: qBtu 
 The U.S. uses quadrillion Btu to represent country-scale annual energy expenditures. It is denoted as qBtu, or informally "quads." One qBtu is approximately 1018 J.20 
-The U.S. uses about 100 quads per year. Since a year is about 3.16×107 seconds,21 dividing energy in Joules by time in seconds tells us that the U.S. power is about 3 x 1012 W (3 TW), working out to about 10,000 W per person as a per-capita rate of energy use. 
+The U.S. uses about 100 quads per year. Since a year is about 3.16×107 seconds,[^21] dividing energy in Joules by time in seconds tells us that the U.S. power is about 3 x 1012 W (3 TW), working out to about 10,000 W per person as a per-capita rate of energy use. 
 Example 5.6.1 For appliances characterized by Btu/hr, we can relate to power in Watts via 1 Btu/hr as 1,055 J per 3,600 s, working out to 0.293 W. 
 Thus, a hot water heater rated at 30,000 Btu/hr is effectively 8,800 W. 
 Let's also pause to understand how long it will take to heat a shower's worth of hot water at this rate. We'll do it two ways: 
 1. Heating 15 gallons22 (125 pounds) from a cool 68°F to a hot 131°F at 30,000 Btu/hr will take how long? We must put in 
 We need to cover the unit in this chapter in order to be energy-literate in the U.S., and because it will come up later in this book. 
-18:... hot water heaters, furnaces, air con- ditioners, ovens and stoves 
-19: Recall that 1 kcal is the energy it takes to heat one kilogram of water by 1°C. 
-20: 1.055 x 1018 J, more precisely. 
-21: A cute and convenient way to remember this, approximately, is л x 107 seconds per 
+
+[^18]:... hot water heaters, furnaces, air con- ditioners, ovens and stoves 
+
+[^19]: Recall that 1 kcal is the energy it takes to heat one kilogram of water by 1°C. 
+
+[^20]: 1.055 x 1018 J, more precisely. 
+
+[^21]: A cute and convenient way to remember this, approximately, is л x 107 seconds per 
 year. 
-22: Typical shower flow is about 2 gallons, or ~8 L, per minute. 
+
+[^22]: Typical shower flow is about 2 gallons, or ~8 L, per minute. 
  
 125 × 63 = 7,900 Btu of energy at a rate of 30,000 Btu/hr, so it will take 7,900/30,000 of an hour, or just over 15 minutes. 2. In metric terms, the equivalent to 15 gallons is 57 L (57 kg), and we heat from 20°C to 55°C at 8,800 W.23 Since one kcal heats one kilogram of water 1°C, heating 57 kg by 35°C will require 57 x 35 kcal, or 57 x 35 x 4, 184J = 8.35 MJ, which at 8,800 W will take 950 seconds, also just over 15 minutes (reassuringly, the same answer). 
 5.7 Therms 
-We will rarely encounter this unit, but include it here because natural gas utility bills24 in the U.S. often employ Therms. Since part of the goal of this book is to empower a personal understanding of energy and how to compare different measures of energy (e.g., on a utility bill), conventions in the U.S. demand that we cover the unit here.25 
+We will rarely encounter this unit, but include it here because natural gas utility bills24 in the U.S. often employ Therms. Since part of the goal of this book is to empower a personal understanding of energy and how to compare different measures of energy (e.g., on a utility bill), conventions in the U.S. demand that we cover the unit here.[^25] 
 Definition 5.7.1 One Therm is 100,000 Btu, or 1.055 x 108 J, or 29.3 kWh. 
 Box 5.5: Why Therms? 
 The Therm is partly adopted for the near-convenience that 100 cubic feet of natural gas (CCF or 100 CF), which meters measure directly, equates to 1.036 Therms. Relatedly, one gallon (3.785 L) of liquid propane gas26 contains 91,500 Btu, which is 0.915 Therms. Thus the Therm very closely matches convenient measures of natural gas (100 cubic feet) or liquid propane (a gallon). 
@@ -312,39 +334,49 @@ Example 5.7.1 It might take approximately 10,000 kcal of energy27 to heat a fres
 We do a two-step conversion: first, 10,000 kcal is 41.84 MJ, which at 1,055 J per Btu computes to about 40,000 Btu, which is the same as 0.4 Therm, requiring approximately 40 cubic feet of natural gas, or a little less than half-a-gallon (about 2 L) of liquid propane. 
 If we learn that the hot water heater is rated at 30,000 Btu per hour, it will take an hour and 20 minutes to complete the job. 
 5 Energy and Power Units 76 
-23: 30,000 Btu/hr is equivalent to 8,800 W, as worked out above. 
-24: See, for instance, the banner image for this chapter on page 68. 
-25: Chapter 20 will explore what might be learned from utility bills. 
-26: Propane is often used in more remote lo- cations as a substitute for natural gas when the pipeline infrastructure for natural gas is absent. 
-27: Based on a capacity of 200 L, pulling in chilly water at 5°C and heating it to 55°C, thereby requiring 200 kg x 50 C kcal. 
+
+[^23]: 30,000 Btu/hr is equivalent to 8,800 W, as worked out above. 
+
+[^24]: See, for instance, the banner image for this chapter on page 68. 
+
+[^25]: Chapter 20 will explore what might be learned from utility bills. 
+
+[^26]: Propane is often used in more remote lo- cations as a substitute for natural gas when the pipeline infrastructure for natural gas is absent. 
+
+[^27]: Based on a capacity of 200 L, pulling in chilly water at 5°C and heating it to 55°C, thereby requiring 200 kg x 50 C kcal. 
 It is interesting to reflect on the notion that 200 L of water can be heated by 50°C for only 2 L of liquid fuel: 1% of the water vol- ume in fuel. If heating to boiling, it would take twice as much fuel, so 2% of the wa- ter volume. Seems like a good bargain- especially for backpackers who want to boil water and have to lug the fuel around to do so. Inefficiencies in getting heat into the water might require more like 10% fuel vol- 
 ume. 
 5.8 Electrical Power 
 Electronic interactions are governed by charges pushing on each other. For the purposes of this course, we need only understand a few concepts. The first is voltage. 
  
-Voltage is a measure of electric potential, in Volts, and can be thought of as analogous to how high something is lifted.28 A higher voltage is like sitting higher on the shelf, and can do more work if allowed to be released. 
+Voltage is a measure of electric potential, in Volts, and can be thought of as analogous to how high something is lifted.[^28] A higher voltage is like sitting higher on the shelf, and can do more work if allowed to be released. 
 Charge is moved around by electrical forces, and the amount of charge moved plays a role similar to that of mass in gravitational settings. The unit of charge is the Coulomb (C), and the smallest unit of charge we encounter in normal situations is from the proton (+1.6 × 10-19 C) or the electron (-1.6 x 10-19 C). 
 Definition 5.8.1 The amount of energy in a charge, q, at a voltage, V, is 
 5 Energy and Power Units 
 77 
-28:... making electric potential a lot like gravitational potential energy in flavor 
+
+[^28]:... making electric potential a lot like gravitational potential energy in flavor 
 E = qV. 
 (5.1) 
 One Coulomb of charge at a potential of 1 V has an energy of 1J. 
 Current is the rate at which charge flows, and is usually symbolized by the letter I. Imagine setting up a toll booth in a conducting wire and counting how many charges (or how much cumulative charge) pass the gate per unit time. This gives rise to the Definition 5.8.2. 
-Definition 5.8.2 Current is measured in Amps,29 which is defined as one Coulomb per second. 
+Definition 5.8.2 Current is measured in Amps,[^29] which is defined as one Coulomb per second. 
 Moving one Coulomb through one Volt every second would constitute one Joule of energy every second, which is the definition of one Watt. Putting the concepts of Definition 5.8.1 and Definition 5.8.2 together, we find ourselves able to define electrical power. 
 Definition 5.8.3 Electrical power is simply current multiplied by voltage: 
 P = IV. 
 Current, I, is in Amps, and voltage, V is in Volts. 
 (5.2) 
-Example 5.8.1 Households in the U.S. often have circuit breakers allowing maximum currents of 15 or 20 Amps for regular power outlets. At a voltage of 120 V,30 this corresponds to a maximum power of 1,800 W or 2,400 W, respectively.31 
-Finally, we are in a position to understand how much energy a battery will hold. Batteries are rated by two numbers: voltage, and charge capacity. Since current is charge per time, multiplying current and time results in just charge.32 Therefore, charge capacity in batteries is characterized as Amp-hours (Ah) or milli-amp-hours (mAh). Since Amps times Volts is Watts (Eq. 5.2), Amp-hours times Volts is Watt-hours, a familiar unit of energy 
+Example 5.8.1 Households in the U.S. often have circuit breakers allowing maximum currents of 15 or 20 Amps for regular power outlets. At a voltage of 120 V,30 this corresponds to a maximum power of 1,800 W or 2,400 W, respectively.[^31] 
+Finally, we are in a position to understand how much energy a battery will hold. Batteries are rated by two numbers: voltage, and charge capacity. Since current is charge per time, multiplying current and time results in just charge.[^32] Therefore, charge capacity in batteries is characterized as Amp-hours (Ah) or milli-amp-hours (mAh). Since Amps times Volts is Watts (Eq. 5.2), Amp-hours times Volts is Watt-hours, a familiar unit of energy 
 from Section 5.4. 
-29: Amperes, formally 
-30: The alternating current nature is al- ready accommodated in this measure of voltage. 
-31: Safety regulations limit continuous use to 80% of the breaker current capacity, so that realistically the limits are 1,400 W and 1,920 W, respectively. This is why "heating appliances" in Figure 5.2 top out around 1,500 W: circuit/safety limits. 
-32: For example, 0.1 Amps (0.1 Coulombs per second) of current sustained for a dura- tion of 100 seconds results in 10 Coulombs of charge flow. 
+
+[^29]: Amperes, formally 
+
+[^30]: The alternating current nature is al- ready accommodated in this measure of voltage. 
+
+[^31]: Safety regulations limit continuous use to 80% of the breaker current capacity, so that realistically the limits are 1,400 W and 1,920 W, respectively. This is why "heating appliances" in Figure 5.2 top out around 1,500 W: circuit/safety limits. 
+
+[^32]: For example, 0.1 Amps (0.1 Coulombs per second) of current sustained for a dura- tion of 100 seconds results in 10 Coulombs of charge flow. 
  
 Example 5.8.2 A typical 9-volt battery has a capacity of 500 mAh. How much energy is this? 
 500 mAh is 0.5 Ah. Multiplying by 9 V produces 4.5 Wh. Recall that 1 Wh is 1 J/s times 3,600 s (one hour), or 3,600 J. So 4.5 Wh is 16.2 kJ. 
@@ -352,22 +384,27 @@ How long can we power a 1 W LED array from this battery? We can go the long way 
 33 
 5 Energy and Power Units 
 78 
-33: Approaching a problem from multiple directions provides validation and also pro- motes greater flexibility. 
+
+[^33]: Approaching a problem from multiple directions provides validation and also pro- motes greater flexibility. 
 5.9 Electron Volt (eV) 
-The electron-volt (eV) is the unit of choice for energy at the atomic scale. This makes it ideal for discussing individual chemical bond strengths, the energy of individual photons of light emitted from atoms, and thermal energy per atom or molecule.34 We also use the eV for nuclear physics, but must increase the scale one million-fold and therefore speak of the mega-electron-volt, or MeV. 
+The electron-volt (eV) is the unit of choice for energy at the atomic scale. This makes it ideal for discussing individual chemical bond strengths, the energy of individual photons of light emitted from atoms, and thermal energy per atom or molecule.[^34] We also use the eV for nuclear physics, but must increase the scale one million-fold and therefore speak of the mega-electron-volt, or MeV. 
 We have already hit all the relevant concepts for understanding the eV in Section 5.8. The main reason to have its own section is so that it 
 appears separately in the table of contents, making it easier to find and reference. The definition follows Definition 5.8.1 closely. 
 Definition 5.9.1 One electron-volt is the energy associated with pushing one fundamental unit of electron charge, |e| = 1.6×10-19 Coulombs, through an electric potential of 1 V: 
 1 eV = 1.6 × 10-19 C. 1V = 1.6 × 10-19 J 
 (5.3) 
 The electron-volt, at 1.6 x 10-19 J, is a tiny amount of energy. But it's just the right level for describing energetic processes for individual atoms. 
-Example 5.9.1 When 12 grams of carbon (one mole, or 6x1023 atoms35) reacts with oxygen to form CO2, about 394 kJ of energy is released.36 How much energy is this per carbon atom in electron-volts? 
+Example 5.9.1 When 12 grams of carbon (one mole, or 6x1023 atoms35) reacts with oxygen to form CO2, about 394 kJ of energy is released.[^36] How much energy is this per carbon atom in electron-volts? 
 Since we have one mole, or 6 x 1023 carbon atoms, we divide our total energy (3.94 × 105 J) by the number of atoms to get 6.5 x 10-19 J per atom. This is just a bit larger than 1 eV (1.6 x 10-19 J), and the division leads to something very close to 4 eV per atom. 
-Because CO2 has a total of four bonds between the carbon atom and the two oxygen atoms,37 we see that each bond accounts for about 1 eV. Chemical bonds are often in this range, highlighting the usefulness of the eV unit at the atomic level. 
-34: Really, this is just the kinetic energy of the particle. 
-35: See Appendix B for a primer/refresher on chemistry. 
-36: Tables in chemistry books contain this type of information. 
-37: Each carbon-to-oxygen link is a double bond, meaning that two electrons partici- pate in the link, for a total of four. 
+Because CO2 has a total of four bonds between the carbon atom and the two oxygen atoms,[^37] we see that each bond accounts for about 1 eV. Chemical bonds are often in this range, highlighting the usefulness of the eV unit at the atomic level. 
+
+[^34]: Really, this is just the kinetic energy of the particle. 
+
+[^35]: See Appendix B for a primer/refresher on chemistry. 
+
+[^36]: Tables in chemistry books contain this type of information. 
+
+[^37]: Each carbon-to-oxygen link is a double bond, meaning that two electrons partici- pate in the link, for a total of four. 
  
 5 Energy and Power Units 
 79 
@@ -376,7 +413,8 @@ Light energy and its spectrum will be explored more extensively in Chapter 13, b
 Light can be used to describe any part of the electromagnetic spectrum, from radio waves and microwaves, through infrared, visible, ultraviolet, and on to X-rays and gamma rays. Like atoms, light is "quantized" into smallest indivisible units-in this case particles called photons. An individual photon's energy is characteristic of its wavelength, A (Greek lambda), or frequency, v (Greek nu).3 
 38 
 Definition 5.10.1 The energy of a photon is given by 
-38: The two are related by the speed of light, c, via Av = c. 
+
+[^38]: The two are related by the speed of light, c, via Av = c. 
 E = hv 
 = 
 hc 
@@ -384,7 +422,8 @@ hc
 (5.4) 
 39 
 corre- 
-39: A micron (um, or micrometer) is an- other way to say 10-6 n 
+
+[^39]: A micron (um, or micrometer) is an- other way to say 10-6 n 
 m. 
 where h = 6.626 × 10-34 J·s is Planck's constant and c≈ 3.0 × 108 m/s is the speed of light. 
 Example 5.10.1 Visible light has a wavelength of 0.4-0.7 μm, sponding to 2.8-5.0x10-19 J for each photon. 
@@ -414,18 +453,20 @@ Great idea! Go for it!
 3. A 50 kg crate might require 200 N to slide across a concrete floor. If we must slide it 10 m along the floor and then lift it 2 m into a truck, how much energy goes into each action, and what fraction of the total energy expenditure is each? 
 4. Come up with your own scenario (a force and a distance) that 
 would result in 100 J of energy expenditure. 
-5. The numbers in Table 5.1 are reasonable but should not be thought of as right.40 You can make your own table by using mgh for lifting and mo2 for kinetic energy. For this exercise, pick three familiar activities or situations that allow you to estimate an energy scale in Joules and compute/estimate the results. 
+5. The numbers in Table 5.1 are reasonable but should not be thought of as right.[^40] You can make your own table by using mgh for lifting and mo2 for kinetic energy. For this exercise, pick three familiar activities or situations that allow you to estimate an energy scale in Joules and compute/estimate the results. 
 6. Just for fun, compute the energy associated with the mass of a tiny bit of shaving stubble having a mass of 0.01 mg41 using E = mc2. Make sure you use the correct units to put the result in Joules. The speed of light, c, is approximately 3 x 108 m/s. 
 7. What exchanges of energy (between what forms) happens when a hand grenade explodes and sends pieces of its casing flying away from the explosion at high velocity? You may wish to describe more than one step/exchange. 
 8. Follow the evolution of energy exchanges for a wad of clay that you throw high into the air. Describe what is happening as the clay moves upward, as it reaches its apex, as it falls back down, and finally hits the ground with a thud. Where does the initial energy you put into the clay end up? 
 9. A couch might take 100 N to slide across a floor. If someone slides the couch 4 meters and does it in 8 seconds, how much power did. they expend? 
 Weight is mg, where ༢ ༤ 10 m/s2. 
-40: Every nerf toss is not 15 J; the bookbag lift depends on how heavy and how high the lift; every example would have a range of reasonable numbers. 
-41:... based on 0.1 mm diameter and 1 mm long 
+
+[^40]: Every nerf toss is not 15 J; the bookbag lift depends on how heavy and how high the lift; every example would have a range of reasonable numbers. 
+
+[^41]:... based on 0.1 mm diameter and 1 mm long 
 The equivalent force to lifting 10 kg, or 22 lb of pushing force. 
 10. If a 70 kg person (weight: 700 N) is capable of putting out energy at a rate of 500 W in short bursts, how long will it take the person to race up a flight of stairs 4 m high, considering only the vertical energy42 
 required? 
-11. If asked to compute the power associated with performing a pull-up,43 what specific information would you need to solve the problem (and what are the units of each)? Write out the math that would give the final answer. 
+11. If asked to compute the power associated with performing a pull-up,[^43] what specific information would you need to solve the problem (and what are the units of each)? Write out the math that would give the final answer. 
 12. How 
 many kcal will it take to heat 1 liter of water (e.g., in a pot) from room temperature (20°C) to boiling (100°C)? How many Joules is this? 
 13. If a microwave operates at a power of 1,600 W (1,600 J/s), how long will it take to heat 0.25 L of water from room temperature to boiling (changing temperature by 80°C) if 50% of the microwave energy is absorbed by the water? 
@@ -433,23 +474,26 @@ many kcal will it take to heat 1 liter of water (e.g., in a pot) from room tempe
 15. If a typical metabolic intake is 2,000 kcal each day, approximately how much energy does this translate to for one day, in units of kWh? Compare this to a typical American household's electricity usage of 30 kWh in a day. 
 16. The chapter banner image (page 68) shows food labels for peanut butter and Nutella. The former indicates 188 Calories in a 32 g serving, while Nutella is 539 kcal in 100 g. To compare, we must adjust to the same serving size. Using 100 g as a sensible reference, which of the two is more energetic for the same serving size, and by how much (as a percentage)? 
 17. Based on the peanut butter label in the chapter banner image (page 68), showing 188 Cal per 32 g serving, how much mass of peanut butter would need to be consumed daily to constitute a 2,000 kcal/day diet? If a baseball has a mass of 145 g, how many baseballs of peanut butter would need to be consumed each day? 
-18. A generic $10 pizza might contain about 2,500 kcal. What is this in kWh? Electricity typically costs $0.15 per kWh,44 so how much would a pizza's amount of energy cost in electrical terms? Which of the two is a cheaper form of energy? 
+18. A generic $10 pizza might contain about 2,500 kcal. What is this in kWh? Electricity typically costs $0.15 per kWh,[^44] so how much would a pizza's amount of energy cost in electrical terms? Which of the two is a cheaper form of energy? 
 19. A refrigerator cycles on and off. Let's say it consumes electrical power at a rate of 150 W when it's on, and (essentially) 0 W when it's off. If it spends half of its time in the on-state, what is its average power? How much energy does it consume in a 24-hour day, in 
 5 Energy and Power Units 81 
-42: Ignoring inefficiencies of moving legs, rounding flights, etc. 
-43: ... or chin-up, lifting your entire body up to a bar using your arms 
+
+[^42]: Ignoring inefficiencies of moving legs, rounding flights, etc. 
+
+[^43]: ... or chin-up, lifting your entire body up to a bar using your arms 
 50% is typical for microwave efficiency. 
 The result can help inform your sense for the typical range of human metabolic 
 power. 
 Hint: it may be convenient to first get power in Watts and round to a nice number before proceeding. 
 Comparable to a full day's intake. 
-44: ... regionally variable 
+
+[^44]: ... regionally variable 
  
 kWh? At a typical electricity cost of $0.15 per kWh, about how much does it cost per year to run the refrigerator? 
 20. The chapter banner image (page 68) shows data from the author's utility bill, indicating 230 kWh of electrical usage for a 30-day period in 2020. What does this rate of energy usage translate to, in Watts? 
 21. Heating a typical house might require something like 200 W of power for every degree Celsius difference between inside and outside temperatures. If the inside temperature is kept at 20°C and the outside temperature holds steady all day and night at 0°C, how much power is required to maintain the temperature? 
 22. If Problem 21 had resulted in 5,000 W,45 how much energy is used in a 24-hour day, in Joules? Express in the most natural/convenient multiplier (i.e., J, kJ, MJ, GJ, etc.) depending on the scale. 
-23. If Problem 21 had resulted in 5,000 W,46 how many kilowatt-hours (kWh) are expended in a 24-hour period? At an electricity cost of around $0.15 per kWh,47 about how much will it cost, per day, to 
+23. If Problem 21 had resulted in 5,000 W,46 how many kilowatt-hours (kWh) are expended in a 24-hour period? At an electricity cost of around $0.15 per kWh,[^47] about how much will it cost, per day, to 
 maintain heat? 
 24. If Problem 21 had resulted in 5,000 W,48 how many Btu are required in a day to maintain temperature? How many Therms is this? At a typical cost of around $1.25 per Therm, about how much does it cost per day to heat the home? 
 25. If Problem 21 had resulted in 5,000 W,49 how many gallons of liquid propane 50 would be consumed in heating the home for a day? At a cost of around $2.50 per gallon, about how much does it cost per day to heat the home? 
@@ -460,16 +504,23 @@ maintain heat?
 82 
 Hint: either treating it as if it is only on for 12 hours, or operating at half-power for 24 hours will yield equivalent answers. 
 For instance, if the temperature differ- ence is 10°C, the house will require 2,000 W of steady input to maintain temperature. 
-45: it does not, exactly 
-46: 
+
+[^45]: it does not, exactly 
+
+[^46]: 
 A 
 it does not, exactly 
-47:... regionally variable 
-48: 
+
+[^47]:... regionally variable 
+
+[^48]: 
 it does not, exactly 
-49: it does not, exactly 
-50: Hint: related to Problem 24 and the fact that a gallon of propane contains 0.915 Therms of energy. 
-51: .recommend kWh as common basis 
+
+[^49]: it does not, exactly 
+
+[^50]: Hint: related to Problem 24 and the fact that a gallon of propane contains 0.915 Therms of energy. 
+
+[^51]: .recommend kWh as common basis 
  
 29. The chapter banner image (page 68) has two panels relating to the same hot water heater. One indicates the rate of gas usage when the heater is on (ignited, heating water) as 40,000 Btu/hr, and the other anticipates 242 Therms per year will be used. How many hours per day is the heater expected to be on (heating water) based on these numbers? 
 30. Gather up or compute conversion factors from the chapter to start your own conversion table (empty version below). Express kWh, cal, kcal, Btu, and Therms in terms of Joules. 
@@ -492,13 +543,16 @@ To: Therms
 Hint: useful to convert to Therms/hr 
 Not all these conversions are likely to be useful, but a few will come up in practice. 
 32. A car headlight using light emitting diodes (LEDs) operates at about 15 W. If drawing from the car's 12 V battery, how much current, in Amps, flows to the headlight? 
-33. Houses in the U.S. are equipped with circuit protection rated to 100 or 200 Amps, typically. If a 100 A house is operating at 80% of its rated capacity,52 how much power is it consuming (at 120 V)? If sustained for a month, how many kWh will show up on the bill? At $0.15/kWh, what is the cost? 
+33. Houses in the U.S. are equipped with circuit protection rated to 100 or 200 Amps, typically. If a 100 A house is operating at 80% of its rated capacity,[^52] how much power is it consuming (at 120 V)? If sustained for a month, how many kWh will show up on the bill? At $0.15/kWh, what is the cost? 
 34. The chapter banner image (page 68) shows a rechargeable AA battery, operating at 1.2 V and holding 2,200 mAh of charge. How many Joules is this, and how long could it power a 1 W LED array? 
-35. If we have 6 x 1023 molecules,53 and each molecule releases 1 eV in a chemical reaction, how many kJ (per mole, as it turns out) is this reaction? 
+35. If we have 6 x 1023 molecules,[^53] and each molecule releases 1 eV in a chemical reaction, how many kJ (per mole, as it turns out) is this reaction? 
 36. Considering the typical wavelength of light to be 0.55 μm, what is a typical photon energy, in Joules, and how many photons per second emerge from a 1 W light source?54 
 37. At what wavelength, in microns (um), is the corresponding photon energy in eV the same number? A deliberately wrong example to illustrate would be if a 2.6μm wavelength corresponded to 2.6 eV (it doesn't'). 
-52: All circuits blazing at the safety limit! 
-53: This is one mole, as covered in Sec. B.1 (p. 375). 
-54: Assuming 100% efficiency 
+
+[^52]: All circuits blazing at the safety limit! 
+
+[^53]: This is one mole, as covered in Sec. B.1 (p. 375). 
+
+[^54]: Assuming 100% efficiency 
  
 179- 

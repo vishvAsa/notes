@@ -3,7 +3,7 @@ title = "3 Population"
 
 +++
 Underlying virtually every concern relating to our experience on this planet is the story of human population. The discussion of continued energy growth in Chapter 1 was based on the historical growth rate of energy, which is partly due to growing population and partly due to increased use per capita. But the notion that population will continue an exponential climb, as is implicit in the Chapter 1 scenario, is impracticalone of many factors that will render the "predictions" of Chapter 1 invalid and prohibit "growth forever." 
-So let's add a dose of reality and examine a more practical scenario. Americans' per-capita use of energy is roughly five times the global average rate. If global population eventually doubles, and the average global citizen advances to use energy at the rate Americans currently do,1 then the total scale of energy use would go up by a factor of 10, which would take 100 years at our mathematically convenient 2.3% annual rate (see Eq. 1.5; p. 5). This puts a more realistic-and proximate— timescale on the end of energy growth than the fantastical extrapolations of Chapter 1. 
+So let's add a dose of reality and examine a more practical scenario. Americans' per-capita use of energy is roughly five times the global average rate. If global population eventually doubles, and the average global citizen advances to use energy at the rate Americans currently do,[^1] then the total scale of energy use would go up by a factor of 10, which would take 100 years at our mathematically convenient 2.3% annual rate (see Eq. 1.5; p. 5). This puts a more realistic-and proximate— timescale on the end of energy growth than the fantastical extrapolations of Chapter 1. 
 Although the focus of this chapter will be on the alarming rate of population growth, we should keep the energy and resource context in mind in light of the overall theme of this book. To this end, Figure 3.1 shows the degree to which energy demand has outpaced population growth, when scaled vertically to overlap in the nineteenth century. From 1900 to 1950, per-capita energy consumption increased modestly, but then ballooned dramatically after 1950, so that today we have the equivalent of 25 billion people on the planet operating at nineteenth century energy levels. 
 Since population plays a giant role in our future trajectory, we need to better understand its past. We can also gain some sense for theoretical 
 3.1 Population History 3.2 Logistic Model Overshoot 
@@ -18,7 +18,8 @@ It's Personal Population Policy
 ... 
 3.5 Upshot: It Depends on Us.. 
 3.6 Problems. 
-1: 
+
+[^1]: 
 44 
 46 
 + 
@@ -57,7 +58,7 @@ expectations, then discuss the heralded "demographic transition" and its implica
 Figure 3.2 shows a history of global population for the last 12,000 years. Notice that for most of this time, the level is so far down as to be essentially invisible. It is natural to be alarmed by the sharp rise in recent times, which makes the current era seem wholly unusual: an aberration. But wait-maybe it's just a plain exponential function. All exponential functions ruthless as they are would show this alarming rise at some point, sometimes called a "hockey stick" plot. In order to peer deeper, we plot population on a logarithmic vertical axis (Figure 3.3). Now we bring the past into view, and can see whether a single exponential function (which would have a constant slope in a logarithmic plot) captures the story. 
 Wait, what? It still looks somewhat like a hockey stick (even more literally so)! How can that be?! This can't be good news. Peering more closely, we can crudely break the history into two eras, each following exponential growth (straight lines on the plot), but at different rates. The early phase had a modest 0.044% growth rate. By the "rule of 70," the corresponding doubling time is about 1,600 years. In more recent times, a 1% rate is more characteristic (70 year doubling). Indeed, we would be justified in saying that recent centuries are anomalous compared to the first 10,000 years of the plot. If we extend the the 0.04% line and the 1% line, we find that they intersect around the year 1700, which helps identify the era of marked transition. 
 The recent rapid rise is a fascinating development, and begs for a closer look. Figure 3.4 shows the last ~1,000 years, for which we see several exponential-looking segments at ever-increasing rates. The doubling times associated with the four rates shown on the plot are presented in Table 3.1. 
-An interpretation of the population history might go as follows. Not much changed during the period following the Dark Ages.2 The Renaissance (~1700) introduced scientific thinking so that we began to conquer diseases, allowing an uptick in population growth. In the mid-19th century (~1870), the explosive expansion of fossil fuel usage permitted industrialization at a large scale, and mechanized farming practices. More people could be fed and supported, while our mastery over human health continued to improve. In the mid-20th century (~1950), the Green Revolution [17] introduced a fossil-fuel-heavy diet of fertilizer and large- scale mechanization of agriculture, turning food production into an industry. The combination of a qualitative change in the availability of cheap nutrition and the march of progress on disease control cranked the population rate even higher. 
+An interpretation of the population history might go as follows. Not much changed during the period following the Dark Ages.[^2] The Renaissance (~1700) introduced scientific thinking so that we began to conquer diseases, allowing an uptick in population growth. In the mid-19th century (~1870), the explosive expansion of fossil fuel usage permitted industrialization at a large scale, and mechanized farming practices. More people could be fed and supported, while our mastery over human health continued to improve. In the mid-20th century (~1950), the Green Revolution [17] introduced a fossil-fuel-heavy diet of fertilizer and large- scale mechanization of agriculture, turning food production into an industry. The combination of a qualitative change in the availability of cheap nutrition and the march of progress on disease control cranked the population rate even higher. 
 population (billions) 
 6 5 
 + 
@@ -97,7 +98,8 @@ year
 1800 
 2000 
 Figure 3.4: Global population estimate, over recent centuries. On the logarithmic plot, lines of constant slope are exponential in behavior. Four such exponential segments can be broken out in the plot, having increasing growth rates. [14, 15]. 
-2: except that famine and plague took a toll in the 14th century 
+
+[^2]: except that famine and plague took a toll in the 14th century 
 Table 3.1: Doubling times for Fig. 3.4. 
 Years 
 % growth 
@@ -126,12 +128,14 @@ In
 In(1+p) 
 = 
 (3.2) 
-Example 3.1.1 We can use Eq. 3.1 to determine how many people we will have in the year 2100 if we continue growing at a 1% rate, starting from 7 billion in the year 2010. We set Po=7Gppl,4 to 2010, p = 0.01, then compute the population in 2100 to be P = 7eln 1.01.90 = 17 Gppl. 
+Example 3.1.1 We can use Eq. 3.1 to determine how many people we will have in the year 2100 if we continue growing at a 1% rate, starting from 7 billion in the year 2010. We set Po=7Gppl,[^4] to 2010, p = 0.01, then compute the population in 2100 to be P = 7eln 1.01.90 = 17 Gppl. 
 Eq. 3.2 is the form that was used to conclude that increasing from 7 to 8 Gppl takes less than 14 years at a 1% rate. The computation looks like: In(8/7)/In 1.01 = 13.4. Note that we need not include the factors of a billion in the numerator and denominator, since they cancel in 
 the ratio. 
 3 Population 32 
-3:... recalling that that the natural log and exponential functions "undo" each other (as inverse functions) 
-4: Gppl is giga-people, or billion people 
+
+[^3]:... recalling that that the natural log and exponential functions "undo" each other (as inverse functions) 
+
+[^4]: Gppl is giga-people, or billion people 
 The actual time for adding one billion peo- ple has lately been 12 years, as we have been growing at a rate slightly higher than 1%. 
 Year 
 Population Time Rate Doubling 
@@ -196,22 +200,28 @@ p = rP,
 where r represents the birth rate in proportion to the population (e.g., 0.04 if 4% of the population will give birth in a year)." This equation just re-iterates the simple idea that the rate of population growth is dependent on (proportional to) the present population. The solution to this differential equation is an exponential: 
 P = Poer(t-to), 
 (3.4) 
-5: For reference, the SARS-CoV2 pandemic of 2020 barely impacted global population growth rates. When population grows by more than 80 million each year, a disease killing even a few million people barely registers as a hit to the broader trend. 
+
+[^5]: For reference, the SARS-CoV2 pandemic of 2020 barely impacted global population growth rates. When population grows by more than 80 million each year, a disease killing even a few million people barely registers as a hit to the broader trend. 
 The word negative may sound like some- thing we would not want, but its cousin- positive feedback-leads to disastrous run- away conditions. An example of positive feedback is the bacteria example from Chap- ter 1: having more bacteria only increases the rate of growth. Exponentials are the hallmark of positive feedback, while equi- librium signals negative feedback. 
-6: 
+
+[^6]: 
 ...no negative feedback yet 
-7: We have just described a state of positive feedback: more begets more. 
-8: P is a time derivative (note the dot on top), defined as P = dP/dt. But don't panic if calculus is not your thing: what we de- scribe here is still totally understandable. 
-9: In terms of the growth rate we used before, p, as in Eq. 3.1, r = ln(1 + p). So for instance, if growing at 2%, p = 0.02 and r also is 0.02 (r≈ p for small values of p). 
+
+[^7]: We have just described a state of positive feedback: more begets more. 
+
+[^8]: P is a time derivative (note the dot on top), defined as P = dP/dt. But don't panic if calculus is not your thing: what we de- scribe here is still totally understandable. 
+
+[^9]: In terms of the growth rate we used before, p, as in Eq. 3.1, r = ln(1 + p). So for instance, if growing at 2%, p = 0.02 and r also is 0.02 (r≈ p for small values of p). 
  
 which is really just a repeat of Eq. 3.1, where r takes the place of In(1+p). 
-Example 3.2.2 Paralleling the deer population scenario from Example 3.2.1, if we set r = 0.5, and have a population of P = 100 adult deer (half female), Eq. 3.3 says that P = 50, meaning the population will change by 50 units.10 
+Example 3.2.2 Paralleling the deer population scenario from Example 3.2.1, if we set r = 0.5, and have a population of P = 100 adult deer (half female), Eq. 3.3 says that P = 50, meaning the population will change by 50 units.[^10] 
 We could then use Eq. 3.4 to determine the population after 4 years: P = 100e0.5.4≈ 739. 
 Let's say that a given forest can support an ultimate number of deer, labeled Q, in steady state, while the current population is labeled P. The difference, Q-P is the "room" available for growth, which we might think of as being tied to available resources. Once P = Q, no more resources are available to support growth. 
 Definition 3.2.2 The term "carrying capacity" is often used to describe Q: the population supportable by the environment. The carrying capacity (Q) for human population on Earth is not an agreed-upon number, and in any case it is a strong function of lifestyle choices and resource dependence. 
 Q-P quantifies a growth-limiting mechanism by representing available room. One way to incorporate this feature into our growth rate equation is to make the rate of growth look like 
 3 Population 34 
-10: A more adorable term for "units" is fawns, in this case. 
+
+[^10]: A more adorable term for "units" is fawns, in this case. 
 We ignore death rate here, but it effectively reduces r in ways that we will encounter later. 
 growth rate 
 P 
@@ -229,7 +239,8 @@ P(t) =
 Q 1+e-r(t-to) 
 (3.6) 
 The first part of the curve in Figure 3.7, for very negative values11 of t- to, is exponential but still small. At t = to (time of inflection), the population is Q/2. As time marches forward into positive territory, P approaches Q. As it does so, negative feedback mechanisms (limits to resource/food availability, predation, disease) become more assertive 
-11: The parameter to is the time when the logistic curve hits its halfway point. Times before this have negative values of t - to. 
+
+[^11]: The parameter to is the time when the logistic curve hits its halfway point. Times before this have negative values of t - to. 
  
 population, P, as fraction of maximum, Q 
 1.0 
@@ -262,7 +273,7 @@ population, P
 12 
 time relative to midpoint (t-to) 
 and suppress the rate of growth until it stops growing altogether when P reaches Q. 
-Example 3.2.3 Continuing the deer scenario, let's say the forest can ultimately support 840 adults,12 and keep r = 0.5 as the uninhibited growth rate. Using these numbers, Eq. 3.6 yields 100 adults at t = to-4 years (effectively the initial state in Example 3.2.1). One year later, at t = to 3, Eq. 3.6 yields 153-very close to the nominal addition of 50 members. But now four 
+Example 3.2.3 Continuing the deer scenario, let's say the forest can ultimately support 840 adults,[^12] and keep r = 0.5 as the uninhibited growth rate. Using these numbers, Eq. 3.6 yields 100 adults at t = to-4 years (effectively the initial state in Example 3.2.1). One year later, at t = to 3, Eq. 3.6 yields 153-very close to the nominal addition of 50 members. But now four 
 in (t years 
 to), we have 420 instead of the 739 we got under unrestricted exponential growth in Example 3.2.2.13 
 - 
@@ -272,11 +283,14 @@ The logistic curve is the dream scenario: no drama. The population simply approa
 But not so fast. We left out a crucial piece: feedback delay. The math that leads to the logistic curve assumes that the negative feedback14 acts instantaneously in determining population rates. 
 Consider that human decisions to procreate are based on present con- ditions: food, opportunities, stability, etc. But humans live for many decades, and do not impose their full toll on the system until many years after birth, effectively delaying the negative feedback. The logistic curve and equation that guided it had no delay built in. 
 Figure 3.7: Logistic population curve (blue), sometimes called an S-curve, as given in Eq. 3.6, in this case plotting for r = 0.5 to match examples in the text. The red curve is the exponential that would result without any negative feedback. 
-12: ... tuned for a convenient match to the numbers we have used in the foregoing examples 
-13: Not coincidentally, P = way point, t = to. 
+
+[^12]: ... tuned for a convenient match to the numbers we have used in the foregoing examples 
+
+[^13]: Not coincidentally, P = way point, t = to. 
 Q/2 at the half- 
 Three consecutive 12-year intervals appear in Table 3.2. If the middle one is the mid- point of a logistic linear phase-in 2011 at 7 billion people it would suggest an ulti- mate population of 14 billion. 
-14: ... based on remaining resources, Q-P, at the moment in Eq. 3.5 
+
+[^14]: ... based on remaining resources, Q-P, at the moment in Eq. 3.5 
  
 3 Population 
 36 
@@ -316,11 +330,13 @@ time relative to nominal midpoint
 = 
 Figure 3.8: Feedback delay generally re- sults in overshoot and oscillation, shown for various delay values, T. The black curve (T 0) is the nominal no-delay logistic curve. As the delay increases, the severity of overshoot increases. Delays are explored in increments of 0.5 times the characteris- tic timescale of 1/r (using r = 0.5 here to match previous examples, so that a delay of 1.5/r equates to 3 time units on the graph, for instance). The delay durations are also indicated by bar lengths in the leg- end. 
 15 
-Eventually all the curves in Figure 3.8 converge to the steady state value of 1.0, but human population involves complexities not captured in this bare-bones mathematical model.16 All the same, the generic phenomenon of overshooting when negative feedback is delayed is a robust attribute, even if the oscillation and eventual settling does not capture the future of human population well. 
-15: 
+Eventually all the curves in Figure 3.8 converge to the steady state value of 1.0, but human population involves complexities not captured in this bare-bones mathematical model.[^16] All the same, the generic phenomenon of overshooting when negative feedback is delayed is a robust attribute, even if the oscillation and eventual settling does not capture the future of human population well. 
+
+[^15]: 
 at Q 
 meaning that population P arrives 
-16: For instance, a dramatic overshoot and collapse could be disruptive enough to take out our current infrastructure for fossil-fuel- aided agriculture so that the Q value essen- tially resets to some lower value. 
+
+[^16]: For instance, a dramatic overshoot and collapse could be disruptive enough to take out our current infrastructure for fossil-fuel- aided agriculture so that the Q value essen- tially resets to some lower value. 
 Human Population (Gppl) 
 12 
 10 
@@ -347,7 +363,8 @@ Perhaps not surprisingly, the rate of a country's population growth is correlate
 Population growth happens when the birth rate exceeds the death rate. 
 Definition 3.3.1 Birth rate, typically expressed in births per 1,000 people per year, minus death rate (also in deaths per 1,000 people per year) is the net population rate. If the difference is positive, the population grows, and it shrinks if the difference is negative. 
 17 
-17: This ignores immigration, which just shifts living persons around. 
+
+[^17]: This ignores immigration, which just shifts living persons around. 
  
 + 
 Population Growth Rate (%) 
@@ -377,13 +394,16 @@ USA
 Figure 3.10: Net population rate, in per- cent, as a function of per-capita GDP. A clear trend shows wealthier countries hav- ing lower growth rates. A win-win solution would seem to present itself, in which every- one arrives at the lower right-hand side of this graph: more money for all and a stable population! Dot size (area) is proportional to population [6, 8, 19, 20]. 
 Example 3.3.1 The U.S. has a birth rate of about 12 people per 1,000 per year, and a death rate of 8.1 people per 1,000 per year. The net rate is then roughly +4 per 1,000 per year, translating to 0.4% net growth. 
 Niger has a birth rate of 46 per 1,000 per year and a death rate of 11, resulting in a net of positive 35, or 3.5%. 
-As conditions change, birth and death rates need not change in lock-step. Developed countries tend to have low birth rates and low death rates, balancing to a relatively low net population growth rate. Developing countries tend to have high death rates and even higher birth rates, leading to large net growth rates. Figure 3.11 depicts both birth rates and death rates for the countries of the world. A few countries (mostly in Europe) have slipped below the replacement line, indicating declining population.19 
+As conditions change, birth and death rates need not change in lock-step. Developed countries tend to have low birth rates and low death rates, balancing to a relatively low net population growth rate. Developing countries tend to have high death rates and even higher birth rates, leading to large net growth rates. Figure 3.11 depicts both birth rates and death rates for the countries of the world. A few countries (mostly in Europe) have slipped below the replacement line, indicating declining population.[^19] 
 The general sense is that developed countries have "made it" to a respon- sible low-growth condition, and that population growth is driven by poorer countries. An attractive solution to many20 is to bring developing countries up to developed-country standards so that they, too, can settle into a low growth rate. This evolution from a fast-growing poor country to a slow (or zero) growth well-off country is called the demographic transition. 
 Definition 3.3.2 The demographic transition refers to the process by which developing countries having high death rates and high birth rates adopt technologies, education, and higher standards of living that result in low death rates and low birth rates, more like advanced countries. 
 In order to accomplish this goal, reduced death rates are facilitated by 
-18: 4 per 1,000 is 0.4 per 100, which is an- other way to say 0.4 percent. 
-19: Note that immigration is not considered here: just birth rate and death rate within the country. 
-20: 
+
+[^18]: 4 per 1,000 is 0.4 per 100, which is an- other way to say 0.4 percent. 
+
+[^19]: Note that immigration is not considered here: just birth rate and death rate within the country. 
+
+[^20]: 
 ers 
 but unsolicited "preaching" to oth- 
  
@@ -417,9 +437,11 @@ Lesotho
 3 Population 40 
 Figure 3.11: Birth rates and death rates for countries, where dot size is proportional to population. The diagonal line indicates par- ity between birth and death rates, resulting in no population growth. Countries above the line are growing population, while coun- tries below are shrinking. A few countries fall a bit below this line [8, 19, 20]. 
 Death rate (per 1000 per year) 
-introducing modern medicine and health services to the population. Reduced birth rates are partly in response to reduced infant mortality— eventually leading to fewer children as survival is more guaranteed. But also important is better education-especially among women in the society who are more likely to have jobs and be empowered to exercise control of their reproduction (e.g., more say in relationships and/or use of contraception). All of these developments take time and substantial financial investment.21 Also, the economy in general must be able to support a larger and better-educated workforce. The demographic transition is envisioned as a transformation or complete overhaul, resulting in a country more in the mold of a "first-world" country.22 
-21: Better hospitals and schools are not free. 
-22: One may justifiably question whether this is the "correct" goal. 
+introducing modern medicine and health services to the population. Reduced birth rates are partly in response to reduced infant mortality— eventually leading to fewer children as survival is more guaranteed. But also important is better education-especially among women in the society who are more likely to have jobs and be empowered to exercise control of their reproduction (e.g., more say in relationships and/or use of contraception). All of these developments take time and substantial financial investment.[^21] Also, the economy in general must be able to support a larger and better-educated workforce. The demographic transition is envisioned as a transformation or complete overhaul, resulting in a country more in the mold of a "first-world" country.[^22] 
+
+[^21]: Better hospitals and schools are not free. 
+
+[^22]: One may justifiably question whether this is the "correct" goal. 
 birth rate 
 40 
 30 
@@ -444,11 +466,13 @@ It
 net population rate (annual births minus deaths per 1000 people) 
 Figure 3.13 shows the net population rate (birth minus death rate) on a world map. Africa stands out as the continent having the largest net population growth rate, and has been the focus of much attention when discussing population dynamics. 
 But let us cast population rates in different countries in a new light. Referring to Figure 3.13, it is too easy to look at Niger's net population rate—which is about ten times higher than that of the U.S. (see Example 3.3.1) and conclude that countries similar to Niger present a greater risk to the planet in terms of population growth. However, our perspective changes when we consider absolute population levels. Who cares if a country's growth rate is an explosive 10% if the population is only 73 people?23 
-Figure 3.14 multiplies the net rate by population to see which countries contribute the most net new people to the planet each year, and Table 3.3 lists the top ten. Africa no longer appears to be the most worrisome region in this light.24 India is the largest people-producing country at present, adding almost 18 million per year. Far behind is China, in second 
+Figure 3.14 multiplies the net rate by population to see which countries contribute the most net new people to the planet each year, and Table 3.3 lists the top ten. Africa no longer appears to be the most worrisome region in this light.[^24] India is the largest people-producing country at present, adding almost 18 million per year. Far behind is China, in second 
  
 Figure 3.13: Net population growth rate by country: birth rate minus death rate per 1,000 people per year. The highest net growth (darkest shading) is Niger, in Saha- ran Africa [19, 20]. 
-23: But check back in 100 years! 
-24: Although, the continent as a whole ac- counts for 35% of the total added popula- tion each year. 
+
+[^23]: But check back in 100 years! 
+
+[^24]: Although, the continent as a whole ac- counts for 35% of the total added popula- tion each year. 
 3 Population 42 
 0 2 4 6 8 10 12 14 16 18 Annual addition to population (millions) 
 place. The U.S. adds about 1.6 million per year, a little beyond the top ten. This exercise goes to show that context is important in evaluating data. 
@@ -513,12 +537,16 @@ Whole World 7,711
 86 
 Figure 3.14: Absolute population growth rate by country: how many millions of peo- ple are added per year (birth rate minus death rate times population) [8, 19, 20]. 
 Table 3.3: Top ten populators [8, 19, 20], in terms of absolute number of people added to each country. Birth rates and death rates are presented as number per 1,000 people per year. These ten countries account for 55% of population growth worldwide. 
-Adding another relevant perspective, when one considers that the per- capita energy consumption in the United States is more than 200 times that of Niger,25 together with the larger U.S. population, we find that the resource impact from births is almost 400 times higher for the U.S. than for Niger.26 On a per capita basis, a citizen of the U.S. places claims on future resources at a rate 28 times higher than a citizen of Niger via population growth.27 On a finite planet, the main reason we care about population growth is in relation to limited resources. Thus from the resource point of view, the problem is not at all confined to the developing world. Table 3.4 indicates how rapidly the top ten countries are creating energy demand (as a proxy to resource demands in general) based on population growth alone. Figure 3.15 provides a graphical perspective of the same (for all countries). For reference, one gigawatt (GW) is the equivalent of a large-scale nuclear or coal-fired power plant. So China, the U.S., and India each add the equivalent of 10-20 such plants per year just to satisfy the demand created by population growth.2 
+Adding another relevant perspective, when one considers that the per- capita energy consumption in the United States is more than 200 times that of Niger,[^25] together with the larger U.S. population, we find that the resource impact from births is almost 400 times higher for the U.S. than for Niger.[^26] On a per capita basis, a citizen of the U.S. places claims on future resources at a rate 28 times higher than a citizen of Niger via population growth.[^27] On a finite planet, the main reason we care about population growth is in relation to limited resources. Thus from the resource point of view, the problem is not at all confined to the developing world. Table 3.4 indicates how rapidly the top ten countries are creating energy demand (as a proxy to resource demands in general) based on population growth alone. Figure 3.15 provides a graphical perspective of the same (for all countries). For reference, one gigawatt (GW) is the equivalent of a large-scale nuclear or coal-fired power plant. So China, the U.S., and India each add the equivalent of 10-20 such plants per year just to satisfy the demand created by population growth.2 
 28 
-25: The average American rate of energy use is 10,000 W vs. 50 W for Niger. 
-26: In other words, for every additional kilogram of coal, steel, or whatever required by Niger's added population, the U.S. will require 400 kg of the same to satisfy its population growth. 
-27: 28 is smaller than 400 by the ratio of populations in the two countries. 
-28: This does not even consider rising stan- dards placing additional burdens. 
+
+[^25]: The average American rate of energy use is 10,000 W vs. 50 W for Niger. 
+
+[^26]: In other words, for every additional kilogram of coal, steel, or whatever required by Niger's added population, the U.S. will require 400 kg of the same to satisfy its population growth. 
+
+[^27]: 28 is smaller than 400 by the ratio of populations in the two countries. 
+
+[^28]: This does not even consider rising stan- dards placing additional burdens. 
  
 Power 
 Added Per Citizen (W) 
@@ -627,10 +655,11 @@ India
 20 
 Annual Population Increase (millions) 
 Added Power Per Person (W) 
-The last column in Table 3.4 is the per-citizen cost, meaning, for instance that each person in the U.S. adds about 50 Watts per year of energy demand via the country's net population growth rate.29 In this sense, the last column is a sort of "personal contribution" an individual makes to the world's resource demands via net population rates and consumption rates in their society. Those having high scores should think twice about assigning blame externally, and should perhaps tend to their own house, as the saying goes. 
+The last column in Table 3.4 is the per-citizen cost, meaning, for instance that each person in the U.S. adds about 50 Watts per year of energy demand via the country's net population growth rate.[^29] In this sense, the last column is a sort of "personal contribution" an individual makes to the world's resource demands via net population rates and consumption rates in their society. Those having high scores should think twice about assigning blame externally, and should perhaps tend to their own house, as the saying goes. 
 Before departing this section, let us look at continent-scale regions rather than individual countries in terms of adding people and resource demands. Table 3.5 echoes similar information to that in Table 3.4, in modified form. What we learn from this table is that Asia's demands are commensurate with their already-dominant population; North America creates the next largest pressure despite a much smaller population; 
 Figure 3.15: Graphical representation of Ta- ble 3.4, for all countries. Dots, whose size is proportional to population, indicate how many people are added per year, and how much additional energy demand is created as a consequence. Color indicates the added population-growth-driven power demand an individual citizen is responsible for gen- erating each year as a member of the society. Negative cases (contracting) include Russia, Japan, Germany, and Ukraine [7, 8, 19, 20]. 
-29: A citizen of Niger, by comparison, only adds 1.7 W of demand per year on energy resources via population growth. 
+
+[^29]: A citizen of Niger, by comparison, only adds 1.7 W of demand per year on energy resources via population growth. 
  
 Country 
 Population Annual Per Capita Power Added 
@@ -688,7 +717,8 @@ Africa is significant in terms of population growth, but constitutes only 10% of
 A final point relates to the trajectory depicted in Figure 3.12 for demo- graphic transitions: death rate decreases first while birth rates remain high or rise even higher-before starting to come down. An example se- quence is illustrated in Figure 3.16: initially the rates are high (at r1), and the same (resulting in steady population); then the death rate transitions to a new low rate (r2) over a time T; and the birth rate begins to fall some time t later before matching the death rate and stabilizing population again. The yellow-shaded area between the curves indicates the region where birth rate exceeds death rate, leading to a net population growth (a surge in population). 
 The amount of growth in the surge turns out to be proportional to the exponential of the area between the curves. For this trapezoid cartoon, the area is just the base (T) times the height (rate difference), so that the population increase looks like e(1-2), where r1 is the initial rate per year and r2 is the final rate. The actual curves may take any number of forms, but the key point is that delayed onset of birth rate decrease introduces a population surge, and that magnitude of the surge grows as the area between the curves increases. 
 Example 3.3.2 If we start at a birth/death rate of 25 per 1,000 per year (r1 = 0.025), end up at 8 (r2 = 0.008; verify that these numbers are reasonable according to Figure 3.11), and have a delay of t = 50 years for the birth rate to start decreasing, we see the population increasing by a factor of 
-30: Note that European countries are ner- vous about their decline in a growing, com- petitive world. 
+
+[^30]: Note that European countries are ner- vous about their decline in a growing, com- petitive world. 
 death rate: 
 rate 
 birth rate 
@@ -754,16 +784,19 @@ Box 3.2: Which is More Selfish?
 Parents, many of whom sacrifice dearly in raising kids-financially, emotionally, and in terms of time investment—understandably view their tireless commitment as being selfless: they often give up their own time, comfort, and freedom in the process. It is understandable, then, that they may view those not having kids as being selfish: the opposite of selfless. But this can be turned on its head. Why, 
 Having two kids is not a strict replacement, in that parents and children overlap (double- occupancy) on Earth. But the practice is at least consistent with a steady state. 
  
-exactly, did they decide to have kids and contribute to the toll on our planet? It was their choice (or inattention) that placed them in parental roles, and the entire planet—not just humans-pays a price for their decision, making it seem a bit selfish.31 In the end, almost any decision we make can be called selfish, since we usually have our own interests at least partly in mind. So it is pointless to try assigning more or less selfishness to the decision to have kids or not to have them. But consider this: if the rest of the Earth-all its plants and creatures—had a say, do you think they would vote for adding another human to the planet? Humans have the capacity, at least, to consider a greater picture than their own self interest, and provide representation to those sectors that otherwise have no rights or voice in our highly human-centric system. 
+exactly, did they decide to have kids and contribute to the toll on our planet? It was their choice (or inattention) that placed them in parental roles, and the entire planet—not just humans-pays a price for their decision, making it seem a bit selfish.[^31] In the end, almost any decision we make can be called selfish, since we usually have our own interests at least partly in mind. So it is pointless to try assigning more or less selfishness to the decision to have kids or not to have them. But consider this: if the rest of the Earth-all its plants and creatures—had a say, do you think they would vote for adding another human to the planet? Humans have the capacity, at least, to consider a greater picture than their own self interest, and provide representation to those sectors that otherwise have no rights or voice in our highly human-centric system. 
 3 Population 47 
-31: Reasons for having children are numer- ous: genetic drive; family name/tradition; labor source; care in old age; companionship and love (projected onto not-yet-existing person). Note that adoption can also satisfy many of these aims without contributing additional population. 
+
+[^31]: Reasons for having children are numer- ous: genetic drive; family name/tradition; labor source; care in old age; companionship and love (projected onto not-yet-existing person). Note that adoption can also satisfy many of these aims without contributing additional population. 
 3.4.2 Population Policy 
-What could governments and other organizations do to manage popula- tion? Again, this is touchy territory, inviting collision between deeply personal or religious views and the state. China initiated a one-child pol- icy in 1979 that persisted until 2015 (exceptions were granted depending on location and gender). The population in China never stopped climb- ing during this period, as children born during prior periods of higher birth rates matured and began having children of their own-even if restricted in number. The population curve in China is not expected to flatten out until sometime in the 2030-2040 period.32 Such top-down policies can only be enacted in strong authoritarian regimes, and would be seen as a severe infringement on personal liberties in many countries. Religious belief systems can also run counter to deliberate efforts to limit population growth. In addition, shrinking countries are at a competitive disadvantage in global markets, often leading to policies that incentivize having children. 
+What could governments and other organizations do to manage popula- tion? Again, this is touchy territory, inviting collision between deeply personal or religious views and the state. China initiated a one-child pol- icy in 1979 that persisted until 2015 (exceptions were granted depending on location and gender). The population in China never stopped climb- ing during this period, as children born during prior periods of higher birth rates matured and began having children of their own-even if restricted in number. The population curve in China is not expected to flatten out until sometime in the 2030-2040 period.[^32] Such top-down policies can only be enacted in strong authoritarian regimes, and would be seen as a severe infringement on personal liberties in many countries. Religious belief systems can also run counter to deliberate efforts to limit population growth. In addition, shrinking countries are at a competitive disadvantage in global markets, often leading to policies that incentivize having children. 
 One striking example of rarely-achieved sustainable population control comes from the South Pacific island of Tikopia [21]. Maintaining a stable population for a few thousand years on this small island involved not only adopting food practices as close to the island's natural plants as possible, but also invoking strict population controls. The chiefs in this egalitarian society routinely preached zero population growth, and also prevented overfishing. Strict limits were placed on family size, and cultural taboos kept this small island at a population around 1,200.33 Population control methods included circumventing insemination, abortion, infanticide, suicide, or "virtual suicide," via embarking on dangerous sea voyages unlikely to succeed. In this way, the harshness of nature was replaced by harsh societal norms that may seem egregious to us. When Christian missionaries converted inhabitants in the twentieth century, the practices of abortion, infanticide and suicide were quenched and the population 
 The net effect of the various exceptions meant that for most of this period half of Chinese parents could have a second child. 
-32: This is another case of delay in negative feedback resulting in overshoot. 
+
+[^32]: This is another case of delay in negative feedback resulting in overshoot. 
 [21]: Diamond (2005), Collapse: How Societies Choose to Fail or Succeed 
-33: A group size of 1,200 is small enough to prevent hiding irresponsible actions behind anonymity. 
+
+[^33]: A group size of 1,200 is small enough to prevent hiding irresponsible actions behind anonymity. 
  
 3 Population 48 
 began to climb, leading to famine and driving the population excess off the island. 
@@ -779,12 +812,15 @@ A common knee-jerk reaction to a statement that we would be better off with a sm
  
 3 Population 49 
 followed the same population curve, what would our global power demand be today, in TW? How does this compare to the actual 18 TW we use today? 
-2. Notice that on logarithmic plots,34 factors of ten on the logarithmic axis span the same distance. This applies for any numerical factor- not just ten.35 Shorter (minor) tick marks between labeled (major) ticks multiply the preceding tick label by 2, 3, 4, 5, 6, 7, 8, 9. The graphic below illustrates the constant distance property for a factor of two.36 Now try a different multiplier (not 2 or 10), measuring the distance between tick marks, and report/draw how you graphically verified that your numerical factor spans the same distance no matter where you "slide" it on the axis. 
+2. Notice that on logarithmic plots,[^34] factors of ten on the logarithmic axis span the same distance. This applies for any numerical factor- not just ten.[^35] Shorter (minor) tick marks between labeled (major) ticks multiply the preceding tick label by 2, 3, 4, 5, 6, 7, 8, 9. The graphic below illustrates the constant distance property for a factor of two.[^36] Now try a different multiplier (not 2 or 10), measuring the distance between tick marks, and report/draw how you graphically verified that your numerical factor spans the same distance no matter where you "slide" it on the axis. 
 Hint: It is perfectly acceptable to hold a (preferably transparent) straight-edge up to a graph! 
-34: See, for example, Figures 3.3 and 3.4. 
-35: This is due to the property of logarithms that log () = log a log b. The property applies for any base, so log10 and In behave the same way. 
+
+[^34]: See, for example, Figures 3.3 and 3.4. 
+
+[^35]: This is due to the property of logarithms that log () = log a log b. The property applies for any base, so log10 and In behave the same way. 
 - 
-36: The green bars indicate that the same distance from 1 to 2 applies to 3-6, 40-80, and 500-1,000. 
+
+[^36]: The green bars indicate that the same distance from 1 to 2 applies to 3-6, 40-80, and 500-1,000. 
 factors of two 
 2 3 
 6 
@@ -806,10 +842,13 @@ P =
 14 
 1 + exp[-0.025 × (year - 2011)] 
 in billions of people. First verify that inserting the year 2011 results in 7 (billion), and then add a column to Table 3.2 for the "prediction" resulting from this function. Working back into the past, when does it really start to deviate from the truth, and why do you 
-37: Determine graphically (may need to zoom in). See Problem 2 and the associated graphic to better understand how the tick marks work. 
-38: I.e., don't say 0.01 billion if 10 million is more natural, or 8,000 million when 8 billion would do. 
+
+[^37]: Determine graphically (may need to zoom in). See Problem 2 and the associated graphic to better understand how the tick marks work. 
+
+[^38]: I.e., don't say 0.01 billion if 10 million is more natural, or 8,000 million when 8 billion would do. 
 See margin notes for Problem 3. 
-39: See Eq. 3.6. 
+
+[^39]: See Eq. 3.6. 
  
 think that is (hint: what changed so that we invalidated a single, continuous mathematical function)? 
 8. Using the logistic model presented in Problem 7, what would the population be in the year 2100? How does this compare to the exponential result at 1% growth as in Problem 6? 
@@ -827,14 +866,16 @@ e) a child wails loudly and throws a tantrum; to calm the child, parents give it
 11. Pick five countries of interest to you not represented in any of the tables in this chapter and look up their birth rate and death rate [19, 20], then find the corresponding dot on Figure 3.11, if possible. 40 At the very least, identify the corresponding region on the plot. 
 12. A country in the early stages of a demographic transition may have trimmed its death rate to 15 per 1,000 people per year, but still have a birth rate of 35 per 1,000 per year. What does this amount do in terms of net people added to the population each year, per 1,000 people? What rate of growth is this, in percent? 
 13. If the population of the country in Problem 12 is 20 million this year, how many people would we expect it to have next year? How many were born, and how many died during the year? 
-14. Figure 3.11 shows Egypt standing well above China in terms of excess birth rate compared to death rate.41 Yet Table 3.3 indicates that China contributes a much larger annual addition to global population than does Egypt. Explain why. Then, using the first four columns in Table 3.3, replicate the math that produced the final column's entries for these two countries to reinforce your understanding of the interaction between birth and death rates and population in terms of absolute effect. 
+14. Figure 3.11 shows Egypt standing well above China in terms of excess birth rate compared to death rate.[^41] Yet Table 3.3 indicates that China contributes a much larger annual addition to global population than does Egypt. Explain why. Then, using the first four columns in Table 3.3, replicate the math that produced the final column's entries for these two countries to reinforce your understanding of the interaction between birth and death rates and population in terms of absolute effect. 
 15. In a few clear sentences, explain why the maps in Figure 3.13 
 3 Population 50 
 Comparison of this problem and Problem 6 highlights the difference the choice of mathematical model can make. 
 [19]: (2016), List of Sovereign States and Dependent Territories by Birth Rate 
 [20]: (2011), List of Sovereign States and Dependent Territories by Mortality Rate 
-40: Numbers may change from when the plot was made; population can help settle based on dot size. 
-41:... much farther from dashed line 
+
+[^40]: Numbers may change from when the plot was made; population can help settle based on dot size. 
+
+[^41]:... much farther from dashed line 
 Show work and add one more decimal place to the answer as a way to validate that you did more than copy the table result. 
 and Figure 3.14 look so different, in terms of which countries are shaded most darkly? 
 16. Table 3.4 indicates which countries place the highest population- driven new demand on global resources using energy as a proxy. Which countries can American citizens regard as contributing more total resource demand? At the individual citizen-contribution level, what other citizens can Americans identify as being responsible for a greater demand on resources via population growth? 
@@ -854,7 +895,8 @@ For instance, Oceania has a ratio of 1.0 for population growth (0.5% of popula- 
 52 
 22. The set of diagrams below show five different time sequences 
 on the left akin to Figure 3.16, labeled 1-5. The first four on the left have increasing 7 (delay until birth rate begins falling), and the last increases birth rate before falling again. On the right are five trajectories in the birth/death rate space (like Figure 3.12), scrambled into a different order and labeled A-E.42 Deduce how the corresponding trajectory for each time sequence would appear in the birth/death rate plot on the right, matching letters to numbers for all five. 
-42: Note that figures A. and E. differ only by whether the transition pauses (dwells) 
+
+[^42]: Note that figures A. and E. differ only by whether the transition pauses (dwells) 
 at the corner for some time. 
 2. 
 1. 
@@ -902,8 +944,10 @@ death rate
 43 
 23. Referring to the figures for Problem 22 (and described within the same problem), which pair13 corresponds to the largest popula- tion surge, and which pair produces the smallest? Explain your reasoning, consistent with the presentation in the text. 
 24. Referring to the figures for Problem 22 (and described within the same problem), which pair44 is most similar to the actual trajectory we witness (i.e., Figure 3.11), and what does this say about the 
-43:... number and associated letter; not necessarily arranged next to each other 
-44:... number and associated letter; not necessarily arranged next to each other 
+
+[^43]:... number and associated letter; not necessarily arranged next to each other 
+
+[^44]:... number and associated letter; not necessarily arranged next to each other 
  
 population cost of the demographic transition in the context of Problem 23? 
 25. Considering Figure 3.11 in the context of a trajectory (as in Figure 3.12), would it appear that most countries in the world have begun the demographic transition? Have very few of them started? Is it about half-and-half? Justify your answer. 
@@ -916,5 +960,6 @@ population cost of the demographic transition in the context of Problem 23?
 33 
 53 
 Hint: think about what the graph would look like in these scenarios. 
-45: Assume for the purpose of the question that it is biologically possible. 
+
+[^45]: Assume for the purpose of the question that it is biologically possible. 
  

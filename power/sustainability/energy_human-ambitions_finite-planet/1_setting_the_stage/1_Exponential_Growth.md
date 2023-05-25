@@ -256,21 +256,24 @@ www
 Figure 1.3: Energy trajectory in the U.S. over a long period. The red line is an exponential at a 2.9% growth rate, which appears linear on a logarithmic plot. 
 result; 2) this rate produces the mathematical convenience of a factor of 10 increase every century. 
 What follows is a flight of fancy that quickly becomes absurd, but we will chase it to staggering levels of absurdity just because it is fun, instructive, and mind-blowing. Bear in mind that what follows should not be taken as predictions of our future: rather, we can use the absurdity to predict how our future will not look! 
-The sun deposits energy at Earth's surface at a rate of about 1,000 W/m2 (1,000 Watts per square meter; we'll reach a better understanding for these units in Chapter 5). Ignoring clouds, the projected area intercepting the sun's rays is just А = πR, where R is the radius of the earth, around 6,400 km. Roughly a quarter of the earth's surface is land, and adding it all up we get about 30 x 1015 W hitting land. If we put solar panels on every square meter of land converting sunlight to electrical energy at 20% efficiency,10 we keep 6 x 1015 W. This is a little over 300 times the current global energy usage rate of 18 TW. What an encouraging number! Lots of margin. How long before our growth would get us here? After one century, we're 10 times higher, and 100 times higher after two centuries. It would take about 2.5 centuries (250 years) to hit this limit. Then no more energy growth. 
+The sun deposits energy at Earth's surface at a rate of about 1,000 W/m2 (1,000 Watts per square meter; we'll reach a better understanding for these units in Chapter 5). Ignoring clouds, the projected area intercepting the sun's rays is just А = πR, where R is the radius of the earth, around 6,400 km. Roughly a quarter of the earth's surface is land, and adding it all up we get about 30 x 1015 W hitting land. If we put solar panels on every square meter of land converting sunlight to electrical energy at 20% efficiency,[^10] we keep 6 x 1015 W. This is a little over 300 times the current global energy usage rate of 18 TW. What an encouraging number! Lots of margin. How long before our growth would get us here? After one century, we're 10 times higher, and 100 times higher after two centuries. It would take about 2.5 centuries (250 years) to hit this limit. Then no more energy growth. 
 But wait, why not also float panels on all of the ocean, and also magically improve performance to 100%? Doing this, we can capture a whopping 130 x 1015 W, over 7,000 times our current rate. Now we're talking about maxing out in just under 400 years. Each factor of ten is a century, so a factor of 10,000 would be four factors of ten (104), taking four centuries. 
 So within 400 years, we would be at the point of using every scrap of 
 = 
-8: Fundamentally, this relates to the fact that the natural log of 10 is 2.30. The analog of Eq. 1.7 using 10 in place of 2 and p 0.023 for 2.3% growth rate will produce a factor- of-ten timescale t10≈ 100 years. 
-9: A Do not interpret this section as pre- 
+
+[^8]: Fundamentally, this relates to the fact that the natural log of 10 is 2.30. The analog of Eq. 1.7 using 10 in place of 2 and p 0.023 for 2.3% growth rate will produce a factor- of-ten timescale t10≈ 100 years. 
+
+[^9]: A Do not interpret this section as pre- 
 dictions of how our future will go. 
 Approximate numbers are perfectly fine for this exercise. 
-10: 20% is on the higher end for typical panels. 
+
+[^10]: 20% is on the higher end for typical panels. 
 The merits of various alternative energy sources will be treated in later chapters, so do not use this chapter to form opinions on the usefulness of solar 
 for instance. power, 
 In defiance of physical limits. 
 10,000 is not too different from 7,000, and the "rounding up" helps us conveniently make sense of the result, since a factor of 10,000 is easier to interpret as four applications of 10x, and thus 400 years. 
  
-solar energy hitting the planet at 100% efficiency. But our planet is a tiny speck in space. Why not capture all the light put out by the sun, in a sphere surrounding the sun (called a Dyson sphere; see Box 1.3)? Now we're talking some real power! The sun puts out 4 x 1026 W. If it were a light bulb, this would be its label (putting the 100 W standard incandescent bulb to shame). So the number is enormous. But the math is actually pretty easy to grasp.11 Every century gets another factor of ten. To go from where we are now (18 x 1012 W) to the solar regime is about 14 orders-of-magnitude. So in 1,400 years, 12 we would be at 18 x 1026 W, which is about 4.5 times the solar output. Therefore we would use the entire sun's output in a time shorter than the 2,000-year run of our current calendar. 
+solar energy hitting the planet at 100% efficiency. But our planet is a tiny speck in space. Why not capture all the light put out by the sun, in a sphere surrounding the sun (called a Dyson sphere; see Box 1.3)? Now we're talking some real power! The sun puts out 4 x 1026 W. If it were a light bulb, this would be its label (putting the 100 W standard incandescent bulb to shame). So the number is enormous. But the math is actually pretty easy to grasp.[^11] Every century gets another factor of ten. To go from where we are now (18 x 1012 W) to the solar regime is about 14 orders-of-magnitude. So in 1,400 years, 12 we would be at 18 x 1026 W, which is about 4.5 times the solar output. Therefore we would use the entire sun's output in a time shorter than the 2,000-year run of our current calendar. 
 Box 1.3: Dyson Sphere Construction 
 If we took the material comprising the entire Earth (or Venus) and created a sphere around the sun at the current Earth-Sun distance, it would be a shell less than 4 mm thick! And it's not necessarily ideal material stock for building a high-tech sphere and solar panels. The earth's atmosphere distributed over this area would be 0.015 m thick. Don't hold your breath waiting for this to happen. 
 Bypassing boring realism, we recognize that our sun is not the only star in the Milky Way galaxy. In fact, we estimate our galaxy to contain roughly 100 billion stars! This seems infinite. A billion seconds is just over 30 years, so no one could count to 100 billion in a lifetime. But let's see: 100 billion is 1011. Immediately, we see that we buy another 11 centuries at our 2.3% rate. So it takes 1,100 years to go from consuming our entire sun to all the stars in our galaxy! That's 2,500 years from now, adding the two timescales, and still a civilization-relevant time period. Leave aside the pesky fact that the scale of our galaxy is 100,000 light years, so that we can't possibly get to all the stars within a 2,500 year timeframe. So even as a mathematical exercise, physics places yet another limit on how long we could conceivably expect to maintain our current energy growth trajectory. 
@@ -278,8 +281,10 @@ The unhinged game can continue, pretending we could capture all the light put ou
 The point is not to take seriously the timescales for conquering the sun or the galaxy. But the very absurdity of the exercise serves to emphasize 
  
 9 
-11: Math becomes easier if you blur your vision a bit and do not demand lots of precision. In this case, we essentially ignore everything but the exponent, recognizing that each century will increment it by 1, at our chosen 2.3% rate. 
-12: In this case, the "real" answer would be 1,335 years, but why fret over the details for little gain or qualitative difference in the outcome? 
+
+[^11]: Math becomes easier if you blur your vision a bit and do not demand lots of precision. In this case, we essentially ignore everything but the exponent, recognizing that each century will increment it by 1, at our chosen 2.3% rate. 
+
+[^12]: In this case, the "real" answer would be 1,335 years, but why fret over the details for little gain or qualitative difference in the outcome? 
 Table 1.3: Energy limit timescales. 
 Utilizing 
 years until 
@@ -297,7 +302,7 @@ By coincidence, the visible universe has about as many galaxies as our galaxy ha
 the impossibility of our continuing exponential growth in energy. All kinds of reasons will preclude continued energy growth, including the fact that human population cannot continue indefinite growth on this planet. We will address space colonization fantasies in Chapter 4. 
  10 
 ## 1.3 Thermodynamic Consequences 
-Physics places another relevant constraint on growth rate, and that concerns waste heat. Essentially all of our energy expenditures end up as heat. Obviously many of our activities directly involve the production of heat: ovens, stoves, toasters, heaters, clothes dryers, etc. But even cooling devices are net heat generators. Anything that uses power from an electrical outlet ends up creating net heat in the environment, with very few exceptions. A car moving down the road gets you from place A to place B, but has stirred the air,13 heated the engine and surrounding air, and deposited heat into the brake pads and rotors, tires and road. Our metabolic energy mostly goes to maintaining body temperature. But even our own physical activity tends to end up as heat in the environment. The only exceptions would be beaming energy out of the earth environment (e.g., light or radio) or putting energy into storage (eventually to be converted to heat). But such exceptions do not amount to much, quantitatively. 
+Physics places another relevant constraint on growth rate, and that concerns waste heat. Essentially all of our energy expenditures end up as heat. Obviously many of our activities directly involve the production of heat: ovens, stoves, toasters, heaters, clothes dryers, etc. But even cooling devices are net heat generators. Anything that uses power from an electrical outlet ends up creating net heat in the environment, with very few exceptions. A car moving down the road gets you from place A to place B, but has stirred the air,[^13] heated the engine and surrounding air, and deposited heat into the brake pads and rotors, tires and road. Our metabolic energy mostly goes to maintaining body temperature. But even our own physical activity tends to end up as heat in the environment. The only exceptions would be beaming energy out of the earth environment (e.g., light or radio) or putting energy into storage (eventually to be converted to heat). But such exceptions do not amount to much, quantitatively. 
 What happens to all of this waste heat? If it all stayed on Earth, the temperature would climb and climb. But the heat does have an escape path: infrared radiation14 to space. The earth is in an approximate thermodynamic equilibrium: solar energy is deposited, and infrared radiation balances the input to result in steady net energy. As we will see in Chapter 5, the rate at which energy flows is called power, so that we can describe energy flows into and out of the earth system in terms of power. Physics has a well-defined and simple rule for how much power a body radiates, called the Stefan-Boltzmann law: 
 P = Asurf (Thot-Told). 
 16 
@@ -306,24 +311,30 @@ P = Asurf (Thot-Told).
 P is the power radiated, Asurf is the surface area, Thot is the temperature of the radiating object in Kelvin (very important!), Tcold is the temperature of the environment (also Kelvin), and σ is the Stefan-Boltzmann constant: σ = 5.67 x 10-8 W/m2/K4.17 Note that the law operates on the difference of the fourth powers of two temperatures. 
 Example 1.3.1 A table in a room in which the table and walls are all at the same temperature does not experience net radiation flow since the two temperatures to the fourth power subtract out. In this case, as much radiation leaves the table for the walls as arrives from the walls to the table. But a room-temperature object at 300 K radiates approximately 450 W per square meter to the coldness of space. 
 Some time, go feel the exhaust air from an air-conditioning unit, or the heat produced at the back and bottom of a refrigerator. Even though these devices perform a cool- ing function, they make more heat than cool. 
-13: Stirred-up air eventually grinds to a halt due to viscosity/friction, becoming heat. 
-14: ... a form of electromagnetic radiation 
-15:... leaving out something called emissiv- ity, not relevant for our purposes 
-16: Conversions to Kelvin from Celsius (or Fahrenheit) go like: 
+
+[^13]: Stirred-up air eventually grinds to a halt due to viscosity/friction, becoming heat. 
+
+[^14]: ... a form of electromagnetic radiation 
+
+[^15]:... leaving out something called emissiv- ity, not relevant for our purposes 
+
+[^16]: Conversions to Kelvin from Celsius (or Fahrenheit) go like: 
 T(K) = T(C) + 273.15; T(C) = (T(F) - 32)/1.8 
-17: It's actually an easy constant to remem- ber: 5-6-7-8 (but must remember the minus sign on the exponent). 
+
+[^17]: It's actually an easy constant to remem- ber: 5-6-7-8 (but must remember the minus sign on the exponent). 
 Because space is so cold (tens of Kelvin, effectively, unless exposed to the sun), the fourth power of such a small number pales so much in comparison to the fourth power of a number like 300 that we can safely ignore it for radiation to space: 
 Pspace≈ AsurfOT4, 
 (1.9) 
 where we now just have a single temperature: that of the warm body in 
 space. 
-Earth reaches an equilibrium so that power-in equals power-out.18 If more power is dumped onto the planet, then the temperature rises until σT4 climbs to match. The relation in Eq. 1.9 is fundamentally important to Earth's temperature balance, and applies pretty universally, as highlighted in Box 1.4. 
+Earth reaches an equilibrium so that power-in equals power-out.[^18] If more power is dumped onto the planet, then the temperature rises until σT4 climbs to match. The relation in Eq. 1.9 is fundamentally important to Earth's temperature balance, and applies pretty universally, as highlighted in Box 1.4. 
 Box 1.4: Everything Radiates 
 The same relation (Eq. 1.8) governs the surface of the sun, light bulb filaments, glowing coals, and even the human body. While the human body expends metabolic energy at a similar rate to an incandescent light bulb (about 100 W), one is much hotter than the other because the surface areas are vastly different. 
  11 
 Try it yourself on a calculator! 
 Temperature must be in Kelvin. 
-18: Climate change is due to greenhouse gases blocking the escape of some radia- tion to space, presently causing a ~0.1% imbalance that Chapter 9 will address. 
+
+[^18]: Climate change is due to greenhouse gases blocking the escape of some radia- tion to space, presently causing a ~0.1% imbalance that Chapter 9 will address. 
 Sun 
 Sinfrared 
 infrared radiation from 4лR2 
@@ -376,10 +387,11 @@ AT (C)
 8,600 
 8,300 
 Table 1.4: At a constant energy growth rate of 2.3% per year, the temperature climb from waste heat (not CO2 emissions) is slow at first, but becomes preposterous within a few-hundred years. Water boils in just over 400 years, and by 900 years Earth is hotter than the sun! The scenario of continued growth is obviously absurd. 
-Connecting some ideas, we found in the previous section that we would be consuming the sun's entire output in 1,400 years at the 2.3% growth rate. It stands to reason that if we used a sun's worth of energy confined to the surface of the earth, the (smaller) surface would necessarily be hotter than the sun (in 1,400 years), just like a light bulb filament is hotter than human skin despite putting out the same power owing to the difference in area.19 
+Connecting some ideas, we found in the previous section that we would be consuming the sun's entire output in 1,400 years at the 2.3% growth rate. It stands to reason that if we used a sun's worth of energy confined to the surface of the earth, the (smaller) surface would necessarily be hotter than the sun (in 1,400 years), just like a light bulb filament is hotter than human skin despite putting out the same power owing to the difference in area.[^19] 
 One key aspect of this thermal radiation scenario is that it does not depend on the form of power source. It could in principle be fossil fuels, nuclear fission, nuclear fusion, or some form of energy we have not yet realized and may not even have named! Whatever it is, it will have to obey thermodynamics. Thus, thermodynamics puts a time limit on energy growth on this planet. 
  
-19: This can be gleaned from Eq. 1.8 or Eq. 
+
+[^19]: This can be gleaned from Eq. 1.8 or Eq. 
 1.9. 
 ## 1.4 Upshot: Physics Limits Physical Growth 
 We saw in this chapter that unabated growth leads to absurd results. First, we calibrated our intuition in the context of bacteria in jars. The key point is that the jar is half full one doubling time before it is full. While this seems obvious, it delays the drama to the very end, acting fast to impose hard limits and catch the inhabitants by surprise. The conditions that persisted for many generations—thus taken for granted-suddenly change completely. 
@@ -396,7 +408,7 @@ Was the exercise pointless, since the math leads to absurdity? Is the math wrong
 Note that a deviation from the assumed steady 2.3% growth rate changes all the numbers, and therein may lie the solution: ramp down growth! 
 A number of these issues will be addressed in subsequent chapters. 
  
-3. Our example town from the text (page 3) starting at 100 people in the year 1900 and doubling every 10 years was said to take about 260 years (26 doubling times) to reach world population. Verify that the population indeed would approach 7 billion in 260 years (when the year would be 2160), by any means you wish.20 
+3. Our example town from the text (page 3) starting at 100 people in the year 1900 and doubling every 10 years was said to take about 260 years (26 doubling times) to reach world population. Verify that the population indeed would approach 7 billion in 260 years (when the year would be 2160), by any means you wish.[^20] 
 4. Use Eq. 1.5 with b = 2 to figure out exactly how many years-via a computation of doubling times, which may not be an integer-our example town from the text (page 3) would take to reach 7 billion people. 
 5. If our example town from page 3, doubling every 10 years, reaches a population of 7 billion in 260 years, how many years before it reaches 14 billion? 
 6. In a classic story, a king is asked to offer a payment as follows: place one grain of rice on one square of a chess board (64 squares), then two on the next square, four on the next, 8 on the next, and double the previous on each subsequent square. The king agrees, not comprehending exponential growth. But the final number (adding all the grains) is one less than 264. How many grains is 
@@ -408,34 +420,39 @@ this?
 11. In the more dramatic bacteria-jar scenario in which doubling happens every minute and reaches single-jar capacity at midnight, at what time will the colony have to cease expansion if an explorer finds three more equivalent jars in which they are allowed to expand without interruption/delay? 
 12. What is the doubling time associated with 3.5% annual growth? 
  14 
-20: E.g., brute force doubling 26 times or using math to get straight at the answer. 
+
+[^20]: E.g., brute force doubling 26 times or using math to get straight at the answer. 
 Hint: In is the natural log function found on scientific calculators (sometimes as LN). 
 Hint: M is the ratio of the final population to the initial population. 
 To get 2,000 kcal of metabolic content per day, a person would need to eat 30,000 grains of rice each day. The amount of rice computed for this problem would feed the current world population for 240 years, which you are encouraged to check for your- self! 
 Roughly 10 bacteria fit within a cubic micron (tiny), so you would not be able to see this tiny starting amount. 
  
 13. Using Eq. 1.5 and showing work, what annual growth rate, in per- cent, leads to the mathematically convenient factor-of-ten growth every century? 
-14. Use Eq. 1.5 with b = 1+ p to figure out how long it takes to increase our energy by a factor of 10 if the growth rate is closer to the historical value of 2.9% (p = 0.029). Using 2.3% as we did in the examples (starting on page 7) puts this at 100 years.21 
+14. Use Eq. 1.5 with b = 1+ p to figure out how long it takes to increase our energy by a factor of 10 if the growth rate is closer to the historical value of 2.9% (p = 0.029). Using 2.3% as we did in the examples (starting on page 7) puts this at 100 years.[^21] 
 15. Extrapolating a constant growth rate in energy is motivated by historical performance. During this period, population was also growing, albeit not as fast. If population were to double every 50 years, 22 how many people would Earth host when we hit the energy/thermodynamic limits in roughly 300 years? 
 16. In extrapolating a 2.3% growth rate in energy, we came to the absurd conclusion that we consume all the light from all the stars in the Milky Way galaxy within 2,500 years. How much longer would it take to energetically conquer 100 more "nearby" galaxies, assuming they are identical to our own? 
 17. In the spirit of outlandish extrapolations, if we carry forward a 2.3% growth rate (10x per century), how long would it take to go from our current 18 TW (18 x 1012 W) consumption to annihilating an entire earth-mass planet every year, converting its mass into pure energy using E = mc2? Things to know: Earth's mass is 6 x 1024 kg; c = 3 x 108 m/s; the result is in Joules, and one Watt is one Joule per second. 
 18. Taking cues from the discussion of waste heat channels on page 10, describe some of the ways that all your energy output turns to heat when you go on a bicycle ride. 
 19. Your skin temperature is about 308 K, and the walls in a typical room are about 295 K. If you have about 1 m2 of outward-facing surface area, how much power do you radiate as infrared radiation, in Watts? Compare this to the typical metabolic rate of 100 W. 
-20. The moon absorbs 90% of the solar energy incident on it.23 How hot would you expect the surface to get under full sun? You don't need the factor of four here24 because the moon rotates very slowly under the sun and we're considering a patch experiencing overhead sunlight (rather than averaging over the sphere). Compare the result to boiling water temperature. 
+20. The moon absorbs 90% of the solar energy incident on it.[^23] How hot would you expect the surface to get under full sun? You don't need the factor of four here24 because the moon rotates very slowly under the sun and we're considering a patch experiencing overhead sunlight (rather than averaging over the sphere). Compare the result to boiling water temperature. 
 21. Venus is, ironically, colder than Earth as an infrared radiator. This is because Venus is covered in bright clouds, absorbing only 25% of the incident solar flux. Sunlight is more intense there due to it's being closer to the sun: it's almost double, at 2,620 W/m2. Adapting Eq. 1.11, calculate the equilibrium temperature of Venus in the infrared and compare it to the Earth value of 255 K. 
  15 
 Hint: the exponential, ex, "undoes" the nat- ural logarithm. 
-21: Hint: a good way to check your math. Note that if we were to use 2.9% instead of 2.3%, all of the time estimates in Section 1.2 are reduced by the ratio of this question's answer to 100 years. 
-22: This corresponds to a 1.4% growth rate, but you don't need to use this number in your calculation. 
+
+[^21]: Hint: a good way to check your math. Note that if we were to use 2.9% instead of 2.3%, all of the time estimates in Section 1.2 are reduced by the ratio of this question's answer to 100 years. 
+
+[^22]: This corresponds to a 1.4% growth rate, but you don't need to use this number in your calculation. 
 We are unlikely to reach such a number for a host of other reasons. 
 Ignoring the fact that it impossible to get to them fast enough, even at light speed. 
 Hint: Dividing the number of Joules asso- ciated with Earth's mass by the number of seconds in a year gives the number of Watts being consumed. You may wish to compare the result to the timescale before we would use the power output of all stars in the Milky Way galaxy? 
 Air convection also takes some heat away, but then clothing reduces both to bring us to equilibrium/comfort. 
-23: 
+
+[^23]: 
 .... 
 Earth 
 incident at the same rate/flux as at 
-24: Referring to the 4 that shows up in Eqs. 1.10 and 1.11. 
+
+[^24]: Referring to the 4 that shows up in Eqs. 1.10 and 1.11. 
 The surface of Venus is much hotter than that of Earth owing to a runaway green- house condition. On Earth, the greenhouse boost is only 33 K, but on Venus it's hun- dreds of degrees. 
  
 22. Adapt Eq. 1.11 to Mars to find its equilibrium temperature. The solar flux averages 590 W/m2 there, and it absorbs 75% of incident sunlight. Express the answer in both Kelvin and Celsius, and put in context. 
@@ -446,7 +463,8 @@ The surface of Venus is much hotter than that of Earth owing to a runaway green-
  
  
 16 
-25: Water boils at 100°C, or 373 K. 
+
+[^25]: Water boils at 100°C, or 373 K. 
 WL23375422N LIB 
 2 Economic Growth Limits 
 ML 399754298 

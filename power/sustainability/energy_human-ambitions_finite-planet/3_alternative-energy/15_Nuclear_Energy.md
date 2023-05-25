@@ -8,7 +8,8 @@ Example 15.2.1 If starting with 16 million separate neutrons, we would expect 8 
 Correspondingly, a single isolated neutron has a 50% chance of still being around in 10.25 minutes, a 25% chance of lasting 20.5 minutes, and a 6.25% chance of surviving 41 minutes. Every half-life interval cuts the probability of survival in half again.
 Table 15.1 summarizes these results, adding jumps to 10 and 24 half lives for illustration, ending at one neutron.
 Luckily, radioactive decays don't go just any which way, but stick to a very small menu of possible routes. When a decay happens, the nucleus always spits something out, which could be an electron, a positron, a helium nucleus (called an alpha particle), a photon, or more rarely might spit out one or more individual protons or neutrons. Because these particles can emerge at high speed (high energy), they are like little bullets firing at random times and directions into their surroundings. These bullets are potentially damaging to materials and biological tissues-especially DNA, able to cause mutations and/or initiate cancerous growth. The primary decay mechanisms pertaining to the vast majority of decays are listed below and accompanied by Figure 15.5.
-9: ... in units of seconds, minutes, hours, days, or years
+
+[^9]: ... in units of seconds, minutes, hours, days, or years
 Table 15.1: Decay of 16 million (M) neutrons, having a half life of 10.25 minutes, mirroring Example 15.2.1. Time is in minutes. The number remaining at each step is given, as well as the probability of any particular neutron surviving this long. After about four hours, only one would be expected to remain (and not for much longer).
 Prob.
 Time
@@ -64,7 +65,7 @@ B+
 10C
 10B
 Figure 15.5: Radioactive decay mechanisms for a, ß, and ßt. Protons are colored red, and neutrons light purple. The total nucleon counts are correct for the two beta decays, but only schematic for the larger 144Nd nucleus used to illustrate alpha decay, which is predominantly seen only in heavier nuclei (aside from "Li and Be). The positron is an anti-electron: a positively-charged antimatter counterpart to the electron. Neutrinos are sometimes called "ghost" particles for their near-complete non-interactivity with ordinary matter.
-1. Alpha decay (a), in which a foursome of two protons and two neutrons essentially a 'He nucleus-leaps out.10 When this hap- pens, the nucleus reduces its N by two, reduces its Z by two, and therefore A by 4. On the chart of the nuclides, it moves two squares left and two squares down (see Figure 15.7). For example, Be decays this way, essentially splitting into two 4He nuclei;
+1. Alpha decay (a), in which a foursome of two protons and two neutrons essentially a 'He nucleus-leaps out.[^10] When this hap- pens, the nucleus reduces its N by two, reduces its Z by two, and therefore A by 4. On the chart of the nuclides, it moves two squares left and two squares down (see Figure 15.7). For example, Be decays this way, essentially splitting into two 4He nuclei;
    8
    10: Helium is found mixed in with natural gas, and derives from alpha particle decay of elements in the earth's interior.
    Follow along on Figure 15.4.
@@ -251,14 +252,14 @@ Figure 15.5: Radioactive decay mechanisms for a, ß, and ßt. Protons are colore
    15 Nuclear Energy
    246
    15.3 Mass Energy
-   Energy-whatever the form has mass and actually changes the weight of something, although almost imperceptibly. A hot burrito has more mass than the exact same burrito-atom for atom-when it's cold.12 Most of us are familiar, at least casually, with the famous relation E = mc2. More helpfully, we might express it as
+   Energy-whatever the form has mass and actually changes the weight of something, although almost imperceptibly. A hot burrito has more mass than the exact same burrito-atom for atom-when it's cold.[^12] Most of us are familiar, at least casually, with the famous relation E = mc2. More helpfully, we might express it as
    AE = Amc2,
    (15.1)
    where the A symbols indicate a change in energy or mass, and c≈ 3 x 108 m/s is the speed of light. Using kilograms for mass results in Joules for energy. Because c2 is such a large number (nearly 1017), the mass change associated with daily/familiar energy quantities is negligibly small. Box 15.2 explains why E = mc2 is valid for all energy exchanges not just nuclear ones but generally results in mass changes too small to measure in non-nuclear contexts. Earlier, we discussed conservation of energy. More correctly, we observe conservation of mass- energy. That is to say, a system can actually gain or lose net energy if the mass changes correspondingly. In the case of nuclear energy release, the "new" energy comes at the expense of reduced mass.
    Box 15.2: E = mc2 Everywhere
    mc2. It
    Physics is not selective about when we might apply E = always applies, to every situation. It's just that outside of nuclear reactions it does not result in significant mass differences.
-   For example, after we eat a 1,000 kcal burrito to fuel our metabolism, we expend the energy13 and lose mass according to Am = AE/c2. Since AE ~ 4 MJ (1,000 kcal), we find the associated mass change is 4.6 × 10-11 kg, which is ten orders-of-magnitude smaller than the mass of the burrito itself.14 So we'd never notice, even though it's really there.
+   For example, after we eat a 1,000 kcal burrito to fuel our metabolism, we expend the energy13 and lose mass according to Am = AE/c2. Since AE ~ 4 MJ (1,000 kcal), we find the associated mass change is 4.6 × 10-11 kg, which is ten orders-of-magnitude smaller than the mass of the burrito itself.[^14] So we'd never notice, even though it's really there.
    When we wind up a mechanized toy, coiling a spring, we put energy into the spring and the toy actually gets more massive! But for every Joule we put in, the mass only increases by about 10-17 kg. Forgive us for not noticing. Only in nuclear contexts are the energies large enough to produce a measurable difference in mass.
    Example 15.3.1 Since mass and energy are intimately related, it is common to express masses in energy terms. How would we express 12.0 a.m.u. in MeV (a unit of energy; see Sec. 5.9; p. 78)?
    1 a.m.u. is equivalent to 1.66 x 10-27 kg (last row of Table 15.4), so 12 a.m.u. is 1.99×10-26 kg. To get to energy, apply E = mc2, computing to 1.8 × 10-9 J of energy. Since 1 MeV is 1.6 x 10-13 J, we end up with
@@ -348,10 +349,10 @@ Figure 15.5: Radioactive decay mechanisms for a, ß, and ßt. Protons are colore
   1783.85
   7.59
   Example 15.3.2 Following the entry in Table 15.5 for 56Fe, we first multiply the individual proton, neutron, and electron masses from Table 15.4 by the 26 protons, 30 neutrons, and 26 electrons comprising 56 Fe to get a sum-of-parts value of 56.46340 a.m.u..17
-  The actual mass, as it appears for 56Fe in the Chart of the Nuclides is 55.934942 a.m.u., which is smaller by 0.528447 a.m.u.18
+  The actual mass, as it appears for 56Fe in the Chart of the Nuclides is 55.934942 a.m.u., which is smaller by 0.528447 a.m.u.[^18]
   Since 1a.m.u. is 1.660539×10-27 kg, we can convert this mass difference into kilograms, then multiply by c2, where c = 2.99792458 x 108 m/s to get the associated energy in units of Joules. Traditionally, nuclear physics adopts a more convenient scale of electron-volts, and in particular, the MeV.19 To get our mass-energy difference from Joules to MeV, we divide by 1.6022 × 10-13 J/MeV, and this is the 492 MeV number appearing in the Amc2 column of Table 15.5.
   Finally, we divide by the number of nucleons in the nucleus-A = 56 in this case to determine how much binding energy is present per nucleon-the significance of which will soon become clearer.
-  Therefore, the difference between the sum-of-parts mass and actual nucleus mass in Table 15.5 provides a measure of how much binding energy holds the nucleus together.20
+  Therefore, the difference between the sum-of-parts mass and actual nucleus mass in Table 15.5 provides a measure of how much binding energy holds the nucleus together.[^20]
   Notice that the first entry in Table 15.5 for the single-proton hydrogen atom has no binding energy in the nucleus: the lonely proton has no other nucleon to which it might bind. But deuterium (2H) has a proton and a neutron, held together by 2.2 MeV of binding energy. The binding
   15 Nuclear Energy
   248
@@ -385,7 +386,7 @@ M
 The value of Figure 15.10 is hard to over-emphasize. Key take-aways
 are:
 1. Most nuclei are at around 8 MeV per nucleon, meaning that it would take an average of about 8 MeV of energy to rip out each member (proton or neutron) from a nucleus;
-2. The peak is at 56Fe,21 meaning that this is the most tightly bound
+2. The peak is at 56Fe,[^21] meaning that this is the most tightly bound
    nucleus;22
 3. The slope on the left side is much steeper than the slope on the right side, after the peak, which speaks to why fusion (building from small to big) is more potent than fission (tearing apart very massive nuclei);
 4. Fusion in stars does not build elements beyond the peak around iron, since to go beyond the peak is not energetically favorable.
@@ -472,7 +473,7 @@ are:
    Example 15.4.1 If one of the two fragments from the fission of a 235U nucleus (Z = 92) after adding a thermal neutron winds up being (Z = 35), what is the other nucleus going to be?
    =
    The other fragment will preserve total proton count, so Z = 92-35 = 57, and as such is destined to be the element lanthanum. Which isotope of lanthanum is produced depends on how many neutrons escape the split. Table 15.6 summarizes the particle counts of the various players.
-   If no spare neutrons are left over, the lanthanum must have N 144 - 55 = 89 neutrons,27 in which case its mass number will be A = 146, so 146 La. If two neutrons are set free, then the lanthanum will only keep 87 neutrons and be 144 La, as depicted in Figure 15.13.
+   If no spare neutrons are left over, the lanthanum must have N 144 - 55 = 89 neutrons,[^27] in which case its mass number will be A = 146, so 146 La. If two neutrons are set free, then the lanthanum will only keep 87 neutrons and be 144 La, as depicted in Figure 15.13.
    Typically, about 2-3 neutrons are left out of the final fragments, and can go on to promote additional fission events in the chain reaction.
    235
    90 Br
@@ -527,7 +528,7 @@ are:
    253
    Figure 15.15: Various fission product out- comes are possible, indicated here by four sets of colored star pairs and connecting lines. The average position of each pair is the yellow circle (the stars are diametrically opposite the circle), which guarantees that the total number of neutrons and protons is unchanged from the parent nucleus to the daughter nuclei. To the extent that addi- tional neutrons are left behind like crumbs, the stars will displace to the left of their indicated positions a bit, as hinted by the lighter-shaded "ghost" stars, whose offsets from the nominal star positions will also vary depending on how many neutrons are left out of the two final fragments. The col- oring of the histogram indicates radioactive lifetime for the decay chain of a neutron-rich fragment at each mass number, matching the half-life color scheme used in Figure
    15.4.
-   Let us now examine the energetics, using the result from Example 15.4.1, in which 235U breaks into 90Br and 144 La, plus two spare neutrons.28 To be explicit, the reaction we will trace is
+   Let us now examine the energetics, using the result from Example 15.4.1, in which 235U breaks into 90Br and 144 La, plus two spare neutrons.[^28] To be explicit, the reaction we will trace is
    235U+n
    →>>>
    90 Br+ 144 La + 2n.
@@ -585,7 +586,7 @@ are:
    31: 7.6 x 235; 8.7 x 95; and 8.4 x 140
    32: Binding energy reduces mass, so larger binding energy means lighter overall mass.
    
-   paragraph explains the discrepancy, but should be considered non- essential reading. The fission process typically results in a few spare neutrons. Each left-over (unbound) neutron deprives us of at least 8 MeV in unrealized binding potential,33 and the subsequent ẞ- decays from the neutron-rich daughter nuclei to stable nuclei also release energy not accounted in Table 15.7. Both of these contribute to the shortfall in comparing 172 MeV to 210 MeV, but even without this, we got a decent estimate just using the graph in Figure 15.10.
+   paragraph explains the discrepancy, but should be considered non- essential reading. The fission process typically results in a few spare neutrons. Each left-over (unbound) neutron deprives us of at least 8 MeV in unrealized binding potential,[^33] and the subsequent ẞ- decays from the neutron-rich daughter nuclei to stable nuclei also release energy not accounted in Table 15.7. Both of these contribute to the shortfall in comparing 172 MeV to 210 MeV, but even without this, we got a decent estimate just using the graph in Figure 15.10.
    15.4.4 Practical Implementations
    As we saw above, nuclear fission involves getting fissile nuclei generally 235U-to split apart by the addition of a neutron. The following criteria
    must be met:
@@ -600,7 +601,8 @@ are:
 Figure 15.16 shows a typical configuration.
 15 Nuclear Energy
 255
-33: Each missing neutron deprives us of more than the standard ~8 MeV per nu- cleon, as neutrons have no penalty for repul- sive electric charge. The 8 MeV per nucleon is an average over protons and neutrons.
+
+[^33]: Each missing neutron deprives us of more than the standard ~8 MeV per nu- cleon, as neutrons have no penalty for repul- sive electric charge. The 8 MeV per nucleon is an average over protons and neutrons.
 control rod actuators
 control rods.
 steam out
@@ -666,13 +668,16 @@ World Total 455
 11
 100
 3 3 500
-34: ... always this direction, so that gravity does the pulling rather then relying on some other drive force
-35: From this, we glean that reactors aver- age roughly 1 GW each.
+
+[^34]: ... always this direction, so that gravity does the pulling rather then relying on some other drive force
+
+[^35]: From this, we glean that reactors aver- age roughly 1 GW each.
 Table 15.8: Global nuclear power in 2019 [101], listing number of operational plants, installed capacity, average generation for 2019 (Japan currently has stopped a num- ber of its reactors), percentage of electricity (not total energy), and fraction of global production (these 7 countries accounting for over 75%). Notice the close match be- tween number of plants and GW installed for most countries, indicating that most nu- clear plants deliver about 1 GW.
 Nuclear plants only last about 50-60 years, after which the material comprising the core becomes brittle from exposure to damaging ra- dioactivity and must be decommissioned. The median age of reactors in the U.S. is 40 years, and all but three are over 30 years old. Additional challenges will be addressed in the sections that follow.
 When nuclear energy was first being rolled out in the 1950s, the catch phrase was that it would be "too cheap to meter," a sentiment presumably fueled by the stupendous energy density of uranium, requiring very small quantities compared to fossil fuels. The reality has not worked out that way. Today, a 1 GW nuclear power plant may cost $9 billion to build [102]. That's $9 per Watt of output power, which we can compare to the cost of a solar panel, at about $0.50 per W (Fig. 13.16; p. 215), or utility-scale installation at $1 per Watt [89]. While it seems that solar36 wins by a huge margin, the low capacity factor of solar reduces average power output to 10-20% of the peak rating, depending on location. Meanwhile, nuclear reactors tend to run steadily 90% of the time-the off-time used for maintenance and fuel loading. So nuclear fission costs about $10 per delivered Watt, while solar panels are $2.5-5 per delivered
 [102]: Union of Concerned Scientists (2015), The Cost of Nuclear Power
-36: Recall, for context, that solar is not among the cheaper energy resources. Like so- lar, nuclear power is dominated by up-front costs, rather than fuel cost.
+
+[^36]: Recall, for context, that solar is not among the cheaper energy resources. Like so- lar, nuclear power is dominated by up-front costs, rather than fuel cost.
 
 Watt and installed utility-scale systems are $5-10 per Watt. In short, nuclear power is not an economic slam dunk.
 15 Nuclear Energy 257
@@ -684,10 +689,13 @@ Fusion in stars does not "climb over" the peak of the binding-energy curve in Fi
 The relative abundance of 235U and 238U on Earth can be explained by their different half-lives of 0.704 Gyr and 4.47 Gyr, respectively. Even if starting at comparable amounts, most of the 235U will have decayed away by now. Solving backwards39 to when they would have been present in equal amounts yields about 6 Gyr, which is older than the age of the solar system (4.5 Gyr) and younger than the universe (13.8 Gyr). This is a reasonable result for how old the astrophysical origin might be allowing a billion years or so for the material to coalesce in our forming solar system.
 Uranium is not particularly abundant. Table 15.9 provides a sense of how prevalent various elements are in the earth's crust. Uranium is more abundant than silver, but the useful 235U isotope is four times rarer than silver, and only about 5 times as abundant as gold. Proven reserves of uranium [103] amount to 7.6 million (metric) tons available, and we have used 2.8 million metric tons to date. The implication is that we could continue about 3 times longer than we have gone so far on proven reserves. But nuclear energy has played a much smaller role than fossil fuels, so maybe this isn't so much.
 Evaluating the uranium reserves in energy terms is the most revealing
-37: A trace amount, 0.0055%, is in 234U.
-38: Iron has Z = 26; stars tend not to pro- duce elements beyond zinc (Z 30) by fusion.
+
+[^37]: A trace amount, 0.0055%, is in 234U.
+
+[^38]: Iron has Z = 26; stars tend not to pro- duce elements beyond zinc (Z 30) by fusion.
 =
-39: This follows almost the exact same logic and process as carbon-14 radioactive dating, but using much longer half life nuclei to date Earth's building blocks!
+
+[^39]: This follows almost the exact same logic and process as carbon-14 radioactive dating, but using much longer half life nuclei to date Earth's building blocks!
 [103]: (2020), List of Countries by Uranium Reserves
 
 Element
@@ -739,13 +747,16 @@ Gas
 235U
 2902
 15.4.4.2 Breeder Reactors
-In its native form, 235U is too dilute in natural uranium-overwhelmingly dominated by 238U-to even work in a nuclear reactor. It must be enriched to 3-5% concentration to become viable.40 Enrichment is difficult to achieve. Chemically, 235U and 238U behave identically. The masses are so close just 1% different-that mechanical processes have a difficult time differentiating. Centrifuges are commonly used to allow heavier 238U to sink faster41 than 235U. But it's inefficient and usually requires many iterations to work up higher concentrations. The process is also lossy, in that not all of the 235U finds its way to the enriched pile.42
+In its native form, 235U is too dilute in natural uranium-overwhelmingly dominated by 238U-to even work in a nuclear reactor. It must be enriched to 3-5% concentration to become viable.[^40] Enrichment is difficult to achieve. Chemically, 235U and 238U behave identically. The masses are so close just 1% different-that mechanical processes have a difficult time differentiating. Centrifuges are commonly used to allow heavier 238U to sink faster41 than 235U. But it's inefficient and usually requires many iterations to work up higher concentrations. The process is also lossy, in that not all of the 235U finds its way to the enriched pile.[^42]
 But what if we could use the bulk uranium, 238U, in reactors and not only save ourselves the hassle of enrichment, but also gain access to 140 times more material, in effect? Doing so would turn the proven reserves of uranium into about 7 times more energy supply than all of our remaining fossil fuels. Well, it turns out that despite its not being
 235 U
-40: Uranium bombs need at least 20% concentration, but typically aim for 85% to be considered weapons grade.
-41:
+
+[^40]: Uranium bombs need at least 20% concentration, but typically aim for 85% to be considered weapons grade.
+
+[^41]:
 in gaseous form
-42: Depleted uranium is defined as contain- ing 0.3% or less in the form of 235U, which is not a huge reduction from the 0.72% start- ing point.
+
+[^42]: Depleted uranium is defined as contain- ing 0.3% or less in the form of 235U, which is not a huge reduction from the 0.72% start- ing point.
 
 15 Nuclear Energy
 259
@@ -1044,8 +1055,9 @@ one of the three fissile nuclei, we can convert43 238U into the fissile the foll
 > 500 Myr or stable
 U233, U235, Pu239 are slow-neutron fissile
 Figure 15.18: Chart of the Nuclides in the fission region. See also Figure 15.4 for the lower-left corner.
-The result is that sterile 238U can be turned into fissile 239Pu that can be used in fission reactors. This process of transmuting an inert nucleus into a fissile one is called breeding, and is how we get any plutonium at all.44 A nuclear reactor is a great place to introduce 238U to neutrons: both are already in attendance. In fact, breeding happens as a matter of course in a nuclear reactor: it is estimated that one-third of the fission
-44:
+The result is that sterile 238U can be turned into fissile 239Pu that can be used in fission reactors. This process of transmuting an inert nucleus into a fissile one is called breeding, and is how we get any plutonium at all.[^44] A nuclear reactor is a great place to introduce 238U to neutrons: both are already in attendance. In fact, breeding happens as a matter of course in a nuclear reactor: it is estimated that one-third of the fission
+
+[^44]:
 .e.g.,
 for weapons
 
@@ -1053,11 +1065,13 @@ for weapons
 260
 energy in ordinary nuclear reactors comes from plutonium breeding and subsequent fissioning-without any extra effort. Special reactor designs enhance plutonium production, allowing the fuel rod to be "harvested" for plutonium. Usually, the plutonium is destined for use in weapons, but in principle reactors could be designed to efficiently produce and use plutonium from the 238U feedstock. Downsides will be addressed in Section 15.4.6 on weapons and proliferation.
 Box 15.5: Thorium Breeding
-Another form of breeding merits mention. Notice that thorium45 is more abundant than uranium in Table 15.9. But like 238U, it is not fissile. However, applying the breeding trick, the absorption of a neutron by 232Th ends up as 233U-the last of our three fissile nuclei in about a month's time. This provides an avenue for an even greater energy store than exists in 238U via breeding to 239 Pu, by virtue of greater abundance. Unlike the plutonium route, thorium breeders are less susceptible to weapons and proliferation concerns.46 That said, thorium reactors are more complex than uranium reactors, so that technical hurdles have thus far prevented any commercial scale application of the technique, leaving us unclear whether thorium represents a viable nuclear path.
-45:
+Another form of breeding merits mention. Notice that thorium45 is more abundant than uranium in Table 15.9. But like 238U, it is not fissile. However, applying the breeding trick, the absorption of a neutron by 232Th ends up as 233U-the last of our three fissile nuclei in about a month's time. This provides an avenue for an even greater energy store than exists in 238U via breeding to 239 Pu, by virtue of greater abundance. Unlike the plutonium route, thorium breeders are less susceptible to weapons and proliferation concerns.[^46] That said, thorium reactors are more complex than uranium reactors, so that technical hurdles have thus far prevented any commercial scale application of the technique, leaving us unclear whether thorium represents a viable nuclear path.
+
+[^45]:
 of which 100% is the desired 232Th
 isotope
-46: ... although, radioactive waste is still problematic
+
+[^46]: ... although, radioactive waste is still problematic
 15.4.5 Nuclear Waste
 As we saw in our description of the fission process, the fragments distribute over a range of masses in a randomized way (Figure 15.15). The results are generally neutron-rich, and will migrate toward stable elements via ẞ decays over the ensuing seconds, hours, days, months, and years. Some will go fast, and some will take ages to settle, depending on half-lives. Radioactive waste is dangerous to be around because the high-energy particles (like sub-atomic "bullets") spewing out in all directions can alter DNA, leading to cancer and birth defects, for instance.
 The lighter of the two fission fragments has a 59% chance of landing on a stable nucleus within a day or so. For the heavier fragment, it's a 45% chance. The rest get hung up on some longer half-life nuclide, and could remain radioactive for a matter of weeks or in some cases millions of years. The colors in the fission probability histograms in Figure 15.15 provide a visual guide for the mass numbers that reach stability promptly (gray) vs. those that get hung up for a long time (blue is more than 10 years). For example, the histogram element at A = 90 is blue because 90Sr-discussed below-stands in the way of a fast path to stability.
@@ -1097,36 +1111,44 @@ Cs135
 Figure 15.19 shows how the fission decays play out over time. For the first month or so out of the reactor, the spent fuel is really "hot" radioactively, but falls quickly as 95Zr and then 144 Ce dominate around one year out. At about 5 years, the pair of 90Sr and 137Cs begin to dominate the output for the next few-hundred years. Some of the products survive for millions of years, albeit at low levels of radioactive power. In addition to the daughter fragments, uranium in the presence of neutrons transmutes into neptunium, plutonium, americium, and curium via neutron absorption and subsequent ẞ decays, represented approximately and collectively in Figure 15.19 by a dashed curve labeled Actinides. 47
 The bottom line is that fission leaves a trash heap of radioactive waste that remains at problematic levels for many thousands of years. When nuclear reactors were first built, they were provisioned with holding tanks deep pools of water-in which to place the waste fuel until a more permanent arrangement could be sorted out (Figure 15.20). We are still waiting for an adequate permanent solution for waste storage, and the "temporary" pools are just accumulating spent fuel. Transporting the spent fuel is hazardous-in part because it could fall into the wrong hands and be used to make "dirty" bombs—and no one wants a nuclear waste facility in their backyard, making the problem politically thorny. On the technical side, it is difficult to identify sites that are geologically stable enough and have little chance of groundwater contamination. Underground salt domes offer an interesting possibility, but political challenges remain daunting.
 Figure 15.19: Decay activity of fragments from 1 kg of fissioned 235U over time, on a log-log plot. The vertical axis is the power of radioactive emission, in W, for a variety of relevant isotopes-each having their own characteristic half life. The black line at the top is the total activity (sum of all contribu- tions), and some of the key individuals are separated out. The dashed line for actinides is an approximate representative indicator of the role played by heavy nuclides formed in the reactor by uranium absorption of neu- trons. Minor tick marks are at multipliers of 2, 4, 6, and 8 for each axis. As a matter of possible interest, the exponential decays of each element on this log-log plot have the functional form of exponential curves drawn upside-down.
-47: Breeder reactors can "burn" the ac- tinides, reducing some of the long-term waste threat, but will unavoidably still be left with all the radioactive fission products.
+
+[^47]: Breeder reactors can "burn" the ac- tinides, reducing some of the long-term waste threat, but will unavoidably still be left with all the radioactive fission products.
 Figure 15.20: A spent fuel rod being lowered into a storage grid in a pool of water at a nuclear power plant. Source: U.S. DOE.
 
 15 Nuclear Energy
 262
 15.4.6 Nuclear Weapons and Proliferation
-Nuclear bombs are the most destructive weapons we have managed to create. The first bombs from the 1940s were based on either highly enriched 235U or on 239Pu. For uranium bombs, the idea is shockingly simple. Two separate lumps of the bomb material are held apart until detonation is desired, at which point they are slammed together.48 It's not the collision that creates the explosion, but a runaway process based on having a high concentration of fissile material and no neutron absorbers present to control the resulting chain reaction. The concept is critical mass. The combined lump exceeds the critical mass, and explodes.49
+Nuclear bombs are the most destructive weapons we have managed to create. The first bombs from the 1940s were based on either highly enriched 235U or on 239Pu. For uranium bombs, the idea is shockingly simple. Two separate lumps of the bomb material are held apart until detonation is desired, at which point they are slammed together.[^48] It's not the collision that creates the explosion, but a runaway process based on having a high concentration of fissile material and no neutron absorbers present to control the resulting chain reaction. The concept is critical mass. The combined lump exceeds the critical mass, and explodes.[^49]
 As simple as nuclear weapons are to build, the bottleneck becomes obtaining fissile material. Plutonium does not exist in nature, since its 24,100 yr half-life means nothing is left over from the astrophysical processes that gave us uranium and thorium (Box 15.4). We only still have the latter two thanks to their long half lives. So fissile material has to start with uranium. But as we have seen, natural uranium is only 0.72% fissile (235U). In order to be explosive, the uranium must be enriched to at least 20% 235U, and generally much higher (85%). Reactor fuel, at 3-5% 235U will experience meltdown if the critical mass is exceeded, but will not explode. Enrichment is technically difficult, and attempts to acquire and enrich uranium are monitored closely. Often we hear of countries pursuing uranium enrichment, claiming that they are only interested in domestic energy production-a peaceful purpose. And it is true that the first step in nuclear power generation is also enrichment. So it is very difficult to ascertain true intentions. Once a country has the ability to enrich uranium enough for a nuclear plant, they can in principle keep the process running longer to arrive at weapons-grade 235U.
-While we worry about 235U falling into the wrong hands, perhaps more disturbing is 239Pu. Having a much shorter half-life than 235U (24 kyr vs. 704 Myr), it is more dangerous to handle.50 But plutonium is otherwise easy to deal with, since it requires no enrichment and can be chemically separated to achieve purity. It is the material of choice for nuclear weapons.
+While we worry about 235U falling into the wrong hands, perhaps more disturbing is 239Pu. Having a much shorter half-life than 235U (24 kyr vs. 704 Myr), it is more dangerous to handle.[^50] But plutonium is otherwise easy to deal with, since it requires no enrichment and can be chemically separated to achieve purity. It is the material of choice for nuclear weapons.
 Serious pursuit of breeder reactors effectively means manufacturing lots of plutonium, leading to proliferation of nuclear materials: it becomes harder to track and keep away from mal-intentioned groups. The world becomes more dangerous under a breeder program. Thorium breeding (Box 15.5) is less risky in this regard because the 233U prize is mixed with a ridiculously dangerous 232U isotope that puts plutonium to shame, so working with it is pretty deadly, which may deter would-be pursuit of this material by rogue groups.
 A related concern involves proliferation of the abundant radioactive waste from fission plants, which could be mixed into conventional ex- plosives31 to radioactively contaminate a city or local region-poisoning
 51
 
-48: For plutonium, this process is fouled by the presence of 240 Pu, forcing a different approach in which a sphere below critical mass is imploded to create high density.
-49: Never stack lumps of fissile material together on a shelf, or a nasty surprise may be in store.
-50:...much higher rate of radioactive de-
+
+[^48]: For plutonium, this process is fouled by the presence of 240 Pu, forcing a different approach in which a sphere below critical mass is imploded to create high density.
+
+[^49]: Never stack lumps of fissile material together on a shelf, or a nasty surprise may be in store.
+
+[^50]:...much higher rate of radioactive de-
 cay
-51: ... called a "dirty bomb"
+
+[^51]: ... called a "dirty bomb"
 water, food, and air. In short, nuclear fission carries many perils on a number of fronts.
 15 Nuclear Energy
 263
 15.4.7 Nuclear Safety
-A properly operating nuclear facility actually emits less radioactivity than does a traditional coal-fired power plant! As is true for many materials mined from the ground, coal contains some small amount of radioactive elements found in the earth's crust: principally thorium, uranium, and potassium. Lacking any shielding or protection, the exhaust from a coal plant distributes these products into the atmosphere. Nuclear plants, by contrast, have no exhaust,52 and carefully control the exposure to radioactivity.
+A properly operating nuclear facility actually emits less radioactivity than does a traditional coal-fired power plant! As is true for many materials mined from the ground, coal contains some small amount of radioactive elements found in the earth's crust: principally thorium, uranium, and potassium. Lacking any shielding or protection, the exhaust from a coal plant distributes these products into the atmosphere. Nuclear plants, by contrast, have no exhaust,[^52] and carefully control the exposure to radioactivity.
 However, things can go wrong. The U.S. had a scare in 1979 when a six-month-old nuclear plant at Three Mile Island in Pennsylvania (Figure 15.21) suffered a loss-of-cooling incident that resulted in severe damage to (meltdown of) the core. But the containment vessel held and no significant radioactivity was released to the environment. Workers at the plant received a dose equivalent to an extra 100 days of natural53 exposure. So we dodged a bullet.
 Chernobyl was not so lucky in April 1986 when an ill-conceived test went sideways and resulted in an actual explosion of the core. This scenario was previously thought to be impossible, but it was a steam explosion, not a nuclear blast-so more like a "dirty bomb" that scattered radioactive material across the region. Thirty-one people died in the immediate aftermath, and about 200 people got acute radiation sickness. It is estimated that in the long term, 25,000 to 50,000 additional cancer cases will result, but this number is controversial and it is hard to tease Chernobyl-caused cancer/deaths apart from the much larger number of background cancer cases. The town of Chernobyl is still abandoned and only recently has begun to allow strictly limited incursions.
 The most recent major accident was the Fukushima Daiichi plant in Japan following the Sendai earthquake in March 2011, resulting in the evacuation of 200,000 people and agricultural loss. The earthquake caused the three operating reactors to shut down (safely), while diesel- fueled generators ran to power pumps maintaining cooling flow over the hot fuel rods. The core of a reactor is still very hot after fission stops and continues to generate heat as daughter nuclei decay, so cooling flow must be maintained or the core can melt. The ensuing tsunami54 ruined the plan to keep the cores cool, as the generator rooms flooded, causing the cooling flow to fail. The cores of all three reactors melted down and hydrogen gas explosions created a major release of radioactivity. Perhaps in contrast to the Chernobyl plant, Fukushima was designed by General Electric and operated by a well-educated high-tech society. No one is exempt from risk when it comes to nuclear reactors.
-52: Note that cooling towers often have a plume of water vapor above them, but this is the result of evaporative cooling, and not exhaust in the usual sense.
-53: We are unavoidably exposed to radia- tion in our daily lives from air, water, food, Earth, and the cosmos.
+
+[^52]: Note that cooling towers often have a plume of water vapor above them, but this is the result of evaporative cooling, and not exhaust in the usual sense.
+
+[^53]: We are unavoidably exposed to radia- tion in our daily lives from air, water, food, Earth, and the cosmos.
 Figure 15.21: Three Mile Island nuclear plant in Pennsylvania. The two reactor cores are in the foreground of the larger cooling towers behind. Source: U.S. DOE.
-54: ... within 10 minutes of the earthquake
+
+[^54]: ... within 10 minutes of the earthquake
 
 15 Nuclear Energy
 264
@@ -1145,19 +1167,21 @@ Radioactive waste is dangerous for thousands of years, clear solution to its dis
 Breeder reactors exacerbate the waste issue and promote prolifera- tion of nuclear materials;
 ► Development of nuclear energy technology prepares an easy step to immensely destructive nuclear weapons;
 ► Accidents happen even to the best-managed reactors, the conse- quences often being severe for a region.
-Nuclear fission is a complex topic that has compelling advantages and worrisome faults. Not surprisingly, attitudes are highly mixed. One survey [104] indicates that adults in the U.S. oppose building more nuclear plant by a slim 51% to 45%, while scientists overall favor advancing nuclear plants by a 2:1 margin,56 and physicists surveyed favored nuclear by 4:1. Scientists are much more likely to view climate change as a serious threat than the U.S. population as a whole, and therefore are likely to be attracted to energy resources that do not emit CO2. Of the physicists surveyed, it would be a mistake to assume that even the majority know the topic as thoroughly as it is covered in this chapter-given the degree of specialization within the field. Among those who understand the topic thoroughly57 it is almost certain you'd find a healthy split: those for whom the perils outweigh advantages, and those who are concerned enough about climate change to accept the "lesser of two evils," and/or who are enthusiastic about the technology as a glowing example of our mastery over nature's hidden secrets.
+Nuclear fission is a complex topic that has compelling advantages and worrisome faults. Not surprisingly, attitudes are highly mixed. One survey [104] indicates that adults in the U.S. oppose building more nuclear plant by a slim 51% to 45%, while scientists overall favor advancing nuclear plants by a 2:1 margin,[^56] and physicists surveyed favored nuclear by 4:1. Scientists are much more likely to view climate change as a serious threat than the U.S. population as a whole, and therefore are likely to be attracted to energy resources that do not emit CO2. Of the physicists surveyed, it would be a mistake to assume that even the majority know the topic as thoroughly as it is covered in this chapter-given the degree of specialization within the field. Among those who understand the topic thoroughly57 it is almost certain you'd find a healthy split: those for whom the perils outweigh advantages, and those who are concerned enough about climate change to accept the "lesser of two evils," and/or who are enthusiastic about the technology as a glowing example of our mastery over nature's hidden secrets.
 15.5 Fusion
 Given that fission has problems of finite uranium supply, radioactive waste, proliferation and weapons, and safety issues, its future is uncertain.
 [68]: (2020), Life Cycle GHG Emissions
 55...in the absence of breeder reactor implementation
 [104]: Pew Research (2015), "Elaborating on the Views of AAAS Scientists, Issue by Issue"
-56: ... a clear, but not overwhelming, result
-57: We might also acknowledge an intrinsic psychological appeal for complex topics that have been mastered: a sort of pride in the privileged comprehension that might transfer to warm feelings for the subject.
+
+[^56]: ... a clear, but not overwhelming, result
+
+[^57]: We might also acknowledge an intrinsic psychological appeal for complex topics that have been mastered: a sort of pride in the privileged comprehension that might transfer to warm feelings for the subject.
 
 Fusion, on the other hand, is not plagued by most of these issues. It's main problem is that it is incredibly difficult and has been in the research stage for 70 years. Other than that, it has many (virtual) virtues. To be clear, the world does not have and never has had an operational fusion power plant. It may belong to the future, but is not guaranteed to ever become practical.
 58
 First, the basics. We have alluded to the fact that fusion builds from the small to the big. Putting four 1H nuclei together, at 1.007825 a.m.u. each and forming *He at 4.0026033 a.m.u. leaves a difference of 0.0287 a.m.u.— 0.7% of the total mass-which amounts to 153 million kcal/g. This is almost ten times as large as the amount for fission (17 million kcal/g; Box 15.3), making it ten-million times more potent than chemical reactions. Recall that fusion's better performance can be related to the steepness of the left-hand-side of the binding-energy-per-nucleon curve of Figure 15.10.
-What makes fusion so difficult is that getting protons to stick together is incredibly hard. Their electric repulsion is so strong that they need to be approaching each other at a significant fraction of the speed of light (about 7%) in order to get within reach of the strong nuclear force that takes over at distances smaller than about 10-15 m. The corresponding temperature is a billion degrees.59 Even the center of the sun is "only" 16 million degrees. The sun has the advantage of being enormous, though. So even at a comparatively chilly 16 million degrees, some rare protons by chance will be going extra fast and have enough oomph to overcome the repulsion and stick together. It's like winning the lottery against very long odds, but the sun is large enough to buy ample tickets so the process still happens often enough.60 We don't have such a luxury in a terrestrial laboratory setting, so we need higher temperatures than what exists in the center of the sun!
+What makes fusion so difficult is that getting protons to stick together is incredibly hard. Their electric repulsion is so strong that they need to be approaching each other at a significant fraction of the speed of light (about 7%) in order to get within reach of the strong nuclear force that takes over at distances smaller than about 10-15 m. The corresponding temperature is a billion degrees.[^59] Even the center of the sun is "only" 16 million degrees. The sun has the advantage of being enormous, though. So even at a comparatively chilly 16 million degrees, some rare protons by chance will be going extra fast and have enough oomph to overcome the repulsion and stick together. It's like winning the lottery against very long odds, but the sun is large enough to buy ample tickets so the process still happens often enough.[^60] We don't have such a luxury in a terrestrial laboratory setting, so we need higher temperatures than what exists in the center of the sun!
 Using 2H nuclei (deuterons, labeled D) instead of 1H (protons) in what is called a D-D fusion reactor, allows operation at 100 million degrees instead of 1 billion. And colliding one deuteron with a triton61 (3H nucleus, labeled T; 12.3 year half-life), only requires 45 million degrees for a D-T fusion reactor. For this reason, only D-T fusion is currently pursued.
 For all three types, the relevant reactions62 are:
 P-p: 1H+1H+1H+1H →He
@@ -1177,15 +1201,21 @@ D-T:
 Figure 15.22: Fusion concept: helium from deuterium.
 =
 =
-58: The calculation is that 0.0287 a.m.u. cor- responds to Am = 4.8 x 10-29 kg, or E Amc2 4.2 x 10-12 J (26.7 MeV). We con- vert the Joules to kcal by dividing by 4,184, and then divide by the input mass in grams (4.03 a.m.u. times 1.6605 x 10-24 g/a.m.u.) to get 153 kcal/g. Starting with two deu- terium nuclei reduces energy yield a bit to to 137 kcal/g, and for deuterium-tritium reactions it's down to 81 million kcal/g.
-59: For temperatures this high, it does not matter whether we specify Kelvin or Cel- sius, as the 273 degree difference is nothing compared to a billion degrees. The scales are therefore essentially identical here.
-60: This is no accident: if the center were too
+
+[^58]: The calculation is that 0.0287 a.m.u. cor- responds to Am = 4.8 x 10-29 kg, or E Amc2 4.2 x 10-12 J (26.7 MeV). We con- vert the Joules to kcal by dividing by 4,184, and then divide by the input mass in grams (4.03 a.m.u. times 1.6605 x 10-24 g/a.m.u.) to get 153 kcal/g. Starting with two deu- terium nuclei reduces energy yield a bit to to 137 kcal/g, and for deuterium-tritium reactions it's down to 81 million kcal/g.
+
+[^59]: For temperatures this high, it does not matter whether we specify Kelvin or Cel- sius, as the 273 degree difference is nothing compared to a billion degrees. The scales are therefore essentially identical here.
+
+[^60]: This is no accident: if the center were too
 cool, the sun would contract in the absence of radiation pressure until the center heated up from the compression and nuclear fusion ignited just enough to hold off further contraction. It finds its own equilibrium right at the edge of fusion. In the case of the sun, all it takes is one out of
 every 1026 collisions to stick in order to keep the lights
 on.
-61: If only the UCSD mascot were named after this triton...
-62: ... allowing beta decays to change pro- tons to neutrons in the process
-63: Plasma is a hot ionized gas where elec- trons are stripped off the nuclei. The sun qualifies as a plasma.
+
+[^61]: If only the UCSD mascot were named after this triton...
+
+[^62]: ... allowing beta decays to change pro- tons to neutrons in the process
+
+[^63]: Plasma is a hot ionized gas where elec- trons are stripped off the nuclei. The sun qualifies as a plasma.
 
 15 Nuclear Energy
 266
@@ -1195,19 +1225,26 @@ Note that besides stars as an example of successful fusion, we have managed to c
 If a 45 million degree plasma could be confined in a stable fashion, the heat generated by the reactions64 could be used to make steam and run a traditional power plant-replacing the flame symbol in Fig. 6.2 (p. 90) with something much fancier. The scheme, therefore, requires first heating a plasma to unbelievable temperatures in order for the plasma to self-generate enough additional heat through fusion that the game shifts to one of keeping the plasma cool enough to produce a steady rate of fusion without blowing itself out. In this scenario, the heat extracted from the cooling flow makes steam. It's the most elaborate 65 possible source of heat to boil water. It may be a bit like working hard to develop a light saber whose only use will be as a letter opener.
 15.5.1 Fuel Abundance
 66
-Deuterium-an isotope of hydrogen-is found in 0.0115% of hydrogen, which means that the occasional H2O molecule is actually HDO.67 Therefore sea water is chock-full of deuterium. The global 18 TW appetite would need 3 × 1032 deuterium atoms per year for D-D or 2 x 1032 each of deuterium and tritium atoms per year for D-T. Running with this latter number for the comparatively easier D-T reaction, we would need to process 9 x 1035 water molecules each year to find the requisite deuterium. This corresponds to 26 million tons of water, which is a cubic volume about 300 m on a side. Yes, that's large, but the ocean is larger. Also, it corresponds to a volume of 0.16 billion barrels per year, which is about 200 times smaller than our annual oil consumption. Thus, the volume required should be not at all challenging.68 The ocean volume is 60 billion times larger than our 300-m-sided cube, implying that we have enough deuterium for 60 billion years. The sun will not live that long, so let's say that we have sufficient deuterium on Earth.
+Deuterium-an isotope of hydrogen-is found in 0.0115% of hydrogen, which means that the occasional H2O molecule is actually HDO.67 Therefore sea water is chock-full of deuterium. The global 18 TW appetite would need 3 × 1032 deuterium atoms per year for D-D or 2 x 1032 each of deuterium and tritium atoms per year for D-T. Running with this latter number for the comparatively easier D-T reaction, we would need to process 9 x 1035 water molecules each year to find the requisite deuterium. This corresponds to 26 million tons of water, which is a cubic volume about 300 m on a side. Yes, that's large, but the ocean is larger. Also, it corresponds to a volume of 0.16 billion barrels per year, which is about 200 times smaller than our annual oil consumption. Thus, the volume required should be not at all challenging.[^68] The ocean volume is 60 billion times larger than our 300-m-sided cube, implying that we have enough deuterium for 60 billion years. The sun will not live that long, so let's say that we have sufficient deuterium on Earth.
 64... in the form of radioactive release back to the plasma
-65: Should we be proud if we succeed, or embarrassed at the lengths we had to go to?
-66: See the Chart of the Nuclides abun- dance information in Figure 15.4.
-67: ... one 1H, one 2H and one oxygen
-68: Ocean water is far easier to access than underground oil deposits, after all.
 
-Tritium, however, is essentially nowhere to be found, as it has a half-life of 12.3 years. We can generate tritium by adding a neutron to lithium and stimulating an a decay. So the question moves to how much lithium we have. Proven reserves are at about 15 million tons, currently produced at about 30,000 tons per year.69 We would need 2,300 tons70 of lithium per year to meet our 2 × 1032 tritium atom target (for 18 TW). In the absence of competition"1 for lithium resources, the associated R/P ratio timescale is 6,500 years. Yes, that is a comfortably long time, but not eons. The thought is that this would buy time to solve the D-D challenge.
+[^65]: Should we be proud if we succeed, or embarrassed at the lengths we had to go to?
+
+[^66]: See the Chart of the Nuclides abun- dance information in Figure 15.4.
+
+[^67]: ... one 1H, one 2H and one oxygen
+
+[^68]: Ocean water is far easier to access than underground oil deposits, after all.
+
+Tritium, however, is essentially nowhere to be found, as it has a half-life of 12.3 years. We can generate tritium by adding a neutron to lithium and stimulating an a decay. So the question moves to how much lithium we have. Proven reserves are at about 15 million tons, currently produced at about 30,000 tons per year.[^69] We would need 2,300 tons70 of lithium per year to meet our 2 × 1032 tritium atom target (for 18 TW). In the absence of competition"1 for lithium resources, the associated R/P ratio timescale is 6,500 years. Yes, that is a comfortably long time, but not eons. The thought is that this would buy time to solve the D-D challenge.
 15 Nuclear Energy
 267
-69: Most lithium is used in batteries; the R/P ratio in this case is 500 years.
-70: ...only 8% of current annual produc- tion
-71: Otherwise, we're still looking at the 500 year R/P ratio.
+
+[^69]: Most lithium is used in batteries; the R/P ratio in this case is 500 years.
+
+[^70]: ...only 8% of current annual produc- tion
+
+[^71]: Otherwise, we're still looking at the 500 year R/P ratio.
 15.5.2 Fusion Realities
 It is clear why people get excited by fusion. It seems like an unlimited supply that can last thousands if not billions of years at today's rate of energy demand. For some perspective, think about what else we know that lasts billions of years. We already have a giant fusion reactor parked 150 million kilometers away that requires no mining, servicing, or any attention whatsoever. In this sense, the sun is essentially as inexhaustible as fusion promises to be, but already working and free of charge. Photovoltaic panels plus batteries work today and have already shown a possible path to eternal energy. The author built his own off-grid solar setup on a budget that's tiny compared to the fusion enterprise.
 As for the fusion enterprise, an effort called ITER (Figure 15.23) in southern France is an international effort currently constructing a plasma confinement machine that aims to commence experimental D-T fusion by the year 2035 via occasional 8-minute pulses of 0.5 GW thermal power. This machine is a stepping stone that is not designed to produce electricity. Estimates for construction cost range from $22 billion to $65 billion. By comparison, a nuclear fission plant costs $6-9 billion to build. Admittedly, the first experimental facility is going to cost more, but it is hard to imagine fusion ever being a real steal, financially. Even if the fuel is free, so what? Solar is the same.
@@ -1216,17 +1253,21 @@ An effort in the U.S. called the nuclear ignition facility (NIF) is pursuing a d
 Let's say
 that by the year 2050, we will have mastered the art and can build a 1 GW electrical-output73 fusion plant for $15 billion. That's $15 per Watt of output, which we can compare to a present-day solar utility-scale installation cost of $1 per peak Watt [89]. Applying typical capacity factors74 puts fusion at twice what solar costs already, today.
 Figure 15.23: ITER tokamak cut-away where the plasma would be created. The white outer chamber is the size of a six-story building. From the ITER Organization.
-72:
+
+[^72]:
 the prospects for which are dubious
-73: ... thus 3 GW thermal, given typical heat engine efficiency
-74:... 10-20% for PV and perhaps 90% for fusion?
+
+[^73]: ... thus 3 GW thermal, given typical heat engine efficiency
+
+[^74]:... 10-20% for PV and perhaps 90% for fusion?
 
 15 Nuclear Energy
 268
 Fusion is therefore a complicated and not particularly cheap way to generate electricity. Meanwhile, we are not running terribly short on renewable ways to produce electricity: solar; wind; hydroelectric; geother- mal; tidal. Liquid fuels for transportation represent a greater and more pressing challenge, and fusion does not directly address this aspect any better than other options for electrical production. Fusion is by far the most complex power generation scheme we have ever attempted, evidenced by the 70 year effort to bring it to fruition that is still underway. How many physics PhDs will it take to keep a fusion plant running? Sometimes, we get stuck pursuing a flawed vision of the future, and have trouble reevaluating our options. Imagine being a middle-aged physicist or engineer in the 1950s. In your lifetime, you would have seen the advent of the car, airplane, radio, television, nuclear fission, among a blur of other technology advances. The next frontier was obviously fusion, so let's crack that one! At this point, 70 years later, maybe we should ask: why?
-And let's point out that fusion is not without its waste challenges. It is still a radioactive environment, albeit not one that produces dangerous direct products (4He is okay!). It does involve a radioactive fuel source (tritium), and it does embed the containment vessel with high energy particles and neutrons that over time compromise the integrity of the vessel so that it must be discarded as a radioactively-charged hunk of metal.75
+And let's point out that fusion is not without its waste challenges. It is still a radioactive environment, albeit not one that produces dangerous direct products (4He is okay!). It does involve a radioactive fuel source (tritium), and it does embed the containment vessel with high energy particles and neutrons that over time compromise the integrity of the vessel so that it must be discarded as a radioactively-charged hunk of metal.[^75]
 By comparison, solar, wind, and other renewable sources based on the sun have no such problems. All of the nastiness is created in the sun, and stays in the sun.
-75: Transmutation of the nuclei in the ma- terial will create radioactivity.
+
+[^75]: Transmutation of the nuclei in the ma- terial will create radioactivity.
 15.5.3 Pros and Cons of Fusion
 Collecting the advantages and disadvantages of fusion, we start with the positive attributes:
 ► Fusion would enjoy an inexhaustible supply of deuterium, easily accessed, outlasting the sun;
@@ -1240,7 +1281,7 @@ Fusion still contends with radioactive fuel (tritium) and a contain- ment vessel
 
 The smaller number of positive points is not in itself an indicator of imbalance, since the first point is huge. One elephant can balance dozens of kids on a playground see-saw.
 15.6 Upshot on Nuclear
-Nuclear fission is a real thing: it can and does produce a significant fraction the world's power. A number of substantive challenges stand in the way of scaling up significantly.76 For conventional nuclear fission as it has been practiced thus far, the proven reserves of uranium only last 90 years at today's rate of use, and less than 4 years if we tried to get all 18 TW from fission. Radioactive waste is an unsolved problem that persists for hundreds to thousands of years. Breeder programs can extend the resource by large factors (into the 500 or 1,000 year range under an 18 TW nuclear-breeder effort). But proliferation and bomb dangers become more pronounced-not to mention an even more pressing waste issue and greater accident rates given the profusion of operating reactors. It can be difficult to get excited about a nuclear future. It is
+Nuclear fission is a real thing: it can and does produce a significant fraction the world's power. A number of substantive challenges stand in the way of scaling up significantly.[^76] For conventional nuclear fission as it has been practiced thus far, the proven reserves of uranium only last 90 years at today's rate of use, and less than 4 years if we tried to get all 18 TW from fission. Radioactive waste is an unsolved problem that persists for hundreds to thousands of years. Breeder programs can extend the resource by large factors (into the 500 or 1,000 year range under an 18 TW nuclear-breeder effort). But proliferation and bomb dangers become more pronounced-not to mention an even more pressing waste issue and greater accident rates given the profusion of operating reactors. It can be difficult to get excited about a nuclear future. It is
 very cool that we figured out how to do it. But just because we can do something does not mean it is a good idea to scale it up.
 Fusion is a harder prospect to pin down. At present, it is not on the table, having never been demonstrated in a viable reactor capable of producing commercial-scale electricity. But even if we did manage it, how could it compete economically, as complex as it is? Even if the fuel itself is free," it may turn out to be the most expensive form of electricity we could muster. Fusion is not without radioactivity concerns, and placed side-by-side, solar can look a lot better-intermittency being the crippling drawback, necessitating storage.
 77
@@ -1265,12 +1306,12 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
    stable nuclei exist?
 6. What are the only three long-lived radioactive isotopes in the portion of the Chart of the Nuclides appearing in Figure 15.4, and which one lives the longest (how long)?
    79
-7. Cosmic rays impinging on our atmosphere generate radioactive 14C from 14N nuclei.78 These 14C atoms soon team up with oxygen to form CO2, so that plants absorbing CO2 from the air will have about one in a trillion of their carbon atoms in this form. Animals eating these plants will also have this fraction of carbon in their bodies, until they die and stop cycling carbon into their bodies. At this point, the fraction of carbon atoms in the form of 14C in the body declines, with a half life of 5,715 years. If you dig up a human skull, and discover that only one-eighth of the usual one-trillionth of carbon atoms are 14C, how old do you deem the skull to be?
+7. Cosmic rays impinging on our atmosphere generate radioactive 14C from 14N nuclei.[^78] These 14C atoms soon team up with oxygen to form CO2, so that plants absorbing CO2 from the air will have about one in a trillion of their carbon atoms in this form. Animals eating these plants will also have this fraction of carbon in their bodies, until they die and stop cycling carbon into their bodies. At this point, the fraction of carbon atoms in the form of 14C in the body declines, with a half life of 5,715 years. If you dig up a human skull, and discover that only one-eighth of the usual one-trillionth of carbon atoms are 14C, how old do you deem the skull to be?
 8. If a friend creates a nucleus whose half-life is 4 hours and gives it to you at noon, what is the probability that it will not have decayed by noon the following day?
    80
 9. In close analog to the half-lives of 235U and 238U, let's say two
    elements have half lives of 4.5 billion years and 750 million years. If we start out having the same number of each (1:1 ratio), what will the ratio be after 4.5 billion years? Express as x:1, where x is the larger of the two.
-10. Control rods in nuclear reactors tend to contain 10B, which has a high neutron absorption cross section.81 What happens to this nucleus when it absorbs a neutron, and is the result stable? If not, track the decay chain until it lands on a stable nucleus.
+10. Control rods in nuclear reactors tend to contain 10B, which has a high neutron absorption cross section.[^81] What happens to this nucleus when it absorbs a neutron, and is the result stable? If not, track the decay chain until it lands on a stable nucleus.
 11. If someone managed to create a 14B nucleus, what would its fate be? Track the decay chain on Figure 15.4-indicating the type of decay at each step-until it reaches stability, and indicate how long each step is likely to take.
 12. A particular nuclide is found to have lost 3 neutrons and 1 proton after a decay chain. What combination of a and ẞ decays could account for this result?
 13. How would you qualitatively describe the overall sense from Figure 15.8 in terms of where82 on the chart one is likely to see a
@@ -1322,7 +1363,7 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
 28. Both nuclear and coal electric power plants are heat engines. What is the fundamental difference between these two, comparing Fig. 6.2 (p.90) to Figure 15.12?
 29. If a nuclear plant is built for $10 billion and operates for 50 years under an operating cost of $100 million per year, what is the cost to produce electricity, in $/kWh assuming that the plant delivers power at a steady rate of 1 GW for the whole time?
 30. Since each nuclear plant delivers ~1 GW of electrical power, at ~40% thermodynamic efficiency this means a thermal generation rate of 2.5 GW. How many nuclear plants would we need to supply all 18 TW of our current energy demand? Since a typical lifetime is 50 years before decommissioning, how many days, on average would it be between new plants coming online (while old ones are retired) in a steady state?
-31. Extending Problem 16 toward what actually happens, we know from Table 15.7 that the change in mass (which was close to 1 kg in Prob. 16) is only 0.08% of the 235U mass.84 Furthermore, a fresh fuel rod is only 5% 235U-the rest being 238U. So how much total uranium 85 must be loaded into the reactor each year, if all the 235U is used up?86
+31. Extending Problem 16 toward what actually happens, we know from Table 15.7 that the change in mass (which was close to 1 kg in Prob. 16) is only 0.08% of the 235U mass.[^84] Furthermore, a fresh fuel rod is only 5% 235U-the rest being 238U. So how much total uranium 85 must be loaded into the reactor each year, if all the 235U is used up?86
 32. Problem 15 indicated that we need the mass-equivalent of fewer than 10 tons of material to support the world's annual energy
     Hint: no need to identify elements; just settle on pairs of A values that add up correctly.
     Hint: Don't forget to count both 2H.

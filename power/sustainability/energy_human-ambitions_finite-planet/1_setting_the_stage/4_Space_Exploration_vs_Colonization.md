@@ -14,7 +14,8 @@ Describing an analogous scale model of the solar system, galaxy, and universe as
 61 
 63 
 64 
-1: To quote Carl Sagan, extraordinary claims require extraordinary evidence. 
+
+[^1]: To quote Carl Sagan, extraordinary claims require extraordinary evidence. 
 The convention is to capitalize Earth when it is used as a proper name, and refer to the earth when it is an object. Similar rules apply to Moon and Sun. 
 Photo credit: NASA/Bill Anders from Apollo 8 [22]. 
  
@@ -65,14 +66,19 @@ Moon distance
 100x 
 6,000× 
 Neptune distance Nearest Star Milky Way Center Andromeda Galaxy Universe Edge 
-2: The Oort cloud marks the outer influence of the sun, gravitationally. 
-3:... Proxima Centauri 
+
+[^2]: The Oort cloud marks the outer influence of the sun, gravitationally. 
+
+[^3]:... Proxima Centauri 
 A light year is the distance light travels in a 
 year. 
-4: That's 6,000 times the distance to the 
+
+[^4]: That's 6,000 times the distance to the 
 closest star. 
-5:... the Andromeda galaxy 
-6: The "edge" is limited by light travel time since the Big Bang (13.8 billion years ago), and is called our cosmic horizon. See Sec. D.1 (p. 392) for more. 
+
+[^5]:... the Andromeda galaxy 
+
+[^6]: The "edge" is limited by light travel time since the Big Bang (13.8 billion years ago), and is called our cosmic horizon. See Sec. D.1 (p. 392) for more. 
 As we build up our model, pause on each step to lock in a sense of the model: visualize it or even recreate it using objects around you! 
 4 Space Colonization 
 56 
@@ -109,26 +115,32 @@ for a second that humans have never ventured farther from Earth than the moon, a
 Box 4.1: When Will We Get There? 
 8 
 It took 12 years for Voyager 2 to get to Neptune, which is "in our back yard." The only spacecraft to date traveling fast enough to leave the solar system are the two Voyagers, the two Pioneers, and the New Horizons probe [23]. The farthest and fastest of this set is Voyager 1 at about 150 times the Earth-Sun distance after 43 years. The closest star is about 2,000 times farther. At its present speed of 17 km/s, it would reach the distance to the nearest star in another 75,000 years. 
-The fastest spacecraft on record as yet is the Parker Solar Probe, which got up to a screaming 68.6 km/s, but only because it was plunging (falling) around the sun. Because it was so close to the sun, even this amount of speed was not enough to allow it climb out of the sun's gravitational grip and escape, as the five aforementioned probes managed to do. Even if Voyager 1 ended up with 70 km/s left over after breaking free of the solar system,10 it would still take 20,000 years to reach the distance to the nearest star. Note that human lifetimes are about 200 times shorter. 
+The fastest spacecraft on record as yet is the Parker Solar Probe, which got up to a screaming 68.6 km/s, but only because it was plunging (falling) around the sun. Because it was so close to the sun, even this amount of speed was not enough to allow it climb out of the sun's gravitational grip and escape, as the five aforementioned probes managed to do. Even if Voyager 1 ended up with 70 km/s left over after breaking free of the solar system,[^10] it would still take 20,000 years to reach the distance to the nearest star. Note that human lifetimes are about 200 times shorter. 
 Pushing a human-habitable spacecraft up to high speed is immensely harder than accelerating these scrappy little probes, so the challenges are varied and extreme. For reference, the Apollo missions to the very nearby Moon carried almost 3,000 tons of fuel [24], or about. 80,000 times the typical car's gasoline tank capacity. It would take 
 Table 4.2: Symbols, relative sizes, and dis- tances in the solar system and to the nearest star. An AU is an Astronomical Unit, which is the average Earth-Sun distance of about 150 million kilometers. The fact that both the sun and moon are 240 of their radii away from Earth is why they appear to be a similar size on the sky, leading to "just so" eclipses. 
-7: For this, picture a grain of sand sitting on the bridge of your nose representing the earth, and a speck of dust in front of one eye as the moon. 
+
+[^7]: For this, picture a grain of sand sitting on the bridge of your nose representing the earth, and a speck of dust in front of one eye as the moon. 
 Glance over to where Mars would be if the earth is a grain of sand on 
 your nose. 
-8: The last time we went this far was 1972. 
+
+[^8]: The last time we went this far was 1972. 
 [23]: (2020), List of artificial objects leaving the Solar System 
-9: It does not happen to be aimed toward the nearest star, however. 
-10: It only had 17 km/s left. 
+
+[^9]: It does not happen to be aimed toward the nearest star, however. 
+
+[^10]: It only had 17 km/s left. 
 [24]: (2020), Saturn V 
  
 a typical car 2,000 years to spend this much fuel. Do you think the astronauts argued about who should pay for the gas? 
 Let's relax the scale slightly, making the sun a chickpea (garbanzo bean). Earth is now the diameter of a human hair (easy to lose), and one meter from the sun. The moon is essentially invisible and a freckle's-width away from the earth. The next star is now 300 km away (a 3-hour drive at freeway speed), while the Milky Way center is 1.5 million kilometers away. Oops. This is more than four times the actual Earth-Moon distance. We busted our scale again without even getting out of the galaxy. 
-So we reset and make the sun a grain of sand. Now the earth is 10 cm away and the next star is 30 km.11 Think about space this way: the swarm of stars within a galaxy are like grains of sand tens of kilometers apart. On this scale, solar systems are bedroom-sized, composed of a brightly growing grain of sand in the middle and a few specks of dust (planets) sprinkled about the room.12 It gets even emptier in the vast tracts between the stars. The Milky Way extent on this scale is still much larger than the actual Earth, comparable to the size of the lunar orbit. 
+So we reset and make the sun a grain of sand. Now the earth is 10 cm away and the next star is 30 km.[^11] Think about space this way: the swarm of stars within a galaxy are like grains of sand tens of kilometers apart. On this scale, solar systems are bedroom-sized, composed of a brightly growing grain of sand in the middle and a few specks of dust (planets) sprinkled about the room.[^12] It gets even emptier in the vast tracts between the stars. The Milky Way extent on this scale is still much larger than the actual Earth, comparable to the size of the lunar orbit. 
 4 Space Colonization 57 
 In fairness, fuel requirements don't simply scale with distance for space travel, unlike travel in a car. Still, just getting away from Earth requires a hefty fuel load. 
-11: 
+
+[^11]: 
 ...a long day's walk 
-12: Even a solar system, which is a sort of local oasis within the galaxy, is mostly empty space. 
+
+[^12]: Even a solar system, which is a sort of local oasis within the galaxy, is mostly empty space. 
 Box 4.2: Cosmic Scales 
 It is not necessary to harp further on the vastness of space, but having come this far some students may be interested in completing the visualization journey. 
 As mind-bogglingly large as the solar system is, not to mention that it itself is dwarfed by interstellar distances, which in turn are minuscule compared to the scale of the galaxy, how can we possibly appreciate the largest scales in the universe? Let's start by making galaxies manageable. If galaxies are like coins (say a U.S. dime at approximately 1 cm diameter), they are typically separated by meter- like scales. The edge of the visible universe (see Sec. D.1; p. 392) would be only 1.5 km away. Finally, the picture is easy to visualize: coins as galaxies separated by something like arm's length and extending over an area like the center of a moderately-sized town. We can even imagine the frothy, filamentary arrangement of these galaxies, containing house-sized (5–50 m) voids empty of coins (galaxies). See Figure 4.3 for a visual explanation. 
@@ -138,15 +150,16 @@ Figure 4.3: Galaxies are actually distributed in a frothy foam-like pattern crud
 4 Space Colonization 
 58 
 travel 
-Given the vastness of space, it is negligent to think of space as a "solution" to our present set of challenges on Earth-challenges that operate on a much shorter timescale than it would take to muster any meaningful space presence. Moreover, space travel is enormously expensive energetically and economically (see Table 4.3). As we find ourselves competing for dwindling one-time resources later this century, space travel will have a hard time getting priority, except in the context of escapist entertainment.13 
+Given the vastness of space, it is negligent to think of space as a "solution" to our present set of challenges on Earth-challenges that operate on a much shorter timescale than it would take to muster any meaningful space presence. Moreover, space travel is enormously expensive energetically and economically (see Table 4.3). As we find ourselves competing for dwindling one-time resources later this century, space travel will have a hard time getting priority, except in the context of escapist entertainment.[^13] 
 4.2 The Wrong Narrative 
 Humans are not shy about congratulating themselves on accomplish- ments, and yes, we have done rather remarkable things. An attractive and common sentiment casts our narrative in evolutionary terms: fish crawled out of the ocean, birds took to the air, and humans are making the next logical step to space-continuing the legacy of escaping the bondage of water, land, and finally Earth. It is a compelling tale, and we have indeed learned to escape Earth's gravitational pull and set foot on another body. 
-But let's not get ahead of ourselves. Just because we can point to a few special example accomplishments does not mean that such examples presage a new normal. A person can climb Mt. Everest, but it is not ever likely to become a commonplace activity. We can build a supersonic passenger airplane for trans-atlantic flight, but it does not mean it will be viable to sustain.14 One can set up a backyard obstacle course for squirrels and generate viral videos, but the amusing demonstration does not signal a "new normal" in backyard design. We need to separate the possible from the practical. The moon landings might then be viewed as a nifty stunt a demonstration of capability-rather than a path to our future. We encountered similar arguments in Chapter 2 in relation to decoupling: just because it can happen in certain domains of the economy does not mean that the entire economy can decouple and "defy gravity." 
-The attractive evolutionary argument misses two critical facets of reality. When fish crawled out of the sea, they escaped predation (as the first animals on land) and found new food sources free of competition. That's a win-win: less dangerous, more sustenance.15 Likewise, when birds took flight (or we could discuss insects, which beat the birds to it), it was a similar story: evade ground-based predators who could not fly, and access a whole new menu of food-another win-win. 
-Going to space could easily be cast as a lose-lose. It's an extremely hostile environment offering no protection or safe haven,16 and there's nothing to eat.17 Think about it: where would you go to grab a bite in our solar system at present, outside of Earth? And a solar system is an absolute oasis compared to the vast interstellar void. The two factors that jointly 
+But let's not get ahead of ourselves. Just because we can point to a few special example accomplishments does not mean that such examples presage a new normal. A person can climb Mt. Everest, but it is not ever likely to become a commonplace activity. We can build a supersonic passenger airplane for trans-atlantic flight, but it does not mean it will be viable to sustain.[^14] One can set up a backyard obstacle course for squirrels and generate viral videos, but the amusing demonstration does not signal a "new normal" in backyard design. We need to separate the possible from the practical. The moon landings might then be viewed as a nifty stunt a demonstration of capability-rather than a path to our future. We encountered similar arguments in Chapter 2 in relation to decoupling: just because it can happen in certain domains of the economy does not mean that the entire economy can decouple and "defy gravity." 
+The attractive evolutionary argument misses two critical facets of reality. When fish crawled out of the sea, they escaped predation (as the first animals on land) and found new food sources free of competition. That's a win-win: less dangerous, more sustenance.[^15] Likewise, when birds took flight (or we could discuss insects, which beat the birds to it), it was a similar story: evade ground-based predators who could not fly, and access a whole new menu of food-another win-win. 
+Going to space could easily be cast as a lose-lose. It's an extremely hostile environment offering no protection or safe haven,[^16] and there's nothing to eat.[^17] Think about it: where would you go to grab a bite in our solar system at present, outside of Earth? And a solar system is an absolute oasis compared to the vast interstellar void. The two factors that jointly 
  
 Table 4.3: Approximate/estimated costs, adjusted for inflation (M = million; B billion). [26-29] 
-13: 
+
+[^13]: 
 Effort 
 Apollo Program Space Shuttle Launch Single Seat to ISS Human Mars Mission 
 Cost 
@@ -156,24 +169,30 @@ $90M
 $500B 
 == 
 which is great stuff as long as it does not dangerously distort our perceptions of reality 
-14: 
+
+[^14]: 
 ...or even still available today (see the story of the Concorde; Box 2.2; p. 22) 
-15: Evolution works on exploiting advan- tages, favoring wins and letting the "lose" situations be out-competed. 
-16: Earth is the safe haven. 
-17: Amusingly, consider that no cheese- burgers have ever smacked into a space capsule. 
+
+[^15]: Evolution works on exploiting advan- tages, favoring wins and letting the "lose" situations be out-competed. 
+
+[^16]: Earth is the safe haven. 
+
+[^17]: Amusingly, consider that no cheese- burgers have ever smacked into a space capsule. 
 promoted evolution onto land and into the air will not operate to "evolve" us into space. It's a much tougher prospect. Yes, it could be possible to 
 grow 
 food on a spacecraft or in a pressurized habitat, but then we are no longer following the evolutionary meme of stumbling onto a good deal. 
 Box 4.3: Accomplishments in Space 
 Before turning attention to what we have not yet done in space, students may appreciate a recap of progress to date. The list is by no means exhaustive, but geared to set straight common misconceptions. 
 ► 1957: Sputnik (Soviet) is the first satellite to orbit Earth. 
-1959: Luna 3 (Soviet; unmanned) reaches the moon in a fly-by. 
+
+[^1959]: Luna 3 (Soviet; unmanned) reaches the moon in a fly-by. 
 ► 1961: Yuri Gagarin (Soviet), first in space, orbits Earth once. 
 ► 1965: Alexei Leonov (Soviet) performs the first "space walk." 1965: Mariner 4 (U.S.; unmanned) reaches Mars. 
 ► 1968: Apollo 8 (U.S.) puts humans in lunar orbit for the first time. 
 ► 1969: Apollo 11 (U.S.) puts the first humans onto the lunar surface. 
 ► Pause here to appreciate how fast all this happened. It is easy to see why people would assume that Mars would be colonized within 50 years. Attractive narratives are hard to retire, even when wrong. 
-1972: Apollo 17 (U.S.) is the last human mission to the moon; only 12 people have walked on another solar system body, the last about 50 years ago. 
+
+[^1972]: Apollo 17 (U.S.) is the last human mission to the moon; only 12 people have walked on another solar system body, the last about 50 years ago. 
 ► 1973-now: as of this writing (2020), humans have not ventured farther than about 600 km from Earth's surface (called low earth orbit, or LEO; see Figure 4.4) since the end of the Apollo missions. 
 ► 1981-2011: U.S. operates the Space Shuttle, envisioned to make space travel routine. After 135 launches (two ending in catastro- phe), the shuttle was retired, leaving the U.S. with no human space launch capacity. 
 ‣ 1998-now: The International Space Station (ISS) [30] provides an experimental platform and maintains a presence in space. It is only 400 km from Earth's surface (4-hour driving distance), and despite its misleading name is not used as a space-port hub for travel. It is the destination. 
@@ -188,7 +207,7 @@ Figure 4.4: The pink band indicates the farthest humans have been from the surfa
 4.3 A Host of Difficulties 
 If undeterred by the vast emptiness, hostile conditions, or lack of human- supporting resources in space, then maybe it's because you believe 
  
-human ingenuity can overcome these challenges. And this is correct to a degree. We have walked on one other solar system body.18 We have had individuals spend a year or so in earth orbit. Either these represent first baby steps to a space future, or just rare feats that we can pull off at great effort/expense. How can we tell the difference? 
+human ingenuity can overcome these challenges. And this is correct to a degree. We have walked on one other solar system body.[^18] We have had individuals spend a year or so in earth orbit. Either these represent first baby steps to a space future, or just rare feats that we can pull off at great effort/expense. How can we tell the difference? 
 Box 4.4: Comparison to Backpacking 
 The way most people experience backpacking is similar to how we go about space exploration: carry on your back all the food, clothing, shelter, and utility devices that will be needed for a finite trip duration. Only air and water are acquired in the wild. For space travel, even the air and water must be launched from Earth. So space travel is like a glorified and hyper-expensive form of backpacking—albeit offering breathtaking views!. 
 One way to probe the demonstration vs. way-of-the-future question is to list capabilities we have not yet demonstrated in space that would be important for a space livelihood, including: 
@@ -198,23 +217,27 @@ from cosmic rays;1
 3. Generating or collecting propulsive fuel away from Earth's surface; 4. Long-term health of muscles and bones for periods longer than a 
 year in low gravity environments; 
 5. Resource extraction for in-situ construction materials; 6. Closed-system sustainable ecosystem maintenance; 7. Anything close to terraforming (see below). 
-It would be easier to believe in the possibility of space colonization if we first saw examples of colonization of the ocean floor.20 Such an environ- ment carries many similar challenges: native environment unbreathable; large pressure differential; sealed-off self-sustaining environment. But an ocean dwelling has several major advantages over space, in that food is scuttling/swimming just outside the habitat; safety/air is a short distance away (meters); ease of access (swim/scuba vs. rocket); and all the resources on Earth to facilitate the construction/operation (e.g., Home Depot not far away). 
+It would be easier to believe in the possibility of space colonization if we first saw examples of colonization of the ocean floor.[^20] Such an environ- ment carries many similar challenges: native environment unbreathable; large pressure differential; sealed-off self-sustaining environment. But an ocean dwelling has several major advantages over space, in that food is scuttling/swimming just outside the habitat; safety/air is a short distance away (meters); ease of access (swim/scuba vs. rocket); and all the resources on Earth to facilitate the construction/operation (e.g., Home Depot not far away). 
 Building a habitat on the ocean floor would be vastly easier than trying to do so in space. It would be even easier on land, of course. But we have not yet successfully built and operated a closed ecosystem on land! A few artificial "biosphere" efforts have been attempted, but met with failure [31]. If it is not easy to succeed on the surface of the earth, how can we fantasize about getting it right in the remote hostility of space, lacking easy access to manufactured resources? 
 4 Space Colonization 60 
-18: The last Apollo landing was in 1972. 
-19: The ISS (space station) remains within Earth's protection. 
-20: Even just 10 meters under the surface! 
+
+[^18]: The last Apollo landing was in 1972. 
+
+[^19]: The ISS (space station) remains within Earth's protection. 
+
+[^20]: Even just 10 meters under the surface! 
 This is not to advocate ocean floor habi- tation as a good idea; it is merely used to illustrate that space habitation is an even less practical idea, by far. 
 [31]: (2020), Biosphere 2 
-On the subject of terraforming, consider this perspective. Earth right now has a problem of excess CO2 as a result of fossil fuel combustion (the subject of Chapter 9). The problem has flummoxed our economic and political systems, so that not only do we seem to be powerless to revert to pre-industrial CO2 levels, but even arresting the annual increase in emissions appears to be beyond our means. Pre-industrial levels of CO2 measured 280 parts per million (ppm) of the atmosphere, which we will treat as the normal level. Today's levels exceed 400 ppm, so that the modification is a little more than 100 ppm, or 0.01% of our atmosphere.21 Meanwhile, Mars' atmosphere is 95% CO2. So we might say that Earth has a 100 ppm problem, but Mars has essentially a million part-per- million problem. On Earth, we are completely stymied by a 100 ppm 
+On the subject of terraforming, consider this perspective. Earth right now has a problem of excess CO2 as a result of fossil fuel combustion (the subject of Chapter 9). The problem has flummoxed our economic and political systems, so that not only do we seem to be powerless to revert to pre-industrial CO2 levels, but even arresting the annual increase in emissions appears to be beyond our means. Pre-industrial levels of CO2 measured 280 parts per million (ppm) of the atmosphere, which we will treat as the normal level. Today's levels exceed 400 ppm, so that the modification is a little more than 100 ppm, or 0.01% of our atmosphere.[^21] Meanwhile, Mars' atmosphere is 95% CO2. So we might say that Earth has a 100 ppm problem, but Mars has essentially a million part-per- million problem. On Earth, we are completely stymied by a 100 ppm 
 CO2 increase while enjoying access to all the resources available to us on the planet. Look at all the infrastructure available on this developed world and still we have not been able to reverse or even stop the CO2 increase. How could we possibly see transformation of Mars' atmosphere into habitable form as realistic, when Mars has zero infrastructure to support such an undertaking? We must be careful about proclaiming notions to be impossible, but we can be justified in labeling them as outrageously impractical, to the point of becoming a distraction to discuss. Figure 4.5 further illustrates the giant gap between tolerable conditions and actual atmospheres on offer in the solar system. 
 We also should recall the lesson from Chapter 1 about exponential growth, and how the addition of another habitat had essentially no effect on the overall outcome, aside from delaying by one short doubling time. Therefore, even if it is somehow misguided to discount colonization of another solar system body, who cares? We still do not avoid the primary challenge facing humanity as growth slams into limitations in a finite world (or even finite solar system, if it comes to that). 
 4.4 Exploration's Role 
-It is easy to understand why people might latch onto the idea that we will likely leverage our exploration of space into ultimate colonization. Much as early explorers of our planet opened pathways for colonization of "new worlds," the parallels in exploring literal new worlds like planets are obvious.22 In short, it is a familiar story, and therefore an easy "sell" to primed, undoubting minds. Plus, we're captivated by the novelty and challenge space colonization represents as attested by a vibrant entertainment industry devoted to stories of eventual life in space. But not all exploration leads to settlement, and entertainment is not truth. 
+It is easy to understand why people might latch onto the idea that we will likely leverage our exploration of space into ultimate colonization. Much as early explorers of our planet opened pathways for colonization of "new worlds," the parallels in exploring literal new worlds like planets are obvious.[^22] In short, it is a familiar story, and therefore an easy "sell" to primed, undoubting minds. Plus, we're captivated by the novelty and challenge space colonization represents as attested by a vibrant entertainment industry devoted to stories of eventual life in space. But not all exploration leads to settlement, and entertainment is not truth. 
 Humans have explored (a small portion of) the crushing deep ocean, scaled Earth's highest and wholly inhospitable peaks, and visited the harsh ice cap at the north pole. In such instances, we had zero intention of establishing permanent residence in those locations. They represented 
 4 Space Colonization 61 
 Terraforming is the speculative idea of trans- forming a planet so its atmosphere resem- bles that of Earth (chemical makeup, tem- perature, pressure) and can support human life. 
-21: While the increase from 280 to 400 is about 50%, as a fraction of Earth's total atmosphere, the 100 ppm change is 100 divided by one million (from definition of ppm), or 0.01%. 
+
+[^21]: While the increase from 280 to 400 is about 50%, as a fraction of Earth's total atmosphere, the 100 ppm change is 100 divided by one million (from definition of ppm), or 0.01%. 
 Pressure (atm) 
 100 
 10 
@@ -230,7 +253,8 @@ Venus
 Temperature (C) 
 Figure 4.5: Rocky-body atmospheres in the solar system, showing average temperature (Celsius) and pressure (atmospheres). The range 
 of "comfort" for Earth is shown as a blue rectangle going from -10°C to 40°C and 0.2 atm (where the atmosphere would need to be 100% oxygen) to (arbitrarily) 10 atm. Not only are the other bodies far outside our comfort range, the composi- tions are noxious, and lack oxygen. Bear in mind that a change of even a few degrees- as in climate change is a big deal. Even Mt. Everest, where humans can survive for only a few hours with supplemental oxygen is substantially more hospitable than Mars. 
-22: Reaching the Americas involved a leap across a span of (life-supporting) ocean about twice the size of Europe. Reaching Mars involves a leap across inhospitable space 5,000 times the diameter of Earth- not very similar at all. 
+
+[^22]: Reaching the Americas involved a leap across a span of (life-supporting) ocean about twice the size of Europe. Reaching Mars involves a leap across inhospitable space 5,000 times the diameter of Earth- not very similar at all. 
  
 4 Space Colonization 62 
 places to test our toughness and also learn about new environments. We do not view these sorts of explorations as mistakes just because they did not pave the way for inhabitation. Rather, we speak fondly of such excursions as feathers in our collective cap: feats that make us proud as a species. Space might be viewed in a similar way: superlative in terms of challenge and wonderment, reflecting positively on our curiosity, drive, ingenuity, and teamwork. We also derive benefits23 in the way of technological advancement propelled by our quest to explore, and in furthering our scientific understanding of nature. 
@@ -240,7 +264,8 @@ If, in the fullness of time, we do see a path toward practical space colonizatio
 We used to play pretend, give each other different names We would build a rocket ship and then we'd fly it far away 
 Used to dream of outer space but now they're laughing at our face Saying, "Wake up, you need to make money." Yeah. 
 Space colonization might be treated as a pretend fantasy for the moment. We would be better off waking up to face real here-and-now challenges. In some sense, perhaps the only way to achieve the dream of migration to space should that be in the cards at all-is to first pretend that it is impossible and turn attention to the pressing matters on Earth. Otherwise we risk failing at both efforts. 
-23: 
+
+[^23]: 
 among them a deeper appreciation for the rare and precious Earth 
 Despite the pessimistic tone of this chapter, the author is himself captivated by space, and has built a life around it: Star Wars was a transformative influence as a kid, and later Star Trek. The movie The Right Stuff is still a favorite. He has peered to the edge of the universe first through a 10-inch tele- scope he built in high school, and later us- ing the largest telescopes in the world. He has worked on a Space Shuttle experiment, met astronauts, knew Sally Ride, and spent much of his career building and operating a laser system to bounce and detect indi- vidual photons off the reflectors placed on the lunar surface by the Apollo astronauts (as a test of the fundamental nature of grav- ity), which directly inspired part of a Big Bang Theory episode via personal interac- tions with the show's writers. So a deep fondness for space? Yes. Would volunteer to go to the moon or Mars? Yes. Believes it holds the key to humanity's future? No. 
  
@@ -249,29 +274,34 @@ Box 4.5: Q&A on State of Exploration
 After reading the first draft of this chapter, students had a number of remaining questions. Here are some of them, along with the author's 
 responses. 
 1. How long before we live on other planets? 
-Maybe never.24 The staggering distances involved mean that our own solar system is effectively the only option. Within the solar system, Mars is the most hospitable body-meaning we might live as long as two minutes without life support. By com- parison, Antarctica and the ocean floor are millions of times more practical, yet we do not see permanent settlements there.25 
+Maybe never.[^24] The staggering distances involved mean that our own solar system is effectively the only option. Within the solar system, Mars is the most hospitable body-meaning we might live as long as two minutes without life support. By com- parison, Antarctica and the ocean floor are millions of times more practical, yet we do not see permanent settlements there.[^25] 
 2. What is the status of searches for other planets to colonize? 
 We understand our solar system pretty well. No second homes stand out. We have detected evidence for thousands of planets around other stars [32], but do not yet have the sensitivity to detect the presence of earth-like rocks around most stars. It is conceivable that we will have identified Earth analogs in the coming decades, but they will give new meaning to the words "utterly" and "inaccessible." 
 3. Haven't we benefited from space exploration in the technology 
 spin-offs, like wireless headsets and artificial limbs? 
 No doubt! The benefits have been numerous, and I would never characterize our space efforts to date as wasted effort. It's just that what we have done so far in space does not mean that colonization is in any way an obvious or practical next step. Actually, the banner image for this chapter from the Apollo 8 mission captivated the world and made our fragile shell of life seem all the more precious. So perhaps the biggest benefit to our space exploration will turn out to be a profound appreciation for and attachment to Earth! 
-24: True, never is a long time. The notion that we may never colonize space may seem preposterous to you now. Check back at the end of the book. The odds favor a more boring slog, grappling with our place in 
+
+[^24]: True, never is a long time. The notion that we may never colonize space may seem preposterous to you now. Check back at the end of the book. The odds favor a more boring slog, grappling with our place in 
 nature. 
-25: Staffed research stations are not the same as human settlements, in the case of Antarctica. 
+
+[^25]: Staffed research stations are not the same as human settlements, in the case of Antarctica. 
 [32]: IPAC/NASA (2020), NASA Exoplanet Archive 
 4.5 Upshot: Putting Earth First 
 The author might even go so far as to label a focus on space colonization in the face of more pressing challenges as disgracefully irresponsible. Diverting attention in this probably-futile26 effort could lead to greater total suffering if it means not only mis-allocation of resources but perhaps 
-26: ... at least on relevant time scales 
+
+[^26]: ... at least on relevant time scales 
  
 more importantly lulling people into a sense that space represents a viable 
 escape hatch. Let's not get distracted! 
 The fact that we do not have a collective global agreement on priorities or the role that space will (or will not) play in our future only highlights the fact that humanity is not operating from a master plan27 that has been well thought out. We're simply "winging it," and as a result potentially wasting our efforts on dead-end ambitions. Just because some people are enthusiastic about a space future does not mean that it can or will happen. 
-It is true that we cannot know for sure what the future holds, but perhaps that is all the more reason to play it safe and not foolishly pursue a high-risk fantasy.28 From this point on, the book will turn to issues more tangibly relevant to life and success on Planet Earth. 
+It is true that we cannot know for sure what the future holds, but perhaps that is all the more reason to play it safe and not foolishly pursue a high-risk fantasy.[^28] From this point on, the book will turn to issues more tangibly relevant to life and success on Planet Earth. 
 Box 4.6: Survey Says? 
 It would be fascinating to do a survey to find out how many people think that we will have substantial populations living off Earth 500 years from now. It is the author's sense that a majority of Americans believe this to be likely. Yet, if such a future is not to be for a host of practical reasons, including the possibility that we falter badly and are no longer in a position to pursue space flight-we would find ourselves in a situation where most people may be completely wrong about the imagined future. That would be a remarkable state of affairs in which to find ourselves-though not entirely surprising. 
 4 Space Colonization 64 
-27: Prospects for a plan are discussed in Chapter 19. 
-28: Tempted as we may be by the e-mail offer from the displaced Nigerian prince to help move his millions of dollars to a safe account, most of us know better than to bite. The promise of wealth can lead the gullible to ruin. 
+
+[^27]: Prospects for a plan are discussed in Chapter 19. 
+
+[^28]: Tempted as we may be by the e-mail offer from the displaced Nigerian prince to help move his millions of dollars to a safe account, most of us know better than to bite. The promise of wealth can lead the gullible to ruin. 
 4.6 Problems 
 1. If the sun were the size of a basketball, how large would Earth be, and how far away? How large would the moon be, and how far from Earth, at this scale? 
 2. Find objects whose sizes approximately match the scales found in Problem 1 and place them in your environment at the scaled/a ap- propriate distances. Submit a personalized/unique picture of your arrangement. 
@@ -292,9 +322,12 @@ By doing this, you can get maybe 2% of the enjoyment of a trip to the moon for l
 12. Prior to exposure to this material, what would you honestly have said in response to: How far have humans been from the planet in 
 4 Space Colonization 65 
 This is why eclipses are special on Earth. 
-29: In other words, oasis size is to distance between oases as Earth's diameter is to how far? 
-30:...since Earth is the only livable "oasis" in our own solar system 
-31: In other words, Earth diameter is to interstellar distances as a 100 m oasis is to how far? 
+
+[^29]: In other words, oasis size is to distance between oases as Earth's diameter is to how far? 
+
+[^30]:...since Earth is the only livable "oasis" in our own solar system 
+
+[^31]: In other words, Earth diameter is to interstellar distances as a 100 m oasis is to how far? 
 The insight you develop will not depend on exact choices for distance and speed, as long as they are reasonable. 
  
 the last 45 years; 
@@ -316,9 +349,12 @@ term operation of the artificial biosphere project [31].
 17. Come up with three examples (not repeating items in the text) of 
 feats that are technically possible, but not common or practical. 
 18. For some perspective, imagine you were able to drive your car up a ramp to an altitude characteristic of low-earth orbit (about 320 km, or 200 miles). It takes about 5 x 1010 J of energy33 to win the fight against gravity. Meanwhile, each gallon of gasoline can do about 25 x 106 J of useful work. How many gallons would it take to climb to orbital height in a car? Roughly how many miles per gallon is this (just counting vertical miles)? 
-19. In Problem 18, we ignored the energy required to provide the substantial orbital speed (~ 8 km/s, but will not need), which essentially doubles the total energy.34 How much gasoline will it now take, and how massive is the fuel if gasoline is 3 kg per gallon, compared to the 1,500 kg mass of the car? 
+19. In Problem 18, we ignored the energy required to provide the substantial orbital speed (~ 8 km/s, but will not need), which essentially doubles the total energy.[^34] How much gasoline will it now take, and how massive is the fuel if gasoline is 3 kg per gallon, compared to the 1,500 kg mass of the car? 
 [31]: (2020), Biosphere 2 
-32:...just in terms of temperature and pressure; ignoring composition and a host of other considerations! 
-33: We'll encounter gravitational potential energy later, but this quantity is computed as mgh with m≈1,500 kg. 
-34: The same amount of energy to climb against gravity must go into accelerating to speed (kinetic energy). 
+
+[^32]:...just in terms of temperature and pressure; ignoring composition and a host of other considerations! 
+
+[^33]: We'll encounter gravitational potential energy later, but this quantity is computed as mgh with m≈1,500 kg. 
+
+[^34]: The same amount of energy to climb against gravity must go into accelerating to speed (kinetic energy). 
 Given this mass of fuel, and its signifi- cance compared to the car's mass, we can see that we've underestimated the fuel re- quired since we'll have to put substantial additional energy into lifting the fuel away from the earth. 

@@ -239,12 +239,12 @@ title = "11 Hydroelectric Energy"
    Defunct or poorly maintained facilities represent a dam-burst danger to downstream residents;
    Blocks salmon runs and impacts the health of both oceanic and forest ecosystems;
    ► As the distribution maps show, hydroelectric is not a viable option everywhere: the combination of terrain32 and rainfall is needed.
-   On balance, our society has embraced hydroelectricity as a clean and reliable resource. One can view it as nature's low-hanging fruit, partly evidenced by how early it was adopted on a large scale. It is likely to remain an attractive form of energy as we face increasing pressures to migrate away from carbon-based fuels.33 It will not, however, be able to provide an avenue for wholesale replacement of fossil fuels given its limited scale and electric-only nature. Only if our overall energy demand is reduced substantially will it form a large fraction of our portfolio.
+   On balance, our society has embraced hydroelectricity as a clean and reliable resource. One can view it as nature's low-hanging fruit, partly evidenced by how early it was adopted on a large scale. It is likely to remain an attractive form of energy as we face increasing pressures to migrate away from carbon-based fuels.[^33] It will not, however, be able to provide an avenue for wholesale replacement of fossil fuels given its limited scale and electric-only nature. Only if our overall energy demand is reduced substantially will it form a large fraction of our portfolio.
    11.6 Problems
 1. If a 70 kg person climbs 10 flights of stairs, each flight 3 m high,
    how much potential energy have they gained?
-2. If an 80 kg person is capable of delivering external mechanical energy at a rate of 200 W sustained over several minutes,34 how high would they be able to climb in two minutes?
-3. A 10 kg box is lifted 2 m off the floor and placed on a frictionless horizontal conveyor to take it 30 m across a warehouse. At the end of the conveyor, it is lowered 1 m where it ends up on a shelf.35
+2. If an 80 kg person is capable of delivering external mechanical energy at a rate of 200 W sustained over several minutes,[^34] how high would they be able to climb in two minutes?
+3. A 10 kg box is lifted 2 m off the floor and placed on a frictionless horizontal conveyor to take it 30 m across a warehouse. At the end of the conveyor, it is lowered 1 m where it ends up on a shelf.[^35]
    11 Hydroelectric Energy 181
    29: ... aside from construction and decom- missioning aspects
    30: ... no imposed short-term fluctuations in available power, as happens for solar or wind
@@ -260,7 +260,7 @@ title = "11 Hydroelectric Energy"
 4. A standard AA battery cell stores about 13.5 kJ of energy. At a mass of 23 g each, how high would you have to lift the battery to get the same amount of gravitational potential energy?
 5. A gallon of gasoline contains about 130 MJ of chemical energy at a mass of around 3 kg. How high would you have to lift the gallon of gasoline to get the same amount of gravitational potential energy? Compare the result to the radius of the earth.
 6. Problem 5 used one gallon of gasoline to compute the equivalent height for gravitational potential energy. Does the result depend on what volume of gasoline we selected? Make an airtight argument as to why or why not. Solving symbolically36 may be a helpful route-but not the only one.
-7. A typical American household uses approximately 30 kWh per day of electricity. Convert this to Joules and then imagine building a water tank 10.8 m above the house37 to supply one day's worth of electricity.38 How much mass of water is this, in kg? At a density of 1,000 kg/m3, what is the volume in cubic meters, and what is the side length of a cube39 having this volume? Take a moment to visualize (or sketch) this arrangement.
+7. A typical American household uses approximately 30 kWh per day of electricity. Convert this to Joules and then imagine building a water tank 10.8 m above the house37 to supply one day's worth of electricity.[^38] How much mass of water is this, in kg? At a density of 1,000 kg/m3, what is the volume in cubic meters, and what is the side length of a cube39 having this volume? Take a moment to visualize (or sketch) this arrangement.
 8. The biggest hydroelectric installation in the U.S. is the Grand Coulee dam on the Columbia River. The enormous flow rate reaches its maximum at 4,300 m3/s, and the dam (reservoir) height is 168 m. At an efficiency of 90%, at what rate is this dam capable of producing hydroelectric power (in GW40)? Don't forget the density of water and that g≈ 10 m/s2.
 9. The Hoover Dam (also called Boulder Dam) on the Colorado River is rated at 2.08 GW when the flow is at its maximum rate of 1,280 m3/s. How high is the reservoir if the efficiency of the installation is 90%?
 10. A dam 50 meters high is constructed on a river and is delivering 180 MW at some moment in time. What is the flow rate of water, in cubic meters per second, if the facility converts gravitational potential energy into electricity at 90% efficiency?
@@ -393,7 +393,8 @@ or requiring weeks rather than a day to re-establish, once sapped
 able to replace the energy currently derived from fossil fuels.
 12.2.1 Wind Turbines
 To understand practically-available energy, we back up and consider how much air hits a wind turbine whose rotor diameter is R. Figure 12.3 illustrates the concept. If the wind speed is v, the air travels a distance vAt in time interval At.?
-9: We can pick any value for At: a long interval makes a very long cylinder, while a small At results in a short, stubby cylinder. In the end, the value we chose for At will cancel out, so as not to matter.
+
+[^9]: We can pick any value for At: a long interval makes a very long cylinder, while a small At results in a short, stubby cylinder. In the end, the value we chose for At will cancel out, so as not to matter.
 R
 VɅt
 Cylinder volume: лR2νAt
@@ -405,7 +406,8 @@ Pwind
 2εPairπR273
 (12.2)
 Figure 12.3: Wind power concept. In time interval At at wind speed v, a volume of air encounters the rotor having the shape of a cylinder of radius R and length vAt. Note that most wind turbines are designed to pivot about a vertical axis to face into the wind, whatever the direction.
-10: Pair≈ 1.25 kg/m3
+
+[^10]: Pair≈ 1.25 kg/m3
 Table 12.1: Wind power scales as the cube of wind speed.
 Speed
 0
