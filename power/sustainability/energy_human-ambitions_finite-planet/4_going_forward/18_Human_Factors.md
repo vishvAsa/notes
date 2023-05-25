@@ -5,18 +5,22 @@ title = "18 Human Factors"
 Energy has occupied center-stage in this book because it is the physical currency of activity. Fossil fuel availability permitted the Industrial Revolution and all that came with it. Human civilization has never before faced the prospect of such a crucial global resource either disappearing or being abandoned due to other ills (e.g., climate change).
 Despite the mixed suitabilities of alternative energy sources presented in Chapter 17, some physically viable avenues are open to us. In other words, physics itself does not preclude development of an energy landscape consisting primarily of solar, wind, and hydroelectric power, plus a few small contributions from a variety of other sources. Life may be different; less air travel or transportation in general, as one possibility. The enormous solar potential combined with decent storage technologies could conceivably maintain our 18 TW appetite without fossil fuels. Or we could scale back and not expect to live in such a profligate manner, viewing our current ways and expectations in the broader human experience as anomalous, temporary, and not important to preserve.
 In any case, the barriers are not completely due to physical constraints— though we must heed limits where they exist. A practical concern is the expense of a non-fossil energy infrastructure: both in energy and financial terms. It is possible that the prosperity required to afford such a dream is physically unavailable.[^1] Another limitation involves people and how they work collectively, which is the focus of this chapter.
-18.1 Personality
+
+## 18.1 Personality
 Discussion of personality may seem out of place in a physics-based textbook. But how we react to a looming crisis-both individually
 Easter Island stands as a testament to humans' ability to do really dumb things, like cutting every tree on the island. Who cut down the last one? Photo by Sophie Hurel.
 
 18.1 Personality.
 304
 Consequences and Coping 307
-18.2 Policy vs. Individual Action 309 18.3 The Energy Trap
+
+## 18.2 Policy vs. Individual Action 309 18.3 The Energy Trap
 310
-18.4 Fermi Paradox Explained?. 312 18.5 Upshot on Humanity.
+
+## 18.4 Fermi Paradox Explained?. 312 18.5 Upshot on Humanity.
 313
-18.6 Problems . .
+
+## 18.6 Problems . .
 313
 
 [^1]: If it were easy to conjure wealth, energy, and material goods, why would any person or country be poor?

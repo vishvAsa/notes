@@ -42,7 +42,8 @@ One prevalent theme connects most of these entries: lots of electricity, often b
 
 [^4]:
 which requires a lot of heat
-10.2 Alternatives vs. Renewables
+
+## 10.2 Alternatives vs. Renewables
 Before going further, we should clarify the difference between "alterna- tive" and "renewable" resources.
 Definition 10.2.1 Alternative Energy is a non-fossil source of energy. Solar, wind, and nuclear would be examples.
 Definition 10.2.2 Renewable Energy is a source of energy that is replen- ished by nature, so that its use may be sustained "indefinitely," without depletion. Solar energy, for instance is not "used up" by placing a panel in the sunlight.
@@ -138,7 +139,8 @@ the earth.
  167
 deposit of heat left over from the collapse/formation of the earth, the other half coming from radioactive decays of elements ultimately tracing to ancient astrophysical cataclysms.[^10] For both the formation and radioactive contributions, the supply is not replenished after its use, although the timescale for the radioactive decays to fade away is billions of years.
 Nuclear fusion needs deuterium and tritium." Roughly one out of every 10,000 hydrogen atoms is deuterium, so ocean water (H2O) will have enough deuterium to last billions of years. Tritium, however, is not found naturally and must be synthesized from lithium, in finite supply. Details will follow in Chapter 15.
-10.3 Renewable Energy Budget
+
+## 10.3 Renewable Energy Budget
 Notice that all of the unqualified12 "Yes" entries in Table 10.1 originate from the sun. For that matter, fossil fuels represent captured ancient solar energy, stored for all these years. The sun sends energy toward the earth at a rate of 1,360 W/m2. Multiplying this by the projected area13 of the earth (R≈ 1.28 x 1014 m2) results in 174,000 TW of solar power intercepting the earth. This number absolutely dwarfs the 18 TW societal energy budget of all humans on Earth. Figure 10.1 shows graphically what happens to this energy input.
 174,000 TW (100%)
 solar input
@@ -258,7 +260,8 @@ Finally, if we only used fossil fuels at a rate of 30 MW,24, then we could consi
 [^23]: Also coming to mind is the Big Bay Boom in San Diego, July 4, 2012, when the entire fireworks display that was meant to last 15-20 minutes all went off in a few dazzling seconds. LMAO. Best ever!
 
 [^24]: This amount of power could supply only a single campus-sized consumer on Earth.
-10.4 Renewable Snapshot
+
+## 10.4 Renewable Snapshot
 Table 7.1 (p. 106) already gave an account of the mix of energy use in the U.S., including many of the renewables. This section revisits those numbers, in slightly more detail.
 
 Source
@@ -308,7 +311,8 @@ Table 10.3: U.S. Renewable energy con- sumption in 2018. The last column compare
 In 2018, roughly 11% of energy in the U.S. came from renewable resources. Table 10.3 lists the contributions from each, the data coming from the Annual Energy Review published by the U.S. Energy Information Administration for 2018. As introduced in Box 7.2 (p. 106), the EIA adopts the practice of assigning a thermal equivalent for each source, in qBtu, even if the source had nothing to do with a thermal process. The rationale is to put everything on the same footing as fossil fuels, for more direct quantitative comparisons. In doing so, they implicitly use the average thermal-to-delivered energy efficiency for fossil fuels of 37.5%.25 In other words, it takes 100 units of thermal fossil energy to produce 37.5 units of useful work. If, then, a solar panel delivers 37.5 units of energy over some amount of time, it will be called 100 units of "input" (thermal equivalent), even though it only delivered 37.5 units.[^26]
 27
 Four forms dominate Table 10.3 (and Figure 10.2), each roughly equal in contribution. Lumping wood and biofuels into a generic "biomass" puts this aggregate category in the clear lead, accounting for nearly half of our renewable energy. As noted, the entries in Table 10.3 are in qBtu of thermal equivalent, and these have been converted to TW, for easy comparison to Table 10.2.28 A key take-away is how tiny the renewable energy numbers are compared to the natural flows in Earth's energy budget.
-10.5 Upshot: Our Path Forward
+
+## 10.5 Upshot: Our Path Forward
 We are now ready to plunge into learning about renewable energy resources. The topics are arranged according to ease of understanding the associated physics, which will be new to many students. So while solar is the most potent of the resources, its chapter follows those of hydroelectricity and wind, since its scheme for generating electricity29 is likely the least intuitive of the three. Biologically-derived energy comes next sharing its direct sunlight origin with solar. Following a foray into nuclear energy, a number of minor contributors that are unlikely to be important are relegated to a single chapter of misfits, for completeness.
 After this, we will be in a position to assess the entire landscape of alternative energy options (Chapter 17). The book will then take a turn
 
@@ -340,7 +344,8 @@ terms.
 [^29]: Hydroelectricity and wind share much in common with conventional power gen- eration schemes, in that they use turbines and generators.
 171
 away from physics and address how all this new information might fit into future plans at societal and personal levels.
-10.6 Problems
+
+## 10.6 Problems
 1. Based on what you already know or suspect about the alternative
    energy sources listed in Section 10.1, which ones do you suspect3 are pollution free (no emissions, no waste)?
 2. Based on what you already know or suspect about the alternative energy sources listed in Section 10.1, which ones do you suspect31 have no negative environmental impacts? Explain your reasoning.

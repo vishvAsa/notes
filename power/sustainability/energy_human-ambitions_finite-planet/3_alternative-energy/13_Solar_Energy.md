@@ -315,7 +315,8 @@ That said, PV installations often combine panels in both series and parallel-lik
 206
 
 [^39]: Making things worse, the voltage drop in the lines is proportional to current, di- minishing an already small voltage to even less by the time it gets to its application.
-13.4 Insolation
+
+## 13.4 Insolation
 Let's start our journey from the physics principles we covered in Section 13.2. The sun's surface is a sweltering 5,770 K, meaning that it emits oT4≈ 6.3 x 107 W/m2 over its surface. The sun's radius is about 109 times that of the earth's,[^40] which itself is 6,378 km at the equator. Multiplying the radiation intensity by the area gives total power output: 4πRσт4≈ 3.82 × 1026 W. That's one bright bulb!
 42
 Sunlight spreads out uniformly into a sphere expanding from the sun. By the time it reaches Earth, the sphere has a radius equal to the Earth-Sun distance, which is reo = 1.496 x 1011 m.[^41] Spreading 3.82 × 1026 W over a sphere of area 47r computes to 1,360 W/m2. That's what we call the solar constant [4], and it's a number worth committing to memory.

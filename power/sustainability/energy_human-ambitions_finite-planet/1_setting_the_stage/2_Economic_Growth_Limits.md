@@ -41,7 +41,8 @@ Figure 2.2: Energy intensity of countries, on a log-log plot. The vertical axis 
 2 Economic Growth Limits 
 20 
 and outsources much of its heavy industry. Somebody should probably check on what's happening in Venezuela.5 
-2.2 Decoupling and Substitution 
+
+## 2.2 Decoupling and Substitution 
 As economies expand beyond subsistence level, a larger fraction of the total activity can go to "frivolous" elements, such as art and entertainment. The intensity of such activities can be quite low. An art collector may pay $1 million for a coveted painting. Very little energy is required. The painting was produced long ago. It may even remain on display in the same location-only the name of the owner changing. Financial transactions that require no manufacture, transport, and negligible energy are said to be "decoupled" from physical resources. Plenty of examples exist in society, and are held up by economists as illustrating how we can continue to expand the economy without a commensurate expansion of resource needs." 
 Definition 2.2.1 Decoupling is the notion that economic activities need not be strongly tied to physical (e.g., energy) requirements, so that energy intensity might become arbitrarily small. The degree to which some economic activity is decoupled forms a continuous scale, where intense utilization of energy and physical resources (e.g., steel production) are on one end and fine art dealing on the other? The only way for an economy to maintain growth in the event that physical sector growth becomes limited is to increase the degree of decoupling in the society. 
 The dream is that as development progresses, economic energy intensity may decline (greater decoupling) so that more money is made per unit of energy expended. If the economy can decouple from energy needs, we are not constrained in our quest to continue economic growth, bringing smiles to the faces of investors and politicians. Such a transition would mean less emphasis on energy and resource-intensive industrial development/manufacturing, and more on abstract services, broadly 
@@ -146,7 +147,8 @@ limited to the same set of elements.
 ..e.g., in basements or garages or of- 
 [12]: Garret (2014), Rebound, Backfire, and the Jevons Paradox 
  
-2.3 Physically Forced Economic Limits 
+
+## 2.3 Physically Forced Economic Limits 
 Let us now consider a thought experiment. We will use Figure 2.4 as a guide as we go along. Colored numbers in the following text point to similarly-colored labels in the figure. We start by positing a constant growth rate for the entire economy (point 1; red curve in Figure 2.4) following the familiar 2.3% annual growth rate, picked for its convenient factor of 10 each century. Meanwhile, the scale of physical resources (energy, materials) in the economy also climbs at the same rate, starting at point 2. The vertical gap between the curves at the left-hand edge conveys that the economy is not 100% physical in the beginning: the total economy is larger than the physical piece.[^18] 
 2 Economic Growth Limits 24 
 Verify this for yourself in Figure 2.4! 

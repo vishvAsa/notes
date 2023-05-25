@@ -128,7 +128,8 @@ Cp = 0.44 (44%), and the green curve-which rolls over from the cubic function an
 [77]: Fischer et al. (2017), "Statistical learning for windpower: a modeling and stability study towards forecasting"demonstrates the aspects covered in the previous paragraph: "cutting in" just above 3 m/s and maxing out (saturating) beyond about 12 m/s. In between, it closely follows a cubic function at an overall efficiency of 44% (blue curve).
 12 Wind Energy
 191
-12.3 Wind Installations
+
+## 12.3 Wind Installations
 24
 Global wind installations are rising rapidly, currently (as of 2020) above 600 GW of installed capacity.[^23] Table 12.2 lists the major players, in terms of installed capacity, average generation, fraction of total energy, capacity factor, and share of global wind generation. The amount of wind energy in each country depends on a combination of how much wind is available in the country, how fast electricity demand is growing, electrical infrastructure, and political interest in renewable energies.
 
@@ -225,7 +226,8 @@ Wind capacity factor
 12 Wind Energy
 193
 Figure 12.11: Capacity factor for wind in- stallations by state (based on 2018 data).
-12.4 Upshot: Wind is not Overblown
+
+## 12.4 Upshot: Wind is not Overblown
 Wind has surged tremendously in the last decade (Fig. 7.5; p. 108), proving to be an economically viable and competitive resource. But how much could we expect to get from wind?
 Putting a few of the previous results together, If the entire contiguous U.S. (area ~1013 m2) were developed for wind at an estimated power density of 0.2 W/m2-which was based on a 5 m/s average wind speed-and a capacity factor of 33%, the U.S. could theoretically produce 0.7 TW30 from wind-roughly 20 times what is produced today. We should take this crude estimate as an extreme upper end, since it is inconceivable that we would develop wind so fully as to never be more than a few hundred meters- -a few rotor diameters-away from a wind turbine, no matter where we go. Also, many areas are sub-threshold and would not support investment in wind development.
 Even so, the inflated 0.7 TW estimate falls short of the current 3.3 TW energy demand in the U.S., has major intermittency problems, and is not in a form that can be well-used in all sectors, like transportation and industrial processing. While wind alone cannot replace fossil fuels at the current level of demand, it can doubtless be a significant contributor.
@@ -253,7 +255,8 @@ Wind is regionally variable: many places do not produce enough wind to support d
 dangerous to birds and bats;
 Esthetic objections to noise and degradation of scenery hamper expansion.
 [68]: (2020), Life Cycle GHG Emissions
-12.5 Problems
+
+## 12.5 Problems
 1. A modest slap32 might consist of about 1 kg of mass moving at
    2 m/s. How much kinetic energy is this?
 2. A hard slap might consist of about 1 kg of mass moving at 10 m/s. How much kinetic energy is this, and how much warmer would 10 g of skin33 get if the skin has the heat capacity properties of water, as in the definition of a calorie (Sec. 5.5; p. 73 and Sec. 6.2; p. 85 are relevant)?

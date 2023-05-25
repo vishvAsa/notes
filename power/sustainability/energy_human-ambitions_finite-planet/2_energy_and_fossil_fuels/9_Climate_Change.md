@@ -3,7 +3,8 @@ title = "9 Climate Change"
 
 +++
 Climate change stands tall among the global scale problems created by our energy appetite caused by the accumulation of carbon dioxide (CO2) in our atmosphere from the burning of fossil fuels. This chapter aims to provide a no-nonsense account of the basis for climate change that leaves little room for the kind of uncertainty often injected by (alarmingly successful) disinformation campaigns. While the response of our complex climate system is more difficult to predict in detail, the core physics is unassailable. We will see that the rise in CO2 is not at all mysterious, stemming from fossil fuels. We will also explore a few scenarios and connect the CO2 rise to temperature consequences. 
-9.1 The Source of CO2. 
+
+## 9.1 The Source of CO2. 
 138 
 CO2 Measurements 
 139 

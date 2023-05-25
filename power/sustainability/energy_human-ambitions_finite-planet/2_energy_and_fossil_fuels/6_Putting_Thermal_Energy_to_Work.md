@@ -23,7 +23,8 @@ Consumer Metrics.
 [34]: U.S. Energy Inform. Administration (2011), Annual Energy Review 
 
 [^1]: The exceptions are wind, hydroelectricity, and solar. 
-6.1 Generating Heat 
+
+## 6.1 Generating Heat 
 Before diving in to thermal issues, let's do a quick run-down of the various ways we can generate heat. 
 Example 6.1.1 Ways to Generate Heat: Roughly arranged according to degree of sophistication: 
 A locomotive engine as an example heat engine. Photo credit: South Australian Govern- ment Photographer. 
@@ -63,7 +64,8 @@ alcohol
 2,400 
 3,500 
 4,184 
-6.2 Heat Capacity 
+
+## 6.2 Heat Capacity 
 First, we'll connect a basic thermal concept to something we already covered in Sec. 5.5 (p.73) in the context of the calorie. The statement that it takes 1 kcal to heat 1 kilogram of H2O by 1°C is in effect defining the specific heat capacity of water. In SI units, we would say that H2O has a specific heat capacity of 4,184 J/kg/°C.2 Very few substances top water's specific heat capacity. Most liquids, like alcohols, tend to be in the range of 2,000 J/kg/°C. Most non-metallic solids (and even air) come in around 1,000 J/kg/°C. Metals are in the 130-900 J/kg/°C range-lighter metals at the top, and heavier ones at the lower end.[^3] Table 6.1 provides a sample of specific heat capacities for common substances. 
 Knowing the specific heat capacity of a substance allows us to compute how much energy it will take to raise its temperature. A useful and approximate guideline is to treat water as 4,000 J/kg/°C and all other stuff (air, furniture, walls) as 1,000 J/kg/°C. Mixtures, like food, might be somewhere between, at 2,000-3,500, due to high water content. If in doubt, 1,000 J/kg/°C is never going to be too far off. For estimation purposes, deviate from this only for high water-content1 or for metals.[^5] 
 Example 6.2.1 A 2,000 kg pick-up truck is transporting a one-cubic- meter container of water. How much energy will it take to raise the temperature of the whole ensemble by 5°C? 
@@ -93,7 +95,8 @@ Example 6.2.2 To compute the amount of energy it will take to heat a 30 kg piece
 [^7]: Although, this would be a good oppor- tunity for a student to make up their own formula, driving home the concept and the fact that equations simply capture a con- cept. Also, the choice of symbols is arbitrary, which the experience would reinforce. 
 
 [^8]: ... assuming 1,000 J/kg/°C 
-6.3 Home Heating/Cooling 
+
+## 6.3 Home Heating/Cooling 
 Our personal experience with thermal energy is usually most connected to heating a living space and heating water or food. Indeed, about two-thirds of the energy used in residential and commercial spaces9 relate to thermal tasks, like heating or cooling the spaces, heating water, refrigeration, drying clothes, and cooking. 
 When it comes to heating (or cooling) a home, we might care about two things: 
 how long will it take to change its temperature by some certain amount; and 
@@ -165,7 +168,8 @@ Cooling a home (or refrigerator interior, or whatever) is also a thermal process
 [^21]: Other possible options are to tolerate a lower internal temperature or move some- place warmer. 
 
 [^22]: In fact, we've had the word "warmth" for a long time, but have not even gotten around to inventing the word "coolth" yet. 
-6.4 Heat Engines 
+
+## 6.4 Heat Engines 
 Now we get to the part where thermal energy can be used to do something other than just provide direct heat to a home. It may seem odd to always 
  
 6 Putting Thermal Energy to Work 

@@ -14,7 +14,8 @@ ESTIMATED YEARLY ENERGY USE
 YOUR COST WILL DEPEND ON YOUR UTLITY RATES AND USE 
 This chapter provides a baseline for understanding the rest of the content in this book, so that students may learn to interpret and convert units, while building a useful intuition in the process. Sec. A.10 (p. 370) in the Appendices offers some tips on manipulating units and performing unit conversions. 
 Unlike most chapters, this one does not tell a single story or advance our perspective on the world. But it builds a foundation, putting us in a position to start looking at consequential matters of energy use in our society in chapters to come. Hopefully, patience will be rewarded. 
-5.1 Energy (J) 
+
+## 5.1 Energy (J) 
 First, what is energy? 
 Definition 5.1.1 Energy is defined as the capacity to do work. Work is well-defined in physics as the application of force through a distance.[^1] The colloquial use of the word “work” matches relatively well, in that pushing a large couch across the floor (applying force through a distance) or lifting a heavy box up to a shelf feels like work and can tire you out. 
 The SI unit of force is the Newton (N), breaking down more fundamen- tally to kg m/s2. The best way to remember this is via Newton's Second Law: F = ma (force equals mass times acceleration). Mass has units of kg, and acceleration2 is measured in meters per second squared. 
@@ -94,7 +95,8 @@ More on gravitational potential energy in Chapter 11.
 [^5]: The force needed to hold against gravity is just F = ma = mg 
 Sec. A.10 (p. 370) in the Appendices pro- vides additional guidance on manipulating units. 
 We'll encounter other ways to describe energy in this book, but any energy unit can always be cast into units of Joules, if desired. Later sections in this chapter detail alternative units whose acquaintance we must make in order to interpret energy information in our lives. 
-5.2 Energy Forms and Conservation 
+
+## 5.2 Energy Forms and Conservation 
 Energy manifests in a variety of forms, which we will treat in greater detail in application-specific chapters in Part III of this text. For now we just want to name them and point to related chapters and applications, as is done in Table 5.2. 
  
 Energy Form 
@@ -155,7 +157,8 @@ Any of the forms of energy (e.g., in Table 5.2) can convert into the other, dire
 One useful clarification is that thermal energy is really just random motions-kinetic energy-of individual atoms and molecules. So in the case of nuclear fission in Example 5.2.1, the initial kinetic energy of the nuclear fragments is already thermal in nature, but at a higher temperature (faster speeds) than the surrounding material. By bumping into surrounding atoms, the excess speed is diffused into the medium, raising its temperature while "cooling" the fragments themselves as they are slowed down. 
 8 
 If accounting for all the possible paths of energy, we are confident that they always add up. Nothing is lost. Energy is never created or destroyed in any process we study. It just sloshes from one form to another, often branching into multiple parallel avenues. The sum total will always add up to the starting amount. Sec. D.2.3 (p. 396) provides a supplement for those interested in better understanding where energy ultimately goes, and why "losing energy to heat" is not actually a loss but just another reservoir for energy. 
-5.3 Power (W) 
+
+## 5.3 Power (W) 
 Before getting to the various common units for energy, we should absorb the very important concept and units of power. 
 Definition 5.3.1 Power is simply defined as energy per time: how much energy is expended in how much time. The SI unit is therefore J/s, which we rename Watts (W). 
 While energy is the capacity to do work, it says nothing about how quickly that work might be accomplished. Power addresses the rate at which energy is expended. Figure 5.2 provides a sense of typical power levels of familiar animals and appliances. 
@@ -200,7 +203,8 @@ Power (Watts), logarithmic scale
 Figure 5.2: Various power levels for comparison and intuition-building. Green entries correspond to metabolic power [33]. Purple entries are devices and appliances. Orange entries are per-capita totals for societal (non-metabolic) energy use. Note that appliances whose job it is to create heat demand the greatest power. The "heating appliance" entry stands for things like microwave ovens, toaster ovens, space heaters, or hair dryers plugged into electrical outlets. Do not take the numbers provided as definitive or exact, as almost everything in the figure will vary somewhat from one instance to another. 
 Of course, we commonly apply the usual multipliers of factors of 103 to the unit to make it more useful. Thus we have the progression W, KW, MW, GW, TW, etc. For reference, a large college campus will require several tens of MW (megawatts) for electricity. A large power plant is typically in the 1-4 GW range. See Table 5.3 for scales at which we are likely to use the various multiplying factors, and a more complete set of multipliers on page 420. 
 Although it won't come up too often in this course, it is worth mentioning that the common unit of horsepower equates to 745.7 W. Thus a 100 hp car is capable of delivering about 75 kW of power. 
-5.4 Kilowatt-hour (kWh) 
+
+## 5.4 Kilowatt-hour (kWh) 
 Definition 5.4.1 The kilowatt-hour is an amount of energy (not a power) resulting from an expenditure of energy at a rate of 1 kW for a duration of one hour, and is the unit of choice for residential electricity usage. 
 This unit causes no end of confusion, but it's really pretty straightforward. The kilowatt-hour is a kilowatt times an hour. Thus it is power multiplied by time, which is energy (since power is energy over time). 
 Example 5.4.1 Let's say you plug in a space heater rated at 1,000 W (1 kW) and run it for one hour. Congratulations-you've just spent 1 kWh. 
@@ -250,7 +254,8 @@ Perhaps related to Box 5.3.
 
 [^13]: 
 . maybe 30 m/s; 67 m.p.h.; 108 k.p.h. 
-5.5 Calories (kcal) 
+
+## 5.5 Calories (kcal) 
 A common unit for describing chemical and thermal processes is the calorie and its siblings. 
 Definition 5.5.1 A calorie is defined as the amount of energy it takes to heat one gram of water (thus also 1 mL, or 1 cm3, or 1 cc) by one degree Celsius (Figure 5.3). One calorie (note the small "c") is 4.184 J of energy. 
 One Calorie (note the capital "C")14 is 1,000 calories, or 1 kilocalorie 

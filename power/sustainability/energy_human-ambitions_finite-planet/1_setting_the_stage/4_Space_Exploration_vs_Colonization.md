@@ -3,7 +3,8 @@ title = "4 Space Exploration vs Colonization"
 
 +++
 This textbook assesses the challenges and limitations imposed upon us by living on a finite planet having finite resources. If harboring expectations that we will break out into a space-faring existence as a way to mitigate our earthly challenges, then it becomes harder for us to respond earnestly to information about where things are headed on Earth. This chapter is placed where it is to "close the exit" so that the content in the rest of the book might become more relevant and worth the investment to learn. Some of the sections in this chapter offer more of an author's perspective than might be typical for a textbook. Some may disagree with the case that is made, but consider that the burden of proof for a way of life unfathomably beyond our current means should perhaps fall to the enthusiasts.1 
-4.1 Scale of Space 
+
+## 4.1 Scale of Space 
 In the span of two hours, we can sit through a movie and "participate" in interstellar travel without getting tired. Let's step out of the entertainment (fiction) industry and come to terms with the physical scale of the real space environment. 
 Describing an analogous scale model of the solar system, galaxy, and universe as we will do momentarily is a fraught exercise, because in order to arrive at physical scales for which we have solid intuition (driving distance in a day?) we end up with inconceivably small (invisible) specks representing familiar objects like the earth. By the time we make Earth the size of something we can hold and admire, the scales become too big for easy comprehension. Figures 4.1 and 4.2 demonstrate how awkward or impossible correctly-scaled graphics are in a textbook. 
 4.1 Scale of Space. 
@@ -151,7 +152,8 @@ Figure 4.3: Galaxies are actually distributed in a frothy foam-like pattern crud
 58 
 travel 
 Given the vastness of space, it is negligent to think of space as a "solution" to our present set of challenges on Earth-challenges that operate on a much shorter timescale than it would take to muster any meaningful space presence. Moreover, space travel is enormously expensive energetically and economically (see Table 4.3). As we find ourselves competing for dwindling one-time resources later this century, space travel will have a hard time getting priority, except in the context of escapist entertainment.[^13] 
-4.2 The Wrong Narrative 
+
+## 4.2 The Wrong Narrative 
 Humans are not shy about congratulating themselves on accomplish- ments, and yes, we have done rather remarkable things. An attractive and common sentiment casts our narrative in evolutionary terms: fish crawled out of the ocean, birds took to the air, and humans are making the next logical step to space-continuing the legacy of escaping the bondage of water, land, and finally Earth. It is a compelling tale, and we have indeed learned to escape Earth's gravitational pull and set foot on another body. 
 But let's not get ahead of ourselves. Just because we can point to a few special example accomplishments does not mean that such examples presage a new normal. A person can climb Mt. Everest, but it is not ever likely to become a commonplace activity. We can build a supersonic passenger airplane for trans-atlantic flight, but it does not mean it will be viable to sustain.[^14] One can set up a backyard obstacle course for squirrels and generate viral videos, but the amusing demonstration does not signal a "new normal" in backyard design. We need to separate the possible from the practical. The moon landings might then be viewed as a nifty stunt a demonstration of capability-rather than a path to our future. We encountered similar arguments in Chapter 2 in relation to decoupling: just because it can happen in certain domains of the economy does not mean that the entire economy can decouple and "defy gravity." 
 The attractive evolutionary argument misses two critical facets of reality. When fish crawled out of the sea, they escaped predation (as the first animals on land) and found new food sources free of competition. That's a win-win: less dangerous, more sustenance.[^15] Likewise, when birds took flight (or we could discuss insects, which beat the birds to it), it was a similar story: evade ground-based predators who could not fly, and access a whole new menu of food-another win-win. 
@@ -204,7 +206,8 @@ ISS
 HST 
 Figure 4.4: The pink band indicates the farthest humans have been from the surface of the earth for the last 50 years. The Hubble Space Telescope (HST) orbits at the top of this band at 600 km altitude, and the International Space Station in the middle at 400 km. Beyond the thin black line outlining the globe, Earth's atmosphere is too tenuous to support life. 
 [30]: (2020), International Space Station 
-4.3 A Host of Difficulties 
+
+## 4.3 A Host of Difficulties 
 If undeterred by the vast emptiness, hostile conditions, or lack of human- supporting resources in space, then maybe it's because you believe 
  
 human ingenuity can overcome these challenges. And this is correct to a degree. We have walked on one other solar system body.[^18] We have had individuals spend a year or so in earth orbit. Either these represent first baby steps to a space future, or just rare feats that we can pull off at great effort/expense. How can we tell the difference? 
@@ -231,7 +234,8 @@ This is not to advocate ocean floor habi- tation as a good idea; it is merely us
 On the subject of terraforming, consider this perspective. Earth right now has a problem of excess CO2 as a result of fossil fuel combustion (the subject of Chapter 9). The problem has flummoxed our economic and political systems, so that not only do we seem to be powerless to revert to pre-industrial CO2 levels, but even arresting the annual increase in emissions appears to be beyond our means. Pre-industrial levels of CO2 measured 280 parts per million (ppm) of the atmosphere, which we will treat as the normal level. Today's levels exceed 400 ppm, so that the modification is a little more than 100 ppm, or 0.01% of our atmosphere.[^21] Meanwhile, Mars' atmosphere is 95% CO2. So we might say that Earth has a 100 ppm problem, but Mars has essentially a million part-per- million problem. On Earth, we are completely stymied by a 100 ppm 
 CO2 increase while enjoying access to all the resources available to us on the planet. Look at all the infrastructure available on this developed world and still we have not been able to reverse or even stop the CO2 increase. How could we possibly see transformation of Mars' atmosphere into habitable form as realistic, when Mars has zero infrastructure to support such an undertaking? We must be careful about proclaiming notions to be impossible, but we can be justified in labeling them as outrageously impractical, to the point of becoming a distraction to discuss. Figure 4.5 further illustrates the giant gap between tolerable conditions and actual atmospheres on offer in the solar system. 
 We also should recall the lesson from Chapter 1 about exponential growth, and how the addition of another habitat had essentially no effect on the overall outcome, aside from delaying by one short doubling time. Therefore, even if it is somehow misguided to discount colonization of another solar system body, who cares? We still do not avoid the primary challenge facing humanity as growth slams into limitations in a finite world (or even finite solar system, if it comes to that). 
-4.4 Exploration's Role 
+
+## 4.4 Exploration's Role 
 It is easy to understand why people might latch onto the idea that we will likely leverage our exploration of space into ultimate colonization. Much as early explorers of our planet opened pathways for colonization of "new worlds," the parallels in exploring literal new worlds like planets are obvious.[^22] In short, it is a familiar story, and therefore an easy "sell" to primed, undoubting minds. Plus, we're captivated by the novelty and challenge space colonization represents as attested by a vibrant entertainment industry devoted to stories of eventual life in space. But not all exploration leads to settlement, and entertainment is not truth. 
 Humans have explored (a small portion of) the crushing deep ocean, scaled Earth's highest and wholly inhospitable peaks, and visited the harsh ice cap at the north pole. In such instances, we had zero intention of establishing permanent residence in those locations. They represented 
 4 Space Colonization 61 
@@ -286,7 +290,8 @@ nature.
 
 [^25]: Staffed research stations are not the same as human settlements, in the case of Antarctica. 
 [32]: IPAC/NASA (2020), NASA Exoplanet Archive 
-4.5 Upshot: Putting Earth First 
+
+## 4.5 Upshot: Putting Earth First 
 The author might even go so far as to label a focus on space colonization in the face of more pressing challenges as disgracefully irresponsible. Diverting attention in this probably-futile26 effort could lead to greater total suffering if it means not only mis-allocation of resources but perhaps 
 
 [^26]: ... at least on relevant time scales 
@@ -302,7 +307,8 @@ It would be fascinating to do a survey to find out how many people think that we
 [^27]: Prospects for a plan are discussed in Chapter 19. 
 
 [^28]: Tempted as we may be by the e-mail offer from the displaced Nigerian prince to help move his millions of dollars to a safe account, most of us know better than to bite. The promise of wealth can lead the gullible to ruin. 
-4.6 Problems 
+
+## 4.6 Problems 
 1. If the sun were the size of a basketball, how large would Earth be, and how far away? How large would the moon be, and how far from Earth, at this scale? 
 2. Find objects whose sizes approximately match the scales found in Problem 1 and place them in your environment at the scaled/a ap- propriate distances. Submit a personalized/unique picture of your arrangement. 
 3. How far would the nearest star be at the scale from Problem 1, and 

@@ -677,7 +677,8 @@ E 0.156475
 >1000
 242
 Figure 15.4: Chart of the Nuclides for the low-mass end. Neutron number, N, increases toward the right (green numbering at bottom) and proton number, Z, increases vertically (blue numbering at left). Scientific notation is expressed as, e.g., 8e-23, meaning 8 x 10-23. A wealth of information is included: spend some time studying the surrounding guides to learn what data each box contains.
-15.2 Radioactive Decay
+
+## 15.2 Radioactive Decay
 When one nuclide, or isotope changes into another, it does so by the process of radioactive decay. Stable nuclides have no incentive to undergo such decays, but unstable nuclides will seek a more stable configuration through the decay process.
 8
 The black squares in Figure 15.3, or gray squares in Figure 15.4 are stable, leaving all others as unstable, meaning that they will undergo radioactive decay to a different nucleus after some time interval that is characterized by the nuclide's half life.
