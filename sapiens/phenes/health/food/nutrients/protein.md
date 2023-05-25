@@ -25,8 +25,10 @@ Below percentages are by weight.
 ### Milk products
 Before processing, about 20% of the protein in milk is whey (fast-digesting, आमीक्षा।) and the other 80% is made up of the slower-digesting casein proteins. Both high quality proteins.
 
-- yoghurt
-  - regular - 3.5%
+More lactose tolerant people in NW India - they consume much diary and low meat/ eggs etc; among tallest.
+
+- yoghurt, milk
+  - regular - 3.2%; 4.7% lactose - 2.25 INR/g (2023) 
 - Whey concentrate - 80% 
 - Whey isolate - 90%
 - Cheese

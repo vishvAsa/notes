@@ -8,4 +8,4 @@ ati-bhakShaNAt prAptA nidrAvasthA.
 
 ## Eating out
 
-Most restaurants and food venues give more than enough food for one meal. Don’t eat it all at once. When eating out, take home leftovers and have 2 meals for the price of 1.
+Most restaurants and food venues give more than enough food for one meal. Don’t eat it all at once. When eating out, take home leftovers have 2 meals for the price of 1.
