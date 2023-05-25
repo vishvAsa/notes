@@ -15,17 +15,32 @@ title = "Protein"
 
 ## Sources
 - A healthy way to ensure adequate intake of protein is to eat proteins in all 3 major meals. If you are into intense workouts, consider consuming your protein shake/ protein meal 15-30 minutes post-workout in addition.
+
+Below percentages are by weight.
+
+### Egg
+- Egg whole - 6.5% - 1.25 INR/g (2023)
 - egg white raw - 11% by weight
 
 ### Milk products
 Before processing, about 20% of the protein in milk is whey (fast-digesting, आमीक्षा।) and the other 80% is made up of the slower-digesting casein proteins. Both high quality proteins.
 
-- Low fat paneer 22%
 - yoghurt
   - regular - 3.5%
 - Whey concentrate - 80% 
 - Whey isolate - 90%
-- 88.8%. 31 grams has 24 grams of protein. 
+- Cheese
+  - Oft comes in 200g packs in India. 
+  - Hard (less water) - higher protein, less lactose 
+    - Cheddar - 24% - 2.8 INR/g (2023) 
+      - Aged. More sodium. 
+  - Soft
+    - Paneer - 16% - 3.1 INR/g (2023)
+      - Low fat paneer 22%
+    - Mozzarella - 22% - 3.2 INR/g (2023)
+  - Mixed
+    - Amul mozarella cheddar blend - 23% - 2.6 INR /g, 2 INR/g in 1kg bulk (2023)
+    - Cheese slices - more plastic, additives.
 
 
 ### Pulses and beans
@@ -56,7 +71,7 @@ Before processing, about 20% of the protein in milk is whey (fast-digesting, आ
   - 1 nut - 9 cals, .2g proten, 1.6g
 
 ### Other Supplements
-- [proteinchef blr](https://proteinchef.fit/products/protein-powder-for-cooking?variant=42874795163903) 
+- [proteinchef blr](https://proteinchef.fit/products/protein-powder-for-cooking?variant=42874795163903)  - 1 INR/ g (2023)
 - preteinchef pro - 72% (12% carb)
 
 #### Desiderata
