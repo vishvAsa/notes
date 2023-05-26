@@ -15,6 +15,7 @@ title = "Protein"
 
 ## Sources
 - A healthy way to ensure adequate intake of protein is to eat proteins in all 3 major meals. If you are into intense workouts, consider consuming your protein shake/ protein meal 15-30 minutes post-workout in addition.
+  - 2023 V - roughly 18g from millets/ quinoa / oats. Maybe +++(TODO??)+++ 20g from lentils + yogurt + nuts.
 
 Below percentages are by weight.
 
@@ -73,8 +74,9 @@ More lactose tolerant people in NW India - they consume much diary and low meat/
   - 1 nut - 9 cals, .2g proten, 1.6g
 
 ### Other Supplements
-- [proteinchef blr](https://proteinchef.fit/products/protein-powder-for-cooking?variant=42874795163903)  - 1 INR/ g (2023)
+- [proteinchef blr](https://proteinchef.fit/)  - 1 INR/ g (2023)
 - preteinchef pro - 72% (12% carb)
+- US ranking [here](https://cleanlabelproject.org/product-categories/?refinementList%5BCategory%5D%5B0%5D=Health%20%26%20Fitness).
 
 #### Desiderata
 - About 200 or fewer calories

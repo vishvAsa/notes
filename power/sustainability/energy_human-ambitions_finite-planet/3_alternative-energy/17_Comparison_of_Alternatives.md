@@ -253,8 +253,7 @@ Table 17.1 summarizes the outcome of this experiment, in which we see broad agre
 
 [^26]: ... though no natural tritium
 
-[^27]:
-or we would not even consider D-T
+[^27]: or we would not even consider D-T
 
 [^28]: One wonders if students in colder climates would disregard heating capability.
 
