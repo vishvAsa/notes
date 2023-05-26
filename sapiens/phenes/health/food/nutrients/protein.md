@@ -13,11 +13,51 @@ title = "Protein"
 - Once you reach ages 40–50, sarcopenia, or losing muscle mass as you age, begins to set in. To prevent this and to maintain independence and quality of life, your protein needs increase to about 1–1.2 grams per kilogram or 55–66 grams per day for a 55-kilogram person.
 - Active lifestyle with weight training - 90g for 55kg
 
+<details><summary>Average consumption IN 2011-12</summary>
+
+| State          | protein intake day per | (gm) per capita |
+|----------------|------------------------|-----------------|
+| rural          | urban                  |                 |
+| (1)            | (2)                    | (3)             |
+| Andhra Pradesh | 59.9                   | 59.3            |
+| Assam          | 55.1                   | 54.9            |
+| Bihar          | 62.9                   | 60.9            |
+| Chhattisgarh   | 51.7                   | 55.8            |
+| Gujarat        | 53.7                   | 56.3            |
+| Haryana        | 72.8                   | 68.6            |
+| Jharkhand      | 54.7                   | 60.3            |
+| Karnataka      | 56.0                   | 59.1            |
+| Kerala         | 61.0                   | 62.7            |
+| Madhya Pradesh | 65.0                   | 63.1            |
+| Maharashtra    | 60.7                   | 61.2            |
+| Odisha         | 53.4                   | 55.9            |
+| Punjab         | 70.0                   | 64.9            |
+| Rajasthan      | 71.9                   | 66.7            |
+| Tamil Nadu     | 53.3                   | 55.7            |
+| Uttar Pradesh  | 62.6                   | 61.1            |
+| West Bengal    | 55.6                   | 57.9            |
+| all-India      | 60.7                   | 60.3            |
+</details>
+
+
 ## Sources
 - A healthy way to ensure adequate intake of protein is to eat proteins in all 3 major meals. If you are into intense workouts, consider consuming your protein shake/ protein meal 15-30 minutes post-workout in addition.
   - 2023 V - roughly 18g from millets/ quinoa / oats. Maybe +++(TODO??)+++ 20g from lentils + yogurt + nuts.
 
 Below percentages are by weight.
+
+<details><summary>Indian sources table</summary>
+
+Rural protein sources - 
+
+<div class="spreadsheet" src="../protein-sources-rural.tsv" fullHeightWithRowsPerScreen=8> </div>  
+
+Urban protein sources -
+
+
+<div class="spreadsheet" src="../protein-sources-urban.tsv" fullHeightWithRowsPerScreen=8> </div>  
+</details>
+
 
 ### Egg
 - Egg whole - 6.5% - 1.25 INR/g (2023)

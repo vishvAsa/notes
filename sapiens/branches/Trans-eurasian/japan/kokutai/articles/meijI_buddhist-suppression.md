@@ -1,0 +1,6 @@
++++
+title = "meijI buddhist-suppression"
++++
+
+The haibutsu kishaku during the Meiji Restoration, the most famous instance of the phenomenon, was an event triggered by the official policy of separation of Shinto and Buddhism (or shinbutsu bunri) that after 1868 caused great damage to Buddhism in Japan. The destruction of Buddhist property took place on a large scale all over the country. For example, Kōfuku-ji in Nara suffered greatly. The temple was hit with full force by the movement. The temple's land was seized, the priests forced to become Shinto priests, walls were torn down, trees were planted, and the area became part of one of the city's parks.[2] The anti-Buddhist riots caused damage to all large temples of the city.[3] The violence marked permanently every region of the country. Between 1872 and 1874, 18 thousand temples were eradicated, and maybe as many again from 1868 to 1872.[4] Japanologist Martin Collcutt believes Japanese Buddhism was on the verge of total eradication.[4]
+It is estimated that 40,000 Buddhist temples were destroyed in Japan during this disastrous nationwide anti-Buddhist mayhem, and in certain places the percentage of Buddhist temples destroyed reached 80%.[9]
