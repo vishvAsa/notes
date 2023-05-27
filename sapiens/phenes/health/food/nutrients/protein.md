@@ -84,7 +84,7 @@ More lactose tolerant people in NW India - they consume much diary and low meat/
   - Mixed
     - Amul mozarella cheddar blend - 23% - 2.6 INR /g, 2 INR/g in 1kg bulk (2023)
     - Cheese slices - more plastic, additives.
-
+- Ghee, butter - 0%. (\~ 100% fat)
 
 ### Pulses and beans
 - Chickpeas Garbanzos Bengal gram (sattu is it's flour) - 8.9%

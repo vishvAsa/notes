@@ -235,90 +235,58 @@ For the remaining categories: it is electricity only; we might expect little res
 ### D-T Fusion 
 (Sec. 15.5; p. 264): The easier of the two fusion options, involving deuterium and tritium, represents a longstanding goal under active development since 1950. The well-funded international effort, ITER, plans to accomplish a 480 second pulse of 500 MW power[^25] by 2035. This defines the pinnacle of hard. Fusion brings with it numerous advantages: enormous power density; only moderate radioactive waste products; and abundant deuterium.[^26] Fusion would have no intermittency issues, can directly produce heat and derivative electricity, but like the others does not directly address transportation. The non-existent tritium can be knocked out of lithium with neutrons, and even though we are not awash in lithium, we have enough to last many thousands of years in the absence of demand for batteries. We might expect some public opposition to D-T fusion due to the necessary neutron flux and associated radioactivity. Fusion is the highest-tech energy we can envision at present, requiring a team of well-educated scientists/technicians to run-meaning don't plan on building one in your backyard, unless you can afford to have some staff PhDs on hand.
 
-### D-D Fusion
-(Sec. 15.5; p. 264): Replacing tritium with deuterium means abundance of materials is no concern whatsoever for many billions of years. As a trade, it's substantially harder than D-T fusion.[^27] D-D fusion requires higher temperatures, making confinement that much more difficult. It is for this reason that we make a single exception to the scoring scheme and give D-D fusion a -2 score for difficulty.
-
-## 17.3 Student Rankings
-In Winter 2020, students at UC San Diego did Problem 11 from this chapter, which asks them to come up with their own weighting for the ten attributes in the comparison matrix, rather than the simple but poorly-justified practice of giving each category the same weight. This section reports the result from that exercise.
-
-On average, the weights did not deviate dramatically from uniform, the adjustments being within a factor of 1.5 for all cases: ranging from 0.66 to 1.47, when each student's weighting was re-normalized after the fact to add to ten points. The attributes getting a clear boost were abundance, efficiency, and transportation capability. Those getting lower weight were the backyard criterion, acceptance, and ability to produce heat.2 What this is that students, on the whole, value solutions that can says get the job done efficiently and preserve transportation, not caring as much about individual resilience or acceptance.
-
-29
-28
-Table 17.1 summarizes the outcome of this experiment, in which we see broad agreement with the nominal uniform-weighting scheme, mostly serving to downgrade the scores of some entries, and only promoting one (thorium breeding). Note that the exercise preserved the blue/yellow/red color scheme of the figures and only changed relative
-
-299
-
 [^25]: Compare to a real power plant: yearslong "pulse" at 3,000 MW thermal power.
 
 [^26]: ... though no natural tritium
 
+### D-D Fusion
+(Sec. 15.5; p. 264): Replacing tritium with deuterium means abundance of materials is no concern whatsoever for many billions of years. As a trade, it's substantially harder than D-T fusion.[^27] D-D fusion requires higher temperatures, making confinement that much more difficult. It is for this reason that we make a single exception to the scoring scheme and give D-D fusion a -2 score for difficulty.
+
 [^27]: or we would not even consider D-T
+
+## 17.3 Student Rankings
+In Winter 2020, students at UC San Diego did Problem 11 from this chapter, which asks them to come up with their own weighting for the ten attributes in the comparison matrix, rather than the simple but poorly-justified practice of giving each category the same weight. This section reports the result from that exercise.
+
+On average, the weights did not deviate dramatically from uniform, the adjustments being within a factor of 1.5 for all cases: ranging from 0.66 to 1.47, when each student's weighting was re-normalized after the fact to add to ten points. The attributes getting a clear boost were abundance, efficiency, and transportation capability. Those getting lower weight were the backyard criterion, acceptance, and ability to produce heat.[^28] What this is that students, on the whole, value solutions that can says get the job done efficiently and preserve transportation, not caring as much about individual resilience or acceptance.
+
 
 [^28]: One wonders if students in colder climates would disregard heating capability.
 
 [^29]: In other words, centralized power less bound by public opinion is okay.
 
-300
+Table 17.1 summarizes the outcome of this experiment, in which we see broad agreement with the nominal uniform-weighting scheme, mostly serving to downgrade the scores of some entries, and only promoting one (thorium breeding). 
+
+[[300]]
+
 Table 17.1: Result of student weighting of the comparison matrix attributes. Notable gaps between scores appear between fossil fuels and solar, between solar and the middle group, and between the middle group and the final group (right). When differences between student scores and the nominal scores in Figures 17.1 and 17.2 exceed rounding error, the result is shown as a A, helping highlight the main differences between student scoring and the nominal uniform-weight result.
-Resource
-Score Δ
-Resource
-Score
-A Resource
-Score Δ
-Gas
-7.3
--0.7
-Hydroelectric
-3.6
-Conv. Fission
-1.6
-Oil
-6.8
--0.7
-Algae/Biofuel
-3.6
-Geotherm. Depl.
-1.4
-Coal
-6.7
--0.8
-Geotherm. Elec.
-3.3
--0.7
-D-T Fusion
-1.4
-Solar Heat
-3.2 -0.8
-Wave
-1.3
-Tidal Capture
-3.0
-Ocean Thermal
-1.3
-Solar Thermal
-5.4
-Wind
-2.9
-Ocean Currents
-1.0
-Solar PV
-59
-5.1
-Uranium Breeder
-2.8
-D-D Fusion
-1.0
-Artif. Photosyn. Thorium Breeder
-2.8
-2.5
-+0.5
-Geotherm. Heat Biofuel/Crops
-0.7
-0.4
--0.6
-importance of the attributes-thus much of the behavior is "baked in" based on the author's judgment of color assignment. Still, shifting emphasis on the attributes will shuffle the order somewhat, and that itself is interesting. Any ambitious reader is welcome to mess with the color scheme as well to see what happens.
+
+Resource Score Δ  
+Gas 7.3 -0.7  
+Oil 6.8 -0.7  
+Coal 6.7 -0.8  
+Solar Thermal 5.4  
+Solar PV 59 5.1  
+
+Hydroelectric 3.6  
+Algae/Biofuel 3.6  
+Geotherm. Elec. 3.3 -0.7  
+Solar Heat 3.2 -0.8  
+Wave 1.3  
+Tidal Capture 3.0  
+Ocean Thermal 1.3  
+Wind 2.9  
+D-T Fusion 1.4  
+Ocean Currents 1.0  
+Uranium Breeder 2.8  
+D-D Fusion 1.0  
+Artif. Photosyn. 2.8  
+Conv. Fission 1.6  
+Geotherm. Depl. 1.4  
+Thorium Breeder 2.5 +0.5  
+Geotherm. Heat 0.7  
+Biofuel/Crops 0.4 -0.6
+
+Note that the exercise preserved the blue/yellow/red color scheme of the figures and only changed relative importance of the attributes-thus much of the behavior is "baked in" based on the author's judgment of color assignment. Still, shifting emphasis on the attributes will shuffle the order somewhat, and that itself is interesting. Any ambitious reader is welcome to mess with the color scheme as well to see what happens.
 
 ## 17.4 Upshot: The Fossil Fuel Gap
 The subjective nature of this exercise certainly allows numerous possibilities for modifying the box rankings in one direction or the other. The matrices embody some biases, but no attempt by anyone would be free from bias. The result, in this case, is dramatic. Even allowing some manipulation, the substantial gap between the fossil fuels and their renewable alternatives would require excessive "cooking" to close.
@@ -331,24 +299,25 @@ A key take-away from this chapter is that we can devise methods to compare dispa
 
 One lesson is that a transition away from fossil fuels does not appear at this time to involve superior substitutes, as has been characteristic of our energy history. The alternatives might be good enough, even if not as good as what we are accustomed to using. Fossil fuels represent a generous one-time gift from the earth. From our current vantage point, it is not clear that energy-vital to our economic activity-will be as cheap, convenient, and abundant as it has been during our meteoric ascent to the present. If not for finite supply and the CO2 problem, fossil fuels would continue to satisfy our energy needs-shifting focus to various other global-scale problems resulting from human pressures on the planet. Because of the downsides of fossil fuels and the inferiority of the substitutes on a number of fronts, it is unclear how we might patch together an energy portfolio out of the alternatives that allows a continuation of our current lifestyle. Even if the physics allows it, many other practical and economic barriers may limit options or successful implementations.
 
-Adding to the hardship is the fact that many of the alternative energy technologies-solar, wind, nuclear power, hydroelectric, and so onrequire substantial up-front energy investment to build and deploy. If society waits until energy scarcity forces large-scale deployment of such alternatives, it risks falling into an "energy trap" in which aggressive use of energy needed to develop a new energy infrastructure leaves less available to society in general-a political non-starter. If there is to be a transition to a sustainable energy regime, it is best to begin it now. 
+Adding to the hardship is the fact that many of the alternative energy technologies-solar, wind, nuclear power, hydroelectric, and so on require substantial up-front energy investment to build and deploy. If society waits until energy scarcity forces large-scale deployment of such alternatives, it risks falling into an "energy trap" in which aggressive use of energy needed to develop a new energy infrastructure leaves less available to society in general - a political non-starter. If there is to be a transition to a sustainable energy regime, it is best to begin it now.+++(4)+++ 
 
 ## 17.5 Problems
 1. What is your overall assessment of our energy future given the presentation of alternatives to fossil fuels presented in this chapter? What key take-aways do you form?
-2. What, to you, is the biggest surprise in the rank order of alternatives
-   in Figure 17.2?
+2. What, to you, is the biggest surprise in the rank order of alternatives in Figure 17.2?
 3. One consideration not present in the alternative energy matrix is EROEI. Identify at least one example that would likely receive a boost (move up in the rankings) if EROEI is considered, and at least one example that would likely move down as a result of considering it. Refer back to Chapter 14, both tables and text.
 4. (Suggest double-credit problem) Count up the number of blue, yellow, and red squares for all ten attributes (columns) in Figure 17.2. Score each attribute the same way as energy resources were scored: +1 for blue; nothing for yellow; -1 for red.
-   a) What category has the highest score? What does this tell you
-   about alternative energy in terms of what is easy?
-   b) What category has the lowest score? What does this tell you about what attribute is hardest to satisfy in energy production?
-   c) Which two categories have the largest number of blue squares and which two have the lowest number? What do you learn in terms of what is easy and not so easy?
-   d) Which category has the largest number of red squares and which two have the lowest number? What do you learn in terms of what is hardest and what is least difficult to satisfy?
-   30: ... which could conceivably get only worse if humans "solved" energy, effectively unconstrained
-   See Sec. 18.3 (p. 310) for more discussion of the energy trap.
-   31: We can't count on better options showing up, and may need to get busy migrating to available choices. Fossil fuels not only drive climate change, but create an addiction that is best tapered slowly rather than risk chaos and war if we remain completely reliant on a dwindling crucial resource.
+a) What category has the highest score? What does this tell you
+about alternative energy in terms of what is easy?
+b) What category has the lowest score? What does this tell you about what attribute is hardest to satisfy in energy production?
+c) Which two categories have the largest number of blue squares and which two have the lowest number? What do you learn in terms of what is easy and not so easy?
+d) Which category has the largest number of red squares and which two have the lowest number? What do you learn in terms of what is hardest and what is least difficult to satisfy?
    
-    302
+
+[^30]: ... which could conceivably get only worse if humans "solved" energy, effectively unconstrained. See Sec. 18.3 (p. 310) for more discussion of the energy trap.
+
+[^31]: We can't count on better options showing up, and may need to get busy migrating to available choices. Fossil fuels not only drive climate change, but create an addiction that is best tapered slowly rather than risk chaos and war if we remain completely reliant on a dwindling crucial resource.
+
+302
 5. Why is it so hard to satisfy transportation needs? What is it about fossil fuels that has made transportation so much easier than electrified transport would be?
 6. Verify-showing work-the claim on page 292 that a car refueling at a gasoline station is transferring energy at a rate in the neighborhood of 15 MW if the transfer rate is about 6 gallons (23 L) per minute32 and gasoline contains about 34 MJ per liter.
 7. What is at about the backyard33 attribute that earns so many red scores? What does this tell you about access to energy and the complexity of its capture/use?
@@ -359,9 +328,12 @@ Adding to the hardship is the fact that many of the alternative energy technolog
    b) What is most encouraging about the prospect of obtaining liquid fuels from sunlight? What problems does it solve for solar power and for transportation?
 10. Figure 17.2 left out firewood as an energy resource, even though it has been with us for a long time and will no doubt continue to provide home heating. What would the ten colors be for this resource of intermediate abundance in the context of home heating? What would its score be, and which sources is it then tied with? Justify each of your color choices.
 11. (Suggest triple-credit problem) For the sake of simplicity and transparency, the scoring system used a simple uniform weighting for each of the 10 attributes, but it is unlikely all ten are equally important. Make up your own weighting scheme. 34 For each energy resource, blue cells add the corresponding category's weight, and red subtracts, and yellow does nothing. Re-score the matrix using your own weights-including the fossil fuels. Now re-order the matrix from highest to lowest score and comment on any major upheaval from the nominal ordering. What are the big surprises? Did the fossil fuel gap persist?
-    32: Time it yourself some time.
-    33: ...just shorthand for energy on a personal scale at home
-    Different students may get different results, but this will provide some appreciation for considerations that enter the creation of such a scoring scheme.
-    34: A category might be worth 2 points, 0.3 points, 5 points, or whatever you wish; need not add to 10
-    First, make sure you can reproduce the scoring in the present table based on all weights being 1.0.
-     
+
+[^32]: Time it yourself some time.
+
+[^33]: ...just shorthand for energy on a personal scale at home 
+
+Different students may get different results, but this will provide some appreciation for considerations that enter the creation of such a scoring scheme.
+
+[^34]: A category might be worth 2 points, 0.3 points, 5 points, or whatever you wish; need not add to 10 First, make sure you can reproduce the scoring in the present table based on all weights being 1.0.
+ 
