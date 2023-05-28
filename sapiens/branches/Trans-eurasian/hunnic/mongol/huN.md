@@ -10,7 +10,7 @@ title: Huns
 ## hunnic khAnates
 - shanyu (Xiongnu) hunnic khAnate \[[MT17](https://manasataramgini.wordpress.com/2017/07/30/mongolica-chingiz-khan-and-the-rest/)\]
 - Xianbei kingdoms - including the Northern Wei in China.
-- Rouran Khanate - probably springing from the Xianbei.
+- Rouran Khanate - probably springing from the Xianbei. Overthrown by their vassals, the Blue Turks.
 - Tuguhun khanate
     - "Hunnic Mongols led by their Kha’Khan Tuguhun established the eponymous kingdom in central Asia (called Azha by the Tibetans). He conquered the Tarim region and extended his sway in direction of Kashgar, taking Khotan in the south and part of what is now Kyrgyzstan. He was what one might call a lesser, proto-version of Chingiz Kha’Khan – he re-organized the administration, introduced a written script for the old Mongolian dialect and even introduced agricultural sectors in his kingdom which complemented the pastoral lifestyle of his peoples. "
 
@@ -19,7 +19,7 @@ title: Huns
 - [Hephthalites](https://en.wikipedia.org/wiki/Hephthalites) (shveta-huNa-s)
 - [Kidarites](https://en.wikipedia.org/wiki/Kidarites)
 - Nezak Huns
-- Altaic (../Xiongnu shanyu-s) confederacy and chingIz (more [here](../))
+- Altaic (Xiongnu shanyu-s) confederacy and chingIz (more [here](../))
 
 ## Chu dynasty in china
 > The Chu Ci or the poetry of the Chu kingdom which has works going back 300 BCE is of great interest in this regard. The ruling clan of the Chu kingdom is supposed to have been one of outsiders coming from the northwest, who took over the custody of this chIna kingdom. They are described as being characterized by a distinctive shamanistic practice involving a fire ritual. The medieval chIna scholar Shen Kuo (1031–1095 CE) made a remarkable observation. In his study of an ancient Chu incantation, known as the Zhao Hun, he noted that a word that comes frequently as the end of the formula pronounced in the Chu language as ‘sai’ corresponded to svAhA in Sanskrit (“sa po he” in Chinese). A Chu poem Tian Wen has also been proposed to bear parallels to verses in the veda and the avesta. The maternal ancestress of the Chu are described by chIna chronicles as being of the Guifang clan. The chIna historians state that they were a clan of the Central Asian pastoralist raiders known as the Xiongnu or Hunyu, who were the Huns of history. The paternal ancestor of the Chu ruling clan is said to be emperor Zhuan Xu. His grandsons Zhongli and Wuhui are supposed to have become Chu ritualist-ministers called the “Officer of Fire” with the title Zhurong (In later chIna parlance apparently Zhu Rong is the name of the fire deity). The chIna text termed Zhou Li (Rituals of Zhou) from around 500 BCE records the duties of such an “Officer of Fire”, named Si Quan, which have no parallels elsewhere in the Han chIna world. He is supposed to issue orders for fire rituals, kindle the new fire at the beginning of each of the four seasons, conduct fire worship with oblations, and maintain the “fire seed” or original fire for the state. These are remarkably parallel to the Indo-Iranian ritual tradition. This when taken together with an observation made by Zhang He appears to be a clincher in this regard. The chIna-s currently term the holy soma plant (Ephedra species) huang ma or ma huang which is taken to mean yellow (huang) ma (hemp). Now the yellowness is indeed a feature of the plant that the Indo-Aryans and Iranians emphasize (hari and zairi).

@@ -69,3 +69,4 @@ The language and script of these people remains a mystery.
 - Decline & fall of Indus Valley Civilization 2000-1700 BC featured abandonment of urban areas & breakdown of trade in both Iran & Arabian Sea. However, population increased in E Punjab & Gujarat.
 - Copper hoards dating to 1750-1250 BC have been found in the Ganga-Yamuna Doab (pictured). They are filled with swords, harpoons, spears, axes, rings, & tools. They were not made from Indus Valley Civilization techniques, leading some to suspect that they are of Aryan origin.
 - Soon after the mature phase, it was subsumed into the Indo-Aryan culture, into whose high echelons some of its elites were incorporated. Details in IA invasion page. 
+  -  IA may've arrived earlier and formed part of elites, gradual IAization probably happened during post-urban era. Kenoyer, Allchin and Possehl suggested this.

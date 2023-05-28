@@ -317,7 +317,8 @@ d) Which category has the largest number of red squares and which two have the l
 
 [^31]: We can't count on better options showing up, and may need to get busy migrating to available choices. Fossil fuels not only drive climate change, but create an addiction that is best tapered slowly rather than risk chaos and war if we remain completely reliant on a dwindling crucial resource.
 
-302
+[[302]]
+
 5. Why is it so hard to satisfy transportation needs? What is it about fossil fuels that has made transportation so much easier than electrified transport would be?
 6. Verify-showing work-the claim on page 292 that a car refueling at a gasoline station is transferring energy at a rate in the neighborhood of 15 MW if the transfer rate is about 6 gallons (23 L) per minute32 and gasoline contains about 34 MJ per liter.
 7. What is at about the backyard33 attribute that earns so many red scores? What does this tell you about access to energy and the complexity of its capture/use?
