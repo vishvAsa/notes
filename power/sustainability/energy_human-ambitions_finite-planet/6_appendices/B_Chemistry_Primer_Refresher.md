@@ -1,5 +1,5 @@
 +++
-title = "B Chemistry Primer/Refresher"
+title = "B Chemistry Primer & Refresher"
 
 +++
 

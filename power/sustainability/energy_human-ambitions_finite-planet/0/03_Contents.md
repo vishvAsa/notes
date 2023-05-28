@@ -259,12 +259,12 @@ title = "03 Contents"
     - D.3.6 Wired Systems
     - D.3.7 Collected Efficiencies
   - D.4 Pushing Out the Moon
+  - D.5 Humanity's Long View 
     - D.5.1 Success vs. Failure .
-    - D.5 Humanity's Long View 
     - D.5.2 Sustainable Living. 
     - D.5.3 Time to Grow Up - 393
     - D.5.4 Frameworks - 407
-    - D.6 Too Smart to Succeed? .- 408
+  - D.6 Too Smart to Succeed? .- 408
     - D.6.1 Evolution's Biggest Blunder? - 411
 - Bibliography - 412
 - Notation - 420
