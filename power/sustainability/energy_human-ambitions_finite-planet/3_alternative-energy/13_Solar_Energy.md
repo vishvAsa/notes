@@ -2,192 +2,192 @@
 title = "13 Solar Energy"
 
 +++
-    Now we come to the main attraction. As we saw in Chapter 10, all of the strictly renewable energy options are ultimately derived from the sun. The two resources of the last two chapters-hydroelectricity and wind-represent tiny crumbs of the overall solar input to the planet.
-    Practically speaking, it is difficult to concoct ways to harness more than a few terawatts of power from hydroelectric or wind-based resources. Similar limitations apply to biologically-derived energy, geothermal, tidal, ocean currents, wave energy, etc. This may be worrisome consid- ering that human society currently demands 18 TW. Meanwhile, the sun delivers 83,000 TW to the earth's surface (Fig. 10.1; p. 167, Table 10.2; p. 168). That's almost 5,000 times more than the demand. By the numbers, then, the sun seems to offer all we might ever need. In fact, the quantitative imbalance is so extreme as to make one wonder why we would ever mess around doing anything else.
-    Yet at present, the U.S. gets only about 0.9% of its energy from solar power, or 2.3% of its electricity. Similarly for the world, 1.2% of global energy is solar (2.1% of the electricity). It would seem to be vastly underutilized.
-    This chapter explains the nature of solar energy, its potential for use, practical considerations, and looks at the state of installations. While most of the focus is on photovoltaic (PV) panels that directly generate electricity from light, solar thermal power generation is also covered.
-    13.1 The Energy of Light
-    Sec. 5.10 (p.79) introduced the basics of the energy of light. This section acts as a refresher and lays the foundation for the rest of the chapter.
-    Photovoltaic cells, showing grid contacts and crystal domains. Photo Credit: Tom Murphy
-    
-    13.1 The Energy of Light. 13.2 The Planck Spectrum 13.3 Photovoltaics
-    . 197
-    199
-    201
-    Theoretical Efficiency..
-    13.4 Insolation
-    202
-    206
-    13.5 Incredible Solar Potential .. 211
-    13.6 Residential Considerations
-    Configurations Sizing and Cost....
-    213
-    213
-    213
-    13.7 Photovoltaic Installations. 215
-    Pros and Cons of PV
-    13.8 Solar Thermal.
-    Passive Solar Heat
-    Solar Thermal Electricity Pros and Cons of ST.. 13.9 Upshot for Solar 13.10Problems.
-    ...217
-    218
-    218
-    .
-    219
-    221
-    221
-    222
-    Light a form of electromagnetic radiation-is composed of photons— individual particles of energy each having a characteristic wavelength- what we might call color. Photons are such tiny quanta of energy that familiar environments are awash in unfathomably large numbers of them. A typical light bulb, for instance, emits quintillions1 of photons every second.
-    Definition 13.1.1 The energy of a single photon, in various forms, is
-    13 Solar Energy
-    1: A quintillion is 1018.
-    198
-    hc
-    2 × 10-19 J
-    1.24 eV
-    Ephoton = hv =
-    ≈
-    =
-    λ
-    Ʌ(in μm) Л(in μm)'
-    (13.1)
-    where h = 6.626 × 10-34 J. s (Planck's constant), and v is the frequency of the light in Hertz (Hz, or inverse seconds).
-    The second form (hc/A) is useful, as we more commonly characterize the "color" of light by its wavelength, A. The speed of light, c≈ 3 x 108 m/s, connects frequency to wavelength via
-    λν = c.
-    (13.2)
-    The third form in Definition 13.1.1 makes it easy to compute photon energy in Joules given the wavelength in microns.2 Visible light has a wavelength around 0.4–0.7 μm (violet-to-red), so a typical photon energy, at 0.5 μm, is about 4 x 10-19 J. It's a tiny number!
-    Example 13.1.1 About how many photons strike a 0.4 m2 patch of sidewalk per second if the overhead sun is delivering 1,000 W/m2?
-    For the visible light characteristic of sunlight, we can use a convenient wavelength of 0.5 μm, amounting to 4 × 10-19 J of energy per photon. The patch of sidewalk we describe receives light energy at a rate of 400 W or 400 J/s.3 How many 4 x 10-19 J photons does it take to amount to 400 J? Divide1 to get 1021.
-    The final form in Definition 13.1.1 relates to the fact that photons fre- quently interact with electrons as we will see in Section 13.3, making it convenient to convert to another energy unit called the electron-volt, or eV (introduced in Sec. 5.9; p. 78). One electron volt is the energy it takes to move an electron through an electric potential of one Volt. The conversion is 1 eV = 1.602 × 10-19 J. For instance, the 0.5 μm (blue-green) photon we used in the previous example would have an energy around 2.5 eV.
-    Why should we care about unthinkably small quantities of light? Three reasons come to mind:
+Now we come to the main attraction. As we saw in Chapter 10, all of the strictly renewable energy options are ultimately derived from the sun. The two resources of the last two chapters-hydroelectricity and wind-represent tiny crumbs of the overall solar input to the planet.
+Practically speaking, it is difficult to concoct ways to harness more than a few terawatts of power from hydroelectric or wind-based resources. Similar limitations apply to biologically-derived energy, geothermal, tidal, ocean currents, wave energy, etc. This may be worrisome consid- ering that human society currently demands 18 TW. Meanwhile, the sun delivers 83,000 TW to the earth's surface (Fig. 10.1; p. 167, Table 10.2; p. 168). That's almost 5,000 times more than the demand. By the numbers, then, the sun seems to offer all we might ever need. In fact, the quantitative imbalance is so extreme as to make one wonder why we would ever mess around doing anything else.
+Yet at present, the U.S. gets only about 0.9% of its energy from solar power, or 2.3% of its electricity. Similarly for the world, 1.2% of global energy is solar (2.1% of the electricity). It would seem to be vastly underutilized.
+This chapter explains the nature of solar energy, its potential for use, practical considerations, and looks at the state of installations. While most of the focus is on photovoltaic (PV) panels that directly generate electricity from light, solar thermal power generation is also covered.
+13.1 The Energy of Light
+Sec. 5.10 (p.79) introduced the basics of the energy of light. This section acts as a refresher and lays the foundation for the rest of the chapter.
+Photovoltaic cells, showing grid contacts and crystal domains. Photo Credit: Tom Murphy
+
+13.1 The Energy of Light. 13.2 The Planck Spectrum 13.3 Photovoltaics
+. 197
+199
+201
+Theoretical Efficiency..
+13.4 Insolation
+202
+206
+13.5 Incredible Solar Potential .. 211
+13.6 Residential Considerations
+Configurations Sizing and Cost....
+213
+213
+213
+13.7 Photovoltaic Installations. 215
+Pros and Cons of PV
+13.8 Solar Thermal.
+Passive Solar Heat
+Solar Thermal Electricity Pros and Cons of ST.. 13.9 Upshot for Solar 13.10Problems.
+...217
+218
+218
+.
+219
+221
+221
+222
+Light a form of electromagnetic radiation-is composed of photons— individual particles of energy each having a characteristic wavelength- what we might call color. Photons are such tiny quanta of energy that familiar environments are awash in unfathomably large numbers of them. A typical light bulb, for instance, emits quintillions1 of photons every second.
+Definition 13.1.1 The energy of a single photon, in various forms, is
+
+1: A quintillion is 1018.
+198
+hc
+2 × 10-19 J
+1.24 eV
+Ephoton = hv =
+≈
+=
+λ
+Ʌ(in μm) Л(in μm)'
+(13.1)
+where h = 6.626 × 10-34 J. s (Planck's constant), and v is the frequency of the light in Hertz (Hz, or inverse seconds).
+The second form (hc/A) is useful, as we more commonly characterize the "color" of light by its wavelength, A. The speed of light, c≈ 3 x 108 m/s, connects frequency to wavelength via
+λν = c.
+(13.2)
+The third form in Definition 13.1.1 makes it easy to compute photon energy in Joules given the wavelength in microns.2 Visible light has a wavelength around 0.4–0.7 μm (violet-to-red), so a typical photon energy, at 0.5 μm, is about 4 x 10-19 J. It's a tiny number!
+Example 13.1.1 About how many photons strike a 0.4 m2 patch of sidewalk per second if the overhead sun is delivering 1,000 W/m2?
+For the visible light characteristic of sunlight, we can use a convenient wavelength of 0.5 μm, amounting to 4 × 10-19 J of energy per photon. The patch of sidewalk we describe receives light energy at a rate of 400 W or 400 J/s.3 How many 4 x 10-19 J photons does it take to amount to 400 J? Divide1 to get 1021.
+The final form in Definition 13.1.1 relates to the fact that photons fre- quently interact with electrons as we will see in Section 13.3, making it convenient to convert to another energy unit called the electron-volt, or eV (introduced in Sec. 5.9; p. 78). One electron volt is the energy it takes to move an electron through an electric potential of one Volt. The conversion is 1 eV = 1.602 × 10-19 J. For instance, the 0.5 μm (blue-green) photon we used in the previous example would have an energy around 2.5 eV.
+Why should we care about unthinkably small quantities of light? Three reasons come to mind:
 1. Eq. 13.1 elucidates that bluer photons have higher energy than
-   red photons, which is important to know;
-   2: One micron, or micro-meter, abbreviated μm, is 10-6 m.
-   3:
-   0.4 m2 times 1,000 W/m2
-   4: ... or try reasoning it out: 1019 of them would make 4 J, so we need 100x more
-   5:... shorter wavelength
-   
+red photons, which is important to know;
+2: One micron, or micro-meter, abbreviated μm, is 10-6 m.
+3:
+0.4 m2 times 1,000 W/m2
+4: ... or try reasoning it out: 1019 of them would make 4 J, so we need 100x more
+5:... shorter wavelength
+
 2. Individual photons interact with matter at the microscopic scale and are relevant to understanding solar photovoltaics and photo- synthesis;
 3. It's how nature really works.
-   13.2 The Planck Spectrum
-   We should first understand where photons originate, which will help us understand how solar panels work and their limitations. Until recent technological advances, photons tended to come from thermal sources. It's true for the white-hot sun," and true for flame and incandescent light bulb filaments. Likewise, hot coals, electrical heating elements, and lava are all seen to glow. Physics tells us how such hot sources radiate, as covered by the next three equations. The first (with units) is:
-   P = AσT4 (W).
-   (13.3)
-   We already saw this equation in the context of Earth's energy balance in Sections 1.3 and 9.2. It is called the Stefan-Boltzmann law, describing the total power (in W, or J/s) emitted from a surface whose area is A (in square meters) and temperature, T in Kelvin.[^8] The constant, o≈ 5.67 × 10-8 W/m2/K+ is called the Stefan-Boltzmann constant, and is easy to remember as 5-6-7-8.9
-   1
-   2лhс2
-   W/m2
-   BA
-   =
-   15 ehc/AkBT 1
-   m
-   —
-   (13.4)
-   Eq. 13.4 might look formidable, but only A and T are variable. It describes the Planck spectrum, otherwise known as the blackbody10 spectrum. For some temperature, T, this function specifies how much power is emitted at each wavelength, A. Three fundamental physical constants from key areas of physics make an appearance: c≈ 3 x 108 m/s is the familiar speed of light from relativity; h≈ 6.626 x 10-34 J. s is Planck's constant from quantum mechanics, and kB≈ 1.38 x 10-33 J. K is the Boltzmann constant of thermodynamics.[^11]
-   Amax≈
-   2.898 × 10-3
-   (m). T(in K)
-   (13.5)
-   13 Solar Energy
-   199
-   6: ... and thus stars and even the moon, which is just reflected sunlight
-   7: Modern lighting like fluorescent and LED sources rely on manipulating energy levels of electrons within atoms and crys- tals.
-   8: Recall that temperature in Kelvin is the temperature in Celsius plus 273 (273.15, technically).
-   9: The Stefan-Boltzmann constant is actu- ally a witch's brew of more fundamental constants h (Planck's constant), c (speed of light), and KB (the Boltzmann constant) as
-   2π5k/(15c2h3).
-   σ =
-   10: The term blackbody effectively means a perfect emitter and absorber of thermal radiation.
-   11: This last one may be more familiar to students in its chemistry form of the gas constant R = kB NA≈ 8.31J/K/mol, where NA≈ 6.022 × 1023 is Avogadro's number.
-   Eq. 13.5 is called the Wien law and is a numerical solution identifying the peak of the blackbody spectrum as a function of temperature. Higher temperatures mean higher kinetic energies at a microscopic scale, so that higher-energy (shorter-wavelength) photons can be produced. This is why as objects get hotter, they move from red to white, and eventually to a blue tint.
-   All this may seem overwhelming, but take a breath, then just look at Figure 13.1. Everything so far in this section is captured by Figure 13.1.
-   
-   1e8
-   1.0
-   0.9
-   0.8
-   0.7
-   6000 K
-   13 Solar Energy
-   200
-   Bx (W/m2/μm)
-   0.6
-   0.5
-   UV
-   visible
-   0.4
-   70
-   0.3
-   4500: K
-   0.2
-   0.1
-   IR
-   3000 K
-   0.0
-   0.0
-   0.5
-   1.0
-   1.5
-   2.0
-   2.5
-   wavelength, λ (μm)
-   3.0
-   The shape of each spectrum is a plot of the function in Eq. 13.4 for three different temperatures. If comparing output of Eq. 13.4 to Figure 13.1, be aware that the units have been manipulated to favor microns over meters.[^12]
-   Let's come at this again with numbers to help us make sense of things. Looking at the curve (spectrum) for 6,000 K, we will verify that each equation makes some sense.
-   Example 13.2.1 First, Eq. 13.5 says that the wavelength where emission peaks should be about 2.898×10−3/6000 ≈ 0.483×10−6 m, or 0.483 μm.
-   Now look at the graph to see that the peak of the blue curve is indeed just short of 0.5 μm, denoted by the red star at the top.
-   Example 13.2.2 Let's now verify a point on the Planck spectrum, picking 6,000 K and 1 μm to see if Eq. 13.4 lands in the same spot as indicated in Figure 13.1.
-   If we go through the laborious exercise of plugging in numbers to Eq. 13.4 for T = 6000 and A = 1 × 10-6 (1 μm), we find13 the overall outcome is 3.73 × 1013 W/m2 per meter of wavelength. Once we adjust by 10-6 for the units on the plot (see earlier margin note), we expect 0.373 x 108 W/m2 per micron.
-   Indeed, the blue curve passes through this value at a wavelength of 1 μm, as indicated by the dotted line in Figure 13.1.
-   Figure 13.1: Planck spectra, or blackbody spectra for three temperatures, indicating where the ultraviolet, visible, and infrared regions lie. The shapes of the three curves (spectra) are described by Eq. 13.4, the star locations are found by Eq. 13.5, and the total power radiated, per square meter of surface is the area under each curve, as captured in Eq. 13.3. The dotted line relates to Example 13.2.2. Note the le8 factor on the vertical axis, meaning that the axis goes from 0 to 1.0 x 108 W/m2/μm.
-   12: Eq. 13.4 uses units of meters for A, but Figure 13.1 uses microns (um, or 10-6 m) for convenience. Also, Eq. 13.4 delivers an answer in units of W/m2 per meter of wave- length, but for the plot we divided by 106 so it would be W/m2 per micron of wavelength. By taking care of this detail, the area under each curve in Figure 13.1 should match σT4 as in Eq. 13.3.
-   13: Numerically, the numerator is 3.74 x 10-16, the denominator is 10-30, and the argument in the exponential is 2.4, so that the second fraction is 0.1.
-   13 Solar Energy
-   201
-   Example 13.2.3 Finally, to assess Eq. 13.3, we can crudely estimate the area under the blue curve by drawing a rectangle that we think has about the same total area. We put the top of the rectangle at the top of the blue curve and ask how wide it would need to be to approximately match the area under the blue curve.
-   If we make it 0.5 μm wide, it seems too thin: the area is smaller than what's under the blue curve. 1.0 μμm wide seems like too much area. So we pick something in the middle like 0.75 μm (Figure 13.2).
-   This choice makes the area about 1.0 x 108 W/m2/um (value at the top of the rectangle) times 0.75 um, coming to 7.5 x 107 W/m2. Since this is power per area, we make a minor rearrangement of Eq. 13.3 to P/A = σT1 and evaluate for T = 6000 K to find 7.35 x 107 W/m2. Hey, not bad! So it all hangs together.
-   Now that we've batted the equations around a little bit, like a cat might do if given a new mouse toy, let's absorb some key takeaways. First, as the source gets hotter, the area under the curve14 increases drastically-as the fourth-power of T, according to Eq. 13.3. This is seen in Figure 13.1 in that going from 3,000 K to 6,000 K15 leads to a tremendous increase in
-   area under the curve: 16 times, in fact.
-   Second, as an object gets hotter, it emits at shorter wavelengths, going from red-hot to yellow-hot to white-hot. The sun, at 5,800 K, peaks at 0.5 μm, in the blue-green region. We don't see it as blue-green because it emits plenty of red light as well, making a blend. Notice how well the 6,000 K spectrum in Figure 13.1 covers the visible colors. A cooler star at 3,000 K has a red tint to it, since the 3,000 K spectrum (Figure 13.3) shows a marked red-heavy tilt: blue is not as well represented as red is. Conversely, a hot star at 10,000 K will have a blue tint to it, since it peaks around 0.3μm and has considerably more flux at the blue end of the spectrum than at the red end.
-   Finally, it is worth absorbing the overall lesson that photons from a glowing source emerge as a distribution, spanning a wide range of wavelengths (colors). This will turn out to be important in understanding why solar panels have the efficiencies that they do.
-   B1 (W/m2/μm)
-   1.0
-   1e8
-   0.8
-   0.6
-   areas equal?
-   0.4
-   0.2
-   0.0
-   -0.5 0.0 0.5 1.0 1.5 2.0 2.5 3.0 wavelength, A (μm)
-   Figure 13.2: Attempts to crudely match the area under the 6000 K Planck spectrum using rectangles of three different widths. The widest (1 μm; dashed line) is too much area; the narrowest (0.5 μm; dotted line) is too small. The middle (0.75 μm; pink area) seems closest, by eye.
-   Follow along using Figure 13.1.
-   14:
-   total power emitted 15:... doubling temperature
-   Normalized Flux
-   1.0
-   0.8
-   0.4
-   0.2
-   0.0
-   0.0 0.5
-   10,000 K
-   3,000 K
-   1.0 1.5 2.0 2.5 3.0 wavelength, A (μm)
-   Figure 13.3: A 10,000 K star (or any black- body) has a spectrum that tilts blue in the visible spectrum, while a cooler star (ob- ject) at 3,000 K has a red slant. Spectra are normalized to the same peak for easier com- parison.
-   13.3 Photovoltaics
-   We are now prepared to dig into how photovoltaic (PV) panels actually work, and what governs panel efficiency.[^16] The word "photovoltaic" can be loosely read as: volts from photons, or electricity from light.
-   Various materials are used as the principal component in PV panels, but the vast majority are made of high-purity silicon, so we will speak in these terms alone. The basic physics will be the same for other materials as well. Getting too far into the weeds in describing the semiconductor
-   16: Solar thermal generation will be covered in Section 13.8.
-   
-   physics is outside the scope of this course, but it is worth painting a general picture enough to appreciate how much we can expect to get out of a PV panel.
-   13 Solar Energy
-   202
-   current (e flow)
-   external
-   circuit
-   e
+13.2 The Planck Spectrum
+We should first understand where photons originate, which will help us understand how solar panels work and their limitations. Until recent technological advances, photons tended to come from thermal sources. It's true for the white-hot sun," and true for flame and incandescent light bulb filaments. Likewise, hot coals, electrical heating elements, and lava are all seen to glow. Physics tells us how such hot sources radiate, as covered by the next three equations. The first (with units) is:
+P = AσT4 (W).
+(13.3)
+We already saw this equation in the context of Earth's energy balance in Sections 1.3 and 9.2. It is called the Stefan-Boltzmann law, describing the total power (in W, or J/s) emitted from a surface whose area is A (in square meters) and temperature, T in Kelvin.[^8] The constant, o≈ 5.67 × 10-8 W/m2/K+ is called the Stefan-Boltzmann constant, and is easy to remember as 5-6-7-8.9
+1
+2лhс2
+W/m2
+BA
+=
+15 ehc/AkBT 1
+m
+—
+(13.4)
+Eq. 13.4 might look formidable, but only A and T are variable. It describes the Planck spectrum, otherwise known as the blackbody10 spectrum. For some temperature, T, this function specifies how much power is emitted at each wavelength, A. Three fundamental physical constants from key areas of physics make an appearance: c≈ 3 x 108 m/s is the familiar speed of light from relativity; h≈ 6.626 x 10-34 J. s is Planck's constant from quantum mechanics, and kB≈ 1.38 x 10-33 J. K is the Boltzmann constant of thermodynamics.[^11]
+Amax≈
+2.898 × 10-3
+(m). T(in K)
+(13.5)
+
+199
+6: ... and thus stars and even the moon, which is just reflected sunlight
+7: Modern lighting like fluorescent and LED sources rely on manipulating energy levels of electrons within atoms and crys- tals.
+8: Recall that temperature in Kelvin is the temperature in Celsius plus 273 (273.15, technically).
+9: The Stefan-Boltzmann constant is actu- ally a witch's brew of more fundamental constants h (Planck's constant), c (speed of light), and KB (the Boltzmann constant) as
+2π5k/(15c2h3).
+σ =
+10: The term blackbody effectively means a perfect emitter and absorber of thermal radiation.
+11: This last one may be more familiar to students in its chemistry form of the gas constant R = kB NA≈ 8.31J/K/mol, where NA≈ 6.022 × 1023 is Avogadro's number.
+Eq. 13.5 is called the Wien law and is a numerical solution identifying the peak of the blackbody spectrum as a function of temperature. Higher temperatures mean higher kinetic energies at a microscopic scale, so that higher-energy (shorter-wavelength) photons can be produced. This is why as objects get hotter, they move from red to white, and eventually to a blue tint.
+All this may seem overwhelming, but take a breath, then just look at Figure 13.1. Everything so far in this section is captured by Figure 13.1.
+
+1e8
+1.0
+0.9
+0.8
+0.7
+6000 K
+
+200
+Bx (W/m2/μm)
+0.6
+0.5
+UV
+visible
+0.4
+70
+0.3
+4500: K
+0.2
+0.1
+IR
+3000 K
+0.0
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+wavelength, λ (μm)
+3.0
+The shape of each spectrum is a plot of the function in Eq. 13.4 for three different temperatures. If comparing output of Eq. 13.4 to Figure 13.1, be aware that the units have been manipulated to favor microns over meters.[^12]
+Let's come at this again with numbers to help us make sense of things. Looking at the curve (spectrum) for 6,000 K, we will verify that each equation makes some sense.
+Example 13.2.1 First, Eq. 13.5 says that the wavelength where emission peaks should be about 2.898×10−3/6000 ≈ 0.483×10−6 m, or 0.483 μm.
+Now look at the graph to see that the peak of the blue curve is indeed just short of 0.5 μm, denoted by the red star at the top.
+Example 13.2.2 Let's now verify a point on the Planck spectrum, picking 6,000 K and 1 μm to see if Eq. 13.4 lands in the same spot as indicated in Figure 13.1.
+If we go through the laborious exercise of plugging in numbers to Eq. 13.4 for T = 6000 and A = 1 × 10-6 (1 μm), we find13 the overall outcome is 3.73 × 1013 W/m2 per meter of wavelength. Once we adjust by 10-6 for the units on the plot (see earlier margin note), we expect 0.373 x 108 W/m2 per micron.
+Indeed, the blue curve passes through this value at a wavelength of 1 μm, as indicated by the dotted line in Figure 13.1.
+Figure 13.1: Planck spectra, or blackbody spectra for three temperatures, indicating where the ultraviolet, visible, and infrared regions lie. The shapes of the three curves (spectra) are described by Eq. 13.4, the star locations are found by Eq. 13.5, and the total power radiated, per square meter of surface is the area under each curve, as captured in Eq. 13.3. The dotted line relates to Example 13.2.2. Note the le8 factor on the vertical axis, meaning that the axis goes from 0 to 1.0 x 108 W/m2/μm.
+12: Eq. 13.4 uses units of meters for A, but Figure 13.1 uses microns (um, or 10-6 m) for convenience. Also, Eq. 13.4 delivers an answer in units of W/m2 per meter of wave- length, but for the plot we divided by 106 so it would be W/m2 per micron of wavelength. By taking care of this detail, the area under each curve in Figure 13.1 should match σT4 as in Eq. 13.3.
+13: Numerically, the numerator is 3.74 x 10-16, the denominator is 10-30, and the argument in the exponential is 2.4, so that the second fraction is 0.1.
+
+201
+Example 13.2.3 Finally, to assess Eq. 13.3, we can crudely estimate the area under the blue curve by drawing a rectangle that we think has about the same total area. We put the top of the rectangle at the top of the blue curve and ask how wide it would need to be to approximately match the area under the blue curve.
+If we make it 0.5 μm wide, it seems too thin: the area is smaller than what's under the blue curve. 1.0 μμm wide seems like too much area. So we pick something in the middle like 0.75 μm (Figure 13.2).
+This choice makes the area about 1.0 x 108 W/m2/um (value at the top of the rectangle) times 0.75 um, coming to 7.5 x 107 W/m2. Since this is power per area, we make a minor rearrangement of Eq. 13.3 to P/A = σT1 and evaluate for T = 6000 K to find 7.35 x 107 W/m2. Hey, not bad! So it all hangs together.
+Now that we've batted the equations around a little bit, like a cat might do if given a new mouse toy, let's absorb some key takeaways. First, as the source gets hotter, the area under the curve14 increases drastically-as the fourth-power of T, according to Eq. 13.3. This is seen in Figure 13.1 in that going from 3,000 K to 6,000 K15 leads to a tremendous increase in
+area under the curve: 16 times, in fact.
+Second, as an object gets hotter, it emits at shorter wavelengths, going from red-hot to yellow-hot to white-hot. The sun, at 5,800 K, peaks at 0.5 μm, in the blue-green region. We don't see it as blue-green because it emits plenty of red light as well, making a blend. Notice how well the 6,000 K spectrum in Figure 13.1 covers the visible colors. A cooler star at 3,000 K has a red tint to it, since the 3,000 K spectrum (Figure 13.3) shows a marked red-heavy tilt: blue is not as well represented as red is. Conversely, a hot star at 10,000 K will have a blue tint to it, since it peaks around 0.3μm and has considerably more flux at the blue end of the spectrum than at the red end.
+Finally, it is worth absorbing the overall lesson that photons from a glowing source emerge as a distribution, spanning a wide range of wavelengths (colors). This will turn out to be important in understanding why solar panels have the efficiencies that they do.
+B1 (W/m2/μm)
+1.0
+1e8
+0.8
+0.6
+areas equal?
+0.4
+0.2
+0.0
+-0.5 0.0 0.5 1.0 1.5 2.0 2.5 3.0 wavelength, A (μm)
+Figure 13.2: Attempts to crudely match the area under the 6000 K Planck spectrum using rectangles of three different widths. The widest (1 μm; dashed line) is too much area; the narrowest (0.5 μm; dotted line) is too small. The middle (0.75 μm; pink area) seems closest, by eye.
+Follow along using Figure 13.1.
+14:
+total power emitted 15:... doubling temperature
+Normalized Flux
+1.0
+0.8
+0.4
+0.2
+0.0
+0.0 0.5
+10,000 K
+3,000 K
+1.0 1.5 2.0 2.5 3.0 wavelength, A (μm)
+Figure 13.3: A 10,000 K star (or any black- body) has a spectrum that tilts blue in the visible spectrum, while a cooler star (ob- ject) at 3,000 K has a red slant. Spectra are normalized to the same peak for easier com- parison.
+13.3 Photovoltaics
+We are now prepared to dig into how photovoltaic (PV) panels actually work, and what governs panel efficiency.[^16] The word "photovoltaic" can be loosely read as: volts from photons, or electricity from light.
+Various materials are used as the principal component in PV panels, but the vast majority are made of high-purity silicon, so we will speak in these terms alone. The basic physics will be the same for other materials as well. Getting too far into the weeds in describing the semiconductor
+16: Solar thermal generation will be covered in Section 13.8.
+
+physics is outside the scope of this course, but it is worth painting a general picture enough to appreciate how much we can expect to get out of a PV panel.
+
+202
+current (e flow)
+external
+circuit
+e
 + +
 +
 +
@@ -223,7 +223,7 @@ Infrared photons at a wavelength of > 1.1 um have an energy of E < 1.1 eV,29 acc
 For the 77% of sunlight whose photons are energetic enough to bump an electron into the conduction band,[^30] it's game-on, right? Well, not so fast literally. Photons whose energy is higher than 1.1 eV have more
 energy
 than is needed to lift the electron into the conduction band. It only takes 1.1 eV to promote the electron, so a blue-green photon at 0.5 μm (~ 2.5 eV) has an excess of about 1.4 eV. The lucky electron is not just lifted out, but is given a huge boost in the process, rocketing out of the atom. It's going too fast! It knocks into atoms in the crystal and generally shakes things up a bit before settling down. We call this heat, or thermal energy:31 its excess kinetic energy is transferred to vibrations (randomized kinetic energy of atoms) in the crystal lattice. The blue curve in Figure 13.5 reflects this loss: we get to keep all the energy at 1.1 μm (1.1 eV), thus the blue curve joins the overall black curve here.
-13 Solar Energy
+
 203
 
 [^23]: The spectrum can be thought of as a probability distribution for photon wave- length, if picking out one photon.
@@ -238,7 +238,7 @@ than is needed to lift the electron into the conduction band. It only takes 1.1 
 ...
 
 [^28]:... difference between conduction and valence band energy levels
-=
+
 
 [^29]: That A 1.1 μm happens to correspond to 1.1 eV is a numerical coincidence, but perhaps convenient, in that remembering 1.1 for silicon covers it from both directions.
 
@@ -248,7 +248,7 @@ than is needed to lift the electron into the conduction band. It only takes 1.1 
 
 relative intensity
 1.0
-13 Solar Energy
+
 204
 0.8
 0.6
@@ -290,7 +290,7 @@ sometimes called drunken walk, de- picted as meandering paths in Figure 13.4
 [^37]: Fancy, very expensive multi-junction PV cells may be used for special applica- tions like in space, where size and weight are extremely important and cost is less of a limitation. These devices can reach efficien- cies approaching 50% by stacking multiple junctions at different band gaps, better uti- lizing light across the spectrum.
 efficiency in the best-case photosynthesis (algae). PV technology beats that by a factor of three! And as we'll see in Section 13.6, the only thing higher efficiency really does besides driving up the price is it makes the footprint (area occupied) smaller for the same power delivery. But it's already small enough to comfortably fit on most roofs, so efficiency is not a chief limitation at this point.
 top contact grids
-13 Solar Energy
+
 205
 bottom contacts
 Figure 13.6: PV panels (modules) are constructed of typically 18, 36, 54, or 72 cells in series, two of which are depicted here. Cells are usually ~15 cm squares layered exactly as depicted in Figure 13.4. The bottom sides are covered by a continuous metal contact and the tops host a fine grid of metal contacts that minimize blockage of incident sunlight. Each cell presents ~0.5 V, arranged in series to add up to tens of volts per panel. To accomplish this, the top grid of one cell is connected to the bottom contact on the next, all down the line.
@@ -311,7 +311,7 @@ This problem is sometimes mitigated via micro-inverters: each panel has an inver
 
 Series combination adds voltages, keeping the same common current. Parallel combination shares a common (low) voltage but adds cur- rents. The same power (P = IV) obtains either way. But two problems arise from a parallel combination of cells. First, the ~0.5 V voltage is too small to be useful for most devices. Second, the power lost in connecting wires scales as the square of current, so designing a system with a large current is asking for trouble.[^39]
 That said, PV installations often combine panels in both series and parallel-like 10 panels in series in parallel to another 10 in series. By this time, the voltage is plenty high to offset the losses.
-13 Solar Energy
+
 206
 
 [^39]: Making things worse, the voltage drop in the lines is proportional to current, di- minishing an already small voltage to even less by the time it gets to its application.
@@ -352,7 +352,7 @@ Typical delivered by 15% efficient PV
 
 Table 13.1: Summary of solar power densi- ties. Full overhead sun can be larger than the global absorbed number because the global number includes reflection from clouds, while overhead direct sun corresponds to a local cloud-free condition.
 Table 13.1 summarizes these various power densities, the last line being typical insolation multiplied by 0.15 to represent the yield from a 15% efficient photovoltaic panel lying flat in a location receiving an insolation of 200 W/m2. Figure 13.8 shows global insolation, variations arising from a combination of latitude and weather.
-13 Solar Energy
+
 207
 165 W
 50 W 135"W 120°W 105°W 90°W 75°W 60 W 45"W 30°W 15"W
@@ -451,7 +451,7 @@ Figures 13.8 and 13.9 are in the context of a flat surface.[^46] For solar panel
 
 [^47]:
 toward the south for northern hemi- sphere locations; a more generally correct way to say it would be "toward the equator"
-13 Solar Energy
+
 208
 the sky near the equator, so panels there should lie flat.[^48] But at high northern latitudes, the sun is lower toward the southern horizon, so the panels should tilt up to best face the sun. Tilting at an angle equal to the latitude is the best compromise, as Figure 13.10 illustrates.
 sun view
@@ -554,7 +554,7 @@ Figure 13.11: Solar potential for flat panels tilted to latitude, oriented south
 [^50]: Photovoltaics still produce 10-50% of full capacity under cloudy skies during day- light hours, depending on how thick the clouds are: daylight still means photons.
 incoming sun
 same input-
-13 Solar Energy
+
 209
 5 panels, flat
 11111
@@ -614,7 +614,7 @@ Figure 13.13: Solar potential for tracking panels, facing directly toward the su
 
 [^54]: The hours in numerator and denomi- nator cancel, since the kilowatt-hour is kW times hours.
 
-13 Solar Energy
+
 210
 But the main purpose of this box is to point out the following. Full overhead sunshine bathes the ground in about 1,000 W/m2.55 So if you could contrive to keep the sun directly overhead for 5 hours, you'd get 5 kWh of solar energy for each square meter on the ground. Therefore, if your site is listed as getting 5 kWh/m2/day, it's the equivalent amount you'd get from 5 hours of direct overhead sun.[^56]
 What actually happens is that the day is longer than 5 hours, but for much of the day the sun is at a lower angle so that the panel is not directly illuminated, and weather can also interfere. This leads to a concept of full-sun-equivalent-hours. A site getting an annual average of 5.4 kWh/m2/day might be said to get 5.4 hours of full-sun-equivalent each day. It's a pretty useful metric.
@@ -657,7 +657,7 @@ south
 90°
 Figure 13.14: Panel tilts for Table 13.2, for 0 = 39°.
 Table 13.2: Solar exposure (kWh/m2/day) for a south-facing panel in St. Louis, MO, at various panel tilts (0 is latitude, which happens to be 39° for St. Louis). 0° means a panel lying flat, pointing straight up (like on a flat roof), and 90° means vertical, like on a (south-facing) wall (see Figure 13.14).
-13 Solar Energy
+
 211
 13.5 The Incredible Solar Potential
 The potential of sunlight can be assessed by pieces we have already seen. Multiplying the solar constant of 1,360 W/m2 by the projected area of Earth (R) and by 0.707 to account for the 29.3% reflection loss, we compute that Earth absorbs solar energy at a rate of 1.23 x 1017 W, or 123,000 TW (1 TW is 1012 W). Compared to the 18 TW societal scale, that's huge! Notice that the non-reflected entries back in Table 10.2 (p. 168) add60
@@ -685,7 +685,7 @@ Another daunting realization is that even though only 0.4% of the land is needed
 
 [^67]: A subtlety here is that most of the 10 kW Americans use presently is in thermal form (fossil fuels), at ~35% efficiency. For non- heating applications that can use electric- ity, solar has an advantage. On the other hand, mitigating intermittency via storage requires a larger PV installation by as much as a factor of two. For the purposes of a crude estimate, we'll call it even and say that 10 kW per capita from PV would cover the entire demand 100% of the time.
 
-13 Solar Energy
+
 212
 68
 A major impediment to solar power is its intermittency. Figure 13.15 shows 31 days of solar capture, along with typical state-wide electricity demand. The two do not look very similar: not well matched. Demand is far more constant than the solar input, which is obviously zero at night. Even the peaks do not line up well, since demand is highest in the evening, well after solar input has faded away.
@@ -724,7 +724,7 @@ Consider that full overhead sun delivers 1,000 W/m2. The top surface area of a t
 inside.
 
 Cars have a similar problem: a top area around 10 m2 equipped with the most expensive PV money can buy would get 5 kW, or less than 7 horsepower. That's about 20 times less powerful than typical cars, so again: light and slow.
-13 Solar Energy
+
 213
 13.6 Residential Solar Considerations
 Despite these drawbacks, it can still make a lot of sense73 to invest in solar photovoltaics for the home. We'll explore sizing and cost in this section.
@@ -757,7 +757,7 @@ We get the same answer either way, which is a good check.8
 We should assume that the panels will not achieve their rated potential due to the facts that:
 The 25°C specification is almost never realized for a PV panel in the sun: PV panels in the sun get hot, and less efficient as a result;
 ► The panels will get a little dirty;
-13 Solar Energy
+
 214
 
 [^75]: ... makes sense for a population of 330 million: translates to 2.5 people per house- hold, on average
@@ -776,7 +776,7 @@ The 25°C specification is almost never realized for a PV panel in the sun: PV p
 
 [^81]: The math is actually just the same, but we rearranged the order and interpretation.
 
-13 Solar Energy
+
 215
 The equipment that converts panel output to AC electricity is not 100% efficient.
 So it's a good idea to bump the number up by 20% or so, and order a 7.5 kW PV system for the case under study. A typical full cost (panels, electrical converters, installation) lately runs just shy of $3 per peak Watt (Figure 13.16), which in this case brings the price tag to roughly $20k. If electricity costs $0.15 per kWh—approximately the national average each 30 kWh day costs $4.5, accumulating to $20k after 12 years. Federal and state incentives can make the payback time shorter.
@@ -825,7 +825,7 @@ The Energy Information Administration's Electric Power Monthly (EPM) [85] provid
 [85]: U.S. Energy Inform. Admin. (2020), Electric
 power monthly
 
-13 Solar Energy
+
 216
 0
 1 2 3 4 5 PV generation (GW)
@@ -848,7 +848,7 @@ Figure 13.18: Photovoltaic power produc- tion areal density by state, in milliwa
 [^89]: ... still small compared to the American metric of 10,000 W/person
 
 0
-13 Solar Energy
+
 217
 50 100 150 200 PV power/person (W)
 Figure 13.19: Per capita photovoltaic power production by state, in Watts per person.
@@ -899,7 +899,7 @@ PV taps into a super-abundant resource-the only renewable that has such a margin
 
 Figure 13.20: Photovoltaic capacity factors by state. While we see lots of darker green, it's because everybody has similarly low numbers, due to unavoidable nighttime and low sun angles. Somebody tell Wyoming, North Dakota, and Alabama to get with the program!
 Table 13.3: Top five global producers of PV power in 2018, accounting for two-thirds of the world's total production [92, 93]. The in- stalled PV corresponds to peak watts (Wp), or production in full overhead sun.
-13 Solar Energy
+
 218
 ► PV technology has no moving parts or steam; panels are robust and last a long time;
 ► PV is one of the few resources that can fit on a rooftop and provide self-contained electricity generation;
@@ -923,7 +923,7 @@ Photovoltaics (Section 13.3) convert sunlight directly into electricity, but thi
 13.8.1 Passive Solar Heat
 Full sun delivers something like 1,000 W/m2 at the earth's surface. Now imagine a window in a house intercepting 1.5 m2 of sunlight, in effect admitting 1,500 W into the home-like a space heater, and it's free! Depending on window construction, some of the infrared energy may be blocked, so maybe not all 1,000 W/m2 will make it inside, but a sizable portion will. Clever design has south-facing windows for receiving low-angle winter sun, but an overhang to keep out the high summer sun
 
-13 Solar Energy
+
 219
 (Figure 13.21). A dark and massive absorber91 inside the house capturing the heat can continue to provide warmth through the evening hours. The Passive House designs mentioned in the context of Box 6.1 (p. 87) attempt to maximize solar capture so that little active heating is required.
 
@@ -958,7 +958,7 @@ But efficiency is not everything. 3% of a gigantic resource like solar energy in
 One disadvantage of solar thermal is that concentration only works when the sun itself is visible in the sky: no obscuring clouds. One way to think of it is: if you can't see your shadow, solar concentration will not work. Meanwhile, PV panels will still produce a meaningful amount of daytime electricity from the bright sky and clouds even if the sun itself is not "out."
 Balancing this disadvantage is the fact that solar thermal has some built-in storage capacity, in that the heated oil can be "banked" for some hours 92 and continue to produce electricity even during the passage of a cloud or for a few hours into the evening. In this sense, it can better match the peak of electrical demand (early evening: Figure 13.15) than can PV, which goes to zero once the sun sets.
 As seen in Figure 13.13, the desert southwest is the best place in the U.S. for solar thermal electricity generation. It makes sense that deserts would be good spots, since effective concentration requires no interference from clouds. Incidentally, transmitting electricity over intermediate distances (across regions) is fairly efficient: typically better than 90% for distances shorter than ~1,000 km.
-13 Solar Energy
+
 220
 Figure 13.24: Parabolic trough-based ST plant, in which part of the power gener- ation facility is seen in the background. Reflectors must be spaced out to prevent self-shadowing. From U.S. DOE.
 Figure 13.25: One of three "power tow- ers" of the Ivanpah facility in California. By Craig Dietrich.
@@ -998,7 +998,7 @@ U.S. total
 10,565
 2.2
 3.9
-13 Solar Energy
+
 221
 
 [^93]: ...0.006% of global demand
@@ -1018,17 +1018,22 @@ And the less great stuff:
 ST is only possible at utility-scale, requiring a power plant;
 ST has a lower land-area efficiency than PV panels;
 ► Some disruption will be imposed on the local environment/habitat.
-13.9 Upshot for Solar
+
+## 13.9 Upshot for Solar
 Hands down, solar is the only renewable resource capable of matching our current societal energy demand. Not only can it reach 18 TW, it can exceed the mark by orders of magnitude. Finding space for panels is not a limitation. The efficiency of PV panels is perfectly respectable based on physics expectations, and beats the best that biology has done by a factor of 3-4. The efficiency is high enough that roof space tends to be more than sufficient to satisfy the demands of individual houses.
+
 [68]: (2020), Life Cycle GHG Emissions
+
 Pros and cons are listed separately for PV and ST in Section 13.7.1 and Section 13.8.3, respectively.
 
-13 Solar Energy
-222
-Holding solar back is its intermittency95 and high up-front cost. Intermit- tency can be solved by battery storage, but this can double the cost and require maintenance and periodic battery replacement. Additionally-as for many of our renewable options-all of our society's demands9% are not well met by electricity generation.
-98
-Sizing up a PV installation is fairly straightforward. Having first deter- mined how many kWh per day are to be produced, on average, divide this by the kWh/m2/day value for the site," which is essentially the number of hours of full-sun" equivalent, and tends to be in the 4-6 hour ballpark. This says how many kilowatts the array should produce in full sun (peak Watts). For instance, if only 10 kWh/day are needed," and the region in question gets 5 kWh/m2/day, the system needs to operate at a peak power of 2 kWp, costing about $6k to purchase and install (grid tied). Inflating by 20% offsets unaccounted losses100 to better match real conditions.
-Solar thermal energy is another way to run a traditional steam-based power plant, using relatively low-tech mirrors and pipes to concentrate solar energy into a heat-carrying fluid that can later make steam. Effective efficiencies are relatively low,[^101] but on the bright side, the low-tech nature makes it fairly cheap, and the technique can accommodate some degree of thermal storage for use some hours into the evening. Anything102 starting from solar input has the potential to be a major player, given the ~100,000 TW scale of solar energy incident upon the earth.
+
+[[222]]
+
+Holding solar back is its intermittency[^95] and high up-front cost. Intermittency can be solved by battery storage, but this can double the cost and require maintenance and periodic battery replacement. Additionally- as for many of our renewable options-all of our society's demands 9% are not well met by electricity generation. [^98]
+
+Sizing up a PV installation is fairly straightforward. Having first determined how many kWh per day are to be produced, on average, divide this by the kWh/m2/day value for the site," which is essentially the number of hours of full-sun" equivalent, and tends to be in the 4-6 hour ballpark. This says how many kilowatts the array should produce in full sun (peak Watts). For instance, if only 10 kWh/day are needed," and the region in question gets 5 kWh/m2/day, the system needs to operate at a peak power of 2 kWp, costing about $6k to purchase and install (grid tied). Inflating by 20% offsets unaccounted losses100 to better match real conditions.
+
+Solar thermal energy is another way to run a traditional steam-based power plant, using relatively low-tech mirrors and pipes to concentrate solar energy into a heat-carrying fluid that can later make steam. Effective efficiencies are relatively low,[^101] but on the bright side, the low-tech nature makes it fairly cheap, and the technique can accommodate some degree of thermal storage for use some hours into the evening. Anything[^102] starting from solar input has the potential to be a major player, given the ~100,000 TW scale of solar energy incident upon the earth.
 
 [^95]: ... low capacity factor that is weather- dependent
 
@@ -1048,22 +1053,22 @@ Solar thermal energy is another way to run a traditional steam-based power plant
 [^102]:
 low
 even if the efficiency is modest or
-13.10 Problems
-=
+
+## 13.10 Problems
 1. If we had two monochromatic (single-wavelength) light sources- -a
-   green one at λ = 0.5 μm
-   and a near-infrared one at A 1.0 μm- each emitting photons at an energy rate of 1 W,103 how does the number of photons emerging per second from each source compare? Is it the same number for each because both are 1 W sources, or is it a different number-and by what factor, if so?
+green one at λ = 0.5 μm
+and a near-infrared one at A 1.0 μm- each emitting photons at an energy rate of 1 W,103 how does the number of photons emerging per second from each source compare? Is it the same number for each because both are 1 W sources, or is it a different number-and by what factor, if so?
 2. Overhead sunlight arrives on the surface of the earth at an intensity of about 1,000 W/m2. How many photons per second strike a solar panel whose area is 1.6 square meters, if the typical wavelength is λ = 0.5 μm?
 3. Using the setup in Problem 2, how many photons enter your pupil every second if you look directly at the sun? When doing so, your pupil restricts to a diameter of about 2 mm.
 4. The dimmest stars we can see with our eyes are thirteen orders-of- magnitude104 dimmer than the intensity of the sun. Building off of Problem 3, how many photons enter your eye per second at this edge of detectability?
-   103: Hint: recall that 1 W is 1 J/s.
-   104: 10-13 times
-   
-   13 Solar Energy
-   223
+103: Hint: recall that 1 W is 1 J/s.
+104: 10-13 times
+
+
+223
 5. Warm humans at ~300 K and glowing-hot light bulb filaments at ~2,400 K both radiate according to Eq. 13.3. How much more power per unit area (W/m2) does an incandescent filament emit compared to human skin, roughly?
 6. The outcome of Problem 5 indicates that a hot light bulb filament emits thousands of times more power per unit area than human skin. Yet both a human and a light bulb may emit a similar amount of light105—both around 100 W. Explain how both things can be
-   true?
+true?
 7. At what wavelength does the Wien Law say the Planck spectrum will peak for a temperature of 4,500 K? Express your answer in microns and compare to Figure 13.1 for confirmation.
 8. Human bodies also glow by the same physics as the sun or a light bulb filament, only it is too far out in the infrared for the human eye to see. For familiar objects (and human skin) all in the neighborhood of 300 K, what is the approximate wavelength of peak blackbody radiation, in microns?
 9. We might describe the efficiency of a light bulb as the fraction of its total light output that falls within the visible range. If using a thermal source106 why would you expect it to be impossible to reach 100% efficiency at any source temperature, based on what Figure 13.1 shows?
@@ -1073,16 +1078,16 @@ even if the efficiency is modest or
 13. If a blue photon having 3.3 electron-volt of energy liberates an electron in silicon, whose band gap is 1.1 eV,, what fraction of the photon's energy is "kept" by the electron once it settles down from the excess?107
 14. If a 2.5 electron-volt photon liberates an electron from silicon with a 1.1 eV band gap, how much kinetic energy does the emerging electron have? Express in both eV and Joules, and then determine the velocity of the electron if the electron mass is 9 × 10-31 kg.
 15. Briefly summarize the sequence of events108 that results in a
-    105: Humans emit in the infrared, so we don't see it with our eyes.
-    Note that the spectrum is spread over so many microns and we're being approximate about the temperature, so relax
-    your answer to an easy, round number.
-    106: like the sun or an incandescent light bulb; one that obeys Eq. 13.4
-    107: The rest going into excess kinetic en- ergy which just heats up the PV cell.
-    108: ...consistent with the relevant physics, of course
-    
-    13 Solar Energy
-    224
-    successful contribution to PV current, starting with a green photon leaving the sun and ending with an electron crossing the junction.
+105: Humans emit in the infrared, so we don't see it with our eyes.
+Note that the spectrum is spread over so many microns and we're being approximate about the temperature, so relax
+your answer to an easy, round number.
+106: like the sun or an incandescent light bulb; one that obeys Eq. 13.4
+107: The rest going into excess kinetic en- ergy which just heats up the PV cell.
+108: ...consistent with the relevant physics, of course
+
+
+224
+successful contribution to PV current, starting with a green photon leaving the sun and ending with an electron crossing the junction.
 16. Many people have an instinctive reaction to discount the << 20% PV panel efficiency as disappointingly low-perhaps thinking they should hold out for higher. Present a multi-point argument about why the efficiency is actually pretty good, and why in practice it is plenty good enough to be practical.
 17. If aiming for a particular power output109 from a PV array, describe explicitly/quantitatively how PV panel efficiency interacts with the physical size (area) of the array. For instance, what happens if the efficiency doubles or is cut in half, while keeping the same target output?
 18. Make the connection between Figure 13.4 and Figure 13.6 by drawing a zoom-in of the bottom left corner of one of the cells in Figure 13.6.
@@ -1090,70 +1095,69 @@ even if the efficiency is modest or
 20. Replicate the calculation on page 206 (showing work) that starts with the surface of the sun being 5,770 K and finds that we receive 1,360 W/m2 at Earth.
 21. According to Figure 13.8, which continent appears to have the most solar potential? How would you rate China? Do the largest populations and/or largest energy consumers in the world tend to be well-aligned to the best solar resources?
 22. Examine Figure 13.9 to determine the insolation at the "four corners" location where Arizona, New Mexico, Utah, and Colorado touch. Express this in both kWh/m2/day and in W/m2, showing
-    how to convert from one to the other.
+how to convert from one to the other.
 23. What is a typical value for hours of full-sun-equivalent111 of solar exposure in the U.S. based on the map and native units in Figure 13.9? Explain how you arrive at this.
 24. A 30 year study by the National Renewable Energy Lab112 indicates that in San Diego, a typical year delivers an annual average of 5.0 kWh/m2/day of insolation for a flat panel facing straight up. Convert this to W/m2.
 25. The same study mentioned in Problem 24 finds that worst year in San Diego delivered an annual average of 4.7 kWh/m2/day
-    109: Make up your own number if it helps.
-    110:
-    . largest rectangle that fits in curve
-    Just using this location as an unambiguous spot on the map.
-    111:
-    ... full sun meaning 1,000 W/m2
-    112: ... called the Redbook study: [88]
-    
-    and the best gave 5.2 kWh/m2/day for a flat horizontal panel. What, then, is the range of annual average insolation values in units of W/m2 for San Diego, and what percentage variation is this, roughly (in round numbers)?
+109: Make up your own number if it helps.
+110:
+. largest rectangle that fits in curve
+Just using this location as an unambiguous spot on the map.
+111:
+... full sun meaning 1,000 W/m2
+112: ... called the Redbook study: [88]
+
+and the best gave 5.2 kWh/m2/day for a flat horizontal panel. What, then, is the range of annual average insolation values in units of W/m2 for San Diego, and what percentage variation is this, roughly (in round numbers)?
 26. The study from Problem 24 finds that a flat panel facing south and tilted at various angles113 relative to the horizontal produce the following annual average yields in units of kWh/m2/day:
-    Angle Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year
-    13 Solar Energy
-    225
-    113: where we use to represent the site latitude 32.7° for San Diego
-    0°
-    3.1 3.9 4.9 0-15° 4.1 4.8 5.6
-    6.1
-    6.3
-    6.4 6.9 6.5 5.4 4.4 3.4 2.9 5.0
-    6.4
-    6.3
-    Ꮎ 4.7 5.3 5.8 6.3
-    +15° 5.1 5.5 5.7 5.9
-    5.9
-    5.2
-    90° 4.5 4.3 3.9 3.2
-    2.4
-    6.3 6.8 6.7 6.0 5.3 4.5 3.9 5.6
-    5.8 6.4 6.5 6.1 5.7 5.1 4.6 5.7
-    5.1 5.6 5.9 5.8 5.8 5.4 5.0 5.5
-    2.1 2.2 2.9 3.6 4.4 4.6 4.5 3.5
-    What tilt delivers the best yield for the year, and how much better is this (in percent) than a flat plate facing straight up? What tilt appears to result in minimal seasonal variation?
+Angle Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year
+
+225
+113: where we use to represent the site latitude 32.7° for San Diego
+0°
+3.1 3.9 4.9 0-15° 4.1 4.8 5.6
+6.1
+6.3
+6.4 6.9 6.5 5.4 4.4 3.4 2.9 5.0
+6.4
+6.3
+Ꮎ 4.7 5.3 5.8 6.3
++15° 5.1 5.5 5.7 5.9
+5.9
+5.2
+90° 4.5 4.3 3.9 3.2
+2.4
+6.3 6.8 6.7 6.0 5.3 4.5 3.9 5.6
+5.8 6.4 6.5 6.1 5.7 5.1 4.6 5.7
+5.1 5.6 5.9 5.8 5.8 5.4 5.0 5.5
+2.1 2.2 2.9 3.6 4.4 4.6 4.5 3.5
+What tilt delivers the best yield for the year, and how much better is this (in percent) than a flat plate facing straight up? What tilt appears to result in minimal seasonal variation?
 27. What if you adjusted the tilt of panels throughout the season to maximize yield? Reproduce the table above, but only writing in the highest number for each month.114. What average does this track produce for the year, and how much improvement (in percent) does this represent compared to the best fixed-tilt performance?
 28. If typical insolation is 200 W/m2, how much land area would be
-    needed for a 15% efficient flat PV array supplying an average
-    of 10 kW of power-which is the U.S. individual share? If arranged in a square, how large is the side-length of this array? Compare its size or area to something familiar.
+needed for a 15% efficient flat PV array supplying an average
+of 10 kW of power-which is the U.S. individual share? If arranged in a square, how large is the side-length of this array? Compare its size or area to something familiar.
 29. If typical insolation is 200 W/m2, how much land area would be needed for a 15% efficient flat PV array supplying an average of 10,000 W for every person in the U.S. (population 330 million). If arranged in a square, how large is the side-length of this array? Draw it on top of a state of your choice, to scale.
 30. Based on what is presented in the text,[^115] why is solar power still such a minor player if it is so hugely abundant and the technology has been around for a long time? What are some of the challenges?
 31. You look at a PV panel and mentally estimate it to measure about 0.8 m by 1.5 m. Knowing that PV panels tend to be 15-20% efficient, you guess that it is 18% efficient. How much power would you expect it to deliver in full sun (1,000 W/m2 incident)?
 32. According to the table in Problem 26, San Diego can expect an annual average solar yield of 5.7 kWh/m2/day when the panel is tilted to the site latitude and facing south.[^116] If a household seeks to produce a modest 8 kWh per day using 16% efficient panels,
-    
-    114: The pattern will "graph out" the tilt adjustments over time.
-    This exercise provides insight into PV at a personal-scale that would cover an Amer- ican's total share of energy demand across all sectors.
-    This exercise provides insight into the total PV area needed to cover America's total energy demand across all sectors.
-    115: also fine to bring in prior/outside knowledge
-    116: ... absent any shadows, of course
-    13 Solar Energy
-    226
-    how large will the array need to be? Express as an area in square meters, and in side length for a square of the same area.
+
+114: The pattern will "graph out" the tilt adjustments over time.
+This exercise provides insight into PV at a personal-scale that would cover an Amer- ican's total share of energy demand across all sectors.
+This exercise provides insight into the total PV area needed to cover America's total energy demand across all sectors.
+115: also fine to bring in prior/outside knowledge
+116: ... absent any shadows, of course
+
+226
+how large will the array need to be? Express as an area in square meters, and in side length for a square of the same area.
 33. Using the parameters from Problem 32, interpreting the solar yield as daily hours of peak-sun-equivalent (at solar exposure of 1 kW/m2) what should the array size be in terms of peak Watts in order to deliver 8 kWh per day? How much would the system cost to install at $3.00 per Wp?
 34. One way to look at solar payback time time is to note that an
-    installed system will cost something like $3,000 for each kWp (peak capacity), and that you'll produce x kWh from that 1 kW, array if your region gets x hours of full-sun-equivalent on average. Since each kWh of electricity costs something like $0.15, it becomes straightforward to compute the value per day as $0.15x, and determine how long to match the $3k investment. The result is independent of the actual array size, depending only on the cost per Wp, the solar yield at your location, and the cost of electricity. What would the payback time be, in years, if the cost is $3/Wp p the yield is 6 hours per day of full-sun-equivalent, and electricity in your region costs $0.15/kWh?
-    117
+installed system will cost something like $3,000 for each kWp (peak capacity), and that you'll produce x kWh from that 1 kW, array if your region gets x hours of full-sun-equivalent on average. Since each kWh of electricity costs something like $0.15, it becomes straightforward to compute the value per day as $0.15x, and determine how long to match the $3k investment. The result is independent of the actual array size, depending only on the cost per Wp, the solar yield at your location, and the cost of electricity. What would the payback time be, in years, if the cost is $3/Wp p the yield is 6 hours per day of full-sun-equivalent, and electricity in your region costs $0.15/kWh?
+117
 35. From Table 13.3, compute the capacity factors for the countries listed, and for the whole world, based on average vs. installed power. What is a characteristic range of numbers, and why 118 is it so low? Which country does the best, and which does the worst? What clues does Figure 13.8 offer as an explanation?
-    119
+119
 36. How much power would a large window measuring 2 m wide and 1.5 m tall admit if the sun were shining straight119 into the window from a cloudless sky? How many kilowatt-hours does this translate to over a four hour period, and how much is it worth monetarily compared to electricity at $0.15/kWh?
 37. Solar photovoltaics are practical for individual homes, but solar thermal is only to be found in large utility-scale installations. What is the practical reason why we should not expect solar thermal installations on peoples' rooftops for electricity generation?
 38. Solar thermal has a fairly low efficiency in terms of land area of about 3%, compared to 15-20% for PV. Many would shake their heads and say that's too low to be of any use. What is the counter-argument that it may be fine?
-    It is a good practice to round the final size up a bit to make sure additional inefficiencies do not prevent reaching the goal.
-    117: ... consistent with the first sentence
-    118: Hint: a large part is insolation vs. over- head sun.
-    119: ..e.g., what is the most one might expect for direct sun?
-    
+It is a good practice to round the final size up a bit to make sure additional inefficiencies do not prevent reaching the goal.
+117: ... consistent with the first sentence
+118: Hint: a large part is insolation vs. over- head sun.
+119: ..e.g., what is the most one might expect for direct sun?
