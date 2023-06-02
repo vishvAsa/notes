@@ -35,7 +35,15 @@ Figure 15.1: Zooming in on an atom in steps of 10x. At left, we see the entire e
 
 By convention, the number of protons is labeled as Z and the number of neutrons as N. The total number of nucleons[^2] is called the mass number: A = Z+N. It's just counting.
 
-Picking carbon as an example, all carbon atoms have Z = 6: six protons.[^3] Most carbon atoms (98.93%) have N 6, making A = 12. But some isotopes carry a different number of neutrons. In natural carbon samples, 1.07% have N = 7, making A = 13. We label such an isotope as 13C (A=13), or sometimes 13C6 (A = 13; Z 6), or even in some cases the fully-described 13C6,7, (A = 13; Z = 6; N = 7). The latter two forms are somewhat redundant-though sometimes appreciated/helpful— because all carbon atoms have Z = 6, and N = A - Z always. Therefore, 13C says it all, provided you can easily find or remember the Z number for carbon. The general pattern for an isotope of element X is (A, Z)X(N) Other common designations are, for example, C12, C13, U238, or C-12, C-13, U-238 as alternatives to 12C, 13C, and 238 U, respectively.
+[^2]: ... a name describing either protons or neutrons: any nuclear constituent
+
+
+Picking carbon as an example, all carbon atoms have Z = 6: six protons.[^3] Most carbon atoms (98.93%) have N 6, making A = 12. But some isotopes carry a different number of neutrons. In natural carbon samples, 1.07% have N = 7, making A = 13. We label such an isotope as 13C (A=13), or sometimes 13C6 (A = 13; Z 6), or even in some cases the fully-described 13C6,7, (A = 13; Z = 6; N = 7). The latter two forms are somewhat redundant-though sometimes appreciated/helpful— because all carbon atoms have Z = 6, and N = A - Z always. Therefore, 13C says it all, provided you can easily find or remember the Z number for carbon.[^4] The general pattern for an isotope of element X is (A, Z)X(N) Other common designations are, for example, C12, C13, U238, or C-12, C-13, U-238 as alternatives to 12C, 13C, and 238 U, respectively.
+
+[^3]: One might say this is what defines the carbon atom.
+
+[^4]:...just the sequential number labeling boxes in the periodic table: Fig. B.1 (p. 375)
+
 
 
 <details><summary>Example 15.1.1</summary>
@@ -49,13 +57,11 @@ First, the math. A 239 and Z = 94 so N = A - Z = 145. Starting at the simple end
 
 The physicist's version of the periodic table is called the Chart of the Nuclides, and contains a wealth of information. The basic layout idea is introduced in Figure 15.2, for the extreme low-mass end of nuclides.
 
-Definition 15.1.1 A nuclide is any unique combination of nucleons, so that every nucleus is one of the possible nuclides. For example, the 12C nucleus is one nuclide, while 13C is a distinct, different nuclide.
+Definition 15.1.1   
+A nuclide is any unique combination of nucleons, so that every nucleus is one of the possible nuclides. For example, the 12C nucleus is one nuclide, while 13C is a distinct, different nuclide.
 
 Figure 15.3 provides a full view of the chart layout: neutron number, N, runs horizontally and proton number, Z, runs vertically. Stable nuclei are indicated by black boxes at some particular integer value of N and
 
-2: ... a name describing either protons or neutrons: any nuclear constituent
-3: One might say this is what defines the carbon atom.
-4:...just the sequential number labeling boxes in the periodic table: Fig. B.1 (p. 375)
 number of protons
 Li4
 Li5

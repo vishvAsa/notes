@@ -1029,20 +1029,20 @@ Pros and cons are listed separately for PV and ST in Section 13.7.1 and Section 
 
 [[222]]
 
-Holding solar back is its intermittency[^95] and high up-front cost. Intermittency can be solved by battery storage, but this can double the cost and require maintenance and periodic battery replacement. Additionally- as for many of our renewable options-all of our society's demands 9% are not well met by electricity generation. [^98]
+Holding solar back is its intermittency[^95] and high up-front cost. Intermittency can be solved by battery storage, but this can double the cost and require maintenance and periodic battery replacement. Additionally- as for many of our renewable options- all of our society's demands 9% are not well met by electricity generation. [^98]
 
-Sizing up a PV installation is fairly straightforward. Having first determined how many kWh per day are to be produced, on average, divide this by the kWh/m2/day value for the site," which is essentially the number of hours of full-sun" equivalent, and tends to be in the 4-6 hour ballpark. This says how many kilowatts the array should produce in full sun (peak Watts). For instance, if only 10 kWh/day are needed," and the region in question gets 5 kWh/m2/day, the system needs to operate at a peak power of 2 kWp, costing about $6k to purchase and install (grid tied). Inflating by 20% offsets unaccounted losses100 to better match real conditions.
-
-Solar thermal energy is another way to run a traditional steam-based power plant, using relatively low-tech mirrors and pipes to concentrate solar energy into a heat-carrying fluid that can later make steam. Effective efficiencies are relatively low,[^101] but on the bright side, the low-tech nature makes it fairly cheap, and the technique can accommodate some degree of thermal storage for use some hours into the evening. Anything[^102] starting from solar input has the potential to be a major player, given the ~100,000 TW scale of solar energy incident upon the earth.
 
 [^95]: ... low capacity factor that is weather- dependent
 
 [^96]: ... like transportation and industrial processing
 
-[^97]:
-. either annual or monthly
+[^97]: either annual or monthly
 
 [^98]: 1,000 W/m2
+
+Sizing up a PV installation is fairly straightforward. Having first determined how many kWh per day are to be produced, on average, divide this by the kWh/m2/day value for the site," which is essentially the number of hours of full-sun" equivalent, and tends to be in the 4-6 hour ballpark. This says how many kilowatts the array should produce in full sun (peak Watts). For instance, if only 10 kWh/day are needed," and the region in question gets 5 kWh/m2/day, the system needs to operate at a peak power of 2 kWp, costing about $6k to purchase and install (grid tied). Inflating by 20% offsets unaccounted losses100 to better match real conditions.
+
+Solar thermal energy is another way to run a traditional steam-based power plant, using relatively low-tech mirrors and pipes to concentrate solar energy into a heat-carrying fluid that can later make steam. Effective efficiencies are relatively low,[^101] but on the bright side, the low-tech nature makes it fairly cheap, and the technique can accommodate some degree of thermal storage for use some hours into the evening. Anything[^102] starting from solar input has the potential to be a major player, given the ~100,000 TW scale of solar energy incident upon the earth.
 
 [^99]:...because you are careful about energy expenditures
 
@@ -1050,9 +1050,7 @@ Solar thermal energy is another way to run a traditional steam-based power plant
 
 [^101]: 3% of solar energy hitting the plant area ends up as electricity
 
-[^102]:
-low
-even if the efficiency is modest or
+[^102]: even if the efficiency is modest or low
 
 ## 13.10 Problems
 1. If we had two monochromatic (single-wavelength) light sources- -a
