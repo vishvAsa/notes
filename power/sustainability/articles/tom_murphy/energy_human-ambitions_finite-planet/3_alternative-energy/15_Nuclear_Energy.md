@@ -60,52 +60,29 @@ The physicist's version of the periodic table is called the Chart of the Nuclide
 Definition 15.1.1   
 A nuclide is any unique combination of nucleons, so that every nucleus is one of the possible nuclides. For example, the 12C nucleus is one nuclide, while 13C is a distinct, different nuclide.
 
-Figure 15.3 provides a full view of the chart layout: neutron number, N, runs horizontally and proton number, Z, runs vertically. Stable nuclei are indicated by black boxes at some particular integer value of N and
+(Figure 15.2: Lower left start of the Chart of the Nuclides, shown pictorially in terms of the number of protons (red) and number of neutrons (lavender) in each nuclide. Gray boxes are stable nuclides, and H3 (tritium) is semi-stable for a decade or so.Z. Notice how they bend away from the N = Z line, preferring to be neutron-rich. This can be traced to the fact that protons repel each other due to their electric charge, so the nucleus can be more tightly bound if fewer protons than neutrons are present-balanced against another penalty for being too far away from N = Z.)
 
-number of protons
-Li4
-Li5
-Li6
-Li7
-He3
-He4
-He5
-He6
-H1
-H2
-H3
-H4
-H5
-n1
-о
-8
-number of neutrons
-88
-Figure 15.2: Lower left start of the Chart of the Nuclides, shown pictorially in terms of the number of protons (red) and number of neutrons (lavender) in each nuclide. Gray boxes are stable nuclides, and H3 (tritium) is semi-stable for a decade or so.Z. Notice how they bend away from the N = Z line, preferring to be neutron-rich. This can be traced to the fact that protons repel each other due to their electric charge, so the nucleus can be more tightly bound if fewer protons than neutrons are present-balanced against another penalty for being too far away from N = Z.
-100
 
-241
-Proton Number, Z
-90
-80
-70
-60
-50
-40
-30
-Fe
-20
-10
-0
-0 10 20 30 40 50
-60
-Th
-Pb
-70 80 90 100 110 120 130 140 150 Neutron Number, N
+[[241]]
+
+{{< figure src="../images/proton_vs_neutron-numbers.png" title="" class="thumbnail">}}
+
+Figure 15.3 provides a full view of the chart layout:  
+neutron number, N, runs horizontally  
+and proton number, Z, runs vertically.  
+Stable nuclei are indicated by black boxes at some particular integer value of N and Neutron Number, N.
+
+
+<div class="js_include" url="..images/neuclide-chart_low-end.png"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+(Figure 15.4: Chart of the Nuclides for the low-mass end. Neutron number, N, increases toward the right (green numbering at bottom) and proton number, Z, increases vertically (blue numbering at left). Scientific notation is expressed as, e.g., 8e-23, meaning $8 x 10^{-23}$. A wealth of information is included: spend some time studying the surrounding guides to learn what data each box contains.)
+
 Figure 15.4 shows the lower-left corner of the chart in much greater detail. For each element (horizontal row), properties of all known isotopes are listed-even those that are radioactive and do not persist for even a small fraction of a second before decaying. Stable isotopes are denoted by gray boxes. The mass of each, in atomic mass units (a.m.u.)— defined so that the neutral 12C atom is exactly 12.0000 a.m.u.—is given, and the natural abundance as found on Earth, in percent. The Chart of the Nuclides lets us peak inside the periodic table in great detail, as Example 15.1.2 suggests.
-=
+
 Example 15.1.2 From the Boron row (Z 5) in Figure 15.4, we can see that 19.9% of boron is found in the form of 10B, while the other 80.1% is 11B.
 The weighted composite mass is therefore 0.199 x 10.0129370+0.801× 11.0093055, yielding 10.81103 a.m.u., which is the number presented as the molar mass on the periodic table."
+
 Because the Chart of the Nuclides has neutron number, N, increasing from left to right, and proton number, Z, increasing vertically, nuclei having the same mass number, A = Z+N, are arranged on diagonals. Notice that in the region shown in Figure 15.4, we never find more than one stable element at each mass number (constant A).
 Figure 15.3: Layout of the Chart of the Nuclides, showing positions of naturally- occurring nuclei (stable or long-lived enough to be present on Earth). Stable nuclei tend to have more neutrons than protons-especially for heavier nuclei. This is why the track of stable nuclei bends away from the N = Z diagonal line. Arrows point to important elements of iron, lead, thorium, and uranium at Z values of 26, 82, 90, and 92, respectively.
 5: Even this level of detail is short of what can be found in the actual Chart of the Nu- clides, which also provides quantitative val- ues for neutron absorption, nuclear spins, excited states, additional decay paths and associated energies.
@@ -113,283 +90,7 @@ Figure 15.3: Layout of the Chart of the Nuclides, showing positions of naturally
 =
 Follow A 12, for instance, from O12 through Be12, crossing through C12 as the only stable element of this mass.
 
-
-H1
-isotope
-99.9885
-% abundance
-012
-proton
-stable; name (for some)
-O
-~1e-21 s
-013
-0.0086 s
-014
-70.6 s
-015 2.037 m
-016
-99.757
-017 0.038
-8
-1.007825032
-mass, a.m.u.
-Oxygen
-2p
-B
-B+
-B+
-15.9994
-12.03440
-E 17.77
-E 5.1430
-E 2.754
-15.99491462 16.9991315
-Li8
-isotope
-0.840 s
-half life (radioactive)
-N
-N11
-1e-21 s
-N12
-0.01100 s
-N13 9.97 m
-N14 99.632
-N15 0.368
-N16
-7.13 s
-primary decay path
-7 Nitrogen
-P
-B
-B+
-B-
-E 16.0045
-mass or decay energy (MeV)
-14.0067
-C8
-Top Half Coloring:
-C
-2.0e-21 s
-C9
-0.127 s
-11.0268
-C10
-19.29 s
-E 17.338
-E 2.2204
-14.00307401 15.00010890
-E 10.420
-C11
-20.36 m
-C12
-98.93
-C13
-1.07
-C14
-5715 yr
-C15
-2.450 s
-Half Life Guide
-6 Carbon
-4p+a
-B+
-< 1 day
-B*
-B
-B-
-B-
-12.0107
-8.03768
-E 16.498
-E 3.6478
-E 1.983
-12.00000000 13.00335484
-E 0.156475
-E 9.772
-1 to 10 days
-10 to 100 days
-B
-B7
-3e-22 s
-B8
-0.770 s
-B9
-8e-19 s
-B10
-19.9
-B11
-80.1
-B12
-0.02020 s
-B13
-0.0174 s
-B14 0.013 s
-5
-Boron
-100 days to 10 yr
-3p+a
-B+
-p+2α
-B-
-B-
-B-
-10.811
-10 yr to 500 Myr
-7.0299
-E 17.979
-> 500 Myr or stable
-Be 4 Beryllium
-Be6
-5.0e-21 s
-Be7
-53.3 days
-9.013329
-Be8
-~7e-17 s
-10.0129370 11.0093055
-E 13.369
-E 13.437
-Be9 100
-Be10 1.5 Myr
-Be11
-13.8 s
-Be12
-0.0215 s
-E 20.64
-Be13 v. short
-2p+a
-e capt. to Li7 20
-B-
-B-
-B-
-n?
-9.012182
-Li
-Li4
-8e-23 s
-6.01973
-Li5
-~3e-22 s
-E 0.86182
-Li6
-7.59
-8.0530509
-Li7
-92.41
-9.0121821
-E 0.556
-E 11.51
-E 11.71
-E 17.1
-Li8
-0.840 s
-Li9
-0.1783 s
-Li10
-2e-21 s
-Li11
-0.0086 s
-3 Lithium
-p
-p+a
-B-
-B-
-n
-B-
-6.941
-2
-He Helium
-4.0272
-He3
-0.000137
-5.0125
-He4
-99.999863
-alpha (α)
-6.015122
-He5
-7e-22 s
-7.016004
-He6
-0.807 s
-E 16.0045
-E 13.606
-He7
-3e-21 s
-He8
-0.119 s
-10.03548
-He9 v. short
-E 20.62
-He10
-2e-21 s
-nta
-B-
-n
-B-
-n
-2n
-4.002602
-3.016029310 4.002603250
-5.0121
-E 3.508
-H1
-H2
-H3
-H4
-H
-99.9885
-0.0115
-12.32 yr
-8e-23 s
-H5 v. short
-7.02803
-H6
-3e-22 s
-E 10.65
-9.0438
-6
-7
-8
-1 Hydrogen
-proton (p)
-1.00794
-deuteron (D) B triton (T) Π
-1.007825032 2.014101778
-n
-3n or 4n
-E 0.018591
-4.0278
-5.035
-n1
-2
-3
-6.0449
-5
-Bottom Half Coloring: Neutron Absorption (Barns)
-or
-<10
-n
-neutron
-10.25 m neutron (n)
-10 to 100
-B
-1.0086649
-E 0.782353 1.008664923
-Z
-N
-radioactive but found naturally
-C14 5715 yr
-β
-E 0.156475
-1 a.m.u. = 1.66054e-27 kg 1a.m.u. 931.49432 MeV/c2 1 MeV = 1.6022e-13 J
-100 to 500
-500 to 1000
->1000
-242
-Figure 15.4: Chart of the Nuclides for the low-mass end. Neutron number, N, increases toward the right (green numbering at bottom) and proton number, Z, increases vertically (blue numbering at left). Scientific notation is expressed as, e.g., 8e-23, meaning 8 x 10-23. A wealth of information is included: spend some time studying the surrounding guides to learn what data each box contains.
+[[242]]
 
 ## 15.2 Radioactive Decay
 When one nuclide, or isotope changes into another, it does so by the process of radioactive decay. Stable nuclides have no incentive to undergo such decays, but unstable nuclides will seek a more stable configuration through the decay process.
@@ -1452,10 +1153,10 @@ Neutron Absorption (Barns)
 100 days to 10 yr
 10 yr to 500 Myr
 500 to 1000
->1000
+> 1000
 > 500 Myr or stable
-U233, U235, Pu239 are slow-neutron fissile
-Figure 15.18: Chart of the Nuclides in the fission region. See also Figure 15.4 for the lower-left corner.
+> U233, U235, Pu239 are slow-neutron fissile
+> Figure 15.18: Chart of the Nuclides in the fission region. See also Figure 15.4 for the lower-left corner.
 
 The result is that sterile 238U can be turned into fissile 239Pu that can be used in fission reactors. This process of transmuting an inert nucleus into a fissile one is called breeding, and is how we get any plutonium at all.[^44] A nuclear reactor is a great place to introduce 238U to neutrons: both are already in attendance. 
 
