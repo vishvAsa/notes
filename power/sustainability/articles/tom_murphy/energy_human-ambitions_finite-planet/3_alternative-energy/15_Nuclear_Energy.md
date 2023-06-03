@@ -80,8 +80,14 @@ Stable nuclei are indicated by black boxes at some particular integer value of N
 
 Figure 15.4 shows the lower-left corner of the chart in much greater detail. For each element (horizontal row), properties of all known isotopes are listed-even those that are radioactive and do not persist for even a small fraction of a second before decaying. Stable isotopes are denoted by gray boxes. The mass of each, in atomic mass units (a.m.u.)— defined so that the neutral 12C atom is exactly 12.0000 a.m.u.—is given, and the natural abundance as found on Earth, in percent. The Chart of the Nuclides lets us peak inside the periodic table in great detail, as Example 15.1.2 suggests.
 
-Example 15.1.2 From the Boron row (Z 5) in Figure 15.4, we can see that 19.9% of boron is found in the form of 10B, while the other 80.1% is 11B.
-The weighted composite mass is therefore 0.199 x 10.0129370+0.801× 11.0093055, yielding 10.81103 a.m.u., which is the number presented as the molar mass on the periodic table."
+<details><summary>Example 15.1.2</summary>
+
+Example 15.1.2  
+From the Boron row (Z 5) in Figure 15.4, we can see that 19.9% of boron is found in the form of 10B, while the other 80.1% is 11B.  
+The weighted composite mass is therefore 0.199 x 10.0129370 + 0.801 × 11.0093055, yielding 10.81103 a.m.u., which is the number presented as the molar mass on the periodic table.
+
+</details>
+
 
 Because the Chart of the Nuclides has neutron number, N, increasing from left to right, and proton number, Z, increasing vertically, nuclei having the same mass number, A = Z+N, are arranged on diagonals. Notice that in the region shown in Figure 15.4, we never find more than one stable element at each mass number (constant A).
 Figure 15.3: Layout of the Chart of the Nuclides, showing positions of naturally- occurring nuclei (stable or long-lived enough to be present on Earth). Stable nuclei tend to have more neutrons than protons-especially for heavier nuclei. This is why the track of stable nuclei bends away from the N = Z diagonal line. Arrows point to important elements of iron, lead, thorium, and uranium at Z values of 26, 82, 90, and 92, respectively.

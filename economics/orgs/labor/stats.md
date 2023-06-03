@@ -11,3 +11,5 @@ title = "Stats"
 
 ### Urban hands
 - "A store near my house closed because it could not find employees at 15K INR/month. High attrition. " 2023 near maisUru road, Bengaluru. (RH)
+- gardener who visits once every week charges ~400 RS per visit 2023 near maisUru road, Bengaluru. (RH)
+- gardener who visits once every week charges ~400 RS per visit 2023 near maisUru road, Bengaluru. (RH)

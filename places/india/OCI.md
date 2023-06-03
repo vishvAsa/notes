@@ -10,4 +10,7 @@ title = "OCI"
 - the notification now equates OCIs to “foreign nationals” in respect of “all other economic, financial and educational fields” for the purposes of the Foreign Exchange Management Act, 2003 although past circulars by the Reserve Bank of India under FEMA will hold ground.
 
 ## Benefits
-- OCIs can however continue to purchase land (other than agricultural land), pursue the profession of medicine, law, architecture and accountancy and seek parity with Indian citizens with regard to airfares and entry fee to monuments and parks. OCIs can also continue to seek enrolment in Indian educational institutions on par with NRIs but not for seats reserved exclusively for Indian citizens.
+- OCIs can however continue to purchase land (other than agricultural land)
+  - OCI-s can inherit the agricultural land/plantation property/ farmland.
+- Can pursue the profession of medicine, law, architecture and accountancy and seek parity with Indian citizens with regard to airfares and entry fee to monuments and parks. 
+- OCIs can also continue to seek enrolment in Indian educational institutions on par with NRIs but not for seats reserved exclusively for Indian citizens.
