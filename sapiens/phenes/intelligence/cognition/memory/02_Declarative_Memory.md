@@ -30,7 +30,7 @@ As an memory is recalled, the memory stored in the brain is modified.
 For example, 1] Whenever we remember a face, we actually reconstruct picture of the face. 2] in one case a rape victim in trying to identify the rapist from a lineup merged the memory of a similar face with the memorized face of the rapist.
 
 ## Long-term storage techniques
-General knowledge acquisition techniques are considered elsewhere.
+General knowledge acquisition techniques are considered elsewhere. Memory champions use "strategies for encoding information with the sole purpose of making it more memorable".
 
 Long term storage necessarily requires paying attention to the material.
 
@@ -39,6 +39,9 @@ Location method is also the technique to remember lists of objects where one, in
 
 ### Mnemonics
 Mnemonics are short, easier-to-remember sounds used to remember larger sentences and lists.
+
+### Number memory
+Some memorize a simple image to associate with each of the two-digit combinations from 00 to 99 — one of the most basic techniques in the mnemonist's tool kit.
 
 ### Exercises
 Working harder while getting the information helps with storing memory - like associating it with previous ideas or using deliberately hard text.
