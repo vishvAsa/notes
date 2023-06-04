@@ -27,6 +27,9 @@ Another lady kept pestering us for ghee, said she will pay to which also we decl
 ## Crop theft
 Despite being well aware that the crop goes for cow fodder, every once in a while, a decent amount gets stolen.. rooted rustic dharmika pillagers.. Only today found out that about 8-10 bundles of jowar have been stolen from our land, cut from the middle so that we won't discover until late, the thief was encountered, obviously he denied.. welcome to village life.
 
+## Squatting tenant
+(recollected and paraphrased) A former-tenant (barber?) sowed season after season giving excuses till Mohit gathered neighbors, quarreled with him and cut the crop.
+
 ## Price gouging
 When we were new and didn’t have much idea about the rates of fodder, we paid as much as 5-10x the normal rate for a good number of weeks before we figured out the scam.
 
@@ -43,4 +46,6 @@ There is this toilet waste exit from a home right behind a temple near our place
 With lesser children, (even relatively) better off farmers/villagers now don’t want to keep cattle.
 
 221108  
-Saw village women chasing away a cow w/ apparently diseased udder (mastitis looks like), as the cow tries to enter the home of her masters again and again.. occasional rooted rustic dharmika village morning. Initially i used to feel terribly sad about all this, now there's a mixture of impotent anger and pessimism.
+
+Saw village women chasing away a cow w/ apparently diseased udder (mastitis looks like), as the cow tries to enter the home of her masters again and again.. occasional rooted rustic dharmika village morning. Initially I used to feel terribly sad about all this, now there's a mixture of impotent anger and pessimism.
+
