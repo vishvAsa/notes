@@ -400,7 +400,7 @@ Definition 5.9.1 One electron-volt is the energy associated with pushing one fun
 (5.3) 
 The electron-volt, at 1.6 x $10^{-19}$ J, is a tiny amount of energy. But it's just the right level for describing energetic processes for individual atoms. 
 Example 5.9.1 When 12 grams of carbon (one mole, or 6x1023 atoms35) reacts with oxygen to form CO2, about 394 kJ of energy is released.[^36] How much energy is this per carbon atom in electron-volts? 
-Since we have one mole, or 6 x 1023 carbon atoms, we divide our total energy (3.94 × 105 J) by the number of atoms to get 6.5 x $10^{-19}$ J per atom. This is just a bit larger than 1 eV (1.6 x 10-19 J), and the division leads to something very close to 4 eV per atom. 
+Since we have one mole, or 6 x 1023 carbon atoms, we divide our total energy (3.94 × 105 J) by the number of atoms to get 6.5 x $10^{-19}$ J per atom. This is just a bit larger than 1 eV (1.6 x $10^{-19}$ J), and the division leads to something very close to 4 eV per atom. 
 Because CO2 has a total of four bonds between the carbon atom and the two oxygen atoms,[^37] we see that each bond accounts for about 1 eV. Chemical bonds are often in this range, highlighting the usefulness of the eV unit at the atomic level. 
 
 [^34]: Really, this is just the kinetic energy of the particle. 
@@ -428,10 +428,10 @@ hc
 39 
 corre- 
 
-[^39]: A micron (um, or micrometer) is an- other way to say 10-6 n 
+[^39]: A micron (um, or micrometer) is an- other way to say $10^{-6}$ n 
 m. 
-where h = 6.626 × 10-34 J·s is Planck's constant and c≈ 3.0 × 108 m/s is the speed of light. 
-Example 5.10.1 Visible light has a wavelength of 0.4-0.7 μm, sponding to 2.8-5.0x10-19 J for each photon. 
+where h = 6.626 × $10^{-34}$ J·s is Planck's constant and c≈ 3.0 × 108 m/s is the speed of light. 
+Example 5.10.1 Visible light has a wavelength of 0.4-0.7 μm, sponding to 2.8-5.0x$10^{-19}$ J for each photon. 
 We also routinely express photon energy in electron-volts (eV) according to Definition 5.10.2. 
 Definition 5.10.2 Given the wavelength in microns (um), the energy of a photon in eV units is 
 1.24 
