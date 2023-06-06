@@ -178,7 +178,7 @@ characterize burning fuel as a purely thermal action, since what transpires with
 PV = NkBT. 
 23 
 (6.1) 
-P, V and T are pressure, volume, and temperature (in N/m2, m3, and Kelvin). N is the number of atoms or molecules, and kg = 1.38×10-23 J/K 
+P, V and T are pressure, volume, and temperature (in N/m2, m3, and Kelvin). N is the number of atoms or molecules, and kg = 1.38×$10^{-23}$ J/K 
 kB is the Boltzmann constant, which we will see again in Sec. 13.2 (p. 199). The temperature rise upon ignition is fast enough that the cylinder volume does not have time to change. Eq. 6.1 then tells us that the pressure must also spike when temperature does, all else being held constant. The increase in pressure then pushes the piston away, increasing the cylinder volume and performing work.[^24] But it all starts thermally, via a sharp increase in temperature. 
 In the most general terms, thermal energy tries to flow from hot to cold-out of a pot of hot soup; or into a cold drink from the surrounding air; or into your feet from hot sand. Some part of this flow can manifest as physical work, at which point the system can be said to be acting as a heat engine. 
 Definition 6.4.1 A heat engine is loosely defined as any system that turns heat, or thermal energy into mechanical energy: moving stuff. 

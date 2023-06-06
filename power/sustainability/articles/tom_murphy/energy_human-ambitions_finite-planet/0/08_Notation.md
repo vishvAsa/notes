@@ -11,10 +11,10 @@ Speed of light in a vacuum inertial frame: 2.99792458 × 108 m/s ≈ 3 x 108 m/s
 g acceleration due to gravity: 9.8 m/s2 or ~10 m/s2
 
 h
-Planck's constant: 6.626 × 10-34 J. S
+Planck's constant: 6.626 × $10^{-34}$ J. S
 
 KB
-Boltzmann's constant: 1.38 x 10-23 J/K
+Boltzmann's constant: 1.38 x $10^{-23}$ J/K
 
 ΝΑ
 Avogadro's number: 6.022 × 1023 particles per mole
@@ -32,7 +32,7 @@ reo
 Earth-Sun distance (1 AU): 149.6 million km
 
 σ
-Stefan-Boltzmann constant: 5.67 x 10-8 W/K/m2
+Stefan-Boltzmann constant: 5.67 x $10^{-8}$ W/K/m2
 
 AS
 Change in entropy, in J/K
@@ -46,7 +46,7 @@ Change in energy-work performed, in Joules
 ## Scale Factor Prefixes
 Factor Letter Prefix Factor Letter Prefix
 
-10-2 10-18
+$10^{-2}$ $10^{-18}$
 -21
 
 Z zepto 1021
@@ -60,12 +60,12 @@ atto
 E
 exa
 
-10-15
+$10^{-15}$
 femto
 1015
 P
 
-10-12
+$10^{-12}$
 peta
 P
 
@@ -73,19 +73,19 @@ pico 1012
 T
 tera
 
-10-9
+$10^{-9}$
 n
 nano 109
 
 G
-10-6
+$10^{-6}$
 giga
 
 μ
 micro 106
 
 M
-10-3
+$10^{-3}$
 mega
 
 m

@@ -34,7 +34,7 @@ is compiled by the U.S. EIA, capturing energy use and trends for all sources and
 describes a condition where given the choice to pursue action B for fear of some future condition instead of the normal action A, the downside of being correct about the threat and not taking action B is far more disastrous than being wrong about the threat and pursuing route B unnecessarily. 345, 351
 
 ## atomic mass unit
-(a.m.u.) is defined so that a single neutral carbon atom, consisting of 6 protons, 6 neutrons, and 6 electrons has exactly 12.00000 a.m.u. In other units, it is 931.4941 MeV or 1.66054 x 10-27 kg. This unit sometimes goes by the name: Dalton. 241, 376, 422, 433
+(a.m.u.) is defined so that a single neutral carbon atom, consisting of 6 protons, 6 neutrons, and 6 electrons has exactly 12.00000 a.m.u. In other units, it is 931.4941 MeV or 1.66054 x $10^{-27}$ kg. This unit sometimes goes by the name: Dalton. 241, 376, 422, 433
 
 ## AU
 Astronomical Unit. 56, 206, 420, 422
@@ -74,7 +74,7 @@ is a term describing the radiative qualities for thermal emission of light (infr
 is a type of nuclear fission reactor in which water surrounding the fuel rods acts both as a moderator and as the means of transporting heat away from the nuclear fuel. 255, 256 
 
 ## Boltzmann constant
-is a fundamental constant of nature associated with thermodynamics. In SI units, it has a value of kB = 1.38 x 10-23 J/K. 89, 199, 381
+is a fundamental constant of nature associated with thermodynamics. In SI units, it has a value of kB = 1.38 x $10^{-23}$ J/K. 89, 199, 381
 
 ## breeder reactor
 is a nuclear fission reactor that transforms non-fissile nuclei into ones that are fissile by means of neutron capture and subsequent radioactive decay. 250, 262, 264, 296, 423
@@ -150,7 +150,7 @@ is used in a nuclear fission reactor to absorb neutrons so that the chain reacti
 coefficient of performance. 97, 99, 335, 424
 
 ## Coulomb
-(C) is the SI unit of electric charge. An electron has a charge of -1.6 x 10-19 C and a proton has a charge of +1.6 × 10-19 C. 77, 422, 424, 427
+(C) is the SI unit of electric charge. An electron has a charge of -1.6 x $10^{-19}$ C and a proton has a charge of +1.6 × $10^{-19}$ C. 77, 422, 424, 427
 
 ## coupled
 refers to the tight connection often seen between energy/resource use and economic scale (as measured, for instance, by GDP). 18, 425
@@ -226,7 +226,7 @@ refers to the sweep of wavelengths or frequencies of electromagnetic radiation, 
 is a fundamental particle typically found in the outer parts of atoms, surrounding the nucleus. Electrons have negative charge equal and opposite to that of protons, but are 1,836 times lighter than the proton, at 0.511 MeV. 77, 78, 198, 202, 239, 244, 245, 255, 395, 422, 423, 425, 426, 429, 430, 433-435, 438
 
 ## electron-volt
-(eV) is a unit of energy, defined as the energy (work) it takes to push a charge of one fundamental charge unit (see entry for Coulomb) through an electric potential of one Volt. 1 eV is equivalent to 1.6 x 10-19 Joules. 78, 198, 223, 248, 428, 432
+(eV) is a unit of energy, defined as the energy (work) it takes to push a charge of one fundamental charge unit (see entry for Coulomb) through an electric potential of one Volt. 1 eV is equivalent to 1.6 x $10^{-19}$ Joules. 78, 198, 223, 248, 428, 432
 
 ## element
 pertains to a single atom on the Periodic Table. For instance, hydrogen, helium, and carbon are all elements. 376, 379, 424, 432
@@ -461,13 +461,13 @@ concerns itself with the allocation of goods and services across the marketplace
 refers to a failure mode of nuclear fission reactors, in which the chain reaction becomes uncontrolled due to too many neutrons triggering new fission events (as may happen if control rods are absent or insufficiently deployed). 262, 263, 425
 
 ## MeV
-is a mega-electron-volt, or 106 eV. In Joules, it is equivalent to 1.6 x 10-13 J. Nuclear masses are often expressed in MeV/c2 terms, where 1 a.m.u. is equivalent to 931.4941 MeV. 78, 246-248, 253, 265, 422, 427, 433, 435
+is a mega-electron-volt, or 106 eV. In Joules, it is equivalent to 1.6 x $10^{-13}$ J. Nuclear masses are often expressed in MeV/c2 terms, where 1 a.m.u. is equivalent to 931.4941 MeV. 78, 246-248, 253, 265, 422, 427, 433, 435
 
 ## micro-economics
 concerns itself with the production of goods, including raw resources, marketing, and distribution. 323, 324, 433
 
 ## micron
-(um) is 10-6 meters, or a micro-meter. 198, 200, 438 
+(um) is $10^{-6}$ meters, or a micro-meter. 198, 200, 438 
 
 ## moderator
 in the context of nuclear fission is a material used to slow down neutrons speeding out from the break-up so that they can become thermal neutrons and stimulate subsequent fission events in a chain reaction. Light atoms like water are a good choice for absorbing the neutron impacts. 251, 255, 256, 423
@@ -502,7 +502,7 @@ derives from reconfiguring the nuclei of atoms, releasing tremendous thermal ene
 is either of the two building blocks of a nucleus, meaning that it is either a proton or a neutron. 240, 247, 248, 251, 376, 432, 433, 437
 
 ## nucleus
-is at the center of an atom, composed of protons and neutrons and spanning~ 10-15 m. The vast majority (99.97%) of an atom's mass is in the positively charged nucleus, which attracts a cloud of negative-charge electrons to complete the neutral atom. 239, 375, 376, 422, 423, 425-429, 431-433, 435, 437
+is at the center of an atom, composed of protons and neutrons and spanning~ $10^{-15}$ m. The vast majority (99.97%) of an atom's mass is in the positively charged nucleus, which attracts a cloud of negative-charge electrons to complete the neutral atom. 239, 375, 376, 422, 423, 425-429, 431-433, 435, 437
 
 ## nuclide
 is any bound arrangement of protons and neutrons. Every nucleus of every isotope is one of the possible nuclides, designated, for instance as C12, C-12, or 12C. 240, 242, 243, 424, 428, 431, 435
@@ -535,7 +535,7 @@ is the process by which living matter captures sunlight and stores some of it as
 describes a mathematically precise spectrum of light emission from a blackbody, fully defined by the temperature of the blackbody. 145, 199-201, 423, 436, 438
 
 ## Planck's constant
-is a fundamental constant of nature associated with quantum mechanics and the world of the very small. In SI units, its value is h = 6.626 x 10-34 J. s. 79, 198, 199
+is a fundamental constant of nature associated with quantum mechanics and the world of the very small. In SI units, its value is h = 6.626 x $10^{-34}$ J. s. 79, 198, 199
 
 ## plasma
 is a gas hot enough to strip electrons from atoms to create a highly-ionized medium, such as the gas comprising the sun. 265, 267, 268, 392, 393, 395, 425, 437
@@ -634,7 +634,7 @@ describes a distribution, often associated with light. In this context, a light 
 solar thermal. 219-221, 269, 424, 436
 
 ## Stefan-Boltzmann constant
-(a) has a value of 5.67 x 10-8 W/m2/K4 and is used in the Stefan-Boltzmann law relating to infrared radiation. 10, 144, 199, 437
+(a) has a value of 5.67 x $10^{-8}$ W/m2/K4 and is used in the Stefan-Boltzmann law relating to infrared radiation. 10, 144, 199, 437
 
 ## Stefan-Boltzmann law
 says that the power emitted from a surface of area, A, and temperature, T will be P = AσT4, where σ is the Stefan-Boltzmann constant. 10, 144, 199, 431, 437

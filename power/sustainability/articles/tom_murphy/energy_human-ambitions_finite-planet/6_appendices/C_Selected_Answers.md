@@ -114,7 +114,7 @@ two
 33. Nearly 10 kW; will cost over $1,000; don't do this! 
 34. Will last 2-3 hours 
 35. In line with most chemical reactions, in the 50-200 kJ/mol range 
-36. Between 3-5x10-19 J per photon; get more than 1018/sec 
+36. Between 3-5x$10^{-19}$ J per photon; get more than 1018/sec 
 37. In the neighborhood of 1 μm or 1 eV 
 Chapter 6 
 1. Approx. 200 kJ, depending on mass 
@@ -167,7 +167,7 @@ Chapter 7
 16. A few dozen times more volume, and about 102 in mass 
 17. > 1,000x more expensive 
 18. Will cost nearly $1,000 
-19. Between 10-15% 
+19. Between $10^{-15}$% 
 23. Approximately half-century 
 24. Roughly a third 
 25. If the rate of production increases... 
@@ -191,7 +191,7 @@ C Selected Answers
 Chapter 9 
 1. A single integer works okay for all three 
 2. Nearly 100 kg 
-3. Between 10-15 kg 
+3. Between $10^{-15}$ kg 
 4. Approaching 1 GJ, and human-mass scale 
 5. Total is like small adult or large child 
 6. More than a factor of two 

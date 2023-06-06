@@ -308,7 +308,7 @@ P = Asurf (Thot-Told).
 16 
 .15 
 (1.8) 
-P is the power radiated, Asurf is the surface area, Thot is the temperature of the radiating object in Kelvin (very important!), Tcold is the temperature of the environment (also Kelvin), and σ is the Stefan-Boltzmann constant: σ = 5.67 x 10-8 W/m2/K4.17 Note that the law operates on the difference of the fourth powers of two temperatures. 
+P is the power radiated, Asurf is the surface area, Thot is the temperature of the radiating object in Kelvin (very important!), Tcold is the temperature of the environment (also Kelvin), and σ is the Stefan-Boltzmann constant: σ = 5.67 x $10^{-8}$ W/m2/K4.17 Note that the law operates on the difference of the fourth powers of two temperatures. 
 Example 1.3.1 A table in a room in which the table and walls are all at the same temperature does not experience net radiation flow since the two temperatures to the fourth power subtract out. In this case, as much radiation leaves the table for the walls as arrives from the walls to the table. But a room-temperature object at 300 K radiates approximately 450 W per square meter to the coldness of space. 
 Some time, go feel the exhaust air from an air-conditioning unit, or the heat produced at the back and bottom of a refrigerator. Even though these devices perform a cool- ing function, they make more heat than cool. 
 

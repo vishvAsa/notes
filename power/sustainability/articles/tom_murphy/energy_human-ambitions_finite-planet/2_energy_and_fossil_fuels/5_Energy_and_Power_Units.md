@@ -355,7 +355,7 @@ ume.
 Electronic interactions are governed by charges pushing on each other. For the purposes of this course, we need only understand a few concepts. The first is voltage. 
  
 Voltage is a measure of electric potential, in Volts, and can be thought of as analogous to how high something is lifted.[^28] A higher voltage is like sitting higher on the shelf, and can do more work if allowed to be released. 
-Charge is moved around by electrical forces, and the amount of charge moved plays a role similar to that of mass in gravitational settings. The unit of charge is the Coulomb (C), and the smallest unit of charge we encounter in normal situations is from the proton (+1.6 × 10-19 C) or the electron (-1.6 x 10-19 C). 
+Charge is moved around by electrical forces, and the amount of charge moved plays a role similar to that of mass in gravitational settings. The unit of charge is the Coulomb (C), and the smallest unit of charge we encounter in normal situations is from the proton (+1.6 × $10^{-19}$ C) or the electron (-1.6 x $10^{-19}$ C). 
 Definition 5.8.1 The amount of energy in a charge, q, at a voltage, V, is 
 5 Energy and Power Units 
 77 
@@ -395,12 +395,12 @@ How long can we power a 1 W LED array from this battery? We can go the long way 
 The electron-volt (eV) is the unit of choice for energy at the atomic scale. This makes it ideal for discussing individual chemical bond strengths, the energy of individual photons of light emitted from atoms, and thermal energy per atom or molecule.[^34] We also use the eV for nuclear physics, but must increase the scale one million-fold and therefore speak of the mega-electron-volt, or MeV. 
 We have already hit all the relevant concepts for understanding the eV in Section 5.8. The main reason to have its own section is so that it 
 appears separately in the table of contents, making it easier to find and reference. The definition follows Definition 5.8.1 closely. 
-Definition 5.9.1 One electron-volt is the energy associated with pushing one fundamental unit of electron charge, |e| = 1.6×10-19 Coulombs, through an electric potential of 1 V: 
-1 eV = 1.6 × 10-19 C. 1V = 1.6 × 10-19 J 
+Definition 5.9.1 One electron-volt is the energy associated with pushing one fundamental unit of electron charge, |e| = 1.6×$10^{-19}$ Coulombs, through an electric potential of 1 V: 
+1 eV = 1.6 × $10^{-19}$ C. 1V = 1.6 × $10^{-19}$ J 
 (5.3) 
-The electron-volt, at 1.6 x 10-19 J, is a tiny amount of energy. But it's just the right level for describing energetic processes for individual atoms. 
+The electron-volt, at 1.6 x $10^{-19}$ J, is a tiny amount of energy. But it's just the right level for describing energetic processes for individual atoms. 
 Example 5.9.1 When 12 grams of carbon (one mole, or 6x1023 atoms35) reacts with oxygen to form CO2, about 394 kJ of energy is released.[^36] How much energy is this per carbon atom in electron-volts? 
-Since we have one mole, or 6 x 1023 carbon atoms, we divide our total energy (3.94 × 105 J) by the number of atoms to get 6.5 x 10-19 J per atom. This is just a bit larger than 1 eV (1.6 x 10-19 J), and the division leads to something very close to 4 eV per atom. 
+Since we have one mole, or 6 x 1023 carbon atoms, we divide our total energy (3.94 × 105 J) by the number of atoms to get 6.5 x $10^{-19}$ J per atom. This is just a bit larger than 1 eV (1.6 x 10-19 J), and the division leads to something very close to 4 eV per atom. 
 Because CO2 has a total of four bonds between the carbon atom and the two oxygen atoms,[^37] we see that each bond accounts for about 1 eV. Chemical bonds are often in this range, highlighting the usefulness of the eV unit at the atomic level. 
 
 [^34]: Really, this is just the kinetic energy of the particle. 

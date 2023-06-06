@@ -200,8 +200,8 @@ other elements-being comprised of an integer number of protons and neutrons5-wil
 So the concept of the mole is pretty straightforward: just a number— albeit a very large one. 
 Box B.1: Moles to Mass 
 Incidentally, the inverse of Avogadro's number becomes the definition of the atomic mass unit (a.m.u.). The a.m.u. can be thought of as the average mass of an atom per nucleon. In other words, carbon-12 (6 protons, 6 neutrons) has a mass of 12 a.m.u. In fact, this is how the a.m.u. is defined. This means that hydrogen (a single proton) has a mass very close to 1.00 a.m.u., and oxygen-16 (8 protons, 8 neutrons) has a mass close to 16.00 a.m.u. Chapter 15 delves into the subtle reason why these are not exactly 1.00000 and 16.00000 in these cases. 
-Since one mole of 12.00000 a.m.u. carbon-12 atoms is defined to have a mass of 12.00000 g, one mole of 1.000000 a.m.u. particles would have a mass of 1.000000 g. Therefore, a single 1.000000 a.m.u. particle would have a mass of 1.000000 g divided by Avogadro's number, NA = 6.02214076 x 1023, which turns out to be 1.66053907 × 10-24 
-g, or 1.66053907 × 10-27 kg. This is the number you will find if looking up the atomic mass unit (also called a Dalton). 
+Since one mole of 12.00000 a.m.u. carbon-12 atoms is defined to have a mass of 12.00000 g, one mole of 1.000000 a.m.u. particles would have a mass of 1.000000 g. Therefore, a single 1.000000 a.m.u. particle would have a mass of 1.000000 g divided by Avogadro's number, NA = 6.02214076 x 1023, which turns out to be 1.66053907 × $10^{-24}$ 
+g, or 1.66053907 × $10^{-27}$ kg. This is the number you will find if looking up the atomic mass unit (also called a Dalton). 
 
 [^5]:... and associated light-weight electrons equal in number to the protons 
 
@@ -386,7 +386,7 @@ PV = NKBT.
 (B.4) 
 Pressure, volume, and temperature are all unchanged, and expressed in the same units as before. Now, N describes the number of particles (quite large, usually), and kB is called the Boltzmann constant, having a value 
 J K 
-KB = 1.3806 × 10-23 
+KB = 1.3806 × $10^{-23}$ 
 (B.5) 
 Notice that N, the number of particles, and n, the number of moles, differs simply by a factor of Avogadro's number, NA = 6.022 x 1023. Indeed, if we multiply NA by kв, we get 8.314, and are back to R.22 
 

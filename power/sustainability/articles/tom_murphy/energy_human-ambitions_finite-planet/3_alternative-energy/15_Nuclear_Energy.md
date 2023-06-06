@@ -10,7 +10,7 @@ Most of the energy forms discussed thus far derive from sunlight— either conte
 
 While only fission has been successfully implemented as a source of societal energy, both types essentially boil down to the same thing: a source of heat to make steam and drive a heat engine. How and why nuclear material generates heat will be a primary focus of this chapter. Many practical concerns surround nuclear power, such as safety, weapons, waste, and proliferation of dangerous material. Self-pride for the impressive accomplishment of mastering nature well enough to implement nuclear power may not adequately justify continued reliance upon it-even if it is not a direct emitter of CO2.
 
-Understanding nuclear energy requires a longer journey than was needed for hydroelectricity, wind, and solar photovoltaics. We first learn about the nucleus and its many configurations, how nuclei transform from one to another through radioactive decay, the role E = mc2 plays, and finally dig into the workings of fission and fusion.
+Understanding nuclear energy requires a longer journey than was needed for hydroelectricity, wind, and solar photovoltaics. We first learn about the nucleus and its many configurations, how nuclei transform from one to another through radioactive decay, the role $E = mc^2$ plays, and finally dig into the workings of fission and fusion.
 
 ## 15.1 The Nucleus
 First, what is a nucleus? Every (neutral) atom consists of a positively- charged nucleus surrounded by a cloud of negative electrons (Figure 15.1).
@@ -146,213 +146,98 @@ Time(min), Half Lives, Remain, Prob.
 </details>
 
 
-Luckily, radioactive decays don't go just any which way, but stick to a very small menu of possible routes. When a decay happens, the nucleus always spits something out, which could be an electron, a positron, a helium nucleus (called an alpha particle), a photon, or more rarely might spit out one or more individual protons or neutrons. Because these particles can emerge at high speed (high energy), they are like little bullets firing at random times and directions into their surroundings. These bullets are potentially damaging to materials and biological tissues-especially DNA, able to cause mutations and/or initiate cancerous growth. The primary decay mechanisms pertaining to the vast majority of decays are listed below and accompanied by Figure 15.5.
+Luckily, radioactive decays don't go just any which way, but stick to a very small menu of possible routes. When a decay happens, the nucleus always spits something out, which could be an electron, a positron, a helium nucleus (called an alpha particle), a photon, or more rarely might spit out one or more individual protons or neutrons. Because these particles can emerge at high speed (high energy), they are like little bullets firing at random times and directions into their surroundings. These bullets are potentially damaging to materials and biological tissues-especially DNA, able to cause mutations and/or initiate cancerous growth. The primarγ decay mechanisms pertaining to the vast majority of decays are listed below and accompanied by Figure 15.5.
 
 
 {{< figure src="../images/alpha_electron_positron_decay.png" title="" class="thumbnail">}}
 
-Figure 15.5: Radioactive decay mechanisms for a, ß, and ßt. Protons are colored red, and neutrons light purple. The total nucleon counts are correct for the two beta decays, but only schematic for the larger 144Nd nucleus used to illustrate alpha decay, which is predominantly seen only in heavier nuclei (aside from 5Li and 8Be). The positron is an anti-electron: a positively-charged antimatter counterpart to the electron. Neutrinos are sometimes called "ghost" particles for their near-complete non-interactivity with ordinary matter.
+Figure 15.5: Radioactive decay mechanisms for a, β, and βt. Protons are colored red, and neutrons light purple. The total nucleon counts are correct for the two beta decays, but only schematic for the larger 144Nd nucleus used to illustrate alpha decay, which is predominantly seen only in heavier nuclei (aside from 5Li and 8Be). The positron is an anti-electron: a positively-charged antimatter counterpart to the electron. Neutrinos are sometimes called "ghost" particles for their near-complete non-interactivity with ordinary matter.
 
-1. Alpha decay (a), in which a foursome of two protons and two neutrons essentially a 'He nucleus-leaps out.[^10] When this hap- pens, the nucleus reduces its N by two, reduces its Z by two, and therefore A by 4. On the chart of the nuclides, it moves two squares left and two squares down (see Figure 15.7). For example, Be decays this way, essentially splitting into two 4He nuclei;
-8
+1. Alpha decay (α), in which a foursome of two protons and two neutrons essentially a 4He nucleus-leaps out.[^10] When this happens, the nucleus reduces its N by two, reduces its Z by two, and therefore A by 4. On the chart of the nuclides, it moves two squares left and two squares down (see Figure 15.7). For example, 8Be decays this way, essentially splitting into two 4He nuclei;
 
 [^10]: Helium is found mixed in with natural gas, and derives from alpha particle decay of elements in the earth's interior.
 
 Follow along on Figure 15.4.
 
-2. Beta-minus (ẞ) decay is a manifestation of the weak nuclear force, in which a neutron within the nucleus converts to a proton, and in the process spits out an electron (ẞ particle, really just e ̄) to conserve total electric charge, and a neutrino-which we will ignore." The mass number, A is unchanged, but N goes down one and Z goes up one (gaining a proton and losing a neutron). Thus on the chart of nuclides the motion is one left, one up.
-It's like a chess move (Figure 15.7);
-3. Beta-plus (+) decay, like ß-, is a manifestation of the weak nuclear force, in which a proton within the nucleus converts to a neutron, emitting a positron (B+, or e+, or anti-electron; a form of antimatter) again maintaining charge conservation, and an ignored neutrino. Similar to ẞ decay, A is unchanged, but Z is reduced by one and N gains one. On the chart, the move is diagonal: down one and right one (Figure 15.7).
-4. Gamma decay (7) happens when a nucleus is in an excited energy state, having been rattled by some other decay or bombardment, and it emits a high-energy photon, called a gamma ray, as it settles into a lower energy state (Figure 15.6). For y decays, Z, N, and A do not change, so the nucleus does not morph into another flavor, and thus does not move on the Chart of the Nuclides.
+2. Beta-minus (β) decay is a manifestation of the weak nuclear force, in which a neutron within the nucleus converts to a proton, and in the process spits out an electron (β particle, really just e-) to conserve total electric charge, and a neutrino- which we will ignore.[^11] The mass number, A is unchanged, but N goes down one and Z goes up one (gaining a proton and losing a neutron). Thus on the chart of nuclides the motion is one left, one up. It's like a chess move (Figure 15.7);
+
+[^11]: Perhaps it is fair to ignore neutrinos since they ignore us. Neutrinos interact so infrequently with matter that a neutrino could fly through light years of rocky (Earth-like) material before being expected to hit something (interact). This extreme non-interactivity earns it the title of "ghost" particle.
+
+3. Beta-plus (β+) decay, like β-, is a manifestation of the weak nuclear force, in which a proton within the nucleus converts to a neutron, emitting a positron (β+, or e+, or anti-electron; a form of antimatter) again maintaining charge conservation, and an ignored neutrino. Similar to β decay, A is unchanged, but Z is reduced by one and N gains one. On the chart, the move is diagonal: down one and right one (Figure 15.7).
+
+4. Gamma decay (γ) happens when a nucleus is in an excited energy state, having been rattled by some other decay or bombardment, and it emits a high-energy photon, called a gamma ray, as it settles into a lower energy state (Figure 15.6). For γ decays, Z, N, and A do not change, so the nucleus does not morph into another flavor, and thus does not move on the Chart of the Nuclides.
+
 Figure 15.7 demonstrates the motion of each of these decays on the Chart of the Nuclides, and Table 15.2 summarizes the nucleon arithmetic.
 
 244
-11: Perhaps it is fair to ignore neutrinos since they ignore us. Neutrinos interact so infrequently with matter that a neu- trino could fly through light years of rocky (Earth-like) material before being expected to hit something (interact). This extreme non-interactivity earns it the title of "ghost" particle.
-Figure 15.6: Gamma decay of an excited nucleus.
-5
-3p+a
-Be6
-C8
-2.0e-21 s
-C9
-0.127 s
-C10
-19.29 s
-6
-4p+α
-B+
-B
-:
-C11 20.36 m
-B7
-3e-22 s
-B+
-B8
-0.770 s
-Be7
-B9
-8e-19 s
-B10
-B11
-5.0e-21s
-53.3 days
-p+2a
-Be8
--7e-17 s
-Be9
-4
-2p+a
-e capt. to Li7 20
-Li4
-Be-23 s
-Li5
-Li6
-Li7
--3e-22 s
-Li8 0.840 s
-B+
-B
-B12 0.02020 s
-BD
-Be10 1.5 Myr
-Li9 0.1783 s
-B
-Li10
-2e-21 s
-C12
-C13
-C14
-C15
-5715 yr
-B
-2.450 s
-B-
-B13
-0.0174 s
-B14
-0.013 s
-3
-p+a
-B
-He3
-He4
-2
-α
-n+a
-H1
-H2
-H3 12.32 yr
-B
-n1
-2
-n
-He5
-7e-22 s
-H4
-8e-23 s
-3
-B
-n
-He6
-0.807 s
-v. short
-4
-n
-He7
-3e-21s
-H6
-3e-22 s
-3n or 4n
-5
-B
-He8
-0.119 s
-6
-n
-H5
-N
-1
-B
-0
-10.25 m
-B
-0
-1
-N-
-Decay
-α
-B-
-B+
-γ
-Be11
-13.8 s
-Be12
-Be13
-0.0215 s
-v. short
-B
-n?
-Li11
-0.0086 s
-9
-B
-He9
-v. short
-A →
-20
-He10
-2e-21 s
-8
-00
+
+(Figure 15.6: Gamma decay of an excited nucleus.)
+
+{{< figure src="../images/radioactive-decay_on_neuclide-chart.png" title="" class="thumbnail">}}
+
 Figure 15.7: Radioactive decays shown as moves on the "chess board" of the Chart of the Nuclides. The different decay types are color-coded to match Figure 15.8, and are only shown in a few representative squares. Decays frequently occur in a series, one after the other (a decay chain), as hinted by the double-sequence starting at and ending on 12C. Note that the square of every unstable nuclide indicates a decay type, even if arrows are not present.
-12 Be
+
+
 Table 15.2: Summary of decay math on nucleon counts.
-Z→
-Z-2
-N→
-N 2
-A-4
-Z+1
-N-1
-unchanged
-Z
-1
-N+1 unchanged
-unchanged
-unchanged unchanged
+
+Decay Z→ N→ A→  
+α Z-2 N-2 A-4
+β- Z+1 N-1 unchanged
+β+ Z-1 N+1 unchanged
+γ unchanged unchanged unchanged
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 Example 15.2.2 What will the fate of He be, according to Figure 15.4?
-We can play this chess game! According to the chart, the primary decay mechanism of He8 is ẞ with a half-life of about a tenth of a second. It will become Li, which hangs around for about a second before undergoing another ß- decay to Be. This one lasts almost no time at all (~ 10-16 s) before a decay into two alpha particles (two *He). Such a sequence is called a decay chain.
-As is evident in Figure 15.8, unstable isotopes above the stable track in Figure 15.3 tend to undergo ẞ+ decays to drive toward stable nuclei, while those below the track tend to experience ẞ- decays to drive up toward the stable track. The a decays are more common for heavy nuclei (around uranium), which drive toward the end of the train of stable elements in Figure 15.3, ending up around lead (Pb). We can understand the abundance of lead as a byproduct of heavy-element decay chains.
-BROOKHAVEN
-NATIONAL LABORATORY
-27
 
-245
-stable
-alpha (α)
-beta-minus (B-)
-beta-plus (B+) or e- capture
-spontaneous fission neutron emission (n)
-proton emission (p)
-Figure 15.8: Another view of the Chart of the Nuclides, color coded to indicate pre- vailing decay modes as a function of posi- tion on the chart. Note that ẞ+ sometimes captures an electron rather than emitting a positron, but amounting to the same thing, essentially. From U.S. DOE.
-Box 15.1: The Weak Nuclear Force
-An aside worth making is that having discussed beta decays, gov- erned by the weak nuclear force, we have now covered all four known forces of nature: gravity, electromagnetism, the weak nuclear force, and the strong nuclear force. That's it: a small menu, really. The latter three are unified into a Standard Model of Physics, but gravity-described by General Relativity has defied all attempts at "grand unification," or a "theory of everything" trying to unite all four forces under a single theoretical framework. One implication is that known physics offers no other "magic" solutions to our energy needs. No new forces have come to light in more than half-a-century, despite dramatic advances in tools to probe the fundamental nature of physics.
+We can play this chess game! According to the chart, the primarγ decay mechanism of He8 is β with a half-life of about a tenth of a second. It will become Li, which hangs around for about a second before undergoing another β- decay to Be. This one lasts almost no time at all (~ $10^{-16}$ s) before a decay into two alpha particles (two *He). Such a sequence is called a **decay chain**+++(5)+++.
+</details>
+
+{{< figure src="../images/nuclide-decay-chart.png" title="" class="thumbnail">}}
+
+Figure 15.8: Another view of the Chart of the Nuclides, color coded to indicate prevailing decay modes as a function of position on the chart. Note that β+ sometimes captures an electron rather than emitting a positron, but amounting to the same thing, essentially. From U.S. DOE.
+
+As is evident in Figure 15.8, unstable isotopes above the stable track in Figure 15.3 tend to undergo β+ decays to drive toward stable nuclei, while those below the track tend to experience β- decays to drive up toward the stable track. The α decays are more common for heavy nuclei (around uranium), which drive toward the end of the train of stable elements in Figure 15.3, ending up around lead (Pb). We can understand the abundance of lead as a byproduct of heavy-element decay chains.+++(5)+++
 
 
-246
-15.3 Mass Energy
-Energy-whatever the form has mass and actually changes the weight of something, although almost imperceptibly. A hot burrito has more mass than the exact same burrito-atom for atom-when it's cold.[^12] Most of us are familiar, at least casually, with the famous relation E = mc2. More helpfully, we might express it as
-AE = Amc2,
-(15.1)
-where the A symbols indicate a change in energy or mass, and c≈ 3 x 108 m/s is the speed of light. Using kilograms for mass results in Joules for energy. Because c2 is such a large number (nearly 1017), the mass change associated with daily/familiar energy quantities is negligibly small. Box 15.2 explains why E = mc2 is valid for all energy exchanges not just nuclear ones but generally results in mass changes too small to measure in non-nuclear contexts. Earlier, we discussed conservation of energy. More correctly, we observe conservation of mass- energy. That is to say, a system can actually gain or lose net energy if the mass changes correspondingly. In the case of nuclear energy release, the "new" energy comes at the expense of reduced mass.
-Box 15.2: E = mc2 Everywhere
-mc2. It
-Physics is not selective about when we might apply E = always applies, to every situation. It's just that outside of nuclear reactions it does not result in significant mass differences.
-For example, after we eat a 1,000 kcal burrito to fuel our metabolism, we expend the energy13 and lose mass according to Am = AE/c2. Since AE ~ 4 MJ (1,000 kcal), we find the associated mass change is 4.6 × 10-11 kg, which is ten orders-of-magnitude smaller than the mass of the burrito itself.[^14] So we'd never notice, even though it's really there.
-When we wind up a mechanized toy, coiling a spring, we put energy into the spring and the toy actually gets more massive! But for every Joule we put in, the mass only increases by about 10-17 kg. Forgive us for not noticing. Only in nuclear contexts are the energies large enough to produce a measurable difference in mass.
-Example 15.3.1 Since mass and energy are intimately related, it is common to express masses in energy terms. How would we express 12.0 a.m.u. in MeV (a unit of energy; see Sec. 5.9; p. 78)?
-1 a.m.u. is equivalent to 1.66 x 10-27 kg (last row of Table 15.4), so 12 a.m.u. is 1.99×10-26 kg. To get to energy, apply E = mc2, computing to 1.8 × 10-9 J of energy. Since 1 MeV is 1.6 x 10-13 J, we end up with
+
+[[245]]
+
+<details><summary>Box 15.1: The Weak Nuclear Force</summary>
+
+An aside worth making is that having discussed beta decays, governed by the weak nuclear force, we have now covered all four known forces of nature: gravity, electromagnetism, the weak nuclear force, and the strong nuclear force. That's it: a small menu, really. The latter three are unified into a Standard Model of Physics, but gravity-described by General Relativity has defied all attempts at "grand unification," or a "theory of everything" trying to unite all four forces under a single theoretical framework. One implication is that known physics offers no other "magic" solutions to our energy needs. No new forces have come to light in more than half-a-century, despite dramatic advances in tools to probe the fundamental nature of physics.
+</details>
+
+
+[[246]]
+## 15.3 Mass Energy
+Energy-whatever the form has mass and actually changes the weight of something, although almost imperceptibly. A hot burrito has more mass than the exact same burrito-atom for atom-when it's cold.[^12]+++(5)+++ Most of us are familiar, at least casually, with the famous relation $E = mc^2$. More helpfully, we might express it as
+
+$$ ΔE = Δmc^2, (15.1)$$ 
+
+where the Δ symbols indicate a change in energy or mass, and $c≈ 3 x 10^8$ m/s is the speed of light. 
+
+Using kilograms for mass results in Joules for energy. Because $c^2$ is such a large number (nearly $10^17$), the mass change associated with daily/familiar energy quantities is negligibly small. Box 15.2 explains why $E = mc^2$ is valid for all energy exchanges not just nuclear ones but generally results in mass changes too small to measure in non-nuclear contexts. 
+
+
+<details><summary>Box 15.2: $E = mc^2$ Everywhere</summary>
+
+Physics is not selective about when we might apply $E = mc^2$. It always applies, to every situation. It's just that outside of nuclear reactions it does not result in significant mass differences.
+
+For example, after we eat a 1,000 kcal burrito to fuel our metabolism, we expend the energy[^13] and lose mass according to $Δm = ΔE/c^2$. Since ΔE ~ 4 MJ (1,000 kcal), we find the associated mass change is $4.6 × 10^{-11}$ kg, which is ten orders-of-magnitude smaller than the mass of the burrito itself.[^14] So we'd never notice, even though it's really there.
+
+When we wind up a mechanized toy, coiling a spring, we put energy into the spring and the toy actually gets more massive! But for every Joule we put in, the mass only increases by about $10^-17$ kg. Forgive us for not noticing. Only in nuclear contexts are the energies large enough to produce a measurable difference in mass.
+</details>
+
+
+
+Earlier, we discussed conservation of energy. More correctly, we observe conservation of mass-energy. That is to say, a system can actually gain or lose net energy if the mass changes correspondingly. In the case of nuclear energy release, the "new" energy comes at the expense of reduced mass.
+
+Example 15.3.1  
+Since mass and energy are intimately related, it is common to express masses in energy terms. How would we express 12.0 a.m.u. in MeV (a unit of energy; see Sec. 5.9; p. 78)?
+
+1 a.m.u. is equivalent to $1.66 x 10^{-27}$ kg (last row of Table 15.4), so 12 a.m.u. is 1.99×$10^{-26}$ kg. To get to energy, apply $E = mc^2$, computing to 1.8 × $10^{-9}$ J of energy. Since 1 MeV is 1.6 x $10^{-13}$ J, we end up with
+
 12: The burrito is also ever-so-slightly more massive if it has kinetic energy, gravitational potential energy, or any form of energy. A battery is more massive when charged, even if no atoms or electrons are added. Inci- dentally, charging a battery does not mean literally adding electrical charges (adding particles), but amounts to rearranging elec- trons among the atoms within the battery.
 13: ... ultimately given off as thermal en- ergy to our environment
 14: This amount of mass corresponds to that of a tiny length of hair that is shorter than it is wide.
@@ -367,7 +252,7 @@ Energy
 A careful look at Figure 15.4 reveals that lighter stable nuclei (gray- squares) at the lower left of the chart have a mass a little larger than the corresponding mass number, but by the upper right-around oxygen- the mass has edged just lower than A. Table 15.3 shows this trend, confirmable in Figure 15.4 for the first four nuclides in the table. The difference between mass and A is most negative around iron, then turns around and becomes positive again for heavy elements like uranium.
 What is going on here? If the mass of a nucleus were just the sum of its parts, we would expect the total mass to just track linearly as we add more pieces. In fact, if we try to build a neutral carbon atom out of 6 protons, 6 neutrons, and 6 electrons, the sum, according to Table 15.4, should be 12.099 a.m.u., not 12.000. The discrepancy is due to nuclear binding energy, as was introduced in Figure 15.9.
 MeV/c2
-Figure 15.9: One must add energy to over- come nuclear binding energy in order to bust up a nucleus into its constituent nu- cleons (left). Thus, the collective mass of a nucleus plus the mass associated with the energy it takes to break it apart (via E = mc2) must be equal to the sum of the masses of the constituent parts (middle). Therefore, if we compare the mass of the nucleus alone (removing the energy's mass from the scale) it must be less than the mass of the loose collection of nucleons (right).
+Figure 15.9: One must add energy to over- come nuclear binding energy in order to bust up a nucleus into its constituent nu- cleons (left). Thus, the collective mass of a nucleus plus the mass associated with the energy it takes to break it apart (via $E = mc^2$) must be equal to the sum of the masses of the constituent parts (middle). Therefore, if we compare the mass of the nucleus alone (removing the energy's mass from the scale) it must be less than the mass of the loose collection of nucleons (right).
 Table 15.3: Example mass progression.
 Nuclide
 2H
@@ -399,9 +284,9 @@ a.m.u.
 938.2720882
 939.5654205
 931.494102
-Nuclear binding energy is incredibly strong15 and is able to overpower the natural electric repulsion between positively charged protons and stick them together in an unwilling bunch. The strong nuclear force only acts over a tiny range within about 10-15 m:16 it is very powerful
+Nuclear binding energy is incredibly strong15 and is able to overpower the natural electric repulsion between positively charged protons and stick them together in an unwilling bunch. The strong nuclear force only acts over a tiny range within about $10^{-15}$ m:16 it is very powerful
 15:... relating to what we call the strong nuclear force
-16: The whole atom is around 10-10
+16: The whole atom is around $10^{-10}$
 scale
 m in
 
@@ -440,7 +325,7 @@ Am Amc2 (MeV) MeV per nucleon
 7.59
 Example 15.3.2 Following the entry in Table 15.5 for 56Fe, we first multiply the individual proton, neutron, and electron masses from Table 15.4 by the 26 protons, 30 neutrons, and 26 electrons comprising 56 Fe to get a sum-of-parts value of 56.46340 a.m.u..17
 The actual mass, as it appears for 56Fe in the Chart of the Nuclides is 55.934942 a.m.u., which is smaller by 0.528447 a.m.u.[^18]
-Since 1a.m.u. is 1.660539×10-27 kg, we can convert this mass difference into kilograms, then multiply by c2, where c = 2.99792458 x 108 m/s to get the associated energy in units of Joules. Traditionally, nuclear physics adopts a more convenient scale of electron-volts, and in particular, the MeV.19 To get our mass-energy difference from Joules to MeV, we divide by 1.6022 × 10-13 J/MeV, and this is the 492 MeV number appearing in the Amc2 column of Table 15.5.
+Since 1a.m.u. is 1.660539×$10^{-27}$ kg, we can convert this mass difference into kilograms, then multiply by c2, where c = 2.99792458 x 108 m/s to get the associated energy in units of Joules. Traditionally, nuclear physics adopts a more convenient scale of electron-volts, and in particular, the MeV.19 To get our mass-energy difference from Joules to MeV, we divide by 1.6022 × $10^{-13}$ J/MeV, and this is the 492 MeV number appearing in the Amc2 column of Table 15.5.
 Finally, we divide by the number of nucleons in the nucleus-A = 56 in this case to determine how much binding energy is present per nucleon-the significance of which will soon become clearer.
 Therefore, the difference between the sum-of-parts mass and actual nucleus mass in Table 15.5 provides a measure of how much binding energy holds the nucleus together.[^20]
 Notice that the first entry in Table 15.5 for the single-proton hydrogen atom has no binding energy in the nucleus: the lonely proton has no other nucleon to which it might bind. But deuterium (2H) has a proton and a neutron, held together by 2.2 MeV of binding energy. The binding
@@ -452,7 +337,7 @@ Table 15.5: Example nuclear binding energy calculations. The second column is th
 17: Find this in Table 15.5.
 18: These numbers also appear in Table
 15.5.
-19: 1 MeV is 106 eV, and 1 eV is 1.6022 × 10-19 J (Sec. 5.9; p. 78).
+19: 1 MeV is 106 eV, and 1 eV is 1.6022 × $10^{-19}$ J (Sec. 5.9; p. 78).
 20: ... thus how much energy would need to be supplied to completely unbind the entire nucleus, as in Figure 15.9
 
 energy per nucleon in the last column of Table 15.5 starts out small, but soon settles to the 7-9 range for most of the entries. It is extremely insightful to plot the binding energy per nucleon as a function of the nucleon mass number, A, which we do in Figure 15.10.
@@ -518,7 +403,7 @@ Figure 15.12: Typical nuclear power plant design, bearing much resemblance to th
 15.4.1 The Basic Idea
 Out of all the nuclides, three are amenable for use in a fission reactor.
 Two are isotopes of uranium: 233U and 235U; and one is plutonium: 239 Pu. Of these, only 235U is found in nature, so we will concentrate on this one, returning later to the other two when we talk about breeder reactors in Section 15.4.4.2.
-What makes 235U (and the other two) special is that a slow23 neutron- one just bumping around at a speed governed by the local temperature, and thus called a thermal neutron-can walk up to and stick24 to the nucleus and cause it to split into two large chunks-depicted in Figure 15.13. Other nuclei would not break up, just accepting the new neutron and possibly converting a neutron to a proton via ẞ- decay.
+What makes 235U (and the other two) special is that a slow23 neutron- one just bumping around at a speed governed by the local temperature, and thus called a thermal neutron-can walk up to and stick24 to the nucleus and cause it to split into two large chunks-depicted in Figure 15.13. Other nuclei would not break up, just accepting the new neutron and possibly converting a neutron to a proton via β- decay.
 $ c
 n
 236U
@@ -542,7 +427,7 @@ As we have seen, in order to get fission to happen, we need 235U and some wander
 When the nucleus splits, any extra neutrons come out "hot" (high speed), which tend to bounce off uranium nuclei without sticking. They need to be slowed down, which is accomplished by a moderator: basically light atoms26 that can receive the neutron impact as a sort of damping medium. Then the main trick is to prevent a runaway that could occur if too many neutrons become available; in which case it's a party that can get out of control. So nuclear plants employ control rods containing materials particularly effective at absorbing (trapping) neutrons. The colors of the lower halves of some squares in the Chart of the Nuclides (Figure 15.4) indicate neutron capture cross section. Boron (10B) is a favorite choice to soak up neutrons and tame (or even halt) the reaction. The goal is to maintain a chain reaction that produces a net balance of exactly one unabsorbed slow neutron per fission event, available to attach itself to a waiting 235U nucleus.
 15.4.3 Fission Accounting
 The nucleus (uranium in the present discussion) always breaks up into two largish pieces, possibly accompanied by a few liberated spare neutrons. Because of the way the track of stable elements curves on the Chart of the Nuclides, the resultant pieces are likely to be neutron rich, to the right of the stable nuclei. To understand this, refer to Figure 15.14 and the associated caption.
-The math always has to add up: nucleons are not created or destroyed during a fission event. They just rearrange themselves, so the total number of neutrons stays the same, as does the total number of protons. After the split, ẞ decays will carry out flavor changes, but we'll deal with that part later.
+The math always has to add up: nucleons are not created or destroyed during a fission event. They just rearrange themselves, so the total number of neutrons stays the same, as does the total number of protons. After the split, β decays will carry out flavor changes, but we'll deal with that part later.
 26: ... usually either water or carbon in the form of graphite
 
 proton number, Z
@@ -558,7 +443,7 @@ A=200
 Figure 15.14: Fission of 235U (small red square, upper right) tends to produce two neutron-rich fragments. If it split exactly in two, the result would lie at the midpoint of the orange line connecting 235U to the origin, at the yellow circle. In practice, an equal split is highly unlikely, as one frag-
 ment tends to be around A 95 and the other around A
 Au
-140, as depicted by the probability histogram in green. The two green stars separated along the orange line represent a more likely outcome for the two fragments. As long as the green stars are located so that the yellow circle is exactly between them, the accounting of proton and neutron number is satisfied. Because the or- ange line lies to the right of the stable nuclei, the fission products tend to be neutron-rich and undergo a series of radioactive ẞ-de- cays before reaching stability, which could take a very long time in some cases.
+140, as depicted by the probability histogram in green. The two green stars separated along the orange line represent a more likely outcome for the two fragments. As long as the green stars are located so that the yellow circle is exactly between them, the accounting of proton and neutron number is satisfied. Because the or- ange line lies to the right of the stable nuclei, the fission products tend to be neutron-rich and undergo a series of radioactive β-de- cays before reaching stability, which could take a very long time in some cases.
 90 Br
 Example 15.4.1 If one of the two fragments from the fission of a 235U nucleus (Z = 92) after adding a thermal neutron winds up being (Z = 35), what is the other nucleus going to be?
 =
@@ -652,14 +537,14 @@ output mass
 mass change
 0.18502
 172.3
-The masses of each piece, according to the Chart of the Nuclides, appear in Table 15.7. Again, we find that the mass sums don't equal: the final parts are lighter than the inputs. The fission managed to lose 0.185 a.m.u. of mass, corresponding to 172 MeV of energy (via E = mc2; see Example 15.3.1). That's a 0.08% change in the mass, and converts to an energy density of roughly 17 million kcal/g, making the process over a million
+The masses of each piece, according to the Chart of the Nuclides, appear in Table 15.7. Again, we find that the mass sums don't equal: the final parts are lighter than the inputs. The fission managed to lose 0.185 a.m.u. of mass, corresponding to 172 MeV of energy (via $E = mc^2$; see Example 15.3.1). That's a 0.08% change in the mass, and converts to an energy density of roughly 17 million kcal/g, making the process over a million
 
 Table 15.7: Mass details of Eq. 15.2, track- ing before and after masses in both a.m.u. and MeV units. The input mass of around 236 a.m.u. is reduced by about 0.185 a.m.u., or 0.08%.
 times more energy-dense than our customary ~10 kcal/g chemical energy density. See Box 15.3 for an example of how to compute this.
 Box 15.3: Nuclear Energy Density
-The example corresponding to Table 15.7 is said to correspond to 17 million kcal/g, but how can we get here? The mass change of 0.185 a.m.u. corresponds to a mass in kilograms of 3.07 x 10-28 kg, according to the conversion that 1 a.m.u. is 1.6605 x 10-27 kg (Table 15.4). Multiply this by c2 to get energy in Joules, yielding 2.76 × 10-11 J.29 In terms of kcal, we divide by 4,184 J/kcal to find that this fission event yields 6.6 x 10-15 kcal.
-We now just need to divide by how many grams of "fuel" we supplied, which is 236.05 a.m.u. (Table 15.7), equating to 3.92 × 10-25 kg, or 3.92 × 10-22
-g. Now we divide 6.6 x 10-15 kcal by 3.92 × 10-22 get 16.8 × 106 kcal/g. Blows a burrito out of the water.
+The example corresponding to Table 15.7 is said to correspond to 17 million kcal/g, but how can we get here? The mass change of 0.185 a.m.u. corresponds to a mass in kilograms of 3.07 x $10^{-28}$ kg, according to the conversion that 1 a.m.u. is 1.6605 x $10^{-27}$ kg (Table 15.4). Multiply this by c2 to get energy in Joules, yielding 2.76 × $10^{-11}$ J.29 In terms of kcal, we divide by 4,184 J/kcal to find that this fission event yields 6.6 x 10-15 kcal.
+We now just need to divide by how many grams of "fuel" we supplied, which is 236.05 a.m.u. (Table 15.7), equating to 3.92 × $10^{-25}$ kg, or 3.92 × $10^{-22}$
+g. Now we divide 6.6 x $10^{-15}$ kcal by 3.92 × $10^{-22}$ get 16.8 × 106 kcal/g. Blows a burrito out of the water.
 g to
 Example 15.4.2 Considering that the average American uses energy at a rate of 10,000 W, how much 235U per year is needed to satisfy this
 demand for one individual?
@@ -671,12 +556,12 @@ Multiplying the binding energy per nucleon by the number of nucleons provides a 
 The graphical method got us pretty close with little work, and hopefully led to a deeper understanding of what is going on. The rest of this
 
 254
-29: This result, by the way, is the same as 172.3 MeV in Table 15.7 using the conversion that 1 MeV is 1.6022 × 10-13 J.
+29: This result, by the way, is the same as 172.3 MeV in Table 15.7 using the conversion that 1 MeV is 1.6022 × $10^{-13}$ J.
 30: 75 million kcal divided by 17 million kcal/g is 4.5 g.
 31: 7.6 x 235; 8.7 x 95; and 8.4 x 140
 32: Binding energy reduces mass, so larger binding energy means lighter overall mass.
 
-paragraph explains the discrepancy, but should be considered non- essential reading. The fission process typically results in a few spare neutrons. Each left-over (unbound) neutron deprives us of at least 8 MeV in unrealized binding potential,[^33] and the subsequent ẞ- decays from the neutron-rich daughter nuclei to stable nuclei also release energy not accounted in Table 15.7. Both of these contribute to the shortfall in comparing 172 MeV to 210 MeV, but even without this, we got a decent estimate just using the graph in Figure 15.10.
+paragraph explains the discrepancy, but should be considered non- essential reading. The fission process typically results in a few spare neutrons. Each left-over (unbound) neutron deprives us of at least 8 MeV in unrealized binding potential,[^33] and the subsequent β- decays from the neutron-rich daughter nuclei to stable nuclei also release energy not accounted in Table 15.7. Both of these contribute to the shortfall in comparing 172 MeV to 210 MeV, but even without this, we got a decent estimate just using the graph in Figure 15.10.
 15.4.4 Practical Implementations
 As we saw above, nuclear fission involves getting fissile nuclei generally 235U-to split apart by the addition of a neutron. The following criteria
 must be met:
@@ -854,10 +739,10 @@ one of the three fissile nuclei, we can convert43 238U into the fissile the foll
 1. A 238U may absorb a wandering neutron to become 239U.
 239 Pu
 43: ... called transmutation
-2. 239U, whose half life is 23.5 minutes, undergoes ẞ to become
+2. 239U, whose half life is 23.5 minutes, undergoes β to become
 239 Np in short order.
 2391
-3. Np also undergoes ẞ with a half life of 2.4 days to become
+3. Np also undergoes β with a half life of 2.4 days to become
 fissile 239Pu.
 Figure 15.17 highlights this process in a simplified region of the Chart of the Nuclides, while Figure 15.18 shows complete details for the entire region around the fissile materials-the ones with red isotope names which can be used to track the sequence outlined above.
 Am 95 Americium
@@ -1111,7 +996,7 @@ Pu239
 239.052157
 isotope
 half life (radioactive)
-primary decay path
+primarγ decay path
 141
 mass or decay energy (MeV)
 naturally ocurring isotope
@@ -1120,7 +1005,7 @@ half life
 U238
 99.2745 4.47 Gyr
 α
-primary decay path
+primarγ decay path
 238.050783
 mass, a.m.u.
 Top Half Coloring:
@@ -1163,7 +1048,7 @@ isotope
 
 [^46]: ... although, radioactive waste is still problematic
 15.4.5 Nuclear Waste
-As we saw in our description of the fission process, the fragments distribute over a range of masses in a randomized way (Figure 15.15). The results are generally neutron-rich, and will migrate toward stable elements via ẞ decays over the ensuing seconds, hours, days, months, and years. Some will go fast, and some will take ages to settle, depending on half-lives. Radioactive waste is dangerous to be around because the high-energy particles (like sub-atomic "bullets") spewing out in all directions can alter DNA, leading to cancer and birth defects, for instance.
+As we saw in our description of the fission process, the fragments distribute over a range of masses in a randomized way (Figure 15.15). The results are generally neutron-rich, and will migrate toward stable elements via β decays over the ensuing seconds, hours, days, months, and years. Some will go fast, and some will take ages to settle, depending on half-lives. Radioactive waste is dangerous to be around because the high-energy particles (like sub-atomic "bullets") spewing out in all directions can alter DNA, leading to cancer and birth defects, for instance.
 The lighter of the two fission fragments has a 59% chance of landing on a stable nucleus within a day or so. For the heavier fragment, it's a 45% chance. The rest get hung up on some longer half-life nuclide, and could remain radioactive for a matter of weeks or in some cases millions of years. The colors in the fission probability histograms in Figure 15.15 provide a visual guide for the mass numbers that reach stability promptly (gray) vs. those that get hung up for a long time (blue is more than 10 years). For example, the histogram element at A = 90 is blue because 90Sr-discussed below-stands in the way of a fast path to stability.
 106
 Tel32
@@ -1180,16 +1065,16 @@ radioactive power per kg 235U (W)
 102
 101
 10°
-10-1
+$10^{-1}$
 102
-10-3
+$10^{-3}$
 Sr901
 Cs137
 Actinides
 Tc99
-10-4
+$10^{-4}$
 Cs135
-10-5
+$10^{-5}$
 0.001
 0.01
 0.1
@@ -1198,7 +1083,7 @@ Cs135
 100 1,000 10k time (years)
 100k
 1M
-Figure 15.19 shows how the fission decays play out over time. For the first month or so out of the reactor, the spent fuel is really "hot" radioactively, but falls quickly as 95Zr and then 144 Ce dominate around one year out. At about 5 years, the pair of 90Sr and 137Cs begin to dominate the output for the next few-hundred years. Some of the products survive for millions of years, albeit at low levels of radioactive power. In addition to the daughter fragments, uranium in the presence of neutrons transmutes into neptunium, plutonium, americium, and curium via neutron absorption and subsequent ẞ decays, represented approximately and collectively in Figure 15.19 by a dashed curve labeled Actinides. 47
+Figure 15.19 shows how the fission decays play out over time. For the first month or so out of the reactor, the spent fuel is really "hot" radioactively, but falls quickly as 95Zr and then 144 Ce dominate around one year out. At about 5 years, the pair of 90Sr and 137Cs begin to dominate the output for the next few-hundred years. Some of the products survive for millions of years, albeit at low levels of radioactive power. In addition to the daughter fragments, uranium in the presence of neutrons transmutes into neptunium, plutonium, americium, and curium via neutron absorption and subsequent β decays, represented approximately and collectively in Figure 15.19 by a dashed curve labeled Actinides. 47
 The bottom line is that fission leaves a trash heap of radioactive waste that remains at problematic levels for many thousands of years. When nuclear reactors were first built, they were provisioned with holding tanks deep pools of water-in which to place the waste fuel until a more permanent arrangement could be sorted out (Figure 15.20). We are still waiting for an adequate permanent solution for waste storage, and the "temporary" pools are just accumulating spent fuel. Transporting the spent fuel is hazardous-in part because it could fall into the wrong hands and be used to make "dirty" bombs—and no one wants a nuclear waste facility in their backyard, making the problem politically thorny. On the technical side, it is difficult to identify sites that are geologically stable enough and have little chance of groundwater contamination. Underground salt domes offer an interesting possibility, but political challenges remain daunting.
 Figure 15.19: Decay activity of fragments from 1 kg of fissioned 235U over time, on a log-log plot. The vertical axis is the power of radioactive emission, in W, for a variety of relevant isotopes-each having their own characteristic half life. The black line at the top is the total activity (sum of all contribu- tions), and some of the key individuals are separated out. The dashed line for actinides is an approximate representative indicator of the role played by heavy nuclides formed in the reactor by uranium absorption of neu- trons. Minor tick marks are at multipliers of 2, 4, 6, and 8 for each axis. As a matter of possible interest, the exponential decays of each element on this log-log plot have the functional form of exponential curves drawn upside-down.
 
@@ -1280,7 +1165,7 @@ Fusion, on the other hand, is not plagued by most of these issues. It's main pro
 
 First, the basics. We have alluded to the fact that fusion builds from the small to the big. Putting four 1H nuclei together, at 1.007825 a.m.u. each and forming *He at 4.0026033 a.m.u. leaves a difference of 0.0287 a.m.u.— 0.7% of the total mass-which amounts to 153 million kcal/g. This is almost ten times as large as the amount for fission (17 million kcal/g; Box 15.3), making it ten-million times more potent than chemical reactions. Recall that fusion's better performance can be related to the steepness of the left-hand-side of the binding-energy-per-nucleon curve of Figure 15.10.
 
-What makes fusion so difficult is that getting protons to stick together is incredibly hard. Their electric repulsion is so strong that they need to be approaching each other at a significant fraction of the speed of light (about 7%) in order to get within reach of the strong nuclear force that takes over at distances smaller than about 10-15 m. The corresponding temperature is a billion degrees.[^59] Even the center of the sun is "only" 16 million degrees. The sun has the advantage of being enormous, though. So even at a comparatively chilly 16 million degrees, some rare protons by chance will be going extra fast and have enough oomph to overcome the repulsion and stick together. It's like winning the lottery against very long odds, but the sun is large enough to buy ample tickets so the process still happens often enough.[^60] We don't have such a luxury in a terrestrial laboratory setting, so we need higher temperatures than what exists in the center of the sun!+++(4)+++
+What makes fusion so difficult is that getting protons to stick together is incredibly hard. Their electric repulsion is so strong that they need to be approaching each other at a significant fraction of the speed of light (about 7%) in order to get within reach of the strong nuclear force that takes over at distances smaller than about $10^{-15}$ m. The corresponding temperature is a billion degrees.[^59] Even the center of the sun is "only" 16 million degrees. The sun has the advantage of being enormous, though. So even at a comparatively chilly 16 million degrees, some rare protons by chance will be going extra fast and have enough oomph to overcome the repulsion and stick together. It's like winning the lottery against very long odds, but the sun is large enough to buy ample tickets so the process still happens often enough.[^60] We don't have such a luxury in a terrestrial laboratory setting, so we need higher temperatures than what exists in the center of the sun!+++(4)+++
 
 Using 2H nuclei (deuterons, labeled D) instead of 1H (protons) in what is called a D-D fusion reactor, allows operation at 100 million degrees instead of 1 billion. And colliding one deuteron with a triton[^61] (3H nucleus, labeled T; 12.3 year half-life), only requires 45 million degrees for a D-T fusion reactor. For this reason, only D-T fusion is currently pursued.
 
@@ -1304,7 +1189,7 @@ Figure 15.22: Fusion concept: helium from deuterium.
 =
 =
 
-[^58]: The calculation is that 0.0287 a.m.u. cor- responds to Am = 4.8 x 10-29 kg, or E Amc2 4.2 x 10-12 J (26.7 MeV). We con- vert the Joules to kcal by dividing by 4,184, and then divide by the input mass in grams (4.03 a.m.u. times 1.6605 x 10-24 g/a.m.u.) to get 153 kcal/g. Starting with two deu- terium nuclei reduces energy yield a bit to to 137 kcal/g, and for deuterium-tritium reactions it's down to 81 million kcal/g.
+[^58]: The calculation is that 0.0287 a.m.u. cor- responds to Am = 4.8 x $10^{-29}$ kg, or E Amc2 4.2 x $10^{-12}$ J (26.7 MeV). We con- vert the Joules to kcal by dividing by 4,184, and then divide by the input mass in grams (4.03 a.m.u. times 1.6605 x $10^{-24}$ g/a.m.u.) to get 153 kcal/g. Starting with two deu- terium nuclei reduces energy yield a bit to to 137 kcal/g, and for deuterium-tritium reactions it's down to 81 million kcal/g.
 
 [^59]: For temperatures this high, it does not matter whether we specify Kelvin or Cel- sius, as the 273 degree difference is nothing compared to a billion degrees. The scales are therefore essentially identical here.
 
@@ -1410,14 +1295,14 @@ as it also is for solar power, which does not mean solar power is cheap
 stable nuclei exist?
 6. What are the only three long-lived radioactive isotopes in the portion of the Chart of the Nuclides appearing in Figure 15.4, and which one lives the longest (how long)?
 79
-7. Cosmic rays impinging on our atmosphere generate radioactive 14C from 14N nuclei.[^78] These 14C atoms soon team up with oxygen to form CO2, so that plants absorbing CO2 from the air will have about one in a trillion of their carbon atoms in this form. Animals eating these plants will also have this fraction of carbon in their bodies, until they die and stop cycling carbon into their bodies. At this point, the fraction of carbon atoms in the form of 14C in the body declines, with a half life of 5,715 years. If you dig up a human skull, and discover that only one-eighth of the usual one-trillionth of carbon atoms are 14C, how old do you deem the skull to be?
+7. Cosmic rays impinging on our atmosphere generate radioactive 14C from 14N nuclei.[^78] These 14C atoms soon team up with oxygen to form CO2, so that plants absorbing CO2 from the air will have about one in a trillion of their carbon atoms in this form. Animals eating these plants will also have this fraction of carbon in their bodies, until they die and stop cycling carbon into their bodies. At this point, the fraction of carbon atoms in the form of 14C in the bodγ declines, with a half life of 5,715 years. If you dig up a human skull, and discover that only one-eighth of the usual one-trillionth of carbon atoms are 14C, how old do you deem the skull to be?
 8. If a friend creates a nucleus whose half-life is 4 hours and gives it to you at noon, what is the probability that it will not have decayed by noon the following day?
 80
 9. In close analog to the half-lives of 235U and 238U, let's say two
 elements have half lives of 4.5 billion years and 750 million years. If we start out having the same number of each (1:1 ratio), what will the ratio be after 4.5 billion years? Express as x:1, where x is the larger of the two.
 10. Control rods in nuclear reactors tend to contain 10B, which has a high neutron absorption cross section.[^81] What happens to this nucleus when it absorbs a neutron, and is the result stable? If not, track the decay chain until it lands on a stable nucleus.
 11. If someone managed to create a 14B nucleus, what would its fate be? Track the decay chain on Figure 15.4-indicating the type of decay at each step-until it reaches stability, and indicate how long each step is likely to take.
-12. A particular nuclide is found to have lost 3 neutrons and 1 proton after a decay chain. What combination of a and ẞ decays could account for this result?
+12. A particular nuclide is found to have lost 3 neutrons and 1 proton after a decay chain. What combination of a and β decays could account for this result?
 13. How would you qualitatively describe the overall sense from Figure 15.8 in terms of where82 on the chart one is likely to see a
 78: Nitrogen is the principal constituent in Earth's atmosphere.
 79: ... and/or eating the animals that eat these plants
@@ -1428,10 +1313,10 @@ The wording is long because without con- text, it's just math. The real learning
 82: Region descriptions can include refer- ences to the mass range (e.g., low mass or high mass), above or below the stable elements (proton-rich or neutron-rich).
 
 271
-decay, ẞ decay, B+ decay, and spontaneous fission?
+decay, β decay, B+ decay, and spontaneous fission?
 energy.
 14. In a year, an average American uses about 3 x 1011 J of
-How much mass does this translate to via E = mc2? Rock has a density approximately 3 times that of water, translating to about 3 mg per cubic millimeter. So roughly how big would a chunk of rock material be to provide a year's worth of energy if converted to pure energy? Is it more like dust, a grain of sand, a pebble, a rock, a boulder, a hill, a mountain?
+How much mass does this translate to via $E = mc^2$? Rock has a density approximately 3 times that of water, translating to about 3 mg per cubic millimeter. So roughly how big would a chunk of rock material be to provide a year's worth of energy if converted to pure energy? Is it more like dust, a grain of sand, a pebble, a rock, a boulder, a hill, a mountain?
 15. The world uses energy at a rate of 18 TW, amounting to almost 6 x 1020 J per year. What is the mass-equivalent83 of this amount of annual energy? What context can you provide for this amount of mass?
 16. How much mass does a nuclear plant convert into energy if
 running uninterrupted for a year at 2.5 GW (thermal)?
@@ -1480,7 +1365,7 @@ part.
 86: It's not, actually, so this answer is a lower limit on the actual mass that has to be loaded in. So much for the ~1 kg answer from Problem 16.
 87: One ton is 1,000 kg.
 
-needs. But given realities that only 0.08% of mass is converted to energy in nuclear reactions, that only 0.72% of natural uranium. is fissile 235U, and that only half of the 235U is retrievable88 and "burned" in reactors, how many tons of uranium must be mined per year to support 18 TW via conventional fission, assuming for the sake of this problem that 5 tons of mass need to convert to energy via E = mc2?
+needs. But given realities that only 0.08% of mass is converted to energy in nuclear reactions, that only 0.72% of natural uranium. is fissile 235U, and that only half of the 235U is retrievable88 and "burned" in reactors, how many tons of uranium must be mined per year to support 18 TW via conventional fission, assuming for the sake of this problem that 5 tons of mass need to convert to energy via $E = mc^2$?
 33. Based on the abundance of 235U in the earth's crust (Table 15.9), how many kilograms of typical crust would need to be excavated and processed per year to provide the~ 0.005 kg of 235U you
 need for your personal energy (as in Example 15.4.2)?
 34. In crude terms, proven uranium reserves could go another 90 years at the present rate of use. But the world gets only about a tenth of its electricity from nuclear. What does this imply about the timescale for the uranium supply if the world got all of its electricity from conventional (non-breeding) nuclear fission?

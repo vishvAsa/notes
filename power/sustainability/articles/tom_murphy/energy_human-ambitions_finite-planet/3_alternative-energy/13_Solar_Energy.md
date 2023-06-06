@@ -43,7 +43,7 @@ Definition 13.1.1 The energy of a single photon, in various forms, is
 1: A quintillion is 1018.
 198
 hc
-2 × 10-19 J
+2 × $10^{-19}$ J
 1.24 eV
 Ephoton = hv =
 ≈
@@ -51,18 +51,18 @@ Ephoton = hv =
 λ
 Ʌ(in μm) Л(in μm)'
 (13.1)
-where h = 6.626 × 10-34 J. s (Planck's constant), and v is the frequency of the light in Hertz (Hz, or inverse seconds).
+where h = 6.626 × $10^{-34}$ J. s (Planck's constant), and v is the frequency of the light in Hertz (Hz, or inverse seconds).
 The second form (hc/A) is useful, as we more commonly characterize the "color" of light by its wavelength, A. The speed of light, c≈ 3 x 108 m/s, connects frequency to wavelength via
 λν = c.
 (13.2)
-The third form in Definition 13.1.1 makes it easy to compute photon energy in Joules given the wavelength in microns.2 Visible light has a wavelength around 0.4–0.7 μm (violet-to-red), so a typical photon energy, at 0.5 μm, is about 4 x 10-19 J. It's a tiny number!
+The third form in Definition 13.1.1 makes it easy to compute photon energy in Joules given the wavelength in microns.2 Visible light has a wavelength around 0.4–0.7 μm (violet-to-red), so a typical photon energy, at 0.5 μm, is about 4 x $10^{-19}$ J. It's a tiny number!
 Example 13.1.1 About how many photons strike a 0.4 m2 patch of sidewalk per second if the overhead sun is delivering 1,000 W/m2?
-For the visible light characteristic of sunlight, we can use a convenient wavelength of 0.5 μm, amounting to 4 × 10-19 J of energy per photon. The patch of sidewalk we describe receives light energy at a rate of 400 W or 400 J/s.3 How many 4 x 10-19 J photons does it take to amount to 400 J? Divide1 to get 1021.
-The final form in Definition 13.1.1 relates to the fact that photons fre- quently interact with electrons as we will see in Section 13.3, making it convenient to convert to another energy unit called the electron-volt, or eV (introduced in Sec. 5.9; p. 78). One electron volt is the energy it takes to move an electron through an electric potential of one Volt. The conversion is 1 eV = 1.602 × 10-19 J. For instance, the 0.5 μm (blue-green) photon we used in the previous example would have an energy around 2.5 eV.
+For the visible light characteristic of sunlight, we can use a convenient wavelength of 0.5 μm, amounting to 4 × $10^{-19}$ J of energy per photon. The patch of sidewalk we describe receives light energy at a rate of 400 W or 400 J/s.3 How many 4 x $10^{-19}$ J photons does it take to amount to 400 J? Divide1 to get 1021.
+The final form in Definition 13.1.1 relates to the fact that photons fre- quently interact with electrons as we will see in Section 13.3, making it convenient to convert to another energy unit called the electron-volt, or eV (introduced in Sec. 5.9; p. 78). One electron volt is the energy it takes to move an electron through an electric potential of one Volt. The conversion is 1 eV = 1.602 × $10^{-19}$ J. For instance, the 0.5 μm (blue-green) photon we used in the previous example would have an energy around 2.5 eV.
 Why should we care about unthinkably small quantities of light? Three reasons come to mind:
 1. Eq. 13.1 elucidates that bluer photons have higher energy than
 red photons, which is important to know;
-2: One micron, or micro-meter, abbreviated μm, is 10-6 m.
+2: One micron, or micro-meter, abbreviated μm, is $10^{-6}$ m.
 3:
 0.4 m2 times 1,000 W/m2
 4: ... or try reasoning it out: 1019 of them would make 4 J, so we need 100x more
@@ -74,7 +74,7 @@ red photons, which is important to know;
 We should first understand where photons originate, which will help us understand how solar panels work and their limitations. Until recent technological advances, photons tended to come from thermal sources. It's true for the white-hot sun," and true for flame and incandescent light bulb filaments. Likewise, hot coals, electrical heating elements, and lava are all seen to glow. Physics tells us how such hot sources radiate, as covered by the next three equations. The first (with units) is:
 P = AσT4 (W).
 (13.3)
-We already saw this equation in the context of Earth's energy balance in Sections 1.3 and 9.2. It is called the Stefan-Boltzmann law, describing the total power (in W, or J/s) emitted from a surface whose area is A (in square meters) and temperature, T in Kelvin.[^8] The constant, o≈ 5.67 × 10-8 W/m2/K+ is called the Stefan-Boltzmann constant, and is easy to remember as 5-6-7-8.9
+We already saw this equation in the context of Earth's energy balance in Sections 1.3 and 9.2. It is called the Stefan-Boltzmann law, describing the total power (in W, or J/s) emitted from a surface whose area is A (in square meters) and temperature, T in Kelvin.[^8] The constant, o≈ 5.67 × $10^{-8}$ W/m2/K+ is called the Stefan-Boltzmann constant, and is easy to remember as 5-6-7-8.9
 1
 2лhс2
 W/m2
@@ -84,9 +84,9 @@ BA
 m
 —
 (13.4)
-Eq. 13.4 might look formidable, but only A and T are variable. It describes the Planck spectrum, otherwise known as the blackbody10 spectrum. For some temperature, T, this function specifies how much power is emitted at each wavelength, A. Three fundamental physical constants from key areas of physics make an appearance: c≈ 3 x 108 m/s is the familiar speed of light from relativity; h≈ 6.626 x 10-34 J. s is Planck's constant from quantum mechanics, and kB≈ 1.38 x 10-33 J. K is the Boltzmann constant of thermodynamics.[^11]
+Eq. 13.4 might look formidable, but only A and T are variable. It describes the Planck spectrum, otherwise known as the blackbody10 spectrum. For some temperature, T, this function specifies how much power is emitted at each wavelength, A. Three fundamental physical constants from key areas of physics make an appearance: c≈ 3 x 108 m/s is the familiar speed of light from relativity; h≈ 6.626 x $10^{-34}$ J. s is Planck's constant from quantum mechanics, and kB≈ 1.38 x $10^{-33}$ J. K is the Boltzmann constant of thermodynamics.[^11]
 Amax≈
-2.898 × 10-3
+2.898 × $10^{-3}$
 (m). T(in K)
 (13.5)
 
@@ -137,11 +137,11 @@ Let's come at this again with numbers to help us make sense of things. Looking a
 Example 13.2.1 First, Eq. 13.5 says that the wavelength where emission peaks should be about 2.898×10−3/6000 ≈ 0.483×10−6 m, or 0.483 μm.
 Now look at the graph to see that the peak of the blue curve is indeed just short of 0.5 μm, denoted by the red star at the top.
 Example 13.2.2 Let's now verify a point on the Planck spectrum, picking 6,000 K and 1 μm to see if Eq. 13.4 lands in the same spot as indicated in Figure 13.1.
-If we go through the laborious exercise of plugging in numbers to Eq. 13.4 for T = 6000 and A = 1 × 10-6 (1 μm), we find13 the overall outcome is 3.73 × 1013 W/m2 per meter of wavelength. Once we adjust by 10-6 for the units on the plot (see earlier margin note), we expect 0.373 x 108 W/m2 per micron.
+If we go through the laborious exercise of plugging in numbers to Eq. 13.4 for T = 6000 and A = 1 × $10^{-6}$ (1 μm), we find13 the overall outcome is 3.73 × 1013 W/m2 per meter of wavelength. Once we adjust by $10^{-6}$ for the units on the plot (see earlier margin note), we expect 0.373 x 108 W/m2 per micron.
 Indeed, the blue curve passes through this value at a wavelength of 1 μm, as indicated by the dotted line in Figure 13.1.
 Figure 13.1: Planck spectra, or blackbody spectra for three temperatures, indicating where the ultraviolet, visible, and infrared regions lie. The shapes of the three curves (spectra) are described by Eq. 13.4, the star locations are found by Eq. 13.5, and the total power radiated, per square meter of surface is the area under each curve, as captured in Eq. 13.3. The dotted line relates to Example 13.2.2. Note the le8 factor on the vertical axis, meaning that the axis goes from 0 to 1.0 x 108 W/m2/μm.
-12: Eq. 13.4 uses units of meters for A, but Figure 13.1 uses microns (um, or 10-6 m) for convenience. Also, Eq. 13.4 delivers an answer in units of W/m2 per meter of wave- length, but for the plot we divided by 106 so it would be W/m2 per micron of wavelength. By taking care of this detail, the area under each curve in Figure 13.1 should match σT4 as in Eq. 13.3.
-13: Numerically, the numerator is 3.74 x 10-16, the denominator is 10-30, and the argument in the exponential is 2.4, so that the second fraction is 0.1.
+12: Eq. 13.4 uses units of meters for A, but Figure 13.1 uses microns (um, or $10^{-6}$ m) for convenience. Also, Eq. 13.4 delivers an answer in units of W/m2 per meter of wave- length, but for the plot we divided by 106 so it would be W/m2 per micron of wavelength. By taking care of this detail, the area under each curve in Figure 13.1 should match σT4 as in Eq. 13.3.
+13: Numerically, the numerator is 3.74 x $10^{-16}$, the denominator is $10^{-30}$, and the argument in the exponential is 2.4, so that the second fraction is 0.1.
 
 201
 Example 13.2.3 Finally, to assess Eq. 13.3, we can crudely estimate the area under the blue curve by drawing a rectangle that we think has about the same total area. We put the top of the rectangle at the top of the blue curve and ask how wide it would need to be to approximately match the area under the blue curve.
@@ -217,7 +217,7 @@ Figure 13.4: PV cell structure and function. A junction between n-doped and p-do
 [^22]: Current is just flow of charge, and in this case is just movement of electrons through the external circuit.
 
 A photon leaves the hot solar surface aimed right at a PV panel on Earth. The photon can be any "color," distributed according to the Planck spectrum23 in Figure 13.1. The most probable wavelength for a 5,800 K blackbody-according to Eq. 13.5-is ~0.5 μm, but it could reasonably be anywhere from 0.2-3 um. The atmosphere will knock out (absorb or scatter) most of the ultraviolet light before it reaches the panel, and some of the infrared light is absorbed in the atmosphere as well. But almost 75% of the energy24 makes it to the panel. What happens next depends on the wavelength.
-First, we must understand something about the silicon material. The atoms in a typical silicon PV cell are arranged in an orderly lattice, grown as a single crystal. Expensive panels have mono-crystalline silicon, meaning that each 15 cm square cell comprising the panel is a thin slice of one giant crystal. Less expensive poly-crystalline (or multi-crystalline) panels have cells that are a patchwork25 of randomly-oriented crystals at the millimeter to centimeter scale. But microscopically, both types are orderly crystals. Silicon has four electrons in its valence shell (outermost shell), so that a "happy" silicon atom is home to a four-outer-electron family. These electrons are said to exist in the valence band.[^26] But provided a sufficient energy kick, an electron can leave home and enter the conduction band,[^27] where it can freely move through the crystal and can potentially contribute to an electric current, if it finds the junction. The threshold energy level to promote an electron from the valence to the conduction band is called the band gap,[^20] which for silicon is 1.1 eV (1.8 × 10-19 J).
+First, we must understand something about the silicon material. The atoms in a typical silicon PV cell are arranged in an orderly lattice, grown as a single crystal. Expensive panels have mono-crystalline silicon, meaning that each 15 cm square cell comprising the panel is a thin slice of one giant crystal. Less expensive poly-crystalline (or multi-crystalline) panels have cells that are a patchwork25 of randomly-oriented crystals at the millimeter to centimeter scale. But microscopically, both types are orderly crystals. Silicon has four electrons in its valence shell (outermost shell), so that a "happy" silicon atom is home to a four-outer-electron family. These electrons are said to exist in the valence band.[^26] But provided a sufficient energy kick, an electron can leave home and enter the conduction band,[^27] where it can freely move through the crystal and can potentially contribute to an electric current, if it finds the junction. The threshold energy level to promote an electron from the valence to the conduction band is called the band gap,[^20] which for silicon is 1.1 eV (1.8 × $10^{-19}$ J).
 28
 Infrared photons at a wavelength of > 1.1 um have an energy of E < 1.1 eV,29 according to Eq. 13.1. The energy falls below the band gap of silicon, and as such is not capable of promoting an electron within the silicon from the valence band to the conduction band. These longer-wavelength photons sail right through the silicon crystal as if it were transparent glass. Since these photons are not absorbed, the part of the incident energy in the infrared beyond 1.1 μm is lost. For the solar spectrum, this amounts to 23%, and is portrayed in Figure 13.5.
 For the 77% of sunlight whose photons are energetic enough to bump an electron into the conduction band,[^30] it's game-on, right? Well, not so fast literally. Photons whose energy is higher than 1.1 eV have more
@@ -1060,7 +1060,7 @@ and a near-infrared one at A 1.0 μm- each emitting photons at an energy rate of
 3. Using the setup in Problem 2, how many photons enter your pupil every second if you look directly at the sun? When doing so, your pupil restricts to a diameter of about 2 mm.
 4. The dimmest stars we can see with our eyes are thirteen orders-of- magnitude104 dimmer than the intensity of the sun. Building off of Problem 3, how many photons enter your eye per second at this edge of detectability?
 103: Hint: recall that 1 W is 1 J/s.
-104: 10-13 times
+104: $10^{-13}$ times
 
 
 223
@@ -1074,7 +1074,7 @@ true?
 11. What are two reasons that blue photons are disadvantaged in terms of having their energy contribute to useful current in silicon photovoltaics?
 12. Which photons are most responsible for heating up a silicon photovoltaic panel in full sun: blue photons or infrared photons (beyond 1.1 μm)?
 13. If a blue photon having 3.3 electron-volt of energy liberates an electron in silicon, whose band gap is 1.1 eV,, what fraction of the photon's energy is "kept" by the electron once it settles down from the excess?107
-14. If a 2.5 electron-volt photon liberates an electron from silicon with a 1.1 eV band gap, how much kinetic energy does the emerging electron have? Express in both eV and Joules, and then determine the velocity of the electron if the electron mass is 9 × 10-31 kg.
+14. If a 2.5 electron-volt photon liberates an electron from silicon with a 1.1 eV band gap, how much kinetic energy does the emerging electron have? Express in both eV and Joules, and then determine the velocity of the electron if the electron mass is 9 × $10^{-31}$ kg.
 15. Briefly summarize the sequence of events108 that results in a
 105: Humans emit in the infrared, so we don't see it with our eyes.
 Note that the spectrum is spread over so many microns and we're being approximate about the temperature, so relax
