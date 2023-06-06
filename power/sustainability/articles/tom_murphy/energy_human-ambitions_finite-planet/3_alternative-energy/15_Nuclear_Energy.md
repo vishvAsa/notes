@@ -67,6 +67,8 @@ A nuclide is any unique combination of nucleons, so that every nucleus is one of
 
 {{< figure src="../images/proton_vs_neutron-numbers.png" title="" class="thumbnail">}}
 
+(Figure 15.3: Layout of the Chart of the Nuclides, showing positions of naturally-occurring nuclei (stable or long-lived enough to be present on Earth). Stable nuclei tend to have more neutrons than protons-especially for heavier nuclei. This is why the track of stable nuclei bends away from the N = Z diagonal line. Arrows point to important elements of iron, lead, thorium, and uranium at Z values of 26, 82, 90, and 92, respectively.)
+
 Figure 15.3 provides a full view of the chart layout:  
 neutron number, N, runs horizontally  
 and proton number, Z, runs vertically.  
@@ -78,104 +80,84 @@ Stable nuclei are indicated by black boxes at some particular integer value of N
 
 (Figure 15.4: Chart of the Nuclides for the low-mass end. Neutron number, N, increases toward the right (green numbering at bottom) and proton number, Z, increases vertically (blue numbering at left). Scientific notation is expressed as, e.g., 8e-23, meaning $8 x 10^{-23}$. A wealth of information is included: spend some time studying the surrounding guides to learn what data each box contains.)
 
-Figure 15.4 shows the lower-left corner of the chart in much greater detail. For each element (horizontal row), properties of all known isotopes are listed-even those that are radioactive and do not persist for even a small fraction of a second before decaying. Stable isotopes are denoted by gray boxes. The mass of each, in atomic mass units (a.m.u.)— defined so that the neutral 12C atom is exactly 12.0000 a.m.u.—is given, and the natural abundance as found on Earth, in percent. The Chart of the Nuclides lets us peak inside the periodic table in great detail, as Example 15.1.2 suggests.
+Figure 15.4 shows the lower-left corner of the chart in much greater detail[^5]. For each element (horizontal row), properties of all known isotopes are listed-even those that are radioactive and do not persist for even a small fraction of a second before decaying. Stable isotopes are denoted by gray boxes. The mass of each, in atomic mass units (a.m.u.)— defined so that the neutral 12C atom is exactly 12.0000 a.m.u.—is given, and the natural abundance as found on Earth, in percent. The Chart of the Nuclides lets us peak inside the periodic table in great detail, as Example 15.1.2 suggests.
+
+
+[^5]: Even this level of detail is short of what can be found in the actual Chart of the Nu- clides, which also provides quantitative val- ues for neutron absorption, nuclear spins, excited states, additional decay paths and associated energies.
 
 <details><summary>Example 15.1.2</summary>
 
 Example 15.1.2  
 From the Boron row (Z 5) in Figure 15.4, we can see that 19.9% of boron is found in the form of 10B, while the other 80.1% is 11B.  
-The weighted composite mass is therefore 0.199 x 10.0129370 + 0.801 × 11.0093055, yielding 10.81103 a.m.u., which is the number presented as the molar mass on the periodic table.
+The weighted composite mass is therefore 0.199 x 10.0129370 + 0.801 × 11.0093055, yielding 10.81103 a.m.u., which is the number presented as the molar mass on the periodic table.[^6]
 
+[^6]: ... and in the summary information in the blue box at the left of each row
 </details>
 
 
 Because the Chart of the Nuclides has neutron number, N, increasing from left to right, and proton number, Z, increasing vertically, nuclei having the same mass number, A = Z+N, are arranged on diagonals. Notice that in the region shown in Figure 15.4, we never find more than one stable element at each mass number (constant A).
-Figure 15.3: Layout of the Chart of the Nuclides, showing positions of naturally- occurring nuclei (stable or long-lived enough to be present on Earth). Stable nuclei tend to have more neutrons than protons-especially for heavier nuclei. This is why the track of stable nuclei bends away from the N = Z diagonal line. Arrows point to important elements of iron, lead, thorium, and uranium at Z values of 26, 82, 90, and 92, respectively.
-5: Even this level of detail is short of what can be found in the actual Chart of the Nu- clides, which also provides quantitative val- ues for neutron absorption, nuclear spins, excited states, additional decay paths and associated energies.
-6: ... and in the summary information in the blue box at the left of each row
-=
-Follow A 12, for instance, from O12 through Be12, crossing through C12 as the only stable element of this mass.
+
+(Follow A 12, for instance, from O12 through Be12, crossing through C12 as the only stable element of this mass.)
 
 [[242]]
 
 ## 15.2 Radioactive Decay
 When one nuclide, or isotope changes into another, it does so by the process of radioactive decay. Stable nuclides have no incentive to undergo such decays, but unstable nuclides will seek a more stable configuration through the decay process.
-8
-The black squares in Figure 15.3, or gray squares in Figure 15.4 are stable, leaving all others as unstable, meaning that they will undergo radioactive decay to a different nucleus after some time interval that is characterized by the nuclide's half life.
-Definition 15.2.1 The half life of a nuclide is the time at which the probability of decay reaches 50%. A large sample of such nuclides will be reduced to half the original number after one half-life. Each subsequent half-life interval removes another half of what remains.
 
-[^7]:
-nature
-or long-lived enough to be found in
+The black squares in Figure 15.3, or gray squares in Figure 15.4 are stable[^7], leaving all others as unstable,[^8] meaning that they will undergo radioactive decay to a different nucleus after some time interval that is characterized by the nuclide's half life.
+
+[^7]: or long-lived enough to be found in nature
 
 [^8]: Nuclides are unstable if a lower energy (more stable) configuration is within easy reach, better balancing desire for N = Z against the cost of proton repulsion.
 
-243
-Figure 15.4 lists a half-life9 for each unstable nuclide. For example, the half-life for a neutron (n1 in Figure 15.4) is 10.25 minutes, meaning that a lone neutron has a 50% chance of surviving this long. The process is statistical, so an individual neutron might only last 3 seconds, or might still be around in 15 or even 60 minutes. The predictive power is sharpened the larger the sample is: half will remain after 10.25 minutes.
-Example 15.2.1 If starting with 16 million separate neutrons, we would expect 8 million to still be present after 10.25 minutes, 4 million after 20.5 minutes, 2 million after 30.75 minutes, and down to 1 million neutrons in 41 minutes.
-Correspondingly, a single isolated neutron has a 50% chance of still being around in 10.25 minutes, a 25% chance of lasting 20.5 minutes, and a 6.25% chance of surviving 41 minutes. Every half-life interval cuts the probability of survival in half again.
-Table 15.1 summarizes these results, adding jumps to 10 and 24 half lives for illustration, ending at one neutron.
-Luckily, radioactive decays don't go just any which way, but stick to a very small menu of possible routes. When a decay happens, the nucleus always spits something out, which could be an electron, a positron, a helium nucleus (called an alpha particle), a photon, or more rarely might spit out one or more individual protons or neutrons. Because these particles can emerge at high speed (high energy), they are like little bullets firing at random times and directions into their surroundings. These bullets are potentially damaging to materials and biological tissues-especially DNA, able to cause mutations and/or initiate cancerous growth. The primary decay mechanisms pertaining to the vast majority of decays are listed below and accompanied by Figure 15.5.
+Definition 15.2.1  
+The half life of a nuclide is the time at which the probability of decay reaches 50%. A large sample of such nuclides will be reduced to half the original number after one half-life. Each subsequent half-life interval removes another half of what remains.
+
+
+[[243]]
+
+Figure 15.4 lists a half-life[^9] for each unstable nuclide. For example, the half-life for a neutron (n1 in Figure 15.4) is 10.25 minutes, meaning that a lone neutron has a 50% chance of surviving this long. The process is statistical, so an individual neutron might only last 3 seconds, or might still be around in 15 or even 60 minutes. The predictive power is sharpened the larger the sample is: half will remain after 10.25 minutes.
 
 [^9]: ... in units of seconds, minutes, hours, days, or years
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Example 15.2.1   
+If starting with 16 million separate neutrons, we would expect 8 million to still be present after 10.25 minutes, 4 million after 20.5 minutes, 2 million after 30.75 minutes, and down to 1 million neutrons in 41 minutes.
+
+Correspondingly, a single isolated neutron has a 50% chance of still being around in 10.25 minutes, a 25% chance of lasting 20.5 minutes, and a 6.25% chance of surviving 41 minutes. Every half-life interval cuts the probability of survival in half again.
+
+Table 15.1 summarizes these results, adding jumps to 10 and 24 half lives for illustration, ending at one neutron.
+
+
 Table 15.1: Decay of 16 million (M) neutrons, having a half life of 10.25 minutes, mirroring Example 15.2.1. Time is in minutes. The number remaining at each step is given, as well as the probability of any particular neutron surviving this long. After about four hours, only one would be expected to remain (and not for much longer).
-Prob.
-Time
-Half
-Remain
-(min)
-Lives
-0
-0
-16 M
-100%
-10.25
-1
-8 M
-50%
-20.5
-2
-4 M
-25%
-30.75
-3
-2 M
-12.5%
-41.0
-4
-1 M
-6.25%
-:
-:
-102.5
-10
-15,625
-0.1%
-:
-:
-246
-24
-~1
-1/16M
-:
-144Nd
-α
-140 Ce
-a-particle ("He)
-electron
-anti-neutrino
-B-
-9Li
-9Be
-positron
-neutrino
-B+
-10C
-10B
-Figure 15.5: Radioactive decay mechanisms for a, ß, and ßt. Protons are colored red, and neutrons light purple. The total nucleon counts are correct for the two beta decays, but only schematic for the larger 144Nd nucleus used to illustrate alpha decay, which is predominantly seen only in heavier nuclei (aside from "Li and Be). The positron is an anti-electron: a positively-charged antimatter counterpart to the electron. Neutrinos are sometimes called "ghost" particles for their near-complete non-interactivity with ordinary matter.
+
+
+
+Time(min), Half Lives, Remain, Prob.  
+0 0 16M 100%  
+10.25 1 8M 50%  
+20.5 2 4M 25%  
+30.75 3 2M 12.5%  
+41.0 4 1M 6.25%  
+...  
+102.5 10 15,625 0.1%  
+246 24 ~1 1/16M
+</details>
+
+
+Luckily, radioactive decays don't go just any which way, but stick to a very small menu of possible routes. When a decay happens, the nucleus always spits something out, which could be an electron, a positron, a helium nucleus (called an alpha particle), a photon, or more rarely might spit out one or more individual protons or neutrons. Because these particles can emerge at high speed (high energy), they are like little bullets firing at random times and directions into their surroundings. These bullets are potentially damaging to materials and biological tissues-especially DNA, able to cause mutations and/or initiate cancerous growth. The primary decay mechanisms pertaining to the vast majority of decays are listed below and accompanied by Figure 15.5.
+
+
+{{< figure src="../images/alpha_electron_positron_decay.png" title="" class="thumbnail">}}
+
+Figure 15.5: Radioactive decay mechanisms for a, ß, and ßt. Protons are colored red, and neutrons light purple. The total nucleon counts are correct for the two beta decays, but only schematic for the larger 144Nd nucleus used to illustrate alpha decay, which is predominantly seen only in heavier nuclei (aside from 5Li and 8Be). The positron is an anti-electron: a positively-charged antimatter counterpart to the electron. Neutrinos are sometimes called "ghost" particles for their near-complete non-interactivity with ordinary matter.
+
 1. Alpha decay (a), in which a foursome of two protons and two neutrons essentially a 'He nucleus-leaps out.[^10] When this hap- pens, the nucleus reduces its N by two, reduces its Z by two, and therefore A by 4. On the chart of the nuclides, it moves two squares left and two squares down (see Figure 15.7). For example, Be decays this way, essentially splitting into two 4He nuclei;
 8
-10: Helium is found mixed in with natural gas, and derives from alpha particle decay of elements in the earth's interior.
+
+[^10]: Helium is found mixed in with natural gas, and derives from alpha particle decay of elements in the earth's interior.
+
 Follow along on Figure 15.4.
 
 2. Beta-minus (ẞ) decay is a manifestation of the weak nuclear force, in which a neutron within the nucleus converts to a proton, and in the process spits out an electron (ẞ particle, really just e ̄) to conserve total electric charge, and a neutrino-which we will ignore." The mass number, A is unchanged, but N goes down one and Z goes up one (gaining a proton and losing a neutron). Thus on the chart of nuclides the motion is one left, one up.
