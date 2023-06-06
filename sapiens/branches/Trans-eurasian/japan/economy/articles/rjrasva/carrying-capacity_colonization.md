@@ -2,7 +2,9 @@
 title = "Carrying-capacity & colonization"
 +++
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>Rjrasva comment</summary>
+
+In Edo Japan land was maxxed to direct food production which is why it could feed 30 million. If they used draft animals they 1st had to feed the oxen. This is why draft animals & wheeled transport slowly disappeared in Edo era though they were more frequent earlier.
 
 30 million seems to be the natural pre industrial carrying capacity of Kyushu + Honshu + Shikoku because it hit that by mid 1700's iirc & for the next century. The population barely grew due to famines like Tenmei (1782-1788) or limiting family size through abortion & infanticide due to poverty.
 </details>

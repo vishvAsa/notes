@@ -1,5 +1,5 @@
 ---
-title: Khitai
+title: Khitan
 ---
 
 ## Liao (eastern khitan) empires. 
