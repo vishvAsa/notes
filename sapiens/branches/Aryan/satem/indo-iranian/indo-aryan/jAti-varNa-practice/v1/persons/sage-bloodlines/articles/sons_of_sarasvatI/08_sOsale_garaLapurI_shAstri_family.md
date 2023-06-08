@@ -619,7 +619,7 @@ It seems logical for us to identify the Ānēgondi *Saṁsthāna* referred to in
 
 Information on this *saṁsthāna* is hard to come by, since the Ānēgondi rulers do not figure much in inscriptions. Two members of this family, Veṇkaṭa Dēva Rāya iI and his nephew Śrīraṇga Dēva Rāya iI, do appear in inscriptions, but mainly after they became official Vijayanagara sovereigns based at places other than Ānēgondi. While the rulers at Ānēgondi may have had limited military power, their pedigree clearly made them very high-status rulers. They were descendants of *Aḷiya* Rāma Rāya, and therefore represented the senior line of succession to the Vijayanagara throne. They likely saw their status as higher than that of their cousins who ruled from Penukoṇḍa and Candragiri. 
 
-We note that inscription A.R. 318 \(page 377\) refers to Timma by the title *Timma-rajayya-Maha-arasu *\(Timma Mahārāja, effectively\), identical to the title conferred upon the great Rāma Rāya in that same sentence. It would have been high treason for a mere vassal to assume such a title. 
+We note that inscription A.R. 318 \(page 377\) refers to Timma by the title *Timma-rajayya-Maha-arasu* \(Timma Mahārāja, effectively\), identical to the title conferred upon the great Rāma Rāya in that same sentence. It would have been high treason for a mere vassal to assume such a title. 
 
 Timma’s assertiveness clearly reflects weakened central authority. In 1580 C.E., the year of that inscription, the official Vijayanagara emperor Śrīraṇga Dēva Rāya I was taken to the Qutb Śāhi capital by Fazal Ḳhān, a Qutb Śāhi general, from where he returned only after concluding a treaty with the Qutb Śāh. By one account, he went as a captive having lost a battle for Penukoṇḍa, while in another, he went there after being persuaded by Fazal Khan \[Aiyangār 1919, pp. 231, 236\]. Either way, the story is informative; it is hard to imagine any of the kings of Vijayanagara travelling to a rival capital during the empire’s heyday.+++(5)+++ It is clear that the empire was in serious decline. 
 
@@ -633,81 +633,58 @@ While it is certain that Veṇkaṭa iI had left Ānēgondi to pursue his claims
 
 ## Other Clues Regarding Tammaṇṇa śāstri’s Journey
 
-We know that Tammaṇṇa Śāstri’s southward journey occurred around or just after 1639 C.E., and that *Pedda* Veṇkaṭa of Ānēgondi had become the emperor Veṇkaṭa Dēva Rāya iI in 1635 C.E. We know also that Veṇkaṭa iI did not rule from Ānēgondi, that he ruled from several places at different times, and that he died near Candragiri in 1642 C.E. Was Tammaṇṇa Śāstri associated with his court? If so, where did his journey to Anantaśayana originate? Was he still at ¯
+We know that Tammaṇṇa Śāstri’s southward journey occurred around or just after 1639 C.E., and that *Pedda* Veṇkaṭa of Ānēgondi had become the emperor Veṇkaṭa Dēva Rāya iI in 1635 C.E. We know also that Veṇkaṭa iI did not rule from Ānēgondi, that he ruled from several places at different times, and that he died near Candragiri in 1642 C.E. Was Tammaṇṇa Śāstri associated with his court? If so, where did his journey to Anantaśayana originate? Was he still at Ānēgondi, or at some other location? 
 
-## Ānēgondi, or at some other location? 
-
-We have no historical basis to approach these questions, but will give in to the temptation to speculate. We note first that Ayyā Śāstri alludes to Tammaṇṇa Śāstri’s troubles specifically at the hands of “Haiderābādi Muslims”, not merely “Muslims”. Was his use of the qualifier “Haiderābādi” 
-
-significant, or was it merely incidental and gratuitous? After all, Haider-
-
-ābād had been the seat of the Āsaf Jāhi dynasty, the dominant South Indian Muslim power since 1724 C.E. This dynasty had partnered with the British in their overthrow of Ṭippu Sultān in 1799 C.E., and it is usual even today in South India to associate Muslims with Haiderābād. If so, this reference conveys little information about the circumstances or date of Tammaṇṇa Śāstri’s journey. 
+We have no historical basis to approach these questions, but will give in to the temptation to speculate. We note first that Ayyā Śāstri alludes to Tammaṇṇa Śāstri’s troubles specifically at the hands of “Haiderābādi Muslims”, not merely “Muslims”. Was his use of the qualifier “Haiderābādi” significant, or was it merely incidental and gratuitous? After all, Haiderābād had been the seat of the Āsaf Jāhi dynasty, the dominant South Indian Muslim power since 1724 C.E. This dynasty had partnered with the British in their overthrow of Ṭippu Sultān in 1799 C.E., and it is usual even today in South India to associate Muslims with Haiderābād. If so, this reference conveys little information about the circumstances or date of Tammaṇṇa Śāstri’s journey. 
 
 We argue, however, that the reference to “Haiderābādi” Muslims is actually significant, and was undoubtedly a part of the family’s oral history. 
 
 Ayyā Śāstri himself was a man of deep erudition, and as a *Mahāvidvān* at the royal court, had a large circle of scholarly friends and colleagues. He had, in fact, been one of the circle of scholars who had assisted Benjamin Lewis Rice in his monumental works on the language, history, and epigraphy of Karnāṭaka. He had also travelled widely with His Highness Cāmarājendra Voḍeyar across the state and the country. There seems to be little doubt that Ayyā Śāstri knew the differences between the various Muslim kingdoms of the South. His use of the qualifier “Haiderābādi” could only have been deliberate. 
 
-We also note that the relevant paragraph in Garaḷapurī Śāstri’s biography \(see page 8\) begins with a broad reference to the growing power of Muslims in India at the time. Almost immediately, however, it becomes more 380
-
+380
 381
 
-specific, characterizing Tammaṇṇa Śāstri’s tormentors as Haiderābādi Muslims, not simply as Muslims. This sharpened focus is surely significant. It has always been well known in South India that Vijayanagara’s destruction \(to which page 8 alludes\) resulted from an alliance among the Sultanates, and that Vijayanagara had fought different Muslim kingdoms over its history. The singling out of Haiderābādi Muslims here has to be deliberate. 
+We also note that the relevant paragraph in Garaḷapurī Śāstri’s biography \(see page 8\) begins with a broad reference to the growing power of Muslims in India at the time. Almost immediately, however, it becomes more specific, characterizing Tammaṇṇa Śāstri’s tormentors as Haiderābādi Muslims, not simply as Muslims. This sharpened focus is surely significant. It has always been well known in South India that Vijayanagara’s destruction \(to which page 8 alludes\) resulted from an alliance among the Sultanates, and that Vijayanagara had fought different Muslim kingdoms over its history. The singling out of Haiderābādi Muslims here has to be deliberate. 
 
 Ayyā Śāstri, in recounting the family history to the biographer, must have named the attackers Haiderābādis. The allusions to Haiderābād in the biography and in Ayyā Śāstri’s manuscript reinforce each other, diminishing the likelihood that they are both gratuitous. 
 
-The G ōlkoṇḍa and Bij āpur Campaigns of 1638 C.E. 
+## The Gōlkoṇḍa and Bijāpur Campaigns of 1638 C.E. 
 
-If Tammaṇṇa Śāstri’s Muslim tormentors had indeed been based in Haider-
-
-ābād, the reference is quite informative. The city of Haiderābād was founded by Mohammed Quli Qutb Śāh in 1589 C.E., who initially named it Bhāgnagar, after Bha¯gmatī, a favourite concubine of his. A year later, he moved his capital from the city of Gōlkoṇḍa to Haiderābād. If Ayyā Śāstri’s reference to “Haiderābādi” Muslims is a genuine part of the family history as handed down, Tammaṇṇa Śāstri’s move must have occurred after the kingdom of Gōlkoṇḍa became known as the kingdom of Haiderābād. This was clearly well after 1590 C.E., strengthening the credibility of the timeline we have constructed. 
+If Tammaṇṇa Śāstri’s Muslim tormentors had indeed been based in Haiderābād, the reference is quite informative. The city of Haiderābād was founded by Mohammed Quli Qutb Śāh in 1589 C.E., who initially named it Bhāgnagar, after Bhāgmatī, a favourite concubine of his. A year later, he moved his capital from the city of Gōlkoṇḍa to Haiderābād. If Ayyā Śāstri’s reference to “Haiderābādi” Muslims is a genuine part of the family history as handed down, Tammaṇṇa Śāstri’s move must have occurred after the kingdom of Gōlkoṇḍa became known as the kingdom of Haiderābād. This was clearly well after 1590 C.E., strengthening the credibility of the timeline we have constructed. 
 
 Can we identify any specifics regarding the attack by Haiderābādi Muslims that precipitated Tammaṇṇa Śāstri’s journey? Unfortunately, there was incessant fighting among the regional powers after 1600 C.E., as the Vijayanagara rulers began to lose their hold on the region. We will focus on the period following 1635 C.E., the time of most interest to us. In 1636 C.E., the Mughals under Aurangzeb finally annexed the Ahmadnagar Sultanate to their empire. In the process, Aurangazēb defeated Śāhji, the last significant Ahmadnagar general, who now entered the service of the Bijāpur Sultanate. 
 
 He would beome one of Bijāpur’s most trusted and effective generals, and serve as a chief commander in Bijāpur’s southern conquests of 1638 C.E. 
 
-Bijāpur and G ōlkoṇḍa \(likely identified with Haiderābād, by this time\) entered into a treaty with the Mughals in 1636 C.E., agreeing to become its tributaries. This treaty secured them from Mughal attacks, and also granted them permission for southern expansion into the Vijayanagar territories. 
+Bijāpur and Gōlkoṇḍa \(likely identified with Haiderābād, by this time\) entered into a treaty with the Mughals in 1636 C.E., agreeing to become its tributaries. This treaty secured them from Mughal attacks, and also granted them permission for southern expansion into the Vijayanagar territories. 
 
-382
+[[382]]
 
 
 
 These Sultanates now went about conquering the Vijayanagar *pāḷeyapaṭs* one at a time, Bijāpur on the west and Gōlkoṇḍa on the east. The campaigns appear to have a direct bearing on Tammaṇṇa Śāstri’s story, Gōlkoṇḍa’s on its beginning, and Bijāpur’s on its end. 
 
-Gōlkoṇḍa began a campaign in 1638 C.E., conquering the Telugu and Tamiz. *pāḷeyapaṭs* that were the eastern provinces of Vijayanagara. The Telugu regions were the first to be taken over, according to Sharma and Gopal
-
-\[1980, p. 226\], at least partly because Gōlkoṇḍa had always coveted the diamond mines in the region.805 Ānēgondi is very close to the Telugu provin-
-
-ces, and even today, is adjacent to the border with Āndhra Pradēsh. There
-
-is also other evidence that Vijayanagara was under the control of Gōlkon.-
-
-ḍa \(“Hyderābād”\) in 1640 C.E. Ephrem de Nevers, a Capuchin priest of French origin, is stated \[in Lach and van Kley 1998, p. 257\] to have travelled in 1640 C.E. from Surat to Vijayanagara, then occupied by Gōlkoṇḍa. 
+Gōlkoṇḍa began a campaign in 1638 C.E., conquering the Telugu and Tamiz *pāḷeyapaṭs* that were the eastern provinces of Vijayanagara. The Telugu regions were the first to be taken over, according to Sharma and Gopal \[1980, p. 226\], at least partly because Gōlkoṇḍa had always coveted the diamond mines in the region.[^805] Ānēgondi is very close to the Telugu provinces, and even today, is adjacent to the border with Āndhra Pradēsh. There is also other evidence that Vijayanagara was under the control of Gōlkoṇḍa \(“Hyderābād”\) in 1640 C.E. Ephrem de Nevers, a Capuchin priest of French origin, is stated \[in Lach and van Kley 1998, p. 257\] to have travelled in 1640 C.E. from Surat to Vijayanagara, then occupied by Gōlkoṇḍa. 
 
 He befriended its sultan, and proceeded in 1642 C.E. to Madras, which was also under Gōlkoṇḍa’s control. The British, who had built Fort St. George the previous year, welcomed him, and de Nevers established a church there. 
 
 In 1649 C.E., the Portuguese arrested him and took him to Goa, where an inquisition was in progress. They released de Nevers in 1651 C.E., under threats from the Papacy, the French and English governments, and the sultan of Gōlkoṇḍa. Tavernier \[1889\] confirms that de Nevers passed through Bhāgnagar, Gōlkoṇḍa’s capital. By this account, Vijayanagara appears to have been under Gōlkoṇḍa’s occupation in 1640 C.E. Tammaṇṇa Śāstri’s move southwards was likely to have been precipitated by this attack by the forces of Gōlkoṇḍa \(by then called Haiderābād\). 
 
-Bijāpur’s armies too, led by Randullāh Ḳhān and Śāhji, swept down the west coast in 1638 C.E., overrunning the Kannaḍa regions of Keḷadi, Santebann ūr, Beṇgaḷūru, Hosakōṭe, and Kōlār. It appears that only Kaṇṭhīrava Narasa Rāja of Mais ūru, then ruling from Śrīraṇgapaṭṭaṇa, was able to resist this onslaught. Śāhji took Hosakōṭe in 1639 C.E., forcing Tammēgauḍa to move to Ānēkallu. At the same time, he also took Beṇgaḷūru from Immaḍi 805The fabled diamonds of Gōlkoṇḍa, which include the Hope diamond, the *Koh-i-Noor,* the *Daryā-i-Noor,* the Orlov diamond, and the Sanc diamond, appear to have been mined in this region. The qualifier *Gōlkoṇḍa* is still used in the trade to signify nearly perfect gems. India had been the only source of diamonds till the late 17th century, when Borneo’s diamonds became known in Europe. 
+Bijāpur’s armies too, led by Randullāh Ḳhān and Śāhji, swept down the west coast in 1638 C.E., overrunning the Kannaḍa regions of Keḷadi, Santebannūr, Beṇgaḷūru, Hosakōṭe, and Kōlār. It appears that only Kaṇṭhīrava Narasa Rāja of Maisūru, then ruling from Śrīraṇgapaṭṭaṇa, was able to resist this onslaught. Śāhji took Hosakōṭe in 1639 C.E., forcing Tammēgauḍa to move to Ānēkallu.  
 
-383
+[^805]: The fabled diamonds of Gōlkoṇḍa, which include the Hope diamond, the *Koh-i-Noor,* the *Daryā-i-Noor,* the Orlov diamond, and the Sanc diamond, appear to have been mined in this region. The qualifier *Gōlkoṇḍa* is still used in the trade to signify nearly perfect gems. India had been the only source of diamonds till the late 17th century, when Borneo’s diamonds became known in Europe.+++(5)+++ 
 
-Kempēgauḍa, forcing him to move to Māgaḍi. We know from Ayyā Śāstri’s account that Tammaṇṇa Śāstri’s son Śaṇkarabhaṭṭa moved to Māgaḍi after Tammaṇṇa Śāstri passed on. Kempēgauḍa ruled for eighteen years in Māgaḍi, so Śaṇkarabhaṭṭa is quite likely to have moved to Māgaḍi during Immaḍi Kempēgauḍa’s time. 
+[[383]]
 
-Some Speculations About Tammaṇṇa śāstri’s Journey
+At the same time, he also took Beṇgaḷūru from Immaḍi Kempēgauḍa, forcing him to move to Māgaḍi. We know from Ayyā Śāstri’s account that Tammaṇṇa Śāstri’s son Śaṇkarabhaṭṭa moved to Māgaḍi after Tammaṇṇa Śāstri passed on. Kempēgauḍa ruled for eighteen years in Māgaḍi, so Śaṇkarabhaṭṭa is quite likely to have moved to Māgaḍi during Immaḍi Kempēgauḍa’s time. 
 
-Ayyā Śāstri’s reference to the Ānēgondi *Saṁsthāna* does not imply that the
+## Some Speculations About Tammaṇṇa śāstri’s Journey
 
-starting point for Tammaṇṇa Śāstri’s journey was Ānēgondi. Veṇkaṭa iI, for example, had left Ānēgondi in pursuit of his imperial ambitions, and we
+Ayyā Śāstri’s reference to the Ānēgondi *Saṁsthāna* does not imply that the starting point for Tammaṇṇa Śāstri’s journey was Ānēgondi. Veṇkaṭa iI, for example, had left Ānēgondi in pursuit of his imperial ambitions, and we have evidence of his presence at Penukoṇḍa at this time. Similarly, there is evidence that Śrīraṇga iI, a nephew and rival of Veṇkaṭa iI for the throne, was at Vēl ūr. Tammaṇṇa Śāstri may have been in the entourage of the one or the other. 
 
-have evidence of his presence at Penukoṇḍa at this time. Similarly, there is evidence that Śrīraṇga iI, a nephew and rival of Veṇkaṭa iI for the throne, was at Vēl ūr. Tammaṇṇa Śāstri may have been in the entourage of the one or the other. 
+Plate 41 depicts hypothetical straight-line routes to Anantaśayana from Ānēgondi, Penukoṇḍa, Candragiri, and Vēlūr, the four places where we know Vijayanagara emperors associated with the Ānēgondi *Saṁsthāna* to have been. Somewhat unexpectedly, the straight-line route that runs closest to Ānēkallu starts from Penukoṇḍa. Ānēkallu is within about 120 km of the straight-line routes to Anantaśayana from Ānēgondi and from Candragiri, but within about 30 km of the route from Penukoṇḍa. This observation cannot be taken as sufficient evidence, however, that Tammaṇṇa Śāstri’s journey started from a place other than Ānēgondi. 
 
-Plate 41 depicts hypothetical straight-line routes to Anantaśayana from Ānēgondi, Penukoṇḍa, Candragiri, and Vēlūr, the four places where we know Vijayanagara emperors associated with the Ānēgondi *Saṁsthāna* to
-
-have been. Somewhat unexpectedly, the straight-line route that runs closest to Ānēkallu starts from Penukoṇḍa. Ānēkallu is within about 120 km of the straight-line routes to Anantaśayana from Ānēgondi and from Candragiri, 
-
-but within about 30 km of the route from Penukoṇḍa. This observation cannot be taken as sufficient evidence, however, that Tammaṇṇa Śāstri’s journey started from a place other than Ānēgondi. 
-
-Roads are very rarely straight lines, and no trip follows a straight-line path, unless by air. The roads of the period surely reflected dominant local transit patterns, rather than carefully planned routes between certain points. Besides, we must keep in mind that Bijāpur was attacking down the west coast in 1638 C.E., concurrently with Gōlkoṇḍa’s campaign down the east coast. Keḷadi and Santebannūr were among the first provinces to fall to Bijāpur, whose military thrust quickly overran even Basavapaṭṭaṇa and Beṇgaḷūru. The straight-line route from Ānēgondi passes through some of these very provinces. Tammaṇṇa Śāstri’s party would have had no maps to guide them, and would have relied on local advice to determine waypoints on their journey. They would have adjusted their routes to go around troubled or inhospitable regions. Even if they had started from Ānēgondi, it is
+Roads are very rarely straight lines, and no trip follows a straight-line path, unless by air. The roads of the period surely reflected dominant local transit patterns, rather than carefully planned routes between certain points. Besides, we must keep in mind that Bijāpur was attacking down the west coast in 1638 C.E., concurrently with Gōlkoṇḍa’s campaign down the east coast. Keḷadi and Santebannūr were among the first provinces to fall to Bijāpur, whose military thrust quickly overran even Basavapaṭṭaṇa and Beṇgaḷūru. The straight-line route from Ānēgondi passes through some of these very provinces. Tammaṇṇa Śāstri’s party would have had no maps to guide them, and would have relied on local advice to determine waypoints on their journey. They would have adjusted their routes to go around troubled or inhospitable regions.
 
 384
 
@@ -749,63 +726,39 @@ Tiruvanantapuram
 
 © planiglobe.com 2008
 
-Plate 41: Hypothetical straight-line routes from possible starting points for Tammaṇṇa Śāstri’s journey. The *pāḷeyapaṭs* conquered in Bijāpur’s campaign of 1638
+Plate 41: Hypothetical straight-line routes from possible starting points for Tammaṇṇa Śāstri’s journey. The *pāḷeyapaṭs* conquered in Bijāpur’s campaign of 1638 C.E. are shown in italics. 
 
-C.E. are shown in italics. 
+Even if they had started from Ānēgondi, it is quite possible that their route followed a more circuitous course than the straight lines depicted in Plate 41. 
 
-quite possible that their route followed a more circuitous course than the straight lines depicted in Plate 41. 
+There is also strong evidence that Veṇkaṭa iI was resident at Penukoṇḍa at this time, and that his rival Śrīraṇga iI was at Vēlūr \[Sharma and Gopal 1980, p. 238\]. We know that the Gōlkoṇḍa and Bijāpur campaigns of 1638 C.E. did not confront either of these symbols of Vijayanagara central power directly, to avoid rallying their vassals to their aid. Instead, they went about conquering the vassal states themselves. If Tammaṇṇa Śāstri had been in the entourage of either of these monarchs, he is unlikely to have suffered the personal devastation that the family history describes. There are no historical accounts of attacks by the Gōlkoṇḍa forces on Penukoṇḍa or Vēl ūr during this period matching Ayyā Śāstri’s account. 
 
-There is also strong evidence that Veṇkaṭa iI was resident at Penukon.-
+385 
 
-ḍa at this time, and that his rival Śrīraṇga iI was at Vēlūr \[Sharma and Gopal 1980, p. 238\]. We know that the Gōlkoṇḍa and Bijāpur campaigns of 1638 C.E. did not confront either of these symbols of Vijayanagara central power directly, to avoid rallying their vassals to their aid. Instead, they went about conquering the vassal states themselves. If Tammaṇṇa Śāstri had been in the entourage of either of these monarchs, he is unlikely to have suffered the personal devastation that the family history describes. There are no historical accounts of attacks by the Gōlkoṇḍa forces on Penukoṇḍa or Vēl ūr during this period matching Ayyā Śāstri’s account. 
+Ānēgondi hence remains a viable candidate as Tammaṇṇa Śāstri’s starting point. Plate 41 makes clear that Ānēgondi is closer to the sphere of Bijāpur’s influence than to that of Gōlkoṇḍa, and is more likely to have been attacked by Bijāpur than by Gōlkoṇḍa. Bijāpur did, in fact, wage numerous campaigns in this region, many of them under Śāhji himself. Śāhji, for example, wrote to ‘Ali ‘Ādil Śāh i on July 6, 1657 C.E., aggressively demanding a *jāhgīr* as reward for his earlier conquest of Kanakagiri \(farther south\), and of Ānēgondi just a month earlier \[Patwardhan and Rawlinson 1978, p. 28\]. 
 
-385 Ānēgondi hence remains a viable candidate as Tammaṇṇa Śāstri’s starting point. Plate 41 makes clear that Ānēgondi is closer to the sphere of
+However, these were extremely turbulent times for the region, and we have no grounds for dismissing the possibility of an attack on Ānēgondi during Gōlkoṇḍa’s campaign of 1638 C.E. Such an attack is unlikely to have met much opposition. This ancient city had lost its political primacy long before this time, and despite the emotional associations it must have held for Veṇkaṭa iI and Śrīraṇga iI, it is unlikely to have figured prominently in their political and military calculus. Both rulers had long been gone from Ānēgondi, and neither one is likely to have wanted to invest much in its defense, even assuming he had the resources to do so. Sadly, we have no specifics on any of the battles waged in this region during the Gōlkoṇḍa campaign of 1638 C.E. We are thus left to speculate that it was most likely some attack in the locale of Ānēgondi by the Gōlkoṇḍa forces during this campaign that was responsible for Tammaṇṇa Śāstri’s journey. Ānēgondi’s location would have made it one of the first Vijayanagara principalities overrun by the G ōlkoṇḍa forces in their southward sweep, so such an attack would have occurred early in this campaign, that is, in 1638–1639 C.E. 
 
-Bijāpur’s influence than to that of Gōlkoṇḍa, and is more likely to have been attacked by Bijāpur than by Gōlkoṇḍa. Bijāpur did, in fact, wage numerous campaigns in this region, many of them under Śāhji himself. Śāhji, for example, wrote to ‘Ali ‘Ādil Śāh i on July 6, 1657 C.E., aggressively demanding
+## The Timing and Course of the Journey
 
-a *jāhgīr* as reward for his earlier conquest of Kanakagiri \(farther south\), and of Ānēgondi just a month earlier \[Patwardhan and Rawlinson 1978, p. 28\]. 
-
-However, these were extremely turbulent times for the region, and we have no grounds for dismissing the possibility of an attack on Ānēgondi
-
-during Gōlkoṇḍa’s campaign of 1638 C.E. Such an attack is unlikely to have met much opposition. This ancient city had lost its political primacy long before this time, and despite the emotional associations it must have held for Veṇkaṭa iI and Śrīraṇga iI, it is unlikely to have figured prominently in their political and military calculus. Both rulers had long been gone from Ānēgondi, and neither one is likely to have wanted to invest much in its defense, even assuming he had the resources to do so. Sadly, we have no specifics on any of the battles waged in this region during the Gōlkoṇḍa campaign of 1638 C.E. We are thus left to speculate that it was most likely some attack in the locale of Ānēgondi by the Gōlkoṇḍa forces during this
-
-campaign that was responsible for Tammaṇṇa Śāstri’s journey. Ānēgondi’s location would have made it one of the first Vijayanagara principalities overrun by the G ōlkoṇḍa forces in their southward sweep, so such an attack would have occurred early in this campaign, that is, in 1638–1639 C.E. 
-
-The Timing and Course of the Journey
-
-Regardless of the starting point for Tammaṇṇa Śāstri’s journey, the timing of these events appears to be just right. We proceed with the working hy-pothesis that Tammaṇṇa Śāstri’s city of residence was attacked sometime during 1638 C.E. Following this devastation, Tammaṇṇa Śāstri would most likely have taken some weeks, perhaps some months, to consider his options, choose a course of action, and make preparations for his long trip southwards to Anantaśayana. The preparations would have been substantial, since the party would have had to traverse a chaotic, war-torn region, negotiating bad roads and dense forests. They would have taken along substantial resources and provisions, a number of attendants, and would have
+Regardless of the starting point for Tammaṇṇa Śāstri’s journey, the timing of these events appears to be just right. We proceed with the working hy-pothesis that Tammaṇṇa Śāstri’s city of residence was attacked sometime during 1638 C.E. Following this devastation, Tammaṇṇa Śāstri would most likely have taken some weeks, perhaps some months, to consider his options, choose a course of action, and make preparations for his long trip southwards to Anantaśayana. The preparations would have been substantial, since the party would have had to traverse a chaotic, war-torn region, negotiating bad roads and dense forests. 
 
 386
 
 
 
-proceeded with all deliberate caution, adapting their route to local conditions, and making their journey in legs dictated by the spacing between villages en route. They would have traveled in carts, cooked on improvised fires, and at times, perhaps even subsisted on tubers and forest produce. They would have rested in improvised campsites, guarding against marauders as well as against wild animals, including lions, tigers, and chee-tahs, which would have been common in the forests at the time. We also know they were accompanied by eight buffaloes, which, apart from being tempting prey, walk at a leisurely pace. It is unlikely that this party could have traveled more than 10 km a day, on average. 
+They would have taken along substantial resources and provisions, a number of attendants, and would have proceeded with all deliberate caution, adapting their route to local conditions, and making their journey in legs dictated by the spacing between villages en route. They would have traveled in carts, cooked on improvised fires, and at times, perhaps even subsisted on tubers and forest produce. They would have rested in improvised campsites, guarding against marauders as well as against wild animals, including lions, tigers, and cheetahs, which would have been common in the forests at the time. We also know they were accompanied by eight buffaloes, which, apart from being tempting prey, walk at a leisurely pace. It is unlikely that this party could have traveled more than 10 km a day, on average. 
 
 At this pace, it is likely that their 320-km journey from Ānēgondi to Ānēkallu would have taken something over a month or so. A similar time frame is likely, even if they had started from a place other than Ānēgondi. 
 
-This scenario makes it quite possible for Tammaṇṇa Śāstri and his family to have arrived in Ānēkallu just at the time that Tammēgauḍa had moved
+This scenario makes it quite possible for Tammaṇṇa Śāstri and his family to have arrived in Ānēkallu just at the time that Tammēgauḍa had moved there. According to the *ānēkallu Kaifiyat*, Tammēgauḍa’s treaty with Śāhji granted him six months to make this move after losing Hosakōṭe in 1638 C.E. The *Kaifiyat* confirms that Tammēgauḍa was fortifying the place at the time, matching this detail from Ayyā Śāstri’s account. 
 
-there. According to the *¯*
-
-*ānēkallu Kaifiyat*, Tammēgauḍa’s treaty with Śāhji
-
-granted him six months to make this move after losing Hosakōṭe in 1638
-
-C.E. The *Kaifiyat* confirms that Tammēgauḍa was fortifying the place at the time, matching this detail from Ayyā Śāstri’s account. 
-
-Tammēgauḍa acknowledges Veṇkaṭa iI as his sovereign in inscription Ko 251, and would have been familiar with his Ānēgondi antecedents. He
-
-would also have been well acquainted with the Ānēgondi *Saṁsthāna,* its
-
-rulers, and perhaps even with its *pradhānis*, including Tammaṇṇa Śāstri himself. In establishing his new dominions, he would have sought people of learning and ability, and would have warmly welcomed a person of Tammaṇṇa Śāstri’s accomplishments, his generous gift of ten *vr̥ttis* reflecting his high esteem for Tammaṇṇa Śāstri. The large house Tammēgauḍa built for Tammaṇṇa Śāstri would have been located in *Tammasandra Agrahāra* that the *¯*
-
-*ānēkallu Kaifiyat* mentions, and these ten *vr̥ttis* would have been in its environs. 
+Tammēgauḍa acknowledges Veṇkaṭa iI as his sovereign in inscription Ko 251, and would have been familiar with his Ānēgondi antecedents. He would also have been well acquainted with the Ānēgondi *Saṁsthāna,* its rulers, and perhaps even with its *pradhānis*, including Tammaṇṇa Śāstri himself. In establishing his new dominions, he would have sought people of learning and ability, and would have warmly welcomed a person of Tammaṇṇa Śāstri’s accomplishments, his generous gift of ten *vr̥ttis* reflecting his high esteem for Tammaṇṇa Śāstri. The large house Tammēgauḍa built for Tammaṇṇa Śāstri would have been located in *Tammasandra Agrahāra* that the *ānēkallu Kaifiyat* mentions, and these ten *vr̥ttis* would have been in its environs. 
 
 We are unable to say much more, given the lack of documentary evidence, either from within the family or from reliable historical sources. We take comfort, however, that our reconstruction of events is a plausible account, and fully consistent with available historical facts and the family’s own oral history. It has a good chance of being close to what Tammaṇṇa Śāstri actually experienced and endured. 
 
-The Anantaśayana and Hoysaḷa Questions
+## The Anantaśayana and Hoysaḷa Questions
 
-Itremains unclear why Tammaṇṇa Śāstri would have chosen Anantaśayana as his destination. Anantaśayana \(literally “eternal repose”\) derives its name from its eponymous temple of Viṣṇu reclining on the Śēśa serpent. Its other names include Tiruvanantapuram and Travancore \(a corruption of Tiruviṭaṁkūr from British times\). Its rulers have been known as Tiruvaḍis. The kingdom of the Tiruvaḍi rulers is also referred to as Anantaśayana. Thus, Ayyā Śāstri’s account refers to Tammaṇṇa Śāstri’s departure for the “province of Anantaśayana”. 
+It remains unclear why Tammaṇṇa Śāstri would have chosen Anantaśayana as his destination. Anantaśayana \(literally “eternal repose”\) derives its name from its eponymous temple of Viṣṇu reclining on the Śēśa serpent. Its other names include Tiruvanantapuram and Travancore \(a corruption of Tiruviṭaṁkūr from British times\). Its rulers have been known as Tiruvaḍis. The kingdom of the Tiruvaḍi rulers is also referred to as Anantaśayana. Thus, Ayyā Śāstri’s account refers to Tammaṇṇa Śāstri’s departure for the “province of Anantaśayana”. 
 
 Its rulers have enjoyed a strong reputation as patrons of scholarship and the arts,806 and one might conjecture that Tammaṇṇa Śāstri travelled there in search of patronage. However, the high reputation of the Travancore kings as patrons dates back only to the time of Mārtanḍa Varma \(1729–1758
 
