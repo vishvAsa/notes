@@ -760,23 +760,17 @@ We are unable to say much more, given the lack of documentary evidence, either f
 
 It remains unclear why Tammaṇṇa Śāstri would have chosen Anantaśayana as his destination. Anantaśayana \(literally “eternal repose”\) derives its name from its eponymous temple of Viṣṇu reclining on the Śēśa serpent. Its other names include Tiruvanantapuram and Travancore \(a corruption of Tiruviṭaṁkūr from British times\). Its rulers have been known as Tiruvaḍis. The kingdom of the Tiruvaḍi rulers is also referred to as Anantaśayana. Thus, Ayyā Śāstri’s account refers to Tammaṇṇa Śāstri’s departure for the “province of Anantaśayana”. 
 
-Its rulers have enjoyed a strong reputation as patrons of scholarship and the arts,806 and one might conjecture that Tammaṇṇa Śāstri travelled there in search of patronage. However, the high reputation of the Travancore kings as patrons dates back only to the time of Mārtanḍa Varma \(1729–1758
+Its rulers have enjoyed a strong reputation as patrons of scholarship and the arts,[^806] and one might conjecture that Tammaṇṇa Śāstri travelled there in search of patronage. However, the high reputation of the Travancore kings as patrons dates back only to the time of Mārtanḍa Varma \(1729–1758 C.E.\), a much later time than that we have assigned to Tammaṇṇa Śāstri. 
 
-C.E.\), a much later time than that we have assigned to Tammaṇṇa Śāstri. 
+The Travancore region does not appear to have been a particularly prominent principality at Tammaṇṇa Śāstri’s time. The *Nāyakas* of Madurai and Tañjāvūru, as well as the Voḍeyars then ruling Maisūru and Śrīraṇgapaṭṭaṇa had much stronger reputations as patrons of scholarship and the arts. Tammaṇṇa Śāstri might have sought their patronage, much closer to home. 
 
-The Travancore region does not appear to have been a particularly prominent principality at Tammaṇṇa Śāstri’s time. The *Nāyakas* of Madurai and Tañjāv ūru, as well as the Voḍeyars then ruling Maisūru and Śrīraṇgapaṭṭaṇa had much stronger reputations as patrons of scholarship and the arts. Tammaṇṇa Śāstri might have sought their patronage, much closer to home. 
-
-The Tiruvaḍi capital at Tammaṇṇa Śāstri’s time was in fact at Padmanābhapuram, some 33 miles from Tiruvanantapuram. An edict of 1634 C.E. 
-
-mentions Kalkulam, near Padmanābhapuram, as the ruler’s residence \[Aiya 1906, p. 302\]. Padmanābhapuram remained the region’s capial from ancient times until 1795 C.E., when Tiruvanantapuram became its capital. 
+The Tiruvaḍi capital at Tammaṇṇa Śāstri’s time was in fact at Padmanābhapuram, some 33 miles from Tiruvanantapuram. An edict of 1634 C.E. mentions Kalkulam, near Padmanābhapuram, as the ruler’s residence \[Aiya 1906, p. 302\]. Padmanābhapuram remained the region’s capial from ancient times until 1795 C.E., when Tiruvanantapuram became its capital. 
 
 Ayyā Śāstri refers to the “province of Anantaśayana” as Tammaṇṇa Śāstri’s destination, so Tammaṇṇa Śāstri may actually have been headed for Padmanābhapuram. 
 
-His choice of Anantaśayana as destination is puzzling, however. The distance between Ānēgondi and Anantaśayana is a daunting 750 km. Why
+His choice of Anantaśayana as destination is puzzling, however. The distance between Ānēgondi and Anantaśayana is a daunting 750 km. Why would Tammaṇṇa Śāstri choose to travel in a time of crisis to a place so far removed from his home? He is very unlikely indeed to have embarked on this journey without some substantial assurance of support in Anantaśayana. 
 
-would Tammaṇṇa Śāstri choose to travel in a time of crisis to a place so far removed from his home? He is very unlikely indeed to have embarked on this journey without some substantial assurance of support in Anantaśayana. 
-
-806Mahārāja Svāti Tirunāḷof Travancore \(1813–1846 C.E.\) was a musical giant in his own right, for example. 
+[^806]: Mahārāja Svāti Tirunāḷof Travancore \(1813–1846 C.E.\) was a musical giant in his own right, for example. 
 
 387
 
@@ -786,47 +780,33 @@ would Tammaṇṇa Śāstri choose to travel in a time of crisis to a place so f
 
 What assurance of support drew Tammaṇṇa Śāstri to Anantaśayana? 
 
-Sadly, we must deal in conjecture once again. Tammaṇṇa Śāstri’s departure was almost certainly a one-sided decision, based on a strong anticipation of support at Anantaśayana. There would surely not have been time for communications to have been exchanged between Ānēgondi and Anan-
+Sadly, we must deal in conjecture once again. Tammaṇṇa Śāstri’s departure was almost certainly a one-sided decision, based on a strong anticipation of support at Anantaśayana. There would surely not have been time for communications to have been exchanged between Ānēgondi and Anantaśayana. Such support must have come either from some family connection in Anantaśayana, or from a person of nobility or other substantial means, who knew Tammaṇṇa Śāstri at Ānēgondi, and who invited him to Anantaśayana. Perhaps they travelled south at the same time from Ānēgondi. But what connections existed between Ānēgondi and Anantaśayana? 
 
-taśayana. Such support must have come either from some family connection in Anantaśayana, or from a person of nobility or other substantial means, who knew Tammaṇṇa Śāstri at Ānēgondi, and who invited him to Anantaśayana. Perhaps they travelled south at the same time from Ānēgon-
-
-di. But what connections existed between Ānēgondi and Anantaśayana? 
-
-A Possible Ānēgondi-Anantaśayana Link
+### A Possible Ānēgondi-Anantaśayana Link
 
 The region of Anantaśayana, or “Travancore” in recent historical accounts and analyses, had long been a vassal state on the outer edges of the Vijayanagara empire. A legend exists that the brāhmaṇas of the region had asked the emperor Kr̥ṣṇadēva Rāya to send them a ruler \[Aiya 1906, p. 223\], although no independent confirmation of this fact appears to exist. It is known, however, that the region suffered invasions by Vijayanagara. 
 
-According to the *Acyutarāyābhyudayam* by Rājanātha D.iṇḍima \[D.in-ḍima 1907\], a tributary chief named Cellappa \(also known as Sāḷuva Nāyaka and Vīra Narasimha \[Aiyangār 1919, p. 12\]\) and the ruler of the Cēra region \(Travancore\) had defeated and expelled the Pāṇḍya ruler of Madurai.807
+According to the *Acyutarāyābhyudayam* by Rājanātha ḍiṇḍima \[D.in-ḍima 1907\], a tributary chief named Cellappa \(also known as Sāḷuva Nāyaka and Vīra Narasimha \[Aiyangār 1919, p. 12\]\) and the ruler of the Cēra region \(Travancore\) had defeated and expelled the Pāṇḍya ruler of Madurai.[^807]
 
 This account suggests that the Tiruvaḍi kingdom had a certain strength at the time. In response, Kr̥ṣṇadēva Rāya’s successor Acyuta Rāya campaigned southwards to Candragiri, and then further towards Śrīraṇgam. Acyuta remained at Śrīraṇgam, but sent his armies under Timma Rāja, his brother-in-law and Salakarāja’s son,808 to vanquish the Tiruvaḍi \(the Cēra king\). Inscriptions A.R̥No. 542 of 1919 and A.R̥No. 158 of 1924 confirm the broad outlines of this account \[Hultzsch 1988\]. 
 
 According to the *Bālabhāgavatam* of Dōnēri Kōnērinātha, however, it was *Aḷiya* Rāma Rāya’s cousin *Cinna* Timma who subdued the Tiruvaḍi. 
 
-It appears that there were two expeditions, the first under Acyuta himself 807The local ruler at the time was likely one or both of Vīra Ravi Varma or Vīra Kērala Varma. 
+[^807]: The local ruler at the time was likely one or both of Vīra Ravi Varma or Vīra Kērala Varma. 
 
-808See footnote 801. 
+[^808]: See footnote 801. 
 
 389
 
-in 1532–1533 C.E., and another in 1542–1544 C.E., led by *Cinna* Timma and his brother Viṭṭhala \(see Plate 39\). The Vijayanagara invasions may also have been prompted by the missionary activities of the Portuguese under Francis Xavier, who were busy converting the coastal Parava fishermen to Christianity. The Vijayanagara sovereign may have felt the need to respond to this *de facto* change of their alleigance from him to the king of Portugal
+It appears that there were two expeditions, the first under Acyuta himself in 1532–1533 C.E., and another in 1542–1544 C.E., led by *Cinna* Timma and his brother Viṭṭhala \(see Plate 39\). The Vijayanagara invasions may also have been prompted by the missionary activities of the Portuguese under Francis Xavier, who were busy converting the coastal Parava fishermen to Christianity. The Vijayanagara sovereign may have felt the need to respond to this *de facto* change of their alleigance from him to the king of Portugal \[Aiyar 1991, p. 123\]. 
 
-\[Aiyar 1991, p. 123\]. 
+*Cinna* Timma and Viṭṭhala were both sons of Timmarāja, who was brother to *Aḷiya* Rāma Rāya’s father Śrīraṇga. There is solid evidence that *Cinna* Timma was at Madurai, and had been Appayya Dīkṣita’s patron \(see footnote 213\). According to the *Bālabhāgavatam*, *Cinna* Timma restored to the Tiruvaḍi the territories that he had taken from him, thereby acquiring the title *Tiruvaḍi Rājya-sthāpanācārya*, or “establisher of the Tiruvaḍi kingdom”. After this subjugation of the Tiruvaḍis, the brothers *Cinna* Timma and Viṭṭhala appear to have remained in Madurai for some ten years, establishing Madurai’s supremacy in the region. 
 
-*Cinna* Timma and Viṭṭhala were both sons of Timmarāja, who was brother to *Aḷiya* Rāma Rāya’s father Śrīraṇga. There is solid evidence that *Cinna* Timma was at Madurai, and had been Appayya Dīkṣita’s patron \(see footnote 213\). According to the *Bālabhāgavatam*, *Cinna* Timma restored to the Tiruvaḍi the territories that he had taken from him, thereby acquiring the title *Tiruvaḍi Rājyasthāpanācārya*, or “establisher of the Tiruvaḍi kingdom”. After this subjugation of the Tiruvaḍis, the brothers *Cinna* Timma and Viṭṭhala appear to have remained in Madurai for some ten years, establishing Madurai’s supremacy in the region. 
+The Madurai *Nāyakas* remained the most powerful Vijayanagara vassals in the region, and their influence over the Tiruvaḍis continued to subsequent times. A grant dated 1634 C.E. exempts farmers from certain taxes, on account of Madurai’s Tirumala *Nāyaka* having attacked and devastated Anantaśayana on behalf of the Vijayanagara king \(“ Ānēgondi” Veṇkaṭāpati Rāya iI, at this time\), most likely because of a failure by its ruler to pay tribute.[^809] Clearly, the Tiruvaḍis were far from being powerful rulers at Tammaṇṇa Śāstri’s time. 
 
-The Madurai *Nāyakas* remained the most powerful Vijayanagara vassals in the region, and their influence over the Tiruvaḍis continued to subsequent times. A grant dated 1634 C.E. exempts farmers from certain taxes, on account of Madurai’s Tirumala *Nāyaka* having attacked and devastated Anantaśayana on behalf of the Vijayanagara king \(“ Ānēgondi” Veṇkaṭāpati
+Why, in the light of this last fact, did Tammaṇṇa Śāstri choose Anantaśayana as his destination? We can only speculate. We start with the observation that *Cinna* Timma and Viṭṭhala were both scions of the Āravīṭi family, the very same family that we have identified as the likely rulers of Ānēgondi *Saṁsthāna *\(see page 376\). Perhaps it was the Āravīṭi lineage that Tammaṇṇa Śāstri’s ancestors had served as trusted ministers for five generations \(see page 7\). If so, there would have been long and close associations between the Āravīṭi family and that of Tammaṇṇa Śāstri. 
 
-Rāya iI, at this time\), most likely because of a failure by its ruler to pay tribute.809 Clearly, the Tiruvaḍis were far from being powerful rulers at Tammaṇṇa Śāstri’s time. 
-
-Why, in the light of this last fact, did Tammaṇṇa Śāstri choose Anantaśayana as his destination? We can only speculate. We start with the observation that *Cinna* Timma and Viṭṭhala were both scions of the Āravīṭi family, the very same family that we have identified as the likely rulers of Ānēgondi
-
-*Saṁsthāna *\(see page 376\). Perhaps it was the Āravīṭi lineage that Tamma-
-
-ṇṇa Śāstri’s ancestors had served as trusted ministers for five generations \(see page 7\). If so, there would have been long and close associations between the Āravīṭi family and that of Tammaṇṇa Śāstri. 
-
-809This ruler was likely Unni Kēraḷavarman \(1631–1661 C.E.\) or Ravivarman \(1625–1631
-
-C.E.\). 
+[^809]: This ruler was likely Unni Kēraḷavarman \(1631–1661 C.E.\) or Ravivarman \(1625–1631 C.E.\). 
 
 390
 
@@ -834,20 +814,16 @@ C.E.\).
 
 Might some members of Tammaṇṇa Śāstri’s family have accompanied *Cinna* Timma and Viṭṭhala on their campaigns to Madurai and Anantaśayana, in their capacity as trusted ministers? We do know that *Cinna* Timma was resident at Madurai, and that he and his brother Viṭṭhala were active in the south for some ten years \[Aiyar 1991, p. 91\]. Their entourage and trusted advisers would have stayed there with them. Is it possible that some members of Tammaṇṇa Śāstri’s family had stayed behind even after *Cinna* Timma and Viṭṭhala returned to Vijayanagara? Was this the connection that drew Tammaṇṇa Śāstri to Anantaśayana? Or was it simply the case that Tammaṇṇa Śāstri had travelled south from Ānēgondi with companions who had strong connections in Anantaśayana? We can have no answers at this point. Perhaps some new evidence will come to light in the future, allowing us to resolve some of these intriguing questions. If only some of Tammaṇṇa Śāstri’s manuscripts had survived\! 
 
-The Hoysaḷa Antecedents of Tammaṇṇa śāstri
+## The Hoysaḷa Antecedents of Tammaṇṇa śāstri
 
 The biography suggests that Tammaṇṇa Śāstri’s ancestors had been at Ānēgondi since the time of Vidyāraṇya. The family tradition holds \(see footnote 49\) that the remote ancestors of Tammaṇṇa Śāstri had been Hoysaḷa ministers at Dōrasamudra, the Hoysaḷa capital, and had migrated to Ānēgondi after the Hoysaḷa decline. Vidyāraṇya is himself believed to have been from the *Hoysaḷa Karṇāṭaka* community, to which we know Tammaṇṇa Śāstri belonged. Family tradition also suggests that these remote ancestors were related to Vidyāraṇya himself. These accounts are, of course, completely unverifiable at this point. 
 
-Nonetheless, this family tradition appears not to be in conflict with available facts. A considerable body of new evidence suggests that Vijayanagara’s founders had close connections to the Hoysaḷa royals, and used them to establish legitimacy, as the inheritors of a great empire whose memories were still very much alive \[Kulke and Rothermund 1998\]. A prevailing theory had been that Hakka and Bukka fled Wāraṇgal in present-day Āndhra
-
-Pradēsh after its capture, settled at Kampili near Hampi, were taken prisoner by Mohammed bin Tughlaq’s army in 1327 C.E., and converted to Islam. The sultan supposedly sent them back to Kampili, where they came under Vidyāraṇya’s influence and founded Vijayanagara, where Hakka was crowned as Harihara I in 1336 C.E. This theory also states that Harihara I
+Nonetheless, this family tradition appears not to be in conflict with available facts. A considerable body of new evidence suggests that Vijayanagara’s founders had close connections to the Hoysaḷa royals, and used them to establish legitimacy, as the inheritors of a great empire whose memories were still very much alive \[Kulke and Rothermund 1998\]. A prevailing theory had been that Hakka and Bukka fled Wāraṇgal in present-day Āndhra Pradēsh after its capture, settled at Kampili near Hampi, were taken prisoner by Mohammed bin Tughlaq’s army in 1327 C.E., and converted to Islam. The sultan supposedly sent them back to Kampili, where they came under Vidyāraṇya’s influence and founded Vijayanagara, where Hakka was crowned as Harihara I in 1336 C.E. 
 
 391
 
-held a great celebration at Śr̥ṇgēri in 1346 C.E. after overcoming the weakened Hoysaḷa king Baḷḷāla IV. 
+This theory also states that Harihara I held a great celebration at Śr̥ṇgēri in 1346 C.E. after overcoming the weakened Hoysaḷa king Baḷḷāla IV. 
 
-However, recent epigraphical discoveries strongly indicate that Hakka and Bukka were nobles in the Hoysaḷa court already. An inscription dating to 1320 C.E. records that Baḷḷāla iI founded the town of Vijayavirūpākṣa Hosapaṭṭana on the spot which became Vijayanagara. After the death of Baḷḷāla IV, the widow of Baḷḷāla iI seems to have participated in the coronation of Harihara I in 1346 C.E. Even though Harihara was king in 1349
-
-C.E., an inscription from that date actually mentions her name before that of Harihara, suggesting that he did not yet have independent legitimacy. 
+However, recent epigraphical discoveries strongly indicate that Hakka and Bukka were nobles in the Hoysaḷa court already.+++(4)+++ An inscription dating to 1320 C.E. records that Baḷḷāla iI founded the town of Vijayavirūpākṣa Hosapaṭṭana on the spot which became Vijayanagara. After the death of Baḷḷāla IV, the widow of Baḷḷāla iI seems to have participated in the coronation of Harihara I in 1346 C.E.+++(4)+++ Even though Harihara was king in 1349 C.E., an inscription from that date actually mentions her name before that of Harihara, suggesting that he did not yet have independent legitimacy. 
 
 It is therefore not inconceivable that as *Hoysaḷa Karṇāṭakas,* Tammaṇṇa Śāstri’s ancestors had been in the service of the Vijayanagara kings since the earliest times. The family tradition that Tammaṇṇa Śāstri’s remote ancestors migrated from Dōrasamudra at this early date does not appear to be inconsistent with available facts. 
