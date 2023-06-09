@@ -49,7 +49,7 @@ Bell, E. \(1882\). *A Letter to Sir James Davidson and a Letter to ḤṀDu-rand
 
 Bendall, C. \(1886\). *A Journey of Literacy and Archaeological Research in* *Nepal and Northern India During the Winter of 1884–5*. Cambridge University Press, Cambridge. 
 
-Bendall, C. \(1893\). *Catalogue of Sanskrit, Pali, and Prakrit Books in the* *British Museum Acquired During the Years 1876–92. * The British Museum. 
+Bendall, C. \(1893\). *Catalogue of Sanskrit, Pali, and Prakrit Books in the* *British Museum Acquired During the Years 1876–92.*The British Museum. 
 
 Bhandarkar, R̥G. \(1928\). *Collected Works of Sir R̥G. Bhandarkar*, volume II of *Government Oriental Series–Class B, No. II*. Bhandarkar Oriental Research Institute, Poona. Edited by Narayan Bapuji Utgikar. 
 
@@ -339,7 +339,7 @@ Number v. 1-2 in Encyclopedia of Indian Philosophies: Bibliography.
 
 Motilal Banarsidass. 
 
-Pranesh, ṀR. \(2003\). *Musical Composers During Wodeyar Dynasty, 1638-1947 A.D. * Vee Emm Publications, Bangalore. 
+Pranesh, ṀR. \(2003\). *Musical Composers During Wodeyar Dynasty, 1638-1947 A.D.*Vee Emm Publications, Bangalore. 
 
 Prasad, L. \(2007\). *Poetics of Conduct: Oral Narrative and Moral Being in* *a South Indian Town*. Columbia University Press, USA. 
 
@@ -557,7 +557,7 @@ Skinner, Q. \(2002\). *Visions of Politics*. Number v.1 in Visions of Politics 3
 
 Society, A. \(1870\). *Proceedings of the Asiatic Society of Bengal*. Asiatic Society of Bengal, Calcutta. 
 
-Śrīharṣa \(1912\). *Naishadhīyacharita, with the commentary Naishadhiya-prakâśa of Nârâyaṇa*. Tukārām Jāvajī, Nirṇaya Sāgar Press, *Mahāmahopādhyāya * Śivadatta, editor, Bombay, 4th edition. 
+Śrīharṣa \(1912\). *Naishadhīyacharita, with the commentary Naishadhiya-prakâśa of Nârâyaṇa*. Tukārām Jāvajī, Nirṇaya Sāgar Press, *Mahāmahopādhyāya*Śivadatta, editor, Bombay, 4th edition. 
 
 bibiliography
 
@@ -609,7 +609,7 @@ Tripathi, G.C. \(2004\). *Communication with God: the Daily Puja Ceremony* *in t
 
 Trivedi, P. and Bartholomeusz, D. \(2005\). *India’s Shakespeare: Translation,* *Interpretation, and Performance*. International Studies in Shakespeare and his contemporaries. University of Delaware Press. 
 
-Upadhye, A. \(1931\). Kanarese Words in *Deśī * Lexicons. *Annals of the Bhandarkar Oriental Research Institute*, XII\(iii\):274–84. 
+Upadhye, A. \(1931\). Kanarese Words in *Deśī*Lexicons. *Annals of the Bhandarkar Oriental Research Institute*, XII\(iii\):274–84. 
 
 Varadachari, V. \(1972\). Contribution of Tamilnadu to Sanskrit—Srivaisna-vism. In Raghavan, V. and Sharma, R̥K., editors, *International Sanskrit* *Conference, New Delhi, March 26–31, 1972*, volume 1, part 1, pages 436–
 

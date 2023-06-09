@@ -7,9 +7,9 @@ Footnotes appear in italics, with the footnote number preceded by the character 
 
 Names of books and other works appear in italics, followed by the author’s name in parentheses, if known. 
 
-Personal names appear in forms consistent with South Indian usage; *agnomina * appear fiirst, with deference to the relative importance of the words in the name. Thus, we see “*Vīṇe * Śēṣaṇṇa, *Cikka*”, not “*Cikka Vīṇe * Śēṣaṇṇa”, as the *agnomen “Vīṇe” * is invariably used in this name, but *Cikka * is used only to disambiguate. Usage, however, dictates “*Cikka * Rāmappa”, not “Rāmappa, *Cikka*”, and “Jayarām Rāv”, not “Rāv, Jayarām”. Since standard usage can be a matter of judgment, it is best to look up a name under variant word orderings. 
+Personal names appear in forms consistent with South Indian usage; *agnomina*appear fiirst, with deference to the relative importance of the words in the name. Thus, we see “*Vīṇe*Śēṣaṇṇa, *Cikka*”, not “*Cikka Vīṇe*Śēṣaṇṇa”, as the *agnomen “Vīṇe”*is invariably used in this name, but *Cikka*is used only to disambiguate. Usage, however, dictates “*Cikka*Rāmappa”, not “Rāmappa, *Cikka*”, and “Jayarām Rāv”, not “Rāv, Jayarām”. Since standard usage can be a matter of judgment, it is best to look up a name under variant word orderings. 
 
-Compound personal names may witness elision of their fiirst components in normal use, with *cognomina * such as “Śāstri” or “Bhaṭṭa” merged with the primary name. 
+Compound personal names may witness elision of their fiirst components in normal use, with *cognomina*such as “Śāstri” or “Bhaṭṭa” merged with the primary name. 
 
 Thus “Lakṣmīnarasiṁha Śāstri” may have appeared as “Narasiṁhaśāstri” in the text. 
 
@@ -19,7 +19,7 @@ A
 
 Ādiśeṣa, 150, *f435–437*
 
-A.V. School, *see * Anglo-Vernacular School
+A.V. School, *see*Anglo-Vernacular School
 
 Ādivan. Śaṭhagōpa Yatīndra Mahādēśikan, 
 
@@ -35,7 +35,7 @@ Abdullah Ḳhān, Bijāpur offiicer, 358
 
 *Advaitasiddhāntavaijayantī *\(Tryambaka
 
-*Abhinavakāḷidāsa*, *see * Basappa Śāstri
+*Abhinavakāḷidāsa*, *see*Basappa Śāstri
 
 Śāstri\), *f476*
 
@@ -69,9 +69,9 @@ Agni \(deity\), *f451*; as messenger, *f410*, *f690*
 
 Ādam Ḳhān, Bijāpur offiicer, 358
 
-*Agnihōtra * ritual, *f451*
+*Agnihōtra*ritual, *f451*
 
-*adhvaryu*, *see Vēdic * rituals
+*adhvaryu*, *see Vēdic*rituals
 
 *agniśāla*, *f451* ‘Ādil Śāh, ‘Ali I, *f52*, 357; role in
 
@@ -87,7 +87,7 @@ Vijayanagara succession, 368
 
 *¯*
 
-*Ahavaṉīya * domestic ritual fiire, *f451*
+*Ahavaṉīya*domestic ritual fiire, *f451*
 
 437
 
@@ -95,9 +95,9 @@ Vijayanagara succession, 368
 
 sons of sarasvatī
 
-*āhitāgni*, *see agnihōtri under * brāhmaṇas
+*āhitāgni*, *see agnihōtri under*brāhmaṇas
 
-Ānēgondi Veṇkaṭāpati, *see * Veṇkaṭa Dēva
+Ānēgondi Veṇkaṭāpati, *see*Veṇkaṭa Dēva
 
 Ahmadnagar, 372
 
@@ -105,13 +105,13 @@ Rāya III
 
 *āhnika*, 298
 
-Ānēkallu, 9, 10, *f56*, 287; *pāḷeyagāra * lineage, Ahōbala Maṭha, 268
+Ānēkallu, 9, 10, *f56*, 287; *pāḷeyagāra*lineage, Ahōbala Maṭha, 268
 
-348–366, *see also * Sugaṭūru
+348–366, *see also*Sugaṭūru
 
 Ahōbalaśāstri, of Vārāṇasi, *f588*
 
-*pāḷeyagāra * lineage; fort construction, 
+*pāḷeyagāra*lineage; fort construction, 
 
 *Aitareya Brāhmaṇa*, *f75*
 
@@ -121,7 +121,7 @@ Ahōbalaśāstri, of Vārāṇasi, *f588*
 
 Tammāmbudhi lake, 356
 
-Āji Ayyanayyaṇgār, *stu/o * Tirumalāc
+Āji Ayyanayyaṇgār, *stu/o*Tirumalāc
 
 *¯*
 
@@ -133,7 +133,7 @@ Tammāmbudhi lake, 356
 
 in, 357
 
-Akkayyamma, *w/o * Veṇkat
+Akkayyamma, *w/o*Veṇkat
 
 *¯*
 
@@ -159,7 +159,7 @@ Anglo-Vernacular School, 117, *f359*
 
 *alaṇkāra*, *f80*, *f85*
 
-Ankakkāran, *s/o * Ponnāndān, *f450*
+Ankakkāran, *s/o*Ponnāndān, *f450*
 
 Alexander, 307
 
@@ -171,7 +171,7 @@ Algebra, *f586*
 
 *Aṇe*
 
-*Aḷiya * Rāma Rāya, 372
+*Aḷiya*Rāma Rāya, 372
 
 Aṇṇā Śāstri of Gargēśvarī, 189, 190
 
@@ -197,7 +197,7 @@ Annamma, of Muḷabāgilu, 299
 
 Ambaḷe Aṇṇayya Paṇḍita, 341
 
-Aṇṇayya Śāstri, *f/o * Garaḷapurī Śāstri, 
+Aṇṇayya Śāstri, *f/o*Garaḷapurī Śāstri, 
 
 *Ambāṣōḍaśamañjarī *\(Basappa Śāstri\), *f132*
 
@@ -205,17 +205,17 @@ Aṇṇayya Śāstri, *f/o * Garaḷapurī Śāstri,
 
 Ambil Narasiṁha Ayyaṇgār, 103, *f328*
 
-*agrahāra * of, *f63*; *santarpaṇa * by, 22
+*agrahāra*of, *f63*; *santarpaṇa*by, 22
 
 *Ambujavallarīstotra *\(Tirumalācārya\), *f183*
 
-Aṇṇayya Śāstri, *s/o * Garaḷapurī Śāstri, *f136*, American Academy of Arts and Sciences, 
+Aṇṇayya Śāstri, *s/o*Garaḷapurī Śāstri, *f136*, American Academy of Arts and Sciences, 
 
 *f184*, *f759*
 
 *f4*
 
-Anneayah Sastree, *see * Kāśī Śēṣa Śāstri
+Anneayah Sastree, *see*Kāśī Śēṣa Śāstri
 
 Ammaṇṇamma, of Muḷabāgilu, 299
 
@@ -229,7 +229,7 @@ Rāmaśāstri, 204
 
 *anugamavidhi*, 230, *f595*
 
-Anantācārya, *stu/o * Rāmaśāstri, 204
+Anantācārya, *stu/o*Rāmaśāstri, 204
 
 *anumāna*, inference, *f499*
 
@@ -253,7 +253,7 @@ Anas ūyā Śāstri, *f763*
 
 *apauruṣeya*, *f46*
 
-Āndhra, *Vēdic * survivals in, *f597*
+Āndhra, *Vēdic*survivals in, *f597*
 
 Appaṇṇaśāstri, 255
 
@@ -273,7 +273,7 @@ likely conquest by Gōlkoṇḍa, 382;
 
 Rāma Rāya’s descendants in, 376
 
-*ārādhana * ritual, *f413*
+*ārādhana*ritual, *f413*
 
 Ānēgondi *Saṁsthāna*, 367–379
 
@@ -283,7 +283,7 @@ index
 
 439
 
-*araḷī * tree *\[Ficus religiosa\]*, *f686*
+*araḷī*tree *\[Ficus religiosa\]*, *f686*
 
 *Aupāsanāgni*, *f683*
 
@@ -365,7 +365,7 @@ painter, *f763*; correct form of name,
 
 Āsaf Jāhi dynasty, 380
 
-home of, *see * Kavitāvilāsa; last will & 
+home of, *see*Kavitāvilāsa; last will & 
 
 *¯*
 
@@ -377,7 +377,7 @@ testament of, xxviii, *f136*, *f777*;
 
 manuscripts discovered, xxvi; 
 
-*āśis*, *Vēdic * blessing, *f276*
+*āśis*, *Vēdic*blessing, *f276*
 
 timeline for genealogy, 362; works of, 
 
@@ -395,7 +395,7 @@ B
 
 *Aṣṭamūrti Tanayāṣṭaka *\(Basappa Śāstri\), 
 
-*Bacce * Rāv, *f250*
+*Bacce*Rāv, *f250*
 
 *f132*
 
@@ -415,7 +415,7 @@ Bāgaḷi Dēśē Arasu, 237
 
 *Astikaṣaṭka*, 269
 
-Bāhaṭa, *see * Vāgbhaṭa
+Bāhaṭa, *see*Vāgbhaṭa
 
 Āśukavi, 36–39
 
@@ -441,7 +441,7 @@ Bāji Rāv II, Pēśva, *f17*, 175, 193, 215, *f474*,
 
 *f530*
 
-*aśvattha * tree, 14, 329
+*aśvattha*tree, 14, 329
 
 *baḳhśi*, *see bakṣi*
 
@@ -451,7 +451,7 @@ Aśvatthāma, *f675*
 
 *atithi*, *f61*
 
-*Bakṣi * Narasappa, 26, 36, *f139*
+*Bakṣi*Narasappa, 26, 36, *f139*
 
 Ātmānanda *Svāmi*, 95, 96
 
@@ -469,7 +469,7 @@ Bālabōdhiṉī school, 341
 
 *Aupāsana*, 77, 94, 178, 222, *f244*
 
-Bālamukunda Śāstri, *see * Bāpuśāstri
+Bālamukunda Śāstri, *see*Bāpuśāstri
 
 440
 
@@ -477,7 +477,7 @@ sons of sarasvatī
 
 *Bālāvabodha *\(Tryambaka Śāstri\), *f476*
 
-Bhāgīrathamma, *m/o * Śrīkaṇṭha Śāstri, 77, 
+Bhāgīrathamma, *m/o*Śrīkaṇṭha Śāstri, 77, 
 
 Balavant Ḳhān, Bijāpur offiicer, 358
 
@@ -485,13 +485,13 @@ Balavant Ḳhān, Bijāpur offiicer, 358
 
 *Baliharaṇa*, 247
 
-Bhāgīrathī, *d/o * Rāmaśāstri of Cām., *f326*
+Bhāgīrathī, *d/o*Rāmaśāstri of Cām., *f326*
 
 *Bālikā Gīta Muktākalāpa*, 341
 
-Bhāgīrathī, *d/o * Śrīkaṇṭha Śāstri, 100
+Bhāgīrathī, *d/o*Śrīkaṇṭha Śāstri, 100
 
-Baḷḷāla Dēva, *Hoysaḷa * king, *f446*
+Baḷḷāla Dēva, *Hoysaḷa*king, *f446*
 
 Bha¯gmatī, concubine of Qutb Śāh, 381
 
@@ -505,7 +505,7 @@ Baḷḷāla III, 391
 
 Bal
 
-*Bhakti * movement, *f692*
+*Bhakti*movement, *f692*
 
 .ḷāla IV, 391
 
@@ -559,19 +559,19 @@ Baṇgaḻī Cauḍappa, 210, *f556*
 
 *Bhās*
 
-*banni * tree *\[Prosopis cineraria\]*, *f686*
+*banni*tree *\[Prosopis cineraria\]*, *f686*
 
 *.yabhānuprabhā *\(Tryambaka Śāstri\), 
 
 175, *f476*
 
-Bāpuśāstri, *s/o * Tryambaka Śāstri, 183, 187, 
+Bāpuśāstri, *s/o*Tryambaka Śāstri, 183, 187, 
 
 Bhās
 
 190, *f477*; real name of, *f495*
 
-.yācārya, *stu/o * Rāmaśāstri, 205
+.yācārya, *stu/o*Rāmaśāstri, 205
 
 Bhās
 
@@ -593,7 +593,7 @@ Basappa Śāstri, 3, 31, *f51*, *f132*, *f158*, *f183*, Bhat
 
 Bhaṭṭi, *f468*
 
-Basavappa Śāstri, *see * Basappa Śāstri
+Basavappa Śāstri, *see*Basappa Śāstri
 
 *Bhaṭṭikāvyam *\(Bhaṭṭi\), *f468*
 
@@ -603,13 +603,13 @@ Bhaṭṭoji Dīkṣita, *f6*, *f23*, 175, *f261*, *f474*
 
 Beḷḷāvi Sōmayya, 257
 
-Bhavānamma, *w/o * Lakṣmīnarasappa, 316
+Bhavānamma, *w/o*Lakṣmīnarasappa, 316
 
 Beḷḷāvi Veṇkaṭanāraṇappa, 314
 
 *Bhedojjīvana *\(Vyāsatīrtha\), *f551*
 
-Beṇgaḷūru; *jāhgīr * of Śāhji and Ekōji, 359; 
+Beṇgaḷūru; *jāhgīr*of Śāhji and Ekōji, 359; 
 
 Bhīma, *f215*
 
@@ -627,7 +627,7 @@ Berār, 372
 
 *f747*
 
-Bhābhā, Hormusjī Jehangīr, 105, *f334*, *f336*, *bh ūdāna * movement, *f736*
+Bhābhā, Hormusjī Jehangīr, 105, *f334*, *f336*, *bh ūdāna*movement, *f736*
 
 340
 
@@ -693,7 +693,7 @@ Bowring, Lewin Bentham, *f153*
 
 Cāmuṇḍēśvarī Temple, 85; 
 
-*brahma*, *see śrauta * rituals
+*brahma*, *see śrauta*rituals
 
 Ammanavara Temple, 85; 
 
@@ -719,7 +719,7 @@ brāhmaṇas; *Br̥haccaraṇa*, 299;
 
 *Baḍaganāḍu*, *f63*; *Bobbūru Kamme*, 
 
-Cāmarājēndra *Saṁskr̥ta * Pāṭhaśāla, 317
+Cāmarājēndra *Saṁskr̥ta*Pāṭhaśāla, 317
 
 200; *Hoysaḷa Karṇāṭaka*, 6, 8; 
 
@@ -799,13 +799,13 @@ Br̥hadrājavīdhītaṭāka, 94
 
 Br̥haspati \(deity\), 150, 163
 
-*caṭṇi * sauce, *f739*
+*caṭṇi*sauce, *f739*
 
 Buddha, *f732*
 
 *Caturaṇgasārasarvasva *\(Voḍeyar III\), *f124*
 
-Bukka, *see * Bukkarāya I
+Bukka, *see*Bukkarāya I
 
 Cauḍēśvarī \(deity\), 324
 
@@ -823,7 +823,7 @@ Cedupaṭṭu, 355
 
 Central College, Beṇgaḷūru, 317, *f724*
 
-*cakrabandha*, *citrakāvya * composition, *f122*
+*cakrabandha*, *citrakāvya*composition, *f122*
 
 Century Club, Beṇgaḷūru, *f399*
 
@@ -841,13 +841,13 @@ sons of sarasvatī
 
 *chatra*, 87, 200, 217, *f562*
 
-*darbha * grass, 304, *f703*
+*darbha*grass, 304, *f703*
 
 Chatra Street, 202, 271
 
 Dariyā Daulat, 98, *f315*
 
-Chentsal Rao, P., *see * Ca ˙ncala Rāv
+Chentsal Rao, P., *see*Ca ˙ncala Rāv
 
 Dāsappāji, *Sarmokhtasar*, 195, 238, 244
 
@@ -855,7 +855,7 @@ Cidānanda *Avadh ūta*, *f655*
 
 *Daśapura*, *f568*
 
-*Cikka * Rāmappa, *vīne bakṣi*, *f117*
+*Cikka*Rāmappa, *vīne bakṣi*, *f117*
 
 *Daśarathanandanacaritra *\(Voḍeyar III\), 
 
@@ -863,7 +863,7 @@ Cikkapēṭe, Beṇgaḷūru, *f464*
 
 *f124*
 
-*Cikkarāya * title, 355; signifiicance of, 357; 
+*Cikkarāya*title, 355; signifiicance of, 357; 
 
 *Daśastōtra *\(Ayyā Śāstri\), 342
 
@@ -871,11 +871,11 @@ Tammēgauḍa of Hosakōṭe, 355
 
 *Dattacintāmaṇi *\(Kuṭṭi Śāstri\), *f588*
 
-*Cinna * Bomma Nāyaka, *f213*
+*Cinna*Bomma Nāyaka, *f213*
 
 Daulat Rāv Śinde, *f577*, *f598*
 
-*Cinna * Timma, *f213*, 388, 389
+*Cinna*Timma, *f213*, 388, 389
 
 death, *yōgic*, *f651*
 
@@ -943,7 +943,7 @@ D
 
 *dharmādhyayana*, 78, 95, 103
 
-Dādāśāstri, *see * Tryambaka Śāstri
+Dādāśāstri, *see*Tryambaka Śāstri
 
 *dharmaśāstra*, *f248*, 301
 
@@ -955,7 +955,7 @@ Dādāśāstri, *see * Tryambaka Śāstri
 
 *Dhātrīhavana*, 326
 
-*Dakṣiṇāgni * domestic ritual fiire, *f451*
+*Dakṣiṇāgni*domestic ritual fiire, *f451*
 
 *Dhātur ūpaprakāśikā *\(Śrīkaṇṭha Śāstri\), 
 
@@ -967,11 +967,11 @@ Dakṣiṇāmūrti \(deity\), 203, *f508*
 
 *also Ti ˙nantar ūpāvali*; republished, 
 
-*Daḷavāi * Dēvarājayya, *f684*
+*Daḷavāi*Dēvarājayya, *f684*
 
 *f337*
 
-Dalhousie, *Marquess * J., *f147*, *f520*
+Dalhousie, *Marquess*J., *f147*, *f520*
 
 Dhōṇḍo Pant, *f530*
 
@@ -1001,7 +1001,7 @@ differential calculus, *f586*
 
 Dāmodar Scholarship, *f399*
 
-*dīkṣā * ritual for *yajña*, *f689*
+*dīkṣā*ritual for *yajña*, *f689*
 
 *dānas*, at the time of death, *f221*
 
@@ -1033,7 +1033,7 @@ directions, ten, *f430*
 
 *Gadadharīya Śatpratipakṣa Kroḍapatram*, 
 
-*Dīvāns * of Mais ūru, list of, *f524*
+*Dīvāns*of Mais ūru, list of, *f524*
 
 *see Śatakōṭi*
 
@@ -1055,7 +1055,7 @@ Galiya Ḳhān, Bijāpur offiicer, 358
 
 Dōrasamudra, *f49*, 287, 390
 
-*Gamaka * poetry recitation, *f129*
+*Gamaka*poetry recitation, *f129*
 
 *Drāhyāyaṇa*, 8
 
@@ -1071,7 +1071,7 @@ Gaṇapati Śāstri, 117
 
 *Dr̥gdr̥śya Praṇibandhanopapatti Prakāśa*, 
 
-*gaṇḍabheruṇḍa * bird, *f777*
+*gaṇḍabheruṇḍa*bird, *f777*
 
 *f476*
 
@@ -1119,7 +1119,7 @@ Gaṇgēśa Upādhyāya, 184, *f472*, *f497*, *f591*
 
 *f553*
 
-Garaḷapurī Śāstri, *s/o * Ayyā Śāstri, *f233, *
+Garaḷapurī Śāstri, *s/o*Ayyā Śāstri, *f233, *
 
 Dwarki, ṢK., xxviii, *f25*, *f122*
 
@@ -1155,17 +1155,17 @@ Garamond font, xxxii
 
 Garan
 
-*.ṭa * funerary ritual, *f733*
+*.ṭa*funerary ritual, *f733*
 
 . i Kr̥ṣṇācārya, 313, 319
 
-Ekōji, *s/o * Śāhji, 356; defeated by Śivāji, 360
+Ekōji, *s/o*Śāhji, 356; defeated by Śivāji, 360
 
 Gargēśvarī, village of, 36, *f102*, *f140*
 
 Elliot, C., *f317*
 
-*Gārhapatya * domestic ritual fiire, *f451*
+*Gārhapatya*domestic ritual fiire, *f451*
 
 exogamy practices in India, *f400*
 
@@ -1195,7 +1195,7 @@ sons of sarasvatī
 
 Gautama, 231
 
-Haiderābād, 211, 362; *Nizām * of, *f77*; capital *Gāyatrī mantra*, 167
+Haiderābād, 211, 362; *Nizām*of, *f77*; capital *Gāyatrī mantra*, 167
 
 after G ōlkoṇḍa, 381; founding of, 
 
@@ -1205,7 +1205,7 @@ after G ōlkoṇḍa, 381; founding of,
 
 recitation
 
-Hakka, *see * Harihara I
+Hakka, *see*Harihara I
 
 Gilani brothers, defectors at Tāḷikōṭe, *f52*
 
@@ -1235,7 +1235,7 @@ Gōdāvarī Veṇkaṭaśāstri, 270
 
 *Hanumadīya *\(Hanumadācārya\), *f506*
 
-*gojju * sauce, *f739*
+*gojju*sauce, *f739*
 
 *Han ūmannāmāmr̥ta *\(Nārāyaṇaśāstri\), 311
 
@@ -1271,7 +1271,7 @@ Court, 255
 
 *Hariharāṣṭōttara *\(Garaḷapurī Śāstri\), 44, 
 
-Gōpālasvāmi Śāstri, *s/o * Ayyā Śāstri, *f777*
+Gōpālasvāmi Śāstri, *s/o*Ayyā Śāstri, *f777*
 
 289, 335
 
@@ -1311,7 +1311,7 @@ Guḍipalli, 301
 
 Hayavadana Rāv, *f718*
 
-*G ūḷi * Bāḷācārya, 211, *f557*
+*G ūḷi*Bāḷācārya, 211, *f557*
 
 Hebbaṇi, 301
 
@@ -1319,7 +1319,7 @@ Hebbaṇi, 301
 
 *Hemacandrarāja Vilāsa \[King Lear\]*
 
-Guṇḍa Śāstri, *stu/o * Tirumalācārya, *f212*
+Guṇḍa Śāstri, *stu/o*Tirumalācārya, *f212*
 
 \(Puṭṭaṇṇa\), *f772*
 
@@ -1327,7 +1327,7 @@ Guṇḍappa, ḌV., xxviii, *f5*, *f561*
 
 Hemmanahaḷḷi Kr̥ṣṇabhaṭṭa, *f136*
 
-Guṇḍappa, *gf/o * ḌV. Guṇḍappa, 299
+Guṇḍappa, *gf/o*ḌV. Guṇḍappa, 299
 
 *hetu*, middle term in syllogism, *f503*
 
@@ -1353,7 +1353,7 @@ H
 
 *Hitopadeśa*, *f405*, *f443*
 
-*Hāg ū-bēḷe * Rāmarāv, 211
+*Hāg ū-bēḷe*Rāmarāv, 211
 
 Hoḷēnarasīpura, *f687*
 
@@ -1395,13 +1395,13 @@ Tammāmbudhi lake, 355
 
 Hosakōṭe Veṇkaṭarāma Śāstri, 316, 319
 
-Jānakīamma, *d/o * Ayyā Śāstri, *f433*
+Jānakīamma, *d/o*Ayyā Śāstri, *f433*
 
 Hosapēṭe, 5
 
 *japa*, *f97*
 
-*hotr. *, *see śrauta * rituals
+*hotr. *, *see śrauta*rituals
 
 *jāva \(jhāva\)*, *f631*
 
@@ -1409,13 +1409,13 @@ Hosapēṭe, 5
 
 Javara, manservant, 42
 
-*huḷi * stew, *f739*
+*huḷi*stew, *f739*
 
 Jayarām Rāv, *f168*
 
 Hulluhaḷḷi, population in 1876, *f104*
 
-Jījībāī *w/o * Śāhji, 359
+Jījībāī *w/o*Śāhji, 359
 
 Hulluhaḷḷi Nallāṁ Gōpalakr̥ṣṇācārya, 40, 
 
@@ -1431,7 +1431,7 @@ Jīvan Rāya, *f251*
 
 Hulluhaḷḷi Veṇkaṭasubbayya, *see*
 
-Jīvaṇḍrāya, 79, *see also * Jīvan Rāya
+Jīvaṇḍrāya, 79, *see also*Jīvan Rāya
 
 Hulluhaḷḷi Veṇkaṭarāmayya
 
@@ -1447,15 +1447,15 @@ Jñānasundarī, *Kaviratnā*, 338, *f770*
 
 *hurigāḷu*, 143
 
-*jōḍi * village, *f101*
+*jōḍi*village, *f101*
 
 H ūvina Bīdi street, *f128*, 337
 
-J ōyisa Siṇgaḷācārya, *stu/o * Rāmaśāstri, 205
+J ōyisa Siṇgaḷācārya, *stu/o*Rāmaśāstri, 205
 
 I
 
-*Julapi * Kr̥ṣṇācārya, 198, 211, 226
+*Julapi*Kr̥ṣṇācārya, 198, 211, 226
 
 *jyotis*
 
@@ -1519,7 +1519,7 @@ Irish Press, Beṇgal
 
 .ṭi Śāstri\), *f588*
 
-Ismail, *Dīvān * Sir Mirza, 125
+Ismail, *Dīvān*Sir Mirza, 125
 
 Kākaṭiya kingdom, *f205*
 
@@ -1543,7 +1543,7 @@ Kāḷanañjuṇdayya, 91
 
 *jaganmithya*, 255, *f643*
 
-*Kālapuruṣa*, 139, *see * Time, personifiied
+*Kālapuruṣa*, 139, *see*Time, personifiied
 
 Jaganmohana Palace, Mais ūru, *f479*
 
@@ -1571,11 +1571,11 @@ Kalyāṇadurga, 176, 180, 190, 202
 
 Kāśī Śēṣa Śāstri, 82, *f108*, *f110*, 227, *f241*, 271, Kāmākṣī temple, Kāñci, *f588*
 
-*see also * Rāmaśēṣā Śāstri, *f479*, *f489*, *kāmya * rituals, *f457*
+*see also*Rāmaśēṣā Śāstri, *f479*, *f489*, *kāmya*rituals, *f457*
 
 *f604*; memorial to Governor
 
-Kaṇagāla Śāmaśāstri, *stu/o * Rāmaśāstri, 205
+Kaṇagāla Śāmaśāstri, *stu/o*Rāmaśāstri, 205
 
 General, *f464*
 
@@ -1597,7 +1597,7 @@ Kāsim Ḳhān, Mughal general, 356, 360
 
 *kaṇive keḷaginavaru*, *f444*
 
-Kāśīpati Śāstri, *s/o * Viśvēśvara Śāstri, 315, 
+Kāśīpati Śāstri, *s/o*Viśvēśvara Śāstri, 315, 
 
 Kānkānhaḷḷi Guṇḍācārya, 25, 42
 
@@ -1641,7 +1641,7 @@ Katvāḍipura Agrahāra, 36, 75, 77, *f138*,
 
 Kappalamaḍuga, village of, 323
 
-*f167*, *f242*, *see also * Old Agrahāra, *f480*
+*f167*, *f242*, *see also*Old Agrahāra, *f480*
 
 Karaṇīka Kr̥ṣṇappa, of Māgaḍi, 199
 
@@ -1669,7 +1669,7 @@ Kavi Varadācārya, 23, 30, 31, 37, 39, 82, 202,
 
 *Kārikāvali *\(Viṣvanātha\), *f497*
 
-261; *stu/o * Rāmaśāstri, 204, 226
+261; *stu/o*Rāmaśāstri, 204, 226
 
 Karkōṭaka, 150
 
@@ -1685,7 +1685,7 @@ xxviii, *f85*, *f418*
 
 \(Mummuḍi Tammegauḍa\), 363
 
-*Kavitilaka*, *see * Ayyā Śāstri
+*Kavitilaka*, *see*Ayyā Śāstri
 
 *Karṇāṭa Rāmāyaṇa *\(Veṇkappayya\), *f609*
 
@@ -1697,13 +1697,13 @@ Karnāṭaka, 99
 
 *Karṇāṭaka Kavicarite *\(Narasimhācār\), *f419*
 
-*Kāvyavācana * poetry recitation, *f129*
+*Kāvyavācana*poetry recitation, *f129*
 
 *Karṇāṭaka Kāvyakalānidhi*, 340
 
 Keerthi, Naresh, xv, *f176*, *f209*, *f248*, *f812*
 
-*Karnāṭaka * magazine, 311
+*Karnāṭaka*magazine, 311
 
 Kempadēvājamaṇṇi, *f128*
 
@@ -1725,7 +1725,7 @@ Kempina Veṇkaṭarāmāvadhāni, 133
 
 Kāśī, 13, 100, 168
 
-Kempu Nārāyaṇa Kavi, *see * Kempu Śāstri
+Kempu Nārāyaṇa Kavi, *see*Kempu Śāstri
 
 Kāśī Pāṇḍuraṇga Bhaṭṭa, 133
 
@@ -1749,7 +1749,7 @@ Kr̥ṣṇasvāmi, temple of, 201
 
 Kempunañjāmbikā, *f274*
 
-Kr̥ṣṇasvāmi Śāstri, *s/o * Ayyā Śāstri, *f25*, *f111*, Kempunañjammaṇṇi, *f128*
+Kr̥ṣṇasvāmi Śāstri, *s/o*Ayyā Śāstri, *f25*, *f111*, Kempunañjammaṇṇi, *f128*
 
 *f187*, 333, *f344*
 
@@ -1765,7 +1765,7 @@ Kr̥ṣṇāvadhūta Paṇḍita, *f606*
 
 *Kr̥ṣṇayajurvēda*., *f702*
 
-*kīre * greens, 39
+*kīre*greens, 39
 
 Kr̥ṣṇayyaṇgār, M., 104
 
@@ -1777,7 +1777,7 @@ Kiṭṭa, as diminutive of Kr̥ṣṇa, *f409*
 
 Kṣemendra, *f192*
 
-Kocci Raṇgappācārya, *stu/o * Rāmaśāstri, 
+Kocci Raṇgappācārya, *stu/o*Rāmaśāstri, 
 
 Kuccamma, of Ālūru, 90
 
@@ -1805,7 +1805,7 @@ Kōṇūru Śāmaśāstri, 272
 
 *Kumārasambhava *\(Kālidāsa\), *f96*, *f388*
 
-Koyimatt ūr Bhīmācārya, *stu/o * Rāmaśāstri, 
+Koyimatt ūr Bhīmācārya, *stu/o*Rāmaśāstri, 
 
 Kumārasvāmi, *f207*
 
@@ -1829,13 +1829,13 @@ Kriṣṇayyar, K.S., 329
 
 Kunapākaṁ Appāsāmayyaṇgār, 255
 
-Kr̥ṣṇa, *b/o * Śrīkaṇṭha Śāstri, 79, 90
+Kr̥ṣṇa, *b/o*Śrīkaṇṭha Śāstri, 79, 90
 
 Kuṇigal, 167
 
-Kr̥ṣṇa Bhaṭṭācārya, *see * Kr̥ṣṇaṁbhaṭṭa Ārḍe Kuṇigala Rāmaśāstri, xxvi, xxviii, xxxiii, 3, 
+Kr̥ṣṇa Bhaṭṭācārya, *see*Kr̥ṣṇaṁbhaṭṭa Ārḍe Kuṇigala Rāmaśāstri, xxvi, xxviii, xxxiii, 3, 
 
-Kr̥ṣṇa Śāstri, *s/o * Bhāskarayya, 91
+Kr̥ṣṇa Śāstri, *s/o*Bhāskarayya, 91
 
 23, *f35*, *f107, f108*, 161–284 *passim*; 
 
@@ -1843,7 +1843,7 @@ Kr̥ṣṇa Śāstri, *s/o * Bhāskarayya, 91
 
 death of, 262; debts of, *f667*; 
 
-Kr̥ṣṇabhaṭṭa, *s/o * Gaṇgādhara *Vāraṇāsi*, descendants of, *f671*; namesake
+Kr̥ṣṇabhaṭṭa, *s/o*Gaṇgādhara *Vāraṇāsi*, descendants of, *f671*; namesake
 
 *f243*
 
@@ -1861,11 +1861,11 @@ Kr̥ṣṇadēva Rāya, *f83*, 357, 368, 372, 388
 
 Rāmaśāstri, 205
 
-Kr̥ṣṇamācārya, *see * Parakālasvāmi, Srīkr̥ṣṇa Kuppaṇṇayyaṇgār *Svāmi*, *f331*
+Kr̥ṣṇamācārya, *see*Parakālasvāmi, Srīkr̥ṣṇa Kuppaṇṇayyaṇgār *Svāmi*, *f331*
 
 Brahmatantra
 
-Kuppaśāstri, *stu/o * Rāmaśāstri, 205
+Kuppaśāstri, *stu/o*Rāmaśāstri, 205
 
 *Kr̥ṣṇāmbā Pariṇaya *\(Ayyā Śāstri\), 341
 
@@ -1873,9 +1873,9 @@ Kuppusvāmi Śāstri, 320
 
 Kr̥ṣṇaṁbhaṭṭa Ārḍe, 279, *f506*, *f680*
 
-Kuracci Raṇgācārya, *stu/o * Rāmaśāstri, 
+Kuracci Raṇgācārya, *stu/o*Rāmaśāstri, 
 
-Kr̥ṣṇamma, *dl/o * Śrīkaṇṭha Śāstri, 102, 112, 
+Kr̥ṣṇamma, *dl/o*Śrīkaṇṭha Śāstri, 102, 112, 
 
 204, 226
 
@@ -1883,21 +1883,21 @@ Kr̥ṣṇamma, *dl/o * Śrīkaṇṭha Śāstri, 102, 112,
 
 *Kurugōḍu Kaifiyat*, *f38*
 
-Kr̥ṣṇamūrti, *Dīvān * Sir P.N., 65, *f225*
+Kr̥ṣṇamūrti, *Dīvān*Sir P.N., 65, *f225*
 
-*kuśa * grass, *f703*
+*kuśa*grass, *f703*
 
 *Kr̥ṣṇaprabhāvodaya *\(Śrīnivāsācār\), *f482*
 
-Kuṭṭi Kavi, *see * Vāñchēśvara Kavi
+Kuṭṭi Kavi, *see*Vāñchēśvara Kavi
 
 *Kr̥ṣṇarājābhyudaya *\(Basappa Śāstri\), *f132*
 
-Kuṭṭi Narasiṁhaśāstri, *s/o * Kuṭṭi Śāstri, 119, Kr̥ṣṇarājēndrapura Agrahāra, *f240*
+Kuṭṭi Narasiṁhaśāstri, *s/o*Kuṭṭi Śāstri, 119, Kr̥ṣṇarājēndrapura Agrahāra, *f240*
 
 205
 
-Kr̥ṣṇarāv, *Dīvān * ṀN., *f183*, 337
+Kr̥ṣṇarāv, *Dīvān*ṀN., *f183*, 337
 
 Kuṭṭi Śāstri, 189, 198, 227, 232, 233, *f604*
 
@@ -1907,7 +1907,7 @@ sons of sarasvatī
 
 *Kuvalayānanda *\(Appayya Dīkṣita\), *f122*, 
 
-*laukika*, *see under * brāhmaṇas
+*laukika*, *see under*brāhmaṇas
 
 *f213*
 
@@ -1933,7 +1933,7 @@ Liṇgarājē Arasu, *Cikka*, 52
 
 Liṇgarāje Arasu, *Doḍḍa*, *f128*
 
-Lakṣamma, *w/o * Kuṇigala Rāmaśāstri, 264, 
+Lakṣamma, *w/o*Kuṇigala Rāmaśāstri, 264, 
 
 *Liṇgāyata*, *f51*, *f274*
 
@@ -1953,15 +1953,15 @@ Lakṣmī \(deity\), 9; manifestations of, *f53*
 
 Lower Secondary examination, 114, *f335*
 
-Lakṣmī Bāī, *dl/o * Tryambaka Śāstri, *f477*, *f511*
+Lakṣmī Bāī, *dl/o*Tryambaka Śāstri, *f477*, *f511*
 
 M
 
-Lakṣmīdēvamma, *see * Lakṣmīdēvī
+Lakṣmīdēvamma, *see*Lakṣmīdēvī
 
 Macaulay, Thomas B., *f2*
 
-Lakṣmīdēvī, 2nd *w/o * Rāmaśāstri, of
+Lakṣmīdēvī, 2nd *w/o*Rāmaśāstri, of
 
 Mackenzie, Colin, 349
 
@@ -1969,7 +1969,7 @@ Cāmarājanagara, 102, *f326*
 
 Mādana, manservant, 154
 
-Lakṣmīdēvī, *w/o * Ayyā Śāstri, 83, 100, 
+Lakṣmīdēvī, *w/o*Ayyā Śāstri, 83, 100, 
 
 Madanapalli, 301
 
@@ -1981,7 +1981,7 @@ Lakṣmīkānta Bhaṭṭa, *f622*
 
 Mādhava, mathematician of Kērala, *f6*
 
-Lakṣmīnarasamma, *dl/o * Viśvēśvara Śāstri, 
+Lakṣmīnarasamma, *dl/o*Viśvēśvara Śāstri, 
 
 Mādhava, Vidyāraṇya *Svāmi*, 7, *f47*
 
@@ -1997,21 +1997,21 @@ Lakṣmīnarasiṁha Śāstri, 341
 
 *Mādhva*, 226
 
-Lakṣmīnarasiṁhaśāstri, *f/o * Kuṇigala
+Lakṣmīnarasiṁhaśāstri, *f/o*Kuṇigala
 
 Madhvācārya, founder of *Dvaita*, *f83*
 
 Rāmaśāstri, 167, 170, 171
 
-*maḍi * ritual purity, *f218*, *f441*, *f695*; of bark Lakṣmīnarasiṁhaśāstri, given name of
+*maḍi*ritual purity, *f218*, *f441*, *f695*; of bark Lakṣmīnarasiṁhaśāstri, given name of
 
 garments, *f695*; of silk, *f218*
 
 ṀṢPuṭṭaṇṇa, *f622*
 
-Madurai, *f213*, 387–389; *Nāyakas * of, 387, 
+Madurai, *f213*, 387–389; *Nāyakas*of, 387, 
 
-Lakṣmīnarasiṁhaśāstri, *s/o * Kuṇigala
+Lakṣmīnarasiṁhaśāstri, *s/o*Kuṇigala
 
 389
 
@@ -2047,7 +2047,7 @@ Mahādeva Bhaṭṭa, *f497*
 
 Kumārī, *f385*, *f774*
 
-Mahādeva Śāstri, *f/o * Basappa Śāstri, *f132*
+Mahādeva Śāstri, *f/o*Basappa Śāstri, *f132*
 
 *lakṣyārtha*, *f96*
 
@@ -2075,7 +2075,7 @@ index
 
 *mahāpuruṣa lakṣaṇas*, *f732*
 
-Maṇgaḷāmbā, *w/o * ṢG. Ramacandra, *f777*
+Maṇgaḷāmbā, *w/o*ṢG. Ramacandra, *f777*
 
 *Mahārājābhyudayapraśaṁsā *\(Śrīkaṇṭha
 
@@ -2093,7 +2093,7 @@ Mahārāja’s Council, *f343*
 
 *maṇṭapa*, *f94*, 200; at Sōsale, 19
 
-Mahārāja’s *Saṁskr̥ta * College, 53, *f154*
+Mahārāja’s *Saṁskr̥ta*College, 53, *f154*
 
 *mantra*, 224; in *yajña*, *f690*
 
@@ -2155,7 +2155,7 @@ departments, *f245*; described,
 
 Mattig ūdu Narasiṁhabhaṭṭa, 109
 
-125–127; fiire damage, *f380*, *f384*, *f681*; Mattig ūḍu Vāsudēvaśāstri, *sl/o * Ayyā Śāstri, 
+125–127; fiire damage, *f380*, *f384*, *f681*; Mattig ūḍu Vāsudēvaśāstri, *sl/o*Ayyā Śāstri, 
 
 theft of jewels, *f226*
 
@@ -2199,7 +2199,7 @@ Maḷavaḷḷi, *f77*
 
 *Maḷeyarāja Cāritra *\(Sejjeya Siddhaliṇga\), 
 
-Mīnākṣī, *d/o * Ayyā Śāstri, 139, 141
+Mīnākṣī, *d/o*Ayyā Śāstri, 139, 141
 
 364
 
@@ -2229,7 +2229,7 @@ Mallinātha, *f96*, *f207*
 
 Mount Joy, *f721*
 
-Māl ōji, *gf/o * Śivāji; general for
+Māl ōji, *gf/o*Śivāji; general for
 
 *Mr̥cchakaṭika *\(Nañjanagūḍu Subbāśāstri\), 
 
@@ -2239,7 +2239,7 @@ Ahmadnagar, *f798*
 
 Maḷūru Raṇgācārya, 320
 
-*Muccagaṇṇu * Śrīnivāsācāyra, 211
+*Muccagaṇṇu*Śrīnivāsācāyra, 211
 
 Mānamāḍi Madhvācārya, 271
 
@@ -2251,7 +2251,7 @@ sons of sarasvatī
 
 Muḍiyanūru, 301
 
-*naimittika * rituals, *f457*
+*naimittika*rituals, *f457*
 
 *Mudrāmañj ūṣa *\(Kempu Śāstri\), 25
 
@@ -2275,7 +2275,7 @@ Muḍiyanūru, 301
 
 *f114*
 
-*nāma*, *Vaiṣnava * symbol, *f143*
+*nāma*, *Vaiṣnava*symbol, *f143*
 
 Mughal, *f243*
 
@@ -2291,27 +2291,27 @@ Nānā Faḍnavīs, *f280*
 
 *muh ūrta*, 306
 
-Nānā Sāhib, *see * Dhōṇḍo Pant
+Nānā Sāhib, *see*Dhōṇḍo Pant
 
 Muḷabāgilu, 297, 323, 324, *f704*
 
 Naṇgali, 301
 
-Mulaknāḍu, *see * Mulaknāṭu
+Mulaknāḍu, *see*Mulaknāṭu
 
-Nañjamma, 1st *w/o * Rāmaśāstri, of
+Nañjamma, 1st *w/o*Rāmaśāstri, of
 
 Mulaknāṭu, 220, 222
 
 Cāmarājanagara, 90, *f326*
 
-Muḷubāgilu, *see * Muḷabāgilu
+Muḷubāgilu, *see*Muḷabāgilu
 
-Nañjamma, *si/o * Ayyā Śāstri, *f136*, 335
+Nañjamma, *si/o*Ayyā Śāstri, *f136*, 335
 
 *munitraya*, of grammar, *f23*
 
-Nañjamma, *si/o * Śrīkaṇṭha Śāstri, 79, 83, 91
+Nañjamma, *si/o*Śrīkaṇṭha Śāstri, 79, 83, 91
 
 Muñjālagaḍḍe Veṇkaṭācāri, 255
 
@@ -2337,7 +2337,7 @@ Murud
 
 Nañjarāj Bahād ūr, 52
 
-*muttaga * leaves, *f486*
+*muttaga*leaves, *f486*
 
 *Nañjarājac*
 
@@ -2351,7 +2351,7 @@ Mutt ūru Narahariśāstri, 319
 
 Nañjun
 
-Mutt ūru Rāmaśāstri, *stu/o * Rāmaśāstri, 205
+Mutt ūru Rāmaśāstri, *stu/o*Rāmaśāstri, 205
 
 . ḍa Rāja Arasu, 341
 
@@ -2363,7 +2363,7 @@ Nañjunḍayya, ḤV., 104
 
 *Nāradaparivrājakōpaniṣad*, *f302*, *f309*
 
-Mysore, *see also * Mais ūru
+Mysore, *see also*Mais ūru
 
 Narahari Joyisa, 338
 
@@ -2377,7 +2377,7 @@ Mysore Vāsudēvāc
 
 . ārya, *f115*, *f118*, *f319*
 
-*. ḍa*, *see * Mount Joy
+*. ḍa*, *see*Mount Joy
 
 Mysore War, Fourth, *f77*, 354
 
@@ -2385,29 +2385,29 @@ Mysore War, Fourth, *f77*, 354
 
 Mysore War, Third, *f797*
 
-*Narapativijayamu*, *see * Rāmarājīyamu
+*Narapativijayamu*, *see*Rāmarājīyamu
 
 Narasē Arasu, 43
 
 N
 
-Narasiṁha, *b/o * Śrīkaṇṭha Śāstri, 79, 90
+Narasiṁha, *b/o*Śrīkaṇṭha Śāstri, 79, 90
 
-*nāgabandha*, *citrakāvya * composition, *f122*
+*nāgabandha*, *citrakāvya*composition, *f122*
 
-Narasiṁha, *gs/o * Śrīkaṇṭha Śāstri, 109, 
+Narasiṁha, *gs/o*Śrīkaṇṭha Śāstri, 109, 
 
 Nāgappa, 102
 
 113–115, 119, 121, 135, 137, 140, 141, 143, 
 
-*Nāgapratiṣṭhe * ritual, 214
+*Nāgapratiṣṭhe*ritual, 214
 
 146–148
 
-Nagara, *see * Cāmarājanagara
+Nagara, *see*Cāmarājanagara
 
-Narasiṁha, *s/o * Śrīkaṇṭha Śāstri, 83, 89, 97, 
+Narasiṁha, *s/o*Śrīkaṇṭha Śāstri, 83, 89, 97, 
 
 Nagara insurrection, 196, *f242*, *f526*, *f618*
 
@@ -2431,9 +2431,9 @@ Narasiṁha Rāya, of Penukoṇḍa, 355
 
 Nāgeśa Bhaṭṭa, *f6*, *f23*, 175, *f468*, *f474*
 
-Narasiṁha Śāstri, C.R., *s/o * Rāmaśāstri of
+Narasiṁha Śāstri, C.R., *s/o*Rāmaśāstri of
 
-Nāgoji Dīkṣita, *see * Nāgeśa Bhaṭṭa
+Nāgoji Dīkṣita, *see*Nāgeśa Bhaṭṭa
 
 Cām., *f326*, *f429*
 
@@ -2441,7 +2441,7 @@ index
 
 451
 
-Narasiṁhabhaṭṭa *s/o * Gaṇgādhara
+Narasiṁhabhaṭṭa *s/o*Gaṇgādhara
 
 Ṉīlagiri mountains, *f444*
 
@@ -2453,7 +2453,7 @@ Narasiṁhācār, R., 145, *f399*, *f420*, *f445*
 
 *Ṉīlakaṇṭhavijaya *\(Ṉīlakaṇṭha Dīkṣita\), 
 
-Narasiṁhaśāstri, *b/o * Kuṇigala Rāmaśāstri, 
+Narasiṁhaśāstri, *b/o*Kuṇigala Rāmaśāstri, 
 
 62, 289
 
@@ -2461,11 +2461,11 @@ Narasiṁhaśāstri, *b/o * Kuṇigala Rāmaśāstri,
 
 *Ṉīlāmbarī *\( *rāga*\), *f133*, 289
 
-Narasiṁhaśāstri *f/o * Kuṇigala Rāmaśāstri, 
+Narasiṁhaśāstri *f/o*Kuṇigala Rāmaśāstri, 
 
 *nirguṇa Brahman*, *f275*
 
-*see * Lakṣmīnarasiṁhaśāstri
+*see*Lakṣmīnarasiṁhaśāstri
 
 *nirukta*, *f75*, *f502*
 
@@ -2485,7 +2485,7 @@ in *¯*
 
 *Anēkallu Kaifiyat*, 357
 
-*nitya * rituals, *f60*, *f457*
+*nitya*rituals, *f60*, *f457*
 
 Narasiṇga Rāo, *f225*
 
@@ -2501,7 +2501,7 @@ Normal School, 119, 121, *f333*
 
 Narasīpura, 10, 22, 134; population in 1876, 
 
-Nr̥siṁha Bhāratī, *Vr̥ddha*, *Svāmi * of
+Nr̥siṁha Bhāratī, *Vr̥ddha*, *Svāmi*of
 
 *f104*; temples of, 14
 
@@ -2547,15 +2547,15 @@ Od
 
 Nārāyan
 
-. eyaru, xxxv, *see also * Voḍeyar
+. eyaru, xxxv, *see also*Voḍeyar
 
-. aśāstri, *gf/o * Kuṇigala Rāmaśas., 
+. aśāstri, *gf/o*Kuṇigala Rāmaśas., 
 
 Old Agrahāra, Mais ūru, 25, 41, *f118*, 193, 
 
-*see * Pāpaśāstri
+*see*Pāpaśāstri
 
-*f226*, *see also * Katvād
+*f226*, *see also*Katvād
 
 Narendra Bābu, Sōsale resident, *f63*
 
@@ -2575,7 +2575,7 @@ Nārusandra village, *f132*
 
 *Nāstikaṣaṭka*, 269
 
-*Onṭe * Rāmacārya, 211
+*Onṭe*Rāmacārya, 211
 
 Naṭampalli Alasiṇgācārya, *f331*
 
@@ -2589,7 +2589,7 @@ P
 
 *Navagraha S ūkta*, 305
 
-*padmabandha citrakāvya * composition, 
+*padmabandha citrakāvya*composition, 
 
 *Navakōṭi *\(Kuṇigala Rāmaśāstri\), 254, 294, 
 
@@ -2617,7 +2617,7 @@ New Agrahāra, Mais ūru, *f240*
 
 *Paisa*, *f699*
 
-Niḍagallu Kr̥ṣṇaśāstri, *stu/o * Rāmaśāstri, 
+Niḍagallu Kr̥ṣṇaśāstri, *stu/o*Rāmaśāstri, 
 
 *pakkā seer*, *f482*
 
@@ -2657,11 +2657,11 @@ Paṭṭābhirāma Śāstri, 8
 
 *paṭṭamahiṣī*, *f611*
 
-*pañcāṇga * used in various rituals. A
+*pañcāṇga*used in various rituals. A
 
 Patte Ḳhān, Bijāpur offiicer, 358
 
-*pañcāṇga * is an almanac., *f703*
+*pañcāṇga*is an almanac., *f703*
 
 *pauruṣeya*, *f46*
 
@@ -2675,11 +2675,11 @@ Pāvagaḍh, *f597*
 
 294
 
-*Pāyasa * Kr̥ṣṇa, 211
+*Pāyasa*Kr̥ṣṇa, 211
 
 *Pañcāyudha Stotra*, 80, *f255*
 
-Pedda Veṇkaṭa, *see * Veṇkaṭa Dēva Rāya III
+Pedda Veṇkaṭa, *see*Veṇkaṭa Dēva Rāya III
 
 *pañce*, 305, *f532*
 
@@ -2693,13 +2693,13 @@ Paṇḍharapura, in Śolāpura, *f506*
 
 Pēśvā, as reference to Marāṭhas, 360
 
-*Paṇḍita * certifiication, 119
+*Paṇḍita*certifiication, 119
 
 *phalamantrākṣate*, *f84*, 125, 177
 
 *pāṇḍitya*, xvii; and Western education, xxi; 
 
-*Pina * Veṇkaṭa, 377
+*Pina*Veṇkaṭa, 377
 
 and cash economy, *f10*; causes of
 
@@ -2733,7 +2733,7 @@ Pāpaṇṇa, 134
 
 poverty, among traditional scholars, 312
 
-Pāpaśāstri, *gf/o * Kuṇigala Rāmaśāstri, 166, 
+Pāpaśāstri, *gf/o*Kuṇigala Rāmaśāstri, 166, 
 
 *Prabhāvatīsvayamvara *\(Liṇgarāje Arasu, 
 
@@ -2741,7 +2741,7 @@ Pāpaśāstri, *gf/o * Kuṇigala Rāmaśāstri, 166,
 
 *Aḷiya*\), 34, *f134*
 
-*pappu dappaḷam * stew, *f739*
+*pappu dappaḷam*stew, *f739*
 
 *prācīnāvītam*, *f703*
 
@@ -2755,7 +2755,7 @@ Prajapati \(deity\), *f452*
 
 44, 51, *f84*, *f172*, *f517*; Raṇganātha *Prakr̥tyadhikaraṇavicāra *\(Tryambaka
 
-Brahmatantra, *stu/o * Rāmaśāstri, 204; 
+Brahmatantra, *stu/o*Rāmaśāstri, 204; 
 
 Śāstri\), *f476*
 
@@ -2763,7 +2763,7 @@ Srīkr̥ṣṇa Brahmatantra, 82, 106, 107
 
 *pramāṇa*, means to knowledge, *f499*
 
-*parakāyapraveśa*, *yōgic * feat, *f651*
+*parakāyapraveśa*, *yōgic*feat, *f651*
 
 *Pramāṇatattva *\(Tryambaka Śāstri\), *f476*
 
@@ -2817,7 +2817,7 @@ Q
 
 examinations, *f359*
 
-Qāsim Ḳhān, *see * Kāsim Ḳhān
+Qāsim Ḳhān, *see*Kāsim Ḳhān
 
 *Prathamēkādaśī*, 122
 
@@ -2863,7 +2863,7 @@ Raghunātha Śiromaṇi, *f6*, 184, 187
 
 *rāgi *\[ *Eleusine coracana*\], 302, *f705*
 
-*Prēta * Narasiṁhaśāstri, 211
+*Prēta*Narasiṁhaśāstri, 211
 
 *Rājabhakti Laharī *\(Ayyā Śāstri\), 341
 
@@ -2887,7 +2887,7 @@ Rajaraman, Shankar, xv, 394, 398
 
 *rājāśīrvāda*, 84, *f274*
 
-*puṁsavana * ceremony, 260
+*puṁsavana*ceremony, 260
 
 *Rājēndra Cōḷa Carita *\(Mummuḍi
 
@@ -2895,7 +2895,7 @@ punctuation conventions, xxxv
 
 Tammegauḍa\), 363
 
-Puṇe, *jāhgīr * of Śivāji, 360
+Puṇe, *jāhgīr*of Śivāji, 360
 
 Rājēśvara Śāstri, 198
 
@@ -2905,7 +2905,7 @@ Puṇgan ūru, 301
 
 *purāṇa*, 298
 
-Rakkasa-Taṇgaḍi, *see * Tāḷikōṭe, battle of
+Rakkasa-Taṇgaḍi, *see*Tāḷikōṭe, battle of
 
 Purandaradāsa, *f83*
 
@@ -2917,7 +2917,7 @@ Rāma \(deity\), 5, *f42*, *f44*, *f87*, *f130*, 307, *f732*
 
 P ūri, *f274*
 
-Rāma, *b/o * Śrīkaṇṭha Śāstri, *see * Rāmaśāstri, P ūrn
+Rāma, *b/o*Śrīkaṇṭha Śāstri, *see*Rāmaśāstri, P ūrn
 
 of C
 
@@ -2953,19 +2953,19 @@ Tāl
 
 Puruṣottama Śāstri, 175, *f474*
 
-Rāmacandra, ṢG., *gs/o * Ayyā Śāstri, *f777*
+Rāmacandra, ṢG., *gs/o*Ayyā Śāstri, *f777*
 
 *P ūrva Mīmāṁsā*, *f502*
 
 Rāmacandra Agrahāra, 110, 144, *f336*
 
-P ūrvādi Maṭha, *see * Vyāsarāya Maṭha
+P ūrvādi Maṭha, *see*Vyāsarāya Maṭha
 
 Rāmacandrarāv, minister, 44
 
 *p ūrvāśrama*, *f278*, *f346*, *f517*
 
-Rāmagiri Śāmācārya, *stu/o * Rāmaśāstri, 
+Rāmagiri Śāmācārya, *stu/o*Rāmaśāstri, 
 
 *puṣkariṇī*, 329
 
@@ -2977,7 +2977,7 @@ Rāmakr̥ṣṇarāya, B., Palace Controller, 311
 
 Puṭṭaṇṇa, ṀS., xxvi, xxviii, xxxi, 3, *f35*, 103, 
 
-Ramaṇācārya, *stu/o * Kr̥ṣṇambhaṭṭa, 279
+Ramaṇācārya, *stu/o*Kr̥ṣṇambhaṭṭa, 279
 
 *f108*, *f330*, *f672*; B.A. degree, xxix; 
 
@@ -2989,7 +2989,7 @@ Rāmānuja, founder of *Viśiṣṭādvaita*, 162
 
 Puṭṭaśyāmāpaṇḍita, 41, *f184*
 
-Rāmappa, *b/o * Garaḷapurī Śāstri, 16, 21
+Rāmappa, *b/o*Garaḷapurī Śāstri, 16, 21
 
 Puṭṭayya, *Amaldār*, 95
 
@@ -3015,7 +3015,7 @@ Rāmarāv, Bijāpur commander, *f280*
 
 Ravishankar, Aruna, xvi
 
-Rāmāśāstri, *f/o * Kempu Śāstri, *f112*
+Rāmāśāstri, *f/o*Kempu Śāstri, *f112*
 
 Rawdon-Hastings, Francis, Governor
 
@@ -3029,13 +3029,13 @@ Rāyadurga, 183, 188
 
 *f299*, *f327*, 337, *f420*; 1st *w/o*, *see* Rennaissance, Western ideas in, *f23*
 
-Nañjamma; 2nd *w/o*, *see * Lakṣmīdēvī; 
+Nañjamma; 2nd *w/o*, *see*Lakṣmīdēvī; 
 
 *Rēṇukāvijaya *\(Basappa Śāstri\), *f132*
 
 children of, *f326 *; death of, 118
 
-*R.gveda*, *f75*, 80, 115, *f638*, *f690*, *f711*, *f739*; Rāmāśāstri, *s/o * Veṇkaṭaramaṇa Śāstri, 
+*R.gveda*, *f75*, 80, 115, *f638*, *f690*, *f711*, *f739*; Rāmāśāstri, *s/o*Veṇkaṭaramaṇa Śāstri, 
 
 *aṣṭakas*, 81
 
@@ -3045,17 +3045,17 @@ Rice, B.L., *f419*
 
 Rāmāśāstri, teacher of Garaḷapurī Śāstri, 
 
-rīma Raṇgācāraya, *see * Raṇganātha
+rīma Raṇgācāraya, *see*Raṇganātha
 
 12, 14, 15, 18
 
-Brahmatantra, *under * Parakālasvāmi
+Brahmatantra, *under*Parakālasvāmi
 
 Rāmaśēṣa Śāstri, 23, 76, *f108*, 176, 178, 179, 
 
 *r̥ṇas*, *f300*, *f303*
 
-198, *f241, f242*, 318, *see also * Kāśī Śēṣa
+198, *f241, f242*, 318, *see also*Kāśī Śēṣa
 
 Royal Asiatic Society of Bengal, *f149*
 
@@ -3067,23 +3067,23 @@ Rāmasvāmi, B., 104
 
 *r̥ta*, *f44*, *f457*
 
-Rāmasvāmi Śāstri, *b/o * Ayyā Śāstri, *f136*, *Rudrādhyāya*, 305
+Rāmasvāmi Śāstri, *b/o*Ayyā Śāstri, *f136*, *Rudrādhyāya*, 305
 
 *f759*
 
 *rudrākṣi*, 240, 245, 264
 
-Rāmasvāmi Śāstri, *s/o * Ayyā Śāstri, *f35*, *f133*
+Rāmasvāmi Śāstri, *s/o*Ayyā Śāstri, *f35*, *f133*
 
 Rudrākṣi Maṭha, *f132*
 
 Rāmasvāmi Śetti, 323
 
-Rukmiṇī, *gd/o * Ayyā Śāstri, 137, *f777*
+Rukmiṇī, *gd/o*Ayyā Śāstri, 137, *f777*
 
 Ramāvilāsa *agrahāra*, *f110*
 
-*R ūpī * and other currencies, *f542*
+*R ūpī*and other currencies, *f542*
 
 *Rāmāyaṇa *\(Ayyā Śāstri\), 341
 
@@ -3107,7 +3107,7 @@ Saccidānanda Śivābhinava Nr̥siṁha
 
 Randullāh Ḳhān, Bijāpur general, *f280*, 
 
-Bhāratī, *Svāmi * of Śr̥ṇgēri Maṭha, 
+Bhāratī, *Svāmi*of Śr̥ṇgēri Maṭha, 
 
 353, 354, 382; lieutenants of, 358
 
@@ -3117,11 +3117,11 @@ Raṇgācār, Cuṁ., 104
 
 sacred domestic fiires, *f451*
 
-Raṇgācārlu, *see * Raṇgācārya, C.V. 
+Raṇgācārlu, *see*Raṇgācārya, C.V. 
 
 Sadāśiva Rāv, vocalist, *f117*
 
-Raṇgācārya, *Dīvān * C.V., 40, 43, 44, 51, 52, 
+Raṇgācārya, *Dīvān*C.V., 40, 43, 44, 51, 52, 
 
 Sadāśiva Rāya, of Vijayanagara, *f54*, 346, 
 
@@ -3129,7 +3129,7 @@ Sadāśiva Rāya, of Vijayanagara, *f54*, 346,
 
 368; coronation, imprisonment, 371
 
-Raṇgācārya, *Rao Bahadur * M., *f183*
+Raṇgācārya, *Rao Bahadur*M., *f183*
 
 *Sadāśivāṣṭaka *\(Basappa Śāstri\), *f132*
 
@@ -3141,7 +3141,7 @@ Raṇgasamudra, 190, *f511*
 
 Sadvidyāśāla, 26, 51, 61, *f119*, *f157*, 337; 
 
-Raṇgaśrīnivāsācārya, *stu/o * Rāmaśāstri, 204
+Raṇgaśrīnivāsācārya, *stu/o*Rāmaśāstri, 204
 
 teachers in, *f212*
 
@@ -3149,17 +3149,17 @@ teachers in, *f212*
 
 *Sadvidyāsārasaṇgraha *\(Tirumalācārya\), 
 
-*Rathasaptami * festival, 164
+*Rathasaptami*festival, 164
 
 *f183*
 
-Ratnājī, *d/o * Kr̥ṣṇarāja Voḍeyar III, *f623*
+Ratnājī, *d/o*Kr̥ṣṇarāja Voḍeyar III, *f623*
 
 Sāggere Nārāyaṇaśāstri, 162, 202, 205, 247, 
 
 *Ratnāpaṇa *\(Kumārasvāmi\), *f207*
 
-248, 310, 312; *stu/o * Rāmaśāstri, 205
+248, 310, 312; *stu/o*Rāmaśāstri, 205
 
 *Ratnāvaḷi *\(Basappa Śāstri\), *f132*
 
@@ -3171,7 +3171,7 @@ index
 
 *saguṇa Brahman*, *f275*
 
-Śaṇkarabhaṭṭa, *see * Śaṇkara Śāstri
+Śaṇkarabhaṭṭa, *see*Śaṇkara Śāstri
 
 *Sahasragītī *\(Raṇgācārya\), *f668*
 
@@ -3179,9 +3179,9 @@ index
 
 *f507*, *f753*
 
-Śāhji, *f/o * Śivāji, 287, 353, 358, 382, 385; 
+Śāhji, *f/o*Śivāji, 287, 353, 358, 382, 385; 
 
-Śaṇkaramma, *si/o * Śrīkaṇṭha Śāstri, 79, 91
+Śaṇkaramma, *si/o*Śrīkaṇṭha Śāstri, 79, 91
 
 general for Ahmadnagar, 381; general
 
@@ -3189,7 +3189,7 @@ general for Ahmadnagar, 381; general
 
 for Bijāpur, 287, 354, 358, *f794*, *f798*; 
 
-Veṇkaṭaramaṇa Śāstri, *f/o * Śrīkaṇṭha
+Veṇkaṭaramaṇa Śāstri, *f/o*Śrīkaṇṭha
 
 imprisonments, 359
 
@@ -3217,7 +3217,7 @@ Sajjayyācārya, 23
 
 *śākha, Vēdic*, 80
 
-*sapiṇḍīkaraṇa * funerary ritual, *f733*
+*sapiṇḍīkaraṇa*funerary ritual, *f733*
 
 *Śākuntala *\(Basappa Śāstri\), *f132*, 339
 
@@ -3243,13 +3243,13 @@ Sarasvatī \(river\), *f568*
 
 Sarasvatī Bhaṇḍāra, 280
 
-*samāsa * compounds, xxxvi
+*samāsa*compounds, xxxvi
 
-*Sarasvatīprāsāda Pāṭhaśāla*, *see * Mahārāja’s *Sāmavēda*, 8, 68
+*Sarasvatīprāsāda Pāṭhaśāla*, *see*Mahārāja’s *Sāmavēda*, 8, 68
 
-*Saṁskr̥ta * College
+*Saṁskr̥ta*College
 
-Sāmbam ūrti Rāv, ṀP., *s/o * Puṭṭaṇṇa, *f672*
+Sāmbam ūrti Rāv, ṀP., *s/o*Puṭṭaṇṇa, *f672*
 
 Sarbhōji II, *f588*
 
@@ -3263,9 +3263,9 @@ Sarbhōji II, *f588*
 
 *sarmokhtasar*, *f525*
 
-*saṁnyāsa*, 95, 166, 190, *f278*, *f300*, *f303*; as Sar ōjā Veṇkaṭarām, *see * Veṇkaṭarām, Sarōjā ritual death, *f413*; varieties of, *f309*
+*saṁnyāsa*, 95, 166, 190, *f278*, *f300*, *f303*; as Sar ōjā Veṇkaṭarām, *see*Veṇkaṭarām, Sarōjā ritual death, *f413*; varieties of, *f309*
 
-*sāru * soup, *f657*, *f739*
+*sāru*soup, *f657*, *f739*
 
 *saṁnyastōham*, 94
 
@@ -3283,15 +3283,15 @@ Sarbhōji II, *f588*
 
 *śaṣkuli*, 143
 
-*Saṁskr̥ta * Pāṭhaśāla; at Cāmarājanagara, 
+*Saṁskr̥ta*Pāṭhaśāla; at Cāmarājanagara, 
 
 *śāstrapāṭhaka*, 298
 
-117, 119; at Mais ūru, *see * Mahārāja’s
+117, 119; at Mais ūru, *see*Mahārāja’s
 
 *Śāstrārambhanasamarthana *\(Tryambaka
 
-*Saṁskr̥ta * College; at Yeḍatore, *f326*
+*Saṁskr̥ta*College; at Yeḍatore, *f326*
 
 Śāstri\), *f476*
 
@@ -3331,7 +3331,7 @@ Tammegauḍa\), 363
 
 *Sattattvapeṭikā *\(Śriyaḥpatyācārya\), *f551*
 
-Śaṇkara Śāstri, *s/o * Tammaṇṇa Śāstri, 8, 10, 
+Śaṇkara Śāstri, *s/o*Tammaṇṇa Śāstri, 8, 10, 
 
 *sattra*, 193, *f277*, 324
 
@@ -3377,7 +3377,7 @@ Sejjeya Siddhaliṇga, 364
 
 Sēramahādēvi, village of, 166
 
-Śivāji, *s/o * Śāhji, 287, 356
+Śivāji, *s/o*Śāhji, 287, 356
 
 Serfōji II, *f520*
 
@@ -3395,7 +3395,7 @@ Serfōji II, *f520*
 
 *Śivaḻīle*, *f656*
 
-.ādri Ayyar, *Dīvān * Sir K., *f5*, 107, 108, 
+.ādri Ayyar, *Dīvān*Sir K., *f5*, 107, 108, 
 
 *f343*
 
@@ -3411,7 +3411,7 @@ Serfōji II, *f520*
 
 Śivaśaṇkara Śāstri, 302, 313, 314
 
-.aśāstri of Gaddavāla, *stu/o * Rāmaśāstri, 
+.aśāstri of Gaddavāla, *stu/o*Rāmaśāstri, 
 
 204
 
@@ -3421,7 +3421,7 @@ Shankar, Leena, xvi
 
 Śivasvāmi, ṢR., xxvi, xxviii, *f49*
 
-Śivasvāmi *s/o * Kun
+Śivasvāmi *s/o*Kun
 
 Shankar, Tara, xvi
 
@@ -3459,7 +3459,7 @@ Sidde Racein, Bijāpur offiicer, 358
 
 *. a *\(Subrahmaṇya Śāstri\), 
 
-*Smārta*, *see under * brāhman
+*Smārta*, *see under*brāhman
 
 313
 
@@ -3481,9 +3481,9 @@ Sokattur Vijayarāghavāc
 
 Rāmaśāstri, 204, 218, *f574*
 
-*Siddi * Mallik Ḳhān, Bijāpur offiicer, 358
+*Siddi*Mallik Ḳhān, Bijāpur offiicer, 358
 
-Sōmaśēkhara Rāv ṀP., *s/o * Puṭṭaṇṇa, *f672*
+Sōmaśēkhara Rāv ṀP., *s/o*Puṭṭaṇṇa, *f672*
 
 *Siddis*, Bantu mercenaries, 367
 
@@ -3501,7 +3501,7 @@ Sindhughaṭṭa, *f243*
 
 Sōsale, village of, xxvi, 10, 17, *f59*, 335; 
 
-Siṇgaḷācārya, *stu/o * Rāmaśāstri, 204
+Siṇgaḷācārya, *stu/o*Rāmaśāstri, 204
 
 British crossing at, *f77*; population in
 
@@ -3513,17 +3513,17 @@ British crossing at, *f77*; population in
 
 south of the valley, 227, *f444*, *f479*
 
-Sītamma, *d/o * Puṭṭaṇṇa, *f35*, *f133*
+Sītamma, *d/o*Puṭṭaṇṇa, *f35*, *f133*
 
 *śrāddha*, 301, 347
 
-Sītamma, *si/o * Ayyā Śāstri, *f136*, 335
+Sītamma, *si/o*Ayyā Śāstri, *f136*, 335
 
 *Śrāddhacintāmaṇi *\(Kuṭṭi Śāstri\), *f588*
 
 Sītārāma Śāstri, of Mais ūru, 338
 
-*śrauta * rituals, 167, 227, *see also yāga*, *f584*, Sītārāma Śāstri, *Paṇḍitaratnaṁ*, 107
+*śrauta*rituals, 167, 227, *see also yāga*, *f584*, Sītārāma Śāstri, *Paṇḍitaratnaṁ*, 107
 
 *f735*
 
@@ -3557,11 +3557,11 @@ index
 
 Śr̥ṇgēri, *f242*, *f388*
 
-xxxi, 3, *f35*, 53, 75–157 *passim*, *f249*, Śr̥ṇgēri Maṭha, *f39*, 161, *f242*, *f276*, *f522*; 335, 337, *f480*; 1st *w/o*, *see * Subbamma; Abhinava Śaṇkarālaya, *f522*
+xxxi, 3, *f35*, 53, 75–157 *passim*, *f249*, Śr̥ṇgēri Maṭha, *f39*, 161, *f242*, *f276*, *f522*; 335, 337, *f480*; 1st *w/o*, *see*Subbamma; Abhinava Śaṇkarālaya, *f522*
 
 2nd *w/o*, 98–100; known works of, 
 
-*śrōtrīya*, *see under * brāhmaṇas
+*śrōtrīya*, *see under*brāhmaṇas
 
 292; made *Dharmādhikāri*, 119; 
 
@@ -3599,7 +3599,7 @@ Srīkaṇṭhēśvara Press, *f27*
 
 *Sthala Mahima*, *f273*
 
-Śrīlakṣmī, *d/o * Kuṇigala Rāmaśāstri, 272, 
+Śrīlakṣmī, *d/o*Kuṇigala Rāmaśāstri, 272, 
 
 Subba, etymology of, *f349*
 
@@ -3609,11 +3609,11 @@ Subbādīkṣita, 81
 
 *Śrīmahāliṇgaśatakam *\(Kuṭṭi Śāstri\), *f588*
 
-Subbamma, 1st *w/o * Śrīkaṇṭha Śāstri, 81, 92
+Subbamma, 1st *w/o*Śrīkaṇṭha Śāstri, 81, 92
 
 *Śrīmanmahārajaravara Vaṁśāvaḷi *\(Row\), 
 
-Subbamma, *w/o * Garaḷapurī Śāstri, 16, 335
+Subbamma, *w/o*Garaḷapurī Śāstri, 16, 335
 
 292, *f320*
 
@@ -3629,7 +3629,7 @@ Subbarāya, as Ādiśeṣa, *f349*
 
 Śrīnivāsācārya, 316
 
-Subbatāyi, *see * Veṇkaṭasubbamma, *gd/o*
+Subbatāyi, *see*Veṇkaṭasubbamma, *gd/o*
 
 Śrīnivāsācārya, of Dhāravāḍa, *stu/o*
 
@@ -3639,13 +3639,13 @@ Rāmaśāstri, 162, 205, 278, 279
 
 Subbayya, V.B., 313
 
-Śrīnivāsācārya, *stu/o * Tirumalācārya, *f212*
+Śrīnivāsācārya, *stu/o*Tirumalācārya, *f212*
 
 Subrahmaṇya \(deity\), 314
 
 Śrīnivāsarāv, Caṇgalpat. *Śirastedār*, 255
 
-Subrahmaṇya, *s/o * Śrīkaṇṭha Śāstri, 83, 100, 
+Subrahmaṇya, *s/o*Śrīkaṇṭha Śāstri, 83, 100, 
 
 Śrīnivāsārya, of Maṇalūr, *f588*
 
@@ -3655,7 +3655,7 @@ Subrahmaṇya, *s/o * Śrīkaṇṭha Śāstri, 83, 100,
 
 Subrahmaṇya *Ghanapāṭhi*, 148
 
-Śrīpurīśa, *f85*, *see also * Garaḷapurī Śāstri, Subrahmaṇya Śāstri, of Homma, 95
+Śrīpurīśa, *f85*, *see also*Garaḷapurī Śāstri, Subrahmaṇya Śāstri, of Homma, 95
 
 Sōsale
 
@@ -3675,7 +3675,7 @@ Subrahmaṇyapura *agrahāra*, *f534*
 
 Śrīraṇga Dēva Rāya III, 378, 383–385
 
-Subrahmaṇyaśāstri, *stu/o * Rāmaśāstri, 162, 
+Subrahmaṇyaśāstri, *stu/o*Rāmaśāstri, 162, 
 
 Śrīraṇgapaṭṭaṇa, *f77*, 98, 117, 169, 255, *f315*, 205, 247, 259, 265, 267
 
@@ -3685,15 +3685,15 @@ subsidiary state, *f618*
 
 *Śrītattvanidhi *\(Voḍeyar III\), *f124*
 
-Subsidiary Treaty; of 1799, *f523*, *f529*, *f618*; *Śrīvaiṣṇava*, *see under * brāhmaṇas
+Subsidiary Treaty; of 1799, *f523*, *f529*, *f618*; *Śrīvaiṣṇava*, *see under*brāhmaṇas
 
 of 1807, *f618*
 
-*śrīvatsa * mark, *f732*
+*śrīvatsa*mark, *f732*
 
 Sudborough, J.J., *f399*
 
-*Śrīvidyā * ritualism, *f737*
+*Śrīvidyā*ritualism, *f737*
 
 *Śuddhiprakāśa*, *f221*
 
@@ -3701,17 +3701,17 @@ Sudborough, J.J., *f399*
 
 Sudharma, 150
 
-Śriyappācārya, *see * Śriyaḥpatyācārya, 
+Śriyappācārya, *see*Śriyaḥpatyācārya, 
 
-Sugaṭūru; *pāḷeyagāra * identities confused, 
+Sugaṭūru; *pāḷeyagāra*identities confused, 
 
 Hulugi
 
-348; *pāḷeyagāra * lineage, 348–366
+348; *pāḷeyagāra*lineage, 348–366
 
 *Śr̥ṇgāralaharī *\(musical work\), *f133*, 289
 
-Sugrīva, *vānara * king, *f42*
+Sugrīva, *vānara*king, *f42*
 
 458
 
@@ -3729,7 +3729,7 @@ Sumatēndra Maṭha, 193
 
 Tammēgauḍa, of Sugaṭuru, 287; move
 
-Sundara Śāstri, *stu/o * Viśvēśvara Śāstri, 331
+Sundara Śāstri, *stu/o*Viśvēśvara Śāstri, 331
 
 from Hosakōṭe to Ānēkallu, 358, 382
 
@@ -3737,11 +3737,11 @@ Sundararāma Ayyar, 320
 
 Tañjāv ūru, 193, *f520*, *f588*; *Bharatanāṭyam* *Sundarēśacarita *\(Mummuḍi
 
-Quartet, *f520*; *Nāyakas * of, 387; 
+Quartet, *f520*; *Nāyakas*of, 387; 
 
 Tammegauḍa\), 363
 
-*Nāyaka * emissary to Mais ūru, 193, 
+*Nāyaka*emissary to Mais ūru, 193, 
 
 S ūrappa, *Śirastedār*, 170, *f464*
 
@@ -3797,7 +3797,7 @@ Svāti Tirunāl., *f806*
 
 Thamboo Chetty, *f343*
 
-*Syādvāda * system of logic, *f465*
+*Syādvāda*system of logic, *f465*
 
 *tilaka*, *f143*
 
@@ -3817,7 +3817,7 @@ Tait, J.G., *f12*, 318, 319
 
 246
 
-*Taittirīya*; *Saṁhitā*, *f711*; *Upaniṣad*, *f673*; Timmappa Śāstri, *b/o * Garaḷapurī Śāstri, 12, 
+*Taittirīya*; *Saṁhitā*, *f711*; *Upaniṣad*, *f673*; Timmappa Śāstri, *b/o*Garaḷapurī Śāstri, 12, 
 
 *¯*
 
@@ -3827,7 +3827,7 @@ Tait, J.G., *f12*, 318, 319
 
 Takṣaka, 150
 
-Timmappa Śāstri, *s/o * Veṇkaṭarāmābhaṭṭa, 
+Timmappa Śāstri, *s/o*Veṇkaṭarāmābhaṭṭa, 
 
 *Tāḷe *\[ *Pandanus odoratissimus*\], *f408*
 
@@ -3841,7 +3841,7 @@ Tāḷikōṭe, battle of, *f52*, *f54*, 357, 372, 374, Timmappayya Śāstri, 15
 
 *f782*; aftermath, 374; artillery in, 373
 
-Timmarāja, *b/o * Śrīraṇga, 389
+Timmarāja, *b/o*Śrīraṇga, 389
 
 *t‘alluqa*, Mughal land tenure, xxxii
 
@@ -3851,7 +3851,7 @@ Timmē Gauḍa, Sugaṭūru *pāḷeyagāra*, 348
 
 *Ti ˙nantar ūpāvali *\(Śrīkaṇṭha Śāstri\), 292; 
 
-Tamil., *see * Tamiz. 
+Tamil., *see*Tamiz. 
 
 misappropriated by friend, *f337*
 
@@ -3869,7 +3869,7 @@ T.ippu Sultān, xxiii, *f77*, *f120*, *f225*, *f250*, Tammaṇṇa Śāstri, of 
 
 Tiramakuḍi Appaṇṇācārya, *stu/o*
 
-Tammaṇṇabhaṭṭa, *gs/o * Tammaṇṇa Śāstri, 
+Tammaṇṇabhaṭṭa, *gs/o*Tammaṇṇa Śāstri, 
 
 Rāmaśāstri, 205
 
@@ -3881,7 +3881,7 @@ index
 
 459
 
-Tirumak ūḍalu, 10, 13, 22, *f83*; fiive *liṇgas * of, *Tryambakaśāstripatra *\(Tryambaka Śāstri\), 
+Tirumak ūḍalu, 10, 13, 22, *f83*; fiive *liṇgas*of, *Tryambakaśāstripatra *\(Tryambaka Śāstri\), 
 
 14; Jñānavāpī Tīrtha, 14; Sphaṭika
 
@@ -3889,7 +3889,7 @@ Tirumak ūḍalu, 10, 13, 22, *f83*; fiive *liṇgas * of, *Tryambakaśāstripat
 
 lake, 13; temples of, 13, *f69*
 
-Tukābāī *w/o * Śāhji, 359
+Tukābāī *w/o*Śāhji, 359
 
 Tirumala *Nāyaka*, of Madurai, *f213*, 389
 
@@ -3899,7 +3899,7 @@ Tirumala Rāja, Veṇkaṭāpati II viceroy, 375
 
 Tuḷasitōṭa, Beṇgaḷūru, 317
 
-Tirumala Rāya, *b/o Aḷiya * Rāma Rāya, *f54*, 
+Tirumala Rāya, *b/o Aḷiya*Rāma Rāya, *f54*, 
 
 Tuḷu language, *f491*
 
@@ -3907,7 +3907,7 @@ Tuḷu language, *f491*
 
 Tuḷuvas, *f43*
 
-Tirumala Rāya, *gf/o Aḷiya * Rāma Rāya, *f43*
+Tirumala Rāya, *gf/o Aḷiya*Rāma Rāya, *f43*
 
 Tuṇgabhadrā river, 5
 
@@ -3943,7 +3943,7 @@ Uc
 
 Tirupati, 324
 
-*. *, *see śrauta * rituals
+*. *, *see śrauta*rituals
 
 *Upadeśasahasrī *\(Saṇkara\), *f476*
 
@@ -3959,7 +3959,7 @@ Tiruvāḍi conference, *f17*, 320
 
 *Upādhiman*
 
-Tiruvanantapuram, *see * Anantaśayana
+Tiruvanantapuram, *see*Anantaśayana
 
 *. ḍana *\(Tryambaka Śāstri\), *f476*
 
@@ -3995,7 +3995,7 @@ Tōgire Śrīkan
 
 *.atsāra *\(Subrahmaṇya Śāstri\), 313
 
-. ṭhaśāstri, *stu/o * Rāmaśāstri, 
+. ṭhaśāstri, *stu/o*Rāmaśāstri, 
 
 *upavītam*, *f703*
 
@@ -4015,7 +4015,7 @@ Tonḍaimān Bahādūr, Rāmacandra, *f569*
 
 *toṭṭi*, palace administrative unit, *f381*
 
-Usha Uday, *dl/o * Maṇgaḷāmbā, *f777*
+Usha Uday, *dl/o*Maṇgaḷāmbā, *f777*
 
 *tovve*, *f739*
 
@@ -4031,17 +4031,17 @@ Tīrtha, *f585*; Satyasantuṣṭa Tīrtha, *see*
 
 Travancore, *f618*
 
-*G ūḷi * Bāḷācārya; Satyavijaya Tīrtha, 
+*G ūḷi*Bāḷācārya; Satyavijaya Tīrtha, 
 
 tributary state, *f618*
 
-*see * Varkhed. Timmaṇṇācārya
+*see*Varkhed. Timmaṇṇācārya
 
 trigonometry, *f586*
 
 *Uttaravāda *\(Kuṇigala Rāmaśāstri\), 270, 
 
-Trimakuṭi, *see * Tirumakūḍalu
+Trimakuṭi, *see*Tirumakūḍalu
 
 294
 
@@ -4075,7 +4075,7 @@ Vāgbhaṭa, 40, *f113*, *f149*
 
 sons of sarasvatī
 
-*vaidika*, *see under * brāhmaṇas
+*vaidika*, *see under*brāhmaṇas
 
 Vēl ūr, 377
 
@@ -4095,7 +4095,7 @@ Veṇkappayya, *Pradhāni*, *f609*
 
 Veṇkaṭa Dēva Rāya II, 375, 377, 379
 
-*Vaiṣṇava*, *see under * brāhmaṇas
+*Vaiṣṇava*, *see under*brāhmaṇas
 
 Veṇkaṭa Dēva Rāya III, 376–380, 383–385
 
@@ -4105,7 +4105,7 @@ Venkatachala Sastry, ṬV., xv, *f112*, *f114*, *f134*
 
 *Vaiśya*, 303
 
-Veṇkaṭadāsappa, *see * Aṇṇayya Śāstri, the
+Veṇkaṭadāsappa, *see*Aṇṇayya Śāstri, the
 
 *Vaiyākaraṇa Siddhānta Kaumudi*
 
@@ -4113,7 +4113,7 @@ father
 
 \(Bhaṭṭoji Dīkṣita\), *f261*
 
-Veṇkaṭakr̥ṣṇa Śāstri, *s/o * Śrīkaṇṭha Śāstri, *Vājasaneyīyasaṁhitā*, *f711*
+Veṇkaṭakr̥ṣṇa Śāstri, *s/o*Śrīkaṇṭha Śāstri, *Vājasaneyīyasaṁhitā*, *f711*
 
 83, 100, 102, 109–113, *f187*, *f267*, *f398*
 
@@ -4121,25 +4121,25 @@ Veṇkaṭakr̥ṣṇa Śāstri, *s/o * Śrīkaṇṭha Śāstri, *Vājasaneyīy
 
 Veṇkaṭakr̥ṣṇayya, M., 103, 104, 119, *f328*, 
 
-Vāli, *vānara * king, *f42*
+Vāli, *vānara*king, *f42*
 
 *f330*, *f332*, 341, *f342*, *f374*, *f672*
 
 Vana, state in Kaṭhiavār, *f774*
 
-Veṇkaṭalakṣamma, *see * Veṇkaṭalakṣmī
+Veṇkaṭalakṣamma, *see*Veṇkaṭalakṣmī
 
 Vanaparti, 234
 
-Veṇkaṭalakṣmī, *gd/o r̥tvik * Veṇkaṭaramaṇa
+Veṇkaṭalakṣmī, *gd/o r̥tvik*Veṇkaṭaramaṇa
 
 Vāñchēśvara \[Kuṭṭi\] Kavi, *f588*
 
 Śāstri, 97
 
-Vāñchēśvara Yajvan \[Sūri\], *see * Kuṭṭi Śāstri
+Vāñchēśvara Yajvan \[Sūri\], *see*Kuṭṭi Śāstri
 
-Veṇkaṭalakṣmī, *gd/o * Śrīkaṇṭha Śāstri, 109
+Veṇkaṭalakṣmī, *gd/o*Śrīkaṇṭha Śāstri, 109
 
 Vāṇī Vilāsa Sannidhāna; 
 
@@ -4147,7 +4147,7 @@ Veṇkat
 
 Kempanañjamman
 
-.alakṣmī, *w/o * Kr̥ṣṇa, 90
+.alakṣmī, *w/o*Kr̥ṣṇa, 90
 
 . ṇi, *f385*
 
@@ -4195,7 +4195,7 @@ Veṇkaṭarām, Sarōjā, xxvi, *f133*, *f161*, *f233*, Varkhed
 
 *vārttika*, *f96*, *f303*
 
-Veṇkaṭarāmā Śāstri, *b/o * Garaḷapurī Śāstri, 
+Veṇkaṭarāmā Śāstri, *b/o*Garaḷapurī Śāstri, 
 
 Vāsared
 
@@ -4213,13 +4213,13 @@ Veṇkaṭarāma Śrauti, 345
 
 Vāsudēvaśāstri of Doḍḍabaḷḷāpura, 162
 
-Veṇkaṭarāmābhaṭṭa, *gs/o * Tammaṇṇa
+Veṇkaṭarāmābhaṭṭa, *gs/o*Tammaṇṇa
 
 Vāsuki, 150
 
 Śāstri, 10, 345
 
-*vaṭhāra*, *f116*; of *Vīṇe * Veṇkaṭasubbayya, 25, Veṇkaṭarāmabhaṭṭa, of Muḷabāgilu, 
+*vaṭhāra*, *f116*; of *Vīṇe*Veṇkaṭasubbayya, 25, Veṇkaṭarāmabhaṭṭa, of Muḷabāgilu, 
 
 41, *f118*, *f138*, *f167*, *f226*
 
@@ -4227,7 +4227,7 @@ Vāsuki, 150
 
 Vēdamu Veṇkaṭarāya Śāstri, *f590*
 
-Veṇkaṭaramaṇa Śāstri, *f/o * Śrīkaṇṭha Śāstri, 
+Veṇkaṭaramaṇa Śāstri, *f/o*Śrīkaṇṭha Śāstri, 
 
 *vēdāṇgas*, *f502*
 
@@ -4235,17 +4235,17 @@ Veṇkaṭaramaṇa Śāstri, *f/o * Śrīkaṇṭha Śāstri,
 
 *Vēdānta*, 162, 226, *f502*, *f662*
 
-100, 143, *f242, f243*, *f249*, *f295*, *f299*, *Vēdānta * Rāmappa, *stu/o * Rāmaśāstri, 205
+100, 143, *f242, f243*, *f249*, *f295*, *f299*, *Vēdānta*Rāmappa, *stu/o*Rāmaśāstri, 205
 
 *f308*, *f346*, *f398*, *f480*
 
-*Vēdic * recitation; *Sāmavēda*, *f229*, *f760*; Veṇkaṭaramaṇa Śāstri, *gs/o * Śrīkaṇṭha
+*Vēdic*recitation; *Sāmavēda*, *f229*, *f760*; Veṇkaṭaramaṇa Śāstri, *gs/o*Śrīkaṇṭha
 
 *pāṭhas*, *f460*
 
 Śāstri, xxix, xxxi, 109, 113, 115, 119, 134, 
 
-*Vēdic * rituals, *see also yāga*; survivals, *f597*
+*Vēdic*rituals, *see also yāga*; survivals, *f597*
 
 140, 143, 146, 147, *f187*; 1st, 2nd, 3rd
 
@@ -4267,29 +4267,29 @@ index
 
 Veṇkaṭaramaṇayya, of Cennarāyapaṭṭaṇa, 
 
-*Vīṇe * Sāmbayya, 92
+*Vīṇe*Sāmbayya, 92
 
 319
 
-*Vīṇe * Śēṣaṇṇa, *Cikka*, *f117*
+*Vīṇe*Śēṣaṇṇa, *Cikka*, *f117*
 
 Veṇkaṭarāmayya, D., 321
 
-*Vīṇe * Śēṣaṇṇa, *Doḍḍa*, 25, *f117*
+*Vīṇe*Śēṣaṇṇa, *Doḍḍa*, 25, *f117*
 
 Veṇkaṭarāya Śāstri, *Anugamabhaṭṭācāri*, 
 
-*Vīṇe * Subbaṇṇa, *f117*
+*Vīṇe*Subbaṇṇa, *f117*
 
 229–231
 
-*Vīṇe * Veṇkaṭasubbayya, 25, *f116*, *f226*
+*Vīṇe*Veṇkaṭasubbayya, 25, *f116*, *f226*
 
 Veṇkaṭasāmayyar, K., 104
 
 Vinōbā Bhāve, *f736*
 
-Veṇkaṭasubbamma, *gd/o * Śrīkaṇṭha Śāstri, 
+Veṇkaṭasubbamma, *gd/o*Śrīkaṇṭha Śāstri, 
 
 Vīraṇṇa Nāyaka, *f243*
 
@@ -4299,7 +4299,7 @@ Vīrarāghava, *f506*
 
 Veṇkaṭasubbaśarma, *f136*, *f226*, 335, *see also* *Vīraśaiva*, *f132*, *see also Liṇgāyata*; Ayyā Śāstri
 
-*Vīramāhēśvara * sect, *f132*
+*Vīramāhēśvara*sect, *f132*
 
 Veṇkaṭasubbayya, 132
 
@@ -4311,7 +4311,7 @@ Viśākhadatta, *f114*
 
 Veṇkaṭēśaśāstri of Soṇḍekoppa, 310
 
-Viśālākṣī, *d/o * Ayyā Śāstri, 139, 141
+Viśālākṣī, *d/o*Ayyā Śāstri, 139, 141
 
 Veṇkōbarāv, minister, 44
 
@@ -4325,11 +4325,11 @@ Viṣṇu \(deity\), 44, *f512*, *f638*, *f733*
 
 *Viṣṇudharmottara Purāṇa*, *f468*
 
-Vidyām ūrti, *ggs/o * Śrīkaṇṭha Śāstri, 147, 148
+Vidyām ūrti, *ggs/o*Śrīkaṇṭha Śāstri, 147, 148
 
 Viṣṇupādācārya, 226
 
-Vidyānagara, *see * Vijayanagara
+Vidyānagara, *see*Vijayanagara
 
 *Viṣṇusahasranāma*, 147
 
@@ -4341,19 +4341,19 @@ Vidyānātha, *f122*, *f205*
 
 *f469*
 
-*Vidyānidhi * Vāsudēvā Śāstri of
+*Vidyānidhi*Vāsudēvā Śāstri of
 
 Viśvēśvara Śāstri, Chappalli, 315–320, 331
 
 Doḍḍabaḷḷāpura, 205, 255, 310, 313; 
 
-Viṭṭhala *b/o Cinna * Timma, 389
+Viṭṭhala *b/o Cinna*Timma, 389
 
-*stu/o * Rāmaśāstri, 204
+*stu/o*Rāmaśāstri, 204
 
 Viṭṭhalēśa Upādhyāya, 188, 279, *f506*
 
-Vidyāp ūrṇa Tīrtha, *Svāmi * of Vyāsarāya
+Vidyāp ūrṇa Tīrtha, *Svāmi*of Vyāsarāya
 
 *Viṭṭhalēśōpādhyāyī *\(Viṭṭhalēśa\), *f506*
 
@@ -4379,7 +4379,7 @@ Voḍeyar, Kaṇṭhīrava Narasa Rāja, 382
 
 \(Tirumalācārya\), *f183*
 
-Voḍeyar, *Khāsa * Cāmarāja, *f240*, *f246*, *f274*
+Voḍeyar, *Khāsa*Cāmarāja, *f240*, *f246*, *f274*
 
 Vijayanagara, 4–9, *f43*, *f52*, *f83*, *f243*, Voḍeyar, Kr̥ṣṇarāja III, 26, 30, 76, 84, 85, 
 
@@ -4393,7 +4393,7 @@ Vijayanagara, 4–9, *f43*, *f52*, *f83*, *f243*, Voḍeyar, Kr̥ṣṇarāja II
 
 *f588*; allowance from British, *f523*; 
 
-Vijayarāghavācārya, *stu/o * Rāmaśāstri, 226, 
+Vijayarāghavācārya, *stu/o*Rāmaśāstri, 226, 
 
 death of, xx, 40, *f166 *; languages
 
@@ -4425,7 +4425,7 @@ Voḍeyar, Rāja, 375
 
 *Vr̥ddhaseviṉī *\(Tirumalācārya\), *f183*
 
-*Vīṇe * Padmanābhayya, *f292*
+*Vīṇe*Padmanābhayya, *f292*
 
 *vr̥tti*, *f58*, 301; value of, *f240*
 
@@ -4435,9 +4435,9 @@ sons of sarasvatī
 
 *vyākaraṇa*, *f502*
 
-*saṁsthas*, *f600*; *Jyōtiṣṭōma * by
+*saṁsthas*, *f600*; *Jyōtiṣṭōma*by
 
-*Vyākaraṇa * Narasiṁhaśāstri, 23, 30, *f604*
+*Vyākaraṇa*Narasiṁhaśāstri, 23, 30, *f604*
 
 Mitranārayaṇa, *f601*; *Sarvatōmukha*, 
 
@@ -4461,7 +4461,7 @@ of, *f690*; implements for, *f688*
 
 *Vyāptipañcakarahasya *\(Mathurānātha\), 
 
-Yajñanārāyaṇa Śāstri, *ggf/o * Kuṇigala
+Yajñanārāyaṇa Śāstri, *ggf/o*Kuṇigala
 
 *f503*
 
@@ -4469,7 +4469,7 @@ Rāmaśāstri, 166
 
 Vyāsa *muni*, *f299*
 
-Yajñanārāyaṇa Śāstri, *s/o * Kuṇigala
+Yajñanārāyaṇa Śāstri, *s/o*Kuṇigala
 
 *Vyāsa Smr̥ti*, *f535*
 
@@ -4489,11 +4489,11 @@ Vyāsarāya *Svāmi*, *f83*, *f551*, *f562*
 
 *Yajurvēda*, 301
 
-Vyāsatīrtha, *see * Vyāsarāya *Svāmi*
+Vyāsatīrtha, *see*Vyāsarāya *Svāmi*
 
 *yakṣagāna*, 31, 33, 337
 
-Vyāsavarya, *f/o * Hanumadācārya, *f506*
+Vyāsavarya, *f/o*Hanumadācārya, *f506*
 
 *Yakṣapraśṇe *\(Ayyā Śāstri\), 341
 
@@ -4503,7 +4503,7 @@ Vyāsavarya, *f/o * Hanumadācārya, *f506*
 
 294
 
-*yaśobh ūṣaṇa * composition, *f122*
+*yaśobh ūṣaṇa*composition, *f122*
 
 *Yavanayāmiṉī Vinōda Kathegaḷu*
 
@@ -4515,11 +4515,11 @@ Wellesley, Arthur, *f352*
 
 Yeḍatore, 95–97, 100, 164, 166, 171, 271, 
 
-Wellesley, Richard, *see * Mornington, Earl of
+Wellesley, Richard, *see*Mornington, Earl of
 
 *f456 *; Arkēśvara temple, 164
 
-Wellington, Duke of, *see * Wellesley, Arthur
+Wellington, Duke of, *see*Wellesley, Arthur
 
 Yeḷandūr, *f225*
 
@@ -4539,7 +4539,7 @@ Y
 
 *yāga*, 200, *see also hōma, sōmayāga, yajña*, Yudhiṣṭhira, *f215*, *f675*
 
-*śrauta * rituals; *Agnicayana*, *f597*; 
+*śrauta*rituals; *Agnicayana*, *f597*; 
 
 *Agniṣṭōma*, 166, *f599*; *Atirātra*, 166; Z
 
