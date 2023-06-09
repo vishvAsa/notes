@@ -8,3 +8,9 @@ title = "+Plant growing"
 - guntha is equivalent to 101.17 square meters (sq m), 121 square yards (sq yd), or 1,089 square feet (sq ft). 
 - 1 unit (KA) of land is equivalent to 5.4 acres.
 - 2.5 acres = 1 hectare
+
+## Land types
+- Kharab land - Land, farm buildings which are unsuitable for farming at the time of surveys.
+  - A Kharab: Land owner has property rights.
+  - B Kharab: Government holds property rights.
+

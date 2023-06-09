@@ -587,7 +587,7 @@ Note: This is a *gata-pratyāgata* verse, each *pāda* of which is a palindrome,
 
 *Vidvān*ḤV. Nagaraja Rao
 
-Letter from Veṇk ōba Rāv and Rāmacandra Rāv to Mais ūru. 
+Letter from Veṇkōba Rāv and Rāmacandra Rāv to Maisūru. 
 
 \(An invitation to the *paṇḍitas*to attend the *Bhāgavatasaptāha*celebration to take place in Mahārāṣtra. *The first 22 ślōkas of the letter of the invitation* *have been lost. *\)
 
