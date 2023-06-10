@@ -626,30 +626,33 @@ gold 0.004
 
 Table 15.9: Example material abundances in the earth's crust, in parts per million by mass.
 
-Evaluating the uranium reserves in energy terms is the most revealing approach. First, we take 0.72% of the 7.6 million tons available to represent the portion of uranium in the form of 235U. Enrichment (next section) will not separate all of the 235U, and the reactor can't burn all of it away before the fuel rod is essentially useless. So optimistically, we burn half of the mined 235U in the reactor. Multiplying the resulting 27,300 tons of usable 235U by the 17 million kcal/g we derived earlier yields a total of 2×1021 J. Table 15.10 puts this in context against fossil fuel proven reserves from page 127. We see from this that proven uranium reserves give us only 20% as much energy as our proven oil reserves, and about 5% of our total remaining fossil fuel supply. If we tried to get all 18 TW from this uranium supply, it would last less than 4 years! This does not sound like a salvation.
+Evaluating the uranium reserves in energy terms is the most revealing approach. First, we take 0.72% of the 7.6 million tons available to represent the portion of uranium in the form of 235U. Enrichment (next section) will not separate all of the 235U, and the reactor can't burn all of it away before the fuel rod is essentially useless. So optimistically, we burn half of the mined 235U in the reactor. Multiplying the resulting 27,300 tons of usable 235U by the 17 million kcal/g we derived earlier yields a total of 2×1021 J. Table 15.10 puts this in context against fossil fuel proven reserves from page 127. We see from this that proven uranium reserves give us only 20% as much energy as our proven oil reserves, and about 5% of our total remaining fossil fuel supply. If we tried to get all 18 TW from this uranium supply, it would last less than 4 years!+++(5)+++ This does not sound like a salvation.
 
-Proven uranium reserves would last 90 years at the current rate of use, so really it is in a category fairly similar to that of fossil fuels in terms of finite supply. To be fair, proven reserves are always a conservative lower limit on estimated total resource availability. And since fuel cost is not the limiting factor for nuclear plants, higher uranium prices can make more available, from more difficult deposits. Still, even a factor of two more does not transform the story into one of an ample, worry-free
-resource.
-Table 15.10: Proven reserves, in energy terms.
-Fuel
-1021 J
-Coal
-Oil
-10
-Gas
-235U
-2902
-15.4.4.2 Breeder Reactors
-In its native form, 235U is too dilute in natural uranium-overwhelmingly dominated by 238U-to even work in a nuclear reactor. It must be enriched to 3-5% concentration to become viable.[^40] Enrichment is difficult to achieve. Chemically, 235U and 238U behave identically. The masses are so close just 1% different-that mechanical processes have a difficult time differentiating. Centrifuges are commonly used to allow heavier 238U to sink faster41 than 235U. But it's inefficient and usually requires many iterations to work up higher concentrations. The process is also lossy, in that not all of the 235U finds its way to the enriched pile.[^42]
-But what if we could use the bulk uranium, 238U, in reactors and not only save ourselves the hassle of enrichment, but also gain access to 140 times more material, in effect? Doing so would turn the proven reserves of uranium into about 7 times more energy supply than all of our remaining fossil fuels. Well, it turns out that despite its not being
-235 U
+Proven uranium reserves would last 90 years at the current rate of use, so really it is in a category fairly similar to that of fossil fuels in terms of finite supply. To be fair, proven reserves are always a conservative lower limit on estimated total resource availability. And since fuel cost is not the limiting factor for nuclear plants, higher uranium prices can make more available, from more difficult deposits. Still, even a factor of two more does not transform the story into one of an ample, worry-free resource.
+
+Table 15.10: Proven reserves, in energy terms.  
+Fuel $10^21$J  
+Coal 20  
+Oil 10  
+Gas 8  
+235U 2
+
+[[290]]
+
+#### 15.4.4.2 Breeder Reactors
+In its native form, 235U is too dilute in natural uranium-overwhelmingly dominated by 238U-to even work in a nuclear reactor. It must be enriched to 3-5% concentration to become viable.[^40] 
+
 
 [^40]: Uranium bombs need at least 20% concentration, but typically aim for 85% to be considered weapons grade.
 
-[^41]:
-in gaseous form
+Enrichment is difficult to achieve. Chemically, 235U and 238U behave identically. The masses are so close just 1% different-that mechanical processes have a difficult time differentiating. Centrifuges are commonly used to allow heavier 238U to sink faster[^41] than 235U. But it's inefficient and usually requires many iterations to work up higher concentrations. The process is also lossy, in that not all of the 235U finds its way to the enriched pile.[^42]
 
-[^42]: Depleted uranium is defined as contain- ing 0.3% or less in the form of 235U, which is not a huge reduction from the 0.72% start- ing point.
+[^41]: in gaseous form
+
+[^42]: Depleted uranium is defined as containing 0.3% or less in the form of 235U, which is not a huge reduction from the 0.72% starting point.
+
+But what if we could use the bulk uranium, 238U, in reactors and not only save ourselves the hassle of enrichment, but also gain access to 140 times more material, in effect? Doing so would turn the proven reserves of uranium into about 7 times more energy supply than all of our remaining fossil fuels. Well, it turns out that despite its not being
+235 U
 
 
 259
