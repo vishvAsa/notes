@@ -295,56 +295,45 @@ Nuclear binding energy is incredibly strong[^15] and is able to overpower the na
 
 it is very powerful on short length scales, but ceases to operate much beyond the confines of the nucleus. Think about binding energy this way: if we tried to pry a proton or a neutron (nucleon, generically) away from a nucleus, we would encounter a very powerful force opposing the action. But let's say we persist, and do work in extracting the nucleon by the usual recipe of force times distance. It is so much work, in fact, that $Δm = ΔE/c^2$ becomes relevant, measurably altering the mass.
 
-Table 15.5 walks through some example calculations, one of which is traced in Example 15.3.2. Because the 1H nuclide is just a lone proton, it has no binding energy.
-Nucleus Emp,n,e
-1H 1.007825
-2H
-2.016490
-actual m
-1.007825
-2.014102 0.002388
-Am Amc2 (MeV) MeV per nucleon
-0
-0
-0
-2.22
-1.11
-4He
-4.032980
-4.002603 0.030377
-28.29
-7.07
-12C
-12.09894
-12.000000 0.098940
-92.16
-7.68
-56 Fe
-235U
-56.46340 55.934942 0.528447
-236.9590 235.043920 1.915065
-492.25
-8.79
-1783.85
-7.59
-Example 15.3.2 Following the entry in Table 15.5 for 56Fe, we first multiply the individual proton, neutron, and electron masses from Table 15.4 by the 26 protons, 30 neutrons, and 26 electrons comprising 56 Fe to get a sum-of-parts value of 56.46340 a.m.u..17
+Table 15.5 walks through some example calculations, one of which is traced in Example 15.3.2. (Grab a calculator and follow Example 15.3.2 yourself!) Because the 1H nuclide is just a lone proton, it has no binding energy.
+
+Nucleus $Σm_{p,n,e}$ actual-m Δm $Δmc^2$(MeV) MeV_per_nucleon  
+1H 1.007825 1.007825 0 0 0  
+2H 2.016490 2.014102 0.002388 2.22 1.11  
+4He 4.032980 4.002603 0.03037728.29 7.07  
+12C 12.09894 12.000000 0.098940 92.16 7.68  
+56Fe 56.46340 55.934942 0.528447 492.25 8.79  
+235U 236.9590 235.043920 1.915065 1783.85 7.59
+
+Table 15.5: Example nuclear binding energy calculations. The second column is the simple sum of masses of protons, neutrons, and Table 15.4. Next is measured electrons, per mass, then the difference. The difference is re-cast in MeV, representing the total binding energy of the nucleus, inexorably rising with the size of the nucleus. The final column divides by the mass number to get binding energy per nucleon, which peaks around iron. See Example 15.3.2 to understand how these numbers are computed.
+
+<details><summary>Example 15.3.2</summary>
+
+  
+Following the entry in Table 15.5 for 56Fe, we first multiply the individual proton, neutron, and electron masses from Table 15.4 by the 26 protons, 30 neutrons, and 26 electrons comprising 56 Fe to get a sum-of-parts value of 56.46340 a.m.u..[^17]
+
 The actual mass, as it appears for 56Fe in the Chart of the Nuclides is 55.934942 a.m.u., which is smaller by 0.528447 a.m.u.[^18]
-Since 1a.m.u. is 1.660539×$10^{-27}$ kg, we can convert this mass difference into kilograms, then multiply by c2, where c = 2.99792458 x 108 m/s to get the associated energy in units of Joules. Traditionally, nuclear physics adopts a more convenient scale of electron-volts, and in particular, the MeV.19 To get our mass-energy difference from Joules to MeV, we divide by 1.6022 × $10^{-13}$ J/MeV, and this is the 492 MeV number appearing in the Amc2 column of Table 15.5.
-Finally, we divide by the number of nucleons in the nucleus-A = 56 in this case to determine how much binding energy is present per nucleon-the significance of which will soon become clearer.
+
+Since 1a.m.u. is $1.660539×10^{-27}$ kg, we can convert this mass difference into kilograms, then multiply by c2, where c = 2.99792458 x 108 m/s to get the associated energy in units of Joules. 
+
+Traditionally, nuclear physics adopts a more convenient scale of electron-volts, and in particular, the MeV.[^19] To get our mass-energy difference from Joules to MeV, we divide by 1.6022 × $10^{-13}$ J/MeV, and this is the 492 MeV number appearing in the $Δmc^2$ column of Table 15.5.
+
+Finally, we divide by the number of nucleons in the nucleus- A = 56 in this case to determine how much binding energy is present per nucleon-the significance of which will soon become clearer.
+
+
+[^17]: Find this in Table 15.5.
+
+[^18]: These numbers also appear in Table 15.5.
+
+[^19]: 1 MeV is $10^6$ eV, and 1 eV is 1.6022 × $10^{-19}$ J (Sec. 5.9; p. 78).
+</details>
+
 Therefore, the difference between the sum-of-parts mass and actual nucleus mass in Table 15.5 provides a measure of how much binding energy holds the nucleus together.[^20]
-Notice that the first entry in Table 15.5 for the single-proton hydrogen atom has no binding energy in the nucleus: the lonely proton has no other nucleon to which it might bind. But deuterium (2H) has a proton and a neutron, held together by 2.2 MeV of binding energy. The binding
 
-248
-Grab a calculator and follow
-Example 15.3.2 yourself!
-Table 15.5: Example nuclear binding energy calculations. The second column is the sim- ple sum of masses of protons, neutrons, and Table 15.4. Next is measured electrons, per mass, then the difference. The difference is re-cast in MeV, representing the total bind- ing energy of the nucleus, inexorably rising with the size of the nucleus. The final col- umn divides by the mass number to get binding energy per nucleon, which peaks around iron. See Example 15.3.2 to under- stand how these numbers are computed.
-17: Find this in Table 15.5.
-18: These numbers also appear in Table
-15.5.
-19: 1 MeV is 106 eV, and 1 eV is 1.6022 × $10^{-19}$ J (Sec. 5.9; p. 78).
-20: ... thus how much energy would need to be supplied to completely unbind the entire nucleus, as in Figure 15.9
 
-energy per nucleon in the last column of Table 15.5 starts out small, but soon settles to the 7-9 range for most of the entries. It is extremely insightful to plot the binding energy per nucleon as a function of the nucleon mass number, A, which we do in Figure 15.10.
+[^20]: ... thus how much energy would need to be supplied to completely unbind the entire nucleus, as in Figure 15.9
+
+Notice that the first entry in Table 15.5 for the single-proton hydrogen atom has no binding energy in the nucleus: the lonely proton has no other nucleon to which it might bind. But deuterium (2H) has a proton and a neutron, held together by 2.2 MeV of binding energy. [[248]] The binding energy per nucleon in the last column of Table 15.5 starts out small, but soon settles to the 7-9 range for most of the entries. It is extremely insightful to plot the binding energy per nucleon as a function of the nucleon mass number, A, which we do in Figure 15.10.
 
 00
 8
@@ -1193,7 +1182,7 @@ Figure 15.22: Fusion concept: helium from deuterium.
 =
 =
 
-[^58]: The calculation is that 0.0287 a.m.u. cor- responds to Am = 4.8 x $10^{-29}$ kg, or E Amc2 4.2 x $10^{-12}$ J (26.7 MeV). We con- vert the Joules to kcal by dividing by 4,184, and then divide by the input mass in grams (4.03 a.m.u. times 1.6605 x $10^{-24}$ g/a.m.u.) to get 153 kcal/g. Starting with two deu- terium nuclei reduces energy yield a bit to to 137 kcal/g, and for deuterium-tritium reactions it's down to 81 million kcal/g.
+[^58]: The calculation is that 0.0287 a.m.u. cor- responds to Am = 4.8 x $10^{-29}$ kg, or E $Δmc^2$ 4.2 x $10^{-12}$ J (26.7 MeV). We con- vert the Joules to kcal by dividing by 4,184, and then divide by the input mass in grams (4.03 a.m.u. times 1.6605 x $10^{-24}$ g/a.m.u.) to get 153 kcal/g. Starting with two deu- terium nuclei reduces energy yield a bit to to 137 kcal/g, and for deuterium-tritium reactions it's down to 81 million kcal/g.
 
 [^59]: For temperatures this high, it does not matter whether we specify Kelvin or Cel- sius, as the 273 degree difference is nothing compared to a billion degrees. The scales are therefore essentially identical here.
 
