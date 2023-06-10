@@ -522,6 +522,10 @@ Multiplying the binding energy per nucleon by the number of nucleons provides a 
 
 The graphical method got us pretty close with little work, and hopefully led to a deeper understanding of what is going on. The rest of this paragraph explains the discrepancy, but should be considered non-essential reading. The fission process typically results in a few spare neutrons. Each left-over (unbound) neutron deprives us of at least 8 MeV in unrealized binding potential,[^33] and the subsequent β- decays from the neutron-rich daughter nuclei to stable nuclei also release energy not accounted in Table 15.7. Both of these contribute to the shortfall in comparing 172 MeV to 210 MeV, but even without this, we got a decent estimate just using the graph in Figure 15.10.
 
+
+[^33]: Each missing neutron deprives us of more than the standard ~8 MeV per nucleon, as neutrons have no penalty for repulsive electric charge. The 8 MeV per nucleon is an average over protons and neutrons.
+
+
 ### 15.4.4 Practical Implementations
 As we saw above, nuclear fission involves getting fissile nuclei generally 235U-to split apart by the addition of a neutron. The following criteria must be met:
 
@@ -534,16 +538,11 @@ As we saw above, nuclear fission involves getting fissile nuclei generally 235U-
 
 Figure 15.16 shows a typical configuration.
 
-255
+[[255]]
 
-[^33]: Each missing neutron deprives us of more than the standard ~8 MeV per nu- cleon, as neutrons have no penalty for repul- sive electric charge. The 8 MeV per nucleon is an average over protons and neutrons.
-control rod actuators
-control rods.
-steam out
-fuel rods.
-containment vessel
-water in
-Figure 15.16: Typical boiling water reactor design. A thick-walled containment vessel holds water surrounding 235U fuel rods.
+
+(Figure 15.16: Typical boiling water reactor design. A thick-walled containment vessel holds water surrounding 235U fuel rods.)
+
 The water acts as the moderator to slow neutrons and also circulates around the rods to carry heat away, boiling to form steam that can run a standard power plant. Control rods set the pace of the reaction based on how far they are inserted into the spaces between fuel rods. Extra control rods are poised above the reactor core ready to drop quickly into the core in case of emergency suddenly bringing the chain reaction to a halt.
 
 

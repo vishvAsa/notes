@@ -4,6 +4,12 @@ title = "natural-farming"
 
 - Masanobu Fukuoka's natural farming, "Do-Nothing Farming" . aka sahaja-kRShi.
 
+## Objectives
+### Dr Venkat's opinion
+- Increase "pore space" between soil particles; whence roots suck nutrients and water. Hence, organic matter is introduced. 
+- Soil organisms convert organic base into ingestible nutrients. Soil organisms weigh over 20x weight of life over the soil.
+- Must provide them air and water. Not chemicals.
+
 
 ## Techniques
 
@@ -42,3 +48,5 @@ no = minimal as per some like Kawaguchi, Bhaskar Save.
 - madhu - grows paddy without pesticides.
 - vIresha near rAghava's farm
 - Subhash Palekar and followers.
+- Dr Venkat (1923-2011) India's Permaculture pioneer. He utilized the Permaculture teachings of Bill Mollison and traditional Indian practices to create Permaculture concepts tailored to the Indian subcontinent.
+  - [YT](https://www.youtube.com/watch?v=aWbK1tZ8Ibk)
