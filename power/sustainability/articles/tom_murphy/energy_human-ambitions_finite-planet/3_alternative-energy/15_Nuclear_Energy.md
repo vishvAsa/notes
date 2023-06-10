@@ -335,237 +335,203 @@ Therefore, the difference between the sum-of-parts mass and actual nucleus mass 
 
 Notice that the first entry in Table 15.5 for the single-proton hydrogen atom has no binding energy in the nucleus: the lonely proton has no other nucleon to which it might bind. But deuterium (2H) has a proton and a neutron, held together by 2.2 MeV of binding energy. [[248]] The binding energy per nucleon in the last column of Table 15.5 starts out small, but soon settles to the 7-9 range for most of the entries. It is extremely insightful to plot the binding energy per nucleon as a function of the nucleon mass number, A, which we do in Figure 15.10.
 
-00
-8
-4He
-56 Fe
-235U
-249
-Binding Energy Per Nucleon (MeV)
-+
-M
-~
-2H
-1
-0
-0
-20 40 60 80
-100 120 140 160 180 200 220 240 260 Nuclear Mass Number, A
-The value of Figure 15.10 is hard to over-emphasize. Key take-aways
-are:
+{{< figure src="../images/binding-energy_vs_nuclear-mass-number.png" title="" class="thumbnail">}}
+
+Binding Energy Per Nucleon (MeV) vs Nuclear Mass Number, A
+
+Figure 15.10: Binding energy per nucleon as a function of total mass number, A. The nuclei featured in Table 15.5 are indicated as red points. Note in particular that 56Fe sits at the peak of the curve. Fusion operates from left to right, building larger nuclei, and fission goes from right to left, tearing apart nuclei. Only actions that climb this curve are energetically favorable, meaning that fusion is profitable on the left-hand side, and fission makes sense on the right: each driving toward the peak binding energy per nucleon.+++(5)+++
+
+The value of Figure 15.10 is hard to over-emphasize. Key take-aways are:
+
 1. Most nuclei are at around 8 MeV per nucleon, meaning that it would take an average of about 8 MeV of energy to rip out each member (proton or neutron) from a nucleus;
-2. The peak is at 56Fe,[^21] meaning that this is the most tightly bound
-nucleus;22
+2. The peak is at 56Fe,[^21] meaning that this is the most tightly bound nucleus;[^22]
 3. The slope on the left side is much steeper than the slope on the right side, after the peak, which speaks to why fusion (building from small to big) is more potent than fission (tearing apart very massive nuclei);
-4. Fusion in stars does not build elements beyond the peak around iron, since to go beyond the peak is not energetically favorable.
+4. Fusion in +++(normal)+++ stars does not build elements beyond the peak around iron, since to go beyond the peak is not energetically favorable. +++(Heavier elements are formed in supernovae.)+++
+
+[^21]: Actually, 62Ni wins by a hair at 8.795 MeV/nuc, but is somewhat overlooked because it is only 0.006% as abundant as 56 Fe, whose binding energy per nucleon is essentially tied for the top at 8.790 MeV/nuc.
+
+[^22]: A peak exists because nucleons initially find advantage in binding together, but ultimately the increasing number of mutually repelling protons makes the environment less appealing for larger nuclides.
+
 It can be helpful to think of Figure 15.10 upside-down, as in Figure 15.11, turning the iron "peak" into a trough. A ball will roll toward and settle near the bottom of the trough, which is what both fusion and fission do, but from opposite directions.
-15.4 Fission
-Having covered some fundamentals, we are ready to tackle aspects of nuclear energy. Really it is very simple. Enough nuclear material in a
-Figure 15.10: Binding energy per nucleon as a function of total mass number, A. The nuclei featured in Table 15.5 are indicated as red points. Note in particular that 56Fe sits at the peak of the curve. Fusion operates from left to right, building larger nuclei, and fission goes from right to left, tearing apart nuclei. Only actions that climb this curve are energetically favorable, meaning that fusion is profitable on the the left-hand side, and fission makes sense on the right: each driving toward the peak binding energy per nucleon.
-21: Actually, 62Ni wins by a hair at 8.795 MeV/nuc, but is somewhat overlooked be- cause it is only 0.006% as abundant
-56 Fe, whose binding energy per nucleon is essen- tially tied for the top at 8.790 MeV/nuc.
-as
-22: A peak exists because nucleons initially find advantage in binding together, but ulti- mately the increasing number of mutually- repelling protons makes the environment less appealing for larger nuclides.
-fusion
-binding energy
-Fe
-fission
+
+
+
 Figure 15.11: Turning the binding energy curve upside-down makes it easier to con- ceptualize fusion and fission driving toward the most tightly bound point (iron), like a ball might roll.
 
-small
-space will get hot, for reasons detailed below. The heat is used to boil water into high-pressure steam, which then turns a turbine and generator (Figure 15.12). Note that a nuclear fission plant has much in common with a coal-fired power plant, as evidenced by the similarity of Figure 15.12 to Fig. 6.2 (p. 90). Only the source of heat is much different in origin.
-CONTAINMENT STRUCTURE
-Control Rods
-Reactor
-Switchyard
-1-
-Steam Generator
-Pump
-Turbine
-Steam Line
-Cooling Towers
-Generator
-Pump
-Condensor
-Cooling Water
-Water
+## 15.4 Fission
+Having covered some fundamentals, we are ready to tackle aspects of nuclear energy. Really it is very simple. Enough nuclear material in a small space will get hot, for reasons detailed below. The heat is used to boil water into high-pressure steam, which then turns a turbine and generator (Figure 15.12). Note that a nuclear fission plant has much in common with a coal-fired power plant, as evidenced by the similarity of Figure 15.12 to Fig. 6.2 (p. 90). Only the source of heat is much different in origin.
 
-250
-Reservoir
+{{< figure src="../images/nuclear-power-plant-schema.png" title="" class="thumbnail">}}
+
+[[250]]
+
 Figure 15.12: Typical nuclear power plant design, bearing much resemblance to the generic scheme from Figure 6.2. Details on the reactor core will follow in Section 15.4.4. Source: TVA.
-15.4.1 The Basic Idea
-Out of all the nuclides, three are amenable for use in a fission reactor.
-Two are isotopes of uranium: 233U and 235U; and one is plutonium: 239 Pu. Of these, only 235U is found in nature, so we will concentrate on this one, returning later to the other two when we talk about breeder reactors in Section 15.4.4.2.
-What makes 235U (and the other two) special is that a slow23 neutron- one just bumping around at a speed governed by the local temperature, and thus called a thermal neutron-can walk up to and stick24 to the nucleus and cause it to split into two large chunks-depicted in Figure 15.13. Other nuclei would not break up, just accepting the new neutron and possibly converting a neutron to a proton via β- decay.
-$ c
-n
-236U
-235U
-144 La
-Y
-90Br
-When the nucleus breaks up, the pieces fly out at high speed, carrying kinetic energy that will be deposited in the local material as they bump
 
-23: This is in contrast to a fast neutron that
+### 15.4.1 The Basic Idea
+Out of all the nuclides, three are amenable for use in a fission reactor.
+
+Two are isotopes of uranium: 233U and 235U; and one is plutonium: 239 Pu. Of these, only 235U is found in nature, so we will concentrate on this one, returning later to the other two when we talk about breeder reactors in Section 15.4.4.2.
+
+What makes 235U (and the other two) special is that a slow[^23] neutron- one just bumping around at a speed governed by the local temperature, and thus called a thermal neutron- can walk up to and stick[^24] to the nucleus and cause it to split into two large chunks-depicted in Figure 15.13.+++(5)+++ 
+
+[^23]: This is in contrast to a fast neutron that
 tends to bounce rather than stick to the
 nucleus.
-24: No forces prevent a neutron from ap- proaching a nucleus. Happening to hit the tiny nucleus is the only barrier.
-Figure 15.13: Fission schematic for 235U, showing one of many possible outcomes- in this case 90Br and 144La plus two neu- trons (an example case treated in detail in the text). The intermediate state, 236U, cre- ated when 235U absorbs a neutron, is highly unstable and will spontaneously break into (always) two different-size large fragments ("daughter" nuclei) and perhaps some extra neutrons. Gamma rays and kinetic energy (high-velocity fragments) are also released. Note that at each stage, the total number of nucleons is always 236.their way to a halt. Gamma rays25 are also released. By catching all of this energetic output, the surrounding material gets very hot and can be used to make steam.
 
-251
-25:
-very high energy photons
-15.4.2 Chain Reaction
+[^24]: No forces prevent a neutron from approaching a nucleus. Happening to hit the tiny nucleus is the only barrier.
+
+{{< figure src="../images/u235_fission.png" title="" class="thumbnail">}}
+
+Other nuclei would not break up, just accepting the new neutron and possibly converting a neutron to a proton via β- decay.
+
+
+
+Figure 15.13: Fission schematic for 235U, showing one of many possible outcomes- in this case 90Br and 144La plus two neutrons (an example case treated in detail in the text). The intermediate state, 236U, created when 235U absorbs a neutron, is highly unstable and will spontaneously break into (always) two different-size large fragments ("daughter" nuclei) and perhaps some extra neutrons. Gamma rays and kinetic energy (high-velocity fragments) are also released. Note that at each stage, the total number of nucleons is always 236.
+
+
+When the nucleus breaks up, the pieces fly out at high speed, carrying kinetic energy that will be deposited in the local material as they bump their way to a halt. Gamma rays[^25] are also released. By catching all of this energetic output, the surrounding material gets very hot and can be used to make steam.
+
+
+[^25]: very high energy photons
+
+[[251]]
+
+### 15.4.2 Chain Reaction
 As we have seen, in order to get fission to happen, we need 235U and some wandering neutrons. Once fission commences, the breakup of the nucleus usually "drips" a few spare neutrons, like crumbs left after cutting a piece of bread. The left-over neutrons provide a replenished source of neutrons ready to initiate more fission events. Now the door is open for a chain reaction, in which the neutrons produced by the fission events are the very things needed to stimulate additional fission events.
-When the nucleus splits, any extra neutrons come out "hot" (high speed), which tend to bounce off uranium nuclei without sticking. They need to be slowed down, which is accomplished by a moderator: basically light atoms26 that can receive the neutron impact as a sort of damping medium. Then the main trick is to prevent a runaway that could occur if too many neutrons become available; in which case it's a party that can get out of control. So nuclear plants employ control rods containing materials particularly effective at absorbing (trapping) neutrons. The colors of the lower halves of some squares in the Chart of the Nuclides (Figure 15.4) indicate neutron capture cross section. Boron (10B) is a favorite choice to soak up neutrons and tame (or even halt) the reaction. The goal is to maintain a chain reaction that produces a net balance of exactly one unabsorbed slow neutron per fission event, available to attach itself to a waiting 235U nucleus.
-15.4.3 Fission Accounting
+
+When the nucleus splits, any extra neutrons come out "hot" (high speed), which tend to bounce off uranium nuclei without sticking. They need to be slowed down, which is accomplished by a moderator: basically light atoms[^26] that can receive the neutron impact as a sort of damping medium.+++(4)+++ 
+
+[^26]: ... usually either water or carbon in the form of graphite
+
+Then the main trick is to prevent a runaway that could occur if too many neutrons become available; in which case it's a party that can get out of control. So nuclear plants employ control rods containing materials particularly effective at absorbing (trapping) neutrons. The colors of the lower halves of some squares in the Chart of the Nuclides (Figure 15.4) indicate neutron capture cross section. Boron (10B) is a favorite choice to soak up neutrons and tame (or even halt) the reaction. The goal is to maintain a chain reaction that produces a net balance of exactly one unabsorbed slow neutron per fission event, available to attach itself to a waiting 235U nucleus.
+
+
+### 15.4.3 Fission Accounting
 The nucleus (uranium in the present discussion) always breaks up into two largish pieces, possibly accompanied by a few liberated spare neutrons. Because of the way the track of stable elements curves on the Chart of the Nuclides, the resultant pieces are likely to be neutron rich, to the right of the stable nuclei. To understand this, refer to Figure 15.14 and the associated caption.
+
+{{< figure src="../images/u235_fission-yield-distribution.png" title="" class="thumbnail">}}
+
+Figure 15.14: Fission of 235U (small red square, upper right) tends to produce two neutron-rich fragments. If it split exactly in two, the result would lie at the midpoint of the orange line connecting 235U to the origin, at the yellow circle. In practice, an equal split is highly unlikely, as one fragment tends to be around A 95 and the other around A 140, as depicted by the probability histogram in green. The two green stars separated along the orange line represent a more likely outcome for the two fragments. As long as the green stars are located so that the yellow circle is exactly between them, the accounting of proton and neutron number is satisfied. Because the orange line lies to the right of the stable nuclei, the fission products tend to be neutron-rich and undergo a series of radioactive β-decays before reaching stability, which could take a very long time in some cases.
+
+
 The math always has to add up: nucleons are not created or destroyed during a fission event. They just rearrange themselves, so the total number of neutrons stays the same, as does the total number of protons. After the split, β decays will carry out flavor changes, but we'll deal with that part later.
-26: ... usually either water or carbon in the form of graphite
 
-proton number, Z
-A=50
-A=100
-A=150
-235U fission yield
-probabilities
-neutron number, N
-A=200
 
-252
-Figure 15.14: Fission of 235U (small red square, upper right) tends to produce two neutron-rich fragments. If it split exactly in two, the result would lie at the midpoint of the orange line connecting 235U to the origin, at the yellow circle. In practice, an equal split is highly unlikely, as one frag-
-ment tends to be around A 95 and the other around A
-Au
-140, as depicted by the probability histogram in green. The two green stars separated along the orange line represent a more likely outcome for the two fragments. As long as the green stars are located so that the yellow circle is exactly between them, the accounting of proton and neutron number is satisfied. Because the or- ange line lies to the right of the stable nuclei, the fission products tend to be neutron-rich and undergo a series of radioactive β-de- cays before reaching stability, which could take a very long time in some cases.
-90 Br
-Example 15.4.1 If one of the two fragments from the fission of a 235U nucleus (Z = 92) after adding a thermal neutron winds up being (Z = 35), what is the other nucleus going to be?
-=
+[[252]]
+
+
+|   | 235 U | 90 Br | 146 La | 145 La | 144 La | 143 La |
+|---|-------|-------|--------|--------|--------|--------|
+| A | 235   | 90    | 146    | 145    | 144    | 143    |
+| Z | 92    | 35    | 57     | 57     | 57     | 57     |
+| N | 143   | 55    | 89     | 88     | 87     | 86     |
+| n | 1     |       | 0      | 1      | 2      | 3      |
+
+Table 15.6: Possible outcomes for Example 15.4.1 if we set one of the daughter particles to be bromine-90, forcing the other daughter to be lanthanum. Different isotopes of lanthanum will result for differing numbers of spare neutrons left after the break-up (last row).
+
+
+<details><summary>Example 15.4.1</summary>
+
+If one of the two fragments from the fission of a 235U nucleus (Z = 92) after adding a thermal neutron winds up being (Z = 35), what is the other nucleus going to be?
+
 The other fragment will preserve total proton count, so Z = 92-35 = 57, and as such is destined to be the element lanthanum. Which isotope of lanthanum is produced depends on how many neutrons escape the split. Table 15.6 summarizes the particle counts of the various players.
+
 If no spare neutrons are left over, the lanthanum must have N 144 - 55 = 89 neutrons,[^27] in which case its mass number will be A = 146, so 146 La. If two neutrons are set free, then the lanthanum will only keep 87 neutrons and be 144 La, as depicted in Figure 15.13.
+
 Typically, about 2-3 neutrons are left out of the final fragments, and can go on to promote additional fission events in the chain reaction.
-235
-90 Br
-146 La 145La
-144 La
-143 La
-A
-235
-90
-146
-145
-144
-143
-Z
-92
-35
-57
-57
-57
-57
-N
-143
-55
-89
-88
-87
-86
-n
-1
-0
-1
-2
-3
-27: 235U had A - Z = 23592 143 neu- trons, plus the thermal neutron addition.
-=
-Being a probabilistic (random) process, each fission can result in a large set of possible "daughter" nuclei-only one set of which was explored in Example 15.4.1. As long as the masses all add up, and the two-hump probability distribution in Figure 15.14 is respected, anything goes. In other words, we have no control over exactly what pieces come out. Figure 15.15 provides a graphic illustration of four different possible pairs of daughter fragments. The counting requirement is satisfied by having the products located diametrically opposite from the 235U midpoint (yellow circle). The positions of the stars will distribute along A-values
 
-Table 15.6: Possible outcomes for Example 15.4.1 if we set one of the daughter particles to be bromine-90, forcing the other daugh- ter to be lanthanum. Different isotopes of lanthanum will result for differing numbers of spare neutrons left after the break-up (last row).
-according to the probability distribution (multi-colored histogram). Note the completely distinct peaks, conveying that virtually every fission event results in just two fragments: one bigger and one smaller. At least that aspect of fission is predictable, even if we can't say precisely which nuclei
-will be left after an individual fission event.
+[^27]: 235U had A - Z = 235-92 = 143 neutrons, plus the thermal neutron addition.
+</details>
 
-A=150 A=140
-A=120 A=110.
-A=130
-A=100
-A=90.
-A=80
-27
-< 1 day 1 to 10 days 10 to 100 days 100 days to 10 yr
-10 yr to 500 Myr
-235U fission yield probabilities
-253
-Figure 15.15: Various fission product out- comes are possible, indicated here by four sets of colored star pairs and connecting lines. The average position of each pair is the yellow circle (the stars are diametrically opposite the circle), which guarantees that the total number of neutrons and protons is unchanged from the parent nucleus to the daughter nuclei. To the extent that addi- tional neutrons are left behind like crumbs, the stars will displace to the left of their indicated positions a bit, as hinted by the lighter-shaded "ghost" stars, whose offsets from the nominal star positions will also vary depending on how many neutrons are left out of the two final fragments. The col- oring of the histogram indicates radioactive lifetime for the decay chain of a neutron-rich fragment at each mass number, matching the half-life color scheme used in Figure
-15.4.
+
+
+Being a probabilistic (random) process, each fission can result in a large set of possible "daughter" nuclei-only one set of which was explored in Example 15.4.1. As long as the masses all add up, and the two-hump probability distribution in Figure 15.14 is respected, anything goes. In other words, we have no control over exactly what pieces come out. 
+
+{{< figure src="../images/u235_fission-yield-halflife-distribution.png" title="" class="thumbnail">}}
+
+Figure 15.15: Various fission product outcomes are possible, indicated here by four sets of colored star pairs and connecting lines. The average position of each pair is the yellow circle (the stars are diametrically opposite the circle), which guarantees that the total number of neutrons and protons is unchanged from the parent nucleus to the daughter nuclei. To the extent that additional neutrons are left behind like crumbs, the stars will displace to the left of their indicated positions a bit, as hinted by the lighter-shaded "ghost" stars, whose offsets from the nominal star positions will also vary depending on how many neutrons are left out of the two final fragments. The coloring of the histogram indicates radioactive lifetime for the decay chain of a neutron-rich fragment at each mass number, matching the half-life color scheme used in Figure 15.4.
+
+
+Figure 15.15 provides a graphic illustration of four different possible pairs of daughter fragments. The counting requirement is satisfied by having the products located diametrically opposite from the 235U midpoint (yellow circle). The positions of the stars will distribute along A-values according to the probability distribution (multi-colored histogram). Note the completely distinct peaks, conveying that virtually every fission event results in just two fragments: one bigger and one smaller. At least that aspect of fission is predictable, even if we can't say precisely which nuclei will be left after an individual fission event.
+
+
+[[253]]  
+
 Let us now examine the energetics, using the result from Example 15.4.1, in which 235U breaks into 90Br and 144 La, plus two spare neutrons.[^28] To be explicit, the reaction we will trace is
-235U+n
-→>>>
-90 Br+ 144 La + 2n.
-(15.2)
-28: ...also matching the scenario in Figure 15.13 and the penultimate column of Table
-15.6
-Constituent/Stage
-mass (a.m.u.)
-mass (MeV/c2)
-235U
-n
-235.04392
-1.00866
-218,942.0
-939.6
-input mass
-236.05259
-219,881.6
-90 Br
-89.93069
-83,769.9
-144 La
-2n
-143.91955
-134,060.2
-2.01733
-1,879.1
-output mass
-235.86757
-219,709.3
-mass change
-0.18502
-172.3
-The masses of each piece, according to the Chart of the Nuclides, appear in Table 15.7. Again, we find that the mass sums don't equal: the final parts are lighter than the inputs. The fission managed to lose 0.185 a.m.u. of mass, corresponding to 172 MeV of energy (via $E = mc^2$; see Example 15.3.1). That's a 0.08% change in the mass, and converts to an energy density of roughly 17 million kcal/g, making the process over a million
 
-Table 15.7: Mass details of Eq. 15.2, track- ing before and after masses in both a.m.u. and MeV units. The input mass of around 236 a.m.u. is reduced by about 0.185 a.m.u., or 0.08%.
-times more energy-dense than our customary ~10 kcal/g chemical energy density. See Box 15.3 for an example of how to compute this.
-Box 15.3: Nuclear Energy Density
-The example corresponding to Table 15.7 is said to correspond to 17 million kcal/g, but how can we get here? The mass change of 0.185 a.m.u. corresponds to a mass in kilograms of 3.07 x $10^{-28}$ kg, according to the conversion that 1 a.m.u. is 1.6605 x $10^{-27}$ kg (Table 15.4). Multiply this by c2 to get energy in Joules, yielding 2.76 × $10^{-11}$ J.29 In terms of kcal, we divide by 4,184 J/kcal to find that this fission event yields 6.6 x 10-15 kcal.
-We now just need to divide by how many grams of "fuel" we supplied, which is 236.05 a.m.u. (Table 15.7), equating to 3.92 × $10^{-25}$ kg, or 3.92 × $10^{-22}$
-g. Now we divide 6.6 x $10^{-15}$ kcal by 3.92 × $10^{-22}$ get 16.8 × 106 kcal/g. Blows a burrito out of the water.
-g to
-Example 15.4.2 Considering that the average American uses energy at a rate of 10,000 W, how much 235U per year is needed to satisfy this
-demand for one individual?
-Since we have just computed the energy density of 235U to be 17 × 106 kcal/g (Box 15.3), let's first put the total energy in units of Joules, multiplying 104 W by 3.155 x 107 seconds in a year and then dividing by 4,184 J/kcal to get kilocalories. The result is 75 million kcal, so that an American's annual energy needs could be met by 4.5 g30 of 235U. That translates to about a quarter of a cubic centimeter, or a small pebble, at the density of uranium. Pretty amazing!
+235U+n → 90Br + 144La + 2n. (15.2)
+
+[^28]: ...also matching the scenario in Figure 15.13 and the penultimate column of Table 15.6
+
+Constituent/Stage mass(a.m.u.) mass(MeV/c2)
+235U 235.04392 218,942.0  
+n 1.00866 939.6  
+input mass 236.05259 219,881.6  
+
+90Br 89.93069 83,769.9  
+144La 143.91955 134,060.2
+2n 2.01733 1,879.1
+output-mass 235.86757 219,709.3
+
+mass change 0.18502 172.3
+
+Table 15.7: Mass details of Eq. 15.2, tracking before and after masses in both a.m.u. and MeV units. The input mass of around 236 a.m.u. is reduced by about 0.185 a.m.u., or 0.08%.
+
+The masses of each piece, according to the Chart of the Nuclides, appear in Table 15.7. Again, we find that the mass sums don't equal: the final parts are lighter than the inputs. The fission managed to lose 0.185 a.m.u. of mass, corresponding to 172 MeV of energy (via $E = mc^2$; see Example 15.3.1). That's a 0.08% change in the mass, and converts to an energy density of roughly 17 million kcal/g, making the process over a million times more energy-dense than our customary ~10 kcal/g chemical energy density. See Box 15.3 for an example of how to compute this.
+
+<details><summary>Box 15.3: Nuclear Energy Density</summary>
+
+The example corresponding to Table 15.7 is said to correspond to 17 million kcal/g, but how can we get here? The mass change of 0.185 a.m.u. corresponds to a mass in kilograms of 3.07 x $10^{-28}$ kg, according to the conversion that 1 a.m.u. is 1.6605 x $10^{-27}$ kg (Table 15.4). Multiply this by $c^2$ to get energy in Joules, yielding 2.76 × $10^{-11}$ J.[^29] In terms of kcal, we divide by 4,184 J/kcal to find that this fission event yields 6.6 x 10-15 kcal.
+
+[^29]: This result, by the way, is the same as 172.3 MeV in Table 15.7 using the conversion that 1 MeV is 1.6022 × $10^{-13}$ J.
+
+We now just need to divide by how many grams of "fuel" we supplied, which is 236.05 a.m.u. (Table 15.7), equating to 3.92 × $10^{-25}$ kg, or 3.92 × $10^{-22}$ g. Now we divide 6.6 x $10^{-15}$ kcal by 3.92 × $10^{-22}$g to get 16.8 × 106 kcal/g. Blows a burrito out of the water.
+</details>
+
+
+ 
+
+<details><summary>Example 15.4.2</summary>
+
+Considering that the average American uses energy at a rate of 10,000 W, how much 235U per year is needed to satisfy this demand for one individual?
+
+Since we have just computed the energy density of 235U to be 17 × 106 kcal/g (Box 15.3), let's first put the total energy in units of Joules, multiplying 104 W by 3.155 x 107 seconds in a year and then dividing by 4,184 J/kcal to get kilocalories. The result is 75 million kcal, so that an American's annual energy needs could be met by 4.5 g[^30] of 235U. That translates to about a quarter of a cubic centimeter, or a small pebble, at the density of uranium. Pretty amazing!
+
+[^30]: 75 million kcal divided by 17 million kcal/g is 4.5 g.
+
+</details>
+
 We can take a graphical shortcut to all of Section 15.4.3, which hopefully will tie things together in an instructive way.
-Example 15.4.3 Refer back to Figure 15.10 (and/or Table 15.5) to see that 235U has a binding energy of about 7.6 MeV per nucleon. Where we end up, around A≈ 95 and A≈ 140, the binding energies per nucleon are around 8.7 and 8.4 MeV/nuc at these locations, respectively.
-Multiplying the binding energy per nucleon by the number of nucleons provides a measure of total binding energy: in this case 1,790 MeV for 235U, about 825 MeV for the daughter nucleus around A≈ 95, and 1,175 MeV for A≈ 140.31 Adding the latter two, we find that the fission products have a total binding energy around 2,000 MeV, which is greater32 than the 235U binding energy by about 210 MeV-somewhat close to the 172 MeV computed for the particular example in Table
-15.7.
-The graphical method got us pretty close with little work, and hopefully led to a deeper understanding of what is going on. The rest of this
 
-254
-29: This result, by the way, is the same as 172.3 MeV in Table 15.7 using the conversion that 1 MeV is 1.6022 × $10^{-13}$ J.
-30: 75 million kcal divided by 17 million kcal/g is 4.5 g.
-31: 7.6 x 235; 8.7 x 95; and 8.4 x 140
-32: Binding energy reduces mass, so larger binding energy means lighter overall mass.
+ 
 
-paragraph explains the discrepancy, but should be considered non- essential reading. The fission process typically results in a few spare neutrons. Each left-over (unbound) neutron deprives us of at least 8 MeV in unrealized binding potential,[^33] and the subsequent β- decays from the neutron-rich daughter nuclei to stable nuclei also release energy not accounted in Table 15.7. Both of these contribute to the shortfall in comparing 172 MeV to 210 MeV, but even without this, we got a decent estimate just using the graph in Figure 15.10.
-15.4.4 Practical Implementations
-As we saw above, nuclear fission involves getting fissile nuclei generally 235U-to split apart by the addition of a neutron. The following criteria
-must be met:
+<details><summary>Example 15.4.3</summary>
+
+Refer back to Figure 15.10 (and/or Table 15.5) to see that 235U has a binding energy of about 7.6 MeV per nucleon. Where we end up, around A≈ 95 and A≈ 140, the binding energies per nucleon are around 8.7 and 8.4 MeV/nuc at these locations, respectively.
+
+Multiplying the binding energy per nucleon by the number of nucleons provides a measure of total binding energy: in this case 1,790 MeV for 235U, about 825 MeV for the daughter nucleus around A≈ 95, and 1,175 MeV for A≈ 140.[^31] Adding the latter two, we find that the fission products have a total binding energy around 2,000 MeV, which is greater[^32] than the 235U binding energy by about 210 MeV-somewhat close to the 172 MeV computed for the particular example in Table 15.7.
+
+
+[^31]: 7.6 x 235; 8.7 x 95; and 8.4 x 140
+
+[^32]: Binding energy reduces mass, so larger binding energy means lighter overall mass.
+
+</details>
+
+[[254]]
+
+The graphical method got us pretty close with little work, and hopefully led to a deeper understanding of what is going on. The rest of this paragraph explains the discrepancy, but should be considered non-essential reading. The fission process typically results in a few spare neutrons. Each left-over (unbound) neutron deprives us of at least 8 MeV in unrealized binding potential,[^33] and the subsequent β- decays from the neutron-rich daughter nuclei to stable nuclei also release energy not accounted in Table 15.7. Both of these contribute to the shortfall in comparing 172 MeV to 210 MeV, but even without this, we got a decent estimate just using the graph in Figure 15.10.
+
+### 15.4.4 Practical Implementations
+As we saw above, nuclear fission involves getting fissile nuclei generally 235U-to split apart by the addition of a neutron. The following criteria must be met:
+
 1. presence of nuclear fuel (235U);
-2. presence of neutrons, provided as left-overs from earlier fission
-events;
-3. a moderator to slow down neutrons that emerge from the fission
-events at high speed;
-4. a high enough concentration of nuclear fuel that the slowed-down
-spare neutrons are likely to find fissile nuclei;
-5. neutron absorbers in the form of control rods that can be lowered into the reactor and act as the main "throttle" to set reaction speed (thus power output), and also prevent a runaway chain reaction; 6. a containment vessel to mitigate radioactive particles (gamma rays, high-speed electrons and positrons) from escaping to the environment.
+2. presence of neutrons, provided as left-overs from earlier fission events;
+3. a moderator to slow down neutrons that emerge from the fission events at high speed;
+4. a high enough concentration of nuclear fuel that the slowed-down spare neutrons are likely to find fissile nuclei;
+5. neutron absorbers in the form of control rods that can be lowered into the reactor and act as the main "throttle" to set reaction speed (thus power output), and also prevent a runaway chain reaction; 
+6. a containment vessel to mitigate radioactive particles (gamma rays, high-speed electrons and positrons) from escaping to the environment.
+
 Figure 15.16 shows a typical configuration.
 
 255
