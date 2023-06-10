@@ -16,3 +16,6 @@ title = "India"
 - Oft, there's litigation from claimants (eg. sc/st-s, relatives). 
 - Lawyers check the documents going back to old times. Dishonest ones ignore dispute possiblities - hoping for a share in future settlement.
 
+## Tamil Nadu
+### Farming communes
+- vivaasv [wecommunities](https://wecommunities.in/).
