@@ -47,12 +47,12 @@ In order to make comparisons, it is helpful to create a matrix of energy source 
 - Abundance. Not all ideas, however clever or practical, can scale to meet the needs of modern society. Hydroelectric power cannot expand beyond about 10% of current global demand, while the solar potential reaching Earth's surface is easily calculated to exceed this benchmark by a factor of about 5,000.+++(5)+++ Abundant sources are coded blue, while niche ideas like hydroelectricity that cannot conceivably fulfill a quarter of global demand are colored red. Intermediate players that can satisfy a substantial fraction of demand are coded yellow.
 - Difficulty. This field tries to capture the degree to which a resource brings with it large technical challenges. How many PhDs does it take to run the plant? How intensive is it to maintain an operational state? This one might translate into economic terms: difficulty serves as a crude proxy for expensive.
 - Intermittency. Colored blue if the source is rock-steady or available whenever it is needed. If the availability is beyond our control, then it gets a yellow at least. The possibility of substantial underproduction for a few days earns red.
-  - Storage can offset this concern, at increased cost. Seasonal storage is particularly impractical, which hampers solar resources.
+- Storage can offset this concern, at increased cost. Seasonal storage is particularly impractical, which hampers solar resources.
 - Demonstrated. To be blue, a resource has to be commercially available today and providing significant energy to society. Proof of concept on paper, or prototypes that exhibit some of the technology, do not count as demonstrated.
 - Electricity. Can the technology produce electricity? For most sources, the answer is yes. Sometimes it would make little sense to try. For other sources, it is impractical.[^7]
 - Heat. Can the resource produce direct heat? Colored yellow if only via electric means.
 - Transport. Does the technology relieve the looming decline in oil production? Anything that makes electricity can power an electric car, earning a yellow score. Liquid fuels are blue. Bear in mind that large-scale migration to electric cars is not guaranteed to happen, as the cars may remain too expensive or impractical to be widely adopted, among other challenges related to grid infrastructure for mass-scale charging.
-  - See additional discussion on page 292 and in Sec. D.3 (p. 397).
+- See additional discussion on page 292 and in Sec. D.3 (p. 397).
 - Acceptance. Is public opinions favorable to this method? Is resistance likely, whether justified or not? [^8] This dimension encompasses environmental concerns, threats to health and safety, and unsightliness in natural settings.
 - Backyard. Is this something that can be used domestically, in someone's backyard, rooftop, or small property, managed by the individual? Distributed power adds to system resilience. 
 - Efficiency. Over 50% earns blue. Below about 10% gets red. It is not the most important of criteria, as the abundance score implicitly incorporates efficiency expectations, but we will always view low efficiency negatively.
@@ -311,7 +311,7 @@ about alternative energy in terms of what is easy?
 b) What category has the lowest score? What does this tell you about what attribute is hardest to satisfy in energy production?
 c) Which two categories have the largest number of blue squares and which two have the lowest number? What do you learn in terms of what is easy and not so easy?
 d) Which category has the largest number of red squares and which two have the lowest number? What do you learn in terms of what is hardest and what is least difficult to satisfy?
-   
+
 
 [^30]: ... which could conceivably get only worse if humans "solved" energy, effectively unconstrained. See Sec. 18.3 (p. 310) for more discussion of the energy trap.
 
@@ -324,9 +324,9 @@ d) Which category has the largest number of red squares and which two have the l
 7. What is at about the backyard33 attribute that earns so many red scores? What does this tell you about access to energy and the complexity of its capture/use?
 8. What two resources are crippled by intermittency? How might that challenge be mitigated so that it is less problematic? What are some difficulties in this solution?
 9. If biofuels turn out to be hampered by low EROEI values, the only transportation-friendly option left is artificial photosynthesis, which was not covered in this book because it's not a "real thing" at this time—as captured by the two red squares for difficulty and demonstrated. Two questions:
-   a) What other resources are in a similar "not real yet" state,
-   based on the same red squares?
-   b) What is most encouraging about the prospect of obtaining liquid fuels from sunlight? What problems does it solve for solar power and for transportation?
+a) What other resources are in a similar "not real yet" state,
+based on the same red squares?
+b) What is most encouraging about the prospect of obtaining liquid fuels from sunlight? What problems does it solve for solar power and for transportation?
 10. Figure 17.2 left out firewood as an energy resource, even though it has been with us for a long time and will no doubt continue to provide home heating. What would the ten colors be for this resource of intermediate abundance in the context of home heating? What would its score be, and which sources is it then tied with? Justify each of your color choices.
 11. (Suggest triple-credit problem) For the sake of simplicity and transparency, the scoring system used a simple uniform weighting for each of the 10 attributes, but it is unlikely all ten are equally important. Make up your own weighting scheme. 34 For each energy resource, blue cells add the corresponding category's weight, and red subtracts, and yellow does nothing. Re-score the matrix using your own weights-including the fossil fuels. Now re-order the matrix from highest to lowest score and comment on any major upheaval from the nominal ordering. What are the big surprises? Did the fossil fuel gap persist?
 
@@ -337,4 +337,3 @@ d) Which category has the largest number of red squares and which two have the l
 Different students may get different results, but this will provide some appreciation for considerations that enter the creation of such a scoring scheme.
 
 [^34]: A category might be worth 2 points, 0.3 points, 5 points, or whatever you wish; need not add to 10 First, make sure you can reproduce the scoring in the present table based on all weights being 1.0.
- 

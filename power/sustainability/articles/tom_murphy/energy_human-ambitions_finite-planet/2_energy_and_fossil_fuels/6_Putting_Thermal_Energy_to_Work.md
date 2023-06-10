@@ -28,7 +28,7 @@ Consumer Metrics.
 Before diving in to thermal issues, let's do a quick run-down of the various ways we can generate heat. 
 Example 6.1.1 Ways to Generate Heat: Roughly arranged according to degree of sophistication: 
 A locomotive engine as an example heat engine. Photo credit: South Australian Govern- ment Photographer. 
- 
+
 1. Rub your hands together (or other forms of friction). 
 6 Putting Thermal Energy to Work 85 
 2. Harvest sunlight, possibly concentrating it, for heat; drying clothes outside and letting sunlight warm a room through a window are examples. 
@@ -85,7 +85,7 @@ case
 
 [^6]: Notice that the water demands far more energy to heat, even though it is half the 
 mass. 
- 
+
 6 Putting Thermal Energy to Work 86 
 To perform computations using specific heat capacity, try an intuitive approach rather than some algorithmic formula. The following should just make a lot of sense to you, and can guide how to put the pieces together: it takes more energy to heat a larger mass or to raise the tempera- ture by a larger amount. It's all proportional. The units also offer a hint. 
 To 
@@ -116,7 +116,7 @@ How much it takes to maintain temperature depends on how heat flows out of (or i
 or to remove, if cooling 
 
 [^12]: Only 300 kg is in the form of air: most of the mass to be heated is in the walls, floor, and ceiling. 
- 
+
 6 Putting Thermal Energy to Work 87 
 and air gaps. But it also depends linearly on AT-the difference between inside and outside temperatures-that is being maintained. A house can be characterized by its heat loss rate in units of Watts per degree Celsius.[^13] This single number then indicates how much power is needed to maintain a certain AT between inside and outside. Box 6.1 explores an example of how to compute the heat loss rate for a house, and Example 6.3.2 applies the result to practical situations. 
 
@@ -146,7 +146,7 @@ house at 300 W/°C.
 The temperature difference, AT, is 20°C, so that our super-snug house 
 
 [^15]:... not "thermally woke" 
- 
+
 6 Putting Thermal Energy to Work 
 will require 75 W/°C times 20°C, or 1,500 W16 to keep it warm, while the decent house needs 3,000 W and the shoddy house needs 6,000 W. 
 Once we understand how much power it takes to maintain a certain temperature (AT) in a house, we can anticipate the behavior of the house's heater. Heaters are typically either on full-blast or off. Regulation is achieved by turning the heat on and off-usually controlled by a thermostat. Given the rating of a heater,[^17] it is then straightforward to anticipate the duty cycle: the percentage of time it has to be on to produce an average output meeting the power requirement for some particular ΔΤ. 
@@ -171,7 +171,7 @@ Cooling a home (or refrigerator interior, or whatever) is also a thermal process
 
 ## 6.4 Heat Engines 
 Now we get to the part where thermal energy can be used to do something other than just provide direct heat to a home. It may seem odd to always 
- 
+
 6 Putting Thermal Energy to Work 
 89 
 characterize burning fuel as a purely thermal action, since what transpires within the cylinder of a gasoline-burning internal combustion engine seems like more of a little explosion than just the generation of heat. This is not wrong, but neither is it the whole story. The process still begins as a fundamentally thermal event. When the fuel-air mixture ignites, the temperature in the cylinder increases dramatically. To appreciate what happens as an immediate consequence, we turn to the ideal gas law: 
@@ -218,7 +218,7 @@ Geotherm.
 Sol. Therm. 
 0.4 
 0.09 
- 
+
 turbine 
 boiler 
 high pressure 
@@ -275,7 +275,7 @@ Consider that if you were shown videos of a rock splashing into water, a coffee 
 The reverse action, you would conclude, is preposterous and can 
 
 [^28]: It is, however, possible to see lowered entropy in one place if balanced by an in- crease elsewhere: life organizes matter, but at the expense of increased entropy in the wider universe. 
- 
+
 6 Putting Thermal Energy to Work 
 never happen. Pieces of ceramic strewn about the floor will never spontaneously assemble into a mug and leap from the floor! Energy is not the barrier, because the total energy in all forms is the same29 before and after. It's entropy: the more ordered states are less likely to spontaneously emerge. To appreciate how pervasive entropy is, imagine how easy it is to spot a "fake" video run backwards. 
 These two laws of thermodynamics, plus a way to quantify entropy changes that we will see shortly, are all we need to figure out the maximum efficiency a heat engine can achieve in delivering work. If we draw an amount of heat, AQh from a hot bath30 at temperature Th, and allow part of this energy to be "exported" as useful work, AW, then we must have the remainder flow as heat (AQc) into the cold bath at temperature Te. Figure 6.4 offers a schematic of the process. The First Law of Thermodynamics31 requires that AQh = AQc + AW, or that all of the extracted heat from the hot bath is represented in the external work and flow to the cold bath: nothing is lost. 
@@ -327,7 +327,7 @@ efficiency
 entropy ratio 
 When heat is removed, entropy is reduced. When heat is added, entropy increases. The temperature, T, must be in Kelvin, and entropy is measured in units of J/K. 
 So the extraction of energy from the hot bath results in a decrease of entropy in the hot bath of ASh according to AQh = ThASh. Meanwhile, AS, of entropy is added to the cold bath according to AQc = TASc. The Second Law of Thermodynamics enforces that the total change in 
- 
+
 6 Putting Thermal Energy to Work 93 
 entropy may not be negative (it can't decrease). In equation form (symbol definitions in Table 6.3):32 
 = 
@@ -370,7 +370,7 @@ where we create η (eta) to represent the ratio of entropies: n = AS/ASh which w
 7≥1. 
 (6.8) 
 Looking at Eq. 6.7, if we want the highest possible efficiency in extracting work from a flow of heat, we want the numerator to be as large as possible. To achieve this, we want to subtract as little as possible from Th If η were allowed to be very large, then the numerator would be reduced. So we want the smallest possible value for η, which we know from Eq. 
- 
+
 6 Putting Thermal Energy to Work 94 
 6.8 happens when n = 1. We therefore derive the maximum physically allowable efficiency of a heat engine as 
 Emax 
@@ -396,7 +396,7 @@ Real heat engines like power plants (Figure 6.2) or automobile engines tend to o
 [^36]: This is a common situation, as Te is usually set by the ambient temperature of the air or of a body of water. 
 
 [^37]: ... absolute zero temperature, -273°C 
- 
+
 6 Putting Thermal Energy to Work 
 95 
 95 
@@ -450,7 +450,7 @@ relations.
 These look a lot like Eq. 6.9, but turned upside down. The maximum efficiencies can be larger than unity!42 
 
 [^42]: See Box 6.4. 
- 
+
 6 Putting Thermal Energy to Work 
 Example 6.5.1 What is the limit to efficiency of maintaining a freezer at -10°C in a room of 20°C? 
 First, we express the temperatures in Kelvin: T≈ 263 K and AT = 30 K.43 The maximum efficiency, by Eq. 6.10, computes to cool ≤ 8.8 (880%). 
@@ -482,7 +482,7 @@ Maybe the situation can be compared more understandably to money transfers, wher
 AQh/Cheat 
 
 [^48]: We are solving for AW = and consider the energy moved in one sec- ond in order to go from W to J. 
- 
+
 6 Putting Thermal Energy to Work 
 namic limit, but we might at least expect to be able to accomplish the 6,000 W goal of Example 6.5.3 for under 2,000 W. Thus the heat pump has shaved a factor of three (or more) off the energy required to provide heat inside. Heat pumps are very special. 
 As Eq. 6.10 and Eq. 6.11 imply, heat pumps are most efficient when AT is small. Thus a refrigerator in a hot garage must not only work harder to maintain a large AT, it does so less efficiently-making it a double-whammy. For home heating, heat pumps offer the most gain in milder climates where AT is not so brutal. 
@@ -526,7 +526,7 @@ Figure 6.6: Typical heat pump energy label in the U.S., showing an EER around 21
 [^50]: ... or any other energy unit of choice 
 
 [^51]: 1 watt-hour (Wh) is 1 J/s times 3,600 s. 
- 
+
 6 Putting Thermal Energy to Work 
 Definition 6.5.4 EER: Heat pumps used for cooling are specified by the energy efficiency ratio (EER), which modifies Eq. 6.10 as follows. 
 Єcool 
@@ -566,7 +566,7 @@ HSPF is 3.41 times this, or 10.2.
 Typical COP values for heat pumps range from about 2.5-4.5.53 This means an energy savings by a factor of 2.5 to 4.5 for heating a house via heat pump vs. direct electrical heating. Quite a bargain. An air conditioner EER rating is typically in the range 10-20, corresponding to 3-6 in terms of Ecool-similar to the range for heat pumps in heating 
 
 [^53]: ... mapping to HSPF from ~8-15 
- 
+
 6 Putting Thermal Energy to Work 
 mode.[^54] Houses equipped with electric heat pumps can typically be run for both cooling and heating applications, making them a versatile and efficient solution for moving thermal energy in or out of a house. 
 Heat pumps leveraging the moderate-temperature ground just below the surface as the external thermal bath are called "geothermal" heat pumps, but have nothing to do with geothermal energy (as a source). Compared to heat pumps accessing more extreme outside air temper- atures, geothermal heat pumps benefit from a smaller AT, and thus operate at higher efficiency. 
@@ -591,7 +591,7 @@ Heat pumps are like heat engines in reverse: driving a flow of thermal energy ag
 [^58]: We only consider the air for this prob- lem, and ignore other objects-including walls and furniture-that would add sub- stantially to the time required in real life. 
 
 [^59]: Use density to get at the mass of air. 
- 
+
 6 Putting Thermal Energy to Work 100 
 of 1.25 kg/m3. Express your answer as an approximate number in minutes. 
 3. When you put clothes on in the morning in a cool house at 15°C, you warm them up to something intermediate between your skin temperature (35°C) and the ambient environment.[^60] If your clothes have a mass of 2 kg, how much energy must be deposited into the clothes? If you are emitting power at 100 W, how long will this take? 
@@ -647,4 +647,3 @@ operating between the 288 K surface and the top of the tropo- sphere68 at 230 K.
 [^72]: Hint: do our bodies have regular access to temperatures this cold? 
 
 [^73]: Treat as water, and recall that the den- sity of water is one gram per milliliter. 
- 

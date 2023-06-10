@@ -309,7 +309,7 @@ Table 15.5: Example nuclear binding energy calculations. The second column is th
 
 <details><summary>Example 15.3.2</summary>
 
-  
+
 Following the entry in Table 15.5 for 56Fe, we first multiply the individual proton, neutron, and electron masses from Table 15.4 by the 26 protons, 30 neutrons, and 26 electrons comprising 56 Fe to get a sum-of-parts value of 56.46340 a.m.u..[^17]
 
 The actual mass, as it appears for 56Fe in the Chart of the Nuclides is 55.934942 a.m.u., which is smaller by 0.528447 a.m.u.[^18]
@@ -489,7 +489,7 @@ We now just need to divide by how many grams of "fuel" we supplied, which is 236
 </details>
 
 
- 
+
 
 <details><summary>Example 15.4.2</summary>
 
@@ -503,7 +503,7 @@ Since we have just computed the energy density of 235U to be 17 × 106 kcal/g (B
 
 We can take a graphical shortcut to all of Section 15.4.3, which hopefully will tie things together in an instructive way.
 
- 
+
 
 <details><summary>Example 15.4.3</summary>
 
@@ -546,74 +546,42 @@ Figure 15.16 shows a typical configuration.
 The water acts as the moderator to slow neutrons and also circulates around the rods to carry heat away, boiling to form steam that can run a standard power plant. Control rods set the pace of the reaction based on how far they are inserted into the spaces between fuel rods. Extra control rods are poised above the reactor core ready to drop quickly into the core in case of emergency suddenly bringing the chain reaction to a halt.
 
 
-256
-In the design of Figure 15.16, called a boiling water reactor, the water acts as both the neutron moderator and the thermal conveyance medium. Nuclear fuel (uranium) is arranged in fuel rods, providing ample surface area and allowing water to circulate between the rods to slow down neutrons and carry the heat away. Neutron-absorbing control rods- usually containing boron-set the reaction speed by lowering from the top. An emergency set of control rods can be dropped into the core in a big hurry to shut down the reactor instantly if something goes wrong. When the emergency rods are in place, neutrons have little chance of finding a 235U nucleus before being gobbled up by boron.
-34
-As of 2019, the world has about 455 operating nuclear reactors, amounting to an installed capacity of about 400 GW.35 The average produced power— not all are running all the time-was just short of 300 GW. The thermal equivalent would be approximately three times this, or 1 TW out of the 18 TW we use in the world. So nuclear is a relevant player. See Table 15.8 for a breakdown of the top several countries, Fig. 7.7 (p. 109) for nuclear energy's trend in the world, and Fig. 7.4 (p. 107) for the U.S. trend.
-% elec. global share (%)
-225 22
-Country # Plants GW inst.
-GW avg.
-U.S.
-95
-97
-92
-20
-31
-France
-56
-61
-44
-71
-15
-China
-49
-47
-38
-13
-Russia
-38
-28
-22
-20
-8
-Japan
-33
-32
-8
-8
-3
-S. Korea
-24
-23
-16
-26
-5
-India
-22
-6
-5
-3
-2
-World Total 455
-393
-295
-11
-100
-3 3 500
+[[256]]
+
+In the design of Figure 15.16, called a boiling water reactor, the water acts as both the neutron moderator and the thermal conveyance medium. Nuclear fuel (uranium) is arranged in fuel rods, providing ample surface area and allowing water to circulate between the rods to slow down neutrons and carry the heat away. Neutron-absorbing control rods- usually containing boron-set the reaction speed by lowering from the top.[^34] An emergency set of control rods can be dropped into the core in a big hurry to shut down the reactor instantly if something goes wrong. When the emergency rods are in place, neutrons have little chance of finding a 235U nucleus before being gobbled up by boron.
 
 [^34]: ... always this direction, so that gravity does the pulling rather then relying on some other drive force
 
-[^35]: From this, we glean that reactors aver- age roughly 1 GW each.
-Table 15.8: Global nuclear power in 2019 [101], listing number of operational plants, installed capacity, average generation for 2019 (Japan currently has stopped a num- ber of its reactors), percentage of electricity (not total energy), and fraction of global production (these 7 countries accounting for over 75%). Notice the close match be- tween number of plants and GW installed for most countries, indicating that most nu- clear plants deliver about 1 GW.
-Nuclear plants only last about 50-60 years, after which the material comprising the core becomes brittle from exposure to damaging ra- dioactivity and must be decommissioned. The median age of reactors in the U.S. is 40 years, and all but three are over 30 years old. Additional challenges will be addressed in the sections that follow.
-When nuclear energy was first being rolled out in the 1950s, the catch phrase was that it would be "too cheap to meter," a sentiment presumably fueled by the stupendous energy density of uranium, requiring very small quantities compared to fossil fuels. The reality has not worked out that way. Today, a 1 GW nuclear power plant may cost $9 billion to build [102]. That's $9 per Watt of output power, which we can compare to the cost of a solar panel, at about $0.50 per W (Fig. 13.16; p. 215), or utility-scale installation at $1 per Watt [89]. While it seems that solar36 wins by a huge margin, the low capacity factor of solar reduces average power output to 10-20% of the peak rating, depending on location. Meanwhile, nuclear reactors tend to run steadily 90% of the time-the off-time used for maintenance and fuel loading. So nuclear fission costs about $10 per delivered Watt, while solar panels are $2.5-5 per delivered
-[102]: Union of Concerned Scientists (2015), The Cost of Nuclear Power
 
-[^36]: Recall, for context, that solar is not among the cheaper energy resources. Like so- lar, nuclear power is dominated by up-front costs, rather than fuel cost.
+As of 2019, the world has about 455 operating nuclear reactors, amounting to an installed capacity of about 400 GW.[^35] The average produced power— not all are running all the time-was just short of 300 GW. The thermal equivalent would be approximately three times this, or 1 TW out of the 18 TW we use in the world. So nuclear is a relevant player. See Table 15.8 for a breakdown of the top several countries, Fig. 7.7 (p. 109) for nuclear energy's trend in the world, and Fig. 7.4 (p. 107) for the U.S. trend.
+
+[^35]: From this, we glean that reactors average roughly 1 GW each.
+
+
+Country # Plants GW-inst. GW-avg. % elec. global-share (%)  
+U.S. 95 97 92 20 31  
+France 56 61 44 71 15  
+China 49 47 38 13
+Russia 38 28 22 20 8
+Japan 33 32 8 8 3 
+S. Korea 24 23 16 26 5
+India 22 6 5 3 2
+World-Total 455 393 295 11 100 
+
+Table 15.8: Global nuclear power in 2019 [101], listing number of operational plants, installed capacity, average generation for 2019 (Japan currently has stopped a number of its reactors), percentage of electricity (not total energy), and fraction of global production (these 7 countries accounting for over 75%). Notice the close match between number of plants and GW installed for most countries, indicating that most nuclear plants deliver about 1 GW.
+
+Nuclear plants only last about 50-60 years, after which the material comprising the core becomes brittle from exposure to damaging radioactivity and must be decommissioned.+++(4)+++ The median age of reactors in the U.S. is 40 years, and all but three are over 30 years old. Additional challenges will be addressed in the sections that follow.
+
+When nuclear energy was first being rolled out in the 1950s, the catch phrase was that it would be "too cheap to meter," a sentiment presumably fueled by the stupendous energy density of uranium, requiring very small quantities compared to fossil fuels. The reality has not worked out that way. Today, a 1 GW nuclear power plant may cost $9 billion to build [^102]. That's $9 per Watt of output power, which we can compare to the cost of a solar panel, at about $0.50 per W (Fig. 13.16; p. 215), or utility-scale installation at $1 per Watt [^89].+++(5)+++ While it seems that solar[^36] wins by a huge margin, the low capacity factor of solar reduces average power output to 10-20% of the peak rating, depending on location. Meanwhile, nuclear reactors tend to run steadily 90% of the time-the off-time used for maintenance and fuel loading. So nuclear fission costs about $10 per delivered Watt, while solar panels are $2.5-5 per delivered
+
+[^102]: Union of Concerned Scientists (2015), The Cost of Nuclear Power
+
+[^36]: Recall, for context, that solar is not among the cheaper energy resources. Like solar, nuclear power is dominated by up-front costs, rather than fuel cost.
 
 Watt and installed utility-scale systems are $5-10 per Watt. In short, nuclear power is not an economic slam dunk.
-257
+
+[[257]]
+
 15.4.4.1 Uranium
 So far, we have ignored a crucial fact. Only 0.72% of natural uranium on Earth is the fissile 235U flavor. The vast majority, 99.2745%, is the benign 238.37 The ratio is about 140:1, so for every 235U atom pulled out of the ground, 140 times this number of uranium atoms must be extracted. The origin of the disparity is a story of astrophysics and eons, covered in Box 15.4.
 Box 15.4: Origin of Uranium

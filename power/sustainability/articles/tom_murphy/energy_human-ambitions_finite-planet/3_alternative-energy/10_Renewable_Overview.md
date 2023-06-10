@@ -136,7 +136,7 @@ the earth.
 
 [^8]: It would take hundreds of millions of years to "accomplish" this (see Sec. D.4; p. 402).
 
- 167
+167
 deposit of heat left over from the collapse/formation of the earth, the other half coming from radioactive decays of elements ultimately tracing to ancient astrophysical cataclysms.[^10] For both the formation and radioactive contributions, the supply is not replenished after its use, although the timescale for the radioactive decays to fade away is billions of years.
 Nuclear fusion needs deuterium and tritium." Roughly one out of every 10,000 hydrogen atoms is deuterium, so ocean water (H2O) will have enough deuterium to last billions of years. Tritium, however, is not found naturally and must be synthesized from lithium, in finite supply. Details will follow in Chapter 15.
 
@@ -306,7 +306,7 @@ total
 0.382
 100
 11.4
- 170
+170
 Table 10.3: U.S. Renewable energy con- sumption in 2018. The last column compares to the 101.3 qBtu total U.S. consumption in 2018 [34]. Asterisks denote thermal equiva- lent conversions. While the second column of numbers would be more naturally ex- pressed in GW, the choice of TW is delib- erate to emphasize how small renewable usage is compared to the available resource.
 In 2018, roughly 11% of energy in the U.S. came from renewable resources. Table 10.3 lists the contributions from each, the data coming from the Annual Energy Review published by the U.S. Energy Information Administration for 2018. As introduced in Box 7.2 (p. 106), the EIA adopts the practice of assigning a thermal equivalent for each source, in qBtu, even if the source had nothing to do with a thermal process. The rationale is to put everything on the same footing as fossil fuels, for more direct quantitative comparisons. In doing so, they implicitly use the average thermal-to-delivered energy efficiency for fossil fuels of 37.5%.25 In other words, it takes 100 units of thermal fossil energy to produce 37.5 units of useful work. If, then, a solar panel delivers 37.5 units of energy over some amount of time, it will be called 100 units of "input" (thermal equivalent), even though it only delivered 37.5 units.[^26]
 27
@@ -347,41 +347,40 @@ away from physics and address how all this new information might fit into future
 
 ## 10.6 Problems
 1. Based on what you already know or suspect about the alternative
-   energy sources listed in Section 10.1, which ones do you suspect3 are pollution free (no emissions, no waste)?
+energy sources listed in Section 10.1, which ones do you suspect3 are pollution free (no emissions, no waste)?
 2. Based on what you already know or suspect about the alternative energy sources listed in Section 10.1, which ones do you suspect31 have no negative environmental impacts? Explain your reasoning.
 3. Which of the truly renewable ("Yes" without asterisk) entries in Table 10.1 are limited (finite) in terms of the scale32 we could achieve on Earth (explain the nature of the limit), and which are not limited (and why)?
 4. Which four entries in Table 10.1 do not ultimately trace entirely to
-   solar energy input to Earth?
+solar energy input to Earth?
 5. If, for some terrible reason, the sun ceased shining and humans managed to survive for 1,000 years longer,[^33] what options would be left for obtaining energy?
-   34
+34
 6. About 30% of the 1,360 W/m2 solar power arriving at Earth is immediately bounced back without a trace. Of the part that remains, when distributed/averaged around the whole sphere, what is the average energy deposition rate per square meter into the earth system?
 7. Based on the numbers in Table 10.2, Figure 10.1, and in the text, what fraction (in percent) of all biological activity on Earth do (all) humans represent, from a metabolic energy standpoint?
 8. Based on the numbers in Table 10.2, Figure 10.1, and in the text, what fraction (in percent) is human societal energy production (all activities; fossil fuels, etc.) compared to all biological activity on the planet?
 9. What fraction (in percent) of the solar energy that is absorbed by Earth's surface goes into evaporation (the hydrological cycle; refer to Table 10.2, and Figure 10.1)?
 10. If we add up the five smallest pieces in Table 10.2, what fraction (in percent) does this set of energy flows represent in comparison to the total solar energy absorbed by the earth system?
 11. The percentages of absorption and reflection in Figure 10.1 repre- sent averages over weather conditions. On a clear day with the
-    30: Don't worry about correctness, as this is an opportunity to think and gauge current understanding.
-    31: Don't worry about correctness, as this is an opportunity to think and gauge current understanding.
-    32:
-    not how long it can last; how much power is available
-    33: It's nearly impossible to imagine that survival is at all realistic in this dire situa-
-    tion.
-    34: face area
-    account for projected vs. total sur-
-    
-    
-    172
-    sun overhead, a solar panel has access to more light than the 48% depicted reaching the ground. If we can also capture the portion that on average is reflected by the ground and clouds,35 what might we expect for the rate of energy reaching the ground (in W/m2) if the input at the top of the atmosphere is 1,360 W/m2?
+30: Don't worry about correctness, as this is an opportunity to think and gauge current understanding.
+31: Don't worry about correctness, as this is an opportunity to think and gauge current understanding.
+32:
+not how long it can last; how much power is available
+33: It's nearly impossible to imagine that survival is at all realistic in this dire situa-
+tion.
+34: face area
+account for projected vs. total sur-
+
+
+172
+sun overhead, a solar panel has access to more light than the 48% depicted reaching the ground. If we can also capture the portion that on average is reflected by the ground and clouds,35 what might we expect for the rate of energy reaching the ground (in W/m2) if the input at the top of the atmosphere is 1,360 W/m2?
 12. Similar to Example 10.3.2, how much warmer would you expect a 10 cm deep puddle of water36 to get after an hour in full sun, if the water absorbs all the energy and does not lose it to the environment?
 13. Comparing Table 10.2 and Table 10.3, what is the most striking mismatch,[^37] in terms of large potential vs. small contribution to U.S. energy consumption?
 14. In one day, a typical residential solar installation might deliver about 10 kilowatt-hours of energy. Meanwhile, a gallon of gasoline contains about 37 kWh of thermal energy. But the two ought not be directly compared, as burning the gasoline inevitably loses a lot of energy as heat. Correcting the solar output to a thermal equivalent,[^38] how many gallons per day of gasoline could it displace?
 15. The U.S. occupies about 2% of Earth's surface area, thus collecting only part of the 83,000 TW absorbed at the surface. Compare the amount of solar power received by the U.S. to the total renewable power in Table 10.3.39 By what factor are we "underutilizing" the solar input, under the simplifying assumption that we could use all of it?
-    35: Recall, it's a clear day; no clouds.
-    36: Water has a density of 1,000 kg per cubic meter and a specific heat capacity of 4,184 J/kg/°C. Make up whatever area you want; the answer should be the same for any pick.
-    37: In other words, for those sources that can be matched within the tables, which stands out as the most underutilized rela- tive to its input numbers?
-    38:
-    the text.
-    Use the 37.5% factor discussed in
-    39: origin
-    since it's almost all solar in ultimate
-    
+35: Recall, it's a clear day; no clouds.
+36: Water has a density of 1,000 kg per cubic meter and a specific heat capacity of 4,184 J/kg/°C. Make up whatever area you want; the answer should be the same for any pick.
+37: In other words, for those sources that can be matched within the tables, which stands out as the most underutilized rela- tive to its input numbers?
+38:
+the text.
+Use the 37.5% factor discussed in
+39: origin
+since it's almost all solar in ultimate

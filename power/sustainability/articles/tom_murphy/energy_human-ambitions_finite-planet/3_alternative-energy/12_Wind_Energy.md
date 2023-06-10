@@ -258,58 +258,57 @@ Esthetic objections to noise and degradation of scenery hamper expansion.
 
 ## 12.5 Problems
 1. A modest slap32 might consist of about 1 kg of mass moving at
-   2 m/s. How much kinetic energy is this?
+2 m/s. How much kinetic energy is this?
 2. A hard slap might consist of about 1 kg of mass moving at 10 m/s. How much kinetic energy is this, and how much warmer would 10 g of skin33 get if the skin has the heat capacity properties of water, as in the definition of a calorie (Sec. 5.5; p. 73 and Sec. 6.2; p. 85 are relevant)?
 3. A 10 kg bowling ball falls from a height of 5 m. Using the convenient g≈ 10 m/s2, how much gravitational potential energy does it have? Just before it hits the ground, all of this potential energy has gone into kinetic energy.[^34] What is the speed of the bowling ball when it reaches the ground, based on kinetic energy?
 4. Did the final answer for the speed of the bowling ball at the end of its drop depend on the mass?35 Write out the math symbolically36 and solve for velocity, v. Does the result depend on mass?
 5. Thermal energy is just randomized kinetic energy on a microscopic scale. To gain some insight into this, consider one liter (1 kg) of water, and figure out how much energy it would take to heat it from absolute zero temperature37 to 300 K assuming that the definition of the calorie (Sec. 5.5; p. 73) applies across this entire range. If this same amount of energy went into kinetic energy-hurling the water across the room-what would the corresponding velocity be?
-   32:... how painful can a few Joules be?
-   33: ... corresponding to a volume of 10 mL appropriate to a slap area of 10 cm by 10 cm and to a depth of 1 mm
-   34: ... neglecting any energy flow to air resistance
-   35: Try it using a different mass.
-   36: ... using variables/symbols
-   37: ...0 K, when the kinetic energy is effec- tively frozen out, or stopped
-   As large as the number is, it is represen- tative of the speeds of individual molecules within the water, and is, not coincidentally, similar to the speed of sound in water.
-   
+32:... how painful can a few Joules be?
+33: ... corresponding to a volume of 10 mL appropriate to a slap area of 10 cm by 10 cm and to a depth of 1 mm
+34: ... neglecting any energy flow to air resistance
+35: Try it using a different mass.
+36: ... using variables/symbols
+37: ...0 K, when the kinetic energy is effec- tively frozen out, or stopped
+As large as the number is, it is represen- tative of the speeds of individual molecules within the water, and is, not coincidentally, similar to the speed of sound in water.
+
 6. A typical house may have a floor area around 150 m2 (1,600 square feet). If the floor-to-ceiling distance is typically 2.5 m, how much mass is in the air within the house? Could you lift this much mass if handed to you as bags of rocks?
 7. Atmospheric pressure is about 105 N/m2, meaning that a 100,000 N weight of air-corresponding to a mass of 10,000 kg-sits atop very square meter of the ground (at or near sea level). If the air density were constant at 1.25 kg/m3-rather than decreasing with height as it actually does how high would the atmosphere extend to result in this weight (mass)?
 8. Comparing the pale green region in the southeastern U.S. to the purple region of the plains states in Figure 12.2, how much more power would we expect out of the same rotor placed in the plains than in the southeast (by what factor is it bigger in the plains)?
 9. How much more powerful is a hurricane-strength wind of 50 m/s
-   hitting your house than is a light breeze of 5 m/s?
+hitting your house than is a light breeze of 5 m/s?
 10. How much power would a moderate-sized 50%-efficient wind turbine produce whose radius is 10 m at wind speeds of 5 m/s, 10 m/s, 15 m/s, and 20 m/s? Express the answers in kW or MW, depending on what is most natural.
 11. The Betz limit says that we get to keep no more than 59% of the available wind power. If 59% of the kinetic energy in a lump of air moving at speed 38 v is removed, how fast is it going afterwards,3 as a fraction of the original speed?
-    39
+39
 12. The largest wind turbines have rotor diameters40 around 150 m. Using a sensible efficiency of 50%, what power does such a jumbo turbine deliver at a maximum design wind speed of 13 m/s?
 13. A recent news article announces the largest wind turbine yet, measuring 220 m in diameter and having a maximum power output of 13 MW. Using a reasonable efficiency, calculate the velocity of the wind at which maximum power is reached.
 14. Compare the tip speed of a three-blade turbine operating at its optimal efficiency (as per Figure 12.4) in a moderate wind of 7 m/s to typical freeway driving speeds in the same units.
 15. Traveling down the road, you carefully watch a three-bladed wind turbine, determining that it takes two seconds to make a full revolution. Assuming it's operating near the peak of its efficiency curve11 according to Figure 12.4, how fast do you infer the wind speed to be if the blade length+2 appears to be 15 m long?
-    42
+42
 16. Building from the result in Problem 15, how much power is this
-    windmill delivering if its efficiency is about 50%?
-    12 Wind Energy
-    195
-    This is called the scale height of the at- mosphere, ho, which you may wish to com- pare to the tallest mountains on Earth or the height at which airplanes fly. The actual density of the atmosphere decreases expo- nentially as a function of height, with ho being the characteristic scale.
-    38: Make up your own velocity or solve in symbols/variables: same either way.
-    39: This relates to wind speed just behind a wind turbine
-    40:
-    not radius
-    41: Hint: focus on tip speed.
-    42: ... corresponding to radius of the rotor
-    Reflect on the fact that just estimating the rotor blade length and timing its revolution is enough for you to produce an estimate of power being generated!
-    
+windmill delivering if its efficiency is about 50%?
+12 Wind Energy
+195
+This is called the scale height of the at- mosphere, ho, which you may wish to com- pare to the tallest mountains on Earth or the height at which airplanes fly. The actual density of the atmosphere decreases expo- nentially as a function of height, with ho being the characteristic scale.
+38: Make up your own velocity or solve in symbols/variables: same either way.
+39: This relates to wind speed just behind a wind turbine
+40:
+not radius
+41: Hint: focus on tip speed.
+42: ... corresponding to radius of the rotor
+Reflect on the fact that just estimating the rotor blade length and timing its revolution is enough for you to produce an estimate of power being generated!
+
 17. In a way similar to Figure 12.5, replicate the statement in the text that the fraction of land covered per rotor area is 0.65% if turbines are separated by 15 rotor diameters along one direction and 8 rotor diameters along the cross direction.
 18. Check that the units of Eq. 12.343 indeed are equivalent to Watts
-    per square meter (W/m2).
+per square meter (W/m2).
 19. Provide a clear explanation of why the area under the blue curve in Figure 12.6 compared to the area of the whole rectangular box is an appropriate way to assess the capacity factor of the depicted wind farm?
 20. What capacity factor would you estimate for the wind farm per- formance depicted in Figure 12.6? In other words, what is the approximate area under the curve compared to the entire box area, as explored in Problem 19? An approximate answer is fine.
 21. Referring to Figure 12.7, examine performance at 5 m/s and at 10 m/s, picking a representative power for each in the middle of the cluster of black points, and assigning a power value from the left-hand axis. What is the ratio of
-    power values you read off the plot, and how does this compare to theoretical expectations for the ratio going like the cube of velocity?
+power values you read off the plot, and how does this compare to theoretical expectations for the ratio going like the cube of velocity?
 22. Figure 12.7 surprisingly has all the information required to deduce the rotor diameter! The turbine appears to produce 1,400 kW when the wind velocity is 10 m/s, and we also know it appears to operate at ε = 0.44. What is the rotor diameter?
 23. Considering that wind turbines are rated for the maximum- tolerable wind speed around 12 m/s, and tend to operate at about 30% capacity factor, how much average power44 would a 100 m diameter turbine operating at 45% efficiency be expected to produce?
 24. Table 12.2 shows Germany having more than twice the wind capability as Spain, yet each gets 8.3% of its power from wind. What do you infer the difference to be between the countries?
-    12 Wind Energy
-    43: ...essentially pv3
-    196
-    44: Hint: compute power at 12 m/s then apply capacity factor
-    Hint: no external research necessary: what do the numbers mean?
-    
+12 Wind Energy
+43: ...essentially pv3
+196
+44: Hint: compute power at 12 m/s then apply capacity factor
+Hint: no external research necessary: what do the numbers mean?

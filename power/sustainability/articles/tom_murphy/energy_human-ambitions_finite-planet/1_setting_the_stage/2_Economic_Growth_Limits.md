@@ -37,7 +37,7 @@ Per Capita GDP ($)
 100000 
 Figure 2.2 illustrates the range of intensities for all the countries in the world. Among the factors driving energy use are geographical extent (large countries require more long-haul transportation), climate (cold countries require more heating), efficiency, and lifestyle. Russia, Canada, and the U.S. have large territories, and the former two require more heating than most. By contrast, Switzerland is geographically small 
 Figure 2.2: Energy intensity of countries, on a log-log plot. The vertical axis shows how energetically "hungry" each country is in relation to its economic output, while the horizontal axis sorts countries by economic output per person. A few instructive cases (red dots) are labeled. The dot areas are scaled to population. Prosperous countries tend to have lower intensity than developing countries, but part of this may relate to moving manufacturing from the former to the latter [6–8]. 
- 
+
 2 Economic Growth Limits 
 20 
 and outsources much of its heavy industry. Somebody should probably check on what's happening in Venezuela.5 
@@ -88,7 +88,7 @@ Halogen CFL
 45-75 
 LED 
 75-120 
- 
+
 luminous efficacy (Im/W) 
 theoretical maximum 
 102 
@@ -119,7 +119,7 @@ More generally, sometimes the best possible solution and "peak" technology arriv
 [^12]: ... magician reference 
 We will return to this theme in the context of fossil fuels, which might be termed the mother of all rabbits, in this context. Having pulled such a stupendous rabbit out of the hat once, many assume we're set from now on. In this case, equating one to infinity is even more dubious. 
 An electric car having hundreds of kilometers of range seems like an obvious path forward beyond fossil fuels. But at a price tag above $40,000, it does not look like much of a solution to most people, and we can't be sure prices will fall steeply. Section D.3 covers electrified transportation in more detail. 
- 
+
 2 Economic Growth Limits 
 23 
 as a vital substance.[^13] Marketers might sell H2O2 as superior, having one more beneficial oxygen atom, but please don't drink hydrogen peroxide! Some technologies in use today would be recognized by pre-industrial people: wheels, string, bowls, glass, clothing. We won't always find better things, though we may make a series of incremental improvements over time. Not everything will experience game-changing developments. 
@@ -146,7 +146,7 @@ limited to the same set of elements.
 [^17]: fices 
 ..e.g., in basements or garages or of- 
 [12]: Garret (2014), Rebound, Backfire, and the Jevons Paradox 
- 
+
 
 ## 2.3 Physically Forced Economic Limits 
 Let us now consider a thought experiment. We will use Figure 2.4 as a guide as we go along. Colored numbers in the following text point to similarly-colored labels in the figure. We start by positing a constant growth rate for the entire economy (point 1; red curve in Figure 2.4) following the familiar 2.3% annual growth rate, picked for its convenient factor of 10 each century. Meanwhile, the scale of physical resources (energy, materials) in the economy also climbs at the same rate, starting at point 2. The vertical gap between the curves at the left-hand edge conveys that the economy is not 100% physical in the beginning: the total economy is larger than the physical piece.[^18] 
@@ -187,7 +187,7 @@ percentage of economy that's non-physical
 300 
 Fast-forward to a time when physical resources have stopped growing, starting at point 3. Chapter 1-using energy and thermodynamics as the basis-made the case that we cannot expect physical growth to continue indefinitely, ending on a few-century timescale at the longest.[^19] In this scenario, the scale of energy in our society flat-lines at a steady scale (point 4). 
 If we demand continued economic growth in the context of fixed energy, decoupling becomes increasingly necessary, shown as a growing gap in Figure 2.4. In other words, if the gross domestic product (GDP; as an indicator of economic activity) is to continue rising20 (point 5), then overall intensity (energy per dollar) must continually decrease. For this to happen, less-energetic activities must assume increasing importance in the economy. So far, economists are on board: this is precisely what inspires an affinity for decoupling-a way forward in the face of physical limits. One might expect more abstract services, virtual experiences, art dealing, enhanced presentation: all requiring little or no additional 
- 
+
 Figure 2.4: Model evolution of the economy after physical resources saturate. The blue curve is the scale of the physical economy (leveling out, or saturating). The solid red curve is the total economic scale, which we force to adhere to a constant growth rate (10x per century, or 2.3% annual rate). The magenta curve is the percentage of the economy in non-physical sectors, and the red dashed curve is a more realistic reaction of the economy to a saturating physical sector. Colored arrows point to the scale that each curve should use -logarithmic on the left for economic scales and linear on the right for the percentage curve. This model is constructed simply to illustrate the overall behavior: time scales and other quantitative details should not be taken literally. 
 
 [^19]: It is assumed here (optimistically) that we have managed to find a renewable alter- native that can satisfy a constant demand effectively indefinitely. If not, the story is even worse and we are forced to ramp down the scale of the physical sector, which would force the blue curve in Figure 2.4 to descend in later years. 
@@ -223,7 +223,7 @@ hours
 0.1 
 Box 2.4: Monopoly Made Easy 
 One way to highlight the absurdity of the scenario is that if the physically-limited but essential (life sustaining) resources became arbitrarily cheap in the fullness of time, a single person could buy them all for a pittance, and then charge a hefty price for anyone 
- 
+
 2 Economic Growth Limits 
 26 
 who wants to keep living. We simply will not find ourselves in the situation where precious and limited resources become arbitrarily cheap. Alternatively, if people only needed to work an hour per year to accommodate basic needs, expect a lot less work to be done, acting as a drag on economic productivity and thus preventing inexorable growth-one way or another. 
@@ -238,7 +238,7 @@ The growth regime is woven deeply into our current global society. And why would
 [^21]: In the U.S., Social Security and Medicare are examples. 
 
 [^22]: Growth in both workforce and invest- ments are essential ingredients of these schemes that pay out more than an indi- vidual's past contributions to the program. 
- 
+
 Returning to the roots of economic theory, the earliest thinkers-Adam Smith, David Ricardo, Thomas Malthus, John Stuart Mill-had founda- tions in natural philosophy23 and saw growth as a temporary phase, ulti- mately limited by a prime physical resource: land. In that time, land held the key to outputs from farming, timber, mining, and game-thereby dic- tating economic development. What these pioneering economic thinkers did not foresee was the arrival of fossil fuels, and the technological developments that accompanied this energy explosion. 
 24 
 Now, we have fallen into something of a lulled complacency: having rescued ourselves so far from the end-of-growth predictions of the early economists, the temptation is to conclude that they were just wrong, and we have outsmarted natural limits. This is dangerous thinking. In the end, nature is indifferent to how smart we imagined ourselves to be. If we were truly clever, we would start thinking about a world that does not depend on growth, and how to live compatibly within planetary limits. Chapter 19 touches on this theme, after intervening chapters paint a more complete picture of energy constraints. 
@@ -260,7 +260,7 @@ ity for continued economic growth, if growth is to continue. 3. The economy come
 As was stated before, experts frequently read complex sections more than once to fully absorb the arguments; feel free to do so here. 
 
 [^25]:...which, let's be clear, we're arguing is ultimately not at all viable... 
- 
+
 2 Economic Growth Limits 
 28 
 Just because we can point to some completely legitimate examples of decoupled activities and many impressive substitution stories does not mean that an entire economy can be based on indefinite continu- ance of such things. We are physical beings in a physical world and have non-negotiable minimum requirements for life. The activities and commodities that support critical functions cannot continue to expand indefinitely, and will not become arbitrarily cheap once their expansion hits physical limits. The finite nature of our world guarantees that such limits will be asserted, committing economic growth to stall in turn. Nothing, in the end, escapes physics. 
@@ -286,7 +286,7 @@ The result should be larger than the typical energy intensity for all economic a
 [^28]: In the same sense as was calculated for 
 Problem 5 
 The answer should be well less than 100%. 
- 
+
 2 Economic Growth Limits 
 29 
 20 
@@ -313,4 +313,3 @@ things that cost money
 
 [^32]: ... perhaps defined by widespread or universal adoption or replacement. 
 You might pick any subset of solar, wind, hydroelectric, geothermal, nuclear, etc. to guide your thinking. 
- 

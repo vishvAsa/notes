@@ -12,7 +12,7 @@ We start by noting that human civilization is about 10,000 years old, to the nea
 Wow. Heavy question. Of course, we do not know the answer, but most of us would prefer to believe the first-that we are only beginning. So let's roll with that and explore the consequences. 
 
 [^45]: This roughly marks the start of agri- culture, and in any case is far closer to the truth than the adjacent order-of-magnitude figures of 1,000 years or 100,000 years. 
- 
+
 In order for human civilization to be in its infancy, it would have to continue for at least 10,000 years more, if not far longer. What would it mean for us to still be operating "successfully" 10,000 years from now? Our physics and math approach actually allows us to place constraints! 
 
 This discussion is limited to living on Earth. Chapter 4 laid out reasons why imagining a space-faring future may be misguided. But even ignoring these arguments, Chapter 1 illustrated that human growth ambitions would be brought to an end long before 10,000 years pass. In this light, it is most straightforward to concentrate on what it would take to succeed on Earth itself.4 
@@ -25,7 +25,7 @@ If we manage to carry our civilization into the far future,4 comfortably call th
 1. Fossil fuels will not power civilization: a large fraction of the initial inheritance has been spent in a short 200 years, 48 so that 10,000 years in the future it is safe to say they will be long gone. 
 2. No steady annual decline of natural resources like forests, fisheries, fresh water, or species populations can be brooked. Allowing any component to decline would mean eventually losing that resource, which may be critical to our survival. 
 3. Human population will not be allowed to grow. Even small growth rates will step up pressure on natural resources, and Earth can only support so much, long-term. Independent of what the "right" number is, once settled, we will not be able to dial it up without imperiling the hard-won success.
-   [^49] 
+[^49] 
 4. Even under steady human population, any increase in resource use per person will also not be compatible. In general, growth leads to a dead end: to failure. 
 5. Mining materials from the Earth will not continue at anything near the current pace. In the last few hundred years, the best deposits of copper, gold, aluminum, etc. have been found and exploited. Even if only 10% of the attainable resource has been consumed thus far,[^50] continuing for tens of thousands of years (and beyond) cannot be expected. 
 6. Ultimately, any activity that draws down a finite natural resource will be impossible to sustain if the extraction rate is modest or high in relation to the initial resource abundance. Anything that can't last for well over 10,000 years is not a viable long-term solution and should not be exploited if success is the goal.+++(4)+++ Likewise, any pollutant that can build up to dangerous levels on even these very long timescales cannot be tolerated, if failure is to be avoided. 
@@ -66,7 +66,7 @@ Nature prepared a biosphere that has stood the test of time. Natural selection h
 [^53]: Interest is an artificial construct made possble by accelerating resource use. 
 
 [^54]: Annual income would be in the form of solar energy delivered and biomass that has grown in the course of the year, for instance. 
- 
+
 [[407]] 
 
 ## D.5.3 Time to grow up
@@ -90,4 +90,3 @@ Humanity needs to develop a framework by which to evaluate its activities and as
 At some level, humans need to realize that success means the thriving of not only themselves, but all of Earth's precious irreplaceable species and ecosystems. Without them, humans cannot be successful anyway. This is another part of maturing: many adolescents have difficulty considering the impacts of their actions on anyone other than themselves. Humans need to realize that hurting any component of Earth is hurting humans, long-term. Our legal system affords rights to humans, but gives no agency to plants, animals, or even non-living features of our planet. A successful future must give voice to every element of our world, lest we trample it and rue the day.
 
 [^58]: In such cases, the outcome may ulti- mately settle on longer lives for fewer peo- ple. 
- 

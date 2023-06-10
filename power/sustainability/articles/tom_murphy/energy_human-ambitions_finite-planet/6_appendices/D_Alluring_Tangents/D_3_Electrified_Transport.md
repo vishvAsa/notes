@@ -14,7 +14,7 @@ assessment.
 
 [^14]: 
 beware of the word "just," often hid- ing lack of familiarity 
- 
+
 Box 13.3 (p. 212) indicated that direct drive of cars and airplanes from solar energy is impractical: while it may work in limited applications, solar power is too diffuse to power air and car travel as we know it. 
 Thus electrified transport becomes all about storage, generally in bat- teries. Several times in the book, the energy density of gasoline was compared to that of battery storage. In rough numbers, gasoline delivers about 11 kcal/g, working out to ~13 kWh/kg in units that will be useful to this discussion. Meanwhile, lithium-ion batteries characteristic of those found in cars15 have energy densities about one-hundred times 
 smaller. 
@@ -32,7 +32,7 @@ Keeping the same 15 ton17 "fuel" mass, but now at 0.2 kWh/kg results in a 3,000 
 We will keep track of kWh per kilometer as a useful metric for trans- portation efficiency, putting it all together at the end (Section D.3.7). In the case of air travel, it's 3,000 kWh to go 200 km, or 15 kWh/km. On a per-passenger basis, 150 passengers in the airplane results in 0.1 kWh/km/person. 
 
 [^17]: One metric ton is 1,000 kg, and is often spelled tonne. Here, ton is used to mean metric ton, which is only 10% larger than the Imperial "short ton." 
- 
+
 D.3 Electrified Transport 
 399 
 D.3.2 Shipping 
@@ -59,7 +59,7 @@ A solution would be smaller batteries and more frequent charging stops possibly 
 
 [^23]: 
 density, in unusual units; equivalent to ~0.75 kg/L 
- 
+
 It is not impossible24 to electrify long-haul trucking, but neither is it free of significant challenges. Certainly it is not as easy and convenient as fossil fuels. 
 D.3 Electrified Transport 400 
 
@@ -134,7 +134,7 @@ which is much higher than typical parking lot chargers that are more in line wit
 [^33]:...higher energy density (better) batter- ies will experience a larger temperature rise based on less mass to heat up per amount of energy injected 
 
 [^34]: the equivalent electricity consump- tion of 10,000 homes or a medium-sized college campus 
- 
+
 D.4 Pushing Out the Moon 402 
 D.3.6 Wired Systems 
 To finalize the progression of hardest-to-easiest electrified transporta- tion, we leave the problematic element behind: batteries. Vehicles on prescribed routes (trains, buses) can take advantage of wires carrying electricity: either overhead or tucked into a "third rail" on the ground. Most light rail systems use this approach, and some cities have wires over their streets for trolley buses. High-speed trains also tend to be driven electrically, via overhead lines. 

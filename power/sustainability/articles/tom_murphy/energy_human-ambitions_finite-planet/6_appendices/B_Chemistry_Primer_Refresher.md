@@ -214,7 +214,7 @@ B.2 Stoichiometry
 Chemistry starts by counting atoms and molecules. Since molecules are comprised of integer numbers of atoms of specific types, the counting fun does not stop there. When atoms and molecules react chemically, the atoms themselves are never created or destroyed-only rearranged. This means that an accurate count of how many of each atom type are present at the start, a proper count at the end should yield exactly the same results. 
 Before we get into balancing chemical reactions, we need to know some- thing about the scheme for labeling chemical compounds. A compound is an arrangement of atoms (representing pure elements) into a molecule. For instance, water is made of three atoms drawn from two elements: hydrogen and oxygen. Two atoms of hydrogen are bonded to an atom of oxygen to make a molecule of water. We denote this as H2O. 
 Examples of a few familiar atoms and molecules are presented in Figure B.2. Each one is named at the top. Below each one appears the bond structure in the case of molecules and the chemical "formula" in all cases. Notice that hydrogen atoms always have a single bond (single 
- 
+
 hydrogen 
 atom 
 oxygen 
@@ -253,7 +253,7 @@ C2H6O+?O2 →?CO2 + ?H2O
 [^9]: Two variants are shown for ethanol. The first is a no-nonsense census of the atoms, while the second pulls one of the H symbols to the end to call attention to the OH (hy- droxyl) tagged onto the end of the molecule. In either case, the formula specifies 2 car- bons, 6 hydrogens, and 1 oxygen, in total. 
 
 [^10]: For example, 2H2O has a total of 4 hy- drogen atoms and 2 oxygens. 
- 
+
 + 
 C+02 → CO2 
 + 
@@ -279,7 +279,7 @@ Thinking of the chemical formulas in terms of moles makes assessment of the mass
 [^13]: ... also called coefficients 
 
 [^14]: To be explicit, if a formula is balanced for individual molecules, then it should also be balanced if doubling the "recipe," or tripling, multiplying by 10, or even by 6 × 1023. 
- 
+
 atoms is exactly 12 grams, that hydrogen is 1 g, and oxygen is 16 g. That means one mole of water molecules (H2O) will be 18 g (16 + 1 + 1), one mole of carbon dioxide (CO2) is 44 g (12 + 16 + 16), and one mole of ethanol (C2H6O) is 46 g (12 + 12 + 1 + 1 + 1 + 1+1+1+16). We refer to this figure as the molar mass, and standard periodic tables display the molar masses for each element: the mass of one mole of the substance. The unit is typically grams per mole, or g/mol. 
 Example B.2.2 How much mass of CO2 will emerge from the burning of 1 kg of ethanol? We start with the formula we worked out in Example B.2.1: 
 C2H6O302 → 2CO2 + 3H2O 
@@ -296,7 +296,7 @@ Atoms (elements) can bond together to make molecules (compounds). The bond-forme
 In the context of this book, chemical energy is typically associated with combustion (burning) a substance in the presence of oxygen. This is true for burning coal, oil, gas, biofuels, and firewood. In a chemistry class, one learns to look up the energetic properties of various compounds in tables, combining them according to the stoichiometric reaction formula 
 
 [^15]: Recall that energy is a measure of work, or a force times a distance. 
- 
+
 to ascertain a net energy value. We're going to take a shortcut to all that, by introducing the following approximate formula for combustion 
 energy. 
 The approximate energy available from the compound CcHhOoNn where the subscripts represent the number of each atom in the molecule to be burned-is: 
@@ -349,7 +349,7 @@ CH4
 84 16 0 
 75 25 0 
 The resulting calculated energies are definitely in the right (expected) ranges. Notice that the "winners" have little or no oxygen as a percentage of the total molecular mass. The lower-energy entries in Table B.1 are more than half oxygen, by mass. 
- 
+
 Table B.1: Example approximate chemical energies. The results of the approximate formula are compared to true values (favor- ably). Fractional mass in carbon, hydrogen, and oxygen also appear-emphasizing the penalty for molecules already carrying oxy- gen.B.4 Ideal Gas Law 
 381 
 B.4 Ideal Gas Law 
@@ -391,7 +391,7 @@ KB = 1.3806 × $10^{-23}$
 Notice that N, the number of particles, and n, the number of moles, differs simply by a factor of Avogadro's number, NA = 6.022 x 1023. Indeed, if we multiply NA by kв, we get 8.314, and are back to R.22 
 
 [^22]: The units work, too, since NA effectively has units of a number (of particles) per mole. 
- 
+
 B.4 Ideal Gas Law 
 382 
 Example B.4.2 Gas is stored at high pressure at room temperature in a metal cylinder, at a pressure of about 200 atmospheres.[^23] The cylinder is designed to meet a safety factor of 2, meaning that it likely will not fail until pressure reaches 400 atmospheres. If a fire breaks out and the cylinder heats up, the pressure will rise. How hot must the gas get before the cylinder may no longer be able to hold the pressure (assuming no fire damage to the cylinder itself)? 

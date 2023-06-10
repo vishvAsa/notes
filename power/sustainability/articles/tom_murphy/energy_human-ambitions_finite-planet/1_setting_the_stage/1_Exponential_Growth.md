@@ -17,7 +17,7 @@ Definition 1.1.1 Rule of 70: The doubling time associated with a percentage grow
 
 Note that any growth, however slow, can be characterized by a doubling time, even if the process does not involve discrete steps of doubling. 
 NGC 253 photo credit: Dylan O'Donnell. 
- 
+
 We will see how the rule of 70 arises mathematically later in this chapter. But first, it is more important to understand the consequences. To make the math simple, let's say that a town's size doubles every 10 years (which by the rule of 70 corresponds to a 7% growth rate, incidentally). Starting in the year 1900 at 100 residents, we expect town population to be 200 in 1910, 400 in 1920, 800 in 1930, eventually climbing to over 100,000 by the year 2000 (see Table 1.1). Unabated 7% growth would result in the town reaching the current world population just 260 years after the experiment began. 
 
 Table 1.1: Example 7% growth progression.
@@ -37,7 +37,7 @@ Think about this on your own for a minute. Normal intuition might suggest a half
 
 The answer is one doubling-time before midnight, or 11:50 PM. Figure 1.1 illustrates the story. At 11 PM, the jar is at one-64th capacity, or 1.7% full. So, for the first 23 of 24 hours, the jar looks basically empty. All the action happens at the end, in dramatic fashion. 
 
- 
+
 
 10 minutes is perhaps a little fast for biology, but we're looking for easy understanding and picking convenient numbers. In practice, 20-30 minutes may be more realistic. We will also ignore deaths for this "toy" example, although the net effect only changes the rate and not the overall behavior. 
 
@@ -58,7 +58,7 @@ The answer is one doubling-time before midnight, or 11:50 PM. Figure 1.1 illustr
 Figure 1.1: The last 90 minutes in the sequence of bacteria (green) growing in a jar, doubling every 10 minutes. For the first 22.5 hours, hardly anything would be visible. Note that the upward rise of green "bars" makes an exponential curve. 
 
 Now let's imagine another illustrative scenario in connection with our jar of bacteria. The time is 11:30 PM: one-half hour before the end. The jar is one-eighth full. A thoughtful member of the culture projects the future and decides that more uninhabited resource-laden jars must be discovered in short order if the culture is to continue its trajectory. Imagine for a second the disbelief expressed by probably the vast majority of other inhabitants: the jar is far from full, and has served for 141 generations-a seeming eternity. Nonetheless, this explorer returns reporting three other equal-sized food-filled jars within easy reach. A hero's welcome! How much longer will the culture be able to continue growing? What's your answer? 
- 
+
 The population doubles every ten minutes. If the original jar is filled at 12:00, the population doubles to fill the second jar by 12:10. Another doubling fills all four by 12:20. The celebration is short-lived. 
 
 Now we draw the inevitable parallels. A planet that has served us for countless generations, and has seemed effectively infinite-imponderably large makes it difficult for us to conceive of hitting limits. Are we half-full now? One-fourth? One-eighth? All three options are scary, to different degrees. At a 2% rate of growth (in resource use), the doubling time is 35 years, and we only have about a century, even if at 1/8 full right now.[^3] 
@@ -160,10 +160,10 @@ so that the number of applications of base, b, needed to achieve multiplicative 
 [[4]] 
 
 
- 
+
 <details><summary>Example 1.1.1</summary>
 
- The time it would take to increase by a factor of 1,000 (M = 1000) at a rate of 1.07 (annual growth rate of 7%; b = 1.07) is n = ln M/ln 1.07 = 102 years.
+The time it would take to increase by a factor of 1,000 (M = 1000) at a rate of 1.07 (annual growth rate of 7%; b = 1.07) is n = ln M/ln 1.07 = 102 years.
 
 The same result happens if using log instead of ln: try it!
 </details>
@@ -204,7 +204,7 @@ More generally, we are not confined to any particular base, b, having just seize
 
 ## 1.2 Exponential Energy Extrapolation 
 Having established some basic principles of exponential growth, it's time for a first look at how we can use the math to argue about limits to our expectations. We'll concentrate on energy use. The United States Energy Information Administration (EIA) provides information on energy use from 1949 to the present. An appendix (E1: [3]) presents an approximate account of energy use from 1635-1945. Figure 1.2 displays the more recent portion of this history. 
- 
+
 7 
 Lacking comparable data for the world, we use U.S. data simply to illustrate the more broadly applicable global growth trend. Even countries far behind are growing energy use often faster than the 3% characteristic of U.S. history. 
 Energy Production Rate (TW) 
@@ -226,7 +226,7 @@ year
 2000 
 Note that the energy rate at the left edge of Figure 1.2 becomes almost invisibly small. Presenting the data on a logarithmic plot, as in Figure 1.3, we can better see the entire trajectory. On such a plot, exponentials become straight lines. The trend is remarkably consistent with an exponential (red line) for most of the history, at a rate just shy of 3% per year. Note that this total effect includes population growth, but population has not grown as fast as energy, so that per-capita energy has also risen. This makes sense: our lives today are vastly more energetically rich than lives of yesteryear, on a per-person basis. 
 Having established that energy growth over the past several centuries is well-described by an exponential, we can explore the implications of continuing this trend forward. Starting at a present-day global energy production rate of 18×1012 Watts (18 TW), we adopt a convenient growth rate of 2.3% per year for this exercise. We pick this for two reasons: 1) it is more modest than the historical trend, so will not over-exaggerate the 
- 
+
 Figure 1.2: U.S. energy over 200 years, showing a dramatic rise due almost entirely to fossil fuels. The red curve is an exponential fit tuned to cover the broader period shown in Figure 1.3. 
 The astute reader might note a departure from the exponential fit in recent years. This only reinforces the primary point of this chapter that sustaining exponential growth indefinitely is absurd and will not happen. If growth is destined to stop, perhaps we are beginning to experience its limits well before the theoretical timescales developed in this chapter. 
 Watts is a unit of power, which is a rate of energy. Chapter 5 will cover the concept and units more thoroughly. 
@@ -240,7 +240,7 @@ Energy Production Rate (Watts)
 www 
 109 
 T 
- 
+
 108 
 1650 
 1700 
@@ -272,14 +272,14 @@ The merits of various alternative energy sources will be treated in later chapte
 for instance. power, 
 In defiance of physical limits. 
 10,000 is not too different from 7,000, and the "rounding up" helps us conveniently make sense of the result, since a factor of 10,000 is easier to interpret as four applications of 10x, and thus 400 years. 
- 
+
 solar energy hitting the planet at 100% efficiency. But our planet is a tiny speck in space. Why not capture all the light put out by the sun, in a sphere surrounding the sun (called a Dyson sphere; see Box 1.3)? Now we're talking some real power! The sun puts out 4 x 1026 W. If it were a light bulb, this would be its label (putting the 100 W standard incandescent bulb to shame). So the number is enormous. But the math is actually pretty easy to grasp.[^11] Every century gets another factor of ten. To go from where we are now (18 x 1012 W) to the solar regime is about 14 orders-of-magnitude. So in 1,400 years, 12 we would be at 18 x 1026 W, which is about 4.5 times the solar output. Therefore we would use the entire sun's output in a time shorter than the 2,000-year run of our current calendar. 
 Box 1.3: Dyson Sphere Construction 
 If we took the material comprising the entire Earth (or Venus) and created a sphere around the sun at the current Earth-Sun distance, it would be a shell less than 4 mm thick! And it's not necessarily ideal material stock for building a high-tech sphere and solar panels. The earth's atmosphere distributed over this area would be 0.015 m thick. Don't hold your breath waiting for this to happen. 
 Bypassing boring realism, we recognize that our sun is not the only star in the Milky Way galaxy. In fact, we estimate our galaxy to contain roughly 100 billion stars! This seems infinite. A billion seconds is just over 30 years, so no one could count to 100 billion in a lifetime. But let's see: 100 billion is 1011. Immediately, we see that we buy another 11 centuries at our 2.3% rate. So it takes 1,100 years to go from consuming our entire sun to all the stars in our galaxy! That's 2,500 years from now, adding the two timescales, and still a civilization-relevant time period. Leave aside the pesky fact that the scale of our galaxy is 100,000 light years, so that we can't possibly get to all the stars within a 2,500 year timeframe. So even as a mathematical exercise, physics places yet another limit on how long we could conceivably expect to maintain our current energy growth trajectory. 
 The unhinged game can continue, pretending we could capture all the light put out by all the stars in all the galaxies in the visible universe. Because the visible universe contains about 100 billion galaxies, we buy another 1,100 years. We can go even further, imagining converting all matter (stars, gas, dust) into pure energy (E= mc2), not limiting ourselves to only the light output from stars as we have so far. Even playing these unhinged games, we would exhaust all the matter in the visible universe within 5,000 years at a 2.3% rate. The exponential is a cruel beast. Table 1.3 summarizes the results. 
 The point is not to take seriously the timescales for conquering the sun or the galaxy. But the very absurdity of the exercise serves to emphasize 
- 
+
 9 
 
 [^11]: Math becomes easier if you blur your vision a bit and do not demand lots of precision. In this case, we essentially ignore everything but the exponent, recognizing that each century will increment it by 1, at our chosen 2.3% rate. 
@@ -298,9 +298,9 @@ Light in Universe Mass in Universe
 3,600 
 5,000 
 By coincidence, the visible universe has about as many galaxies as our galaxy has stars. By "visible" universe, we mean everything within 13.8 billion light years, which is as far as light has been able to travel since the Big Bang (see Sec. D.1; p. 392). 
- 
+
 the impossibility of our continuing exponential growth in energy. All kinds of reasons will preclude continued energy growth, including the fact that human population cannot continue indefinite growth on this planet. We will address space colonization fantasies in Chapter 4. 
- 10 
+10 
 ## 1.3 Thermodynamic Consequences 
 Physics places another relevant constraint on growth rate, and that concerns waste heat. Essentially all of our energy expenditures end up as heat. Obviously many of our activities directly involve the production of heat: ovens, stoves, toasters, heaters, clothes dryers, etc. But even cooling devices are net heat generators. Anything that uses power from an electrical outlet ends up creating net heat in the environment, with very few exceptions. A car moving down the road gets you from place A to place B, but has stirred the air,[^13] heated the engine and surrounding air, and deposited heat into the brake pads and rotors, tires and road. Our metabolic energy mostly goes to maintaining body temperature. But even our own physical activity tends to end up as heat in the environment. The only exceptions would be beaming energy out of the earth environment (e.g., light or radio) or putting energy into storage (eventually to be converted to heat). But such exceptions do not amount to much, quantitatively. 
 What happens to all of this waste heat? If it all stayed on Earth, the temperature would climb and climb. But the heat does have an escape path: infrared radiation14 to space. The earth is in an approximate thermodynamic equilibrium: solar energy is deposited, and infrared radiation balances the input to result in steady net energy. As we will see in Chapter 5, the rate at which energy flows is called power, so that we can describe energy flows into and out of the earth system in terms of power. Physics has a well-defined and simple rule for how much power a body radiates, called the Stefan-Boltzmann law: 
@@ -330,7 +330,7 @@ space.
 Earth reaches an equilibrium so that power-in equals power-out.[^18] If more power is dumped onto the planet, then the temperature rises until σT4 climbs to match. The relation in Eq. 1.9 is fundamentally important to Earth's temperature balance, and applies pretty universally, as highlighted in Box 1.4. 
 Box 1.4: Everything Radiates 
 The same relation (Eq. 1.8) governs the surface of the sun, light bulb filaments, glowing coals, and even the human body. While the human body expends metabolic energy at a similar rate to an incandescent light bulb (about 100 W), one is much hotter than the other because the surface areas are vastly different. 
- 11 
+11 
 Try it yourself on a calculator! 
 Temperature must be in Kelvin. 
 
@@ -346,14 +346,14 @@ Figure 1.4: Earth-shown here in northern hemisphere summer intercepts sunlight a
 This 1,360 W/m2, known as the solar con- stant, is the incident energy rate (power), or the flux, of sunlight incident on Earth. 
 (1.10) 
 The 0.707 factor represents absorbed frac- tion after 29.3% is reflected. 
- 
+
 which we can rearrange to isolate temperature, satisfying 
 T4 
 0.707 x 1360 W/m2 
 = 
 40 
 (1.11) 
- 
+
 12 
 Solving for T yields T≈ 255 K, or -18°C (about 0°F). This is cold-too cold. We observe the average temperature of Earth to be about 288 K, or 15°C (59°F). The difference of 33°C is due to greenhouse gases-mostly H2O-impacting the thermal balance by preventing most radiation from escaping directly to space. We'll cover this more extensively in Chapter 
 9. 
@@ -389,7 +389,7 @@ AT (C)
 Table 1.4: At a constant energy growth rate of 2.3% per year, the temperature climb from waste heat (not CO2 emissions) is slow at first, but becomes preposterous within a few-hundred years. Water boils in just over 400 years, and by 900 years Earth is hotter than the sun! The scenario of continued growth is obviously absurd. 
 Connecting some ideas, we found in the previous section that we would be consuming the sun's entire output in 1,400 years at the 2.3% growth rate. It stands to reason that if we used a sun's worth of energy confined to the surface of the earth, the (smaller) surface would necessarily be hotter than the sun (in 1,400 years), just like a light bulb filament is hotter than human skin despite putting out the same power owing to the difference in area.[^19] 
 One key aspect of this thermal radiation scenario is that it does not depend on the form of power source. It could in principle be fossil fuels, nuclear fission, nuclear fusion, or some form of energy we have not yet realized and may not even have named! Whatever it is, it will have to obey thermodynamics. Thus, thermodynamics puts a time limit on energy growth on this planet. 
- 
+
 
 [^19]: This can be gleaned from Eq. 1.8 or Eq. 
 1.9. 
@@ -408,12 +408,12 @@ Many factors will intercede to limit growth in both population and resource use:
 Hint: for problems that require solving temperature when it appears as T1, you'll need to take the fourth root, which is the same as raising to thepower. So use the y* button (or equivalent) and raise to the 0.25 power. You can check this technique by comparing the square root of a number to the result of raising that number to the 0.5 power. Another technique for the fourth root is to take the square root twice in a row. 
 1. Verify the claim in the text that the town of 100 residents in 1900 reaches approximately 100,000 in the year 2000 if the doubling time is 10 years. 
 2. Fill out Table 1.1 for the missing decades between 1940 and 2000. 
- 
+
 13 
 Was the exercise pointless, since the math leads to absurdity? Is the math wrong? No- it's immensely valuable to learn that our assumption of continued growth (and ap- plication of the corresponding correct math) fails to make sense, ultimately. The logical conclusion is that growth cannot continue indefinitely. 
 Note that a deviation from the assumed steady 2.3% growth rate changes all the numbers, and therein may lie the solution: ramp down growth! 
 A number of these issues will be addressed in subsequent chapters. 
- 
+
 3. Our example town from the text (page 3) starting at 100 people in the year 1900 and doubling every 10 years was said to take about 260 years (26 doubling times) to reach world population. Verify that the population indeed would approach 7 billion in 260 years (when the year would be 2160), by any means you wish.[^20] 
 4. Use Eq. 1.5 with b = 2 to figure out exactly how many years-via a computation of doubling times, which may not be an integer-our example town from the text (page 3) would take to reach 7 billion people. 
 5. If our example town from page 3, doubling every 10 years, reaches a population of 7 billion in 260 years, how many years before it reaches 14 billion? 
@@ -425,14 +425,14 @@ this?
 10. A more dramatic, if entirely unrealistic, version of the bacteria-jar story is having the population double every minute. Again, we start the jar with the right amount of bacteria so that the jar will be full 24 hours later, at midnight. At what time is the jar half full now? 
 11. In the more dramatic bacteria-jar scenario in which doubling happens every minute and reaches single-jar capacity at midnight, at what time will the colony have to cease expansion if an explorer finds three more equivalent jars in which they are allowed to expand without interruption/delay? 
 12. What is the doubling time associated with 3.5% annual growth? 
- 14 
+14 
 
 [^20]: E.g., brute force doubling 26 times or using math to get straight at the answer. 
 Hint: In is the natural log function found on scientific calculators (sometimes as LN). 
 Hint: M is the ratio of the final population to the initial population. 
 To get 2,000 kcal of metabolic content per day, a person would need to eat 30,000 grains of rice each day. The amount of rice computed for this problem would feed the current world population for 240 years, which you are encouraged to check for your- self! 
 Roughly 10 bacteria fit within a cubic micron (tiny), so you would not be able to see this tiny starting amount. 
- 
+
 13. Using Eq. 1.5 and showing work, what annual growth rate, in per- cent, leads to the mathematically convenient factor-of-ten growth every century? 
 14. Use Eq. 1.5 with b = 1+ p to figure out how long it takes to increase our energy by a factor of 10 if the growth rate is closer to the historical value of 2.9% (p = 0.029). Using 2.3% as we did in the examples (starting on page 7) puts this at 100 years.[^21] 
 15. Extrapolating a constant growth rate in energy is motivated by historical performance. During this period, population was also growing, albeit not as fast. If population were to double every 50 years, 22 how many people would Earth host when we hit the energy/thermodynamic limits in roughly 300 years? 
@@ -442,7 +442,7 @@ Roughly 10 bacteria fit within a cubic micron (tiny), so you would not be able t
 19. Your skin temperature is about 308 K, and the walls in a typical room are about 295 K. If you have about 1 m2 of outward-facing surface area, how much power do you radiate as infrared radiation, in Watts? Compare this to the typical metabolic rate of 100 W. 
 20. The moon absorbs 90% of the solar energy incident on it.[^23] How hot would you expect the surface to get under full sun? You don't need the factor of four here24 because the moon rotates very slowly under the sun and we're considering a patch experiencing overhead sunlight (rather than averaging over the sphere). Compare the result to boiling water temperature. 
 21. Venus is, ironically, colder than Earth as an infrared radiator. This is because Venus is covered in bright clouds, absorbing only 25% of the incident solar flux. Sunlight is more intense there due to it's being closer to the sun: it's almost double, at 2,620 W/m2. Adapting Eq. 1.11, calculate the equilibrium temperature of Venus in the infrared and compare it to the Earth value of 255 K. 
- 15 
+15 
 Hint: the exponential, ex, "undoes" the nat- ural logarithm. 
 
 [^21]: Hint: a good way to check your math. Note that if we were to use 2.9% instead of 2.3%, all of the time estimates in Section 1.2 are reduced by the ratio of this question's answer to 100 years. 
@@ -460,14 +460,14 @@ incident at the same rate/flux as at
 
 [^24]: Referring to the 4 that shows up in Eqs. 1.10 and 1.11. 
 The surface of Venus is much hotter than that of Earth owing to a runaway green- house condition. On Earth, the greenhouse boost is only 33 K, but on Venus it's hun- dreds of degrees. 
- 
+
 22. Adapt Eq. 1.11 to Mars to find its equilibrium temperature. The solar flux averages 590 W/m2 there, and it absorbs 75% of incident sunlight. Express the answer in both Kelvin and Celsius, and put in context. 
 23. If a human body having an outward surface area of 1 m2 continued to put out 100 W of metabolic power in the form of infrared radiation in the cold of space (naked; no sun), what would the equilibrium temperature be? Would this be comfortable (put in context)? 
 24. Verify the total solar power output of 4 x 1026 W based on its surface temperature of 5,800 K and radius of 7 x 108 m, using Eq. 
 1.9. 
 25. Verify that Earth would reach a temperature far in excess of boiling point of water25 after 500 years if today's power output (18 TW) increased by a factor of 10 each century. 
- 
- 
+
+
 16 
 
 [^25]: Water boils at 100°C, or 373 K. 
@@ -482,7 +482,7 @@ Chapter 1 demonstrated that the laws of physics and mathematical logic render a 
 In subsistence times, esthetics held little value compared to physical goods: you couldn't eat a sculpture, for instance-nor would it help keep you warm.2 Food, tools, resources like wood, pack or draft animals carried primary value. When basic subsistence requirements were met, gold or jewelry may have warranted some expenditure-but even these were physical resources. 
 Agriculture freed some individuals in society to think and create. The economy found more room to value arts and performance: things that fueled the mind, if not the body. During the Renaissance, patrons would support artists and scientists whose output had few other channels of economic support. In today's world, a complex economy distributes financial assets to a wide variety of practitioners in general accordance with society's values. 
 Banner photo pokes fun at what physics (gravity) finds more valuable: a silver dollar (real silver) vs. a $20 bill; Credit: Tom Murphy 
- 
+
 2.1 Historical Coupling 
 17 
 2.2 Decoupling and Substitution 20 2.3 Forced Economic Limits .. 24 
@@ -531,5 +531,5 @@ One way to capture the physical connection to economic activity is to represent 
 Figure 2.1: Per capita energy use as a func- tion of GDP on a logarithmic scale. Per capita GDP is the sum total of a country's economy divided by population, effectively indicating average annual income. The rate at which an individual uses energy is ex- pressed as a power, in Watts. A strong cor- relation exists here across many orders-of- magnitude: rich countries use more energy, per person [6–8]. A few instructive cases (red dots) are labeled. The dot areas are scaled to population. 
 3: Or converted monetary equivalent. 
 4: GDP is a measure of total monetary value of goods and services produced in a country within a year. 
- 
+
 Definition 2.1.1 Energy intensity is a measure of how much energy a society uses relative to its economic scale-sort of like an efficiency. It can be a proxy for resource use in general, and is calculated as: 

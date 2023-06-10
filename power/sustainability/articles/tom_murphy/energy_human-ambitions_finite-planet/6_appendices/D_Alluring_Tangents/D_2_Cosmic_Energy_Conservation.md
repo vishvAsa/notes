@@ -15,7 +15,7 @@ The insight is that these symmetries imply conservation laws. Time symmetry dict
 Great. As far as we know, the latter two are satisfied by our universe. To the best of our observational capabilities, the universe appears to be homogeneous (the same everywhere) and isotropic (the same in all directions). Yes, it's clumpy with galaxies, but by "same," we mean that physics appears to act the same way. Therefore, substantial observa- tional evidence supports our adopting conservation of momentum and conservation of angular momentum as a fact of our reality. 
 But time symmetry is a problem, because the universe does not appear to be the same for all time. It appears to have emerged from a Big Bang (see Section D.1), and was therefore much different in the past than it is now, and continues to change/evolve. An experiment to measure the effective temperature of the Cosmic Microwave Background is enough to establish one's place on the timeline of the cosmic unfolding. 
 As a consequence, conservation of energy is not strictly enforced over cosmological timescales. When a photon travels across the universe, it "redshifts," as if its wavelength were being stretched along with the expansion of the universe. Longer wavelengths correspond to lower energy. Where did the photon's energy go? Because time symmetry is broken in the universe, the energy of the photon is under no obligation to remain constant over such timescales. Deal with it, the universe says. 
- 
+
 D.2 Cosmic Energy Conservation 395 
 On timescales relevant to human activities, conservation of energy is extremely reliable. One way to put this is that the universe is 13.8 billion years old, or just over 1010 years. So in the course of a year, physics would allow an energy change by one part in 1010, or in the tenth decimal place. Generally, this is beyond our ability to distinguish, in practical circumstances. 
 But violations are even more restricted than that. A photon streaming across the universe is in the grip of cosmic expansion and bears witness to associated energy changes. But a deposit of oil lying underground for 100 million years is chemically bound and not "grabbable" by universal expansion, so is not "degraded" by cosmic expansion. In the end, while we acknowledge that energy conservation is not strictly obeyed in our universe, it might as well be for all practical purposes. Thus, this section amounts to a tiny asterisk or caveat on the statement that energy is always conserved. 
@@ -40,7 +40,7 @@ via E = mc2; see Sec. 15.3 (p. 246)
 [^6]: We call this photosynthesis. 
 
 [^7]: To the extent that energy is "lost" in any of these exchanges-operating at < 100% efficiency-we should recognize that the missing energy just flows into other paths, generally into heat. 
- 
+
 396 
 One day, a silly human digs up the oil and combusts it with oxygen, converting chemical energy to thermal energy in a contained fireball explosion. The thermal energy is used to produce kinetic energy of a piston in a cylinder, transmitted mechanically to wheels that in turn propel a car along a freeway. 
 The car climbs a mountain, converting chemical energy in the fuel into gravitational potential energy via the same thermal-to-mechanical chain described above. Along the way, kinetic energy is given to the air, thermal energy is given to the environment by the hot engine, and brakes get hot as the kinetic energy of the car is converted to heat via friction as the car comes to a stop. But the car does not fully stop in time before tipping over a cliff and giving up its gravitational potential energy to kinetic energy as the car plummets and picks up speed. 
@@ -59,7 +59,7 @@ energy.
 When a book slides across a floor, it gives up its kinetic energy to heat caused by friction in the floor-book interface. When a car applies brakes and comes to a stop, a very similar process heats the brake pads and rotors. As a car speeds down the road, it stirs the air and also experiences friction in the axle/bearings and in the constant deformation of the tire as its round shape flattens on the road continuously. The stirred air swirls around in eddies that break up into progressively smaller ones until at the millimeter scale viscosity (friction) turns even this kinetic motion into randomized motion (heat).
 
 [^10]: In this way, we can make an explosion or fireball do useful work as in dynamite, internal combustion, or a coal-fired power plant. 
- 
+
 397 
 
 Human metabolism converts chemical energy from food into exportable mechanical work (lifting, moving, digging, etc.) at an efficiency of 20– 25%. The rest is heat, which is conveniently used to maintain body temperature in most environments. But even most of the external work performed ends up as heat. The primary exception may be lifting masses to a higher location. Even this is temporary in the very long run,[^11] and the stored energy will ultimately flow into heat. 

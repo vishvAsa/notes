@@ -56,7 +56,7 @@ C8H18
 64 
 Of chief interest in Table 9.1 for this chapter are the last two columns: 
 Elephants doing their best. Photo courtesy of O'Connell & Rodwell. 
- 
+
 9 Climate Change 
 139 
 1. mass ratio: how many grams of CO2 are produced per gram1 of 
@@ -106,7 +106,7 @@ year
 2000 
 2010 
 2020 
- 
+
 When the measurements started, the atmosphere consisted of less than 320 parts per million by volume (ppm), or < 0.032%. By now, we are beyond 410 ppmy. 
 Measurements of trapped air bubbles in the Greenland ice sheet going back about 100,000 years and the Antarctic ice sheet going back 800,000 years indicate that CO2 has fluctuated between 180-280 ppm, reaching the higher end of the range during the warmer periods between ice ages (interglacial periods). For at least the last thousand years before the Fossil Fuel Age, CO2 held steady around 280 ppm.. 
 9.1.2 CO2 Expectations 
@@ -177,7 +177,7 @@ The mass of the atmosphere is about 5 × 1018 kg, obtained by multiplying 10,000
 Figure 9.3 shows the result of this computation as a function of time in terms of annual rate and cumulative emission. We find that even though oil and coal deliver about the same global annual energy now, the carbon-intensity of coal is much higher so that its CO2 emission dominates10 over the other sources. In fact, coal always has been the dominant CO2 producer, seen by the fact that the black curve in the left-hand panel of Figure 9.3 has always been higher than the other two CO2 sources. In total, this estimate suggests that we should see CO2 levels rising by 2.6 ppm, per year, a little over half of which is due to coal (1.4 ppm/year). 
 11 
 Summing up the rising contributions over time, this method of estimation suggests that we have increased the atmospheric CO2 by 123 ppm, and that 75 ppm, of this (61%) is attributed to coal (right-hand panel of Figure 9.3). 
- 
+
 
 [^5]: At 120 kg per barrel, this turns into the expected 30 billion barrels per year as a check to see that we're on the right track. 
 
@@ -264,7 +264,7 @@ The curve computed from fossil fuel use overlaps the Keeling Curve so faithfully
 Figure 9.4: Fossil fuel contribution to CO2 (red) on top of CO2 measurements (blue). The red curve uses a starting point of 285 ppm, and has 49% of CO2 emissions staying in the atmosphere. The overlap is remarkably good and convincing. 
 
 [^13]: ... acidifying the ocean's water 
- 
+
 Box 9.2: If We Ignored Oceans 
 Reflect on what our reaction might have been had we not corrected for oceanic and land absorption: we would conclude that we have no trouble quantitatively accounting for the CO2 rise based on fossil fuels, and would be left asking why we don't see an even larger rise. In other words, it is no stretch to account for the cause of excess CO2-making it far from mysterious. If our CO2 increase were not due to humans,[^14] we would be left with a real mystery: then where is all of the known CO2 emission from burning fossil fuels disappearing to? 
 9 Climate Change 
@@ -336,7 +336,7 @@ Figure 9.5: Cumulative contributions to CO2 emissions to date, grouped by con- t
 The 
 presence of excess CO2 in our atmosphere is undeniably from fossil fuel combustion. But how does this alter our climate? How can such a minor constituent of the atmosphere (now 0.04%) cause so much trouble? The answer lies in infrared radiation [54]. Recall from Sec. 1.3 (p. 10) that 
 [54]: Pierrehumbert (2011), "Infrared radiation and planetary temperature" 
- 
+
 of 
 this is the mechanism by which energy leaves the earth, the power which is governed by the Stefan-Boltzmann law P = AsurfσT4, where the Stefan-Boltzmann constant,[^15] σ = 5.67 x $10^{-8}$ W/m2/K4, and T is the temperature of the radiating surface, in Kelvin. 
 Sun 
@@ -375,7 +375,7 @@ Verify for yourself. Two square roots in a row accomplish a fourth root.
 [^20]: ... the infrared radiation that directly escapes to space 
 
 [^21]: Thus the white portions indicate the open "windows." 
- 
+
 9 Climate Change 
 145 
 Percent 
@@ -428,7 +428,7 @@ Wavelength (um)
 30 
 but 
 If some portion of the infrared radiation does not escape to space is absorbed by the atmosphere, the planet does not cool as effectively, adding some offset to Eq. 9.2-in Earth's case 33°C. It is like the earth is wearing a blanket that raises its temperature by 33°C. Figure 9.9 illustrates the mechanism. Water vapor is responsible for ~20°C of this 33°C, and CO2 is responsible for another ~8°C, leaving ~5°C for ozone, methane, and other minor contributors (Table 9.4). Incidentally, methane (CH4) is about 80 times more potent than the same amount of CO2 as a greenhouse gas, but is at a far lower concentration than CO2, and also shorter-lived in the atmosphere before being chemically destroyed.[^23] We focus on CO2 because this is what human activity is changing rapidly by burning fossil fuels. The vast ocean-air interface means water concentration is impossible to control, and simply responds to temperature due to the fact that warmer air holds more moisture- becoming an important feedback agent. Water is not the driver of climate 
- 
+
 Figure 9.8: Another view of just the water and carbon dioxide absorption spectra, bet- ter showing the overlapping role of each in the 10 um window. From Robert Rohde (NASA). 
 Table 9.4: Greenhouse contributions [56]. 
 Molecule 
@@ -488,7 +488,7 @@ T =
 +33≈ 288.6, 
 σ 
 (9.6) 
- 
+
 which is about 0.6°C larger than it was before increasing the amount of CO2. We can express this as a sensitivity: how much AT do we get for a given imbalance in radiative forcing? In this case, 0.6°C from a 2.2 W/m2 increase is 0.27°C per W/m2. But when the known feedback mechanisms are included-most of them in the positive direction-the temperature sensitivity becomes 0.8°C for every W/m2 of additional forcing: called the climate sensitivity parameter.[^28] 
 Definition 9.2.2 The climate sensitivity parameter connects the amount of warming expected for a given amount of radiative forcing. Current understanding puts this at 0.8°C per W/m2 of radiative forcing. 
 Therefore, our current 2.2 W/m2 of additional (fossil-fuel added) radia- tive forcing translates29 to a 1.7°C temperature increase (Figure 9.10), which is about three times what the non-feedback calculation would provide. 
@@ -535,7 +535,7 @@ By far the most important negative feedback mechanism is the infrared radia- tio
 [58]: National Oceanic and Atmospheric Administration (NOAA) (2019), Global Climate Report 
 
 [^31]:... lots of thermal mass, or heat capacity 
- 
+
 9 Climate Change 
 148 
 9.3 Possible Trajectories 
@@ -618,7 +618,7 @@ The second scenario focuses on eliminating coal, since it is the highest intensi
 
 [^36]: 
 based on its lower energy density (5-8 kcal/g vs. 13 for natural gas) and its higher CO2-to-fuel mass ratio (3.67 vs. 2.75 for natural gas) 
- 
+
 simulation allows us to evaluate the best-case (and unrealistic) scenario of instant, complete replacement, to put a limit on how much benefit such a move brings. Figure 9.12 shows what happens. The rate of CO2 emission would immediately drop to 1.8 ppm/year.[^37] That definitely helps, but the total emission by 2100-if carrying on at today's energy demand via fossil fuels-would climb to 268 ppmy. The effect would more than double the 123 ppm, that we've already contributed to the atmosphere, and would approximately double the pre-industrial CO2 level in the atmosphere, leading to a forcing of 3.6 W/m2 and AT ≈ 2.9°C (summarized in Table 9.5). So as beneficial as the termination of coal would be, any path that involves carrying our fossil fuel use forward at today's levels even substituting the best form for the worst form-does not look promising. 
 9 Climate Change 
 149 
@@ -671,7 +671,7 @@ Again, follow along for good practice.
 
 [^39]: 
 ... resource wars, devastating climate change repercussions 
- 
+
 CO2 ppmy annual contribution 
 CO2 ppmy annual contribution 
 140 
@@ -817,7 +817,7 @@ add CO,: 2 W/m2 imbalance adjusting: 1 W/m2 imbalance
 post-CO, equilibrium 
 Figure 9.15: Four steps to illustrate (in a grossly simplified way) the process of Earth adapting to an increase in greenhouse gas (GHG). Starting from the left within each panel, solar input is held constant at 240 W/m2. Most of the radiation leaving the ground-quantitatively adhering to oT1-is absorbed by GHGs (fraction absorbed indicated in GHG "cloud"), the rest escaping directly to space. Half the absorbed energy is radiated up (escaping) and half back down. The dashed arrow at right is the net radiation escaping. Integer numbers are in W/m2, and arrow widths are scaled accordingly. Ground temperature is indicated at bottom. See text for narrative sequence. 
 Figure 9.15 sums up the story.[^45] The first panel shows the pre-industrial equilibrium condition, in which 77% of the infrared radiation from the ground was intercepted by the greenhouse gases, while 23% (90 W/m2) 
- 
+
 
 [^45]: Note that in each panel, adding the two top arrows or subtracting the two bot- tom ones both yield the same number- matching the dashed arrow on the right. 
 directly escaped. The 77% absorbed (300 W/m2) is re-radiated equally up and down (150 W/m2 each). The net outgoing radiation matches the 240 W/m2 solar input exactly, signaling equilibrium. 
@@ -855,7 +855,7 @@ Try re-creating the upward radiation numbers using oT4
 
 [^54]: Two entries in the table are blank, be- 
 cause it does not make much sense to talk about heating just a layer of the atmosphere, or heating the "whole" ground: how deep makes sense? 
- 
+
 area 
 Component (1012 m2) (1015 m3) 
 volume 
@@ -915,7 +915,7 @@ as it roughly is now; third panel in Figure 9.15
 
 [^57]: 
 not how it really works 
- 
+
 9 Climate Change 
 154 
 component math 
@@ -966,7 +966,7 @@ Tip: don't treat sections like this as the text- book "telling" you stuff. It is
 [^60]: Ice covers 3% of the globe, while the ocean covers 71%. 
 
 [^61]: This is not far from reality, as will be seen in Section 9.4.3. 
- 
+
 centimeters 
 factor on how fast things can heat up. If we confine ocean heating to the top 300 m62 of water, the excess 1.6 × 1022 J per year leads to an annual temperature rise of about 0.035°C per year, or about 30 years to climb 1°C (at a 1 W/m2 imbalance). 
 Although this section may seem to be long, convoluted, and perhaps even boring, it accomplished a number of things for us: 
@@ -1011,7 +1011,7 @@ NOAA Climate.gov Adapted from SOTC 2018
 Melting ice contributes about 2.4 mm/yr of rise, while thermal expansion accounts for about 1.2 mm/yr for a total rate of 3.6 mm/yr [61]. Since 
 Figure 9.16: Satellite measurements of sea level since 1993, showing a rise of 3.6 mm per year. Melting ice is the largest contribu- tion, although thermal expansion plays a role as well [61]. From NOAA. 
 [61]: Lindsey (2020), Climate Change: Global Sea Level 
- 
+
 9 Climate Change 
 156 
 1880, sea level has risen about 230 mm At the current rate, we would expect a comparable addition by 2100 for a total of 0.5 m. 
@@ -1036,7 +1036,7 @@ The preceding paragraph and Table 9.6 have enough information (absolute and rela
 [60]: Davies (2020), Calculating glacier ice volumes and sea level equivalents 
 
 [^67]: One goal of this book is to empower students to independently check more au- thoritative sources-much like 2+2 = 4 can be personally verified and is not a matter of faith. 
- 
+
 Coastal cities are already struggling to deal with the present ~0.25 m rise. This may not sound like much, and on normal days does not cause problems. But the low pressure associated with storms results in a local swell in water level,[^68] so that a storm plus high tide plus heavy waves adds to the climate-change rise to destroy human structures that otherwise may have escaped harm. Even if CO2 emissions ceased today, the warming that has already happened will continue melting ice. Temperatures will also continue to climb as increased forcing from the already-present CO2 continues to heat the ocean as we creep toward equilibrium a slow process. So sea-level rise may turn out to be the gift that keeps on giving for centuries more. 
 Sea level in the distant past-tens of millions of years ago—has been as high as 200 m over where it is now. And 20,000 years ago, during the last glacial maximum, sea level was 120 m lower than it is today [62]. So Earth is no stranger to large fluctuations in sea level. By contrast, many coastal cities do not know how to handle even a one meter rise-which is within the projections for 2100 in a number of models. 
 9 Climate Change 
@@ -1048,7 +1048,7 @@ Sea level in the distant past-tens of millions of years ago—has been as high a
 So far, we have simply described the climate change phenomenon as an unambiguous consequence of our fossil fuel habit, but have not addressed what we might do to combat it. In this section, the author will not attempt to conceal his personal take on the matter, and will keep it short. 
 First, clever geo-engineering ideas ring of hubris, and seem like solving a problem of hurtling toward the ground by digging a hole ahead of the fall fast enough to keep up. Our whole problem is that we have convinced ourselves that we can outsmart nature.[^69] You would stop going to a doctor who tried to treat your illness by applying superficial remedies to a resulting skin condition without addressing the underlying cause. 
 In this case, the underlying cause is very simple: unchecked70 human ambitions. The combination of fossil fuels, an incessant drive for growth, destruction of forests and habitat,[^71] population pressures, and an in- dustrial approach to agriculture all play a role. This is why it has been hard to combat: it's us. It pervades all the things we do. We are our own adversaries. How do we fight ourselves? To do so requires honesty and even a collective willingness to sacrifice and prioritize planetary health over narrow short-term human interests. What is more important: that individuals attempt to fulfill all their dreams now, or that civilization endures for the long haul? Are we willing to dial back our own desires so that billions of future humans who we will never meet and countless other species on the planet can also enjoy life? We have never had to make such a difficult choice as a global whole, so it is hard to say if Homo sapiens can pull it off. 
- 
+
 
 [^69]: See Sec. D.6 (p. 408) in Appendix D for an extended discussion of this notion. 
 
@@ -1073,7 +1073,7 @@ stances
 .e.g., energy, water, food, mined sub- 
 9.7 Problems 
 1. If you were asked to characterize a typical carbon cost of fossil fuels, in grams of CO2 emitted per gram of input fuel, what single simple number would be a good approximation to all three types, referring to Table 9.1? 
- 
+
 9 Climate Change 
 159 
 2. How many kilograms of CO2 are produced from consuming a 40 L tank of gasoline? Compare the result to typical human mass. Gasoline is about 0.75 kg/L. 
@@ -1093,7 +1093,7 @@ stances
 [^77]: Multiplying ppm/yr (height) times years (base) gives units of ppmy, matching the plot on the right. 
 
 [^78]: ... or equivalently, 135 g/MJ 
- 
+
 9 Climate Change 
 160 
 skeptic" who names many natural sources of CO2 and says we should not be too quick to label the CO2 rise as anthropogenic?79 
@@ -1149,7 +1149,7 @@ Hint: It is easiest just to consider a single square meter of surface and figure
 
 [^87]: Hint: use kcal (4,184 J) and solve for the temperature increase in one year, then figure out how many years for that to accu- mulate to 1oC. 
 Hint: multiply by area of Earth and seconds in a year to get Joules of input. 
- 
+
 forcing is 3 x 1022 J per year. How much would the temperature of the top 10 m of ocean rise in one year at this level? 
 29. If we somehow maintained a steady 2 x 1022 J/yr of unbalanced 
 input indefinitely, how long would it take to: 
@@ -1164,4 +1164,3 @@ The sum of all these is how long it would take to get all of these tasks done, e
 9 Climate Change 
 162 
 In practice, this is not how things will go. The ocean will heat up more near the surface, allowing air to get hotter and ice to melt faster while the deep ocean stubbornly resists warming for centuries. 
- 

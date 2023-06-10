@@ -19,7 +19,7 @@ Describing an analogous scale model of the solar system, galaxy, and universe as
 [^1]: To quote Carl Sagan, extraordinary claims require extraordinary evidence. 
 The convention is to capitalize Earth when it is used as a proper name, and refer to the earth when it is an object. Similar rules apply to Moon and Sun. 
 Photo credit: NASA/Bill Anders from Apollo 8 [22]. 
- 
+
 4 Space Colonization 
 55 
 55 
@@ -51,7 +51,7 @@ We will construct a model using the set of scale relations in Definition 4.1.1, 
 We'll make Earth the size of a grain of sand (about 1 mm diameter). The moon is a smaller speck (dust?) and the diameter of its orbit would 
 span 
 the separation of your eyes. On this scale, the sun is 100 mm in diameter (a grapefruit) and about 12 meters away (40 feet). Mars could be anywhere from 4.5 meters (15 feet) to 30 meters (100 feet) away. Reflect 
- 
+
 Table 4.1: Progression of scale factors. 
 Sun distance 
 Step 
@@ -131,7 +131,7 @@ your nose.
 
 [^10]: It only had 17 km/s left. 
 [24]: (2020), Saturn V 
- 
+
 a typical car 2,000 years to spend this much fuel. Do you think the astronauts argued about who should pay for the gas? 
 Let's relax the scale slightly, making the sun a chickpea (garbanzo bean). Earth is now the diameter of a human hair (easy to lose), and one meter from the sun. The moon is essentially invisible and a freckle's-width away from the earth. The next star is now 300 km away (a 3-hour drive at freeway speed), while the Milky Way center is 1.5 million kilometers away. Oops. This is more than four times the actual Earth-Moon distance. We busted our scale again without even getting out of the galaxy. 
 So we reset and make the sun a grain of sand. Now the earth is 10 cm away and the next star is 30 km.[^11] Think about space this way: the swarm of stars within a galaxy are like grains of sand tens of kilometers apart. On this scale, solar systems are bedroom-sized, composed of a brightly growing grain of sand in the middle and a few specks of dust (planets) sprinkled about the room.[^12] It gets even emptier in the vast tracts between the stars. The Milky Way extent on this scale is still much larger than the actual Earth, comparable to the size of the lunar orbit. 
@@ -147,7 +147,7 @@ It is not necessary to harp further on the vastness of space, but having come th
 As mind-bogglingly large as the solar system is, not to mention that it itself is dwarfed by interstellar distances, which in turn are minuscule compared to the scale of the galaxy, how can we possibly appreciate the largest scales in the universe? Let's start by making galaxies manageable. If galaxies are like coins (say a U.S. dime at approximately 1 cm diameter), they are typically separated by meter- like scales. The edge of the visible universe (see Sec. D.1; p. 392) would be only 1.5 km away. Finally, the picture is easy to visualize: coins as galaxies separated by something like arm's length and extending over an area like the center of a moderately-sized town. We can even imagine the frothy, filamentary arrangement of these galaxies, containing house-sized (5–50 m) voids empty of coins (galaxies). See Figure 4.3 for a visual explanation. 
 But penetrating the nature of the individual galaxies (coins, in the previous example scale) is extremely daunting: they are mostly empty space, and by the time we reduce the galaxy to a manageable scale (say 10 km, so that we can picture the whole thing as city-sized), individual stars are a few tenths of a meter apart and only about 50 atoms across (roughly 10 nm). Cells and bacteria are about 100-1,000 times larger than this. So it's nearly impossible to conceive of the scale of the galaxy while simultaneously appreciating the sizes of the stars and just how much space lies between. 
 Figure 4.3: Galaxies are actually distributed in a frothy foam-like pattern crudely lining the edges of vast bubbles (voids; appearing as dark regions in the image). This structure forms as a natural consequence of gravity as galaxies pull on each other and coalesce into groups, leaving emptiness between. This graphic shows the bubble edges and filaments where galaxies collect. The larger galaxies are bright dots in this view-almost like cities along a 3-dimensional web of highways through the vast emptiness. From the Millennium Simulation [25]. 
- 
+
 4 Space Colonization 
 58 
 travel 
@@ -158,7 +158,7 @@ Humans are not shy about congratulating themselves on accomplish- ments, and yes
 But let's not get ahead of ourselves. Just because we can point to a few special example accomplishments does not mean that such examples presage a new normal. A person can climb Mt. Everest, but it is not ever likely to become a commonplace activity. We can build a supersonic passenger airplane for trans-atlantic flight, but it does not mean it will be viable to sustain.[^14] One can set up a backyard obstacle course for squirrels and generate viral videos, but the amusing demonstration does not signal a "new normal" in backyard design. We need to separate the possible from the practical. The moon landings might then be viewed as a nifty stunt a demonstration of capability-rather than a path to our future. We encountered similar arguments in Chapter 2 in relation to decoupling: just because it can happen in certain domains of the economy does not mean that the entire economy can decouple and "defy gravity." 
 The attractive evolutionary argument misses two critical facets of reality. When fish crawled out of the sea, they escaped predation (as the first animals on land) and found new food sources free of competition. That's a win-win: less dangerous, more sustenance.[^15] Likewise, when birds took flight (or we could discuss insects, which beat the birds to it), it was a similar story: evade ground-based predators who could not fly, and access a whole new menu of food-another win-win. 
 Going to space could easily be cast as a lose-lose. It's an extremely hostile environment offering no protection or safe haven,[^16] and there's nothing to eat.[^17] Think about it: where would you go to grab a bite in our solar system at present, outside of Earth? And a solar system is an absolute oasis compared to the vast interstellar void. The two factors that jointly 
- 
+
 Table 4.3: Approximate/estimated costs, adjusted for inflation (M = million; B billion). [26-29] 
 
 [^13]: 
@@ -209,7 +209,7 @@ Figure 4.4: The pink band indicates the farthest humans have been from the surfa
 
 ## 4.3 A Host of Difficulties 
 If undeterred by the vast emptiness, hostile conditions, or lack of human- supporting resources in space, then maybe it's because you believe 
- 
+
 human ingenuity can overcome these challenges. And this is correct to a degree. We have walked on one other solar system body.[^18] We have had individuals spend a year or so in earth orbit. Either these represent first baby steps to a space future, or just rare feats that we can pull off at great effort/expense. How can we tell the difference? 
 Box 4.4: Comparison to Backpacking 
 The way most people experience backpacking is similar to how we go about space exploration: carry on your back all the food, clothing, shelter, and utility devices that will be needed for a finite trip duration. Only air and water are acquired in the wild. For space travel, even the air and water must be launched from Earth. So space travel is like a glorified and hyper-expensive form of backpacking—albeit offering breathtaking views!. 
@@ -259,7 +259,7 @@ Figure 4.5: Rocky-body atmospheres in the solar system, showing average temperat
 of "comfort" for Earth is shown as a blue rectangle going from -10°C to 40°C and 0.2 atm (where the atmosphere would need to be 100% oxygen) to (arbitrarily) 10 atm. Not only are the other bodies far outside our comfort range, the composi- tions are noxious, and lack oxygen. Bear in mind that a change of even a few degrees- as in climate change is a big deal. Even Mt. Everest, where humans can survive for only a few hours with supplemental oxygen is substantially more hospitable than Mars. 
 
 [^22]: Reaching the Americas involved a leap across a span of (life-supporting) ocean about twice the size of Europe. Reaching Mars involves a leap across inhospitable space 5,000 times the diameter of Earth- not very similar at all. 
- 
+
 4 Space Colonization 62 
 places to test our toughness and also learn about new environments. We do not view these sorts of explorations as mistakes just because they did not pave the way for inhabitation. Rather, we speak fondly of such excursions as feathers in our collective cap: feats that make us proud as a species. Space might be viewed in a similar way: superlative in terms of challenge and wonderment, reflecting positively on our curiosity, drive, ingenuity, and teamwork. We also derive benefits23 in the way of technological advancement propelled by our quest to explore, and in furthering our scientific understanding of nature. 
 So even if space does not fulfill the fantasy of continued human expansion across the cosmos, it is in our nature to at least explore it. We would do well to put space exploration in the category of conquering Mt. Everest rather than that of Europeans stumbling upon the West Indies (one is as imminently uninhabitable as the other is inhabitable). Let us not make the mistake of applying the wrong narrative to space. 
@@ -272,7 +272,7 @@ Space colonization might be treated as a pretend fantasy for the moment. We woul
 [^23]: 
 among them a deeper appreciation for the rare and precious Earth 
 Despite the pessimistic tone of this chapter, the author is himself captivated by space, and has built a life around it: Star Wars was a transformative influence as a kid, and later Star Trek. The movie The Right Stuff is still a favorite. He has peered to the edge of the universe first through a 10-inch tele- scope he built in high school, and later us- ing the largest telescopes in the world. He has worked on a Space Shuttle experiment, met astronauts, knew Sally Ride, and spent much of his career building and operating a laser system to bounce and detect indi- vidual photons off the reflectors placed on the lunar surface by the Apollo astronauts (as a test of the fundamental nature of grav- ity), which directly inspired part of a Big Bang Theory episode via personal interac- tions with the show's writers. So a deep fondness for space? Yes. Would volunteer to go to the moon or Mars? Yes. Believes it holds the key to humanity's future? No. 
- 
+
 4 Space Colonization 63 
 Box 4.5: Q&A on State of Exploration 
 After reading the first draft of this chapter, students had a number of remaining questions. Here are some of them, along with the author's 
@@ -295,7 +295,7 @@ nature.
 The author might even go so far as to label a focus on space colonization in the face of more pressing challenges as disgracefully irresponsible. Diverting attention in this probably-futile26 effort could lead to greater total suffering if it means not only mis-allocation of resources but perhaps 
 
 [^26]: ... at least on relevant time scales 
- 
+
 more importantly lulling people into a sense that space represents a viable 
 escape hatch. Let's not get distracted! 
 The fact that we do not have a collective global agreement on priorities or the role that space will (or will not) play in our future only highlights the fact that humanity is not operating from a master plan27 that has been well thought out. We're simply "winging it," and as a result potentially wasting our efforts on dead-end ambitions. Just because some people are enthusiastic about a space future does not mean that it can or will happen. 
@@ -316,7 +316,7 @@ how big is this in relation to familiar objects?
 4. Find an Earth globe and an object about one-fourth its size to represent the moon, then place at the appropriate distance apart. Report on how far this is. Take a personalized/unique picture to document, and take some time appreciating how big Earth would look from the moon. 
 This kind of exercise might seem like a hassle, but it can really help internalize the scales in a way words never will. 
 By doing this, you can get maybe 2% of the enjoyment of a trip to the moon for less than one-billionth the cost: a real bargain! Can you make out Florida? Japan? 
- 
+
 5. Highway 6563 in New Mexico has signs along a roughly 30 km stretch of road corresponding to the solar system scale from the Sun to Neptune. On this scale, how large would Earth, Sun, and Jupiter be, in diameter? Express in convenient units appropriate to the scale. 
 6. Using the setup in Problem 5, how fast would you have to travel on the road to match the speed of light, for which it takes 500 seconds to go from Earth to the sun? Express in familiar/convenient units. 
 7. Note that the size of the moon in Figure 4.1 is about the same size as the sun in Figure 4.2. Explain how this is related to the fact that they appear to be about the same size in our sky. Hint: imagine putting your eye at the earth location in each figure and looking at the other body. 
@@ -335,7 +335,7 @@ This is why eclipses are special on Earth.
 
 [^31]: In other words, Earth diameter is to interstellar distances as a 100 m oasis is to how far? 
 The insight you develop will not depend on exact choices for distance and speed, as long as they are reasonable. 
- 
+
 the last 45 years; 
 4 Space Colonization 
 66 

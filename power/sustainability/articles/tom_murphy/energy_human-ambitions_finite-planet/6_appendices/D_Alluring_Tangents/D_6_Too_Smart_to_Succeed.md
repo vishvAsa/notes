@@ -96,4 +96,3 @@ Please, please, please let this tragic fate not come to pass!
 [^71]: .although it took over a billion years to get there: no instant gratification 
 
 [^72]: The anaerobic life would disagree, but when do we ever listen to them anymore? In any case, the result was tremendous bio-diversity, which ultimately may be a decent figure of merit for value in this world. 
- 

@@ -61,7 +61,7 @@ warming mechanism, 143–147
 atmospheric spectrum, 145  
 contributing countries, 143  
 conversion from power, 140, 141 expectations, 140-143  
-  
+
 fossil fuel intensity, 138  
 historical emissions, 139, 142, 143  
 life cycle emissions, 181, 194, 218, 221,  
@@ -149,7 +149,7 @@ food labels, 74, 81, 121, 380 forms, 70, 164
 global scale, 7, 12, 168  
 global usage, 108-110  
 gravitational, 174, 173-175  
-  
+
 historical use, 7, 30, 107-111   
 kinetic, 184, 184-185  
 mass-energy, 246, 246-249 matrix, 289-299  
@@ -233,7 +233,7 @@ prospects
 hard to predict, 117, 126, 130, 404–408  
 GDP, 18  
 generator, 89, 175, 185, 250 geothermal  
-  
+
 441  
 heat pump, 99, 297  
 geothermal energy, 165, 167, 275-280, 295 depletion mining, 277-278, 297 energy density, 277  
@@ -304,7 +304,7 @@ Wien law, 199
 logarithm, 5  
 logarithmic plot, 7  
 logistic model, 33-35  
-  
+
 442  
 caveats, 38  
 deer examples, 33-36  
@@ -467,7 +467,7 @@ planet atmospheres, 61 scale, 54-58
 scale factors, 55  
 Space Shuttle, 59, 62  
 student questions, 63  
-  
+
 444  
 terraforming, 60 timeline, 59  
 travel times, 56 twenty one piløts, 62  
@@ -540,5 +540,5 @@ usage, 106, 108, 109
 wolf, crying, 27, 351  
 horsepower (hp), 72, 185, 213  
 Y2K scare, 329, 351  
-  
+
 445  

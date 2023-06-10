@@ -271,7 +271,7 @@ The silver lining is that some folks have thought about alternative ways to stru
 The value likely goes up if your own biology is adapted to that same life-filled planet: it becomes special to you as almost a part of
 you.
 
- 327
+327
 4. What institutions can you think of that are prevalent now but will be rendered obsolete—or at least radically diminished-if the economy stopped growing permanently?
 5. Why do you think we have not yet formulated a master plan for how humans can live on the earth indefinitely without exceeding limits?
 6. Do you see a route to global acceptance of a plan? What would it take to get there? Would we first need a global government having authority over all nations?

@@ -7,7 +7,7 @@ Fossil fuels still completely dominate our energy usage. Every country is relian
 8.1 The Most Important Plot Ever 
 We have so far gained a few big-picture perspectives on the human endeavor. First, we illustrated the absurdity of constant growth in both physical and economic terms, concluding that growth must be confined to a temporary phase and will not be physically allowed to continue indefinitely. Next, we looked at population realities to understand how that story might develop. Then we looked at the scale of the universe, how minuscule Earth is in the vast emptiness, and explored the extreme 
 Oil pipelines and gas flaring on the Alaskan tundra at Prudhoe Bay. A drill rig fades into the fog at top center. Note the optical illusion that makes the photo's bottom border look crooked! Photo credit: Tom Murphy 
- 
+
 8.1 The Most Important Plot Ever114 8.2 Overview: Coal, Oil, and Gas 117 
 Coal ... 
 Petroleum (Oil). Natural Gas 
@@ -57,7 +57,7 @@ Because the upswing has lasted for generations, it seems entirely normal to most
 [^2]: It's even worse than it sounds, since 10% is still in the form of biomass, much of which is old-technology firewood, leaving only 10% in the more modern forms of hydro, nuclear, solar, wind, geothermal, and tidal. 
 
 [^3]: Social scientists are trained to not label their own time as abnormal, as such think- ing may reflect a sloppy bias that all people through history might be tempted to adopt. Yet, neither should we declare that abnor- mal times can never happen. Any quantita- tive assessment of the current human scale and planetary resource impact argues that we are justified in allowing ourselves an exception for the present age. 
- 
+
 ultimately considers the last century or two to be the most insanely unusual period of the human experience-like a fireworks show. 
 8 Fossil Fuels 116 
 energy scale 
@@ -83,7 +83,7 @@ Figure 8.1: Energy over the ages, in the form of fossil fuels. Up until the pres
 [38]: Hubbert (1962), "Energy resources: a report to the Committee on Natural Resources of the National Academy of Sciences; National Research Council" 
 
 [^5]: In this sense, taking the risk seriously fits the definition of the word "conserva- tive," even if present political alignments are mislabeled in this regard. 
- 
+
 8 Fossil Fuels 
 117 
 Also, the very disruption of losing such a critical resource without adequate advanced preparation may damage our capabilities. The short answer is: we simply do not know. The question mark in Figure 8.1 is the most fair statement we can make. 
@@ -104,7 +104,7 @@ Coal-which looks like black rock-is the remnant of plant matter deposited, turne
 [^9]: All of these sources were first used much earlier, but at insignificant levels. Natural gas makes a meaningful appearance start- ing around 1920, but heavy use began 50 years later after pipeline infrastructures were in place. 
 
 [^10]: ... covered in Chapter 6 
- 
+
 TW 
 2 
 4 
@@ -172,7 +172,7 @@ volatiles
 Table 8.1: Four classes for grades of coal, in order of decreasing energy content and value. Anthracite has been largely depleted and is a rare find today. [39, 40] 
 8.2.2 Petroleum (Oil) 
 Petroleum also called oil-is ubiquitous in our world as the source for gasoline, diesel, kerosene, lubricating oils, tar/asphalt, and even most 
- 
+
 8 Fossil Fuels 119 
 plastics. Virtually all transportation: planes, trains, automobiles, and ships run on petroleum-based energy. 
 Petroleum first entered the modern scene around 1850, and the first drilled well18 was in 1858 in Pennsylvania. Early uses were for kerosene lamps.[^19] The first commercial internal combustion engine closely fol- lowed in 1859, arriving at an essentially modern form in 1876 at the hands of Nikolaus Otto.[^20] The first production automobile using a gasoline-powered internal combustion engine was developed by Karl Benz in 1885 and Henry Ford's Model T began mass-production in 1913. In the intervening years, electric cars surprisingly were more popular, but quickly gave way to the gasoline21 car due to superior range, quick refueling, and cost. 
@@ -222,7 +222,7 @@ jet fuel
 23% 
 heating oil/diesel 
 Figure 8.4: Fractional use of a barrel of petroleum, from [41]. All but asphalt, petro- chemical feedstock, lubricants, and "other" are burned for energy, amounting to 92% burned. Still gases include methane, ethane, propane and butane in gaseous form, while the light liquids are also mostly propane and butane in liquid form. Coke is not the soft drink. 
- 
+
 8 Fossil Fuels 120 
 Petroleum is measured in barrels (bbl), equating to 159 L (42 gal). Each barrel of crude oil contains about 6.1 GJ of energy (1,700 kWh; 5.8 MBtu). For reference, the world consumes about 30 billion barrels a year (the U.S. is about 7 billion barrels per year, or 20 million barrels per day). No single country produces oil at a rate greater than about 12 million barrels per day.[^25] 
 To provide some perspective on how special/rare oil is, the chances of finding any by drilling a random spot on the planet is about 0.01%.26 This is because many geological conditions must be met to make oil: 
@@ -305,7 +305,7 @@ C8H18
 [^36]: ...not counting the oxygen; just the carbon-based fuel 
 Both fossil fuels and food are a type of chemical storage ultimately tracing back to photosynthesis in plants. 
 Table 8.2: Combustion properties of fossil fuels. 
- 
+
 8 Fossil Fuels 122 
 Note that fossil fuels are more like fat (near 10 kcal/g) than carbohydrates (at 4 kcal/g). 
 37 
@@ -341,7 +341,7 @@ kcal/g
 0.0001 
 
 [^41]: ... discounting dramatic events the en- tertainment industry prepares for us 
- 
+
 8 Fossil Fuels 
 123 
 37 kWh and costs $4—would be just $0.43. Efficiency differences, and the cost of the machine to perform the labor also factor in. But the point should be clear enough. 
@@ -357,7 +357,7 @@ Climate Change: Nothing comes for free. Fossil fuels also bring many downsides. 
 43... that's the whole point 
 
 [^44]: All evidence says positive dominates. 
- 
+
 8 Fossil Fuels 
 124 
 problem of uncertain magnitude and may end up costing us and other species dearly. 
@@ -375,7 +375,7 @@ Substance Addiction: Finally, the very fact that fossil fuels are finite may be 
 
 [^48]: By the same token, it is unlikely that we would be at a comparable technologi- cal level if our inheritance had been much 
 smaller. 
- 
+
 8 Fossil Fuels 
 125 
 8.4.3 On Balance? 
@@ -396,7 +396,7 @@ overpopulation
 agent of war environ. damage overdependency so yesterday 
 [43]: Diamond (2005), Collapse: How Societies Choose to Fail or Succeed 
 These are not strictly exclusive of each other, so some combinations are also possible. 
- 
+
 8 Fossil Fuels 
 126 
 4. Increased difficulty in extracting fossil fuels drives their price up so that the market is ultimately forced to accept less convenient and more expensive forms of energy. 
@@ -447,7 +447,7 @@ coal
 [^50]: Consumption and production are es- sentially identical: no stockpiling. 
 Table 8.5: Summary of proven reserves, usage rates, and time remaining for the world and for the U.S. (if using only its domestic supply) [44-46]. Oil is measured in giga-barrels (Gbbl; 109 bbl), gas in tera- cubic-meters (Tcm; 1012 m3), and coal in gigatons (Gt; 1012 kg; noting that 1 ton is 1,000 kg). 
 The world has already consumed 1.5 trillion barrels of oil, which is nearly the same amount as the 1.7 trillion barrels of proven reserves—indicating that we are roughly halfway through the resource.[^51] Certainly, we can expect that additional resources will be discovered and added to the 
- 
+
 
 [^51]: This fact is one justification for believing we may be near the top of the symmetric curve in Figure 8.1. 
 8 Fossil Fuels 
@@ -496,7 +496,7 @@ Gas
 [^56]: If the number worked out to 5 years, we would be in a panic. If it worked out to 5,000 years, climate change would loom as the chief concern. 
 A car's gas tank is another tempting, but flawed mental model. Getting water out of wet sand is closer to the truth for oil 
 extraction. 
- 
+
 8 Fossil Fuels 
 128 
 rate at which it can be removed depends on the thickness of the seam, how deep it is located, and how hard it is to dig out surrounding rock. Even oil is not in some sloshing reservoir, but permeates porous rock, limiting how quickly the viscous fluid can be coaxed to flow out of the rock and into the pump tube. Gas is the quickest to escape its rocky tomb, but at this stage the U.S. has moved to "tight gas" that does not so easily break free-forcing a technique of fracking the rock to open channels for gas to flow. The same technique is being used to access "tight oil" that otherwise refuses to be pumped out of the ground by conventional means. 
@@ -516,7 +516,7 @@ Figure 8.6: Three scenarios for a finite re- source playing out, all based on th
 [^58]: ... also applies to gas 
 
 [^59]: Think about throwing a dart at the globe. 
- 
+
 70 
 8 Fossil Fuels 
 129 
@@ -568,7 +568,7 @@ LO
 2010 
 2020 
 We have seen this story play out numerous times within oil-producing regions. Discovery of oil in the North Sea put the U.K. into the oil business about 50 years ago (Figure 8.9). At first, the discovery rate was brisk, followed by 20 years of modest discovery. It appears that nothing is left to find, as discoveries have stopped. The production shows a double-peak structure maybe echoing the discovery lull around 1980- but in any case is nearing the end of extraction. Only about 6% of the discovered oil (effectively that discovered after 1996; unshaded in Figure 8.9) is left: not much remains to pump out. 
- 
+
 Figure 8.9: North Sea (U.K.) oil discoveries (blue, in giga-barrels per year) peaked in the 1970s and have basically ended. Production (red) lags discovery, and cannot carry on much longer as the last of the discovered oil (unshaded blue outline) is extracted. Plot conventions follow those in Figure 8.7. 
 8 Fossil Fuels 
 130 
@@ -679,7 +679,7 @@ Figure 8.11: Distribution of proven oil reserves by country, on left, according 
 Because the rate of extraction can be a limiting factor, it often happens that the rate of production begins to slow down (peaks) around the time half the resource has been exhausted, producing a symmetric usage curve over time. This suggests that the peak can occur well before the timescales resulting from the R/P ratio, as depicted in Figure 8.6. Once the world passes the peak rate of oil production, a sequence of panic-driven damaging events could ensue, making it more difficult (less likely) for us to embark on a renewable-centered post-fossil world. Boxes Box 8.3 and Box 8.4 paint scenarios that cause concern. 
 
 [^68]: ... about where we appear to be on oil 
- 
+
 8 Fossil Fuels 
 132 
 Box 8.3: Resource War 
@@ -694,7 +694,7 @@ energy resources— having clung too tightly to fossil fuels as a cheap and larg
 This notion is further explored in Sec. 18.3 (p. 310). 
 8.6 Upshot: Amazing, Terrible, and Limited 
 History may very well view this time period as the Fossil Fuel Age rather than the Industrial Age. Fossil fuels are a ubiquitous and defining characteristic of this unusual time. The current level of technology, 
- 
+
 8 Fossil Fuels 
 133 
 global population, or impressive state of knowledge would not have been possible without fossil fuels. We therefore owe a great debt of gratitude to these three amazing resources. Perhaps the first species on any planet to discover and use fossil fuels will follow a similar madcap trajectory and even temporarily poke into space, as we have. 
@@ -712,7 +712,7 @@ If continued reliance on fossil fuels is risky-both from resource
 .especially in the hardest-to-replace oil resource 
 
 [^73]: One is justified in asking why prices are not raised to discourage fossil fuel use and catalyze development of alternatives. See Box 8.6. 
- 
+
 scarcity and climate change points of view-then why do prices remain low, serving to encourage continued use and hinder adoption of alternatives? Why doesn't the government raise the price? 
 The rookie mistake here is assuming that adults are in charge. Markets are in charge. Governments may impose taxes and tariffs, but cannot go overboard before voters74 object. Global competition without global government penalizes those countries self-imposing additional costs on their citizens. And finally, short-term sacrifice for long- term benefit is not a human strong suit-especially in the face of uncertainty. Convincing people of a future problem that has never surfaced for generation after generation turns out to be hard. 
 
@@ -737,7 +737,7 @@ now will view the period from 1900-2100?
 [^77]: Just stack them a bit so you can tell them apart. 
 
 [^78]: E.g., what energy sources, primitive vs. technological, dwelling style, etc. 
- 
+
 8 Fossil Fuels 135 
 global fossil fuel use (total, not per-capita) during the last 20 years. 
 7. Coal usage in the U.S. has declined dramatically in the last 20 years as natural gas has replaced much of the electricity production from coal. What does Figure 8.2 say about the global coal trend during this period? 
@@ -767,7 +767,7 @@ Don't do this! It won't work!
 [^83]: ... represented by octane, C8H18 
 
 [^84]: For reference, 100 mL is 3.4 oz. 
- 
+
 8 Fossil Fuels 
 136 
 occupies 7.4 mL of volume at a mass of 23 g, while holding about 0.003 kWh of energy. How much volume and how heavy would a collection of AA batteries be in order to match the energy in a liter of gasoline, and by what factors (in volume and mass) is gasoline superior? 
@@ -791,7 +791,7 @@ per person
 [^87]:...a made-up thing that we presume is irreplaceable 
 
 [^88]: ZJ is zetta-Joules, or 1021 J. 
- 
+
 8 Fossil Fuels 137 
 "run out one day," because they don't appreciate the substantial amount of work that must go into extracting the resource from a reluctant ground. What common, day-to-day personal experiences do you imagine contributes to this disconnect?89 
 27. Simultaneously considering Table 8.5 and the lessons from Figure 8.6, what sort of timescale might you guess for when the world might see a more-or-less permanent downturn in oil production? Say how many years you think we have until a downturn and explain your reasoning. 
@@ -803,4 +803,3 @@ per person
 [^89]: In other words, what is your personal experience obtaining resources that can sud- denly just run out? 
 
 [^90]: Note that the shaded blue area is not the entire area under the blue curve, but has been set to equal the red area. 
- 

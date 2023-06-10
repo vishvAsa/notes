@@ -23,7 +23,7 @@ orbital velocity resultant (mostly to Earth) has nudge to side
 
 Now think about how the moon sees the earth, gravitationally. It mostly sees a spherical earth, but also a bulge on the front side, slightly displaced, and a bulge on the back side, also displaced in the opposite direction (Figure D.3). While the bulge masses are equal, the closer one has a greater gravitational influence and acts to pull the moon a little forward in its orbit, speeding it up. 39 
 
- 
+
 Figure D.1: The moon pulls harder on the near side of the earth, and less hard on the back side. Relative to the earth as a whole (medium force), the near side advances to- ward the moon and the back side lags the rest of the earth, creating a bulge on both sides that is aligned toward the moon. Note that a drawing to scale would put the moon well off the page. 
 
 [^36]: In fact, equally, per Newton's third law. 

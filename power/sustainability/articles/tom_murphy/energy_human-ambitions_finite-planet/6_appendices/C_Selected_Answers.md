@@ -76,7 +76,7 @@ space
 18. Will take 15-20 tanks of gas, and achieve a fuel economy a factor of 30 or so below typical 
 cars 
 19. Double the gasoline from previous prob- lem; gasoline mass almost as much as the car itself 
- 
+
 C Selected Answers 
 385 
 Chapter 5 
@@ -136,7 +136,7 @@ ment
 16. Achieves about 1/3 of theoretical 
 17. AT 50°C; environment not that cold 
 18. Close to a dozen kJ 
- 
+
 C Selected Answers 
 386 
 19. Twice, twice 
@@ -185,7 +185,7 @@ Chapter 8
 7. Did not behave like U.S. 
 8. Based on energy density 
 30. Reasons could fill a book 
- 
+
 C Selected Answers 
 387 
 Chapter 9 
@@ -242,7 +242,7 @@ Chapter 10
 13. Look for crazy-big input 
 14. Between 0.5-1 gallon 
 15. More than 4,000x 
- 
+
 C Selected Answers 
 388 
 Chapter 11 
@@ -289,7 +289,7 @@ Chapter 12
 7. Comparable to the height of Mt. Everest 
 8. Around about 8 times 
 9. Follow the cube... 
- 
+
 C Selected Answers 
 389 
 Chapter 13 
@@ -348,7 +348,7 @@ Chapter 14
 10. A bit longer than a U.S. Presidential term 
 11. Nothing to spare 
 12. Corn now approximately 15% as much as this; still more than total arable land 
- 
+
 C Selected Answers 
 390 
 13. Box barely fits north-south in U.S. 

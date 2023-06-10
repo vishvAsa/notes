@@ -24,7 +24,7 @@ U.S. Global Share
 7.1 The Annual Energy Review 
 Until 2011, the Annual Energy Review (AER) was compiled for the U.S. as an annual report. Since then, a web interface provides access to many of the same products, but not as a single document. An impressive amount of detail is available in the AER products, and we will only scratch the surface in this book, looking at high-level overviews. Later chapters will sometimes rely on deeper information to provide state-by-state use of hydroelectric, solar, wind, etc. But for now, we stick mostly to section 1 of the Annual Energy Review (AER), labeled Energy Overview. 
 An oil pump dominates the foreground, while wind makes a visible presence in the background. Photo credit: Tom Murphy 
- 
+
 7.1.1 Energy Flow 
 Section 1.0 of the AER is a one-page PDF graphic that conveys at a glance the flow of energy into and out of the U.S. Figure 7.1 shows the 2018 
 version. 
@@ -112,7 +112,7 @@ To understand, let's start in the middle section. To the left of center, we see 
 See how they add up? 
 
 [^3]: Think of the three forms of fossil fuels as solid (coal), liquid (petroleum/oil) and gas (natural gas; not the same as liquid gasoline, which is a petroleum product). 
- 
+
 Now the right-hand side shows the sectors into which the energy flows, finding roughly equal distribution between residential (homes), commercial (businesses), industrial (manufacture), and transportation (both personal and commercial/shipping). In this graphic, we lose entirely any sense for how much of each energy source contributes to each sector, but that is coming in the next section. 
 Finally, the left-hand side indicates the inputs, grouped as domestic fossil fuel supply at top (out of our own ground), nuclear energy and renewable in the middle, and imports at bottom. From this, we can learn that we export some coal,[^5] that almost all of our natural gas and 100% of our nuclear is domestic, and that 62% of our petroleum comes from domestic crude oil production. 
 Other insights are present in the graphic as well. Don't be afraid to subtract or divide numbers to aid new discoveries. 
@@ -140,7 +140,7 @@ Notice the black and gray block at lower center, representing electricity. We de
 
 [^9]: Notice that the source and end-use num- 
 bers in the boxes match the numbers in Figure 7.1 within rounding error. 
- 
+
 7 The Energy Landscape 
 105 
 eia 
@@ -218,7 +218,7 @@ We start simply, by noting that 43% of the 11.9 qBtu residential energy
 [35]: LLNL (2019), Energy Flow Charts 
 
 [^10]: See also [36] for a fascinating animated version. 
- 
+
 7 The Energy Landscape 
 106 
 budget comes directly from natural gas. So that's 5.1 qBtu."1 
@@ -284,7 +284,7 @@ coal
 30.9% 
 gas 
 Figure 7.3: 2018 Energy sources for the U.S. Figure 7.6 shows the global distribution. 
- 
+
 sured by electrical output, not thermal input (which is meaningless for solar, wind, and hydro). 
 Multiplying the electrical output by a factor of about 3 recovers the thermal equivalent.[^16] The interpretation is: how much fossil fuel (thermally) would have been necessary to achieve the same result? As a consequence, when Table 7.1 says the solar contribution is 0.92 qBtu, and therefore about 1% of the total, the actual solar energy was smaller by a factor of three, but the practice is fair because now we can directly compare solar to the fossil fuels. Reporting electrical output alongside thermal inputs would make the renewables appear to have a smaller contribution than they effectively do, against fossil fuels. 
 7 The Energy Landscape 
@@ -359,7 +359,7 @@ It is worth looking at trends to understand not only the state of affairs today,
 Figure 7.4 shows the trends for the fossil fuels over the last 70 years, along with the slow rise of the sub-dominant non-fossil sources. Recent news touted the fact that the renewable sources17 surpassed coal as an energy source in the U.S. Indeed, the lines basically meet on the 
 
 [^17]: The term "renewable," will be more fully explained in Chapter 10. 
- 
+
 right-hand side of the plot, and the trends suggest a clear reversal of rank going forward. Note, however, that this result is largely due to natural gas replacing coal at electrical power plants. The sharp rise in natural gas nearly mirrors the decline in coal, while the rise in renewable resources is more modest. So this is really more a story of trading gas for coal than renewables replacing coal. Figure 7.4 also shows each source as a percentage of all energy. For a few decades (1980-2010), coal and gas were essentially tied, while oil sat at almost double these two. Lately, gas is approaching oil while coal plummets. 
 10 
 nuclear* 
@@ -416,7 +416,7 @@ coal
 7.2 Global Energy 
 Not surprisingly, the global story is not dramatically different from the story in the U.S., as Figure 7.6 and Figure 7.7 show. Fossil fuels dominate, with oil at the top. Coal has held a lead over natural in 
 gas the wider world, unlike the U.S. Also, while nuclear and renewables are 
- 
+
 solar 1.2% wind 2.4% 
 nuclear 
 4.9% 
@@ -528,7 +528,7 @@ year
 Figure 7.8: Recent history of non-fossil global energy consumption. Asterisks indicate thermal equivalents, as described in Box 7.2. The plot at right shows each source as a percentage of the total energy. Biomass accounted for a quarter of global energy in 1950. 
 Box 7.3: TWh vs. qBtu 
 You may have noticed that as soon as we departed from the AER 
- 
+
 7 The Energy Landscape 
 110 
 data, which expressed energy in qBtu, the units on the plot (Fig. 7.7) changed to terawatt-hours (TWh). It means what it sounds like: tera is 1012, so this is 1012 watt-hours (Wh). We use kWh more often than Wh, so a TWh is the same as a giga-kWh, or GkWh (can you do that?). One kWh is 3.6 x 106 J, so 1 TWh is 3.6 x 1015 J. Meanwhile, 1 qBtu is 1.055 × 1018 J, facilitating a conversion. The figures for global power also 
@@ -626,7 +626,7 @@ Not the same as previous question.
 [^21]: See also Example 7.1.1. 
 
 [^22]: 13.0 qBtu delivered; implying 34% con- version efficiency from primary sources to delivered electricity 
- 
+
 and their total qBtu amounts. Treat "< 1%" as 0.5%. Do these add to 13 qBtu, as they should, within rounding error?23 
 5. Figure 7.2 hides contributions of sources to end sectors behind the "electric black box."24 Following similar logic to that in the margin, and using results from Problem 4, figure out "corrected" values for what percentage of coal provides energy to each of the four end-sectors (re-distributing the 91% going to electricity into end-sectors).25 
 6. Figure 7.2 makes it look as if residential demand is satisfied without coal or nuclear, but 42% of residential demand comes from electricity, which does depend in part on coal and nuclear. Using numbers derived in Problem 3, and following a logic similar to that in Problem 5 and Example 7.1.1, redistribute this 42% residential contribution from electricity into its primary sources to ascertain what fraction of residential demand comes from each of the five source categories. For instance, petroleum would be the direct 8% plus 42% times the fraction (or percentage) of electricity coming from petroleum.[^26] 
@@ -653,14 +653,14 @@ i
 Keep it simple, as there is no single correct way to extrapolate this far into the future; just explain your approach. 
 
 [^27]: We can hope to see faster-than-linear expansion in renewables, but this question asks what would happen without dramatic changes to the recent trends. 
- 
+
 fossil fuels, based on trends to date? 
 usage of 
 14. As explored in Problem 11, the U.S. usage of coal is falling precipi- 
 tously. According to the left plot in Figure 7.9, is the U.S. coal greater or less than the global per-capita average? 
 15. Is the U.S. per-capita usage of any energy source lower than the 
 global average, according to Figure 7.9? 
- 
+
 7 The Energy Landscape 
 113 
 SPEED LIMIT 

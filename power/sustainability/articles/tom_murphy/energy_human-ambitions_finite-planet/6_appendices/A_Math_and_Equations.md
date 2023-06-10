@@ -104,7 +104,7 @@ Let's step aside for a moment to explore how rules of language are obvious to us
 
 [^9]: 
 . acknowledging that this exercise may be less intuitively obvious to non-native English speakers 
- 
+
 A.3 Areas and Volumes 362 
 about how letters might be arranged in relation to each other. We recognize the nonsense without being able to cite specific rules. Math can work the same way: we can rely on intuition to rule out nonsense. 
 How about this collection of four words: that, how, happen, did. Now arrange them into a single sentence, ignoring punctuation. Notwithstanding how Yoda might arrange things, only one of the 24 possible arrangements10 makes a single valid sentence. Have you intuited what it is? How did that happen? Without conscious thought, you understand the underlying rules of grammar well enough to see the answer without having to sift through all the combinations. Math can work like that, too. 
@@ -126,7 +126,7 @@ Volume is a little harder to visualize, but again the sphere will have a volume 
 
 [^12]: This path would look like a line across 
 the square, traversed twice as a there-and- back trip. 
- 
+
 volume is about half that of the cube, so 4r3. But where would a л go? It's always a multiplier in these situations, so we can harmlessly throw in a pi/3 ~ 1 factor to get a volume 
 r3. 
 The point is that forgetting the exact formulas is not fatal: just back up to a more familiar setting and build out from there. For cylinders, just combine elements of circular and rectangular geometries to realize that the volume is the area of the circle times the height13 of the cylinder. External surface area is twice the areas of the end-caps (each лr2) plus the perimeter of the circle times the height-as if rolling out the skin into a rectangle and calculating its area. 
@@ -154,7 +154,7 @@ Let's formulate rules about multiplication of fractions based on stuff we know (
 [^14]: 
 
 [^15]: 
- 
+
 as expressed in the first paragraph 
 ... all correct, and depends on context of the problem at hand 
 A.4 Fractions 
@@ -212,7 +212,7 @@ How can our intuition assist us in figuring out addition and subtraction of frac
 3 
 (A.5) 
 Hopefully, the first two statements in Eq. A.5 are apparent enough. The 
- 
+
 last one bounds the answer by what you already know. Since is larger than 1.17 So adding + must be larger than += 2. By similar logic, since one-third is smaller than one-half,[^18] their sum must be smaller 
 than 1. 
 Adding fractions like and is where common denominators come in. We can add numerators only if the fractions share the same denominator. We never add denominators. We can't replicate the middle example in Eq. A.5 by adding numerators and denominators, or we would get the nonsense answer? , rather than 2. 
@@ -253,7 +253,7 @@ xn
 =? 
 (A.6) 
 The theme of this appendix is: discover the rule through your own experimentation. Tackling in stages, what is (74)3? We can write out 74 as 7.7.7.7 easily enough. If we cube this number, it's the same as 
- 
+
 Notice that the the symbols used in this equation are just stand-ins for numbers, and have no intrinsic significance-whether we use n or p or a for an exponent is irrelevant. For that matter, x is not special either and we could have used a hexagon to stand in for the base in these relations, as a symbolic placeholder. 
 A.6 Fractional Powers 
 366 
@@ -285,7 +285,7 @@ We can get a hint from Eq. A.8. Consider, for example, 52. 52. We know that we c
 x2 = √x. 
 (A.10) 
 In principle, then, we could approach 31.7 by taking the tenth-root of 3 and raising it to 17th power: 31.7 = (3)17 = 30. 
- 
+
 More generally, in Chapter 1, we saw that we can represent any base, b, raised to some arbitrary number, n, as: 
 bn = en lnb = 10n log10 b 
 (A.11) 
@@ -301,7 +301,7 @@ the basics.
 Example A.7.1 We can also apply the rule of multiplying exponenti- ated quantities covered in Eq. A.8. So 3.2 × 103 times 2 × 102 can be written out as 3.2 2 103 102 (order does not matter), which we can recognize as 6.4 x 105. 
 What about division: 2.4 x 1013 divided by 8 x 107? Several ways to approach this might be instructive. Let's ignore the pre-factors (2.4 and 8) for now and focus on the powers of ten. The standard practice is to subtract the exponent in the denominator from that in the numerator: 13 - 7 = 6 in this case, so that we are left with 24 × 106. We could also represent the 107 in the denominator as $10^{-7}$ in the numerator, as per Eq. A.9. Now we just add the exponents to get the same result. Or we could invert the 8 x 107 to become 0.125 x $10^{-7}$ and multiply this by 2.4 x 1013 
 But I want to present the way I would do it to make it easy enough 
- 
+
 A.7 Scientific Notation 
 367 
 to perform in my head. Recognizing that 24 is divisible by 8, I am strongly tempted to re-express the first number as 24 × 1012. See what I did there? I multiplied the prefactor by 10, and decreased the exponent by one accordingly to end up at the same place. Now I have 24 x 1012-7, which reduces to 3 x 105. All methods get the same answer,[^23] which turns into another lesson that math provides many paths to the same answer, which can be used to check and reinforce. 
@@ -319,7 +319,7 @@ A.8 Equation Hunting
 
 [^25]: 
 . which in this case is not a heavy lift 
- 
+
 A.9 Equation Manipulation 
 369 
 A.9 Equation Manipulation 
@@ -362,7 +362,7 @@ b
 - 
 Whatever you want to do, just do it to both sides. 
 It's not always so straightforward. Sometimes we have to "undo" or "invert" a mathematical function. Consider for instance a familiar prob- lem: find the side length, a, of a right triangle whose other side is b and hypotenuse c. We know from the Pythagorean Theorem that a2+b2 = c2, so that a2 = c2b2. But we want a, not a2. How do we "undo" the square? Take a page from Eq. A.7. We want a to the power of 1, so we want to raise a2 to whatever power will neutralize the 2 via multiplication. 
- 
+
 Looks like (square root) will do the trick. But we need to treat both sides: 
 a = 
 = (a2)2 = √a2 = √c2 = b2 
@@ -435,7 +435,7 @@ year person
 Oops, the units are helping us here by reminding us that we need to multiply by the population (3.3 x 108 persons) to get the answer 
 
 [^33]: E.g., 24 hours and 1 day describe the same time interval. 
- 
+
 we sought.[^34] In this case, we end up with 1.04 × 1020 J/year, which is 
 what we were after. 
 We just carried out unit conversions (in time) in Example A.10.2, when we multiplied by constructs like 60 s/1 min. The key to unit conversions is to arrange a fraction expressing the same physical thing in both the nu- merator and denominator, just using different units. So we're looking for equivalent measures. Most of the time, one of them will be 1, numerically, as in the following example. 
@@ -464,7 +464,7 @@ S
 kg.° C 
 It looks like if we multiply by the mass in kg and multiply by the temperature difference, we're home free. Doing so results in 5,000 seconds. Whenever possible, try to extract the most context/intuition out of an answer as you can. Does 5,000 seconds mean a lot to you? Divide by 60 (or multiply by 1min) to get 83 minutes. Better. Or another factor of 60 and we're at 1.4 hours. That seems like the most natural 
 60 s 
- 
+
 A.11 Just the Start 
 373 
 way 
@@ -493,7 +493,7 @@ m.° C
 which is about the output of one space heater. 
 A.11 Just the Start 
 It is well beyond the scope of this book to engage in an exhaustive review of math concepts. Hopefully what has been covered provides a 
- 
+
 A.11 Just the Start 
 374 
 useful foundation. The key lesson is that the knowledge and intuition students already hold in their heads can be leveraged effectively to recreate forgotten rules of math. Just remember: it all makes sense and hangs together. Creating customized simple problems39 allows a way to make sure the math rules being applied replicate the right answer. If not, a few tests can often get things back on the right track. By doing so, students can claim greater personal ownership of the math, and have a better internal mastery of its workings. 

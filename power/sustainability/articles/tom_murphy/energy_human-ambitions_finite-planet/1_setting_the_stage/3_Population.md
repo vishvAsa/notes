@@ -116,7 +116,7 @@ t2
 1950-2020 
 1.70% 
 40 yr 
- 
+
 In more recent years, the rate has fallen somewhat from the 1.7% fit of the last segment in Figure 3.4, to around 1.1%. Rounding down for convenience, continuation at a 1% rate would increase population from 7 billion to 8 billion people in less than 14 years. The math is the same as in Chapter 1, re-expressed here as 
 P = Poeln(1+p)(t-to) 
 (3.1) 
@@ -186,7 +186,7 @@ Population (Gppl)
 1800 1850 1900 1950 2000 
 year 
 Figure 3.5: Graphical representation of Ta- ble 3.2, showing the time between each billion people added [14, 15]. 
- 
+
 3 Population 33 
 3.2 Logistic Model 
 Absent human influence, the population of a particular animal species. on the planet might fluctuate on short timescales (year by year) and experience large changes on very long timescales (centuries or longer). But by-and-large nature finds a rough equilibrium. Overpopulation proves to be temporary, as exhaustion of food resources, increased predation, and in some cases disease (another form of predation, really) knock back the population. On the other hand, a small population finds it easy to expand into abundant food opportunities, and predators reliant on the species have also scaled back due to lack of prey. 
@@ -212,7 +212,7 @@ The word negative may sound like some- thing we would not want, but its cousin- 
 [^8]: P is a time derivative (note the dot on top), defined as P = dP/dt. But don't panic if calculus is not your thing: what we de- scribe here is still totally understandable. 
 
 [^9]: In terms of the growth rate we used before, p, as in Eq. 3.1, r = ln(1 + p). So for instance, if growing at 2%, p = 0.02 and r also is 0.02 (r≈ p for small values of p). 
- 
+
 which is really just a repeat of Eq. 3.1, where r takes the place of In(1+p). 
 Example 3.2.2 Paralleling the deer population scenario from Example 3.2.1, if we set r = 0.5, and have a population of P = 100 adult deer (half female), Eq. 3.3 says that P = 50, meaning the population will change by 50 units.[^10] 
 We could then use Eq. 3.4 to determine the population after 4 years: P = 100e0.5.4≈ 739. 
@@ -241,7 +241,7 @@ Q 1+e-r(t-to)
 The first part of the curve in Figure 3.7, for very negative values11 of t- to, is exponential but still small. At t = to (time of inflection), the population is Q/2. As time marches forward into positive territory, P approaches Q. As it does so, negative feedback mechanisms (limits to resource/food availability, predation, disease) become more assertive 
 
 [^11]: The parameter to is the time when the logistic curve hits its halfway point. Times before this have negative values of t - to. 
- 
+
 population, P, as fraction of maximum, Q 
 1.0 
 0.9 
@@ -291,7 +291,7 @@ Q/2 at the half-
 Three consecutive 12-year intervals appear in Table 3.2. If the middle one is the mid- point of a logistic linear phase-in 2011 at 7 billion people it would suggest an ulti- mate population of 14 billion. 
 
 [^14]: ... based on remaining resources, Q-P, at the moment in Eq. 3.5 
- 
+
 3 Population 
 36 
 Definition 3.2.3 Overshoot is a generic consequence of delaying negative feedback. Since negative feedback is a "corrective," stabilizing influence, delaying its application allows the system to "get away" from the control, thereby exceeding the target equilibrium state. 
@@ -301,7 +301,7 @@ We can explore what happens to our logistic curve if the negative feedback is de
 By "generic consequence," we just mean an outcome that is characteristic of the situa- tion, independent of details. 
 [1]: Meadows et al. (1972), The Limits to Growth: A Report for the Club of Rome's Project on the Predicament of Mankind 
 Another example of feedback delay leading to overshoot: let's say you are holding down the space bar and trying to position the cursor in the middle of the screen. But your connection is lagging and even though you release the space bar when you see the cursor reach the middle, it keeps sailing past due to the delay: overshooting. 
- 
+
 population as fraction of steady-state max, Q 
 1.8 
 T= 0.0/ I 
@@ -346,7 +346,7 @@ year
 Figure 3.9: Human population data points (blue) and a logistic curve (red) that repre- sents the best fit to data points from 1950 onward. The resulting logistic function has Q≈ 12 Gppl, r = 0.028, and a midpoint at the year 1997. The actual data sequence has a sudden bend at 1950 (Green Revolution?) that prevents a suitable fit to a larger span of data. In other words, the actual data do not follow a single logistic function very well, which is to be expected when conditions change suddenly (energy and technology, in this case) [14, 15]. 
 Box 3.1: Will Human Population Overshoot? 
 Are humans in danger of population overshoot? What is our r value? It is tempting to take r = 0.01 corresponding to the present 1% growth rate. This would imply that any delay shorter than 100 years will not produce significant overshoot, which seems reassuring. But if human population is following a logistic curve rather than an exponential, resource availability is already exerting a moderating influence, now appearing to be in the linear "cruise" phase roughly 
- 
+
 halfway to the limiting value. A fit to the data (Figure 3.9) suggests that r≈ 0.028, corresponding to a timescale of 36 years (1/r). This puts the overshoot-prone delay squarely into relevant timescales for human lifetimes, generations, and societal change—thus leaving the door open for an overshoot scenario. 
 3 Population 38 
 3.2.2 Logistic Projection 
@@ -365,7 +365,7 @@ Definition 3.3.1 Birth rate, typically expressed in births per 1,000 people per 
 17 
 
 [^17]: This ignores immigration, which just shifts living persons around. 
- 
+
 + 
 Population Growth Rate (%) 
 N 
@@ -406,7 +406,7 @@ In order to accomplish this goal, reduced death rates are facilitated by
 [^20]: 
 ers 
 but unsolicited "preaching" to oth- 
- 
+
 Birth rate (per 1000 per year) 
 50 
 10 
@@ -467,7 +467,7 @@ net population rate (annual births minus deaths per 1000 people)
 Figure 3.13 shows the net population rate (birth minus death rate) on a world map. Africa stands out as the continent having the largest net population growth rate, and has been the focus of much attention when discussing population dynamics. 
 But let us cast population rates in different countries in a new light. Referring to Figure 3.13, it is too easy to look at Niger's net population rate—which is about ten times higher than that of the U.S. (see Example 3.3.1) and conclude that countries similar to Niger present a greater risk to the planet in terms of population growth. However, our perspective changes when we consider absolute population levels. Who cares if a country's growth rate is an explosive 10% if the population is only 73 people?23 
 Figure 3.14 multiplies the net rate by population to see which countries contribute the most net new people to the planet each year, and Table 3.3 lists the top ten. Africa no longer appears to be the most worrisome region in this light.[^24] India is the largest people-producing country at present, adding almost 18 million per year. Far behind is China, in second 
- 
+
 Figure 3.13: Net population growth rate by country: birth rate minus death rate per 1,000 people per year. The highest net growth (darkest shading) is Niger, in Saha- ran Africa [19, 20]. 
 
 [^23]: But check back in 100 years! 
@@ -547,7 +547,7 @@ Adding another relevant perspective, when one considers that the per- capita ene
 [^27]: 28 is smaller than 400 by the ratio of populations in the two countries. 
 
 [^28]: This does not even consider rising stan- dards placing additional burdens. 
- 
+
 Power 
 Added Per Citizen (W) 
 3 Population 43 
@@ -660,7 +660,7 @@ Before departing this section, let us look at continent-scale regions rather tha
 Figure 3.15: Graphical representation of Ta- ble 3.4, for all countries. Dots, whose size is proportional to population, indicate how many people are added per year, and how much additional energy demand is created as a consequence. Color indicates the added population-growth-driven power demand an individual citizen is responsible for gen- erating each year as a member of the society. Negative cases (contracting) include Russia, Japan, Germany, and Ukraine [7, 8, 19, 20]. 
 
 [^29]: A citizen of Niger, by comparison, only adds 1.7 W of demand per year on energy resources via population growth. 
- 
+
 Country 
 Population Annual Per Capita Power Added 
 (%) 
@@ -731,7 +731,7 @@ e(ri-r2)T
 el 
 (0.025-0.008).50 
 = 0.85 = 2.34. 
- 
+
 This means that the population more than doubles, or increases by 134%. 
 So to effect a demographic transition means to increase the population burden substantially. Meanwhile, the transitioned population consumes resources at a greater rate—a natural byproduct of running a more advanced society having better medical care, education, and employment opportunities. Transportation, manufacturing, and consumer activity all increase. The net effect is a double-whammy: the combined impact of a greater population using more resources per capita. The resource impact on the planet soars. 
 The pertinent question is whether the Earth is prepared to host a dramatic increase in resource usage. Just because we might find appealing the idea that all countries on Earth could make it through the demographic transition and live at a first-world standard does not mean nature has the capacity to comply. The U.S. per-capita energy usage is roughly five times the current global average. To bring 7 billion people to the same standard would require five times the current scale. Completion of a global demographic transition would roughly double the current world population so that the total increase in energy would be a factor of ten. The blue-dashed projection in Figure 3.17 looks rather absurd as an extension of the more modest-but still rather remarkable energy climb to date. As we are straining to satisfy current energy demand, the "amazing dream" scenario seems unlikely to materialize. 
@@ -771,7 +771,7 @@ Population (Gppl)
 year 
 2100 
 Figure 3.17: What our energy demand would have to do (blue-dashed line) if the growing global population (here projected as a red-dashed logistic curve) grew its per- capita energy consumption to current U.S. standards by the year 2100 (a factor-of-five increase). Historical energy and population are represented as solid curves. The depar- ture from past reality would have to be staggering [15, 16]. 
- 
+
 3 Population 
 46 
 continue until all countries have completed the journey. But bear in mind that earlier successes transpired during times in which global resource availability was not a major limitation. If conditions change, and we reach a "full" earth, past examples may offer little relevant guidance. 
@@ -783,7 +783,7 @@ The overall point is to be aware of the sensitive nature of this topic when disc
 Box 3.2: Which is More Selfish? 
 Parents, many of whom sacrifice dearly in raising kids-financially, emotionally, and in terms of time investment—understandably view their tireless commitment as being selfless: they often give up their own time, comfort, and freedom in the process. It is understandable, then, that they may view those not having kids as being selfish: the opposite of selfless. But this can be turned on its head. Why, 
 Having two kids is not a strict replacement, in that parents and children overlap (double- occupancy) on Earth. But the practice is at least consistent with a steady state. 
- 
+
 exactly, did they decide to have kids and contribute to the toll on our planet? It was their choice (or inattention) that placed them in parental roles, and the entire planet—not just humans-pays a price for their decision, making it seem a bit selfish.[^31] In the end, almost any decision we make can be called selfish, since we usually have our own interests at least partly in mind. So it is pointless to try assigning more or less selfishness to the decision to have kids or not to have them. But consider this: if the rest of the Earth-all its plants and creatures—had a say, do you think they would vote for adding another human to the planet? Humans have the capacity, at least, to consider a greater picture than their own self interest, and provide representation to those sectors that otherwise have no rights or voice in our highly human-centric system. 
 3 Population 47 
 
@@ -797,7 +797,7 @@ The net effect of the various exceptions meant that for most of this period half
 [21]: Diamond (2005), Collapse: How Societies Choose to Fail or Succeed 
 
 [^33]: A group size of 1,200 is small enough to prevent hiding irresponsible actions behind anonymity. 
- 
+
 3 Population 48 
 began to climb, leading to famine and driving the population excess off the island. 
 In the end, personal choice will be important, if we are to tame the population predicament. Either conditions will be too uncertain to justify raising children, or we adopt values that place short term personal and human needs into a larger context concerning ecosystems and long-term human happiness. 
@@ -809,7 +809,7 @@ Nature, it turns out, is indifferent to our belief systems.
 A common knee-jerk reaction to a statement that we would be better off with a smaller population is to demand an answer to who, exactly, we propose eliminating. Ideally, we should be able to discuss an important topic like population without resorting to accu- sations of advocating genocide. Of course we need to take care of those already alive, and address the problem via future repro- ductive choices. 
 3.6 Problems 
 1. The text accompanying Figure 3.1 says that Earth currently hosts the equivalent of 25 billion nineteenth-century-level energy consumers. If we had maintained our nineteenth-century energy appetite but 
- 
+
 3 Population 49 
 followed the same population curve, what would our global power demand be today, in TW? How does this compare to the actual 18 TW we use today? 
 2. Notice that on logarithmic plots,[^34] factors of ten on the logarithmic axis span the same distance. This applies for any numerical factor- not just ten.[^35] Shorter (minor) tick marks between labeled (major) ticks multiply the preceding tick label by 2, 3, 4, 5, 6, 7, 8, 9. The graphic below illustrates the constant distance property for a factor of two.[^36] Now try a different multiplier (not 2 or 10), measuring the distance between tick marks, and report/draw how you graphically verified that your numerical factor spans the same distance no matter where you "slide" it on the axis. 
@@ -849,7 +849,7 @@ in billions of people. First verify that inserting the year 2011 results in 7 (b
 See margin notes for Problem 3. 
 
 [^39]: See Eq. 3.6. 
- 
+
 think that is (hint: what changed so that we invalidated a single, continuous mathematical function)? 
 8. Using the logistic model presented in Problem 7, what would the population be in the year 2100? How does this compare to the exponential result at 1% growth as in Problem 6? 
 9. Which of the following are examples of positive feedback, and 
@@ -889,7 +889,7 @@ The point is that the U.S. is a major con- tributor to increased resource demand
 Careful about 106 factors and GW = 109 W. 
 Some students may see this as free/easy points, but consider the value in internaliz- ing the associated information. 
 For instance, Oceania has a ratio of 1.0 for population growth (0.5% of popula- tion growth and 0.5% of global population), meaning it is not over- or under-producing relative to global norms. But in terms of power, it is 3 times the global expectation (1.5 divided by 0.5). 
- 
+
 3. 
 3 Population 
 52 
@@ -948,7 +948,7 @@ death rate
 [^43]:... number and associated letter; not necessarily arranged next to each other 
 
 [^44]:... number and associated letter; not necessarily arranged next to each other 
- 
+
 population cost of the demographic transition in the context of Problem 23? 
 25. Considering Figure 3.11 in the context of a trajectory (as in Figure 3.12), would it appear that most countries in the world have begun the demographic transition? Have very few of them started? Is it about half-and-half? Justify your answer. 
 26. Express your view about what you learn from Figure 3.17. Do you sense that the prescribed trajectory is realistic? If so, justify. If not, what about it bothers you? What does this mean about the goal of bringing the (growing) world to "advanced" status by the end of this century? Are we likely to see this happen? 
@@ -962,4 +962,4 @@ population cost of the demographic transition in the context of Problem 23?
 Hint: think about what the graph would look like in these scenarios. 
 
 [^45]: Assume for the purpose of the question that it is biologically possible. 
- 
+
