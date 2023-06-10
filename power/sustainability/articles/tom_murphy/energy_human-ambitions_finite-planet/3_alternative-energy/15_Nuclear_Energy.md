@@ -572,24 +572,30 @@ Table 15.8: Global nuclear power in 2019 [101], listing number of operational pl
 
 Nuclear plants only last about 50-60 years, after which the material comprising the core becomes brittle from exposure to damaging radioactivity and must be decommissioned.+++(4)+++ The median age of reactors in the U.S. is 40 years, and all but three are over 30 years old. Additional challenges will be addressed in the sections that follow.
 
-When nuclear energy was first being rolled out in the 1950s, the catch phrase was that it would be "too cheap to meter," a sentiment presumably fueled by the stupendous energy density of uranium, requiring very small quantities compared to fossil fuels. The reality has not worked out that way. Today, a 1 GW nuclear power plant may cost $9 billion to build [^102]. That's $9 per Watt of output power, which we can compare to the cost of a solar panel, at about $0.50 per W (Fig. 13.16; p. 215), or utility-scale installation at $1 per Watt [^89].+++(5)+++ While it seems that solar[^36] wins by a huge margin, the low capacity factor of solar reduces average power output to 10-20% of the peak rating, depending on location. Meanwhile, nuclear reactors tend to run steadily 90% of the time-the off-time used for maintenance and fuel loading. So nuclear fission costs about $10 per delivered Watt, while solar panels are $2.5-5 per delivered
+When nuclear energy was first being rolled out in the 1950s, the catch phrase was that it would be "too cheap to meter," a sentiment presumably fueled by the stupendous energy density of uranium, requiring very small quantities compared to fossil fuels. The reality has not worked out that way. Today, a 1 GW nuclear power plant may cost $9 billion to build [^102]. That's $9 per Watt of output power, which we can compare to the cost of a solar panel, at about $0.50 per W (Fig. 13.16; p. 215), or utility-scale installation at $1 per Watt [^89].+++(5)+++ While it seems that solar[^36] wins by a huge margin, the low capacity factor of solar reduces average power output to 10-20% of the peak rating, depending on location. Meanwhile, nuclear reactors tend to run steadily 90% of the time-the off-time used for maintenance and fuel loading. 
 
 [^102]: Union of Concerned Scientists (2015), The Cost of Nuclear Power
 
 [^36]: Recall, for context, that solar is not among the cheaper energy resources. Like solar, nuclear power is dominated by up-front costs, rather than fuel cost.
 
-Watt and installed utility-scale systems are $5-10 per Watt. In short, nuclear power is not an economic slam dunk.
+So nuclear fission costs about $10 per delivered Watt, while solar panels are $2.5-5 per delivered Watt and installed utility-scale systems are $5-10 per Watt. In short, nuclear power is not an economic slam dunk.
 
 [[257]]
 
-15.4.4.1 Uranium
+#### 15.4.4.1 Uranium
 So far, we have ignored a crucial fact. Only 0.72% of natural uranium on Earth is the fissile 235U flavor. The vast majority, 99.2745%, is the benign 238.37 The ratio is about 140:1, so for every 235U atom pulled out of the ground, 140 times this number of uranium atoms must be extracted. The origin of the disparity is a story of astrophysics and eons, covered in Box 15.4.
-Box 15.4: Origin of Uranium
+
+<details><summary>Box 15.4: Origin of Uranium</summary>
+
 The Big Bang that formed the universe produced only the lightest nuclei. By-and-large, the result was 75% hydrogen (H) and 25% helium (4He). Deuterium (2H) and 3He were produced at the 0.003% and 0.001% levels, respectively, and then the tiniest trace of lithium. No carbon or oxygen emerged, which must be "cooked up" via fusion in stars.
-Fusion in stars does not "climb over" the peak of the binding-energy curve in Figure 15.10, so stops in the vicinity38 of iron. From where, then, did all of the heavier elements on the periodic table derive? Exploding stars called supernovae and merging neutron stars appear to be the origin of elements beyond zinc.
-The relative abundance of 235U and 238U on Earth can be explained by their different half-lives of 0.704 Gyr and 4.47 Gyr, respectively. Even if starting at comparable amounts, most of the 235U will have decayed away by now. Solving backwards39 to when they would have been present in equal amounts yields about 6 Gyr, which is older than the age of the solar system (4.5 Gyr) and younger than the universe (13.8 Gyr). This is a reasonable result for how old the astrophysical origin might be allowing a billion years or so for the material to coalesce in our forming solar system.
-Uranium is not particularly abundant. Table 15.9 provides a sense of how prevalent various elements are in the earth's crust. Uranium is more abundant than silver, but the useful 235U isotope is four times rarer than silver, and only about 5 times as abundant as gold. Proven reserves of uranium [103] amount to 7.6 million (metric) tons available, and we have used 2.8 million metric tons to date. The implication is that we could continue about 3 times longer than we have gone so far on proven reserves. But nuclear energy has played a much smaller role than fossil fuels, so maybe this isn't so much.
-Evaluating the uranium reserves in energy terms is the most revealing
+
+Fusion in stars does not "climb over" the peak of the binding-energy curve in Figure 15.10, so stops in the vicinity[^38] of iron. From where, then, did all of the heavier elements on the periodic table derive? Exploding stars called supernovae and merging neutron stars appear to be the origin of elements beyond zinc.
+
+The relative abundance of 235U and 238U on Earth can be explained by their different half-lives of 0.704 Gyr and 4.47 Gyr, respectively. Even if starting at comparable amounts, most of the 235U will have decayed away by now. Solving backwards[^39] to when they would have been present in equal amounts yields about 6 Gyr, which is older than the age of the solar system (4.5 Gyr) and younger than the universe (13.8 Gyr). This is a reasonable result for how old the astrophysical origin might be allowing a billion years or so for the material to coalesce in our forming solar system.
+</details>
+
+Uranium is not particularly abundant. Table 15.9 provides a sense of how prevalent various elements are in the earth's crust. Uranium is more abundant than silver, but the useful 235U isotope is four times rarer than silver, and only about 5 times as abundant as gold.+++(4)+++ Proven reserves of uranium [^103] amount to 7.6 million (metric) tons available, and we have used 2.8 million metric tons to date. The implication is that we could continue about 3 times longer than we have gone so far on proven reserves. But nuclear energy has played a much smaller role than fossil fuels, so maybe this isn't so much.
+
 
 [^37]: A trace amount, 0.0055%, is in 234U.
 
@@ -599,43 +605,29 @@ Evaluating the uranium reserves in energy terms is the most revealing
 [^39]: This follows almost the exact same logic and process as carbon-14 radioactive dating, but using much longer half life nuclei to date Earth's building blocks!
 [103]: (2020), List of Countries by Uranium Reserves
 
-Element
-silicon
-aluminum
-Abund. Element Abund.
-Element Abund.
-282,000
-carbon
-200
-thorium
-9.6
-82,300
-copper
-60
-uranium
-2.7
-iron 56,300
-lithium
-20
-silver
-0.075
-calcium
-titanium
-41,500
-lead
-14
-235U
-0.02
-5,650
-boron
-10
-gold
-0.004
+Element Abund.  
+silicon 282,000  
+aluminum 82,300  
+iron 56,300  
+calcium 41,500  
+titanium 5,650  
+carbon 200  
+copper 60  
+lithium 20  
+lead 14  
+boron 10  
+thorium 9.6  
+uranium 2.7  
+silver 0.075  
+235U 0.02  
+gold 0.004  
 
-258
-Table 15.9: Example material abundances in the earth's crust, in parts per million by
-mass.
-approach. First, we take 0.72% of the 7.6 million tons available to represent the portion of uranium in the form of 235U. Enrichment (next section) will not separate all of the 235U, and the reactor can't burn all of it away before the fuel rod is essentially useless. So optimistically, we burn half of the mined 235U in the reactor. Multiplying the resulting 27,300 tons of usable 235U by the 17 million kcal/g we derived earlier yields a total of 2×1021 J. Table 15.10 puts this in context against fossil fuel proven reserves from page 127. We see from this that proven uranium reserves give us only 20% as much energy as our proven oil reserves, and about 5% of our total remaining fossil fuel supply. If we tried to get all 18 TW from this uranium supply, it would last less than 4 years! This does not sound like a salvation.
+[[258]]
+
+Table 15.9: Example material abundances in the earth's crust, in parts per million by mass.
+
+Evaluating the uranium reserves in energy terms is the most revealing approach. First, we take 0.72% of the 7.6 million tons available to represent the portion of uranium in the form of 235U. Enrichment (next section) will not separate all of the 235U, and the reactor can't burn all of it away before the fuel rod is essentially useless. So optimistically, we burn half of the mined 235U in the reactor. Multiplying the resulting 27,300 tons of usable 235U by the 17 million kcal/g we derived earlier yields a total of 2×1021 J. Table 15.10 puts this in context against fossil fuel proven reserves from page 127. We see from this that proven uranium reserves give us only 20% as much energy as our proven oil reserves, and about 5% of our total remaining fossil fuel supply. If we tried to get all 18 TW from this uranium supply, it would last less than 4 years! This does not sound like a salvation.
+
 Proven uranium reserves would last 90 years at the current rate of use, so really it is in a category fairly similar to that of fossil fuels in terms of finite supply. To be fair, proven reserves are always a conservative lower limit on estimated total resource availability. And since fuel cost is not the limiting factor for nuclear plants, higher uranium prices can make more available, from more difficult deposits. Still, even a factor of two more does not transform the story into one of an ample, worry-free
 resource.
 Table 15.10: Proven reserves, in energy terms.
