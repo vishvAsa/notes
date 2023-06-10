@@ -217,6 +217,9 @@ $$ ΔE = Δmc^2, (15.1)$$
 
 where the Δ symbols indicate a change in energy or mass, and $c≈ 3 x 10^8$ m/s is the speed of light. 
 
+[^12]: The burrito is also ever-so-slightly more massive if it has kinetic energy, gravitational potential energy, or any form of energy. A battery is more massive when charged, even if no atoms or electrons are added. Incidentally, charging a battery does not mean literally adding electrical charges (adding particles), but amounts to rearranging electrons among the atoms within the battery.
+
+
 Using kilograms for mass results in Joules for energy. Because $c^2$ is such a large number (nearly $10^17$), the mass change associated with daily/familiar energy quantities is negligibly small. Box 15.2 explains why $E = mc^2$ is valid for all energy exchanges not just nuclear ones but generally results in mass changes too small to measure in non-nuclear contexts. 
 
 
@@ -226,71 +229,72 @@ Physics is not selective about when we might apply $E = mc^2$. It always applies
 
 For example, after we eat a 1,000 kcal burrito to fuel our metabolism, we expend the energy[^13] and lose mass according to $Δm = ΔE/c^2$. Since ΔE ~ 4 MJ (1,000 kcal), we find the associated mass change is $4.6 × 10^{-11}$ kg, which is ten orders-of-magnitude smaller than the mass of the burrito itself.[^14] So we'd never notice, even though it's really there.
 
-When we wind up a mechanized toy, coiling a spring, we put energy into the spring and the toy actually gets more massive! But for every Joule we put in, the mass only increases by about $10^-17$ kg. Forgive us for not noticing. Only in nuclear contexts are the energies large enough to produce a measurable difference in mass.
-</details>
+[^13]: ... ultimately given off as thermal energy to our environment
 
+[^14]: This amount of mass corresponds to that of a tiny length of hair that is shorter than it is wide.
+
+
+When we wind up a mechanized toy, coiling a spring, we put energy into the spring and the toy actually gets more massive! But for every Joule we put in, the mass only increases by about $10^{-17}$ kg. Forgive us for not noticing. Only in nuclear contexts are the energies large enough to produce a measurable difference in mass.
+</details>
 
 
 Earlier, we discussed conservation of energy. More correctly, we observe conservation of mass-energy. That is to say, a system can actually gain or lose net energy if the mass changes correspondingly. In the case of nuclear energy release, the "new" energy comes at the expense of reduced mass.
 
+Particle a.m.u. $10^{-27}kg$ MeV/c2  
+proton 1.0072765 1.6726219  938.2720882  
+neutron 1.0086649 1.6749275 939.5654205  
+electron 0.00054858 0.000911 0.510999  
+(a.m.u.) 1.0000000 1.660539 931.494102
+
+Table 15.4: Constituent masses of atomic building blocks, expressing the same basic thing in three common units systems.
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 Example 15.3.1  
 Since mass and energy are intimately related, it is common to express masses in energy terms. How would we express 12.0 a.m.u. in MeV (a unit of energy; see Sec. 5.9; p. 78)?
 
-1 a.m.u. is equivalent to $1.66 x 10^{-27}$ kg (last row of Table 15.4), so 12 a.m.u. is 1.99×$10^{-26}$ kg. To get to energy, apply $E = mc^2$, computing to 1.8 × $10^{-9}$ J of energy. Since 1 MeV is 1.6 x $10^{-13}$ J, we end up with
+1 a.m.u. is equivalent to $1.66 x 10^{-27}$ kg (last row of Table 15.4), so 12 a.m.u. is 1.99×$10^{-26}$ kg. To get to energy, apply $E = mc^2$, computing to 1.8 × $10^{-9}$ J of energy. Since 1 MeV is 1.6 x $10^{-13}$ J, we end up with 11,200 MeV corresponding to 12 a.m.u. (1 a.m.u. is 931.5 MeV).
+</details>
 
-12: The burrito is also ever-so-slightly more massive if it has kinetic energy, gravitational potential energy, or any form of energy. A battery is more massive when charged, even if no atoms or electrons are added. Inci- dentally, charging a battery does not mean literally adding electrical charges (adding particles), but amounts to rearranging elec- trons among the atoms within the battery.
-13: ... ultimately given off as thermal en- ergy to our environment
-14: This amount of mass corresponds to that of a tiny length of hair that is shorter than it is wide.
+[[247]]
 
+{{< figure src="../images/binding-energy-mass.png" title="" class="thumbnail">}}
 
-247
-11,200 MeV corresponding to 12 a.m.u. (1 a.m.u. is 931.5 MeV).
-In practice, and perhaps surprisingly, atoms (nuclei) weigh less than the sum of their parts due to binding energy. In order to rip a nucleus completely apart and move all the nucleons far from each other, energy must be put in (left part of Figure 15.9). And any change in energy is accompanied by a change in mass, via AE = Amc2. All the energy that must be injected to completely dismantle the nucleus weighs something! So the mass of the individual pieces after dismantling the nucleus is effectively the mass of the original nucleus plus the mass-equivalent of all the energy that was put in to tear it apart (middle panel of Figure 15.9). Therefore, binding energy effectively reduces the mass of a nucleus, which we will now explore quantitatively.
-+ Energy
-Energy
-Energy
-A careful look at Figure 15.4 reveals that lighter stable nuclei (gray- squares) at the lower left of the chart have a mass a little larger than the corresponding mass number, but by the upper right-around oxygen- the mass has edged just lower than A. Table 15.3 shows this trend, confirmable in Figure 15.4 for the first four nuclides in the table. The difference between mass and A is most negative around iron, then turns around and becomes positive again for heavy elements like uranium.
-What is going on here? If the mass of a nucleus were just the sum of its parts, we would expect the total mass to just track linearly as we add more pieces. In fact, if we try to build a neutral carbon atom out of 6 protons, 6 neutrons, and 6 electrons, the sum, according to Table 15.4, should be 12.099 a.m.u., not 12.000. The discrepancy is due to nuclear binding energy, as was introduced in Figure 15.9.
-MeV/c2
-Figure 15.9: One must add energy to over- come nuclear binding energy in order to bust up a nucleus into its constituent nu- cleons (left). Thus, the collective mass of a nucleus plus the mass associated with the energy it takes to break it apart (via $E = mc^2$) must be equal to the sum of the masses of the constituent parts (middle). Therefore, if we compare the mass of the nucleus alone (removing the energy's mass from the scale) it must be less than the mass of the loose collection of nucleons (right).
+Figure 15.9: One must add energy to overcome nuclear binding energy in order to bust up a nucleus into its constituent nucleons (left). Thus, the collective mass of a nucleus plus the mass associated with the energy it takes to break it apart (via $E = mc^2$) must be equal to the sum of the masses of the constituent parts (middle). Therefore, if we compare the mass of the nucleus alone (removing the energy's mass from the scale) it must be less than the mass of the loose collection of nucleons (right).
+
+In practice, and perhaps surprisingly, atoms (nuclei) weigh less than the sum of their parts due to binding energy.+++(5)+++ In order to rip a nucleus completely apart and move all the nucleons far from each other, energy must be put in (left part of Figure 15.9). 
+
+And any change in energy is accompanied by a change in mass, via $ΔE = Δm c^2$. All the energy that must be injected to completely dismantle the nucleus weighs something! So the mass of the individual pieces after dismantling the nucleus is effectively the mass of the original nucleus plus the mass-equivalent of all the energy that was put in to tear it apart (middle panel of Figure 15.9). 
+
+Therefore, binding energy effectively reduces the mass of a nucleus, which we will now explore quantitatively.
+
+A careful look at Figure 15.4 reveals that lighter stable nuclei (gray-squares) at the lower left of the chart have a mass a little larger than the corresponding mass number, but by the upper right - around oxygen - the mass has edged just lower than A. Table 15.3 shows this trend, confirmable in Figure 15.4 for the first four nuclides in the table. 
+
 Table 15.3: Example mass progression.
-Nuclide
-2H
-A
-mass (a.m.u.)
-2
-2.014
-4He
-4
-4.003
-12C
-12
-12.000
-160
-16
-15.995
-56 Fe
-56
-55.935
-235U
-235
-235.044
-0.510999
-Table 15.4: Constituent masses of atomic building blocks, expressing the same basic thing in three common units systems.
-Particle
-proton 1.0072765 1.6726219 neutron 1.0086649 1.6749275 electron 0.00054858 0.000911 (a.m.u.) 1.0000000 1.660539
-a.m.u.
-10-27 kg
-938.2720882
-939.5654205
-931.494102
-Nuclear binding energy is incredibly strong15 and is able to overpower the natural electric repulsion between positively charged protons and stick them together in an unwilling bunch. The strong nuclear force only acts over a tiny range within about $10^{-15}$ m:16 it is very powerful
-15:... relating to what we call the strong nuclear force
-16: The whole atom is around $10^{-10}$
-scale
-m in
 
-on short length scales, but ceases to operate much beyond the confines of the nucleus. Think about binding energy this way: if we tried to pry a proton or a neutron (nucleon, generically) away from a nucleus, we would encounter a very powerful force opposing the action. But let's say we persist, and do work in extracting the nucleon by the usual recipe of force times distance. It is so much work, in fact, that AE = Amc2 becomes relevant, measurably altering the mass.
+Nuclide A mass(a.m.u.)
+2H 2 2.014  
+4He 4 4.003  
+12C 12 12.000  
+16O  16 15.995  
+56 Fe 56 55.935  
+235 U 235 235.044  
+
+
+The difference between mass and A is most negative around iron, then turns around and becomes positive again for heavy elements like uranium.
+
+What is going on here? If the mass of a nucleus were just the sum of its parts, we would expect the total mass to just track linearly as we add more pieces. In fact, if we try to build a neutral carbon atom out of 6 protons, 6 neutrons, and 6 electrons, the sum, according to Table 15.4, should be 12.099 a.m.u., not 12.000. The discrepancy is due to nuclear binding energy, as was introduced in Figure 15.9.
+
+
+Nuclear binding energy is incredibly strong[^15] and is able to overpower the natural electric repulsion between positively charged protons and stick them together in an unwilling bunch. The strong nuclear force only acts over a tiny range within about $10^{-15}$ m [^16] : 
+
+[^15]: ... relating to what we call the strong nuclear force
+
+[^16]: The whole atom is around $10^{-10}$ m in scale
+
+
+it is very powerful on short length scales, but ceases to operate much beyond the confines of the nucleus. Think about binding energy this way: if we tried to pry a proton or a neutron (nucleon, generically) away from a nucleus, we would encounter a very powerful force opposing the action. But let's say we persist, and do work in extracting the nucleon by the usual recipe of force times distance. It is so much work, in fact, that $Δm = ΔE/c^2$ becomes relevant, measurably altering the mass.
+
 Table 15.5 walks through some example calculations, one of which is traced in Example 15.3.2. Because the 1H nuclide is just a lone proton, it has no binding energy.
 Nucleus Emp,n,e
 1H 1.007825
