@@ -678,54 +678,27 @@ The result is that sterile 238U can be turned into fissile 239Pu that can be use
 
 [[260]]
 
-In fact, breeding happens as a matter of course in a nuclear reactor: it is estimated that one-third of the fission energy in ordinary nuclear reactors comes from plutonium breeding and subsequent fissioning-without any extra effort. Special reactor designs enhance plutonium production, allowing the fuel rod to be "harvested" for plutonium. Usually, the plutonium is destined for use in weapons, but in principle reactors could be designed to efficiently produce and use plutonium from the 238U feedstock. Downsides will be addressed in Section 15.4.6 on weapons and proliferation.
+In fact, breeding happens as a matter of course in a nuclear reactor: it is estimated that one-third of the fission energy in ordinary nuclear reactors comes from plutonium breeding and subsequent fissioning- without any extra effort. Special reactor designs enhance plutonium production, allowing the fuel rod to be "harvested" for plutonium. Usually, the plutonium is destined for use in weapons, but in principle reactors could be designed to efficiently produce and use plutonium from the 238U feedstock. Downsides will be addressed in Section 15.4.6 on weapons and proliferation.
 
-Box 15.5: Thorium Breeding
-Another form of breeding merits mention. Notice that thorium45 is more abundant than uranium in Table 15.9. But like 238U, it is not fissile. However, applying the breeding trick, the absorption of a neutron by 232Th ends up as 233U-the last of our three fissile nuclei in about a month's time. This provides an avenue for an even greater energy store than exists in 238U via breeding to 239 Pu, by virtue of greater abundance. Unlike the plutonium route, thorium breeders are less susceptible to weapons and proliferation concerns.[^46] That said, thorium reactors are more complex than uranium reactors, so that technical hurdles have thus far prevented any commercial scale application of the technique, leaving us unclear whether thorium represents a viable nuclear path.
+<details><summary>Box 15.5: Thorium Breeding</summary>
 
-[^45]:
-of which 100% is the desired 232Th
+Another form of breeding merits mention. Notice that thorium[^45] is more abundant than uranium in Table 15.9. But like 238U, it is not fissile. However, applying the breeding trick, the absorption of a neutron by 232Th ends up as 233U-the last of our three fissile nuclei in about a month's time. This provides an avenue for an even greater energy store than exists in 238U via breeding to 239 Pu, by virtue of greater abundance. Unlike the plutonium route, thorium breeders are less susceptible to weapons and proliferation concerns.[^46] That said, thorium reactors are more complex than uranium reactors, so that technical hurdles have thus far prevented any commercial scale application of the technique, leaving us unclear whether thorium represents a viable nuclear path.
+
+[^45]: of which 100% is the desired 232Th
 isotope
 
 [^46]: ... although, radioactive waste is still problematic
 
+</details>
+
+
 ### 15.4.5 Nuclear Waste
 As we saw in our description of the fission process, the fragments distribute over a range of masses in a randomized way (Figure 15.15). The results are generally neutron-rich, and will migrate toward stable elements via β decays over the ensuing seconds, hours, days, months, and years. Some will go fast, and some will take ages to settle, depending on half-lives. Radioactive waste is dangerous to be around because the high-energy particles (like sub-atomic "bullets") spewing out in all directions can alter DNA, leading to cancer and birth defects, for instance.
-The lighter of the two fission fragments has a 59% chance of landing on a stable nucleus within a day or so. For the heavier fragment, it's a 45% chance. The rest get hung up on some longer half-life nuclide, and could remain radioactive for a matter of weeks or in some cases millions of years. The colors in the fission probability histograms in Figure 15.15 provide a visual guide for the mass numbers that reach stability promptly (gray) vs. those that get hung up for a long time (blue is more than 10 years). For example, the histogram element at A = 90 is blue because 90Sr-discussed below-stands in the way of a fast path to stability.
-106
-Tel32
-105
-Balte
-104
-Zr95.
-total:
-Ce144
-103
 
-261
-radioactive power per kg 235U (W)
-102
-101
-10°
-$10^{-1}$
-102
-$10^{-3}$
-Sr901
-Cs137
-Actinides
-Tc99
-$10^{-4}$
-Cs135
-$10^{-5}$
-0.001
-0.01
-0.1
-1
-10
-100 1,000 10k time (years)
-100k
-1M
-Figure 15.19 shows how the fission decays play out over time. For the first month or so out of the reactor, the spent fuel is really "hot" radioactively, but falls quickly as 95Zr and then 144 Ce dominate around one year out. At about 5 years, the pair of 90Sr and 137Cs begin to dominate the output for the next few-hundred years. Some of the products survive for millions of years, albeit at low levels of radioactive power. In addition to the daughter fragments, uranium in the presence of neutrons transmutes into neptunium, plutonium, americium, and curium via neutron absorption and subsequent β decays, represented approximately and collectively in Figure 15.19 by a dashed curve labeled Actinides. 47
+The lighter of the two fission fragments has a 59% chance of landing on a stable nucleus within a day or so. For the heavier fragment, it's a 45% chance. The rest get hung up on some longer half-life nuclide, and could remain radioactive for a matter of weeks or in some cases millions of years. The colors in the fission probability histograms in Figure 15.15 provide a visual guide for the mass numbers that reach stability promptly (gray) vs. those that get hung up for a long time (blue is more than 10 years). For example, the histogram element at A = 90 is blue because 90Sr-discussed below-stands in the way of a fast path to stability.
+
+Figure 15.19 shows how the fission decays play out over time. For the first month or so out of the reactor, the spent fuel is really "hot" radioactively, but falls quickly as 95Zr and then 144 Ce dominate around one year out. At about 5 years, the pair of 90Sr and 137Cs begin to dominate the output for the next few-hundred years. Some of the products survive for millions of years, albeit at low levels of radioactive power. In addition to the daughter fragments, uranium in the presence of neutrons transmutes into neptunium, plutonium, americium, and curium via neutron absorption and subsequent β decays, represented approximately and collectively in Figure 15.19 by a dashed curve labeled Actinides. [^47]
+
 The bottom line is that fission leaves a trash heap of radioactive waste that remains at problematic levels for many thousands of years. When nuclear reactors were first built, they were provisioned with holding tanks deep pools of water-in which to place the waste fuel until a more permanent arrangement could be sorted out (Figure 15.20). We are still waiting for an adequate permanent solution for waste storage, and the "temporary" pools are just accumulating spent fuel. Transporting the spent fuel is hazardous-in part because it could fall into the wrong hands and be used to make "dirty" bombs—and no one wants a nuclear waste facility in their backyard, making the problem politically thorny. On the technical side, it is difficult to identify sites that are geologically stable enough and have little chance of groundwater contamination. Underground salt domes offer an interesting possibility, but political challenges remain daunting.
 Figure 15.19: Decay activity of fragments from 1 kg of fissioned 235U over time, on a log-log plot. The vertical axis is the power of radioactive emission, in W, for a variety of relevant isotopes-each having their own characteristic half life. The black line at the top is the total activity (sum of all contribu- tions), and some of the key individuals are separated out. The dashed line for actinides is an approximate representative indicator of the role played by heavy nuclides formed in the reactor by uranium absorption of neu- trons. Minor tick marks are at multipliers of 2, 4, 6, and 8 for each axis. As a matter of possible interest, the exponential decays of each element on this log-log plot have the functional form of exponential curves drawn upside-down.
 

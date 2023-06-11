@@ -15,6 +15,11 @@ Animals - rats, snakes, peacocks, mongooses, rabbits, dogs, cheetahs, cows.
 - In the 1 acre plots, crops are grown. 
 - In the 1.5 acre strip - farm house, fruits, greens, some flower trees, (prospective as of 2023) ayurvedic trees. The trees are separated into 8 feet rows.
 - Each crop plot is a grid of squares marked by coconut trees 32 feet apart. Each such square has 8 ft wide strips with arecanut trees, interspersed with banana trees.
+- Subhash's Palekar's 5-layer model is used.
+  - There are many more things you can grow (ginger/turmeric) as the bottom-most layer. Cinnamon at the centre of 4 coconut trees. Etc..
+
+
+{{< figure src="../../images/palekar-36ft-grid.png" title="" class="thumbnail">}}
 
 ### Crop rotation
 In each 8 foot strip, cattle fodder (maize) is grown, alternated with nava-graha pulses (which do nitrogen fixation).
@@ -31,12 +36,30 @@ Every week, a particular strip is cleared, fertilized with jIvAmRta, tilled and 
 ### Fertilization
 jIvAmRta with water, dung, jaggery, flour is sprayed on the ground, to let fungii grow.
 
-### Revenue and expenditure
+### Expenditure
 - Beyond initial levelling, equipments and new seeds - no external input.
 - Laborer paid 12k + 2k expenses monthly as of 2023.
+
+### Revenue
+#### Initial
 - Banana yield 3500 kgs (from 1 acre) leading to 3.5L revenue in early 2023.
-- Estimated coconut yield per acre per year = ??
-- Estimated arecanut yield per acre per year = ??
+
+#### Forecast
+- Banana: 
+  - 6 kg/tree. 550 trees per acre. 
+  - Rs. 45/kg for Elakki variety 
+  - this yield is achievable for the first 2-3 years. After the arecanut/coconut grows taller and competition for sunlight becomes a reality, the banana yield could reduce by 50%.
+- Arecanut: 
+  - 1 kg/tree. 550 trees per acre.
+  - Price for our variety Channagiri: Rs. 475/kg. Partial yield starts at 4 years. 
+  - Full yield starts at 8 years.
+- Coconut: 
+  - 120 nuts per tree. 
+  - 36 per acre. Rs. 20/coconut. 
+  - Partial yield starts at 4 years. 
+  - Full yield starts at 8 years.
+
+(There are many more things you can grow (ginger/turmeric) as the bottom-most layer. Cinnamon at the centre of 4 coconut trees. Etc..)
 
 ## Animal husbandry
 - Initially had 5 dogs. 2 were taken by a leopard (identified by paw marks); 1 from a neighboring farm.  Since then, dogs are kept inside the cowshed at night.
@@ -54,6 +77,8 @@ jIvAmRta with water, dung, jaggery, flour is sprayed on the ground, to let fungi
 
 ## Farm house
 - Eco-friendly construction.
+  - Architect:  https://madeinearth.in
+  - Contractor: Kraftek (friends of Ajay)
 - Single floor.
 - toTTi-mane design - with glass-covered open square space in the middle. There's also such strips next to some walls - for plants.
 - Walls (even stone walls) become damp during heavy rains - but no mold grows due to good ventilation.
