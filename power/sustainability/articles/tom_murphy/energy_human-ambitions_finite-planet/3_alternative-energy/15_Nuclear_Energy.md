@@ -651,306 +651,26 @@ Enrichment is difficult to achieve. Chemically, 235U and 238U behave identically
 
 [^42]: Depleted uranium is defined as containing 0.3% or less in the form of 235U, which is not a huge reduction from the 0.72% starting point.
 
-But what if we could use the bulk uranium, 238U, in reactors and not only save ourselves the hassle of enrichment, but also gain access to 140 times more material, in effect? Doing so would turn the proven reserves of uranium into about 7 times more energy supply than all of our remaining fossil fuels. Well, it turns out that despite its not being
-235 U
+But what if we could use the bulk uranium, 238U, in reactors and not only save ourselves the hassle of enrichment, but also gain access to 140 times more material, in effect? Doing so would turn the proven reserves of uranium into about 7 times more energy supply than all of our remaining fossil fuels. 
 
 
-259
-one of the three fissile nuclei, we can convert43 238U into the fissile the following way.
+[[259]]
+
+Well, it turns out that despite its not being one of the three fissile nuclei, we can convert[^43] 238U into the fissile the following way.
+
+[^43]: ... called transmutation
+
 1. A 238U may absorb a wandering neutron to become 239U.
-239 Pu
-43: ... called transmutation
-2. 239U, whose half life is 23.5 minutes, undergoes β to become
-239 Np in short order.
-2391
-3. Np also undergoes β with a half life of 2.4 days to become
-fissile 239Pu.
+2. 239U, whose half life is 23.5 minutes, undergoes β to become 239 Np in short order.
+3. Np also undergoes β with a half life of 2.4 days to become fissile 239Pu.
+
+
 Figure 15.17 highlights this process in a simplified region of the Chart of the Nuclides, while Figure 15.18 shows complete details for the entire region around the fissile materials-the ones with red isotope names which can be used to track the sequence outlined above.
-Am 95 Americium
-Am235
-15 m
-Am236
-4 m
-Am237 1.22 h
-Am238 1.63 h
-Am239
-11.9 h
-e capture ?
-e capture
-e capture
-e capture
-e capture
-E 3.3
-Pu 94 Plutonium
-Np
-93 Neptunium
-E 2.6
-Pu234 8.8 h
-e capture
-E 0.39
-Np233
-36.2 m
-e capture
-E 1.0
-U232 69.8 yr
-Pu235
-25.3 m
-e capture
-E 1.14
-Np234
-4.4 d
-e capture
-a
-92
-U
-Uranium
-238.02891
-a
-232.037146
-Pa 91 Protactinium
-Pa231 32.8 kyr
-a
-B
-231.03588
-231.035879
-90
-Th
-Thorium
-232.0381
-Th230 75.4 kyr
-α
-B
-89
-N
-Ac
-Actinium
-230.033127
-Ac229 1.04 h
-B
-B
-E 1.10
-140
-E 1.81
-U233 159.2 kyr
-233.039628
-Pa232
-1.31 d
-C
-E 1.5
-Pu236 2.87 yr
-236.046048
-Np235 1.085 yr
-e capture
-a
-E 0.124
-U234
-0.0055 246 kyr
-234.040946
-E 2.3
-Pu237
-45.2 d
-e capture
-E 0.22
-Np236 155 kyr
-e capture
-a
-E 0.9
-U235
-0.7200 704 Myr
-CC
-CL
-E 0.803
-Pu238 87.7 yr
-238.049553
-Np237 2.14 Myr
-237.048167
-U236 23.42 Myr
-Am240 2.12 d
-e capture
-E 1.38 Pu239 24.10 kyr
-α
-239.052157
-Np238
-2.117 d
-B
-B-
-Pu239 24.10 kyr
-Np238 2.117 d
-a
-Pu240 6.56 kyr
-Np239
-2.355 d
-B-
-Pu241
-14.4 yr
-Np240 1.032 h
-B
-B
-U237
-6.75 d
-U238
-99.2745 4.47 Gyr
-U239 23.47 m
-C
-B
-n
-Figure 15.17: Breeder route to
-а
-a
-Am241 432.7 yr
-241.056823 Pu240 6.56 kyr
-240.053087
-Np239
-2.355 d
-U238
-α
-Am242 141 yr
-B
-E 0.0208
-B
-B
-B
-E 1.292
-E 0.722
-U237 6.75 d
-99.2745 4.47 Gyr
-B
-B
-238.050783
-Am243 7.37 kyr
-21.83 m
-E 1.245
-Ac232
-2.0 m
-B-
-E 1.4
-Th234 24.10 d
-E 0.273
-Ac233 2.4 m
-E 0.519
-Pa236
-9.1 m
-E 2.9
-Th235
-7.2 m
-E 1.9
-Ac234 40s
-B-
-B
-Pa237
-8.1 m
-E 2.3 Th236
-37.5 m
-E 1.0
-146
-B-
-B-
-Pu241 14.4 yr
-Np240
-1.032 h
-E 2.20
-U239 23.47 m
-E 1.263
-Pa238
-2.3 m
-E 3.5
-Th237
-4.8 m
-E 2.6
-147
-CL
-B
-243.061373 Pu242
-375 kyr
-242.058737
-B-
-B-
-Np241
-13.9 m
-E 1.3
-U240 14.1 h
-Th238 ~9.4 m
-E 1.6
-148
-235.043923
-Pa234
-6.69 h
-C
-236.045562
-Pa233 26.967 d
-Pa235
-24.4 m
-B
-B
-B-
-B-
-E 2.195
-Th233
-E 1.34
-Th231 1.063 d
-CL
-E 0.570
-Th232
-100 14.0 Gyr
-232.038050
-E 0.390
-Ac230
-2.03 m
-E 2.7
-Ac231
-7.5 m
-B
-B
-B
-E 2.1
-142
-E 3.7
-143
-E 2.8
-E 4.5
-E 0.39
-239 Pu.
-α
-N
-Pu239
-24.10 kyr
-239.052157
-isotope
-half life (radioactive)
-primarγ decay path
-141
-mass or decay energy (MeV)
-naturally ocurring isotope
-% abundance
-half life
-U238
-99.2745 4.47 Gyr
-α
-primarγ decay path
-238.050783
-mass, a.m.u.
-Top Half Coloring:
-Half Life Guide
-< 1 day
-1 to 10 days
-144
-145
-Bottom Half Coloring:
-Neutron Absorption (Barns)
-<10
-10 to 100
-100 to 500
-1 a.m.u. = 1.66054e-27 kg
-1 a.m.u. 931.49432 MeV/c2
-1 MeV = 1.6022e-13 J
-10 to 100 days
-100 days to 10 yr
-10 yr to 500 Myr
-500 to 1000
-> 1000
-> 500 Myr or stable
-> U233, U235, Pu239 are slow-neutron fissile
-> Figure 15.18: Chart of the Nuclides in the fission region. See also Figure 15.4 for the lower-left corner.
+
+{{< figure src="../images/Pu-breeder-route.png" title="" class="thumbnail">}}
+
+{{< figure src="../images/neuclide-chart_fission-region.png" title="" class="thumbnail">}}
+
 
 The result is that sterile 238U can be turned into fissile 239Pu that can be used in fission reactors. This process of transmuting an inert nucleus into a fissile one is called breeding, and is how we get any plutonium at all.[^44] A nuclear reactor is a great place to introduce 238U to neutrons: both are already in attendance. 
 
@@ -968,7 +688,8 @@ of which 100% is the desired 232Th
 isotope
 
 [^46]: ... although, radioactive waste is still problematic
-15.4.5 Nuclear Waste
+
+### 15.4.5 Nuclear Waste
 As we saw in our description of the fission process, the fragments distribute over a range of masses in a randomized way (Figure 15.15). The results are generally neutron-rich, and will migrate toward stable elements via β decays over the ensuing seconds, hours, days, months, and years. Some will go fast, and some will take ages to settle, depending on half-lives. Radioactive waste is dangerous to be around because the high-energy particles (like sub-atomic "bullets") spewing out in all directions can alter DNA, leading to cancer and birth defects, for instance.
 The lighter of the two fission fragments has a 59% chance of landing on a stable nucleus within a day or so. For the heavier fragment, it's a 45% chance. The rest get hung up on some longer half-life nuclide, and could remain radioactive for a matter of weeks or in some cases millions of years. The colors in the fission probability histograms in Figure 15.15 provide a visual guide for the mass numbers that reach stability promptly (gray) vs. those that get hung up for a long time (blue is more than 10 years). For example, the histogram element at A = 90 is blue because 90Sr-discussed below-stands in the way of a fast path to stability.
 106
