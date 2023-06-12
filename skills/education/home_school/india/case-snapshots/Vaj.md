@@ -12,8 +12,8 @@ Very mild progress with cycling.
 
 ## 2022-09
 Did some khAn academy kids.  
-Had learnt English alphabets.
-Much play with neighbor kids.
+Had learnt English alphabets (nameplate pointing in short walks etc..).
+Much play with neighbor kids, some with पितामह.
 
 ## 2021-01
 Spoken languages

@@ -50,8 +50,8 @@ sangItA - neighbor मीरा.
 
 ## 2021-07
 Started Agastya gurukulam classes.  
-Languages - sanskrit, Engish, kannaDa, hindI, tamiL.  
-itihAsa/ bhUgola (), math (अपराजित इति उत्तमः शिक्षकः).
+Languages - sanskrit, Engish, kannaDa (various), hindI (निधि), tamiL.  
+itihAsa/ bhUgola (मृणालिनी?), math (अपराजित इति उत्तमः शिक्षकः).
 
 kaNThasthIkaraNam - aShTAdhyAyi (stopped after a short while in favor of alternatives), amarakosha (good portion of the first 3 varga-s, eventually), some dhAtupATha. (बालकृष्णः)
 
