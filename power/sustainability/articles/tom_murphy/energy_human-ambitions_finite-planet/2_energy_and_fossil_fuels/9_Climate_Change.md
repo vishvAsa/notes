@@ -173,7 +173,7 @@ Table 9.2: Stepwise procedure to convert TW to ppm, of CO2. FF means fossil fuel
 total emissions stays in atmosphere 
 (divide by 4,184), yielding 4.5 × 1016 kcal/yr, and thus 3.9 × 1015 g/yr of oil, or 3.9 × 1012 kg/yr.[^5] Table 9.1 shows that each kilogram of oil combusted produces 3.09 kg of CO2, translating to 1.2 x 1013 kg/yr of CO2 from oil. Incidentally, we get the same answer using 64 g/MJ from Table 9.1 and 1.9×1014 MJ/yr from a few lines up. The remainder of the work, converting to parts per million, is covered in the text and the lower part of Table 9.2. 
 8 
-The mass of the atmosphere is about 5 × 1018 kg, obtained by multiplying 10,000 kg of air sitting over every square meter by the 47R2 surface area of the earth. Dividing the 1.2 × 1013 kg of oil-generated CO2 by the mass of the atmosphere yields 2.4 x $10^{-6}$, or 2.4 parts per million. We are almost there. The quantity we have calculated is parts per million by mass (ppmm), not the conventional parts per million by volume (ppm). Since air averages 29 g/mol, and CO2 is 44 g/mol, the mass concentration of CO2 is higher than the volume occupation in air by a factor of 44/29, or 1.52. Thus we divide our 2.4 ppmm result by 1.52 to get 1.6 ppm. A final correction is that only half of this stays in the atmosphere, so that today we are putting 0.8 ppm, into the atmosphere each year from oil. 
+The mass of the atmosphere is about 5 × 1018 kg, obtained by multiplying 10,000 kg of air sitting over every square meter by the $4πR^2$ surface area of the earth. Dividing the 1.2 × 1013 kg of oil-generated CO2 by the mass of the atmosphere yields 2.4 x $10^{-6}$, or 2.4 parts per million. We are almost there. The quantity we have calculated is parts per million by mass (ppmm), not the conventional parts per million by volume (ppm). Since air averages 29 g/mol, and CO2 is 44 g/mol, the mass concentration of CO2 is higher than the volume occupation in air by a factor of 44/29, or 1.52. Thus we divide our 2.4 ppmm result by 1.52 to get 1.6 ppm. A final correction is that only half of this stays in the atmosphere, so that today we are putting 0.8 ppm, into the atmosphere each year from oil. 
 Figure 9.3 shows the result of this computation as a function of time in terms of annual rate and cumulative emission. We find that even though oil and coal deliver about the same global annual energy now, the carbon-intensity of coal is much higher so that its CO2 emission dominates10 over the other sources. In fact, coal always has been the dominant CO2 producer, seen by the fact that the black curve in the left-hand panel of Figure 9.3 has always been higher than the other two CO2 sources. In total, this estimate suggests that we should see CO2 levels rising by 2.6 ppm, per year, a little over half of which is due to coal (1.4 ppm/year). 
 11 
 Summing up the rising contributions over time, this method of estimation suggests that we have increased the atmospheric CO2 by 123 ppm, and that 75 ppm, of this (61%) is attributed to coal (right-hand panel of Figure 9.3). 
@@ -340,19 +340,19 @@ presence of excess CO2 in our atmosphere is undeniably from fossil fuel combusti
 of 
 this is the mechanism by which energy leaves the earth, the power which is governed by the Stefan-Boltzmann law P = AsurfσT4, where the Stefan-Boltzmann constant,[^15] σ = 5.67 x $10^{-8}$ W/m2/K4, and T is the temperature of the radiating surface, in Kelvin. 
 Sun 
-infrared radiation from 4лR2 
+infrared radiation from $4πR^2$ 
 9 Climate Change 
 144 
 
 [^15]: 
 ..easy as 5-6-7-8 
-лR2 projection intercepted sunlight, 
+$πR^2$ projection intercepted sunlight, 
 Sun's view 
 The sun delivers energy to the top of the earth's atmosphere at a rate16 of 1,360 W/m2. About 30% of this light-29.3%, to be precise-is immedi- ately reflected by clouds, snow, and to a lesser extent water and terrain. The remaining 70.7% of the light intercepts the earth in a projected disk of area Aproj = πR (Figure 9.6). But the total surface area of the earth is four times this, all of it contributing to infrared radiation to space. In perfect balance,[^17] energy absorbed equals energy radiated: 
-0.707 x 1360 W/m2 × лR2 = 4лR2σТ4. 
+0.707 x 1360 W/m2 × $πR^2$ = $4πR^2σТ4$. 
 (9.1) 
-The лR factors cancel, and we can rearrange to isolate temperature: 
-Figure 9.6: Earth intercepts sunlight across the projected area of the Earth's disk (R2), while radiating from the entire surface area, which is four times larger (4πR2). 
+The πR factors cancel, and we can rearrange to isolate temperature: 
+Figure 9.6: Earth intercepts sunlight across the projected area of the Earth's disk (R2), while radiating from the entire surface area, which is four times larger ($4πR^2$). 
 
 [^16]: This is called the solar constant [^4], and will appear again in Chapter 10 and Chapter 
 13. 

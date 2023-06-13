@@ -397,13 +397,13 @@ To understand practically-available energy, we back up and consider how much air
 [^9]: We can pick any value for At: a long interval makes a very long cylinder, while a small At results in a short, stubby cylinder. In the end, the value we chose for At will cancel out, so as not to matter.
 R
 VɅt
-Cylinder volume: лR2νAt
-The cross-sectional area of the wind turbine (rotor) is defined as the area swept out by the blades, so лR2. Thus the volume of the cylinder of air interacting with the turbine over time interval At is the "base" (circular) area of the cylinder times its "height" (straight length, vAt), or V = nR2ʊAt. We know the density of the air,10 so the mass of the cylinder is m = PairV = Pair R2vAt. The kinetic energy contained in this cylinder of air is therefore K.E. = m2 = Pair 7R23 At. Now let's get rid of that pesky At. Think for a moment what happens if we divide both sides by At: it will definitely get rid of the At on the right-hand-side, but what does the left-hand side mean: energy over time? Hopefully, this is familiar by now as the concept of power.
+Cylinder volume: $πR^2νAt$
+The cross-sectional area of the wind turbine (rotor) is defined as the area swept out by the blades, so $πR^2$. Thus the volume of the cylinder of air interacting with the turbine over time interval At is the "base" (circular) area of the cylinder times its "height" (straight length, vAt), or V = nR2ʊAt. We know the density of the air,10 so the mass of the cylinder is m = PairV = Pair R2vAt. The kinetic energy contained in this cylinder of air is therefore K.E. = m2 = Pair 7R23 At. Now let's get rid of that pesky At. Think for a moment what happens if we divide both sides by At: it will definitely get rid of the At on the right-hand-side, but what does the left-hand side mean: energy over time? Hopefully, this is familiar by now as the concept of power.
 Definition 12.2.1 The power delivered by a wind turbine of radius R in wind speed v and operating at efficiency & is
 1
 Pwind
 =
-2εPairπR273
+$2εPairπR^273$
 (12.2)
 Figure 12.3: Wind power concept. In time interval At at wind speed v, a volume of air encounters the rotor having the shape of a cylinder of radius R and length vAt. Note that most wind turbines are designed to pivot about a vertical axis to face into the wind, whatever the direction.
 

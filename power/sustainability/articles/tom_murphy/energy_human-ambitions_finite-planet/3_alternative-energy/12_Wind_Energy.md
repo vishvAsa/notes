@@ -65,7 +65,7 @@ a power per unit land area (in W/m2) by the following approach:
 120D2
 
 
-[^16]: ...one лR2 rotor area for every 8D X 15D
+[^16]: ...one $πR^2$ rotor area for every 8D X 15D
 120 x (2R)2 = 480R2 of land area
 Figure 12.5: Overhead view of wind farm turbine locations, for the case where separa- tions are 10 rotor-diameters along the wind direction, and 5 rotor diameters in the cross- wind direction a geometry that yields 1.6% area "fill factor." Current recommendations are for 15 and 8 rotor diameters, which is significantly more sparse than even this de- piction, leading to 0.65% area fill. Note that most wind turbines can turn to face the wind direction, for times when its direction is not the prevailing one.
 power
@@ -136,7 +136,9 @@ Global wind installations are rising rapidly, currently (as of 2020) above 600 G
 [^23]: A small fraction of this is realized, due to the capacity factor.
 
 [^24]: To compare wind to total energy, we follow the thermal equivalent convention discussed for Table 10.3 (p. 170)
-Table 12.2: Global wind installations in 2018 [78-84]. The top six countries capture 85% of the global total.
+
+Table 12.2: Global wind installations in 2018 [[^78] [^79] [^80] [^81] [^82] [^83] [^84]]. The top six countries capture 85% of the global total.
+
 Country
 GW installed
 GW average

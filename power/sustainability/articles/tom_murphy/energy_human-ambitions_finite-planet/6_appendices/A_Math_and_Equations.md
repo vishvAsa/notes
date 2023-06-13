@@ -111,13 +111,13 @@ How about this collection of four words: that, how, happen, did. Now arrange the
 
 [^10]: The number of combinations is 4! (four- factorial), or 4.3.2.1. It is a worthy exercise to write out all 24 combinations, not only to verify the result but to give practice in how to systematically shuffle the words in an orderly manner-inventing your own functional rules as you go. You might even stumble on why 4.3.2.1 is the right way to count the combinations based on your method of systematizing. 
 A.3 Areas and Volumes 
-This book, and the problems within, often assume facility in computing areas or volumes of some basic shapes. Students who have focused on memorizing formulas may see a jumble of л, r to various powers, and some hard-to-remember numerical coefficients. For circles and spheres, how do we bring order to the mess? 
+This book, and the problems within, often assume facility in computing areas or volumes of some basic shapes. Students who have focused on memorizing formulas may see a jumble of π, r to various powers, and some hard-to-remember numerical coefficients. For circles and spheres, how do we bring order to the mess? 
 w 
 1= 
 A helpful trick is to turn the circle into a square, or the sphere into a cube, where our footing is more secure. Hopefully it is clear that the perimeter (length around) of a square whose side length is a will be 4a. The area will be a a = a2. Units can help us, too: if a 
 3 m, then the perimeter should also be a length with units of meters and the area should be in square meters. It would never do to have something like a2 describe a perimeter (wrong units) or to have the area not contain something like a2. The cube version has volume a3. 
 11 
-About those circles and spheres: The task is to fit a circle or sphere inside of a square or cube, so that a = 2r. In other words, the diameter (2r, where r is radius) fits neatly across the side length of the square. The perimeter of the circle should be smaller than the 4a perimeter of the square,11, but a good deal larger than 2a, which would represent a round trip directly across the square, through its center.[^12] So the circle perimeter is between 2a and 4a, probably not far from 3a. Since a = 2r, the perimeter should be somewhat close to 6r. Suspecting that л ~ 3 shows up somewhere, the leap is not far to the perimeter being 2лr. 
+About those circles and spheres: The task is to fit a circle or sphere inside of a square or cube, so that a = 2r. In other words, the diameter (2r, where r is radius) fits neatly across the side length of the square. The perimeter of the circle should be smaller than the 4a perimeter of the square,11, but a good deal larger than 2a, which would represent a round trip directly across the square, through its center.[^12] So the circle perimeter is between 2a and 4a, probably not far from 3a. Since a = 2r, the perimeter should be somewhat close to 6r. Suspecting that π ~ 3 shows up somewhere, the leap is not far to the perimeter being 2πr. 
 Likewise for the area: a circle within the square has an area smaller than that of the surrounding square (a2), but surely larger than half the square area—maybe around three-quarters. In terms of radius, the whole square has area a2 = 4r2, and three-quarters of this is 3r2~ πr2. Correct again! 
 Volume is a little harder to visualize, but again the sphere will have a volume smaller than that of the cube: a3 = 8r3. Maybe the sphere's 
 
@@ -127,9 +127,9 @@ Volume is a little harder to visualize, but again the sphere will have a volume 
 [^12]: This path would look like a line across 
 the square, traversed twice as a there-and- back trip. 
 
-volume is about half that of the cube, so 4r3. But where would a л go? It's always a multiplier in these situations, so we can harmlessly throw in a pi/3 ~ 1 factor to get a volume 
+volume is about half that of the cube, so 4r3. But where would a π go? It's always a multiplier in these situations, so we can harmlessly throw in a pi/3 ~ 1 factor to get a volume 
 r3. 
-The point is that forgetting the exact formulas is not fatal: just back up to a more familiar setting and build out from there. For cylinders, just combine elements of circular and rectangular geometries to realize that the volume is the area of the circle times the height13 of the cylinder. External surface area is twice the areas of the end-caps (each лr2) plus the perimeter of the circle times the height-as if rolling out the skin into a rectangle and calculating its area. 
+The point is that forgetting the exact formulas is not fatal: just back up to a more familiar setting and build out from there. For cylinders, just combine elements of circular and rectangular geometries to realize that the volume is the area of the circle times the height13 of the cylinder. External surface area is twice the areas of the end-caps (each πr2) plus the perimeter of the circle times the height-as if rolling out the skin into a rectangle and calculating its area. 
 
 [^13]: 
 A.4 Fractions 363 

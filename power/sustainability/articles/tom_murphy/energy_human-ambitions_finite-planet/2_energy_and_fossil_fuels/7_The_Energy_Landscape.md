@@ -128,7 +128,7 @@ we consume.
 Ask yourself what else you can learn 
 from the numbers! 
 
-[^6]: Neat trick: roughly л x 107 seconds in a 
+[^6]: Neat trick: roughly π x 107 seconds in a 
 year. 
 
 [^7]: This showed up in Table 3.4 (p. 43) and also in Box 5.4 (p. 75). 

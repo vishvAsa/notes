@@ -76,7 +76,7 @@ P = AσT4 (W).
 (13.3)
 We already saw this equation in the context of Earth's energy balance in Sections 1.3 and 9.2. It is called the Stefan-Boltzmann law, describing the total power (in W, or J/s) emitted from a surface whose area is A (in square meters) and temperature, T in Kelvin.[^8] The constant, o≈ 5.67 × $10^{-8}$ W/m2/K+ is called the Stefan-Boltzmann constant, and is easy to remember as 5-6-7-8.9
 1
-2лhс2
+2πhс2
 W/m2
 BA
 =
@@ -320,7 +320,7 @@ That said, PV installations often combine panels in both series and parallel-lik
 Let's start our journey from the physics principles we covered in Section 13.2. The sun's surface is a sweltering 5,770 K, meaning that it emits oT4≈ 6.3 x 107 W/m2 over its surface. The sun's radius is about 109 times that of the earth's,[^40] which itself is 6,378 km at the equator. Multiplying the radiation intensity by the area gives total power output: 4πRσт4≈ 3.82 × 1026 W. That's one bright bulb!
 42
 Sunlight spreads out uniformly into a sphere expanding from the sun. By the time it reaches Earth, the sphere has a radius equal to the Earth-Sun distance, which is reo = 1.496 x 1011 m.[^41] Spreading 3.82 × 1026 W over a sphere of area 47r computes to 1,360 W/m2. That's what we call the solar constant [^4], and it's a number worth committing to memory.
-Earth intercepts sunlight over the projected area presented to the sun: a disk of area R. Bright features like clouds and snow reflect the light back to space without being absorbed, and even darker surfaces reflect some of the light. In all, 29.3% of the incoming light is reflected, leaving 960 W/m2 absorbed by the R projected area of the planet. But now averaging the 960 W/m2 input over the 47R2 surface area of Earth cuts the number down by a factor of four,[^43] to 240 W/m2.
+Earth intercepts sunlight over the projected area presented to the sun: a disk of area R. Bright features like clouds and snow reflect the light back to space without being absorbed, and even darker surfaces reflect some of the light. In all, 29.3% of the incoming light is reflected, leaving 960 W/m2 absorbed by the R projected area of the planet. But now averaging the 960 W/m2 input over the $4πR^2$ surface area of Earth cuts the number down by a factor of four,[^43] to 240 W/m2.
 High latitude sites suffer more from low sun angles, and obviously cloudier locations will receive less sun at the surface. Taking weather into account, a decent number for the average amount of power from sunlight reaching the ground is about 200 W/m2. This is called insolation44-the "sol" part of the word stemming from solar.
 
 [^40]: Why this convoluted path? Context. Building from pieces we are more likely to know/remember better engages our un- derstanding and ownership of the material.
@@ -343,7 +343,7 @@ Full, overhead sun (no clouds)
 ~1,000
 Absorbed by πR
 960
-Absorbed by 4лR
+Absorbed by 4πR
 240
 Typical insolation, includes weather
 ~200

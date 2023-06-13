@@ -159,7 +159,7 @@ But let's not get ahead of ourselves. Just because we can point to a few special
 The attractive evolutionary argument misses two critical facets of reality. When fish crawled out of the sea, they escaped predation (as the first animals on land) and found new food sources free of competition. That's a win-win: less dangerous, more sustenance.[^15] Likewise, when birds took flight (or we could discuss insects, which beat the birds to it), it was a similar story: evade ground-based predators who could not fly, and access a whole new menu of food-another win-win. 
 Going to space could easily be cast as a lose-lose. It's an extremely hostile environment offering no protection or safe haven,[^16] and there's nothing to eat.[^17] Think about it: where would you go to grab a bite in our solar system at present, outside of Earth? And a solar system is an absolute oasis compared to the vast interstellar void. The two factors that jointly 
 
-Table 4.3: Approximate/estimated costs, adjusted for inflation (M = million; B billion). [26-29] 
+Table 4.3: Approximate/estimated costs, adjusted for inflation (M = million; B billion). [[^26] [^27] [^28] [^29]] 
 
 [^13]: 
 Effort 

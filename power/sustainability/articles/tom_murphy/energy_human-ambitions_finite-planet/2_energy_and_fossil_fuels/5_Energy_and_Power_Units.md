@@ -324,7 +324,7 @@ We need to cover the unit in this chapter in order to be energy-literate in the 
 
 [^20]: 1.055 x 1018 J, more precisely. 
 
-[^21]: A cute and convenient way to remember this, approximately, is л x 107 seconds per 
+[^21]: A cute and convenient way to remember this, approximately, is π x 107 seconds per 
 year. 
 
 [^22]: Typical shower flow is about 2 gallons, or ~8 L, per minute. 

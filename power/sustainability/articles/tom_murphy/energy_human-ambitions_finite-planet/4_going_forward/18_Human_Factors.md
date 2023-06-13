@@ -47,7 +47,7 @@ The categories are:
 
 [^5]:... not meaning judgmental
 
-If you have never taken a Myers-Briggs type test, the following three citations include links to online tests [114-116]. These sites, and many others, offer descriptions of the types. For instance, [here](http://www.humanmetrics.com/personality/intj) is a link[^6] to a description of the INTJ type from [^114]. Other types are linked from that page.
+If you have never taken a Myers-Briggs type test, the following three citations include links to online tests [[^114] [^115] [^116]]. These sites, and many others, offer descriptions of the types. For instance, [here](http://www.humanmetrics.com/personality/intj) is a link[^6] to a description of the INTJ type from [^114]. Other types are linked from that page.
 
 [^6]: can also access from citation link
 

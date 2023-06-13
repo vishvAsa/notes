@@ -968,11 +968,14 @@ elements have half lives of 4.5 billion years and 750 million years. If we start
 11. If someone managed to create a 14B nucleus, what would its fate be? Track the decay chain on Figure 15.4-indicating the type of decay at each step-until it reaches stability, and indicate how long each step is likely to take.
 12. A particular nuclide is found to have lost 3 neutrons and 1 proton after a decay chain. What combination of a and β decays could account for this result?
 13. How would you qualitatively describe the overall sense from Figure 15.8 in terms of where82 on the chart one is likely to see a
+
 78: Nitrogen is the principal constituent in Earth's atmosphere.
+
 79: ... and/or eating the animals that eat these plants
+
 The wording is long because without con- text, it's just math. The real learning is in the application of math to the world.
-80:
-...a factor of 6 different
+
+80:...a factor of 6 different
 81: ... as indicated by the orange lower-half of the corresponding box in Figure 15.4
 82: Region descriptions can include refer- ences to the mass range (e.g., low mass or high mass), above or below the stable elements (proton-rich or neutron-rich).
 

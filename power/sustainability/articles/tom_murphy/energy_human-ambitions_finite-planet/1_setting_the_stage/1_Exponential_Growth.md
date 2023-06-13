@@ -337,12 +337,12 @@ Temperature must be in Kelvin.
 [^18]: Climate change is due to greenhouse gases blocking the escape of some radia- tion to space, presently causing a ~0.1% imbalance that Chapter 9 will address. 
 Sun 
 Sinfrared 
-infrared radiation from 4лR2 
-лR2 projection intercepted sunlight, 
+infrared radiation from $4πR^2$ 
+$πR^2$ projection intercepted sunlight, 
 Sun's view 
 To evaluate the expected temperature of the earth, we know that the sun delivers 1,360 W/m2 to the top of the earth's atmosphere [^4] (a bit less reaches the ground). We also know that about 29.3% of this is reflected by clouds, snow, and to a lesser extent water and terrain. So the earth system absorbs about 960 W/m2. It absorbs this energy onto the area facing the sun: a projected disk of area Аproj= R. But the total surface area of the earth is four times this, all of it participating in the radiation to space (Figure 1.4). Equating the input and output for equilibrium conditions: 
 Pin = 0.707 x 1360 W/m2 x R2 = Рout = 47RσT4, 
-Figure 1.4: Earth-shown here in northern hemisphere summer intercepts sunlight across the projected area of the Earth's disk (R2), while radiating from the entire sur- face area, which is four times larger (4лR2). 
+Figure 1.4: Earth-shown here in northern hemisphere summer intercepts sunlight across the projected area of the Earth's disk (R2), while radiating from the entire sur- face area, which is four times larger ($4πR^2$). 
 This 1,360 W/m2, known as the solar con- stant, is the incident energy rate (power), or the flux, of sunlight incident on Earth. 
 (1.10) 
 The 0.707 factor represents absorbed frac- tion after 29.3% is reflected. 
@@ -357,7 +357,7 @@ T4
 12 
 Solving for T yields T≈ 255 K, or -18°C (about 0°F). This is cold-too cold. We observe the average temperature of Earth to be about 288 K, or 15°C (59°F). The difference of 33°C is due to greenhouse gases-mostly H2O-impacting the thermal balance by preventing most radiation from escaping directly to space. We'll cover this more extensively in Chapter 
 9. 
-Armed with Eq. 1.11, we can now estimate the impact of waste heat on Earth's equilibrium temperature. Using the solar input as a baseline, we can add increasing input using the exponential scheme from the previous section: starting today at 18 TW and increasing at 2.3% per year (a factor of 10 each century). It is useful to express the human input in the same terms as the solar input so that we can just add to the numerator in Eq. 1.11. In this context, our current 18 TW into the projected area лR2 adds 0.14 W/m2 to the solar input (a trivial amount, today), but then increases by a factor of ten each century. Taking this in one-century chunks, the resulting temperatures-adding in the 33 K from greenhouse gases-follow the evolution shown in Table 1.4. At first, the effect is unimportant, but in 300 years far outstrips global warming, and reaches boiling temperature in a little over 400 years! If we kept going (not possible), Earth's temperature would exceed the surface temperature of the sun inside of 1,000 years! 
+Armed with Eq. 1.11, we can now estimate the impact of waste heat on Earth's equilibrium temperature. Using the solar input as a baseline, we can add increasing input using the exponential scheme from the previous section: starting today at 18 TW and increasing at 2.3% per year (a factor of 10 each century). It is useful to express the human input in the same terms as the solar input so that we can just add to the numerator in Eq. 1.11. In this context, our current 18 TW into the projected area $πR^2$ adds 0.14 W/m2 to the solar input (a trivial amount, today), but then increases by a factor of ten each century. Taking this in one-century chunks, the resulting temperatures-adding in the 33 K from greenhouse gases-follow the evolution shown in Table 1.4. At first, the effect is unimportant, but in 300 years far outstrips global warming, and reaches boiling temperature in a little over 400 years! If we kept going (not possible), Earth's temperature would exceed the surface temperature of the sun inside of 1,000 years! 
 A potential inconsistency in our treatment is that we based our exploration of energy scale on solar energy as a prelude to stellar energy capture. But in the thermodynamic treatment, we implicitly added our power source to the existing solar input. If the sun is the source, we should not double-count its contribution. Nonetheless, continued, re- lentless growth would eventually demand a departure from solar capture on Earth and drive the same thermodynamic challenges regardless. Synthesizing the messages: we can't continue 2.3% growth for more than a few centuries using sunlight on Earth. And if we invent something new and different to replace the fully-tapped solar potential, it too will reach thermodynamic limits within a few centuries. 
 Years 
 Power Density (W/m2) T (K) 
