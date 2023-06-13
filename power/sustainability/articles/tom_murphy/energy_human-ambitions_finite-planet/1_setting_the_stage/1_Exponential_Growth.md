@@ -203,7 +203,7 @@ More generally, we are not confined to any particular base, b, having just seize
 
 
 ## 1.2 Exponential Energy Extrapolation 
-Having established some basic principles of exponential growth, it's time for a first look at how we can use the math to argue about limits to our expectations. We'll concentrate on energy use. The United States Energy Information Administration (EIA) provides information on energy use from 1949 to the present. An appendix (E1: [3]) presents an approximate account of energy use from 1635-1945. Figure 1.2 displays the more recent portion of this history. 
+Having established some basic principles of exponential growth, it's time for a first look at how we can use the math to argue about limits to our expectations. We'll concentrate on energy use. The United States Energy Information Administration (EIA) provides information on energy use from 1949 to the present. An appendix (E1: [^3]) presents an approximate account of energy use from 1635-1945. Figure 1.2 displays the more recent portion of this history. 
 
 7 
 Lacking comparable data for the world, we use U.S. data simply to illustrate the more broadly applicable global growth trend. Even countries far behind are growing energy use often faster than the 3% characteristic of U.S. history. 
@@ -340,7 +340,7 @@ Sinfrared
 infrared radiation from 4лR2 
 лR2 projection intercepted sunlight, 
 Sun's view 
-To evaluate the expected temperature of the earth, we know that the sun delivers 1,360 W/m2 to the top of the earth's atmosphere [4] (a bit less reaches the ground). We also know that about 29.3% of this is reflected by clouds, snow, and to a lesser extent water and terrain. So the earth system absorbs about 960 W/m2. It absorbs this energy onto the area facing the sun: a projected disk of area Аproj= R. But the total surface area of the earth is four times this, all of it participating in the radiation to space (Figure 1.4). Equating the input and output for equilibrium conditions: 
+To evaluate the expected temperature of the earth, we know that the sun delivers 1,360 W/m2 to the top of the earth's atmosphere [^4] (a bit less reaches the ground). We also know that about 29.3% of this is reflected by clouds, snow, and to a lesser extent water and terrain. So the earth system absorbs about 960 W/m2. It absorbs this energy onto the area facing the sun: a projected disk of area Аproj= R. But the total surface area of the earth is four times this, all of it participating in the radiation to space (Figure 1.4). Equating the input and output for equilibrium conditions: 
 Pin = 0.707 x 1360 W/m2 x R2 = Рout = 47RσT4, 
 Figure 1.4: Earth-shown here in northern hemisphere summer intercepts sunlight across the projected area of the Earth's disk (R2), while radiating from the entire sur- face area, which is four times larger (4лR2). 
 This 1,360 W/m2, known as the solar con- stant, is the incident energy rate (power), or the flux, of sunlight incident on Earth. 
@@ -487,7 +487,7 @@ Banner photo pokes fun at what physics (gravity) finds more valuable: a silver d
 17 
 2.2 Decoupling and Substitution 20 2.3 Forced Economic Limits .. 24 
 2.4 No-Growth World . 2.5 Upshot: Growth Will End 2.6 Problems. 
-1: See, for instance [5]. 
+1: See, for instance [^5]. 
 26 
 27 
 + 

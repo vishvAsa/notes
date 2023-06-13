@@ -25,7 +25,7 @@ Annual Energy Review. 102, 103, 105-107, 109, 170
 atomic mass unit. 241, 246-248, 253, 254, 265, 376, 422, 432, 433, 435
 
 ## Annual Energy Review
-is compiled by the U.S. EIA, capturing energy use and trends for all sources and sectors [34]. 102, 170, 422
+is compiled by the U.S. EIA, capturing energy use and trends for all sources and sectors [^34]. 102, 170, 422
 
 ## Astronomical Unit
 (AU) is a unit of distance, equal to the average Earth-Sun distance of 149.6 million kilometers (1.496 x 1011 m). 56, 422
@@ -213,7 +213,7 @@ energy efficiency ratio. 97-99, 427, 430
 Energy Information Administration. 7, 75, 102, 103, 106, 107, 131, 170, 215, 422, 426 
 
 ## Electric Power Monthly
-(EPM) is compiled by the U.S. EIA, capturing electricity production and usage at the state level from all energy sources [85]. 215, 427
+(EPM) is compiled by the U.S. EIA, capturing electricity production and usage at the state level from all energy sources [^85]. 215, 427
 
 ## electromagnetic radiation
 refers to any transport of energy by electromagnetic waves, which include light, ultraviolet, infrared, X-rays, microwaves, gamma rays, and radio waves. 10, 198, 397, 426, 431, 435 

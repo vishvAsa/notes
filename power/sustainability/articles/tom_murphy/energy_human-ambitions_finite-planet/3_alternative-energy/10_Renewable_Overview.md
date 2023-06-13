@@ -171,10 +171,10 @@ from surface
 44 TW geothermal
 5 TW (0.003%) ocean currents
 Example 10.3.1 Solar Input: Because we will encounter solar power flux many times in this textbook, this is a good opportunity to spell out some key numbers and concepts.
-First, sunlight arriving at the top of Earth's atmosphere delivers energy at a rate of 1,360 Joules per second per square meter (1,360 W/m2), which is known as the solar constant [4].
+First, sunlight arriving at the top of Earth's atmosphere delivers energy at a rate of 1,360 Joules per second per square meter (1,360 W/m2), which is known as the solar constant [^4].
 Figure 10.1: Energy inputs to the earth, ig- noring the radiation piece (since that is an output channel). About 70% of incoming solar energy is absorbed by the atmosphere and land, while about 30% is immediately reflected back to space (mostly by clouds). About half of the energy absorbed at the surface
 into evaporating water, while goes smaller portions drive winds, photosyn- thesis (land and sea), and ocean currents. Additional non-solar inputs are geothermal and tidal in origin [63-65].
-[4]: Kopp et al. (2011), "A new, lower value of total solar irradiance: Evidence and climate significance"
+[^4]: Kopp et al. (2011), "A new, lower value of total solar irradiance: Evidence and climate significance"
 
 Treating Earth as a sphere of radius R, it has surface area 47R2, but the sun doesn't "see" the whole surface at once. In fact, from the vantage point of the rays of sunlight intercepting Earth, what matters is the projection of Earth,[^14] which just looks like a disk of area лR2. Averaging the solar input across the entire planet therefore reduces the 1,360 W/m2 by a factor of 4 to 340 W/m2.
 Not all the sunlight arriving at the top of the atmosphere makes it to the surface, so in practice, a typical location will receive an average15 of about 200 W/m2. This is a number that comes up often as a typical insolation, so is worth remembering.
@@ -307,7 +307,7 @@ total
 100
 11.4
 170
-Table 10.3: U.S. Renewable energy con- sumption in 2018. The last column compares to the 101.3 qBtu total U.S. consumption in 2018 [34]. Asterisks denote thermal equiva- lent conversions. While the second column of numbers would be more naturally ex- pressed in GW, the choice of TW is delib- erate to emphasize how small renewable usage is compared to the available resource.
+Table 10.3: U.S. Renewable energy con- sumption in 2018. The last column compares to the 101.3 qBtu total U.S. consumption in 2018 [^34]. Asterisks denote thermal equiva- lent conversions. While the second column of numbers would be more naturally ex- pressed in GW, the choice of TW is delib- erate to emphasize how small renewable usage is compared to the available resource.
 In 2018, roughly 11% of energy in the U.S. came from renewable resources. Table 10.3 lists the contributions from each, the data coming from the Annual Energy Review published by the U.S. Energy Information Administration for 2018. As introduced in Box 7.2 (p. 106), the EIA adopts the practice of assigning a thermal equivalent for each source, in qBtu, even if the source had nothing to do with a thermal process. The rationale is to put everything on the same footing as fossil fuels, for more direct quantitative comparisons. In doing so, they implicitly use the average thermal-to-delivered energy efficiency for fossil fuels of 37.5%.25 In other words, it takes 100 units of thermal fossil energy to produce 37.5 units of useful work. If, then, a solar panel delivers 37.5 units of energy over some amount of time, it will be called 100 units of "input" (thermal equivalent), even though it only delivered 37.5 units.[^26]
 27
 Four forms dominate Table 10.3 (and Figure 10.2), each roughly equal in contribution. Lumping wood and biofuels into a generic "biomass" puts this aggregate category in the clear lead, accounting for nearly half of our renewable energy. As noted, the entries in Table 10.3 are in qBtu of thermal equivalent, and these have been converted to TW, for easy comparison to Table 10.2.28 A key take-away is how tiny the renewable energy numbers are compared to the natural flows in Earth's energy budget.

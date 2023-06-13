@@ -6,7 +6,7 @@ S
 A 
 R 
 We have already encountered thermal energy in two contexts. The first was infrared radiation (Eq. 1.8; p. 10), and the second was in the definition of the kilocalorie (Sec. 5.5; p. 73). Otherwise, heat has often been treated as a form of "waste" in a chain of energy conversion: friction, air resistance, etc. The insinuation was that heat is an unwanted byproduct of no value. 
-Yet 94% of the energy we use today is thermal in nature [34]: we burn a lot of stuff for energy!1 Sometimes heat is what we're after, but how can we use it to fly airplanes, propel cars, and light up our screens? This chapter aims to clarify how heat is used, and explore limits to the efficiency at which heat can perform non-thermal work. 
+Yet 94% of the energy we use today is thermal in nature [^34]: we burn a lot of stuff for energy!1 Sometimes heat is what we're after, but how can we use it to fly airplanes, propel cars, and light up our screens? This chapter aims to clarify how heat is used, and explore limits to the efficiency at which heat can perform non-thermal work. 
 Like the previous chapter, this topic represents a slight detour from the book's overall trajectory, which otherwise aims to build a steady narrative of what we can't expect to continue doing, what options we might use to change course, and finally how to bring about such change. Nonetheless, the way we utilize thermal energy is a key piece of the story, and relates to both current and future pathways to satisfying our energy demands. 
 6.1 Generating Heat 6.2 Heat Capacity 
 6.3 Home Heating/Cooling.. 6.4 Heat Engines 
@@ -20,7 +20,7 @@ Consumer Metrics.
 97 
 6.6 Upshot on Thermal Energy . 99 
 99 6.7 Problems.. 
-[34]: U.S. Energy Inform. Administration (2011), Annual Energy Review 
+[^34]: U.S. Energy Inform. Administration (2011), Annual Energy Review 
 
 [^1]: The exceptions are wind, hydroelectricity, and solar. 
 
@@ -193,7 +193,7 @@ This is the physicist's version, which looks a little different than the chemist
 [^23]: The moving piston allows the volume to change, but on slower timescales. 
 
 [^24]: Work is measured as pressure times the change in volume. Pressure is force per unit area, so the units work out to force times distance, as they should given the definition of work. 
-Table 6.2: Schemes for electricity generation. Most are thermal in nature, and nearly all employ a turbine and generator. Data for 2018 from Table 8.2a of [34]. 
+Table 6.2: Schemes for electricity generation. Most are thermal in nature, and nearly all employ a turbine and generator. Data for 2018 from Table 8.2a of [^34]. 
 Source 
 Nuclear 
 % elec. therm. turb./ 

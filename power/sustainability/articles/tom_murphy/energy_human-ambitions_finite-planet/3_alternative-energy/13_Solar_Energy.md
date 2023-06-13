@@ -270,7 +270,7 @@ I
 wavelength (μm)
 Figure 13.5: Energy budget in silicon PV cell. The areas of the four regions repre- sent the fraction of the total incident energy going to each domain. All light at wave- lengths longer than 1.1 μm (infrared; 23%) passes through the silicon without being absorbed. The photons that are absorbed give excess kinetic energy to electrons, los- ing 33% of the incident energy as heat. This effect is progressively more pronounced the shorter the wavelength. Of the remaining 44%, about a quarter disappear as electrons "recombine" with vacancies (holes) in the silicon before getting a chance to contribute to a useful current by crossing the junction, leaving 32% as the maximum theoretical efficiency.
 But as the wavelength gets shorter and the energy gets higher, a greater fraction is lost to heat. Overall, 33% of the incident photon energy is lost to heat as the boosted electrons rattle the crystal before being tamed.
-Now we're down to 44% of the original incident energy in the form of conduction-promoted electrons that have shaken off their excess kinetic energy. But then here's the rub: electrons are dumb. They don't know which way to go to find the junction, so aimlessly bounce around the lattice, in a motion called a random walk.[^32] Some get lucky and wander into the junction, where they are swept across33 and contribute to external current. Others fall into an electron vacancy (a hole) in a process called recombination: game over.[^34] Roughly speaking, about three-quarters of the electrons get lucky by wandering into the junction before being swallowed by a hole. So of the 44% available, we keep 32% (called the Shockley-Queisser limit [86]).
+Now we're down to 44% of the original incident energy in the form of conduction-promoted electrons that have shaken off their excess kinetic energy. But then here's the rub: electrons are dumb. They don't know which way to go to find the junction, so aimlessly bounce around the lattice, in a motion called a random walk.[^32] Some get lucky and wander into the junction, where they are swept across33 and contribute to external current. Others fall into an electron vacancy (a hole) in a process called recombination: game over.[^34] Roughly speaking, about three-quarters of the electrons get lucky by wandering into the junction before being swallowed by a hole. So of the 44% available, we keep 32% (called the Shockley-Queisser limit [^86]).
 .35
 Another significant loss arises because some photons are absorbed in the very top layer above the junction, so that the resulting electrons do not have the opportunity to be swept across the junction to contribute to useful energy. The shorter the wavelength, the shallower the photon is likely to penetrate into the cell.[^36] Meanwhile, photons around 1 um are likely to penetrate deep-well past the junction-making it less likely that the liberated electrons will find the junction before settling into a new home (lattice site) via recombination. Figure 13.4 reflects this color-dependence, and also depicts one electron from the blue photon being generated above the junction, which will not have an opportunity to do useful work by crossing the junction.
 In total, the basic physics of a PV cell is such that 20% efficiency is a reasonable expectation for practical implementations.[^37] Indeed, commercial silicon-based PV panels tend to be 15-20% efficient, not far from the theoretical maximum. This may seem like a low number, but don't be disappointed! Biology has only managed to achieve 6%
@@ -319,7 +319,7 @@ That said, PV installations often combine panels in both series and parallel-lik
 ## 13.4 Insolation
 Let's start our journey from the physics principles we covered in Section 13.2. The sun's surface is a sweltering 5,770 K, meaning that it emits oT4≈ 6.3 x 107 W/m2 over its surface. The sun's radius is about 109 times that of the earth's,[^40] which itself is 6,378 km at the equator. Multiplying the radiation intensity by the area gives total power output: 4πRσт4≈ 3.82 × 1026 W. That's one bright bulb!
 42
-Sunlight spreads out uniformly into a sphere expanding from the sun. By the time it reaches Earth, the sphere has a radius equal to the Earth-Sun distance, which is reo = 1.496 x 1011 m.[^41] Spreading 3.82 × 1026 W over a sphere of area 47r computes to 1,360 W/m2. That's what we call the solar constant [4], and it's a number worth committing to memory.
+Sunlight spreads out uniformly into a sphere expanding from the sun. By the time it reaches Earth, the sphere has a radius equal to the Earth-Sun distance, which is reo = 1.496 x 1011 m.[^41] Spreading 3.82 × 1026 W over a sphere of area 47r computes to 1,360 W/m2. That's what we call the solar constant [^4], and it's a number worth committing to memory.
 Earth intercepts sunlight over the projected area presented to the sun: a disk of area R. Bright features like clouds and snow reflect the light back to space without being absorbed, and even darker surfaces reflect some of the light. In all, 29.3% of the incoming light is reflected, leaving 960 W/m2 absorbed by the R projected area of the planet. But now averaging the 960 W/m2 input over the 47R2 surface area of Earth cuts the number down by a factor of four,[^43] to 240 W/m2.
 High latitude sites suffer more from low sun angles, and obviously cloudier locations will receive less sun at the surface. Taking weather into account, a decent number for the average amount of power from sunlight reaching the ground is about 200 W/m2. This is called insolation44-the "sol" part of the word stemming from solar.
 
@@ -440,7 +440,7 @@ get
 490095
 40048
 ONREL
-Figure 13.9: Horizontal insolation for the U.S. for a flat plate facing directly upward. Native units for the graphic are in kWh/m2/day, the break-points between colors running from 4.0 to 5.75 kWh/m2/day in steps of 0.25. These values can be converted to W/m2 by mul- tiplying by 1,000 W/kW and dividing by 24 h/day. Annotations are added once in each color band (in black or yellow) to in- dicate the equivalent measure in W/m2 [87]. Alaska is not even close to scale. From NREL.
+Figure 13.9: Horizontal insolation for the U.S. for a flat plate facing directly upward. Native units for the graphic are in kWh/m2/day, the break-points between colors running from 4.0 to 5.75 kWh/m2/day in steps of 0.25. These values can be converted to W/m2 by mul- tiplying by 1,000 W/kW and dividing by 24 h/day. Annotations are added once in each color band (in black or yellow) to in- dicate the equivalent measure in W/m2 [^87]. Alaska is not even close to scale. From NREL.
 Figure 13.9 shows the variation of insolation across the U.S. The latitude effect is evident, but also weather/clouds make a mark, giving the southwest desert the highest solar potential. Even so, the variation from best to worst locations45 is not even a factor of two.
 Figures 13.8 and 13.9 are in the context of a flat surface.[^46] For solar panels, it makes sense to tilt them to an angle equaling the site latitude and oriented toward the south.[^47] The noon-time sun is always high in
 
@@ -547,7 +547,7 @@ Tilting panels toward the equator at an angle equal to site latitude optimizes a
 The fact that the numbers in Figure 13.11 are higher than in Figure 13.9 is not to say that the land offers more solar energy if the panels are tilted: just that an individual panel can get more light. But in this case, panels need to be spaced out to avoid shadowing,[^49] as Figure 13.12 illustrates.
 Some applications need to track the sun, like those that concentrate solar power, and only work when the sun is not blocked by clouds.[^50] This brings us to Figure 13.13, showing the potential per square meter of collector (mirror or lens) used for the concentration (the topic of Section 13.8.2). The same pattern holds, in that the desert southwest dominates. But a look at the numbers indicates that the cloudier regions are not much better than just a flat panel facing upward (as is the case for Figure 13.9). In the southwest, where skies are often cloud-free, the boost can be
 
-Figure 13.11: Solar potential for flat panels tilted to latitude, oriented south-relevant to PV panel installations. The graphic is pre- sented in units of kWh/m2/day, the break- points between colors running from 3.0 to 6.5 kWh/m2/day in steps of 0.5. Annota- tions are added once in each color band (in black or yellow) to indicate the equivalent measure in W/m2 [87]. From NREL.
+Figure 13.11: Solar potential for flat panels tilted to latitude, oriented south-relevant to PV panel installations. The graphic is pre- sented in units of kWh/m2/day, the break- points between colors running from 3.0 to 6.5 kWh/m2/day in steps of 0.5. Annota- tions are added once in each color band (in black or yellow) to indicate the equivalent measure in W/m2 [^87]. From NREL.
 
 [^49]: ... which can be more devastating than just fractional area blocked, due to series arrangement of cells in panel modules
 
@@ -604,7 +604,7 @@ ONREL
 Stepping back, let's appreciate a few big-picture facets from these maps. First, numbers tend to be in the general neighborhood of 150-300 W/m2. Burn this range in-it's a useful context. Second, the variation from the most solar-intense places in the contiguous U.S. to the weakest areas 51 is not more than a factor of two on an annual basis. This is astounding. The Mojave desert in California and the rain-forest Olympic Peninsula in Washington would seem to be practically day vs. night with respect to solar illumination. But not so much: only a factor of two.[^52] Part of what this means is that if storage over annual timescales could be realized, solar power would become practical almost everywhere.[^53]
 Box 13.2: Hours of Full-Sun Equivalent
 A useful take-away comes from the native units used in the three maps presented here: kWh/m2/day, as opposed to our preferred W/m2. Although they look different at a glance, kWh is a unit of energy, so kWh/day is a power, just like W. Since a kilowatt is 1,000 W and a day is 24 h, 1 kWh/day is 1,000 Wh/24 h = 41.67 W.54 So we can multiply 6 kWh/m2/day by 41.67 to get 250 W/m2.
-Figure 13.13: Solar potential for tracking panels, facing directly toward the sun's po- sition and requiring a cloud-free view of the sun (concentrating collectors). The graphic is presented in units of kWh/m2/day, the break-points between colors running from 4.0 to 7.5 kWh/m2/day in steps of 0.5. An- notations are added once in each color band (in black or yellow) to indicate the equiva- lent measure in W/m2 [87]. From NREL.
+Figure 13.13: Solar potential for tracking panels, facing directly toward the sun's po- sition and requiring a cloud-free view of the sun (concentrating collectors). The graphic is presented in units of kWh/m2/day, the break-points between colors running from 4.0 to 7.5 kWh/m2/day in steps of 0.5. An- notations are added once in each color band (in black or yellow) to indicate the equiva- lent measure in W/m2 [^87]. From NREL.
 
 [^51]:... ignoring Arctic-leaning Alaska
 
@@ -621,7 +621,7 @@ What actually happens is that the day is longer than 5 hours, but for much of th
 Box 13.2 leads to a crucial bit of understanding on characterizing a PV system. Panels are rated on what they would deliver when illuminated by 1,000 W/m2 at a temperature of 25°C.57 So the measure in kWh/m2/day, or full-sun-equivalent hours tells you effectively what fraction of a day the panel will operate at its rated capacity.
 Example 13.4.1 A 250 W panel at a location getting 4.8 kWh/m2/day, or 4.8 full-sun-equivalent hours, is basically operating at 250 W for 4.8 hours out of every 24, or 20% of the time. So the panel delivers an average power of 50 W, not 250 W.58
 The 250 W rating is referred to as "peak" Watts, sometimes denoted 250 Wp. Panels are sold this way, and now cost about $0.50/Wp.
-A 30-year study by the National Renewable Energy Lab [88] initiated in 1960 characterized solar potential across the U.S. and produced detailed statistics on what each location might expect to collect each month for panels in different orientations. Table 13.2 is a subset of the complete data for St. Louis, Missouri.[^59] All cases in Table 13.2 correspond to a panel facing south, at various tilts (including flat, at 0° and vertical at 90°; other tilts are relative to the site latitude of ≈ 39°). From this, we see that tilting the panel at the site latitude delivers an annual average of 4.8 kWh/m2/day, matching the graphic expectation from Figure 13.11. Also shown is the monthly breakdown and how different tilts translate to performance. We will visit this table again in Section 13.6 to help us establish an appropriate size for a residential installation.
+A 30-year study by the National Renewable Energy Lab [^88] initiated in 1960 characterized solar potential across the U.S. and produced detailed statistics on what each location might expect to collect each month for panels in different orientations. Table 13.2 is a subset of the complete data for St. Louis, Missouri.[^59] All cases in Table 13.2 correspond to a panel facing south, at various tilts (including flat, at 0° and vertical at 90°; other tilts are relative to the site latitude of ≈ 39°). From this, we see that tilting the panel at the site latitude delivers an annual average of 4.8 kWh/m2/day, matching the graphic expectation from Figure 13.11. Also shown is the monthly breakdown and how different tilts translate to performance. We will visit this table again in Section 13.6 to help us establish an appropriate size for a residential installation.
 Angle Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year
 0°
 2.2 2.9 3.9 5.0 5.9 6.4 6.4 5.7 4.6 3.5 2.3 1.8
@@ -647,7 +647,7 @@ Angle Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year
 [^57]: The 1,000 W/m2 is reasonable, but a photovoltaic panel in full sun will be about 30-40°C hotter than its surroundings (it gets hot!), so it would have to be very cold outside to meet the specification of 25°C panel temperature. Solar panel performance wanes when hot, and will only reach 85-90% of rated capacity in typical conditions.
 
 [^58]: We would need to apply a de-rating of 0.85 to 0.9 to account for typical PV tem- peratures in the sun, bringing the panel to about 45 W average power.
-[88]: National Renewable Energy Lab (1994), Solar Radiation Data Manual for Flat-Plate and Concentrating Collectors
+[^88]: National Renewable Energy Lab (1994), Solar Radiation Data Manual for Flat-Plate and Concentrating Collectors
 
 [^59]: ... a fairly typical solar location in the U.S.
 south
@@ -666,7 +666,7 @@ Placing solar panels on just 10% of the land (itself 29% of Earth's surface
 61
 area) capturing the incoming energy at 15% efficiency would produce solar power at ~500 TW: about 25 times today's 18 TW usage rate. This, in turn, means that our current energy demand could be met by covering only 0.4% of land62 with photovoltaic panels: see Figure 13.8 for a visual representation of how much this is. Solar is the only currently-available resource that can come anywhere close to satisfying our current energy appetite.[^63] And it exceeds our demand by such a huge margin! We therefore have reason to be excited about solar energy: the raw numbers are great news, indeed.
 So it seems like a done deal. Solar. Let's get started! Wait, why aren't we there yet?
-Naturally, solar has some downsides. First, the cost. Panel cost has dropped to something like $0.50 or less per peak-Watt. To get 10 TW of delivered (average) power at typical locations getting 20% capacity factor64 would require about 50 TWp (Example 13.4.1 defines Wp), costing 25 trillion dollars. The cost of other necessary components and installation double the cost for utility-scale projects [89], bringing the cost to $50 trillion.[^65] The global annual economy is not quite twice this. To outfit the world with the requisite number of panels would take about 60% of the economy for a year, or 6% over 10 years, or 1.5% continuously.[^66] For comparison, the world goes through 30 billion barrels of oil each year at a cost of $50/bbl, meaning $1.5 trillion per year. Installing enough panels to fully satisfy demand would cost three-decades-worth of the entire global petroleum budget. So it's not going to happen fast. To put things on a personal scale, Americans use power at a rate of 10,000 W. To cover this, we would need about 50 kWp of panel per person, costing $50k per person.[^67] When can we expect your payment?
+Naturally, solar has some downsides. First, the cost. Panel cost has dropped to something like $0.50 or less per peak-Watt. To get 10 TW of delivered (average) power at typical locations getting 20% capacity factor64 would require about 50 TWp (Example 13.4.1 defines Wp), costing 25 trillion dollars. The cost of other necessary components and installation double the cost for utility-scale projects [^89], bringing the cost to $50 trillion.[^65] The global annual economy is not quite twice this. To outfit the world with the requisite number of panels would take about 60% of the economy for a year, or 6% over 10 years, or 1.5% continuously.[^66] For comparison, the world goes through 30 billion barrels of oil each year at a cost of $50/bbl, meaning $1.5 trillion per year. Installing enough panels to fully satisfy demand would cost three-decades-worth of the entire global petroleum budget. So it's not going to happen fast. To put things on a personal scale, Americans use power at a rate of 10,000 W. To cover this, we would need about 50 kWp of panel per person, costing $50k per person.[^67] When can we expect your payment?
 Another daunting realization is that even though only 0.4% of the land is needed to match today's demand, this is comparable to the amount of area currently covered by roads and buildings. A road trip across the country conveys a sense for how vast (and boring) all that pavement can be. And pavement is a fancy form of dirt. It is true that PV panels are also an ultra-pure, ultra-fancy form of dirt. But it's a different level of high-tech. It becomes hard to fathom that much PV around the world.
 
 [^60]: 83,000 TW plus 40,000 TW absorbed by the surface and atmosphere, respectively
@@ -735,16 +735,16 @@ A typical household uses much or most of its energy when the sun is not shining:
 Box 13.4: Disappointing Dependence
 A disappointing surprise to many who "go solar" is that their house has no power when the electrical service to the house is disrupted— even in the light of day. A grid tied system needs the grid to operate. Safety concerns prohibit PV systems from continuing to energize a disabled grid.
 Only "off-grid" battery systems continue to work in these scenarios, but then the disappointment shifts to the price tag, maintenance, and replacement of worn-out batteries after a few thousand cycles.
-While a description of the components and practical workings are beyond the scope of this book, students might be interested in an article the author wrote after first getting started tinkering with PV systems [90].
+While a description of the components and practical workings are beyond the scope of this book, students might be interested in an article the author wrote after first getting started tinkering with PV systems [^90].
 13.6.2 Sizing and Cost
 How large does an installation need to be? If the goal is to cover annual or monthly electricity use in a grid-tied system, the only two pieces of information needed are the typical electricity consumption in the
 
 
 [^74]: ... batteries: expensive, require mainte- nance, and periodic replacement
-[90]: Murphy (2008), "Home photovoltaic systems for physicists"
+[^90]: Murphy (2008), "Home photovoltaic systems for physicists"
 relevant period and the average solar input at that location for the period of interest.
 The first can be surmised from electricity bills, usually giving a monthly total usage in kWh. We can get an approximate average scale from Fig. 7.2 (p. 105), which indicates that 42% of residential energy (11.9 qBtu per year) is from electricity. That's 5 qBtu, or 5.3 × 1018 J in one year (3.156 x 107 s), or 167 GW. Distributed among 130 million households in the U.S.,75 average household electricity consumption is 1,285 W. Applied over 24 hours, this makes for just over 30 kilowatt-hour (kWh) per day for an average household.[^76]
-The next piece is solar potential at the location of interest. We'll use the excerpted data from [88] for St. Louis, Missouri found in Table 13.2.
+The next piece is solar potential at the location of interest. We'll use the excerpted data from [^88] for St. Louis, Missouri found in Table 13.2.
 Example 13.6.1 Let's design a grid-tied PV system for an average U.S. household in an average" U.S. city (St. Louis). We'll orient the panels facing south and tilted to the site latitude (39°) and purchase PV panels at 18% efficiency (pretty typical).
 78
 Table 13.2 indicates that for this configuration we can expect an annual average of 4.8 kWh/m2/day of input. If we're shooting for 30 kWh per day, we would need 6.25 m2 of panel operating at 100% efficiency.
@@ -763,7 +763,7 @@ The 25°C specification is almost never realized for a PV panel in the sun: PV p
 [^75]: ... makes sense for a population of 330 million: translates to 2.5 people per house- hold, on average
 
 [^76]: This is another case where students might suggest replacing this whole para- graph with the result. The point is to build connections, context, and tools to apply pre- vious knowledge.
-[88]: National Renewable Energy Lab (1994), Solar Radiation Data Manual for Flat-Plate and Concentrating Collectors
+[^88]: National Renewable Energy Lab (1994), Solar Radiation Data Manual for Flat-Plate and Concentrating Collectors
 
 [^77]:
 ...solar-wise
@@ -821,8 +821,8 @@ so we would need about 8
 
 [^86]: See Chapter 20 for examples.
 13.7 Photovoltaic Installations
-The Energy Information Administration's Electric Power Monthly (EPM) [85] provides detailed statistics on power generation in the U.S. Pho- tovoltaic data is available in the EPM's tables 1.17.B and 6.2.B. In the usual way, we first look at installed capacity, based on the actual average delivered power. Figure 13.17 shows the situation in the U.S. California is
-[85]: U.S. Energy Inform. Admin. (2020), Electric
+The Energy Information Administration's Electric Power Monthly (EPM) [^85] provides detailed statistics on power generation in the U.S. Pho- tovoltaic data is available in the EPM's tables 1.17.B and 6.2.B. In the usual way, we first look at installed capacity, based on the actual average delivered power. Figure 13.17 shows the situation in the U.S. California is
+[^85]: U.S. Energy Inform. Admin. (2020), Electric
 power monthly
 
 
@@ -905,7 +905,7 @@ Table 13.3: Top five global producers of PV power in 2018, accounting for two-th
 ► PV is one of the few resources that can fit on a rooftop and provide self-contained electricity generation;
 ► PV efficiency is rather good: close to theoretical expectations and much better than biology has managed at getting energy from sunlight;
 ► PV technology works well, and despite expense has been deployed on rooftops across the world;
-Life-cycle CO2 emissions are 15 times smaller than that of tradi- tional fossil fuel electricity [68];
+Life-cycle CO2 emissions are 15 times smaller than that of tradi- tional fossil fuel electricity [^68];
 PV is often a good solution when utility electricity is far away.
 And now the less attractive aspects:
 ► PV is intermittent, and not well-matched to energy demand; it would be hard to "balance" the electrical grid if too much of the input came from such an intermittent source, and storage is difficult;
@@ -915,7 +915,7 @@ Electricity alone is not well-suited to many of our current energy demands, like
 PV manufacturing involves environmentally unfriendly chemicals;
 ► PV deployment can harm habitats if installed in undeveloped
 areas.
-[68]: (2020), Life Cycle GHG Emissions
+[^68]: (2020), Life Cycle GHG Emissions
 
 [^90]: Cost has been a major barrier, but may cease to be so as prices fall further.
 13.8 Solar Thermal
@@ -1012,7 +1012,7 @@ Summarizing the pros and cons for solar thermal (ST), starting with the good asp
 ►ST taps into a super-abundant resource the only renewable that has such a margin;
 ST technology is low-tech and inexpensive, using well-developed power plant technologies;
 ST has built-in short-term storage capacity for covering evening power demands;
-Life-cycle CO2 emissions are 20 times smaller than that of tradi- tional fossil fuel electricity [68].
+Life-cycle CO2 emissions are 20 times smaller than that of tradi- tional fossil fuel electricity [^68].
 And the less great stuff:
 ►ST requires direct sunlight; intolerant of clouds;
 ST is only possible at utility-scale, requiring a power plant;
@@ -1022,7 +1022,7 @@ ST has a lower land-area efficiency than PV panels;
 ## 13.9 Upshot for Solar
 Hands down, solar is the only renewable resource capable of matching our current societal energy demand. Not only can it reach 18 TW, it can exceed the mark by orders of magnitude. Finding space for panels is not a limitation. The efficiency of PV panels is perfectly respectable based on physics expectations, and beats the best that biology has done by a factor of 3-4. The efficiency is high enough that roof space tends to be more than sufficient to satisfy the demands of individual houses.
 
-[68]: (2020), Life Cycle GHG Emissions
+[^68]: (2020), Life Cycle GHG Emissions
 
 Pros and cons are listed separately for PV and ST in Section 13.7.1 and Section 13.8.3, respectively.
 
@@ -1103,7 +1103,7 @@ how to convert from one to the other.
 Just using this location as an unambiguous spot on the map.
 111:
 ... full sun meaning 1,000 W/m2
-112: ... called the Redbook study: [88]
+112: ... called the Redbook study: [^88]
 
 and the best gave 5.2 kWh/m2/day for a flat horizontal panel. What, then, is the range of annual average insolation values in units of W/m2 for San Diego, and what percentage variation is this, roughly (in round numbers)?
 26. The study from Problem 24 finds that a flat panel facing south and tilted at various angles113 relative to the horizontal produce the following annual average yields in units of kWh/m2/day:

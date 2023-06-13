@@ -6,10 +6,10 @@ title = "Image Attributions"
 lake on the Olympic Peninsula photo by Tom Murphy.
 2. Chapter 1 banner image (page 2): NGC 253 by Dylan O'Donnell; This file is made available
 under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
-3. Chapter 4 banner image (page 54): NASA/Bill Anders from Apollo 8 [22]; manipulated
+3. Chapter 4 banner image (page 54): NASA/Bill Anders from Apollo 8 [^22]; manipulated
 to-ironically-remove empty space; Public Domain.
 4. Fig. 4.3 (p. 57): Millennium Simulation, produced by Volker Springel et al. at the Max Plank
-Institute [25], https://wwwmpa.mpa-garching.mpg.de/galform/virgo/millennium/.
+Institute [^25], https://wwwmpa.mpa-garching.mpg.de/galform/virgo/millennium/.
 5. Chapter 6 banner image (page 84): State Government Photographer-The History Trust of South Australian, South Australian Government Photo; This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
 6. Fig. 6.6 (p. 97): originates from U.S. Department of Energy; Public Domain.
 7. Fig. 7.1 (p. 103): Source: U.S. Energy Information Administration (2019); Public Domain.
@@ -23,9 +23,9 @@ nasa.gov/features/EnergyBalance/page7.php.
 site; Public Domain.
 14. Fig. 12.2 (p. 186): Sourced from U.S. Department of Energy and National Renewable Energy Lab;
 Public Domain.
-15. Fig. 12.4 (p. 188): Adapted from Figure 3 in [74]; Courtesy of WIT Press from WIT Transactions on State of the Art in Science and Engineering, Volume 44 (2010), page 92 (reproduced with permission).
-16. Fig. 12.6 (p. 190): Adapted from [76]; Reprinted by permission from Springer Nature: Handbook of Power Systems, Vol. 2, 2010, "Short-termForecasting in Power Systems: A Guided Tour," by A. Muñoz, E. Sanchez, A. Cruz, Alberto & J. Marín, ©2010.
-17. Fig. 12.7 (p. 190): Adapted from Figure 1 in [77]; Copyright © 2017 John Wiley & Sons, Ltd.;
+15. Fig. 12.4 (p. 188): Adapted from Figure 3 in [^74]; Courtesy of WIT Press from WIT Transactions on State of the Art in Science and Engineering, Volume 44 (2010), page 92 (reproduced with permission).
+16. Fig. 12.6 (p. 190): Adapted from [^76]; Reprinted by permission from Springer Nature: Handbook of Power Systems, Vol. 2, 2010, "Short-termForecasting in Power Systems: A Guided Tour," by A. Muñoz, E. Sanchez, A. Cruz, Alberto & J. Marín, ©2010.
+17. Fig. 12.7 (p. 190): Adapted from Figure 1 in [^77]; Copyright © 2017 John Wiley & Sons, Ltd.;
 Reproduced with permission.
 18. Fig. 13.8 (p. 207): Source: © The World Bank; adapted to hide banner, footer and some labels;
 
@@ -37,7 +37,7 @@ Public Domain.
 Lab; Public Domain.
 21. Fig. 13.13 (p. 209): Sourced from U.S. Department of Energy and National Renewable Energy
 Lab; Public Domain.
-22. Fig. 13.16 (p. 215): Excerpted graphic from [91]; From U.S. Department of Energy and National
+22. Fig. 13.16 (p. 215): Excerpted graphic from [^91]; From U.S. Department of Energy and National
 Renewable Energy Lab; Public Domain.
 23. Fig. 13.24 (p. 220): From U.S. Department of Energy; Public Domain.
 24. Fig. 13.25 (p. 220): Credit: Craig Dietrich; This file is licensed under the Creative Commons

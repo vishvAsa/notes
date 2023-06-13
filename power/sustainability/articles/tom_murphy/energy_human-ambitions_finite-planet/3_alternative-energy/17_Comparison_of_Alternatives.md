@@ -17,7 +17,7 @@ One striking realization is that no fundamentally new energy technologies have e
 
 Perhaps, then, the table is set. We know the actors. We know the pros and cons, having many decades of experience with each of the technologies. Where does this leave us? This chapter[^3] aims to pull it all together to take stock. The chapters to follow will begin to address how we might move forward in light of our predicament.
 
-[^3]: The content of this chapter is an edited reprisal of the author's contribution to State of the World 2013: Is Sustainability Possible? by The Worldwatch Institute [111]. Copyright © 2013 Worldwatch Institute. Reproduced by permission of Island Press, Washington, DC. Originally, the content appeared in a Do the Math blog post called The Alternative Energy Matrix.
+[^3]: The content of this chapter is an edited reprisal of the author's contribution to State of the World 2013: Is Sustainability Possible? by The Worldwatch Institute [^111]. Copyright © 2013 Worldwatch Institute. Reproduced by permission of Island Press, Washington, DC. Originally, the content appeared in a Do the Math blog post called The Alternative Energy Matrix.
 
 
 ## 17.1 The Alternative Energy Matrix

@@ -63,7 +63,7 @@ density, in unusual units; equivalent to ~0.75 kg/L
 It is not impossible24 to electrify long-haul trucking, but neither is it free of significant challenges. Certainly it is not as easy and convenient as fossil fuels. 
 D.3 Electrified Transport 400 
 
-[^24]: Indeed, Tesla offers a Semi capable of 500 mile range, but see this careful analysis [129] on the hardships. 
+[^24]: Indeed, Tesla offers a Semi capable of 500 mile range, but see this careful analysis [^129] on the hardships. 
 D.3.4 Buses 
 Like cargo ships and long-haul trucks, public transit buses are on the go much of the time, favoring solutions that can drive all day and charge overnight. Given the stops and breaks, a typical bus may average 30 km/hour and run 14 hours per day for a daily range of approximately 400 km. At an average fuel economy of 3.5 mpg (70 L/100 km), each day requires about 300 L or 220 kg of fuel-no problem for a fuel tank. The equivalent battery would need to be 4,500 kg (900 kWh; 2.3 kWh/km), occupying about three cubic meters. Size itself is not a problem: the roof of the bus could spread out a 0.15 m high pack covering a 2 m x 10 m patch. Buses typically are $10^{-15}$ tons, so adding 4.4 tons in battery is not a killer. 
 Electrified transit is therefore in the feasible/practical camp. What makes it so unlike the previous examples-is slow travel, modest daily ranges, and the ability to recharge overnight. Raw range efficiency is low, at 2.3 kWh/km, but this drops to a more respectable 0.2 kWh/km person for an average occupancy of 10 riders. 

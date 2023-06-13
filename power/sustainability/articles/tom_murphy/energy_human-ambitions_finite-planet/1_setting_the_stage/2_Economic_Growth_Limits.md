@@ -68,7 +68,7 @@ Definition 2.2.2 Substitution refers to the ability to switch resources when one
 The past is full of examples of substitution (Definition 2.2.2). Consider the progression in lighting technology from open fires to beeswax candles to whale oil lanterns to piped gas lanterns to incandescent electric bulbs to fluorescent lights to LED (light emitting diode) technology. Every step seems to be an improvement, and it is very natural to assume the story will continue developing along these lines. 
 Box 2.1: A Story of Lighting Efficiency 
 One way to quantify lighting progress is in the luminous efficacy of light, in units of lumens per Watt. In the 20th century, incandescent bulbs were so ubiquitous for so long that we fell into the bad habit of characterizing brightness in terms of the electrical power consumed by the bulb, in Watts. Thus we have generations of people accustomed to how bright a "100 W" or "60 W" bulb is. As technology changes, we should migrate to "lumens," which accurately captures how bright a source is perceived by the human eye. 
-Table 2.1 and Figure 2.3 present the evolution of luminous efficacy as sources improved. Can this trend continue indefinitely? No. Every photon of light carries a minimum energy11 requirement based on its wavelength. For photons spread across the visible spectrum (creating light we perceive as white), the theoretical limit is about 300 lm/W [9]. At this extreme, no energy is wasted in the production of light, putting 100% of the energy into the light itself. Engineering rarely reaches theoretical limits, due to a host of practical challenges. It would therefore not be surprising if lighting efficiency does not improve over where it is today by another factor of two, ending yet another centuries-long trend. 
+Table 2.1 and Figure 2.3 present the evolution of luminous efficacy as sources improved. Can this trend continue indefinitely? No. Every photon of light carries a minimum energy11 requirement based on its wavelength. For photons spread across the visible spectrum (creating light we perceive as white), the theoretical limit is about 300 lm/W [^9]. At this extreme, no energy is wasted in the production of light, putting 100% of the energy into the light itself. Engineering rarely reaches theoretical limits, due to a host of practical challenges. It would therefore not be surprising if lighting efficiency does not improve over where it is today by another factor of two, ending yet another centuries-long trend. 
 
 [^10]: That is, no orders-of-magnitude that will allow us to continue growth for centuries more after physical resources limit growth. 
 Through this example, we can see how substitution and decoupling might be connected: efficiency improves through substitution, requiring less energy for the same lighting value. 
@@ -129,7 +129,7 @@ Efficiency improvements would seem to offer a way to tolerate a stagnation or de
 1. For the most part, realized efficiencies are already within a 
 factor-of-two of theoretical limits.[^14] A motor or generator operating at 90% efficiency has little room to improve. If efficiencies were typically far smaller than 1%, it would be reasonable to seek improvements as a "resource" for some time to come, but that is not the lay of the land. 
 16 
-2. Efficiency improvements in energy use tend to creep along at ~1% per year,[^15] or sometimes 2%. Doubling times are therefore measured in decades, which combined with the previous point suggests an end to this train ride within the century. 3. Efficiency improvements can backfire, in a process called the Jevons paradox or the rebound effect. Increased demand for the more efficient technology results in greater demand for the underlying resource. For example, improvements in refrigerator efficiency resulted in larger refrigerators and more of them," for a net increase in energy devoted to refrigeration. Consider that per-capita global energy and material resource use has climbed inexorably amidst a backdrop of substantial efficiency improvements over the last century [12]. 
+2. Efficiency improvements in energy use tend to creep along at ~1% per year,[^15] or sometimes 2%. Doubling times are therefore measured in decades, which combined with the previous point suggests an end to this train ride within the century. 3. Efficiency improvements can backfire, in a process called the Jevons paradox or the rebound effect. Increased demand for the more efficient technology results in greater demand for the underlying resource. For example, improvements in refrigerator efficiency resulted in larger refrigerators and more of them," for a net increase in energy devoted to refrigeration. Consider that per-capita global energy and material resource use has climbed inexorably amidst a backdrop of substantial efficiency improvements over the last century [^12]. 
 17 
 Efficiency improvements are not capable of resolving resource demand. 
 
@@ -145,7 +145,7 @@ limited to the same set of elements.
 
 [^17]: fices 
 ..e.g., in basements or garages or of- 
-[12]: Garret (2014), Rebound, Backfire, and the Jevons Paradox 
+[^12]: Garret (2014), Rebound, Backfire, and the Jevons Paradox 
 
 
 ## 2.3 Physically Forced Economic Limits 
@@ -268,7 +268,7 @@ So, while acknowledging that growth in the past has brought uncount- able benefi
 2.6 Problems 
 1. At a 3.5% growth (interest) rate, how much would $1,000 invested at the time Columbus sailed to America be worth today (hint: use the rule of 70)? Put this in context (compare to richest individuals or find a similar GDP for some country). 
 2. As an indication of how sensitive the accumulation is to interest rate, compare the result from Problem 1 to what would happen for interest rates of 4% and 5%-again putting into context. 
-3. Find the energy intensity for at least four countries spanning a range of development levels. For each country, look up the GDP, and find energy consumption at: Wikipedia page on Primary En- ergy Consumption. [13] In order to compare to Figure 2.2, multiply the number in quadrillion Btu (qBtu) by 1.055 × 1018 J/qBtu. Also note that a trillion is 1012. 
+3. Find the energy intensity for at least four countries spanning a range of development levels. For each country, look up the GDP, and find energy consumption at: Wikipedia page on Primary En- ergy Consumption. [^13] In order to compare to Figure 2.2, multiply the number in quadrillion Btu (qBtu) by 1.055 × 1018 J/qBtu. Also note that a trillion is 1012. 
 4. Estimate the energy intensity of the UCSD campus, based on an annual electricity expenditure around 1015 J.26 For the financial side, assume that student payments (tuition, fees, room and board) accounts for 40% of the total budget.[^27] Use your knowledge of typical tuition/fees and enrollment to come up with a number. Compare your result to global figures for energy intensity. 
 5. Typical energy costs are in the neighborhood of $0.10 per kilowatt- hour (kWh), and 1 kWh is 3.6 MJ (megajoules). Take the ratio of these two figures to form an economic energy intensity of energy itself, in units of MJ/$. 
 28 

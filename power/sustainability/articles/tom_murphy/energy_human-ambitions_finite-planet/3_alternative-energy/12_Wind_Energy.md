@@ -6,9 +6,9 @@ title = "12 Wind Energy"
 
 [^11]: Now it may be easier to understand why hurricanes can be so destructive, if their power scales as the cube of wind velocity, and velocities exceed 50 m/s.
 
-[^12]: A recent derivation is in [71].
-[72]: Betz (1926), "Wind-Energie und ihre Ausnützung durch Windmühlen"
-[73]: Glauert (1993), The elements of airfoil and airscrew theory
+[^12]: A recent derivation is in [^71].
+[^72]: Betz (1926), "Wind-Energie und ihre Ausnützung durch Windmühlen"
+[^73]: Glauert (1993), The elements of airfoil and airscrew theory
 1 Betz' limit
 0,6
 2 Glauert
@@ -39,17 +39,17 @@ American windmill
 16
 18
 Figure 12.4 shows these theoretical limits, along with design limits from various rotor configurations. Curves reflect an optimum rotor speed for each design: speeding up produces more generator output until it gets fast enough that air drag on the blades starts to dominate. The most common modern turbine is the 3-blade design,[^13] able to get roughly 50% of the energy out of the wind. Notice that the tip speed can be quite high: 6-8 times the wind speed. This can be quite alarming to birds in the area, whose cruising speed is nearer wind speed, and they
-Figure 12.4: Theoretical and practical wind turbine efficiencies (e, or cp in the plot), for various designs. The parameter A is the ratio of tip speed to wind speed: higher A means a faster tip speed [74]. All designs must be below the Betz limit (horizontal line near top). At slower speeds, the Glauert limit confines performance to occupy the region to the right of the curve marked 2. Each of the 7 designs shown have arched curves, achieving maximum efficiency at a particular tip speed. Too slow, and the turbine is not transmitting much energy; too fast and drag/friction begins to dominate. Adapted from ©2010 WIT Press.
+Figure 12.4: Theoretical and practical wind turbine efficiencies (e, or cp in the plot), for various designs. The parameter A is the ratio of tip speed to wind speed: higher A means a faster tip speed [^74]. All designs must be below the Betz limit (horizontal line near top). At slower speeds, the Glauert limit confines performance to occupy the region to the right of the curve marked 2. Each of the 7 designs shown have arched curves, achieving maximum efficiency at a particular tip speed. Too slow, and the turbine is not transmitting much energy; too fast and drag/friction begins to dominate. Adapted from ©2010 WIT Press.
 
 [^13]: Not only is the three-blade design the most efficient, its lower tip speed is less dangerous than for 2 or 1-blade designs, according to Figure 12.4.
 
 12 Wind Energy
 189
-have never met something so fast before. For a modern derivation of the Betz limit and how efficiency depends on tip speed, see [71]. The largest turbines having 150 m diameter rotors are rated for up to 10 MW of electrical power production.
+have never met something so fast before. For a modern derivation of the Betz limit and how efficiency depends on tip speed, see [^71]. The largest turbines having 150 m diameter rotors are rated for up to 10 MW of electrical power production.
 Example 12.2.1 How much power could you expect a small (4 m diameter) 3-blade wind turbine situated atop your house to deliver in a respectable 5 m/s breeze?
 The radius is 2 m and we'll pick a middle-of-the-road efficiency of 45%; P=0.45
 0.45. (1.25 kg/m3) 7 (2m)2. (5 m/s)3 comes to about 450 W 14
-Besides the limit on how much power can be pulled out of the air by a single turbine, we also find limits on how densely they may be populated in a given area: how much space is required between turbines so that one does not disrupt the other. Obviously, it would not serve to put one turbine directly behind another, as they would at best split the available power arriving as wind. Even side by side, it is best to leave room between windmills so that additional rows are not deprived of wind power. A rule of thumb is to separate turbines by at least 5-8 diameters side-to-side, and 7-15 diameters15 along the (prevailing) wind direction. For the sake of illustration, Figure 12.5 shows a spacing on the denser side of the range, but otherwise we adopt the more recent recommendations and use 8 diameters side-to-side and 15 diameters deep [75]. This works out to a 0.65% "fill factor," meaning that 0.65% of the land area contains an associated rotor cross section."
+Besides the limit on how much power can be pulled out of the air by a single turbine, we also find limits on how densely they may be populated in a given area: how much space is required between turbines so that one does not disrupt the other. Obviously, it would not serve to put one turbine directly behind another, as they would at best split the available power arriving as wind. Even side by side, it is best to leave room between windmills so that additional rows are not deprived of wind power. A rule of thumb is to separate turbines by at least 5-8 diameters side-to-side, and 7-15 diameters15 along the (prevailing) wind direction. For the sake of illustration, Figure 12.5 shows a spacing on the denser side of the range, but otherwise we adopt the more recent recommendations and use 8 diameters side-to-side and 15 diameters deep [^75]. This works out to a 0.65% "fill factor," meaning that 0.65% of the land area contains an associated rotor cross section."
 rotor (viewed from above)
 prevailing wind direction
 10D
@@ -57,7 +57,7 @@ prevailing wind direction
 5D
 In order to compare to other forms of renewable energy, we can evaluate
 a power per unit land area (in W/m2) by the following approach:
-[71]: Ragheb et al. (2011), "Wind Turbines Theory - The Betz Equation and Optimal Rotor Tip Speed Ratio"
+[^71]: Ragheb et al. (2011), "Wind Turbines Theory - The Betz Equation and Optimal Rotor Tip Speed Ratio"
 
 [^14]: Not too impressive: hard to get much wind power on a household scale, although 10 m/s would give 3.6 kW.
 
@@ -96,7 +96,7 @@ MM MMA J
 For very low wind speeds,[^19] wind turbines do not have enough wind to turn at all and sit still at zero output. Furthermore, a turbine is rated at some maximum power output, which occurs at some moderately high wind speed,[^20] beyond which the generator risks damage-like "redlining" a car's engine. When the wind climbs above this maximum- rated speed, the turbine is pegged at its maximum power-no longer following a v3 relation and deliberately twists its blades21 to be less efficient as the wind speed grows so that it maintains constant (maximum) power output. When the wind speed becomes large enough to endanger the turbine, it will twist its blades parallel to the wind to allow the air to pass without turning the rotor at all, so that it no longer spins while it "rides out" the high winds.[^22]
 
 [^18]: Capacity factors for wind are smaller than for hydroelectricity due to wind being more variable than river flow.
-Figure 12.6: One month of wind generation from a 20 MW wind farm, illustrating the intermittent nature and why capacity fac- tors are low [76]. The facility saturates at maximum power late in the month, self- limiting to avoid damage to the turbines. ©2010 Springer.
+Figure 12.6: One month of wind generation from a 20 MW wind farm, illustrating the intermittent nature and why capacity fac- tors are low [^76]. The facility saturates at maximum power late in the month, self- limiting to avoid damage to the turbines. ©2010 Springer.
 
 [^19]: . less than about 3 m/s; called the "cut-in" velocity
 
@@ -121,11 +121,11 @@ Wind speed [m.s1]
 Builder curve
 15
 20
-Figure 12.7 shows a typical power curve for a 2 MW turbine, on top of which are drawn a cubic function of velocity at the theoretical Betz limit (red curve), a cubic (blue) at 44% efficiency (ε = 0.44), and the green manufacturer's curve [77]. Notice that the turbine performance
+Figure 12.7 shows a typical power curve for a 2 MW turbine, on top of which are drawn a cubic function of velocity at the theoretical Betz limit (red curve), a cubic (blue) at 44% efficiency (ε = 0.44), and the green manufacturer's curve [^77]. Notice that the turbine performance
 
 Figure 12.7: Actual data (thickly-clustered black circles) of power delivered by a tur- bine rated at 2 MW, as a function of wind velocity. The red curve represents the the- oretical Betz limit of 59%, appearing as a cubic function of velocity-as Eq. 12.2 dic- tates. The better-matching blue curve corre- sponds to an overall efficiency & =
-Cp = 0.44 (44%), and the green curve-which rolls over from the cubic function and saturates at higher velocities-is the manufacturer's expectation for the unit [77]. The "cut-in" velocity for this turbine is around 3.5 m/s: note the small step up from zero output in the green curve. This turbine saturates around 12 m/s: the green curve flattens out and no black circles appear above the cutoff. From ©2017 Wiley.
-[77]: Fischer et al. (2017), "Statistical learning for windpower: a modeling and stability study towards forecasting"demonstrates the aspects covered in the previous paragraph: "cutting in" just above 3 m/s and maxing out (saturating) beyond about 12 m/s. In between, it closely follows a cubic function at an overall efficiency of 44% (blue curve).
+Cp = 0.44 (44%), and the green curve-which rolls over from the cubic function and saturates at higher velocities-is the manufacturer's expectation for the unit [^77]. The "cut-in" velocity for this turbine is around 3.5 m/s: note the small step up from zero output in the green curve. This turbine saturates around 12 m/s: the green curve flattens out and no black circles appear above the cutoff. From ©2017 Wiley.
+[^77]: Fischer et al. (2017), "Statistical learning for windpower: a modeling and stability study towards forecasting"demonstrates the aspects covered in the previous paragraph: "cutting in" just above 3 m/s and maxing out (saturating) beyond about 12 m/s. In between, it closely follows a cubic function at an overall efficiency of 44% (blue curve).
 12 Wind Energy
 191
 
@@ -191,7 +191,7 @@ World Total
 In 2018, the U.S. had about 94 GW of installed wind capability.[^25] This number has recently surpassed hydroelectric installed capacity (about 80 GW). Both are impacted by capacity factors, which for wind averages 33% in the U.S., while hydropower is just over 40%. The net effect is that the generation for the two is pretty comparable.[^26] Where is the wind power in the U.S. installed? Figure 12.8 shows that Texas wins, at 8.7 GW. Oklahoma is a distant second at 3.2 GW, Iowa at 2.5 GW. California is in fifth place at 1.6 GW.
 Figure 12.8: Wind power by state, in terms of average generation, in GW, in 2018. The color scale may seem unhelpful, but the unavoidable truth is that many states don't have a lot going on, and Texas is so dom- inant as to render other states almost in- significant. A logarithmic color scale could help, but then the important lesson on the gross disparity might go unappreciated.
 
-[^25]: From tables 1.14.B and 6.2.B in [85]
+[^25]: From tables 1.14.B and 6.2.B in [^85]
 
 [^26]:
 ... as we also saw in Table 10.3 (p. 170)
@@ -231,20 +231,20 @@ Figure 12.11: Capacity factor for wind in- stallations by state (based on 2018 d
 Wind has surged tremendously in the last decade (Fig. 7.5; p. 108), proving to be an economically viable and competitive resource. But how much could we expect to get from wind?
 Putting a few of the previous results together, If the entire contiguous U.S. (area ~1013 m2) were developed for wind at an estimated power density of 0.2 W/m2-which was based on a 5 m/s average wind speed-and a capacity factor of 33%, the U.S. could theoretically produce 0.7 TW30 from wind-roughly 20 times what is produced today. We should take this crude estimate as an extreme upper end, since it is inconceivable that we would develop wind so fully as to never be more than a few hundred meters- -a few rotor diameters-away from a wind turbine, no matter where we go. Also, many areas are sub-threshold and would not support investment in wind development.
 Even so, the inflated 0.7 TW estimate falls short of the current 3.3 TW energy demand in the U.S., has major intermittency problems, and is not in a form that can be well-used in all sectors, like transportation and industrial processing. While wind alone cannot replace fossil fuels at the current level of demand, it can doubtless be a significant contributor.
-Globally, estimates for wind potential tend to be in the few-terawatt range, though can be as low as 1 TW for a number of practical reasons [70]. As was the case for hydroelectricity, wind is a viable player in the renewables mix, but is unable to shoulder the entire load.
+Globally, estimates for wind potential tend to be in the few-terawatt range, though can be as low as 1 TW for a number of practical reasons [^70]. As was the case for hydroelectricity, wind is a viable player in the renewables mix, but is unable to shoulder the entire load.
 Wind energy is not free of environmental concerns, disturbing landscapes and habitats. Its impact on birds31 and bats is most worrisome, as the rotors move far faster than anything to which the wildlife is habituated. Still, compared to the environmental toll from fossil fuels, it is fairly clean similar to the impact of hydroelectric power.
 A pros and cons list will help summarize. First, the positive attributes:
 ► Wind is replenished on the planet daily by solar illumination;
 
 [^30]: We're fudging things a bit here for the sake of simplicity. If turbines are built for 12 m/s, the capacity factor already has some averaging built in, so using 5 m/s and a capacity factor of 0.33 is unfair. On the other hand, much of the country spends substantial time below the cut-in speed for turbines, and the cruel cubic function of velocity greatly suppresses much of the land area as impractical for wind development. So the approach is a compromise that might balance out reasonably.
-[70]: Castro et al. (2011), "Global Wind Power Potential: Physical and Technological Limits"
+[^70]: Castro et al. (2011), "Global Wind Power Potential: Physical and Technological Limits"
 
 [^31]: Domestic cats turn out to kill far more birds than wind turbines do, currently.
 
 12 Wind Energy
 194
 ► Harnessing wind is relatively low-tech and straightforward; Wind has decent efficiency-typically 40-50%-in extracting en- ergy from the oncoming wind;
-Life-cycle CO2 emissions for wind is only 2% that of traditional fossil fuel electricity [68];
+Life-cycle CO2 emissions for wind is only 2% that of traditional fossil fuel electricity [^68];
 Growth in the wind sector points to economic viability;
 ▸ Wind is able to scale up to cover a meaningful fraction of energy
 demand.
@@ -254,7 +254,7 @@ Wind is regionally variable: many places do not produce enough wind to support d
 ▸ Wind can cause environmental disruption to habitats especially
 dangerous to birds and bats;
 Esthetic objections to noise and degradation of scenery hamper expansion.
-[68]: (2020), Life Cycle GHG Emissions
+[^68]: (2020), Life Cycle GHG Emissions
 
 ## 12.5 Problems
 1. A modest slap32 might consist of about 1 kg of mass moving at

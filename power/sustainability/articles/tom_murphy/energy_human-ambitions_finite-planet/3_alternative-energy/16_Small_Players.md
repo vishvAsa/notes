@@ -5,7 +5,7 @@ title = "16 Small Players"
 This short chapter serves to round out the menu of renewable energy options. While all of the entries are viable, at various levels of demonstra- tion and implementation, none of them can scale up to be an important contributor to global power at the relevant level of many terawatts. In this sense, we might call the remaining resources "cute." Because of this, items are kept brief-not warranting unjustified attention. Likewise for graphical adornment: the chapter is a little bare, in part because the subjects do not deserve much in the way of undue promotion.
 Skipping this chapter will not sacrifice much in the way of knowledge vital to our future. It simply fills in the gaps and addresses some of the "but what about insert-scheme?" questions that may arise. The next chapter, Chapter 17, highlights the pros and cons of the full range of alternative energy resources, so this installment largely exists to provide a basis for the conclusions of that more important capstone.
 16.1 Geothermal Energy
-The interior of Earth is still hot from the initial collapse of mass in the formation of the planet. We can think of this as the thermal conversion of gravitational potential energy as pieces fell into the gravitational field of the earth, converting first to kinetic energy and then into thermal energy (heat) after collision. But that's only half of the story. The other half is radioactive decay of long-lived unstable elements within the earth [106]. Of the radioactive decay part, 40% is from uranium (238U), 40% is from thorium (232Th), and 20% is from potassium (40K). As was indicated in Table 10.2 (p. 168), a total of 44 TW of geothermal power flows through the earth's crust. Divided by total surface area, this amounts to less than
+The interior of Earth is still hot from the initial collapse of mass in the formation of the planet. We can think of this as the thermal conversion of gravitational potential energy as pieces fell into the gravitational field of the earth, converting first to kinetic energy and then into thermal energy (heat) after collision. But that's only half of the story. The other half is radioactive decay of long-lived unstable elements within the earth [^106]. Of the radioactive decay part, 40% is from uranium (238U), 40% is from thorium (232Th), and 20% is from potassium (40K). As was indicated in Table 10.2 (p. 168), a total of 44 TW of geothermal power flows through the earth's crust. Divided by total surface area, this amounts to less than
 Lava seeping along east of Pu'u 'O'o crater in Hawaii as an evident display of geothermal energy. Photo Credit: Tom Murphy
 
 16.1 Geothermal Energy
@@ -22,7 +22,7 @@ Geothermal Depletion
 Geothermal Reality 16.2 Tidal Capture . . 16.3 Ocean Currents. 16.4 Wave Energy 16.5 Hydrogen
 16.6 Upshot on Small Players .. 286 16.7 Problems.
 287
-[106]: Johnston (2011), Radioactive decay accounts for half of Earth's heat
+[^106]: Johnston (2011), Radioactive decay accounts for half of Earth's heat
 16 Small Players
 276
 0.1 W/m2, making it less than one-two-thousandth of the solar input average.1
@@ -97,7 +97,7 @@ In a few locations, hot magma is brought near the surface, offering rare cracks 
 The most common scheme-labeled "hydrothermal"—is to drill two holes into the ground near each other, injecting water into one and collecting pressurized steam from the other. Fractures in the rock permit water and/or steam to flow between the two holes. Alternatively, but far less common, a fluid13 can be run through a closed loop that passes through the hot medium. By either direct use of the steam in the hydrothermal case, or generating steam from the hot fluid in the closed- loop case, the resulting steam can be used to run a turbine and generator in the usual
 way.
 A newer form, called "binary" geothermal uses two fluids: water in the ground as in other schemes, but a second fluid having a much lower boiling point to make a steam analog at lower temperatures. This opens additional power generation possibilities at temperatures below 100°C, but of course will suffer the inevitable efficiency hit when Th is lower, according to Eq. 16.1.
-Globally, roughly 10 GW of electricity is produced from geothermal energy [107], and an estimated additional 28 GW of direct heating is obtained from this source [108]. Together, these account for 0.4% of the 18 TW global energy budget, after a thermal equivalent adjustment.
+Globally, roughly 10 GW of electricity is produced from geothermal energy [^107], and an estimated additional 28 GW of direct heating is obtained from this source [^108]. Together, these account for 0.4% of the 18 TW global energy budget, after a thermal equivalent adjustment.
 GW installed GW produced % elec.
 Country
 U.S. Philippines
@@ -134,15 +134,15 @@ World Total
 16 Small Players
 13:... not necessarily water now
 279
-[107]: Intern'l Renewable Energy Agency (2018), Renewable Energy Statistics 2018
-[108]: (2020), Geothermal Heating
+[^107]: Intern'l Renewable Energy Agency (2018), Renewable Energy Statistics 2018
+[^108]: (2020), Geothermal Heating
 Table 16.2: Global geothermal electricity production in 2016 [85, 107, 109]. Note that the percentage is the fraction of electricity, not total energy, contributed by geothermal. The capacity factor tends to be relatively high for this non-intermittent resource (see Problem 6).
 Table 16.2 lists the top 7 producers of geothermal electricity, capturing 72% of the global total. Note that many are on the Pacific Rim, sometimes called the "ring of fire" for its volcanic activity. Iceland gets 30% of its electricity14 from geothermal sources. But in absolute terms, it is a small amount of energy. Considering that a single nuclear plant puts out about 1 GW, the countries in Table 16.2 have the equivalent of 1-2 nuclear plants in the form of geothermal (compare to Table 15.8; p. 256).
-The U.S. gets an average of 1.9 GW of electrical production15 from geother- mal sources [85]. 72% of this is produced in California-almost all at a site called The Geysers in the northern part of the state-accounting for ~6% of the state's electricity. Another 22% of U.S. geothermal electricity is produced in in Nevada. The rest is in Utah, Hawaii, Oregon, Idaho, and New Mexico, in that order (7 states total).
+The U.S. gets an average of 1.9 GW of electrical production15 from geother- mal sources [^85]. 72% of this is produced in California-almost all at a site called The Geysers in the northern part of the state-accounting for ~6% of the state's electricity. Another 22% of U.S. geothermal electricity is produced in in Nevada. The rest is in Utah, Hawaii, Oregon, Idaho, and New Mexico, in that order (7 states total).
 Geothermal is just a small player. The fact that a country like Iceland can produce a large fraction of its electricity this way mostly tells us that Iceland is on a geological hot-spot and is not very populated. We should
 14: And electricity is only about one third of Iceland's energy demand.
 15:...~0.4% of total electricity
-[85]: U.S. Energy Inform. Admin. (2020), Electric power monthly
+[^85]: U.S. Energy Inform. Admin. (2020), Electric power monthly
 
 not expect geothermal to assume a large role in the energy landscape of
 tomorrow.
@@ -294,14 +294,14 @@ Work this out for yourself, maybe by thinking of something small like a house fi
 16.5 Hydrogen
 Combustion of hydrogen gas produces energy, and indeed is sometimes used as rocket fuel and in some demonstration vehicles. It can also be combined with oxygen in a fuel cell (not combustion) to generate electricity. Twenty years ago, references to a hydrogen economy replacing fossil fuels were common. So why has it been left out of this book, shoved unceremoniously into the last part of a chapter on miscellaneous small players? One key reason: hydrogen is not a source of energy. Pockets of hydrogen gas are not found underground.29
 Hydrogen can be produced from water given enough energy input, typically via electrolysis, which splits H2O into hydrogen and oxygen. Electrolysis efficiency is typically 65-80% in terms of capturing input energy in the form of stored hydrogen. So hydrogen should be thought of as energy storage-like a chemical battery-rather than as an energy source. Combustion of hydrogen to drive a car, for instance, would suffer the usual heat engine inefficiency of ~25%. Combined with electrolysis inefficiency, total efficiency is down to 15-20%. A standard battery does far better in round-trip30 storage efficiency: 60-90%. Fuel cells are far more efficient than combustion-around 65%. Combined with the electrolysis step, the overall efficiency is still well short of battery storage, at around 50% overall.
-Hydrogen in gaseous form is bulky and hard to package-especially in mobile applications like cars. The alternative to gaseous storage is as a cryogenic liquid, adding other complications. Hydrogen is more dangerous than gasoline as an explosion hazard. Fuel cells are not particularly robust and have difficulty in cold weather. On balance, hydrogen is unlikely to come roaring onto the scene as a fossil fuel replacement. An article [110] summarizes the pros and cons well.
+Hydrogen in gaseous form is bulky and hard to package-especially in mobile applications like cars. The alternative to gaseous storage is as a cryogenic liquid, adding other complications. Hydrogen is more dangerous than gasoline as an explosion hazard. Fuel cells are not particularly robust and have difficulty in cold weather. On balance, hydrogen is unlikely to come roaring onto the scene as a fossil fuel replacement. An article [^110] summarizes the pros and cons well.
 16.6 Upshot on Small Players
 The topics discussed in this chapter are presented more out of duty to completeness than as set of hopeful candidates for the energy of tomorrow. The first four are physically viable sources of real energy. Geothermal and tidal (to a lesser extent) contribute to today's energy mix, and new development is underway to expand both.
 Geothermal energy is only practical in a small number of places that provide proximate access to high-temperature magma. Plans to extract geothermal energy from "normal" locations have not yet materialized, and the challenges are substantial. We should not expect geothermal energy to contribute at the terawatt scale, in practice.
 Tidal energy, like geothermal, is very location-dependent-requiring large inlets with large tidal amplitude that can be closed off easily. But
 29: It is too reactive to survive on its own, in- stead bound in H2O and CH4, for instance.
 30: ... meaning charge and discharge en- ergy cycle
-[110]: Volkswagen (2019), Hydrogen or battery? A clear case, until further notice
+[^110]: Volkswagen (2019), Hydrogen or battery? A clear case, until further notice
 
 16 Small Players
 287

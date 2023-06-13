@@ -10,7 +10,7 @@ First, we will have to assess the form that our actions have taken in the absenc
 ## 19.1 No Master Plan
 The "adults" of this world have not established a global plan for peace and prosperity. This has perhaps worked okay so far: a plan hasn't been necessary. But as the world changes from an "empty" state in which humans were a small part of the planet with little influence to a new "full" regime[^1] where human impacts are many and global in scale, perhaps the "no plan" approach is the wrong framework going forward.[^2]
 
-[^1]: 96% of mammal mass on Earth is now humans and their livestock [121].
+[^1]: 96% of mammal mass on Earth is now humans and their livestock [^121].
 
 [^2]: In rare cases, small islands like Tikopia operated under plans to live within finite bounds. Now, Earth is effectively a small island and needs to shift to a "small-island" plan.
 
@@ -115,7 +115,7 @@ Scientists discovered an alarming decrease in stratospheric ozone (03) in the la
 
 [^19]: ... often found in refrigerant fluids and aerosol cans
 
-[122]: Nunez (2019), "Climate 101: Ozone Depletion"
+[^122]: Nunez (2019), "Climate 101: Ozone Depletion"
 
 On the scale of things, this was an easy problem to solve. Climate change and fossil fuel dependence are much harder, making the ozone comparison a false equivalency.+++(4)+++ Getting energy out of fossil fuels demands the release of CO2. We can't "just" switch[^20] to some other liquid fuel that doesn't have this problem, as this book makes clear.
 

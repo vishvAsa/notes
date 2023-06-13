@@ -133,7 +133,7 @@ Use common units. Cross-comparison of energy usage is made more difficult by dif
 standard. In terms of power, many appliances are rated in Btu/hr, which is 0.293 W. So a hot water heater at 30,000 Btu/hr is equivalent to about 10 kW and will consume 5 kWh if running for half-an-hour, for instance. Putting everything in the same units (kWh as a suggestion here) allows useful comparisons of choices.
 Example 20.3.5 In a month, the utility bill for a house shows 600 kWh, 20 Therms, and the two cars of the household used a total of 60 gallons of gasoline. How do these stack up, when assessed in the same units?
 Using Table 20.1, the gas amounts to 586 kWh-almost identical to electricity and the gasoline totals about 2,200 kWh, far outweighing the other two.
-Electricity source matters. Your local source for electricity20 can impact choices. It should be possible to determine your local mix via online sources [126]. The fact that conventional power plants tend to convert chemical energy into delivered electricity at 30-40% efficiency needs to be considered in comparing direct use of a fossil fuel against electrical solutions based on fossil fuel. A heat pump design for a water heater can compensate for this loss, and then some.[^21]
+Electricity source matters. Your local source for electricity20 can impact choices. It should be possible to determine your local mix via online sources [^126]. The fact that conventional power plants tend to convert chemical energy into delivered electricity at 30-40% efficiency needs to be considered in comparing direct use of a fossil fuel against electrical solutions based on fossil fuel. A heat pump design for a water heater can compensate for this loss, and then some.[^21]
 Example 20.3.6 A hot water heater using natural gas is likely about 85% efficient at transferring the heat of combustion into the water (enclosed, insulated), while an electric hot water heater manages to get 100% of the delivered energy into the water via a heating coil immersed in the water. If the source of electricity is also natural gas form a power plant achieving 40% efficiency at converting thermal energy into electricity and then transmitting it to the house at 95% efficiency, which method uses more total fossil fuel energy, and by what factor?
 We compare 85% efficient for the direct usage to 40% times 95% times 100%.22 The ratio of 85% to 38% is 2.2, so it will take 2.2 times more gas at the power plant than in the home to produce the same result in heated water.
 Weight is a guide. A rough rule of thumb is that the energy cost of consumer goods is not too far from the energy contained in the equivalent weight23 in gasoline, meaning 13 kWh/kg (Table 20.1). Should you use paper or plastic bags? The one that weighs more probably required greater energy and resource use. Should you drive back home if you forgot your reusable bag? Compare the amount (weight) of gasoline you'll use to the weight of the disposable bags the store uses.[^24] High-tech gadgets, like smart phones, almost certainly break this rule and cost far more energy to produce than their gas-equivalent weight-as can be approximated in the next point.
@@ -153,7 +153,7 @@ kWh
 36.6
 1 kg gasoline 1 gal. propane 1 Therm (gas) 1 gal. gasoline
 20: ... coal vs. natural gas vs. hydroelectric, for example
-[126]: Nuclear Energy institute (2019), State Electricity Generation Fuel Shares
+[^126]: Nuclear Energy institute (2019), State Electricity Generation Fuel Shares
 21:
 .if the COP is higher than 2.5, for instance, which it usually will be
 22: This last one is for the immersed coil, and does nothing to the answer.
@@ -225,18 +225,18 @@ Note that we didn't need the distance. This may seem like a "trick," but conside
 20 Adaptation Strategies
 339
 anything getting better performance will deliver the three people at a lower energy cost.
-Diet Impacts: Modern agricultural practices result in a 10:1 energy expenditure on the production, distribution, and waste of food-so that each kilocalorie of food eaten requires 10 kcal of energy input [97]. A typical 2,100 kcal/day diet translates into 2.4 kWh/day, and applying the 10:1 ratio means that about 24 kWh of energy input is required to cover a typical American's diet-which is substantial on the scale of residential/personal energy use. Because food is also grown for livestock and poultry, then those animals convert the food to meat at some low efficiency, raising animals for meat is a net energy drain: directly eating the food ourselves45 would use less
+Diet Impacts: Modern agricultural practices result in a 10:1 energy expenditure on the production, distribution, and waste of food-so that each kilocalorie of food eaten requires 10 kcal of energy input [^97]. A typical 2,100 kcal/day diet translates into 2.4 kWh/day, and applying the 10:1 ratio means that about 24 kWh of energy input is required to cover a typical American's diet-which is substantial on the scale of residential/personal energy use. Because food is also grown for livestock and poultry, then those animals convert the food to meat at some low efficiency, raising animals for meat is a net energy drain: directly eating the food ourselves45 would use less
 and fewer resources. grown
 energy
-[97]: Pfeiffer (2006), Eating Fossil Fuels
+[^97]: Pfeiffer (2006), Eating Fossil Fuels
 45:
 form!
 preferably in not exactly the same
 20.3.4 Dietary Energy
-This last point on food energy deserves some elaboration, setting the stage for a quantitative evaluation of diet choices. For any food type, it is possible to characterize the amount of energy spent producing the food as a ratio to the metabolic energy contained in the food.[^46] Key results of some such studies ([127] and [128]) are provided in Table 20.2. Treat these as rough guides rather than absolutely definitive numbers, since specific agricultural, feeding, or fishing practices play a huge role in the energy requirements: large variations can be expected, in practice. All the same, fruits and vegetables consistently require small energy expenditures relative to meat and dairy products.
+This last point on food energy deserves some elaboration, setting the stage for a quantitative evaluation of diet choices. For any food type, it is possible to characterize the amount of energy spent producing the food as a ratio to the metabolic energy contained in the food.[^46] Key results of some such studies ([^127] and [^128]) are provided in Table 20.2. Treat these as rough guides rather than absolutely definitive numbers, since specific agricultural, feeding, or fishing practices play a huge role in the energy requirements: large variations can be expected, in practice. All the same, fruits and vegetables consistently require small energy expenditures relative to meat and dairy products.
 46: In this sense, it is the inverse of EROEI: energy invested to extract the food divided by energy delivered.
-[127]: Eshel et al. (2006), "Diet, Energy, and Global Warming"
-[128]: Pimentel et al. (2007), Food, Energy, and Society
+[^127]: Eshel et al. (2006), "Diet, Energy, and Global Warming"
+[^128]: Pimentel et al. (2007), Food, Energy, and Society
 Category Type
 Ratio Distrib. Category Type
 Ratio
@@ -349,13 +349,13 @@ It is possible to abandon Eq. 20.1 and roll your own formulation following simil
 53
 Example 20.3.17 A diet that is 35% rice, 35% wheat, 15% corn, 10% milk, and 5% chicken has an energy cost of 0.35 0.48+0.35 0.45+ 0.15 0.40+0.10.4.9+0.05.5.5 0.17+0.16+0.06+0.49+0.28 = 1.15. This has not been normalized to Ry
 1 yet, so we divide by the aggregate 0.65 value for the plant energy ratio found in Table 20.3 to get a dietary energy factor 1.8 times that of a strictly plant-based diet. Note from the sum that milk and chicken are the largest two contributors, despite being a small fraction of the diet.
-The 10:1 input:output energy ratio mentioned at the beginning of this diet segment may at first glance not square with the whole-diet energy factors computed here (e.g., a factor of 6 for the typical American diet). Missing is food waste. The U.S. produces 1.8 kcal of food value for every 1 kcal consumed [127]. This amount of waste may be hard to fathom, but consider waste at restaurants, cafeterias, and grocery stores when perishable items are not consumed before health standards suggest or require disposal. Still, this is an area ripe for improvement.
+The 10:1 input:output energy ratio mentioned at the beginning of this diet segment may at first glance not square with the whole-diet energy factors computed here (e.g., a factor of 6 for the typical American diet). Missing is food waste. The U.S. produces 1.8 kcal of food value for every 1 kcal consumed [^127]. This amount of waste may be hard to fathom, but consider waste at restaurants, cafeterias, and grocery stores when perishable items are not consumed before health standards suggest or require disposal. Still, this is an area ripe for improvement.
 20.3.5 Flexitarianism
 Echoing Point #5 in the list in Section 20.3.1, it is worth pointing out that energy and resource concerns are a largely quantitative game. One need not become a strict vegan to affect energy demands substantively. For instance, eating meat one meal a week,[^54] and tending to stick to poultry when doing so would drop the energy factor of Eq. 20.1 to a value so near to 1.0 that the difference is of little consequence.
 Example 20.3.18 For instance, if one meal per week, or about one in 40 of your meals looks like the last column in Table 20.3-72% plant-based and the rest poultry and dairy-what is the dietary energy factor for this diet?
 Since only one in 40 meals is of this type, multiply the poultry and
 53: In other words, if performing the same sort of calculation for 10% contributions from each of the ten plant-based foods in Table 20.2, the raw result would be 0.65.
-[127]: Eshel et al. (2006), "Diet, Energy, and Global Warming"
+[^127]: Eshel et al. (2006), "Diet, Energy, and Global Warming"
 54:... out of about 40 meals
 
 20 Adaptation Strategies

@@ -82,7 +82,7 @@ Example 11.2.1 To compute the power available from a hydroelectric plant, we nee
 The largest hydroelectric facility in the world is the Three Gorges Dam in China, rated at an astounding 22.5 GW. The largest in the U.S. is the Grand Coulee on the Columbia River, producing a maximum of 6.8 GW. The iconic Boulder Dam (a.k.a. Hoover Dam) is just over 2 GW.
 Note that flow rates vary seasonally with rainfall, so that dams cannot always operate at full capacity. In fact, the U.S. has about 80 GW of capacity installed, but operates at an annual average of about 33 GW. This implies a typical "capacity factor" around 40%.
 Definition 11.2.1 A capacity factor is the ratio of actual performance over time to the peak possible performance—or average output divided by maximum output, expressed as a percentage.
-Example 11.2.2 Boulder (Hoover) Dam on the Colorado River is listed in [66] as having a capacity of 2,080 MW and an annual production of 4.2 TWh. What is its capacity factor?
+Example 11.2.2 Boulder (Hoover) Dam on the Colorado River is listed in [^66] as having a capacity of 2,080 MW and an annual production of 4.2 TWh. What is its capacity factor?
 We just need to turn the 4.2 TWh in a year into an average delivered power. Following the definition of a watt-hour, we note that all we really have to do is divide 4.2 x 1012 Wh16 by the number of hours in a year: 24 times 365, or 8760.
 4.2 x 1012 Wh/8760 h≈ 480 MW average power. Dividing this by 2,080 MW (max capacity) gives a 23% capacity factor.
 As we saw in Fig. 7.5 (p. 108) and Table 10.3 (p. 170), hydroelectricity in the U.S. accounts for 2.7% of the nation's total energy consumption, corresponding to about 33 GW of production. Globally, hydroelectric production averaged 477 GW in 2017. By comparison, Table 10.2 (p. 168)
@@ -94,7 +94,7 @@ Figure 11.3: One cubic meter of water has a mass of 1,000 kg.
 3
 =
 15: Flow rate times density gives mass per second: 2,000 m3/s times 1,000 kg/m3 2 x 106 kg/s
-Look at the Wikipedia page on largest hydroelectric power stations [66] for a complete list.
+Look at the Wikipedia page on largest hydroelectric power stations [^66] for a complete list.
 16: 1 TWh is 1012 Wh.
 
 indicates that 44,000 TW of solar input goes into evaporation and the hydrological cycle. Why, then, are we only able to use 0.477 TW (0.001%) of this bounty? Is this a great, untapped renewable resource?
@@ -130,14 +130,14 @@ On
 average, terrain is about 800 m above sea level, so each gram that falls on land has an average of 8 J left as available energy. But only 29% of the earth's surface is land, so that the gram of water we're tracking preserves about 2 J of energy, on average.
 21
 We're down to only 0.1% of the input solar energy-2 J out of 2,300 J input-so that the theoretical hydroelectric potential might be about 44 TW: reduced from the 44,000 TW input. But only a small fraction of rain flows into rivers suitable for damming. And once dammed, a typical dam height is in the neighborhood of 50 m, knocking us down even further. Much of the journey from terrain to reservoir involves losing elevation in streams too small to practically dam, or just seeping through the ground. In the end, perhaps it is not surprising that we end up in the sub-TW regime globally.
-Detailed assessments [67] of hydroelectric potential globally estimate a technically feasible potential22 around 2 TW, but only half of this is deemed to be economically viable. Recall that 477 GW, or about 0.5 TW, is delivered globally, which is therefore about half of what we believe to be the practical limit of ~1 TW. Thus we might not expect more than a factor-of-two expansion of current hydroelectricity as possible/practical. The low-hanging fruit has been plucked already, capturing about half of the total practical resource.
+Detailed assessments [^67] of hydroelectric potential globally estimate a technically feasible potential22 around 2 TW, but only half of this is deemed to be economically viable. Recall that 477 GW, or about 0.5 TW, is delivered globally, which is therefore about half of what we believe to be the practical limit of ~1 TW. Thus we might not expect more than a factor-of-two expansion of current hydroelectricity as possible/practical. The low-hanging fruit has been plucked already, capturing about half of the total practical resource.
 Compared to the 18 TW global scale of energy use, hydroelectricity is not poised to assume a large share at this level, unless the overall scale of energy use is reduced substantially. Let's say this more visibly: hydroelectric power cannot possibly come close to satisfying present global power demand.
 11.3 Hydropower in the U.S.
 Hydroelectric power is not available to the same degree everywhere. Geography and rainfall are key factors. This brief section serves to present a snapshot of the distribution and qualities of hydroelectric power generation in the United States. We start with Figure 11.5, showing the average hydroelectric power generated in each state, the top four states being listed in Table 11.1. These four states account for 56% of hydroelectricity in the U.S., and the next states on the ranked list drop to 1 GW or lower. Most of the California generation is in the northern part of the state, effectively as part of the Pacific Northwest region.
 To get a sense for how concentrated different sources are, we will make a habit of examining power density for renewable resource implemen- tations. Figure 11.6 indicates the state-by-state density of hydroelectric power generation,23 just dividing generation by state area. No state exceeds 0.05 W/m2, which can be contrasted to insolation values (see Ex. 10.3.1; p. 167) of ~200 W/m2. Globally, total land area is about
 21: ... reduced from 8 J since most rain falls back onto ocean
 The 90% efficiency of a hydroelectric dam is now contextualized a bit better. That last step is pretty efficient, but the overall pro- cess is extremely inefficient. Still, it takes rel- atively little effort to exploit, and provides real power. Efficiency is not everything.
-[67]: (1997), Study on the Importance of Harnessing the Hydropower Resources of the World
+[^67]: (1997), Study on the Importance of Harnessing the Hydropower Resources of the World
 22:...if cost is no barrier
 Table 11.1: Top hydroelectric states.
 State
@@ -229,7 +229,7 @@ The two lists below provide some pros and cons to hydroelectric power that are r
 ► Technologically simple, therefore straightforward to implement and maintain;
 ► High efficiency, turning 90% of available energy into useful elec- tricity;
 ▸ Good baseline of steady power over daily timescales;
-Life-cycle CO2 emissions only 4% that of traditional fossil fuel electricity [68];
+Life-cycle CO2 emissions only 4% that of traditional fossil fuel electricity [^68];
 ► Facilities31 can last a century or longer;
 While not directly related to energy, dams can provide flood control and reliable water supplies.
 And some of the downsides that may discourage further development:
@@ -378,16 +378,16 @@ AWS Truepower NREL
 Where science delivers performance.
 NATIONAL RENEWABLE ENERGY LABORATORY
 21-12-15
-Figure 12.2: Average wind velocity at a height of 80 m across the U.S. [69]. Bound- aries between colored boxes are every 0.5 m/s from 4.0 m/s to 10.0 m/s. Nothing on this map exceeds 9 m/s, and the deepest green is below 4 m/s. The plains states are the hot ticket. Note that Alaska is not to scale. From NREL.
+Figure 12.2: Average wind velocity at a height of 80 m across the U.S. [^69]. Bound- aries between colored boxes are every 0.5 m/s from 4.0 m/s to 10.0 m/s. Nothing on this map exceeds 9 m/s, and the deepest green is below 4 m/s. The plains states are the hot ticket. Note that Alaska is not to scale. From NREL.
 Box 12.1: The Value of Estimation/Checking
 Calculations like the one above offer a way to see if something at least checks out and seems plausible. If we had found that the whole atmosphere would have to be moving at 50 m/s to get the 900 TW figure in Table 10.2 (p. 168), we would suspect a problem, and either distrust the 900 TW number-seeking another source to confirm or re-evaluate our own understanding. If we could get to 900 TW by only having wind speeds of 0.1 m/s, we would also have cause for skepticism. When crude estimates of this type land in the general vicinity of a number we see in a table, we can at least be assured that the number is not outlandish, and that our basic understanding of the phenomenon is okay. Checking understanding against presented data is excellent practice!
-But we can't capture the entire atmospheric wind, because doing so would require wind turbines throughout the volume, up to 10 km high! In fact, some estimates [70] of practical global wind installations come in as low as 1 TW-well below our 18 TW demand. Wind alone is unlikely
+But we can't capture the entire atmospheric wind, because doing so would require wind turbines throughout the volume, up to 10 km high! In fact, some estimates [^70] of practical global wind installations come in as low as 1 TW-well below our 18 TW demand. Wind alone is unlikely
 
 7:
 or requiring weeks rather than a day to re-establish, once sapped
 . say, within a factor of ten
 8:
-[70]: Castro et al. (2011), "Global Wind Power Potential: Physical and Technological Limits"
+[^70]: Castro et al. (2011), "Global Wind Power Potential: Physical and Technological Limits"
 12 Wind Energy
 187
 able to replace the energy currently derived from fossil fuels.
@@ -426,4 +426,4 @@ Notice that the delivered power scales, sensibly, with the area of the wind turb
 10 1,000
 
 up straight: that's a very strong function of velocity! It means that if the wind changes from a gentle 5 m/s to a brisk 10 m/s, the power available goes up by a factor of 8. A strong wind at 20 m/s has 64 times as much power as the 5 m/s breeze.11 We can understand the three powers of velocity thusly: two powers come from kinetic energy, and one from the length of the cylinder. As wind speed increases, not only does the oncoming air have more kinetic energy per fixed volume, but also a larger volume encounters the turbine in a given time.
-Setting & = 1 in Eq. 12.2 corresponds to the total power present in the wind. But we can't be greedy and grab all of it. In fact, if we did, it would mean stopping the air at the wind turbine: pulling out all the kinetic energy means no velocity is left. If we did this, newly arriving air would divert around the stopped mass of air, and the turbine would no longer have access to oncoming energy. The theory has all been worked out:12 a turbine is limited to ε ≤ 16/27 (59%) of the available energy, known as the Betz limit [72]. This is not a technological limitation, but comes from the physics of fluid flow. A second consideration enters for low-speed rotor motion, known as the Glauert limit [73], resulting in diminishing efficiency as wind speed drops.
+Setting & = 1 in Eq. 12.2 corresponds to the total power present in the wind. But we can't be greedy and grab all of it. In fact, if we did, it would mean stopping the air at the wind turbine: pulling out all the kinetic energy means no velocity is left. If we did this, newly arriving air would divert around the stopped mass of air, and the turbine would no longer have access to oncoming energy. The theory has all been worked out:12 a turbine is limited to ε ≤ 16/27 (59%) of the available energy, known as the Betz limit [^72]. This is not a technological limitation, but comes from the physics of fluid flow. A second consideration enters for low-speed rotor motion, known as the Glauert limit [^73], resulting in diminishing efficiency as wind speed drops.

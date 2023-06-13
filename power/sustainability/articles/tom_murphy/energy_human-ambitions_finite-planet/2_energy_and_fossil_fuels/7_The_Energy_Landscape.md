@@ -3,7 +3,7 @@ title = "7 The Energy Landscape"
 
 +++
 Now that we have a handle on common energy units and thermal processes, we can take a look at various sources of energy data and make sense of the information, allowing meaningful cross-comparisons. In this chapter, we will do exactly that, gaining in the process a perspective on the past and present roles different energy sources play at a national and global level. 
-Most of the information in this chapter comes from the U.S. Energy Information Administration's (EIA's) Annual Energy Review [34], and from a compilation of global data owing to Vaclav Smil and the British Petroleum Statistical Review of World Energy [16]. Rather than laboriously citing each instance, it is sufficient to assume for this chapter that numbers for the U.S. come from the former and global numbers come from the latter, unless stated otherwise. 
+Most of the information in this chapter comes from the U.S. Energy Information Administration's (EIA's) Annual Energy Review [^34], and from a compilation of global data owing to Vaclav Smil and the British Petroleum Statistical Review of World Energy [^16]. Rather than laboriously citing each instance, it is sufficient to assume for this chapter that numbers for the U.S. come from the former and global numbers come from the latter, unless stated otherwise. 
 7.1 The Annual Energy Review 102 
 Energy Flow.. Source and Sector 
 Detailed Mix 
@@ -101,7 +101,7 @@ B Petroleum products supplied.
 10 Includes 0.15 quadrillion Btu of electricity net imports. 
 11 Total energy consumption, which is the sum of primary energy consumption, electricity retail sales, and electrical system energy losses. Losses are allocated to the end-use sectors in proportion to each sector's share of total electricity retail sales. See Note 1, "Electrical System Energy Losses," at the end of U.S. Energy Information Administration (EIA), Monthly Energy Review (April 2019), Section 2. 
 Notes:⚫ Data are preliminary. Values are derived from source data prior to rounding for publication. Totals may not equal sum of components due to independent rounding. Sources: EIA, Monthly Energy Review (April 2019), Tables 1.1, 1.2, 1.3, 1.4a, 1.4b, and 2.1. 
-Figure 7.1: The flow of energy in the U.S. for 2018, as presented in [34]. Units are quadrillions of Btu (qBtu), unfortunately. From U.S. EIA. 
+Figure 7.1: The flow of energy in the U.S. for 2018, as presented in [^34]. Units are quadrillions of Btu (qBtu), unfortunately. From U.S. EIA. 
 From past experience, many students dislike this graphic. Firstly, it's a product of the EIA, and not a creation of this book. Secondly, it is actually not so bad, once you get the hang of it. 
 Resources come in from the left. Expenditures or exports go off to the right. The format guarantees that all inputs must match all outputs.[^1] We also see at a glance the big players vs. small players. 
 To understand, let's start in the middle section. To the left of center, we see that the total supply sums to 122.44 qBtu. Of this, we consume 101.25 qBtu (right of center) and export the remaining 21.19 qBtu. Now we focus on the central column to get a powerful visual and quantitative snapshot of how our energy is partitioned.[^2] From this, we see that 13% is coal, 31% is natural gas, 36.5% is petroleum (oil), 8% is nuclear energy, and 11.5% is renewable energy.[^3] 
@@ -212,12 +212,12 @@ Total = 75.9
 Total = 38.3 
 Figure 7.2: Tracking of energy sources and end-use in the U.S. for 2018, from section 2.0 of the AER. Small numbers beside the blocks represent percentages. Numbers that are not percentages are qBtu (quads). From U.S. EIA. 
 In principle, it is possible (and would be nice) to put percentages where the arrows enter and exit the electricity sector, but enough numbers are present to work this out, as Example 7.1.1 demonstrates. Without these numbers, the story is a little misleading. For instance, only 17% of natural gas goes directly to residential use, but some natural gas produces electricity, which then flows to residences. It is therefore not immediately obvious what percentage of residential energy ultimately comes from natural gas, but it's more than the 43% indicated in the figure. 
-A similar graphic combining some elements of both Figure 7.1 and Figure 7.2 is provided by Lawrence Livermore National Lab [35],10 
+A similar graphic combining some elements of both Figure 7.1 and Figure 7.2 is provided by Lawrence Livermore National Lab [^35],10 
 Example 7.1.1 Let's work through the numbers in Figure 7.2 to elucidate what percentage of residential energy ultimately derives from natural gas. The same technique can be pursued to ask similar questions about any source-to-sector pathway, by incorporating the electricity contribution. 
 We start simply, by noting that 43% of the 11.9 qBtu residential energy 
-[35]: LLNL (2019), Energy Flow Charts 
+[^35]: LLNL (2019), Energy Flow Charts 
 
-[^10]: See also [36] for a fascinating animated version. 
+[^10]: See also [^36] for a fascinating animated version. 
 
 7 The Energy Landscape 
 106 
@@ -327,7 +327,7 @@ renewable
 30 
 20 
 10 
-Table 7.2: Percentages of electricity derived from various sources in the U.S. and globally in 2018. Bio includes burning wood and waste, and Geo means geothermal. Data are from Table 7.2a of [34] and from [37]. 
+Table 7.2: Percentages of electricity derived from various sources in the U.S. and globally in 2018. Bio includes burning wood and waste, and Geo means geothermal. Data are from Table 7.2a of [^34] and from [^37]. 
 oil 
 gas 
 coal 
@@ -533,8 +533,8 @@ You may have noticed that as soon as we departed from the AER
 110 
 data, which expressed energy in qBtu, the units on the plot (Fig. 7.7) changed to terawatt-hours (TWh). It means what it sounds like: tera is 1012, so this is 1012 watt-hours (Wh). We use kWh more often than Wh, so a TWh is the same as a giga-kWh, or GkWh (can you do that?). One kWh is 3.6 x 106 J, so 1 TWh is 3.6 x 1015 J. Meanwhile, 1 qBtu is 1.055 × 1018 J, facilitating a conversion. The figures for global power also 
 put qBtu on the right side for easier comparison between plots. 
-The source of numbers for this section [16] mix thermal and electrical output, so the plots have multiplied some entries (asterisks in plot legends) by 3.06 for reasons described in Box 7.2. 
-[16]: Smil (2017), Energy Transitions: Global and National Perspectives 
+The source of numbers for this section [^16] mix thermal and electrical output, so the plots have multiplied some entries (asterisks in plot legends) by 3.06 for reasons described in Box 7.2. 
+[^16]: Smil (2017), Energy Transitions: Global and National Perspectives 
 7.2.1 U.S. Global Share 
 A final overview to help frame a number of discussions in this textbook looks at the U.S. share of consumption of various energy resources compared to the global total. The evolution seen on the left side of Figure 7.9 contains a crucial insight into geopolitics. In 1950, the U.S. used an astounding 84% of global natural gas and 72% of petroleum. At only 6% of the world's population at the time, Americans used more than ten times the global average oil and gas, and substantially more than the rest of the world combined. Since energy per year is the definition of power, we can understand how the U.S. was a literal superpower during this era. Parroting Bill Clinton: It's the resources, stupid. 
 This may be a factor in nostalgia for what some Americans see as the "glory days" of the 1950s. To the extent that U.S. energy share played a role, longing for a return to that era is not likely to materialize. 

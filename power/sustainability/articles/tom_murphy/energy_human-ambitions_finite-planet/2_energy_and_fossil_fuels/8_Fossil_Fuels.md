@@ -74,13 +74,13 @@ fossil fuels
 2000 4000 6000 8000 10000 
 year 
 Figure 8.1 should stimulate a swarm of questions. Where are we on the curve? When is the peak? Is the decline phase marked by escalating energy scarcity, or the advent of a renewable energy future? Might the far future look more like the past (muscle and firewood) than the present? Will this plot change how we interpret the world and our own plans for the future? The only fair conclusion is that we really do not know how the future will unfold. We can label the left side as "muscle and firewood," and the spike as fossil fuels, but the only credible occupant of the right-hand side is a gigantic question mark. 
-The idea of Figure 8.1 is not original to this textbook, having been portrayed in various incarnations over the last half-century or so [38]. When anyone makes a claim about what they think will happen by late-century, think about this plot. So many of our assumptions are based on the recent but abnormal past. All bets are off in defining the future. In one sense, those who rightly point out that we can't expect to be clever enough to foresee the future are correct-but perhaps in an unintentionally symmetric way. The future could be far more dismal than our dreams currently project. That would also be a surprise to many. We need to approach the future with humility, and set aside preconceived notions of where things are heading so that we can make choices now that will help define what comes next. Taking it for granted is a risky move. Only by acknowledging the potential for a disastrous outcome can we take steps to mitigate that possibility. Waving it off is the most dangerous move we could make. 
+The idea of Figure 8.1 is not original to this textbook, having been portrayed in various incarnations over the last half-century or so [^38]. When anyone makes a claim about what they think will happen by late-century, think about this plot. So many of our assumptions are based on the recent but abnormal past. All bets are off in defining the future. In one sense, those who rightly point out that we can't expect to be clever enough to foresee the future are correct-but perhaps in an unintentionally symmetric way. The future could be far more dismal than our dreams currently project. That would also be a surprise to many. We need to approach the future with humility, and set aside preconceived notions of where things are heading so that we can make choices now that will help define what comes next. Taking it for granted is a risky move. Only by acknowledging the potential for a disastrous outcome can we take steps to mitigate that possibility. Waving it off is the most dangerous move we could make. 
 Box 8.1: Will Renewables Save Us? 
 Just because fossil fuel energy must return to pre-industrial levels in Figure 8.1 does not dictate that human society must return to pre-industrial energy levels. After all, solar, wind, nuclear, hydroelec- tricity are available to us now. Yet we will struggle to match today's energy levels on these resources alone. More disturbing is the notion that we may not be able to maintain high-technology approaches in a world devoid of fossil fuels. No one has demonstrated how, yet. 
 Figure 8.1: Energy over the ages, in the form of fossil fuels. Up until the present, fossil fuels capture the bulk of the human energy story. We know what it must look like in the long term as well. The huge question is how the second half of human history looks, after fossil fuels are depleted or abandoned. The yellow star is a guess as to our current position, based on evidence addressed later in the chapter suggesting that the resources are nearly halfway depleted. 
 
 [^4]: We can rule some things out, though, like unending growth and fossil fuels lasting centuries more. 
-[38]: Hubbert (1962), "Energy resources: a report to the Committee on Natural Resources of the National Academy of Sciences; National Research Council" 
+[^38]: Hubbert (1962), "Energy resources: a report to the Committee on Natural Resources of the National Academy of Sciences; National Research Council" 
 
 [^5]: In this sense, taking the risk seriously fits the definition of the word "conserva- tive," even if present political alignments are mislabeled in this regard. 
 
@@ -136,7 +136,7 @@ coal
 1900 1950 2000 
 year 
 Figure 8.2: Historical use of fossil fuels worldwide, which may be viewed as a zoom- in of the left-hand side of the peak in Figure 8.1. The three types are stacked on top of one another, so that gas makes the smallest con- tribution, not the biggest. On the left is the raw usage rate expressed in terawatts, while the right is a per-capita measure showing that the left-hand rise is much more than 
-just a reflection of population growth [16]. 
+just a reflection of population growth [^16]. 
 Coal opened the door on the Industrial Revolution" in the late eigh- teenth century, allowing locomotion (trains), mechanized manufacturing, large-scale materials processing, and heating applications. Somewhat circularly, the first major use of the steam engine12 was to pump water 
 out of coal mines to accelerate the extraction of... coal. This fact further highlights that from the very start, the Industrial Revolution was focused on the fossil fuel resource that enabled it. 
 Today in the U.S., coal accounts for 13% of total energy consumption13. down considerably from 23% in 2000.14 For the world at large, coal still accounts for 25% of primary energy use.[^15] The vast majority of coal (91%) in the U.S.goes to electricity production, the remainder fueling industrial processes requiring lots of heat. The quality of coal varies greatly. Table 8.1 presents properties of the four main coal categories. Anthracite is the king of coals, but has been largely consumed at this stage. Coal grades having lower energy content contain more non-combustible materials16 like SiO2, Al2O3, Fe2O3, and water. 
@@ -221,7 +221,7 @@ coke
 jet fuel 
 23% 
 heating oil/diesel 
-Figure 8.4: Fractional use of a barrel of petroleum, from [41]. All but asphalt, petro- chemical feedstock, lubricants, and "other" are burned for energy, amounting to 92% burned. Still gases include methane, ethane, propane and butane in gaseous form, while the light liquids are also mostly propane and butane in liquid form. Coke is not the soft drink. 
+Figure 8.4: Fractional use of a barrel of petroleum, from [^41]. All but asphalt, petro- chemical feedstock, lubricants, and "other" are burned for energy, amounting to 92% burned. Still gases include methane, ethane, propane and butane in gaseous form, while the light liquids are also mostly propane and butane in liquid form. Coke is not the soft drink. 
 
 8 Fossil Fuels 120 
 Petroleum is measured in barrels (bbl), equating to 159 L (42 gal). Each barrel of crude oil contains about 6.1 GJ of energy (1,700 kWh; 5.8 MBtu). For reference, the world consumes about 30 billion barrels a year (the U.S. is about 7 billion barrels per year, or 20 million barrels per day). No single country produces oil at a rate greater than about 12 million barrels per day.[^25] 
@@ -243,7 +243,7 @@ rock
 Gas 
 Oll 
 Water 
-Figure 8.5: Oil and gas embedded in porous rock, under an impermeable caprock [42]. From U. Calgary. 
+Figure 8.5: Oil and gas embedded in porous rock, under an impermeable caprock [^42]. From U. Calgary. 
 
 [^27]: Losing even a drop per second adds up to 20 million barrels over one million years, which is short on these geological timescales. 
 
@@ -380,7 +380,7 @@ smaller.
 125 
 8.4.3 On Balance? 
 Deciding whether fossil fuels have had a net-positive or net-negative influence on humanity may not be answerable (Table 8.4 provides a summary of the previous two subsections). How many lives has it saved through better technology and health care? How many lives has it destroyed through conflict, pollution, and transportation accidents? How many lives has it created, through vast increases in agricultural productivity as well as via better medical care? How many species has it destroyed, by promoting habitat loss both directly via extraction and indirectly as a catalyst to population growth via increased agricultural productivity? Sometimes it is even hard to decide which category to put these impacts into. For instance, in the fullness of time, will we see all the lives created on the back of fossil fuels as a good thing? If the result is overshoot, collapse, and the unprecedented suffering of billions of people, then perhaps not. It's a mess. 
-In essence, humanity is running this global-scale unauthorized experi- ment on the planet without a plan. Nothing like this has ever happened, so we don't know how it will turn out. We have plenty of evidence that past civilizations overextend and collapsed [43], but we can't identify a fitting analog to successful navigation of the fossil fuel phenomenon. Meanwhile, plenty of signs justify grave concern. 
+In essence, humanity is running this global-scale unauthorized experi- ment on the planet without a plan. Nothing like this has ever happened, so we don't know how it will turn out. We have plenty of evidence that past civilizations overextend and collapsed [^43], but we can't identify a fitting analog to successful navigation of the fossil fuel phenomenon. Meanwhile, plenty of signs justify grave concern. 
 8.5 The Future of Fossil Fuels 
 8.5.1 Scenarios 
 Figure 8.1 provocatively asserts that fossil fuel use must fall back to essentially zero in a relatively short time (within a century or two). This fact alone does not define our future on the spectrum of dismal to glori- ous, but it is one we need to consider carefully given the fundamentally important role fossil fuels have played in getting us to where we are today. The return to zero fossil fuels could take a variety of forms: 
@@ -394,7 +394,7 @@ Con
 climate change 
 overpopulation 
 agent of war environ. damage overdependency so yesterday 
-[43]: Diamond (2005), Collapse: How Societies Choose to Fail or Succeed 
+[^43]: Diamond (2005), Collapse: How Societies Choose to Fail or Succeed 
 These are not strictly exclusive of each other, so some combinations are also possible. 
 
 8 Fossil Fuels 
@@ -455,7 +455,7 @@ The world has already consumed 1.5 trillion barrels of oil, which is nearly the 
 proven reserves, 52 but the globe is pretty well explored now, and we would not expect huge surprises like another hidden middle-east-size oil deposit. Note that for natural gas, the estimated total resource in the U.S. (what we think we may yet find beyond proven reserves) is about 55 Tcm, which would last just over 60 years. 
 53 
 It is difficult to compare the remaining resource in the three forms directly, since different units are used for each. But we can cast each in terms of energy units for comparison. Doing so, the global reserves of oil, gas, and coal correspond to 10, 8, and 20 ZJ54 remaining, respectively. We have so far consumed 8, 4, and 8 ZJ of oil, gas, and coal (Table 8.6). These form the basis of the estimated fraction consumed in Table 8.5. Note that the amount of oil and gas remaining are roughly comparable in energy, while coal is roughly twice as much. 
-Coal55 therefore seems to be our most abundant fossil fuel, which prompts two comments. The first is that it is the worst offender in terms of CO2 emission, emitting roughly twice as much CO2 per unit of delivered energy as the other fossil fuels (covered in Chapter 9). The second is a caution in trusting the reserves estimates for coal, having often been vastly overestimated and then reduced significantly. For instance, Britain had to downward-revise their estimated coal reserves over the period from 1970-2000 to about 1% of their original because most of the estimated resource turned out to be in seams too thin and difficult to be commercially viable [47]. 
+Coal55 therefore seems to be our most abundant fossil fuel, which prompts two comments. The first is that it is the worst offender in terms of CO2 emission, emitting roughly twice as much CO2 per unit of delivered energy as the other fossil fuels (covered in Chapter 9). The second is a caution in trusting the reserves estimates for coal, having often been vastly overestimated and then reduced significantly. For instance, Britain had to downward-revise their estimated coal reserves over the period from 1970-2000 to about 1% of their original because most of the estimated resource turned out to be in seams too thin and difficult to be commercially viable [^47]. 
 For some, the R/P numbers in Table 8.5 may seem alarmingly short, while for others they may signal a comfortable amount of time to devise alternative energy strategies. Either way, this century is critical. But it is also important to recognize that the story is not quite as simple as the R/P ratio. While it provides a useful scale,[^56] we should consider these 
 nuances: 
 1. The production (thus consumption) rate is not steady, but on the whole has grown over time (continued growth would shorten timescale). 
@@ -490,8 +490,8 @@ Gas
 4 
 00 00 
 
-[^55]: Coal reserves estimates [46] are bro- ken into higher-quality anthracite and bitu- minous (~7 kcal/g), then sub-bituminous and lignite (~4.5 kcal/g) varieties, totaling 480 Gt (gigatons) and 430 Gt, respectively. (see Table 8.1). 
-[47]: Rutledge (2011), "Estimating long-term world coal production with logit and probit transforms" 
+[^55]: Coal reserves estimates [^46] are bro- ken into higher-quality anthracite and bitu- minous (~7 kcal/g), then sub-bituminous and lignite (~4.5 kcal/g) varieties, totaling 480 Gt (gigatons) and 430 Gt, respectively. (see Table 8.1). 
+[^47]: Rutledge (2011), "Estimating long-term world coal production with logit and probit transforms" 
 
 [^56]: If the number worked out to 5 years, we would be in a panic. If it worked out to 5,000 years, climate change would loom as the chief concern. 
 A car's gas tank is another tempting, but flawed mental model. Getting water out of wet sand is closer to the truth for oil 
@@ -540,7 +540,7 @@ year
 the area under the discovery data (blue). It is therefore inevitable that consumption will peak and fall at some point, by whatever means. Note that a symmetric curve peaks when the resource is half-consumed. 
 The information in Figure 8.7 can also be re-cast to ask how many years remain in the resource. For any given year, the total remaining resource can be assessed as the cumulative amount discovered to date minus the cumulative amount consumed. Then dividing by that year's annual production (same as consumption) rate produces an estimate of remaining time (the R/P ratio again). Figure 8.8 shows the result. 
 12 
-Figure 8.7: Historical discovery rate of con- ventional oil (blue), measured in billion bar- rels (Gbbl) discovered each year [48]. The red curve shows annual global consump- tion of conventional crude oil. Until about 1985, we tended to discover more oil than we used each year, but the rate of discovery peaked decades ago and is now in decline as we complete the job of exploring Earth's re- sources. The blue area is made equal to area under the red curve, which itself represents the amount of oil used to date. This effec- tively means that we have used all the oil discovered up to 1976, and are now left with a dwindling bank account (oil reserve)—our annual income (new discovery) being less than our spending (consumption). 
+Figure 8.7: Historical discovery rate of con- ventional oil (blue), measured in billion bar- rels (Gbbl) discovered each year [^48]. The red curve shows annual global consump- tion of conventional crude oil. Until about 1985, we tended to discover more oil than we used each year, but the rate of discovery peaked decades ago and is now in decline as we complete the job of exploring Earth's re- sources. The blue area is made equal to area under the red curve, which itself represents the amount of oil used to date. This effec- tively means that we have used all the oil discovered up to 1976, and are now left with a dwindling bank account (oil reserve)—our annual income (new discovery) being less than our spending (consumption). 
 years remaining 
 140 
 120 
@@ -612,7 +612,7 @@ year
 Gbbl per year 
 Something unexpected happened next, which may serve as a cautionary tale to those who might attempt confident predictions of the future. The "fracking" boom opened access to "tight" oil deposits that were previously untenable for conventional drilling. The history is shown in Figure 8.10. 
 How long will the fracking boom last? One aspect to appreciate is that conventional wells take something like a decade to fully "develop,"63 and even after individually peaking continue to deliver at diminishing rates for many years. Notice the approximate symmetry of the curve64 in Figure 8.10 and its slow decline phase prior to 2010. Fracking "plays"65 are fast: once the small region has been fractured and pumped, the whole process can be over in a matter of a few years. Thus it is certainly possible that the fracking boom on the right-hand-side of Figure 8.10 will end as abruptly as it started the easy plays being exploited first, leaving less productive fields to round out the declining phase of this boom. In any case, declaring the current state of oil production in the U.S. to represent a "new normal" seems premature. 
-Figure 8.10: U.S. oil production history (blue; from [49]) and consumption history (red; from [34]), in both million barrels per day (left axis) and billion barrels per year (right). The conventional production peak is visible around 1970, a second peak around 1985 from Prudhoe Bay in Alaska, and fi- nally a dramatic upturn due to hydraulic fracturing practices in the last decade. The gap between blue and red curves is made up by imports. The downturn in fracking pro- duction in 2020 coincides with the COVID pandemic, so it is not clear whether U.S. oil production will resume the climb or if we are past the peak. 
+Figure 8.10: U.S. oil production history (blue; from [^49]) and consumption history (red; from [^34]), in both million barrels per day (left axis) and billion barrels per year (right). The conventional production peak is visible around 1970, a second peak around 1985 from Prudhoe Bay in Alaska, and fi- nally a dramatic upturn due to hydraulic fracturing practices in the last decade. The gap between blue and red curves is made up by imports. The downturn in fracking pro- duction in 2020 coincides with the COVID pandemic, so it is not clear whether U.S. oil production will resume the climb or if we are past the peak. 
 
 [^63]: By develop, we mean populate the de- posit with multiple drill sites and pumps. 
 

@@ -59,20 +59,20 @@ efficiency is calculated as the ratio of output to input: about 2% in this case.
 Biological mass, or biomass, has long been utilized to supplement our energy needs, via controlled use of fire starting hundreds of thousands of years ago. Burning wood or other plant matter, and in some places dried animal feces counts as utilization of biomass. Wood provides about 4 kcal of energy per gram when burned, or about 16 MJ/kg-much like proteins or carbohydrates in our diet. Burning of biomass is most typically used for heating and cooking within individual homes.
 Example 14.2.1 A 10 kg bundle of dry firewood is used to heat a home that requires 4,000 W to stay warm. How long will the wood last?8
 Every gram of wood has 4 kcal or about 16 kJ of energy. We get 4,000 W by burning one gram every 4 seconds: 16 kJ/4 s is 4 kW. Each kilogram will therefore take about 4,000 s (a little over an hour) and the whole bundle will be gone after 11 hours.
-In the U.S. in 2018, 2.36 qBtu of the 101.25 qBtu total came from burning wood, and an additional 0.5 qBtu came from incinerating waste products [34]. Thus about 2.8% (0.1 TW) of U.S. energy comes from biomass. Out of the 11.41 qBtu of all renewables in 2018, biomass accounted for 25% of the U.S. renewable budget."
+In the U.S. in 2018, 2.36 qBtu of the 101.25 qBtu total came from burning wood, and an additional 0.5 qBtu came from incinerating waste products [^34]. Thus about 2.8% (0.1 TW) of U.S. energy comes from biomass. Out of the 11.41 qBtu of all renewables in 2018, biomass accounted for 25% of the U.S. renewable budget."
 Globally, biomass use is estimated to be more important, at 6%,10 constituting more than a third of global renewable resources (Fig. 7.8; p. 109). The high use of biomass in the wider world is a reflection on the difference between developed countries like the U.S. and developing countries that are more likely to rely on more primitive forms of energy like firewood and animal dung. Since most biomass around the world is burned for individual use, emissions controls are essentially non-existent, resulting in high levels of pollution-smoke and harmful chemicals that would be scrubbed out of a power plant's exhaust.11
 6:
 such as cow dung
 7: Fats and hydrocarbons like fossil fuels are 2-3 times more energy dense.
 8: ... assuming a wood stove or other effi- cient device to prevent most heat from just escaping through the chimney
-[34]: U.S. Energy Inform. Administration (2011), Annual Energy Review
+[^34]: U.S. Energy Inform. Administration (2011), Annual Energy Review
 9: ... while 23% was hydro; 22% was wind; 20% were biofuels, 8% was solar, and 2% was geothermal; see Table 10.3 (p. 170)
 10: ... down considerably from ~25% in 1950
 11: Note that CO2 is common to both, and is not scrubbed out of power plant exhaust, comprising the bulk of the emissions.
 Box 14.3: Life is Thin and Precious
-The total mass of living organisms on Earth is estimated to be about 2 trillion tons [94]. Having a density similar to that of water, 2x 1015 kg, if spread uniformly around the planet, would stack to 4 mm high! Put another way, a random line projecting upward from the surface of the earth would go through about 4 mm of living matter, on average. That's a pretty thin shell of life!
+The total mass of living organisms on Earth is estimated to be about 2 trillion tons [^94]. Having a density similar to that of water, 2x 1015 kg, if spread uniformly around the planet, would stack to 4 mm high! Put another way, a random line projecting upward from the surface of the earth would go through about 4 mm of living matter, on average. That's a pretty thin shell of life!
 If we tried to substitute our 18 TW global power demand by burning
-[94]: Elhacham et al. (2020), "Global human-made mass exceeds all living biomass"
+[^94]: Elhacham et al. (2020), "Global human-made mass exceeds all living biomass"
 
 12
 biological matter,12 we would run through all the currently-living mass-land and sea-in a short 15 years!
@@ -82,7 +82,7 @@ pace planet.
 12: About a quarter of the biomass is "dry" combustible material, at about 4 kcal/g.
 14.3 Biofuels
 Biofuels deserve their own category because the origins and end uses are different enough to warrant distinction. While the biomass sources from Section 14.2 tend to be in solid form, biofuels as treated here are liquid. Liquid fuels are instantly a big deal because they have the energy density and versatility to be used in transportation applications. An airplane can't very well fly on firewood, hydroelectricity, solar, wind, ocean currents, geothermal, or nuclear energy.13 matter. Biofuels therefore occupy a special place in the pantheon of renewable resources as the most obvious viable replacement for petroleum-the dominant fossil fuel responsible for 92%14 of transportation in the U.S.
-In the U.S. in 2018, 2.28 qBtu (2.3%; 0.08 TW) came from biofuels [34], which is very similar to the amount from biomass (wood, waste). Out of the 11.41 qBtu of all renewables, biofuels account for 20% of the U.S. renewable budget (Table 10.3; p. 170).
+In the U.S. in 2018, 2.28 qBtu (2.3%; 0.08 TW) came from biofuels [^34], which is very similar to the amount from biomass (wood, waste). Out of the 11.41 qBtu of all renewables, biofuels account for 20% of the U.S. renewable budget (Table 10.3; p. 170).
 Most prominently, ethanol is the chief biofuel, accounting for about 80% of the total. It is an alcohol that can be produced by fermenting the photosynthetically-produced sugars in the plant and then distilling the result.15 Structurally, ethanol is very similar to ethane16 except that the terminating hydrogen on one end of the chain is replaced by a hydroxyl group (OH; shown in Figure 14.3).
 Though it is not necessary to fully understand the chemistry,17 combus- tion of ethanol-for comparison to the fossil fuel reactions in Eq. 8.1 (p. 121) goes according to
 C2H5OH + 202 → 2CO2 + 3H2O + 29.7kJ/g.
@@ -91,7 +91,7 @@ In other words, ethanol combines with oxygen via combustion (burning) producing 
 The energy density works out to 7.1 kcal/g, which is considerably lower than octane (representing gasoline) at 11.5 kcal/g (Table 8.2; p. 121). In terms of CO2 production, the reaction generates 88 g of CO2 for each 46 g of ethanol, coming to 1.9 g/g-which is lower than the 3.09 factor
 13: See, for instance, Box 13.3 (p. 212) and Box 17.1 (p. 290).
 14: Another 5% is from biofuels, usually blended into gasoline.
-[34]: U.S. Energy Inform. Administration (2011), Annual Energy Review
+[^34]: U.S. Energy Inform. Administration (2011), Annual Energy Review
 15:...also how "moonshine" alcohol is
 made
 16: .C2H6: the second in the alkane se- quence of methane, ethane, propane, bu- tane,..., octane, etc.
@@ -126,11 +126,11 @@ As another example, we might use coal to process biofuels, in effect converting 
 232
 using oil as the energy source for the original exploration, building the equipment, running the drill, and collecting/storing the product. An EROEI of 100:1 means that for
 every barrel of oil that goes into the process, 100 barrels come out. That's a good deal. A high EROEI means nearly "free" energy: low effort for high reward.
-As we progress to more challenging oil resources, 21 the EROEI drops- now around 10-15:1 for conventional oil and as low as 3:1 for tar sands [95]. Table 14.1 provides one set of EROEI estimates for various sources. Note that estimates vary due to difficulties in proper accounting of all energy inputs, so don't take these numbers literally-just as approximate guides.
+As we progress to more challenging oil resources, 21 the EROEI drops- now around 10-15:1 for conventional oil and as low as 3:1 for tar sands [^95]. Table 14.1 provides one set of EROEI estimates for various sources. Note that estimates vary due to difficulties in proper accounting of all energy inputs, so don't take these numbers literally-just as approximate guides.
 21: ... deep water, fracking, tar sands
-[95]: Hall et al. (2014), "EROI of different fuels and the implications for society"
+[^95]: Hall et al. (2014), "EROI of different fuels and the implications for society"
 EROEI Est.
-Table 14.1: EROEI estimates for various sources [96]. For example, Wind has an estimated EROEI of 20:1. See Table 7.1 (p. 106) for a refresher on how much en- ergy we get from various sources. Canada and Venezuela tend to have heavy oil de-
+Table 14.1: EROEI estimates for various sources [^96]. For example, Wind has an estimated EROEI of 20:1. See Table 7.1 (p. 106) for a refresher on how much en- ergy we get from various sources. Canada and Venezuela tend to have heavy oil de-
 posits.
 Source
 EROEI Est. Source
@@ -184,15 +184,15 @@ as the input to extract more
 
 14 Biological Energy
 234
-food energy consumed [97]. In a sense, we are eating27 our fossil fuels! It also points to an EROEI of 0.1:1, which is well below break-even. Obviously in times prior to fossil fuels, when we used human and animal labor in our agricultural pursuits, an EROEI less than 1:1 would spell starvation: more energy going in than was recouped from the land. Today, fossil fuels give us a temporary exception, so that we can afford to lose useful energy in the bargain, turning 10 units of fossil fuel energy into one unit that we eat. We might view this as a negative aspect of the Green Revolution.
+food energy consumed [^97]. In a sense, we are eating27 our fossil fuels! It also points to an EROEI of 0.1:1, which is well below break-even. Obviously in times prior to fossil fuels, when we used human and animal labor in our agricultural pursuits, an EROEI less than 1:1 would spell starvation: more energy going in than was recouped from the land. Today, fossil fuels give us a temporary exception, so that we can afford to lose useful energy in the bargain, turning 10 units of fossil fuel energy into one unit that we eat. We might view this as a negative aspect of the Green Revolution.
 14.3.2 EROEI of Biofuels
-Various estimates exist for the EROEI for different biofuels. Unfortunately for the U.S., the corn ethanol industry is estimated to have an EROEI of anywhere from 0.8:1 to 1.6:1. The former would mean it's a net loss of energy, and that we would have more energy available if we did not spend any of it trying to get ethanol from corn. Biodiesel (a non-ethanol biofuel produced from vegetable oils or animal fat) is estimated to have an EROEI of 1.3:1 [98]. Sugar cane may be anywhere from 0.8:1 to 10:1 [99] (see Table 14.2).
+Various estimates exist for the EROEI for different biofuels. Unfortunately for the U.S., the corn ethanol industry is estimated to have an EROEI of anywhere from 0.8:1 to 1.6:1. The former would mean it's a net loss of energy, and that we would have more energy available if we did not spend any of it trying to get ethanol from corn. Biodiesel (a non-ethanol biofuel produced from vegetable oils or animal fat) is estimated to have an EROEI of 1.3:1 [^98]. Sugar cane may be anywhere from 0.8:1 to 10:1 [^99] (see Table 14.2).
 To explore an example of how this all plays out, let's say that corn ethanol provides an EROEI of 1.2:1-in the middle of the estimated range. This means that in order to get 1.2 units of energy out, one unit has to go
 in. Or for every 6 units out, 5 go in. If we use that same resource as the energy input-in other words, we use corn ethanol as the energy input to grow, harvest, distill, and distribute corn ethanol-then we get to "keep" one unit for external use out of every 6 units produced. For the U.S. to replace its 37 qBtu/yr oil habit with corn ethanol, it would take six times this much, or 220 qBtu (2.3 x 1020 J) of corn ethanol production each year.
 If the growing season is 5 months, the solar input is 250 W/m2 on average, and the corn field is 1.5% efficient at turning sunlight into chemical energy, then each square meter of corn-land produces 4.9 x 107 J of energy28 and we would therefore need about 5 x 1012 m2 of land for corn. This is an area 2,200 km on a side (Figure 14.4)! The U.S. does not possess this much arable land (estimated at about 30% of this). About 4 x 1011 m2 of land in the U.S. is currently used for corn production, which is 8% of what would be needed. And of course we must still feed ourselves. In 2018, 31% of U.S. corn production went into ethanol. We would somehow need to ramp corn ethanol production up by a factor of 40 to derive our current liquid fuels from corn in a self-sufficient way. Don't expect to see this fantasy materialize.
 Box 14.5: Why Do Corn Ethanol?
 If corn ethanol has such low EROEI, why is it pursued in the U.S.?
-[97]: Pfeiffer (2006), Eating Fossil Fuels
+[^97]: Pfeiffer (2006), Eating Fossil Fuels
 or at least subsidizing the energy
 27:
 Table 14.2: Summary: EROEI of biofuels.
@@ -205,8 +205,8 @@ EROEI
 1.3
 0.8-1.6
 0.13-0.71
-[98]: Pimentel et al. (2005), "Ethanol production using corn, switchgrass, and wood; biodiesel production using soybean and sunflower"
-[99]: Murphy et al. (2011), "Order from Chaos: A Preliminary Protocol for Deter- mining the EROI of Fuels"
+[^98]: Pimentel et al. (2005), "Ethanol production using corn, switchgrass, and wood; biodiesel production using soybean and sunflower"
+[^99]: Murphy et al. (2011), "Order from Chaos: A Preliminary Protocol for Deter- mining the EROI of Fuels"
 Figure 14.4: Area of corn growth needed to displace U.S. petroleum demand if at EROEI of 1.2:1. This is far larger than agriculturally productive land in the U.S.
 28: 150 days times 86,400 seconds per day times 250 W/m2 times 0.015 gives Joules per square meter produced.
 
@@ -223,12 +223,12 @@ compromised by low EROEI if using fossil-fuel inputs to run production
 Upshot for Biomass and Biofuels
 Wood has always provided a source of heat for people, and will continue to do so. Its use occupied a much higher fraction of energy resources hundreds of years ago before being supplanted by fossil fuels. Still, several percent of U.S. energy comes from wood (and over 5% globally). Wood represents a renewable resource that can often be locally obtained, and will likely continue steady use, potentially assuming a greater fraction again if overall energy expenditure declines.
 31
-Biofuels are special due to their liquid nature, as a potential replacement for oil to drive transportation. Because photosynthesis is not terribly efficient, and the EROEI of biofuels tends to be on the low side, the amount of land needed to replace petroleum is anywhere from daunting to prohibitive. This is even before addressing the crunch an extensive expansion would place on water resources or food supply, or the degra- dation of arable land that may result from depleting nutrients in the soil. Algae may represent another approach, but so far the process appears to be well below break-even in terms of EROEI (from 0.13-0.71:1 [100]). It is difficult to see a meaningful path forward for wholesale replacement of liquid fuels using biological resources.
+Biofuels are special due to their liquid nature, as a potential replacement for oil to drive transportation. Because photosynthesis is not terribly efficient, and the EROEI of biofuels tends to be on the low side, the amount of land needed to replace petroleum is anywhere from daunting to prohibitive. This is even before addressing the crunch an extensive expansion would place on water resources or food supply, or the degra- dation of arable land that may result from depleting nutrients in the soil. Algae may represent another approach, but so far the process appears to be well below break-even in terms of EROEI (from 0.13-0.71:1 [^100]). It is difficult to see a meaningful path forward for wholesale replacement of liquid fuels using biological resources.
 A final perspective is that the total biological scale on the planet is estimated to be 100 TW (Table 10.2; p. 168), which is not outrageously
 more
 e32 than the current 18 TW scale of the human endeavor. Can we really imagine commandeering 20% of all life on Earth to serve our energy needs? It would actually need to be substantially more than this, given EROEI limits. It may be that Earth does not possess enough biology to offer a substitute for our current fossil fuel appetite-even if we tried to use it all.
 31: ... subject to availability in the face of deforestation
-[100]: Saad et al. (2019), "Algal Biofuels: Current Status and Key Challenges"
+[^100]: Saad et al. (2019), "Algal Biofuels: Current Status and Key Challenges"
 32: compared to solar or wind budgets, for instance, which are 5,000 times and 50 times our demand-not just 5 times as is the case for all biology
 
 We conclude by listing some pros and cons for biologically-derived energy, beginning with the advantageous aspects:

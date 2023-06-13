@@ -18,7 +18,7 @@ Describing an analogous scale model of the solar system, galaxy, and universe as
 
 [^1]: To quote Carl Sagan, extraordinary claims require extraordinary evidence. 
 The convention is to capitalize Earth when it is used as a proper name, and refer to the earth when it is an object. Similar rules apply to Moon and Sun. 
-Photo credit: NASA/Bill Anders from Apollo 8 [22]. 
+Photo credit: NASA/Bill Anders from Apollo 8 [^22]. 
 
 4 Space Colonization 
 55 
@@ -115,9 +115,9 @@ Proxima Centauri
 for a second that humans have never ventured farther from Earth than the moon, at 3 cm (just over an inch) in this scale. Mars is outlandishly farther. Neptune is about four-tenths of a kilometer away (on campus at this scale), and the next star is over 3,000 km (roughly San Diego to Atlanta). So we've already busted our easy intuitive reckoning and we haven't even gotten past the first star. Furthermore, this was starting with the earth as a tiny grain of sand. We've only ever traveled two- finger-widths away from Earth on this scale, and the next star is like going on a giant trip across the country. For apples-to-apples, compare how long it takes to walk a distance of two-finger-widths (3 cm) to the time it would take to walk across the U.S. The former feat of traveling to the moon was super-hard; the latter is comparatively impossible. 
 Box 4.1: When Will We Get There? 
 8 
-It took 12 years for Voyager 2 to get to Neptune, which is "in our back yard." The only spacecraft to date traveling fast enough to leave the solar system are the two Voyagers, the two Pioneers, and the New Horizons probe [23]. The farthest and fastest of this set is Voyager 1 at about 150 times the Earth-Sun distance after 43 years. The closest star is about 2,000 times farther. At its present speed of 17 km/s, it would reach the distance to the nearest star in another 75,000 years. 
+It took 12 years for Voyager 2 to get to Neptune, which is "in our back yard." The only spacecraft to date traveling fast enough to leave the solar system are the two Voyagers, the two Pioneers, and the New Horizons probe [^23]. The farthest and fastest of this set is Voyager 1 at about 150 times the Earth-Sun distance after 43 years. The closest star is about 2,000 times farther. At its present speed of 17 km/s, it would reach the distance to the nearest star in another 75,000 years. 
 The fastest spacecraft on record as yet is the Parker Solar Probe, which got up to a screaming 68.6 km/s, but only because it was plunging (falling) around the sun. Because it was so close to the sun, even this amount of speed was not enough to allow it climb out of the sun's gravitational grip and escape, as the five aforementioned probes managed to do. Even if Voyager 1 ended up with 70 km/s left over after breaking free of the solar system,[^10] it would still take 20,000 years to reach the distance to the nearest star. Note that human lifetimes are about 200 times shorter. 
-Pushing a human-habitable spacecraft up to high speed is immensely harder than accelerating these scrappy little probes, so the challenges are varied and extreme. For reference, the Apollo missions to the very nearby Moon carried almost 3,000 tons of fuel [24], or about. 80,000 times the typical car's gasoline tank capacity. It would take 
+Pushing a human-habitable spacecraft up to high speed is immensely harder than accelerating these scrappy little probes, so the challenges are varied and extreme. For reference, the Apollo missions to the very nearby Moon carried almost 3,000 tons of fuel [^24], or about. 80,000 times the typical car's gasoline tank capacity. It would take 
 Table 4.2: Symbols, relative sizes, and dis- tances in the solar system and to the nearest star. An AU is an Astronomical Unit, which is the average Earth-Sun distance of about 150 million kilometers. The fact that both the sun and moon are 240 of their radii away from Earth is why they appear to be a similar size on the sky, leading to "just so" eclipses. 
 
 [^7]: For this, picture a grain of sand sitting on the bridge of your nose representing the earth, and a speck of dust in front of one eye as the moon. 
@@ -125,12 +125,12 @@ Glance over to where Mars would be if the earth is a grain of sand on
 your nose. 
 
 [^8]: The last time we went this far was 1972. 
-[23]: (2020), List of artificial objects leaving the Solar System 
+[^23]: (2020), List of artificial objects leaving the Solar System 
 
 [^9]: It does not happen to be aimed toward the nearest star, however. 
 
 [^10]: It only had 17 km/s left. 
-[24]: (2020), Saturn V 
+[^24]: (2020), Saturn V 
 
 a typical car 2,000 years to spend this much fuel. Do you think the astronauts argued about who should pay for the gas? 
 Let's relax the scale slightly, making the sun a chickpea (garbanzo bean). Earth is now the diameter of a human hair (easy to lose), and one meter from the sun. The moon is essentially invisible and a freckle's-width away from the earth. The next star is now 300 km away (a 3-hour drive at freeway speed), while the Milky Way center is 1.5 million kilometers away. Oops. This is more than four times the actual Earth-Moon distance. We busted our scale again without even getting out of the galaxy. 
@@ -146,7 +146,7 @@ Box 4.2: Cosmic Scales
 It is not necessary to harp further on the vastness of space, but having come this far some students may be interested in completing the visualization journey. 
 As mind-bogglingly large as the solar system is, not to mention that it itself is dwarfed by interstellar distances, which in turn are minuscule compared to the scale of the galaxy, how can we possibly appreciate the largest scales in the universe? Let's start by making galaxies manageable. If galaxies are like coins (say a U.S. dime at approximately 1 cm diameter), they are typically separated by meter- like scales. The edge of the visible universe (see Sec. D.1; p. 392) would be only 1.5 km away. Finally, the picture is easy to visualize: coins as galaxies separated by something like arm's length and extending over an area like the center of a moderately-sized town. We can even imagine the frothy, filamentary arrangement of these galaxies, containing house-sized (5–50 m) voids empty of coins (galaxies). See Figure 4.3 for a visual explanation. 
 But penetrating the nature of the individual galaxies (coins, in the previous example scale) is extremely daunting: they are mostly empty space, and by the time we reduce the galaxy to a manageable scale (say 10 km, so that we can picture the whole thing as city-sized), individual stars are a few tenths of a meter apart and only about 50 atoms across (roughly 10 nm). Cells and bacteria are about 100-1,000 times larger than this. So it's nearly impossible to conceive of the scale of the galaxy while simultaneously appreciating the sizes of the stars and just how much space lies between. 
-Figure 4.3: Galaxies are actually distributed in a frothy foam-like pattern crudely lining the edges of vast bubbles (voids; appearing as dark regions in the image). This structure forms as a natural consequence of gravity as galaxies pull on each other and coalesce into groups, leaving emptiness between. This graphic shows the bubble edges and filaments where galaxies collect. The larger galaxies are bright dots in this view-almost like cities along a 3-dimensional web of highways through the vast emptiness. From the Millennium Simulation [25]. 
+Figure 4.3: Galaxies are actually distributed in a frothy foam-like pattern crudely lining the edges of vast bubbles (voids; appearing as dark regions in the image). This structure forms as a natural consequence of gravity as galaxies pull on each other and coalesce into groups, leaving emptiness between. This graphic shows the bubble edges and filaments where galaxies collect. The larger galaxies are bright dots in this view-almost like cities along a 3-dimensional web of highways through the vast emptiness. From the Millennium Simulation [^25]. 
 
 4 Space Colonization 
 58 
@@ -197,7 +197,7 @@ Before turning attention to what we have not yet done in space, students may app
 [^1972]: Apollo 17 (U.S.) is the last human mission to the moon; only 12 people have walked on another solar system body, the last about 50 years ago. 
 ► 1973-now: as of this writing (2020), humans have not ventured farther than about 600 km from Earth's surface (called low earth orbit, or LEO; see Figure 4.4) since the end of the Apollo missions. 
 ► 1981-2011: U.S. operates the Space Shuttle, envisioned to make space travel routine. After 135 launches (two ending in catastro- phe), the shuttle was retired, leaving the U.S. with no human space launch capacity. 
-‣ 1998-now: The International Space Station (ISS) [30] provides an experimental platform and maintains a presence in space. It is only 400 km from Earth's surface (4-hour driving distance), and despite its misleading name is not used as a space-port hub for travel. It is the destination. 
+‣ 1998-now: The International Space Station (ISS) [^30] provides an experimental platform and maintains a presence in space. It is only 400 km from Earth's surface (4-hour driving distance), and despite its misleading name is not used as a space-port hub for travel. It is the destination. 
 space 
 4 Space Colonization 
 59 
@@ -205,7 +205,7 @@ One "win" some imagine from space is access to materials. Yet Earth is already w
 ISS 
 HST 
 Figure 4.4: The pink band indicates the farthest humans have been from the surface of the earth for the last 50 years. The Hubble Space Telescope (HST) orbits at the top of this band at 600 km altitude, and the International Space Station in the middle at 400 km. Beyond the thin black line outlining the globe, Earth's atmosphere is too tenuous to support life. 
-[30]: (2020), International Space Station 
+[^30]: (2020), International Space Station 
 
 ## 4.3 A Host of Difficulties 
 If undeterred by the vast emptiness, hostile conditions, or lack of human- supporting resources in space, then maybe it's because you believe 
@@ -221,7 +221,7 @@ from cosmic rays;1
 year in low gravity environments; 
 5. Resource extraction for in-situ construction materials; 6. Closed-system sustainable ecosystem maintenance; 7. Anything close to terraforming (see below). 
 It would be easier to believe in the possibility of space colonization if we first saw examples of colonization of the ocean floor.[^20] Such an environ- ment carries many similar challenges: native environment unbreathable; large pressure differential; sealed-off self-sustaining environment. But an ocean dwelling has several major advantages over space, in that food is scuttling/swimming just outside the habitat; safety/air is a short distance away (meters); ease of access (swim/scuba vs. rocket); and all the resources on Earth to facilitate the construction/operation (e.g., Home Depot not far away). 
-Building a habitat on the ocean floor would be vastly easier than trying to do so in space. It would be even easier on land, of course. But we have not yet successfully built and operated a closed ecosystem on land! A few artificial "biosphere" efforts have been attempted, but met with failure [31]. If it is not easy to succeed on the surface of the earth, how can we fantasize about getting it right in the remote hostility of space, lacking easy access to manufactured resources? 
+Building a habitat on the ocean floor would be vastly easier than trying to do so in space. It would be even easier on land, of course. But we have not yet successfully built and operated a closed ecosystem on land! A few artificial "biosphere" efforts have been attempted, but met with failure [^31]. If it is not easy to succeed on the surface of the earth, how can we fantasize about getting it right in the remote hostility of space, lacking easy access to manufactured resources? 
 4 Space Colonization 60 
 
 [^18]: The last Apollo landing was in 1972. 
@@ -230,7 +230,7 @@ Building a habitat on the ocean floor would be vastly easier than trying to do s
 
 [^20]: Even just 10 meters under the surface! 
 This is not to advocate ocean floor habi- tation as a good idea; it is merely used to illustrate that space habitation is an even less practical idea, by far. 
-[31]: (2020), Biosphere 2 
+[^31]: (2020), Biosphere 2 
 On the subject of terraforming, consider this perspective. Earth right now has a problem of excess CO2 as a result of fossil fuel combustion (the subject of Chapter 9). The problem has flummoxed our economic and political systems, so that not only do we seem to be powerless to revert to pre-industrial CO2 levels, but even arresting the annual increase in emissions appears to be beyond our means. Pre-industrial levels of CO2 measured 280 parts per million (ppm) of the atmosphere, which we will treat as the normal level. Today's levels exceed 400 ppm, so that the modification is a little more than 100 ppm, or 0.01% of our atmosphere.[^21] Meanwhile, Mars' atmosphere is 95% CO2. So we might say that Earth has a 100 ppm problem, but Mars has essentially a million part-per- million problem. On Earth, we are completely stymied by a 100 ppm 
 CO2 increase while enjoying access to all the resources available to us on the planet. Look at all the infrastructure available on this developed world and still we have not been able to reverse or even stop the CO2 increase. How could we possibly see transformation of Mars' atmosphere into habitable form as realistic, when Mars has zero infrastructure to support such an undertaking? We must be careful about proclaiming notions to be impossible, but we can be justified in labeling them as outrageously impractical, to the point of becoming a distraction to discuss. Figure 4.5 further illustrates the giant gap between tolerable conditions and actual atmospheres on offer in the solar system. 
 We also should recall the lesson from Chapter 1 about exponential growth, and how the addition of another habitat had essentially no effect on the overall outcome, aside from delaying by one short doubling time. Therefore, even if it is somehow misguided to discount colonization of another solar system body, who cares? We still do not avoid the primary challenge facing humanity as growth slams into limitations in a finite world (or even finite solar system, if it comes to that). 
@@ -280,7 +280,7 @@ responses.
 1. How long before we live on other planets? 
 Maybe never.[^24] The staggering distances involved mean that our own solar system is effectively the only option. Within the solar system, Mars is the most hospitable body-meaning we might live as long as two minutes without life support. By com- parison, Antarctica and the ocean floor are millions of times more practical, yet we do not see permanent settlements there.[^25] 
 2. What is the status of searches for other planets to colonize? 
-We understand our solar system pretty well. No second homes stand out. We have detected evidence for thousands of planets around other stars [32], but do not yet have the sensitivity to detect the presence of earth-like rocks around most stars. It is conceivable that we will have identified Earth analogs in the coming decades, but they will give new meaning to the words "utterly" and "inaccessible." 
+We understand our solar system pretty well. No second homes stand out. We have detected evidence for thousands of planets around other stars [^32], but do not yet have the sensitivity to detect the presence of earth-like rocks around most stars. It is conceivable that we will have identified Earth analogs in the coming decades, but they will give new meaning to the words "utterly" and "inaccessible." 
 3. Haven't we benefited from space exploration in the technology 
 spin-offs, like wireless headsets and artificial limbs? 
 No doubt! The benefits have been numerous, and I would never characterize our space efforts to date as wasted effort. It's just that what we have done so far in space does not mean that colonization is in any way an obvious or practical next step. Actually, the banner image for this chapter from the Apollo 8 mission captivated the world and made our fragile shell of life seem all the more precious. So perhaps the biggest benefit to our space exploration will turn out to be a profound appreciation for and attachment to Earth! 
@@ -289,7 +289,7 @@ No doubt! The benefits have been numerous, and I would never characterize our sp
 nature. 
 
 [^25]: Staffed research stations are not the same as human settlements, in the case of Antarctica. 
-[32]: IPAC/NASA (2020), NASA Exoplanet Archive 
+[^32]: IPAC/NASA (2020), NASA Exoplanet Archive 
 
 ## 4.5 Upshot: Putting Earth First 
 The author might even go so far as to label a focus on space colonization in the face of more pressing challenges as disgracefully irresponsible. Diverting attention in this probably-futile26 effort could lead to greater total suffering if it means not only mis-allocation of resources but perhaps 
@@ -350,13 +350,13 @@ even if they do not bear directly on colonization aims.
 14. In the enumerated list beginning on page 60, which item is most 
 surprising to you as not-yet accomplished, and why? 
 15. List three substantive challenges that prevented successful long- 
-term operation of the artificial biosphere project [31]. 
+term operation of the artificial biosphere project [^31]. 
 16. Since Figure 4.5 spans the range of atmospheres found in our solar system, we can imagine how likely it would be that a random planet might happen to be livable for humans. 32 Imagine throwing a dart at the diagram to get a random instance. How likely are we to hit the comfort zone of Earth, by your estimation? 
 17. Come up with three examples (not repeating items in the text) of 
 feats that are technically possible, but not common or practical. 
 18. For some perspective, imagine you were able to drive your car up a ramp to an altitude characteristic of low-earth orbit (about 320 km, or 200 miles). It takes about 5 x 1010 J of energy33 to win the fight against gravity. Meanwhile, each gallon of gasoline can do about 25 x 106 J of useful work. How many gallons would it take to climb to orbital height in a car? Roughly how many miles per gallon is this (just counting vertical miles)? 
 19. In Problem 18, we ignored the energy required to provide the substantial orbital speed (~ 8 km/s, but will not need), which essentially doubles the total energy.[^34] How much gasoline will it now take, and how massive is the fuel if gasoline is 3 kg per gallon, compared to the 1,500 kg mass of the car? 
-[31]: (2020), Biosphere 2 
+[^31]: (2020), Biosphere 2 
 
 [^32]:...just in terms of temperature and pressure; ignoring composition and a host of other considerations! 
 

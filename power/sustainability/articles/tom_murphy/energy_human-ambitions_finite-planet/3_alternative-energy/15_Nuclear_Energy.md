@@ -568,7 +568,7 @@ S. Korea 24 23 16 26 5
 India 22 6 5 3 2
 World-Total 455 393 295 11 100 
 
-Table 15.8: Global nuclear power in 2019 [101], listing number of operational plants, installed capacity, average generation for 2019 (Japan currently has stopped a number of its reactors), percentage of electricity (not total energy), and fraction of global production (these 7 countries accounting for over 75%). Notice the close match between number of plants and GW installed for most countries, indicating that most nuclear plants deliver about 1 GW.
+Table 15.8: Global nuclear power in 2019 [^101], listing number of operational plants, installed capacity, average generation for 2019 (Japan currently has stopped a number of its reactors), percentage of electricity (not total energy), and fraction of global production (these 7 countries accounting for over 75%). Notice the close match between number of plants and GW installed for most countries, indicating that most nuclear plants deliver about 1 GW.
 
 Nuclear plants only last about 50-60 years, after which the material comprising the core becomes brittle from exposure to damaging radioactivity and must be decommissioned.+++(4)+++ The median age of reactors in the U.S. is 40 years, and all but three are over 30 years old. Additional challenges will be addressed in the sections that follow.
 
@@ -603,7 +603,7 @@ Uranium is not particularly abundant. Table 15.9 provides a sense of how prevale
 
 
 [^39]: This follows almost the exact same logic and process as carbon-14 radioactive dating, but using much longer half life nuclei to date Earth's building blocks!
-[103]: (2020), List of Countries by Uranium Reserves
+[^103]: (2020), List of Countries by Uranium Reserves
 
 Element Abund.  
 silicon 282,000  
@@ -697,41 +697,62 @@ As we saw in our description of the fission process, the fragments distribute ov
 
 The lighter of the two fission fragments has a 59% chance of landing on a stable nucleus within a day or so. For the heavier fragment, it's a 45% chance. The rest get hung up on some longer half-life nuclide, and could remain radioactive for a matter of weeks or in some cases millions of years. The colors in the fission probability histograms in Figure 15.15 provide a visual guide for the mass numbers that reach stability promptly (gray) vs. those that get hung up for a long time (blue is more than 10 years). For example, the histogram element at A = 90 is blue because 90Sr-discussed below-stands in the way of a fast path to stability.
 
+{{< figure src="../images/u235_fission_decay-activity.png" title="" class="thumbnail">}}
+
+Figure 15.19:  
+Decay activity of fragments from 1 kg of fissioned 235U over time, on a log-log plot. The vertical axis is the power of radioactive emission, in W, for a variety of relevant isotopes-each having their own characteristic half life. The black line at the top is the total activity (sum of all contributions), and some of the key individuals are separated out. The dashed line for actinides is an approximate representative indicator of the role played by heavy nuclides formed in the reactor by uranium absorption of neutrons. Minor tick marks are at multipliers of 2, 4, 6, and 8 for each axis. As a matter of possible interest, the exponential decays of each element on this log-log plot have the functional form of exponential curves drawn upside-down.
+
 Figure 15.19 shows how the fission decays play out over time. For the first month or so out of the reactor, the spent fuel is really "hot" radioactively, but falls quickly as 95Zr and then 144 Ce dominate around one year out. At about 5 years, the pair of 90Sr and 137Cs begin to dominate the output for the next few-hundred years. Some of the products survive for millions of years, albeit at low levels of radioactive power. In addition to the daughter fragments, uranium in the presence of neutrons transmutes into neptunium, plutonium, americium, and curium via neutron absorption and subsequent β decays, represented approximately and collectively in Figure 15.19 by a dashed curve labeled Actinides. [^47]
 
-The bottom line is that fission leaves a trash heap of radioactive waste that remains at problematic levels for many thousands of years. When nuclear reactors were first built, they were provisioned with holding tanks deep pools of water-in which to place the waste fuel until a more permanent arrangement could be sorted out (Figure 15.20). We are still waiting for an adequate permanent solution for waste storage, and the "temporary" pools are just accumulating spent fuel. Transporting the spent fuel is hazardous-in part because it could fall into the wrong hands and be used to make "dirty" bombs—and no one wants a nuclear waste facility in their backyard, making the problem politically thorny. On the technical side, it is difficult to identify sites that are geologically stable enough and have little chance of groundwater contamination. Underground salt domes offer an interesting possibility, but political challenges remain daunting.
-Figure 15.19: Decay activity of fragments from 1 kg of fissioned 235U over time, on a log-log plot. The vertical axis is the power of radioactive emission, in W, for a variety of relevant isotopes-each having their own characteristic half life. The black line at the top is the total activity (sum of all contribu- tions), and some of the key individuals are separated out. The dashed line for actinides is an approximate representative indicator of the role played by heavy nuclides formed in the reactor by uranium absorption of neu- trons. Minor tick marks are at multipliers of 2, 4, 6, and 8 for each axis. As a matter of possible interest, the exponential decays of each element on this log-log plot have the functional form of exponential curves drawn upside-down.
+The bottom line is that fission leaves a trash heap of radioactive waste that remains at problematic levels for many thousands of years. When nuclear reactors were first built, they were provisioned with holding tanks deep pools of water-in which to place the waste fuel until a more permanent arrangement could be sorted out (Figure 15.20). 
 
-[^47]: Breeder reactors can "burn" the ac- tinides, reducing some of the long-term waste threat, but will unavoidably still be left with all the radioactive fission products.
+
+[^47]: Breeder reactors can "burn" the actinides, reducing some of the long-term waste threat, but will unavoidably still be left with all the radioactive fission products.
+
+{{< figure src="../images/spent-fuel-rod-storage-pit.png" title="" class="thumbnail">}}
+
 Figure 15.20: A spent fuel rod being lowered into a storage grid in a pool of water at a nuclear power plant. Source: U.S. DOE.
 
 
-262
-15.4.6 Nuclear Weapons and Proliferation
-Nuclear bombs are the most destructive weapons we have managed to create. The first bombs from the 1940s were based on either highly enriched 235U or on 239Pu. For uranium bombs, the idea is shockingly simple. Two separate lumps of the bomb material are held apart until detonation is desired, at which point they are slammed together.[^48] It's not the collision that creates the explosion, but a runaway process based on having a high concentration of fissile material and no neutron absorbers present to control the resulting chain reaction. The concept is critical mass. The combined lump exceeds the critical mass, and explodes.[^49]
-As simple as nuclear weapons are to build, the bottleneck becomes obtaining fissile material. Plutonium does not exist in nature, since its 24,100 yr half-life means nothing is left over from the astrophysical processes that gave us uranium and thorium (Box 15.4). We only still have the latter two thanks to their long half lives. So fissile material has to start with uranium. But as we have seen, natural uranium is only 0.72% fissile (235U). In order to be explosive, the uranium must be enriched to at least 20% 235U, and generally much higher (85%). Reactor fuel, at 3-5% 235U will experience meltdown if the critical mass is exceeded, but will not explode. Enrichment is technically difficult, and attempts to acquire and enrich uranium are monitored closely. Often we hear of countries pursuing uranium enrichment, claiming that they are only interested in domestic energy production-a peaceful purpose. And it is true that the first step in nuclear power generation is also enrichment. So it is very difficult to ascertain true intentions. Once a country has the ability to enrich uranium enough for a nuclear plant, they can in principle keep the process running longer to arrive at weapons-grade 235U.
-While we worry about 235U falling into the wrong hands, perhaps more disturbing is 239Pu. Having a much shorter half-life than 235U (24 kyr vs. 704 Myr), it is more dangerous to handle.[^50] But plutonium is otherwise easy to deal with, since it requires no enrichment and can be chemically separated to achieve purity. It is the material of choice for nuclear weapons.
+We are still waiting for an adequate permanent solution for waste storage, and the "temporary" pools are just accumulating spent fuel. Transporting the spent fuel is hazardous-in part because it could fall into the wrong hands and be used to make "dirty" bombs—and no one wants a nuclear waste facility in their backyard, making the problem politically thorny. On the technical side, it is difficult to identify sites that are geologically stable enough and have little chance of groundwater contamination. Underground salt domes offer an interesting possibility, but political challenges remain daunting.
 
-Serious pursuit of breeder reactors effectively means manufacturing lots of plutonium, leading to proliferation of nuclear materials: it becomes harder to track and keep away from mal-intentioned groups. The world becomes more dangerous under a breeder program. Thorium breeding (Box 15.5) is less risky in this regard because the 233U prize is mixed with a ridiculously dangerous 232U isotope that puts plutonium to shame, so working with it is pretty deadly, which may deter would-be pursuit of this material by rogue groups.
+[[262]]
 
-A related concern involves proliferation of the abundant radioactive waste from fission plants, which could be mixed into conventional ex- plosives[^51] to radioactively contaminate a city or local region-poisoning 
-
+### 15.4.6 Nuclear Weapons and Proliferation
+Nuclear bombs are the most destructive weapons we have managed to create. The first bombs from the 1940s were based on either highly enriched 235U or on 239Pu. For uranium bombs, the idea is shockingly simple. Two separate lumps of the bomb material are held apart until detonation is desired, at which point they are slammed together.[^48] It's not the collision that creates the explosion, but a runaway process based on having a high concentration of fissile material and no neutron absorbers present to control the resulting chain reaction.+++(5)+++ The concept is critical mass. The combined lump exceeds the critical mass, and explodes.[^49]
 
 [^48]: For plutonium, this process is fouled by the presence of 240 Pu, forcing a different approach in which a sphere below critical mass is imploded to create high density.
 
 [^49]: Never stack lumps of fissile material together on a shelf, or a nasty surprise may be in store.
 
+As simple as nuclear weapons are to build, the bottleneck becomes obtaining fissile material. Plutonium does not exist in nature, since its 24,100 yr half-life means nothing is left over from the astrophysical processes that gave us uranium and thorium (Box 15.4). We only still have the latter two thanks to their long half lives. So fissile material has to start with uranium. But as we have seen, natural uranium is only 0.72% fissile (235U). In order to be explosive, the uranium must be enriched to at least 20% 235U, and generally much higher (85%).+++(5)+++ Reactor fuel, at 3-5% 235U will experience meltdown if the critical mass is exceeded, but will not explode. 
+
+Enrichment is technically difficult, and attempts to acquire and enrich uranium are monitored closely. Often we hear of countries pursuing uranium enrichment, claiming that they are only interested in domestic energy production-a peaceful purpose. And it is true that the first step in nuclear power generation is also enrichment. So it is very difficult to ascertain true intentions. Once a country has the ability to enrich uranium enough for a nuclear plant, they can in principle keep the process running longer to arrive at weapons-grade 235U.
+
+While we worry about 235U falling into the wrong hands, perhaps more disturbing is 239Pu. Having a much shorter half-life than 235U (24 kyr vs. 704 Myr), it is more dangerous to handle.[^50] But plutonium is otherwise easy to deal with, since it requires no enrichment and can be chemically separated to achieve purity. It is the material of choice for nuclear weapons.
+
 [^50]:...much higher rate of radioactive decay
 
+Serious pursuit of breeder reactors effectively means manufacturing lots of plutonium, leading to proliferation of nuclear materials: it becomes harder to track and keep away from mal-intentioned groups. The world becomes more dangerous under a breeder program. 
+
+Thorium breeding (Box 15.5) is less risky in this regard because the 233U prize is mixed with a ridiculously dangerous 232U isotope that puts plutonium to shame, so working with it is pretty deadly, which may deter would-be pursuit of this material by rogue groups.
+
+A related concern involves proliferation of the abundant radioactive waste from fission plants, which could be mixed into conventional explosives[^51] to radioactively contaminate a city or local region-poisoning water, food, and air. In short, nuclear fission carries many perils on a number of fronts.
+
+
 [^51]: ... called a "dirty bomb"
-water, food, and air. In short, nuclear fission carries many perils on a number of fronts.
+
 
 [[263]]
 
 ### 15.4.7 Nuclear Safety
-A properly operating nuclear facility actually emits less radioactivity than does a traditional coal-fired power plant! As is true for many materials mined from the ground, coal contains some small amount of radioactive elements found in the earth's crust: principally thorium, uranium, and potassium. Lacking any shielding or protection, the exhaust from a coal plant distributes these products into the atmosphere. Nuclear plants, by contrast, have no exhaust,[^52] and carefully control the exposure to radioactivity.
+A properly operating nuclear facility actually emits less radioactivity than does a traditional coal-fired power plant!+++(5)+++ As is true for many materials mined from the ground, coal contains some small amount of radioactive elements found in the earth's crust: principally thorium, uranium, and potassium. Lacking any shielding or protection, the exhaust from a coal plant distributes these products into the atmosphere. Nuclear plants, by contrast, have no exhaust,[^52] and carefully control the exposure to radioactivity.
 
 However, things can go wrong. The U.S. had a scare in 1979 when a six-month-old nuclear plant at Three Mile Island in Pennsylvania (Figure 15.21) suffered a loss-of-cooling incident that resulted in severe damage to (meltdown of) the core. But the containment vessel held and no significant radioactivity was released to the environment. Workers at the plant received a dose equivalent to an extra 100 days of natural[^53] exposure. So we dodged a bullet.
+
+{{< figure src="../images/3-mile-island-reactor-cores-cooling-towers.png" title="" class="thumbnail">}}
+
+Figure 15.21: Three Mile Island nuclear plant in Pennsylvania. The two reactor cores are in the foreground of the larger cooling towers behind. Source: U.S. DOE.
 
 Chernobyl was not so lucky in April 1986 when an ill-conceived test went sideways and resulted in an actual explosion of the core. This scenario was previously thought to be impossible, but it was a steam explosion, not a nuclear blast-so more like a "dirty bomb" that scattered radioactive material across the region. Thirty-one people died in the immediate aftermath, and about 200 people got acute radiation sickness. It is estimated that in the long term, 25,000 to 50,000 additional cancer cases will result, but this number is controversial and it is hard to tease Chernobyl-caused cancer/deaths apart from the much larger number of background cancer cases. The town of Chernobyl is still abandoned and only recently has begun to allow strictly limited incursions.
 
@@ -739,8 +760,7 @@ The most recent major accident was the Fukushima Daiichi plant in Japan followin
 
 [^52]: Note that cooling towers often have a plume of water vapor above them, but this is the result of evaporative cooling, and not exhaust in the usual sense.
 
-[^53]: We are unavoidably exposed to radia- tion in our daily lives from air, water, food, Earth, and the cosmos.
-Figure 15.21: Three Mile Island nuclear plant in Pennsylvania. The two reactor cores are in the foreground of the larger cooling towers behind. Source: U.S. DOE.
+[^53]: We are unavoidably exposed to radiation in our daily lives from air, water, food, Earth, and the cosmos.
 
 [^54]: ... within 10 minutes of the earthquake
 
@@ -752,141 +772,175 @@ Collecting the advantages and disadvantages of fission, we start with the positi
 
 - Nuclear fuel has extraordinary energy density, about a million times better than chemical energy density;
 - Nuclear fission is proven technology providing a substantial fraction of electrical energy at present;
-- Life-cycle CO2 emissions for nuclear fission is only 2% that of traditional fossil fuel electricity [68];
+- Life-cycle CO2 emissions for nuclear fission is only 2% that of traditional fossil fuel electricity [^68];
 - Breeder reactors could provide thousands of years of fuel, by way of uranium and thorium (undeveloped as yet).
+
+[^68]: (2020), Life Cycle GHG Emissions
+
 
 And for the downsides:
 
 - Radioactive waste is dangerous for thousands of years, clear solution to its disposal or long-term storage has emerged.
-- Conventional uranium fission has limited fuel supply, measuring in decades; [[55]]
-- Breeder reactors exacerbate the waste issue and promote prolifera- tion of nuclear materials;
+- Conventional uranium fission has limited fuel supply, measuring in decades; [^55]
+- Breeder reactors exacerbate the waste issue and promote proliferation of nuclear materials;
 - Development of nuclear energy technology prepares an easy step to immensely destructive nuclear weapons;
 - Accidents happen even to the best-managed reactors, the consequences often being severe for a region.
 
-Nuclear fission is a complex topic that has compelling advantages and worrisome faults. Not surprisingly, attitudes are highly mixed. One survey [104] indicates that adults in the U.S. oppose building more nuclear plant by a slim 51% to 45%, while scientists overall favor advancing nuclear plants by a 2:1 margin,[^56] and physicists surveyed favored nuclear by 4:1. Scientists are much more likely to view climate change as a serious threat than the U.S. population as a whole, and therefore are likely to be attracted to energy resources that do not emit CO2. Of the physicists surveyed, it would be a mistake to assume that even the majority know the topic as thoroughly as it is covered in this chapter-given the degree of specialization within the field. Among those who understand the topic thoroughly[^57] it is almost certain you'd find a healthy split: those for whom the perils outweigh advantages, and those who are concerned enough about climate change to accept the "lesser of two evils," and/or who are enthusiastic about the technology as a glowing example of our mastery over nature's hidden secrets.
 
-## 15.5 Fusion
-Given that fission has problems of finite uranium supply, radioactive waste, proliferation and weapons, and safety issues, its future is uncertain.
+[^55]: ..in the absence of breeder reactor implementation
 
-[68]: (2020), Life Cycle GHG Emissions
-55...in the absence of breeder reactor implementation
-[104]: Pew Research (2015), "Elaborating on the Views of AAAS Scientists, Issue by Issue"
+
+Nuclear fission is a complex topic that has compelling advantages and worrisome faults. Not surprisingly, attitudes are highly mixed. One survey [^104] indicates that adults in the U.S. oppose building more nuclear plant by a slim 51% to 45%, while scientists overall favor advancing nuclear plants by a 2:1 margin,[^56] and physicists surveyed favored nuclear by 4:1. Scientists are much more likely to view climate change as a serious threat than the U.S. population as a whole, and therefore are likely to be attracted to energy resources that do not emit CO2. Of the physicists surveyed, it would be a mistake to assume that even the majority know the topic as thoroughly as it is covered in this chapter-given the degree of specialization within the field. Among those who understand the topic thoroughly[^57] it is almost certain you'd find a healthy split: those for whom the perils outweigh advantages, and those who are concerned enough about climate change to accept the "lesser of two evils," and/or who are enthusiastic about the technology as a glowing example of our mastery over nature's hidden secrets.
+
+[^104]: Pew Research (2015), "Elaborating on the Views of AAAS Scientists, Issue by Issue"
 
 [^56]: ... a clear, but not overwhelming, result
 
 [^57]: We might also acknowledge an intrinsic psychological appeal for complex topics that have been mastered: a sort of pride in the privileged comprehension that might transfer to warm feelings for the subject.
 
-Fusion, on the other hand, is not plagued by most of these issues. It's main problem is that it is incredibly difficult and has been in the research stage for 70 years. Other than that, it has many (virtual) virtues. To be clear, the world does not have and never has had an operational fusion power plant. It may belong to the future, but is not guaranteed to ever become practical.[^58]
 
-First, the basics. We have alluded to the fact that fusion builds from the small to the big. Putting four 1H nuclei together, at 1.007825 a.m.u. each and forming *He at 4.0026033 a.m.u. leaves a difference of 0.0287 a.m.u.— 0.7% of the total mass-which amounts to 153 million kcal/g. This is almost ten times as large as the amount for fission (17 million kcal/g; Box 15.3), making it ten-million times more potent than chemical reactions. Recall that fusion's better performance can be related to the steepness of the left-hand-side of the binding-energy-per-nucleon curve of Figure 15.10.
+## 15.5 Fusion
+Given that fission has problems of finite uranium supply, radioactive waste, proliferation and weapons, and safety issues, its future is uncertain.
 
-What makes fusion so difficult is that getting protons to stick together is incredibly hard. Their electric repulsion is so strong that they need to be approaching each other at a significant fraction of the speed of light (about 7%) in order to get within reach of the strong nuclear force that takes over at distances smaller than about $10^{-15}$ m. The corresponding temperature is a billion degrees.[^59] Even the center of the sun is "only" 16 million degrees. The sun has the advantage of being enormous, though. So even at a comparatively chilly 16 million degrees, some rare protons by chance will be going extra fast and have enough oomph to overcome the repulsion and stick together. It's like winning the lottery against very long odds, but the sun is large enough to buy ample tickets so the process still happens often enough.[^60] We don't have such a luxury in a terrestrial laboratory setting, so we need higher temperatures than what exists in the center of the sun!+++(4)+++
+Fusion, on the other hand, is not plagued by most of these issues. It's main problem is that it is incredibly difficult and has been in the research stage for 70 years. Other than that, it has many (virtual) virtues. To be clear, the world does not have and never has had an operational fusion power plant. It may belong to the future, but is not guaranteed to ever become practical.
 
-Using 2H nuclei (deuterons, labeled D) instead of 1H (protons) in what is called a D-D fusion reactor, allows operation at 100 million degrees instead of 1 billion. And colliding one deuteron with a triton[^61] (3H nucleus, labeled T; 12.3 year half-life), only requires 45 million degrees for a D-T fusion reactor. For this reason, only D-T fusion is currently pursued.
-
-For all three types, the relevant reactions[^62] are:
-
-P-p: 1H+1H+1H+1H →He
-D-D:
-D-T:
-+ 26.7 MeV
-2H + 2H →>> 4 He
-+ 23.8 MeV 2H+3H4He + n + 17.6 MeV
-(15.3)
-But the 45 million degrees required for D-T fusion is still frightfully hard to achieve. No containers will withstand temperatures beyond a few thousand degrees. Containment-or confinement-is the big challenge then. The multi-million degree plasma63 cannot be permitted to touch the
-
-2H
-265
-2H
-+
-4He
+2H + 2H → 4He  
 Figure 15.22: Fusion concept: helium from deuterium.
-=
-=
 
-[^58]: The calculation is that 0.0287 a.m.u. cor- responds to Am = 4.8 x $10^{-29}$ kg, or E $Δmc^2$ 4.2 x $10^{-12}$ J (26.7 MeV). We con- vert the Joules to kcal by dividing by 4,184, and then divide by the input mass in grams (4.03 a.m.u. times 1.6605 x $10^{-24}$ g/a.m.u.) to get 153 kcal/g. Starting with two deu- terium nuclei reduces energy yield a bit to to 137 kcal/g, and for deuterium-tritium reactions it's down to 81 million kcal/g.
 
-[^59]: For temperatures this high, it does not matter whether we specify Kelvin or Cel- sius, as the 273 degree difference is nothing compared to a billion degrees. The scales are therefore essentially identical here.
+First, the basics. We have alluded to the fact that fusion builds from the small to the big. Putting four 1H nuclei together, at 1.007825 a.m.u. each and forming *He at 4.0026033 a.m.u. leaves a difference of 0.0287 a.m.u.— 0.7% of the total mass-which amounts to 153 million kcal/g.[^58] 
 
-[^60]: This is no accident: if the center were too
-cool, the sun would contract in the absence of radiation pressure until the center heated up from the compression and nuclear fusion ignited just enough to hold off further contraction. It finds its own equilibrium right at the edge of fusion. In the case of the sun, all it takes is one out of
-every 1026 collisions to stick in order to keep the lights
-on.
+[^58]: The calculation is that 0.0287 a.m.u. cor- responds to Am = 4.8 x $10^{-29}$ kg, or E $Δmc^2$ 4.2 x $10^{-12}$ J (26.7 MeV). We convert the Joules to kcal by dividing by 4,184, and then divide by the input mass in grams (4.03 a.m.u. times 1.6605 x $10^{-24}$ g/a.m.u.) to get 153 kcal/g. Starting with two deuterium nuclei reduces energy yield a bit to to 137 kcal/g, and for deuterium-tritium reactions it's down to 81 million kcal/g.
+
+
+This is almost ten times as large as the amount for fission (17 million kcal/g; Box 15.3), making it ten-million times more potent than chemical reactions.+++(4)+++ Recall that fusion's better performance can be related to the steepness of the left-hand-side of the binding-energy-per-nucleon curve of Figure 15.10.
+
+What makes fusion so difficult is that getting protons to stick together is incredibly hard. Their electric repulsion is so strong that they need to be approaching each other at a significant fraction of the speed of light (about 7%) in order to get within reach of the strong nuclear force that takes over at distances smaller than about $10^{-15}$ m. The corresponding temperature is a billion degrees.[^59] 
+
+[^59]: For temperatures this high, it does not matter whether we specify Kelvin or Celsius, as the 273 degree difference is nothing compared to a billion degrees. The scales are therefore essentially identical here.
+
+Even the center of the sun is "only" 16 million degrees. The sun has the advantage of being enormous, though. So even at a comparatively chilly 16 million degrees, some rare protons by chance will be going extra fast and have enough oomph to overcome the repulsion and stick together.+++(5)+++ It's like winning the lottery against very long odds, but the sun is large enough to buy ample tickets so the process still happens often enough.[^60] We don't have such a luxury in a terrestrial laboratory setting, so we need higher temperatures than what exists in the center of the sun!+++(4)+++
+
+[^60]: This is no accident: if the center were too cool, the sun would contract in the absence of radiation pressure until the center heated up from the compression and nuclear fusion ignited just enough to hold off further contraction. It finds its own equilibrium right at the edge of fusion. In the case of the sun, all it takes is one out of every $10^26$ collisions to stick in order to keep the lights on.
+
+Using 2H nuclei (deuterons, labeled D) instead of 1H (protons) in what is called a D-D fusion reactor, allows operation at 100 million degrees instead of 1 billion.+++(5)+++ And colliding one deuteron with a triton[^61] (3H nucleus, labeled T; 12.3 year half-life), only requires 45 million degrees for a D-T fusion reactor. For this reason, only D-T fusion is currently pursued.
 
 [^61]: If only the UCSD mascot were named after this triton...
 
-[^62]: ... allowing beta decays to change pro- tons to neutrons in the process
+For all three types, the relevant reactions[^62] are:
+
+[^62]: ... allowing beta decays to change protons to neutrons in the process
+
+P-p: 1H+1H+1H+1H → He + 26.7 MeV
+
+D-D: 2H + 2H → 4 He + 23.8 MeV
+
+D-T: 2H + 3H → 4He + n + 17.6 MeV
+
+(15.3)
+
+But the 45 million degrees required for D-T fusion is still frightfully hard to achieve. No containers will withstand temperatures beyond a few thousand degrees. Containment-or confinement-is the big challenge then. The multi-million degree plasma[^63] cannot be permitted to touch the walls of the chamber, despite its constituents zipping around at speeds around 1,000 km/s!
 
 [^63]: Plasma is a hot ionized gas where elec- trons are stripped off the nuclei. The sun qualifies as a plasma.
 
 
-266
-walls of the chamber, despite its constituents zipping around at speeds around 1,000 km/s! This feat can be sort-of managed via magnetic fields bending the paths of the fast-moving charged particles into circles. But turbulence in the plasma plagues attempts to confine the D-T mixture at temperatures high enough to produce fusion yield.
-Box 15.6: Successful Fusion
+[[266]]
+
+This feat can be sort-of managed via magnetic fields bending the paths of the fast-moving charged particles into circles. But turbulence in the plasma plagues attempts to confine the D-T mixture at temperatures high enough to produce fusion yield.
+
+<details><summary>Box 15.6: Successful Fusion</summary>
+
 Note that besides stars as an example of successful fusion, we have managed to create artificial fusion in a net-energy-positive manner in the form of the hydrogen bomb. This is indeed a fusion device, but we could not call it controlled fusion. It actually takes a fission bomb (plutonium) right next to the D-T mixture in a hydrogen bomb to heat up the D-T enough to undergo fusion. It's neat (and awful) that it works and is demonstrated, but it's no way to run a power plant.
-If a 45 million degree plasma could be confined in a stable fashion, the heat generated by the reactions64 could be used to make steam and run a traditional power plant-replacing the flame symbol in Fig. 6.2 (p. 90) with something much fancier. The scheme, therefore, requires first heating a plasma to unbelievable temperatures in order for the plasma to self-generate enough additional heat through fusion that the game shifts to one of keeping the plasma cool enough to produce a steady rate of fusion without blowing itself out. In this scenario, the heat extracted from the cooling flow makes steam. It's the most elaborate 65 possible source of heat to boil water. It may be a bit like working hard to develop a light saber whose only use will be as a letter opener.
-15.5.1 Fuel Abundance
-66
-Deuterium-an isotope of hydrogen-is found in 0.0115% of hydrogen, which means that the occasional H2O molecule is actually HDO.67 Therefore sea water is chock-full of deuterium. The global 18 TW appetite would need 3 × 1032 deuterium atoms per year for D-D or 2 x 1032 each of deuterium and tritium atoms per year for D-T. Running with this latter number for the comparatively easier D-T reaction, we would need to process 9 x 1035 water molecules each year to find the requisite deuterium. This corresponds to 26 million tons of water, which is a cubic volume about 300 m on a side. Yes, that's large, but the ocean is larger. Also, it corresponds to a volume of 0.16 billion barrels per year, which is about 200 times smaller than our annual oil consumption. Thus, the volume required should be not at all challenging.[^68] The ocean volume is 60 billion times larger than our 300-m-sided cube, implying that we have enough deuterium for 60 billion years. The sun will not live that long, so let's say that we have sufficient deuterium on Earth.
-64... in the form of radioactive release back to the plasma
+</details>
+
+
+If a 45 million degree plasma could be confined in a stable fashion, the heat generated by the reactions[^64] could be used to make steam and run a traditional power plant-replacing the flame symbol in Fig. 6.2 (p. 90) with something much fancier. The scheme, therefore, requires first heating a plasma to unbelievable temperatures in order for the plasma to self-generate enough additional heat through fusion that the game shifts to one of keeping the plasma cool enough to produce a steady rate of fusion without blowing itself out. In this scenario, the heat extracted from the cooling flow makes steam. It's the most elaborate[^65] possible source of heat to boil water. It may be a bit like working hard to develop a light saber whose only use will be as a letter opener.
+
+[^64]: .. in the form of radioactive release back to the plasma
 
 [^65]: Should we be proud if we succeed, or embarrassed at the lengths we had to go to?
 
-[^66]: See the Chart of the Nuclides abun- dance information in Figure 15.4.
+### 15.5.1 Fuel Abundance
+[[^66]] Deuterium-an isotope of hydrogen-is found in 0.0115% of hydrogen, which means that the occasional H2O molecule is actually HDO.[^67] Therefore sea water is chock-full of deuterium. The global 18 TW appetite would need $3 × 10^32$ deuterium atoms per year for D-D or $2 x 10^32$ each of deuterium and tritium atoms per year for D-T. Running with this latter number for the comparatively easier D-T reaction, we would need to process $9 x 10^35$ water molecules each year to find the requisite deuterium. This corresponds to 26 million tons of water, which is a cubic volume about 300 m on a side.+++(4)+++ Yes, that's large, but the ocean is larger. Also, it corresponds to a volume of 0.16 billion barrels per year, which is about 200 times smaller than our annual oil consumption.+++(4)+++ Thus, the volume required should be not at all challenging.[^68] The ocean volume is 60 billion times larger than our 300-m-sided cube, implying that we have enough deuterium for 60 billion years. The sun will not live that long, so let's say that we have sufficient deuterium on Earth.
+
+[^66]: See the Chart of the Nuclides abundance information in Figure 15.4.
 
 [^67]: ... one 1H, one 2H and one oxygen
 
 [^68]: Ocean water is far easier to access than underground oil deposits, after all.
 
-Tritium, however, is essentially nowhere to be found, as it has a half-life of 12.3 years. We can generate tritium by adding a neutron to lithium and stimulating an a decay. So the question moves to how much lithium we have. Proven reserves are at about 15 million tons, currently produced at about 30,000 tons per year.[^69] We would need 2,300 tons70 of lithium per year to meet our 2 × 1032 tritium atom target (for 18 TW). In the absence of competition"1 for lithium resources, the associated R/P ratio timescale is 6,500 years. Yes, that is a comfortably long time, but not eons. The thought is that this would buy time to solve the D-D challenge.
+Tritium, however, is essentially nowhere to be found, as it has a half-life of 12.3 years.+++(4)+++ We can generate tritium by adding a neutron to lithium and stimulating an a decay. So the question moves to how much lithium we have. Proven reserves are at about 15 million tons, currently produced at about 30,000 tons per year.[^69] We would need 2,300 tons[^70] of lithium per year to meet our $2 × 10^32$ tritium atom target (for 18 TW). In the absence of competition[^71] for lithium resources, the associated R/P+++(=resource/production)+++ ratio timescale is 6,500 years. Yes, that is a comfortably long time, but not eons. The thought is that this would buy time to solve the D-D challenge.+++(4)+++
 
-267
+[[267]]
 
 [^69]: Most lithium is used in batteries; the R/P ratio in this case is 500 years.
 
 [^70]: ...only 8% of current annual produc- tion
 
 [^71]: Otherwise, we're still looking at the 500 year R/P ratio.
-15.5.2 Fusion Realities
-It is clear why people get excited by fusion. It seems like an unlimited supply that can last thousands if not billions of years at today's rate of energy demand. For some perspective, think about what else we know that lasts billions of years. We already have a giant fusion reactor parked 150 million kilometers away that requires no mining, servicing, or any attention whatsoever. In this sense, the sun is essentially as inexhaustible as fusion promises to be, but already working and free of charge. Photovoltaic panels plus batteries work today and have already shown a possible path to eternal energy. The author built his own off-grid solar setup on a budget that's tiny compared to the fusion enterprise.
-As for the fusion enterprise, an effort called ITER (Figure 15.23) in southern France is an international effort currently constructing a plasma confinement machine that aims to commence experimental D-T fusion by the year 2035 via occasional 8-minute pulses of 0.5 GW thermal power. This machine is a stepping stone that is not designed to produce electricity. Estimates for construction cost range from $22 billion to $65 billion. By comparison, a nuclear fission plant costs $6-9 billion to build. Admittedly, the first experimental facility is going to cost more, but it is hard to imagine fusion ever being a real steal, financially. Even if the fuel is free, so what? Solar is the same.
-An effort in the U.S. called the nuclear ignition facility (NIF) is pursuing a different approach to fusion research: attempting to implode a tiny sphere of D-T mixture by blasting it with 192 converging laser beams, crushing it to enormous pressure exceeding that in a star's interior, leading to an explosive release of heat. The building, mostly taken up by gigantic lasers, is the size of three football fields and has so far cost something to the tune of $10 billion. Again, this experimental facility is not provisioned to harness any net energy gain?2 to create electricity.
-72
-Let's say
-that by the year 2050, we will have mastered the art and can build a 1 GW electrical-output73 fusion plant for $15 billion. That's $15 per Watt of output, which we can compare to a present-day solar utility-scale installation cost of $1 per peak Watt [89]. Applying typical capacity factors74 puts fusion at twice what solar costs already, today.
-Figure 15.23: ITER tokamak cut-away where the plasma would be created. The white outer chamber is the size of a six-story building. From the ITER Organization.
 
-[^72]:
-the prospects for which are dubious
+### 15.5.2 Fusion Realities
+It is clear why people get excited by fusion. It seems like an unlimited supply that can last thousands if not billions of years at today's rate of energy demand. For some perspective, think about what else we know that lasts billions of years. We already have a giant fusion reactor parked 150 million kilometers away that requires no mining, servicing, or any attention whatsoever.+++(5)+++ In this sense, the sun is essentially as inexhaustible as fusion promises to be, but already working and free of charge. Photovoltaic panels plus batteries work today and have already shown a possible path to eternal energy. The author built his own off-grid solar setup on a budget that's tiny compared to the fusion enterprise.
+
+As for the fusion enterprise, an effort called ITER (Figure 15.23) in southern France is an international effort currently constructing a plasma confinement machine that aims to commence experimental D-T fusion by the year 2035 via occasional 8-minute pulses of 0.5 GW thermal power. This machine is a stepping stone that is not designed to produce electricity. Estimates for construction cost range from $22 billion to $65 billion. By comparison, a nuclear fission plant costs $6-9 billion to build. Admittedly, the first experimental facility is going to cost more, but it is hard to imagine fusion ever being a real steal, financially. Even if the fuel is free, so what? Solar is the same.
+
+An effort in the U.S. called the nuclear ignition facility (NIF) is pursuing a different approach to fusion research: attempting to implode a tiny sphere of D-T mixture by blasting it with 192 converging laser beams, crushing it to enormous pressure exceeding that in a star's interior, leading to an explosive release of heat. The building, mostly taken up by gigantic lasers, is the size of three football fields and has so far cost something to the tune of $10 billion. Again, this experimental facility is not provisioned to harness any net energy gain[^72] to create electricity.
+
+[^72]: the prospects for which are dubious
+
+
+Let's say that by the year 2050, we will have mastered the art and can build a 1 GW electrical-output[^73] fusion plant for $15 billion. That's $15 per Watt of output, which we can compare to a present-day solar utility-scale installation cost of $1 per peak Watt [^89]. Applying typical capacity factors[^74] puts fusion at twice what solar costs already, today.
 
 [^73]: ... thus 3 GW thermal, given typical heat engine efficiency
 
 [^74]:... 10-20% for PV and perhaps 90% for fusion?
 
+{{< figure src="../images/iter-tokamak-fusion-plasma-container.png" title="" class="thumbnail">}}
 
-268
-Fusion is therefore a complicated and not particularly cheap way to generate electricity. Meanwhile, we are not running terribly short on renewable ways to produce electricity: solar; wind; hydroelectric; geother- mal; tidal. Liquid fuels for transportation represent a greater and more pressing challenge, and fusion does not directly address this aspect any better than other options for electrical production. Fusion is by far the most complex power generation scheme we have ever attempted, evidenced by the 70 year effort to bring it to fruition that is still underway. How many physics PhDs will it take to keep a fusion plant running? Sometimes, we get stuck pursuing a flawed vision of the future, and have trouble reevaluating our options. Imagine being a middle-aged physicist or engineer in the 1950s. In your lifetime, you would have seen the advent of the car, airplane, radio, television, nuclear fission, among a blur of other technology advances. The next frontier was obviously fusion, so let's crack that one! At this point, 70 years later, maybe we should ask: why?
+Figure 15.23: ITER tokamak cut-away where the plasma would be created. The white outer chamber is the size of a six-story building. From the ITER Organization.
+
+
+[[268]]
+
+Fusion is therefore a complicated and not particularly cheap way to generate electricity. Meanwhile, we are not running terribly short on renewable ways to produce electricity: solar; wind; hydroelectric; geo-thermal; tidal. Liquid fuels for transportation represent a greater and more pressing challenge, and fusion does not directly address this aspect any better than other options for electrical production. Fusion is by far the most complex power generation scheme we have ever attempted, evidenced by the 70 year effort to bring it to fruition that is still underway. How many physics PhDs will it take to keep a fusion plant running? Sometimes, we get stuck pursuing a flawed vision of the future, and have trouble reevaluating our options. Imagine being a middle-aged physicist or engineer in the 1950s. In your lifetime, you would have seen the advent of the car, airplane, radio, television, nuclear fission, among a blur of other technology advances. The next frontier was obviously fusion, so let's crack that one! At this point, 70 years later, maybe we should ask: why?
+
 And let's point out that fusion is not without its waste challenges. It is still a radioactive environment, albeit not one that produces dangerous direct products (4He is okay!). It does involve a radioactive fuel source (tritium), and it does embed the containment vessel with high energy particles and neutrons that over time compromise the integrity of the vessel so that it must be discarded as a radioactively-charged hunk of metal.[^75]
+
+
+[^75]: Transmutation of the nuclei in the material will create radioactivity.
+
 By comparison, solar, wind, and other renewable sources based on the sun have no such problems. All of the nastiness is created in the sun, and stays in the sun.
 
-[^75]: Transmutation of the nuclei in the ma- terial will create radioactivity.
-15.5.3 Pros and Cons of Fusion
+### 15.5.3 Pros and Cons of Fusion
 Collecting the advantages and disadvantages of fusion, we start with the positive attributes:
-► Fusion would enjoy an inexhaustible supply of deuterium, easily accessed, outlasting the sun;
-The fusion reactor would serve as a heat source for tried-and-true steam-driven power plant technology.
+
+- Fusion would enjoy an inexhaustible supply of deuterium, easily accessed, outlasting the sun;+++(5)+++
+- The fusion reactor would serve as a heat source for tried-and-true steam-driven power plant technology.
+
 And now the not-so-good aspects:
-Stable plasmas are exceedingly hard to generate at the requisite temperatures;
-➤ 70
-70 years of effort have not yet borne fruit as an energy supply;
-► Tritium is not available, and must be fabricated from a limited supply of lithium;
-Fusion still contends with radioactive fuel (tritium) and a contain- ment vessel that is radioactively contaminated.
+
+- Stable plasmas are exceedingly hard to generate at the requisite temperatures;
+- 70 years of effort have not yet borne fruit as an energy supply;
+- Tritium is not available, and must be fabricated from a limited supply of lithium;
+
+Fusion still contends with radioactive fuel (tritium) and a containment vessel that is radioactively contaminated.
 
 The smaller number of positive points is not in itself an indicator of imbalance, since the first point is huge. One elephant can balance dozens of kids on a playground see-saw.
 
 ## 15.6 Upshot on Nuclear
-Nuclear fission is a real thing: it can and does produce a significant fraction the world's power. A number of substantive challenges stand in the way of scaling up significantly.[^76] For conventional nuclear fission as it has been practiced thus far, the proven reserves of uranium only last 90 years at today's rate of use, and less than 4 years if we tried to get all 18 TW from fission. Radioactive waste is an unsolved problem that persists for hundreds to thousands of years. Breeder programs can extend the resource by large factors (into the 500 or 1,000 year range under an 18 TW nuclear-breeder effort). But proliferation and bomb dangers become more pronounced-not to mention an even more pressing waste issue and greater accident rates given the profusion of operating reactors. It can be difficult to get excited about a nuclear future. It is very cool that we figured out how to do it. But just because we can do something does not mean it is a good idea to scale it up.
+Nuclear fission is a real thing: it can and does produce a significant fraction the world's power. A number of substantive challenges stand in the way of scaling up significantly.[^76] 
 
-Fusion is a harder prospect to pin down. At present, it is not on the table, having never been demonstrated in a viable reactor capable of producing commercial-scale electricity. But even if we did manage it, how could it compete economically, as complex as it is? Even if the fuel itself is free," it may turn out to be the most expensive form of electricity we could muster. Fusion is not without radioactivity concerns, and placed side-by-side, solar can look a lot better-intermittency being the crippling drawback, necessitating storage. 77
+[^76]: See [^105] for a short article summarizing the various challenges. Pros and cons are listed separately for PV and ST in Section 15.4.8 and Section 15.5.3, respectively.
+
+[^105]: L Zyga. Why nuclear power will never supply the world's energy needs. Online: PhysOrg. 2011. URL: https://phys.org/news/2011-05-nuclear-power-world-energy.html (cited on page 269).
+
+
+For conventional nuclear fission as it has been practiced thus far, the proven reserves of uranium only last 90 years at today's rate of use, and less than 4 years if we tried to get all 18 TW from fission. Radioactive waste is an unsolved problem that persists for hundreds to thousands of years. Breeder programs can extend the resource by large factors (into the 500 or 1,000 year range under an 18 TW nuclear-breeder effort). But proliferation and bomb dangers become more pronounced-not to mention an even more pressing waste issue and greater accident rates given the profusion of operating reactors. It can be difficult to get excited about a nuclear future. It is very cool that we figured out how to do it. But just because we can do something does not mean it is a good idea to scale it up.
+
+Fusion is a harder prospect to pin down. At present, it is not on the table, having never been demonstrated in a viable reactor capable of producing commercial-scale electricity. But even if we did manage it, how could it compete economically, as complex as it is? Even if the fuel itself is free," it may turn out to be the most expensive form of electricity we could muster. Fusion is not without radioactivity concerns, and placed side-by-side, solar can look a lot better- intermittency being the crippling drawback, necessitating storage. [^77]
+
+[^77]: as it also is for solar power, which does not mean solar power is cheap
+
 
 Nuclear options cause us to grapple with the question: who are we? What is our identity? What are our aims, and where do we see ourselves going? Are we plotting a course for a Star Trek future, in which case it seems we have little choice but to adopt the highest-tech solutions. Or are we aiming for a more modest future more aligned with natural ecosystems on Earth? So even if we can do something, does it mean we're obligated to? Sometimes the costs may be too high.
 
@@ -896,15 +950,10 @@ Nuclear options cause us to grapple with the question: who are we? What is our i
 radioactive isotope carbon-14?
 
 269
-76: See [105] for a short article summarizing the various challenges.
-Pros and cons are listed separately for PV and ST in Section 15.4.8 and Section 15.5.3, respectively.
-77:
-as it also is for solar power, which does not mean solar power is cheap
 
 
 270
-3. How many neutrons does the isotope
-56 Fe contain?
+3. How many neutrons does the isotope 56 Fe contain?
 4. Use the information in the boxes for 12C and 13C in Figure 15.4 to determine the weighted composite mass of a natural blend of carbon-showing work-and compare this to the number in the left-most box for carbon in the same figure.
 5. In Figure 15.4, what are the only mass numbers, A, for which no
 stable nuclei exist?

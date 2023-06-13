@@ -95,7 +95,7 @@ CO2 (ppmv)
 0.2 
 0.0 
 Temperature rise (°C) 
-Figure 9.1: In blue (left axis), CO2 measure- ments from Mauna Loa (Hawaii) for the last 60 years, showing a relentless and acceler- ating upward trend now at abut 2.6 ppm, per year [50]. Seasonal variations due to photosynthesis are seen on top of this trend. Pre-industrial levels were around 280 ppmv, so that we have added about 130 parts per million (ppm). Red dots (right axis) show global average mean temperature records over the same period [51]. Thus far, global average temperature has risen about 1°C. Note that the Kyoto Protocol in 1997 and Paris Agreement in 2015 (Box 19.4; p. 320) do not visibly curb the upward trajectory of CO2 emissions. 
+Figure 9.1: In blue (left axis), CO2 measure- ments from Mauna Loa (Hawaii) for the last 60 years, showing a relentless and acceler- ating upward trend now at abut 2.6 ppm, per year [^50]. Seasonal variations due to photosynthesis are seen on top of this trend. Pre-industrial levels were around 280 ppmv, so that we have added about 130 parts per million (ppm). Red dots (right axis) show global average mean temperature records over the same period [^51]. Thus far, global average temperature has risen about 1°C. Note that the Kyoto Protocol in 1997 and Paris Agreement in 2015 (Box 19.4; p. 320) do not visibly curb the upward trajectory of CO2 emissions. 
 280 
 -0.2 
 1960 
@@ -142,7 +142,7 @@ year
 We saw in Figure 8.2-repeated as Figure 9.2-a history of fossil fuel usage for the world, in coal, oil, and natural gas. Meanwhile, Table 9.1 indicates how much CO2 each fuel contributes per kilogram or Joule used. These two pieces can be combined to make an estimate of how much CO2 is emitted globally each year, and to track total CO2 emission over time. Table 9.2 and Box 9.1 elucidate how to go from the fossil fuel power figures (TW) in Figure 9.2 to CO2 atmospheric concentrations. 
 Box 9.1: Computing CO2 ppm, from TW 
 We will use oil as an example. In Figure 9.2, we appear to get about 6 TW from oil (5 TW from coal, 4 TW from natural gas). Multiplying by 1012 puts this in Watts (J/s) and by 3.156 × 107 seconds per year results in the annual global energy from oil in Joules: 1.9 × 1020 J/yr. Table 9.1 indicates that oil contains about 11.5 kcal/g, so the number of grams of oil used per can be determined by first converting J to kcal 
-Figure 9.2: Historical use of fossil fuels worldwide, repeated from Figure 8.2 [16]. On the left is the raw usage rate expressed in terawatts, while the right is a per-capita mea- sure. The three fossil fuel types are stacked on top of one another, so that gas makes the smallest contribution, not the largest. For instance, on the right-hand-edge of the left panel, coal goes from 0 to 5 TW, oil from 5 to 11 (thus 6 TW from oil), and gas from 11 to 15, indicating 4 TW from gas. The left-hand panel makes clear that fossil fuel use is still rising dramatically, and thus CO2 
+Figure 9.2: Historical use of fossil fuels worldwide, repeated from Figure 8.2 [^16]. On the left is the raw usage rate expressed in terawatts, while the right is a per-capita mea- sure. The three fossil fuel types are stacked on top of one another, so that gas makes the smallest contribution, not the largest. For instance, on the right-hand-edge of the left panel, coal goes from 0 to 5 TW, oil from 5 to 11 (thus 6 TW from oil), and gas from 11 to 15, indicating 4 TW from gas. The left-hand panel makes clear that fossil fuel use is still rising dramatically, and thus CO2 
 emissions. 
 Operation 
 Starting value x 1012 W/TW x3.16 x 107 s/yr 
@@ -328,14 +328,14 @@ rest of Europe
 Russia 
 Germany 
 UK 
-Figure 9.5 indicates that the U.S. is the single country bearing the largest responsibility for cumulative CO2 emissions: roughly twice that of the second-largest (China) [52]. Today, China is the largest emitter, at 9.4 Gt per year, while the U.S. is in second place at 5.15 Gt/yr. Table 9.3 lists the top six emitters lately, accounting for about 60% of the 34 Gt per year [53]. 
-Figure 9.5: Cumulative contributions to CO2 emissions to date, grouped by con- tinent. Major contributing countries are called out explicitly, and the remaining con- tributions from each continent are grouped as a "rest of" category [52]. 
-[52]: Ritchie (2019), Who has contributed most to global CO2 emissions 
-[53]: Rapier (2019), The World's Top 10 Carbon Dioxide Emitters 
+Figure 9.5 indicates that the U.S. is the single country bearing the largest responsibility for cumulative CO2 emissions: roughly twice that of the second-largest (China) [^52]. Today, China is the largest emitter, at 9.4 Gt per year, while the U.S. is in second place at 5.15 Gt/yr. Table 9.3 lists the top six emitters lately, accounting for about 60% of the 34 Gt per year [^53]. 
+Figure 9.5: Cumulative contributions to CO2 emissions to date, grouped by con- tinent. Major contributing countries are called out explicitly, and the remaining con- tributions from each continent are grouped as a "rest of" category [^52]. 
+[^52]: Ritchie (2019), Who has contributed most to global CO2 emissions 
+[^53]: Rapier (2019), The World's Top 10 Carbon Dioxide Emitters 
 9.2 Warming Mechanism 
 The 
-presence of excess CO2 in our atmosphere is undeniably from fossil fuel combustion. But how does this alter our climate? How can such a minor constituent of the atmosphere (now 0.04%) cause so much trouble? The answer lies in infrared radiation [54]. Recall from Sec. 1.3 (p. 10) that 
-[54]: Pierrehumbert (2011), "Infrared radiation and planetary temperature" 
+presence of excess CO2 in our atmosphere is undeniably from fossil fuel combustion. But how does this alter our climate? How can such a minor constituent of the atmosphere (now 0.04%) cause so much trouble? The answer lies in infrared radiation [^54]. Recall from Sec. 1.3 (p. 10) that 
+[^54]: Pierrehumbert (2011), "Infrared radiation and planetary temperature" 
 
 of 
 this is the mechanism by which energy leaves the earth, the power which is governed by the Stefan-Boltzmann law P = AsurfσT4, where the Stefan-Boltzmann constant,[^15] σ = 5.67 x $10^{-8}$ W/m2/K4, and T is the temperature of the radiating surface, in Kelvin. 
@@ -354,7 +354,7 @@ The sun delivers energy to the top of the earth's atmosphere at a rate16 of 1,36
 The лR factors cancel, and we can rearrange to isolate temperature: 
 Figure 9.6: Earth intercepts sunlight across the projected area of the Earth's disk (R2), while radiating from the entire surface area, which is four times larger (4πR2). 
 
-[^16]: This is called the solar constant [4], and will appear again in Chapter 10 and Chapter 
+[^16]: This is called the solar constant [^4], and will appear again in Chapter 10 and Chapter 
 13. 
 
 [^17]: An imbalance would mean energy is ac- cumulating or being lost, leading to warm- ing or cooling. Even under present condi- tions, the balance is good to within 1 W/m2. 
@@ -413,7 +413,7 @@ Rayleigh Scattering
 10 
 70 
 Wavelength (um) 
-Figure 9.7: Atmospheric transmission/ab- sorption spectra [55]. The top panel shows solar input in red and infrared (thermal) ra- diation output in blue. The smooth curves are the theoretical blackbody Planck spectra at solar and terrestrial temperatures. Thus the smooth red curve represents the distri- bution of solar energy arriving at the top of Earth's atmosphere, while the solid red filled feature is what survives the path to the ground. The smooth blue curve (middle of the set of three) represents radiation from the ground, but only a small fraction (blue filled region) passes directly through the atmosphere-the rest absorbed by green- house gases. The lower panels detail where light gets absorbed or scattered. Gray re- gions indicate absorption and scattering, so that white portions can be thought of as the transmitted part-often called "win- dows." Key contributors (greenhouse gases) are broken out in panels below the total ab- sorption panel. Notice that ozone blocks ultraviolet (UV), and Rayleigh scattering is what makes the sky blue-by being effec- tive at scattering blue light from the sun (blue is on the left side of the band labeled "Visible," while red is on the right). Created by Robert Rohde. 
+Figure 9.7: Atmospheric transmission/ab- sorption spectra [^55]. The top panel shows solar input in red and infrared (thermal) ra- diation output in blue. The smooth curves are the theoretical blackbody Planck spectra at solar and terrestrial temperatures. Thus the smooth red curve represents the distri- bution of solar energy arriving at the top of Earth's atmosphere, while the solid red filled feature is what survives the path to the ground. The smooth blue curve (middle of the set of three) represents radiation from the ground, but only a small fraction (blue filled region) passes directly through the atmosphere-the rest absorbed by green- house gases. The lower panels detail where light gets absorbed or scattered. Gray re- gions indicate absorption and scattering, so that white portions can be thought of as the transmitted part-often called "win- dows." Key contributors (greenhouse gases) are broken out in panels below the total ab- sorption panel. Notice that ozone blocks ultraviolet (UV), and Rayleigh scattering is what makes the sky blue-by being effec- tive at scattering blue light from the sun (blue is on the left side of the band labeled "Visible," while red is on the right). Created by Robert Rohde. 
 right side of the solid blue22 shape in Figure 9.7. As CO2 concentration in the atmosphere increases, this absorption feature gets wider, cutting deeper into the right edge of the escaping radiation (solid blue feature), allowing less radiation to escape. 
 
 [^22]:... escaped radiation 
@@ -430,7 +430,7 @@ but
 If some portion of the infrared radiation does not escape to space is absorbed by the atmosphere, the planet does not cool as effectively, adding some offset to Eq. 9.2-in Earth's case 33°C. It is like the earth is wearing a blanket that raises its temperature by 33°C. Figure 9.9 illustrates the mechanism. Water vapor is responsible for ~20°C of this 33°C, and CO2 is responsible for another ~8°C, leaving ~5°C for ozone, methane, and other minor contributors (Table 9.4). Incidentally, methane (CH4) is about 80 times more potent than the same amount of CO2 as a greenhouse gas, but is at a far lower concentration than CO2, and also shorter-lived in the atmosphere before being chemically destroyed.[^23] We focus on CO2 because this is what human activity is changing rapidly by burning fossil fuels. The vast ocean-air interface means water concentration is impossible to control, and simply responds to temperature due to the fact that warmer air holds more moisture- becoming an important feedback agent. Water is not the driver of climate 
 
 Figure 9.8: Another view of just the water and carbon dioxide absorption spectra, bet- ter showing the overlapping role of each in the 10 um window. From Robert Rohde (NASA). 
-Table 9.4: Greenhouse contributions [56]. 
+Table 9.4: Greenhouse contributions [^56]. 
 Molecule 
 H2O 
 CO2 
@@ -500,11 +500,11 @@ The positive feedbacks are important, and include factors like:
 contribution. 
 3. A warmer environment leads to additional CO2 loss from drying forests, desertification, and accelerated decomposition of plant matter and peat. 
 A few negative feedback mechanisms30 exist as well, but are outweighed by the positive feedback terms. 
-Global temperature increase is already about 1.0°C [58]. Note that even if we never added another CO2 molecule to the atmosphere, the temperature would continue to rise as the ocean31 slowly catches up to the new equilibrium. We would expect the temperature to stabilize around 1.7°C higher for today's CO2 excess, according to the calculation above. Thus the climb is about 55% done. Of course, more CO2 will be added, so the eventual temperature rise is destined to be higher still. 
+Global temperature increase is already about 1.0°C [^58]. Note that even if we never added another CO2 molecule to the atmosphere, the temperature would continue to rise as the ocean31 slowly catches up to the new equilibrium. We would expect the temperature to stabilize around 1.7°C higher for today's CO2 excess, according to the calculation above. Thus the climb is about 55% done. Of course, more CO2 will be added, so the eventual temperature rise is destined to be higher still. 
 9 Climate Change 
 147 
 
-[^28]: See [57] for a good synopsis and refer- ences to primary material within. 
+[^28]: See [^57] for a good synopsis and refer- ences to primary material within. 
 
 [^29]: Just multiply 2.2 W/m2 by 0.8 °C per W/m2. 
 Radiative forcing (W/m2) 
@@ -532,7 +532,7 @@ Figure 9.10: As CO2 concentration increases, the radiative forcing (left axis) i
 
 [^30]: 
 By far the most important negative feedback mechanism is the infrared radia- tion itself, increasing dramatically as tem- perature increases (as T4), thus opposing the temperature rise by a cooling influence. Here, we mean negative feedback influences in addition to this main one. 
-[58]: National Oceanic and Atmospheric Administration (NOAA) (2019), Global Climate Report 
+[^58]: National Oceanic and Atmospheric Administration (NOAA) (2019), Global Climate Report 
 
 [^31]:... lots of thermal mass, or heat capacity 
 
@@ -1008,9 +1008,9 @@ year
 2020 
 2015 
 NOAA Climate.gov Adapted from SOTC 2018 
-Melting ice contributes about 2.4 mm/yr of rise, while thermal expansion accounts for about 1.2 mm/yr for a total rate of 3.6 mm/yr [61]. Since 
-Figure 9.16: Satellite measurements of sea level since 1993, showing a rise of 3.6 mm per year. Melting ice is the largest contribu- tion, although thermal expansion plays a role as well [61]. From NOAA. 
-[61]: Lindsey (2020), Climate Change: Global Sea Level 
+Melting ice contributes about 2.4 mm/yr of rise, while thermal expansion accounts for about 1.2 mm/yr for a total rate of 3.6 mm/yr [^61]. Since 
+Figure 9.16: Satellite measurements of sea level since 1993, showing a rise of 3.6 mm per year. Melting ice is the largest contribu- tion, although thermal expansion plays a role as well [^61]. From NOAA. 
+[^61]: Lindsey (2020), Climate Change: Global Sea Level 
 
 9 Climate Change 
 156 
@@ -1025,7 +1025,7 @@ melting from Antarctica64 to raise sea level by 1 meter, and 210 meters off Gree
 water. 
 Now if we just knew the average thickness of each ice sheet, we could figure out how much sea level would rise if all the ice melted. The Greenland ice sheet is estimated to be 2.85 million cubic kilometers, translating to an average depth of 1.7 km.[^66] 210 m goes into this 8 times, so we might expect something like 8 m of sea level rise if all the ice in Greenland melts. For Antarctica, the 26.5 million cubic kilometers corresponds to an average ice thickness of 1.9 km, which is about 70 of our 26 meter units, so we would expect about 70 meters of sea level rise in the extreme case of Antarctica losing all of its ice. 
 Box 9.3: A more rigorous estimate... 
-It is relatively easy to find references estimating sea level rise potential from complete melting of Greenland and Antarctica. One such [60] arrives at a 7.4 m rise from Greenland melting, 58 m from Antarctica, and 0.3 m from glaciers. 
+It is relatively easy to find references estimating sea level rise potential from complete melting of Greenland and Antarctica. One such [^60] arrives at a 7.4 m rise from Greenland melting, 58 m from Antarctica, and 0.3 m from glaciers. 
 So why did we go through the crude estimation process? The goal was to remove the mystery.[^67] Once we have an estimate of the depth and a ratio of surface areas, it is within our grasp to estimate the rise ourselves. 
 Figure 9.17: If sea area is x times that of an ice-covered island, water level will rise by 1/x times the ice thickness if it all melts. The diagram shows a way to think about this, for x = 
 
@@ -1033,17 +1033,17 @@ Figure 9.17: If sea area is x times that of an ice-covered island, water level w
 The preceding paragraph and Table 9.6 have enough information (absolute and relative areas and volumes) to figure out. 
 
 [^66]: Divide volume by area. 
-[60]: Davies (2020), Calculating glacier ice volumes and sea level equivalents 
+[^60]: Davies (2020), Calculating glacier ice volumes and sea level equivalents 
 
 [^67]: One goal of this book is to empower students to independently check more au- thoritative sources-much like 2+2 = 4 can be personally verified and is not a matter of faith. 
 
 Coastal cities are already struggling to deal with the present ~0.25 m rise. This may not sound like much, and on normal days does not cause problems. But the low pressure associated with storms results in a local swell in water level,[^68] so that a storm plus high tide plus heavy waves adds to the climate-change rise to destroy human structures that otherwise may have escaped harm. Even if CO2 emissions ceased today, the warming that has already happened will continue melting ice. Temperatures will also continue to climb as increased forcing from the already-present CO2 continues to heat the ocean as we creep toward equilibrium a slow process. So sea-level rise may turn out to be the gift that keeps on giving for centuries more. 
-Sea level in the distant past-tens of millions of years ago—has been as high as 200 m over where it is now. And 20,000 years ago, during the last glacial maximum, sea level was 120 m lower than it is today [62]. So Earth is no stranger to large fluctuations in sea level. By contrast, many coastal cities do not know how to handle even a one meter rise-which is within the projections for 2100 in a number of models. 
+Sea level in the distant past-tens of millions of years ago—has been as high as 200 m over where it is now. And 20,000 years ago, during the last glacial maximum, sea level was 120 m lower than it is today [^62]. So Earth is no stranger to large fluctuations in sea level. By contrast, many coastal cities do not know how to handle even a one meter rise-which is within the projections for 2100 in a number of models. 
 9 Climate Change 
 157 
 
 [^68]: High pressure elsewhere squeezes wa- ter into the low pressure areas. 
-[62]: Lambeck et al. (2014), "Sea level and global ice volumes from the Last Glacial Maximum to the Holocene" 
+[^62]: Lambeck et al. (2014), "Sea level and global ice volumes from the Last Glacial Maximum to the Holocene" 
 9.5 What Can Be Done? 
 So far, we have simply described the climate change phenomenon as an unambiguous consequence of our fossil fuel habit, but have not addressed what we might do to combat it. In this section, the author will not attempt to conceal his personal take on the matter, and will keep it short. 
 First, clever geo-engineering ideas ring of hubris, and seem like solving a problem of hurtling toward the ground by digging a hole ahead of the fall fast enough to keep up. Our whole problem is that we have convinced ourselves that we can outsmart nature.[^69] You would stop going to a doctor who tried to treat your illness by applying superficial remedies to a resulting skin condition without addressing the underlying cause. 
