@@ -163,7 +163,7 @@ Nuclear fusion needs deuterium and tritium.[^11] Roughly one out of every 10,000
 
 
 ## 10.3 Renewable Energy Budget
-Notice that all of the unqualified[^12] "Yes" entries in Table 10.1 originate from the sun. For that matter, fossil fuels represent captured ancient solar energy, stored for all these years. The sun sends energy toward the earth at a rate of 1,360 W/m2. Multiplying this by the projected area[^13] of the earth (R≈ 1.28 x 1014 m2) results in 174,000 TW of solar power intercepting the earth. This number absolutely dwarfs the 18 TW societal energy budget of all humans on Earth. Figure 10.1 shows graphically what happens to this energy input.
+Notice that all of the unqualified[^12] "Yes" entries in Table 10.1 originate from the sun. For that matter, fossil fuels represent captured ancient solar energy, stored for all these years. The sun sends energy toward the earth at a rate of 1,360 $W/m^2$. Multiplying this by the projected area[^13] of the earth (R≈ 1.28 x $10^14m^2$) results in 174,000 TW of solar power intercepting the earth. This number absolutely dwarfs the 18 TW societal energy budget of all humans on Earth. Figure 10.1 shows graphically what happens to this energy input.
 
 174,000 TW (100%)
 solar input
@@ -192,12 +192,12 @@ Figure 10.1: Energy inputs to the earth, ignoring the radiation piece (since tha
 
 Because we will encounter solar power flux many times in this textbook, this is a good opportunity to spell out some key numbers and concepts.
 
-First, sunlight arriving at the top of Earth's atmosphere delivers energy at a rate of 1,360 Joules per second per square meter (1,360 W/m2), which is known as the solar constant [^4].
+First, sunlight arriving at the top of Earth's atmosphere delivers energy at a rate of 1,360 Joules per second per square meter (1,360 $W/m^2$), which is known as the solar constant [^4].
 
 [^4]: Kopp et al. (2011), "A new, lower value of total solar irradiance: Evidence and climate significance"
 
 
-Treating Earth as a sphere of radius R, it has surface area $4πR^2$, but the sun doesn't "see" the whole surface at once. In fact, from the vantage point of the rays of sunlight intercepting Earth, what matters is the projection of Earth,[^14] which just looks like a disk of area $πR^2$. Averaging the solar input across the entire planet therefore reduces the 1,360 W/m2 by a factor of 4 to 340 W/m2.
+Treating Earth as a sphere of radius R, it has surface area $4πR^2$, but the sun doesn't "see" the whole surface at once. In fact, from the vantage point of the rays of sunlight intercepting Earth, what matters is the projection of Earth,[^14] which just looks like a disk of area $πR^2$. Averaging the solar input across the entire planet therefore reduces the 1,360 $W/m^2$ by a factor of 4 to 340 $W/m^2$.
 
 [^14]: Imagine taking a picture of a sphere situated across the room. The area the sphere takes up on the photo is R2, not the total curved surface area of $4πR^2$. See also Fig. 9.6 (p. 144).
 
@@ -273,29 +273,35 @@ A nice round-number approximation of full overhead sunlight is that it delivers 
 [[169]]
 
 The table will absorb 1,000 J per second,[^19] and therefore receives 600,000 J over the course of ten minutes. Multiplying the specific heat capacity by the table mass means the table absorbs 20,000 J for every 1°C of temperature rise, and therefore would climb 30°C in 10 minutes, in this case. That's a little unrealistically high, because a real table would also have cooling influences from the air and infrared radiation. But the main point is to show how absorbed sunlight heats things up-like the Earth.
+
+[^19]: Because a Watt is a Joule per second and the table area is $1m^2$; the black property essentially means that it absorbs all light that hits it.
+
 </details>
 
+<details><summary>Box 10.2: Making New Fossil Fuels</summary>
 
-Box 10.2: Making New Fossil Fuels  
+  
 We know from Chapter 8 that fossil fuels get their energy from ancient photosynthesis trapped in buried plant matter.[^20] We also now have a figure for how much solar power goes into photosynthesis: 100 TW.
-
-We can compare this to the power that goes into making new fossil fuels right now by noting that the entire fossil fuel resource contains roughly[^21] $10^23J$ (page 127), and formed over something like 100 million years, or about $3 x 10^15$ seconds. Dividing the two gives a power of about $3 x 10^7 W$, or 30 MW.[^22]
-
-Three neat insights come out of this. First, we currently burn fossil fuels at a rate of about 15 TW, which is 500,000 times faster than they are being replaced! It's like short-circuiting a battery in a dramatic explosion of power. Imagine charging a phone for 2 hours and discharging it 500,000 times faster: in 0.014 seconds! Now look at the extravagant lights of Las Vegas: should we be proud of the blaze of glory or appalled?23
-Secondly, out of the total 100 TW photosynthetic budget on Earth, only 30 MW gets captured as fossil fuels, which is one part in three-million. Therefore, the chances that any given living matter on the planet today eventually ends up converted to fossil fuels is exceedingly slim.
-Finally, if we only used fossil fuels at a rate of 30 MW,24, then we could consider fossil fuels to be a renewable resource, as the sun/geology will slowly make more! So whether or not something is renewable also relies on the rate of use not exceeding the rate at which it is replenished.
-
-[^19]: Because a Watt is a Joule per second and the table area is 1 m2; the black property essentially means that it absorbs all light that hits it.
 
 [^20]: In some cases, animals ate the plants first, but the energy starts in plants.
 
+We can compare this to the power that goes into making new fossil fuels right now by noting that the entire fossil fuel resource contains roughly[^21] $10^23J$ (page 127), and formed over something like 100 million years, or about $3 x 10^15$ seconds. Dividing the two gives a power of about $3 x 10^7 W$, or 30 MW.[^22]
+
 [^21]: It is not important to nail down precise numbers for this exercise.
 
-[^22]: For reference, a single large university consumes energy at about this rate.
+[^22]: For reference, a single large university consumes energy at about this rate.+++(5)+++
+
+Three neat insights come out of this. First, we currently burn fossil fuels at a rate of about 15 TW, which is 500,000 times faster than they are being replaced! It's like short-circuiting a battery in a dramatic explosion of power. Imagine charging a phone for 2 hours and discharging it 500,000 times faster: in 0.014 seconds! Now look at the extravagant lights of Las Vegas: should we be proud of the blaze of glory or appalled?[^23]
 
 [^23]: Also coming to mind is the Big Bay Boom in San Diego, July 4, 2012, when the entire fireworks display that was meant to last 15-20 minutes all went off in a few dazzling seconds. LMAO. Best ever!
 
+Secondly, out of the total 100 TW photosynthetic budget on Earth, only 30 MW gets captured as fossil fuels, which is one part in three-million. Therefore, the chances that any given living matter on the planet today eventually ends up converted to fossil fuels is exceedingly slim.
+
+Finally, if we only used fossil fuels at a rate of 30 MW,[^24], then we could consider fossil fuels to be a renewable resource, as the sun/geology will slowly make more!+++(5)+++ So whether or not something is renewable also relies on the rate of use not exceeding the rate at which it is replenished.
+
 [^24]: This amount of power could supply only a single campus-sized consumer on Earth.
+</details>
+
 
 ## 10.4 Renewable Snapshot
 Table 7.1 (p. 106) already gave an account of the mix of energy use in the U.S., including many of the renewables. This section revisits those numbers, in slightly more detail.
@@ -343,43 +349,47 @@ total
 100
 11.4
 170
+
 Table 10.3: U.S. Renewable energy consumption in 2018. The last column compares to the 101.3 qBtu total U.S. consumption in 2018 [^34]. Asterisks denote thermal equivalent conversions. While the second column of numbers would be more naturally expressed in GW, the choice of TW is deliberate to emphasize how small renewable usage is compared to the available resource.
-In 2018, roughly 11% of energy in the U.S. came from renewable resources. Table 10.3 lists the contributions from each, the data coming from the Annual Energy Review published by the U.S. Energy Information Administration for 2018. As introduced in Box 7.2 (p. 106), the EIA adopts the practice of assigning a thermal equivalent for each source, in qBtu, even if the source had nothing to do with a thermal process. The rationale is to put everything on the same footing as fossil fuels, for more direct quantitative comparisons. In doing so, they implicitly use the average thermal-to-delivered energy efficiency for fossil fuels of 37.5%.25 In other words, it takes 100 units of thermal fossil energy to produce 37.5 units of useful work. If, then, a solar panel delivers 37.5 units of energy over some amount of time, it will be called 100 units of "input" (thermal equivalent), even though it only delivered 37.5 units.[^26]
-27
-Four forms dominate Table 10.3 (and Figure 10.2), each roughly equal in contribution. Lumping wood and biofuels into a generic "biomass" puts this aggregate category in the clear lead, accounting for nearly half of our renewable energy. As noted, the entries in Table 10.3 are in qBtu of thermal equivalent, and these have been converted to TW, for easy comparison to Table 10.2.28 A key take-away is how tiny the renewable energy numbers are compared to the natural flows in Earth's energy budget.
 
-## 10.5 Upshot: Our Path Forward
-We are now ready to plunge into learning about renewable energy resources. The topics are arranged according to ease of understanding the associated physics, which will be new to many students. So while solar is the most potent of the resources, its chapter follows those of hydroelectricity and wind, since its scheme for generating electricity29 is likely the least intuitive of the three. Biologically-derived energy comes next sharing its direct sunlight origin with solar. Following a foray into nuclear energy, a number of minor contributors that are unlikely to be important are relegated to a single chapter of misfits, for completeness.
-After this, we will be in a position to assess the entire landscape of alternative energy options (Chapter 17). The book will then take a turn
+hydro 24.0%  
+biofuels 19.8%  
+wood 20.5%  
+wind 21.6%  
+solar 8.0%  
+waste 4.3%  
+geothermal 1.8%  
 
-hydro
-geothermal 1.8%
-waste
-4.3%
-wind
-21.6%
-24.0%
-8.0%
-solar
-19.8%
-biofuels
-20.5% /
-wood
 Figure 10.2: Same info as Table 10.3 in pie chart form.
+
+
+In 2018, roughly 11% of energy in the U.S. came from renewable resources. Table 10.3 lists the contributions from each, the data coming from the Annual Energy Review published by the U.S. Energy Information Administration for 2018. As introduced in Box 7.2 (p. 106), the EIA adopts the practice of assigning a thermal equivalent for each source, in qBtu, even if the source had nothing to do with a thermal process. The rationale is to put everything on the same footing as fossil fuels, for more direct quantitative comparisons. In doing so, they implicitly use the average thermal-to-delivered energy efficiency for fossil fuels of 37.5%.[^25] In other words, it takes 100 units of thermal fossil energy to produce 37.5 units of useful work. If, then, a solar panel delivers 37.5 units of energy over some amount of time, it will be called 100 units of "input" (thermal equivalent), even though it only delivered 37.5 units.[^26]
 
 [^25]: 37.5% is the 2018 number from Appendix A6 of the AER.
 
 [^26]: Alternatively, it would have taken 100 units of fossil fuel energy to match the 37.5 units of energy delivered by the solar panel.
 
-[^27]:
-the other half, roughly, coming from hydroelectricity and wind
+Four forms dominate Table 10.3 (and Figure 10.2), each roughly equal in contribution. Lumping wood and biofuels into a generic "biomass" puts this aggregate category in the clear lead, accounting for nearly half of our renewable energy.[^27] 
 
-[^28]: The items with asterisks in Table 10.3 will not match production numbers in later chapters for non-thermal resources that are not expressed in thermal-equivalent
-terms.
+As noted, the entries in Table 10.3 are in qBtu of thermal equivalent, and these have been converted to TW, for easy comparison to Table 10.2.28 A key take-away is how tiny the renewable energy numbers are compared to the natural flows in Earth's energy budget.
+
+[^27]: the other half, roughly, coming from hydroelectricity and wind
+
+[^28]: The items with asterisks in Table 10.3 will not match production numbers in later chapters for non-thermal resources that are not expressed in thermal-equivalent terms.
+
+
+## 10.5 Upshot: Our Path Forward
+We are now ready to plunge into learning about renewable energy resources. The topics are arranged according to ease of understanding the associated physics, which will be new to many students. So while solar is the most potent of the resources, its chapter follows those of hydroelectricity and wind, since its scheme for generating electricity[^29] is likely the least intuitive of the three. Biologically-derived energy comes next sharing its direct sunlight origin with solar. Following a foray into nuclear energy, a number of minor contributors that are unlikely to be important are relegated to a single chapter of misfits, for completeness.
 
 [^29]: Hydroelectricity and wind share much in common with conventional power generation schemes, in that they use turbines and generators.
-171
-away from physics and address how all this new information might fit into future plans at societal and personal levels.
+
+After this, we will be in a position to assess the entire landscape of alternative energy options (Chapter 17). The book will then take a turn away from physics and address how all this new information might fit into future plans at societal and personal levels.
+
+
+
+
+[[171]]
+
 
 ## 10.6 Problems
 1. Based on what you already know or suspect about the alternative
@@ -390,7 +400,7 @@ energy sources listed in Section 10.1, which ones do you suspect3 are pollution 
 solar energy input to Earth?
 5. If, for some terrible reason, the sun ceased shining and humans managed to survive for 1,000 years longer,[^33] what options would be left for obtaining energy?
 34
-6. About 30% of the 1,360 W/m2 solar power arriving at Earth is immediately bounced back without a trace. Of the part that remains, when distributed/averaged around the whole sphere, what is the average energy deposition rate per square meter into the earth system?
+6. About 30% of the 1,360 $W/m^2$ solar power arriving at Earth is immediately bounced back without a trace. Of the part that remains, when distributed/averaged around the whole sphere, what is the average energy deposition rate per square meter into the earth system?
 7. Based on the numbers in Table 10.2, Figure 10.1, and in the text, what fraction (in percent) of all biological activity on Earth do (all) humans represent, from a metabolic energy standpoint?
 8. Based on the numbers in Table 10.2, Figure 10.1, and in the text, what fraction (in percent) is human societal energy production (all activities; fossil fuels, etc.) compared to all biological activity on the planet?
 9. What fraction (in percent) of the solar energy that is absorbed by Earth's surface goes into evaporation (the hydrological cycle; refer to Table 10.2, and Figure 10.1)?
@@ -407,7 +417,7 @@ account for projected vs. total sur-
 
 
 172
-sun overhead, a solar panel has access to more light than the 48% depicted reaching the ground. If we can also capture the portion that on average is reflected by the ground and clouds,35 what might we expect for the rate of energy reaching the ground (in W/m2) if the input at the top of the atmosphere is 1,360 W/m2?
+sun overhead, a solar panel has access to more light than the 48% depicted reaching the ground. If we can also capture the portion that on average is reflected by the ground and clouds,35 what might we expect for the rate of energy reaching the ground (in $W/m^2$) if the input at the top of the atmosphere is 1,360 $W/m^2$?
 12. Similar to Example 10.3.2, how much warmer would you expect a 10 cm deep puddle of water36 to get after an hour in full sun, if the water absorbs all the energy and does not lose it to the environment?
 13. Comparing Table 10.2 and Table 10.3, what is the most striking mismatch,[^37] in terms of large potential vs. small contribution to U.S. energy consumption?
 14. In one day, a typical residential solar installation might deliver about 10 kilowatt-hours of energy. Meanwhile, a gallon of gasoline contains about 37 kWh of thermal energy. But the two ought not be directly compared, as burning the gasoline inevitably loses a lot of energy as heat. Correcting the solar output to a thermal equivalent,[^38] how many gallons per day of gasoline could it displace?
