@@ -16,6 +16,8 @@ title = "Blood"
   - (cholesterol + triglycerides - atherosclerosis risk)
 - Vitamin D
 - Vitamin B12
+- Homocysteine
+  - (Stroke risk measurement, B12 correlation)
 - Hs-CRP (atherosclerosis risk)
-- Homocysteine (Stroke risk measurement)
 - Liver function test (LFT)
+- Kidney function test (KFT)
