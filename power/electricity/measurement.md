@@ -5,9 +5,16 @@ title = "Measurement"
 ## Current
 - Current I - Rate of charge flow. 
 
-## Support for current
+## V = Support for current
 - Potential difference V. Units: Volts
 - V = IR
+
+### Utility supply
+#### India
+- 220V RMS AC, at 50Hz. Single phase.
+
+#### USA
+120 volts RMS ± 6% at 60Hz.
 
 ## Opposition to current
 ### Components
@@ -21,7 +28,10 @@ title = "Measurement"
   - \\(X = X_L - X_C\\)
 
 ## Power
-- \\(P = VI = V^2/R = I^2R\\). 
+- \\(P = VI = V^2/R = I^2R\\).
+- This corresponds to the rate of heat generation + motion etc.. 
 - To reduce power consumption, V being constant, reduce I.
   - In a parallel circuit, can turn off branches (as \\(I = I_1 + I_2\\) ).
   - In a series circuit, increase the resistance in the regulator/ rheostat (as \\(R = R_1 + R_2\\) ).
+
+

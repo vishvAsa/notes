@@ -44,13 +44,24 @@ title = "Wiring"
 - Aka Circuit breaker box, fuse box, consumer unit
 - Decide fuse rating based on load in the associated circuit.
 
+
+### Fuse holder
+- Have V and A  ratings as well.
+
+### Classes
+- Standards - IEC 269 is common.
+- gG - will typically blow within 2–5 seconds at five times the rated current, and within 0.1–0.2 seconds at ten times the rated current.
+- Voltage rating specifies safe operation limit, beyond which there can be arcing etc..
+
 ### High breaking capacity (HBC) fuses
 - Aka High Rupture capacity fuse
 - The fuse wire or element can carry short circuit heavy current for a known time period. During this time if the fault gets removed, then it does not blow off. Otherwise, it blows off or melts. The enclosure of HRC fuse is either of glass or some other chemical compound.
 - inverse time characteristic, which means if the fault current is high then rupture time is less, and if the fault current is not so high, then rupture-time is long.
 - Quite reliable - mostly ensures that there will be no arc
 
+### Wire
+Fuse wires have low melting point and high resistance (As $P = VI = IR^2$). For high resistance, wires of small cross section are used.
+
 ### Other fuse types
-- Wire melt
 - Cartridge Fuse
 
