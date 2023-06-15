@@ -64,40 +64,50 @@ Why should we care about unthinkably small quantities of light? Three reasons co
 3. It's how nature really works.
 
 ## 13.2 The Planck Spectrum
-We should first understand where photons originate, which will help us understand how solar panels work and their limitations. Until recent technological advances, photons tended to come from thermal sources. It's true for the white-hot sun,[^6] and true for flame and incandescent light bulb filaments. Likewise, hot coals, electrical heating elements, and lava are all seen to glow. 
+We should first understand where photons originate, which will help us understand how solar panels work and their limitations. Until recent technological advances, photons tended to come from thermal sources. It's true for the white-hot sun,[^6] and true for flame and incandescent light bulb filaments[^7]. Likewise, hot coals, electrical heating elements, and lava are all seen to glow. 
+
+[^6]: ... and thus stars and even the moon, which is just reflected sunlight
+
+[^7]: Modern lighting like fluorescent and LED sources rely on manipulating energy levels of electrons within atoms and crystals.
 
 Physics tells us how such hot sources radiate, as covered by the next three equations. The first (with units) is:
 
 $P = AσT^4$ (W). (13.3)
 
 We already saw this equation in the context of Earth's energy balance in Sections 1.3 and 9.2. It is called the Stefan-Boltzmann law, describing the total power (in W, or J/s) emitted from a surface whose area is A (in square meters) and temperature, T in Kelvin.[^8]  
+
+[^8]: Recall that temperature in Kelvin is the temperature in Celsius plus 273 (273.15, technically).
+
 The constant, $σ≈ 5.67 × 10^{-8} W/m^2/K^4$ is called the Stefan-Boltzmann constant, and is easy to remember as 5-6-7-8.[^9]
 
-1
-2πhс2
-W/m2
-BA
-=
-15 ehc/AkBT 1
-m
-—
+
+[^9]: The Stefan-Boltzmann constant is actually a witch's brew of more fundamental constants h (Planck's constant), c (speed of light), and $k_B$ (the Boltzmann constant) as $σ =2π^5k_B^4/(15c^2h^3)$.
+
+
+
+$$B_{λ} = \dfrac{2πhс^2}{λ^5(e{hc/λk_BT} - 1)} W/m2/m$$
+
 (13.4)
-Eq. 13.4 might look formidable, but only A and T are variable. It describes the Planck spectrum, otherwise known as the blackbody10 spectrum. For some temperature, T, this function specifies how much power is emitted at each wavelength, A. Three fundamental physical constants from key areas of physics make an appearance: c≈ 3 x 108 m/s is the familiar speed of light from relativity; h≈ 6.626 x $10^{-34}$ J. s is Planck's constant from quantum mechanics, and kB≈ 1.38 x $10^{-33}$ J. K is the Boltzmann constant of thermodynamics.[^11]
-Amax≈
-2.898 × $10^{-3}$
-(m). T(in K)
+
+Eq. 13.4 might look formidable, but only λ and T are variable. It describes the Planck spectrum, otherwise known as the blackbody[^10] spectrum. 
+
+[^10]: The term blackbody effectively means a perfect emitter and absorber of thermal radiation.
+
+
+
+For some temperature, T, this function specifies how much power is emitted at each wavelength, λ. Three fundamental physical constants from key areas of physics make an appearance: c≈ 3 x 108 m/s is the familiar speed of light from relativity; h≈ 6.626 x $10^{-34}$ J. s is Planck's constant from quantum mechanics, and kB≈ 1.38 x $10^{-33}$ J. K is the Boltzmann constant of thermodynamics.[^11]
+
+[^11]: This last one may be more familiar to students in its chemistry form of the gas constant $R = k_B N_A $ ≈ 8.31J/K/mol, where $N_A≈ 6.022 × 10^23$ is Avogadro's number.
+
+
+$λ_max≈ 2.898 × 10^{-3}/T(in K)$ (m). 
+
 (13.5)
 
 199
-6: ... and thus stars and even the moon, which is just reflected sunlight
-7: Modern lighting like fluorescent and LED sources rely on manipulating energy levels of electrons within atoms and crystals.
-8: Recall that temperature in Kelvin is the temperature in Celsius plus 273 (273.15, technically).
-9: The Stefan-Boltzmann constant is actually a witch's brew of more fundamental constants h (Planck's constant), c (speed of light), and KB (the Boltzmann constant) as
-2π5k/(15c2h3).
-σ =
-10: The term blackbody effectively means a perfect emitter and absorber of thermal radiation.
-11: This last one may be more familiar to students in its chemistry form of the gas constant R = kB NA≈ 8.31J/K/mol, where NA≈ 6.022 × 1023 is Avogadro's number.
+
 Eq. 13.5 is called the Wien law and is a numerical solution identifying the peak of the blackbody spectrum as a function of temperature. Higher temperatures mean higher kinetic energies at a microscopic scale, so that higher-energy (shorter-wavelength) photons can be produced. This is why as objects get hotter, they move from red to white, and eventually to a blue tint.
+
 All this may seem overwhelming, but take a breath, then just look at Figure 13.1. Everything so far in this section is captured by Figure 13.1.
 
 1e8
