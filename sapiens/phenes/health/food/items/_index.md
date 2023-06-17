@@ -14,6 +14,3 @@ Nutrition comparisons
 
 ### Veganism
 - "long-term vegan is harmful but intermittent veganism isn’t."
-
-## Eggs
-- Eggs have a bad reputation because of their high cholesterol content: 210 milligrams in the yolk of a large egg. ... Eating three eggs a day for 30 days increased cholesterol in susceptible people, but their LDL particles were larger, and there was no change in the ratio between LDL and HDL, which suggests no major change in coronary risk. More significantly, eggs do not appear to contribute to heart disease in most people. A pivotal study from Harvard in 1999, of nearly 120,000 men and women, found no association between eggs—up to one a day—and heart disease, except in people with diabetes. Nor did it find a link between eggs and strokes.
