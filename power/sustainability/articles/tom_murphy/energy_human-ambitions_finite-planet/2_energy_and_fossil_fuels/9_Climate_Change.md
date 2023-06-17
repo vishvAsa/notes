@@ -338,7 +338,7 @@ presence of excess CO2 in our atmosphere is undeniably from fossil fuel combusti
 [^54]: Pierrehumbert (2011), "Infrared radiation and planetary temperature" 
 
 of 
-this is the mechanism by which energy leaves the earth, the power which is governed by the Stefan-Boltzmann law P = AsurfσT4, where the Stefan-Boltzmann constant,[^15] σ = 5.67 x $10^{-8}$ W/m2/K4, and T is the temperature of the radiating surface, in Kelvin. 
+this is the mechanism by which energy leaves the earth, the power which is governed by the Stefan-Boltzmann law P = AsurfσT4, where the Stefan-Boltzmann constant,[^15] σ = 5.67 x $10^{-8}$ $W/m^2$/K4, and T is the temperature of the radiating surface, in Kelvin. 
 Sun 
 infrared radiation from $4πR^2$ 
 9 Climate Change 
@@ -348,8 +348,8 @@ infrared radiation from $4πR^2$
 ..easy as 5-6-7-8 
 $πR^2$ projection intercepted sunlight, 
 Sun's view 
-The sun delivers energy to the top of the earth's atmosphere at a rate16 of 1,360 W/m2. About 30% of this light-29.3%, to be precise-is immedi- ately reflected by clouds, snow, and to a lesser extent water and terrain. The remaining 70.7% of the light intercepts the earth in a projected disk of area Aproj = πR (Figure 9.6). But the total surface area of the earth is four times this, all of it contributing to infrared radiation to space. In perfect balance,[^17] energy absorbed equals energy radiated: 
-0.707 x 1360 W/m2 × $πR^2$ = $4πR^2σТ4$. 
+The sun delivers energy to the top of the earth's atmosphere at a rate16 of 1,360 $W/m^2$. About 30% of this light-29.3%, to be precise-is immedi- ately reflected by clouds, snow, and to a lesser extent water and terrain. The remaining 70.7% of the light intercepts the earth in a projected disk of area Aproj = πR (Figure 9.6). But the total surface area of the earth is four times this, all of it contributing to infrared radiation to space. In perfect balance,[^17] energy absorbed equals energy radiated: 
+0.707 x 1360 $W/m^2$ × $πR^2$ = $4πR^2σТ4$. 
 (9.1) 
 The πR factors cancel, and we can rearrange to isolate temperature: 
 Figure 9.6: Earth intercepts sunlight across the projected area of the Earth's disk (R2), while radiating from the entire surface area, which is four times larger ($4πR^2$). 
@@ -357,9 +357,9 @@ Figure 9.6: Earth intercepts sunlight across the projected area of the Earth's d
 [^16]: This is called the solar constant [^4], and will appear again in Chapter 10 and Chapter 
 13. 
 
-[^17]: An imbalance would mean energy is ac- cumulating or being lost, leading to warm- ing or cooling. Even under present condi- tions, the balance is good to within 1 W/m2. 
+[^17]: An imbalance would mean energy is ac- cumulating or being lost, leading to warm- ing or cooling. Even under present condi- tions, the balance is good to within 1 $W/m^2$. 
 T4 
-0.707 x 1360 W/m2 
+0.707 x 1360 $W/m^2$ 
 = 
 40 
 (9.2) 
@@ -452,10 +452,10 @@ change, but a hefty passenger.
 No greenhouse gases 
 A 
 Greenhouse gases 
-Naïvely speaking, going from 280 ppm, to 420 ppm, (an increase by a factor of 1.5), might be expected to turn the 8.6°C greenhouse effect from CO2 into 12.9°C (1.5x) for a 4.3 degree human-caused warming.[^24] But the CO2 absorption feature at 15 um is saturated, so as CO2 is added, it becomes wider, but logarithmically rather than linearly as a function of CO2 concentration. Climate scientists often express the impact of various influences as a radiative forcing, measured in W/m2. 
-Definition 9.2.1 Radiative forcing is used to describe the areal power (in W/m2) of absorbed solar energy and infrared radiation to space. Various influences or constituents each contribute their own radiative forcing. In equilibrium, a balance exists so that the net25 radiative forcing is zero. 
+Naïvely speaking, going from 280 ppm, to 420 ppm, (an increase by a factor of 1.5), might be expected to turn the 8.6°C greenhouse effect from CO2 into 12.9°C (1.5x) for a 4.3 degree human-caused warming.[^24] But the CO2 absorption feature at 15 um is saturated, so as CO2 is added, it becomes wider, but logarithmically rather than linearly as a function of CO2 concentration. Climate scientists often express the impact of various influences as a radiative forcing, measured in $W/m^2$. 
+Definition 9.2.1 Radiative forcing is used to describe the areal power (in $W/m^2$) of absorbed solar energy and infrared radiation to space. Various influences or constituents each contribute their own radiative forcing. In equilibrium, a balance exists so that the net25 radiative forcing is zero. 
 The average solar forcing is 
-RF = 1360 W/m2 x 0.707/4≈ 240 W/m2, 
+RF = 1360 $W/m^2$ x 0.707/4≈ 240 $W/m^2$, 
 (9.3) 
 sharing substantial overlap with Eq. 9.2-the factors having been ex- plained in that context. Without adding to the pre-industrial set of greenhouse gases (GHGs), we would solve for temperature26 as 
 Figure 9.9: In the absence of greenhouse gases, infrared radiation has no difficulty escaping to space (left). When greenhouse gases (GHGs) are present (right), most of the infrared radiation is absorbed by GHG molecules. These molecules later release the absorbed energy as new infrared radiation, but in a randomized direction, so that some energy is returned to the ground, thereby keeping the surface warmer than it would be without greenhouse gases. 
@@ -477,10 +477,10 @@ evaluating to 288 K, or about 15°C. If we add (or deduct) radiative forcing fro
 RFco, 5.35 ln 
 = 
 CO2 CO2,orig 
-W/m2, 
+$W/m^2$, 
 (9.5) 
 .capturing the logarithmic broaden- ing of the width of the CO2 absorption feature at 15 um in Figure 9.7 
-where the In() function is the natural logarithm.[^27] At our present ~420 ppm, the ratio of current CO2 to CO2,orig is 1.5 and RFCO2≈ 2.2 W/m2, so that the new temperature (adding the new forcing to Eq. 9.4) is 
+where the In() function is the natural logarithm.[^27] At our present ~420 ppm, the ratio of current CO2 to CO2,orig is 1.5 and RFCO2≈ 2.2 $W/m^2$, so that the new temperature (adding the new forcing to Eq. 9.4) is 
 
 [^27]: 
 0.25 RF + RFCO2 
@@ -489,11 +489,11 @@ T =
 σ 
 (9.6) 
 
-which is about 0.6°C larger than it was before increasing the amount of CO2. We can express this as a sensitivity: how much AT do we get for a given imbalance in radiative forcing? In this case, 0.6°C from a 2.2 W/m2 increase is 0.27°C per W/m2. But when the known feedback mechanisms are included-most of them in the positive direction-the temperature sensitivity becomes 0.8°C for every W/m2 of additional forcing: called the climate sensitivity parameter.[^28] 
-Definition 9.2.2 The climate sensitivity parameter connects the amount of warming expected for a given amount of radiative forcing. Current understanding puts this at 0.8°C per W/m2 of radiative forcing. 
-Therefore, our current 2.2 W/m2 of additional (fossil-fuel added) radia- tive forcing translates29 to a 1.7°C temperature increase (Figure 9.10), which is about three times what the non-feedback calculation would provide. 
+which is about 0.6°C larger than it was before increasing the amount of CO2. We can express this as a sensitivity: how much AT do we get for a given imbalance in radiative forcing? In this case, 0.6°C from a 2.2 $W/m^2$ increase is 0.27°C per $W/m^2$. But when the known feedback mechanisms are included-most of them in the positive direction-the temperature sensitivity becomes 0.8°C for every $W/m^2$ of additional forcing: called the climate sensitivity parameter.[^28] 
+Definition 9.2.2 The climate sensitivity parameter connects the amount of warming expected for a given amount of radiative forcing. Current understanding puts this at 0.8°C per $W/m^2$ of radiative forcing. 
+Therefore, our current 2.2 $W/m^2$ of additional (fossil-fuel added) radia- tive forcing translates29 to a 1.7°C temperature increase (Figure 9.10), which is about three times what the non-feedback calculation would provide. 
 Example 9.2.1 If we double our CO2 concentration from pre-industrial levels, what would we expect the temperature increase to be? 
-Pre-industrial CO2 was 280 ppmy, so doubling it adds 280 ppm, for a total of 560 ppm. The radiative forcing is then 5.35 ln(2)≈ 3.7 W/m2. Multiply this by the climate sensitivity of 0.8°C per W/m2 to get a temperature increase of about 3.0°C (would be 1°C without feedback). 
+Pre-industrial CO2 was 280 ppmy, so doubling it adds 280 ppm, for a total of 560 ppm. The radiative forcing is then 5.35 ln(2)≈ 3.7 $W/m^2$. Multiply this by the climate sensitivity of 0.8°C per $W/m^2$ to get a temperature increase of about 3.0°C (would be 1°C without feedback). 
 The positive feedbacks are important, and include factors like: 
 1. A warmer planet means less ice (glaciers, Arctic cap), resulting in less reflected sunlight, increasing the 0.707 absorption factor in Eq. 9.3 to increase solar forcing. 
 2. Warmer air can hold more water vapor-the principal green- house gas, thus driving up the nominal 33°C greenhouse gas 
@@ -506,8 +506,8 @@ Global temperature increase is already about 1.0°C [^58]. Note that even if we 
 
 [^28]: See [^57] for a good synopsis and refer- ences to primary material within. 
 
-[^29]: Just multiply 2.2 W/m2 by 0.8 °C per W/m2. 
-Radiative forcing (W/m2) 
+[^29]: Just multiply 2.2 $W/m^2$ by 0.8 °C per $W/m^2$. 
+Radiative forcing ($W/m^2$) 
 3.5 
 4.5 
 4.0 
@@ -528,7 +528,7 @@ Radiative forcing (W/m2)
 0.0 
 300 350 400 450 500 550 600 CO, concentration (ppm) 
 Temperature increase (°C) 
-Figure 9.10: As CO2 concentration increases, the radiative forcing (left axis) increases, driving the temperature (right axis) up. We are now at 420 ppm, corresponding to a radiative forcing of 2.2 W/m2 and 1.7°C of ultimate temperature increase (red star). Presently, the temperature has only in- creased by 1.0°C (red circle), but will catch up to a new equilibrium once oceans warm and ice melts. 
+Figure 9.10: As CO2 concentration increases, the radiative forcing (left axis) increases, driving the temperature (right axis) up. We are now at 420 ppm, corresponding to a radiative forcing of 2.2 $W/m^2$ and 1.7°C of ultimate temperature increase (red star). Presently, the temperature has only in- creased by 1.0°C (red circle), but will catch up to a new equilibrium once oceans warm and ice melts. 
 
 [^30]: 
 By far the most important negative feedback mechanism is the infrared radia- tion itself, increasing dramatically as tem- perature increases (as T4), thus opposing the temperature rise by a cooling influence. Here, we mean negative feedback influences in addition to this main one. 
@@ -540,7 +540,7 @@ By far the most important negative feedback mechanism is the infrared radia- tio
 148 
 9.3 Possible Trajectories 
 Launching from the data used to generate Figure 9.3, we can now play a few games to understand what our future might hold in terms of total CO2 rise and corresponding AT increases by the year 2100 under various contrived scenarios.[^32] 
-First, let's imagine that we suddenly arrest the upward climb charac- teristic of fossil-fuel usage to date33 and maintain present-day levels of fossil fuel use from now until 2100. Figure 9.11 shows what hap- pens. The total added CO2 rises to 2.75 times the current excess, to 339 ppm, 34 above pre-industrial levels. The associated radiative forcing would be 4.25 W/m2 and result in a 3.4°C temperature increase. Table 9.5 summarizes this scenario and the three to follow. 
+First, let's imagine that we suddenly arrest the upward climb charac- teristic of fossil-fuel usage to date33 and maintain present-day levels of fossil fuel use from now until 2100. Figure 9.11 shows what hap- pens. The total added CO2 rises to 2.75 times the current excess, to 339 ppm, 34 above pre-industrial levels. The associated radiative forcing would be 4.25 $W/m^2$ and result in a 3.4°C temperature increase. Table 9.5 summarizes this scenario and the three to follow. 
 200 
 1.50 
 2100: 2.6 ppmv/yr 
@@ -580,7 +580,7 @@ gas
 1800 1850 1900 1950 2000 2050 2100 
 year 
 AT 
-RFCO2 (ppm) (W/m2) (°C) 
+RFCO2 (ppm) ($W/m^2$) (°C) 
 Figure 9.11: CO2 rise if fixing fossil fuel use at today's levels for the rest of the century, following the conventions of Figure 9.3. We would still add 2.6 ppm, per year from now until the end of the run in 2100, and would have accumulated a total rise of 339 ppmy, or 2.75 times the problematic amount al- ready accumulated to date. The associated temperature rise would be 3.4°C. For this and all subsequent scenarios, the plots show only the half of emitted CO2 that remains in the atmosphere. 
 Table 9.5: Summary of scenario outcomes. 
 Scenario 
@@ -619,7 +619,7 @@ The second scenario focuses on eliminating coal, since it is the highest intensi
 [^36]: 
 based on its lower energy density (5-8 kcal/g vs. 13 for natural gas) and its higher CO2-to-fuel mass ratio (3.67 vs. 2.75 for natural gas) 
 
-simulation allows us to evaluate the best-case (and unrealistic) scenario of instant, complete replacement, to put a limit on how much benefit such a move brings. Figure 9.12 shows what happens. The rate of CO2 emission would immediately drop to 1.8 ppm/year.[^37] That definitely helps, but the total emission by 2100-if carrying on at today's energy demand via fossil fuels-would climb to 268 ppmy. The effect would more than double the 123 ppm, that we've already contributed to the atmosphere, and would approximately double the pre-industrial CO2 level in the atmosphere, leading to a forcing of 3.6 W/m2 and AT ≈ 2.9°C (summarized in Table 9.5). So as beneficial as the termination of coal would be, any path that involves carrying our fossil fuel use forward at today's levels even substituting the best form for the worst form-does not look promising. 
+simulation allows us to evaluate the best-case (and unrealistic) scenario of instant, complete replacement, to put a limit on how much benefit such a move brings. Figure 9.12 shows what happens. The rate of CO2 emission would immediately drop to 1.8 ppm/year.[^37] That definitely helps, but the total emission by 2100-if carrying on at today's energy demand via fossil fuels-would climb to 268 ppmy. The effect would more than double the 123 ppm, that we've already contributed to the atmosphere, and would approximately double the pre-industrial CO2 level in the atmosphere, leading to a forcing of 3.6 $W/m^2$ and AT ≈ 2.9°C (summarized in Table 9.5). So as beneficial as the termination of coal would be, any path that involves carrying our fossil fuel use forward at today's levels even substituting the best form for the worst form-does not look promising. 
 9 Climate Change 
 149 
 
@@ -661,7 +661,7 @@ gas
 1800 1850 1900 1950 2000 2050 2100 1800 1850 1900 1950 2000 2050 2100 
 year 
 year 
-The emphasis, then, should be to taper off fossil fuel use so that we wean ourselves of dependency. The transition could be fast or slow. A slower version might target the year 2100 for a full termination of fossil fuels. Figure 9.13 shows an idealization of what this might look like. Notice that the resulting curves are roughly symmetric, in that the downslope is not terribly different from the upslope. Let's pause to reflect on how incredible and fast the rise of fossil fuels has been. A descent as steep as the rise represents change at an astounding pace-which would be pretty disruptive in the best circumstances. In the absence of suitable substitutions, this would be a tremendously difficult journey, but one we may be forced to make by any number of paths.[^38] In any case, the eventual added CO2 would end up at 235 ppm, almost doubling what we have already emitted, and nearly doubling the pre-industrial CO2 level in the atmosphere. The forcing in this case would be 3.3 W/m2 and 
+The emphasis, then, should be to taper off fossil fuel use so that we wean ourselves of dependency. The transition could be fast or slow. A slower version might target the year 2100 for a full termination of fossil fuels. Figure 9.13 shows an idealization of what this might look like. Notice that the resulting curves are roughly symmetric, in that the downslope is not terribly different from the upslope. Let's pause to reflect on how incredible and fast the rise of fossil fuels has been. A descent as steep as the rise represents change at an astounding pace-which would be pretty disruptive in the best circumstances. In the absence of suitable substitutions, this would be a tremendously difficult journey, but one we may be forced to make by any number of paths.[^38] In any case, the eventual added CO2 would end up at 235 ppm, almost doubling what we have already emitted, and nearly doubling the pre-industrial CO2 level in the atmosphere. The forcing in this case would be 3.3 $W/m^2$ and 
 AT≈ 2.6°C. 
 Reducing fossil fuel use even more quickly, tapering to zero by 2050, results in Figure 9.14. The descent is alarmingly steep, and difficult to imagine happening in practice unless major disruptions 39 force this upon us. In any case, should we manage such a feat, our total CO2 
 Figure 9.12: CO2 rise if instantly substitut- ing coal (worst CO2 intensity) with natural gas (best CO2 intensity) and then maintain- ing current levels for the rest of this century. Our annual contribution would drop from 2.6 ppm/yr to 1.8 ppm/yr based on this substitution, and the total accumulation would be 268 ppm, by century's end (2.2 times the accumulation to date). The associ- ated temperature rise would be 2.9°C. 
@@ -752,7 +752,7 @@ gas
 year 
 year 
 Figure 9.14: CO2 rise if we mounted a super- aggressive weaning of fossil fuels, com- pleted by the year 2050. In this extreme case, the total CO2 emission would be 169 ppmy, or 37% more than we have produced to date. The associated temperature rise would be 2°C. 
-contribution to the atmosphere would be an increase of 169 ppmv, which is 37% more than we have emitted to date. Adding another~ 40%, then, seems like the best we could hope to see, but possibly accompanied by serious hardships in adapting. The radiative forcing associated with this scenario is 2.5 W/m2, corresponding to AT ≈ 2°C. 
+contribution to the atmosphere would be an increase of 169 ppmv, which is 37% more than we have emitted to date. Adding another~ 40%, then, seems like the best we could hope to see, but possibly accompanied by serious hardships in adapting. The radiative forcing associated with this scenario is 2.5 $W/m^2$, corresponding to AT ≈ 2°C. 
 9.4 Climate Change Consequences 
 Turning up the thermostat on the planet results in too many effects to chronicle here. Obviously, the climate is impacted-in terms of storm frequency and intensity, rainfall, snowfall and water supply, season durations, and the ability of plant and animal species to adapt to the changes. The timescale over which we are changing the climate is far faster than evolution can track, except for microbial life and maybe insects, whose shorter generational turnover permits a more dynamic response. Humans are late arrivals to a long evolutionary sequence, which laid a foundation to support our lives in complex interconnected 
 Try replicating! 
@@ -767,9 +767,9 @@ tent
 
 [^41]: For amusement, try substituting the phrase "climate change" with "hotting up." 
 9.4.1 Heating Up 
-Recall that the radiative forcing of 2.2 W/m2 arising from a 50% enhance- ment to the pre-industrial CO2 concentration42 is expected to result in 1.7°C of eventual warming. But measurements indicate only 1.0°C of warming so far. Is our understanding wrong? 
+Recall that the radiative forcing of 2.2 $W/m^2$ arising from a 50% enhance- ment to the pre-industrial CO2 concentration42 is expected to result in 1.7°C of eventual warming. But measurements indicate only 1.0°C of warming so far. Is our understanding wrong? 
 As we saw in Sec. 6.2 (p. 85), it takes energy to change something's temperature. When the rate of energy input43 is limited, it takes time to accomplish a temperature rise.[^44] 
-Earth is by-and-large in thermodynamic equilibrium. The sun deposits energy onto Earth at a rate of 240 W/m2, when averaged over the surface (Eq. 9.3). Prior to the modern increase in CO2 concentration, we had no additional radiative forcing from CO2 and had an average surface temperature of 288 K (15°C), as in Eq. 9.4. Because it was in equilibrium, we know that the infrared radiation from Earth must have also totaled 240 W/m2 to match the solar input. 
+Earth is by-and-large in thermodynamic equilibrium. The sun deposits energy onto Earth at a rate of 240 $W/m^2$, when averaged over the surface (Eq. 9.3). Prior to the modern increase in CO2 concentration, we had no additional radiative forcing from CO2 and had an average surface temperature of 288 K (15°C), as in Eq. 9.4. Because it was in equilibrium, we know that the infrared radiation from Earth must have also totaled 240 $W/m^2$ to match the solar input. 
 
 [^42]:...from 280 ppm, to 420 ppm, 
 
@@ -813,19 +813,19 @@ GHG: 0.80
 289 K 
 289.8 K 
 pre-industrial equilibrium 
-add CO,: 2 W/m2 imbalance adjusting: 1 W/m2 imbalance 
+add CO,: 2 $W/m^2$ imbalance adjusting: 1 $W/m^2$ imbalance 
 post-CO, equilibrium 
-Figure 9.15: Four steps to illustrate (in a grossly simplified way) the process of Earth adapting to an increase in greenhouse gas (GHG). Starting from the left within each panel, solar input is held constant at 240 W/m2. Most of the radiation leaving the ground-quantitatively adhering to oT1-is absorbed by GHGs (fraction absorbed indicated in GHG "cloud"), the rest escaping directly to space. Half the absorbed energy is radiated up (escaping) and half back down. The dashed arrow at right is the net radiation escaping. Integer numbers are in W/m2, and arrow widths are scaled accordingly. Ground temperature is indicated at bottom. See text for narrative sequence. 
-Figure 9.15 sums up the story.[^45] The first panel shows the pre-industrial equilibrium condition, in which 77% of the infrared radiation from the ground was intercepted by the greenhouse gases, while 23% (90 W/m2) 
+Figure 9.15: Four steps to illustrate (in a grossly simplified way) the process of Earth adapting to an increase in greenhouse gas (GHG). Starting from the left within each panel, solar input is held constant at 240 $W/m^2$. Most of the radiation leaving the ground-quantitatively adhering to oT1-is absorbed by GHGs (fraction absorbed indicated in GHG "cloud"), the rest escaping directly to space. Half the absorbed energy is radiated up (escaping) and half back down. The dashed arrow at right is the net radiation escaping. Integer numbers are in $W/m^2$, and arrow widths are scaled accordingly. Ground temperature is indicated at bottom. See text for narrative sequence. 
+Figure 9.15 sums up the story.[^45] The first panel shows the pre-industrial equilibrium condition, in which 77% of the infrared radiation from the ground was intercepted by the greenhouse gases, while 23% (90 $W/m^2$) 
 
 
 [^45]: Note that in each panel, adding the two top arrows or subtracting the two bot- tom ones both yield the same number- matching the dashed arrow on the right. 
-directly escaped. The 77% absorbed (300 W/m2) is re-radiated equally up and down (150 W/m2 each). The net outgoing radiation matches the 240 W/m2 solar input exactly, signaling equilibrium. 
+directly escaped. The 77% absorbed (300 $W/m^2$) is re-radiated equally up and down (150 $W/m^2$ each). The net outgoing radiation matches the 240 $W/m^2$ solar input exactly, signaling equilibrium. 
 47 
-Pretend that we suddenly increased the CO2 concentration to 420 ppm in one instant, which takes us to the second panel of Figure 9.15. The ground has not had time to change temperature yet, but the added GHG absorbs more of the outgoing radiation (78%). Now the numbers are not balanced. Only 238 W/m2 radiates away, leaving a 2 W/m2 net influx of energy. This is what we have been calling the radiative forcing. 
+Pretend that we suddenly increased the CO2 concentration to 420 ppm in one instant, which takes us to the second panel of Figure 9.15. The ground has not had time to change temperature yet, but the added GHG absorbs more of the outgoing radiation (78%). Now the numbers are not balanced. Only 238 $W/m^2$ radiates away, leaving a 2 $W/m^2$ net influx of energy. This is what we have been calling the radiative forcing. 
 49 
-After some time (third panel; representing our current status, roughly), the extra input energy starts to heat up the earth environment to 289 K (16°C),48 which cranks up the radiation leaving the ground according to the σT4 radiation law. At the same time, the higher temperature drives some positive feedback effects, putting more GHG into the atmosphere and raising the absorption fraction. Meanwhile, the imbalance has moderated to 1 W/m2 as the system edges toward a new equilibrium. 
-Finally, equilibrium is re-established in the last panel of Figure 9.15, at which point outgoing energy and incoming energy are again matched at 240 W/m2. The feedback mechanisms essentially tripled the change in GHG absorption: initially a 1% bump ultimately becoming 3%. Without this effect, the system would equilibrate at 288.6 K (15.6°C),50 in which case 393 W/m2 leaves the ground, and 153 W/m2 is re-radiated from the atmosphere. 
+After some time (third panel; representing our current status, roughly), the extra input energy starts to heat up the earth environment to 289 K (16°C),48 which cranks up the radiation leaving the ground according to the σT4 radiation law. At the same time, the higher temperature drives some positive feedback effects, putting more GHG into the atmosphere and raising the absorption fraction. Meanwhile, the imbalance has moderated to 1 $W/m^2$ as the system edges toward a new equilibrium. 
+Finally, equilibrium is re-established in the last panel of Figure 9.15, at which point outgoing energy and incoming energy are again matched at 240 $W/m^2$. The feedback mechanisms essentially tripled the change in GHG absorption: initially a 1% bump ultimately becoming 3%. Without this effect, the system would equilibrate at 288.6 K (15.6°C),50 in which case 393 $W/m^2$ leaves the ground, and 153 $W/m^2$ is re-radiated from the atmosphere. 
 9.4.2 Heating Earth's Skin 
 Let's now understand a bit more about the process of heating up the Earth's air, water, land, and ice during the time when outgoing energy does not match incoming energy.[^51] We know from Sec. 6.2 (p. 85) that it takes energy to change something's temperature. For instance, it takes 4,184 J to raise the temperature of a kilogram (liter) of water by 1°C, or about 1,000 J for many other substances like air and rock. Also relevant, and not introduced before, is that it takes a substantial amount of energy to melt ice. 
 Definition 9.4.1 The heat of fusion of ice is 334 J per gram, meaning that every gram of ice that goes from just below freezing to just above 52 requires an input of 334 J. 
@@ -905,13 +905,13 @@ Example 9.4.1 We will use the ocean as an example of how to interpret and use Ta
 If we ask how much energy it would take to raise the temperature of the upper 10 m of the ocean by 2.5°C, we multiply 1.5 x 1021 J/m/°C by 10 m and 2.5°C to get 3.75 x 1022 J. Heating the entire volume of the ocean by 0.5°C would require 5.9 x 1024 J/°C times 0.5°C for 3 x 1024 J of energy. 
 Similarly but without any temperature element-it would take ~ 49 x 1021 J to melt 10 m of Earth's ice, and would take 8.8 x 1024 J to 
 melt it all. 
-We are now in a position to appreciate how long it can take to change temperatures on a planetary scale for a certain imbalance in radiative forcing. If, for instance, the imbalance is 1 W/m2,55 then Earth receives an extra 5.1 x 1014 J each second, or 1.6 x 1022 J in a year.[^56] We can compare this annual surplus energy to the values in Table 9.7 to understand how deeply the components would be heated or melted per year for a 1 W/m2 radiative forcing imbalance. 
-Example 9.4.2 If we could direct all of the annual surplus 1.6 × 1022 J arising from a 1 W/m2 imbalance into one component only,[^57] we could ask: to what depth will each component be heated by 1°C or melt the ice? 
+We are now in a position to appreciate how long it can take to change temperatures on a planetary scale for a certain imbalance in radiative forcing. If, for instance, the imbalance is 1 $W/m^2$,55 then Earth receives an extra 5.1 x 1014 J each second, or 1.6 x 1022 J in a year.[^56] We can compare this annual surplus energy to the values in Table 9.7 to understand how deeply the components would be heated or melted per year for a 1 $W/m^2$ radiative forcing imbalance. 
+Example 9.4.2 If we could direct all of the annual surplus 1.6 × 1022 J arising from a 1 $W/m^2$ imbalance into one component only,[^57] we could ask: to what depth will each component be heated by 1°C or melt the ice? 
 
 [^55]: 
 as it roughly is now; third panel in Figure 9.15 
 
-[^56]: 1 W/m2 times the 5.1 x 1014 m2 area of Earth, then 3.16 x 107 seconds in a year. 
+[^56]: 1 $W/m^2$ times the 5.1 x 1014 m2 area of Earth, then 3.16 x 107 seconds in a year. 
 
 [^57]: 
 not how it really works 
@@ -930,9 +930,9 @@ Ocean
 ice 
 X 
 From this, we see that land is more easily heated, and ice is most resistant-only shaving about 3 m per year if somehow the entire wrath of radiative imbalance were directed upon it. 
-Likewise, we can explore how long it would take to raise the tempera- ture of entire components or melt all of the ice-for an imbalance of 1 W/m2. 
-Example 9.4.3 If we could direct all of the annual surplus 1.6 × 1022 J arising from a 1 W/m2 imbalance into one component only,[^58] we could ask: how much will the temperature rise of the entire body be per year, or how much ice would melt? 
-If the radiative forcing imbalance is larger or smaller than 1 W/m2, the effect will be proportionally deeper or shallower. Like- wise, if we ask about a temperature increase larger than 1°C, the depth would be smaller in proportion. 
+Likewise, we can explore how long it would take to raise the tempera- ture of entire components or melt all of the ice-for an imbalance of 1 $W/m^2$. 
+Example 9.4.3 If we could direct all of the annual surplus 1.6 × 1022 J arising from a 1 $W/m^2$ imbalance into one component only,[^58] we could ask: how much will the temperature rise of the entire body be per year, or how much ice would melt? 
+If the radiative forcing imbalance is larger or smaller than 1 $W/m^2$, the effect will be proportionally deeper or shallower. Like- wise, if we ask about a temperature increase larger than 1°C, the depth would be smaller in proportion. 
 
 [^58]: 
 not how it really works 
@@ -954,10 +954,10 @@ The atmosphere is a wimp: it takes very little to change its temperature. The oc
 59 
 What we learn from the examples is that the ocean and ice are both substantial thermal brakes on fast heating. Even though ice has a much larger energy cost per kg, its total mass is substantially smaller than that of the entire ocean-the two effects roughly balancing. In reality, we might expect oceanic circulation patterns to concentrate heating in the upper layers rather then distributing uniformly to the full depth. So the upper layer of the ocean-which then controls air temperature can reach a 1°C increase well before 367 years elapse. Indeed, we are already seeing warming at this scale in less than a century. 
 60 
-The way things really work is that the excess 1.6 x 1022 J annually associated with a radiative excess of 1 W/m2 gets distributed into lots of channels at once. If ice only gets 3% of the attention in proportion to its area, only 5 × 1020 J goes into the ice in a year. Dividing by 4.9 × 1021 J/m (from Table 9.7), we find that we might expect 0.1 m of ice to disappear each 
+The way things really work is that the excess 1.6 x 1022 J annually associated with a radiative excess of 1 $W/m^2$ gets distributed into lots of channels at once. If ice only gets 3% of the attention in proportion to its area, only 5 × 1020 J goes into the ice in a year. Dividing by 4.9 × 1021 J/m (from Table 9.7), we find that we might expect 0.1 m of ice to disappear each 
 Since the ocean is roughly 25 times larger than the ice areas, year. the associated sea level rise from redistributing the ice melt across the entire ocean surface would be about 25 times less, or about 4 mm/yr.[^61] 
 Meanwhile, the constant, swirling contact between water and air, and between air and land, keeps all three in sync with each other: one will not race off to get hot without the others. And in this case, the ocean-with its giant thermal mass and extensive air-water interface is the limiting 
-As before, this pretends that the entire ra- diative imbalance is directed upon a single component, in turn. If the radiative imbal- ance is larger or smaller than 1 W/m2, the effect will be proportionally more or less 
+As before, this pretends that the entire ra- diative imbalance is directed upon a single component, in turn. If the radiative imbal- ance is larger or smaller than 1 $W/m^2$, the effect will be proportionally more or less 
 severe. 
 
 [^59]:...334 kJ vs. ~4 kJ to heat water by 1°C 
@@ -968,7 +968,7 @@ Tip: don't treat sections like this as the text- book "telling" you stuff. It is
 [^61]: This is not far from reality, as will be seen in Section 9.4.3. 
 
 centimeters 
-factor on how fast things can heat up. If we confine ocean heating to the top 300 m62 of water, the excess 1.6 × 1022 J per year leads to an annual temperature rise of about 0.035°C per year, or about 30 years to climb 1°C (at a 1 W/m2 imbalance). 
+factor on how fast things can heat up. If we confine ocean heating to the top 300 m62 of water, the excess 1.6 × 1022 J per year leads to an annual temperature rise of about 0.035°C per year, or about 30 years to climb 1°C (at a 1 $W/m^2$ imbalance). 
 Although this section may seem to be long, convoluted, and perhaps even boring, it accomplished a number of things for us: 
 1. it showed how a change in GHG absorption fraction leads to a 
 radiative forcing imbalance; 
@@ -1104,9 +1104,9 @@ Is this warmer or cooler than the actual average surface temperature (given GHG 
 14. Based on Figures 9.7 and 9.8, is the atmosphere transparent or opaque at a wavelength of 1.0 um? What about at 6 μm? And how would you characterize the situation at 2 um? 
 15. If enough ice on Earth melted and resulted in 25% reflectance instead of 29.3%, what would the equilibrium temperature become, still applying the nominal 33 K GHG contribution? How much temperature rise is this compared to the equilibrium temperature at 29.3% reflection? 
 16. Table 9.4 has H2O as the leading greenhouse gas, and all of them adding to 33 °C of warming effect on Earth. Should it be our goal to reduce all of these effects to the lowest numbers possible?82 Why or why not? How would you characterize the greenhouse effect and why it is of concern to us? 
-17. Treating Figure 9.9 somewhat literally, in which one out of every four infrared photons escapes without being absorbed by a green- house gas molecule, what would the effective upward radiation be if 400 W/m2 left the ground, and re-radiation of the absorbed fraction was split equally between upward radiation and radiation returning to the ground?83 
+17. Treating Figure 9.9 somewhat literally, in which one out of every four infrared photons escapes without being absorbed by a green- house gas molecule, what would the effective upward radiation be if 400 $W/m^2$ left the ground, and re-radiation of the absorbed fraction was split equally between upward radiation and radiation returning to the ground?83 
 18. If the "bad" news that we are about halfway through the fossil fuels is wrong, and we are only one-quarter of the way through, and we end up using all of it, what would the ultimate CO2 concentration be in ppm, extrapolating the increase so far? How many degrees would this turn into based on our understanding of radiative forcing and the climate sensitivity parameter? 
-19. Using Eq. 9.5 and CO2,orig = 280 ppm, together with a climate sensitivity parameter of 0.8°C per W/m2, how much would you predict Earth's temperature to rise for CO2 levels of 330, 380, 430, 480, 530, and 580 ppm, 284 The inputs increase by steps of 50 
+19. Using Eq. 9.5 and CO2,orig = 280 ppm, together with a climate sensitivity parameter of 0.8°C per $W/m^2$, how much would you predict Earth's temperature to rise for CO2 levels of 330, 380, 430, 480, 530, and 580 ppm, 284 The inputs increase by steps of 50 
 
 [^79]: ... of human origin 
 
@@ -1133,9 +1133,9 @@ d) snow covers less of the land each winter as temperatures rise
 22. Which of the scenarios in Section 9.3 do you deem to be most realistic, and why? Given this, how much more eventual warming is likely in store compared to the 1°C to date? 
 23. Verify for each panel in Figure 9.15 that the sum of the upper two arrows in the middle of each panel and the difference of the lower two arrows in the middle match the effective (dashed) arrow at the right (a total of 8 comparisons). 
 24. Construct your own panel in the manner of Figure 9.15 correspond- ing to the third case in Section 9.3 in which we curtail fossil fuel use by 2100, resulting in a final equilibrium AT of 2.6°C (thus 290.6 K ground temperature). Characterize the final equilibrium state, when net upward radiation equals solar input. After balancing the books, figure out what the GHG fractional absorption must be (the number in the "cloud" in Figure 9.15). 
-25. On a sunny day after a big snowfall, the (low winter) sun might put 500 W/m2 onto the ground. Snow reflects most of it, but let's say that it absorbs 5% of the incoming energy. How much snow (ice) will melt in an hour from the absorbed energy if a cubic meter of snow has a mass of 100 kg? 
-26. If the ocean absorbs an additional 3 W/m2 of forcing,8% how long would it take to heat the ~4 km deep column of water directly under a particular square meter (thus 4 x 106 kg) by 1°C?87 
-27. Based on Table 9.7, if we could magically turn off infrared radiation to space, how long would it take for the sun's 240 W/m2 average to heat the entire ocean by 1°C? It is fine to assume that the ocean covers the whole globe, for this limiting-case calculation. 
+25. On a sunny day after a big snowfall, the (low winter) sun might put 500 $W/m^2$ onto the ground. Snow reflects most of it, but let's say that it absorbs 5% of the incoming energy. How much snow (ice) will melt in an hour from the absorbed energy if a cubic meter of snow has a mass of 100 kg? 
+26. If the ocean absorbs an additional 3 $W/m^2$ of forcing,8% how long would it take to heat the ~4 km deep column of water directly under a particular square meter (thus 4 x 106 kg) by 1°C?87 
+27. Based on Table 9.7, if we could magically turn off infrared radiation to space, how long would it take for the sun's 240 $W/m^2$ average to heat the entire ocean by 1°C? It is fine to assume that the ocean covers the whole globe, for this limiting-case calculation. 
 28. Let's say annual excess energy input from imbalanced radiative 
 ; same-size steps? A plot might help 
 

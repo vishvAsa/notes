@@ -119,7 +119,7 @@ is a Periodic Table on steroids, listing the properties of every known nuclide i
 is energy stored in chemical bonds, like gasoline or wood that might be burned, or in the food we eat. 70, 117, 121, 182, 227, 228, 234, 379, 395, 396
 
 ## climate sensitivity parameter
-relates a change in radiative forcing to the net temperature change once all the feedback mechanisms have acted. The units are °C per W/m2, and a typical value is 0.8. 147, 160 
+relates a change in radiative forcing to the net temperature change once all the feedback mechanisms have acted. The units are °C per $W/m^2$, and a typical value is 0.8. 147, 160 
 
 ## coefficient of performance
 (COP) refers to the energy gain by a heat pump, usually in the context of heating rather than cooling. It is identical to Ɛheat, as defined in Eq. 6.11 (p. 95). 97, 425
@@ -398,7 +398,7 @@ is the solar-driven process by which evaporation of water from the surface (bodi
 is the property that all objects glow in light, or electromagnetic radiation. For objects that are not "red hot," the emission is invisible to the human eye, at longer wavelengths than the visible spectrum. The power radiated obeys the Stefan-Boltzmann law. 10, 84, 143, 147, 151, 161, 169, 396, 397, 423, 429, 435, 437
 
 ## insolation
-is the annual average solar flux reaching flat, level ground for a particular location. A typical number is 200 W/m2, but can range from half that at high latitudes to about 350 W/m2 for arid areas at lower latitudes. 168, 178, 189, 206-208, 228, 276, 285
+is the annual average solar flux reaching flat, level ground for a particular location. A typical number is 200 $W/m^2$, but can range from half that at high latitudes to about 350 $W/m^2$ for arid areas at lower latitudes. 168, 178, 189, 206-208, 228, 276, 285
 
 ## inverse function
 is a mathematical operation that "undoes" its counterpart, like the square root undoes the square, or the natural logarithm undoes the exponential. 5, 32, 367, 370
@@ -577,7 +577,7 @@ or reserves-to-production ratio is a means to assess time remaining for a resour
 is a broad term that can can describe light (e.g., electromagnetic radiation, infrared radiation, gamma rays) or particles from radioactive decay or cosmic origin. High-energy radiation of any form can cause damage to materials and biological tissues (DNA being perhaps most critical). 263
 
 ## radiative forcing
-is used to describe the areal power (in W/m2) of absorbed solar energy and infrared radiation to space. In equilibrium, a balance exists so that the net radiative forcing is zero. 146, 147, 151–153, 155, 160, 424
+is used to describe the areal power (in $W/m^2$) of absorbed solar energy and infrared radiation to space. In equilibrium, a balance exists so that the net radiative forcing is zero. 146, 147, 151–153, 155, 160, 424
 
 ## radioactive
 describes a nucleus, or nuclide that is unstable and will undergo radioactive decay with some half life. 241, 257, 260, 261, 263, 268, 276, 296, 297, 299, 429
@@ -619,7 +619,7 @@ is a material poised between being a good conductor of electrical current and an
 Système International. 68, 71, 85, 88, 422, 423, 425, 427, 430, 431, 433, 434 
 
 ## solar constant
-measures 1,360 W/m2, and is the power flux of the sun at the top of Earth's atmosphere. It is not technically a constant, but is very stable. 11, 144, 167, 203, 206, 211
+measures 1,360 $W/m^2$, and is the power flux of the sun at the top of Earth's atmosphere. It is not technically a constant, but is very stable. 11, 144, 167, 203, 206, 211
 
 ## solar system
 refers to our own star, the sun, and the planets that surround it, including Earth. 54 
@@ -634,7 +634,7 @@ describes a distribution, often associated with light. In this context, a light 
 solar thermal. 219-221, 269, 424, 436
 
 ## Stefan-Boltzmann constant
-(a) has a value of 5.67 x $10^{-8}$ W/m2/K4 and is used in the Stefan-Boltzmann law relating to infrared radiation. 10, 144, 199, 437
+(a) has a value of 5.67 x $10^{-8}$ $W/m^2$/K4 and is used in the Stefan-Boltzmann law relating to infrared radiation. 10, 144, 199, 437
 
 ## Stefan-Boltzmann law
 says that the power emitted from a surface of area, A, and temperature, T will be P = AσT4, where σ is the Stefan-Boltzmann constant. 10, 144, 199, 431, 437
@@ -685,7 +685,7 @@ is essentially fan blades on a rotating shaft, which can be compelled to move by
 refers to the entirety of our physical realm, including all galaxies. 9, 54, 55, 257, 312, 392, 423
 
 ## U-value
-describes the insulating quality of a wall or similar barrier, in terms of how many Watts move through each square meter of surface area for each 1°C difference in temperature across the barrier. Units are W/m2/°C, and smaller numbers mean better insulation. The U-value is an inverse measure to the R-value, numerically 5.7/R. 87, 436
+describes the insulating quality of a wall or similar barrier, in terms of how many Watts move through each square meter of surface area for each 1°C difference in temperature across the barrier. Units are $W/m^2$/°C, and smaller numbers mean better insulation. The U-value is an inverse measure to the R-value, numerically 5.7/R. 87, 436
 
 ## valence band
 is the energy level of outer electrons bound to an atom. Valance electrons stay home, as opposed to electrons in the conduction band. 203, 422, 425

@@ -134,7 +134,7 @@ Detailed assessments [^67] of hydroelectric potential globally estimate a techni
 Compared to the 18 TW global scale of energy use, hydroelectricity is not poised to assume a large share at this level, unless the overall scale of energy use is reduced substantially. Let's say this more visibly: hydroelectric power cannot possibly come close to satisfying present global power demand.
 11.3 Hydropower in the U.S.
 Hydroelectric power is not available to the same degree everywhere. Geography and rainfall are key factors. This brief section serves to present a snapshot of the distribution and qualities of hydroelectric power generation in the United States. We start with Figure 11.5, showing the average hydroelectric power generated in each state, the top four states being listed in Table 11.1. These four states account for 56% of hydroelectricity in the U.S., and the next states on the ranked list drop to 1 GW or lower. Most of the California generation is in the northern part of the state, effectively as part of the Pacific Northwest region.
-To get a sense for how concentrated different sources are, we will make a habit of examining power density for renewable resource implemen- tations. Figure 11.6 indicates the state-by-state density of hydroelectric power generation,23 just dividing generation by state area. No state exceeds 0.05 W/m2, which can be contrasted to insolation values (see Ex. 10.3.1; p. 167) of ~200 W/m2. Globally, total land area is about
+To get a sense for how concentrated different sources are, we will make a habit of examining power density for renewable resource implemen- tations. Figure 11.6 indicates the state-by-state density of hydroelectric power generation,23 just dividing generation by state area. No state exceeds 0.05 $W/m^2$, which can be contrasted to insolation values (see Ex. 10.3.1; p. 167) of ~200 $W/m^2$. Globally, total land area is about
 21: ... reduced from 8 J since most rain falls back onto ocean
 The 90% efficiency of a hydroelectric dam is now contextualized a bit better. That last step is pretty efficient, but the overall pro- cess is extremely inefficient. Still, it takes rel- atively little effort to exploit, and provides real power. Efficiency is not everything.
 [^67]: (1997), Study on the Importance of Harnessing the Hydropower Resources of the World
@@ -155,16 +155,16 @@ U.S. Total
 11 Hydroelectric Energy
 179
 0 2 4 6 8 10 Hydro generation (GW)
-1.25 x 1014 m2, so that a total hydroelectric potential of 2.5 TW24 would yield 0.02 W/m2. Therefore, the state of Washington stands out as unusual, having already developed a generation capacity 2.5 times larger than the upper-end global average expectation. In other words, most of the world cannot emulate what nature has provided in Washington. Not all places have the same available resources.
+1.25 x 1014 m2, so that a total hydroelectric potential of 2.5 TW24 would yield 0.02 $W/m^2$. Therefore, the state of Washington stands out as unusual, having already developed a generation capacity 2.5 times larger than the upper-end global average expectation. In other words, most of the world cannot emulate what nature has provided in Washington. Not all places have the same available resources.
 25
 Figure 11.5: Average U.S. hydroelectric power delivered for each state, showing strongly along the west-coast, plus New York. And yes, Alaska really is that big.
 24: This is higher than estimated potential developed resources, but mathematically convenient here.
 25: Washington's hydroelectric dominance owes largely to the presence of the mighty Columbia River, rather than human factors.
 0 10 20 30 40 50
-Hydro density (mW/m2)
+Hydro density (m$W/m^2$)
 Next, we look at hydroelectric generation per capita. Figure 11.7 shows the result. In this view, the states of the Pacific Northwest really pop up, and New York dims relative to its by-area showing. The contrast between Figure 11.6 and Figure 11.7 is effectively reflecting population density: large, sparsely-populated states26 show up more prominently on the per-capita map than the per-area map.
 Finally, for completeness, we look at the capacity factors of hydroelectric installations, by state. The total installed capacity in the database used for these plots is 77.6 GW spread among 1,317 dams, while producing an annual average of 28.1 GW-corresponding to an overall capacity factor of 0.36. Figure 11.8 shows how this distributes around the country. Since the Pacific Northwest dominates in installed hydroelectric power, it largely determines the overall capacity factor. Iowa stands out as having a high capacity factor, but only has 0.153 GW of installed capacity.27 Contrast this to Washington, having an installation capacity of 20.7 GW.28
-Figure 11.6: U.S. hydroelectric power per area delivered for each state, giving a sense of how concentrated the resource is. The units are milliwatts per square meter, peak- ing at 48 mW/m2 for Washington.
+Figure 11.6: U.S. hydroelectric power per area delivered for each state, giving a sense of how concentrated the resource is. The units are milliwatts per square meter, peak- ing at 48 m$W/m^2$ for Washington.
 26: Montana, Idaho, even Alaska
 27:
 delivering an average of 0.114 GW in 8 dams, dominated by the 0.125 GW Keokuk dam
@@ -297,7 +297,7 @@ Hint: Convert average power to kW then multiply by hours.
 42: Each stage will knock down the number further; report each in TW.
 43: This is the largest jump, keeping only 50 J out of every 2,300 J.
 2
-44: 44,000×1012 W divided by 3.7x1014 m2 of ocean surface is 120 W/m2.
+44: 44,000×1012 W divided by 3.7x1014 m2 of ocean surface is 120 $W/m^2$.
 45: The steady 120 W is already account- ing for day/night: this is a time average.
 
 12 Wind Energy

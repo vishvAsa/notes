@@ -123,23 +123,23 @@ and air gaps. But it also depends linearly on AT-the difference between inside a
 [^13]: or equivalently, Watts per degree Kelvin 
 0°C 
 20°C 
-0.15 W/m2/°C 
+0.15 $W/m^2$/°C 
 2 m2 
 12 m 
 2.5 m 
-0.8 W/m2/°C 
+0.8 $W/m^2$/°C 
 12 m 
-Figure 6.1: External walls and windows for the house modeled in Box 6.1. The floor and ceiling are not shown. The numbers in W/m2/°C are U-values, and in this case represent the very best engineering prac- tices. Most houses will have larger values by factors as high as 2-6. Don't forget the door in a real house! 
+Figure 6.1: External walls and windows for the house modeled in Box 6.1. The floor and ceiling are not shown. The numbers in $W/m^2$/°C are U-values, and in this case represent the very best engineering prac- tices. Most houses will have larger values by factors as high as 2-6. Don't forget the door in a real house! 
 Box 6.1: House Construction 
 The very best practices result in a snugly-built house qualified as a "Passive House," achieving 0.15 W/°C for each square meter of external-interfacing surface14 and 0.8 W/°C per square meter of 
 windows. 
-Let's imagine a house having a square footprint 12 m by 12 m, walls 2.5 m high, each of the four walls hosting two windows, and each window having an area of 2 m2 (Figure 6.1). The floor and the ceiling are both 144 m2, and the wall measures (perimeter times height) 48 x 2.5= 120 m2. But we deduct 16 m2 for the eight windows, leaving 104 m2 for the walls. The resulting heat loss measure for the house is 13 W/°C for the windows (0.8 W/m2/°C x 16 m2), plus 59 W/°C for the walls/floor/ceiling for a total of 72 W/°C. 
+Let's imagine a house having a square footprint 12 m by 12 m, walls 2.5 m high, each of the four walls hosting two windows, and each window having an area of 2 m2 (Figure 6.1). The floor and the ceiling are both 144 m2, and the wall measures (perimeter times height) 48 x 2.5= 120 m2. But we deduct 16 m2 for the eight windows, leaving 104 m2 for the walls. The resulting heat loss measure for the house is 13 W/°C for the windows (0.8 $W/m^2$/°C x 16 m2), plus 59 W/°C for the walls/floor/ceiling for a total of 72 W/°C. 
 The loss rate for a decently-constructed house might be about twice this, while a typically-constructed house (little attention to efficiency) might be 3-6 times this several hundred W/°C. Of course, smaller houses have smaller areas for heat flow and will have smaller loss 
 rates. 
 ceiling-to- 
 
 [^14]:...outer walls, unconditioned attic, floor-to-crawl-space 
-The numbers used to characterize heat loss properties of walls and windows are called U-values, in units of W/m2/°C, where low numbers represent better insulators. In the U.S., building materials are described by an inverse measure, called the R-value, in ugly units of °F ft2 hr/Btu. The two are numerically related as R 5.7/U, so that our Passive House wall has R≈ 38 and the windows have R≈ 7-both rather impres- sive and hard to achieve. 
+The numbers used to characterize heat loss properties of walls and windows are called U-values, in units of $W/m^2$/°C, where low numbers represent better insulators. In the U.S., building materials are described by an inverse measure, called the R-value, in ugly units of °F ft2 hr/Btu. The two are numerically related as R 5.7/U, so that our Passive House wall has R≈ 38 and the windows have R≈ 7-both rather impres- sive and hard to achieve. 
 = 
 Example 6.3.2 Let's compare the requirements to keep three different houses at 20°C while the temperature outside is 0°C (freezing point). The first is a snugly-built house as described in Box 6.1, where we round the heat loss rate to a more convenient 75 W/°C. We'll then imagine a decently built house at 150 W/°C, and a more typical15 
 house at 300 W/°C. 

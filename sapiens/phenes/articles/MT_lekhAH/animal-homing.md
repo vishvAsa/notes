@@ -7,6 +7,41 @@ title = "Animal homing"
 ### Birds
 Many birds (probably most) possess some homing ability. In birds a major aspect of the homing capacity appears to be magnetic sense.
 
+#### Pegion Utilization
+Since they were used early by the H, Iranians & Romans they were probably even used by early IEans: in support of this contention, homing is alluded to in the RV & the RV also mentions the pigeon as the messenger of the goddess nirR^itti & yama. 
+
+They were extensively used in both world wars testifying their effectiveness.
+
+> There were also Homing Pigeons mentioned by Kautilya: I wonder how effective and widespread they're in deliverying messages. The Sultan Baybars had great success against the crusaders after setting up pigeon posts across his realm.
+
+##### Someshvara
+someshvara-deva on pigeon husbandry:
+
+> स्थापयेद् दम्पती राजा सदृशौ वर्ण-रूपतः ।  
+पतिव्रता भवन्त्य् एताः पारापत-कुलाङ्गनाः ॥
+
+He notes the monogamous nature of pigeons.
+
+> पारापतश् च स्वगृहं प्रवेशयति नेतरम् ।  
+गलघूर्णितनादेन फुल्लद्रुतगलेन च॥
+
+He also notes the mating call & throat puffing during mating. Importantly he notes the mating ritual with some precision:
+
+> प्रसारितेन पुच्छेन प्रियां दृष्ट्वा प्रनृत्यति ।  
+चुम्बति प्रेयसीं प्रीत्या परिवृत्य मुहुर्मुहुः ॥
+
+The male regurgitates food to feed the female in the ritual; he records this as chumbati.
+
+He then records their use as messengers:
+
+> तम् एकं पञ्जरे कृत्वा नीत्वा दूरं समुत्सृजेत् ।  
+लेखपत्रं समासज्य कण्ठे तं मोचयेन् नरः ॥
+
+They are trained to carry letters on their neck. He gives us useful information that the old Indian messenger pigeon flew upto 30 yojana-s i.e. 390 km
+
+> त्रिंशद् योजन-पर्यन्तम् अह्ना याति स्मरन् प्रियाम् ।  
+पवित्रा दर्शनीयाश् च राज-कार्योपयोगिनः ॥
+
 ### Crocodiles
 Many crocodiles (general sense) also possess strong homing ability over 100s of kilometers in several cases. 
 

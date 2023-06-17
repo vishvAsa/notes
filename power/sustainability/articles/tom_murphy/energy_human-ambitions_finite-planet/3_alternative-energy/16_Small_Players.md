@@ -25,11 +25,11 @@ Geothermal Reality 16.2 Tidal Capture . . 16.3 Ocean Currents. 16.4 Wave Energy 
 [^106]: Johnston (2011), Radioactive decay accounts for half of Earth's heat
 16 Small Players
 276
-0.1 W/m2, making it less than one-two-thousandth of the solar input average.1
+0.1 $W/m^2$, making it less than one-two-thousandth of the solar input average.1
 16.1.1 Sustainable Harvest
 Let's evaluate what it would take to tap into the steady 44 TW geothermal heat flow in order to provide some or all of today's 18 TW energy demand. In this way, we could be assured of steady flow for billion-year timescales, as the half lives of the radioactive elements measure in the billions of years and the residual heat of formation is still slowly leaking out after 4.5 billion years. On the face of it, 44 TW compared to 18 TW would suggest that geothermal has margin to spare.
 In order to utilize geothermal energy for most of the things we do, we really need to turn the heat into a versatile form of energy like electricity. The only exception would be for heating water and air spaces. Otherwise, it is not hot enough to perform most industrial process demands, like melting metals. We know how to turn a temperature difference into electricity, via a heat engine (Sec. 6.4; p. 88). We saw that the theoretical efficiency of a heat engine is
-1: Recall average insolation is around 200 W/m2.
+1: Recall average insolation is around 200 $W/m^2$.
 Emax =
 Th - Tc Th
 =
@@ -271,7 +271,7 @@ Getting 7.5 GW on the Pacific coast, and maybe a similar amount on the Atlantic 
 But let's make a quick estimate of global potential to compare to the 18 TW demand. The question becomes one of how much coastline28
 receives wave energy.
 We can play a crude trick by recognizing that two big clumps of connected land occupy the eastern and western hemispheres, each having an east coast and a west coast, running roughly pole to pole. So the exposed coastlines roughly ring the globe twice. Our familiar unit of length, the meter, was actually chosen to yield approximately 10,000 km from equator to pole, so it takes 40,000 km to circle the earth once, and we therefore estimate 80,000 km of wave-receiving coastline. Multiplying 3.75 kW/m by 80,000 km yields 0.3 TW, or less than 2% of global demand, if fully developed.
-3,750 W/m seemed so promising at first, especially compared to insola- tion numbers we saw in Chapter 13 that tend to be around 200 W/m2. But a huge difference here is that wave density is a linear measure (Watts per meter of coastline) versus an areal measure in the case of insolation (Watts per square meter of land). A country has far more square meters than linear meters. So wave power, even if fully developed around all the world's coastlines, could not amount to very much, and is therefore placed in the "boutique" category, along with the other occupants of this chapter.
+3,750 W/m seemed so promising at first, especially compared to insola- tion numbers we saw in Chapter 13 that tend to be around 200 $W/m^2$. But a huge difference here is that wave density is a linear measure (Watts per meter of coastline) versus an areal measure in the case of insolation (Watts per square meter of land). A country has far more square meters than linear meters. So wave power, even if fully developed around all the world's coastlines, could not amount to very much, and is therefore placed in the "boutique" category, along with the other occupants of this chapter.
 We have not even mentioned the technologies that can convert wave power to electricity-because what's the point? Suffice it to say that the same relative motion of magnets past coils of wire that create electrical energy in a generator can work in applications that do not spin all the way around, as is usually the case. A back-and-forth motion like one cylinder inside another, or a joint bending back and forth can be configured to generate electrical power as well.
 
 Table 16.3: Alternative electricity scales in the U.S.

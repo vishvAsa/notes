@@ -232,12 +232,12 @@ Chapter 10
 3. What would unlimited mean? 
 4. Table 10.2 has some help 
 5. Can't rely on any sun-driven energy 
-6. Between 200-250 W/m2 
+6. Between 200-250 $W/m^2$ 
 7. Photosynthesis supports essentially all life 
 8. Comparing numbers in TW 
 9. More than half 
 10. A little less than 1% 
-11. Not far from 1,000 W/m2 
+11. Not far from 1,000 $W/m^2$ 
 12. Nearly 10 degrees 
 13. Look for crazy-big input 
 14. Between 0.5-1 gallon 
@@ -272,7 +272,7 @@ ergy
 15. Between 5-10 m/s 
 16. In the ballpark of 70 kW 
 17. Recover 0.65% 
-18. Unpack W/m2 to confirm kg/s3 
+18. Unpack $W/m^2$ to confirm kg/s3 
 19. Outer box area corresponds to running at 100%, full time 
 20. Definitely less than 50% 
 21. Looks like a factor of 8 
@@ -313,13 +313,13 @@ Chapter 13
 18. Already extremely similar 
 19. Think of current as a rate of electron flow 
 in the circuit 
-20. Get very close to 1,360 W/m2 
+20. Get very close to 1,360 $W/m^2$ 
 21. Sweltering is not preferred 
-22. Between 5-6 kWh/m2/day; between 200- 250 W/m2 
+22. Between 5-6 kWh/m2/day; between 200- 250 $W/m^2$ 
 23. Involves interpreting kWh/m2/day as full- 
 sun-hours 
-24. Not far from 200 W/m2 
-25. Range straddles 200 W/m2, varying about 10% 
+24. Not far from 200 $W/m^2$ 
+25. Range straddles 200 $W/m^2$, varying about 10% 
 26. Best at latitude; almost 15% better than 
 flat 
 27. Approaches 6 kWh/m2/day 

@@ -56,7 +56,7 @@ prevailing wind direction
 16
 5D
 In order to compare to other forms of renewable energy, we can evaluate
-a power per unit land area (in W/m2) by the following approach:
+a power per unit land area (in $W/m^2$) by the following approach:
 [^71]: Ragheb et al. (2011), "Wind Turbines Theory - The Betz Equation and Optimal Rotor Tip Speed Ratio"
 
 [^14]: Not too impressive: hard to get much wind power on a household scale, although 10 m/s would give 3.6 kW.
@@ -76,7 +76,7 @@ area
 π
 εPair 73, 960
 (12.3)
-employing the rule-of-thumb 8 x 15 turbine placement scheme. Using an efficiency of 40% and v = 5 m/s,[^17] we get 0.2 W/m2-which is 1,000 times smaller than solar's ~200 W/m2 insolation (Ex. 10.3.1; p. 167).
+employing the rule-of-thumb 8 x 15 turbine placement scheme. Using an efficiency of 40% and v = 5 m/s,[^17] we get 0.2 $W/m^2$-which is 1,000 times smaller than solar's ~200 $W/m^2$ insolation (Ex. 10.3.1; p. 167).
 A final general note about wind generation is somewhat obvious: the
 
 [^17]: Recall that this choice gave sensible global wind power estimates lining up with Table 10.2 (p. 168).
@@ -199,17 +199,17 @@ Figure 12.8: Wind power by state, in terms of average generation, in GW, in 2018
 ... as we also saw in Table 10.3 (p. 170)
 
 0
-5 10 15 20 Wind density (mW/m2)
+5 10 15 20 Wind density (m$W/m^2$)
 12 Wind Energy
 192
 Figure 12.9: Average wind power by state, divided by state area to indicate a density of the developed resource, in milliwatts per square meter (based on 2018 data). We might expect some resemblance to Figure 12.2, based on where the resource is most favorable.
-Following the flow we used in Sec. 11.3 (p. 178), we show wind generation as a function of area (Figure 12.9), to get a sense for how concentrated the installations are. Oklahoma and Iowa jump in front of Texas by this measure. Texas has more total generation than all others, but is a very large state in terms of area. Iowa, for instance produces about 30% as much wind power as Texas, but at only 20% the size. The numbers, reaching about 0.017 W/m2 are a bit smaller than those for hydroelectricity, where two states exceeded this value. We can compare these numbers to the 0.2 W/m2 fully-developed potential we estimated in the paragraph following Eq. 12.3 to conclude that in principle we could expand wind by a large factor.[^28]
+Following the flow we used in Sec. 11.3 (p. 178), we show wind generation as a function of area (Figure 12.9), to get a sense for how concentrated the installations are. Oklahoma and Iowa jump in front of Texas by this measure. Texas has more total generation than all others, but is a very large state in terms of area. Iowa, for instance produces about 30% as much wind power as Texas, but at only 20% the size. The numbers, reaching about 0.017 $W/m^2$ are a bit smaller than those for hydroelectricity, where two states exceeded this value. We can compare these numbers to the 0.2 $W/m^2$ fully-developed potential we estimated in the paragraph following Eq. 12.3 to conclude that in principle we could expand wind by a large factor.[^28]
 27
 
-[^27]: ...0.05 W/m2 in Washington; followed by New York at 0.02 W/m2
+[^27]: ...0.05 $W/m^2$ in Washington; followed by New York at 0.02 $W/m^2$
 
 [^28]:
-. about 10 times, in the case of Iowa, but bear in mind the 0.2 W/m2 estimate was based on 5 m/s, while Iowa scores a bit higher, according to Figure 12.2
+. about 10 times, in the case of Iowa, but bear in mind the 0.2 $W/m^2$ estimate was based on 5 m/s, while Iowa scores a bit higher, according to Figure 12.2
 0
 500 1000 1500
 Wind power/person (W)
@@ -231,7 +231,7 @@ Figure 12.11: Capacity factor for wind in- stallations by state (based on 2018 d
 
 ## 12.4 Upshot: Wind is not Overblown
 Wind has surged tremendously in the last decade (Fig. 7.5; p. 108), proving to be an economically viable and competitive resource. But how much could we expect to get from wind?
-Putting a few of the previous results together, If the entire contiguous U.S. (area ~1013 m2) were developed for wind at an estimated power density of 0.2 W/m2-which was based on a 5 m/s average wind speed-and a capacity factor of 33%, the U.S. could theoretically produce 0.7 TW30 from wind-roughly 20 times what is produced today. We should take this crude estimate as an extreme upper end, since it is inconceivable that we would develop wind so fully as to never be more than a few hundred meters- -a few rotor diameters-away from a wind turbine, no matter where we go. Also, many areas are sub-threshold and would not support investment in wind development.
+Putting a few of the previous results together, If the entire contiguous U.S. (area ~1013 m2) were developed for wind at an estimated power density of 0.2 $W/m^2$-which was based on a 5 m/s average wind speed-and a capacity factor of 33%, the U.S. could theoretically produce 0.7 TW30 from wind-roughly 20 times what is produced today. We should take this crude estimate as an extreme upper end, since it is inconceivable that we would develop wind so fully as to never be more than a few hundred meters- -a few rotor diameters-away from a wind turbine, no matter where we go. Also, many areas are sub-threshold and would not support investment in wind development.
 Even so, the inflated 0.7 TW estimate falls short of the current 3.3 TW energy demand in the U.S., has major intermittency problems, and is not in a form that can be well-used in all sectors, like transportation and industrial processing. While wind alone cannot replace fossil fuels at the current level of demand, it can doubtless be a significant contributor.
 Globally, estimates for wind potential tend to be in the few-terawatt range, though can be as low as 1 TW for a number of practical reasons [^70]. As was the case for hydroelectricity, wind is a viable player in the renewables mix, but is unable to shoulder the entire load.
 Wind energy is not free of environmental concerns, disturbing landscapes and habitats. Its impact on birds31 and bats is most worrisome, as the rotors move far faster than anything to which the wildlife is habituated. Still, compared to the environmental toll from fossil fuels, it is fairly clean similar to the impact of hydroelectric power.
@@ -301,7 +301,7 @@ Reflect on the fact that just estimating the rotor blade length and timing its r
 
 17. In a way similar to Figure 12.5, replicate the statement in the text that the fraction of land covered per rotor area is 0.65% if turbines are separated by 15 rotor diameters along one direction and 8 rotor diameters along the cross direction.
 18. Check that the units of Eq. 12.343 indeed are equivalent to Watts
-per square meter (W/m2).
+per square meter ($W/m^2$).
 19. Provide a clear explanation of why the area under the blue curve in Figure 12.6 compared to the area of the whole rectangular box is an appropriate way to assess the capacity factor of the depicted wind farm?
 20. What capacity factor would you estimate for the wind farm per- formance depicted in Figure 12.6? In other words, what is the approximate area under the curve compared to the entire box area, as explored in Problem 19? An approximate answer is fine.
 21. Referring to Figure 12.7, examine performance at 5 m/s and at 10 m/s, picking a representative power for each in the middle of the cluster of black points, and assigning a power value from the left-hand axis. What is the ratio of

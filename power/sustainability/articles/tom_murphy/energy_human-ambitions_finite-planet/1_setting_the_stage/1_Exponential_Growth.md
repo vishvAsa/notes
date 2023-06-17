@@ -256,7 +256,7 @@ www
 Figure 1.3: Energy trajectory in the U.S. over a long period. The red line is an exponential at a 2.9% growth rate, which appears linear on a logarithmic plot. 
 result; 2) this rate produces the mathematical convenience of a factor of 10 increase every century. 
 What follows is a flight of fancy that quickly becomes absurd, but we will chase it to staggering levels of absurdity just because it is fun, instructive, and mind-blowing. Bear in mind that what follows should not be taken as predictions of our future: rather, we can use the absurdity to predict how our future will not look! 
-The sun deposits energy at Earth's surface at a rate of about 1,000 W/m2 (1,000 Watts per square meter; we'll reach a better understanding for these units in Chapter 5). Ignoring clouds, the projected area intercepting the sun's rays is just А = πR, where R is the radius of the earth, around 6,400 km. Roughly a quarter of the earth's surface is land, and adding it all up we get about 30 x 1015 W hitting land. If we put solar panels on every square meter of land converting sunlight to electrical energy at 20% efficiency,[^10] we keep 6 x 1015 W. This is a little over 300 times the current global energy usage rate of 18 TW. What an encouraging number! Lots of margin. How long before our growth would get us here? After one century, we're 10 times higher, and 100 times higher after two centuries. It would take about 2.5 centuries (250 years) to hit this limit. Then no more energy growth. 
+The sun deposits energy at Earth's surface at a rate of about 1,000 $W/m^2$ (1,000 Watts per square meter; we'll reach a better understanding for these units in Chapter 5). Ignoring clouds, the projected area intercepting the sun's rays is just А = πR, where R is the radius of the earth, around 6,400 km. Roughly a quarter of the earth's surface is land, and adding it all up we get about 30 x 1015 W hitting land. If we put solar panels on every square meter of land converting sunlight to electrical energy at 20% efficiency,[^10] we keep 6 x 1015 W. This is a little over 300 times the current global energy usage rate of 18 TW. What an encouraging number! Lots of margin. How long before our growth would get us here? After one century, we're 10 times higher, and 100 times higher after two centuries. It would take about 2.5 centuries (250 years) to hit this limit. Then no more energy growth. 
 But wait, why not also float panels on all of the ocean, and also magically improve performance to 100%? Doing this, we can capture a whopping 130 x 1015 W, over 7,000 times our current rate. Now we're talking about maxing out in just under 400 years. Each factor of ten is a century, so a factor of 10,000 would be four factors of ten (104), taking four centuries. 
 So within 400 years, we would be at the point of using every scrap of 
 = 
@@ -308,7 +308,7 @@ P = Asurf (Thot-Told).
 16 
 .15 
 (1.8) 
-P is the power radiated, Asurf is the surface area, Thot is the temperature of the radiating object in Kelvin (very important!), Tcold is the temperature of the environment (also Kelvin), and σ is the Stefan-Boltzmann constant: σ = 5.67 x $10^{-8}$ W/m2/K4.17 Note that the law operates on the difference of the fourth powers of two temperatures. 
+P is the power radiated, Asurf is the surface area, Thot is the temperature of the radiating object in Kelvin (very important!), Tcold is the temperature of the environment (also Kelvin), and σ is the Stefan-Boltzmann constant: σ = 5.67 x $10^{-8}$ $W/m^2$/K4.17 Note that the law operates on the difference of the fourth powers of two temperatures. 
 Example 1.3.1 A table in a room in which the table and walls are all at the same temperature does not experience net radiation flow since the two temperatures to the fourth power subtract out. In this case, as much radiation leaves the table for the walls as arrives from the walls to the table. But a room-temperature object at 300 K radiates approximately 450 W per square meter to the coldness of space. 
 Some time, go feel the exhaust air from an air-conditioning unit, or the heat produced at the back and bottom of a refrigerator. Even though these devices perform a cool- ing function, they make more heat than cool. 
 
@@ -340,16 +340,16 @@ Sinfrared
 infrared radiation from $4πR^2$ 
 $πR^2$ projection intercepted sunlight, 
 Sun's view 
-To evaluate the expected temperature of the earth, we know that the sun delivers 1,360 W/m2 to the top of the earth's atmosphere [^4] (a bit less reaches the ground). We also know that about 29.3% of this is reflected by clouds, snow, and to a lesser extent water and terrain. So the earth system absorbs about 960 W/m2. It absorbs this energy onto the area facing the sun: a projected disk of area Аproj= R. But the total surface area of the earth is four times this, all of it participating in the radiation to space (Figure 1.4). Equating the input and output for equilibrium conditions: 
-Pin = 0.707 x 1360 W/m2 x R2 = Рout = 47RσT4, 
+To evaluate the expected temperature of the earth, we know that the sun delivers 1,360 $W/m^2$ to the top of the earth's atmosphere [^4] (a bit less reaches the ground). We also know that about 29.3% of this is reflected by clouds, snow, and to a lesser extent water and terrain. So the earth system absorbs about 960 $W/m^2$. It absorbs this energy onto the area facing the sun: a projected disk of area Аproj= R. But the total surface area of the earth is four times this, all of it participating in the radiation to space (Figure 1.4). Equating the input and output for equilibrium conditions: 
+Pin = 0.707 x 1360 $W/m^2$ x R2 = Рout = 47RσT4, 
 Figure 1.4: Earth-shown here in northern hemisphere summer intercepts sunlight across the projected area of the Earth's disk (R2), while radiating from the entire sur- face area, which is four times larger ($4πR^2$). 
-This 1,360 W/m2, known as the solar con- stant, is the incident energy rate (power), or the flux, of sunlight incident on Earth. 
+This 1,360 $W/m^2$, known as the solar con- stant, is the incident energy rate (power), or the flux, of sunlight incident on Earth. 
 (1.10) 
 The 0.707 factor represents absorbed frac- tion after 29.3% is reflected. 
 
 which we can rearrange to isolate temperature, satisfying 
 T4 
-0.707 x 1360 W/m2 
+0.707 x 1360 $W/m^2$ 
 = 
 40 
 (1.11) 
@@ -357,10 +357,10 @@ T4
 12 
 Solving for T yields T≈ 255 K, or -18°C (about 0°F). This is cold-too cold. We observe the average temperature of Earth to be about 288 K, or 15°C (59°F). The difference of 33°C is due to greenhouse gases-mostly H2O-impacting the thermal balance by preventing most radiation from escaping directly to space. We'll cover this more extensively in Chapter 
 9. 
-Armed with Eq. 1.11, we can now estimate the impact of waste heat on Earth's equilibrium temperature. Using the solar input as a baseline, we can add increasing input using the exponential scheme from the previous section: starting today at 18 TW and increasing at 2.3% per year (a factor of 10 each century). It is useful to express the human input in the same terms as the solar input so that we can just add to the numerator in Eq. 1.11. In this context, our current 18 TW into the projected area $πR^2$ adds 0.14 W/m2 to the solar input (a trivial amount, today), but then increases by a factor of ten each century. Taking this in one-century chunks, the resulting temperatures-adding in the 33 K from greenhouse gases-follow the evolution shown in Table 1.4. At first, the effect is unimportant, but in 300 years far outstrips global warming, and reaches boiling temperature in a little over 400 years! If we kept going (not possible), Earth's temperature would exceed the surface temperature of the sun inside of 1,000 years! 
+Armed with Eq. 1.11, we can now estimate the impact of waste heat on Earth's equilibrium temperature. Using the solar input as a baseline, we can add increasing input using the exponential scheme from the previous section: starting today at 18 TW and increasing at 2.3% per year (a factor of 10 each century). It is useful to express the human input in the same terms as the solar input so that we can just add to the numerator in Eq. 1.11. In this context, our current 18 TW into the projected area $πR^2$ adds 0.14 $W/m^2$ to the solar input (a trivial amount, today), but then increases by a factor of ten each century. Taking this in one-century chunks, the resulting temperatures-adding in the 33 K from greenhouse gases-follow the evolution shown in Table 1.4. At first, the effect is unimportant, but in 300 years far outstrips global warming, and reaches boiling temperature in a little over 400 years! If we kept going (not possible), Earth's temperature would exceed the surface temperature of the sun inside of 1,000 years! 
 A potential inconsistency in our treatment is that we based our exploration of energy scale on solar energy as a prelude to stellar energy capture. But in the thermodynamic treatment, we implicitly added our power source to the existing solar input. If the sun is the source, we should not double-count its contribution. Nonetheless, continued, re- lentless growth would eventually demand a departure from solar capture on Earth and drive the same thermodynamic challenges regardless. Synthesizing the messages: we can't continue 2.3% growth for more than a few centuries using sunlight on Earth. And if we invent something new and different to replace the fully-tapped solar potential, it too will reach thermodynamic limits within a few centuries. 
 Years 
-Power Density (W/m2) T (K) 
+Power Density ($W/m^2$) T (K) 
 AT (C) 
 100 
 1.4 
@@ -441,7 +441,7 @@ Roughly 10 bacteria fit within a cubic micron (tiny), so you would not be able t
 18. Taking cues from the discussion of waste heat channels on page 10, describe some of the ways that all your energy output turns to heat when you go on a bicycle ride. 
 19. Your skin temperature is about 308 K, and the walls in a typical room are about 295 K. If you have about 1 m2 of outward-facing surface area, how much power do you radiate as infrared radiation, in Watts? Compare this to the typical metabolic rate of 100 W. 
 20. The moon absorbs 90% of the solar energy incident on it.[^23] How hot would you expect the surface to get under full sun? You don't need the factor of four here24 because the moon rotates very slowly under the sun and we're considering a patch experiencing overhead sunlight (rather than averaging over the sphere). Compare the result to boiling water temperature. 
-21. Venus is, ironically, colder than Earth as an infrared radiator. This is because Venus is covered in bright clouds, absorbing only 25% of the incident solar flux. Sunlight is more intense there due to it's being closer to the sun: it's almost double, at 2,620 W/m2. Adapting Eq. 1.11, calculate the equilibrium temperature of Venus in the infrared and compare it to the Earth value of 255 K. 
+21. Venus is, ironically, colder than Earth as an infrared radiator. This is because Venus is covered in bright clouds, absorbing only 25% of the incident solar flux. Sunlight is more intense there due to it's being closer to the sun: it's almost double, at 2,620 $W/m^2$. Adapting Eq. 1.11, calculate the equilibrium temperature of Venus in the infrared and compare it to the Earth value of 255 K. 
 15 
 Hint: the exponential, ex, "undoes" the nat- ural logarithm. 
 
@@ -461,7 +461,7 @@ incident at the same rate/flux as at
 [^24]: Referring to the 4 that shows up in Eqs. 1.10 and 1.11. 
 The surface of Venus is much hotter than that of Earth owing to a runaway green- house condition. On Earth, the greenhouse boost is only 33 K, but on Venus it's hun- dreds of degrees. 
 
-22. Adapt Eq. 1.11 to Mars to find its equilibrium temperature. The solar flux averages 590 W/m2 there, and it absorbs 75% of incident sunlight. Express the answer in both Kelvin and Celsius, and put in context. 
+22. Adapt Eq. 1.11 to Mars to find its equilibrium temperature. The solar flux averages 590 $W/m^2$ there, and it absorbs 75% of incident sunlight. Express the answer in both Kelvin and Celsius, and put in context. 
 23. If a human body having an outward surface area of 1 m2 continued to put out 100 W of metabolic power in the form of infrared radiation in the cold of space (naked; no sun), what would the equilibrium temperature be? Would this be comfortable (put in context)? 
 24. Verify the total solar power output of 4 x 1026 W based on its surface temperature of 5,800 K and radius of 7 x 108 m, using Eq. 
 1.9. 

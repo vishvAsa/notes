@@ -35,13 +35,13 @@ Plant matter contains substantial carbon content,2 and we now connect the knowle
 In terms of efficiency, plants tend to convert sunlight into stored chemical energy at a rate of 0.01-6%. The range is rather large due to limitations in water and nutrients. A well-watered and fertilized corn field might reach 1.5% efficiency. Algae tend to top the charts at 5-6%. Dry climates might have ample sunlight, but too little water for efficient use of the available light. Box 14.2 provides an example of how one might estimate what fraction of incident solar energy is turned into chemical storage by a potato plant.
 Box 14.2: Example Photosynthetic Efficiency
 Let us consider a potato plant (Figure 14.2) as an example by which to estimate photosynthetic efficiency. The potato plant might have a leafy footprint of 0.5 m2-a square roughly 0.7 m on a side or a circle about 0.8 m in diameter and produce four 0.5 kg potatoes, or 2 kg of starchy material. Carbohydrates have an energy density of 4 kcal/g, so the potato plant has stored 8,000 kcal, or about 32 MJ.3
-If the typical five-month growing-season (~ 1.25 x 107 s) has inso- lation of 250 W/m2, the plant collects 125 W5 times 1.25 x 107 or 1.6 x 109 J, while making 32 MJ of spuds. The photosynthetic
+If the typical five-month growing-season (~ 1.25 x 107 s) has inso- lation of 250 $W/m^2$, the plant collects 125 W5 times 1.25 x 107 or 1.6 x 109 J, while making 32 MJ of spuds. The photosynthetic
 S,
 1: ... dry wood, for instance
 2: ... which we combust when burning wood
 0.5 m2
 area
-250 W/m2
+250 $W/m^2$
 average
 4x0.5 kg
 Figure 14.2: The potato plant in Box 14.2.
@@ -50,7 +50,7 @@ Figure 14.2: The potato plant in Box 14.2.
 ...
 summer, averaging day/night and
 weather
-5: 250 W/m2 times the plant area
+5: 250 $W/m^2$ times the plant area
 
 efficiency is calculated as the ratio of output to input: about 2% in this case.
 14 Biological Energy
@@ -189,7 +189,7 @@ food energy consumed [^97]. In a sense, we are eating27 our fossil fuels! It als
 Various estimates exist for the EROEI for different biofuels. Unfortunately for the U.S., the corn ethanol industry is estimated to have an EROEI of anywhere from 0.8:1 to 1.6:1. The former would mean it's a net loss of energy, and that we would have more energy available if we did not spend any of it trying to get ethanol from corn. Biodiesel (a non-ethanol biofuel produced from vegetable oils or animal fat) is estimated to have an EROEI of 1.3:1 [^98]. Sugar cane may be anywhere from 0.8:1 to 10:1 [^99] (see Table 14.2).
 To explore an example of how this all plays out, let's say that corn ethanol provides an EROEI of 1.2:1-in the middle of the estimated range. This means that in order to get 1.2 units of energy out, one unit has to go
 in. Or for every 6 units out, 5 go in. If we use that same resource as the energy input-in other words, we use corn ethanol as the energy input to grow, harvest, distill, and distribute corn ethanol-then we get to "keep" one unit for external use out of every 6 units produced. For the U.S. to replace its 37 qBtu/yr oil habit with corn ethanol, it would take six times this much, or 220 qBtu (2.3 x 1020 J) of corn ethanol production each year.
-If the growing season is 5 months, the solar input is 250 W/m2 on average, and the corn field is 1.5% efficient at turning sunlight into chemical energy, then each square meter of corn-land produces 4.9 x 107 J of energy28 and we would therefore need about 5 x 1012 m2 of land for corn. This is an area 2,200 km on a side (Figure 14.4)! The U.S. does not possess this much arable land (estimated at about 30% of this). About 4 x 1011 m2 of land in the U.S. is currently used for corn production, which is 8% of what would be needed. And of course we must still feed ourselves. In 2018, 31% of U.S. corn production went into ethanol. We would somehow need to ramp corn ethanol production up by a factor of 40 to derive our current liquid fuels from corn in a self-sufficient way. Don't expect to see this fantasy materialize.
+If the growing season is 5 months, the solar input is 250 $W/m^2$ on average, and the corn field is 1.5% efficient at turning sunlight into chemical energy, then each square meter of corn-land produces 4.9 x 107 J of energy28 and we would therefore need about 5 x 1012 m2 of land for corn. This is an area 2,200 km on a side (Figure 14.4)! The U.S. does not possess this much arable land (estimated at about 30% of this). About 4 x 1011 m2 of land in the U.S. is currently used for corn production, which is 8% of what would be needed. And of course we must still feed ourselves. In 2018, 31% of U.S. corn production went into ethanol. We would somehow need to ramp corn ethanol production up by a factor of 40 to derive our current liquid fuels from corn in a self-sufficient way. Don't expect to see this fantasy materialize.
 Box 14.5: Why Do Corn Ethanol?
 If corn ethanol has such low EROEI, why is it pursued in the U.S.?
 [^97]: Pfeiffer (2006), Eating Fossil Fuels
@@ -208,7 +208,7 @@ EROEI
 [^98]: Pimentel et al. (2005), "Ethanol production using corn, switchgrass, and wood; biodiesel production using soybean and sunflower"
 [^99]: Murphy et al. (2011), "Order from Chaos: A Preliminary Protocol for Deter- mining the EROI of Fuels"
 Figure 14.4: Area of corn growth needed to displace U.S. petroleum demand if at EROEI of 1.2:1. This is far larger than agriculturally productive land in the U.S.
-28: 150 days times 86,400 seconds per day times 250 W/m2 times 0.015 gives Joules per square meter produced.
+28: 150 days times 86,400 seconds per day times 250 $W/m^2$ times 0.015 gives Joules per square meter produced.
 
 Why do we have mandates to introduce ethanol into fuel blends?
 Don't assume that the world is always scientifically rational and run by "adults" whose interests extend beyond personal gain. Many political factors enter: votes from midwestern swing-states,29 job dependencies, influences from a powerful industry, the appearance of "green" (carbon-neutral) energy30 all play a role.
@@ -246,7 +246,7 @@ Low EROEI for biofuels reduces net energy available;
 236
 14.5 Problems
 1. A large tree might have a trunk 0.5 m in diameter and be 40 m tall. Even though it branches out many times, pretend all the wood fits into a cylinder maintaining this 0.5 m diameter for the full height of the tree. Wood floats,33 so let's say it has a density around 800 kg/m3. How many kilograms of CO2 did this tree pull out of the atmosphere to get its carbon, if we treat the tree's mass as 50% carbon?
-2. Using the geometry and density of the tree in Problem 1, if the resulting wood has an energy density similar to carbohydrates (4 kcal/g), and the tree spent 50 years accumulating this bulk while receiving an average of 250 W/m2 of solar input over 5 months each year in a leafy area averaging 200 m2 to receive sunlight, what is the net photosynthetic efficiency of the tree?
+2. Using the geometry and density of the tree in Problem 1, if the resulting wood has an energy density similar to carbohydrates (4 kcal/g), and the tree spent 50 years accumulating this bulk while receiving an average of 250 $W/m^2$ of solar input over 5 months each year in a leafy area averaging 200 m2 to receive sunlight, what is the net photosynthetic efficiency of the tree?
 3. The U.S. gets 2.4 qBtu per year of energy from burning biomass (mostly firewood). At an energy density of 4 kcal per gram, and a population of 330 million, how many 5 kg logs per year does this translate to per person?
 33: Water has a density of 1,000 kg/m3.
 Hint: carbon dioxide is 44/12 times the mass of plain carbon.
