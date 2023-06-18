@@ -2,8 +2,6 @@
 title = "1891 kAnchI-AchAryaH - नारायणः"
 +++
 
-There were eight clans of दक्षिणकलार्याः आचार्याः called अष्टदिग्गजाः । Each of them had the title प्रतिवादिभयङ्कराः । This person was among them or their properties or not is unclear.
-
 He was deemed to be deeply awed by the works of स्वामिदेशिकः and remained his sincere भक्त only in the closet to the extent that he had an idol of स्वामिदेशिकः that he did विग्रहाराधनं to at his residence. But externally he was an evidently and reputedly fierce advocate of the दक्षिणकला interpretations of our common पूर्वाचार्यग्रन्थाः । It's heard that, he used to add a त्रिदण्डं to the आचार्यविग्रहं at his place when visited by दक्षिणकलाश्रितशिष्याः to hide his awe of स्वामिदेशिकः । This seems to supported by the claims that he performed प्रपत्ति at the feet of परकालमठ आचार्यः during his final days in atonement perhaps.
 
 Apparently he might have lived with a dual personality that's evident through much of his works and conduct in public versus private life.
