@@ -42,7 +42,7 @@ Aka Srisailanatha, shrIshailapUrNa. Not to be confused with periya-nambi / mahAp
 > - Salatore
 
 ## Panchamata Bhanjanam Tatadesika
-Panchamata Bhanjanam Tatadesika 1509-1591 A.D: One of the luminaries of the renowned Vaishnavite Acharyas in the line of Sriman Natamunikal was Sri Panchamatabanjanam Tatade¬ sika, son of Kandanur Srinivasachariya who flourished at Kanchi in the sixteenth century, A.D. Born in the Tamil Year Vibava, Masi month and Swati star, corresponding to Kali 4610, he was named “Tatadesika” by his parents, after Sri Peria Tirumalai Nambikal, their illustrious ancestor and uncle of Sri Bashyakar, whose birth star also happens to be “Swathi”. He had his education in the Vedas and the Sastras under his father and subsequently he was initiated in the Sri Bashya and other philosophical works, by his maternal uncle, Shashta Parankusa Swarai, the sixth pontiff of the Ahobila Math. He attended to the ‘Srikaryam’ service also under the behests of his uncle, it is said.****
+Panchamata Bhanjanam Tatadesika 1509-1591 A.D: One of the luminaries of the renowned Vaishnavite Acharyas in the line of Sriman Natamunikal was Sri Panchamatabanjanam Tatade¬ sika, son of Kandanur Srinivasachariya who flourished at Kanchi in the sixteenth century, A.D. Born in the Tamil Year Vibava, Masi month and Swati star, corresponding to Kali 4610, he was named “Tatadesika” by his parents, after Sri Peria Tirumalai Nambikal, their illustrious ancestor and uncle of Sri Bashyakar, whose birth star also happens to be “Swathi”. He had his education in the Vedas and the Sastras under his father and subsequently he was initiated in the Sri Bashya and other philosophical works, by his maternal uncle, Shashta Parankusa Swarai, the sixth pontiff of the Ahobila Math. He attended to the ‘Srikaryam’ service also under the behests of his uncle, it is said.
 
 Pancha-mata-bhanjanam Tata Desikan was a local maximum of their time defeating the top scholars of 5 different schools.
 
@@ -92,3 +92,8 @@ He restored the deshika's tUpul shrine from the tenkalai-s. The british judge di
 
 ## गरणि-श्रीनिवासः
 KannaDa writer who translated 4k divyaprabandhas. See separatel [article](../articles/garaNi-shrInivAsa-exegesis/).
+
+## दक्षिणकलार्याः
+A small section of tataryas (mostly belonging to the addanki branch and some belonging to srimushnam branch with a few more here n there) are tenkalais. More than 95% of tataryas must be vdk.
+
+मत्पुत्रस्य द्राविडगाथाशिक्षकोऽपि शठमर्षणगोत्रः, तदाचार्यः पारम्परिकोऽपि, यन्नाम वराहताताचार्य इति। सोऽपि श्रीशैलवंशप्रभवः, किन्तु मन्ये दक्षिणकलार्यः!!

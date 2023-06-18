@@ -58,20 +58,6 @@ A diamond of वत्सगोत्र mined from the blessed दीक्ष�
 - गृहस्थो ऽपि पिताऽप्य् आरामवान् अपि बहुभ्यो दीक्षाम् अददात् समाधिस्थितेर् अप्य् अनुभवम्।  रङ्गप्रियस्वामिनो गुरुर् विशिष्य। 
 - मधुमेहेन मृतः। 
 
-## हस्तिगिरि-अण्णन्
-- genius born at काञ्चिपुर, TN; grew up to become a terror to intellectual foes (प्रतिवादि भयंकर अण्णङ्गराचार्य); wrote the beloved वेङ्कटेश सुप्रभातम् & also वेङ्कटेश (स्तोत्रम् + प्रपत्ति + मङ्गलाशासन) & disciple of the legendary मणवाळमामुनि.
-- aNNA was the grandson of the younger brother of lOkA/chArya's father, 
-  vaDakku-t-tiru-veethi-p-piLLai.
-- aNNA's eponymous ancestor muDumbai-nambi was among the convocation of preceptors identified by Sri rAmAnuja and revered asw the 74 simhAsanA/dhipati-s.
-
-Service:
-
-- renovating the 'divya-dESam' temples left ravaged on the brute trail (1310-1320 AD) of Malik-kafur,  restoring worship and festivals
-- organising a dedicated band of amanuenses to make multiple copies of the 
-'sampradAya rahasya' (esoteric)  works so as to preserve them for posterity, 
-- writing his own fragrant exegesis on a part of 'periyAzhvAr-tirumozhi', 'irAmAnuSa-nUR-RantAdi', the prasthAna-traya works Sri-vachana-bhUshaNam, mumukshu-p-paDi and AchArya-hrdayam and, most of all,
-- administering the Great Temple of Srirangam with great dedication and vigilance.
-
 ## समर्थ-रामदासः
 samartha rAmadAsa
 bold spiritual and practical [inspirer](http://manasataramgini.wordpress.com/2004/05/23/sant-ramadas-letter-to-sambhaji/) of shivAji. (Letter to sambhAjI [KC](http://kalchiron.blogspot.com/2014/06/advice-by-ramdas-swamy-to-sambhaji.html).)  
