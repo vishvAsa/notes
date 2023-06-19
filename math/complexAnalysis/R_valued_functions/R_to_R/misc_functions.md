@@ -71,11 +71,12 @@ $$t ln(1+r)  = ln2 $$
 
 $$t = ln2/ln(1+r) ~ .71/r if r << 1 $$
 
-Very useful for quick calculations. For 7% annual growth, doublign time is roughly 10 years.
-
 Similarly, tripling time:
 
 $$t = ln3/ln(1+r)$$
+
+Very useful for quick calculations. For 7% annual growth, doubling time is roughly 70/7 = 10 years.  
+Also, 70 years is roughly 1 human lifespan. So, in one lifetime, growth will be $2^7x = 128x$!
 
 
 #### Approximations
