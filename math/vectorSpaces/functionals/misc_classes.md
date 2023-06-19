@@ -2,6 +2,8 @@
 title = "Misc classes"
 +++
 
+Misc R to R functions are described [elsewhere](/notes/math/complexAnalysis/R_valued_functions/R_to_R). 
+
 ## Important functionals
 ### Radial basis functionals
 \\(f_{c}(x) = g(\norm{x - c})\\). Gaussian radial basis function is used to define the Gaussian kernel.

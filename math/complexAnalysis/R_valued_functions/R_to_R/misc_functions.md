@@ -9,7 +9,12 @@ See probability ref.
 Eg: \\(a'h_{i+2}+b'h_{i+1}+c'h_{i}=0\\) (Linear, homogenous). Get characteristic eqn by supposing \\(h_{i} = tx^{i}\\); Get roots and multiplicity: \\((r_{1},2), (r_{2},1)\\); Then, \\(h_{i} = ar_{1}^{i} + bir_{1}^{i} + cr_{2}^{i}\\); Solve for a, b, c with boundary conditions. Or, use telescoping sum.
 
 ## Polynomial P over field K
-Polynomial over field K has coefficients from K. Rational function: ratio of polynomials. For \\(\perp\\) polynomials, see Approx theory ref. p is monic: highest degree of x has coefficient 1.
+Polynomial over field K has coefficients from K. 
+
+Rational function: ratio of polynomials.  
+For \\(\perp\\) polynomials, see Approx theory ref.  
+
+p is monic: highest degree of x has coefficient 1.
 
 To show that P has high degree, show it has many roots.
 
@@ -58,6 +63,20 @@ Thence, \\(\ln x^{k} = k \ln x\\).
 \\(e \dfn x: \ln x = 1\\).   
 So, \\(\ln e^{x} = x\\) (using \\(\ln x^{k} = k \ln x\\) from above).  
 Thence \\(\der{e^{x}} = e^{x}\\).  
+
+#### Doubling time
+Find t where $(1+r)^t = 2$.  
+
+$$t ln(1+r)  = ln2 $$
+
+$$t = ln2/ln(1+r) ~ .71/r if r << 1 $$
+
+Very useful for quick calculations. For 7% annual growth, doublign time is roughly 10 years.
+
+Similarly, tripling time:
+
+$$t = ln3/ln(1+r)$$
+
 
 #### Approximations
 Thence expressing as McLaurin series \\(e^{x} = 1 + \dfrac{x}{1} +  \dfrac{x^2}{2!} +  \dfrac{x^3}{3!} ... = \sum_{n=0}^{\infty} \dfrac{x^n}{n!}\\) .

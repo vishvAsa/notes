@@ -247,25 +247,25 @@ title = "03 Contents"
 - D Alluring Tangents
 - D.1 Edge of the Universe.
 - D.2 Cosmic Energy Conservation
-- D.2.1 Cosmological Exception
-- D.2.2 - Convoluted Conservation.
-- D.2.3 Lost to Heat
+  - D.2.1 Cosmological Exception
+  - D.2.2 - Convoluted Conservation.
+  - D.2.3 Lost to Heat
 - D.3 Electrified Transport
-- D.3.1 Airplanes.
-- D.3.2 Shipping
-- D.3.3 Long-haul trucking
-- D.3.4 Buses
-- D.3.5 Passenger Cars.
-- D.3.6 Wired Systems
-- D.3.7 Collected Efficiencies
+  - D.3.1 Airplanes.
+  - D.3.2 Shipping
+  - D.3.3 Long-haul trucking
+  - D.3.4 Buses
+  - D.3.5 Passenger Cars.
+  - D.3.6 Wired Systems
+  - D.3.7 Collected Efficiencies
 - D.4 Pushing Out the Moon
 - D.5 Humanity's Long View 
-- D.5.1 Success vs. Failure .
-- D.5.2 Sustainable Living. 
-- D.5.3 Time to Grow Up - 393
-- D.5.4 Frameworks - 407
+  - D.5.1 Success vs. Failure .
+  - D.5.2 Sustainable Living. 
+  - D.5.3 Time to Grow Up - 393
+  - D.5.4 Frameworks - 407
 - D.6 Too Smart to Succeed? .- 408
-- D.6.1 Evolution's Biggest Blunder? - 411
+  - D.6.1 Evolution's Biggest Blunder? - 411
 - Bibliography - 412
 - Notation - 420
 - Glossary - 422
