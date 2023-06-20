@@ -35,7 +35,11 @@ title = "+Aryan"
 Thence came Bell Beaker culture to the west and from remigration to the steppe: Sintashta culture, Andronovo culture and Srubnaya culture.
 
 ## Central asia
-- "Indo-Europeans reached and probably overwhelmed the Eastern Steppes starting first around 5300 YBP symmetrically with the first invasion of western Europe. This eastern branch perhaps gave rise to the Tocharians though more data from the time Tocharian was actually attested would be useful. ... While the Afanasievo people who represent the 1st IE invasion of the east did not mix noticeably with the east Asians."
+> "Indo-Europeans reached and probably overwhelmed the Eastern Steppes starting first around 5300 YBP symmetrically with the first invasion of western Europe. This eastern branch perhaps gave rise to the Tocharians though more data from the time Tocharian was actually attested would be useful. ... While the Afanasievo people who represent the 1st IE invasion of the east did not mix noticeably with the east Asians."
+
+- IQ of Afanasievo ~92  [NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9402434/)
+
+
 - IIr radiation considered separately.
 
 ## Branches

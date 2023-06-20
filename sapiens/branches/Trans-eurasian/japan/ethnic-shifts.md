@@ -5,6 +5,8 @@ title: Ethnic shifts
 References: [bioarxiv](https://www.biorxiv.org/content/biorxiv/early/2019/03/15/579177.full.pdf) , [MT](https://twitter.com/blog_supplement/status/1107047022551539712)
 
 ## Jomon and Ainu
+- IQ of a certain Japanese Jomon ~95  [NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9402434/)
+
 
 ### Observations
 > The earlier peoples of Japan, the Jomon, were ancestors of the Ainu some of whom even today retain that Jomon ancestry in an unadulterated form. This Jomon-type ancestry is also seen elsewhere in east Asia like: 

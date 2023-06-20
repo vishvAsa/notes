@@ -313,235 +313,84 @@ That said, PV installations often combine panels in both series and parallel-lik
 [^39]: Making things worse, the voltage drop in the lines is proportional to current, diminishing an already small voltage to even less by the time it gets to its application.
 
 ## 13.4 Insolation
-Let's start our journey from the physics principles we covered in Section 13.2. The sun's surface is a sweltering 5,770 K, meaning that it emits oT4≈ 6.3 x 107 $W/m^2$ over its surface. The sun's radius is about 109 times that of the earth's,[^40] which itself is 6,378 km at the equator. Multiplying the radiation intensity by the area gives total power output: 4πRσт4≈ 3.82 × 1026 W. That's one bright bulb!
-42
-Sunlight spreads out uniformly into a sphere expanding from the sun. By the time it reaches Earth, the sphere has a radius equal to the Earth-Sun distance, which is reo = 1.496 x 1011 m.[^41] Spreading 3.82 × 1026 W over a sphere of area 47r computes to 1,360 $W/m^2$. That's what we call the solar constant [^4], and it's a number worth committing to memory.
-Earth intercepts sunlight over the projected area presented to the sun: a disk of area R. Bright features like clouds and snow reflect the light back to space without being absorbed, and even darker surfaces reflect some of the light. In all, 29.3% of the incoming light is reflected, leaving 960 $W/m^2$ absorbed by the R projected area of the planet. But now averaging the 960 $W/m^2$ input over the $4πR^2$ surface area of Earth cuts the number down by a factor of four,[^43] to 240 $W/m^2$.
-High latitude sites suffer more from low sun angles, and obviously cloudier locations will receive less sun at the surface. Taking weather into account, a decent number for the average amount of power from sunlight reaching the ground is about 200 $W/m^2$. This is called insolation44-the "sol" part of the word stemming from solar.
+Let's start our journey from the physics principles we covered in Section 13.2. The sun's surface is a sweltering 5,770 K, meaning that it emits $σT^4≈ 6.3 x 10^7 W/m^2$ over its surface. The sun's radius is about $10^9$ times that of the earth's,[^40] which itself is 6,378 km at the equator. Multiplying the radiation intensity by the area gives total power output: $4πRσт^4≈ 3.82 × 10^26$ W. That's one bright bulb!
 
 [^40]: Why this convoluted path? Context. Building from pieces we are more likely to know/remember better engages our understanding and ownership of the material.
 
+Sunlight spreads out uniformly into a sphere expanding from the sun. By the time it reaches Earth, the sphere has a radius equal to the Earth-Sun distance, which is $r = 1.496 x 10^11$ m.[^41] Spreading $3.82 × 10^26$ W over a sphere of area $4πr^2$ computes to 1,360 $W/m^2$. That's what we call the solar constant [^42], and it's a number worth committing to memory.+++(5)+++
+
 [^41]:...150 million kilometers, or 1 AU
 
-[^42]: See: isn't it satisfying to know that the number comes from somewhere? It's not just a random fact, but connects to other pieces. That's what the earlier margin note meant about context.
-See Fig. 9.6 (p. 144) for a visual example.
+
+Earth intercepts sunlight over the projected area presented to the sun: a disk of area R. Bright features like clouds and snow reflect the light back to space without being absorbed, and even darker surfaces reflect some of the light. In all, 29.3% of the incoming light is reflected, leaving 960 $W/m^2$ absorbed by the R projected area of the planet. But now averaging the 960 $W/m^2$ input over the $4πR^2$ surface area of Earth cuts the number down by a factor of four,[^43] to 240 $W/m^2$.
+
+
+[^42]: See: isn't it satisfying to know that the number comes from somewhere? It's not just a random fact, but connects to other pieces. That's what the earlier margin note meant about context. See Fig. 9.6 (p. 144) for a visual example.
 
 [^43]: We can understand this factor of four as two separate factor-of-2 effects determining how much solar power a particular location receives: one is simply day vs. night: half the time the sun is not up. The other half relates to the fact that the sun is not always overhead, so the amount of light hitting each square meter of land is reduced when the sun's rays are slanting in at an angle.
 
-[^44]:
-ance
-also called global horizontal irradi-
-Solar Flux Context
-$W/m^2$
-Arriving at Earth
-1,360
-Full, overhead sun (no clouds)
-~1,000
-Absorbed by πR
-960
-Absorbed by 4πR
-240
-Typical insolation, includes weather
-~200
-Typical delivered by 15% efficient PV
-30
+High latitude sites suffer more from low sun angles, and obviously cloudier locations will receive less sun at the surface. Taking weather into account, a decent number for the average amount of power from sunlight reaching the ground is about 200 $W/m^2$.+++(5)+++ This is called insolation[^44]-the "sol" part of the word stemming from solar.
+
+
+
+[^44]: also called global horizontal irradiance
+
+Solar Flux Context  $W/m^2$  
+Arriving at Earth 1,360  
+Full, overhead sun (no clouds) ~1,000  
+Absorbed by $πR^2$ 960  
+Absorbed by $4πR^2$   240  
+Typical insolation, includes weather  ~200  
+Typical delivered by 15% efficient PV 30  
 
 Table 13.1: Summary of solar power densities. Full overhead sun can be larger than the global absorbed number because the global number includes reflection from clouds, while overhead direct sun corresponds to a local cloud-free condition.
-Table 13.1 summarizes these various power densities, the last line being typical insolation multiplied by 0.15 to represent the yield from a 15% efficient photovoltaic panel lying flat in a location receiving an insolation of 200 $W/m^2$. Figure 13.8 shows global insolation, variations arising from a combination of latitude and weather.
 
-207
-165 W
-50 W 135"W 120°W 105°W 90°W 75°W 60 W 45"W 30°W 15"W
-15°E 90°E
-45°E
-60°E
-75 E
-90 E
-105°E
-1120 E
-135 E
-150 E
-165 E
-60 N
-60°N
-45 N
-30 N
-15 N
-0
-15 S
-30°S
-45 N
-30 N
-15 N
-D"
-15 S
-30°S
-45'S
-45 S
-2019 The World Bank
-Source: Global Solar Atlas 2.0 Solar resource data: Solargis
-92
-2.2
-108
-2.6
-125
-3.0
-142 158 175 192 208 225
-3.4 3.8 4.2 4.6 5.0 5.4
-242 258
-275 292
-308
-5.8
-6.2
-6.6
-7.0
-7.4
-$W/m^2$
-kWh/m2/day
+Table 13.1 summarizes these various power densities, the last line being typical insolation multiplied by 0.15 to represent the yield from a 15% efficient photovoltaic panel lying flat in a location receiving an insolation of 200 $W/m^2$. 
+
+Figure 13.8 shows global insolation, variations arising from a combination of latitude and weather.
+
+{{< figure src="../images/solar-power-flat-panel-kwh-world.png" title="" class="thumbnail">}}
+
 Figure 13.8: Insolation onto locally horizontal surfaces for the world (for flat plates facing directly upward), in units of $W/m^2$ and kWh/m2/day. The area of the blue square in the middle of the Atlantic ocean is enough to satisfy current global energy demand, using 15% efficient solar collection (but distributed, of course). Source: The World Bank.
-Oreg
-てみりゃひん
-Global Horizontal Solar Irradiance National Solar Radiation Database Physical Solar Model
-Meetin
-Perth Dak
-Souk
-www.
-214
-224
-234
-> 240
-> ,0
-<167
-> 172
-> 182
-> 193
-> 203
-> A
-> W
-> Mis
-> On
-> N
-> Net
-> North Ca
-> Wow the Nat
-> The mai
-> 055
-> 0005
-> 5.255.00
-> -200
-> 4750500
-> get
-> 425A
-> 100
-> 490095
-> 40048
-> ONREL
-> Figure 13.9: Horizontal insolation for the U.S. for a flat plate facing directly upward. Native units for the graphic are in kWh/m2/day, the break-points between colors running from 4.0 to 5.75 kWh/m2/day in steps of 0.25. These values can be converted to $W/m^2$ by multiplying by 1,000 W/kW and dividing by 24 h/day. Annotations are added once in each color band (in black or yellow) to indicate the equivalent measure in $W/m^2$ [^87]. Alaska is not even close to scale. From NREL.
-> Figure 13.9 shows the variation of insolation across the U.S. The latitude effect is evident, but also weather/clouds make a mark, giving the southwest desert the highest solar potential. Even so, the variation from best to worst locations45 is not even a factor of two.
-> Figures 13.8 and 13.9 are in the context of a flat surface.[^46] For solar panels, it makes sense to tilt them to an angle equaling the site latitude and oriented toward the south.[^47] The noon-time sun is always high in
 
+
+Figure 13.9: Horizontal insolation for the U.S. for a flat plate facing directly upward. Native units for the graphic are in kWh/m2/day, the break-points between colors running from 4.0 to 5.75 kWh/m2/day in steps of 0.25. These values can be converted to $W/m^2$ by multiplying by 1,000 W/kW and dividing by 24 h/day. Annotations are added once in each color band (in black or yellow) to indicate the equivalent measure in $W/m^2$ [^87]. Alaska is not even close to scale. From NREL.
+
+Figure 13.9 shows the variation of insolation across the U.S. The latitude effect is evident, but also weather/clouds make a mark, giving the southwest desert the highest solar potential. Even so, the variation from best to worst locations[^45] is not even a factor of two.
 
 [^45]: e.g., 250 vs. 150 $W/m^2$
 
+
+{{< figure src="../images/solar-power-flat-panel-kwh-usa.png" title="" class="thumbnail">}}
+
+Figures 13.8 and 13.9 are in the context of a flat surface.[^46] For solar panels, it makes sense to tilt them to an angle equaling the site latitude and oriented toward the south.[^47] The noon-time sun is always high in the sky near the equator, so panels there should lie flat.[^48]
+
+
 [^46]:... as is the definition of insolation
 
-[^47]:
-toward the south for northern hemisphere locations; a more generally correct way to say it would be "toward the equator"
+[^47]: toward the south for northern hemisphere locations; a more generally correct way to say it would be "toward the equator"
 
-208
-the sky near the equator, so panels there should lie flat.[^48] But at high northern latitudes, the sun is lower toward the southern horizon, so the panels should tilt up to best face the sun. Tilting at an angle equal to the latitude is the best compromise, as Figure 13.10 illustrates.
-sun view
-flat panels
-sun view
-titled panels
-side view
-titled panels
 
 [^48]: ... point mostly up
+
+[[208]]
+
+But at high northern latitudes, the sun is lower toward the southern horizon, so the panels should tilt up to best face the sun. Tilting at an angle equal to the latitude is the best compromise, as Figure 13.10 illustrates.
+
+
+{{< figure src="../images/solar-panel-tilting.png" title="" class="thumbnail">}}
+
 Figure 13.10: The left globe shows the sun's view of 21 panels of the same size sitting flat on the ground at their various sites. In the middle globe, the panels are all tilted up toward the equator. Notice the improvement in how much panel area is visible to the sun by doing this especially at higher latitudes. At right is the side view, from which it is easier to appreciate why the best tilt angle is equal to the site latitude.
+
 Photovoltaic Solar Resource of the United States
--225
-20
-115
--TIO
--ICS
--100
-95
-00
-85
--80
-25
-70
--55
-156
-WA
-MT
--180
-OR
-NV
-> 271 AZ
-<125
-> 135
-> AX
-> 200
-> MT
-> RD
-> MIN
-> 50
-> IA
-> NE
-> 198
-> UT
-> 219
-> Mo
-> 260
-> NM
-> -120
-> 240
-> OK
-> MS
-> 12322
-> MI
-> 177
-> IN
-> ww
-> TH
-> SC
-> 150
-> 450
-> M
-> -160
-> -158
-> 356
-> 154
-> 60
-> 10
-> 105
-> 100
-> HI
-> 50 100 150 M
-> NO
-> kWh/m2/Day
-> 65
-> 60 to 6.5
-> 5.5 to 6.0
-> 5.0 to 5.5
-> 4.5 to 5.0
-> 4.0 to 4.5
-> 3.5 to 4.0
-> 3.0 to 3.5 <3.0
-> Annual vinage sola rource data are shown for a tit- Latitude lector. The data for
-> Hawa and the 48 contiguous sites are 10 satelite m5UNY/NREL
-> 30 2007) representing data from
-> 1908-2009
-> The data for Alaskam dalanel produced by the Climatological Solar Radiation Model INREL, 2003)
-> This map was produced by the National Renewable Energy Laboratory for the US Department of Energy Billy Roberts
-> 19 September 2012
-> NREL
-> TOWE ADDR
-> Tilting panels toward the equator at an angle equal to site latitude optimizes annual yield, and the results are shown in Figure 13.11. Note that the numbers in Figure 13.11 are not strictly insolations, since that's defined as what reaches flat ground. In this case, the area (square meters) is that of the panel, not of the land.
-> The fact that the numbers in Figure 13.11 are higher than in Figure 13.9 is not to say that the land offers more solar energy if the panels are tilted: just that an individual panel can get more light. But in this case, panels need to be spaced out to avoid shadowing,[^49] as Figure 13.12 illustrates.
-> Some applications need to track the sun, like those that concentrate solar power, and only work when the sun is not blocked by clouds.[^50] This brings us to Figure 13.13, showing the potential per square meter of collector (mirror or lens) used for the concentration (the topic of Section 13.8.2). The same pattern holds, in that the desert southwest dominates. But a look at the numbers indicates that the cloudier regions are not much better than just a flat panel facing upward (as is the case for Figure 13.9). In the southwest, where skies are often cloud-free, the boost can be
+
+{{< figure src="../images/solar-power-tilted-panel-kwh-usa.png" title="" class="thumbnail">}}
+
+Tilting panels toward the equator at an angle equal to site latitude optimizes annual yield, and the results are shown in Figure 13.11. Note that the numbers in Figure 13.11 are not strictly insolations, since that's defined as what reaches flat ground. In this case, the area (square meters) is that of the panel, not of the land.
+
+The fact that the numbers in Figure 13.11 are higher than in Figure 13.9 is not to say that the land offers more solar energy if the panels are tilted: just that an individual panel can get more light. But in this case, panels need to be spaced out to avoid shadowing,[^49] as Figure 13.12 illustrates.
+
+Some applications need to track the sun, like those that concentrate solar power, and only work when the sun is not blocked by clouds.[^50] This brings us to Figure 13.13, showing the potential per square meter of collector (mirror or lens) used for the concentration (the topic of Section 13.8.2). The same pattern holds, in that the desert southwest dominates. But a look at the numbers indicates that the cloudier regions are not much better than just a flat panel facing upward (as is the case for Figure 13.9). In the southwest, where skies are often cloud-free, the boost can be
 
 Figure 13.11: Solar potential for flat panels tilted to latitude, oriented south-relevant to PV panel installations. The graphic is presented in units of kWh/m2/day, the breakpoints between colors running from 3.0 to 6.5 kWh/m2/day in steps of 0.5. Annotations are added once in each color band (in black or yellow) to indicate the equivalent measure in $W/m^2$ [^87]. From NREL.
 
@@ -565,42 +414,42 @@ National Solar Radiation Database Physical Solar Model
 Seth Cake
 <167
 CANADA
-> 313
-> 302
-> WELCO
-> 045
-> Ha
-> 198
-> 177
-> O
-> 219
-> 240
-> 260
-> 281
-> M
-> T
-> Ind
-> قسنطينة
-> Gen
-> Va
-> ged
-> SSS
-> Odde
-> LON
-> br
-> 4549
-> long
-> 1044
-> 240
-> Forrón, viat
-> Pasdo
-> budg
-> Dingdom.g
-> ONREL
-> Stepping back, let's appreciate a few big-picture facets from these maps. First, numbers tend to be in the general neighborhood of 150-300 $W/m^2$. Burn this range in-it's a useful context. Second, the variation from the most solar-intense places in the contiguous U.S. to the weakest areas 51 is not more than a factor of two on an annual basis. This is astounding. The Mojave desert in California and the rain-forest Olympic Peninsula in Washington would seem to be practically day vs. night with respect to solar illumination. But not so much: only a factor of two.[^52] Part of what this means is that if storage over annual timescales could be realized, solar power would become practical almost everywhere.[^53]
-> Box 13.2: Hours of Full-Sun Equivalent
-> A useful take-away comes from the native units used in the three maps presented here: kWh/m2/day, as opposed to our preferred $W/m^2$. Although they look different at a glance, kWh is a unit of energy, so kWh/day is a power, just like W. Since a kilowatt is 1,000 W and a day is 24 h, 1 kWh/day is 1,000 Wh/24 h = 41.67 W.54 So we can multiply 6 kWh/m2/day by 41.67 to get 250 $W/m^2$.
-> Figure 13.13: Solar potential for tracking panels, facing directly toward the sun's position and requiring a cloud-free view of the sun (concentrating collectors). The graphic is presented in units of kWh/m2/day, the break-points between colors running from 4.0 to 7.5 kWh/m2/day in steps of 0.5. Annotations are added once in each color band (in black or yellow) to indicate the equivalent measure in $W/m^2$ [^87]. From NREL.
+313
+302
+WELCO
+045
+Ha
+198
+177
+O
+219
+240
+260
+281
+M
+T
+Ind
+قسنطينة
+Gen
+Va
+ged
+SSS
+Odde
+LON
+br
+4549
+long
+1044
+240
+Forrón, viat
+Pasdo
+budg
+Dingdom.g
+ONREL
+Stepping back, let's appreciate a few big-picture facets from these maps. First, numbers tend to be in the general neighborhood of 150-300 $W/m^2$. Burn this range in-it's a useful context. Second, the variation from the most solar-intense places in the contiguous U.S. to the weakest areas 51 is not more than a factor of two on an annual basis. This is astounding. The Mojave desert in California and the rain-forest Olympic Peninsula in Washington would seem to be practically day vs. night with respect to solar illumination. But not so much: only a factor of two.[^52] Part of what this means is that if storage over annual timescales could be realized, solar power would become practical almost everywhere.[^53]
+Box 13.2: Hours of Full-Sun Equivalent
+A useful take-away comes from the native units used in the three maps presented here: kWh/m2/day, as opposed to our preferred $W/m^2$. Although they look different at a glance, kWh is a unit of energy, so kWh/day is a power, just like W. Since a kilowatt is 1,000 W and a day is 24 h, 1 kWh/day is 1,000 Wh/24 h = 41.67 W.54 So we can multiply 6 kWh/m2/day by 41.67 to get 250 $W/m^2$.
+Figure 13.13: Solar potential for tracking panels, facing directly toward the sun's position and requiring a cloud-free view of the sun (concentrating collectors). The graphic is presented in units of kWh/m2/day, the break-points between colors running from 4.0 to 7.5 kWh/m2/day in steps of 0.5. Annotations are added once in each color band (in black or yellow) to indicate the equivalent measure in $W/m^2$ [^87]. From NREL.
 
 [^51]:... ignoring Arctic-leaning Alaska
 
