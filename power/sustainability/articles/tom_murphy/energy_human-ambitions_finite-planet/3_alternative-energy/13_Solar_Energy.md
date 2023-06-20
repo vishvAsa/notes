@@ -390,66 +390,27 @@ Tilting panels toward the equator at an angle equal to site latitude optimizes a
 
 The fact that the numbers in Figure 13.11 are higher than in Figure 13.9 is not to say that the land offers more solar energy if the panels are tilted: just that an individual panel can get more light. But in this case, panels need to be spaced out to avoid shadowing,[^49] as Figure 13.12 illustrates.
 
-Some applications need to track the sun, like those that concentrate solar power, and only work when the sun is not blocked by clouds.[^50] This brings us to Figure 13.13, showing the potential per square meter of collector (mirror or lens) used for the concentration (the topic of Section 13.8.2). The same pattern holds, in that the desert southwest dominates. But a look at the numbers indicates that the cloudier regions are not much better than just a flat panel facing upward (as is the case for Figure 13.9). In the southwest, where skies are often cloud-free, the boost can be
+[^49]: ... which can be more devastating than just fractional area blocked, due to series arrangement of cells in panel modules
+
+Figure 13.12: On a fixed piece of land receiving a fixed amount of sunshine at a slant angle, the amount of energy received is independent of whether the panels are flat or tilted. Just tilting the flat panels up (middle) results in self-shading. It makes the most sense to tilt and separate panels (right), one benefit being that fewer panels are needed to collect the same incident energy.
+
+
+{{< figure src="../images/solar-power-tracking-panel-kwh-usa.png" title="" class="thumbnail">}}
 
 Figure 13.11: Solar potential for flat panels tilted to latitude, oriented south-relevant to PV panel installations. The graphic is presented in units of kWh/m2/day, the breakpoints between colors running from 3.0 to 6.5 kWh/m2/day in steps of 0.5. Annotations are added once in each color band (in black or yellow) to indicate the equivalent measure in $W/m^2$ [^87]. From NREL.
 
-[^49]: ... which can be more devastating than just fractional area blocked, due to series arrangement of cells in panel modules
+Some applications need to track the sun, like those that concentrate solar power, and only work when the sun is not blocked by clouds.[^50] This brings us to Figure 13.13, showing the potential per square meter of collector (mirror or lens) used for the concentration (the topic of Section 13.8.2). The same pattern holds, in that the desert southwest dominates. But a look at the numbers indicates that the cloudier regions are not much better than just a flat panel facing upward (as is the case for Figure 13.9). In the southwest, where skies are often cloud-free, the boost can be about 30% over the flat, upward-facing panel. Concentration schemes make less sense away from such regions.
 
 [^50]: Photovoltaics still produce 10-50% of full capacity under cloudy skies during daylight hours, depending on how thick the clouds are: daylight still means photons.
-incoming sun
-same input-
+
+
+Figure 13.13: Solar potential for tracking panels, facing directly toward the sun's position and requiring a cloud-free view of the sun (concentrating collectors). The graphic is presented in units of kWh/m2/day, the break-points between colors running from 4.0 to 7.5 kWh/m2/day in steps of 0.5. Annotations are added once in each color band (in black or yellow) to indicate the equivalent measure in $W/m^2$ [^87]. From NREL.
 
 209
-5 panels, flat
-11111
-same panels, tilted; shadows
-3 panels, tilted; catching all
-Figure 13.12: On a fixed piece of land receiving a fixed amount of sunshine at a slant angle, the amount of energy received is independent of whether the panels are flat or tilted. Just tilting the flat panels up (middle) results in self-shading. It makes the most sense to tilt and separate panels (right), one benefit being that fewer panels are needed to collect the same incident energy.
-about 30% over the flat, upward-facing panel. Concentration schemes make less sense away from such regions.
-Water
-Martin
-Direct Normal Solar Irradiance
-National Solar Radiation Database Physical Solar Model
-Seth Cake
-<167
-CANADA
-313
-302
-WELCO
-045
-Ha
-198
-177
-O
-219
-240
-260
-281
-M
-T
-Ind
-قسنطينة
-Gen
-Va
-ged
-SSS
-Odde
-LON
-br
-4549
-long
-1044
-240
-Forrón, viat
-Pasdo
-budg
-Dingdom.g
-ONREL
-Stepping back, let's appreciate a few big-picture facets from these maps. First, numbers tend to be in the general neighborhood of 150-300 $W/m^2$. Burn this range in-it's a useful context. Second, the variation from the most solar-intense places in the contiguous U.S. to the weakest areas 51 is not more than a factor of two on an annual basis. This is astounding. The Mojave desert in California and the rain-forest Olympic Peninsula in Washington would seem to be practically day vs. night with respect to solar illumination. But not so much: only a factor of two.[^52] Part of what this means is that if storage over annual timescales could be realized, solar power would become practical almost everywhere.[^53]
-Box 13.2: Hours of Full-Sun Equivalent
-A useful take-away comes from the native units used in the three maps presented here: kWh/m2/day, as opposed to our preferred $W/m^2$. Although they look different at a glance, kWh is a unit of energy, so kWh/day is a power, just like W. Since a kilowatt is 1,000 W and a day is 24 h, 1 kWh/day is 1,000 Wh/24 h = 41.67 W.54 So we can multiply 6 kWh/m2/day by 41.67 to get 250 $W/m^2$.
-Figure 13.13: Solar potential for tracking panels, facing directly toward the sun's position and requiring a cloud-free view of the sun (concentrating collectors). The graphic is presented in units of kWh/m2/day, the break-points between colors running from 4.0 to 7.5 kWh/m2/day in steps of 0.5. Annotations are added once in each color band (in black or yellow) to indicate the equivalent measure in $W/m^2$ [^87]. From NREL.
+
+
+
+Stepping back, let's appreciate a few big-picture facets from these maps. First, numbers tend to be in the general neighborhood of 150-300 $W/m^2$.+++(4)+++ Burn this range in-it's a useful context. Second, the variation from the most solar-intense places in the contiguous U.S. to the weakest areas 51 is not more than a factor of two on an annual basis.+++(5)+++ This is astounding. The Mojave desert in California and the rain-forest Olympic Peninsula in Washington would seem to be practically day vs. night with respect to solar illumination. But not so much: only a factor of two.[^52] Part of what this means is that if storage over annual timescales could be realized, solar power would become practical almost everywhere.[^53]
 
 [^51]:... ignoring Arctic-leaning Alaska
 
@@ -457,54 +418,59 @@ Figure 13.13: Solar potential for tracking panels, facing directly toward the su
 
 [^53]: This would require huge storage capacity: giant batteries, for instance.
 
+<details><summary>Box 13.2: Hours of Full-Sun Equivalent</summary>
+
+A useful take-away comes from the native units used in the three maps presented here: kWh/m2/day, as opposed to our preferred $W/m^2$. Although they look different at a glance, kWh is a unit of energy, so kWh/day is a power, just like W. Since a kilowatt is 1,000 W and a day is 24 h, 1 kWh/day is 1,000 Wh/24 h = 41.67 W.[^54] So we can multiply 6 kWh/m2/day by 41.67 to get 250 $W/m^2$.
+
 [^54]: The hours in numerator and denominator cancel, since the kilowatt-hour is kW times hours.
 
+[[210]]
 
-210
-But the main purpose of this box is to point out the following. Full overhead sunshine bathes the ground in about 1,000 $W/m^2$.55 So if you could contrive to keep the sun directly overhead for 5 hours, you'd get 5 kWh of solar energy for each square meter on the ground. Therefore, if your site is listed as getting 5 kWh/m2/day, it's the equivalent amount you'd get from 5 hours of direct overhead sun.[^56]
-What actually happens is that the day is longer than 5 hours, but for much of the day the sun is at a lower angle so that the panel is not directly illuminated, and weather can also interfere. This leads to a concept of full-sun-equivalent-hours. A site getting an annual average of 5.4 kWh/m2/day might be said to get 5.4 hours of full-sun-equivalent each day. It's a pretty useful metric.
-Box 13.2 leads to a crucial bit of understanding on characterizing a PV system. Panels are rated on what they would deliver when illuminated by 1,000 $W/m^2$ at a temperature of 25°C.57 So the measure in kWh/m2/day, or full-sun-equivalent hours tells you effectively what fraction of a day the panel will operate at its rated capacity.
-Example 13.4.1 A 250 W panel at a location getting 4.8 kWh/m2/day, or 4.8 full-sun-equivalent hours, is basically operating at 250 W for 4.8 hours out of every 24, or 20% of the time. So the panel delivers an average power of 50 W, not 250 W.58
-The 250 W rating is referred to as "peak" Watts, sometimes denoted 250 Wp. Panels are sold this way, and now cost about $0.50/Wp.
-A 30-year study by the National Renewable Energy Lab [^88] initiated in 1960 characterized solar potential across the U.S. and produced detailed statistics on what each location might expect to collect each month for panels in different orientations. Table 13.2 is a subset of the complete data for St. Louis, Missouri.[^59] All cases in Table 13.2 correspond to a panel facing south, at various tilts (including flat, at 0° and vertical at 90°; other tilts are relative to the site latitude of ≈ 39°). From this, we see that tilting the panel at the site latitude delivers an annual average of 4.8 kWh/m2/day, matching the graphic expectation from Figure 13.11. Also shown is the monthly breakdown and how different tilts translate to performance. We will visit this table again in Section 13.6 to help us establish an appropriate size for a residential installation.
-Angle Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year
-0°
-2.2 2.9 3.9 5.0 5.9 6.4 6.4 5.7 4.6 3.5 2.3 1.8
-0 15° 3.2 3.8 4.6
-Ꮎ 3.6 4.2 4.7
-0+15° 3.8 4.3 4.6
-5.9 6.3 6.3 6.0
-5.3 5.6 5.8 5.9 5.7
-4.9 4.9 5.0 5.1 5.2
-90° 3.5 3.7 3.4 3.1 2.6 2.4 2.6 3.0
-5.4
-4.2
-5.3 4.5 3.2 2.7 4.8
-5.3 4.8 3.5 3.1 4.8
-5.1 4.8 3.7 3.3 4.6
-3.5 3.8 3.2 3.0
-3.2
+But the main purpose of this box is to point out the following. Full overhead sunshine bathes the ground in about 1,000 $W/m^2$.[^55] So if you could contrive to keep the sun directly overhead for 5 hours, you'd get 5 kWh of solar energy for each square meter on the ground. Therefore, if your site is listed as getting 5 kWh/m2/day, it's the equivalent amount you'd get from 5 hours of direct overhead sun.[^56]
 
 [^55]: It's 1,360 $W/m^2$ at the top of the atmosphere, and the atmosphere blocks/scatters some of the wavelengths outside the visible part of the spectrum.
 
 [^56]: This equivalence relies on the convenient fact that full overhead sun is about 1,000 $W/m^2$. It would not work otherwise.
 
+What actually happens is that the day is longer than 5 hours, but for much of the day the sun is at a lower angle so that the panel is not directly illuminated, and weather can also interfere. This leads to a concept of full-sun-equivalent-hours. A site getting an annual average of 5.4 kWh/m2/day might be said to get 5.4 hours of full-sun-equivalent each day. It's a pretty useful metric.
+</details>
+
+Box 13.2 leads to a crucial bit of understanding on characterizing a PV system. Panels are rated on what they would deliver when illuminated by 1,000 $W/m^2$ at a temperature of 25°C.[^57] So the measure in $kWh/m^2/day$, or full-sun-equivalent hours tells you effectively what fraction of a day the panel will operate at its rated capacity.
+
 [^57]: The 1,000 $W/m^2$ is reasonable, but a photovoltaic panel in full sun will be about 30-40°C hotter than its surroundings (it gets hot!), so it would have to be very cold outside to meet the specification of 25°C panel temperature. Solar panel performance wanes when hot, and will only reach 85-90% of rated capacity in typical conditions.
 
+<details><summary>Example 13.4.1</summary>
+
+A 250 W panel at a location getting $4.8 kWh/m^2/day$, or 4.8 full-sun-equivalent hours, is basically operating at 250 W for 4.8 hours out of every 24, or 20% of the time. So the panel delivers an average power of 50 W, not 250 W.[^58]
+
 [^58]: We would need to apply a de-rating of 0.85 to 0.9 to account for typical PV temperatures in the sun, bringing the panel to about 45 W average power.
+
+The 250 W rating is referred to as "peak" Watts, sometimes denoted 250 Wp. Panels are sold this way, and now cost about $0.50/Wp.
+</details>
+
+A 30-year study by the National Renewable Energy Lab [^88] initiated in 1960 characterized solar potential across the U.S. and produced detailed statistics on what each location might expect to collect each month for panels in different orientations. 
+
 [^88]: National Renewable Energy Lab (1994), Solar Radiation Data Manual for Flat-Plate and Concentrating Collectors
 
-[^59]: ... a fairly typical solar location in the U.S.
-south
-0°
-0-15°
-0+15°
-90°
-Figure 13.14: Panel tilts for Table 13.2, for 0 = 39°.
+Table 13.2 is a subset of the complete data for St. Louis, Missouri.[^59] All cases in Table 13.2 correspond to a panel facing south, at various tilts (including flat, at 0° and vertical at 90°; other tilts are relative to the site latitude of ≈ 39°). From this, we see that tilting the panel at the site latitude delivers an annual average of 4.8 kWh/m2/day, matching the graphic expectation from Figure 13.11. Also shown is the monthly breakdown and how different tilts translate to performance. We will visit this table again in Section 13.6 to help us establish an appropriate size for a residential installation.
+
+[^59]: ... a fairly typical solar location in the U.S. south
+
+| Angle   | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec | Year |
+|---------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
+| 0°      | 2.2 | 2.9 | 3.9 | 5.0 | 5.9 | 6.4 | 6.4 | 5.7 | 4.6 | 3.5 | 2.3 | 1.8 | 4.2  |
+| 0 - 15° | 3.2 | 3.8 | 4.6 | 5.4 | 5.9 | 6.3 | 6.3 | 6.0 | 5.3 | 4.5 | 3.2 | 2.7 | 4.8  |
+| 0       | 3.6 | 4.2 | 4.7 | 5.3 | 5.6 | 5.8 | 5.9 | 5.7 | 5.3 | 4.8 | 3.5 | 3.1 | 4.8  |
+| 0 + 15° | 3.8 | 4.3 | 4.6 | 4.9 | 4.9 | 5.0 | 5.1 | 5.2 | 5.1 | 4.8 | 3.7 | 3.3 | 4.6  |
+| 90°     | 3.5 | 3.7 | 3.4 | 3.1 | 2.6 | 2.4 | 2.6 | 3.0 | 3.5 | 3.8 | 3.2 | 3.0 | 3.2  |
+
 Table 13.2: Solar exposure (kWh/m2/day) for a south-facing panel in St. Louis, MO, at various panel tilts (0 is latitude, which happens to be 39° for St. Louis). 0° means a panel lying flat, pointing straight up (like on a flat roof), and 90° means vertical, like on a (south-facing) wall (see Figure 13.14).
 
+Figure 13.14: Panel tilts for Table 13.2, for 0 = 39°.
+
 211
-13.5 The Incredible Solar Potential
+
+## 13.5 The Incredible Solar Potential
 The potential of sunlight can be assessed by pieces we have already seen. Multiplying the solar constant of 1,360 $W/m^2$ by the projected area of Earth (R) and by 0.707 to account for the 29.3% reflection loss, we compute that Earth absorbs solar energy at a rate of 1.23 x 1017 W, or 123,000 TW (1 TW is 1012 W). Compared to the 18 TW societal scale, that's huge! Notice that the non-reflected entries back in Table 10.2 (p. 168) add60
 to this same value.
 Placing solar panels on just 10% of the land (itself 29% of Earth's surface
