@@ -36,3 +36,6 @@ Every land grant mentions the following details -
 deshastha-s and chitpAvans appear to come from distinct paternal lines.
 
 {{< figure src="../images/konkaNastha_deshastha_chitpAvan.png" title="" class="thumbnail">}}
+
+> Chitpavan Brahmins are genetically almost identical to Dravida Brahmins from Kerala, TN or AP. This might be confusing to some, who think the prevalence of colored eyes  in Chitpavans suggest some wildly different ancestry, but this isn't the case. Genotype is not equal to phenotype. Your genes can be 99% similar and you can look very different. - AryAMsha
+
