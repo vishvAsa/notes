@@ -28,9 +28,6 @@ unicode_script = "devanagari"
 
 
 
-## पिळ्ळै लोकाचार्यः
-one of the greatest आचार्याः of the तेङ्कलै sect of श्रीवैष्णवसम्प्रदाय; author of श्रीवचनभूषण, a profound work. He also safeguarded the उत्सवमूर्ति of श्रीरङ्गम् when Malik Kafur's forces raided the city.
-
 ## उमापति-शिवाचार्यः
 A diamond of वत्सगोत्र mined from the blessed दीक्षित community of hereditary priests of नटराज in चिदम्बरम्, the 4th & final of the संतानगुरुपरम्पर in सैद्धान्तिक-शैव-सम्प्रदाय; he authored 8 of 14 classic tamizh texts known as the मॆय्कण्ट-शास्त्राणि.
 
@@ -52,7 +49,10 @@ A diamond of वत्सगोत्र mined from the blessed दीक्ष�
 - Went on a pilgrimage of N India. They used to travel during nights and during daytime stay in wayside Vaishnavite villages and spent the day doing Upanyasams on Sri Desika Sampradaya in Sanskrit while the local pandits translated the same in local languages, to the audience. This took four months for them to reach Calcutta.
 - Returned south, started publishing lots of books.
 
-## श्रीरङ्ग-महागुरुः
+## नल्लन्-चक्रवर्ती
+Thirumalai Nallan Chakravarthy was a sishyA of Ramanuja and is said to have converted even some hunters into Sri Vaishnavaites. These hunters were the ones who helped our Sri Ramanuja when he was in exile due to the atrocities commited by the KrimikanTa chOlan. On seeing their bhakthi when Sri Ramanuja asked them as to who taught them all these things, they replied that it was their AchArya by name Thirumalai nallAn, for which Sri Ramanuja said "nallAn enRa kALamEgham ippadi varshikkiradhE" (The dark cloud named 'nallAn' is pouring the grace and the bhakthi in a great manner so that everyone is benefitted).
+
+### श्रीरङ्ग-महागुरुः
 - पिता - Thirumala-charya Nallanchakravarthy । माता रुक्मिणी। 
 - हेडतले-ग्रामस्थो योगि-सिद्धः। सङ्गीते निपुणः। नाडिविद्या-निपुणः।  
 - गृहस्थो ऽपि पिताऽप्य् आरामवान् अपि बहुभ्यो दीक्षाम् अददात् समाधिस्थितेर् अप्य् अनुभवम्।  रङ्गप्रियस्वामिनो गुरुर् विशिष्य। 
