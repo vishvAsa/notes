@@ -572,44 +572,63 @@ How large does an installation need to be? If the goal is to cover annual or mon
 
 The first can be surmised from electricity bills, usually giving a monthly total usage in kWh. We can get an approximate average scale from Fig. 7.2 (p. 105), which indicates that 42% of residential energy (11.9 qBtu per year) is from electricity. That's 5 qBtu, or 5.3 × 1018 J in one year (3.156 x 107 s), or 167 GW. Distributed among 130 million households in the U.S.,[^75] average household electricity consumption is 1,285 W. Applied over 24 hours, this makes for just over 30 kilowatt-hour (kWh) per day for an average household.[^76]
 
-The next piece is solar potential at the location of interest. We'll use the excerpted data from [^88] for St. Louis, Missouri found in Table 13.2.
-
-Example 13.6.1  
-Let's design a grid-tied PV system for an average U.S. household in an average" U.S. city (St. Louis). We'll orient the panels facing south and tilted to the site latitude (39°) and purchase PV panels at 18% efficiency (pretty typical).
-78
-Table 13.2 indicates that for this configuration we can expect an annual average of 4.8 kWh/$m^2$/day of input. If we're shooting for 30 kWh per day, we would need 6.25 $m^2$ of panel operating at 100% efficiency.
-But 18% panels will require about 35 $m^2$ of panel,[^79] which would be a square array about 6 meters on a side (about 20 feet) or a rectangle 5 by 7 meters, etc. The total area (400 square feet) is much smaller than a typical house footprint, so that's good news.
-But panels are not marketed by the square meter. They are sold in terms of peak Watts: what the panel would deliver in 1,000 $W/m^2$ sunlight (see Example 13.4.1). How do we convert? Two ways are instructive.
-Example 13.6.2 In one method, we multiply the 35 square-meter area from Example 13.6.1 by 1,000 $W/m^2$ and then by the PV efficiency (18% in this example) to get how much would be delivered: 6.3 kW.
-Alternatively, we could adopt the interpretation of 4.8 kWh/$m^2$/day as the equivalent full-sun hours operating at peak output (Box 13.2). To get our target 30 kWh in 4.8 hours of full-sun-equivalent, we would need to produce 6.25 kW for those 4.8 hours.[^80]
-We get the same answer either way, which is a good check.8
-81
-We should assume that the panels will not achieve their rated potential due to the facts that:
-The 25°C specification is almost never realized for a PV panel in the sun: PV panels in the sun get hot, and less efficient as a result;
-► The panels will get a little dirty;
-
-214
-
 [^75]: ... makes sense for a population of 330 million: translates to 2.5 people per household, on average
 
 [^76]: This is another case where students might suggest replacing this whole paragraph with the result. The point is to build connections, context, and tools to apply previous knowledge.
+
+The next piece is solar potential at the location of interest. We'll use the excerpted data from [^88] for St. Louis, Missouri found in Table 13.2.
+
 [^88]: National Renewable Energy Lab (1994), Solar Radiation Data Manual for Flat-Plate and Concentrating Collectors
 
-[^77]:
-...solar-wise
+<details><summary>Example 13.6.1</summary>
+
+Let's design a grid-tied PV system for an average U.S. household in an average[^77] U.S. city (St. Louis). We'll orient the panels facing south and tilted to the site latitude (39°) and purchase PV panels at 18% efficiency (pretty typical).
+
+[^77]: ...solar-wise
+
+Table 13.2 indicates that for this configuration we can expect an annual average of 4.8 kWh/$m^2$/day of input. If we're shooting for 30 kWh per day, we would need 6.25 $m^2$ of panel operating at 100% efficiency.[^78]
 
 [^78]: ... Divide 30 kWh/day by 4.8 kWh/$m^2$/day
 
+But 18% panels will require about 35 $m^2$ of panel,[^79] which would be a square array about 6 meters on a side (about 20 feet) or a rectangle 5 by 7 meters, etc. The total area (400 square feet) is much smaller than a typical house footprint, so that's good news.
+
 [^79]: ... Divide 6.25 $m^2$ by 0.18
+
+</details>
+
+
+But panels are not marketed by the square meter. They are sold in terms of peak Watts: what the panel would deliver in 1,000 $W/m^2$ sunlight (see Example 13.4.1). How do we convert? Two ways are instructive.
+
+<details><summary>Example 13.6.2</summary>
+
+In one method, we multiply the 35 square-meter area from Example 13.6.1 by 1,000 $W/m^2$ and then by the PV efficiency (18% in this example) to get how much would be delivered: 6.3 kW.
+
+Alternatively, we could adopt the interpretation of 4.8 kWh/$m^2$/day as the equivalent full-sun hours operating at peak output (Box 13.2). To get our target 30 kWh in 4.8 hours of full-sun-equivalent, we would need to produce 6.25 kW for those 4.8 hours.[^80]
 
 [^80]: 6.25 kW times 4.8 hours is 30 kWh.
 
+We get the same answer either way, which is a good check.[^81]
+
 [^81]: The math is actually just the same, but we rearranged the order and interpretation.
 
+</details>
 
-215
-The equipment that converts panel output to AC electricity is not 100% efficient.
+
+We should assume that the panels will not achieve their rated potential due to the facts that:
+
+- The 25°C specification is almost never realized for a PV panel in the sun: PV panels in the sun get hot, and less efficient as a result;
+- The panels will get a little dirty;
+- The equipment that converts panel output to AC electricity is not 100% efficient.
+
+[[214]]
+
+
+
+[[215]]
+
+
 So it's a good idea to bump the number up by 20% or so, and order a 7.5 kW PV system for the case under study. A typical full cost (panels, electrical converters, installation) lately runs just shy of $3 per peak Watt (Figure 13.16), which in this case brings the price tag to roughly $20k. If electricity costs $0.15 per kWh—approximately the national average each 30 kWh day costs $4.5, accumulating to $20k after 12 years. Federal and state incentives can make the payback time shorter.
+
 What would these numbers become if trying to meet monthly instead of annual demands? December is usually the worst month for PV in the northern hemisphere, when the sun is lowest in the south, and the days are shortest. Table 13.2 backs this up, showing 3.1 kWh/$m^2$/day for the chosen panel orientation in December. This is about two-thirds the annual average, so we would need to increase the size of the system (and thus cost and payback time) by a factor of 1.5 to produce enough in December.8
 82
 If sizing for an off-grid system, we need to factor in some inefficiency for battery charge/discharge and design for poorer months, so should increase by another factor of at least 1.5. The cost of batteries can be rather large, too. A good rule of thumb is to have at least three days of storage in the event of no solar input for several days during a stormy period. For our 30 kWh per day target, we would want about 100 kWh of storage. As an easy way to get a cost estimate for storage, the Tesla powerwall 2 is 13.5 kWh83 and costs about $7k apiece. If we follow along, the cost of the off-grid PV system for 30 kWh/day at an installation cost of $3/W will be 7500 W x 1.5 x 1.5 x $3≈ $50k for panels/installation plus $56k for batteries.[^84] Then the batteries may be in need of replacement every 10-15 years.[^85]
