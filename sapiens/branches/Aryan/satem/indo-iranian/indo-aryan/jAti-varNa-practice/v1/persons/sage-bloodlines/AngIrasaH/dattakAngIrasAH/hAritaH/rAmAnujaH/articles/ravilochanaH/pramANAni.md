@@ -1,6 +1,7 @@
 +++
 title = "प्रमाणानि"
 unicode_script = "devanagari"
+
 +++
 
 ## यतिराजवैभवम्
@@ -41,6 +42,6 @@ Srirangam inscription also holds 1111 CE as 15th year of Vishnuvardhana's reign.
 
 ## pANDyan connection
 - The Pandyas are known to have conquered Mangalore in the 8th century. The Alupas from that period seem to have been descended from the Pandyas who were placed to govern that place. Their descendants even proclaimed their connection to Madurai in their inscriptions.
-- The Pandya-Alupa Dynasty also has an interesting connection with Ramanuja's date. It is known that a Pandya Manabharana was a sishya of  Nanjiyar - a Sri Vaishnava acharya who lived in later half of 12th century. That there was a Jatavarma Srivallabha who ruled from Madurai in the 12th century and he had a son named Manabharana - is known from Rajasingamangalam inscription (South Indian inscriptions Vol 14 no.225). Some consider this Manabharana as the father in law of Kavi Alupendra.
+- The Pandya-Alupa Dynasty also has an interesting connection with Ramanuja's date. It is known that a Pandya Manabharana was a sishya of Nanjiyar - a Sri Vaishnava acharya who lived in later half of 12th century. That there was a Jatavarma Srivallabha who ruled from Madurai in the 12th century and he had a son named Manabharana - is known from Rajasingamangalam inscription (South Indian inscriptions Vol 14 no.225). Some consider this Manabharana as the father in law of Kavi Alupendra.
 - But it is known that there was a Manabharana who was elder brother of a Srivallabha. This Manabharana was son of a Sinhala princess Matti and he also married his uncle's daughter, another Sinhala princess. Matti was sister of Vijayabahu who ruled during 1055-1110 CE. Matti's son Manabharana married a daughter of Kulottunga I. It is also seen that the Jatavarman Srivallabha mentioned above reconfirmed a donation from 31st year of Kulottunga's reign during his own 10th year of reign (SII Vol 14, no.226). The Srirangam inscription of Vira Kavi Alupendra refers to his father in law Manabharana as Chozhakulantaka and Madhuradhisvara. This Manabharana cannot be son of Srivallabha. Rather he must be the elder brother of Srivallabha - who married Kulottunga's daughter.
 

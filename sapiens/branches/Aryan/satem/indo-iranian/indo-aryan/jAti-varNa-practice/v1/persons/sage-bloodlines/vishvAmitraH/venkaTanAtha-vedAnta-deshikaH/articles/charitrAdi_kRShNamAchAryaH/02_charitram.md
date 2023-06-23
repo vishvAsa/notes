@@ -147,7 +147,7 @@ Vide L. D. Swami. kannu Pillai's Indian Ephermeris Vol. I-Part I, page 250. )
 श्री-भाष्यादिकं शारीरकं शास्त्रं च  
 शिष्यान् अध्यापयन्  
 काञ्च्याम् एव काञ्चित् काल-कलाम् अयापयत् । 
- 
+  
 [[६२]] 
 
 ## गारुडसिद्धिः
@@ -432,7 +432,7 @@ Vide L. D. Swami. kannu Pillai's Indian Ephermeris Vol. I-Part I, page 250. )
 See the following references for more particulars on the family of Dindima poets and their patrons: 
 
 - (a) Vijayanagar Administration by Dr. T. V. Mahalingam, 1940, pp. 415 to 417. 
--  (b) History of classical Sanskrit Literature by Dr. M. Krishnamachariar, 1937, pp. 220 to 224. 
+- (b) History of classical Sanskrit Literature by Dr. M. Krishnamachariar, 1937, pp. 220 to 224. 
 - (c) Papers Contributed by Mr. A. N. Krishna Ayyangar and published in the --- 
   - Annals of the Bhandarkar Oriental Research Institute Silver Jubilee, Poona 1942, pp. 23, to 29: 
   - Adyar Library Bulletin Vol V. 1941, pp. 59–68; 
@@ -447,7 +447,7 @@ See the following references for more particulars on the family of Dindima poets
 श्री-वेङ्कट-नाथस्य डिण्डिम-कवि-समागम-वृत्तान्तो हि  
 श्री-रङ्ग-नाथस्य दिव्य-प्रतिष्ठायाः पूर्व-काले वृत्तः ।  
 दिव्यप्रतिष्ठा च A. D. 1347 वत्सरे कारितेति वक्ष्यते ।  
- 
+  
 ततस्,  
 ततः पूर्वं  
 प्रायशः A. D. 1330 वत्सर एतेनोदन्तेन वृत्तेन भवितव्यम् इति निर्णयः । 
@@ -484,7 +484,7 @@ See the following references for more particulars on the family of Dindima poets
 
 > श्री-मान् वेङ्कट-नाथार्यः कवितार्किक केसरी ।  
 वेदान्ताचार्यवर्यो मे सन्निधत्तां सदा हृदि ।। 
- 
+  
 इति । 
 
 [[६९]]
@@ -749,7 +749,7 @@ Gopanarya himself does mention Desika as his guru and this could have happened o
 अस्याचार्यस्यापदान+++(=सदाचार)+++-विशेषाणां कालनिर्णयश् चेत्थम्- 
 
 - कलि. शालि. A.D. अब्दः 
-- वेङ्कट-नाथ-देशिकस्यावतारः  ४३६९ ११९० 1268 विभवः 
+- वेङ्कट-नाथ-देशिकस्यावतारः ४३६९ ११९० 1268 विभवः 
 - तत्-कुमारस्य वरद-नाथस्यावतारः ४४१७ १२३८ 1316 नलः
 - श्री-मान्-वेङ्कट-नाथार्य-ध्यान-श्लोकावतारः ४४३० १२५१ 1329 शुकः
 - डिण्डिम-सार्वभौम-समागमः ४४३१ १२५२ 1330 प्रमोदः

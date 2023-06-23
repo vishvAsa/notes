@@ -25,32 +25,19 @@ What emerges is the classic "hockey stick" plot that applies to many physical at
 
 Let us then continue the plot in the context of fossil fuels. Being a finite resource, we know in broad terms what the curve must look like. It must drop back down to zero and ride into the future looking much as it did in the past: at zero. One may debate the exact timing of the peak of fossil fuel use, but for a variety of reasons we would be well justified in placing it sometime this century. We'll leave it to individual preference if you want to allow the curve to climb a bit more before turning down, but don't stray too far. This century ends only 1% of the way from 0 to +10,000, so don't let the peak get very far at all from the middle of the plot. Once turning down, the curve is likely to look reasonably symmetric, returning to zero in short order and staying there.
 
-{{< figure src="../images/muscle_firewood_fossil-fuels.jpg" title="" class="thumbnail">}}
-
 Independent of individual choices, if keeping within reason we're all looking at the same basic plot (as in Figure 8.1): fossil fuels are a blip on the time scales we associate with history. We live in a most abnormal time[^3]. 
 
 [^3]: Social scientists are trained to not label their own time as abnormal, as such thinking may reflect a sloppy bias that all people through history might be tempted to adopt. Yet, neither should we declare that abnormal times can never happen. Any quantitative assessment of the current human scale and planetary resource impact argues that we are justified in allowing ourselves an exception for the present age.
 
-Because the upswing has lasted for generations, it seems entirely normal to most people: it's the only reality we or any person we've ever met has known. Lacking perspective, a child will view their life circumstances as normal, no matter how impoverished or privileged: it's the only world they've ever known or seen. Likewise, we accept and define our current world as normal-even if historical perspective 
 
+{{< figure src="../images/muscle_firewood_fossil-fuels.jpg" title="" class="thumbnail">}}
 
+Figure 8.1 should stimulate a swarm of questions. Where are we on the curve? When is the peak? Is the decline phase marked by escalating energy scarcity, or the advent of a renewable energy future? Might the far future look more like the past (muscle and firewood) than the present? Will this plot change how we interpret the world and our own plans for the future? The only fair conclusion is that we really do not know how the future will unfold. We can label the left side as "muscle and firewood," and the spike as fossil fuels, but the only credible occupant of the right-hand side is a gigantic question mark.
 
-ultimately considers the last century or two to be the most insanely unusual period of the human experience-like a fireworks show. 
- 116 
-energy scale 
-1.0 
-0.8 
-0.6 
-0.4 
-0.2 
-muscle and firewood 
-0.0 
--6000 -4000 -2000 0 
-fossil fuels 
-? 
-2000 4000 6000 8000 10000 
-year 
-Figure 8.1 should stimulate a swarm of questions. Where are we on the curve? When is the peak? Is the decline phase marked by escalating energy scarcity, or the advent of a renewable energy future? Might the far future look more like the past (muscle and firewood) than the present? Will this plot change how we interpret the world and our own plans for the future? The only fair conclusion is that we really do not know how the future will unfold. We can label the left side as "muscle and firewood," and the spike as fossil fuels, but the only credible occupant of the right-hand side is a gigantic question mark. 
+Because the upswing has lasted for generations, it seems entirely normal to most people: it's the only reality we or any person we've ever met has known. Lacking perspective, a child will view their life circumstances as normal, no matter how impoverished or privileged: it's the only world they've ever known or seen. Likewise, we accept and define our current world as normal-even if historical perspective ultimately considers the last century or two to be the most insanely unusual period of the human experience-like a fireworks show. 
+
+[[116]] 
+
 The idea of Figure 8.1 is not original to this textbook, having been portrayed in various incarnations over the last half-century or so [^38]. When anyone makes a claim about what they think will happen by late-century, think about this plot. So many of our assumptions are based on the recent but abnormal past. All bets are off in defining the future. In one sense, those who rightly point out that we can't expect to be clever enough to foresee the future are correct-but perhaps in an unintentionally symmetric way. The future could be far more dismal than our dreams currently project. That would also be a surprise to many. We need to approach the future with humility, and set aside preconceived notions of where things are heading so that we can make choices now that will help define what comes next. Taking it for granted is a risky move. Only by acknowledging the potential for a disastrous outcome can we take steps to mitigate that possibility. Waving it off is the most dangerous move we could make. 
 Box 8.1: Will Renewables Save Us? 
 Just because fossil fuel energy must return to pre-industrial levels in Figure 8.1 does not dictate that human society must return to pre-industrial energy levels. After all, solar, wind, nuclear, hydroelec- tricity are available to us now. Yet we will struggle to match today's energy levels on these resources alone. More disturbing is the notion that we may not be able to maintain high-technology approaches in a world devoid of fossil fuels. No one has demonstrated how, yet. 

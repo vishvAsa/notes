@@ -1,5 +1,6 @@
 +++
 title = "vidyAshankara on sachchidAnandendra"
+
 +++
 Source: [TW](https://www.advaita-vedanta.org/archives/advaita-l/2006-October/017606.html)
 
@@ -10,14 +11,14 @@ I had intended to keep quiet on this thread earlier, but I am tempted to think t
 I am picking a few incidents from Sri Satchidanandendra Saraswati Swamiji's life from the above book that clearly show his respect for sampradAya, for his teachers, for the Sringeri Shankara Mutt, and for everything that stands for our hoary Vedic tradition. 
 
 ## Initiations
-Sri Satchidanandendra Saraswathi Swamiji was initiated into the study of Shankara's bhAshyas by Sri SatchidAnanda SivAbhinava NR^isimha bhArathi Swamiji of the Sringeri peetha at kAlaTi in 1910.   During the auspicious consecration celebrations of kAlaTi, Swamiji (Y.SubbarAya at the time) got initiated into the study of Shankara bhAshya and the pancAkshari mahAmantra from the jagadGuru. [kAlaTi didn't exist as a town that it is today, until this time. It was Sri SacchidAnanda SivAbhinava NR^isimha bhArathi Swamiji of the Sringeri Peetha who was inspired to look for this place and establish the temple and the town as it is today.] 
+Sri Satchidanandendra Saraswathi Swamiji was initiated into the study of Shankara's bhAshyas by Sri SatchidAnanda SivAbhinava NR^isimha bhArathi Swamiji of the Sringeri peetha at kAlaTi in 1910. During the auspicious consecration celebrations of kAlaTi, Swamiji (Y.SubbarAya at the time) got initiated into the study of Shankara bhAshya and the pancAkshari mahAmantra from the jagadGuru. [kAlaTi didn't exist as a town that it is today, until this time. It was Sri SacchidAnanda SivAbhinava NR^isimha bhArathi Swamiji of the Sringeri Peetha who was inspired to look for this place and establish the temple and the town as it is today.] 
 
 SubbarAya studied gita bhAshya, nyAya, Vedanta, parts of pancapAdika, ChAndogya and other Upanishads, parts of Brahma sUtra, BhAmati, etc. under Sri Hanagal virUpAksha shAtry - the nyAya teacher for Sri Chandrasekhar BhArathi swamiji and other Swamis of Sringeri. In fact, SubbarAya's association with Sri ShAstry was a very long one - until the end of Sri ShAstry's life (Sri ShAstry was Sri abhinava vAlukeshwara bhAratI swamiji - the peethAdipathi of KuDLi Shankara Mutt, when he passed away) 
 
 SubbarAya had been interested in getting initiated into Vedanta and Shankara bhAshyas by Sri Hanagal sItarAmashAstry (Sri virupaksha shastry's Guru), and when that didn't happen, he yearned to get initiated by Sri Virupaksha shastry himself, but he was lucky enough to get initiated by the Sringeri JagadGuru – Sri Sri Sivabhinava NR^isimha bhArathi Swamiji (on Sri VirUpAksha ShAstry's request). 
 
 ## virUpAksha ShAstry's interest
-Later, in an episode during the Vivarna subject discussions in Bangalore Shankara Mutt, Sri VirupAksha ShAstry told the class (in which SubbarAya was a pupil) – "people say that according to SubbarAya there is no mUlAvidya, I am not sure what he says, and what people understand….".  SubbarAya, out of extreme respect for his teacher, just sat quietly in class. 
+Later, in an episode during the Vivarna subject discussions in Bangalore Shankara Mutt, Sri VirupAksha ShAstry told the class (in which SubbarAya was a pupil) – "people say that according to SubbarAya there is no mUlAvidya, I am not sure what he says, and what people understand….". SubbarAya, out of extreme respect for his teacher, just sat quietly in class. 
 
 Another episode that took place in Bangalore Shankara Mutt is worth mentioning here. SubbarAya was just completing his mUlAvidyAnirAsa, and Sri VirupAksha shAstry, who had heard of this work, stopped SubbarAya in the hallway and asked him if he was writing anything against Shankara. SubbarAya promptly replied that he was writing to correct those people who had interpreted Shankara wrongly, and Sri shAstry went away satisfied. It is also worth mentioning that SubbarAya and Sri KrishNaswAmy Iyer had discussed in detail with Sri VirUpAksha ShAstry, regarding pramANa, avidya, videha mukti, etc. These discussions could very well be said to be the basis of the mUlAvidyAnirAsa book. Sri KrishNaswAmy Iyer - SubbarAya's mentor, was himself was very traditional, Vedic scholar, who hosted several students in his house during their education, and SubbarAya was one of them. 
 
@@ -44,10 +45,10 @@ What a heartfelt appreciation!
 ## Conclusion
 I could mention a lot of other episodes, where he was acknowledged by the Sringeri and the kanchi jagadgurus, or other scholars and saints, or when he went to OmkAreshwar to read his "ManDUkya rahasya vivrutti" to dedicate it to Sri GauDapAdachArya, etc, etc., but it suffices to say his life's goal was to bring Shankara Vedanta to people. Though his life was full of trials and tribulations, he transcended them, stood his ground firmly in the face of all opposition, and fearlessly reached his supreme goal in spite of all odds, thus ultimately helping all aspirants in their quest for immortality. 
 
-It is easy to wave one's hands and sulk - he was not bound by tradition, he claimed to know Shankara better than 1200 years of scholars, he is haughty in calling the later commentators blind, etc.etc., but only one who has studied his life history closely can see his sincerity in bringing the lucid essence of Shankara to the people and the brilliance of his systematic approach. Swamiji had a very sharp intellect and in keeping with the gIta verse  \"tad-viddhi praNipatena pariprashnena sevaya…." inquired into the basic nature of things. Isn't this what the Upanishads and gIta tell us – examine against the touchstones of sruti, yukti and anubhava? No guru asks his disciple to blindly accept what he says. 
+It is easy to wave one's hands and sulk - he was not bound by tradition, he claimed to know Shankara better than 1200 years of scholars, he is haughty in calling the later commentators blind, etc.etc., but only one who has studied his life history closely can see his sincerity in bringing the lucid essence of Shankara to the people and the brilliance of his systematic approach. Swamiji had a very sharp intellect and in keeping with the gIta verse \"tad-viddhi praNipatena pariprashnena sevaya…." inquired into the basic nature of things. Isn't this what the Upanishads and gIta tell us – examine against the touchstones of sruti, yukti and anubhava? No guru asks his disciple to blindly accept what he says. 
 
 So what if Sri GangoLLi called Swamiji Shankara's avatAra, its obviously how he felt. Who defines what is tradition and what is outside tradition? The line between guru bhakti and yukti is abviously a murky one. It is just smart to take what appeals to your yukti and anubhava... 
 
-As someone mentioned earlier  – let's not pay undue importance to our opinions and biases. Let us stay the course of advaita...
+As someone mentioned earlier – let's not pay undue importance to our opinions and biases. Let us stay the course of advaita...
 
 
