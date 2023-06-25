@@ -14,7 +14,7 @@ title = "Copper"
 {{< figure src="../images/Brass-paperweight-components-zinc-copper.jpg" title="" class="thumbnail">}}
 
 - alloy of copper and zinc
-- To enhance the machinability of brass, lead is often added in concentrations of around 2%.
+- To enhance the machinability (‘free turning’) of brass, lead is often added in concentrations of around 2%.
 
 ### alpha brasses
 - Malleable brasses
@@ -36,4 +36,15 @@ title = "Copper"
 - a small amount of tin improves resistance to corrosion by seawater
 
 #### aluminum brasses
-- provide strength and corrosion resistance where the naval brasses may fail. 
+- provide strength and corrosion resistance where the naval brasses may fail.
+
+## Lead poisoning
+Lead is still added to brass and bronze used to make drinking water faucets and food equipment
+
+
+### Brass
+#### Musical instruments
+Lead can be absorbed by prolonged contact with raw brass. In the past it was thought that the plating on brass mouthpieces offered complete protection from the lead in the mouthpiece, but tests have shown that very small quantities of lead can migrate through the plating over time.
+
+#### Keys
+Locksmiths had significantly higher current exposure to lead (blood lead concentration)
