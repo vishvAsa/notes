@@ -6,6 +6,9 @@ Nutrition comparisons
 
 - [nutritionvalue.org](https://www.nutritionvalue.org/yourcomparisons.php)
 
+## Adultration
+- Household tests - [eatright site](https://eatrightindia.gov.in/dart/).
+
 ## Variation
 - Variety in food is important. Nature enforced it in days past.
 

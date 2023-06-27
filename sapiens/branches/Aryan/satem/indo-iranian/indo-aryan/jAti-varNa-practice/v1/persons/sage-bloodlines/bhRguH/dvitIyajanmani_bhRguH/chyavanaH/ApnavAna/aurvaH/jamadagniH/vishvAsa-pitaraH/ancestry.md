@@ -50,11 +50,16 @@ Observations:
 
 <details><summary>qpAdm models (द्रष्टुं नोद्यम्)</summary>
 
-- 48.7% pure IranN, 43.5% pure Onge and 7.8% pure Sintashta with p=0.74 when modelled distally
+- Euclidean distance in 25-d space between the real sample (you) and the best possible simulation based on source populations: 1.1341% / 0.01134109 (Via Aryamsha - "Steppe ancestry is a bit underestimated on G25 simulations")
+  - 56.8 IRN_Shahr_I_Sokhta_BA2
+  - 15.0 Aryan
+  - 14.6 AASI
+  - 10.2 TKM_Gonur2_BA
+  - 3.4 CHN_Upper_Yellow_River_LN
 - 52.1 IVC_I8726 (90% IranN), 35.8 Onge, 12.2 Sintashta with p=0.2
+- 48.7% pure IranN, 43.5% pure Onge and 7.8% pure Sintashta with p=0.74 when modelled distally
 - 45.6% IVC (70% IranN, 25% AASI and 5% neolithic steppe), 45.7% Irula, 8.6% Sintashta. 
-  - Steppe rich ancestors admixed with Steppe poor ancestors around 300 AD. (algorithm DATES developed by Moorjani. date was not accurate. Unfortunately for getting decent admixture dates one needs many samples.) 
-
+  - Steppe rich ancestors admixed with Steppe poor ancestors around 300 AD. (algorithm DATES developed by Moorjani. date was not accurate. Unfortunately for getting decent admixture dates one needs many samples.)
 </details>
 
 
@@ -63,7 +68,7 @@ Observations:
 - IVC = Indus Valley Civilization, Irula = A tribe acting as a placeholder for early Indian hunter gatherers
 - p>0.05 means an acceptable model.
 - Modelled distally means modelled with sources who are far removed from the actual admixture event. So in this case one removes Ancient South Indians and IVC as the two likely sources with Sintashta and used Iran and Onge instead to get a better idea of the absolute genetic contribution.
-- The fundamental issue is this: IVC samples we have so far DON'T form a cluster. But they are very different from each other - this is one main reason why Razib, MT, etc believe that jAti stratification predated the Arya-s. For the sake of simplicity all of them are combined in literature as IVCperiphery.
+- The fundamental issue is this: IVC samples we have so far DON'T form a cluster (IVC people vary a lot in AASI from 15% to 60%!). But they are very different from each other - this is one main reason why Razib, MT, etc believe that jAti stratification predated the Arya-s. For the sake of simplicity all of them are combined in literature as IVC-periphery.
 </details>
 
 ### G25 coordinates
