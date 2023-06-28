@@ -36,7 +36,7 @@ His book entitled ‘Veda Sara Ratnavali’ published by the ‘Annavaram Devast
 ## Scheme in Temples
 His initiation of the various schemes for the Welfare of Vedic Scholars was motivated by his desire to propagate the Vedas and their message for universal human welfare. The credit for initiating numerous schemes of Vedic studies and recitals in or outside the temples of Andhra Pradesh goes to him in full measure.
 
-##Place of Women
+## Place of Women
 On more than one occasion he expressed his view that a very high place was given to women in Indian culture.  He gave many a discourse and engaged in innumerable discussions on the subject and he invariably quoted the Vedas to prove his point.  The so called women’s lib is unnecessary in India when women are held in high esteem from times immemorial.  Women are compared  to the ‘Adi Shakti’, the mother of the Universe.  There is no other culture or country  in the wide world in which we come across such regard for women.  A full examination of the Vedas and Shastras is necessary to gain a complete and correct picture of the status accorded to women in India.  Sri Ganapathi Sastry oft quoted a Vedic hymn in favour of the education and emancipation of Indian women.
 
 ## Spiritual Pursuits
@@ -66,6 +66,25 @@ He was conferred the title of Padma Bhushan by the Government of India in Januar
 
 He brought great dignity and distinction to his different roles as state Laurate in Vedas, Asthan Veda Vidwan of the T.T.D. and Member (Veda) of Religious Advisory Council, Government of Andhra Pradesh. When he met Dr. S. Radhakrishnan, President of India, during one of his annual camps at Bolarum, the President commented that scholars of his (Sri Sastry’s) eminence are becoming rare.
 
+### Dayalbagh svvAmI honor
+APPRECIATION FROM HIS HOLINESS SAHABJI MAHARAJ OF DAYALBAGH
+
+During his short stay of a few months in Dayafbagh (Agra) in the first half of 1935, Sri Sastry had occasion to engage in Shastrardha with Pandit Manirama Sastry, a grammarian and a noted Sanskrit scholar of Dayalbagh, in the August present of His Holiness Sahabji Maharaj the Fifth Revered Leader of the Radhasaomi Faith, and the August Founder of Dayalbagh. His Holiness Sahabji Maharaj Himself was the most eminent of scholars in the Vedas, Shastras and the Upanishads and in all the philosophical systems of the orient and of the Occident. Sri Sastry had earned the approval of His Holiness in the Shastrartha. He had the privilege of being complimented by His Holiness Sahabji Maharaj Himself. The Latter was pleased to observe that He did not come across a scholar of Sri Ganapathi Sastry's integrity.
+
+## Supposed conversion
+(This section is gleaned from his younger brother's great-grandson.)
+
+His third son was named Maharaj Kumar (documented in a 1950 photo).
+
+> My great grandfather (sri ganapathi sashtris younger brother) somehow converted to this religion. and then one day, in a dream, the leader of this Radhasoami thing appeared to Ganapathi sahsrti in a dream and he told his younger brother. His younger brother pulled out a group photo, and asked him if the person in his dream was someone in this photo, and Ganapathi sastri correctly identified the leader then he went to agra to have this shastrartha (as mentioned in the abstract above). 
+> 
+> Over there, he got convinced by the religion, but could not abandon his own practices. So he encouraged all his children to join this new religion, and himself tried to do it a lot. But didn't manage all his children however are radhasoami people. 
+> 
+> My grandfather was actually named by him Vuppulury Bhimashankara Shastri. After he converted, he actually renamed my grandfather (just as he renamed his sons). So my grandfather was also called Charandas Vuppulury.
+> 
+> Also when he converted, he had a lot of discliples, a lot of them also converted
+
+
 ## His Last Days
 Sri Sastry’s obsession to serve the cause of the Vedas had grown in intensity in his nineties.  It was so intense  that he had eventually decided to shift his residence from Kakinada to Secunderabad and spend his last days there near the scat of the Government. The calculation was that he could thereby effectively participate in the periodical deliberations of the Religious Advisory Council and serve (better) the cause so dear to his heart.
 
@@ -73,4 +92,9 @@ Sri Sastry’s obsession to serve the cause of the Vedas had grown in intensity 
 
 He got up at 1.30 AM as usual and engaged himself in the ‘Yogabhyasa’ till about 4.00 AM.  After answering calls of nature and again a bath, he took up the worship of numerous other deities as was his wont every day.  This programme was completed by about 7.30 AM.  After completing his routine, he called his daughter Mrs. M. Saraswathi and asked her to make a phone call and find out what had happened to another of the Vedic Schemes newly introduced by him. On being told that only a part of the scheme was likely to he accepted, he felt irritated and disappointed. He sat on his bed lost in thought for a few minutes.  His devoted fourth daughter  had brought to him a plate  containing two teaspoonfuls of paste made of coarse broken wheat for his consumption.  He extended his fingers to the plate and suddenly fell back and breathed his last.
 
-The next day was Guru Purnima. Elaborate prior arrangements were made for a ‘Pandita Sabha’ to he attended by Vedic Scholars from all over the State. Alas! it was not to be. His last rites were performed by his sons in the presence of a large number of Vedic Scholars who began to arrive for the Panditha Sabha. It was what he would have desired! and the last issue which exercised his mind was a new Vedic Scheme (initiated by him) designed to perpetuate the Vedic Heritage!
+The next day was Guru Purnima. Elaborate prior arrangements were made for a ‘Pandita Sabha’ to he attended by Vedic Scholars from all over the State. Alas! it was not to be. His last rites were performed by his sons in the presence of a large number of Vedic Scholars who began to arrive for the Pandita Sabha. It was what he would have desired! and the last issue which exercised his mind was a new Vedic Scheme (initiated by him) designed to perpetuate the Vedic Heritage!
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+So he considered shruti / shrauta to be non-contradictory to rAdhAsvAmism.
+</details>
