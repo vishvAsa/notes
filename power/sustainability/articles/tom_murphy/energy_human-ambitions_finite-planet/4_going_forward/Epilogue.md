@@ -22,7 +22,7 @@ The situation reminds me of the housing bubble in the U.S. in the early 2000s. M
 Now consider the quality and nature of common counter-arguments to the core message in this book. Humans are smart, innovative, and will figure out something. People 200 years ago could not have possibly predicted our capabilities today, so we are likewise ill-equipped to predict how amazing the future will be. I get the appeal. I really do. But does that mean we get to dismiss the difficulties exposed by careful analysis? Can we ignore the fact that we are pushing planetary boundaries for the first time ever? I would argue that this time really is different. The facts are inescapable:
 11
 The world has never before been strained with 8 billion people.12
-► Fossil fuels bear tremendous responsibility for our recent climb.
+- Fossil fuels bear tremendous responsibility for our recent climb.
 7:
 as might happen in a movie
 8: The Matrix, while an excellent movie, encourages physics-breaking thinking. Not to be a kill-joy, but it probably is air you're breathing, and that probably is a spoon.
@@ -33,7 +33,7 @@ as might happen in a movie
 
 Fossil fuels are a one-time resource- -an inheritance that will not continue propelling the future, and nature does not guarantee a superior substitute.
 ▸ Wild spaces on the planet are rapidly diminishing as development spreads and resources are culled. Permanent extinction of species accompanies pollution and habitat loss.
-► Climate change and habitat destruction threaten a mass extinc- tion and environmental disruption whose full consequences are unpredictable.
+- Climate change and habitat destruction threaten a mass extinc- tion and environmental disruption whose full consequences are unpredictable.
 Modern human constructs13 have not stood the test of time, and are unlikely to do so given that they have not been founded on principles of sustainable harmony within planetary limits.
 Any convincing counter-argument about why we need not take this seemingly perilous position seriously would itself need to be serious- relying less on general faith in human abilities and more on nuts- and-bolts details: How are we going to supply energy needs without fossil fuels? It isn't good enough to say "solar and wind," without specifying how we deal with the glaring mismatch between demand and intermittent energy availability. What would we use to provide sufficient storage? Do we have the materials and means to make enough battery capacity? What is our strategy for battery upkeep and replacement? How will we afford the new scheme and its prohibitive up-front costs? What about agriculture: how do we permanently fix soil degradation; aquifer depletion? How do we halt deforestation, habitat loss, and resulting permanent extinctions? What is the specific global governance plan to protect planetary resources and deal with the consequences of climate change? How do we structure economies to be complacent and functional without a foundation in growth?
 14
@@ -55,11 +55,11 @@ Epilogue
 challenges and succeeding at (some of) them.17 Indeed, my irrational hope is that a textbook like this may help get people thinking proactively about changing the course of humanity. In that spirit of wild-eyed opti- mism, I leave you with the following upbeat-adjacent thoughts about the world into which we may endeavor to gracefully adapt:
 Crisis is opportunity: we have a chance to transform the human relationship with this planet.
 Imagine the relief in shedding an old narrative of growth and faulty ambitions that only seems to be creating increasingly intractable problems instead side-stepping to make a fresh start under a whole new conception of humanity's future. It's liberating!
-► People alive today get to witness and shape what may turn out to be the most pivotal moment in human history, as we confront the realities of planetary limits.
-► Committed pursuit of steady-state principles could set up reward- ing lives for countless generations.
+- People alive today get to witness and shape what may turn out to be the most pivotal moment in human history, as we confront the realities of planetary limits.
+- Committed pursuit of steady-state principles could set up reward- ing lives for countless generations.
 Nature is truly amazing, and making it a larger part of our world 18 could be very rewarding.
-► We, as individuals, are privileged to witness and celebrate the much grander phenomenon of life in this universe: let's be hum- ble participants and value this role over some misguided, ill- considered, hubristic, and perhaps juvenile attempt at dominance.
-► We have learned so much about how the universe works, and have the opportunity for greater insights still if we can find a glide-path to a long-term sustainable existence. We have built much of value that bears preservation. Posterity19 relies on a successful embrace of a new vision.
+- We, as individuals, are privileged to witness and celebrate the much grander phenomenon of life in this universe: let's be hum- ble participants and value this role over some misguided, ill- considered, hubristic, and perhaps juvenile attempt at dominance.
+- We have learned so much about how the universe works, and have the opportunity for greater insights still if we can find a glide-path to a long-term sustainable existence. We have built much of value that bears preservation. Posterity19 relies on a successful embrace of a new vision.
 We may yet learn to value nature above ourselves, to the enduring benefit of us all.
 That would be a fine way to end the book, so pause for a moment to take in that last point. Richard Feynman once mused about what one, compact sentence transmitted to the future would best help a derailed, post-apocalyptic society get back on track.20 He decided: “Everything is made of atoms." Personally, I think that misses the mark-putting too much emphasis on the values of (some small subset of) our present civilization. Think about what you would want to communicate. For me, the final point above might suggest something along the lines of: Treat nature at least as well as we treat ourselves.
 17: This is harder for pessimists to pull off: one has to believe in what is possible to get started on years-long ambitious undertak- ings.

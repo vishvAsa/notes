@@ -91,7 +91,7 @@ or at least attract investment
 Enough, then, about "pipe dreams" of massive geothermal exploitation on a planetary scale. Geothermal energy is not all fantasy, as some places are able to capture significant energy from this resource.
 In a few locations, hot magma is brought near the surface, offering rare cracks of access to high temperatures. An electrical power plant, as depicted in Fig. 6.2 (p. 90), does not care particularly where the thermal energy derives, as long as it's hot enough to make steam. The ideal site has:
 ‣ magma near the surface-volcanic regions, for instance;
-► fractured rock above the magma in which water can flow; water temperatures in excess of 180°C (under pressure);
+- fractured rock above the magma in which water can flow; water temperatures in excess of 180°C (under pressure);
 ‣ a caprock above the fractured rock, able to trap pressurized steam.
 
 The most common scheme-labeled "hydrothermal"—is to drill two holes into the ground near each other, injecting water into one and collecting pressurized steam from the other. Fractures in the rock permit water and/or steam to flow between the two holes. Alternatively, but far less common, a fluid13 can be run through a closed loop that passes through the hot medium. By either direct use of the steam in the hydrothermal case, or generating steam from the hot fluid in the closed- loop case, the resulting steam can be used to run a turbine and generator in the usual

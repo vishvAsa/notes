@@ -232,16 +232,16 @@ e32 than the current 18 TW scale of the human endeavor. Can we really imagine co
 32: compared to solar or wind budgets, for instance, which are 5,000 times and 50 times our demand-not just 5 times as is the case for all biology
 
 We conclude by listing some pros and cons for biologically-derived energy, beginning with the advantageous aspects:
-► Biofuels offer a possible liquid fuel substitute to support trans- portation needs;
-► Biological energy relies on dependable solar input, replenished as harvested stocks grow back;
-► Biofuels represent a form of storage of solar energy, mitigating intermittency;
-► Methods for growing and harvesting crops are well established; Burning biomass is low-tech and likely to remain part of our energy portfolio.
+- Biofuels offer a possible liquid fuel substitute to support trans- portation needs;
+- Biological energy relies on dependable solar input, replenished as harvested stocks grow back;
+- Biofuels represent a form of storage of solar energy, mitigating intermittency;
+- Methods for growing and harvesting crops are well established; Burning biomass is low-tech and likely to remain part of our energy portfolio.
 And the less savory aspects:
-► It is difficult to scale biological energy to meaningful multi-terawatt levels;
+- It is difficult to scale biological energy to meaningful multi-terawatt levels;
 Heavy reliance on biological energy co-opts earth's biology and displaces natural habitat;
-► Cultivating biofuels competes with food production for water and land resources;
+- Cultivating biofuels competes with food production for water and land resources;
 Low EROEI for biofuels reduces net energy available;
-► Smoke and other pollutants from burning biomass can be prob- lematic.
+- Smoke and other pollutants from burning biomass can be prob- lematic.
 14 Biological Energy
 236
 14.5 Problems

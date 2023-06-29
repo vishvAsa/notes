@@ -50,8 +50,8 @@ Energy units from everyday life. Clockwise from upper left: a utility bill (kWh 
 
 Joule (J). Thus, the application of 1 N of force across a distance of 1 m constitutes 1 J of work, requiring 1J of energy to perform. Table 5.1 offers contextual examples (unit prefixes are on page 420). 
 Example 5.1.1 Several examples3 illustrate force times distance, the first two amounting to one Joule of energy: 
-► Pushing a book across a table, applying 2 N of force and sliding it 0.5 m amounts to 1 J of work. 
-► Pushing a matchbox toy car across the floor might require only 0.1 N of force. One would have to push it through a distance of 10 m to make up one Joule of energy. 
+- Pushing a book across a table, applying 2 N of force and sliding it 0.5 m amounts to 1 J of work. 
+- Pushing a matchbox toy car across the floor might require only 0.1 N of force. One would have to push it through a distance of 10 m to make up one Joule of energy. 
 A car on level ground may require 150 N of force to roll against friction. Pushing a car 5 m would then require 750 J of work. 
 Writing out Newtons as kg m/s2, we find that the unit of energy amounts to J = Nm = kg m2/s2. Notice that this looks like mass times velocity-squared. Box 5.1 explores how this makes a lot of sense. 
 Box 5.1: The Units Make Sense! 
@@ -135,12 +135,12 @@ Box 5.2: Energy: The Money of Physics
 A decent way to conceptualize energy conservation is to think of it as the money of physics. It may change hands, but is not created or destroyed in the exchange. A large balance in a bank account is like a potential energy: available to spend. Converting to another form-like heat or kinetic energy-is like the act of spending money. The rate of spending energy is called power. 
 Example 5.2.1 traces a few familiar energy conversions, and Figure 5.1 provides an example illustration. A more encompassing narrative connecting cosmic sources to daily use is provided in Sec. D.2.2 (p. 395). 
 Example 5.2.1 Various illustrative examples: 
-► A rock perched on the edge of a cliff has gravitational potential energy. When it is pushed off, it trades its potential energy for kinetic energy (speed) as it races toward the ground. 
+- A rock perched on the edge of a cliff has gravitational potential energy. When it is pushed off, it trades its potential energy for kinetic energy (speed) as it races toward the ground. 
 ▸ A pendulum continually exchanges kinetic and potential energy, which can last some time in the absence of frictional influences. 
-► A stick of dynamite has energy stored in chemical bonds (a form of potential energy). When ignited, the explosive material becomes very hot in a small fraction of a second, converting chemical energy into thermal energy. 
+- A stick of dynamite has energy stored in chemical bonds (a form of potential energy). When ignited, the explosive material becomes very hot in a small fraction of a second, converting chemical energy into thermal energy. 
 The fireball of hot material from the exploding dynamite ex- pands rapidly, pushing air and nearby objects out of the way at high speed, thus converting thermal energy into kinetic energy. 
-► Light from the sun (photons) hits a black parking lot surface, heating it up as light energy is converted to thermal energy. 
-► A uranium nucleus splits apart, releasing nuclear (potential) energy, sending the particles flying off at high speed (kinetic energy). These particles bump into surrounding particles trans- ferring kinetic energy into thermal energy. 
+- Light from the sun (photons) hits a black parking lot surface, heating it up as light energy is converted to thermal energy. 
+- A uranium nucleus splits apart, releasing nuclear (potential) energy, sending the particles flying off at high speed (kinetic energy). These particles bump into surrounding particles trans- ferring kinetic energy into thermal energy. 
 Thermal energy from burning a fossil fuel or from nuclear fission 
 
 [^6]: The only exception is on cosmological scales and times. But across scales even as large as the Milky Way galaxy and over millions of years, we are on solid footing to consider conservation of energy to be inviolate. It is fascinating to note that con- servation of energy stems from a symmetry in time itself: if the laws and constants of the Universe are the same across some span of time, then energy is conserved during such time a concept we trace to Emmy Noether. See Sec. D.2 (p. 393) for more. 

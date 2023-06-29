@@ -236,7 +236,7 @@ Even so, the inflated 0.7 TW estimate falls short of the current 3.3 TW energy d
 Globally, estimates for wind potential tend to be in the few-terawatt range, though can be as low as 1 TW for a number of practical reasons [^70]. As was the case for hydroelectricity, wind is a viable player in the renewables mix, but is unable to shoulder the entire load.
 Wind energy is not free of environmental concerns, disturbing landscapes and habitats. Its impact on birds31 and bats is most worrisome, as the rotors move far faster than anything to which the wildlife is habituated. Still, compared to the environmental toll from fossil fuels, it is fairly clean similar to the impact of hydroelectric power.
 A pros and cons list will help summarize. First, the positive attributes:
-► Wind is replenished on the planet daily by solar illumination;
+- Wind is replenished on the planet daily by solar illumination;
 
 [^30]: We're fudging things a bit here for the sake of simplicity. If turbines are built for 12 m/s, the capacity factor already has some averaging built in, so using 5 m/s and a capacity factor of 0.33 is unfair. On the other hand, much of the country spends substantial time below the cut-in speed for turbines, and the cruel cubic function of velocity greatly suppresses much of the land area as impractical for wind development. So the approach is a compromise that might balance out reasonably.
 [^70]: Castro et al. (2011), "Global Wind Power Potential: Physical and Technological Limits"
@@ -245,7 +245,7 @@ A pros and cons list will help summarize. First, the positive attributes:
 
 12 Wind Energy
 194
-► Harnessing wind is relatively low-tech and straightforward; Wind has decent efficiency-typically 40-50%-in extracting en- ergy from the oncoming wind;
+- Harnessing wind is relatively low-tech and straightforward; Wind has decent efficiency-typically 40-50%-in extracting en- ergy from the oncoming wind;
 Life-cycle CO2 emissions for wind is only 2% that of traditional fossil fuel electricity [^68];
 Growth in the wind sector points to economic viability;
 ▸ Wind is able to scale up to cover a meaningful fraction of energy

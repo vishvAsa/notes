@@ -185,18 +185,18 @@ grow
 food on a spacecraft or in a pressurized habitat, but then we are no longer following the evolutionary meme of stumbling onto a good deal. 
 Box 4.3: Accomplishments in Space 
 Before turning attention to what we have not yet done in space, students may appreciate a recap of progress to date. The list is by no means exhaustive, but geared to set straight common misconceptions. 
-► 1957: Sputnik (Soviet) is the first satellite to orbit Earth. 
+- 1957: Sputnik (Soviet) is the first satellite to orbit Earth. 
 
 [^1959]: Luna 3 (Soviet; unmanned) reaches the moon in a fly-by. 
-► 1961: Yuri Gagarin (Soviet), first in space, orbits Earth once. 
-► 1965: Alexei Leonov (Soviet) performs the first "space walk." 1965: Mariner 4 (U.S.; unmanned) reaches Mars. 
-► 1968: Apollo 8 (U.S.) puts humans in lunar orbit for the first time. 
-► 1969: Apollo 11 (U.S.) puts the first humans onto the lunar surface. 
-► Pause here to appreciate how fast all this happened. It is easy to see why people would assume that Mars would be colonized within 50 years. Attractive narratives are hard to retire, even when wrong. 
+- 1961: Yuri Gagarin (Soviet), first in space, orbits Earth once. 
+- 1965: Alexei Leonov (Soviet) performs the first "space walk." 1965: Mariner 4 (U.S.; unmanned) reaches Mars. 
+- 1968: Apollo 8 (U.S.) puts humans in lunar orbit for the first time. 
+- 1969: Apollo 11 (U.S.) puts the first humans onto the lunar surface. 
+- Pause here to appreciate how fast all this happened. It is easy to see why people would assume that Mars would be colonized within 50 years. Attractive narratives are hard to retire, even when wrong. 
 
 [^1972]: Apollo 17 (U.S.) is the last human mission to the moon; only 12 people have walked on another solar system body, the last about 50 years ago. 
-► 1973-now: as of this writing (2020), humans have not ventured farther than about 600 km from Earth's surface (called low earth orbit, or LEO; see Figure 4.4) since the end of the Apollo missions. 
-► 1981-2011: U.S. operates the Space Shuttle, envisioned to make space travel routine. After 135 launches (two ending in catastro- phe), the shuttle was retired, leaving the U.S. with no human space launch capacity. 
+- 1973-now: as of this writing (2020), humans have not ventured farther than about 600 km from Earth's surface (called low earth orbit, or LEO; see Figure 4.4) since the end of the Apollo missions. 
+- 1981-2011: U.S. operates the Space Shuttle, envisioned to make space travel routine. After 135 launches (two ending in catastro- phe), the shuttle was retired, leaving the U.S. with no human space launch capacity. 
 ‣ 1998-now: The International Space Station (ISS) [^30] provides an experimental platform and maintains a presence in space. It is only 400 km from Earth's surface (4-hour driving distance), and despite its misleading name is not used as a space-port hub for travel. It is the destination. 
 space 
 4 Space Colonization 

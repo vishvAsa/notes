@@ -225,20 +225,20 @@ Figure 11.9: Global allocation of hydroelec- tric power.
 Table 11.2: Top ten hydroelectric producers in the world, accounting for two-thirds of the hydroelectricity production worldwide.
 11.5 Upshot: Pros and Cons of Hydro
 The two lists below provide some pros and cons to hydroelectric power that are relevant to our assessment of its value to our mix of renewable energy options. First, the positive attributes:
-► Natural source, solar-driven, without waste products or pollu- tion;29
-► Technologically simple, therefore straightforward to implement and maintain;
-► High efficiency, turning 90% of available energy into useful elec- tricity;
+- Natural source, solar-driven, without waste products or pollu- tion;29
+- Technologically simple, therefore straightforward to implement and maintain;
+- High efficiency, turning 90% of available energy into useful elec- tricity;
 ▸ Good baseline of steady power over daily timescales;
 Life-cycle CO2 emissions only 4% that of traditional fossil fuel electricity [^68];
-► Facilities31 can last a century or longer;
+- Facilities31 can last a century or longer;
 While not directly related to energy, dams can provide flood control and reliable water supplies.
 And some of the downsides that may discourage further development:
-► Silt can build up behind dams displacing the reservoir, eventually rendering them useless and dangerous;
-► Requires the semi-permanent flooding of an ecological habitat, of varying quality and value;
+- Silt can build up behind dams displacing the reservoir, eventually rendering them useless and dangerous;
+- Requires the semi-permanent flooding of an ecological habitat, of varying quality and value;
 ‣ Seasonal variability of available power, often by a factor of ten;
 Defunct or poorly maintained facilities represent a dam-burst danger to downstream residents;
 Blocks salmon runs and impacts the health of both oceanic and forest ecosystems;
-► As the distribution maps show, hydroelectric is not a viable option everywhere: the combination of terrain32 and rainfall is needed.
+- As the distribution maps show, hydroelectric is not a viable option everywhere: the combination of terrain32 and rainfall is needed.
 On balance, our society has embraced hydroelectricity as a clean and reliable resource. One can view it as nature's low-hanging fruit, partly evidenced by how early it was adopted on a large scale. It is likely to remain an attractive form of energy as we face increasing pressures to migrate away from carbon-based fuels.[^33] It will not, however, be able to provide an avenue for wholesale replacement of fossil fuels given its limited scale and electric-only nature. Only if our overall energy demand is reduced substantially will it form a large fraction of our portfolio.
 11.6 Problems
 1. If a 70 kg person climbs 10 flights of stairs, each flight 3 m high,

@@ -629,244 +629,189 @@ We should assume that the panels will not achieve their rated potential due to t
 
 So it's a good idea to bump the number up by 20% or so, and order a 7.5 kW PV system for the case under study. A typical full cost (panels, electrical converters, installation) lately runs just shy of $3 per peak Watt (Figure 13.16), which in this case brings the price tag to roughly $20k. If electricity costs $0.15 per kWh—approximately the national average each 30 kWh day costs $4.5, accumulating to $20k after 12 years. Federal and state incentives can make the payback time shorter.
 
-What would these numbers become if trying to meet monthly instead of annual demands? December is usually the worst month for PV in the northern hemisphere, when the sun is lowest in the south, and the days are shortest. Table 13.2 backs this up, showing 3.1 kWh/$m^2$/day for the chosen panel orientation in December. This is about two-thirds the annual average, so we would need to increase the size of the system (and thus cost and payback time) by a factor of 1.5 to produce enough in December.8
-82
-If sizing for an off-grid system, we need to factor in some inefficiency for battery charge/discharge and design for poorer months, so should increase by another factor of at least 1.5. The cost of batteries can be rather large, too. A good rule of thumb is to have at least three days of storage in the event of no solar input for several days during a stormy period. For our 30 kWh per day target, we would want about 100 kWh of storage. As an easy way to get a cost estimate for storage, the Tesla powerwall 2 is 13.5 kWh83 and costs about $7k apiece. If we follow along, the cost of the off-grid PV system for 30 kWh/day at an installation cost of $3/W will be 7500 W x 1.5 x 1.5 x $3≈ $50k for panels/installation plus $56k for batteries.[^84] Then the batteries may be in need of replacement every 10-15 years.[^85]
-86
-If this seems rather alarming, don't worry-there's a trick to making it much more affordable/practical: don't demand 30 kWh per day! Even though we picked 30 kWh/day due to the fact that it is the average American electricity demand, it is a worthwhile challenges to seek ways to use far less energy than the average. Trying to make solar fit our present expectations may be the wrong approach. Also, expecting to get away from fossil fuels and have it be cheaper may be unrealistic.
-2018 USD
-per Watt DC
-Residential PV (6.2 kW)
-$8
-7.34
-6.44
-$7
-$6
-$5
-4.55
-3.97
-$4
-3.49
-$3
-$2
-$1
-$0
-Awwwwww
-3.23.
-3.022.84 2.70
-AWW
-2010 2011 2012 2013 2014 2015 2016 2017 2018
-Figure 13.16: Evolving price of PV installation per peak Watt. Yellow is for the panels; the two blues for electronics; peach is labor; and hashed is for the utility hookup, inspection, taxes, profits [89, 91]. From NREL.
+What would these numbers become if trying to meet monthly instead of annual demands? December is usually the worst month for PV in the northern hemisphere, when the sun is lowest in the south, and the days are shortest. Table 13.2 backs this up, showing 3.1 kWh/$m^2$/day for the chosen panel orientation in December. This is about two-thirds the annual average, so we would need to increase the size of the system (and thus cost and payback time) by a factor of 1.5 to produce enough in December.[^82]
 
-[^82]: ... resulting in over-production in sum-
-mer
 
-[^83]:
-so we would need about 8
+[^82]: ... resulting in over-production in summer
 
-[^84]: It is often the case that battery cost is comparable to the rest of the system, roughly doubling the total cost.
+If sizing for an off-grid system, we need to factor in some inefficiency for battery charge/discharge and design for poorer months, so should increase by another factor of at least 1.5. The cost of batteries can be rather large, too. A good rule of thumb is to have at least three days of storage in the event of no solar input for several days during a stormy period. For our 30 kWh per day target, we would want about 100 kWh of storage. As an easy way to get a cost estimate for storage, the Tesla powerwall 2 is 13.5 kWh[^83] and costs about $7k apiece. If we follow along, the cost of the off-grid PV system for 30 kWh/day at an installation cost of $3/W will be 7500 W x 1.5 x 1.5 x $3≈ $50k for panels/installation plus $56k for batteries.[^84] Then the batteries may be in need of replacement every 10-15 years.[^85]
+
+
+[^83]: so we would need about 8
+
+
+[^84]: It is often the case that battery cost is comparable to the rest of the system, roughly doubling the total cost.+++(5)+++
 
 [^85]: Good batteries generally last a few thousand full charge cycles.
 
+
+
+If this seems rather alarming, don't worry-there's a trick to making it much more affordable/practical: don't demand 30 kWh per day! Even though we picked 30 kWh/day due to the fact that it is the average American electricity demand, it is a worthwhile challenge[^86] to seek ways to use far less energy than the average. Trying to make solar fit our present expectations may be the wrong approach. Also, expecting to get away from fossil fuels and have it be cheaper may be unrealistic.
+
 [^86]: See Chapter 20 for examples.
-13.7 Photovoltaic Installations
-The Energy Information Administration's Electric Power Monthly (EPM) [^85] provides detailed statistics on power generation in the U.S. Photovoltaic data is available in the EPM's tables 1.17.B and 6.2.B. In the usual way, we first look at installed capacity, based on the actual average delivered power. Figure 13.17 shows the situation in the U.S. California is
-[^85]: U.S. Energy Inform. Admin. (2020), Electric
-power monthly
 
 
-216
-0
-1 2 3 4 5 PV generation (GW)
-rocking it! The average solar power in California was 4.3 GW in 2018, far ahead of the next biggest: North Carolina at 0.82 GW. For California, this is 13% of its electricity. But electricity production is 38% of all energy in the U.S., so we might say that California gets about 5% of all its energy from solar. This is far ahead of other states.[^87] The U.S. as a whole gets about 0.9% of its energy from solar.
+Figure 13.16: Evolving price of PV installation per peak Watt. Yellow is for the panels; the two blues for electronics; peach is labor; and hashed is for the utility hookup, inspection, taxes, profits [89, 91]. From NREL.
+
+## 13.7 Photovoltaic Installations
+The Energy Information Administration's Electric Power Monthly (EPM) [^085] provides detailed statistics on power generation in the U.S. Photovoltaic data is available in the EPM's tables 1.17.B and 6.2.B. In the usual way, we first look at installed capacity, based on the actual average delivered power. Figure 13.17 shows the situation in the U.S. California is rocking it!
+
+[^085]: U.S. Energy Inform. Admin. (2020), Electric power monthly
+
 Figure 13.17: Photovoltaic power production by state, in GW, in 2018.
 
+
+[[216]]
+
+The average solar power in California was 4.3 GW in 2018, far ahead of the next biggest: North Carolina at 0.82 GW. For California, this is 13% of its electricity. But electricity production is 38% of all energy in the U.S., so we might say that California gets about 5% of all its energy from solar.+++(4)+++ This is far ahead of other states.[^87] The U.S. as a whole gets about 0.9% of its energy from solar.
+
 [^87]: North Carolina got about 5% of its electricity from solar in 2018, or less than 2% of all its energy.
-0
-5
-10
-15
-PV density (m$W/m^2$)
-Next, we divide by area to get power density from photovoltaic installations. A site having an insolation of 200 $W/m^2$ and 15% efficient panels has access to 30 $W/m^2$ of production capability (Table 13.1). Figure 13.18 shows how much we're actually getting. New Jersey has its moment in the sun, here. A few sites (NJ, MA) are pushing88 15 m$W/m^2$, which is a factor of 2,000 lower than the full potential. What this says is that only 1/2,000 of the land (0.05%) is covered by solar panels. This sort-of makes sense, right?
-On a per-population basis (Figure 13.19), Nevada shines brightest, at 180 W per person.[^89] The southwestern U.S. is doing well overall, as is North Carolina on this measure.
-Finally, we look at capacity factor: how much was generated compared to installed capacity (Figure 13.20). We expect something like 20%, corresponding to 4.8 full-sun-equivalent hours per day. The best states top out at about 0.27, equating to about 6.5 full-sun-equivalent hours per day. States at higher latitude and/or having more clouds will do
+
+Next, we divide by area to get power density from photovoltaic installations. A site having an insolation of 200 $W/m^2$ and 15% efficient panels has access to 30 $W/m^2$ of production capability (Table 13.1). 
+
 Figure 13.18: Photovoltaic power production areal density by state, in milliwatts per square meter.
+
+
+Figure 13.18 shows how much we're actually getting. New Jersey has its moment in the sun, here. A few sites (NJ, MA) are pushing[^88] 15 m$W/m^2$, which is a factor of 2,000 lower than the full potential. What this says is that only 1/2,000 of the land (0.05%) is covered by solar panels. This sort-of makes sense, right?
 
 [^88]: Compare to 50 m$W/m^2$ for hydroelectricity in Washington state (Fig. 11.6; p. 179) and 17 m$W/m^2$ for wind in Iowa (Fig. 12.9; p. 192).
 
+
+Figure 13.19: Per capita photovoltaic power production by state, in Watts per person.
+
+On a per-population basis (Figure 13.19), Nevada shines brightest, at 180 W per person.[^89] The southwestern U.S. is doing well overall, as is North Carolina on this measure.
+
 [^89]: ... still small compared to the American metric of 10,000 W/person
+
+Figure 13.20: Photovoltaic capacity factors by state. While we see lots of darker green, it's because everybody has similarly low numbers, due to unavoidable nighttime and low sun angles. Somebody tell Wyoming, North Dakota, and Alabama to get with the program!
+
+Finally, we look at capacity factor: how much was generated compared to installed capacity (Figure 13.20). We expect something like 20%, corresponding to 4.8 full-sun-equivalent hours per day. The best states top out at about 0.27, equating to about 6.5 full-sun-equivalent hours per day. 
 
 0
 
-217
-50 100 150 200 PV power/person (W)
-Figure 13.19: Per capita photovoltaic power production by state, in Watts per person.
-0.08 0.13 0.18 0.23 0.28 PV capacity factor
-more poorly on this measure. Alaska clocks in just over 0.1, mapping to about 2.5 hours per day, on average.
-installed
-average
-% of all
-Country
-(GWp)
-(GW)
-energy
-global share (%)
-China
-175
-~18
-1.2
-27
-U.S.
-62
-10.6
-0.9
-16
-Japan
-56
-6.5
-3.5
-10
-Germany
-46
-5.0
-3.3
-7.5
-India
-27
-4.1
-1.5
-6
-World
-510
-67
-1.5
-100
-Globally, two-thirds of the photovoltaic capacity is represented by five countries, shown in Table 13.3. Note that delivered power is significantly lower than installed capacity because of the low capacity factor for solar.
-13.7.1 Pros and Cons of Photovoltaics
-Before advancing to solar thermal generation, let's summarize the major advantages and disadvantages of solar photovoltaics. First, the good stuff:
-PV taps into a super-abundant resource-the only renewable that has such a margin;
+[[217]]
 
-Figure 13.20: Photovoltaic capacity factors by state. While we see lots of darker green, it's because everybody has similarly low numbers, due to unavoidable nighttime and low sun angles. Somebody tell Wyoming, North Dakota, and Alabama to get with the program!
+States at higher latitude and/or having more clouds will do more poorly on this measure. Alaska clocks in just over 0.1, mapping to about 2.5 hours per day, on average.
+
+Country, installed(GWp), average(GW), % of all energy. global share (%)  
+China 175 ~18  1.2 27  
+U.S. 62 10.6 0.9 16  
+Japan 56 6.5 3.5 10  
+Germany 46 5.0 3.3 7.5  
+India 27 4.1 1.5 6  
+World 510 67 1.5 100
+
 Table 13.3: Top five global producers of PV power in 2018, accounting for two-thirds of the world's total production [92, 93]. The installed PV corresponds to peak watts (Wp), or production in full overhead sun.
 
-218
-► PV technology has no moving parts or steam; panels are robust and last a long time;
-► PV is one of the few resources that can fit on a rooftop and provide self-contained electricity generation;
-► PV efficiency is rather good: close to theoretical expectations and much better than biology has managed at getting energy from sunlight;
-► PV technology works well, and despite expense has been deployed on rooftops across the world;
-Life-cycle CO2 emissions are 15 times smaller than that of traditional fossil fuel electricity [^68];
-PV is often a good solution when utility electricity is far away.
+Globally, two-thirds of the photovoltaic capacity is represented by five countries, shown in Table 13.3. Note that delivered power is significantly lower than installed capacity because of the low capacity factor for solar.
+
+### 13.7.1 Pros and Cons of Photovoltaics
+Before advancing to solar thermal generation, let's summarize the major advantages and disadvantages of solar photovoltaics. First, the good stuff:
+
+- PV taps into a super-abundant resource-the only renewable that has such a margin; [[218]]
+- PV technology has no moving parts or steam; panels are robust and last a long time;
+- PV is one of the few resources that can fit on a rooftop and provide self-contained electricity generation;
+- PV efficiency is rather good: close to theoretical expectations and much better than biology has managed at getting energy from sunlight;
+- PV technology works well, and despite expense has been deployed on rooftops across the world;
+- Life-cycle CO2 emissions are 15 times smaller than that of traditional fossil fuel electricity [^68];
+- PV is often a good solution when utility electricity is far away.
+
 And now the less attractive aspects:
-► PV is intermittent, and not well-matched to energy demand; it would be hard to "balance" the electrical grid if too much of the input came from such an intermittent source, and storage is difficult;
-► PV is still expensive90 relative to prevailing energy resources- especially important in terms of up-front cost;
-Electricity alone is not well-suited to many of our current energy demands, like transportation and industrial heat/processing; Stand-alone operation requires batteries, at least doubling the cost and adding maintenance/replacement demands;
-▸ Even partial shading can be disproportionally disruptive;
-PV manufacturing involves environmentally unfriendly chemicals;
-► PV deployment can harm habitats if installed in undeveloped
-areas.
+
+- PV is intermittent, and not well-matched to energy demand; it would be hard to "balance" the electrical grid if too much of the input came from such an intermittent source, and storage is difficult;
+- PV is still expensive[^90] relative to prevailing energy resources - especially important in terms of up-front cost;
+- Electricity alone is not well-suited to many of our current energy demands, like transportation and industrial heat/processing; Stand-alone operation requires batteries, at least doubling the cost and adding maintenance/replacement demands;
+- Even partial shading can be disproportionally disruptive;
+- PV manufacturing involves environmentally unfriendly chemicals;
+- PV deployment can harm habitats if installed in undeveloped areas.
+
 [^68]: (2020), Life Cycle GHG Emissions
 
 [^90]: Cost has been a major barrier, but may cease to be so as prices fall further.
-13.8 Solar Thermal
+
+## 13.8 Solar Thermal
 Photovoltaics (Section 13.3) convert sunlight directly into electricity, but this is not the only way to harness energy from the sun. Solar energy can also be used for heat. We'll first have a brief look at home heating, then turn to electricity generation from solar heat.
-13.8.1 Passive Solar Heat
-Full sun delivers something like 1,000 $W/m^2$ at the earth's surface. Now imagine a window in a house intercepting 1.5 $m^2$ of sunlight, in effect admitting 1,500 W into the home-like a space heater, and it's free! Depending on window construction, some of the infrared energy may be blocked, so maybe not all 1,000 $W/m^2$ will make it inside, but a sizable portion will. Clever design has south-facing windows for receiving low-angle winter sun, but an overhang to keep out the high summer sun
+
+### 13.8.1 Passive Solar Heat
+Full sun delivers something like 1,000 $W/m^2$ at the earth's surface. Now imagine a window in a house intercepting 1.5 $m^2$ of sunlight, in effect admitting 1,500 W into the home-like a space heater, and it's free! Depending on window construction, some of the infrared energy may be blocked, so maybe not all 1,000 $W/m^2$ will make it inside, but a sizable portion will. Clever design has south-facing windows for receiving low-angle winter sun, but an overhang to keep out the high summer sun (Figure 13.21).
 
 
-219
-(Figure 13.21). A dark and massive absorber91 inside the house capturing the heat can continue to provide warmth through the evening hours. The Passive House designs mentioned in the context of Box 6.1 (p. 87) attempt to maximize solar capture so that little active heating is required.
+{{< figure src="../images/passive-solar-heating-with-overhang.png" title="" class="thumbnail">}}
+
+Figure 13.21: A well-designed house has thick walls, thick insulation, and double- paned windows. Even better, it can have south-facing windows that admit sunlight in the winter but not in the summer (the overhang shields the window). A large, dark thermal mass-stone or brick works well- can absorb energy and continue to release heat into the evening.
+
+
+[[219]]
+
+A dark and massive absorber[^91] inside the house capturing the heat can continue to provide warmth through the evening hours. The Passive House designs mentioned in the context of Box 6.1 (p. 87) attempt to maximize solar capture so that little active heating is required.
 
 [^91]: ... dark rock or brick works well
-winter; low sun angle
-summer; high sun angle
-Figure 13.21: A well-designed house has thick walls, thick insulation, and double- paned windows. Even better, it can have south-facing windows that admit sunlight in the winter but not in the summer (the overhang shields the window). A large, dark thermal mass-stone or brick works well- can absorb energy and continue to release heat into the evening.
-13.8.2 Solar Thermal Electricity
-While 1,000 $W/m^2$ is nice, the power is too diffuse to get anything very hot and create a large enough AT to allow the operation of an efficient heat engine (Sec. 6.4; p. 88). More complex arrangements can concentrate solar power-think of a magnifying glass-to heat up a liquid in pipes. Figure 13.22 shows an example of a parabolic reflector that can track the sun to concentrate light onto the energy-absorbing central pipe. This shape can be extruded along a long cylinder-a "trough"-following the pipe.
+
+### 13.8.2 Solar Thermal Electricity
+While 1,000 $W/m^2$ is nice, the power is too diffuse to get anything very hot and create a large enough ΔT to allow the operation of an efficient heat engine (Sec. 6.4; p. 88). More complex arrangements can concentrate solar power-think of a magnifying glass-to heat up a liquid in pipes. Figure 13.22 shows an example of a parabolic reflector that can track the sun to concentrate light onto the energy-absorbing central pipe. This shape can be extruded along a long cylinder-a "trough"-following the pipe.
+
+{{< figure src="../images/solar-heat-parabolic-reflector.png" title="" class="thumbnail">}}
+
 Figure 13.22: Solar trough cross sections showing the focusing of sunlight onto a central pipe. The troughs can be oriented to follow the sun.
-pump
-turbine
-generator
-boiler
-high pressure
-steam
-solar-heated oil
-optional storage
-pump
-condenser
-steam
-return
-pump
-electricity
-cooling towers
+
+{{< figure src="../images/solar-thermal-power-plant.png" title="" class="thumbnail">}}
+
 Figure 13.23: A common solar thermal power scheme uses parabolic "trough" reflectors to focus sunlight onto a central pipe, which carries oil that can be heated to very high temperatures for making steam to run a traditional electrical power plant very much like that of Fig. 6.2 (p. 90). Optional thermal storage can save heat for later use.
-Figure 13.23 shows a schematic representation of a typical solar thermal (ST) collector, and a picture of one appears in Figure 13.24. A curved reflector tilts to track the sun, concentrating light onto a long pipe in
 
-front of the reflector carrying a fluid (usually oil) that can be heated to a high temperature by the absorbed sunlight. The hot oil pipes can then be run through water to boil it and make steam, thereafter driving a traditional steam power plant. Such ST arrangements are sometimes called concentrated solar power (CSP). Another common variant-called a "power tower"-is shown in Figure 13.25, in which an array of steerable flat mirrors on the ground direct sunlight to the top of a central tower to make steam.
-As for efficiency, solar thermal is at face value similar to PV: 15-20% is fairly typical. Broken down, roughly 50-75% of the available energy successfully transfers to the fluid, and then the heat engine delivers about 25-30% efficiency. But these numbers only apply if we count just the area of the reflective collector. Because they have to track the sun, and self-shadowing is to be avoided, only a small amount of the land area is occupied by the reflectors. Characterization of real facilities indicates that only 3% of the solar energy hitting the patch of land corresponding to the power plant is exported in the form of electrical energy.
-But efficiency is not everything. 3% of a gigantic resource like solar energy input can still be tremendously large. It translates to over 6 $W/m^2$ for a standard insolation of 200 $W/m^2$, which is about thirty-times better than wind, per land area. While a field of PV panels outperform an ST installation by a factor of 5-6, the technologically simpler solar thermal designs can be more cost effective than PV. Reflectors and oil pipes are low-tech cheap devices, compared to photovoltaic material. The production cost for solar thermal is estimated to be about $0.06/kWh, which is lower than the typical retail cost of electricity, but still a factor of two higher than fossil fuel electricity production costs.
-One disadvantage of solar thermal is that concentration only works when the sun itself is visible in the sky: no obscuring clouds. One way to think of it is: if you can't see your shadow, solar concentration will not work. Meanwhile, PV panels will still produce a meaningful amount of daytime electricity from the bright sky and clouds even if the sun itself is not "out."
-Balancing this disadvantage is the fact that solar thermal has some built-in storage capacity, in that the heated oil can be "banked" for some hours 92 and continue to produce electricity even during the passage of a cloud or for a few hours into the evening. In this sense, it can better match the peak of electrical demand (early evening: Figure 13.15) than can PV, which goes to zero once the sun sets.
-As seen in Figure 13.13, the desert southwest is the best place in the U.S. for solar thermal electricity generation. It makes sense that deserts would be good spots, since effective concentration requires no interference from clouds. Incidentally, transmitting electricity over intermediate distances (across regions) is fairly efficient: typically better than 90% for distances shorter than ~1,000 km.
+{{< figure src="../images/solar-thermal-tower-and-pipes.png" title="" class="thumbnail">}}
 
-220
+Figure 13.23 shows a schematic representation of a typical solar thermal (ST) collector, and a picture of one appears in Figure 13.24. A curved reflector tilts to track the sun, concentrating light onto a long pipe in front of the reflector carrying a fluid (usually oil) that can be heated to a high temperature by the absorbed sunlight. The hot oil pipes can then be run through water to boil it and make steam, thereafter driving a traditional steam power plant. Such ST arrangements are sometimes called concentrated solar power (CSP). Another common variant-called a "power tower"-is shown in Figure 13.25, in which an array of steerable flat mirrors on the ground direct sunlight to the top of a central tower to make steam.
+
 Figure 13.24: Parabolic trough-based ST plant, in which part of the power generation facility is seen in the background. Reflectors must be spaced out to prevent self-shadowing. From U.S. DOE.
+
 Figure 13.25: One of three "power towers" of the Ivanpah facility in California. By Craig Dietrich.
 
-[^92]:
-thus the "optional storage" block in Figure 13.23
-In terms of implementation, solar thermal is a small player. In 2018, only four states produced solar thermal power, 68% from California and 22% from Arizona. Table 13.4 provides some context, comparing ST to PV in each of the four states that have any solar thermal. For the entire U.S., less than 0.1% of electricity derives from solar thermal, and PV is about 25 times bigger on the whole. Globally, ST averages about 1.1 GW93 (2016), about half in Spain and a third in the U.S.94
-State
-ST MW avg. ST % elec. PV MW avg. PV % elec. ST/PV %
-California
-281
-1.25
-4,285
-19.0
-6.6
-Arizona
-89
-0.08
-765
-5.1
-11.6
-Nevada
-35
-0.09
-552
-12.1
-6.3
-Florida
-6
-0.002
-326
-1.2
-1.8
-U.S. total
-410
-0.086
-10,565
-2.2
-3.9
+As for efficiency, solar thermal is at face value similar to PV: 15-20% is fairly typical. Broken down, roughly 50-75% of the available energy successfully transfers to the fluid, and then the heat engine delivers about 25-30% efficiency. But these numbers only apply if we count just the area of the reflective collector. Because they have to track the sun, and self-shadowing is to be avoided, only a small amount of the land area is occupied by the reflectors. Characterization of real facilities indicates that only 3% of the solar energy hitting the patch of land corresponding to the power plant is exported in the form of electrical energy.
 
-221
+But efficiency is not everything. 3% of a gigantic resource like solar energy input can still be tremendously large.+++(4)+++ It translates to over 6 $W/m^2$ for a standard insolation of 200 $W/m^2$, which is about thirty-times better than wind, per land area.+++(5)+++ While a field of PV panels outperform an ST installation by a factor of 5-6, the technologically simpler solar thermal designs can be more cost effective than PV. Reflectors and oil pipes are low-tech cheap devices, compared to photovoltaic material. The production cost for solar thermal is estimated to be about $0.06/kWh, which is lower than the typical retail cost of electricity, but still a factor of two higher than fossil fuel electricity production costs.
+
+One disadvantage of solar thermal is that concentration only works when the sun itself is visible in the sky: no obscuring clouds.+++(4)+++ One way to think of it is: if you can't see your shadow, solar concentration will not work. Meanwhile, PV panels will still produce a meaningful amount of daytime electricity from the bright sky and clouds even if the sun itself is not "out."
+
+Balancing this disadvantage is the fact that solar thermal has some built-in storage capacity, in that the heated oil can be "banked" for some hours [^92] and continue to produce electricity even during the passage of a cloud or for a few hours into the evening. In this sense, it can better match the peak of electrical demand (early evening: Figure 13.15) than can PV, which goes to zero once the sun sets.
+
+
+[^92]: thus the "optional storage" block in Figure 13.23
+
+As seen in Figure 13.13, the desert southwest is the best place in the U.S. for solar thermal electricity generation. It makes sense that deserts would be good spots, since effective concentration requires no interference from clouds. Incidentally, transmitting electricity over intermediate distances (across regions) is fairly efficient: typically better than 90% for distances shorter than ~1,000 km.
+
+[[220]]
+
+In terms of implementation, solar thermal is a small player. In 2018, only four states produced solar thermal power, 68% from California and 22% from Arizona. Table 13.4 provides some context, comparing ST to PV in each of the four states that have any solar thermal. For the entire U.S., less than 0.1% of electricity derives from solar thermal, and PV is about 25 times bigger on the whole. Globally, ST averages about 1.1 GW[^93] (2016), about half in Spain and a third in the U.S.[^94]
+
 
 [^93]: ...0.006% of global demand
-therefore not much left in the rest of
 
-[^94]:
-the world
+[^94]: therefore not much left in the rest of the world
+
+State; ST MW avg.; ST % elec.; PV MW avg.; PV % elec.; ST/PV %
+California	281 1.25 4,285 19.0 6.6  
+Arizona 89	0.08	765	5.1	11.6	  
+Nevada	35	0.09	552	12.1	6.3  
+Florida	6	0.002	326	1.2	1.8  
+U.S. total	410	0.086	10,565	2.2	3.9	
+[[221]]
+
 Table 13.4: Solar Thermal (ST) generation in the U.S. in 2018, compared to photovoltaic (PV); MW is megawatts.
-13.8.3 Pros and Cons of Solar Thermal
+
+### 13.8.3 Pros and Cons of Solar Thermal
 Summarizing the pros and cons for solar thermal (ST), starting with the good aspects:
-►ST taps into a super-abundant resource the only renewable that has such a margin;
-ST technology is low-tech and inexpensive, using well-developed power plant technologies;
-ST has built-in short-term storage capacity for covering evening power demands;
-Life-cycle CO2 emissions are 20 times smaller than that of traditional fossil fuel electricity [^68].
+
+- ST taps into a super-abundant resource the only renewable that has such a margin;
+- ST technology is low-tech and inexpensive, using well-developed power plant technologies;
+- ST has built-in short-term storage capacity for covering evening power demands;
+- Life-cycle CO2 emissions are 20 times smaller than that of traditional fossil fuel electricity [^68].
+
 And the less great stuff:
-►ST requires direct sunlight; intolerant of clouds;
-ST is only possible at utility-scale, requiring a power plant;
-ST has a lower land-area efficiency than PV panels;
-► Some disruption will be imposed on the local environment/habitat.
+
+- ST requires direct sunlight; intolerant of clouds;
+- ST is only possible at utility-scale, requiring a power plant;
+- ST has a lower land-area efficiency than PV panels;
+- Some disruption will be imposed on the local environment/habitat.
 
 ## 13.9 Upshot for Solar
 Hands down, solar is the only renewable resource capable of matching our current societal energy demand. Not only can it reach 18 TW, it can exceed the mark by orders of magnitude. Finding space for panels is not a limitation. The efficiency of PV panels is perfectly respectable based on physics expectations, and beats the best that biology has done by a factor of 3-4. The efficiency is high enough that roof space tends to be more than sufficient to satisfy the demands of individual houses.
@@ -878,24 +823,27 @@ Pros and cons are listed separately for PV and ST in Section 13.7.1 and Section 
 
 [[222]]
 
-Holding solar back is its intermittency[^95] and high up-front cost. Intermittency can be solved by battery storage, but this can double the cost and require maintenance and periodic battery replacement. Additionally- as for many of our renewable options- all of our society's demands 9% are not well met by electricity generation. [^98]
+Holding solar back is its intermittency[^95] and high up-front cost. Intermittency can be solved by battery storage, but this can double the cost and require maintenance and periodic battery replacement. Additionally- as for many of our renewable options- all of our society's demands [^96] are not well met by electricity generation.
 
 
 [^95]: ... low capacity factor that is weather- dependent
 
 [^96]: ... like transportation and industrial processing
 
+Sizing up a PV installation is fairly straightforward. Having first determined how many kWh per day are to be produced, on average, divide this by the kWh/$m^2$/day value for the site,[^97] which is essentially the number of hours of full-sun [^98] equivalent, and tends to be in the 4-6 hour ballpark. 
+
 [^97]: either annual or monthly
 
 [^98]: 1,000 $W/m^2$
 
-Sizing up a PV installation is fairly straightforward. Having first determined how many kWh per day are to be produced, on average, divide this by the kWh/$m^2$/day value for the site," which is essentially the number of hours of full-sun" equivalent, and tends to be in the 4-6 hour ballpark. This says how many kilowatts the array should produce in full sun (peak Watts). For instance, if only 10 kWh/day are needed," and the region in question gets 5 kWh/$m^2$/day, the system needs to operate at a peak power of 2 kWp, costing about $6k to purchase and install (grid tied). Inflating by 20% offsets unaccounted losses100 to better match real conditions.
 
-Solar thermal energy is another way to run a traditional steam-based power plant, using relatively low-tech mirrors and pipes to concentrate solar energy into a heat-carrying fluid that can later make steam. Effective efficiencies are relatively low,[^101] but on the bright side, the low-tech nature makes it fairly cheap, and the technique can accommodate some degree of thermal storage for use some hours into the evening. Anything[^102] starting from solar input has the potential to be a major player, given the ~100,000 TW scale of solar energy incident upon the earth.
+This says how many kilowatts the array should produce in full sun (peak Watts). For instance, if only 10 kWh/day are needed,[^99] and the region in question gets 5 kWh/$m^2$/day, the system needs to operate at a peak power of 2 kWp, costing about $6k to purchase and install (grid tied). Inflating by 20% offsets unaccounted losses[^100] to better match real conditions.
 
 [^99]:...because you are careful about energy expenditures
 
 [^100]: ... hot, dirty panels and conversion efficiencies
+
+Solar thermal energy is another way to run a traditional steam-based power plant, using relatively low-tech mirrors and pipes to concentrate solar energy into a heat-carrying fluid that can later make steam. Effective efficiencies are relatively low,[^101] but on the bright side, the low-tech nature makes it fairly cheap, and the technique can accommodate some degree of thermal storage for use some hours into the evening. Anything[^102] starting from solar input has the potential to be a major player, given the ~100,000 TW scale of solar energy incident upon the earth.
 
 [^101]: 3% of solar energy hitting the plant area ends up as electricity
 
