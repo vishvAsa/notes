@@ -29,13 +29,20 @@ Over-reliance on a limited store of frozen sunlight has led to rapid economic gr
 This economic growth, being dependent on energy-usage growth, resource exploitation and population growth is not sustainable.  
 
 ## During collapse
+There will be widespread famines, social unrest and depopulation.
+
 ### Energy
 Some tech (nuclear breeder reactors, PV energy) may provide energy while they last.
 
 ## Post collapse
+There might be islands of civilization which can manage advanced thought and material comfort.
+
+It will be the time of adventurers and technomages.
+
 ### Energy
 #### Long term
-Solar thermal, and hydroelectric power plants would be fairly cheap and low-tech. There might be islands of civilization which can manage it.
+Solar thermal, and hydroelectric power plants would be fairly cheap and low-tech. 
 
+### Minerals
 Minerals will be scarce, but will be obtained from recycling and some high-energy techniques.
 
