@@ -3,39 +3,42 @@ title = "14 Biological Energy"
 
 +++
 The renewable energy options discussed thus far have been rather different from the chemically-stored thermal energy provided by fossil fuels. These sources-hydroelectricity, wind, and solar-are good at making electricity, but are intermittent to various degrees and are not directly suitable for transportation, except via bulky batteries.
-Biologically-based energy is more similar to fossil fuels in that it is a form of chemical energy burned to create thermal energy. We will focus on two major forms: solid biomass and liquid biofuels. The latter is well-suited to transportation: one of the few renewable energies that can make this claim. In some cases, the same plant can produce either food or bio-energy-depending on whether it is eaten by another biological form or by a machine.
-Ultimately, biologically-based energy is a form of solar energy, creating chemical storage by means of photosynthesis. Fossil fuels are also an ancient form of biofuel, deriving from photosynthetic energy captured millions of years ago. So sunlight is the actual energy source, and photosynthesis is the mechanism by which the energy is stored in chemical form.
-14.3 Biofuels
-14.1 Photosynthesis 14.2 Biomass
-227
-229
-230
-231
-234
-235
-236
-EROEI
-EROEI of Biofuels...
-14.4 Upshot: Nature's Burn 14.5 Problems..
-14.1 Photosynthesis
-This textbook will not focus on the complex mechanisms responsible for photosynthesis, but rather will describe the net result and efficiency. Photosynthesis involves the absorption of individual solar photons that ultimately facilitate the movement of electrons in order to change bonding structures, forming sugars, cellulose, and other materials used to construct a plant. The fundamental chemical reaction is depicted in
-Figure 14.1: Cartoon version of photosyn- thesis, providing a graphical representation of Eq. 14.1. Water, CO2, and sunlight are in- puts. The leaf "exhales" oxygen and keeps sugar (only part of the final sugar molecule is pictured here).
-Photo Credit: Rudy and Peter Skitterians.
 
-14 Biological Energy
-228
-Figure 14.1 and represented as a formula in Eq. 14.1, in which the product is a basic unit of a larger sugar molecule, like glucose (C6H12O6).
-CO2 + H2O + light → CH2O + O2
-(14.1)
+Biologically-based energy is more similar to fossil fuels in that it is a form of chemical energy burned to create thermal energy. We will focus on two major forms: solid biomass and liquid biofuels. The latter is well-suited to transportation: one of the few renewable energies that can make this claim. In some cases, the same plant can produce either food or bio-energy-depending on whether it is eaten by another biological form or by a machine.
+
+Ultimately, biologically-based energy is a form of solar energy, creating chemical storage by means of photosynthesis. Fossil fuels are also an ancient form of biofuel, deriving from photosynthetic energy captured millions of years ago. So sunlight is the actual energy source, and photosynthesis is the mechanism by which the energy is stored in chemical form.
+
+
+## 14.1 Photosynthesis
+This textbook will not focus on the complex mechanisms responsible for photosynthesis, but rather will describe the net result and efficiency. Photosynthesis involves the absorption of individual solar photons that ultimately facilitate the movement of electrons in order to change bonding structures, forming sugars, cellulose, and other materials used to construct a plant. The fundamental chemical reaction is depicted in Figure 14.1 and represented as a formula in Eq. 14.1, in which the product is a basic unit of a larger sugar molecule, like glucose (C6H12O6).
+
+CO2 + H2O + light → CH2O + O2 (14.1)
+
+
+Figure 14.1: Cartoon version of photosyn- thesis, providing a graphical representation of Eq. 14.1. Water, CO2, and sunlight are in- puts. The leaf "exhales" oxygen and keeps sugar (only part of the final sugar molecule is pictured here).
+
+
+
+[[228]]
+
+
 In sentence form: energy from light transforms carbon dioxide and water into a building block of sugar and releases oxygen back to the air.
-Box 14.1: Where Do Plants Get Their Mass?
-A valuable question to ponder: where do plants get their mass? Is it from the soil? Is it from water? Is it from the air? Take a moment to
-think about it. We can rule out soil on the observation that massive trees are not sitting in holes of excavated earth. Yes, the roots displace some of the soil, but a fallen tree reveals little root volume compared to the trunk and branches. And while living plant material contains significant water, completely dry plant matter1 has plenty of mass without water.
-Plant matter contains substantial carbon content,2 and we now connect the knowledge that plants' leaves "breathe in" CO2 and release O2, as in Eq. 14.1. Every time this happens, the plant steals a carbon atom from the air, spitting the oxygen right back out. The carbon is stuck into a sugar or other structural molecule and stays in the plant. Thus plants obtain their dry mass out of "thin air."
+
+<details><summary>Box 14.1: Where Do Plants Get Their Mass?</summary>
+
+A valuable question to ponder: where do plants get their mass? Is it from the soil? Is it from water? Is it from the air? Take a moment to think about it. We can rule out soil on the observation that massive trees are not sitting in holes of excavated earth. Yes, the roots displace some of the soil, but a fallen tree reveals little root volume compared to the trunk and branches.+++(5)+++ And while living plant material contains significant water, completely dry plant matter[^1] has plenty of mass without water.
+
+Plant matter contains substantial carbon content,[^2] and we now connect the knowledge that plants' leaves "breathe in" CO2 and release O2, as in Eq. 14.1. Every time this happens, the plant steals a carbon atom from the air, spitting the oxygen right back out. The carbon is stuck into a sugar or other structural molecule and stays in the plant. Thus plants obtain their dry mass out of "thin air."+++(5)+++
+</details>
+
 In terms of efficiency, plants tend to convert sunlight into stored chemical energy at a rate of 0.01-6%. The range is rather large due to limitations in water and nutrients. A well-watered and fertilized corn field might reach 1.5% efficiency. Algae tend to top the charts at 5-6%. Dry climates might have ample sunlight, but too little water for efficient use of the available light. Box 14.2 provides an example of how one might estimate what fraction of incident solar energy is turned into chemical storage by a potato plant.
+
 Box 14.2: Example Photosynthetic Efficiency
+
 Let us consider a potato plant (Figure 14.2) as an example by which to estimate photosynthetic efficiency. The potato plant might have a leafy footprint of 0.5 m2-a square roughly 0.7 m on a side or a circle about 0.8 m in diameter and produce four 0.5 kg potatoes, or 2 kg of starchy material. Carbohydrates have an energy density of 4 kcal/g, so the potato plant has stored 8,000 kcal, or about 32 MJ.3
+
 If the typical five-month growing-season (~ 1.25 x 107 s) has inso- lation of 250 $W/m^2$, the plant collects 125 W5 times 1.25 x 107 or 1.6 x 109 J, while making 32 MJ of spuds. The photosynthetic
+
 S,
 1: ... dry wood, for instance
 2: ... which we combust when burning wood
@@ -53,7 +56,7 @@ weather
 5: 250 $W/m^2$ times the plant area
 
 efficiency is calculated as the ratio of output to input: about 2% in this case.
-14 Biological Energy
+
 229
 14.2 Biomass
 Biological mass, or biomass, has long been utilized to supplement our energy needs, via controlled use of fire starting hundreds of thousands of years ago. Burning wood or other plant matter, and in some places dried animal feces counts as utilization of biomass. Wood provides about 4 kcal of energy per gram when burned, or about 16 MJ/kg-much like proteins or carbohydrates in our diet. Burning of biomass is most typically used for heating and cooking within individual homes.
@@ -78,7 +81,7 @@ If we tried to substitute our 18 TW global power demand by burning
 biological matter,12 we would run through all the currently-living mass-land and sea-in a short 15 years!
 Can you imagine burning through all of Earth's forests and animals in 15 years? That's the rate at which we use energy today-illustrating the disparity between the biological resources on the planet and our staggering energy appetite. We can't expect to maintain our based on biomass and biofuels, and still have a vibrant natural
 pace planet.
-14 Biological Energy 230
+ 230
 12: About a quarter of the biomass is "dry" combustible material, at about 4 kcal/g.
 14.3 Biofuels
 Biofuels deserve their own category because the origins and end uses are different enough to warrant distinction. While the biomass sources from Section 14.2 tend to be in solid form, biofuels as treated here are liquid. Liquid fuels are instantly a big deal because they have the energy density and versatility to be used in transportation applications. An airplane can't very well fly on firewood, hydroelectricity, solar, wind, ocean currents, geothermal, or nuclear energy.13 matter. Biofuels therefore occupy a special place in the pantheon of renewable resources as the most obvious viable replacement for petroleum-the dominant fossil fuel responsible for 92%14 of transportation in the U.S.
@@ -106,7 +109,7 @@ Figure 14.3: Ethanol is similar to ethane, but replacing the hydrogen at the end
 for octane. In terms of CO2 energy intensity, ethanol produces 64 g of CO2 for every 1 MJ of energy: exactly the same as petroleum (Table 8.2). Generally speaking, biofuels-and other forms of biomass-are often considered to be carbon-neutral,18 as the carbon released upon burning was taken in from the atmosphere in the process of photosynthesis, making it a cycle.
 Most of the ethanol in the U.S. is blended into gasoline into E10, E15, or E85 products meaning 10%, 15%, or 85% ethanol. Not all vehicles are equipped to handle the more corrosive ethanol, and those that are ("flex-fuel" vehicles) might expect lower energy performance due to the fact that ethanol has lower energy density than gasoline.
 Both the lower energy density and lower carbon mass per input fuel mass can be attributed to the oxygen atom hosted by the ethanol molecule.19 Ethanol can derive from a number of plants. In the U.S., corn is the most common feedstock. Brazil uses sugar cane, which requires tropical climates.
-14 Biological Energy
+
 231
 18: In practice, fossil fuels are used in the cultivating of biofuels, so it's not a perfectly clean, closed cycle in present form.
 19: See Sec. B.3 (p. 379) for more insight into chemical reactions and energy content.
@@ -122,7 +125,7 @@ EROEI (sometimes just EROI) is one level above efficiency. Efficiency asks how m
 energy.
 As another example, we might use coal to process biofuels, in effect converting a less useful solid to a more useful liquid, even if losing energy in the process. But such desperate measures will not be favored if alternatives exist.
 
-14 Biological Energy
+
 232
 using oil as the energy source for the original exploration, building the equipment, running the drill, and collecting/storing the product. An EROEI of 100:1 means that for
 every barrel of oil that goes into the process, 100 barrels come out. That's a good deal. A high EROEI means nearly "free" energy: low effort for high reward.
@@ -163,7 +166,7 @@ Example 14.3.2 Let's say a particular wind turbine achieves a 20:1 EROEI after o
 Each year the turbine produces some amount of energy, which we can call E (in Joules, for instance). In this case, it will produce 40E Joules in its lifetime. Since EROEI is 20:1, it must have taken 40E /20 = 2E Joules of input energy to create.22 At a rate of E per year, it will produce 2E
 22:...because the delivered energy is 20 times the input energy
 
-14 Biological Energy
+
 233
 in 2 years, therefore taking two years to produce as much as went into its manufacture-paying for itself, energetically.
 In a self-supporting sense23 the net energy is x - 1 for an EROEI of x:1. In other words, an EROEI of 1.25:1 only "really" produces 0.25 units of exportable energy for every one unit invested, if that one invested unit comes from the 1.25 units extracted in a closed system. In this case, for every one unit netted,24 4 units went in and 5 came out-only 1 of the 5 free and clear.
@@ -182,7 +185,7 @@ as the input to extract more
 26:
 ... a form of energy
 
-14 Biological Energy
+
 234
 food energy consumed [^97]. In a sense, we are eating27 our fossil fuels! It also points to an EROEI of 0.1:1, which is well below break-even. Obviously in times prior to fossil fuels, when we used human and animal labor in our agricultural pursuits, an EROEI less than 1:1 would spell starvation: more energy going in than was recouped from the land. Today, fossil fuels give us a temporary exception, so that we can afford to lose useful energy in the bargain, turning 10 units of fossil fuel energy into one unit that we eat. We might view this as a negative aspect of the Green Revolution.
 14.3.2 EROEI of Biofuels
@@ -215,7 +218,7 @@ Don't assume that the world is always scientifically rational and run by "adults
 A fundamental reason why the EROEI for biofuels tends to be low is that processing the material into ethanol requires a fair amount of energy input in the form of heat. Burning biomass, by contrast, does not have this requirement. Also, burned biomass is often gathered from untended (natural) environments that required little deliberate energy input on the parts of humans. Therefore, low EROEI is more a problem for biofuels than biomass.
 29:
 30:
-14 Biological Energy
+
 where corn is grown
 235
 compromised by low EROEI if using fossil-fuel inputs to run production
@@ -242,7 +245,7 @@ Heavy reliance on biological energy co-opts earth's biology and displaces natura
 - Cultivating biofuels competes with food production for water and land resources;
 Low EROEI for biofuels reduces net energy available;
 - Smoke and other pollutants from burning biomass can be prob- lematic.
-14 Biological Energy
+
 236
 14.5 Problems
 1. A large tree might have a trunk 0.5 m in diameter and be 40 m tall. Even though it branches out many times, pretend all the wood fits into a cylinder maintaining this 0.5 m diameter for the full height of the tree. Wood floats,33 so let's say it has a density around 800 kg/m3. How many kilograms of CO2 did this tree pull out of the atmosphere to get its carbon, if we treat the tree's mass as 50% carbon?
@@ -252,7 +255,7 @@ Low EROEI for biofuels reduces net energy available;
 Hint: carbon dioxide is 44/12 times the mass of plain carbon.
 Now if you could just think of a way to put the answer on a log scale, ha ha.
 
-14 Biological Energy
+
 237
 4. How many logs of firewood per day (whose parameters are speci- fied in Problem 3) would you need to burn to provide 5,000 W of heating to a house?
 5. Replicate the conclusion of Box 14.3 by assuming one-quarter of the 2 trillion tons (5 x 1014 kg) of mass is combustible at 4kcal/g. How long-in years would this amount of energy last if burning at 18 TW?
@@ -269,7 +272,7 @@ for an exact break-even food EROEI of 1:1. What would this mean in terms of wher
 34: You can always multiply both sides by the same factor to make both sides integers, if this is easier to understand.
 35:...i.e., relying on its own energy to re-invest in its extraction
 
-14 Biological Energy 238
+ 238
 area be in terms of the side length of a square in units of kilometers. Draw this to approximate scale on a crude representation of the contiguous U.S. And this is at the optimistic end.
 14. What fraction of the earth's 100 TW biological budget (all life on the planet) do you think is justifiable to use in service of human energy needs? Explain your reasoning. What does this become in TW, and how does it compare to our 18 TW current appetite?
 If the EROEI is less than 2:1 (as it is for many biofuels), we would cut your estimate in TW by more than half to account for the diverted energy used for extraction.
