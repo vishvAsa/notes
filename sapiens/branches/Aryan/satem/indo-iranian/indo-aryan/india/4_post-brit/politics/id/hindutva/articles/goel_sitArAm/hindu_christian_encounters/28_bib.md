@@ -24,7 +24,7 @@ Das, Sisir Kumar, *The Shadow of the Cross*, New Delhi, 1974.
 
 David, M. D. (ed.), *Western Colonialism in Asia and Christianity*, Bombay, 1988.
 
-Dayananda, Maharshi, *SatyårthaprakAsha* in Hindi, Delhi, 1975 Impression.
+Dayananda, Maharshi, *SatyārthaprakAsha* in Hindi, Delhi, 1975 Impression.
 
 Desai, Mahadev, *Day to Day with Mahatma Gandhi*, 9 volumes, Varanasi, 1968-1974.
 

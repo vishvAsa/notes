@@ -31,7 +31,7 @@ title = "+hindu temples 2"
 THE TIP OF AN ICEBERG
 
 [1. The Dispute at Sidhpur](ch1.htm)  
-[2. The Story of Rudramahãlaya](ch2.htm)  
+[2. The Story of Rudramahālaya](ch2.htm)  
 [3. Muslim Response to Hindu Protection](ch3.htm)
 
 **Section II**  
@@ -63,7 +63,7 @@ ISLAMIC THEOLOGY OF ICONOCLASM
 APPENDICES
 
 [1. Muslim Dynasties in India’s History](app1.htm)  
-[2. Was the Ka‘ba a Šiva Temple?](app2.htm)  
+[2. Was the Ka‘ba a Śiva Temple?](app2.htm)  
 [3. Meaning of the Word “Hindu”](app3.htm)  
 [4. Questionnaire for the Marxist Professors 408](app4.htm)
 

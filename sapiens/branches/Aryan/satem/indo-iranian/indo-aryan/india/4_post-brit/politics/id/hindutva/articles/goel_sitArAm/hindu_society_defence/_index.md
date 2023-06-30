@@ -22,7 +22,7 @@ title = "+hindu society defence"
 
 [1 The Situation at Present](ch1.htm)
 
-[2 Sanãtana Dharma Versus Prophetic Creeds](ch2.htm)
+[2 Sanātana Dharma Versus Prophetic Creeds](ch2.htm)
 
 [3 The Spiritual Centre of Hindu Society](ch3.htm)
 
