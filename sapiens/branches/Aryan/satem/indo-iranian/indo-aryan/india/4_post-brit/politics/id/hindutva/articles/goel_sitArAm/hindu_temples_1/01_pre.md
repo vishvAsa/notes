@@ -31,7 +31,7 @@ Publisher
 
 **Footnotes:**
 
-[¹](#1a) “Hindu Temples” in the present context include temples belonging to all sects of Sanatana Dharma - Brahmanical, Buddhist, Jain and the rest.
+[^1]: “Hindu Temples” in the present context include temples belonging to all sects of Sanatana Dharma - Brahmanical, Buddhist, Jain and the rest.
 
 ------------------------------------------------------------------------
 
