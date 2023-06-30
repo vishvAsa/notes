@@ -30,10 +30,4 @@ title = "+hindu resistance to muslims"
 
 [5. The Lessons We Have to Learn](ch5.htm)
 
-[6. The Nature of National Frontiers](ch6.htm)  
- 
-
-------------------------------------------------------------------------
-
-**[Back to Home](http://voiceofdharma.org)   [Back to VOI
-Books](http://voiceofdharma.org/books)   [Back to Top](#top)**
+[6. The Nature of National Frontiers](ch6.htm)

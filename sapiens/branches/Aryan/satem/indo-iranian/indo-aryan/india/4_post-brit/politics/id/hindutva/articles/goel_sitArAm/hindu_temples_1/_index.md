@@ -49,10 +49,4 @@ title = "+hindu temples 1"
 
 [10. Let the Mute Witnesses Speak](ch10.htm)
 
-[Appendix](app.htm)  
- 
-
-------------------------------------------------------------------------
-
-**[Back to Home](http://voiceofdharma.org)   [Back to VOI
-Books](http://voiceofdharma.org/books)   [Back to Top](#top)**
+[Appendix](app.htm)

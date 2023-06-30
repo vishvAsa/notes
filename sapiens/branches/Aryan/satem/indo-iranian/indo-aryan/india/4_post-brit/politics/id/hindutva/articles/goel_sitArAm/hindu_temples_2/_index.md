@@ -67,10 +67,4 @@ APPENDICES
 [3. Meaning of the Word “Hindu”](app3.htm)  
 [4. Questionnaire for the Marxist Professors 408](app4.htm)
 
-[Bibliography](bib.htm)  
- 
-
-------------------------------------------------------------------------
-
-**[Back to Home](http://voiceofdharma.org)   [Back to VOI
-Books](http://voiceofdharma.org/books)   [Back to Top](#top)**
+[Bibliography](bib.htm)

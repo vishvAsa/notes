@@ -47,10 +47,4 @@ title = "+islamic imperialism india"
 
 [12. Islam Versus *Insāniyat* (Humanism)](ch12.htm)
 
-[Appendix](app.htm)  
- 
-
-------------------------------------------------------------------------
-
-**[Back to Home](http://voiceofdharma.org)   [Back to VOI
-Books](http://voiceofdharma.org/books)  [Back to Top](#top)**
+[Appendix](app.htm)

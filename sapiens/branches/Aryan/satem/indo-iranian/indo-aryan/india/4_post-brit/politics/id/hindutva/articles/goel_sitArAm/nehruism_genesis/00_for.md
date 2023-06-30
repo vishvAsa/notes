@@ -34,9 +34,4 @@ The dispute over this question is of the greatest importance for India's future.
 Bangalore  
 October 25, 1963
 
-PHILIP SPRATT  
-
-------------------------------------------------------------------------
-
-**[Back to Contents Page](index.htm)    [Back to VOI
-Books](http://www.voiceofdharma.com/books)    [Back to Home](http://www.voiceofdharma.com)**
+PHILIP SPRATT

@@ -261,10 +261,4 @@ District: Narsingdi
 
 **District: Habiganj**
 
-73\. Several temples in the District of Habiganj were attacked.  
- 
-
-------------------------------------------------------------------------
-
-**[Back to Contents Page](index.htm)    [Back to VOI
-Books](http://voiceofdharma.org/books)    [Back to Home](http://voiceofdharma.org)**
+73\. Several temples in the District of Habiganj were attacked.

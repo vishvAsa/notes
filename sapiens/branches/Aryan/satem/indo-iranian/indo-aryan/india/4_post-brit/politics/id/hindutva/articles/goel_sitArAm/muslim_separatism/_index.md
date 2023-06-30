@@ -44,8 +44,3 @@ title = "+muslim separatism"
 [12. Plea For a Historical Perspective](ch12.htm)
 
 [Appendix](app.htm)
-
-------------------------------------------------------------------------
-
-**[Back to Home](http://voiceofdharma.org)   [Back to VOI
-Books](http://voiceofdharma.org/books)  [Back to Top](#top)**

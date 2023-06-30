@@ -74,10 +74,4 @@ title = "+hindu christian encounters"
 
 [25. Calling the Pope’s Bluff](Ch25.htm)
 
-[Bibliography](bib.htm)  
- 
-
-------------------------------------------------------------------------
-
-**[Back to Home](http://voiceofdharma.org)   [Back to VOI
-Books](http://voiceofdharma.org/books)    [Back to Top](#top)**
+[Bibliography](bib.htm)

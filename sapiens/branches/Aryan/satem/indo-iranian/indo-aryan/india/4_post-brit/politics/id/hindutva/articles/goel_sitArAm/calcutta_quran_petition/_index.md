@@ -74,8 +74,3 @@ title = "+calcutta quran petition"
  
 
 **[Bibliography](bib.htm)**
-
-------------------------------------------------------------------------
-
-**[Back to Home](http://voiceofdharma.org)   [Back to VOI
-Books](http://voiceofdharma.org/books)   [Back to Top](#top)**

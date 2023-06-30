@@ -56,10 +56,3 @@ NEW DELHI**
 [18. Sappers and Miners of Communism](ch18.htm)
 
 [19. Choosing Between USA and USSR](ch19.htm)
-
- 
-
-------------------------------------------------------------------------
-
-**[Back to Home](http://www.voiceofdharma.com)    [Back to VOI
-Books](http://www.voiceofdharma.com/books)    [Back to Top](#top)**

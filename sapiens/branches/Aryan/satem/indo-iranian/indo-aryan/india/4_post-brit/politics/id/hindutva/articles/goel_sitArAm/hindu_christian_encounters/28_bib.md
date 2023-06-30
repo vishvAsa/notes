@@ -132,10 +132,4 @@ Bombay, 1988.
 
 Vivekananda, Swami, *The Complete Works*, 8 volumes, Calcutta, 1985 impression.
 
-Young, Richard Fox, *Resistant Hinduism*, Vienna, 1981.  
- 
-
-------------------------------------------------------------------------
-
-**[Back to Contents Page](index.htm)    [Back to VOI
-Books](http://voiceofdharma.org/books)   [Back to Home](http://voiceofdharma.org)**
+Young, Richard Fox, *Resistant Hinduism*, Vienna, 1981.

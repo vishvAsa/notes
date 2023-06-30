@@ -34,10 +34,4 @@ SITA RAM GOEL
 
 </div>
 
-25 March 1993   
- 
-
-------------------------------------------------------------------------
-
-**[Back to Contents Page](index.htm)    [Back to VOI
-Books](http://voiceofdharma.org/books)    [Back to Home](http://voiceofdharma.org)**
+25 March 1993

@@ -38,10 +38,4 @@ title = "+hindu society defence"
 
 [9 Character Of Nehruvian Secularism](ch9.htm)
 
-[10 The Trap and the Way Out](ch10.htm)  
- 
-
-------------------------------------------------------------------------
-
-**[Back to Home](http://voiceofdharma.org)  [Back to VOI
-Books](http://voiceofdharma.org/books)  [Back to Top](#top)**
+[10 The Trap and the Way Out](ch10.htm)
