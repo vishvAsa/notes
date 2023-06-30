@@ -31,7 +31,7 @@ title = "+muslim separatism"
 
 [6. Islamic Atavism Renamed Muslim Revivalism](ch6.htm)
 
-[7. Journey from Jihād to Jee-Huzūrî](ch7.htm)
+[7. Journey from Jihād to Jee-Huzūrī](ch7.htm)
 
 [8. National Resurgence Reviled as Hindu Revivalism](ch8.htm)
 

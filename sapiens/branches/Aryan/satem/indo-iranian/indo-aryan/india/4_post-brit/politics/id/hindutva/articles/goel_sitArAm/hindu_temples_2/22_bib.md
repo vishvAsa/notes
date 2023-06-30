@@ -17,11 +17,11 @@ Reports Made During the Years 1862-63-64-65 by Alexander Cunningham, Varanasi Re
 
 Arunachalam, M., *The Kalabharas in the Pantiya Country and their impact on the Life and Letters there*, Madras, 1979.
 
-Attār, Shykh Farîdu’d-Dîn, *Tadhkirāt al-Awliyā‘*, translated into Urdu by Maulāna Zubayr Afzal Usmānî, Delhi, n.d.  
+Attār, Shykh Farīdu’d-Dīn, *Tadhkirāt al-Awliyā‘*, translated into Urdu by Maulāna Zubayr Afzal Usmānī, Delhi, n.d.  
  
 
 *Bābur-Nāma (Memoirs of Bābur)*, translated from the original Turki text
-of Zahiru’d-dîn MuHammad Bābur Pādshāh *Ghāzî* by Annette Susannah Beveridge, Vols. I and II, New Delhi Reprint, 1979.
+of Zahiru’d-dīn MuHammad Bābur Pādshāh *Ghāzī* by Annette Susannah Beveridge, Vols. I and II, New Delhi Reprint, 1979.
 
 *The Bible*, translated into English, several editions.
 
@@ -38,7 +38,7 @@ Delhi Reprint, 1979.
 
 Chuvin, Pierre, *A Chronicle of the Last Pagans*, Harvard, 1990.
 
-Currie, P.M., *The Shrine and Cult of Mu‘in al-Dîn Chishtî of Ajmer*, OUP, 1989.  
+Currie, P.M., *The Shrine and Cult of Mu‘in al-Dīn Chishtī of Ajmer*, OUP, 1989.  
  
 
 David, M.D. (ed.), *Western Colonialism in Asia and Christianity*, Bombay, 1988.
@@ -85,7 +85,7 @@ Eschmann, Anncharllote et al., *The Cult of Jagannath and the Regional Tradition
 
 *Fourth Annual Report of the Minorities’ Commission*, New Delhi, 1983.
 
-*Futūhāt-i-Ālamgîrî* of Ishwardas Nagar, translated into English by
+*Futūhāt-i-Ālamgīrī* of Ishwardas Nagar, translated into English by
 Tanseem Ahmad, Delhi, 1978.  
  
 
@@ -94,7 +94,7 @@ Gardner, Rev. James, *Faiths of the World*, 2 Volumes, New Delhi Reprint, 1986.
 Gibbon, Edward, *The Decline and Fall of the Roman Empire*, Vol. III, Modern Library Edition, New York, n.d.
 
 Gillaume, A., *The Life of Muhammad*, A translation of Ibn Ishāq’s
-*Sîrat Rasūl Allāh*, OUP, Eighth Impression, Karachi, 1987.
+*Sīrat Rasūl Allāh*, OUP, Eighth Impression, Karachi, 1987.
 
 Glasse, Cyril, *The Concise Encyclopaedia of Islam*, London, 1987.
 
@@ -131,7 +131,7 @@ Delhi Reprint, 1985.
 Ishwar Sharan, *The Myth of St. Thomas and the Mylapore Shiva Temple*, New Delhi, 1991.  
  
 
-*Jāmi’ Tirmizî*, Arabic text with Urdu translation by Badî’ al-Zamān,
+*Jāmi’ Tirmizī*, Arabic text with Urdu translation by Badī’ al-Zamān,
 Vol. I, New Delhi, 1983.
 
 Johnson, Paul, *A History of Christianity*, Penguin Books, 1978.
@@ -142,7 +142,7 @@ by Kantilal Baldevram Vyas, 2 Volumes, Bombay, 1977.
 (Al) Khalifa, Shaikha Haya Ali and Rice, Michael (ed.), *Bahrain through
 the Ages, the Archaeology*, London, 1986.
 
-*Khaljî Kālîna Bhārata*, Persian texts translated into Hindi by S.A.A.
+*Khaljī Kālīna Bhārata*, Persian texts translated into Hindi by S.A.A.
 Rizvi, Aligarh, 1955.
 
 *Kitāb Futūh Al-Buldān* of al-Biladhuri, translated into English by F.C.
@@ -168,7 +168,7 @@ Volume V: *The Struggle for Empire*, Third edition, Bombay, 1976.
 Volume VI: *The Delhi Sultanate*, Bombay, 1960.  
 Volume VII: *The Mughal Empire*, Bombay, 1974.
 
-*Makkê Madînê dî Goshatî*, edited by Dr. Kulwant Singh, Patiala, 1988.
+*Makkê Madīnê dī Goshatī*, edited by Dr. Kulwant Singh, Patiala, 1988.
 
 Malik, Brigadier S.K., *The Quranic Concept of War*, New Delhi Reprint, 1986.
 
@@ -185,18 +185,18 @@ Muhammad alias Manjhu Gujarati, translated by Fazlullah Lutfullah Faridi, Gurgao
 
 Mirza, Mohammad Wahid, *The Life and Works of Amir Khusrau*, Delhi Reprint, 1974.
 
-*Mishkāt Sharîf*, Arabic text with Urdu translation, Delhi, n.d.
+*Mishkāt Sharīf*, Arabic text with Urdu translation, Delhi, n.d.
 
 Misra, Ram Gopal, *Indian Resistance to Early Muslim Invaders upto AD 1206*, Meerut City, 1983.
 
-*Mughal Kālîna Bhārata: Bābar*, Persian text translated into Hindi by
+*Mughal Kālīna Bhārata: Bābar*, Persian text translated into Hindi by
 S.A.A. Rizvi, Aligarh, 1960.
 
-*Muñhatā NaiNasîrî Khyāta*, edited by Badrîprasāda Sākariyā. Vol. 1,
+*Muñhatā NaiNasīrī Khyāta*, edited by Badrīprasāda Sākariyā. Vol. 1,
 second edition, Jodhpur, 1984.
 
 *Muntakhābu-t-Tawārikh* by ‘Abdul-l-Qādir ibn-i-Mulūk Shāh known as
-Al-Badāonî, translated from the original Persian and edited by George S.A. Ranking, 3 Volumes, Patna Reprint, 1973.
+Al-Badāonī, translated from the original Persian and edited by George S.A. Ranking, 3 Volumes, Patna Reprint, 1973.
 
 *Muraqqah-i-Khusrawi* of Shykh Azmat Ali Kakorwi Nami, cited by Harsh
 Narain, ‘Rama-Janmabhumi Temple: Muslim Testimony’, *Indian Express*, February 26, 1990.  
@@ -220,10 +220,10 @@ Price, Major David, *Mahommedan History*, Vol. I, New Delhi Reprint, 1984.
 
 Priolkar, A.K., *The Goa Inquisition*, New Delhi Reprint, 1991.
 
-*Qur’ān Majîd*, Text with translations into English, Hindi and Urdu,
+*Qur’ān Majīd*, Text with translations into English, Hindi and Urdu,
 Rampur (U.P.), sixth reprint, 1976.
 
-Rahman, Abdur, *The Last Two Dynasties of the Shāhîs*, Delhi Reprint, 1988.
+Rahman, Abdur, *The Last Two Dynasties of the Shāhīs*, Delhi Reprint, 1988.
 
 Ram Swarup: *Understanding Islam through Hadis: Religious Faith or Fanaticism?*, Second Reprint, New Delhi, 1987.
 
@@ -238,8 +238,8 @@ Abdus Salam, Delhi Reprint, 1976.
 
 Rosen, Steven, *Archaeology and the Vaishnava Traditions: The Pre-Christian Roots of Krishna-Worship*.  Calcutta. 1989.
 
-*SaHih Bukhārî Sharîf*, Arabic Text with Urdu Translation by Maulāna
-Abdu’l Hakim Khān Shāhjahānpurî, Vol. I, New Delhi, 1984.
+*SaHih Bukhārī Sharīf*, Arabic Text with Urdu Translation by Maulāna
+Abdu’l Hakim Khān Shāhjahānpurī, Vol. I, New Delhi, 1984.
 
 Sale, George, *The Koran or Alcoran of Mohammed*, London, n.d. Sarkar, Jadu Nath, *History of Aurangzeb*  
 Volume I and II, Calcutta, 1973 Impression  
@@ -260,55 +260,55 @@ Sharma, R.C., *Buddhist Art of Mathurā*, Delhi, 1984.
 
 Sharma, Sri Ram, *Religious Policy of the Mughal Emperors*, Bombay, 1962.
 
-*Sunn Nasāî Sharîf*, Arabic text with Urdu translation by ‘Alāma Wahîd
+*Sunn Nasāī Sharīf*, Arabic text with Urdu translation by ‘Alāma Wahīd
 al-Zamān, Vol. I, New delhi, 1986.  
  
 
-*The Tabqāt-i-Akbarî* of Khwājah Nizāmuddîn Ahmad, translated into
+*The Tabqāt-i-Akbarī* of Khwājah Nizāmuddīn Ahmad, translated into
 English by Brajendranath De, Vol. I, Calcutta Reprint, 1973.
 
-*Tabqāt-i-Ibn Sa‘d*, translated into Urdu by ‘Alāma Abdullāh al-Ahmadî,
+*Tabqāt-i-Ibn Sa‘d*, translated into Urdu by ‘Alāma Abdullāh al-Ahmadī,
 2 Volumes, karachi, n.d.
 
-*Tabqāt-i-Nāsirî* of Maulānā Minhāj-ud-Dîn, Abū ‘Umar-i-‘Usmān,
+*Tabqāt-i-Nāsirī* of Maulānā Minhāj-ud-Dīn, Abū ‘Umar-i-‘Usmān,
 translated from original Persian manuscripts by Major H.G. Raverty, Vol. I, New Delhi Reprint, 1971.
 
-*Tārîkh-i-Firishta*, translated into English by John Briggs under the
+*Tārīkh-i-Firishta*, translated into English by John Briggs under the
 title *History of the Rise of the Mahomedan Power in India*, 4 Volumes, New Delhi Reprint, 1981.
 
-*Tārîkh-i-Firishta*, translated into Urdu by ‘Abdul Haî  Khwājah, 2
+*Tārīkh-i-Firishta*, translated into Urdu by ‘Abdul Haī  Khwājah, 2
 Volumes, Deoband, 1983.
 
-*Tārîkh-i-Firishta*, translated into Urdu, Nawal Kishore Press, 2
+*Tārīkh-i-Firishta*, translated into Urdu, Nawal Kishore Press, 2
 Volumes, Lucknow, 1933.
 
-*Tārîkh-i-Firūz Shāhî* of Zia al-Dîn Baranî, translated into Urdu by
+*Tārīkh-i-Firūz Shāhī* of Zia al-Dīn Baranī, translated into Urdu by
 Sayyid Mu’in al-Haqq, second edition, Lahore, 1983.
 
-*Tārîkh-i-Khān Jahānî wa Makhzan-i-Afghānî* of Khwājah Ni’amatallāh
-Harwî, translated into Urdu by Muhammad Bashîr Husain, second edition, Lahore, 1986.
+*Tārīkh-i-Khān Jahānī wa Makhzan-i-Afghānī* of Khwājah Ni’amatallāh
+Harwī, translated into Urdu by Muhammad Bashīr Husain, second edition, Lahore, 1986.
 
-*Tārîkh-i-Mubārak Shāhî* of Yahya Sirhindî, translated into Urdu by
+*Tārīkh-i-Mubārak Shāhī* of Yahya Sirhindī, translated into Urdu by
 Āftāb Ashghar, second edition, Lahore, 1982.
 
-*Tārîkh-i-Tabarî*, translated into Urdu by Sayyid Muhammad Ibrāhîm, Vol.
-I: *Sîrat an-Nabî*, Karachi, n.d. 
+*Tārīkh-i-Tabarī*, translated into Urdu by Sayyid Muhammad Ibrāhīm, Vol.
+I: *Sīrat an-Nabī*, Karachi, n.d. 
 
 Thapar, Romila, ‘The Early History of Mathurā, upto and including the Mauryan period’ in *Mathurā: The Cultural Heritage*, edited by Doris Meth Sriniwasan, New Delhi, 1989.
 
 Thapar, Romila, *Cultural Transaction and Early India: Tradition and Patronage*, OUP, Delhi, 1987.
 
-*Tughlaq Kālîna Bhārata*, Persian texts translated into Hindi by S.A.A.
+*Tughlaq Kālīna Bhārata*, Persian texts translated into Hindi by S.A.A.
 Rizvi, 2 Volumes, Aligarh, 1956-57.
 
-*The Tūzuk-i-Jahangîrî or Memoirs of Jahāngir*, translated by Alexander
+*The Tūzuk-i-Jahangīrī or Memoirs of Jahāngir*, translated by Alexander
 Roger, edited by Henry Beveridge, third edition, New Delhi, 1978.
 
-*Tūzuk-i-Jahangîrî*, translated into English by Major David Price,
+*Tūzuk-i-Jahangīrī*, translated into English by Major David Price,
 Calcutta, 1906.  
  
 
-*Uttara Taimūra Kālîna Bhārata*, Persian texts translated into Hindi by
+*Uttara Taimūra Kālīna Bhārata*, Persian texts translated into Hindi by
 S.A.A. Rizvi, 2 Volumes, Aligarh, 1958-59.  
  
 
