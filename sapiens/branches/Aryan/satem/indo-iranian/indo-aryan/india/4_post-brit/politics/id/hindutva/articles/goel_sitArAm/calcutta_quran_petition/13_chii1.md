@@ -29,33 +29,13 @@ Dear Sir,
 
 **Sub: Request for proscription of ‘Koran’.**
 
-As you may be aware, the Islamic religious book, Koran, also spelt as
-‘Qur’an’, said to be a collection of revelations made through the angel
-Gabriel by the almighty Allah to the Prophet Muhammad, containing
-numerous sayings, repeated in the book over and over again, which on
-grounds of religion promote disharmony, feeling of enmity, hatred and
-ill-will between different religious communities and incite people to
-commit violence and disturb public tranquility, and though most of the
-events which had occasioned those sayings have now lost all historical
-significance, the book is still published in the unabridged form, with
-persistence, and clearly with the deliberate and malicious intention of
-outraging or insulting other religions and the religious feelings of
-other communities in India which is apparent from the fact that all the
-publishers of the book know very well that the various sayings of the
-book are offensive in this sense.
+As you may be aware, the Islamic religious book, Koran, also spelt as ‘Qur’an’, said to be a collection of revelations made through the angel Gabriel by the almighty Allah to the Prophet Muhammad, containing numerous sayings, repeated in the book over and over again, which on grounds of religion promote disharmony, feeling of enmity, hatred and ill-will between different religious communities and incite people to commit violence and disturb public tranquility, and though most of the events which had occasioned those sayings have now lost all historical significance, the book is still published in the unabridged form, with persistence, and clearly with the deliberate and malicious intention of outraging or insulting other religions and the religious feelings of other communities in India which is apparent from the fact that all the publishers of the book know very well that the various sayings of the book are offensive in this sense.
 
-Some of these sayings are reproduced for your ready reference in the
-three annexures enclosed to this letter.
+Some of these sayings are reproduced for your ready reference in the three annexures enclosed to this letter.
 
-As the publication of the book is thus an offence punishable under
-Sections 153A and 295A of the Indian Penal Code, each copy of the book,
-whether in the original Arabic or in its translation in Urdu, Bengali,
-Hindi, English or in any other language, is liable, in terms of Section
-95 of the Code of Criminal Procedure, 1973, to be declared to be
-forfeited to the Government.
+As the publication of the book is thus an offence punishable under Sections 153A and 295A of the Indian Penal Code, each copy of the book, whether in the original Arabic or in its translation in Urdu, Bengali, Hindi, English or in any other language, is liable, in terms of Section 95 of the Code of Criminal Procedure, 1973, to be declared to be forfeited to the Government.
 
-You are, therefore, requested to proscribe the book and, in the interest
-of the public at large, to do so promptly.
+You are, therefore, requested to proscribe the book and, in the interest of the public at large, to do so promptly.
 
 <div align="right">
 
