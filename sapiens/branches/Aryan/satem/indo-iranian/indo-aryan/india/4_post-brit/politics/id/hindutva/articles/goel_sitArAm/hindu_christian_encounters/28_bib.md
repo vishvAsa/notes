@@ -5,7 +5,6 @@ title = "28 Bibliography"
 **Bibliography**
 
 *Arun Shourie and his Christian Critic*, Voice of India, New Delhi,
-
 1995.
 
 Bates, M. Searle, *Religious Liberty: An Enquiry*, New York 1945. 
@@ -18,7 +17,8 @@ Burke, Marie Louis, *Swami Vivekananda in America*, Calcutta, 1958.
 
 Chuvin, Pierre, *A Chronicle of the Last Pagans*, Cambridge, Mass, USA, 1990.
 
-*Constituent Assembly Debates*, Volumes III, V and VII, New Delhi (1947-49.
+*Constituent Assembly Debates*, Volumes III, V and VII, New Delhi
+1947-49.
 
 Das, Sisir Kumar, *The Shadow of the Cross*, New Delhi, 1974. 
 
@@ -52,12 +52,12 @@ Gopal, Sarvepalli, *Radhakrishnan: A Biography*, OUP, 1989.
 
 *Hinduism Today*, monthly from Hawai, U.S.A., February, 1989. Indian 
 
-*Church History Review*, December 1967, July 1970, June 1972, December (1973, June and December 1981, December 1985, December 1988.
+*Church History Review*, December 1967, July 1970, June 1972, December
+1973, June and December 1981, December 1985, December 1988.
 
 Ishwar Sharan, *The Myth of St. Thomas and the Mylapore Shiva Temple*, Second Revised Edition, Voice of India, New Delhi, 1995.
 
 *Jeevadhara, A Journal of Christian Interpretation,* New Delhi,
-
 September, 1988.
 
 Johnson, Paul, *A History of Christianity,* London, 1978.
@@ -73,7 +73,6 @@ Mangalwadi, Vishal, *Missionary Conspiracy: Letters to a postmodern Hindu*, Muss
 Mitter, Partha, *The Much Maligned Monsters*, Oxford, 1977. 
 
 *National Christian Council Review*, The, 1945, 1946, 1947 and 1956
-
 volumes.
 
 Nehru, Jawaharlal, *Glimpses of World History*, OUP reprint, Fourth Impression, 1987.
@@ -105,7 +104,6 @@ Ram Swarup, *The Word As Revelation: Names of Gods*, New Delhi, 1980.
 Ram Swarup, *Pope John Paul II on Eastern Religions and Yoga: A Hindu-Buddhist Rejoinder*, Voice of India, New Delhi, 1995.
 
 *Report of the Christian Missionary Activities Enquiry Committee*,
-
 *Madhya Pradesh*, 3 Parts, Nagpur, 1956.
 
 Shiva Rao, B., *The Forming of India’s Constitution*, 5 volumes, Bombay, 1967.
@@ -118,7 +116,8 @@ Tagore, Rabindranath, *Gora*, A novel translated from Bengali into English, Calc
 
 Temple, Richard, *Oriental Experience*, London, 1883.
 
-*Thirty-four Conferences Between the Danish Missionaries and Malabarians (or Heathen Priests),* London, 1719.
+*Thirty-four Conferences Between the Danish Missionaries and Malabarians
+(or Heathen Priests),* London, 1719.
 
 Thomas, M. M., *The Acknowledged Christ of the Indian Renaissance*, Second Edition, Madras, 1976.
 
@@ -129,7 +128,6 @@ Thomas, P., *Christians and Christianity in India and Pakistan*, London, 1954.
 *United Nations and Human Rights, The,* UNO, New York, 1984.
 
 *Vatican Council II: The Conciliar and Post Conciliar Documents*,
-
 Bombay, 1988.
 
 Vivekananda, Swami, *The Complete Works*, 8 volumes, Calcutta, 1985 impression.
@@ -137,7 +135,7 @@ Vivekananda, Swami, *The Complete Works*, 8 volumes, Calcutta, 1985 impression.
 Young, Richard Fox, *Resistant Hinduism*, Vienna, 1981.  
  
 
+------------------------------------------------------------------------
+
 **[Back to Contents Page](index.htm)    [Back to VOI
-
 Books](http://voiceofdharma.org/books)   [Back to Home](http://voiceofdharma.org)**
-

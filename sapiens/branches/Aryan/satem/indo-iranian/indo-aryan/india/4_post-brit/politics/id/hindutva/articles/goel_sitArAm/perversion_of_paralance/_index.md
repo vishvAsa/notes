@@ -11,12 +11,22 @@ PERVERSION OF INDIA'S POLITICAL PARLANCE
 
   
 
-By (Sita Ram Goel (  
+By
 
-Published By Voice of India (  
+Sita Ram Goel
 
-New Delhi, India (  
   
+
+Published By Voice of India
+
+  
+
+New Delhi, India
+
+  
+  
+
+------------------------------------------------------------------------
 
   
   
@@ -43,5 +53,7 @@ New Delhi, India (
 
   
   
+
+------------------------------------------------------------------------
 
 [Back to Home](http://voiceofdharma.org/books)  

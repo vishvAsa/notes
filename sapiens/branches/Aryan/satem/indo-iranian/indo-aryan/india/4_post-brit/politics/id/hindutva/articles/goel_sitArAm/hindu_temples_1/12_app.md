@@ -18,9 +18,12 @@ We reproduce below a report received by us.
 **Occurred on the Pretext of Babri-Masjid / Ram-Mandir**  
 **Situation in India**
 
-(Translated from original in Bengali published by the Hindu, Buddhist (and Christian Unity Council, 53, Tejturi Bazar, Dhaka, Bangladesh)
+(Translated from original in Bengali published by the Hindu, Buddhist
+and Christian Unity Council, 53, Tejturi Bazar, Dhaka, Bangladesh)
 
-District: Narsingdi (1\. On November 11, 1989: The 400-year-old historic Kali-Temple at Chinishpur was looted and set on fire.
+District: Narsingdi
+
+1\. On November 11, 1989: The 400-year-old historic Kali-Temple at Chinishpur was looted and set on fire.
 
 2\. On the same day the Shiv-Temple of Brahmanadi was looted and set on fire.
 
@@ -163,7 +166,8 @@ District: Narsingdi (1\. On November 11, 1989: The 400-year-old historic Kali-Te
 
 49\. On November 9, in the city of Jhalakati almost all temples and the houses and shops belonging to the members of the minority communities were attacked.
 
-50\. The living quarters and a temple belonging to the famous folk poet (Charan Kabi) Mukunda Das was attacked and broken up.  
+50\. The living quarters and a temple belonging to the famous folk poet
+(Charan Kabi) Mukunda Das was attacked and broken up.  
  
 
 **District: Narayanganj**
@@ -203,82 +207,64 @@ District: Narsingdi (1\. On November 11, 1989: The 400-year-old historic Kali-Te
 
 **District: Feni**
 
-
 58\. On November 9, in the Union of Radhanagar, and on November 14 in the Union of Dhalia, under Chhagal-Naiya Upajila, temples were attacked and acts of breaking-up were carried out.
-
 
 59\. In the village of Char Sonapur under Sonagachhi Upajila, a temple was attacked and acts of breaking-up carried out on November 12. In the villages of Desherhat and Semerkhil several temple statutes were broken up.
 
-
 60\. The image of Goddess Kali in the village of Hirapur in Daganbhuia Upajila was broken up.
 
-
 61\. In the village of Daulatpur under Feni police station the image of Goddess Kali was broken up.
-
 
 62\. The image of Goddess Kali in the temple of Dakshineswari at Shubhapur Bazar in Chhagal-Naiya, was broken up and the place was looted and set on fire.  
  
 
 **District: Bhola**
 
-
 63\. On November 17, in the city of Bhola, several shops belonging to the religious minorities were attacked and money was collected through threats of violence.  
  
 
 **District: Comilla**
 
-
 64\. On November 11 at Muradpur, under Sadar Upajila, a temple was destroyed. In the village of Ramaganj a similar incident happened.
 
-
 65\. On November 11, at the festival of Rama-Thakur in the city of Comilla, attacks were made using stones and bricks and several people were injured.
-
 
 66\. On November 12, a Kali-Temple in the village of Gahin-khali under Barmbara Upajila was set on fire. Under Muradnagar Upajila at Ramachandrapur Bazar, a temple was totally destroyed.  
  
 
 **District: Brahmanbaria**
 
-
 67\. In the villages of Shyamgram and Srigram under Nabinagar Upajila several temples were attacked.  
  
 
 **District: Madaripur**
 
-
 68\. On November 11, the Hari-Temple of Puranabazar in the city of Madaripur was broken up and a procession against the religious minorities was taken out.
-
 
 69\. The Dhamusa’s Ashram of Kalkini was broken up.  
  
 
 **District: Munshiganj**
 
-
 70\. The Kali-Temple at Baligaon was broken up.  
  
 
 **District: Manikganj**
-
 
 71\. In Saduria Upajila at Saduria itself and in the village of Buriara temples were attacked and acts of breaking-up were committed.  
  
 
 **District: Pabna**
 
-
 72\. Temples and shops and businesses in the city of Pabna wore attacked and looted.  
  
 
 **District: Habiganj**
 
-
 73\. Several temples in the District of Habiganj were attacked.  
  
 
-
+------------------------------------------------------------------------
 
 **[Back to Contents Page](index.htm)    [Back to VOI
-
 Books](http://voiceofdharma.org/books)    [Back to Home](http://voiceofdharma.org)**
-

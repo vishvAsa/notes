@@ -39,8 +39,10 @@ The Koran, an Islamic book, published and sold in India in the original Arabic a
 
 **In the Matter of**
 
-1.  Chandmal Chopra, son of late Tikam Chand Chopra, aged 53, at present (    residing at 25, Burtolla Street, Calcutta - 7, and (2.  Sital Singh, son of late Lal Singh at present residing at No. 1,
+1.  Chandmal Chopra, son of late Tikam Chand Chopra, aged 53, at present
+    residing at 25, Burtolla Street, Calcutta - 7, and
 
+2.  Sital Singh, son of late Lal Singh at present residing at No. 1,
     Munshi Sadruddin Lane, Calcutta - 7.
 
 <div align="right">
@@ -63,7 +65,9 @@ To
 
 The Hon’ble Mr. Tarun Kumar Basu, the Acting Chief Justice and His Companion Justices of the said Hon’ble Court.
 
-The humble petition of the petitioners abovenamed most respectfully **S H E W E T H :**
+The humble petition of the petitioners abovenamed most respectfully
+
+**S H E W E T H :**
 
 1\. The petitioners are the citizens of India and are engaged in various types of social work.
 
@@ -74,7 +78,6 @@ The humble petition of the petitioners abovenamed most respectfully **S H E W E 
 4\. For example, in Surah 9, ayat 5, the book says, “When the sacred months are over, slay the idolaters wherever you find them. Arrest them, besiege them and lie in ambush everywhere for them.”
 
 In Surah 48, ayat 29, it says, “Muhammad is Allah’s apostle.  Those who follow him are ruthless to the unbelievers but merciful to one another… 
-
 Through them Allah seeks to enrage the unbelievers.”
 
 In surah 49, ayat 15, it says, “The true believers are those who have faith in Allah and His apostle and never doubt; and who fight for His cause with their wealth and persons.”
@@ -130,7 +133,6 @@ For example, in surah 60, ayat 4, it says, “We renounce you (i.e. idol-worship
 In surah 58, ayat 22, it says, “You shall find no believers in Allah and the Last Day on friendly terms with those who oppose Allah and His apostle, even though they may be their fathers, their sons, their brothers, or their nearest kindred.”
 
 In surah 9, ayat 23, it says “Believers! do not befriend your fathers or your brothers, if they choose unbelief in preference to faith. 
-
 Wrong-doers are those that befriend them.”
 
 In surah 3, ayat 28, it says, “Let believers not make friends with infidels in preference to the faithful; he that does this has nothing to hope for from Allah.”
@@ -144,7 +146,6 @@ In surah 9, ayat 7, it says, “Allah and His apostle repose no trust in idolate
 In surah 25, ayat 55, it says, “Yet the unbelievers worship idols which can neither help nor harm them.  Surely the unbeliever is his Lord’s enemy.”
 
 In surah 5, ayat 72, it says, “He that worships other Gods besides Allah shall be forbidden Paradise and shall be cast into the fire of Hell. 
-
 None shall help the evil-doers.”
 
 In surah 9, ayat 28, it says, “Believers! know that the idolaters are unclean.”
@@ -156,13 +157,11 @@ In surah 5, ayat 64, it says, “That which Allah has revealed to you will surel
 In surah 5, ayat 18, it says.  “The Jews and the Christians say, ‘We are the children of Allah and His loved ones.’ Say, ‘Why then does He punish you for your sins’?”
 
 In surah 5, ayat 51, it says, “Believers! take neither Jews nor Christians for your friends.  They are friends with one another. 
-
 Whoever of you seeks their friendship shall become one of their members.  Allah does not guide the wrong-doers.”
 
 6\. The book insults other religions or religious beliefs of other communities in India.
 
 For example, in surah 5 ayat 17, it says, “Unbelievers are those who declare, ‘Allah is the Messiah (i.e. the Christ), the son of Mary.’ 
-
 Say, ‘Who could prevent Allah from destroying the Messiah, the son of Mary, together with his mother and all the people of the earth’?”
 
 In surah 4, ayat 157, it says, “They denied the truth and uttered a monstrous falsehood against Mary.  They declared, ‘We have put to death the Messiah Jesus, the son of Mary, the apostle of Allah.’ They did not kill him nor did they crucify him but they thought they did.”
@@ -170,7 +169,6 @@ In surah 4, ayat 157, it says, “They denied the truth and uttered a monstrous 
 In surah 98, ayat 6, it says, “Me unbelievers among the people of the Book (i.e. the Christians and the Jews) and the pagans shall bum for ever in the fire of Hell.  They are the vilest of all creatures.”
 
 In surah 68, ayats 10 to 13, it says, “Give no heed to the disbelievers; they desire you to overlook their doings that they may overlook yours. 
-
 Nor yield to the wretch of many oaths, the mischief-making slanderer, the opponent of good, the wicked transgressor, the bully who is of doubtful birth to boot.”
 
 In surah 22, ayats 19 to 22, it says.  “Garments of fire have been prepared for unbelievers.  Scalding water shall be poured upon their heads, melting their skins and that which is in their bellies.  They shall be lashed with rods of iron.”
@@ -200,11 +198,9 @@ In surah 37, ayats 22 to 25, it says, “But We shall say, ‘Call the sinners, 
 In surah 7, ayat 173, it makes the Muslims say, “Our forefathers were indeed idol-worshippers, but will you destroy us, their descendants, on account of what the followers of falsehood did?”
 
 In surah 21, ayats 66 and 67, it says, “He answered, ‘Would you then worship that, instead of Allah, which can neither help nor harm you? 
-
 Shame on you and on your idols!  Have you no sense?”‘
 
 In surah 21, ayats 98 to 100, it says, “You and all your idols shall be the fuel of Hell; therein you shall all go down.  Were they true Gods, your idols would not go there; but in it they shall abide for ever. 
-
 They shall groan with pain and be bereft of hearing.”
 
 In surah 6, ayats 22 and 23, it says.  “On that day when We gather them all together, We shall say to the idolaters: ‘Where are your idols now, those whom you supposed to be your Gods?’ They will not argue, but will say, ‘By Allah, our Lord, we have never worshipped idols’.”
@@ -218,13 +214,11 @@ In surah 2, ayat 221, it says, “You shall not wed pagan women, unless they emb
 In surah 24, ayat 3, it says, “The adulterer may marry only an adulteress or an idolatress, and the adulteress may marry an adulterer or an idolater.”
 
 In surah 5, ayats 116 to 118, there is given this imaginary dialogue between Allah and Jesus Christ, which is highly insulting to the Christians: “Then Allah will say, ‘Jesus, son of Mary, did you ever say to mankind, worship me and my mother as Gods besides Allah?’ ‘Glory to You,’ he will answer, ‘How could I say that to which I have no right? 
-
 If I had ever said so, You would have surely known it.  You know what is in my mind, but I cannot tell what is in Yours.  You alone know what is hidden. I spoke to them of nothing except what You bade me. I say, Serve Allah, my Lord and your Lord. I watched over them whilst living in their midst, and ever since You took me to You, You Yourself have been watching over them.  You are the witness of all things.  They are Your own bondsmen.  It is for You to punish or to forgive them.  You are the Mighty, the Wise one’.”
 
 In surah 25, ayats 17 to 19, there is given another imaginary conversation, this time between Allah, the idols and the idol-worshippers, which is highly insulting to Christians, Buddhists, Hindus, etc.  “On the day when He assembles them with all their idols, He will say: ‘Was it you who misled My servants, or did they wilfully go astray?’ They will answer: ‘Allah forbid that we should choose other guardians besides You.  You gave them and their fathers the good things of life, so that they forgot Your warnings and thus incurred destruction.’ Then to the idolaters Allah will say: ‘Your idols have denied your charges.  They cannot avert your doom, nor can they help you.  Those of you who have done wrong shall be sternly punished’.”
 
 7\. While the Koran abounds with saying which incite violence, insult the religious beliefs of other communities and even exhort the Muslims to kill and murder non-Muslims, the problem is aggravated by yet another fact which has been true in the past and is universally true in our own times that unlike other communities Muslims are, and even fresh converts tend to become, highly orthodox people and follow the sayings of the book with a fanatical zeal with the result that whichever country has their sizable number amongst its population can never have peace on its soil.  The examples of communal strifes and conflicts in most European states have not yet passed into history.  What is happening in Lebanon is very much in our perception.  An example of orthodoxy is Pakistan whose Hindu population has been obliterated through murder or through forcible conversion.  Even Ahmediyas are being persecuted there because they regard Mirza Ghulam Ahmed (1839-1908 AD), the founder of their religion, as another prophet along with Muhammad which is contrary to Koran because according to the Koran Muhammad is the last prophet. 
-
 Baha’i religion, even though a Muslim sect and founded by Baha-ul-lah in Iran in the nineteenth century and which has some one million followers in India along with some 400,000 in Iran, has been banned in Indonesia on the ground that it stresses men’s spiritual unity, which is unconformable with Koranic preachings.  In Iran, Baha’is are being subjected to worst persecution; many have been executed, many more jailed without trial.  Even Baha’i students have been expelled from schools and colleges in Iran.  Another example of orthodoxy or religious intolerance is furnished by Iran and Iraq, both Muslim countries but both of which are out to fight tooth and nail with each other because one happens to be a Shia nation while the other a Sunni nation.  In our country, violent conflict resulting in numerous deaths between Shias and Sunnis is almost an annual ritual.  Another example of religious fanaticism is provided by the fact that the Muslim countries the world over have ganged up together to crush Israel, because it happens to be a Jewish state and as already stated in para 5 above, the Koran makes most uncharitable remarks about the Jews.
 
 8\. The offending expressions contained in the Koran and quoted in paragraphs 4, 5 and 6 above are not so offensive in their translation in which they are so quoted as they are in the original verses in Arabic or in Urdu, the very sound of whose inimitable symphony not only sends the Muslims to tears and ecstasy but arouses in them the worst communal passions and religious fanaticism which have manifested themselves in murder, slaughter, loot, arson, rape and destruction or desecration of holy places in historical times as also in contemporary period not only in India but almost all over the world.
@@ -235,13 +229,17 @@ Baha’i religion, even though a Muslim sect and founded by Baha-ul-lah in Iran 
 
 11\. The respondent, however, has not complied with the said request.
 
-12\. Being aggrieved by the failure of the respondent to accede to the said request, your petitioners beg to move this petition before this Hon’ble Court on the following (> > **G R O U N D** > > > > The respondent, by not declaring, inspite of a specific request, > > copies of the ‘Koran’ to be forfeited to the Government, even though > > its publication amounts to commission of offences punishable under > > Sections 153A and 295A, Indian Penal Code, has failed to discharge > > its statutory duty as enshrined in Section 95 of the Code of > > Criminal Procedure, 1973.
+12\. Being aggrieved by the failure of the respondent to accede to the said request, your petitioners beg to move this petition before this Hon’ble Court on the following
+
+> > **G R O U N D** > > > > The respondent, by not declaring, inspite of a specific request, > > copies of the ‘Koran’ to be forfeited to the Government, even though > > its publication amounts to commission of offences punishable under > > Sections 153A and 295A, Indian Penal Code, has failed to discharge > > its statutory duty as enshrined in Section 95 of the Code of > > Criminal Procedure, 1973.
 
 13\. There is no other adequate, efficacious and alternative remedy available to your petitioners and the reliefs prayed for herein, if granted, will afford complete and efficacious remedy to your petitioners.
 
 14\. The petition is being made bonafide and in the interest of the public.
 
-In the circumstances aforesaid your petitioners humbly pray to your Lordships for (A. A rule nisi on the respondent to show cause as to why a writ of mandamus be not issued to it directing it to declare each copy of the Koran, whether in the original Arabic or in its translation in any of the languages as forfeited to the Government.
+In the circumstances aforesaid your petitioners humbly pray to your Lordships for
+
+A. A rule nisi on the respondent to show cause as to why a writ of mandamus be not issued to it directing it to declare each copy of the Koran, whether in the original Arabic or in its translation in any of the languages as forfeited to the Government.
 
 B. The rule issued in terms of prayer ‘A’ above be made absolute.
 
@@ -252,7 +250,12 @@ And your petitioners as in duty bound shall ever pray.
 <div align="right">
 
 Sd/- Chandmal Chopra.  
-Sd/- Sital Singh (29th March, 1985.
+Sd/- Sital Singh
+
+29th March, 1985.
 
 </div>
+
+------------------------------------------------------------------------
+
 

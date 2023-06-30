@@ -14,13 +14,15 @@ title = "+hindu society defence"
 
 **Voice of India, New Delhi**
 
+------------------------------------------------------------------------
+
 ![](hs.jpg)
 
 **Contents**
 
 [1 The Situation at Present](ch1.htm)
 
-[2 Sanātana Dharma Versus Prophetic Creeds](ch2.htm)
+[2 Sanãtana Dharma Versus Prophetic Creeds](ch2.htm)
 
 [3 The Spiritual Centre of Hindu Society](ch3.htm)
 
@@ -39,7 +41,7 @@ title = "+hindu society defence"
 [10 The Trap and the Way Out](ch10.htm)  
  
 
+------------------------------------------------------------------------
+
 **[Back to Home](http://voiceofdharma.org)  [Back to VOI
-
 Books](http://voiceofdharma.org/books)  [Back to Top](#top)**
-

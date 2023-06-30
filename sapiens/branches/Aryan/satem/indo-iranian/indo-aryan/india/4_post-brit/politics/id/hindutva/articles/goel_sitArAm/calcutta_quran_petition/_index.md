@@ -4,13 +4,17 @@ title = "+calcutta quran petition"
 +++
 ------------------------------------------------------------------------
 
-# The Calcutta Quran Petition (  
+# The Calcutta Quran Petition
+
+  
 **Compiled with an introduction by**
 
 **Sita Ram Goel**  
  
 
 **Voice of India, New Delhi**
+
+------------------------------------------------------------------------
 
   
 ![](tcqp.jpg)  
@@ -71,7 +75,7 @@ title = "+calcutta quran petition"
 
 **[Bibliography](bib.htm)**
 
+------------------------------------------------------------------------
+
 **[Back to Home](http://voiceofdharma.org)   [Back to VOI
-
 Books](http://voiceofdharma.org/books)   [Back to Top](#top)**
-

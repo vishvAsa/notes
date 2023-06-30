@@ -19,6 +19,8 @@ title = "+hindu temples 2"
 **NEW DELHI**  
  
 
+------------------------------------------------------------------------
+
 ![](Ht2.jpg)
 
 **Contents**
@@ -29,7 +31,7 @@ title = "+hindu temples 2"
 THE TIP OF AN ICEBERG
 
 [1. The Dispute at Sidhpur](ch1.htm)  
-[2. The Story of Rudramahālaya](ch2.htm)  
+[2. The Story of Rudramahãlaya](ch2.htm)  
 [3. Muslim Response to Hindu Protection](ch3.htm)
 
 **Section II**  
@@ -68,7 +70,7 @@ APPENDICES
 [Bibliography](bib.htm)  
  
 
+------------------------------------------------------------------------
+
 **[Back to Home](http://voiceofdharma.org)   [Back to VOI
-
 Books](http://voiceofdharma.org/books)   [Back to Top](#top)**
-

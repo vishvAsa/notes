@@ -17,6 +17,8 @@ title = "+islamic imperialism india"
 
 **Voice of India, New Delhi**
 
+------------------------------------------------------------------------
+
 ![](siii.jpg)
 
 **Contents**
@@ -43,12 +45,12 @@ title = "+islamic imperialism india"
 
 [11. Of Assimilation and Synthesis](ch11.htm)
 
-[12. Islam Versus *Insāniyat* (Humanism)](ch12.htm)
+[12. Islam Versus *Insãniyat* (Humanism)](ch12.htm)
 
 [Appendix](app.htm)  
  
 
+------------------------------------------------------------------------
+
 **[Back to Home](http://voiceofdharma.org)   [Back to VOI
-
 Books](http://voiceofdharma.org/books)  [Back to Top](#top)**
-
