@@ -21,8 +21,6 @@ title = "+hindu temples 1"
 
 **Voice of India, New Delhi**
 
-------------------------------------------------------------------------
-
 ![](Ht1.jpg)
 
 **Contents**
@@ -52,7 +50,7 @@ title = "+hindu temples 1"
 [Appendix](app.htm)  
  
 
-------------------------------------------------------------------------
-
 **[Back to Home](http://voiceofdharma.org)   [Back to VOI
+
 Books](http://voiceofdharma.org/books)   [Back to Top](#top)**
+

@@ -11,22 +11,12 @@ HOW I BECAME HINDU
 
   
 
-By
+By (Sita Ram Goel (  
 
-Sita Ram Goel
+Published By Voice of India (  
 
+New Delhi, India (  
   
-
-Published By Voice of India
-
-  
-
-New Delhi, India
-
-  
-  
-
-------------------------------------------------------------------------
 
   
   
@@ -52,7 +42,5 @@ New Delhi, India
 [Chapter 9 : Nightmare Of Nehruism](ch9.htm)
 
   
-
-------------------------------------------------------------------------
 
 [Back to Home](http://voiceofdharma.org/books)  

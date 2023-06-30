@@ -13,9 +13,7 @@ title = "19 (7) THE REVIEW APPLICATION MATTER NO. 297 OF 1985 IN THE HIGH COURT 
 
 In the Matter of an application for condonation of delay in the submission of the review application.
 
-In the matter of
-
-Chandmal Chopra & Anr.
+In the matter of (Chandmal Chopra & Anr.
 
 <div align="right">
 
@@ -23,11 +21,7 @@ Chandmal Chopra & Anr.
 
 </div>
 
-Versus
-
-The State of West Bengal
-
-<div align="right">
+Versus (The State of West Bengal (<div align="right">
 
 \- Respondent.
 
@@ -37,9 +31,7 @@ To
 
 1\. The Hon’ble Mr. Satish Chandra, the Chief Justice and His Companion Justices of the said High Court.
 
-The humble petition of the applicant above-named most respectfully
-
-**S H E W E T H :**
+The humble petition of the applicant above-named most respectfully **S H E W E T H :**
 
 1\. That the judgment in the above matter was delivered on 17th May, 1985.
 
@@ -74,14 +66,10 @@ Chandmal Chopra of 25, Burtolla Street, Calcutta - 7.
 
 <div align="right">
 
--  Applicant
-
-</div>
+-  Applicant (</div>
 
 Petitioner.  
-Versus
-
-The State of West Bengal, represented by the Secretary, Department of Home,  Govt. of  West Bengal,  having his office  at Writers’  Building, Calcutta - 1.
+Versus (The State of West Bengal, represented by the Secretary, Department of Home,  Govt. of  West Bengal,  having his office  at Writers’  Building, Calcutta - 1.
 
 <div align="right">
 
@@ -89,9 +77,7 @@ The State of West Bengal, represented by the Secretary, Department of Home,  Gov
 
 </div>
 
-Being aggrieved by some mistakes or errors apparent from the judgment dated 17.5.85 passed by His Lordship Mr. Justice Bimal Chandra Basak dismissing in limine the Court Application in Matter No. 297 of 1985 from which no appeal has been filed and due to the discovery of new and important matter which inspite of exercise of due diligence could not be produced by the applicant at the time when the matter was heard, the applicant above-named begs to file this memo of review against the aforesaid decision on the following amongst other
-
-**G R O U N D S**
+Being aggrieved by some mistakes or errors apparent from the judgment dated 17.5.85 passed by His Lordship Mr. Justice Bimal Chandra Basak dismissing in limine the Court Application in Matter No. 297 of 1985 from which no appeal has been filed and due to the discovery of new and important matter which inspite of exercise of due diligence could not be produced by the applicant at the time when the matter was heard, the applicant above-named begs to file this memo of review against the aforesaid decision on the following amongst other **G R O U N D S**
 
 1\. For that the findings in paragraph 28 of the judgment that the Koran is of divine origin and that the Koran has no earthly source, based as they are not on any evidence but on mere religious beliefs, are derogatory to the basic constitutional principle of secularism and are therefore unconstitutional.
 
@@ -134,9 +120,7 @@ Sd/-
 
 Chandmal Chopra  
 -vs-  
-State of West Bengal
-
-**S U B M I S S I O N S**
+State of West Bengal **S U B M I S S I O N S**
 
 **May It Please Your Lordship**
 
@@ -146,10 +130,10 @@ This is an application for review of the judgement delivered in the above matter
 
 \(2\) The Court cannot sit in judgment on a holy book... (Paragraph 34).
 
-&gt;(3) It cannot be said that Koran offers any insult to any other
-religion. (Paragraph 31).
+&gt;(3) It cannot be said that Koran offers any insult to any other (religion. (Paragraph 31).
 
 \(4\) Section 153A of the Indian Penal Code has no application.
+
 (Paragraph 37).
 
 I now propose to deal with the grounds of review according to the serial in which they appear in my review petition.
@@ -157,6 +141,7 @@ I now propose to deal with the grounds of review according to the serial in whic
 **GROUND NO. 1**
 
 1\. The findings that the Koran is of divine origin and that it has no earthly source are based on religious beliefs and not on evidence. 
+
 Unlike in a theocratic state (where Government is run by priests claiming to rule with divine authority), the courts of law in a secular state, it is respectfully submitted, cannot give their findings based on religious beliefs.  Rather, the courts of law in a secular state, in giving findings and in arriving at conclusions must necessarily act in disbelief, or disregard, of religious faiths and beliefs.  The term “secularism” as defined by Webster’s New World Dictionary, Second College Edition, 1972, means “a system of doctrines and practices that disregards or rejects any form of religious faith…” and, secondly, secularism “is the belief that religion and ecclesiastical affairs should not enter into the functions of the state…” According to Funk and Wagnalls New Standard Dictionary of the English Language, 1963, a secularist is “one who believes that religion should not be introduced into the management of public affairs.” According to Webster’s Third New International Dictionary, Unabridged (1971), secularism means “a view of life or of any particular matter based on the premise that religious considerations should be ignored or purposely excluded.” According to the Concise Oxford Dictionary, the word “secular” means “sceptical of religious truth.” Accordingly, it is respectfully submitted that in consonance with the principle of secularism, this court should have disbelieved or disregarded, all religious beliefs about Koran.
 
 It is therefore submitted that the findings given about the divine origin of Koran are derogatory to the basic constitutional principle of secularism and are therefore unconstitutional.
@@ -173,41 +158,36 @@ It is therefore submitted that the findings given about the divine origin of Kor
 
 1\. The finding that Koran does not insult other religions, is not, it is respectfully submitted, correct in view of the various quotations from the book given in para 6 of the Writ Application, in particular the following, none of which, it is respectfully submitted, undergoes any change in its meaning even if read in its context:
 
-(a)  “Unbelievers are those who declare, Allah is the Messiah (i.e. the
-Christ), the son of Mary.  Say, ‘Who could prevent Allah from destroying the Messiah, the son of Mary, together with his mother?”
+(a)  “Unbelievers are those who declare, Allah is the Messiah (i.e. the (Christ), the son of Mary.  Say, ‘Who could prevent Allah from destroying the Messiah, the son of Mary, together with his mother?”
 
-(b)  “The unbelievers among the people of the Book (i.e. the Christians
-and the Jews) and the pagans shall burn for ever in the fire of Hell. 
+(b)  “The unbelievers among the people of the Book (i.e. the Christians (and the Jews) and the pagans shall burn for ever in the fire of Hell. 
+
 They are the vilest of all creatures.”
 
-(c)  “He answered: Would you then worship that, instead of Allah, which
-can neither help nor harm you?  Shame on you and on your idols.”
+(c)  “He answered: Would you then worship that, instead of Allah, which (can neither help nor harm you?  Shame on you and on your idols.”
 
-(d)  “You and all your idols shall be the fuel of Hell; therein you
-shall all go down.  Were they true Gods, your idols would not go there; but in it they shall abide for ever.  They shall groan with pain and be bereft of hearing.”
+(d)  “You and all your idols shall be the fuel of Hell; therein you (shall all go down.  Were they true Gods, your idols would not go there; but in it they shall abide for ever.  They shall groan with pain and be bereft of hearing.”
 
-(e)  “Then Allah will say, ‘Jesus, son of Mary, did you ever say to
-mankind, worship me and my mother as Gods besides Allah?’ ‘Glory to You,’ he will answer, ‘How could I say that to which I have no right? 
+(e)  “Then Allah will say, ‘Jesus, son of Mary, did you ever say to (mankind, worship me and my mother as Gods besides Allah?’ ‘Glory to You,’ he will answer, ‘How could I say that to which I have no right? 
+
 If I had ever said so, You would have surely known it.  You know what is in my mind, but I cannot tell what is in Yours.  You alone know what is hidden. I spoke to them of nothing except what You bade me. I say, Serve Allah, my Lord. I watched over them whilst living in their midst, and ever since You took me to You, You Yourself have been watching over them.  You are the witness of all things.  They are Your own bondsmen. 
+
 It is for You to punish or to forgive them.  You are the Mighty, the Wise One’.”
 
-(f)  “On the day when He assembles them with all their idols, He will
-say: ‘Was it you who misled My servants, or did they wilfully go astray?’ They will answer: ‘Allah forbid that we should choose other guardians besides You.  You gave them and their fathers the good things of life, so that they forgot Your warnings and thus incurred destruction.’ Then to the idolaters Allah will say: ‘Your idols have denied your charges.  Those of you who have done wrong shall be sternly punished’.”
+(f)  “On the day when He assembles them with all their idols, He will (say: ‘Was it you who misled My servants, or did they wilfully go astray?’ They will answer: ‘Allah forbid that we should choose other guardians besides You.  You gave them and their fathers the good things of life, so that they forgot Your warnings and thus incurred destruction.’ Then to the idolaters Allah will say: ‘Your idols have denied your charges.  Those of you who have done wrong shall be sternly punished’.”
 
 **GROUND NO. 5**
 
 The finding that Section 153A has no application in this case is not, it is respectfully submitted, correct, as the various quotations from Koran already given in paragraph 5 of the Writ Application including the following, none of which, it is respectfully submitted, undergo any change in its meaning even if read in its context, do promote, on grounds of religion, disharmony, or feelings of enmity, hatred and ill-will between different religious communities:
 
-(a)  “We renounce you (i.e. idol-worshippers); enmity and hate shall
-reign between us until you believe in Allah only.”
+(a)  “We renounce you (i.e. idol-worshippers); enmity and hate shall (reign between us until you believe in Allah only.”
 
-(b)  “Believers! do not befriend your fathers or your brothers, if they
-choose unbelief in preference to faith.  Wrongdoers are those that befriend them.”
+(b)  “Believers! do not befriend your fathers or your brothers, if they (choose unbelief in preference to faith.  Wrongdoers are those that befriend them.”
 
-(c)  “Therefore, We stirred among them (i.e. the Christians) enmity and
-hatred, which shall endure till the Day of Resurrection.”
+(c)  “Therefore, We stirred among them (i.e. the Christians) enmity and (hatred, which shall endure till the Day of Resurrection.”
 
 (d)  “Believers! take neither Jews nor Christians for your friends. 
+
 They are friends with one another.  Whoever of you seeks their friendship shall become one of their number.  Allah does not guide the wrong-doers.”
 
 **GROUND NO. 6**
@@ -224,8 +204,8 @@ The petition was not filed, it is respectfully submitted, in a sudden fit of rel
 
 **Re: Jurisdiction of Writ Court to bear Review Application.**
 
-Lastly, in support of my humble plea that this Hon’ble Court has ample jurisdiction to entertain a review application, I may submit that in
-*Shivdeo Singh* - vs - *State of Punjab* (A.I.R. 196 S.C. 1909, 1911)
+Lastly, in support of my humble plea that this Hon’ble Court has ample jurisdiction to entertain a review application, I may submit that in *Shivdeo Singh* - vs - *State of Punjab* (A.I.R. 196 S.C. 1909, 1911)
+
 the Supreme Court has held that “the power of review inheres in every court of plenary jurisdiction to prevent miscarriage of justice or to correct grave and palpable errors committed by it.”
 
 <div align="right">
@@ -237,7 +217,4 @@ Sd/-
 
 18th June, 1985  
  
-
-------------------------------------------------------------------------
-
 

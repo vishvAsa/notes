@@ -36,7 +36,7 @@ October 25, 1963
 
 PHILIP SPRATT  
 
-------------------------------------------------------------------------
-
 **[Back to Contents Page](index.htm)    [Back to VOI
+
 Books](http://www.voiceofdharma.com/books)    [Back to Home](http://www.voiceofdharma.com)**
+

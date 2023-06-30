@@ -4,16 +4,12 @@ title = "+muslim separatism"
 +++
 ------------------------------------------------------------------------
 
-# Muslim Separatism
-
-**Causes and Consequences**  
+# Muslim Separatism **Causes and Consequences**  
  
 
 **Sita Ram Goel**
 
 **Voice of India, New Delhi**
-
-------------------------------------------------------------------------
 
 ![](ms.jpg)
 
@@ -31,7 +27,7 @@ title = "+muslim separatism"
 
 [6. Islamic Atavism Renamed Muslim Revivalism](ch6.htm)
 
-[7. Journey from Jihãd to Jee-Huzûrî](ch7.htm)
+[7. Journey from Jihād to Jee-Huzūrī](ch7.htm)
 
 [8. National Resurgence Reviled as Hindu Revivalism](ch8.htm)
 
@@ -45,7 +41,7 @@ title = "+muslim separatism"
 
 [Appendix](app.htm)
 
-------------------------------------------------------------------------
-
 **[Back to Home](http://voiceofdharma.org)   [Back to VOI
+
 Books](http://voiceofdharma.org/books)  [Back to Top](#top)**
+

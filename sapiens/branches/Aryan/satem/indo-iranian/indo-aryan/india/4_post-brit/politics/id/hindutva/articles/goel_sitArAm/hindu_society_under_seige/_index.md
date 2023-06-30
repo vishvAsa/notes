@@ -12,8 +12,6 @@ title = "+hindu society under seige"
 
 **Voice of India, New Delhi**
 
-------------------------------------------------------------------------
-
 ![](hsus.jpg)
 
 **Contents**
@@ -31,7 +29,7 @@ title = "+hindu society under seige"
 [6. The United Front of Hostile Forces](ch6.htm)  
  
 
-------------------------------------------------------------------------
-
 **[Back to Home](http://voiceofdharma.org)   [Back to VOI
+
 Books](http://voiceofdharma.org/books)   [Back to Top](#top)**
+

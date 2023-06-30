@@ -14,8 +14,6 @@ title = "+hindu christian encounters"
 
 **Voice of India, New Delhi**
 
-------------------------------------------------------------------------
-
 ![](hhce.jpg)
 
 **Contents**
@@ -77,7 +75,7 @@ title = "+hindu christian encounters"
 [Bibliography](bib.htm)  
  
 
-------------------------------------------------------------------------
-
 **[Back to Home](http://voiceofdharma.org)   [Back to VOI
+
 Books](http://voiceofdharma.org/books)    [Back to Top](#top)**
+

@@ -9,8 +9,6 @@ title = "+nehruism genesis"
 **VOICE OF INDIA  
 NEW DELHI**
 
-------------------------------------------------------------------------
-
 **Contents**
 
 [Foreword By Philip Spratt](for.htm)
@@ -59,7 +57,7 @@ NEW DELHI**
 
  
 
-------------------------------------------------------------------------
-
 **[Back to Home](http://www.voiceofdharma.com)    [Back to VOI
+
 Books](http://www.voiceofdharma.com/books)    [Back to Top](#top)**
+

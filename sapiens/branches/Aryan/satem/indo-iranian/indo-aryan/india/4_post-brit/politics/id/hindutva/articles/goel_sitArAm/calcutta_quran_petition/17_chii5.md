@@ -93,6 +93,7 @@ The State of West Bengal, represented by Secretary, Department of Home, Governme
 </div>
 
 **I, TIMIR HARAN SEN GUPTA**, Deputy Secretary, Home Department,
+
 Government of West Bengal, residing at Saptarany Flat 9, 1113 Old Ballygunge, 2nd Lane, Calcutta - 19, solemnly affirm and say as follows:
 
 1\. I am competent enough and have been duly authorised to affirm the affidavit.
@@ -117,7 +118,4 @@ Sd/-
 (Timir Haran Sen Gupta).
 
 </div>
-
-------------------------------------------------------------------------
-
 

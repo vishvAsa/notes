@@ -4,17 +4,13 @@ title = "+hindu resistance to muslims"
 +++
 ------------------------------------------------------------------------
 
-# Heroic Hindu Resistance to Muslim Invaders
-
-**(636 AD to 1206 AD)**  
+# Heroic Hindu Resistance to Muslim Invaders **(636 AD to 1206 AD)**  
  
 
 **SITA RAM GOEL**  
  
 
 **Voice of India, New Delhi**
-
-------------------------------------------------------------------------
 
 ![](hhrmi.jpg)
 
@@ -33,7 +29,7 @@ title = "+hindu resistance to muslims"
 [6. The Nature of National Frontiers](ch6.htm)  
  
 
-------------------------------------------------------------------------
-
 **[Back to Home](http://voiceofdharma.org)   [Back to VOI
+
 Books](http://voiceofdharma.org/books)   [Back to Top](#top)**
+
