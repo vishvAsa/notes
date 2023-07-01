@@ -37,56 +37,73 @@ Plant matter contains substantial carbon content,[^2] and we now connect the kno
 
 In terms of efficiency, plants tend to convert sunlight into stored chemical energy at a rate of 0.01-6%. The range is rather large due to limitations in water and nutrients. A well-watered and fertilized corn field might reach 1.5% efficiency. Algae tend to top the charts at 5-6%. Dry climates might have ample sunlight, but too little water for efficient use of the available light. Box 14.2 provides an example of how one might estimate what fraction of incident solar energy is turned into chemical storage by a potato plant.
 
-Box 14.2: Example Photosynthetic Efficiency
+<details><summary>Box 14.2: Example Photosynthetic Efficiency</summary>
 
-Let us consider a potato plant (Figure 14.2) as an example by which to estimate photosynthetic efficiency. The potato plant might have a leafy footprint of 0.5 $m^2$ -a square roughly 0.7 m on a side or a circle about 0.8 m in diameter and produce four 0.5 kg potatoes, or 2 kg of starchy material. Carbohydrates have an energy density of 4 kcal/g, so the potato plant has stored 8,000 kcal, or about 32 MJ.3
+Let us consider a potato plant (Figure 14.2) as an example by which to estimate photosynthetic efficiency. The potato plant might have a leafy footprint of 0.5 $m^2$ -a square roughly 0.7 m on a side or a circle about 0.8 m in diameter and produce four 0.5 kg potatoes, or 2 kg of starchy material. Carbohydrates have an energy density of 4 kcal/g, so the potato plant has stored 8,000 kcal, or about 32 MJ.[^3]
 
-If the typical five-month growing-season (~ 1.25 x $10^7$ s) has insolation of 250 $W/m^2$, the plant collects 125 W[^5] times 1.25 x $10^{7}$ or 1.6 x $10^{9}$ J, while making 32 MJ of spuds. The photosynthetic
+[^3]: Recall 4,184 J per kcal.
 
-S,
+If the typical five-month growing-season (~ 1.25 x $10^7$ s) has insolation[^4] of 250 $W/m^2$, the plant collects 125 W[^5] times 1.25 x $10^{7}$ or 1.6 x $10^{9}$ J, while making 32 MJ of spuds. The photosynthetic efficiency is calculated as the ratio of output to input: about 2% in this case.
 
-0.5 m2
-area
-250 $W/m^2$
-average
-4x0.5 kg
+
+[^4]: ...  summer, averaging day/night and weather
+
+[^5]: 250 $W/m^2$ times the plant area
+
 Figure 14.2: The potato plant in Box 14.2.
-3: Recall 4,184 J per kcal.
-4:
-...
-summer, averaging day/night and
-weather
-5: 250 $W/m^2$ times the plant area
+</details>
 
-efficiency is calculated as the ratio of output to input: about 2% in this case.
+
+
 
 229
-14.2 Biomass
-Biological mass, or biomass, has long been utilized to supplement our energy needs, via controlled use of fire starting hundreds of thousands of years ago. Burning wood or other plant matter, and in some places dried animal feces counts as utilization of biomass. Wood provides about 4 kcal of energy per gram when burned, or about 16 MJ/kg-much like proteins or carbohydrates in our diet. Burning of biomass is most typically used for heating and cooking within individual homes.
-Example 14.2.1 A 10 kg bundle of dry firewood is used to heat a home that requires 4,000 W to stay warm. How long will the wood last?8
+
+## 14.2 Biomass
+Biological mass, or biomass, has long been utilized to supplement our energy needs, via controlled use of fire starting hundreds of thousands of years ago. Burning wood or other plant matter, and in some places dried animal feces[^6] counts as utilization of biomass. Wood provides about 4 kcal of energy per gram when burned, or about 16 MJ/kg-much like proteins or carbohydrates[^7] in our diet. Burning of biomass is most typically used for heating and cooking within individual homes.
+
+
+[^6]: such as cow dung
+[^7]: Fats and hydrocarbons like fossil fuels are 2-3 times more energy dense.+++(4)+++
+
+<details><summary>Example 14.2.1</summary>
+
+A 10 kg bundle of dry firewood is used to heat a home that requires 4,000 W to stay warm. How long will the wood last?[^8]
+
 Every gram of wood has 4 kcal or about 16 kJ of energy. We get 4,000 W by burning one gram every 4 seconds: 16 kJ/4 s is 4 kW. Each kilogram will therefore take about 4,000 s (a little over an hour) and the whole bundle will be gone after 11 hours.
-In the U.S. in 2018, 2.36 qBtu of the 101.25 qBtu total came from burning wood, and an additional 0.5 qBtu came from incinerating waste products [^34]. Thus about 2.8% (0.1 TW) of U.S. energy comes from biomass. Out of the 11.41 qBtu of all renewables in 2018, biomass accounted for 25% of the U.S. renewable budget."
-Globally, biomass use is estimated to be more important, at 6%,10 constituting more than a third of global renewable resources (Fig. 7.8; p. 109). The high use of biomass in the wider world is a reflection on the difference between developed countries like the U.S. and developing countries that are more likely to rely on more primitive forms of energy like firewood and animal dung. Since most biomass around the world is burned for individual use, emissions controls are essentially non-existent, resulting in high levels of pollution-smoke and harmful chemicals that would be scrubbed out of a power plant's exhaust.11
-6:
-such as cow dung
-7: Fats and hydrocarbons like fossil fuels are 2-3 times more energy dense.
-8: ... assuming a wood stove or other effi- cient device to prevent most heat from just escaping through the chimney
+
+[^8]: ... assuming a wood stove or other efficient device to prevent most heat from just escaping through the chimney
+</details>
+
+In the U.S. in 2018, 2.36 qBtu of the 101.25 qBtu total came from burning wood, and an additional 0.5 qBtu came from incinerating waste products [^34]. Thus about 2.8% (0.1 TW) of U.S. energy comes from biomass.+++(4)+++ Out of the 11.41 qBtu of all renewables in 2018, biomass accounted for 25% of the U.S. renewable budget.[^9]
+
 [^34]: U.S. Energy Inform. Administration (2011), Annual Energy Review
-9: ... while 23% was hydro; 22% was wind; 20% were biofuels, 8% was solar, and 2% was geothermal; see Table 10.3 (p. 170)
-10: ... down considerably from ~25% in 1950
-11: Note that CO2 is common to both, and is not scrubbed out of power plant exhaust, comprising the bulk of the emissions.
-Box 14.3: Life is Thin and Precious
+
+[^9]: ... while 23% was hydro; 22% was wind; 20% were biofuels, 8% was solar, and 2% was geothermal; see Table 10.3 (p. 170)
+
+Globally, biomass use is estimated to be more important, at 6%,[^10] constituting more than a third of global renewable resources (Fig. 7.8; p. 109). The high use of biomass in the wider world is a reflection on the difference between developed countries like the U.S. and developing countries that are more likely to rely on more primitive forms of energy like firewood and animal dung. Since most biomass around the world is burned for individual use, emissions controls are essentially non-existent, resulting in high levels of pollution-smoke and harmful chemicals that would be scrubbed out of a power plant's exhaust.[^11]
+
+
+[^10]: ... down considerably from ~25% in 1950
+[^11]: Note that CO2 is common to both, and is not scrubbed out of power plant exhaust, comprising the bulk of the emissions.
+
+<details><summary>Box 14.3: Life is Thin and Precious</summary>
+
 The total mass of living organisms on Earth is estimated to be about 2 trillion tons [^94]. Having a density similar to that of water, 2x $10^{15}$ kg, if spread uniformly around the planet, would stack to 4 mm high! Put another way, a random line projecting upward from the surface of the earth would go through about 4 mm of living matter, on average. That's a pretty thin shell of life!
-If we tried to substitute our 18 TW global power demand by burning
+
+If we tried to substitute our 18 TW global power demand by burning biological matter,[^12] we would run through all the currently-living mass-land and sea-in a short 15 years!
+
+[^12]: About a quarter of the biomass is "dry" combustible material, at about 4 kcal/g.
+
+Can you imagine burning through all of Earth's forests and animals in 15 years?+++(5)+++ That's the rate at which we use energy today-illustrating the disparity between the biological resources on the planet and our staggering energy appetite. We can't expect to maintain our pace based on biomass and biofuels, and still have a vibrant natural planet.
+</details>
+
 [^94]: Elhacham et al. (2020), "Global human-made mass exceeds all living biomass"
 
-12
-biological matter,12 we would run through all the currently-living mass-land and sea-in a short 15 years!
-Can you imagine burning through all of Earth's forests and animals in 15 years? That's the rate at which we use energy today-illustrating the disparity between the biological resources on the planet and our staggering energy appetite. We can't expect to maintain our based on biomass and biofuels, and still have a vibrant natural
-pace planet.
- 230
-12: About a quarter of the biomass is "dry" combustible material, at about 4 kcal/g.
-14.3 Biofuels
+
+
+230
+
+## 14.3 Biofuels
 Biofuels deserve their own category because the origins and end uses are different enough to warrant distinction. While the biomass sources from Section 14.2 tend to be in solid form, biofuels as treated here are liquid. Liquid fuels are instantly a big deal because they have the energy density and versatility to be used in transportation applications. An airplane can't very well fly on firewood, hydroelectricity, solar, wind, ocean currents, geothermal, or nuclear energy.13 matter. Biofuels therefore occupy a special place in the pantheon of renewable resources as the most obvious viable replacement for petroleum-the dominant fossil fuel responsible for 92%14 of transportation in the U.S.
 In the U.S. in 2018, 2.28 qBtu (2.3%; 0.08 TW) came from biofuels [^34], which is very similar to the amount from biomass (wood, waste). Out of the 11.41 qBtu of all renewables, biofuels account for 20% of the U.S. renewable budget (Table 10.3; p. 170).
 Most prominently, ethanol is the chief biofuel, accounting for about 80% of the total. It is an alcohol that can be produced by fermenting the photosynthetically-produced sugars in the plant and then distilling the result.15 Structurally, ethanol is very similar to ethane16 except that the terminating hydrogen on one end of the chain is replaced by a hydroxyl group (OH; shown in Figure 14.3).
