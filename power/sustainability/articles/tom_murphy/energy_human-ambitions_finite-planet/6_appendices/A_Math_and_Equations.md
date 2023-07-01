@@ -292,14 +292,14 @@ bn = en lnb = 10n log10 b
 where we use the exponential function and its inverse function (natural log, ln), or alternatively the base-10 equivalents. If, for some reason, we lacked a y* calculator button, these approaches allow more fundamental ways to get at the same thing. 
 A.7 Scientific Notation 
 The single-biggest mistake students make when it comes to scientific notation is easily remedied by understanding it not as a set of rules, but for what it's actually doing. 
-Most of the time, students get it right: they see 1.6 x 102 and move the decimal to the right two times to get 160. A little harder is negative exponents, like 2.4 x $10^{-2}$. Moving the decimal point twice to the left results in the correct 0.024 answer. 
-The hangup can come about if the process is misconstrued as simply "counting zeros." Ironically, a student might correctly convert 6 × 103 by adding three zeros to the 6 to get 6,000, but then mistake 103 for 10,000-thinking: start with 10 and add three zeros. 
+Most of the time, students get it right: they see 1.6 x $10^{2}$ and move the decimal to the right two times to get 160. A little harder is negative exponents, like 2.4 x $10^{-2}$. Moving the decimal point twice to the left results in the correct 0.024 answer. 
+The hangup can come about if the process is misconstrued as simply "counting zeros." Ironically, a student might correctly convert 6 × $10^{3}$ by adding three zeros to the 6 to get 6,000, but then mistake $10^{3}$ for 10,000-thinking: start with 10 and add three zeros. 
 
 
-The sure-fire way is to connect to the concept of integer powers, so that 103 is simply 10 10 10, which is unmistakably 1,000. Likewise, $10^{-4}$ is four repeated (multiplied) instances of $10^{-1}$, each one representing 10/ or 0.1. String four together, and we have 10,000, or 0.0001. So fall back on 
+The sure-fire way is to connect to the concept of integer powers, so that $10^{3}$ is simply 10 10 10, which is unmistakably 1,000. Likewise, $10^{-4}$ is four repeated (multiplied) instances of $10^{-1}$, each one representing 10/ or 0.1. String four together, and we have 10,000, or 0.0001. So fall back on 
 the basics. 
-Example A.7.1 We can also apply the rule of multiplying exponenti- ated quantities covered in Eq. A.8. So 3.2 × 103 times 2 × 102 can be written out as 3.2 2 103 102 (order does not matter), which we can recognize as 6.4 x 105. 
-What about division: 2.4 x 1013 divided by 8 x 107? Several ways to approach this might be instructive. Let's ignore the pre-factors (2.4 and 8) for now and focus on the powers of ten. The standard practice is to subtract the exponent in the denominator from that in the numerator: 13 - 7 = 6 in this case, so that we are left with 24 × 106. We could also represent the 107 in the denominator as $10^{-7}$ in the numerator, as per Eq. A.9. Now we just add the exponents to get the same result. Or we could invert the 8 x 107 to become 0.125 x $10^{-7}$ and multiply this by 2.4 x 1013 
+Example A.7.1 We can also apply the rule of multiplying exponenti- ated quantities covered in Eq. A.8. So 3.2 × $10^{3}$ times 2 × $10^{2}$ can be written out as 3.2 2 $10^{3}$ 102 (order does not matter), which we can recognize as 6.4 x 105. 
+What about division: 2.4 x $10^{13}$ divided by 8 x 107? Several ways to approach this might be instructive. Let's ignore the pre-factors (2.4 and 8) for now and focus on the powers of ten. The standard practice is to subtract the exponent in the denominator from that in the numerator: 13 - 7 = 6 in this case, so that we are left with 24 × 106. We could also represent the $10^{7}$ in the denominator as $10^{-7}$ in the numerator, as per Eq. A.9. Now we just add the exponents to get the same result. Or we could invert the 8 x $10^{7}$ to become 0.125 x $10^{-7}$ and multiply this by 2.4 x $10^{13}$ 
 But I want to present the way I would do it to make it easy enough 
 
 A.7 Scientific Notation 
@@ -429,18 +429,18 @@ person. s
 365 day 1 year 
 Notice that each of the factors we multiply, even though they carry a non-unity numeric value, are essentially identities that describe equal intervals on top and bottom, in differing units.[^33] So we are effectively multiplying by 1 repeatedly in a unit conversion process. 
 Also note that the chain we construct allows a boatload of cancella- tions, as almost all units present appear in both the numerator and denominator once. The only ones that do not are J in the numerator and year and person in the denominator. When we carry out the multiplication above and cancel units, we find that we are left with: 
-3.15 x 1011 
+3.15 x $10^{11}$ 
 J 
 year person 
-Oops, the units are helping us here by reminding us that we need to multiply by the population (3.3 x 108 persons) to get the answer 
+Oops, the units are helping us here by reminding us that we need to multiply by the population (3.3 x $10^{8}$ persons) to get the answer 
 
 [^33]: E.g., 24 hours and 1 day describe the same time interval. 
 
-we sought.[^34] In this case, we end up with 1.04 × 1020 J/year, which is 
+we sought.[^34] In this case, we end up with 1.04 × $10^{20}$ J/year, which is 
 what we were after. 
 We just carried out unit conversions (in time) in Example A.10.2, when we multiplied by constructs like 60 s/1 min. The key to unit conversions is to arrange a fraction expressing the same physical thing in both the nu- merator and denominator, just using different units. So we're looking for equivalent measures. Most of the time, one of them will be 1, numerically, as in the following example. 
-Example A.10.3 We might want to convert the 1.04 × 1020 J/year from Example A.10.2 into quadrillion Btu per year. We know that 1 Btu is 1,055 J, and that a quadrillion is 1015. So we arrange the following: 
-J 1 Btu 1 quadrillion 1.04 × 1020 
+Example A.10.3 We might want to convert the 1.04 × $10^{20}$ J/year from Example A.10.2 into quadrillion Btu per year. We know that 1 Btu is 1,055 J, and that a quadrillion is 1015. So we arrange the following: 
+J 1 Btu 1 quadrillion 1.04 × $10^{20}$ 
 year 1,055J 
 1015 
 ≈ 100 quadrillion Btu/year. 

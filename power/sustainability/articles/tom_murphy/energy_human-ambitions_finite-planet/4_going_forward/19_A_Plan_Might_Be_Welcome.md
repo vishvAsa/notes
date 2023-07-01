@@ -30,7 +30,7 @@ Perhaps we are structuring our world _exactly_ backwards. An attempt to put a mo
 
 <details><summary>Box 19.1: Earth's Dollar Value</summary>
 
-How much would it cost to purchase a barren planet and then to layer atop it a complete, functioning ecosystem?[^5] Starting with the basics, the cost of rough rock, sand, or dirt in the U.S. bottoms out at about $5 per cubic yard.[^6] It is the very definition of "dirt cheap." We'll upgrade the volume to a cubic meter[^7] for ease. The earth is roughly 1021 cubic meters in volume, so even if given a smoking deal on the materials at $1 per cubic meter, the price tag is in the sextillion dollar regime ($1021). The high central density of the earth makes the price tag even higher under the more sensible cost per ton, considering the 6 sextillion ton mass of the earth. This is an admittedly naïve way to price a planet, but it puts a scale on things.
+How much would it cost to purchase a barren planet and then to layer atop it a complete, functioning ecosystem?[^5] Starting with the basics, the cost of rough rock, sand, or dirt in the U.S. bottoms out at about $5 per cubic yard.[^6] It is the very definition of "dirt cheap." We'll upgrade the volume to a cubic meter[^7] for ease. The earth is roughly $10^{21}$ cubic meters in volume, so even if given a smoking deal on the materials at $1 per cubic meter, the price tag is in the sextillion dollar regime ($1021). The high central density of the earth makes the price tag even higher under the more sensible cost per ton, considering the 6 sextillion ton mass of the earth. This is an admittedly naïve way to price a planet, but it puts a scale on things.
 
 A similarly simple calculation applies to minerals. Ignoring the material in the molten mantle, using crustal abundances and only the stuff in the 30 km crust under dry land,[^9] the continental crust contains $0.6 quintillion ($0.6 × 1018) of silver, $3 quintillion in gold, $5 quintillion in copper, and $20 quintillion in nickel.[^10] Aluminum leaps up to $2 sextillion, but probably reflects the energy-intensive extraction process.
 
@@ -44,7 +44,7 @@ A similarly simple calculation applies to minerals. Ignoring the material in the
 
 [^9]:...just 0.4% of Earth's volume
 
-[^10]: For instance, gold is about $60,000 per kilogram, and according to crustal abundances in Table 15.9 (p. 258), gold is 4 parts per billion of the crust by mass. The crust in question has a volume of 4.4 x 1018 m3 and a mass around 1.3 x 1022 kg. The expected mass of gold is then about 5x1013 kg, and would cost $3 x 1018. Notice that the total values are amazingly close for these metals: rarer is more expensive in inverse proportion and thus in rough balance.
+[^10]: For instance, gold is about $60,000 per kilogram, and according to crustal abundances in Table 15.9 (p. 258), gold is 4 parts per billion of the crust by mass. The crust in question has a volume of 4.4 x $10^{18}$ m3 and a mass around 1.3 x $10^{22}$ kg. The expected mass of gold is then about 5x1013 kg, and would cost $3 x 1018. Notice that the total values are amazingly close for these metals: rarer is more expensive in inverse proportion and thus in rough balance.
 
 
 

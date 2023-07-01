@@ -193,7 +193,7 @@ Figure B.1: Periodic Table of the Elements. This version is too small to permit 
 [^3]: 
 the word molecule begins with mole. 
 
-[^4]: Unfortunately, it can be hard to remem- ber if it is supposed to be 6.022 x 1023 or 6.023 x 1022. For this reason, may be wise to forget about the 22 and just remember 6.0×1023, or even 6.023 × 1023 as something that is very slightly wrong but much better than being 10 times off! 
+[^4]: Unfortunately, it can be hard to remem- ber if it is supposed to be 6.022 x $10^{23}$ or 6.023 x 1022. For this reason, may be wise to forget about the 22 and just remember 6.0×1023, or even 6.023 × $10^{23}$ as something that is very slightly wrong but much better than being 10 times off! 
 B.2 Stoichiometry 
 376 
 other elements-being comprised of an integer number of protons and neutrons5-will tend to be close to an integer number of grams. For instance, a mole of hydrogen atoms is very close to 1.00 grams. A mole of helium is very nearly 4.00 grams, nitrogen 14, oxygen 16, etc. 

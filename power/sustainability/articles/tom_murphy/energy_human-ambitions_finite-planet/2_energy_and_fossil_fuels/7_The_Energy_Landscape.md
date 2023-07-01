@@ -117,7 +117,7 @@ Now the right-hand side shows the sectors into which the energy flows, finding r
 Finally, the left-hand side indicates the inputs, grouped as domestic fossil fuel supply at top (out of our own ground), nuclear energy and renewable in the middle, and imports at bottom. From this, we can learn that we export some coal,[^5] that almost all of our natural gas and 100% of our nuclear is domestic, and that 62% of our petroleum comes from domestic crude oil production. 
 Other insights are present in the graphic as well. Don't be afraid to subtract or divide numbers to aid new discoveries. 
 Box 7.1: 100 quads? So what? 
-To put the scale into a bit of perspective, 100 qBtu in a year for the U.S. is about 1020 J in a year. A year is 3.156 × 107 seconds long, meaning that the U.S. power budget is just over 3 TW (3 × 1012 W). Distributed among a little over 300 million people, the average contribution per person is about 10,000 W. That's a lot. As we have seen in Sec. 5.5 (p. 73), human metabolism is about 100 W. So Americans have approximately 100 times as much energy available as their personal metabolism. The situation has been compared to each person having 100 energy servants! No wonder we live better than royalty of ages past. Even though the U.S. uses about 4.5 times the global energy per capita (about 20% of the world's energy and 5% of population), the average citizen of Earth still has over 20 energy servants available, on average, thanks almost entirely to fossil fuels. They have been an unqualified game changer. 
+To put the scale into a bit of perspective, 100 qBtu in a year for the U.S. is about $10^{20}$ J in a year. A year is 3.156 × $10^{7}$ seconds long, meaning that the U.S. power budget is just over 3 TW (3 × $10^{12}$ W). Distributed among a little over 300 million people, the average contribution per person is about 10,000 W. That's a lot. As we have seen in Sec. 5.5 (p. 73), human metabolism is about 100 W. So Americans have approximately 100 times as much energy available as their personal metabolism. The situation has been compared to each person having 100 energy servants! No wonder we live better than royalty of ages past. Even though the U.S. uses about 4.5 times the global energy per capita (about 20% of the world's energy and 5% of population), the average citizen of Earth still has over 20 energy servants available, on average, thanks almost entirely to fossil fuels. They have been an unqualified game changer. 
 7 The Energy Landscape 
 104 
 
@@ -128,7 +128,7 @@ we consume.
 Ask yourself what else you can learn 
 from the numbers! 
 
-[^6]: Neat trick: roughly π x 107 seconds in a 
+[^6]: Neat trick: roughly π x $10^{7}$ seconds in a 
 year. 
 
 [^7]: This showed up in Table 3.4 (p. 43) and also in Box 5.4 (p. 75). 

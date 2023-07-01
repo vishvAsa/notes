@@ -28,20 +28,23 @@ In sentence form: energy from light transforms carbon dioxide and water into a b
 
 A valuable question to ponder: where do plants get their mass? Is it from the soil? Is it from water? Is it from the air? Take a moment to think about it. We can rule out soil on the observation that massive trees are not sitting in holes of excavated earth. Yes, the roots displace some of the soil, but a fallen tree reveals little root volume compared to the trunk and branches.+++(5)+++ And while living plant material contains significant water, completely dry plant matter[^1] has plenty of mass without water.
 
+[^1]: ... dry wood, for instance
+
 Plant matter contains substantial carbon content,[^2] and we now connect the knowledge that plants' leaves "breathe in" CO2 and release O2, as in Eq. 14.1. Every time this happens, the plant steals a carbon atom from the air, spitting the oxygen right back out. The carbon is stuck into a sugar or other structural molecule and stays in the plant. Thus plants obtain their dry mass out of "thin air."+++(5)+++
+
+[^2]: ... which we combust when burning wood
 </details>
 
 In terms of efficiency, plants tend to convert sunlight into stored chemical energy at a rate of 0.01-6%. The range is rather large due to limitations in water and nutrients. A well-watered and fertilized corn field might reach 1.5% efficiency. Algae tend to top the charts at 5-6%. Dry climates might have ample sunlight, but too little water for efficient use of the available light. Box 14.2 provides an example of how one might estimate what fraction of incident solar energy is turned into chemical storage by a potato plant.
 
 Box 14.2: Example Photosynthetic Efficiency
 
-Let us consider a potato plant (Figure 14.2) as an example by which to estimate photosynthetic efficiency. The potato plant might have a leafy footprint of 0.5 m2-a square roughly 0.7 m on a side or a circle about 0.8 m in diameter and produce four 0.5 kg potatoes, or 2 kg of starchy material. Carbohydrates have an energy density of 4 kcal/g, so the potato plant has stored 8,000 kcal, or about 32 MJ.3
+Let us consider a potato plant (Figure 14.2) as an example by which to estimate photosynthetic efficiency. The potato plant might have a leafy footprint of 0.5 $m^2$ -a square roughly 0.7 m on a side or a circle about 0.8 m in diameter and produce four 0.5 kg potatoes, or 2 kg of starchy material. Carbohydrates have an energy density of 4 kcal/g, so the potato plant has stored 8,000 kcal, or about 32 MJ.3
 
-If the typical five-month growing-season (~ 1.25 x 107 s) has inso- lation of 250 $W/m^2$, the plant collects 125 W5 times 1.25 x 107 or 1.6 x 109 J, while making 32 MJ of spuds. The photosynthetic
+If the typical five-month growing-season (~ 1.25 x $10^7$ s) has insolation of 250 $W/m^2$, the plant collects 125 W[^5] times 1.25 x $10^{7}$ or 1.6 x $10^{9}$ J, while making 32 MJ of spuds. The photosynthetic
 
 S,
-1: ... dry wood, for instance
-2: ... which we combust when burning wood
+
 0.5 m2
 area
 250 $W/m^2$
@@ -73,7 +76,7 @@ such as cow dung
 10: ... down considerably from ~25% in 1950
 11: Note that CO2 is common to both, and is not scrubbed out of power plant exhaust, comprising the bulk of the emissions.
 Box 14.3: Life is Thin and Precious
-The total mass of living organisms on Earth is estimated to be about 2 trillion tons [^94]. Having a density similar to that of water, 2x 1015 kg, if spread uniformly around the planet, would stack to 4 mm high! Put another way, a random line projecting upward from the surface of the earth would go through about 4 mm of living matter, on average. That's a pretty thin shell of life!
+The total mass of living organisms on Earth is estimated to be about 2 trillion tons [^94]. Having a density similar to that of water, 2x $10^{15}$ kg, if spread uniformly around the planet, would stack to 4 mm high! Put another way, a random line projecting upward from the surface of the earth would go through about 4 mm of living matter, on average. That's a pretty thin shell of life!
 If we tried to substitute our 18 TW global power demand by burning
 [^94]: Elhacham et al. (2020), "Global human-made mass exceeds all living biomass"
 
@@ -191,8 +194,8 @@ food energy consumed [^97]. In a sense, we are eating27 our fossil fuels! It als
 14.3.2 EROEI of Biofuels
 Various estimates exist for the EROEI for different biofuels. Unfortunately for the U.S., the corn ethanol industry is estimated to have an EROEI of anywhere from 0.8:1 to 1.6:1. The former would mean it's a net loss of energy, and that we would have more energy available if we did not spend any of it trying to get ethanol from corn. Biodiesel (a non-ethanol biofuel produced from vegetable oils or animal fat) is estimated to have an EROEI of 1.3:1 [^98]. Sugar cane may be anywhere from 0.8:1 to 10:1 [^99] (see Table 14.2).
 To explore an example of how this all plays out, let's say that corn ethanol provides an EROEI of 1.2:1-in the middle of the estimated range. This means that in order to get 1.2 units of energy out, one unit has to go
-in. Or for every 6 units out, 5 go in. If we use that same resource as the energy input-in other words, we use corn ethanol as the energy input to grow, harvest, distill, and distribute corn ethanol-then we get to "keep" one unit for external use out of every 6 units produced. For the U.S. to replace its 37 qBtu/yr oil habit with corn ethanol, it would take six times this much, or 220 qBtu (2.3 x 1020 J) of corn ethanol production each year.
-If the growing season is 5 months, the solar input is 250 $W/m^2$ on average, and the corn field is 1.5% efficient at turning sunlight into chemical energy, then each square meter of corn-land produces 4.9 x 107 J of energy28 and we would therefore need about 5 x 1012 m2 of land for corn. This is an area 2,200 km on a side (Figure 14.4)! The U.S. does not possess this much arable land (estimated at about 30% of this). About 4 x 1011 m2 of land in the U.S. is currently used for corn production, which is 8% of what would be needed. And of course we must still feed ourselves. In 2018, 31% of U.S. corn production went into ethanol. We would somehow need to ramp corn ethanol production up by a factor of 40 to derive our current liquid fuels from corn in a self-sufficient way. Don't expect to see this fantasy materialize.
+in. Or for every 6 units out, 5 go in. If we use that same resource as the energy input-in other words, we use corn ethanol as the energy input to grow, harvest, distill, and distribute corn ethanol-then we get to "keep" one unit for external use out of every 6 units produced. For the U.S. to replace its 37 qBtu/yr oil habit with corn ethanol, it would take six times this much, or 220 qBtu (2.3 x $10^{20}$ J) of corn ethanol production each year.
+If the growing season is 5 months, the solar input is 250 $W/m^2$ on average, and the corn field is 1.5% efficient at turning sunlight into chemical energy, then each square meter of corn-land produces 4.9 x $10^{7}$ J of energy28 and we would therefore need about 5 x $10^{12}$ m2 of land for corn. This is an area 2,200 km on a side (Figure 14.4)! The U.S. does not possess this much arable land (estimated at about 30% of this). About 4 x $10^{11}$ m2 of land in the U.S. is currently used for corn production, which is 8% of what would be needed. And of course we must still feed ourselves. In 2018, 31% of U.S. corn production went into ethanol. We would somehow need to ramp corn ethanol production up by a factor of 40 to derive our current liquid fuels from corn in a self-sufficient way. Don't expect to see this fantasy materialize.
 Box 14.5: Why Do Corn Ethanol?
 If corn ethanol has such low EROEI, why is it pursued in the U.S.?
 [^97]: Pfeiffer (2006), Eating Fossil Fuels
@@ -258,7 +261,7 @@ Now if you could just think of a way to put the answer on a log scale, ha ha.
 
 237
 4. How many logs of firewood per day (whose parameters are speci- fied in Problem 3) would you need to burn to provide 5,000 W of heating to a house?
-5. Replicate the conclusion of Box 14.3 by assuming one-quarter of the 2 trillion tons (5 x 1014 kg) of mass is combustible at 4kcal/g. How long-in years would this amount of energy last if burning at 18 TW?
+5. Replicate the conclusion of Box 14.3 by assuming one-quarter of the 2 trillion tons (5 x $10^{14}$ kg) of mass is combustible at 4kcal/g. How long-in years would this amount of energy last if burning at 18 TW?
 6. Given the energy densities of ethanol vs. octane (gasoline), how many liters of ethanol does it take to replace one liter of gasoline, if the densities are 789 g/L for ethanol and 703 g/L for octane?
 7. If 50 kJ of energy are spent to extract 1 MJ of energy content in the
 form of coal, what is the EROEI?

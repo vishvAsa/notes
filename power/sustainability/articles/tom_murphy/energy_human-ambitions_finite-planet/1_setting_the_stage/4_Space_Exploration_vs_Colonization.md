@@ -354,7 +354,7 @@ term operation of the artificial biosphere project [^31].
 16. Since Figure 4.5 spans the range of atmospheres found in our solar system, we can imagine how likely it would be that a random planet might happen to be livable for humans. 32 Imagine throwing a dart at the diagram to get a random instance. How likely are we to hit the comfort zone of Earth, by your estimation? 
 17. Come up with three examples (not repeating items in the text) of 
 feats that are technically possible, but not common or practical. 
-18. For some perspective, imagine you were able to drive your car up a ramp to an altitude characteristic of low-earth orbit (about 320 km, or 200 miles). It takes about 5 x 1010 J of energy33 to win the fight against gravity. Meanwhile, each gallon of gasoline can do about 25 x 106 J of useful work. How many gallons would it take to climb to orbital height in a car? Roughly how many miles per gallon is this (just counting vertical miles)? 
+18. For some perspective, imagine you were able to drive your car up a ramp to an altitude characteristic of low-earth orbit (about 320 km, or 200 miles). It takes about 5 x $10^{10}$ J of energy33 to win the fight against gravity. Meanwhile, each gallon of gasoline can do about 25 x $10^{6}$ J of useful work. How many gallons would it take to climb to orbital height in a car? Roughly how many miles per gallon is this (just counting vertical miles)? 
 19. In Problem 18, we ignored the energy required to provide the substantial orbital speed (~ 8 km/s, but will not need), which essentially doubles the total energy.[^34] How much gasoline will it now take, and how massive is the fuel if gasoline is 3 kg per gallon, compared to the 1,500 kg mass of the car? 
 [^31]: (2020), Biosphere 2 
 

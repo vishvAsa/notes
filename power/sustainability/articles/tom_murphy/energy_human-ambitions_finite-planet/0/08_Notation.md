@@ -4,7 +4,7 @@ title = "08 Notation"
 +++
 This list describes several symbols that are commonly used within the body of the book.
 
-Speed of light in a vacuum inertial frame: 2.99792458 × 108 m/s ≈ 3 x 108 m/s
+Speed of light in a vacuum inertial frame: 2.99792458 × $10^{8}$ m/s ≈ 3 x $10^{8}$ m/s
 
 Ε Efficiency; typically 0 ≤ & ≤ 1; unitless
 
@@ -17,7 +17,7 @@ KB
 Boltzmann's constant: 1.38 x $10^{-23}$ J/K
 
 ΝΑ
-Avogadro's number: 6.022 × 1023 particles per mole
+Avogadro's number: 6.022 × $10^{23}$ particles per mole
 
 AQ
 Change in thermal energy, in Joules

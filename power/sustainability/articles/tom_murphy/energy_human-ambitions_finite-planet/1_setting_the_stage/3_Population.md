@@ -551,7 +551,7 @@ Adding another relevant perspective, when one considers that the per- capita ene
 Power 
 Added Per Citizen (W) 
 3 Population 43 
-Table 3.4: Top ten countries for growth in energy demand. Populations are in millions. Power is in Watts or 109 W (GW). The power added annually is the absolute increase in demand due to population growth, and is a proxy for resource demands in general. The last column provides some measure of an in- dividual citizen's share of the responsibility in terms of increasing pressure on resources. The top three contributors to new power de- mand via population growth alone (China, the U.S., and India) account for about a third of the global total. [7, 8, 19, 20] 
+Table 3.4: Top ten countries for growth in energy demand. Populations are in millions. Power is in Watts or $10^{9}$ W (GW). The power added annually is the absolute increase in demand due to population growth, and is a proxy for resource demands in general. The last column provides some measure of an in- dividual citizen's share of the responsibility in terms of increasing pressure on resources. The top three contributors to new power de- mand via population growth alone (China, the U.S., and India) account for about a third of the global total. [7, 8, 19, 20] 
 Country 
 Population Annual Per Capita Power Added 
 (×106) Growth Power (W) 

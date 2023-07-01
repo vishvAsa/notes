@@ -413,7 +413,7 @@ coal
 [^49]: Here, "production" means "obtaining from the ground," not fabricating artifi- cially. 
 
 [^50]: Consumption and production are es- sentially identical: no stockpiling. 
-Table 8.5: Summary of proven reserves, usage rates, and time remaining for the world and for the U.S. (if using only its domestic supply) [[^44] [^45] [^46]]. Oil is measured in giga-barrels (Gbbl; 109 bbl), gas in tera- cubic-meters (Tcm; 1012 m3), and coal in gigatons (Gt; 1012 kg; noting that 1 ton is 1,000 kg). 
+Table 8.5: Summary of proven reserves, usage rates, and time remaining for the world and for the U.S. (if using only its domestic supply) [[^44] [^45] [^46]]. Oil is measured in giga-barrels (Gbbl; $10^{9}$ bbl), gas in tera- cubic-meters (Tcm; 1012 m3), and coal in gigatons (Gt; 1012 kg; noting that 1 ton is 1,000 kg). 
 The world has already consumed 1.5 trillion barrels of oil, which is nearly the same amount as the 1.7 trillion barrels of proven reserves—indicating that we are roughly halfway through the resource.[^51] Certainly, we can expect that additional resources will be discovered and added to the 
 
 

@@ -28,7 +28,7 @@ atomic mass unit. 241, 246-248, 253, 254, 265, 376, 422, 432, 433, 435
 is compiled by the U.S. EIA, capturing energy use and trends for all sources and sectors [^34]. 102, 170, 422
 
 ## Astronomical Unit
-(AU) is a unit of distance, equal to the average Earth-Sun distance of 149.6 million kilometers (1.496 x 1011 m). 56, 422
+(AU) is a unit of distance, equal to the average Earth-Sun distance of 149.6 million kilometers (1.496 x $10^{11}$ m). 56, 422
 
 ## asymmetric risk
 describes a condition where given the choice to pursue action B for fear of some future condition instead of the normal action A, the downside of being correct about the threat and not taking action B is far more disastrous than being wrong about the threat and pursuing route B unnecessarily. 345, 351
@@ -461,7 +461,7 @@ concerns itself with the allocation of goods and services across the marketplace
 refers to a failure mode of nuclear fission reactors, in which the chain reaction becomes uncontrolled due to too many neutrons triggering new fission events (as may happen if control rods are absent or insufficiently deployed). 262, 263, 425
 
 ## MeV
-is a mega-electron-volt, or 106 eV. In Joules, it is equivalent to 1.6 x $10^{-13}$ J. Nuclear masses are often expressed in MeV/c2 terms, where 1 a.m.u. is equivalent to 931.4941 MeV. 78, 246-248, 253, 265, 422, 427, 433, 435
+is a mega-electron-volt, or $10^{6}$ eV. In Joules, it is equivalent to 1.6 x $10^{-13}$ J. Nuclear masses are often expressed in MeV/c2 terms, where 1 a.m.u. is equivalent to 931.4941 MeV. 78, 246-248, 253, 265, 422, 427, 433, 435
 
 ## micro-economics
 concerns itself with the production of goods, including raw resources, marketing, and distribution. 323, 324, 433
@@ -476,7 +476,7 @@ in the context of nuclear fission is a material used to slow down neutrons speed
 is the mass of one mole of an element or compound. The molar mass for carbon, for instance, is 12 grams. The number is often found on a Periodic Table, in addition to the proton number for the element. 121, 138, 241, 379, 380
 
 ## mole
-is a number of atoms or molecules, tuned so that one mole of the carbon-12 isotope is exactly 12.000 grams. It takes 6.022 × 1023 atoms for this to happen, which is called Avogadro's number. 78, 83, 375, 376, 378, 422, 432
+is a number of atoms or molecules, tuned so that one mole of the carbon-12 isotope is exactly 12.000 grams. It takes 6.022 × $10^{23}$ atoms for this to happen, which is called Avogadro's number. 78, 83, 375, 376, 378, 422, 432
 
 ## negative feedback
 involves a reaction to some stimulus in the direction opposite the stimulus, performing a corrective action and leading to stability. Systems in equilibrium must have negative feedback keeping them there. 33, 123, 147, 428, 433
@@ -568,7 +568,7 @@ pertains to the amount of resource known to exist, having been discovered and su
 photovoltaic. 165, 197, 201, 205, 217, 220, 221, 267, 269, 281, 292, 293, 434
 
 ## qBtu
-is short for a quadrillion (1015) British thermal units, and is equivalent to 1.055 x 1018 Joules. 28, 75, 103-105, 170, 214, 229, 230, 234, 236, 277
+is short for a quadrillion (1015) British thermal units, and is equivalent to 1.055 x $10^{18}$ Joules. 28, 75, 103-105, 170, 214, 229, 230, 234, 236, 277
 
 ## R/P ratio
 or reserves-to-production ratio is a means to assess time remaining for a resource of quantity R units, being used (produced) at a rate of P units per year. The result is years available at the present rate, absent discovery of additional resources or change in rate of use. 126, 129, 131, 133, 136, 267
@@ -652,7 +652,7 @@ refers to interchangeability between goods and services, so that an unavailable 
 is the speculative idea of transforming the atmosphere and environment of a planet hostile to human life into one that is suited to human needs. 60, 61
 
 ## Therm
-is a unit of energy defined as 100,000 British thermal units, and is equivalent to 1.055 × 108 Joules. 76, 335, 337, 348
+is a unit of energy defined as 100,000 British thermal units, and is equivalent to 1.055 × $10^{8}$ Joules. 76, 335, 337, 348
 
 ## thermal energy
 is the energy of heat, and is really just randomized kinetic energy (motion) of atoms and molecules vibrating and zipping around. 70, 71, 84, 86, 89, 99, 165, 194, 203, 227, 246, 275, 277, 294, 334, 335, 373, 395, 396, 401, 420, 423, 427, 429, 430, 433

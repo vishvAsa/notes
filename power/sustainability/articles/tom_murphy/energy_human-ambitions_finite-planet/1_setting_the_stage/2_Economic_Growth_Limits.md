@@ -7,8 +7,8 @@ Energy Intensity =
 Energy Expended Money Spent 
 (2.1) 
 In a resource-constrained world (limited material and energy supplies), a lower energy intensity translates to less energy consumption for a certain economic output, or conversely allows higher economic output for a fixed energy consumption rate. On a smaller scale, we can say, for instance, that spending $100 on an airplane trip is far more energy intense than spending the same amount of money on legal advice. 
-Energy intensity therefore provides a measure of how resource-heavy a country is in relation to the size of its economy. For instance, the U.S. uses about 1020 Joules of energy per year and has a GDP of approximately 20 trillion dollars. Dividing these gives an intensity of 5 × 106 J/$, or 5 MJ/$ (many variants are possible in terms of units). The world as a whole uses about 4.5 x 1020 J in a year at an estimated $90 trillion gross world product, also resulting in 5 MJ/$. The variation among developed countries is not especially large-generally in the single-digit MJ/$ range. 
-We will cover units of energy in Chapter 5. For now, it is sufficient to know that a Joule (J) is a unit of energy, and that MJ means megajoules, or 106 J. 
+Energy intensity therefore provides a measure of how resource-heavy a country is in relation to the size of its economy. For instance, the U.S. uses about $10^{20}$ Joules of energy per year and has a GDP of approximately 20 trillion dollars. Dividing these gives an intensity of 5 × $10^{6}$ J/$, or 5 MJ/$ (many variants are possible in terms of units). The world as a whole uses about 4.5 x $10^{20}$ J in a year at an estimated $90 trillion gross world product, also resulting in 5 MJ/$. The variation among developed countries is not especially large-generally in the single-digit MJ/$ range. 
+We will cover units of energy in Chapter 5. For now, it is sufficient to know that a Joule (J) is a unit of energy, and that MJ means megajoules, or $10^{6}$ J. 
 Venezuela 
 Russia 
 Energy Intensity (MJ/$) 

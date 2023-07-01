@@ -78,13 +78,13 @@ Figure 11.2: Cross section of a dam, holding back a reservoir of water at height
 Box 11.1: Why So Efficient?
 14
 Achieving 90% efficiency is superb! Electric motors and generators1 can be > 90% efficient in converting between mechanical energy (rotation) and electrical energy. When coupled with low-friction turbines, dams just have very little loss-unlike thermal sources where most of the energy is unavoidably lost (for reasons covered in Sec. 6.4; p. 88).
-Example 11.2.1 To compute the power available from a hydroelectric plant, we need to know the height of the reservoir and the flow rate of water-usually measured in cubic meters per second. The density of water is, conveniently, 1,000 kg/m3 (Figure 11.3), so that if we consider a dam having a flow rate of 2,000 m3/s and a reservoir height of 50 m, we can see that every second of time will pass 2 × 106 kg of water,15 and the associated potential energy is mgh≈ 109 J. If each second delivers 1 GJ of energy, the power available is 1 GJ/s, or 1 GW. At an efficiency of 90%, we get to keep 900 MW of electrical power.
+Example 11.2.1 To compute the power available from a hydroelectric plant, we need to know the height of the reservoir and the flow rate of water-usually measured in cubic meters per second. The density of water is, conveniently, 1,000 kg/m3 (Figure 11.3), so that if we consider a dam having a flow rate of 2,000 m3/s and a reservoir height of 50 m, we can see that every second of time will pass 2 × $10^{6}$ kg of water,15 and the associated potential energy is mgh≈ $10^{9}$ J. If each second delivers 1 GJ of energy, the power available is 1 GJ/s, or 1 GW. At an efficiency of 90%, we get to keep 900 MW of electrical power.
 The largest hydroelectric facility in the world is the Three Gorges Dam in China, rated at an astounding 22.5 GW. The largest in the U.S. is the Grand Coulee on the Columbia River, producing a maximum of 6.8 GW. The iconic Boulder Dam (a.k.a. Hoover Dam) is just over 2 GW.
 Note that flow rates vary seasonally with rainfall, so that dams cannot always operate at full capacity. In fact, the U.S. has about 80 GW of capacity installed, but operates at an annual average of about 33 GW. This implies a typical "capacity factor" around 40%.
 Definition 11.2.1 A capacity factor is the ratio of actual performance over time to the peak possible performance—or average output divided by maximum output, expressed as a percentage.
 Example 11.2.2 Boulder (Hoover) Dam on the Colorado River is listed in [^66] as having a capacity of 2,080 MW and an annual production of 4.2 TWh. What is its capacity factor?
-We just need to turn the 4.2 TWh in a year into an average delivered power. Following the definition of a watt-hour, we note that all we really have to do is divide 4.2 x 1012 Wh16 by the number of hours in a year: 24 times 365, or 8760.
-4.2 x 1012 Wh/8760 h≈ 480 MW average power. Dividing this by 2,080 MW (max capacity) gives a 23% capacity factor.
+We just need to turn the 4.2 TWh in a year into an average delivered power. Following the definition of a watt-hour, we note that all we really have to do is divide 4.2 x $10^{12}$ Wh16 by the number of hours in a year: 24 times 365, or 8760.
+4.2 x $10^{12}$ Wh/8760 h≈ 480 MW average power. Dividing this by 2,080 MW (max capacity) gives a 23% capacity factor.
 As we saw in Fig. 7.5 (p. 108) and Table 10.3 (p. 170), hydroelectricity in the U.S. accounts for 2.7% of the nation's total energy consumption, corresponding to about 33 GW of production. Globally, hydroelectric production averaged 477 GW in 2017. By comparison, Table 10.2 (p. 168)
 14: Fundamentally, motors and generators
 are nearly identical in concept and construc- tion.
@@ -93,9 +93,9 @@ are nearly identical in concept and construc- tion.
 Figure 11.3: One cubic meter of water has a mass of 1,000 kg.
 3
 =
-15: Flow rate times density gives mass per second: 2,000 m3/s times 1,000 kg/m3 2 x 106 kg/s
+15: Flow rate times density gives mass per second: 2,000 m3/s times 1,000 kg/m3 2 x $10^{6}$ kg/s
 Look at the Wikipedia page on largest hydroelectric power stations [^66] for a complete list.
-16: 1 TWh is 1012 Wh.
+16: 1 TWh is $10^{12}$ Wh.
 
 indicates that 44,000 TW of solar input goes into evaporation and the hydrological cycle. Why, then, are we only able to use 0.477 TW (0.001%) of this bounty? Is this a great, untapped renewable resource?
 11.2.1 Theoretical Potential

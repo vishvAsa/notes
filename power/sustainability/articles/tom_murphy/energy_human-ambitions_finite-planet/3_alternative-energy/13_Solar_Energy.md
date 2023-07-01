@@ -31,7 +31,7 @@ E=hν = hc/λ ≈ 2 × $10^{-19}$J/λ(in μm)  ≈ 1.24 eV/λ(in μm)
 
 where h = 6.626 × $10^{-34}$ J.s (Planck's constant), and v is the frequency of the light in Hertz (Hz, or inverse seconds).
 
-The second form (hc/λ) is useful, as we more commonly characterize the "color" of light by its wavelength, λ. The speed of light, c≈ 3 x 108 m/s, connects frequency to wavelength via λν = c. (13.2)
+The second form (hc/λ) is useful, as we more commonly characterize the "color" of light by its wavelength, λ. The speed of light, c≈ 3 x $10^{8}$ m/s, connects frequency to wavelength via λν = c. (13.2)
 
 The third form in Definition 13.1.1 makes it easy to compute photon energy in Joules given the wavelength in microns.[^2] Visible light has a wavelength around 0.4–0.7 μm (violet-to-red), so a typical photon energy, at 0.5 μm, is about 4 x $10^{-19}$ J. It's a tiny number!
 
@@ -95,7 +95,7 @@ Eq. 13.4 might look formidable, but only λ and T are variable. It describes the
 
 
 
-For some temperature, T, this function specifies how much power is emitted at each wavelength, λ. Three fundamental physical constants from key areas of physics make an appearance: c≈ 3 x 108 m/s is the familiar speed of light from relativity; h≈ 6.626 x $10^{-34}$ J. s is Planck's constant from quantum mechanics, and kB≈ 1.38 x $10^{-33}$ J. K is the Boltzmann constant of thermodynamics.[^11]
+For some temperature, T, this function specifies how much power is emitted at each wavelength, λ. Three fundamental physical constants from key areas of physics make an appearance: c≈ 3 x $10^{8}$ m/s is the familiar speed of light from relativity; h≈ 6.626 x $10^{-34}$ J. s is Planck's constant from quantum mechanics, and kB≈ 1.38 x $10^{-33}$ J. K is the Boltzmann constant of thermodynamics.[^11]
 
 [^11]: This last one may be more familiar to students in its chemistry form of the gas constant $R = k_B N_A $ ≈ 8.31J/K/mol, where $N_A≈ 6.022 × 10^23$ is Avogadro's number.
 
@@ -149,7 +149,7 @@ If we make it 0.5 μm wide, it seems too thin: the area is smaller than what's u
 
 [Figure 13.2: Attempts to crudely match the area under the 6000 K Planck spectrum using rectangles of three different widths. The widest (1 μm; dashed line) is too much area; the narrowest (0.5 μm; dotted line) is too small. The middle (0.75 μm; pink area) seems closest, by eye.]
 
-This choice makes the area about $1.0 x 10^8 W/m^2$/μm (value at the top of the rectangle) times 0.75 μm, coming to $7.5 x 107 W/m^2$. Since this is power per area, we make a minor rearrangement of Eq. 13.3 to $P/A = σT^4$ and evaluate for T = 6000 K to find $7.35 x 10^7 W/m^2$. Hey, not bad! So it all hangs together.
+This choice makes the area about $1.0 x 10^8 W/m^2$/μm (value at the top of the rectangle) times 0.75 μm, coming to $7.5 x $10^{7}$ W/m^2$. Since this is power per area, we make a minor rearrangement of Eq. 13.3 to $P/A = σT^4$ and evaluate for T = 6000 K to find $7.35 x 10^7 W/m^2$. Hey, not bad! So it all hangs together.
 
 </details>
 

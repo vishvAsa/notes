@@ -294,8 +294,8 @@ C Selected Answers
 389 
 Chapter 13 
 1. How big are the packages? 
-2. Something times 1021 
-3. Roughly 1016 
+2. Something times $10^{21}$ 
+3. Roughly $10^{16}$ 
 4. About 1,000 
 5. About 4,000 times 
 6. Use Eq. 13.3 to guide your reasoning 
