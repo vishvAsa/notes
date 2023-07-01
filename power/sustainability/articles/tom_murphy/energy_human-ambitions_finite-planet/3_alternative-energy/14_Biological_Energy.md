@@ -104,148 +104,203 @@ Can you imagine burning through all of Earth's forests and animals in 15 years?+
 230
 
 ## 14.3 Biofuels
-Biofuels deserve their own category because the origins and end uses are different enough to warrant distinction. While the biomass sources from Section 14.2 tend to be in solid form, biofuels as treated here are liquid. Liquid fuels are instantly a big deal because they have the energy density and versatility to be used in transportation applications. An airplane can't very well fly on firewood, hydroelectricity, solar, wind, ocean currents, geothermal, or nuclear energy.13 matter. Biofuels therefore occupy a special place in the pantheon of renewable resources as the most obvious viable replacement for petroleum-the dominant fossil fuel responsible for 92%14 of transportation in the U.S.
+Biofuels deserve their own category because the origins and end uses are different enough to warrant distinction. While the biomass sources from Section 14.2 tend to be in solid form, biofuels as treated here are liquid. Liquid fuels are instantly a big deal because they have the energy density and versatility to be used in transportation applications. An airplane can't very well fly on firewood, hydroelectricity, solar, wind, ocean currents, geothermal, or nuclear energy.[^13] matter. Biofuels therefore occupy a special place in the pantheon of renewable resources as the most obvious viable replacement for petroleum-the dominant fossil fuel responsible for 92%[^14] of transportation in the U.S.
+
+[^13]: See, for instance, Box 13.3 (p. 212) and Box 17.1 (p. 290).
+
+[^14]: Another 5% is from biofuels, usually blended into gasoline.
+
 In the U.S. in 2018, 2.28 qBtu (2.3%; 0.08 TW) came from biofuels [^34], which is very similar to the amount from biomass (wood, waste). Out of the 11.41 qBtu of all renewables, biofuels account for 20% of the U.S. renewable budget (Table 10.3; p. 170).
-Most prominently, ethanol is the chief biofuel, accounting for about 80% of the total. It is an alcohol that can be produced by fermenting the photosynthetically-produced sugars in the plant and then distilling the result.15 Structurally, ethanol is very similar to ethane16 except that the terminating hydrogen on one end of the chain is replaced by a hydroxyl group (OH; shown in Figure 14.3).
-Though it is not necessary to fully understand the chemistry,17 combus- tion of ethanol-for comparison to the fossil fuel reactions in Eq. 8.1 (p. 121) goes according to
-C2H5OH + 202 → 2CO2 + 3H2O + 29.7kJ/g.
-(14.2)
-In other words, ethanol combines with oxygen via combustion (burning) producing carbon dioxide and water, also releasing energy. It is almost like the photosynthesis reaction (Eq. 14.1) in reverse.
-The energy density works out to 7.1 kcal/g, which is considerably lower than octane (representing gasoline) at 11.5 kcal/g (Table 8.2; p. 121). In terms of CO2 production, the reaction generates 88 g of CO2 for each 46 g of ethanol, coming to 1.9 g/g-which is lower than the 3.09 factor
-13: See, for instance, Box 13.3 (p. 212) and Box 17.1 (p. 290).
-14: Another 5% is from biofuels, usually blended into gasoline.
+
 [^34]: U.S. Energy Inform. Administration (2011), Annual Energy Review
-15:...also how "moonshine" alcohol is
-made
-16: .C2H6: the second in the alkane se- quence of methane, ethane, propane, bu- tane,..., octane, etc.
-17: Appendix B provides some background on chemical reactions and associated en-
-ergy.
-H-U
-HH
-H
-H-C-C-O
-HH
+
+Most prominently, ethanol is the chief biofuel, accounting for about 80% of the total. It is an alcohol that can be produced by fermenting the photosynthetically-produced sugars in the plant and then distilling the result.[^15] Structurally, ethanol is very similar to ethane[^16] except that the terminating hydrogen on one end of the chain is replaced by a hydroxyl group (OH; shown in Figure 14.3).
+
+[^15]:...also how "moonshine" alcohol is made
+
+[^16]: C2H6: the second in the alkane sequence of methane, ethane, propane, bu- tane,..., octane, etc.
+
+Though it is not necessary to fully understand the chemistry,[^17] combustion of ethanol-for comparison to the fossil fuel reactions in Eq. 8.1 (p. 121) goes according to
+
+$ C_2H_5OH + 20_2 → 2CO_2 + 3H_2O + 29.7kJ/g$. (14.2)
+
+[^17]: Appendix B provides some background on chemical reactions and associated energy.
+
+In other words, ethanol combines with oxygen via combustion (burning) producing carbon dioxide and water, also releasing energy. It is almost like the photosynthesis reaction (Eq. 14.1) in reverse.+++(4)+++
+
 Figure 14.3: Ethanol is similar to ethane, but replacing the hydrogen at the end with hydroxyl (OH).
-for octane. In terms of CO2 energy intensity, ethanol produces 64 g of CO2 for every 1 MJ of energy: exactly the same as petroleum (Table 8.2). Generally speaking, biofuels-and other forms of biomass-are often considered to be carbon-neutral,18 as the carbon released upon burning was taken in from the atmosphere in the process of photosynthesis, making it a cycle.
+
+The energy density works out to 7.1 kcal/g, which is considerably lower than octane (representing gasoline) at 11.5 kcal/g (Table 8.2; p. 121). In terms of $CO_2$ production, the reaction generates 88 g of $CO_2$ for each 46 g of ethanol, coming to 1.9 g/g-which is lower than the 3.09 factor for octane. 
+
+In terms of CO2 energy intensity, ethanol produces 64 g of CO2 for every 1 MJ of energy: exactly the same as petroleum (Table 8.2). 
+
+Generally speaking, biofuels-and other forms of biomass-are often considered to be carbon-neutral,[^18] as the carbon released upon burning was taken in from the atmosphere in the process of photosynthesis, making it a cycle.
+
+[^18]: In practice, fossil fuels are used in the cultivating of biofuels, so it's not a perfectly clean, closed cycle in present form.
+
 Most of the ethanol in the U.S. is blended into gasoline into E10, E15, or E85 products meaning 10%, 15%, or 85% ethanol. Not all vehicles are equipped to handle the more corrosive ethanol, and those that are ("flex-fuel" vehicles) might expect lower energy performance due to the fact that ethanol has lower energy density than gasoline.
-Both the lower energy density and lower carbon mass per input fuel mass can be attributed to the oxygen atom hosted by the ethanol molecule.19 Ethanol can derive from a number of plants. In the U.S., corn is the most common feedstock. Brazil uses sugar cane, which requires tropical climates.
 
-231
-18: In practice, fossil fuels are used in the cultivating of biofuels, so it's not a perfectly clean, closed cycle in present form.
-19: See Sec. B.3 (p. 379) for more insight into chemical reactions and energy content.
-14.3.1 EROEI
+Both the lower energy density and lower carbon mass per input fuel mass can be attributed to the oxygen atom hosted by the ethanol molecule.[^19] Ethanol can derive from a number of plants. In the U.S., corn is the most common feedstock. Brazil uses sugar cane, which requires tropical climates.
+
+[[231]]
+
+[^19]: See Sec. B.3 (p. 379) for more insight into chemical reactions and energy content.
+
+### 14.3.1 EROEI
 Before going further, we introduce a crucial metric for evaluating the merit of any energy source: the EROEI.
-Definition 14.3.1 EROEI, or Energy Returned on Energy Invested, is a measure of how profitable an energy source is in terms of energy, expressed as a ratio. For instance, a 9:1 EROEI means 9 units were extracted or produced for an investment of 1 unit, leaving a net gain of 8 units of energy. 1:1 is break-even, deriving no net energy benefit
-By and large, energy does not come for free. Oil has to be actively drilled; hydroelectricity requires construction of a dam; solar panels are fabricated in an industrial process requiring energy input. So the question is: how much energy do we get out compared to the amount we had to put in? If we extract less energy than we invest, we lose net energy and probably should not bother.20 If we only get a little more out, we still may question the investment.
-Example 14.3.1 Let's say an oil drilling operation uses petroleum products (like gasoline) as its only energy input for drilling and extracting oil. In one year, the operation pumps 12,000 barrels of oil, and in the effort uses 800 barrels of oil as energy input. What is the EROEI?
-In this case, we just have to arrange output to input as 12,000:800, and reduce to 15:1.
-Early oil wells were shallow and under pressure, producing "gushers" that exceeded 100:1 in EROEI. To understand what this means, imagine
+
+Definition 14.3.1  
+EROEI, or Energy Returned on Energy Invested, is a measure of how profitable an energy source is in terms of energy, expressed as a ratio. For instance, a 9:1 EROEI means 9 units were extracted or produced for an investment of 1 unit, leaving a net gain of 8 units of energy. 1:1 is break-even, deriving no net energy benefit.
+
 EROEI (sometimes just EROI) is one level above efficiency. Efficiency asks how much of a source is converted into a form useful to us. EROEI asks about what went into obtaining that source in the first place. It's still an efficiency, of sorts. Maybe a pre-efficiency.
-20: In some cases, it may still make sense to pursue EROEI < 1 resources if the resulting form is otherwise hard to obtain, like food
-energy.
-As another example, we might use coal to process biofuels, in effect converting a less useful solid to a more useful liquid, even if losing energy in the process. But such desperate measures will not be favored if alternatives exist.
+
+By and large, energy does not come for free. Oil has to be actively drilled; hydroelectricity requires construction of a dam; solar panels are fabricated in an industrial process requiring energy input. So the question is: how much energy do we get out compared to the amount we had to put in? If we extract less energy than we invest, we lose net energy and probably should not bother.[^20] If we only get a little more out, we still may question the investment.
+
+[^20]: In some cases, it may still make sense to pursue EROEI < 1 resources if the resulting form is otherwise hard to obtain, like food energy. As another example, we might use coal to process biofuels, in effect converting a less useful solid to a more useful liquid, even if losing energy in the process. But such desperate measures will not be favored if alternatives exist.
+
+<details><summary>Example 14.3.1</summary>
+
+Let's say an oil drilling operation uses petroleum products (like gasoline) as its only energy input for drilling and extracting oil. In one year, the operation pumps 12,000 barrels of oil, and in the effort uses 800 barrels of oil as energy input. What is the EROEI?
+
+In this case, we just have to arrange output to input as 12,000:800, and reduce to 15:1.
+</details>
+
+Early oil wells were shallow and under pressure, producing "gushers" that exceeded 100:1 in EROEI. To understand what this means, imagine using oil as the energy source for the original exploration, building the equipment, running the drill, and collecting/storing the product. An EROEI of 100:1 means that for every barrel of oil that goes into the process, 100 barrels come out. That's a good deal. A high EROEI means nearly "free" energy: low effort for high reward.
 
 
-232
-using oil as the energy source for the original exploration, building the equipment, running the drill, and collecting/storing the product. An EROEI of 100:1 means that for
-every barrel of oil that goes into the process, 100 barrels come out. That's a good deal. A high EROEI means nearly "free" energy: low effort for high reward.
-As we progress to more challenging oil resources, 21 the EROEI drops- now around 10-15:1 for conventional oil and as low as 3:1 for tar sands [^95]. Table 14.1 provides one set of EROEI estimates for various sources. Note that estimates vary due to difficulties in proper accounting of all energy inputs, so don't take these numbers literally-just as approximate guides.
-21: ... deep water, fracking, tar sands
+
+
+[[232]]
+
+
+As we progress to more challenging oil resources, [^21] the EROEI drops- now around 10-15:1 for conventional oil and as low as 3:1 for tar sands [^95]. Table 14.1 provides one set of EROEI estimates for various sources. Note that estimates vary due to difficulties in proper accounting of all energy inputs, so don't take these numbers literally-just as approximate guides.
+
+[^21]: ... deep water, fracking, tar sands
+
 [^95]: Hall et al. (2014), "EROI of different fuels and the implications for society"
-EROEI Est.
-Table 14.1: EROEI estimates for various sources [^96]. For example, Wind has an estimated EROEI of 20:1. See Table 7.1 (p. 106) for a refresher on how much en- ergy we get from various sources. Canada and Venezuela tend to have heavy oil de-
-posits.
-Source
-EROEI Est. Source
-Hydroelectric
-40+
-Solar PV
-Wind
-20
-Soy Biodiesel
-6
-5.5
-Coal
-18
-Nuclear Fission
-5
-Oil
-16
-Tar Sands
-3-5
-Sugar Cane Ethanol Natural Gas
-9
-7
-Heavy Oil (Can., Ven.) Corn Ethanol
-4
-1.4
-If life were a video game, we would look at Table 14.1, decide that hydroelectric and wind are "the best," cursor over to them and "plus" those two up until we're getting all our energy from these low-energy- investment sources. But of course the world is constrained, placing real limits to what is possible. We saw in Chapter 11 and Chapter 12 that hydroelectricity and wind cannot be expected to provide more than a few terawatts, leaving a large shortfall. Meanwhile, solar has the largest raw potential. In other words, it is useful to appreciate the EROEI of various resources, but EROEI is not the sole determining factor of what is practical. A low EROEI can be tolerable if abundance makes up for
-it.
-For resources whose energy investment is mostly up-front, before pro- duction begins, the resulting EROEI depends critically on how long the resource will provide energy. After all, the energy return gets larger the longer the facility can operate, while the investment part may be essentially done and unchanging. It can be difficult to predict how long a resource will last, which is part of why EROEI estimates are just that: approximate guidelines.
-Example 14.3.2 Let's say a particular wind turbine achieves a 20:1 EROEI after operating for a 40 year lifetime. How many years-worth of its energy output went into constructing and installing it?
-Each year the turbine produces some amount of energy, which we can call E (in Joules, for instance). In this case, it will produce 40E Joules in its lifetime. Since EROEI is 20:1, it must have taken 40E /20 = 2E Joules of input energy to create.22 At a rate of E per year, it will produce 2E
-22:...because the delivered energy is 20 times the input energy
+
+
+Table 14.1: EROEI estimates for various sources [^96]. For example, Wind has an estimated EROEI of 20:1. See Table 7.1 (p. 106) for a refresher on how much energy we get from various sources. Canada and Venezuela tend to have heavy oil deposits.
+ 
+Source EROEI Est. Source  
+Hydroelectric 40+  
+Wind 20  
+Coal 18  
+Oil 16  
+Sugar Cane Ethanol  9  
+Natural Gas 7  
+Solar PV 6  
+Soy Biodiesel 5.5  
+Nuclear Fission 5  
+Tar Sands 3-5  
+Heavy Oil (Can., Ven.) 4  
+Corn Ethanol 1.4  
+
+If life were a video game, we would look at Table 14.1, decide that hydroelectric and wind are "the best," cursor over to them and "plus" those two up until we're getting all our energy from these low-energy- investment sources. But of course the world is constrained, placing real limits to what is possible. We saw in Chapter 11 and Chapter 12 that hydroelectricity and wind cannot be expected to provide more than a few terawatts, leaving a large shortfall. Meanwhile, solar has the largest raw potential. In other words, it is useful to appreciate the EROEI of various resources, but EROEI is not the sole determining factor of what is practical. A low EROEI can be tolerable if abundance makes up for it.
+
+For resources whose energy investment is mostly up-front, before production begins, the resulting EROEI depends critically on how long the resource will provide energy. After all, the energy return gets larger the longer the facility can operate, while the investment part may be essentially done and unchanging. It can be difficult to predict how long a resource will last, which is part of why EROEI estimates are just that: approximate guidelines.
+
+<details><summary>Example 14.3.2</summary>
+ 
+Let's say a particular wind turbine achieves a 20:1 EROEI after operating for a 40 year lifetime. How many years-worth of its energy output went into constructing and installing it?
+
+Each year the turbine produces some amount of energy, which we can call E (in Joules, for instance). In this case, it will produce 40E Joules in its lifetime. Since EROEI is 20:1, it must have taken 40E /20 = 2E Joules of input energy to create.[^22] At a rate of E per year, it will produce 2E in 2 years, therefore taking two years to produce as much as went into its manufacture-paying for itself, energetically.
+
+[^22]: ...because the delivered energy is 20 times the input energy
+</details>
 
 
 233
-in 2 years, therefore taking two years to produce as much as went into its manufacture-paying for itself, energetically.
-In a self-supporting sense23 the net energy is x - 1 for an EROEI of x:1. In other words, an EROEI of 1.25:1 only "really" produces 0.25 units of exportable energy for every one unit invested, if that one invested unit comes from the 1.25 units extracted in a closed system. In this case, for every one unit netted,24 4 units went in and 5 came out-only 1 of the 5 free and clear.
-Example 14.3.3 A self-contained operation to produce ethanol man- ages to only use its own ethanol to run the entire operation of growing, harvesting, and processing the crops to produce ethanol. In one year, the operation produced a total of 250,000 L of ethanol at an EROEI of 1.25:1. How much ethanol were they able to export/sell from the operation?
+
+In a self-supporting sense[^23] the net energy is x - 1 for an EROEI of x:1. In other words, an EROEI of 1.25:1 only "really" produces 0.25 units of exportable energy for every one unit invested, if that one invested unit comes from the 1.25 units extracted in a closed system. In this case, for every one unit netted,[^24] 4 units went in and 5 came out-only 1 of the 5 free and clear.
+
+[^23]:... if the energy extracted is then used as the input to extract more
+
+[^24]:...multiplying the 0.25 net by 4
+
+
+<details><summary>Example 14.3.3</summary>
+
+A self-contained operation to produce ethanol manages to only use its own ethanol to run the entire operation of growing, harvesting, and processing the crops to produce ethanol. In one year, the operation produced a total of 250,000 L of ethanol at an EROEI of 1.25:1. How much ethanol were they able to export/sell from the operation?
+
 The 1.25 number is associated with total production, which is 250,000 L in this case. Multiplying both sides of the 1.25:1 ratio by 200,000 results in an output:input ratio of 250,000:200,000 meaning that the operation required 200,000 L of input. Thus the operation was able to deliver 50,000 L to market.
-Low EROEI cuts into the effective available resource, demanding in- vestment of precious energy. As conventional resources are exhausted, forcing us to lower-EROEI deposits, even if we keep up with energy demand in absolute terms,25 the net energy available will decline as a greater fraction of the harvest must go back into extraction.
-Example 14.3.4 What would have happened to an early agricultural society if the EROEI of growing food26 slipped below 1:1, if all of the energy used to harvest the food came from workers and animals fed. by the same food?
+</details>
+
+Low EROEI cuts into the effective available resource, demanding investment of precious energy. As conventional resources are exhausted, forcing us to lower-EROEI deposits, even if we keep up with energy demand in absolute terms,[^25] the net energy available will decline as a greater fraction of the harvest must go back into extraction.
+
+[^25]: .e.g., same number of barrels of oil produced each year
+
+<details><summary>Example 14.3.4</summary>
+  
+What would have happened to an early agricultural society if the EROEI of growing food[^26] slipped below 1:1, if all of the energy used to harvest the food came from workers and animals fed by the same food?
+
 At 1:1, every unit of energy extracted requires one unit of investment. Then 100% of the energy is spent acquiring energy, leaving no energy for other functions of the society (shelter, defense, etc.). Such a marginal existence could not be maintained, so some minimum exists below which the society becomes non-viable.
+
+[^26]: ... a form of energy
+
+</details>
+
 Note that many of the entries in Table 14.1 have low numbers, translating to a tough life in which a substantial fraction of the total energy resource is dedicated to continued energy procurement. Biological forms of energy are not superstars in this regard.
-Box 14.4: Eating Our Fossil Fuels
-Relatedly, and in a familiar context, the food industry in the U.S. today expends about 10 kcal of mostly fossil-fuel energy for every 1 kcal of
-23:... if the energy extracted is then used
-as the input to extract more
-24:...multiplying the 0.25 net by 4
-25: .e.g., same number of barrels of oil produced each year
-26:
-... a form of energy
 
 
-234
-food energy consumed [^97]. In a sense, we are eating27 our fossil fuels! It also points to an EROEI of 0.1:1, which is well below break-even. Obviously in times prior to fossil fuels, when we used human and animal labor in our agricultural pursuits, an EROEI less than 1:1 would spell starvation: more energy going in than was recouped from the land. Today, fossil fuels give us a temporary exception, so that we can afford to lose useful energy in the bargain, turning 10 units of fossil fuel energy into one unit that we eat. We might view this as a negative aspect of the Green Revolution.
-14.3.2 EROEI of Biofuels
-Various estimates exist for the EROEI for different biofuels. Unfortunately for the U.S., the corn ethanol industry is estimated to have an EROEI of anywhere from 0.8:1 to 1.6:1. The former would mean it's a net loss of energy, and that we would have more energy available if we did not spend any of it trying to get ethanol from corn. Biodiesel (a non-ethanol biofuel produced from vegetable oils or animal fat) is estimated to have an EROEI of 1.3:1 [^98]. Sugar cane may be anywhere from 0.8:1 to 10:1 [^99] (see Table 14.2).
-To explore an example of how this all plays out, let's say that corn ethanol provides an EROEI of 1.2:1-in the middle of the estimated range. This means that in order to get 1.2 units of energy out, one unit has to go
-in. Or for every 6 units out, 5 go in. If we use that same resource as the energy input-in other words, we use corn ethanol as the energy input to grow, harvest, distill, and distribute corn ethanol-then we get to "keep" one unit for external use out of every 6 units produced. For the U.S. to replace its 37 qBtu/yr oil habit with corn ethanol, it would take six times this much, or 220 qBtu (2.3 x $10^{20}$ J) of corn ethanol production each year.
-If the growing season is 5 months, the solar input is 250 $W/m^2$ on average, and the corn field is 1.5% efficient at turning sunlight into chemical energy, then each square meter of corn-land produces 4.9 x $10^{7}$ J of energy28 and we would therefore need about 5 x $10^{12}$ m2 of land for corn. This is an area 2,200 km on a side (Figure 14.4)! The U.S. does not possess this much arable land (estimated at about 30% of this). About 4 x $10^{11}$ m2 of land in the U.S. is currently used for corn production, which is 8% of what would be needed. And of course we must still feed ourselves. In 2018, 31% of U.S. corn production went into ethanol. We would somehow need to ramp corn ethanol production up by a factor of 40 to derive our current liquid fuels from corn in a self-sufficient way. Don't expect to see this fantasy materialize.
-Box 14.5: Why Do Corn Ethanol?
-If corn ethanol has such low EROEI, why is it pursued in the U.S.?
+[[234]]
+
+<details><summary>Box 14.4: Eating Our Fossil Fuels</summary>
+
+
+
+Relatedly, and in a familiar context, the food industry in the U.S. today expends about 10 kcal of mostly fossil-fuel energy for every 1 kcal of food energy consumed [^97]. In a sense, we are eating[^27] our fossil fuels! It also points to an EROEI of 0.1:1, which is well below break-even. Obviously in times prior to fossil fuels, when we used human and animal labor in our agricultural pursuits, an EROEI less than 1:1 would spell starvation: more energy going in than was recouped from the land. Today, fossil fuels give us a temporary exception, so that we can afford to lose useful energy in the bargain, turning 10 units of fossil fuel energy into one unit that we eat. We might view this as a negative aspect of the Green Revolution.
+
 [^97]: Pfeiffer (2006), Eating Fossil Fuels
-or at least subsidizing the energy
-27:
-Table 14.2: Summary: EROEI of biofuels.
-Source
-sugar cane ethanol soy bean biodiesel biodiesel
-corn ethanol algae-derived
-EROEI
-0.8-10
-5.5
-1.3
-0.8-1.6
-0.13-0.71
+
+[^27]: or at least subsidizing the energy
+</details>
+
+
+### 14.3.2 EROEI of Biofuels
+Various estimates exist for the EROEI for different biofuels. Unfortunately for the U.S., the corn ethanol industry is estimated to have an EROEI of anywhere from 0.8:1 to 1.6:1. The former would mean it's a net loss of energy, and that we would have more energy available if we did not spend any of it trying to get ethanol from corn. Biodiesel (a non-ethanol biofuel produced from vegetable oils or animal fat) is estimated to have an EROEI of 1.3:1 [^98]. Sugar cane may be anywhere from 0.8:1 to 10:1 [^99] (see Table 14.2).
+
 [^98]: Pimentel et al. (2005), "Ethanol production using corn, switchgrass, and wood; biodiesel production using soybean and sunflower"
-[^99]: Murphy et al. (2011), "Order from Chaos: A Preliminary Protocol for Deter- mining the EROI of Fuels"
+
+[^99]: Murphy et al. (2011), "Order from Chaos: A Preliminary Protocol for Determining the EROI of Fuels"
+
+Table 14.2: Summary: EROEI of biofuels.
+
+Source EROEI   
+sugar cane ethanol  0.8-10  
+soy bean biodiesel 5.5  
+biodiesel 1.3  
+corn ethanol 0.8-1.6  
+algae-derived 0.13-0.71  
+
+To explore an example of how this all plays out, let's say that corn ethanol provides an EROEI of 1.2:1-in the middle of the estimated range. This means that in order to get 1.2 units of energy out, one unit has to go in. Or for every 6 units out, 5 go in. If we use that same resource as the energy input-in other words, we use corn ethanol as the energy input to grow, harvest, distill, and distribute corn ethanol-then we get to "keep" one unit for external use out of every 6 units produced. For the U.S. to replace its 37 qBtu/yr oil habit with corn ethanol, it would take six times this much, or 220 qBtu (2.3 x $10^{20}$ J) of corn ethanol production each year.
+
+If the growing season is 5 months, the solar input is 250 $W/m^2$ on average, and the corn field is 1.5% efficient at turning sunlight into chemical energy, then each square meter of corn-land produces 4.9 x $10^{7}$ J of energy[^28] and we would therefore need about 5 x $10^{12}$ m2 of land for corn. This is an area 2,200 km on a side (Figure 14.4)! The U.S. does not possess this much arable land (estimated at about 30% of this). About 4 x $10^{11}$ m2 of land in the U.S. is currently used for corn production, which is 8% of what would be needed. And of course we must still feed ourselves. In 2018, 31% of U.S. corn production went into ethanol. We would somehow need to ramp corn ethanol production up by a factor of 40 to derive our current liquid fuels from corn in a self-sufficient way. Don't expect to see this fantasy materialize.
+
+[^28]: 150 days times 86,400 seconds per day times 250 $W/m^2$ times 0.015 gives Joules per square meter produced.
+
 Figure 14.4: Area of corn growth needed to displace U.S. petroleum demand if at EROEI of 1.2:1. This is far larger than agriculturally productive land in the U.S.
-28: 150 days times 86,400 seconds per day times 250 $W/m^2$ times 0.015 gives Joules per square meter produced.
+
+<details><summary>Box 14.5: Why Do Corn Ethanol?  </summary>
+
+If corn ethanol has such low EROEI, why is it pursued in the U.S.?
 
 Why do we have mandates to introduce ethanol into fuel blends?
-Don't assume that the world is always scientifically rational and run by "adults" whose interests extend beyond personal gain. Many political factors enter: votes from midwestern swing-states,29 job dependencies, influences from a powerful industry, the appearance of "green" (carbon-neutral) energy30 all play a role.
-A fundamental reason why the EROEI for biofuels tends to be low is that processing the material into ethanol requires a fair amount of energy input in the form of heat. Burning biomass, by contrast, does not have this requirement. Also, burned biomass is often gathered from untended (natural) environments that required little deliberate energy input on the parts of humans. Therefore, low EROEI is more a problem for biofuels than biomass.
-29:
-30:
 
-where corn is grown
-235
-compromised by low EROEI if using fossil-fuel inputs to run production
-14.4
-Upshot for Biomass and Biofuels
-Wood has always provided a source of heat for people, and will continue to do so. Its use occupied a much higher fraction of energy resources hundreds of years ago before being supplanted by fossil fuels. Still, several percent of U.S. energy comes from wood (and over 5% globally). Wood represents a renewable resource that can often be locally obtained, and will likely continue steady use, potentially assuming a greater fraction again if overall energy expenditure declines.
-31
+Don't assume that the world is always scientifically rational and run by "adults" whose interests extend beyond personal gain. Many political factors enter: votes from midwestern swing-states,[^29] job dependencies, influences from a powerful industry, the appearance of "green" (carbon-neutral) energy[^30] all play a role.
+
+[^29]: where corn is grown
+
+[^30]: compromised by low EROEI if using fossil-fuel inputs to run production
+</details>
+
+A fundamental reason why the EROEI for biofuels tends to be low is that processing the material into ethanol requires a fair amount of energy input in the form of heat. Burning biomass, by contrast, does not have this requirement. Also, burned biomass is often gathered from untended (natural) environments that required little deliberate energy input on the parts of humans. Therefore, low EROEI is more a problem for biofuels than biomass.
+
+[[235]]
+
+## 14.4 Upshot for Biomass and Biofuels
+Wood has always provided a source of heat for people, and will continue to do so. Its use occupied a much higher fraction of energy resources hundreds of years ago before being supplanted by fossil fuels. Still, several percent of U.S. energy comes from wood (and over 5% globally). Wood represents a renewable resource that can often be locally obtained, and will likely continue steady use,[^31] potentially assuming a greater fraction again if overall energy expenditure declines.
+
 Biofuels are special due to their liquid nature, as a potential replacement for oil to drive transportation. Because photosynthesis is not terribly efficient, and the EROEI of biofuels tends to be on the low side, the amount of land needed to replace petroleum is anywhere from daunting to prohibitive. This is even before addressing the crunch an extensive expansion would place on water resources or food supply, or the degra- dation of arable land that may result from depleting nutrients in the soil. Algae may represent another approach, but so far the process appears to be well below break-even in terms of EROEI (from 0.13-0.71:1 [^100]). It is difficult to see a meaningful path forward for wholesale replacement of liquid fuels using biological resources.
 A final perspective is that the total biological scale on the planet is estimated to be 100 TW (Table 10.2; p. 168), which is not outrageously
 more
