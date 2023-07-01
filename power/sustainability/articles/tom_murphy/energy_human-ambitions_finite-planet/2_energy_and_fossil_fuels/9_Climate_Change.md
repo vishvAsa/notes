@@ -141,11 +141,11 @@ coal
 year 
 We saw in Figure 8.2-repeated as Figure 9.2-a history of fossil fuel usage for the world, in coal, oil, and natural gas. Meanwhile, Table 9.1 indicates how much CO2 each fuel contributes per kilogram or Joule used. These two pieces can be combined to make an estimate of how much CO2 is emitted globally each year, and to track total CO2 emission over time. Table 9.2 and Box 9.1 elucidate how to go from the fossil fuel power figures (TW) in Figure 9.2 to CO2 atmospheric concentrations. 
 Box 9.1: Computing CO2 ppm, from TW 
-We will use oil as an example. In Figure 9.2, we appear to get about 6 TW from oil (5 TW from coal, 4 TW from natural gas). Multiplying by 1012 puts this in Watts (J/s) and by 3.156 × 107 seconds per year results in the annual global energy from oil in Joules: 1.9 × 1020 J/yr. Table 9.1 indicates that oil contains about 11.5 kcal/g, so the number of grams of oil used per can be determined by first converting J to kcal 
+We will use oil as an example. In Figure 9.2, we appear to get about 6 TW from oil (5 TW from coal, 4 TW from natural gas). Multiplying by $10^{12}$ puts this in Watts (J/s) and by 3.156 × $10^{7}$ seconds per year results in the annual global energy from oil in Joules: 1.9 × $10^{20}$ J/yr. Table 9.1 indicates that oil contains about 11.5 kcal/g, so the number of grams of oil used per can be determined by first converting J to kcal 
 Figure 9.2: Historical use of fossil fuels worldwide, repeated from Figure 8.2 [^16]. On the left is the raw usage rate expressed in terawatts, while the right is a per-capita mea- sure. The three fossil fuel types are stacked on top of one another, so that gas makes the smallest contribution, not the largest. For instance, on the right-hand-edge of the left panel, coal goes from 0 to 5 TW, oil from 5 to 11 (thus 6 TW from oil), and gas from 11 to 15, indicating 4 TW from gas. The left-hand panel makes clear that fossil fuel use is still rising dramatically, and thus CO2 
 emissions. 
 Operation 
-Starting value x 1012 W/TW x3.16 x 107 s/yr 
+Starting value x $10^{12}$ W/TW x3.16 x $10^{7}$ s/yr 
 Resulting Units Coal 
 TW 
 W (J/s) 
@@ -156,8 +156,8 @@ Gas
 ÷ x kcal/g 
 kcal/yr 
 ÷ 1,000 g/kg 
-xy CO2 kg/kg ÷ 5 × 1018 kg 
-X 106 
+xy CO2 kg/kg ÷ 5 × $10^{18}$ kg 
+X $10^{6}$ 
 ÷ 44/29 
 = 2 
 FF g/yr FF kg/yr CO2 kg/yr CO2 frac/yr CO2 ppmm/yr CO2 ppmv/yr CO2 ppmv/yr 
@@ -171,9 +171,9 @@ y = 2.75
 141 
 Table 9.2: Stepwise procedure to convert TW to ppm, of CO2. FF means fossil fuel, which can be coal, oil, or gas-each com- puted separately using the various values provided on the right. 
 total emissions stays in atmosphere 
-(divide by 4,184), yielding 4.5 × 1016 kcal/yr, and thus 3.9 × 1015 g/yr of oil, or 3.9 × 1012 kg/yr.[^5] Table 9.1 shows that each kilogram of oil combusted produces 3.09 kg of CO2, translating to 1.2 x 1013 kg/yr of CO2 from oil. Incidentally, we get the same answer using 64 g/MJ from Table 9.1 and 1.9×1014 MJ/yr from a few lines up. The remainder of the work, converting to parts per million, is covered in the text and the lower part of Table 9.2. 
+(divide by 4,184), yielding 4.5 × $10^{16}$ kcal/yr, and thus 3.9 × $10^{15}$ g/yr of oil, or 3.9 × $10^{12}$ kg/yr.[^5] Table 9.1 shows that each kilogram of oil combusted produces 3.09 kg of CO2, translating to 1.2 x $10^{13}$ kg/yr of CO2 from oil. Incidentally, we get the same answer using 64 g/MJ from Table 9.1 and 1.9× $10^{14}$ MJ/yr from a few lines up. The remainder of the work, converting to parts per million, is covered in the text and the lower part of Table 9.2. 
 8 
-The mass of the atmosphere is about 5 × 1018 kg, obtained by multiplying 10,000 kg of air sitting over every square meter by the $4πR^2$ surface area of the earth. Dividing the 1.2 × 1013 kg of oil-generated CO2 by the mass of the atmosphere yields 2.4 x $10^{-6}$, or 2.4 parts per million. We are almost there. The quantity we have calculated is parts per million by mass (ppmm), not the conventional parts per million by volume (ppm). Since air averages 29 g/mol, and CO2 is 44 g/mol, the mass concentration of CO2 is higher than the volume occupation in air by a factor of 44/29, or 1.52. Thus we divide our 2.4 ppmm result by 1.52 to get 1.6 ppm. A final correction is that only half of this stays in the atmosphere, so that today we are putting 0.8 ppm, into the atmosphere each year from oil. 
+The mass of the atmosphere is about 5 × $10^{18}$ kg, obtained by multiplying 10,000 kg of air sitting over every square meter by the $4πR^2$ surface area of the earth. Dividing the 1.2 × $10^{13}$ kg of oil-generated CO2 by the mass of the atmosphere yields 2.4 x $10^{-6}$, or 2.4 parts per million. We are almost there. The quantity we have calculated is parts per million by mass (ppmm), not the conventional parts per million by volume (ppm). Since air averages 29 g/mol, and CO2 is 44 g/mol, the mass concentration of CO2 is higher than the volume occupation in air by a factor of 44/29, or 1.52. Thus we divide our 2.4 ppmm result by 1.52 to get 1.6 ppm. A final correction is that only half of this stays in the atmosphere, so that today we are putting 0.8 ppm, into the atmosphere each year from oil. 
 Figure 9.3 shows the result of this computation as a function of time in terms of annual rate and cumulative emission. We find that even though oil and coal deliver about the same global annual energy now, the carbon-intensity of coal is much higher so that its CO2 emission dominates10 over the other sources. In fact, coal always has been the dominant CO2 producer, seen by the fact that the black curve in the left-hand panel of Figure 9.3 has always been higher than the other two CO2 sources. In total, this estimate suggests that we should see CO2 levels rising by 2.6 ppm, per year, a little over half of which is due to coal (1.4 ppm/year). 
 11 
 Summing up the rising contributions over time, this method of estimation suggests that we have increased the atmospheric CO2 by 123 ppm, and that 75 ppm, of this (61%) is attributed to coal (right-hand panel of Figure 9.3). 
@@ -274,7 +274,7 @@ via fossil fuels
 143 
 9.1.3 Chief Contributors 
 Climate change is a global phenomenon. Even if all emissions came from one country or region, atmospheric circulation would spread the result around the globe-albeit more slowly across the equator. It is, therefore, a global problem. All the same, it is interesting to look at chief emitters. 
-Table 9.3: Leading CO2 emitters, 2018. Gt means gigatons, or 1012 kg, as 1 ton is 
+Table 9.3: Leading CO2 emitters, 2018. Gt means gigatons, or $10^{12}$ kg, as 1 ton is 
 1,000 kg. 
 Country 
 Gt/yr 
@@ -902,16 +902,16 @@ Ice
 8.8 
 Table 9.7: Energy requirements to heat up (thermally "charge") Earth components, de- rived from Table 9.6. The energy invest- ment for the first three components depends on the temperature change sought, while melting ice is independent of temperature change. 
 Example 9.4.1 We will use the ocean as an example of how to interpret and use Table 9.7. The two numbers tell us what it takes to heat up the ocean per meter of depth and to heat the entire volume. 
-If we ask how much energy it would take to raise the temperature of the upper 10 m of the ocean by 2.5°C, we multiply 1.5 x 1021 J/m/°C by 10 m and 2.5°C to get 3.75 x 1022 J. Heating the entire volume of the ocean by 0.5°C would require 5.9 x 1024 J/°C times 0.5°C for 3 x 1024 J of energy. 
-Similarly but without any temperature element-it would take ~ 49 x 1021 J to melt 10 m of Earth's ice, and would take 8.8 x 1024 J to 
+If we ask how much energy it would take to raise the temperature of the upper 10 m of the ocean by 2.5°C, we multiply 1.5 x $10^{21}$ J/m/°C by 10 m and 2.5°C to get 3.75 x $10^{22}$ J. Heating the entire volume of the ocean by 0.5°C would require 5.9 x $10^{24}$ J/°C times 0.5°C for 3 x $10^{24}$ J of energy. 
+Similarly but without any temperature element-it would take ~ 49 x $10^{21}$ J to melt 10 m of Earth's ice, and would take 8.8 x $10^{24}$ J to 
 melt it all. 
-We are now in a position to appreciate how long it can take to change temperatures on a planetary scale for a certain imbalance in radiative forcing. If, for instance, the imbalance is 1 $W/m^2$,55 then Earth receives an extra 5.1 x 1014 J each second, or 1.6 x 1022 J in a year.[^56] We can compare this annual surplus energy to the values in Table 9.7 to understand how deeply the components would be heated or melted per year for a 1 $W/m^2$ radiative forcing imbalance. 
-Example 9.4.2 If we could direct all of the annual surplus 1.6 × 1022 J arising from a 1 $W/m^2$ imbalance into one component only,[^57] we could ask: to what depth will each component be heated by 1°C or melt the ice? 
+We are now in a position to appreciate how long it can take to change temperatures on a planetary scale for a certain imbalance in radiative forcing. If, for instance, the imbalance is 1 $W/m^2$,55 then Earth receives an extra 5.1 x $10^{14}$ J each second, or 1.6 x $10^{22}$ J in a year.[^56] We can compare this annual surplus energy to the values in Table 9.7 to understand how deeply the components would be heated or melted per year for a 1 $W/m^2$ radiative forcing imbalance. 
+Example 9.4.2 If we could direct all of the annual surplus 1.6 × $10^{22}$ J arising from a 1 $W/m^2$ imbalance into one component only,[^57] we could ask: to what depth will each component be heated by 1°C or melt the ice? 
 
 [^55]: 
 as it roughly is now; third panel in Figure 9.15 
 
-[^56]: 1 $W/m^2$ times the 5.1 x 1014 m2 area of Earth, then 3.16 x 107 seconds in a year. 
+[^56]: 1 $W/m^2$ times the 5.1 x $10^{14}$ m2 area of Earth, then 3.16 x $10^{7}$ seconds in a year. 
 
 [^57]: 
 not how it really works 
@@ -920,9 +920,9 @@ not how it really works
 154 
 component math 
 depth (m) 
-1.6 × 1022 J/(0.3 x 1021 J/m/°C -1°C) 
+1.6 × $10^{22}$ J/(0.3 x $10^{21}$ J/m/°C -1°C) 
 54 
-1.6 × 1022 J/(1.5 × 1021 J/m/°C 1°C) 1.6 × 1022 J/(4.9 × 1021 J/m) 
+1.6 × $10^{22}$ J/(1.5 × $10^{21}$ J/m/°C 1°C) 1.6 × $10^{22}$ J/(4.9 × 1021 J/m) 
 11 
 3.3 
 land 

@@ -413,7 +413,7 @@ coal
 [^49]: Here, "production" means "obtaining from the ground," not fabricating artifi- cially. 
 
 [^50]: Consumption and production are es- sentially identical: no stockpiling. 
-Table 8.5: Summary of proven reserves, usage rates, and time remaining for the world and for the U.S. (if using only its domestic supply) [[^44] [^45] [^46]]. Oil is measured in giga-barrels (Gbbl; $10^{9}$ bbl), gas in tera- cubic-meters (Tcm; 1012 m3), and coal in gigatons (Gt; 1012 kg; noting that 1 ton is 1,000 kg). 
+Table 8.5: Summary of proven reserves, usage rates, and time remaining for the world and for the U.S. (if using only its domestic supply) [[^44] [^45] [^46]]. Oil is measured in giga-barrels (Gbbl; $10^{9}$ bbl), gas in tera- cubic-meters (Tcm; $10^{12}$ m3), and coal in gigatons (Gt; $10^{12}$ kg; noting that 1 ton is 1,000 kg). 
 The world has already consumed 1.5 trillion barrels of oil, which is nearly the same amount as the 1.7 trillion barrels of proven reserves—indicating that we are roughly halfway through the resource.[^51] Certainly, we can expect that additional resources will be discovered and added to the 
 
 
@@ -441,12 +441,12 @@ Point number 4 deserves some elaboration. We should not think of fossil fuel res
 
 [^53]: Because gas is harder to transport, and typically delivered by pipelines, domestic supply is more relevant for gas than it is for the globally-traded oil resource. 
 
-[^54]: ZJ is zetta-Joules, or 1021 J. 
+[^54]: ZJ is zetta-Joules, or $10^{21}$ J. 
 Table 8.6: Proven reserves and amount used, in energy terms. 
 Fuel 
 Proven 
 1021 J 
-Used 1021 J 
+Used $10^{21}$ J 
 Coal 
 20 
 8 
@@ -716,7 +716,7 @@ global fossil fuel use (total, not per-capita) during the last 20 years.
 12. If an average American is responsible for consuming a barrel80 of 
 oil every 18 days, what power does this correspond to, in Watts? 
 13. Using the values in Table 8.2, compute the energy content of a gallon of gasoline assuming that octane (C8H18) is a good repre- sentative, energetically. Express your answer in both MJ and kWh. One gallon is 3.785 L and in the case of gasoline has a mass of 2.8 kg.[^81] 
-14. Every day, Americans use about 9 × 108 J of energy per person. Since we know that 37%, 13%, and 31% of this comes from oil, coal, and gas, respectively, use Table 8.2 to figure out how much mass of each is used per day on American's behalfs, and take a moment to compare to equivalent-mass volumes of water to provide familiar 
+14. Every day, Americans use about 9 × $10^{8}$ J of energy per person. Since we know that 37%, 13%, and 31% of this comes from oil, coal, and gas, respectively, use Table 8.2 to figure out how much mass of each is used per day on American's behalfs, and take a moment to compare to equivalent-mass volumes of water to provide familiar 
 context. 
 15. What if we could get our energy from drinking gasoline?82 Refer- ring to Table 8.2, how many grams of gasoline83 would we have to drink daily to satisfy the typical 2,000 kcal/day diet? How much volume does this represent if gasoline is 0.75 g/mL? Relate this to a familiar container for holding liquids. 
 84 
@@ -758,7 +758,7 @@ per person
 
 [^87]:...a made-up thing that we presume is irreplaceable 
 
-[^88]: ZJ is zetta-Joules, or 1021 J. 
+[^88]: ZJ is zetta-Joules, or $10^{21}$ J. 
 
  137 
 "run out one day," because they don't appreciate the substantial amount of work that must go into extracting the resource from a reluctant ground. What common, day-to-day personal experiences do you imagine contributes to this disconnect?89 

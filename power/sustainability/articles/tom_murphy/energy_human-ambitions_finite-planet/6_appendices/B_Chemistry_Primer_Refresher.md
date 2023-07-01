@@ -362,7 +362,7 @@ J
 mol. K 
 (B.3) 
 To get degrees in Kelvin, add 273.15 (273 among friends) to the tempera- ture in Celsius.[^19] Standard atmospheric pressure is about 105 Pa.[^20] 
-Example B.4.1 Let's say we have a gas at "standard temperature and pressure" (STP), meaning 0°C (273 K) and 1.013 x 105 Pa. How much volume would one mole of gas21 occupy? 
+Example B.4.1 Let's say we have a gas at "standard temperature and pressure" (STP), meaning 0°C (273 K) and 1.013 x $10^{5}$ Pa. How much volume would one mole of gas21 occupy? 
 We have everything we need to solve for volume, so 
 
 [^18]: A Pascal (Pa) is also a Newton of force per square meter, which reduces to more fundamental units of J/m3 (Joules of energy per cubic meter). 
@@ -379,7 +379,7 @@ V =
 3 
 = 22.4 L. 
 P 
-1.013 x 105 Pa 
+1.013 x $10^{5}$ Pa 
 Okay; lots going on here. After the three values in the numerator are multiplied, the only surviving unit is J (Joules of energy). The unit in the denominator is Pascals, but this is equivalent to Joules per cubic meter. So the answer emerges in cubic meters, as a volume should. Since a cubic meter is 1,000 liters, we find that a mole of gas at STP occupies 22.4 L-a number memorized by many a chemistry student! 
 Physicists prefer a variant of the ideal gas law that derives from the study of “statistical mechanics,” which is practically synonymous with thermodynamics and relates to the study of interactions between large ensembles of particles. The form looks pretty familiar, still: 
 PV = NKBT. 

@@ -570,7 +570,7 @@ While a description of the components and practical workings are beyond the scop
 ### 13.6.2 Sizing and Cost
 How large does an installation need to be? If the goal is to cover annual or monthly electricity use in a grid-tied system, the only two pieces of information needed are the typical electricity consumption in the relevant period and the average solar input at that location for the period of interest.
 
-The first can be surmised from electricity bills, usually giving a monthly total usage in kWh. We can get an approximate average scale from Fig. 7.2 (p. 105), which indicates that 42% of residential energy (11.9 qBtu per year) is from electricity. That's 5 qBtu, or 5.3 × 1018 J in one year (3.156 x 107 s), or 167 GW. Distributed among 130 million households in the U.S.,[^75] average household electricity consumption is 1,285 W. Applied over 24 hours, this makes for just over 30 kilowatt-hour (kWh) per day for an average household.[^76]
+The first can be surmised from electricity bills, usually giving a monthly total usage in kWh. We can get an approximate average scale from Fig. 7.2 (p. 105), which indicates that 42% of residential energy (11.9 qBtu per year) is from electricity. That's 5 qBtu, or 5.3 × $10^{18}$ J in one year (3.156 x $10^{7}$ s), or 167 GW. Distributed among 130 million households in the U.S.,[^75] average household electricity consumption is 1,285 W. Applied over 24 hours, this makes for just over 30 kilowatt-hour (kWh) per day for an average household.[^76]
 
 [^75]: ... makes sense for a population of 330 million: translates to 2.5 people per household, on average
 

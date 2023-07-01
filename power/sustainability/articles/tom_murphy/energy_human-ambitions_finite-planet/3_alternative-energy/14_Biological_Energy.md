@@ -301,28 +301,33 @@ A fundamental reason why the EROEI for biofuels tends to be low is that processi
 ## 14.4 Upshot for Biomass and Biofuels
 Wood has always provided a source of heat for people, and will continue to do so. Its use occupied a much higher fraction of energy resources hundreds of years ago before being supplanted by fossil fuels. Still, several percent of U.S. energy comes from wood (and over 5% globally). Wood represents a renewable resource that can often be locally obtained, and will likely continue steady use,[^31] potentially assuming a greater fraction again if overall energy expenditure declines.
 
-Biofuels are special due to their liquid nature, as a potential replacement for oil to drive transportation. Because photosynthesis is not terribly efficient, and the EROEI of biofuels tends to be on the low side, the amount of land needed to replace petroleum is anywhere from daunting to prohibitive. This is even before addressing the crunch an extensive expansion would place on water resources or food supply, or the degra- dation of arable land that may result from depleting nutrients in the soil. Algae may represent another approach, but so far the process appears to be well below break-even in terms of EROEI (from 0.13-0.71:1 [^100]). It is difficult to see a meaningful path forward for wholesale replacement of liquid fuels using biological resources.
-A final perspective is that the total biological scale on the planet is estimated to be 100 TW (Table 10.2; p. 168), which is not outrageously
-more
-e32 than the current 18 TW scale of the human endeavor. Can we really imagine commandeering 20% of all life on Earth to serve our energy needs? It would actually need to be substantially more than this, given EROEI limits. It may be that Earth does not possess enough biology to offer a substitute for our current fossil fuel appetite-even if we tried to use it all.
-31: ... subject to availability in the face of deforestation
+[^31]: ... subject to availability in the face of deforestation
+
+Biofuels are special due to their liquid nature, as a potential replacement for oil to drive transportation. Because photosynthesis is not terribly efficient, and the EROEI of biofuels tends to be on the low side, the amount of land needed to replace petroleum is anywhere from daunting to prohibitive. This is even before addressing the crunch an extensive expansion would place on water resources or food supply, or the degradation of arable land that may result from depleting nutrients in the soil. Algae may represent another approach, but so far the process appears to be well below break-even in terms of EROEI (from 0.13-0.71:1 [^100]). It is difficult to see a meaningful path forward for wholesale replacement of liquid fuels using biological resources.
+
 [^100]: Saad et al. (2019), "Algal Biofuels: Current Status and Key Challenges"
-32: compared to solar or wind budgets, for instance, which are 5,000 times and 50 times our demand-not just 5 times as is the case for all biology
+
+A final perspective is that the total biological scale on the planet is estimated to be 100 TW (Table 10.2; p. 168), which is not outrageously more[^32] than the current 18 TW scale of the human endeavor. Can we really imagine commandeering 20% of all life on Earth to serve our energy needs? It would actually need to be substantially more than this, given EROEI limits. It may be that Earth does not possess enough biology to offer a substitute for our current fossil fuel appetite-even if we tried to use it all.
+
+[^32]: compared to solar or wind budgets, for instance, which are 5,000 times and 50 times our demand-not just 5 times as is the case for all biology+++(5)+++
 
 We conclude by listing some pros and cons for biologically-derived energy, beginning with the advantageous aspects:
-- Biofuels offer a possible liquid fuel substitute to support trans- portation needs;
+
+- Biofuels offer a possible liquid fuel substitute to support transportation needs;
 - Biological energy relies on dependable solar input, replenished as harvested stocks grow back;
 - Biofuels represent a form of storage of solar energy, mitigating intermittency;
 - Methods for growing and harvesting crops are well established; Burning biomass is low-tech and likely to remain part of our energy portfolio.
-And the less savory aspects:
-- It is difficult to scale biological energy to meaningful multi-terawatt levels;
-Heavy reliance on biological energy co-opts earth's biology and displaces natural habitat;
-- Cultivating biofuels competes with food production for water and land resources;
-Low EROEI for biofuels reduces net energy available;
-- Smoke and other pollutants from burning biomass can be prob- lematic.
 
-236
-14.5 Problems
+And the less savory aspects:
+
+- It is difficult to scale biological energy to meaningful multi-terawatt levels;
+- Heavy reliance on biological energy co-opts earth's biology and displaces natural habitat;
+- Cultivating biofuels competes with food production for water and land resources;
+- Low EROEI for biofuels reduces net energy available;
+- Smoke and other pollutants from burning biomass can be problematic.
+
+[[236]]
+## 14.5 Problems
 1. A large tree might have a trunk 0.5 m in diameter and be 40 m tall. Even though it branches out many times, pretend all the wood fits into a cylinder maintaining this 0.5 m diameter for the full height of the tree. Wood floats,33 so let's say it has a density around 800 kg/m3. How many kilograms of CO2 did this tree pull out of the atmosphere to get its carbon, if we treat the tree's mass as 50% carbon?
 2. Using the geometry and density of the tree in Problem 1, if the resulting wood has an energy density similar to carbohydrates (4 kcal/g), and the tree spent 50 years accumulating this bulk while receiving an average of 250 $W/m^2$ of solar input over 5 months each year in a leafy area averaging 200 m2 to receive sunlight, what is the net photosynthetic efficiency of the tree?
 3. The U.S. gets 2.4 qBtu per year of energy from burning biomass (mostly firewood). At an energy density of 4 kcal per gram, and a population of 330 million, how many 5 kg logs per year does this translate to per person?

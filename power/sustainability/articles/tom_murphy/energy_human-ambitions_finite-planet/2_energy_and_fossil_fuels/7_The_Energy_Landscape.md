@@ -531,7 +531,7 @@ You may have noticed that as soon as we departed from the AER
 
 7 The Energy Landscape 
 110 
-data, which expressed energy in qBtu, the units on the plot (Fig. 7.7) changed to terawatt-hours (TWh). It means what it sounds like: tera is 1012, so this is 1012 watt-hours (Wh). We use kWh more often than Wh, so a TWh is the same as a giga-kWh, or GkWh (can you do that?). One kWh is 3.6 x 106 J, so 1 TWh is 3.6 x 1015 J. Meanwhile, 1 qBtu is 1.055 × 1018 J, facilitating a conversion. The figures for global power also 
+data, which expressed energy in qBtu, the units on the plot (Fig. 7.7) changed to terawatt-hours (TWh). It means what it sounds like: tera is 1012, so this is $10^{12}$ watt-hours (Wh). We use kWh more often than Wh, so a TWh is the same as a giga-kWh, or GkWh (can you do that?). One kWh is 3.6 x 106 J, so 1 TWh is 3.6 x 1015 J. Meanwhile, 1 qBtu is 1.055 × 1018 J, facilitating a conversion. The figures for global power also 
 put qBtu on the right side for easier comparison between plots. 
 The source of numbers for this section [^16] mix thermal and electrical output, so the plots have multiplied some entries (asterisks in plot legends) by 3.06 for reasons described in Box 7.2. 
 [^16]: Smil (2017), Energy Transitions: Global and National Perspectives 

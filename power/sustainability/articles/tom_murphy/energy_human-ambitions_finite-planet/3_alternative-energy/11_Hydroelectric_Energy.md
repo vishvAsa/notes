@@ -155,7 +155,7 @@ U.S. Total
 11 Hydroelectric Energy
 179
 0 2 4 6 8 10 Hydro generation (GW)
-1.25 x 1014 m2, so that a total hydroelectric potential of 2.5 TW24 would yield 0.02 $W/m^2$. Therefore, the state of Washington stands out as unusual, having already developed a generation capacity 2.5 times larger than the upper-end global average expectation. In other words, most of the world cannot emulate what nature has provided in Washington. Not all places have the same available resources.
+1.25 x $10^{14}$ m2, so that a total hydroelectric potential of 2.5 TW24 would yield 0.02 $W/m^2$. Therefore, the state of Washington stands out as unusual, having already developed a generation capacity 2.5 times larger than the upper-end global average expectation. In other words, most of the world cannot emulate what nature has provided in Washington. Not all places have the same available resources.
 25
 Figure 11.5: Average U.S. hydroelectric power delivered for each state, showing strongly along the west-coast, plus New York. And yes, Alaska really is that big.
 24: This is higher than estimated potential developed resources, but mathematically convenient here.
@@ -275,7 +275,7 @@ Hint: the energy density in MJ per kg is a property of the gasoline.
 40: For comparison, a large nuclear re- actor typically produces about 1 GW of electrical power.
 This stepwise behavior is not exactly real- istic, but need not be to apply the concept correctly.
 
-12. While the Chief Joseph Dam on the Columbia River can generate as much as 2.62 GW (2.62 x 109 W) of power at full flow, the river does not always run at full flow. The average annual production is 10.7 TWh per year (10.7 x 1012 Wh/yr). What is the capacity factor of the dam: the amount delivered vs. the amount if running at 100% capacity the whole year?
+12. While the Chief Joseph Dam on the Columbia River can generate as much as 2.62 GW (2.62 x $10^{9}$ W) of power at full flow, the river does not always run at full flow. The average annual production is 10.7 TWh per year (10.7 x $10^{12}$ Wh/yr). What is the capacity factor of the dam: the amount delivered vs. the amount if running at 100% capacity the whole year?
 13. The Robert Moses Niagara dam in New York is rated at 2,429 MW41 and has a high capacity factor of 0.633. How many kWh does it produce in an average day, and how many homes would this serve at the national average of 30 kWh/day?
 14. The Robert Moses Niagara dam from Problem 13 is 30 m high. What is the peak flow rate, in m3/s, if it can produce full capacity power (2.43 GW electrical output) while converting gravitational potential energy to electricity at 90% efficiency?
 15. It takes 2,250 J to evaporate each gram of water, while only taking about 330 J to raise the temperature of water from room temperature to the boiling point. If it takes 10 minutes to bring a pot of water from room temperature to boiling, how much additional time will it take to boil off (evaporate) all the water if injecting energy at the same rate the whole time?
@@ -297,7 +297,7 @@ Hint: Convert average power to kW then multiply by hours.
 42: Each stage will knock down the number further; report each in TW.
 43: This is the largest jump, keeping only 50 J out of every 2,300 J.
 2
-44: 44,000×1012 W divided by 3.7x1014 m2 of ocean surface is 120 $W/m^2$.
+44: 44,000× $10^{12}$ W divided by 3.7 $10^{14}$ m2 of ocean surface is 120 $W/m^2$.
 45: The steady 120 W is already account- ing for day/night: this is a time average.
 
 12 Wind Energy
@@ -335,7 +335,7 @@ Hydroelectric installations do the same thing-turning a shaft via blades of a tu
 12.2 Wind Energy
 It is tempting to think of air as "empty" space, but at sea level air has a density of 1.25 kg per cubic meter (Pair≈ 1.25 kg/m3). Let this sink in visually: imagine a cubic meter sitting next to you (as in Figure 12.1). The air within has a mass of 1.25 kg (about 2.75 lb). Now draw a square meter on the ground either literally or in your imagination. The many kilometers of air extending vertically over the top of that square meter has a mass of ~10,000 kg! For context, figure out how many cars that would be (typ. 1,500 kg ea.), or what kind of animal would be this
 massive.
-What this means is that air in motion can carry a significant amount of kinetic energy, since neither its mass nor velocity are zero. If the entire earth's atmosphere moved at 5 m/s-a noticeable breeze-at a total mass of 5 x 1018 kg, we'd have 6 x 1019 J of kinetic energy in air currents. If we somehow pulled all this energy out of the air-stopping its motion entirely we might expect the atmosphere to revive its normal wind
+What this means is that air in motion can carry a significant amount of kinetic energy, since neither its mass nor velocity are zero. If the entire earth's atmosphere moved at 5 m/s-a noticeable breeze-at a total mass of 5 x $10^{18}$ kg, we'd have 6 x $10^{19}$ J of kinetic energy in air currents. If we somehow pulled all this energy out of the air-stopping its motion entirely we might expect the atmosphere to revive its normal wind
 12 Wind Energy
 185
 1: Do the calculation yourself to follow along.

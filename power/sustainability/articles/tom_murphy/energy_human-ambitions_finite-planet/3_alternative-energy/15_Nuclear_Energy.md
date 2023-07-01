@@ -314,7 +314,7 @@ Following the entry in Table 15.5 for 56Fe, we first multiply the individual pro
 
 The actual mass, as it appears for 56Fe in the Chart of the Nuclides is 55.934942 a.m.u., which is smaller by 0.528447 a.m.u.[^18]
 
-Since 1a.m.u. is $1.660539×10^{-27}$ kg, we can convert this mass difference into kilograms, then multiply by c2, where c = 2.99792458 x 108 m/s to get the associated energy in units of Joules. 
+Since 1a.m.u. is $1.660539×10^{-27}$ kg, we can convert this mass difference into kilograms, then multiply by c2, where c = 2.99792458 x $10^{8}$ m/s to get the associated energy in units of Joules. 
 
 Traditionally, nuclear physics adopts a more convenient scale of electron-volts, and in particular, the MeV.[^19] To get our mass-energy difference from Joules to MeV, we divide by 1.6022 × $10^{-13}$ J/MeV, and this is the 492 MeV number appearing in the $Δmc^2$ column of Table 15.5.
 
@@ -485,7 +485,7 @@ The example corresponding to Table 15.7 is said to correspond to 17 million kcal
 
 [^29]: This result, by the way, is the same as 172.3 MeV in Table 15.7 using the conversion that 1 MeV is 1.6022 × $10^{-13}$ J.
 
-We now just need to divide by how many grams of "fuel" we supplied, which is 236.05 a.m.u. (Table 15.7), equating to 3.92 × $10^{-25}$ kg, or 3.92 × $10^{-22}$ g. Now we divide 6.6 x $10^{-15}$ kcal by 3.92 × $10^{-22}$g to get 16.8 × 106 kcal/g. Blows a burrito out of the water.
+We now just need to divide by how many grams of "fuel" we supplied, which is 236.05 a.m.u. (Table 15.7), equating to 3.92 × $10^{-25}$ kg, or 3.92 × $10^{-22}$ g. Now we divide 6.6 x $10^{-15}$ kcal by 3.92 × $10^{-22}$g to get 16.8 × $10^{6}$ kcal/g. Blows a burrito out of the water.
 </details>
 
 
@@ -495,7 +495,7 @@ We now just need to divide by how many grams of "fuel" we supplied, which is 236
 
 Considering that the average American uses energy at a rate of 10,000 W, how much 235U per year is needed to satisfy this demand for one individual?
 
-Since we have just computed the energy density of 235U to be 17 × 106 kcal/g (Box 15.3), let's first put the total energy in units of Joules, multiplying 104 W by 3.155 x 107 seconds in a year and then dividing by 4,184 J/kcal to get kilocalories. The result is 75 million kcal, so that an American's annual energy needs could be met by 4.5 g[^30] of 235U. That translates to about a quarter of a cubic centimeter, or a small pebble, at the density of uranium. Pretty amazing!
+Since we have just computed the energy density of 235U to be 17 × $10^{6}$ kcal/g (Box 15.3), let's first put the total energy in units of Joules, multiplying $10^{4}$ W by 3.155 x $10^{7}$ seconds in a year and then dividing by 4,184 J/kcal to get kilocalories. The result is 75 million kcal, so that an American's annual energy needs could be met by 4.5 g[^30] of 235U. That translates to about a quarter of a cubic centimeter, or a small pebble, at the density of uranium. Pretty amazing!
 
 [^30]: 75 million kcal divided by 17 million kcal/g is 4.5 g.
 
@@ -626,7 +626,7 @@ gold 0.004
 
 Table 15.9: Example material abundances in the earth's crust, in parts per million by mass.
 
-Evaluating the uranium reserves in energy terms is the most revealing approach. First, we take 0.72% of the 7.6 million tons available to represent the portion of uranium in the form of 235U. Enrichment (next section) will not separate all of the 235U, and the reactor can't burn all of it away before the fuel rod is essentially useless. So optimistically, we burn half of the mined 235U in the reactor. Multiplying the resulting 27,300 tons of usable 235U by the 17 million kcal/g we derived earlier yields a total of 2×1021 J. Table 15.10 puts this in context against fossil fuel proven reserves from page 127. We see from this that proven uranium reserves give us only 20% as much energy as our proven oil reserves, and about 5% of our total remaining fossil fuel supply. If we tried to get all 18 TW from this uranium supply, it would last less than 4 years!+++(5)+++ This does not sound like a salvation.
+Evaluating the uranium reserves in energy terms is the most revealing approach. First, we take 0.72% of the 7.6 million tons available to represent the portion of uranium in the form of 235U. Enrichment (next section) will not separate all of the 235U, and the reactor can't burn all of it away before the fuel rod is essentially useless. So optimistically, we burn half of the mined 235U in the reactor. Multiplying the resulting 27,300 tons of usable 235U by the 17 million kcal/g we derived earlier yields a total of 2× $10^{21}$ J. Table 15.10 puts this in context against fossil fuel proven reserves from page 127. We see from this that proven uranium reserves give us only 20% as much energy as our proven oil reserves, and about 5% of our total remaining fossil fuel supply. If we tried to get all 18 TW from this uranium supply, it would last less than 4 years!+++(5)+++ This does not sound like a salvation.
 
 Proven uranium reserves would last 90 years at the current rate of use, so really it is in a category fairly similar to that of fossil fuels in terms of finite supply. To be fair, proven reserves are always a conservative lower limit on estimated total resource availability. And since fuel cost is not the limiting factor for nuclear plants, higher uranium prices can make more available, from more difficult deposits. Still, even a factor of two more does not transform the story into one of an ample, worry-free resource.
 
@@ -982,9 +982,9 @@ The wording is long because without con- text, it's just math. The real learning
 271
 decay, β decay, B+ decay, and spontaneous fission?
 energy.
-14. In a year, an average American uses about 3 x 1011 J of
+14. In a year, an average American uses about 3 x $10^{11}$ J of
 How much mass does this translate to via $E = mc^2$? Rock has a density approximately 3 times that of water, translating to about 3 mg per cubic millimeter. So roughly how big would a chunk of rock material be to provide a year's worth of energy if converted to pure energy? Is it more like dust, a grain of sand, a pebble, a rock, a boulder, a hill, a mountain?
-15. The world uses energy at a rate of 18 TW, amounting to almost 6 x 1020 J per year. What is the mass-equivalent83 of this amount of annual energy? What context can you provide for this amount of mass?
+15. The world uses energy at a rate of 18 TW, amounting to almost 6 x $10^{20}$ J per year. What is the mass-equivalent83 of this amount of annual energy? What context can you provide for this amount of mass?
 16. How much mass does a nuclear plant convert into energy if
 running uninterrupted for a year at 2.5 GW (thermal)?
 17. A large boulder whose mass is 1,000 kg having a specific heat capacity of 1,000 J/kg/°C is heated from 0°C to a glowing 1,800°C. How much more massive is it, assuming no atoms have been added or subtracted?
@@ -1036,7 +1036,7 @@ needs. But given realities that only 0.08% of mass is converted to energy in nuc
 33. Based on the abundance of 235U in the earth's crust (Table 15.9), how many kilograms of typical crust would need to be excavated and processed per year to provide the~ 0.005 kg of 235U you
 need for your personal energy (as in Example 15.4.2)?
 34. In crude terms, proven uranium reserves could go another 90 years at the present rate of use. But the world gets only about a tenth of its electricity from nuclear. What does this imply about the timescale for the uranium supply if the world got all of its electricity from conventional (non-breeding) nuclear fission?
-35. Replicate the calculation and show the work that if we have 2×1021 J of proven uranium reserves under conventional fission, we would exhaust our supply in less than 4 years if using this source to support the entire 18 TW global energy appetite.
+35. Replicate the calculation and show the work that if we have 2× $10^{21}$ J of proven uranium reserves under conventional fission, we would exhaust our supply in less than 4 years if using this source to support the entire 18 TW global energy appetite.
 36. Use Figure 15.18 to reconstruct the breeder route from 232Th to 233 U by describing the associated nuclei and decays (and half-lives)
 involved.
 37. For spent nuclear fuel a few decades old, what isotopes are respon-
@@ -1051,7 +1051,7 @@ Of course mining does not work this way, instead seeking concentrations.
 Hint: start by adding a neutron to 232 Th
 89: ... also a thermal measure
 
-41. The sun is a fusion power plant producing 3.8 x 1026 W of power. How many kilograms of mass does it lose in a year trough pure energy conversion? How does this compare to the mass of a spherical asteroid 50 km in diameter whose density is 2,000 kg/m3?
+41. The sun is a fusion power plant producing 3.8 x $10^{26}$ W of power. How many kilograms of mass does it lose in a year trough pure energy conversion? How does this compare to the mass of a spherical asteroid 50 km in diameter whose density is 2,000 kg/m3?
 42. Based on the fractional mass loss associated with turning four hydrogen atoms into a helium atom, what fraction of the sun's mass would it lose over its lifetime by converting all its hydrogen into helium, under the simplifying assumption that it starts its life as 100% hydrogen?
 43. The three fusion forms in Eq. 15.3 each have different energy outputs. Looking at Figure 15.10,90 how would you qualitatively describe why the three reactions differ in this way?
 44. Based on the calculation that 18 TW would require an annual cube of seawater 300 m on a side to provide enough deuterium, what is your personal share as one of 8 billion people on earth, in liters? Could you lift this yourself? One cubic meter is 1,000 L.

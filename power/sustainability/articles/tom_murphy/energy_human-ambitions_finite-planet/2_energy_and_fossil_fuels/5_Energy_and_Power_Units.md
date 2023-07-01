@@ -311,7 +311,7 @@ In terms of Joules, 1 Btu is about 1,055 J, or not far from 1 kJ.
 We can make sense of the conversion to Joules in the following way: a pound is roughly half a kilogram and one degree Fahrenheit is approxi- mately half a degree Celsius. So a Btu should be roughly a quarter of a kcal. Indeed, 1,055 J is close to one quarter of 4,184 J. 
 Box 5.4: Quads: qBtu 
 The U.S. uses quadrillion Btu to represent country-scale annual energy expenditures. It is denoted as qBtu, or informally "quads." One qBtu is approximately 1018 J.20 
-The U.S. uses about 100 quads per year. Since a year is about 3.16×107 seconds,[^21] dividing energy in Joules by time in seconds tells us that the U.S. power is about 3 x 1012 W (3 TW), working out to about 10,000 W per person as a per-capita rate of energy use. 
+The U.S. uses about 100 quads per year. Since a year is about 3.16× $10^{7}$ seconds,[^21] dividing energy in Joules by time in seconds tells us that the U.S. power is about 3 x $10^{12}$ W (3 TW), working out to about 10,000 W per person as a per-capita rate of energy use. 
 Example 5.6.1 For appliances characterized by Btu/hr, we can relate to power in Watts via 1 Btu/hr as 1,055 J per 3,600 s, working out to 0.293 W. 
 Thus, a hot water heater rated at 30,000 Btu/hr is effectively 8,800 W. 
 Let's also pause to understand how long it will take to heat a shower's worth of hot water at this rate. We'll do it two ways: 
@@ -322,9 +322,9 @@ We need to cover the unit in this chapter in order to be energy-literate in the 
 
 [^19]: Recall that 1 kcal is the energy it takes to heat one kilogram of water by 1°C. 
 
-[^20]: 1.055 x 1018 J, more precisely. 
+[^20]: 1.055 x $10^{18}$ J, more precisely. 
 
-[^21]: A cute and convenient way to remember this, approximately, is π x 107 seconds per 
+[^21]: A cute and convenient way to remember this, approximately, is π x $10^{7}$ seconds per 
 year. 
 
 [^22]: Typical shower flow is about 2 gallons, or ~8 L, per minute. 
@@ -332,7 +332,7 @@ year.
 125 × 63 = 7,900 Btu of energy at a rate of 30,000 Btu/hr, so it will take 7,900/30,000 of an hour, or just over 15 minutes. 2. In metric terms, the equivalent to 15 gallons is 57 L (57 kg), and we heat from 20°C to 55°C at 8,800 W.23 Since one kcal heats one kilogram of water 1°C, heating 57 kg by 35°C will require 57 x 35 kcal, or 57 x 35 x 4, 184J = 8.35 MJ, which at 8,800 W will take 950 seconds, also just over 15 minutes (reassuringly, the same answer). 
 5.7 Therms 
 We will rarely encounter this unit, but include it here because natural gas utility bills24 in the U.S. often employ Therms. Since part of the goal of this book is to empower a personal understanding of energy and how to compare different measures of energy (e.g., on a utility bill), conventions in the U.S. demand that we cover the unit here.[^25] 
-Definition 5.7.1 One Therm is 100,000 Btu, or 1.055 x 108 J, or 29.3 kWh. 
+Definition 5.7.1 One Therm is 100,000 Btu, or 1.055 x $10^{8}$ J, or 29.3 kWh. 
 Box 5.5: Why Therms? 
 The Therm is partly adopted for the near-convenience that 100 cubic feet of natural gas (CCF or 100 CF), which meters measure directly, equates to 1.036 Therms. Relatedly, one gallon (3.785 L) of liquid propane gas26 contains 91,500 Btu, which is 0.915 Therms. Thus the Therm very closely matches convenient measures of natural gas (100 cubic feet) or liquid propane (a gallon). 
 Example 5.7.1 It might take approximately 10,000 kcal of energy27 to heat a fresh infusion of cold water into a hot water heater tank. How many Therms is this? 
@@ -399,8 +399,8 @@ Definition 5.9.1 One electron-volt is the energy associated with pushing one fun
 1 eV = 1.6 × $10^{-19}$ C. 1V = 1.6 × $10^{-19}$ J 
 (5.3) 
 The electron-volt, at 1.6 x $10^{-19}$ J, is a tiny amount of energy. But it's just the right level for describing energetic processes for individual atoms. 
-Example 5.9.1 When 12 grams of carbon (one mole, or 6x1023 atoms35) reacts with oxygen to form CO2, about 394 kJ of energy is released.[^36] How much energy is this per carbon atom in electron-volts? 
-Since we have one mole, or 6 x 1023 carbon atoms, we divide our total energy (3.94 × 105 J) by the number of atoms to get 6.5 x $10^{-19}$ J per atom. This is just a bit larger than 1 eV (1.6 x $10^{-19}$ J), and the division leads to something very close to 4 eV per atom. 
+Example 5.9.1 When 12 grams of carbon (one mole, or 6 $10^{23}$ atoms35) reacts with oxygen to form CO2, about 394 kJ of energy is released.[^36] How much energy is this per carbon atom in electron-volts? 
+Since we have one mole, or 6 x $10^{23}$ carbon atoms, we divide our total energy (3.94 × $10^{5}$ J) by the number of atoms to get 6.5 x $10^{-19}$ J per atom. This is just a bit larger than 1 eV (1.6 x $10^{-19}$ J), and the division leads to something very close to 4 eV per atom. 
 Because CO2 has a total of four bonds between the carbon atom and the two oxygen atoms,[^37] we see that each bond accounts for about 1 eV. Chemical bonds are often in this range, highlighting the usefulness of the eV unit at the atomic level. 
 
 [^34]: Really, this is just the kinetic energy of the particle. 
