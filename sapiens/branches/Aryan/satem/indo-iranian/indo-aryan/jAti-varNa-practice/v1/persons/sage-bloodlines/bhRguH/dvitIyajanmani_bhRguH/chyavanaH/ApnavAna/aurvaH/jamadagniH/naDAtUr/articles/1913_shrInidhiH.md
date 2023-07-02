@@ -23,3 +23,13 @@ In recognition of his lifelong service for Sanskrit literature, he was honoured 
 Swami’s disciples celebrated his Shatabhishekam (81st Birthday)with all grandeur at Vaduvoor in 1994. Sri Swami attained his heavenly abode in 2001. He is survived by three daughters and four sons. His eldest son Sri S. Seshadri is now handling the day to day affairs of the Tirumaligai and he is now the managing trustee of Nadadoor Ammal Trust founded by Swami. Swami’s second son Balakavi S. Sundararajan IAS(rtd.) has inherited Swami’s calibare in Sanskrit literature, and he went to receive the President’s honour for Sanskrit literature in 2005.
 
 Swami’s service to the cause of Sri Vaishanavism and Sri Bhashya is being carried forward, by his third son Shastrasahiti Vallabha V.S. Karunakaran Swami.
+
+
+## Ramayana Thrayee
+This is a compendium of three Ramayanas composed by Sri U.Ve. Villur Nadadoor Sribhashya Simhasanadhipati Sri Ashukavi Sarvabhauma  Srinivasaraghavacharya Swami who was popular by his pen name -  Srinidhi Swami . The book contains Sanskrit verse with English and Tamil meanings of the 3 Ramayanas namely,
+
+Sri Rama Chatushloki : Ramayana rendered in just four shlokas - https://youtu.be/Wu8HkTiz3uQ
+
+Sri Manju Ramayanam: Ramayana story retold  in about 250 shlokas. This work won the first prize in annual Dasara  Sanskrit Award function organized  by the Mysore Kingdom in 1949 CE.
+
+Sri Mandasmita Ramayanam : Ramayana retold in a unique style, relating each scene in the grand epic to simile of Lord Rama enshrined in temple at  Vaduvur, Tiruvarur District of Tamil Nadu - popular as Dakshina Ayodhya.
