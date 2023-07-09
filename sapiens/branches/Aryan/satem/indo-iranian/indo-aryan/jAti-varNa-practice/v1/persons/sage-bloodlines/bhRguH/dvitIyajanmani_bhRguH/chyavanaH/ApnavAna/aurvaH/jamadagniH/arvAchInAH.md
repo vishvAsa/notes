@@ -49,15 +49,6 @@ A diamond of वत्सगोत्र mined from the blessed दीक्ष�
 - Went on a pilgrimage of N India. They used to travel during nights and during daytime stay in wayside Vaishnavite villages and spent the day doing Upanyasams on Sri Desika Sampradaya in Sanskrit while the local pandits translated the same in local languages, to the audience. This took four months for them to reach Calcutta.
 - Returned south, started publishing lots of books.
 
-## नल्लन्-चक्रवर्ती
-Thirumalai Nallan Chakravarthy was a sishyA of Ramanuja and is said to have converted even some hunters into Sri Vaishnavaites. These hunters were the ones who helped our Sri Ramanuja when he was in exile due to the atrocities commited by the KrimikanTa chOlan. On seeing their bhakthi when Sri Ramanuja asked them as to who taught them all these things, they replied that it was their AchArya by name Thirumalai nallAn, for which Sri Ramanuja said "nallAn enRa kALamEgham ippadi varshikkiradhE" (The dark cloud named 'nallAn' is pouring the grace and the bhakthi in a great manner so that everyone is benefitted).
-
-### श्रीरङ्ग-महागुरुः
-- पिता - Thirumala-charya Nallanchakravarthy । माता रुक्मिणी। 
-- हेडतले-ग्रामस्थो योगि-सिद्धः। सङ्गीते निपुणः। नाडिविद्या-निपुणः।  
-- गृहस्थो ऽपि पिताऽप्य् आरामवान् अपि बहुभ्यो दीक्षाम् अददात् समाधिस्थितेर् अप्य् अनुभवम्।  रङ्गप्रियस्वामिनो गुरुर् विशिष्य। 
-- मधुमेहेन मृतः। 
-
 ## समर्थ-रामदासः
 samartha rAmadAsa
 bold spiritual and practical [inspirer](http://manasataramgini.wordpress.com/2004/05/23/sant-ramadas-letter-to-sambhaji/) of shivAji. (Letter to sambhAjI [KC](http://kalchiron.blogspot.com/2014/06/advice-by-ramdas-swamy-to-sambhaji.html).)  

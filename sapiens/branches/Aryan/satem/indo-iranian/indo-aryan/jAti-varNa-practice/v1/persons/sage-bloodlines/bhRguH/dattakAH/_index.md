@@ -25,9 +25,6 @@ title = "+दत्तक-भार्गवाः"
 ### उपनिषद्ब्रह्मेन्द्रः
 पूर्वाश्रम name, शिवराम, was the great उपनिषद्-ब्रह्मेन्द्र, who wrote a commentary on 108 उपनिषद्-s to fulfill the dream of his father, शिवकामेश्वर.
 
-### तट्टै-वंशः
-They are descended from Tankacharya the vAkyakAra aka Brahmanandin (cited by rAmAnuja as his philosophical predecessor).
-
 ### दाशरथिः/ मुदलि-आण्डन्
 - रामानुजभागिनेयः
 - कन्दाडै-आण्डन् इति तदात्मजश् श्रीवैष्णवपीठाधिपतिष्व् अन्यतमः। 
