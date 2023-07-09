@@ -50,5 +50,7 @@ from मिथिलदेश, he not only wrote fine love poetry राधा-�
 > Authority: Heard in KAlakshepam and it is said that because of this "Matru sisroosha",KAsyapa attained Swarga and became PrajApathi subsequently - ibid. Notes on AyOdhyAkhANDam (p19)".
 
 
+इमे श्रीवैष्णवाः प्रायेण। 
+
 - वीरराघवः इति प्रयोग-चन्द्रिका-लेखकः।
-- माडभूषि-चक्रवर्ती। 
+- माडभूषि-चक्रवर्तीति महान् विद्वान्। 
