@@ -6,7 +6,7 @@ title = "03 Contents"
 ## I SETTING THE STAGE: GROWTH AND LIMITATIONS
 - 1 Exponential Growth
   - 1.1 Bacteria in a Jar.
-  - 1.1.1 Exponential Math
+    - 1.1.1 Exponential Math
   - 1.2 Energy Extrapolation
   - 1.3 Thermodynamic Absurdity 
   - 1.4 Upshot: Limits to Growth 
@@ -21,14 +21,14 @@ title = "03 Contents"
 - 3 Population
   - 3.1 Population History.
   - 3.2 Logistic Model .
-  - 3.2.1 Overshoot
-  - 3.2.2 Logistic Projection
+    - 3.2.1 Overshoot
+    - 3.2.2 Logistic Projection
   - 3.3 Demographic Transition
-  - 3.3.1 Geographic Considerations.
-  - 3.3.2 Transition Cost . . .
+    - 3.3.1 Geographic Considerations.
+    - 3.3.2 Transition Cost . . .
   - 3.4 Touchy Aspects
-  - 3.4.1 It's Personal
-  - 3.4.2 Population Policy
+    - 3.4.1 It's Personal
+    - 3.4.2 Population Policy
   - 3.5 Upshot: It Depends on Us
   - 3.6 Problems
 - 4 Space Colonization
@@ -58,50 +58,50 @@ title = "03 Contents"
   - 6.2 Heat Capacity
   - 6.3 Home Heating/Cooling
   - 6.4 Heat Engines.
-  - 6.4.1 Entropy and Efficiency Limits
+    - 6.4.1 Entropy and Efficiency Limits
   - 6.5 Heat Pumps
-  - 6.5.1 Consumer Metrics.
+    - 6.5.1 Consumer Metrics.
   - 6.6 Upshot on Thermal Energy 
   - 6.7 Problems
 - 7 The Energy Landscape
   - 7.1 The Annual Energy Review
-  - 7.1.1 Energy Flow
-  - 7.1.2 Source and Sector
-  - 7.1.3 Detailed Mix.
-  - 7.1.4 Energy Trends
+    - 7.1.1 Energy Flow
+    - 7.1.2 Source and Sector
+    - 7.1.3 Detailed Mix.
+    - 7.1.4 Energy Trends
   - 7.2 Global Energy
-  - 7.2.1 U.S. Global Share
+    - 7.2.1 U.S. Global Share
   - 7.3 Upshot: Go to the Source
   - 7.4 Problems
 - 8 Fossil Fuels
   - 8.1 The Most Important Plot Ever
   - 8.2 Overview: Coal, Oil, and Gas
-  - 8.2.1 Coal
-  - 8.2.2 Petroleum (Oil)
-  - 8.2.3 Natural Gas
+    - 8.2.1 Coal
+    - 8.2.2 Petroleum (Oil)
+    - 8.2.3 Natural Gas
   - 8.3 Chemical Energy.
   - 8.4 Fossil Fuel Pros and Cons.
-  - 8.4.1 Fossil Fuels are Amazing
-  - 8.4.2 Fossil Fuels are Terrible
-  - 8.4.3 On Balance?
+    - 8.4.1 Fossil Fuels are Amazing
+    - 8.4.2 Fossil Fuels are Terrible
+    - 8.4.3 On Balance?
   - 8.5 The Future of Fossil Fuels.
-  - 8.5.1 Scenarios.
-  - 8.5.2 Timescales
-  - 8.5.3 Clues in the Data
-  - 8.5.4 Geopolitics
+    - 8.5.1 Scenarios.
+    - 8.5.2 Timescales
+    - 8.5.3 Clues in the Data
+    - 8.5.4 Geopolitics
   - 8.6 Upshot: Good, Bad, Limited
   - 8.7 Problems
 - 9 Climate Change
   - 9.1 The Source of CO2
-  - 9.1.1 CO2 Measurements
-  - 9.1.2 CO2 Expectations
-  - 9.1.3 Chief Contributors
+    - 9.1.1 CO2 Measurements
+    - 9.1.2 CO2 Expectations
+    - 9.1.3 Chief Contributors
   - 9.2 Warming Mechanism
   - 9.3 Possible Trajectories
   - 9.4 Consequences
-  - 9.4.1 Heating Up.
-  - 9.4.2 Heating Earth's Skin 
-  - 9.4.3 Sea Level Rise
+    - 9.4.1 Heating Up.
+    - 9.4.2 Heating Earth's Skin 
+    - 9.4.3 Sea Level Rise
   - 9.5 What Can Be Done?
   - 9.6 Upshot: A Serious Problem
   - 9.7 Problems
@@ -118,7 +118,7 @@ title = "03 Contents"
   - 11.1 Grav. Potential Energy
   - 11.1.1 Comparison to Other Forms
   - 11.2 Hydroelectric Energy
-  - 11.2.1 Theoretical Potential.
+    - 11.2.1 Theoretical Potential.
   - 11.3 Hydropower in the U.S.
   - 11.4 Global Hydropower
   - 11.5 Upshot: Pros and Cons 11.6 Problems
@@ -132,18 +132,18 @@ title = "03 Contents"
   - 13.1 The Energy of Light
   - 13.2 The Planck Spectrum
   - 13.3 Photovoltaics .
-  - 13.3.1 Theoretical Efficiency
+    - 13.3.1 Theoretical Efficiency
   - 13.4 Insolation. . .
   - 13.5 Incredible Solar Potential
   - 13.6 Residential Considerations
-  - 13.6.1 Configurations. . 
-  - 13.6.2 Sizing and Cost
+    - 13.6.1 Configurations. . 
+    - 13.6.2 Sizing and Cost
   - 13.7 Photovoltaic Installations
-  - 13.7.1 Pros and Cons of PV
+    - 13.7.1 Pros and Cons of PV
   - 13.8 Solar Thermal
-  - 13.8.1 Passive Solar Heat
-  - 13.8.2 Solar Thermal Electricity
-  - 13.8.3 Pros and Cons of ST.
+    - 13.8.1 Passive Solar Heat
+    - 13.8.2 Solar Thermal Electricity
+    - 13.8.3 Pros and Cons of ST.
   - 13.9 Upshot for Solar 13.10 Problems
 - 14 Biological Energy
   - 14.1 Photosynthesis
@@ -158,25 +158,25 @@ title = "03 Contents"
   - 15.2 Radioactive Decay
   - 15.3 Mass Energy
   - 15.4 Fission
-  - 15.4.1 The Basic Idea.
-  - 15.4.2 Chain Reaction.
-  - 15.4.3 Fission Accounting
-  - 15.4.4 Practical Implementations
-  - 15.4.5 Nuclear Waste ...
-  - 15.4.6 Weapons and Proliferation
-  - 15.4.7 Nuclear Safety
-  - 15.4.8 Pros and Cons of Fission
+    - 15.4.1 The Basic Idea.
+    - 15.4.2 Chain Reaction.
+    - 15.4.3 Fission Accounting
+    - 15.4.4 Practical Implementations
+    - 15.4.5 Nuclear Waste ...
+    - 15.4.6 Weapons and Proliferation
+    - 15.4.7 Nuclear Safety
+    - 15.4.8 Pros and Cons of Fission
   - 15.5 Fusion..
-  - 15.5.1 Fuel Abundance
-  - 15.5.2 Fusion Realities
-  - 15.5.3 Pros and Cons of Fusion
+    - 15.5.1 Fuel Abundance
+    - 15.5.2 Fusion Realities
+    - 15.5.3 Pros and Cons of Fusion
   - 15.6 Upshot on Nuclear..
   - 15.7 Problems
 - 16 Small Players
   - 16.1 Geothermal Energy
-  - 16.1.1 Sustainable Harvest
-  - 16.1.2 Geothermal Depletion
-  - 16.1.3 Geothermal Reality
+    - 16.1.1 Sustainable Harvest
+    - 16.1.2 Geothermal Depletion
+    - 16.1.3 Geothermal Reality
   - 16.2 Tidal Capture. .
   - 16.3 Ocean Currents
   - 16.4 Wave Energy

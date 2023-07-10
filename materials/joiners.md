@@ -17,6 +17,14 @@ title = "Joiners"
 ## Welding tools
 - Rods - 1 pack - 280 Rs (2021)
 
+## Soldering
+- Solder wire oft contains lead. Lead free solders are Sn, Ag, Cu.
+
+### Flux
+removes any oxidized metal from the surfaces to be soldered, seals out air thus preventing further oxidation, and by facilitating amalgamation, improves wetting characteristics of the liquid solder,
+
+Resin/ rosin fluxes are popular. Oft integrated into the core of the solder wire.
+
 ## Stapler
 - Kangaro is an Indian manufacturer.
 - Kangaro Stapler HD 23S24 is heavy duty. Good for binding books.
