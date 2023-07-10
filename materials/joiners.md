@@ -18,7 +18,13 @@ title = "Joiners"
 - Rods - 1 pack - 280 Rs (2021)
 
 ## Soldering
-- Solder wire oft contains lead. Lead free solders are Sn, Ag, Cu.
+- 60% tin and 40% lead solder, ~ Sn37Pb will become liquid at 183 degrees C
+- Lead substitutes
+  - bismuth is in short supply since it’s a by-product of lead mining. Silver, on the other hand, is in adequate supply but has a cost disadvantage. Zinc is also in good supply but oxidizes easily and can result in brittle solders.
+- lead-free solder (Sn99 Ag0.3 Cu0.7, SAC387 = Sn95.5Ag3.8Cu0.7) melts at about 217 degrees C (419F). 
+  - stronger.  
+  - lead-free solders don’t spread at any point during reflow. Less likely to have voids.
+- Sn0.7Cu  Melting point 227 deg C.
 
 ### Flux
 removes any oxidized metal from the surfaces to be soldered, seals out air thus preventing further oxidation, and by facilitating amalgamation, improves wetting characteristics of the liquid solder,
