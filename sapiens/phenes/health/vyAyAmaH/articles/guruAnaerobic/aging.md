@@ -1,10 +1,10 @@
 +++
-title = "aging-gravity"
+title = "Aging"
 +++
 
 Source: [TW](https://threadreaderapp.com/thread/1640451181733629952.html)
 
-
+## Gravity
 GRAVITY 🌎🏋️‍♂️
 
 Gravity is an increasing challenge for people as they age; they fall, they break bones, they have difficulty walking up stairs or slopes, they can’t get up from a chair without using their arms. Ironically, gravity is the upstream reason.
@@ -36,7 +36,7 @@ it’s just a point on the unresisted trajectory of aging.
 > 
 > [From: Anaerobics: Destruction & Reconstruction]
 
-## LEGS
+### LEGS
 
 If you can't do a single chin-up or pull-up that's pretty bad, you may be overweight or plain weak, whatever. But if you can't do a single air squat you probably only have a year or two (at most) to live. The condition and robustness of your legs tell us something about the state of your entire body. This is because your legs are practically inseparable from getting (and staying) fit, strong and healthy. 
 
@@ -47,3 +47,34 @@ As you age the legs become more and more important to combat fragility. You need
 Research contradicts the common belief that muscle mass and strength decline as a function of aging alone. Instead, these declines may signal the effect of chronic disuse rather than muscle aging. Literally, 'use it or lose it'. This is good to know, as the physical degradation of sedentary age can be reversed.
 
 Whatever your ability, whatever your age, get started on 'Hyper-G'. Resistance training will change your life, keep you young, and combat the physical degradation which comes from aging. Start it easy, take it slow and steady - there is no rush, but be consistent!
+
+## Decline pattern
+How physical qualities degrade as you age.
+
+I've been fit all my life. From late twenties to fifty I trained competitively. *In my experience* here's the order in which physical performance degrades.
+
+- 1 Recovery takes longer. You can train just as hard but are achy for longer. Sooner or later this means that frequency of hard sessions must decrease.
+- 2 You become more prone to injury.
+- 3 Need for a good warm-up increases.
+- 4 Speed degrades.
+- 5 Reactivity and agility degrades.
+- 6 Tolerance to acidosis and hard repeats degrades.
+- 7 Power degrades.
+- 8 Strength degrades.
+- 9 Endurance degrades.
+
+Top performance starts to degrade when recovery takes longer and injury strikes - this means that quality volume and frequency is reduced; the start of long-term slow performance decline. For a while one can retain qualities by being more intelligent with training, knowing your body, and erring on the side of caution. Eventually, the inevitable decline in performance has to be accepted.
+
+This decline is accelerated by chronic lack of sleep, chronic under-recovery, drinking too much alcohol, not getting quality nutrition.
+
+However! If you look after yourself, keep healthy and stay consistent with exercise, diet and lifestyle, you can remain in great physical condition throughout life 💪☀️🌿
+
+
+> What supplements do you take?
+
+Regularly, creatine. Intermittently, Vit C, D, Magnesium, Multivit/min, glucosamine, collagen
+
+> And there’s not much you can do about wear and tear except diet and exercise
+
+There's a lot said on twitter that '"motion is lotion", "work your joints to keep them healthy", "the risk of not doing exercise is better than the risk of not doing exercise" - this is all true - but training for years to maximise one's physical performance will inevitably come with wear and tear.
+

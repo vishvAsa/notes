@@ -13,6 +13,7 @@ Dog packs instinctually attack and kill humans - within seconds. Hunger is NOT t
 - [6yo almost-dead Nagpur 2023-04-13](https://twitter.com/CNNnews18/status/1646363893235867649)
 - 4yo dead HYD 2023-02-23 [TW](https://twitter.com/porinju/status/1627912438376181761)
 - [9yo almost-dead BLR 2023-01-28](https://twitter.com/virendra1137/status/1627935641064595457)
+- 12yo dead near house Boondi RJ [OP](https://www.opindia.com/2023/07/stray-dogs-maul-12-year-old-to-death-boondi-rajasthan/)
 
 ## First aid
 - Do not pinch, do not rub, do not disturb the wound. Suturing the wound is contraproductive! Pushes the virus, if present, deeper in the wound. Bleeding controlled via compression.
