@@ -47,6 +47,7 @@ title = "Wiring"
 
 ### Fuse holder
 - Have V and A  ratings as well.
+- Fuse wires - see wires page
 
 ### Classes
 - Standards - IEC 269 is common.
@@ -59,8 +60,7 @@ title = "Wiring"
 - inverse time characteristic, which means if the fault current is high then rupture time is less, and if the fault current is not so high, then rupture-time is long.
 - Quite reliable - mostly ensures that there will be no arc
 
-### Wire
-Fuse wires have low melting point and high resistance (As $P = VI = IR^2$). For high resistance, wires of small cross section are used.
+
 
 ### Other fuse types
 - Cartridge Fuse
