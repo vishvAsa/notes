@@ -4,7 +4,7 @@ title = "Japan-cattle-loss"
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
- Akira Hayami on decline of domestic animals in Edo era
+Akira Hayami on decline of domestic animals in Edo era.
 </details>
 
 

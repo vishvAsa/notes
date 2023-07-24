@@ -11,8 +11,8 @@ Governence, politics, war, civil reform.
 
 - manu vaisvata, pitR, the likely progenitor of 100M of us R1a carrying Indo Aryans \[[MT](../https://manasataramgini.wordpress.com/2016/05/08/the-giants-among-the-lilliputs/)\], first king of the solar dynasties, a the great lawgiver and ritualist, who among other things sagely advised wariness towards shUdra-s and mlecCha-s of his time \[[here](../social-cultivation/clan/ethnic-shifts/Arya-invasion/)\].
     - वैवस्वतो मनुर् नाम माननीयो मनीषिणाम्। आसीन् महीक्षिताम् आद्यः प्रणवश् छन्दसाम् इव॥ इति कालिदासः। 
-- Others listed in ([SV](https://sites.google.com/site/samskrtamsfo/kavyam/itihasah/vansah/bhargavah)) and allied pages. Especially 
-    - [parashu-rAma](http://en.wikipedia.org/wiki/Parashurama), the bhArgava revolutionary; and other bhArgava heroes .
+- Some non v2s. Especially 
+  - [parashu-rAma](http://en.wikipedia.org/wiki/Parashurama), the bhArgava revolutionary; and other bhArgava heroes .
 
 ## panchajana-wave
 
