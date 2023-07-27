@@ -66,3 +66,5 @@ Son of Tāntrika Pandit Brajnath Poudyal Atri (Guru of King Pratap Singh Shah, w
 > श्लोकेऽस्मिन्नुच्यमाने गणय शितमते योजितान्यक्षराणि” ॥  
 > (When asked his age in 2022.)
 
+### गोपाल-महादेशिकः
+उत्तरकलार्य-श्रीवैष्णवेषु मुनित्रयसम्प्रदायस्य प्रवर्तकः। बहुग्रन्थकृत्।  
