@@ -10,7 +10,7 @@ title: Intro/ Misc
 - Seismic zones ([IITK](http://www.iitk.ac.in/nicee/EQTips/EQTip04.pdf))  
     - [![http://i.imgur.com/DBRzPTZ.png](http://i.imgur.com/DBRzPTZ.png)](http://i.imgur.com/DBRzPTZ.png)
 - Demographics (links [here](https://hindutva.github.io/main/polity/sick-india/demographics.html))  
-        
+
 ## Travel
 ### Train
 - Classes [here](https://www.quora.com/Indian-Railways-What-are-the-differences-between-the-different-classes-of-Air-Conditioned-AC-Coaches).
