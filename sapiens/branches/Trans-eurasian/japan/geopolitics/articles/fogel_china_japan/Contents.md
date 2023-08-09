@@ -1,74 +1,7 @@
 +++
-title = "Fogel - china & japan"
+title = "Contents"
+
 +++
-
-
-Between China and Japan
-
-**Between China and Japan**
-
-*The Writings of Joshua Fogel*
-
-*By*
-
-Joshua Fogel
-
-LEIDEN | BOSTON
-
-Library of Congress Cataloging-in-Publication Data Fogel, Joshua A., 1950–
-
-\[Works. Selections\]
-
-Between China and Japan : the writings of Joshua Fogel / by Joshua Fogel. 
-
-pages cm. — \(The writings of ; 7\)
-
-### Document Outline
-
-+ Contents 
-+ Introduction: My Route into Asian Studies 
-+ Art History and Sino-Japanese Relations 
-+ Miyazaki Tōten and the 1911 Revolution 
-+ New Thoughts on an Old Controversy: Shina as a Toponym for China 
-+ The Gold Seal of 57 CE and the Afterlife of an Inanimate Object 
-+ Japanese Views of China in Historical Perspective 
-+ Translator’s Preface to Books and Boats \(Ōba Osamu\) 
-+ The Recent Boom in Shanghai Studies 
-+ Chinggis on the Japanese Mind 
-+ A Decisive Turning Point in Sino-Japanese Relations: The Senzaimaru Voyage to Shanghai of 1862 
-+ Lust for Still Life: Chinese Painters in Japan and Japanese Painters in China in the 1860s and 1870s 
-+ The Nanking Atrocity and Chinese Historical Memory 
-+ Prostitutes and Painters 
-+ On Translating Shiba Ryōtarō into English 
-+ Tackling the Translation of an Invaluable Primary Source that No One Person Would Dare Face Alone 
-+ Introduction: Liang Qichao and Japan 
-+ Response to Herbert P. Bix, “Remembering the Nanking Massacre”  
-+ Naitō Konan and Naitō’s Historiography: A Reconsideration in the Early Twenty-First Century 
-+ Japanese Travelers to Shanghai in the 1860s 
-+ An Important Japanese Source for Chinese Business History 
-+ Chinese Understanding of the Japanese Language from Ming to Qing 
-+ “Shanghai-Japan”: The Japanese Residents’ Association of Shanghai 
-+ Introduction: Masuda Wataru and the Study of Modern China 
-+ The Japanese and the Jews: A Comparative Analysis of Their Communities in Harbin, 1898–1930 
-+ The Controversy over Iris Chang’s Rape of Nanking 
-+ The Nanjing Massacre in History 
-+ Integrating into Chinese Society: A Comparison of the Japanese Communities of Shanghai and Harbin 
-+ The Other Japanese Community: Leftwing Japanese Activities in Wartime Shanghai 
-+ Akutagawa Ryūnosuke and China 
-+ Confucian Pilgrim: Uno Tetsuto’s Travels in China 
-+ Japanese Travelers in Wartime China 
-+ Nationalism, the Rise of the Vernacular, and the Conceptualization of Modernization in East Asian Comparative Perspective 
-+ Recent Translation Theory and Linguistic Borrowing in the Modern Sino-Chinese Cultural Context 
-+ Japanese Literary Travelers in Prewar China 
-+ Japanese Approaches to the Cultural Revolution: A Review of Kokubun Ryōsei’s Survey of the Literature 
-+ The Debates over the Asiatic Mode of Production in Soviet Russia, China, and Japan 
-+ Introduction: Itō Takeo and the Research Work of the South Manchurian Railway Company 
-+ A New Direction in Japanese Sinology 
-+ On the “Rediscovery” of the Chinese Past: Cui Shu and Related Cases 
-+ Index 
-
-
-### Contents
 
 **Introduction: My Route into Asian Studies **1
 
@@ -162,7 +95,7 @@ vii
 
 **Index** 641
 
-## Introduction: My Route into Asian Studies
+ Introduction: My Route into Asian Studies
 
 My route into Asian studies is about as normal as it would have been unpre-dictable beforehand. As a third-generation American—all of my grandparents were immigrants from Eastern Europe in the second decade of the twentieth century—I was neither the first person in my family to get a B.A. nor even a Ph.D. I was, however, the first person to become interested in the history and culture of East Asia. Because there was such a bookish culture in my family, though, it was never seen as an unusual pursuit; in fact, I’m certain that my lefty parents were thrilled that one of theirs was studying China, given what was for them the exciting events in the years immediately preceding my birth in 1950. In fact, many people have commented \(and occasionally reached some far-fetched conclusions\) about the natural ties between Chinese and Jews. I personally don’t buy any of it, though of course I respect their right to have silly views. 
 
@@ -218,7 +151,7 @@ The essays in this collection represent work I have done over the past thirty-pl
 
 ■  Source: “Art History and Sino-Japanese Relations,” in *The Role of Japan in Modern China Art* \(International and Area Studies, University of California, 2013\), 1–10. 
 
-## Art History and Sino-Japanese Relations
+ Art History and Sino-Japanese Relations
 
 Following the reforms put in place by Deng Xiaoping \(1904–97\) and the opening up of China, the first cinematic Sino-Japanese joint venture was a movie entitled *The Go-Masters* \(1982\).1 It covers in sweeping, colossal fashion several decades in the lives a Chinese and a Japanese, both renowned *go* \(Chinese, *weiqi\) * masters whose bond forged through a shared passion for this ancient game transcends politics, war, family safety, and just about everything else. 
 
@@ -348,7 +281,7 @@ As noted earlier, the chapters in this volume aim to redress a lacuna in Western
 
 In doing so, it may appear as though we have overplayed the positive at the expense of the negative relations between China and Japan. To this, we readily admit guilty as charged but with a plea that our aim has not been to write a comprehensive history of Sino-Japanese cultural relations, just fill in the gap in this extremely important subfield. 
 
-## Bibliography
+ Bibliography
 
 Berry, Paul. *Unexplored Avenues of Japanese Painting: The Hakutakuan Collection*. 
 
@@ -374,7 +307,7 @@ Wang Baoping, “Chinese in Japan in the Late Qing: How They Lived and Whom They
 
 ■  Source: “Miyazaki Tōten to Shingai kakumei” 宮崎滔天と辛亥革命 \(Miyazaki Tōten and the 1911 Revolution\), *Fukuoka Unesco* 福岡ユネスコ 48 \(October 2012\), 1–11. 
 
-## Miyazaki Tōten and the 1911 Revolution
+ Miyazaki Tōten and the 1911 Revolution
 
 My name is Joshua Fogel, and I teach East Asian history, in particular the history of Sino-Japanese relations, at York University in Toronto, Canada. Let me begin by thanking the organizers of this symposium for inviting me and allowing me to offer some thoughts at this forum. I have another reason to be thankful for this invitation to Fukuoka which I shall mention at the end of my talk today. Many people, especially those living in warm climates like Fukuoka, believe that because Canada is so far north, it is always freezing cold. In the winter, yes, Canada can be very cold, but Canada is a big place—in fact, it’s the second largest country in the world. East of the Rocky Mountains, Toronto has one of the nicer climates—much milder than nearby Buffalo, New York or even Detroit, Michigan. Please come visit us some time. 
 
@@ -546,7 +479,7 @@ Finally, let me once again thank the organizers of the meeting to commemorate th
 
 .pdf. 
 
-## New Thoughts on an Old Controversy: *Shina**** ***as a** **Toponym for China
+ New Thoughts on an Old Controversy: *Shina**** ***as a** **Toponym for China
 
 Zhina dizi wu yanyu 
 
@@ -1038,7 +971,7 @@ languagelog.ldc.upenn.edu/nll/?p=4026.
 
 ■  Source: **“**The Gold Seal of 57 CE and the Afterlife of an Inanimate Object,” *Journal of the* *History of Ideas* 73.3 \(July 2012\), 351–69. Copyright © by Journal of the History of Ideas, Volume 73, Number 3 \(July 2012\). 
 
-## The Gold Seal of 57 ce and the Afterlife of an **Inanimate Object**
+ The Gold Seal of 57 ce and the Afterlife of an **Inanimate Object**
 
 This essay operates on the assumption that objects can inspire thought, and thought can generate debate, and the consequences of that debate can be of ontological importance. Thus, the inanimate object plays no “conscious” role in engendering ideas, but humans invest in it a range of meanings which can reach levels of great cultural and historical significance. The object in question is a golden seal, presently on display in the Fukuoka City Museum in Japan. 
 
@@ -1344,7 +1277,7 @@ The first three waves, though, have fully made themselves felt. While each was t
 
 fogel.inc&issue=029. 
 
-## Japanese Views of China in Historical Perspective
+ Japanese Views of China in Historical Perspective
 
 I have given many talks over the past thirty-five years here at the *Jinbun kagaku* *kenkyūjo* 人文科学研究所 \(Research Institute for the Humanities\) of Kyoto University and over in the *Bungakubu * 文学部 * *\(Faculty of Letters\), but never have I had the leisure to do so in English. For that alone I would owe the organizers of this conference, the Australian Centre on China in the World at The Australian National University and our hosts here at Kyoto University, an immense debt of gratitude. But, even beyond that, I want to thank all of the organizers for inviting me to take part in this event. I must say, though, that as a Westerner coming to the Temple of modern Sinology here at Kyoto University and lecturing on that topic bespeaks a little more *chutzpah * הפצוח than even I am usually prepared to utter. 
 
@@ -1540,7 +1473,7 @@ Several days after our conference concluded I had a private discussion with a fa
 
 ■  Source: “Translator’s Preface,” in *Books and Boats: Sino-Japanese Relations in the Seventeenth* *and Eighteenth Centuries*, by Ōba Osamu \(MerwinAsia, 2012\), vii–xi. 
 
-## Translator’s Preface to *Books and Boats***** \(Ōba Osamu\)
+ Translator’s Preface to *Books and Boats***** \(Ōba Osamu\)
 
 Ōba Osamu was born in Kyoto in 1927. Three months later his family moved to Osaka, where he grew up. Virtually his entire academic life has been tied to the Kansai region, which generally refers to that area in central Japan encompassing Kyoto, Osaka, and Kobe. He received both undergraduate and graduate training in East Asian history at Ryūkoku University in Kyoto.1 After serving in several teaching positions in the 1950s, he moved to Kansai University in Osaka, where he taught for most of his career. Retiring in 1997, Ōba followed the Japanese practice of teaching elsewhere in post-retirement, in this case, at Kōgakkan University in Mie Prefecture.2 There, he served as its president until his death in 2002. During his distinguished career, he lectured at countless venues around the world, and he was a visiting professor at numerous Chinese universities as well as at Princeton University in the United States. 
 
@@ -1610,7 +1543,7 @@ A note on this translation. I have reorganized the chapters of Ōba’s text sli
 
 \(April 2010\). 
 
-## The Recent Boom in Shanghai Studies
+ The Recent Boom in Shanghai Studies
 
 The past two decades have witnessed a surge of scholarly interest within the field of China studies in Shanghai’s modern history and culture. As if in replication of China’s exploding economy, this attraction to China’s largest city has by no means been limited to the Anglophone world \(most non-native Anglophone westerners who work on China now publish much of their scholarship in English\), but has been equally matched if not surpassed in quantity by work in Chinese and Japanese. After examining why Shanghai has become so popular to researchers, I will look at the kinds of work that have been done on the city’s history, examine a few recent works of cultural and intellectual history more closely, and suggest a number of avenues for future scholarship. 
 
@@ -1952,7 +1885,7 @@ Subsequent volumes all bear this overall title and the following subtitles: 2. M
 
 ■  Source: “Chinggis on the Japanese Mind,” *Mongolian Studies: Journal of the Mongolia Society* XXXI \(The Mongolia Society, 2009\), 259–69. 
 
-## Chinggis on the Japanese Mind
+ Chinggis on the Japanese Mind
 
 A specialist on neither Mongolian nor Inner Asian history, my discussion of Chinggis Khan centers on the uses to which his perceived heroic stature was put in late-nineteenth- and early-twentieth-century Japan. I came across the stories that will unfold in this essay twice in the process of other, tangential research. Most recently, I completed the translation of a novel about the life of Chinggis Khan by the great historical novelist Inoue Yasushi 井上靖 \(1907–91\), entitled *Aoki ōkami * 蒼き狼 \(The Blue Wolf\), which appeared in 2008 from Columbia University Press. It was made into a blockbuster movie released in 
 
@@ -2162,7 +2095,7 @@ Although the Mongols were all but allergic to water and relied entirely upon Chi
 
 © 2008 by the Society for Qing Studies and The Johns Hopkins University Press. Reprinted with permission of Johns Hopkins University Press. 
 
-## A Decisive Turning Point in Sino-Japanese  Relations: The Senzaimaru Voyage to Shanghai of 1862
+ A Decisive Turning Point in Sino-Japanese  Relations: The Senzaimaru Voyage to Shanghai of 1862
 
 Western scholarship on East Asia has taken note of the Japanese group voyage to the United States in 1860, most prominently in Masao Miyoshi’s study of that mission, to officially ratify the treaty imposed upon their country by Townsend Harris \(1804–78\) and the government of the United States.1 Considerably less well known are the Japanese missions to Shanghai of 1862 and 1864, both domestically inspired and both frank admissions in their respective forms that there was a brave new world out there confronting Japan, that Commodore Perry \(1794–1863\), Townsend Harris, and the United States were only the beginning of an imperialist onslaught, and that as a result Japan had to take a more activist role in its own future by going out to examine the outside world. The future belonged to international trade and diplomacy, and, in a metaphor of a few years later, Japan could join the table at dinner or be served up with the main course.2
 
@@ -2866,7 +2799,7 @@ Zhao Erxun, ed. *Qing shi gao. * Beijing: Zhonghua shuju, 1977. Reprint, 2003.
 
 ■  Source: “Lust for Still Life: Chinese Painters in Japan and Japanese Painters in China in the 1860s and 1870s,” in *Acquisition: Art and Ownership in Edo-Period Japan*, ed. Elizabeth Lillehoj \(Floating World Editions, 2007\), 149–68. 
 
-## Lust for Still Life: Chinese Painters in Japan and Japanese Painters in China in the 1860s and 1870s
+ Lust for Still Life: Chinese Painters in Japan and Japanese Painters in China in the 1860s and 1870s
 
 In the Edo period \(1600–1868\), Sino-Japanese cultural contacts were mediated through Nagasaki, to which Chinese ships brought quantities of paintings, books, and everyday objects. Nagasaki was the only city in Japan where foreigners lived; it had a Dutch settlement and a Chinese community, which included a number of important Chinese painters. Japanese artists working in the “Southern School” manner \(Nanga\), an old tradition rooted in China, frequently traveled to Nagasaki to study with Chinese émigré artists and to learn about China. Only in the early Meiji period \(1868–1912\)—when Japan opened its doors to the outside world—did Japanese artists begin making the trip to China, at long last able to see the true landscapes of Southern School painting. 
 
@@ -3314,7 +3247,7 @@ tōkei \(kō\),” *Wakayama Daigaku Kyōiku Gakubu Kiyō, Jinbun Kagaku* 33 \(1
 
 ■  Source: “The Nanking Atrocity and Chinese Historical Memory,” in *The Nanking Atrocity* *1937–38: Complicating the Picture*, ed. Bob Tadashi Wakabayashi \(Berghahn Books, 2007\), 267–84. 
 
-## The Nanking Atrocity and Chinese  Historical Memory
+ The Nanking Atrocity and Chinese  Historical Memory
 
 **Introduction**
 
@@ -3732,7 +3665,7 @@ Zhang \[Chang\], Kaiyuan, ed. Eyewitnesses to Massacre: American Missionaries Be
 
 Grafton \(University of Rochester Press, 2007\), 89–117. Republished with permission of University of Rochester Press, permission conveyed through Copyright Clearance Center, Inc. 
 
-## Prostitutes and Painters Early Japanese Migrants to Shanghai
+ Prostitutes and Painters Early Japanese Migrants to Shanghai
 
 That the Chinese port of Shanghai was opened by British gunboats in the Opium War \(1839–42\) is so well known now that it scarcely requires mention. 
 
@@ -4604,7 +4537,7 @@ Yamaoka Sōhachi. 1981–84. 山岡荘八. Tokugawa Ieyasu  徳川家康. Reprin
 
 ■  Source: “Tackling the Translation of an Invaluable Primary Source That No One Person Would Dare Face Alone,” China Review International 12.1 \(Spring 2005\), 15–28. 
 
-## Tackling the Translation of an Invaluable Primary  Source that No One Person Would Dare Face Alone
+ Tackling the Translation of an Invaluable Primary  Source that No One Person Would Dare Face Alone
 
 Ding Wenjiang 丁文江 and Zhao Fengtian 趙豐田, original compilers; translation by Shimada Kenji 島田虔次 et al. Ryō Keichō nenpu chōhen  梁啟超
 
@@ -5314,7 +5247,7 @@ an original thinker in as many fields as Liang “contributed” to. But that is
 
 ■  Source: “Response to Herbert P. Bix, ‘Remembering the Nanking Massacre’,” Japan Focus, at http://japanfocus.org/-Joshua\_A\_-Fogel/1637 \(May 2004\). 
 
-## Response to Herbert P. Bix, “Remembering the  Nanking Massacre” 
+ Response to Herbert P. Bix, “Remembering the  Nanking Massacre” 
 
 I have just read Herbert Bix’s long and thoughtful Japan Focus review essay of a new contribution to the recent spate of books and articles concerned with the Nanjing Massacre \(also known as the Nanjing Atrocity or Incident\). I found much food for thought there and much that I would like to have seen fleshed out more fully. There were as well a number of points that I found more questionable or even irresponsible. For these reasons, I have chosen to air several points of agreement and disagreement in the interest of widening an important debate. Let me note from the outset, however, that this is not meant as another review of the book discussed by Bix, but of the issues he raised in his review. 
 
@@ -5414,7 +5347,7 @@ and ‘outposts’ built illegally on stolen land.” It is one thing to tell re
 
 ■  Source: “Naitō Konan and Naitō’s Historiography: A Reconsideration in the Early Twenty-First Century,” Qinghua xuebao 清華學報 33.2 \(December 2003\), 439–53. 
 
-## Naitō Konan and Naitō’s Historiography:  A Reconsideration in the Early Twenty-First Century
+ Naitō Konan and Naitō’s Historiography:  A Reconsideration in the Early Twenty-First Century
 
 In English the term “Japanese Sinology” might be translated into Chinese as either 日本漢學 or 日本的中國硏究, and it covers as much or even more 
 
@@ -6218,7 +6151,7 @@ For the cultural travelers, though, Shanghai provided something it is all too ea
 
 ■  Source: “An Important Japanese Source for Chinese Business History,” Chinese Business History  12.2 \(Fall 2002\), 3, 8. 
 
-## An Important Japanese Source for Chinese  Business History
+ An Important Japanese Source for Chinese  Business History
 
 In the course of recent research on the early history of the Japanese community of Shanghai, I came across a source of prospective interest to anyone concerned with Chinese business history in the nineteenth century. It was a monthly publication entitled Shanhai shōgyō zappō \(Shanghai commercial reports\), published in Shanghai by the “Shanhai shōdōkai” \(Shanghai commercial association\) between July 1882 and October 1883. Initially it appeared monthly, with the last few issues coming less frequently. Little is known about the publishing group or about the editor, Oka Masayasu, who was also the sec-retary of the “Shanhai shōdōkai.” Offices were first listed at Number 7 Jiangxi Road in the British Concession but soon moved to the grounds of the Mitsui Bussan Company at Number 11 Sichuan Road. This was, significantly, the first serial published by the Japanese community of Shanghai. 
 
@@ -6250,7 +6183,7 @@ Several pages later the journal disappeared forever. It can now be found at Hito
 
 ■  Source: “Chinese Understanding of the Japanese Language from Ming to Qing,” in Sagacious Monks and Bloodthirsty Warriors: Chinese Views of Japan in the Ming-Qing Period \(EastBridge, 2002\), 63–87. 
 
-## Chinese Understanding of the Japanese Language  from Ming to Qing
+ Chinese Understanding of the Japanese Language  from Ming to Qing
 
 Generally speaking, there have been four periods in which heightened Chinese interest in Japan has led to the development of scholarship concerning Japan: the late Ming \(principally the Jiajing and Wanli eras\); roughly the decade between the first Sino-Japanese War \(1894–95\) and the Russo-Japanese War \(1904–05\); the 1930s and early 1940s, from the Manchurian Incident until the  
 
@@ -7408,7 +7341,7 @@ N.p., 1664.
 
 Journal of Asian Studies  59.4 \(Cambridge University Press, November 2000\), 927–50. 
 
-## “Shanghai-Japan”: The Japanese Residents’  Association of Shanghai
+ “Shanghai-Japan”: The Japanese Residents’  Association of Shanghai
 
 At noon on December 3, 1937, a Japanese military parade—perhaps in ironic imitation of other processions by foreigners in Shanghai—began marching down Nanjing Road through the foreign concessions in Shanghai and along the Bund. In the lead was a military police \(kenpeitai\) car escorted by mounted troops bearing sabres at the hilt. They were followed by a large infantry detach-ment, machine-gunners, and finally by artillerymen. Japanese aircraft flew by overhead, and Japanese civilians lined the route along the way and shouted out choruses of banzai.  When they arrived at Jessfield Park, they were met by a contingent of Italian ladies—allies in the anti-Comintern pact—waving Japanese flags. The event lasted until 3 p.m. and involved all 6000 Japanese troops stationed in the city. The next day a smaller contingent of troops marched in orderly fashion from Garden Bridge south to the Bund and through the concessions \( Tokyo asahi shinbun, December 4, 1937, and December 5, 1937; cited in Muramatsu 1991, 308–9\). Lest there be any doubt about it, this was clearly intended as a victory march, an effort to demonstrate the new reality of Japan’s preeminence in Shanghai. However much this display may have been directed at the Chinese, with whom Japan had now been at war for five months, the Western residents of the concessions—with whom the resident Japanese had been at loggerheads for many years—were the primary targets. No such event ever took place in any of the other centers of Japanese residence in China, only in Shanghai, where all the Western powers were present in full force. 
 
@@ -8316,7 +8249,7 @@ Zou Yiren 邹依任. 1980. Jiu Shanghai renkou bianqian de yanjiu  旧上海人�
 
 ■  Source: “Masuda Wataru and the Study of Modern China,” in Japan and China: Mutual Representations in the Modern Era, by Masuda Wataru \(Curzon Press/Taylor & Francis, 2000\), vii–ix. 
 
-## Introduction: Masuda Wataru and the Study of  Modern China
+ Introduction: Masuda Wataru and the Study of  Modern China
 
 Masuda Wataru, the author of the text that follows was born in a small fishing village in Shimane prefecture in 1903, the only son of a medical doctor.1 
 
@@ -8378,7 +8311,7 @@ Qiqian, of the Institute of Japanese Studies, Tianjin Academy of Social Sciences
 
 ■  Source: “The Japanese and the Jews: A Comparative Analysis of Their Communities in Harbin, 1898–1930,” in New Frontiers: Imperialism’s New Communities in East Asia, 1842–1953, ed. Robert Bickers and Christian Henriot \(Manchester University Press, 2000\), 88–108. 
 
-## The Japanese and the Jews: A Comparative Analysis  of Their Communities in Harbin, 1898–1930
+ The Japanese and the Jews: A Comparative Analysis  of Their Communities in Harbin, 1898–1930
 
 One effective way to reach an understanding of the experiences of a given foreign community or colonial \(or semi-colonial\) situation in a given city is to compare it with another foreign community or colonial situation in the same city. This enables us to contrast degrees of assimilation, integration, interaction with the surrounding indigenous community and other foreign communities, and the like. Indeed, this volume, as a whole, will move us a large step forward in that direction. This chapter examines the experiences of the Jewish and the Japanese communities of Harbin in the three decades before the Manchurian Incident. 
 
@@ -8748,7 +8681,7 @@ In the new Harbin, the highly feared Tokumu kikan \(Special Services Agency\) of
 
 ■  Source: “The Controversy over Iris Chang’s Rape of Nanking,” Japan Echo 27.1 \(February 2000\), 55–57; reprinted in An Overview of the Nanjing Debate \(Japan Echo, Inc., 2008\), 100–7. 
 
-## The Controversy over Iris Chang’s Rape of Nanking
+ The Controversy over Iris Chang’s Rape of Nanking
 
 In 1997 when Iris Chang, an independent journalist, published her book on the Nanjing Massacre of 1937–38, many people felt that an important story from World War II in East Asia would now be told for the first time in English. 
 
@@ -8942,7 +8875,7 @@ D’Souza, Dinesh. The End of Racism: Principles for a Multiracial Society \(New
 
 ■  Source: “Integrating into Chinese Society: A Comparison of the Japanese Communities of Shanghai and Harbin,” in Japan’s Competing Modernities: Issues in Culture and Democracy, 1900–1930, ed. Sharon A. Minichiello \(University of Hawai‘i Press, 1998\), 45–69. 
 
-## Integrating into Chinese Society: A Comparison of  the Japanese Communities of Shanghai and Harbin
+ Integrating into Chinese Society: A Comparison of  the Japanese Communities of Shanghai and Harbin
 
 In the late nineteenth and early twentieth centuries, Japanese began settling in what were to become famous as the two most “international” cities in East Asia, Shanghai and Harbin. The Japanese communities that formed in these multicultural metropolises varied widely as they faced different issues and developed within different contexts. Writing in 1933 and 1934, the renowned journalist Edgar Snow cut through the “internationalist” hyperbole and inadvertently shed light on the question of ethnic integration within Shanghai and Harbin. 
 
@@ -9460,7 +9393,7 @@ Zhu, Yong. 1995. “Shanhai kyoryū Nihonjin shakai to Yokohama Kakyō shakai no
 
 in Wartime Shanghai, ed. Yeh Wen-hsin \(Routledge/Taylor & Francis, 1998\), 42–61. 
 
-## The Other Japanese Community: Leftwing Japanese  Activities in Wartime Shanghai
+ The Other Japanese Community: Leftwing Japanese  Activities in Wartime Shanghai
 
 To speak of the Japanese community of wartime Shanghai as a monolith would be to misrepresent its internal complexity. To the extent that we know of the Japanese in Shanghai in the 1930s and 1940s, we understand them to be a group closely self-protective and dependent on the home government and military for its security. The great majority of the Japanese in Shanghai in those tense years were most concerned with ensuring their government’s active involvement in protecting their community and its interests against the Chinese. 
 
@@ -11254,7 +11187,7 @@ zettai no shinri
 
 \(Institute of Modern History, Academia Sinica, 1996\), 683–95. 
 
-## Japanese Travelers in Wartime China
+ Japanese Travelers in Wartime China
 
 This paper grows out of a much longer study of Japanese travel writing about China from 1862, when the first legal voyage set off in over two centuries, through the end of WWII.1 I have collected 500 book-length Japanese travelogues for this period, specifically excluding diaries, most newspaper accounts, and guidebooks. This paper will be a first effort to address those travelogues produced during the war, 1937–45. 
 
@@ -11406,7 +11339,7 @@ in Donald Keene’s Dawn to the West: Japanese Literature of the Modern Era: Fic
 
 \(January 1994\), 1–12. 
 
-## Nationalism, the Rise of the Vernacular, and the  Conceptualization of Modernization in East Asian 
+ Nationalism, the Rise of the Vernacular, and the  Conceptualization of Modernization in East Asian 
 
 **Comparative Perspective**
 
@@ -11602,7 +11535,7 @@ Theodore de Bary and JaHyun Kim Haboush \(New York: Columbia University Press, 1
 
 ■  Source: “Recent Translation Theory and Linguistic Borrowing in the Modern Sino-Japanese Cultural Context,” Language and Politics in Modern China 2 \(July 1993\), 20–31. 
 
-## Recent Translation Theory and Linguistic  Borrowing in the Modern Sino-Chinese Cultural 
+ Recent Translation Theory and Linguistic  Borrowing in the Modern Sino-Chinese Cultural 
 
 **Context**
 
@@ -11798,7 +11731,7 @@ Before blanket characterizations can be put forth about the nature of this borro
 
 \(December 1989\), 575–602. 
 
-## Japanese Literary Travelers in Prewar China
+ Japanese Literary Travelers in Prewar China
 
 Like the epic, like history, like the novel, the literature of travel has evolved through the centuries. Like them it has existed since the beginnings of oral and written literature. As with them some of its authors have been bad, others have delighted and informed their readers, and many, from the earliest times, have been popular, influential, even brilliant. As with other forms of literature its quantity and nature have varied because of political, religious, economic, and other social and human factors. And like them it includes countless subtypes that continually approach each other, separate, join, overlap, and consistently defy neat classification.1
 
@@ -12256,7 +12189,7 @@ put in his typically flip yet insightful way: “Travel writers actually face th
 
 ■  Source: “Japanese Approaches to the Cultural Revolution,” CCP Research Newsletter 2 \(Spring 1989\), 21–25. 
 
-## Japanese Approaches to the Cultural Revolution:  A Review of Kokubun Ryōsei’s Survey of the Literature
+ Japanese Approaches to the Cultural Revolution:  A Review of Kokubun Ryōsei’s Survey of the Literature
 
 What follows is an extended review of an excellent summary of Japanese writings on the Great Proletarian Cultural Revolution in China and the changes in China since the death of Mao Zedong and the purge of the “Gang of Four” in Kokubun Ryōsei’s “The Present State of Japanese Research on the Chinese Cultural Revolution and Problems Areas.”1 Professor Kokubun of Keio University is one of the few genuinely recognizable political scientists of China in Japan. Although still young, he has already amassed an impressive list of publications, including two articles in English. This piece appeared in a Keio University publication. 
 
@@ -12352,7 +12285,7 @@ One thing is for sure: if Kokubun Ryōsei is indicative of the future of Japanes
 
 ■  Source: “The Debates over the Asiatic Mode of Production Debates in Soviet Russia, China, and Japan,” The American Historical Review 93.1 \(February 1988\), 56–79. 
 
-## The Debates over the Asiatic Mode of Production  in Soviet Russia, China, and Japan
+ The Debates over the Asiatic Mode of Production  in Soviet Russia, China, and Japan
 
 A great deal has been written** **about the “Asiatic mode of production,” most of it the work of Marxists around the world, as they tried to establish what Karl Marx and Friedrich Engels meant by the expression and what it signified for the contemporary “Orient.” Over the past decade, several scholars less involved in the Marxist discussions have addressed the debates that emerged over the Asiatic mode of production as topics in the intellectual history of Russia, China, and Japan of the 1920s and 1930s.1 More recently, a flurry of some thirty or more articles appeared in the People’s Republic of China on the issue, but the topic disappeared from scholarly journals as quickly and mysteriously as it had arisen, only to be revived again in 1985 and 1986. None of the writings on the Asiatic mode of production has yet attempted an examination of the issues raised in all the major countries in which there was debate—primarily, the Soviet Union, China, and Japan—and of the important interrelationships between them from the late 1920s through the late 1930s. Without appreciating the transnational context in which the debate took place at that time, we cannot fully understand it. 
 
@@ -12886,7 +12819,7 @@ Joshua A. Fogel, trans. \(Berkeley, Calif., 1985\), especially 50–59.
 
 in Life Along the South Manchurian Railway: The Memoirs of Itō Takeo \(M.E. Sharpe, 1988\), vii–xxxi. 
 
-## Introduction: Itō Takeo and the Research Work  of the South Manchurian Railway Company
+ Introduction: Itō Takeo and the Research Work  of the South Manchurian Railway Company
 
 In November 1906, following the Russo-Japanese War, Japan acquired the South Manchurian Railway \(SMR\). Gotō Shimpei was named its first president and he immediately made plans for inaugurating a Research Department. 
 
@@ -13262,7 +13195,7 @@ introduced extraneous and incorrect material.37
 
 \(June 1984\), 225–47. 
 
-## A New Direction in Japanese Sinology
+ A New Direction in Japanese Sinology
 
 **Chūgoku shitaifu kaikyū to chiiki shakai to no kankei ni tsuite no sōgōteki** **kenkyū** 中国士大夫階級と地域社会との関係についての総合的研究 
 
@@ -13706,7 +13639,7 @@ since Marxism in a variety of guises continues to occupy an important place in J
 
 \(Originally in: Perspectives on a Changing China \(Westview, 1979\), 219–35.\) 
 
-## On the “Rediscovery” of the Chinese Past:  Cui Shu and Related Cases
+ On the “Rediscovery” of the Chinese Past:  Cui Shu and Related Cases
 
 What is meant by the “rediscovery” of some old text, ancient heritage, or person from another era? A whole range of differing circumstances surrounds each of the various entities that we include under this rubric. For instance, the rediscovery par excellence was Dunhuang, where for centuries texts had been preserved in a cave in Gansu Province, apparently without a soul ever having seen them. A less perfect although still exemplary case involved the works of Wang Fuzhi \(1619–1692\), the brilliant protonationalist and anti-Manchu her-mit from Hunan, whose writings were supposedly unknown for 150 years until Zeng Guofan \(1811–1872\) sponsored their republication. Wang’s works were not totally unknown during the eighteenth and early nineteenth centuries; in fact, from the research of Chinese scholars in the late 1950s and early 1960s, we know that more than a handful of Chinese scholars saw Wang’s writings in manuscript form and commented on them in their own essays throughout this lengthy hiatus. As one eminent sinologist explained to me, “It took a big shot like Zeng Guofan to sponsor the publication of so sensitive a writer as Wang.”1
 
@@ -15831,5 +15764,4 @@ Yu Lan 458
 
 
 *
-
 
