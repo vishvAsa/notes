@@ -27,7 +27,7 @@ This identification of the Confucian literati with civilization, and of commoner
 
 18 
 
-Civilization 
+
 
 abstract, idealized view. Theoretically, the leisure and means to pursue classical learning and thereby gain a knowledge of ritual and music were largely literati privileges. Therefore, commoners and aliens were not expected to embody civilization unless they were morally transformed or edified by their rulers from above. This ritual edification centered on making one's activities accord with one's hereditary social-status designation. In short, ritual edification was designed to produce submissive adherence to the existing social hierarchy. In like manner, edified aliens signified their proper subservience to Middle Kingdom Civilization by submitting themselves to rituals such as the kowtow. 
 
@@ -247,9 +247,9 @@ Keisai's second attack, related to his first blow at Japanese Confucians who mis
 
 The Rise of Kokugaku 
 
-From the Chinese point of view, those areas where customs were unlike China's were "countries of strange shapes and ways. 
-
-Areas closer to the Nine Provinces, where one could make himself understood [through written Chinese], looked like "peripheral lands." Thus they have come to call their Nine Provinces "Middle Kingdom Civilization" (Chugoku), and surrounding areas, "barbarian."44 
+> From the Chinese point of view, those areas where customs were unlike China's were "countries of strange shapes and ways. 
+>
+> Areas closer to the Nine Provinces, where one could make himself understood [through written Chinese], looked like "peripheral lands." Thus they have come to call their Nine Provinces "Middle Kingdom Civilization" (Chugoku), and surrounding areas, "barbarian."44 
 
 But, Keisai claimed, it was wrong to gloss over these historical facts and extend the barbarian label to other countries, least of all Japan. Moreover, Japanese Confucians ignored cultural or ethnic variations within the China of later eras. The historical boundaries of China as a designation for civilization, Keisai asserted, had never been fixed. 
 
@@ -271,7 +271,7 @@ Despite this attempt to shed the Sinocentric categories of civilization and barb
 
 24 
 
-The Rise of Kokugaku 
+
 
 moral principle (li) and the Five Elements, had grown up coincidentally in both Japan and China; so neither country was superior. Both Ways, though in essence identical, found separate expression in the Chinese and Japanese classics. "The Book of Changes is a 'Chronicle of the Gods' [in Kojiki and Nihon shoki] for China just as "The Chronicle of the Gods' is a Book of Changes for Japan."53 
 
@@ -299,7 +299,7 @@ Japanese Confucians, Norinaga held, based all value-judgments on putatively time
 
 36 
 
-The Rise of Kokugaku 
+
 
 They assumed that these norms had to find expression in Japan's ancient classics as well as in China's, so they "bent over backwards" to read those alien norms into the Japanese texts. (The Kojiki story of Izanagi and Izanami, for example, became a "parable" or "allegory" said to symbolize the distinction between male and female that Confucians valued.) 59 
 
@@ -319,19 +319,17 @@ The fact that the Chinese masses revere the sages as they revere Heaven is becau
 
 Shinran, the Chinese sages, and Christian[^66] were deceivers, pure and simple. Norinaga denounced them for the falseness of their views but he did not fear them. Unlike Confucians such as Aizawa, he did not equate the widespread acceptance of a particular teaching with its moral and cultural superiority. One final example, dealing with world geography, should demonstrate this point. 
 
-From 1786 to 1787, Norinaga and another prominent scholar of Native Learning, Ueda Akinari (1734-1809), debated fiercely about (among other things) the world as depicted on Dutch maps. Akinari turned to the Dutch "map of the globe"67 and 
+From 1786 to 1787, Norinaga and another prominent scholar of Native Learning, Ueda Akinari (1734-1809), debated fiercely about (among other things) the world as depicted on Dutch maps. Akinari turned to the Dutch "map of the globe"67 and said: 
 
-said: 
-
-Only a few countries use and understand ideographs; the rest have strange names we have never heard of, and many of them are vast in size. When we try to pick out our Divine Land, we see that it is but a tiny island, a single leaf floating on the surface of a wide pond. 68 
+> Only a few countries use and understand ideographs; the rest have strange names we have never heard of, and many of them are vast in size. When we try to pick out our Divine Land, we see that it is but a tiny island, a single leaf floating on the surface of a wide pond. 68 
 
 To which Norinaga replied: 
 
-38 
+[[38]] 
 
-How funny it is that you view this world map with such curiosity. In this day and age, has anyone not seen such maps? 
+> How funny it is that you view this world map with such curiosity. In this day and age, has anyone not seen such maps? 
 
-The Rise of Kokugaku 
+
 
 Does anyone not know that our Divine Realm is not very extensive? The nobility or baseness, beauty or ugliness, of a thing does not hinge only on whether it is large or small... An inferior nation, even if large, is still inferior; our superior land, even though small, is still superior. 69 
 
@@ -363,7 +361,7 @@ Sugita Gempaku (1733-1817) and Maeno Ryōtaku (1723-1803) were domain doctors of
 
 In 1775, one year after he helped complete the translation of the Dutch anatomical text Ontleedkundige Tafelen, Sugita 
 
-40Excellence of Western Barbarians 
+40
 
 wrote Words of a Fanatic Doctor (Kyōi no gen). The title is of no small significance. Sugita portrayed himself as "fanatic" in his desire to sally forth to do battle with the forces of Tokugawa medical obscurantism. He compared his zeal to that of Po-i and Shu-ch'i of the fallen Shang dynasty, who refused to serve the victorious Chou dynasty, vowing to die rather than submit. 75 Sugita had two objectives in composing this work. First, he sought to assimilate advanced Western medical techniques, demonstrably superior to those of China, through the timehonored Confucian method of canonical sanction. Second, he relativized (but did not totally repudiate) Sinocentric civilization through arguments similar to those advanced by Jinsai, Keisai, and Norinaga. 
 
@@ -389,7 +387,7 @@ Sugita did not belittle Shina, or contemporary China, in all respects. Here he p
 
 42 
 
-Excellence of Western Barbarians 
+
 
 Even in China, homeland of Middle Kingdom Civilization, Confucians had sense enough to import the best from the West; Tokugawa Confucians ought to follow suit. Sugita did not disparage Confucianism itself. He only attacked Confucians who "cling to outdated practices," and he provided the following rationale for assimilating demonstrably superior Western techniques. 
 
@@ -421,7 +419,7 @@ Sugita, like Jinsai, followed Chu Hsi's intepretation of this Analects passage. 
 
 44 
 
-Excellence of Western Barbarians 
+
 
 civilization was to distinguish noble from base, and this distinction obtained in every nation of the world. Therefore the ritual, music, and accoutrements of civilization in all nations possessed equal value. Ch'ing China had no monopoly on this value; Chinese civilization was not world civilization. 
 
@@ -453,7 +451,7 @@ Maeno Ryōtaku (1723-1803) took up Dutch Studies for different reasons and out o
 
 AC 
 
-Excellence of Western Barbarians 
+
 
 his life's work, to attain a full mastery over Dutch, and thereby learn about conditions in the West. His great ambition was to acquire the ability to read all their books."96 Maeno read much more widely about Western subjects than Sugita; he avidly learned about "conditions in the West" and compared Tokugawa institutions unfavorably with what he discovered. Maeno probably did more than anyone else to establish systematic instruction in the Dutch language during the mid-Edo period. 97 His numerous works consisted mainly of Dutch primers and translations on a wide variety of subjects, including medicine, natural science, and geography. But only one of these works, Kanrei higen (1777), informs us of his thought. 98 
 
@@ -481,7 +479,7 @@ We must also understand Maeno's knowledge of world geography and the Western mor
 
 48 
 
-Excellence of Western Barbarians 
+
 
 world, 108 
 

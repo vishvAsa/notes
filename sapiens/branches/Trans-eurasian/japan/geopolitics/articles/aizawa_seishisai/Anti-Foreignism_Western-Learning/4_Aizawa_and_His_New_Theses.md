@@ -103,7 +103,7 @@ out at sea.
 
 106 
 
-The World Situation 
+ 
 
 Takahashi proposed joi out of exasperation over frequent foreign annoyances, not from a compelling sense of crisis. This basic complacency is underscored by his lack of specific reform plans to alleviate distress at home. Ironically, Aizawa, with far less Western Learning than Takahashi and scant ability to communicate with foreigners, nevertheless discerned the "barbarians' nature" (ryojo) more acutely. It was Aizawa who perceived the popular unity and support that lay behind Western strength. Equally important, Aizawa contrasted these sources of foreign strength with domestic factors creating Japanese weakness. He saw clearly that trouble from abroad endangered Japan precisely because distress at home made Japan vulnerable to it. To eliminate this internal vulnerability, Aizawa concluded, the bakufu must emulate Western leaders, who used Christianity as a state religion (hōkyō) to secure popular unity and allegiance. Let us examine Aizawa's ideas on these subjects as expounded in New Theses and "Some Call Me Disputatious" (Kikōben). 
 
@@ -125,7 +125,7 @@ In "World Affairs," Aizawa wrote that because of recent Russian and British encr
 
 108 
 
-The World Situation 
+ 
 
 this appraisal-shared by Takahashi Kageyasu-was not rash or 
 
@@ -145,13 +145,13 @@ World affairs, like other political matters, are subject to continual change, Ai
 
 As civilization (jimbun) steadily progresses, even barbarians partake of its blessings and learn [the technique of] creating religious injunctions and precepts to guide their peoples. Their towering fortresses surrounded by deep moats are a far cry from their crude huts and tents of yesteryear; their huge warships and cannon are a vast advance over their mounted bowmen of bygone days. 31 
 
-For Westerners as well as for Japanese, "civilization" had progressed in a linear and cumulative fashion. 32 The biggest difference between earlier barbarians and those of today, Aizawa argued, was the unity and strength that contemporary Westerners derived from Christianity and Islam: 
+For Westerners as well as for Japanese, "civilization" had progressed in a linear and cumulative fashion. 32 The biggest difference between earlier barbarians and those of today, Aizawa argued, was the unity and strength that contemporary Westerners derived from Christianity and Islam+++(5)+++: 
 
-In eras past, their only means of winning and maintaining obedience among their vast hordes was to lure with promises of booty and to intimidate with displays of force. As a result, those hordes lacked integration and permanence. But now the religions (kyōho) of Islam and Christianity have provided Western leaders with these two elements and more. Today, each barbarian tribe, while maintaining its own territory, allies 
+> In eras past, their only means of winning and maintaining obedience among their vast hordes was to lure with promises of booty and to intimidate with displays of force. As a result, those hordes lacked integration and permanence. But now the religions (kyōho) of Islam and Christianity have provided Western leaders with these two elements and more. Today, each barbarian tribe, while maintaining its own territory, allies itself with all others to convert the entire world to their religion. This is indeed a far cry from the past.
 
-110The World Situation 
+110 
 
-itself with all others to convert the entire world to their religion. This is indeed a far cry from the past. 
+
 
 33 
 

@@ -17,7 +17,7 @@ These barbarians court ultimate ruin by ignoring the moral laws of nature and re
 
 149 
 
-New Theses 
+
 
 But alas, the normative forces of Heaven and Earth must wane as well as wax: "When the power of men is immense, they overcome Heaven."4 Unless a Great Hero bestirs himself to assist Heaven's normative processes, all creation will fall prey to the wily, meat-eating barbarians. 
 
@@ -47,7 +47,7 @@ In antiquity, the Heavenly Progenitress, Amaterasu, set down the precepts on whi
 
 152 
 
-Kokutai I 
+
 
 When Amaterasu bequeathed the realm to Her Divine Grandson, Ninigi, She also bequeathed to Him these Three Regalia as symbols of the Imperial Throne and as manifestations of Her Heavenly Virtue. She decreed that Ninigi step in to carry out the divine tasks hitherto accomplished naturally through the Heavenly Processes, and that thereafter the Three Imperial Regalia be handed down faithfully from generation to generation for ages eternal. The majesty of our Imperial House descended from Amaterasu is inviolable. The distinction between ruler and subject was established, and the greatest virtue of all, loyalty of subject for ruler, was made manifest. In bequeathing the Mirror to Ninigi, the Sun Goddess said, "When you look at this Mirror, think of it as myself." Throughout the myriad generations, Emperors have worshipped this Mirror as the embodiment of Amaterasu Herself. When they gazed into it, they caught a glimpse of what they perceived to be Her sacred image, though what they really saw was their own reflection as Her offspring. When making sacrificial offerings at ritual time, a communion between men and gods inevitably occur. One cannot help revering ancestors, expressing filial devotion, being circumspect in behavior, and cultivating personal virtue. The affection between parent and child also is thus warmly displayed, and this affection, which is Amaterasu's ultimate blessing, bursts forth in all its splendor. 
 
@@ -75,7 +75,7 @@ Amaterasu obtained the best rice seeds [from the god Ukemochi], and desired to n
 
 154 
 
-Kokutai I 
+
 
 thus chosen, the Iname and Negi branches of the Urabe uji were dispatched as reapers. They harvested the crop and presented part of it to His Majesty. The remainder of it was brewed into dark and light varieties of sake. The rice presented to His Majesty was threshed and cooked at ritual time. He then personally placed it in sacrificial bowls and offered it to the gods in the Enthronement Hall. In this ritual He displayed filial devotion to His ancestral gods and personified the meaning of recompensing Amaterasu's blessings.) 
 
@@ -91,7 +91,7 @@ When She bestowed the realm to Ninigi, Amaterasu decreed that Ame no Koyane divi
 
 155 
 
-New Theses 
+
 
 Imibe present Him with the Imperial Jewel, Mirror, and Sword. [In antiquity] these functions were faithfully carried out at each successive Daijo Ritual. It was as if the Nakatomi and Imibe received their original decrees from Amaterasu anew on every 
 
@@ -105,7 +105,7 @@ In addition, the Imibe procured and presented all other articles used during the
 
 156 
 
-Kokutai I 
+
 
 of the above gods to produce mirrors, halberds, shields, and other necessary objects to be offered to His Majesty during the Daijo Ritual. This was performed in obedience to ancestral custom. To give additional examples, [the Engi shiki says that] the Tomo no Miyatsuko light fires, the Azumi fan these fires, and the Kuramochi remove reed pot lids. These and other similar ceremonial roles were observed throughout the ages in each family line.) 
 
@@ -127,7 +127,7 @@ Just as the myriad things stem from Heaven, man stems from his ancestors. He acq
 
 158 
 
-Kokutai I 
+
 
 conclusion. The hearts and minds of men stem from the mind of the cosmos. When their hearts and minds are unified, their spiritual powers (ch'i) are heightened. When their hearts and minds are unified so that these accord with the mind of the cosmos, men obtain the primordial vital force that sustains all life and order (yuan ch'i) in the cosmos. Since the people of our realm possess this consumate yuan ch'i at birth, their manners and temperament are cordial and warm. This phenomenon is known as the unity of Heaven and man. When the people are induced to think of antiquity, their customs are purified, they recompense the blessings originally bestowed by Amaterasu, and remain forever true to the wishes of their ancestors. 
 
@@ -155,7 +155,7 @@ With the passing of time, administration grew lax and insurrections occasionally
 
 160 
 
-Kokutai I 
+
 
 people. We achieved spiritual unity and all under Heaven enjoyed orderly government. 
 
@@ -179,7 +179,7 @@ But "history's cycle of orderly rule and anarchy"19 is the
 
 162 
 
-Kokutai I 
+
 
 normal course of events on earth: When Heaven tires of disorder, Great Heroes arise. For example, Toyotomi Hideyoshi, though a mere commoner, rose up and created order out of chaos. He served the Throne as kampaku, issued commands throughout the realm, and unified the land and people. Next, Tokugawa Ieyasu came to the fore. Loyalty and filial devotion were the sole means by which he laid the foundations of a two-hundred year peace. He issued injunctions for his descendants to follow, and this they did to the letter. At the appropriate time, Ieyasu led the lords of the land to Kyoto to honor the Imperial Court, and the Emperor bestowed awards, offices, and Court ranks on them. Government over all land and people in the realm became unified. All revered Imperial benevolence and submitted in awe before bakufu virtue. Orderly rule, then, was the order of the day. 
 
@@ -217,7 +217,7 @@ When the first Emperor, Emperor Jimmu, worshipped the
 
 164 
 
-Kokutai I 
+
 
 gods of Heaven and subdued the rebellious, He set up a ritual site [at Tomiyama]. He worshipped Amaterasu and displayed filial devotion to the fullest. Emperor Sujin worshipped the deities, reverently served His Heavenly Progenitress, and distributed Her set of religious rituals throughout the realm. Consequently, all people recompensed Amaterasu's original blessings, remained true to their ancestors, and revered the Imperial Court as they would revere the deities of Heaven. Each served his respective overlord with filial devotion, and the people united themselves in spirit to perform deeds of loyalty, so that folkways were purified and uplifted. 
 
@@ -237,7 +237,7 @@ Later, the honji suijaku doctrine arose. 26 This teaching gave our illustrious n
 
 166 
 
-Kokutai I 
+
 
 to convert innocent subjects of our Middle Kingdom into followers of Indian barbarism. When transformed by barbarism from within, how can "what is essential to a nation" (kokutai) remain intact? Thus, Ex-emperor Go shirakawa 27 despaired of bringing Buddhist clerics under control-and that despair bespoke a great watershed in our history. 
 
@@ -251,17 +251,21 @@ The ancient sages taught rulers the Way-how to cultivate themselves and rule ove
 
 transforming powers (kwa) and defames the bakufu's virtuous achievements. Third are picayune extollers of fiscal solvency and administrative efficiency who style themselves "political economists."31 Finally are those who expound concepts from Sung Learning, such as "nature" or "Heaven's Will," in seemingly impressive tones and with an imposing mien, but who really are sham Confucians, indifferent to the tasks of the day. None of these four types of scholars represent loyalty, filial devotion, and the Way of Yao, Shun, and Confucius. 
 
-In short, Amaterasu's moral precepts have been disrupted by shaman cultists, transformed into something alien by Buddhist clerics, and debased by perverse Confucians and petty men of letters. Because such wicked doctrines were so diverse and contradictory, they destroyed the people's spiritual unity [achieved in antiquity by Amaterasu]. Loyalty of subject for ruler and affection between parent and child are now utterly ignored, leading us to wonder if the Way of Heaven and Man really exists. In times past, even the worst spreaders of sedition were fellownationals working from within. But the Western barbarians are different. They all believe in the same religion, Christianity, which they use to annex territories. Wherever they go, they destroy native houses of worship, deceive the local peoples, and seize those lands. These barbarians will settle for nothing less than subjugating the rulers of all nations and conscripting all peoples into their ranks. And they are becoming aggressive. Having overthrown the native regimes on Luzon and Java, they turned their predatory eyes on our Divine Realm. They instigated insurrections in Kyūshū using the same methods as on Luzon and Java: Not only in Japan have nefarious commoners led people astray by spreading wicked doctrines. Fortunately, our enlightened lords and their astute advisors perceived the foreigners' pernicious designs and took steps to exterminate them. Due to our leaders' wise policies, Christianity was utterly eradicated. Not a single adherent remained alive to subvert our Middle Kingdom, and our people have been spared from the foreigners' wiles for two hundred years. 
+In short, Amaterasu's moral precepts have been disrupted by shaman cultists, transformed into something alien by Buddhist clerics, and debased by perverse Confucians and petty men of letters. Because such wicked doctrines were so diverse and contradictory, they destroyed the people's spiritual unity [achieved in antiquity by Amaterasu].+++(4)+++ Loyalty of subject for ruler and affection between parent and child are now utterly ignored, leading us to wonder if the Way of Heaven and Man really exists. 
+
+In times past, even the worst spreaders of sedition were fellow nationals working from within. But the Western barbarians are different. They all believe in the same religion, Christianity, which they use to annex territories.+++(5)+++ Wherever they go, they destroy native houses of worship, deceive the local peoples, and seize those lands. These barbarians will settle for nothing less than subjugating the rulers of all nations and conscripting all peoples into their ranks. 
+
+And they are becoming aggressive. Having overthrown the native regimes on Luzon  and Java, they turned their predatory eyes on our Divine Realm. They instigated insurrections in Kyūshū using the same methods as on Luzon and Java: Not only in Japan have nefarious commoners led people astray by spreading wicked doctrines. Fortunately, our enlightened lords and their astute advisors perceived the foreigners' pernicious designs and took steps to exterminate them. Due to our leaders' wise policies, Christianity was utterly eradicated. Not a single adherent remained alive to subvert our Middle Kingdom, and our people have been spared from the foreigners' wiles for two hundred years.+++(5)+++ 
 
 Even so, Amaterasu's Great Way is not fully elucidated, and the people have nothing to rely on spiritually. What is more, 
 
 168 
 
-Kokutai I 
 
-there are as many nefarious commoners in our midst as ever, and if they do not owe their allegiance to shamanism or Buddhism, then most surely they commit themselves to some perverse form of Confucianism or belletristic foolishness. Our present situation is like that of a patient recovering from a nearfatal disease: Though his life is no longer in danger, he is weak and in doubt about his best future course of action. He needs something spiritual to rely on within, and he is attracted to many harmful things from without. 
 
-One source of harm that has appeared of late is Dutch Studies. This discipline grew out of translation work-the reading and deciphering of Dutch books by specially trained interpreterofficials. There is no harm in Dutch Studies itself; the harm comes when some dupe with a smattering of second-hand knowledge of foreign affairs mistakenly lauds the far-fetched notions spun out by Western barbarians, or publishes books to that effect in an attempt to transform our Middle Kingdom to barbarian ways. 
+there are as many nefarious commoners in our midst as ever, and if they do not owe their allegiance to shamanism or Buddhism, then most surely they commit themselves to some perverse form of Confucianism or belletristic foolishness. Our present situation is like that of a patient recovering from a near fatal disease: Though his life is no longer in danger, he is weak and in doubt about his best future course of action. He needs something spiritual to rely on within, and he is attracted to many harmful things from without. 
+
+One source of harm that has appeared of late is Dutch Studies. This discipline grew out of translation work-the reading and deciphering of Dutch books by specially trained interpreter officials. There is no harm in Dutch Studies itself; the harm comes when some dupe with a smattering of second-hand knowledge of foreign affairs mistakenly lauds the far-fetched notions spun out by Western barbarians, or publishes books to that effect in an attempt to transform our Middle Kingdom to barbarian ways. 
 
 32 There are, moreover, many curiosities and concoctions from abroad that dazzle the eye and entice our people to glorify foreign ways. Should the wily barbarians someday be tempted to take advantage of this situation and entice our stupid commoners to adopt beliefs and customs that reek of barbarism, how could we stop them? [The Book of Changes tells us,] "The lining of frost on which we tread [in early winter soon] turns into a hard sheet of ice." We must adopt appropriate measures to thwart them now, before it is too late. 
 
@@ -279,7 +283,7 @@ I have sought to outline the origin and development of the various ills now affl
 
 170 
 
-Kokutai I 
+
 
 maintained control over all within the Four Seas by means of the Great Way of Heaven. Though it assumes different forms [in different eras and places], the essence of the Great Way is immutable. Hence, the Way that Amaterasu used in antiquity to administer the realm, to achieve spiritual unity among the people, and to endear them inseparably to their rulers can be used today. The evils that stem from changing historical forces and from wicked doctrines are too numerous to relate. But by devising counter-measures [based on the Way] we can reform and revitalize the hearts of men. Need we do more? 
 
@@ -293,7 +297,7 @@ But beginning with the reigns of Emperors Richū [r. 400-05]
 
 172 
 
-Kokutai II 
+I 
 
 and Ankō [r. 453-56], our position gradually weakened and declined. After the next few reigns, we lost possession of Mimana, and the Three Kingdoms of Korea ceased bearing tribute[^35] Although Emperor Tenji restored the Dynasty's fortunes temporarily, he was vexed at the narrow sphere of our Dynasty's moral suasion and control (kōkwa). During our campaigns in Mimana, Emperor Tenji personally oversaw operations, but in the end, victory eluded us. Our campaigns in the east and north, however, met with triumph. We drove the Ezo even further eastward, and set up an Imperial Magistrate at Shiribeshi. 36 
 
@@ -315,7 +319,7 @@ But after Buddhism entered our Middle Kingdom, spiritual unity dissolved. The pe
 
 174 
 
-Kokutai II 
+I 
 
 and became a purely human affair: This was the first Great Transformation in our history. Following the Minamoto regime, the Kamakura and Muromachi bakufus monopolized control over armed forces in the realm: This was the second Great Transformation in our past. In antiquity, all warriors lived on the soil, but by medieval times when warfare was endemic, warrior chieftains campaigned throughout the length and breadth of the realm. After the Warring States era ended, all fighting subsided and warriors settled permanently in castletowns, removed from the land that sustained them: This was the third Great Transformation in our history. Note that none of the three was a simple altering of institutions; instead, the three resulted from changing 
 
@@ -327,7 +331,7 @@ The Kamakura and Muromachi regimes [which ruled during the second Great Transfor
 
 175 
 
-New Theses 
+
 
 capital. Our immense military might still resonated to far-off 
 
@@ -341,7 +345,7 @@ Since the produce of the entire realm sustains warriors, it follows that wealth 
 
 176 
 
-Kokutai II 
+I 
 
 for a long time, evils appeared, such as the consumption of luxury items not permitted to one's status, or the failure to control one's passions according to the rules of propriety. To grow rich without moral teachings leads to insolent, licentious behavior 
 
@@ -355,7 +359,7 @@ Warriors are of use only when physically fit. Strength, agility, endurance, indi
 
 177 
 
-New Theses 
+
 
 situation we face fits the adage, "Troops as now trained are worthless." 
 
@@ -365,7 +369,7 @@ Commoners pay extremely heavy taxes to support the warriors [under our present s
 
 178 
 
-Kokutai II 
+I 
 
 administrative strength that masks the reality of weakness and decay. I cannot help recalling the adage, "Secure your founda- 
 
@@ -379,7 +383,7 @@ People today look only at the lingering remnants of bakufu ruling power; they ig
 
 179 
 
-New Theses 
+
 
 order of the day]. How deluded can they be? Barbarian leaders possess the natures of dogs and goats, so it is pointless to compare strengths and weaknesses with them. But their customs are savage, and they constantly wage war; they could not establish and maintain their states through a policy of keeping their subjects ignorant and weak [as we do]. Hence they register and conscript their subjects into armed service, and they augment their ranks with other barbarian peoples [whom they convert] on their overseas campaigns. How can we despise them as few in number? Their nations constantly engage in battle, and they train their peoples in the use of arms. How can we despise them as weak? Because barbarian leaders seduce their peoples into spiritual unity through occult religions, they are more than fit to wage war; because their forte is the manufacture and use of large ships and cannon, they are well equipped to intimidate their foes. They present a mighty spectacle on the high seas and devour far-off lands and peoples at will. How can we despise them as stupid? 
 
@@ -389,7 +393,7 @@ To train troops in the principles of honor, and in accordance with Ieyasu's orig
 
 180 
 
-Kokutai II 
+I 
 
 allegiance. Then the spirit of virtue will abound within the four seas. We must raise a chastising army and utilize the might of the whole realm to remove every trace of the ugly barbarians from our shores and make sure they never return. That will more than uphold the nation's honor (kokutai). 
 
@@ -401,7 +405,7 @@ The Great Hero relaxes and tightens, adopts and discards [laws and institutions 
 
 181 
 
-New Theses 
+
 
 tighten and what to relax, what to adopt and what to discard. Men and matter decay unless used constantly. The daimyo, their vassals, and sub-vassals should be given life, not left to decay. We must exploit the chance presented by joi to allow the daimyo to strengthen themselves, and we must provide positions of responsibility for those who do. But this proposal is a temporary expedient; we should not make it permanent. Furthermore, we should provide incentives to make these lords perform deeds of merit on behalf of the whole state. The realm is a public trust; one does not cultivate wealth and strength to further private ends. 
 
@@ -413,7 +417,7 @@ Long ago, prior to his rise to power, Tokugawa Ieyasu esteemed martial prowess b
 
 182 
 
-Kokutai II 
+I 
 
 overly tight, he relieved pressures within. At present, the barbarians prepare for war. They annex territories and peoples wherever they go; they conspire with one another and prowl about our shores. The situation today is similar to that of Ieyasu at Hamamatsu, surrounded as he was by Oda, Takeda, and Hōjō. That was no time for repose; it called for cultivating armed strength by tightening up what was overly loose. 
 
@@ -439,7 +443,7 @@ During Daijo Rituals in antiquity, the entire realm joined His Majesty in devote
 
 184 
 
-Kokutai III 
+II 
 
 autumn of each year when the grain ripened, His Majesty offered some of it to the gods as a symbolic act of thanksgiving, and afterward, consumed it with His people. At such moments, everyone in the realm was made to realize that the grain they consumed derived from Amaterasu's original rice seeds, and they stood in awesome veneration of Her will. They labored to bring forth the richest possible harvests that the soil would yield; their hearts were one with Heaven and Earth, and they gladly partook of the bounties that these provided. Heaven and Earth formed a union. 
 
@@ -451,7 +455,7 @@ Since those warriors supported vassals and subvassals to uphold peace and tranqu
 
 185 
 
-New Theses 
+
 
 suffer extreme poverty. Today, by contrast, we enjoy peace, but high and low alike are at their wit's end trying to escape destitution. This paradox stems from our failure to understand the Great Way as it applies to managing the realm's finances. 
 
@@ -463,7 +467,7 @@ The erection of palatial temples gave rise to, and now supports, hordes of merch
 
 186 
 
-Kokutai III 
+II 
 
 land and sea during shipment to Edo, Ōsaka, and other cities. The growing of cash crops such as tea, tobacco, dyer's saffron, sugar cane, and sweet-pears reduces farm production. Thus, our large-scale cultivation of commercial crops hinders farming, our methods of consumption are inefficient and wasteful, we have a tremendous number of idle mouths to feed, and our grain harvests are hardly enormous. Why is it that rice seems to abound and goes to waste throughout the realm while we suffer destitution? This is bewildering at first glance. 
 
@@ -475,7 +479,7 @@ Thus, the amount of rice sold on the market constantly increases, but the amount
 
 187 
 
-New Theses 
+
 
 full of rice shows just how depleted the rest of the realm is. But even so, the cities cannot store much more rice than the people consume there. They contain just a little more rice than is necessary to support their populations-and that is not really very much. The difference between a small surplus and a slight deficiency does not seem very great, but it can make all the difference in the world. Imagine a man who has just eaten his fill. If we offered him "just a little more" rice, he would think it far too much. But consider the poor man, who, even in the best of times, never receives quite enough to eat. If we made his rice ration "just a little less," he would think it a great deprivation. In this sense, the slight difference between "a little too much" and "not quite enough" is made to seem large indeed to those on the short end. Thus I say, the amount of rice stored in the cities is not very great, and the amount in the realm as a whole is even less. 
 
@@ -485,7 +489,7 @@ Money [has no intrinsic value, it] simply measures the relative worth of commodi
 
 188 
 
-Kokutai III 
+II 
 
 value of money is high, it suffices to meet our needs even if there is little in circulation. For this simple reason there was never any destitution in earlier ages despite the extreme scarcity of money. Since the Keichō era [1596-1614], however, a great amount of gold has been mined and minted, so money now is of low value and goods and services are costly. To make ends meet, artisans and merchants must raise their prices. Living costs climb steeply, but the value of coinage plummets, and people mistakenly believe they need more money despite its plentiful supply. 
 
@@ -497,7 +501,7 @@ Their hereditary retainers also are used to luxuries, so warriors cannot retain 
 
 189 
 
-New Theses 
+
 
 these part-time followers (known as nenkimono) acquire expensive habits, and prove too large a burden. Warriors then must hire idle townsmen on a case-by-case basis. But because of their extravagant ways, these men also turn out to be a great financial strain. On top of that, household expenses, allowances to wives and mistresses, and entertainment fees, all keep rising. Because warriors cannot meet these expenses with stipends alone, they borrow money from rich merchants. This soon becomes an ingrained habit, and even the greatest daimyo today find themselves deep in debt. In short, cunning, tight-fisted profit-mongers manipulate the great lords of the land like so many puppets-ona-string. Clearly, the realm's wealth has fallen into the merchants' clutches. 
 
@@ -509,7 +513,7 @@ In antiquity, Amaterasu cared greatly about Her people's livelihood, and we enjo
 
 190 
 
-Kokutai III 
+II 
 
 the rice we produce at home rather than dispose of it abroad. Our nation's farmers now grow about twenty-five million koku of rice. Since the average land-holding of one farm household is about ten koku's worth48 [or one chōbu of land], there must be approximately two and one-half million farm households in the nation. If each retained one koku above its actual needs, the amount stored in the nation's farm households would total twoand-a-half million koku. At present, the annual amount of rice bought and sold on the Ōsaka market comes to no more than two million koku. 
 
@@ -521,7 +525,7 @@ If we really wanted to store rice in the realm, we could. Why do people advocate
 
 191 
 
-New Theses 
+
 
 people have sufficient supplies of rice and have no anxieties. about their livelihood, will they refrain from evildoing. And only when they refrain from evildoing can they be induced to stand in awesome veneration of Amaterasu's will, to labor to bring forth the richest possible harvests that the soil will yield, and to partake of Amaterasu's gifts, derived as these are from the bounties of Heaven and Earth. 
 
@@ -563,13 +567,13 @@ The barbarians who menaced our periphery in ages past were the Kumaso, Hayato, E
 
 195 
 
-New Theses 
+
 
 attacked Kyūshū. Both cases represent southward thrusts made by northern peoples.) 50 
 
 But blocked by rough seas, these would-be invaders could cause little damage. At that time, we took the ocean for granted as a natural barrier. Now, the barbarians traverse thousands of miles with whirlwind speed in their huge ships; they think of the ocean as a highway to distant lands. Because we are surrounded by water, we must be prepared on all sides. What was once a natural barrier is now a raiders' highway. Those seeking to defend our borders and pacify outlying areas cannot propose measures today based on assumptions belonging to eras past. 
 
-In today's era of warring states, the Mogul and Turkish Empires use Islam to strengthen their armies and enlarge their domains, Turkey being the more successful. But neither has attempted to invade our Middle Kingdom because they specialize in cavalry warfare to the detriment of naval operations. The Western barbarians, on the other hand, all believe in the Church of Rome. 51 The more outstanding of these are France, Spain, Sweden, and England. Their common mother-country is Germany, but it is no longer powerful. Its head of state simply maintains the title "Holy Roman Emperor" along with something of his former glory, and is therefore accorded a degree of respect by the other Western states. 
+In today's era of warring states, the Mogul and Turkish Empires use Islam to strengthen their armies and enlarge their domains, Turkey being the more successful. But neither has attempted to invade our Middle Kingdom because they specialize in cavalry warfare to the detriment of naval operations.+++(4)+++ The Western barbarians, on the other hand, all believe in the Church of Rome. 51 The more outstanding of these are France, Spain, Sweden, and England. Their common mother-country is Germany, but it is no longer powerful. Its head of state simply maintains the title "Holy Roman Emperor" along with something of his former glory, and is therefore accorded a degree of respect by the other Western states. 
 
 Russia was once subject to Germany (as was France), but recently has acquired awesome strength and has reclaimed its ancient status as an empire. 52 Its territory includes states to the east and west, and borders our Divine Realm on the northwest. Russia contains vast expanses of frozen tundra, and longs to expand southward. But Turkey, Russia's long-standing nemesis, has been thwarting it. Russia has revived as an ally the Persian Empire (recently weakened by rebellion), and has defeated Turkey. 53 Should Russia and Persia again join forces, Turkey's left flank will be cut off. Russia, hegemon of the north, is now expanding southward to gain a stranglehold on the continent by dividing it in half, and is preventing Turkey from allying with the Mogul Empire. Ch'ing power has reached its limit, and can expand no further west. Russia has reduced neighboring domains 
 
@@ -587,7 +591,7 @@ In short, Russia either can sweep westward from the east, or eastward from the w
 
 197 
 
-New Theses 
+
 
 doorstep, 
 
@@ -611,7 +615,7 @@ World Affairs
 
 The Great Powers are dividing up the earth. Today we find ourselves alone in a hostile world; we defend a solitary castle under attack by enemies who erect fortresses along our borders. 
 
-The foremost adversary to stave off is Russia. If Turkey heeds conditions here in the east and coordinates troop movements accordingly, its power might keep Russia from striking in this direction. Or if the Mogul Empire allies itself with Turkey and they take over Persia [Russia's ally], this also would check Russia. The Manchu Ch'ing empire is the only nation besides ours unbefouled by either Islam or Christianity. 
+The foremost adversary to stave off is Russia. If Turkey heeds conditions here in the east and coordinates troop movements accordingly, its power might keep Russia from striking in this direction. Or if the Mogul Empire allies itself with Turkey and they take over Persia [Russia's ally], this also would check Russia. The Manchu Ch'ing empire is the only nation besides ours unbefouled by either Islam or Christianity. +++(5)+++
 
 (Gloss: Countries such as Korea and Annam also maintain their independence (tokuritsu) by remaining unconverted to those occult religions. But these states are small and weak, so I omit them from this discussion.) 
 
@@ -643,7 +647,7 @@ Only after developing their strength to the fullest did barbarian nations come t
 
 201 
 
-New Theses 
+
 
 almsgiving from clerics to believers. Yet that is exactly what the barbarian clerics do. When they first came, they said they wanted to trade, but they do not seek profits. Quite the contrary, they engage in charitable works. They must be out to subvert out land.") 
 
@@ -697,7 +701,7 @@ But our temporizing, gloss-it-over officials say, "They only come for provisions
 
 205 
 
-New Theses 
+
 
 simpletons! Unlike us, the barbarians eat flesh, not rice: A lack of rice should not bother them. 
 
@@ -737,7 +741,7 @@ But our temporizing, gloss-it-over officials reply, "The foreigners are just fis
 
 207 
 
-New Theses 
+
 
 fish. Their men-of-war are self-sufficient away from home. If their only motive for harpooning whales was to obtain whale meat, they could do so in their own waters. Why should they risk long, difficult voyages just to harpoon whales in eastern seas? 
 
@@ -765,7 +769,7 @@ But some dimwits argue, "The warriors of our Divine Realm have been peerless thr
 
 209 
 
-New Theses 
+
 
 sudden thrusts and feints or the other complexities of warfare? The weak-hearted would flee for their lives, disrupting the ranks; the courageous would die meaninglessly, their valor coming to naught. Our skill and valor do not guarantee victory. When the Mongols attacked [in 1274 and 1281], the military prowess of our Divine Realm was at its prime. But due to our ignorance of enemy formations and tactics, our valor counted for little. Our headlong charges led only to self-decimation. This is why I maintain that victory in war depends entirely on the statesmangeneral's stratagems and long-range planning. But the art of war as taught today consists of outmoded ideas and tactics employed by medieval generals like Takeda Shingen and Uesugi Kenshin. We do not observe foreign troops directly, nor do we gather information about them. Once war breaks out, they may engage us in a totally unexpected way, so it is a poor idea to rely solely on our reputation for valor. 
 
@@ -785,7 +789,7 @@ Again the dimwits argue, "The barbarians' religion is a set of shallow, base doc
 
 211 
 
-New Theses 
+
 
 Again the dimwits argue, "Stupid commoners cannot be deceived and converted today because Christianity is strictly prohibited. Though the barbarians may display trifling shrewdness, there is no cause for alarm." The barbarians have been unable to work their wiles on us up to now only because the bakufu hast strictly outlawed Christianity. And I might add, the people of the realm are very fortunate that it has. Nevertheless, the fact remains that mysterious evils are spreading throughout the land today, though under different names and in different forms. If the barbarians decide to work their wiles on us, they need not restrict themselves to old methods; they will adopt new ones. 
 
@@ -829,7 +833,7 @@ Second, prohibiting presumptuous luxury. Whenever presumptuous luxury appears, p
 
 215 
 
-New Theses 
+
 
 must be upheld. Most of all, His Lordship should take the initiative and set an example for all by setting his household affairs in order, cleaning up administration, curtailing waste, eliminating inefficiency, rescinding complex or cruel regulations, and slashing expenditures for private construction projects or personal recreation. None of these proposals is new; all were introduced in antiquity. To eradicate presumptuous luxury, the ruler must make men forget about outward appearances and esteem sincerity above all else. To make men forget about outward appearances, he must get them to believe that they "are all aboard the same ship [of state], riding out the present storm together [or sinking together]."92 To induce his people to feel concern for one another's livelihood, he must spell out the evils now plaguing the realm and inspire them to bear any burden, to withstand any suffering. If he carefully selects, trains, and outfits troops, and if he persuades the high and low alike to live each day prepared for war, the realm will be ready to meet any contingency. Thereafter he need only abide by regulations and practice diligence and austerity. Then the ways of presumptuous luxury will disappear. 
 
@@ -851,7 +855,7 @@ Fourth, promoting men of ability. The ancients compared men of ability to tigers
 
 217 
 
-New Theses 
+
 
 posts. 93 After the implementation of the Taiho Code, sons in provincial schools were enabled to enroll at the state university in the capital. On completing their studies, they took civil service examinations, and if successful in these, received office. [On the continent,] the Yü, Hsia, Shang, and Chou had systems of education, and the various feudal lords also maintained programs under which promising young nobles in their domains were sent to study in the capital. All this shows the importance attached to finding, training, and employing men of talent in antiquity. No man of ability went unrecognized. 
 
@@ -871,7 +875,7 @@ First, eliminating haughtiness from the ranks. Without a doubt, crack troops sho
 
 219 
 
-New Theses 
+
 
 resulting horrors would be frightful indeed! We must act now to adjust our policies. If there are soldiers on the land to defend it, rebellion by subversives from within can be averted, attack from abroad can be deterred, and other unexpected crises can be nipped in the bud. 
 
@@ -893,7 +897,7 @@ When daimyo desert their domains for Edo, bringing, as they do, the bulk of thei
 
 221 
 
-New Theses 
+
 
 deserve to be abolished, and not all past customs deserve to be revived. The Great Hero must weigh the relative merits and demerits of each case. He drops meaningless ritual to achieve actual results by discerning the right time and adopting the proper 
 
@@ -949,7 +953,7 @@ Many people have pointed out these problems, but if we implemented a system that
 
 225 
 
-New Theses 
+
 
 cultivation are infertile and of low value. In the realm's strategic areas, few wastelands or uncultivated lands exist, but in coastal areas, they can still be found. We must persuade troops to live on and cultivate such lands, exempting taxes if these be heavy, or supplying farm implements if the soil be unproductive. If some local peasants choose to enlist and enter the ranks, we should assess their holdings and exempt these from taxation. Thus, we would realize the original motive [of rulers in antiquity] for establishing garrisons. 
 
@@ -977,7 +981,7 @@ Since information is conveyed through our way-station system, its efficiency is 
 
 227 
 
-New Theses 
+
 
 demands on the local inhabitants must be made, and increased regulations and procedures along the line may actually cause delays. 
 
@@ -1001,7 +1005,7 @@ We should assign daimyo the tasks of building large, sea-going vessels. They wou
 
 229 
 
-New Theses 
+
 
 (Gloss: In other words, shipbuilding should be thought of as similar to corvées that the bakufu now levies on daimyo.) 
 
@@ -1025,7 +1029,7 @@ Some say, "We should not fight the barbarians on the water; it is unwise to try 
 
 231 
 
-New Theses 
+
 
 from place to place like lightning. How could we engage them on our own terms? How could we even keep track of their whereabouts? 
 
@@ -1079,7 +1083,7 @@ Of course, a cannon shell can pierce any shielding device. But even so, this shi
 
 235 
 
-New Theses 
+
 
 projectiles. For example, when Katō Kiyomasa attacked Konishi Yukinaga's stronghold at Udo in Higo Province, his officers and men were without shields and therefore had to improvise by using sliding doors removed from the houses of local residents. Yet even these makeshift devices allowed them to press their attack free from the fear of being struck by enemy projectiles. How much greater their composure would have been had they possessed genuine shields. 
 
@@ -1107,7 +1111,7 @@ The casting of cannon, the use of shielding devices, the techniques of bowmanshi
 
 237 
 
-New Theses 
+
 
 but fall short of massive wartime needs. Supplies and foodstuffs procured from city merchants may suffice for drilling and training in peacetime, but cannot meet sudden emergencies. Therefore, each domain should be ordered to increase the production of its local products such as nitrates, sulfur, tallow, glue, leather, hemp, and so on: Dependence on other domains cannot be allowed. Weapons and armor must be forged in volume and stockpiled now, while we still have time. Then, when war begins, we will have limitless supplies. 
 
@@ -1135,7 +1139,7 @@ Not only do our people's lives depend on rice, it is vital as a source of ration
 
 239 
 
-New Theses 
+
 
 it. Both the people and domain governments must store this precious grain throughout the countryside. 
 
@@ -1165,7 +1169,7 @@ Anything of benefit to the realm must also be of harm. The Book of Changes [as i
 
 241 
 
-New Theses 
+
 
 must accord with virtue." Unless we deem virtue itself to be profit, any benefits obtained will be specious. If we revive the samurai spirit without differentiating virtue from profit, we will be unable to tell the sincere from the wicked, we will have no just criteria to base rewards and punishments on; the realm will plunge into turmoil, and we will be unable to elevate the people's manners and morals. Efforts to eliminate luxurious habits and consumption denied to one's status will lead to indolence and furtive, large-scale graft; meanwhile, diligence and frugality will be impossible to instill. Measures designed to stabilize the people's livelihood will lead to distrust and estrangement between high and low: Commoners might feign compliance and industriousness, but their hearts would not be in it. Promoting men of ability will lead to favoritism and partisanship in government. Eliminating insolent, overbearing troops from the ranks will earn us the enmity of officers and men. Increased troop strength will tempt us into foolhardy belligerence. Improved methods of military training and the conduct of field maneuvers would amount to nothing more than cadenced flamboyance. Enriching the domains will tempt them to be insolent. Deploying defense troops throughout the land will precipitate warlord insurrections. Establishing garrisons will turn marauders loose in the countryside to pillage and to deprave folkways and morals. Setting up an intricate system of observation posts and way-stations will heap immense, unbearable burdens on the people. Building large ships and transporting goods in them will make smuggling all the more easy for nefarious commoners. Casting weapons and training troops in bowmanship and gunnery will open up avenues of advancement to phony tacticians and show-offs. Exploiting and stockpiling nature's treasures will breed embezzlers and swindlers. Retrenchment and austerity will cause the loss of many people's livelihood. Restoring agriculture to its proper place of primacy in society and stabilizing rice prices will usher in illegal marketing practices. In other words, none of our reforms would achieve hoped-for results. 
 
@@ -1199,7 +1203,7 @@ The successful ruler possesses a boundless spirit and always begins an enterpris
 
 245 
 
-New Theses 
+
 
 does he implement his measures, slowly and methodically, so that he controls all affairs of the realm in the palm of his hand. For example, when Emperor Jimmu pacified our Middle Kingdom, he thoroughly surveyed lands to the east to determine their worthiness of Imperial rule before setting off to conquer them. He first formulated clear plans for conquest, and then executed them. As a result, his forces were victorious everywhere. Emperor Sujin aspired to enhance the nation's power and prestige and to make these felt abroad. 
 
@@ -1227,7 +1231,7 @@ For many and varied reasons, however, foreign peoples in later ages ceased beari
 
 247 
 
-New Theses 
+
 
 way 
 
@@ -1253,7 +1257,7 @@ To turn our weakness into strength, we must outwit the enemy and throw him off b
 
 249 
 
-New Theses 
+
 
 past. 
 
@@ -1279,7 +1283,7 @@ Simply bringing the barbarians under control with a definite stratagem should be
 
 251 
 
-New Theses 
+
 
 timing, resourcefulness, and the presence of an able statesmangeneral. The latter method is impossible without long-range vision and unless we resolutely achieve the enterprise [delegated to us by Amaterasu] by extending the sphere of Imperial moral suasion (kōkwa). The former method calls for rewards and punishments periodically applied to inspire the people; the latter, for prescribed rituals and edification eternally upheld to disci pline them. [Mencius says,] "The people fear good government and love good teachings." This means that they occasionally hold authority in fearful awe, but always yearn for timeless moral precepts. Thus, [Mencius says,] "good teachings capture the people's hearts." 
 
@@ -1333,7 +1337,7 @@ awe.
 
 255 
 
-New Theses 
+
 
 (Gloss: According to the "Suinin Chronicle" in Nihon shoki, "Bows, arrows, and swords were stored in shrines. The use of weapons in worshipping the gods during religious festivals began at this time." But actually even before this, during the reign of Emperor Sujin, halberds and shields were used to worship deities in festivals at Sumisaka and Ōsaka. I believe that because these two regions were of strategic importance to the realm, religious festivals also served as a means of storing weapons and tacitly conveying the need to shore up defenses to people in those key spots. This [use of religious rituals] continued as late as Emperor Suinin's reign [29 B.C. to 70 A.D.].) 
 
@@ -1357,7 +1361,7 @@ Amaterasu and Sage Emperors [in antiquity] established broad guiding teachings a
 
 257 
 
-New Theses 
+
 
 dutifully followed. When viewing the vestiges of these teachings and rituals today, we can judge for ourselves just how broad and vast Imperial solicitude once was. But various heresies sprang up in later ages and the Way became obscured. The Court lacked men of planning and vision, Dynastic decay set in, [the Imperial House] gradually lost its hold on the people's hearts, and Impegovernment breached Amaterasu's manifest will that Sage Emperors should rule the realm for ages eternal. 
 
@@ -1385,7 +1389,7 @@ This makes them susceptible to notions of paradise and hell. They crave happines
 
 259 
 
-New Theses 
+
 
 released and transformed." Unless the proper religious rituals are duly performed to soothe the spirits of the dead on their way to Heaven, there can be no repose for the living or the dead, for the common people by nature cannot help feeling a vague sorrow [at the thought of dying]. Unless they possess an inner source of composure that puts their minds at ease when faced with death, they cannot help being deceived by tales of paradise and hell. It is to relieve their fears that we perform religious rituals to ancestors. 
 
@@ -1407,7 +1411,7 @@ The "ch'i of justice" and "ch'i of dawn" are yang. Therefore, the Way of our Div
 
 261 
 
-New Theses 
+
 
 absurd [Biblical] fables. They spell death and devastation for all creation, and they adhere to the Way of darkness and ill-omen. 
 
@@ -1459,7 +1463,7 @@ There are [five] intermediate rituals; the Toshigoi, during which prayers are of
 
 265 
 
-New Theses 
+
 
 as commoners make offerings to the protective deities watching over their homes); 
 
@@ -1485,7 +1489,7 @@ In later ages, rulers conducted rituals and politics in an abbreviated, simplifi
 
 267 
 
-New Theses 
+
 
 meaning behind his religious rituals went unknown to the people in the realm. The transporting of sacrificial rice took place over but a few tens of miles, [so people] along the nation's highways lost sight of what it stood for. Special rice levies were 
 
@@ -1517,7 +1521,7 @@ Shrine storehouses contain treasured objects, weapons, supplies, provisions, doc
 
 269 
 
-New Theses 
+
 
 will present my views on this subject in detail on another 
 
@@ -1545,7 +1549,7 @@ Then the people will prostrate themselves en masse echoing, "Amaterasu inaugurat
 
 271 
 
-New Theses 
+
 
 pacifying the realm. By conducting rituals to our local gods, we requite them for their services performed on our behalf, and we recompense Amaterasu for Her original gifts to us." In short, we will have unified the myriad gods and countless rituals. The people will continue, "Amaterasu [the sun itself,] beams down on us from on high, Her Divine Descendant carries on Her Manifest Will by lovingly nurturing us, the Shogun upholds the Imperial House by maintaining peace throughout the realm, and the daimyo rule their domains-all of this allows us to enjoy stability of livelihood and security of possession. By following our lord's decrees and obeying bakufu laws, we look up to the Imperial Court and recompense Amaterasu's original gifts to us." In short, we will have unified bakufu and domain rule. When each family in the realm gathers together to conduct rituals in reverence of its ancestors, its members will say, "to revere our main house is to revere our progenitor; to live in peaceful harmony by submitting to our lord's decrees, obeying bakufu laws, looking up to the Imperial Court, and recompensing Amaterasu's original gifts to us, is to carry on the will of our ancestors." In short, we will have given unity to the people's loyalty and filial devotion. 
 
@@ -1593,7 +1597,7 @@ By spreading benevolence throughout the four quarters and treating the barbarian
 
 275 
 
-New Theses 
+
 
 will bear tribute to us for all eternity. Patriots of humanity and high resolve will aspire to offer their lives to advance our cause. No matter how bewilderingly the situation before us may change, we will never lose sight of our objective; we will remain with fixed resolve forever and a day. Nourished by the rations of our Heavenly Deities, brandishing the weapons of our Heavenly Deities, and inspired by the benevolence of our Heavenly Deities, we shall wage war against the enemies of our sovereign. Our might will reverberate all over the earth. "[Our] small nation will expand, and the unruly nations will be subdued."136 Our invincible might stemming from gentleness and humanity will extend beyond the farthest reaches of the earth, and will induce foreign barbarians to approach us seeking virtue. Never again will we need to worry about commoners in outlying areas being lured into their fold. 
 
