@@ -12,7 +12,7 @@ title: Comparison
 - Oxbridge attendence in England - [TW1](https://twitter.com/Rjrasva/status/842466759143743488).
 
 ## Occupational impurity and separation
-- Burukumin in Japan, Cagots in France, similar groups in Arabia, Yemen and Korea, practicing muslims and christians in India \[[A](http://kafila.org/2011/09/15/in-allahpur-a-moment-of-truth/)\]
+- Burukumin in Japan, Cagots in France, "dishonorable people" (unehrliche Leute) in early modern Germany, similar groups in Arabia, Yemen and Korea, practicing muslims and christians in India \[[A](http://kafila.org/2011/09/15/in-allahpur-a-moment-of-truth/)\]
 
 ## Ritual purity
 - "najasat" in Islamic socieites (spiritual pollution, separate from "kesafat", physical uncleanliness).
