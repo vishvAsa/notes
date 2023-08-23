@@ -71,6 +71,7 @@ More lactose tolerant people in NW India - they consume much diary and low meat/
 - yoghurt, milk
   - regular - 3.2%; 4.7% lactose - 2.25 INR/g (2023) 
 - Whey concentrate - 80% 
+  - 2.375 INR/g (2023 Nutrabox [RAW](https://nutrabox.in/products/best-raw-whey-protein?variant=37554135302318))
 - Whey isolate - 90%
 - Cheese
   - Oft comes in 200g packs in India. 
