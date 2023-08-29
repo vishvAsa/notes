@@ -1,6 +1,5 @@
 +++
 title = "+Version Control"
-unicode_script = "devanagari"
 +++
 
 ## git
