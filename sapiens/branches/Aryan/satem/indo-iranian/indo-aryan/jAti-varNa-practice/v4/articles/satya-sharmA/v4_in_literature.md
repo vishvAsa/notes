@@ -36,3 +36,8 @@ Did 'Brahmahatyā' have a wider meaning?
 
 Ref.: BP 10.78.17-32 
 
+## mahAbhAratam
+> "O King of Videha! the Dvijas, who possess the knowledge of Vedas & Śāstras, call Śūdra as Prajāpati. But O King, I see him as Viṣṇu, the chief Lord of the world."
+
+- Ṛṣi Parāśara, Mahābhārata, 12.285.28
+
