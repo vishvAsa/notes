@@ -19,7 +19,15 @@ This is ridiculous. 3% brAhmins (in southern states) managed to deny education t
 [Literary references](../articles/satya-sharmA/v4_in_literature), and ephigraphia provide early records of cultured shUdra-s in harmony with the rest of society.
 
 - Colonial records from Bengal, UP and Panjab [show](/sanskrit/meta/misconceptions/Sanskrit_Phobia/articles/pop-education-colonial-records/) plenty of shUdra-s learning sanskrit.
-- Dharampal's The Beautiful Tree: Indigenous Indian Education in the Eighteenth Century (1983)
+
+
+Excerpts from Dharampal's The Beautiful Tree: Indigenous Indian Education in the Eighteenth Century (1983, [arch](https://archive.org/details/TheBeautifulTree-Dharampal)) -
+
+- Statistics of Indigenous schools in Madras Presidency collected in 1822 and submitted in 1825 show that, out of the 142,369 Hindu 111,890 Hindu boys belonged to non-Brahmin castes, denoting their dominance in the indigenous vernacular education.
+- Statistics of Bombay Presidency show that the Brahmin boys studied under non-Brahmin teachers, and non-Brahmin teachers & students outnumbered Brahmins.
+  - A brahmin teacher used to teach 1 Brahmin, 6 Sonar, 1 Shimli, 10 Bandari, 4 Sali, 3 Mali, 6 Khatri, and 1 Panchal boy in a shed belonging to a Teli before 1820 in the indigenous school of village Pent in Ouchitgarh Taluka.
+- In Bihar : "The parents of good caste do not hesitate to send their children to schools conducted by teachers of inferior castes and even of a different religion". In Tirhut,  one Brahmin teacher taught largest chunk of 72 students was from Sunri caste ( which were considered untouchable/backward class by Brits)
+- In Bengal, Indigenous Schools in Bengal Presidency by Adam’s Report shows: The schools have a mixed population of students of every caste. Artisanal castes outnumbered Brahmins and Kayasthas too.
 
 
 ## Fake victimhood narrative
