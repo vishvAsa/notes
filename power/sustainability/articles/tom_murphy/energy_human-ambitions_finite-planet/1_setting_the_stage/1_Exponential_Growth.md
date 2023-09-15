@@ -287,105 +287,115 @@ The point is not to take seriously the timescales for conquering the sun or the 
 ## 1.3 Thermodynamic Consequences 
 Physics places another relevant constraint on growth rate, and that concerns waste heat. Essentially all of our energy expenditures end up as heat. Obviously many of our activities directly involve the production of heat: ovens, stoves, toasters, heaters, clothes dryers, etc. But even cooling devices are net heat generators. Anything that uses power from an electrical outlet ends up creating net heat in the environment, with very few exceptions. A car moving down the road gets you from place A to place B, but has stirred the air,[^13] heated the engine and surrounding air, and deposited heat into the brake pads and rotors, tires and road. Our metabolic energy mostly goes to maintaining body temperature. But even our own physical activity tends to end up as heat in the environment. The only exceptions would be beaming energy out of the earth environment (e.g., light or radio) or putting energy into storage (eventually to be converted to heat). But such exceptions do not amount to much, quantitatively. 
 
+[^13]: Stirred-up air eventually grinds to a halt due to viscosity/friction, becoming heat.
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Some time, go feel the exhaust air from an air-conditioning unit, or the heat produced at the back and bottom of a refrigerator. Even though these devices perform a cooling function, they make more heat than cool. 
+
+</details>
+
+
 What happens to all of this waste heat? If it all stayed on Earth, the temperature would climb and climb. But the heat does have an escape path: infrared radiation[^14] to space. The earth is in an approximate thermodynamic equilibrium: solar energy is deposited, and infrared radiation balances the input to result in steady net energy. As we will see in Chapter 5, the rate at which energy flows is called power, so that we can describe energy flows into and out of the earth system in terms of power. Physics has a well-defined and simple rule for how much power a body radiates, called the Stefan-Boltzmann law[^15]: 
 
 $P = A_{surf} (T_{hot}^4-T_{cold}^4)$ (1.8) 
 
+[^14]: ... a form of electromagnetic radiation
+
+[^15]:... leaving out something called emissivity, not relevant for our purposes
+
+
 P is the power radiated, Asurf is the surface area, Thot is the temperature of the radiating object in Kelvin (very important!)[^16], Tcold is the temperature of the environment (also Kelvin), and σ is the Stefan-Boltzmann constant: σ = 5.67 x $10^{-8}$ $W/m^2/K^4$.[^17] Note that the law operates on the difference of the fourth powers of two temperatures.
 
-Example 1.3.1  
-A table in a room in which the table and walls are all at the same temperature does not experience net radiation flow since the two temperatures to the fourth power subtract out. In this case, as much radiation leaves the table for the walls as arrives from the walls to the table. But a room-temperature object at 300 K radiates approximately 450 W per square meter to the coldness of space. 
+[^16]: Conversions to Kelvin from Celsius (or Fahrenheit) go like: T(K) = T(C) + 273.15; T(C) = (T(F) - 32)/1.8
 
-Some time, go feel the exhaust air from an air-conditioning unit, or the heat produced at the back and bottom of a refrigerator. Even though these devices perform a cooling function, they make more heat than cool. 
+[^17]: It's actually an easy constant to remember: 5-6-7-8 (but must remember the minus sign on the exponent).+++(5)+++
 
-[^13]: Stirred-up air eventually grinds to a halt due to viscosity/friction, becoming heat. 
+<details><summary>Example 1.3.1  </summary>
 
-[^14]: ... a form of electromagnetic radiation 
 
-[^15]:... leaving out something called emissiv- ity, not relevant for our purposes 
+A table in a room in which the table and walls are all at the same temperature does not experience net radiation flow since the two temperatures to the fourth power subtract out. In this case, as much radiation leaves the table for the walls as arrives from the walls to the table. But a room-temperature object at 300 K radiates approximately 450 W per square meter to the coldness of space.
+</details>
 
-[^16]: Conversions to Kelvin from Celsius (or Fahrenheit) go like: 
-T(K) = T(C) + 273.15; T(C) = (T(F) - 32)/1.8 
 
-[^17]: It's actually an easy constant to remem- ber: 5-6-7-8 (but must remember the minus sign on the exponent). 
+
 Because space is so cold (tens of Kelvin, effectively, unless exposed to the sun), the fourth power of such a small number pales so much in comparison to the fourth power of a number like 300 that we can safely ignore it for radiation to space: 
-Pspace≈ AsurfOT4, 
-(1.9) 
-where we now just have a single temperature: that of the warm body in 
-space. 
-Earth reaches an equilibrium so that power-in equals power-out.[^18] If more power is dumped onto the planet, then the temperature rises until σT4 climbs to match. The relation in Eq. 1.9 is fundamentally important to Earth's temperature balance, and applies pretty universally, as highlighted in Box 1.4. 
-Box 1.4: Everything Radiates 
-The same relation (Eq. 1.8) governs the surface of the sun, light bulb filaments, glowing coals, and even the human body. While the human body expends metabolic energy at a similar rate to an incandescent light bulb (about 100 W), one is much hotter than the other because the surface areas are vastly different. 
-11 
-Try it yourself on a calculator! 
-Temperature must be in Kelvin. 
 
-[^18]: Climate change is due to greenhouse gases blocking the escape of some radia- tion to space, presently causing a ~0.1% imbalance that Chapter 9 will address. 
-Sun 
-Sinfrared 
-infrared radiation from $4πR^2$ 
-$πR^2$ projection intercepted sunlight, 
-Sun's view 
-To evaluate the expected temperature of the earth, we know that the sun delivers 1,360 $W/m^2$ to the top of the earth's atmosphere [^4] (a bit less reaches the ground). We also know that about 29.3% of this is reflected by clouds, snow, and to a lesser extent water and terrain. So the earth system absorbs about 960 $W/m^2$. It absorbs this energy onto the area facing the sun: a projected disk of area Аproj= R. But the total surface area of the earth is four times this, all of it participating in the radiation to space (Figure 1.4). Equating the input and output for equilibrium conditions: 
-Pin = 0.707 x 1360 $W/m^2$ x R2 = Рout = 47RσT4, 
-Figure 1.4: Earth-shown here in northern hemisphere summer intercepts sunlight across the projected area of the Earth's disk (R2), while radiating from the entire sur- face area, which is four times larger ($4πR^2$). 
-This 1,360 $W/m^2$, known as the solar con- stant, is the incident energy rate (power), or the flux, of sunlight incident on Earth. 
-(1.10) 
-The 0.707 factor represents absorbed frac- tion after 29.3% is reflected. 
+$$P_{space}≈ A_{surf}σT^4,$$ (1.9)
+
+where we now just have a single temperature: that of the warm body in space. (Temperature must be in Kelvin.)
+
+Try it yourself on a calculator!  
+
+
+Earth reaches an equilibrium so that power-in equals power-out.[^18] If more power is dumped onto the planet, then the temperature rises until $σT^4$ climbs to match. The relation in Eq. 1.9 is fundamentally important to Earth's temperature balance, and applies pretty universally, as highlighted in Box 1.4. 
+
+[^18]: Climate change is due to greenhouse gases blocking the escape of some radiation to space, presently causing a ~0.1% imbalance that Chapter 9 will address.
+
+<details><summary>Box 1.4: Everything Radiates</summary>
+
+The same relation (Eq. 1.8) governs the surface of the sun, light bulb filaments, glowing coals, and even the human body. While the human body expends metabolic energy at a similar rate to an incandescent light bulb (about 100 W), one is much hotter than the other because the surface areas are vastly different.+++(5)+++ 
+</details>
+
+11 
+
+
+Sun → $πR^2$ projection = Sun's view→  intercepted sunlight,  
+= infrared radiation from $4πR^2$ 
+
+Figure 1.4: Earth-shown here in northern hemisphere summer intercepts sunlight across the projected area of the Earth's disk ($πR^2$), while radiating from the entire surface area, which is four times larger ($4πR^2$).
+
+To evaluate the expected temperature of the earth, we know that the sun delivers 1,360 $W/m^2$ to the top of the earth's atmosphere [^4] (a bit less reaches the ground). 
+
+(This 1,360 $W/m^2$, known as the solar constant, is the incident energy rate (power), or the flux, of sunlight incident on Earth.)
+
+We also know that about 29.3% of this is reflected by clouds, snow, and to a lesser extent water and terrain. So the earth system absorbs about 960 $W/m^2$. It absorbs this energy onto the area facing the sun: a projected disk of area Аproj= $πR^2$. But the total surface area of the earth is four times this, all of it participating in the radiation to space (Figure 1.4). Equating the input and output for equilibrium conditions: 
+
+$P_{in}$ = 0.707 x 1360 $W/m^2 R^2$  = Рout = $4πR^2σT^4$, (1.10) 
+
+(The 0.707 factor represents absorbed fraction after 29.3% is reflected. )
 
 which we can rearrange to isolate temperature, satisfying 
-T4 
-0.707 x 1360 $W/m^2$ 
-= 
-40 
+
+$$T^4 = 0.707 x 1360 W/m^2/(4σ)$$ 
 (1.11) 
 
-12 
-Solving for T yields T≈ 255 K, or -18°C (about 0°F). This is cold-too cold. We observe the average temperature of Earth to be about 288 K, or 15°C (59°F). The difference of 33°C is due to greenhouse gases-mostly H2O-impacting the thermal balance by preventing most radiation from escaping directly to space. We'll cover this more extensively in Chapter 
-9. 
-Armed with Eq. 1.11, we can now estimate the impact of waste heat on Earth's equilibrium temperature. Using the solar input as a baseline, we can add increasing input using the exponential scheme from the previous section: starting today at 18 TW and increasing at 2.3% per year (a factor of 10 each century). It is useful to express the human input in the same terms as the solar input so that we can just add to the numerator in Eq. 1.11. In this context, our current 18 TW into the projected area $πR^2$ adds 0.14 $W/m^2$ to the solar input (a trivial amount, today), but then increases by a factor of ten each century. Taking this in one-century chunks, the resulting temperatures-adding in the 33 K from greenhouse gases-follow the evolution shown in Table 1.4. At first, the effect is unimportant, but in 300 years far outstrips global warming, and reaches boiling temperature in a little over 400 years! If we kept going (not possible), Earth's temperature would exceed the surface temperature of the sun inside of 1,000 years! 
-A potential inconsistency in our treatment is that we based our exploration of energy scale on solar energy as a prelude to stellar energy capture. But in the thermodynamic treatment, we implicitly added our power source to the existing solar input. If the sun is the source, we should not double-count its contribution. Nonetheless, continued, re- lentless growth would eventually demand a departure from solar capture on Earth and drive the same thermodynamic challenges regardless. Synthesizing the messages: we can't continue 2.3% growth for more than a few centuries using sunlight on Earth. And if we invent something new and different to replace the fully-tapped solar potential, it too will reach thermodynamic limits within a few centuries. 
-Years 
-Power Density ($W/m^2$) T (K) 
-AT (C) 
-100 
-1.4 
-288.1 
-0.1 
-200 
-14 
-288.9 
-~1 
-300 
-140 
-296.9 
-~9 
-400 
-1,400 
-344 
-56 
-417 
-2,070 
-373 
-100 
-1,000 
-1.4 × $10^{9}$ 
-8,600 
-8,300 
-Table 1.4: At a constant energy growth rate of 2.3% per year, the temperature climb from waste heat (not CO2 emissions) is slow at first, but becomes preposterous within a few-hundred years. Water boils in just over 400 years, and by 900 years Earth is hotter than the sun! The scenario of continued growth is obviously absurd. 
-Connecting some ideas, we found in the previous section that we would be consuming the sun's entire output in 1,400 years at the 2.3% growth rate. It stands to reason that if we used a sun's worth of energy confined to the surface of the earth, the (smaller) surface would necessarily be hotter than the sun (in 1,400 years), just like a light bulb filament is hotter than human skin despite putting out the same power owing to the difference in area.[^19] 
-One key aspect of this thermal radiation scenario is that it does not depend on the form of power source. It could in principle be fossil fuels, nuclear fission, nuclear fusion, or some form of energy we have not yet realized and may not even have named! Whatever it is, it will have to obey thermodynamics. Thus, thermodynamics puts a time limit on energy growth on this planet. 
+[[12]] 
+
+Solving for T yields T≈ 255 K, or -18°C (about 0°F). This is cold - too cold.  
+We observe the average temperature of Earth to be about 288 K, or 15°C (59°F). The difference of 33°C is due to greenhouse gases-mostly H2O-impacting the thermal balance by preventing most radiation from escaping directly to space.+++(5)+++ We'll cover this more extensively in Chapter 9.
+
+Armed with Eq. 1.11, we can now estimate the impact of waste heat on Earth's equilibrium temperature. Using the solar input as a baseline, we can add increasing input using the exponential scheme from the previous section: starting today at 18 TW and increasing at 2.3% per year (a factor of 10 each century). It is useful to express the human input in the same terms as the solar input so that we can just add to the numerator in Eq. 1.11. In this context, our current 18 TW into the projected area $πR^2$ adds 0.14 $W/m^2$ to the solar input (a trivial amount, today), but then increases by a factor of ten each century. Taking this in one-century chunks, the resulting temperatures-adding in the 33 K from greenhouse gases-follow the evolution shown in Table 1.4. 
+
+Years, Power Density ($W/m^2$), T (K),ΔT (C)
+100 1.4 288.1 0.1
+200 14 288.9 ~1
+300 140 296.9 ~9
+400 1,400 344 56
+417 2,070 373 100
+1,000 1.4 × $10^{9}$ 8,600 8,300
+
+Table 1.4: At a constant energy growth rate of 2.3% per year, the temperature climb from waste heat (not CO2 emissions) is slow at first, but becomes preposterous within a few-hundred years. Water boils in just over 400 years, and by 900 years Earth is hotter than the sun! The scenario of continued growth is obviously absurd.
 
 
-[^19]: This can be gleaned from Eq. 1.8 or Eq. 
-1.9. 
+At first, the effect is unimportant, but in 300 years far outstrips global warming, and reaches boiling temperature in a little over 400 years! If we kept going (not possible), Earth's temperature would exceed the surface temperature of the sun inside of 1,000 years! 
+
+A potential inconsistency in our treatment is that we based our exploration of energy scale on solar energy as a prelude to stellar energy capture +++(Table 1.3)+++. But in the thermodynamic treatment, we implicitly added our power source to the existing solar input. If the sun is the source, we should not double-count its contribution. Nonetheless, continued, relentless growth would eventually demand a departure from solar capture on Earth and drive the same thermodynamic challenges regardless. Synthesizing the messages: we can't continue 2.3% growth for more than a few centuries using sunlight on Earth. And if we invent something new and different to replace the fully-tapped solar potential, it too will reach thermodynamic limits within a few centuries. 
+
+Connecting some ideas, we found in the previous section that we would be consuming the sun's entire output in 1,400 years at the 2.3% growth rate. It stands to reason that if we used a sun's worth of energy confined to the surface of the earth, the (smaller) surface would necessarily be hotter than the sun (in 1,400 years), just like a light bulb filament is hotter than human skin despite putting out the same power owing to the difference in area.[^19] +++(5)+++
+
+
+[^19]: This can be gleaned from Eq. 1.8 or Eq. 1.9.
+
+One key aspect of this thermal radiation scenario is that it does not depend on the form of power source. It could in principle be fossil fuels, nuclear fission, nuclear fusion, or some form of energy we have not yet realized and may not even have named! Whatever it is, it will have to obey thermodynamics. Thus, thermodynamics puts a time limit on energy growth on this planet.+++(5)+++ 
+
 
 ## 1.4 Upshot: Physics Limits Physical Growth 
-We saw in this chapter that unabated growth leads to absurd results. First, we calibrated our intuition in the context of bacteria in jars. The key point is that the jar is half full one doubling time before it is full. While this seems obvious, it delays the drama to the very end, acting fast to impose hard limits and catch the inhabitants by surprise. The conditions that persisted for many generations—thus taken for granted-suddenly change completely. 
+We saw in this chapter that unabated growth leads to absurd results. First, we calibrated our intuition in the context of bacteria in jars. The key point is that the jar is half full one doubling time before it is full. While this seems obvious, it delays the drama to the very end, acting fast to impose hard limits and catch the inhabitants by surprise. The conditions that persisted for many generations—thus taken for granted-suddenly change completely. +++(5)+++
 
 Next, we found that continuing a modest growth rate in energy becomes hopelessly absurd in a matter of centuries. Then we saw another side to this coin, in the context of thermal consequences on the surface of the earth if energy growth continues. 
 
-In the end, physics puts a timeline on expectations with respect to growth in energy on Earth. Maybe the ~300 year scale is not alarming enough. But it imposes a hard barrier against preserving our historical growth rate. In reality, other practicalities are likely to assert themselves before these hard limits are reached. We can therefore expect our growth phase to end well within a few hundred years. Given that the growth phase has lasted for far longer than that, we can say that we are closer to the end of the saga than to the beginning, yet the world is not collectively preparing for such a new reality. This seems unwise, and we will evaluate related concerns in subsequent chapters. 
+In the end, physics puts a timeline on expectations with respect to growth in energy on Earth. Maybe the ~300 year scale is not alarming enough. But it imposes a hard barrier against preserving our historical growth rate. In reality, other practicalities are likely to assert themselves before these hard limits are reached. We can therefore expect our growth phase to end well within a few hundred years.+++(5)+++ Given that the growth phase has lasted for far longer than that, we can say that we are closer to the end of the saga than to the beginning, yet the world is not collectively preparing for such a new reality.+++(4)+++ This seems unwise, and we will evaluate related concerns in subsequent chapters. 
 
 Many factors will intercede to limit growth in both population and resource use: resource scarcity, pollution, aquifer depletion and water availability, climate change, warfare, fisheries collapse, a limited amount of arable land (declining due to desertification), deforestation, disease, to name a few. The point is only reinforced. By some means or another, we should view the present period of physical growth as a temporary phase: a brief episode in the longer human saga. 
 
@@ -463,59 +473,3 @@ ML 399754298
 20 
 JUST 
 Nonna 
-Chapter 1 demonstrated that the laws of physics and mathematical logic render a constant few-percent growth trajectory to be absurd and untenable even a few hundred years into the future. In this chapter, we develop implications for the less physics-bound concept of economic growth, which is a cornerstone of modern society. Investment, loans, retirement and social security schemes all assume the march of growth. The conclusion of this chapter is that economic growth will not be able to continue at any significant rate in the absence of physical growth-which we have seen cannot continue indefinitely. The suggestion usually evokes quick criticism from economists, but they can be talked down, with patience.1 This is how it goes. 
-2.1 Historical Coupling 
-In subsistence times, esthetics held little value compared to physical goods: you couldn't eat a sculpture, for instance-nor would it help keep you warm.2 Food, tools, resources like wood, pack or draft animals carried primary value. When basic subsistence requirements were met, gold or jewelry may have warranted some expenditure-but even these were physical resources. 
-Agriculture freed some individuals in society to think and create. The economy found more room to value arts and performance: things that fueled the mind, if not the body. During the Renaissance, patrons would support artists and scientists whose output had few other channels of economic support. In today's world, a complex economy distributes financial assets to a wide variety of practitioners in general accordance with society's values. 
-Banner photo pokes fun at what physics (gravity) finds more valuable: a silver dollar (real silver) vs. a $20 bill; Credit: Tom Murphy 
-
-2.1 Historical Coupling 
-17 
-2.2 Decoupling and Substitution 20 2.3 Forced Economic Limits .. 24 
-2.4 No-Growth World . 2.5 Upshot: Growth Will End 2.6 Problems. 
-1: See, for instance [^5]. 
-26 
-27 
-+ 
-28 
-+ 
-2: Life, it turns out, is a struggle against thermodynamics. 
-2 Economic Growth Limits 
-18 
-But resources are still paramount. The United States prospered largely because it possessed a frontier rich in natural resources. Mining and animal pelts dominated early on, as well as agriculture (tobacco, cotton, corn, wheat). In the middle of the 20th century, the United States was the dominant oil exporter worldwide (first developed in Pennsylvania, then California and Texas). Escaping the World Wars largely unscathed in terms of domestic infrastructure, the country had tooled-up a massive manufacturing capability. Together with a can-do attitude, Americans set out to rack up superlatives in virtually every category. As a manu- facturing powerhouse during the middle of the 20th century, American raw materials joined a well-educated workforce to drive innovation and production. It is no accident that many in the U.S. yearn to return to these "glory days;" however we cannot possibly do so, having permanently depleted some of the original stocks. 
-What was true in the past is largely still true today: resources like oil, steel, metals, agricultural products, and heavy machinery continue to fetch a significant price on the market. Resources fuel prosperity. It is not the only source, but remains a reliable and bedrock component. Figure 2.1 shows the tight correlation between economic scale and energy use, which is often expressed by saying that the two tend to be coupled. 
-One might say that the U.S. was the Saudi Arabia of the day. 
-It is important to recognize that the past was not "glorious" for all people. 
-Qatar Singapore 
-USA. 
-Energy Usage Per Person (W) 
-10000 
-Venezuela 
-Canada 
-Russia 
-Taiwan 
-China, 
-Japan.: 
-*Italy UK 
-Switzerland 
-Germany 
-Brazil 
-1000 
-India 
-Indonesia 
-Pakistan 
-100 
-Ethiopia 
-10 
-Chad 
-1000 
-Nigeria 
-10000 
-Per Capita GDP ($) 
-100000 
-One way to capture the physical connection to economic activity is to represent the energy expenditure associated with each dollar3 spent. This economic energy intensity (see Definition 2.1.1) of a country is just the energy expenditure of society divided by the gross domestic product (GDP).4 
-Figure 2.1: Per capita energy use as a func- tion of GDP on a logarithmic scale. Per capita GDP is the sum total of a country's economy divided by population, effectively indicating average annual income. The rate at which an individual uses energy is ex- pressed as a power, in Watts. A strong cor- relation exists here across many orders-of- magnitude: rich countries use more energy, per person [6–8]. A few instructive cases (red dots) are labeled. The dot areas are scaled to population. 
-3: Or converted monetary equivalent. 
-4: GDP is a measure of total monetary value of goods and services produced in a country within a year. 
-
-Definition 2.1.1 Energy intensity is a measure of how much energy a society uses relative to its economic scale-sort of like an efficiency. It can be a proxy for resource use in general, and is calculated as: 

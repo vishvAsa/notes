@@ -2,6 +2,63 @@
 title = "2 Economic Growth Limits"
 
 +++
+Chapter 1 demonstrated that the laws of physics and mathematical logic render a constant few-percent growth trajectory to be absurd and untenable even a few hundred years into the future. In this chapter, we develop implications for the less physics-bound concept of economic growth, which is a cornerstone of modern society. Investment, loans, retirement and social security schemes all assume the march of growth. The conclusion of this chapter is that economic growth will not be able to continue at any significant rate in the absence of physical growth-which we have seen cannot continue indefinitely. The suggestion usually evokes quick criticism from economists, but they can be talked down, with patience.1 This is how it goes.
+2.1 Historical Coupling
+In subsistence times, esthetics held little value compared to physical goods: you couldn't eat a sculpture, for instance-nor would it help keep you warm.2 Food, tools, resources like wood, pack or draft animals carried primary value. When basic subsistence requirements were met, gold or jewelry may have warranted some expenditure-but even these were physical resources.
+Agriculture freed some individuals in society to think and create. The economy found more room to value arts and performance: things that fueled the mind, if not the body. During the Renaissance, patrons would support artists and scientists whose output had few other channels of economic support. In today's world, a complex economy distributes financial assets to a wide variety of practitioners in general accordance with society's values.
+Banner photo pokes fun at what physics (gravity) finds more valuable: a silver dollar (real silver) vs. a $20 bill; Credit: Tom Murphy
+
+2.1 Historical Coupling
+17
+2.2 Decoupling and Substitution 20 2.3 Forced Economic Limits .. 24
+2.4 No-Growth World . 2.5 Upshot: Growth Will End 2.6 Problems.
+1: See, for instance [^5].
+26
+27
++
+28
++
+2: Life, it turns out, is a struggle against thermodynamics.
+2 Economic Growth Limits
+18
+But resources are still paramount. The United States prospered largely because it possessed a frontier rich in natural resources. Mining and animal pelts dominated early on, as well as agriculture (tobacco, cotton, corn, wheat). In the middle of the 20th century, the United States was the dominant oil exporter worldwide (first developed in Pennsylvania, then California and Texas). Escaping the World Wars largely unscathed in terms of domestic infrastructure, the country had tooled-up a massive manufacturing capability. Together with a can-do attitude, Americans set out to rack up superlatives in virtually every category. As a manu- facturing powerhouse during the middle of the 20th century, American raw materials joined a well-educated workforce to drive innovation and production. It is no accident that many in the U.S. yearn to return to these "glory days;" however we cannot possibly do so, having permanently depleted some of the original stocks.
+What was true in the past is largely still true today: resources like oil, steel, metals, agricultural products, and heavy machinery continue to fetch a significant price on the market. Resources fuel prosperity. It is not the only source, but remains a reliable and bedrock component. Figure 2.1 shows the tight correlation between economic scale and energy use, which is often expressed by saying that the two tend to be coupled.
+One might say that the U.S. was the Saudi Arabia of the day.
+It is important to recognize that the past was not "glorious" for all people.
+Qatar Singapore
+USA.
+Energy Usage Per Person (W)
+10000
+Venezuela
+Canada
+Russia
+Taiwan
+China,
+Japan.:
+*Italy UK
+Switzerland
+Germany
+Brazil
+1000
+India
+Indonesia
+Pakistan
+100
+Ethiopia
+10
+Chad
+1000
+Nigeria
+10000
+Per Capita GDP ($)
+100000
+One way to capture the physical connection to economic activity is to represent the energy expenditure associated with each dollar3 spent. This economic energy intensity (see Definition 2.1.1) of a country is just the energy expenditure of society divided by the gross domestic product (GDP).4
+Figure 2.1: Per capita energy use as a func- tion of GDP on a logarithmic scale. Per capita GDP is the sum total of a country's economy divided by population, effectively indicating average annual income. The rate at which an individual uses energy is ex- pressed as a power, in Watts. A strong cor- relation exists here across many orders-of- magnitude: rich countries use more energy, per person [6–8]. A few instructive cases (red dots) are labeled. The dot areas are scaled to population.
+3: Or converted monetary equivalent.
+4: GDP is a measure of total monetary value of goods and services produced in a country within a year.
+
+Definition 2.1.1 Energy intensity is a measure of how much energy a society uses relative to its economic scale-sort of like an efficiency. It can be a proxy for resource use in general, and is calculated as:
+
 19 
 Energy Intensity = 
 Energy Expended Money Spent 
