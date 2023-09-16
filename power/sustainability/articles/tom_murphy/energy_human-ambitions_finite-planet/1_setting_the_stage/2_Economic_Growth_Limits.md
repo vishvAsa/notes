@@ -4,7 +4,11 @@ title = "2 Economic Growth Limits"
 +++
 Chapter 1 demonstrated that the laws of physics and mathematical logic render a constant few-percent growth trajectory to be absurd and untenable even a few hundred years into the future. In this chapter, we develop implications for the less physics-bound concept of economic growth, which is a cornerstone of modern society. Investment, loans, retirement and social security schemes all assume the march of growth. The conclusion of this chapter is that economic growth will not be able to continue at any significant rate in the absence of physical growth-which we have seen cannot continue indefinitely.+++(5)+++ The suggestion usually evokes quick criticism from economists, but they can be talked down, with patience.[^1] This is how it goes.
 
-[^1]: See, for instance [^5].
+[^1]: See, for instance [^r5].
+
+[^r5]: TW Murphy. Exponential Economist Meets Finite Pysicist. Online. Accessed 2021 Jan. 8. Apr. 2012. URL: https://dothemath.ucsd.edu/2012/04/economist-meets-physicist/ (cited on page 17).
+
+
 
 Banner photo pokes fun at what physics (gravity) finds more valuable: a silver dollar (real silver) vs. a $20 bill; Credit: Tom Murphy
 
@@ -21,253 +25,143 @@ But resources are still paramount. The United States prospered largely because i
 
 One might say that the U.S. was the Saudi Arabia of the day.
 
-It is important to recognize that the past was not "glorious" for all people.
+(It is important to recognize that the past was not "glorious" for all people.)
 
 What was true in the past is largely still true today: resources like oil, steel, metals, agricultural products, and heavy machinery continue to fetch a significant price on the market. Resources fuel prosperity. It is not the only source, but remains a reliable and bedrock component.+++(4)+++ Figure 2.1 shows the tight correlation between economic scale and energy use, which is often expressed by saying that the two tend to be coupled.
 
-Qatar Singapore
 
-USA.
+One way to capture the physical connection to economic activity is to represent the energy expenditure associated with each dollar[^3] spent. This economic energy intensity (see Definition 2.1.1) of a country is just the energy expenditure of society divided by the gross domestic product (GDP).[^4]
 
-Energy Usage Per Person (W)
+[^3]: Or converted monetary equivalent.
 
-10000
+[^4]: GDP is a measure of total monetary value of goods and services produced in a country within a year.
 
-Venezuela
 
-Canada
+{{< figure src="../images/per-capita-energy_vs_gdp.png" title="" class="thumbnail">}}
 
-Russia
+Figure 2.1: Per capita energy use as a func- tion of GDP on a logarithmic scale. Per capita GDP is the sum total of a country's economy divided by population, effectively indicating average annual income. The rate at which an individual uses energy is ex- pressed as a power, in Watts. A strong cor- relation exists here across many orders-of- magnitude: rich countries use more energy, per person [^r6] [^r7] [^r8]. A few instructive cases (red dots) are labeled. The dot areas are scaled to population.
 
-Taiwan
 
-China,
+[^r6]: List of countries by GDP (nominal). Wikipedia. Source: World Economic Outlook Database, International Monetary Fund. Accessed 2019 Sept. 3. Oct. 2019. URL: https://en.wikipedia.org/wiki/List_of_countries_by_GDP (nominal) (cited on pages 18, 19, 39).
 
-Japan.:
 
-*Italy UK
+[^r7]: List of Countries by Total Primary Energy Consumption and Production. Wikipedia. Source: International Energy Statistics, U.S. Energy Information Administration. Accessed 2017 Feb. 12. 2016. URL: https://en.wikipedia.org/wiki/List_of_countries_by_total_primary_ energy consumption_and_production (cited on pages 18, 19, 43, 44).
 
-Switzerland
 
-Germany
-
-Brazil
-
-1000
-
-India
-
-Indonesia
-
-Pakistan
-
-100
-
-Ethiopia
-
-10
-
-Chad
-
-1000
-
-Nigeria
-
-10000
-
-Per Capita GDP ($)
-
-100000
-
-One way to capture the physical connection to economic activity is to represent the energy expenditure associated with each dollar3 spent. This economic energy intensity (see Definition 2.1.1) of a country is just the energy expenditure of society divided by the gross domestic product (GDP).4
-
-Figure 2.1: Per capita energy use as a func- tion of GDP on a logarithmic scale. Per capita GDP is the sum total of a country's economy divided by population, effectively indicating average annual income. The rate at which an individual uses energy is ex- pressed as a power, in Watts. A strong cor- relation exists here across many orders-of- magnitude: rich countries use more energy, per person [6–8]. A few instructive cases (red dots) are labeled. The dot areas are scaled to population.
-
-3: Or converted monetary equivalent.
-
-4: GDP is a measure of total monetary value of goods and services produced in a country within a year.
+[^r8]: List of Countries by Population (United Nations). Wikipedia. Accessed 2020 Jul. 18. July 2019. URL: https://en.wikipedia.org/wiki/List_of_countries_by_population (United_ Nations) (cited on pages 18, 19, 39, 40, 42-44).
 
 
 
-Definition 2.1.1 Energy intensity is a measure of how much energy a society uses relative to its economic scale-sort of like an efficiency. It can be a proxy for resource use in general, and is calculated as:
+Definition 2.1.1  
+Energy intensity is a measure of how much energy a society uses relative to its economic scale-sort of like an efficiency. It can be a proxy for resource use in general, and is calculated as:
+
+Energy Intensity = Energy Expended / Money Spent (2.1)
 
 
+[[19]] 
 
-19 
 
-Energy Intensity = 
+In a resource-constrained world (limited material and energy supplies), a lower energy intensity translates to less energy consumption for a certain economic output, or conversely allows higher economic output for a fixed energy consumption rate.+++(5)+++ On a smaller scale, we can say, for instance, that spending $100 on an airplane trip is far more energy intense than spending the same amount of money on legal advice. 
 
-Energy Expended Money Spent 
-
-(2.1) 
-
-In a resource-constrained world (limited material and energy supplies), a lower energy intensity translates to less energy consumption for a certain economic output, or conversely allows higher economic output for a fixed energy consumption rate. On a smaller scale, we can say, for instance, that spending $100 on an airplane trip is far more energy intense than spending the same amount of money on legal advice. 
-
-Energy intensity therefore provides a measure of how resource-heavy a country is in relation to the size of its economy. For instance, the U.S. uses about $10^{20}$ Joules of energy per year and has a GDP of approximately 20 trillion dollars. Dividing these gives an intensity of 5 × $10^{6}$ J/$, or 5 MJ/$ (many variants are possible in terms of units). The world as a whole uses about 4.5 x $10^{20}$ J in a year at an estimated $90 trillion gross world product, also resulting in 5 MJ/$. The variation among developed countries is not especially large-generally in the single-digit MJ/$ range. 
+Energy intensity therefore provides a measure of how resource-heavy a country is in relation to the size of its economy. For instance, the U.S. uses about $10^{20}$ Joules of energy per year and has a GDP of approximately 20 trillion dollars. Dividing these gives an intensity of $5 × 10^{6}$ J/\$, or 5 MJ/\$ (many variants are possible in terms of units). The world as a whole uses about 4.5 x $10^{20}$ J in a year at an estimated $90 trillion gross world product, also resulting in 5 MJ/$. The variation among developed countries is not especially large-generally in the single-digit MJ/$ range. 
 
 We will cover units of energy in Chapter 5. For now, it is sufficient to know that a Joule (J) is a unit of energy, and that MJ means megajoules, or $10^{6}$ J. 
 
-Venezuela 
+{{< figure src="../images/energy-intensity_vs_per-capita-gdp.png" title="" class="thumbnail">}}
 
-Russia 
+Figure 2.2: Energy intensity of countries, on a log-log plot. The vertical axis shows how energetically "hungry" each country is in relation to its economic output, while the horizontal axis sorts countries by economic output per person. A few instructive cases (red dots) are labeled. The dot areas are scaled to population. Prosperous countries tend to have lower intensity than developing countries, but part of this may relate to moving manufacturing from the former to the latter [^r6][^r7][^r8].
 
-Energy Intensity (MJ/$) 
-
-India 
-
-10 
-
-Pakistan 
-
-P 
-
-1000 
-
-Nigeria 
-
-Brazil 
-
-Indonesia 
-
-China 
-
-Taiwan Canada 
-
-USA 
-
-Spain 
-
-• 
-
-Japan: 
-
-• 
-
-⚫ Germany 
-
-Italy 
-
-Luxembourg 
-
-UK 
-
-10000 
-
-Per Capita GDP ($) 
-
-"Switzerland 
-
-100000 
-
-Figure 2.2 illustrates the range of intensities for all the countries in the world. Among the factors driving energy use are geographical extent (large countries require more long-haul transportation), climate (cold countries require more heating), efficiency, and lifestyle. Russia, Canada, and the U.S. have large territories, and the former two require more heating than most. By contrast, Switzerland is geographically small 
-
-Figure 2.2: Energy intensity of countries, on a log-log plot. The vertical axis shows how energetically "hungry" each country is in relation to its economic output, while the horizontal axis sorts countries by economic output per person. A few instructive cases (red dots) are labeled. The dot areas are scaled to population. Prosperous countries tend to have lower intensity than developing countries, but part of this may relate to moving manufacturing from the former to the latter [6–8]. 
+Figure 2.2  illustrates the range of intensities for all the countries in the world. Among the factors driving energy use are geographical extent (large countries require more long-haul transportation), climate (cold countries require more heating), efficiency, and lifestyle. Russia, Canada, and the U.S. have large territories, and the former two require more heating than most. By contrast, Switzerland is geographically small and outsources much of its heavy industry. Somebody should probably check on what's happening in Venezuela.[^5] 
 
 
+[^5]: Maybe they left the oven on by mistake?
 
-
-
- 
-
-20 
-
-and outsources much of its heavy industry. Somebody should probably check on what's happening in Venezuela.5 
-
-
+[[20]]
 
 ## 2.2 Decoupling and Substitution 
+### Decoupling
+As economies expand beyond subsistence level, a larger fraction of the total activity can go to "frivolous" elements, such as art and entertainment. The intensity of such activities can be quite low. An art collector may pay $1 million for a coveted painting. Very little energy is required. The painting was produced long ago. It may even remain on display in the same location-only the name of the owner changing. Financial transactions that require no manufacture, transport, and negligible energy are said to be "decoupled" from physical resources. Plenty of examples exist in society, and are held up by economists as illustrating how we can continue to expand the economy without a commensurate expansion of resource needs.[^6] 
 
-As economies expand beyond subsistence level, a larger fraction of the total activity can go to "frivolous" elements, such as art and entertainment. The intensity of such activities can be quite low. An art collector may pay $1 million for a coveted painting. Very little energy is required. The painting was produced long ago. It may even remain on display in the same location-only the name of the owner changing. Financial transactions that require no manufacture, transport, and negligible energy are said to be "decoupled" from physical resources. Plenty of examples exist in society, and are held up by economists as illustrating how we can continue to expand the economy without a commensurate expansion of resource needs." 
 
-Definition 2.2.1 Decoupling is the notion that economic activities need not be strongly tied to physical (e.g., energy) requirements, so that energy intensity might become arbitrarily small. The degree to which some economic activity is decoupled forms a continuous scale, where intense utilization of energy and physical resources (e.g., steel production) are on one end and fine art dealing on the other? The only way for an economy to maintain growth in the event that physical sector growth becomes limited is to increase the degree of decoupling in the society. 
+[^6]: This is the hope, anyway.
 
-The dream is that as development progresses, economic energy intensity may decline (greater decoupling) so that more money is made per unit of energy expended. If the economy can decouple from energy needs, we are not constrained in our quest to continue economic growth, bringing smiles to the faces of investors and politicians. Such a transition would mean less emphasis on energy and resource-intensive industrial development/manufacturing, and more on abstract services, broadly 
+Definition 2.2.1  
+Decoupling is the notion that economic activities need not be strongly tied to physical (e.g., energy) requirements, so that energy intensity might become arbitrarily small. The degree to which some economic activity is decoupled forms a continuous scale, where intense utilization of energy and physical resources (e.g., steel production) are on one end and fine art dealing on the other.[^7] The only way for an economy to maintain growth in the event that physical sector growth becomes limited is to increase the degree of decoupling in the society. 
 
-speaking. 
+[^7]: Services, like plumbing, journalism, or marketing fall in between, using some physical resources, but not as much as heavy industry.
+
+The dream is that as development progresses, economic energy intensity may decline (greater decoupling) so that more money is made per unit of energy expended. If the economy can decouple from energy needs, we are not constrained in our quest to continue economic growth, bringing smiles to the faces of investors and politicians. Such a transition would mean less emphasis on energy and resource-intensive industrial development/manufacturing, and more on abstract services[^8], broadly speaking. 
+
+
+[^8]: Such services might include things like singing lessons, life coaching, psychotherapy, financial planning, and other activities that demand little physical input.
+
 
 Because the world is a sort of "experiment," representing many countries having adopted many policies and in various states of development, Figure 2.2 can be viewed as a potential roadmap to decoupling. 
 
-The question is: as countries develop and become more prosperous, does intensity decrease, as we would want it to do as a signal of decoupling? On the large scale, any effect is modest. Going from India to the U.S. affords only a factor-of-two improvement in intensity, while spanning most of the horizontal extent in personal prosperity (a factor of 30 in per capita GDP). That's pretty weak tea. 
+(Part of the reason prosperous countries demonstrate a lower intensity is that manufacturing moves overseas. Driving the whole world toward lower intensity is a more difficult prospect, as the physical processes must still happen somewhere.)
 
-At the upper end of personal income (right side of Figure 2.2), we might detect a downward slope. But we must be careful about cherry-picking in 
+The question is: as countries develop and become more prosperous, does intensity decrease, as we would want it to do as a signal of decoupling? On the large scale, any effect is modest. Going from India to the U.S. affords only a factor-of-two improvement in intensity, while spanning most of the horizontal extent in personal prosperity (a factor of 30 in per capita GDP) [^9].+++(5)+++ That's pretty weak tea. 
 
-
-
-[^5]: Maybe they left the oven on by mistake? 
+[^9]: $65,000 vs. $2,100 for the U.S. and India, respectively.
 
 
+[[21]] 
 
-[^6]: This is the hope, anyway. 
+At the upper end of personal income (right side of Figure 2.2), we might detect a downward slope. But we must be careful about cherry-picking in the face of non-replicable circumstances. Not every country can assume the geography and financially-focused nature of Switzerland.+++(4)+++ And at the same time, if the U.S. imagines itself providing a model that other countries might emulate, the intensity of many European countries could actually increase if adopting U.S. habits. 
 
+But more broadly, we don't have evidence that a country on the prosperous end of the distribution can operate at even a factor-of-four lower intensity than the 4 MJ/\$ level typical of developed countries. In the present context of assessing the future of growth, in which we are concerned with order-of-magnitude scales and limits (as in Chapter 1), it does not appear that decoupling has very much to offer.+++(5)+++[^10] 
 
-
-[^7]: Services, like plumbing, journalism, or marketing fall in between, using some physical resources, but not as much as heavy industry. 
-
-
-
-[^8]: Such services might include things like singing lessons, life coaching, psychotherapy, financial planning, and other activities that demand little physical input. 
-
-Part of the reason prosperous countries demonstrate a lower intensity is that manufacturing moves overseas. Driving the whole world toward lower intensity is a more difficult prospect, as the physical processes must still happen somewhere. 
+[^10]: That is, no orders-of-magnitude that will allow us to continue growth for centuries more after physical resources limit growth.
 
 
-
-[^9]: $65,000 vs. $2,100 for the U.S. and India, respectively. 
-
-
-
- 21 
-
-the face of non-replicable circumstances. Not every country can assume the geography and financially-focused nature of Switzerland. And at the same time, if the U.S. imagines itself providing a model that other countries might emulate, the intensity of many European countries could actually increase if adopting U.S. habits. But more broadly, we don't have evidence that a country on the prosperous end of the distribution can operate at even a factor-of-four lower intensity than the 4 MJ/$ level typical of developed countries. In the present context of assessing the future of growth, in which we are concerned with order-of-magnitude scales and limits (as in Chapter 1), it does not appear that decoupling has very much to offer.[^1] 
-
-10 
-
-Definition 2.2.2 Substitution refers to the ability to switch resources when one becomes scarce or a better/superior alternative is found. Substitution is often invoked to counter concerns about scarcity. A common and cute way to frame it is that the stone age did not end because we ran out of stones-—we found bronze. 
+### Substitution
+Definition 2.2.2  
+Substitution refers to the ability to switch resources when one becomes scarce or a better/superior alternative is found. Substitution is often invoked to counter concerns about scarcity. A common and cute way to frame it is that the stone age did not end because we ran out of stones-—we found bronze. 
 
 The past is full of examples of substitution (Definition 2.2.2). Consider the progression in lighting technology from open fires to beeswax candles to whale oil lanterns to piped gas lanterns to incandescent electric bulbs to fluorescent lights to LED (light emitting diode) technology. Every step seems to be an improvement, and it is very natural to assume the story will continue developing along these lines. 
 
-Box 2.1: A Story of Lighting Efficiency 
+<details><summary>Box 2.1: A Story of Lighting Efficiency</summary>
 
-One way to quantify lighting progress is in the luminous efficacy of light, in units of lumens per Watt. In the 20th century, incandescent bulbs were so ubiquitous for so long that we fell into the bad habit of characterizing brightness in terms of the electrical power consumed by the bulb, in Watts. Thus we have generations of people accustomed to how bright a "100 W" or "60 W" bulb is. As technology changes, we should migrate to "lumens," which accurately captures how bright a source is perceived by the human eye. 
+One way to quantify lighting progress is in the luminous efficacy of light, in units of lumens per Watt. In the 20th century, incandescent bulbs were so ubiquitous for so long that we fell into the bad habit of characterizing brightness in terms of the electrical power consumed by the bulb, in Watts.+++(4)+++ Thus we have generations of people accustomed to how bright a "100 W" or "60 W" bulb is. As technology changes, we should migrate to "lumens," which accurately captures how bright a source is perceived by the human eye. 
 
-Table 2.1 and Figure 2.3 present the evolution of luminous efficacy as sources improved. Can this trend continue indefinitely? No. Every photon of light carries a minimum energy11 requirement based on its wavelength. For photons spread across the visible spectrum (creating light we perceive as white), the theoretical limit is about 300 lm/W [^9]. At this extreme, no energy is wasted in the production of light, putting 100% of the energy into the light itself. Engineering rarely reaches theoretical limits, due to a host of practical challenges. It would therefore not be surprising if lighting efficiency does not improve over where it is today by another factor of two, ending yet another centuries-long trend. 
+(Bulb packaging still refers to the "equivalent wattage" of a bulb, even though a "60 W equivalent" bulb may only consume 12 W of power.)
+
+[^11]: We will see this in Sec. 5.10 (p.79).
+
+Table 2.1: Luminous efficacies [r10][r11].
 
 
+Light Source lm/W
 
-[^10]: That is, no orders-of-magnitude that will allow us to continue growth for centuries more after physical resources limit growth. 
+Candles ~0.3  
+Gas Lamp 1-2  
+Incandescent 8-15  
+Halogen 15-25  
+CFL 45-75   
+LED 75-120
+
+[^r10]: Energypedia. Lighting Technologies. 2015. URL: https://energypedia.info/wiki/Lighting_Technologies (cited on pages 21, 22).
+
+
+[^r11]: Luminous Efficacy. Wikipedia. Sources: various, cited from Wikipedia page. URL: https: /en.wikipedia.org/wiki/Luminous efficacy (cited on pages 21, 22).
+
+{{< figure src="../images/luminous-efficiency_vs_year.png" title="" class="thumbnail">}}
+
+Figure 2.3: Historical progress of lighting efficiency on a logarithmic plot, using bars to indicate the approximate range of time and performance. The dashed line at top represents the maximum theoretical luminous efficacy for white light (no waste heat). The dotted line rises by our customary factor of ten per century (2.3% annual rate). Note that the guiding line reaches the theoretical maximum mid-century (red star), indicating that this centuries-long ride cannot continue much longer [10, 11].
+
+
+Table 2.1 and Figure 2.3 present the evolution of luminous efficacy as sources improved. Can this trend continue indefinitely? No. Every photon of light carries a minimum energy[^11] requirement based on its wavelength. For photons spread across the visible spectrum (creating light we perceive as white), the theoretical limit is about 300 lm/W [^r9]. At this extreme, no energy is wasted in the production of light, putting 100% of the energy into the light itself. Engineering rarely reaches theoretical limits, due to a host of practical challenges. It would therefore not be surprising if lighting efficiency does not improve over where it is today by another factor of two, ending yet another centuries-long trend. 
+
+
+[^r9]: TW Murphy. "Maximum spectral luminous efficacy of white light". In: Journal of Applied Physics 111.10 (2012), p. 104909. DOI: 10.1063/1.4721897 (cited on page 21).
+
+</details>
+
+
 
 Through this example, we can see how substitution and decoupling might be connected: efficiency improves through substitution, requiring less energy for the same lighting value. 
 
-Bulb packaging still refers to the "equivalent wattage" of a bulb, even though a "60 W equivalent" bulb may only consume 12 W of power. 
 
-
-
-[^11]: We will see this in Sec. 5.10 (p.79). 
-
-Table 2.1: Luminous efficacies [10, 11]. 
-
-lm/W 
-
-Light Source 
-
-Candles Gas Lamp 
-
-~0.3 
-
-1-2 
-
-Incandescent 
-
-8-15 
-
-Halogen CFL 
-
-15-25 
-
-45-75 
-
-LED 
-
-75-120 
 
 
 
@@ -302,8 +196,6 @@ incandescent
 זוזו 
 
 1700 1800 1900 2000 2100 
-
-Figure 2.3: Historical progress of lighting efficiency on a logarithmic plot, using bars to indicate the approximate range of time and performance. The dashed line at top represents the maximum theoretical luminous efficacy for white light (no waste heat). The dotted line rises by our customary factor of ten per century (2.3% annual rate). Note that the guiding line reaches the theoretical maximum mid-century (red star), indicating that this centuries-long ride cannot continue much longer [10, 11]. 
 
 
 

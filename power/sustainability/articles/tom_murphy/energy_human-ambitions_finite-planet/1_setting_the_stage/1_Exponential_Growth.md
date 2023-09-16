@@ -203,7 +203,11 @@ More generally, we are not confined to any particular base, b, having just seize
 
 
 ## 1.2 Exponential Energy Extrapolation 
-Having established some basic principles of exponential growth, it's time for a first look at how we can use the math to argue about limits to our expectations. We'll concentrate on energy use. The United States Energy Information Administration (EIA) provides information on energy use from 1949 to the present. An appendix (E1: [^3]) presents an approximate account of energy use from 1635-1945. Figure 1.2 displays the more recent portion of this history. 
+Having established some basic principles of exponential growth, it's time for a first look at how we can use the math to argue about limits to our expectations. We'll concentrate on energy use. The United States Energy Information Administration (EIA) provides information on energy use from 1949 to the present. An appendix (E1: [^r3]) presents an approximate account of energy use from 1635-1945. Figure 1.2 displays the more recent portion of this history. 
+
+[^r3]: U.S. Energy Inform. Administration. Annual Energy Review, Appendix E1. 2011. URL: https://www.eia.gov/totalenergy/data/monthly/pdf/sec12_24.pdf (cited on page 7).
+
+
 
 Figure 1.2: U.S. energy over 200 years, showing a dramatic rise due almost entirely to fossil fuels. The red curve is an exponential fit tuned to cover the broader period shown in Figure 1.3.
 
@@ -345,7 +349,11 @@ Sun → $πR^2$ projection = Sun's view→  intercepted sunlight,
 
 Figure 1.4: Earth-shown here in northern hemisphere summer intercepts sunlight across the projected area of the Earth's disk ($πR^2$), while radiating from the entire surface area, which is four times larger ($4πR^2$).
 
-To evaluate the expected temperature of the earth, we know that the sun delivers 1,360 $W/m^2$ to the top of the earth's atmosphere [^4] (a bit less reaches the ground). 
+To evaluate the expected temperature of the earth, we know that the sun delivers 1,360 $W/m^2$ to the top of the earth's atmosphere [^r4] (a bit less reaches the ground). 
+
+
+[^r4]: G. Kopp and J. L. Lean. "A new, lower value of total solar irradiance: Evidence and climate significance". In: Geophysical Research Letters 38.1 (Jan. 2011). DOI: 10.1029/2010GL045777 (cited on pages 11, 144, 167, 206).
+
 
 (This 1,360 $W/m^2$, known as the solar constant, is the incident energy rate (power), or the flux, of sunlight incident on Earth.)
 
