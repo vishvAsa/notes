@@ -120,6 +120,8 @@ Substitution refers to the ability to switch resources when one becomes scarce o
 
 The past is full of examples of substitution (Definition 2.2.2). Consider the progression in lighting technology from open fires to beeswax candles to whale oil lanterns to piped gas lanterns to incandescent electric bulbs to fluorescent lights to LED (light emitting diode) technology. Every step seems to be an improvement, and it is very natural to assume the story will continue developing along these lines. 
 
+(Through this example, we can see how substitution and decoupling might be connected: efficiency improves through substitution, requiring less energy for the same lighting value.)
+
 <details><summary>Box 2.1: A Story of Lighting Efficiency</summary>
 
 One way to quantify lighting progress is in the luminous efficacy of light, in units of lumens per Watt. In the 20th century, incandescent bulbs were so ubiquitous for so long that we fell into the bad habit of characterizing brightness in terms of the electrical power consumed by the bulb, in Watts.+++(4)+++ Thus we have generations of people accustomed to how bright a "100 W" or "60 W" bulb is. As technology changes, we should migrate to "lumens," which accurately captures how bright a source is perceived by the human eye. 
@@ -147,7 +149,7 @@ LED 75-120
 
 {{< figure src="../images/luminous-efficiency_vs_year.png" title="" class="thumbnail">}}
 
-Figure 2.3: Historical progress of lighting efficiency on a logarithmic plot, using bars to indicate the approximate range of time and performance. The dashed line at top represents the maximum theoretical luminous efficacy for white light (no waste heat). The dotted line rises by our customary factor of ten per century (2.3% annual rate). Note that the guiding line reaches the theoretical maximum mid-century (red star), indicating that this centuries-long ride cannot continue much longer [10, 11].
+Figure 2.3: Historical progress of lighting efficiency on a logarithmic plot, using bars to indicate the approximate range of time and performance. The dashed line at top represents the maximum theoretical luminous efficacy for white light (no waste heat). The dotted line rises by our customary factor of ten per century (2.3% annual rate). Note that the guiding line reaches the theoretical maximum mid-century (red star), indicating that this centuries-long ride cannot continue much longer [^r10] [^r11].
 
 
 Table 2.1 and Figure 2.3 present the evolution of luminous efficacy as sources improved. Can this trend continue indefinitely? No. Every photon of light carries a minimum energy[^11] requirement based on its wavelength. For photons spread across the visible spectrum (creating light we perceive as white), the theoretical limit is about 300 lm/W [^r9]. At this extreme, no energy is wasted in the production of light, putting 100% of the energy into the light itself. Engineering rarely reaches theoretical limits, due to a host of practical challenges. It would therefore not be surprising if lighting efficiency does not improve over where it is today by another factor of two, ending yet another centuries-long trend. 
@@ -159,131 +161,77 @@ Table 2.1 and Figure 2.3 present the evolution of luminous efficacy as sources i
 
 
 
-Through this example, we can see how substitution and decoupling might be connected: efficiency improves through substitution, requiring less energy for the same lighting value. 
 
 
 
-
-
-luminous efficacy (Im/W) 
-
-theoretical maximum 
-
-102 
-
-101 
-
-10° 
-
-candle 
-
-LED 
-
-fluorescent 
-
-
-
- 
-
-22 
-
-gas lamp 
-
-halogen 
-
-incandescent 
-
-זוזו 
-
-1700 1800 1900 2000 2100 
-
-
-
-[^10]:1 
-
-1200 1300 1400 1500 
-
-1600 
-
-year 
-
-The historical progress can fool us into thinking that we can expect a continued march to better substitutes. Having witnessed a half-dozen rabbits come out of the hat12 in the example of lighting technology (Box 2.1), we are conditioned to believe more are forthcoming. It will be true until it isn't any more (e.g., see Figure 2.3) One way to put it is that 6 rabbits does not imply an infinite number. We should welcome each new rabbit, but not hinge our future on a continual stream of new rabbits. 
+The historical progress can fool us into thinking that we can expect a continued march to better substitutes. Having witnessed a half-dozen rabbits come out of the hat[^12] in the example of lighting technology (Box 2.1), we are conditioned to believe more are forthcoming. It will be true until it isn't any more (e.g., see Figure 2.3) One way to put it is that 6 rabbits does not imply an infinite number. We should welcome each new rabbit, but not hinge our future on a continual stream of new rabbits. 
 
 For financially secure individuals at the top end of the wealth distribution, it is easier to buy into the allure of substitution as a way forward. Many have achieved wealth from humble beginnings, and have therefore lived a life of continual upgrades in terms of housing, transportation, clothing, food, travel, etc. Even those who have been surrounded by wealth their whole lives have been in a position to afford new upgrades as they become available. Yet, it is not always possible to export the capabilities of those at the top to a significant sector of the population. Not everything can scale. 
 
-Box 2.2: The Fate of the Concorde 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-The fate of the Concorde which offered supersonic transatlantic passenger service between 1976-2003-may offer a useful lesson here: just because it is possible to construct a supersonic passenger airplane does not mean that enough people can afford it to result in an economically viable reduction in trans-oceanic travel time for all. Consumers no longer have the option for supersonic flight, even though 50 years ago it was assumed that this was the future. Sometimes we go backwards, when our dreams don't line up to practical reality. 
 
-More generally, sometimes the best possible solution and "peak" technology arrives at some early point in history. As much as we mess around with elements on the Periodic Table, we are never going to beat H2O 
+We will return to this theme in the context of fossil fuels, which might be termed the mother of all rabbits, in this context. Having pulled such a stupendous rabbit out of the hat once, many assume we're set from now on. In this case, equating one to infinity is even more dubious. 
+
+An electric car having hundreds of kilometers of range seems like an obvious path forward beyond fossil fuels. But at a price tag above $40,000, it does not look like much of a solution to most people, and we can't be sure prices will fall steeply. Section D.3 covers electrified transportation in more detail. 
+</details>
+
+
+<details><summary>Box 2.2: The Fate of the Concorde</summary>
+
+The fate of the Concorde which offered supersonic transatlantic passenger service between 1976-2003 may offer a useful lesson here: just because it is possible to construct a supersonic passenger airplane does not mean that enough people can afford it to result in an economically viable reduction in trans-oceanic travel time for all. Consumers no longer have the option for supersonic flight, even though 50 years ago it was assumed that this was the future. Sometimes we go backwards, when our dreams don't line up to practical reality. 
+</details>
+
+
+
 
 
 
 [^12]: ... magician reference 
 
-We will return to this theme in the context of fossil fuels, which might be termed the mother of all rabbits, in this context. Having pulled such a stupendous rabbit out of the hat once, many assume we're set from now on. In this case, equating one to infinity is even more dubious. 
-
-An electric car having hundreds of kilometers of range seems like an obvious path forward beyond fossil fuels. But at a price tag above $40,000, it does not look like much of a solution to most people, and we can't be sure prices will fall steeply. Section D.3 covers electrified transportation in more detail. 
-
-
-
-
-
- 
 
 23 
 
-as a vital substance.[^13] Marketers might sell H2O2 as superior, having one more beneficial oxygen atom, but please don't drink hydrogen peroxide! Some technologies in use today would be recognized by pre-industrial people: wheels, string, bowls, glass, clothing. We won't always find better things, though we may make a series of incremental improvements over time. Not everything will experience game-changing developments. 
+More generally, sometimes the best possible solution and "peak" technology arrives at some early point in history. As much as we mess around with elements on the Periodic Table, we are never going to beat H2O as a vital substance.[^13] Marketers might sell H2O2 as superior, having one more beneficial oxygen atom, but please don't drink hydrogen peroxide! Some technologies in use today would be recognized by pre-industrial people: wheels, string, bowls, glass, clothing. We won't always find better things, though we may make a series of incremental improvements over time. Not everything will experience game-changing developments. 
+
+
+[^13]: Relatedly, consider that the Periodic Table is finite and fits easily on a single sheet of paper (Fig. B.1; p. 375). We don't have an unlimited set of substitute elements/compounds available. Astrophysical measurements validate that the whole universe is limited to the same set of elements.+++(5)+++
 
 In summary, decoupling and substitution are touted as mechanisms by which economic growth need not slow down as energy and other resources become constrained. We can make money using less of the resource (decoupling) or just find alternatives that are not constrained (substitution), the thinking goes. And yes, this is backed up by loads of examples where such things have happened. It would be foolish to claim that we have reached the end of the line and can expect no more gains from decoupling or substitution. But it would be equally foolish to imagine that they can produce dividends eternally so that economic growth is a permanent condition. 
 
-Box 2.3: Efficiency Limits 
+<details><summary>Box 2.3: Efficiency Limits</summary> 
 
 Efficiency improvements would seem to offer a way to tolerate a stagnation or decline in available energy resources. Getting more from less is very appealing. Yes, efficiency improvements are good and should be pursued. But they are no answer to growth limits, for the following reasons. 
 
-1. For the most part, realized efficiencies are already within a 
+1. For the most part, realized efficiencies are already within a factor-of-two of theoretical limits.[^14] A motor or generator operating at 90% efficiency has little room to improve. If efficiencies were typically far smaller than 1%, it would be reasonable to seek improvements as a "resource" for some time to come, but that is not the lay of the land. 
 
-factor-of-two of theoretical limits.[^14] A motor or generator operating at 90% efficiency has little room to improve. If efficiencies were typically far smaller than 1%, it would be reasonable to seek improvements as a "resource" for some time to come, but that is not the lay of the land. 
+[^14]: Chapter 6 covers theoretical efficiency limits for thermal sources like fossil fuels.
 
-16 
 
-2. Efficiency improvements in energy use tend to creep along at ~1% per year,[^15] or sometimes 2%. Doubling times are therefore measured in decades, which combined with the previous point suggests an end to this train ride within the century. 3. Efficiency improvements can backfire, in a process called the Jevons paradox or the rebound effect. Increased demand for the more efficient technology results in greater demand for the underlying resource. For example, improvements in refrigerator efficiency resulted in larger refrigerators and more of them," for a net increase in energy devoted to refrigeration. Consider that per-capita global energy and material resource use has climbed inexorably amidst a backdrop of substantial efficiency improvements over the last century [^12]. 
+2. Efficiency improvements in energy use tend to creep along at ~1% per year,[^15] or sometimes 2%. Doubling times are therefore measured in decades, which combined with the previous point suggests an end to this train ride within the century. [^16]
 
-17 
+3. Efficiency improvements can backfire, in a process called the Jevons paradox or the rebound effect. Increased demand for the more efficient technology results in greater demand for the underlying resource. For example, improvements in refrigerator efficiency resulted in larger refrigerators and more of them,[^17] for a net increase in energy devoted to refrigeration. Consider that per-capita global energy and material resource use has climbed inexorably amidst a backdrop of substantial efficiency improvements over the last century [^r12]. 
+ 
 
 Efficiency improvements are not capable of resolving resource demand. 
 
 
 
-[^13]: Relatedly, consider that the Periodic Table is finite and fits easily on a single sheet of paper (Fig. B.1; p. 375). We don't have an unlimited set of substitute elements/com- pounds available. Astrophysical measure- ments validate that the whole universe is 
-
-limited to the same set of elements. 
+[^r12]: TJ Garret. Rebound, Backfire, and the Jevons Paradox. Online. Accessed 2021 Feb. 1. 2014. URL: https://www.inscc.utah.edu/~tgarrett/Economics/Jevons_Paradox.html (cited on age 23).  Garret (2014), Rebound, Backfire, and the Jevons Paradox
 
 
 
-[^14]: Chapter 6 covers theoretical efficiency limits for thermal sources like fossil fuels. 
-
-
-
-[^15]: ... meaning 30% one year might be 30.3% next year (not 31%, which would be a ~3% improvement) 
-
-
-
-[^16]: 
-
-... similar to lighting technology, as per Box 2.1 and Figure 2.3 
-
-
-
-[^17]: fices 
-
-..e.g., in basements or garages or of- 
-
-[^12]: Garret (2014), Rebound, Backfire, and the Jevons Paradox 
+[^16]: ... similar to lighting technology, as per Box 2.1 and Figure 2.3 
 
 
 
 
+[^15]: ... meaning 30% one year might be 30.3% next year (not 31%, which would be a ~3% improvement)
+
+
+[^17]: ..e.g., in basements or garages or of- 
+ 
+</details>
 
 ## 2.3 Physically Forced Economic Limits 
 

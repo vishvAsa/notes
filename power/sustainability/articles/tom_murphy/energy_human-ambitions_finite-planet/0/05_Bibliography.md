@@ -8,8 +8,6 @@ title = "05 Bibliography"
 References are in order of appearance in the book. 
 
 
-[^r12]: TJ Garret. Rebound, Backfire, and the Jevons Paradox. Online. Accessed 2021 Feb. 1. 2014. URL: https://www.inscc.utah.edu/~tgarrett/Economics/Jevons_Paradox.html (cited on age 23). 
-
 
 [^r13]: List of Countries by Total Primary Energy Consumption and Production. Wikipedia. Sources: various, cited from Wikipedia page. URL: https://en.wikipedia.org/wiki/List_of_countries_ by_total_primary_energy consumption_and_production (cited on page 28). 
 
