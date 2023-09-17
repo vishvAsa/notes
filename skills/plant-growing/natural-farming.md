@@ -32,9 +32,19 @@ no = minimal as per some like Kawaguchi, Bhaskar Save.
 
 #### Natural fertlization
 - vIresh near aikAntika uses sheep shit.
-- bIjAmRta as per Palekar's Zero Budget (ZBNF) farming.
-  - cow dung water + urine + soil + lime. Similarly, "jIvAmRta".
-  - 1 cow per 30 acres per Palekar's ZBNF.
+- bIjAmRta for seed-treatment as per Palekar's Zero Budget (ZBNF) farming. [vid En](https://www.youtube.com/watch?v=ssDHd6jWQmw), [vid Hi]()
+  - water (20L/100kg seed) + cow urine (250ml/L) + cow dung (250g/L) + stoneless soil + lime (2.5g / L).
+  - Soak seeds, dry them, sow them.
+    - Not for thin-skinned seeds like soybean
+  - Nursery plants - immerse root and transplant. 
+- Similarly, "jIvAmRta" for fertilization. 
+  - [vid - Pa-hi](https://www.youtube.com/watch?v=Jefa3i4ZpVg) [vid-en](https://www.youtube.com/watch?v=tXG2ztBX1DA)
+  - water (200L/Acre), 3kg
+  - Delivery modes:
+    - mix with irrigation water
+    - pour in between plants.
+    - can be sprayed on leaves too
+- 1 cow per 30 acres per Palekar's ZBNF.
 
 
 ## Advantages

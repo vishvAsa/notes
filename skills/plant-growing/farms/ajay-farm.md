@@ -22,9 +22,11 @@ Animals - rats, snakes, peacocks, mongooses, rabbits, dogs, cheetahs, cows.
 {{< figure src="../../images/palekar-36ft-grid.png" title="" class="thumbnail">}}
 
 ### Crop rotation
-In each 8 foot strip, cattle fodder (maize) is grown, alternated with nava-graha pulses (which do nitrogen fixation).
+In each 8 foot strip, cattle fodder (maize) is grown, alternated with nava-graha pulses (which do nitrogen fixation). 
 
-Every week, a particular strip is cleared, fertilized with jIvAmRta, tilled and sown (with a hand-pushed power tiller).
+nava-graha pulses - (bengAl gram, wheat, horse gram, green gram, rice, white beans, black sesame, chickpeas, black gram)
+
+Every week, a particular strip is cleared, fertilized with bIjAmRta, tilled and sown (with a hand-pushed power tiller).
 
 ### Watering
 - Water comes from a borewell.

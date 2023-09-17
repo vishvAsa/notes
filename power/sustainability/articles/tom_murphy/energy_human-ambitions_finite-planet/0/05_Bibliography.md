@@ -11,7 +11,9 @@ References are in order of appearance in the book.
 [^r12]: TJ Garret. Rebound, Backfire, and the Jevons Paradox. Online. Accessed 2021 Feb. 1. 2014. URL: https://www.inscc.utah.edu/~tgarrett/Economics/Jevons_Paradox.html (cited on age 23). 
 
 
-[^r13]: List of Countries by Total Primary Energy Consumption and Production. Wikipedia. Sources: various, cited from Wikipedia page. URL: https://en.wikipedia.org/wiki/List_of_countries_ by_total_primary_energy consumption_and_production (cited on page 28). [^r14]: K Klein Goldewijk et al. "The HYDE 3.1 spatially explicit database of human-induced global land-use change over the past 12,000 years". In: Global Ecology and Biogeography 20.1 (Jan. 2011). Available via Wikipedia: Estimates of Historical World Population, pp. 73–86. DOI: 10.1111/j.1466-8238.2010.00587.x (cited on pages 30-32, 37). 
+[^r13]: List of Countries by Total Primary Energy Consumption and Production. Wikipedia. Sources: various, cited from Wikipedia page. URL: https://en.wikipedia.org/wiki/List_of_countries_ by_total_primary_energy consumption_and_production (cited on page 28). 
+
+[^r14]: K Klein Goldewijk et al. "The HYDE 3.1 spatially explicit database of human-induced global land-use change over the past 12,000 years". In: Global Ecology and Biogeography 20.1 (Jan. 2011). Available via Wikipedia: Estimates of Historical World Population, pp. 73–86. DOI: 10.1111/j.1466-8238.2010.00587.x (cited on pages 30-32, 37). 
 
 
 [^r15]: Estimates of Historical World Population. Wikipedia. Source: U.S. Census Bureau, International Data Base. 2017. URL: https://en.wikipedia.org/wiki/Estimates_of_historical_world_ population (cited on pages 30-32, 37, 45). 
