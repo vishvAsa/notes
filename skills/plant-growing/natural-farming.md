@@ -32,9 +32,10 @@ no = minimal as per some like Kawaguchi, Bhaskar Save.
 
 #### Natural fertlization
 - vIresh near aikAntika uses sheep shit.
-- bIjAmRta for seed-treatment as per Palekar's Zero Budget (ZBNF) farming. [vid En](https://www.youtube.com/watch?v=ssDHd6jWQmw), [vid Hi]()
-  - water (20L/100kg seed) + cow urine (250ml/L) + cow dung (250g/L) + stoneless soil + lime (2.5g / L).
-  - Soak seeds, dry them, sow them.
+- bIjAmRta for seed-treatment as per Palekar's Zero Budget (ZBNF) farming. 
+  - [vid En](https://www.youtube.com/watch?v=ssDHd6jWQmw), [vid Hi](https://www.youtube.com/watch?v=idDF4TXDEyo)
+  - water (20L/100kg seed) + cow urine (250ml/L) + cow dung (250g/L) + stoneless soil + lime (2.5g / L for balancing urine acidity). Mix with wooden stick, leave for 24 hrs, use within 48 hrs.
+  - Wash off fungicide layer from pre-treated seeds, soak seeds, dry in shade, sow them.
     - Not for thin-skinned seeds like soybean
   - Nursery plants - immerse root and transplant. 
 - Similarly, "jIvAmRta" for fertilization. 
