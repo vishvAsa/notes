@@ -34,13 +34,19 @@ no = minimal as per some like Kawaguchi, Bhaskar Save.
 - vIresh near aikAntika uses sheep shit.
 - bIjAmRta for seed-treatment as per Palekar's Zero Budget (ZBNF) farming. 
   - [vid En](https://www.youtube.com/watch?v=ssDHd6jWQmw), [vid Hi](https://www.youtube.com/watch?v=idDF4TXDEyo)
+  - Germination rate 90%, unlike chemically treated seed - 70%. Lower soil-born disease.
   - water (20L/100kg seed) + cow urine (250ml/L) + cow dung (250g/L) + stoneless soil + lime (2.5g / L for balancing urine acidity). Mix with wooden stick, leave for 24 hrs, use within 48 hrs.
   - Wash off fungicide layer from pre-treated seeds, soak seeds, dry in shade, sow them.
     - Not for thin-skinned seeds like soybean
   - Nursery plants - immerse root and transplant. 
 - Similarly, "jIvAmRta" for fertilization. 
   - [vid - Pa-hi](https://www.youtube.com/watch?v=Jefa3i4ZpVg) [vid-en](https://www.youtube.com/watch?v=tXG2ztBX1DA)
-  - water (200L/Acre), 3kg
+  - water (200L/Acre), 3kg normal rockless soil, 2kg jaggery dissolved in water, 2kg (pulse) flour, 10 kg cowdung, 4L cow urine in water.
+    - In small batches for good mixing: take cow urine solution, add cow dung, mix thoroughly, add soil, mix, add jaggery solution, mix, add flour, mix thoroughly. Fill barrel. Stir with long stick (both directions). Keep under shade for 14 days, stir twice a day.
+  - Application
+    - Dilute and apply. Water the soil before application - dry soil will kill microbes.
+    - Can be used for 7 days.
+    - Twice a month
   - Delivery modes:
     - mix with irrigation water
     - pour in between plants.

@@ -2,22 +2,6 @@
 title = "v4s in literature"
 +++
 
-## Pādatāḍitaka
-A Śūdra character named Viṣṇunāga in Śyāmilaka's Pādatāḍitaka (~5th century CE) says :
-
-> "I am Ārya, of pure conduct, of good lineage.   
-I have studied Śabda (Vyākaraṇa) & Hetusamaya (Nyāya).   
-I am an officer of the King.." 
-
-Context: His heart is broken by a Veśyā. He comes to Brāhmaṇas expert in Vedas to ask for a prāyaścitta.
-
-> आर्योऽस्मि शुद्धचरितोऽस्मि कुलोद्गतोऽस्मि,  
-शब्दे च हेतुसमये च कृतश्रमोऽस्मि।  
-राज्ञोऽस्मि शासनकरो न पृथग्जनोऽस्मि,  
-त्रायध्वमार्तमगतिं शरणागतोऽस्मि॥
-
-As per the translation of Motichandra and V. S. Agrawal, it seems that in around the 5th century CE Ujjayinī, Śvapacas/Cāṇḍālas were appointed as persons who would bring a person into the court or call the Vādī and Prativādī.
-
 ## Mṛcchakaṭikam
 Source: [TW](https://twitter.com/sharmasatyan/status/1380782107438411779)
 
@@ -40,4 +24,19 @@ Ref.: BP 10.78.17-32
 > "O King of Videha! the Dvijas, who possess the knowledge of Vedas & Śāstras, call Śūdra as Prajāpati. But O King, I see him as Viṣṇu, the chief Lord of the world."
 
 - Ṛṣi Parāśara, Mahābhārata, 12.285.28
+
+## brahmANDa-purANa kirAta
+When a Kirāta 'Vīradatta' was renamed 'Dvijavarman'
+
+In Brahmāṇḍa Purāṇa, there's the story of a Kirāta Vīradatta, who used to sell wood. He once got a part of the wealth that a thief had stolen & kept in the forest. With the suggestion of his wife he used the money to get wells, temples, and so forth constructed. Vīradatta dedicated all those to Brāhmaṇas, who were lead by Devarāta. Pleased by his deeds, the Brāhmaṇas named him 'Dvijavarman' and his wife 'Śīlavatī'.
+
+He also founded a place named Devarātapura, where he stayed to protect the Brāhmaṇas. When Dvijavarman died, he had to face repercussions because of using stolen wealth, and turned into vāyu for 12 years. +
+Nārada Muni met his wife Śīlavatī who refused to reach Brahmaloka (earned by her puṇya), until her husband regained his body. She desired a solution for her husband. Nārada gave her (a new bhoga-sharIra and) the Rudrādhyāya (or Śatarudra) to chant, which she did. Eventually it benefitted her husband, who then ended  up residing at Kailāsa.
+
+It's interesting how Brāhmaṇas renamed a Kirāta Vīradatta as 'Dvijavarman', a name which sounds  Kṣatriya-like.
+
+Source: Brahmāṇḍapurāṇa, Uttarabhāga, Upodghātapāda, Chapter 7.
+
+## Pādatāḍitaka
+As per the translation of Motichandra and V. S. Agrawal, it seems that in around the 5th century CE Ujjayinī, Śvapacas/Cāṇḍālas were appointed as persons who would bring a person into the court or call the Vādī and Prativādī.
 
