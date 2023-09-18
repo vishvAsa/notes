@@ -1,6 +1,7 @@
 +++
 title = "manju- rAmanagara"
 +++
+
 ## Location
 - Near rAmanagara, next to a lake.
 - 50 acres fenced with coconut trees (how far apart??), 65 total.
@@ -27,3 +28,7 @@ Legumes
 
 - White clover (herbaceous perennial plant in the bean family)
 - Horse Grams
+
+## History
+- Land acquired on lease at 13k / acre.
+- 4 functioning borewells - each good for 5 acres. Irrigation planned with old-style trenches and mud-gates.

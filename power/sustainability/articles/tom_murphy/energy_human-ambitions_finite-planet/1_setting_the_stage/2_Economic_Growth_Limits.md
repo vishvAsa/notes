@@ -235,255 +235,133 @@ Efficiency improvements are not capable of resolving resource demand.
 
 ## 2.3 Physically Forced Economic Limits 
 
-Let us now consider a thought experiment. We will use Figure 2.4 as a guide as we go along. Colored numbers in the following text point to similarly-colored labels in the figure. We start by positing a constant growth rate for the entire economy (point 1; red curve in Figure 2.4) following the familiar 2.3% annual growth rate, picked for its convenient factor of 10 each century. Meanwhile, the scale of physical resources (energy, materials) in the economy also climbs at the same rate, starting at point 2. The vertical gap between the curves at the left-hand edge conveys that the economy is not 100% physical in the beginning: the total economy is larger than the physical piece.[^18] 
+{{< figure src="../images/post-saturation-economy-scale.png" title="" class="thumbnail">}}
 
+Figure 2.4: Model evolution of the economy after physical resources saturate. The blue curve is the scale of the physical economy (leveling out, or saturating). The solid red curve is the total economic scale, which we force to adhere to a constant growth rate (10x per century, or 2.3% annual rate). The magenta curve is the percentage of the economy in non-physical sectors, and the red dashed curve is a more realistic reaction of the economy to a saturating physical sector. Colored arrows point to the scale that each curve should use -logarithmic on the left for economic scales and linear on the right for the percentage curve. This model is constructed simply to illustrate the overall behavior: time scales and other quantitative details should not be taken literally.
 
+Let us now consider a thought experiment. We will use Figure 2.4 as a guide as we go along. Colored numbers in the following text point to similarly-colored labels in the figure. We start by positing a constant growth rate for the entire economy (point 1; red curve in Figure 2.4) following the familiar 2.3% annual growth rate, picked for its convenient factor of 10 each century. (Verify this for yourself in Figure 2.4!) 
 
- 24 
+[[24]]
 
-Verify this for yourself in Figure 2.4! 
+Meanwhile, the scale of physical resources (energy, materials) in the economy also climbs at the same rate, starting at point 2. The vertical gap between the curves at the left-hand edge conveys that the economy is not 100% physical in the beginning: the total economy is larger than the physical piece.[^18] 
 
-
-
-[^18]: 
-
-.thus some room for services. 
-
-1000x 
-
-7 
-
-100 
-
-relative scale of economy 
-
-100x 
-
-10x 
-
-1.0x 
-
-0.1x 
-
-6 
-
-5 
-
-growing gap 
-
-4 
-
-0.01x 
-
--200 
-
--100 
-
-0 
-
-100 
-
-200 
-
-years from transition time 
-
-8 
-
-00 1 
-
-80 
-
-60 
-
-60 
-
-40 
-
-percentage of economy that's non-physical 
-
-40 
-
-20 
-
-20 
-
-300 
+[^18]: ... thus some room for services. 
 
 Fast-forward to a time when physical resources have stopped growing, starting at point 3. Chapter 1-using energy and thermodynamics as the basis-made the case that we cannot expect physical growth to continue indefinitely, ending on a few-century timescale at the longest.[^19] In this scenario, the scale of energy in our society flat-lines at a steady scale (point 4). 
 
-If we demand continued economic growth in the context of fixed energy, decoupling becomes increasingly necessary, shown as a growing gap in Figure 2.4. In other words, if the gross domestic product (GDP; as an indicator of economic activity) is to continue rising20 (point 5), then overall intensity (energy per dollar) must continually decrease. For this to happen, less-energetic activities must assume increasing importance in the economy. So far, economists are on board: this is precisely what inspires an affinity for decoupling-a way forward in the face of physical limits. One might expect more abstract services, virtual experiences, art dealing, enhanced presentation: all requiring little or no additional 
+[^19]: It is assumed here (optimistically) that we have managed to find a renewable alternative that can satisfy a constant demand effectively indefinitely. If not, the story is even worse and we are forced to ramp down the scale of the physical sector, which would force the blue curve in Figure 2.4 to descend in later years.+++(5)+++
 
-
-
-Figure 2.4: Model evolution of the economy after physical resources saturate. The blue curve is the scale of the physical economy (leveling out, or saturating). The solid red curve is the total economic scale, which we force to adhere to a constant growth rate (10x per century, or 2.3% annual rate). The magenta curve is the percentage of the economy in non-physical sectors, and the red dashed curve is a more realistic reaction of the economy to a saturating physical sector. Colored arrows point to the scale that each curve should use -logarithmic on the left for economic scales and linear on the right for the percentage curve. This model is constructed simply to illustrate the overall behavior: time scales and other quantitative details should not be taken literally. 
-
-
-
-[^19]: It is assumed here (optimistically) that we have managed to find a renewable alter- native that can satisfy a constant demand effectively indefinitely. If not, the story is even worse and we are forced to ramp down the scale of the physical sector, which would force the blue curve in Figure 2.4 to descend in later years. 
-
+If we demand continued economic growth in the context of fixed energy, decoupling becomes increasingly necessary, shown as a growing gap in Figure 2.4. In other words, if the gross domestic product (GDP; as an indicator of economic activity) is to continue rising[^20] (point 5), then overall intensity (energy per dollar) must continually decrease. For this to happen, less-energetic activities must assume increasing importance in the economy.  
 
 
 [^20]: ... and not artificially via inflation, but in terms of real value 
 
+[[25]] 
 
-
- 
-
-25 
-
-energy expenditure, or perhaps even less than before. In this way, the economic scale could keep rising while physical resources are held flat. 
+So far, economists are on board: this is precisely what inspires an affinity for decoupling-a way forward in the face of physical limits. One might expect more abstract services, virtual experiences, art dealing, enhanced presentation: all requiring little or no additional energy expenditure, or perhaps even less than before. In this way, the economic scale could keep rising while physical resources are held flat. 
 
 If the economy is to continue to expand on the basis of decoupled activities, a greater fraction of it must go toward these non-physical sectors. This means more monetary flow is associated with low-impact activities. In practical terms, then, a greater fraction of one's income is directed toward experiences not tied to energy or other physical demands. In Figure 2.4, we see, at point 6, the percentage of the economy in the non-physical sector starting at 25%: not dominant, but not negligible. The magenta curve must rise as the red and blue lines separate, until at point 7 it approaches 100% non-physical and continues to drive arbitrarily close to 100%. 
 
-During this process, the obvious converse consequence is that the energetically or physically costly activities like transportation, food, heating, cooking, manufactured items-become an ever-smaller fraction. of the economy, or an ever smaller fraction of monthly expenses, to put it more personally. In other words, they become cheap. 
+During this process, the obvious converse consequence is that the energetically or physically costly activities like transportation, food, heating, cooking, manufactured items-become an ever-smaller fraction. of the economy, or an ever smaller fraction of monthly expenses, to put it more personally. In other words, they become cheap.+++(4)+++ This, we will argue, is unrealistic.
 
-Now, in our imagined scenario of continued economic growth, the ruthlessness of the exponential grabs the reins and drives the gulf ever wider, so that physical goods become arbitrarily cheap and demand an ever-smaller fraction of income. By the time we reach the right side of Figure 2.4, the economic scale is over 1,000 times as large as the physical scale, meaning that the physical component is less than 0.1% of the total economy. Table 2.2 illustrates the progression under the foregoing growth rate of 2.3%. If in the year 2000, 50% of one's income (and thus about half of one's work hours) goes toward physically intense products, this becomes ever smaller until by the end of the table it only takes 6 minutes of your annual work to earn enough for the physically intense goods: all your food, clothing, transportation, heating, cooking, manufactured goods. 
+Now, in our imagined scenario of continued economic growth, the ruthlessness of the exponential grabs the reins and drives the gulf ever wider, so that physical goods become arbitrarily cheap and demand an ever-smaller fraction of income. (Again, seems unrealistic.) By the time we reach the right side of Figure 2.4, the economic scale is over 1,000 times as large as the physical scale, meaning that the physical component is less than 0.1% of the total economy. Table 2.2 illustrates the progression under the foregoing growth rate of 2.3%. If in the year 2000, 50% of one's income (and thus about half of one's work hours) goes toward physically intense products, this becomes ever smaller until by the end of the table it only takes 6 minutes of your annual work to earn enough for the physically intense goods: all your food, clothing, transportation, heating, cooking, manufactured goods.+++(4)+++ (Clearly absurd result.)
 
 If this is starting to feel like unrealistic fantasy, then good: your intuition is serving you well. How can essential, non-negotiable, life-sustaining commodities that are in finite supply become essentially free? The idea goes against another, more fundamental economic principle of supply and demand. A limited life-essential resource will always carry a moderately high value. Limited supply and inflexible demand dictate a floor to the price. 
 
-This, we will argue, is unrealistic. 
+Table 2.2: Cost of physical goods.  
+Year %-income hours  
+2000 50% 1,000  
+2100 5% 100  
+2200 0.5% 10  
+2300 0.05% 1  
+2400 0.005% 0.1  
 
-Again, seems unrealistic. 
-
-Clearly absurd result. 
-
-Table 2.2: Cost of physical goods. 
-
-2000 
-
-Year % income 
-
-hours 
-
-50% 
-
-1,000 
-
-2100 
-
-5% 
-
-100 
-
-2200 
-
-0.5% 
-
-10 
-
-2300 
-
-0.05% 
-
-1 
-
-2400 
-
-0.005% 
-
-0.1 
-
-Box 2.4: Monopoly Made Easy 
-
-One way to highlight the absurdity of the scenario is that if the physically-limited but essential (life sustaining) resources became arbitrarily cheap in the fullness of time, a single person could buy them all for a pittance, and then charge a hefty price for anyone 
-
-
-
-
-
+[[26]
  
 
-26 
+<details><summary>Box 2.4: Monopoly Made Easy</summary>
 
-who wants to keep living. We simply will not find ourselves in the situation where precious and limited resources become arbitrarily cheap. Alternatively, if people only needed to work an hour per year to accommodate basic needs, expect a lot less work to be done, acting as a drag on economic productivity and thus preventing inexorable growth-one way or another. 
+One way to highlight the absurdity of the scenario is that if the physically-limited but essential (life sustaining) resources became arbitrarily cheap in the fullness of time, a single person could buy them all for a pittance, and then charge a hefty price for anyone who wants to keep living.+++(5)+++ We simply will not find ourselves in the situation where precious and limited resources become arbitrarily cheap. Alternatively, if people only needed to work an hour per year to accommodate basic needs, expect a lot less work to be done, acting as a drag on economic productivity and thus preventing inexorable growth-one way or another. +++(4)+++
+</details>
 
-Once the price floor is reached, the cost of physical resources will not be able to fall any further. This happens pretty soon after physical resources cease to grow in scale. Indeed, it seems unlikely (to the author) that limited resources essential for survival would fall much below 10% of the total economic scale, which happens within a century of physical saturation in our 2.3% growth scenario. Point 8 in Figure 2.4 depicts a more realistic trajectory for the economy (red dashed line) in reaction to a saturated physical scale. In this case, the economy keeps growing a bit more than the physical sector, but eventually settles down itself into a non-growth phase. 
+
+Once the price floor is reached, the cost of physical resources will not be able to fall any further. This happens pretty soon after physical resources cease to grow in scale. Indeed, it seems unlikely (to the author) that limited resources essential for survival would fall much below 10% of the total economic scale, which happens within a century of physical saturation in our 2.3% growth scenario.+++(4)+++ (What seems like a reasonable lower limit to you? How economically insignificant can essentials be and still make sense? )
+
+Point 8 in Figure 2.4 depicts a more realistic trajectory for the economy (red dashed line) in reaction to a saturated physical scale. In this case, the economy keeps growing a bit more than the physical sector, but eventually settles down itself into a non-growth phase. 
 
 We therefore have a logical sequence providing a few-century timescale for an end to economic growth. Thermodynamics limits us to at most a few centuries of energy growth on Earth, and economic growth will cease within a century or so thereafter, assuming a target rate of a few percent per year. In practice, growth may come to an end well before theoretical extremes are reached. 
 
-What seems like a reasonable lower limit to you? How economically insignificant can essentials be and 
 
-still make sense? 
 
-2.4 No-Growth World 
+## 2.4 No-Growth World 
 
 The foregoing arguments spell out why economic growth cannot be expected to continue indefinitely-contrary to prevalent assumptions. When a mathematically-framed model delivers nonsense results-like the one we used to extrapolate energy use to absurd extremes-it does not mean the math itself is wrong, just that it has been misapplied or layered onto faulty assumptions. In this case, the breakdown indicates that the assumption of indefinite growth is untenable. 
 
 The growth regime is woven deeply into our current global society. And why wouldn't it be? We've enjoyed its benefits for many generations. We celebrate the myriad advantages it has brought, and therefore align our political and economic institutions toward its robust preservation. Community planning, interest rates, investment, loans, the very role of banks, social safety net systems,[^21] and retirement plans all hinge on the assumption of growth.[^22] Shock waves of panic reverberate at signs of (even temporary) recession, given the importance of growth to our institutions. Yet the message here is that we cannot expect its unfaltering continuance implying that many things will have to change. 
 
-
-
 [^21]: In the U.S., Social Security and Medicare are examples. 
 
 
+[^22]: Growth in both workforce and investments are essential ingredients of these schemes that pay out more than an individual's past contributions to the program. 
 
-[^22]: Growth in both workforce and invest- ments are essential ingredients of these schemes that pay out more than an indi- vidual's past contributions to the program. 
+Returning to the roots of economic theory, the earliest thinkers-Adam Smith, David Ricardo, Thomas Malthus, John Stuart Mill-had founda- tions in natural philosophy[^23] and saw growth as a temporary phase, ultimately limited by a prime physical resource: land. In that time, land held the key to outputs from farming, timber, mining, and game-thereby dictating economic development. What these pioneering economic thinkers did not foresee was the arrival of fossil fuels, and the technological developments that accompanied this energy explosion. 
 
-
-
-Returning to the roots of economic theory, the earliest thinkers-Adam Smith, David Ricardo, Thomas Malthus, John Stuart Mill-had founda- tions in natural philosophy23 and saw growth as a temporary phase, ulti- mately limited by a prime physical resource: land. In that time, land held the key to outputs from farming, timber, mining, and game-thereby dic- tating economic development. What these pioneering economic thinkers did not foresee was the arrival of fossil fuels, and the technological developments that accompanied this energy explosion. 
-
-24 
-
-Now, we have fallen into something of a lulled complacency: having rescued ourselves so far from the end-of-growth predictions of the early economists, the temptation is to conclude that they were just wrong, and we have outsmarted natural limits. This is dangerous thinking. In the end, nature is indifferent to how smart we imagined ourselves to be. If we were truly clever, we would start thinking about a world that does not depend on growth, and how to live compatibly within planetary limits. Chapter 19 touches on this theme, after intervening chapters paint a more complete picture of energy constraints. 
-
-2.5 Upshot: Economic Growth Will End 
-
-It is worth re-iterating the recipe for an end to economic growth in summary form, as spelled out in Box 2.5. Make sure you can trace the logic and connections from one point to the next-not to be memorized as disconnected facts. 
-
-Box 2.5: Economic Growth Limit 
-
-1. Physical resources (energy in our example) ultimately stabilize 
-
-to a fixed annual amount. 
-
-2. Non-physical sectors of the economy must assume responsibil- 
-
-ity for continued economic growth, if growth is to continue. 3. The economy comes to be dominated by non-physical sectors. 4. Physical sectors are relegated to an ever-smaller fraction of the economy, ultimately vanishing if exponential growth is to hold. 5. In this scenario,[^25] physical goods (energy among them) become arbitrarily cheap, requiring only one week's worth of earnings, then a day's worth, then an hour, a minute, a second. 
-
-6. This situation is impossible and does not respect common- sense supply/demand notions: a finite, limited but absolutely vital resource will never become arbitrarily cheap in a market system. 
-
-7. At some point, physical resources will "saturate" to a minimum fraction of the economy, at which point overall growth in non- physical sectors must also cease. 
+[^23]: ... closer to modern-day physics than to modern-day economics, rooted in the natural world
 
 
 
  
 
-27 
+Now, we have fallen into something of a lulled complacency: having rescued ourselves so far from the end-of-growth predictions of the early economists, the temptation is to conclude that they were just wrong[^24], and we have outsmarted natural limits. This is dangerous thinking. In the end, nature is indifferent to how smart we imagined ourselves to be. If we were truly clever, we would start thinking about a world that does not depend on growth, and how to live compatibly within planetary limits. Chapter 19 touches on this theme, after intervening chapters paint a more complete picture of energy constraints. 
+
+[^24]: The classic example is Thomas Malthus, who warned of limits over 200 years ago based on finite resource limits before fossil fuels ripped the narrative apart. The lasting association is that "Malthus equals wrong," leading to the dangerous takeaway that all warnings in this vein are discredited and can be ignored. Note that the most consequential and overlooked lesson from the story about "the boy who cried wolf" is that a real wolf did appear.
+
+## 2.5 Upshot: Economic Growth Will End 
+
+It is worth re-iterating the recipe for an end to economic growth in summary form, as spelled out in Box 2.5. Make sure you can trace the logic and connections from one point to the next-not to be memorized as disconnected facts. 
+
+As was stated before, experts frequently read complex sections more than once to fully absorb the arguments; feel free to do so here.
+
+<details><summary>Box 2.5: Economic Growth Limit</summary>
+
+1. Physical resources (energy in our example) ultimately stabilize to a fixed annual amount. 
+2. Non-physical sectors of the economy must assume responsibility for continued economic growth, if growth is to continue. 
+3. The economy comes to be dominated by non-physical sectors. 
+4. Physical sectors are relegated to an ever-smaller fraction of the economy, ultimately vanishing if exponential growth is to hold. 
+5. In this scenario,[^25] physical goods (energy among them) become arbitrarily cheap, requiring only one week's worth of earnings, then a day's worth, then an hour, a minute, a second. 
+6. This situation is impossible and does not respect common-sense supply/demand notions: a finite, limited but absolutely vital resource will never become arbitrarily cheap in a market system. 
+7. At some point, physical resources will "saturate" to a minimum fraction of the economy, at which point overall growth in non- physical sectors must also cease. 
+</details>
 
 
 
-[^23]: ... closer to modern-day physics than to modern-day economics, rooted in the natural world 
+ 
+
+[[27]] 
 
 
 
-[^24]: The classic example is Thomas Malthus, who warned of limits over 200 years ago based on finite resource limits before fossil fuels ripped the narrative apart. The lasting association is that "Malthus equals wrong," leading to the dangerous takeaway that all warnings in this vein are discredited and can be ignored. Note that the most consequential and overlooked lesson from the story about "the boy who cried wolf" is that a real wolf did appear. 
-
-As was stated before, experts frequently read complex sections more than once to fully absorb the arguments; feel free to do so here. 
 
 
 
 [^25]:...which, let's be clear, we're arguing is ultimately not at all viable... 
 
+[[28]] 
 
+Just because we can point to some completely legitimate examples of decoupled activities and many impressive substitution stories does not mean that an entire economy can be based on indefinite continuance of such things. We are physical beings in a physical world and have non-negotiable minimum requirements for life. The activities and commodities that support critical functions cannot continue to expand indefinitely, and will not become arbitrarily cheap once their expansion hits physical limits. The finite nature of our world guarantees that such limits will be asserted, committing economic growth to stall in turn. Nothing, in the end, escapes physics. 
 
+So, while acknowledging that growth in the past has brought uncountable benefits to the human endeavor, we have to ask ourselves: If the end of growth is inevitable, why does it remain our prevailing plan? 
 
-
- 
-
-28 
-
-Just because we can point to some completely legitimate examples of decoupled activities and many impressive substitution stories does not mean that an entire economy can be based on indefinite continu- ance of such things. We are physical beings in a physical world and have non-negotiable minimum requirements for life. The activities and commodities that support critical functions cannot continue to expand indefinitely, and will not become arbitrarily cheap once their expansion hits physical limits. The finite nature of our world guarantees that such limits will be asserted, committing economic growth to stall in turn. Nothing, in the end, escapes physics. 
-
-So, while acknowledging that growth in the past has brought uncount- able benefits to the human endeavor, we have to ask ourselves: If the end of growth is inevitable, why does it remain our prevailing plan? 
-
-2.6 Problems 
+## 2.6 Problems 
 
 1. At a 3.5% growth (interest) rate, how much would $1,000 invested at the time Columbus sailed to America be worth today (hint: use the rule of 70)? Put this in context (compare to richest individuals or find a similar GDP for some country). 
 
 2. As an indication of how sensitive the accumulation is to interest rate, compare the result from Problem 1 to what would happen for interest rates of 4% and 5%-again putting into context. 
 
-3. Find the energy intensity for at least four countries spanning a range of development levels. For each country, look up the GDP, and find energy consumption at: Wikipedia page on Primary En- ergy Consumption. [^13] In order to compare to Figure 2.2, multiply the number in quadrillion Btu (qBtu) by 1.055 × $10^{18}$ J/qBtu. Also note that a trillion is 1012. 
+3. Find the energy intensity for at least four countries spanning a range of development levels. For each country, look up the GDP, and find energy consumption at: Wikipedia page on Primary Energy Consumption. [^r13] In order to compare to Figure 2.2, multiply the number in quadrillion Btu (qBtu) by 1.055 × $10^{18}$ J/qBtu. Also note that a trillion is 1012. 
+
+[^r13]: List of Countries by Total Primary Energy Consumption and Production. Wikipedia. Sources: various, cited from Wikipedia page. URL: https://en.wikipedia.org/wiki/List_of_countries_ by_total_primary_energy consumption_and_production (cited on page 28).
+
 
 4. Estimate the energy intensity of the UCSD campus, based on an annual electricity expenditure around $10^{15}$ J.26 For the financial side, assume that student payments (tuition, fees, room and board) accounts for 40% of the total budget.[^27] Use your knowledge of typical tuition/fees and enrollment to come up with a number. Compare your result to global figures for energy intensity. 
 
