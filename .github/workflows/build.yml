@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Inject slug/short variables
-      uses: rlespinasse/github-slug-action@v3.x
+      uses: rlespinasse/github-slug-action@v4
     - name: Basic info
       run: |
         echo "Partial variables"
