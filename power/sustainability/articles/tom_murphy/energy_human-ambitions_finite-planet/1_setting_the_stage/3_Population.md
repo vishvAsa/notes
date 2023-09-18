@@ -33,325 +33,136 @@ Figure 3.1: Population (red) and energy demand (blue) on the same plot, showing 
 
 ## 3.1 Population History 
 
+{{< figure src="../images/population_linear-scale.png" title="" class="thumbnail">}}
+
+Figure 3.2: Global population estimate, over the modern human era, on a linear scale. Figure 3.1 offers a recent close-up. [^r14], [^r15].
+
+{{< figure src="../images/population_log-scale.png" title="" class="thumbnail">}}
+
+Figure 3.3: Global population estimate, over the modern human era, on a logarithmic scale. [^r14], [^r15].
+
 Figure 3.2 shows a history of global population for the last 12,000 years. Notice that for most of this time, the level is so far down as to be essentially invisible. It is natural to be alarmed by the sharp rise in recent times, which makes the current era seem wholly unusual: an aberration. But wait-maybe it's just a plain exponential function. All exponential functions ruthless as they are would show this alarming rise at some point, sometimes called a "hockey stick" plot. In order to peer deeper, we plot population on a logarithmic vertical axis (Figure 3.3). Now we bring the past into view, and can see whether a single exponential function (which would have a constant slope in a logarithmic plot) captures the story. 
 
 Wait, what? It still looks somewhat like a hockey stick (even more literally so)! How can that be?! This can't be good news. Peering more closely, we can crudely break the history into two eras, each following exponential growth (straight lines on the plot), but at different rates. The early phase had a modest 0.044% growth rate. By the "rule of 70," the corresponding doubling time is about 1,600 years. In more recent times, a 1% rate is more characteristic (70 year doubling). Indeed, we would be justified in saying that recent centuries are anomalous compared to the first 10,000 years of the plot. If we extend the the 0.04% line and the 1% line, we find that they intersect around the year 1700, which helps identify the era of marked transition. 
 
 The recent rapid rise is a fascinating development, and begs for a closer look. Figure 3.4 shows the last ~1,000 years, for which we see several exponential-looking segments at ever-increasing rates. The doubling times associated with the four rates shown on the plot are presented in Table 3.1. 
 
-An interpretation of the population history might go as follows. Not much changed during the period following the Dark Ages.[^2] The Renaissance (~1700) introduced scientific thinking so that we began to conquer diseases, allowing an uptick in population growth. In the mid-19th century (~1870), the explosive expansion of fossil fuel usage permitted industrialization at a large scale, and mechanized farming practices. More people could be fed and supported, while our mastery over human health continued to improve. In the mid-20th century (~1950), the Green Revolution [^17] introduced a fossil-fuel-heavy diet of fertilizer and large- scale mechanization of agriculture, turning food production into an industry. The combination of a qualitative change in the availability of cheap nutrition and the march of progress on disease control cranked the population rate even higher. 
+An interpretation of the population history might go as follows. Not much changed during the period following the Dark Ages.[^2] The Renaissance (~1700) introduced scientific thinking so that we began to conquer diseases, allowing an uptick in population growth. In the mid-19th century (~1870), the explosive expansion of fossil fuel usage permitted industrialization at a large scale, and mechanized farming practices. More people could be fed and supported, while our mastery over human health continued to improve. In the mid-20th century (~1950), the Green Revolution [^r17] introduced a fossil-fuel-heavy diet of fertilizer and large-scale mechanization of agriculture, turning food production into an industry. The combination of a qualitative change in the availability of cheap nutrition and the march of progress on disease control cranked the population rate even higher. 
 
-population (billions) 
+[^r17]: Green Revolution. Wikipedia. Accessed 2020 Jul. 21. URL: https://en.wikipedia.org/wiki/ reen Revolution (cited on page 31).
 
-6 5 
-
-+ 
-
-0 
-
--10000-8000-6000-4000-2000 
-
-0 
-
-2000 
-
-year 
-
-Figure 3.2: Global population estimate, over the modern human era, on a linear scale. Figure 3.1 offers a recent close-up. [14, 15]. 
-
-population (log scale) 
-
-1010 
-
-109 
-
-108 
-
-107 
-
-0.04% growth 
-
-106 
-
-1.0% growth 
-
-1700 
-
--10000-8000-6000-4000-2000 
-
-0 
-
-2000 
-
-year 
-
-Figure 3.3: Global population estimate, over the modern human era, on a logarithmic scale. [14, 15]. 
-
-population (log scale) 
-
-1010 
-
-109 
-
-1.7% growth 
-
-0.82% growth 
-
-0.41% growth 
-
-0.12% growth 
-
-سلساليسيا 108 
-
-1000 1200 1400 1600 
-
-year 
-
-1700 
-
-1870 
-
-1950 
-
-1800 
-
-2000 
-
-Figure 3.4: Global population estimate, over recent centuries. On the logarithmic plot, lines of constant slope are exponential in behavior. Four such exponential segments can be broken out in the plot, having increasing growth rates. [14, 15]. 
 
 
 
 [^2]: except that famine and plague took a toll in the 14th century 
 
-Table 3.1: Doubling times for Fig. 3.4. 
 
-Years 
+{{< figure src="../images/population_log-scale_post-1k.png" title="" class="thumbnail">}}
 
-% growth 
+Figure 3.4: Global population estimate, over recent centuries. On the logarithmic plot, lines of constant slope are exponential in behavior. Four such exponential segments can be broken out in the plot, having increasing growth rates. [^r14], [^r15].
 
-t2 
-
-1000-1700 
-
-0.12% 
-
-600 yr 
-
-1700-1870 
-
-0.41% 
-
-170 yr 
-
-1870-1950 
-
-0.82% 
-
-85 yr 
-
-1950-2020 
-
-1.70% 
-
-40 yr 
-
-
+Table 3.1: Doubling times for Fig. 3.4.  
+Years % growth t2 
+1000-1700 0.12% 600 yr  
+1700-1870 0.41% 170 yr  
+1870-1950 0.82% 85 yr  
+1950-2020 1.70% 40 yr  
 
 In more recent years, the rate has fallen somewhat from the 1.7% fit of the last segment in Figure 3.4, to around 1.1%. Rounding down for convenience, continuation at a 1% rate would increase population from 7 billion to 8 billion people in less than 14 years. The math is the same as in Chapter 1, re-expressed here as 
 
-P = Poeln(1+p)(t-to) 
+$$P = P_0e^{ln(1+p)(t-t_0)}$$ (3.1) 
 
-(3.1) 
+where $P_0$ is the population at time $t_0$, and P is the population at time t if the growth rate is steady at p. Inverting this equation[^3], we have 
 
-where Po is the population at time to, and P is the population at time t if the growth rate is steady at p. Inverting this equation, we have 
+$$ t - t_0 = ln(P/P_0) /ln(1+p)$$ (3.2) 
 
-t - to 
+[^3]:... recalling that that the natural log and exponential functions "undo" each other (as inverse functions)
 
-- 
+<details><summary>Example 3.1.1</summary>
 
-In 
+We can use Eq. 3.1 to determine how many people we will have in the year 2100 if we continue growing at a 1% rate, starting from 7 billion in the year 2010. We set $P_0$ = 7 Gppl,[^4] to 2010, p = 0.01, then compute the population in 2100 to be $P = 7 e ^ {ln 1.01 x 90} = 17$ Gppl. 
 
-(六) 
+[^4]: Gppl is giga-people, or billion people
 
-In(1+p) 
+Eq. 3.2 is the form that was used to conclude that increasing from 7 to 8 Gppl takes less than 14 years at a 1% rate. The computation looks like: ln(8/7)/ln 1.01 = 13.4. Note that we need not include the factors of a billion in the numerator and denominator, since they cancel in the ratio. 
 
-= 
+(The actual time for adding one billion people has lately been 12 years, as we have been growing at a rate slightly higher than 1%.)
+</details>
 
-(3.2) 
 
-Example 3.1.1 We can use Eq. 3.1 to determine how many people we will have in the year 2100 if we continue growing at a 1% rate, starting from 7 billion in the year 2010. We set Po=7Gppl,[^4] to 2010, p = 0.01, then compute the population in 2100 to be P = 7eln 1.01.90 = 17 Gppl. 
+[[32]] 
 
-Eq. 3.2 is the form that was used to conclude that increasing from 7 to 8 Gppl takes less than 14 years at a 1% rate. The computation looks like: In(8/7)/In 1.01 = 13.4. Note that we need not include the factors of a billion in the numerator and denominator, since they cancel in 
 
-the ratio. 
 
-32 
+Year Population Time Rate Doubling  
+1804 1 Gppl -- 0.4% 170  
+1927 2 Gppl 123 0.8% 85  
+1960 3 Gppl 33 1.9% 37  
+1974 4 Gppl 14 1.9% 37  
+1987 5 Gppl 13 1.8% 39  
+1999 6 Gppl 12 1.3% 54  
+2011 7 Gppl 12 1.2% 59  
+2023 8 Gppl 12 1.1% 66 
 
+Table 3.2: Population milestones: dates at which we added another one billion living people to the planet. The Time and Doubling columns are expressed in years. Around 1965, the growth rate got up to 2%, for a 35 year doubling time. 
 
 
-[^3]:... recalling that that the natural log and exponential functions "undo" each other (as inverse functions) 
+{{< figure src="../images/population_linear-scale_post-1800.png" title="" class="thumbnail">}}
 
+Figure 3.5: Graphical representation of Table 3.2, showing the time between each billion people added [^r14], [^r15].
 
+Table 3.2 and Figure 3.5 illustrate how long it has taken to add each billion people, extrapolating to the 8 billion mark (as of writing in 2020). The first billion people obviously took tens of thousands of years, each new billion people taking less time ever since. Growth rate peaked in the 1960s at 2% and a doubling time of 35 years.+++(5)+++ The exponential rate is moderating now, but even 1% growth continues to add a billion people every 13 years, at this stage. A famous book by Paul Ehrlich called The Population Bomb [^r18], first published in 1968, expressed understandable alarm at the 2% rate that had only increased to that point. The moderation to 1% since that period is reassuring, but we are not at all out of the woods yet. The next section addresses natural mechanisms for curbing growth. 
 
-[^4]: Gppl is giga-people, or billion people 
 
-The actual time for adding one billion peo- ple has lately been 12 years, as we have been growing at a rate slightly higher than 1%. 
+[^r18]: P. R. Ehrlich and Sierra Club. The Population Bomb. A Sierra Club-Ballantine book. Ballantine ooks, 1971 (cited on page 32).
 
-Year 
+[[33]] 
 
-Population Time Rate Doubling 
+## 3.2 Logistic Model 
 
-1804 
+Absent human influence, the population of a particular animal species. on the planet might fluctuate on short timescales (year by year) and experience large changes on very long timescales (centuries or longer). But by-and-large nature finds a rough equilibrium. Overpopulation proves to be temporary, as exhaustion of food resources, increased predation, and in some cases disease (another form of predation, really) knock back the population.[^5] On the other hand, a small population finds it easy to expand into abundant food opportunities, and predators reliant on the species have also scaled back due to lack of prey. 
 
-1 Gppl 
 
-0.4% 
 
-170 
+[^5]: For reference, the SARS-CoV2 pandemic of 2020 barely impacted global population growth rates. When population grows by more than 80 million each year, a disease killing even a few million people barely registers as a hit to the broader trend.
 
-1927 
-
-2 Gppl 
-
-123 0.8% 
-
-85 
-
-1960 
-
-3 Gppl 
-
-33 
-
-1.9% 
-
-37 
-
-1974 
-
-4 Gppl 
-
-14 
-
-1.9% 
-
-37 
-
-1987 
-
-5 Gppl 
-
-13 
-
-1.8% 
-
-39 
-
-1999 
-
-6 Gppl 
-
-12 
-
-1.3% 
-
-54 
-
-2011 
-
-7 Gppl 
-
-12 
-
-1.2% 
-
-59 
-
-2023 
-
-8 Gppl 
-
-12 
-
-1.1% 
-
-66 
-
-Table 3.2: Population milestones: dates at which we added another one billion liv- ing people to the planet. The Time and Doubling columns are expressed in years. Around 1965, the growth rate got up to 2%, for a 35 year doubling time. 
-
-Table 3.2 and Figure 3.5 illustrate how long it has taken to add each billion people, extrapolating to the 8 billion mark (as of writing in 2020). The first billion people obviously took tens of thousands of years, each new billion people taking less time ever since. Growth rate peaked in the 1960s at 2% and a doubling time of 35 years. The exponential rate is moderating now, but even 1% growth continues to add a billion people every 13 years, at this stage. A famous book by Paul Ehrlich called The Population Bomb [^18], first published in 1968, expressed understandable alarm at the 2% rate that had only increased to that point. The moderation to 1% since that period is reassuring, but we are not at all out of the woods yet. The next section addresses natural mechanisms for curbing growth. 
-
-Population (Gppl) 
-
-987 in MNHO 
-
-1 
-
-0 
-
-1800 1850 1900 1950 2000 
-
-year 
-
-Figure 3.5: Graphical representation of Ta- ble 3.2, showing the time between each billion people added [14, 15]. 
-
-
-
-33 
-
-3.2 Logistic Model 
-
-Absent human influence, the population of a particular animal species. on the planet might fluctuate on short timescales (year by year) and experience large changes on very long timescales (centuries or longer). But by-and-large nature finds a rough equilibrium. Overpopulation proves to be temporary, as exhaustion of food resources, increased predation, and in some cases disease (another form of predation, really) knock back the population. On the other hand, a small population finds it easy to expand into abundant food opportunities, and predators reliant on the species have also scaled back due to lack of prey. 
 
 We have just described a form of negative feedback: corrective action to remedy a maladjusted system back toward equilibrium. 
 
-Definition 3.2.1 Negative feedback simply means that a correction is applied in a direction opposite the recent motion. If a pendulum moves to the right, a restoring force pushes it back to the left, while moving too far to the left results in a rightward push. A mass oscillating on a spring demonstrates similar characteristics, as must all equilibrium phenomena. 
+Definition 3.2.1 
+**Negative feedback** simply means that a correction is applied in a direction opposite the recent motion. If a pendulum moves to the right, a restoring force pushes it back to the left, while moving too far to the left results in a rightward push. A mass oscillating on a spring demonstrates similar characteristics, as must all equilibrium phenomena. 
+
+(The word negative may sound like something we would not want, but its cousin- positive feedback-leads to disastrous run-away conditions. An example of positive feedback is the bacteria example from Chapter 1: having more bacteria only increases the rate of growth. Exponentials are the hallmark of positive feedback, while equilibrium signals negative feedback.)
 
 We can make a simple model for how a population might evolve in an environment hosting negative feedback. When a population is small and resources are abundant, the birth rate is proportional to the population. 
 
-Example 3.2.1 If a forest has 100 breeding-aged deer, or 50 couples, we can expect 50 fawns in a year (under the simplifying and unimportant assumption of one fawn per female per year). If the forest has 200 deer, we can expect 100 fawns. The birth rate is simply proportional to the population capable of giving birth." 
+<details><summary>Example 3.2.1 (द्रष्टुं नोद्यम्)</summary>
 
-If the setup in Example 3.2.1 were the only element to the story, we would find exponential growth: more offspring means a larger popula- tion, which ultimately reaches breeding age to produce an even larger population. But as the population grows, negative feedback will begin to play a role. We will denote the population as P, and its rate of change as P.8 We might say that the growth rate, or P, is 
+If a forest has 100 breeding-aged deer, or 50 couples, we can expect 50 fawns in a year (under the simplifying and unimportant assumption of one fawn per female per year). If the forest has 200 deer, we can expect 100 fawns. The birth rate is simply proportional to the population capable of giving birth.[^6] 
 
-p = rP, 
-
-(3.3) 
-
-where r represents the birth rate in proportion to the population (e.g., 0.04 if 4% of the population will give birth in a year)." This equation just re-iterates the simple idea that the rate of population growth is dependent on (proportional to) the present population. The solution to this differential equation is an exponential: 
-
-P = Poer(t-to), 
-
-(3.4) 
+[^6]: ...no negative feedback yet
+</details>
 
 
-
-[^5]: For reference, the SARS-CoV2 pandemic of 2020 barely impacted global population growth rates. When population grows by more than 80 million each year, a disease killing even a few million people barely registers as a hit to the broader trend. 
-
-The word negative may sound like some- thing we would not want, but its cousin- positive feedback-leads to disastrous run- away conditions. An example of positive feedback is the bacteria example from Chap- ter 1: having more bacteria only increases the rate of growth. Exponentials are the hallmark of positive feedback, while equi- librium signals negative feedback. 
+If the setup in Example 3.2.1 were the only element to the story, we would find exponential growth: more offspring means a larger population, which ultimately reaches breeding age to produce an even larger population[^7]. But as the population grows, negative feedback will begin to play a role. We will denote the population as P, and its rate of change as $P'$[^8]. 
 
 
+[^7]: We have just described a state of positive feedback: more begets more.
 
-[^6]: 
+[^8]: P is a time derivative (note the dot on top), defined as P = dP/dt. But don't panic if calculus is not your thing: what we describe here is still totally understandable.
 
-...no negative feedback yet 
+We might say that the growth rate, or $P'$, is $P' = rP$, (3.3), where r represents the birth rate in proportion to the population (e.g., 0.04 if 4% of the population will give birth in a year).[^9] 
 
+[^9]: In terms of the growth rate we used before, p, as in Eq. 3.1, r = ln(1 + p). So for instance, if growing at 2%, p = 0.02 and r also is 0.02 (r≈ p for small values of p).
 
+This equation just re-iterates the simple idea that the rate of population growth is dependent on (proportional to) the present population. The solution to this differential equation is an exponential: 
 
-[^7]: We have just described a state of positive feedback: more begets more. 
+$$P = P_0 e^{r(t-t_0)}$$, (3.4) 
 
+which is really just a repeat of Eq. 3.1, where r takes the place of ln(1+p). 
 
-
-[^8]: P is a time derivative (note the dot on top), defined as P = dP/dt. But don't panic if calculus is not your thing: what we de- scribe here is still totally understandable. 
-
-
-
-[^9]: In terms of the growth rate we used before, p, as in Eq. 3.1, r = ln(1 + p). So for instance, if growing at 2%, p = 0.02 and r also is 0.02 (r≈ p for small values of p). 
-
-
-
-which is really just a repeat of Eq. 3.1, where r takes the place of In(1+p). 
-
-Example 3.2.2 Paralleling the deer population scenario from Example 3.2.1, if we set r = 0.5, and have a population of P = 100 adult deer (half female), Eq. 3.3 says that P = 50, meaning the population will change by 50 units.[^10] 
+Example 3.2.2  
+Paralleling the deer population scenario from Example 3.2.1, if we set r = 0.5, and have a population of P = 100 adult deer (half female), Eq. 3.3 says that P = 50, meaning the population will change by 50 units.[^10] 
 
 We could then use Eq. 3.4 to determine the population after 4 years: P = 100e0.5.4≈ 739. 
 

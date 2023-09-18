@@ -11,10 +11,6 @@ References are in order of appearance in the book.
 
 
 
-[^r17]: Green Revolution. Wikipedia. Accessed 2020 Jul. 21. URL: https://en.wikipedia.org/wiki/ reen Revolution (cited on page 31). 
-
-
-[^r18]: P. R. Ehrlich and Sierra Club. The Population Bomb. A Sierra Club-Ballantine book. Ballantine ooks, 1971 (cited on page 32). 
 
 
 [^r19]: List of Sovereign States and Dependent Territories by Birth Rate. Wikipedia. Source: The World Factbook. Retrieved 2014-02-21. 2016. URL: https://en.wikipedia.org/wiki/List_of_ sovereign_states_and_dependent_territories_by_birth_ rate (cited on pages 39-44, 0). 
