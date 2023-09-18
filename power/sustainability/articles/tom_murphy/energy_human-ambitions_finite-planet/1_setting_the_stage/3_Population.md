@@ -185,137 +185,50 @@ The term "carrying capacity" is often used to describe Q: the population support
 Q-P quantifies a growth-limiting mechanism by representing available room. One way to incorporate this feature into our growth rate equation is to make the rate of growth look like
 
 
-growth rate 
 
-P 
+$$P' = \dfrac{Q-P}{Q}rP$$ (3.5) 
 
-Q-P Q 
+We have multiplied the original rate of rP by a term that changes the effective growth rate $r → r(Q-P)/Q$. When P is small relative to Q, the effective rate is essentially the original r. But the effective growth rate approaches zero as P approaches Q. In other words, growth slows down and hits zero when the population reaches its final saturation point, as PQ (see Figure 3.6). (Try it yourself: pick a value for Q (1,000, maybe) and then various values of P to see how the effective growth rate will be modified.)
 
-rP. 
+{{< figure src="../images/linear-growth-rate-decrease.png" title="" class="thumbnail">}}
 
-(3.5) 
+Figure 3.6: The rate of growth in the logistic model decreases as population increases, starting out at r when P :0 and reaching zero as P →Q (see Eq. 3.5).
 
-population (P) 
+{{< figure src="../images/logistic-population-curve.png" title="" class="thumbnail">}}
 
-We have multiplied the original rate of rP by a term that changes the effective growth rate r→ r(Q-P)/Q. When P is small relative to Q, the effective rate is essentially the original r. But the effective growth rate approaches zero as P approaches Q. In other words, growth slows down and hits zero when the population reaches its final saturation point, as PQ (see Figure 3.6). 
+Figure 3.7: Logistic population curve (blue), sometimes called an S-curve, as given in Eq. 3.6, in this case plotting for r = 0.5 to match examples in the text. The red curve is the exponential that would result without any negative feedback.
 
 The mathematical solution to this modified differential equation (whose solution technique is beyond the scope of this course) is called a logistic curve, plotted in Figure 3.7 and having the form 
 
-Figure 3.6: The rate of growth in the logistic model decreases as population increases, starting out at r when P :0 and reaching zero as P →Q (see Eq. 3.5). 
+$$ P(t) = \dfrac{Q}{1+e^{-r(t-t_0)}}$$ (3.6)
 
-= 
-
-Try it yourself: pick a value for Q (1,000, maybe) and then various 
-
-values of P to see how the effective growth rate will be modified. 
-
-P(t) = 
-
-Q 1+e-r(t-to) 
-
-(3.6) 
-
-The first part of the curve in Figure 3.7, for very negative values11 of t- to, is exponential but still small. At t = to (time of inflection), the population is Q/2. As time marches forward into positive territory, P approaches Q. As it does so, negative feedback mechanisms (limits to resource/food availability, predation, disease) become more assertive 
+The first part of the curve in Figure 3.7, for very negative values[^11] of $t - t_0$, is exponential but still small. At t = $t_0$ (time of inflection), the population is $Q/2$. 
 
 
+[^11]: The parameter to is the time when the logistic curve hits its halfway point. Times before this have negative values of t - to.
 
-[^11]: The parameter to is the time when the logistic curve hits its halfway point. Times before this have negative values of t - to. 
+As time marches forward into positive territory, P approaches Q. As it does so, negative feedback mechanisms (limits to resource/food availability, predation, disease) become more assertive and suppress the rate of growth until it stops growing altogether when P reaches Q. 
 
-
-
-population, P, as fraction of maximum, Q 
-
-1.0 
-
-0.9 
-
-0.8 
-
-0.7 
-
-inflection point (linear phase) 
-
-0.6 
-
-0.5 
-
-halfway to Q at t = to 
-
-0.4 
-
-0.3 
-
-population, P 
+Example 3.2.3  
+Continuing the deer scenario, let's say the forest can ultimately support 840 adults,[^12] and keep r = 0.5 as the uninhibited growth rate. Using these numbers, Eq. 3.6 yields 100 adults at $t = t_0 -4$ years (effectively the initial state in Example 3.2.1). One year later, at $t = t_0 - 3$, Eq. 3.6 yields 153-very close to the nominal addition of 50 members. But now four years in (t = to), we have 420 instead of the 739 we got under unrestricted exponential growth in Example 3.2.2.13 [^13]
 
 
-
-35 
-
-35 
-
-0.2 
-
-0.1 
-
-0.0 
-
--12 -10 
-
-8 
-
--6 
-
--4 -2 
-
-0 
-
-2 
-
-4 
-
-6 
-
-8 
-
-10 
-
-12 
-
-time relative to midpoint (t-to) 
-
-and suppress the rate of growth until it stops growing altogether when P reaches Q. 
-
-Example 3.2.3 Continuing the deer scenario, let's say the forest can ultimately support 840 adults,[^12] and keep r = 0.5 as the uninhibited growth rate. Using these numbers, Eq. 3.6 yields 100 adults at t = to-4 years (effectively the initial state in Example 3.2.1). One year later, at t = to 3, Eq. 3.6 yields 153-very close to the nominal addition of 50 members. But now four 
-
-in (t years 
-
-to), we have 420 instead of the 739 we got under unrestricted exponential growth in Example 3.2.2.13 
-
-- 
-
-= 
-
-The logistic curve is the dream scenario: no drama. The population simply approaches its ultimate value smoothly, in a tidy manner. We might imagine or hope that human population follows a similar path. Maybe the fact that we've hit a linear phase-consistently adding one billion people every 12 years, lately-is a sign that we are at the inflection, and will start rolling over toward a stable endpoint. If so, we know from the logistic curve that the linear part is halfway to the final population. 
-
-3.2.1 Overshoot 
-
-But not so fast. We left out a crucial piece: feedback delay. The math that leads to the logistic curve assumes that the negative feedback14 acts instantaneously in determining population rates. 
-
-Consider that human decisions to procreate are based on present con- ditions: food, opportunities, stability, etc. But humans live for many decades, and do not impose their full toll on the system until many years after birth, effectively delaying the negative feedback. The logistic curve and equation that guided it had no delay built in. 
-
-Figure 3.7: Logistic population curve (blue), sometimes called an S-curve, as given in Eq. 3.6, in this case plotting for r = 0.5 to match examples in the text. The red curve is the exponential that would result without any negative feedback. 
+[^12]: ... tuned for a convenient match to the numbers we have used in the foregoing examples
 
 
-
-[^12]: ... tuned for a convenient match to the numbers we have used in the foregoing examples 
-
+[^13]: Not coincidentally, P = Q/2 at the half-way point, t = to.
 
 
-[^13]: Not coincidentally, P = way point, t = to. 
+The logistic curve is the dream scenario: no drama. The population simply approaches its ultimate value smoothly, in a tidy manner. We might imagine or hope that human population follows a similar path. Maybe the fact that we've hit a linear phase-consistently adding one billion people every 12 years, lately-is a sign that we are at the inflection, and will start rolling over toward a stable endpoint. If so, we know from the logistic curve that the linear part is halfway to the final population.+++(5)+++ 
 
-Q/2 at the half- 
+Three consecutive 12-year intervals appear in Table 3.2. If the middle one is the mid- point of a logistic linear phase-in 2011 at 7 billion people it would suggest an ulti- mate population of 14 billion.
 
-Three consecutive 12-year intervals appear in Table 3.2. If the middle one is the mid- point of a logistic linear phase-in 2011 at 7 billion people it would suggest an ulti- mate population of 14 billion. 
+### 3.2.1 Overshoot 
+
+But not so fast. We left out a crucial piece: feedback delay. The math that leads to the logistic curve assumes that the negative feedback[^14] acts instantaneously in determining population rates. 
+
+Consider that human decisions to procreate are based on present conditions: food, opportunities, stability, etc. But humans live for many decades, and do not impose their full toll on the system until many years after birth, effectively delaying the negative feedback. The logistic curve and equation that guided it had no delay built in. 
+
 
 
 
@@ -325,19 +238,25 @@ Three consecutive 12-year intervals appear in Table 3.2. If the middle one is th
 
 
 
-36 
+[[36]] 
 
-Definition 3.2.3 Overshoot is a generic consequence of delaying negative feedback. Since negative feedback is a "corrective," stabilizing influence, delaying its application allows the system to "get away" from the control, thereby exceeding the target equilibrium state. 
+Definition 3.2.3  
+Overshoot is a generic consequence of delaying negative feedback. Since negative feedback is a "corrective," stabilizing influence, delaying its application allows the system to "get away" from the control, thereby exceeding the target equilibrium state. 
 
-This is a pretty easy concept to understand. The logistic curve of Figure 3.7 first accelerates, then briefly coasts before decelerating to arrive smoothly at a target. Following an example from [^1], it is much like a car starting from rest by accelerating before applying the brakes to gently come to a stop when the bumper barely kisses a brick wall. The driver is operating a negative feedback loop: seeing/sensing the proximity to the wall and slowing down accordingly. The closer to the wall, the slower the driver goes until lightly touching the wall. Now imagine delaying the feedback to the driver by applying a blindfold and giving voice descriptions of the proximity to the wall, so that decisions about how much to brake are based on conditions from a delayed communication process. Obviously, the driver will crash into the wall if the feedback is delayed, unless slowing down the whole process dramatically. Likewise, if the negative consequences-signals that we need to slow down population growth-arrive decades after the act of producing more humans, we can expect to exceed the "natural" limit, Q-a condition called overshoot. 
+(By "generic consequence," we just mean an outcome that is characteristic of the situation, independent of details.)
+
+
+This is a pretty easy concept to understand. The logistic curve of Figure 3.7 first accelerates, then briefly coasts before decelerating to arrive smoothly at a target. Following an example from [^r1], it is much like a car starting from rest by accelerating before applying the brakes to gently come to a stop when the bumper barely kisses a brick wall. 
+
+[^r1]: Meadows et al. (1972), The Limits to Growth: A Report for the Club of Rome's Project on the Predicament of Mankind
+
+
+The driver is operating a negative feedback loop: seeing/sensing the proximity to the wall and slowing down accordingly. The closer to the wall, the slower the driver goes until lightly touching the wall. Now imagine delaying the feedback to the driver by applying a blindfold and giving voice descriptions of the proximity to the wall, so that decisions about how much to brake are based on conditions from a delayed communication process. Obviously, the driver will crash into the wall if the feedback is delayed, unless slowing down the whole process dramatically. Likewise, if the negative consequences-signals that we need to slow down population growth-arrive decades after the act of producing more humans, we can expect to exceed the "natural" limit, Q-a condition called overshoot. 
 
 Example 3.2.4 We did not detail the mechanisms of negative feedback operating on the deer population in Example 3.2.3 that act to stabilize the population at Q, but to illustrate how delayed negative feedback produces overshoot, consider predation as one of the operating forces. To put some simple numbers on it, let's say that steady state can support one adult (hunting) mountain lion for every 50 deer. Initially, when the population was 100 deer, this means two predators. When the deer population reaches Q = 840, we might have ~17 predators. But it takes time for the predators to react to the growing number of prey, perhaps taking a few years to produce the requisite number of hunting adults. Lacking the full complement of predators, the deer population will sail past the 840 mark until the predator population rises to establish the ultimate balance. In fact, the predators will likely also exceed their steady population in a game of catch-up that leads to oscillations like those seen in Figure 3.8. 
 
 We can explore what happens to our logistic curve if the negative feedback is delayed by various amounts. Figure 3.8 gives a few examples of overshoot as the delay increases. To avoid significant overshoot, the delay (7) needs to be smaller than the natural timescale governing the problem: 1/r, where r is the rate in Eqs. 3.5 and 3.6. In our deer example using r = 0.5, any delay longer than about 2 years causes overshoot. For more modest growth rates (human populations), relevant delays are in decades (see Box 3.1). 
 
-By "generic consequence," we just mean an outcome that is characteristic of the situa- tion, independent of details. 
-
-[^1]: Meadows et al. (1972), The Limits to Growth: A Report for the Club of Rome's Project on the Predicament of Mankind 
 
 Another example of feedback delay leading to overshoot: let's say you are holding down the space bar and trying to position the cursor in the middle of the screen. But your connection is lagging and even though you release the space bar when you see the cursor reach the middle, it keeps sailing past due to the delay: overshooting. 
 
