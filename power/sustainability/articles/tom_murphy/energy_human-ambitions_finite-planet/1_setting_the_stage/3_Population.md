@@ -161,24 +161,29 @@ $$P = P_0 e^{r(t-t_0)}$$, (3.4)
 
 which is really just a repeat of Eq. 3.1, where r takes the place of ln(1+p). 
 
-Example 3.2.2  
-Paralleling the deer population scenario from Example 3.2.1, if we set r = 0.5, and have a population of P = 100 adult deer (half female), Eq. 3.3 says that P = 50, meaning the population will change by 50 units.[^10] 
+  
+<details><summary>Example 3.2.2 (द्रष्टुं नोद्यम्)</summary>
 
-We could then use Eq. 3.4 to determine the population after 4 years: P = 100e0.5.4≈ 739. 
+Paralleling the deer population scenario from Example 3.2.1, if we set r = 0.5, and have a population of P = 100 adult deer (half female), Eq. 3.3 says that $P'$ = 50, meaning the population will change by 50 units.[^10] 
+
+We could then use Eq. 3.4 to determine the population after 4 years: P = 100e^{0.5 x 4}≈ 739. 
+
+
+[^10]: A more adorable term for "units" is fawns, in this case.
+
+(We ignore death rate here, but it effectively reduces r in ways that we will encounter later.)
+</details>
 
 Let's say that a given forest can support an ultimate number of deer, labeled Q, in steady state, while the current population is labeled P. The difference, Q-P is the "room" available for growth, which we might think of as being tied to available resources. Once P = Q, no more resources are available to support growth. 
 
-Definition 3.2.2 The term "carrying capacity" is often used to describe Q: the population supportable by the environment. The carrying capacity (Q) for human population on Earth is not an agreed-upon number, and in any case it is a strong function of lifestyle choices and resource dependence. 
-
-Q-P quantifies a growth-limiting mechanism by representing available room. One way to incorporate this feature into our growth rate equation is to make the rate of growth look like 
-
-34 
+Definition 3.2.2  
+The term "carrying capacity" is often used to describe Q: the population supportable by the environment. The carrying capacity (Q) for human population on Earth is not an agreed-upon number, and in any case it is a strong function of lifestyle choices and resource dependence. 
 
 
+[[34]] 
 
-[^10]: A more adorable term for "units" is fawns, in this case. 
+Q-P quantifies a growth-limiting mechanism by representing available room. One way to incorporate this feature into our growth rate equation is to make the rate of growth look like
 
-We ignore death rate here, but it effectively reduces r in ways that we will encounter later. 
 
 growth rate 
 
