@@ -13,11 +13,6 @@ References are in order of appearance in the book.
 
 
 
-[^r19]: List of Sovereign States and Dependent Territories by Birth Rate. Wikipedia. Source: The World Factbook. Retrieved 2014-02-21. 2016. URL: https://en.wikipedia.org/wiki/List_of_ sovereign_states_and_dependent_territories_by_birth_ rate (cited on pages 39-44, 0). 
-
-
-[^r20]: List of Sovereign States and Dependent Territories by Mortality Rate. Wikipedia. Source: Causes of mortality, OECD Stat Health Status, OECD. 2011. URL: https://en.wikipedia.org/wiki/ List_of_sovereign_states_and_dependent_territories_by_mortality rate (cited on ages 39-44, 50). 
-
 
 [^r21]: J Diamond. Collapse: How Societies Choose to Fail or Succeed. Penguin Books, 2005, pp. 286-293 cited on page 47). 
 
