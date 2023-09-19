@@ -6078,7 +6078,23 @@ Continuance of the kingdom
 14.1.26 कलामात्रं पुरुषाणां इत् समानं पूर्वेण  
 14.1.27 भङ्गक्वाथ उपनयनं औषधानां, चूर्णं प्राणभृतां, सर्वेषां वा क्वाथ उपनयनं, एवं वीर्यवत्तरं भव्ति  
 14.1.28 इति योगसम्पत्  
-14.1.29 शाल्मली विदारीधान्यसिद्धो मूलवत्सनाभसम्युक्तश्चुच्छुन्दरीशोणितप्रलेपेन दिग्धो बाणो यं विध्यति स विद्धोऽन्यान् दशपुरुषान् दशति, ते दष्टा दशान्यान् दशन्ति पुरुषान्  
+14.1.29 शाल्मली-विदारीधान्यसिद्धो मूलवत्सनाभसम्युक्तश्चुच्छुन्दरीशोणितप्रलेपेन दिग्धो बाणो यं विध्यति स विद्धोऽन्यान् दशपुरुषान् दशति, ते दष्टा दशान्यान् दशन्ति पुरुषान्  
+
+<details><summary>English</summary>
+
+29 When an arrow, boiled* with the seeds of Śālmalī and Vidārī, con- taining Mula and Vatsanābha, and smeared with an ointment of blood of ~~muskrats~~ shrew, pierces a man, the man so pierced bites ten other men; and those who are so bitten, bite ten other men.
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+I have a partly written essay on this sUtra as it is a topic of considerable interest to me. I agree with Anand that the aconite toxin is one of the keys to this toxic arrow. Indeed, elsewhere in the arthashAstra, the kauTilya mentions vatsanAbha as one of the viSha-s collected by the state. However what is of interest to me is the so-called muskrat: you are right that it is a wrong translation. sutra goes thus:  
+
+Word is ChuChundarI which should be correctly translated as shrew. Why it is of interest to me is that kauTilya was ahead of his times & probably the first one to record a shrew toxin. To date the Haitian solenodon the European water shrew, the Mediterranean shrew,  the American short-tailed shrew,&the East Asian shrew have been shown to be venomous. The American shrew's toxin is related to a toxin of the gila monster & the East Asian shrew's main toxin is related to a snail toxin. No one has studied the toxicity of the Indian shrew but the fact that it stuns is prey upon biting suggests that it has an as yet uncharacterized toxin. Thus, despite the likely exaggerations of the effects this sUtra might be first record of shew toxicity though the medical saMhitA-s need to also be considered as possible early records of the same. 
+
+I also believe that vidArI in the sUtra is a likely hallucinogenic Ipomea that might account for at least part of the bizarre symptoms described in it.
+</details>
+
+
 14.1.30 बल्लातकयातुधानावानुधामार्गवबाणानां पुष्पैरेलकाक्षिगुग्गुलुहालाहलानां च कषायं बस्तनरशोणितयुक्तं दंशयोगः  
 14.1.31 ततोऽर्धधरणिको योगः सक्तुपिण्याकाभ्यां उदके प्रणीतो धनुःशतायामं उदकाशयं दूषयति  
 14.1.32 मत्स्यपरम्परा ह्येतेन दष्टाऽभिमृष्टा वा विषीभवति, यश्च एतद् उदकं पिबति स्पृशति वा  
