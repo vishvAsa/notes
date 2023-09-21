@@ -91,8 +91,10 @@ closest star.
 
 [^6]: The "edge" is limited by light travel time since the Big Bang (13.8 billion years ago), and is called our cosmic horizon. See Sec. D.1 (p. 392) for more. 
 As we build up our model, pause on each step to lock in a sense of the model: visualize it or even recreate it using objects around you! 
-4 Space Colonization 
-56 
+
+ 
+[[56]] 
+
 Symbol Approx. Radius Distance (AU) Alt. Distance 
 Body 
 Earth 
@@ -145,7 +147,7 @@ your nose.
 a typical car 2,000 years to spend this much fuel. Do you think the astronauts argued about who should pay for the gas? 
 Let's relax the scale slightly, making the sun a chickpea (garbanzo bean). Earth is now the diameter of a human hair (easy to lose), and one meter from the sun. The moon is essentially invisible and a freckle's-width away from the earth. The next star is now 300 km away (a 3-hour drive at freeway speed), while the Milky Way center is 1.5 million kilometers away. Oops. This is more than four times the actual Earth-Moon distance. We busted our scale again without even getting out of the galaxy. 
 So we reset and make the sun a grain of sand. Now the earth is 10 cm away and the next star is 30 km.[^11] Think about space this way: the swarm of stars within a galaxy are like grains of sand tens of kilometers apart. On this scale, solar systems are bedroom-sized, composed of a brightly growing grain of sand in the middle and a few specks of dust (planets) sprinkled about the room.[^12] It gets even emptier in the vast tracts between the stars. The Milky Way extent on this scale is still much larger than the actual Earth, comparable to the size of the lunar orbit. 
-4 Space Colonization 57 
+ 57 
 In fairness, fuel requirements don't simply scale with distance for space travel, unlike travel in a car. Still, just getting away from Earth requires a hefty fuel load. 
 
 [^11]: 
@@ -158,7 +160,7 @@ As mind-bogglingly large as the solar system is, not to mention that it itself i
 But penetrating the nature of the individual galaxies (coins, in the previous example scale) is extremely daunting: they are mostly empty space, and by the time we reduce the galaxy to a manageable scale (say 10 km, so that we can picture the whole thing as city-sized), individual stars are a few tenths of a meter apart and only about 50 atoms across (roughly 10 nm). Cells and bacteria are about 100-1,000 times larger than this. So it's nearly impossible to conceive of the scale of the galaxy while simultaneously appreciating the sizes of the stars and just how much space lies between. 
 Figure 4.3: Galaxies are actually distributed in a frothy foam-like pattern crudely lining the edges of vast bubbles (voids; appearing as dark regions in the image). This structure forms as a natural consequence of gravity as galaxies pull on each other and coalesce into groups, leaving emptiness between. This graphic shows the bubble edges and filaments where galaxies collect. The larger galaxies are bright dots in this view-almost like cities along a 3-dimensional web of highways through the vast emptiness. From the Millennium Simulation [^25]. 
 
-4 Space Colonization 
+ 
 58 
 travel 
 Given the vastness of space, it is negligent to think of space as a "solution" to our present set of challenges on Earth-challenges that operate on a much shorter timescale than it would take to muster any meaningful space presence. Moreover, space travel is enormously expensive energetically and economically (see Table 4.3). As we find ourselves competing for dwindling one-time resources later this century, space travel will have a hard time getting priority, except in the context of escapist entertainment.[^13] 
@@ -209,7 +211,7 @@ Before turning attention to what we have not yet done in space, students may app
 - 1981-2011: U.S. operates the Space Shuttle, envisioned to make space travel routine. After 135 launches (two ending in catastro- phe), the shuttle was retired, leaving the U.S. with no human space launch capacity. 
 ‣ 1998-now: The International Space Station (ISS) [^30] provides an experimental platform and maintains a presence in space. It is only 400 km from Earth's surface (4-hour driving distance), and despite its misleading name is not used as a space-port hub for travel. It is the destination. 
 space 
-4 Space Colonization 
+ 
 59 
 One "win" some imagine from space is access to materials. Yet Earth is already well- stocked with elements from the Periodic Table, and the economics of retrieval from space are prohibitive in any case. 
 ISS 
@@ -232,7 +234,7 @@ year in low gravity environments;
 5. Resource extraction for in-situ construction materials; 6. Closed-system sustainable ecosystem maintenance; 7. Anything close to terraforming (see below). 
 It would be easier to believe in the possibility of space colonization if we first saw examples of colonization of the ocean floor.[^20] Such an environ- ment carries many similar challenges: native environment unbreathable; large pressure differential; sealed-off self-sustaining environment. But an ocean dwelling has several major advantages over space, in that food is scuttling/swimming just outside the habitat; safety/air is a short distance away (meters); ease of access (swim/scuba vs. rocket); and all the resources on Earth to facilitate the construction/operation (e.g., Home Depot not far away). 
 Building a habitat on the ocean floor would be vastly easier than trying to do so in space. It would be even easier on land, of course. But we have not yet successfully built and operated a closed ecosystem on land! A few artificial "biosphere" efforts have been attempted, but met with failure [^31]. If it is not easy to succeed on the surface of the earth, how can we fantasize about getting it right in the remote hostility of space, lacking easy access to manufactured resources? 
-4 Space Colonization 60 
+ 60 
 
 [^18]: The last Apollo landing was in 1972. 
 
@@ -248,7 +250,7 @@ We also should recall the lesson from Chapter 1 about exponential growth, and ho
 ## 4.4 Exploration's Role 
 It is easy to understand why people might latch onto the idea that we will likely leverage our exploration of space into ultimate colonization. Much as early explorers of our planet opened pathways for colonization of "new worlds," the parallels in exploring literal new worlds like planets are obvious.[^22] In short, it is a familiar story, and therefore an easy "sell" to primed, undoubting minds. Plus, we're captivated by the novelty and challenge space colonization represents as attested by a vibrant entertainment industry devoted to stories of eventual life in space. But not all exploration leads to settlement, and entertainment is not truth. 
 Humans have explored (a small portion of) the crushing deep ocean, scaled Earth's highest and wholly inhospitable peaks, and visited the harsh ice cap at the north pole. In such instances, we had zero intention of establishing permanent residence in those locations. They represented 
-4 Space Colonization 61 
+ 61 
 Terraforming is the speculative idea of trans- forming a planet so its atmosphere resem- bles that of Earth (chemical makeup, tem- perature, pressure) and can support human life. 
 
 [^21]: While the increase from 280 to 400 is about 50%, as a fraction of Earth's total atmosphere, the 100 ppm change is 100 divided by one million (from definition of ppm), or 0.01%. 
@@ -270,7 +272,7 @@ of "comfort" for Earth is shown as a blue rectangle going from -10°C to 40°C a
 
 [^22]: Reaching the Americas involved a leap across a span of (life-supporting) ocean about twice the size of Europe. Reaching Mars involves a leap across inhospitable space 5,000 times the diameter of Earth- not very similar at all. 
 
-4 Space Colonization 62 
+ 62 
 places to test our toughness and also learn about new environments. We do not view these sorts of explorations as mistakes just because they did not pave the way for inhabitation. Rather, we speak fondly of such excursions as feathers in our collective cap: feats that make us proud as a species. Space might be viewed in a similar way: superlative in terms of challenge and wonderment, reflecting positively on our curiosity, drive, ingenuity, and teamwork. We also derive benefits23 in the way of technological advancement propelled by our quest to explore, and in furthering our scientific understanding of nature. 
 So even if space does not fulfill the fantasy of continued human expansion across the cosmos, it is in our nature to at least explore it. We would do well to put space exploration in the category of conquering Mt. Everest rather than that of Europeans stumbling upon the West Indies (one is as imminently uninhabitable as the other is inhabitable). Let us not make the mistake of applying the wrong narrative to space. 
 Many positive things might be said about space exploration, and hope- fully we continue poking into our outer environment indefinitely. Yet hoping that such exploration is a pathway to human colonization of space is probably wrong and almost certainly counterproductive at present, given the short timescale on which human expansion is likely to collide with Earth's limits. 
@@ -283,7 +285,7 @@ Space colonization might be treated as a pretend fantasy for the moment. We woul
 among them a deeper appreciation for the rare and precious Earth 
 Despite the pessimistic tone of this chapter, the author is himself captivated by space, and has built a life around it: Star Wars was a transformative influence as a kid, and later Star Trek. The movie The Right Stuff is still a favorite. He has peered to the edge of the universe first through a 10-inch tele- scope he built in high school, and later us- ing the largest telescopes in the world. He has worked on a Space Shuttle experiment, met astronauts, knew Sally Ride, and spent much of his career building and operating a laser system to bounce and detect indi- vidual photons off the reflectors placed on the lunar surface by the Apollo astronauts (as a test of the fundamental nature of grav- ity), which directly inspired part of a Big Bang Theory episode via personal interac- tions with the show's writers. So a deep fondness for space? Yes. Would volunteer to go to the moon or Mars? Yes. Believes it holds the key to humanity's future? No. 
 
-4 Space Colonization 63 
+ 63 
 Box 4.5: Q&A on State of Exploration 
 After reading the first draft of this chapter, students had a number of remaining questions. Here are some of them, along with the author's 
 responses. 
@@ -312,7 +314,7 @@ The fact that we do not have a collective global agreement on priorities or the 
 It is true that we cannot know for sure what the future holds, but perhaps that is all the more reason to play it safe and not foolishly pursue a high-risk fantasy.[^28] From this point on, the book will turn to issues more tangibly relevant to life and success on Planet Earth. 
 Box 4.6: Survey Says? 
 It would be fascinating to do a survey to find out how many people think that we will have substantial populations living off Earth 500 years from now. It is the author's sense that a majority of Americans believe this to be likely. Yet, if such a future is not to be for a host of practical reasons, including the possibility that we falter badly and are no longer in a position to pursue space flight-we would find ourselves in a situation where most people may be completely wrong about the imagined future. That would be a remarkable state of affairs in which to find ourselves-though not entirely surprising. 
-4 Space Colonization 64 
+ 64 
 
 [^27]: Prospects for a plan are discussed in Chapter 19. 
 
@@ -336,7 +338,7 @@ By doing this, you can get maybe 2% of the enjoyment of a trip to the moon for l
 10. Another way to cast Problem 9 is to imagine that the actual distance between Earth and a comparable oasis is more like the distance between stars. In this case, how far would the next oasis be in the desert if we again compare the 100 m scale of the oasis to the diameter of the Earth?31 How long would it take to drive between oases at freeway speeds (cast in the most informative/intuitive units)? 
 11. On the eighth bullet of Box 4.3 (the one that asks you to pause), imagine someone from the year 2020 traveling back 50 years and explaining that we have not been to the moon since 1972, and that Americans get to space on Russian rockets. How believable do you think they would be, and what assumptions might be made to reconcile the shock? 
 12. Prior to exposure to this material, what would you honestly have said in response to: How far have humans been from the planet in 
-4 Space Colonization 65 
+ 65 
 This is why eclipses are special on Earth. 
 
 [^29]: In other words, oasis size is to distance between oases as Earth's diameter is to how far? 
@@ -347,7 +349,7 @@ This is why eclipses are special on Earth.
 The insight you develop will not depend on exact choices for distance and speed, as long as they are reasonable. 
 
 the last 45 years; 
-4 Space Colonization 
+ 
 66 
 a) 600 km (about 
 Earth radius; low earth orbit) 
