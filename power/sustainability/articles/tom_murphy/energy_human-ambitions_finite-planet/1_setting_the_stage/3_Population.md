@@ -506,39 +506,46 @@ The drive to realize a global demographic transition is strong, for the obvious 
 
 Some of the decisions we make that translate into impact on our physical world are deeply personal and very difficult to address. No one wants to be told what they should eat, how often they should shower, or what temperature they should keep their dwelling. But the touchiest of all can be reproduction. It can be tricky to discuss population concerns with someone who has kids. Even if not intentional, it is too easy for the topic to be perceived as a personal attack on their own choices. And we're not talking about choices like what color socks to wear. Children are beloved by (most) parents, so the insinuation that having children is bad or damaging quickly gets tangled into a sense that their "angel" is being attacked-as is their "selfish" decision to have kids (see Box 3.2). The disconnect can be worse the larger the number of kids someone has. Couples having two kids take some solace in that they are exercising net-zero "replacement." 
 
+(Having two kids is not a strict replacement, in that parents and children overlap (double- occupancy) on Earth. But the practice is at least consistent with a steady state.)
+
+
 One common side-step is to focus attention on the high birthrates in other countries, so that the perceived fault lies elsewhere. As pointed out above, if stress on the planet-and living within our means-is what concerns us, undeveloped countries are not putting as much pressure on global resources as many of the more affluent countries are. So while pointing elsewhere offers a bit of a relief, and is a very natural tendency, it does not get the whole picture. 
 
 The overall point is to be aware of the sensitive nature of this topic when discussing with others. Making someone feel bad about their choices- even if unintentionally-might in rare cases result in an appreciation and greater awareness. But it is more likely to alienate a person from an otherwise valuable perspective on the challenges we face. 
 
-Box 3.2: Which is More Selfish? 
 
-Parents, many of whom sacrifice dearly in raising kids-financially, emotionally, and in terms of time investment—understandably view their tireless commitment as being selfless: they often give up their own time, comfort, and freedom in the process. It is understandable, then, that they may view those not having kids as being selfish: the opposite of selfless. But this can be turned on its head. Why, 
+<details><summary>Box 3.2: Which is More Selfish? (द्रष्टुं नोद्यम्)</summary>
 
-Having two kids is not a strict replacement, in that parents and children overlap (double- occupancy) on Earth. But the practice is at least consistent with a steady state. 
+Parents, many of whom sacrifice dearly in raising kids-financially, emotionally, and in terms of time investment—understandably view their tireless commitment as being selfless: they often give up their own time, comfort, and freedom in the process. It is understandable, then, that they may view those not having kids as being selfish: the opposite of selfless. But this can be turned on its head. Why, exactly, did they decide to have kids and contribute to the toll on our planet? It was their choice (or inattention) that placed them in parental roles, and the entire planet—not just humans-pays a price for their decision, making it seem a bit selfish.[^31] In the end, almost any decision we make can be called selfish, since we usually have our own interests at least partly in mind. So it is pointless to try assigning more or less selfishness to the decision to have kids or not to have them. But consider this: if the rest of the Earth-all its plants and creatures—had a say, do you think they would vote for adding another human to the planet? Humans have the capacity, at least, to consider a greater picture than their own self interest, and provide representation to those sectors that otherwise have no rights or voice in our highly human-centric system. 
 
-
-
-exactly, did they decide to have kids and contribute to the toll on our planet? It was their choice (or inattention) that placed them in parental roles, and the entire planet—not just humans-pays a price for their decision, making it seem a bit selfish.[^31] In the end, almost any decision we make can be called selfish, since we usually have our own interests at least partly in mind. So it is pointless to try assigning more or less selfishness to the decision to have kids or not to have them. But consider this: if the rest of the Earth-all its plants and creatures—had a say, do you think they would vote for adding another human to the planet? Humans have the capacity, at least, to consider a greater picture than their own self interest, and provide representation to those sectors that otherwise have no rights or voice in our highly human-centric system. 
-
-47 
+[^31]: Reasons for having children are numerous: genetic drive; family name/tradition; labor source; care in old age; companionship and love (projected onto not-yet-existing person). Note that adoption can also satisfy many of these aims without contributing additional population.
+</details>
 
 
-
-[^31]: Reasons for having children are numer- ous: genetic drive; family name/tradition; labor source; care in old age; companionship and love (projected onto not-yet-existing person). Note that adoption can also satisfy many of these aims without contributing additional population. 
-
-3.4.2 Population Policy 
-
-What could governments and other organizations do to manage popula- tion? Again, this is touchy territory, inviting collision between deeply personal or religious views and the state. China initiated a one-child pol- icy in 1979 that persisted until 2015 (exceptions were granted depending on location and gender). The population in China never stopped climb- ing during this period, as children born during prior periods of higher birth rates matured and began having children of their own-even if restricted in number. The population curve in China is not expected to flatten out until sometime in the 2030-2040 period.[^32] Such top-down policies can only be enacted in strong authoritarian regimes, and would be seen as a severe infringement on personal liberties in many countries. Religious belief systems can also run counter to deliberate efforts to limit population growth. In addition, shrinking countries are at a competitive disadvantage in global markets, often leading to policies that incentivize having children. 
-
-One striking example of rarely-achieved sustainable population control comes from the South Pacific island of Tikopia [^21]. Maintaining a stable population for a few thousand years on this small island involved not only adopting food practices as close to the island's natural plants as possible, but also invoking strict population controls. The chiefs in this egalitarian society routinely preached zero population growth, and also prevented overfishing. Strict limits were placed on family size, and cultural taboos kept this small island at a population around 1,200.33 Population control methods included circumventing insemination, abortion, infanticide, suicide, or "virtual suicide," via embarking on dangerous sea voyages unlikely to succeed. In this way, the harshness of nature was replaced by harsh societal norms that may seem egregious to us. When Christian missionaries converted inhabitants in the twentieth century, the practices of abortion, infanticide and suicide were quenched and the population 
-
-The net effect of the various exceptions meant that for most of this period half of Chinese parents could have a second child. 
+[[47]] 
 
 
 
-[^32]: This is another case of delay in negative feedback resulting in overshoot. 
 
-[^21]: Diamond (2005), Collapse: How Societies Choose to Fail or Succeed 
+### 3.4.2 Population Policy 
+
+What could governments and other organizations do to manage population? Again, this is touchy territory, inviting collision between deeply personal or religious views and the state. China initiated a one-child policy in 1979 that persisted until 2015 (exceptions were granted depending on location and gender). The population in China never stopped climbing during this period, as children born during prior periods of higher birth rates matured and began having children of their own-even if restricted in number. The population curve in China is not expected to flatten out until sometime in the 2030-2040 period.[^32] 
+
+(The net effect of the various exceptions meant that for most of this period half of Chinese parents could have a second child.)
+
+
+
+[^32]: This is another case of delay in negative feedback resulting in overshoot.
+
+Such top-down policies can only be enacted in strong authoritarian regimes, and would be seen as a severe infringement on personal liberties in many countries. Religious belief systems can also run counter to deliberate efforts to limit population growth. In addition, shrinking countries are at a competitive disadvantage in global markets, often leading to policies that incentivize having children. 
+
+One striking example of rarely-achieved sustainable population control comes from the South Pacific island of Tikopia [^r21]. Maintaining a stable population for a few thousand years on this small island involved not only adopting food practices as close to the island's natural plants as possible, but also invoking strict population controls. The chiefs in this egalitarian society routinely preached zero population growth, and also prevented overfishing. Strict limits were placed on family size, and cultural taboos kept this small island at a population around 1,200.[^33] Population control methods included circumventing insemination, abortion, infanticide, suicide, or "virtual suicide," via embarking on dangerous sea voyages unlikely to succeed. In this way, the harshness of nature was replaced by harsh societal norms that may seem egregious to us.  
+
+[^r21]: J Diamond. Collapse: How Societies Choose to Fail or Succeed. Penguin Books, 2005, pp. 286-293 cited on page 47).
+
+
+
+
 
 
 
@@ -546,25 +553,27 @@ The net effect of the various exceptions meant that for most of this period half
 
 
 
-48 
+[[48]] 
 
-began to climb, leading to famine and driving the population excess off the island. 
+When Christian missionaries converted inhabitants in the twentieth century, the practices of abortion, infanticide and suicide were quenched and the population began to climb, leading to famine and driving the population excess off the island. 
+
+(Nature, it turns out, is indifferent to our belief systems.)
 
 In the end, personal choice will be important, if we are to tame the population predicament. Either conditions will be too uncertain to justify raising children, or we adopt values that place short term personal and human needs into a larger context concerning ecosystems and long-term human happiness. 
 
-3.5 Upshot: Everything Depends on Us 
+### 3.5 Upshot: Everything Depends on Us 
 
-We would likely not be discussing a finite planet or limits to growth or climate change if only one million humans inhabited the planet, even living at United States standards. We would perceive no meaningful limit to natural resources and ecosystem services. Conversely, it is not difficult to imagine that 100 billion people on Earth would place a severe strain on the planet's ability to support us-especially if trying to live like Americans—to the point of likely being impossible. If we had to pick a single parameter to dial in order to ease our global challenges, it would be hard to find a more effective one than population. 
+We would likely not be discussing a finite planet or limits to growth or climate change if only one million humans inhabited the planet, even living at United States standards. We would perceive no meaningful limit to natural resources and ecosystem services. Conversely, it is not difficult to imagine that 100 billion people on Earth would place a severe strain on the planet's ability to support us-especially if trying to live like Americans—to the point of likely being impossible. If we had to pick a single parameter to dial in order to ease our global challenges, it would be hard to find a more effective one than population.+++(4)+++ 
 
 Maybe we need not take any action. Negative feedback will assert itself strongly once we have gone too far-either leading to a steady approach to equilibrium or producing an overshoot/collapse outcome. Nature will regulate human population one way or another. It just may not be in a manner to our liking, and we have the opportunity to do better via awareness and choice. 
 
-Very few scholars are unconcerned about population pressure. Yet the issue is consistently thorny due to both its bearing on personal choice and a justified reluctance to "boss" developing nations to stop growing prior to having an opportunity to naturally undergo a demographic transition for themselves. Conventional thinking suggests that under- going the demographic transition ultimately is the best solution to the population problem. The question too few ask is whether the planet can support this path for all, given the associated population surge and concomitant demand on resources. If not, pursuit of the transition for the world may end up causing more damage and suffering than would otherwise happen due to increased populations competing for dwindling resources. 
+Very few scholars are unconcerned about population pressure. Yet the issue is consistently thorny due to both its bearing on personal choice and a justified reluctance to "boss" developing nations to stop growing prior to having an opportunity to naturally undergo a demographic transition for themselves. Conventional thinking suggests that under-going the demographic transition ultimately is the best solution to the population problem. The question too few ask is whether the planet can support this path for all, given the associated population surge and concomitant demand on resources. If not, pursuit of the transition for the world may end up causing more damage and suffering than would otherwise happen due to increased populations competing for dwindling resources. 
 
-Nature, it turns out, is indifferent to our belief systems. 
 
-A common knee-jerk reaction to a statement that we would be better off with a smaller population is to demand an answer to who, exactly, we propose eliminating. Ideally, we should be able to discuss an important topic like population without resorting to accu- sations of advocating genocide. Of course we need to take care of those already alive, and address the problem via future repro- ductive choices. 
 
-3.6 Problems 
+A common knee-jerk reaction to a statement that we would be better off with a smaller population is to demand an answer to who, exactly, we propose eliminating. Ideally, we should be able to discuss an important topic like population without resorting to accusations of advocating genocide. Of course we need to take care of those already alive, and address the problem via future reproductive choices. 
+
+## 3.6 Problems 
 
 1. The text accompanying Figure 3.1 says that Earth currently hosts the equivalent of 25 billion nineteenth-century-level energy consumers. If we had maintained our nineteenth-century energy appetite but 
 

@@ -2,34 +2,59 @@
 title = "4 Space Exploration vs Colonization"
 
 +++
-This textbook assesses the challenges and limitations imposed upon us by living on a finite planet having finite resources. If harboring expectations that we will break out into a space-faring existence as a way to mitigate our earthly challenges, then it becomes harder for us to respond earnestly to information about where things are headed on Earth. This chapter is placed where it is to "close the exit" so that the content in the rest of the book might become more relevant and worth the investment to learn. Some of the sections in this chapter offer more of an author's perspective than might be typical for a textbook. Some may disagree with the case that is made, but consider that the burden of proof for a way of life unfathomably beyond our current means should perhaps fall to the enthusiasts.1 
+This textbook assesses the challenges and limitations imposed upon us by living on a finite planet having finite resources. If harboring expectations that we will break out into a space-faring existence as a way to mitigate our earthly challenges, then it becomes harder for us to respond earnestly to information about where things are headed on Earth. This chapter is placed where it is to "close the exit" so that the content in the rest of the book might become more relevant and worth the investment to learn. Some of the sections in this chapter offer more of an author's perspective than might be typical for a textbook. Some may disagree with the case that is made, but consider that the burden of proof for a way of life unfathomably beyond our current means should perhaps fall to the enthusiasts.[^1] 
+
+[^1]: To quote Carl Sagan, extraordinary claims require extraordinary evidence.
 
 ## 4.1 Scale of Space 
 In the span of two hours, we can sit through a movie and "participate" in interstellar travel without getting tired. Let's step out of the entertainment (fiction) industry and come to terms with the physical scale of the real space environment. 
+
 Describing an analogous scale model of the solar system, galaxy, and universe as we will do momentarily is a fraught exercise, because in order to arrive at physical scales for which we have solid intuition (driving distance in a day?) we end up with inconceivably small (invisible) specks representing familiar objects like the earth. By the time we make Earth the size of something we can hold and admire, the scales become too big for easy comprehension. Figures 4.1 and 4.2 demonstrate how awkward or impossible correctly-scaled graphics are in a textbook. 
-4.1 Scale of Space. 
-4.2 The Wrong Narrative 4.3 A Host of Difficulties 4.4 Exploration's Role 4.5 Upshot: Earth First 4.6 Problems. 
-54 
-58 
-59 
-61 
-63 
-64 
 
-[^1]: To quote Carl Sagan, extraordinary claims require extraordinary evidence. 
-The convention is to capitalize Earth when it is used as a proper name, and refer to the earth when it is an object. Similar rules apply to Moon and Sun. 
-Photo credit: NASA/Bill Anders from Apollo 8 [^22]. 
+(The convention is to capitalize Earth when it is used as a proper name, and refer to the earth when it is an object. Similar rules apply to Moon and Sun.)
 
-4 Space Colonization 
-55 
-55 
-Figure 4.1: Earth and Moon (far right) to scale. On this scale, the sun would be larger than the page and about 400 pages away. Mars would be 160 to 1,100 pages away. Since 1972, humans have not traveled beyond the black outline of the earth in this figure (600 km). 
-Sun 
-Earth (invisible) 
-Figure 4.2: Proving the point that textbooks are not conducive to correctly-scaled graphics of objects in space, by the time the Earth-Sun distance spans the page, 
+<div class="js_include" url="../images/space-illustration-actual-scales.png"  newLevelForH1="5" includeTitle="false"> </div>  
+
+Figure 4.1: Earth and Moon (far right) to scale. On this scale, the sun would be larger than the page and about 400 pages away. Mars would be 160 to 1,100 pages away. Since 1972, humans have not traveled beyond the black outline of the earth in this figure (600 km).
+
+Figure 4.2: Proving the point that textbooks are not conducive to correctly-scaled graphics of objects in space, by the time the Earth-Sun distance spans the page,
+
+
+
+Photo credit: NASA/Bill Anders from Apollo 8 [^r22]. 
+
+
 Earth (on far right) is too small to be visible in print, at less than 1% the diameter of the orange sun at far left. The Earth-Moon distance is about the width of the arrow shaft pointing to Earth. Humans have never traveled more than the arrow shaft's width from Earth, and have not even gone 0.2% that far in about 50 years! Mars, on average, is farther from Earth than is the sun. 
+
 Let us first lay out some basic ratios that can help build suitable mental models at whatever scale we choose. 
-Definition 4.1.1 Scale models of the universe can be built based on these approximate relations, some of which appear in Table 4.1 and Table 4.2: 
+
+Table 4.1: Progression of scale factors.
+
+Step Factor
+Earth diameter (start)
+Moon distance 30X
+Sun distance 400x
+Neptune distance 30X
+Nearest Star 9,000X
+Milky Way Center 6,000X
+Andromeda Galaxy 100x
+Universe Edge 6,000×
+
+
+| Body             | Symbol | Approx. Radius | Distance (AU) | Alt. Distance |
+|------------------|--------|---------------|---------------|---------------|---|---|
+| Earth            | ⊕      | R⊕ = 6,400 km | -             |               |
+| Moon             | ☽︎      | 1/4 R⊕         | 1/400         | 60R⊕ = 240 R☽    |
+| Sun              | ☉      | 100R⊕          | 1             | 240 R☉         |
+| Mars             | ♂      | 0.5 R⊕        | 0.4-2.7       |               |
+| Jupiter          | ♃      | 10R⊕ =  1/10 R☉ | 4-6           |               |
+| Neptune          | ♆      | 4R⊕ | 30           |               |
+| Proxima Centauri | -      | .15 R☉ | 270,000           | 4.2 light years              |
+
+
+Definition 4.1.1  
+Scale models of the universe can be built based on these approximate relations, some of which appear in Table 4.1 and Table 4.2: 
+
 1. The moon's diameter is one-quarter that of Earth, and located 30 earth-diameters (60 Earth-radii) away from Earth, on average (see Figure 4.1). 
 2. The sun's diameter is about 100 times that of Earth, and 400 times as 
 far as the moon from Earth (see Figure 4.2). 
@@ -52,21 +77,6 @@ We'll make Earth the size of a grain of sand (about 1 mm diameter). The moon is 
 span 
 the separation of your eyes. On this scale, the sun is 100 mm in diameter (a grapefruit) and about 12 meters away (40 feet). Mars could be anywhere from 4.5 meters (15 feet) to 30 meters (100 feet) away. Reflect 
 
-Table 4.1: Progression of scale factors. 
-Sun distance 
-Step 
-Factor 
-Earth diameter 
-(start) 
-Moon distance 
-30X 
-400x 
-30X 
-9,000X 
-6,000X 
-100x 
-6,000× 
-Neptune distance Nearest Star Milky Way Center Andromeda Galaxy Universe Edge 
 
 [^2]: The Oort cloud marks the outer influence of the sun, gravitationally. 
 

@@ -14,8 +14,6 @@ References are in order of appearance in the book.
 
 
 
-[^r21]: J Diamond. Collapse: How Societies Choose to Fail or Succeed. Penguin Books, 2005, pp. 286-293 cited on page 47). 
-
 
 [^r22]: Bill Anders and NASA. Online. [available online at Wikimedia Commons as picture ID 81692094; Accessed 2020 Aug. 4. 1968. URL: https://spaceflight.nasa.gov/gallery/ images/apollo/apollo8/html/as08-14-2383.html (cited on pages 54, 354). 
 
