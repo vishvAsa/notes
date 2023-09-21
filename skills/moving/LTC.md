@@ -13,7 +13,7 @@ title = "LTC Leave travel concession"
 
 ## General entitlement
 ### Hometown  LTC
-- admissible  irrespective  of  the distance. In the Four year block two home-town trips are eligible in two calendar year blocks. The present blocks are 2022-2023, 2024 2025 and so on.  
+- admissible  irrespective  of  the distance. In the Four year block two home-town trips are eligible in two calendar year blocks. The present blocks are 2022-2023, 2024-2025 and so on.  
 - An employee whose family lives away from his headquarters can avail this concession for himself every year in lieu of all concessions.
 - Any  one  hometown LTC may  be  converted to all India LTC. 
 
@@ -32,8 +32,7 @@ Instead of concessions  under  this  scheme,  one  choose  to  avail  of  leave 
      before the grace period, i.e., by 31-12-2024. Then he is entitled to carry forward his LTC to anywhere in India to be availed before the grace period, i.e., by 31-12-2026.
   2. In the above case, suppose the official avails of LTC to Home town after 31-12-2024, this will be debited against the block 2024-2025 and hence he will not be entitled to "anywhere in India LTC". In this case, he will lose his entitlement for 2022-2023 by not availing it before the grace period.- Rule 10.
 - The Government servant and his family can visit either the same place or different places. -Rule 11.
-  Turn to Page 59. Check whether the scratch
-  surface is intact before you buy
+  Turn to Page 59.
 
 
 ### Tickets
@@ -51,11 +50,27 @@ Air tickets should be purchased from (Helper at NCBS - sharat):
 
 - Government employees are to choose flight having the Best Available Fare on their entitled travel class which is the cheapest Fare available, preferably for Non-stop flight in a given slot, mentioned below, at the time of booking. They are to retain the print-out of the concerned webpage of the ATAs having flight and fare details for the purpose of the settlement of the LTC claims. (GOI Office memorandum - [TIFR link](https://www.tifr.res.in/new_noticesdocs/ltc.pdf)) 
   - (a) On the day of travel in the desired 3 hours' slot of following time band - 00:00 hours to 03:00 hours, 03:00 hours to 06:00 hours, 06:00 hours to 09:00 hours, 09:00 hours to 12:00 hours, 12:00 hours to 15:00 hours, 15:00 hours to 18:00 hours, 18:00 hours to 21:00 hours, 21:00 hours to 24:00 hours.
-  - (b) With provision of optimizing within a 10% price band, for convenience
-  and comfort.
+  - (b) With provision of optimizing within a 10% price band, for convenience and comfort.
 - Employees are encouraged to book flight tickets at least 21 days prior to the intended date of travel on LTC, to avail the most competitive fares and minimize burden on the exchequer.
 
 ## Fresh recruit entitlement
 - Fresh recruits are allowed to travel to their home town along with their families on three occasions in a block of four years and to any place in India on the fourth occasion. This facility is available for the first two blocks of four years after joining the Government for the first time.
 - The first two blocks of four years will apply with reference to the initial date of joining. The first two blocks of four years will be personal to them. On completion of eight years they will be treated at par with other regular employees. 
 - No carry-over of LTC is allowed for a fresh recruit. A fresh recruit whose home town and headquarters are same cannot avail LTC to home town. - GID (4), Rule 8. 4.
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+2018-2021 (3 Delhi, 1 anywhere)
+
+- Joined Oct 2019. Covid lockdown and LTC encashment used.
+- 2021 - V, Su delhi train. Rest - wasted.
+
+2022-2025 (3 Delhi, 1 anywhere)
+
+- 2022 - KRV, V, Vaj, Su, Sh - Delhi
+- 2023 - 
+  - KRV - Assam
+  - V, Sh, Su, Vaj - ?
+- 2024 - ?
+- 2025 - ?
+</details>

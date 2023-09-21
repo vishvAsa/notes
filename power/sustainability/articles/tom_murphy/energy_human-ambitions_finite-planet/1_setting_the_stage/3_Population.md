@@ -461,129 +461,48 @@ Africa is significant in terms of population growth, but constitutes only 10% of
 
 ### 3.3.2 Cost of the Demographic Transition 
 
-A final point relates to the trajectory depicted in Figure 3.12 for demographic transitions: death rate decreases first while birth rates remain high or rise even higher-before starting to come down. An example sequence is illustrated in Figure 3.16: initially the rates are high (at r1), and the same (resulting in steady population); then the death rate transitions to a new low rate (r2) over a time T; and the birth rate begins to fall some time t later before matching the death rate and stabilizing population again. The yellow-shaded area between the curves indicates the region where birth rate exceeds death rate, leading to a net population growth (a surge in population). 
+{{< figure src="../images/birth-death-rate-transition-lag.png" title="" class="thumbnail">}}
 
-The amount of growth in the surge turns out to be proportional to the exponential of the area between the curves. For this trapezoid cartoon, the area is just the base (T) times the height (rate difference), so that the population increase looks like e(1-2), where r1 is the initial rate per year and r2 is the final rate. The actual curves may take any number of forms, but the key point is that delayed onset of birth rate decrease introduces a population surge, and that magnitude of the surge grows as the area between the curves increases. 
+Figure 3.16: Schematic demographic transition time sequence.
 
-Example 3.3.2 If we start at a birth/death rate of 25 per 1,000 per year (r1 = 0.025), end up at 8 (r2 = 0.008; verify that these numbers are reasonable according to Figure 3.11), and have a delay of t = 50 years for the birth rate to start decreasing, we see the population increasing by a factor of 
+A final point relates to the trajectory depicted in Figure 3.12 for demographic transitions: death rate decreases first while birth rates remain high or rise even higher-before starting to come down. An example sequence is illustrated in Figure 3.16: initially the rates are high (at r1), and the same (resulting in steady population); then the death rate transitions to a new low rate (r2) over a time T; and the birth rate begins to fall some time t later before matching the death rate and stabilizing population again. The yellow-shaded area between the curves indicates the region where birth rate exceeds death rate, leading to a net population growth (a surge in population).
 
+The amount of growth in the surge turns out to be proportional to the exponential of the area between the curves. For this trapezoid cartoon, the area is just the base (τ) times the height (rate difference), so that the population increase looks like $e^{(
+r_1-r_2)τ}$, where r1 is the initial rate per year and r2 is the final rate. The actual curves may take any number of forms, but the key point is that delayed onset of birth rate decrease introduces a population surge, and that magnitude of the surge grows as the area between the curves increases. 
 
+Note in the cartoon example of Figure 3.16, the area between the curves is only dependent on the rate difference (height) and the delay, τ. The time it takes to complete the transition, T, is irrelevant, as the area of the parallelogram is just the base times the height. Thus the population surge as- sociated with a demographic transition is primarily sensitive to the rate difference and the delay until birth rate begins to decline.
 
-death rate: 
+<details><summary>Example 3.3.2 (द्रष्टुं नोद्यम्)</summary>
+ 
+If we start at a birth/death rate of 25 per 1,000 per year (r1 = 0.025), end up at 8 (r2 = 0.008; verify that these numbers are reasonable according to Figure 3.11), and have a delay of t = 50 years for the birth rate to start decreasing, we see the population increasing by a factor of 
 
-rate 
-
-birth rate 
-
-r2 
-
-time 
-
-Figure 3.16: Schematic demographic transi- tion time sequence. 
-
-Note in the cartoon example of Figure 3.16, the area between the curves is only depen- dent on the rate difference (height) and the delay, 7. The time it takes to complete the transition, T, is irrelevant, as the area of the parallelogram is just the base times the height. Thus the population surge as- sociated with a demographic transition is primarily sensitive to the rate difference and the delay until birth rate begins to decline. 
-
-e(ri-r2)T 
-
-= e 
-
-el 
-
-(0.025-0.008).50 
-
-= 0.85 = 2.34. 
-
+$$ e^{(r_1-r_2)τ} = e^{(0.025-0.008) . 50} = 0.85 = 2.34 .$$ 
 
 
 This means that the population more than doubles, or increases by 134%. 
+</details>
+
 
 So to effect a demographic transition means to increase the population burden substantially. Meanwhile, the transitioned population consumes resources at a greater rate—a natural byproduct of running a more advanced society having better medical care, education, and employment opportunities. Transportation, manufacturing, and consumer activity all increase. The net effect is a double-whammy: the combined impact of a greater population using more resources per capita. The resource impact on the planet soars. 
+
+{{< figure src="../images/global-us-living-standards-impact.png" title="" class="thumbnail">}}
+
+
+Figure 3.17: What our energy demand would have to do (blue-dashed line) if the growing global population (here projected as a red-dashed logistic curve) grew its per-capita energy consumption to current U.S. standards by the year 2100 (a factor-of-five increase). Historical energy and population are represented as solid curves. The departure from past reality would have to be staggering [^r15], [^r16].
 
 The pertinent question is whether the Earth is prepared to host a dramatic increase in resource usage. Just because we might find appealing the idea that all countries on Earth could make it through the demographic transition and live at a first-world standard does not mean nature has the capacity to comply. The U.S. per-capita energy usage is roughly five times the current global average. To bring 7 billion people to the same standard would require five times the current scale. Completion of a global demographic transition would roughly double the current world population so that the total increase in energy would be a factor of ten. The blue-dashed projection in Figure 3.17 looks rather absurd as an extension of the more modest-but still rather remarkable energy climb to date. As we are straining to satisfy current energy demand, the "amazing dream" scenario seems unlikely to materialize. 
 
 Energy in this context is a proxy for other material resources. Consider the global-scale challenges we have introduced today: deforestation, fisheries collapse, water pressures, soil degradation, pollution, climate change, and species loss, for instance. What makes us think we can survive a global demographic transition leading to a consumption rate many times higher than that of today? Does it not seem that we are already approaching a breaking point? 
 
-If nature won't let us realize a particular dream, then is it morally responsible to pursue it? This question becomes particularly acute if the very act of pursuing the dream increases the pressure on the system and makes failure even more likely. Total suffering might be maximized if the population builds to a point of collapse. In this sense, we cleverly stack the most possible people into the stadium to witness a most spectacular event: the stadium's collapse-which only happened because we packed the stadium. You see the irony, right? 
+If nature won't let us realize a particular dream, then is it morally responsible to pursue it?+++(5)+++ This question becomes particularly acute if the very act of pursuing the dream increases the pressure on the system and makes failure even more likely. Total suffering might be maximized if the population builds to a point of collapse. In this sense, we cleverly stack the most possible people into the stadium to witness a most spectacular event: the stadium's collapse-which only happened because we packed the stadium. You see the irony, right? 
 
-The drive to realize a global demographic transition is strong, for the obvi- ous set of reasons discussed above (improved quality of life, educational opportunity, greater tolerance, dignity, and fulfillment). Challenging the vision may 
+[[46]]
 
-be an uphill battle, since awareness about resource limits is not prevalent. This may be an example of the natural human tendency to extrapolate: we have seen the benefits of the demographic transition in many countries over the last century, and may expect this trend to 
+The drive to realize a global demographic transition is strong, for the obvious set of reasons discussed above (improved quality of life, educational opportunity, greater tolerance, dignity, and fulfillment). Challenging the vision may be an uphill battle, since awareness about resource limits is not prevalent. This may be an example of the natural human tendency to extrapolate: we have seen the benefits of the demographic transition in many countries over the last century, and may expect this trend to continue until all countries have completed the journey. But bear in mind that earlier successes transpired during times in which global resource availability was not a major limitation. If conditions change, and we reach a "full" earth, past examples may offer little relevant guidance. 
 
-Global Power (TW) 
+## 3.4 Touchy Aspects 
 
-
-
-45 
-
-160 
-
-75 
-
-70 
-
-140 
-
-65 
-
-60 
-
-120 
-
-55 
-
-33 
-
-+88 
-
-Population (Gppl) 
-
-50 
-
-100 
-
-45 
-
-40 
-
-80 
-
-35 
-
-30 
-
-60 
-
-25 
-
-20 
-
-40 
-
-15 
-
-10 
-
-20 
-
-1950 2000 2050 
-
-year 
-
-2100 
-
-Figure 3.17: What our energy demand would have to do (blue-dashed line) if the growing global population (here projected as a red-dashed logistic curve) grew its per- capita energy consumption to current U.S. standards by the year 2100 (a factor-of-five increase). Historical energy and population are represented as solid curves. The depar- ture from past reality would have to be staggering [15, 16]. 
-
-
-
-
-
-46 
-
-continue until all countries have completed the journey. But bear in mind that earlier successes transpired during times in which global resource availability was not a major limitation. If conditions change, and we reach a "full" earth, past examples may offer little relevant guidance. 
-
-3.4 Touchy Aspects 
-
-3.4.1 Population Discussions Quickly Get Personal 
+### 3.4.1 Population Discussions Quickly Get Personal 
 
 Some of the decisions we make that translate into impact on our physical world are deeply personal and very difficult to address. No one wants to be told what they should eat, how often they should shower, or what temperature they should keep their dwelling. But the touchiest of all can be reproduction. It can be tricky to discuss population concerns with someone who has kids. Even if not intentional, it is too easy for the topic to be perceived as a personal attack on their own choices. And we're not talking about choices like what color socks to wear. Children are beloved by (most) parents, so the insinuation that having children is bad or damaging quickly gets tangled into a sense that their "angel" is being attacked-as is their "selfish" decision to have kids (see Box 3.2). The disconnect can be worse the larger the number of kids someone has. Couples having two kids take some solace in that they are exercising net-zero "replacement." 
 
