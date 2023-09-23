@@ -2,6 +2,9 @@
 title = "mAna siMha"
 +++
 
+## Overviews
+[YT](https://www.youtube.com/watch?v=cUghBY8wKeY)
+
 ## Capitulation to mogols
 Gradson of Bharmal, son of Prithviraj. The kachChAva-s capiulation came due to the following factors:
 

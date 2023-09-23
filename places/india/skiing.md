@@ -13,6 +13,9 @@ title: Skiing
 ## Auli
 Source: [TW](https://www.auliskiing.in/Auli-Skiing-Snowboarding/auli-day-ski-pass-daily-skiing-lesson.html)
 
+- 2520 m - 3049 m (Difference 529 m)
+- Total 3km slopes. Easy 	2.5, intermediate .5
+
 Lifts
 
 - Joshimath-Auli base Gorson Ropeway 4km 
