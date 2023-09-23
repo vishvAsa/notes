@@ -26,13 +26,13 @@ jobs:
       - name: Get changed files
         id: changed-files
         if: ${{ github.event_name != 'workflow_dispatch' }}
-        uses: jitterbit/get-changed-files@v1
+        uses: rlespinasse/github-slug-action@v4
       - id: filter_changed_files
         if: ${{ steps.changed-files.conclusion == 'success'}}
         uses: actions/github-script@0.9.0
         with:
           script: |
-            var changed_files = '${{steps.changed-files.outputs.all}}'.replace(/(?<= |^)content(?= |$)/, "").trim()
+            var changed_files = '${{steps.changed-files.outputs.all_changed_files}}'.replace(/(?<= |^)content(?= |$)/, "").trim()
             console.log(changed_files, changed_files.length)
             core.setOutput('count', changed_files.length.toString())
       - name: Update submodules
@@ -40,8 +40,8 @@ jobs:
         if: ${{ steps.filter_changed_files.conclusion == 'skipped' || steps.filter_changed_files.outputs.count != '0'}}
         run: |
           set -o xtrace
-          echo "=====${{ steps.changed-files.outputs.all}}======"
-          echo "=====${{ steps.changed-files.outputs.all}}======"
+          echo "=====${{ steps.changed-files.outputs.all_changed_files}}======"
+          echo "=====${{ steps.changed-files.outputs.all_changed_files}}======"
           git submodule update --init --recursive
           git submodule update --remote --merge --recursive
       - name: Setup Hugo
