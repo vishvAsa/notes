@@ -23,6 +23,7 @@ Figure 4.2: Proving the point that textbooks are not conducive to correctly-scal
 
 Photo credit: NASA/Bill Anders from Apollo 8 [^r22]. 
 
+[^r22]: Bill Anders and NASA. Online. [available online at Wikimedia Commons as picture ID 81692094; Accessed 2020 Aug. 4. 1968. URL: https://spaceflight.nasa.gov/gallery/ images/apollo/apollo8/html/as08-14-2383.html (cited on pages 54, 354).
 
 Earth (on far right) is too small to be visible in print, at less than 1% the diameter of the orange sun at far left. The Earth-Moon distance is about the width of the arrow shaft pointing to Earth. Humans have never traveled more than the arrow shaft's width from Earth, and have not even gone 0.2% that far in about 50 years! Mars, on average, is farther from Earth than is the sun. 
 
@@ -51,173 +52,197 @@ Universe Edge 6,000×
 | Neptune          | ♆      | 4R⊕ | 30           |               |
 | Proxima Centauri | -      | .15 R☉ | 270,000           | 4.2 light years              |
 
+Table 4.2: Symbols, relative sizes, and distances in the solar system and to the nearest star. An AU is an Astronomical Unit, which is the average Earth-Sun distance of about 150 million kilometers. The fact that both the sun and moon are 240 of their radii away from Earth is why they appear to be a similar size on the sky, leading to "just so" eclipses.
+
 
 Definition 4.1.1  
 Scale models of the universe can be built based on these approximate relations, some of which appear in Table 4.1 and Table 4.2: 
 
 1. The moon's diameter is one-quarter that of Earth, and located 30 earth-diameters (60 Earth-radii) away from Earth, on average (see Figure 4.1). 
-2. The sun's diameter is about 100 times that of Earth, and 400 times as 
-far as the moon from Earth (see Figure 4.2). 
-3. Mars' diameter is about half that of Earth, and the distance from Earth 
-ranges from 0.4 to 2.7 times the Earth-Sun distance. 
+2. The sun's diameter is about 100 times that of Earth, and 400 times as far as the moon from Earth (see Figure 4.2). 
+3. Mars' diameter is about half that of Earth, and the distance from Earth ranges from 0.4 to 2.7 times the Earth-Sun distance. 
 4. Jupiter's diameter is about 10 times larger than Earth's and 10 times smaller than the sun's; it is about 5 times farther from the sun than is the earth. 
 5. Neptune orbits the sun 30 times farther than does Earth. 
-6. The Oort cloud2 of comets ranges from about 2,000 to 100,000 times 
-the Earth-Sun distance from the sun. 
-7. The nearest star3 is 4.2 light years from us, compared to 500 light- 
-seconds from Earth to the sun-a ratio of 270,000. 
-8. The Milky Way galaxy has its center about 25,000 light years away 
-away, and is a disk about four times that size in diameter. 
-9. The next large galaxy5 is 2.5 million light years away, or about 25 
-Milky Way diameters away. 
-10. The edge of the visible universe is 13.8 billion light years away, or 
-about 6,000 times the distance to the Andromeda galaxy. 
-We will construct a model using the set of scale relations in Definition 4.1.1, starting local on a comfortable scale. 
-We'll make Earth the size of a grain of sand (about 1 mm diameter). The moon is a smaller speck (dust?) and the diameter of its orbit would 
-span 
-the separation of your eyes. On this scale, the sun is 100 mm in diameter (a grapefruit) and about 12 meters away (40 feet). Mars could be anywhere from 4.5 meters (15 feet) to 30 meters (100 feet) away. Reflect 
+6. The Oort cloud[^2] of comets ranges from about 2,000 to 100,000 times the Earth-Sun distance from the sun. 
+7. The nearest star[^3] is 4.2 light years from us, compared to 500 light-seconds from Earth to the sun-a ratio of 270,000. (A light year is the distance light travels in a year.)
+8. The Milky Way galaxy has its center about 25,000 light years away[^4], and is a disk about four times that size in diameter. 
+9. The next large galaxy[^5] is 2.5 million light years away, or about 25 Milky Way diameters away. 
+10. The edge of the visible universe is 13.8 billion light years away, or about 6,000 times the distance to the Andromeda galaxy. 
+
+[^2]: The Oort cloud marks the outer influence of the sun, gravitationally.
+
+[^3]:... Proxima Centauri
 
 
-[^2]: The Oort cloud marks the outer influence of the sun, gravitationally. 
 
-[^3]:... Proxima Centauri 
-A light year is the distance light travels in a 
-year. 
+[^4]: That's 6,000 times the distance to the
+closest star.
 
-[^4]: That's 6,000 times the distance to the 
-closest star. 
+[^5]:... the Andromeda galaxy
 
-[^5]:... the Andromeda galaxy 
+[^6]: The "edge" is limited by light travel time since the Big Bang (13.8 billion years ago), and is called our cosmic horizon. See Sec. D.1 (p. 392) for more.
 
-[^6]: The "edge" is limited by light travel time since the Big Bang (13.8 billion years ago), and is called our cosmic horizon. See Sec. D.1 (p. 392) for more. 
-As we build up our model, pause on each step to lock in a sense of the model: visualize it or even recreate it using objects around you! 
+We will construct a model using the set of scale relations in Definition 4.1.1, starting local on a comfortable scale. As we build up our model, pause on each step to lock in a sense of the model: visualize it or even recreate it using objects around you!
+
+We'll make Earth the size of a grain of sand (about 1 mm diameter). The moon is a smaller speck (dust?) and the diameter of its orbit would span the separation of your eyes. On this scale, the sun is 100 mm in diameter (a grapefruit) and about 12 meters away (40 feet). Mars could be anywhere from 4.5 meters (15 feet) to 30 meters (100 feet) away. 
+
+
+
 
  
 [[56]] 
 
-Symbol Approx. Radius Distance (AU) Alt. Distance 
-Body 
-Earth 
-Ө 
-Re≈ 6,400 km 
-Moon 
-( 
-Re 
-1 
-400 
-Sun 
-100R 
-1 
-60R≈ 240R 
-240Ro 
-Mars 
-Re 
-0.4-2.7 
-Jupiter 
-10R RO 
-4-6 
-10 
-Neptune 
-४ 
-Proxima Centauri 
-4Re 0.15Ro 
-~30 
-270,000 
-4.2 light years 
-for a second that humans have never ventured farther from Earth than the moon, at 3 cm (just over an inch) in this scale. Mars is outlandishly farther. Neptune is about four-tenths of a kilometer away (on campus at this scale), and the next star is over 3,000 km (roughly San Diego to Atlanta). So we've already busted our easy intuitive reckoning and we haven't even gotten past the first star. Furthermore, this was starting with the earth as a tiny grain of sand. We've only ever traveled two- finger-widths away from Earth on this scale, and the next star is like going on a giant trip across the country. For apples-to-apples, compare how long it takes to walk a distance of two-finger-widths (3 cm) to the time it would take to walk across the U.S. The former feat of traveling to the moon was super-hard; the latter is comparatively impossible. 
+Reflect for a second that humans have never ventured farther from Earth than the moon, at 3 cm (just over an inch) in this scale.[^7] Mars is outlandishly farther. (Glance over to where Mars would be if the earth is a grain of sand on your nose.) Neptune is about four-tenths of a kilometer away (on campus at this scale), and the next star is over 3,000 km (roughly San Diego to Atlanta). So we've already busted our easy intuitive reckoning and we haven't even gotten past the first star. 
+
+
+[^7]: For this, picture a grain of sand sitting on the bridge of your nose representing the earth, and a speck of dust in front of one eye as the moon.
+
+
+Furthermore, this was starting with the earth as a tiny grain of sand. We've only ever traveled two- finger-widths away from Earth on this scale[^8], and the next star is like going on a giant trip across the country.+++(5)+++ For apples-to-apples, compare how long it takes to walk a distance of two-finger-widths (3 cm) to the time it would take to walk across the U.S. The former feat of traveling to the moon was super-hard; the latter is comparatively impossible. 
+
+[^8]: The last time we went this far was 1972.
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 Box 4.1: When Will We Get There? 
-8 
-It took 12 years for Voyager 2 to get to Neptune, which is "in our back yard." The only spacecraft to date traveling fast enough to leave the solar system are the two Voyagers, the two Pioneers, and the New Horizons probe [^23]. The farthest and fastest of this set is Voyager 1 at about 150 times the Earth-Sun distance after 43 years. The closest star is about 2,000 times farther. At its present speed of 17 km/s, it would reach the distance to the nearest star in another 75,000 years. 
+ 
+It took 12 years for Voyager 2 to get to Neptune, which is "in our back yard." The only spacecraft to date traveling fast enough to leave the solar system are the two Voyagers, the two Pioneers, and the New Horizons probe [^r23]. The farthest and fastest of this set is Voyager 1 at about 150 times the Earth-Sun distance after 43 years. The closest star is about 2,000 times farther. At its present speed of 17 km/s, it would reach the distance to the nearest star[^9] in another 75,000 years. 
+
+[^r23]: List of artificial objects leaving the Solar System. Wikipedia. Accessed 2020 Aug. 9. 2020. URL: https://en.wikipedia.org/wiki/List_of_artificial_objects leaving_the_Solar System cited on page 56).
+
+
+[^9]: It does not happen to be aimed toward the nearest star, however.
+
 The fastest spacecraft on record as yet is the Parker Solar Probe, which got up to a screaming 68.6 km/s, but only because it was plunging (falling) around the sun. Because it was so close to the sun, even this amount of speed was not enough to allow it climb out of the sun's gravitational grip and escape, as the five aforementioned probes managed to do. Even if Voyager 1 ended up with 70 km/s left over after breaking free of the solar system,[^10] it would still take 20,000 years to reach the distance to the nearest star. Note that human lifetimes are about 200 times shorter. 
-Pushing a human-habitable spacecraft up to high speed is immensely harder than accelerating these scrappy little probes, so the challenges are varied and extreme. For reference, the Apollo missions to the very nearby Moon carried almost 3,000 tons of fuel [^24], or about. 80,000 times the typical car's gasoline tank capacity. It would take 
-Table 4.2: Symbols, relative sizes, and dis- tances in the solar system and to the nearest star. An AU is an Astronomical Unit, which is the average Earth-Sun distance of about 150 million kilometers. The fact that both the sun and moon are 240 of their radii away from Earth is why they appear to be a similar size on the sky, leading to "just so" eclipses. 
 
-[^7]: For this, picture a grain of sand sitting on the bridge of your nose representing the earth, and a speck of dust in front of one eye as the moon. 
-Glance over to where Mars would be if the earth is a grain of sand on 
-your nose. 
 
-[^8]: The last time we went this far was 1972. 
-[^23]: (2020), List of artificial objects leaving the Solar System 
+[^10]: It only had 17 km/s left.
 
-[^9]: It does not happen to be aimed toward the nearest star, however. 
+Pushing a human-habitable spacecraft up to high speed is immensely harder than accelerating these scrappy little probes, so the challenges are varied and extreme. For reference, the Apollo missions to the very nearby Moon carried almost 3,000 tons of fuel [^r24], or about 80,000 times the typical car's gasoline tank capacity.  
 
-[^10]: It only had 17 km/s left. 
-[^24]: (2020), Saturn V 
 
-a typical car 2,000 years to spend this much fuel. Do you think the astronauts argued about who should pay for the gas? 
+[^r24]: Saturn V. Wikipedia. Accessed 2020 Aug. 9. 2020. URL: https://en.wikipedia.org/wiki/Saturn V (cited on page 56).
+
+
+
+It would take a typical car 2,000 years to spend this much fuel. Do you think the astronauts argued about who should pay for the gas? 
+</details>
+
+
 Let's relax the scale slightly, making the sun a chickpea (garbanzo bean). Earth is now the diameter of a human hair (easy to lose), and one meter from the sun. The moon is essentially invisible and a freckle's-width away from the earth. The next star is now 300 km away (a 3-hour drive at freeway speed), while the Milky Way center is 1.5 million kilometers away. Oops. This is more than four times the actual Earth-Moon distance. We busted our scale again without even getting out of the galaxy. 
-So we reset and make the sun a grain of sand. Now the earth is 10 cm away and the next star is 30 km.[^11] Think about space this way: the swarm of stars within a galaxy are like grains of sand tens of kilometers apart. On this scale, solar systems are bedroom-sized, composed of a brightly growing grain of sand in the middle and a few specks of dust (planets) sprinkled about the room.[^12] It gets even emptier in the vast tracts between the stars. The Milky Way extent on this scale is still much larger than the actual Earth, comparable to the size of the lunar orbit. 
- 57 
+
+So we reset and make the sun a grain of sand. Now the earth is 10 cm away and the next star is 30 km.[^11] Think about space this way: the swarm of stars within a galaxy are like grains of sand tens of kilometers apart. On this scale, solar systems are bedroom-sized, composed of a brightly growing grain of sand in the middle and a few specks of dust (planets) sprinkled about the room.[^12]+++(5)+++ It gets even emptier in the vast tracts between the stars. The Milky Way extent on this scale is still much larger than the actual Earth, comparable to the size of the lunar orbit. 
+
+
+[^11]: ...a long day's walk
+
+[^12]: Even a solar system, which is a sort of local oasis within the galaxy, is mostly empty space.
+
+[[57]] 
+
 In fairness, fuel requirements don't simply scale with distance for space travel, unlike travel in a car. Still, just getting away from Earth requires a hefty fuel load. 
 
-[^11]: 
-...a long day's walk 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-[^12]: Even a solar system, which is a sort of local oasis within the galaxy, is mostly empty space. 
 Box 4.2: Cosmic Scales 
-It is not necessary to harp further on the vastness of space, but having come this far some students may be interested in completing the visualization journey. 
-As mind-bogglingly large as the solar system is, not to mention that it itself is dwarfed by interstellar distances, which in turn are minuscule compared to the scale of the galaxy, how can we possibly appreciate the largest scales in the universe? Let's start by making galaxies manageable. If galaxies are like coins (say a U.S. dime at approximately 1 cm diameter), they are typically separated by meter- like scales. The edge of the visible universe (see Sec. D.1; p. 392) would be only 1.5 km away. Finally, the picture is easy to visualize: coins as galaxies separated by something like arm's length and extending over an area like the center of a moderately-sized town. We can even imagine the frothy, filamentary arrangement of these galaxies, containing house-sized (5–50 m) voids empty of coins (galaxies). See Figure 4.3 for a visual explanation. 
-But penetrating the nature of the individual galaxies (coins, in the previous example scale) is extremely daunting: they are mostly empty space, and by the time we reduce the galaxy to a manageable scale (say 10 km, so that we can picture the whole thing as city-sized), individual stars are a few tenths of a meter apart and only about 50 atoms across (roughly 10 nm). Cells and bacteria are about 100-1,000 times larger than this. So it's nearly impossible to conceive of the scale of the galaxy while simultaneously appreciating the sizes of the stars and just how much space lies between. 
-Figure 4.3: Galaxies are actually distributed in a frothy foam-like pattern crudely lining the edges of vast bubbles (voids; appearing as dark regions in the image). This structure forms as a natural consequence of gravity as galaxies pull on each other and coalesce into groups, leaving emptiness between. This graphic shows the bubble edges and filaments where galaxies collect. The larger galaxies are bright dots in this view-almost like cities along a 3-dimensional web of highways through the vast emptiness. From the Millennium Simulation [^25]. 
 
- 
-58 
-travel 
-Given the vastness of space, it is negligent to think of space as a "solution" to our present set of challenges on Earth-challenges that operate on a much shorter timescale than it would take to muster any meaningful space presence. Moreover, space travel is enormously expensive energetically and economically (see Table 4.3). As we find ourselves competing for dwindling one-time resources later this century, space travel will have a hard time getting priority, except in the context of escapist entertainment.[^13] 
+It is not necessary to harp further on the vastness of space, but having come this far some students may be interested in completing the visualization journey. 
+
+As mind-bogglingly large as the solar system is, not to mention that it itself is dwarfed by interstellar distances, which in turn are minuscule compared to the scale of the galaxy, how can we possibly appreciate the largest scales in the universe? Let's start by making galaxies manageable. If galaxies are like coins (say a U.S. dime at approximately 1 cm diameter), they are typically separated by meter- like scales. The edge of the visible universe (see Sec. D.1; p. 392) would be only 1.5 km away. Finally, the picture is easy to visualize: coins as galaxies separated by something like arm's length and extending over an area like the center of a moderately-sized town. We can even imagine the frothy, filamentary arrangement of these galaxies, containing house-sized (5–50 m) voids empty of coins (galaxies). See Figure 4.3 for a visual explanation. 
+
+But penetrating the nature of the individual galaxies (coins, in the previous example scale) is extremely daunting: they are mostly empty space, and by the time we reduce the galaxy to a manageable scale (say 10 km, so that we can picture the whole thing as city-sized), individual stars are a few tenths of a meter apart and only about 50 atoms across (roughly 10 nm). Cells and bacteria are about 100-1,000 times larger than this. So it's nearly impossible to conceive of the scale of the galaxy while simultaneously appreciating the sizes of the stars and just how much space lies between. 
+</details>
+
+{{< figure src="../images/galaxy-filaments_millennium-sim.png" title="" class="thumbnail">}}
+
+Figure 4.3: Galaxies are actually distributed in a frothy foam-like pattern crudely lining the edges of vast bubbles (voids; appearing as dark regions in the image). This structure forms as a natural consequence of gravity as galaxies pull on each other and coalesce into groups, leaving emptiness between. This graphic shows the bubble edges and filaments where galaxies collect. The larger galaxies are bright dots in this view-almost like cities along a 3-dimensional web of highways through the vast emptiness. From the Millennium Simulation [^r25]. 
+
+
+[^r25]: V Springel et al. "Simulations of the formation, evolution and clustering of galaxies and uasars". In: Nature 435 (2005), p. 629. Dor: 10.1038/nature03597 (cited on pages 57, 354).
+
+[[58]] 
+
+Table 4.3: Approximate/estimated costs, adjusted for inflation (M = million; B billion). [[^r26] [^r27] [^r28] [^r29]]
+
+Effort Cost  
+Apollo Program $288B  
+Space Shuttle Launch $450M  
+Single Seat to ISS $90M  
+Human Mars Mission $500B
+
+[^r26]: C Dreier. "A new accounting for Apollo: how much did it really cost?" In: The Space Review (June 2019). https://www.thespacereview.com/article/3737/1 Accessed 2020 Aug. 11 (cited on page 58).
+
+
+[^r27]: NASA Kennedy Space Center. Space Shuttle and International Space Station FAQ. Online. Accessed 2020 Aug. 11. 2017. URL: https://www.nasa.gov/centers/kennedy/about/information/ shuttle faq.html (cited on page 58).
+
+
+[^r28]: M Bartels. "NASA to pay Russia $90 million for a Soyuz seat on a crew launch this fall". In: pace.com (May 2020). Accessed 2020 Aug. 11 (cited on page 58).
+
+
+[^r29]: F Taylor. The Scientific Exploration of Mars. Cambridge University Press, 2010, p. 306 (cited on age 58). 413
+
+
+
+Given the vastness of space, it is negligent to think of space as a "solution" to our present set of challenges on Earth-challenges that operate on a much shorter timescale than it would take to muster any meaningful space presence.+++(5)+++ Moreover, space travel is enormously expensive energetically and economically (see Table 4.3). As we find ourselves competing for dwindling one-time resources later this century, space travel will have a hard time getting priority, except in the context of escapist entertainment.[^13] 
+
+[^13]: which is great stuff as long as it does not dangerously distort our perceptions of reality
 
 ## 4.2 The Wrong Narrative 
-Humans are not shy about congratulating themselves on accomplish- ments, and yes, we have done rather remarkable things. An attractive and common sentiment casts our narrative in evolutionary terms: fish crawled out of the ocean, birds took to the air, and humans are making the next logical step to space-continuing the legacy of escaping the bondage of water, land, and finally Earth. It is a compelling tale, and we have indeed learned to escape Earth's gravitational pull and set foot on another body. 
-But let's not get ahead of ourselves. Just because we can point to a few special example accomplishments does not mean that such examples presage a new normal. A person can climb Mt. Everest, but it is not ever likely to become a commonplace activity. We can build a supersonic passenger airplane for trans-atlantic flight, but it does not mean it will be viable to sustain.[^14] One can set up a backyard obstacle course for squirrels and generate viral videos, but the amusing demonstration does not signal a "new normal" in backyard design. We need to separate the possible from the practical. The moon landings might then be viewed as a nifty stunt a demonstration of capability-rather than a path to our future. We encountered similar arguments in Chapter 2 in relation to decoupling: just because it can happen in certain domains of the economy does not mean that the entire economy can decouple and "defy gravity." 
-The attractive evolutionary argument misses two critical facets of reality. When fish crawled out of the sea, they escaped predation (as the first animals on land) and found new food sources free of competition. That's a win-win: less dangerous, more sustenance.[^15] Likewise, when birds took flight (or we could discuss insects, which beat the birds to it), it was a similar story: evade ground-based predators who could not fly, and access a whole new menu of food-another win-win. 
-Going to space could easily be cast as a lose-lose. It's an extremely hostile environment offering no protection or safe haven,[^16] and there's nothing to eat.[^17] Think about it: where would you go to grab a bite in our solar system at present, outside of Earth? And a solar system is an absolute oasis compared to the vast interstellar void. The two factors that jointly 
+Humans are not shy about congratulating themselves on accomplishments, and yes, we have done rather remarkable things. An attractive and common sentiment casts our narrative in evolutionary terms: fish crawled out of the ocean, birds took to the air, and humans are making the next logical step to space-continuing the legacy of escaping the bondage of water, land, and finally Earth. It is a compelling tale, and we have indeed learned to escape Earth's gravitational pull and set foot on another body.
 
-Table 4.3: Approximate/estimated costs, adjusted for inflation (M = million; B billion). [[^26] [^27] [^28] [^29]] 
+But let's not get ahead of ourselves. Just because we can point to a few special example accomplishments does not mean that such examples presage a new normal.  
+A person can climb Mt. Everest, but it is not ever likely to become a commonplace activity.  
+We can build a supersonic passenger airplane for trans-atlantic flight, but it does not mean it will be viable to sustain.[^14]  
+One can set up a backyard obstacle course for squirrels and generate viral videos, but the amusing demonstration does not signal a "new normal" in backyard design. 
 
-[^13]: 
-Effort 
-Apollo Program Space Shuttle Launch Single Seat to ISS Human Mars Mission 
-Cost 
-$288B 
-$450M 
-$90M 
-$500B 
-== 
-which is great stuff as long as it does not dangerously distort our perceptions of reality 
+[^14]: ...or even still available today (see the story of the Concorde; Box 2.2; p. 22)
 
-[^14]: 
-...or even still available today (see the story of the Concorde; Box 2.2; p. 22) 
+We need to separate the possible from the practical. The moon landings might then be viewed as a nifty stunt a demonstration of capability-rather than a path to our future. We encountered similar arguments in Chapter 2 in relation to decoupling: just because it can happen in certain domains of the economy does not mean that the entire economy can decouple and "defy gravity."+++(5)+++ 
 
-[^15]: Evolution works on exploiting advan- tages, favoring wins and letting the "lose" situations be out-competed. 
+The attractive evolutionary argument misses two critical facets of reality. When fish crawled out of the sea, they escaped predation (as the first animals on land) and found new food sources free of competition. That's a win-win: less dangerous, more sustenance.[^15]+++(4)+++  
+
+
+[^15]: Evolution works on exploiting advantages, favoring wins and letting the "lose" situations be out-competed.
+
+
+Likewise, when birds took flight (or we could discuss insects, which beat the birds to it), it was a similar story: evade ground-based predators who could not fly, and access a whole new menu of food-another win-win.  
+Going to space could easily be cast as a lose-lose. It's an extremely hostile environment offering no protection or safe haven,[^16] and there's nothing to eat.[^17] Think about it: where would you go to grab a bite in our solar system at present, outside of Earth? And a solar system is an absolute oasis compared to the vast interstellar void. 
+
 
 [^16]: Earth is the safe haven. 
 
-[^17]: Amusingly, consider that no cheese- burgers have ever smacked into a space capsule. 
-promoted evolution onto land and into the air will not operate to "evolve" us into space. It's a much tougher prospect. Yes, it could be possible to 
-grow 
-food on a spacecraft or in a pressurized habitat, but then we are no longer following the evolutionary meme of stumbling onto a good deal. 
-Box 4.3: Accomplishments in Space 
-Before turning attention to what we have not yet done in space, students may appreciate a recap of progress to date. The list is by no means exhaustive, but geared to set straight common misconceptions. 
-- 1957: Sputnik (Soviet) is the first satellite to orbit Earth. 
+[^17]: Amusingly, consider that no cheese-burgers have ever smacked into a space capsule. 
 
-[^1959]: Luna 3 (Soviet; unmanned) reaches the moon in a fly-by. 
+The two factors that jointly promoted evolution onto land and into the air will not operate to "evolve" us into space. It's a much tougher prospect. Yes, it could be possible to grow food on a spacecraft or in a pressurized habitat, but then we are no longer following the evolutionary meme of stumbling onto a good deal. +++(4)+++
+
+One "win" some imagine from space is access to materials. Yet Earth is already well-stocked with elements from the Periodic Table, and the economics of retrieval from space are prohibitive in any case.
+
+
+Box 4.3: Accomplishments in Space  
+Before turning attention to what we have not yet done in space, students may appreciate a recap of progress to date. The list is by no means exhaustive, but geared to set straight common misconceptions. 
+
+- 1957: Sputnik (Soviet) is the first satellite to orbit Earth. 
+- 1959: Luna 3 (Soviet; unmanned) reaches the moon in a fly-by. 
 - 1961: Yuri Gagarin (Soviet), first in space, orbits Earth once. 
 - 1965: Alexei Leonov (Soviet) performs the first "space walk." 1965: Mariner 4 (U.S.; unmanned) reaches Mars. 
 - 1968: Apollo 8 (U.S.) puts humans in lunar orbit for the first time. 
 - 1969: Apollo 11 (U.S.) puts the first humans onto the lunar surface. 
 - Pause here to appreciate how fast all this happened. It is easy to see why people would assume that Mars would be colonized within 50 years. Attractive narratives are hard to retire, even when wrong. 
-
-[^1972]: Apollo 17 (U.S.) is the last human mission to the moon; only 12 people have walked on another solar system body, the last about 50 years ago. 
+- 1972: Apollo 17 (U.S.) is the last human mission to the moon; only 12 people have walked on another solar system body, the last about 50 years ago. 
 - 1973-now: as of this writing (2020), humans have not ventured farther than about 600 km from Earth's surface (called low earth orbit, or LEO; see Figure 4.4) since the end of the Apollo missions. 
-- 1981-2011: U.S. operates the Space Shuttle, envisioned to make space travel routine. After 135 launches (two ending in catastro- phe), the shuttle was retired, leaving the U.S. with no human space launch capacity. 
-‣ 1998-now: The International Space Station (ISS) [^30] provides an experimental platform and maintains a presence in space. It is only 400 km from Earth's surface (4-hour driving distance), and despite its misleading name is not used as a space-port hub for travel. It is the destination. 
-space 
- 
-59 
-One "win" some imagine from space is access to materials. Yet Earth is already well- stocked with elements from the Periodic Table, and the economics of retrieval from space are prohibitive in any case. 
-ISS 
-HST 
+- 1981-2011: U.S. operates the Space Shuttle, envisioned to make space travel routine. After 135 launches (two ending in catastrophe), the shuttle was retired, leaving the U.S. with no human space launch capacity. 
+- 1998-now: The International Space Station (ISS) [^r30] provides an experimental platform and maintains a presence in space. It is only 400 km from Earth's surface (4-hour driving distance), and despite its misleading name is not used as a space-port hub for travel. It is the destination. 
+
+
+[^r30]: International Space Station. Wikipedia. Accessed 2020 Aug. 11. 2020. URL: https://en.wikipedia.org/wiki/International Space Station (cited on page 59).
+
+
+
+
+{{< figure src="../images/post-apollo-human-space-flight.png" title="" class="thumbnail">}}
+
 Figure 4.4: The pink band indicates the farthest humans have been from the surface of the earth for the last 50 years. The Hubble Space Telescope (HST) orbits at the top of this band at 600 km altitude, and the International Space Station in the middle at 400 km. Beyond the thin black line outlining the globe, Earth's atmosphere is too tenuous to support life. 
-[^30]: (2020), International Space Station 
+
 
 ## 4.3 A Host of Difficulties 
 If undeterred by the vast emptiness, hostile conditions, or lack of human- supporting resources in space, then maybe it's because you believe 

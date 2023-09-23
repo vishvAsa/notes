@@ -5,38 +5,9 @@ title = "05 Bibliography"
 
 412
 
-References are in order of appearance in the book. 
+References are in order of appearance in the book.
 
 
-
-
-
-
-
-
-
-[^r22]: Bill Anders and NASA. Online. [available online at Wikimedia Commons as picture ID 81692094; Accessed 2020 Aug. 4. 1968. URL: https://spaceflight.nasa.gov/gallery/ images/apollo/apollo8/html/as08-14-2383.html (cited on pages 54, 354). 
-
-
-[^r23]: List of artificial objects leaving the Solar System. Wikipedia. Accessed 2020 Aug. 9. 2020. URL: https://en.wikipedia.org/wiki/List_of_artificial_objects leaving_the_Solar System cited on page 56). 
-
-
-[^r24]: Saturn V. Wikipedia. Accessed 2020 Aug. 9. 2020. URL: https://en.wikipedia.org/wiki/ aturn V (cited on page 56). 
-
-
-[^r25]: V Springel et al. "Simulations of the formation, evolution and clustering of galaxies and uasars". In: Nature 435 (2005), p. 629. Dor: 10.1038/nature03597 (cited on pages 57, 354). [^r26]: C Dreier. "A new accounting for Apollo: how much did it really cost?" In: The Space Review (June 2019). https://www.thespacereview.com/article/3737/1 Accessed 2020 Aug. 11 (cited on page 58). 
-
-
-[^r27]: NASA Kennedy Space Center. Space Shuttle and International Space Station FAQ. Online. Accessed 2020 Aug. 11. 2017. URL: https://www.nasa.gov/centers/kennedy/about/information/ shuttle faq.html (cited on page 58). 
-
-
-[^r28]: M Bartels. "NASA to pay Russia $90 million for a Soyuz seat on a crew launch this fall". In: pace.com (May 2020). Accessed 2020 Aug. 11 (cited on page 58). 
-
-
-[^r29]: F Taylor. The Scientific Exploration of Mars. Cambridge University Press, 2010, p. 306 (cited on age 58). 413 
-
-
-[^r30]: International Space Station. Wikipedia. Accessed 2020 Aug. 11. 2020. URL: https://en.wikipedia.org/wiki/International Space Station (cited on page 59). 
 
 
 [^r31]: Biosphere 2. Wikipedia. Accessed 2020 Aug. 3. 2020. URL: https://en.wikipedia.org/wiki/ iosphere 2 (cited on pages 60, 66). 
