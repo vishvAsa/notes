@@ -58,3 +58,9 @@ title: Maratha loss
 > We also see a rush for indigenous sourcing: e.g. the rAjmahal flint mining for flintlocks which in tests proved equal or better than the English counterparts. So that technological element by itself is overplayed in naive presentations of the situation. Finally, it should be noted that the final battles between the marAThA-s and the brits before 1857 CE were lost by the former by a whisker. 
 > 
 > However, I do admit that there were factors underlying the technology that were important in the ultimate defeat of the marAThA-s. As I pointed out, how many marAThA-s by themselves were interested in cataloging and classifying the land snails or pseudoscorpions of India. Therein lay the English genius that ultimately brought down the H. - MT
+
+## Battles
+the battle of Assaye had only 9k Maratha infantry, 500-1k cav vs 10k EIC infantry +2k cav. Of these, 4500 of EIC engaged ~3-4k Marathas, rest marched on to Ajanta.
+
+> "Contradicts mainstream accounts" - mainstream based on Wellesley's imagination? Or the accountant accompanying the Shinde paltans who was an eyewitness to the battle? Since illiteracy is rife obviously the latter's existence is to be ignored.  
+> - prathamesh Godbole

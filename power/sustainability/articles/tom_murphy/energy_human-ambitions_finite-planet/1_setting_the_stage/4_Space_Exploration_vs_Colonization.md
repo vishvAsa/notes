@@ -245,105 +245,145 @@ Figure 4.4: The pink band indicates the farthest humans have been from the surfa
 
 
 ## 4.3 A Host of Difficulties 
-If undeterred by the vast emptiness, hostile conditions, or lack of human- supporting resources in space, then maybe it's because you believe 
+If undeterred by the vast emptiness, hostile conditions, or lack of human- supporting resources in space, then maybe it's because you believe human ingenuity can overcome these challenges. And this is correct to a degree. We have walked on one other solar system body.[^18] We have had individuals spend a year or so in earth orbit. Either these represent first baby steps to a space future, or just rare feats that we can pull off at great effort/expense. How can we tell the difference? 
 
-human ingenuity can overcome these challenges. And this is correct to a degree. We have walked on one other solar system body.[^18] We have had individuals spend a year or so in earth orbit. Either these represent first baby steps to a space future, or just rare feats that we can pull off at great effort/expense. How can we tell the difference? 
-Box 4.4: Comparison to Backpacking 
+[^18]: The last Apollo landing was in 1972.
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Box 4.4: Comparison to Backpacking  
 The way most people experience backpacking is similar to how we go about space exploration: carry on your back all the food, clothing, shelter, and utility devices that will be needed for a finite trip duration. Only air and water are acquired in the wild. For space travel, even the air and water must be launched from Earth. So space travel is like a glorified and hyper-expensive form of backpacking—albeit offering breathtaking views!. 
+</details>
+
 One way to probe the demonstration vs. way-of-the-future question is to list capabilities we have not yet demonstrated in space that would be important for a space livelihood, including: 
+
 1. Growing food used for sustenance; 
-2. Surviving long periods outside of Earth's magnetic protection 
-from cosmic rays;1 
-3. Generating or collecting propulsive fuel away from Earth's surface; 4. Long-term health of muscles and bones for periods longer than a 
-year in low gravity environments; 
-5. Resource extraction for in-situ construction materials; 6. Closed-system sustainable ecosystem maintenance; 7. Anything close to terraforming (see below). 
-It would be easier to believe in the possibility of space colonization if we first saw examples of colonization of the ocean floor.[^20] Such an environ- ment carries many similar challenges: native environment unbreathable; large pressure differential; sealed-off self-sustaining environment. But an ocean dwelling has several major advantages over space, in that food is scuttling/swimming just outside the habitat; safety/air is a short distance away (meters); ease of access (swim/scuba vs. rocket); and all the resources on Earth to facilitate the construction/operation (e.g., Home Depot not far away). 
-Building a habitat on the ocean floor would be vastly easier than trying to do so in space. It would be even easier on land, of course. But we have not yet successfully built and operated a closed ecosystem on land! A few artificial "biosphere" efforts have been attempted, but met with failure [^31]. If it is not easy to succeed on the surface of the earth, how can we fantasize about getting it right in the remote hostility of space, lacking easy access to manufactured resources? 
- 60 
+2. Surviving long periods outside of Earth's magnetic protection from cosmic rays;[^19] 
+3. Generating or collecting propulsive fuel away from Earth's surface; 
+4. Long-term health of muscles and bones for periods longer than a year in low gravity environments; 
+5. Resource extraction for in-situ construction materials; 
+6. Closed-system sustainable ecosystem maintenance; 
+7. Anything close to terraforming (see below). 
 
-[^18]: The last Apollo landing was in 1972. 
+[^19]: The ISS (space station) remains within Earth's protection.
 
-[^19]: The ISS (space station) remains within Earth's protection. 
+It would be easier to believe in the possibility of space colonization if we first saw examples of colonization of the ocean floor.[^20] Such an environment carries many similar challenges: native environment unbreathable; large pressure differential; sealed-off self-sustaining environment. But an ocean dwelling has several major advantages over space, in that food is scuttling/swimming just outside the habitat; safety/air is a short distance away (meters); ease of access (swim/scuba vs. rocket); and all the resources on Earth to facilitate the construction/operation (e.g., Home Depot not far away). 
 
-[^20]: Even just 10 meters under the surface! 
-This is not to advocate ocean floor habi- tation as a good idea; it is merely used to illustrate that space habitation is an even less practical idea, by far. 
-[^31]: (2020), Biosphere 2 
-On the subject of terraforming, consider this perspective. Earth right now has a problem of excess CO2 as a result of fossil fuel combustion (the subject of Chapter 9). The problem has flummoxed our economic and political systems, so that not only do we seem to be powerless to revert to pre-industrial CO2 levels, but even arresting the annual increase in emissions appears to be beyond our means. Pre-industrial levels of CO2 measured 280 parts per million (ppm) of the atmosphere, which we will treat as the normal level. Today's levels exceed 400 ppm, so that the modification is a little more than 100 ppm, or 0.01% of our atmosphere.[^21] Meanwhile, Mars' atmosphere is 95% CO2. So we might say that Earth has a 100 ppm problem, but Mars has essentially a million part-per- million problem. On Earth, we are completely stymied by a 100 ppm 
-CO2 increase while enjoying access to all the resources available to us on the planet. Look at all the infrastructure available on this developed world and still we have not been able to reverse or even stop the CO2 increase. How could we possibly see transformation of Mars' atmosphere into habitable form as realistic, when Mars has zero infrastructure to support such an undertaking? We must be careful about proclaiming notions to be impossible, but we can be justified in labeling them as outrageously impractical, to the point of becoming a distraction to discuss. Figure 4.5 further illustrates the giant gap between tolerable conditions and actual atmospheres on offer in the solar system. 
+(This is not to advocate ocean floor habitation as a good idea; it is merely used to illustrate that space habitation is an even less practical idea, by far.)
+
+Building a habitat on the ocean floor would be vastly easier than trying to do so in space. It would be even easier on land, of course. But we have not yet successfully built and operated a closed ecosystem on land! A few artificial "biosphere" efforts have been attempted, but met with failure [^r31]. If it is not easy to succeed on the surface of the earth, how can we fantasize about getting it right in the remote hostility of space, lacking easy access to manufactured resources? 
+
+[^r31]: Biosphere 2. Wikipedia. Accessed 2020 Aug. 3. 2020. URL: https://en.wikipedia.org/wiki/ iosphere 2 (cited on pages 60, 66).
+
+
+[[60]] 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Terraforming is the speculative idea of transforming a planet so its atmosphere resembles that of Earth (chemical makeup, temperature, pressure) and can support human life.
+</details>
+
+
+On the subject of terraforming, consider this perspective. Earth right now has a problem of excess CO2 as a result of fossil fuel combustion (the subject of Chapter 9). The problem has flummoxed our economic and political systems, so that not only do we seem to be powerless to revert to pre-industrial CO2 levels, but even arresting the annual increase in emissions appears to be beyond our means. Pre-industrial levels of CO2 measured 280 parts per million (ppm) of the atmosphere, which we will treat as the normal level.+++(5)+++ Today's levels exceed 400 ppm, so that the modification is a little more than 100 ppm, or 0.01% of our atmosphere.[^21] Meanwhile, Mars' atmosphere is 95% CO2. So we might say that Earth has a 100 ppm problem, but Mars has essentially a million part-per- million problem. On Earth, we are completely stymied by a 100 ppm 
+CO2 increase while enjoying access to all the resources available to us on the planet.+++(5)+++ Look at all the infrastructure available on this developed world and still we have not been able to reverse or even stop the CO2 increase. How could we possibly see transformation of Mars' atmosphere into habitable form as realistic, when Mars has zero infrastructure to support such an undertaking? We must be careful about proclaiming notions to be impossible, but we can be justified in labeling them as outrageously impractical, to the point of becoming a distraction to discuss. 
+
+[^21]: While the increase from 280 to 400 is about 50%, as a fraction of Earth's total atmosphere, the 100 ppm change is 100 divided by one million (from definition of ppm), or 0.01%.
+
+
+Figure 4.5 further illustrates the giant gap between tolerable conditions and actual atmospheres on offer in the solar system. 
+
+{{< figure src="../images/planet-pressure-temperature-difference.png" title="" class="thumbnail">}}
+
+
+Figure 4.5: Rocky-body atmospheres in the solar system, showing average temperature (Celsius) and pressure (atmospheres). The range of "comfort" for Earth is shown as a blue rectangle going from -10°C to 40°C and 0.2 atm (where the atmosphere would need to be 100% oxygen) to (arbitrarily) 10 atm. Not only are the other bodies far outside our comfort range, the compositions are noxious, and lack oxygen. Bear in mind that a change of even a few degrees- as in climate change is a big deal. Even Mt. Everest, where humans can survive for only a few hours with supplemental oxygen is substantially more hospitable than Mars.
+
 We also should recall the lesson from Chapter 1 about exponential growth, and how the addition of another habitat had essentially no effect on the overall outcome, aside from delaying by one short doubling time. Therefore, even if it is somehow misguided to discount colonization of another solar system body, who cares? We still do not avoid the primary challenge facing humanity as growth slams into limitations in a finite world (or even finite solar system, if it comes to that). 
 
 ## 4.4 Exploration's Role 
 It is easy to understand why people might latch onto the idea that we will likely leverage our exploration of space into ultimate colonization. Much as early explorers of our planet opened pathways for colonization of "new worlds," the parallels in exploring literal new worlds like planets are obvious.[^22] In short, it is a familiar story, and therefore an easy "sell" to primed, undoubting minds. Plus, we're captivated by the novelty and challenge space colonization represents as attested by a vibrant entertainment industry devoted to stories of eventual life in space. But not all exploration leads to settlement, and entertainment is not truth. 
-Humans have explored (a small portion of) the crushing deep ocean, scaled Earth's highest and wholly inhospitable peaks, and visited the harsh ice cap at the north pole. In such instances, we had zero intention of establishing permanent residence in those locations. They represented 
- 61 
-Terraforming is the speculative idea of trans- forming a planet so its atmosphere resem- bles that of Earth (chemical makeup, tem- perature, pressure) and can support human life. 
 
-[^21]: While the increase from 280 to 400 is about 50%, as a fraction of Earth's total atmosphere, the 100 ppm change is 100 divided by one million (from definition of ppm), or 0.01%. 
-Pressure (atm) 
-100 
-10 
-Titan 
-Earth 
-1.0 
-0.1 
-Mt. Everest 
-0.01 
-Mars 
-Venus 
--200-100 0 100 200 300 400 500 
-Temperature (C) 
-Figure 4.5: Rocky-body atmospheres in the solar system, showing average temperature (Celsius) and pressure (atmospheres). The range 
-of "comfort" for Earth is shown as a blue rectangle going from -10°C to 40°C and 0.2 atm (where the atmosphere would need to be 100% oxygen) to (arbitrarily) 10 atm. Not only are the other bodies far outside our comfort range, the composi- tions are noxious, and lack oxygen. Bear in mind that a change of even a few degrees- as in climate change is a big deal. Even Mt. Everest, where humans can survive for only a few hours with supplemental oxygen is substantially more hospitable than Mars. 
+[^22]: Reaching the Americas involved a leap across a span of (life-supporting) ocean about twice the size of Europe. Reaching Mars involves a leap across inhospitable space 5,000 times the diameter of Earth- not very similar at all.
 
-[^22]: Reaching the Americas involved a leap across a span of (life-supporting) ocean about twice the size of Europe. Reaching Mars involves a leap across inhospitable space 5,000 times the diameter of Earth- not very similar at all. 
+Humans have explored (a small portion of) the crushing deep ocean, scaled Earth's highest and wholly inhospitable peaks, and visited the harsh ice cap at the north pole. In such instances, we had zero intention of establishing permanent residence in those locations. They represented places to test our toughness and also learn about new environments. We do not view these sorts of explorations as mistakes just because they did not pave the way for inhabitation. Rather, we speak fondly of such excursions as feathers in our collective cap: feats that make us proud as a species. Space might be viewed in a similar way: superlative in terms of challenge and wonderment, reflecting positively on our curiosity, drive, ingenuity, and teamwork. We also derive benefits[^23] in the way of technological advancement propelled by our quest to explore, and in furthering our scientific understanding of nature. 
 
- 62 
-places to test our toughness and also learn about new environments. We do not view these sorts of explorations as mistakes just because they did not pave the way for inhabitation. Rather, we speak fondly of such excursions as feathers in our collective cap: feats that make us proud as a species. Space might be viewed in a similar way: superlative in terms of challenge and wonderment, reflecting positively on our curiosity, drive, ingenuity, and teamwork. We also derive benefits23 in the way of technological advancement propelled by our quest to explore, and in furthering our scientific understanding of nature. 
-So even if space does not fulfill the fantasy of continued human expansion across the cosmos, it is in our nature to at least explore it. We would do well to put space exploration in the category of conquering Mt. Everest rather than that of Europeans stumbling upon the West Indies (one is as imminently uninhabitable as the other is inhabitable). Let us not make the mistake of applying the wrong narrative to space. 
-Many positive things might be said about space exploration, and hope- fully we continue poking into our outer environment indefinitely. Yet hoping that such exploration is a pathway to human colonization of space is probably wrong and almost certainly counterproductive at present, given the short timescale on which human expansion is likely to collide with Earth's limits. 
+[^23]: among them a deeper appreciation for the rare and precious Earth
+
+So even if space does not fulfill the fantasy of continued human expansion across the cosmos, it is in our nature to at least explore it. We would do well to put space exploration in the category of conquering Mt. Everest rather than that of Europeans stumbling upon the West Indies (one is as imminently uninhabitable as the other is inhabitable).+++(5)+++ Let us not make the mistake of applying the wrong narrative to space. 
+
+Many positive things might be said about space exploration, and hopefully we continue poking into our outer environment indefinitely. Yet hoping that such exploration is a pathway to human colonization of space is probably wrong and almost certainly counterproductive at present, given the short timescale on which human expansion is likely to collide with Earth's limits.
+
 If, in the fullness of time, we do see a path toward practical space colonization, then fine. But given the extreme challenge and cost- both energetically and economically, and for what could only be a tiny footprint in the near term-it seems vastly more prudent to take care of our relationship with Planet Earth first, and then think about space colonization in due time, if it ever makes sense. Otherwise, not only do we spend precious resources unwisely, but (even worse) our mindset is tainted by unrealistic dreams that diminish the importance of confronting the real challenge right here on the ground. We need to have our heads in the real game. Perhaps twenty one pilots said it best in the song Stressed Out: 
-We used to play pretend, give each other different names We would build a rocket ship and then we'd fly it far away 
-Used to dream of outer space but now they're laughing at our face Saying, "Wake up, you need to make money." Yeah. 
+
+> We used to play pretend, give each other different names  
+We would build a rocket ship and then we'd fly it far away  
+Used to dream of outer space but now they're laughing at our face  
+Saying, "Wake up, you need to make money."  
+Yeah. 
+
 Space colonization might be treated as a pretend fantasy for the moment. We would be better off waking up to face real here-and-now challenges. In some sense, perhaps the only way to achieve the dream of migration to space should that be in the cards at all-is to first pretend that it is impossible and turn attention to the pressing matters on Earth. Otherwise we risk failing at both efforts. 
 
-[^23]: 
-among them a deeper appreciation for the rare and precious Earth 
-Despite the pessimistic tone of this chapter, the author is himself captivated by space, and has built a life around it: Star Wars was a transformative influence as a kid, and later Star Trek. The movie The Right Stuff is still a favorite. He has peered to the edge of the universe first through a 10-inch tele- scope he built in high school, and later us- ing the largest telescopes in the world. He has worked on a Space Shuttle experiment, met astronauts, knew Sally Ride, and spent much of his career building and operating a laser system to bounce and detect indi- vidual photons off the reflectors placed on the lunar surface by the Apollo astronauts (as a test of the fundamental nature of grav- ity), which directly inspired part of a Big Bang Theory episode via personal interac- tions with the show's writers. So a deep fondness for space? Yes. Would volunteer to go to the moon or Mars? Yes. Believes it holds the key to humanity's future? No. 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
- 63 
-Box 4.5: Q&A on State of Exploration 
-After reading the first draft of this chapter, students had a number of remaining questions. Here are some of them, along with the author's 
-responses. 
-1. How long before we live on other planets? 
-Maybe never.[^24] The staggering distances involved mean that our own solar system is effectively the only option. Within the solar system, Mars is the most hospitable body-meaning we might live as long as two minutes without life support. By com- parison, Antarctica and the ocean floor are millions of times more practical, yet we do not see permanent settlements there.[^25] 
-2. What is the status of searches for other planets to colonize? 
-We understand our solar system pretty well. No second homes stand out. We have detected evidence for thousands of planets around other stars [^32], but do not yet have the sensitivity to detect the presence of earth-like rocks around most stars. It is conceivable that we will have identified Earth analogs in the coming decades, but they will give new meaning to the words "utterly" and "inaccessible." 
-3. Haven't we benefited from space exploration in the technology 
-spin-offs, like wireless headsets and artificial limbs? 
+Despite the pessimistic tone of this chapter, the author is himself captivated by space, and has built a life around it: Star Wars was a transformative influence as a kid, and later Star Trek. The movie "The Right Stuff" is still a favorite. He has peered to the edge of the universe first through a 10-inch telescope he built in high school, and later using the largest telescopes in the world. He has worked on a Space Shuttle experiment, met astronauts, knew Sally Ride, and spent much of his career building and operating a laser system to bounce and detect individual photons off the reflectors placed on the lunar surface by the Apollo astronauts (as a test of the fundamental nature of gravity), which directly inspired part of a Big Bang Theory episode via personal interactions with the show's writers. 
+
+So a deep fondness for space? Yes.  
+Would volunteer to go to the moon or Mars? Yes.  
+Believes it holds the key to humanity's future? No. 
+</details>
+
+[[63]] 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Box 4.5: Q&A on State of Exploration   
+After reading the first draft of this chapter, students had a number of remaining questions. Here are some of them, along with the author's responses. 
+
+> 1. How long before we live on other planets? 
+
+Maybe never.[^24] The staggering distances involved mean that our own solar system is effectively the only option. Within the solar system, Mars is the most hospitable body-meaning we might live as long as two minutes without life support. By comparison, Antarctica and the ocean floor are millions of times more practical, yet we do not see permanent settlements there.[^25] 
+
+[^24]: True, never is a long time. The notion that we may never colonize space may seem preposterous to you now. Check back at the end of the book. The odds favor a more boring slog, grappling with our place in nature.
+
+[^25]: Staffed research stations are not the same as human settlements, in the case of Antarctica.
+
+> 2. What is the status of searches for other planets to colonize? 
+
+We understand our solar system pretty well. No second homes stand out. We have detected evidence for thousands of planets around other stars [^r32], but do not yet have the sensitivity to detect the presence of earth-like rocks around most stars. It is conceivable that we will have identified Earth analogs in the coming decades, but they will give new meaning to the words "utterly" and "inaccessible." 
+
+[^r32]: IPAC/NASA. NASA Exoplanet Archive. Online catalog. Accessed 2020 Aug. 9. 2020. URL: https://exoplanetarchive.ipac.caltech.edu (cited on page 63).
+
+
+
+> 3. Haven't we benefited from space exploration in the technology spin-offs, like wireless headsets and artificial limbs? 
+
 No doubt! The benefits have been numerous, and I would never characterize our space efforts to date as wasted effort. It's just that what we have done so far in space does not mean that colonization is in any way an obvious or practical next step. Actually, the banner image for this chapter from the Apollo 8 mission captivated the world and made our fragile shell of life seem all the more precious. So perhaps the biggest benefit to our space exploration will turn out to be a profound appreciation for and attachment to Earth! 
 
-[^24]: True, never is a long time. The notion that we may never colonize space may seem preposterous to you now. Check back at the end of the book. The odds favor a more boring slog, grappling with our place in 
-nature. 
+</details>
 
-[^25]: Staffed research stations are not the same as human settlements, in the case of Antarctica. 
-[^32]: IPAC/NASA (2020), NASA Exoplanet Archive 
 
 ## 4.5 Upshot: Putting Earth First 
-The author might even go so far as to label a focus on space colonization in the face of more pressing challenges as disgracefully irresponsible. Diverting attention in this probably-futile26 effort could lead to greater total suffering if it means not only mis-allocation of resources but perhaps 
+The author might even go so far as to label a focus on space colonization in the face of more pressing challenges as disgracefully irresponsible. Diverting attention in this probably-futile[^26] effort could lead to greater total suffering if it means not only mis-allocation of resources but perhaps more importantly lulling people into a sense that space represents a viable escape hatch. Let's not get distracted! 
 
-[^26]: ... at least on relevant time scales 
+[^26]: ... at least on relevant time scales
 
-more importantly lulling people into a sense that space represents a viable 
-escape hatch. Let's not get distracted! 
-The fact that we do not have a collective global agreement on priorities or the role that space will (or will not) play in our future only highlights the fact that humanity is not operating from a master plan27 that has been well thought out. We're simply "winging it," and as a result potentially wasting our efforts on dead-end ambitions. Just because some people are enthusiastic about a space future does not mean that it can or will happen. 
+The fact that we do not have a collective global agreement on priorities or the role that space will (or will not) play in our future only highlights the fact that humanity is not operating from a master plan[^27] that has been well thought out. We're simply "winging it," and as a result potentially wasting our efforts on dead-end ambitions. Just because some people are enthusiastic about a space future does not mean that it can or will happen. 
+
+[^27]: Prospects for a plan are discussed in Chapter 19.
+
 It is true that we cannot know for sure what the future holds, but perhaps that is all the more reason to play it safe and not foolishly pursue a high-risk fantasy.[^28] From this point on, the book will turn to issues more tangibly relevant to life and success on Planet Earth. 
-Box 4.6: Survey Says? 
+
+[^28]: Tempted as we may be by the e-mail offer from the displaced Nigerian prince to help move his millions of dollars to a safe account, most of us know better than to bite. The promise of wealth can lead the gullible to ruin.
+
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Box 4.6: Survey Says?   
 It would be fascinating to do a survey to find out how many people think that we will have substantial populations living off Earth 500 years from now. It is the author's sense that a majority of Americans believe this to be likely. Yet, if such a future is not to be for a host of practical reasons, including the possibility that we falter badly and are no longer in a position to pursue space flight-we would find ourselves in a situation where most people may be completely wrong about the imagined future. That would be a remarkable state of affairs in which to find ourselves-though not entirely surprising. 
+</details>
+
+
  64 
-
-[^27]: Prospects for a plan are discussed in Chapter 19. 
-
-[^28]: Tempted as we may be by the e-mail offer from the displaced Nigerian prince to help move his millions of dollars to a safe account, most of us know better than to bite. The promise of wealth can lead the gullible to ruin. 
 
 ## 4.6 Problems 
 1. If the sun were the size of a basketball, how large would Earth be, and how far away? How large would the moon be, and how far from Earth, at this scale? 

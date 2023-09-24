@@ -2,53 +2,97 @@
 title = "5 Energy and Power Units"
 
 +++
-0% 
-CAPACITY 
-40.0 
-RECOVERY GAL/HR 
-GAS TYPE 
-NATURAL 
-ENERGYGUIDE 
-242 THERMS 
-ESTIMATED YEARLY ENERGY USE 
-YOUR COST WILL DEPEND ON YOUR UTLITY RATES AND USE 
-This chapter provides a baseline for understanding the rest of the content in this book, so that students may learn to interpret and convert units, while building a useful intuition in the process. Sec. A.10 (p. 370) in the Appendices offers some tips on manipulating units and performing unit conversions. 
-Unlike most chapters, this one does not tell a single story or advance our perspective on the world. But it builds a foundation, putting us in a position to start looking at consequential matters of energy use in our society in chapters to come. Hopefully, patience will be rewarded. 
+
+This chapter provides a baseline for understanding the rest of the content in this book, so that students may learn to interpret and convert units, while building a useful intuition in the process. Sec. A.10 (p. 370) in the Appendices offers some tips on manipulating units and performing unit conversions.
+
+Unlike most chapters, this one does not tell a single story or advance our perspective on the world. But it builds a foundation, putting us in a position to start looking at consequential matters of energy use in our society in chapters to come. Hopefully, patience will be rewarded.
+
+
+## 5.0 Pics
+Energy units from everyday life. Clockwise from upper left: 
+
+### a utility bill (kWh and Therms); 
+
+
+Summary of Current Charges  Billing Period   Usage  Amount($)
+Gas  Jun 29, 2020 - Jul 29, 2020  4 Therms  7.01
+Electric  Jun 29, 2020 - Jul 29, 2020  230 kWh  67.20
+Total Charges this Month      $74.21
+
+### and rechargeable AA batteries (2200 mAh, 1.2 V).
+Ni-MH AR2200mAh 1.2V
+
+
+
+### a German nutrition label for Nutella (kJ, kcal); 
+Durchschnittswert  100 g  15 g  %* (15 g)  
+Energie  2252 kJ  336 kJ  4  
+Energie  539 kcal  80 kcal  
+Fett  30,9 g  4,6 g  7  
+davon gesättigte Fettsäuren  10,6 g  1,6 g  8  
+Kohlenhydrate  57,5 g  8,6 g  3  
+davon Zucker  56,3 g  8,4 g  9  
+Eiweiß  6,3 g  0,9 g  
+Salz  0,107 g  0,016 g
+
+*Referenzmenge für einen durchschnittlichen Erwachsenen (8 400 kJ/2 000 kcal).
+
+
+### U.S. nutrition label for peanut butter (Calories; should be kcal); 
+Nutrition Facts  
+14 servings per containter  
+Serving size  2 Tbsp (32g)  
+Amount Per Serving  
+~~Calories~~ kcal! 188  
+% Daily Value
+
+Total Fat  16g  25%  
+Saturated Fat  3g  16%  
+Trans Fat  Og  2
+
+Total Carbohydrate  7g  2%  
+Dietary Fiber 2g 8%  
+Total Sugars 2g  
+Includes Og added sugars 0%  
+Protein  8g  16%  
+Sodium Omg  
+Vitamin D 0%  
+Calcium 1%
+
+### a hot water heater label (Btu/hr); 
+Gas type: natural  
+Capacity 40.0  
+Input BTU/Hr - 40000
+Recovery Gal/hr - 40.94
+
+MODEL NUMBER   GVR 40 100
+
+### EnergyGuide for same hot water heater (Therms); 
+Energy guide - 242 therms  
+estimated yearly energy use.  
+YOUR COST WILL DEPEND ON YOUR UTLITY RATES AND USE
+
+
 
 ## 5.1 Energy (J) 
-First, what is energy? 
-Definition 5.1.1 Energy is defined as the capacity to do work. Work is well-defined in physics as the application of force through a distance.[^1] The colloquial use of the word “work” matches relatively well, in that pushing a large couch across the floor (applying force through a distance) or lifting a heavy box up to a shelf feels like work and can tire you out. 
-The SI unit of force is the Newton (N), breaking down more fundamen- tally to kg m/s2. The best way to remember this is via Newton's Second Law: F = ma (force equals mass times acceleration). Mass has units of kg, and acceleration2 is measured in meters per second squared. 
-Since work is force times distance, the unit for work (and thus energy) is Newtons times meters, or N. m. We give this unit its own name: the 
-Energy units from everyday life. Clockwise from upper left: a utility bill (kWh and Therms); a hot water heater label (Btu/hr); EnergyGuide for same hot water heater (Therms); U.S. nutrition label for peanut butter (Calories; should be kcal); a German nutrition label for Nutella (kJ, kcal); and rechargeable AA batteries (2200 mAh, 1.2 V). 
-5.1 Energy (J) 
-68 
-5.2 Energy Forms & Conservation69 5.3 Power (W) 
-5.4 Kilowatt-hour (kWh) 
-5.5 Calories (kcal) 
-71 
-72 
-73 
-5.6 British Thermal Unit (Btu) 75 
-5.7 Therms ... 
-+ 
-76 
-76 
-78 
-+ 
-79 
-+ 
-79 
-5.8 Electrical Power 
-5.9 Electron Volt (eV) 5.10 Light Energy 5.11 Upshot on Units 5.12 Problems. 
-• 
-80 
+First, what is energy?  
 
-[^1]: This definition applies to the common circumstance when the motion is aligned with the direction of force, like pushing a box across a level floor, propelling a car along the road, or lifting a weight. 
+Definition 5.1.1  
+Energy is defined as the capacity to do work.  
+Work is well-defined in physics as the application of force through a distance.[^1] The colloquial use of the word “work” matches relatively well, in that pushing a large couch across the floor (applying force through a distance) or lifting a heavy box up to a shelf feels like work and can tire you out. 
 
-[^2]: Acceleration is the rate of change of ve- locity. Since velocity is measured in meters per second, the rate at which it changes will be meters per second per second, or m/s/s, or m/s2. Some students may know that gravitational acceleration on Earth's surface is 9.8 m/s2, which is another way to remember. 
+[^1]: This definition applies to the common circumstance when the motion is aligned with the direction of force, like pushing a box across a level floor, propelling a car along the road, or lifting a weight.
 
-Joule (J). Thus, the application of 1 N of force across a distance of 1 m constitutes 1 J of work, requiring 1J of energy to perform. Table 5.1 offers contextual examples (unit prefixes are on page 420). 
+
+The SI unit of force is the Newton (N), breaking down more fundamen- tally to kg m/s2. The best way to remember this is via Newton's Second Law: F = ma (force equals mass times acceleration). Mass has units of kg, and acceleration[^2] is measured in meters per second squared. 
+
+[^2]: Acceleration is the rate of change of ve- locity. Since velocity is measured in meters per second, the rate at which it changes will be meters per second per second, or m/s/s, or m/s2. Some students may know that gravitational acceleration on Earth's surface is 9.8 m/s2, which is another way to remember.
+
+
+Since work is force times distance, the unit for work (and thus energy) is Newtons times meters, or N. m. We give this unit its own name: the Joule (J). Thus, the application of 1 N of force across a distance of 1 m constitutes 1 J of work, requiring 1J of energy to perform. Table 5.1 offers contextual examples (unit prefixes are on page 420). 
+
+
+
 Example 5.1.1 Several examples3 illustrate force times distance, the first two amounting to one Joule of energy: 
 - Pushing a book across a table, applying 2 N of force and sliding it 0.5 m amounts to 1 J of work. 
 - Pushing a matchbox toy car across the floor might require only 0.1 N of force. One would have to push it through a distance of 10 m to make up one Joule of energy. 

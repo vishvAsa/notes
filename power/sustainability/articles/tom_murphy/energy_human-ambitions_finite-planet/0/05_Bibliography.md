@@ -10,10 +10,6 @@ References are in order of appearance in the book.
 
 
 
-[^r31]: Biosphere 2. Wikipedia. Accessed 2020 Aug. 3. 2020. URL: https://en.wikipedia.org/wiki/ iosphere 2 (cited on pages 60, 66). 
-
-
-[^r32]: IPAC/NASA. NASA Exoplanet Archive. Online catalog. Accessed 2020 Aug. 9. 2020. URL: https://exoplanetarchive.ipac.caltech.edu (cited on page 63). 
 
 
 [^r33]: M Kleiber. "Body size and metabolic rate". In: Physiological Reviews 27.4 (1947), pp. 511–541. OI: 10.1152/physrev.1947.27.4.511 (cited on page 72). 
