@@ -86,53 +86,53 @@ Work is well-defined in physics as the application of force through a distance.[
 
 The SI unit of force is the Newton (N), breaking down more fundamen- tally to kg m/s2. The best way to remember this is via Newton's Second Law: F = ma (force equals mass times acceleration). Mass has units of kg, and acceleration[^2] is measured in meters per second squared. 
 
-[^2]: Acceleration is the rate of change of ve- locity. Since velocity is measured in meters per second, the rate at which it changes will be meters per second per second, or m/s/s, or m/s2. Some students may know that gravitational acceleration on Earth's surface is 9.8 m/s2, which is another way to remember.
+[^2]: Acceleration is the rate of change of velocity. Since velocity is measured in meters per second, the rate at which it changes will be meters per second per second, or m/s/s, or m/s2. Some students may know that gravitational acceleration on Earth's surface is 9.8 m/s2, which is another way to remember.
 
 
 Since work is force times distance, the unit for work (and thus energy) is Newtons times meters, or N. m. We give this unit its own name: the Joule (J). Thus, the application of 1 N of force across a distance of 1 m constitutes 1 J of work, requiring 1J of energy to perform. Table 5.1 offers contextual examples (unit prefixes are on page 420). 
 
 
+Table 5.1: Approximate energy for familiar activities. The first freeway example is just kinetic energy; the second is the energy cost of a whole trip.
 
-Example 5.1.1 Several examples3 illustrate force times distance, the first two amounting to one Joule of energy: 
+Action  Energy  
+Nerf football toss  15 J  
+Lift loaded bookbag  100 J  
+Fast-pitch baseball  120 J  
+Speeding bullet  5 kJ  
+Charge cell phone  30 kJ  
+Car on freeway (K.E.)  675 kJ  
+human daily diet  8 MJ   
+1 hour freeway drive  250 MJ
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Example 5.1.1  
+Several examples[^3] illustrate force times distance, the first two amounting to one Joule of energy: 
+
 - Pushing a book across a table, applying 2 N of force and sliding it 0.5 m amounts to 1 J of work. 
-- Pushing a matchbox toy car across the floor might require only 0.1 N of force. One would have to push it through a distance of 10 m to make up one Joule of energy. 
-A car on level ground may require 150 N of force to roll against friction. Pushing a car 5 m would then require 750 J of work. 
-Writing out Newtons as kg m/s2, we find that the unit of energy amounts to J = Nm = kg m2/s2. Notice that this looks like mass times velocity-squared. Box 5.1 explores how this makes a lot of sense. 
-Box 5.1: The Units Make Sense! 
-Think about the famous equation E = mc2. Energy is mass times the speed of light squared. The units work! 
-Also, kinetic energy is K.E. = mv2, telling a similar story in terms of units: mass times velocity-squared. 
-Gravitational potential energy is just the weight of an object times the height it is lifted through. The weight (force) is mass (m) times the acceleration due to gravity (g), so that lifting (applying a force equal to the weight) through a height (h) results in a potential energy gain of P.E. = mgh. The units again check out as 
-m 
-mgh → kg. 
-m = 
-s2 
-kg.m m kg m2 
-s2 
-s2 
-= J. 
-5 Energy and Power Units 
-69 
-Table 5.1: Approximate energy for familiar activities. The first freeway example is just kinetic energy; the second is the energy cost of a whole trip. 
-Action 
-Energy 
-Nerf football toss Lift loaded bookbag 
-15 J 
-100 J 
-Fast-pitch baseball 
-120 J 
-Speeding bullet 
-5 kJ 
-Charge cell phone Car on freeway (K.E.) human daily diet 
-30 kJ 
-675 kJ 
-8 MJ 
-250 MJ 
-1 hour freeway drive 
+- Pushing a matchbox toy car across the floor might require only 0.1 N of force. One would have to push it through a distance of 10 m to make up one Joule of energy.
+- A car on level ground may require 150 N of force to roll against friction. Pushing a car 5 m would then require 750 J of work.
 
-[^3]: For examples like these, framed as state- ments and not questions, you can practice solving several types of problems by cov- ering up one number and then solving for it using still-available information. So each statement can be seen as several examples in one! 
-More on mass-energy in Chapter 15. 
-More on kinetic energy in Chapter 12. 
-More on gravitational potential energy in Chapter 11. 
+[^3]: For examples like these, framed as statements and not questions, you can practice solving several types of problems by covering up one number and then solving for it using still-available information. So each statement can be seen as several examples in one!
+</details>
+
+Writing out Newtons as kg m/s2, we find that the unit of energy amounts to J = Nm = kg m2/s2. Notice that this looks like mass times velocity-squared. Box 5.1 explores how this makes a lot of sense. 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Box 5.1: The Units Make Sense!  
+Think about the famous equation E = mc2. Energy is mass times the speed of light squared. The units work! More on mass-energy in Chapter 15.  
+Also, kinetic energy is K.E. = mv2, telling a similar story in terms of units: mass times velocity-squared. More on kinetic energy in Chapter 12.  
+Gravitational potential energy is just the weight of an object times the height it is lifted through. The weight (force) is mass (m) times the acceleration due to gravity (g), so that lifting (applying a force equal to the weight) through a height (h) results in a potential energy gain of P.E. = mgh. More on gravitational potential energy in Chapter 11.  
+The units again check out as $mgh → kg m m /s^2 = J$.
+</details>
+
+ 
+69 
+
+
+
+ 
 
 [^4]: Another example of work (energy) being force times distance. 
 
@@ -143,40 +143,29 @@ We'll encounter other ways to describe energy in this book, but any energy unit 
 ## 5.2 Energy Forms and Conservation 
 Energy manifests in a variety of forms, which we will treat in greater detail in application-specific chapters in Part III of this text. For now we just want to name them and point to related chapters and applications, as is done in Table 5.2. 
 
-Energy Form 
-Formula Chapter(s) Applications 
-gravitational potential 
-mgh 
-11, 16 
-hydroelectric, tidal 
-kinetic 
-mv2 
-12, 16 
-wind, ocean current 
-photon/light 
-hv 
-13 
-solar 
-chemical 
-H-TS 
-8,14 
-fossil fuels, biomass 
-thermal 
-CpmɅT 
-6, 16 
-electric potential 
-qV 
-15 
-mass (nuclear) 
-mc2 
-15 
-geothermal, heat engines batteries, nuclear role fission and fusion 
-5 Energy and Power Units 
-70 
-Table 5.2: Energy forms. Exchange is possi- ble between all forms. Chemical energy is represented here by Gibbs free energy. 
+Energy Form  Formula  Chapter(s)  Applications 
+gravitational potential   mgh   11, 16  hydroelectric, tidal  
+kinetic  mv2  12, 16  wind, ocean current  
+photon/light  hν  13  solar  
+chemical  H-TS  8,14  fossil fuels, biomass  
+thermal $c_pmΔT$  6, 16  geothermal, heat engines  
+electric potential  qV  15  batteries, nuclear role  
+mass (nuclear)  mc2  15  fission and fusion
+
+
+Table 5.2: Energy forms. Exchange is possible between all forms. Chemical energy is represented here by Gibbs free energy.
+
+[[70]] 
+
 A bedrock principle of physics is conservation of energy, which we take to never be violated in any system, ever. What this means is that energy can flow from one form to another, but it is never created or destroyed. 
-Box 5.2: Energy: The Money of Physics 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Box 5.2: Energy: The Money of Physics  
 A decent way to conceptualize energy conservation is to think of it as the money of physics. It may change hands, but is not created or destroyed in the exchange. A large balance in a bank account is like a potential energy: available to spend. Converting to another form-like heat or kinetic energy-is like the act of spending money. The rate of spending energy is called power. 
+</details>
+
+
 Example 5.2.1 traces a few familiar energy conversions, and Figure 5.1 provides an example illustration. A more encompassing narrative connecting cosmic sources to daily use is provided in Sec. D.2.2 (p. 395). 
 Example 5.2.1 Various illustrative examples: 
 - A rock perched on the edge of a cliff has gravitational potential energy. When it is pushed off, it trades its potential energy for kinetic energy (speed) as it races toward the ground. 
@@ -207,7 +196,7 @@ Before getting to the various common units for energy, we should absorb the very
 Definition 5.3.1 Power is simply defined as energy per time: how much energy is expended in how much time. The SI unit is therefore J/s, which we rename Watts (W). 
 While energy is the capacity to do work, it says nothing about how quickly that work might be accomplished. Power addresses the rate at which energy is expended. Figure 5.2 provides a sense of typical power levels of familiar animals and appliances. 
 Example 5.3.1 Lifting a 10 kg box, whose weight is therefore about 100 N, through a vertical distance of 2 m requires about 200 J of energy. If performed in one second, the task requires 200 W (200 Joules in one second). Stretching the same task out over four seconds requires only 50 W. 
-5 Energy and Power Units 
+ 
 71 
 The differences between kinetic and ther- mal energy is about coherence, in that we characterize the kinetic energy of a raindrop by its bulk motion or velocity. Meanwhile, water molecules within the drop are zipping about in random directions and at very high speeds exceeding 1,000 meters per second. 
 
@@ -233,7 +222,7 @@ chimpanzee (53 W)
 large/active human (145 W) 
 cow (375 W) 
 - rice cooker (500 W) 
-5 Energy and Power Units 
+ 
 electric kettle (920 W) 
 heating appliance (1,500 W) 
 average global citizen (2,300 W) 
@@ -284,7 +273,7 @@ it use?
 Well, it depends on how long it's on. If it is never turned on, it uses no energy. If it is on for 10 seconds, it uses far less than if it's on for a day. 
 The characteristic quality of the light bulb is the power it expends when it's on-in this case 100 W. It only has one speed. In analogy to a car and speedometer, it's similar to saying that a car travels at a constant speed,[^13] and asking how far it travels. Well, it depends on how much time it spends traveling at speed. 
 So view kWh (energy) as an accumulated amount that increases with time. On the other hand, kW is a rate of energy expenditure. 
-5 Energy and Power Units 
+ 
 73 
 
 [^9]: A Wh is one-thousandth of a kWh, not surprisingly. 
@@ -317,7 +306,7 @@ Injecting 40 kcal of energy into a 2 L (2 kg) bottle of water will heat it by 20
 Drinking 250 mL of ice-cold water and heating it up to body tempera- ture (thus raising its temperature by approximately 35 degrees) will take about 8,750 cal, or 8.75 kcal, or a bit over 36 kJ of 
 energy. 
 It is usually sufficient to remember that the conversion factor between calories and Joules is about 4.2-or just 4 if performing a crude calcula- tion. 
-5 Energy and Power Units 
+ 
 74 
 
 [^15]: Human metabolism is not the same as heating water, but the energy involved can still be counted in an energy unit that is defined in terms of heating water. It's still just energy. 
@@ -345,7 +334,7 @@ Notice that we did not apply an explicit formula in Example 5.5.3. By proceeding
 [^17]: Make sure this is clear to you; by under- standing, we are installing concepts instead of formulas, which are more powerful and lasting. 
 Appendix Sec. A.8 (p. 368) addresses this philosophy in a bit more detail. 
 formula, but we implicitly create the formula on the fly by recognizing that the amount of energy required should scale with the mass of water and with the amount of temperature increase. Hopefully, this approach leads to a deeper understanding of the concept, while printing a formula on the page might short-circuit comprehension. 
-5 Energy and Power Units 
+ 
 75 
 This would be an excellent oppor- tunity to create your own formula to capture the idea, like an expert! 
 5.6 British Thermal Unit (Btu) 
@@ -382,7 +371,7 @@ The Therm is partly adopted for the near-convenience that 100 cubic feet of natu
 Example 5.7.1 It might take approximately 10,000 kcal of energy27 to heat a fresh infusion of cold water into a hot water heater tank. How many Therms is this? 
 We do a two-step conversion: first, 10,000 kcal is 41.84 MJ, which at 1,055 J per Btu computes to about 40,000 Btu, which is the same as 0.4 Therm, requiring approximately 40 cubic feet of natural gas, or a little less than half-a-gallon (about 2 L) of liquid propane. 
 If we learn that the hot water heater is rated at 30,000 Btu per hour, it will take an hour and 20 minutes to complete the job. 
-5 Energy and Power Units 76 
+ 76 
 
 [^23]: 30,000 Btu/hr is equivalent to 8,800 W, as worked out above. 
 
@@ -401,7 +390,7 @@ Electronic interactions are governed by charges pushing on each other. For the p
 Voltage is a measure of electric potential, in Volts, and can be thought of as analogous to how high something is lifted.[^28] A higher voltage is like sitting higher on the shelf, and can do more work if allowed to be released. 
 Charge is moved around by electrical forces, and the amount of charge moved plays a role similar to that of mass in gravitational settings. The unit of charge is the Coulomb (C), and the smallest unit of charge we encounter in normal situations is from the proton (+1.6 × $10^{-19}$ C) or the electron (-1.6 x $10^{-19}$ C). 
 Definition 5.8.1 The amount of energy in a charge, q, at a voltage, V, is 
-5 Energy and Power Units 
+ 
 77 
 
 [^28]:... making electric potential a lot like gravitational potential energy in flavor 
@@ -431,7 +420,7 @@ Example 5.8.2 A typical 9-volt battery has a capacity of 500 mAh. How much energ
 500 mAh is 0.5 Ah. Multiplying by 9 V produces 4.5 Wh. Recall that 1 Wh is 1 J/s times 3,600 s (one hour), or 3,600 J. So 4.5 Wh is 16.2 kJ. 
 How long can we power a 1 W LED array from this battery? We can go the long way (16.2 kJ divided by 1J/s) and say 16,200 seconds, or recognize that a 4.5 Wh battery can dispense 1 W for 4.5 hours. It's the same either way. 
 33 
-5 Energy and Power Units 
+ 
 78 
 
 [^33]: Approaching a problem from multiple directions provides validation and also pro- motes greater flexibility. 
@@ -455,7 +444,7 @@ Because CO2 has a total of four bonds between the carbon atom and the two oxygen
 
 [^37]: Each carbon-to-oxygen link is a double bond, meaning that two electrons partici- pate in the link, for a total of four. 
 
-5 Energy and Power Units 
+ 
 79 
 5.10 Light Energy 
 Light energy and its spectrum will be explored more extensively in Chapter 13, but the main concepts are covered here for completeness. 
@@ -489,7 +478,7 @@ Example 5.10.2 The red-end of the visible spectrum, around 0.7 μm, corresponds 
 Every chapter has an upshot, usually distilling key lessons from the chapter or offering final thoughts. Such a treatment is not necessary here, although we could reinforce the idea that energy can always be expressed in Joules, or converted into any of the units described in the chapter. Also critical is the notion that energy is conserved-only exchanging from one form to another but never truly disappearing or coming from nowhere. 
 Students may wish to see a master table of conversions between all the units discussed-and what a glorious table this would be! But it is intentionally left out for three reasons: 
 
-5 Energy and Power Units 
+ 
 80 
 1. It could short-circuit your effort to learn the material; 
 2. Problems will ask you to do some of this; 
@@ -525,7 +514,7 @@ many kcal will it take to heat 1 liter of water (e.g., in a pot) from room tempe
 17. Based on the peanut butter label in the chapter banner image (page 68), showing 188 Cal per 32 g serving, how much mass of peanut butter would need to be consumed daily to constitute a 2,000 kcal/day diet? If a baseball has a mass of 145 g, how many baseballs of peanut butter would need to be consumed each day? 
 18. A generic $10 pizza might contain about 2,500 kcal. What is this in kWh? Electricity typically costs $0.15 per kWh,[^44] so how much would a pizza's amount of energy cost in electrical terms? Which of the two is a cheaper form of energy? 
 19. A refrigerator cycles on and off. Let's say it consumes electrical power at a rate of 150 W when it's on, and (essentially) 0 W when it's off. If it spends half of its time in the on-state, what is its average power? How much energy does it consume in a 24-hour day, in 
-5 Energy and Power Units 81 
+ 81 
 
 [^42]: Ignoring inefficiencies of moving legs, rounding flights, etc. 
 
@@ -549,7 +538,7 @@ maintain heat?
 26. The chapter banner image (page 68) shows data from the author's utility bill, reflecting 230 kWh of electricity and 4 Therms of gas usage. Annoyingly, the units are different. How do the actual energies compare, if expressed in the same units?51 How would you capture in a simple sentence the approximate comparison of energy use for each? 
 27. The chapter banner image (page 68) shows part of the hot water heater label in the author's home, showing a rating of 40,000 Btu/hr. How much power is it capable of putting out, in Watts? 
 28. The chapter banner image (page 68) shows the energy label associ- ated with the author's hot water heater, estimating that it will use 242 Therms per year. If the estimated energy cost is distributed evenly across 12 months, what would the utility bill be expected to report? Based on an actual utility bill in the same image, the usage for one billing period was 4 Therms. How does actual usage compare to estimated usage, as an approximate percentage? 
-5 Energy and Power Units 
+ 
 82 
 Hint: either treating it as if it is only on for 12 hours, or operating at half-power for 24 hours will yield equivalent answers. 
 For instance, if the temperature differ- ence is 10°C, the house will require 2,000 W of steady input to maintain temperature. 
@@ -587,7 +576,7 @@ To: Btu
 1 
 To: Therms 
 1 
-5 Energy and Power Units 
+ 
 83 
 Hint: useful to convert to Therms/hr 
 Not all these conversions are likely to be useful, but a few will come up in practice. 

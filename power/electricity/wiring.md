@@ -65,3 +65,12 @@ title = "Wiring"
 ### Other fuse types
 - Cartridge Fuse
 
+## Surge protector
+- Portable ones come in plug form.
+- Metrics
+  - Voltage protection level eg. 1.5kv
+  - Max/ nominal discharge current  eg. 10kA
+  - Type
+    - Type 3 (socket module)
+  - Reviews
+    - Check for keywords - "fire"
