@@ -39,12 +39,14 @@ Instead of concessions  under  this  scheme,  one  choose  to  avail  of  leave 
 - a) Journey by Air / Rail / Steamer.- Same as on Tour/ Transfer but the facility of Air Travel for LTC is admissible only from Level 9.
 - b) Travel by premium trains.-From 1-7-2017, travel by premium trains/ premium akal trains, suvidha trains is permissible and the tatkal or premium charges shall also be reimbursable.
 
-Air tickets should be purchased from (Helper at NCBS - sharat):
+Air tickets should be purchased from ([F. No. 31011/12/2022-Estt.A-IV](https://dopt.gov.in/sites/default/files/Instructions%20on%20booking%20of%20LTC.PDF)):
 
 - [IRCTC](https://www.air.irctc.co.in/) 
   - sharat NCBS - "more responsive than balmerlawrietravelapp".
 - [balmerlawrietravelapp site](https://govemp.balmerlawrietravelapp.com/)
 - Ashok Travels
+- "In case of unavoidable circumstances, where the booking of ticket is done from unauthorized travel agent/website, the Financial Advisors of the Ministry/Department and Head of Department not below the rank of Joint Secretary in subordinate/attached offices are authorized to grant relaxation. "
+  - Allianceair, owned by government as of 2023, connects remote airports - [ALL](https://bookme.allianceair.in/booking/form).
 
 - Air - Baggage fees allowed (2022 office email).
 

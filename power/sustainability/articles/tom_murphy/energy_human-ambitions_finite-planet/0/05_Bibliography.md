@@ -18,7 +18,7 @@ References are in order of appearance in the book.
 [^r34]: U.S. Energy Inform. Administration. Annual Energy Review. 2011. URL: https://www.eia.gov/totalenergy/data/annual/index.php (cited on pages 84, 89, 102, 103, 107, 130, 170, 229, 230, 22). 
 
 
-[^r35]: LLNL. Energy Flow Charts. Online. Accessed 2020 Dec. 29. 2019. URL: https://flowcharts. lnl.gov/ (cited on page 105). 
+[^r35]: LLNL. Energy Flow Charts. Online. Accessed 2020 Dec. 29. 2019. URL: https://flowcharts.lnl.gov/ (cited on page 105). 
 
 
 [^r36]: R M Suits, NJ Matteson, and EJ Moyer. U.S. Energy History Visualization. Online. Accessed 021 Feb. 6. Nov. 2020. URL: https://us-sankey.rcc.uchicago.edu/ (cited on page 105). [^r37]: International Energy Admin. Electricity Information: Overview. Online. Accessed 2020 Dec. 6. July 2020. URL: https://www.iea.org/reports/electricity-information - overview (cited on page 107). 
