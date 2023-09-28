@@ -3,7 +3,7 @@ title = "kiDAmbi Achan"
 +++
 
 रामानुज-पदाम्भोज-युगली यस्य धीमतः।  
-प्राप्यं च प्रापकं वन्दे प्रणतार्थिहरं गुरुम्॥
+प्राप्यं च प्रापकं वन्दे प्रणतार्तिर्हरं गुरुम्॥
 
 Kidambi Achan was born in the village “Kidambi” located between Kooram and Thiruputkuzhi near Kanchipuram in the year 1057 A.D.in the tamil month of Chithirai on Hasta Nakshatara day in Atreya gothram.
 
