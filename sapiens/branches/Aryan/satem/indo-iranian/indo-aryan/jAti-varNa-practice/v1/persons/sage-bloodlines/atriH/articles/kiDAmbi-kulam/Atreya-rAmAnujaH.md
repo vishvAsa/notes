@@ -82,8 +82,9 @@ title "Vaadihamsaambuvaahar". Appillar's works include his treatise on Nyaya
 shastra known as "Nyaya kulisha".
 
 His taniyans are as follows -
-chaitrArdrAsambhavaM kAnchyAM rangarAjagurossutam |
-supratishTAMshamAthreyaM rAmAnuja guruM bhaje ||
+
+चैत्रार्द्रा-सम्भवं काञ्च्यां रङ्गराजगुरोस् सुतम्।  
+सुप्रतिष्ठांशम् आत्रेयं रामानुजगुरुं भजे॥  
 
 ## Works on Appullar
 Swamy Deshikan makes innumerable mentions about Swamy Athreya Ramanuja in

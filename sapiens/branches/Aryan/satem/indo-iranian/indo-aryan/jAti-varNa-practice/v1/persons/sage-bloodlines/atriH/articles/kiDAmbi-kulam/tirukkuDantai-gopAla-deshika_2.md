@@ -1,5 +1,5 @@
 +++
-title = "gopAla-deshikaH"
+title = "gopAla-deshikaH 2"
 +++
 
 
@@ -9,7 +9,10 @@ Thirunakshatram: Purattasi Puradam (Purva Ashadha)
 
 Thaniyan
 
-śrī kṛṣṇa-deśika-padāmbuja bhṛñga-rājaṁvedānta lakṣmaṇa-munīndra kṛpātta-bodhaṁtraiyanta-deśika yatīndra śaṭāri-mūrtiṁgopāla-deśika śikhāmaṇiṁ-āśrayāmaḥ
+śrī kṛṣṇa-deśika-padāmbuja bhṛñga-rājaṁ  
+vedānta lakṣmaṇa-munīndra kṛpātta-bodhaṁ  
+traiyyanta-deśika yatīndra śaṭāri-mūrtiṁ  
+gopāla-deśika śikhāmaṇiṁ-āśrayāmaḥ
 
 Translation
 

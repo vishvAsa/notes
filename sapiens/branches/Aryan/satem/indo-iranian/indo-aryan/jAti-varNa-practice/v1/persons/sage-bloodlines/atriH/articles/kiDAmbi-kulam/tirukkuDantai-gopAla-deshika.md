@@ -40,8 +40,8 @@ Those who visit Sri AarAvamudhan's temple at Thirukkudanthai can be blessed to h
 Just as ThiruppANAzhwAr saluted the SarvAngha soundharyam of Lord RanganAthA through the ten verses of "Amalan Aadhi pirAn" and provided the inspiration for Swami Desiakn to enjoy the insatiable beauty of the limbs of the Lord of Rangam in deva bhAshA  to give us " Sri Bhagavadh DhyAna sOpanam " , Thirukkudanthai Desikan described the limitless beauty of the limbs of Sri AarAvamudhan in his "ApayApthAmr*utha dhyAna sOpAnam " . 
 
 
-श्रीमुनित्रयसिद्धान्त-पद्मिन्य्-उल्लास-भास्करः।  
-गोपालदेशिकः श्रीमान् जीयात् सन्ततं भुवि॥
+श्रीमुनित्रयसिद्धान्त-पद्मिन्य्--उल्लास-भास्करः।  
+गोपालदेशिकः श्रीमान् जेजीयात् सन्ततं भुवि॥
 
 ## Works
 
