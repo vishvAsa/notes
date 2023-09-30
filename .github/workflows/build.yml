@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Inject slug/short variables
-        uses: rlespinasse/github-slug-action@v4
+        uses: rlespinasse/github-slug-action@v4.4.1
       - name: Checkout
         id: checkout
         uses: actions/checkout@master
@@ -26,7 +26,7 @@ jobs:
       - name: Get changed files
         id: changed-files
         if: ${{ github.event_name != 'workflow_dispatch' }}
-        uses: rlespinasse/github-slug-action@v4
+        uses: rlespinasse/github-slug-action@v4.4.1
       - id: filter_changed_files
         if: ${{ steps.changed-files.conclusion == 'success'}}
         uses: actions/github-script@0.9.0
