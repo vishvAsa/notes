@@ -26,3 +26,13 @@ Little evidence a Pr-Dr word for elephant even existed, leave alone the claim ma
 
 Among other things no Pr-Dr reconstruction would accommodate a pillu or related form for pal+V. It likely comes from a "Nostratic"-like earlier layer with cognates in Uralic, Afroasiatic, Chuchi-Kamchatkan for bite.
 
+## Bonta paper 2023
+Harappan being Dravidian is a rather unfounded claim; hence, I think Steve Bonta is correct in dispelling rather strongly the idea that it was Dravidian -- he is a dravidianist himself. I think he has made a real contribution to understanding the Harappan script in defining the fields P,M,C, T and their sub-structure. I also think he may have found something meaningful in his analysis of the so-called "M" field. I find his readings more "believable" than another recent IA interpretation which was posted by a person called yaj~nadeva. However, that doesn't mean I believe them or am convinced by them. Could there be something to his findings?
+
+1. If the Southern Arc theory of the Harvard lab has something to it & Harappans are related to the Southern Arc then there could be a remote similarity between the S.arc languages & Harappan. In that case, Bonta's observations might be features shared by those and old IE. 
+2. I think he might have correctly noticed that it is encoding a language that tends to form samAsa-s probably both bahuvrIhi-s & multiple compound tat-puruSha-s among others. 
+3. I also think along the lines of Bonta's suggestions the U-shaped "jar" symbol is a genitive marker like "asya" (OIA) or assa (MIA) of later epigraphy. 
+4. I don't think that the interpretation of the up-arrow glyph as "iSh" from "iShu" is tenable in Skt interpretation. It could be a genitive of another gender or maybe another possessive marker e.g., iya; even in RV: ashv(i)yo vAraH; unless he is taking it as locative plural in Skt -- but what about singulars then?
+5. I'm dubious of the terminal 3 being associated with -tR^i suffix nouns. In nominative they take forms like pitA or genitive pituH making it unlikely that they are just placed in root form. 
+6.pu/bhu conflation -- both deaspiration and varga change are atypical of IA though it happens to IA loans in Tam. Hence, p/bh equivalence looks dubious in his readings. 
+7. He believes that there are horse-names in Harappan -- they are rare. That's a peculiar claim given the horse problem -- they are quite different from the abundant horse names seen in the Mitanni sphere. I remain most skeptical of those. 
