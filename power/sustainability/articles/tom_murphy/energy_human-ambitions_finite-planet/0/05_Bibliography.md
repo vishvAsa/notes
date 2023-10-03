@@ -21,7 +21,10 @@ References are in order of appearance in the book.
 [^r35]: LLNL. Energy Flow Charts. Online. Accessed 2020 Dec. 29. 2019. URL: https://flowcharts.lnl.gov/ (cited on page 105). 
 
 
-[^r36]: R M Suits, NJ Matteson, and EJ Moyer. U.S. Energy History Visualization. Online. Accessed 021 Feb. 6. Nov. 2020. URL: https://us-sankey.rcc.uchicago.edu/ (cited on page 105). [^r37]: International Energy Admin. Electricity Information: Overview. Online. Accessed 2020 Dec. 6. July 2020. URL: https://www.iea.org/reports/electricity-information - overview (cited on page 107). 
+[^r36]: R M Suits, NJ Matteson, and EJ Moyer. U.S. Energy History Visualization. Online. Accessed 021 Feb. 6. Nov. 2020. URL: https://us-sankey.rcc.uchicago.edu/ (cited on page 105). 
+
+
+[^r37]: International Energy Admin. Electricity Information: Overview. Online. Accessed 2020 Dec. 6. July 2020. URL: https://www.iea.org/reports/electricity-information - overview (cited on page 107). 
 
 
 [^r38]: MK Hubbert. "Energy resources: a report to the Committee on Natural Resources of the National Academy of Sciences; National Research Council". In: (Dec. 1962). Figure 54, p. 91 (cited on page 116). 
