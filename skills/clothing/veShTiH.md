@@ -52,7 +52,7 @@ title = "वेष्टिः"
 - [अत्र](https://www.youtube.com/watch?v=Y1YNKCLs58U) ।
 
 ## जैनरीतिः
-- वेगवद्रीतिः [अत्र](https://www.youtube.com/watch?v=ZJ8pa9_2MCY)।
+- वेगवद्रीतिः [अत्र](https://www.youtube.com/watch?v=ZJ8pa9_2MCY)। अत्र युतकवद् उत्तरीय-वन्धनम् अपि प्रदर्शितम्। 
 
 ## विपरीतकच्छम्
 {{< figure src="../images/veShTiH_viparIta-kachCham.jpg" title="" class="thumbnail">}}
