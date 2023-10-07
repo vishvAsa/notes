@@ -695,22 +695,11 @@ _**Govt. of India’s Decision**_
 
 _Example.
 
-If the total distance by the longer route is 1,100 miles and that by the shortest route is 1,000 miles and if the Government servant concerned has travelled the initial 800 miles by II Class and the remaining 300 miles by I Class, Government’s share of reimbursement of the expenditure incurred in this case_ _should be as follows:-_
+If the total distance by the longer route is 1,100 miles and that by the shortest route is 1,000 miles and if the Government servant concerned has travelled the initial 800 miles by II Class and the remaining 300 miles by I Class, Government’s share of reimbursement of the expenditure incurred in this case should be as follows:-
 
-- (i) Mileage for which II Class fare will be admissible- Distance actually travelled by II Class X Total distance by the shortest route  
+- (i) Mileage for which II Class fare will be admissible- Distance actually travelled by II Class X Total distance by the shortest route / Total distance by the longer route = 800 X1,000/ 1,100 =727 miles (roundly)  
 
-  Total distance by the longer route
-
-  = 800 X1,000 =727 miles (roundly)  
-  1,100
-
-- ii) Mileage for which II Class fare will be admissible-
-
-Distance actually travelled by I Class X Total distance by the shortest route  
-Total distance by the longer route
-
-_= 300 X1,000 =273 miles (roundly)  
-_ _1,100_
+- ii) Mileage for which II Class fare will be admissible- Distance actually travelled by I Class X Total distance by the shortest route / Total distance by the longer route = 300 X1,000/ 1,100 =273 miles (roundly) 
 
 
 - (MHA OM No. 43/10/58-Ests.(A) dated 11.4.1958 and 29.5.1958 and F. 31011/9/78-Est.(A), dated 24.7..1980\]
