@@ -8,7 +8,7 @@ CENTRAL CIVIL SERVICES
 
 **(LEAVE TRAVEL CONCESSION) RULES, 1988)**
 
-## 1 Short title,commencement and application.
+## 01 Short title,commencement and application.
 
 - (1) These rules may be called the Central Civil Services (Leave Travel Concession) Rules, 1988.
 
@@ -37,7 +37,7 @@ CENTRAL CIVIL SERVICES
   
   - (g) persons eligible to any other form of travel concession available during leave or otherwise.
 
-## 2 Special provisions regarding certain categories of employees
+## 02 Special provisions regarding certain categories of employees
 
 - (1) In the case of persons belonging to categories mentioned in clauses (ii), (iii) and (iv) of sub-rule (3) of Rule 1, the leave travel concessions shall be admissible on completion of one year’s continuous service under the Central Government and provided that it is certified by the appropriate administrative authority that the employee concerned is likely to continue to serve under the Central Government for a period of at least two years in the case of Leave Travel Concession to hometown and at least four years in the case of leave travel concession to any place in India to be reckoned from the date of his joining the post under the Central Government.
 
@@ -47,10 +47,10 @@ CENTRAL CIVIL SERVICES
 
 **Illustration:**\- If an officer has availed of the concession to visit any place in India in respect of a block of four years before his retirement and he is re-employed without any break, he cannot avail this concession till the expiry of the particular block of four years.
 
-## 3 Scope
+## 03 Scope
 The leave travel concession will cover the Government servant himself and his family.
 
-## 4 Definitions
+## 04 Definitions
 In these Rules, unless the context otherwise requires, -
 
 - (a) **"a place in India"** will cover any place within the territory of India, whether it is on the mainland India or overseas;
@@ -118,7 +118,7 @@ It has been decided that in cases where the Government servant has left his/her 
 
 \[DOPT OM No. 31011/14/86-Est.(A), dated 8.5.1987\]
 
-## 5 Change of Hometown
+## 05 Change of Hometown
 The hometown once declared and accepted by the controlling officer shall be treated as final. In exceptional circumstances, the Head of the Department or if the Government servant himself is the Head of the Department, the Administrative Ministry, may authorise a change in such declaration provided that such a change shall not be made more than once during the service of a Government servant.
 
 **_Govt. of India Decisions_**
@@ -146,11 +146,11 @@ Where the presence of near relations at a particular place is to be the determin
 - (MHA OM No. 43/15/57-Ests. (A) dated 24.6.1958)
 
 
-## 6 Declaration of place of visit under Leave Travel Concession to any place in India
+## 06 Declaration of place of visit under Leave Travel Concession to any place in India
 
 When the concession to visit any place in India is proposed to be availed of by a Government servant or any member of the family of such Government servant, the intended place of visit shall be declared by the Government servant in advance to his controlling officer. The declared place of visit may be changed before the commencement of the journey with the approval of his controlling officer but it may not be changed after the commencement of the journey except in exceptional circumstances where it is established that the request for change could not be made before the commencement of the journey owing to circumstances beyond the control of the Govt. servant. This relaxation may be made by the Administrative Ministry/Department or by the Head of the Department, as the case may be.
 
-## 7 Admissibility of Leave Travel Concession
+## 07 Admissibility of Leave Travel Concession
 
 - (1) The leave travel concession shall be admissible to persons of the categories specified in clauses ( i ) and (iii) of sub-rule (3) of Rule 1 only, if they have completed one year’s continuous service under the Central Government on the date of journey performed by him or his family, as the case may be, to avail of the concession.
 
@@ -392,7 +392,7 @@ It has been decided that LTC facility could be allowed for an escort who accompa
 
 - (MHA OM No. 43/10/65-Estt. ( A) dated 7.8.65)
 
-## 8 Types of leave travel concession
+## 08 Types of leave travel concession
 
 - (a) The leave travel concession to hometown shall be admissible irrespective of the distance between the headquarters of the Government servant and his hometown, once in a block of two calendar years, such as 1986-87, 1988-89 and so on.
 
@@ -402,7 +402,7 @@ It has been decided that LTC facility could be allowed for an escort who accompa
 
 - (c) A Government servant whose family lives away from him at his hometown may, in lieu of all concessions under this scheme, including the leave travel concession to visit any place in India once in a block of four years which would otherwise be admissible to him and members of his family, choose to avail of leave travel concession for self only to visit the hometown every year.
 
-## 9 Counting of leave travel concession against particular blocks
+## 09 Counting of leave travel concession against particular blocks
 
 A Government servant and members of his family availing of leave travel concession may travel in different groups at different times during a block of two of four years, as the case may be. The concession so availed of will be counted against the block of two years or four years within which the outward journey commenced, even if the return journey was performed after the expiry of the block of two years or four years. This will apply to availing of leave travel concession carried forward in terms of Rule 10.
 
@@ -605,7 +605,7 @@ The Govt. servants, who are entitled to travel by First Class by rail, while on 
 
 Points raised Clarifications
 
-_1._ _Can an employee be entitled to travel by air travel via a station connected by air services even if the Home Town/declared place of visit is not directly connected by air services?_
+> _1._ _Can an employee be entitled to travel by air travel via a station connected by air services even if the Home Town/declared place of visit is not directly connected by air services?_
 
 An employee can travel by entitled to travel by air the national carriers (and not by private airlines) to airport nearest to the Home Town or the declared place of visit in case where these are not directly connected by air services. The air journey in such cases shall however, be performed by the shortest direct route.
 
@@ -615,59 +615,60 @@ An employee can travel by entitled to travel by air the national carriers (and n
 
 _The entitlement of an officer is to be determined strictly in terms of the orders in force and applicable on the date of commencement of the outward journey._
 
-_3._ If an employee commenced his outward journey before 1.10.1998 but returned after 1.10.1998, how his claim shall be regulated?
+> _3._ If an employee commenced his outward journey before 1.10.1998 but returned after 1.10.1998, how his claim shall be regulated?
 
 The claim shall be regulated strictly in terms of the orders in force on the date of commencement of the outward journey.
 
-_4._ LTC orders provide for journey by AC chair car in Rajdhani Express Trains by employees in the pay range of Rs. 4,100 and above but less than Rs. 8,000. In cases where Chair Car is not provided, can an employee travel by AC 3-tier sleeper on Such trains and claim reimbursement accordingly?  
-  Travels by Rajdhani Express is a special concession provided in the LTC Rules. In the circumstances, reimbursement of AC-3 Tier sleeper fare on trains in which chair car accommodation is not provided will not be permissible and the claim Shall be restricted only to the applicable Chair Car fare.
+> _4._ LTC orders provide for journey by AC chair car in Rajdhani Express Trains by employees in the pay range of Rs. 4,100 and above but less than Rs. 8,000. In cases where Chair Car is not provided, can an employee travel by AC 3-tier sleeper on Such trains and claim reimbursement accordingly?  
 
-_5._ _LTC orders permit journeys by Rajdhani/Shatabdi Express Trains. Can the entitlement be determined on notional basis?_
+Travels by Rajdhani Express is a special concession provided in the LTC Rules. In the circumstances, reimbursement of AC-3 Tier sleeper fare on trains in which chair car accommodation is not provided will not be permissible and the claim Shall be restricted only to the applicable Chair Car fare.
+
+> _5._ _LTC orders permit journeys by Rajdhani/Shatabdi Express Trains. Can the entitlement be determined on notional basis?_
 
 No. In order to be entitled to reimbursement of fares applicable on Rajdhani or Shatabdi Express, the journeys in question have to be actually performed by these trains. In cases where LTC journeys are undertaken in trains other than Rajdhani or Shatabdi Express by a class of accommodation higher than the one to which the employee is entitled to or by an alternative mode of travel (e.g. by air) to which he/she is not entitled, reimbursement of fares cannot be determined on a notional basis with reference to the fares applicable by the entitled class on the Rajdhani/Shatabdi Express.
 
-_6._ _LTC orders provide for journey by Rajdhani/Shatabdi Express trains where both the originating and destination stations are directly connected by these trains. Can an employee travel by these trains if the Home-Town/declared place of visit is not directly connected by rail but the nearest Railway Station is directly connected by Rajdhani/Shaatabdi Trains?_
+> _6._ _LTC orders provide for journey by Rajdhani/Shatabdi Express trains where both the originating and destination stations are directly connected by these trains. Can an employee travel by these trains if the Home-Town/declared place of visit is not directly connected by rail but the nearest Railway Station is directly connected by Rajdhani/Shaatabdi Trains?_
 
 This will be permissible provided the employee concerned is entitled to travel by Rajdhani/Shatabdi Express on LTC.
 
 
-7. If the Home-town of an employee is connected by train but is not directly connected by Rajdhani/Shatabdi Express Trains. In such a case can the employee be entitled to travel partly by Rajdhani/Shatabdi Express Trains and partly by other trains(s).
+> 7. If the Home-town of an employee is connected by train but is not directly connected by Rajdhani/Shatabdi Express Trains. In such a case can the employee be entitled to travel partly by Rajdhani/Shatabdi Express Trains and partly by other trains(s).
 
 _If the journey is actually performed by Rajdhani/Shatabdi Trains upto an enroute railway station by direct shortest route and thereafter the journey is completed in a train other than Rajdhani/Shatabdi trains, fare for both the types of trains by the entitled class would be admissible for the respective portion of journey._
 
-_8._ _Whether reimbursement is permissible in cases where an employee travels by a longer route or breaks journey when he is travelling only by Rajdhani Express trains. Can the reimbursement in such cases be restricted to the fare applicable on Rajdhani Express trains by the shortest direct route or will only the ordinary train fare be admissible?_
+> _8._ _Whether reimbursement is permissible in cases where an employee travels by a longer route or breaks journey when he is travelling only by Rajdhani Express trains. Can the reimbursement in such cases be restricted to the fare applicable on Rajdhani Express trains by the shortest direct route or will only the ordinary train fare be admissible?_
 
 Reimbursement of fares by the entitled class of accommodation applicable on Rajdhani/Shatabdi Express by the shortest direct route, shall be permissible provided all the legs of the journey are actually performed exclusively by these trains and both the originating and destination stations are directly connected by these trains.
 
-_9._ _If an employee travels partly by Rajdhani/Shatabadi Express trains and partly by other train (s) or by any other mode of transport, such as ship, bus, etc. how is the LTC claim to be regulated?_
+> _9._ _If an employee travels partly by Rajdhani/Shatabadi Express trains and partly by other train (s) or by any other mode of transport, such as ship, bus, etc. how is the LTC claim to be regulated?_
 
 As already clarified at Sl. No. 7 above, in cases where travel on LTC is performed partly by Radjhani/Shatabadi Express and partly by other trains/modes of transport the claim shall be reimbursable subject to the condition that the journey is performed by the shortest route.
 
-_10._ _Certain places are not directly connected by trains and one has to change train at nearest rail head. In such cases can journey be undertaken up to nearest rail head which is connected by Rajdhani/Shatabadi Express?_
+> _10._ _Certain places are not directly connected by trains and one has to change train at nearest rail head. In such cases can journey be undertaken up to nearest rail head which is connected by Rajdhani/Shatabadi Express?_
 
 _Clarification in respect of Sl. No. 9 may be seen in this connection._
 
-_11_ _If the originating and terminating points fall on the routes of Rajdhani/Shatabadi Express Trains but these trains do not halt at these stations, can an employee travel by Rajdhani/Shatabadi Express and claim reimbursement?_
+> _11_ _If the originating and terminating points fall on the routes of Rajdhani/Shatabadi Express Trains but these trains do not halt at these stations, can an employee travel by Rajdhani/Shatabadi Express and claim reimbursement?_
 
 _The employee can travel by Rajdhani/Shatabadi Express up to the nearest enroute station which should not be beyond the destination i.e. Home Town or the declared place of visit._
 
-_12_ _If two stations are connected by direct trains but the route transversed by such trains is not the shortest, can the fare applicable for travel by the direct longer route be reimbursed in full?_
+> _12_ _If two stations are connected by direct trains but the route transversed by such trains is not the shortest, can the fare applicable for travel by the direct longer route be reimbursed in full?_
 
 _Yes. Provided travel by the longer route on LTC has been specifically recognized and approved by the Government in terms of the separate orders issued in this regard from time to time._
 
-_13_ _Revised LTC orders permit travel by private vehicles i.e. Taxi, Autorickshaw, etc. It may be clarified whether the orders prohibiting LTC journeys by road in a private, hired vehicle or by own vehicles have been withdrawn. If so, in such cases, can the claim be restricted to the bus fare or the fare actually paid?_
+> _13_ _Revised LTC orders permit travel by private vehicles i.e. Taxi, Autorickshaw, etc. It may be clarified whether the orders prohibiting LTC journeys by road in a private, hired vehicle or by own vehicles have been withdrawn. If so, in such cases, can the claim be restricted to the bus fare or the fare actually paid?_
 
 Journeys on LTC by taxi, autorickshaw, etc. are permissible only between places which are not connected by rail. This is further subject to the condition that these modes of transports operate on a regular basis from point to point with the specific approval of the State Governments/Transport Authorities concerned and are authorized to ply as public carriers. The existing restrictions on travel by private chartered vehicles, own vehicles etc. shall, therefore, continue to be in force and applicable. No reimbursement shall be permissible in such cases.
 
-_14_ _If journeys on LTC are performed by taxi or auto-rickshaw between stations connected by rail and/or bus, can the LTC claim be restricted to the bus fare? If not, what amount be admissible ?_
+> _14_ _If journeys on LTC are performed by taxi or auto-rickshaw between stations connected by rail and/or bus, can the LTC claim be restricted to the bus fare? If not, what amount be admissible ?_
 
 Journeys by taxi, autorickshaw etc. are permissible only between places not connected by rail and subject to the further condition that these operate on a regular basis from point to point with the specific approval of the State Governments/ Transport Authorities concerned. Journeys by these modes on LTC are not permissible between places connected by rail.
 
-_15_ _Can claims in respect of local journeys performed by taxi, autorickshaw, etc. from the residence to the Railway Station, airport, etc. and vice-versa be restricted to the applicable bus fare?_
+> _15_ _Can claims in respect of local journeys performed by taxi, autorickshaw, etc. from the residence to the Railway Station, airport, etc. and vice-versa be restricted to the applicable bus fare?_
 
 Incidental expenditure incurred on local journeys between the residence/place of stay and the airport/railway station/bus terminal are not reimbursable.
 
-_16._ _LTC Rules provide that when a journey is performed by taxi, autorickshaw etc. the claim shall be restricted to the entitled bus fare. However, various State Roadways Corporations operate on the same route but have different fare structures. How will the claim be regulated in such a situation._
+> _16._ _LTC Rules provide that when a journey is performed by taxi, autorickshaw etc. the claim shall be restricted to the entitled bus fare. However, various State Roadways Corporations operate on the same route but have different fare structures. How will the claim be regulated in such a situation._
 
 When journey on LTC is actually undertaken by buses operated by a State Roadways Corporation, the actual fare paid by the entitled type of bus shall be reimbursable. As clarified against Sl. No. 13, journeys on LTC by taxi, autorickshaw, etc. are permissible only between places not connected by rail and subject to the conditions specified. When journeys are performed by these modes and more than one State Roadways Corporation operate on the route, the lowest fare applicable on the route is reimbursable.
 
