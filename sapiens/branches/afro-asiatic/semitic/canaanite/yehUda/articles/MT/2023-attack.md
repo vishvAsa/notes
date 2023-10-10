@@ -16,9 +16,29 @@ Given Israel's military superiority, it is likely to decisively destroy it attac
 
 Things could also be complicated if the trans-national neo-con faction tries to expand the conflict in directions they like. You can already see them wanting to blame it on the rUs (!) & open a front with the Islamic state in Iran. There hastin frontend, paTTinI made a ridiculous statement. 
 
-None of this might be useful for the Israelis but they could be sucked into it in the heat of the moment. Their situation is different from that of the H. H have enemies on multiple fronts & the mlechCha-s could tacitly help the marUnmatta-s. So at this point from the H perspective a lot is hanging on the Indian intelligence to read any comparable designs the maru-s may have for a ghazwa al-hind
+None of this might be useful for the Israelis but they could be sucked into it in the heat of the moment. Their situation is different from that of the H. H have enemies on multiple fronts & the mlechCha-s could tacitly help the marUnmatta-s. So at this point from the H perspective a lot is hanging on the Indian intelligence to read any comparable designs the maru-s may have for a ghazwa al-hind.
+
+## Shifting alliances
+The alliances have changed (in the crusades there were some fierce u2 on u1 attacks & u1 collaboration with u3) but the animating spirit has not. In fact this reconfiguration of the alliance is a recent one. A committee of the early jewish settlers had modest ambitions (E.g. of Old u1-u3 alliance against u2):
+
+> "The internal administration to be ours, to have our civil and political rights and to act with the Turkish Empire only in foreign affairs, so as to help our brother Ishmael in the time of his need."
+
+Thus, because they were not exactly having the best situation in parts of Europe and Russia they wanted to go back to their old land but remain within the Turkish empire & actually help the u3 -- as per Abrahamistic origin mythology the Arabs were descendants of the "brother Ishmael" whom they wanted to help. But the Arabs were unsurprisingly not exactly inclined to assent.  The Osmans instead told them that if they wanted to leave rUs or ukr they could instead take Turkish citizenship and live elsewhere in their empire but not their old lands. Still they thought it was the best option voicing views like:
+
+> "...among our relatives, the Arab tribes, and the civilization of Shem is -- wisdom and morality, love and mankind and peace."
+
+Those nice fuzzy feelings were to eventually face the edge of reality, when they had to turn back on their old Euro neighbors for help. Then came the ascendancy of the US in which they played a central role and new alliance was formed.
+
+
 
 ## US entry
-Israel is central to the identity of the American leadership & a significant part of its voting population -- perhaps, as an idea, it is even more important than the idea of America for many. Hence, it is not surprising that many want the US to directly enter the war. Suddenly that has taken precedence over the war with the rUs. It was not for nothing that the crusades were launched. The alliances have changed (in the crusades there were some fierce u2 on u1 attacks & u1 collaboration with u3) but the animating spirit has not. However, we feel the end-result of a such a US involvement would not be good for the US, which in the past 20+ years has engaged primarily in wars with no clear strategic objectives or even understanding of the targets. This is where they differ from the former leaders of the anglosphere.
+
+Source: [TW](https://twitter.com/blog_supplement/status/1711639060102467992)
+
+Israel is central to the identity of the American leadership & a significant part of its voting population -- perhaps, as an idea, it is even more important than the idea of America for many. 
+
+Hence, it is not surprising that many want the US to directly enter the war. Suddenly that has taken precedence over the war with the rUs. It was not for nothing that the crusades were launched. 
+
+However, we feel the end-result of a such a US involvement would not be good for the US, which in the past 20+ years has engaged primarily in wars with no clear strategic objectives or even understanding of the targets. This is where they differ from the former leaders of the anglosphere.
 
 
