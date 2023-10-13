@@ -8,7 +8,7 @@ title = "13 APPENDIX"
 comments from the readers, particularly Dr. K.K. Mittal with whom I developed almost a debate spread over several issues of the weekly. I discovered that Dr. Mittal had equated Islam with Urdu poetry with which he happened to be in love. The following questions from Sindhu, the pseudonym used by the editor, Shri K.R. Malkani, and the answers I gave are relevant to this book.)  
  
 
-**ANY SILVER LINING?**
+## ANY SILVER LINING?
 
 (Sindhu, New Delhi)
 
@@ -35,7 +35,7 @@ Even during Muslim rule, we produced great poets like Tulsi, Mira, Sur, Kabir - 
 I do not know. But perhaps Shri Goel, Dr. Mittal and other friends could enlighten us all on these and other related points.  
  
 
-**MUSLIM RULE HAD NO SILVER LINING**
+## MUSLIM RULE HAD NO SILVER LINING
 
 (Sita Ram Goel)
 
