@@ -29,7 +29,7 @@ jobs:
         uses: rlespinasse/github-slug-action@v4.4.1
       - id: filter_changed_files
         if: ${{ steps.changed-files.conclusion == 'success'}}
-        uses: actions/github-script@0.9.0
+        uses: actions/github-script@v6
         with:
           script: |
             var changed_files = '${{steps.changed-files.outputs.all_changed_files}}'.replace(/(?<= |^)content(?= |$)/, "").trim()
