@@ -42,3 +42,24 @@ Hence, it is not surprising that many want the US to directly enter the war. Sud
 However, we feel the end-result of a such a US involvement would not be good for the US, which in the past 20+ years has engaged primarily in wars with no clear strategic objectives or even understanding of the targets. This is where they differ from the former leaders of the anglosphere.
 
 
+## Anti-H overlap
+Source: [TW](https://twitter.com/blog_supplement/status/1714850134033408099)
+
+The past week has shown that there is a noticeable overlap between the anti-Isr groups & anti-H groups in the occident. The pro-Isr groups are more committed, better organized & more savvy in PR warfare than pro-H groups & nominally H individuals in power in occidental systems. Hence, their counter-attack has struck or in the least, exposed some of our enemies.
+
+We had said several times in the past that navyonmAda is the gateway to marUnmAda. That is also being amply demonstrated by these events. We had also remarked that navyonmAda has split up the u1s. But the attacks have brought it home to a subset of the u1s who support navyonmAda that, ultimately, they have to choose between going against navyonmAda & supporting it. It looks like some are peeling away from navyonmAda. This might be good for H as it weaken the svabhAvavairi.
+
+## Restraint perspective
+Source: [TW](https://twitter.com/blog_supplement/status/1715535000118895020)
+
+An interesting American neutral perspective: It might anger some because it does a bit of the restraint thing that the Americans like the lecture H when attacked similarly. but a few things are clear: 
+
+1. The strategic objectives are important while engaging in a war like this need to be clear. 
+2. The pR^iShTabha~njaka American soldier who has actually fought in such battles clearly states that urban warfare with tunnels is just not easy or decisive -- something which has been clear from the beginning. 
+3. They largely ignore the whole issue of the clash of counter-religions as a deciding factor in certain outcomes. 
+4. The Western ignorance (in some measure due to Indian marketing) of shrI pUjya mahatmA gAndhIjI (hope law of the land is not dissatisfied)  is seen: gandhI would not have worked with the Mongols & he did not work with the British. That's why I recently said a comparative history of the J and H armed movements against the English tyranny is something to look into. I'll say more on a sort of funny point they made based on what a late Isr. acquaintance of mine said.
+
+
+
+
+
