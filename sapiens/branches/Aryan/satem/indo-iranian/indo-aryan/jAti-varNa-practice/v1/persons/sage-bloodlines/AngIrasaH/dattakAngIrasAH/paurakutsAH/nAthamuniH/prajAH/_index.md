@@ -73,23 +73,6 @@ ettUr lakshmIkumAra tAtAchArya, son of paramatabhanjana-tAta-deshika by adoption
 - Sri Venkata Varada Tatarya, the second son of Lakshmikumara Tatadesika went there as the royal guru of the Mysore Maharaja in the latter half of the 17th century. ... R.Kumara Tatacharya was a royal priest in maisUru too. His son was Sri Sudarsana Tatacharya. He was also continuing to visit the Mysore palace in his capacity as the royal guru. ... With him, the connection between the Tatacharyas and Mysore Maharajas also ended. (On a particular year he was late by a few minutes and the God had by then moved forward from the Gopuravasal a few feet. Just then the Maharaja arrived. He requested the Trustee (evidently Sri Krishnaswamy Tatachariar. the brother of Sri Sudarsana' Tatacharya) to take the vehicle back to the Gopuravasal, in order to have the Gopuravasal darsan. The trustee could not oblige him, since it was not desirable to move the God back.)
 - Another group of Tatacharyas settled at Srirangam. Known as the ‘ Mudhal Tirimaligai ’ Tatacharyas, they did not lag behind the other branches in propagating Srivaishnavism and increasing its votaries. Their scions have performed * PANCHASAMSKARA ’ to families of royal descent in Gujarat and Rajasthan including the princes of Jodhpur.
 
-
-## kRShNa-tAta-deshikaH
-
-{{< figure src="../images/tirupputkuzhi-svAmi_kRShNa-tAta-deshikaH.jpg" title="" class="thumbnail">}}
-
-- Aka Tirupputkuzhi-svAmi, श्रीमद्-वेदान्त-देशिक-सम्प्रदाय-दुरन्धरः महामहोपाध्यायः  पॆरुमाळ्-कोविल्-एडूर्-इम्मडि-कोटि-कन्यादान-कृष्ण-तातार्य-महा-देशिकः
-- Aippasi Ayilyam (Aaslesha Nakshatram)
-
-He restored the deshika's tUpul shrine from the tenkalai-s. The british judge dismissed a tenkalai criminal case against him when they all rose with folded hands as soon as he entered the court. Also given mahAmahopAdhyAya title by the british.
-
-> There was a Tirupputkuzhi Swamy who was a chanDa-prachanDa panDita - Was presiding over Nyaya sadases in Kashi and Kanchi at 18 years of age. The aged seniors in his own family declined from performing Bharanyasa for him saying they were unqualified. He went and sought Periyandavan thiruvaDi for Bharanyasam. It is said that this was a turning point in Periyandavan's tenure.
-> - vijay
-
-> TP swami was a scholar in saiva Siddhanta as well. He had taught on shaiva-siddhAnta granthas as well.
-> 
-> - ravi
-
 ## गरणि-श्रीनिवासः
 KannaDa writer who translated 4k divyaprabandhas. See separatel [article](../articles/garaNi-shrInivAsa-exegesis/).
 
