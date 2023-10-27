@@ -174,53 +174,147 @@ Gurus emphasize imp. of a mind in Ardaas mode (Ardaash = Praise or Entreaty in a
 5. Paradoxically the same delicate minds (I avoid the word "weak") that talk tough about "based" values & impending war also yearn for a utopia free & safe from the fragility, indeterminism & a mentally dull society they see around. Enter hypocritical religio-political movements.
 
 ## ०४ - कान्दिशीकानां कुहनिका
-१४. किन्तु पुनर् अमूर्त-विचाराणां कपोल-कल्पना-सरसः शीन-तलो+++(=??)+++ भङ्गुरायते।  
-सदा विद्यमानं गूढ-पदार्थम् अधस्ताद् उत्सृज्य  
+१४. किन्तु पुनर् अमूर्त-विचाराणां कपोल-कल्पना-सरसः +++(हिम-)+++शीन-तलो भङ्गुरायते।  
+सदा विद्यमानं +++(पीडाख्यो)+++ गूढ-पदार्थो ऽधस्ताद् उत्सृज्य  
 तलस्य दरेषु निस्सर्तुम् आरभते। 
 
-१५. तर्को न्यायश्च दुःखस्य भयं जेतुम् अर्हतः इति आशा शीर्यमाणा स्यान्न वा, वयं लोकतन्त्रे पवित्रां संस्कृतिं प्रशंसयामः एव। अपितु यः रक्षाव्यवस्थां, स्थैर्यम्, आरामं, "मा हिंसीः" इति संस्कृतिं च तिरस्करोति, सः मुग्धो महता दर्पेण एव आत्मानं भीरुषु वीरम् इव भावयति। पवित्रां संस्कृतिं परिपालयन्ती हिंसा अध्वर इति परिगण्यते।
-
-१६. आजन्म आधुनिकसुविधाः भुञ्जानाः वयं ताः लघु-मन्यामहे यत्, तत् नः पितरो न मेनिरे। नाधिकं परिवर्तितम् इति मन्वानेषु केषुचित् सुविधा-संस्कृति-विषये तिरस्कारः उपजायते। इतिहासम् अधीत्य परिवर्तमाने जगति धर्मं पालयेत्।
-
-१७. जीवने दुःखस्य आवश्यकतायाः अस्वीकारः वस्तुतः बार्बर्य-मानवतयोः विचित्र-मिश्रणं प्रतिबिम्बयति। कुत्रचित् शाकाहारिणः नराशिनश्च प्रतिवेशि-द्वीपयोः निवसन्तः स्युरिव विचिन्तयतु। मानवाधिकार-विषये यथापश्यतु -  कुत्रचित् सुविधायुताः काराः निर्मीयन्ते, पक्षे निरुद्योगिनां दारिद्र्योपहता वसतिः प्रसरति। अतः कालक्रमेण, ऋद्धि-शान्त्योः चाकचिक्ये सुरक्षाव्यवस्थायाः आभासमात्रम् एव अवशिष्यते।
-
 1. Junger says those who wish to insulate or escape from the Laws of Pain (physical, mental or spiritual) tie themselves up in knots & contradictions.
-
 2. They dream of a place/system free from the perceived defects of society. The place/system doesn't exist, now or in the past - but they will swear by it. Junger says the surface of this frozen idealism soon begins to crack & the underlying substance (pain) seeps through.
 
-3. But whether ppl believe that logic & rationalizations can remove fear of pain, they all praise the democratic culture made available to them. Junger says those who belittle security, stability, comfort & non-violence are vain & deluded ppl who fancy themselves brave & hardy.
+Jünger's own rhetorical flourish:
 
-4. Some who enjoy modern facilities since birth can tend to think little of them, but their fathers didn't. A faulty understanding of how much has changed intergenerationally tend to disdain what is now provided, says Junger. Dharma is served by psychohistorical understanding.
+> "However, once again the frozen surface of the lake of abstract ideas breaks into cracks. The ever-present hidden substance (of painful reality) wells up from below and oozes from those cracks."
 
-5. Unacceptance of the necessity of pain leads to hypocritical & divergent policy outcomes in society. It's like 2 islands, side by side, one of vegetarians & the other cannibals. E.g., increasingly "humane" prisons go hand in hand with the spread of slums & unemployment outside.
+१५. तर्को न्यायश्च दुःखस्य भयं जेतुम् अर्हतः  
+इति आशा शीर्यमाणा स्यान् न वा,  
+वयं लोकतन्त्रे पवित्रां संस्कृतिं प्रशंसामः एव।  
+अपितु यः रक्षाव्यवस्थां, स्थैर्यम्, आरामं, "मा हिंसीः" इति संस्कृतिं च तिरस्करोति,  
+सः मुग्धो महता दर्पेण +एव आत्मानं भीरुषु वीरम् इव भावयति।  
+पवित्रां संस्कृतिं परिपालयन्ती हिंसा अध्वर इति परिगण्यते।
 
-6. Thus, Junger points out that increasingly "woke" societies that reject the Necessity of pain will inevitably see contrasting outcomes - & eventually only the appearance of actual security will remain after an increase of prosperity & peace. Real security slips away silently.
 
-५ - अतीतमोहः
-१८. तथा समृद्धौ प्राप्तायां, प्रजासु विगलित-रीतीनाम् अतीतमोहः प्रसरति। अतीते यथा सामाजिक-स्थैर्यम् आसीत्, यथा सम्प्रदायान् निःशङ्कम् आद्रियन्ते स्म प्रजाः, यथा अभिजातेषु रसिकानां सभाः अशोभन्त, यथा विदथेषु धीराः वीर्यं प्रादर्शयन्, यथा पुंसां कामानुगुणम् एव स्त्रीपरिधानं स्यूतम् भवति स्म न तु क्रीडा-कार्यार्थम्। अतीतमोहितानां विषादस्य कारणद्वयम् वर्तते - 
+3. But whether ppl believe that logic & rationalizations can remove fear of pain, they all praise the democratic culture made available to them.  
+   Junger says those who belittle security, stability, comfort & non-violence are vain & deluded ppl  
+   who fancy themselves brave & hardy.
 
-१९. प्रथमं, नवसमृद्ध-समाजस्य प्रजासु क्षेमभावः असाधारणः भवति, यो गच्छता कालेन क्षीयते। पूर्वं, या कुण्ठा मनस्सु उत्पद्यते स्म, तां दैवम् उत आध्यात्मिक-साधनाम् अर्पयन्ति स्म वराकाः। संविधानं, लोकव्यवहारश्च तथा आस्तां यथा साम्प्रदायिक-कलहो नाधिकं क्वथति स्म। विस्तारवादिनः समाजस्य समीकरणे निज-पर-भेदं धूमिली-कुर्वन्ति विद्वांसः, यत् गच्छता कालेन निर्विशेषत्वं शून्यवादं च जनयति लोकायत-मतौ। अतः क्षेमभावः क्षीयते। युगपत् अतीतमोहोऽपि उत्पद्यते। 
 
-२०. द्वितीयं, यावत् आधुनिक-लोकतन्त्रे सुखसाधनानि समाजस्य सर्व-वर्गान् व्याप्नुवन्ति, तावत् नूतनतया लक्षजनाः तामेव संस्कृतिं परिचेतुम् ईहेरन् यां पुरा अभिजात्यः शेमुषीमान् वर्गःएव जुषते स्म। लोकतन्त्रे राजकीय-स्थैर्यम् अपि भवति, सर्वं परिवर्तनं पूर्वानुमेयं च। वणिजां विश्व-दर्शनस्य वर्चो वर्धते। द्रव्यस्य अमूर्तिकरणं भवति - यथा धनस्य मुद्रायां तथा मुद्रायाः गूढमुद्रायां (cryptocurrency) परिवर्तनं। तथैव लोकानां सहज-समागमे विधिवत् प्रबन्धनं कल्प्यते - मैथुने, मैत्र्यां, रसिक-मेलने, व्यवसाये इत्यादिषु। इत्येतैः जीवने असाधारणं सौकर्यं उन्मुक्तिश्च अनुभूयते। 
+१६. आजन्म आधुनिकसुविधाः भुञ्जानाः  
+वयं ताः लघु-मन्यामहे यत्,  
+तत् नः पितरो न मेनिरे।  
+नाधिकं परिवर्तितम् इति मन्वानेषु केषुचित्  
+सुविधा-संस्कृति-विषये तिरस्कारः उपजायते।  
+इतिहासम् अधीत्य परिवर्तमाने जगति धर्मं पालयेत्।
 
-२१. एवं सति, नवरसरुचिरां निर्मितिम् आस्वदितुं प्रवृत्तिः योग्यता च ह्रसेते, परं न पूर्णतया नश्यतः। प्रत्युत, सृजनशक्त्याः ह्रासः पारम्परिक-मूल्यानां कृते विशेष-सहानुभूतये कल्पते। आधुनिक-प्रेम परकीय-प्रणयं न जानीयात्, यतोहि कामस्य विषये विचिकित्सां निषेधान् च अपास्य कामसामर्थ्यं बिभर्ति खलु समाजः। आत्मीय-रहस्यानाम् आविष्कारस्य मनोहरत्वं जनमानसेन नावगम्यते अधुना।
+4. Some who enjoy modern facilities since birth can tend to think little of them, but their fathers didn't. A faulty understanding of how much has changed intergenerationally tend to disdain what is now provided, says Junger.  
+   Dharma is served by psychohistorical understanding.
 
-२२. अतः कलौ वर्णव्यवस्थायाः कार्यं विपर्यस्तं चलति। ज्ञानं पर्णेभ्यः मूलं प्रति, तथा संस्क्रिया तृणमूलेभ्यः आरभ्य अधस्तात् उपरि। युङ्गरः एतं युगम् अन्तिमः मनुष्यः ("Last Man") इत्यस्य अभिदधाति। तदानीं यूरोपे बुधाः युगमिदं दीर्घतरं मन्यन्ते स्म, परं युङ्गरः विप्रतिपद्यते। महायुद्धस्य काले सन्निहिते युगान्तरः सम्भवेत्।
+१७. जीवने दुःखस्य आवश्यकतायाः अस्वीकारः  
+वस्तुतः बार्बर्य-मानवतयोः विचित्र-मिश्रणं प्रतिबिम्बयति।  
+कुत्रचित् शाकाहारिणः नराशिनश् च प्रतिवेशि-द्वीपयोः निवसन्तः स्युर् इव विचिन्तयतु।  
+मानवाधिकार-विषये यथा पश्यतु -  कुत्रचित् सुविधायुताः काराः निर्मीयन्ते,  
+पक्षे निरुद्योगिनां दारिद्र्योपहता वसतिः प्रसरति।  
+अतः कालक्रमेण, ऋद्धि-शान्त्योः चाकचिक्ये+++(=भ्रमे)+++ सुरक्षा-व्यवस्थाया आभास-मात्रम् एव अवशिष्यते।
+
+5. Unacceptance of the necessity of pain leads to hypocritical & divergent policy outcomes in society.  
+   It's like 2 islands, side by side, one of vegetarians & the other cannibals.  
+   E.g., increasingly "humane" prisons go hand in hand with the spread of slums & unemployment outside.
+
+6. Thus, Junger points out that increasingly "woke" societies that reject the Necessity of pain  
+   will inevitably see contrasting outcomes -  
+   & eventually only the appearance of actual security will remain after an increase of prosperity & peace.  
+   Real security slips away silently.
+
+## ०५ - अतीतमोहः
+१८. तथा समृद्धौ प्राप्तायां,  
+प्रजासु विगलित-रीतीनाम् **अतीतमोहः प्रसरति** -  
+अतीते यथा सामाजिक-स्थैर्यम् आसीत्,  
+यथा सम्प्रदायान् निःशङ्कम् आद्रियन्ते स्म प्रजाः,  
+यथा अभिजातेषु रसिकानां सभाः अशोभन्त,  
+यथा विदथेषु धीराः वीर्यं प्रादर्शयन्,  
+यथा पुंसां कामानुगुणम् एव स्त्रीपरिधानं स्यूतम् भवति स्म न तु क्रीडा-कार्यार्थम्।  
+अतीत-मोहितानां विषादस्य कारण-द्वयम् वर्तते - 
 
 1. Junger says the emergence of "trad" nostalgia & kanging is - counterintuitively - a sign of ripening wokeism & beginning of dissolution.
-
 2. With prosperity, a yearning for lost traditions spreads. The social stability of earlier society, undoubting respect for traditions, vibrant parlors of classical connoisseurs, brave feats of the chivalrous, how women dressed to please their husbands (not for work/sport). Ah!
 
-3. 1st reason of nostalgia is the extraordinary sense of security of nouveau riche society, which progressively declines. Earlier, frustrations were ascribed to Fate, or submitted to spiritual Sadhana. Not now. Laws & social mores were such that "class struggle" was minimal...In an expanding society, the intellectual class spins ideas that blur the differences between "us" & "others". This helps assimilation, but eventually leads to the dominance of Relativism & Voidism in popular discourse. Sense of goodness diminishes, nostalgia increases.
+१९. प्रथमं, नवसमृद्ध-समाजस्य प्रजासु  
+क्षेमभावो ऽसाधारणो भवति,  
+यो गच्छता कालेन क्षीयते।  
+पूर्वं, या कुण्ठा मनस्सु उत्पद्यते स्म,  
+तां दैवम् उत आध्यात्मिक-साधनाम् अर्पयन्ति स्म वराकाः।  
+संविधानं, लोकव्यवहारश् च तथा ऽऽस्तां यथा साम्प्रदायिक-कलहो नाधिकं क्वथति स्म।  
+विस्तार-वादिनः समाजस्य समीकरणे निज-पर-भेदं धूमिली-कुर्वन्ति विद्वांसः,  
+यद् गच्छता कालेन निर्विशेषत्वं शून्यवादं च जनयति लोकायत-मतौ।  
+अतः क्षेम-भावः क्षीयते।  
+युगपद् अतीत-मोहोऽपि उत्पद्यते। 
 
-4. Second reason is that as facilities spread, high culture becomes commoditized & democratized. Political stability & predictability helps. Mercantile worldview predominates in all spheres of life. Now, the many want to partake of what used to be the preserve of the few...Concept of "wealth" also becomes abstract. From gold & property ownership, to provisional net worth, digital currency, etc. Natural human relations become contractual: legally or socially. Sex, friends, hobby groups, personal projects. It adds to a sense of "convenience". In a society built around "convenience", the inclination AND ability to truly experience the 9 Rasas of high culture declines but does not vanish. On the contrary, the decline of real creativity (with roots in pain) causes an increase in fascination for the old culture...In a society of convenience & contractual openness, "love" will never know adulterous passion. Because eroticism sheds many inner inhibitions &/or social taboos while retaining its libido. The heartful revelation of secrets is something modern man understands less & less of.
+3. 1st reason of nostalgia is the extraordinary sense of security of nouveau riche society, which progressively declines.  
+   Earlier, frustrations were ascribed to Fate, or submitted to spiritual Sadhana. Not now.  
+   Laws & social mores were such that "class struggle" was minimal...  
+   In an expanding society, the intellectual class spins ideas that blur the differences between "us" & "others".  
+   This helps assimilation, but eventually leads to the dominance of Relativism & Voidism in popular discourse.  
+   Sense of goodness diminishes, nostalgia increases.
+
+
+२०. द्वितीयं, यावद् आधुनिक-लोकतन्त्रे सुखसाधनानि समाजस्य सर्व-वर्गान् व्याप्नुवन्ति,  
+तावत् नूतनतया लक्ष-जनाः ताम् एव संस्कृतिं परिचेतुम् ईहेरन्  
+यां पुरा आभिजात्यः शेमुषीमान् वर्ग एव जुषते स्म।  
+लोक-तन्त्रे राजकीय-स्थैर्यम् अपि भवति,  
+सर्वं परिवर्तनं पूर्वानुमेयं च।  
+वणिजां विश्व-दर्शनस्य वर्चो वर्धते।  
+द्रव्यस्य अमूर्तिकरणं भवति -  
+यथा धनस्य मुद्रायां  
+तथा मुद्रायाः गूढमुद्रायां (cryptocurrency) परिवर्तनं।  
+तथैव लोकानां सहज-समागमे विधिवत् प्रबन्धनं कल्प्यते -  
+मैथुने, मैत्र्यां, रसिक-मेलने, व्यवसाये इत्यादिषु।  
+इत्येतैः जीवने असाधारणं सौकर्यं उन्मुक्तिश् च अनुभूयते। 
+
+4. Second reason is that as facilities spread, high culture becomes commoditized & democratized. Political stability & predictability helps. Mercantile worldview predominates in all spheres of life.  
+   Now, the many want to partake of what used to be the preserve of the few...  
+   Concept of "wealth" also becomes abstract. From gold & property ownership, to provisional net worth, digital currency, etc.  
+   Natural human relations become contractual: legally or socially.  
+   Sex, friends, hobby groups, personal projects.  
+   It adds to a sense of "convenience".
+
+
+२१. एवं सति, नव-रस-रुचिरां निर्मितिम् आस्वदितुं प्रवृत्तिः योग्यता च ह्रसेते,  
+परं न पूर्णतया नश्यतः।  
+प्रत्युत, सृजन-शक्त्या ह्रासः पारम्परिक-मूल्यानां कृते विशेष-सहानुभूतये कल्पते।  
+आधुनिक-प्रेम परकीय-प्रणयं न जानीयात्,  
+यतोहि कामस्य विषये विचिकित्सां निषेधान् च अपास्य  
+काम-सामर्थ्यं बिभर्ति खलु समाजः।  
+आत्मीय-रहस्यानाम् आविष्कारस्य मनोहरत्वं जन-मानसेन नावगम्यते अधुना।
+
+In a society built around "convenience", the inclination AND ability to truly experience the 9 Rasas of high culture declines but does not vanish.  
+On the contrary, the decline of real creativity (with roots in pain)  
+causes an increase in fascination for the old culture...  
+In a society of convenience & contractual openness,  
+"love" will never know adulterous passion.  
+Because eroticism sheds many inner inhibitions &/or social taboos while retaining its libido.  
+The heartful revelation of secrets is something modern man understands less & less of.
+
+२२. अतः कलौ वर्णव्यवस्थायाः कार्यं विपर्यस्तं चलति।  
+ज्ञानं पर्णेभ्यः मूलं प्रति,  
+तथा संस्क्रिया तृणमूलेभ्य आरभ्य अधस्तात् उपरि।  
+
+युङ्गरः एतं युगम् अन्तिमः मनुष्यः ("Last Man") इत्यस्य अभिदधाति।  
+तदानीं यूरोपे बुधा युगम् इदं दीर्घतरं मन्यन्ते स्म,  
+परं युङ्गरः विप्रतिपद्यते।  
+महायुद्धस्य काले सन्निहिते  
+युगान्तरः सम्भवेत्।
+
+
 
 5. So now, functions of Varna run mainly in reverse.
 
 Cognition: Leaves to roots.
 
-Culture: Grassroots upward. Junger calls it the Last Man. But unlike other Euro philosophers who thought it was the longest Age, he thought it was the shortest. And it transitions thru total war.
-६ - यस्य छायामृतं यस्य मृत्युः
+Culture: Grassroots upward. Junger calls it the Last Man.  
+But unlike other Euro philosophers who thought it was the longest Age,  
+he thought it was the shortest.  
+And it transitions thru total war.
+
+## ०६ - यस्य छायामृतं यस्य मृत्युः
 २३. यत्र प्रजा दुःखात् रक्षिता, तत्र सामाजिक-स्थैर्यं कयाचित् विशिष्टार्थव्यवस्थया सम्पाद्यते। तथापि "दुःखस्य वैदग्ध्यं" कथञ्चित् मर्म वेधयति एव। कृत्रिमोपायैः आधिभौतिकासु ईतिषु निरुद्धासु, विपदः तिमिरान्धो निवार्येत चेदपि, सन्तापस्य विकीर्ण-रश्मयः जीवनम् आविशन्ति एव।  दुःख-गङ्गायाः मुक्त-प्रवाहात् रक्षितोऽपि मनोलिङ्गः गलन्तिकातः बिन्दुशः अभिषिच्यते। 
 
 २४. नैरस्यं निर्वेदो वा इति कालप्रवाहे दुःखस्य विलयनात् नान्यत् किञ्चन।
@@ -415,7 +509,7 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 
 ५७. अतः, सः प्राणः श्रेयान् यः स्वबलिदानाय सज्जते। किन्तु यत्र जीवनमेव प्राथम्यं वहति तत्र प्रेयः चिनोति मनः। यत् जीवनस्य पूर्णतया द्रव्यीकरणात् एव जीवनस्य महत्तम-क्षणानि दृश्यन्ते, तत् असाधारणीं जीवनशैलीम् अपि सूचयति। नैकासाम् आहुतीनांं प्रक्रियया एव अग्नौ संप्रदीप्ते सति पूर्णाहुतिः दीयेत किल। अथ जीवनस्य अनुशासनम् असाधारणं भवेत्। साधकः पृथिव्यां रघुभावेन तत् तत् कार्यं प्रवर्तयेत्।
 
-५८. प्रौद्योगिकी एव व्यक्तेः द्रव्यीकरणस्य सुस्पष्टः, शीतो महादर्पणः। वेदनायाः परे स्थिता सा जीवनं व्याप्नोति। सैव नः परम-गणवेशः। तस्यां निमग्नाः वयं प्रायः पूर्णतया इदम् अवगन्तुं न शक्नुमः। किन्तु प्रौद्योगिकी-विरहिते क्षेत्रे विहरन्तं जनं साक्षात् प्राणः निंस्ते इति अनुभवितुं शक्यते। किमधिकं नो जीवने यन्त्राणां सौविध्यम् अपि शक्त्याः साधनत्वे अन्तर्भवति। वैयक्तिक-प्रेयसा शक्तिव्यवस्था समष्टि-श्रेयः सम्पादयितुं प्रयतते। यथा दैवीशक्तिः स्वर्गलोभेन नरकभयेन च साधकस्य पुरुषार्थान् समीकरोति। आसुरीशक्तिः अपि षड्रिपुजालेन स्वप्रयोजनं साधयति। सर्वं कामोऽकार्षीन् मन्युरकार्षीद् इति। श्रद्धानुसारमेव मनुष्यस्य श्रेयःप्रेयसी समीक्रियेते। तथा हि लक्ष्मणदेवः अभूत् माधव-दासः वैरागी, यः अग्रे गत्वा बन्दा-सिंहः बहादुरः इति अमर-सेनानी बभूव।
+५८. प्रौद्योगिकी एव व्यक्तेः द्रव्यीकरणस्य सुस्पष्टः, शीतो महादर्पणः। वेदनायाः परे स्थिता सा जीवनं व्याप्नोति। सैव नः परम-गणवेशः। तस्यां निमग्नाः वयं प्रायः पूर्णतया इदम् अवगन्तुं न शक्नुमः। किन्तु प्रौद्योगिकी-विरहिते क्षेत्रे विहरन्तं जनं साक्षात् प्राणः निंस्ते इति अनुभवितुं शक्यते। किमधिकं नो जीवने यन्त्राणां सौविध्यम् अपि शक्त्याः साधनत्वे अन्तर्भवति। वैयक्तिक-प्रेयसा शक्तिव्यवस्था समष्टि-श्रेयः सम्पादयितुं प्रयतते। यथा दैवीशक्तिः स्वर्गलोभेन नरकभयेन च साधकस्य पुरुषार्थान् समीकरोति। आसुरीशक्तिः अपि षड्रिपुजालेन स्वप्रयोजनं साधयति। सर्वं कामोऽकार्षीन् मन्युरकार्षीद् इति। श्रद्धानुसारमेव मनुष्यस्य श्रेयःप्रेयसी समीक्रियेते। तथा हि लक्ष्मणदेवो ऽभूत् माधव-दासः वैरागी, यः अग्रे गत्वा बन्दा-सिंहः बहादुरः इति अमर-सेनानी बभूव।
 
 कामात्मता न प्रशस्ता न चैवेहस्त्यकामता।
 काम्यो हि वेदाधिगमः कर्मयोगश्च वैदिकः॥ मनु०॥
@@ -432,7 +526,7 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 १२ - रसो वै सः
 ५९. विगितिः (Vegetius) पोलिबिश्च (Polybius) इव चिकित्सूनां मतौ रणारङ्गे व्यूहरचना गणितविज्ञानाङ्गत्वेन परिगण्येत। सम्राड् यूलियस्य (Julius Caesar) गद्ये विप्रकृष्ट-कारुण्यं न विद्यते - विदूरात् यत् कारुण्यं भयं वा मनसि उत्पद्येत, तदत्र न विद्यते। साम्राज्ये आवश्यकः सहजः भद्रः विरक्तः स्वभावः एव स्पन्दते। युङ्गरः व्याख्याति यत् विप्रकर्षे कारुण्यं (the pathos of distance) शक्तेः विशेषता नास्ति अपितु शक्तीप्सायाः। तस्य गद्यं वस्तुरूपेण अनिर्वचनीयत्वं प्रतिपादयति। उदाहरणतः, सङ्कुले अग्रपङ्क्तिद्वयं भञ्जयित्वा आक्रान्तं शत्रुं दृष्ट्वा यदा दिग्गजानां योजनम् अपरिहार्यम् आपतितं तदा सः लिखति, "रयिर् आतृतीयाम् आगतम्" (तन्नाम विषयः आतृतीय-श्रेणिम् आगतः)इति तावदेव। तस्मिन् वाक्ये आक्रान्तानां तथा म्रियमाणानां चीत्कारः मूक एव निहितः स्यात्। चमूनाथस्य दृष्टिः वीतरागवेदना वर्तते।
 
-६०. विप्रकृष्टं कारुण्यमिति विषये मम स्मृतिपथे इदं चकास्ति - वर्षेभ्यः पूर्वं सियातल(Seattle)-नगरस्थे कस्यचित् सुजनस्य तलगृहे आयोजित-काव्यसभायां सुविख्यातः विद्वान् प्रवक्ता आसीत्। भवन्तो ऽत्यन्त-भावुकाः विविधकाव्यप्रकरणानि उद्धृत्य स्वविचारान् विजृम्भयन्तः आसन्। प्रणय-विषयम् उद्दिश्य भवन्तः उक्तवन्तः, "यदा वयं स्वयम् अनुभवामः, सः भावः उच्यते, परन्तु मिलित्वा चित्रपटे इव वीक्षामहे चेत् सः रसः इति उच्यते" इति। भवन्तो ऽविवाहिताः इति जानानः कदाचित् अहं पृष्टवान् यत् निजजीवने यदि प्रणयस्य, संभोगस्य, वियोगस्य वा अनुभवः न स्यात्, तर्हि किं विषयवस्तु अवगन्तुं शक्नुयाम? उत्तरम् अददुः, "अस्मासु सैनिकेतरेषु सत्स्वपि युद्धकथां पठित्वा रसास्वादनं कुर्मः खलु?" तेन अस्मासु मन्दहासस्य ऊर्मिका प्रसृता। प्रश्नावधिः समाप्तः, परं मम समाधानं नाभूत्। यतो हि अहं योद्धॄणां वचोभ्यः जानामि यत् तेषां अनुभवः अस्माकं कल्पनातीतो ऽस्ति। मृत्युसन्निकर्षे भावः परिवर्तते। १७-वर्षवयसः मम अर्बुदरोगः आपतितः। वैद्यमहोदयः सकारुण्यं - "प्रयासं कुर्मः परं वर्षेण सार्धवर्षेण वा दिवङ्गमिष्यसि इति मन्ये" इति निदानं न्यवेदयत्। अद्भुतः सार्धवर्षः आसीत् सः। सूर्योदयः अद्भुतः, जनानां मुखानि अद्भुतानि, शरीरस्य क्षयोऽपि अद्भुतः। शारीरिक-क्लेशम् अनुभूयापि मयि दैन्यं नासीत्, प्रत्युत नैकेषां सान्तवनेन खिद्ये स्म। किन्तु तदानीं जीवने कस्यापि महतो कार्यभारस्य धुरंधरो नासं ननु। पितरौ मदधिकतया दुःखितौ स्याताम्। इदानीं तु यदि तथा भवेत् तर्हि दारापुत्रादिकस्य विषये निश्चयेन मयि कारुण्यं चिन्ता च उत्पद्येयातां, यतोहि मम अस्मिता तेभ्यःप्रकृष्टा तिष्ठति। तान् प्रति मम कर्तव्यं मम रसं परिवर्तयति। भक्तिः दायित्वसापेक्षा वर्तते। मुक्तिस्तु कायातीतेन आत्मज्ञानेन, परमकर्तृज्ञानेन, अभिषुतस्य याथातथ्यतोऽर्थयुतस्य रसस्य पानेन च (ईशोपनिषदि ८) सम्भवति।
+६०. विप्रकृष्टं कारुण्यमिति विषये मम स्मृतिपथे इदं चकास्ति - वर्षेभ्यः पूर्वं सियातल(Seattle)-नगरस्थे कस्यचित् सुजनस्य तलगृहे आयोजित-काव्यसभायां सुविख्यातः विद्वान् प्रवक्ता आसीत्। भवन्तो ऽत्यन्त-भावुकाः विविधकाव्यप्रकरणानि उद्धृत्य स्वविचारान् विजृम्भयन्तः आसन्। प्रणय-विषयम् उद्दिश्य भवन्तः उक्तवन्तः, "यदा वयं स्वयम् अनुभवामः, सः भावः उच्यते, परन्तु मिलित्वा चित्रपटे इव वीक्षामहे चेत् सः रसः इति उच्यते" इति। भवन्तो ऽविवाहिताः इति जानानः कदाचित् अहं पृष्टवान् यत् निजजीवने यदि प्रणयस्य, संभोगस्य, वियोगस्य वा अनुभवः न स्यात्, तर्हि किं विषयवस्तु अवगन्तुं शक्नुयाम? उत्तरम् अददुः, "अस्मासु सैनिकेतरेषु सत्स्वपि युद्धकथां पठित्वा रसास्वादनं कुर्मः खलु?" तेन अस्मासु मन्दहासस्य ऊर्मिका प्रसृता। प्रश्नावधिः समाप्तः, परं मम समाधानं नाभूत्। यतो हि अहं योद्धॄणां वचोभ्यः जानामि यत् तेषां अनुभवो ऽस्माकं कल्पनातीतो ऽस्ति। मृत्युसन्निकर्षे भावः परिवर्तते। १७-वर्षवयसः मम अर्बुदरोगः आपतितः। वैद्यमहोदयः सकारुण्यं - "प्रयासं कुर्मः परं वर्षेण सार्धवर्षेण वा दिवङ्गमिष्यसि इति मन्ये" इति निदानं न्यवेदयत्। अद्भुतः सार्धवर्षः आसीत् सः। सूर्योदयः अद्भुतः, जनानां मुखानि अद्भुतानि, शरीरस्य क्षयोऽपि अद्भुतः। शारीरिक-क्लेशम् अनुभूयापि मयि दैन्यं नासीत्, प्रत्युत नैकेषां सान्तवनेन खिद्ये स्म। किन्तु तदानीं जीवने कस्यापि महतो कार्यभारस्य धुरंधरो नासं ननु। पितरौ मदधिकतया दुःखितौ स्याताम्। इदानीं तु यदि तथा भवेत् तर्हि दारापुत्रादिकस्य विषये निश्चयेन मयि कारुण्यं चिन्ता च उत्पद्येयातां, यतोहि मम अस्मिता तेभ्यःप्रकृष्टा तिष्ठति। तान् प्रति मम कर्तव्यं मम रसं परिवर्तयति। भक्तिः दायित्वसापेक्षा वर्तते। मुक्तिस्तु कायातीतेन आत्मज्ञानेन, परमकर्तृज्ञानेन, अभिषुतस्य याथातथ्यतोऽर्थयुतस्य रसस्य पानेन च (ईशोपनिषदि ८) सम्भवति।
 
 ६१. यन्त्रयुता रणव्यूहरचना अमानुषी प्रतीयते। पुरा व्यूहः नाम दृढश्रेणिभिः निर्मिताः चतुर्भुजाः तालबद्धगत्या निःशाणं कुर्वन्तः इति आसीत्, परन्तु प्रथमे विश्व-महायुद्धात् आरभ्य नारकीयम् अशासनं दरीदृश्यते युद्धक्षेत्रेषु। कुतः? अधुना संभारस्य स्पर्धारूपेण परिवर्तिता व्यूहरचना। अस्य तर्काधारः दिग्-अवधारणायाः पूर्णतो विरुद्धः वर्तते। यत्र यत्र अधिक-बल-नियोजनस्य न्यूनप्रभावः भवति तत्र तत्र एतत् परिचिनुमः। अतः, अधुना अस्य नवीनव्यूहस्य अङ्गानि निश्चयेन नः समाजे, पर्यावरणे, तन्त्रेषु, सर्वव्यव्स्थासु च निहितानि सन्ति। या बुद्धि एतद् अधिगच्छेत् सा एव नो भविष्यं निर्मास्यति, अपि ताम् एव प्रचलित-मिथ्याः न मुह्यन्ति।
 
