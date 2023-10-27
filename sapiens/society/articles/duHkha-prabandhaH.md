@@ -6,107 +6,177 @@ Source: [TW](https://kadaxara.blogspot.com/2022/09/blog-post.html?m=1)
 
 दुःख-प्रबन्धः
 
-अत्र दैत्य(Deutsche, German)-दर्शनकारः श्रीमान् अर्ण्ष्ट-युङ्गरः इत्यस्य पुस्तकात् कानिचन सुविचाराः। लेखकोऽयं युवसु प्रियतां गतः अधुना, विशिष्य तेषु सिख-हिन्दुकेषु ये उदारवादिभ्यः द्विषन्तः स्वराष्ट्रम् इच्छन्ति। किन्तु एषां युङ्गरस्य विषये दुर्बोधः स्यात् इति मन्ये। एहि पश्यामः।
+अत्र दैत्य(Deutsche, German)-दर्शनकारः श्रीमान् अर्ण्ष्ट-युङ्गरः इत्यस्य पुस्तकात् केचन सुविचाराः।  
+लेखकोऽयं युवसु प्रियतां गतो ऽधुना,  
+विशिष्य तेषु सिख-हिन्दुकेषु यय् उदार-वादिभ्यः द्विषन्तः स्वराष्ट्रम् इच्छन्ति।  
+किन्तु, एषां युङ्गरस्य विषये दुर्बोधः स्याद् इति मन्ये।  
+एहि पश्यामः।
 
 Some thoughts & snippets from German soldier-philosopher Ernst Junger's book. A new surge of popularity in this prophetic writer among Indian and American nationalists alike, who are dissatisfied with Liberalism. But there are misunderstandings about Junger. A review through an Indian eye:
 
-१. पीडया परीक्ष्यते पुमान् - Man is known through Pain
-२. नियतेर् अङ्कुशः - The Goad of Destiny
-३. विपद् वादयति विचारतरङ्गान् - Calamity Plays the Heart-Strings
-४. कान्दिशीकानां कुहनिका - The Charade of Fugitives
-५. अतीतमोहः - Nostalgic Delusions
-६. यस्य छायामृतं यस्य मृत्युः - Whose Shadow is Immortality, Whose Shadow is Death
-७. शरीराणां शारिका - A Chess Game of Physical Bodies
-८. दैवानुग्रहः - Favor of the Gods
-९. मर्यादा-पुरुषः - Man of Duty
-१०. चण्डालः - Lumpen Prole
-११. कामश्च मन्युश्च - Eros and Ire
-१२. रसो वै सः - That, Verily, is Rasa
-१३. बलि-साधारण्यम् - Normalization of Sacrifice & Victimization
-१४. दुष्टा दृक् - The Evil Eye
-१५. माया - A Measuring Mentality
-१६. राष्ट्रम् - Sacred Cultural Nationalism 
-१ - पीडया परीक्ष्यते पुमान्
+- १. पीडया परीक्ष्यते पुमान् - Man is known through Pain
+- २. नियतेर् अङ्कुशः - The Goad of Destiny
+- ३. विपद् वादयति विचार-तरङ्गान् - Calamity Plays the Heart-Strings
+- ४. कान्दिशीकानां कुहनिका - The Charade of Fugitives
+- ५. अतीत-मोहः - Nostalgic Delusions
+- ६. यस्य छायामृतं यस्य मृत्युः - Whose Shadow is Immortality, Whose Shadow is Death
+- ७. शरीराणां शारिका - A Chess Game of Physical Bodies
+- ८. दैवानुग्रहः - Favor of the Gods
+- ९. मर्यादा-पुरुषः - Man of Duty
+- १०. चण्डालः - Lumpen Prole
+- ११. कामश्च मन्युश्च - Eros and Ire
+- १२. रसो वै सः - That, Verily, is Rasa
+- १३. बलि-साधारण्यम् - Normalization of Sacrifice & Victimization
+- १४. दुष्टा दृक् - The Evil Eye
+- १५. माया - A Measuring Mentality
+- १६. राष्ट्रम् - Sacred Cultural Nationalism 
+
+## ०१ - पीडया परीक्ष्यते पुमान्
 १. "दुःखेन सह त्वत्सम्बन्धे ज्ञाते, तव स्वभावं व्याख्यास्यामि।"
 
-२. मनुष्यस्य मतानुसारं तस्य वेदना-सम्बन्धः परिवर्तते। वेदनां कथं सम्मुखीकर्तव्यम् इति सः मतानुगुणं निर्धारयति। 
+1. "Tell me your relationship with pain and I will describe your true nature."
+
+२. मनुष्यस्य मतानुसारं तस्य वेदना-सम्बन्धः परिवर्तते।  
+वेदनां कथं सम्मुखी-कर्तव्यम् इति सः मतानुगुणं निर्धारयति। 
+
+2. A man's relationship with Pain changes based on the beliefs he associates with, says Junger. Beliefs and belief-systems are important. Modern intellectuals downplay the importance of (esp. religious) beliefs, but they affect the core of one's existence.
 
 ३. आध्यात्मिक-संस्कृतेः कार्यत्रयम् अस्ति - 
 
-    (अ) बुद्धेः मानचित्र-निर्माणं (mental maps)
+- (अ) बुद्धेः मानचित्र-निर्माणं (mental maps)
+- (आ) कायेन मनसा वाचा च संस्कार-निर्माणं (moulding of affects)
+- (इ) सहज-प्रवृत्तीनां शासनं (economy of instincts)
 
-    (आ) कायेन मनसा वाचा च संस्कार-निर्माणं (moulding of affects)
-
-    (इ) सहज-प्रवृत्तीनां शासनं (economy of instincts)
+3. Religious sadhana is a process of inner change via 3 "external" changes:
+   Mental maps (beliefs)
+   Molding of affects (styles of dress & moods)
+   Economy of instincts (right, wrong, encouragement, discouragement)
 
 ४. पीडां संविद्य मनः निम्न-पञ्च-प्रक्रियासु मुख्यतया एकां चिनोति - 
 
-निवारणं
-परिहारः
-पलायनं
-वशगमनं
-युद्धम्। 
-1. "Tell me your relationship with pain and I will describe your true nature."
-2. A man's relationship with Pain changes based on the beliefs he associates with, says Junger. Beliefs and belief-systems are important. Modern intellectuals downplay the importance of (esp. religious) beliefs, but they affect the core of one's existence.
-3. Religious sadhana is a process of inner change via 3 "external" changes:
-Mental maps (beliefs)
-Molding of affects (styles of dress & moods)
-Economy of instincts (right, wrong, encouragement, discouragement)
+- निवारणं
+- परिहारः
+- पलायनं
+- वशगमनं
+- युद्धम्। 
+
 4. On sensing Pain, the mind - reflexively or after justification - chooses among these 5 courses of action:
-prevention
-circumvention
-escape
-succumb
-fight
+
+- prevention
+- circumvention
+- escape
+- succumb
+- fight
+
 5. While all 5 options will always be on the table tactically, only one option defines the overarching strategic character of an individual's (or nation's) mind. That fundamental orientation is shaped by sanskaars & beliefs. What is your default?
-२ - नियतेरङ्कुशः
-६. यादृच्छिकम् इव, दैवविषयेषु अन्यतमं वा इति आधिव्याधीत्यादिकं सम्भावयितुम् कामयते मनुष्यः। येन तां निवारयितुं परिहर्तुं वा शक्येत।
 
-७. अथवा न्यूनातिन्यूनं तत् नियतरूपेण अवश्यम्भावि न स्यात्... निष्प्रयोजनमेव स्यात्... नियतेः नियमाधीनं न स्यात्... लोके तस्य आवश्यकता न स्यात्... इति मतिः मनुष्याय रोचते। परन्तु नियतेः हस्ते तोमरः इव शोभते वेदना, यया जनान् अर्दयति जनार्दनः। तेषामेव विकासार्थम्। अत एव अर्दाशसा (अर्दन् आशः इति) पूजयेत् अकालपुरुषः इति गुरवः। रामायणे ४.२५.४ -
-
-नियतिः कारणं लोके नियतिः कर्मसाधनम्। नियतिः सर्वभूतानां नियोगेष्विह कारणम्॥
-८. दुःखात् अपरिहार्यतरं नास्ति किञ्चित्। पेषणीव तत् मानवरूपि धान्यं चक्रे चक्रे सूक्ष्मतरं छिनत्ति। मनुष्यस्य आत्मतत्त्वानि विश्लेषयति निष्कर्षति च पञ्चाग्नीनां क्लेशः।
-
-९. आधिभौतिके लोके मनुष्यः अपायेन आविष्टः इति सः सुविधाम् आश्रित्य विस्मर्येत। "आयुर्मध्ये मृत्युना ऽविष्टाः वयम्।" प्रकृतेः माया सुदारुणा। सा प्रच्छन्नयन्त्रवत् शीतायसकृपाण इवपरमनिष्ठुरेण उग्राघातेन मनुष्यस्य मर्माणि विध्यति।
+## ०२ - नियतेरङ्कुशः
 
 1. Destiny uses Pain to grind Man down to his essential nature. Does he react like a disciplined elephant or a mad/feral elephant?
 
+६. यादृच्छिकम् इव, दैवविषयेषु +अन्यतमं वेति +अधिव्याधीत्यादिकं सम्भावयितुम् कामयते मनुष्यः। येन तां निवारयितुं परिहर्तुं वा शक्येत।
+
 2. People prefer to rationalize calamity & suffering as being due to:
 
-Random, accidental causes, or
-Nebulous Fate
-This allows us to deal with it in a Protectionist or Avoidance mode. But is Pain just an unfortunate intrusion in Life? Or is it essential to Life's Purpose?
+- Random, accidental causes, or
+- Nebulous Fate
+
+This allows us to deal with it in a Protectionist or Avoidance mode.
+
+> ७. अथवा न्यूनातिन्यूनं तत् नियतरूपेण अवश्यम्भावि न स्यात्...  
+निष्प्रयोजनमेव स्यात्...  
+नियतेः नियमाधीनं न स्यात्...  
+लोके तस्य आवश्यकता न स्यात्... 
+
+इति मतिः मनुष्याय रोचते।  
+
+But is Pain just an unfortunate intrusion in Life? Or is it essential to Life's Purpose?
+
 3. People at least do not want to accept that Pain is unavoidable in Destiny. We like to think of it as a purposeless, unfortunate interruption. We do not want to believe it is a fundamental part of the Laws of Destiny. We do not want to accept that it is necessary in life.
 
-4. However, Pain is in fact the glistening javelin in the hands of one's Destiny, by which Janardan propels men spiritually (Janaardan = One who makes men groan & supplicate). Gurus emphasize imp. of a mind in Ardaas mode (Ardaash = Praise or Entreaty in a state of Suffering).
+परन्तु नियतेः हस्ते तोमरः इव शोभते वेदना,  
+यया जनान् अर्दयति जनार्दनः,  
+तेषामेव विकासार्थम्।  
+
+4. However, Pain is in fact the glistening javelin in the hands of one's Destiny, by which Janardan propels men spiritually (Janaardan = One who makes men groan & supplicate).
+
+अत एव अर्दाशसा (अर्दन् आशः इति) पूजयेत् अकालपुरुषः इति गुरवः।  
+
+Gurus emphasize imp. of a mind in Ardaas mode (Ardaash = Praise or Entreaty in a state of Suffering).
+
+
+रामायणे ४.२५.४ -
+
+> नियतिः कारणं लोके  
+> नियतिः कर्मसाधनम्।  
+> नियतिः सर्वभूतानां  
+> नियोगेष्विह कारणम्॥
 
 5. That Destined Pain has a specific discoverable purpose is stated in the Ramayan: Niyati (one's Lot in life) is the hidden hand in human affairs. It is the means of doing one's deeds (rightly or wrongly). It is the cause that engages all beings in their respective roles.
 
-6. Nothing is more unavoidable than sorrow. Like a millstone, with each rotation it grinds down human corn into a flour. It separates out the substance of his soul through the 5 Fires of Suffering. Thus, Panchaagni Vidya.
 
-7. Latin proverb: "In the midst of life, man is enveloped by death." Surrounded by creature comforts we forget we are enveloped by danger. But Nature's Maya is a terrible beauty. A hidden mechanism. Her Kirpan's cold steel pierces man's vulnerabilities with cruel, vicious blows.
+८. दुःखाद् अपरिहार्यतरं नास्ति किञ्चित्।  
+पेषणीव तन् मानवरूपि धान्यं  
+चक्रे चक्रे सूक्ष्मतरं छिनत्ति।  
+मनुष्यस्य आत्म-तत्त्वानि विश्लेषयति निष्कर्षति च  
+पञ्चाग्नीनां क्लेशः।
 
-३ - विपद् वादयति विचारतरङ्गान्
-१०. सभ्यसमाजस्य आचारान् मान्यताश्च अवधीरयन्ती, विपद् जीवने गलहस्ता तिष्ठति। कदापि कस्मिन्नपि आपतेत् सा। आध्रम् उत राजानं समानतया व्याहरति भगः।
+6. Nothing is more unavoidable than sorrow.  
+   Like a millstone, with each rotation it grinds down human corn into a flour.  
+   It separates out the substance of his soul through the 5 Fires of Suffering. Thus, Panchaagni Vidya.
 
-११. रणरङ्गे यदा स्फोटावाराः इतस्ततः डयन्ते, न बुद्धिः, पुण्यं, धृतिश्च तान् लेशमात्रमपि निवारयेयुः। यावत् ईदृश्यः विपत्तयः वर्धेरन् तावदधिकं मनुष्यः समाजस्य मान्यताः शङ्कते। 
+९. आधिभौतिके लोके मनुष्यः अपायेन आविष्टः  
+इति सुविधाम् आश्रित्य विस्मर्येत।  
+"आयुर्मध्ये मृत्युना ऽविष्टाः वयम्।"  
+प्रकृतेः माया सुदारुणा।  
+सा प्रच्छन्न-यन्त्रवत् शीतायस-कृपाण इव परम-निष्ठुरेण +उग्राघातेन मनुष्यस्य मर्माणि विध्यति।
 
-१२. तदानीं, मनः दुर्गाढं प्रलयकारि जीवन-दर्शनं प्रति प्रवणायते। बहिस्तात् विनाशं उत अन्तः क्षयं सम्भावयति मनः। युद्धाय उद्यम्येरन् खड्गाः। 
+7. Latin proverb: "In the midst of life, man is enveloped by death." Surrounded by creature comforts we forget we are enveloped by danger.  
+   But Nature's Maya is a terrible beauty. A hidden mechanism.  
+   Her Kirpan's cold steel pierces man's vulnerabilities with cruel, vicious blows.
 
-१३. जीवनस्य भेद्यताम् अनिश्चितत्वं च दृष्ट्वा मनः तादृशं लोकं काङ्क्षते यत्र दुःखस्य निस्सीमः कुण्ठः न स्यात्। कस्मिन् वैकुण्ठे नावसादयन्ति विपदः ? भागवतेऽपि १०.१४.५८ - समाश्रिता ये पदपल्लवप्लवं महत्पदं पुण्ययशो मुरारे:। भवाम्बुधिर्वत्सपदं परं पदं पदं पदं यद् विपदां न तेषाम्॥
+## ०३ - विपद् वादयति विचार-तरङ्गान्
+१०. सभ्य-समाजस्य आचारान् मान्यताश्च अवधीरयन्ती,  
+विपद् जीवने गलहस्ता तिष्ठति।  
+कदा ऽपि कस्मिन्न् अपि आपतेत् सा।  
+आध्रम् उत राजानं समानतया व्याहरति भगः।
 
 1. Public sentiment is the effect of widely shared experiences of pain.
-
 2. Calamity has life by the throat, and doesn't give a rat's musharraf for the modes and manners of "civilized society". She can pay anyone a visit at any time. She treats a beggar and a king the same.
 
-3. Battle is the apex of the insanity of calamity. On the battlefield, neither your deadly IQ, meritorious deeds, nor mighty resolutions can alter the trajectories of shells flying through the air almost at random. As such random calamity increases, cynicism of values increases.
+११. रण-रङ्गे यदा स्फोटावाराः इतस् ततो डयन्ते,  
+न बुद्धिः, पुण्यं, धृतिश्च तान् लेशमात्रम् अपि निवारयेयुः।  
+यावत् ईदृश्यः विपत्तयः वर्धेरन्  
+तावद् अधिकं मनुष्यः समाजस्य मान्यताः शङ्कते। 
+
+3. Battle is the apex of the insanity of calamity.  
+   On the battlefield, neither your deadly IQ, meritorious deeds, nor mighty resolutions can alter the trajectories of shells flying through the air almost at random.  
+   As such random calamity increases, cynicism of values increases.
+
+
+१२. तदानीं, मनः दुर्गाढं प्रलयकारि जीवन-दर्शनं प्रति प्रवणायते।  
+बहिष्टाद् विनाशम्, उत अन्तः क्षयं सम्भावयति मनः।  
+युद्धाय उद्यम्येरन् खड्गाः। 
 
 4. With cynicism of civilized values, the mind inclines towards a dark, "based" view of life. Apocalyptic fantasies, nihilism increase. People conceive of destruction from without or subversion from within. People sharpen their swords in preparation for chaotic anarchy.
 
+१३. जीवनस्य भेद्यताम् अनिश्चितत्वं च दृष्ट्वा  
+मनः तादृशं लोकं काङ्क्षते  
+यत्र दुःखस्य निस्सीमः कुण्ठः न स्यात्।  
+कस्मिन् वैकुण्ठे नावसादयन्ति विपदः ?  
+भागवतेऽपि १०.१४.५८ -  
+
+> समाश्रिता ये पदपल्लव-प्लवं  
+महत्-पदं पुण्य-यशो मुरारेः।  
+भवाम्बुधिर् वत्स-पदं परं पदं  
+पदं पदं यद् विपदां न तेषाम्॥
+
 5. Paradoxically the same delicate minds (I avoid the word "weak") that talk tough about "based" values & impending war also yearn for a utopia free & safe from the fragility, indeterminism & a mentally dull society they see around. Enter hypocritical religio-political movements.
 
-४ - कान्दिशीकानां कुहनिका
-१४. किन्तु पुनः अमूर्तविचाराणां कपोलकल्पना-सरसः शीनतलो भङ्गुरायते। सदा विद्यमानं गूढपदार्थम् अधस्ताद् उत्सृज्य तलस्य दरेषु निस्सर्तुम् आरभते। 
+## ०४ - कान्दिशीकानां कुहनिका
+१४. किन्तु पुनः अमूर्त-विचाराणां कपोल-कल्पना-सरसः शीन-तलो+++(=??)+++ भङ्गुरायते।  
+सदा विद्यमानं गूढ-पदार्थम् अधस्ताद् उत्सृज्य  
+तलस्य दरेषु निस्सर्तुम् आरभते। 
 
 १५. तर्को न्यायश्च दुःखस्य भयं जेतुम् अर्हतः इति आशा शीर्यमाणा स्यान्न वा, वयं लोकतन्त्रे पवित्रां संस्कृतिं प्रशंसयामः एव। अपितु यः रक्षाव्यवस्थां, स्थैर्यम्, आरामं, "मा हिंसीः" इति संस्कृतिं च तिरस्करोति, सः मुग्धो महता दर्पेण एव आत्मानं भीरुषु वीरम् इव भावयति। पवित्रां संस्कृतिं परिपालयन्ती हिंसा अध्वर इति परिगण्यते।
 
@@ -362,7 +432,7 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 १२ - रसो वै सः
 ५९. विगितिः (Vegetius) पोलिबिश्च (Polybius) इव चिकित्सूनां मतौ रणारङ्गे व्यूहरचना गणितविज्ञानाङ्गत्वेन परिगण्येत। सम्राड् यूलियस्य (Julius Caesar) गद्ये विप्रकृष्ट-कारुण्यं न विद्यते - विदूरात् यत् कारुण्यं भयं वा मनसि उत्पद्येत, तदत्र न विद्यते। साम्राज्ये आवश्यकः सहजः भद्रः विरक्तः स्वभावः एव स्पन्दते। युङ्गरः व्याख्याति यत् विप्रकर्षे कारुण्यं (the pathos of distance) शक्तेः विशेषता नास्ति अपितु शक्तीप्सायाः। तस्य गद्यं वस्तुरूपेण अनिर्वचनीयत्वं प्रतिपादयति। उदाहरणतः, सङ्कुले अग्रपङ्क्तिद्वयं भञ्जयित्वा आक्रान्तं शत्रुं दृष्ट्वा यदा दिग्गजानां योजनम् अपरिहार्यम् आपतितं तदा सः लिखति, "रयिर् आतृतीयाम् आगतम्" (तन्नाम विषयः आतृतीय-श्रेणिम् आगतः)इति तावदेव। तस्मिन् वाक्ये आक्रान्तानां तथा म्रियमाणानां चीत्कारः मूक एव निहितः स्यात्। चमूनाथस्य दृष्टिः वीतरागवेदना वर्तते।
 
-६०. विप्रकृष्टं कारुण्यमिति विषये मम स्मृतिपथे इदं चकास्ति - वर्षेभ्यः पूर्वं सियातल(Seattle)-नगरस्थे कस्यचित् सुजनस्य तलगृहे आयोजित-काव्यसभायां सुविख्यातः विद्वान् प्रवक्ता आसीत्। भवन्तः अत्यन्त-भावुकाः विविधकाव्यप्रकरणानि उद्धृत्य स्वविचारान् विजृम्भयन्तः आसन्। प्रणय-विषयम् उद्दिश्य भवन्तः उक्तवन्तः, "यदा वयं स्वयम् अनुभवामः, सः भावः उच्यते, परन्तु मिलित्वा चित्रपटे इव वीक्षामहे चेत् सः रसः इति उच्यते" इति। भवन्तः अविवाहिताः इति जानानः कदाचित् अहं पृष्टवान् यत् निजजीवने यदि प्रणयस्य, संभोगस्य, वियोगस्य वा अनुभवः न स्यात्, तर्हि किं विषयवस्तु अवगन्तुं शक्नुयाम? उत्तरम् अददुः, "अस्मासु सैनिकेतरेषु सत्स्वपि युद्धकथां पठित्वा रसास्वादनं कुर्मः खलु?" तेन अस्मासु मन्दहासस्य ऊर्मिका प्रसृता। प्रश्नावधिः समाप्तः, परं मम समाधानं नाभूत्। यतो हि अहं योद्धॄणां वचोभ्यः जानामि यत् तेषां अनुभवः अस्माकं कल्पनातीतः अस्ति। मृत्युसन्निकर्षे भावः परिवर्तते। १७-वर्षवयसः मम अर्बुदरोगः आपतितः। वैद्यमहोदयः सकारुण्यं - "प्रयासं कुर्मः परं वर्षेण सार्धवर्षेण वा दिवङ्गमिष्यसि इति मन्ये" इति निदानं न्यवेदयत्। अद्भुतः सार्धवर्षः आसीत् सः। सूर्योदयः अद्भुतः, जनानां मुखानि अद्भुतानि, शरीरस्य क्षयोऽपि अद्भुतः। शारीरिक-क्लेशम् अनुभूयापि मयि दैन्यं नासीत्, प्रत्युत नैकेषां सान्तवनेन खिद्ये स्म। किन्तु तदानीं जीवने कस्यापि महतो कार्यभारस्य धुरंधरो नासं ननु। पितरौ मदधिकतया दुःखितौ स्याताम्। इदानीं तु यदि तथा भवेत् तर्हि दारापुत्रादिकस्य विषये निश्चयेन मयि कारुण्यं चिन्ता च उत्पद्येयातां, यतोहि मम अस्मिता तेभ्यःप्रकृष्टा तिष्ठति। तान् प्रति मम कर्तव्यं मम रसं परिवर्तयति। भक्तिः दायित्वसापेक्षा वर्तते। मुक्तिस्तु कायातीतेन आत्मज्ञानेन, परमकर्तृज्ञानेन, अभिषुतस्य याथातथ्यतोऽर्थयुतस्य रसस्य पानेन च (ईशोपनिषदि ८) सम्भवति।
+६०. विप्रकृष्टं कारुण्यमिति विषये मम स्मृतिपथे इदं चकास्ति - वर्षेभ्यः पूर्वं सियातल(Seattle)-नगरस्थे कस्यचित् सुजनस्य तलगृहे आयोजित-काव्यसभायां सुविख्यातः विद्वान् प्रवक्ता आसीत्। भवन्तो ऽत्यन्त-भावुकाः विविधकाव्यप्रकरणानि उद्धृत्य स्वविचारान् विजृम्भयन्तः आसन्। प्रणय-विषयम् उद्दिश्य भवन्तः उक्तवन्तः, "यदा वयं स्वयम् अनुभवामः, सः भावः उच्यते, परन्तु मिलित्वा चित्रपटे इव वीक्षामहे चेत् सः रसः इति उच्यते" इति। भवन्तो ऽविवाहिताः इति जानानः कदाचित् अहं पृष्टवान् यत् निजजीवने यदि प्रणयस्य, संभोगस्य, वियोगस्य वा अनुभवः न स्यात्, तर्हि किं विषयवस्तु अवगन्तुं शक्नुयाम? उत्तरम् अददुः, "अस्मासु सैनिकेतरेषु सत्स्वपि युद्धकथां पठित्वा रसास्वादनं कुर्मः खलु?" तेन अस्मासु मन्दहासस्य ऊर्मिका प्रसृता। प्रश्नावधिः समाप्तः, परं मम समाधानं नाभूत्। यतो हि अहं योद्धॄणां वचोभ्यः जानामि यत् तेषां अनुभवः अस्माकं कल्पनातीतो ऽस्ति। मृत्युसन्निकर्षे भावः परिवर्तते। १७-वर्षवयसः मम अर्बुदरोगः आपतितः। वैद्यमहोदयः सकारुण्यं - "प्रयासं कुर्मः परं वर्षेण सार्धवर्षेण वा दिवङ्गमिष्यसि इति मन्ये" इति निदानं न्यवेदयत्। अद्भुतः सार्धवर्षः आसीत् सः। सूर्योदयः अद्भुतः, जनानां मुखानि अद्भुतानि, शरीरस्य क्षयोऽपि अद्भुतः। शारीरिक-क्लेशम् अनुभूयापि मयि दैन्यं नासीत्, प्रत्युत नैकेषां सान्तवनेन खिद्ये स्म। किन्तु तदानीं जीवने कस्यापि महतो कार्यभारस्य धुरंधरो नासं ननु। पितरौ मदधिकतया दुःखितौ स्याताम्। इदानीं तु यदि तथा भवेत् तर्हि दारापुत्रादिकस्य विषये निश्चयेन मयि कारुण्यं चिन्ता च उत्पद्येयातां, यतोहि मम अस्मिता तेभ्यःप्रकृष्टा तिष्ठति। तान् प्रति मम कर्तव्यं मम रसं परिवर्तयति। भक्तिः दायित्वसापेक्षा वर्तते। मुक्तिस्तु कायातीतेन आत्मज्ञानेन, परमकर्तृज्ञानेन, अभिषुतस्य याथातथ्यतोऽर्थयुतस्य रसस्य पानेन च (ईशोपनिषदि ८) सम्भवति।
 
 ६१. यन्त्रयुता रणव्यूहरचना अमानुषी प्रतीयते। पुरा व्यूहः नाम दृढश्रेणिभिः निर्मिताः चतुर्भुजाः तालबद्धगत्या निःशाणं कुर्वन्तः इति आसीत्, परन्तु प्रथमे विश्व-महायुद्धात् आरभ्य नारकीयम् अशासनं दरीदृश्यते युद्धक्षेत्रेषु। कुतः? अधुना संभारस्य स्पर्धारूपेण परिवर्तिता व्यूहरचना। अस्य तर्काधारः दिग्-अवधारणायाः पूर्णतो विरुद्धः वर्तते। यत्र यत्र अधिक-बल-नियोजनस्य न्यूनप्रभावः भवति तत्र तत्र एतत् परिचिनुमः। अतः, अधुना अस्य नवीनव्यूहस्य अङ्गानि निश्चयेन नः समाजे, पर्यावरणे, तन्त्रेषु, सर्वव्यव्स्थासु च निहितानि सन्ति। या बुद्धि एतद् अधिगच्छेत् सा एव नो भविष्यं निर्मास्यति, अपि ताम् एव प्रचलित-मिथ्याः न मुह्यन्ति।
 
@@ -449,7 +519,7 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 6. Perceptions on sickness & health, & the mind-body relationship change. Problems that were earlier treated by a change in lifestyle or undertaking an exercise now simply expect a pill. Pharmacology becomes the panacea. Junger predicts the illegal abuse of opioids too.
 7. Thus, once tantra-ization of social values is complete, & measurement advances into every field of endeavor & enjoyment, then the tyranny of physical biology begins. People's reality is mediated by existing records of measurement. The conception of possibilities is narrowed.
 १६ - राष्ट्रम्
-७९. पुरातन-मान-मर्यादानां वासनाभिः वासितः अस्ति अद्यतनसमाजः। वयं प्रौढाः पुरातनसंस्कारान् अनुभूय आधुनिक-नैरस्यम् अभिज्ञातुं शक्नुमः। विगतभावस्य विरहे दीनाः स्याम। किन्तु नः पुरतः अर्भकाः वर्धमानाः सन्ति ये युवानः भूत्वा विवेचयितुम् अपि न शक्ष्यन्ति। अत्र वेदनाविषयकं रहस्यं तैः नावगतं चेत् महान् अनर्थो भविष्यति। एषः गूढविषयः पुरा प्रोक्तः एव महात्मभिः किन्तु तस्य बोधनम् अद्य न सरलम्। यतोहि विषयोऽयं वाचा तर्केण वा न बोध्येत। ज्येष्ठेषु आदरेण अथवा अनुभूत्या गृह्यते। यत्र वस्तुतया नानुभूयते, तत्र साधना अत्यावश्यकी। वेदनातः यूनः रक्षित्वा तान् वेदनारहस्यं कथं बोधयाम?
+७९. पुरातन-मान-मर्यादानां वासनाभिः वासितो ऽस्ति अद्यतनसमाजः। वयं प्रौढाः पुरातनसंस्कारान् अनुभूय आधुनिक-नैरस्यम् अभिज्ञातुं शक्नुमः। विगतभावस्य विरहे दीनाः स्याम। किन्तु नः पुरतो ऽर्भकाः वर्धमानाः सन्ति ये युवानः भूत्वा विवेचयितुम् अपि न शक्ष्यन्ति। अत्र वेदनाविषयकं रहस्यं तैः नावगतं चेत् महान् अनर्थो भविष्यति। एषः गूढविषयः पुरा प्रोक्तः एव महात्मभिः किन्तु तस्य बोधनम् अद्य न सरलम्। यतोहि विषयोऽयं वाचा तर्केण वा न बोध्येत। ज्येष्ठेषु आदरेण अथवा अनुभूत्या गृह्यते। यत्र वस्तुतया नानुभूयते, तत्र साधना अत्यावश्यकी। वेदनातः यूनः रक्षित्वा तान् वेदनारहस्यं कथं बोधयाम?
 ८०. युङ्गरः चिन्तितवान् यत् समाजे राजनेतारः व्यक्तिहीनाः वर्णहीनाः च भविष्यन्ति। सर्वे अभिनेतारः एव। वस्तुतः यशः किमिति जनाः न जानन्ति। महती शक्तिः अस्मान् सततं युद्धं प्रति कर्षति, यस्मिन् कार्ये जनः उपसाधमात्रं भवति। तथापि सः कथञ्चित् स्वराड् भूत्वा मोक्षं प्राप्नुयात्। किन्तु सम्प्रदायस्य नाशे निश्चिते, संस्कृतेः च नाशे अवश्यम्भाविनि सति, तत्कथम् ? वैराग्यभावेन अनुसरणम् इति। यत्पूर्वं अर्थार्थी प्रीत्या वृणुते स्म, तदिदानीं वैराग्यभावेन रक्षितव्यम्।
 ८१. मानवसमाजः इदानीं शून्यवादस्य अन्तिमचरणे चक्रयन् अस्ति। ततोऽग्रे नूतन-सामाज-व्यवस्था जनिष्यते, यस्याः मर्यादाः अद्भुतभावेन द्रक्ष्यामः। परिस्थितेः वैशिष्ट्यम् अवगत्य मानवस्य विरोधाभासः विलीयते। महत्या संघटनशक्त्या सह कथं धर्मौदासीन्यं तिष्ठेत्? अर्थविरहिता श्रद्धा कथम्? अवैध-नेतृत्वे प्रजासु अनुशासनं कथम्?। सारांशे - व्यक्तीनां, संस्थानां, विचाराणां च कल्पिता कृत्रिमता। राष्ट्रभक्तेः कल्पनाम् आधार्य एव अनुशासनम्।
 ८२. अत एव अस्मिन् समये प्रजाः राष्ट्रं सर्वसाधारणी सुविधारूपेण अदृष्ट्वा तत् अर्चारूपेण पूजयितुम् इच्छन्ति। अत एव प्रौद्योगिकी लोकाचारः च समानार्थकत्वं गतौ। श्रद्धा, साधना, अनुशासनं इत्येषां प्रक्रियायाः लक्षणम् इदम्। एषा प्रक्रिया मानवस्य इच्छाशक्तेः प्रक्रिया। अत्रैव वल्मीक-धर्मः ज्ञायते - यः शुद्ध-नैतिक-विचारातीतः वर्तते। तस्य मूलम् इच्छाशक्तिमात्रम्।
