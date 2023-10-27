@@ -15,6 +15,8 @@ Dog packs instinctually attack and kill humans - within seconds. Hunger is NOT t
 - [9yo almost-dead BLR 2023-01-28](https://twitter.com/virendra1137/status/1627935641064595457)
 - 12yo dead near house Boondi RJ [OP](https://www.opindia.com/2023/07/stray-dogs-maul-12-year-old-to-death-boondi-rajasthan/)
 
+Other collections: [TW](https://twitter.com/dintentdata/status/1635563094079569920).
+
 ## First aid
 - Do not pinch, do not rub, do not disturb the wound. Suturing the wound is contraproductive! Pushes the virus, if present, deeper in the wound. Bleeding controlled via compression.
 - Do not apply chilly/ghee/mud/milk/turmeric or basically anything on the wound. You need to avoid tetanus and rabies
