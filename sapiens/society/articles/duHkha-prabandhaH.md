@@ -174,7 +174,7 @@ Gurus emphasize imp. of a mind in Ardaas mode (Ardaash = Praise or Entreaty in a
 5. Paradoxically the same delicate minds (I avoid the word "weak") that talk tough about "based" values & impending war also yearn for a utopia free & safe from the fragility, indeterminism & a mentally dull society they see around. Enter hypocritical religio-political movements.
 
 ## ०४ - कान्दिशीकानां कुहनिका
-१४. किन्तु पुनः अमूर्त-विचाराणां कपोल-कल्पना-सरसः शीन-तलो+++(=??)+++ भङ्गुरायते।  
+१४. किन्तु पुनर् अमूर्त-विचाराणां कपोल-कल्पना-सरसः शीन-तलो+++(=??)+++ भङ्गुरायते।  
 सदा विद्यमानं गूढ-पदार्थम् अधस्ताद् उत्सृज्य  
 तलस्य दरेषु निस्सर्तुम् आरभते। 
 
