@@ -297,35 +297,37 @@ The heartful revelation of secrets is something modern man understands less & le
 ज्ञानं पर्णेभ्यः मूलं प्रति,  
 तथा संस्क्रिया तृणमूलेभ्य आरभ्य अधस्तात् उपरि।  
 
-युङ्गरः एतं युगम् अन्तिमः मनुष्यः ("Last Man") इत्यस्य अभिदधाति।  
-तदानीं यूरोपे बुधा युगम् इदं दीर्घतरं मन्यन्ते स्म,  
-परं युङ्गरः विप्रतिपद्यते।  
-महायुद्धस्य काले सन्निहिते  
-युगान्तरः सम्भवेत्।
-
-
-
 5. So now, functions of Varna run mainly in reverse.
 
 Cognition: Leaves to roots.
 
-Culture: Grassroots upward. Junger calls it the Last Man.  
+Culture: Grassroots upward. 
+
+
+युङ्गरः एतं युगम् अन्तिमः मनुष्यः ("Last Man") इत्यस्य +अभिदधाति।  
+
+Junger calls it the Last Man.
+
+तदानीं यूरोपे बुधा युगम् इदं दीर्घतरं मन्यन्ते स्म,  
+परं युङ्गरः विप्रतिपद्यते।  
+महा-युद्धस्य काले सन्निहिते  
+युगान्तरः सम्भवेत्।
+
+
 But unlike other Euro philosophers who thought it was the longest Age,  
 he thought it was the shortest.  
 And it transitions thru total war.
 
 ## ०६ - यस्य छायामृतं यस्य मृत्युः
-२३. यत्र प्रजा दुःखात् रक्षिता, तत्र सामाजिक-स्थैर्यं कयाचित् विशिष्टार्थव्यवस्थया सम्पाद्यते। तथापि "दुःखस्य वैदग्ध्यं" कथञ्चित् मर्म वेधयति एव। कृत्रिमोपायैः आधिभौतिकासु ईतिषु निरुद्धासु, विपदः तिमिरान्धो निवार्येत चेदपि, सन्तापस्य विकीर्ण-रश्मयः जीवनम् आविशन्ति एव।  दुःख-गङ्गायाः मुक्त-प्रवाहात् रक्षितोऽपि मनोलिङ्गः गलन्तिकातः बिन्दुशः अभिषिच्यते। 
-
-२४. नैरस्यं निर्वेदो वा इति कालप्रवाहे दुःखस्य विलयनात् नान्यत् किञ्चन।
-
-२५. पीडायाः गुप्त-छाया द्रुग्ध-भावेन अपि प्रकटयति। आर्थिकः बौद्धिकः नैतिकः जातीयश्च इत्येतेषु विषयेषु "अधिकारिणः नाना-युक्तिभिः नो द्रुह्यन्ति" इति सन्दिहान-प्रजानां विश्वासः भ्रंशते। ततः, अपराधिनो मार्गयत्  छल-प्रपञ्च-रञ्जितम् अन्धवाङ्मयं लोकप्रियतां गच्छति। निर्वेदेन पाषण्ड-बुद्धिः यज्ञं दानं तपश्च निराकरोति, अथवा मृषाभावेन निरूह्य स्वकीयम् अविश्वासं निह्नुते। धर्मम् आध्यात्मसाधनां च हित्वा जनाः आधुनिक-मनोविज्ञानशास्त्रम् आलम्बन्ते।
-
-२६. प्रायः प्रजननविषये यथा दुःखं ताम्यति, तथा नो नान्यत्र सम्मुखीकरोति। अत्र सर्वाः प्राणशक्तयः रोधावस्थायां संपीडयन्ति। अप्रसूतानां भूरिशः भ्रूणहत्यां कथं नु विस्मर्तुं शक्येत, येन युगपत् तद्दुर्मेधायाः दौर्बल्यं पाशवं च प्रतिपद्येते। रण-वधयोः, रोगचिकित्सा-ऽपराधयोश्च मध्ये भेदस्य अनभिज्ञा बुद्धिः धर्मसङ्कटे निश्चयेन सर्वतो बाधारहितं क्षुद्रं च उपायं चेष्यति। अत्र पदव्याः औन्नत्यं दुःख-गाम्भीर्येण सह सद्यःसम्बन्धे तिष्ठति। यः कोऽपि जीवनस्य सारवस्तुना सह सम्बन्धं निर्वहति सः अमूर्तविचाराणाम् आडम्बरेण न तुष्येत्। परन्तु अस्मिन् व्यलीक-युगे, वीर्योपासना उन्मादरूपेण गृह्यते, प्रसूतिः रोगकल्पः इव परिदेव्यते, सैनिकः सौनिक-सन्निभश्च गर्ह्यते। आरक्षव्यवस्थायां यातनातन्त्रम् अपि मध्यकालीन-व्यवस्थां मन्येरन् मूढाः। कृषिः साधारण-वृत्तिषु अन्यतमा परिगण्यते।
-
-२७. अधम-मतानां लोके, सर्वाः माहात्म्य-मर्यादाः धूलिसात् क्रियन्ते। आत्मनो नियति-द्रोहः पदवीप्राप्तानां व्यक्तीनां दुःखेषु तीक्ष्णतया प्रतिबिम्बितः दृश्यते। तथैव जीवनस्य आश्रमान् कलिलान् करोति दुर्मेधा  - अहो! कथं यौवनस्य उत्साहो विच्छिद्यते अनया, कथं वानप्रस्थात् वञ्चितं भवति जीवनम्। 
-
-२८. एवं नियतेः छायातपस्सु चकास्ति धर्मज्ञानम्।
+२३. यत्र प्रजा दुःखात् रक्षिता,  
+तत्र सामाजिक-स्थैर्यं कयाचित् विशिष्टार्थव्यवस्थया सम्पाद्यते।  
+तथापि "दुःखस्य वैदग्ध्यं"  
+कथञ्चित् मर्म वेधयति एव।  
+कृत्रिमोपायैः आधिभौतिकासु ईतिषु निरुद्धासु,  
+विपदः तिमिरान्धो निवार्येत चेदपि,  
+सन्तापस्य विकीर्ण-रश्मयः जीवनम् आविशन्ति एव।   
+दुःख-गङ्गायाः मुक्त-प्रवाहात् रक्षितोऽपि  
+मनोलिङ्गम् +++(घट-)+++गलन्तिकातः बिन्दुशः अभिषिच्यते। 
 
 1. Junger says protection from sorrow creates cowardice & vicious nature in man. How we deal with loss of faith & ennui is critical.
 
@@ -333,13 +335,43 @@ And it transitions thru total war.
 
 3. Shielded artificially from the elements, pre-empting the darkness of calamity, the diffused rays of mental anguish still penetrate life. Even if the full force of the Ganga of Sorrow does not come crashing down upon the Linga of the Mind, it percolates through, drop by drop.
 
+
+२४. नैरस्यं निर्वेदो वा इति  
+काल-प्रवाहे दुःखस्य विलयनात्  
+नान्यत् किञ्चन।
+
 4. Junger asks: Isn't boredom, disinterest & loss of faith simply pain dissolved in the vector of Time? Those who practice meditation, proper Nitnem/Sandhya know that is a door that needs to be opened at some point. Many simply walk away.
+
+
+२५. पीडायाः गुप्त-छाया  
+द्रुग्ध-भावेन अपि प्रकटयति।  
+आर्थिकः बौद्धिकः नैतिकः जातीयश् च इत्येतेषु विषयेषु  
+"अधिकारिणः नाना-युक्तिभिः नो द्रुह्यन्ति"  
+इति सन्दिहान-प्रजानां विश्वासः भ्रंशते।  
+ततः, अपराधिनो मार्गयत्, छल-प्रपञ्च-रञ्जितम् **अन्ध-वाङ्मयं लोक-प्रियतां गच्छति**।  
+
+निर्वेदेन पाषण्ड-बुद्धिः  
+यज्ञं दानं तपश्च निराकरोति,  
+अथवा मृषा-भावेन निरूह्य  
+स्वकीयम् अविश्वासं निह्नुते।  
+धर्मम् आध्यात्मसाधनां च हित्वा  
+जनाः आधुनिक-मनो-विज्ञान-शास्त्रम् आलम्बन्ते।
 
 5. Pain's shadow:
 
 Conspiracy theories on economic, intellectual, moral & communal issues.
 Finding reasons to abandon timeless religious practices, charity & austerities. Or doing them for show.
 Finding answers mainly in modern Western Psychology rather than scripture.
+
+२६. प्रायः प्रजनन-विषये यथा दुःखं ताम्यति,  
+तथा नो नान्यत्र सम्मुखी-करोति।  
+अत्र सर्वाः प्राणशक्तयः रोधावस्थायां संपीडयन्ति। अप्रसूतानां भूरिशः भ्रूणहत्यां कथं नु विस्मर्तुं शक्येत, येन युगपत् तद्दुर्मेधायाः दौर्बल्यं पाशवं च प्रतिपद्येते। रण-वधयोः, रोगचिकित्सा-ऽपराधयोश्च मध्ये भेदस्य अनभिज्ञा बुद्धिः धर्मसङ्कटे निश्चयेन सर्वतो बाधारहितं क्षुद्रं च उपायं चेष्यति। अत्र पदव्याः औन्नत्यं दुःख-गाम्भीर्येण सह सद्यःसम्बन्धे तिष्ठति। यः कोऽपि जीवनस्य सारवस्तुना सह सम्बन्धं निर्वहति सः अमूर्तविचाराणाम् आडम्बरेण न तुष्येत्। परन्तु अस्मिन् व्यलीक-युगे, वीर्योपासना उन्मादरूपेण गृह्यते, प्रसूतिः रोगकल्पः इव परिदेव्यते, सैनिकः सौनिक-सन्निभश्च गर्ह्यते। आरक्षव्यवस्थायां यातनातन्त्रम् अपि मध्यकालीन-व्यवस्थां मन्येरन् मूढाः। कृषिः साधारण-वृत्तिषु अन्यतमा परिगण्यते।
+
+२७. अधम-मतानां लोके, सर्वाः माहात्म्य-मर्यादाः धूलिसात् क्रियन्ते। आत्मनो नियति-द्रोहः पदवीप्राप्तानां व्यक्तीनां दुःखेषु तीक्ष्णतया प्रतिबिम्बितः दृश्यते। तथैव जीवनस्य आश्रमान् कलिलान् करोति दुर्मेधा  - अहो! कथं यौवनस्य उत्साहो विच्छिद्यते अनया, कथं वानप्रस्थात् वञ्चितं भवति जीवनम्। 
+
+२८. एवं नियतेः छायातपस्सु चकास्ति धर्मज्ञानम्।
+
+
 6. One area where pain's hidden shadow manifests clearly is reproductive trends. All life forces converge here. Junger says widespread abortion of the unborn indicates the simultaneous weakness & cruelty of this sophisticated degeneracy. Will always take the path of convenience, no matter how cruel or cowardly.
 7. Society of "sensitivity" thrives on false equivalences: Soldiers = murderers/butchers. Torture within the security establishment = medieval sadism. Lifestyle-based occupations like farming = all other professions. Worship of vigor = crazy. Pregnancy = a terrible illness.
 8. Contradictions of such a society are reflected most sharply in the hollowness of the "happiness" of its most high-achievers. Also, most people are robbed of the appropriate experience of different phases (ashrams) of life. Childhood is lost, and so is true retirement.

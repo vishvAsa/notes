@@ -2,6 +2,11 @@
 title = "vajr"
 +++
 
+## 2023-10
+- Started wearing uttarIya-veShTI as a regular practice during the day, like brother.
+- Writing 
+- Started daily 15 min subhAShita practice with **नागरत्ना**.
+
 ## 2023-05
 Daily devanagarI letter practice. Initially tracing 1 letter 10 times per day. 
 
