@@ -529,87 +529,201 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 
 2. Junger's Last Man has a bivalent mind, like the bifurcated tongues of Kadru's Naga spawn. He is a sense-gratifier but also a self-analyzer. Normally extroverted, occasionally introspective. Eventually, unable to empath with all, he tends to an autistic worldview & nature.
 
-३६. सः श्रेयसीं नीतिं  
-ततः गवेष्टुम् आरभते।  
-पृथक्तया एते प्रयासाः श्लाघनीयाः स्युः -  
-किन्तु तैर् विक्रमो न भवति साधकः।  
-यतोहि कृत्रिम-रीत्या बुद्धिः पीडा-प्रहारं  
-सरलतया रण-नीतेः विषयम् इव सम्भावयितुं न शक्नोति।  
-अत्र इच्छा-शक्तेः वैफल्यं निश्चयेन दृश्यत इति अवधेयं,  
-यतो हि एषा वीर-दृष्टिः तु  
-सहज-गुण-वैशिष्ट्यस्य कार्यं विद्यते।  
-न केनापि क्रिया-कलाप-मात्रेण  
-न कर्मणा वीर्यं दर्शनम् इदम् उत्पादयितुं शक्यते।  
-न वा कयापि वैखरि-मन्त्र-दीक्षया सा प्राप्येत।  
-न कस्याश्चित् समितेः उद्घोषणया मनो-नीतः  
-कोऽपि तस्याः अधिकारं प्राप्नुयात्।  
-सर्वमिदं त्रैगुण्योद्भवं विद्यते।  
-व्यक्तिहीनः जनः स्वाधिकारार्थम् अन्येषाम् अधिकारम् आलम्बते। 
-
-३७. इयं वीरदृष्टिः जन्मना एव प्राप्यते। सः अधिकारः तु जन्मसिद्धः विज्ञायेत। यः साधकः तथ्यमिदं विजानीते यत् अहम् अमुक-कार्याय स्वतन्त्रः जनितोऽस्मि इति, सः आत्मनि एव स्वकीयं वर्णं वृणुते। सः स्पष्टबुद्ध्या सुदर्शनं लभते। त्रैगुण्येन सह तस्य सम्बन्धः परिवर्तते। 
-
-३८. यदा एषः अधिकारः शूद्रेषु अमूर्तम् आदर्शमात्रं भूत्वा बिम्बरूपेण आरोपितः भवति, तदा निश्चयेन ह्रसते। युङ्गरः वदति यत् एषः वंशानां जातीनां च नियमः अपि वर्तते। वंशः कर्मणा एव अभिज्ञायेत। 
-
-३९. रामराज्यं न्यूनातिन्यूनम् एकां "सम्पूर्णां व्यक्तिम्" अपेक्षते। तं राजन्यपुरुषं विना राष्ट्रम् आभासमात्रेण एव कल्पते। रथमिव अश्वाः, राजन्याः एव राष्ट्रंनयन्ति। 
-
-४०. वीर्यं विना केवलं नीतिशास्त्रेण निर्मिते राष्ट्रे कायस्थ-प्रधानी कार्यकारिणी एव निर्मीयते। अधिकारितन्त्रम् एव लोकं जडत्वेन शास्ति। न तत्र विद्यते प्रेरणा, शौर्यं, तेजः, सृजनशक्तिः वा वस्तुतः। स्तेनैः इव म्लानम् अनुकरणम् एव दरीदृश्यते।
-
-४१. आध्यात्मिके देवार्चन-विषये एषो भेदः इतोऽपि स्पष्टः भवति। देवस्तु स्वतन्त्रः, तस्य अवतरणं प्रयासात् न कारयेत्। मूर्तिषु अपि मानवतन्त्रेण न प्रतिष्ठेत प्राणः, अपितु यत्र आत्मा परमात्मानं सम्मुखीकरोति तस्मिन्नेव क्षेत्रे प्राणः प्रतिष्ठते।
-
-४२. युद्धोद्योगे तत्त्वस्यास्य विनियोगः। प्रथमे विश्व-महायुद्धे एव उषःपुत्राः (Japanese) सामुद्रिक-प्रमाथिनीषु (submarine torpedoes) मानवं कर्णधारं नियोजयन्ति स्म। द्वितीये महायुद्धे तु कामिकाज़ि इति वैमानिक-कर्णधाराः प्रसिद्धाः। अत्र यन्त्रेषु मनुष्यस्य बुद्ध्या सह तस्य वपुरपि कलरूपेणनियुक्तम्। तेन हेतिप्रयोगे "दैवम्" इत्यस्य भूमिका न्यूना जाता। परन्तु अत्र दैवं दैवानुग्रहः देवाशिषो वा इत्येषाम् अर्थग्रहणम् अवधेयम् - तदानीन्तनः उषोद्वीपी सेनानी नोगी मारेसुके इत्येषः रूसेन सह युद्धे प्रसिद्धः शूरः। तस्य द्वौ पुत्रावपि तस्मिन्नेव युद्धे भागम् अवहताम्। कथ्यते यत् नोगी ज्येष्ठपुत्रमृत्योः (तन्नामतस्य अमृतत्वस्य) वार्तां "महता सन्तोषेण" स्वीकृतवान् इति। (अग्रिमे वर्षे तस्य कनिष्ठपुत्रोऽपि वीरगतिं प्राप।)
-
-४३. ईदृशाः मनुष्याः नायुधैः वरीयांसः, अपितु वेदना-क्षेत्रं (तन्नाम मनः इन्द्रियाणि च) तीर्त्वा अन्यान् अतिशेरते। युद्धे मारिते अपि तैः प्रेरिताः ज्ञातयः सृजनशक्तिं प्रजननशक्तिंच लभन्ते। बुद्धियुतेन बलिदानेन स्वपक्षस्य सत्ता वर्धते। एवं सदसतोः शबलित-शारिफलके दीव्यन्ति देवासुराः।
-
 3. Sanskrit terms are so precise and self-explanatory. True introspection with integrity leads us to seeing everything as the Self. Aatmaleen or Atmaaraam. But when consciousness is limited to the body & its symbiotes, then brooding over the world results in autism. Svaleen.
 
 4. Like Kadru's sons, the Last Man is left licking razorlike Kusha grass but is cheated of real Amrit. Ends up w/autistic, split, self-referencing worldview. Used the word Niyamaagrahi: (a) Fanatic about external rules & (a) Disregards (other) rules. Stubborn Shudra does both.
 
+३६. सः श्रेयसीं नीतिं  
+ततः गवेष्टुम् आरभते।  
+पृथक्तया एते प्रयासाः श्लाघनीयाः स्युः -  
+किन्तु तैर् विक्रमो न भवति साधकः -  
+यतोहि कृत्रिम-रीत्या बुद्धिः  
+पीडा-प्रहारं सरलतया रण-नीतेः विषयम् इव सम्भावयितुं न शक्नोति।  
+
 5. Thus the Shudra is eventually self-defeating. He tries to find higher ethics, & these attempts are admirable in themselves. But he still fails spiritually. Because artificial attempts cannot make the intellect see the assaults of sorrow/pain in a pure strategic perspective.
+
+
+अत्र इच्छा-शक्तेः वैफल्यं निश्चयेन दृश्यत इति अवधेयं,  
+यतो हि एषा वीर-दृष्टिः तु  
+सहज-गुण-वैशिष्ट्यस्य कार्यं विद्यते -  
+न केनापि क्रिया-कलाप-मात्रेण  
+न कर्मणा वीर्यं दर्शनम् इदम् उत्पादयितुं शक्यते,  
+न वा कयापि वैखरि-मन्त्र-दीक्षया सा प्राप्येत,  
+न कस्याश्चित् समितेः उद्घोषणया मनो-नीतः  
+कोऽपि तस्याः अधिकारं प्राप्नुयात्।  
 
 6. Junger notes the inevitable failure of "will power" & "positive thinking". Because the Veer's vision is instinctive, inborn quality. No artificial "process", action, drug, religious initiation, committee vote or declaration can produce true Charhdi Kala.
 
+सर्वम् इदं त्रैगुण्योद्भवं विद्यते।  
+व्यक्तिहीनः जनः  
+स्वाधिकारार्थम् अन्येषाम् अधिकारम् आलम्बते। 
+
 7. All the above processes & social arrangements are driven by & arise from the Tri Gunas. They have their place but beyond exhibitionism they are basically barren. A Varna-less person without a mature individuality borrows his qualification from the authority of others.
+
+३७. इयं वीरदृष्टिः जन्मना एव प्राप्यते।  
+सः अधिकारः तु जन्मसिद्धः विज्ञायेत।  
+यः साधकः तथ्यम् इदं विजानीते  
+यत् अहम् अमुक-कार्याय स्वतन्त्रः जनितोऽस्मि इति,  
+सः आत्मनि एव स्वकीयं वर्णं वृणुते।  
+सः स्पष्टबुद्ध्या सुदर्शनं लभते।  
+त्रैगुण्येन सह तस्य सम्बन्धः परिवर्तते। 
 
 8. One can only be BORN with it. It is cognized as a birth-right. One who realizes 'I was born for such-&-such a work' realizes his Varna within the self, says Junger. That is the real source of Charhdi Kala. Clear intellect, vision. Relationship with the Tri Gunas transforms.
 
+३८. यदा एषः अधिकारः शूद्रेषु अमूर्तम् आदर्श-मात्रं भूत्वा  
+बिम्बरूपेण आरोपितः भवति,  
+तदा निश्चयेन ह्रसते।  
+युङ्गरः वदति यत्  
+एषः वंशानां जातीनां च नियमः अपि वर्तते।  
+वंशः कर्मणा एव अभिज्ञायेत। 
+
 9. When these ideas of Varna and Charhdi Kala are passed on as abstract ideals & models within a society, they inevitably decay in quality. Junger says this rule applies to entire races & social groups. A race is to be graded by its actual qualities/deeds, not inherited habits.
+
+३९. रामराज्यं न्यूनातिन्यूनम् एकां "सम्पूर्णां व्यक्तिम्" अपेक्षते।  
+तं राजन्य-पुरुषं विना  
+राष्ट्रम् आभासमात्रेण एव कल्पते।  
+रथम् इव अश्वाः,  
+राजन्याः एव राष्ट्रं नयन्ति। 
 
 10. A Rashtra needs at least 1 living Complete Man, says Junger. Without him it is an image of the real thing. A complete man/men draw the chariot of Rashtra. Every Rashtra seeks its living figurehead. In medieval N. India, Bharatas used to call the Gurus their Sacha Patshah.
 
+४०. वीर्यं विना केवलं नीतिशास्त्रेण निर्मिते राष्ट्रे  
+कायस्थ-प्रधानी कार्यकारिणी एव निर्मीयते।  
+अधिकारि-तन्त्रम् एव लोकं जडत्वेन शास्ति।  
+न तत्र विद्यते प्रेरणा, शौर्यं, तेजः, सृजन-शक्तिः वा वस्तुतः।  
+स्तेनैः इव म्लानम् अनुकरणम् एव दरीदृश्यते।
+
 11. A nation lead only by policy frameworks bereft of Veer Ras becomes a dead bureaucratic machine on autopilot. No inspiration, heroism, brilliance, creativity. It is an imitation of stolen ideas. (I used "Kayastha" for bureaucracy. Nothing to do with the present-day caste group).
 
+४१. आध्यात्मिके देवार्चन-विषये एष भेदः इतोऽपि स्पष्टः भवति।  
+देवस् तु स्वतन्त्रः,  
+तस्य अवतरणं प्रयासात् न कारयेत्।  
+मूर्तिषु अपि मानव-तन्त्रेण न प्रतिष्ठेत प्राणः,  
+अपितु यत्र आत्मा परमात्मानं सम्मुखी-करोति  
+तस्मिन्नेव क्षेत्रे प्राणः प्रतिष्ठते।
+
 12. This is even more clear in the limited field of sacred religion. Godhead is sovereign. He cannot really be invoked by artifices, like a genie, or great human efforts. Life cannot be liturgically breathed into idols. Rather, it is where both Atma & Paramatma meet together.
+
+
+४२. युद्धोद्योगे तत्त्वस्यास्य विनियोगः।  
+प्रथमे विश्व-महायुद्धे एव  
+उषःपुत्राः (Japanese) सामुद्रिक-प्रमाथिनीषु (submarine torpedoes) मानवं कर्णधारं नियोजयन्ति स्म।  
+द्वितीये महायुद्धे तु कामिकाज़ि इति वैमानिक-कर्णधाराः प्रसिद्धाः।  
+अत्र यन्त्रेषु मनुष्यस्य बुद्ध्या सह  
+तस्य वपुर् अपि कल-रूपेण नियुक्तम्।  
+तेन हेति-प्रयोगे "दैवम्" इत्यस्य भूमिका न्यूना जाता।  
+परन्तु अत्र दैवं दैवानुग्रहः देवाशिषो वा इत्येषाम् अर्थग्रहणम् अवधेयम् -  
+
+तदानीन्तनः उषोद्वीपी सेनानी नोगी मारेसुके इत्येषः  
+रूसेन सह युद्धे प्रसिद्धः शूरः।  
+तस्य द्वौ पुत्राव् अपि तस्मिन्नेव युद्धे भागम् अवहताम्।  
+कथ्यते यत् नोगी ज्येष्ठ-पुत्र-मृत्योः (तन्-नाम तस्य अमृतत्वस्य) वार्तां  
+"महता सन्तोषेण" स्वीकृतवान् इति।  
+(अग्रिमे वर्षे तस्य कनिष्ठपुत्रोऽपि वीरगतिं प्राप।)
 
 13. So Modernity simply tries to reduce the role of Fortune/Gods. In WW1, the Japanese had suicidal pilots in submarine torpedoes. In WW2 they had Kamikaze planes. Here the human becomes physically & literally a cog in a machine. For others it is less physical but no less real.
 
 14. The Jap. war example shows how the "blessing" & "good" fortune can change to a higher plane. When Gen. Nogi Maresuke heard news of his son's death in the Russo-Jap war, he "smiled with satisfaction". The fortunate General's younger son also attained martyrdom the foll. year.
 
+४३. ईदृशाः मनुष्याः नायुधैः वरीयांसः,  
+अपितु वेदना-क्षेत्रं (तन्नाम मनः इन्द्रियाणि च) तीर्त्वा अन्यान् अतिशेरते।  
+युद्धे मारिते अपि  
+तैः प्रेरिताः ज्ञातयः सृजन-शक्तिं प्रजनन-शक्तिं च लभन्ते।  
+बुद्धियुतेन बलिदानेन  
+स्वपक्षस्य सत्ता वर्धते।  
+एवं सद्-असतोः शबलित-शारि-फलके  
+दीव्यन्ति देवासुराः।
+
+
 15. These men did not gain distinction over others by arms, but by reaching a plane beyond the senses. Their intelligent sacrifices energized their races with creativity & the will to thrive. This is the battle of Gods and Demons on the chessboard of existence & non-existence.
 
-९ - मर्यादा-पुरुषः
-४४. स्वैर-प्रत्ययानाम् आडम्बरः समाजस्य स्थितिगती आकलयितुम् अपर्याप्तः। पुष्पित-वाचा न किमपि परिवर्तते। अधिकाधिकं सा स्वयं परिवर्तनस्य लक्षणं स्यात्। किञ्च परिवर्तनं वस्तुस्थितौ भवति, यस्य विशदतमं दर्शनं पूर्वाग्रहं विना निरीक्षणेन लभ्यते।
-
-४५. यदा कलियुगे शूद्रत्वं प्रति मानवतायाः प्रवर्तनेन संवेदनशीलतायाः ह्रासः जायते, तदा तत् आदौ हानिरूपेण अनुभूयते। संवेदनशीलस्य प्रथमः अनुरोधः कः? वैयक्तिक-स्वतन्त्रता तथा जीवनस्य विविध-क्षेत्रेषु दृश्यमाना उन्मुक्तता अस्मिन्नेव आशापाशे अन्तर्भवति। परम् इदानीं समष्ट्यभिवादनं आरभ्यते। व्यष्टि-स्वातन्त्र्यं निबद्ध्य समष्टौ समन्वयः अनुशास्यते। सैन्यानुरूपः "कर्तव्यः" इति प्रवृत्तिः प्रामुख्यं वहति अधुना। 
-
-४५. संवेदनपरतायाः द्वितीय-दुर्गः अस्ति उदारवादि-शिक्षाव्यवस्था, यः नष्टप्रायः भवति। शिक्षामुक्तेः प्रथमसमयः अस्ति मुक्त-जिज्ञासा। मुक्तजिज्ञासा इत्युक्ते विविधविषयेषु निष्प्रयोजनं कौतुकं, ज्ञानार्जनार्थमेव प्रयोगाः। एकस्मिन् कलाक्षेत्रे प्रवीणः छात्रः अन्यदशसु विषयेषु प्रघटाविद् कुतो न स्यात्? - इति उदारवादिनः। किन्तु यत्र राष्ट्रस्य प्रथमं लक्ष्यं युद्धे रक्षा वर्तते, यत्र युद्धं सार्वतान्त्रिकं भवति (आर्थिकं, प्रौद्योगिकं, सूचनात्मकं च), तत्र ज्ञानस्य तथा शिक्षणस्य प्रयोजनम् अपि संकीर्णम् अभिजायते। कालक्षेपार्थं कुतूहलस्य अवकाशो नावशिष्यते समाजे। राष्ट्र-शक्ति-सम्पादनम् इति श्रेयान् उद्देश्यः सर्वानुसन्धानस्य गोचरं पद्धतिं च निर्धारयति अधुना। इदं विशिष्य मानवशास्त्रेषु दृश्येत। पुरा हेरदत्तः (Herodotus) इव विद्वांसः स्व स्व विषयाणां सीम्नः अभिज्ञातवन्तः। तर्हि सतां शूद्राणां समाजे पुरुषः स्वमर्यादां ज्ञात्वा कर्तव्यं निर्वहेत्।
-
-४६. विपरीततया, ज्ञानविषये अवधेयो अंशः अस्ति अतिगौरवस्य अभावः। यत्र परमाधिकारी इति कश्चन न दृश्यते, तत्र जनाः ज्ञानविषये मर्यादाम् उल्लङ्घन्ते। परमगुरोः अभावे मर्यादाविषये विद्रोहः उपजायते। कुपरनिकः (Copernicus) इत्यपि शवोपासकानां येशु-परम्परायाः गौरवम् अस्वीकार्य तज्ज्ञान-परम्परां पराक्षिपत्। किन्तु यदि परमगुरुः अथवा आदर्शपुरुषः राजते समाजे, तर्हि ज्ञानविषये बाधानां पीडा सपदि शाम्यति। जनास्तदा स्व स्व ग्रन्थेन स्व स्व अध्यायेन सन्तुष्टाः स्युः। किं नः परेषाम् अक्षरैः? यत्र मर्यादापुरुषोत्तमः रामः तत्रैव राज्ञा विहितं स्वधर्मम् आचरेयुः प्रजाः। आदौ तु संप्रभुत्वं गौरवं च काङ्क्षते मनः। आदर्शगुरोः राजर्षेः वा इच्छा उपजायते प्रजासु। 
-
-४७. राजगौरवे प्राप्ते, किं परिवर्तते शिक्षाव्यवस्थायाम्? शिक्षा सङ्कीर्णगोचरीभवति। यत्र यत्र मनुष्यः अमुक-प्रकारस्य निदर्शः इतिमात्रम् अभिज्ञायते न तु व्यक्तिरिव, तत्र शिक्षाविषये विशेषीकरणं भवेदेव। तत्र, आदावेव आरभ्य तत्प्रकारकम् अनुशासनं विधीयते तरुणाय। अत्र रूसो (Rousseau) इत्यस्य काप्यकारः (Confessions) इति पुस्तकमिव आत्म-संवर्धनस्य विकसनस्य वा अवकाशः न्यूनः एव स्यात्। अपि च जनः स्वशिक्षाविषयम् अपि चेतुम् न शक्नुयात्। प्रत्युत, समाजे वर्गीकरणं दृढं भवति, यस्य अनुगुणमेव शिक्षाविषये विद्यार्थिनाम् अभिगम्यता सीमिता क्रियते। तदन्तर्गते, राष्ट्रे सर्वो नागरिकः शस्त्रधारी मा भवतु इत्यपि नीतिः रोचते राजसमितये। सामान्य-नागकरिकस्य आजीविकादिकस्य स्वप्नाः स्ववर्गानुरूपतां द्रवन्ति। राष्ट्रस्य वैभवम् एव परमोद्देश्यः,प्रभोः प्रसादः एव परमवैभवम्। तन्नाम जन्मनः पूर्वमेव जनस्य कर्म निर्धारितं भवितुम् आरभते...
-
-४८. एतेन अनुशासनेन महन्तः प्रकल्पाः सम्भवन्ति। निर्माणं, विक्रान्तो युद्धोद्योगः, समस्त-पूगानां द्रव्यरूपेण इतस्ततः नियोजनम् इत्यादीनि। अनुशासनेन हि मनुष्यः सङ्कल्परूपेण स्व-प्राणस्य पीडया सह संस्पर्शं कारयति। ततः मनुष्यस्य वदनं तां निष्ठुरतां दर्शयति या सामान्यतः केवलं भटस्य अथवा श्रमिकस्य आश्मिके मुखे दृश्येत। उदारवादिलोके सुवदनं नाम मृदुवदनं - चपलं, नम्यं, किञ्चित् विक्लवं, विविधप्रभावान् प्रवृत्तीश्च अङ्गीकर्तुं कुतूहलि। तद् व्यतिरेकेण, अनुशासितं वदनं कठोरं दृश्यते - कृतनिश्चयं, व्यवसायात्मिकम्, एकदिक्, सुरङ्गेण इव सम्पथे चलत्, विषयी, स्वमताग्रही, अभिनिविष्टम्। इत्थं सुस्पष्टं लक्ष्यते यत् व्यक्तिम् अवधीर्य वर्णाधारितम् अवैयक्तिकान् दृढान् नियमान् प्रजासु आरोप्यते चेत् तेषाम् अधिकतया वदनानि कठिनीभवेयुः।
+## ०९ - मर्यादा-पुरुषः
+४४. स्वैर-प्रत्ययानाम् आडम्बरः  
+समाजस्य स्थितिगती आकलयितुम् अपर्याप्तः।  
+पुष्पित-वाचा न किम् अपि परिवर्तते।  
+अधिकाधिकं सा स्वयं परिवर्तनस्य लक्षणं स्यात्।  
+किञ्च परिवर्तनं वस्तु-स्थितौ भवति,  
+यस्य विशदतमं दर्शनं  
+पूर्वाग्रहं विना निरीक्षणेन लभ्यते।
 
 1. Junger says education becomes increasingly specialized, socially pre-determined & stratified as the Individual becomes a sacrifice to Rashtra. People themselves accept the need for it.
 
 2. Firstly, Junger makes a point that the flowery ideological words used fashionably in a society do NOT describe its real state, but may be a symptom of its real state & direction, which can be known by observation against psycho-historical trends.
 
+४५. यदा कलियुगे शूद्रत्वं प्रति मानवतायाः प्रवर्तनेन  
+संवेदनशीलतायाः ह्रासः जायते,  
+तदा तत् आदौ हानिरूपेण अनुभूयते।  
+संवेदनशीलस्य प्रथमः अनुरोधः कः?  
+वैयक्तिक-स्वतन्त्रता, तथा जीवनस्य विविध-क्षेत्रेषु दृश्यमाना उन्मुक्तता  
+अस्मिन्नेव आशा-पाशे अन्तर्भवति।  
+परम् इदानीं समष्ट्य्-अभिवादनं आरभ्यते।  
+व्यष्टि-स्वातन्त्र्यं निबद्ध्य  
+समष्टौ समन्वयः अनुशास्यते।  
+सैन्यानुरूपः "कर्तव्यः" इति प्रवृत्तिः प्रामुख्यं वहति अधुना। 
+
 3. Shudraization follows "Sensitivity" based woke society, says Junger. This may initially be experienced as a loss. Because wokery extols individual "freedom". Whereas the (good) Shudra believes in being devoted to national duty & self-sacrifice & regimentation for the race.
+
+४५. संवेदन-परतायाः द्वितीय-दुर्गः अस्ति उदार-वादि-शिक्षा-व्यवस्था,  
+यः नष्टप्रायः भवति।  
+शिक्षा-मुक्तेः प्रथम-समयः अस्ति मुक्त-जिज्ञासा।  
+मुक्तजिज्ञासा इत्युक्ते विविध-विषयेषु निष्प्रयोजनं कौतुकं, ज्ञानार्जनार्थम् एव प्रयोगाः।  
+एकस्मिन् कला-क्षेत्रे प्रवीणः छात्रः  
+अन्यदशसु विषयेषु प्रघटा-विद् कुतो न स्यात्? - इति उदारवादिनः।  
+किन्तु यत्र राष्ट्रस्य प्रथमं लक्ष्यं युद्धे रक्षा वर्तते,  
+यत्र युद्धं सार्वतान्त्रिकं भवति (आर्थिकं, प्रौद्योगिकं, सूचनात्मकं च),  
+तत्र ज्ञानस्य तथा शिक्षणस्य प्रयोजनम् अपि संकीर्णम् अभिजायते।  
+काल-क्षेपार्थं कुतूहलस्य अवकाशो नावशिष्यते समाजे।  
+राष्ट्र-शक्ति-सम्पादनम् इति श्रेयान् उद्देश्यः  
+सर्वानुसन्धानस्य गोचरं पद्धतिं च निर्धारयति अधुना।  
 
 4. Apart from individual "rights", 2nd woke fortress is Education system. This too eventually becomes Shudraized. Liberal education believes an individual may specialize in 1 subject but can have a broad sampling of many other subjects. Knowledge is for knowledge's sake, etc...
 
+इदं विशिष्य मानव-शास्त्रेषु दृश्येत।  
+पुरा हेरदत्तः (Herodotus) इव विद्वांसः  
+स्व स्व विषयाणां सीम्नः अभिज्ञातवन्तः।  
+तर्हि सतां शूद्राणां समाजे पुरुषः स्वमर्यादां ज्ञात्वा  
+कर्तव्यं निर्वहेत्।
+
 5. When war becomes nationhood's top priority then education's focus narrows. Except for savants, there's no time/resources to allow students to fool around. Each person much specialize, know his place & contribute to country. Even Herodotus acknowledged the limits of his field.
 
+
+४६. विपरीततया, ज्ञान-विषये अवधेयो अंशः अस्ति  
+अतिगौरवस्य अभावः।  
+यत्र परमाधिकारी इति कश्चन न दृश्यते,  
+तत्र जनाः ज्ञानविषये मर्यादाम् उल्लङ्घन्ते।  
+परमगुरोः अभावे  
+मर्यादाविषये विद्रोहः उपजायते।  
+कुपरनिकः (Copernicus) इत्यपि शवोपासकानां येशु-परम्परायाः गौरवम् अस्वीकार्य  
+तज्ज्ञान-परम्परां पराक्षिपत्।  
+किन्तु यदि परमगुरुः अथवा आदर्शपुरुषः राजते समाजे,  
+तर्हि ज्ञानविषये बाधानां पीडा सपदि शाम्यति।  
+जनास् तदा स्व स्व ग्रन्थेन  
+स्व स्व अध्यायेन सन्तुष्टाः स्युः।  
+किं नः परेषाम् अक्षरैः?  
+यत्र मर्यादापुरुषोत्तमः रामः  
+तत्रैव राज्ञा विहितं स्वधर्मम् आचरेयुः प्रजाः।  
+आदौ तु संप्रभुत्वं गौरवं च काङ्क्षते मनः।  
+आदर्शगुरोः राजर्षेः वा इच्छा उपजायते प्रजासु। 
+
 6. Junger says liberal education thrives in absence of national authority figures (king/guru). Ppl switch streams, rebel against established truths, & explore. E.g. Copernicus. But under authority figures ppl become satisfied with embellishing their limited scopes of knowledge.
+
+४७. राजगौरवे प्राप्ते,  
+किं परिवर्तते शिक्षाव्यवस्थायाम्?  
+शिक्षा सङ्कीर्ण-गोचरी-भवति।  
+यत्र यत्र मनुष्यः अमुक-प्रकारस्य निदर्शः इति-मात्रम् अभिज्ञायते न तु व्यक्तिर् इव,  
+तत्र शिक्षा-विषये विशेषीकरणं भवेदेव।  
+तत्र, आदाव् एव आरभ्य तत्प्रकारकम् अनुशासनं विधीयते तरुणाय।  
+अत्र रूसो (Rousseau) इत्यस्य काप्यकारः (Confessions) इति पुस्तकम् इव  
+आत्म-संवर्धनस्य विकसनस्य वा अवकाशः न्यूनः एव स्यात्।  
+अपि च जनः स्वशिक्षाविषयम् अपि चेतुम् न शक्नुयात्।  
+प्रत्युत, समाजे वर्गीकरणं दृढं भवति,  
+यस्य अनुगुणम् एव शिक्षाविषये विद्यार्थिनाम् अभिगम्यता सीमिता क्रियते।  
+तदन्तर्गते, राष्ट्रे सर्वो नागरिकः शस्त्रधारी मा भवतु  
+इत्यपि नीतिः रोचते राज-समितये।  
+सामान्य-नागकरिकस्य आजीविकादिकस्य स्वप्नाः स्व-वर्गानुरूपतां द्रवन्ति।  
+राष्ट्रस्य वैभवम् एव परमोद्देश्यः,  
+प्रभोः प्रसादः एव परमवैभवम्।  
+तन्नाम जन्मनः पूर्वम् एव जनस्य कर्म निर्धारितं भवितुम् आरभते...
 
 7. Under supreme authority, education becomes specialized. Rather than being at the intersection of diverse categories, individuals are reduced to specimens in diff. categories E.g., I/O psychology - the highest paid application of psychology in the US. This induces determinism.
 
@@ -617,36 +731,139 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 
 9. Imp. effect of social determinism is internal disarming of society. Universal right to bear arms now becomes an exclusive right. People's rights are now not really decided by birth, but even before birth, says Junger. In a previous section, he spoke of what 2nd birth meant.
 
+
+४८. एतेन अनुशासनेन महन्तः प्रकल्पाः सम्भवन्ति -  
+निर्माणं, विक्रान्तो युद्धोद्योगः, समस्त-पूगानां द्रव्यरूपेण इतस्ततः नियोजनम् इत्यादीनि।  
+अनुशासनेन हि मनुष्यः  
+सङ्कल्परूपेण स्व-प्राणस्य पीडया सह संस्पर्शं कारयति।  
+
 10. Upside of tightly deterministic, obedient society is that massive projects become possible: construction, expansionist wars, re-deployment of entire guilds from here to there etc. Through such discipline, the life force maintains a certain contact with pain, & is fulfilling.
 
-11. He notes that faces in a Shudraized society become hardened, self-assured, predictable. Whereas liberal societies show open expressive faces, curious, self-doubting, exploring. The superimposition of Varnic categories in a non-individualistic framework has a negative effect.
+ततः मनुष्यस्य वदनं  
+तां निष्ठुरतां दर्शयति  
+या सामान्यतः केवलं भटस्य अथवा श्रमिकस्य आश्मिके मुखे दृश्येत।  
+उदार-वादि-लोके सुवदनं नाम मृदु-वदनं -  
+चपलं, नम्यं, किञ्चित् विक्लवं,  
+विविध-प्रभावान् प्रवृत्तीश्च अङ्गीकर्तुं कुतूहलि।  
+तद् व्यतिरेकेण, अनुशासितं वदनं  
+कठोरं दृश्यते - कृतनिश्चयं, व्यवसायात्मिकम्, एकदिक्, सुरङ्गेण इव सम्पथे चलत्, विषयी, स्व-मताग्रही, अभिनिविष्टम्।  
+इत्थं सुस्पष्टं लक्ष्यते यत्  
+व्यक्तिम् अवधीर्य वर्णाधारितम् अवैयक्तिकान् दृढान् नियमान् प्रजासु आरोप्यते चेत्  
+तेषाम् अधिकतया वदनानि कठिनी-भवेयुः।
 
-१० - चण्डालः
-४९. एषो नूतनो वेदना-सम्बन्धः न केवलं व्यक्त्याम् अपितु तेषु विरचनेष्वपि स्पष्टो भवति यानि तस्मै रोचन्ते अधुना। यथा, गणवेशो रोचते। लिङ्गभेदः विलीयते, अथवा द्विधत्वात् त्रिधं याति। गणवेशः तु कवचस्य स्वभावम् एवसमावेशयति - पीडातः विशेषरूपेण रक्षितः इव आभासं कल्पयति। अत एव वीथ्यां हतस्य नागरिकस्य अपेक्षया गणवेशधारिणं मृतकम् अधिकतया औदास्येन द्रष्टुं शक्यते। तथैव वैमानिक-दर्शनात्अक्षौहिण्याः नर-व्यूहानां पङ्क्तीनां चतुष्कानां च मायिक-मण्डलस्य गूढार्थो नाम -- मनसः वेदनायाः उच्चाटनम्। सङ्घे शक्तिः इतिभावाद् एव गहने मनसिगणवेशस्य तथा व्यूहानां प्रभावः।
+11. He notes that faces in a Shudraized society become hardened, self-assured, predictable. Whereas liberal societies show open expressive faces, curious, self-doubting, exploring.  
+    The superimposition of Varnic categories in a non-individualistic framework has a negative effect.
 
-५०. वास्तुविद्यायां स्थापत्यकलायां च तदेव दृश्यते। अत्रापि मूलरूपेण दैवार्चिकस्य सैन्यस्य च रूपयोः स्फटिक-संरचनया सादृश्यं दृश्यते। कतिपयेषु अवसरेषु इमाः आर्चिक-सैन्य-संरचनाः विस्मापक-रूपेण अन्योऽन्यम् आरोपयन्ति - यथा लिपान्तु(Lepanto)-युद्धे (४६७२ युगाब्दे, १५७१ येशु-संवत्) महामदीय-सेना शशिलेखाकारेण येशव-सेना च व्यत्यस्तशूलाकारेण व्यूढे आस्ताम्।
-
-५१. अधुना यद्यपि देवमन्दिरं कौतुकालयेन परिवर्तते तथा पुर-प्राकारं ध्वंसयति नगरपालिका, तथापि नागर-स्थापत्यः अन्यद्रूपेण कवचत्वं भावयति। पश्यतु कथं पुरमध्ये वित्तकोशः कोटरूपं भावयति - आधुनिक-पूञ्जिं रक्षतः तस्य गुप्तिः लौहकवचेन रक्षिता वर्तते, गवाक्षाश्च शलाकाभिः रुद्धाः। तथापि तस्य आडम्बरप्रियायां रोकपालशालायां (cashier halls) कञ्चित् आसुरिप्रकाशं विकिरन् विचित्रः उत्सवभावः दृश्यते। इदमेतत् तां कल्पनां प्रतिबिम्बयति यत्र धनमेव स्वप्निल-सुखस्य पूर्तिः, धनमेव क्षेमभावस्य प्रतिभूतिः। अत्रान्तरे, मुद्रातिस्फीतिः (hyperinflation) बहून् जनपदान् निष्ठुरतया शिक्षितवती यत् कदाचित् सर्वस्मिन् जने कोटिपत्यौ सत्यपि भिक्षुकः इव जीवेत्।
-
-५२. अबाध-मुद्रा (free-floating currency) इव अबाध-प्रजा अपि न केवलं पीडाक्रमणात् न रक्षति, प्रत्युत आधिदैविक-दुःखे समीपे सति चुम्बकत्वेन विनाशम् आकर्षति। अमूर्तादर्शैः एव जनता कल्पिता। तेषाम् आदर्शविचाराणां परिमित-सामयिकता यदा उल्लङ्घ्यते तदा सः मोहः भङ्गुरायते। जनाक्रोशः स्यात्, परन्तु तदा एव तदादर्शस्य फल्गुता अपि आविष्क्रियते। युङ्गरः उदाहरति - सशस्त्र-गुल्मस्य पुरतः जनस्तोमस्य रोषः नैतिकप्रदर्शन-मात्रेण अवतिष्ठति, आकाशे च गुलिकाक्षेपेण स रोषोऽपि क्लैब्यं गच्छेत्। वस्तुस्थितौ परिवर्तितायां, जनसमूहस्य आक्षेपावहासौ एव अवशिष्येते।
-
-५३. किन्तु प्रजासु कश्चन विशिष्टवर्गः निलीयते - चण्डालाः तन्नाम प्रचण्डस्वभावाः अन्त्यजाः (lumpen proletariat)। न तेभ्यो वैश्विका आदर्शाः रोचन्ते। अराजकतायाश् चरास् ते। क्रान्तेः प्रणिधयः आन्दोलनजीविनस् ते। शत्रोः स्पशाः। अपराधिनां गूढ-संसर्गः। सामान्य-प्रजानां मनांसि धर्म-नीतिभिश्च दोल्यन्ते, हर्ष-रोषाभ्यां च उद्विजन्ते। शत्रुरधर्मी इत्येव तेषां विश्वासः कारयितव्यः। चण्डालस्तु अवसरप्रियः, पक्षोदासीनश्च। मर्यादा-पुरुषस्य धर्मस्तु सर्वसमावेशी वर्तते, सर्वेषु तद् मानं प्रेरयितुं प्रयस्यति। किन्तु चण्डालस्य मानं मर्यादा च स्वजनान् एव समावेशयति (सामयिकतया), परेषां कृते शाठ्यं क्रौर्यं चैव धर्मः इति मतम्। अतः तस्य कार्यं राजनीतिक्षेत्रम् अतिशेते। अन्तर्भौमो विषाक्त ऊष्मा इव चाण्डालवर्गः कार्यरतः भवति यावत् समाजे विप्लवः न स्यात्। उत्पाते सति सः द्राक् उत्सृज्य राष्ट्रं विकलीकरोति। तदा तदा जनता जनशत्रुं जयति परन्तु पराजितः शत्रुः सर्वदा चण्डालैः सह सन्धिं कृत्वा तत्पीडायाः ऋणादानं करिष्यति। अत्र चण्डालः इत्युक्ते केवलं "वर्गसङ्घर्षस्य" परिप्रेक्ष्ये नावगन्तव्यम्। सा तु आधिभौतिक-शक्तिः वर्तते या सार्वभौमी सती प्रचलितस्य अर्थशास्त्रीयचिन्तनस्य वर्णिकां धृत्वा निगूहते (यथा साम्यवादिनः वर्गसङ्घर्षः इति)। निर्दयः निर्मोही सः। तस्य क्रियाकलापे चारप्रयोगः, अन्तर्ध्वंसः, राजविद्रोहश्च। तस्य निष्ठा व्यामिश्रिता एव।
-
-५४. अत्र अर्थभेदः अवधेयः - पक्षधरः बलिदानी सन्नपि अमरः न स्यात्। वीरः स्यात् परं अमृतं नाश्नुयात्। अमृतत्वं तु केवलम् अखिलात्मा आस्वदते, भ्राता कन्हय्य इव। अस्य निष्ठा स्पष्टा वर्तते, तथापि निर्वैरः इत्येवम् अभिज्ञायते सर्वैः। चण्डालोऽपि पक्षधरः नास्ति परन्तु स्वलोभात् ऋते, अथवा शस्त्रमोहात् ऋते, अन्येषां प्रति तस्य निष्ठा सन्दिग्धा। स तु विश्व-वैरी राक्षसः। अतः, अमृतत्वं तु दूरं, सः वीरगतिम् अपि न प्राप्नुयात् - यतो हि तस्य मृत्युः शोकान्वितः दुरन्तः नास्ति। स्वबान्धवेभ्यः ऋते न कश्चन तस्य विरहे दीनो भविष्यति। सः मन्दबुद्ध्या मादकवस्तुना वा पीडां विषहेत, तथा वेदनया सह निष्क्रियम् इव सम्बन्धं परिपालयेत्, तथापि वेदनाक्षेत्रं तीर्त्वा न कदापि उदेति। अतः, अमृतत्वं तु दूरं, सः वस्तुतः वीरगतिम् अपि न प्राप्स्यति।
-
-५५. प्रमत्तः जनसमूहः प्रतिष्ठित-शक्ति-समीकरणे भेदं दृष्ट्वा मोदते, परन्तु तेन उत्पातेन जनसामान्यस्य एव हानिर् भविष्यति। सैन्यबलेन विधिबलेन छलेन वा तस्य जोषवाकं शमयति शासनम्। शमनकार्यस्य अन्तर्गते विविध-वैचारिक-धारणाः प्रकाशन्ते, यथा मनुष्येषु जातीनां वैविध्यं, समाजे वर्गाणां तारतम्यम् इत्यादीनि। चक्रे चक्रे राजवर्गे जनतायाः विश्वासः क्षीयते। तदा लोकतन्त्रेऽपि आरक्ष-सेनादिकं विहाय राजदलानाम् अवैधिक-सशस्त्रदलानि उत्पद्यन्ते। अत्रान्तरे, प्रजानां एकः एव अधिकारः अवशिष्यते - सम्मतिः। वानरान् इव तेषां सम्मतिम् अपि विशिष्टार्थशास्त्रेण सम्पद्यते। एतेन सम्मति-निर्माण-तन्त्रेण (manufactured consent) प्रजा "जनता-जनार्दनः" इति धर्म-कारक-गर्भात् अर्थवस्तुमात्रेण परिवर्त्यते।
+## १० - चण्डालः
+४९. एष नूतनो वेदना-सम्बन्धः न केवलं व्यक्त्याम्  
+अपितु तेषु विरचनेष्व् अपि स्पष्टो भवति  
+यानि तस्मै रोचन्ते अधुना।  
+यथा, गणवेशो रोचते।  
+लिङ्गभेदः विलीयते,  
+अथवा द्विधत्वात् त्रिधं याति।  
+गणवेशः तु कवचस्य स्वभावम् एव-समावेशयति -  
+पीडातः विशेष-रूपेण रक्षितः इव  
+आभासं कल्पयति।  
+अत एव वीथ्यां हतस्य नागरिकस्य अपेक्षया  
+गणवेशधारिणं मृतकम् अधिकतया औदास्येन द्रष्टुं शक्यते।  
+तथैव वैमानिक-दर्शनात्  
+अक्षौहिण्याः नर-व्यूहानां पङ्क्तीनां चतुष्कानां च  
+मायिक-मण्डलस्य गूढार्थो नाम --  
+मनसः वेदनायाः उच्चाटनम्।  
+सङ्घे शक्तिः इति भावाद् एव  
+गहने मनसि  
+गणवेशस्य तथा व्यूहानां प्रभावः।
 
 1. I titled it "Chandaal" to distinguish it from the previously described Maryada Purush, the Veer and the Martyr. Everyone likes to use big words to flatter their own intentions & actions, but how to distinguish?
 
 2. Junger notes the growth of a fascination for uniforms, geometric formations & occult symbolism in societies that need to deal with pain. He says all 3 of these are meant to exorcise or numb-out pain from the human mind. E.g., easier to see a dead man in uniform than a civvy.
 
-3. The use of sacred geometry in architecture & military formations is also a continuation of this attempt at exorcism of mass pain. This is needed to prepare oneself for pain. E.g., at the battle of Lepanto, the Xian army was in cross-formation & Islamic army in crescent array.
+
+५०. वास्तु-विद्यायां स्थापत्य-कलायां च तद् एव दृश्यते।  
+अत्रापि मूल-रूपेण दैवार्चिकस्य सैन्यस्य च रूपयोः स्फटिक-संरचनया सादृश्यं दृश्यते।  
+कतिपयेषु अवसरेषु इमाः आर्चिक-सैन्य-संरचनाः विस्मापक-रूपेण अन्योऽन्यम् आरोपयन्ति -  
+यथा लिपान्तु(Lepanto)-युद्धे (४६७२ युगाब्दे, १५७१ येशु-संवत्)  
+महामदीय-सेना शशिलेखाकारेण येशव-सेना च व्यत्यस्त-शूलाकारेण व्यूढे आस्ताम्।+++(5)+++
+
+3. The use of sacred geometry in architecture & military formations is also a continuation of this attempt at exorcism of mass pain. This is needed to prepare oneself for pain. E.g., at the battle of Lepanto, the Xian army was in cross-formation & Islamic army in crescent array.+++(5)+++
+
+
+५१. अधुना यद्य् अपि देव-मन्दिरं कौतुकालयेन परिवर्तते  
+तथा पुर-प्राकारं ध्वंसयति नगर-पालिका,  
+तथापि नागर-स्थापत्यः अन्यद्-रूपेण कवचत्वं भावयति।  
+
+पश्यतु कथं पुर-मध्ये वित्त-कोशः कोट-रूपं भावयति -  
+आधुनिक-पूञ्जिं रक्षतः तस्य गुप्तिः लौह-कवचेन रक्षिता वर्तते,  
+गवाक्षाश् च शलाकाभिः रुद्धाः।  
+तथापि तस्य आडम्बर-प्रियायां रोक-पाल-शालायां (cashier halls) कञ्चित् आसुरि-प्रकाशं विकिरन्  
+विचित्रः उत्सव-भावः दृश्यते।  
+
+इदम् एतत् तां कल्पनां प्रतिबिम्बयति  
+यत्र धनम् एव स्वप्निल-सुखस्य पूर्तिः,  
+धनम् एव क्षेम-भावस्य प्रतिभूतिः।  
+अत्रान्तरे, मुद्रातिस्फीतिः (hyperinflation) बहून् जनपदान् निष्ठुरतया शिक्षितवती  
+यत् कदाचित् सर्वस्मिन् जने कोटिपत्यौ सत्यपि  
+भिक्षुकः इव जीवेत्।
 
 4. In architecture & city-planning, old temples/churches become curiosities & town fortifications are pulled down. But the newly fortified buildings are banks and govt buildings. Indicates how society now places Money & Law at the center of personal fulfillment & social welfare.
+
+५२. अबाध-मुद्रा (free-floating currency) इव अबाध-प्रजा अपि  
+न केवलं पीडा-क्रमणात् न रक्षति,  
+प्रत्युत आधिदैविक-दुःखे समीपे सति  
+चुम्बकत्वेन विनाशम् आकर्षति।  
+
+अमूर्तादर्शैः एव जनता कल्पिता।  
+तेषाम् आदर्श-विचाराणां परिमित-सामयिकता यदा उल्लङ्घ्यते  
+तदा सः मोहः भङ्गुरायते।  
+जनाक्रोशः स्यात्,  
+परन्तु तदा +एव तदादर्शस्य फल्गुता +अपि आविष्क्रियते।  
+युङ्गरः उदाहरति -  
+सशस्त्र-गुल्मस्य पुरतः जन-स्तोमस्य रोषः नैतिक-प्रदर्शन-मात्रेण अवतिष्ठति,  
+आकाशे च गुलिकाक्षेपेण स रोषोऽपि क्लैब्यं गच्छेत्।  
+वस्तु-स्थितौ परिवर्तितायां,  
+जनसमूहस्य आक्षेपावहा ऽसौ एव अवशिष्येते।
 
 5. A bout of hyperinflation can destroy that faith in "per capita GDP". Next, ppl realize that free, relativistic social values attract psychological pain as much as free-floating currencies. When the limited applicability of those ideas is transgressed, that faith also breaks.
 
 6. The problem is each round of broken faith causes more & more social uproar AND sense of impotence in the face of the force of accumulated power. A massive demonstration will dissipate with bullets fired in the air. All that's left is cynicism, ridicule & complaints.
+
+५३. किन्तु प्रजासु कश्चन विशिष्ट-वर्गः निलीयते -  
+चण्डालाः तन्-नाम प्रचण्ड-स्वभावाः अन्त्यजाः (lumpen proletariat)।  
+न तेभ्यो वैश्विका आदर्शाः रोचन्ते।  
+अराजकतायाश् चरास् ते।  
+क्रान्तेः प्रणिधयः आन्दोलन-जीविनस् ते।  
+शत्रोः स्पशाः।  
+अपराधिनां गूढ-संसर्गः।  
+सामान्य-प्रजानां मनांसि धर्म-नीतिभिश् च दोल्यन्ते,  
+हर्ष-रोषाभ्यां च उद्विजन्ते।  
+शत्रुर् अधर्मी इत्य् एव  
+तेषां विश्वासः कारयितव्यः।  
+चण्डालस् तु अवसर-प्रियः, पक्षोदासीनश् च।  
+
+मर्यादा-पुरुषस्य धर्मस् तु सर्व-समावेशी वर्तते,  
+सर्वेषु तद् मानं प्रेरयितुं प्रयस्यति।  
+किन्तु चण्डालस्य मानं मर्यादा च  
+स्वजनान् एव समावेशयति (सामयिकतया),  
+परेषां कृते शाठ्यं क्रौर्यं चैव धर्मः इति मतम्।  
+
+अतः तस्य कार्यं राजनीति-क्षेत्रम् अतिशेते।  
+अन्तर्-भौमो विषाक्त ऊष्मा इव  
+चाण्डालवर्गः कार्य-रतः भवति  
+यावत् समाजे विप्लवः न स्यात्।  
+
+उत्पाते सति सः द्राक् उत्सृज्य राष्ट्रं विकली-करोति।  
+तदा तदा जनता जन-शत्रुं जयति  
+परन्तु पराजितः शत्रुः सर्वदा चण्डालैः सह सन्धिं कृत्वा  
+तत्पीडायाः ऋणादानं करिष्यति। 
+
+अत्र चण्डालः इत्युक्ते केवलं "वर्ग-सङ्घर्षस्य" परिप्रेक्ष्ये नावगन्तव्यम्।  
+सा तु आधिभौतिक-शक्तिः वर्तते  
+या सार्वभौमी सती  
+प्रचलितस्य अर्थशास्त्रीय-चिन्तनस्य वर्णिकां धृत्वा निगूहते  
+(यथा साम्यवादिनः वर्गसङ्घर्षः इति)।  
+निर्दयः निर्मोही सः।  
+तस्य क्रियाकलापे चारप्रयोगः, अन्तर्ध्वंसः, राजविद्रोहश्च।  
+तस्य निष्ठा व्यामिश्रिता एव।
 
 7. This is where the lumpen proletariat becomes increasingly powerful. I used the word Chandaal, because of the ferocious, semi-indignant Yaksh-like temperament for amoral violence alongside a strong appetite for the good things in life and making merry. Destiny of the dregs.
 
@@ -655,12 +872,59 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 9. Normal ppl are swayed by universal moral arguments. But Chandaal is amoral, opportunistic, strategically ambiguous. Thinks ppl naive & not 'based'. Maryada Purush wants to instill his values in all. Chandaal's honor extends only to in-group. Deceit & cruelty for out-group.
 
 10. Chandaal force is like a poisonous underground vapor that erupts during upheaval & paralyzes a nation. Chandaal is NOT synonymous with a layer in class-struggle. Rather, the victimhood mask in any fashionable socio-economic paradigm is worn by them to justify malcontents.
+
+
+५४. अत्र अर्थभेदः अवधेयः - पक्ष-धरः बलि-दानी सन्न् अपि अमरः न स्यात्।  
+वीरः स्यात् परं अमृतं नाश्नुयात्।  
+अमृतत्वं तु केवलम् अखिलात्मा आस्वदते,  
+भ्राता कन्हय्य इव।  
+अस्य निष्ठा स्पष्टा वर्तते,  
+तथापि निर्वैरः इत्येवम् अभिज्ञायते सर्वैः।  
+
+चण्डालोऽपि पक्ष-धरः नास्ति  
+परन्तु स्व-लोभात् ऋते,  
+अथवा शस्त्रमोहात् ऋते,  
+अन्येषां प्रति तस्य निष्ठा सन्दिग्धा।  
+स तु विश्व-वैरी राक्षसः।  
+अतः, अमृतत्वं तु दूरं, सः वीरगतिम् अपि न प्राप्नुयात् -  
+यतो हि तस्य मृत्युः शोकान्वितः दुरन्तः नास्ति।+++(4)+++  
+स्वबान्धवेभ्यः ऋते  
+न कश्चन तस्य विरहे दीनो भविष्यति।  
+सः मन्दबुद्ध्या मादक-वस्तुना वा पीडां विषहेत,  
+तथा वेदनया सह निष्क्रियम् इव सम्बन्धं परिपालयेत्,  
+तथापि वेदना-क्षेत्रं तीर्त्वा  
+न कदापि उदेति।  
+अतः, अमृतत्वं तु दूरं,  
+सः वस्तुतः वीरगतिम् अपि न प्राप्स्यति।
+
 11. "War hero", "martyr", etc. get thrown around. Philognostic distinction: Partisan warriors may sacrifice themselves & attain Veer but do not taste Amrit. Only the universal soul taste Amrit, like Bhai Kanhaiyya. His loyalty is clear, but everyone acknowledges his lack of enmity.
+
 12. But Chandaal is neither Amar/Shaheed nor Veer. He prefers neutrality, yet is an enemy of the world. His loyalty is ambiguous, motivated only by self-interest or intoxication of power & violence. His death is tragic only to his cabal, no one else misses him. Martyrdom is beyond him.
+
 13. Junger says Chandaal hates subtle thought & self-reflection. Deals with pain by blunting his intellect & reducing it to manipulative, clever rationalization. Uses training & drugs to render pain ineffectual. But never transcends pain. So he is not even Veer, forget Martyr.
+
+५५. प्रमत्तः जनसमूहः प्रतिष्ठित-शक्ति-समीकरणे भेदं दृष्ट्वा मोदते,  
+परन्तु तेन उत्पातेन जन-सामान्यस्य एव हानिर् भविष्यति।  
+सैन्य-बलेन विधि-बलेन छलेन वा  
+तस्य जोष-वाकं शमयति शासनम्।  
+
+शमनकार्यस्य अन्तर्गते विविध-वैचारिक-धारणाः प्रकाशन्ते,  
+यथा मनुष्येषु जातीनां वैविध्यं,  
+समाजे वर्गाणां तारतम्यम् इत्यादीनि।  
+चक्रे चक्रे राजवर्गे जनतायाः विश्वासः क्षीयते।  
+
 14. An angry populace rejoices at breakdown of power structures. But it hurts them most. By force of arms, law or deceit, their fiery rhetoric is extinguished. During this phase Junger says new ideologies about social & racial differences & hierarchies appear & gain popularity.
+
+तदा लोकतन्त्रेऽपि आरक्ष-सेनादिकं विहाय  
+राजदलानाम् अवैधिक-सशस्त्रदलानि उत्पद्यन्ते।  
+अत्रान्तरे, प्रजानां एकः एव अधिकारः अवशिष्यते - सम्मतिः।  
+वानरान् इव तेषां सम्मतिम् अपि विशिष्टार्थशास्त्रेण सम्पद्यते।  
+एतेन सम्मति-निर्माण-तन्त्रेण (manufactured consent)  
+प्रजा "जनता-जनार्दनः" इति धर्म-कारक-गर्भात् अर्थवस्तुमात्रेण परिवर्त्यते।
+
 15. Now political parties maintain illegal vigilantes & militias. Populace is left only with the right to "consent", which is also manufactured by socio-economic means. In this way social segments are reduced from active trustees of Dharma to a political-economic commodity.
-११ - कामश्च मन्युश्च
+
+## ११ - कामश्च मन्युश्च
 ५६. अतः, सर्वक्षेत्रेषु पीडाव्याप्तेः लक्षणं नाम व्यक्तेः द्रव्यीकरणम्। वेदनायाः आवश्यकतायाः स्वतःप्रामाण्यं कुतः? राष्ट्रेषु युद्धाय भृशम् उद्योगप्रणालीतः। सर्वदा साम्परायिक-सिद्धता। अस्मिन्, इतर-मान्यतानां स्वतःप्रामाण्यं विलीयते (अतः सर्वधर्मान् परित्यज्य...)। अस्मिन्, लौकिक-विश्रम्भस्य च अनुभवः लुप्यते। तत्स्थाने वैराग्यभाव एव व्यवसायात्मिकान् गणान् शास्ति। युङ्गरः आदि-येशुभक्तान् स्तुवन्तं स्मिर्णापुरस्य (Smyrna) पोलिकार्पः इत्येनं धर्मगुरुम्उद्धरति - "कथम् यातनाकाले स्व-मांसमय-कायेभ्य अनुपस्थिताः आसन् इति येशोरभिषिक्तस्य (Jesus Christ) हुतात्मानः इत्थंनो विनिर्दिशन्ति।" भारतानां नैके गुरवः तथैव न्यदर्शयन्। तथैव फ़्लेवियो योसिफ़ः इतिनाम्ना रोमकदेशीयः यहूद्यः इतिहासकारः रोमकसेनां विवृणोति - "जीवन्ति यन्त्राणि इव अदृश्य-विधिना प्रजूताःसैन्यगणाः यायावर-कुलेन सदृशाः अधित्यकाः, मरून् गिरीन् च प्रविशन्ति। प्रतिसायं स्कन्धावारं मायया निवेशयन्ति, प्रातरि च तथैव स विना चिह्नम् अन्तर्धीयते। पार्ये दिवि युद्धं 'मनोजवेन' सिद्ध्यति।"
 
 ५७. अतः, सः प्राणः श्रेयान् यः स्वबलिदानाय सज्जते। किन्तु यत्र जीवनमेव प्राथम्यं वहति तत्र प्रेयः चिनोति मनः। यत् जीवनस्य पूर्णतया द्रव्यीकरणात् एव जीवनस्य महत्तम-क्षणानि दृश्यन्ते, तत् असाधारणीं जीवनशैलीम् अपि सूचयति। नैकासाम् आहुतीनांं प्रक्रियया एव अग्नौ संप्रदीप्ते सति पूर्णाहुतिः दीयेत किल। अथ जीवनस्य अनुशासनम् असाधारणं भवेत्। साधकः पृथिव्यां रघुभावेन तत् तत् कार्यं प्रवर्तयेत्।
@@ -669,6 +933,7 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 
 कामात्मता न प्रशस्ता न चैवेहस्त्यकामता।
 काम्यो हि वेदाधिगमः कर्मयोगश्च वैदिकः॥ मनु०॥
+
 1. Yukta-Vairagya is a Vedantic paradox on being in this world but not of it. Junger says the commoditization of humans cannot be avoided but it must lead to transcendence in devotional service.
 2. The self-evidence of the necessity of pain in human evolution is pervasive war-preparedness. The proof of all other values dissolves in this universal value. So it must form the conscious context of everything. Emergency Dharma of the Final Day must guide the whole of life.
 3. The second experience that dissolves & disappears in this truth is worldly intimacy. That yearning never fructifies, unless it first reconciles with Detachment (Vairagya) based on a supersensory taste. It is personal Detachment that rules resolute mission-oriented groups.
@@ -679,10 +944,38 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 8. Through the ages, technology mirrors the level of commodification of human beings. It is like a uniform or armor. Humans are too immersed in it to realize. But in a technology-free environment a person can experience the direct kiss of the life-force. Worship the elements.
 9. Technology itself is an instrument of power. By manipulating individual "rational choices" for pleasure/security, power structures try to produce a greater good. Godly forces try to balance life dynamics through heaven & hell. Titanic forces do it through senses & 6 Ripus.
 10. Thus, everything is indeed effected through Eros & Ire. One's Shraddha is what balances out one's choices for Good vs Pleasure/Security. Achieving Vairagya is the basis of active Seva. Thus, a Lakshman Dev became Madho Das Bairagi, who became Banda Singh Bahadur.
-१२ - रसो वै सः
+
+## १२ - रसो वै सः
 ५९. विगितिः (Vegetius) पोलिबिश्च (Polybius) इव चिकित्सूनां मतौ रणारङ्गे व्यूहरचना गणितविज्ञानाङ्गत्वेन परिगण्येत। सम्राड् यूलियस्य (Julius Caesar) गद्ये विप्रकृष्ट-कारुण्यं न विद्यते - विदूरात् यत् कारुण्यं भयं वा मनसि उत्पद्येत, तदत्र न विद्यते। साम्राज्ये आवश्यकः सहजः भद्रः विरक्तः स्वभावः एव स्पन्दते। युङ्गरः व्याख्याति यत् विप्रकर्षे कारुण्यं (the pathos of distance) शक्तेः विशेषता नास्ति अपितु शक्तीप्सायाः। तस्य गद्यं वस्तुरूपेण अनिर्वचनीयत्वं प्रतिपादयति। उदाहरणतः, सङ्कुले अग्रपङ्क्तिद्वयं भञ्जयित्वा आक्रान्तं शत्रुं दृष्ट्वा यदा दिग्गजानां योजनम् अपरिहार्यम् आपतितं तदा सः लिखति, "रयिर् आतृतीयाम् आगतम्" (तन्नाम विषयः आतृतीय-श्रेणिम् आगतः)इति तावदेव। तस्मिन् वाक्ये आक्रान्तानां तथा म्रियमाणानां चीत्कारः मूक एव निहितः स्यात्। चमूनाथस्य दृष्टिः वीतरागवेदना वर्तते।
 
-६०. विप्रकृष्टं कारुण्यमिति विषये मम स्मृतिपथे इदं चकास्ति - वर्षेभ्यः पूर्वं सियातल(Seattle)-नगरस्थे कस्यचित् सुजनस्य तलगृहे आयोजित-काव्यसभायां सुविख्यातः विद्वान् प्रवक्ता आसीत्। भवन्तो ऽत्यन्त-भावुकाः विविधकाव्यप्रकरणानि उद्धृत्य स्वविचारान् विजृम्भयन्तः आसन्। प्रणय-विषयम् उद्दिश्य भवन्तः उक्तवन्तः, "यदा वयं स्वयम् अनुभवामः, सः भावः उच्यते, परन्तु मिलित्वा चित्रपटे इव वीक्षामहे चेत् सः रसः इति उच्यते" इति। भवन्तो ऽविवाहिताः इति जानानः कदाचित् अहं पृष्टवान् यत् निजजीवने यदि प्रणयस्य, संभोगस्य, वियोगस्य वा अनुभवः न स्यात्, तर्हि किं विषयवस्तु अवगन्तुं शक्नुयाम? उत्तरम् अददुः, "अस्मासु सैनिकेतरेषु सत्स्वपि युद्धकथां पठित्वा रसास्वादनं कुर्मः खलु?" तेन अस्मासु मन्दहासस्य ऊर्मिका प्रसृता। प्रश्नावधिः समाप्तः, परं मम समाधानं नाभूत्। यतो हि अहं योद्धॄणां वचोभ्यः जानामि यत् तेषां अनुभवो ऽस्माकं कल्पनातीतो ऽस्ति। मृत्युसन्निकर्षे भावः परिवर्तते। १७-वर्षवयसः मम अर्बुदरोगः आपतितः। वैद्यमहोदयः सकारुण्यं - "प्रयासं कुर्मः परं वर्षेण सार्धवर्षेण वा दिवङ्गमिष्यसि इति मन्ये" इति निदानं न्यवेदयत्। अद्भुतः सार्धवर्षः आसीत् सः। सूर्योदयः अद्भुतः, जनानां मुखानि अद्भुतानि, शरीरस्य क्षयोऽपि अद्भुतः। शारीरिक-क्लेशम् अनुभूयापि मयि दैन्यं नासीत्, प्रत्युत नैकेषां सान्तवनेन खिद्ये स्म। किन्तु तदानीं जीवने कस्यापि महतो कार्यभारस्य धुरंधरो नासं ननु। पितरौ मदधिकतया दुःखितौ स्याताम्। इदानीं तु यदि तथा भवेत् तर्हि दारापुत्रादिकस्य विषये निश्चयेन मयि कारुण्यं चिन्ता च उत्पद्येयातां, यतोहि मम अस्मिता तेभ्यःप्रकृष्टा तिष्ठति। तान् प्रति मम कर्तव्यं मम रसं परिवर्तयति। भक्तिः दायित्वसापेक्षा वर्तते। मुक्तिस्तु कायातीतेन आत्मज्ञानेन, परमकर्तृज्ञानेन, अभिषुतस्य याथातथ्यतोऽर्थयुतस्य रसस्य पानेन च (ईशोपनिषदि ८) सम्भवति।
+६०. विप्रकृष्टं कारुण्यमिति विषये मम स्मृतिपथे इदं चकास्ति - वर्षेभ्यः पूर्वं सियातल(Seattle)-नगरस्थे कस्यचित् सुजनस्य तलगृहे आयोजित-काव्यसभायां सुविख्यातः विद्वान् प्रवक्ता आसीत्। भवन्तो ऽत्यन्त-भावुकाः विविधकाव्यप्रकरणानि उद्धृत्य स्वविचारान् विजृम्भयन्तः आसन्। प्रणय-विषयम् उद्दिश्य भवन्तः उक्तवन्तः, "यदा वयं स्वयम् अनुभवामः, सः भावः उच्यते, परन्तु मिलित्वा चित्रपटे इव वीक्षामहे चेत् सः रसः इति उच्यते" इति।  
+भवन्तो ऽविवाहिताः इति जानानः कदाचित् अहं पृष्टवान् यत् निजजीवने यदि प्रणयस्य, संभोगस्य, वियोगस्य वा अनुभवः न स्यात्,  
+तर्हि किं विषयवस्तु अवगन्तुं शक्नुयाम?  
+उत्तरम् अददुः,  
+"अस्मासु सैनिकेतरेषु सत्स्वपि युद्धकथां पठित्वा रसास्वादनं कुर्मः खलु?"  
+तेन अस्मासु मन्दहासस्य ऊर्मिका प्रसृता।  
+
+प्रश्नावधिः समाप्तः, परं मम समाधानं नाभूत्।  
+यतो हि अहं योद्धॄणां वचोभ्यः जानामि  
+यत् तेषां अनुभवो ऽस्माकं कल्पनातीतो ऽस्ति।  
+मृत्युसन्निकर्षे भावः परिवर्तते।  
+
+१७-वर्षवयसः मम अर्बुदरोगः आपतितः।  
+वैद्यमहोदयः सकारुण्यं - "प्रयासं कुर्मः, परं वर्षेण सार्धवर्षेण वा दिवङ्गमिष्यसि इति मन्ये" इति निदानं न्यवेदयत्।  
+अद्भुतः सार्धवर्षः आसीत् सः।  
+सूर्योदयः अद्भुतः, जनानां मुखानि अद्भुतानि, शरीरस्य क्षयोऽपि अद्भुतः।  
+शारीरिक-क्लेशम् अनुभूयापि मयि दैन्यं नासीत्,  
+प्रत्युत नैकेषां सान्त्वनेन खिद्ये स्म।  
+किन्तु तदानीं जीवने कस्यापि महतो कार्यभारस्य धुरंधरो नासं ननु।  
+पितरौ मदधिकतया दुःखितौ स्याताम्।  
+इदानीं तु यदि तथा भवेत्  
+तर्हि दारापुत्रादिकस्य विषये निश्चयेन मयि कारुण्यं चिन्ता च उत्पद्येयातां,  
+यतोहि मम अस्मिता तेभ्यःप्रकृष्टा तिष्ठति।  
+तान् प्रति मम कर्तव्यं  
+मम रसं परिवर्तयति।  
+
+भक्तिः दायित्वसापेक्षा वर्तते।  
+मुक्तिस्तु कायातीतेन आत्मज्ञानेन, परमकर्तृज्ञानेन, अभिषुतस्य याथातथ्यतोऽर्थयुतस्य रसस्य पानेन च (ईशोपनिषदि ८) सम्भवति।
 
 ६१. यन्त्रयुता रणव्यूहरचना अमानुषी प्रतीयते। पुरा व्यूहः नाम दृढश्रेणिभिः निर्मिताः चतुर्भुजाः तालबद्धगत्या निःशाणं कुर्वन्तः इति आसीत्, परन्तु प्रथमे विश्व-महायुद्धात् आरभ्य नारकीयम् अशासनं दरीदृश्यते युद्धक्षेत्रेषु। कुतः? अधुना संभारस्य स्पर्धारूपेण परिवर्तिता व्यूहरचना। अस्य तर्काधारः दिग्-अवधारणायाः पूर्णतो विरुद्धः वर्तते। यत्र यत्र अधिक-बल-नियोजनस्य न्यूनप्रभावः भवति तत्र तत्र एतत् परिचिनुमः। अतः, अधुना अस्य नवीनव्यूहस्य अङ्गानि निश्चयेन नः समाजे, पर्यावरणे, तन्त्रेषु, सर्वव्यव्स्थासु च निहितानि सन्ति। या बुद्धि एतद् अधिगच्छेत् सा एव नो भविष्यं निर्मास्यति, अपि ताम् एव प्रचलित-मिथ्याः न मुह्यन्ति।
 
@@ -704,7 +997,7 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 
 7. Thus: Emotion is directly related to one's Responsibilities + Involvement in any situation. Actual emotion of a participant cannot be correctly understood by one who has not been involved in the same type of responsibility. Bhakti=More Responsibility=Higher emotion
 
-१३ - बलि-साधारण्यम्
+## १३ - बलि-साधारण्यम्
 ६४. समाजस्य जीवनदर्शनं सुस्पष्टतया तत्र प्रकाशते यत्र सः समस्यां न पश्यति तथा विवादो न स्यात्। गतकाले खनिषु शतशः म्रियन्ते एव इति साधारणतया अङ्गीकुर्वन्ति स्म जनाः। यान्त्रिक-यानानाम् आविष्कारेण वीथिषु पदातयः अपघातैः म्रियन्ते स्म - प्रथमं तु विस्मयकारिणी वार्ता भवति स्म, परं गच्छता कालेन युद्धाहतानां सङ्ख्याम् उल्लङ्घ्यापि साधारणम् अभूत्। तस्य लाभान् स्वीकृत्य तस्य बलिम् अपि दातव्यम् इति सामाजिक-चिन्तनम्।
 
 ६५. विज्ञान-विकासेन प्रायशः साधारणतायाः मानदण्डः परिवर्तते। विचारधारा अपि दिशं परिवृत्य लोकायतं मानकं परिवर्तयति। मानक-स्खलनेन विधानम् अपि परिवर्तते। पूर्वं वैर-निर्यातने द्वन्द्व-युद्धं साधारणम् आसीत्, अद्य विजेता कारासेधेन पुरस्क्रियते।
@@ -725,7 +1018,7 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 
 6. In contrast, societies with contrasting values will show how what is considered a normal sacrifice in one society is treated with a sense of victimhood in another society. Attempts to introduce perceived victimhood in a society are a way to alter its values.
 
-१४ - दुष्टा दृक्
+## १४ - दुष्टा दृक्
 ६८. आधुनिक-मनुष्यस्य चैतन्यः विकसन् दृश्यते इति युङ्गरः। तस्य द्विस्तरीयः चैतन्यः अथवा तस्मिन् द्वे व्यक्ती जीवतः इति भाति। द्वितीयोऽयं चैतन्यः निःस्पृह-स्वभावेन आत्मानं द्रव्यरूपेण द्रष्टुं शक्नोति। मनोविज्ञानस्य आत्मचिन्तनम् इत्यनया क्रियया न भ्रमितव्यम् एतत्। मनोविज्ञाने संवेदनशीला व्यक्तिः अनुसन्धेयास्ति, परम् अत्र द्वितीयचैतन्यः वेदनापरः भूत्वा आलोकते। तयोः सादृश्यम् अपि वर्तते, परं मूलतः भिन्ने स्तः।
 
 ६९. द्वितीयोऽयं चैतन्यः समग्रस्थूलजगत् यन्त्ररूपेण पश्यति, अतः सः नूतनानि कारुयन्त्राणि (robotics) कल्पयित्वा मानवशरीरेण मनसा च सह योजयति। यथा कृतकाङ्गानि (artificial limbs), प्रज्ञाकल्पः (Artificial Intelligence) इत्यादीनि। तेन जीवनस्य यान्त्रीकरणम् अपि स्यात्, पीडया सह नः सम्बन्धः अपि परिवर्तेत, सहनशक्तिः च वर्धते। अत्र लोकाचारे परिवर्तनं लक्षितव्यम्।
@@ -756,7 +1049,7 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 
 8. As society is mechanized, news of emergencies & actual or potential calamities become constant. Because tech media is programmed to esp. handle those situations. Thus, constant monitoring & emergency preparedness becomes a part of normal lifestyle under the All-Seeing Eye.
 
-१५ - माया
+## १५ - माया
 ७४. एषां परिवर्तनानां साधनात्मकः स्वभावः प्रौद्योगिक-गोचरे एव सीमितं न भविष्यति, अपितु मानवशरीरम् एव स्वस्य आज्ञाधीनं कर्तुम् उपक्रमते । यथा क्रीडाक्षेत्रे दृश्यते। साधारणतः क्रीडा स्पर्धात्मिकी भवति, किन्तु गच्छता कालेन सा सूक्ष्म-मापने एव व्यासक्ता भविष्यति। कियान् वेगः, कियत् भारं, कियान् आयामः इत्यादीनि। माया इत्युक्ते "मीयते अपरोक्षवत् प्रदर्श्यते अनया" इति कल्पद्रुमाख्ये कोशे।अत्र क्रीडा वीर्यं पौरुषं मानम् इत्यादीनि न अन्वेति यथा सा व्यावसायिकताम् अन्वेति। विराट् कोहली इत्यस्य अभिमानिनः खिद्यन्ते यदा ठक्कुरः पराजित्य पाकिस्थानि-क्रीडकैः सह हसन् दृश्यते। ठक्कुरस्य कृते तु इदं कार्यदिवसेषु अन्यतमम् अस्ति, मानभङ्गस्य प्रकरणं नैव। किन्तु पाकिस्थाने स्पर्धेयं जिहादः इति मन्यन्ते। को मनोधर्मः श्रेयान्? कालप्रवाहस्य परिप्रेक्ष्ये चिन्त्यताम्। 
 ७६. युङ्गरः शृङ्गारविषये ऽपि नग्नकायस्य चित्रव्याप्तेः पूर्वानुमानं करोति। अत्र शारीरिक-सौन्दर्यस्य कल्पनापि परिवर्तते। यत्र अर्चकभावः प्राधानः आसीत्, तत्र भोगभावस्य प्राधान्यं द्रक्ष्यति। तत्र गच्छता कालेन अवयवानां मापने, वर्धने, क्षये वा स्पर्धा आरप्स्यते। सिद्धिः प्राधान्यं भजते।
 ७७. आधुनिक-मनोविज्ञाने ऽपि मनसः इन्द्रियाणां च शक्ति-स्फूर्त्योः मापनं साक्षात् नैतिकतायाः सिद्धान्तं परिवर्तयन् अस्ति। अपराधः कः? तथ्यं किम्? इत्यत्र संशयं जनयति। धर्मः तु सूक्ष्मः इति जानीमः किन्तु अत्र धर्मस्य स्थूलरूपेण निर्धारणं प्रतिपादयितुं प्रयासः प्रचलति मनोविज्ञाने। शून्यवादं, निर्विशेषत्वं च याति जनमानसः।
@@ -768,7 +1061,7 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 5. Psychometric measurement of vigor & power of mental processes & sensory organs is changing views on morality itself. What's reality? What's a crime? These are shades of grey now. Dharma is subtle, but this is a woke effort to quantify ethics. Leads to relativism & voidism.
 6. Perceptions on sickness & health, & the mind-body relationship change. Problems that were earlier treated by a change in lifestyle or undertaking an exercise now simply expect a pill. Pharmacology becomes the panacea. Junger predicts the illegal abuse of opioids too.
 7. Thus, once tantra-ization of social values is complete, & measurement advances into every field of endeavor & enjoyment, then the tyranny of physical biology begins. People's reality is mediated by existing records of measurement. The conception of possibilities is narrowed.
-१६ - राष्ट्रम्
+## १६ - राष्ट्रम्
 ७९. पुरातन-मान-मर्यादानां वासनाभिः वासितो ऽस्ति अद्यतनसमाजः। वयं प्रौढाः पुरातनसंस्कारान् अनुभूय आधुनिक-नैरस्यम् अभिज्ञातुं शक्नुमः। विगतभावस्य विरहे दीनाः स्याम। किन्तु नः पुरतो ऽर्भकाः वर्धमानाः सन्ति ये युवानः भूत्वा विवेचयितुम् अपि न शक्ष्यन्ति। अत्र वेदनाविषयकं रहस्यं तैः नावगतं चेत् महान् अनर्थो भविष्यति। एषः गूढविषयः पुरा प्रोक्तः एव महात्मभिः किन्तु तस्य बोधनम् अद्य न सरलम्। यतोहि विषयोऽयं वाचा तर्केण वा न बोध्येत। ज्येष्ठेषु आदरेण अथवा अनुभूत्या गृह्यते। यत्र वस्तुतया नानुभूयते, तत्र साधना अत्यावश्यकी। वेदनातः यूनः रक्षित्वा तान् वेदनारहस्यं कथं बोधयाम?
 ८०. युङ्गरः चिन्तितवान् यत् समाजे राजनेतारः व्यक्तिहीनाः वर्णहीनाः च भविष्यन्ति। सर्वे अभिनेतारः एव। वस्तुतः यशः किमिति जनाः न जानन्ति। महती शक्तिः अस्मान् सततं युद्धं प्रति कर्षति, यस्मिन् कार्ये जनः उपसाधमात्रं भवति। तथापि सः कथञ्चित् स्वराड् भूत्वा मोक्षं प्राप्नुयात्। किन्तु सम्प्रदायस्य नाशे निश्चिते, संस्कृतेः च नाशे अवश्यम्भाविनि सति, तत्कथम् ? वैराग्यभावेन अनुसरणम् इति। यत्पूर्वं अर्थार्थी प्रीत्या वृणुते स्म, तदिदानीं वैराग्यभावेन रक्षितव्यम्।
 ८१. मानवसमाजः इदानीं शून्यवादस्य अन्तिमचरणे चक्रयन् अस्ति। ततोऽग्रे नूतन-सामाज-व्यवस्था जनिष्यते, यस्याः मर्यादाः अद्भुतभावेन द्रक्ष्यामः। परिस्थितेः वैशिष्ट्यम् अवगत्य मानवस्य विरोधाभासः विलीयते। महत्या संघटनशक्त्या सह कथं धर्मौदासीन्यं तिष्ठेत्? अर्थविरहिता श्रद्धा कथम्? अवैध-नेतृत्वे प्रजासु अनुशासनं कथम्?। सारांशे - व्यक्तीनां, संस्थानां, विचाराणां च कल्पिता कृत्रिमता। राष्ट्रभक्तेः कल्पनाम् आधार्य एव अनुशासनम्।

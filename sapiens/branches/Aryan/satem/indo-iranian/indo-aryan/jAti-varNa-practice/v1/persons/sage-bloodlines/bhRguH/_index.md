@@ -65,6 +65,7 @@ title = "+भार्गवाः"
 ### मध्वः
 a भास्कर of भार्गवाः (अज्ञातगोत्रः)-born at पाजकक्षेत्र, KN, he propounded द्वैतवेदान्त through his भाष्याणि (commentaries) on ब्रह्मसूत्र, गीता & 10 main उपनिषदः -believed to be मुख्यप्राण himself
 
+
 ### परमेश्वरः
 Parameśvara (ad 1360–1455) was one of the most well-known astronomers of Kerala and enunciator in ad 1430 of the famous DRK system of computation of the positions of planets in his work “Drgganitam.” He belonged to bhRgu gotra and was a Rgvedin of “Ashvalayana Sutra.” His son Damodara was also a great astronomer.
 

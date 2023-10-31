@@ -77,13 +77,26 @@ Source: [prekshaa series](https://www.prekshaa.in/series-list/Vedamurti%20Sri%20
 
 ಎಂಬುದು ಅವರ ನಿಲವು. ವೇದಪಾಠದಲ್ಲಿ ಸ್ತ್ರೀ-ಪುರುಷಭೇದವನ್ನವರು ಇಟ್ಟುಕೊಂಡಿರಲಿಲ್ಲ; ಉಪನೀತ-ಅನುಪನೀತ ಎಂಬ ಆಗ್ರಹವೂ ಅವರಿಗೆ ಇದ್ದಂತೆ ತೋರದು. ತಮ್ಮ ಸೊಸೆಯೂ ಸೇರಿದಂತೆ ಹಲವರು ಹೆಣ್ಣುಮಕ್ಕಳಿಗೆ ಸಾಮವೇದವನ್ನು ಕಲಿಸಿದ್ದರು.+++(5)+++ 
 
-<details><summary>श्रीवत्स-विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>प्रामाण्य-विचारः</summary>
 
-For the project of comparing saama with sangita some sangita viduShis of his family were roped in. They had to be taught for that project. To these women he taught a few gaanas only.
+श्रीवत्सस्य भ्रमः -
 
-(He taught no other anupanIta.) None among the students know of any regular woman / girl student. In fact when I didn't know these subtleties i had asked for a female school friend. At that time Acharya had clearly refused. When I persisted another time he told me "please don't raise this again, it will cause me mujugara".
+> For the project of comparing saama with sangita some sangita viduShis of his family were roped in. They had to be taught for that project. To these women he taught a few gaanas only.
+>
+> (He taught no other anupanIta.) None among the students know of any regular woman / girl student. In fact when I didn't know these subtleties i had asked for a female school friend. At that time Acharya had clearly refused. When I persisted another time he told me "please don't raise this again, it will cause me mujugara".
 
-किञ्च नैतद् एवम् इति गणेशो ऽवधानी। 
+किञ्च नैतद् एवम् इति गणेशो ऽवधानी।
+
+> my uncle didn't have any reservation in teaching vedas to ladies.  
+In he insisted me also to learn samaveda and taught few days also.  
+But learning sama is not as easy as learning rigveda..I felt this and could not continue.  
+Ladies those who are eligible and came forward - he never said no.
+Except his close circle relatives.. came to.  
+> 
+> ಸ್ತ್ರೀಯರಿಗೆ ಉಪನಯನ..... ಇಂಥಾ ಹುಂಬತನದ ಕೆಲಸಗಳನ್ನು ಮಾಡುತ್ತಿರಲಿಲ್ಲ...
+Eligibility means... pronounciation, interest, little knowledge of Sanskrit language...ವೇದ ಕಿವಿಯಿಂದಾದರೂ ಕೇಳಿ ಗೊತ್ತಿರೋದು... ಹೀಗೆ...
+
+इति शान्ता। 
 </details>
 
 
