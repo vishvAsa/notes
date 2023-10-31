@@ -365,33 +365,77 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 
 २६. प्रायः प्रजनन-विषये यथा दुःखं ताम्यति,  
 तथा नो नान्यत्र सम्मुखी-करोति।  
-अत्र सर्वाः प्राणशक्तयः रोधावस्थायां संपीडयन्ति। अप्रसूतानां भूरिशः भ्रूणहत्यां कथं नु विस्मर्तुं शक्येत, येन युगपत् तद्दुर्मेधायाः दौर्बल्यं पाशवं च प्रतिपद्येते। रण-वधयोः, रोगचिकित्सा-ऽपराधयोश्च मध्ये भेदस्य अनभिज्ञा बुद्धिः धर्मसङ्कटे निश्चयेन सर्वतो बाधारहितं क्षुद्रं च उपायं चेष्यति। अत्र पदव्याः औन्नत्यं दुःख-गाम्भीर्येण सह सद्यःसम्बन्धे तिष्ठति। यः कोऽपि जीवनस्य सारवस्तुना सह सम्बन्धं निर्वहति सः अमूर्तविचाराणाम् आडम्बरेण न तुष्येत्। परन्तु अस्मिन् व्यलीक-युगे, वीर्योपासना उन्मादरूपेण गृह्यते, प्रसूतिः रोगकल्पः इव परिदेव्यते, सैनिकः सौनिक-सन्निभश्च गर्ह्यते। आरक्षव्यवस्थायां यातनातन्त्रम् अपि मध्यकालीन-व्यवस्थां मन्येरन् मूढाः। कृषिः साधारण-वृत्तिषु अन्यतमा परिगण्यते।
+अत्र सर्वाः प्राण-शक्तयः रोधावस्थायां संपीडयन्ति।  
+अ-प्रसूतानां भूरिशः भ्रूण-हत्यां  
+कथं नु विस्मर्तुं शक्येत,  
+येन युगपत् तद्दुर्मेधायाः दौर्बल्यं पाशवं च प्रतिपद्येते।  
 
-२७. अधम-मतानां लोके, सर्वाः माहात्म्य-मर्यादाः धूलिसात् क्रियन्ते। आत्मनो नियति-द्रोहः पदवीप्राप्तानां व्यक्तीनां दुःखेषु तीक्ष्णतया प्रतिबिम्बितः दृश्यते। तथैव जीवनस्य आश्रमान् कलिलान् करोति दुर्मेधा  - अहो! कथं यौवनस्य उत्साहो विच्छिद्यते अनया, कथं वानप्रस्थात् वञ्चितं भवति जीवनम्। 
+रण-वधयोः, रोग-चिकित्सा-ऽपराधयोश् च मध्ये भेदस्य अनभिज्ञा बुद्धिः  
+धर्मसङ्कटे निश्चयेन सर्वतो बाधारहितं क्षुद्रं च उपायं चेष्यति।  
+
+6. One area where pain's hidden shadow manifests clearly is reproductive trends. All life forces converge here. Junger says widespread abortion of the unborn indicates the simultaneous weakness & cruelty of this sophisticated degeneracy. Will always take the path of convenience, no matter how cruel or cowardly.
+
+अत्र पदव्याः औन्नत्यं दुःख-गाम्भीर्येण सह सद्यः-सम्बन्धे तिष्ठति।  
+यः कोऽपि जीवनस्य सार-वस्तुना सह सम्बन्धं निर्वहति  
+सः अमूर्त-विचाराणाम् आडम्बरेण न तुष्येत्।  
+परन्तु अस्मिन् व्यलीक-युगे,  
+वीर्योपासना उन्माद-रूपेण गृह्यते,  
+प्रसूतिः रोगकल्पः इव परिदेव्यते,  
+सैनिकः सौनिक-सन्निभश् च गर्ह्यते।  
+
+आरक्ष-व्यवस्थायां यातना-तन्त्रम् अपि  
+मध्यकालीन-व्यवस्थां मन्येरन् मूढाः।  
+कृषिः साधारण-वृत्तिषु अन्यतमा परिगण्यते।
+
+7. Society of "sensitivity" thrives on false equivalences: Soldiers = murderers/butchers. Torture within the security establishment = medieval sadism. Lifestyle-based occupations like farming = all other professions. Worship of vigor = crazy. Pregnancy = a terrible illness.
+
+२७. अधम-मतानां लोके,  
+सर्वाः माहात्म्य-मर्यादाः धूलिसात् क्रियन्ते।  
+आत्मनो नियति-द्रोहः, पदवी-प्राप्तानां व्यक्तीनां दुःखेषु तीक्ष्णतया प्रतिबिम्बितः दृश्यते।  
+
+तथैव जीवनस्य आश्रमान् कलिलान् करोति दुर्मेधा  -  
+अहो! कथं यौवनस्य उत्साहो विच्छिद्यते अनया,  
+कथं वानप्रस्थात् वञ्चितं भवति जीवनम्। 
+
+8. Contradictions of such a society are reflected most sharply in the hollowness of the "happiness" of its most high-achievers.  
+   Also, most people are robbed of the appropriate experience of different phases (ashrams) of life. Childhood is lost, and so is true retirement.
 
 २८. एवं नियतेः छायातपस्सु चकास्ति धर्मज्ञानम्।
 
+9. Thus, knowledge of Dharma flashes in the Destiny's chiaroscuro.  
+   We can understand it in both the visible and hidden ways that pain/sorrow manifests and how it is dealt with in society.
 
-6. One area where pain's hidden shadow manifests clearly is reproductive trends. All life forces converge here. Junger says widespread abortion of the unborn indicates the simultaneous weakness & cruelty of this sophisticated degeneracy. Will always take the path of convenience, no matter how cruel or cowardly.
-7. Society of "sensitivity" thrives on false equivalences: Soldiers = murderers/butchers. Torture within the security establishment = medieval sadism. Lifestyle-based occupations like farming = all other professions. Worship of vigor = crazy. Pregnancy = a terrible illness.
-8. Contradictions of such a society are reflected most sharply in the hollowness of the "happiness" of its most high-achievers. Also, most people are robbed of the appropriate experience of different phases (ashrams) of life. Childhood is lost, and so is true retirement.
-9. Thus, knowledge of Dharma flashes in the Destiny's chiaroscuro. We can understand it in both the visible and hidden ways that pain/sorrow manifests and how it is dealt with in society.
-७ - शरीराणां शारिका
-२९. आधुनिक-लोकः शरीरं परमवैभवमिव मन्यते। इदमेतत् आधुनिक-संवेदनशीलतायाः रहस्यम्। अत एव दुःखं सर्वथा वर्जनीयम् इति सतत-प्रयासो दृश्यते। अत्र, वपुः आत्मनः उपरक्षरूपेण वेदनां न सम्मुखीकरोति। प्रत्युत, सुकुमारं वपुरेव जीवनस्य अन्तर्गर्भरूपेण दुःखाद् गोपायितम् अधितिष्ठति, यथा तदेव जीवनस्य प्रधानशक्तिरिव स्यात्।
+## ०७ - शरीराणां शारिका
+२९. आधुनिक-लोकः  
+शरीरं परमवैभवम् इव मन्यते।+++(5)+++  
+इदम् एतत् आधुनिक-संवेदन-शीलतायाः रहस्यम्।  
+अत एव दुःखं सर्वथा वर्जनीयम्  
+इति सतत-प्रयासो दृश्यते।  
 
-३०. वृथा हि आधुनिकमनीषी तं पूर्वतनं लोकं प्रवेष्टुं प्रयस्यति... यत्र आरिगनः (Origen) काराबद्धं स्वपितरं प्रार्थयत यत् अस्मान् कुटुम्बजनान् स्मृत्वा वीरगतिं मा जहि इति। ...यत्र स्वग्राम-गोत्रे आक्रान्ते, दैत्यदेशीय-मातरः स्वबालान् हत्वा आत्महत्याम् कुर्वन्ति स्म प्राचीनकाले। ...यत्र भारते मध्ययुगीनाः अपि अभिजात-स्त्र्यः तथैव अकुर्वन्। ...यत्र बालः गोविन्दरायः स्वपितरं गुरुंतेजबहादुरं वीरतया आत्मसमर्पणाय उपादिशत्। ...यत्र च प्रवृद्ध्य सः युद्धे स्वपुत्राणांवीरगतेर्विषये शोकाकुलां पत्नीं पप्रच्छ "कतमाः पुत्राः? मम तु सहस्राणि सन्ति" इति। 
-
-३१.  वेदनाविषये मनोवृत्तिः कालक्रमे समाना न वर्तते इति इतिहासः शिक्षयति। प्रत्यक्षतया तादृशी मनःस्थितिः विद्यते यया मनुष्यः तैः गोचरैः विरक्तः भवितुम् अर्हति यत्र पीडा सर्वोपरि शास्ति। वैराग्यमिदं तदा उपजायते यदा मनुष्यः पीडागोचरं (तन्नाम शरीरं) द्रव्यरूपेण द्रष्टुम् आरभते। आत्मनः शारिफलके शरीरं तु विष्ठलः कश्चन पदातिः उपरक्षो वा वर्तते, यत् सङ्कुल-युद्धे नियुज्येत, यस्य बलिं दीयेत च - इति वैराग्यस्य पुर्वकल्पना अवश्यं भवेत्। धर्मसाधनत्वेन, शरीराणि व्ययीभवेयुः परं प्राणस्तु बहुमूल्यः। जगत्सर्वं च शून्यायते परं प्राणनाथस्तु बृंहति।
-
-३२. ईदृशात् वैराग्यात् आरभ्य सर्वे उपायाः पीडां जेतुं कल्पिताः स्युः, न तु पीडां निवारयितुम्। मानं, देवार्चनं, वीर्यं च इत्येतानि दुःख-विषये आधुनिक-संवेदनशीलत्वात् रसान्तरम् प्रतिपादयन्ति। संवेदनशीलपरः सर्वथा दुःखं निवार्य तस्मात् जीवनम् आश्रयितुं प्रवर्तते। परन्तु मानपरः, देवशुश्रूषुः, वीरो वा सदैव दुःखं समाहृत्य बलोपादानाय प्रयतते। पुनः सर्वदा जीवनं तथा व्यवस्थापयितुं प्रयतते येन व्यक्तिः पीडां प्रति सन्नाहस् तिष्ठेत्। इदमेतद् "युक्तवैराग्यम्" इति अवोचत् चैतन्यदेवः। प्रकृतेऽपि दुःखस्य मुख्य-भूमिका अस्ति, यद्यपि विपरीततया। यतोहि प्राणः सर्वदा दुःखं सम्पर्कयितुं यतते।
-
-३३. अनुशासनं नाम तदेव - अनवरतं दुःखस्य लेशमात्रं सम्पर्कं रक्षितुं अभ्यासः। ब्रह्मतपसि सुखस्य प्रत्याख्यानं स्यात् अथवा क्षत्र-तपसि दुःखं प्रति आत्मानं सारलोहम् (steel) इव कठिनीकरणं स्यात्। उभयोः तपसोः लक्ष्यम् एकम् - प्राणेन्द्रियाणां संयमः, येन सः क्षणेन आहूतः दैवसेवार्थम् उद्युक्तः भवितुम् अर्हेत्।
-
-३४. अतः, कियत्पर्यन्तं शरीरं द्रव्यरूपेण व्यवहर्तुं शक्यते इति निर्धार्य आधुनिक-मतानां वर्गीकरणं कर्तव्यं स्यात्। यावत् तनूम् एव जीवगर्भम् आत्मदर्पणम् इव वा भावयेत् बुद्धिः तावत् तन्वी भङ्गुरा च भवति सा। यावत् सा वपुषा अनात्मना शारिणा इव दीव्येत् तावत् धीरा गभीरा च भविष्यति। 
+अत्र, वपुः आत्मनः उपरक्ष-रूपेण  
+वेदनां न सम्मुखीकरोति -  
+प्रत्युत, सुकुमारं वपुर् एव  
+जीवनस्य अन्तर्गर्भरूपेण  
+दुःखाद् गोपायितम् अधितिष्ठति,  
+यथा तद् एव जीवनस्य प्रधान-शक्तिर् इव स्यात्।
 
 1. Junger says those who see the body as a distant outpost of the 'I' achieve deep, detached intelligence. Those who see body as 'I' slip into "sensitive" shallowness.
 
 2. Western modernity sees the body as a person's primary asset. This is the secret of the woke culture of sensitivity. Rather than seeing it as a distant outpost of the soul, the precious body is treated like the inner embryo of Self and must be bubble-wrapped from all harm.
+
+
+३०. वृथा हि आधुनिकमनीषी  
+तं पूर्वतनं लोकं प्रवेष्टुं प्रयस्यति...  
+यत्र आरिगनः (Origen) काराबद्धं स्वपितरं प्रार्थयत यत्  
+अस्मान् कुटुम्बजनान् स्मृत्वा  
+वीरगतिं मा जहि इति।+++(4)+++ ...  
+
+यत्र स्वग्राम-गोत्रे आक्रान्ते,  
+दैत्य-देशीय-मातरः स्व-बालान् हत्वा आत्म-हत्याम् कुर्वन्ति स्म प्राचीनकाले ...  
+यत्र भारते मध्य-युगीनाः अपि अभिजात-स्त्र्यः तथैव अकुर्वन् ...  
+यत्र बालः गोविन्द-रायः स्वपितरं गुरुं तेज-बहादुरं वीरतया आत्मसमर्पणाय उपादिशत् ...  
+यत्र च प्रवृद्ध्य सः युद्धे स्वपुत्राणां वीरगतेर् विषये शोकाकुलां पत्नीं पप्रच्छ  
+"कतमाः पुत्राः? मम तु सहस्राणि सन्ति" इति ... 
 
 3. Modern sensitivity-trained body-worshipping intellekchutials try in vain to enter the world of ancients; like the youth Origen who wrote to his imprisoned father not to pass up martyrdom on account of family. They are awed at best but will most likely ascribe to "fanaticism".
 
@@ -399,24 +443,108 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 
 5. Or like the boy Gobind Rai instructed his father Guru Tegh Bahadur to martyrdom. & who later as a father himself reacted to his 4 sons' martyrdom by asking his inquiring wife, "Which sons? I have thousands," sending her into shrieks. Can we truly understand Guru Gobind Singh?
 
+३१.  वेदना-विषये मनोवृत्तिः  
+काल-क्रमे समाना न वर्तते  
+
+इति इतिहासः शिक्षयति।  
+प्रत्यक्षतया तादृशी मनःस्थितिः विद्यते  
+यया मनुष्यः तैः गोचरैः विरक्तः भवितुम् अर्हति  
+यत्र पीडा सर्वोपरि शास्ति।  
+
+वैराग्यमिदं तदा उपजायते  
+यदा मनुष्यः पीडा-गोचरं (तन्नाम शरीरं)  
+द्रव्यरूपेण द्रष्टुम् आरभते।  
+आत्मनः शारि-फलके+++(=द्यूत-फलके)+++ शरीरं तु विष्ठलः कश्चन पदातिर् उपरक्षो वा वर्तते,  
+यत् सङ्कुल-युद्धे नियुज्येत,  
+यस्य बलिं दीयेत च -  
+इति वैराग्यस्य पुर्व-कल्पना अवश्यं भवेत्।  
+धर्म-साधनत्वेन शरीराणि व्ययीभवेयुः  
+
 6. Historically, collective attitude to pain changes over time. But there clearly is a realm of consciousness beyond the jurisdiction of pain, i.e., beyond the body. That arises only when man considers the body a dispensable asset - one that is of little value in its own right.
 
 7. The body's value is only in relation to serving real things in a far inferior capacity. It is like a frontline pawn or guard in a game of spiritual chess - that is deployed in the melee of battle; to be sacrificed in a gambit. This is a necessary presumption of Vairagya.
 
+परं प्राणस् तु बहु-मूल्यः।  
+जगत्-सर्वं च शून्यायते परं प्राण-नाथस् तु बृंहति।
+
 8. Bodies are dispensable, but life is precious. This is the paradoxical calculus of Dharma. In that progressive battle of realizations, this world becomes void, but the Lord of Life is magnified.
+
+३२. ईदृशाद् वैराग्यात् आरभ्य  
+सर्वे उपायाः पीडां जेतुं कल्पिताः स्युः,  
+न तु पीडां निवारयितुम्। 
+
+मानं, देवार्चनं, वीर्यं च इत्येतानि  
+दुःख-विषये आधुनिक-संवेदन-शीलत्वात् रसान्तरम् प्रतिपादयन्ति।  
+
+संवेदन-शील-परः सर्वथा दुःखं निवार्य  
+तस्मात् जीवनम् आश्रयितुं प्रवर्तते। 
+
+परन्तु मान-परः, देव-शुश्रूषुः, वीरो वा  
+सदैव दुःखं समाहृत्य  
+बलोपादानाय प्रयतते।  
 
 9. Vairagya strives to win over pain rather than avoid/prevent it. Honor, sacredness, courage: their approach to pain is entirely different from modern sensitivity-training which attempts to totally shield life from pain. Former seeks how best to assimilate it & build strength.
 
+पुनः सर्वदा जीवनं तथा व्यवस्थापयितुं प्रयतते  
+येन व्यक्तिः पीडां प्रति सन्नाहस् तिष्ठेत्।  
+
+इदमेतद् "युक्त-वैराग्यम्" इति अवोचत् चैतन्य-देवः।+++(4)+++  
+
+प्रकृतेऽपि दुःखस्य मुख्य-भूमिका अस्ति,  
+यद्य् अपि विपरीततया -  
+यतोहि प्राणः सर्वदा दुःखं सम्पर्कयितुं यतते।
+
 10. Vairagya is meant to rearrange life in such a way that the person (not body) is armed against pain. This is the Yukta-Vairagya of Chaitanya. Here too, sorrow plays the lead role, albeit in reverse. Because the Life Force always strives to find and contact pain, says Junger.
+
+३३. अनुशासनं नाम तद् एव -  
+अन्-अवरतं दुःखस्य लेश-मात्रं सम्पर्कं रक्षितुं अभ्यासः।+++(5)+++  
+ब्रह्म-तपसि सुखस्य प्रत्याख्यानं स्यात्  
+अथवा क्षत्र-तपसि दुःखं प्रति आत्मानं सार-लोहम् (steel) इव कठिनीकरणं स्यात्।  
+उभयोः तपसोः लक्ष्यम् एकम् -  
+प्राणेन्द्रियाणां संयमः,  
+येन सः क्षणेन आहूतः दैव-सेवार्थम् उद्युक्तः भवितुम् अर्हेत्।
 
 11. Discipline is the practice of consciously imbibing a bit of pain regularly. Brahma Tapasya is to deny pleasure & Kshatra is to anneal & steel one's Self against pain. Goal of both is life & sense-control, so one can answer the call to divine service at a moment's notice.
 
+३४. अतः, कियत् पर्यन्तं शरीरं द्रव्यरूपेण व्यवहर्तुं शक्यते इति निर्धार्य  
+आधुनिक-मतानां वर्गीकरणं कर्तव्यं स्यात्।  
+यावत् तनूम् एव जीव-गर्भम् आत्म-दर्पणम् इव वा भावयेत् बुद्धिः  
+तावत् तन्वी भङ्गुरा च भवति सा।  
+यावत् सा वपुषा अनात्मना शारिणा इव दीव्येत्  
+तावत् धीरा गभीरा च भविष्यति।+++(5)+++
+
 12. Ideologies/Religions can be arranged in a hierarchy depending on how they treat the body. Those that think of it as the self or the image of God have a raw & fragile intelligence. Those that play with it as a materiel asset attain depth of intellect & great patience.
 
-८ - दैवानुग्रहः
-३५.  "अन्तिमः मनुष्यः" इत्यस्य पतितस्य द्विर्विभक्ता मानसिकता वर्तते - कद्रूपुत्राणां नागानां जिह्वा इव। सः युगपत्  इन्द्रियाराधकः स्वमनोविश्लेषकः च भवितुं यतते। साधारणतः बहिर्मुखी, तदा तदा प्रत्यगात्मा। अन्ततः आत्मारामः अभूत्वा स्वलीनतां याति एषो नियमाग्रही। कद्रूपुत्राः इव कुशाग्रान् लीढ्वापि मुषितम् अमृतं नाश्नुते। अतः शूद्रनीतिः स्वपरिणामेन एव पराजिता भविष्यति। 
+## ०८ - दैवानुग्रहः
+३५.  "अन्तिमः मनुष्यः" इत्यस्य पतितस्य द्विर् विभक्ता मानसिकता वर्तते -  
+कद्रू-पुत्राणां नागानां जिह्वा इव।  
+सः युगपत्  इन्द्रियाराधकः, स्व-मनो-विश्लेषकः च भवितुं यतते-  
+साधारणतः बहिर्मुखी, तदा तदा प्रत्यगात्मा।  
+अन्ततः आत्मारामः अभूत्वा  
+स्वलीनतां याति एषो नियमाग्रही।  
+कद्रू-पुत्राः इव कुशाग्रान् लीढ्वा ऽपि मुषितम् अमृतं नाश्नुते।  
+अतः शूद्र-नीतिः स्व-परिणामेन +एव पराजिता भविष्यति। 
 
-३६. सः श्रेयसीं नीतिं ततः गवेष्टुम् आरभते। प्रथक्तया एते प्रयासाः श्लाघनीयाः स्युः किन्तु तैः विक्रमो न भवति साधकः। यतोहि कृत्रिमरीत्या बुद्धिः पीडा-प्रहारं सरलतया रणनीतेः विषयम् इव सम्भावयितुं न शक्नोति। अत्र इच्छाशक्तेः वैफल्यं निश्चयेन दृश्यते इति अवधेयं, यतोहि एषा वीरदृष्टिः तु सहज-गुण-वैशिष्ट्यस्य कार्यं विद्यते। न केनापि क्रियाकलापमात्रेण न कर्मणा वीर्यं दर्शनमिदम् उत्पादयितुं शक्यते। न वा कयापि वैखरि-मन्त्रदीक्षया सा प्राप्येत। न कस्याश्चित् समितेः उद्घोषणया मनोनीतः कोऽपि तस्याः अधिकारं प्राप्नुयात्। सर्वमिदं त्रैगुण्योद्भवं विद्यते। व्यक्तिहीनः जनः स्वाधिकारार्थम् अन्येषाम् अधिकारम् आलम्बते। 
+1. Junger shows that what "good fortune" means to different people depends on their values. And their values are based fundamentally on their basic attitude to sorrow/pain.
+
+2. Junger's Last Man has a bivalent mind, like the bifurcated tongues of Kadru's Naga spawn. He is a sense-gratifier but also a self-analyzer. Normally extroverted, occasionally introspective. Eventually, unable to empath with all, he tends to an autistic worldview & nature.
+
+३६. सः श्रेयसीं नीतिं  
+ततः गवेष्टुम् आरभते।  
+पृथक्तया एते प्रयासाः श्लाघनीयाः स्युः -  
+किन्तु तैर् विक्रमो न भवति साधकः।  
+यतोहि कृत्रिम-रीत्या बुद्धिः पीडा-प्रहारं  
+सरलतया रण-नीतेः विषयम् इव सम्भावयितुं न शक्नोति।  
+अत्र इच्छा-शक्तेः वैफल्यं निश्चयेन दृश्यत इति अवधेयं,  
+यतो हि एषा वीर-दृष्टिः तु  
+सहज-गुण-वैशिष्ट्यस्य कार्यं विद्यते।  
+न केनापि क्रिया-कलाप-मात्रेण  
+न कर्मणा वीर्यं दर्शनम् इदम् उत्पादयितुं शक्यते।  
+न वा कयापि वैखरि-मन्त्र-दीक्षया सा प्राप्येत।  
+न कस्याश्चित् समितेः उद्घोषणया मनो-नीतः  
+कोऽपि तस्याः अधिकारं प्राप्नुयात्।  
+सर्वमिदं त्रैगुण्योद्भवं विद्यते।  
+व्यक्तिहीनः जनः स्वाधिकारार्थम् अन्येषाम् अधिकारम् आलम्बते। 
 
 ३७. इयं वीरदृष्टिः जन्मना एव प्राप्यते। सः अधिकारः तु जन्मसिद्धः विज्ञायेत। यः साधकः तथ्यमिदं विजानीते यत् अहम् अमुक-कार्याय स्वतन्त्रः जनितोऽस्मि इति, सः आत्मनि एव स्वकीयं वर्णं वृणुते। सः स्पष्टबुद्ध्या सुदर्शनं लभते। त्रैगुण्येन सह तस्य सम्बन्धः परिवर्तते। 
 
@@ -431,10 +559,6 @@ Finding answers mainly in modern Western Psychology rather than scripture.
 ४२. युद्धोद्योगे तत्त्वस्यास्य विनियोगः। प्रथमे विश्व-महायुद्धे एव उषःपुत्राः (Japanese) सामुद्रिक-प्रमाथिनीषु (submarine torpedoes) मानवं कर्णधारं नियोजयन्ति स्म। द्वितीये महायुद्धे तु कामिकाज़ि इति वैमानिक-कर्णधाराः प्रसिद्धाः। अत्र यन्त्रेषु मनुष्यस्य बुद्ध्या सह तस्य वपुरपि कलरूपेणनियुक्तम्। तेन हेतिप्रयोगे "दैवम्" इत्यस्य भूमिका न्यूना जाता। परन्तु अत्र दैवं दैवानुग्रहः देवाशिषो वा इत्येषाम् अर्थग्रहणम् अवधेयम् - तदानीन्तनः उषोद्वीपी सेनानी नोगी मारेसुके इत्येषः रूसेन सह युद्धे प्रसिद्धः शूरः। तस्य द्वौ पुत्रावपि तस्मिन्नेव युद्धे भागम् अवहताम्। कथ्यते यत् नोगी ज्येष्ठपुत्रमृत्योः (तन्नामतस्य अमृतत्वस्य) वार्तां "महता सन्तोषेण" स्वीकृतवान् इति। (अग्रिमे वर्षे तस्य कनिष्ठपुत्रोऽपि वीरगतिं प्राप।)
 
 ४३. ईदृशाः मनुष्याः नायुधैः वरीयांसः, अपितु वेदना-क्षेत्रं (तन्नाम मनः इन्द्रियाणि च) तीर्त्वा अन्यान् अतिशेरते। युद्धे मारिते अपि तैः प्रेरिताः ज्ञातयः सृजनशक्तिं प्रजननशक्तिंच लभन्ते। बुद्धियुतेन बलिदानेन स्वपक्षस्य सत्ता वर्धते। एवं सदसतोः शबलित-शारिफलके दीव्यन्ति देवासुराः।
-
-1. Junger shows that what "good fortune" means to different people depends on their values. And their values are based fundamentally on their basic attitude to sorrow/pain.
-
-2. Junger's Last Man has a bivalent mind, like the bifurcated tongues of Kadru's Naga spawn. He is a sense-gratifier but also a self-analyzer. Normally extroverted, occasionally introspective. Eventually, unable to empath with all, he tends to an autistic worldview & nature.
 
 3. Sanskrit terms are so precise and self-explanatory. True introspection with integrity leads us to seeing everything as the Self. Aatmaleen or Atmaaraam. But when consciousness is limited to the body & its symbiotes, then brooding over the world results in autism. Svaleen.
 
