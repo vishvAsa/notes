@@ -1,4 +1,5 @@
 .wercker
 /resources
 /build_github
+build_*
 /notes.iml
