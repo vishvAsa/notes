@@ -52,7 +52,8 @@ Son of Tāntrika Pandit Brajnath Poudyal Atri (Guru of King Pratap Singh Shah, w
 - कडबग्रामाद् आगताद् +हैमक(hemmige)-कुले जातः।
 
 #### गॊरूरु-श्रीनिवास-मूर्तिः
-- Aka GSS Murthy. My father belongs to the "Hemmige" clan, He and Gorur Ramaswai Iyengar are second cousins. My mother is a Hebbar.
+- २-११-१९३७
+- Aka GSS Murthy. "My father belongs to the "Hemmige" clan, He and Gorur Ramaswai Iyengar are second cousins. My mother is a Hebbar."
 - कडाम्बि अच्चन् वंशस्थः।  
 - Lived in mumbai and bengaLUru. Retired from the Indian Telecom department.
 - Fine poet.
@@ -60,11 +61,6 @@ Son of Tāntrika Pandit Brajnath Poudyal Atri (Guru of King Pratap Singh Shah, w
 - Condensed rAmAyaNam to laghu-vAlmIkIyam.
 - [पद्यपरिचयः](/kAvyam/laxyam/padyam/gorUru-shrInivAsa-mUrtiH/kaviparichayaH/) । 
 
-> “किंवर्षीयः कवे त्वं जरठ वद” “मयास्योत्तरं नोक्तपूर्वम्”  
-> “अस्तु, प्रश्नोऽपरो मे, कविवर कतिकृत्वो धरा कर्मनिष्ठा ।  
-> आ त्वज्जन्मात् स्वमार्गे दिनकरमभितः सञ्चचालेति”  “बाढम्,  
-> श्लोकेऽस्मिन्नुच्यमाने गणय शितमते योजितान्यक्षराणि” ॥  
-> (When asked his age in 2022.)
 
 ### गोपाल-महादेशिकः
 उत्तरकलार्य-श्रीवैष्णवेषु मुनित्रयसम्प्रदायस्य प्रवर्तकः। बहुग्रन्थकृत्।
