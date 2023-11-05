@@ -46,7 +46,7 @@ Air tickets should be purchased from ([F. No. 31011/12/2022-Estt.A-IV](https://d
 - [balmerlawrietravelapp site](https://govemp.balmerlawrietravelapp.com/)
 - Ashok Travels
 - "In case of unavoidable circumstances, where the booking of ticket is done from unauthorized travel agent/website, the Financial Advisors of the Ministry/Department and Head of Department not below the rank of Joint Secretary in subordinate/attached offices are authorized to grant relaxation. "
-  - Allianceair, owned by government as of 2023, connects remote airports - [ALL](https://bookme.allianceair.in/booking/form).
+  - Alliance air, owned by government as of 2023, connects remote airports - [ALL](https://bookme.allianceair.in/booking/form).
 
 - Air - Baggage fees allowed (2022 office email).
 
