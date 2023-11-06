@@ -10,7 +10,7 @@ unicode_script = "devanagari"
 - As a parable, consider this story from the animal kingdom: [MT](https://agnimaan.wordpress.com/2015/06/02/the-parable-of-the-kshatriya-s/).
 
 ## Acquisition of kShatriya status
-- See the 'changing varNa-s' bullet in the [varNa change theory page](../../../varna-theory/varNa-change).
+- See the 'changing varNa-s' bullet in the [varNa change theory page](AgamaH/varna-theory/varNa-change).
 
 ### Popular routes
 - hiraNyagarbha rite was supposedly attested as early as 4 ce in Andhra, later by dantidurga the rAShTrakUTa and later in keraLa.
