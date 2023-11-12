@@ -16,3 +16,10 @@ Here are the principles we came up with:
 - Finally accreditation. We want the freedom to experiment to find out what works - and it will vary from kid to kid - so we won't seek "CBSE affiliation" stuff. I am philosophically unsuited to such "standardized widget" approach to education. We are looking at NIOS. 🙏🙏
 
 That's where things stand. We have hired some teaching assistants and are scrambling to create facilities (can't be open air all the time, even in a nice farm setting!) and we are planning workshops, labs and a playground. Will post details as plans evolve. Exciting!
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+प्राग् अपि पठितम् … सुघटितः प्रायेण ।
+
+ममाभिप्राये माणवकस्य प्रथम उद्देशो गृहस्थाश्रमप्राप्तिः। तत उत्तमवधूप्राप्त्यै यतनीयम्। पूर्वम् अस्मिन् विषये चिन्तनम् अनपेक्षितम् आसीत्, न तथाधुना।  तद्-अपेक्षया प्राधान्येन शिक्षण-वासस्थान-वृत्त्यादि-चिन्तनं कार्यम्।
+</details>
