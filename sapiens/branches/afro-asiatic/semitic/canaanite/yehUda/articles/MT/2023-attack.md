@@ -65,3 +65,10 @@ In the above discussion, one them says sort of like a joke what if a part of Ger
 
 
 Yes many places were considered and each might have had its own issues. There were not many takes for the J oblast in Russia as it was not their idea in the first place. I guess barring my idiosyncratic acquaintance they were not keen about europe at all
+
+## Gujarat parallel
+The mUlavAtUla-marUnmatta-yuddha has shades of "Gujarat" in it. Soon after the marUnmatta-s burnt down H in lATa, their propaganda machinery aided & abetted by the mlechCha-s made it all about them forgetting who were the cause. This was reproduced in the current conflict & some of piNDaka's backers, the same ones who are ranged against the H, are now threatening to withdraw their support to him if he goes with the mUla-s.Some of the latter who were in the anti-H ranks (including some whom the H were foolishly simping for) are now getting a real taste of their marUnmattAdi friends. 
+
+On one hand, this kolAhala among piNDaka's backers is good for the H but on the other it also give a preview of how the marU-navyonmatta alliance will act against them when the time of the nirNaya comes. As we have said before none of the trayonmAda-s (barring marUnmAda) can act decisively on each other as a fundamental attack one will also be a self-goal. The same holds for navyonmAda. 
+
+The mlechCha world is also seeing the paradoxes pertaining to FOE being exposed in rather raw way. They are falling back to the basic dictum FOE is fine when it is for me but not for you. To be clear we are for maximal FOE as long all parties are willing to play fair 
