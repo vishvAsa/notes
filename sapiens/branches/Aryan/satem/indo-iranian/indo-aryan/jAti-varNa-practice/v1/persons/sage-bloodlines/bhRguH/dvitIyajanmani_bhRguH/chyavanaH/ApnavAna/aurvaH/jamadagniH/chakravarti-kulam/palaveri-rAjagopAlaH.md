@@ -2,6 +2,8 @@
 title = "पलवेरि-राजगोपालः"
 +++
 
+{{< figure src="../images/paLHaveri-chakravarti-rAjagopAlAchAryaH.jpg" title="" class="thumbnail">}}
+
 विद्वद्-ग्रामे विद्वत्-कुले विद्वत्-पुत्रः।  
 इञ्जिमेडूद्भवो अहोबिल-मठाधिपतिस् तच्छिक्षको श्रीवैष्णव-रहस्यग्रन्थादौ।
 
