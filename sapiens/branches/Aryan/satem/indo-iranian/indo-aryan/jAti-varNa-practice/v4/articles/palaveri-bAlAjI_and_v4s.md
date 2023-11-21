@@ -14,9 +14,13 @@ Once I was travelling to kAnchi from bengaLUru on a sleeper bus. A co-passenger 
 ## Piety
 The farmers would be entirely free of agricultural labors for much of the year. Then, they used to perform and enjoy plays based on rAmAyaNa and mahAbhArata all night long. They used to be shy of performing before my respected father, so he used to watch from far away.
 
-A shUdra would scold my father thus: "I used to watch your father with his thick tirumaN tilaka. Now you sit in the same place with your thin tilaka. Fie!"
-
 The farmers would work in the fields all morning; and their wives would bring food. They would offer this food to an idol made of cowdung, and to the sun, before eating.
 
 Farmers used to operate a picotah/ eta to draw water for irrigation. To reduce the effort they felt, they used to say viShNu-stotra-s.
 
+### tilaka
+A shUdra would scold my father thus: "I used to watch your father with his thick tirumaN tilaka. Now you sit in the same place with your thin tilaka. Fie!"
+
+Farmers used to wear tirumaN - so that it would be hard to distinguish Arya from shUdra without the yaJNopavIta. 
+
+In the village school, kids were taught well by the brAhmaNa and brAhmaNa-educated teachers. If a girl lost her forehead dot due to sweat, she would be expected to go and fix it using the kunkuma from the nAga-pratiShThA nearby. If a v1 boy went without tilaka, he would be sent back.
