@@ -6,6 +6,14 @@ unicode_script = "devanagari"
 ## यामुनाचार्यः
 (श्री आळवन्दार्)-शिखामणि of शठमर्षणगोत्र of केवलाङ्गिरसगण from श्रीरङ्गम्, नाथमुनि's grandson; inspired रामानुज's धार्मिक career with 3 last wishes; authored गीतार्थसंग्रह & सिद्धित्रय, wrote आगमप्रामाण्य to defend प्रामाण्य (authoritativeness) of पाञ्चरात्रागमः
 
+Source: [TW](https://archive.org/details/natteri-guru-paramparA_tamiL/natteri-0004.mp3.ogg) ।  
+
+यामुनो नाथमुनि-वृद्धावस्थायां जातः, तेनैव नाम दत्तम्।  
+महाभाष्यभट्टशिष्यः।  
+राजपुरोहितकरतिरस्काराय +अक्कि-आऴ्वान्-नामकं राजसभायां जितवान्। राज्यार्धम् अजयत्।  
+नाथमुनिना पुण्डरीकाक्षः, तेन राममिश्रश् च तद्-उपदेशे प्रेरितः।
+
+
 ### मारनेरि-नम्बि-कथा
 yAmuna's students included a non-brahmin (likely shudra) called mAraneri-nambi. He used to attend vedAnta classes as yAmuna said "vedAnta is for all" (But his caste fellows excommunicated him!) Once students collected funds to renovate the pAThashAlA. After completion, mAranerinambi was shown the new structure. Next day was gRhapravesha. 
 

@@ -54,6 +54,13 @@ no = minimal as per some like Kawaguchi, Bhaskar Save.
 - 1 cow per 30 acres per Palekar's ZBNF.
 
 
+#### Crop choice
+Perennial crops can be harvested multiple times. No need to resow. They have very deep roots.  
+Eg. Hedge lucerne can be harvested for 5 years.
+
+##### Nitrogen fixation
+Alternating with legumes helps with nitrogen fixation.
+
 ## Advantages
 - Much less labor.
 
