@@ -9,23 +9,55 @@ title: Principles
 प्राचीनेषु+उदाहरणानि -
 
 - [Paidea](https://en.wikipedia.org/wiki/Paideia) 
+- गणेशावधानिनो ऽभिप्रायः - [YT](https://www.youtube.com/watch?v=5d2iqgNPfOc).
+
+## विषय-चयने
+- यस्यां कस्यांश्चित् कलायां "कथम् आवेशो लभ्य" इति ज्ञेयम्। 
+- शुद्ध-स्वस्थ-जीवनोचिताभ्यासा ग्राह्याः। 
+- व्यवस्थित-चिन्तनानुभवाय शास्त्रम् एकं ज्ञेयम् - भूत-शास्त्रादिवत्। 
+- स्वाभीष्ट-प्रज्ञा-परम्पराया (culture) काल-प्रतिष्ठिता अभिजात-रचनाः पाठ्याः काश्चन। तद्-अर्थं तदीया भाषा अपि ज्ञेयाः। ततः तस्याम् परम्परायाम् आवेशो लभ्यः। 
+- जीव-देवादि-ज्ञानं लभ्यम्, येन ब्रह्माण्डे स्वस्थानं सन्तोषास्पदं विजानीयात्।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+- "We are moving as a society from content to competencies. It is not just what you know, but what you can do with what you know."
+</details>
 
 ### भावप्राधान्यम्
-- Beyond (so-called) education → innate ability → beyond that *vision and drive*. Anything extraordinary I've done is more because of vision and drive than language, "education" etc...
+- कल्पना-शक्तिः, प्रयोग-प्रवणता, परम्परावेशः …
+- Beyond (so-called) education is innate ability. Beyond that is *vision and drive*. Anything extraordinary I've done is more because of vision and drive than language, "education" etc...
 
-## विषयचयने
-- "We are moving as a society from content to competencies. It is not just what you know, but what you can do with what you know."
-- "The worst we can do to those children is put them in online courses which is where our education system is heading now. Online courses are someone else’s’ agenda (usually the government) of what they think learners need to know. Learners must obey instructions because the learning is not their own."
 
 ## शिक्षणाङ्गानि
+### परम्परा-प्रवेशः
+कलायाम् प्रवेशो नाम तत्-कला-वित्--प्रज्ञा-परम्परायाम् प्रवेशः, तद्-आवेशश्च।  
+यावान् स प्रामाणिको, यावांश् च गम्भीरः, तावत् साफल्यं सार्थक्यं च।  
+
+ततः किं ज्ञेयं नाम 
+
+- कलाया विकासः प्राचीनकालात्
+  - स्थूलरीत्या चेद् अपि ज्ञेयम् एतत्।  
+  - सिद्ध-फलैर् नालम्। अन्यावलोकनेनापि स्वयं कानिचित् तत्त्वानि निष्पादयामश् चेत् प्रीतिर् महती जायते ऽहङ्कार-तुष्ट्या, परम्परा-सम्बन्धेन। 
+- तस्या वर्तमती स्थितिर्, गतिश् च
+- तस्या अग्रिम-गतिषु स्व-पात्रं च। 
+
 - There is training, credentialing and networking.
-- कस्याम् अपि कलायाम् अङ्गानि 
-  - श्रवणम् / ‌दर्शनम्
-  - स्मृतिः
-  - करणम् (तदङ्गत्वेन +उपकरणसम्पादनम्)
-  - प्रवचनम्
+
+### क्रियाः
+कस्याम् अपि कलायाम् अङ्गानि 
+
+- श्रवणम् / ‌दर्शनम्
+- स्मृतिः
+- करणम् (तदङ्गत्वेन +उपकरणसम्पादनम्)
+- प्रवचनम्
 
 ## स्थूल-विधौ अपेक्षाः
+### पठनात् सहृदयान् यावत्
+- शैशवाद् एवारब्धव्यम्।  
+- एकत्र-स्थित्वा विषयम् अनुसर्तुं प्रवृत्तिर् लब्धव्या।  
+- "अवगत्यैव पाठ्यम्" इत्य् आग्रहस् त्याज्यः प्रारम्भे। सहना स्यात्। 
+- अग्रे गत्वा सहृदय-व्यासङ्ग-गोष्ठी लभ्या। तद्-अर्थं ग्रन्थ-परिश्रम उपकरोति। तत्रान्तर्जाल-मात्रमेलात् साक्षात्-सङ्गमो वरः। 
+
 ### शिक्षण-मार्गाः
 - प्रश्नैः शिक्षणम्।
 - स्पष्टोत्तरदानेन शिक्षणम्। 
