@@ -5,6 +5,11 @@ title = "Milky"
 <div class="spreadsheet" src="../gross-data_milky.toml" fullHeightWithRowsPerScreen=8> </div>  
 
 
+## Whey
+For lactose, protein content etc. see [protein](/notes/sapiens/phenes/health/food/nutrients/protein/) page.
+
+MMPro on TW likes: QNT, ON, Isopure, MyProtein, & Nakpro (budget)
+
 ## Milk
 - Nandini pasteurised toned milk 3% fat, non-fat solids (snf) 8.5% - 39Rs/L in 2023.
 
@@ -60,3 +65,7 @@ cheese-slices इति नानेतव्यम् - बहु preservative,
 
 ### Bengaluru
 - vRndAvan a2 - 2200 Rs/L  (2023)
+
+## Lactase
+- Amul mozarella diced cheese + yogurt in afternoon and evening led to flatulance and loose stools in V.
+- According to the National Digestive Diseases Information Clearinghouse, evidence shows that the bacterial cultures used in making yogurt produce some of the lactase enzyme.

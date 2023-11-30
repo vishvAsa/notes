@@ -76,11 +76,11 @@ More lactose tolerant people in NW India - they consume much diary and low meat/
 - Cheese
   - Oft comes in 200g packs in India. 
   - Hard (less water) - higher protein, less lactose 
-    - Cheddar - 24% - 2.8 INR/g (2023) 
+    - Cheddar - 24% protein. < 0.5% lactose - 2.8 INR/g (2023) . Nandini 6% lactose! Milky mist <2% lactose.
       - Aged. More sodium. 
   - Soft
     - Paneer - 16% - 3.1 INR/g (2023)
-      - Low fat paneer 22%
+      - Low fat paneer 22% . Lactose 2.0 – 2.7%.
     - Mozzarella - 22% - 3.2 INR/g (2023)
   - Mixed
     - Amul mozarella cheddar blend - 23% - 2.6 INR /g, 2 INR/g in 1kg bulk (2023)
