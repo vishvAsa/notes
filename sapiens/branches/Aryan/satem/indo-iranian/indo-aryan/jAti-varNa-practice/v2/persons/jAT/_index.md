@@ -1,5 +1,5 @@
 +++
-title = "Jat rebels"
+title = "+Jat"
 
 +++
 ## Gokula Singh
