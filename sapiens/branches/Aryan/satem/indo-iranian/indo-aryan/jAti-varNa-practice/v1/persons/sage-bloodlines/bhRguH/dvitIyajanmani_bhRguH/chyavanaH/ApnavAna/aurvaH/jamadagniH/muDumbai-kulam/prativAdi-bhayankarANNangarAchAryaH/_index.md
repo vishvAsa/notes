@@ -3,7 +3,7 @@ title = "+प्रतिवादिभयङ्कराण्णङ्गर�
 +++
 ## हस्तिगिरि-अण्णन्
 - genius born at काञ्चिपुर, TN; grew up to become a terror to intellectual foes (प्रतिवादि भयंकर अण्णङ्गराचार्य); wrote the beloved वेङ्कटेश सुप्रभातम् & also वेङ्कटेश (स्तोत्रम् + प्रपत्ति + मङ्गलाशासन) & disciple of the legendary मणवाळमामुनि (disputed by some).
-- aNNA was the grandson of the younger brother of lOkAchArya's father, vaDakku-t-tiru-veethi-p-piLLai.
+- aNNa was the grandson of the younger brother of lOkAchArya's father, vaDakkut-tiru-veetip-piLLai.
 
 
 Service:
