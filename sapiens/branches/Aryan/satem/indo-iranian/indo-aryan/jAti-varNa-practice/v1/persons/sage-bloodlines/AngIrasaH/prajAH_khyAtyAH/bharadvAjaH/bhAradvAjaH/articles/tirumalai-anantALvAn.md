@@ -2,6 +2,7 @@
 title = "Tirumalai anantALvAn"
 +++
 
+Source: [TW](http://acharya.org/bk/pb/Anandazhvan/ThirumalaiAnanthalwan-ABiography.pdf)
  
  
 THIRUMALAI ANANTHALVAN  
@@ -227,4 +228,4 @@ At Thirumala, just like Ananthalvan, his chief disciples also had grown old. The
 Ananthalvan spent the last days as usual in the service of Lord Thiruvenkatamudaiyan. On the sacred birthday of Saint Andal in the Tamil month of Adi, Ananathalvan merged with Lord Thiruvenkatamudaiyan. Even today we can see temple honours being bestowed on the Magila Tree in the garden where Ananthalvan breathed his last on the sacred Hills.
  
  
- 
+  
