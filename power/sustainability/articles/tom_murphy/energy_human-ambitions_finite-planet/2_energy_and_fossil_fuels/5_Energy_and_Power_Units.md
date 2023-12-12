@@ -79,7 +79,8 @@ First, what is energy?
 
 Definition 5.1.1  
 Energy is defined as the capacity to do work.  
-Work is well-defined in physics as the application of force through a distance.[^1] The colloquial use of the word “work” matches relatively well, in that pushing a large couch across the floor (applying force through a distance) or lifting a heavy box up to a shelf feels like work and can tire you out. 
+Work is well-defined in physics  
+as the application of force through a distance.[^1]  The colloquial use of the word “work” matches relatively well, in that pushing a large couch across the floor (applying force through a distance) or lifting a heavy box up to a shelf feels like work and can tire you out. 
 
 [^1]: This definition applies to the common circumstance when the motion is aligned with the direction of force, like pushing a box across a level floor, propelling a car along the road, or lifting a weight.
 
@@ -89,7 +90,12 @@ The SI unit of force is the Newton (N), breaking down more fundamen- tally to kg
 [^2]: Acceleration is the rate of change of velocity. Since velocity is measured in meters per second, the rate at which it changes will be meters per second per second, or m/s/s, or m/s2. Some students may know that gravitational acceleration on Earth's surface is 9.8 m/s2, which is another way to remember.
 
 
-Since work is force times distance, the unit for work (and thus energy) is Newtons times meters, or N. m. We give this unit its own name: the Joule (J). Thus, the application of 1 N of force across a distance of 1 m constitutes 1 J of work, requiring 1J of energy to perform. Table 5.1 offers contextual examples (unit prefixes are on page 420). 
+Since work is force times distance,  
+the unit for work (and thus energy) is Newtons times meters, or N. m.  
+We give this unit its own name: the Joule (J).  
+Thus, the application of 1 N of force across a distance of 1 m constitutes 1 J of work, requiring 1J of energy to perform. 
+
+Table 5.1 offers contextual examples (unit prefixes are on page 420). 
 
 
 Table 5.1: Approximate energy for familiar activities. The first freeway example is just kinetic energy; the second is the energy cost of a whole trip.
@@ -137,13 +143,15 @@ The units again check out as $mgh → kg m m /s^2 = J$.
 [^4]: Another example of work (energy) being force times distance. 
 
 [^5]: The force needed to hold against gravity is just F = ma = mg 
+
 Sec. A.10 (p. 370) in the Appendices pro- vides additional guidance on manipulating units. 
+
 We'll encounter other ways to describe energy in this book, but any energy unit can always be cast into units of Joules, if desired. Later sections in this chapter detail alternative units whose acquaintance we must make in order to interpret energy information in our lives. 
 
 ## 5.2 Energy Forms and Conservation 
 Energy manifests in a variety of forms, which we will treat in greater detail in application-specific chapters in Part III of this text. For now we just want to name them and point to related chapters and applications, as is done in Table 5.2. 
 
-Energy Form  Formula  Chapter(s)  Applications 
+Energy Form  Formula  Chapter(s)  Applications  
 gravitational potential   mgh   11, 16  hydroelectric, tidal  
 kinetic  mv2  12, 16  wind, ocean current  
 photon/light  hν  13  solar  
@@ -157,136 +165,185 @@ Table 5.2: Energy forms. Exchange is possible between all forms. Chemical energy
 
 [[70]] 
 
-A bedrock principle of physics is conservation of energy, which we take to never be violated in any system, ever. What this means is that energy can flow from one form to another, but it is never created or destroyed. 
+A bedrock principle of physics is conservation of energy, which we take to never be violated in any system, ever[^6]. What this means is that energy can flow from one form to another, but it is never created or destroyed. 
+
+[^6]: The only exception is on cosmological scales and times. But across scales even as large as the Milky Way galaxy and over millions of years, we are on solid footing to consider conservation of energy to be inviolate. It is fascinating to note that conservation of energy stems from a symmetry in time itself: if the laws and constants of the Universe are the same across some span of time, then energy is conserved during such time a concept we trace to Emmy Noether. See Sec. D.2 (p. 393) for more. 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 Box 5.2: Energy: The Money of Physics  
+
 A decent way to conceptualize energy conservation is to think of it as the money of physics. It may change hands, but is not created or destroyed in the exchange. A large balance in a bank account is like a potential energy: available to spend. Converting to another form-like heat or kinetic energy-is like the act of spending money. The rate of spending energy is called power. 
 </details>
 
+P.E. = 7 J K.E. = 0 J  
+P.E. = 5 J K.E. = 2 J  
+P.E. = 3 J K.E. = 4 J  
+P.E. = 1 J K.E. = 6 J  
+
+Figure 5.1: Example exchange of potential energy (P.E.) into kinetic energy (K.E.) as an apple drops from a tree. The total energy always adds to the same amount (here 7 J). The apple speeds up as it gains kinetic energy (losing potential energy). When it comes to rest on the ground, the energy will have gone into 7 J of heat (the associated temperature rise is too small to notice)+++(5)+++. 
 
 Example 5.2.1 traces a few familiar energy conversions, and Figure 5.1 provides an example illustration. A more encompassing narrative connecting cosmic sources to daily use is provided in Sec. D.2.2 (p. 395). 
-Example 5.2.1 Various illustrative examples: 
-- A rock perched on the edge of a cliff has gravitational potential energy. When it is pushed off, it trades its potential energy for kinetic energy (speed) as it races toward the ground. 
-▸ A pendulum continually exchanges kinetic and potential energy, which can last some time in the absence of frictional influences. 
-- A stick of dynamite has energy stored in chemical bonds (a form of potential energy). When ignited, the explosive material becomes very hot in a small fraction of a second, converting chemical energy into thermal energy. 
-The fireball of hot material from the exploding dynamite ex- pands rapidly, pushing air and nearby objects out of the way at high speed, thus converting thermal energy into kinetic energy. 
-- Light from the sun (photons) hits a black parking lot surface, heating it up as light energy is converted to thermal energy. 
-- A uranium nucleus splits apart, releasing nuclear (potential) energy, sending the particles flying off at high speed (kinetic energy). These particles bump into surrounding particles trans- ferring kinetic energy into thermal energy. 
-Thermal energy from burning a fossil fuel or from nuclear fission 
 
-[^6]: The only exception is on cosmological scales and times. But across scales even as large as the Milky Way galaxy and over millions of years, we are on solid footing to consider conservation of energy to be inviolate. It is fascinating to note that con- servation of energy stems from a symmetry in time itself: if the laws and constants of the Universe are the same across some span of time, then energy is conserved during such time a concept we trace to Emmy Noether. See Sec. D.2 (p. 393) for more. 
-P.E. = 7 J K.E. = 0 J 
-P.E. = 5 J 
-K.E. = 2 J 
-P.E. = 3 J 
-K.E. = 4 J 
-P.E. = 1 J 
-K.E. = 6 J 
-Figure 5.1: Example exchange of potential energy (P.E.) into kinetic energy (K.E.) as an apple drops from a tree. The total en- ergy always adds to the same amount (here 7 J). The apple speeds up as it gains kinetic energy (losing potential energy). When it comes to rest on the ground, the energy will have gone into 7 J of heat (the associated temperature rise is too small to notice). 
-can be used to make steam that drives a turbine (kinetic energy) that in turn generates electrical energy (voltage, current). 
-Any of the forms of energy (e.g., in Table 5.2) can convert into the other, directly or indirectly. In each conversion, 100% of the energy is accounted for. In the general case, the energy branches into multiple paths, so we do not get 100% efficiency into the channel we want. For instance, the pendulum example above will eventually bleed its energy into stirring the air (kinetic energy) and friction (heat) at the pivot point. The stirring air eventually turns to heat via internal (viscous) friction of the air. 
-One useful clarification is that thermal energy is really just random motions-kinetic energy-of individual atoms and molecules. So in the case of nuclear fission in Example 5.2.1, the initial kinetic energy of the nuclear fragments is already thermal in nature, but at a higher temperature (faster speeds) than the surrounding material. By bumping into surrounding atoms, the excess speed is diffused into the medium, raising its temperature while "cooling" the fragments themselves as they are slowed down. 
-8 
-If accounting for all the possible paths of energy, we are confident that they always add up. Nothing is lost. Energy is never created or destroyed in any process we study. It just sloshes from one form to another, often branching into multiple parallel avenues. The sum total will always add up to the starting amount. Sec. D.2.3 (p. 396) provides a supplement for those interested in better understanding where energy ultimately goes, and why "losing energy to heat" is not actually a loss but just another reservoir for energy. 
+
+Example 5.2.1 Various illustrative examples: 
+
+- A rock perched on the edge of a cliff has gravitational potential energy. When it is pushed off, it trades its potential energy for kinetic energy (speed) as it races toward the ground. 
+- A pendulum continually exchanges kinetic and potential energy, which can last some time in the absence of frictional influences. 
+- A stick of dynamite has energy stored in chemical bonds (a form of potential energy). When ignited, the explosive material becomes very hot in a small fraction of a second, converting chemical energy into thermal energy. 
+- The fireball of hot material from the exploding dynamite expands rapidly, pushing air and nearby objects out of the way at high speed, thus converting thermal energy into kinetic energy. 
+- Light from the sun (photons) hits a black parking lot surface, heating it up as light energy is converted to thermal energy. 
+- A uranium nucleus splits apart, releasing nuclear (potential) energy, sending the particles flying off at high speed (kinetic energy). These particles bump into surrounding particles transferring kinetic energy into thermal energy. 
+- Thermal energy from burning a fossil fuel or from nuclear fission can be used to make steam that drives a turbine (kinetic energy) that in turn generates electrical energy (voltage, current). 
+
+Any of the forms of energy (e.g., in Table 5.2) can convert into the other, directly or indirectly. In each conversion, 100% of the energy is accounted for. In the general case, the energy branches into multiple paths, so we do not get 100% efficiency into the channel we want.+++(4)+++ For instance, the pendulum example above will eventually bleed its energy into stirring the air (kinetic energy) and friction (heat) at the pivot point. The stirring air eventually turns to heat via internal (viscous) friction of the air. 
+
+One useful clarification is that thermal energy is really just random motions- kinetic energy- of individual atoms and molecules. So in the case of nuclear fission in Example 5.2.1, the initial kinetic energy of the nuclear fragments is already thermal in nature, but at a higher temperature (faster speeds) than the surrounding material. By bumping into surrounding atoms, the excess speed is diffused into the medium, raising its temperature while "cooling" the fragments themselves as they are slowed down. 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+The differences between kinetic and thermal energy is about coherence, in that we characterize the kinetic energy of a raindrop by its bulk motion or velocity. Meanwhile, water molecules within the drop are zipping about in random directions and at very high speeds exceeding 1,000 meters per second.+++(4)+++
+</details>
+
+ 
+If accounting for all the possible paths[^7] of energy, we are confident that they always add up. Nothing is lost.[^8] Energy is never created or destroyed in any process we study. It just sloshes from one form to another, often branching into multiple parallel avenues. The sum total will always add up to the starting amount. Sec. D.2.3 (p. 396) provides a supplement for those interested in better understanding where energy ultimately goes, and why "losing energy to heat" is not actually a loss but just another reservoir for energy. 
+
+
+[^7]: sometimes called channels 
+
+[^8]: Actually, the principle is so well established that new particles (like the neutrino) have been discovered by otherwise unaccounted energy in nuclear processes. 
 
 ## 5.3 Power (W) 
 Before getting to the various common units for energy, we should absorb the very important concept and units of power. 
-Definition 5.3.1 Power is simply defined as energy per time: how much energy is expended in how much time. The SI unit is therefore J/s, which we rename Watts (W). 
+
+Definition 5.3.1  
+Power is simply defined as energy per time: how much energy is expended in how much time. The SI unit is therefore J/s, which we rename Watts (W). One Watt is simply one Joule per second. 
+
+
 While energy is the capacity to do work, it says nothing about how quickly that work might be accomplished. Power addresses the rate at which energy is expended. Figure 5.2 provides a sense of typical power levels of familiar animals and appliances. 
-Example 5.3.1 Lifting a 10 kg box, whose weight is therefore about 100 N, through a vertical distance of 2 m requires about 200 J of energy. If performed in one second, the task requires 200 W (200 Joules in one second). Stretching the same task out over four seconds requires only 50 W. 
- 
-71 
-The differences between kinetic and ther- mal energy is about coherence, in that we characterize the kinetic energy of a raindrop by its bulk motion or velocity. Meanwhile, water molecules within the drop are zipping about in random directions and at very high speeds exceeding 1,000 meters per second. 
 
-[^7]: 
-sometimes called channels 
+{{< figure src="../images/power-comparison-log-scale.png" title="" class="thumbnail">}}
 
-[^8]: Actually, the principle is so well estab- lished that new particles (like the neutrino) have been discovered by otherwise unac- counted energy in nuclear processes. 
-One Watt is simply one Joule per second. 
-Weight is mg. In this case, m is 10 kg. If we're being sticklers, g = 9.8 m/s2, but for con- venience we can typically use g≈ 10 m/s2 without significant loss of precision. 
+rat (1.4 W)  
+cell phone charging (4 W)  
+cat (7.4 W)  
+average Chad citizen (10.5 W)  
+small dog (14 W)  
+laptop computer (25 W)  
+large dog (42 W)  
+petite human (63 W)  
+refrigerator average (75W)  
+LED flat panel TV (90 W)   
+chimpanzee (53 W)  
+2,000 kcal/day human (97 W)  
+large/active human (145 W)  
+cow (375 W)  
+rice cooker (500 W)  
+electric kettle (920 W)  
+heating appliance (1,500 W)  
+average global citizen (2,300 W)  
+elephant (2,400 W)  
+clothes dryer (5,000 W)  
+average U.S. citizen (10,000 W) 
 
-rat (1.4 W) 
----- cell phone charging (4 W) 
------ 
-cat (7.4 W) 
-average Chad citizen (10.5 W) 
-small dog (14 W) 
-laptop computer (25 W) 
-large dog (42 W) 
-petite human (63 W) 
-refrigerator average (75W) LED flat panel TV (90 W) 
-chimpanzee (53 W) 
-2,000 kcal/day human (97 W) 
-large/active human (145 W) 
-cow (375 W) 
-- rice cooker (500 W) 
- 
-electric kettle (920 W) 
-heating appliance (1,500 W) 
-average global citizen (2,300 W) 
-elephant (2,400 W) 
-1 
-10 
-100 
-Power (Watts), logarithmic scale 
-1,000 
-10k 
+
 Figure 5.2: Various power levels for comparison and intuition-building. Green entries correspond to metabolic power [^33]. Purple entries are devices and appliances. Orange entries are per-capita totals for societal (non-metabolic) energy use. Note that appliances whose job it is to create heat demand the greatest power. The "heating appliance" entry stands for things like microwave ovens, toaster ovens, space heaters, or hair dryers plugged into electrical outlets. Do not take the numbers provided as definitive or exact, as almost everything in the figure will vary somewhat from one instance to another. 
-Of course, we commonly apply the usual multipliers of factors of 103 to the unit to make it more useful. Thus we have the progression W, KW, MW, GW, TW, etc. For reference, a large college campus will require several tens of MW (megawatts) for electricity. A large power plant is typically in the 1-4 GW range. See Table 5.3 for scales at which we are likely to use the various multiplying factors, and a more complete set of multipliers on page 420. 
-Although it won't come up too often in this course, it is worth mentioning that the common unit of horsepower equates to 745.7 W. Thus a 100 hp car is capable of delivering about 75 kW of power. 
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Example 5.3.1  
+Lifting a 10 kg box, whose weight is therefore about 100 N, through a vertical distance of 2 m requires about 200 J of energy. If performed in one second, the task requires 200 W (200 Joules in one second). Stretching the same task out over four seconds requires only 50 W. 
+
+Weight is mg. In this case, m is 10 kg. If we're being sticklers, g = 9.8 m/s2, but for convenience we can typically use g≈ 10 m/s2 without significant loss of precision. 
+</details>
+
+
+[[71]] 
+
+Of course, we commonly apply the usual multipliers of factors of $10^3$ to the unit to make it more useful. Thus we have the progression W, KW, MW, GW, TW, etc. For reference, a large college campus will require several tens of MW (megawatts) for electricity. A large power plant is typically in the 1-4 GW range. See Table 5.3 for scales at which we are likely to use the various multiplying factors, and a more complete set of multipliers on page 420. 
+
+
+Table 5.3: Power multipliers and contexts  
+Factor Unit Context  
+1W phones; computers  
+103 kW  microwave oven  
+106 MW campus; community  
+109 1012 GW power plant; city  
+TW societal scale 
+
+
+
+
+Although it won't come up too often in this course, it is worth mentioning that the common unit of horsepower equates to 745.7 W. Thus a 100 hp car is capable of delivering about 75 kW of power. It is usually sufficient to remember that 1 hp is about 750 W. 
 
 ## 5.4 Kilowatt-hour (kWh) 
 Definition 5.4.1 The kilowatt-hour is an amount of energy (not a power) resulting from an expenditure of energy at a rate of 1 kW for a duration of one hour, and is the unit of choice for residential electricity usage. 
+
 This unit causes no end of confusion, but it's really pretty straightforward. The kilowatt-hour is a kilowatt times an hour. Thus it is power multiplied by time, which is energy (since power is energy over time). 
-Example 5.4.1 Let's say you plug in a space heater rated at 1,000 W (1 kW) and run it for one hour. Congratulations-you've just spent 1 kWh. 
-Or maybe you turn on a 100 W incandescent light bulb (0.1 kW) and leave it on for 10 hours: also 1 kWh! 
-What if you run a 500 W rice cooker (0.5 kW) for half an hour? That's 0.25 kWh. 
-Table 5.3: Power multipliers and contexts 
-Factor Unit Context 
-1 
-W 
-phones; computers 
-103 
-kW 
-microwave oven 
-106 
-MW 
-campus; community 
-109 1012 
-GW 
-power plant; city 
-TW societal scale 
-It is usually sufficient to remember that 1 hp is about 750 W. 
+
 It may help to think of the sequence: kilo- watt x hour; kWxh; kW-h; kWh. 
 
-clothes dryer (5,000 W) 
-average U.S. citizen (10,000 W) 
-72 
-It is straightforward to convert back to Joules, because 1 kW is 1,000 J/s and one hour is 3,600 s. So 1 kWh is 1 kW times 1 hr, which is 1,000 J/s times 3,600 s, and is therefore equal to 3,600,000 J, or 3.6 MJ. A related measure sometimes comes up: the watt-hour (Wh). In much the same vein, this is equivalent to 1 J/s for 3,600 seconds, or 3,600 J.9 
-Box 5.3: Don't be one of those people... 
-If you ever hear someone say "kilowatts per hour,” it's likely a mistake,[^10] and has the side effect of leading people to erroneously think that kilowatts is a unit of energy, not a power. Kilowatts is already a rate (speed) of energy use: 1,000 Joules per second. 
-One tendency some people have is to mix up kW and kWh.[^11] Kilowatts is a unit of power, or how fast energy is being used. Think of it like a speedometer: how fast are you moving (through space or energy)? Kilowatt-hours is a multiplication of power times time, becoming an energy. It's more like the odometer: how much have you accumulated (distance or energy)? Just like distance is rate (speed) times time, energy is rate (power) times time. 
-Example 5.4.2 We will explore kWh using a light bulb for an example. Let's say the light bulb is labeled as 100 W.12 How much energy does 
-it use? 
-Well, it depends on how long it's on. If it is never turned on, it uses no energy. If it is on for 10 seconds, it uses far less than if it's on for a day. 
-The characteristic quality of the light bulb is the power it expends when it's on-in this case 100 W. It only has one speed. In analogy to a car and speedometer, it's similar to saying that a car travels at a constant speed,[^13] and asking how far it travels. Well, it depends on how much time it spends traveling at speed. 
-So view kWh (energy) as an accumulated amount that increases with time. On the other hand, kW is a rate of energy expenditure. 
- 
-73 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Example 5.4.1  
+Let's say you plug in a space heater rated at 1,000 W (1 kW) and run it for one hour. Congratulations-you've just spent 1 kWh. 
+
+Or maybe you turn on a 100 W incandescent light bulb (0.1 kW) and leave it on for 10 hours: also 1 kWh! 
+
+What if you run a 500 W rice cooker (0.5 kW) for half an hour? That's 0.25 kWh. 
+
+</details>
+
+
+
+[[72]] 
+
+It is straightforward to convert back to Joules, because 1 kW is 1,000 J/s and one hour is 3,600 s. So 1 kWh is 1 kW times 1 hr, which is 1,000 J/s times 3,600 s, and is therefore equal to 3,600,000 J, or 3.6 MJ. 
+
+A related measure sometimes comes up: the watt-hour (Wh). In much the same vein, this is equivalent to 1 J/s for 3,600 seconds, or 3,600 J.[^9] 
 
 [^9]: A Wh is one-thousandth of a kWh, not surprisingly. 
 
-[^10]: Literally, kW/hr would be a sort of ac- celeration through energy. It's a real thing that can happen, but it's usually not what people mean. 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-[^11]: 
-Perhaps related to Box 5.3. 
+Box 5.3: Don't be one of those people...  
+If you ever hear someone say "kilowatts per hour,” it's likely a mistake,[^10] and has the side effect of leading people to erroneously think that kilowatts is a unit of energy, not a power. Kilowatts is already a rate (speed) of energy use: 1,000 Joules per second. 
+
+[^10]: Literally, kW/hr would be a sort of acceleration through energy. It's a real thing that can happen, but it's usually not what people mean. 
+</details>
+
+
+
+One tendency some people have is to mix up kW and kWh.[^11] 
+
+[^11]: Perhaps related to Box 5.3. 
+
+Kilowatts is a unit of power, or how fast energy is being used. Think of it like a speedometer: how fast are you moving (through space or energy)? Kilowatt-hours is a multiplication of power times time, becoming an energy. It's more like the odometer: how much have you accumulated (distance or energy)?+++(5)+++ Just like distance is rate (speed) times time, energy is rate (power) times time. 
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Example 5.4.2  
+We will explore kWh using a light bulb for an example. Let's say the light bulb is labeled as 100 W.[^12] How much energy does 
+it use? 
 
 [^12]:... an incandescent, for instance 
 
-[^13]: 
-. maybe 30 m/s; 67 m.p.h.; 108 k.p.h. 
+Well, it depends on how long it's on. If it is never turned on, it uses no energy. If it is on for 10 seconds, it uses far less than if it's on for a day. 
+
+The characteristic quality of the light bulb is the power it expends when it's on-in this case 100 W. It only has one speed. In analogy to a car and speedometer, it's similar to saying that a car travels at a constant speed,[^13] and asking how far it travels. Well, it depends on how much time it spends traveling at speed. 
+
+[^13]:  maybe 30 m/s; 67 m.p.h.; 108 k.p.h. 
+
+So view kWh (energy) as an accumulated amount that increases with time. On the other hand, kW is a rate of energy expenditure. 
+
+</details>
+
+
+73 
+
+
 
 ## 5.5 Calories (kcal) 
 A common unit for describing chemical and thermal processes is the calorie and its siblings. 
