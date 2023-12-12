@@ -341,19 +341,23 @@ So view kWh (energy) as an accumulated amount that increases with time. On the o
 </details>
 
 
-73 
+[[73]] 
 
 
 
 ## 5.5 Calories (kcal) 
 A common unit for describing chemical and thermal processes is the calorie and its siblings. 
-Definition 5.5.1 A calorie is defined as the amount of energy it takes to heat one gram of water (thus also 1 mL, or 1 cm3, or 1 cc) by one degree Celsius (Figure 5.3). One calorie (note the small "c") is 4.184 J of energy. 
-One Calorie (note the capital "C")14 is 1,000 calories, or 1 kilocalorie 
 
-[^14]: This might win the prize for the dumb- est convention in science: never define a unit as case-sensitive, as it cannot be differ- entiated in spoken language! 
+Definition 5.5.1  
+A calorie is defined as the amount of energy it takes to heat one gram of water (thus also 1 mL, or 1 cm3, or 1 cc) by one degree Celsius (Figure 5.3). One calorie (note the small "c") is 4.184 J of energy.  
+One Calorie (note the capital "C")[^4] is 1,000 calories, or 1 kilocalorie (1 kcal), equating to 4,184 J. +++(5)+++ 
 
-(1 kcal), equating to 4,184 J. Most memorably, it is the amount of energy it takes to heat one kilogram (or one liter; 1 L) of water by 1°C. Due to the tragic convention of Calorie, we will opt for kcal whenever possible. 
+[^14]: This might win the prize for the dumbest convention in science: never define a unit as case-sensitive, as it cannot be differentiated in spoken language! 
+
+Most memorably, it is the amount of energy it takes to heat one kilogram (or one liter; 1 L) of water by 1°C. Due to the tragic convention of Calorie, we will opt for kcal whenever possible. 
+
 Food labels in the U.S. are in Calories, describing the energy content of the food we eat.[^15] We would all do ourselves a favor by calling these kcal instead of Calories (same thing). Many other countries sensibly use either kJ or kcal for quantifying food energy. 
+
 20°C 
 + 50 calories (209 J) 
 1 cm3 = 1 mL = 1 g 
