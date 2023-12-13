@@ -2,6 +2,12 @@
 title: Special
 ---
 
+## Purchase spots
+- India
+  - Decathlon
+- USA
+  - REI, Cabelas
+
 ## Rain clothing
 
 Breathable rain clothing, with sealed seams are good.
