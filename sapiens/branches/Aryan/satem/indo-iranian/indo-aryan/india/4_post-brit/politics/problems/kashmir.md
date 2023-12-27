@@ -10,8 +10,13 @@ title: kAshmIra
 
 > Before 1990, there were nearly 80,000 families of Kashmiri Hindu Pandits living all over Kashmir Valley. By end of 1990s, less than 800 families were left in Kashmir. 99% of Kashmiri Hindu Pandits were thrown out out Kashmir Valley in just little less than 3 months.
 
+### Casuality count
+1991-2011 -
+
+> In the last 21 years, 43,460 people have been killed in the Kashmir insurgency. Of these, 21,323 are militants, 13,226 civilians killed by militants, 3,642 civilians killed by security forces, and 5,369 policemen killed by militants. The 21,323 militants were killed in operations by security forces and include both Kashmiri and foreign militants. And of the 5,369 members of the security forces, around 1,500 are Kashmiri policemen.
+
 ## Short term desiderata
-Article 370 should stay repealed, that kAshmIri paNDits and any hindu-s willing to live there be resettled in kAshmIr with dignity.
+Article 370 should stay repealed, that kAshmIri paNDits and any hindu-s willing to live there be resettled in kAshmIr with security.
 
 ## Videos
 These Urdu Pakistani TV interviews with Pakistani journalist Najam Sethi summarizes an understanding of the situation (both the past and the present): [1](http://www.youtube.com/watch?v=9KwDFdevnyE) and [2](http://www.youtube.com/watch?v=Ye3NC0w4agQ). kAshmIri muslims seem to want freedom from India, while not joining Pakistan either. Terror spurt: ([India Today 1990](http://indiatoday.intoday.in/story/terrorism-takes-a-perilous-turn-in-kashmir/1/315063.html)). 
