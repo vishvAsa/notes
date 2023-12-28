@@ -66,3 +66,10 @@ It was therefore not a surprise for me that this trend had taken deep root in ec
 My own personal liberation came when I decided to leave that academic prestige path and go build real engineering systems for a living. I have long refused to list my PhD among my qualifications because I don't value that work and consider it all but useless. At least I got one thing out of spending those 5 years in a PhD. I learned to discriminate between bullshit toy models and endlessly fascinating reality.
 
 Economics is too important to be left to these toy model pushers. That is why I so passionately engage them. 🙏 
+
+## Valid range
+Source: [TW](https://twitter.com/svembu/status/1740003678998958417)
+
+There are no economic "laws" beyond "accounts must balance one way or another" - the accounting identities. The rest are merely locally or occasionally valid observations elevated to high status due to their Physics Envy. Modern academic economics is mostly a pseudo-science. Fundamental economic questions that go beyond the "accounts must balance" type are questions of values and those are entirely outside the domain of mainstream economics and are more the domain of culture, anthropology, philosophy and sociology, all of which inform politics. To achieve economic progress, we should ignore academic economists as soon as they step out of the "accounts must balance" territory.
+
+All this may sound harsh but entire counties have been misguided by this pseudo science coming from high prestige names.
