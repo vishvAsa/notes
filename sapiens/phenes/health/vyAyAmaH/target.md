@@ -80,3 +80,11 @@ The idea is that you train how you feel on the day, and use your program as a gu
 
 ## Chronic long endurence exercise
 "If you insist on doing chronic long endurance exercise when you're older swap from weight-bearing (running) to non-weight bearing exercise (swimming, cycling, rowing, etc). Only excepting is normal walking. ... Chronic running when you're older is a disaster  - injuries, joint probs, etc.." Exception to non-weight bearing clause: "Intense/robust exercise, HIIT, intervals, RT - it is essential to do weight-bearing exercise, but you can add non weight-bearing as well."
+
+
+## Areas
+### Legs
+Legs are oft ignored in favor of arm exercises (photo-op reasons).  
+
+Vince Gironda advanced in his "Balanced Arms" pamphlet. He said you could gain 15% more size in your arms by performing leg work before your arm training.  
+The old-school "squats and milk routine", where you do loads of squats and drink loads of milk, was proven to add mass across the entire body and not just to the legs.

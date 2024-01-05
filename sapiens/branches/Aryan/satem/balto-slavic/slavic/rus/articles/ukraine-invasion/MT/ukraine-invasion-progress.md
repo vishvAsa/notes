@@ -25,3 +25,20 @@ Why did the mahAmlechCha-led rotten soy forces deploy on the border of dAnu-apar
 
 ## Nordstrom
 The statement by the shUlapuruSha-s that they cannot talk about Nordstrom ~"even in a classified form" is quite funny. That's more or less enough to tell the world who did it.
+
+## 202401
+Source: [TW](https://twitter.com/blog_supplement/status/1743123313084313768)
+
+The rUs strategy is become clearer  
+even as the pa~nchanetraka+vassals have tried to spread a smokescreen over it shouting from the rooftops  
+that the dAnu-aparin-s will conquer Moscow🙂.  
+The battles of Bakhmut & the latest conquest of Maryinka were said to be clearly bruta+++(=stupid)+++ fulmina+++(=lightening)+++.
+But if one cuts through the noise of the Occident's megaphone & delves into what some of their own analysts & what those not in Occidental control are saying, a different picture emerges. These two battles were primarily traps for the dAnu-aparin-s to exhaust their fighting males.
+
+Thus, even as the Occident ramps up the delivery of newly made artillery to their puppet,  
+they would have been denuded of those who could actually use it best.  
+Now, this could still unravel in a dangerous way  
+because the Occident is perhaps even greater than the marUnmatta-s in its vindictiveness --  
+they simply cannot let go.  
+Hence, they (or their allies like the daNDaka-s) could simply decide to put their boots on the ground in the guise of dAnu-aparin.  
+The rUs reaction to this would make things take a deadly turn in the future.
