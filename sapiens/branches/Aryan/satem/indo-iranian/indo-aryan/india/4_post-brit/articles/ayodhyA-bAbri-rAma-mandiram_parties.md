@@ -12,7 +12,7 @@ Next year, in 1985, Rajiv Gandhi’s Info Broadcasting ministry approached Raman
 Starting Jan 1987, it was during INC rule that it started airing primetime on Doordarshan, which used to be taunted as Rajiv Darshan by ABV.
 
 ## narasiMha-rAv
-Source: AryAMsha
+Sources: AryAMsha, sarvesh
 
 Being a conservative and religious traditional Hindu is never enough, being a political Hindu matters a lot more. Narasimhan Rao used to think being a South Indian Brahmin who could quote scripture and Sanskrit meant he would have enough sway with BJP, RSS, VHP leaders that Babri would never fall. He was wrong.
 
@@ -22,6 +22,10 @@ Rao personally met Advani in a safe house in the last week of December where he 
 
 When Rao was informed the first dome had fallen he couldn't talk for some minutes. He felt betrayed by all the Hindu leaders that had assured him Babri would stand. Kalyan Singh and the BJP Government swung into action to make sure the mosque fell without any CRPF intervention.
 
+
+> Is the claim true that Narsimharao and later Bajpai wanted to build Babri and Ram temple side by side?
+
+It is correct. Towards it, PVNR took initiative of creating a body that included 5 Shankaracharyas & Acharyas of Pejavar, Jiyar, Vallabha, Ramananda, SV, Gaudiyas. He sent his minister from Orissa KC Lenka to recruit Puri Acharya for it. The latter punctured the plan.
 
 ## Court role
 Source: [KE](https://twitter.com/ElstKoenraad/status/1741386854685950063)

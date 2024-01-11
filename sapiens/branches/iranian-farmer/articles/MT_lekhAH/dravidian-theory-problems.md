@@ -34,5 +34,5 @@ Harappan being Dravidian is a rather unfounded claim; hence, I think Steve Bonta
 3. I also think along the lines of Bonta's suggestions the U-shaped "jar" symbol is a genitive marker like "asya" (OIA) or assa (MIA) of later epigraphy. 
 4. I don't think that the interpretation of the up-arrow glyph as "iSh" from "iShu" is tenable in Skt interpretation. It could be a genitive of another gender or maybe another possessive marker e.g., iya; even in RV: ashv(i)yo vAraH; unless he is taking it as locative plural in Skt -- but what about singulars then?
 5. I'm dubious of the terminal 3 being associated with -tR^i suffix nouns. In nominative they take forms like pitA or genitive pituH making it unlikely that they are just placed in root form. 
-6.pu/bhu conflation -- both deaspiration and varga change are atypical of IA though it happens to IA loans in Tam. Hence, p/bh equivalence looks dubious in his readings. 
+6. pu/bhu conflation -- both deaspiration and varga change are atypical of IA though it happens to IA loans in Tam. Hence, p/bh equivalence looks dubious in his readings. 
 7. He believes that there are horse-names in Harappan -- they are rare. That's a peculiar claim given the horse problem -- they are quite different from the abundant horse names seen in the Mitanni sphere. I remain most skeptical of those. 

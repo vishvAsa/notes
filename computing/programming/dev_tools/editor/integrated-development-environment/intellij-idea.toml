@@ -67,26 +67,3 @@ Software = 'intellij idea'
 "Operand Type" = 'Code inspection'
 Syntax = 'Analyze -> Inspect code'
 Description = 'Can have multiple scopes per inspection - different severity'
-
-[[data]]
-Software = 'intellij idea'
-"Operand Type" = 'git'
-Syntax = 'Settings -> version control -> git -> use native client'
-Description = 'else git push fails.'
-
-[[data]]
-Software = 'intellij idea'
-"Operand Type" = 'sbt'
-Feature = 'import module'
-Description = '''Just use Intellij, and *add module with existing sources* by pointing to the build.sbt file (Don't point to the iml file: See [this thread](https://stackoverflow.com/questions/46258668/intellij-reimport-sbt-dependencies) )'''
-
-[[data]]
-Software = 'intellij idea'
-"Operand Type" = 'maven'
-Feature = 'import module'
-Subfeature = 'setup dependencies'
-Description = '''
-If it complains about missing maven dependencies:
-     * just open the *Maven projects* widget, refresh and do a full build.
-     * Also try Maven -> reimport and *synchronoze* actions in the context menu.'''
-
