@@ -12,8 +12,18 @@ Next year, in 1985, Rajiv Gandhi’s Info Broadcasting ministry approached Raman
 Starting Jan 1987, it was during INC rule that it started airing primetime on Doordarshan, which used to be taunted as Rajiv Darshan by ABV.
 
 ## narasiMha-rAv
-Sources: AryAMsha, sarvesh
+Sources: AryAMsha, sarvesh, Elst
 
+### Pro-demolition view
+He also privately said "I let it happen" to a contact. [YT](https://youtu.be/pLl7vriDTDY?t=4215)
+
+> Is the claim true that Narsimharao and later Bajpai wanted to build Babri and Ram temple side by side?
+
+It is correct. Towards it, PVNR took initiative of creating a body that included 5 Shankaracharyas & Acharyas of Pejavar, Jiyar, Vallabha, Ramananda, SV, Gaudiyas. He sent his minister from Orissa KC Lenka to recruit Puri Acharya for it. The latter punctured the plan.
+
+... That is why, after CM Kalyan Singh, even PM Narasimha Rao allowed the Demolition. He calculated as a Congress leader that this would throw the BJP on the defensive; & as a pro-temple Hindu, that this would lift the biggest hurdle to the temple-building.
+
+### Anti-demolition view
 Being a conservative and religious traditional Hindu is never enough, being a political Hindu matters a lot more. Narasimhan Rao used to think being a South Indian Brahmin who could quote scripture and Sanskrit meant he would have enough sway with BJP, RSS, VHP leaders that Babri would never fall. He was wrong.
 
 Rao personally met Advani in a safe house in the last week of December where he was given assurance Babri wouldn't fall. Kalyan Singh had also given his word, so had Bhairon Singh Shekhawat. Rao had decided not to dismiss the Kalyan Singh government on the basis of all these assurances.
@@ -23,10 +33,6 @@ Rao personally met Advani in a safe house in the last week of December where he 
 When Rao was informed the first dome had fallen he couldn't talk for some minutes. He felt betrayed by all the Hindu leaders that had assured him Babri would stand. Kalyan Singh and the BJP Government swung into action to make sure the mosque fell without any CRPF intervention.
 
 
-> Is the claim true that Narsimharao and later Bajpai wanted to build Babri and Ram temple side by side?
-
-It is correct. Towards it, PVNR took initiative of creating a body that included 5 Shankaracharyas & Acharyas of Pejavar, Jiyar, Vallabha, Ramananda, SV, Gaudiyas. He sent his minister from Orissa KC Lenka to recruit Puri Acharya for it. The latter punctured the plan.
-
 ## Court role
 Source: [KE](https://twitter.com/ElstKoenraad/status/1741386854685950063)
 
@@ -35,10 +41,15 @@ Well, no. In 1019 the Supreme Court, judging autonomously regardless of the Modi
 But the ones who, next to the scholars, vitally contributed to the temple, are the Kar Sevaks. After the Eminent Fatwa of 1989, the crucial mosque demolition had become unfeasible but for them.
 
 ## BJP
-The BJP has to thank Śrī Rāma, it owes its 1989 & 1991 electoral breakthrough to him. That is why, after CM Kalyan Singh, even PM Narasimha Rao allowed the Demolition. He calculated as a Congress leader that this would throw the BJP on the defensive; & as a pro-temple Hindu, that this would lift the biggest hurdle to the temple-building.
+It is excellent that the 2024 temple reinaguration is a political event with patronage of the nation's current leader NaMo.
 
+However, the BJP has to thank Śrī Rāma, it owes its 1989 & 1991 electoral breakthrough to him. It is also true that congressis like R Ga senior and PVN wanted the temple as well (and credited to them). So, overall, BJP does not deserve credit.
+
+Within BJP, it is true that kalyAN singh types loved the demolition while vAjapeyee types were distraught. Also just contrast the popular "No regrets, no repentance, no sorrow, no grief." video of none other than kalyAN singh with ones by vAjapeyin , advAni etc..
+
+Sections of https://www.youtube.com/watch?v=pLl7vriDTDY , which I listened to yesterday are relevant.
 
 ## RSS role
-Source: [ST]()
+Source: [ST](https://twitter.com/bhAratenduH/status/1745314088555590102) [ST2](https://twitter.com/bhAratenduH/status/1744381827152785636)
 
-RSS didn’t demolish the structure. It was protecting it. Evidence points towards its demolition despite the contrary wishes of RSS leadership.
+RSS didn’t demolish the structure. It was protecting it. Evidence points towards its demolition despite the contrary wishes of RSS leadership. It just fits their samanvaya & "muslim is hindu" ideology. Been there since at least the time of Sitaram Goel and Ram Swarup criticisms.
