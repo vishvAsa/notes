@@ -3,6 +3,15 @@ title = "Fasting"
 
 +++
 
+## Exclusions
+Pregnant women beware:
+
+> "Muslim children exposed to Ramadan fasting in utero during first trimester had significantly lower scores in maths, reading, and writing tests (taken at the age of 7 years) than Muslim children who were not exposed to Ramadan fasting in utero." /...
+>
+> Another extensive census-based study of Muslim populations in Uganda (n = 80,000) and Iraq (n = 250,000) demonstrated that exposure to Ramadan fasting during the first month of pregnancy increased the risk of mental or learning disability in offspring by 50% and psychological disability by 63%! Additionally, a large study on Indonesian women indicated that exposure to Ramadan during pregnancy resulted in smaller statures and thinness in adulthood. Lower birth weight is directly linked to impaired cognitive function. For example, research has shown that Muslim children exposed to Ramadan fasting in utero during the first trimester had significantly lower scores in maths, reading, and writing tests (taken in primary schools at the age of 7 years) than Muslim children who were not exposed to Ramadan fasting in utero.
+>
+> Source: [TW](https://fitpreethi.com/should-moms-do-intermittent-fasting/)
+
 ## General Procedure
 ### Length
 #### Intermittent fasting
@@ -10,7 +19,7 @@ title = "Fasting"
 - Eat only within an 8hr window. Fast the remaining 16 hours.
 - Minimize muscle loss
   - Excercise (esp strength training) shortly before breaking fast.
-
+  
 
 #### Periodic fasting
 - Fasting 2 to 5 days straight. Mark Baker recommends 2+ weeks inbetween.
