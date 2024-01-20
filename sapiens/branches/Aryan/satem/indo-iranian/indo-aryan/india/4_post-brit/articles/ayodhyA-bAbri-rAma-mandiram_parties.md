@@ -1,6 +1,33 @@
 +++
-title = "bAbri rAm mandiram and C"
+title = "bAbri rAm mandiram: C, BJP etc.."
 +++
+
+## Court role
+It is a matter of fact that BJP/RSS/VHP was not a party in the case. 
+
+Sri Ram Lala Virajman, Hindu Mahasabha, RJB Punaruddhar Samiti (of Shankaracharya), Nirmohi Akhara, and two Mahants of Ayodhya Suresh Das and Dharam Das - these were the Hindu parties that argued in Allahabad HC.
+
+In this thread I had documented the full list of lawyers and Hindu parties they represented - who had actually argued the case for the temple.  (Source: [TW](https://x.com/bharatenduh/status/1741053505174139143?s=46)) The list is in order of the coverage sequence, as acknowledged by the Court itself.
+
+Here is the **full list** of lawyers who argued for the temple in All’d HC.
+
+1. Adv. PN Mishra, representing Ram Janmabhumi Punaruddhar Samiti. 
+  - RS Prasad represented in Allahabad HC not Ram Lala Virajman but Mahant Suresh Das. He was also not the “main lawyer”, which was Adv PN Mishra (arguing the case in courts since 1989).
+2. Adv Ranjana Agnihotri, also representing the RamJanmabhumi Punaruddhar Samiti, and assisting Adv PN Mishra
+3. Adv R L Verma and
+4. Adv Tarunjeet Verma Both representing Nirmohi Akhara
+5. Advocate Ravi Shankar Prasad Representing Mahant Suresh Das
+6. Advocate M M Pandey, also representing Mahant Suresh Das and assisting Adv Ravi Shankar Prasad
+7. Senior Advocate P R Ganapathi Iyer, representing Mahant Dharam Das 
+8. Advocate Rakesh Pandey, also representing Mahant Dharam Das, and assisting Sr. Adv. PR Ganapathi Iyer.
+9. Advocate Harishankar Jain, representing Hindu Mahasabha
+10. Senior Advocate K N Bhat, representing Bhagawan Shri Ram Lala Virajman
+11. Advocate A K Pandey, also representing Bhagawan Shri Ram Lala Virajman, and assisting Sr. Adv. K N Bhat
+12. Adv JS Jain, also representing Hindu Mahasabha, and assisting Adv Harishankar Jain
+
+These are the lawyers who argued for temple in front of the 3-judge bench of Allahabad High Court between January and July of 2010, for more than 90 days of actual hearing.
+
+As Svami Abimukteshvarananda ji says, Advocates PN Mishra and Ranjana Agnihotri, representing Ramajanmabhumi Punaruddhara Samiti (founded by Shankaracharya) - were listened to by the judges the most. Just read the case file. What Svami Ji however doesn’t mention here is that the Judges in their order have called him out by name to thank him for the evidences presented as an Expert Witness.
 
 ## INC role
 1984 - the Dharma Sansad organized by VHP had INC support. Took place in a govt premise and a career Congressman Karan Singh attended. He announced: “We cannot even light a lamp at RJB! How shameful for 80% of this country's residents who call themselves Hindus!”
