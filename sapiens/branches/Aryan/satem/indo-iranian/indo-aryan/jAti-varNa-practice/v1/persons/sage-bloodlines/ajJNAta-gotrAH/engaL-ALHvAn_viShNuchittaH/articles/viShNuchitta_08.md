@@ -2,9 +2,7 @@
 title = "viShNuchitta 08"
 +++
 
-
- 
-Swami  Engalazhwan was born in the family of  a Poorvashika-srivaishnava in  Thiruvellarai. His thirunakshathram is Chithirai Rohini.  His parents had named him 'Vishnuchithan' after Swami Periyazhwar. He was  about  80 years younger than  Swami Ramanuja. Nothing is known about his parents, his education and so forth. One has to note that great acharyas were content to be  disciples of Swami Ramanuja. They didn't like to bring their greatness in the limelight.  
+Swami Engalazhwan was born in the family of  a Poorvashika-srivaishnava in  Thiruvellarai. His thirunakshathram is Chithirai Rohini.  His parents had named him 'Vishnuchithan' after Swami Periyazhwar. He was  about  80 years younger than  Swami Ramanuja. Nothing is known about his parents, his education and so forth. One has to note that great acharyas were content to be  disciples of Swami Ramanuja. They didn't like to bring their greatness in the limelight.  
  
 Swami Ramanuja  embarked upon the task of writing Sribhashya, a commentary on the Brahmasutras of Sage VedaVyasa. He asked Swami Kooratthazhwan to write down the commentary as he dictated. Unfortunately for him, Swami Koortthazhwan became blind because of  Krimikantachozhan. He could not continue writing Sribhashya. He searched for a scholar who could help him finish the text. He learnt about Swami Engalazhwan(actually Vishnuchithar) and decided he would be the apt person to write down sribashya as he dictated. He began dictating the remaining part. He was very pleased with Vishnuchithar's knowledge. He compared  him with Swami Kooratthazhwan and embraced him calling him 'Engal Azhwano!' (Your knowledge equals that of our Azhwan(Kooratthazhwan)). Vishnuchithar is henceforth known as Engalazhwan. Swami Ramanuja made Swami Engalazhwan a disciple of Thirukkurukaippiran Pillan.
  
