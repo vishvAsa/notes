@@ -3,6 +3,8 @@ title = "Sugar"
 
 +++
 
+Source: [YT Sarah Hallberg.](https://www.youtube.com/watch?v=da1vvigy5tQ)
+
 ## Non-necessity
 Not necessary as a nutrient - body can manufacture it from carbohydrates as needed.
 
