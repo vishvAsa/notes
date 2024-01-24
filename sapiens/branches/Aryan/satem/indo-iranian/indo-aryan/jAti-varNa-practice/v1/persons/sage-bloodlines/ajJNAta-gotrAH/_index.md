@@ -15,7 +15,8 @@ social reformer, founder of a fair monastic order, guru of kabIr.
 ## tenAli rAma
 [tenAli rAma](http://en.wikipedia.org/wiki/Tenali_Ramakrishna)-kRShNa, clever jester at the court of kRSHNadEvarAya.
 
-
+## परशुराम-तीर्थः
+He had started the nitya pujas in Srirangam, even before Gopanarya conquered Srirangam. He was originally from Kashmir valley, iirc. Sishya of sankarshana tirtha. As a sign of respect for his efforts to restart nitya pujas in the temple, Parashurama Tirtha was allowed to have his Moola Brindavana on the banks of Chandra Pushkarini in the inner precincts of Srirangam temple by Srivaishnava archakas and acharyas.
 
 ## Brahmendra Swami
 the Guru of Shahu, of Bajirao, of Chimaji, of the Angres and thousands of the rank and file. The Swami had practiced severe austerities in his early life and developed wonderful Yogic powers, as of going into samadhic trance for a full month every year and living buried underground during that period, traveled far and wide, like Ramdas. He inspired the marATha-s to curb the siddis.

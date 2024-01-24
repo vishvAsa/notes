@@ -12,7 +12,8 @@ In this thread I had documented the full list of lawyers and Hindu parties they 
 Here is the **full list** of lawyers who argued for the temple in All’d HC.
 
 1. Adv. PN Mishra, representing Ram Janmabhumi Punaruddhar Samiti. 
-  - RS Prasad represented in Allahabad HC not Ram Lala Virajman but Mahant Suresh Das. He was also not the “main lawyer”, which was Adv PN Mishra (arguing the case in courts since 1989).
+  - Main lawyer. 
+  - (PN Mishra was engaged by RJB Punaruddhar Samiti in Sep 2009. Till then its lawyer was someone else.).
 2. Adv Ranjana Agnihotri, also representing the RamJanmabhumi Punaruddhar Samiti, and assisting Adv PN Mishra
 3. Adv R L Verma and
 4. Adv Tarunjeet Verma Both representing Nirmohi Akhara
