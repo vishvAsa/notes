@@ -358,17 +358,18 @@ Most memorably, it is the amount of energy it takes to heat one kilogram (or one
 
 Food labels in the U.S. are in Calories, describing the energy content of the food we eat.[^15] We would all do ourselves a favor by calling these kcal instead of Calories (same thing). Many other countries sensibly use either kJ or kcal for quantifying food energy. 
 
-20°C 
-+ 50 calories (209 J) 
-1 cm3 = 1 mL = 1 g 
-70°C 
-Example 5.5.1 To change 30 mL (30 g) of water by 5°C requires 150 cal, or a little over 600 J. 
+(1 cm3 = 1 mL = 1 g) 20°C + 50 calories (209 J) → 70°C 
+
+Example 5.5.1  
+
+To change 30 mL (30 g) of water by 5°C requires 150 cal, or a little over 600 J. 
+
 Injecting 40 kcal of energy into a 2 L (2 kg) bottle of water will heat it by 20 degrees. 
 Drinking 250 mL of ice-cold water and heating it up to body tempera- ture (thus raising its temperature by approximately 35 degrees) will take about 8,750 cal, or 8.75 kcal, or a bit over 36 kJ of 
 energy. 
 It is usually sufficient to remember that the conversion factor between calories and Joules is about 4.2-or just 4 if performing a crude calcula- tion. 
  
-74 
+[[74]] 
 
 [^15]: Human metabolism is not the same as heating water, but the energy involved can still be counted in an energy unit that is defined in terms of heating water. It's still just energy. 
 Figure 5.3: Following the definition of a calorie, adding 50 cal to one gram of water raises its temperature by 50°C. 
