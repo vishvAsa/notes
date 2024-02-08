@@ -11,7 +11,8 @@ title = "+OS"
 
 ## Factors
 ### Updates
-Once a good functioning system is installed, updates and additional software can be a problem.
+Once a good functioning system is installed, updates and additional software can be a problem.  
+In a complex system with independently updated parts, breakages can be hard to diagnose and fix, despite alternatives available.
 
 Periodic releases
 
@@ -26,11 +27,10 @@ Continuous update model - Eg. Arch Linux, Manjaro.
 - This periodically causes problems - GUI may not function. Login screen may become broken (202402). Re-awakening after suspension may not work (202402). 
 
 ### Redundancy
-- Some redundancy in terms of display managers installed is good (especially in case of unstable systems) - GDM, LXDM, SDDM. (Though this did not help in 202402.)
-- Further, redundancy is desired for desktop environments.
-  - Current favorites list: Cinnamon, Deepin, Bludgie
-- Similar redundancy is desired for important tools such as editors.
-
+- Redundancy is desired for important tools such as editors.
+- Redundancy may not be adequate in case of complex system with independently updated parts.
+  - For example - Some redundancy in terms of display managers and desktop environments is good (especially in case of unstable systems). (Though this did not help in 202402.)
+ 
 ### Apps
 - Should have a vast collection of easy-to-install apps.
 
