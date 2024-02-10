@@ -5,7 +5,7 @@ title = "+OS"
 ## Major components
 - Kernel and drivers to support one's devices.
 - GUI. 
-  - Stack: In Linux, this first involves: A display/ login manager (gdm, lxdm etc..) along with greeters. This spawns window manager (kde plasma, gnome, cinnamon ...) + communication manager (wayland, xll ...).
+  - Stack: In Linux, this first involves: A display/ login manager (gdm, lxdm etc..) along with greeters. This spawns window manager (kde plasma, gnome, cinnamon ...) + communication manager (wayland, x11 ...).
   - Good window management - support for multiple monitors, a good panel for various continuously running apps (clock, speaker, keyboard switcher etc..), screen lock, multiple workspaces ...
 
 
@@ -33,6 +33,9 @@ Continuous update model - Eg. Arch Linux, Manjaro.
  
 ### Apps
 - Should have a vast collection of easy-to-install apps.
+
+### Ease of installation
+Some distributions are quite hard to install - eg. Arch.
 
 ## Strategy
 - High conservativism and stability for the core system (GUI, drivers) - even at the loss of some fancy features. A failure here is most frustrating.
