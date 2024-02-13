@@ -5,6 +5,9 @@ title = "+Version Control"
 ## git
 <div class="spreadsheet" src="../git.toml" fullHeightWithRowsPerScreen=8> </div>  
 
+### Default user
+- In linux, ensure that `~/.git-credentials` have the keys in the right order - the earlier key will be tried first.
+
 ### Splitting subdir to differnt branch and including it
 ```
 git subtree split --prefix=subdir_path -b some_branch
