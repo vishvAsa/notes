@@ -5,7 +5,10 @@ title = "+Version Control"
 ## git
 <div class="spreadsheet" src="../git.toml" fullHeightWithRowsPerScreen=8> </div>  
 
-### Default user
+### Remember credentials
+`git config --global credential.helper store` avoids needing to retype credentials each time.
+
+#### Default user
 - In linux, ensure that `~/.git-credentials` have the keys in the right order - the earlier key will be tried first.
 
 ### Splitting subdir to differnt branch and including it
