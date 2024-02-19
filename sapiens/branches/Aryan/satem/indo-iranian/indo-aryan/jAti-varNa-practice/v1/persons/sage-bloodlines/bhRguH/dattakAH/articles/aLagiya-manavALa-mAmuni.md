@@ -135,14 +135,20 @@ His dedication towards emperumAnAr was unparallel and he showed us how to worshi
 His life was an example for the writings of our pUrvAchaAryas on how a srivaishnava should conduct himselves. This was discussed in detail in adiyen’s ebook named srivaishnava lakshaNam. Click here to see this series of articles and ebook – http://ponnadi.blogspot.in/p/srivaishnava-lakshanam.html.
 mAmunigaL’s thanian
 
-Advertisement
-srIsailEsa dhayA pAthram dhIbhakthyAdhi guNArNavam
-yathIndhra pravaNam vandhE ramya jAmAtharam munim
 
-ஸ்ரீஸைலேச தயா பாத்ரம் தீபக்த்யாதி குணார்ணவம்
-யதீந்த்ர ப்ரவணம் வந்தே ரம்ய ஜாமாதரம் முநிம்
+
+<details><summary>ध्यानश्लोकाः</summary>
+
+मनवाळ-महा-मुनिः। 
+
+श्रीशैलेश-दया-पात्रं  
+धीभक्त्यादि-गुणार्णवम् ।  
+यतीन्द्र-प्रवणं वन्दे  
+रम्य-जामातरं मुनिम्॥
 
 Simple translation: I (sri ranganAthan) worship maNavALa mAmunigaL who is the target of thiruvAimozhi piLLai’s dhayai, who is an ocean of jnAnam, bhakthi, vairAgyam, etc and who has great attachment towards emperumAnAr.
+</details>
+
 
 With this we have completed the OrAN vazhi AchArya paramparai. It is said that we should end everything in a sweet manner. That is why our OrAN vazhi paramparai also ends with mAmunigaL and his charithram are sweeter than anything else in both the worlds (nithya vibhUthi and leelA vibhUthi).
 
@@ -155,11 +161,3 @@ adiyen sarathy ramanuja dasan
 archived in https://guruparamparai.wordpress.com, also visit http://ponnadi.blogspot.in/
 
 Sources: yathIndhra pravaNa prabhavam, periya thirumudi adaivu, vyAkyAnams
-
-Related
-Introduction (contd)August 17, 2012In "Introduction"
-
-piLLai lOkAchAryarSeptember 18, 2012In "OrAN vazhi guru paramparai"
-
-thiruvAimozhi piLLaiSeptember 19, 2012In "OrAN vazhi guru paramparai"
-
