@@ -46,6 +46,7 @@ title: Notes
   - This I also use to mark corrected text. Eg. अतः 'गावी'शब्दः गौः इत्यर्थे +++(~~न~~)+++ अपशब्दः ।
 - I like to scores phrases or verses for beauty or importance - 1/5 to 5/5. Eg: न चेदानीम् आचार्याः सूत्राणि कृत्वा निवर्तयन्ति ॥+++(5)+++
 - For long notes, I use collapsible html details and footnotes.
+- doubtful places (marked with ??)
 - I like to use a very reader-friendly way of writing sanskrit. For example, I split sanskrit text - eg. इत्य् अलम्, rather than इत्यलम्. More details in the [sanskrit/lekhanam](/sanskrit/lekhanam/) page.
 
 ### Physical books
@@ -54,7 +55,7 @@ With physical books, I like to mark (with a pencil):
 
 - words that are new to me (with meanings)
 - words and phrases that I find beautiful
-- grammatical flaws
+- grammatical flaws, or doubtful places (marked with ??)
 - printing mistakes that I correct
 - (In case of particularly difficult verses) - पद-endings (with vertical lines), their vibhakti-s (on top of word endings, numbered १-७, with additional markings as in _१'_ to distinguish words related to distinct objects terminating in the same vibhakti)
 - my scores for beauty for (nearly) each verse - 1/5 to 5/5.
