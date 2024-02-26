@@ -9,13 +9,9 @@ clothing.
 
 ### Importance of right attitude
 
-The body can function well in extreme conditions, when the right
-attitude is adapted. It is possible to wear an attitude suitable for the
-cold, as eskimos do: one can welcome the cold temperature rather than
-shun it. Similarly, one can welcome dryness and hot weather.
+The body can function well in extreme conditions, when the right attitude is adapted. It is possible to wear an attitude suitable for the cold, as eskimos do: one can welcome the cold temperature rather than shun it. Similarly, one can welcome dryness and hot weather.
 
-However, one must guard against the risk of inflicting damage to the
-body by so tolerating extreme conditions.
+However, one must guard against the risk of inflicting damage to the body by so tolerating extreme conditions.
 
 ## Goodness of fit
 
