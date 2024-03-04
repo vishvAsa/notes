@@ -421,40 +421,65 @@ Again to test Desika's humility he was invited by a Vaishnava gentleman to his h
 ## tIrtha-yAtrA
 Sri Desika had now stayed long at Srirangam and so a longing to visit some of the Holy Shrines, in the Pandya, Chera, and Chōla kingdoms, seized him. He therefore started ou a tour worshipping enroute the Resident Deities [[XXXI]] at Srivilliputhur, Tirunagari, Tiruvellarai, Tiruk-kudandai, Sri Mushuam etc. and returned again to Kanchi to have a sight again of his most beloved Lord Varadaraja. 
 
-Here he was expounding the Ubhaya Vedanta to his numerous audiences, when a snake-charmer appeared on the scene and challengeed his title to Sarvatantrasvatantra. Though unwilling at first to deal with a man of this description, his disciples would have him do some miracle. In every religion we have had men who would not be convinced unless they saw miracles done by their Saviours. So Desika stooped to them and drawing seven lines he asked the snake charmer to draw forth his venomous reptiles. These were let out but none of them dare cross the lines, when, enraged, the charmer let out his most powerful cobra Sankhapala, which, crossing all the seven lines and hissing, made for Dēsika, But our Desika, as is already known, was Master of the Garuda-Mantra, antidote meet to the race of the cobras, and as soon as he uttered the same, Garuda (the Brahman Kite) suddenly came and, swooping down, made away with the cobra. 
-XXXH 
-1.  From Kanchi, next Desika proceeded to Tirupati, worshipped once again Lord Srinivasa and finally returned to Srirangam to spend the rest of his days in quiet contemplation, retiring from all religious wranglings, exclaiming :- 
-निर्विष्टं यतिसार्वभौमवच सामावृत्तिभियौवनं 
-निर्धूतेतरपारतन्त्र्यानरिया नीताः सुखं वासराः । afiga aai gafaqaai nålsfq fāalita: शेषायुष्यपि शेषिदंपतिदयादीक्षामुदक्षामहे || 
-1.  Desika had vowed himself, as already 
-said, to lend a life of absolute 
-absolute poverty. A bachelor who was collecting money for his marriage was directed to apply to Desika for help. This was a mischief devised by his adversaries to test Desika. Our author, however, was keen enough to perceive the intended hoax 
-1. By many repetitions of the study of the works of the king of Ascetics, (Rāmānuja), passed we our young age. Many are the days that we spent in happiness, ever hating the bane of service under men. Acting on the 
-tradition of the virtuous, have we humbled the conceit of 
-the vicious. For the rest of life, we only look forward to the vow of realising the fruition of the grace of the Perpetual Divine Couple. 
-XXXIII 
-to be played upon him. sion, he composed his 
-F 
-Seizing the occa Sri-Stuti before Sri- 
-Ranganayaki (Lakshmi). She (Srî), being the goddess of wealth, caused immense riches to pour before the bachelor so that he might please himself by the Joad ! 
-He so- 
-1.  The author of our Sankalpa-Sūryōdaya was master of no less than 126 works. journed, it is chronicled, 102 years on earth. God sends His Messengers and withdraws them, according to His own inscrutable Will. Dēsika was sent as a Saviour to men. The work he had been designed to accomplish was now done. So then, on a certain day, Sri Ranganayaki, whom he had come to visit, spoke through the Archaka thus "Thou hast now fulfilled thy mission on earth; much pleased we are that Sri Ramānuja's Siddhanta has now been planted firmly in the land. Consecrated is thy flawless and perfect life and time enough hast thou been in the world of men, as we willed. So then, now hie hence to our Eternal World of bliss "-The disciples of Dēsika, on hearing this news, were disconsolate with grief owing to the threatened 
-:- 
-separation. In vain they wailed profusely and aloud and besought Ranganāyaki thus :-"Thou hast resolved to recall from our midst Dēsika but he is our very life! Dēsika going, our breath goes! "-To this, She deigned to say 
-!-"Sons, give up your despair, for now is ready, a beautiful and perfect image of our beloved son Vedanta Dēsika. When ye will see him no more bodily, ye will establish his sacred image in the precincts of My Temple in the very place where he has been promulgating the Rāmānuja Darsana to ye all "— 
-1.  Letting alone traditions, our author, judged by the merit of his many works, is sure to be regarded by any unbiassed critic, as one of the greatest literary luminaries. He knew what to say 
-and how to say. Strange in those days of religious fanaticism, our author combined in himself the highest tolerance with the courage of his convictions. His one wish was that there should be no division and schism within the faithful camp of Rāmānuja. In melodies heartstirring, he vented this wish of his thus :- 
-XXIV 
-'आपादचूडमनपायिनि दर्शनेऽस्मिनाशासनयिमपरं न विपक्षहेतोः । आपादशान्ति मधुरान्पुनरस्मदीयानन्योन्यवैरजननी विजहात्वसूया || 
-1.  How much we feel within our heart of hearts that this wish were piously acted up to by all the followers of Rāmānuja! If not, we then in no way differ from the religious fanatics all over the world. But if we might pride ourselves on union and unanimity, we should cry and appeal to all Factionists, to Sri Desika's noble methods for composition. The true lover of our Acharya Sri Desika, however, can do no better homage to him than follow faithfully and literally his high example of tolerance, not to speak of the legion of other Spiritual virtues which he exemplified in his blessed Avatāra. 
-2.  Those who fain would dive deep into fuller details of Sri Desika's life and career would do well to read the fuller biographies, the 
-3. To this (Sri Ramanuja's) system, which is flawless from its very beginning to its end, nothing more is the desideratum of us all, on account of thinkers of rival schools, than to wish that (mutual) envy, which causes ill-feelings amongst ourselves, should leave all the followers of Sri Ramanuja, who, to all appearance only, profess friendship and harmony.XXXVI 
-""Vaibhavaprakasika 
-etc 
-Saptaratnamālika,' but those desirous of getting but a brief glimpse of his life and life-work might remain content with the short sketch here limned. True admirersof Sri Desika have only to realise what a simple life of boundless Bhakti (Love to God) and of burning love for Achārya (Spiritual Teacher) and of profound Vairagya Sri Desika led, by picturing in their minds' eye the full import of this one verse, composed by him at the closing years of his life-a verse but one out of a myriad such :— 
-स्वापोद्बोधव्यतिकरनिभे भोगमोक्षान्तराले 
-að aftasufā faftar tafarurqarar: 1 तत्त्वोपायप्रभृतिविषये स्वामिदतां स्वनिष्टां 
-शेषां कृत्वा शिरसि कृतिनः शेषमायुर्नयन्ति ॥ 
-The Lord of Poets and Logicians alike, 
+Here he was expounding the Ubhaya Vedanta to his numerous audiences, when a snake-charmer appeared on the scene and challengeed his title to Sarvatantrasvatantra. Though unwilling at first to deal with a man of this description, his disciples would have him do some miracle. In every religion we have had men who would not be convinced unless they saw miracles done by their Saviours. So Desika stooped to them and drawing seven lines he asked the snake charmer to draw forth his venomous reptiles. These were let out but none of them dare cross the lines, when, enraged, the charmer let out his most powerful cobra Sankhapala, which, crossing all the seven lines and hissing, made for Dēsika. But our Desika, as is already known, was Master of the Garuda-Mantra, antidote meet to the race of the cobras, and as soon as he uttered the same, Garuda (the Brahman Kite) suddenly came and, swooping down, made away with the cobra. 
+
+[[XXX]] 
+
+From Kanchi, next Desika proceeded to Tirupati, worshipped once again Lord Srinivasa and finally returned to Srirangam to spend the rest of his days in quiet contemplation, retiring from all religious wranglings, exclaiming :- 
+
+> **निर्विष्टं** यति-सार्व-भौम-वचसाम् आवृत्तिभिर् यौवनं  
+निर्धूतेतर-पार-तन्त्र्य-निरया **नीताः** सुखं वासराः ।  
+**अङ्गीकृत्य** सतां प्रसत्तिम्, असतां गर्वो ऽपि **निर्वापितः**  
+शेषायुष्य् अपि शेषि-दं-पति-दया-दीक्षाम् **उदक्षामहे** || 
+
+> By many repetitions of the study of the works of the king of Ascetics, (Rāmānuja), passed we our young age. Many are the days that we spent in happiness, ever hating the bane of service under men. Acting on the tradition of the virtuous, have we humbled the conceit of the vicious. For the rest of life, we only look forward to the vow of realising the fruition of the grace of the Perpetual Divine Couple. 
+
+## shrIrangam
+Desika had vowed himself, as already said, to lend a life of absolute absolute poverty. A bachelor who was collecting money for his marriage was directed to apply to Desika for help. This was a mischief devised by his adversaries to test Desika. Our author, however, was keen enough to perceive the intended hoax [[XXXIII]] to be played upon him. 
+
+Seizing the occasion, he composed his Sri-Stuti before Sri- 
+Ranganayaki (Lakshmi). She (Srî), being the goddess of wealth, caused immense riches to pour before the bachelor so that he might please himself by the load ! 
+
+The author of our Sankalpa-Sūryōdaya was master of no less than 126 works. He sojourned, it is chronicled, 102 years on earth. God sends His Messengers and withdraws them, according to His own inscrutable Will. Dēsika was sent as a Saviour to men. The work he had been designed to accomplish was now done. So then, on a certain day, Sri Ranganayaki, whom he had come to visit, spoke through the Archaka thus 
+
+> "Thou hast now fulfilled thy mission on earth; much pleased we are that Sri Ramānuja's Siddhanta has now been planted firmly in the land.  
+> Consecrated is thy flawless and perfect life and time enough hast thou been in the world of men, as we willed.  
+> So then, now hie hence to our Eternal World of bliss "-
+
+The disciples of Dēsika, on hearing this news, were disconsolate with grief owing to the threatened separation. In vain they wailed profusely and aloud and besought Ranganāyaki thus :-
+
+> "Thou hast resolved to recall from our midst Dēsika but he is our very life! Dēsika going, our breath goes! "
+
+To this, She deigned to say 
+
+> "Sons, give up your despair, for now is ready, a beautiful and perfect image of our beloved son Vedanta Dēsika. When ye will see him no more bodily, ye will establish his sacred image in the precincts of My Temple in the very place where he has been promulgating the Rāmānuja Darsana to ye all "
+ 
+Letting alone traditions, our author, judged by the merit of his many works, is sure to be regarded by any unbiassed critic, as one of the greatest literary luminaries. He knew what to say and how to say. Strange in those days of religious fanaticism, our author combined in himself the highest tolerance with the courage of his convictions. His one wish was that there should be no division and schism within the faithful camp of Rāmānuja. In melodies heartstirring, he vented this wish of his thus :- [[XXIV]] 
+
+> (आपाद-चूडम् अनपायिनि दर्शनेऽस्मिन्न्  
+आशासनीयम्+++(=प्रार्थनीयम्)+++ अपरं न विपक्ष-हेतोः । 
+आपात-सौख्य-मधुरान् पुनर् अस्मदीयान्  
+अन्योन्य-भेद-जननी **विजहात्व्** असूया॥)
+ 
+> 1. To this (Sri Ramanuja's) system, which is flawless from its very beginning to its end, nothing more is the desideratum of us all, on account of thinkers of rival schools, than to wish that (mutual) envy, which causes ill-feelings amongst ourselves, should leave all the followers of Sri Ramanuja, who, to all appearance only, profess friendship and harmony.
+
+How much we feel within our heart of hearts that this wish were piously acted up to by all the followers of Rāmānuja! If not, we then in no way differ from the religious fanatics all over the world. But if we might pride ourselves on union and unanimity, we should cry and appeal to all Factionists, to Sri Desika's noble methods for composition. The true lover of our Acharya Sri Desika, however, can do no better homage to him than follow faithfully and literally his high example of tolerance, not to speak of the legion of other Spiritual virtues which he exemplified in his blessed Avatāra. 
+
+[[XXXVI]] 
+
+Those who fain would dive deep into fuller details of Sri Desika's life and career would do well to read the fuller biographies, the Saptaratnamālika, Vaibhavaprakasika etc 
+but those desirous of getting but a brief glimpse of his life and life-work might remain content with the short sketch here limned. 
+
+True admirersof Sri Desika have only to realise what a simple life of boundless Bhakti (Love to God) and of burning love for Achārya (Spiritual Teacher) and of profound Vairagya Sri Desika led, by picturing in their minds' eye the full import of this one verse, composed by him at the closing years of his life-a verse but one out of a myriad such :— 
+
+> स्वापोद्बोध-व्यतिकर-निभे भोग-मोक्षान्तराले  
+कालं कञ्चिज् जगति विधिना केनचित् **स्थाप्यमानाः** ।  
+तत्त्वोपाय-प्रभृति-विषये स्वामि-दत्तां स्व-निष्ठां  
+शेषां **कृत्वा** शिरसि कृतिनश् शेषम् आयुर् **नयन्ति** ॥ ३३ ॥
+ 
+> The blest souls, for a while longer kept by Providence in this world in a state that interludes between Bhoga and Moksha, like the medium state between sleep and wakefulness, pass the rest of their lives, laying on their heads in reverence the ordinance of the Lord God, such as Tatva, Upaya and the like. 
+
+
+> The Lord of Poets and Logicians alike, 
 embodiment of virtues all, To Sri Venkatesa, my Vedantic Master, homage ! ! 
-1. The blest souls, for a while longer kept by Providence in this world 111 a state that interludes between Bhoga and Moksha, like the medium state between sleep and wakefulness, pass the rest of their lives, laying on their beads in reverence the ordinance of the Lord God, such as Tatva, Upaya and the like. 
+
