@@ -2,6 +2,8 @@
 title = "Fake-brAhmaNa-converts"
 +++
 
+Source: [TW](https://twitter.com/arya_amsha/status/1767606200751866053)
+
 While many Kashmiri Muslims claim to be "Brahmin converts", this is almost certainly not true for the vast majority. It was very easy to adopt a fake caste name in Kashmir.
 
 The example below shows Kashmiris of the boatmen caste had appropriated the upper-caste surname Dar/Dhar. 
@@ -23,3 +25,9 @@ Sayyids as "Musalman brAhmaNas" -
 > Thereafter the Baihaqi Sayyids gradually rose in power and position and played an active, and often a decisive, role in the affairs of Kashmir. One of their clan, named Sayyid Mubarak, ruled over Kashmir for a short period of two months in A.D. 1578. The account of the Sayyids of Baihaq is treated at such length in the chronicle that some scholars. have said that it is a history of the Sayyids than that of the Sultans of Kashmir. His lavish praise of the Sayyids makes us presume that he was very close to them, perhaps a beneficiary of that house. He does not hesitate to lay bare the contempt which the Sayyids had for the local Kashmiri population. This became the cause of constant friction and acrimony between them and the local chiefs. From contemporary sources we learn that the Sayyids had to make strenuous efforts to become acceptable to the Kashmiris. Srivara writes that although they claimed their descent from the house of the Prophet, they did not receive adequate veneration from the Kashmiri Hindus who had been converted to Islam. Therefore, in order to make the converted Hindus understand their high status, the Sayyids told them that they were 'Musalman Brahmans' as against 'Hindu Brahmans'.1
 > 
 > 1. Srivara calls them chhij, and the rest of the Hindus converted to Islam as mlechhas. See Zaina Rajatarangini, ed. Raghunath Singh, Varanasi, 1977, Pt. I, Stt. 4:77.
+
+
+## Generality
+Persian proverb - "The first year I was a weaver (Julaha), the next year a Sheikh. This year if prices rise, I shall be a Syed."
+
+Once a population converted to Islam entirely, this is how caste claims often worked.
