@@ -2,6 +2,8 @@
 title = "DV guNDappa"
 +++
 
+Source: [TW](https://www.prekshaa.in/DVG-Gundappa-Journalism-Gokhale)
+
 Source: PrexA, author shashikiran
 
 ## Intro
@@ -32,7 +34,11 @@ He founded and edited numerous newspapers and journals such as Sūryodaya-prakā
 
 Two statements actuated him to take up all these activities. One is by Svāmī Vidyāraṇya: “Jnāninā carituṃ śakyaṃ samyag rājyādi-laukikam” and the other is by Gopal Krishna Gokhale: “public life must be spiritualized.”
 
-DVG looked upon public life as a sacred service. And service accepts no reward. In keeping with this view, he maintained a healthy distance from riches. He did not cash even one of the many cheques that the treasury of the Mysore State issued for his services as a consultant to Sir M Visvesvaraya, the then Dewan. The ringing words of Bhagavān Manu struck a deep chord with him: yo’rthe śucirhi sa śuchirna mṛdvāriśuciḥ śuciḥ (Manusmṛti 5.106). He remained fiercely independent throughout his life, exemplifying courage, candour and trustworthiness. I would like to quote his own words to describe his attitude to journalism and public affairs:
+DVG looked upon public life as a sacred service. And service accepts no reward. In keeping with this view, he maintained a healthy distance from riches. He did not cash even one of the many cheques that the treasury of the Mysore State issued for his services as a consultant to Sir M Visvesvaraya, the then Dewan. The ringing words of Bhagavān Manu struck a deep chord with him: 
+
+> yo’rthe śucirhi sa śuchirna mṛdvāriśuciḥ śuciḥ (Manusmṛti 5.106). 
+
+He remained fiercely independent throughout his life, exemplifying courage, candour and trustworthiness. I would like to quote his own words to describe his attitude to journalism and public affairs:
 
 > If I may so put it, the journalist is the humble sanitarian who labours hard to bring sunlight and fresh air into the halls peopled by administrators and legislators. (Presidential Address to the Mysore State Journalists’ Association, 1932)
 
