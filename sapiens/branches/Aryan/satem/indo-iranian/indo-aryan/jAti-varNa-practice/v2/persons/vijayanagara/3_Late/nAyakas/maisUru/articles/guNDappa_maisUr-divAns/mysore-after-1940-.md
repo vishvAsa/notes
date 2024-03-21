@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Mysore after 1940"
 
 +++
 

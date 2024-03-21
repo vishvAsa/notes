@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Governance before Independence"
 
 +++
 
