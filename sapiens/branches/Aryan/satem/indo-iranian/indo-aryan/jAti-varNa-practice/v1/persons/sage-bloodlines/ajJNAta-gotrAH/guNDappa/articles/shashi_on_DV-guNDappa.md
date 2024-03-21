@@ -61,7 +61,6 @@ The source of DVG’s conviction was his attitude to life. He looked at the worl
 
 His ideal in life was a vanasuma, forest flower. When a flower blooms somewhere deep in a forest, there is nobody to appreciate it. Colour, shape, tenderness and all its other fine qualities go unsung. Nobody writes a poem on it; nobody offers it to a deity. Even so, it breathes a fresh fragrance into the air and quietly withers away. DVG thought we should live in this manner: organic evolution leading to self-discovery should be our sole objective. DVG unconditionally practised what he preached. And therein lies the greatness of his ideal.
 
-*             *             *
 
 ## Writings
 DVG wrote more than twenty thousand pages in English and Kannada. While his English writings largely deal with politics and rarely foray into culture, literature and philosophy, his works in Kannada cover a wide range of literary genres. Among his Kannada writings are children’s literature, reminiscences, pen portraits, biographies, discursive essays, literary criticism, plays, lyrical poems, songs, philosophical poetry, analytical poetry, socio-political writings, spiritual works, contemporary commentaries on traditional treatises, translations and adaptations.
