@@ -6,11 +6,11 @@ Source: [prekshaa series](https://www.prekshaa.in/archive?field_preksha_series_t
 
 [[D.V. Gundappa: A Profile by Dr. S.R. Ramaswamy	Source: [prekshaa](https://www.prekshaa.in/article/dv-gundappa-profile-dr-sr-ramaswamy)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 *Note: This is the first part of the English translation of a series profiling D.V. Gundappa's life and legacy authored in the original Kannada by Dr. S.R. Ramaswamy, part of his essay collection titled "Divatigegalu."*
 
@@ -104,20 +104,20 @@ DVG has expressed this same opinion in the opening lines of his essay collection
 > Science is that which makes a person investigate it thoroughly  
 > Divine Knowledge is that which makes a person regard all of these in a harmonious spirit.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[D.V. Gundappa: Wit, Humour and Compassion	Source: [prekshaa](https://www.prekshaa.in/article/dv-gundappa-wit-humour-and-compassion)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 The long years of service that DVG rendered variously as the member of the Municipal Council (1915-16), Legislative Council (1927-40), Mysore University Senate (1927-42), Mysore State Reforms Committee (1938-39) and other expert committees was inspired by this selfsame spirit of all-encompassing dedication to the nation. The index finger that shaped and guided his life was the following verse which he used to repeatedly recall:
 
@@ -164,20 +164,20 @@ I recalled these instances merely by way of example. The company of such people 
 
 It is not the intent of the present essay to survey D.V.G’s life and body of work. The limited scope here is to attract attention to some facets that highlight a few métiers of his personality. 
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[The Nationalism of D.V.G and the Problems of the Princely States	Source: [prekshaa](https://www.prekshaa.in/article/nationalism-dvg-and-problems-princely-states)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 DVG practiced journalism for an unremitting seven decades; from the beginning, he fiercely upheld the nationalistic spirit in both speech and writing. From 1913-1920 when D.V.G. was editing the English biweekly *Karnataka,* this was the tenet that he declared: “The newspapers of our country need not imitate their counterparts in America or other foreign countries. Our papers need to conduct themselves in a manner that is consonant with our social circumstances and the nature and traditions of our people.”
 
@@ -231,20 +231,20 @@ The British Government exercised its political power in a wanton manner. After t
 
 As mentioned above, the reason the British Government put forward to reject India’s demand for freedom was this – the treaties and agreements that existed with the Indian Princely States. The truth of this argument apart, it was essential purely from the Indian standpoint to reach a decision about the Princely States and the future of their citizens.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[D.V.G: The Unrivalled Expert on the Problem of the Princely States	Source: [prekshaa](https://www.prekshaa.in/article/dvg-unrivalled-expert-problem-princely-states)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 ## The Rule of the Maharajas
 
@@ -282,20 +282,20 @@ Large-sized Princely States, or federations of small states must be recognized a
 
 King George V had founded the *Chamber of Princes,* a body to protect the interests of the Princely States. A prominent member of this Chamber was the Maharaja of Bikaner. The series of open letters that D.V.G. wrote in 1917 to the Maharaja of Bikaner was responsible for spreading his fame to the remotest kingdoms of India. Equally, the appeal that D.V.G. wrote to E.S. Montague in 1918 attracted the attention of the most brilliant minds of the country. In the same year, D.V.G. also sent a resolution to the Special Session of the All India Congress.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[D.V.G's Himalayan Service to Public Life: The Anti-Partition Champion	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-himalayan-service-public-life-anti-partition-champion)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 ## Public Organisations
 
@@ -341,20 +341,20 @@ In analyzing the failure of the Simon Commission and the Shimla Conference and v
 
 In order to forget the deep pain he felt at the country’s partition, DVG immersed himself in relief activities held in Bangalore towards the close of 1947 aimed at helping the Punjab refugees.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[DVG as a Constitutional Reformer and Inspiration from Tyagaraja	Source: [prekshaa](https://www.prekshaa.in/article/dvg-constitutional-reformer-and-inspiration-tyagaraja)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 When the world-renowned scholar, India-aficionado, and multifaceted expert on various art forms, Ananda Coomaraswamy was asked to deliver a message regarding India’s independence, this is the note he wrote from America: “Be yourselves. Tread on the path showed by Mahatma Gandhi, Kumarappa, D.V. Gundappa and Ramana Maharshi.”
 
@@ -397,20 +397,20 @@ The moment he heard these words of Tyagaraja, DVG’s original decision solidifi
 
 However, even after he retired from politics, his conviction of spreading awareness and energy among the people never dimmed. To this end, he established the Gokhale Institute of Public Affairs and developed it.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[DVG Brings Gandhi to Bangalore for the First Time	Source: [prekshaa](https://www.prekshaa.in/article/dvg-brings-gandhi-bangalore-first-time)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 ## Organizer of Society
 
@@ -454,20 +454,20 @@ A detail related to the functioning of the institution:
 
 Although such experiences occurred incessantly, DVG didn’t give up his attempts and persisted for several years.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[The Evolution of DVG's Jivana Dharmayoga	Source: [prekshaa](https://www.prekshaa.in/article/evolution-dvgs-jivana-dharmayoga)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 The Mysore People’s Convention that convened in Bangalore in December 1919 under the aegis of the Mysore Representative Assembly was largely the result of DVG’s enthusiasm. More than three hundred eminent people hailing from various parts of Karnataka attended the Convention. Some names include M. Venkatakrishnayya, C. Narasimhayya and B. Narasinga Rao, from Mysore, C. Srinivasa Rao and Vasudeva Rao from Chickmagalur, S.R. Balakrishna Rao, K. Shankaranarayana Rao, and C. Subba Rao from Shimoga, S. Venkateshayya and Nanjundayya from Hassan, C.B. Gopala Rao, T. Srinivasachar, and M.S. Ramachar from Kolar, M.R. Nageshwara Iyer, M.P. Somashekhara Rao, Attikuppe Krishna Sastri and others from Bangalore. All of these eminent people played an important part in the deliberations of the Convention. K. Srinivasarangacharya was the head of the Welcoming Committee.
 
@@ -497,20 +497,20 @@ After completing the study of each verse in detail and we revised the entire Bha
 
 The various phases during which the proofreading and revision of the text were ongoing were the most enthusiastic and happy days of DVG’s life. This was a lofty work, which was essential for our people – his mind was filled with this feeling of fulfilment. Even as the Bhagavad Gita series was being published each week, the number of letters that DVG used to receive from thinkers and enthusiasts from various towns and cities and villages was innumerable. DVG would unfailingly reply to every single question. In this manner, this became a sort of longstanding Movement which it was never intended to be when it began.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[Facets of the Spiritual Independence and Equanimity of DVG	Source: [prekshaa](https://www.prekshaa.in/article/facets-spiritual-independence-and-equanimity-dvg)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 There was no dearth of humorous instances during the Sunday study circle. Besides, it was not in DVG’s nature to waste a single opportunity that afforded a humorous element in it.
 
@@ -576,20 +576,20 @@ Once when we were arranging books in the Gokhale Institute library, a book caugh
 
 DVG was always ready to make himself the subject of a joke. He was not unaware of the fact that mere writing wouldn’t solve problems. He would say, “If one stands on the Himalayas and reads aloud the editorials of *Public Affairs* and chant the *‘yosman dweshti’* mantra in high pitch, will the enemies run away in fear?”
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[DVG's Life Partner and His Abiding Conviction in Journalism	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-life-partner-and-his-abiding-conviction-journalism)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 The foundational pillar of DVG’s fearless attitude was his characteristic transparency and abstinence from seeking anything. At no point in his life did he use his extraordinary political and social influence for personal benefit.
 
@@ -665,20 +665,20 @@ The matchless patriot of Italy, Giuseppe Mazzini who was responsible for the uni
 
 Recalling these words of Mazzini in 1920, DVG said that even his plight had become similar. It appears that the feeling within DVG was that he was more a journalist than a litterateur. Had he stayed away from the vagaries of politics, his literary creations would have increased more than tenfold. However, DVG believed from the bottom of his heart that it was his primary duty to mingle with all sections of the society and incessantly examine the policies and stands taken by the Government towards improving their lives. Therefore, his conviction was firm and deep-rooted in journalism.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[D.V.G's Deep Bonding with Society	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-deep-bonding-society)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 ## Deep Bonding with Society
 
@@ -752,20 +752,20 @@ Yours affectionately,
 
 (D.V. Gundappa)
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[The Sprawling World of DVG's Literature	Source: [prekshaa](https://www.prekshaa.in/article/sprawling-world-dvgs-literature)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 ## Honours and Felicitations
 
@@ -812,20 +812,20 @@ DVG’s *Baligondu Nambike* (1950), *Samskruti* (1953) and related essays are ak
 
 DVG’s poetry collections garnered enormous popularity in a short span after their publication. After the close of the 1920s decade, the *Vanasuma* poetry collection quickly joined the ranks of prayer songs sung in thousands of schools across the state. It became the invocatory song at public gatherings. To tell the name and explain the features of the Athana raga to novices, music teachers would say, “this is the Raga of *Vanasuma.*” In the beginning these poems would be sung in two or three different ragas. Later, when it was found that Athana was the most appropriate raga, *Vanasuma* was sung in it and popularized on scores of public platforms by Sri H. Ramanna (father of the famous singer, Smt H.R. Leelavathi). Thanks to this, that great musician became known as “Athana Ramanna.”
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[Maharshi Vidyaranya, Kanchi Paramacharya and DVG	Source: [prekshaa](https://www.prekshaa.in/article/maharshi-vidyaranya-kanchi-paramacharya-and-dvg)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 DVG’s *Sri Ramaparikshanam* has attempted to examine and analyse the various strands of difficult questions related to Dharma by creating imaginary conversations that Sri Rama has between Ahalya, Sita, Lakshmana and other important characters. Although Sri Rama is a Puranic person, he is placed in the human world and his various accomplishments and sorrows are brought out in this work.
 
@@ -856,20 +856,20 @@ The Bhagavad-Gita is not a work that preaches only Sanyasa; it is a work that in
 
 The debates regarding differences in various sects are largely semantic and that it is both feasible and essential to have harmony among sects—this was the stand of DVG.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[The Making of Mankutimmana Kagga	Source: [prekshaa](https://www.prekshaa.in/article/making-mankutimmana-kagga)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 ## Mankutimmana Kagga
 
@@ -968,20 +968,20 @@ In no situation did DVG falter or hesitate to uphold the literary values that he
 
 DVG had deep faith in this dictum. DVG always used this yardstick for judging values.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[The Making of Jnapakachitrashale and DVG's Foreign Visitors	Source: [prekshaa](https://www.prekshaa.in/article/making-jnapakachitrashale-and-dvgs-foreign-visitors)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 ## Jnapakachitrashale – The Art Gallery of Memories
 
@@ -1011,20 +1011,20 @@ I feel that the thought process of our current political class will not help sol
 
 Politics is not something that emerged today or yesterday. The Mahabharata is indeed filled with politics. The preaching of the Mahabharata is to resolve all complex problems using Dharma as the foundation. It is my belief that this sort of resolution is possible even today, and that the reason for today’s thoughtlessness in politics and economics is due to the lack of conviction in Dharma.”
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[Selected Portraits of DVG's Deep Friendships 	Source: [prekshaa](https://www.prekshaa.in/article/selected-portraits-dvgs-deep-friendships)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 During the same period, (July 1971), our friend M.K. Anantaswami had brought along Robert Slater, a professor of English Literature from some university in America. He was curious to know DVG’s thoughts about Western literature.
 
@@ -1101,20 +1101,20 @@ In one of the functions held at the Gokhale Institute, V.K. Gokak had to be garl
 
 Gokak was indeed a “tall” personality!
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[DVG's Profound Devotion and Inseparable Attachment to Tyagaraja	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-profound-devotion-and-inseparable-attachment-tyagaraja)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 DVG was the main inspiration for Vidwan N. Ranganatha Sharma to embark on the prodigious task of undertaking the comprehensive \[Kannada\] translation of Srimad Ramayana. DVG authored detailed forewords for several volumes of these translations.
 
@@ -1235,42 +1235,42 @@ The livelihood that one earns in this fashion
 No matter how materially poor it is,  
 It is the only way that is deserving of respect.
 
-<div>
+
 
   
 
 ------------------------------------------------------------------------
 
-<div id="edn1">
+
 
 [\[i\]](#_ednref1) This verse is notable for its profound simplicity in sketching the essential transient nature of everything, especially the human life. Here, “bundle” signifies the numerous material accumulations and attachments of a person, and “ring the bell” denotes a readiness for departing from this mortal world with serenity. 
 
-</div>
 
-<div id="edn2">
+
+
 
 [\[ii\]](#_ednref2) Celestial damsels typically carved in sculpture on the walls of temples
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's Shiva Yajna: M.D. Ramanathan, M.S. Subbulakshmi and Love of Mirth	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-shiva-yajna-md-ramanathan-ms-subbulakshmi-and-love-mirth)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 The foremost of musicians of that period regarded meeting DVG as akin to a sacred *Tirthayatra.* Stalwarts like Rallapalli, V. Doreswami Iyengar, S. Chennakeshavayya and others would frequently drop in, pay their respects and have conversations with him.
 
@@ -1405,42 +1405,42 @@ S: “Upon seeing the Swami seated in the chariot… Upon seeing the Swami seate
 
 DVG: “Upon seeing the Swami seated in the chariot, one should take a bath fully clothed. Perhaps that is the full verse.”
 
-<div>
+
 
   
 
 ------------------------------------------------------------------------
 
-<div id="edn1">
+
 
 [\[i\]](#_ednref1) *Avadhya* is the antonym of *vadhya,* meaning “to destroy.” When the prefix “a” is added to “*vadhya,”* it means “indestructible.” Thus the aforementioned interpretation will mean that Vishnu as the primordial sound, “a” is the only one capable of making the indestructible, destructible.
 
-</div>
 
-<div id="edn2">
+
+
 
 [\[ii\]](#_ednref2) Founder and publisher of Kavyalaya Publishers, Mysore, which published scores of DVG’s works.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[The World of DVG's Impromptu Poetry and Dictation 	Source: [prekshaa](https://www.prekshaa.in/article/world-dvgs-impromptu-poetry-and-dictation)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 There was no paucity of impromptu poetry in letter correspondence with both close friends and staff of the Gokhale Institute. Once I had put a packet of caramel toffees in the box containing the Institute’s papers that needed DVG’s signature and sent it to him as was the daily practice. The reply was a poem set to the *Kanda* metre:
 
@@ -1523,20 +1523,20 @@ This sort of experience provided delight to the work of writing instead of makin
 
 On several occasions, I had to search for and add for a couple of supplementary details to an incident that he narrated. Thrilling experiences occurred even in this regard.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[D.V.G: The Incessant Experimenter of Language, Working Style and Food	Source: [prekshaa](https://www.prekshaa.in/article/dvg-incessant-experimenter-language-working-style-and-food)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 On one occasion, DVG had fixed the year for some incident. Later, I had consulted the primary source for the said incident and slightly altered the year.
 
@@ -1594,20 +1594,20 @@ DVG’s experimental zeal was annexed to the kitchen as well.
 
 DVG would repeatedly complain that potato was not tasty and that it reeked of the smell of mud. On one occasion, his sister-in-law, Smt Sharadamma took special effort to procure potato from some place and praised its quality, claiming that it didn’t emit a bad odour. DVG sampled its taste and delivered his verdict: “What you say is true Sharadamma. There is no mud-odour in the potato. Today, I sense ash odour.”
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[The Taste of Gutter Pakora and DVG's Vogue Words	Source: [prekshaa](https://www.prekshaa.in/article/taste-gutter-pakora-and-dvgs-vogue-words)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 At times, DVG’s political critiques would become the subject of analysis even in his home. At the end of 1971, Smt Sharadamma brought some sweets to DVG and said: “Don’t scold Indira Gandhi from now on.” It was the occasion of India’s victory in the Bangladesh war.
 
@@ -1695,20 +1695,20 @@ DVG: “What’s the occasion?”
 
 Venkata: “A non-occasion has occurred…”
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[DVG: A Life of Expansiveness, Confidence, Heartiness, Fuss, Food and Poetry 	Source: [prekshaa](https://www.prekshaa.in/article/dvg-life-expansiveness-confidence-heartiness-fuss-food-and-poetry)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 Spending five mirthful minutes with DVG was sufficient to make us forget the fatigue of undertaking four hours of brain-wracking work. In the overall reckoning, he had a habit of making a fuss about things.
 
@@ -1768,36 +1768,36 @@ This was the rule that DVG followed not just on stage but in everyday conversati
 
 Once Masti was delivering a discourse at the Gokhale Institute. In between, he quoted Bommera Potana’s famous verse, *bAla rasAla sAla navapallava* to elucidate the context. After reciting a couple of words, Masti himself felt that he was reciting it in a rather plain fashion. He looked at DVG seated next to him and said, “You recite it.” DVG recited the verse with extraordinary force, the entire hall reverberating his voice.
 
-<div>
+
 
   
 
 ------------------------------------------------------------------------
 
-<div id="edn1">
+
 
 [\[i\]](#_ednref1) The line ending with “Partha” is drawn verbatim from Kumaravyasa’s *Karnatabharatakathamanjari.* Partha is another name for Arjuna.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[The Parivrajaka Heart of DVG: The Luminous Inner Life of a Wandering Mendicant	Source: [prekshaa](https://www.prekshaa.in/article/parivrajaka-heart-dvg-luminous-inner-life-wandering-mendicant)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 ## Luminous Personality
 
@@ -1837,20 +1837,20 @@ It was the aforementioned verse that was greatly dear to V.C. He would constantl
 
 \*\*\* 
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[The Grief of DVG that Never Lost its Edge: Conclusion	Source: [prekshaa](https://www.prekshaa.in/article/grief-dvg-never-lost-its-edge-conclusion)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 ## Magnanimity
 
@@ -1911,24 +1911,24 @@ One is reminded of the poet Thomas Campion’s lines while dwelling upon the men
 
 *Concluded*
 
-<div>
+
 
   
 
 ------------------------------------------------------------------------
 
-<div id="edn1">
+
 
 [\[i\]](#_ednref1) Brahmagiri is a lush and thickly forested mountain in Coorg
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+

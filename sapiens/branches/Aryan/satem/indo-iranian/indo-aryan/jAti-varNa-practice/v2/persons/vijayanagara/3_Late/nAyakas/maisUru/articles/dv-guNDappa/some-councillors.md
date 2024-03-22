@@ -7,11 +7,11 @@ title = "Some Councillors - "
 ## Some Councillors - Part 1
 [[Some Councillors - Part 1	Source: [prekshaa](https://www.prekshaa.in/some-councillors-part-1)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 Purna Krishna Rao was a councillor during the era of Dewan Rangacharlu. He was the very first councillor from Mysuru.
 
@@ -61,27 +61,27 @@ Chandrashekhara Iyer was also a Sanskrit scholar. So also, he was a scholar in M
 
 Abdul Rahman Sahib was a Deputy Commissioner and later a councillor and colleague to Sir. K Sheshadri Iyer. I have heard from others that he was of an untainted character, sympathetic and cultured man. During his time, he was well received by the citizens and by the administrative class and held in high regard.
 
-<div>
+
 
 ***This is the first part of the translation of the twenty-eighth essay in D V Gundappa’s magnum-opus Jnapakachitrashaale (Volume 8) – Samkirna Smrti Samputa.***
 
-</div>
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 
 ## Some Councillors - Part 2
 [[Some Councillors - Part 2	Source: [prekshaa](https://www.prekshaa.in/some-councillors-part-2)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 ### Rangaswamy Iyengar
 
@@ -133,18 +133,18 @@ Narasinga Rao was helped by B. Rameshwarayya, a teacher at the Mysuru Wesleyan M
 
 D. M. Narasinga Rao rose through the ranks and was promoted from Deputy Secretary to General Secretary. After continuing in that position for a year, he saw an opportunity in the princely State of Nabha. The Indian Government was dissatisfied in its relationship with Maharaja Ripudaman Singh, the ruler of Nabha. The Maharaja deliberated that in the dispute that arose between him and the Indian Government, he could avail the services of a legal expert and clever problem-solver. At the Maharaja’s invitation, D. M. Narasinga Rao retired from service in Mysuru and departed for Nabha. The events which transpired thereafter are not in the scope of our consideration.
 
-<div>
+
 
 ***This is the final part of the translation of the twenty-eighth essay in D V Gundappa’s magnum-opus Jnapakachitrashaale (Volume 8) – Samkirna Smrti Samputa.***
 
-</div>
+
 
 ##### **Footnotes**
 
 [^(^(\[1\]))](#sdfootnote1anc)Singing devotional verses/songs that extol the various deities..
 
-</div>
 
-</div>
 
-</div>
+
+
+

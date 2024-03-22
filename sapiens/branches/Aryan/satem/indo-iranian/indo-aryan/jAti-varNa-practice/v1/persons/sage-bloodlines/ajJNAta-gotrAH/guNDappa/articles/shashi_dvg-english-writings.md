@@ -6,11 +6,11 @@ Source: [prekshaa series](https://www.prekshaa.in/archive?field_preksha_series_t
 
 [[Sri D.V. Gundappa’s Essays on the Ramayana: An Introduction	Source: [prekshaa](https://www.prekshaa.in/article/sri-dv-gundappa%E2%80%99s-essays-ramayana-introduction)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 **Note**: This is the first part of a new series of an English translation of D.V. Gundappa’s essays on the Ramayana written in Kannada. These essays are originally the forewords that DVG wrote for the volumes of the magnificent Kannada translation of Valmiki’s *Srimad Ramayana*, undertaken by the late Vidwan Sri Ranganatha Sarma. They have been compiled and included in the complete works of DVG titled, *DVG Kruti Shreni*.
 
@@ -60,20 +60,20 @@ Our ancient Masters have engaged in elaborate and extraordinary contemplation on
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[Srimad Ramayana is the Inner Evidence of Our Heart	Source: [prekshaa](https://www.prekshaa.in/article/srimad-ramayana-inner-evidence-our-heart)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 When we say “human,” it also means “mind.” When we mean mind, it means worries and joys. When these worries and joys overflow in words, it becomes poetry. Because the human, the mind and words are always glued together, the older the human is in this world, the older is poetry. All races and languages in the world have been endowed with poetic literature proportional to the refinement in its respective learning. The chief feature that can be noticed in all such literature is “Rasa.” Rasa means the taste that one wants (rasa āsvādana snehanayoh – that which one wants to savour; that which is likeable). It is the Six Rasas in food. It is the Rasa in music. It is the sport of lovers. It is the Rasa of compassion that does not exist in cruel people and that which exists in people rooted in Dharma.
 
@@ -116,20 +116,20 @@ The student of poetry and literature finds an opportunity to observe two importa
 
 Is it actually true that Ravana was endowed with ten heads? We can’t really say that we don’t believe this unless his photograph is shown. As far as the Ramayana is concerned, we must believe that Ravana indeed had ten heads. In poetry, the external fact is unimportant compared with the inner suggestion. Externality is merely a symbol. Ravana was extremely strong and supremely valourous – this is the essence the poet conveys. The ten heads is the device to suggest it. Here, ten does not mean nine plus one or eleven minus one. What needs to be grasped is this: Ravana alone was endowed with the combined strength of four or six ordinary people. In this manner, if we don’t grasp this inner essence of external incidents and features, Ravana’s ten-headed attribute, the conversation of Hanuman, his leaping over the ocean: the incongruities of such incidents will become greater and the poem will be lost to our inner experience. Those who wish to approach a *Mahakavya* must do so in a spirit of a baby approaching its mother. The Poetic Mother will not bless those people who do not possess such feelings of non-pretence, non-distrust, suspension of logic, and innate faith. 
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[An Honest Study of Srimad Ramayana is the Key to Understand the Veda	Source: [prekshaa](https://www.prekshaa.in/article/honest-study-srimad-ramayana-key-understand-veda)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 Even in the matter of understanding the meaning of words, one must keep the vision of the poet in mind first and then apply the sentence accordingly. The feats of cleverness in exposition and commentary that forgets this poetic vision will contribute to the destruction of Rasa. In his enthusiasm to narrate a story, the poet will pour words and sentences in a heap. He does not have the time or tenacity to carefully weigh the usage possibilities of each word. If he takes a break, the creative passion and heat would perhaps go cold. In the work of composing poetry, the aspect of speed is not only inevitable but desirable. In the force of its flow, we don’t really need to rip apart each letter and examine it separately. This is the drawback and failing that we notice in several commentators. Excessive cleverness leads to the loss of savouring Rasa. A commentary must enhance our enjoyment of Rasa and not destroy it. The logician must not assault the poet.
 
@@ -149,20 +149,20 @@ The various characteristic features of poetry are abundantly available in the Ve
 
 The Vedas should be analysed and understood with the help of Itihasa and Purana. It seems that the Veda gets frightened that someone who doesn’t have the poetic experience will beat it! This means the person who wishes to accurately and comprehensively understand the Veda must necessarily earn the knowledge of the world. The method and path to gain worldly experience and worldly knowledge is good poetry. To the person who understands the secrets of life in this mortal world through an honest study of Srimad Ramayana, the meaning of the Veda will be easily available to him.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[Sri Ramachandra: Deity by Day, Guru by Noon and Parabrahma by Night	Source: [prekshaa](https://www.prekshaa.in/article/sri-ramachandra-deity-day-guru-noon-and-parabrahma-night)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 ## Two Perspectives
 
@@ -253,20 +253,20 @@ In which language did Valmiki and Narada speak? If it was in Sanskrit, then the 
 
 We can regard this as a mere story and take leave from it at this point.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[Introducing the Balakanda: Valmiki's Renowned Curse	Source: [prekshaa](https://www.prekshaa.in/article/introducing-balakanda-valmikis-renowned-curse)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 The method of the Western researchers is to put in extraordinary efforts to delve into the details of the poet’s time and place. For us, the poetry and not the poet, is more important. We need the poet because of the poetry and not the poetry because of the poet.
 
@@ -334,20 +334,20 @@ What kind of a curse is this? Is this world everlasting for only innocent people
 
 This is an artificial verse—composed with a view to imply two meanings. The first meaning is to curse the hunter. The second meaning is as follows: “Hey cruel Ravana! You have kidnapped one among the Sita and Rama couple who are verily the incarnations of Mahalakshmi and Vishnu. Therefore, may you quickly be subjected to death.” Commentators have argued that the poet’s intent was to indicate the theme of the story in this fashion. 
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[Maharshi Vishwamitra Trains Sri Ramachandra	Source: [prekshaa](https://www.prekshaa.in/article/maharshi-vishwamitra-trains-sri-ramachandra)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 *āśīrnamaskriyā vastunirdeśo vā ॥* (Dandin: *Kavyadarsha*)
 
@@ -386,20 +386,20 @@ Devendra \[or Indra\] was a resplendent personality but a lustful person. One ca
 
 What Sri Ramachandra needed was not textbook lessons but knowledge of the world, practice of distinguishing the appropriate and the inappropriate, felicity of understanding the nuances of Dharma, self-confidence, and respect for his own duties in this world. Vishwamitra’s narratives and stories helped cultivate and nuture these qualities within Sri Rama. The boy Rama’s travels to various countries with Vishwamitra strengthened his body, perfected his prowess in archery, blossomed his mind, and sharpened his intellect. Likewise, Vishwamitra gained confidence in Rama’s ability and competence to discharge the weighty duties of an enlightened life. 
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[The Ayodhya Kanda as a Harbinger of an Entire Tradition of Nobleness	Source: [prekshaa](https://www.prekshaa.in/article/ayodhya-kanda-harbinger-entire-tradition-nobleness)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 Around this time, King Janaka in Mithila was making arrangements to find a suitable groom for his daughter. It was Vishwamitra’s futuristic vision that sensed the capacity for forging a long lasting and inseparable relationship between Dasharatha and Janaka. Those who recall the episodes of Rambha and Menaka in Vishwamitra’s life must also not forget the fact that it was the same Vishwamitra who mediated the marriage of Sita Devi and Sri Rama. Likewise, it was solely due to Vishwamitra’s guidance that Ahalya obtained liberation from her curse when she met Sri Rama. Shatananda, the son of this wife of Rishi Gautama, was the Purohita of Maharaja Janaka. We must not forget also, that it was Shatananda who officiated the marriage of Sita Devi and Sri Ramachandra. In this way, everything culminates in auspiciousness.
 
@@ -429,20 +429,20 @@ Maharshi Valmiki’s writing appears simple on the surface. His words are derive
 
 In the episode of denying the coronation of Sri Rama in the *Ayodhyakanda* (*Sarga 8,9*), the conversation between Manthara and Kaikeyi is noteworthy. Here, Valmiki makes us laugh uproariously. Kaikeyi did not initially like Manthara. Then, Manthara provokes Kaikeyi’s selfishness. It is at this point that torrents of praise flood forth from Kaikeyi’s mouth regarding Manthara. This is followed by heartless and heart-tugging events: the conversation between Dasharatha and Sri Rama, the sorrow of Kausalya and Sumitra, Lakshmana’s fury, Sri Rama’s equanimity, and Sita Devi’s unswerving, courageous fidelity to her husband…in short, an entire tradition of nobleness.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[Sri Rama's Renunciation and the Dharma of Giving a Promise	Source: [prekshaa](https://www.prekshaa.in/article/sri-ramas-renunciation-and-dharma-giving-promise)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 The story of the *Ayodhyakanda* begins during the time after Sri Ramachandra returns to Ayodhya with Sita Devi from Mithila and the couple spend several days in happiness.
 
@@ -479,20 +479,20 @@ It is true that Dasharatha had given his word to Kaikeyi. However, how just was 
 
 All such logical questions become relevant in this context. However, Sri Rama needed none of them. Sri Rama had no need to question the justifiability or otherwise of Dasharatha’s promise to Kaikeyi. Had he possessed even an iota of the desire to get the kingdom, he would have begun searching for reasons for a dispute. He had absolutely no such desire to begin with. Within himself, it was as though Sri Rama had decided that exile in the forest rather than ruling the kingdom was far more preferable. The manner in which Sri Rama had already prepared for the exile and conducted himself with great enthusiasm gives us this impression. Preparation for sacrifice was his response to that dire question that faced him in that circumstance.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[The Five Warriors of Renunciation in Srimad Ramayana	Source: [prekshaa](https://www.prekshaa.in/article/five-warriors-renunciation-srimad-ramayana)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 Let’s consider another example. Sri Rama is in the forest. Dasharatha who is stricken with sorrow at the separation from his son, is lamenting with his queens:
 
@@ -548,20 +548,20 @@ pratyakṣaṃ mama maithili ।
 prītiṃ janaya me vatse  
 divyālaṃkāra śobhitā ॥*
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[Aranyakanda: The Hub of the Wheel of Srimad Ramayana	Source: [prekshaa](https://www.prekshaa.in/article/aranyakanda-hub-wheel-srimad-ramayana)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 *maharṣiśuśrūśāsaktam tadvairidhvaṃsanodyatam ।  
 jānakīvihārtam śrīrāmaṃ naumi salakṣmaṇaṃ ॥*
@@ -613,20 +613,20 @@ Let the bribe-takers and the black marketeers tap their own shoulders in their o
 
 Later, when Sri Ramachandra goes to the ashram of Agastya, the conversations that ensue there are really splendid.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[Shurpanakha and Maricha: The Germination of Ravana's Enmity	Source: [prekshaa](https://www.prekshaa.in/article/shurpanakha-and-maricha-germination-ravanas-enmity)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 According to Agastya’s instructions, when Sri Rama goes and resides in Panchavati, the major events in the story occur there. Shurpanakha sees Sri Rama, becomes infatuated with him, approaches him and pleads with him, “become my husband.” As Rama rejects her proposal, he makes fun of her.
 
@@ -690,20 +690,20 @@ However, Marciha’s conviction in Dharma was not as sturdy as that of Vibhishan
 
 There is an interesting aspect to his name. The word “Marīca” means sunray. When the sunray touches the sandy expanse of a desert, it appears as a lake or river to people who see it from afar. This is known as the mirage or *Marīcaka*. It is plainly an illusion or hallucination. Therefore, the meaning of the word “Mārīca” is, that which generates an illusion or is an apparition. Perhaps Valmiki Maharshi kept this meaning of *Mārīcikā* in his mind while creating this character.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[Invoking Sita Devi's Name is Catharsis of the Heart	Source: [prekshaa](https://www.prekshaa.in/article/invoking-sita-devis-name-catharsis-heart)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 In the realm of Advaita Vedanta, the term *Maya* has a popular analogy with Mārīcikā.
 
@@ -751,8 +751,8 @@ It is already said that in compassion, there is an innate feeling of oneness in 
 
 *Concluded*
 
-</div>
 
-</div>
 
-</div>
+
+
+

@@ -6,11 +6,11 @@ Source: [prekshaa series](https://www.prekshaa.in/archive?field_preksha_series_t
 
 [[Introduction to the Life and Legacy of D V Gundappa	Source: [prekshaa](https://www.prekshaa.in/introduction-life-and-legacy-d-v-gundappa)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 ಅಸಮದಲಿ ಸಮತೆಯನು ವಿಷಮದಲಿ ಮೈತ್ರಿಯನು ।  
 ಅಸಮಂಜಸದಿ ಸಮನ್ವಯ ಸೂತ್ರ ನಯವ ॥  
@@ -48,27 +48,27 @@ Given this expansive scope, one can regard the legacy of **DVG** from the three-
     philosopher 2.  **Litterateur**: as a poet, dramatist, writer, translator and author 3.  **Philosopher**: as a commentator on the Upanishads, Bhagavad Gita
     and other philosophical lore.
 
-<div style="width: 390px;display:block;margin:0 auto;">
 
-<div class="media media-element-container media-full">
 
-<div id="file-7516" class="file file-image file-image-jpeg">
+
+
+
 
 ## [dvg-hampi-300x184_1.jpeg](/file/dvg-hampi-300x1841jpeg)
 
-<div class="content">
+
 
 ![](https://www.prekshaa.in/sites/prekshaa.in/files/wp-content/uploads/2017/12/dvg-hampi-300x184_1.jpeg)
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 Hampi-Image courtesy:- Google Image search
 
-</div>
+
 
 **Bharata** has seen very few personalities who embodied all these facets as a unified whole both within themselves as well as reflected them in their life and work. In this, it is not farfetched to claim that DVG follows in the path set by **Maharshi Vidyaranya**, the iconic inspiration and spiritual founding father of the grand **Vijayanagara Empire**.
 
@@ -104,27 +104,27 @@ But most of these stalwarts, with due respect to their matchless contributions, 
 
 **DVG** charted a different but complementary course. He not only accomplished what the aforementioned eminences did in their respective realms but straddled their realms in a unifying sense. In a manner of speaking, he embellished their work with what’s known as the**Fulfilment of Life.**
 
-<div style="width: 370px;display:block;margin:0 auto;">
 
-<div class="media media-element-container media-full">
 
-<div id="file-7517" class="file file-image file-image-jpeg">
+
+
+
 
 ## [dvg_1.jpg](/file/dvg1jpg-0)
 
-<div class="content">
+
 
 ![](https://www.prekshaa.in/sites/prekshaa.in/files/wp-content/uploads/2017/12/dvg_1.jpg)
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 DVG-Image courtesy:- Google Image search
 
-</div>
+
 
 **DVG** never traveled widely. Much before India attained independence, this untiring conscience-keeper and **Yogi** of public life completely withdrew from it. Neither was his vision of public life based on the sort of dry theorizing that has become commonplace today. The following is a representative sample of this vision elucidated in his masterly *Rajya Shastra* (Political Philosophy), where avers
 [^1.2] that:
@@ -187,27 +187,27 @@ In today’s parlance, the moniker of “cultural conservative” would be appli
 
 Few have contributed as much as **DVG** to educating the Indian people about a new political system called democracy at a time when it was wholly alien to India. Equally, few have shown how this new system must be *adapted* to a nearly-unbroken and centuries'-long tradition of Indian polity as brilliantly as **DVG**. Like many other eminent statesmen and political thinkers of his time, *DVG repeatedly warned against the disasters of blindly following the Western (mainly, British) system of democracy.* The contemporary period is the living illustration of this warning which went unheeded.
 
-<div style="width: 368px;display:block;margin:0 auto;">
 
-<div class="media media-element-container media-full">
 
-<div id="file-7518" class="file file-image file-image-jpeg">
+
+
+
 
 ## [dvg-freedom-300x222_2.jpg](/file/dvg-freedom-300x2222jpg)
 
-<div class="content">
+
 
 ![](https://www.prekshaa.in/sites/prekshaa.in/files/wp-content/uploads/2017/12/dvg-freedom-300x222_2.jpg)
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 Image courtesy:- Google Image search
 
-</div>
+
 
 Indeed, **DVG’s** entire corpus of political writing was inextricably rooted in classical Indian thought. His classic, *Rajyanga Tattvagalu* (Principles of Statecraft) begins with the invocation from the *Taittirya Brahmana* of the **Yajur Veda** (the portion dealing with the **Ashwamedha Yaga**), which he fittingly titles as the “National Anthem of the Rishis.” It is this same spirit of the Rishis that moved DVG to pen *Swatantra Bharata Abhinandana Stava* (A Hymn Celebrating Independent Bharata) an extraordinary paneygric in verse on the night that **Bharata** finally attained freedom.
 
@@ -336,20 +336,20 @@ It is in light of this introductory backdrop that this modest attempt at bringin
 
 [^1.17]: Quoted in: D R Venkataramanan, *Virakta Rashtraka DVG* (Navakarnataka, 2014) Pg 113
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[The Political Philosophy of D V Gundappa: National Anthem of the Rishis	Source: [prekshaa](https://www.prekshaa.in/political-philosophy-d-v-gundappa-national-anthem-rishis)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 One of the **Kannada** literary giants of the twentieth century, **K V Puttappa (Kuvempu)** once classified
 [^2.1] literature as *Sakaala* (timely) and *Trikala* (timeless) literature. Given the innate nature of the medium, journalistic (news reports, opinion pieces, editorials, magazine essays) literature belongs to the former category. Yet, in the hands of masters, even this category of literature takes on a quality of timelessness. Instead of being buried under the proverbial sands of time, it becomes akin to fine and rare pearls which an intrepid diver unearths from the bottom of the ocean. **DVG** is one such master. In his characteristic self-effacing style, he supplies the contours
@@ -428,20 +428,20 @@ In other words, DVG’s conception of a strong India was an admixture of *Yoga* 
 
 [^2.6]: Can be explained as *puraMdhravyOshA Anaya = A woman (or wife) who works to protect*
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[The Political Philosophy of D V Gundappa: Strengthening the Inner Government	Source: [prekshaa](https://www.prekshaa.in/political-philosophy-d-v-gundappa-strengthening-inner-government)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 DVG’s conception of a strong and prosperous Bharata was a mixture of *Yoga* and *Kshema*; **Yoga** in the sense of having an opportunity to obtain something and **Kshema** in the sense of retaining and sustaining it safely.
 
@@ -466,27 +466,27 @@ In keeping with the ancient Indian spirit of all-inclusiveness, here is how DVG 
 
 Contrary to the notion of unlimited and unfettered freedom that Ayn Rand-inspired libertarians espouse today, DVG is firmly wedded to the reality of intrinsic human impulses and has a keen understanding of the realities and lessons of history.
 
-<div style="width: 335px;float:left;">
 
-<div class="media media-element-container media-full">
 
-<div id="file-7128" class="file file-image file-image-png">
+
+
+
 
 ## [Rousseau_2.png](/file/rousseau2png)
 
-<div class="content">
+
 
 ![Rousseau](https://www.prekshaa.in/sites/prekshaa.in/files/wp-content/uploads/2018/03/Rousseau_2.png)
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 Rousseau
 
-</div>
+
 
 Accordingly, DVG assigns the proper place to the notion of freedom, which he says, is of recent origin. In the era
 [^3.4] of kingdoms, “the notion of ‘ruler’ was greater than that of the ‘citizen.’” Just as wild animals were domesticated over centuries, just as conveniences like railways, bicycle, motor vehicles, and technology evolved over centuries, so did political systems evolve by trial and error and experimentation. Therefore, the political systems that were once largely the preserve of the warrior class evolved into a system of kings, ministers, councils and judges. In other words,
@@ -576,20 +576,20 @@ Let a person raise himself by his own efforts.*
 
 [^3.12]: *Ibid,* Pg 145
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[D V Gundappa's Critique of Western Notions of Political Philosophy 	Source: [prekshaa](https://www.prekshaa.in/article/d-v-gundappas-critique-western-notions-political-philosophy)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 At the individual level, the Bhagavad Gita’s dictum of *uddharedAtmanAtmAnam* (Let a person raise and purify himself by his own efforts) and its emphasis on *Svadharma* also means that one must rule oneself, which in turn means that the onus is upon the individual to constantly rectify himself. Hidden within these tenets is a call to discard one’s ego at every step. The opaque wall of ego blocks the sunlight of self-reflection required for the said rectification.
 
@@ -610,58 +610,58 @@ In this case, the unpredictable and disastrous consequence continues to remain t
 
 It need not be explicitly stated that DVG’s warning went unheeded. Quite obviously, the logical consequences of ignoring it emerged soon enough. The Justice Party movement in Tamil Nadu which began as an uprising for getting “social justice” for the downtrodden and the “lower castes,” quickly morphed into crude regionalism, which succeeded in capturing political power after Independence. This in turn raises fundamental questions about the manner in which we defined “independence,” as we shall see later. Equally, the aforementioned absolute concentration of all power in Delhi ensued in the same consequence: beginning in the late 1970s, the political system of India has devolved itself into a coarse hunger whose only satiation is the capture of power by any means: fair or foul but mostly foul as history shows us. Today, our political system resembles a veritable alphabet soup of regional political parties who openly boast that they are “fighting against the ‘*Delhi Government*’ to protect the interests of *our* people” as though Delhi is an alien, foreign Government. As ironic and tragic as it might sound, DVG’s foresight has rung true in a lived, nightmarish fashion to the peril of the unity and integrity of the Indian Sovereign State.
 
-<div>
+
 
 ## Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^4.1]: Dharampal: *Panchayat Raj And India’s Polity, Other India Press, 2000*. Pg 26. Emphases added.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^4.2]: *Ibid, Pp 31-32*
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^4.3]: *Ibid, Pp* 39-40. Emphasis added.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^4.4]: D V Gundappa: *Rajyashastra, Rajyanga—DVG Kruti Shreni*: *Volume 5* (Govt of Karnataka, 2013) Pp 185-6. Emphasis added.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[Backdrop of DVG's Political Philosophy	Source: [prekshaa](https://www.prekshaa.in/article/backdrop-dvgs-political-philosophy)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 But at the doctrinal level, this consequence is the direct outcome of imposing the selfsame untested *theory* of freedom, democracy, liberty and related ideas fashioned in the West on an entire people who had fashioned their lives for more than three millennia based on a thoroughly different political, cultural and social inheritance. In other words, an all-encompassing and far-reaching change was thrust upon the entire population of the seventh largest country in the world *without their consent.* Bharatavarsha continues to pay the human cost of this change. This Britain-inspired Constitution was castigated
 [^5.1] among others, by Thomas Paine—one of the founding fathers of the United States—in such acidic language as the “base remains of two ancient tyrannies.” Therefore, when the Constituent Assembly members averred
@@ -695,68 +695,68 @@ It will be most beneficial, useful and rewarding when we examine and study DVG�
 
 ### Notes:
 
-<div>
+
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 -   *Thomas Paine:* Common Sense: Of the Origin and Design of Government
     in General, with Concise Remarks on the English Constitution
 
-</div>
 
-<div id="ftn2">
+
+
 
 -   D V Gundappa: *Rajyashastra, Rajyanga—DVG Kruti Shreni*: *Volume 5*
     (Govt of Karnataka, 2013) Pp 150.
 
-</div>
 
-<div id="ftn4">
+
+
 
 -   *Ibid* Pp 176.
 
-</div>
 
-<div id="ftn5">
+
+
 
 -   *Ibid* Pg 177. -   *Ibid*
 
-</div>
 
-<div id="ftn7">
+
+
 
 -   *Ibid*
 
-</div>
 
-<div id="ftn8">
+
+
 
 -   D V Gundappa: *Jnapaka Chitrashale: Vaidikadharma Sampradaayastharu:
     DVG Kruti Shreni*: *Volume 8: Nenapina Chitragalu – 2:* (Govt of
     Karnataka, 2013). *Upasamhara.* Emphasis added. 
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG and the Freedom Struggle	Source: [prekshaa](https://www.prekshaa.in/article/dvg-and-freedom-struggle)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 Writing just four years after India attained independence, DVG characterizes
 [^6.1] our freedom from British rule as a “fruit” endowed with a “sour taste.” But more bluntly,
@@ -801,34 +801,34 @@ Especially in an alien system like electoral democracy, where
 
 ### Notes
 
-<div>
 
-<div id="ftn1">
+
+
 
 1.  D V Gundappa: *Rajyashastra, Rajyanga—DVG Kruti Shreni*: *Volume 5*
     (Govt of Karnataka, 2013) Pp 560. Emphasis added.
 2.  *Ibid. Pp. 180* 3.  *Ibid p. 181.* Verse quoted in the original 4.  *Ibid p.127* 5.  *Ibid* 6.  *Ibid Pp. 267.* Emphasis added. 7.  *Ibid Pp. 176-7* 8.  *Ibid. Pp. 192* 9.  *Ibid. Pp. 180. Emphasis added.*
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DV Gundappa's Conception of an Ideal Statesman 	Source: [prekshaa](https://www.prekshaa.in/article/dv-gundappas-conception-ideal-statesman)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 The insights of the sort DVG possessed emanated precisely from this deep understanding of philosophy, or more accurately, his *realization of Darshana*. In other words, when we grasp the nature of the world characterized by name and form (*nAma-rUpa*), we develop what is known as the t*ara-tama vivEka—*wisdom to grade worldly events and phenomena. In his own
 [^7.1] words,
@@ -871,43 +871,43 @@ To the post-industrial and technology-driven sensibilities of the contemporary w
 
 ### Notes
 
-<div>
+
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 1.  *Ibid Pp. 176-7* 2.  *Ibid. Pp. 192* 3.  *Ibid. Pp. 180. Emphasis added.* 4.  *Ibid. p.554.* Emphasis added. 5.  D V Gundappa: *DVG Kruti Shreni*: *Volume 1: Vicara, Vimarshe:
     Sahitya Shakti* (Govt of Karnataka, 2013). pp.192, 199. 6.  See, for example, the discussions on pp. 152-3; 182-6. D V Gundappa:
     *Rajyashastra, Rajyanga—DVG Kruti Shreni*: *Volume 5* (Govt of
     Karnataka, 2013).
 
-</div>
-
-<div id="ftn6">
 
 
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
+
+
+
 
 
 [[D.V. Gundappa's Vision and Ideal of Rama Rajya 	Source: [prekshaa](https://www.prekshaa.in/article/dv-gundappas-vision-and-ideal-rama-rajya)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 *Every creature felt happy. Everybody was intent on \[performing\] Dharma. Turning their eyes towards Rama alone, creatures did not kill \[or inflict violence upon\] one another.*
 
@@ -951,7 +951,7 @@ To be continued
 
 ### Notes
 
-<div>
+
 
 1.  Valmiki: *Ramayana: Yuddha Kanda*: 131. Verses: 100, 102, 104, 105 2.  Yuga is an epoch or an era in within a four-age cycle which repeats.
     These four are: Krita (Satya), Treta, Dwapara and Kali. 3.  D V Gundappa: *Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5
@@ -961,24 +961,24 @@ To be continued
     Perfection (Prekshaa Pratishtana and W.I.S.E. WORDS, Reprint 2018)*
     p50
 
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 
 [[Rama Rajya : The Crown-Jewel and an Attainable Truth	Source: [prekshaa](https://www.prekshaa.in/article/rama-rajya-crown-jewel-and-attainable-truth)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 DVG’s essay titled *Rama Rajya *is the fitting finale and the crowning glory of his monumental, semi-academic work, *Rajyashastra[**\[1\]**](#_ftn1)* (Statecraft/Politics) meant for a general audience. This essay touches the upper echelons of pure political philosophy akin to the precision of the tip of a finely-sharpened pencil.
 
@@ -1017,74 +1017,74 @@ The truth of this caution and the analysis made by DVG of the aforementioned pit
 
 The reason behind this electoral promise of bringing *Rama Rajya *is no secret: it was a blind, templatesque parroting of Mohandas Karamchand Gandhi’s declared notion and dream of bringing a *Rama Rajya* in India.
 
-<div>
+
 
 ### Notes
 
-<div id="ftn1">
+
 
 -   See Chapter 1 for a brief discussion of Rajyashastra.
 
-</div>
 
-<div id="ftn2">
+
+
 
 -   See also: the highly-elevating discussion beginning at para 4 on p.
     315 through para 2 on p. 316: D V Gundappa: *Rajyashastra,
     Rajyanga—DVG Kruti Shreni: Volume 5* *(Govt of Karnataka, 2013)*
 
-</div>
 
-<div id="ftn3">
+
+
 
 -   D V Gundappa: *Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5
     (Govt of Karnataka, 2013)* p. 315
 
-</div>
 
-<div id="ftn4">
+
+
 
 -   D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5
     (Govt of Karnataka, 2013) p. 311
 
-</div>
 
-<div id="ftn5">
+
+
 
 -   *Ibid*.
 
-</div>
 
-<div id="ftn6">
+
+
 
 -   *Ibid*. p. 316. Emphasis added.
 
-</div>
 
-<div id="ftn7">
+
+
 
 -   *Ibid*. p. 313
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[Mohandas Karamchand Gandhi and D V Gundappa: A Yawning Contrast	Source: [prekshaa](https://www.prekshaa.in/article/mohandas-karamchand-gandhi-and-d-v-gundappa-yawning-contrast)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 Any discussion about *Rama Rajya* in the context of the previous century of India’s history will be incomplete without objectively examining the role of Mohandas Karamchand Gandhi. In the present context, this examination becomes more crucial for significant reasons.
 
@@ -1112,9 +1112,9 @@ In his rebuttal, DVG termed Mohandas Gandhi’s reaction as hasty, unfortunate a
 
 ### Notes
 
-<div>
 
-<div id="ftn1">
+
+
 
 1.  R.C. Majumdar: *Preface: History of the Freedom Movement in India:
     Vol 3* *(Firma K.L. Mukhopadhyay)* Pp xv, xviii. Emphasis added. 2.  DV Gundappa: *Vruttapatrike* 3.  K. Veerathappa: *“Dewan Mirza Ismail and Mysore
@@ -1122,26 +1122,26 @@ In his rebuttal, DVG termed Mohandas Gandhi’s reaction as hasty, unfortunate a
     1979*, pp. 653–661 4.  *Vidurashwatha: Jallianwala Bagh of Karnataka.* Retrieved from
     <http://vifreeindia.com/history/>
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's Traditional Wisdom and Gandhi's Whimsical Leadership	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-traditional-wisdom-and-gandhis-whimsical-leadership)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 Drawing from history, DVG
 [^11.1] says,
@@ -1181,7 +1181,7 @@ Gandhi’s *Rama Rajya* and indeed, his devotion towards revered heroes like Har
 [^11.10] “leisure for the cultivation of the mind and the spirit” in the “minimal requisites” of a robust and healthy state. DVG’s *Rama Rajya* admits the critical questioning of even Rama, and firmly declaims against narrow sentimentalists
 [^11.11] in public life.
 
-<div>
+
 
 ### Notes
 
@@ -1203,24 +1203,24 @@ Gandhi’s *Rama Rajya* and indeed, his devotion towards revered heroes like Har
     instructive in the context of DVG’s ideal and goal of Rama Rajya. 
     
 
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
 
 
 [[DVG's Rama Rajya is the Original Genius of Bharatavarsha	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-rama-rajya-original-genius-bharatavarsha)]]
 
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even" property="content:encoded">
+
+
+
 
 The mirage-like *Rama Rajya* of Mohandas Gandhi at a very fundamental level of ethics essentially must rest on untruths. This is not to imply that Gandhi deliberately spoke untruths but his claims such as *Sarvadharmasamabhava* (equal validity of all religions), “Ram and Rahim are the same,” and *Ishwar Allah tere naam* are demonstrably false and are therefore lethal in practice. How for example, is it possible to have a *Rama Rajya* in a kingdom peopled with religious diktats that explicitly call Rama a false god that needs to be destroyed because the whole world belongs to Allah? This is the same false equivalence that we find in the mischievous meaning attributed to the Vedic verse
 [^12.1], *ekam sat viprā bahudhā vadanti,* again an outcome of Gandhian misappropriation. This is also another fundamental reason that supports the claim that Gandhi’s *Rama Rajya* does not admit Dharma in the true sense.
@@ -1241,13 +1241,13 @@ From the same discussion, we can clearly see the truth in the great insight of D
 
 The travesty of post-1947 India is that Gandhi’s *Rama Rajya* like the loosely-held planks of an attic floor, gave way to an indeterminate being called secularism whose very first victim was Mohandas Karamchand Gandhi himself. 
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 1.  The complete verse is as follows:  
     *indraṃ mitraṃ varuṇamagnimāhuratho divyaḥ sa suparṇo garutmān।  
@@ -1262,26 +1262,26 @@ The travesty of post-1947 India is that Gandhi’s *Rama Rajya* like the loosely
     worldly duties such as administering a Kingdom. 3.  Ref: Shatavadhani Dr. R Ganesh: *Bharatiya Kshatra Parampare
     (Rashtrotthana Sahtiya, Bangalore, 2016)*
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[D.V.G: The Adhvaryu of Political Literature in Kannada	Source: [prekshaa](https://www.prekshaa.in/article/dvg-adhvaryu-political-literature-kannada)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 A common refrain in the twenty-two chapters and forty-four essays in DVG’s *Rajyashastra* and *Rajyanga* is the natural ease, the practiced manner and legerdemain aptness with which DVG quotes from a wide range of ancient Indian texts including but not limited to the *Arthashastra*, the Vedas, *Kavya* (literature), philosophical treatises (by Adi Sankara, Vidyaranya et al) and Dharmashastras (*Manusmriti, Kamandaka*, et al). DVG was only adhering to the timeless Santana tradition
 [^13.1] he treasured so much, “of making any affirmations for which authority could be cited by chapter and verse…and deprecated the contemporary mania for personalism.”
@@ -1328,80 +1328,80 @@ Yet, he was not blind to harsh realities of the past and present, and reserved h
 
 This among others is why we notice that other singular quality in all his political, journalistic and literary writing: an earnest longing to infuse conduct, character, vigour and verve among the Indian people. DVG led a frontal crusade against sloth, inertia and indolence in public life.
 
-<div>
 
-<div id="ftn1">
+
+
 
 ### Notes
 
-</div>
 
-</div>
 
-<div>
+
+
+
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^13.1]: Aldous Huxley: The Perennial Philosophy
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^13.2]:For the full discussion, see: D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) pp 7-8
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^13.3]: D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) pp 100-101.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^13.4]: The Chennai Jana Sangham was stewarded at various points by the doughty freedom fighter, advocate and shipping magnate, V.O. Chidambaram Pillai who had to suffer grievously at the hands of the British for daring to wreck their maritime trade exploitation of the Indian seas.
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^13.5]: Selected Writings of D.V. Gundappa Volume One (1908-1917): Vedanta and Nationalism (Gokhale Institute of Public Affairs, Bangalore, 2019) pp 34-37; See also: D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) p 267
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^13.6]: Saul Bellow: How Higher Education Has Failed Democracy and Impoverished the Souls of Today's Students (Simon & Schuster, New York, 1988) p. 12
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[Sri Vidyaranya Swami as a Perennial Inspiration of DVG	Source: [prekshaa](https://www.prekshaa.in/article/sri-vidyaranya-swami-perennial-inspiration-dvg)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 DVG frankly reveals the pitfalls of our history and the boundaries of tradition even while he expounds on the deeper nuances of Sanatana Dharma and the trajectory
 [^14.1] of its customs and practices.
@@ -1468,121 +1468,121 @@ This certainly reminds us of Plato’s ideal philosopher-king because the eterna
 
 *If* \[political leaders\] *lack detachment and philosophical wisdom, the fate of the country that they rule will be akin to that of a ship which is manned by a drunkard and is caught in a storm mid-sea.*
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^14.1]:D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013): Episode 1: Purvacharitreya Rupada Pithike: pp 11-18
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^14.2]: D V Gundappa: Jivana Charitre, Makkala Sahitya—DVG Kruti Shreni: Volume 4 (Govt of Karnataka, 2013) p 486
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^14.3]: D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013): p 267
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^14.4]: In guidance provided to the author
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^14.5]: Debt owed to one’s ancestors.
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^14.6]: D V Gundappa: Jivana Charitre, Makkala Sahitya—DVG Kruti Shreni: Volume 4 (Govt of Karnataka, 2013) p 260.
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^14.7]: It is difficult to give a precise meaning for this term. It may be translated as “welfare of the world.”
 
-</div>
 
-<div id="ftn8">
+
+
 
 
 [^14.8]: Rejuvenation of Dharma
 
-</div>
 
-<div id="ftn9">
+
+
 
 
 [^14.9]: M. Hiriyanna: The Quest After Perfection – The Message of Indian Philosophy (Kavyalaya Publishers, Mysore, 2000) pp 47, 53)
 
-</div>
 
-<div id="ftn10">
+
+
 
 
 [^14.10]: See the first chapter of this work for a fuller description.
 
-</div>
 
-<div id="ftn11">
+
+
 
 
 [^14.11]: D V Gundappa: Jivana Charitre, Makkala Sahitya—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) pp 188-9
 
-</div>
 
-<div id="ftn12">
+
+
 
 
 [^14.12]: Small to medium sized dried twigs
 
-</div>
 
-<div id="ftn13">
+
+
 
 
 [^14.13]: D V Gundappa: Jivana Charitre, Makkala Sahitya—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) pp 189
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's Meditations on the Training for Swarajya and Surajya	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-meditations-training-swarajya-and-surajya)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 > *sarakāra harigolu, teresuḻigaḻattitta* *।  
 > sure* *kuḍidavaru kelaru huṭṭu hākuvaru* *॥  
@@ -1624,46 +1624,46 @@ DVG rounds off this exposition with a beautiful application of a timeless Sanata
 > No matter how materially poor it is,  
 > It is the only way that is deserving of respect.*
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^15.1]: D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) pp 442
 
 
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^15.2]: D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) p 443
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's Exposition of the Primacy of the Individual in the National Life	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-exposition-primacy-individual-national-life)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 DVG was perhaps unique among the giants of his age who achieved a harmonious blend between the primacy of the individual in the realms of his spiritual, social and national life as conceived by the Sanatana tradition and as theorized by Western ideas. That spotless scholar Dr. S. Srikanta Sastri provides a fine exposition
 [^16.1] of this Indian conception of the individual:
@@ -1701,86 +1701,86 @@ DVG’s brilliant insights into the operation of the fundamental impulses of *Ar
 An ideal or optimum mix of these qualities is what infuses Dharma, and Dharma is incomplete sans Satya (Truth). However, the practical implication of ascertaining truth especially in public life is “not easy” because it is “scattered as pieces in various places. If we need to look at its wholesome and integrated form, we need to locate the places where it has been spread.” We are reminded of the superb line from one of his verses
 [^16.8] in *Mankutimmana Kagga:* manujaroḻagāgāga torpa mahanīyaguṇa (the noble qualities within people that come to the surface from time to time). DVG advocates that in public life, politics and government, this ability to spot virtue and nobleness (both are attributes of truth) is what needs to be cultivated and kept in constant practice. This is also the reason DVG repeatedly stresses that traditions and customs that have endured among the people from a dateless era must be maintained intact and must not be tampered with at any cost because their longevity is itself a proof of their innate value.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^16.1]: S. Srikanta Sastri: Bharatiya Samskruti: (Kamadhenu Publishers, 2015), pp 19-20 
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^16.2]: D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) p 302
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^16.3]: D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) pp xx-xxi
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^16.4]: Dheemanta —Rasarushi DVG (Gokhale Institute of Public Affairs, 1988) p 222
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^16.5]: D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) pp 312
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^16.6]:D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) p 304
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^16.7]: D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) p 303
 
-</div>
 
-<div id="ftn8">
+
+
 
 
 [^16.8]: Mankutimmana Kagga: Verse 59
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's Entry into the Rough and Tumble of Political Life	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-entry-rough-and-tumble-political-life)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 sāsirada yukti sāhasava nīnesagutiru ।  
 lesu phala doreye ninnella pauruṣakaṃ ॥  
@@ -1847,51 +1847,51 @@ That was the beginning of a long and fruitful association of two titans, a relat
 
 DVG’s appointment to the Municipality immediately, directly thrust him into the swampy waters of political life at that level. Diwan Visvesvaraya had indeed chosen well. DVG proved more than worthy to the task. In 1916, DVG initiated and then published the first *Bangalore City Municipal Bulletin,* an official newspaper of the Municipality. It had the full backing of the Diwan. However, it would prove to be short-lived. As Member, DVG’s debates in the Council were imbued with the strength of knowledge, impeccable logic, and his criticisms spared none. As Visvesvaraya had foreseen, DVG also got a firsthand experience of the kind of politics in these government bodies and the character and qualifications of the people that inhabited them. In numerous essays in his *Rajyashastra, Rajyangatattvagalu* and other scattered writings, he recounts several anecdotes from the Council meetings, a beautiful mixture of the sublime, the ludicrous, the hilarious and the shocking. His column titled *Bangalore Municipal Politics* published in *The Hindu,* 21 September 1927 is worth reading even today.
 
-<div>
+
 
 **Notes**  
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^17.1]: Later renamed as Bangalore City Corporation. Currently, Bruhat Bengaluru Mahanagara Palike.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^17.2]: The Town Hall, a landmark in Bangalore is named after him.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^17.3]: Now Krishnarajendra Market or K.R. Market
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[The Abiding Inspiration of Gopal Krishna Gokhale	Source: [prekshaa](https://www.prekshaa.in/article/abiding-inspiration-gopal-krishna-gokhale)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 **Enter Gopala Krishna Gokhale**
 
@@ -1966,20 +1966,20 @@ In one stroke, Diwan Mirza Ismail had hurled DVG directly into the whirlpool of 
 > If you seek happiness in the ever-fickle human nature  
 > How can you ever find its true source?" – Mankutimma
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[DVG's Eightfold Pledge in Public Life	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-eightfold-pledge-public-life)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 The warden of Socrates’ prison is a great and enduring metaphor for several reasons. For one, when Socrates’ wealthy friend Crito says he can bribe the prison guards to help him escape an unjust punishment, Socrates refuses purely on moral grounds thereby setting a personal example. His self-sacrifice is perhaps his way of shaming the state of Athens itself. On another plane, as he tells Crito, submitting himself voluntarily to unjust laws instead of inciting a revolt also shows that Socrates valued maintaining social order and cohesion. It is not a coincidence that the Crito episode became and still remains a foundational topic in the philosophy of law. At any rate, the Socratic metaphor also stands for the truism that the world has rarely heeded the sage advice of wise men and women since eons and in some cases, has killed them because of their wisdom.
 
@@ -2064,37 +2064,37 @@ DVG’s voluntary embrace of poverty might sound rather extreme by today’s wat
 Of all the wealth you accumulate, how much can you actually use?  
 Just a handful of flour is all you can use - Mankutimma* ॥ 677 ॥
 
-<div>
+
 
 **Notes**  
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^19.1]: D.V. Gundappa: Hrudaya Sampannaru: Jnapaka Chitrashaale (Govt of Karnataka, 2013)
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG as the Ideal Legislator: A Legacy of 14 Years as Member of the Mysore Legislative Council 	Source: [prekshaa](https://www.prekshaa.in/article/dvg-ideal-legislator-legacy-14-years-member-mysore-legislative-council)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 A little-known episode in DVG’s life illustrates this renunciate facet innate in him. On 2 June 1927, DVG received an invitation directly from the Mysore Maharaja to which he recorded, “Invitation from the palace. What to do?” Ever the respecter of tradition and custom, DVG visited the palace and met the Wodeyar. On 20 June 1927, his daughter Smt Tunga wrote him a letter: “I felt really happy hearing that you visited the palace. I really wanted to see you wearing the Durbar dress.”
 
@@ -2154,73 +2154,73 @@ Each person must realize that he is just an atom of the whole.
 He must work towards the overall well-being of the whole.  
 Only then, the world will look beautiful akin to a festival day - Mankutimma*
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^20.1]: DVG had great regard and affection for V.S. Srinivasa Sastri and has written a detailed profile about him.
 
-</div>
 
-<div id="ftn2">
+
+
 
 [***\[2\]***](#_ftnref2) In a rare departure from a half century of legislative indolence, the Karnataka Government published a few selections of DVG’s debates in *Pratibhavanta Samsadiya Patu: DVG* in 2009 in Kannada, a shoddy, unsatisfactory and incomplete work.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^20.3]: D.R. Venkataramanan: *Virakta Rashtraka DVG* Navakarnataka, Bangalore, 2019, p 121. Emphasis added.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^20.4]: Dated 13 July 1934
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^20.5]: D.R. Venkataramanan: *Virakta Rashtraka DVG* Navakarnataka, Bangalore, 2019, pp 122-3. Emphasis added.
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^20.6]: D.R. Venkataramanan: *Virakta Rashtraka DVG* Navakarnataka, Bangalore, 2019, p 80. Emphasis added.
 
 
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG: The Indefatigable Champion of Responsible Government	Source: [prekshaa](https://www.prekshaa.in/article/dvg-indefatigable-champion-responsible-government)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 Writing about the necessity for a politician to cultivate a practiced and constant study of high and valuable literature, DVG says
 [^21.1] that
@@ -2288,44 +2288,44 @@ Faced with plummeting credibility, the government turned to vent its ire against
 
 Quite naturally, DVG didn’t take kindly to such repeated high-handedness on the Government’s part.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^21.1]: D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) p. 168-9
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^21.2]: D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) p. 141-2
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[The Bangalore Ganapati Clashes Set the Stage for DVG's Advocacy for Responsible Government	Source: [prekshaa](https://www.prekshaa.in/article/bangalore-ganapati-clashes-set-stage-dvgs-advocacy-responsible-government)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 DVG was not in Bangalore when the Ganapati clashes occurred. He had been to Bagalkot for a conference of press editors. When he returned, he found Bangalore in a state of boil. Diwan Mirza Ismail had called for a public meeting of Hindus and Muslims to pacify both parties but public opinion was almost unanimous that he was on the Muslim side. Tempers flared when it appeared that Mirza Ismail was attempting to blame Hindus for the riots. When DVG listened to the detailed eyewitness stories and reports of the clashes, he concluded that the Mirza Government was indeed trying to pin the blame on Hindus. He severed all contact with Mirza Ismail for nearly two years. Not just that. He wrote a strongly-worded opinion piece titled *What is Wrong With the State of Mysore: Bangalore Disturbances and After* in *Swarajya* dated 15 September 1928. This was DVG’s rebuttal of an earlier mischievous article in the *Times of India* that sought to whitewash the role of Muslim mobs that instigated the riots.
 
@@ -2363,39 +2363,39 @@ This set the tone for a prolonged crusade to introduce Responsible Government in
 
 This brings us to the next phase of DVG’s political career: the aforementioned advocacy for Responsible Government.
 
-<div>
+
 
 **Notes**  
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^22.1]: D V Gundappa: Ganapati Prasangada Goodartha: Vishwa Karnataka, January 1929. Excerpt translated into English by Sandeep Balakrishna.
 
 
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's 35-Year-Long Crusade for Responsible Government	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-35-year-long-crusade-responsible-government)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 Apart from his regular writings in *Karnataka* and other publications, perhaps the most lucid, fierce and passionate expositions on the urgent need for Responsible Government in Mysore are to be found in *Problems of Indian Native States.* This can be considered as a *magnum opus* of sorts among political literature in this genre. While most of it is addressed as Memorials to the then Maharaja of Bikaner, the sections devoted to Responsible Government are uniformly applicable to all princely states
 [^23.1] of the time. We can examine a random
@@ -2450,72 +2450,72 @@ The letter was also a preface to DVG’s eventual and complete exit from politic
 
 But there was just one final chapter in his thirty-five-year long crusade for Responsible Government.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^23.1]: Princely States were also called Native States
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^23.2]: S.R. Ramaswamy & B.N. Shashi Kiran: Selected Writings of DVG: Volume 2 (Gokhale Institute of Public Affairs, 2020) p 203. Emphasis added
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^23.3]: Ibid, p 201
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^23.4]: Prepared by the British bureaucrat Harcourt Butler. It apparently was an investigation into the nature of the relationship between the British crown and the princes of the Princely States of India. Much discontent had been brewing among the princes as to their exact position under the British. The Butler Report simply reaffirmed what was then known as the “paramount power.” In more candid terms, paramount power was the untrammeled political power of the British to overrule or veto the princes without assigning any reason.
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^23.5]: D R Venkataramanan: Virakta Rashtraka DVG (Navakarnataka, 2014) p. 178
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^23.6]: Ibid, p 180. Emphasis added.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[Contributor to the Patel-Mirza Pact and Member of the Reforms Committee 	Source: [prekshaa](https://www.prekshaa.in/article/contributor-patel-mirza-pact-and-member-reforms-committee)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 This final chapter was the formation of the constitutional Reforms Committee on 1 April 1938 by the Mysore Government. The Committee itself was the outcome of a series of agitations by the Mysore unit of the Congress Party to usher in Responsible Government. It was simultaneously another ruse of Diwan Mirza Ismail to curb the growing power of the Congress in Mysore. The wording of the Government order that established this Committee *did not mention the words “Responsible Government”* as the ultimate objective of the Reforms Committee. Expectedly, the Mysore Congress hit back claiming
 [^24.1] that the Committee was mere “political tinkering and as an attempt to stop recent political agitation without giving anything away.” 
@@ -2554,53 +2554,53 @@ The main points of the Patel-Mirza Pact are as follows:
 
 Accordingly, Congress members were admitted to the Reforms Committee along with an unwilling DVG who has himself written the reason for his unwillingness, as we have seen in the previous part. 
 
-<div>
+
 
 **Notes**  
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^24.1]: Veerathappa, K. "DEWAN MIRZA ISMAIL AND MYSORE CONGRESS." Proceedings of the Indian History Congress 40 (1979): pp 653-61.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^24.2]: See for example, Majumdar R.C. "History of the Freedom Movement: Vol III," Firma KLM, Calcutta
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^24.3]: Quoted in Virakta Rashtraka: D.R. Venkataramanan, Navakarnataka, Bangalore, 2019, p 85
 
 
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[The Mockery of Responsible Government and DVG's Exit from Public Life	Source: [prekshaa](https://www.prekshaa.in/article/mockery-responsible-government-and-dvgs-exit-public-life)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 > orvane niluve nīnutkaṭakṣaṇagaḻali ।  
 > dharmasaṃkaṭagaḻali, jīvasamaradali ।।  
@@ -2661,13 +2661,13 @@ That was the end of his public life, to which his epitaph reads as follows: “A
 
 DVG’s much-cherished Responsible Government ultimately came in 1948 and when it did come, it was a deformed infant, a premature birth midwifed by Prime Minister Jawaharlal Nehru.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^25.1]: orvane niluve nīnutkaṭakṣaṇagaḻali ।  
@@ -2675,33 +2675,33 @@ dharmasaṃkaṭagaḻali, jīvasamaradali ।।
 nirvāṇadīkṣeyali, niryāṇaghaṭṭadali ।  
 nirmitraniralu kali – maṃkutimma ।। 689 ।।
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^25.2]: The National Institute of Newman Studies: <http://www.newmanreader.org/>
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[Overall Assessment of DVG's Career in Public Life and a New Beginning	Source: [prekshaa](https://www.prekshaa.in/article/overall-assessment-dvgs-career-public-life-and-new-beginning)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 DVG’s final exit from public life occurred in four broad stages, in a manner of speaking. The first was the aftermath of the Ganapati clashes, which publicly showed the dangerous chinks in the Mysore State’s administration. It also didn’t help that Diwan Mirza Ismail’s studied silence and inaction only added to the perception that the administrative machinery was powerless to punish a mere mob of Muslim hooligans.
 
@@ -2730,53 +2730,53 @@ On 1 December 1937, DVG hit back in his characteristic style. He said that he ha
 
 For the first time, DVG had a firsthand experience of the chokehold a political party has over even its non-members. This realization was also accompanied by a whiff of the state of things to ensue. Thereafter, as we noted earlier, DVG became a mere witness from afar. When occasion demanded it, he also became one of the most trenchant and fiery critics of the Congress Party after India attained independence.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^26.1]: Raghavendra Patil: Pratibhavanta Samsadiya Patu: DVG, Karnataka Legislative Library Committee Bangalore 2009, pp 157-169
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^26.2]:D.R. Venkataramanan: Virakta Rashtraka Navakarnataka, Bangalore, 2019, pp 194-5
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^26.3]: Raghavendra Patil: Pratibhavanta Samsadiya Patu: DVG, Karnataka Legislative Library Committee Bangalore 2009, pp 112. Emphasis added.
 
 
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[Gokhale Institute of Public Affairs as DVG's Karma Bhoomi	Source: [prekshaa](https://www.prekshaa.in/article/gokhale-institute-public-affairs-dvgs-karma-bhoomi)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 *beku jīvanayogakoṃdu bahusūkṣmanaya ।  
 bekoṃdu jāgarūrakate, buddhi samate ॥  
@@ -2829,58 +2829,58 @@ The Gokhale Institute of Public Affairs as DVG described it indeed lived up to i
 
 Which brings us to a related facet of DVG’s post-independence work and legacy. By making GIPA both his Karma Bhoomi and Jnana Bhoomi, DVG achieved what he wouldn’t have achieved had he remained in active politics: of being a systematic, truthful, and caustic conscience-keeper of independent India’s political and social conscience. That conscience-keeping essentially meant an honest dissection of the Congress Party, whose only claim to political power was based on the half-truth that it had alone brought freedom from British rule.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^27.1]: Since renamed as DVG Road in his honour
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^27.2]: Quoted in Virakta Rashtraka: D.R. Venkataramanan, Navakarnataka, Bangalore, 2019, p 219
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^27.3]: Quoted in Virakta Rashtraka: D.R. Venkataramanan, Navakarnataka, Bangalore, 2019, pp 218-9. Emphasis added.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^27.4]: This home was located at the Northeast of M.N. Krishna Rao Park.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG as a Chronicler of the Downfall of Values in Independent India	Source: [prekshaa](https://www.prekshaa.in/article/dvg-chronicler-downfall-values-independent-india)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 At this long distance in history, it sounds incredible, insane even, when we hear somebody utter “conscience” and “Congress Party” in the same breath. However, thanks to the overarching and overreaching influence of Mohandas Karamchand Gandhi, around the time of Independence, the public regarded the Congress Party not merely as a patriotic and nationalist organization but a *moral* outfit as well. Needless, there is an inseparable relationship between the words, “conscience” and “moral.”
 
@@ -2931,65 +2931,65 @@ This is precisely why we see DVG repeatedly stressing on and obsessing over the 
 
 As witnesses to the contemporary world dominated by uninterrupted distraction, an outcome of planned technological obsolescence, we can easily verify that leisure has been the most profound casualty. A prime disaster in the dystopian future that Aldous Huxley predicted in his *Brave New World Revisited* has already come true: entertainment—a major component of leisure—has been *defined* by forces beyond our control and we are willingly, gladly paying money to be entertained. The trifling matter of the spirit has now been successfully branded as a superstition.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^28.1]: Towards a New World Order: Lecture delivered at the Indian Institute of World Culture, Bangalore, p 15. Emphasis added.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^28.2]: George Orwell: ‘Politics and the English Language’ First published: Horizon, London, April 1946.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^28.3]: D.V. Gundappa: “Crowned Republic,” Public Affairs, Vol. XIX-6, June 1975, p 122. Emphasis added.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^28.4]: Arthur Hailey: Evening News, Open Road Media, 2015
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^28.5]: Towards a New World Order: Lecture delivered at the Indian Institute of World Culture, Bangalore, p 7
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's Election from Kolar and its Aftermath	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-election-kolar-and-its-aftermath)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 Like all honest and pragmatic observers and commentators of public life, DVG’s pre-Independence critiques of the Congress Party included the criticism of Mohandas Gandhi as we have seen in the earlier chapters
 [^29.1]. Under Gandhi’s leadership, it became a quasi-monopolistic political enterprise that could admit only one dictator at the top notwithstanding how noble or moral or well-intentioned the dictator was. Indeed, we learn this truth straight from the horse’s mouth. This is what the official history
@@ -3034,93 +3034,93 @@ To its eternal discredit, the Congress Party never referred to the letter and pr
 
 Needless, as the political and social conscience-keeper, DVG supplemented these criticisms with unfailing regularity in the annals of *Public Affairs* beginning with a long form essay series titled *Congress and Parties* from the April 1949 issue onwards. He followed this up with a similar but more caustic series titled *The Congress Ailing* from the July 1949 issue onwards.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^29.1]: See Chapter 4: Notion of Ramarajya
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^29.2]: <https://www.inc.in/en/inc-timeline/1915-1925>. Last accessed on 10 October 2020. Emphasis added.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^29.3]: For a fuller discussion on this point, see Chapter 4: Notion of Ramarajya.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^29.4]: R.C. Majumdar: History of the Freedom Movement in India: Vol III, Firma KLM, Calcutta, p xxi
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^29.5]: Quoted in Virakta Rashtraka: D.R. Venkataramanan, Navakarnataka, Bangalore, 2019, p 205
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^29.6]: Then known in its shortened form as “Consembly.”
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^29.7]: Quoted in Virakta Rashtraka: D.R. Venkataramanan, Navakarnataka, Bangalore, 2019, p 215. Emphasis added.
 
-</div>
 
-<div id="ftn8">
+
+
 
 
 [^29.8]: Quoted in: THE PEOPLE SAY CONGRESS WORSE THAN THE BRITISH: *March*, April 1948, Bombay. Emphasis added.
 
-</div>
 
-<div id="ftn9">
+
+
 
 
 [^29.9]: The other relevant excerpt from Mashruwala’s stinging criticism may also be noted: “it seems to be a doubtful method of consolidating one’s party through the power which a governing party necessarily possesses in the State. It sets a bad example for other parties to follow when any of them come into power. In a democratic form of government this might happen at any time… in the course of time the very heat of coercion might enable some of these parties to grow strong enough to overthrow the Congress party. Such a new party in power will follow the example of Congress party by rewarding all those who might have suffered under the Congress regime, and in this way the country will always have the kind of government which thrives on nepotism… **By rewarding those who suffered out of patriotic sentiment we are transferring them from the list of patriots to that of mercenaries or farsighted businessmen**.” Emphasis added.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's Unsleeping Inner Eye saw through the Facade of Western Secularism 	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-unsleeping-inner-eye-saw-through-facade-western-secularism)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 > horāḍu bīḻvannamobbaṃṭiyādoḍaṃ ।  
 > dhīrapathavane bedaku sakalasamayadoḻaṃ ॥  
@@ -3194,100 +3194,100 @@ And repeatedly observes how the contemporary legislator who made similar self-co
 
 The parallels to DVG’s expositions (described in earlier chapters) on the philosophical insights of Kautilya, Plato, and Vidyaranya translated in the political realm are unmistakable. This evokes another basic question: why were some of DVG’s contemporaries like Nehru who waxed so substantially on secularism unable to find this treasure in their own backyard, a treasure that DVG was able to find even with his eyes closed? I will hazard a guess: because these contemporaries lacked the proverbial Inner Eye that in DVG was unsleeping.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^30.1]: See: <https://indiankanoon.org/doc/1933556/> for the full debate.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^30.2]: Ibid
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^30.3]: Ibid. Emphasis added.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^30.4]: Pandurang Vaman Kane: History of Dharmasastra: Vol 5 (Part II), Government Oriental Series, Class B, No. 6, BORI, Poona, 1962, p 1665
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^30.5]: D.V. Gundappaa: Simla and After, Selected Writings of D.V. Gundappa, Vol IV, Gokhale Institute of Public Affairs, 2020, Bangalore pp 194 – 212 onwards
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^30.6]: Ibid pp 205-6
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^30.7]: Ibid, p 210
 
-</div>
 
-<div id="ftn8">
+
+
 
 
 [^30.8]: D.V. Gundappa: The Secular State, Public Affairs, Gokhale Institute of Public Affairs, Bangalore, June 1949, p 44
 
-</div>
 
-<div id="ftn9">
+
+
 
 
 [^30.9]: Ibid. pp 44-5
 
-</div>
 
-<div id="ftn10">
+
+
 
 
 [^30.10]: Ibid p 46
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[Two Seminal Essays of DVG on the Downfall of the Congress  	Source: [prekshaa](https://www.prekshaa.in/article/two-seminal-essays-dvg-downfall-congress)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 This unsleeping Inner Eye was also alert to well-intentioned inanities that the fledgling democracy in India was cooking up in rapid succession. One such inanity is our national motto, *Satyameva Jayate* translated commonly as “Truth alone prevails.” In a brilliantly piercing essay
 [^31.1] titled *India’s Motto,* DVG dedicates three pages dissecting this motto down to its last atom. He copiously quotes from the Mundaka Upanishad (where this line occurs), marshals substantial evidence from Sanskrit grammar, traditional Sanskrit commentaries and arrives at significant conclusions regarding the very prudence of selecting this line as our national motto. The essay has to be read in its entirety to savour the rich insights it offers. Using the word “Jayate” transitively will mean “exalting Truth…because it possesses the power to vanquish its opposite…In other words, success or gain is made the criterion of virtue. Is that the best way of honouring Truth? So taken, *Satyam-eva-Jayate* would merely be another version of the mercantile motto, “Honesty is the best policy.””
@@ -3339,100 +3339,100 @@ Thus, with virtually no opposition either in Parliament or legislatures, the Con
 Simultaneously, DVG points out that one swallow makes not a summer when that other familiar excuse is forwarded: that we have great leaders at the Centre and at the top party leadership and the party and country is largely in safe hands. He counters
 [^31.10]: “The point…is not what giants we have at the Centre, **but what dwarfs we have at so many other key-points**.”
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^31.1]: D.V. Gundappa: India’s Motto, Public Affairs, June 1949, Gokhale Institute of Public Affairs, Bangalore pp 47 – 49
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^31.2]: The building which houses the Karnataka Legislature
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^31.3]: A.N. Krishna Rao, the renowned Kannada novelist, writer, and activist.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^31.4]: D.V. Gundappa: Congress and Parties, Public Affairs, April 1949, Gokhale Institute of Public Affairs, Bangalore p 33. Emphasis added.
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^31.5]: Ibid. Emphasis added.
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^31.6]: Ibid. Emphasis added.
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^31.7]: D.V. Gundappa: Congress and Parties, Public Affairs, May 1949, Gokhale Institute of Public Affairs, Bangalore p 42. Emphasis added.
 
-</div>
 
-<div id="ftn8">
+
+
 
 
 [^31.8]: For the full text of the judgment, see: <https://indiankanoon.org/doc/456839/>
 
-</div>
 
-<div id="ftn9">
+
+
 
 
 [^31.9]: D.V. Gundappa: Congress and Parties, Public Affairs, May 1949, Gokhale Institute of Public Affairs, Bangalore p 42.
 
-</div>
 
-<div id="ftn10">
+
+
 
 
 [^31.10]: Ibid p 40. Emphasis added.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's Critique of the Congress High Command and Nehru's Five-year Plans	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-critique-congress-high-command-and-nehrus-five-year-plans)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 The swift emergence of the High Command culture, which spawned the aforementioned dwarfs at many key-points revealed perhaps its most ugly face in the form of perpetually warring factions both in the Government and Party. One of the most high-profile victims of this culture of coteries was Dr. B.R. Ambedkar who mentions it explicitly in his resignation speech
 [^32.1] on the floor of the Parliament on 10 October 1951.
@@ -3470,86 +3470,86 @@ A related critique is DVG’s brilliant analysis of Nehru’s pet project of Sov
 
 DVG concludes his essay with a stinging slap: “till the time Congress leaders remain unafraid of the people, this country cannot expect any great change for the good.” And when we realise that DVG uttered these words in 1954, we also realise that this is beyond both comment and contempt.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^32.1]: Books and Writings of Ambedkar: Vol. 14, Part 2: <https://www.mea.gov.in/Images/attach/amb/Volume_14_02.pdf>. Emphasis added. 
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^32.2]: D.V. Gundappa: Congress and Parties, Public Affairs, May 1949, Gokhale Institute of Public Affairs, Bangalore pp 41-42
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^32.3]: D.V. Gundappa: Working of the States Ministry, Public Affairs, April 1949, p 27. Emphasis added.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^32.4]: D V Gundappa: Congress Sarakaragalu*,* Rajyashastra, Rajyanga, DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013), pp 528-9
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^32.5]: D V Gundappa: Republic, Congress Mattu Praje*,* Rajyashastra, Rajyanga, DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013), pp 588-9 
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^32.6]: D V Gundappa: Namma Prajarajyada Pragati*,* Rajyashastra, Rajyanga, DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013), pp 592-8
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^32.7]: P.V. Kane: History of the Dharmasastra, Vol 5, Sec X, Ch.XXXVII, pp 1677-1699
 
-</div>
 
-<div id="ftn8">
+
+
 
 
 [^32.8]:D V Gundappa: Namma Prajarajyada Pragati*,* Rajyashastra, Rajyanga, DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013), pp 594
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[How our Legislators Look After Themselves: DVG's Answer	Source: [prekshaa](https://www.prekshaa.in/article/how-our-legislators-look-after-themselves-dvgs-answer)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 Just a year later, the Nehruvian Congress authored the preface to yet another dark chapter that would lead the country to national chaos from which we are yet to recover. This was the notorious 1955 Avadi Session
 [^33.1] of the Indian National Congress in which Prime Minister Nehru himself gave the indecipherable phrase, “socialistic pattern of society.”
@@ -3590,20 +3590,20 @@ Sure enough, these windbags and vote manipulators were to have the last laugh, i
 Our greater admiration for DVG lies in the fact that he wrote all these at a time when a majority of influential newspapers and periodicals
 [^33.11] were vying with one another to curry favour with Indira Gandhi.
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 [[Vākyajño vākyakuśalaḥ maunamupāgamat: The Twilight Years of the Titan	Source: [prekshaa](https://www.prekshaa.in/article/v%C4%81kyaj%C3%B1o-v%C4%81kyaku%C5%9Bala%E1%B8%A5-maunamup%C4%81gamat-twilight-years-titan)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 The distilled essence of all of DVG’s brilliant critiques of the Indian political atmosphere since Independence and specifically, the trajectory of the Congress Party until its fateful split in 1969 is the fact that by 1970, he had already been convinced that the Congress was a force for the evil. In his innumerable indictments, DVG observes how the Congress Party and Government had become indistinguishable, the chief reason for the chaos both at the national level and in the states. The party and the Government had no place for people who were not up for sale and majority of ministers lacked the qualification, aptitude, training and discipline to “sit at the desk and glue their eyes to the paper.” This discipline was how the politician trained his soul. Instead, the Congress Party and Government busied itself in uprooting everything in the past that was noble and virtuous under the mindless excuse that they were erasing all vestiges of the British. DVG concludes
 [^34.1] this indictment with a touch of original genius:
@@ -3663,134 +3663,134 @@ No one who had known DVG for any length of time could recover from the news of h
 
 > ***Fifteen years of hard and selfless service had…made Gundappa into a man of grit and incorruptible independence***… Gundappa never looked for the appreciation of the work he was doing, by Government.***He was a politician but belonged to no party.***If he had joined the Congress in the earlier years, he could perhaps have been a minister in one of the administrations later. ln literature also he was indifferent to acceptance by the crowd, though maintaining high quality… Born poor, receiving no formal education beyond the secondary stage, and entering public life when he was about twenty years old,***Gundappa worked hard and with a will to make something of life; and ended making it a great thing.***\[Masti Venkatesha Iyengar\]
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^34.1]:D.V. Gundappa. Rajyashastra, Rajyanga, DVG Krutishreni, Vol 5, Government of Karnataka, pp 634-5. Emphasis added.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^34.2]:D.V. Gundappa. Rajyashastra, Rajyanga, DVG Krutishreni, Vol 5, Government of Karnataka, pp 638. Emphasis added.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^34.3]:D.V. Gundappa. Rajyashastra, Rajyanga, DVG Krutishreni, Vol 5, Government of Karnataka, p 628
 
-</div>
 
-<div id="ftn1">
+
+
 
 
 [^34.1]:Held from January 19-23, 1955.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^34.2]:D.V. Gundappa. Avadi Congress, Public Affairs, January-February 1955, pp 1-2. Emphasis added.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^34.3]:Philip Spratt: Foreword to Genesis And Growth Of Nehruism: Volume I: Commitment to Communism, Sita Ram Goel, Voice of India, 1963. Emphasis added.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^34.4]:D.V. Gundappa. Careerism and Corruption, Public Affairs, January 1964, p 3.
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^34.5]:D.F. Karaka: Betrayal in India, Victor Gollancz, 1950, London
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^34.6]:D.V. Gundappa. Democracy and Muck-raking, Public Affairs, November 1969, p 233.
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^34.7]:D.V. Gundappa. "Congress A and B." Public Affairs, January 1970, p 1. Emphasis added.
 
-</div>
 
-<div id="ftn8">
+
+
 
 
 [^34.8]:Syndicate comprised the anti-Indira Gandhi group comprising S.Nijalingappa, Kamaraj, S.K. Patil and other top Congress leaders. “Indicate” refers to the Indira Gandhi faction.
 
-</div>
 
-<div id="ftn9">
+
+
 
 
 [^34.9]:For an informed study of the so-called Young Turks, see: J.C. Johari. "Young Turks and the Radicalisation of Congress Leadership." The Indian Journal of Political Science 34, no. 2 (1973): pp 173-98.
 
-</div>
 
-<div id="ftn10">
+
+
 
 
 [^34.10]:D.V. Gundappa. "Congress A and B." Public Affairs, January 1970, pp 1-2.
 
-</div>
 
-<div id="ftn11">
+
+
 
 
 [^34.11]:Especially noteworthy is Sri M.R. Pai’s detailed, fine and brutally truthful essay titled*Reconstruction of Indian Politics*written in combative prose that DVG published in the January 1970 issue of*Public Affairs.*
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG: The Rational Champion of the Princely States	Source: [prekshaa](https://www.prekshaa.in/article/dvg-rational-champion-princely-states)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 > baruvella benegaṃ maddanāririsiharu? ।  
 > narara kīḻtanakella parihāraveṃtu? ॥  
 > kiridu pallanu tāḻikeḻalebekaṣṭiṣṭu ।  
 > dhareyaṃtaruṣṇavanu - maṃkutimma ॥ 670 ॥   
-> <div>   
+>    
 > Has anyone been able to find a medicine for all ailments that affect man?  
 > Is there any permanent solution to the wretched behavior of man?  
 > We have no option but to tolerate all these by clenching our teeth Akin to how the earth patiently conceals the inner heat concealed – Mankutimma   
@@ -3831,58 +3831,58 @@ The combined result of all these forms the full backdrop to understand the impor
 
 But the story really begins with the near-permanent downfall of eighteenth-century India whose ruling kingdoms rapidly succumbed to the British.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^35.1]: A Memorial on the Position of The Native States in The Empire, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore pp 295
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^35.2]: Ibid. p 293
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^35.3]: Ibid. p 177
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^35.4]: Narrated in M.O. Mathai, My Days with Nehru, Vikas Publishing House, Delhi, 1979, pp 171-173
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's Memorials to the Maharaja of Bikaner as National Service	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-memorials-maharaja-bikaner-national-service)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 The Kingdom of Mysore was among the larger and more significant kingdoms to fall to the British in the eighteenth century. In the fateful fourth Anglo-Mysore War of 1799, Tipu Sultan defeat and death at British hands brought a mixed legacy to the future of Mysore. An accurate reading of history reveals that the Wodeyar dynasty, which had uninterruptedly ruled Mysore for about five centuries, had lost its freedom at the hands of a mercenary named Hyder Ali, father of Tipu Sultan. Thus, when the British liberated Mysore from these usurpers, they in a way, restored the old order of the Wodeyars at the cost of extinguishing their freedom. In doing this, the British were merely following the same formula that had yielded them great successes earlier in Bengal and Malabar: (1) demanding complete political subservience by appointing British Residents in these states (2) extorting substantial revenues as the cost for giving protection to these states. Both (1) and (2) were accomplished through treaties and agreements that were patently unjust to these states. While the now-nominal Maharajas and Princes scrupulously honoured these treaties in both letter and spirit, the British violated them at will and convenience.
 
@@ -3944,51 +3944,51 @@ Therefore, in the aftermath of their services to the British Empire during World
 
 This is at once a fearless and rousing call to self-confidence and a reflection of the true character of British rule in India.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^36.1]: The Problems of Indian Native States, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore p 192
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^36.2]: Ibid
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^36.3]: Ibid, pp 192-3
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG Examines the Problems of the Princely States	Source: [prekshaa](https://www.prekshaa.in/article/dvg-examines-problems-princely-states)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 In examining the aforementioned five questions related to the Princely States and British, DVG covers a panoramic sweep providing a detailed and highly nuanced picture of the political, social, economic, religious and cultural situation of India at the time. His treatment of and expositions on the conditions of British-ruled India and the freedom movement has already been covered in the earlier chapters.
 
@@ -4042,79 +4042,79 @@ Thus, if the Mysore State could provide such a healthy, peaceful and prosperous 
 
 But there were reasons and they were plenty. The chief reason was the very nature of a majority of the Princely States as we shall see.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^37.1]: Memorials on the Problems of Native States—III, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore p 224. Italics added.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^37.2]: Ibid. pp 224-6. Emphasis added.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^37.3]: Ibid. p 225
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^37.4]: Ibid. p 226
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^37.5]: Quoted in, Graham Allison, Lee Kuan Yew: The Grand Master’s Insights on China, the United States, and the World, Penguin Random House, 2020
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^37.6]: Memorials on the Problems of Native States—II, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore p 212. Italics in the original.
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^37.7]: For a detailed discussion, see Chapter 6: Rough and Tumble of Politics
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's Learned Analysis of the Infamous Manipur Notification 	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-learned-analysis-infamous-manipur-notification)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 When DVG wrote the following words about the impending fate of the Princely States in the April 1949 issue
 [^38.1] of *Public Affairs,* it was essentially his three-decade-old prophecy that had rung perilously true because the States had failed to heed his recurring warnings:
@@ -4162,72 +4162,72 @@ However, apart from Mysore, Travancore, Baroda and a handful of others, most Pri
 
 We shall look at a high-level picture of how this autocracy operated in a majority of these Princely States.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^38.1]: p 31
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^38.2]: The Genesis of the Present Anomaly, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore pp 299-302
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^38.3]: Quoted in: Ibid, p 301
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^38.4]: Ibid
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^38.5]: State Powers, Selected Writings of D.V. Gundappa, Vol IV, Gokhale Institute of Public Affairs, 2020, Bangalore p 11. Emphasis added.
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^38.6]: Ibid, p 12
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's Exposition on the Character and Qualifications of British Bureaucracy in Princely States	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-exposition-character-and-qualifications-british-bureaucracy-princely-states)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 DVG’s detailed exposition of the climate of autocratic rule that prevailed in most of the Princely States falls under three broad heads:
 
@@ -4270,65 +4270,65 @@ But in 1860, the tentacles of the British Empire had not become as pervasive and
 
 Worse was the fact that such bureaucrats became the tutors of the Princes of the Native States, professing to teach them nuances of governance and administration. The consequences were entirely predictable as we shall see.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^39.1]: Memorials on the Problems of Native States – V, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore p 249. Emphasis added.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^39.2]: See for example: (1) Shivaji’s System of Government (2) Tiruvalluvar (3) Democracy in Ancient India. Quoted in Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore p 251-4. Emphasis added.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^39.3]: Lord Islington on the Native States, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore p 245. Italicised.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^39.4]: Memorials on the Problems of Native States – IV, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore p 238. Emphasis added.
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^39.5]: Education of the Princes, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore pp 227-230. Italicised.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[The Profit-Seeking British Bureaucracy and the Personal Vanity of the Princes	Source: [prekshaa](https://www.prekshaa.in/article/profit-seeking-british-bureaucracy-and-personal-vanity-princes)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 Indeed, DVG himself had a firsthand taste of the real-life workings of this imperious British bureaucracy. The indefatigable imperialist, Sir Henry Cobb was the Resident of the Mysore State from 1916-20. A well-known foe of the freedom struggle and the nationalist spirit that was surging throughout British India, he kept a tight watch over similar sentiments spilling over to Mysore. One day at around four in the evening, he paid a surprise visit to the public library
 [^40.1] at Cubbon Park. When he saw copies of *The Bombay Chronicle,* and Annie Beasant’s *New India*—both were highly influential publications and organs of the freedom movement—he erupted with fury and yelled at the staff: “Why are you subscribing to these poisonous tracts? Throw them out right now!”
@@ -4373,81 +4373,81 @@ As a civilisationally-rooted political philosopher speaking the tongue of a mode
 
 But before we reach that phase of history, we can examine the nature and some details of solutions that DVG recommended so that the Princely States could reform their present condition.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^40.1]: Now known as the Sir Seshadri Iyer Memorial Library or the State Central Library.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^40.2]: Ibid. Footnote 25
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^40.3]: Unreality of Advertised Progress, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore p 240.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^40.4]: Native States and British Interference, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore p 261
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^40.5]: Ibid. Footnote 28
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^40.6]: Thoughts on Democracy, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore pp 267-8.
 
 Seshadri Iyer was among the more eminent and farsighted Diwans of Mysore who pioneered an extraordinary range of reforms and development activities whose fruits the state of Karnataka continues to enjoy. He initiated the hydroelectric project at Shivanasamudra, the first in Asia. He is also known as the Maker of Modern Bangalore, among other distinctions.
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^40.7]: The States—Schools for Statesmanship, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore p 220.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's Severe Rebuttal to the Nehru Report of 1928 	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-severe-rebuttal-nehru-report-1928)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 Writing in the aftermath of the Nehru Report of 1928, DVG made a contrast with the Princely
 [^41.1] States:
@@ -4516,100 +4516,100 @@ What is more important than Sastri’s endorsement is the *timing* of DVG’s pr
 
 In this context, it is also highly relevant to narrate DVG’s brilliant arguments making the case for the Mysore State before the Butler Committee.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^41.1]: D.V. Gundappa. “Indian States and the National Congress.” The Bombay Chronicle. Emphasis added.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^41.2]: Nehru Report (Motilal Nehru,1928): <https://www.constitutionofindia.net/historical_constitutions/nehru_report__motilal_nehru_1928__1st%20January%201928>. Emphasis added.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^41.3]: D.V. Gundappa. “Indian States and the National Congress.” The Bombay Chronicle.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^41.4]: Ibid. Emphasis added.
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^41.5]: For example, see: R.C. Majumdar. History of the Freedom Movement in India, Vol III Firma K.L.M, 1962, Calcutta
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^41.6]: See: Chapters 1 and 4
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^41.7]: See Chapters 5 and 6
 
-</div>
 
-<div id="ftn8">
+
+
 
 
 [^41.8]: The States—Schools for Statesmanship, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore pp 219
 
-</div>
 
-<div id="ftn9">
+
+
 
 
 [^41.9]: Ibid. p 234.
 
-</div>
 
-<div id="ftn10">
+
+
 
 
 [^41.10]: M.R. Jayakar. Private Papers, National Archives of India, p 126-7. Emphasis added.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[The Ultimate Failure of a Three-Decade-Long Struggle 	Source: [prekshaa](https://www.prekshaa.in/article/ultimate-failure-three-decade-long-struggle)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 To be sure, recognizing DVG’s proven expertise in the subject, the Mysore Princely State requested DVG to put forward arguments on its behalf before the Butler Committee. But much before the actual meeting took place, DVG had already written a critique noting that its Terms of Reference
 [^42.1] had a lacuna.
@@ -4660,21 +4660,21 @@ The climax of DVG’s *tour de force* is a visual chart titled, *The Constitutio
 
 
 
-<div class="media media-element-container media-default">
 
-<div id="file-9948" class="file file-image file-image-jpeg">
+
+
 
 ## [StatesCouncil.jpeg](/file/statescounciljpeg)
 
-<div class="content">
+
 
 ![States Council](https://www.prekshaa.in/sites/prekshaa.in/files/StatesCouncil.jpeg)
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
 
 
@@ -4692,93 +4692,93 @@ Thus, when the Ministry of States
 
 The Ministry of States was also the last leg of DVG’s attempts to somehow salvage the position of and stress the value of the Princely States to the citizens of the newly-independent Republic of India. In this, he directly locked horns with Sardar Patel and his lieutenant, V.P. Menon.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^42.1]: H. Butler. Appointment of our Committee and terms of reference, Report of the IAN States Committee, p 5. <https://dspace.gipe.ac.in/xmlui/bitstream/handle/10973/29648/GIPE-009152-01.pdf?sequence=3&isAllowed=y>
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^42.2]: The account of DVG’s arguments before the Butler Committee is taken from Dr. S.R. Ramaswamy’s profile of DVG in *Deevatigegalu,* Sahitya Sindhu Prakashana, Bangalore.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^42.3]: D.V.Gundappa. Federalism, the Only Principle, Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore pp 307
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^42.4]: Ibid, p 308. Emphasis added.
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^42.5]: Ibid, p 310. Emphasis added.
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^42.6]: For the full illuminating discussion on this topic, see Selected Writings of D.V. Gundappa, Vol I, Gokhale Institute of Public Affairs, 2020, Bangalore pp 304 – 315.
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^42.7]: Ibid, p 312
 
-</div>
 
-<div id="ftn8">
+
+
 
 
 [^42.8]: Ibid, p 315.
 
-</div>
 
-<div id="ftn9">
+
+
 
 
 [^42.9]: The Ministry of States or the States Department was the new avatar, or a mere renaming of the British Government’s Political Department which was in charge of administering the relationship of the British crown with British India and the Princely States. The Political Department exercised its power on the basis of paramountcy as long as the British ruled India.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's Blistering Criticism of the States' Ministry 	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-blistering-criticism-states-ministry)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 The Ministry of States or the States Department was the new avatar, or a mere renaming of the British Government’s Political Department, which was in charge of administering and managing the relationship of the British crown with British India and the Princely States. The Political Department exercised its power on the basis of paramountcy as long as the British ruled India. Shorn of its veneer of formal politeness, paramountcy was in reality, a naked exercise of unchecked imperial power. That imperial power was now in the hands of Indian leaders of an ostensible new democracy and a free nation.
 
@@ -4830,79 +4830,79 @@ An incensed DVG observes
 
 Not stopping at that, DVG characterizes the States’ Ministry’s actions as a “virtual revolution,” repeating his warning that such abrasive methods would erect a new “Delhian Paramountcy in place of the old British Paramountcy.” The Delhi of independent India should not be the seat of a “new Imperialism,” but should be the “*centre of our new nationalism.*” He further throws the gauntlet to Sardar Patel in two important areas. The first, Patel’s States’ Ministry “should itself be an institution above the reach of suspicion and sure of public confidence.” In the second, he indirectly asks whether Patel was willing to be “critical even of supposedly Congressist Ministries and unhesitant to correct them.” As history reveals, these are grey areas in the otherwise commendable achievement of Sardar Patel’s mammoth exercise of the merger of the Princely States. In Patel’s defence, it could be argued that the criticisms levelled by DVG were collateral damage. Yet, DVG’s criticism was based not on blind advocacy of a pet cause but on proven realities that he witnessed during this exercise—on the ground, in the behavior of bureaucrats, speeches of Congress leaders, and voluminous documents.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^43.1]: D.V.Gundappa: Working of the States Ministry, Public Affairs, Vol. 1, No 3, March 1949, p 24.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^43.2]: D.V.Gundappa: Working of the States Ministry, Public Affairs, Vol. 1, No 2, February 1949, p 16. Emphasis added.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^43.3]: Speech of Sardar Patel in January 1948
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^43.4]: D.V.Gundappa: Working of the States Ministry, Public Affairs, Vol. 1, No 2, February 1949, p 16. Emphasis added.
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^43.5]: See Chapter 7 for example.
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^43.6]: D.V.Gundappa: Working of the States Ministry, Public Affairs, Vol. 1, No 3, March 1949, p 23. Emphasis added.
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^43.7]: Ibid. p 24. Emphasis added.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[When the Princely States Faced the Death Sentence	Source: [prekshaa](https://www.prekshaa.in/article/when-princely-states-faced-death-sentence)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 A chief factor that characterized the arbitrary nature of and the “revolutionary” approach followed by the States’ Ministry was to perpetually shift the goalposts through random announcements and haphazard policy revisions. DVG cites numerous such instances and we can cull out only the most illustrative ones here. 
 
@@ -4953,72 +4953,72 @@ Thus, by April - May 1949, DVG was convinced that the ultimate goal of the State
 
 Concomitant with the integration of Princely States was the other side of the same coin: the political reorganization of India on linguistic lines.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^44.1]: D.V.Gundappa: Working of the States Ministry, Public Affairs, Vol. 1, No 4, April 1949, p 26. Emphasis added.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^44.2]: Ibid. p 27. Emphasis added.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^44.3]: Ibid. p 27. Emphasis added. A complementary reading in this context is DVG’s masterly exposition of the system of governance in vogue in the Mysore State under the Dewans and Commissioners. DVG describes this sixty-plus-years’ rule as a golden epoch. The original Kannada essay forms the first chapter of his classic *Mysurina Diwanaru,* Jnapakachitrashaale – Vol. 4. The English translations are available at: (1) <https://www.prekshaa.in/system-of-governance-before-independence-part1> and (2) <https://www.prekshaa.in/system-of-governance-before-independence-part2>
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^44.4]:D.V.Gundappa: Working of the States Ministry, Public Affairs, Vol. 1, No 4, April 1949, p 30. Emphasis added.
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^44.5]: Ibid p 29
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^44.6]: D.V.Gundappa: Working of the States Ministry, Public Affairs, Vol. 1, No 3, March 1949, p 24. Emphasis added.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[The Finale: DVG's Unforgiving Assessment of Sardar Patel and V.P. Menon	Source: [prekshaa](https://www.prekshaa.in/article/finale-dvgs-unforgiving-assessment-sardar-patel-and-vp-menon)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 This political reorganization of India meant redrawing the map of India by erasing old boundaries and creating new ones on the basis of the widely familiar reasoning: language. As we have noted earlier, this reasoning had its origins in the Nehru Report of 1928. However, in practice, this meant the erasure of the centuries’-long unwritten cultural and local customs, usages, traditions, and norms in the 562 Princely States. In other words, the linguistic reorganization of independent India was accomplished by slaughtering countless cultural strands that had invisibly strung the society together as a functioning, cohesive whole. As a direct consequence, thousands of art forms, crafts, festivals, practices, and other unifying bonds vanished in less than half a century. On the political plane, this aggressive implementation of India’s political reorganization annihilated the well-oiled political institutions that had survived not only the successive waves of Islamic invasions and regimes but had withstood even the shocks of British colonial rule. From Rajasthan to Bengal, from Haryana to Tamil Nadu, this unbroken political system originating from say, the Mauryan period, was undone in one brutal stroke. For a majestic and detailed exposition of this subject, the iconic Dharampal’s *Panchayat Raj and India’s Polity* is an invaluable source work. 
 
@@ -5086,85 +5086,85 @@ DVG’s assessment is akin to the Congress and Sardar Patel making a cruel mocke
 > Petty differences in people don't matter anymore.  
 > Expand your mind, accommodate magnanimity – Mankutimma*
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^45.1]: D.V.Gundappa: Working of the States Ministry, Public Affairs, Vol. 1, No 4, April 1949, p 26. Emphasis in the original.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^45.2]: D.V.Gundappa: Working of the States Ministry, Public Affairs, Vol. 1, No 4, April 1949, pp 29-30.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^45.3]: This region comprised the States of Bharatpur, Dholpur, Alwar and Karauli.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^45.4]: D.V.Gundappa: Working of the States Ministry, Public Affairs, Vol. 1, No 4, April 1949, pp 29-31.
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^45.5]: Michael Edwardes. Nehru: A Biography, Allen Lane, 1962, p 250. Emphasis added.
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^45.6]: Ibid. pp 252-3. Emphasis added.
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^45.7]: D V Gundappa: Rajyashastra, Rajyanga—DVG Kruti Shreni: Volume 5 (Govt of Karnataka, 2013) p 643. Translated into English by Sandeep Balakrishna. Emphasis added.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG: The Pioneering Lodestar of Journalism	Source: [prekshaa](https://www.prekshaa.in/article/dvg-pioneering-lodestar-journalism)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 > *suṃdaravanesagu jīvanava sāhasadiṃde* *।*  
 > *kuṃdillavadake sāhasabhaṃgadiṃde* *॥*  
 > *muṃdakadu sāguvudu maraḻi sāhasadiṃde* *।*  
 > *ceṃda dhīrodyamave - maṃkutimma* *॥* *269* *॥*   
-> <div>   
+>    
 > *Accomplish the beautiful in life with a spirit of adventure  
 > When it yields no result, do not subdue the spirit  
 > Proceed again with the same spirit of adventure for  
@@ -5210,72 +5210,72 @@ However, DVG’s initial journalistic days were not limited to writing. He would
 
 Unfortunately, *Suryodaya Prakashika* was destined to be short-lived. It was shuttered by December 1907, and DVG was jobless once again. He describes his work experience at the paper as, “it was akin to boyhood exercise for me.” An exercise that stood him in good stead throughout his life because he had learned it to perfection.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^46.1]: For fuller details, see Chapter 1
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^46.2]: Haji Ismail Sait was one of the wealthiest merchants and businessmen in south India in the early 1900s with diverse business interests including milk powder, industrial machinery, clothing mills, horse gram, timber, distilleries, carbonic acid, soap, sugar, banking, and gold mining.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^46.3]: Champion Reefs was the second deepest underground mine in the world, located about thirty kilometers from Kolar in the mining town of KGF (Kolar Gold Fields). It was continuously operational for about a century before shutting down in 2001.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^46.4]: Quoted in Virakta Rashtraka: D.R. Venkataramanan, Navakarnataka, Bangalore, 2019, p 42
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^46.5]: See: Chapter 6, *Hakkiya Payana*
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^46.6]: DVG has written brilliant pen portraits of these men with great feeling in his classic *Jnapakachitrashale* volumes.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[When DVG met Subrahmaniya Bharati in Pondicherry	Source: [prekshaa](https://www.prekshaa.in/article/when-dvg-met-subrahmaniya-bharati-pondicherry)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 A few months later, Navaratna Krishnaswami teamed up with DVG and founded a Kannada daily titled *Bharati.* It quickly earned renown as a quality paper notable for its highly inspirational articles and in-depth analyses on various issues of national importance. Like at *Suryodaya Prakashika,* DVG’s role in the paper was limited to writing, compositing, proofreading and other activities on the production side. *Bharati* too, met a premature end.
 
@@ -5313,46 +5313,46 @@ DVG’s majestic lecture on Vedanta and Nationalism also heralded the end of his
 
 And so, in January 1909, DVG was back in Bangalore and jobless and once again, contemplating what he should do next.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^47.1]: A reprint of the full text of *Vedanta and Nationalism* is available in Selected Writings of D.V. Gundappa (in four volumes): Gokhale Institute of Public Affairs, Bangalore, 2019-2020.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^47.2]: Narrated in Virakta Rashtraka: D.R. Venkataramanan, Navakarnataka, Bangalore, 2019, pp 58-9
 
 
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG, Kasturi Ranga Iyengar, Karunakara Menon and the Triumph of an Ideal	Source: [prekshaa](https://www.prekshaa.in/article/dvg-kasturi-ranga-iyengar-karunakara-menon-and-triumph-ideal)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 But before we narrate the story of how DVG’s fortunes unfolded after his return to Bangalore, it is pertinent and educative to provide a brief survey of his last days in Madras.
 
@@ -5469,79 +5469,79 @@ Thus, when DVG quit *Mysore Times* by the end of 1912 and was contemplating yet 
 
 And the triumph took the form of an independent journalistic venture, the peerless English journal titled *Karnataka.*
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^48.1]: In those days, it was known as Postal Order Business
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^48.2]: D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, pp 225-6.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^48.3]: Ibid
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^48.4]: A Manvantara is a cyclic period of time identifying the duration and age of a Manu, the progenitor of mankind. Each Manvantara lasts for 306,720,000 years and repeats after seventy-one Yuga cycles. Each Yuga cycle comprises 4,320,000 years. Evidently, DVG uses the word *Manvantara* to denote the kind of sweeping changes that occurred in Indian journalism in just sixty years.
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^48.5]: D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p 231
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^48.6]: See: Appendix I: D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, pp 231-4
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^48.7]: Quoted in Virakta Rashtraka: D.R. Venkataramanan, Navakarnataka, Bangalore, 2019, p 59
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[How DVG founded The Karnataka Biweekly	Source: [prekshaa](https://www.prekshaa.in/article/how-dvg-founded-karnataka-biweekly)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 In a letter dated January 17, 1913, DVG outlined his future plans
 [^49.1] to his father. It was titled *Safe: A Personal Matter.*
@@ -5633,58 +5633,58 @@ Over time, a new column titled *Views and Reviews* was begun. This featured both
 
 In fact, the fruitful and highly productive journey of *The Karnataka* is a major chapter in the history of the modern Karnataka state itself, as we shall see. Today, when we read the archives of *The Karnataka,* we undergo a humbling experience of taking a profound guided tour of history. By itself, it remains DVG’s journalistic *tour de force*.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^49.1]: Virakta Rashtraka: D.R. Venkataramanan, Navakarnataka, Bangalore, 2019, pp 59-60
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^49.2]: Ibid p 60
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^49.3]: A comprehensive account of Diwan Rangacharlu later became part of the volume titled *Mysorina Diwanarugalu,* part of the complete works of DVG titled *DVG Kruti Shreni,* Government of Karnataka, 2013.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^49.4]: D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p 235
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[The Karnataka, the Indian Review of Reviews and Aftermath	Source: [prekshaa](https://www.prekshaa.in/article/karnataka-indian-review-reviews-and-aftermath)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 The first edition of *The Karnataka* contained a long form essay by Aluru Venkata Rao, popularly known as *Karnataka Kulapurohita* (High Priest of the Kannada Family), on the topic of the unification of Kannada-speaking regions. This apart, no less than Diwan Rangacharlu himself wrote a learned critique on the functioning of the Muzrai (Hindu Temple administration) Department. Other articles included analyses of the Government’s administrative machinery, various aspect related to social reform, and reports on the working of the Legislative Assembly.
 
@@ -5825,93 +5825,93 @@ Recalling this incident much later, DVG’s notes: “I suppose some divine voic
 As we have seen in detail in an earlier
 [^50.9] chapter, DVG’s last and the most successful publishing venture was the *Public Affairs* journal which he ran till he shed his mortal coils.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^50.1]: Quoted in Virakta Rashtraka: D.R. Venkataramanan, Navakarnataka, Bangalore, 2019, p 63
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^50.2]: William Shakespeare: Hamlet, Act 1 Scene 3
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^50.3]: A highly representative incident of this hostility is the behavior of Henry Cobb, narrated in an earlier chapter.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^50.4]: In his mini-biography of Diwan Visvesvaraya written much later, DVG seems to have revised his view. Here, he says that Diwan Visvesvaraya’s approach to public spending was premised on the creation of national assets, which would be beneficial to the State in the long run—say, after twenty or thirty years. As for the *Mysore Economic Conference,* DVG’s stance remains unchanged. This had less to do with Diwan Visvesvaraya’s farsighted vision behind it and everything to do with the caliber and attitudes of the people who populated it. 
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^50.5]: See Chapters 6, 7, and 8
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^50.6]: D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, pp 236-7. Emphasis added.
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^50.7]: D.V. Gundappa. Nenapinachitragalu - 2, DVG Krutishreni, Vol 7, Government of Karnataka, p 447
 
-</div>
 
-<div id="ftn8">
+
+
 
 
 [^50.8]: Ibid. p 450
 
-</div>
 
-<div id="ftn9">
+
+
 
 
 [^50.9]: Chapter 7
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[Vruttapatrike: A Classic Tome on Journalism	Source: [prekshaa](https://www.prekshaa.in/article/vruttapatrike-classic-tome-journalism)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 An exasperated American President Thomas Jefferson famously thundered at the beginning of the nineteenth century that “the man who reads nothing at all is better educated than the man who reads nothing but newspapers.”
 
@@ -5966,79 +5966,79 @@ The aforementioned story of how *Vruttapatrike* evolved as a book from a 1928 le
 
 Equally, DVG also understood the practical difficulties of adopting an alien political system like democracy to an ancient civilizational nation like India using newspapers as the medium. Which is why, as we shall see, he generously peppers *Vruttapatrike* (and other writings on journalism) with an awesome wealth of our own cultural metaphors. One such brilliant allusion is a section titled *Narada-smarane,* in which he traces the origins of the Indian tradition of journalism to Sage Narada, the divine news reporter, indeed, the first news reporter of the universe, in Hindu annals.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^51.1]: D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p 141.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^51.2]: Ibid
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^51.3]: H.M. Nayak: Foreword in D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p xx.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^51.4]: On a profound note, *Vishwarupa-Darshana* typically evokes the Vision of the Cosmos that Sri Krishna gives to Arjuna in the Bhagavad Gita.
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^51.5]: D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p 144.
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^51.6]: Ibid. pp 143-4
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^51.7]: Ibid. p 160
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[The Felicitation of a Triumphant Journalist	Source: [prekshaa](https://www.prekshaa.in/article/felicitation-triumphant-journalist)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 This is how DVG invokes
 [^52.1] Narada:
@@ -6082,72 +6082,72 @@ When these high standards are scrupulously adhered to, and when a paper is run o
 
 > *When a person who runs a solid paper emerges triumphant, the felicitation that he becomes entitled to is no less than the felicitation awarded to a minister who governs a country.*
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^52.1]: Ibid p 160-1
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^52.2]: Ibid p 165. The English translation of DVG’S original Kannada phrase, “ātmaparīkṣeya abhyāsa” hardly does justice to the full gamut of its meaning. 
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^52.3]: Ibid p 166
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^52.4]: This was also the first convention of the Association. The printed form of the lecture is titled *vṛttapatrike: adara kartavya, adakke sahāya* (Newspaper: Its Duties, the Support it Requires), available in D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, pp 156-188
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^52.5]: Ibid p 167.
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^52.6]: Ibid p 174
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[The Journalistic Role Models of DVG	Source: [prekshaa](https://www.prekshaa.in/article/journalistic-role-models-dvg)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 As in the other realms of his busy, productive and eventful life, DVG’s constant quest in journalism too, always sought the noble and the virtuous, thereby embodying the Rg Vedic dictum, *ā no bhadrāḥ* *kratavo yantu viśvatah—*may noble thoughts come to us from all directions. Consonant with this spirit, DVG displayed selfless profusion of generous praise towards British (in general, Western) papers and journalists that were independent and fair-minded. He had special regard for the following titans of journalism:
 
@@ -6188,44 +6188,44 @@ This is timeless advice by any standard. And in DVG’s view, the editor’s res
 
 Neither does DVG ignore the other areas: his expositions on the role of the citizen *vis a vis* the press, the Government’s relationship with the press, the business face of journalism and his conception of an ideal newspaper are all equally worth their weight in gold.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^53.1]: D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p 213
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^53.2]: Ibid. p 241, Italicised.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[The Grace of a Sadhu and the Heart of a Poet	Source: [prekshaa](https://www.prekshaa.in/article/grace-sadhu-and-heart-poet)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 In the realm and history of journalism, it appears that “truth” is in a state of constant swirl akin to the invisible, monstrous air-rings of a typhoon. Almost since its dawn, truths reported by the journalistic profession seem to comprise several annuli in a maze of concentric circles: *lesser* truths, *selective* truths, *subjective* truths, *incomplete* truths, *fashionable* truths, *limited* but verifiable truths, and *unverifiable* untruths that became truths because they are unverifiable. The most notorious example of the last category is Walter Duranty whose journalistic infamy has immortalized him. At his peak, he won a Pulitzer Prize in 1931 for his
 [^54.1] “intimate comprehension of conditions in Russia…marked by scholarship, profundity, impartiality, sound judgment and exceptional clarity…excellent examples of the best type of foreign correspondence." For two decades, Walter Duranty was stationed in Stalin’s Russia as *The New York Times’* foreign correspondent. His reportage was considered truthful because the other side of the world largely had no way
@@ -6258,79 +6258,79 @@ And yet, despite confidence in his own abilities, professional competence and un
 
 In fact, *Vruttapatrike* is a superb treasure chest of such quotable quotes. While these quotes primarily relate to journalism, they also have an independent or neutral quality about them.
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^54.1]: <https://spartacus-educational.com/USAdurantyW.htm>
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^54.2]: Walter Duranty enjoyed his Pulitzer-prize celebrity status for a full decade till the *New York Times* recalled him from the USSR in 1941. In the interim, some editors at the paper began to have misgivings about his dispatches from Soviet Russia. He whitewashed Stalin’s disastrous collectivization of Russian agriculture that led to a national famine, killing millions in 1932-3. Even after the paper recalled him, it did not rescind the Pulitzer Prize despite sustained pressure from the journalistic fraternity. The full extent of Duranty’s notoriety came to light roughly in the 1980s after which *The New York Times* finally began publicly acknowledging his unsavoury record. For further reading, see: S.J. Taylor. Stalin's Apologist: Walter Duranty - "The New York Times's" Man in Moscow, Oxford University Press, 1990.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^54.3]: Gay Talese. The Kingdom and the Power: Behind the Scenes at The New York Times: The Institution That Influences the World.” Apple Books, pp 17, 25.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^54.4]: D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, pp 264-5.
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^54.5]: See Chapter 6
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^54.6]: D.V. Gundappa. A Modern Tapasvi. Deccan Herald, 6 September, 1960. Emphasis added.
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^54.7]: D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, pp 182-3.
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG as the Eyewitness to the Tabular Downfall of Indian Journalism	Source: [prekshaa](https://www.prekshaa.in/article/dvg-eyewitness-tabular-downfall-indian-journalism)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 DVG’s well-founded, wise, and grounded expositions and advice to journalists, editors and newspaper owners also extend to two other vital areas which have birthed journalism and are its oxygen: the citizen and the government.
 
@@ -6384,7 +6384,7 @@ If a summary of the trajectory of Indian journalism maybe offered, DVG, one of i
 
 |                     |                                              |                                | |---------------------|----------------------------------------------|--------------------------------| | **Topic**           | **Then**                                     | **Now**                        | | Investment          | A few thousand rupees                        | A few lakhs                    | | Staff               | Ten – Twenty                                 | Hundred – Two Hundred          | | Machinery           | Primitive                                    | Advanced, massive              | | Circulation         | About two thousand copies                    | A few lakh copies              | | Content             | Ten or twenty important questions and issues | Hundred or two hundred         | | Goal                | Primacy of education, learning, insight      | Business                       | | Nature or Character | A sacred vow (*Vrata*)                       | A labour that earns livelihood | | Purpose             | Enlightening the public                      | Entertaining the public        | | Outlook             | Reporting the truth                          | Propagandizing an ideology     | | Owner               | Poverty                                      | Opulence                       | | Employee            | Half-filled stomach                         | Two square meals               | | Overall Situation   | Charitable food-house                        | Hotel                          |
 
-<div>
+
 
 The quasi-epitaph of sorts that follows this table is equally revealing.
 
@@ -6399,94 +6399,94 @@ The quasi-epitaph of sorts that follows this table is equally revealing.
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^55.1]:D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p 162
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^55.2]: Ibid
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^55.3]: Ibid. p 160. Emphasis added.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^55.4]: Ibid. p 170
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^55.5]: P.V. Kane: History of the Dharmasastra Vol 5: Part 2. Bhandarkar Institute of Oriental Research, Pune, p 1710. Emphasis added.
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^55.6]: D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p 171
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^55.7]: Ibid. p 254
 
-</div>
 
-<div id="ftn8">
+
+
 
 
 [^55.8]: Further reading: Samanth Subramaniam, Supreme Being, The Caravan, 01 December 2012
 
-</div>
 
-<div id="ftn9">
+
+
 
 
 [^55.9]: D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p 196. Emphasis added.
 
-</div>
 
-<div id="ftn10">
+
+
 
 
 [^55.10]: Ibid. p 187
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[DVG's Expositions on Journalism as a Crusade and Press Freedom	Source: [prekshaa](https://www.prekshaa.in/article/dvgs-expositions-journalism-crusade-and-press-freedom)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 This progressive degeneration of Indian journalism in DVG’s own lifetime—by reducing its high standard as a sacred calling to a routine job and thereby destroying its worth as a profession as well—prompted him to note
 [^56.1] that what “we need for our country is a Government of the people, not a Government of journalists.” Here, DVG, the Ekalavya surpasses his journalistic Dronacharya, W.T. Stead who wrote an influential tract
@@ -6549,135 +6549,135 @@ More fundamentally, he asks and answers a question
 > *The question before newspapers is similar:* *should they follow the popular trends of the people? Or should they uplift the people?*   
 > *If national well-being and progress is the paper’s chief objective, it must not rest with giving the fashionable to the people. On the contrary, it must provoke and inspire people to read the material which will elevate and ennoble them. The greatest responsibility of newspapers is to stimulate knowledge and wisdom. This is true national service.*
 
-<div>
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^56.1]:D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p 171.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^56.2]: W. T. Stead. Government by Journalism, The Contemporary Review, Vol. 49, May, 1886, pp. 653-674.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^56.3]: The Eliza Armstrong case was a massive scandal that erupted in England in the late 19^(th) century uncovering widespread child prostitution that flourished most notably in London. W.T. Stead in his capacity as the editor of the *Pall Mall Gazette,* wrote a four-part series sensationally headlined, *The Maiden Tribute of Modern Babylon.* It was a detailed investigative report on this social evil and sent shockwaves throughout England. To demonstrate the truth of his findings, Stead and his team arranged to “purchase” a 13-year-old girl, Eliza Armstrong, daughter of an impoverished chimney-sweep. The first instalment of this series was sold out in record numbers and was traded in the black market for twenty times the original price of the copy. Stead’s daring feat was enormously influential. George Bernard Shaw named his lead character in *Pygmalion* as Eliza Dolittle. The expose also resulted in the passage of the Criminal Law Amendment Act, 1885, also known as Stead’s Act. However, it also landed Stead in jail because his detractors caught hold of a technical law point: that he had failed to actually secure the permission of Eliza’s father for the aforementioned “purchase.” See, for example: Gretchen Soderlund. William T. Stead and the Soul of Sensationalism in Sex Trafficking, Scandal, and the Transformation of Journalism, 1885-1917. University of Chicago Press, pp 24 – 66.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^56.4]: D.V. Gundappa. W.T. Stead: Our Journalistic Ancestor. Selected Writings of D.V. Gundappa (in four volumes). Gokhale Institute of Public Affairs, Bangalore, 2019-2020, p 335.
 
-</div>
 
-<div id="ftn5">
+
+
 
 
 [^56.5]:D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p 171.
 
-</div>
 
-<div id="ftn6">
+
+
 
 
 [^56.6]: See Chapter 7
 
-</div>
 
-<div id="ftn7">
+
+
 
 
 [^56.7]: D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p 180.
 
-</div>
 
-<div id="ftn8">
+
+
 
 
 [^56.8]: Ibid. p 184. Emphasis added.
 
-</div>
 
-<div id="ftn9">
+
+
 
 
 [^56.9]: This extract is from the aforementioned Presidential speech at Bagalkot that DVG delivered in 1928. As such, this specific paragraph should be read keeping that period in mind.
 
-</div>
 
-<div id="ftn10">
+
+
 
 
 [^56.10]: Titled, *Vruttapatrika Swatantrya:* Literally, “Freedom of Newspapers.” Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p 189-98.
 
-</div>
 
-<div id="ftn11">
+
+
 
 
 [^56.11]: For the full verdict, see: Romesh Thappar vs The State Of Madras on 26 May, 1950. <https://indiankanoon.org/doc/456839/>
 
-</div>
 
-<div id="ftn12">
+
+
 
 
 [^56.12]: D.V.Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p 190, 192. Emphasis added.
 
-</div>
 
-<div id="ftn13">
+
+
 
 
 [^56.13]: Ibid. p 248
 
-</div>
 
-<div id="ftn14">
+
+
 
 
 [^56.14]: Ibid. p 238
 
-</div>
 
-<div id="ftn15">
+
+
 
 
 [^56.15]: Ibid. pp 273-4
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
 
 
 [[The Training and Education of a Journalist: A Finale	Source: [prekshaa](https://www.prekshaa.in/article/training-and-education-journalist-finale)]]
 
-<div class="field field-name-field-body field-type-text-with-summary field-label-hidden">
 
-<div class="field-items">
 
-<div class="field-item even">
+
+
+
 
 Apart from the foregoing note about *Vruttapatrike* being a rich source of quotable quotes, one can also distill a wealth of invaluable practical advice for both an aspiring and professional journalist. Such a compilation will prove to be a constant companion that will guide, train, and offer succor and solace to the journalist. It will perchance also act as a chastity belt on the scribe’s conscience.
 
@@ -6810,13 +6810,13 @@ These are not words but fragrant breeze befittingly wafting from this gentle for
 
 *Concluded*
 
-<div>
+
 
   
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 ## Appendix I: List of Publications DVG Founded
 
@@ -6826,77 +6826,77 @@ These are not words but fragrant breeze befittingly wafting from this gentle for
 
 1.  Suryodaya Prakashika (Kannada) 2.  The Evening Mail 3.  The Mysore Standard 4.  Nadegannadi (Kannada) 5.  Mysore Times (Assistant Editor) 6.  The Hindustan Review 7.  New India 8.  Servant of India 9.  The Hindu 10. The Wealth of Mysore 11. Daily Post 12. Vishwa Karnataka (Kannada) 13. The Pioneer 14. Swarajya 15. The Bombay Chronicle 16. The Madras Mail 17. Triveni Journal 18. Current Science 19. Daily News 20. Deshabandhu 21. Samyukta Karnataka (Kannada) 22. The Indian Express 23. Prajamata (Kannada) 24. Prajavani (Kannada) 25. Kannada Prabha (Kannada) 26. Deccan Herald 27. Mysindia 28. The Literary Criterion Summer 29. The Aryan Path 30. Bhavan’s Journal 31. Illustrated Weekly of India 32. Kalki (Tamil)
 
-</div>
 
-</div>
 
-<div>
+
+
+
 
 ### Notes
 
 ------------------------------------------------------------------------
 
-<div id="ftn1">
+
 
 
 [^57.1]: D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, p 282.
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^57.2]: As mentioned the main text, this section is the paraphrased summary of the chapters in DVG’s *Vruttapatrike* titled *Patrikeya Chaturanga* (The Four Organs of a Paper) and *Kasabu, Tayari* (Profession, Training). D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, pp 244-50 and 259-63. Emphases added.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^57.3]: Kempu Narayana was a 19^(th) century Kannada literary luminary best known for his prose work, *Mudraa-Manjusha* based on the famous story of Chanakya overthrowing the Nanda dynasty. It is considered to be a pioneering work of modern Kannada prose. Kempu Narayana flourished in the reign of Krishnaraja Wadiyar III.
 
-</div>
 
-<div id="ftn4">
+
+
 
 
 [^57.4]: These works are the acclaimed classical works in Kannada, still widely studied and recited. *Shatpadi* is a meter in Kannada prosody that has been used extensively in Kannada poetry. The meter typically has six *paadas* (literally, foot) of syllables, divided into groups of various fixed numbers of *maatras* (length of time required to pronounce a short vowel) in each line.
 
-<div>
 
-<div id="ftn1">
+
+
 
 
 [^57.5]:Howard Fast. The Naked God. Open Road Integrated Media, 2011
 
-</div>
 
-<div id="ftn2">
+
+
 
 
 [^57.6]:D.V. Gundappa. Sankeerna, DVG Krutishreni, Vol 11, Government of Karnataka, pp 271-2.
 
-</div>
 
-<div id="ftn3">
+
+
 
 
 [^57.7]:K.S. Ramaswami: Beloved D.V.G., Public Affairs, October-November 1949, Gokhale Institute of Public Affairs, Bangalore p 233. Emphasis added.
 
-</div>
-
-</div>
 
 
 
-</div>
-
-</div>
 
 
 
-</div>
 
-</div>
 
-</div>
+
+
+
+
+
+
+
+
+
