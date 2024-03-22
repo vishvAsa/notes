@@ -1,5 +1,5 @@
 +++
-title = "Who are the Rasikas? ("
+title = "Who are the Rasikas?"
 
 +++
 
