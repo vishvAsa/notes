@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Articles on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/tips/articles/</link>
+    <description>Recent content in &#43;Articles on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/computing/programming/tips/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>virtuosity - MT</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/tips/articles/virtuosity_MT/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/computing/programming/tips/articles/virtuosity_MT/</guid>
+      <description>Let us say &amp;ldquo;high&amp;rdquo; IQ is about &amp;gt;=135, probably the minimum IQ needed to be an effective scientist (I don&amp;rsquo;t believe Feynman/Wilson&amp;rsquo; s self-reported IQs) then 2 tend to be positively correlated, i&amp;rsquo;d hazard with a r^2 \approx 0.6 or so. Of course, there is something like a virtuoso programmer, just like there is a virtuoso cricketer or artist or writer. This is not purely a function of raw IQ, i.</description>
+    </item>
+    
+  </channel>
+</rss>
