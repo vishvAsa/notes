@@ -12,10 +12,7 @@ Blood vessel health is explained elsewhere.
 
 ### Hydration
 
-Hierarchical regression models demonstrated that lower hydration status
-was related to slowed psychomotor processing speed and poorer
-attention/memory performance, after controlling for demographic
-variables and blood pressure.
+Hierarchical regression models demonstrated that lower hydration status was related to slowed psychomotor processing speed and poorer attention/memoryperformance, after controlling for demographic variables and blood pressure.
 
 ## Physical damage
 About an American football player: He committed suicide November 2006 at the age of 44. The results of his brain autopsy have just been announced, and the pathologist from the University of Pittsburgh concluded that his brain cells had the appearance of an 85-year-old man with Alzheimer's disease.
