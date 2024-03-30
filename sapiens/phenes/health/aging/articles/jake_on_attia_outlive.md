@@ -82,11 +82,12 @@ We all start losing muscle and the ability to create new muscle as we grow older
 
 A more personal example, as an athlete that enjoys spending my time: skiing, biking, climbing mountains, whitewater kayaking, and other similar activities, strength is paramount as it will allow me to live the life I want and engage in the things I love as I age. Peter has a section in “Outlive” on a similar concept called the “Centurion Olympics” where he focuses his training around things he still wants to be able to do in later years of life. For example, I want to be able to ski for a day, do a 4+ mile hike with 1000 ft of climbing, pick up my grandchildren, and travel independently in my 90s. By having specific goals in mind I can tailor my program around these activities.
 
-### Implementation
 In terms of training for these benefits Peter dedicates 3 strength training sessions per week of around 45-60 minutes each, in these sessions he makes sure to target all the major muscle groups weekly. These workouts should focus on heavy loads and lower rep ranges around 4-12. There are a ton of resources on building strength focused programs online so I will skip the details but personally like big compound movements to start these sessions with more targeted work on individual muscles after these are complete.
 
+### 4. Stability training
 Finally, I was really glad to see Peter mention dedicating time to stability training as we must also be able to move properly for all our other training, as well as to avoid injuries and imbalances. Peter doesn’t go into as many specifics here but mentions spending an hour plus a week on stability work. I imagine this as being things like training scapular stability, core stability, working with functional movement patterns, and having strength in end ranges of motion. This is something I am always dedicating time to and have seen firsthand the injuries and issues that arise when this is neglected.
 
+### Summary
 To summarize this section below is a weekly exercise routine based on “Outlive”
 
 Monday: 10 minutes stability, 60 minutes lower body strength  
