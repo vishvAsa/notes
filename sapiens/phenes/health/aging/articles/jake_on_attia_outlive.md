@@ -64,7 +64,7 @@ In terms of exercise types Peter breaks these down into the following four main 
 
 ## Exercise Pillars
 
-These 4+++(3??)+++ pillars of exercise are:
+These 4 pillars of exercise are:
 
 ### 1. Zone 2 training
 
