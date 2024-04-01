@@ -55,3 +55,8 @@ Tyagaraja Swami (of Kakarla-kula of vaidiki mulukanADu brAhmaNas, a Telugu clan)
 
 ### रङ्गरामानुजः
 the उपनिषद्-भाष्यकार of the रामानुज tradition & is remembered for writing commentaries for the उपनिषद्-s from a विशिष्टाद्वैत perspective
+
+### इञ्जिमेडु-रङ्गनाथः
+महान् विद्वान्।  
+यौवने रहस्यविषयेषु सन्देहनिवृत्त्यादि लब्धुं महात्मन इञ्जिमेडूद्भव-रङ्गनाथं प्रातः सार्ध-त्रिवादने प्रतीक्षते स्म प्रतिवादि-भयङ्कराण्णङ्गराचार्यः, यदा स काञ्चित् कल्याणीम् प्रति स्नानार्थं स निर्याति स्म!
+
