@@ -91,8 +91,13 @@ title = "+Filter"
 - Recommended for TDS 200-2k.
 - uses semi permeable membranes
 - Wastes 2x or 3x water. Green RO water purifiers better.
+
+### Effectiveness
 - very high effectiveness in removing protozoa (for example, Cryptosporidium, Giardia), bacteria (for example, Campylobacter, Salmonella, Shigella, E. coli),  viruses (for example, Enteric, Hepatitis A, Norovirus, Rotavirus)
 - remove common chemical contaminants (metal ions, aqueous salts), including sodium, chloride, copper, chromium, and lead; may reduce arsenic, fluoride, radium, sulfate, calcium, magnesium, potassium, nitrate, and phosphorous.
+
+### Drawback
+Removal of beneficial minerals like ca, mg and cobalt (part of vitamin b12).
 
 ### Membranes
 - Longer membranes (more windings in filter cylinder) imply more filtration (provided the pump has the ability to push water through it).
@@ -105,7 +110,7 @@ title = "+Filter"
 - Applied to waste water pipe in RO system. 
 
 ### Flow restrictor
-- When flow restrictor is applied there is water pressure.
+- When flow restrictor is applied there is higher water pressure.
 
 ### Zero wastage RO
 - Pump back rejected water to pipe.
@@ -134,3 +139,4 @@ title = "+Filter"
 - Good idea to change external sediment filter every 6 months or so.
 - Service near sahakAranagara
   - Manju and chandan - INR 2800 in 2023 for replacing prefilter, sediment, carbon, RO filters, + flow restrictor. 3k when another pre-filter was serviced.
+  - alt 2024 - INR 3500 for replacing pump, coil
