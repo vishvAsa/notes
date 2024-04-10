@@ -2,6 +2,12 @@
 title = "Sugar tax - save copper"
 +++
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Kudo Heisuke
+</details>
+
+
 Sugar, too, should be monopolized.105 Sugar, as Heisuke explained, being simply a luxury that the lower ranks should not enjoy as much as they did, should be regulated, because sugar was traded for copper, and the more sugar the people consumed, the more precious copper left the country.106 The lower ranks did not trouble to think about it, but the government ought to:
 
 > Our precious copper leaves the country so that the lower ranks can eat sugar. They do not give a second thought to the fact that 1,000,000 kin of copper leave our country annually for sugar.... Yet, while the sugar import should not be stopped, it should be controlled tightly by a monopoly (za). Thereby the lower ranks would not consume sugar, or fancy it, so much.107
