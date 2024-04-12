@@ -51,9 +51,8 @@ Nalayira Divya Prabandham is a magnum opus work of 4000 verses Tamil Alzwars and
 
 <details><summary>ज्ञातदोषाः</summary>
 
-shrI garaNi shrInivAsa made a few serious mistakes.  Examples:
+shrI garaNi shrInivAsa made a few minor mistakes.  Examples:
 
-- In the [first verse](https://archive.org/details/divya-prabandha-pratipadArtha/01.%20%20Periyazhwar%20Tiruppallandu/page/n49/mode/1up?view=theater) he makes up तिण्डोळ् instead of तिन्दोळ्  (contrast with other sources: [1](http://divyaprabandham.koyil.org/index.php/2020/03/thiruppallandu-tamil-simple/) ).
 - [२०१२](https://archive.org/details/divya-prabandha-pratipadArtha/22.%20%20Periya%20Tirumozhi-eleventh%20century/page/n95/mode/1up?view=theater) इत्यत्रापि - ईषत्परिष्कार्यो ऽर्थो भाति। Kausalya Hart तत्र - "2012. The dear lord whose chest is adorned with jewels shines like a golden hill and rides on the bird Garuḍa. He used Mandara mountain as a churning stick and the snake Vasuki as a rope, churned the milky ocean, took the nectar from it and gave it to the gods. If devotees have not seen him, their eyes are not truly eyes."
 </details>
 
