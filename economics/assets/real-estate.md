@@ -2,6 +2,14 @@
 title = "Real estate"
 +++
 
+## Communal ownership
+### History
+Once upon a time joint families thrived and jointly owned property. In 1900s they disappeared. Also since then, there are hardly any takers for hindu joint family ownership/ taxation structure(reason being "next generation won't think like you").
+
+Some religious sects appear able to manage large land holdings over the long term. Eg. Radhasoami Satsangh's dayAlbAgh near agra had 1200 green acres by 2020. [DEI](https://www.dei.ac.in/dei/index.php?option=com_content&view=article&id=90:community-life-at-dayalbagh&catid=25:about-dayalbagh&Itemid=110) 
+
+### Risks
+Government risk: with a single stroke they can take away the lands as they did with land ceiling, tenant owner etc.. applied to hindu temples and institutions in 1960s.
 
 ## India
 ### Residency and India connection determination
