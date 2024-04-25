@@ -88,7 +88,9 @@ title: Un-schools
 - Arundhati Gurukulam of Uttaradi Matha -- founded in the lines of Purnapramati -- initially desired only to have girls but did not work out for them, as I come to learn.
 
 ## द्रविडदेशे
-- [मेधा शास्त्र-गुरुकुलम्](https://sites.google.com/view/sastrapatashala)
+- [मेधा शास्त्र-गुरुकुलम्](https://sites.google.com/view/sastrapatashala) [alt](https://www.medhagurukulam.org/gurukulam), Nanganallur, Chennai - Admits girls with own accommodation too.
+  - Future - Brahmadesam village, near Kanchipuram in Tamilnadu
+- ubhaya-bhAratI kanyA gurukulam, senkoTTai [YT](https://youtu.be/kNrTgveETUc?si=m2Xhc-B3-Osc9o5I)
 - [dharma gurukulam, anAdi](https://sites.google.com/anaadi.org/dharmagurukulam/homeschool), Palani.
 - [agastya Academy](https://www.youtube.com/watch?v=tRwnyOzOXus), Waldorf inspired day cum residential  CBSE School located in Arachalur, in the outskirts of Erode, TamilNadu. The school was started in the year 2018. It is a 30 acre green campus. Morning farming, yoga, music, sports, non-competitive till age 10, dorms.
-- Sampradaya Pathashala of Kanchi Matham - a traditionalist female gurukula
+- Sampradaya Pathashala of Kanchi Matham - a traditionalist female gurukula [SG](https://sampradaya.org)
