@@ -1,6 +1,8 @@
 +++
 title = "Christian punjAb vote"
 +++
+NOTE: propaganda piece exaggerating importance of christians in securing w punjab for pAk.
+
 Source: [TW](https://www.ucanews.com/news/how-jinnahs-christians-helped-form-independent-pakistan/93712#google_vignette)
 
 How Jinnah's Christians helped form independent Pakistan
