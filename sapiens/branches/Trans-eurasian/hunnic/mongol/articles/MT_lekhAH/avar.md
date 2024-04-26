@@ -28,3 +28,29 @@ This, along with the aDNA data suggests that the Avar elite indeed spoke a Mongo
 - Jurchen: Tungusic
 Chingizid: Mon
 Manchu: Tungusic 
+
+
+## xiongnu + xianbei/serbi
+
+Source: [TW](https://threadreaderapp.com/thread/1783341076037734620.html#google_vignette)
+
+In some parts of the world aDNA studies have become a matter of fact tool for reconstructing lost history like this massive study of the Avar Khaghanate individuals from Hungary. Like the earlier study it shows the tale of "Mongols" before the Chingizids
+
+Network of large pedigrees reveals social practices of Avar communities - [Nature](https://www.nature.com/articles/s41586-024-07312-4)
+
+It seems the East Asian component of the Avars in the west  
+can be modeled best with Late Xiongnu & certain Xianbei (Serbi) individuals.  
+We take the Xiongnu to be early members of the Mongolic branch,  
+while as Shimunek demonstrated Xianbei to be early members of the Serbi branch of Serbi-Mongolian (Serbi = para-Mongolic).  
+
+When the Serib Khaghanate rose  
+it incorporated several elements of the Xiongnu Hun Shanyuate into it.  
+The Rouran Khaghanate that arose upon the disintegration of the Serbi,  
+it was likely led by a Mongolic group.  
+
+Even the name Mongol might have emerged with a group of the Rouran -- recorded as maMkhuya who invaded Khotan.  
+The western branch of this Rouran horde founded the Avar potentate in Europe. 
+
+In this work the clear admixture over time of the Mongolic people with Iranic & Germanic peoples can be seen.
+
+Finally -- we have evidence that even a brAhmaNa was incorporated & his family married into the Rouran Khaghanate.+++(5)+++ I wonder if someday in central Asia we might find evidence for such admixtures. 
