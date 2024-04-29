@@ -16,24 +16,13 @@ and nutritious: Quinoa, Buckwheat groats (not related to wheats).
 
 ### Fruit juices
 
-Avoid prune, plum, apple juices as they have caused diarrhoea in the
-past.
+Avoid prune, plum, apple juices as they have caused diarrhoea in the past. 
 
-Odowalla superfood, carrot juice, orange juice are good.
-
-Avoid fruit juices in general, as they provide many calories, without
-other good things like pulp and fiber.
+Avoid fruit juices in general, as they provide many calories, without other good things like pulp and fiber.
 
 ### Long lasting fruits
 
 Cucumber. Capsicum.
-
-### Pesticides, ripeners, preservatives
-
-Mango and sapoTa in bhArata are heavily sprayed with artificial ripeners
-and insecticides.
-
-In USA, Mango is usually clean.
 
 ## Oil and fat
 
