@@ -9,3 +9,12 @@ The Indo-Iranian polytheists of Chitral and present-day Nuristan (erstwhile Kafi
 This intense hatred of just Muslims seems to probably be a consequence of having to deal with repeated invasions of their homeland by different Islamic Empires in different centuries; Ghazni, Timur, Akbar all had attacked them unsuccessfully. They had beaten them back. The reason we say they specifically only hated Mohammedans was because they welcomed Sir George Scott Robertson because he was an English Christian. The Christians were seen as fellow non-Muslims and hence as “honorary Kaffirs”.
 
 This dislike of only Muslims as being especially ritually impure seems to have continued to date in the modern-day Kalasha Indo-Aryan people of Chitral. Muslims cannot join in any of the Kalasha-mun festivals but non-Muslims can.
+
+## Prayers
+The Kalash really hated Muslims in the 19th century. They would sacrifice to the Gods with a prayer to "Kill the Mussulmans" and considered killing Mohammedans their religious duty.
+
+> prayer, pithy and comprehensive, although not remarkable for charity, was offered up: 
+> 
+> "Ward off fever from us. Increase our stores. Kill the Mussulmans. After death admit us to Paradise." 
+> 
+> Killing the Mussulman was a religious duty which the Kafirs performed with the greatest fidelity and diligence. In fact, no young man was allowed to marry until he had killed a Mussulman. They attached the same importance to the killing of a Mussulman as the Red Indians did to taking the scalp of an enemy. Their number did not appear to exceed 250,000. They inhabited three valleys, and small as their number ... 

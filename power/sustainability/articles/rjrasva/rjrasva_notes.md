@@ -21,5 +21,11 @@ The amount of wood required to produce charcoal, and later charcoal used for sme
 Massive increase in iron production in England after the switch from charcoal to coal, and the discovery and creation of steam engines
 Making England the top producer in the world
 
+## Coal exhaustion predictions
+> The manufacturing industry of this island, colossal as is... Should our coal mines ever be exhausted, it would melt away at once our manufactures would first feel the shock ; the excess of population supported by them would cease to be called into existence
+> 
+> Outlines of the Geology of England and Wales
+By William Daniel Conybeare, William Phillips · 1822
+
 ## Mineral extraction
 The extraction needed keeps going up as all the high ore grades were exhausted long back. Lower ore grades = more diesel needed. [cu-chile](https://mining-journal.com/base-metals/resourcestocks/4069657/chile-worlds-most-prolific-copper-producing-country)
