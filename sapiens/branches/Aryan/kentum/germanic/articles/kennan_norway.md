@@ -14,9 +14,7 @@ Kristiansand, June 12 1974
 >
 > That the present prosperity of Scandinavian civilization might have had something to do with moderate humans and responsible self-government, with industrious habits, with individual self-respect and independence and initiative, and with high levels of integrity in the approach to work, seems never to have entered their heads: they can see this prosperity only as a proof of guilt.
 >
-> This sort of intellectual primitivism, along with the sweeping urbanization and industrialization of the country, the total surrender to the automobile, the turning-of-the-back on the sea, the failure to learn from the mistakes of the major highly-developed countries and the willingness to ape them in their worst errors-all this is causing me gradually to lose interest in Norway. . . . It
->
-> simply saddens me, because I have loved the country in a way, and have felt that here, with the magnificent natural setting and the small, hardy population, there was a chance, if there was anywhere, to avoid the worst mistakes of over-development, to retain a healthy relationship between man and Nature, and to preserve the qualities of hardiness, freshness, modesty, and simplicity in people themselves.  
+> This sort of intellectual primitivism, along with the sweeping urbanization and industrialization of the country, the total surrender to the automobile, the turning-of-the-back on the sea, the failure to learn from the mistakes of the major highly-developed countries and the willingness to ape them in their worst errors-all this is causing me gradually to lose interest in Norway. . . . It simply saddens me, because I have loved the country in a way, and have felt that here, with the magnificent natural setting and the small, hardy population, there was a chance, if there was anywhere, to avoid the worst mistakes of over-development, to retain a healthy relationship between man and Nature, and to preserve the qualities of hardiness, freshness, modesty, and simplicity in people themselves.  
 > [Kennan played no role in the Helsinki talks that concluded in July.]
 
 
