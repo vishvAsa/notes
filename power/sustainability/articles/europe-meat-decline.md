@@ -10,7 +10,7 @@ Their limitations become apparent in the fact that nutrition deteriorated steadi
 
 In Germany annual meat consumption in the 14th and 15th centuries was about 100 kg per head. This figure was only reached again in the affluent society of the 20th century. In the 18th and early 19th century, the final phase of the agrarian system, meat consumption was 14 kg per person, i.e. it had dropped to an eighth. This sensational downturn saw the number of butchers in towns decline despite population growth. Of course, it must be remembered that the upper classes continued to consume meat in quantity, so that the general decline in meat consumption meant that the lower classes ate virtually no meat.
 
-## 1800 - 8 oz annual
+## 1800 8 oz annual
 MAJOR DIETARY CHANGES IN NINETEENTH-CENTURY EUROPE
 VINCENT J. KNAPP
 
@@ -40,3 +40,24 @@ It must be added, however, that this age did not know what the twentieth century
 
 In the 1780s, the French social observer A. A. Parmentier described the ordinary foods in Europe as cereal products.+++(5)+++  
 But he also noted that in times of scarcity what he called "unusual foods," such as potatoes, peas, carrots, parsnips, and celery could be consumed if one were desperate enough to eat them [19]. As the nineteenth century unfolded, a
+
+
+## Potato switch
+It is known tht 1 reason potatoes were encouraged in Europe was for military reasons as grain was easily looted by troops where as potatoes were harder to take growing underground.
+
+### Prussia
+> during the War of the Austrian Succession, (1740-48) Fredrick the Great of Prussia recognized how valuable potatoes were for keeping peasants alive in time of war, and in 1744 ordered his government to propagate the tubers throughout his kingdom by distributing free seed potatoes with instructions on how to plant them. As a consequence, even when invading French, Austrian and Russian armies ravaged Prussia repeatedly during the Seven Years war, (1756-63) Frederick's peasant subjects escaped disaster by eating potatoes, and the precarious survival of the Prussian state owed a great deal to that elemental fact. Not surprisingly, the invading armies became aware of the basis of Prussia's remarkable resiliency, and, in the aftermath, the Austrian, Russian and French governments all took steps to induce their own peasants to make room in their fields for the new crop.
+
+There are 15 known such “potato orders”; the first was enacted in 1746 on the occasion of a famine in Pomerania . [1] In addition, he had the pastors promote the spread of potatoes, who, as “tuber preachers,” passed on new knowledge.
+
+### France
+> The French took the lead, largely due to the initiative of an army doctor, Antoine Parmentier, who on the basis of what he saw in Prussia during the Seven Years' War devoted the rest of his life to investigating and propagating information about potatoes.  
+> His most important work, Examen chymique des pommes de terres (Paris, 1774) demonstrated the nutritional value of potatoes convincingly; and Louis XVI and his court were persuaded to lend themselves to a concerted effort to make the value of potatoes familiar to their subjects. Despite her subsequent "Let them eat cake” fame, Marie Antoinette even donned a headdress of potato flowers at a court ball to advertise the plant's virtues. 
+> 
+> And subsequently, in 1794, when the Committee of Public Safety was trying desperately to mobilize the country against its foreign foes, one way it chose to dramatize the effort was by planting potatoes instead of flowers in the royal gardens of the Tuileries.
+> 
+> Between 1770 and 1840, official encouragement and practical experience thus converged to bring potatoes into widespread cultivation across the northern parts of France where the climate was propitious. Government statistics registered the change, reckoning the annual potato crop of France as 21 million hectoliters in 1815; and 117 millions in 1840 (Langer, 1963, 1973).
+> 
+> In Austria and Russia official efforts to propagate potatoes also produced relatively rapid results, though peasant caution, the restraints of open field cultivation and climatic limitations (the steppes of the Ukraine, for example, and eastern parts of the Hapsburg monarchy were too dry for potatoes to flourish) set limits to the potato's advance. Thus, according to Langer, although potatoes had become widely familiar in Russia by 1800, they did ...
+
+
