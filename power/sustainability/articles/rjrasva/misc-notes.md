@@ -22,7 +22,3 @@ In addition, coal is very fluid. It has been used for a long time to produce gas
 Mitchell's thesis illustrates an appetite for materialist explanations of politics but a paradoxical disinterest in the history of production, which leads to false narratives. Its success is easily explained: intellectuals have never given up on technical determinism.
 
 ...
-
-## Coal wood symbiosis
-
-## Oil charcoal
