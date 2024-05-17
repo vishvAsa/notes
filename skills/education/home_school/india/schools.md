@@ -19,6 +19,10 @@ title: Un-schools
 - [vibudhAlaya](https://vibudh.org/)
   -  "first batch of kids, who wanted to take the exam, took NIOS exams successfully in 2022. we've a general curriculum but help kids prepare for exams, if they choose to go for exams--NIOS/ IGCSE."
 
+### Rangan's schools
+- sItAlaxmI gurukulam  
+- shrutirAm [gurukulam](https://webolim.org/?page_id=241) 
+
 ### Aarohi
 - beyond Hosur - [visit ppt](http://aarohilife.org/home/content/visiting-o-campus).
 
@@ -53,6 +57,7 @@ title: Un-schools
 - विषयाः
   - Languages – Kannada, Samskrita, English
   - Stories – Raja-Rani stories, Panchatantra, Bhagavatam, Dashavatara, Ramayana, Mahabharata
+
 
 
 ### अन्ये
