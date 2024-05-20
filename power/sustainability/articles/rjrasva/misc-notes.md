@@ -1,6 +1,11 @@
 +++
 title = "Misc notes"
 +++
+## No energy transition in the past
+Still true, far more coal is used now than in the 19th cent, there has never been an energy "transition" as such, only energy additions. From:
+
+biomass → biomass + coal → biomass + coal + oil → biomass + coal + oil + natural gas ...
+
 ## Oil and comfort
 No u won't find oil in any random place, no technology cannot create oil (in ground anyways, u can do coal to oil at a cost), most important keeping u comfortable in future isn't AI but oil, gas, & coal
 
