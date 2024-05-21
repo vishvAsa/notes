@@ -84,6 +84,14 @@ ettUr lakshmIkumAra tAtAchArya, son of paramatabhanjana-tAta-deshika by adoption
 ## गरणि-श्रीनिवासः
 KannaDa writer who translated 4k divyaprabandhas. See separatel [article](../articles/garaNi-shrInivAsa-exegesis/).
 
+
+## Sundapalayam Ramabhadrachariar
+Sri Sundapalayam tirumalai Ramabhadrachariar, a Maha Kavi (Great Poet), was born in 1840 in the village of Sundapalayam, near Coimbatore. Hailing from a well educated family, he enriched his knowledge by constantly interacting with scholars and pandits who visted his family. He had authored over 20 such works through out his life. In spite of his fame, he led a very simple and orthodox life. He died in 1904 at the age of 65.
+
+His poetical works are noted for their versatility, purity, elegance, mastery of language, originality in thought, rich imagery, majesticity of expression, aptness in the choice of words, word play, sweetness in recitation and adaptability to music. Many such poems are intended for and capable of being embedded in pictures. For all these reasons, he is considered a Maha Kavi (Great Poet). All of these characteristics are being reflected in his master piece, Chitrakavyam.
+
+Author of Ahnika-sheShaH.
+
 ## दक्षिणकलार्याः
 A small section of tataryas (mostly belonging to the addanki branch and some belonging to srimushnam branch with a few more here n there) are tenkalais. More than 95% of tataryas must be vdk.
 
