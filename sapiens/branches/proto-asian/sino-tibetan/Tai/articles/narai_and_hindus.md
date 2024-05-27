@@ -1,0 +1,14 @@
++++
+title = "Narai and hindus"
++++
+
+King Narai of Ayutthaya had some fifty Rajputs in his retinue of personal bodyguards in the 1680s, along with Moors (primarily Persians), Tatars and Laotians.
+
+The reign of King Narai saw a Khmer inspired Hindu revival, a trend started by his father Prasat Thong, who linked himself back to the Angkorian kings. Local Brahmins and Hindu rituals dominated the court, works composed around the time making no mention of Buddhism.
+
+> Prasat Thong favored the court Brahmans and
+Brahman ritual. The chronicle contains an elaborate account of his anointment as king in which the court Brahmans administer the rite with no one else present. After the king had built the Si Yasodara Mahaphiman, the "holy teachers, domestic chaplains, astrologers, elders and preceptors" berated him for not honoring Indra in the palace's name and hinted that the consequences could be grave. He accordingly renamed it the "palace of Indra the emperor."119 In the mid-1630s, the king became concerned about the astrological significance of the approach, in April 1639, of year 1000 in the Chula Sakkarat calendar. To avert catastrophe, he decided to rebase the calendar in a magnificent ceremony staged in an elaborate reconstruction of the Three Worlds geography, with the court Brahmans, dressed up as the Hindu gods, acting as the main officiants. Shortly after, he held the "One Hundred Great Donations," a massive act of charity in which the Brahmans were the primary recipients.120 According to the chronicle, he named his son Narai because at his birth "holy relatives and kinsmen at first glance thought he was endowed with four arms" like Vishnu.121  
+> 
+> This Brahmanical trend continued into Narai's reign. Phra Maharatchakhru, head of the Brahman department, composed a eulogy of Prasat Thong that focuses on the attempt to change the calendar and makes no mention of any royal patronage of Buddhism.123 Prasat Thong's funeral and Narai's coronation were elaborate Brahmanical affairs. Narai's coronation title included the entire Brahmanical pantheon, occupying twelve lines in the printed versions of the chronicle. Narai had five images of Shiva and one of Brahma cast. He performed a "Holy Royal Ceremony of the Five Rites" which included a procession to the jail where the king "had robbers executed."124 
+> 
+> Late in the reign, a Brahman official composed a poetic eulogy of the king. The conventional opening pays homage to the Hindu trinity, and the finale extends the list to around fifteen Hindu gods and goddesses, with no mention of the Buddha or the Three Jewels.125
