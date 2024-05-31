@@ -1,5 +1,5 @@
 +++
-title = "Jevons on coal"
+title = "Owen, Williams, Jevons on coal"
 +++
 
 Source: [TW](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2694975)
