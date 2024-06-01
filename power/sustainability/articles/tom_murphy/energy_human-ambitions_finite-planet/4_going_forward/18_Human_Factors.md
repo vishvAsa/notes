@@ -29,7 +29,7 @@ A common fallacy is that a collection of people, possessing access to the same s
 [^2]: ... itself a perplexing challenge in an ecosystem of polarized information flow
 
 
-The Myers-Briggs scheme[^3] has four categories that are usually repre- sented as binary (either/or) labels, but in truth also exist on a continuum as do the Big-5 traits. Each category in Myers-Briggs acquires a one-letter label, in the end generating 16 possibilities. [^4]
+The Myers-Briggs scheme[^3] has four categories that are usually represented as binary (either/or) labels, but in truth also exist on a continuum as do the Big-5 traits. Each category in Myers-Briggs acquires a one-letter label, in the end generating 16 possibilities. [^4]
 
 
 [^3]: Myers-Briggs often triggers a reaction among knowledgeable individuals that it is an invalid, or debunked personality measure. If you are one of those, please reserve judgment until seeing how it is framed, and accompanying data.
@@ -101,13 +101,13 @@ ENFJ
 1.8
 18 Human Factors
 306
-Figure 18.1: Frequency of Myers-Briggs types from one collection of data, as per- centages [^117]. Areas are proportioned ac- cordingly. Don't take the numbers literally: they are not as precisely determined as dec- imals indicate, but visually at least this rep- resentation gives a decent sense for distri- bution. Note how significant it is when a two-thirds majority of interest-selected indi- viduals piles into the small INTJ and INTP boxes at upper right, as described in the
+Figure 18.1: Frequency of Myers-Briggs types from one collection of data, as percentages [^117]. Areas are proportioned accordingly. Don't take the numbers literally: they are not as precisely determined as decimals indicate, but visually at least this representation gives a decent sense for distribution. Note how significant it is when a two-thirds majority of interest-selected individuals piles into the small INTJ and INTP boxes at upper right, as described in the
 text.
 this text, found that a staggering 44% of about 1,000 survey respondents shared the same INTJ type as the author, despite INTJs constituting only about 2% of the population. The over-representation of INTJ is thus about a factor of 20, and beyond question a statistically significant result (see Figure 18.2). The adjacent INTP cohort accounted for an additional 21% of visitors, despite being about 3% of the population. Thus about two-thirds of the site visitors represented 5% of the population for more than a factor-of-ten anomaly. While the Myers-Briggs scheme is not free of criticism (see Box 18.1), the result from Do the Math is pretty convincing that the Myers-Briggs scheme is measuring something relevant. Had the site asked for astrological sign, we can be pretty sure that representation would have been essentially uniform: no statistical anomalies. Myers-Briggs is evidently telling us something.
 Box 18.1: Criticism of Myers-Briggs
 Much of the criticism of the Myers-Briggs personality type indicator owes to the binary nature of each result, unlike the Big-5 percentage for each category. The argument is that people are more complex than this, and do not fall into 16 distinct and tidy categories. But any Myers-Briggs test will indicate where you fall on the spectrum from the hard extremes-based on the number of answers in the survey toward each direction. Some people fall in the middle of a category and get an X designation. 16 rigid types is illusory and unnecessary.
 It is easy enough to accept this valid criticism yet still value the fact that people do spread out in their preferences. Also, some of the dimensions map onto the more widely-embraced Big 5 scheme.
-The most important aspect of personality that bears on our energy/re- source challenges, and a key reason for covering the topic at all in this book, is that the Myers-Briggs "S" types constitute 73% of the population, yet are most resistant to the argument that unprecedented disruptive changes are on the horizon. S-types place more value on direct sen- sory input than on abstraction. Things directly experienced-seen with their own eyes, heard by their own ears, personally touched, smelled or tasted-carry much greater weight than "theory." Presented with
+The most important aspect of personality that bears on our energy/resource challenges, and a key reason for covering the topic at all in this book, is that the Myers-Briggs "S" types constitute 73% of the population, yet are most resistant to the argument that unprecedented disruptive changes are on the horizon. S-types place more value on direct sensory input than on abstraction. Things directly experienced-seen with their own eyes, heard by their own ears, personally touched, smelled or tasted-carry much greater weight than "theory." Presented with
 
 ISTJ
 ISFJ
@@ -129,8 +129,8 @@ ENFP
 ENTP
 ENFJ
 ENTJ
-Figure 18.2: Stunning Myers-Briggs person- ality disparity between Do the Math read- ership and the general population. Areas of blue boxes represent frequency of types in the general population, as a variant of Figure 18.1. Pink areas reflect the readership of Do the Math, and overlaps appear purple. Visible pink means over-representation on the site, and visible blue indicates under- representation. 73% of the readership occu- pies the top right corner of the personality types, even though these three boxes only capture 7% of the population. A result this extreme, involving over 1,000 respondents, is absurdly far from random. Percentages are shown in the three most overwhelm- ingly over-represented boxes, plus a 1% box for reference.
-What if objection to the Myers-Briggs frame- work correlated strongly with Myers-Briggs type?
+Figure 18.2: Stunning Myers-Briggs personality disparity between Do the Math readership and the general population. Areas of blue boxes represent frequency of types in the general population, as a variant of Figure 18.1. Pink areas reflect the readership of Do the Math, and overlaps appear purple. Visible pink means over-representation on the site, and visible blue indicates underrepresentation. 73% of the readership occupies the top right corner of the personality types, even though these three boxes only capture 7% of the population. A result this extreme, involving over 1,000 respondents, is absurdly far from random. Percentages are shown in the three most overwhelmingly over-represented boxes, plus a 1% box for reference.
+What if objection to the Myers-Briggs framework correlated strongly with Myers-Briggs type?
 18 Human Factors
 307
 warnings about climate change, a hard-over S-type [^118] might hold up a snowball (as Senator Inhofe famously did in front of Congress in 2015) to demonstrate-in their mind-how preposterous this global warming talk is. When warned about potential hardships following fossil fuel availability, an S-type may look out the metaphorical window and sense that everything seems to be fine.
@@ -138,9 +138,9 @@ Box 18.2: Scientists Have a Type
 Scientists tend to be NT types, combining a preference for abstraction and models with a favoring of logical thought. Note that not all scientists are alike; it is good to have diversity, so it is possible to find any personality type within the science community. But the NT types will be perhaps more attracted to scientific pursuits as a good match to their personality preferences. The NT combination is the most rare, comprising 10% of the population (see Figure 18.3). Meanwhile, SF-the diametric opposite of NT-is over four times as prevalent.
 When it comes to forming rational plans for future unseen challenges, NT types are well suited to the task. Ironically, if N-type predictions of future threats were faithfully heeded and mitigated, the threats would be averted and their failure to materialize would make the N-types look like terrible predictors to the S-type crowd! Failure by success.[^9]
 18.1.1 Consequences and Coping
-The S-type asymmetry10 in human populations may confer an overall adaptive advantage. In stable times, recent history and apparent condi- tions provide reliable guidance to the likely future. It is understandable, therefore, that humankind would have difficulty adapting early to an upcoming reversal of fortunes, or even acknowledging its possibility. The prevailing narrative of growth and progress are so firmly rooted in society that the mere suggestion of a more primitive future11 is dis- cordant enough to be rejected by cultural antibodies-alien enough to resist comprehension, as if spoken in a foreign language.
+The S-type asymmetry10 in human populations may confer an overall adaptive advantage. In stable times, recent history and apparent conditions provide reliable guidance to the likely future. It is understandable, therefore, that humankind would have difficulty adapting early to an upcoming reversal of fortunes, or even acknowledging its possibility. The prevailing narrative of growth and progress are so firmly rooted in society that the mere suggestion of a more primitive future11 is discordant enough to be rejected by cultural antibodies-alien enough to resist comprehension, as if spoken in a foreign language.
 The growth narrative's firm grip is easy to understand: Earth has always been large enough to accommodate human cravings, for countless generations. Yet 8 billion people competing for finite resources12 at an unprecedented rate, climate change, deforestation, fisheries collapse, species loss, and a host of other crises signal that the prevailing narrative may simply be wrong13 (Figure 18.4).
-Timely, effective mitigation is possible only by seriously entertaining a radically new paradigm before widespread disruption becomes unmis- takably evident. Is it possible to implant a wholly different narrative
+Timely, effective mitigation is possible only by seriously entertaining a radically new paradigm before widespread disruption becomes unmistakably evident. Is it possible to implant a wholly different narrative
 [^118]: Weiler et al. (2012), "Personality type differences bet. Ph.D. climate researchers and the general public: implications for effective communication"
 นก
 N
@@ -156,7 +156,7 @@ F
 17%
 43%
 Figure 18.3: Distribution of N/S and T/F traits among the population.
-9: This irony can also plague successful governance: people take for granted clean air, water, and food ensured by invisible, effective government. This quiet success cre- ates complacent room for anti-government sentiments, potentially culminating in its failure.
+9: This irony can also plague successful governance: people take for granted clean air, water, and food ensured by invisible, effective government. This quiet success creates complacent room for anti-government sentiments, potentially culminating in its failure.
 10:... nearly 3 to 1
 11: ... fewer resources and possessions, no space colonies, closer to nature
 12: See Fig. 8.1 (p. 116) for a visual reminder.
@@ -178,7 +178,7 @@ WRONG
 YOU'RE-WRONG
 Figure 18.4: The growth narrative is... wrong. Sung to the tune of a clock chime striking three; inspired by Dr. Cox in S1:E9 of Scrubs.
 about the long-term relationship of humans to this planet, or is it cooked in to human nature14 that we fail this challenge?
-One aspect of this dilemma is a pattern of unwillingness to accept personal responsibility for our predicament. Our own habits and expec- tations place demands on planetary resources that lead to global-scale challenges larger than we have ever faced. People have a tendency to blame others for their plights. In this complex world, it is never dif- ficult to identify some other contributor to our problems: capitalists, socialists, liberals, conservatives, environmentalists, illegal immigrants, other religions, other powerful countries. What fraction of the blame might we assign to ourselves, and is it honest/accurate? In the end, we as humans must accept responsibility for the conditions we and our expectations-create.
+One aspect of this dilemma is a pattern of unwillingness to accept personal responsibility for our predicament. Our own habits and expectations place demands on planetary resources that lead to global-scale challenges larger than we have ever faced. People have a tendency to blame others for their plights. In this complex world, it is never difficult to identify some other contributor to our problems: capitalists, socialists, liberals, conservatives, environmentalists, illegal immigrants, other religions, other powerful countries. What fraction of the blame might we assign to ourselves, and is it honest/accurate? In the end, we as humans must accept responsibility for the conditions we and our expectations-create.
 The human penchant for blaming and even demonizing "others" might lead to resource wars in the face of hardships imposed by limited resource availability. Such a path is lamentable on many levels, not least of which is that precious resources and energy would be channeled toward destructive acts rather than using them to build a better future. Are humans capable of mounting a transformative effort of global cooperation on a scale even greater than that of, say, World War II if we are not fighting an enemy other than ourselves and our own resource demands? Can we identify a precedent in which human societies have done so in the past at a large/relevant scale?
 The first step in avoiding these pitfalls is awareness of the roles that human personality and psychology play in these problems, as this section has attempted to point out. One thing that became evident to the author on the basis of the Do the Math survey was that like seems to attract like: the communication style of the blog was a magnet for those of the same or adjacent types. But the message had startlingly little grip on the S crowd-especially the population-dominant xSFx types (second column in Figure 18.2). Perhaps a concerted effort to recruit all personality types to communicate important messages will better reach a broader audience, in terms that are more resonant with recipients.
 One other coping mechanism is simple: time. The world a child is born into is by definition "normal" to the child. Future generations who do not grow up spoiled by abundant fossil fuel energy will not fight for a bygone lifestyle, and will simply adapt to the world as they find it-where the S-types shine. One way or another, nature will settle on a solution, and humans will be part of that solution, whatever its form. Ideally, we can guide ourselves into a mutually agreeable coexistence.
@@ -188,7 +188,7 @@ cussion.
 18 Human Factors
 309
 18.2 Policy vs. Individual Action
-From where does power15 stem? Monarchs of old claimed divine prove- nance as a source of power. Authoritarians might use a combination of personality and strong military backing. Some countries put on a show of democracy, while exercising power to thwart rivals and control the legal apparatus-resulting in sham elections.
+From where does power15 stem? Monarchs of old claimed divine provenance as a source of power. Authoritarians might use a combination of personality and strong military backing. Some countries put on a show of democracy, while exercising power to thwart rivals and control the legal apparatus-resulting in sham elections.
 In a functioning democracy, power is meant to come from the people. Votes send ineffective or crooked politicians packing, replacing them with folks promising to be faithful servants to the people and to the country's constitution. If democracy works as planned, then how far can a politician be from the sentiment of the people16 and still get elected (or re-elected)? Since presumably politicians cannot afford to stray far from the views of their constituents, are democratic politicians leaders or followers?
 What would happen in a functioning democracy if the government told people what to eat, how many kids to have, or what temperature to set in homes? If people are not already willing to make the changes on their own,[^17] how can a democratic government impose "responsible"
 choices when those choices involve unwanted sacrifice in some form? If democratically-elected politicians are constrained to only offer "better," more personally attractive choices, a democratic world may no longer have the flexibility necessary to address our fundamental challenges.
@@ -196,9 +196,9 @@ So if democratic governments turn out to be ineffective at promoting substantive
 But consider that voting is also an individual action. One person's vote seldom makes any measurable difference: it is a tiny drop in the bucket. Yet, if everyone18 concluded that the individual action of voting was wasted and meaningless, the result would be disastrous: gross underrepresentation and distortion of the will of the people.
 We understand in the context of voting that individual action leads to collective representation, and tend to practice this right even though policy does not demand that we do so. We see it as part of a civic responsibility as the right way to participate in our society. Our system can tolerate a certain fraction of individuals who won't donate time to their civic responsibility, but things fall apart if we have too many such people.[^19] Next time someone challenges your individual efforts to improve the world in some way, labeling them as meaningless, ask them to be consistent with their espoused principles and please refrain from
 15: Wait, Watt? For once, we are not talking about Joules per second.
-16: If 73% of the people are S-type person- alities, then our policies will lean toward satisfying that contingent.
+16: If 73% of the people are S-type personalities, then our policies will lean toward satisfying that contingent.
 17: ...and in fact, already changing habits on their own accord
-It feels icky to point out flaws in democ- racy, as this form of government has ad- mirably lifted countless individuals up and promoted enlightened progress. It really is the best in many respects-except for this fundamental flaw in a world of constraints and possible reductions.
+It feels icky to point out flaws in democracy, as this form of government has admirably lifted countless individuals up and promoted enlightened progress. It really is the best in many respects-except for this fundamental flaw in a world of constraints and possible reductions.
 18: ...or even a large majority
 19: The technical term for these people is: jerks.
 
@@ -214,7 +214,7 @@ front. Nature offers no financing!
 Recall from Sec. 14.3.1 (p. 231) that the EROEI, or energy returned on energy invested, describes the ratio of output energy over the lifetime of the resource to the input energy needed to secure it in the first place. For many cases, like a hydroelectric dam, nuclear plant, wind turbine, or solar panel, most of the energy input happens before any energy is delivered. In other cases, like biofuels, the investment may be more drawn out and seem more like an efficiency. In the context of the energy trap, we will focus on the input as an up-front investment.
 Example 18.3.1 If a solar panel has an EROEI of 6:1, that "1" unit has to be paid up front, even though ultimately the panel will more than pay for itself, energetically. How many years of the panel's energy needs to be available up front if the panel lasts 30 years in the sun?22
 The 6 in the EROEI figure relates to the total output of the resource. So we equate 30 years of operation to the number 6, meaning that 1 "unit" is 5 years of output (Figure 18.5). Since the input is 1 unit (in
-20: Amid consternation over energy short- falls and likely high prices, pulling more energy away from people will not be popu- lar.
+20: Amid consternation over energy shortfalls and likely high prices, pulling more energy away from people will not be popular.
 21:
 ...with interest
 invest one unit to create resource
@@ -234,7 +234,7 @@ Imagine now that we find ourselves having reduced access to oil,[^28] driving pr
 Now it is perhaps more apparent why this is called an energy trap: short-term political and economic interests forestall a proactive major investment in new energy, and by the time energy shortages make the crisis apparent, the necessary energy is even harder to attain. Short-term focus is what makes it a trap."
 31
 One wonders how democracies will fare in the face of declining resources. The combination of capitalism and democracy have been ideal during the growth phase of our world: efficiently optimizing allocation of resources according to popular demand. But how do either work in a decline scenario, when the future is not "bigger" than today, and may involve sacrifice? We simply do not yet know. This is a giant unauthorized experiment that is not operating from a script. Chapter 19 will return to this notion.
-23: from a resource that is already pro- ducing energy
+23: from a resource that is already producing energy
 24: 80% of the 18 TW total
 25:
 ... or a combination of resources having similar EROEI and lifetime
@@ -249,7 +249,7 @@ be unwelcomed.
 18 Human Factors
 312
 18.4 Fermi Paradox Explained?
-Having discussed some of the top-level challenges facing our technologi- cal society, it is too tempting to speculate on how universal our trajectory might be. We do so in the context of the Fermi Paradox [^119], which asks: if the universe produces a reasonably high probability of intelligent life developing, why have we seen no credible evidence32 of advanced civilizations? Yes, this is a bit of a tangent,[^33] but it could be interpreted as a relevant data point in the likelihood that we maintain an advanced civilization for a long duration.
+Having discussed some of the top-level challenges facing our technological society, it is too tempting to speculate on how universal our trajectory might be. We do so in the context of the Fermi Paradox [^119], which asks: if the universe produces a reasonably high probability of intelligent life developing, why have we seen no credible evidence32 of advanced civilizations? Yes, this is a bit of a tangent,[^33] but it could be interpreted as a relevant data point in the likelihood that we maintain an advanced civilization for a long duration.
 The setup to the question is a "big if." The usual approach to estimating the number of intelligent species in our galaxy34 is via the Drake Equation [^120]. The equation is simple, just multiplying the number of stars by a chain of probabilities: that the star has planets at all; that one of the star's planets is "habitable;" that the environment is benign and that life has had enough time to develop; and finally that the life develops into an intelligent form, capable of communicating. Also factored in is the likelihood that any such species would endeavor to reach out, and how long their civilization lasts in that state so that we might overlap35 in time. For the Milky Way galaxy, 100 billion stars almost all of which we now know are likely to have planets-gives a huge start so that even if the chance of intelligent life arising is one in a million, we're left with quite a margin.
 35
 36
@@ -261,8 +261,8 @@ alien visits
 34: ...or the whole universe, if thinking more broadly
 35: The notion of "overlap" is complicated here by the 100,000 light-year scale of the galaxy, so that by the time a signal arrives at Earth, the civilization may be long gone already.
 36: ... buried remnants of life
-37: Fossil fuels can be thought of as a solar- charged battery that we are discharging almost a million times faster than the time it took to charge it: see Box 10.2 (p. 169).
-38: Also, easily accessed surface metal de- posits have long disappeared, bringing into question whether a Bronze Age would be possible to replicate.
+37: Fossil fuels can be thought of as a solarcharged battery that we are discharging almost a million times faster than the time it took to charge it: see Box 10.2 (p. 169).
+38: Also, easily accessed surface metal deposits have long disappeared, bringing into question whether a Bronze Age would be possible to replicate.
 
 18 Human Factors
 313
@@ -277,7 +277,7 @@ mandated;
 unable to mount a timely response;
 5. acknowledge that our loneliness in the universe might constitute
 evidence that intelligent species don't routinely "make it."
-Of course, individuals in a society may not share all of these shortcom- ings. But if these failings are collectively prevalent, the more cognizant individuals have too little sway.
+Of course, individuals in a society may not share all of these shortcomings. But if these failings are collectively prevalent, the more cognizant individuals have too little sway.
 Can we collectively overcome these limitations? Can we use the gift of intelligence40 to bypass built-in limitations? Only by being well aware of the barriers do we have any meaningful chance of managing them. This chapter aimed to at least raise awareness so that readers can begin to think about the role that human nature plays in the challenges ahead.
 For extended thought on this subject, see Sec. D.6 (p. 408).
 39: For how many generations in a row are humans capable of leaving tempting global resources "on the shelf," while being perfectly capable of exploiting them?
@@ -319,8 +319,8 @@ letters in four associated types)?
 d) Which two types are most vastly under-represented, and by
 roughly what factor, based on area of the squares?
 46
-e) What relationship do you notice between the types in com- paring the two most over-represented types and the two most under-represented types?
-f) How would you explain to a fellow student who dispar- ages the Myers-Briggs scheme as little better than astrology what this figure/result means in terms of far-from-random outcomes and predictiveness?
+e) What relationship do you notice between the types in comparing the two most over-represented types and the two most under-represented types?
+f) How would you explain to a fellow student who disparages the Myers-Briggs scheme as little better than astrology what this figure/result means in terms of far-from-random outcomes and predictiveness?
 5. Imagining for a moment that the distribution of human personality types is adaptive47 in an evolutionary sense, we might try to understand the asymmetry between "S-types" and "N-types." When trying to plot a course for the future, what advantages does each type bring, and what disadvantages? Another way to frame the question is: how can the contributions of each help things go right, and how might each one contribute to wrong decisions?
 6. How might you propose getting people of all personality types on board with a collective campaign to fight a credible future threat that may involve sacrifice and the recognition that our own habits are part of the problem?
 7. Let's say you have decided to reduce your footprint 48 in some way. You run into someone who challenges your choice, pointing
@@ -330,10 +330,10 @@ in practice, they do
 44: Actual frequency is 8.5%, which is close but not exact.
 Hint: Largest factors yield the largest prod-
 uct.
-45...i.e., far more respondents than is consistent with the general population fre- quency of Figure 18.1
+45...i.e., far more respondents than is consistent with the general population frequency of Figure 18.1
 46: Form a rough guess on ratio of areas.
-47:...emerging to best serve collective sur- vival interests
-48: E.g., allow a larger indoor temperature range as it gets colder/warmer outside; eat- ing less meat; conserving water via shower habits
+47:...emerging to best serve collective survival interests
+48: E.g., allow a larger indoor temperature range as it gets colder/warmer outside; eating less meat; conserving water via shower habits
 
 18 Human Factors
 315

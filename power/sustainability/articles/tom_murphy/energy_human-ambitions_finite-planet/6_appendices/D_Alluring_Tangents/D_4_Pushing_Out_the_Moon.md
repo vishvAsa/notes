@@ -24,7 +24,7 @@ orbital velocity resultant (mostly to Earth) has nudge to side
 Now think about how the moon sees the earth, gravitationally. It mostly sees a spherical earth, but also a bulge on the front side, slightly displaced, and a bulge on the back side, also displaced in the opposite direction (Figure D.3). While the bulge masses are equal, the closer one has a greater gravitational influence and acts to pull the moon a little forward in its orbit, speeding it up. 39 
 
 
-Figure D.1: The moon pulls harder on the near side of the earth, and less hard on the back side. Relative to the earth as a whole (medium force), the near side advances to- ward the moon and the back side lags the rest of the earth, creating a bulge on both sides that is aligned toward the moon. Note that a drawing to scale would put the moon well off the page. 
+Figure D.1: The moon pulls harder on the near side of the earth, and less hard on the back side. Relative to the earth as a whole (medium force), the near side advances toward the moon and the back side lags the rest of the earth, creating a bulge on both sides that is aligned toward the moon. Note that a drawing to scale would put the moon well off the page. 
 
 [^36]: In fact, equally, per Newton's third law. 
 Figure D.2: The rotation of Earth and it continents "underneath" the tidal bulge creates a friction, or drag, that pulls the bulge around a few degrees (somewhat exaggerated here), so that it no longer points directly at the moon. 
@@ -32,7 +32,7 @@ Figure D.2: The rotation of Earth and it continents "underneath" the tidal bulge
 [^37]: This is why we experience two high tides per day and two low tides: the earth is spinning underneath the opposite bulges, so that a site on the surface passes under a bulge (high tide) every 12 hours. 
 
 [^38]: The angular shift is around 1-2°. 
-Figure D.3: Gravitationally, the earth looks like a big central mass and two bulge masses displaced from the connecting line. The closer mass pulls harder than the more dis- tant one, so the addition of all the force vectors (not to scale) results in a little asym- metry, leaving a small sideways component of the force along the same direction as the moon's orbital velocity (up in this drawing). 
+Figure D.3: Gravitationally, the earth looks like a big central mass and two bulge masses displaced from the connecting line. The closer mass pulls harder than the more distant one, so the addition of all the force vectors (not to scale) results in a little asymmetry, leaving a small sideways component of the force along the same direction as the moon's orbital velocity (up in this drawing). 
 
 [^39]: It may help to think of this bulge as being like a carrot dangled in front of a horse, encouraging it forward. 
 
@@ -45,13 +45,13 @@ orbital velocity
 resultant force has much larger nudge 
 
 If we built global-scale structures (Figure D.4) to capture tidal energy in a big way,11 we would effectively increase the lag angle of the tidal bulge. This is because we would likely release the captured stack of water over a period of many hours, [^42], rotating this stack of water around the planet farther than it would naturally go. Now the gravitational pull in the forward direction would increase and the egress would speed up. If we managed to extract 18 TW[^43] out of tides, this would be six times larger than the current 3 TW of tidal dissipation, and we might expect the egress to increase to about 23 cm per year. 
-It's still a slow rate, and would not drive the moon away faster than hundreds of millions of years. So technically tidal energy is a one- time resource whose use diminishes its long term capacity.[^44] But the timescales are so ridiculously long that we may as well think of tidal energy as inexhaustible. 
+It's still a slow rate, and would not drive the moon away faster than hundreds of millions of years. So technically tidal energy is a onetime resource whose use diminishes its long term capacity.[^44] But the timescales are so ridiculously long that we may as well think of tidal energy as inexhaustible. 
 
 D.5 Humanity's Long View 404 
 
 [^40]: All the same, total solar eclipses will no longer occur after several hundred million years because the moon will be farther and too small to entirely block the sun. 
 
-Figure D.4: If we built some inconceivable global-scale tidal capture structure the size of oceans and let them drain for six hours or so, the artificial bulges we created would travel farther around with the earth's ro- tation, enhancing the sideways "kick" and encouraging the moon to climb away from earth at a faster rate. 
+Figure D.4: If we built some inconceivable global-scale tidal capture structure the size of oceans and let them drain for six hours or so, the artificial bulges we created would travel farther around with the earth's rotation, enhancing the sideways "kick" and encouraging the moon to climb away from earth at a faster rate. 
 
 [^41]: Don't count on this happening: it's a truly ludicrous idea plagued by a giant list of practical problems, and all for such a small gain. 
 ... 

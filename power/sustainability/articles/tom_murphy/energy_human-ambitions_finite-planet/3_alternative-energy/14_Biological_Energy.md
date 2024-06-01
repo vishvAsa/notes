@@ -15,7 +15,7 @@ This textbook will not focus on the complex mechanisms responsible for photosynt
 CO2 + H2O + light → CH2O + O2 (14.1)
 
 
-Figure 14.1: Cartoon version of photosyn- thesis, providing a graphical representation of Eq. 14.1. Water, CO2, and sunlight are in- puts. The leaf "exhales" oxygen and keeps sugar (only part of the final sugar molecule is pictured here).
+Figure 14.1: Cartoon version of photosynthesis, providing a graphical representation of Eq. 14.1. Water, CO2, and sunlight are inputs. The leaf "exhales" oxygen and keeps sugar (only part of the final sugar molecule is pictured here).
 
 
 
@@ -118,7 +118,7 @@ Most prominently, ethanol is the chief biofuel, accounting for about 80% of the 
 
 [^15]:...also how "moonshine" alcohol is made
 
-[^16]: C2H6: the second in the alkane sequence of methane, ethane, propane, bu- tane,..., octane, etc.
+[^16]: C2H6: the second in the alkane sequence of methane, ethane, propane, butane,..., octane, etc.
 
 Though it is not necessary to fully understand the chemistry,[^17] combustion of ethanol-for comparison to the fossil fuel reactions in Eq. 8.1 (p. 121) goes according to
 
@@ -173,7 +173,7 @@ Early oil wells were shallow and under pressure, producing "gushers" that exceed
 [[232]]
 
 
-As we progress to more challenging oil resources, [^21] the EROEI drops- now around 10-15:1 for conventional oil and as low as 3:1 for tar sands [^95]. Table 14.1 provides one set of EROEI estimates for various sources. Note that estimates vary due to difficulties in proper accounting of all energy inputs, so don't take these numbers literally-just as approximate guides.
+As we progress to more challenging oil resources, [^21] the EROEI dropsnow around 10-15:1 for conventional oil and as low as 3:1 for tar sands [^95]. Table 14.1 provides one set of EROEI estimates for various sources. Note that estimates vary due to difficulties in proper accounting of all energy inputs, so don't take these numbers literally-just as approximate guides.
 
 [^21]: ... deep water, fracking, tar sands
 
@@ -196,7 +196,7 @@ Tar Sands 3-5
 Heavy Oil (Can., Ven.) 4  
 Corn Ethanol 1.4  
 
-If life were a video game, we would look at Table 14.1, decide that hydroelectric and wind are "the best," cursor over to them and "plus" those two up until we're getting all our energy from these low-energy- investment sources. But of course the world is constrained, placing real limits to what is possible. We saw in Chapter 11 and Chapter 12 that hydroelectricity and wind cannot be expected to provide more than a few terawatts, leaving a large shortfall. Meanwhile, solar has the largest raw potential. In other words, it is useful to appreciate the EROEI of various resources, but EROEI is not the sole determining factor of what is practical. A low EROEI can be tolerable if abundance makes up for it.
+If life were a video game, we would look at Table 14.1, decide that hydroelectric and wind are "the best," cursor over to them and "plus" those two up until we're getting all our energy from these low-energyinvestment sources. But of course the world is constrained, placing real limits to what is possible. We saw in Chapter 11 and Chapter 12 that hydroelectricity and wind cannot be expected to provide more than a few terawatts, leaving a large shortfall. Meanwhile, solar has the largest raw potential. In other words, it is useful to appreciate the EROEI of various resources, but EROEI is not the sole determining factor of what is practical. A low EROEI can be tolerable if abundance makes up for it.
 
 For resources whose energy investment is mostly up-front, before production begins, the resulting EROEI depends critically on how long the resource will provide energy. After all, the energy return gets larger the longer the facility can operate, while the investment part may be essentially done and unchanging. It can be difficult to predict how long a resource will last, which is part of why EROEI estimates are just that: approximate guidelines.
 
@@ -337,7 +337,7 @@ Now if you could just think of a way to put the answer on a log scale, ha ha.
 
 
 237
-4. How many logs of firewood per day (whose parameters are speci- fied in Problem 3) would you need to burn to provide 5,000 W of heating to a house?
+4. How many logs of firewood per day (whose parameters are specified in Problem 3) would you need to burn to provide 5,000 W of heating to a house?
 5. Replicate the conclusion of Box 14.3 by assuming one-quarter of the 2 trillion tons (5 x $10^{14}$ kg) of mass is combustible at 4kcal/g. How long-in years would this amount of energy last if burning at 18 TW?
 6. Given the energy densities of ethanol vs. octane (gasoline), how many liters of ethanol does it take to replace one liter of gasoline, if the densities are 789 g/L for ethanol and 703 g/L for octane?
 7. If 50 kJ of energy are spent to extract 1 MJ of energy content in the

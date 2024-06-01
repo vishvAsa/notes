@@ -13,14 +13,14 @@ While only fission has been successfully implemented as a source of societal ene
 Understanding nuclear energy requires a longer journey than was needed for hydroelectricity, wind, and solar photovoltaics. We first learn about the nucleus and its many configurations, how nuclei transform from one to another through radioactive decay, the role $E = mc^2$ plays, and finally dig into the workings of fission and fusion.
 
 ## 15.1 The Nucleus
-First, what is a nucleus? Every (neutral) atom consists of a positively- charged nucleus surrounded by a cloud of negative electrons (Figure 15.1).
+First, what is a nucleus? Every (neutral) atom consists of a positivelycharged nucleus surrounded by a cloud of negative electrons (Figure 15.1).
 
 
 
 
 [[240]]
 
-The nucleus is about 100,000 times smaller than the electron cloud,[^1] but contains 99.97% of the atom's mass in a super-dense nugget composed of protons (positive charge) and neutrons (no charge). While electro- magnetic forces vehemently resist the close congregation of positively- charged protons, the strong nuclear force overpowers this objection and sticks the protons and neutrons together in a stable existence.
+The nucleus is about 100,000 times smaller than the electron cloud,[^1] but contains 99.97% of the atom's mass in a super-dense nugget composed of protons (positive charge) and neutrons (no charge). While electromagnetic forces vehemently resist the close congregation of positivelycharged protons, the strong nuclear force overpowers this objection and sticks the protons and neutrons together in a stable existence.
 
 [^1]: ... which defines the size of the atom
 
@@ -83,7 +83,7 @@ Stable nuclei are indicated by black boxes at some particular integer value of N
 Figure 15.4 shows the lower-left corner of the chart in much greater detail[^5]. For each element (horizontal row), properties of all known isotopes are listed-even those that are radioactive and do not persist for even a small fraction of a second before decaying. Stable isotopes are denoted by gray boxes. The mass of each, in atomic mass units (a.m.u.)— defined so that the neutral 12C atom is exactly 12.0000 a.m.u.—is given, and the natural abundance as found on Earth, in percent. The Chart of the Nuclides lets us peak inside the periodic table in great detail, as Example 15.1.2 suggests.
 
 
-[^5]: Even this level of detail is short of what can be found in the actual Chart of the Nu- clides, which also provides quantitative val- ues for neutron absorption, nuclear spins, excited states, additional decay paths and associated energies.
+[^5]: Even this level of detail is short of what can be found in the actual Chart of the Nuclides, which also provides quantitative values for neutron absorption, nuclear spins, excited states, additional decay paths and associated energies.
 
 <details><summary>Example 15.1.2</summary>
 
@@ -159,7 +159,7 @@ Figure 15.5: Radioactive decay mechanisms for a, β, and βt. Protons are colore
 
 Follow along on Figure 15.4.
 
-2. Beta-minus (β) decay is a manifestation of the weak nuclear force, in which a neutron within the nucleus converts to a proton, and in the process spits out an electron (β particle, really just e-) to conserve total electric charge, and a neutrino- which we will ignore.[^11] The mass number, A is unchanged, but N goes down one and Z goes up one (gaining a proton and losing a neutron). Thus on the chart of nuclides the motion is one left, one up. It's like a chess move (Figure 15.7);
+2. Beta-minus (β) decay is a manifestation of the weak nuclear force, in which a neutron within the nucleus converts to a proton, and in the process spits out an electron (β particle, really just e-) to conserve total electric charge, and a neutrinowhich we will ignore.[^11] The mass number, A is unchanged, but N goes down one and Z goes up one (gaining a proton and losing a neutron). Thus on the chart of nuclides the motion is one left, one up. It's like a chess move (Figure 15.7);
 
 [^11]: Perhaps it is fair to ignore neutrinos since they ignore us. Neutrinos interact so infrequently with matter that a neutrino could fly through light years of rocky (Earth-like) material before being expected to hit something (interact). This extreme non-interactivity earns it the title of "ghost" particle.
 
@@ -182,7 +182,7 @@ Table 15.2: Summary of decay math on nucleon counts.
 
 Decay Z→ N→ A→  
 α Z-2 N-2 A-4
-β- Z+1 N-1 unchanged
+βZ+1 N-1 unchanged
 β+ Z-1 N+1 unchanged
 γ unchanged unchanged unchanged
 
@@ -190,14 +190,14 @@ Decay Z→ N→ A→
 
 Example 15.2.2 What will the fate of He be, according to Figure 15.4?
 
-We can play this chess game! According to the chart, the primarγ decay mechanism of He8 is β with a half-life of about a tenth of a second. It will become Li, which hangs around for about a second before undergoing another β- decay to Be. This one lasts almost no time at all (~ $10^{-16}$ s) before a decay into two alpha particles (two *He). Such a sequence is called a **decay chain**+++(5)+++.
+We can play this chess game! According to the chart, the primarγ decay mechanism of He8 is β with a half-life of about a tenth of a second. It will become Li, which hangs around for about a second before undergoing another βdecay to Be. This one lasts almost no time at all (~ $10^{-16}$ s) before a decay into two alpha particles (two *He). Such a sequence is called a **decay chain**+++(5)+++.
 </details>
 
 {{< figure src="../images/nuclide-decay-chart.png" title="" class="thumbnail">}}
 
 Figure 15.8: Another view of the Chart of the Nuclides, color coded to indicate prevailing decay modes as a function of position on the chart. Note that β+ sometimes captures an electron rather than emitting a positron, but amounting to the same thing, essentially. From U.S. DOE.
 
-As is evident in Figure 15.8, unstable isotopes above the stable track in Figure 15.3 tend to undergo β+ decays to drive toward stable nuclei, while those below the track tend to experience β- decays to drive up toward the stable track. The α decays are more common for heavy nuclei (around uranium), which drive toward the end of the train of stable elements in Figure 15.3, ending up around lead (Pb). We can understand the abundance of lead as a byproduct of heavy-element decay chains.+++(5)+++
+As is evident in Figure 15.8, unstable isotopes above the stable track in Figure 15.3 tend to undergo β+ decays to drive toward stable nuclei, while those below the track tend to experience βdecays to drive up toward the stable track. The α decays are more common for heavy nuclei (around uranium), which drive toward the end of the train of stable elements in Figure 15.3, ending up around lead (Pb). We can understand the abundance of lead as a byproduct of heavy-element decay chains.+++(5)+++
 
 
 
@@ -318,7 +318,7 @@ Since 1a.m.u. is $1.660539×10^{-27}$ kg, we can convert this mass difference in
 
 Traditionally, nuclear physics adopts a more convenient scale of electron-volts, and in particular, the MeV.[^19] To get our mass-energy difference from Joules to MeV, we divide by 1.6022 × $10^{-13}$ J/MeV, and this is the 492 MeV number appearing in the $Δmc^2$ column of Table 15.5.
 
-Finally, we divide by the number of nucleons in the nucleus- A = 56 in this case to determine how much binding energy is present per nucleon-the significance of which will soon become clearer.
+Finally, we divide by the number of nucleons in the nucleusA = 56 in this case to determine how much binding energy is present per nucleon-the significance of which will soon become clearer.
 
 
 [^17]: Find this in Table 15.5.
@@ -356,7 +356,7 @@ It can be helpful to think of Figure 15.10 upside-down, as in Figure 15.11, turn
 
 
 
-Figure 15.11: Turning the binding energy curve upside-down makes it easier to con- ceptualize fusion and fission driving toward the most tightly bound point (iron), like a ball might roll.
+Figure 15.11: Turning the binding energy curve upside-down makes it easier to conceptualize fusion and fission driving toward the most tightly bound point (iron), like a ball might roll.
 
 ## 15.4 Fission
 Having covered some fundamentals, we are ready to tackle aspects of nuclear energy. Really it is very simple. Enough nuclear material in a small space will get hot, for reasons detailed below. The heat is used to boil water into high-pressure steam, which then turns a turbine and generator (Figure 15.12). Note that a nuclear fission plant has much in common with a coal-fired power plant, as evidenced by the similarity of Figure 15.12 to Fig. 6.2 (p. 90). Only the source of heat is much different in origin.
@@ -372,7 +372,7 @@ Out of all the nuclides, three are amenable for use in a fission reactor.
 
 Two are isotopes of uranium: 233U and 235U; and one is plutonium: 239 Pu. Of these, only 235U is found in nature, so we will concentrate on this one, returning later to the other two when we talk about breeder reactors in Section 15.4.4.2.
 
-What makes 235U (and the other two) special is that a slow[^23] neutron- one just bumping around at a speed governed by the local temperature, and thus called a thermal neutron- can walk up to and stick[^24] to the nucleus and cause it to split into two large chunks-depicted in Figure 15.13.+++(5)+++ 
+What makes 235U (and the other two) special is that a slow[^23] neutronone just bumping around at a speed governed by the local temperature, and thus called a thermal neutroncan walk up to and stick[^24] to the nucleus and cause it to split into two large chunks-depicted in Figure 15.13.+++(5)+++ 
 
 [^23]: This is in contrast to a fast neutron that
 tends to bounce rather than stick to the
@@ -382,11 +382,11 @@ nucleus.
 
 {{< figure src="../images/u235_fission.png" title="" class="thumbnail">}}
 
-Other nuclei would not break up, just accepting the new neutron and possibly converting a neutron to a proton via β- decay.
+Other nuclei would not break up, just accepting the new neutron and possibly converting a neutron to a proton via βdecay.
 
 
 
-Figure 15.13: Fission schematic for 235U, showing one of many possible outcomes- in this case 90Br and 144La plus two neutrons (an example case treated in detail in the text). The intermediate state, 236U, created when 235U absorbs a neutron, is highly unstable and will spontaneously break into (always) two different-size large fragments ("daughter" nuclei) and perhaps some extra neutrons. Gamma rays and kinetic energy (high-velocity fragments) are also released. Note that at each stage, the total number of nucleons is always 236.
+Figure 15.13: Fission schematic for 235U, showing one of many possible outcomesin this case 90Br and 144La plus two neutrons (an example case treated in detail in the text). The intermediate state, 236U, created when 235U absorbs a neutron, is highly unstable and will spontaneously break into (always) two different-size large fragments ("daughter" nuclei) and perhaps some extra neutrons. Gamma rays and kinetic energy (high-velocity fragments) are also released. Note that at each stage, the total number of nucleons is always 236.
 
 
 When the nucleus breaks up, the pieces fly out at high speed, carrying kinetic energy that will be deposited in the local material as they bump their way to a halt. Gamma rays[^25] are also released. By catching all of this energetic output, the surrounding material gets very hot and can be used to make steam.
@@ -520,7 +520,7 @@ Multiplying the binding energy per nucleon by the number of nucleons provides a 
 
 [[254]]
 
-The graphical method got us pretty close with little work, and hopefully led to a deeper understanding of what is going on. The rest of this paragraph explains the discrepancy, but should be considered non-essential reading. The fission process typically results in a few spare neutrons. Each left-over (unbound) neutron deprives us of at least 8 MeV in unrealized binding potential,[^33] and the subsequent β- decays from the neutron-rich daughter nuclei to stable nuclei also release energy not accounted in Table 15.7. Both of these contribute to the shortfall in comparing 172 MeV to 210 MeV, but even without this, we got a decent estimate just using the graph in Figure 15.10.
+The graphical method got us pretty close with little work, and hopefully led to a deeper understanding of what is going on. The rest of this paragraph explains the discrepancy, but should be considered non-essential reading. The fission process typically results in a few spare neutrons. Each left-over (unbound) neutron deprives us of at least 8 MeV in unrealized binding potential,[^33] and the subsequent βdecays from the neutron-rich daughter nuclei to stable nuclei also release energy not accounted in Table 15.7. Both of these contribute to the shortfall in comparing 172 MeV to 210 MeV, but even without this, we got a decent estimate just using the graph in Figure 15.10.
 
 
 [^33]: Each missing neutron deprives us of more than the standard ~8 MeV per nucleon, as neutrons have no penalty for repulsive electric charge. The 8 MeV per nucleon is an average over protons and neutrons.
@@ -548,7 +548,7 @@ The water acts as the moderator to slow neutrons and also circulates around the 
 
 [[256]]
 
-In the design of Figure 15.16, called a boiling water reactor, the water acts as both the neutron moderator and the thermal conveyance medium. Nuclear fuel (uranium) is arranged in fuel rods, providing ample surface area and allowing water to circulate between the rods to slow down neutrons and carry the heat away. Neutron-absorbing control rods- usually containing boron-set the reaction speed by lowering from the top.[^34] An emergency set of control rods can be dropped into the core in a big hurry to shut down the reactor instantly if something goes wrong. When the emergency rods are in place, neutrons have little chance of finding a 235U nucleus before being gobbled up by boron.
+In the design of Figure 15.16, called a boiling water reactor, the water acts as both the neutron moderator and the thermal conveyance medium. Nuclear fuel (uranium) is arranged in fuel rods, providing ample surface area and allowing water to circulate between the rods to slow down neutrons and carry the heat away. Neutron-absorbing control rodsusually containing boron-set the reaction speed by lowering from the top.[^34] An emergency set of control rods can be dropped into the core in a big hurry to shut down the reactor instantly if something goes wrong. When the emergency rods are in place, neutrons have little chance of finding a 235U nucleus before being gobbled up by boron.
 
 [^34]: ... always this direction, so that gravity does the pulling rather then relying on some other drive force
 
@@ -599,7 +599,7 @@ Uranium is not particularly abundant. Table 15.9 provides a sense of how prevale
 
 [^37]: A trace amount, 0.0055%, is in 234U.
 
-[^38]: Iron has Z = 26; stars tend not to pro- duce elements beyond zinc (Z 30) by fusion.
+[^38]: Iron has Z = 26; stars tend not to produce elements beyond zinc (Z 30) by fusion.
 
 
 [^39]: This follows almost the exact same logic and process as carbon-14 radioactive dating, but using much longer half life nuclei to date Earth's building blocks!
@@ -678,7 +678,7 @@ The result is that sterile 238U can be turned into fissile 239Pu that can be use
 
 [[260]]
 
-In fact, breeding happens as a matter of course in a nuclear reactor: it is estimated that one-third of the fission energy in ordinary nuclear reactors comes from plutonium breeding and subsequent fissioning- without any extra effort. Special reactor designs enhance plutonium production, allowing the fuel rod to be "harvested" for plutonium. Usually, the plutonium is destined for use in weapons, but in principle reactors could be designed to efficiently produce and use plutonium from the 238U feedstock. Downsides will be addressed in Section 15.4.6 on weapons and proliferation.
+In fact, breeding happens as a matter of course in a nuclear reactor: it is estimated that one-third of the fission energy in ordinary nuclear reactors comes from plutonium breeding and subsequent fissioningwithout any extra effort. Special reactor designs enhance plutonium production, allowing the fuel rod to be "harvested" for plutonium. Usually, the plutonium is destined for use in weapons, but in principle reactors could be designed to efficiently produce and use plutonium from the 238U feedstock. Downsides will be addressed in Section 15.4.6 on weapons and proliferation.
 
 <details><summary>Box 15.5: Thorium Breeding</summary>
 
@@ -756,7 +756,7 @@ Figure 15.21: Three Mile Island nuclear plant in Pennsylvania. The two reactor c
 
 Chernobyl was not so lucky in April 1986 when an ill-conceived test went sideways and resulted in an actual explosion of the core. This scenario was previously thought to be impossible, but it was a steam explosion, not a nuclear blast-so more like a "dirty bomb" that scattered radioactive material across the region. Thirty-one people died in the immediate aftermath, and about 200 people got acute radiation sickness. It is estimated that in the long term, 25,000 to 50,000 additional cancer cases will result, but this number is controversial and it is hard to tease Chernobyl-caused cancer/deaths apart from the much larger number of background cancer cases. The town of Chernobyl is still abandoned and only recently has begun to allow strictly limited incursions.
 
-The most recent major accident was the Fukushima Daiichi plant in Japan following the Sendai earthquake in March 2011, resulting in the evacuation of 200,000 people and agricultural loss. The earthquake caused the three operating reactors to shut down (safely), while diesel- fueled generators ran to power pumps maintaining cooling flow over the hot fuel rods. The core of a reactor is still very hot after fission stops and continues to generate heat as daughter nuclei decay, so cooling flow must be maintained or the core can melt. The ensuing tsunami[^54] ruined the plan to keep the cores cool, as the generator rooms flooded, causing the cooling flow to fail. The cores of all three reactors melted down and hydrogen gas explosions created a major release of radioactivity. Perhaps in contrast to the Chernobyl plant, Fukushima was designed by General Electric and operated by a well-educated high-tech society. No one is exempt from risk when it comes to nuclear reactors.
+The most recent major accident was the Fukushima Daiichi plant in Japan following the Sendai earthquake in March 2011, resulting in the evacuation of 200,000 people and agricultural loss. The earthquake caused the three operating reactors to shut down (safely), while dieselfueled generators ran to power pumps maintaining cooling flow over the hot fuel rods. The core of a reactor is still very hot after fission stops and continues to generate heat as daughter nuclei decay, so cooling flow must be maintained or the core can melt. The ensuing tsunami[^54] ruined the plan to keep the cores cool, as the generator rooms flooded, causing the cooling flow to fail. The cores of all three reactors melted down and hydrogen gas explosions created a major release of radioactivity. Perhaps in contrast to the Chernobyl plant, Fukushima was designed by General Electric and operated by a well-educated high-tech society. No one is exempt from risk when it comes to nuclear reactors.
 
 [^52]: Note that cooling towers often have a plume of water vapor above them, but this is the result of evaporative cooling, and not exhaust in the usual sense.
 
@@ -810,7 +810,7 @@ Figure 15.22: Fusion concept: helium from deuterium.
 
 First, the basics. We have alluded to the fact that fusion builds from the small to the big. Putting four 1H nuclei together, at 1.007825 a.m.u. each and forming *He at 4.0026033 a.m.u. leaves a difference of 0.0287 a.m.u.— 0.7% of the total mass-which amounts to 153 million kcal/g.[^58] 
 
-[^58]: The calculation is that 0.0287 a.m.u. cor- responds to Am = 4.8 x $10^{-29}$ kg, or E $Δmc^2$ 4.2 x $10^{-12}$ J (26.7 MeV). We convert the Joules to kcal by dividing by 4,184, and then divide by the input mass in grams (4.03 a.m.u. times 1.6605 x $10^{-24}$ g/a.m.u.) to get 153 kcal/g. Starting with two deuterium nuclei reduces energy yield a bit to to 137 kcal/g, and for deuterium-tritium reactions it's down to 81 million kcal/g.
+[^58]: The calculation is that 0.0287 a.m.u. corresponds to Am = 4.8 x $10^{-29}$ kg, or E $Δmc^2$ 4.2 x $10^{-12}$ J (26.7 MeV). We convert the Joules to kcal by dividing by 4,184, and then divide by the input mass in grams (4.03 a.m.u. times 1.6605 x $10^{-24}$ g/a.m.u.) to get 153 kcal/g. Starting with two deuterium nuclei reduces energy yield a bit to to 137 kcal/g, and for deuterium-tritium reactions it's down to 81 million kcal/g.
 
 
 This is almost ten times as large as the amount for fission (17 million kcal/g; Box 15.3), making it ten-million times more potent than chemical reactions.+++(4)+++ Recall that fusion's better performance can be related to the steepness of the left-hand-side of the binding-energy-per-nucleon curve of Figure 15.10.
@@ -841,7 +841,7 @@ D-T: 2H + 3H → 4He + n + 17.6 MeV
 
 But the 45 million degrees required for D-T fusion is still frightfully hard to achieve. No containers will withstand temperatures beyond a few thousand degrees. Containment-or confinement-is the big challenge then. The multi-million degree plasma[^63] cannot be permitted to touch the walls of the chamber, despite its constituents zipping around at speeds around 1,000 km/s!
 
-[^63]: Plasma is a hot ionized gas where elec- trons are stripped off the nuclei. The sun qualifies as a plasma.
+[^63]: Plasma is a hot ionized gas where electrons are stripped off the nuclei. The sun qualifies as a plasma.
 
 
 [[266]]
@@ -875,7 +875,7 @@ Tritium, however, is essentially nowhere to be found, as it has a half-life of 1
 
 [^69]: Most lithium is used in batteries; the R/P ratio in this case is 500 years.
 
-[^70]: ...only 8% of current annual produc- tion
+[^70]: ...only 8% of current annual production
 
 [^71]: Otherwise, we're still looking at the 500 year R/P ratio.
 
@@ -937,7 +937,7 @@ Nuclear fission is a real thing: it can and does produce a significant fraction 
 
 For conventional nuclear fission as it has been practiced thus far, the proven reserves of uranium only last 90 years at today's rate of use, and less than 4 years if we tried to get all 18 TW from fission. Radioactive waste is an unsolved problem that persists for hundreds to thousands of years. Breeder programs can extend the resource by large factors (into the 500 or 1,000 year range under an 18 TW nuclear-breeder effort). But proliferation and bomb dangers become more pronounced-not to mention an even more pressing waste issue and greater accident rates given the profusion of operating reactors. It can be difficult to get excited about a nuclear future. It is very cool that we figured out how to do it. But just because we can do something does not mean it is a good idea to scale it up.
 
-Fusion is a harder prospect to pin down. At present, it is not on the table, having never been demonstrated in a viable reactor capable of producing commercial-scale electricity. But even if we did manage it, how could it compete economically, as complex as it is? Even if the fuel itself is free," it may turn out to be the most expensive form of electricity we could muster. Fusion is not without radioactivity concerns, and placed side-by-side, solar can look a lot better- intermittency being the crippling drawback, necessitating storage. [^77]
+Fusion is a harder prospect to pin down. At present, it is not on the table, having never been demonstrated in a viable reactor capable of producing commercial-scale electricity. But even if we did manage it, how could it compete economically, as complex as it is? Even if the fuel itself is free," it may turn out to be the most expensive form of electricity we could muster. Fusion is not without radioactivity concerns, and placed side-by-side, solar can look a lot betterintermittency being the crippling drawback, necessitating storage. [^77]
 
 [^77]: as it also is for solar power, which does not mean solar power is cheap
 
@@ -973,11 +973,11 @@ elements have half lives of 4.5 billion years and 750 million years. If we start
 
 79: ... and/or eating the animals that eat these plants
 
-The wording is long because without con- text, it's just math. The real learning is in the application of math to the world.
+The wording is long because without context, it's just math. The real learning is in the application of math to the world.
 
 80:...a factor of 6 different
 81: ... as indicated by the orange lower-half of the corresponding box in Figure 15.4
-82: Region descriptions can include refer- ences to the mass range (e.g., low mass or high mass), above or below the stable elements (proton-rich or neutron-rich).
+82: Region descriptions can include references to the mass range (e.g., low mass or high mass), above or below the stable elements (proton-rich or neutron-rich).
 
 271
 decay, β decay, B+ decay, and spontaneous fission?

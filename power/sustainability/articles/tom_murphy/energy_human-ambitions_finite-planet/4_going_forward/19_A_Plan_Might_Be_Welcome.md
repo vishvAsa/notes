@@ -61,7 +61,7 @@ As human actions on this planet close the door on one species after another, it 
 
 In analogy, domestic cats cannot possibly comprehend why they should not be allowed to claw the sofa. To their minds, the sofa is there, has always been there, feels "right" and good on their claws, and surely can serve no other purpose than to satisfy their urges. How could they possibly understand what it would cost to replace, or why we even care about the appearance to begin with? It would be an even better analogy if the cats' very survival depended[^11] on maintaining an unspoiled sofa, in ways the cats could never grasp.
 
-[^11]: for instance, if their food source de- pended on a pristine sofa for some reason.
+[^11]: for instance, if their food source depended on a pristine sofa for some reason.
 </details>
 
 
@@ -119,7 +119,7 @@ Scientists discovered an alarming decrease in stratospheric ozone (03) in the la
 
 On the scale of things, this was an easy problem to solve. Climate change and fossil fuel dependence are much harder, making the ozone comparison a false equivalency.+++(4)+++ Getting energy out of fossil fuels demands the release of CO2. We can't "just" switch[^20] to some other liquid fuel that doesn't have this problem, as this book makes clear.
 
-[^20]: An analogy is if your doctor told you to avoid monosodium-glutimate (MSG) in your food, you'd be able to find substitutes and still do fine. If your doctor asked you to avoid carbohydrates, protein, and fat- sort-of like the three fossil fuels that are the staple of our diet-we'd be down to what, exactly? Progress in eliminating MSG says little about prospects for addressing the much larger problem.
+[^20]: An analogy is if your doctor told you to avoid monosodium-glutimate (MSG) in your food, you'd be able to find substitutes and still do fine. If your doctor asked you to avoid carbohydrates, protein, and fatsort-of like the three fossil fuels that are the staple of our diet-we'd be down to what, exactly? Progress in eliminating MSG says little about prospects for addressing the much larger problem.
 
 Problems are not all the same size. Switching to alternate refrigerants was painful, but not so much that countries and industries could not absorb the cost.+++(4)+++ Asking to abandon primary energy sources is a much bigger ask. Witness the fact that the rate of CO2 emissions grows every year, despite global awareness of the problem.
 </details>
@@ -157,9 +157,9 @@ Similar limitations apply to the military sector. Military bodies do have the lu
 [^24]: The author has been visited by U.S. military strategists concerned about the repercussions of diminishing petroleum supply.
 
 
-The job of formulating a plan may be best suited to the academic world, as academics have the freedom to pursue research in any direction of their choosing, can spend entire careers focused on the effort, and can afford to think over longer timescales than their own lifetimes. An academic agenda can be global in scope, rather than fighting for the interests of a single corporation or country. As long as an academic is able to demonstrate impact -typically via substantive and original contributions to published literature- they may uphold their end of the tenure pact.[^25] 
+The job of formulating a plan may be best suited to the academic world, as academics have the freedom to pursue research in any direction of their choosing, can spend entire careers focused on the effort, and can afford to think over longer timescales than their own lifetimes. An academic agenda can be global in scope, rather than fighting for the interests of a single corporation or country. As long as an academic is able to demonstrate impact -typically via substantive and original contributions to published literaturethey may uphold their end of the tenure pact.[^25] 
 
-[^25]: Contrary to a common misconception, it is rare for tenured professors to rest on their laurels. Tenured professors by-and- large are intensely driven to push the boundaries of knowledge (which is what earns tenure), and are unlikely to change character upon being granted tenure. In fact, tenure should be looked at not as a reward for past accomplishments, but an investment in a future that (based on past accomplishment) promises to continue bearing fruit.
+[^25]: Contrary to a common misconception, it is rare for tenured professors to rest on their laurels. Tenured professors by-andlarge are intensely driven to push the boundaries of knowledge (which is what earns tenure), and are unlikely to change character upon being granted tenure. In fact, tenure should be looked at not as a reward for past accomplishments, but an investment in a future that (based on past accomplishment) promises to continue bearing fruit.
 
 [[322]]
 
@@ -189,7 +189,7 @@ resources → firms (goods & services) → ←(labor) households → waste
 
 {{< figure src="../../images/economy_in_environment_plain.png" title="" class="thumbnail">}}
 
-Figure 19.1: Standard concept of the econ- omy, but importantly surrounded by a finite box labeled "The Environment." Most in- stances of this figure avoid the insinuation that the economy is contained in a finite domain, in part because it raises the un- comfortable question of how close we are to filling up the box.
+Figure 19.1: Standard concept of the economy, but importantly surrounded by a finite box labeled "The Environment." Most instances of this figure avoid the insinuation that the economy is contained in a finite domain, in part because it raises the uncomfortable question of how close we are to filling up the box.
 
 {{< figure src="../../images/economy_in_environment_overfull.png" title="" class="thumbnail">}}
 
@@ -262,7 +262,7 @@ Currently, it is hard to imagine any global consensus arising around a plan. Eve
 The silver lining is that some folks have thought about alternative ways to structure the economy allowing abandonment of growth and living within ecological limits. Some of the elements of this plan are very appealing. Only if embraced on a large scale would it be feasible to migrate in this direction, and it is unclear what circumstances might bring about such an attitude change, if it is possible at all.
 
 ## 19.5 Problems
-1. To visualize the scale of the $100 trillion global economy relative to the value of the earth-conservatively one million times larger- let's think in terms of animal volume. Volume scales like the cube of linear dimension. How much would you have to shrink a dog in linear scale for its volume to be one-millionth its original size? If the typical scale of a dog is 0.5 m, how large is the shrunken version, and what animal is about this size?
+1. To visualize the scale of the $100 trillion global economy relative to the value of the earth-conservatively one million times largerlet's think in terms of animal volume. Volume scales like the cube of linear dimension. How much would you have to shrink a dog in linear scale for its volume to be one-millionth its original size? If the typical scale of a dog is 0.5 m, how large is the shrunken version, and what animal is about this size?
 2. Subjectively, how much more do you think a planet teeming with biodiversity is worth compared to a comparable planet harboring no life at all? Express as a factor: 1.2 times as much, 2 times as much, 10 times as much, 100, 1 million etc.
 3. In analogy to the clueless cats in Box 19.2 and the paragraph following, describe how we might plausibly destroy something valuable on our planet without understanding it fully enough to repair the damage.
 36: It is not at all clear that we could.
@@ -284,5 +284,5 @@ What do you find worrisome?
 12. Section 19.3.1 contains four instances in which the economy is compared to analogous systems. What are these four, and which do you find most impressionable/memorable?
 13. Do you think that human nature the desire to improve one's lot and expand empire-is compatible with a steady state economic model? Can you see a way that it might work?
 14. Are you left thinking that we are likely to establish and implement a viable global plan for how humans might live prosperously on the planet indefinitely, or do you think it is more likely we will fail to do so and "wing it" into whatever fate awaits?
-39: It is even possible we have exceeded those steady-state bounds and are spend- ing down an irreplaceable inheritance right
+39: It is even possible we have exceeded those steady-state bounds and are spending down an irreplaceable inheritance right
 now.

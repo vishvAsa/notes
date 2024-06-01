@@ -71,9 +71,9 @@ A typical tank might hold about 50 L of gasoline (13 gallons). The density of ga
 fer 
 or any mass/weight measure you pre- 
 
-[^2]: Coal produces more CO2 per gram of fuel because the other fossil fuels also con- tain mass in the form of hydrogen, which not only adds to energy production but also does not end up in CO2. 
+[^2]: Coal produces more CO2 per gram of fuel because the other fossil fuels also contain mass in the form of hydrogen, which not only adds to energy production but also does not end up in CO2. 
 9.1.1 CO2 Measurements 
-Beginning in 1958, Dave Keeling of the Scripps Institution of Oceanogra- phy began recording CO2 concentration in the atmosphere from the top of Mauna Loa in the middle of the Pacific ocean.[^3] In addition to seeing annual variation due to the seasonal cycle of photosynthesis, he began to see a steady year-by-year increase in the level. The measurements have continued to the present, now known as the "Keeling Curve," shown in Figure 9.1. 
+Beginning in 1958, Dave Keeling of the Scripps Institution of Oceanography began recording CO2 concentration in the atmosphere from the top of Mauna Loa in the middle of the Pacific ocean.[^3] In addition to seeing annual variation due to the seasonal cycle of photosynthesis, he began to see a steady year-by-year increase in the level. The measurements have continued to the present, now known as the "Keeling Curve," shown in Figure 9.1. 
 420 
 1.2 
 
@@ -95,7 +95,7 @@ CO2 (ppmv)
 0.2 
 0.0 
 Temperature rise (°C) 
-Figure 9.1: In blue (left axis), CO2 measure- ments from Mauna Loa (Hawaii) for the last 60 years, showing a relentless and acceler- ating upward trend now at abut 2.6 ppm, per year [^50]. Seasonal variations due to photosynthesis are seen on top of this trend. Pre-industrial levels were around 280 ppmv, so that we have added about 130 parts per million (ppm). Red dots (right axis) show global average mean temperature records over the same period [^51]. Thus far, global average temperature has risen about 1°C. Note that the Kyoto Protocol in 1997 and Paris Agreement in 2015 (Box 19.4; p. 320) do not visibly curb the upward trajectory of CO2 emissions. 
+Figure 9.1: In blue (left axis), CO2 measurements from Mauna Loa (Hawaii) for the last 60 years, showing a relentless and accelerating upward trend now at abut 2.6 ppm, per year [^50]. Seasonal variations due to photosynthesis are seen on top of this trend. Pre-industrial levels were around 280 ppmv, so that we have added about 130 parts per million (ppm). Red dots (right axis) show global average mean temperature records over the same period [^51]. Thus far, global average temperature has risen about 1°C. Note that the Kyoto Protocol in 1997 and Paris Agreement in 2015 (Box 19.4; p. 320) do not visibly curb the upward trajectory of CO2 emissions. 
 280 
 -0.2 
 1960 
@@ -142,7 +142,7 @@ year
 We saw in Figure 8.2-repeated as Figure 9.2-a history of fossil fuel usage for the world, in coal, oil, and natural gas. Meanwhile, Table 9.1 indicates how much CO2 each fuel contributes per kilogram or Joule used. These two pieces can be combined to make an estimate of how much CO2 is emitted globally each year, and to track total CO2 emission over time. Table 9.2 and Box 9.1 elucidate how to go from the fossil fuel power figures (TW) in Figure 9.2 to CO2 atmospheric concentrations. 
 Box 9.1: Computing CO2 ppm, from TW 
 We will use oil as an example. In Figure 9.2, we appear to get about 6 TW from oil (5 TW from coal, 4 TW from natural gas). Multiplying by $10^{12}$ puts this in Watts (J/s) and by 3.156 × $10^{7}$ seconds per year results in the annual global energy from oil in Joules: 1.9 × $10^{20}$ J/yr. Table 9.1 indicates that oil contains about 11.5 kcal/g, so the number of grams of oil used per can be determined by first converting J to kcal 
-Figure 9.2: Historical use of fossil fuels worldwide, repeated from Figure 8.2 [^16]. On the left is the raw usage rate expressed in terawatts, while the right is a per-capita mea- sure. The three fossil fuel types are stacked on top of one another, so that gas makes the smallest contribution, not the largest. For instance, on the right-hand-edge of the left panel, coal goes from 0 to 5 TW, oil from 5 to 11 (thus 6 TW from oil), and gas from 11 to 15, indicating 4 TW from gas. The left-hand panel makes clear that fossil fuel use is still rising dramatically, and thus CO2 
+Figure 9.2: Historical use of fossil fuels worldwide, repeated from Figure 8.2 [^16]. On the left is the raw usage rate expressed in terawatts, while the right is a per-capita measure. The three fossil fuel types are stacked on top of one another, so that gas makes the smallest contribution, not the largest. For instance, on the right-hand-edge of the left panel, coal goes from 0 to 5 TW, oil from 5 to 11 (thus 6 TW from oil), and gas from 11 to 15, indicating 4 TW from gas. The left-hand panel makes clear that fossil fuel use is still rising dramatically, and thus CO2 
 emissions. 
 Operation 
 Starting value x $10^{12}$ W/TW x3.16 x $10^{7}$ s/yr 
@@ -169,7 +169,7 @@ y = 3.09
 y = 2.75 
 9 Climate Change 
 141 
-Table 9.2: Stepwise procedure to convert TW to ppm, of CO2. FF means fossil fuel, which can be coal, oil, or gas-each com- puted separately using the various values provided on the right. 
+Table 9.2: Stepwise procedure to convert TW to ppm, of CO2. FF means fossil fuel, which can be coal, oil, or gas-each computed separately using the various values provided on the right. 
 total emissions stays in atmosphere 
 (divide by 4,184), yielding 4.5 × $10^{16}$ kcal/yr, and thus 3.9 × $10^{15}$ g/yr of oil, or 3.9 × $10^{12}$ kg/yr.[^5] Table 9.1 shows that each kilogram of oil combusted produces 3.09 kg of CO2, translating to 1.2 x $10^{13}$ kg/yr of CO2 from oil. Incidentally, we get the same answer using 64 g/MJ from Table 9.1 and 1.9× $10^{14}$ MJ/yr from a few lines up. The remainder of the work, converting to parts per million, is covered in the text and the lower part of Table 9.2. 
 8 
@@ -181,7 +181,7 @@ Summing up the rising contributions over time, this method of estimation suggest
 
 [^5]: At 120 kg per barrel, this turns into the expected 30 billion barrels per year as a check to see that we're on the right track. 
 
-[^6]: This is a close approximation to the actual value, obtained by dividing stan- dard atmospheric pressure of 101,325 Pa by g≈ 9.8 m/s2. 
+[^6]: This is a close approximation to the actual value, obtained by dividing standard atmospheric pressure of 101,325 Pa by g≈ 9.8 m/s2. 
 
 [^7]: the result of Box 9.1 
 ... 
@@ -329,7 +329,7 @@ Russia
 Germany 
 UK 
 Figure 9.5 indicates that the U.S. is the single country bearing the largest responsibility for cumulative CO2 emissions: roughly twice that of the second-largest (China) [^52]. Today, China is the largest emitter, at 9.4 Gt per year, while the U.S. is in second place at 5.15 Gt/yr. Table 9.3 lists the top six emitters lately, accounting for about 60% of the 34 Gt per year [^53]. 
-Figure 9.5: Cumulative contributions to CO2 emissions to date, grouped by con- tinent. Major contributing countries are called out explicitly, and the remaining con- tributions from each continent are grouped as a "rest of" category [^52]. 
+Figure 9.5: Cumulative contributions to CO2 emissions to date, grouped by continent. Major contributing countries are called out explicitly, and the remaining contributions from each continent are grouped as a "rest of" category [^52]. 
 [^52]: Ritchie (2019), Who has contributed most to global CO2 emissions 
 [^53]: Rapier (2019), The World's Top 10 Carbon Dioxide Emitters 
 9.2 Warming Mechanism 
@@ -348,7 +348,7 @@ infrared radiation from $4πR^2$
 ..easy as 5-6-7-8 
 $πR^2$ projection intercepted sunlight, 
 Sun's view 
-The sun delivers energy to the top of the earth's atmosphere at a rate16 of 1,360 $W/m^2$. About 30% of this light-29.3%, to be precise-is immedi- ately reflected by clouds, snow, and to a lesser extent water and terrain. The remaining 70.7% of the light intercepts the earth in a projected disk of area Aproj = πR (Figure 9.6). But the total surface area of the earth is four times this, all of it contributing to infrared radiation to space. In perfect balance,[^17] energy absorbed equals energy radiated: 
+The sun delivers energy to the top of the earth's atmosphere at a rate16 of 1,360 $W/m^2$. About 30% of this light-29.3%, to be precise-is immediately reflected by clouds, snow, and to a lesser extent water and terrain. The remaining 70.7% of the light intercepts the earth in a projected disk of area Aproj = πR (Figure 9.6). But the total surface area of the earth is four times this, all of it contributing to infrared radiation to space. In perfect balance,[^17] energy absorbed equals energy radiated: 
 0.707 x 1360 $W/m^2$ × $πR^2$ = $4πR^2σТ4$. 
 (9.1) 
 The πR factors cancel, and we can rearrange to isolate temperature: 
@@ -357,7 +357,7 @@ Figure 9.6: Earth intercepts sunlight across the projected area of the Earth's d
 [^16]: This is called the solar constant [^4], and will appear again in Chapter 10 and Chapter 
 13. 
 
-[^17]: An imbalance would mean energy is ac- cumulating or being lost, leading to warm- ing or cooling. Even under present condi- tions, the balance is good to within 1 $W/m^2$. 
+[^17]: An imbalance would mean energy is accumulating or being lost, leading to warming or cooling. Even under present conditions, the balance is good to within 1 $W/m^2$. 
 T4 
 0.707 x 1360 $W/m^2$ 
 = 
@@ -413,7 +413,7 @@ Rayleigh Scattering
 10 
 70 
 Wavelength (um) 
-Figure 9.7: Atmospheric transmission/ab- sorption spectra [^55]. The top panel shows solar input in red and infrared (thermal) ra- diation output in blue. The smooth curves are the theoretical blackbody Planck spectra at solar and terrestrial temperatures. Thus the smooth red curve represents the distri- bution of solar energy arriving at the top of Earth's atmosphere, while the solid red filled feature is what survives the path to the ground. The smooth blue curve (middle of the set of three) represents radiation from the ground, but only a small fraction (blue filled region) passes directly through the atmosphere-the rest absorbed by green- house gases. The lower panels detail where light gets absorbed or scattered. Gray re- gions indicate absorption and scattering, so that white portions can be thought of as the transmitted part-often called "win- dows." Key contributors (greenhouse gases) are broken out in panels below the total ab- sorption panel. Notice that ozone blocks ultraviolet (UV), and Rayleigh scattering is what makes the sky blue-by being effec- tive at scattering blue light from the sun (blue is on the left side of the band labeled "Visible," while red is on the right). Created by Robert Rohde. 
+Figure 9.7: Atmospheric transmission/absorption spectra [^55]. The top panel shows solar input in red and infrared (thermal) radiation output in blue. The smooth curves are the theoretical blackbody Planck spectra at solar and terrestrial temperatures. Thus the smooth red curve represents the distribution of solar energy arriving at the top of Earth's atmosphere, while the solid red filled feature is what survives the path to the ground. The smooth blue curve (middle of the set of three) represents radiation from the ground, but only a small fraction (blue filled region) passes directly through the atmosphere-the rest absorbed by greenhouse gases. The lower panels detail where light gets absorbed or scattered. Gray regions indicate absorption and scattering, so that white portions can be thought of as the transmitted part-often called "windows." Key contributors (greenhouse gases) are broken out in panels below the total absorption panel. Notice that ozone blocks ultraviolet (UV), and Rayleigh scattering is what makes the sky blue-by being effective at scattering blue light from the sun (blue is on the left side of the band labeled "Visible," while red is on the right). Created by Robert Rohde. 
 right side of the solid blue22 shape in Figure 9.7. As CO2 concentration in the atmosphere increases, this absorption feature gets wider, cutting deeper into the right edge of the escaping radiation (solid blue feature), allowing less radiation to escape. 
 
 [^22]:... escaped radiation 
@@ -427,9 +427,9 @@ Wavelength (um)
 20 
 30 
 but 
-If some portion of the infrared radiation does not escape to space is absorbed by the atmosphere, the planet does not cool as effectively, adding some offset to Eq. 9.2-in Earth's case 33°C. It is like the earth is wearing a blanket that raises its temperature by 33°C. Figure 9.9 illustrates the mechanism. Water vapor is responsible for ~20°C of this 33°C, and CO2 is responsible for another ~8°C, leaving ~5°C for ozone, methane, and other minor contributors (Table 9.4). Incidentally, methane (CH4) is about 80 times more potent than the same amount of CO2 as a greenhouse gas, but is at a far lower concentration than CO2, and also shorter-lived in the atmosphere before being chemically destroyed.[^23] We focus on CO2 because this is what human activity is changing rapidly by burning fossil fuels. The vast ocean-air interface means water concentration is impossible to control, and simply responds to temperature due to the fact that warmer air holds more moisture- becoming an important feedback agent. Water is not the driver of climate 
+If some portion of the infrared radiation does not escape to space is absorbed by the atmosphere, the planet does not cool as effectively, adding some offset to Eq. 9.2-in Earth's case 33°C. It is like the earth is wearing a blanket that raises its temperature by 33°C. Figure 9.9 illustrates the mechanism. Water vapor is responsible for ~20°C of this 33°C, and CO2 is responsible for another ~8°C, leaving ~5°C for ozone, methane, and other minor contributors (Table 9.4). Incidentally, methane (CH4) is about 80 times more potent than the same amount of CO2 as a greenhouse gas, but is at a far lower concentration than CO2, and also shorter-lived in the atmosphere before being chemically destroyed.[^23] We focus on CO2 because this is what human activity is changing rapidly by burning fossil fuels. The vast ocean-air interface means water concentration is impossible to control, and simply responds to temperature due to the fact that warmer air holds more moisturebecoming an important feedback agent. Water is not the driver of climate 
 
-Figure 9.8: Another view of just the water and carbon dioxide absorption spectra, bet- ter showing the overlapping role of each in the 10 um window. From Robert Rohde (NASA). 
+Figure 9.8: Another view of just the water and carbon dioxide absorption spectra, better showing the overlapping role of each in the 10 um window. From Robert Rohde (NASA). 
 Table 9.4: Greenhouse contributions [^56]. 
 Molecule 
 H2O 
@@ -457,7 +457,7 @@ Definition 9.2.1 Radiative forcing is used to describe the areal power (in $W/m^
 The average solar forcing is 
 RF = 1360 $W/m^2$ x 0.707/4≈ 240 $W/m^2$, 
 (9.3) 
-sharing substantial overlap with Eq. 9.2-the factors having been ex- plained in that context. Without adding to the pre-industrial set of greenhouse gases (GHGs), we would solve for temperature26 as 
+sharing substantial overlap with Eq. 9.2-the factors having been explained in that context. Without adding to the pre-industrial set of greenhouse gases (GHGs), we would solve for temperature26 as 
 Figure 9.9: In the absence of greenhouse gases, infrared radiation has no difficulty escaping to space (left). When greenhouse gases (GHGs) are present (right), most of the infrared radiation is absorbed by GHG molecules. These molecules later release the absorbed energy as new infrared radiation, but in a randomized direction, so that some energy is returned to the ground, thereby keeping the surface warmer than it would be without greenhouse gases. 
 
 [^24]: This is not how it works. 
@@ -465,7 +465,7 @@ Figure 9.9: In the absence of greenhouse gases, infrared radiation has no diffic
 [^25]: 
 . sum of all: positive and negative 
 
-[^26]: ... adding the baseline 33°C GHG con- tribution 
+[^26]: ... adding the baseline 33°C GHG contribution 
 0.25 
 RF 
 O 
@@ -479,7 +479,7 @@ RFco, 5.35 ln
 CO2 CO2,orig 
 $W/m^2$, 
 (9.5) 
-.capturing the logarithmic broaden- ing of the width of the CO2 absorption feature at 15 um in Figure 9.7 
+.capturing the logarithmic broadening of the width of the CO2 absorption feature at 15 um in Figure 9.7 
 where the In() function is the natural logarithm.[^27] At our present ~420 ppm, the ratio of current CO2 to CO2,orig is 1.5 and RFCO2≈ 2.2 $W/m^2$, so that the new temperature (adding the new forcing to Eq. 9.4) is 
 
 [^27]: 
@@ -491,12 +491,12 @@ T =
 
 which is about 0.6°C larger than it was before increasing the amount of CO2. We can express this as a sensitivity: how much AT do we get for a given imbalance in radiative forcing? In this case, 0.6°C from a 2.2 $W/m^2$ increase is 0.27°C per $W/m^2$. But when the known feedback mechanisms are included-most of them in the positive direction-the temperature sensitivity becomes 0.8°C for every $W/m^2$ of additional forcing: called the climate sensitivity parameter.[^28] 
 Definition 9.2.2 The climate sensitivity parameter connects the amount of warming expected for a given amount of radiative forcing. Current understanding puts this at 0.8°C per $W/m^2$ of radiative forcing. 
-Therefore, our current 2.2 $W/m^2$ of additional (fossil-fuel added) radia- tive forcing translates29 to a 1.7°C temperature increase (Figure 9.10), which is about three times what the non-feedback calculation would provide. 
+Therefore, our current 2.2 $W/m^2$ of additional (fossil-fuel added) radiative forcing translates29 to a 1.7°C temperature increase (Figure 9.10), which is about three times what the non-feedback calculation would provide. 
 Example 9.2.1 If we double our CO2 concentration from pre-industrial levels, what would we expect the temperature increase to be? 
 Pre-industrial CO2 was 280 ppmy, so doubling it adds 280 ppm, for a total of 560 ppm. The radiative forcing is then 5.35 ln(2)≈ 3.7 $W/m^2$. Multiply this by the climate sensitivity of 0.8°C per $W/m^2$ to get a temperature increase of about 3.0°C (would be 1°C without feedback). 
 The positive feedbacks are important, and include factors like: 
 1. A warmer planet means less ice (glaciers, Arctic cap), resulting in less reflected sunlight, increasing the 0.707 absorption factor in Eq. 9.3 to increase solar forcing. 
-2. Warmer air can hold more water vapor-the principal green- house gas, thus driving up the nominal 33°C greenhouse gas 
+2. Warmer air can hold more water vapor-the principal greenhouse gas, thus driving up the nominal 33°C greenhouse gas 
 contribution. 
 3. A warmer environment leads to additional CO2 loss from drying forests, desertification, and accelerated decomposition of plant matter and peat. 
 A few negative feedback mechanisms30 exist as well, but are outweighed by the positive feedback terms. 
@@ -504,7 +504,7 @@ Global temperature increase is already about 1.0°C [^58]. Note that even if we 
 9 Climate Change 
 147 
 
-[^28]: See [^57] for a good synopsis and refer- ences to primary material within. 
+[^28]: See [^57] for a good synopsis and references to primary material within. 
 
 [^29]: Just multiply 2.2 $W/m^2$ by 0.8 °C per $W/m^2$. 
 Radiative forcing ($W/m^2$) 
@@ -528,10 +528,10 @@ Radiative forcing ($W/m^2$)
 0.0 
 300 350 400 450 500 550 600 CO, concentration (ppm) 
 Temperature increase (°C) 
-Figure 9.10: As CO2 concentration increases, the radiative forcing (left axis) increases, driving the temperature (right axis) up. We are now at 420 ppm, corresponding to a radiative forcing of 2.2 $W/m^2$ and 1.7°C of ultimate temperature increase (red star). Presently, the temperature has only in- creased by 1.0°C (red circle), but will catch up to a new equilibrium once oceans warm and ice melts. 
+Figure 9.10: As CO2 concentration increases, the radiative forcing (left axis) increases, driving the temperature (right axis) up. We are now at 420 ppm, corresponding to a radiative forcing of 2.2 $W/m^2$ and 1.7°C of ultimate temperature increase (red star). Presently, the temperature has only increased by 1.0°C (red circle), but will catch up to a new equilibrium once oceans warm and ice melts. 
 
 [^30]: 
-By far the most important negative feedback mechanism is the infrared radia- tion itself, increasing dramatically as tem- perature increases (as T4), thus opposing the temperature rise by a cooling influence. Here, we mean negative feedback influences in addition to this main one. 
+By far the most important negative feedback mechanism is the infrared radiation itself, increasing dramatically as temperature increases (as T4), thus opposing the temperature rise by a cooling influence. Here, we mean negative feedback influences in addition to this main one. 
 [^58]: National Oceanic and Atmospheric Administration (NOAA) (2019), Global Climate Report 
 
 [^31]:... lots of thermal mass, or heat capacity 
@@ -540,19 +540,19 @@ By far the most important negative feedback mechanism is the infrared radia- tio
 148 
 9.3 Possible Trajectories 
 Launching from the data used to generate Figure 9.3, we can now play a few games to understand what our future might hold in terms of total CO2 rise and corresponding AT increases by the year 2100 under various contrived scenarios.[^32] 
-First, let's imagine that we suddenly arrest the upward climb charac- teristic of fossil-fuel usage to date33 and maintain present-day levels of fossil fuel use from now until 2100. Figure 9.11 shows what hap- pens. The total added CO2 rises to 2.75 times the current excess, to 339 ppm, 34 above pre-industrial levels. The associated radiative forcing would be 4.25 $W/m^2$ and result in a 3.4°C temperature increase. Table 9.5 summarizes this scenario and the three to follow. 
+First, let's imagine that we suddenly arrest the upward climb characteristic of fossil-fuel usage to date33 and maintain present-day levels of fossil fuel use from now until 2100. Figure 9.11 shows what happens. The total added CO2 rises to 2.75 times the current excess, to 339 ppm, 34 above pre-industrial levels. The associated radiative forcing would be 4.25 $W/m^2$ and result in a 3.4°C temperature increase. Table 9.5 summarizes this scenario and the three to follow. 
 200 
 1.50 
 2100: 2.6 ppmv/yr 
 180 
 Total: 339 ppmy 
 
-[^32]: None of the scenarios we will fabricate are realistic, exactly, but help us establish boundaries of possible outcomes. Mathe- matical models need not capture all the nuances to still be useful guides to under- standing. 
+[^32]: None of the scenarios we will fabricate are realistic, exactly, but help us establish boundaries of possible outcomes. Mathematical models need not capture all the nuances to still be useful guides to understanding. 
 
 [^33]:... reflected in the left-hand panel of Figure 9.3 
 
 [^34]: ... resulting in about 620 ppmy; up 339 ppm, from the pre-industrial 280 ppmv 
-Verify yourself following a proce- dure like Example 9.2.1 as good practice. 
+Verify yourself following a procedure like Example 9.2.1 as good practice. 
 CO2 ppmy annual contribution 
 1.25 
 coal 
@@ -581,7 +581,7 @@ gas
 year 
 AT 
 RFCO2 (ppm) ($W/m^2$) (°C) 
-Figure 9.11: CO2 rise if fixing fossil fuel use at today's levels for the rest of the century, following the conventions of Figure 9.3. We would still add 2.6 ppm, per year from now until the end of the run in 2100, and would have accumulated a total rise of 339 ppmy, or 2.75 times the problematic amount al- ready accumulated to date. The associated temperature rise would be 3.4°C. For this and all subsequent scenarios, the plots show only the half of emitted CO2 that remains in the atmosphere. 
+Figure 9.11: CO2 rise if fixing fossil fuel use at today's levels for the rest of the century, following the conventions of Figure 9.3. We would still add 2.6 ppm, per year from now until the end of the run in 2100, and would have accumulated a total rise of 339 ppmy, or 2.75 times the problematic amount already accumulated to date. The associated temperature rise would be 3.4°C. For this and all subsequent scenarios, the plots show only the half of emitted CO2 that remains in the atmosphere. 
 Table 9.5: Summary of scenario outcomes. 
 Scenario 
 ACO2 (ppm) 
@@ -664,7 +664,7 @@ year
 The emphasis, then, should be to taper off fossil fuel use so that we wean ourselves of dependency. The transition could be fast or slow. A slower version might target the year 2100 for a full termination of fossil fuels. Figure 9.13 shows an idealization of what this might look like. Notice that the resulting curves are roughly symmetric, in that the downslope is not terribly different from the upslope. Let's pause to reflect on how incredible and fast the rise of fossil fuels has been. A descent as steep as the rise represents change at an astounding pace-which would be pretty disruptive in the best circumstances. In the absence of suitable substitutions, this would be a tremendously difficult journey, but one we may be forced to make by any number of paths.[^38] In any case, the eventual added CO2 would end up at 235 ppm, almost doubling what we have already emitted, and nearly doubling the pre-industrial CO2 level in the atmosphere. The forcing in this case would be 3.3 $W/m^2$ and 
 AT≈ 2.6°C. 
 Reducing fossil fuel use even more quickly, tapering to zero by 2050, results in Figure 9.14. The descent is alarmingly steep, and difficult to imagine happening in practice unless major disruptions 39 force this upon us. In any case, should we manage such a feat, our total CO2 
-Figure 9.12: CO2 rise if instantly substitut- ing coal (worst CO2 intensity) with natural gas (best CO2 intensity) and then maintain- ing current levels for the rest of this century. Our annual contribution would drop from 2.6 ppm/yr to 1.8 ppm/yr based on this substitution, and the total accumulation would be 268 ppm, by century's end (2.2 times the accumulation to date). The associ- ated temperature rise would be 2.9°C. 
+Figure 9.12: CO2 rise if instantly substituting coal (worst CO2 intensity) with natural gas (best CO2 intensity) and then maintain- ing current levels for the rest of this century. Our annual contribution would drop from 2.6 ppm/yr to 1.8 ppm/yr based on this substitution, and the total accumulation would be 268 ppm, by century's end (2.2 times the accumulation to date). The associ- ated temperature rise would be 2.9°C. 
 
 [^38]: ... driven by policies, markets or- more certainly-resource limits 
 Again, follow along for good practice. 

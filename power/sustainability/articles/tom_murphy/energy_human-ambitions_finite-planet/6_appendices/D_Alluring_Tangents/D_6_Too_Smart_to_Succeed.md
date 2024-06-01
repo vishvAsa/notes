@@ -8,7 +8,7 @@ Can it work? Can humans create the institutions and uncorrupted global authority
 
 It is therefore an open question whether a technological society is even compatible with planetary limits. Are modern humans just a passing phase whose creations will crumble into oblivion in a geological blink, or can we stick it out in something other than a primitive state? We again have no evidence[^59] one way or another. The current state of apparent success cannot be taken as a meaningful proof-of-concept, because it was achieved at the expense of finite resources in a shockingly short time: an extravagant party funded by the great one-time inheritance.+++(4)+++ The aftermath is only beginning to appear.
 
-[^59]: See Sec. 18.4 (p. 312) on the Fermi paradox for a worrisome-albeit inconclusive- lack of evidence of success in the universe.
+[^59]: See Sec. 18.4 (p. 312) on the Fermi paradox for a worrisome-albeit inconclusivelack of evidence of success in the universe.
 
 We have a choice: work toward success-hoping and assuming that it is indeed possible; or acquiesce to failure. It seems that if we are not wise enough to know whether long-term success is even possible, the responsible course of action would be to assume that we can succeed, and do what we can to maximize our chances of arriving there. When should we start? Again-without knowing any better-the sooner we start, the more likely we are to succeed. Any delay is another way of driving ourselves toward a more likely failure. 
 
@@ -28,19 +28,19 @@ So here's the thing. The first species smart enough to exploit fossil fuels will
 
 Put another way, the first species entertaining the notion that they are able to outsmart nature is in for a surprise. Earth's evolutionary web of life is dumb: it has no intelligence at all. But it exists in this universe on the strength of billions of years of tested success. All the random experiments along the way that were unworkable got weeded out. The vast majority of species around today have checked the box for long-term viability. 
 
-Modern humans-those who have moved beyond hunter-gatherer lifestyles, anyway- represent an exceedingly short-lived experiment in evolutionary terms. This is especially true for the fossil fuel era of the last few centuries. It would be premature to declare victory. The jury is still out on whether civilization is compatible with nature and planetary limits, as explored in Section D.5. 
+Modern humans-those who have moved beyond hunter-gatherer lifestyles, anywayrepresent an exceedingly short-lived experiment in evolutionary terms. This is especially true for the fossil fuel era of the last few centuries. It would be premature to declare victory. The jury is still out on whether civilization is compatible with nature and planetary limits, as explored in Section D.5. 
 
 Evolution does not avoid mistakes. In fact, it is built upon and derives its awesome power precisely because of those few mistakes that somehow escape the more likely failed outcomes and find advantage in the mistake.[^64] Maybe humans are one of those more typical evolutionary mistakes that will culminate in the usual failure, as so often happens. The fact that we're here and smart says nothing about our chances for long-term success. Indeed, humankind's demonstrated ability to produce unintended global adverse consequences would suggest that success is less than a safe bet.
 
 It seems fairly clear that hunter-gatherer humans could have continued essentially indefinitely on the planet. And the brains of hunter-gatherer Homo sapiens are indistinguishable from those of modern humans. So intelligence by itself is not enough to cross the line into existential peril, if continuing to operate within and as a part of natural ecosystems.  
 
-[^61]: Intelligence is not the only sort of ad- vantage, and can easily lose to tooth and claw, or even mindless microscopic threats: nature has devised many ways to "win." 
+[^61]: Intelligence is not the only sort of advantage, and can easily lose to tooth and claw, or even mindless microscopic threats: nature has devised many ways to "win." 
 
 [^62]: ... self-assigned flattery 
 
-[^63]: Not only is climate change a problem, but building an entire civilization depen- dent on a finite energy resource and also en- abling a widespread degradation of natural ecosystems seems like an amateur blunder. 
+[^63]: Not only is climate change a problem, but building an entire civilization dependent on a finite energy resource and also enabling a widespread degradation of natural ecosystems seems like an amateur blunder. 
 
-[^64]: Since mutations are random mistakes, and some actually, surprisingly, turn out to be advantageous, one might say that life is a giant pile of mistakes that failed to de- liver the expected bad outcomes, snatching success from the jaws of failure.
+[^64]: Since mutations are random mistakes, and some actually, surprisingly, turn out to be advantageous, one might say that life is a giant pile of mistakes that failed to deliver the expected bad outcomes, snatching success from the jaws of failure.
 
 [[410]]
 
@@ -63,7 +63,7 @@ a reasonably long track record of success behind it.
 
 [^67]: Forests can grow back, but not at the rate of their destruction at present.
 
-[^68]: What hope we have lies here, and pro- vides the underlying motivation for writing this book. The first step is appreciating in full the gravity of the challenge ahead.
+[^68]: What hope we have lies here, and provides the underlying motivation for writing this book. The first step is appreciating in full the gravity of the challenge ahead.
 
 One way to frame the question: 
 
@@ -72,7 +72,7 @@ One way to frame the question:
 
 Successful non-human species have never had to answer this question, but neither has any species been smart enough—until we came along to develop the capability to steal all the goodies from the future and, in so doing, jeopardize their own success.[^69] 
 
-[^69]: Success here means preserving civiliza- tion. It is far easier-and perhaps more likely to at least survive as a species in a more primitive, natural state. 
+[^69]: Success here means preserving civilization. It is far easier-and perhaps more likely to at least survive as a species in a more primitive, natural state. 
 
 [[411]] 
 

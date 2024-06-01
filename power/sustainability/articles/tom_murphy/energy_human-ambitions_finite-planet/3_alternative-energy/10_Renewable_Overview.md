@@ -2,7 +2,7 @@
 title = "10 Renewable Overview"
 
 +++
-We now understand that the path human civilization has traveled to this point- a path paved by fossil fuels cannot lead very much farther before a new path must take over. One distinct possibility is a trek back toward a low-tech existence, but most people would consider such a development to be a failure. What would success look like, then? 
+We now understand that the path human civilization has traveled to this pointa path paved by fossil fuels cannot lead very much farther before a new path must take over. One distinct possibility is a trek back toward a low-tech existence, but most people would consider such a development to be a failure. What would success look like, then? 
 
 Sec. D.5 (p. 404) in the Appendices takes a look at the big picture of long-term human success, but for present purposes we will focus on the critical issue of energy: where could we get enough energy to replace the prodigious one-time gift of fossil fuels?
 

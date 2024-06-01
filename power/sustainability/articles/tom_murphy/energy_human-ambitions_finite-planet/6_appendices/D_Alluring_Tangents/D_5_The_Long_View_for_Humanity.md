@@ -2,7 +2,7 @@
 title = "D 5 The Long View for Humanity"
 
 +++
-Sec. 8.1 (p. 114) took a sweeping view of humanity's timeline as a useful lens through which to appreciate the very short age during which fossil fuels impart a substantial energy benefit. This section revisits this time- warping perspective in a slightly different way as a means to reflect on humanity's far future. 
+Sec. 8.1 (p. 114) took a sweeping view of humanity's timeline as a useful lens through which to appreciate the very short age during which fossil fuels impart a substantial energy benefit. This section revisits this timewarping perspective in a slightly different way as a means to reflect on humanity's far future. 
 
 ## D.5.1 Success vs. Failure 
 We start by noting that human civilization is about 10,000 years old, to the nearest order-of-magnitude.[^45] Consider this question: 
@@ -11,7 +11,7 @@ We start by noting that human civilization is about 10,000 years old, to the nea
 
 Wow. Heavy question. Of course, we do not know the answer, but most of us would prefer to believe the first-that we are only beginning. So let's roll with that and explore the consequences. 
 
-[^45]: This roughly marks the start of agri- culture, and in any case is far closer to the truth than the adjacent order-of-magnitude figures of 1,000 years or 100,000 years. 
+[^45]: This roughly marks the start of agriculture, and in any case is far closer to the truth than the adjacent order-of-magnitude figures of 1,000 years or 100,000 years. 
 
 In order for human civilization to be in its infancy, it would have to continue for at least 10,000 years more, if not far longer. What would it mean for us to still be operating "successfully" 10,000 years from now? Our physics and math approach actually allows us to place constraints! 
 
@@ -34,7 +34,7 @@ If we manage to carry our civilization into the far future,4 comfortably call th
 
 [^46]: Even if extending to other planets, the same logic will apply. 
 
-[^47]: A useful definition might be uninter- rupted preservation of the knowledge and history gained thus far, without some apoc- alyptic collapse forcing a start-from-scratch revival to the extent that's even plausible. 
+[^47]: A useful definition might be uninterrupted preservation of the knowledge and history gained thus far, without some apocalyptic collapse forcing a start-from-scratch revival to the extent that's even plausible. 
 
 [^48]: 
 
@@ -59,7 +59,7 @@ The analogy is clear, and perhaps it is also clear why we did not allow interest
 
 Success, therefore, puts humans as a part of nature, not apart from nature. Anything else is failure. The closer we are to nature, the more likely we are to succeed. 
 
-Nature prepared a biosphere that has stood the test of time. Natural selection has operated to eliminate non-viable solutions and create inter- dependencies cleverly balanced in a stable equilibrium of sorts. Elements of modern human civilization-our cities, agricultural practices, fossil fuel dependence-have not withstood the test of time, nor can they. Which system would be the wiser bet for long-term survival: the well adapted natural world, or the artificial world humans have erected and operated for a few dozen decades-without attention to sustainable principles? The answer seems obvious. 
+Nature prepared a biosphere that has stood the test of time. Natural selection has operated to eliminate non-viable solutions and create interdependencies cleverly balanced in a stable equilibrium of sorts. Elements of modern human civilization-our cities, agricultural practices, fossil fuel dependence-have not withstood the test of time, nor can they. Which system would be the wiser bet for long-term survival: the well adapted natural world, or the artificial world humans have erected and operated for a few dozen decades-without attention to sustainable principles? The answer seems obvious. 
 
 [^52]:  hardly different from $18,000 per year, so if you're going this far already, why not? 
 
@@ -89,4 +89,4 @@ Humanity needs to develop a framework by which to evaluate its activities and as
 
 At some level, humans need to realize that success means the thriving of not only themselves, but all of Earth's precious irreplaceable species and ecosystems. Without them, humans cannot be successful anyway. This is another part of maturing: many adolescents have difficulty considering the impacts of their actions on anyone other than themselves. Humans need to realize that hurting any component of Earth is hurting humans, long-term. Our legal system affords rights to humans, but gives no agency to plants, animals, or even non-living features of our planet. A successful future must give voice to every element of our world, lest we trample it and rue the day.
 
-[^58]: In such cases, the outcome may ulti- mately settle on longer lives for fewer peo- ple. 
+[^58]: In such cases, the outcome may ultimately settle on longer lives for fewer people. 

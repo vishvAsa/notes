@@ -85,7 +85,7 @@ as the application of force through a distance.[^1]  The colloquial use of the w
 [^1]: This definition applies to the common circumstance when the motion is aligned with the direction of force, like pushing a box across a level floor, propelling a car along the road, or lifting a weight.
 
 
-The SI unit of force is the Newton (N), breaking down more fundamen- tally to kg m/s2. The best way to remember this is via Newton's Second Law: F = ma (force equals mass times acceleration). Mass has units of kg, and acceleration[^2] is measured in meters per second squared. 
+The SI unit of force is the Newton (N), breaking down more fundamentally to kg m/s2. The best way to remember this is via Newton's Second Law: F = ma (force equals mass times acceleration). Mass has units of kg, and acceleration[^2] is measured in meters per second squared. 
 
 [^2]: Acceleration is the rate of change of velocity. Since velocity is measured in meters per second, the rate at which it changes will be meters per second per second, or m/s/s, or m/s2. Some students may know that gravitational acceleration on Earth's surface is 9.8 m/s2, which is another way to remember.
 
@@ -144,7 +144,7 @@ The units again check out as $mgh → kg m m /s^2 = J$.
 
 [^5]: The force needed to hold against gravity is just F = ma = mg 
 
-Sec. A.10 (p. 370) in the Appendices pro- vides additional guidance on manipulating units. 
+Sec. A.10 (p. 370) in the Appendices provides additional guidance on manipulating units. 
 
 We'll encounter other ways to describe energy in this book, but any energy unit can always be cast into units of Joules, if desired. Later sections in this chapter detail alternative units whose acquaintance we must make in order to interpret energy information in our lives. 
 
@@ -198,7 +198,7 @@ Example 5.2.1 Various illustrative examples:
 
 Any of the forms of energy (e.g., in Table 5.2) can convert into the other, directly or indirectly. In each conversion, 100% of the energy is accounted for. In the general case, the energy branches into multiple paths, so we do not get 100% efficiency into the channel we want.+++(4)+++ For instance, the pendulum example above will eventually bleed its energy into stirring the air (kinetic energy) and friction (heat) at the pivot point. The stirring air eventually turns to heat via internal (viscous) friction of the air. 
 
-One useful clarification is that thermal energy is really just random motions- kinetic energy- of individual atoms and molecules. So in the case of nuclear fission in Example 5.2.1, the initial kinetic energy of the nuclear fragments is already thermal in nature, but at a higher temperature (faster speeds) than the surrounding material. By bumping into surrounding atoms, the excess speed is diffused into the medium, raising its temperature while "cooling" the fragments themselves as they are slowed down. 
+One useful clarification is that thermal energy is really just random motionskinetic energyof individual atoms and molecules. So in the case of nuclear fission in Example 5.2.1, the initial kinetic energy of the nuclear fragments is already thermal in nature, but at a higher temperature (faster speeds) than the surrounding material. By bumping into surrounding atoms, the excess speed is diffused into the medium, raising its temperature while "cooling" the fragments themselves as they are slowed down. 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -282,7 +282,7 @@ Definition 5.4.1 The kilowatt-hour is an amount of energy (not a power) resultin
 
 This unit causes no end of confusion, but it's really pretty straightforward. The kilowatt-hour is a kilowatt times an hour. Thus it is power multiplied by time, which is energy (since power is energy over time). 
 
-It may help to think of the sequence: kilo- watt x hour; kWxh; kW-h; kWh. 
+It may help to think of the sequence: kilowatt x hour; kWxh; kW-h; kWh. 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -358,62 +358,77 @@ Most memorably, it is the amount of energy it takes to heat one kilogram (or one
 
 Food labels in the U.S. are in Calories, describing the energy content of the food we eat.[^15] We would all do ourselves a favor by calling these kcal instead of Calories (same thing). Many other countries sensibly use either kJ or kcal for quantifying food energy. 
 
+[^15]: Human metabolism is not the same as heating water, but the energy involved can still be counted in an energy unit that is defined in terms of heating water. It's still just energy.
+
 (1 cm3 = 1 mL = 1 g) 20°C + 50 calories (209 J) → 70°C 
 
 Example 5.5.1  
 
 To change 30 mL (30 g) of water by 5°C requires 150 cal, or a little over 600 J. 
 
-Injecting 40 kcal of energy into a 2 L (2 kg) bottle of water will heat it by 20 degrees. 
-Drinking 250 mL of ice-cold water and heating it up to body tempera- ture (thus raising its temperature by approximately 35 degrees) will take about 8,750 cal, or 8.75 kcal, or a bit over 36 kJ of 
-energy. 
-It is usually sufficient to remember that the conversion factor between calories and Joules is about 4.2-or just 4 if performing a crude calcula- tion. 
+Injecting 40 kcal of energy into a 2 L (2 kg) bottle of water will heat it by 20 degrees.  
+Drinking 250 mL of ice-cold water and heating it up to body temperature (thus raising its temperature by approximately 35 degrees) will take about 8,750 cal, or 8.75 kcal, or a bit over 36 kJ of energy.  
+It is usually sufficient to remember that the conversion factor between calories and Joules is about 4.2-or just 4 if performing a crude calculation. 
  
 [[74]] 
 
-[^15]: Human metabolism is not the same as heating water, but the energy involved can still be counted in an energy unit that is defined in terms of heating water. It's still just energy. 
 Figure 5.3: Following the definition of a calorie, adding 50 cal to one gram of water raises its temperature by 50°C. 
+
+20 deg 1cucm = 1mL = 1g + 50 cal (209J)  -> 70 deg C
+
 No deep significance attaches to the fact that 1 cal happens to equate to 4.184 J, other than to say this describes a property of water (called specific heat capacity). 
-1 cal = 
-1 kcal 
-= 
-4.184 J 4,184 J 
-4.2 J 
-4J 
-4.2 kJ 
-4 kJ 
+
+1 cal = 4.184 J  \~ 4.2 J \~ 4J  
+1 kcal = 4,184 J \~ 4.2kJ \~ 4 kJ 
+
 Two examples will help cement use of the kcal (a more useful scale in this class than the much smaller calorie). 
-Example 5.5.2 A typical diet amounts to a daily intake of about 2,000 kcal of food energy. If you think about it, 2,000 kcal/day is a power (energy per time). We can convert to Watts by changing kcal to J and one day to seconds. 2,000 kcal is 8.368 MJ. One day has 86,400 seconds. The division of the two is very close to 100 W.16 
-A second example hews closely to the definition of the kcal: heating 
-water. 
-Example 5.5.3 Let's say you want to heat a half-liter (0.5 kg) of water from room temperature (20°C) to boiling (100°C). Since each kcal can heat 1 kg by 1°C, that same energy will raise our half-kg by 2°C.17 So raising the temperature by 80°C will require 40 kcal, or 167 kJ. 
+
+Example 5.5.2 A typical diet amounts to a daily intake of about 2,000 kcal of food energy. If you think about it, 2,000 kcal/day is a power (energy per time). We can convert to Watts by changing kcal to J and one day to seconds. 2,000 kcal is 8.368 MJ. One day has 86,400 seconds. The division of the two is very close to 100 W.+++(5)+++[^16] 
+
+[^16]: It would serve little purpose to perform exact math here-producing 96.85 W in this case since the idea that someone's daily diet is exactly 2,000.00 kcal is pretty preposterous.+++(5)+++ It will likely vary by at least 10% from day to day, and by even larger amounts from individual to individual, so that 100 W is a convenient and approximate representation.
+
+A second example hews closely to the definition of the kcal: heating water.
+
+Example 5.5.3 Let's say you want to heat a half-liter (0.5 kg) of water from room temperature (20°C) to boiling (100°C). Since each kcal can heat 1 kg by 1°C, that same energy will raise our half-kg by 2°C.[^17] So raising the temperature by 80°C will require 40 kcal, or 167 kJ. 
+
+[^17]: Make sure this is clear to you; by understanding, we are installing concepts instead of formulas, which are more powerful and lasting.
+
 If the water is heated at a rate of 1,000 W (1,000 J/s), it would take 167 seconds for the water to reach boiling temperature. 
-Notice that we did not apply an explicit formula in Example 5.5.3. By proceeding stepwise, we attempt to keep it intuitive. We could write a 
 
 
-[^16]: It would serve little purpose to perform exact math here-producing 96.85 W in this case since the idea that someone's daily diet is exactly 2,000.00 kcal is pretty preposterous. It will likely vary by at least 10% from day to day, and by even larger amounts from individual to individual, so that 100 W is a convenient and approximate representation. 
+Notice that we did not apply an explicit formula in Example 5.5.3. By proceeding stepwise, we attempt to keep it intuitive. (Appendix Sec. A.8 (p. 368) addresses this philosophy in a bit more detail. )
 
-[^17]: Make sure this is clear to you; by under- standing, we are installing concepts instead of formulas, which are more powerful and lasting. 
-Appendix Sec. A.8 (p. 368) addresses this philosophy in a bit more detail. 
-formula, but we implicitly create the formula on the fly by recognizing that the amount of energy required should scale with the mass of water and with the amount of temperature increase. Hopefully, this approach leads to a deeper understanding of the concept, while printing a formula on the page might short-circuit comprehension. 
+We could write a formula, but we implicitly create the formula on the fly by recognizing that the amount of energy required should scale with the mass of water and with the amount of temperature increase. Hopefully, this approach leads to a deeper understanding of the concept, while printing a formula on the page might short-circuit comprehension. 
  
-75 
-This would be an excellent oppor- tunity to create your own formula to capture the idea, like an expert! 
-5.6 British Thermal Unit (Btu) 
-Why would we waste our time talking about the arcane British thermal unit (Btu)? It's because data provided by the U.S. Energy Information Administration on global energy use is based on the Btu. More specifically, country-scale annual energy expenditures are measured in units of quadrillion (1015) Btu (see Box 5.4). Also, heating appliances in the U.S.18 are rated in Btu/hour-a unit of power that can be converted to Watts. 
-Definition 5.6.1 The Btu is the Imperial analog to the kcal.[^19] One Btu is the energy required to heat one pound of water one degree Fahrenheit. 
-In terms of Joules, 1 Btu is about 1,055 J, or not far from 1 kJ. 
-We can make sense of the conversion to Joules in the following way: a pound is roughly half a kilogram and one degree Fahrenheit is approxi- mately half a degree Celsius. So a Btu should be roughly a quarter of a kcal. Indeed, 1,055 J is close to one quarter of 4,184 J. 
-Box 5.4: Quads: qBtu 
-The U.S. uses quadrillion Btu to represent country-scale annual energy expenditures. It is denoted as qBtu, or informally "quads." One qBtu is approximately 1018 J.20 
+[[75]] 
+
+This would be an excellent opportunity to create your own formula to capture the idea, like an expert! 
+
+## 5.6 British Thermal Unit (Btu) 
+Why would we waste our time talking about the arcane British thermal unit (Btu)? It's because data provided by the U.S. Energy Information Administration on global energy use is based on the Btu. More specifically, country-scale annual energy expenditures are measured in units of quadrillion ($10^15$) Btu (see Box 5.4). Also, heating appliances in the U.S.[^18] are rated in Btu/hour-a unit of power that can be converted to Watts. 
+
+Definition 5.6.1  
+The Btu is the Imperial analog to the kcal.[^19]  
+One Btu is the energy required to heat one pound of water one degree Fahrenheit.  
+In terms of Joules, 1 Btu is about 1,055 J, or not far from 1 kJ.  
+
+We can make sense of the conversion to Joules in the following way: a pound is roughly half a kilogram and one degree Fahrenheit is approximately half a degree Celsius. So a Btu should be roughly a quarter of a kcal. Indeed, 1,055 J is close to one quarter of 4,184 J.+++(5)+++ 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Box 5.4: Quads: qBtu  
+The U.S. uses quadrillion Btu to represent country-scale annual energy expenditures. It is denoted as qBtu, or informally "quads." One qBtu is approximately 1018 J.[^20]   
 The U.S. uses about 100 quads per year. Since a year is about 3.16× $10^{7}$ seconds,[^21] dividing energy in Joules by time in seconds tells us that the U.S. power is about 3 x $10^{12}$ W (3 TW), working out to about 10,000 W per person as a per-capita rate of energy use. 
+</details>
+
+
 Example 5.6.1 For appliances characterized by Btu/hr, we can relate to power in Watts via 1 Btu/hr as 1,055 J per 3,600 s, working out to 0.293 W. 
 Thus, a hot water heater rated at 30,000 Btu/hr is effectively 8,800 W. 
 Let's also pause to understand how long it will take to heat a shower's worth of hot water at this rate. We'll do it two ways: 
 1. Heating 15 gallons22 (125 pounds) from a cool 68°F to a hot 131°F at 30,000 Btu/hr will take how long? We must put in 
 We need to cover the unit in this chapter in order to be energy-literate in the U.S., and because it will come up later in this book. 
 
-[^18]:... hot water heaters, furnaces, air con- ditioners, ovens and stoves 
+[^18]:... hot water heaters, furnaces, air conditioners, ovens and stoves 
 
 [^19]: Recall that 1 kcal is the energy it takes to heat one kilogram of water by 1°C. 
 
@@ -441,10 +456,10 @@ If we learn that the hot water heater is rated at 30,000 Btu per hour, it will t
 
 [^25]: Chapter 20 will explore what might be learned from utility bills. 
 
-[^26]: Propane is often used in more remote lo- cations as a substitute for natural gas when the pipeline infrastructure for natural gas is absent. 
+[^26]: Propane is often used in more remote locations as a substitute for natural gas when the pipeline infrastructure for natural gas is absent. 
 
 [^27]: Based on a capacity of 200 L, pulling in chilly water at 5°C and heating it to 55°C, thereby requiring 200 kg x 50 C kcal. 
-It is interesting to reflect on the notion that 200 L of water can be heated by 50°C for only 2 L of liquid fuel: 1% of the water vol- ume in fuel. If heating to boiling, it would take twice as much fuel, so 2% of the wa- ter volume. Seems like a good bargain- especially for backpackers who want to boil water and have to lug the fuel around to do so. Inefficiencies in getting heat into the water might require more like 10% fuel vol- 
+It is interesting to reflect on the notion that 200 L of water can be heated by 50°C for only 2 L of liquid fuel: 1% of the water volume in fuel. If heating to boiling, it would take twice as much fuel, so 2% of the water volume. Seems like a good bargainespecially for backpackers who want to boil water and have to lug the fuel around to do so. Inefficiencies in getting heat into the water might require more like 10% fuel vol- 
 ume. 
 5.8 Electrical Power 
 Electronic interactions are governed by charges pushing on each other. For the purposes of this course, we need only understand a few concepts. The first is voltage. 
@@ -472,11 +487,11 @@ from Section 5.4.
 
 [^29]: Amperes, formally 
 
-[^30]: The alternating current nature is al- ready accommodated in this measure of voltage. 
+[^30]: The alternating current nature is already accommodated in this measure of voltage. 
 
 [^31]: Safety regulations limit continuous use to 80% of the breaker current capacity, so that realistically the limits are 1,400 W and 1,920 W, respectively. This is why "heating appliances" in Figure 5.2 top out around 1,500 W: circuit/safety limits. 
 
-[^32]: For example, 0.1 Amps (0.1 Coulombs per second) of current sustained for a dura- tion of 100 seconds results in 10 Coulombs of charge flow. 
+[^32]: For example, 0.1 Amps (0.1 Coulombs per second) of current sustained for a duration of 100 seconds results in 10 Coulombs of charge flow. 
 
 Example 5.8.2 A typical 9-volt battery has a capacity of 500 mAh. How much energy is this? 
 500 mAh is 0.5 Ah. Multiplying by 9 V produces 4.5 Wh. Recall that 1 Wh is 1 J/s times 3,600 s (one hour), or 3,600 J. So 4.5 Wh is 16.2 kJ. 
@@ -485,7 +500,7 @@ How long can we power a 1 W LED array from this battery? We can go the long way 
  
 78 
 
-[^33]: Approaching a problem from multiple directions provides validation and also pro- motes greater flexibility. 
+[^33]: Approaching a problem from multiple directions provides validation and also promotes greater flexibility. 
 5.9 Electron Volt (eV) 
 The electron-volt (eV) is the unit of choice for energy at the atomic scale. This makes it ideal for discussing individual chemical bond strengths, the energy of individual photons of light emitted from atoms, and thermal energy per atom or molecule.[^34] We also use the eV for nuclear physics, but must increase the scale one million-fold and therefore speak of the mega-electron-volt, or MeV. 
 We have already hit all the relevant concepts for understanding the eV in Section 5.8. The main reason to have its own section is so that it 
@@ -504,7 +519,7 @@ Because CO2 has a total of four bonds between the carbon atom and the two oxygen
 
 [^36]: Tables in chemistry books contain this type of information. 
 
-[^37]: Each carbon-to-oxygen link is a double bond, meaning that two electrons partici- pate in the link, for a total of four. 
+[^37]: Each carbon-to-oxygen link is a double bond, meaning that two electrons participate in the link, for a total of four. 
 
  
 79 
@@ -523,7 +538,7 @@ hc
 39 
 corre- 
 
-[^39]: A micron (um, or micrometer) is an- other way to say $10^{-6}$ n 
+[^39]: A micron (um, or micrometer) is another way to say $10^{-6}$ n 
 m. 
 where h = 6.626 × $10^{-34}$ J·s is Planck's constant and c≈ 3.0 × 108 m/s is the speed of light. 
 Example 5.10.1 Visible light has a wavelength of 0.4-0.7 μm, sponding to 2.8-5.0x$10^{-19}$ J for each photon. 
@@ -599,11 +614,11 @@ maintain heat?
 25. If Problem 21 had resulted in 5,000 W,49 how many gallons of liquid propane 50 would be consumed in heating the home for a day? At a cost of around $2.50 per gallon, about how much does it cost per day to heat the home? 
 26. The chapter banner image (page 68) shows data from the author's utility bill, reflecting 230 kWh of electricity and 4 Therms of gas usage. Annoyingly, the units are different. How do the actual energies compare, if expressed in the same units?51 How would you capture in a simple sentence the approximate comparison of energy use for each? 
 27. The chapter banner image (page 68) shows part of the hot water heater label in the author's home, showing a rating of 40,000 Btu/hr. How much power is it capable of putting out, in Watts? 
-28. The chapter banner image (page 68) shows the energy label associ- ated with the author's hot water heater, estimating that it will use 242 Therms per year. If the estimated energy cost is distributed evenly across 12 months, what would the utility bill be expected to report? Based on an actual utility bill in the same image, the usage for one billing period was 4 Therms. How does actual usage compare to estimated usage, as an approximate percentage? 
+28. The chapter banner image (page 68) shows the energy label associated with the author's hot water heater, estimating that it will use 242 Therms per year. If the estimated energy cost is distributed evenly across 12 months, what would the utility bill be expected to report? Based on an actual utility bill in the same image, the usage for one billing period was 4 Therms. How does actual usage compare to estimated usage, as an approximate percentage? 
  
 82 
 Hint: either treating it as if it is only on for 12 hours, or operating at half-power for 24 hours will yield equivalent answers. 
-For instance, if the temperature differ- ence is 10°C, the house will require 2,000 W of steady input to maintain temperature. 
+For instance, if the temperature difference is 10°C, the house will require 2,000 W of steady input to maintain temperature. 
 
 [^45]: it does not, exactly 
 

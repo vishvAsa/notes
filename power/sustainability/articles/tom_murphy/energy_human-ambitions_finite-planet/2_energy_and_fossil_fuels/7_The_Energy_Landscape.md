@@ -230,10 +230,10 @@ Assuming the 34% efficiency14 of electricity production applies equally across a
 But not all of this goes into homes. The home gets 42% of its 11.9 qBtu from electricity, or 5.0 qBtu. We can assume that 28% of the 5 qBtu of electricity flowing into the home derives from natural gas, as decided above. So that's 1.4 qBtu of gas-derived electricity flowing into the home. 
 We can add this 1.4 qBtu of gas-derived electricity to the 5.2 qBtu15 of direct gas-to-home to learn that 6.6 qBtu of residential input is sourced from natural gas either directly or via electricity. Compared to the 11.9 qBtu total for residences, natural gas therefore contributes 55% of the energy used in homes, not just 43% as listed. Now we know. 
 7.1.3 Detailed Mix 
-Delving a bit further into the AER, Section 1.3 provides a more de- tailed breakdown of consumption, now separating out the "renewable" category into its constituent parts, as seen in Table 7.1 and Figure 7.3. 
+Delving a bit further into the AER, Section 1.3 provides a more detailed breakdown of consumption, now separating out the "renewable" category into its constituent parts, as seen in Table 7.1 and Figure 7.3. 
 In sum, 80% of the U.S. energy in 2018 came from fossil fuels. Less than 2.5% came from wind, and less than 1% was solar in origin-the other 16% mainly in the form of nuclear, biomass, and hydroelectricity. Most of the renewable energy is from biomass-like burning wood. The wider world is pretty similar, in that about 80% of energy is from fossil fuels. It's still our main squeeze. Table 7.2 breaks out electricity sources separately. 
 Box 7.2: Thermal Equivalent 
-Note that the EIA-and thus Table 7.1-habitually applies a ther- mal conversion factor to some energy sources in order to more meaningfully compare one source to another. Fossil fuel energy is characterized by its thermal content, which makes sense as they are burned for thermal energy. Often-but not always-the thermal energy is turned into electrical energy. Meanwhile, some sources, like solar, hydroelectric, wind, nuclear, and geothermal are almost exclusively used for electricity production and are most easily mea- 
+Note that the EIA-and thus Table 7.1-habitually applies a thermal conversion factor to some energy sources in order to more meaningfully compare one source to another. Fossil fuel energy is characterized by its thermal content, which makes sense as they are burned for thermal energy. Often-but not always-the thermal energy is turned into electrical energy. Meanwhile, some sources, like solar, hydroelectric, wind, nuclear, and geothermal are almost exclusively used for electricity production and are most easily mea- 
 
 [^11]: As a check, we note that the other side 
 of the blue arrow has 17% of 31.0 qBtu, or 5.3 qBtu leaves the gas block for homes: close enough to the 5.1 qBtu we got on the other side (essentially the same, to rounding error). 
@@ -290,7 +290,7 @@ Multiplying the electrical output by a factor of about 3 recovers the thermal eq
 7 The Energy Landscape 
 107 
 
-[^16]: The actual factor is just the inverse of the electrical conversion efficiency discussed above (34%, so 1/0.34). The conversion ef- ficiency adopted by the EIA has slowly in- creased over time, and is tracked in Ap- pendix A6 of the AER-now at 37.5%, lead- ing to a conversion factor of 2.67. 
+[^16]: The actual factor is just the inverse of the electrical conversion efficiency discussed above (34%, so 1/0.34). The conversion efficiency adopted by the EIA has slowly increased over time, and is tracked in Appendix A6 of the AER-now at 37.5%, leading to a conversion factor of 2.67. 
 Region Coal Gas Oil Nuclear Hydro Wind Solar Bio Geo 
 U.S. 
 27.3 34.9 0.6 
@@ -597,7 +597,7 @@ year
 year 
 Figure 7.9: The left figure combines Figure 7.4 and Figure 7.7 to show the percentage of energy resources consumed by the U.S. over time. The overall picture is of a world catching up to an early leader. The U.S. was a literal "superpower" in the middle of the twentieth century. The dashed line at bottom represents the fraction of U.S. population in the world, so that energy use above this line means a greater-than-average share, which is true for all sources. The plot at right combines Figure 7.5 and Figure 7.8 to show the percentage of renewable and nuclear energy resources consumed by the U.S. over time. Solar and wind are characteristic of a nation known for innovation: first on the scene. 
 The thicker dark blue line in the left panel of Figure 7.9 represents all sources of energy, combined. Around 1950, Americans used a third of all the global energy, corresponding to almost 8 times0mm the global 
-Omm: The math is 35% over 6% of popula- tion compared to 65% over 94% of popula- tion: (35/6)/(65/94)≈ 8.4. 
+Omm: The math is 35% over 6% of population compared to 65% over 94% of population: (35/6)/(65/94)≈ 8.4. 
 7 The Energy Landscape 
 111 
 average per non-American. Today, the ratio is closer to 4. 
@@ -625,7 +625,7 @@ Not the same as previous question.
 
 [^21]: See also Example 7.1.1. 
 
-[^22]: 13.0 qBtu delivered; implying 34% con- version efficiency from primary sources to delivered electricity 
+[^22]: 13.0 qBtu delivered; implying 34% conversion efficiency from primary sources to delivered electricity 
 
 and their total qBtu amounts. Treat "< 1%" as 0.5%. Do these add to 13 qBtu, as they should, within rounding error?23 
 5. Figure 7.2 hides contributions of sources to end sectors behind the "electric black box."24 Following similar logic to that in the margin, and using results from Problem 4, figure out "corrected" values for what percentage of coal provides energy to each of the four end-sectors (re-distributing the 91% going to electricity into end-sectors).25 
@@ -638,13 +638,13 @@ in the U.S., and is it one of the fossil fuels?
 11. If the downward trend in U.S. coal use continues at its current 
 pace, approximately what year would we hit zero? 
 12. Globally, do any of the resources appear to be phasing out, as coal is in the U.S. (as in Problem 11)? If so, how long before we would expect to reach zero usage, globally, based on simple extrapolation? 
-13. Globally, would you say that renewable energy sources are climb- ing faster than the combined fossil fuels, or more slowly? Can we therefore confidently project a time when renewables will overtake 
+13. Globally, would you say that renewable energy sources are climbing faster than the combined fossil fuels, or more slowly? Can we therefore confidently project a time when renewables will overtake 
 7 The Energy Landscape 
 112 
 
-[^23]: This is a great way to check the correct- ness of your answers. 
+[^23]: This is a great way to check the correctness of your answers. 
 
-[^24]: For example, the figure indicates that 17% of natural gas goes directly to residen- tial end-users. But a substantial fraction of natural gas (35%) also goes to electricity, and 38.5% of electrical output goes toward residential use a result of Problem 4. So the fraction of natural gas ending up satis- fying residential demands is the direct 17% plus 38.5% of 35%, adding to 30.5%. 
+[^24]: For example, the figure indicates that 17% of natural gas goes directly to residential end-users. But a substantial fraction of natural gas (35%) also goes to electricity, and 38.5% of electrical output goes toward residential use a result of Problem 4. So the fraction of natural gas ending up satisfying residential demands is the direct 17% plus 38.5% of 35%, adding to 30.5%. 
 
 [^25]: The four numbers you get should add to 100%, within rounding error. 
 
