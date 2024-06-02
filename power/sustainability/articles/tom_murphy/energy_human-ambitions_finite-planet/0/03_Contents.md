@@ -264,7 +264,7 @@ title = "03 Contents"
     - D.5.2 Sustainable Living. 
     - D.5.3 Time to Grow Up - 393
     - D.5.4 Frameworks - 407
-  - D.6 Too Smart to Succeed? .- 408
+  - D.6 Too Smart to Succeed? .408
     - D.6.1 Evolution's Biggest Blunder? - 411
 - Bibliography - 412
 - Notation - 420

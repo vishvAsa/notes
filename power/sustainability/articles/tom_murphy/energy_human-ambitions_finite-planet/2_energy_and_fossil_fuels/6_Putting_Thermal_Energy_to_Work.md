@@ -644,4 +644,4 @@ operating between the 288 K surface and the top of the troposphere68 at 230 K. W
 
 [^72]: Hint: do our bodies have regular access to temperatures this cold? 
 
-[^73]: Treat as water, and recall that the den- sity of water is one gram per milliliter. 
+[^73]: Treat as water, and recall that the density of water is one gram per milliliter. 

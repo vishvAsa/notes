@@ -27,15 +27,15 @@ Chapter 1
 23. Between 100 and 275 K 
 Chapter 2 
 1. Nearly $100 billion 
-2. 4%: $1 trillion; 5%: more than $100 tril- lion 
+2. 4%: $1 trillion; 5%: more than $100 trillion 
 4. On the low end of advanced countries 
 5. Between 25 and 100 MJ/$ 
 6. Between 5% and 50% 
 7. The text had trading art, singing lessons, therapy, and financial planning 
 8. Between 100 and 1,000; Less than 10 to go 
 9. Between 20 and 100 years 
-10. May help to think of something once preva- lent, now rare 
-11. Especially fruitful might be biological de- pendencies 
+10. May help to think of something once prevalent, now rare 
+11. Especially fruitful might be biological dependencies 
 14. It can't all be free of material substance 
 Chapter 3 
 1. Less than a third 
@@ -52,7 +52,7 @@ Problem 6 was in excess of 15 billion
 13. Add almost a half million; more than half million born; less than half million died 
 14. Answers should round to the table val- 
 ues 
-16. Only one country in the table creates more total demand, and only two have higher per- citizen contributions 
+16. Only one country in the table creates more total demand, and only two have higher percitizen contributions 
 17. Correct results are in the table 
 19. See Figure 3.15 
 20. This is why Africa gets attention, while North America is perhaps a greater concern. 
@@ -75,7 +75,7 @@ space
 17. Text has climbing Mt. Everest, supersonic commercial flight, squirrel obstacle course, and economic decoupling 
 18. Will take 15-20 tanks of gas, and achieve a fuel economy a factor of 30 or so below typical 
 cars 
-19. Double the gasoline from previous prob- lem; gasoline mass almost as much as the car itself 
+19. Double the gasoline from previous problem; gasoline mass almost as much as the car itself 
 
 C Selected Answers 
 385 
@@ -92,7 +92,7 @@ Chapter 5
 12. Between 50-100 kcal (200-400 kJ) 
 13. Sensibly, a little less than 2 minutes 
 14. Results should be roughly consistent with Figure 5.2 
-15. A bit less than 10% of household electric- ity 
+15. A bit less than 10% of household electricity 
 16. They're actually close, within 10% 
 17. More than two 
 18. Several kWh; less than $1 
@@ -162,7 +162,7 @@ Chapter 7
 11. In the neighborhood of 20 bbl/yr 
 12. Should be appropriate fraction of 10,000 W total 
 13. A little over 100 MJ and a few dozen kWh 
-14. Sum to about 15 kg, which would fill a refrigerator shelf in the water-bottle equiva- lent. 
+14. Sum to about 15 kg, which would fill a refrigerator shelf in the water-bottle equivalent. 
 15. drinking glass 
 16. A few dozen times more volume, and about 102 in mass 
 17. > 1,000x more expensive 
@@ -260,7 +260,7 @@ ergy
 11. Between 50-75% 
 12. Roughly 50% 
 13. About a million homes 
-14. Approaching 10,000 cubic meters per sec- ond 
+14. Approaching 10,000 cubic meters per second 
 15. You've got a little over an hour 
 16. Less than 1 TW in the end 
 17. Between 1-2 meters 
@@ -315,7 +315,7 @@ Chapter 13
 in the circuit 
 20. Get very close to 1,360 $W/m^2$ 
 21. Sweltering is not preferred 
-22. Between 5-6 kWh/m2/day; between 200- 250 $W/m^2$ 
+22. Between 5-6 kWh/m2/day; between 200250 $W/m^2$ 
 23. Involves interpreting kWh/m2/day as full- 
 sun-hours 
 24. Not far from 200 $W/m^2$ 
@@ -323,7 +323,7 @@ sun-hours
 26. Best at latitude; almost 15% better than 
 flat 
 27. Approaches 6 kWh/m2/day 
-28. Large house (and just the PV for one per- son) 
+28. Large house (and just the PV for one person) 
 29. Square is about as wide as Arizona or California east-to-west 
 30. Cost, surely-but other challenges and mismatches as well 
 31. A little over 200 W 
@@ -404,8 +404,8 @@ Chapter 16
 2. A bit farther than the record 
 3. About as thick as a six-story building is tall 
 6. Ranges about 55-85% 
-7. Geothermal is a bit less than 1% of alterna- tive electricity 
-8. A little shy of the 8 m design height, sensi- bly 
+7. Geothermal is a bit less than 1% of alternative electricity 
+8. A little shy of the 8 m design height, sensibly 
 9. Works out 
 10. Diameter like a small house's footprint 
 11. Comparable to human metabolism; 1% of American demand 
@@ -425,7 +425,7 @@ est
 4. Gaping disparities on opposite poles is no random fluke 
 6. Brilliant future if you can figure out effective 
 ways 
-7. How else will change happen? (but elabo- rate...) 
+7. How else will change happen? (but elaborate...) 
 8. Will contribute 2-3% of the annual total 
 9. A bit over half the global energy budget! 
 10. Two approaches: cynical or hopeful; make either pitch 
@@ -462,6 +462,6 @@ way
 17. Is six-sevenths a coincidence? 
 18. As if one day a week is all dairy/eggs 
 19. Is it directed or emergent? 
-20. Think frivolous or huge resource de- mand 
+20. Think frivolous or huge resource demand 
 21. Do your best: might prevent the worst 
 22. Can you even tell the needle isn't at full? 

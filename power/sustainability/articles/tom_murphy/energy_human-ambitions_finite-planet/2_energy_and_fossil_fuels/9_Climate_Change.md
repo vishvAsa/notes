@@ -664,9 +664,9 @@ year
 The emphasis, then, should be to taper off fossil fuel use so that we wean ourselves of dependency. The transition could be fast or slow. A slower version might target the year 2100 for a full termination of fossil fuels. Figure 9.13 shows an idealization of what this might look like. Notice that the resulting curves are roughly symmetric, in that the downslope is not terribly different from the upslope. Let's pause to reflect on how incredible and fast the rise of fossil fuels has been. A descent as steep as the rise represents change at an astounding pace-which would be pretty disruptive in the best circumstances. In the absence of suitable substitutions, this would be a tremendously difficult journey, but one we may be forced to make by any number of paths.[^38] In any case, the eventual added CO2 would end up at 235 ppm, almost doubling what we have already emitted, and nearly doubling the pre-industrial CO2 level in the atmosphere. The forcing in this case would be 3.3 $W/m^2$ and 
 AT≈ 2.6°C. 
 Reducing fossil fuel use even more quickly, tapering to zero by 2050, results in Figure 9.14. The descent is alarmingly steep, and difficult to imagine happening in practice unless major disruptions 39 force this upon us. In any case, should we manage such a feat, our total CO2 
-Figure 9.12: CO2 rise if instantly substituting coal (worst CO2 intensity) with natural gas (best CO2 intensity) and then maintain- ing current levels for the rest of this century. Our annual contribution would drop from 2.6 ppm/yr to 1.8 ppm/yr based on this substitution, and the total accumulation would be 268 ppm, by century's end (2.2 times the accumulation to date). The associ- ated temperature rise would be 2.9°C. 
+Figure 9.12: CO2 rise if instantly substituting coal (worst CO2 intensity) with natural gas (best CO2 intensity) and then maintaining current levels for the rest of this century. Our annual contribution would drop from 2.6 ppm/yr to 1.8 ppm/yr based on this substitution, and the total accumulation would be 268 ppm, by century's end (2.2 times the accumulation to date). The associated temperature rise would be 2.9°C. 
 
-[^38]: ... driven by policies, markets or- more certainly-resource limits 
+[^38]: ... driven by policies, markets ormore certainly-resource limits 
 Again, follow along for good practice. 
 
 [^39]: 
@@ -713,7 +713,7 @@ oil
 gas 
 1800 1850 1900 1950 2000 2050 2100 
 year 
-Figure 9.13: CO2 rise if immediately revers- ing fossil fuel use in an ambitious decline reaching zero by the year 2100. The accu- mulation would come to 235 ppm, at the end, which is almost twice the current level (1.9 times). The associated temperature rise would be 2.6°C. 
+Figure 9.13: CO2 rise if immediately reversing fossil fuel use in an ambitious decline reaching zero by the year 2100. The accumulation would come to 235 ppm, at the end, which is almost twice the current level (1.9 times). The associated temperature rise would be 2.6°C. 
 100 
 1.50 
 
@@ -751,7 +751,7 @@ gas
 1800 1850 1900 1950 2000 2050 2100 1800 1850 1900 1950 2000 2050 2100 
 year 
 year 
-Figure 9.14: CO2 rise if we mounted a super- aggressive weaning of fossil fuels, com- pleted by the year 2050. In this extreme case, the total CO2 emission would be 169 ppmy, or 37% more than we have produced to date. The associated temperature rise would be 2°C. 
+Figure 9.14: CO2 rise if we mounted a superaggressive weaning of fossil fuels, completed by the year 2050. In this extreme case, the total CO2 emission would be 169 ppmy, or 37% more than we have produced to date. The associated temperature rise would be 2°C. 
 contribution to the atmosphere would be an increase of 169 ppmv, which is 37% more than we have emitted to date. Adding another~ 40%, then, seems like the best we could hope to see, but possibly accompanied by serious hardships in adapting. The radiative forcing associated with this scenario is 2.5 $W/m^2$, corresponding to AT ≈ 2°C. 
 9.4 Climate Change Consequences 
 Turning up the thermostat on the planet results in too many effects to chronicle here. Obviously, the climate is impacted-in terms of storm frequency and intensity, rainfall, snowfall and water supply, season durations, and the ability of plant and animal species to adapt to the changes. The timescale over which we are changing the climate is far faster than evolution can track, except for microbial life and maybe insects, whose shorter generational turnover permits a more dynamic response. Humans are late arrivals to a long evolutionary sequence, which laid a foundation to support our lives in complex interconnected 
@@ -767,7 +767,7 @@ tent
 
 [^41]: For amusement, try substituting the phrase "climate change" with "hotting up." 
 9.4.1 Heating Up 
-Recall that the radiative forcing of 2.2 $W/m^2$ arising from a 50% enhance- ment to the pre-industrial CO2 concentration42 is expected to result in 1.7°C of eventual warming. But measurements indicate only 1.0°C of warming so far. Is our understanding wrong? 
+Recall that the radiative forcing of 2.2 $W/m^2$ arising from a 50% enhancement to the pre-industrial CO2 concentration42 is expected to result in 1.7°C of eventual warming. But measurements indicate only 1.0°C of warming so far. Is our understanding wrong? 
 As we saw in Sec. 6.2 (p. 85), it takes energy to change something's temperature. When the rate of energy input43 is limited, it takes time to accomplish a temperature rise.[^44] 
 Earth is by-and-large in thermodynamic equilibrium. The sun deposits energy onto Earth at a rate of 240 $W/m^2$, when averaged over the surface (Eq. 9.3). Prior to the modern increase in CO2 concentration, we had no additional radiative forcing from CO2 and had an average surface temperature of 288 K (15°C), as in Eq. 9.4. Because it was in equilibrium, we know that the infrared radiation from Earth must have also totaled 240 $W/m^2$ to match the solar input. 
 
@@ -819,7 +819,7 @@ Figure 9.15: Four steps to illustrate (in a grossly simplified way) the process 
 Figure 9.15 sums up the story.[^45] The first panel shows the pre-industrial equilibrium condition, in which 77% of the infrared radiation from the ground was intercepted by the greenhouse gases, while 23% (90 $W/m^2$) 
 
 
-[^45]: Note that in each panel, adding the two top arrows or subtracting the two bot- tom ones both yield the same number- matching the dashed arrow on the right. 
+[^45]: Note that in each panel, adding the two top arrows or subtracting the two bottom ones both yield the same numbermatching the dashed arrow on the right. 
 directly escaped. The 77% absorbed (300 $W/m^2$) is re-radiated equally up and down (150 $W/m^2$ each). The net outgoing radiation matches the 240 $W/m^2$ solar input exactly, signaling equilibrium. 
 47 
 Pretend that we suddenly increased the CO2 concentration to 420 ppm in one instant, which takes us to the second panel of Figure 9.15. The ground has not had time to change temperature yet, but the added GHG absorbs more of the outgoing radiation (78%). Now the numbers are not balanced. Only 238 $W/m^2$ radiates away, leaving a 2 $W/m^2$ net influx of energy. This is what we have been calling the radiative forcing. 
@@ -837,9 +837,9 @@ Using the properties of various constituents in Table 9.6, we can construct Tabl
 [^46]: In reality, the solar absorption can also change as surface reflectivity changes-like when Arctic ice caps melt and expose dark 
 water. 
 
-[^47]: Obviously, it took time, but this ap- proach is illustrative. 
+[^47]: Obviously, it took time, but this approach is illustrative. 
 
-[^48]: as a result of no longer being in tem- perature equilibrium 
+[^48]: as a result of no longer being in temperature equilibrium 
 Try re-creating the upward radiation numbers using oT4 
 
 [^49]: H2O, CH4, for example. 
@@ -884,7 +884,7 @@ density thermal (kg/m3)
 1,000/°C 1,000/°C 4,184/°C 334,000 
 9 Climate Change 
 153 
-Table 9.6: Properties of surface mass com- ponents of Earth. About 90% of the ice vol- ume is in the Antarctic ice sheet, 10% in the Greenland ice sheet, and less than half- percent in glaciers [59, 60]. The volume of air corresponds to what it would be if com- pressed to uniform (sea-level) density. The last column captures specific heat capacity, or heat of fusion for ice. 
+Table 9.6: Properties of surface mass components of Earth. About 90% of the ice volume is in the Antarctic ice sheet, 10% in the Greenland ice sheet, and less than halfpercent in glaciers [59, 60]. The volume of air corresponds to what it would be if compressed to uniform (sea-level) density. The last column captures specific heat capacity, or heat of fusion for ice. 
 takes about 1,000 times more energy than the atmosphere to heat it up 
 by the same amount. 
 Component 
@@ -900,7 +900,7 @@ Ocean
 Ice 
 4.9 
 8.8 
-Table 9.7: Energy requirements to heat up (thermally "charge") Earth components, de- rived from Table 9.6. The energy invest- ment for the first three components depends on the temperature change sought, while melting ice is independent of temperature change. 
+Table 9.7: Energy requirements to heat up (thermally "charge") Earth components, derived from Table 9.6. The energy investment for the first three components depends on the temperature change sought, while melting ice is independent of temperature change. 
 Example 9.4.1 We will use the ocean as an example of how to interpret and use Table 9.7. The two numbers tell us what it takes to heat up the ocean per meter of depth and to heat the entire volume. 
 If we ask how much energy it would take to raise the temperature of the upper 10 m of the ocean by 2.5°C, we multiply 1.5 x $10^{21}$ J/m/°C by 10 m and 2.5°C to get 3.75 x $10^{22}$ J. Heating the entire volume of the ocean by 0.5°C would require 5.9 x $10^{24}$ J/°C times 0.5°C for 3 x $10^{24}$ J of energy. 
 Similarly but without any temperature element-it would take ~ 49 x $10^{21}$ J to melt 10 m of Earth's ice, and would take 8.8 x $10^{24}$ J to 
@@ -930,9 +930,9 @@ Ocean
 ice 
 X 
 From this, we see that land is more easily heated, and ice is most resistant-only shaving about 3 m per year if somehow the entire wrath of radiative imbalance were directed upon it. 
-Likewise, we can explore how long it would take to raise the tempera- ture of entire components or melt all of the ice-for an imbalance of 1 $W/m^2$. 
+Likewise, we can explore how long it would take to raise the temperature of entire components or melt all of the ice-for an imbalance of 1 $W/m^2$. 
 Example 9.4.3 If we could direct all of the annual surplus 1.6 × 1022 J arising from a 1 $W/m^2$ imbalance into one component only,[^58] we could ask: how much will the temperature rise of the entire body be per year, or how much ice would melt? 
-If the radiative forcing imbalance is larger or smaller than 1 $W/m^2$, the effect will be proportionally deeper or shallower. Like- wise, if we ask about a temperature increase larger than 1°C, the depth would be smaller in proportion. 
+If the radiative forcing imbalance is larger or smaller than 1 $W/m^2$, the effect will be proportionally deeper or shallower. Likewise, if we ask about a temperature increase larger than 1°C, the depth would be smaller in proportion. 
 
 [^58]: 
 not how it really works 
@@ -957,11 +957,11 @@ What we learn from the examples is that the ocean and ice are both substantial t
 The way things really work is that the excess 1.6 x 1022 J annually associated with a radiative excess of 1 $W/m^2$ gets distributed into lots of channels at once. If ice only gets 3% of the attention in proportion to its area, only 5 × 1020 J goes into the ice in a year. Dividing by 4.9 × 1021 J/m (from Table 9.7), we find that we might expect 0.1 m of ice to disappear each 
 Since the ocean is roughly 25 times larger than the ice areas, year. the associated sea level rise from redistributing the ice melt across the entire ocean surface would be about 25 times less, or about 4 mm/yr.[^61] 
 Meanwhile, the constant, swirling contact between water and air, and between air and land, keeps all three in sync with each other: one will not race off to get hot without the others. And in this case, the ocean-with its giant thermal mass and extensive air-water interface is the limiting 
-As before, this pretends that the entire ra- diative imbalance is directed upon a single component, in turn. If the radiative imbal- ance is larger or smaller than 1 $W/m^2$, the effect will be proportionally more or less 
+As before, this pretends that the entire radiative imbalance is directed upon a single component, in turn. If the radiative imbalance is larger or smaller than 1 $W/m^2$, the effect will be proportionally more or less 
 severe. 
 
 [^59]:...334 kJ vs. ~4 kJ to heat water by 1°C 
-Tip: don't treat sections like this as the text- book "telling" you stuff. It is far more pro- ductive to follow the logic, reasoning, and numbers yourself as an active participant in the story. Otherwise, OMG is it boring! The value is empowerment: bestowing tools for transparent understanding of fundamental processes. 
+Tip: don't treat sections like this as the textbook "telling" you stuff. It is far more productive to follow the logic, reasoning, and numbers yourself as an active participant in the story. Otherwise, OMG is it boring! The value is empowerment: bestowing tools for transparent understanding of fundamental processes. 
 
 [^60]: Ice covers 3% of the globe, while the ocean covers 71%. 
 
@@ -972,13 +972,13 @@ factor on how fast things can heat up. If we confine ocean heating to the top 30
 Although this section may seem to be long, convoluted, and perhaps even boring, it accomplished a number of things for us: 
 1. it showed how a change in GHG absorption fraction leads to a 
 radiative forcing imbalance; 
-2. it indicated how a radiative imbalance changes the surface tem- perature until the earth re-establishes a new equilibrium (balance) at a higher temperature, including feedback effects; 
+2. it indicated how a radiative imbalance changes the surface temperature until the earth re-establishes a new equilibrium (balance) at a higher temperature, including feedback effects; 
 3. it assessed energy requirements for heating up relevant masses of 
 material and melting ice via straightforward physics; 
 4. it showed that the two most important thermal masses on the 
 planet are the ocean (first) and the ice sheets (second); 
 5. it established approximate timescales over which we might expect temperature to climb, and why the ocean in particular is important in slowing down the consequences. 
-An additional insight is that even if we stopped CO2 emissions today, Earth's temperature will continue to climb as the oceans slowly ad- just to the new radiative reality imposed by 420 ppm, of CO2 in the atmosphere. 
+An additional insight is that even if we stopped CO2 emissions today, Earth's temperature will continue to climb as the oceans slowly adjust to the new radiative reality imposed by 420 ppm, of CO2 in the atmosphere. 
 9 Climate Change 
 155 
 See if you can replicate this result. 
@@ -989,7 +989,7 @@ The previous section covered the energetics of melting ice sheets. The resulting
 Contributors to global sea sea level rise (1993-2018) 
 10 
 
-[^63]: Ice floating on the ocean is already dis- placing water, so its melting does not impact sea level. 
+[^63]: Ice floating on the ocean is already displacing water, so its melting does not impact sea level. 
 8 
 6 
 global sea level 
@@ -1009,7 +1009,7 @@ year
 2015 
 NOAA Climate.gov Adapted from SOTC 2018 
 Melting ice contributes about 2.4 mm/yr of rise, while thermal expansion accounts for about 1.2 mm/yr for a total rate of 3.6 mm/yr [^61]. Since 
-Figure 9.16: Satellite measurements of sea level since 1993, showing a rise of 3.6 mm per year. Melting ice is the largest contribu- tion, although thermal expansion plays a role as well [^61]. From NOAA. 
+Figure 9.16: Satellite measurements of sea level since 1993, showing a rise of 3.6 mm per year. Melting ice is the largest contribution, although thermal expansion plays a role as well [^61]. From NOAA. 
 [^61]: Lindsey (2020), Climate Change: Global Sea Level 
 
 9 Climate Change 
@@ -1035,29 +1035,29 @@ The preceding paragraph and Table 9.6 have enough information (absolute and rela
 [^66]: Divide volume by area. 
 [^60]: Davies (2020), Calculating glacier ice volumes and sea level equivalents 
 
-[^67]: One goal of this book is to empower students to independently check more au- thoritative sources-much like 2+2 = 4 can be personally verified and is not a matter of faith. 
+[^67]: One goal of this book is to empower students to independently check more authoritative sources-much like 2+2 = 4 can be personally verified and is not a matter of faith. 
 
 Coastal cities are already struggling to deal with the present ~0.25 m rise. This may not sound like much, and on normal days does not cause problems. But the low pressure associated with storms results in a local swell in water level,[^68] so that a storm plus high tide plus heavy waves adds to the climate-change rise to destroy human structures that otherwise may have escaped harm. Even if CO2 emissions ceased today, the warming that has already happened will continue melting ice. Temperatures will also continue to climb as increased forcing from the already-present CO2 continues to heat the ocean as we creep toward equilibrium a slow process. So sea-level rise may turn out to be the gift that keeps on giving for centuries more. 
 Sea level in the distant past-tens of millions of years ago—has been as high as 200 m over where it is now. And 20,000 years ago, during the last glacial maximum, sea level was 120 m lower than it is today [^62]. So Earth is no stranger to large fluctuations in sea level. By contrast, many coastal cities do not know how to handle even a one meter rise-which is within the projections for 2100 in a number of models. 
 9 Climate Change 
 157 
 
-[^68]: High pressure elsewhere squeezes wa- ter into the low pressure areas. 
+[^68]: High pressure elsewhere squeezes water into the low pressure areas. 
 [^62]: Lambeck et al. (2014), "Sea level and global ice volumes from the Last Glacial Maximum to the Holocene" 
 9.5 What Can Be Done? 
 So far, we have simply described the climate change phenomenon as an unambiguous consequence of our fossil fuel habit, but have not addressed what we might do to combat it. In this section, the author will not attempt to conceal his personal take on the matter, and will keep it short. 
 First, clever geo-engineering ideas ring of hubris, and seem like solving a problem of hurtling toward the ground by digging a hole ahead of the fall fast enough to keep up. Our whole problem is that we have convinced ourselves that we can outsmart nature.[^69] You would stop going to a doctor who tried to treat your illness by applying superficial remedies to a resulting skin condition without addressing the underlying cause. 
-In this case, the underlying cause is very simple: unchecked70 human ambitions. The combination of fossil fuels, an incessant drive for growth, destruction of forests and habitat,[^71] population pressures, and an in- dustrial approach to agriculture all play a role. This is why it has been hard to combat: it's us. It pervades all the things we do. We are our own adversaries. How do we fight ourselves? To do so requires honesty and even a collective willingness to sacrifice and prioritize planetary health over narrow short-term human interests. What is more important: that individuals attempt to fulfill all their dreams now, or that civilization endures for the long haul? Are we willing to dial back our own desires so that billions of future humans who we will never meet and countless other species on the planet can also enjoy life? We have never had to make such a difficult choice as a global whole, so it is hard to say if Homo sapiens can pull it off. 
+In this case, the underlying cause is very simple: unchecked70 human ambitions. The combination of fossil fuels, an incessant drive for growth, destruction of forests and habitat,[^71] population pressures, and an industrial approach to agriculture all play a role. This is why it has been hard to combat: it's us. It pervades all the things we do. We are our own adversaries. How do we fight ourselves? To do so requires honesty and even a collective willingness to sacrifice and prioritize planetary health over narrow short-term human interests. What is more important: that individuals attempt to fulfill all their dreams now, or that civilization endures for the long haul? Are we willing to dial back our own desires so that billions of future humans who we will never meet and countless other species on the planet can also enjoy life? We have never had to make such a difficult choice as a global whole, so it is hard to say if Homo sapiens can pull it off. 
 
 
 [^69]: See Sec. D.6 (p. 408) in Appendix D for an extended discussion of this notion. 
 
 [^70]: Nature just called and left this cryptic message: "Check." 
 
-[^71]: ... eliminating carbon sinks and com- promising nature's ability to adapt 
+[^71]: ... eliminating carbon sinks and compromising nature's ability to adapt 
 9 Climate Change 
 158 
-The last chapters in this book, beginning with Chapter 18, deal with human factors that contribute to our prospects, ending at Chapter 20 discussing mitigation strategies at the individual level. It's not geo- engineering, but behavioral adaptation leading to reduction can have a huge impact, if broadly adopted. 
+The last chapters in this book, beginning with Chapter 18, deal with human factors that contribute to our prospects, ending at Chapter 20 discussing mitigation strategies at the individual level. It's not geoengineering, but behavioral adaptation leading to reduction can have a huge impact, if broadly adopted. 
 9.6 Upshot: Climate Change is Serious 
 Despite the ease with which we can demonstrate that the measured CO2 is from fossil fuels, and the straightforward physics governing the equilibrium temperature in the face of greenhouse gases, it is astounding that we are not fully embracing reality. But perhaps it should not be surprising. Climate change is a clear-and-present affront to some economic and political ideologies that wish we would let markets set our path, with no consequence. But operating in denial and insisting that we keep to the way things worked in the past is not our smartest play. Climate change is a stark indication that we can't just do whatever makes us the most money. Alternatives to fossil fuels are expensive and less convenient. Climate change is bad for business, and also threatens capitalism by imposing limits on our ambitions. It is little wonder that the U.S. has been among the most resistant to accepting climate change realities, being the most proud capitalist country, boasting an enormous per-capita energy demand, and having contributed the most to global CO2 emissions throughout history (Figure 9.5). 
 73 
@@ -1066,7 +1066,7 @@ Resource74 disruptions, however, can send markets into free-fall and stimulate g
 
 [^72]: Is it apocalyptic, or just very painful? 
 
-[^73]: ... abandoning some coastal areas, mi- grating away from unsurvivable climate regions, reducing population to deal with decline of agricultural resources, adapting to new ecosystems robbed of some species 
+[^73]: ... abandoning some coastal areas, migrating away from unsurvivable climate regions, reducing population to deal with decline of agricultural resources, adapting to new ecosystems robbed of some species 
 
 [^74]: 
 stances 
@@ -1077,7 +1077,7 @@ stances
 9 Climate Change 
 159 
 2. How many kilograms of CO2 are produced from consuming a 40 L tank of gasoline? Compare the result to typical human mass. Gasoline is about 0.75 kg/L. 
-3. Typical household electricity use in the U.S. is about 30 kilowatt- hours (kWh) per day. If the electricity is produced by a natural gas plant operating at 40% efficiency, each household requires 75 kWh of energy from natural gas each day. Converting this to Joules, and using the intensity of 49 g/MJ from Table 9.1, how much CO2 is produced daily to supply a house with electricity from a natural gas source? 
+3. Typical household electricity use in the U.S. is about 30 kilowatthours (kWh) per day. If the electricity is produced by a natural gas plant operating at 40% efficiency, each household requires 75 kWh of energy from natural gas each day. Converting this to Joules, and using the intensity of 49 g/MJ from Table 9.1, how much CO2 is produced daily to supply a house with electricity from a natural gas source? 
 4. Americans use energy at an average rate of 10,000 W. Convert this to Joules in a day, then MJ, then use a representative number75 in the right-hand column of Table 9.1 to estimate an approximate CO2 emission per American per day, in kg. Compare this to the mass of a typical person. 
 5. Getting more specific, Americans, on average, get about 320 MJ per person from oil each day, 265 MJ from gas, and 110 MJ from coal. Based on the CO2 mass per energy column in Table 9.1, how much mass, in kg, of CO2 does an American produce per day from each of these sources, and in total? Compare this daily emission to the mass of a person. 
 6. If carbon dioxide emission is a chief concern, switching from a coal-fired electricity plant to natural gas input is still a use of fossil fuels, but natural gas produces less CO2 per energy unit than coal (Table 9.1). By what factor would CO2 emissions be reduced if replacing all energy76 we now get from coal with energy from natural gas? 
@@ -1104,7 +1104,7 @@ Is this warmer or cooler than the actual average surface temperature (given GHG 
 14. Based on Figures 9.7 and 9.8, is the atmosphere transparent or opaque at a wavelength of 1.0 um? What about at 6 μm? And how would you characterize the situation at 2 um? 
 15. If enough ice on Earth melted and resulted in 25% reflectance instead of 29.3%, what would the equilibrium temperature become, still applying the nominal 33 K GHG contribution? How much temperature rise is this compared to the equilibrium temperature at 29.3% reflection? 
 16. Table 9.4 has H2O as the leading greenhouse gas, and all of them adding to 33 °C of warming effect on Earth. Should it be our goal to reduce all of these effects to the lowest numbers possible?82 Why or why not? How would you characterize the greenhouse effect and why it is of concern to us? 
-17. Treating Figure 9.9 somewhat literally, in which one out of every four infrared photons escapes without being absorbed by a green- house gas molecule, what would the effective upward radiation be if 400 $W/m^2$ left the ground, and re-radiation of the absorbed fraction was split equally between upward radiation and radiation returning to the ground?83 
+17. Treating Figure 9.9 somewhat literally, in which one out of every four infrared photons escapes without being absorbed by a greenhouse gas molecule, what would the effective upward radiation be if 400 $W/m^2$ left the ground, and re-radiation of the absorbed fraction was split equally between upward radiation and radiation returning to the ground?83 
 18. If the "bad" news that we are about halfway through the fossil fuels is wrong, and we are only one-quarter of the way through, and we end up using all of it, what would the ultimate CO2 concentration be in ppm, extrapolating the increase so far? How many degrees would this turn into based on our understanding of radiative forcing and the climate sensitivity parameter? 
 19. Using Eq. 9.5 and CO2,orig = 280 ppm, together with a climate sensitivity parameter of 0.8°C per $W/m^2$, how much would you predict Earth's temperature to rise for CO2 levels of 330, 380, 430, 480, 530, and 580 ppm, 284 The inputs increase by steps of 50 
 
@@ -1132,7 +1132,7 @@ d) snow covers less of the land each winter as temperatures rise
 21. Coal is, and always has been, the worst offender of the fossil fuels in terms of CO2 emission. Based on the scenarios summarized in Table 9.5, what is the percentage reduction in final temperature rise (AT) based on emissions out to 2100 (in the case that we hold steady at today's fossil fuel levels) if we substitute natural gas for all uses of coal vs. if we keep things the same? 
 22. Which of the scenarios in Section 9.3 do you deem to be most realistic, and why? Given this, how much more eventual warming is likely in store compared to the 1°C to date? 
 23. Verify for each panel in Figure 9.15 that the sum of the upper two arrows in the middle of each panel and the difference of the lower two arrows in the middle match the effective (dashed) arrow at the right (a total of 8 comparisons). 
-24. Construct your own panel in the manner of Figure 9.15 correspond- ing to the third case in Section 9.3 in which we curtail fossil fuel use by 2100, resulting in a final equilibrium AT of 2.6°C (thus 290.6 K ground temperature). Characterize the final equilibrium state, when net upward radiation equals solar input. After balancing the books, figure out what the GHG fractional absorption must be (the number in the "cloud" in Figure 9.15). 
+24. Construct your own panel in the manner of Figure 9.15 corresponding to the third case in Section 9.3 in which we curtail fossil fuel use by 2100, resulting in a final equilibrium AT of 2.6°C (thus 290.6 K ground temperature). Characterize the final equilibrium state, when net upward radiation equals solar input. After balancing the books, figure out what the GHG fractional absorption must be (the number in the "cloud" in Figure 9.15). 
 25. On a sunny day after a big snowfall, the (low winter) sun might put 500 $W/m^2$ onto the ground. Snow reflects most of it, but let's say that it absorbs 5% of the incoming energy. How much snow (ice) will melt in an hour from the absorbed energy if a cubic meter of snow has a mass of 100 kg? 
 26. If the ocean absorbs an additional 3 $W/m^2$ of forcing,8% how long would it take to heat the ~4 km deep column of water directly under a particular square meter (thus 4 x 106 kg) by 1°C?87 
 27. Based on Table 9.7, if we could magically turn off infrared radiation to space, how long would it take for the sun's 240 $W/m^2$ average to heat the entire ocean by 1°C? It is fine to assume that the ocean covers the whole globe, for this limiting-case calculation. 
@@ -1147,7 +1147,7 @@ Hint: It is easiest just to consider a single square meter of surface and figure
 
 [^86]: 3 J deposited every second in each square meter 
 
-[^87]: Hint: use kcal (4,184 J) and solve for the temperature increase in one year, then figure out how many years for that to accu- mulate to 1oC. 
+[^87]: Hint: use kcal (4,184 J) and solve for the temperature increase in one year, then figure out how many years for that to accumulate to 1oC. 
 Hint: multiply by area of Earth and seconds in a year to get Joules of input. 
 
 forcing is 3 x 1022 J per year. How much would the temperature of the top 10 m of ocean rise in one year at this level? 
@@ -1160,7 +1160,7 @@ The sum of all these is how long it would take to get all of these tasks done, e
 30. On a planet 60% covered in ocean, and 5% covered in a 3 km thick ice sheet on top of land, how much would the sea level rise if all the ice melted? 
 31. On a planet two-thirds covered in ocean, and 1% covered by an ice sheet melting at a rate of 1 meter per year, how fast would sea level be rising? 
 32. How might you express the tradeoffs between the available fossil fuel resource and climate change? In other words, if it turns out that we don't have nearly as much fossil fuel as we think, what does this mean for climate change vs. our economic/geopolitical stability and viability? On the other hand, if we have centuries of fossil fuels left, what does that mean? Which scenario is least disruptive? 
-33. If it were certain that the only way to provide a comfortable exis- tence to future generations involved substantial cutbacks toward a lifestyle having far fewer energy and material comforts today, do you think humanity would voluntarily do so? Can we leave treats on the shelf, within easy reach? If so, is it only uncertainty that prevents us? If not, what do you see as the barriers? 
+33. If it were certain that the only way to provide a comfortable existence to future generations involved substantial cutbacks toward a lifestyle having far fewer energy and material comforts today, do you think humanity would voluntarily do so? Can we leave treats on the shelf, within easy reach? If so, is it only uncertainty that prevents us? If not, what do you see as the barriers? 
 9 Climate Change 
 162 
 In practice, this is not how things will go. The ocean will heat up more near the surface, allowing air to get hotter and ice to melt faster while the deep ocean stubbornly resists warming for centuries. 

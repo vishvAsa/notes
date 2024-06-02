@@ -353,7 +353,7 @@ is the amount of energy it takes to raise an object's temperature by 1°C. The s
 is 4,184 J/kg/°C, intimately tied to the definition of the kilocalorie. 74, 85, 99, 147, 153, 168, 194, 271, 277, 372, 401
 
 ## heat engine
-is a device that converts thermal energy into another form, usually mechanical motion. Auto- mobile engines are a common example, as are power plants that create steam from a thermal source that itself drives a turbine and generator. 89, 92, 165, 239, 267, 276, 277, 286, 294, 298, 348, 396, 433, 436.
+is a device that converts thermal energy into another form, usually mechanical motion. Automobile engines are a common example, as are power plants that create steam from a thermal source that itself drives a turbine and generator. 89, 92, 165, 239, 267, 276, 277, 286, 294, 298, 348, 396, 433, 436.
 
 ## heat loss rate
 as used in this book is the power per AT (in °C) required to maintain a temperature differential. Units are W/°C, and typical houses might be a few hundred W/°C. 87, 99, 100, 334 
@@ -380,7 +380,7 @@ refers to oil that is very viscous-closer to tar than to gasoline. Heavy oil is 
 is a term used to describe plots that suddenly shoot up after a very long time of relative inaction. Plots of human population, atmospheric CO2, energy use, all tend to show this characteristic which resembles an exponential curve. 31, 115
 
 ## hole
-in the context of semiconductors is the absence of an electron-or an electron vacancy. When another electron fills the hole, it leaves behind another hole, and it is as if the hole moved- effectively like a positive charge able to roam through the crystal. 202, 204, 426, 435
+in the context of semiconductors is the absence of an electron-or an electron vacancy. When another electron fills the hole, it leaves behind another hole, and it is as if the hole movedeffectively like a positive charge able to roam through the crystal. 202, 204, 426, 435
 
 ## HSPF
 heating seasonal performance factor. 97-99, 430
@@ -670,7 +670,7 @@ is a neutron whose kinetic energy (speed) is no greater than it would naturally 
 is the name of a donut-shaped chamber in which high-temperature plasma can be confined, and potentially used to generate fusion. 267
 
 ## transmutation
-describes the transformation of a nucleus into a different one, usually via neutron absorption- possibly followed by radioactive decay. 259, 268
+describes the transformation of a nucleus into a different one, usually via neutron absorptionpossibly followed by radioactive decay. 259, 268
 
 ## tritium
 is an isotope of hydrogen, in which the nucleus (called a triton) contains one proton and two neutrons. 265-268, 299, 438

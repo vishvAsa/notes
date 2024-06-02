@@ -2,7 +2,7 @@
 title = "13 Solar Energy"
 
 +++
-Now we come to the main attraction. As we saw in Chapter 10, all of the strictly renewable energy options are ultimately derived from the sun. The two resources of the last two chapters- hydroelectricity and wind- represent tiny crumbs of the overall solar input to the planet.
+Now we come to the main attraction. As we saw in Chapter 10, all of the strictly renewable energy options are ultimately derived from the sun. The two resources of the last two chaptershydroelectricity and windrepresent tiny crumbs of the overall solar input to the planet.
 
 Practically speaking, it is difficult to concoct ways to harness more than a few terawatts of power from hydroelectric or wind-based resources. Similar limitations apply to biologically-derived energy, geothermal, tidal, ocean currents, wave energy, etc. This may be worrisome considering that human society currently demands 18 TW. Meanwhile, the sun delivers 83,000 TW to the earth's surface (Fig. 10.1; p. 167, Table 10.2; p. 168). That's almost 5,000 times more than the demand. By the numbers, then, the sun seems to offer all we might ever need. In fact, the quantitative imbalance is so extreme as to make one wonder why we would ever mess around doing anything else.
 
@@ -16,7 +16,7 @@ Sec. 5.10 (p.79) introduced the basics of the energy of light. This section acts
 Photovoltaic cells, showing grid contacts and crystal domains. Photo Credit: Tom Murphy
 
 
-Light - a form of electromagnetic radiation- is composed of photons— individual particles of energy each having a characteristic wavelength- what we might call color. Photons are such tiny quanta of energy that familiar environments are awash in unfathomably large numbers of them. A typical light bulb, for instance, emits quintillions[^1] of photons every second.
+Light - a form of electromagnetic radiationis composed of photons— individual particles of energy each having a characteristic wavelengthwhat we might call color. Photons are such tiny quanta of energy that familiar environments are awash in unfathomably large numbers of them. A typical light bulb, for instance, emits quintillions[^1] of photons every second.
 
 
 [^1]: A quintillion is $10^18$.
@@ -189,7 +189,7 @@ Figure 13.4 illustrates the basic scheme. The underlying idea is that adjoining 
 [^17]: ... either during or after the semiconductor crystal growth; a process called "doping"
 
 
-Putting p- doped and n-doped materials together creates a junction[^18] exhibiting a contact potential. The result is that "donated" electrons right at the junction in the n-doped material decide to relocate across the junction to vacancies in the p-doped material, creating a wall of negative charge on the p-side of the junction and leaving behind "holes" (missing electrons) effectively creating positive charges[^19] on the n-side of the junction. 
+Putting pdoped and n-doped materials together creates a junction[^18] exhibiting a contact potential. The result is that "donated" electrons right at the junction in the n-doped material decide to relocate across the junction to vacancies in the p-doped material, creating a wall of negative charge on the p-side of the junction and leaving behind "holes" (missing electrons) effectively creating positive charges[^19] on the n-side of the junction. 
 
 
 [^18]: So-called p-n junctions form the basis of diodes and transistors.
@@ -211,7 +211,7 @@ The basic scheme is that a photon knocks an electron away from an atom in the PV
 
 [^22]: Current is just flow of charge, and in this case is just movement of electrons through the external circuit.
 
-A photon leaves the hot solar surface aimed right at a PV panel on Earth. The photon can be any "color," distributed according to the Planck spectrum[^23] in Figure 13.1. The most probable wavelength for a 5,800 K blackbody- according to Eq. 13.5- is ~0.5 μm, but it could reasonably be anywhere from 0.2-3 μm. The atmosphere will knock out (absorb or scatter) most of the ultraviolet light before it reaches the panel, and some of the infrared light is absorbed in the atmosphere as well. But almost 75% of the energy[^24] makes it to the panel. What happens next depends on the wavelength.
+A photon leaves the hot solar surface aimed right at a PV panel on Earth. The photon can be any "color," distributed according to the Planck spectrum[^23] in Figure 13.1. The most probable wavelength for a 5,800 K blackbodyaccording to Eq. 13.5is ~0.5 μm, but it could reasonably be anywhere from 0.2-3 μm. The atmosphere will knock out (absorb or scatter) most of the ultraviolet light before it reaches the panel, and some of the infrared light is absorbed in the atmosphere as well. But almost 75% of the energy[^24] makes it to the panel. What happens next depends on the wavelength.
 
 [^23]: The spectrum can be thought of as a probability distribution for photon wavelength, if picking out one photon.
 
@@ -491,7 +491,7 @@ Naturally, solar has some downsides.
 First, the cost.  
 Panel cost has dropped to something like $0.50 or less per peak-Watt. To get 10 TW of delivered (average) power at typical locations getting 20% capacity factor[^64] would require about 50 TWp (Example 13.4.1 defines Wp), costing 25 trillion dollars.  
 
-[^64]: 20% of 24 hours corresponds to 4.8 full- sun-equivalent hours per day.
+[^64]: 20% of 24 hours corresponds to 4.8 fullsun-equivalent hours per day.
 
 The cost of other necessary components and installation double the cost for utility-scale projects [^89], bringing the cost to $50 trillion.[^65]  
 
@@ -738,7 +738,7 @@ Full sun delivers something like 1,000 $W/m^2$ at the earth's surface. Now imagi
 
 {{< figure src="../images/passive-solar-heating-with-overhang.png" title="" class="thumbnail">}}
 
-Figure 13.21: A well-designed house has thick walls, thick insulation, and double- paned windows. Even better, it can have south-facing windows that admit sunlight in the winter but not in the summer (the overhang shields the window). A large, dark thermal mass-stone or brick works well- can absorb energy and continue to release heat into the evening.
+Figure 13.21: A well-designed house has thick walls, thick insulation, and doublepaned windows. Even better, it can have south-facing windows that admit sunlight in the winter but not in the summer (the overhang shields the window). A large, dark thermal mass-stone or brick works wellcan absorb energy and continue to release heat into the evening.
 
 
 [[219]]
@@ -823,10 +823,10 @@ Pros and cons are listed separately for PV and ST in Section 13.7.1 and Section 
 
 [[222]]
 
-Holding solar back is its intermittency[^95] and high up-front cost. Intermittency can be solved by battery storage, but this can double the cost and require maintenance and periodic battery replacement. Additionally- as for many of our renewable options- all of our society's demands [^96] are not well met by electricity generation.
+Holding solar back is its intermittency[^95] and high up-front cost. Intermittency can be solved by battery storage, but this can double the cost and require maintenance and periodic battery replacement. Additionallyas for many of our renewable optionsall of our society's demands [^96] are not well met by electricity generation.
 
 
-[^95]: ... low capacity factor that is weather- dependent
+[^95]: ... low capacity factor that is weatherdependent
 
 [^96]: ... like transportation and industrial processing
 
@@ -850,12 +850,12 @@ Solar thermal energy is another way to run a traditional steam-based power plant
 [^102]: even if the efficiency is modest or low
 
 ## 13.10 Problems
-1. If we had two monochromatic (single-wavelength) light sources- -a
+1. If we had two monochromatic (single-wavelength) light sources-a
 green one at λ = 0.5 μm
-and a near-infrared one at A 1.0 μm- each emitting photons at an energy rate of 1 W,103 how does the number of photons emerging per second from each source compare? Is it the same number for each because both are 1 W sources, or is it a different number-and by what factor, if so?
+and a near-infrared one at A 1.0 μmeach emitting photons at an energy rate of 1 W,103 how does the number of photons emerging per second from each source compare? Is it the same number for each because both are 1 W sources, or is it a different number-and by what factor, if so?
 2. Overhead sunlight arrives on the surface of the earth at an intensity of about 1,000 $W/m^2$. How many photons per second strike a solar panel whose area is 1.6 square meters, if the typical wavelength is λ = 0.5 μm?
 3. Using the setup in Problem 2, how many photons enter your pupil every second if you look directly at the sun? When doing so, your pupil restricts to a diameter of about 2 mm.
-4. The dimmest stars we can see with our eyes are thirteen orders-of- magnitude104 dimmer than the intensity of the sun. Building off of Problem 3, how many photons enter your eye per second at this edge of detectability?
+4. The dimmest stars we can see with our eyes are thirteen orders-ofmagnitude104 dimmer than the intensity of the sun. Building off of Problem 3, how many photons enter your eye per second at this edge of detectability?
 103: Hint: recall that 1 W is 1 J/s.
 104: $10^{-13}$ times
 

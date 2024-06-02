@@ -183,17 +183,17 @@ Cf
 Es 
 Fm Md No 
 Og 
-Figure B.1 presents a stripped-down version of the periodic table. Addi- tional exploration of more fully-featured versions is encouraged.[^2] 
+Figure B.1 presents a stripped-down version of the periodic table. Additional exploration of more fully-featured versions is encouraged.[^2] 
 It is natural to imagine that a first step in dealing with piles of atoms and/or molecules is being able to count them. But since individual atoms are fantastically small, the numbers can be overwhelmingly large. This is where the mole3 comes in. A mole is just a number, and that number is called Avogadro's number, having a value of NA = 6.022 × 1023, or 602,214,076,000,000,000,000,000, if written out.[^4] 
 The way the mole is defined, essentially, is that 12.000000 grams of neutral carbon atoms (of the isotope having 6 protons and 6 neutrons in its nucleus) will constitute one mole of atoms. In this way, the masses of 
-Figure B.1: Periodic Table of the Elements. This version is too small to permit names, so that only symbols are given. The more familiar elements are highlighted. Numbers represent the number of protons in the nu- cleus of the associated atoms. 
+Figure B.1: Periodic Table of the Elements. This version is too small to permit names, so that only symbols are given. The more familiar elements are highlighted. Numbers represent the number of protons in the nucleus of the associated atoms. 
 
-[^2]: Perhaps at least identifying the high- lighted elements would be worthwhile. 
+[^2]: Perhaps at least identifying the highlighted elements would be worthwhile. 
 
 [^3]: 
 the word molecule begins with mole. 
 
-[^4]: Unfortunately, it can be hard to remem- ber if it is supposed to be 6.022 x $10^{23}$ or 6.023 x 1022. For this reason, may be wise to forget about the 22 and just remember 6.0×1023, or even 6.023 × $10^{23}$ as something that is very slightly wrong but much better than being 10 times off! 
+[^4]: Unfortunately, it can be hard to remember if it is supposed to be 6.022 x $10^{23}$ or 6.023 x 1022. For this reason, may be wise to forget about the 22 and just remember 6.0×1023, or even 6.023 × $10^{23}$ as something that is very slightly wrong but much better than being 10 times off! 
 B.2 Stoichiometry 
 376 
 other elements-being comprised of an integer number of protons and neutrons5-will tend to be close to an integer number of grams. For instance, a mole of hydrogen atoms is very close to 1.00 grams. A mole of helium is very nearly 4.00 grams, nitrogen 14, oxygen 16, etc. 
@@ -209,10 +209,10 @@ g, or 1.66053907 × $10^{-27}$ kg. This is the number you will find if looking u
 
 [^7]: A nucleon is either a proton or a neutron: the two types of particles that occupy the nucleus of an atom and are responsible for almost all of the atom's mass. 
 
-[^8]: ... if such a thing were to be found/cre- ated 
+[^8]: ... if such a thing were to be found/created 
 B.2 Stoichiometry 
 Chemistry starts by counting atoms and molecules. Since molecules are comprised of integer numbers of atoms of specific types, the counting fun does not stop there. When atoms and molecules react chemically, the atoms themselves are never created or destroyed-only rearranged. This means that an accurate count of how many of each atom type are present at the start, a proper count at the end should yield exactly the same results. 
-Before we get into balancing chemical reactions, we need to know some- thing about the scheme for labeling chemical compounds. A compound is an arrangement of atoms (representing pure elements) into a molecule. For instance, water is made of three atoms drawn from two elements: hydrogen and oxygen. Two atoms of hydrogen are bonded to an atom of oxygen to make a molecule of water. We denote this as H2O. 
+Before we get into balancing chemical reactions, we need to know something about the scheme for labeling chemical compounds. A compound is an arrangement of atoms (representing pure elements) into a molecule. For instance, water is made of three atoms drawn from two elements: hydrogen and oxygen. Two atoms of hydrogen are bonded to an atom of oxygen to make a molecule of water. We denote this as H2O. 
 Examples of a few familiar atoms and molecules are presented in Figure B.2. Each one is named at the top. Below each one appears the bond structure in the case of molecules and the chemical "formula" in all cases. Notice that hydrogen atoms always have a single bond (single 
 
 hydrogen 
@@ -242,7 +242,7 @@ H H
 H-C-C-O-H 
 HH 
 C2H2O or C2H2OH 
-Figure B.2: Representing atoms as colored spheres for schematic purposes, we can de- pict the general appearance of molecules as bonded collections of atoms. Here, we have three elements-hydrogen, oxygen, and carbon-combined into familiar molecules. Oxygen in the air we breathe is self-bonded into a "diatomic" molecule. Two represen- tations appear below each molecule: a dia- gram indicating bonds (including double- bonds in some cases), and the chemical formula. 
+Figure B.2: Representing atoms as colored spheres for schematic purposes, we can depict the general appearance of molecules as bonded collections of atoms. Here, we have three elements-hydrogen, oxygen, and carbon-combined into familiar molecules. Oxygen in the air we breathe is self-bonded into a "diatomic" molecule. Two representations appear below each molecule: a diagram indicating bonds (including doublebonds in some cases), and the chemical formula. 
 CO2 
 CH1 
 electron to share), oxygen has two (wants to "borrow" two electrons to feel good about itself), and carbon tends to have four (either donating four in the case of CO2, or accepting four when bonding to hydrogen). The chemical formula for each uses elemental symbols to denote the participants and subscripts to count how many are present.? 
@@ -250,16 +250,16 @@ Now we come to a bedrock practice in chemistry called stoichiometry— which boi
 Example B.2.1 Let's figure out a tougher formula, pertaining to the combustion of ethanol (depicted in Figure B.2). In this situation, we combine a C2H6O molecule with some number of oxygen molecules (O2), and the reaction products will be CO2 and H2O (carbon dioxide and water). Our job is to figure out how many molecules are needed to balance the reaction: 
 C2H6O+?O2 →?CO2 + ?H2O 
 
-[^9]: Two variants are shown for ethanol. The first is a no-nonsense census of the atoms, while the second pulls one of the H symbols to the end to call attention to the OH (hy- droxyl) tagged onto the end of the molecule. In either case, the formula specifies 2 car- bons, 6 hydrogens, and 1 oxygen, in total. 
+[^9]: Two variants are shown for ethanol. The first is a no-nonsense census of the atoms, while the second pulls one of the H symbols to the end to call attention to the OH (hydroxyl) tagged onto the end of the molecule. In either case, the formula specifies 2 carbons, 6 hydrogens, and 1 oxygen, in total. 
 
-[^10]: For example, 2H2O has a total of 4 hy- drogen atoms and 2 oxygens. 
+[^10]: For example, 2H2O has a total of 4 hydrogen atoms and 2 oxygens. 
 
 + 
 C+02 → CO2 
 + 
 + 
 B.2 Stoichiometry 378 
-Figure B.3: Two example fossil fuel reac- tions (combustion) are shown here. The first is coal and the second is natural gas (methane). Both cases simply rearrange the input atoms without creating or destroying any, so that the count is the same on both sides of the arrow (which denotes the direc- tion of the reaction). In other words, four purple hydrogens on the left in the case of methane must all appear on the right some- where. The formula version also just counts instances of each atom/molecule, in which pre-factors (coefficients) indicate how many molecules are present. 
+Figure B.3: Two example fossil fuel reactions (combustion) are shown here. The first is coal and the second is natural gas (methane). Both cases simply rearrange the input atoms without creating or destroying any, so that the count is the same on both sides of the arrow (which denotes the direction of the reaction). In other words, four purple hydrogens on the left in the case of methane must all appear on the right somewhere. The formula version also just counts instances of each atom/molecule, in which pre-factors (coefficients) indicate how many molecules are present. 
 CH12+ 
 4 
 +202 → CO2+ 2H2O 
@@ -270,7 +270,7 @@ The only thing left to figure out is how many oxygens are on the left. To balanc
 
 [^11]: Equations are just statements of truth that we can create on our own. They are just a way to express what we know about a problem. 
 
-[^12]: What if the starting point had an odd number of hydrogens on the left? We'd need to double the number of hydrogen- containing molecules on the left to produce an even number and start over. 
+[^12]: What if the starting point had an odd number of hydrogens on the left? We'd need to double the number of hydrogencontaining molecules on the left to produce an even number and start over. 
 C2H6O302 → 2CO2 + 3H2O 
 The job is done: the reaction is now balanced. That's stoichiometry. 
 The treatment above cast chemical reactions at the most fundamental level of individual molecules reacting. In practice, reactions involve great numbers of interacting particles, so it is often more convenient to think in moles. In fact, common practice is to look at the prefactors13 in chemical reaction formulas as specifying the number of moles rather than the number of individual molecules. Either way, the formula looks exactly the same,[^14] and it's just a matter of interpretation. 
@@ -312,11 +312,11 @@ We can explore the sensibility of Eq. B.1 by testing it on some known boundary c
 Eq. B.1 kcal/g true kcal/g % C %H%O 
 B.3 Chemical Energy 
 380 
-This empirical formula can serve as a gen- eral guide, but should not be taken as a literal truth from some profound deriva- tion. It captures the main energy features and produces a useful, approximate result. 
+This empirical formula can serve as a general guide, but should not be taken as a literal truth from some profound derivation. It captures the main energy features and produces a useful, approximate result. 
 
-[^16]: The coefficients in the denominator re- flect the fact that carbon is 12 units of mass, oxygen is 16, etc. 
+[^16]: The coefficients in the denominator reflect the fact that carbon is 12 units of mass, oxygen is 16, etc. 
 
-[^17]: This is a generically useful practice: it helps integrate new knowledge into your brain by validating the behavior in known contexts. Does it make sense? Can you ac- cept it, or does it seem wrong/suspect? Experts often apply new tools first to famil- iar situations whose answers are known to build trust and competence using the new tool before applying it more broadly. 
+[^17]: This is a generically useful practice: it helps integrate new knowledge into your brain by validating the behavior in known contexts. Does it make sense? Can you accept it, or does it seem wrong/suspect? Experts often apply new tools first to familiar situations whose answers are known to build trust and competence using the new tool before applying it more broadly. 
 Try it out, using c = 1 and 0 = 
 = 2. 
 Try this one, too, coming up with your own values for h and o. 
@@ -350,7 +350,7 @@ CH4
 75 25 0 
 The resulting calculated energies are definitely in the right (expected) ranges. Notice that the "winners" have little or no oxygen as a percentage of the total molecular mass. The lower-energy entries in Table B.1 are more than half oxygen, by mass. 
 
-Table B.1: Example approximate chemical energies. The results of the approximate formula are compared to true values (favor- ably). Fractional mass in carbon, hydrogen, and oxygen also appear-emphasizing the penalty for molecules already carrying oxy- gen.B.4 Ideal Gas Law 
+Table B.1: Example approximate chemical energies. The results of the approximate formula are compared to true values (favorably). Fractional mass in carbon, hydrogen, and oxygen also appear-emphasizing the penalty for molecules already carrying oxygen.B.4 Ideal Gas Law 
 381 
 B.4 Ideal Gas Law 
 Another topic covered in chemistry classes that strongly overlaps physics is the ideal gas law. This relationship describes the interactions between pressure, volume and temperature of a gas. In chemistry class, it is learned as 
@@ -361,7 +361,7 @@ R = 8.314
 J 
 mol. K 
 (B.3) 
-To get degrees in Kelvin, add 273.15 (273 among friends) to the tempera- ture in Celsius.[^19] Standard atmospheric pressure is about 105 Pa.[^20] 
+To get degrees in Kelvin, add 273.15 (273 among friends) to the temperature in Celsius.[^19] Standard atmospheric pressure is about 105 Pa.[^20] 
 Example B.4.1 Let's say we have a gas at "standard temperature and pressure" (STP), meaning 0°C (273 K) and 1.013 x $10^{5}$ Pa. How much volume would one mole of gas21 occupy? 
 We have everything we need to solve for volume, so 
 

@@ -39,7 +39,7 @@ One way to capture the physical connection to economic activity is to represent 
 
 {{< figure src="../images/per-capita-energy_vs_gdp.png" title="" class="thumbnail">}}
 
-Figure 2.1: Per capita energy use as a func- tion of GDP on a logarithmic scale. Per capita GDP is the sum total of a country's economy divided by population, effectively indicating average annual income. The rate at which an individual uses energy is ex- pressed as a power, in Watts. A strong cor- relation exists here across many orders-of- magnitude: rich countries use more energy, per person [^r6] [^r7] [^r8]. A few instructive cases (red dots) are labeled. The dot areas are scaled to population.
+Figure 2.1: Per capita energy use as a function of GDP on a logarithmic scale. Per capita GDP is the sum total of a country's economy divided by population, effectively indicating average annual income. The rate at which an individual uses energy is expressed as a power, in Watts. A strong correlation exists here across many orders-ofmagnitude: rich countries use more energy, per person [^r6] [^r7] [^r8]. A few instructive cases (red dots) are labeled. The dot areas are scaled to population.
 
 
 [^r6]: List of countries by GDP (nominal). Wikipedia. Source: World Economic Outlook Database, International Monetary Fund. Accessed 2019 Sept. 3. Oct. 2019. URL: https://en.wikipedia.org/wiki/List_of_countries_by_GDP (nominal) (cited on pages 18, 19, 39).
@@ -304,7 +304,7 @@ The growth regime is woven deeply into our current global society. And why would
 
 [^22]: Growth in both workforce and investments are essential ingredients of these schemes that pay out more than an individual's past contributions to the program. 
 
-Returning to the roots of economic theory, the earliest thinkers-Adam Smith, David Ricardo, Thomas Malthus, John Stuart Mill-had founda- tions in natural philosophy[^23] and saw growth as a temporary phase, ultimately limited by a prime physical resource: land. In that time, land held the key to outputs from farming, timber, mining, and game-thereby dictating economic development. What these pioneering economic thinkers did not foresee was the arrival of fossil fuels, and the technological developments that accompanied this energy explosion. 
+Returning to the roots of economic theory, the earliest thinkers-Adam Smith, David Ricardo, Thomas Malthus, John Stuart Mill-had foundations in natural philosophy[^23] and saw growth as a temporary phase, ultimately limited by a prime physical resource: land. In that time, land held the key to outputs from farming, timber, mining, and game-thereby dictating economic development. What these pioneering economic thinkers did not foresee was the arrival of fossil fuels, and the technological developments that accompanied this energy explosion. 
 
 [^23]: ... closer to modern-day physics than to modern-day economics, rooted in the natural world
 
@@ -330,7 +330,7 @@ As was stated before, experts frequently read complex sections more than once to
 4. Physical sectors are relegated to an ever-smaller fraction of the economy, ultimately vanishing if exponential growth is to hold. 
 5. In this scenario,[^25] physical goods (energy among them) become arbitrarily cheap, requiring only one week's worth of earnings, then a day's worth, then an hour, a minute, a second. 
 6. This situation is impossible and does not respect common-sense supply/demand notions: a finite, limited but absolutely vital resource will never become arbitrarily cheap in a market system. 
-7. At some point, physical resources will "saturate" to a minimum fraction of the economy, at which point overall growth in non- physical sectors must also cease. 
+7. At some point, physical resources will "saturate" to a minimum fraction of the economy, at which point overall growth in nonphysical sectors must also cease. 
 </details>
 
 
@@ -365,7 +365,7 @@ So, while acknowledging that growth in the past has brought uncountable benefits
 
 4. Estimate the energy intensity of the UCSD campus, based on an annual electricity expenditure around $10^{15}$ J.26 For the financial side, assume that student payments (tuition, fees, room and board) accounts for 40% of the total budget.[^27] Use your knowledge of typical tuition/fees and enrollment to come up with a number. Compare your result to global figures for energy intensity. 
 
-5. Typical energy costs are in the neighborhood of $0.10 per kilowatt- hour (kWh), and 1 kWh is 3.6 MJ (megajoules). Take the ratio of these two figures to form an economic energy intensity of energy itself, in units of MJ/$. 
+5. Typical energy costs are in the neighborhood of $0.10 per kilowatthour (kWh), and 1 kWh is 3.6 MJ (megajoules). Take the ratio of these two figures to form an economic energy intensity of energy itself, in units of MJ/$. 
 
 28 
 
@@ -373,9 +373,9 @@ So, while acknowledging that growth in the past has brought uncountable benefits
 
 and its energy costs work out to an energy intensity of 30 MJ/$,2 what percentage of the economy do we infer constitutes the energy sector? 
 
-Retention of Chapter 1 material is as- sumed. The real world is not partitioned into chapters, and neither should your brain be. 
+Retention of Chapter 1 material is assumed. The real world is not partitioned into chapters, and neither should your brain be. 
 
-Look at the column for total energy con- sumption in units of quadrillion Btu. 
+Look at the column for total energy consumption in units of quadrillion Btu. 
 
 
 
@@ -385,7 +385,7 @@ Look at the column for total energy con- sumption in units of quadrillion Btu.
 
 [^27]: Federal grants comprise most of the rest, and a small amount from state taxes 
 
-Don't get hung up on in-state fraction; just make a crude guess (maybe guess an aver- age) and clearly state assumptions. 
+Don't get hung up on in-state fraction; just make a crude guess (maybe guess an average) and clearly state assumptions. 
 
 The result should be larger than the typical energy intensity for all economic activities within a country, since not all monetary expenditure goes toward energy. 
 
@@ -415,7 +415,7 @@ The answer should be well less than 100%.
 
 your we hit the limit? 
 
-10. Provide your own example of a sequence of substitutions com- prised of at least two qualitatively superior32 substitutions over time (thus three steps: original, first replacement, second replace- ment). 
+10. Provide your own example of a sequence of substitutions comprised of at least two qualitatively superior32 substitutions over time (thus three steps: original, first replacement, second replacement). 
 
 11. List three substances or critical concepts we rely on that have no 
 
@@ -429,7 +429,7 @@ superior substitutes in the universe.
 
 you to this "floor." 
 
-15. One form of decoupled activity that some will bring up is virtual reality: you can travel the world (or solar system?) without resource- hogging transportation and other material costs. Do you see this as a viable alternative that is likely to largely supplant physical travel? Why or why not? 
+15. One form of decoupled activity that some will bring up is virtual reality: you can travel the world (or solar system?) without resourcehogging transportation and other material costs. Do you see this as a viable alternative that is likely to largely supplant physical travel? Why or why not? 
 
 16. Are you sold on the argument that the physics-imposed limit to resource/energy growth demands an ultimate cessation of economic growth as well? If so, highlight the persuasive elements. If not, why not? 
 

@@ -61,13 +61,13 @@ a power per unit land area (in $W/m^2$) by the following approach:
 
 [^14]: Not too impressive: hard to get much wind power on a household scale, although 10 m/s would give 3.6 kW.
 
-[^15]: An older "rule of thumb" was 5 side-to- side and 7-8 deep, but newer work suggests as much as 8 diameters side-to-side and 15 diameters deep.
+[^15]: An older "rule of thumb" was 5 side-toside and 7-8 deep, but newer work suggests as much as 8 diameters side-to-side and 15 diameters deep.
 120D2
 
 
 [^16]: ...one $πR^2$ rotor area for every 8D X 15D
 120 x (2R)2 = 480R2 of land area
-Figure 12.5: Overhead view of wind farm turbine locations, for the case where separa- tions are 10 rotor-diameters along the wind direction, and 5 rotor diameters in the cross- wind direction a geometry that yields 1.6% area "fill factor." Current recommendations are for 15 and 8 rotor diameters, which is significantly more sparse than even this de- piction, leading to 0.65% area fill. Note that most wind turbines can turn to face the wind direction, for times when its direction is not the prevailing one.
+Figure 12.5: Overhead view of wind farm turbine locations, for the case where separations are 10 rotor-diameters along the wind direction, and 5 rotor diameters in the crosswind direction a geometry that yields 1.6% area "fill factor." Current recommendations are for 15 and 8 rotor diameters, which is significantly more sparse than even this depiction, leading to 0.65% area fill. Note that most wind turbines can turn to face the wind direction, for times when its direction is not the prevailing one.
 power
 area
 =
@@ -93,10 +93,10 @@ M
 MM MMA J
 22-Oct-2007
 29-Oct-2007
-For very low wind speeds,[^19] wind turbines do not have enough wind to turn at all and sit still at zero output. Furthermore, a turbine is rated at some maximum power output, which occurs at some moderately high wind speed,[^20] beyond which the generator risks damage-like "redlining" a car's engine. When the wind climbs above this maximum- rated speed, the turbine is pegged at its maximum power-no longer following a v3 relation and deliberately twists its blades21 to be less efficient as the wind speed grows so that it maintains constant (maximum) power output. When the wind speed becomes large enough to endanger the turbine, it will twist its blades parallel to the wind to allow the air to pass without turning the rotor at all, so that it no longer spins while it "rides out" the high winds.[^22]
+For very low wind speeds,[^19] wind turbines do not have enough wind to turn at all and sit still at zero output. Furthermore, a turbine is rated at some maximum power output, which occurs at some moderately high wind speed,[^20] beyond which the generator risks damage-like "redlining" a car's engine. When the wind climbs above this maximumrated speed, the turbine is pegged at its maximum power-no longer following a v3 relation and deliberately twists its blades21 to be less efficient as the wind speed grows so that it maintains constant (maximum) power output. When the wind speed becomes large enough to endanger the turbine, it will twist its blades parallel to the wind to allow the air to pass without turning the rotor at all, so that it no longer spins while it "rides out" the high winds.[^22]
 
 [^18]: Capacity factors for wind are smaller than for hydroelectricity due to wind being more variable than river flow.
-Figure 12.6: One month of wind generation from a 20 MW wind farm, illustrating the intermittent nature and why capacity fac- tors are low [^76]. The facility saturates at maximum power late in the month, self- limiting to avoid damage to the turbines. ©2010 Springer.
+Figure 12.6: One month of wind generation from a 20 MW wind farm, illustrating the intermittent nature and why capacity factors are low [^76]. The facility saturates at maximum power late in the month, selflimiting to avoid damage to the turbines. ©2010 Springer.
 
 [^19]: . less than about 3 m/s; called the "cut-in" velocity
 
@@ -104,7 +104,7 @@ Figure 12.6: One month of wind generation from a 20 MW wind farm, illustrating t
 
 [^21]: The blades are like long airplane wings and are mounted so that they can be rotated on an axis running the length of the blade, allowing them to engage the wind at any angle, thus varying efficiency.
 
-[^22]: A typical shut-off wind speed for tur- bines is 20-30 m/s.
+[^22]: A typical shut-off wind speed for turbines is 20-30 m/s.
 1500
 2000
 Electrical power [kW]
@@ -123,7 +123,7 @@ Builder curve
 20
 Figure 12.7 shows a typical power curve for a 2 MW turbine, on top of which are drawn a cubic function of velocity at the theoretical Betz limit (red curve), a cubic (blue) at 44% efficiency (ε = 0.44), and the green manufacturer's curve [^77]. Notice that the turbine performance
 
-Figure 12.7: Actual data (thickly-clustered black circles) of power delivered by a tur- bine rated at 2 MW, as a function of wind velocity. The red curve represents the the- oretical Betz limit of 59%, appearing as a cubic function of velocity-as Eq. 12.2 dic- tates. The better-matching blue curve corre- sponds to an overall efficiency & =
+Figure 12.7: Actual data (thickly-clustered black circles) of power delivered by a turbine rated at 2 MW, as a function of wind velocity. The red curve represents the theoretical Betz limit of 59%, appearing as a cubic function of velocity-as Eq. 12.2 dictates. The better-matching blue curve corresponds to an overall efficiency & =
 Cp = 0.44 (44%), and the green curve-which rolls over from the cubic function and saturates at higher velocities-is the manufacturer's expectation for the unit [^77]. The "cut-in" velocity for this turbine is around 3.5 m/s: note the small step up from zero output in the green curve. This turbine saturates around 12 m/s: the green curve flattens out and no black circles appear above the cutoff. From ©2017 Wiley.
 [^77]: Fischer et al. (2017), "Statistical learning for windpower: a modeling and stability study towards forecasting"demonstrates the aspects covered in the previous paragraph: "cutting in" just above 3 m/s and maxing out (saturating) beyond about 12 m/s. In between, it closely follows a cubic function at an overall efficiency of 44% (blue curve).
 12 Wind Energy
@@ -191,7 +191,7 @@ World Total
 8
 4 6 Wind generation (GW)
 In 2018, the U.S. had about 94 GW of installed wind capability.[^25] This number has recently surpassed hydroelectric installed capacity (about 80 GW). Both are impacted by capacity factors, which for wind averages 33% in the U.S., while hydropower is just over 40%. The net effect is that the generation for the two is pretty comparable.[^26] Where is the wind power in the U.S. installed? Figure 12.8 shows that Texas wins, at 8.7 GW. Oklahoma is a distant second at 3.2 GW, Iowa at 2.5 GW. California is in fifth place at 1.6 GW.
-Figure 12.8: Wind power by state, in terms of average generation, in GW, in 2018. The color scale may seem unhelpful, but the unavoidable truth is that many states don't have a lot going on, and Texas is so dom- inant as to render other states almost in- significant. A logarithmic color scale could help, but then the important lesson on the gross disparity might go unappreciated.
+Figure 12.8: Wind power by state, in terms of average generation, in GW, in 2018. The color scale may seem unhelpful, but the unavoidable truth is that many states don't have a lot going on, and Texas is so dominant as to render other states almost insignificant. A logarithmic color scale could help, but then the important lesson on the gross disparity might go unappreciated.
 
 [^25]: From tables 1.14.B and 6.2.B in [^85]
 
@@ -216,7 +216,7 @@ Wind power/person (W)
 per person, followed
 Next, we look at wind generation per capita in states, in Figure 12.10. Now North Dakota blows away the rest, at 1.6 kW by four states at about half of this value. We can put this in context by noting that the average power consumption in the U.S. per capita is around 10 kW.
 Finally, Figure 12.11 shows wind capacity factors, indicating where the wind is most reliable. It peaks around 41% in Kansas, but all of the plains states in general do well. The southeastern U.S. has almost no wind development,[^29] as is evident in any one of these figures.
-Figure 12.10: Average wind power gener- ation by state divided by state population for an average power per person (based on 2018 data).
+Figure 12.10: Average wind power generation by state divided by state population for an average power per person (based on 2018 data).
 
 [^29]: Lack of wind makes it a poor fit: see also Figure 12.2.
 
@@ -227,11 +227,11 @@ Wind capacity factor
 0.4
 12 Wind Energy
 193
-Figure 12.11: Capacity factor for wind in- stallations by state (based on 2018 data).
+Figure 12.11: Capacity factor for wind installations by state (based on 2018 data).
 
 ## 12.4 Upshot: Wind is not Overblown
 Wind has surged tremendously in the last decade (Fig. 7.5; p. 108), proving to be an economically viable and competitive resource. But how much could we expect to get from wind?
-Putting a few of the previous results together, If the entire contiguous U.S. (area ~1013 m2) were developed for wind at an estimated power density of 0.2 $W/m^2$-which was based on a 5 m/s average wind speed-and a capacity factor of 33%, the U.S. could theoretically produce 0.7 TW30 from wind-roughly 20 times what is produced today. We should take this crude estimate as an extreme upper end, since it is inconceivable that we would develop wind so fully as to never be more than a few hundred meters- -a few rotor diameters-away from a wind turbine, no matter where we go. Also, many areas are sub-threshold and would not support investment in wind development.
+Putting a few of the previous results together, If the entire contiguous U.S. (area ~1013 m2) were developed for wind at an estimated power density of 0.2 $W/m^2$-which was based on a 5 m/s average wind speed-and a capacity factor of 33%, the U.S. could theoretically produce 0.7 TW30 from wind-roughly 20 times what is produced today. We should take this crude estimate as an extreme upper end, since it is inconceivable that we would develop wind so fully as to never be more than a few hundred meters-a few rotor diameters-away from a wind turbine, no matter where we go. Also, many areas are sub-threshold and would not support investment in wind development.
 Even so, the inflated 0.7 TW estimate falls short of the current 3.3 TW energy demand in the U.S., has major intermittency problems, and is not in a form that can be well-used in all sectors, like transportation and industrial processing. While wind alone cannot replace fossil fuels at the current level of demand, it can doubtless be a significant contributor.
 Globally, estimates for wind potential tend to be in the few-terawatt range, though can be as low as 1 TW for a number of practical reasons [^70]. As was the case for hydroelectricity, wind is a viable player in the renewables mix, but is unable to shoulder the entire load.
 Wind energy is not free of environmental concerns, disturbing landscapes and habitats. Its impact on birds31 and bats is most worrisome, as the rotors move far faster than anything to which the wildlife is habituated. Still, compared to the environmental toll from fossil fuels, it is fairly clean similar to the impact of hydroelectric power.
@@ -245,7 +245,7 @@ A pros and cons list will help summarize. First, the positive attributes:
 
 12 Wind Energy
 194
-- Harnessing wind is relatively low-tech and straightforward; Wind has decent efficiency-typically 40-50%-in extracting en- ergy from the oncoming wind;
+- Harnessing wind is relatively low-tech and straightforward; Wind has decent efficiency-typically 40-50%-in extracting energy from the oncoming wind;
 Life-cycle CO2 emissions for wind is only 2% that of traditional fossil fuel electricity [^68];
 Growth in the wind sector points to economic viability;
 ▸ Wind is able to scale up to cover a meaningful fraction of energy
@@ -270,8 +270,8 @@ Esthetic objections to noise and degradation of scenery hamper expansion.
 34: ... neglecting any energy flow to air resistance
 35: Try it using a different mass.
 36: ... using variables/symbols
-37: ...0 K, when the kinetic energy is effec- tively frozen out, or stopped
-As large as the number is, it is represen- tative of the speeds of individual molecules within the water, and is, not coincidentally, similar to the speed of sound in water.
+37: ...0 K, when the kinetic energy is effectively frozen out, or stopped
+As large as the number is, it is representative of the speeds of individual molecules within the water, and is, not coincidentally, similar to the speed of sound in water.
 
 6. A typical house may have a floor area around 150 m2 (1,600 square feet). If the floor-to-ceiling distance is typically 2.5 m, how much mass is in the air within the house? Could you lift this much mass if handed to you as bags of rocks?
 7. Atmospheric pressure is about 105 N/m2, meaning that a 100,000 N weight of air-corresponding to a mass of 10,000 kg-sits atop very square meter of the ground (at or near sea level). If the air density were constant at 1.25 kg/m3-rather than decreasing with height as it actually does how high would the atmosphere extend to result in this weight (mass)?
@@ -290,7 +290,7 @@ hitting your house than is a light breeze of 5 m/s?
 windmill delivering if its efficiency is about 50%?
 12 Wind Energy
 195
-This is called the scale height of the at- mosphere, ho, which you may wish to com- pare to the tallest mountains on Earth or the height at which airplanes fly. The actual density of the atmosphere decreases expo- nentially as a function of height, with ho being the characteristic scale.
+This is called the scale height of the atmosphere, ho, which you may wish to compare to the tallest mountains on Earth or the height at which airplanes fly. The actual density of the atmosphere decreases exponentially as a function of height, with ho being the characteristic scale.
 38: Make up your own velocity or solve in symbols/variables: same either way.
 39: This relates to wind speed just behind a wind turbine
 40:
@@ -303,11 +303,11 @@ Reflect on the fact that just estimating the rotor blade length and timing its r
 18. Check that the units of Eq. 12.343 indeed are equivalent to Watts
 per square meter ($W/m^2$).
 19. Provide a clear explanation of why the area under the blue curve in Figure 12.6 compared to the area of the whole rectangular box is an appropriate way to assess the capacity factor of the depicted wind farm?
-20. What capacity factor would you estimate for the wind farm per- formance depicted in Figure 12.6? In other words, what is the approximate area under the curve compared to the entire box area, as explored in Problem 19? An approximate answer is fine.
+20. What capacity factor would you estimate for the wind farm performance depicted in Figure 12.6? In other words, what is the approximate area under the curve compared to the entire box area, as explored in Problem 19? An approximate answer is fine.
 21. Referring to Figure 12.7, examine performance at 5 m/s and at 10 m/s, picking a representative power for each in the middle of the cluster of black points, and assigning a power value from the left-hand axis. What is the ratio of
 power values you read off the plot, and how does this compare to theoretical expectations for the ratio going like the cube of velocity?
 22. Figure 12.7 surprisingly has all the information required to deduce the rotor diameter! The turbine appears to produce 1,400 kW when the wind velocity is 10 m/s, and we also know it appears to operate at ε = 0.44. What is the rotor diameter?
-23. Considering that wind turbines are rated for the maximum- tolerable wind speed around 12 m/s, and tend to operate at about 30% capacity factor, how much average power44 would a 100 m diameter turbine operating at 45% efficiency be expected to produce?
+23. Considering that wind turbines are rated for the maximumtolerable wind speed around 12 m/s, and tend to operate at about 30% capacity factor, how much average power44 would a 100 m diameter turbine operating at 45% efficiency be expected to produce?
 24. Table 12.2 shows Germany having more than twice the wind capability as Spain, yet each gets 8.3% of its power from wind. What do you infer the difference to be between the countries?
 12 Wind Energy
 43: ...essentially pv3

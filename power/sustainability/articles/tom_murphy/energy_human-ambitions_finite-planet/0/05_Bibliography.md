@@ -72,7 +72,7 @@ References are in order of appearance in the book.
 [^r52]: H Ritchie. Who has contributed most to global CO2 emissions. Online: Our World in Data. Accessed 2020 Dec. 2. Oct. 2019. URL: https://ourworldindata.org/contributed-most-global-co2 (cited on page 143). 
 
 
-[^r53]: R Rapier. The World's Top 10 Carbon Dioxide Emitters. Forbes online. Accessed 2020 Dec. 2. Dec. 2019. URL: https://www.forbes.com/sites/rrapier/2019/12/04/the-worlds-top-10- carbon-dioxide-emitters/?sh=55dd24ad2d04 (cited on page 143). 
+[^r53]: R Rapier. The World's Top 10 Carbon Dioxide Emitters. Forbes online. Accessed 2020 Dec. 2. Dec. 2019. URL: https://www.forbes.com/sites/rrapier/2019/12/04/the-worlds-top-10carbon-dioxide-emitters/?sh=55dd24ad2d04 (cited on page 143). 
 
 
 [^r54]: RT Pierrehumbert. "Infrared radiation and planetary temperature". In: Physics Today 63.1 (Jan. 011), pp. 33-38. DOI: 10.1063/1.3541943 (cited on page 143). 
@@ -81,7 +81,7 @@ References are in order of appearance in the book.
 [^r55]: Atmospheric Transmission (PNG). Wikimedia Commons. Accessed 2020 Nov. 29. 2020. URL: https://commons.wikimedia.org/w/index.php?curid=2623190 (cited on page 145). 
 
 
-[^r56]: JT Kiehl and K E Trenberth. "Earth's Annual Global Mean Energy Budget". In: Bulletin of the American Meteorological Society 78.2 (Feb. 1997), pp. 197-208. DOI: 10.1175/1520- 0477 (1997)078%3C0197: EAGMEB%3E2.0.CO;2 (cited on page 145). 
+[^r56]: JT Kiehl and K E Trenberth. "Earth's Annual Global Mean Energy Budget". In: Bulletin of the American Meteorological Society 78.2 (Feb. 1997), pp. 197-208. DOI: 10.1175/15200477 (1997)078%3C0197: EAGMEB%3E2.0.CO;2 (cited on page 145). 
 
 
 [^r57]: RealClimate: Climate science from climate scientists. The CO2 problem in 6 easy steps. Online. Primary references within; Accessed 2020 Nov. 22. 2007. URL: http://www.realclimate.org/ index.php/archives/2007/08/the-co2-problem-in-6-easy-steps/ (cited on page 147). 
@@ -90,13 +90,13 @@ References are in order of appearance in the book.
 [^r58]: National Oceanic and Atmospheric Administration (NOAA). Global Climate Report. Online. Accessed 2020 Nov. 22. 2019. URL: https://www.ncdc.noaa.gov/sotc/global/201913%5C# gtemp (cited on page 147). 
 
 
-[^r59]: U.S. Geological Survey. How much water is there on Earth? Online. Accessed 2020 Dec. 1. URL: https://www.usgs.gov/special- topic/water-science - school/science/how-much- ater-there-earth? (cited on page 153). 
+[^r59]: U.S. Geological Survey. How much water is there on Earth? Online. Accessed 2020 Dec. 1. URL: https://www.usgs.gov/specialtopic/water-science - school/science/how-muchater-there-earth? (cited on page 153). 
 
 
 [^r60]: B Davies. Calculating glacier ice volumes and sea level equivalents. Online. Accessed 2020 Dec. 1. 2020. URL: http://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/ (cited on pages 153, 156). 
 
 
-[^r61]: R Lindsey. Climate Change: Global Sea Level. Online: NOAA. Accessed 2020 Dec. 1. Aug. 2020. URL: https://www.climate.gov/news- features/understanding - climate/climate-change- global-sea-level (cited on page 155). 
+[^r61]: R Lindsey. Climate Change: Global Sea Level. Online: NOAA. Accessed 2020 Dec. 1. Aug. 2020. URL: https://www.climate.gov/newsfeatures/understanding - climate/climate-changeglobal-sea-level (cited on page 155). 
 
 
 [^r62]: K Lambeck et al. "Sea level and global ice volumes from the Last Glacial Maximum to the Holocene". In: Proceedings of the National Academy of Sciences of the United States of America 111.43 (Oct. 2014), pp. 15296-15303. DOI: 10.1073/pnas.1411762111 (cited on page 157). 15 
@@ -132,7 +132,7 @@ References are in order of appearance in the book.
 [^r73]: H Glauert. The elements of airfoil and airscrew theory. second ed. Cambridge University Press, K, 1993 (cited on page 188). 
 
 
-[^r74]: AP Schaffarczyk. "Aerodynamics and Aeroelastics of Wind Turbines". In: WIT Transactions on State of the Art in Science and Engineering 44 (2010). https://www.witpress.com/Secure/ elibrary/papers/9781845642051/9781845642051003 FU1.pdf. DOI: 10.2495/978-1-84564- 205-1/03 (cited on pages 188, 354). 
+[^r74]: AP Schaffarczyk. "Aerodynamics and Aeroelastics of Wind Turbines". In: WIT Transactions on State of the Art in Science and Engineering 44 (2010). https://www.witpress.com/Secure/ elibrary/papers/9781845642051/9781845642051003 FU1.pdf. DOI: 10.2495/978-1-84564205-1/03 (cited on pages 188, 354). 
 
 
 [^r75]: J Meyers and C Meneveau. "Optimal turbine spacing in fully developed wind farm boundary layers". In: Wind Energy 15 (Mar. 2012), pp. 305–317. DOI: 10.1002/we. 469 (cited on page 189). [^r76]: Antonio Muñoz et al. "Short-term Forecasting in Power Systems: A Guided Tour". In: Handbook of Power Systems. Vol. 2. May 2010, pp. 129-160. DOI: 10.1007/978-3-642-12686-4-5 (cited on pages 190, 354). 
@@ -174,7 +174,7 @@ References are in order of appearance in the book.
 [^r88]: National Renewable Energy Lab. Solar Radiation Data Manual for Flat-Plate and Concentrating Collectors. Online. Accessed 2020 Dec. 7. 1994. URL: https://www.nrel.gov/docs/legosti/ old/5607.pdf (cited on pages 210, 214, 224). 
 
 
-[^r89]: National Renewable Energy Lab. Solar Installed System Cost Analysis. National Renewable Energy Lab: online. Accessed 2021 Feb. 18. 2021. URL: https://www.nrel.gov/solar/solar- installed-system-cost.html (cited on pages 211, 215, 256, 267). 
+[^r89]: National Renewable Energy Lab. Solar Installed System Cost Analysis. National Renewable Energy Lab: online. Accessed 2021 Feb. 18. 2021. URL: https://www.nrel.gov/solar/solarinstalled-system-cost.html (cited on pages 211, 215, 256, 267). 
 
 
 [^r90]: TW Murphy. "Home photovoltaic systems for physicists". In: Physics Today 61.7 (July 2008), p. 42-46. DOI: 10.1063/1.2963010 (cited on page 213). 
@@ -195,7 +195,7 @@ References are in order of appearance in the book.
 [^r95]: CAS Hall, J G Lambert, and S B Balogh. "EROI of different fuels and the implications for society". In: Energy Policy 64 (2014), pp. 141-152. DOI: 10.1016/j.enpol.2013.05.049 (cited on page 232). 
 
 
-[^r96]: M Inman. "How to Measure the True Cost of Fossil Fuels". In: Scientific American (Apr. 2013). https://www.scientificamerican.com/article/how-to-measure-true-cost- fossil- uels/ (cited on page 232). 17 
+[^r96]: M Inman. "How to Measure the True Cost of Fossil Fuels". In: Scientific American (Apr. 2013). https://www.scientificamerican.com/article/how-to-measure-true-costfossiluels/ (cited on page 232). 17 
 
 
 [^r97]: DA Pfeiffer. Eating Fossil Fuels. https://newsociety.com/books/e/eating-fossil-fuels. ew Society Press, Oct. 2006 (cited on pages 234, 339). 
@@ -219,11 +219,11 @@ References are in order of appearance in the book.
 [^r103]: List of Countries by Uranium Reserves. Wikipedia. Accessed 2020 Nov. 24. 2020. URL: https://en.wikipedia.org/wiki/List_of_countries_by_uranium_reserves (cited on page 257). 
 
 
-[^r104]: Pew Research. "Elaborating on the Views of AAAS Scientists, Issue by Issue". In: (July 2015). https://www.pewresearch.org/science/2015/07/23/elaborating-on-the-views-of- aaas-scientists-issue-by-issue/ Accessed 2020 Dec. 13 (cited on page 264). 
+[^r104]: Pew Research. "Elaborating on the Views of AAAS Scientists, Issue by Issue". In: (July 2015). https://www.pewresearch.org/science/2015/07/23/elaborating-on-the-views-ofaaas-scientists-issue-by-issue/ Accessed 2020 Dec. 13 (cited on page 264). 
 
 
 
-[^r106]: H Johnston. Radioactive decay accounts for half of Earth's heat. Online. Accessed 2020 Nov. 24. 2011. URL: https://physicsworld.com/a/radioactive-decay-accounts-for-half-of-earths- heat/ (cited on page 275). 
+[^r106]: H Johnston. Radioactive decay accounts for half of Earth's heat. Online. Accessed 2020 Nov. 24. 2011. URL: https://physicsworld.com/a/radioactive-decay-accounts-for-half-of-earthsheat/ (cited on page 275). 
 
 
 [^r107]: Intern'l Renewable Energy Agency. Renewable Energy Statistics 2018. Online. Accessed 2020 Dec. 14. July 2018. URL: https://www.irena.org/publications/2018/Jul/Renewable - Energy - Statistics-2018 (cited on page 279). 
@@ -235,7 +235,7 @@ References are in order of appearance in the book.
 [^r109]: Geothermal Power. Wikipedia. Accessed 2020 Dec. 14. 2020. URL: https://en.wikipedia.org/ iki/Geothermal power (cited on page 279). 
 
 
-[^r110]: Volkswagen. Hydrogen or battery? A clear case, until further notice. Online. Accessed 2021 Feb. 5. Nov. 2019. URL: https://www.volkswagenag.com/en/news/stories/2019/08/hydrogen- or-battery--that-is-the-question.html (cited on page 286). 
+[^r110]: Volkswagen. Hydrogen or battery? A clear case, until further notice. Online. Accessed 2021 Feb. 5. Nov. 2019. URL: https://www.volkswagenag.com/en/news/stories/2019/08/hydrogenor-battery--that-is-the-question.html (cited on page 286). 
 
 
 [^r111]: TW Murphy. "Beyond Fossil Fuels: Assessing Energy Alternatives". In: State of the World 2013: Is Sustainability Possible? Ed. by The Worldwatch Institute. Island Press, 2013. Chap. 15, pp. 172-183 (cited on page 289). 
@@ -256,7 +256,7 @@ References are in order of appearance in the book.
 [^r116]: Truity. Myers & Briggs 16 Personality Types. Online. Accessed 2020 Dec. 17. URL: https: /www.truity.com/personality-type (cited on page 305). 
 
 
-[^r117]: Myers & Briggs Foundation. How Frequent Is My Type? Online. Accessed 2020 Dec. 17. 2002. URL: https://www.myersbriggs.org/my-mbti-personality-type/my-mbti- results/how- frequent-is-my-type.htm (cited on page 306). 
+[^r117]: Myers & Briggs Foundation. How Frequent Is My Type? Online. Accessed 2020 Dec. 17. 2002. URL: https://www.myersbriggs.org/my-mbti-personality-type/my-mbtiresults/howfrequent-is-my-type.htm (cited on page 306). 
 
 
 [^r118]: CS Weiler, J K Keller, and C Olex. "Personality type differences bet. Ph.D. climate researchers and the general public: implications for effective communication". In: Climate Change 112 (May 2012), pp. 232-242. DOI: 10.1007/s10584-011-0205-7 (cited on page 307). 
@@ -271,25 +271,25 @@ References are in order of appearance in the book.
 [^r121]: YM Bar-On, R Phillips, and R Milo. "The biomass distribution on Earth". In: Proceedings of he National Academy of Sciences 115.25 (2018), pp. 6506-6511. DOI: 10.1073/pnas.1711842115 (cited on page 316). 
 
 
-[^r122]: C Nunez. "Climate 101: Ozone Depletion". In: National Geographic Online (Apr. 2019). https://www.nationalgeographic.com/environment/global-warming/ozone depletion/ Ac- essed 2020 Dec. 18 (cited on page 320). 
+[^r122]: C Nunez. "Climate 101: Ozone Depletion". In: National Geographic Online (Apr. 2019). https://www.nationalgeographic.com/environment/global-warming/ozone depletion/ Acessed 2020 Dec. 18 (cited on page 320). 
 
 
 [^r123]: HE Daly and J Farley. Ecological Economics: Principles and Applications, Second Edition. Island ress, 2011 (cited on page 323). 
 
 
-[^r124]: H Daly. "A Steady-State Economy". In: UK Sustainable Development Commission (Apr. 2008). http://www.pym.org/eco-justice- collaborative/wp-content/uploads/sites/58/ 2016/05/DalyteadyStateEconomy.pdf Accesses 2020 Dec. 22 (cited on page 325). 
+[^r124]: H Daly. "A Steady-State Economy". In: UK Sustainable Development Commission (Apr. 2008). http://www.pym.org/eco-justicecollaborative/wp-content/uploads/sites/58/ 2016/05/DalyteadyStateEconomy.pdf Accesses 2020 Dec. 22 (cited on page 325). 
 
 
 [^r125]: SA Chang. Moving Toward a Steady State Economy. New York Society of Security Analysts: online. Accessed 2020 Dec. 18. Apr. 2010. URL: https://post.nyssa.org/nyssa-news/2010/ 04/moving-toward-a-steadystate-economy.html (cited on page 325). 
 
 
-[^r126]: Nuclear Energy institute. State Electricity Generation Fuel Shares. Online. Accessed 2020 Dec. 19. 2019. URL: https://www.nei. org/resources/statistics/state- electricity - generation-fuel-shares (cited on page 335). 
+[^r126]: Nuclear Energy institute. State Electricity Generation Fuel Shares. Online. Accessed 2020 Dec. 19. 2019. URL: https://www.nei. org/resources/statistics/stateelectricity - generation-fuel-shares (cited on page 335). 
 
 
 [^r127]: G Eshel and P A Martin. "Diet, Energy, and Global Warming". In: Earth Interactions 10.9 (Apr. 006), pp. 1-17. DOI: 10.1175/EI167.1 (cited on pages 339, 341). 
 
 
-[^r128]: D Pimentel and M H Pimentel. Food, Energy, and Society. https://www.routledge.com/Food- Energy-and-Society/Pimentel - Pimentel/p/book/9780367388539. CRC Press, 2007 (cited n page 339). 
+[^r128]: D Pimentel and M H Pimentel. Food, Energy, and Society. https://www.routledge.com/FoodEnergy-and-Society/Pimentel - Pimentel/p/book/9780367388539. CRC Press, 2007 (cited n page 339). 
 
 
 [^r129]: S Sripad and V Viswanathan. "Performance Metrics Required of Next-Generation Batteries to Make a Practical Electric Semi Truck". In: ACS Energy Letters 2.7 (2017), pp. 1669-1673. DOI: 10.1021/acsenergylett.7b00432 (cited on page 400).

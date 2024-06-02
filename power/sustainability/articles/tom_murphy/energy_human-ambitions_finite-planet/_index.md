@@ -11,7 +11,7 @@ University of California, San Diego
 
 Source: [TW](https://escholarship.org/uc/item/9js5291m)
 
-This work is made available under the terms of a Creative Commons Attribution- NonCommercial License, availalbe at https://creativecommons.org/licenses/by- nc/4.0/
+This work is made available under the terms of a Creative Commons AttributionNonCommercial License, availalbe at https://creativecommons.org/licenses/bync/4.0/
 
 
 This book is dedicated to Earth,  

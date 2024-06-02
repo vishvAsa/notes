@@ -1026,7 +1026,7 @@ Hint: Don't forget to count both 2H.
 Hint: express the plant power in kW and multiply by hours in 50 years to get kWh produced.
 Hint: how many days will one plant live, then how many plants per day?
 84: 0.185 out of 235 a.m.u.
-85: Treat the two isotopes as having the same mass: the rod has 20 times more ura- nium than just the
+85: Treat the two isotopes as having the same mass: the rod has 20 times more uranium than just the
 235 U
 part.
 86: It's not, actually, so this answer is a lower limit on the actual mass that has to be loaded in. So much for the ~1 kg answer from Problem 16.
@@ -1043,7 +1043,7 @@ involved.
 sible for most of the radioactivity, according to Figure 15.19?
 38. Let's say that spent fuel rods are pulled out of the holding pool at the nuclear facility ten years after they came out of the core. Based on the total radioactive power from waste products (black line on Figure 15.19), approximately how long will you have to wait until the radioactivity level is down by another factor of 1,000 from where it is at the time of extraction?
 39. Operating approximately 450 nuclear plants over about 60 years at a total thermal level of 1 TW, we have had two major radioactive releases into the environment. If we went completely down the nuclear road and get all 18 TW89 this way, what rate of accidents might we expect, if the rate just scales with usage levels?
-40. On balance, considering the benefits and downsides of conven- tional nuclear fission, where do you come down in terms of support for either terminating, continuing, or expanding our use of this technology? Should we pursue breeder reactors at a large scale? Please justify your conclusion based on the things you consider to be most important.
+40. On balance, considering the benefits and downsides of conventional nuclear fission, where do you come down in terms of support for either terminating, continuing, or expanding our use of this technology? Should we pursue breeder reactors at a large scale? Please justify your conclusion based on the things you consider to be most important.
 
 273
 88: ... given enrichment inefficiency

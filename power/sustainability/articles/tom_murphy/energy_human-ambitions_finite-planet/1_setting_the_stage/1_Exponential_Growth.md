@@ -2,7 +2,7 @@
 title = "1 Exponential Growth"
 
 +++
-Humans have amazing strengths, but also significant weaknesses. Chief among them, perhaps, is our collective difficulty in grasping the mathematical consequences of exponential growth.[^1] This is an ironic state, given that our economic and political goals are often geared explicitly to support continued growth. The degree to which an expectation and desire for continued growth is woven into our society makes it important to examine the phenomenon carefully, so that we might avoid building upon a shaky foundation. In this chapter, we explore the general nature of exponential growth, in order to understand the impossibility of its long-term continuance by way of exposing various absurd consequences that uninterrupted growth prescribes. The upshot[^2] is that our societal framework eventually must face a mandatory departure from the current model- a piece of knowledge we should all lodge into the backs of our minds. Subsequent chapters will address applications to economic and population growth-including more realistic logistic growth curves, then pivot toward nailing down limits imposed by our finite planet. 
+Humans have amazing strengths, but also significant weaknesses. Chief among them, perhaps, is our collective difficulty in grasping the mathematical consequences of exponential growth.[^1] This is an ironic state, given that our economic and political goals are often geared explicitly to support continued growth. The degree to which an expectation and desire for continued growth is woven into our society makes it important to examine the phenomenon carefully, so that we might avoid building upon a shaky foundation. In this chapter, we explore the general nature of exponential growth, in order to understand the impossibility of its long-term continuance by way of exposing various absurd consequences that uninterrupted growth prescribes. The upshot[^2] is that our societal framework eventually must face a mandatory departure from the current modela piece of knowledge we should all lodge into the backs of our minds. Subsequent chapters will address applications to economic and population growth-including more realistic logistic growth curves, then pivot toward nailing down limits imposed by our finite planet. 
 
 ## 1.1 Bacteria in a Jar 
 One hallmark of exponential growth is that the time it takes to double in size, or the doubling time, is constant. An important and convenient concept we will repeatedly use in this chapter is the rule of 70: 
@@ -231,7 +231,7 @@ Having established that energy growth over the past several centuries is well-de
 2) this rate produces the mathematical convenience of a factor of 10 increase every century.[^8] 
 
 
-[^8]: Fundamentally, this relates to the fact that the natural log of 10 is 2.30. The analog of Eq. 1.7 using 10 in place of 2 and p 0.023 for 2.3% growth rate will produce a factor- of-ten timescale $t_{10}≈ 100$ years.
+[^8]: Fundamentally, this relates to the fact that the natural log of 10 is 2.30. The analog of Eq. 1.7 using 10 in place of 2 and p 0.023 for 2.3% growth rate will produce a factorof-ten timescale $t_{10}≈ 100$ years.
 
 
 What follows is a flight of fancy that quickly becomes absurd, but we will chase it to staggering levels of absurdity just because it is fun, instructive, and mind-blowing. Bear in mind that what follows should not be taken as predictions[^9] of our future: rather, we can use the absurdity to predict how our future will not look!+++(4)+++ 
@@ -414,7 +414,7 @@ Hint: for problems that require solving temperature when it appears as T1, you'l
 2. Fill out Table 1.1 for the missing decades between 1940 and 2000. 
 
 13 
-Was the exercise pointless, since the math leads to absurdity? Is the math wrong? No- it's immensely valuable to learn that our assumption of continued growth (and ap- plication of the corresponding correct math) fails to make sense, ultimately. The logical conclusion is that growth cannot continue indefinitely. 
+Was the exercise pointless, since the math leads to absurdity? Is the math wrong? Noit's immensely valuable to learn that our assumption of continued growth (and application of the corresponding correct math) fails to make sense, ultimately. The logical conclusion is that growth cannot continue indefinitely. 
 Note that a deviation from the assumed steady 2.3% growth rate changes all the numbers, and therein may lie the solution: ramp down growth! 
 A number of these issues will be addressed in subsequent chapters. 
 
@@ -434,10 +434,10 @@ this?
 [^20]: E.g., brute force doubling 26 times or using math to get straight at the answer. 
 Hint: In is the natural log function found on scientific calculators (sometimes as LN). 
 Hint: M is the ratio of the final population to the initial population. 
-To get 2,000 kcal of metabolic content per day, a person would need to eat 30,000 grains of rice each day. The amount of rice computed for this problem would feed the current world population for 240 years, which you are encouraged to check for your- self! 
+To get 2,000 kcal of metabolic content per day, a person would need to eat 30,000 grains of rice each day. The amount of rice computed for this problem would feed the current world population for 240 years, which you are encouraged to check for yourself! 
 Roughly 10 bacteria fit within a cubic micron (tiny), so you would not be able to see this tiny starting amount. 
 
-13. Using Eq. 1.5 and showing work, what annual growth rate, in per- cent, leads to the mathematically convenient factor-of-ten growth every century? 
+13. Using Eq. 1.5 and showing work, what annual growth rate, in percent, leads to the mathematically convenient factor-of-ten growth every century? 
 14. Use Eq. 1.5 with b = 1+ p to figure out how long it takes to increase our energy by a factor of 10 if the growth rate is closer to the historical value of 2.9% (p = 0.029). Using 2.3% as we did in the examples (starting on page 7) puts this at 100 years.[^21] 
 15. Extrapolating a constant growth rate in energy is motivated by historical performance. During this period, population was also growing, albeit not as fast. If population were to double every 50 years, 22 how many people would Earth host when we hit the energy/thermodynamic limits in roughly 300 years? 
 16. In extrapolating a 2.3% growth rate in energy, we came to the absurd conclusion that we consume all the light from all the stars in the Milky Way galaxy within 2,500 years. How much longer would it take to energetically conquer 100 more "nearby" galaxies, assuming they are identical to our own? 
@@ -447,14 +447,14 @@ Roughly 10 bacteria fit within a cubic micron (tiny), so you would not be able t
 20. The moon absorbs 90% of the solar energy incident on it.[^23] How hot would you expect the surface to get under full sun? You don't need the factor of four here24 because the moon rotates very slowly under the sun and we're considering a patch experiencing overhead sunlight (rather than averaging over the sphere). Compare the result to boiling water temperature. 
 21. Venus is, ironically, colder than Earth as an infrared radiator. This is because Venus is covered in bright clouds, absorbing only 25% of the incident solar flux. Sunlight is more intense there due to it's being closer to the sun: it's almost double, at 2,620 $W/m^2$. Adapting Eq. 1.11, calculate the equilibrium temperature of Venus in the infrared and compare it to the Earth value of 255 K. 
 15 
-Hint: the exponential, ex, "undoes" the nat- ural logarithm. 
+Hint: the exponential, ex, "undoes" the natural logarithm. 
 
 [^21]: Hint: a good way to check your math. Note that if we were to use 2.9% instead of 2.3%, all of the time estimates in Section 1.2 are reduced by the ratio of this question's answer to 100 years. 
 
 [^22]: This corresponds to a 1.4% growth rate, but you don't need to use this number in your calculation. 
 We are unlikely to reach such a number for a host of other reasons. 
 Ignoring the fact that it impossible to get to them fast enough, even at light speed. 
-Hint: Dividing the number of Joules asso- ciated with Earth's mass by the number of seconds in a year gives the number of Watts being consumed. You may wish to compare the result to the timescale before we would use the power output of all stars in the Milky Way galaxy? 
+Hint: Dividing the number of Joules associated with Earth's mass by the number of seconds in a year gives the number of Watts being consumed. You may wish to compare the result to the timescale before we would use the power output of all stars in the Milky Way galaxy? 
 Air convection also takes some heat away, but then clothing reduces both to bring us to equilibrium/comfort. 
 
 [^23]: 
@@ -463,7 +463,7 @@ Earth
 incident at the same rate/flux as at 
 
 [^24]: Referring to the 4 that shows up in Eqs. 1.10 and 1.11. 
-The surface of Venus is much hotter than that of Earth owing to a runaway green- house condition. On Earth, the greenhouse boost is only 33 K, but on Venus it's hun- dreds of degrees. 
+The surface of Venus is much hotter than that of Earth owing to a runaway greenhouse condition. On Earth, the greenhouse boost is only 33 K, but on Venus it's hundreds of degrees. 
 
 22. Adapt Eq. 1.11 to Mars to find its equilibrium temperature. The solar flux averages 590 $W/m^2$ there, and it absorbs 75% of incident sunlight. Express the answer in both Kelvin and Celsius, and put in context. 
 23. If a human body having an outward surface area of 1 m2 continued to put out 100 W of metabolic power in the form of infrared radiation in the cold of space (naked; no sun), what would the equilibrium temperature be? Would this be comfortable (put in context)? 

@@ -95,7 +95,7 @@ Eq. 3.2 is the form that was used to conclude that increasing from 7 to 8 Gppl t
 
 
 Year Population Time Rate Doubling  
-1804 1 Gppl -- 0.4% 170  
+1804 1 Gppl -0.4% 170  
 1927 2 Gppl 123 0.8% 85  
 1960 3 Gppl 33 1.9% 37  
 1974 4 Gppl 14 1.9% 37  
@@ -132,7 +132,7 @@ We have just described a form of negative feedback: corrective action to remedy 
 Definition 3.2.1 
 **Negative feedback** simply means that a correction is applied in a direction opposite the recent motion. If a pendulum moves to the right, a restoring force pushes it back to the left, while moving too far to the left results in a rightward push. A mass oscillating on a spring demonstrates similar characteristics, as must all equilibrium phenomena. 
 
-(The word negative may sound like something we would not want, but its cousin- positive feedback-leads to disastrous run-away conditions. An example of positive feedback is the bacteria example from Chapter 1: having more bacteria only increases the rate of growth. Exponentials are the hallmark of positive feedback, while equilibrium signals negative feedback.)
+(The word negative may sound like something we would not want, but its cousinpositive feedback-leads to disastrous run-away conditions. An example of positive feedback is the bacteria example from Chapter 1: having more bacteria only increases the rate of growth. Exponentials are the hallmark of positive feedback, while equilibrium signals negative feedback.)
 
 We can make a simple model for how a population might evolve in an environment hosting negative feedback. When a population is small and resources are abundant, the birth rate is proportional to the population. 
 
@@ -221,7 +221,7 @@ Continuing the deer scenario, let's say the forest can ultimately support 840 ad
 
 The logistic curve is the dream scenario: no drama. The population simply approaches its ultimate value smoothly, in a tidy manner. We might imagine or hope that human population follows a similar path. Maybe the fact that we've hit a linear phase-consistently adding one billion people every 12 years, lately-is a sign that we are at the inflection, and will start rolling over toward a stable endpoint. If so, we know from the logistic curve that the linear part is halfway to the final population.+++(5)+++ 
 
-Three consecutive 12-year intervals appear in Table 3.2. If the middle one is the mid- point of a logistic linear phase-in 2011 at 7 billion people it would suggest an ulti- mate population of 14 billion.
+Three consecutive 12-year intervals appear in Table 3.2. If the middle one is the midpoint of a logistic linear phase-in 2011 at 7 billion people it would suggest an ultimate population of 14 billion.
 
 ### 3.2.1 Overshoot 
 
@@ -309,7 +309,7 @@ Birth rate, typically expressed in births per 1,000 people per year, minus death
 
 {{< figure src="../images/population-growth-rate.png" title="" class="thumbnail">}}
 
-Figure 3.10: Net population rate, in per- cent, as a function of per-capita GDP. A clear trend shows wealthier countries hav- ing lower growth rates. A win-win solution would seem to present itself, in which every- one arrives at the lower right-hand side of this graph: more money for all and a stable population! Dot size (area) is proportional to population [^r6], [^r8], [^r19], [^r20]. 
+Figure 3.10: Net population rate, in percent, as a function of per-capita GDP. A clear trend shows wealthier countries having lower growth rates. A win-win solution would seem to present itself, in which everyone arrives at the lower right-hand side of this graph: more money for all and a stable population! Dot size (area) is proportional to population [^r6], [^r8], [^r19], [^r20]. 
 
 <details><summary>Example 3.3.1 (द्रष्टुं नोद्यम्)</summary>
  
@@ -354,7 +354,7 @@ In order to accomplish this goal, reduced death rates are facilitated by introdu
 
 [^22]: One may justifiably question whether this is the "correct" goal. 
 
-Figure 3.11 hints at the narrative. Countries are spread into an arc, one segment occupying a band between 5-10 deaths per 1,000 people per year and birth rates lower than 20 per 1,000 people per year. Another set of countries (many of which are in Africa) have birth rates above 20 per 1,000 per year, but also show higher death rates. The narrative₤20- arc is that a country may start near Lesotho, at high death and birth rates, then migrate over toward Nigeria as death rates fall (and birth rates experience a temporary surge). Next both death and birth rates fall and run through a progression toward Pakistan, India, the U.S., and finally the European steady state. Figure 3.12 schematically illustrates the typical journey. 
+Figure 3.11 hints at the narrative. Countries are spread into an arc, one segment occupying a band between 5-10 deaths per 1,000 people per year and birth rates lower than 20 per 1,000 people per year. Another set of countries (many of which are in Africa) have birth rates above 20 per 1,000 per year, but also show higher death rates. The narrative₤20arc is that a country may start near Lesotho, at high death and birth rates, then migrate over toward Nigeria as death rates fall (and birth rates experience a temporary surge). Next both death and birth rates fall and run through a progression toward Pakistan, India, the U.S., and finally the European steady state. Figure 3.12 schematically illustrates the typical journey. 
 
 {{< figure src="../images/transition-to-birth-death-balance.png" title="" class="thumbnail">}}
 
@@ -379,7 +379,7 @@ But let us cast population rates in different countries in a new light. Referrin
 
 {{< figure src="../images/population-growth-mil_world-map.png" title="" class="thumbnail">}}
 
-Figure 3.14: Absolute population growth rate by country: how many millions of peo- ple are added per year (birth rate minus death rate times population) [^r8], [^r19], [^r20].
+Figure 3.14: Absolute population growth rate by country: how many millions of people are added per year (birth rate minus death rate times population) [^r8], [^r19], [^r20].
 
 Figure 3.14 multiplies the net rate by population to see which countries contribute the most net new people to the planet each year, and Table 3.3 lists the top ten. Africa no longer appears to be the most worrisome region in this light.[^24] India is the largest people-producing country at present, adding almost 18 million per year. 
 
@@ -431,7 +431,7 @@ Figure 3.15: Graphical representation of Table 3.4, for all countries. Dots, who
 
 Table 3.4 indicates how rapidly the top ten countries are creating energy demand (as a proxy to resource demands in general) based on population growth alone. Figure 3.15 provides a graphical perspective of the same (for all countries). For reference, one gigawatt (GW) is the equivalent of a large-scale nuclear or coal-fired power plant. So China, the U.S., and India each add the equivalent of 10-20 such plants per year just to satisfy the demand created by population growth.[^28] 
 
-[^28]: This does not even consider rising stan- dards placing additional burdens. 
+[^28]: This does not even consider rising standards placing additional burdens. 
 
 The last column in Table 3.4 is the per-citizen cost, meaning, for instance that each person in the U.S. adds about 50 Watts per year of energy demand via the country's net population growth rate.[^29] In this sense, the last column is a sort of "personal contribution" an individual makes to the world's resource demands via net population rates and consumption rates in their society. Those having high scores should think twice about assigning blame externally, and should perhaps tend to their own house, as the saying goes. 
 
@@ -444,7 +444,7 @@ The last column in Table 3.4 is the per-citizen cost, meaning, for instance that
 | Oceania    | 0.5            | 0.5               | 5,400                | 1.5                      | 49.5                        |   |   |   |   |
 | Europe     | 9.7            | -0.1              | 4,900                | -0.3                     | -0.6                        |   |   |   |   |
 
-Table 3.5: Population pressures from re- gions of the world, ranked by added power demand. Some of the columns are ex- pressed as percentages of the total. The bottom row has totals in millions of people or total GW in place of percentages. [^r7], [^r8], [^r19], [^r20]
+Table 3.5: Population pressures from regions of the world, ranked by added power demand. Some of the columns are expressed as percentages of the total. The bottom row has totals in millions of people or total GW in place of percentages. [^r7], [^r8], [^r19], [^r20]
 
 
 Before departing this section, let us look at continent-scale regions rather than individual countries in terms of adding people and resource demands. Table 3.5 echoes similar information to that in Table 3.4, in modified form. What we learn from this table is that Asia's demands are commensurate with their already-dominant population; North America creates the next largest pressure despite a much smaller population; 
@@ -455,7 +455,7 @@ Before departing this section, let us look at continent-scale regions rather tha
 
 [[44]] 
 
-Africa is significant in terms of population growth, but constitutes only 10% of resource pressure at present. Finally, Europe holds 10% of the globe's people but lays no claim on added resources via pop- ulation growth, resembling the target end-state of the demographic transition.[^30] 
+Africa is significant in terms of population growth, but constitutes only 10% of resource pressure at present. Finally, Europe holds 10% of the globe's people but lays no claim on added resources via population growth, resembling the target end-state of the demographic transition.[^30] 
 
 [^30]: Note that European countries are nervous about their decline in a growing, competitive world.
 
@@ -470,7 +470,7 @@ A final point relates to the trajectory depicted in Figure 3.12 for demographic 
 The amount of growth in the surge turns out to be proportional to the exponential of the area between the curves. For this trapezoid cartoon, the area is just the base (τ) times the height (rate difference), so that the population increase looks like $e^{(
 r_1-r_2)τ}$, where r1 is the initial rate per year and r2 is the final rate. The actual curves may take any number of forms, but the key point is that delayed onset of birth rate decrease introduces a population surge, and that magnitude of the surge grows as the area between the curves increases. 
 
-Note in the cartoon example of Figure 3.16, the area between the curves is only dependent on the rate difference (height) and the delay, τ. The time it takes to complete the transition, T, is irrelevant, as the area of the parallelogram is just the base times the height. Thus the population surge as- sociated with a demographic transition is primarily sensitive to the rate difference and the delay until birth rate begins to decline.
+Note in the cartoon example of Figure 3.16, the area between the curves is only dependent on the rate difference (height) and the delay, τ. The time it takes to complete the transition, T, is irrelevant, as the area of the parallelogram is just the base times the height. Thus the population surge associated with a demographic transition is primarily sensitive to the rate difference and the delay until birth rate begins to decline.
 
 <details><summary>Example 3.3.2 (द्रष्टुं नोद्यम्)</summary>
  
@@ -506,12 +506,12 @@ The drive to realize a global demographic transition is strong, for the obvious 
 
 Some of the decisions we make that translate into impact on our physical world are deeply personal and very difficult to address. No one wants to be told what they should eat, how often they should shower, or what temperature they should keep their dwelling. But the touchiest of all can be reproduction. It can be tricky to discuss population concerns with someone who has kids. Even if not intentional, it is too easy for the topic to be perceived as a personal attack on their own choices. And we're not talking about choices like what color socks to wear. Children are beloved by (most) parents, so the insinuation that having children is bad or damaging quickly gets tangled into a sense that their "angel" is being attacked-as is their "selfish" decision to have kids (see Box 3.2). The disconnect can be worse the larger the number of kids someone has. Couples having two kids take some solace in that they are exercising net-zero "replacement." 
 
-(Having two kids is not a strict replacement, in that parents and children overlap (double- occupancy) on Earth. But the practice is at least consistent with a steady state.)
+(Having two kids is not a strict replacement, in that parents and children overlap (doubleoccupancy) on Earth. But the practice is at least consistent with a steady state.)
 
 
 One common side-step is to focus attention on the high birthrates in other countries, so that the perceived fault lies elsewhere. As pointed out above, if stress on the planet-and living within our means-is what concerns us, undeveloped countries are not putting as much pressure on global resources as many of the more affluent countries are. So while pointing elsewhere offers a bit of a relief, and is a very natural tendency, it does not get the whole picture. 
 
-The overall point is to be aware of the sensitive nature of this topic when discussing with others. Making someone feel bad about their choices- even if unintentionally-might in rare cases result in an appreciation and greater awareness. But it is more likely to alienate a person from an otherwise valuable perspective on the challenges we face. 
+The overall point is to be aware of the sensitive nature of this topic when discussing with others. Making someone feel bad about their choiceseven if unintentionally-might in rare cases result in an appreciation and greater awareness. But it is more likely to alienate a person from an otherwise valuable perspective on the challenges we face. 
 
 
 <details><summary>Box 3.2: Which is More Selfish? (द्रष्टुं नोद्यम्)</summary>
@@ -583,7 +583,7 @@ A common knee-jerk reaction to a statement that we would be better off with a sm
 
 followed the same population curve, what would our global power demand be today, in TW? How does this compare to the actual 18 TW we use today? 
 
-2. Notice that on logarithmic plots,[^34] factors of ten on the logarithmic axis span the same distance. This applies for any numerical factor- not just ten.[^35] Shorter (minor) tick marks between labeled (major) ticks multiply the preceding tick label by 2, 3, 4, 5, 6, 7, 8, 9. The graphic below illustrates the constant distance property for a factor of two.[^36] Now try a different multiplier (not 2 or 10), measuring the distance between tick marks, and report/draw how you graphically verified that your numerical factor spans the same distance no matter where you "slide" it on the axis. 
+2. Notice that on logarithmic plots,[^34] factors of ten on the logarithmic axis span the same distance. This applies for any numerical factornot just ten.[^35] Shorter (minor) tick marks between labeled (major) ticks multiply the preceding tick label by 2, 3, 4, 5, 6, 7, 8, 9. The graphic below illustrates the constant distance property for a factor of two.[^36] Now try a different multiplier (not 2 or 10), measuring the distance between tick marks, and report/draw how you graphically verified that your numerical factor spans the same distance no matter where you "slide" it on the axis. 
 
 Hint: It is perfectly acceptable to hold a (preferably transparent) straight-edge up to a graph! 
 
@@ -713,7 +713,7 @@ Show work and add one more decimal place to the answer as a way to validate that
 
 and Figure 3.14 look so different, in terms of which countries are shaded most darkly? 
 
-16. Table 3.4 indicates which countries place the highest population- driven new demand on global resources using energy as a proxy. Which countries can American citizens regard as contributing more total resource demand? At the individual citizen-contribution level, what other citizens can Americans identify as being responsible for a greater demand on resources via population growth? 
+16. Table 3.4 indicates which countries place the highest populationdriven new demand on global resources using energy as a proxy. Which countries can American citizens regard as contributing more total resource demand? At the individual citizen-contribution level, what other citizens can Americans identify as being responsible for a greater demand on resources via population growth? 
 
 17. The last two columns in Table 3.4 were computed for this book from available information on population, birth and death rates, and annual energy usage for each country (as represented in the first four columns; references in the caption). Use logical reasoning to replicate the calculation that produces the last two columns from the others and report how the computation goes, using an example from the table. 
 
@@ -727,13 +727,13 @@ and Figure 3.14 look so different, in terms of which countries are shaded most d
 
 51 
 
-The point is that the U.S. is a major con- tributor to increased resource demand via population growth. 
+The point is that the U.S. is a major contributor to increased resource demand via population growth. 
 
 Careful about 106 factors and GW = 109 W. 
 
-Some students may see this as free/easy points, but consider the value in internaliz- ing the associated information. 
+Some students may see this as free/easy points, but consider the value in internalizing the associated information. 
 
-For instance, Oceania has a ratio of 1.0 for population growth (0.5% of popula- tion growth and 0.5% of global population), meaning it is not over- or under-producing relative to global norms. But in terms of power, it is 3 times the global expectation (1.5 divided by 0.5). 
+For instance, Oceania has a ratio of 1.0 for population growth (0.5% of population growth and 0.5% of global population), meaning it is not overor under-producing relative to global norms. But in terms of power, it is 3 times the global expectation (1.5 divided by 0.5). 
 
 
 
@@ -841,7 +841,7 @@ death rate
 
 43 
 
-23. Referring to the figures for Problem 22 (and described within the same problem), which pair13 corresponds to the largest popula- tion surge, and which pair produces the smallest? Explain your reasoning, consistent with the presentation in the text. 
+23. Referring to the figures for Problem 22 (and described within the same problem), which pair13 corresponds to the largest population surge, and which pair produces the smallest? Explain your reasoning, consistent with the presentation in the text. 
 
 24. Referring to the figures for Problem 22 (and described within the same problem), which pair44 is most similar to the actual trajectory we witness (i.e., Figure 3.11), and what does this say about the 
 
