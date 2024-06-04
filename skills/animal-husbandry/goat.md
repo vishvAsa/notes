@@ -36,3 +36,12 @@ Sheep eat grass by bending down. Goats prefer upright or high food.
 
 ## Shed
 - Elevated (5ft) grilled metal floor design - [TN](https://www.youtube.com/watch?v=Lax-XIQIelY). No walls.
+
+## Wild rearing
+### Fixed plot
+12 acres wild growth gives 360 goats / year or 1 per day. At 10kg per goat, and 1 kg per person, suffices for ~10 people.
+
+### Nomadic herding 
+Tougher during summers - grass is harder to find.  
+
+2024: Goatherds camp out with goats for month at a stretch; women stay back at base-camp and supply ration weekly by motorbike etc..
