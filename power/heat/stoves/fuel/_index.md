@@ -50,6 +50,7 @@ unicode_script = "devanagari"
   - Dead plants and algae got buried under the layers of mud, unable to biodegrade or oxidise. The low oxygen environment causes anaerobic bacteria to start decomposing the matter, and converting it into peat.
   - Deeply buried (we’re talking at least 4 km of depth) the layer of peat eventually starts to transform into lignite, which is the coal of the lowest quality. As this process continues and pressure and temperature increase, higher quality coals form.
 - Charcoal is carbon that is left after water and other volatile compounds are burnt off from wood (or any combustible biomass) in a low oxygen environment. This process known as pyrolysis is usually done in silos or specialised charcoal kiln and can take days to complete.
+  - There is deforestation risk.
 - This process results in a much more energy dense fuel, charcoal, that is around a quarter of original weight.
 
 ## Butane LPG
