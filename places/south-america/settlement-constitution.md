@@ -11,7 +11,7 @@ title = "Settlement constitution"
 
 The population/ resource density difference is stark.
 
-The alternative is to convince dvija-s to transition to Indian villages soon and prepare (also being encouraged). When famine hits, they'll be in a worse (though not hopeless) position relative to new-worlders - lands and harvest snatched, jihadists and bandits etc.. 
+The alternative is to convince dvija-s to transition to Indian villages soon and prepare (also being [encouraged](https://https://t.me/+aZpV3KvbSj1iZDUx)). When famine hits, they'll be in a worse (though not hopeless) position relative to new-worlders - lands and harvest snatched, jihadists and bandits etc.. 
 
 ## ध्येयम् Objective
 - Weather the coming collapse of industrial civilization (explained in background) by returning closer to nature
@@ -30,3 +30,6 @@ The alternative is to convince dvija-s to transition to Indian villages soon and
 - Cohesion to the extant possible
   - Lingua franca - sanskrit (founders are fluent in it.) Easy to learn by immersion within a few days.
 - Location - being considered [elsewhere](../settlement-prospects).
+
+## Contact
+- [Telegram](https://t.me/+yp-oEsb8QuViZGUx)
