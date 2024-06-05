@@ -25,8 +25,8 @@ The alternative is to convince dvija-s to transition to Indian villages soon and
 ## मार्गः 
 - Preferably good founder size - going for 500 families. If too short, local converts might be around. There are also nearby countries (eg. suriname) with decent H population.
 - Family is the main organizational unit.
-- Cohesion to the extant possible
-  - Lingua franca - sanskrit (founders are fluent in it.) Easy to learn by immersion within a few days.
 - Investment of time and money in rustic life (eg. ranches) even while working "modern" jobs if needed.
 - Be habitually armed.
+- Cohesion to the extant possible
+  - Lingua franca - sanskrit (founders are fluent in it.) Easy to learn by immersion within a few days.
 - Location - being considered [elsewhere](../settlement-prospects).
