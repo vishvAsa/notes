@@ -1,12 +1,10 @@
 +++
-title = "Colonization prospects"
+title = "Settlement prospects"
 +++
 
 ## Intro
-- Latin America - low population density, plenty land+water.  
-- India- dense population. Famine + war looming post-oil-collapse (150 yrs).  
-- Locals look like us - so less conflict (though it will be there).
-- Preserve H culture there with an agrarian colony.
+See intro section in [settlement-constitution](../settlement-constitution)
+
 
 ## General references
 
@@ -28,7 +26,7 @@ Source: [TW](https://climateknowledgeportal.worldbank.org/country/guyana/vulnera
 Also Indo-Guyanese have just recently undergone ethnic cleansing. Source: [TW](https://drive.google.com/file/d/1AvCJLeb2LtNqzIJ6PhexXEmrZcSBFv39/view?usp=sharing)
 
 #### Resource-richness
-
+World power vying to destabilize and control.
 
 ## Suriname
 Highly diverse, poor but rich in natural resources, somewhat high crime rates due to cartels.
@@ -38,5 +36,12 @@ Highly diverse, poor but rich in natural resources, somewhat high crime rates du
 ### Migration tips
 
 HindI: [TW](https://youtube.com/watch?v=3JSnw2XK3Aw)
- 
 
+
+## Uruguay
+Most developed in South America.
+
+## Argentina
+- High inflation and poverty. Low fertility.
+- Powerful visa.
+- 300 sikhs there.
