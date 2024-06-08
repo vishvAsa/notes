@@ -1,6 +1,19 @@
 +++
-title = "Reckoning forecast 22"
+title = "Reckoning forecasts"
 +++
+
+## 2024
+Source: [TW](https://x.com/blog_supplement/status/1798200422521602472)
+
+While H might engage in deep psephological dissections or tamAshA, without an iota of civilizational consideration the landscape leading to the nirNaya is going to get tighter for them to maneuver: 
+
+1. the lAteshvara will have less space for fostering suitable successors for a seamless transition. 
+2. In a sense the lATapati has faced a set back similar to the nonagenarian he replaced. 
+3. The mahAnt-jI will probably not recover to be in contention for the succession. 
+4. The revived paTTa-roga will probably be the big anti-H flare up. If the laTa cannot deal firmly with them as he distracted by the need of holding on to the andhra & magadha to stay afloat that will take further sheen of him & the puShkara. 
+5. Without a good successor the famed Indian democracy will run its course in the next round paving the way for those who will open the way for the nirNaya. Thus, even as the H are engaging in delicate & nuanced debates on governance, hypocrisy of those in power, mullAvAda, metrics comparing term 3 to the new dispensation, street veto etc, the nirNaya will come on them...
+
+## 2022
 
 Source: [TW](https://threadreaderapp.com/thread/1564462117859778565.html)
 
