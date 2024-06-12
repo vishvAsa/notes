@@ -2,15 +2,34 @@
 title = "14 Biological Energy"
 
 +++
-The renewable energy options discussed thus far have been rather different from the chemically-stored thermal energy provided by fossil fuels. These sources-hydroelectricity, wind, and solar-are good at making electricity, but are intermittent to various degrees and are not directly suitable for transportation, except via bulky batteries.
+The renewable energy options discussed thus far have been rather different from the chemically-stored thermal energy provided by fossil fuels.  
+These sources-hydroelectricity, wind, and solar-are good at making electricity,  
+but are intermittent to various degrees and are not directly suitable for transportation, except via bulky batteries.
 
-Biologically-based energy is more similar to fossil fuels in that it is a form of chemical energy burned to create thermal energy. We will focus on two major forms: solid biomass and liquid biofuels. The latter is well-suited to transportation: one of the few renewable energies that can make this claim. In some cases, the same plant can produce either food or bio-energy-depending on whether it is eaten by another biological form or by a machine.
+Biologically-based energy is more similar to fossil fuels  
+in that it is a form of chemical energy burned to create thermal energy.  
+We will focus on two major forms: solid biomass and liquid biofuels.  
+The latter is well-suited to transportation:  
+one of the few renewable energies that can make this claim.  
+In some cases, the same plant can produce either food  
+or bio-energy-depending on whether it is eaten by another biological form or by a machine.+++(5)+++
 
-Ultimately, biologically-based energy is a form of solar energy, creating chemical storage by means of photosynthesis. Fossil fuels are also an ancient form of biofuel, deriving from photosynthetic energy captured millions of years ago. So sunlight is the actual energy source, and photosynthesis is the mechanism by which the energy is stored in chemical form.
+Ultimately, biologically-based energy is a form of solar energy,  
+creating chemical storage by means of photosynthesis.  
+Fossil fuels are also an ancient form of biofuel,  
+deriving from photosynthetic energy captured millions of years ago.  
+So sunlight is the actual energy source, and photosynthesis is the mechanism by which the energy is stored in chemical form.
 
 
 ## 14.1 Photosynthesis
-This textbook will not focus on the complex mechanisms responsible for photosynthesis, but rather will describe the net result and efficiency. Photosynthesis involves the absorption of individual solar photons that ultimately facilitate the movement of electrons in order to change bonding structures, forming sugars, cellulose, and other materials used to construct a plant. The fundamental chemical reaction is depicted in Figure 14.1 and represented as a formula in Eq. 14.1, in which the product is a basic unit of a larger sugar molecule, like glucose (C6H12O6).
+This textbook will not focus on the complex mechanisms responsible for photosynthesis,  
+but rather will describe the net result and efficiency.  
+Photosynthesis involves the absorption of individual solar photons  
+that ultimately facilitate the movement of electrons  
+in order to change bonding structures, forming sugars, cellulose, and other materials used to construct a plant.  
+The fundamental chemical reaction is depicted in Figure 14.1  
+and represented as a formula in Eq. 14.1,  
+in which the product is a basic unit of a larger sugar molecule, like glucose (C6H12O6).
 
 CO2 + H2O + light → CH2O + O2 (14.1)
 
@@ -35,7 +54,14 @@ Plant matter contains substantial carbon content,[^2] and we now connect the kno
 [^2]: ... which we combust when burning wood
 </details>
 
-In terms of efficiency, plants tend to convert sunlight into stored chemical energy at a rate of 0.01-6%. The range is rather large due to limitations in water and nutrients. A well-watered and fertilized corn field might reach 1.5% efficiency. Algae tend to top the charts at 5-6%. Dry climates might have ample sunlight, but too little water for efficient use of the available light. Box 14.2 provides an example of how one might estimate what fraction of incident solar energy is turned into chemical storage by a potato plant.
+In terms of efficiency,  
+plants tend to convert sunlight into stored chemical energy at a rate of 0.01-6%.  
+The range is rather large due to limitations in water and nutrients.  
+A well-watered and fertilized corn field might reach 1.5% efficiency.+++(5)+++  
+Algae tend to top the charts at 5-6%.+++(5)+++  
+Dry climates might have ample sunlight,  
+but too little water for efficient use of the available light.  
+Box 14.2 provides an example of how one might estimate what fraction of incident solar energy is turned into chemical storage by a potato plant.
 
 <details><summary>Box 14.2: Example Photosynthetic Efficiency</summary>
 
@@ -59,7 +85,12 @@ Figure 14.2: The potato plant in Box 14.2.
 229
 
 ## 14.2 Biomass
-Biological mass, or biomass, has long been utilized to supplement our energy needs, via controlled use of fire starting hundreds of thousands of years ago. Burning wood or other plant matter, and in some places dried animal feces[^6] counts as utilization of biomass. Wood provides about 4 kcal of energy per gram when burned, or about 16 MJ/kg-much like proteins or carbohydrates[^7] in our diet. Burning of biomass is most typically used for heating and cooking within individual homes.
+Biological mass, or biomass, has long been utilized to supplement our energy needs, via controlled use of fire starting hundreds of thousands of years ago.  
+Burning wood or other plant matter,  
+and in some places dried animal feces[^6] counts as utilization of biomass.  
+Wood provides about 4 kcal of energy per gram when burned,  
+or about 16 MJ/kg-much like proteins or carbohydrates[^7] in our diet.+++(5)+++  
+Burning of biomass is most typically used for heating and cooking within individual homes.
 
 
 [^6]: such as cow dung
@@ -80,10 +111,16 @@ In the U.S. in 2018, 2.36 qBtu of the 101.25 qBtu total came from burning wood, 
 
 [^9]: ... while 23% was hydro; 22% was wind; 20% were biofuels, 8% was solar, and 2% was geothermal; see Table 10.3 (p. 170)
 
-Globally, biomass use is estimated to be more important, at 6%,[^10] constituting more than a third of global renewable resources (Fig. 7.8; p. 109). The high use of biomass in the wider world is a reflection on the difference between developed countries like the U.S. and developing countries that are more likely to rely on more primitive forms of energy like firewood and animal dung. Since most biomass around the world is burned for individual use, emissions controls are essentially non-existent, resulting in high levels of pollution-smoke and harmful chemicals that would be scrubbed out of a power plant's exhaust.[^11]
+Globally, biomass use is estimated to be more important, at 6%,[^10] constituting more than a third of global renewable resources (Fig. 7.8; p. 109). The high use of biomass in the wider world is a reflection on the difference between developed countries like the U.S. and developing countries that are more likely to rely on more primitive forms of energy like firewood and animal dung.  
+Since most biomass around the world is burned for individual use,  
+emissions controls are essentially non-existent,  
+resulting in high levels of pollution-  
+smoke and harmful chemicals  
+that would be scrubbed out of a power plant's exhaust.[^11]
 
 
 [^10]: ... down considerably from ~25% in 1950
+
 [^11]: Note that CO2 is common to both, and is not scrubbed out of power plant exhaust, comprising the bulk of the emissions.
 
 <details><summary>Box 14.3: Life is Thin and Precious</summary>
@@ -104,7 +141,15 @@ Can you imagine burning through all of Earth's forests and animals in 15 years?+
 230
 
 ## 14.3 Biofuels
-Biofuels deserve their own category because the origins and end uses are different enough to warrant distinction. While the biomass sources from Section 14.2 tend to be in solid form, biofuels as treated here are liquid. Liquid fuels are instantly a big deal because they have the energy density and versatility to be used in transportation applications. An airplane can't very well fly on firewood, hydroelectricity, solar, wind, ocean currents, geothermal, or nuclear energy.[^13] matter. Biofuels therefore occupy a special place in the pantheon of renewable resources as the most obvious viable replacement for petroleum-the dominant fossil fuel responsible for 92%[^14] of transportation in the U.S.
+Biofuels deserve their own category  
+because the origins and end uses are different enough to warrant distinction.  
+While the biomass sources from Section 14.2 tend to be in solid form,  
+biofuels as treated here are liquid.  
+Liquid fuels are instantly a big deal  
+because they have the energy density and versatility  
+to be used in transportation applications.  
+An airplane can't very well fly on firewood, hydroelectricity, solar, wind, ocean currents, geothermal, or nuclear energy.[^13] matter.  
+Biofuels therefore occupy a special place in the pantheon of renewable resources as the most obvious viable replacement for petroleum-the dominant fossil fuel responsible for 92%[^14] of transportation in the U.S.
 
 [^13]: See, for instance, Box 13.3 (p. 212) and Box 17.1 (p. 290).
 
@@ -114,7 +159,8 @@ In the U.S. in 2018, 2.28 qBtu (2.3%; 0.08 TW) came from biofuels [^34], which i
 
 [^34]: U.S. Energy Inform. Administration (2011), Annual Energy Review
 
-Most prominently, ethanol is the chief biofuel, accounting for about 80% of the total. It is an alcohol that can be produced by fermenting the photosynthetically-produced sugars in the plant and then distilling the result.[^15] Structurally, ethanol is very similar to ethane[^16] except that the terminating hydrogen on one end of the chain is replaced by a hydroxyl group (OH; shown in Figure 14.3).
+Most prominently, ethanol is the chief biofuel, accounting for about 80% of the total.  
+It is an alcohol that can be produced by fermenting the photosynthetically-produced sugars in the plant and then distilling the result.[^15] Structurally, ethanol is very similar to ethane[^16] except that the terminating hydrogen on one end of the chain is replaced by a hydroxyl group (OH; shown in Figure 14.3).
 
 [^15]:...also how "moonshine" alcohol is made
 
@@ -140,7 +186,9 @@ Generally speaking, biofuels-and other forms of biomass-are often considered to 
 
 Most of the ethanol in the U.S. is blended into gasoline into E10, E15, or E85 products meaning 10%, 15%, or 85% ethanol. Not all vehicles are equipped to handle the more corrosive ethanol, and those that are ("flex-fuel" vehicles) might expect lower energy performance due to the fact that ethanol has lower energy density than gasoline.
 
-Both the lower energy density and lower carbon mass per input fuel mass can be attributed to the oxygen atom hosted by the ethanol molecule.[^19] Ethanol can derive from a number of plants. In the U.S., corn is the most common feedstock. Brazil uses sugar cane, which requires tropical climates.
+Both the lower energy density and lower carbon mass per input fuel mass can be attributed to the oxygen atom hosted by the ethanol molecule.[^19] Ethanol can derive from a number of plants.  
+In the U.S., corn is the most common feedstock.  
+Brazil uses sugar cane, which requires tropical climates.+++(5)+++
 
 [[231]]
 
@@ -150,11 +198,16 @@ Both the lower energy density and lower carbon mass per input fuel mass can be a
 Before going further, we introduce a crucial metric for evaluating the merit of any energy source: the EROEI.
 
 Definition 14.3.1  
-EROEI, or Energy Returned on Energy Invested, is a measure of how profitable an energy source is in terms of energy, expressed as a ratio. For instance, a 9:1 EROEI means 9 units were extracted or produced for an investment of 1 unit, leaving a net gain of 8 units of energy. 1:1 is break-even, deriving no net energy benefit.
+EROEI, or Energy Returned on Energy Invested, is a measure of how profitable an energy source is in terms of energy, expressed as a ratio.  
+For instance, a 9:1 EROEI means 9 units were extracted or produced for an investment of 1 unit, leaving a net gain of 8 units of energy. 1:1 is break-even, deriving no net energy benefit.
 
 EROEI (sometimes just EROI) is one level above efficiency. Efficiency asks how much of a source is converted into a form useful to us. EROEI asks about what went into obtaining that source in the first place. It's still an efficiency, of sorts. Maybe a pre-efficiency.
 
-By and large, energy does not come for free. Oil has to be actively drilled; hydroelectricity requires construction of a dam; solar panels are fabricated in an industrial process requiring energy input. So the question is: how much energy do we get out compared to the amount we had to put in? If we extract less energy than we invest, we lose net energy and probably should not bother.[^20] If we only get a little more out, we still may question the investment.
+By and large, energy does not come for free.  
+Oil has to be actively drilled; hydroelectricity requires construction of a dam;  
+solar panels are fabricated in an industrial process requiring energy input.  
+So the question is: how much energy do we get out compared to the amount we had to put in?  
+If we extract less energy than we invest, we lose net energy and probably should not bother.[^20] If we only get a little more out, we still may question the investment.
 
 [^20]: In some cases, it may still make sense to pursue EROEI < 1 resources if the resulting form is otherwise hard to obtain, like food energy. As another example, we might use coal to process biofuels, in effect converting a less useful solid to a more useful liquid, even if losing energy in the process. But such desperate measures will not be favored if alternatives exist.
 
@@ -165,7 +218,9 @@ Let's say an oil drilling operation uses petroleum products (like gasoline) as i
 In this case, we just have to arrange output to input as 12,000:800, and reduce to 15:1.
 </details>
 
-Early oil wells were shallow and under pressure, producing "gushers" that exceeded 100:1 in EROEI. To understand what this means, imagine using oil as the energy source for the original exploration, building the equipment, running the drill, and collecting/storing the product. An EROEI of 100:1 means that for every barrel of oil that goes into the process, 100 barrels come out. That's a good deal. A high EROEI means nearly "free" energy: low effort for high reward.
+Early oil wells were shallow and under pressure,  
+producing "gushers" that exceeded 100:1 in EROEI.  
+To understand what this means, imagine using oil as the energy source for the original exploration, building the equipment, running the drill, and collecting/storing the product. An EROEI of 100:1 means that for every barrel of oil that goes into the process, 100 barrels come out. That's a good deal. A high EROEI means nearly "free" energy: low effort for high reward.
 
 
 
@@ -273,9 +328,19 @@ biodiesel 1.3
 corn ethanol 0.8-1.6  
 algae-derived 0.13-0.71  
 
-To explore an example of how this all plays out, let's say that corn ethanol provides an EROEI of 1.2:1-in the middle of the estimated range. This means that in order to get 1.2 units of energy out, one unit has to go in. Or for every 6 units out, 5 go in. If we use that same resource as the energy input-in other words, we use corn ethanol as the energy input to grow, harvest, distill, and distribute corn ethanol-then we get to "keep" one unit for external use out of every 6 units produced. For the U.S. to replace its 37 qBtu/yr oil habit with corn ethanol, it would take six times this much, or 220 qBtu (2.3 x $10^{20}$ J) of corn ethanol production each year.
+To explore an example of how this all plays out,  
+let's say that corn ethanol provides an EROEI of 1.2:1-in the middle of the estimated range.  
+This means that in order to get 1.2 units of energy out, one unit has to go in. Or for every 6 units out, 5 go in.  
+If we use that same resource as the energy input-in other words, we use corn ethanol as the energy input to grow, harvest, distill, and distribute corn ethanol-then we get to "keep" one unit for external use out of every 6 units produced.  
+For the U.S. to replace its 37 qBtu/yr oil habit with corn ethanol, it would take six times this much, or 220 qBtu (2.3 x $10^{20}$ J) of corn ethanol production each year.+++(5)+++
 
-If the growing season is 5 months, the solar input is 250 $W/m^2$ on average, and the corn field is 1.5% efficient at turning sunlight into chemical energy, then each square meter of corn-land produces 4.9 x $10^{7}$ J of energy[^28] and we would therefore need about 5 x $10^{12}$ m2 of land for corn. This is an area 2,200 km on a side (Figure 14.4)! The U.S. does not possess this much arable land (estimated at about 30% of this). About 4 x $10^{11}$ m2 of land in the U.S. is currently used for corn production, which is 8% of what would be needed. And of course we must still feed ourselves. In 2018, 31% of U.S. corn production went into ethanol. We would somehow need to ramp corn ethanol production up by a factor of 40 to derive our current liquid fuels from corn in a self-sufficient way. Don't expect to see this fantasy materialize.
+If the growing season is 5 months,  
+the solar input is 250 $W/m^2$ on average,  
+and the corn field is 1.5% efficient at turning sunlight into chemical energy,  
+then each square meter of corn-land produces 4.9 x $10^{7}$ J of energy[^28] and we would therefore need about 5 x $10^{12}$ m2 of land for corn.  
+This is an area 2,200 km on a side (Figure 14.4)!  
+The U.S. does not possess this much arable land (estimated at about 30% of this).  
+About 4 x $10^{11}$ m2 of land in the U.S. is currently used for corn production, which is 8% of what would be needed. And of course we must still feed ourselves. In 2018, 31% of U.S. corn production went into ethanol. We would somehow need to ramp corn ethanol production up by a factor of 40 to derive our current liquid fuels from corn in a self-sufficient way. Don't expect to see this fantasy materialize.
 
 [^28]: 150 days times 86,400 seconds per day times 250 $W/m^2$ times 0.015 gives Joules per square meter produced.
 

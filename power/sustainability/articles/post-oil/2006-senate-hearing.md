@@ -1396,11 +1396,31 @@ economy that was decoupling from oil is well known.
 Gaining independence from foreign oil would not be unique 
 to the United States. I just recently returned from Brazil, which has declared independence from foreign oil. Let me share some insights with you. I got a very instinctive good feeling about carbon capture. As I looked at sugarcane varieties capable of producing 200 (wet) tons per hectare I could imagine the sound of carbon dioxide getting sucked out of the atmosphere.+++(5)+++ 
 
-My estimates of less than 60 million acres required to fuel most of America's cars and light trucks by 2030 started to feel conservative as I saw Brazilian entrepreneurs developing technologies to produce over 3,000 gallons per acre. Imagine what would happen if we let Silicon Valley entrepreneurs and American scientists and technologists innovate in this area. Some fraction of the land used for export crops could replace much of our gasoline needs.+++(5)+++ We must signal to our innovators that this is a long-term, large market, as Brazil has done. 
+My estimates of less than 60 million acres required to fuel most of America's cars and light trucks by 2030 started to feel conservative as I saw Brazilian entrepreneurs developing technologies to produce over 3,000 gallons per acre. 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+we would therefore need about 5 x $10^{12}$ m2 of land for corn.  
+This is an area 2,200 km on a side (Figure 14.4)!  
+The U.S. does not possess this much arable land (estimated at about 30% of this).+++(5)+++
+</details>
+
+
+Imagine what would happen if we let Silicon Valley entrepreneurs and American scientists and technologists innovate in this area. Some fraction of the land used for export crops could replace much of our gasoline needs.+++(5)+++ We must signal to our innovators that this is a long-term, large market, as Brazil has done. 
 
 As I saw bagasse roll off the conveyor belts into heaps of waste for burning, it struck me that because of the preprocessing already done on this waste material it could produce cellulosic ethanol very soon. Even today's semideveloped cellulosic ethanol processes could make economic sense without waiting for full development. Orange peels from Florida and wood chips from our Northwestern forests would be next in line. 
 
-It became clear that America, Brazil, Australia, India, and Africa could each produce enough ethanol to meet their local gasoline replacement needs and then export enough to serve much of the planet. It was surprising to learn that the average wage at Cosan, the largest Brazilian ethanol producer, was many times the average for similar industries in Brazil. Over a million jobs had been created in the ethanol economy in Brazil. Ethanol produces substantially more jobs per dollar invested than oil does. Almost astounding was the claim by some entrepreneurs that they could see technology driving costs well below 50 cents per gallon. 
+
+It became clear that America, Brazil, Australia, India, and Africa could each produce enough ethanol to meet their local gasoline replacement needs and then export enough to serve much of the planet. 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> If we tried to substitute our 18 TW global power demand by burning biological matter,[^12] we would run through all the currently-living mass-land and sea-in a short 15 years!  
+> - Tom Murphy+++(5)+++
+</details>
+
+
+It was surprising to learn that the average wage at Cosan, the largest Brazilian ethanol producer, was many times the average for similar industries in Brazil. Over a million jobs had been created in the ethanol economy in Brazil. Ethanol produces substantially more jobs per dollar invested than oil does. Almost astounding was the claim by some entrepreneurs that they could see technology driving costs well below 50 cents per gallon. 
 
 There is no reason U.S. ethanol production costs won't come down too. The big manufacturers confirmed their ability to produce ethanol at below 75 cents a gallon today. Why are we paying over $3 a gallon for our gasoline? If ethanol supplies run low Brazilian producers can switch production in hours away from sugar to produce more ethanol. Consumers constantly switch back and forth between ethanol and gasoline based on cost and availability. Wouldn't it be nice if consumers here had a choice and were not held hostage by oil companies? 
 
