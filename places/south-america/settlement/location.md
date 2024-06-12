@@ -36,12 +36,14 @@ Argentina's "black disappearance".
 There's a thriving Welsh colony in Patagonia from the late 1800s. 
 
 ### Deciding Factors
+(In decreasing order of priority)
+
 - post-oil prosperity
   - arable land and water per capita
-- current prosperity
 - social cohesion / crime rates; long term stability
-- avg local IQ (if descendents are to mix with locals)
+- avg local IQ (if descendents are to mix with locals); pre-existing hindu settlement
 - diseases - it would be good to avoid tropical disease load in the post-industrial world. eg. filaria ...
+- current prosperity, accessiblity
 - human friendly climate/ altitude
 - expanse of the country - mountains, forests, desert, seas
 
