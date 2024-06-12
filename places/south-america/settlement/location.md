@@ -41,7 +41,8 @@ There's a thriving Welsh colony in Patagonia from the late 1800s.
 - post-oil prosperity
   - arable land and water per capita
 - social cohesion / crime rates; long term stability
-- avg local IQ (if descendents are to mix with locals); pre-existing hindu settlement
+- hindu-philia/misia levels (short and long term)
+- avg local IQ (if descendents are to mix with locals)
 - diseases - it would be good to avoid tropical disease load in the post-industrial world. eg. filaria ...
 - current prosperity, accessiblity
 - human friendly climate/ altitude
