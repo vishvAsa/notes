@@ -35,6 +35,16 @@ Argentina's "black disappearance".
 #### Successes
 There's a thriving Welsh colony in Patagonia from the late 1800s. 
 
+### Deciding Factors
+- post-oil prosperity
+  - arable land and water per capita
+- current prosperity
+- social cohesion / crime rates; long term stability
+- avg local IQ (if descendents are to mix with locals)
+- diseases - it would be good to avoid tropical disease load in the post-industrial world. eg. filaria ...
+- human friendly climate/ altitude
+- expanse of the country - mountains, forests, desert, seas
+
 ### Rjrasva list
 Looking at level of econ development + crime rates + long term stability the following would qualify: Uruguay, Chile, Argentina, Costa Rica, Panama, Brazil, & Peru.
 
