@@ -13,6 +13,16 @@ While H might engage in deep psephological dissections or tamAshA, without an io
 4. The revived paTTa-roga will probably be the big anti-H flare up. If the laTa cannot deal firmly with them as he distracted by the need of holding on to the andhra & magadha to stay afloat that will take further sheen of him & the puShkara. 
 5. Without a good successor the famed Indian democracy will run its course in the next round paving the way for those who will open the way for the nirNaya. Thus, even as the H are engaging in delicate & nuanced debates on governance, hypocrisy of those in power, mullAvAda, metrics comparing term 3 to the new dispensation, street veto etc, the nirNaya will come on them...
 
+Source: [TW](https://x.com/blog_supplement/status/1801074959785107520)
+
+Looking at the geopolitical alignments in the coming year, the lATeshvara's govt will see strong mlechCha support for enemy action on the marUnmatta, pretonmatta and paTTa-roga fronts. Defeat of the "R^iShi" in laNDapura will bring a party with natural sympathy for marUmatta-s. 
+
+The paura-putra or his rivals, mlechCha-karNATa-desha will be a pillar of support for the paTTaka terrorists & drug-runners against bhArata.  
+
+If piNDaka returns to power, as is quite possible, he will aid them too. If in the outside chance nAri~Nga regains power his backers could support to the preta terrorists in the NE as they would see that as a foothold to reach China. 
+
+Together the prediction will be that the marUnmatta attacks in kAshmIra are just the beginning & the lATapati's good track record in this direction will be challenged.
+
 ## 2022
 
 Source: [TW](https://threadreaderapp.com/thread/1564462117859778565.html)
