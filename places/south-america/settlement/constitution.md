@@ -4,7 +4,7 @@ title = "Settlement constitution"
 
 ## पृष्ठभूमिका Background
 - India
-  - dense population. Famine + war looming post-oil-collapse (150 yrs).  
+  - dense population. Famine + war looming post-oil-collapse (150 yrs, +100 if ice methane works).  
 - Latin America 
   - low population density, plenty land+water.  
   - Locals look like us - so less conflict (though it will be there).
@@ -23,7 +23,7 @@ The alternative is to convince dvija-s to transition to Indian villages soon and
 - Pass our values and knowledge to deserving outsiders to the extant they grok it; and maybe collaborate with them.
 
 ## मार्गः 
-- Preferably good founder size - going for 500 families. If too short, local converts might be around. There are also nearby countries (eg. suriname) with decent H population.
+- Good founder size - going for 500 families. This is critical in order to reliably achieve the objectives. Recruitment ideas considered separately.
 - Family is the main organizational unit.
 - Investment of time and money in rustic life (eg. ranches) even while working "modern" jobs if needed.
 - Be habitually armed.
