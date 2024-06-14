@@ -26,7 +26,12 @@ Eg. Vedas.
 #### Metal plates
 Metal plates risk being stolen, melted and reused in a metal-scarce world.
 
-Metal engraving is relatively easy with a CNC machine.
+Metal engraving is relatively easy with a CNC machine. 
+
+#### Metal grammaphone records
+Can even record sound for grammaphone.  
+
+Voyager golden record - copper disk 12 inches (30 cm) in diameter plated first with nickel and then gold. The record's cover is aluminum and electroplated upon it is an ultra-pure sample of the isotope uranium-238.
 
 ### .5-1k yr
 #### Waferfiche
@@ -47,3 +52,13 @@ Archival paper has low acid.
 #### Common paper
 Paper, having acid, degrades over time. 
 
+### .01k yr
+
+#### Shellac records
+Quite brittle.
+
+#### Vinyl records
+Last 100 yrs under good conditions.
+
+## Retrieval/ playback
+Grammaphone doesn't require electricity to play sound. It's relatively easy to construct.
