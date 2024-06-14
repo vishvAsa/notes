@@ -3,7 +3,9 @@ title = "Knowledge preservation"
 +++
 
 ## Post-industrial age
-The post-oil, post-industrial-age world will arrive, with much unrest, by 2160 (or 2260 if ice-methane extraction works out). Lack of fertilizers will lead to famine and a big drop in population. Raw materials like plastics, copper, and lithium too will be rarer. Machines - let alone computers - will be scarce. So, electronic data will be ephemeral.+++(5)+++
+The post-oil, post-industrial-age world will arrive, with much unrest, by 2160 (or 2260 if ice-methane extraction works out). Lack of fertilizers will lead to famine and a big drop in population. Raw materials like plastics, copper, and lithium too will be rarer. Machines - let alone computers - will be scarce. So, electronic data will be ephemeral.+++(5)+++ 
+
+How then to best perserve our knowledge (physical and spiritual) and texts?
 
 ## Media
 
@@ -18,6 +20,8 @@ Stone tablets survive from 3500 BCE.
 
 Is there an automated rock engraver - to engrave given text into a rock slab?? (analogous to CNC on metal https://youtube.com/watch?v=SdSVMygb450 ) Want to preserve important knowledge.
 
+#### Religious oral tradition
+Eg. Vedas.
 
 #### Metal plates
 Metal plates risk being stolen, melted and reused in a metal-scarce world.
