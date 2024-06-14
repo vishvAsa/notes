@@ -3,7 +3,7 @@ title = "Knowledge preservation"
 +++
 
 ## Post-industrial age
-The post-oil, post-industrial-age world will arrive, with much unrest, by 2160 (or 2260 if ice-methane extraction works out). Lack of fertilizers will lead to famine and a big drop in population. Raw materials like plastics, copper, and lithium too will be rarer. Machines - let alone computers - will be scarce. So, electronic data will be ephemeral.+++(5)+++ 
+The post-oil, post-industrial-age world will arrive (details [TM](https://escholarship.org/uc/item/9js5291m)), with much unrest, by 2160 (or 2260 if ice-methane extraction works out). Lack of fertilizers will lead to famine and a big drop in population. Raw materials like plastics, copper, and lithium too will be rarer. Machines - let alone computers - will be scarce. So, electronic data will be ephemeral.+++(5)+++ 
 
 How then to best perserve our knowledge (physical and spiritual) and texts?
 
