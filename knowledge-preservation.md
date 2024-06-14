@@ -31,7 +31,7 @@ Metal engraving is relatively easy with a CNC machine.
 #### Metal grammaphone records
 Can even record sound for grammaphone.  
 
-Voyager golden record - copper disk 12 inches (30 cm) in diameter plated first with nickel and then gold. The record's cover is aluminum and electroplated upon it is an ultra-pure sample of the isotope uranium-238.
+Voyager golden record - copper disk 12 inches (30 cm) in diameter plated first with nickel and then gold. The record's cover is aluminum and electroplated upon it is an ultra-pure sample of the isotope uranium-238. Expected to remain intelligible for more than a billion years in sterile space.
 
 ### .5-1k yr
 #### Waferfiche
