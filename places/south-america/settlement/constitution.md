@@ -28,7 +28,7 @@ The alternative is to convince dvija-s to transition to Indian villages soon and
 - Investment of time and money in rustic life (eg. ranches) even while working "modern" jobs if needed.
 - Be habitually armed.
 - Cohesion to the extant possible
-  - Lingua franca - sanskrit (founders are fluent in it.) Easy to learn by immersion within a few days.
+  - Lingua franca (in formal meets, documents) - sanskrit (founders are fluent in it.) Easy to learn by immersion within a few days. औपचारिकी-भाषा संस्कृतम् एव स्यान् मौखिकम् अपि - यथापेक्षम् अनुवादको नियुज्यताम्। सर्वेषां च संस्कृत-शिक्षणं स्यात्। परिवारस्तरे स्वबलम् अनुसृत्य भाषान्तरम् भवतु नाम।
 - Location - being considered [elsewhere](../settlement-prospects).
 
 ## Contact
