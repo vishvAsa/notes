@@ -7,6 +7,10 @@ The post-oil, post-industrial-age world will arrive (details [TM](https://eschol
 
 How then to best preserve our knowledge (physical and spiritual) and texts?
 
+## Preservation need
+### Texts
+Human brain is limited - so rAmANuja had to trek all the way to kAshmIr to consult bodhAyana-vRtti, deshika had to carry a big trunk of palm leaves to save shruta-prakAshika etc.. Even a text published by so famous a person as uttamUru-svAmI 50 years ago is very hard to find.
+
 ## Media
 
 Lists of oldest surviving documents - [wiki](https://en.wikipedia.org/wiki/List_of_oldest_documents)
