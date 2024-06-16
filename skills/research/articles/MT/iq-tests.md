@@ -56,3 +56,15 @@ As a result it has created an academic ponzi scheme
 that Indian programs are forced to emulate.  
 As a result there are tons of doctors of philosophy  
 who should instead be termed certified technicians.+++(5)+++
+
+Source: [TW](https://x.com/blog_supplement/status/1107101888032501760)
+
+I've seen some twts for exams like SAT/GRE and those against it. Going against the grain I don't think they are good exams at all. While unlike Taleb I do think IQ  and g are real, I don' think those American IQ tests are the best. Instead I think the Indian style exams of our days with multiple days of exams on many different subjects are a better mode of examination for college entrance provided the assessors are good and the exams are set without repetition of the identical problems every other year or so.
+
+
+
+Source: [TW](https://x.com/threadreaderapp/status/1802321177974600016)
+
+I do think the Indian examination system from my days (longtime ago) with multi-day long written tests is better than American style IQ test for college entrance. While the American tests measure ball-park IQ, I they are not really good a clearing chaff from grain. Even great Am scientists' Feynman&Wilson were incorrectly IQ-estimated. A long multi-pronged exam is a much better test of character than a short IQ test.
+
+The bigger issue is the deshi educational attitude where production of (substandard) engineers&physicians is seen as the sole end resulting in an arms race to game the system. This is accompanied, it seems these days, by inflation of marks on exam making people look better than what they are. In my days in undergrad which I did in desh 1 person would be above 70%, ~5-6 in 60s and rest below that. Perhaps the best thing is to institute a system that separates people who are genuinely good at science early and make the rest go through a longer basic scientific training before studying to be doctors/engs.

@@ -40,3 +40,4 @@ The crackers can be identified as usual by exams. They can be given additional c
 
 ### Social experience
 Finally these are embedded with the rest of the population at school so that everyone can have a realistic social experience & mating opportunities if interested. The only thing the management needs to do is to limit violence to a tolerable level & provide some support for those with emotional issues & the cognitively under-endowed. One may also look up the case of Zerah Colburn & William Hamilton. 
+
