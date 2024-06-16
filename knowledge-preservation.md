@@ -60,18 +60,33 @@ polyester based microfilm - .1-.5k yrs. Used for storing newspapers.
 #### Museium grade paper
 Curators love these papers because they’re made of 100% cotton rag and have no OBAs. The base stock is both acid- and lignin-free. The coating is acid-free.
 
+it must be manufactured using pure cotton fibres (a.k.a. cotton rag) or pure alpha cellulose fibres, which are naturally more durable than wood pulp.
+
 Must still be saved from acidic mats and sunlight.
 
 #### Archival paper
-Archival papers are (mostly) acid-free and lignin-free. They can be made of virgin tree fiber (alpha-cellulose) or 25% to 100% cotton rag. They’re likely to have optical brightening agents (OBAs), chemicals that make the paper appear brighter white.
+Archival papers are (~100%) acid-free and lignin-free.  
+They can be made of virgin tree fiber (alpha-cellulose) or 25% to 100% cotton rag.  
+Oft  contains an alkaline reserve of calcium or magnesium carbonate to prevent acid degradation. This alkaline reserve can be achieved by adding bicarbonate during the drying process, which converts to calcium or magnesium carbonate. To last at least 100 years, archival paper needs an alkaline reserve of at least 2%.
+
+Still, atmospheric pollutants cause acidity and degradation.
+
+- [YT](https://www.youtube.com/watch?v=fAsr4-MT4zc)
+
+#### Pigment Ink
+\~ 50 yrs before beginning to fade.
 
 #### Photo grade paper
 Most photo-grade paper is resin-coated and designed to look and feel like modern photo lab paper. The core is covered by a thin layer of polyethylene (plastic) coating, which gives the paper its photo feel, stability (flatness), water resistance, handling resistance, and excellent feed consistency. 
 
 All resin-coated papers fall short of archival-grade for two reasons. First, the plastic content is not technically archival by museum standards. Second, the resin coating is slightly acidic, which will deteriorate the paper over time.
 
+#### Dye ink
+\~ 20 yrs before beginning to fade.
+
 #### Common paper
 Paper, having acid, degrades over time.  
+Wood pulp is oft used. Has lignin, which breaks down to acid over time.  
 you can put stable ink on non-archival paper and still achieve 70 years of on-display life.
 
 ### .01k yr
@@ -84,6 +99,11 @@ Last 100 yrs under good conditions.
 
 ## Retrieval/ playback
 Grammaphone doesn't require electricity to play sound. It's relatively easy to construct.
+
+## Storage
+- Cold storage reduces chemical decay rate.
+- Low humidity prevents mold.
+- Store away from insects and rodents.
 
 ## Profession
 - Record keepers
