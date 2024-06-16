@@ -6,7 +6,10 @@ Source: [TW](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2694975)
 
 Almost from the beginning of the industry, it would seem, fears have been anxiously expressed that one day (and possibly one day quite soon) the coal would run out.  
 
+## Owen
 In 1603, George Owen, author of a Description of Pembrokeshire, remarked that ‘the Countrie people’ feared that the export of coal ‘in time [would] wholely weare out the Coale and so leave the Countrie destitute of fuell’.75  
+
+## Williams
 The earliest writer to have given the topic more than a passing comment appears to be John Williams, a Scottish mineral surveyor, whose Natural History of the Mineral Kingdom was published in 1789.76  
 
 Williams noted that the general view ‘which I have often heard asserted with great confidence’ was ‘that coal is inexhaustible’. 
@@ -26,7 +29,7 @@ He reviewed possible substitutes.
 - Oil? Its supply was even more limited and uncertain than that of coal. 
 - Solar power? One day, perhaps, a method of collecting the sun’s rays would be found. ‘But such a discovery would simply destroy our peculiar industrial supremacy.’ 
   
-
+## Jevons
 What was required was some source of energy which would preserve the competitive advantage that coal currently gave, almost alone, to Great Britain.  The Coal Question was a national, not a global, question for Jevons.  
 The question was not ‘How can humanity maintain its standards of material comfort when global coal resources are exhausted?’ but ‘How can Britain maintain its economic dominance when British coal resources are exhausted?’  
 Understanding this makes it easy to understand Jevons’s response to the question ‘When the coal runs out in Britain can we not simply import it, as with so many other raw materials?’ The answer was ‘No’.  
