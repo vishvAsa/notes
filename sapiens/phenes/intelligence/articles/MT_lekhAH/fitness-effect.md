@@ -8,5 +8,4 @@ People in that above-average IQ range often, in certain real-life contexts, fare
 ## World-improving
 Source: [TW](https://twitter.com/blog_supplement/status/1717358382296756450)
 
-Irrespective of whether a people have a low or a high IQ, they try to alter the world to the advantage of those within their perceived ingroup radius. The actions of those with higher IQ have higher impact. However, even those with high IQ cannot run against mathematical theorems. Irrespective of whether a people have a low or a high IQ, they try to alter the world to the advantage of those within their perceived ingroup radius. The actions of those with higher IQ have higher impact. However, even those with high IQ cannot run against mathematical theorems.
-
+Irrespective of whether a people have a low or a high IQ, they try to alter the world to the advantage of those within their perceived ingroup radius. The actions of those with higher IQ have higher impact. However, even those with high IQ cannot run against mathematical theorems. 

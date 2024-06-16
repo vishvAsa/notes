@@ -2,6 +2,8 @@
 title = "Receeding edge"
 +++
 
+Source: [TW](https://threadreaderapp.com/thread/1473845527083110405.html)
+
 > Is India producing enough out-of-the-chart brilliant people ? Given our population and size (nearly 1/5th of humanity), we should be producing a few intellects of the level of Euler, Gauss, Newton, Ramanujan every generation
 
 ## Receeding edge
@@ -19,12 +21,3 @@ There is also the whole apparatus for getting ahead in science which involves po
 
 ## Conclusion
 Thus, I'd say across cultures, the scope for the impact of a true genius has probably considerably lessened in the past 40-50 years. If one is born with such smarts there might be other avenues beyond academia.
-
-## IQ distribution and accomplishment
-To labor one specific point: in theory, given the normal distribution, we should indeed have lots of those even assuming an Indian IQ profile of (means & weights): .4*85+.35*90+.15*95+.1*102. So the question boils down to do they exist but don't get into academia or they don't exist
-
-If you went to an elite college in India you will see some of those smart types with IQ in the "Nobel prize" range. But why don't you see it translate. IMO it boils down to: 
-
-1) Majority of those don't pursue academic science/mathematics. IMO Academic inclination is much lower among H high IQ classes than Jews even if their IQs are comparable in tests. 
-2) H intellectual classes are poorly organized, don't support/boost each other & don't exert much influence on funding bodies. 
-3) I do think there have been several "Nobel Prize" level H scientists (at least in Med&Phys & some Chem) kind of prizes who simply were ignored.

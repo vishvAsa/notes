@@ -13,3 +13,7 @@ title = "2024 election"
 इमे दिल्लीश्वरस्याग्र्या  
 निर्वाचन-प्रदूषकाः ॥
 
+Source: [TW](https://x.com/blog_supplement/status/1740966848513052793)
+
+While some believe that IQ could be the issue, the spoiled-soybeans mlechCha forces have relied more on what their predecessors also did: they could always purchase people throughout the chain of leadership to go contrary to national interests. That why the desperately want sorAdi-duShTAH to bring kAngress, kejarin and the like back on the gaddi. The advantages of these would be immense for them! It incidentally also resonates with their Galtonism.
+
