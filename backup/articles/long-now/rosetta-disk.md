@@ -30,3 +30,39 @@ For the extreme longevity version of the Rosetta database, we have selected a ne
 Reading the disk requires a microscope, either optical or electron, depending on the density of encoding and could be combined with an Optical Character Recognition system to read the text back into digital formats relevant at the time of reading. We are keeping our encoding at a scale readable by a 1000X optical microscope, giving us a total disk storage capacity of around 30,000 pages of text.
 
 Embracing the archive principle, "Lots of Copies Keep Stuff Safe", we intend to create a version of the disk that can be mass produced and broadly distributed. Disk production costs are currently very high, however we are exploring ways around this, possibly using a different kind of disk material. For now, we are working on developing a limited edition disk prototype.
+
+## Wearable
+After three and a half years of research and development, we are delighted to announce the release of our first Rosetta Wearable Disk. This version of the Rosetta Disk uses a similar manufacturing process as the first edition of the Rosetta Disk, with the resulting archive microscopically formed in nickel and readable with optical magnification. The main difference is that the final archive is about 2 centimeters in diameter, making it a size that can be comfortably worn on the human body.
+
+To develop the Rosetta Wearable Disk, we have been working with the company NanoRosetta, which uses a process that is faster than the one used to make the original Rosetta Disk, and that does not make use of silicon or a focused ion beam. This new process is similar to microchip lithography, and uses a highly focused laser to write directly onto a photosensitive material coated on a glass plate. The recorded features are then developed like film to form the microscopic information. Next the plate is electroformed, resulting in a thin disk made of solid nickel. The information on the disk is raised very slightly from the surface (the text looks embossed) and can be read just like you would read pages in a book, but with optical magnification.
+
+Rosetta Wearable and Rosetta V1 Disk
+Given the new process is reliable, fast, and less expensive than the one used for the original Rosetta Disk, the Rosetta Wearable Disk is the first version of the Rosetta Disk that could potentially meet the long-desired goal of broad dissemination, in keeping with the long-term archiving strategy of LOCKSS (“lots of copies keeps stuff safe”).
+
+This wearable version, like the original Rosetta Disk has two sides. One side has instructions in eight different languages and scripts (Bahasa Indonesia, English, Hindi, Mandarin, Modern Standard Arabic, Spanish, Swahili, and Russian). The instructions translate into English as "Languages of the world: This is an archive of over 1,000 human languages assembled in the year 02016 C.E. Magnify 100 times to find over 1,000 pages of language documentation." Each instruction starts at a human-eye readable size, and then spirals inward around a globe graphic, ending at the microcopic scale. This indicates to the reader "find something to magnify this with, and there is more."
+
+The other side of the pendant contains the archive, with over 1,000 microscopic pages. While the smaller size of the disk is an advantage for portability, it imposed a new constraint of having less surface space that the archive contents can occupy. So to keep the information or “pages” in the archive at the size where they can be read with optical magnification, we needed to fit roughly 1000 or fewer of them on the disk. The original Rosetta Disk has over 1,500 languages and 13,000 pages of information, so this meant we needed to include fewer languages, fewer pages for each language, or some combination of the two. Yet constraints breed creativity, and we chose to meet this new challenge by altering the contents somewhat, which now include:
+
+The Preamble to the Universal Declaration of Human Rights (327 languages)  
+Swadesh vocabulary lists assembled by the PanLex Project (719 languages)  
+
+"The Clock of the Long Now" by Stewart Brand  
+Updated diagrams for the 10,000 Year Clock  
+
+The contents are in keeping with the original Rosetta Disk in that they represent many of the world’s human languages. The language contents are also parallel, that is, the same information for each language. The two main kinds of linguistic content are still a parallel text and parallel vocabulary list. The text we have chosen is the Preamble to the Universal Declaration of Human Rights (“UDHR”), which is available in over 300 languages, and the parallel vocabulary are Swadesh vocabulary lists compiled by Long Now’s PanLex Project.
+
+Rosetta Wearable Archive Side
+In a major departure from how the contents of the original Rosetta collection were assembled, the Universal Declaration and PanLex data are all “born digital”. This meant we had a lot of control over font and font size, but also entailed making choices. The goal was to maximize the amount of language content on the disk while preserving maximum legibility.
+
+In order to make these decisions, we needed access to better microscope equipment to examine the texts in detail at the character level. So in November 02016, The Rosetta Project submitted a proposal and was awarded access to staff and facilities at Lawrence Berkeley National Lab . The successful proposal, titled “The Rosetta Disk – An Exploration into Very Long-term Archiving” focused on the need for access to high-powered microscopes and imaging technology available at the Lab to prepare and evaluate components of a new Rosetta Disk prototype. The user program provided Rosetta Project staff access to the Molecular Foundry, Advanced Light Source, and National Center for Electron Microscopy.
+
+Another goal of this proposal was to develop long-term relationships with the staff and scientists at the Lab who have interest in exploring new materials and methods for long-term archiving, which may be very helpful in developing new versions of the Rosetta Wearable Disk. Some intriguing new possibilities have already emerged from early discussions, including ways to "stamp" new disks, ways to protect the disk through atomic layer deposition, and possible methods of creating polychromatic disks which would allow for archiving of color graphics, photography and art. These techniques may allow us to radically change not only how we archive, but what we are able to archive for the long-term as well.
+
+Another advantage to having “born digital” material is we can make the contents of the wearable Rosetta Disk available as open digital data as well as a physical artifact. We hope this will allow for all kinds of interesting experimentation in the archival longevity of both forms. The Universal Declaration of Human Rights collection we will be using are all available in Unicode, which is a much preferred long-term format, and the PanLex Swadesh lists are now part of the Natural Language Toolkit collection and available as a corpus for computational tinkering. We also greatly benefitted from the impressively multilingual suite of Google Noto fonts, which we used throughout the archive.
+
+Here is a tool where you can zoom all the way in and see the contents of the Rosetta Wearable Disk up close (it works on mobile devices and tablets as well, and best if you expand to full screen):
+
+Zoom inZoom inZoom outZoom outGo homeGo homeToggle full pageToggle full page
+Rosetta Wearable Spiral Graphic Side
+
+[Update: December 11, 02023] A limited supply of new Rosetta Archive Pendants is available to donors of $1,000 or more. You can learn about this new edition at the Artifacts Page or start your donation now.

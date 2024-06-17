@@ -18,7 +18,7 @@ Human brain is limited - so rAmANuja had to trek all the way to kAshmIr to consu
 Examples of catastrophic loss -
 
 - The last classical antique library in Constantinople burnt down in the 5th century and 120000 codices with it. The first medieval library of the 6th century contained about 100 books.
-- Burnt libraries of nalandA. 
+- Burnt libraries of nAlandA, Alexandria.
 
 ## Media
 
