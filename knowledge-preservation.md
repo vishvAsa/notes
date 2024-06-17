@@ -26,7 +26,7 @@ Lists of oldest surviving documents - [wiki](https://en.wikipedia.org/wiki/List_
 
 ### 6k+ yr
 #### Ceramic microfilms
-Ceramic microfilm [MOM project], which is a rock-hard sheet 8 x 8 inches (20 × 20 cm) holds 5 million characters of text that could be read with a 10x magnifying lens.
+Ceramic microfilm [MOM project](), which is a rock-hard sheet 8 x 8 inches (20 × 20 cm) holds 5 million characters of text that could be read with a 10x magnifying lens.
 
 The tablets can withstand alkali and acid environments, but also temperatures up to 1300 degrees Celsius.  A laser is then used to etch character, full-colour graphics.
 
@@ -77,8 +77,19 @@ Needs only a magnifying glass to read.
 #### Palm leaf / birch manuscripts
 Last few decades to 600 years, depending on local climatic conditions.
 
+#### Papyrus
+Made from plant leaves. No fold-endurance - Used as a scroll. Degrades due to acidic nature.
+
+Dead Sea Scrolls were preserved due to low-circulation arid atmosphere.
+
 #### Microfilms
 polyester based microfilm - .1-.5k yrs. Used for storing newspapers.
+
+#### Parchment (Skin)
+Treated animal skin. If reused, called palimpest.  
+Parchments from 1600 years ago survive - many were in regular use for hundreds of years.
+
+Source: [TW](https://www.youtube.com/watch?v=6nJmyo45dqY)
 
 ### .1k-.3k yr
 #### Museium grade paper
