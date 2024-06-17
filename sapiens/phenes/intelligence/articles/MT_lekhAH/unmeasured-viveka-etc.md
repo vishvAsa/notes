@@ -83,3 +83,6 @@ more and more virulent strains of his system.
 There is also the danger that J's m2 mutation seeded in India  
 follows a trajectory similar to m3 within the subcontinent  
 even if fertility factors limit in Europe and elsewhere. 
+
+
+When you encounter 2 people with nearly same, reasonable IQ but 1 taking 2 months to learn something which the other took 250 months then you wonder what contributed to the difference: Some mathematics can be achieved by high IQ alone, some physics might be understood, but that realm of knowledge lies beyond is often not seen

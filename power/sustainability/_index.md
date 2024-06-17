@@ -22,4 +22,7 @@ $$t = ln[kR/r_0 + 1]/ln(1+k) ~ ln[kR/r_0 + 1]/ln(k)$$
 - Albert Bartlett - [YT](https://www.youtube.com/watch?v=sI1C9DyIi_8)
 - Tom Murphy's book, blog
 
- 
+## Orgs
+- [Long Now](https://longnow.org/projects/)
+  - Manual for civilization
+- Post carbon institute

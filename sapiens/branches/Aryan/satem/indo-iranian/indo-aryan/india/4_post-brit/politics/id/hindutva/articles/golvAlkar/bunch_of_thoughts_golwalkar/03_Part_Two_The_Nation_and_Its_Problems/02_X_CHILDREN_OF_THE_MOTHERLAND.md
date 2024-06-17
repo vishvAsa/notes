@@ -146,11 +146,40 @@ Thus history bears eloquent witness to both sides of the picture. On the one han
 
 ## Adding Fuel to the Fire 
 
-Today, of course, the caste system has degenerated beyond all recognition. Added to the perversity aggravated over the centuries, a new factor has been introduced into our body- politic which has further intensified the rigidity and perversity of castes by those very persons who are most vociferous in their denunciation of the system. During elections, their consideration for selection of candidates as also their appeal to the voters is mainly 
+Today, of course, the caste system has degenerated beyond all recognition.  
+Added to the perversity aggravated over the centuries,  
+a new factor has been introduced into our body-politic  
+which has further intensified the rigidity and perversity of castes  
+by those very persons who are most vociferous in their denunciation of the system.  
+During elections, their consideration for selection of candidates as also their appeal to the voters is mainly 'caste'.  
+At the root of the rising tempo of caste hatred and rivalry  
+lies this appeal to gross selfishness and love of power in the name of caste.  
+Even the state machinery is being prostituted for further widening these dissensions.  
+Separatist consciousness breeding jealousy and conflict  
+is being fostered in sections of our people by naming them Harijans, Scheduled Castes, Scheduled Tribes and so on  
+and by parading the gift of special concessions to them  
+in a bid to make them all their slaves with the lure of money. 
 
-'caste'. At the root of the rising tempo of caste hatred and rivalry lies this appeal to gross selfishness and love of power in the name of caste. Even the state machinery is being prostituted for further widening these dissensions. Separatist consciousness breeding jealousy and conflict is being fostered in sections of our people by naming them Harijans, Scheduled Castes, Scheduled Tribes and so on and by parading the gift of special concessions to them in a bid to make them all their slaves with the lure of money. 
+In their hearts of hearts,  
+very few of those anti-caste zealots experience the sense of unity  
+that can transcend the present-day perversities.  
+Anti-caste tirade has verily become a mask for them  
+to strengthen their own positions among their caste fellowmen.  
+To what extent this venom has enterd our body-politic  
+can be surmised from an incident which occurred some years ago.  
 
-In their hearts of hearts, very few of those anti-caste zealots experience the sense of unity that can transcend the present-day perversities. Anti-caste tirade has verily become a mask for them to strengthen their own positions among their caste fellowmen. To what extent this venom has enterd our body-politic can be surmised from an incident which occurred some years ago. There is a 'Victory Pillar' near Pune, raised by the English in 1818 to commemorate their victory over the Peshwas. An eminent leader of the Harijans once addressed his caste-brethren under that Pillar. He declared that the pillar was a symbol of their victory over the Brahmins as it was they who had fought under the British and defeated the Peshwas, the Brahmins. How heart-rending it is to hear an eminent leader thus describing the hated sign of slavery as an emblem of victory, and the despicable action of fighting as slaves of a foreigner against our own kith and kin as an achievement of glory! How utterly his eyes must have been blinded by hatred, not able even to discern the simple fact of who were the victors and who the defeated! What a perversity? 
+There is a 'Victory Pillar' near Pune, raised by the English in 1818  
+to commemorate their victory over the Peshwas.  
+An eminent leader of the Harijans once addressed his caste-brethren under that Pillar.  
+He declared that the pillar was a symbol of their victory over the Brahmins  
+as it was they who had fought under the British and defeated the Peshwas, the Brahmins.  
+How heart-rending it is to hear an eminent leader  
+thus describing the hated sign of slavery as an emblem of victory,  
+and the despicable action of fighting as slaves of a foreigner  
+against our own kith and kin as an achievement of glory!  
+How utterly his eyes must have been blinded by hatred,  
+not able even to discern the simple fact of who were the victors and who the defeated!  
+What a perversity? 
 
 ## Many Strings, but Same Melody 
 

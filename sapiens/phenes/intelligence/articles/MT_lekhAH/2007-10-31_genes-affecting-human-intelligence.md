@@ -41,3 +41,10 @@ The case of FADS2 again raises the possibility that dietary supplements of parti
 
 This finally leads to the politically contentious issue of intelligence difference between different populations, ethnic groups or races. Psychometry has consistently suggested differences in average g as measured by IQ between different populations. The above survey of genetic variation implicated in individual intelligence differences also show marked population differences in their frequencies. This is consistent with a genetic basis of the inter-population differences in intelligence. However, we must keep in mind that we have not exhausted all the genes involved in intelligence differences, nor have exhausted the effects of all possible allelic variants found in different populations. So we cannot yet reconstruct purely ground up a measure of the amount of inter-population intelligence difference using the current molecular data.
 
+
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Terminal sialidase Klotho allele VS causes a 6pt IQ increase in heterozygotes: http://cell.com/cell-reports/abstract/S2211-1247(14)00287-3
+Note its frequency in Ashkenazi Jews
+</details>

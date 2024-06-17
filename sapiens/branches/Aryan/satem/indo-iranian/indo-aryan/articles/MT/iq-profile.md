@@ -18,6 +18,8 @@ Of course it is apparent that IQ is differential distributed across castes in In
 
 That said good estimates of mean and sd for IQ of different castes does not exist. Some people like a guy who appears occasionally on twitter had made some estimates. There are potential sources of data for some castes using methods like Griffe du Lion. E.g. what was the caste of H making it to the wrangler list of the mathematical tripos at the time they participated in it; the admission to American university ranked in top 100 during the admission for science/math fields etc..
 
+... Now there is some empirical evidence that V1s, certain V3 jAtis & kAyasthas have been optimized for IQ.
+
 ## Academic accomplishment
 If you went to an elite college in India you will see some of those smart types with IQ in the "Nobel prize" range. But why don't you see it translate. IMO it boils down to:
 

@@ -2,6 +2,8 @@
 title = "Cranial-capacity"
 +++
 
+Modal IQ being much lower than IQs need for cutting edge scientific leave alone math performance seems to tell us something: cost of brains.
+
 ## Other Homo
 The extinct Homo specimens from Xuchang 1 & Xujiayao 6 (below) are believed by some to be East Asian Denisovans. They are estimated as having cranial capacities respectively of ~1800& ~1700 CC. Those are huge. For comparison, there is the Israeli Amud Neanderthal ~1740 CC. That's AFAIK much larger than most Homo alive today. It is rather difficult to find raw volumetric data for modern Homo though I have read but found no confirmation of normal moderns with a size greater than that.
 

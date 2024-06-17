@@ -15,18 +15,38 @@ The post-oil, post-industrial-age world will arrive (details [TM](https://eschol
 ### Texts
 Human brain is limited - so rAmANuja had to trek all the way to kAshmIr to consult bodhAyana-vRtti, deshika had to carry a big trunk of palm leaves to save shruta-prakAshika etc.. Even a text published by so famous a person as uttamUru-svAmI 50 years ago is very hard to find.
 
+Examples of catastrophic loss -
+
+- The last classical antique library in Constantinople burnt down in the 5th century and 120000 codices with it. The first medieval library of the 6th century contained about 100 books.
+- Burnt libraries of nalandA. 
+
 ## Media
 
 Lists of oldest surviving documents - [wiki](https://en.wikipedia.org/wiki/List_of_oldest_documents)
 
-### 3k+ yr
+### 6k+ yr
+#### Ceramic microfilms
+Ceramic microfilm [MOM project], which is a rock-hard sheet 8 x 8 inches (20 × 20 cm) holds 5 million characters of text that could be read with a 10x magnifying lens.
+
+The tablets can withstand alkali and acid environments, but also temperatures up to 1300 degrees Celsius.  A laser is then used to etch character, full-colour graphics.
+
+#### Ceramic colors
+Special ceramic colors or stains are used by MOM project to print photographs and illustrations with 300 dpi resolution.
+
 #### Clay tablets
 Babylonian clay tablets have survived from 4000 BCE (=7k years). But they are fragile - and need to be preserved.
+
+David Zaitlyn used morse in [2013](https://users.ox.ac.uk/~wolf2728/Clay/index.html).
 
 #### Stone
 Stone tablets survive from 3500 BCE.
 
 Is there an automated rock engraver - to engrave given text into a rock slab?? (analogous to CNC on metal https://youtube.com/watch?v=SdSVMygb450 ) Want to preserve important knowledge.
+
+#### Synthetic sapphire disks
+Synthetic sapphire disc of 200mm diameter from ARNANO.
+
+
 
 #### Religious oral tradition
 Eg. Vedas.
@@ -35,6 +55,10 @@ Eg. Vedas.
 Metal plates risk being stolen, melted and reused in a metal-scarce world.
 
 Metal engraving is relatively easy with a CNC machine. 
+
+Modern attempts:
+
+- Rosetta Nickel Disk (Long Now).
 
 #### Metal grammaphone records
 Can even record sound for grammaphone.  
@@ -111,3 +135,16 @@ Grammaphone doesn't require electricity to play sound. It's relatively easy to c
 - Archivists
   - Archivists tend to be responsible for records once they become archives and are thus no longer used for their original purpose.
   - Canadian council of Archives recommendations [2003](https://archivescanada.ca/wp-content/uploads/2022/08/RBch6_en.pdf)
+
+### Location
+- Temples
+  - one should have an effort to engrave important texts on to temple walls.
+
+Other efforts
+
+- Memory of Mankind [archive](https://www.memory-of-mankind.com/?ref=longnow.org) - Hallstatt/Austria
+  - The geological structure of the surrounding rock must not destroy the archive.
+
+## Content
+- Global village construction kit [here](https://wiki.opensourceecology.org/wiki/Main_Page)
+
