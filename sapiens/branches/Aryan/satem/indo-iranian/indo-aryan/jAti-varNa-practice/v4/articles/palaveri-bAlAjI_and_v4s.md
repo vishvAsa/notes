@@ -20,14 +20,32 @@ The farmers would work in the fields all morning; and their wives would bring fo
 
 Farmers used to operate a picotah/ eta to draw water for irrigation. To reduce the effort they felt, they used to say viShNu-stotra-s.
 
-During harvest, the first big-measure was offered to the temple. Similarly, the first calf was offered to the temple. Milk from such calves was used for abhiSheka etc..
-
 ### tilaka
 A shUdra would scold my father thus: "I used to watch your father with his thick tirumaN tilaka. Now you sit in the same place with your thin tilaka. Fie!"
 
 Farmers used to wear tirumaN - so that it would be hard to distinguish Arya from shUdra without the yaJNopavIta. 
 
 In the village school, kids were taught well by the brAhmaNa and brAhmaNa-educated teachers. If a girl lost her forehead dot due to sweat, she would be expected to go and fix it using the kunkuma from the nAga-pratiShThA nearby. If a v1 boy went without tilaka, he would be sent back.
+
+### Temples
+There was a viShNu temple in the agrahAra,  
+a gaNapati temple outside,  
+and yet another draupadi temple (with a kRShNa image as well).
+
+During harvest, the first big-measure was offered to the temple. Similarly, the first calf was offered to the temple. Milk from such calves was used for abhiSheka etc..
+
+Once in 1970s, a draviDianist climed the gaNapati temple and urinated there - he was thrashed. They did not return after that - other than coming around and giving anti-Astika speeches. Yet, dravidian parties remained the only contenders in local elections.
+
+Even in 2024, v4s grandly managed annual festivities at the draupadi temple; with mahAbhArata play starting at night 10PM.
+
+### kIrtanas
+The v4s used to gather at a maNDapa every night for nAma-sankIrtana.  
+In the mArgashIrSha month, this used to happen before dawn.
+
+### v3s and v2s
+v3s of the village used to perform sandhyAvandanam.  
+There were no v2s in the village, but they existed in nearby villages; some of whom were disciples of shrI rAjagopAla of the village.  
+The v2s were carnivores.
 
 ## Economy
 During harvest, the first big-measure was offered to the temple.  
