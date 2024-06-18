@@ -60,9 +60,6 @@ Another goal of this proposal was to develop long-term relationships with the st
 
 Another advantage to having “born digital” material is we can make the contents of the wearable Rosetta Disk available as open digital data as well as a physical artifact. We hope this will allow for all kinds of interesting experimentation in the archival longevity of both forms. The Universal Declaration of Human Rights collection we will be using are all available in Unicode, which is a much preferred long-term format, and the PanLex Swadesh lists are now part of the Natural Language Toolkit collection and available as a corpus for computational tinkering. We also greatly benefitted from the impressively multilingual suite of Google Noto fonts, which we used throughout the archive.
 
-Here is a tool where you can zoom all the way in and see the contents of the Rosetta Wearable Disk up close (it works on mobile devices and tablets as well, and best if you expand to full screen):
-
-Zoom inZoom inZoom outZoom outGo homeGo homeToggle full pageToggle full page
-Rosetta Wearable Spiral Graphic Side
+Here is a tool where you can zoom all the way in and see the contents of the Rosetta Wearable Disk up close (it works on mobile devices and tablets as well, and best if you expand to full screen) ...
 
 [Update: December 11, 02023] A limited supply of new Rosetta Archive Pendants is available to donors of $1,000 or more. You can learn about this new edition at the Artifacts Page or start your donation now.
