@@ -2,7 +2,7 @@
 title = "palaveri-bAlAjI and v4s"
 +++
 
-palaveri village in pallava-desha near kAnchIpuram hosted an agrahAra, where rAjagopAla, a reknowned shrIvaiShNava scholar resided. His son, popularly known as bAlAjI, also a scholar, was raised there till early 90s. These are some recollections pertaining to shUdra-s (abbreviated as v4s).
+palaveri village in pallava-desha near kAnchIpuram hosted an agrahAra, where rAjagopAla, a reknowned shrIvaiShNava scholar resided. His son, popularly known as bAlAjI, also a scholar, was raised there till early 1990s (age 20). These are some recollections pertaining to shUdra-s (abbreviated as v4s).
 
 ## Respect for v1s
 On auspicious occassions like marriage, v4s used to provide grains and such the previous day to my father, and ask him to feast on them the next day, and come and bless during the event.
@@ -36,11 +36,18 @@ During harvest, the first big-measure was offered to the temple. Similarly, the 
 
 Once in 1970s, a draviDianist climed the gaNapati temple and urinated there - he was thrashed. They did not return after that - other than coming around and giving anti-Astika speeches. Yet, dravidian parties remained the only contenders in local elections.
 
-Even in 2024, v4s grandly managed annual festivities at the draupadi temple; with mahAbhArata play starting at night 10PM.
+Even in 2024, v4s, via a trust they'd formed, grandly managed annual festivities at the draupadi temple; with mahAbhArata play starting at night 10PM.
 
 ### kIrtanas
 The v4s used to gather at a maNDapa every night for nAma-sankIrtana.  
 In the mArgashIrSha month, this used to happen before dawn.
+
+### tarpaNa-s
+Every amAvAsyA, a v1 used to visit each v4 family,  
+carrying a book of ancestors,  
+to help them perfrom tarpaNa-s to their ancestors.
+
+By 2020s, even v1 had left the monthly tarpaNa practice.
 
 ### v3s and v2s
 v3s of the village used to perform sandhyAvandanam.  
