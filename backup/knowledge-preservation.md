@@ -26,9 +26,11 @@ Lists of oldest surviving documents - [wiki](https://en.wikipedia.org/wiki/List_
 
 ### 6k+ yr
 #### Ceramic microfilms
-Ceramic microfilm [MOM project](), which is a rock-hard sheet 8 x 8 inches (20 × 20 cm) holds 5 million characters of text that could be read with a 10x magnifying lens.
+Ceramic microfilm [MOM project](), which is a 1 mm thick rock-hard sheet 8 x 8 inches (20 × 20 cm). The tablets can withstand alkali and acid environments, but also temperatures up to 1300 degrees Celsius.  A laser is then used to etch character, full-colour graphics.
 
-The tablets can withstand alkali and acid environments, but also temperatures up to 1300 degrees Celsius.  A laser is then used to etch character, full-colour graphics.
+The smallest text size is 4 pt in Arial style. It is the still readable with the naked eye. The capacity  (of latin letters) is about 40 000 characters on the 20x20 cm surface of a MOM tablet.
+
+Further compression - Holds 1-5 million characters of text that could be read with a 10x magnifying lens. (Half way during the development of the Cerabyte technology and patented this as a kind of ceramic microfilm) 
 
 #### Ceramic colors
 Special ceramic colors or stains are used by MOM project to print photographs and illustrations with 300 dpi resolution.
