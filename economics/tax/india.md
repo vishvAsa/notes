@@ -53,4 +53,5 @@ None as of 2019.
 The non residents returning also have to pay Customs Duties for goods brought into India in person. Transfer of Residence Rules provide for a clearance up to Rs 75,000 (US $ 1125). These should include used personal and personal effects. 
 
 ## Gift tax
-Recipient is taxed. Gift from relatives (spouse, brother or sister, brother or sister of the spouse, brother or sister of either of the parents, lineal ascendant or descendant, lineal ascendant or descendant of the spouse and spouse of the aforementioned persons) is not taxable.
+Recipient is taxed.  
+Gift from relatives (spouse, brother or sister, brother or sister of the spouse, brother or sister of either of the parents, lineal ascendant or descendant, lineal ascendant or descendant of the spouse and spouse of the aforementioned persons) is not taxable.

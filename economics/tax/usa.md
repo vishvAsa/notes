@@ -34,19 +34,25 @@ title: USA
 For conceptual details, see the [capital-gains page](../capital-gains/).
 
 Pre tax retirement savings (taxed on withdrawal):
-- 401(k) a type of 401(a) plan.
-- IRA
 
-Post tax retirement savings (not taxed on withdrawal):
-- Roth IRA. Contributions can be withdrawn anytime. Earnings can be withdrawn after age 59.5 (5 years must have passed since account opening.)
+- 401(k) a type of Employer sponsered 401(a) plan.
+- IRA - opened by individual. No matching contributions.
+
+Post tax retirement savings (not taxed on withdrawal) - Roth IRA. No US tax on accrual. 
+
+- Withdrawals (Tax-free in USA)
+  - Contributions can be withdrawn anytime.  
+  - Earnings can be withdrawn after age 59.5 (5 years must have passed since account opening.)
 
 ### Inherited retirement funds
 - Money in traditional IRAs, employer-sponsored retirement plans including 401(k)s and 403(b)s, and annuities are treated as income in respect of a decedent, and therefore taxed to the heir.
-  - Exceptions - Roth IRAs and Roth 401(k)s. "No taxes are due on inherited Roth distributions as long as the account had been open at least five years at the time of the owner’s death. If the original owner dies before the five-year period has elapsed, you can satisfy the holding period by rolling the account over into an inherited Roth IRA and waiting until the holding period has passed."
+- Exceptions - Roth IRAs and Roth 401(k)s. "No taxes are due on inherited Roth distributions as long as the account had been open at least five years at the time of the owner’s death. If the original owner dies before the five-year period has elapsed, you can satisfy the holding period by rolling the account over into an inherited Roth IRA and waiting until the holding period has passed."
+
+So, move regular IRA to roth IRA before dying! +++(5)+++
 
 ## Non resident (both by visa and tax purpose test) aliens 
 - General flat rate (even divideds)- 30%
- - US India tax treaty - [IRS site](https://www.irs.gov/pub/irs-trty/india.pdf).
+- US India tax treaty - [IRS site](https://www.irs.gov/pub/irs-trty/india.pdf).
 
 ### Most Capital gains
 - 0 US tax otherwise as per [IRS](https://www.irs.gov/individuals/international-taxpayers/fixed-determinable-annual-periodical-fdap-income) and [investopedia](https://www.investopedia.com/ask/answers/06/nonusresidenttax.asp)
@@ -59,13 +65,30 @@ Post tax retirement savings (not taxed on withdrawal):
 #### Regular IRA and 401k
 Tax on withdrawls
 
-- lumpsum withdrawal at senior age - 30% for non resident aliens of the US (section 1441) + India tax - US tax.
+- lumpsum withdrawal at senior age - 30% for non resident aliens of the US (section 1441) + (India tax - US tax).
 - monthly pension: Article 20 of the DTAA provides that any private pensions and annuities (does not include social security benefits or public pensions) received will be taxed only in the country in which the taxpayer is a resident.
 
 If moving to India while in a lower tax bracket, it might be advantageous to move these funds to Roth IRA.
 
-### Roth IRA
-unclear US tax (30% withholding is blithely followed [[IRS pub 515](https://www.irs.gov/publications/p515#en_US_2013_publink1000224947)] and may be recovered via refunds [(bogle19)[https://www.bogleheads.org/forum/viewtopic.php?f=22&t=276156&p=4443965&sid=25f92b8dc859b54abb3a6b628ba5686f#p4443965]] ), only India tax on gains.
+India Tax deferral  
+Source: [TW](https://cleartax.in/s/section-89a) 
+
+- Default situation: Income accrued in 401k is taxable in the U.S.A. only at the time of withdrawal. However, such income is taxable in India on an accrual basis.
+- Scope
+  - Applies to USA, UK, Canada, where withdrawals are taxed.
+  - Finance Act 2021, effective April 1, 2022, inserted a new Section 89A in the Income Tax Act, 1961 (ITA). 
+- Rule 21AAA
+- Form 10-EE should be e-filed before ITR.  
+  - You can thus defer the income getting accrued in your 401k account in the form of Interest, Dividend or capital gain.
+  - This enables you to claim Federal tax deducted at the time of withdrawal as a relief u/s 90 in India at the time of withdrawal.
+- Once this option is exercised, it will apply to all subsequent previous years and cannot be withdrawn. if the taxpayer has become a non-resident after exercising the option, then it shall be deemed that he/she has never exercised the option.
+
+#### Roth IRA
+US tax withholding for non-residents 
+
+- 30% withholding is blithely followed [[IRS pub 515](https://www.irs.gov/publications/p515#en_US_2013_publink1000224947)] 
+  - may be recovered via refunds [(bogle19)[https://www.bogleheads.org/forum/viewtopic.php?f=22&t=276156&p=4443965&sid=25f92b8dc859b54abb3a6b628ba5686f#p4443965]],  
+- only India tax on gains.
 
 ## Estate tax
 Not paid by the recipient of the estate (the inheritor), but by the estate. 
@@ -101,12 +124,41 @@ Non-resident aliens have a $60,000 exclusion in the absence of an estate tax tre
 - Inherited retirement savings funds  are counted as income. See details in income tax section.
 
 ## Gift tax
-Foreign nationals who are green card holders are generally considered domiciled in the United States for both U.S. estate and gift tax purposes.
+Usually (and de jure) paid by the donor.
+
+Residency test (different from general tax residency)
+
+- Foreign nationals who are green card holders are generally considered domiciled in the United States for both U.S. estate and gift tax purposes.
+- A foreign citizen can be considered a U.S. resident for income tax purposes but not gift tax purposes.
 
 Exemptions: 
 
 - Lifetime exemption of about 11.7M. Counting both spouses - you can double that.
-- No return needed for anything below $15,000 per recipient as of 2019. Above that, need to file Form 709. 
+- No return needed for anything below annual exclusion ($15,000 per recipient as of 2019). Above that, need to file Form 709; but not pay taxes if it's below the lifetime exclusion. 
 - gifts to charities
 - gifts to US citizen spouse
 - Transfers by gift of property not situated in the United States from foreign nationals not domiciled in the United States are also not subject to U.S. gift taxes.
+
+Exemptions for non-residents
+
+- annual gift tax exclusion same as other taxpayers
+- no lifetime exclusion
+- no gift tax if the property is not located in the U.S. There is no gift tax if it is intangible property, such as shares in U.S. corporations
+
+U.S. citizens and residents must report gifts from a non-resident alien that are more than $100,000 on Form 3520.
+
+
+
+## Exit / Expatriation tax
+- 23.8%
+- any individual (citizen or permanent resident for 8 years in 15 years) who had a net worth of $2 million or an average income tax liability of $124,000 for the five previous years (adjusted annually for inflation)
+- Items considered
+  - Assets that haven’t been taxed yet but would be in the future, such as capital gains on stocks or funds in retirement accounts
+
+
+State exit taxes
+
+- CA 
+
+## Errors
+Don’t wait to come into compliance. The IRS typically only offers amnesty if you reach out to them first. If they discover that you’ve failed to file and contact you first, you will lose the privilege of amnesty and face heavy penalties.
