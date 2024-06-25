@@ -14,7 +14,7 @@ Rajaguru Tikka Pai to whom the village of Chanivara had been granted is describe
 #### 1788
 > The second edition also came with an appendix. It included a nirnay patra (judgement letter) from the Shankaracharya of Shringeri,15 signed in 1788 by the Resident of Benares, Jonathan Duncan, affirming the varna sankara origins of both the Shenvi and Palshe Brahmans, as well as a letter signed by both the secretary and the undersecretary of the Bombay presidency denying Brahman status to the Sonars of Bombay. The inclusion of this evidence, so to speak, made Padwal's assertions about varna sankara more difficult to refute.
 
-
+Reversed in 1859, it seems.
 
 ## trikarmi vs ShaT-karmi dispute
 - "After the imprisonment of their priests during the Inquisition, the Saraswats had to resort to the services of Karhada Brahmans, till many years later, the Vaishnavas persuaded the guru of the Uttaradi Math to train their priests." 
