@@ -35,8 +35,11 @@ Reversed in 1859, it seems.
 > "A similar objection was raised so late as in 1907 in the territory of the Sindhias where they had settled down for generations and a decision had to be obtained from that Government on the 2nd of July 1908" 
 
 ## Fish disputes
-- "At the time of the ordination of Vittal Sheni Rangnekar as Satchidananda Saraswat in 1630, it was held that there was no objection to their eating fish as they originally came from Gauda Desha." 
-- "In 1865, the Pandits of Kashi held that there was nothing wrong with the practice of the Pancha Gauda Brahmans of eating fish and meat."
-- "In 1859, the Jagadguru of Sringeri declared that the Saraswats were shatkarmis and directed the other Brahmans to assist them in the disposal of their dead bodies." 
-- "In the first decade of the nineteenth century Captain (later Sir Thomas) Munro, Collector of Kanara, had to decide on account of the opposition of the Gurus of the Udipi Maths, that the Guru of the Kashi Math was entitled to travel with the birudus (paraphernalia) granted to this Math by the Kumbakonam Math." 
+> "At the time of the ordination of Vittal Sheni Rangnekar as Satchidananda Saraswat in 1630, it was held that there was no objection to their eating fish as they originally came from Gauda Desha." 
+
+> "In 1865, the Pandits of Kashi held that there was nothing wrong with the practice of the Pancha Gauda Brahmans of eating fish and meat."
+
+> "In 1859, the Jagadguru of Sringeri declared that the Saraswats were shatkarmis and directed the other Brahmans to assist them in the disposal of their dead bodies." 
+
+> "In the first decade of the nineteenth century Captain (later Sir Thomas) Munro, Collector of Kanara, had to decide on account of the opposition of the Gurus of the Udipi Maths, that the Guru of the Kashi Math was entitled to travel with the birudus (paraphernalia) granted to this Math by the Kumbakonam Math." 
 
