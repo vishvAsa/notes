@@ -4,7 +4,7 @@ title = "Settlement constitution"
 
 ## पृष्ठभूमिका Background
 - India
-  - dense population. Famine + war looming post-oil-collapse (150 yrs, +100 if ice methane works).  
+  - dense population. Famine + war looming post-oil-collapse (150 yrs, +100 if ice methane works). (Ref- [Murphy](https://escholarship.org/uc/energy_ambitions) )  
 - Latin America 
   - low population density, plenty land+water.  
   - Locals look like us - so less conflict (though it will be there).
