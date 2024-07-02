@@ -21,10 +21,22 @@ Advance tax schedule: [here](https://cleartax.in/s/interest-imposed-by-income-ta
 Sec. 195
 
 - 10% LTCG on unlisted securities, and eq. share / EOF units that have been subjected to STT tax
-- 20%: Other LTCG
+- 20%: Other LTCG (indexing benefit available)
 - 15%: STCG on equity share / EOF unit that have been subjected to STT
 
+### Acquisition cost computation
+Grandfathering Clause in Section 112A 2018 - for equities acquired before Jan 31 2018, use price on that day as acquisition cost. (Reason: Earlier there was no tax on capital gains.)
 
+#### Inflation index 
+Cost Inflation Indiex (CII) can be applied in many cases.
+
+The below likely refers to 10% LTCG cases -
+
+> the benefit of inflation indexation of the cost of acquisition will not be available for the purpose of calculating LTCG on equity shares or equity-oriented funds. Source: [TW](https://cleartax.in/s/long-term-capital-gains-on-shares) Source: [TW](https://taxguru.in/income-tax/reporting-capital-gain-sale-equity-itr-2.html#google_vignette)
+
+> In the case of unlisted equity shares, you have the option to take indexation benefits or not. You can calculate your tax liability both with indexation at 20% and without indexation at 10% and choose whichever is more beneficial.  Source: [TW 2023](https://tax2win.in/guide/long-term-capital-gain-on-mutual-funds)
+
+The amendment to the Finance Bill 2023 scrapped the availability of indexation benefits on debt mutual funds.
 
 ### Property sale: India
 - If you sell your land / house / property within 36 months (3 years) of acquiring it, it’s considered to be a short term capital gain. Else it is long term gain.
