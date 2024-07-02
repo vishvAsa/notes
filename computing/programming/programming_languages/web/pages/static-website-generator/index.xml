@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Static website generator on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/pages/static-website-generator/</link>
+    <description>Recent content in &#43;Static website generator on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/pages/static-website-generator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/pages/static-website-generator/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/pages/static-website-generator/hugo/</guid>
+      <description>Intro Static site gengerator - converts markdown files (with yaml or toml metadata) placed in a certain directory structure to html. much faster than jekyll. File Organization High level structure content data layouts - (overrides themes/THEME_DIR/layouts) _default partials (headers, footers etc.. to be included in other htmls) someContentType static themes config.toml Content types Single page List A list page template is a template used to render multiple pieces of content in a single HTML page.</description>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/pages/static-website-generator/jekyll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/web/pages/static-website-generator/jekyll/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
