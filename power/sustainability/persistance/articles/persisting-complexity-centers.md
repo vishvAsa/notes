@@ -2,6 +2,8 @@
 title = "Persisting complexity centers"
 +++
 
+Source: [TW](https://www.mdpi.com/2071-1050/13/15/8161)
+
 Open Access Article
 
 An Analysis of the Potential for the Formation of ‘Nodes of Persisting Complexity’  
@@ -9,7 +11,7 @@ by
 Nick King  
 [](mailto:nseymourk84@gmail.com)  
 and  
-Aled Jones  
+Aled Jones \*  
 [](mailto:aled.jones@aru.ac.uk)
 
 Global Sustainability Institute, Anglia Ruskin University, Cambridge CB1 1PT, UK
@@ -40,7 +42,7 @@ The analysis outputs are applied to identify insights for enhancing resilience t
 
 Keywords:
 
-[sociopolitical complexity](/search?q=sociopolitical+complexity); [collapse](/search?q=collapse); [de-complexification](/search?q=de-complexification); [lifeboats](/search?q=lifeboats); [carrying capacity](/search?q=carrying+capacity); [resilience](/search?q=resilience)
+[sociopolitical complexity]; [collapse]; [de-complexification]; [lifeboats]; [carrying capacity]; [resilience]
 
 ## 1. Introduction
 
@@ -487,7 +489,339 @@ The authors declare no conflict of interest.
 | United States | 335 million total population [^71]  <br>9,147,420 km2 total land area [^100]  <br>44.5% agricultural land [^72]  <br>**0.012 km2 agricultural land/capita** |
 | Ireland | 5.2 million total population [^71]  <br>68,890 km2 total land area [^100]  <br>66.1% agricultural land [^72]  <br>**0.009 km2 agricultural land/capita** |
 
-## References
+## 8. Tables
+### 1. Summary of ‘Collapse’ Scenarios.
+
+| Nomenclature | Source(s) | Overview |
+| --- | --- | --- |
+| Societal collapse | \[[^7],[^8],[^28]\] | Significant and permanent decreases in measures including: human populations; stocks of non-renewable resources or representations such as ‘wealth’ or ‘nature’; and other ‘services’ supporting civilisation. |
+| Seneca cliff | \[[^12],[^13]\] | Decease in measures (see above) that are characterised as occurring on a significantly more rapid timescale than their increase or build-up. A slow build-up of complexity followed by a very rapid ‘de-complexification’ (hence the ‘cliff’). |
+| Olduvai collapse | [^54] | Energy production per capita will undergo a peak and decline that will limit the overall duration of high technology, industrial civilisation. The collapse will be characterised by cascading failures of the electrical distribution systems that underpin civilisation and its support systems and cause a reversion to much simpler societies. |
+| Overshoot and collapse | [^55] | Complex systems commonly exhibit ‘overshoot and collapse’ dynamics in which exponential growth leads to depletion of supporting resources. This is mathematically and observationally demonstrable, e.g., through the behaviour of populations, resource extraction curves, etc. |
+| Energy trap | [^26] | This describes a global-scale situation in which increasing gross energy output delivers decreasing net energy to society. If gross energy consumption in such a scenario increases against a low or decreasing EROI value, there is potential for the triggering of the full collapse of the energy system. |
+| Great Simplification | [^1] | The large future reduction in global economic activity likely to occur to due to crucial limits being encountered. The limits most likely to cause this are availability of high EROI energy resources, and the effectiveness of debt as an instrument to ‘pull resources forward’ in time (i.e., financing the exploitation of resources with debt allows this to occur earlier, but with steeper future declines in the resource availability). |
+| Power-down | [^56] | Industrialised, globalised society is dependent on the continuous availability of high EROI energy resources (fossil hydrocarbons), and as availability of this declines, society will have less available energy to underpin its essential functions, and turmoil in the form of economic disruption, declining living standards and warfare may become likely. |
+| The Contraction | [^57] | The contraction is a hypothetical process described in fiction in which the period of global economic growth and globalisation (the ‘Expansion’ i.e., the Industrial Revolution and the ‘Great Acceleration’) would undergo a prolonged reversal (the ‘Contraction’) as crucial energy supplies (fossil fuels) become steadily scarcer. |
+
+### 2. Additional Measures for Assessment of ‘De-complexification’.
+
+| Name | Description and Basis of Scoring |     |
+| --- | --- |
+| Carrying Capacity Analysis | This analysis considers nations from the purely biophysical perspective of whether the extent of arable land within the borders of a country could provide sufficient food to support the current population (assuming that large-scale food imports would be inaccessible under a hypothetical future ‘de-complexification’ event), i.e., is the current population in excess of the land’s carrying capacity. The arable land per capita (calculated and presented in [Appendix D](#app4-sustainability-13-08161)) is compared with the land area required to provide at least a subsistence diet to assign a semi-quantitative score as follows: |     |
+| 1   | The land area available per capita is negligible or significantly below the minimum subsistence level. |
+| 2   | The land area available per capita is below the minimum subsistence level. |
+| 3   | The land area available per capita is broadly commensurate with the minimum subsistence level. |
+| 4   | The land area available per capita is above the minimum subsistence level. |
+| 5   | The land area available per capita is significantly above the minimum subsistence level. |
+| Isolation Analysis | This is primarily defined on the basis of connection and proximity to large external populations (e.g., megacities, regional population centres) that may be subject to significant population displacement and geographical features that may make the subject country/region a favoured location for large-scale migrations. It is related to the Carrying Capacity Analysis in that any displacement of populations would adversely affect the ratio of population to carrying capacity in the receiving destination. A score is assigned on the basis of a subjective, general analysis of the geographical situation of the nation in question as follows: |     |
+| 1   | The nation is directly connected by land or narrow straits to and/or has close proximity to external population centres. |
+| 2   | The nation has moderate land or sea connections and/or has moderate proximity to external population centres. |
+| 3   | The nation has longer land or sea connections and/or has moderate proximity to external population centres, but other factors (e.g., high latitude) increase relative isolation. |
+| 4   | The nation has moderate separation and/or distance from external population centres. |
+| 5   | The nation has a large separation and/or distance from external population centres. |
+| Self-sufficiency Analysis | It is noted that this is one of the metrics accounted for in ND-GAIN, but the emphasis in that study is on energy imports and general manufacturing capacity. This metric is concerned with how self-sufficient nations may be under a hypothetical future ‘de-complexification’ event, i.e., how a particular country may be able to respond to the disruption, shrinkage or cessation of global supply lines through its access to and flexibility of indigenous energy supplies and manufacturing capacity. A score is assigned on the basis of a subjective, general analysis of the energy and manufacturing infrastructure and capacity of the nation in question as follows: |     |
+| 1   | The nation has negligible or very limited existing indigenous renewable energy resources and/or manufacturing capacity. |
+| 2   | The nation has limited existing indigenous renewable energy resources and/or manufacturing capacity. |
+| 3   | The nation has moderate existing indigenous renewable energy resources and/or manufacturing capacity. |
+| 4   | The nation has significant existing indigenous renewable energy resources and/or manufacturing capacity. |
+| 5   | The nation has very significant existing indigenous renewable energy resources and/or manufacturing capacity. |
+
+**Notes**: It is acknowledged that ‘carrying capacity’ is not a firmly defined concept; [^67] describes it as a complex, non-constant phenomenon that emerges from processes and interdependent relationships between limited resources and the populations that depend on them. For the purposes of this paper, carrying capacity is assumed to be a simple measure of the human population that can be sustained by the theoretical maximum extent of agricultural land within a given nation, i.e., the assessment of agricultural land available per capita. Ref. [^68] notes that the average global land demand is 2.2 hectares (0.022 km2) per capita, but this is based on total ecological footprint to support a range of lifestyles from subsistence through to industrialised Western lifestyles, i.e., this accounts for food, fibre, pollution absorption, etc. The estimated land area required to sustain one person at an adequate level of calories with a vegetarian diet ranges from 0.0001 km2 [^69] to 0.002 km2 [^70].
+
+### 3. Scoring and Underpinning of Assessment of ‘De-complexification’.
+
+| Country | Carrying Capacity Analysis  <br>(Refer to [Table A4](#table_body_display_sustainability-13-08161-t0A4) in [Appendix D](#app4-sustainability-13-08161) for Supporting Calculations) | Isolation Analysis | Self-Sufficiency Analysis | Total |
+| --- | --- | --- | --- | --- |
+| Norway | 2  <br>Low current population; 5.5 million [^71] but very low fraction of agricultural land; 2.7% [^72] means that agricultural land per capita is low at 0.002 km2. Direct access to the North Atlantic and Arctic Oceans. | 3  <br>Direct land connection to the Eurasian landmass but high northern latitude means it is remote from large European population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 9   |
+| New Zealand | 5  <br>Low current population; 5.0 million [^71] and high fraction of agricultural land; 43.2% [^72] means that agricultural land per capita is high at 0.023 km2. Direct access to the Pacific and Southern Oceans. | 5  <br>Island archipelago in the southwestern Pacific Ocean at mid southern latitudes with no nearby large or heavily populated landmasses | 3  <br>Abundant indigenous renewable energy sources.  <br>Modern economy but predominantly primary-resource-based, limited manufacturing capacity. | 13  |
+| Finland | 2  <br>Low current population; 5.6 million [^71] but low fraction of agricultural land; 7.5% [^72] means that agricultural land per capita is low at 0.004 km2. Direct access to the Baltic Sea. | 3  <br>Direct land connection to the Eurasian landmass, but high northern latitude means it is remote from large European population centres. | 3  <br>Moderate indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 8   |
+| Denmark | 3  <br>Low current population; 5.9 million [^71] high fraction of agricultural land; 63.4% [^72] but small total land area means that agricultural land per capita is low at 0.005 km2. Direct access to Baltic and North Seas. | 2  <br>In close proximity to large European population centres. | 3  <br>Abundant indigenous renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 8   |
+| Sweden | 2  <br>Moderate current population; 10.3 million [^71] but low fraction of agricultural land; 7.5% [^72] means that agricultural land per capita is low at 0.003 km2. Direct access to the Baltic and North Seas. | 3  <br>Direct land connection to the Eurasian landmass but high northern latitude means it is moderately remote from large European population centres. | 3  <br>Abundant indigenous renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 8   |
+| Switzerland | 2  <br>Low current population; 8.5 million [^71] high fraction of agricultural land; 38.7% [^72] but small total land area means that agricultural land per capita is low at 0.002 km2. Landlocked country. | 1  <br>Centrally located within large European population centres. | 3  <br>Moderate indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 6   |
+| Singapore | 1  <br>Low current population; 5.9 million [^71], but very low fraction of agricultural land; 1% [^72] and very small total land area means that agricultural land per capita is negligible.  <br>Direct access to the Indian Ocean and South China Sea. | 1  <br>Island city-state separated from the Eurasian landmass by a narrow strait, centrally located within large Asian population centres. | 2  <br>Very limited indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with limited manufacturing capacity. | 4   |
+| Austria | 2  <br>Low current population; 8.9 million; [^71] high fraction of agricultural land; 38.4% [^72] but small total land area means that agricultural land per capita is low at 0.004 km2. Landlocked country. | 1  <br>Centrally located within large European population centres. | 3  <br>Abundant indigenous renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 6   |
+| Iceland | 4  <br>Very low current population; 354,000 [^71] and moderate fraction of agricultural land; 18.7% [^72] means that agricultural land per capita is moderate at 0.053 km2. Direct access to the North Atlantic Ocean. | 5  <br>Island in the North Atlantic Ocean at high northern latitudes with no nearby large or heavily populated landmasses | 2  <br>Abundant indigenous renewable energy sources.  <br>Modern high-tech economy with limited manufacturing capacity. | 11  |
+| Germany | 2  <br>High current population; 79.9 million [^71] high fraction of agricultural land; 48% [^72] but moderate total land area means that agricultural land per capita is low at 0.002 km2. Direct access to the Baltic and North Seas. | 1  <br>Centrally located within large European population centres. | 5  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very large manufacturing capacity. | 8   |
+| United Kingdom | 3  <br>High current population; 66.1 million [^71] very high fraction of agricultural land; 71% [^72] but moderate total land area means that agricultural land per capita is low at 0.003 km2. Direct access to the North Atlantic Ocean and North Sea. | 4  <br>Island in the northeastern Atlantic Ocean at mid-high northern latitudes, separated from the Eurasian landmass by a moderately sized strait, peripheral to large European population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with large manufacturing capacity. | 11  |
+| Luxembourg | 1  <br>Very low current population; 640,000 [^71] high fraction of agricultural land; 51% [^72] but very low total land area means that agricultural land per capita is low at 0.002 km2.  <br>Landlocked country. | 1  <br>Centrally located within large European population centres. | 2  <br>Very limited indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very limited manufacturing capacity. | 4   |
+| Australia | 5  <br>Moderate current population; 25.8 million [^71], high fraction of agricultural land; 52.9% [^72] and very large total land areas means that agricultural land per capita is very high at 0.158 km2. Direct access to the Pacific and Indian Oceans. | 4  <br>Island continent located between the Pacific, Southern and Indian Oceans at low-mid southern latitudes, separated from outlying islands of the Eurasian landmass by a moderately-sized strait, peripheral to large Asian population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 13  |
+| Korea | 1  <br>High current population; 51.7 million [^71] moderate fraction of agricultural land; 18.1% [^72] and moderate total land area means that agricultural land per capita is negligible. Direct access to the Sea of Japan and East China Sea. | 2  <br>Direct land connection to the Eurasian landmass in close proximity to large Asian population centres. | 3  <br>Moderate indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very large manufacturing capacity. | 6   |
+| Japan | 1  <br>Very high current population; 124.7 million [^71] and low fraction of agricultural land; 12.5% [^72] means that agricultural land per capita is negligible. Direct access to the Pacific Ocean and Sea of Japan. | 3  <br>Island archipelago in the northwestern Pacific Ocean at low-mid northern latitudes, separated from Eurasian landmass by a moderately-sized sea, peripheral to large Asian population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very large manufacturing capacity. | 8   |
+| The Netherlands | 2  <br>High current population; 17.3 million [^71] high fraction of agricultural land; 55.1% [^72] but low total land area means that agricultural land per capita is very low at 0.001 km2.  <br>Direct access to the North Sea. | 1  <br>Centrally located within large European population centres. | 3  <br>Moderate indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 6   |
+| France | 3  <br>High current population; 68.1 million [^71] but high fraction of agricultural land; 52.7% [^72] means that agricultural land per capita is moderate at 0.004 km2. Direct access to the North Atlantic Ocean. | 1  <br>Centrally located within large European population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with large manufacturing capacity. | 8   |
+| Canada | 4  <br>Moderate current population; 37.9 million [^71] low fraction of agricultural land; 6.8% [^72] but very large total land area means that agricultural land per capita is moderate at 0.016 km2. Direct access to the Pacific and North Atlantic Oceans. | 2  <br>Direct land connection to the North and Central American landmass; in close proximity to large North American population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 10  |
+| United States | 4  <br>Very high current population; 335.0 million [^71] high fraction of agricultural land; 44.5% [^72] and very large total land area means that agricultural land per capita is moderate at 0.012 km2. Direct access to the Pacific and North Atlantic Oceans. | 1  <br>Centrally located within large North and Central American population centres. | 5  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very large manufacturing capacity. | 10  |
+| Ireland | 5  <br>Low current population; 5.2 million [^71] and very high fraction of agricultural land; 66.1% [^72] means that agricultural land per capita is moderate at 0.009 km2. Direct access to the North Atlantic Ocean. | 5  <br>Island in the northeastern Atlantic Ocean at mid-high northern latitudes, separated from Eurasian landmass by the Island of Britain, a sea and a moderately sized strait, remote from large European population centres. | 2  <br>Moderate indigenous renewable energy sources.  <br>Modern economy but predominantly primary-resource-based; limited manufacturing capacity. | 12  |
+
+**Notes**: ‘Agricultural land’ is total area of land utilised for all forms of agriculture, including arable, permanent cropland and permanent pasture [^72]. Note that for some countries (e.g., Australia) pasture may make up a large proportion of the total, so a large fraction of the land in question may not comprise highly fertile land capable of high-productivity output that could support large human populations. Therefore, the metric of ‘fraction of agricultural land’ is used as an indicative measure of the general carrying capacity of the territory of the country in question but may not reflect the country’s true capacity for food production.
+
+### 4. ‘Favourable Starting Location’ Rating.
+
+| Country | Further Analysis Score \[A\] | ND-Gain Ranking \[B\] | ‘Favourable Starting Condition’  <br>Rating \[A/B\] |
+| --- | --- | --- | --- |
+| New Zealand | 13  | 2   | 6.5 |
+| Iceland | 11  | 9   | 1.2 |
+| United Kingdom | 11  | 11  | 1   |
+| Australia | 13  | 13  | 1   |
+| Ireland | 12  | 20  | 0.6 |
+
+### 5. Further Analysis by Nation.
+
+
+
+#### New Zealand
+
+##### Energy Resources
+
+-   Abundant domestic renewable energy resources,  
+    with existing large-scale utilisation of geothermal and hydroelectric resources.
+-   The national geothermal resource is currently partially exploited,  
+    with potential for significant future increases in usage:
+  - Currently, 740 MW of shallow geothermal energy is developed in the North Island Taupo Volcanic Zone (TVZ) [^79];  
+    exploitation of deeper geothermal resources may yield further large energy resources.
+  - In addition to the TVZ, there is potential for development of shallow geothermal resources [^80]  
+    on the Alpine Fault on the South Island
+-   The national hydroelectric resource is currently extensively exploited:
+  - The Manapouri hydroelectric scheme/Tiwai Point Aluminium Smelter in the far south of the South Island  
+    were co-developed with the infrastructure configured specifically to supply the energy demands of the smelting operations [^81].
+  - The likely future closure of the smelter for economic reasons [^82] means that  
+    approximate 800 MW output of the Manapouri Power Station may become ‘surplus’ in future  
+    and could become available for more general national use.
+-   There is also a large and only partially developed potential for solar  
+    and on/offshore wind energy generation.
+
+##### Climate, Agricultural resources and other factors
+
+-   New Zealand has a temperate, oceanic climate with abundant precipitation (with regional variation, e.g., sub-tropical zones in the north [^83]).
+-   There is also abundant agricultural land (and a high per capita availability, as identified in [Table 4](#table_body_display_sustainability-13-08161-t004)).  
+    However, [^84] identifies the challenges associated with access to water resources,  
+    particularly in relation to heterogeneous distribution  
+    and decreasing quality due to widespread contemporary agricultural over-intensity  
+    (noting that access to energy resources could contribute to alleviating challenges such as these).
+-   New Zealand also has susceptibility/vulnerability to natural hazards  
+    (particularly geohazards such as large seismic and/or volcanic events).+++(5 can affect agriculture)+++
+
+##### Overview
+
+-   In terms of provision of indigenous electrical energy,  
+    New Zealand has highly favourable conditions as a result of its geographic contexts (a volcanically and tectonically active archipelago).
+-   The potential future general availability of the output of the Manapouri scheme  
+    may result in New Zealand in essence having more energy than it can use,  
+    even before development of future resources is considered.
+-   Despite abundant energy resources,  
+    manufacturing capacity has historically been limited.
+-   This is, however, largely a function of a historical/current low population density,  
+    remoteness from world markets and a reliance on agriculture as an economic mainstay.
+-   Overall, New Zealand has inherent, specific features that make it a compelling candidate as a potential ‘node of persisting complexity’.
+
+
+#### Iceland
+
+##### Energy Resources
+
+-   Abundant domestic renewable energy resources,  
+    with existing large-scale utilisation of geothermal and hydroelectric resources
+  - The national geothermal resource has already been extensively developed (utilised for electrical generation and widespread urban space heating) \[[^77],[^85]\].
+-   The national hydroelectric resource is currently partially exploited:
+  - The key component of Iceland’s hydroelectric generation infrastructure is the 690MW Kárahnjúkar hydroelectric plant [^86].  
+    This was commissioned in 2007 to supply power to the Aluminium smelter in Fjardaál (through a dedicated transmission line)  
+    and is Iceland’s largest power station (accounting for approx. 25% of the nation’s generation capacity).
+-   There is also a large and currently undeveloped potential for solar (which is significant even with the low solar irradiance values received at Iceland’s high latitude) and on/offshore wind energy generation.
+
+
+
+
+##### Climate, Agricultural resources and other factors
+
+-   Iceland has a cool temperate climate (the island is at sub-Arctic latitude, but the climatic regime is moderated by the North Atlantic Current) with moderate precipitation [^83]
+  - It has a high per capita availability of agricultural land;  
+    this is, however, largely an artefact of the very low population of the country relative to its total geographical area.
+-   Although the total fraction of agricultural land is moderate [^72],  
+    there is limited agricultural capacity [^87] (due to limited fertile land and a climate unsuited to many arable crops)  
+    and remains reliant on food imports for a large proportion of its domestic demand.+++(5)+++
+-   Iceland is also prone (in a similar manner to New Zealand) to volcanic geohazards,  
+    which pose an ongoing threat to the agricultural resources that the nation does possess.+++(5)+++
+-   The low provision of land suitable for arable or livestock farming is, however,  
+    partly offset by extensive and well-established fisheries in the surrounding North Atlantic  
+    and the increasing use of intensive agricultural techniques  
+    supplemented by technology and abundant energy availability (e.g., geothermally heated polytunnels).+++(4)+++
+
+
+
+
+##### Overview
+
+-   In terms of provision of indigenous electrical energy,  
+    Iceland has highly favourable conditions as a result of its geographic contexts  
+    (a volcanically active island at high northern latitudes, resulting in icecaps with significant runoff).
+-   These indigenous sources comprise a resource  
+    that is greater than national demand (particularly if the requirements of Fjardaál were subtracted)  
+    in a similar vein to New Zealand.
+-   Overall, Iceland has several ‘favourable starting conditions’  
+    (primarily an abundance of current/potential renewable energy resources  
+    that may serve to offset agricultural capacity limited by geography)  
+    that give it potential to comprise a future ‘node of persisting complexity’.
+
+
+
+
+#### United Kingdom
+
+##### Energy Resources
+
+-   The United Kingdom has mixed energy resources and capacity [^88]  
+    and, therefore, a more complex ‘energy base’ than the other nations considered to have ‘favourable starting conditions’.
+-   It currently has a large (but decreasing) reliance of fossil fuel (particularly natural gas) and nuclear generation capacity,  
+    with a large (and increasing—peaking at up to approx. 50% of total electrical load) renewables contribution (particularly offshore wind).+++(5)+++
+-   The indigenous renewable energy infrastructure also has significant potential to be increased, primarily due to currently unexploited wind resources, but also through infrastructure to exploit other large resources, such as lagoons or barrages in the highly tidal Severn Estuary [^89].
+
+
+
+
+##### Climate, Agricultural resources and other factors
+
+-   The United Kingdom has a temperate climate (moderated by prevailing southwest winds over the North Atlantic Current), plentiful precipitation [^83] and generally fertile soils.
+-   It has a low per capita availability of agricultural land;  
+    this is, however, largely an artefact of the very high population of the country relative to its endowment of agricultural land and total geographical area.
+-   Agriculture in the United Kingdom is extensive [^90],  
+    varied in terms of produce and outputs and  
+    shows generally increasing trends in outputs and generally improving environmental metrics.
+-   The United Kingdom is not prone to major natural hazards,  
+    though extreme weather events have the potential to damage agricultural output,  
+    particularly considering the small land area of the nation.+++(4)+++
+
+
+
+
+##### Overview
+
+-   The United Kingdom has an overall complex  
+    and mixed picture for ‘favourable starting conditions’.
+-   It has extensive renewable energy resources (primarily wind),  
+    which are partially exploited and with capacity for the usage to increase in future.
+  - However, it has a high population and per capita energy demand [^91],  
+    and meeting contemporary demands with renewables alone would require very extensive infrastructure,  
+    hence the lower penetration than other nations considered
+  - The reliance on a mix of generation sources  
+    also has the potential to render a transition in a global ‘de-complexification’ event more challenging.+++(4)+++  
+    High-technology generation sources that rely on globalised supply chains for fuel and other support services (i.e., natural gas and nuclear generation capacity)  
+    could potentially be rendered at least partly inoperable after a period of time  
+    (although the nation’s manufacturing capabilities may be able to at least partly mitigate this).
+  - A switch to greater reliance on renewables could also be more challenging  
+    than in the nations that currently have a simpler energy mix  
+    with much higher existing penetration of renewables, even with decreased energy demand.+++(5)+++
+-   The issues with energy and agricultural resources are compounded by the large population and small land area;  
+    these factors limit the potential for this nation to comprise a future ‘node of persisting complexity’.
+
+
+
+
+#### Australia
+
+##### Energy Resources
+
+-   Focusing on Tasmania (see below), the island has a significant endowment of renewable energy,  
+    primarily in the form of hydroelectric capacity (comprising a smaller number of large power stations and a larger number of small to medium generators) and wind generation capacity.
+  - There is also a large and currently undeveloped potential for expansion of renewable generation capacity,  
+    which is being explored through the ‘Battery for the Nation’ initiative [^92].+++(5)+++
+
+
+
+
+##### Climate, Agricultural resources and other factors
+
+-   The continental scale of Australia means that it encompasses large variations in climate,  
+    but the majority of the landmass experiences arid to semi-arid conditions,  
+    with wet tropical conditions prevailing in the far north  
+    and temperate conditions prevailing in the southeast of the continent and Tasmania [^83].
+-   Land use is dominated by agriculture in the temperate, higher precipitation zones  
+    and rangeland in the drier central and northern zones.+++(4)+++
+-   In the case of Tasmania, one-quarter of the landmass is currently in use for agriculture [^93],  
+    and the (relatively, by the standards of Australia) fertile soil and temperate, oceanic climate allow for varied and productive agriculture.+++(4)+++
+
+
+
+
+##### Overview
+
+-   Climatic warming [^94] is likely to lead to the exacerbation of existing trends on the Australian continent,  
+    i.e., increased precipitation in wet, tropical zones  
+    and decreased precipitation in temperate and arid zones (i.e., prevailing climatic conditions that are likely to be become more extreme),  
+    which is likely to result in generalised negative effects for biodiversity, agriculture and infrastructure.+++(4)+++
+-   Land use patterns introduced since European colonisation of the continent have degraded the (already low fertility) land  
+    such that the impacts of climate change (incidences of wildfires, water shortages) are likely be exacerbated.
+-   Australia presents a unique situation amongst the other nations in that an enclave (the island State of Tasmania)  
+    diverges significantly from the continental landmass by a number of measures.
+  - Ref. [^95] describes the general climatic changes that have occurred to date in Tasmania,  
+    and the conditions that are likely to prevail over the course of the 21st century due to climate change;  
+    temperatures in Tasmania have increased since the mid-20th century  
+    but to a lesser extent than in continental Australia,  
+    but total rainfall has decreased in line with that experience in southern Australia.
+  - Under high or low global emissions scenarios,  
+    temperature increases in Tasmania are projected to be lower than the global average,  
+    largely due to a southerly latitude and the moderating influence of the Southern Ocean,  
+    though the spatial and seasonal distribution of precipitation is likely to undergo significant change due to climatic changes.
+-   Overall, Tasmania is likely to experience lesser climate change impacts than continental Australia,+++(5)+++  
+    and as such, may act as a localised region of that nation with greater ‘favourable starting conditions’,  
+    and could become increasingly recognised as Australia’s ‘local refuge (lifeboat)’  
+    as conditions on the continental mainland may become less amenable to supporting large human populations in the future.
+
+
+
+
+#### Ireland
+
+##### Energy Resources
+
+-   The island of Ireland (disregarding political subdivisions) is somewhat similar to the UK  
+    in terms of majority reliance on natural gas-fired thermal generation,  
+    but with a significant and rapidly growing contribution from renewables, which has the potential to improve energy security overall [^85].
+  - Approximately one-quarter of electricity generation was from renewable sources  
+    (predominantly wind generation, but renewable gas and hydroelectric as well) in 2019,  
+    which represented a 13% increase over the previous year.  
+    There is potential to grow this capacity through use of currently unexploited offshore wind resources [^96].
+-   Key differences from the United Kingdom are a much smaller population  
+    and therefore a much smaller overall energy demand, and the absence of nuclear generation capacity.  
+    The lower energy demand combined with the absence of partial reliance on high-technology energy sources  
+    means that a transition to reliance on renewables (assuming drastically decreased demand) may be more feasible,  
+    even with the lower penetration of renewables than in nations such as New Zealand.
+
+
+
+
+##### Climate, Agricultural resources and other factors
+
+-   Ireland has a humid, temperate climate (moderated by the North Atlantic Current), plentiful precipitation [^83]  
+    and fertile soils in the eastern part of the island.
+-   It has a moderate per capita availability of agricultural land;  
+    this is, however, largely an artefact of the limited geographical area of the nation, given that the population is low,  
+    and the proportion of agricultural land is high.
+-   Agriculture in Ireland is extensive [^97], varied in terms of produce and outputs,  
+    has high productivity and is a net exporter.
+-   In addition to extensive agricultural capacity,  
+    Ireland is not prone to major natural hazards,  
+    though extreme weather events have the potential to damage agricultural output,  
+    particularly considering the small land area of the nation.+++(4)+++
+
+
+
+
+##### Overview
+
+-   Ireland has extensive renewable energy resources (primarily wind)  
+    which are currently only partially exploited and so have capacity for usage to increase in future,  
+    noting that fossil fuel generation currently dominates.
+  - As such, any transition during a ‘de-complexification’ event would potentially be complicated relative to nations  
+    with current high existing renewables penetration  
+    but would still be favourable compared to the UK (with its more complex energy mix and high overall energy demand).
+-   Agricultural resources are extensive and generally favoured by climatic conditions (now and in the future)  
+    but have the potential to be impacted by extreme weather events.  
+    The small population of Ireland would likely offset limitations linked to its small geographical area and current reliance on fossil fuels,  
+    giving it the potential to comprise a future ‘node of persisting complexity’.
+
+
+
+## 9. References
 
 [^1]:  Hagens, N.J. Economics for the future—Beyond the Superorganism. Ecol. Econ. **2020**, 169, 106520. \[[Google Scholar](https://scholar.google.com/scholar_lookup?title=Economics+for+the+future%E2%80%94Beyond+the+Superorganism&author=Hagens,+N.J.&publication_year=2020&journal=Ecol.+Econ.&volume=169&pages=106520&doi=10.1016/j.ecolecon.2019.106520)\] \[[CrossRef](https://doi.org/10.1016/j.ecolecon.2019.106520)\]
 [^2]:  Steffen, W.; Broadgate, W.; Deutsch, L.; Gaffney, O.; Ludwig, C. The trajectory of the Anthropocene: The Great Acceleration. Anthropocene Rev. **2015**, 2, 81–98. \[[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+trajectory+of+the+Anthropocene:+The+Great+Acceleration&author=Steffen,+W.&author=Broadgate,+W.&author=Deutsch,+L.&author=Gaffney,+O.&author=Ludwig,+C.&publication_year=2015&journal=Anthropocene+Rev.&volume=2&pages=81%E2%80%9398&doi=10.1177/2053019614564785)\] \[[CrossRef](https://doi.org/10.1177/2053019614564785)\]
@@ -589,100 +923,4 @@ The authors declare no conflict of interest.
 [^98]:  Parks, R.; McLaren, M.; Toumi, R.; Rivett, U. Experiences and Lessons in Managing Water from Cape Town; Grantham Institute Briefing Paper No. 29; Grantham Institute: London, UK, 2019. \[[Google Scholar](https://scholar.google.com/scholar_lookup?title=Experiences+and+Lessons+in+Managing+Water+from+Cape+Town&author=Parks,+R.&author=McLaren,+M.&author=Toumi,+R.&author=Rivett,+U.&publication_year=2019)\]
 [^99]:  Frank, A.; Carroll-Nellenback, J.; Alberti, M.; Kleidon, A. The anthropocene generalized: Evolution of exo-civilizations and their planetary feedback. Astrobiology **2018**, 18, 503–518. \[[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+anthropocene+generalized:+Evolution+of+exo-civilizations+and+their+planetary+feedback&author=Frank,+A.&author=Carroll-Nellenback,+J.&author=Alberti,+M.&author=Kleidon,+A.&publication_year=2018&journal=Astrobiology&volume=18&pages=503%E2%80%93518&doi=10.1089/ast.2017.1671&pmid=29791236)\] \[[CrossRef](https://doi.org/10.1089/ast.2017.1671)\] \[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/29791236)\]
 [^100]:  List of Countries and Dependencies by Area. Available online: [https://www.worldometers.info/geography/largest-countries-in-the-world/](https://www.worldometers.info/geography/largest-countries-in-the-world/) (accessed on 22 March 2021).
-
-## Tables
-### 1. Summary of ‘Collapse’ Scenarios.
-
-| Nomenclature | Source(s) | Overview |
-| --- | --- | --- |
-| Societal collapse | \[[^7],[^8],[^28]\] | Significant and permanent decreases in measures including: human populations; stocks of non-renewable resources or representations such as ‘wealth’ or ‘nature’; and other ‘services’ supporting civilisation. |
-| Seneca cliff | \[[^12],[^13]\] | Decease in measures (see above) that are characterised as occurring on a significantly more rapid timescale than their increase or build-up. A slow build-up of complexity followed by a very rapid ‘de-complexification’ (hence the ‘cliff’). |
-| Olduvai collapse | [^54] | Energy production per capita will undergo a peak and decline that will limit the overall duration of high technology, industrial civilisation. The collapse will be characterised by cascading failures of the electrical distribution systems that underpin civilisation and its support systems and cause a reversion to much simpler societies. |
-| Overshoot and collapse | [^55] | Complex systems commonly exhibit ‘overshoot and collapse’ dynamics in which exponential growth leads to depletion of supporting resources. This is mathematically and observationally demonstrable, e.g., through the behaviour of populations, resource extraction curves, etc. |
-| Energy trap | [^26] | This describes a global-scale situation in which increasing gross energy output delivers decreasing net energy to society. If gross energy consumption in such a scenario increases against a low or decreasing EROI value, there is potential for the triggering of the full collapse of the energy system. |
-| Great Simplification | [^1] | The large future reduction in global economic activity likely to occur to due to crucial limits being encountered. The limits most likely to cause this are availability of high EROI energy resources, and the effectiveness of debt as an instrument to ‘pull resources forward’ in time (i.e., financing the exploitation of resources with debt allows this to occur earlier, but with steeper future declines in the resource availability). |
-| Power-down | [^56] | Industrialised, globalised society is dependent on the continuous availability of high EROI energy resources (fossil hydrocarbons), and as availability of this declines, society will have less available energy to underpin its essential functions, and turmoil in the form of economic disruption, declining living standards and warfare may become likely. |
-| The Contraction | [^57] | The contraction is a hypothetical process described in fiction in which the period of global economic growth and globalisation (the ‘Expansion’ i.e., the Industrial Revolution and the ‘Great Acceleration’) would undergo a prolonged reversal (the ‘Contraction’) as crucial energy supplies (fossil fuels) become steadily scarcer. |
-
-### 2. Additional Measures for Assessment of ‘De-complexification’.
-
-| Name | Description and Basis of Scoring |     |
-| --- | --- |
-| Carrying Capacity Analysis | This analysis considers nations from the purely biophysical perspective of whether the extent of arable land within the borders of a country could provide sufficient food to support the current population (assuming that large-scale food imports would be inaccessible under a hypothetical future ‘de-complexification’ event), i.e., is the current population in excess of the land’s carrying capacity. The arable land per capita (calculated and presented in [Appendix D](#app4-sustainability-13-08161)) is compared with the land area required to provide at least a subsistence diet to assign a semi-quantitative score as follows: |     |
-| 1   | The land area available per capita is negligible or significantly below the minimum subsistence level. |
-| 2   | The land area available per capita is below the minimum subsistence level. |
-| 3   | The land area available per capita is broadly commensurate with the minimum subsistence level. |
-| 4   | The land area available per capita is above the minimum subsistence level. |
-| 5   | The land area available per capita is significantly above the minimum subsistence level. |
-| Isolation Analysis | This is primarily defined on the basis of connection and proximity to large external populations (e.g., megacities, regional population centres) that may be subject to significant population displacement and geographical features that may make the subject country/region a favoured location for large-scale migrations. It is related to the Carrying Capacity Analysis in that any displacement of populations would adversely affect the ratio of population to carrying capacity in the receiving destination. A score is assigned on the basis of a subjective, general analysis of the geographical situation of the nation in question as follows: |     |
-| 1   | The nation is directly connected by land or narrow straits to and/or has close proximity to external population centres. |
-| 2   | The nation has moderate land or sea connections and/or has moderate proximity to external population centres. |
-| 3   | The nation has longer land or sea connections and/or has moderate proximity to external population centres, but other factors (e.g., high latitude) increase relative isolation. |
-| 4   | The nation has moderate separation and/or distance from external population centres. |
-| 5   | The nation has a large separation and/or distance from external population centres. |
-| Self-sufficiency Analysis | It is noted that this is one of the metrics accounted for in ND-GAIN, but the emphasis in that study is on energy imports and general manufacturing capacity. This metric is concerned with how self-sufficient nations may be under a hypothetical future ‘de-complexification’ event, i.e., how a particular country may be able to respond to the disruption, shrinkage or cessation of global supply lines through its access to and flexibility of indigenous energy supplies and manufacturing capacity. A score is assigned on the basis of a subjective, general analysis of the energy and manufacturing infrastructure and capacity of the nation in question as follows: |     |
-| 1   | The nation has negligible or very limited existing indigenous renewable energy resources and/or manufacturing capacity. |
-| 2   | The nation has limited existing indigenous renewable energy resources and/or manufacturing capacity. |
-| 3   | The nation has moderate existing indigenous renewable energy resources and/or manufacturing capacity. |
-| 4   | The nation has significant existing indigenous renewable energy resources and/or manufacturing capacity. |
-| 5   | The nation has very significant existing indigenous renewable energy resources and/or manufacturing capacity. |
-
-**Notes**: It is acknowledged that ‘carrying capacity’ is not a firmly defined concept; [^67] describes it as a complex, non-constant phenomenon that emerges from processes and interdependent relationships between limited resources and the populations that depend on them. For the purposes of this paper, carrying capacity is assumed to be a simple measure of the human population that can be sustained by the theoretical maximum extent of agricultural land within a given nation, i.e., the assessment of agricultural land available per capita. Ref. [^68] notes that the average global land demand is 2.2 hectares (0.022 km2) per capita, but this is based on total ecological footprint to support a range of lifestyles from subsistence through to industrialised Western lifestyles, i.e., this accounts for food, fibre, pollution absorption, etc. The estimated land area required to sustain one person at an adequate level of calories with a vegetarian diet ranges from 0.0001 km2 [^69] to 0.002 km2 [^70].
-
-### 3. Scoring and Underpinning of Assessment of ‘De-complexification’.
-
-| Country | Carrying Capacity Analysis  <br>(Refer to [Table A4](#table_body_display_sustainability-13-08161-t0A4) in [Appendix D](#app4-sustainability-13-08161) for Supporting Calculations) | Isolation Analysis | Self-Sufficiency Analysis | Total |
-| --- | --- | --- | --- | --- |
-| Norway | 2  <br>Low current population; 5.5 million [^71] but very low fraction of agricultural land; 2.7% [^72] means that agricultural land per capita is low at 0.002 km2. Direct access to the North Atlantic and Arctic Oceans. | 3  <br>Direct land connection to the Eurasian landmass but high northern latitude means it is remote from large European population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 9   |
-| New Zealand | 5  <br>Low current population; 5.0 million [^71] and high fraction of agricultural land; 43.2% [^72] means that agricultural land per capita is high at 0.023 km2. Direct access to the Pacific and Southern Oceans. | 5  <br>Island archipelago in the southwestern Pacific Ocean at mid southern latitudes with no nearby large or heavily populated landmasses | 3  <br>Abundant indigenous renewable energy sources.  <br>Modern economy but predominantly primary-resource-based, limited manufacturing capacity. | 13  |
-| Finland | 2  <br>Low current population; 5.6 million [^71] but low fraction of agricultural land; 7.5% [^72] means that agricultural land per capita is low at 0.004 km2. Direct access to the Baltic Sea. | 3  <br>Direct land connection to the Eurasian landmass, but high northern latitude means it is remote from large European population centres. | 3  <br>Moderate indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 8   |
-| Denmark | 3  <br>Low current population; 5.9 million [^71] high fraction of agricultural land; 63.4% [^72] but small total land area means that agricultural land per capita is low at 0.005 km2. Direct access to Baltic and North Seas. | 2  <br>In close proximity to large European population centres. | 3  <br>Abundant indigenous renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 8   |
-| Sweden | 2  <br>Moderate current population; 10.3 million [^71] but low fraction of agricultural land; 7.5% [^72] means that agricultural land per capita is low at 0.003 km2. Direct access to the Baltic and North Seas. | 3  <br>Direct land connection to the Eurasian landmass but high northern latitude means it is moderately remote from large European population centres. | 3  <br>Abundant indigenous renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 8   |
-| Switzerland | 2  <br>Low current population; 8.5 million [^71] high fraction of agricultural land; 38.7% [^72] but small total land area means that agricultural land per capita is low at 0.002 km2. Landlocked country. | 1  <br>Centrally located within large European population centres. | 3  <br>Moderate indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 6   |
-| Singapore | 1  <br>Low current population; 5.9 million [^71], but very low fraction of agricultural land; 1% [^72] and very small total land area means that agricultural land per capita is negligible.  <br>Direct access to the Indian Ocean and South China Sea. | 1  <br>Island city-state separated from the Eurasian landmass by a narrow strait, centrally located within large Asian population centres. | 2  <br>Very limited indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with limited manufacturing capacity. | 4   |
-| Austria | 2  <br>Low current population; 8.9 million; [^71] high fraction of agricultural land; 38.4% [^72] but small total land area means that agricultural land per capita is low at 0.004 km2. Landlocked country. | 1  <br>Centrally located within large European population centres. | 3  <br>Abundant indigenous renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 6   |
-| Iceland | 4  <br>Very low current population; 354,000 [^71] and moderate fraction of agricultural land; 18.7% [^72] means that agricultural land per capita is moderate at 0.053 km2. Direct access to the North Atlantic Ocean. | 5  <br>Island in the North Atlantic Ocean at high northern latitudes with no nearby large or heavily populated landmasses | 2  <br>Abundant indigenous renewable energy sources.  <br>Modern high-tech economy with limited manufacturing capacity. | 11  |
-| Germany | 2  <br>High current population; 79.9 million [^71] high fraction of agricultural land; 48% [^72] but moderate total land area means that agricultural land per capita is low at 0.002 km2. Direct access to the Baltic and North Seas. | 1  <br>Centrally located within large European population centres. | 5  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very large manufacturing capacity. | 8   |
-| United Kingdom | 3  <br>High current population; 66.1 million [^71] very high fraction of agricultural land; 71% [^72] but moderate total land area means that agricultural land per capita is low at 0.003 km2. Direct access to the North Atlantic Ocean and North Sea. | 4  <br>Island in the northeastern Atlantic Ocean at mid-high northern latitudes, separated from the Eurasian landmass by a moderately sized strait, peripheral to large European population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with large manufacturing capacity. | 11  |
-| Luxembourg | 1  <br>Very low current population; 640,000 [^71] high fraction of agricultural land; 51% [^72] but very low total land area means that agricultural land per capita is low at 0.002 km2.  <br>Landlocked country. | 1  <br>Centrally located within large European population centres. | 2  <br>Very limited indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very limited manufacturing capacity. | 4   |
-| Australia | 5  <br>Moderate current population; 25.8 million [^71], high fraction of agricultural land; 52.9% [^72] and very large total land areas means that agricultural land per capita is very high at 0.158 km2. Direct access to the Pacific and Indian Oceans. | 4  <br>Island continent located between the Pacific, Southern and Indian Oceans at low-mid southern latitudes, separated from outlying islands of the Eurasian landmass by a moderately-sized strait, peripheral to large Asian population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 13  |
-| Korea | 1  <br>High current population; 51.7 million [^71] moderate fraction of agricultural land; 18.1% [^72] and moderate total land area means that agricultural land per capita is negligible. Direct access to the Sea of Japan and East China Sea. | 2  <br>Direct land connection to the Eurasian landmass in close proximity to large Asian population centres. | 3  <br>Moderate indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very large manufacturing capacity. | 6   |
-| Japan | 1  <br>Very high current population; 124.7 million [^71] and low fraction of agricultural land; 12.5% [^72] means that agricultural land per capita is negligible. Direct access to the Pacific Ocean and Sea of Japan. | 3  <br>Island archipelago in the northwestern Pacific Ocean at low-mid northern latitudes, separated from Eurasian landmass by a moderately-sized sea, peripheral to large Asian population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very large manufacturing capacity. | 8   |
-| The Netherlands | 2  <br>High current population; 17.3 million [^71] high fraction of agricultural land; 55.1% [^72] but low total land area means that agricultural land per capita is very low at 0.001 km2.  <br>Direct access to the North Sea. | 1  <br>Centrally located within large European population centres. | 3  <br>Moderate indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 6   |
-| France | 3  <br>High current population; 68.1 million [^71] but high fraction of agricultural land; 52.7% [^72] means that agricultural land per capita is moderate at 0.004 km2. Direct access to the North Atlantic Ocean. | 1  <br>Centrally located within large European population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with large manufacturing capacity. | 8   |
-| Canada | 4  <br>Moderate current population; 37.9 million [^71] low fraction of agricultural land; 6.8% [^72] but very large total land area means that agricultural land per capita is moderate at 0.016 km2. Direct access to the Pacific and North Atlantic Oceans. | 2  <br>Direct land connection to the North and Central American landmass; in close proximity to large North American population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 10  |
-| United States | 4  <br>Very high current population; 335.0 million [^71] high fraction of agricultural land; 44.5% [^72] and very large total land area means that agricultural land per capita is moderate at 0.012 km2. Direct access to the Pacific and North Atlantic Oceans. | 1  <br>Centrally located within large North and Central American population centres. | 5  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very large manufacturing capacity. | 10  |
-| Ireland | 5  <br>Low current population; 5.2 million [^71] and very high fraction of agricultural land; 66.1% [^72] means that agricultural land per capita is moderate at 0.009 km2. Direct access to the North Atlantic Ocean. | 5  <br>Island in the northeastern Atlantic Ocean at mid-high northern latitudes, separated from Eurasian landmass by the Island of Britain, a sea and a moderately sized strait, remote from large European population centres. | 2  <br>Moderate indigenous renewable energy sources.  <br>Modern economy but predominantly primary-resource-based; limited manufacturing capacity. | 12  |
-
-**Notes**: ‘Agricultural land’ is total area of land utilised for all forms of agriculture, including arable, permanent cropland and permanent pasture [^72]. Note that for some countries (e.g., Australia) pasture may make up a large proportion of the total, so a large fraction of the land in question may not comprise highly fertile land capable of high-productivity output that could support large human populations. Therefore, the metric of ‘fraction of agricultural land’ is used as an indicative measure of the general carrying capacity of the territory of the country in question but may not reflect the country’s true capacity for food production.
-
-### 4. ‘Favourable Starting Location’ Rating.
-
-| Country | Further Analysis Score \[A\] | ND-Gain Ranking \[B\] | ‘Favourable Starting Condition’  <br>Rating \[A/B\] |
-| --- | --- | --- | --- |
-| New Zealand | 13  | 2   | 6.5 |
-| Iceland | 11  | 9   | 1.2 |
-| United Kingdom | 11  | 11  | 1   |
-| Australia | 13  | 13  | 1   |
-| Ireland | 12  | 20  | 0.6 |
-
-### 5. Further Analysis by Nation.
-
-| Nation | Discussion |     |
-| --- | --- | --- |
-| New  <br>Zealand | Energy Resources | -   Abundant domestic renewable energy resources, with existing large-scale utilisation of geothermal and hydroelectric resources.<br>    <br>-   The national geothermal resource is currently partially exploited, with potential for significant future increases in usage:<br>    <br>    ○<br>    <br>    Currently, 740 MW of shallow geothermal energy is developed in the North Island Taupo Volcanic Zone (TVZ) [^79]; exploitation of deeper geothermal resources may yield further large energy resources.<br>    <br>    ○<br>    <br>    In addition to the TVZ, there is potential for development of shallow geothermal resources [^80] on the Alpine Fault on the South Island<br>    <br>-   The national hydroelectric resource is currently extensively exploited:<br>    <br>    ○<br>    <br>    The Manapouri hydroelectric scheme/Tiwai Point Aluminium Smelter in the far south of the South Island were co-developed with the infrastructure configured specifically to supply the energy demands of the smelting operations [^81].<br>    <br>    ○<br>    <br>    The likely future closure of the smelter for economic reasons [^82] means that approximate 800 MW output of the Manapouri Power Station may become ‘surplus’ in future and could become available for more general national use.<br>    <br>-   There is also a large and only partially developed potential for solar and on/offshore wind energy generation. |
-| Climate, Agricultural resources and other factors | -   New Zealand has a temperate, oceanic climate with abundant precipitation (with regional variation, e.g., sub-tropical zones in the north [^83]).<br>    <br>-   There is also abundant agricultural land (and a high per capita availability, as identified in [Table 4](#table_body_display_sustainability-13-08161-t004)). However, [^84] identifies the challenges associated with access to water resources, particularly in relation to heterogeneous distribution and decreasing quality due to widespread contemporary agricultural over-intensity (noting that access to energy resources could contribute to alleviating challenges such as these).<br>    <br>-   New Zealand also has susceptibility/vulnerability to natural hazards (particularly geohazards such as large seismic and/or volcanic events). |
-| Overview | -   In terms of provision of indigenous electrical energy, New Zealand has highly favourable conditions as a result of its geographic contexts (a volcanically and tectonically active archipelago).<br>    <br>-   The potential future general availability of the output of the Manapouri scheme may result in New Zealand in essence having more energy than it can use, even before development of future resources is considered.<br>    <br>-   Despite abundant energy resources, manufacturing capacity has historically been limited.<br>    <br>-   This is, however, largely a function of a historical/current low population density, remoteness from world markets and a reliance on agriculture as an economic mainstay.<br>    <br>-   Overall, New Zealand has inherent, specific features that make it a compelling candidate as a potential ‘node of persisting complexity’. |
-| Iceland | Energy Resources | -   Abundant domestic renewable energy resources, with existing large-scale utilisation of geothermal and hydroelectric resources<br>    <br>    ○<br>    <br>    The national geothermal resource has already been extensively developed (utilised for electrical generation and widespread urban space heating) \[[^77],[^85]\].<br>    <br>-   The national hydroelectric resource is currently partially exploited:<br>    <br>    ○<br>    <br>    The key component of Iceland’s hydroelectric generation infrastructure is the 690MW Kárahnjúkar hydroelectric plant [^86]. This was commissioned in 2007 to supply power to the Aluminium smelter in Fjardaál (through a dedicated transmission line) and is Iceland’s largest power station (accounting for approx. 25% of the nation’s generation capacity).<br>    <br>-   There is also a large and currently undeveloped potential for solar (which is significant even with the low solar irradiance values received at Iceland’s high latitude) and on/offshore wind energy generation. |
-| Climate, Agricultural resources and other factors | -   Iceland has a cool temperate climate (the island is at sub-Arctic latitude, but the climatic regime is moderated by the North Atlantic Current) with moderate precipitation [^83]<br>    <br>    ○<br>    <br>    It has a high per capita availability of agricultural land; this is, however, largely an artefact of the very low population of the country relative to its total geographical area.<br>    <br>-   Although the total fraction of agricultural land is moderate [^72], there is limited agricultural capacity [^87] (due to limited fertile land and a climate unsuited to many arable crops) and remains reliant on food imports for a large proportion of its domestic demand.<br>    <br>-   Iceland is also prone (in a similar manner to New Zealand) to volcanic geohazards, which pose an ongoing threat to the agricultural resources that the nation does possess.<br>    <br>-   The low provision of land suitable for arable or livestock farming is, however, partly offset by extensive and well-established fisheries in the surrounding North Atlantic and the increasing use of intensive agricultural techniques supplemented by technology and abundant energy availability (e.g., geothermally heated polytunnels). |
-| Overview | -   In terms of provision of indigenous electrical energy, Iceland has highly favourable conditions as a result of its geographic contexts (a volcanically active island at high northern latitudes, resulting in icecaps with significant runoff).<br>    <br>-   These indigenous sources comprise a resource that is greater than national demand (particularly if the requirements of Fjardaál were subtracted) in a similar vein to New Zealand.<br>    <br>-   Overall, Iceland has several ‘favourable starting conditions’ (primarily an abundance of current/potential renewable energy resources that may serve to offset agricultural capacity limited by geography) that give it potential to comprise a future ‘node of persisting complexity’. |
-| United Kingdom | Energy Resources | -   The United Kingdom has mixed energy resources and capacity [^88] and, therefore, a more complex ‘energy base’ than the other nations considered to have ‘favourable starting conditions’.<br>    <br>-   It currently has a large (but decreasing) reliance of fossil fuel (particularly natural gas) and nuclear generation capacity, with a large (and increasing—peaking at up to approx. 50% of total electrical load) renewables contribution (particularly offshore wind).<br>    <br>-   The indigenous renewable energy infrastructure also has significant potential to be increased, primarily due to currently unexploited wind resources, but also through infrastructure to exploit other large resources, such as lagoons or barrages in the highly tidal Severn Estuary [^89]. |
-| Climate, Agricultural resources and other factors | -   The United Kingdom has a temperate climate (moderated by prevailing southwest winds over the North Atlantic Current), plentiful precipitation [^83] and generally fertile soils.<br>    <br>-   It has a low per capita availability of agricultural land; this is, however, largely an artefact of the very high population of the country relative to its endowment of agricultural land and total geographical area.<br>    <br>-   Agriculture in the United Kingdom is extensive [^90], varied in terms of produce and outputs and shows generally increasing trends in outputs and generally improving environmental metrics.<br>    <br>-   The United Kingdom is not prone to major natural hazards, though extreme weather events have the potential to damage agricultural output, particularly considering the small land area of the nation. |
-| Overview | -   The United Kingdom has an overall complex and mixed picture for ‘favourable starting conditions’.<br>    <br>-   It has extensive renewable energy resources (primarily wind), which are partially exploited and with capacity for the usage to increase in future.<br>    <br>    ○<br>    <br>    However, it has a high population and per capita energy demand [^91], and meeting contemporary demands with renewables alone would require very extensive infrastructure, hence the lower penetration than other nations considered<br>    <br>    ○<br>    <br>    The reliance on a mix of generation sources also has the potential to render a transition in a global ‘de-complexification’ event more challenging. High-technology generation sources that rely on globalised supply chains for fuel and other support services (i.e., natural gas and nuclear generation capacity) could potentially be rendered at least partly inoperable after a period of time (although the nation’s manufacturing capabilities may be able to at least partly mitigate this).<br>    <br>    ○<br>    <br>    A switch to greater reliance on renewables could also be more challenging than in the nations that currently have a simpler energy mix with much higher existing penetration of renewables, even with decreased energy demand.<br>    <br>-   The issues with energy and agricultural resources are compounded by the large population and small land area; these factors limit the potential for this nation to comprise a future ‘node of persisting complexity’. |
-| Australia | Energy Resources | -   Focusing on Tasmania (see below), the island has a significant endowment of renewable energy, primarily in the form of hydroelectric capacity (comprising a smaller number of large power stations and a larger number of small to medium generators) and wind generation capacity.<br>    <br>    ○<br>    <br>    There is also a large and currently undeveloped potential for expansion of renewable generation capacity, which is being explored through the ‘Battery for the Nation’ initiative [^92]. |
-| Climate, Agricultural resources and other factors | -   The continental scale of Australia means that it encompasses large variations in climate, but the majority of the landmass experiences arid to semi-arid conditions, with wet tropical conditions prevailing in the far north and temperate conditions prevailing in the southeast of the continent and Tasmania [^83].<br>    <br>-   Land use is dominated by agriculture in the temperate, higher precipitation zones and rangeland in the drier central and northern zones.<br>    <br>-   In the case of Tasmania, one-quarter of the landmass is currently in use for agriculture [^93], and the (relatively, by the standards of Australia) fertile soil and temperate, oceanic climate allow for varied and productive agriculture. |
-| Overview | -   Climatic warming [^94] is likely to lead to the exacerbation of existing trends on the Australian continent, i.e., increased precipitation in wet, tropical zones and decreased precipitation in temperate and arid zones (i.e., prevailing climatic conditions that are likely to be become more extreme), which is likely to result in generalised negative effects for biodiversity, agriculture and infrastructure.<br>    <br>-   Land use patterns introduced since European colonisation of the continent have degraded the (already low fertility) land such that the impacts of climate change (incidences of wildfires, water shortages) are likely be exacerbated.<br>    <br>-   Australia presents a unique situation amongst the other nations in that an enclave (the island State of Tasmania) diverges significantly from the continental landmass by a number of measures.<br>    <br>    ○<br>    <br>    Ref. [^95] describes the general climatic changes that have occurred to date in Tasmania, and the conditions that are likely to prevail over the course of the 21st century due to climate change; temperatures in Tasmania have increased since the mid-20th century but to a lesser extent than in continental Australia, but total rainfall has decreased in line with that experience in southern Australia.<br>    <br>    ○<br>    <br>    Under high or low global emissions scenarios, temperature increases in Tasmania are projected to be lower than the global average, largely due to a southerly latitude and the moderating influence of the Southern Ocean, though the spatial and seasonal distribution of precipitation is likely to undergo significant change due to climatic changes.<br>    <br>-   Overall, Tasmania is likely to experience lesser climate change impacts than continental Australia, and as such, may act as a localised region of that nation with greater ‘favourable starting conditions’, and could become increasingly recognised as Australia’s ‘local refuge (lifeboat)’ as conditions on the continental mainland may become less amenable to supporting large human populations in the future. |
-| Ireland | Energy Resources | -   The island of Ireland (disregarding political subdivisions) is somewhat similar to the UK in terms of majority reliance on natural gas-fired thermal generation, but with a significant and rapidly growing contribution from renewables, which has the potential to improve energy security overall [^85].<br>    <br>    ○<br>    <br>    Approximately one-quarter of electricity generation was from renewable sources (predominantly wind generation, but renewable gas and hydroelectric as well) in 2019, which represented a 13% increase over the previous year. There is potential to grow this capacity through use of currently unexploited offshore wind resources [^96].<br>    <br>-   Key differences from the United Kingdom are a much smaller population and therefore a much smaller overall energy demand, and the absence of nuclear generation capacity. The lower energy demand combined with the absence of partial reliance on high-technology energy sources means that a transition to reliance on renewables (assuming drastically decreased demand) may be more feasible, even with the lower penetration of renewables than in nations such as New Zealand. |
-| Climate, Agricultural resources and other factors | -   Ireland has a humid, temperate climate (moderated by the North Atlantic Current), plentiful precipitation [^83] and fertile soils in the eastern part of the island.<br>    <br>-   It has a moderate per capita availability of agricultural land; this is, however, largely an artefact of the limited geographical area of the nation, given that the population is low, and the proportion of agricultural land is high.<br>    <br>-   Agriculture in Ireland is extensive [^97], varied in terms of produce and outputs, has high productivity and is a net exporter.<br>    <br>-   In addition to extensive agricultural capacity, Ireland is not prone to major natural hazards, though extreme weather events have the potential to damage agricultural output, particularly considering the small land area of the nation. |
-| Overview | -   Ireland has extensive renewable energy resources (primarily wind) which are currently only partially exploited and so have capacity for usage to increase in future, noting that fossil fuel generation currently dominates.<br>    <br>    ○<br>    <br>    As such, any transition during a ‘de-complexification’ event would potentially be complicated relative to nations with current high existing renewables penetration but would still be favourable compared to the UK (with its more complex energy mix and high overall energy demand).<br>    <br>-   Agricultural resources are extensive and generally favoured by climatic conditions (now and in the future) but have the potential to be impacted by extreme weather events. The small population of Ireland would likely offset limitations linked to its small geographical area and current reliance on fossil fuels, giving it the potential to comprise a future ‘node of persisting complexity’. |
 
