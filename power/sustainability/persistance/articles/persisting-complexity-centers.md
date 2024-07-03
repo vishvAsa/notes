@@ -42,7 +42,7 @@ Keywords:
 
 [sociopolitical complexity](/search?q=sociopolitical+complexity); [collapse](/search?q=collapse); [de-complexification](/search?q=de-complexification); [lifeboats](/search?q=lifeboats); [carrying capacity](/search?q=carrying+capacity); [resilience](/search?q=resilience)
 
-## 1\. Introduction
+## 1. Introduction
 
 #### 1.1. The Human and Earth System Predicament
 
@@ -193,13 +193,13 @@ Modern, globalised civilisation is characterised by extreme levels of complexity
 
 Modern complexity [^33] (of the sociopolitical type, but also technological and informational) may have reached such levels as to have likely become largely and effectively indecipherable by individual humans, and human agencies and institutions. This may be manifesting in phenomena such as unpredictable behaviour in stock markets, frequent failures in the implementation of ‘megaprojects’ and the failure to address global-scale challenges.
 
-#### 1.2.3. Ecological Destruction
+##### 1.2.3. Ecological Destruction
 
 There are a total of five extinction events evident in the geological record which have been attributed to several natural events and causes (e.g., rapid climatic changes, flood basalt eruptions, bolide impacts) [^34]. The sixth extinction episode (or alternatively, the Holocene Extinction Event) is currently ongoing [^35], meaning that Earth’s biosphere is currently under pressure at levels which occur only infrequently even over geological timescales. This “loss of biological diversity is one of the most severe human-caused global environmental problems” [^35], particularly with the advent of the ‘Great Acceleration’. The short timescale on which these impacts have grown, along with their sheer scope and extent, has resulted in <3% of the world’s land surface area remaining as ‘fundamentally intact’, i.e., with species diversity and habitats unaffected by human activity [^36].
 
 The large-scale perturbation of ecosystems as the sixth extinction event progresses is likely to have severe global consequences, with the provision of vital ‘ecosystem services’ likely to severely reduce as effects cascade at global-scale [^35]. The growth in human populations and technological development can be linked [^37] to resource consumption, and the propensity for humans to destroy forest ecosystems gives a high probability (>90%) that global civilisation is very likely to suffer a catastrophic collapse in future (within a few decades). The current extinction event also differs in that it is driven by the concurrence of phenomena unique to human actions including changes in land and sea use; direct exploitation of animals and plants; climate change; pollution; and invasive alien species [^38]. It is also characterised by unique Anthropocene features, such as the introduction of a global ‘plastics cycle’ [^39], which pose an as-yet unknown threat to the stability of global ecosystems, and by extension, complex human civilisation.
 
-#### 1.2.4. Risk Multipliers
+##### 1.2.4. Risk Multipliers
 
 There are several phenomena which are emergent from the summation of human activities and the resultant perturbation of Earth Systems which serve as ‘risk multipliers’ that are likely to exacerbate existing trends and feedbacks. Climate change is likely to be the most pervasive of these risk multipliers, largely because the climatic system is planet-spanning and interfaces directly or indirectly with human and natural systems in highly complex ways. Climate change can be described as a ‘hyperobject’ [^40], which are entities that have spatial and temporal scope and dimensions far beyond that of the human realm. The human system, when considered as an economic ‘superorganism’ \[[^1],[^5]\] (a decentralised, energy-consuming structure that is emergent at global scale) may also be continuous with the ‘climate hyperobject’ given that it ‘excretes’ greenhouse gases.
 
@@ -211,7 +211,7 @@ The risks arising from the extreme complexity and interconnectivity has develope
 
 Whether the propagation of systemic risks is subject to threshold effects or has the potential to build from even minor disturbances, the risks of large-scale failures due to increasing globalisation, complexification, interdependency and the speed of fundamental societal support systems (particularly in the more developed regions of the world) creates significant global risks. This is particularly acute for the proportion of the human population that is entirely reliant on systems such as automated wastewater management and industrial food production (i.e., large urban populations). Furthermore, the global system may now have moved beyond human control or understanding [^35] and may therefore be even more prone to catastrophic behaviour modes that can propagate in coupled systems through a range of unpredictable mechanisms [^51]. This creates an interconnected global system that fails to adequately understand the nature of these complex, dynamic systems [^52].
 
-#### 1.2.5. Societal Collapse
+##### 1.2.5. Societal Collapse
 
 Overall, the literature sources summarised in the preceding subsections paint a picture of human civilisation that is in a perilous state, with large and growing risks developing in multiple spheres of the human endeavour. The synthesis of the conclusions presented in these myriad studies is that 70 years of the ‘Great Acceleration’ (plus the lesser but cumulative effects of the preceding approximate 10,000 years) have had indisputable, egregious effects on the functioning of the totality of the Earth System, and the continued trends and behaviours of the human collective look highly likely to exacerbate these existing trends. The potential for nonlinearities and other complex system effects only serve to potentially heighten the risks and consequences.
 
@@ -221,7 +221,7 @@ This can be summarised as [^53] “…future environmental conditions will be fa
 
 ![Table](https://www.mdpi.com/img/table.png)[](#table_body_display_sustainability-13-08161-t001)
 
-#### 1.2.6. Collapse Lifeboats
+##### 1.2.6. Collapse Lifeboats
 
 In line with the studies that have explored the concept of societal collapse, a number of studies in the scientific and popular literature have developed the concept of ‘collapse lifeboats’. This generally describes locations that do not experience the most egregious effects of societal collapses (i.e., as may occur due to the effects of climatic changes) and are therefore able to maintain significant populations. These studies have considered small, isolated communities [^58] in larger countries including Australia and New Zealand [^54]. The concept is therefore an extrapolation of societal collapse, in that it considers events, features and societal structures that might feasibly develop in the context of a collapse.
 
@@ -231,7 +231,7 @@ Alternatively, a protracted ‘energy descent’ following the passing of peak o
 
 #### 1.3. ‘De-Complexification’ and ‘Nodes of Persisting Complexity’
 
-#### 1.3.1. ‘De-Complexification’
+##### 1.3.1. ‘De-Complexification’
 
 A robust assumption based on historical events and behaviours \[[^28],[^30]\] is that future changes may reduce or reverse certain fundamental measures of the condition of global civilisation, including (but not limited to) total energy and resource use, systemic interconnectedness and rate of economic growth. The terminology of (sociopolitical, societal and technological) complexity \[[^30],[^31]\] is a useful framing that summarises the collective state of global human civilisation and allows the definition of a concept labelled as ‘de-complexification’.
 
@@ -248,7 +248,7 @@ At the highest level, the cause underlying such a ‘de-complexification’ is t
 
 Any ‘de-complexification process’, whether abrupt in duration or as a result of a more prolonged reduction, would likely be heterogeneous in its progression. Neither the nature of any such changes, nor the behaviour of human and natural systems during any such period of disruption can be predicted at any spatial or temporal resolution, but some broad assumptions about possible system behaviours and end states can be considered. The severity and consequences of this reduction would be highly dependent on multiple complex factors such as the exact starting conditions at the initiation of ‘de-complexification’. This process can, however, generally be assumed to result in significant changes to the fundamental extant organising principles of global societies and, likely, the greatly reduced availability of energy and resources, systemic interconnectivity, mobility and size and distribution of populations (i.e., up to the severe ‘catastrophe trajectories’ [^64]).
 
-#### 1.3.2. ‘Nodes of Persisting Complexity’
+##### 1.3.2. ‘Nodes of Persisting Complexity’
 
 Building on ‘de-complexification’, this study introduces the concept of the ‘node of persisting complexity’ as a distinct alternative to the ‘lifeboats’ concept. This is of importance because the term ‘lifeboat’ has the potential for controversy and to be politically charged due to potential for links with narratives related to future immigration controls and nationalism. This study instead seeks to explore possible and likely (qualitative) system behaviour arising from a global ‘de-complexification’ event.
 
@@ -256,7 +256,7 @@ This will be based on a consideration of what geographical locations (nations) m
 
 The central underpinning concept of this study therefore differs from the conjecture in other studies that certain locations may be ‘preserved’ as lifeboats through deliberate action (i.e., by governments or other groups). Instead, the formation of any ‘node of persisting complexity’ would be through system behaviour arising from certain starting conditions, i.e., is an analysis of an evolutionary process that would occur largely outside of direct human control. This description has some similarities with the ‘Regenerative Bioregions’ concept [^65] in which future localised populations may persist through their overall biophysical demands matching regional ecological conditions and carrying capacities.
 
-## 2\. Materials and Methods
+## 2. Materials and Methods
 
 #### 2.1. Aim and Objective
 
@@ -285,13 +285,12 @@ The semi-quantitative/subjective nature of the three further analytical factors 
 
 It is noted and acknowledged that the analysis applied is here is simple and superficial in nature and does not attempt to apply a rigorous analysis using a range of quantifiable variables; this approach is deemed to be appropriate for the analysis being attempted here. This is primarily because the ‘nodes of persisting complexity’ that this study postulates are proposed to form through evolutionary complex system behaviour (i.e., partially or largely outside direct human control rather than as a direct result of human action and agency). Such systemic behaviour is inherently highly complex and unpredictable and dependent on a large number of interconnected variables. Therefore, a detailed analysis that attempts to make statistical or other predictions of system behaviour would not be robust or could only be attempted using multi-parameter modelling approaches such as system dynamics (which, even if built to account for a large number of variables, would likely only be able to make estimates of broad ‘modes’ of system behaviour, which is what this analysis does). Therefore, a simpler, high-level approach that makes a ‘low-resolution’ analysis of key features is proportionate for making a very macro-scale, low-resolution (i.e., at global and national scale) assessment and offers a robust basis for further qualitative analysis of potential ‘nodes of persisting complexity’.
 
-## 3\. Results
+## 3. Results
 
 The application of the scoring mechanism outlined in [Section 2.2](#sec2dot2-sustainability-13-08161) (along with information underpinning this analysis) to the top 20 ‘least vulnerable’ nations (as identified by ND-GAIN [^66]) is presented in [Table 3](#table_body_display_sustainability-13-08161-t003). This identifies the five nations with the most significant ‘favourable starting conditions’, which are then taken forward for more detailed, individual discussion in [Section 4](#sec4-sustainability-13-08161).
 
 **Table 3.** Scoring and Underpinning of Assessment of ‘De-complexification’.
 
-![Table](https://www.mdpi.com/img/table.png)[](#table_body_display_sustainability-13-08161-t003)
 
 [Table 4](#table_body_display_sustainability-13-08161-t004) shows the calculation for the ‘favourable starting conditions’ rating for all of the nations that scored >10 (note not inclusive) i.e., those with the ‘favourable starting conditions’ for the potential formation of ‘nodes of persisting complexity.
 
@@ -299,7 +298,7 @@ The application of the scoring mechanism outlined in [Section 2.2](#sec2dot2-sus
 
 ![Table](https://www.mdpi.com/img/table.png)[](#table_body_display_sustainability-13-08161-t004)
 
-## 4\. Discussion
+## 4. Discussion
 
 The crucial features common to the nations that scored >10 in the ‘further analysis’ (and therefore having ‘favourable starting conditions’) are that they consist of islands, island archipelagos or island continents located at temperate latitudes with strong Oceanic climatic influence. We note that Iceland is located at sub-polar latitudes but has a climate buffered by the North Atlantic Gulf Stream/North Atlantic Current and so has characteristics of a landmass located further south and Australia encompasses multiple climatic regimes due to its physical size, but includes a significant area with a temperate Oceanic climate, principally the island/State of Tasmania (refer to [Section 4.1](#sec4dot1-sustainability-13-08161)). Nations and geographical regions with these climatic characteristics have a relatively low degree of temperature and precipitation variability currently and therefore would remain this way at the start of any ‘de-complexification’ process. These locations would therefore also have the greatest likelihood of relatively stable conditions being buffered and persisting in response to climate change scenarios for the 21st century.
 
@@ -325,13 +324,13 @@ This analysis of ‘nodes of persisting complexity’ would be of limited value 
 
 The analysis undertaken in [Section 3](#sec3-sustainability-13-08161) highlights that certain nations have particular characteristics (‘favourable starting conditions’) that may maximise their potential to form ‘nodes of persisting complexity’. These characteristics are inherent to these locations, but there may be scope to apply aspects of these characteristics (or the benefits they naturally confer) to other locations that do not naturally have them. The application of learning from the ‘nodes of persisting complexity analysis’ may be possible through actions local to nations or global regions, and/or through global-scale actions. Some of these may be already underway, or may be things that are not yet happening, but which may be feasible in the future. The following subsections discuss the ‘favourable starting conditions’ in turn with reference to how they may be applied.
 
-#### 4.2.1. Future Climatic Conditions
+##### 4.2.1. Future Climatic Conditions
 
 Anthropogenically caused climatic change has the potential over the coming century and beyond to exacerbate conditions in regions already experiencing climate stresses and, in time, to significantly reduce the habitability of whole regions (e.g., by jeopardising reliable rain-fed agriculture) [^75]. The changes will be subject to complex local factors (i.e., geographical and cultural features), but there may be several degrees of freedom/generalised actions available that could potentially be undertaken to reduce vulnerability to these future climatic changes.
 
 At the global–national level, the minimisation of risks to regions that do not currently have benign climatic condition and/or which are unlikely to have resilience to changes may be best achieved through the international efforts to limit and mitigate greenhouse gas emissions. Given the uncertainty surrounding the scope and effectiveness of these international emission-reduction schemes, efforts at the national–local scale may potentially be more effective. These may include the variation of agriculture to adapt to changing conditions (including diversion from industrial monocultures towards widespread application of techniques such as permaculture [^62], measures to minimise the vulnerability of soils to erosion under increased storminess and civil engineering to adapt to changing precipitation patterns (e.g., construction of reservoirs)).
 
-#### 4.2.2. Carrying Capacity
+##### 4.2.2. Carrying Capacity
 
 Prior to the modern era human societies were predominantly reliant on local/regional environments for key resources (e.g., food and metal ores). Constraints on the availability of localised resources (i.e., carrying capacities) were one of the main motivations underlying the expansion of historical nations and empires [^5]. Colonialism, industrialisation, and the globalisation of supply chains has since reduced/removed the need for many nations to be self-reliant. This trend has increased global resilience to localised resource constraints whilst global resources remain plentiful (i.e., overall surpluses can be exported as needed) but has also increased overall global vulnerability to ‘de-complexification’.
 
@@ -339,19 +338,19 @@ Where nations have become reliant on global supply chains their ability to utili
 
 This could allow for the planning and implementation of measures to decrease vulnerability. This could include increasing the development and use of local resources (e.g., agricultural land and water resources, even if not currently the most cost-effective solution), reduction/elimination of reliance on resources/products that cannot be produced internally (e.g., agriculture reliant on imported fertiliser) and measures to decrease per capita resource usage. Such efforts could have the dual effect of reducing global resource consumption in parallel to increasing the resilience of regions and nations to global-scale events such as ‘de-complexification’.
 
-#### 4.2.3. Indigenous and Resilient Energy Supplies
+##### 4.2.3. Indigenous and Resilient Energy Supplies
 
 Energy is one of the metrics comprising carrying capacity as described above but is so fundamental that it warrants separate consideration. This is because modern technological societies are wholly reliant on a continual supply of energy (in primary form and as electricity) to maintain the functions that underpin complexity (e.g., supply of water services, logistics networks). The fossil fuels that supply the majority of the world’s primary and secondary energy at a global scale are very unevenly distributed and, as such, are globally traded/supplied commodities. Therefore, nations that are reliant on imported energy (due to supply or economic factors) could be made highly vulnerable in a ‘de-complexification’ event leading to a cessation of large-scale energy resource distribution [^50].
 
 Renewable energy resources are inherently more evenly distributed than fossil energy resources, and most nations will have access to some renewable resources. Therefore, the development of renewables infrastructure would provide resilience to much of the world to interruption of global energy flows. Even if the amount of energy that could be supplied via indigenous renewables infrastructure would be relatively low in comparison to that supplied by fossil fuels via global supply chains, some continued availability of energy may provide resilience (i.e., by allowing vital functions and therefore a degree of complexity to be sustained).
 
-#### 4.2.4. Dependence on Global Supply Chains
+##### 4.2.4. Dependence on Global Supply Chains
 
 As described in the previous subsection, modern societies are wholly reliant on technological systems, and these are in turn as reliant on the availability of manufactured items (i.e., parts and components). The capitalist economic system that has become dominant globally has led to global manufacturing becoming largely consolidated into a limited number of nations with favourable economic conditions, with low-cost logistics providing global distribution [^5]. This situation potentially makes a significant number of nations with limited and/or inflexible manufacturing capacity vulnerable, i.e., a ‘de-complexification’ event may decrease the local availability of manufactured items.
 
 The development or modification of a manufacturing base that could reliably supply key components necessary to the continued operation of fundamental systems (e.g., power networks, water supply infrastructure) may provide some degree of resilience against a reduction in the global availability of such items. Even if the local manufacturing capacity were limited and able to only produce relatively crude/simple items, this may provide resilience (i.e., by allowing vital functions and therefore complexity to be sustained to a degree).
 
-#### 4.2.5. Over-Reliance on High Levels of Complexity
+##### 4.2.5. Over-Reliance on High Levels of Complexity
 
 Modern globalised society is characterised by high and continually growing levels of complexity (sociopolitical and technological). This has resulted from deliberate deployment of complexity to solve problems (i.e., increasing crop yields to feed growing populations) and as a self-reinforcing emergent property of complexity itself (e.g., development of computing technology leading to the internet). The deployment of complexity as a problem-solving strategy has become vital to the fundamental functioning of modern societies (e.g., provision of reliable food supplies), but it leads to a vulnerability in that societies become reliant on its continual smooth functioning and growth. This vulnerability grows as complexity increases and more and more societal functions become reliant on underpinning complexity [^50].
 
@@ -363,7 +362,7 @@ Given the human predicament and the challenges of seeking an effective means to 
 
 A slight variation of this scenario [^18] that may also place the trends of civilisation in perspective suggests that evolution may produce species with instincts and intelligence sufficient to build the tools to access and exploit the accumulated energy sources of a planetary environment but may be less likely to produce species able to build these capabilities and also to foresee the long-term consequences of the rapid depletion of a large resource endowment [^52]. Given this perspective, the situation in which humanity finds itself currently may not be unique or unusual and may even represent something of an inevitability. If this is the case, the biggest challenge facing humanity may not be how to curtail the period of rapid growth after evolving the means to exploit a resource-rich environment (which evolutionary processes will equip intelligent species with tendencies to do). It may instead be long-term survival after the ‘bottleneck’ of collapse that becomes a high-probability event in such circumstances. The ‘nodes of persisting complexity’ that are the subject of this study could potentially be one of the factors in such long-term survival.
 
-## 5\. Conclusions
+## 5. Conclusions
 
 Human civilisation underwent increases in sociopolitical complexity since the Agricultural Revolution (ca. 100 centuries ago), the Industrial Revolution (ca. two centuries ago) and with exponential characteristics as part of the ‘Great Acceleration’ [^2] (starting ca. 70 years ago). This generally has been characterised by phenomena such as large increases in population, energy use and interconnectedness and has resulted in increasingly extensive and severe perturbation of the Earth System and the biosphere. This perturbation has resulted in a wide range of effects and feedbacks on global human civilisation including (but not limited to) climate change, increased risk of pandemics, ecological destruction (manifesting as a sixth extinction event) and growing risks of systemic instabilities. In combination, these effects place complex human civilisation in a precarious and perilous position with regards to its future; the risk of an uncontrolled ‘de-complexification’ event (a systemic reduction in the overall complexity of civilisation at global scale) occurring may be increasing.
 
@@ -373,7 +372,7 @@ The methodology for assessing which nations have the potential to form ‘nodes 
 
 The analysis of the possible systemic evolution of global complexity is by itself of limited potential value, so this study applies the analysis of the ‘nodes of persisting complexity’ to identify potentially useful insights for enhancing resilience for nations that do not have the natural confluence of ‘favourable starting conditions’. This analysis identifies that actions that may provide the means to address the interlinked factors of climate change, carrying capacity, indigenous energy and manufacturing capacity and the over-reliance on complexity might provide the greatest resilience against future ‘de-complexification’. Overall, the human predicament of exceeding global environmental limits, creating unmanageable and increasingly ineffective complexity and perturbing global life support systems may be typical of any energy and material resource-harvesting civilisation in a constrained environment. In this context, ‘nodes of persisting complexity’ may provide the greatest opportunity for human society to retain technology and organisation into the longer term.
 
-## Author Contributions
+## 6. Author Contributions
 
 Conceptualization, N.K. and A.J.; methodology, N.K.; formal analysis, N.K.; writing—original draft preparation, N.K.; writing—review and editing, A.J.; supervision, A.J. All authors have read and agreed to the published version of the manuscript.
 
@@ -401,11 +400,9 @@ The authors would like to thank the constructive comments and engagement with th
 
 The authors declare no conflict of interest.
 
-## Appendix A. ND-GAIN Ranking of Highest-Scoring Nations
+## 7. Appendices
+### Appendix A. ND-GAIN Ranking of Highest-Scoring Nations
 
-**Table A1.** Ranking of ND-GAIN Highest-Scoring Nations.
-
-![Table](https://www.mdpi.com/img/table.png)[](#table_body_display_sustainability-13-08161-t0A1)
 
 **Table A1.** Ranking of ND-GAIN Highest-Scoring Nations.
 
@@ -432,11 +429,8 @@ The authors declare no conflict of interest.
 | 19  | United States |
 | 20  | Ireland |
 
-## Appendix B. ND-GAIN Vulnerability Indicators
+### Appendix B. ND-GAIN Vulnerability Indicators
 
-**Table A2.** ND-GAIN Vulnerability Indicators.
-
-![Table](https://www.mdpi.com/img/table.png)[](#table_body_display_sustainability-13-08161-t0A2)
 
 **Table A2.** ND-GAIN Vulnerability Indicators.
 
@@ -455,11 +449,7 @@ The authors declare no conflict of interest.
 | Infrastructure | Projected change of hydropower generation capacity | Dependency on imported energy | Electricity access |
 | Projection of Sea Level Rise impacts | Population living under 5 m above sea level | Disaster preparedness |
 
-## Appendix C. ND-GAIN Readiness Indicators
-
-**Table A3.** ND-GAIN Readiness Indicators.
-
-![Table](https://www.mdpi.com/img/table.png)[](#table_body_display_sustainability-13-08161-t0A3)
+### Appendix C. ND-GAIN Readiness Indicators
 
 **Table A3.** ND-GAIN Readiness Indicators.
 
@@ -469,11 +459,8 @@ The authors declare no conflict of interest.
 | Governance readiness | Political stability and non-violence | Control of corruption | Rule of law | Regulatory quality |
 | Social readiness | Social inequality | ICT Infrastructure | Education | Innovation |
 
-## Appendix D. Calculation of Agricultural Land per Capita
+### Appendix D. Calculation of Agricultural Land per Capita
 
-**Table A4.** Calculation of Agricultural Land per Capita.
-
-![Table](https://www.mdpi.com/img/table.png)[](#table_body_display_sustainability-13-08161-t0A4)
 
 **Table A4.** Calculation of Agricultural Land per Capita.
 
@@ -603,7 +590,8 @@ The authors declare no conflict of interest.
 [^99]:  Frank, A.; Carroll-Nellenback, J.; Alberti, M.; Kleidon, A. The anthropocene generalized: Evolution of exo-civilizations and their planetary feedback. Astrobiology **2018**, 18, 503–518. \[[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+anthropocene+generalized:+Evolution+of+exo-civilizations+and+their+planetary+feedback&author=Frank,+A.&author=Carroll-Nellenback,+J.&author=Alberti,+M.&author=Kleidon,+A.&publication_year=2018&journal=Astrobiology&volume=18&pages=503%E2%80%93518&doi=10.1089/ast.2017.1671&pmid=29791236)\] \[[CrossRef](https://doi.org/10.1089/ast.2017.1671)\] \[[PubMed](http://www.ncbi.nlm.nih.gov/pubmed/29791236)\]
 [^100]:  List of Countries and Dependencies by Area. Available online: [https://www.worldometers.info/geography/largest-countries-in-the-world/](https://www.worldometers.info/geography/largest-countries-in-the-world/) (accessed on 22 March 2021).
 
-**Table 1.** Summary of ‘Collapse’ Scenarios.
+## Tables
+### 1. Summary of ‘Collapse’ Scenarios.
 
 | Nomenclature | Source(s) | Overview |
 | --- | --- | --- |
@@ -616,7 +604,7 @@ The authors declare no conflict of interest.
 | Power-down | [^56] | Industrialised, globalised society is dependent on the continuous availability of high EROI energy resources (fossil hydrocarbons), and as availability of this declines, society will have less available energy to underpin its essential functions, and turmoil in the form of economic disruption, declining living standards and warfare may become likely. |
 | The Contraction | [^57] | The contraction is a hypothetical process described in fiction in which the period of global economic growth and globalisation (the ‘Expansion’ i.e., the Industrial Revolution and the ‘Great Acceleration’) would undergo a prolonged reversal (the ‘Contraction’) as crucial energy supplies (fossil fuels) become steadily scarcer. |
 
-**Table 2.** Additional Measures for Assessment of ‘De-complexification’.
+### 2. Additional Measures for Assessment of ‘De-complexification’.
 
 | Name | Description and Basis of Scoring |     |
 | --- | --- |
@@ -641,7 +629,7 @@ The authors declare no conflict of interest.
 
 **Notes**: It is acknowledged that ‘carrying capacity’ is not a firmly defined concept; [^67] describes it as a complex, non-constant phenomenon that emerges from processes and interdependent relationships between limited resources and the populations that depend on them. For the purposes of this paper, carrying capacity is assumed to be a simple measure of the human population that can be sustained by the theoretical maximum extent of agricultural land within a given nation, i.e., the assessment of agricultural land available per capita. Ref. [^68] notes that the average global land demand is 2.2 hectares (0.022 km2) per capita, but this is based on total ecological footprint to support a range of lifestyles from subsistence through to industrialised Western lifestyles, i.e., this accounts for food, fibre, pollution absorption, etc. The estimated land area required to sustain one person at an adequate level of calories with a vegetarian diet ranges from 0.0001 km2 [^69] to 0.002 km2 [^70].
 
-**Table 3.** Scoring and Underpinning of Assessment of ‘De-complexification’.
+### 3. Scoring and Underpinning of Assessment of ‘De-complexification’.
 
 | Country | Carrying Capacity Analysis  <br>(Refer to [Table A4](#table_body_display_sustainability-13-08161-t0A4) in [Appendix D](#app4-sustainability-13-08161) for Supporting Calculations) | Isolation Analysis | Self-Sufficiency Analysis | Total |
 | --- | --- | --- | --- | --- |
@@ -668,7 +656,7 @@ The authors declare no conflict of interest.
 
 **Notes**: ‘Agricultural land’ is total area of land utilised for all forms of agriculture, including arable, permanent cropland and permanent pasture [^72]. Note that for some countries (e.g., Australia) pasture may make up a large proportion of the total, so a large fraction of the land in question may not comprise highly fertile land capable of high-productivity output that could support large human populations. Therefore, the metric of ‘fraction of agricultural land’ is used as an indicative measure of the general carrying capacity of the territory of the country in question but may not reflect the country’s true capacity for food production.
 
-**Table 4.** ‘Favourable Starting Location’ Rating.
+### 4. ‘Favourable Starting Location’ Rating.
 
 | Country | Further Analysis Score \[A\] | ND-Gain Ranking \[B\] | ‘Favourable Starting Condition’  <br>Rating \[A/B\] |
 | --- | --- | --- | --- |
@@ -678,7 +666,7 @@ The authors declare no conflict of interest.
 | Australia | 13  | 13  | 1   |
 | Ireland | 12  | 20  | 0.6 |
 
-**Table 5.** Further Analysis by Nation.
+### 5. Further Analysis by Nation.
 
 | Nation | Discussion |     |
 | --- | --- | --- |

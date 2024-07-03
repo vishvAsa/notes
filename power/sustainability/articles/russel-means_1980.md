@@ -11,7 +11,6 @@ Russel Means 1939 - 2012
 - Phillip B Gottfredson
 
 The following speech was given by Russell Means in July 1980, before several thousand people who had assembled from all over the world for the Black Hills International Survival Gathering, in the Black Hills of South Dakota. It is Russell Means's most famous speech.
-
 </details>
 
 
