@@ -5,6 +5,8 @@ title = "Settlement constitution"
 ## पृष्ठभूमिका Background
 - India
   - dense population. Famine + war looming post-oil-collapse (150 yrs, +100 if ice methane works). (Ref- [Murphy](https://escholarship.org/uc/energy_ambitions) )  
+  - ब्रह्म-द्विट्-प्रभुत्वम्, jAti-woke-ism, sickular government.
+  - Suboptimal to "put all eggs in one basket". 
 - Latin America 
   - low population density, plenty land+water.  
   - Locals look like us - so less conflict (though it will be there).

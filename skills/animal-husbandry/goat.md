@@ -39,7 +39,7 @@ Sheep eat grass by bending down. Goats prefer upright or high food.
 
 ## Wild rearing
 ### Fixed plot
-12 acres wild growth gives 360 goats / year or 1 per day. At 10kg per goat, and 1 kg per person, suffices for ~10 people.
+12 acres wild growth gives 360 goats / year or 1 per day. At 10kg per goat, and 1 kg per person, suffices for ~10 people. (Source - manju)
 
 ### Nomadic herding 
 Tougher during summers - grass is harder to find.  

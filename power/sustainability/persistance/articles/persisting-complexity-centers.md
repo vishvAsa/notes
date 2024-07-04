@@ -492,41 +492,132 @@ The authors declare no conflict of interest.
 ## 8. Tables
 ### 1. Summary of ‘Collapse’ Scenarios.
 
-| Nomenclature | Source(s) | Overview |
-| --- | --- | --- |
-| Societal collapse | \[[^7],[^8],[^28]\] | Significant and permanent decreases in measures including: human populations; stocks of non-renewable resources or representations such as ‘wealth’ or ‘nature’; and other ‘services’ supporting civilisation. |
-| Seneca cliff | \[[^12],[^13]\] | Decease in measures (see above) that are characterised as occurring on a significantly more rapid timescale than their increase or build-up. A slow build-up of complexity followed by a very rapid ‘de-complexification’ (hence the ‘cliff’). |
-| Olduvai collapse | [^54] | Energy production per capita will undergo a peak and decline that will limit the overall duration of high technology, industrial civilisation. The collapse will be characterised by cascading failures of the electrical distribution systems that underpin civilisation and its support systems and cause a reversion to much simpler societies. |
-| Overshoot and collapse | [^55] | Complex systems commonly exhibit ‘overshoot and collapse’ dynamics in which exponential growth leads to depletion of supporting resources. This is mathematically and observationally demonstrable, e.g., through the behaviour of populations, resource extraction curves, etc. |
-| Energy trap | [^26] | This describes a global-scale situation in which increasing gross energy output delivers decreasing net energy to society. If gross energy consumption in such a scenario increases against a low or decreasing EROI value, there is potential for the triggering of the full collapse of the energy system. |
-| Great Simplification | [^1] | The large future reduction in global economic activity likely to occur to due to crucial limits being encountered. The limits most likely to cause this are availability of high EROI energy resources, and the effectiveness of debt as an instrument to ‘pull resources forward’ in time (i.e., financing the exploitation of resources with debt allows this to occur earlier, but with steeper future declines in the resource availability). |
-| Power-down | [^56] | Industrialised, globalised society is dependent on the continuous availability of high EROI energy resources (fossil hydrocarbons), and as availability of this declines, society will have less available energy to underpin its essential functions, and turmoil in the form of economic disruption, declining living standards and warfare may become likely. |
-| The Contraction | [^57] | The contraction is a hypothetical process described in fiction in which the period of global economic growth and globalisation (the ‘Expansion’ i.e., the Industrial Revolution and the ‘Great Acceleration’) would undergo a prolonged reversal (the ‘Contraction’) as crucial energy supplies (fossil fuels) become steadily scarcer. |
+
+
+Nomenclature  
+Source(s)  
+Overview
+
+#### Societal collapse
+
+\[[^7],[^8],[^28]\]
+
+Significant and permanent decreases in measures including: human populations; stocks of non-renewable resources or representations such as ‘wealth’ or ‘nature’; and other ‘services’ supporting civilisation.
+
+#### Seneca cliff
+
+\[[^12],[^13]\]
+
+Decease in measures (see above) that are characterised as occurring on a significantly more rapid timescale than their increase or build-up. A slow build-up of complexity followed by a very rapid ‘de-complexification’ (hence the ‘cliff’).
+
+#### Olduvai collapse
+[^54]
+
+Energy production per capita will undergo a peak and decline that will limit the overall duration of high technology, industrial civilisation. The collapse will be characterised by cascading failures of the electrical distribution systems that underpin civilisation and its support systems and cause a reversion to much simpler societies.
+
+#### Overshoot and collapse
+[^55]
+
+Complex systems commonly exhibit ‘overshoot and collapse’ dynamics in which exponential growth leads to depletion of supporting resources. This is mathematically and observationally demonstrable, e.g., through the behaviour of populations, resource extraction curves, etc.
+
+#### Energy trap
+[^26]
+
+This describes a global-scale situation in which increasing gross energy output delivers decreasing net energy to society. If gross energy consumption in such a scenario increases against a low or decreasing EROI value, there is potential for the triggering of the full collapse of the energy system.
+
+#### Great Simplification
+[^1]
+
+The large future reduction in global economic activity likely to occur to due to crucial limits being encountered. The limits most likely to cause this are availability of high EROI energy resources, and the effectiveness of debt as an instrument to ‘pull resources forward’ in time (i.e., financing the exploitation of resources with debt allows this to occur earlier, but with steeper future declines in the resource availability).
+
+#### Power-down
+[^56]
+
+Industrialised, globalised society is dependent on the continuous availability of high EROI energy resources (fossil hydrocarbons), and as availability of this declines, society will have less available energy to underpin its essential functions, and turmoil in the form of economic disruption, declining living standards and warfare may become likely.
+
+#### The Contraction
+[^57]
+
+The contraction is a hypothetical process described in fiction in which the period of global economic growth and globalisation (the ‘Expansion’ i.e., the Industrial Revolution and the ‘Great Acceleration’) would undergo a prolonged reversal (the ‘Contraction’) as crucial energy supplies (fossil fuels) become steadily scarcer.
+
+
 
 ### 2. Additional Measures for Assessment of ‘De-complexification’.
 
-| Name | Description and Basis of Scoring |     |
-| --- | --- |
-| Carrying Capacity Analysis | This analysis considers nations from the purely biophysical perspective of whether the extent of arable land within the borders of a country could provide sufficient food to support the current population (assuming that large-scale food imports would be inaccessible under a hypothetical future ‘de-complexification’ event), i.e., is the current population in excess of the land’s carrying capacity. The arable land per capita (calculated and presented in [Appendix D](#app4-sustainability-13-08161)) is compared with the land area required to provide at least a subsistence diet to assign a semi-quantitative score as follows: |     |
-| 1   | The land area available per capita is negligible or significantly below the minimum subsistence level. |
-| 2   | The land area available per capita is below the minimum subsistence level. |
-| 3   | The land area available per capita is broadly commensurate with the minimum subsistence level. |
-| 4   | The land area available per capita is above the minimum subsistence level. |
-| 5   | The land area available per capita is significantly above the minimum subsistence level. |
-| Isolation Analysis | This is primarily defined on the basis of connection and proximity to large external populations (e.g., megacities, regional population centres) that may be subject to significant population displacement and geographical features that may make the subject country/region a favoured location for large-scale migrations. It is related to the Carrying Capacity Analysis in that any displacement of populations would adversely affect the ratio of population to carrying capacity in the receiving destination. A score is assigned on the basis of a subjective, general analysis of the geographical situation of the nation in question as follows: |     |
-| 1   | The nation is directly connected by land or narrow straits to and/or has close proximity to external population centres. |
-| 2   | The nation has moderate land or sea connections and/or has moderate proximity to external population centres. |
-| 3   | The nation has longer land or sea connections and/or has moderate proximity to external population centres, but other factors (e.g., high latitude) increase relative isolation. |
-| 4   | The nation has moderate separation and/or distance from external population centres. |
-| 5   | The nation has a large separation and/or distance from external population centres. |
-| Self-sufficiency Analysis | It is noted that this is one of the metrics accounted for in ND-GAIN, but the emphasis in that study is on energy imports and general manufacturing capacity. This metric is concerned with how self-sufficient nations may be under a hypothetical future ‘de-complexification’ event, i.e., how a particular country may be able to respond to the disruption, shrinkage or cessation of global supply lines through its access to and flexibility of indigenous energy supplies and manufacturing capacity. A score is assigned on the basis of a subjective, general analysis of the energy and manufacturing infrastructure and capacity of the nation in question as follows: |     |
-| 1   | The nation has negligible or very limited existing indigenous renewable energy resources and/or manufacturing capacity. |
-| 2   | The nation has limited existing indigenous renewable energy resources and/or manufacturing capacity. |
-| 3   | The nation has moderate existing indigenous renewable energy resources and/or manufacturing capacity. |
-| 4   | The nation has significant existing indigenous renewable energy resources and/or manufacturing capacity. |
-| 5   | The nation has very significant existing indigenous renewable energy resources and/or manufacturing capacity. |
+Name Description and Basis of Scoring 
 
-**Notes**: It is acknowledged that ‘carrying capacity’ is not a firmly defined concept; [^67] describes it as a complex, non-constant phenomenon that emerges from processes and interdependent relationships between limited resources and the populations that depend on them. For the purposes of this paper, carrying capacity is assumed to be a simple measure of the human population that can be sustained by the theoretical maximum extent of agricultural land within a given nation, i.e., the assessment of agricultural land available per capita. Ref. [^68] notes that the average global land demand is 2.2 hectares (0.022 km2) per capita, but this is based on total ecological footprint to support a range of lifestyles from subsistence through to industrialised Western lifestyles, i.e., this accounts for food, fibre, pollution absorption, etc. The estimated land area required to sustain one person at an adequate level of calories with a vegetarian diet ranges from 0.0001 km2 [^69] to 0.002 km2 [^70].
+
+
+#### Carrying Capacity Analysis
+
+This analysis considers nations  
+from the purely biophysical perspective of  
+whether the extent of arable land within the borders of a country  
+could provide sufficient food to support the current population  
+(assuming that large-scale food imports would be inaccessible under a hypothetical future ‘de-complexification’ event),  
+i.e., is the current population in excess of the land’s carrying capacity.  
+The arable land per capita (calculated and presented in [Appendix D](#app4-sustainability-13-08161))  
+is compared with the land area required to provide at least a subsistence diet to assign a semi-quantitative score as follows:
+
+1. The land area available per capita is negligible or significantly below the minimum subsistence level.
+2. The land area available per capita is below the minimum subsistence level.
+3. The land area available per capita is broadly commensurate with the minimum subsistence level.
+4. The land area available per capita is above the minimum subsistence level.
+5. The land area available per capita is significantly above the minimum subsistence level.
+
+#### Isolation Analysis
+This is primarily defined on the basis of connection and proximity to large external populations  
+(e.g., megacities, regional population centres) that may be subject to significant population displacement  
+and geographical features that may make the subject country/region  
+a favoured location for large-scale migrations.  
+It is related to the Carrying Capacity Analysis  
+in that any displacement of populations would adversely affect  
+the ratio of population to carrying capacity in the receiving destination.  
+A score is assigned on the basis of a subjective,  
+general analysis of the geographical situation of the nation in question as follows:
+
+1. The nation is directly connected by land or narrow straits  
+   to and/or has close proximity to external population centres.
+2. The nation has moderate land or sea connections  
+   and/or has moderate proximity to external population centres.
+3. The nation has longer land or sea connections  
+   and/or has moderate proximity to external population centres,  
+   but other factors (e.g., high latitude) increase relative isolation.
+4. The nation has moderate separation  
+   and/or distance from external population centres.
+5. The nation has a large separation  
+   and/or distance from external population centres.
+
+#### Self-sufficiency Analysis
+It is noted that this is one of the metrics accounted for in ND-GAIN,  
+but the emphasis in that study is on energy imports and general manufacturing capacity.  
+This metric is concerned with  
+how self-sufficient nations may be under a hypothetical future ‘de-complexification’ event,  
+i.e., how a particular country may be able to respond to the disruption, shrinkage or cessation of global supply lines  
+through its access to and flexibility of indigenous energy supplies and manufacturing capacity.  
+A score is assigned on the basis of a subjective, general analysis of the energy and manufacturing infrastructure  
+and capacity of the nation in question as follows:
+
+1. The nation has negligible or very limited  
+   existing indigenous renewable energy resources and/or manufacturing capacity.
+2. The nation has limited existing indigenous renewable energy resources and/or manufacturing capacity.
+3. The nation has moderate existing indigenous renewable energy resources and/or manufacturing capacity.
+4. The nation has significant existing indigenous renewable energy resources and/or manufacturing capacity.
+5. The nation has very significant existing indigenous renewable energy resources and/or manufacturing capacity.
+
+**Notes**: It is acknowledged that ‘carrying capacity’ is not a firmly defined concept; [^67]  
+describes it as a complex, non-constant phenomenon  
+that emerges from processes and interdependent relationships between limited resources  
+and the populations that depend on them.  
+For the purposes of this paper,  
+carrying capacity is assumed to be a simple measure of the human population  
+that can be sustained by the theoretical maximum extent of agricultural land within a given nation,  
+i.e., the assessment of agricultural land available per capita.  
+Ref. [^68] notes that the average global land demand is 2.2 hectares ($0.022 km^2$) per capita,  
+but this is based on total ecological footprint to support a range of lifestyles  
+from subsistence through to industrialised Western lifestyles, i.e., this accounts for food, fibre, pollution absorption, etc.  
+The estimated land area required to sustain one person  
+at an adequate level of calories with a vegetarian diet ranges from $0.0001 km^2$ [^69] to $0.002 km^2$ [^70]+++(=.5 acres)+++.
 
 ### 3. Scoring and Underpinning of Assessment of ‘De-complexification’.
 
