@@ -217,11 +217,11 @@ Whether the propagation of systemic risks is subject to threshold effects or has
 
 Overall, the literature sources summarised in the preceding subsections paint a picture of human civilisation that is in a perilous state, with large and growing risks developing in multiple spheres of the human endeavour. The synthesis of the conclusions presented in these myriad studies is that 70 years of the ‘Great Acceleration’ (plus the lesser but cumulative effects of the preceding approximate 10,000 years) have had indisputable, egregious effects on the functioning of the totality of the Earth System, and the continued trends and behaviours of the human collective look highly likely to exacerbate these existing trends. The potential for nonlinearities and other complex system effects only serve to potentially heighten the risks and consequences.
 
-This can be summarised as [^53] “…future environmental conditions will be far more dangerous than currently believed. The scale of the threats to the biosphere and all its lifeforms—including humanity—is in fact so great that it is difficult to grasp for even well-informed experts.” This statement effectively sums up the current situation for humanity and indicates that it may be increasingly likely that the current (and near-future) timeframes represent a significant inflection point. Changes of varying magnitudes are possible in the coming years and decades, up to and including the collapse of organised societies. Various scientific and popular literature sources have explored the concept of societal collapse, with an increase in these descriptions occurring in recent decades as awareness and concern regarding the global environmental predicament has grown. [Table 1](#table_body_display_sustainability-13-08161-t001) summarises the key features of the most significant of these conceptual descriptions.
+This can be summarised as [^53] “…future environmental conditions will be far more dangerous than currently believed. The scale of the threats to the biosphere and all its lifeforms—including humanity—is in fact so great that it is difficult to grasp for even well-informed experts.” This statement effectively sums up the current situation for humanity and indicates that it may be increasingly likely that the current (and near-future) timeframes represent a significant inflection point. Changes of varying magnitudes are possible in the coming years and decades, up to and including the collapse of organised societies. Various scientific and popular literature sources have explored the concept of societal collapse, with an increase in these descriptions occurring in recent decades as awareness and concern regarding the global environmental predicament has grown. [Table 1] summarises the key features of the most significant of these conceptual descriptions.
 
 **Table 1.** Summary of ‘Collapse’ Scenarios.
 
-![Table](https://www.mdpi.com/img/table.png)[](#table_body_display_sustainability-13-08161-t001)
+![Table](https://www.mdpi.com/img/table.png)[]
 
 ##### 1.2.6. Collapse Lifeboats
 
@@ -239,7 +239,7 @@ A robust assumption based on historical events and behaviours \[[^28],[^30]\] is
 
 ‘De-complexification’ is defined as a condition in which the overall complexity of human societies at global scale would undergo a large and broad-spectrum (i.e., affecting all parts of societies, technological systems and environments) reduction. Although this concept is central to this study, it is not defined in detailed terms, nor is it quantified. Instead, it is applied as a generalised description that captures a slowdown, cessation or reversal of the trends that are characteristic of recent civilisation, notably, the exponential increases in multiple parameters, i.e., the ‘Great Acceleration’ [^2].
 
-At the highest level, the cause underlying such a ‘de-complexification’ is the nexus of trends and phenomena described in [Section 1.2](#sec1dot2-sustainability-13-08161). It is not possible to be more specific about the cause(s) that could potentially result in this occurring, but some possible modes of behaviour for its occurrence can be described in more general terms. ‘De-complexification’ could feasibly occur as a discrete, short duration event \[[^12],[^13]\]; as a more prolonged, gradual and long-term process [^63]; or potentially as a hybrid of both these types of events. These are described in more detail below:
+At the highest level, the cause underlying such a ‘de-complexification’ is the nexus of trends and phenomena described in [Section 1.2]. It is not possible to be more specific about the cause(s) that could potentially result in this occurring, but some possible modes of behaviour for its occurrence can be described in more general terms. ‘De-complexification’ could feasibly occur as a discrete, short duration event \[[^12],[^13]\]; as a more prolonged, gradual and long-term process [^63]; or potentially as a hybrid of both these types of events. These are described in more detail below:
 
 -   ‘Seneca type’—this would likely result from a discrete initiation event or phase for which there are no significant signals of the coming disruption and would lead to a rapid and profound ‘de-complexification’ (potentially on the order of <1 year–years timescales) \[[^12],[^13]\].
 
@@ -275,13 +275,13 @@ The aim of this study is to identify a shortlist of nations that have natural an
 
 As noted above, the first objective of this analysis is to define and underpin a ‘shortlist’ of nations which have inherent natural and anthropogenic characteristics that in combination are likely to comprise ‘favourable starting conditions’. This shortlist will need to take account of the factors that are of the greatest relevance to the potential nature of a ‘de-complexification’ event to identify which conditions may interact with such an event to give a higher probability of allowing a degree of complexity to persist.
 
-The methodology for the identification of ‘shortlisted’ nations is based around the extrapolation and further analysis of the outputs of the ‘University of Notre Dame—Global Adaptation Index’ (ND-GAIN) [^66] study. This is a study that considers a range of factors relating to the potential for climate change to disrupt different nations around the world. It gathers and processes a range of different variables to generate indicators of vulnerability to climate disruptions and readiness to mobilise adaptive actions. The overall output of the study is a combined score for each nation in the world and a ranking of nations according to proneness to climate change. [Table A1](#table_body_display_sustainability-13-08161-t0A1) in [Appendix A](#app1-sustainability-13-08161) outlines the ranking of the highest-scoring nations, and [Table A2](#table_body_display_sustainability-13-08161-t0A2) and [Table A3](#table_body_display_sustainability-13-08161-t0A3) (in [Appendix B](#app2-sustainability-13-08161) and [Appendix C](#app3-sustainability-13-08161), respectively) list the 45 indicators used in the calculation of the ND-GAIN Index.
+The methodology for the identification of ‘shortlisted’ nations is based around the extrapolation and further analysis of the outputs of the ‘University of Notre Dame—Global Adaptation Index’ (ND-GAIN) [^66] study. This is a study that considers a range of factors relating to the potential for climate change to disrupt different nations around the world. It gathers and processes a range of different variables to generate indicators of vulnerability to climate disruptions and readiness to mobilise adaptive actions. The overall output of the study is a combined score for each nation in the world and a ranking of nations according to proneness to climate change. [Table A1] in [Appendix A] outlines the ranking of the highest-scoring nations, and [Table A2] and [Table A3] (in [Appendix B] and [Appendix C], respectively) list the 45 indicators used in the calculation of the ND-GAIN Index.
 
-The study is considered to be comprehensive, robust and the data is open access, so it provides a strong basis for the analysis undertaken in this study. However, it does not account for several factors which are specific to the analysis of ‘favourable starting conditions/nodes of persisting complexity’. Therefore, additional semi-quantitative screening is applied to the top 20 least vulnerable nations [^66] to generate a final ‘shortlist’ of five nations using three additional analytical measures that pertain specifically to the ‘de-complexification’ scenario. For each of these three measures, an analysis is undertaken based on a semi-quantitative scoring system that is combined with the ranking provided by ND-GAIN to produce a ‘shortlist’ of five nations with the highest ‘favourable starting condition’ rating. These nations are then taken forward to the next stage of more detailed qualitative analysis (in [Section 4](#sec4-sustainability-13-08161)). [Table 2](#table_body_display_sustainability-13-08161-t002) describes the additional analytical measures and the basis for the ‘scoring’ applied.
+The study is considered to be comprehensive, robust and the data is open access, so it provides a strong basis for the analysis undertaken in this study. However, it does not account for several factors which are specific to the analysis of ‘favourable starting conditions/nodes of persisting complexity’. Therefore, additional semi-quantitative screening is applied to the top 20 least vulnerable nations [^66] to generate a final ‘shortlist’ of five nations using three additional analytical measures that pertain specifically to the ‘de-complexification’ scenario. For each of these three measures, an analysis is undertaken based on a semi-quantitative scoring system that is combined with the ranking provided by ND-GAIN to produce a ‘shortlist’ of five nations with the highest ‘favourable starting condition’ rating. These nations are then taken forward to the next stage of more detailed qualitative analysis (in [Section 4]). [Table 2] describes the additional analytical measures and the basis for the ‘scoring’ applied.
 
 **Table 2.** Additional Measures for Assessment of ‘De-complexification’.
 
-![Table](https://www.mdpi.com/img/table.png)[](#table_body_display_sustainability-13-08161-t002)
+![Table](https://www.mdpi.com/img/table.png)[]
 
 The semi-quantitative/subjective nature of the three further analytical factors means that a scoring scale with only five gradations (i.e., which is reasonably imprecise and approximate) is deemed to be appropriate. This first stage of the further analysis is intended to be a general appraisal of the situation of a given nation, and the summation of the scores for these additional analytical measures (in combination with their ND-GAIN rating) is intended to ‘draw out’ a shortlist of those nations with generally greater ‘favourable starting conditions’.
 
@@ -289,20 +289,20 @@ It is noted and acknowledged that the analysis applied is here is simple and sup
 
 ## 3. Results
 
-The application of the scoring mechanism outlined in [Section 2.2](#sec2dot2-sustainability-13-08161) (along with information underpinning this analysis) to the top 20 ‘least vulnerable’ nations (as identified by ND-GAIN [^66]) is presented in [Table 3](#table_body_display_sustainability-13-08161-t003). This identifies the five nations with the most significant ‘favourable starting conditions’, which are then taken forward for more detailed, individual discussion in [Section 4](#sec4-sustainability-13-08161).
+The application of the scoring mechanism outlined in [Section 2.2] (along with information underpinning this analysis) to the top 20 ‘least vulnerable’ nations (as identified by ND-GAIN [^66]) is presented in [Table 3]. This identifies the five nations with the most significant ‘favourable starting conditions’, which are then taken forward for more detailed, individual discussion in [Section 4].
 
 **Table 3.** Scoring and Underpinning of Assessment of ‘De-complexification’.
 
 
-[Table 4](#table_body_display_sustainability-13-08161-t004) shows the calculation for the ‘favourable starting conditions’ rating for all of the nations that scored >10 (note not inclusive) i.e., those with the ‘favourable starting conditions’ for the potential formation of ‘nodes of persisting complexity.
+[Table 4] shows the calculation for the ‘favourable starting conditions’ rating for all of the nations that scored >10 (note not inclusive) i.e., those with the ‘favourable starting conditions’ for the potential formation of ‘nodes of persisting complexity.
 
 **Table 4.** ‘Favourable Starting Location’ Rating.
 
-![Table](https://www.mdpi.com/img/table.png)[](#table_body_display_sustainability-13-08161-t004)
+![Table](https://www.mdpi.com/img/table.png)[]
 
 ## 4. Discussion
 
-The crucial features common to the nations that scored >10 in the ‘further analysis’ (and therefore having ‘favourable starting conditions’) are that they consist of islands, island archipelagos or island continents located at temperate latitudes with strong Oceanic climatic influence. We note that Iceland is located at sub-polar latitudes but has a climate buffered by the North Atlantic Gulf Stream/North Atlantic Current and so has characteristics of a landmass located further south and Australia encompasses multiple climatic regimes due to its physical size, but includes a significant area with a temperate Oceanic climate, principally the island/State of Tasmania (refer to [Section 4.1](#sec4dot1-sustainability-13-08161)). Nations and geographical regions with these climatic characteristics have a relatively low degree of temperature and precipitation variability currently and therefore would remain this way at the start of any ‘de-complexification’ process. These locations would therefore also have the greatest likelihood of relatively stable conditions being buffered and persisting in response to climate change scenarios for the 21st century.
+The crucial features common to the nations that scored >10 in the ‘further analysis’ (and therefore having ‘favourable starting conditions’) are that they consist of islands, island archipelagos or island continents located at temperate latitudes with strong Oceanic climatic influence. We note that Iceland is located at sub-polar latitudes but has a climate buffered by the North Atlantic Gulf Stream/North Atlantic Current and so has characteristics of a landmass located further south and Australia encompasses multiple climatic regimes due to its physical size, but includes a significant area with a temperate Oceanic climate, principally the island/State of Tasmania (refer to [Section 4.1]). Nations and geographical regions with these climatic characteristics have a relatively low degree of temperature and precipitation variability currently and therefore would remain this way at the start of any ‘de-complexification’ process. These locations would therefore also have the greatest likelihood of relatively stable conditions being buffered and persisting in response to climate change scenarios for the 21st century.
 
 By contrast, geographical regions in the tropics and subtropics are likely to suffer some of the largest changes in climatic patterns and at the earliest stages of projected climate change \[[^73],[^74],[^75]\]. The continued viability of large-scale agriculture is more likely in any regions with existing areas of rain-fed, high-quality and fertile soil that is at lower risk of erosion and degradation due to the buffering of potentially warmer, stormier and more generally unstable future climatic conditions. Alongside agriculture, access to domestic sources of energy is required to support the continuation of fundamental societal functions and therefore support the formation of ‘nodes of persisting complexity’. For example, renewable electricity generation capacity could permit the ongoing operation of crucial infrastructure (e.g., communications networks, pumping and treatment of water for irrigation and supply and manufacturing capacity) that would be necessary to support key capabilities.
 
@@ -314,17 +314,17 @@ The following discussions therefore disregard the use of large volumes of liquid
 
 #### 4.1. Discussion by Nation
 
-[Table 5](#table_body_display_sustainability-13-08161-t005) contains further detailed analyses of each of the five nations identified in [Table 4](#table_body_display_sustainability-13-08161-t004). For each nation, the analysis is divided into the following: energy resources; climate, agricultural resources and other factors; and an overview of the national situation with regards to potential for formation of ‘nodes of persisting complexity’ (the information is presented in bulleted format for ease of presentation and comprehension).
+[Table 5] contains further detailed analyses of each of the five nations identified in [Table 4]. For each nation, the analysis is divided into the following: energy resources; climate, agricultural resources and other factors; and an overview of the national situation with regards to potential for formation of ‘nodes of persisting complexity’ (the information is presented in bulleted format for ease of presentation and comprehension).
 
 **Table 5.** Further Analysis by Nation.
 
-![Table](https://www.mdpi.com/img/table.png)[](#table_body_display_sustainability-13-08161-t005)
+![Table](https://www.mdpi.com/img/table.png)[]
 
 #### 4.2. Sustainability and Resilience Lessons
 
 This analysis of ‘nodes of persisting complexity’ would be of limited value if it were simply a dispassionate analysis of what parts of human civilisation might survive a major, global scale ‘de-complexification’ in relatively unscathed forms. Such an event would be bleak, tragic and history-altering when the loss of life, knowledge and cultural achievements, which would inevitably be attendant to such scenarios, are considered. As such, this analysis is carried out with the intent to aid the understanding of what contributes to making such events possible or probable and, therefore, to act as a component of the feedback, which may reduce the risk of them occurring.
 
-The analysis undertaken in [Section 3](#sec3-sustainability-13-08161) highlights that certain nations have particular characteristics (‘favourable starting conditions’) that may maximise their potential to form ‘nodes of persisting complexity’. These characteristics are inherent to these locations, but there may be scope to apply aspects of these characteristics (or the benefits they naturally confer) to other locations that do not naturally have them. The application of learning from the ‘nodes of persisting complexity analysis’ may be possible through actions local to nations or global regions, and/or through global-scale actions. Some of these may be already underway, or may be things that are not yet happening, but which may be feasible in the future. The following subsections discuss the ‘favourable starting conditions’ in turn with reference to how they may be applied.
+The analysis undertaken in [Section 3] highlights that certain nations have particular characteristics (‘favourable starting conditions’) that may maximise their potential to form ‘nodes of persisting complexity’. These characteristics are inherent to these locations, but there may be scope to apply aspects of these characteristics (or the benefits they naturally confer) to other locations that do not naturally have them. The application of learning from the ‘nodes of persisting complexity analysis’ may be possible through actions local to nations or global regions, and/or through global-scale actions. Some of these may be already underway, or may be things that are not yet happening, but which may be feasible in the future. The following subsections discuss the ‘favourable starting conditions’ in turn with reference to how they may be applied.
 
 ##### 4.2.1. Future Climatic Conditions
 
@@ -468,26 +468,26 @@ The authors declare no conflict of interest.
 
 | Country | Carrying Capacity Analysis  <br>(Approximate, Rounded Agricultural Land/Capita) |
 | --- | --- |
-| Norway | 5.5 million total population [^71]  <br>365,268 km2 total land area [^100]  <br>0.27% agricultural land [^72]  <br>**0.002 km2 agricultural land/capita** |
-| New Zealand | 5.0 million total population [^71]  <br>263,310 km2 total land area [^100]  <br>43.2% agricultural land [^72]  <br>**0.023 km2 agricultural land/capita** |
-| Finland | 5.6 million total population [^71]  <br>303,890 km2 total land area [^100]  <br>7.5% agricultural land [^72]  <br>**0.004 km2 agricultural land/capita** |
-| Denmark | 5.9 million total population [^71]  <br>42,430 km2 total land area [^100]  <br>63.4% agricultural land [^72]  <br>**0.005 km2 agricultural land/capita** |
-| Sweden | 10.3 million total population [^71]  <br>410,340 km2 total land area [^100]  <br>7.5% agricultural land [^72]  <br>**0.003 km2 agricultural land/capita** |
-| Switzerland | 8.5 million total population [^71]  <br>39,516 km2 total land area [^100]  <br>38.7% agricultural land [^72]  <br>**0.002 km2 agricultural land/capita** |
-| Singapore | 5.9 million total population [^71]  <br>700 km2 total land area [^100]  <br>1% agricultural land [^72]  <br>**Negligible agricultural land/capita** |
-| Austria | 8.9 million total population [^71]  <br>82,409 km2 total land area [^100]  <br>38.4% agricultural land [^72]  <br>**0.004 km2 agricultural land/capita** |
-| Iceland | 354,000 total population [^71]  <br>100,250 km2 total land area [^100]  <br>18.7% agricultural land [^72]  <br>**0.053 km2 agricultural land/capita** |
-| Germany | 79.9 million total population [^71]  <br>348,560 km2 total land area [^100]  <br>48% agricultural land [^72]  <br>**0.002 km2 agricultural land/capita** |
-| United Kingdom | 66.1 million total population [^71]  <br>241,930 km2 total land area [^100]  <br>71% agricultural land [^72]  <br>**0.003 km2 agricultural land/capita** |
-| Luxembourg | 640,000 total population [^71]  <br>2590 km2 total land area [^100]  <br>51% agricultural land [^72]  <br>**0.002 km2 agricultural land/capita** |
-| Australia | 25.8 million total population [^71]  <br>7,682,300 km2 total land area [^100]  <br>52.9% agricultural land [^72]  <br>**0.158 km2 agricultural land/capita** |
-| Korea | 51.7 million total population [^71]  <br>97,230 km2 total land area [^100]  <br>18.1% agricultural land [^72]  <br>**Negligible agricultural land/capita** |
-| Japan | 124.7 million total population [^71]  <br>364,555 km2 total land area [^100]  <br>12.5% agricultural land [^72]  <br>**Negligible agricultural land/capita** |
-| The Netherlands | 17.3 million total population [^71]  <br>33,720 km2 total land area [^100]  <br>55.1% agricultural land [^72]  <br>**0.001 km2 agricultural land/capita** |
-| France | 68.1 million total population [^71]  <br>547,557 km2 total land area [^100]  <br>52.7% agricultural land [^72]  <br>**0.004 km2 agricultural land/capita** |
-| Canada | 37.9 million total population [^71]  <br>9,093,510 km2 total land area [^100]  <br>6.8% agricultural land [^72]  <br>**0.016 km2 agricultural land/capita** |
-| United States | 335 million total population [^71]  <br>9,147,420 km2 total land area [^100]  <br>44.5% agricultural land [^72]  <br>**0.012 km2 agricultural land/capita** |
-| Ireland | 5.2 million total population [^71]  <br>68,890 km2 total land area [^100]  <br>66.1% agricultural land [^72]  <br>**0.009 km2 agricultural land/capita** |
+| Norway | 5.5 million total population [^71]  <br>365,$268 km^2$ total land area [^100]  <br>0.27% agricultural land [^72]  <br>**$0.002 km^2$ agricultural land/capita** |
+| New Zealand | 5.0 million total population [^71]  <br>263,$310 km^2$ total land area [^100]  <br>43.2% agricultural land [^72]  <br>**$0.023 km^2$ agricultural land/capita** |
+| Finland | 5.6 million total population [^71]  <br>303,$890 km^2$ total land area [^100]  <br>7.5% agricultural land [^72]  <br>**$0.004 km^2$ agricultural land/capita** |
+| Denmark | 5.9 million total population [^71]  <br>42,$430 km^2$ total land area [^100]  <br>63.4% agricultural land [^72]  <br>**$0.005 km^2$ agricultural land/capita** |
+| Sweden | 10.3 million total population [^71]  <br>410,$340 km^2$ total land area [^100]  <br>7.5% agricultural land [^72]  <br>**$0.003 km^2$ agricultural land/capita** |
+| Switzerland | 8.5 million total population [^71]  <br>39,$516 km^2$ total land area [^100]  <br>38.7% agricultural land [^72]  <br>**$0.002 km^2$ agricultural land/capita** |
+| Singapore | 5.9 million total population [^71]  <br>$700 km^2$ total land area [^100]  <br>1% agricultural land [^72]  <br>**Negligible agricultural land/capita** |
+| Austria | 8.9 million total population [^71]  <br>82,$409 km^2$ total land area [^100]  <br>38.4% agricultural land [^72]  <br>**$0.004 km^2$ agricultural land/capita** |
+| Iceland | 354,000 total population [^71]  <br>100,$250 km^2$ total land area [^100]  <br>18.7% agricultural land [^72]  <br>**$0.053 km^2$ agricultural land/capita** |
+| Germany | 79.9 million total population [^71]  <br>348,$560 km^2$ total land area [^100]  <br>48% agricultural land [^72]  <br>**$0.002 km^2$ agricultural land/capita** |
+| United Kingdom | 66.1 million total population [^71]  <br>241,$930 km^2$ total land area [^100]  <br>71% agricultural land [^72]  <br>**$0.003 km^2$ agricultural land/capita** |
+| Luxembourg | 640,000 total population [^71]  <br>$2590 km^2$ total land area [^100]  <br>51% agricultural land [^72]  <br>**$0.002 km^2$ agricultural land/capita** |
+| Australia | 25.8 million total population [^71]  <br>7,682,$300 km^2$ total land area [^100]  <br>52.9% agricultural land [^72]  <br>**$0.158 km^2$ agricultural land/capita** |
+| Korea | 51.7 million total population [^71]  <br>97,$230 km^2$ total land area [^100]  <br>18.1% agricultural land [^72]  <br>**Negligible agricultural land/capita** |
+| Japan | 124.7 million total population [^71]  <br>364,$555 km^2$ total land area [^100]  <br>12.5% agricultural land [^72]  <br>**Negligible agricultural land/capita** |
+| The Netherlands | 17.3 million total population [^71]  <br>33,$720 km^2$ total land area [^100]  <br>55.1% agricultural land [^72]  <br>**$0.001 km^2$ agricultural land/capita** |
+| France | 68.1 million total population [^71]  <br>547,$557 km^2$ total land area [^100]  <br>52.7% agricultural land [^72]  <br>**$0.004 km^2$ agricultural land/capita** |
+| Canada | 37.9 million total population [^71]  <br>9,093,$510 km^2$ total land area [^100]  <br>6.8% agricultural land [^72]  <br>**$0.016 km^2$ agricultural land/capita** |
+| United States | 335 million total population [^71]  <br>9,147,$420 km^2$ total land area [^100]  <br>44.5% agricultural land [^72]  <br>**$0.012 km^2$ agricultural land/capita** |
+| Ireland | 5.2 million total population [^71]  <br>68,$890 km^2$ total land area [^100]  <br>66.1% agricultural land [^72]  <br>**$0.009 km^2$ agricultural land/capita** |
 
 ## 8. Tables
 ### 1. Summary of ‘Collapse’ Scenarios.
@@ -556,7 +556,7 @@ whether the extent of arable land within the borders of a country
 could provide sufficient food to support the current population  
 (assuming that large-scale food imports would be inaccessible under a hypothetical future ‘de-complexification’ event),  
 i.e., is the current population in excess of the land’s carrying capacity.  
-The arable land per capita (calculated and presented in [Appendix D](#app4-sustainability-13-08161))  
+The arable land per capita (calculated and presented in [Appendix D])  
 is compared with the land area required to provide at least a subsistence diet to assign a semi-quantitative score as follows:
 
 1. The land area available per capita is negligible or significantly below the minimum subsistence level.
@@ -621,30 +621,594 @@ at an adequate level of calories with a vegetarian diet ranges from $0.0001 km^2
 
 ### 3. Scoring and Underpinning of Assessment of ‘De-complexification’.
 
-| Country | Carrying Capacity Analysis  <br>(Refer to [Table A4](#table_body_display_sustainability-13-08161-t0A4) in [Appendix D](#app4-sustainability-13-08161) for Supporting Calculations) | Isolation Analysis | Self-Sufficiency Analysis | Total |
-| --- | --- | --- | --- | --- |
-| Norway | 2  <br>Low current population; 5.5 million [^71] but very low fraction of agricultural land; 2.7% [^72] means that agricultural land per capita is low at 0.002 km2. Direct access to the North Atlantic and Arctic Oceans. | 3  <br>Direct land connection to the Eurasian landmass but high northern latitude means it is remote from large European population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 9   |
-| New Zealand | 5  <br>Low current population; 5.0 million [^71] and high fraction of agricultural land; 43.2% [^72] means that agricultural land per capita is high at 0.023 km2. Direct access to the Pacific and Southern Oceans. | 5  <br>Island archipelago in the southwestern Pacific Ocean at mid southern latitudes with no nearby large or heavily populated landmasses | 3  <br>Abundant indigenous renewable energy sources.  <br>Modern economy but predominantly primary-resource-based, limited manufacturing capacity. | 13  |
-| Finland | 2  <br>Low current population; 5.6 million [^71] but low fraction of agricultural land; 7.5% [^72] means that agricultural land per capita is low at 0.004 km2. Direct access to the Baltic Sea. | 3  <br>Direct land connection to the Eurasian landmass, but high northern latitude means it is remote from large European population centres. | 3  <br>Moderate indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 8   |
-| Denmark | 3  <br>Low current population; 5.9 million [^71] high fraction of agricultural land; 63.4% [^72] but small total land area means that agricultural land per capita is low at 0.005 km2. Direct access to Baltic and North Seas. | 2  <br>In close proximity to large European population centres. | 3  <br>Abundant indigenous renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 8   |
-| Sweden | 2  <br>Moderate current population; 10.3 million [^71] but low fraction of agricultural land; 7.5% [^72] means that agricultural land per capita is low at 0.003 km2. Direct access to the Baltic and North Seas. | 3  <br>Direct land connection to the Eurasian landmass but high northern latitude means it is moderately remote from large European population centres. | 3  <br>Abundant indigenous renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 8   |
-| Switzerland | 2  <br>Low current population; 8.5 million [^71] high fraction of agricultural land; 38.7% [^72] but small total land area means that agricultural land per capita is low at 0.002 km2. Landlocked country. | 1  <br>Centrally located within large European population centres. | 3  <br>Moderate indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 6   |
-| Singapore | 1  <br>Low current population; 5.9 million [^71], but very low fraction of agricultural land; 1% [^72] and very small total land area means that agricultural land per capita is negligible.  <br>Direct access to the Indian Ocean and South China Sea. | 1  <br>Island city-state separated from the Eurasian landmass by a narrow strait, centrally located within large Asian population centres. | 2  <br>Very limited indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with limited manufacturing capacity. | 4   |
-| Austria | 2  <br>Low current population; 8.9 million; [^71] high fraction of agricultural land; 38.4% [^72] but small total land area means that agricultural land per capita is low at 0.004 km2. Landlocked country. | 1  <br>Centrally located within large European population centres. | 3  <br>Abundant indigenous renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 6   |
-| Iceland | 4  <br>Very low current population; 354,000 [^71] and moderate fraction of agricultural land; 18.7% [^72] means that agricultural land per capita is moderate at 0.053 km2. Direct access to the North Atlantic Ocean. | 5  <br>Island in the North Atlantic Ocean at high northern latitudes with no nearby large or heavily populated landmasses | 2  <br>Abundant indigenous renewable energy sources.  <br>Modern high-tech economy with limited manufacturing capacity. | 11  |
-| Germany | 2  <br>High current population; 79.9 million [^71] high fraction of agricultural land; 48% [^72] but moderate total land area means that agricultural land per capita is low at 0.002 km2. Direct access to the Baltic and North Seas. | 1  <br>Centrally located within large European population centres. | 5  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very large manufacturing capacity. | 8   |
-| United Kingdom | 3  <br>High current population; 66.1 million [^71] very high fraction of agricultural land; 71% [^72] but moderate total land area means that agricultural land per capita is low at 0.003 km2. Direct access to the North Atlantic Ocean and North Sea. | 4  <br>Island in the northeastern Atlantic Ocean at mid-high northern latitudes, separated from the Eurasian landmass by a moderately sized strait, peripheral to large European population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with large manufacturing capacity. | 11  |
-| Luxembourg | 1  <br>Very low current population; 640,000 [^71] high fraction of agricultural land; 51% [^72] but very low total land area means that agricultural land per capita is low at 0.002 km2.  <br>Landlocked country. | 1  <br>Centrally located within large European population centres. | 2  <br>Very limited indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very limited manufacturing capacity. | 4   |
-| Australia | 5  <br>Moderate current population; 25.8 million [^71], high fraction of agricultural land; 52.9% [^72] and very large total land areas means that agricultural land per capita is very high at 0.158 km2. Direct access to the Pacific and Indian Oceans. | 4  <br>Island continent located between the Pacific, Southern and Indian Oceans at low-mid southern latitudes, separated from outlying islands of the Eurasian landmass by a moderately-sized strait, peripheral to large Asian population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 13  |
-| Korea | 1  <br>High current population; 51.7 million [^71] moderate fraction of agricultural land; 18.1% [^72] and moderate total land area means that agricultural land per capita is negligible. Direct access to the Sea of Japan and East China Sea. | 2  <br>Direct land connection to the Eurasian landmass in close proximity to large Asian population centres. | 3  <br>Moderate indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very large manufacturing capacity. | 6   |
-| Japan | 1  <br>Very high current population; 124.7 million [^71] and low fraction of agricultural land; 12.5% [^72] means that agricultural land per capita is negligible. Direct access to the Pacific Ocean and Sea of Japan. | 3  <br>Island archipelago in the northwestern Pacific Ocean at low-mid northern latitudes, separated from Eurasian landmass by a moderately-sized sea, peripheral to large Asian population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very large manufacturing capacity. | 8   |
-| The Netherlands | 2  <br>High current population; 17.3 million [^71] high fraction of agricultural land; 55.1% [^72] but low total land area means that agricultural land per capita is very low at 0.001 km2.  <br>Direct access to the North Sea. | 1  <br>Centrally located within large European population centres. | 3  <br>Moderate indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 6   |
-| France | 3  <br>High current population; 68.1 million [^71] but high fraction of agricultural land; 52.7% [^72] means that agricultural land per capita is moderate at 0.004 km2. Direct access to the North Atlantic Ocean. | 1  <br>Centrally located within large European population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with large manufacturing capacity. | 8   |
-| Canada | 4  <br>Moderate current population; 37.9 million [^71] low fraction of agricultural land; 6.8% [^72] but very large total land area means that agricultural land per capita is moderate at 0.016 km2. Direct access to the Pacific and North Atlantic Oceans. | 2  <br>Direct land connection to the North and Central American landmass; in close proximity to large North American population centres. | 4  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with moderate manufacturing capacity. | 10  |
-| United States | 4  <br>Very high current population; 335.0 million [^71] high fraction of agricultural land; 44.5% [^72] and very large total land area means that agricultural land per capita is moderate at 0.012 km2. Direct access to the Pacific and North Atlantic Oceans. | 1  <br>Centrally located within large North and Central American population centres. | 5  <br>Abundant indigenous renewable and non-renewable energy sources.  <br>Modern high-tech economy with very large manufacturing capacity. | 10  |
-| Ireland | 5  <br>Low current population; 5.2 million [^71] and very high fraction of agricultural land; 66.1% [^72] means that agricultural land per capita is moderate at 0.009 km2. Direct access to the North Atlantic Ocean. | 5  <br>Island in the northeastern Atlantic Ocean at mid-high northern latitudes, separated from Eurasian landmass by the Island of Britain, a sea and a moderately sized strait, remote from large European population centres. | 2  <br>Moderate indigenous renewable energy sources.  <br>Modern economy but predominantly primary-resource-based; limited manufacturing capacity. | 12  |
+Summary
 
-**Notes**: ‘Agricultural land’ is total area of land utilised for all forms of agriculture, including arable, permanent cropland and permanent pasture [^72]. Note that for some countries (e.g., Australia) pasture may make up a large proportion of the total, so a large fraction of the land in question may not comprise highly fertile land capable of high-productivity output that could support large human populations. Therefore, the metric of ‘fraction of agricultural land’ is used as an indicative measure of the general carrying capacity of the territory of the country in question but may not reflect the country’s true capacity for food production.
+| Country | Carrying Capacity Analysis | Isolation Analysis | Self-Sufficiency Analysis | Total |
+| --- | --- | --- | --- | --- |
+| Norway | 2 | 3 | 4 | 9   |
+| New Zealand | 5 | 5 | 3 | 13  |
+| Finland | 2 | 3 | 3 | 8   |
+| Denmark | 3 | 2 | 3 | 8   |
+| Sweden | 2 | 3 | 3 | 8   |
+| Switzerland | 2 | 1 | 3 | 6   |
+| Singapore | 1 | 1 | 2 | 4   |
+| Austria | 2 | 1 | 3 | 6   |
+| Iceland | 4 | 5 | 2 | 11  |
+| Germany | 2 | 1 | 5 | 8   |
+| United Kingdom | 3 | 4 | 4 | 11  |
+| Luxembourg | 1 | 1 | 2 | 4   |
+| Australia | 5 | 4 | 4 | 13  |
+| Korea | 1 | 2 | 3 | 6   |
+| Japan | 1 | 3 | 4 | 8   |
+| The Netherlands | 2 | 1 | 3 | 6   |
+| France | 3 | 1 | 4 | 8   |
+| Canada | 4 | 2 | 4 | 10  |
+| United States | 4 | 1 | 5 | 10  |
+| Ireland | 5 | 5 | 2 | 12  |
+
+
+**Notes**: ‘Agricultural land’ is total area of land utilised for all forms of agriculture, including arable, permanent cropland and permanent pasture [^72].  
+Note that for some countries (e.g., Australia)  
+pasture may make up a large proportion of the total,  
+so a large fraction of the land in question may not comprise highly fertile land  
+capable of high-productivity output that could support large human populations.+++(5)+++  
+Therefore, the metric of ‘fraction of agricultural land’  
+is used as an indicative measure of the general carrying capacity of the territory of the country in question  
+but may not reflect the country’s true capacity for food production.
+
+
+#### Norway
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 2
+
+Low current population; 5.5 million [^71] but very low fraction of agricultural land;  
+2.7% [^72] means that agricultural land per capita is low at $0.002 km^2$.  
+Direct access to the North Atlantic and Arctic Oceans.
+
+##### Isolation Analysis
+
+Score: 3
+
+Direct land connection to the Eurasian landmass but high northern latitude means it is remote from large European population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 4
+
+Abundant indigenous renewable and non-renewable energy sources.  
+Modern high-tech economy with moderate manufacturing capacity.
+
+##### Total
+9  
+
+#### New Zealand
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 5
+
+Low current population; 5.0 million [^71]  
+and high fraction of agricultural land; 43.2% [^72]  
+means that agricultural land per capita is high at $0.023 km^2$.  
+Direct access to the Pacific and Southern Oceans.
+
+##### Isolation Analysis
+
+Score: 5
+
+Island archipelago in the southwestern Pacific Ocean at mid southern latitudes  
+with no nearby large or heavily populated landmasses.+++(5)+++
+
+##### Self-Sufficiency Analysis
+
+Score: 3
+
+Abundant indigenous renewable energy sources.  
+Modern economy but predominantly primary-resource-based, limited manufacturing capacity.
+
+##### Total
+13 
+
+#### Finland
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 2
+
+Low current population; 5.6 million [^71] but low fraction of agricultural land; 7.5% [^72]  
+means that agricultural land per capita is low at $0.004 km^2$.  
+Direct access to the Baltic Sea.
+
+##### Isolation Analysis
+
+Score: 3
+
+Direct land connection to the Eurasian landmass,  
+but high northern latitude means it is remote from large European population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 3
+
+Moderate indigenous renewable and non-renewable energy sources.  
+Modern high-tech economy with moderate manufacturing capacity.
+
+##### Total
+8  
+
+#### Denmark
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 3
+
+Low current population; 5.9 million [^71] high fraction of agricultural land; 63.4% [^72]  
+but small total land area means that agricultural land per capita is low at $0.005 km^2$.  
+Direct access to Baltic and North Seas.
+
+##### Isolation Analysis
+
+Score: 2
+
+In close proximity to large European population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 3
+
+Abundant indigenous renewable energy sources.  
+Modern high-tech economy with moderate manufacturing capacity.
+
+##### Total
+8  
+
+#### Sweden
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 2
+
+Moderate current population; 10.3 million [^71] but low fraction of agricultural land; 7.5% [^72] means that agricultural land per capita is low at $0.003 km^2$. Direct access to the Baltic and North Seas.
+
+##### Isolation Analysis
+
+Score: 3
+
+Direct land connection to the Eurasian landmass but high northern latitude means it is moderately remote from large European population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 3
+
+Abundant indigenous renewable energy sources.  
+Modern high-tech economy with moderate manufacturing capacity.
+
+##### Total
+8  
+
+#### Switzerland
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 2
+
+Low current population; 8.5 million [^71] high fraction of agricultural land; 38.7% [^72] but small total land area means that agricultural land per capita is low at $0.002 km^2$. Landlocked country.
+
+##### Isolation Analysis
+
+Score: 1
+
+Centrally located within large European population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 3
+
+Moderate indigenous renewable and non-renewable energy sources.  
+Modern high-tech economy with moderate manufacturing capacity.
+
+##### Total
+6  
+
+#### Singapore
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 1
+
+Low current population; 5.9 million [^71],  
+but very low fraction of agricultural land; 1% [^72]  
+and very small total land area  
+means that agricultural land per capita is negligible.  
+Direct access to the Indian Ocean and South China Sea.
+
+##### Isolation Analysis
+
+Score: 1
+
+Island city-state separated from the Eurasian landmass by a narrow strait,  
+centrally located within large Asian population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 2
+
+Very limited indigenous renewable and non-renewable energy sources.  
+Modern high-tech economy with limited manufacturing capacity.
+
+##### Total
+4  
+
+#### Austria
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 2
+
+Low current population; 8.9 million; [^71]  
+high fraction of agricultural land; 38.4% [^72]  
+but small total land area means that agricultural land per capita is low at $0.004 km^2$.  
+Landlocked country.
+
+##### Isolation Analysis
+
+Score: 1
+
+Centrally located within large European population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 3
+
+Abundant indigenous renewable energy sources.  
+Modern high-tech economy with moderate manufacturing capacity.
+
+##### Total
+6  
+
+#### Iceland
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 4
+
+Very low current population; 354,000 [^71]  
+and moderate fraction of agricultural land; 18.7% [^72]  
+means that agricultural land per capita is moderate at $0.053 km^2$.  
+Direct access to the North Atlantic Ocean.
+
+##### Isolation Analysis
+
+Score: 5
+
+Island in the North Atlantic Ocean at high northern latitudes  
+with no nearby large or heavily populated landmasses
+
+##### Self-Sufficiency Analysis
+
+Score: 2
+
+Abundant indigenous renewable energy sources.  
+Modern high-tech economy with limited manufacturing capacity.
+
+##### Total
+11 
+
+#### Germany
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 2
+
+High current population; 79.9 million [^71]  
+high fraction of agricultural land; 48% [^72]  
+but moderate total land area means that agricultural land per capita is low at $0.002 km^2$.  
+Direct access to the Baltic and North Seas.
+
+##### Isolation Analysis
+
+Score: 1
+
+Centrally located within large European population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 5
+
+Abundant indigenous renewable and non-renewable energy sources.  
+Modern high-tech economy with very large manufacturing capacity.
+
+##### Total
+8  
+
+#### United Kingdom
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 3
+
+High current population; 66.1 million [^71]  
+very high fraction of agricultural land; 71% [^72]  
+but moderate total land area means that agricultural land per capita is low at $0.003 km^2$.  
+Direct access to the North Atlantic Ocean and North Sea.
+
+##### Isolation Analysis
+
+Score: 4
+
+Island in the northeastern Atlantic Ocean at mid-high northern latitudes,  
+separated from the Eurasian landmass by a moderately sized strait,  
+peripheral to large European population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 4
+
+Abundant indigenous renewable and non-renewable energy sources.  
+Modern high-tech economy with large manufacturing capacity.
+
+##### Total
+11 
+
+#### Luxembourg
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 1
+
+Very low current population; 640,000 [^71] high fraction of agricultural land; 51% [^72]  
+but very low total land area means that agricultural land per capita is low at $0.002 km^2$.  
+Landlocked country.
+
+##### Isolation Analysis
+
+Score: 1
+
+Centrally located within large European population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 2
+
+Very limited indigenous renewable and non-renewable energy sources.  
+Modern high-tech economy with very limited manufacturing capacity.
+
+##### Total
+4  
+
+#### Australia
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 5
+
+Moderate current population; 25.8 million [^71], high fraction of agricultural land; 52.9% [^72]  
+and very large total land areas means that agricultural land per capita is very high at $0.158 km^2$.  
+Direct access to the Pacific and Indian Oceans.
+
+##### Isolation Analysis
+
+Score: 4
+
+Island continent located between the Pacific, Southern and Indian Oceans at low-mid southern latitudes,  
+separated from outlying islands of the Eurasian landmass by a moderately-sized strait,  
+peripheral to large Asian population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 4
+
+Abundant indigenous renewable and non-renewable energy sources.  
+Modern high-tech economy with moderate manufacturing capacity.
+
+##### Total
+13 
+
+#### Korea
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 1
+
+High current population; 51.7 million [^71] moderate fraction of agricultural land; 18.1% [^72]  
+and moderate total land area means that agricultural land per capita is negligible. Direct access to the Sea of Japan and East China Sea.
+
+##### Isolation Analysis
+
+Score: 2
+
+Direct land connection to the Eurasian landmass in close proximity to large Asian population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 3
+
+Moderate indigenous renewable and non-renewable energy sources.  
+Modern high-tech economy with very large manufacturing capacity.
+
+##### Total
+6  
+
+#### Japan
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 1
+
+Very high current population; 124.7 million [^71] and low fraction of agricultural land; 12.5% [^72]  
+means that agricultural land per capita is negligible.  
+Direct access to the Pacific Ocean and Sea of Japan.
+
+##### Isolation Analysis
+
+Score: 3
+
+Island archipelago in the northwestern Pacific Ocean at low-mid northern latitudes,  
+separated from Eurasian landmass by a moderately-sized sea,  
+peripheral to large Asian population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 4
+
+Abundant indigenous renewable and non-renewable energy sources.  
+Modern high-tech economy with very large manufacturing capacity.
+
+##### Total
+8  
+
+#### The Netherlands
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 2
+
+High current population; 17.3 million [^71] high fraction of agricultural land; 55.1% [^72]  
+but low total land area means that agricultural land per capita is very low at $0.001 km^2$.  
+Direct access to the North Sea.
+
+##### Isolation Analysis
+
+Score: 1
+
+Centrally located within large European population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 3
+
+Moderate indigenous renewable and non-renewable energy sources.  
+Modern high-tech economy with moderate manufacturing capacity.
+
+##### Total
+6  
+
+#### France
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 3
+
+High current population; 68.1 million [^71] but high fraction of agricultural land; 52.7% [^72]  
+means that agricultural land per capita is moderate at $0.004 km^2$. Direct access to the North Atlantic Ocean.
+
+##### Isolation Analysis
+
+Score: 1
+
+Centrally located within large European population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 4
+
+Abundant indigenous renewable and non-renewable energy sources.  
+Modern high-tech economy with large manufacturing capacity.
+
+##### Total
+8  
+
+#### Canada
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 4
+
+Moderate current population; 37.9 million [^71] low fraction of agricultural land; 6.8% [^72]  
+but very large total land area means that agricultural land per capita is moderate at $0.016 km^2$.  
+Direct access to the Pacific and North Atlantic Oceans.
+
+##### Isolation Analysis
+
+Score: 2
+
+Direct land connection to the North and Central American landmass;  
+in close proximity to large North American population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 4
+
+Abundant indigenous renewable and non-renewable energy sources.  
+Modern high-tech economy with moderate manufacturing capacity.
+
+##### Total
+10 
+
+#### United States
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 4
+
+Very high current population; 335.0 million [^71] high fraction of agricultural land; 44.5% [^72]  
+and very large total land area means that  
+agricultural land per capita is moderate at $0.012 km^2$.  
+Direct access to the Pacific and North Atlantic Oceans.
+
+##### Isolation Analysis
+
+Score: 1
+
+Centrally located within large North and Central American population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 5
+
+Abundant indigenous renewable and non-renewable energy sources.  
+Modern high-tech economy with very large manufacturing capacity.
+
+##### Total
+10 
+
+#### Ireland
+
+##### Carrying capacity analysis
+(Refer to [Table A4] for supporting calculations)
+
+Score: 5
+
+Low current population; 5.2 million [^71] and very high fraction of agricultural land; 66.1% [^72]  
+means that agricultural land per capita is moderate at $0.009 km^2$. Direct access to the North Atlantic Ocean.
+
+##### Isolation Analysis
+
+Score: 5
+
+Island in the northeastern Atlantic Ocean at mid-high northern latitudes, separated from Eurasian landmass by the Island of Britain, a sea and a moderately sized strait, remote from large European population centres.
+
+##### Self-Sufficiency Analysis
+
+Score: 2
+
+Moderate indigenous renewable energy sources.  
+Modern economy but predominantly primary-resource-based; limited manufacturing capacity.
+
+##### Total
+12 
+
 
 ### 4. ‘Favourable Starting Location’ Rating.
 
@@ -684,7 +1248,7 @@ at an adequate level of calories with a vegetarian diet ranges from $0.0001 km^2
 ##### Climate, Agricultural resources and other factors
 
 -   New Zealand has a temperate, oceanic climate with abundant precipitation (with regional variation, e.g., sub-tropical zones in the north [^83]).
--   There is also abundant agricultural land (and a high per capita availability, as identified in [Table 4](#table_body_display_sustainability-13-08161-t004)).  
+-   There is also abundant agricultural land (and a high per capita availability, as identified in [Table 4]).  
     However, [^84] identifies the challenges associated with access to water resources,  
     particularly in relation to heterogeneous distribution  
     and decreasing quality due to widespread contemporary agricultural over-intensity  
