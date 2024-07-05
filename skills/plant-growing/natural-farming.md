@@ -6,6 +6,7 @@ title = "natural-farming"
 
 ## Objectives
 ### Dr Venkat's opinion
+- Follower of permaculture by Mollison etc..
 - Increase "pore space" between soil particles; whence roots suck nutrients and water. Hence, organic matter is introduced. 
 - Soil organisms convert organic base into ingestible nutrients. Soil organisms weigh over 20x weight of life over the soil.
 - Must provide them air and water. Not chemicals.
