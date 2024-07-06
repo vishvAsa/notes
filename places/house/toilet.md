@@ -7,20 +7,34 @@ title = "Toilet"
 - Western seat
 - Chamber pot, baby potty, "bed pan"
 
+Squatting is more ergonomic and healthy.
+
+Waterless urinals.  
+Some have lighter than water sealant floats in the U bend.  
+Others have rubber valves.
+
+
+## Anal cleaning
+- Water
+- corn cob
+- toilet paper.
+- leaves
+- sticks
+
 ## Connection mode
 ### Water seal
 Blocks smell, flies etc.. 
 
 ### Dry toilet
-Aka pail closet, pail privy.  
-Urine and water are diverted to a separate hole.  
-Post defecation, dry matter is ideally thrown in to cover the feces.
-
-Odors can be a problem. 
+Urine and water are (mostly) diverted to a separate hole.  
+There may be a separate hole for washing anus.  
+Post defecation, dry matter is ideally thrown in to cover the feces.  
+Feces is kept as dry as possible -  to prevent flies and odor.  
 
 ## Waste collection
 
 ### Bucket toilet
+Aka pail closet, pail privy.  
 Bucket under the bowl is periodically emptied.  
 Bucket is lined with newspaper, dry leaves, sawdust, sand etc.. for easy emptying.  
 The receptacle should be in a closed container - to avoid flies.
@@ -36,6 +50,11 @@ Can accept limited urine - else better to divert to avoid anaerobic conditions.
 Moist carbon material must be hadded.
 
 Pathogen destruction rates in composting toilets are usually low, particularly of helminth eggs.
+
+### Plastic toilet booths
+- Uses chemicals to minimize smell.
+- Tank's often emptied to sewer.
+- Often include ventilation pipe leading to the roof, with insect screen (wouldn't work well if door is open to wind).
 
 ### Pit latrine
 Hole over a pit.  
@@ -80,51 +99,73 @@ Cleaning
 - With pumps for the liquid, then shovels
 
 ### Septic tank
-- Basic designs - Can fill up fast, become smelly.
 - inlet → sedimentation of sludge, floating scum, anaerobic decomposition → draining.
 - pathogens are usually reduced due to heat, soil absorption
 - periodic desludging needed.
+- Handles grey-water too.
 - widely used in EU and US. Earlier many drained to watercourses.
+- Basic designs - Can fill up fast, become smelly.
 
 ### Toilet bags
 - plastic
 - biodegradable
 
 
-### Absorbants
-- powdered lime, sand, etc.. are added before and after use to avoid smell, flies, etc..
+### Feces cover material
+- Purposes
+  - keeps feces dry
+  - avoid odor
+  - adds carbon to balance out nitrogen for composting
+  - raises pH, bad for pathogens
+- powdered lime, sand, rice hulls, soil, wood ash etc.. are added before and after use to avoid smell, flies, etc..
 - "Earth closet" was used to flush such material over feces.
 
-### Plastic toilet booths
-- Uses chemicals to minimize smell.
-- Tank's often emptied to sewer.
-- Often include ventilation pipe leading to the roof (wouldn't work well if door is open to wind). 
+### Dry feces collection
+With urine-diverting dry toilet (UDDT), separate from urine diverting compost toilets.  
+There may be two vaults/ bowls; or a single vault may have a changeable container.  
+
+The feces is stored dry for 6+ months after last feces is added. Then dehydration occurs beyond pathogen tolerance, pathogens decline.  
+The water content of dried feces after six months of drying is usually less than 25%.
+
+- Often include ventilation pipe leading to the roof, with insect screen.
+
+Less odor compared to wet feces + urine collection. Safer to handle.
 
 ## Waste disposal
-### Nutrients
-Urine is high in nitrogen, phosphorus, potassium and important micro-nutrients.  
-Can help offset "peak phosphorus" crisis. phosphate in urine could supply 22% of the total demand.
-Might need to be balanced with carbon.  
+Fresh feces consist of about 80% water.
 
-### Pathogens
+### Feces
+#### Pathogens
 High temperatures or long composting times are required to kill helminth eggs, the hardiest of all pathogens.
 
+#### Fertilizer
+Good for fruit trees - not vegetables due to disease risk.  
+Dry fertilizer is better.
 
-### Open defecation
+##### Nutrients
+Urine is high in nitrogen, phosphorus, potassium and important micro-nutrients.  
+Can help offset "peak phosphorus" crisis. phosphate in urine could supply 22% of the total demand.
+Might need to be balanced with carbon.
+
+#### Open defecation
 If in high concentration, can lead to disease spread. Otherwise ok.  
 Human faeces normally take about a year to biodegrade outdoors.  
 Emptying unaged feces from bucket toilets etc..  
 is mostly as good/bad as open defectation.
 
-Can dig a "cat"-hole, cover with soil.
-
-#### Tree bog
+##### Tree bog
 Raised platform for shitting in compost pile among nutrient hungry vegetation (eg. willow trees, mint). Seating platform is atleast 1m high.  
 Feces is well ventilated for aerobic decomposition.  
 Carbon rich material is used to cover feces - to balance urine nitrogen.   
 Weed nettles soon grow if allowed.
 
-### City sewage treatment
+##### Burial
+Can dig a "cat"-hole, cover with soil.  
+
+Can work with feces from bucket toilet, dry feces etc..
+Minimum depth - 25 cm.  
+
+#### City sewage treatment
 Toilets connected to city sewage system are easy to build and maintain.  
 
 Typical systems:
@@ -136,10 +177,29 @@ Typical systems:
 - Exposed gutters.
 - Workers collect waste from cess-pits and buckets (eg. via special "conservancy" lanes + special bucket doors); and then dispose.
 
-### Fertilizer
-Good for fruit trees - not vegetables due to disease risk.  
-Dry fertilizer is better.
+Ultimate disposal
+
+- Incineration.
+- Fertilization
+
+### Urine
+Urine is usually close to sterile.  
+Can be diluted with water and used for agriculture.
+
+Or can be infiltrated into soil via - soak pit, gentle slope etc..
+
+Residual pathogen removal - storage in closed vessels (five weeks at temperatures below 20 °C or of two weeks at temperatures above 20 °C).  
+The decomposition of urea that is present in urine into ammonia and hydrocarbonate leads to an increase in ammonia concentration and an increase of pH value to above 9. 
 
 ### Grey water
 aka sullage.  
-all streams except for the wastewater from toilets.
+Grey water = All streams except for the wastewater from toilets.
+
+#### Constructed wetlands
+Can be let into a constructed wetland/ reed beds/ soil infiltration beds.  
+Plants such as water hyacinth (Eichhornia crassipes) and Pontederia spp. are used.  
+Can be surface-flow or subsurface-flow or hybrid.  
+Look like ponds.
+
+Might encourage musquito, have odors, algae.  
+Can add fish to combat those.
