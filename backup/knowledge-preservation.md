@@ -11,22 +11,13 @@ The post-oil, post-industrial-age world will arrive (details [TM](https://eschol
 
 **How then to best preserve our knowledge (physical and spiritual) and texts?**
 
-## Preservation need
-### Texts
-Human brain is limited - so rAmANuja had to trek all the way to kAshmIr to consult bodhAyana-vRtti, deshika had to carry a big trunk of palm leaves to save shruta-prakAshika etc.. Even a text published by so famous a person as uttamUru-svAmI 50 years ago is very hard to find.
-
-Examples of catastrophic loss -
-
-- The last classical antique library in Constantinople burnt down in the 5th century and 120000 codices with it. The first medieval library of the 6th century contained about 100 books.
-- Burnt libraries of nAlandA, Alexandria.
-
 ## Media
 
 Lists of oldest surviving documents - [wiki](https://en.wikipedia.org/wiki/List_of_oldest_documents)
 
 ### 6k+ yr
 #### Ceramic microfilms
-Ceramic microfilm [MOM project](), which is a 1 mm thick rock-hard sheet 8 x 8 inches (20 × 20 cm). The tablets can withstand alkali and acid environments, but also temperatures up to 1300 degrees Celsius.  A laser is then used to etch character, full-colour graphics.
+Ceramic microfilm [MOM project](https://en.wikipedia.org/wiki/Memory_of_Mankind), which is a 1 mm thick rock-hard sheet 8 x 8 inches (20 × 20 cm). The tablets can withstand alkali and acid environments, but also temperatures up to 1300 degrees Celsius.  A laser is then used to etch character, full-colour graphics.
 
 The smallest text size is 4 pt in Arial style. It is the still readable with the naked eye. The capacity  (of latin letters) is about 40 000 characters on the 20x20 cm surface of a MOM tablet.
 
