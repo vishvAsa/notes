@@ -11,7 +11,7 @@ Someone tries to sprint after 20years of not running fast - they pull a hamstrin
 Another person resumes running after a decade off, within two weeks they get achilles tendonitis, so they stop running and take up rucking.
 
 Is the problem with running? No.  
-The problem is the body carrying 'silent' fragilities or injuries which running reveals.  
+The problem is the body carrying 'silent' fragilities or injuries which running reveals. +++(5)+++ 
 
 - The overweight person with the bad back. 
 - The deconditioned individual who falls apart from the dynamic effort of sprinting. 
