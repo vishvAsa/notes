@@ -116,7 +116,9 @@ Consider \\(E \subseteq S\\).
 ### Uniform convergence on E
 \\(f_{n} \to f\\) if 
 $$\forall \eps, \exists N: n > N \implies\\
- \forall x \in E\ d(f_n(x), f(x)) < \eps\\(. \\)f_{n} \to f\\( uniformly \\)\equiv\\( \\)\sup_{x \in E} d(f_{n}(x), f(x)) \to 0$$.
+ \forall x \in E\ d(f_n(x), f(x)) < \eps$$. 
+
+\\(f_{n} \to f\\) uniformly \\(\equiv \sup_{x \in E} d(f_{n}(x), f(x)) \to 0\\).
 
 Visualize geometrically as a sequence of curves which get closer and closer at all points.
 
