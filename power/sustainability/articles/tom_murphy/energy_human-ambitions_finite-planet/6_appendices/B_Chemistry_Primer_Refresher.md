@@ -193,15 +193,15 @@ Figure B.1: Periodic Table of the Elements. This version is too small to permit 
 [^3]: 
 the word molecule begins with mole. 
 
-[^4]: Unfortunately, it can be hard to remember if it is supposed to be 6.022 x $10^{23}$ or 6.023 x 1022. For this reason, may be wise to forget about the 22 and just remember 6.0×1023, or even 6.023 × $10^{23}$ as something that is very slightly wrong but much better than being 10 times off! 
+[^4]: Unfortunately, it can be hard to remember if it is supposed to be 6.022 x \\(10^{23}\\) or 6.023 x 1022. For this reason, may be wise to forget about the 22 and just remember 6.0×1023, or even 6.023 × \\(10^{23}\\) as something that is very slightly wrong but much better than being 10 times off! 
 B.2 Stoichiometry 
 376 
 other elements-being comprised of an integer number of protons and neutrons5-will tend to be close to an integer number of grams. For instance, a mole of hydrogen atoms is very close to 1.00 grams. A mole of helium is very nearly 4.00 grams, nitrogen 14, oxygen 16, etc. 
 So the concept of the mole is pretty straightforward: just a number— albeit a very large one. 
 Box B.1: Moles to Mass 
 Incidentally, the inverse of Avogadro's number becomes the definition of the atomic mass unit (a.m.u.). The a.m.u. can be thought of as the average mass of an atom per nucleon. In other words, carbon-12 (6 protons, 6 neutrons) has a mass of 12 a.m.u. In fact, this is how the a.m.u. is defined. This means that hydrogen (a single proton) has a mass very close to 1.00 a.m.u., and oxygen-16 (8 protons, 8 neutrons) has a mass close to 16.00 a.m.u. Chapter 15 delves into the subtle reason why these are not exactly 1.00000 and 16.00000 in these cases. 
-Since one mole of 12.00000 a.m.u. carbon-12 atoms is defined to have a mass of 12.00000 g, one mole of 1.000000 a.m.u. particles would have a mass of 1.000000 g. Therefore, a single 1.000000 a.m.u. particle would have a mass of 1.000000 g divided by Avogadro's number, NA = 6.02214076 x 1023, which turns out to be 1.66053907 × $10^{-24}$ 
-g, or 1.66053907 × $10^{-27}$ kg. This is the number you will find if looking up the atomic mass unit (also called a Dalton). 
+Since one mole of 12.00000 a.m.u. carbon-12 atoms is defined to have a mass of 12.00000 g, one mole of 1.000000 a.m.u. particles would have a mass of 1.000000 g. Therefore, a single 1.000000 a.m.u. particle would have a mass of 1.000000 g divided by Avogadro's number, NA = 6.02214076 x 1023, which turns out to be 1.66053907 × \\(10^{-24}\\) 
+g, or 1.66053907 × \\(10^{-27}\\) kg. This is the number you will find if looking up the atomic mass unit (also called a Dalton). 
 
 [^5]:... and associated light-weight electrons equal in number to the protons 
 
@@ -362,7 +362,7 @@ J
 mol. K 
 (B.3) 
 To get degrees in Kelvin, add 273.15 (273 among friends) to the temperature in Celsius.[^19] Standard atmospheric pressure is about 105 Pa.[^20] 
-Example B.4.1 Let's say we have a gas at "standard temperature and pressure" (STP), meaning 0°C (273 K) and 1.013 x $10^{5}$ Pa. How much volume would one mole of gas21 occupy? 
+Example B.4.1 Let's say we have a gas at "standard temperature and pressure" (STP), meaning 0°C (273 K) and 1.013 x \\(10^{5}\\) Pa. How much volume would one mole of gas21 occupy? 
 We have everything we need to solve for volume, so 
 
 [^18]: A Pascal (Pa) is also a Newton of force per square meter, which reduces to more fundamental units of J/m3 (Joules of energy per cubic meter). 
@@ -379,14 +379,14 @@ V =
 3 
 = 22.4 L. 
 P 
-1.013 x $10^{5}$ Pa 
+1.013 x \\(10^{5}\\) Pa 
 Okay; lots going on here. After the three values in the numerator are multiplied, the only surviving unit is J (Joules of energy). The unit in the denominator is Pascals, but this is equivalent to Joules per cubic meter. So the answer emerges in cubic meters, as a volume should. Since a cubic meter is 1,000 liters, we find that a mole of gas at STP occupies 22.4 L-a number memorized by many a chemistry student! 
 Physicists prefer a variant of the ideal gas law that derives from the study of “statistical mechanics,” which is practically synonymous with thermodynamics and relates to the study of interactions between large ensembles of particles. The form looks pretty familiar, still: 
 PV = NKBT. 
 (B.4) 
 Pressure, volume, and temperature are all unchanged, and expressed in the same units as before. Now, N describes the number of particles (quite large, usually), and kB is called the Boltzmann constant, having a value 
 J K 
-KB = 1.3806 × $10^{-23}$ 
+KB = 1.3806 × \\(10^{-23}\\) 
 (B.5) 
 Notice that N, the number of particles, and n, the number of moles, differs simply by a factor of Avogadro's number, NA = 6.022 x 1023. Indeed, if we multiply NA by kв, we get 8.314, and are back to R.22 
 

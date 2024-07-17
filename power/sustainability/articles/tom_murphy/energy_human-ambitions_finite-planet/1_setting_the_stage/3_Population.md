@@ -72,7 +72,7 @@ In more recent years, the rate has fallen somewhat from the 1.7% fit of the last
 
 $$P = P_0e^{ln(1+p)(t-t_0)}$$ (3.1) 
 
-where $P_0$ is the population at time \\(t_0\\), and P is the population at time t if the growth rate is steady at p. Inverting this equation[^3], we have 
+where \\(P_0\\) is the population at time \\(t_0\\), and P is the population at time t if the growth rate is steady at p. Inverting this equation[^3], we have 
 
 $$ t - t_0 = ln(P/P_0) /ln(1+p)$$ (3.2) 
 
@@ -144,14 +144,14 @@ If a forest has 100 breeding-aged deer, or 50 couples, we can expect 50 fawns in
 </details>
 
 
-If the setup in Example 3.2.1 were the only element to the story, we would find exponential growth: more offspring means a larger population, which ultimately reaches breeding age to produce an even larger population[^7]. But as the population grows, negative feedback will begin to play a role. We will denote the population as P, and its rate of change as $P'$[^8]. 
+If the setup in Example 3.2.1 were the only element to the story, we would find exponential growth: more offspring means a larger population, which ultimately reaches breeding age to produce an even larger population[^7]. But as the population grows, negative feedback will begin to play a role. We will denote the population as P, and its rate of change as \\(P'\\)[^8]. 
 
 
 [^7]: We have just described a state of positive feedback: more begets more.
 
 [^8]: P is a time derivative (note the dot on top), defined as P = dP/dt. But don't panic if calculus is not your thing: what we describe here is still totally understandable.
 
-We might say that the growth rate, or $P'$, is $P' = rP$, (3.3), where r represents the birth rate in proportion to the population (e.g., 0.04 if 4% of the population will give birth in a year).[^9] 
+We might say that the growth rate, or \\(P'\\), is \\(P' = rP\\), (3.3), where r represents the birth rate in proportion to the population (e.g., 0.04 if 4% of the population will give birth in a year).[^9] 
 
 [^9]: In terms of the growth rate we used before, p, as in Eq. 3.1, r = ln(1 + p). So for instance, if growing at 2%, p = 0.02 and r also is 0.02 (r≈ p for small values of p).
 
@@ -164,7 +164,7 @@ which is really just a repeat of Eq. 3.1, where r takes the place of ln(1+p).
   
 <details><summary>Example 3.2.2 (द्रष्टुं नोद्यम्)</summary>
 
-Paralleling the deer population scenario from Example 3.2.1, if we set r = 0.5, and have a population of P = 100 adult deer (half female), Eq. 3.3 says that $P'$ = 50, meaning the population will change by 50 units.[^10] 
+Paralleling the deer population scenario from Example 3.2.1, if we set r = 0.5, and have a population of P = 100 adult deer (half female), Eq. 3.3 says that \\(P'\\) = 50, meaning the population will change by 50 units.[^10] 
 
 We could then use Eq. 3.4 to determine the population after 4 years: P = 100e^{0.5 x 4}≈ 739. 
 
@@ -188,7 +188,7 @@ Q-P quantifies a growth-limiting mechanism by representing available room. One w
 
 $$P' = \dfrac{Q-P}{Q}rP$$ (3.5) 
 
-We have multiplied the original rate of rP by a term that changes the effective growth rate $r → r(Q-P)/Q$. When P is small relative to Q, the effective rate is essentially the original r. But the effective growth rate approaches zero as P approaches Q. In other words, growth slows down and hits zero when the population reaches its final saturation point, as PQ (see Figure 3.6). (Try it yourself: pick a value for Q (1,000, maybe) and then various values of P to see how the effective growth rate will be modified.)
+We have multiplied the original rate of rP by a term that changes the effective growth rate \\(r → r(Q-P)/Q\\). When P is small relative to Q, the effective rate is essentially the original r. But the effective growth rate approaches zero as P approaches Q. In other words, growth slows down and hits zero when the population reaches its final saturation point, as PQ (see Figure 3.6). (Try it yourself: pick a value for Q (1,000, maybe) and then various values of P to see how the effective growth rate will be modified.)
 
 {{< figure src="../images/linear-growth-rate-decrease.png" title="" class="thumbnail">}}
 
@@ -202,7 +202,7 @@ The mathematical solution to this modified differential equation (whose solution
 
 $$ P(t) = \dfrac{Q}{1+e^{-r(t-t_0)}}$$ (3.6)
 
-The first part of the curve in Figure 3.7, for very negative values[^11] of $t - t_0$, is exponential but still small. At t = $t_0$ (time of inflection), the population is $Q/2$. 
+The first part of the curve in Figure 3.7, for very negative values[^11] of \\(t - t_0\\), is exponential but still small. At t = \\(t_0\\) (time of inflection), the population is \\(Q/2\\). 
 
 
 [^11]: The parameter to is the time when the logistic curve hits its halfway point. Times before this have negative values of t - to.
@@ -210,7 +210,7 @@ The first part of the curve in Figure 3.7, for very negative values[^11] of $t -
 As time marches forward into positive territory, P approaches Q. As it does so, negative feedback mechanisms (limits to resource/food availability, predation, disease) become more assertive and suppress the rate of growth until it stops growing altogether when P reaches Q. 
 
 Example 3.2.3  
-Continuing the deer scenario, let's say the forest can ultimately support 840 adults,[^12] and keep r = 0.5 as the uninhibited growth rate. Using these numbers, Eq. 3.6 yields 100 adults at $t = t_0 -4$ years (effectively the initial state in Example 3.2.1). One year later, at $t = t_0 - 3$, Eq. 3.6 yields 153-very close to the nominal addition of 50 members. But now four years in (t = to), we have 420 instead of the 739 we got under unrestricted exponential growth in Example 3.2.2.13 [^13]
+Continuing the deer scenario, let's say the forest can ultimately support 840 adults,[^12] and keep r = 0.5 as the uninhibited growth rate. Using these numbers, Eq. 3.6 yields 100 adults at \\(t = t_0 -4\\) years (effectively the initial state in Example 3.2.1). One year later, at \\(t = t_0 - 3\\), Eq. 3.6 yields 153-very close to the nominal addition of 50 members. But now four years in (t = to), we have 420 instead of the 739 we got under unrestricted exponential growth in Example 3.2.2.13 [^13]
 
 
 [^12]: ... tuned for a convenient match to the numbers we have used in the foregoing examples

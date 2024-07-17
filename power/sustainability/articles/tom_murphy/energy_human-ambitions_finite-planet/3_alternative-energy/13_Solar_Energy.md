@@ -26,32 +26,32 @@ Light - a form of electromagnetic radiationis composed of photons— individual 
 Definition 13.1.1  
 The energy of a single photon, in various forms, is
 
-E=hν = hc/λ ≈ 2 × $10^{-19}$J/λ(in μm)  ≈ 1.24 eV/λ(in μm)  
+E=hν = hc/λ ≈ 2 × \\(10^{-19}\\)J/λ(in μm)  ≈ 1.24 eV/λ(in μm)  
 (13.1)
 
-where h = 6.626 × $10^{-34}$ J.s (Planck's constant), and v is the frequency of the light in Hertz (Hz, or inverse seconds).
+where h = 6.626 × \\(10^{-34}\\) J.s (Planck's constant), and v is the frequency of the light in Hertz (Hz, or inverse seconds).
 
-The second form (hc/λ) is useful, as we more commonly characterize the "color" of light by its wavelength, λ. The speed of light, c≈ 3 x $10^{8}$ m/s, connects frequency to wavelength via λν = c. (13.2)
+The second form (hc/λ) is useful, as we more commonly characterize the "color" of light by its wavelength, λ. The speed of light, c≈ 3 x \\(10^{8}\\) m/s, connects frequency to wavelength via λν = c. (13.2)
 
-The third form in Definition 13.1.1 makes it easy to compute photon energy in Joules given the wavelength in microns.[^2] Visible light has a wavelength around 0.4–0.7 μm (violet-to-red), so a typical photon energy, at 0.5 μm, is about 4 x $10^{-19}$ J. It's a tiny number!
+The third form in Definition 13.1.1 makes it easy to compute photon energy in Joules given the wavelength in microns.[^2] Visible light has a wavelength around 0.4–0.7 μm (violet-to-red), so a typical photon energy, at 0.5 μm, is about 4 x \\(10^{-19}\\) J. It's a tiny number!
 
-[^2]: One micron, or micro-meter, abbreviated μm, is $10^{-6}$ m.
+[^2]: One micron, or micro-meter, abbreviated μm, is \\(10^{-6}\\) m.
 
 <details><summary>Example 13.1.1</summary>
 
-About how many photons strike a 0.4 $m^2$ patch of sidewalk per second if the overhead sun is delivering 1,000 $W/m^2$?
+About how many photons strike a 0.4 \\(m^2\\) patch of sidewalk per second if the overhead sun is delivering 1,000 \\(W/m^2\\)?
 
-For the visible light characteristic of sunlight, we can use a convenient wavelength of 0.5 μm, amounting to 4 × $10^{-19}$ J of energy per photon. The patch of sidewalk we describe receives light energy at a rate of 400 W or 400 J/s.[^3] How many 4 x $10^{-19}$ J photons does it take to amount to 400 J? Divide[^4] to get $10^21$.
+For the visible light characteristic of sunlight, we can use a convenient wavelength of 0.5 μm, amounting to 4 × \\(10^{-19}\\) J of energy per photon. The patch of sidewalk we describe receives light energy at a rate of 400 W or 400 J/s.[^3] How many 4 x \\(10^{-19}\\) J photons does it take to amount to 400 J? Divide[^4] to get \\(10^21\\).
 
 
-[^3]: $0.4 m^2$ times 1,000 $W/m^2$
+[^3]: \\(0.4 m^2\\) times 1,000 \\(W/m^2\\)
 
-[^4]: ... or try reasoning it out: $10^19$ of them would make 4 J, so we need 100x more
+[^4]: ... or try reasoning it out: \\(10^19\\) of them would make 4 J, so we need 100x more
 </details>
 
 
 
-The final form in Definition 13.1.1 relates to the fact that photons frequently interact with electrons as we will see in Section 13.3, making it convenient to convert to another energy unit called the electron-volt, or eV (introduced in Sec. 5.9; p. 78). One electron volt is the energy it takes to move an electron through an electric potential of one Volt. The conversion is 1 eV = 1.602 × $10^{-19}$ J. For instance, the 0.5 μm (blue-green) photon we used in the previous example would have an energy around 2.5 eV.
+The final form in Definition 13.1.1 relates to the fact that photons frequently interact with electrons as we will see in Section 13.3, making it convenient to convert to another energy unit called the electron-volt, or eV (introduced in Sec. 5.9; p. 78). One electron volt is the energy it takes to move an electron through an electric potential of one Volt. The conversion is 1 eV = 1.602 × \\(10^{-19}\\) J. For instance, the 0.5 μm (blue-green) photon we used in the previous example would have an energy around 2.5 eV.
 
 Why should we care about unthinkably small quantities of light? Three reasons come to mind:
 
@@ -72,20 +72,20 @@ We should first understand where photons originate, which will help us understan
 
 Physics tells us how such hot sources radiate, as covered by the next three equations. The first (with units) is:
 
-$P = AσT^4$ (W). (13.3)
+\\(P = AσT^4\\) (W). (13.3)
 
 We already saw this equation in the context of Earth's energy balance in Sections 1.3 and 9.2. It is called the Stefan-Boltzmann law, describing the total power (in W, or J/s) emitted from a surface whose area is A (in square meters) and temperature, T in Kelvin.[^8]  
 
 [^8]: Recall that temperature in Kelvin is the temperature in Celsius plus 273 (273.15, technically).
 
-The constant, $σ≈ 5.67 × 10^{-8} W/m^2/K^4$ is called the Stefan-Boltzmann constant, and is easy to remember as 5-6-7-8.[^9]
+The constant, \\(σ≈ 5.67 × 10^{-8} W/m^2/K^4\\) is called the Stefan-Boltzmann constant, and is easy to remember as 5-6-7-8.[^9]
 
 
-[^9]: The Stefan-Boltzmann constant is actually a witch's brew of more fundamental constants h (Planck's constant), c (speed of light), and $k_B$ (the Boltzmann constant) as $σ =2π^5k_B^4/(15c^2h^3)$.
+[^9]: The Stefan-Boltzmann constant is actually a witch's brew of more fundamental constants h (Planck's constant), c (speed of light), and \\(k_B\\) (the Boltzmann constant) as \\(σ =2π^5k_B^4/(15c^2h^3)\\).
 
 
 
-$$B_{λ} = \dfrac{2πhс^2}{λ^5(e{hc/λk_BT} - 1)} $W/m^2$/m$$
+$$B_{λ} = \dfrac{2πhс^2}{λ^5(e{hc/λk_BT} - 1)} \\(W/m^2\\)/m$$
 
 (13.4)
 
@@ -95,12 +95,12 @@ Eq. 13.4 might look formidable, but only λ and T are variable. It describes the
 
 
 
-For some temperature, T, this function specifies how much power is emitted at each wavelength, λ. Three fundamental physical constants from key areas of physics make an appearance: c≈ 3 x $10^{8}$ m/s is the familiar speed of light from relativity; h≈ 6.626 x $10^{-34}$ J. s is Planck's constant from quantum mechanics, and kB≈ 1.38 x $10^{-33}$ J. K is the Boltzmann constant of thermodynamics.[^11]
+For some temperature, T, this function specifies how much power is emitted at each wavelength, λ. Three fundamental physical constants from key areas of physics make an appearance: c≈ 3 x \\(10^{8}\\) m/s is the familiar speed of light from relativity; h≈ 6.626 x \\(10^{-34}\\) J. s is Planck's constant from quantum mechanics, and kB≈ 1.38 x \\(10^{-33}\\) J. K is the Boltzmann constant of thermodynamics.[^11]
 
-[^11]: This last one may be more familiar to students in its chemistry form of the gas constant $R = k_B N_A $ ≈ 8.31J/K/mol, where $N_A≈ 6.022 × 10^23$ is Avogadro's number.
+[^11]: This last one may be more familiar to students in its chemistry form of the gas constant \\(R = k_B N_A \\) ≈ 8.31J/K/mol, where \\(N_A≈ 6.022 × 10^23\\) is Avogadro's number.
 
 
-$λ_max≈ 2.898 × 10^{-3}/T(in K)$ (m). 
+\\(λ_max≈ 2.898 × 10^{-3}/T(in K)\\) (m). 
 
 (13.5)
 
@@ -112,16 +112,16 @@ All this may seem overwhelming, but take a breath, then just look at Figure 13.1
 
 {{< figure src="../images/plank-blackbody-spectra.png" title="" class="thumbnail">}}
 
-Figure 13.1: Planck spectra, or blackbody spectra for three temperatures, indicating where the ultraviolet, visible, and infrared regions lie. The shapes of the three curves (spectra) are described by Eq. 13.4, the star locations are found by Eq. 13.5, and the total power radiated, per square meter of surface is the area under each curve, as captured in Eq. 13.3. The dotted line relates to Example 13.2.2. Note the 1e8 factor on the vertical axis, meaning that the axis goes from 0 to $1.0 x 10^8 W/m^2/μm$.
+Figure 13.1: Planck spectra, or blackbody spectra for three temperatures, indicating where the ultraviolet, visible, and infrared regions lie. The shapes of the three curves (spectra) are described by Eq. 13.4, the star locations are found by Eq. 13.5, and the total power radiated, per square meter of surface is the area under each curve, as captured in Eq. 13.3. The dotted line relates to Example 13.2.2. Note the 1e8 factor on the vertical axis, meaning that the axis goes from 0 to \\(1.0 x 10^8 W/m^2/μm\\).
 
 The shape of each spectrum is a plot of the function in Eq. 13.4 for three different temperatures. If comparing output of Eq. 13.4 to Figure 13.1, be aware that the units have been manipulated to favor microns over meters.[^12]
 
-[^12]: Eq. 13.4 uses units of meters for A, but Figure 13.1 uses microns (μm, or $10^{-6}$ m) for convenience. Also, Eq. 13.4 delivers an answer in units of $W/m^2$ per meter of wavelength, but for the plot we divided by $10^6$ so it would be $W/m^2$ per micron of wavelength. By taking care of this detail, the area under each curve in Figure 13.1 should match σT4 as in Eq. 13.3.
+[^12]: Eq. 13.4 uses units of meters for A, but Figure 13.1 uses microns (μm, or \\(10^{-6}\\) m) for convenience. Also, Eq. 13.4 delivers an answer in units of \\(W/m^2\\) per meter of wavelength, but for the plot we divided by \\(10^6\\) so it would be \\(W/m^2\\) per micron of wavelength. By taking care of this detail, the area under each curve in Figure 13.1 should match σT4 as in Eq. 13.3.
 
 Let's come at this again with numbers to help us make sense of things. Looking at the curve (spectrum) for 6,000 K, we will verify that each equation makes some sense.
 
 Example 13.2.1  
-First, Eq. 13.5 says that the wavelength where emission peaks should be about $2.898×10^{−3}/6000 ≈ 0.483×10^{−6} m$, or 0.483 μm.
+First, Eq. 13.5 says that the wavelength where emission peaks should be about \\(2.898×10^{−3}/6000 ≈ 0.483×10^{−6} m\\), or 0.483 μm.
 
 Now look at the graph to see that the peak of the blue curve is indeed just short of 0.5 μm, denoted by the red star at the top.
 
@@ -130,7 +130,7 @@ Now look at the graph to see that the peak of the blue curve is indeed just shor
 
 Let's now verify a point on the Planck spectrum, picking 6,000 K and 1 μm to see if Eq. 13.4 lands in the same spot as indicated in Figure 13.1.
 
-If we go through the laborious exercise of plugging in numbers to Eq. 13.4 for T = 6000 and A = 1 × $10^{-6}$ (1 μm), we find[^13] the overall outcome is $3.73 × 10^13 W/m^2$ per meter of wavelength. Once we adjust by $10^{-6}$ for the units on the plot (see earlier margin note), we expect $0.373 x 10^8 W/m^2$ per micron.
+If we go through the laborious exercise of plugging in numbers to Eq. 13.4 for T = 6000 and A = 1 × \\(10^{-6}\\) (1 μm), we find[^13] the overall outcome is \\(3.73 × 10^13 W/m^2\\) per meter of wavelength. Once we adjust by \\(10^{-6}\\) for the units on the plot (see earlier margin note), we expect $0.373 x 10^8 W/m^2$ per micron.
 
 [^13]: Numerically, the numerator is 3.74 x $10^{-16}$, the denominator is $10^{-30}$, and the argument in the exponential is 2.4, so that the second fraction is 0.1.
 

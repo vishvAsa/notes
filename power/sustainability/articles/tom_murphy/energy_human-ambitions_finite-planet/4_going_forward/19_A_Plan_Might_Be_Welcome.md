@@ -44,7 +44,7 @@ A similarly simple calculation applies to minerals. Ignoring the material in the
 
 [^9]:...just 0.4% of Earth's volume
 
-[^10]: For instance, gold is about $60,000 per kilogram, and according to crustal abundances in Table 15.9 (p. 258), gold is 4 parts per billion of the crust by mass. The crust in question has a volume of 4.4 x $(10^{18}$) m3 and a mass around 1.3 x $10^{22}$ kg. The expected mass of gold is then about 5 $10^{13}$ kg, and would cost $3 x 1018. Notice that the total values are amazingly close for these metals: rarer is more expensive in inverse proportion and thus in rough balance.
+[^10]: For instance, gold is about $60,000 per kilogram, and according to crustal abundances in Table 15.9 (p. 258), gold is 4 parts per billion of the crust by mass. The crust in question has a volume of \\(4.4 x 10^{18} m^3\\) and a mass around 1.3 x \\(10^{22}\\) kg. The expected mass of gold is then about 5 $10^{13}$ kg, and would cost \\(3 x 10^18\\). Notice that the total values are amazingly close for these metals: rarer is more expensive in inverse proportion and thus in rough balance.
 
 
 

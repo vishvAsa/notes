@@ -467,7 +467,7 @@ is a mega-electron-volt, or \\(10^{6}\\) eV. In Joules, it is equivalent to 1.6 
 concerns itself with the production of goods, including raw resources, marketing, and distribution. 323, 324, 433
 
 ## micron
-(um) is $10^{-6}$ meters, or a micro-meter. 198, 200, 438 
+(um) is \\(10^{-6}\\) meters, or a micro-meter. 198, 200, 438 
 
 ## moderator
 in the context of nuclear fission is a material used to slow down neutrons speeding out from the break-up so that they can become thermal neutrons and stimulate subsequent fission events in a chain reaction. Light atoms like water are a good choice for absorbing the neutron impacts. 251, 255, 256, 423
@@ -476,7 +476,7 @@ in the context of nuclear fission is a material used to slow down neutrons speed
 is the mass of one mole of an element or compound. The molar mass for carbon, for instance, is 12 grams. The number is often found on a Periodic Table, in addition to the proton number for the element. 121, 138, 241, 379, 380
 
 ## mole
-is a number of atoms or molecules, tuned so that one mole of the carbon-12 isotope is exactly 12.000 grams. It takes 6.022 × $10^{23}$ atoms for this to happen, which is called Avogadro's number. 78, 83, 375, 376, 378, 422, 432
+is a number of atoms or molecules, tuned so that one mole of the carbon-12 isotope is exactly 12.000 grams. It takes 6.022 × \\(10^{23}\\) atoms for this to happen, which is called Avogadro's number. 78, 83, 375, 376, 378, 422, 432
 
 ## negative feedback
 involves a reaction to some stimulus in the direction opposite the stimulus, performing a corrective action and leading to stability. Systems in equilibrium must have negative feedback keeping them there. 33, 123, 147, 428, 433
@@ -502,7 +502,7 @@ derives from reconfiguring the nuclei of atoms, releasing tremendous thermal ene
 is either of the two building blocks of a nucleus, meaning that it is either a proton or a neutron. 240, 247, 248, 251, 376, 432, 433, 437
 
 ## nucleus
-is at the center of an atom, composed of protons and neutrons and spanning~ $10^{-15}$ m. The vast majority (99.97%) of an atom's mass is in the positively charged nucleus, which attracts a cloud of negative-charge electrons to complete the neutral atom. 239, 375, 376, 422, 423, 425-429, 431-433, 435, 437
+is at the center of an atom, composed of protons and neutrons and spanning~ \\(10^{-15}\\) m. The vast majority (99.97%) of an atom's mass is in the positively charged nucleus, which attracts a cloud of negative-charge electrons to complete the neutral atom. 239, 375, 376, 422, 423, 425-429, 431-433, 435, 437
 
 ## nuclide
 is any bound arrangement of protons and neutrons. Every nucleus of every isotope is one of the possible nuclides, designated, for instance as C12, C-12, or 12C. 240, 242, 243, 424, 428, 431, 435
@@ -535,7 +535,7 @@ is the process by which living matter captures sunlight and stores some of it as
 describes a mathematically precise spectrum of light emission from a blackbody, fully defined by the temperature of the blackbody. 145, 199-201, 423, 436, 438
 
 ## Planck's constant
-is a fundamental constant of nature associated with quantum mechanics and the world of the very small. In SI units, its value is h = 6.626 x $10^{-34}$ J. s. 79, 198, 199
+is a fundamental constant of nature associated with quantum mechanics and the world of the very small. In SI units, its value is h = 6.626 x \\(10^{-34}\\) J. s. 79, 198, 199
 
 ## plasma
 is a gas hot enough to strip electrons from atoms to create a highly-ionized medium, such as the gas comprising the sun. 265, 267, 268, 392, 393, 395, 425, 437
@@ -568,7 +568,7 @@ pertains to the amount of resource known to exist, having been discovered and su
 photovoltaic. 165, 197, 201, 205, 217, 220, 221, 267, 269, 281, 292, 293, 434
 
 ## qBtu
-is short for a quadrillion (1015) British thermal units, and is equivalent to 1.055 x $10^{18}$ Joules. 28, 75, 103-105, 170, 214, 229, 230, 234, 236, 277
+is short for a quadrillion (1015) British thermal units, and is equivalent to 1.055 x \\(10^{18}\\) Joules. 28, 75, 103-105, 170, 214, 229, 230, 234, 236, 277
 
 ## R/P ratio
 or reserves-to-production ratio is a means to assess time remaining for a resource of quantity R units, being used (produced) at a rate of P units per year. The result is years available at the present rate, absent discovery of additional resources or change in rate of use. 126, 129, 131, 133, 136, 267
@@ -577,7 +577,7 @@ or reserves-to-production ratio is a means to assess time remaining for a resour
 is a broad term that can can describe light (e.g., electromagnetic radiation, infrared radiation, gamma rays) or particles from radioactive decay or cosmic origin. High-energy radiation of any form can cause damage to materials and biological tissues (DNA being perhaps most critical). 263
 
 ## radiative forcing
-is used to describe the areal power (in $W/m^2$) of absorbed solar energy and infrared radiation to space. In equilibrium, a balance exists so that the net radiative forcing is zero. 146, 147, 151–153, 155, 160, 424
+is used to describe the areal power (in \\(W/m^2\\)) of absorbed solar energy and infrared radiation to space. In equilibrium, a balance exists so that the net radiative forcing is zero. 146, 147, 151–153, 155, 160, 424
 
 ## radioactive
 describes a nucleus, or nuclide that is unstable and will undergo radioactive decay with some half life. 241, 257, 260, 261, 263, 268, 276, 296, 297, 299, 429

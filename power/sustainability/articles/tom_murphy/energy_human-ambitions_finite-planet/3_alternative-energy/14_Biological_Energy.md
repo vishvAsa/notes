@@ -65,7 +65,7 @@ Box 14.2 provides an example of how one might estimate what fraction of incident
 
 <details><summary>Box 14.2: Example Photosynthetic Efficiency</summary>
 
-Let us consider a potato plant (Figure 14.2) as an example by which to estimate photosynthetic efficiency. The potato plant might have a leafy footprint of 0.5 $m^2$ -a square roughly 0.7 m on a side or a circle about 0.8 m in diameter and produce four 0.5 kg potatoes, or 2 kg of starchy material. Carbohydrates have an energy density of 4 kcal/g, so the potato plant has stored 8,000 kcal, or about 32 MJ.[^3]
+Let us consider a potato plant (Figure 14.2) as an example by which to estimate photosynthetic efficiency. The potato plant might have a leafy footprint of 0.5 \\(m^2\\) -a square roughly 0.7 m on a side or a circle about 0.8 m in diameter and produce four 0.5 kg potatoes, or 2 kg of starchy material. Carbohydrates have an energy density of 4 kcal/g, so the potato plant has stored 8,000 kcal, or about 32 MJ.[^3]
 
 [^3]: Recall 4,184 J per kcal.
 

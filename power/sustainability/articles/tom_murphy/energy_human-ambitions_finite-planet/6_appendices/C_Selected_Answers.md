@@ -114,7 +114,7 @@ two
 33. Nearly 10 kW; will cost over $1,000; don't do this! 
 34. Will last 2-3 hours 
 35. In line with most chemical reactions, in the 50-200 kJ/mol range 
-36. Between 3-5x$10^{-19}$ J per photon; get more than 1018/sec 
+36. Between 3-5x\\(10^{-19}\\) J per photon; get more than 1018/sec 
 37. In the neighborhood of 1 μm or 1 eV 
 Chapter 6 
 1. Approx. 200 kJ, depending on mass 
@@ -167,7 +167,7 @@ Chapter 7
 16. A few dozen times more volume, and about 102 in mass 
 17. > 1,000x more expensive 
 18. Will cost nearly $1,000 
-19. Between $10^{-15}$% 
+19. Between \\(10^{-15}\\)% 
 23. Approximately half-century 
 24. Roughly a third 
 25. If the rate of production increases... 
@@ -191,7 +191,7 @@ C Selected Answers
 Chapter 9 
 1. A single integer works okay for all three 
 2. Nearly 100 kg 
-3. Between $10^{-15}$ kg 
+3. Between \\(10^{-15}\\) kg 
 4. Approaching 1 GJ, and human-mass scale 
 5. Total is like small adult or large child 
 6. More than a factor of two 
@@ -232,12 +232,12 @@ Chapter 10
 3. What would unlimited mean? 
 4. Table 10.2 has some help 
 5. Can't rely on any sun-driven energy 
-6. Between 200-250 $W/m^2$ 
+6. Between 200-250 \\(W/m^2\\) 
 7. Photosynthesis supports essentially all life 
 8. Comparing numbers in TW 
 9. More than half 
 10. A little less than 1% 
-11. Not far from 1,000 $W/m^2$ 
+11. Not far from 1,000 \\(W/m^2\\) 
 12. Nearly 10 degrees 
 13. Look for crazy-big input 
 14. Between 0.5-1 gallon 
@@ -272,7 +272,7 @@ ergy
 15. Between 5-10 m/s 
 16. In the ballpark of 70 kW 
 17. Recover 0.65% 
-18. Unpack $W/m^2$ to confirm kg/s3 
+18. Unpack \\(W/m^2\\) to confirm kg/s3 
 19. Outer box area corresponds to running at 100%, full time 
 20. Definitely less than 50% 
 21. Looks like a factor of 8 
@@ -294,8 +294,8 @@ C Selected Answers
 389 
 Chapter 13 
 1. How big are the packages? 
-2. Something times $10^{21}$ 
-3. Roughly $10^{16}$ 
+2. Something times \\(10^{21}\\) 
+3. Roughly \\(10^{16}\\) 
 4. About 1,000 
 5. About 4,000 times 
 6. Use Eq. 13.3 to guide your reasoning 
@@ -313,13 +313,13 @@ Chapter 13
 18. Already extremely similar 
 19. Think of current as a rate of electron flow 
 in the circuit 
-20. Get very close to 1,360 $W/m^2$ 
+20. Get very close to 1,360 \\(W/m^2\\) 
 21. Sweltering is not preferred 
-22. Between 5-6 kWh/m2/day; between 200250 $W/m^2$ 
+22. Between 5-6 kWh/m2/day; between 200250 \\(W/m^2\\) 
 23. Involves interpreting kWh/m2/day as full- 
 sun-hours 
-24. Not far from 200 $W/m^2$ 
-25. Range straddles 200 $W/m^2$, varying about 10% 
+24. Not far from 200 \\(W/m^2\\) 
+25. Range straddles 200 \\(W/m^2\\), varying about 10% 
 26. Best at latitude; almost 15% better than 
 flat 
 27. Approaches 6 kWh/m2/day 

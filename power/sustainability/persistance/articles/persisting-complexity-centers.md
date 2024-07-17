@@ -53,7 +53,7 @@ that characterises the modern era represents an anomalous situation when it is c
 Several large revolutions in terms of population (total size and rate of change), social organisation and patterns of energy and other resource use  
 have occurred to bring about the modern world.  
 The first major change that humans achieved  
-after a long period (approximately $(3 × 10^5$) years) of living in small, dispersed bands of hunter-gatherers  
+after a long period (approximately \\((3 × 10^5\\)) years) of living in small, dispersed bands of hunter-gatherers  
 was the transition to an agriculture-based civilisation,  
 which occurred independently in multiple locations.  
 This was enabled to a large degree by the shift  
@@ -466,8 +466,8 @@ The authors declare no conflict of interest.
 
 | Country | Carrying Capacity Analysis  <br>(Approximate, Rounded Agricultural Land/Capita) |
 | --- | --- |
-| Norway | 5.5 million total population [^71]  <br>365,$268 km^2$ total land area [^100]  <br>0.27% agricultural land [^72]  <br>**$0.002 km^2$ agricultural land/capita** |
-| New Zealand | 5.0 million total population [^71]  <br>263,$310 km^2$ total land area [^100]  <br>43.2% agricultural land [^72]  <br>**$0.023 km^2$ agricultural land/capita** |
+| Norway | 5.5 million total population [^71]  <br>365,\\(268 km^2\\) total land area [^100]  <br>0.27% agricultural land [^72]  <br>**\\(0.002 km^2\\) agricultural land/capita** |
+| New Zealand | 5.0 million total population [^71]  <br>263,\\(310 km^2\\) total land area [^100]  <br>43.2% agricultural land [^72]  <br>**\\(0.023 km^2\\) agricultural land/capita** |
 | Finland | 5.6 million total population [^71]  <br>303,$890 km^2$ total land area [^100]  <br>7.5% agricultural land [^72]  <br>**$0.004 km^2$ agricultural land/capita** |
 | Denmark | 5.9 million total population [^71]  <br>42,$430 km^2$ total land area [^100]  <br>63.4% agricultural land [^72]  <br>**$0.005 km^2$ agricultural land/capita** |
 | Sweden | 10.3 million total population [^71]  <br>410,$340 km^2$ total land area [^100]  <br>7.5% agricultural land [^72]  <br>**$0.003 km^2$ agricultural land/capita** |

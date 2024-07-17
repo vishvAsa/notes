@@ -10,7 +10,7 @@ Most of the energy forms discussed thus far derive from sunlight— either conte
 
 While only fission has been successfully implemented as a source of societal energy, both types essentially boil down to the same thing: a source of heat to make steam and drive a heat engine. How and why nuclear material generates heat will be a primary focus of this chapter. Many practical concerns surround nuclear power, such as safety, weapons, waste, and proliferation of dangerous material. Self-pride for the impressive accomplishment of mastering nature well enough to implement nuclear power may not adequately justify continued reliance upon it-even if it is not a direct emitter of CO2.
 
-Understanding nuclear energy requires a longer journey than was needed for hydroelectricity, wind, and solar photovoltaics. We first learn about the nucleus and its many configurations, how nuclei transform from one to another through radioactive decay, the role $E = mc^2$ plays, and finally dig into the workings of fission and fusion.
+Understanding nuclear energy requires a longer journey than was needed for hydroelectricity, wind, and solar photovoltaics. We first learn about the nucleus and its many configurations, how nuclei transform from one to another through radioactive decay, the role \\(E = mc^2\\) plays, and finally dig into the workings of fission and fusion.
 
 ## 15.1 The Nucleus
 First, what is a nucleus? Every (neutral) atom consists of a positivelycharged nucleus surrounded by a cloud of negative electrons (Figure 15.1).
@@ -78,7 +78,7 @@ Stable nuclei are indicated by black boxes at some particular integer value of N
 <div class="js_include" url="..images/neuclide-chart_low-end.png"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-(Figure 15.4: Chart of the Nuclides for the low-mass end. Neutron number, N, increases toward the right (green numbering at bottom) and proton number, Z, increases vertically (blue numbering at left). Scientific notation is expressed as, e.g., 8e-23, meaning $8 x 10^{-23}$. A wealth of information is included: spend some time studying the surrounding guides to learn what data each box contains.)
+(Figure 15.4: Chart of the Nuclides for the low-mass end. Neutron number, N, increases toward the right (green numbering at bottom) and proton number, Z, increases vertically (blue numbering at left). Scientific notation is expressed as, e.g., 8e-23, meaning \\(8 x 10^{-23}\\). A wealth of information is included: spend some time studying the surrounding guides to learn what data each box contains.)
 
 Figure 15.4 shows the lower-left corner of the chart in much greater detail[^5]. For each element (horizontal row), properties of all known isotopes are listed-even those that are radioactive and do not persist for even a small fraction of a second before decaying. Stable isotopes are denoted by gray boxes. The mass of each, in atomic mass units (a.m.u.)— defined so that the neutral 12C atom is exactly 12.0000 a.m.u.—is given, and the natural abundance as found on Earth, in percent. The Chart of the Nuclides lets us peak inside the periodic table in great detail, as Example 15.1.2 suggests.
 
@@ -190,7 +190,7 @@ Decay Z→ N→ A→
 
 Example 15.2.2 What will the fate of He be, according to Figure 15.4?
 
-We can play this chess game! According to the chart, the primarγ decay mechanism of He8 is β with a half-life of about a tenth of a second. It will become Li, which hangs around for about a second before undergoing another βdecay to Be. This one lasts almost no time at all (~ $10^{-16}$ s) before a decay into two alpha particles (two *He). Such a sequence is called a **decay chain**+++(5)+++.
+We can play this chess game! According to the chart, the primarγ decay mechanism of He8 is β with a half-life of about a tenth of a second. It will become Li, which hangs around for about a second before undergoing another βdecay to Be. This one lasts almost no time at all (~ \\(10^{-16}\\) s) before a decay into two alpha particles (two *He). Such a sequence is called a **decay chain**+++(5)+++.
 </details>
 
 {{< figure src="../images/nuclide-decay-chart.png" title="" class="thumbnail">}}
@@ -211,30 +211,30 @@ An aside worth making is that having discussed beta decays, governed by the weak
 
 [[246]]
 ## 15.3 Mass Energy
-Energy-whatever the form has mass and actually changes the weight of something, although almost imperceptibly. A hot burrito has more mass than the exact same burrito-atom for atom-when it's cold.[^12]+++(5)+++ Most of us are familiar, at least casually, with the famous relation $E = mc^2$. More helpfully, we might express it as
+Energy-whatever the form has mass and actually changes the weight of something, although almost imperceptibly. A hot burrito has more mass than the exact same burrito-atom for atom-when it's cold.[^12]+++(5)+++ Most of us are familiar, at least casually, with the famous relation \\(E = mc^2\\). More helpfully, we might express it as
 
 $$ ΔE = Δmc^2, (15.1)$$ 
 
-where the Δ symbols indicate a change in energy or mass, and $c≈ 3 x 10^8$ m/s is the speed of light. 
+where the Δ symbols indicate a change in energy or mass, and \\(c≈ 3 x 10^8\\) m/s is the speed of light. 
 
 [^12]: The burrito is also ever-so-slightly more massive if it has kinetic energy, gravitational potential energy, or any form of energy. A battery is more massive when charged, even if no atoms or electrons are added. Incidentally, charging a battery does not mean literally adding electrical charges (adding particles), but amounts to rearranging electrons among the atoms within the battery.
 
 
-Using kilograms for mass results in Joules for energy. Because $c^2$ is such a large number (nearly $10^17$), the mass change associated with daily/familiar energy quantities is negligibly small. Box 15.2 explains why $E = mc^2$ is valid for all energy exchanges not just nuclear ones but generally results in mass changes too small to measure in non-nuclear contexts. 
+Using kilograms for mass results in Joules for energy. Because \\(c^2\\) is such a large number (nearly \\(10^17\\)), the mass change associated with daily/familiar energy quantities is negligibly small. Box 15.2 explains why \\(E = mc^2\\) is valid for all energy exchanges not just nuclear ones but generally results in mass changes too small to measure in non-nuclear contexts. 
 
 
-<details><summary>Box 15.2: $E = mc^2$ Everywhere</summary>
+<details><summary>Box 15.2: \\(E = mc^2\\) Everywhere</summary>
 
-Physics is not selective about when we might apply $E = mc^2$. It always applies, to every situation. It's just that outside of nuclear reactions it does not result in significant mass differences.
+Physics is not selective about when we might apply \\(E = mc^2\\). It always applies, to every situation. It's just that outside of nuclear reactions it does not result in significant mass differences.
 
-For example, after we eat a 1,000 kcal burrito to fuel our metabolism, we expend the energy[^13] and lose mass according to $Δm = ΔE/c^2$. Since ΔE ~ 4 MJ (1,000 kcal), we find the associated mass change is $4.6 × 10^{-11}$ kg, which is ten orders-of-magnitude smaller than the mass of the burrito itself.[^14] So we'd never notice, even though it's really there.
+For example, after we eat a 1,000 kcal burrito to fuel our metabolism, we expend the energy[^13] and lose mass according to \\(Δm = ΔE/c^2\\). Since ΔE ~ 4 MJ (1,000 kcal), we find the associated mass change is \\(4.6 × 10^{-11}\\) kg, which is ten orders-of-magnitude smaller than the mass of the burrito itself.[^14] So we'd never notice, even though it's really there.
 
 [^13]: ... ultimately given off as thermal energy to our environment
 
 [^14]: This amount of mass corresponds to that of a tiny length of hair that is shorter than it is wide.
 
 
-When we wind up a mechanized toy, coiling a spring, we put energy into the spring and the toy actually gets more massive! But for every Joule we put in, the mass only increases by about $10^{-17}$ kg. Forgive us for not noticing. Only in nuclear contexts are the energies large enough to produce a measurable difference in mass.
+When we wind up a mechanized toy, coiling a spring, we put energy into the spring and the toy actually gets more massive! But for every Joule we put in, the mass only increases by about \\(10^{-17}\\) kg. Forgive us for not noticing. Only in nuclear contexts are the energies large enough to produce a measurable difference in mass.
 </details>
 
 

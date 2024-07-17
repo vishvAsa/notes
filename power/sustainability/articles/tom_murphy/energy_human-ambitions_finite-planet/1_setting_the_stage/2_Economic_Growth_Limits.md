@@ -358,12 +358,12 @@ So, while acknowledging that growth in the past has brought uncountable benefits
 
 2. As an indication of how sensitive the accumulation is to interest rate, compare the result from Problem 1 to what would happen for interest rates of 4% and 5%-again putting into context. 
 
-3. Find the energy intensity for at least four countries spanning a range of development levels. For each country, look up the GDP, and find energy consumption at: Wikipedia page on Primary Energy Consumption. [^r13] In order to compare to Figure 2.2, multiply the number in quadrillion Btu (qBtu) by 1.055 × $10^{18}$ J/qBtu. Also note that a trillion is 1012. 
+3. Find the energy intensity for at least four countries spanning a range of development levels. For each country, look up the GDP, and find energy consumption at: Wikipedia page on Primary Energy Consumption. [^r13] In order to compare to Figure 2.2, multiply the number in quadrillion Btu (qBtu) by 1.055 × \\(10^{18}\\) J/qBtu. Also note that a trillion is 1012. 
 
 [^r13]: List of Countries by Total Primary Energy Consumption and Production. Wikipedia. Sources: various, cited from Wikipedia page. URL: https://en.wikipedia.org/wiki/List_of_countries_ by_total_primary_energy consumption_and_production (cited on page 28).
 
 
-4. Estimate the energy intensity of the UCSD campus, based on an annual electricity expenditure around $10^{15}$ J.26 For the financial side, assume that student payments (tuition, fees, room and board) accounts for 40% of the total budget.[^27] Use your knowledge of typical tuition/fees and enrollment to come up with a number. Compare your result to global figures for energy intensity. 
+4. Estimate the energy intensity of the UCSD campus, based on an annual electricity expenditure around \\(10^{15}\\) J.26 For the financial side, assume that student payments (tuition, fees, room and board) accounts for 40% of the total budget.[^27] Use your knowledge of typical tuition/fees and enrollment to come up with a number. Compare your result to global figures for energy intensity. 
 
 5. Typical energy costs are in the neighborhood of $0.10 per kilowatthour (kWh), and 1 kWh is 3.6 MJ (megajoules). Take the ratio of these two figures to form an economic energy intensity of energy itself, in units of MJ/$. 
 
