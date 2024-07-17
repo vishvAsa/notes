@@ -6,7 +6,7 @@ publishDir = "build_github"
 disablePathToLower = true
 
 [params]
-  githubEditMePathBase = "https://github.com/vishvAsa/notes/edit/hugo-source/content/"
+  githubEditMePathBase = "https://github.com/vishvAsa/notes/edit/content/"
   contactLink = "https://github.com/vishvAsa/notes/issues/new"
   build_img = "https://github.com/vishvAsa/notes/actions/workflows/build.yml/badge.svg"
   build_url = "https://github.com/vishvAsa/notes/actions/workflows/build.yml"
