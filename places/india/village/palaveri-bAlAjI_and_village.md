@@ -83,8 +83,10 @@ The pariah-s lived outside the village, with similar facilities. They ate beef t
 Bathing was done in a large rain fed lake (spanning many acres).  
 Animals used to drink there; v1s used to do Achamana there, v4s used to even drink there.  
 The same lake was used for post-defecation cleaning.  
-There were separate spots for women, mensturating women, v1s.  
-Bathers (esp. women) carried a third set of clothes to place high, to signal that the bathing spot was in use.
+There were separate spots for women, post 3-night mensturating women, v1s.  
+Bathers (esp. women) carried a third set of clothes to place high, to signal that the bathing spot was in use.  
+This system was in use without need for any policing.  
+Clothes were washed at the lake.
 
 Open defecation was practiced without any trouble regarding finding a spot etc..  
 One could defecate in most open/ shrubbed spaces (even tree gardens owned by others) - but not in rice fields.  
@@ -96,10 +98,19 @@ Beside it was a stone vessel (where the woman of the house filled water daily) t
 Then there was a separate spot for washing feet and hands, with a separate, similarly filled, stone vessel.  
 Finally, Achamana was done near the tank.
 
+Mensturating women slept by the backyard, or in the wood storage room in case of rain. 
 
 ## Health
 Very overweight people were almost non-existent, though quite a few were plump.  
+There was no known parasitic infestation - despite the shared water.  
+Almost no one needed to visit a doctor.  
+No dengue or malaria - despite presence of mosquitoes.  
+Only one person (a sheTTi) in the neighboring 10 villages had Filaria.  
+People slept well despite biting mosquitoes - they were used to it.  
 
+All births happened at home - and quite quickly too, with the assistance neighborhood old ladies.  
+Rarely, women died during birth.  
+Infant mortality was rare.
 
 ## Economy
 Farming practice is described [separately](/notes/skills/plant-growing/farms/palaveri-farms/).
