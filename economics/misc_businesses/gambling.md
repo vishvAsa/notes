@@ -22,7 +22,7 @@ The probabilistic odds is \\(\\frac{Pr(E)}{Pr(\\lnot E)}\\). But Pr(E) is not kn
 ### Multiple outcomes
 
 Suppose that there is a universal set of _k_ mutually exclusive outcomes:  
-{@#E_1..E_k#@}. Then, _k_ entities can enter into a betting contract, according to which side _i_ gets _x__i_ if _E__i_ happens and looses _y__i_ if it does not. So, from side _i_’s perspective, it is a binary bet on event _E__i_; for which calculations of viability and odds are explained elsewhere.
+{@#E_1..E_k#@}. Then, _k_ entities can enter into a betting contract, according to which side _i_ gets \(x_i\) if \(E_i\) happens and looses \(y_i\) if it does not. So, from side _i_’s perspective, it is a binary bet on event \(E_i\); for which calculations of viability and odds are explained elsewhere.
 
 ### Betting pool contracts
 
@@ -45,7 +45,7 @@ Quoting fixed betting odds for each outcome, the book-keeper admits peoples’ b
 ##### Anticipation of bet-placements
 
 ∀_i_ the fraction of  
-bet-liabilities \\(b_i\\) promised for a given outcome _E__i_ is such that \\(b_i\\) = 1 - ∑j ≠ _i__b__j_ holds. If while deciding on the fixed odds, the book-keeper has perfectly anticipated {\\(b_i\\)} and quoted odds correspondingly, the book-keeper does not loose any money irrespective of the outcome. In other words, the winning parties’ earnings at settlement time are matched exactly by others’ losses. The book-keeper does not stand to loose money: infact, promising slightly lower earnings than 1 - ∑j ≠ _i__b__j_, the book-keeper can extract a fee irrespective of the outcome.
+bet-liabilities \\(b_i\\) promised for a given outcome \(E_i\) is such that \\(b_i\\) = 1 - ∑j ≠ _i__b__j_ holds. If while deciding on the fixed odds, the book-keeper has perfectly anticipated {\\(b_i\\)} and quoted odds correspondingly, the book-keeper does not loose any money irrespective of the outcome. In other words, the winning parties’ earnings at settlement time are matched exactly by others’ losses. The book-keeper does not stand to loose money: infact, promising slightly lower earnings than 1 - ∑j ≠ _i__b__j_, the book-keeper can extract a fee irrespective of the outcome.
 
 But, if the odds quoted by the book-keeper do not match the eventual bet-liability allocations, it is possible in case of certain outcomes that, to honor the contract, the book-maker will loose money. Hence, he may need to maintain reserve capital.
 
@@ -79,6 +79,6 @@ The idea is that a large and diverse set of people sometimes evaluate the situat
 
 #### Unfulfilled orders
 
-At any given point in time, and given the conditions of logical agents entering a bet examined elsewhere, _P__r_(_E_) can be judged using the unmatched buy or sell offers on the betting exchange.
+At any given point in time, and given the conditions of logical agents entering a bet examined elsewhere, Pr(E) can be judged using the unmatched buy or sell offers on the betting exchange.
 
-An unfulfilled offer to buy at price _x_ says that the market agrees that _P__r_(_E_)≥_x_. An unfulfilled offer to sell at price _x_ says that the market agrees that _P__r_(_E_)≤_x_. So, _P__r_(_E_), according to the market, lies between the lowest unfulfilled sell order and the highest unfulfilled buy order.
+An unfulfilled offer to buy at price _x_ says that the market agrees that Pr(E)≥ x . An unfulfilled offer to sell at price _x_ says that the market agrees that Pr(E)≤ x. So, Pr(E), according to the market, lies between the lowest unfulfilled sell order and the highest unfulfilled buy order.
