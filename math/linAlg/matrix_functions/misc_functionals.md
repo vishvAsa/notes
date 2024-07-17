@@ -103,9 +103,9 @@ $$\prod_{i=1}^{k} \sw_{i}(AB) = |det(U_{k}^{*}ABV_{k})| = |det(U_{k}^{*}AX_{k})d
 By majorization lore, for \\(p>0, \sum_{i=1}^{q} \sw_{i}(AB)^{p} \leq \sum_{i=1}^{q} \sw_{i}(A)^{p}\sw_{i}(B)^{p}\\).
 
 ##### Sum of sw as trace maximizer of SVD-like decompositions
-.\\$\sum_{i=1}^{k}\sw_{i}(A) 
+$$\sum_{i=1}^{k}\sw_{i}(A) 
 = \max \set{|tr(X^{*}AY)|: X^{*}X = Y^{*}Y = I, X \in C^{mk}, Y \in C^{nk}}\\
- = \max \set{|tr(AC)| C \in C^{nm}\texttt{ is rank k partial isometry}}$.
+ = \max \set{|tr(AC)| C \in C^{nm}\texttt{ is rank k partial isometry}}$$
 
 Pf: Can get C from Y, X: \\(C = YX^{*}, \sw_{i}(C^{*}C) = \sw_{i}(XX^{*})= \sw_{i}(X^{*}X) = 1\\); Can get Y, X from C: use SVD: \\(C = U\SW V^{*} = U_{k}V^{*}_{k}\\). \\(|tr(AC)| = |\sum \ew_{i}(AC)| \leq \sum_{i=1}^{q} \sw_{i}(AC) \leq \sum_{i=1}^{q}\sw_{i}(A) \sw_{i}(C) = \sum_{i=1}^{k}\sw_{i}(A)\\). Take \\(A = U\SW V^{*}\\), then for rank k isometry \\(C = V\hat{I}_{k}U^{*}\\), \\(tr(AC) = tr(U\SW\hat{I}_{k}U^{*}) = \sum_{i=1}^{k}\sw_{i}(A)\\).
 

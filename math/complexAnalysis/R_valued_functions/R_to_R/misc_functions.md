@@ -65,7 +65,7 @@ So, \\(\ln e^{x} = x\\) (using \\(\ln x^{k} = k \ln x\\) from above).
 Thence \\(\der{e^{x}} = e^{x}\\).  
 
 #### Doubling time
-Find t where $(1+r)^t = 2$.  
+Find t where \\((1+r)^t = 2\\).  
 
 $$t ln(1+r)  = ln2 $$
 
@@ -76,7 +76,7 @@ Similarly, tripling time:
 $$t = ln3/ln(1+r)$$
 
 Very useful for quick calculations. For 7% annual growth, doubling time is roughly 70/7 = 10 years.  
-Also, 70 years is roughly 1 human lifespan. So, in one lifetime, growth will be $2^7x = 128x$!
+Also, 70 years is roughly 1 human lifespan. So, in one lifetime, growth will be \\(2^7x = 128x\\)!
 
 
 #### Approximations

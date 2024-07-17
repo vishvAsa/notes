@@ -60,8 +60,7 @@ If you add regularizer \\(r(t)\\), you are imposing a prior distribution on \\(t
 
 #### As empirical code-length divergence minimization
 Let \cF be a class of distributions, \\
-let \\(D\\) be the actual distribution of \\(X\\). In the limit where $n \to 
-\infty\\(, maximum likelihood estimation tries to find \\)\argmin_{F \in \cF} E_D[- \log F(X)]\\(. This is the same problem as finding \\)\argmin_{F \in \cF} E_D[- \log F(X)] - E_D[-\log D(x)] = \argmin_{F \in \cF} KL(F||D)\\(. So we are finding a member of \cF, with minimum code-length divergence to \\)D$.
+let \\(D\\) be the actual distribution of \\(X\\). In the limit where \\(n \to \infty\\), maximum likelihood estimation tries to find \\(\argmin_{F \in \cF} E_D[- \log F(X)]\\). This is the same problem as finding \\(\argmin_{F \in \cF} E_D[- \log F(X)] - E_D[-\log D(x)] = \argmin_{F \in \cF} KL(F||D)\\). So we are finding a member of \cF, with minimum code-length divergence to \\(D\\).
 
 ### Derivatives of log likelihood
 #### Score function : Sensitivity of log Likelihood

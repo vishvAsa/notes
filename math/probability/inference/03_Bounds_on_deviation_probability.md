@@ -53,9 +53,9 @@ Let \\(D_p\\) and \\(D_q\\) be probability distributions of binary random variab
 
 \pf{Suppose that \\(X_i\distr D_p\\) and that \\(p<q, k \geq qn\\).
 
-$D_p(\sum_i X_i = k) \leq \frac{D_p(\sum_i X_i = k)}{D_q(\sum_i X_i = k)} = 
+$$D_p(\sum_i X_i = k) \leq \frac{D_p(\sum_i X_i = k)}{D_q(\sum_i X_i = k)} = 
 (\frac{p}{q})^{k}(\frac{1-p}{1-q})^{n-k} 
-\leq (\frac{p}{q})^{qn}(\frac{1-p}{1-q})^{n(1-q)} =\\ e^{-n KL(D_p||D_q)}$.
+\leq (\frac{p}{q})^{qn}(\frac{1-p}{1-q})^{n(1-q)} =\\ e^{-n KL(D_p||D_q)}$$.
 
 So, taking the union bound over all \\(k \geq qn\\), we have the result.}
 

@@ -201,7 +201,8 @@ Let \\(A_{k}\\) be submatrix of first k*k elements; then from block multiplicati
 ### Symmetric Elimination Algorithm for spd A
 Do Gaussian elimination + extra column ops to diagonalize/ maintain symmetry at each step.
 
-$A = 
+\\[
+A = 
 \mat{a_{1,1} & A_{2,1}^{*}\\
 A_{2,1} & A_{2,2}}
 = \mat{1 & 0\\
@@ -211,7 +212,9 @@ A_{2,1} & A_{2,2}}
 \mat{1 & \frac{A_{2,1}}{a_{1,1}}\\
 0 & I}
 =LDL^{*}
-\\(. Get \\)R^{*}R\\( by doing \\)LD^{1/2}$ at each step.
+\\]
+
+Get \\(R^{*}R\\) by doing \\(LD^{1/2}\\) at each step.
 
 
 #### Code and Opcount
@@ -287,8 +290,10 @@ Row ops, at 4 flops per num: \\(\frac{4 m^{3}}{3}\\); Col ops, at 4 flops per nu
 \\(\tilde{Q}\tilde{H}\tilde{Q}^{*} = A + \del A\\) for relatively small \\(\del A\\).
 
 ### Approach Eigenvalue revealing factorizations
-$A = QUQ^{*}; \\
-U = ..Q_{2}^{*}Q_{1}^{*}AQ_{1}Q_{2}..\\(. If \\)A=A^{*}$, this leads to unitary diagonalization.
+$$A = QUQ^{*}; \\
+U = ..Q_{2}^{*}Q_{1}^{*}AQ_{1}Q_{2}.$$
+
+If \\(A=A^{*}\\), this leads to unitary diagonalization.
 
 ### Power iteration for real symmetric A
 The series \\(v^{(i)} = \frac{A^{i}x}{\norm{A^{i}x}}\\) and \\(l^{(i)} = r(v^{(i)})\\) converge to eigenpair corresponding to largest ew \\(\ew_{1}, q_{1}\\): as \\(x = \sum a_{i}q_{i}\\).
@@ -296,8 +301,12 @@ The series \\(v^{(i)} = \frac{A^{i}x}{\norm{A^{i}x}}\\) and \\(l^{(i)} = r(v^{(i
 So, Applying A repeatedly takes x to dominant ev.
 
 #### Convergence
-Linear convergence of ev. $\norm{v^{(i)} - \pm q_{1}} = O(|\frac{\ew_{2}}{\ew_{1}}|^{i}),\\
- \norm{\ew^{(i)} - \pm \ew_{1}} = \norm{v^{(i)} - \pm q_{1}}^{2}$.
+Linear convergence of ev.
+\\[
+\norm{v^{(i)} - \pm q_{1}} = O(|\frac{\ew_{2}}{\ew_{1}}|^{i}),\\
+ \norm{\ew^{(i)} - \pm \ew_{1}} = \norm{v^{(i)} - \pm q_{1}}^{2}
+\\]
+
 
 ### Inverse iteration
 ev of A and \\((A-pI)^{-1}\\) same, ew \\(\ew_{i}\\) shifted and inverted to get ew \\((\ew_{i} - p)^{-1}\\). If p near \\(\ew_{j}\\), using power iteration on \\((A-pI)^{-1}\\) gives fast convergence.
@@ -497,8 +506,8 @@ If \\(M^{-1} \approx A^{-1}, k(M^{-1}A) \approx 1\\).
 Take \\(AM^{-1}Mx = AM^{-1}u = b\\).
 
 #### Shift preconditioning
-Take $M_{L}^{-1}AM_{R}^{-1}M_{R}x = \\
-M_{L}^{-1}b\\(. Want \\)\norm{M_{L}^{-1}AM_{R}^{-1}}$ small.
+Take \\$M_{L}^{-1}AM_{R}^{-1}M_{R}x = \\
+M_{L}^{-1}b\\(. Want \\)\norm{M_{L}^{-1}AM_{R}^{-1}}\\$ small.
 
 #### Traits of good preconditioners
 Work involved is actually in solving \\(My = b\\), so usually want M very sparse. But, at the same time, want M to be close to A, which may be quite dense.
