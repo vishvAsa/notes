@@ -16,13 +16,13 @@ Consider functions on ordered semigroups. Some of these have some notable proper
 
 No element can have 2 inverses: \\(a_1^{-1}aa_2^{-1} = a_2^{-1} = a_1^{-1}\\). \\((ab)^{-1} = b^{-1}a^{-1}\\). Unique solution for ax=b: \\(x=a^{-1}b\\).
 
-For examples \\(Z_{n}^{+}\\) and \\(Z_{n}^{*}\\), see Number Theory survey.
+For examples \\(Z_{n}^{+}\\) and \\(Z_{n}^{\*}\\), see Number Theory survey.
 
 ### Order of a group
 Number of elements in the group, \\(\phi(G)\\).
 
 ### Subgroups
-\\(H \leq G\\). Eg: p prime: \\(\set{\pm 1} \leq Z_{p}^{*}\\).
+\\(H \leq G\\). Eg: p prime: \\(\set{\pm 1} \leq Z_{p}^{\*}\\).
 
 #### Cosets of subgroup
 Left coset of subgroup H containing g: gH or g+H; may not be group. Also, right coset of H containing g. Normal subgroup: N for which gN = Ng. Eg: 2Z or 2+Z has 2 cosets: evens and odds.
@@ -35,7 +35,7 @@ So, this is an easy partial-test to see if H is a group.
 #### Quotient/ factor group
 \\(G/N\\): cosets; with Coset product: (aN)(bN) = abNN = abN; eN identity. Eg: Z/nZ isomorphic to \\(\{0, .. n-1\}, \oplus_n\\).
 
-**Product group**: G*H.
+**Product group**: G\*H.
 
 ### Multiplicative order ord(a) of element a
 \\(ord(a) = argmin_{n}: a^{n}=e\\). \\(ord(A) | \phi(G)\\).
