@@ -13,11 +13,11 @@ y is called the bet liability.
 
 #### Viability of the bet
 
-Rational B (who is not risk-averse) will enter the contract if according to his evaluation of _a_, _a__x_ − (1 − _a_)_y_ ≥ 0 or @#a \\geq \\frac{y}{x+y}#@. Rational A will similarly enter the contract only if \\(a \\leq \\frac{y}{x+y}\\).
+Rational B (who is not risk-averse) will enter the contract if according to his evaluation of _a_, _a__x_ - (1 - _a_)_y_ ≥ 0 or @#a \\geq \\frac{y}{x+y}#@. Rational A will similarly enter the contract only if \\(a \\leq \\frac{y}{x+y}\\).
 
 #### Odds
 
-The probabilistic odds is \\(\\frac{Pr(E)}{Pr(\\lnot E)}\\). But Pr(E) is not known beforehand and is only estimated by a certain party to be _a_. So, betting odds is \\(k = \\frac{a}{1-a} = \\frac{y}{x}\\). It is often expressed as _y_ : _x_ = _k_ : 1 against. It can also be denoted by _k_ + 1, the decimal odds.
+The probabilistic odds is \\(\\frac{Pr(E)}{Pr(\\lnot E)}\\). But Pr(E) is not known beforehand and is only estimated by a certain party to be _a_. So, betting odds is \\(k = \\frac{a}{1-a} = \\frac{y}{x}\\). It is often expressed as _y_ : _x_ = _k_ : 1 against. It can also be denoted by _k_ + 1, the decimal odds.
 
 ### Multiple outcomes
 
@@ -45,7 +45,7 @@ Quoting fixed betting odds for each outcome, the book-keeper admits peoples’ b
 ##### Anticipation of bet-placements
 
 ∀_i_ the fraction of  
-bet-liabilities _b__i_ promised for a given outcome _E__i_ is such that _b__i_ = 1 − ∑_j_ ≠ _i__b__j_ holds. If while deciding on the fixed odds, the book-keeper has perfectly anticipated {_b__i_} and quoted odds correspondingly, the book-keeper does not loose any money irrespective of the outcome. In other words, the winning parties’ earnings at settlement time are matched exactly by others’ losses. The book-keeper does not stand to loose money: infact, promising slightly lower earnings than 1 − ∑_j_ ≠ _i__b__j_, the book-keeper can extract a fee irrespective of the outcome.
+bet-liabilities \\(b_i\\) promised for a given outcome _E__i_ is such that \\(b_i\\) = 1 - ∑j ≠ _i__b__j_ holds. If while deciding on the fixed odds, the book-keeper has perfectly anticipated {\\(b_i\\)} and quoted odds correspondingly, the book-keeper does not loose any money irrespective of the outcome. In other words, the winning parties’ earnings at settlement time are matched exactly by others’ losses. The book-keeper does not stand to loose money: infact, promising slightly lower earnings than 1 - ∑j ≠ _i__b__j_, the book-keeper can extract a fee irrespective of the outcome.
 
 But, if the odds quoted by the book-keeper do not match the eventual bet-liability allocations, it is possible in case of certain outcomes that, to honor the contract, the book-maker will loose money. Hence, he may need to maintain reserve capital.
 
@@ -55,13 +55,13 @@ Such an exchange facilitates bets over an event _E_ happening by time _T_. Eg: I
 
 ### Contracts, final settlement
 
-Pairs of people enter into bet contracts at odds of the form 1 − _x_ : _x_ against _E_. A betting exchange, modeled after the stock market, facilitates such contracts by displaying/ matching offers for entering into bets for and against _E_ at certain odds.
+Pairs of people enter into bet contracts at odds of the form 1 - _x_ : _x_ against _E_. A betting exchange, modeled after the stock market, facilitates such contracts by displaying/ matching offers for entering into bets for and against _E_ at certain odds.
 
 #### Share trade representation
 
-In the betting exchange, these odds are specified in the form of ’share prices’ of event _E_ which lie between \[0, 1\]. Consider a betting contract proposal with odds 1 − _x_ : _x_ against _E_. An offer to enter such a contract on the side of _E_ is denoted by an offer to buy a share of _E_ at price _x_. An offer to enter such a contract against _E_ is denoted by an offer to sell a share of _E_ (which one need not possess at the time of selling) at price _x_. Thus, entering into a betting contract is denoted by a share trade.
+In the betting exchange, these odds are specified in the form of ’share prices’ of event _E_ which lie between \[0, 1\]. Consider a betting contract proposal with odds 1 - _x_ : _x_ against _E_. An offer to enter such a contract on the side of _E_ is denoted by an offer to buy a share of _E_ at price _x_. An offer to enter such a contract against _E_ is denoted by an offer to sell a share of _E_ (which one need not possess at the time of selling) at price _x_. Thus, entering into a betting contract is denoted by a share trade.
 
-At settlement time, of course, the odds of all logical agents are 0 : 1 against _E_ if _E_ has occurred; and 1 : 0 otherwise. These correspond to share price reaching 1 or 0 respectively.
+At settlement time, of course, the odds of all logical agents are 0 : 1 against _E_ if _E_ has occurred; and 1 : 0 otherwise. These correspond to share price reaching 1 or 0 respectively.
 
 The obligation of the loosing party to pay money to the winning party at settlement time is then represented by a\] the obligation of the seller of the share to buy it at settlement time, and b\] the rise or fall of the share price to 1 or 0.
 
