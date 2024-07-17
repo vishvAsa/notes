@@ -13,11 +13,11 @@ y is called the bet liability.
 
 #### Viability of the bet
 
-Rational B (who is not risk-averse) will enter the contract if according to his evaluation of _a_, _a__x_ − (1 − _a_)_y_ ≥ 0 or $a \\geq \\frac{y}{x+y}$. Rational A will similarly enter the contract only if $a \\leq \\frac{y}{x+y}$.
+Rational B (who is not risk-averse) will enter the contract if according to his evaluation of _a_, _a__x_ − (1 − _a_)_y_ ≥ 0 or @@a \\geq \\frac{y}{x+y}@@. Rational A will similarly enter the contract only if \\(a \\leq \\frac{y}{x+y}\\).
 
 #### Odds
 
-The probabilistic odds is $\\frac{Pr(E)}{Pr(\\lnot E)}$. But Pr(E) is not known beforehand and is only estimated by a certain party to be _a_. So, betting odds is $k = \\frac{a}{1-a} = \\frac{y}{x}$. It is often expressed as _y_ : _x_ = _k_ : 1 against. It can also be denoted by _k_ + 1, the decimal odds.
+The probabilistic odds is \\(\\frac{Pr(E)}{Pr(\\lnot E)}\\). But Pr(E) is not known beforehand and is only estimated by a certain party to be _a_. So, betting odds is \\(k = \\frac{a}{1-a} = \\frac{y}{x}\\). It is often expressed as _y_ : _x_ = _k_ : 1 against. It can also be denoted by _k_ + 1, the decimal odds.
 
 ### Multiple outcomes
 
