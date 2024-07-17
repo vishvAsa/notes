@@ -13,7 +13,7 @@ y is called the bet liability.
 
 #### Viability of the bet
 
-Rational B (who is not risk-averse) will enter the contract if according to his evaluation of _a_, _a__x_ − (1 − _a_)_y_ ≥ 0 or @@a \\geq \\frac{y}{x+y}@@. Rational A will similarly enter the contract only if \\(a \\leq \\frac{y}{x+y}\\).
+Rational B (who is not risk-averse) will enter the contract if according to his evaluation of _a_, _a__x_ − (1 − _a_)_y_ ≥ 0 or @#a \\geq \\frac{y}{x+y}#@. Rational A will similarly enter the contract only if \\(a \\leq \\frac{y}{x+y}\\).
 
 #### Odds
 
