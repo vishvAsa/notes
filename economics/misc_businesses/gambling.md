@@ -22,7 +22,7 @@ The probabilistic odds is \\(\\frac{Pr(E)}{Pr(\\lnot E)}\\). But Pr(E) is not kn
 ### Multiple outcomes
 
 Suppose that there is a universal set of _k_ mutually exclusive outcomes:  
-{_E_1.._E__k_}. Then, _k_ entities can enter into a betting contract, according to which side _i_ gets _x__i_ if _E__i_ happens and looses _y__i_ if it does not. So, from side _i_’s perspective, it is a binary bet on event _E__i_; for which calculations of viability and odds are explained elsewhere.
+{@#E_1..E_k#@}. Then, _k_ entities can enter into a betting contract, according to which side _i_ gets _x__i_ if _E__i_ happens and looses _y__i_ if it does not. So, from side _i_’s perspective, it is a binary bet on event _E__i_; for which calculations of viability and odds are explained elsewhere.
 
 ### Betting pool contracts
 
