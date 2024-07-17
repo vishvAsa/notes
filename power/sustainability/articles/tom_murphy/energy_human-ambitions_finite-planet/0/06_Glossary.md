@@ -28,13 +28,13 @@ atomic mass unit. 241, 246-248, 253, 254, 265, 376, 422, 432, 433, 435
 is compiled by the U.S. EIA, capturing energy use and trends for all sources and sectors [^34]. 102, 170, 422
 
 ## Astronomical Unit
-(AU) is a unit of distance, equal to the average Earth-Sun distance of 149.6 million kilometers (1.496 x $10^{11}$ m). 56, 422
+(AU) is a unit of distance, equal to the average Earth-Sun distance of 149.6 million kilometers (1.496 x \\(10^{11}\\) m). 56, 422
 
 ## asymmetric risk
 describes a condition where given the choice to pursue action B for fear of some future condition instead of the normal action A, the downside of being correct about the threat and not taking action B is far more disastrous than being wrong about the threat and pursuing route B unnecessarily. 345, 351
 
 ## atomic mass unit
-(a.m.u.) is defined so that a single neutral carbon atom, consisting of 6 protons, 6 neutrons, and 6 electrons has exactly 12.00000 a.m.u. In other units, it is 931.4941 MeV or 1.66054 x $10^{-27}$ kg. This unit sometimes goes by the name: Dalton. 241, 376, 422, 433
+(a.m.u.) is defined so that a single neutral carbon atom, consisting of 6 protons, 6 neutrons, and 6 electrons has exactly 12.00000 a.m.u. In other units, it is 931.4941 MeV or 1.66054 x \\(10^{-27}\\) kg. This unit sometimes goes by the name: Dalton. 241, 376, 422, 433
 
 ## AU
 Astronomical Unit. 56, 206, 420, 422
@@ -74,7 +74,7 @@ is a term describing the radiative qualities for thermal emission of light (infr
 is a type of nuclear fission reactor in which water surrounding the fuel rods acts both as a moderator and as the means of transporting heat away from the nuclear fuel. 255, 256 
 
 ## Boltzmann constant
-is a fundamental constant of nature associated with thermodynamics. In SI units, it has a value of kB = 1.38 x $10^{-23}$ J/K. 89, 199, 381
+is a fundamental constant of nature associated with thermodynamics. In SI units, it has a value of kB = 1.38 x \\(10^{-23}\\) J/K. 89, 199, 381
 
 ## breeder reactor
 is a nuclear fission reactor that transforms non-fissile nuclei into ones that are fissile by means of neutron capture and subsequent radioactive decay. 250, 262, 264, 296, 423
@@ -119,7 +119,7 @@ is a Periodic Table on steroids, listing the properties of every known nuclide i
 is energy stored in chemical bonds, like gasoline or wood that might be burned, or in the food we eat. 70, 117, 121, 182, 227, 228, 234, 379, 395, 396
 
 ## climate sensitivity parameter
-relates a change in radiative forcing to the net temperature change once all the feedback mechanisms have acted. The units are °C per $W/m^2$, and a typical value is 0.8. 147, 160 
+relates a change in radiative forcing to the net temperature change once all the feedback mechanisms have acted. The units are °C per \\(W/m^2\\), and a typical value is 0.8. 147, 160 
 
 ## coefficient of performance
 (COP) refers to the energy gain by a heat pump, usually in the context of heating rather than cooling. It is identical to Ɛheat, as defined in Eq. 6.11 (p. 95). 97, 425
@@ -150,7 +150,7 @@ is used in a nuclear fission reactor to absorb neutrons so that the chain reacti
 coefficient of performance. 97, 99, 335, 424
 
 ## Coulomb
-(C) is the SI unit of electric charge. An electron has a charge of -1.6 x $10^{-19}$ C and a proton has a charge of +1.6 × $10^{-19}$ C. 77, 422, 424, 427
+(C) is the SI unit of electric charge. An electron has a charge of -1.6 x \\(10^{-19}\\) C and a proton has a charge of +1.6 × \\(10^{-19}\\) C. 77, 422, 424, 427
 
 ## coupled
 refers to the tight connection often seen between energy/resource use and economic scale (as measured, for instance, by GDP). 18, 425
@@ -226,7 +226,7 @@ refers to the sweep of wavelengths or frequencies of electromagnetic radiation, 
 is a fundamental particle typically found in the outer parts of atoms, surrounding the nucleus. Electrons have negative charge equal and opposite to that of protons, but are 1,836 times lighter than the proton, at 0.511 MeV. 77, 78, 198, 202, 239, 244, 245, 255, 395, 422, 423, 425, 426, 429, 430, 433-435, 438
 
 ## electron-volt
-(eV) is a unit of energy, defined as the energy (work) it takes to push a charge of one fundamental charge unit (see entry for Coulomb) through an electric potential of one Volt. 1 eV is equivalent to 1.6 x $10^{-19}$ Joules. 78, 198, 223, 248, 428, 432
+(eV) is a unit of energy, defined as the energy (work) it takes to push a charge of one fundamental charge unit (see entry for Coulomb) through an electric potential of one Volt. 1 eV is equivalent to 1.6 x \\(10^{-19}\\) Joules. 78, 198, 223, 248, 428, 432
 
 ## element
 pertains to a single atom on the Periodic Table. For instance, hydrogen, helium, and carbon are all elements. 376, 379, 424, 432
@@ -398,7 +398,7 @@ is the solar-driven process by which evaporation of water from the surface (bodi
 is the property that all objects glow in light, or electromagnetic radiation. For objects that are not "red hot," the emission is invisible to the human eye, at longer wavelengths than the visible spectrum. The power radiated obeys the Stefan-Boltzmann law. 10, 84, 143, 147, 151, 161, 169, 396, 397, 423, 429, 435, 437
 
 ## insolation
-is the annual average solar flux reaching flat, level ground for a particular location. A typical number is 200 $W/m^2$, but can range from half that at high latitudes to about 350 $W/m^2$ for arid areas at lower latitudes. 168, 178, 189, 206-208, 228, 276, 285
+is the annual average solar flux reaching flat, level ground for a particular location. A typical number is 200 \\(W/m^2\\), but can range from half that at high latitudes to about 350 \\(W/m^2\\) for arid areas at lower latitudes. 168, 178, 189, 206-208, 228, 276, 285
 
 ## inverse function
 is a mathematical operation that "undoes" its counterpart, like the square root undoes the square, or the natural logarithm undoes the exponential. 5, 32, 367, 370
@@ -461,7 +461,7 @@ concerns itself with the allocation of goods and services across the marketplace
 refers to a failure mode of nuclear fission reactors, in which the chain reaction becomes uncontrolled due to too many neutrons triggering new fission events (as may happen if control rods are absent or insufficiently deployed). 262, 263, 425
 
 ## MeV
-is a mega-electron-volt, or $10^{6}$ eV. In Joules, it is equivalent to 1.6 x $10^{-13}$ J. Nuclear masses are often expressed in MeV/c2 terms, where 1 a.m.u. is equivalent to 931.4941 MeV. 78, 246-248, 253, 265, 422, 427, 433, 435
+is a mega-electron-volt, or \\(10^{6}\\) eV. In Joules, it is equivalent to 1.6 x \\(10^{-13}\\) J. Nuclear masses are often expressed in MeV/c2 terms, where 1 a.m.u. is equivalent to 931.4941 MeV. 78, 246-248, 253, 265, 422, 427, 433, 435
 
 ## micro-economics
 concerns itself with the production of goods, including raw resources, marketing, and distribution. 323, 324, 433

@@ -30,7 +30,7 @@ Reproduced with permission.
 18. Fig. 13.8 (p. 207): Source: © The World Bank; adapted to hide banner, footer and some labels;
 
 Attributions 355
-adding the blue square and numbers in $W/m^2$. This file is licensed under the Creative Commons Attribution 4.0 International license (CC-BY).
+adding the blue square and numbers in \\(W/m^2\\). This file is licensed under the Creative Commons Attribution 4.0 International license (CC-BY).
 19. Fig. 13.9 (p. 207): Sourced from U.S. Department of Energy and National Renewable Energy Lab;
 Public Domain.
 20. Fig. 13.11 (p. 208): Sourced from U.S. Department of Energy and National Renewable Energy

@@ -19,7 +19,7 @@ Photovoltaic cells, showing grid contacts and crystal domains. Photo Credit: Tom
 Light - a form of electromagnetic radiationis composed of photons— individual particles of energy each having a characteristic wavelengthwhat we might call color. Photons are such tiny quanta of energy that familiar environments are awash in unfathomably large numbers of them. A typical light bulb, for instance, emits quintillions[^1] of photons every second.
 
 
-[^1]: A quintillion is $10^18$.
+[^1]: A quintillion is \\(10^18\\).
 
 [[198]]
 

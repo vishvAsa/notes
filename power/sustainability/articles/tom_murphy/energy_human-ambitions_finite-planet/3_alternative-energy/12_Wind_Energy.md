@@ -56,7 +56,7 @@ prevailing wind direction
 16
 5D
 In order to compare to other forms of renewable energy, we can evaluate
-a power per unit land area (in $W/m^2$) by the following approach:
+a power per unit land area (in \\(W/m^2\\)) by the following approach:
 [^71]: Ragheb et al. (2011), "Wind Turbines Theory - The Betz Equation and Optimal Rotor Tip Speed Ratio"
 
 [^14]: Not too impressive: hard to get much wind power on a household scale, although 10 m/s would give 3.6 kW.

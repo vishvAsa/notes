@@ -72,7 +72,7 @@ In more recent years, the rate has fallen somewhat from the 1.7% fit of the last
 
 $$P = P_0e^{ln(1+p)(t-t_0)}$$ (3.1) 
 
-where $P_0$ is the population at time $t_0$, and P is the population at time t if the growth rate is steady at p. Inverting this equation[^3], we have 
+where $P_0$ is the population at time \\(t_0\\), and P is the population at time t if the growth rate is steady at p. Inverting this equation[^3], we have 
 
 $$ t - t_0 = ln(P/P_0) /ln(1+p)$$ (3.2) 
 
@@ -80,7 +80,7 @@ $$ t - t_0 = ln(P/P_0) /ln(1+p)$$ (3.2)
 
 <details><summary>Example 3.1.1</summary>
 
-We can use Eq. 3.1 to determine how many people we will have in the year 2100 if we continue growing at a 1% rate, starting from 7 billion in the year 2010. We set $P_0$ = 7 Gppl,[^4] to 2010, p = 0.01, then compute the population in 2100 to be $P = 7 e ^ {ln 1.01 x 90} = 17$ Gppl. 
+We can use Eq. 3.1 to determine how many people we will have in the year 2100 if we continue growing at a 1% rate, starting from 7 billion in the year 2010. We set \\(P_0\\) = 7 Gppl,[^4] to 2010, p = 0.01, then compute the population in 2100 to be \\(P = 7 e ^ {ln 1.01 x 90} = 17\\) Gppl. 
 
 [^4]: Gppl is giga-people, or billion people
 

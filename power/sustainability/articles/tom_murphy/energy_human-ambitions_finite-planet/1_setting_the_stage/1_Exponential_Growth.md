@@ -83,7 +83,7 @@ Experts habitually read complicated passages multiple times before the material 
 </details>
 
 #### Multiplication time
-The essential feature of exponential growth is that the scale goes as the power of some base (just some number) raised to the time interval. In the doubling sequence, we start at 1x the original scale, then go to 2x, then 4x, then 8x, etc. At each time interval, we multiply by 2 (the base). After 5 such intervals, for instance, we have 2 x 2 x 2 x 2 x 2, or $2^5$ = 32. More generally, after n doubling times, we have increased by a factor of $2^n$, where 2 is the base, and n is the number of doubling times. We might formalize this as 
+The essential feature of exponential growth is that the scale goes as the power of some base (just some number) raised to the time interval. In the doubling sequence, we start at 1x the original scale, then go to 2x, then 4x, then 8x, etc. At each time interval, we multiply by 2 (the base). After 5 such intervals, for instance, we have 2 x 2 x 2 x 2 x 2, or \\(2^5\\) = 32. More generally, after n doubling times, we have increased by a factor of \\(2^n\\), where 2 is the base, and n is the number of doubling times. We might formalize this as 
 
 $$M = 2^n = 2^{t/t2}$$,  (1.1)
 
@@ -119,7 +119,7 @@ The pattern-whether doubling, or applying interest as in Box 1.2-is that we mult
 
 $$M = b^n$$  (1.2) 
 
-Now we're going to play a math trick that will help us compute various useful attributes of growth. The exponential and natural logarithm are inverse functions, each undoing the other. So $ln(e^x) = x$ and $e^{ln x} = x$. We can use this trick to express the number 2 as $e^{ln 2}$, or any base number $b = e^{ln b}$. 
+Now we're going to play a math trick that will help us compute various useful attributes of growth. The exponential and natural logarithm are inverse functions, each undoing the other. So \\(ln(e^x) = x\\) and \\(e^{ln x} = x\\). We can use this trick to express the number 2 as $e^{ln 2}$, or any base number $b = e^{ln b}$. 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 

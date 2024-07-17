@@ -20,7 +20,7 @@ wire cross section - 4mm². Smaller cross section implies higher resistance, hig
 
 
 ### Fuse wires
-Fuse wires have low melting point and high resistance (As $P = VI = IR^2$). For high resistance, wires of small cross section are used.
+Fuse wires have low melting point and high resistance (As \\(P = VI = IR^2\\)). For high resistance, wires of small cross section are used.
 
 (Tinned) Copper Fuse Wire 28 SWG (diameter ~ 0.376)
 

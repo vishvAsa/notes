@@ -53,11 +53,11 @@ that characterises the modern era represents an anomalous situation when it is c
 Several large revolutions in terms of population (total size and rate of change), social organisation and patterns of energy and other resource use  
 have occurred to bring about the modern world.  
 The first major change that humans achieved  
-after a long period (approximately $3 × 10^5$ years) of living in small, dispersed bands of hunter-gatherers  
+after a long period (approximately $(3 × 10^5$) years) of living in small, dispersed bands of hunter-gatherers  
 was the transition to an agriculture-based civilisation,  
 which occurred independently in multiple locations.  
 This was enabled to a large degree by the shift  
-approximately $1 × 10^4$ years ago to a warmer, more stable interglacial climate at global scale  
+approximately \\(1 × 10^4\\) years ago to a warmer, more stable interglacial climate at global scale  
 that has been characterised as the Holocene [^1].+++(5)+++
 
 <details><summary>विश्वास-टिप्पनी</summary>
