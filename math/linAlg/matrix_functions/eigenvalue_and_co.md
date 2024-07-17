@@ -146,11 +146,11 @@ If B is invertible: \\(B^{-1}Az = \ew z\\): so now an \\(\ew\\) problem. Don't w
 
 So, if B is invertible, symmetric, +ve definite: \\(R(x) = \frac{x^{*}Ax}{x^{*}B^{1/2}B^{1/2}x}\\); taking \\(z=B^{1/2}x\\), get \\(R(z) = \frac{z^{*}B^{-1/2}AB^{-1/2}z}{z^{*}z}\\). Max of R(x) is achieved somewhere in R(z) as \\(z \to x\\) is a 1 to 1 map. ew of \\(B^{-1/2}AB^{-1/2}\\) are easier to find as it is symmetric.
 
-\chapter{Matrix to matrix functions}
-## \htext{\\((I-A)^{-1\\)}{Neumann} series for square A}
+## Matrix to matrix functions
+### \htext{\\((I-A)^{-1\\)}{Neumann} series for square A}
 Aka Neumann series. \\((I-A)^{-1} = \sum_{k=0}^{\infty} A^{k}\\), if it converges. It converges when \\(A\\) has norm \\(<1\\).
 
-## Matrix exponentiation for square A
+### Matrix exponentiation for square A
 \\(e^{A} = \sum_{k=0}^{\infty} \frac{A^{k}}{k!}\\): always converges. Also defines \\(\log A\\). If \\(A\\) nilpotent, series is finite.
 
 Using expansion, aggregating suitably: \\(e^{aX}e^{bX} = e^{(a+b)X}\\); If \\(XY=YX: e^{X}e^{Y} = e^{X+Y}\\).

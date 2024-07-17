@@ -54,14 +54,14 @@ Every element has finite order. All finite groups are periodic.
 ## Group homomorphism
 It(a) maps elements of two groups (G,H) : \\(a(g.h)=a(g).a(h)\\). Image a(G). **Kernel** of homomorphism: ker(a) = G elements mapped to \\(1_{H}\\). Isomorphic groups: homomorphism is invertible. ker(a) and a(G) measure closness to homomorphism. ker(a) is a normal subgroup. a(G) isomorphic to G/ker(a).
 
-\chapter{Special groups}
-## Symmetric group on X
+## Special groups
+### Symmetric group on X
 \\(S_{X}\\) or Sym(X) or \\(S_{n}\\) is a group of permutations/ bijective functions on X, under composition. Not commutative for \\(n>2\\). **Transposition** only switches 2 elements. Every permutation f is a product of transpositions. Even and odd permutations. The product is not unique, but oddness is same: Consider number of pairs \\(i<j\\), where \\(f(j)<f(i)\\). Sign of Permutation: Sgn(f) is +1 or -1. Cycle.
 
-## Elliptic curve groups
+### Elliptic curve groups
 See topology survey.
 
-## Bilinear groups
+### Bilinear groups
 Groups with efficiently computable bilinear maps. \\(G_{T}\\): target group; \\(g_{1}, g_{2}\\) generators of \\(G_{1}\\) and \\(G_{2}\\). Bilinear map/ pairing operation: \\(p: G_1 \times G_2 \to G_{T}\\). Not necessarily 1 to 1.
 
 Bilinearity property: \\(p(g_{1}^{a}, g_{2}^{b}) = p(g_{1}, g_{2})^{ab}\\); can be seen as bilinear map amongst exponents: \\(p'(a, b) = ab\\). \\(p(xz,y) = p(z,y)p(x,y)\\).

@@ -23,7 +23,7 @@ Encompasses energy fn used in multidimensional scaling.
 ## Applications
 If nodes represent sample-points, can infer the dimensionality of the sample space. Then can measure distance distance between arbitrary sample points. Eg: Maybe can sample some hyenas, observe their interactions, conclude that Hyenas are 5 dimensional.
 
-\chapter{Embedding Incomplete Graph G}
+## Embedding Incomplete Graph G
 Can view this as matrix completion problem; perhaps with additional constraints enforcing symmetry and traingle inequality for the distance metric.
 
 ## Energy minimization techniques for G with similarity wts

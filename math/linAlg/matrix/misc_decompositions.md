@@ -116,11 +116,11 @@ By SVD, \\(\norm{R}^{2} = \norm{A}\\).
 ### Square root of semidefinite A
 \\(A = (A^{1/2})^{*}A^{1/2}\\). Diagonalize, get \\(A = QLQ^{*}\\), \\(A^{1/2} = QL^{1/2}Q^{*}\\) : the unique +ve semidefinite solution.
 
-\chapter{Special linear operators}
-## Orthogonal (Unitary) m*n matrix
+## Special linear operators
+### Orthogonal (Unitary) m*n matrix
 Columns orthonormal: \\(Q^{*}Q=I\\); and \\(m \leq n\\).
 
-### Change of basis operation
+#### Change of basis operation
 Qx=b: \\(x=Q^{*}b\\): so, x has magnitudes of projections of b on q's: Change of basis op.
 
 Alternative view: \\(Q^{*}(\sum a_{i}q_{i}) = \sum a_{i}e_{i}\\).
