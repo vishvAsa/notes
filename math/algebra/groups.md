@@ -3,7 +3,7 @@ title = "Groups"
 +++
 
 ## Semigroup, monoid
-**Semigroup**: \\(<S,+>\\): closed under binary operation +. **Monoid**: semigroup with identity element e.
+**Semigroup**: \\(<S,+>\\): closed under binary operation \\$+\\$. **Monoid**: semigroup with identity element e.
 
 ### Function characteristics
 Consider functions on ordered semigroups. Some of these have some notable properties.
@@ -46,7 +46,7 @@ Every \\(a \in G\\) generates some subgroup of G.
 G is cyclic if some generator generates G. Then G is non degenerate. Eg: \\(Z_{4}\\); \\(\omega\\) in \\(\omega^{n}=1\\).
 
 #### Number of generators
-If there is a generator g, there are at least \\(\phi(Z_{\phi(G)}^{*})\\) of them: \\(Z_{\phi(G)}^{*}\\) excludes all numbers which divide \\(\phi(G)\\); so for any \\(a \in Z_{\phi(G)}^{*}\\), can't write \\((g^{a})^{b} = e\\) for any \\(b < \phi(G)\\).
+If there is a generator g, there are at least \\(\phi(Z_{\phi(G)}^{\*})\\) of them: \\(Z_{\phi(G)}^{\*}\\) excludes all numbers which divide \\(\phi(G)\\); so for any \\(a \in Z_{\phi(G)}^{\*}\\), can't write \\((g^{a})^{b} = e\\) for any \\(b < \phi(G)\\).
 
 #### Periodic group
 Every element has finite order. All finite groups are periodic.
