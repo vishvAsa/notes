@@ -100,8 +100,9 @@ No latrine in the house.
 Food was locally grown (farming described elsewhere).  
 In v1 houses, the regular fare was - 
 
-- cooked grain immersed in water the previous night for kids
+- cooked grain immersed in water the previous night for kids' breakfast
 - vegetables, rasam, sAmbAr cooked in the morning,  
+- milk and yogurt
 - rice cooked twice a day
 - seasonal local fruits (jack-fruit, jambU-phalam)
 
@@ -109,9 +110,6 @@ If one bought non-local fruits (like bananas) or other food (powders like horlic
 people would wonder : "Is someone ill in your house?"
 
 Any vegetables grown in excess would just be bartered with or given away to neighbors.  
-
-Women used to gather cooking wood from the common thicket nearby during the afternoon.  
-If more was needed, they would purchase from street vendors.
 
 Water for cooking and drinking came from a common rain-fed tank,  
 with steps for different varNa-s.  
@@ -125,6 +123,13 @@ Most v4s, though mostly vegetarian,
 used to eat fish, but not chicken or pig.  
 Well diggers ate village pigs.  
 The pariah-s lived outside the village, with similar facilities. They ate beef too.  
+
+## Fuel and fire
+Women used to gather cooking wood from the common thicket nearby during the afternoon.  
+If more was needed, they would purchase from street vendors.
+
+The first person to light a fire daily would put a drop of kerosense on dry cowdung and light it with a match.  
+Seeing the smoke, others (from the same varNa) would come by with dry-cowdung-cakes, light it, take it home and grow their fire. (So, they wouldn't even need or own a match box in a village with no shops.)
 
 ## Hygene
 Mensturating women slept by the backyard, or in the wood storage room in case of rain.
