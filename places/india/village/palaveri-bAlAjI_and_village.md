@@ -183,7 +183,7 @@ Farming practice is described [separately](/notes/skills/plant-growing/farms/pal
 There was no theft - barring instances of someone illegally cutting and carrying off some tree to sell.
 
 ### Post harvest shares
-During harvest, the first big-measure was offered to the temple.  
+During harvest, the first big-measure was offered to the temple (as with first milk drawn from a cow).  
 The next one was for the village barber.  
 The one after that for the washerman.  
 Only then was the harvest partitioned between the owner and the share-cropper.  
