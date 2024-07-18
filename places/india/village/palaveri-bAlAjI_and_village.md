@@ -107,6 +107,7 @@ Almost no one needed to visit a doctor.
 No dengue or malaria - despite presence of mosquitoes.  
 Only one person (a sheTTi) in the neighboring 10 villages had Filaria.  
 People slept well despite biting mosquitoes - they were used to it.  
+People mostly died loosing appetite and growing lean.
 
 All births happened at home - and quite quickly too, with the assistance neighborhood old ladies.  
 Rarely, women died during birth.  
