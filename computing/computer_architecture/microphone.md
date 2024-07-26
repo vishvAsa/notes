@@ -22,6 +22,16 @@ Rejects sound outside the pickup curve.
 - Pop Filters - reduce P and B sounds.
 - Windshields
 
+## History
+
+### Headphone mic
+- White 
+  - Clearer voice, but some static entered.
+
+### Webcam in 
+- 2019-24
+- Webcam input was unsatisfactory - muffled.
+
 ## Types
 ### Dynamic microphones 
 coil attached to a diaphragm that moves within a magnetic field, generating an electrical signal  

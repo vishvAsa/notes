@@ -1,0 +1,14 @@
++++
+title = "Ms asada suicide"
++++
+
+"Suicide of an Officer's Wife."  
+"The Tokyo papers report the suicide of the wife of Lieut. Asada,  
+who was killed in the last Manchurian campaign undertaken by Gen. I in order to recover Feughwau.  
+Mrs. Asada was a daughter of Major Okami, who commanded the third battalion of the Maruyama force. She was brought up. under a rigid system and had only married the lieutenant the year before last. She was very virtuous, and was regarded by all who knew her as the model of a soldier's wife. The lieutenant held his commission in the battalion commanded by his father-in-law, and it was from her father that the young widow received the tidings of her husband's death. After writing an account of the battle, the letter went on to this effect: 
+
+> "I was watching what was going on from an elevation, and was exceedingly pleased at Asada's bravery and the gallant stand made by him against great odds. He was truly worthy of being my son-in-law. As the fighting grew fierce, I learned subsequently to my extreme sorrow that he had fallen. It was a glorious death for a warrior, however, and I felt that I was wrong in mourning it. You were fortunate in having married such a gallant and loyal officer, and ought to be highly satisfied. But as women are generally prone to be carried away by sentiment, I enjoin you to keep firm. Remembering how your husband died a noble death, you ought to take a decisive step." 
+
+The first thing Mrs. Asada did on receiving the above intelligence was to cut off her hair. She then wrote to the father of her deceased husband in Sendai, who at once came down to Maruyama, where Mrs. Asada was living, staying just long enough to make necessary arrangements. On his return the young widow wrote to her aunt, who resided some distance away, and informed her what she intended to do. On the day of her death she cleaned her house thoroughly, and on the evening of the 20th ult., setting her husband's portrait in the alcove, she seated herself before it, beautifully dressed, and stabbed herself in the throat with the dagger given to her by her father on her marriage. She was only twenty-one when she died. She must have kept her presence of mind admirably to the last, for the police called in to perform a coroner's inspection, are said to have been greatly astonished at the clever way in which she had committed suicide. This case shows us that the old Samurai spirit has not yet abandoned the breasts of many Japanese men and women. This is, if we remember rightly, the first instance of the wife of a military man taking her own life on hearing of her husband's death, but we doubt not that others, similarly placed, would be ready to do as Mrs. Asada did.
+
+Judging from what our girls think and say about this story, I feel sure that although they would not do this, they all admire Mrs. Asada's course.

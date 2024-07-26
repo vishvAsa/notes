@@ -17,9 +17,13 @@ Power - oft a proxy for loudness
 USB connection is usually better.
 
 ## History
+### VW Sonic Bar 120W Soundbar 
+- 2.1 Channel Home Theatre | 5.25” Wired Subwoofer | Multiple Connectivity & Sleek Design (Black)
+- 2024-...
+
 ## Beats by Dre Pill+ a1680 Bluetooth Speaker  ML4M2LL
 Seems 12 watts.  
-
+ 
 Used 2018-2024.   
 (mostly connected to computer by analog cable)  
 Produced muffled sound at high volume.
