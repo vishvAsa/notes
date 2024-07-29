@@ -409,12 +409,16 @@ y el costo de abandonar la biodiversidad.+++(5)+++
 
 <details open><summary>en</summary>
 
-Once set on our course and drifting down the stream of Agriculture, many other tributaries joined to invigorate the flow.
+Once set on our course  
+and drifting down the stream of Agriculture,  
+many other tributaries joined to invigorate the flow.
 </details>
 
 <details><summary>es</summary>
 
-Una vez establecido en nuestro curso y a la deriva por la corriente de la agricultura, muchos otros afluentes se unieron para vigorizar el flujo.
+Una vez establecido en nuestro curso  
+y a la deriva por la corriente de la agricultura,  
+muchos otros afluentes se unieron para vigorizar el flujo.
 </details>
 
 <details open><summary>en</summary>
@@ -424,7 +428,9 @@ What follows is an accounting of these different tributaries, accompanied by bri
 
 <details><summary>es</summary>
 
-Lo que sigue es una contabilidad de estos diferentes afluentes, acompañado de breves notas sobre su naturaleza y importancia.
+Lo que sigue es una contabilidad  
+de estos diferentes afluentes,  
+acompañado de breves notas sobre su naturaleza y importancia.
 </details>
 
 <details open><summary>en</summary>
@@ -434,17 +440,21 @@ Each tributary incrementally increased the rate of flow, whether perceptible or 
 
 <details><summary>es</summary>
 
-Cada tributario aumentó incrementalmente la tasa de flujo, ya sea perceptible o no.
+Cada tributario aumentó incrementalmente la tasa de flujo,  
+ya sea perceptible o no.
 </details>
 
 <details open><summary>en</summary>
 
-I can’t guarantee I have the ordering right: it’s hard to keep track of so many tributaries!
+I can’t guarantee I have the ordering right:  
+it’s hard to keep track of so many tributaries!
 </details>
 
 <details><summary>es</summary>
 
-No puedo garantizar que tenga el pedido correcto: ¡es difícil hacer un seguimiento de tantos afluentes!
+No puedo garantizar  
+que tenga el pedido correcto:  
+¡es difícil hacer un seguimiento de tantos afluentes!
 </details>
 
 <details open><summary>en</summary>
@@ -454,17 +464,22 @@ And in practice, these influences often operated in gradual, overlapping progres
 
 <details><summary>es</summary>
 
-Y en la práctica, estas influencias a menudo operaban en una progresión gradual y superpuesta, en lugar de como una brecha repentina de novedad completamente formada.
+Y en la práctica,  
+estas influencias a menudo operaban  
+en una progresión gradual y superpuesta,  
+en lugar de como una brecha repentina de novedad completamente formada.
 </details>
 
 <details open><summary>en</summary>
 
-So don’t take the map metaphor literally: it’s not meant for navigational purposes.
+So don’t take the map metaphor literally:  
+it’s not meant for navigational purposes.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Así que no tome la metáfora del mapa literalmente: no está destinado a fines de navegación.
+Así que no tome la metáfora del mapa literalmente:  
+no está destinado a fines de navegación.
 </details>
 
 ### Settlements
@@ -478,27 +493,32 @@ Once tending fields, the nomadic life was essentially over.
 
 <details><summary>es</summary>
 
-Una vez que tenden campos, la vida nómada había terminado esencialmente.
+Una vez que tenden campos,  
+la vida nómada había terminado esencialmente.
 </details>
 
 <details open><summary>en</summary>
 
-Fertile soil dictated where people lived, and settlements sprang up in these locations.
+Fertile soil dictated where people lived,  
+and settlements sprang up in these locations.
 </details>
 
 <details><summary>es</summary>
 
-El suelo fértil dictaba donde vivían las personas, y los asentamientos surgieron en estos lugares.
+El suelo fértil dictaba donde vivían las personas,  
+y los asentamientos surgieron en estos lugares.
 </details>
 
 <details open><summary>en</summary>
 
-It made sense to live next to the field where so much time was spent toiling.
+It made sense to live next to the field  
+where so much time was spent toiling.
 </details>
 
 <details><summary>es</summary>
 
-Tenía sentido vivir al lado del campo donde se dedica tanto tiempo a trabajar.
+Tenía sentido vivir al lado del campo  
+donde se dedica tanto tiempo a trabajar.
 </details>
 
 <details open><summary>en</summary>
@@ -508,17 +528,22 @@ Living structures became more elaborate and permanent.
 
 <details><summary>es</summary>
 
-Las estructuras vivientes se volvieron más elaboradas y permanentes.
+Las estructuras vivientes  
+se volvieron más elaboradas y permanentes.
 </details>
 
 <details open><summary>en</summary>
 
-It was no longer necessary to relocate periodically, so settlement structures became larger and relied more on heavy materials.
+It was no longer necessary to relocate periodically,  
+so settlement structures became larger  
+and relied more on heavy materials.
 </details>
 
 <details><summary>es</summary>
 
-Ya no era necesario reubicarse periódicamente, por lo que las estructuras de liquidación se hicieron más grandes y se basaron más en materiales pesados.
+Ya no era necesario reubicarse periódicamente,  
+por lo que las estructuras de liquidación se hicieron más grandes  
+y se basaron más en materiales pesados.
 </details>
 
 ### Possessions
@@ -527,32 +552,41 @@ Ya no era necesario reubicarse periódicamente, por lo que las estructuras de li
 
 <details open><summary>en</summary>
 
-Relatedly, once settled into a sedentary arrangement, it was possible to accumulate possessions.
+Relatedly, once settled into a sedentary arrangement,  
+it was possible to accumulate possessions.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Relacionamente, una vez establecido en una disposición sedentaria, era posible acumular posesiones.
+Relacionamente, una vez establecido en una disposición sedentaria,  
+era posible acumular posesiones.
 </details>
 
 <details open><summary>en</summary>
 
-Before this, few things were “owned” by a tribe, and many of those things might be considered to be communal.
+Before this, few things were “owned” by a tribe,  
+and many of those things might be considered to be communal.
 </details>
 
 <details><summary>es</summary>
 
-Antes de esto, pocas cosas eran "propiedad" de una tribu, y muchas de esas cosas podrían considerarse comunales.
+Antes de esto,  
+pocas cosas eran "propiedad" de una tribu,  
+y muchas de esas cosas  
+podrían considerarse comunales.
 </details>
 
 <details open><summary>en</summary>
 
-Now, living in the same dwelling year after year, personal belongings could be hoarded and treasured.
+Now, living in the same dwelling year after year,  
+personal belongings could be hoarded and treasured.
 </details>
 
 <details><summary>es</summary>
 
-Ahora, viviendo en la misma vivienda año tras año, las pertenencias personales podrían ser acumuladas y atesoradas.
+Ahora, viviendo en la misma vivienda año tras año,  
+las pertenencias personales  
+podrían ser acumuladas y atesoradas.
 </details>
 
 ### Surplus
@@ -571,22 +605,29 @@ Este fue un afluente bastante considerable.
 
 <details open><summary>en</summary>
 
-Control over how much to plant, together with periodically poor yields suggested a “safe” strategy of planting *more* than was absolutely necessary.
+Control over how much to plant,  
+together with periodically poor yields  
+suggested a “safe” strategy of planting  
+*more* than was absolutely necessary.
 </details>
 
 <details><summary>es</summary>
 
-El control sobre cuánto plantar, junto con rendimientos periódicamente pobres sugirió una estrategia "segura" de plantar * más * de lo que era absolutamente necesario.
+El control sobre cuánto plantar,  
+junto con rendimientos periódicamente  
+pobres sugirió una estrategia "segura" de plantar  
+*más* de lo que era absolutamente necesario.
 </details>
 
 <details open><summary>en</summary>
 
-In most years, this translated into surplus food.
+In most years, this translated into surplus food.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-En la mayoría de los años, esto se tradujo en comida excedente.
+En la mayoría de los años,  
+esto se tradujo en comida excedente.
 </details>
 
 <details open><summary>en</summary>
@@ -596,27 +637,37 @@ A surplus has all kinds of implications, some of which will appear below.
 
 <details><summary>es</summary>
 
-Un excedente tiene todo tipo de implicaciones, algunas de las cuales aparecerán a continuación.
+Un excedente tiene todo tipo de implicaciones,  
+algunas de las cuales aparecerán a continuación.
 </details>
 
 <details open><summary>en</summary>
 
-But primarily, it served to encourage higher rates of reproduction—with the added bonus of more hands to work the fields.
+But primarily, it served to encourage higher rates of reproduction—  
+with the added bonus of more hands to work the fields.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Pero principalmente, sirvió para fomentar tasas más altas de reproducción, con la ventaja adicional de más manos para trabajar en los campos.
+Pero principalmente,  
+sirvió para fomentar tasas más altas de reproducción,  
+con la ventaja adicional de más manos  
+para trabajar en los campos.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
 
-More people meant the need to transform more land, to maintain the surplus buffer in the face of having more mouths to feed.
+More people meant the need to transform more land,  
+to maintain the surplus buffer  
+in the face of having more mouths to feed.
 </details>
 
 <details><summary>es</summary>
 
-Más personas significaban la necesidad de transformar más tierras, mantener el amortiguador excedente frente a tener más bocas para alimentar.
+Más personas significaban  
+la necesidad de transformar más tierras,  
+mantener el amortiguador excedente  
+frente a tener más bocas para alimentar.
 </details>
 
 <details open><summary>en</summary>
@@ -640,7 +691,10 @@ Food surpluses and possessions needed protection—both from invading competitor
 
 <details><summary>es</summary>
 
-Los excedentes de alimentos y las posesiones necesitaban protección, tanto de los competidores invasores como de los miembros de su propia comunidad (¡Presentación: el crimen!).
+Los excedentes de alimentos y las posesiones necesitaban protección,  
+tanto de los competidores invasores  
+como de los miembros de su propia comunidad  
+(¡Presentación: el crimen!).
 </details>
 
 <details open><summary>en</summary>
@@ -650,27 +704,34 @@ The fruits of so much work would not be taken without a fight.
 
 <details><summary>es</summary>
 
-Los frutos de tanto trabajo no se tomarían sin pelear.
+Los frutos de tanto trabajo  
+no se tomarían sin pelear.
 </details>
 
 <details open><summary>en</summary>
 
-So we developed ways to lock up food and task some with its protection.
+So we developed ways to lock up food  
+and task some with its protection.
 </details>
 
 <details><summary>es</summary>
 
-Así que desarrollamos formas de bloquear la comida y la tarea algunas con su protección.
+Así que desarrollamos formas de bloquear la comida  
+y la tarea algunas con su protección.
 </details>
 
 <details open><summary>en</summary>
 
-Full-time soldiers fit the bill, and had the bonus of being able to bring home loot from the invasion of bordering regions!
+Full-time soldiers fit the bill,  
+and had the bonus of being able to bring home loot from the invasion of bordering regions!
 </details>
 
 <details><summary>es</summary>
 
-¡Los soldados a tiempo completo se ajustan a la factura y tuvieron la bonificación de poder traer a casa el botín de la invasión de las regiones fronterizas!
+¡Los soldados a tiempo completo se ajustan a la factura  
+y tuvieron la bonificación  
+de poder traer a casa  
+el botín de la invasión de las regiones fronterizas!
 </details>
 
 ### Property Rights
@@ -679,12 +740,16 @@ Full-time soldiers fit the bill, and had the bonus of being able to bring home l
 
 <details open><summary>en</summary>
 
-Once individuals had permanent structures containing personal possessions adjacent to land that they worked, it was an obvious step to associate those holdings with the person.
+Once individuals had permanent structures  
+containing personal possessions adjacent to land that they worked,  
+it was an obvious step to associate those holdings with the person.
 </details>
 
 <details><summary>es</summary>
 
-Una vez que los individuos tuvieron estructuras permanentes que contenían posesiones personales adyacentes a la tierra que trabajaban, fue un paso obvio asociar esas tenencias con la persona.
+Una vez que los individuos tuvieron estructuras permanentes  
+que contenían posesiones personales adyacentes a la tierra que trabajaban,  
+fue un paso obvio asociar esas tenencias con la persona.
 </details>
 
 <details open><summary>en</summary>
@@ -694,7 +759,9 @@ In a move that still baffles those who live as reciprocal members of the communi
 
 <details><summary>es</summary>
 
-En un movimiento que todavía desconcierta a aquellos que viven como miembros recíprocos de la comunidad de la vida, se hizo costumbre asignar * propiedad * de tierras a las personas.
+En un movimiento que todavía desconcierta  
+a aquellos que viven como miembros recíprocos de la comunidad de la vida,  
+se hizo costumbre asignar *propiedad* de tierras a las personas.
 </details>
 
 <details open><summary>en</summary>
@@ -704,7 +771,9 @@ Usually, this meant that anything—living or inanimate—within its boundaries 
 
 <details><summary>es</summary>
 
-Por lo general, esto significaba que cualquier cosa, viviendo o inanimada, dentro de sus límites era propiedad del maestro de la tierra.
+Por lo general,  
+esto significaba que cualquier cosa, viviendo o inanimada, dentro de sus límites  
+era propiedad del maestro de la tierra.
 </details>
 
 <details open><summary>en</summary>
@@ -714,7 +783,10 @@ It’s a subtle formality, but the philosophical implications are huge in terms 
 
 <details><summary>es</summary>
 
-Es una formalidad sutil, pero las implicaciones filosóficas son enormes en términos de cómo los humanos se relacionan con el mundo natural.
+Es una formalidad sutil,  
+pero las implicaciones filosóficas son enormes  
+en términos de cómo los humanos se relacionan  
+con el mundo natural.
 </details>
 
 ### Patriarchy
@@ -723,12 +795,19 @@ Es una formalidad sutil, pero las implicaciones filosóficas son enormes en tér
 
 <details open><summary>en</summary>
 
-As soon as land, home, and possessions were associated with an individual (a man, in practice), the parental (paternal) instinct to pass every possible advantage to direct offspring predictably led to patriarchy.
+As soon as land, home, and possessions were associated with an individual (a man, in practice),  
+the parental (paternal) instinct to pass every possible advantage  
+to direct offspring  
+predictably led to patriarchy.
 </details>
 
 <details><summary>es</summary>
 
-Tan pronto como la tierra, el hogar y las posesiones se asociaron con un individuo (un hombre, en la práctica), el instinto de los padres (paternos) para aprobar todas las ventajas posibles para dirigir la descendencia previsiblemente condujo al patriarcado.
+Tan pronto como la tierra, el hogar y las posesiones se asociaron con un individuo (un hombre, en la práctica),  
+el instinto de los padres (paternos)  
+para aprobar todas las ventajas posibles  
+para dirigir la descendencia  
+previsiblemente condujo al patriarcado.
 </details>
 
 <details open><summary>en</summary>
@@ -743,22 +822,30 @@ El linaje masculino se volvió muy importante.
 
 <details open><summary>en</summary>
 
-This also promoted obsessive attention to rules regulating which offspring were truly entitled (often the eldest born in “legitimate” circumstances).
+This also promoted obsessive attention to rules regulating  
+which offspring were truly entitled  
+(often the eldest born in “legitimate” circumstances).
 </details>
 
 <details><summary>es</summary>
 
-Esto también promovió la atención obsesiva a las reglas que regulan qué descendencia eran realmente derecho (a menudo los mayores nacidos en circunstancias "legítimas").
+Esto también promovió  
+la atención obsesiva a las reglas que regulan  
+qué descendencia eran realmente derecho  
+(a menudo los mayores nacidos en circunstancias "legítimas").
 </details>
 
 <details open><summary>en</summary>
 
-Note that monotheistic religions took root during this same time and context.
+Note that monotheistic religions took root  
+during this same time and context.
 </details>
 
 <details><summary>es</summary>
 
-Tenga en cuenta que las religiones monoteístas se arraigaron durante este mismo tiempo y contexto.
+Tenga en cuenta  
+que las religiones monoteístas  
+se arraigaron durante este mismo tiempo y contexto.
 </details>
 
 ### Division of Labor
@@ -767,22 +854,28 @@ Tenga en cuenta que las religiones monoteístas se arraigaron durante este mismo
 
 <details open><summary>en</summary>
 
-This tributary has already been exerting influence for a while, but at an ever-increasing scale.
+This tributary has already been exerting influence for a while,  
+but at an ever-increasing scale.
 </details>
 
 <details><summary>es</summary>
 
-Este afluente ya ha estado ejerciendo influencia durante un tiempo, pero a una escala cada vez mayor.
+Este afluente ya ha estado ejerciendo influencia durante un tiempo,  
+pero a una escala cada vez mayor.
 </details>
 
 <details open><summary>en</summary>
 
-I deferred its coverage because it is obvious by now how multi-dimensional the society has become.
+I deferred its coverage  
+because it is obvious by now  
+how multi-dimensional the society has become.
 </details>
 
 <details><summary>es</summary>
 
-Diferí su cobertura porque es obvio cómo se ha vuelto la sociedad multidimensional.
+Diferí su cobertura  
+porque es obvio  
+cómo se ha vuelto la sociedad multidimensional.
 </details>
 
 <details open><summary>en</summary>
@@ -792,7 +885,8 @@ We already saw the need to have security guards or even a standing army.
 
 <details><summary>es</summary>
 
-Ya vimos la necesidad de tener guardias de seguridad o incluso un ejército permanente.
+Ya vimos la necesidad de tener guardias de seguridad  
+o incluso un ejército permanente.
 </details>
 
 <details open><summary>en</summary>
@@ -802,7 +896,8 @@ Folks would emerge specializing in construction, farming tools, weapons, lock an
 
 <details><summary>es</summary>
 
-La gente emergería especializada en construcción, herramientas agrícolas, armas, cerraduras y llave, y ley, entre otras vocaciones.
+La gente emergería especializada en construcción, herramientas agrícolas, armas, cerraduras y llave, y ley,  
+entre otras vocaciones.
 </details>
 
 <details open><summary>en</summary>
@@ -812,7 +907,8 @@ Even on the farm, we could imagine specializations developing.
 
 <details><summary>es</summary>
 
-Incluso en la granja, podríamos imaginar especializaciones en desarrollo.
+Incluso en la granja,  
+podríamos imaginar especializaciones en desarrollo.
 </details>
 
 ### Hierarchy and Classes
@@ -821,52 +917,74 @@ Incluso en la granja, podríamos imaginar especializaciones en desarrollo.
 
 <details open><summary>en</summary>
 
-A natural consequence of division of labor and differing amounts of possessions is a ranking system establishing degree of importance.
+A natural consequence of division of labor and differing amounts of possessions  
+is a ranking system  
+establishing degree of importance.
 </details>
 
 <details><summary>es</summary>
 
-Una consecuencia natural de la división del trabajo y diferentes cantidades de posesiones es un sistema de clasificación que establece un grado de importancia.
+Una consecuencia natural de la división del trabajo  
+y diferentes cantidades de posesiones  
+es un sistema de clasificación  
+que establece un grado de importancia.
 </details>
 
 <details open><summary>en</summary>
 
-This is in contrast to our egalitarian past, where age might confer a certain respected status, but otherwise instability-seeding hierarchies were deliberately squelched by a variety of clever norms.
+This is in contrast to our egalitarian past,  
+where age might confer a certain respected status,  
+but otherwise instability-seeding hierarchies  
+were deliberately squelched by a variety of clever norms.
 </details>
 
 <details><summary>es</summary>
 
-Esto contrasta con nuestro pasado igualitario, donde la edad podría conferir un cierto estado respetado, pero por lo demás, las jerarquías de sembración de inestabilidad fueron aplastadas deliberadamente por una variedad de normas inteligentes.
+Esto contrasta con nuestro pasado igualitario,  
+donde la edad podría conferir un cierto estado respetado,  
+pero por lo demás, las jerarquías de sembración de inestabilidad  
+fueron aplastadas deliberadamente  
+por una variedad de normas inteligentes.
 </details>
 
 <details open><summary>en</summary>
 
-Allowed to flourish, hierarchy will run the gamut from divine monarchs to sub-human slaves.
+Allowed to flourish, hierarchy will run the gamut  
+from divine monarchs to sub-human slaves.
 </details>
 
 <details><summary>es</summary>
 
-Permitido para florecer, la jerarquía ejecutará toda la gama de monarcas divinas hasta esclavos subhumanos.
+Permitido para florecer,  
+la jerarquía ejecutará toda la gama  
+de monarcas divinas  
+hasta esclavos subhumanos.
 </details>
 
 <details open><summary>en</summary>
 
-Note that hierarchies among humans will not exist without also perceiving a hierarchy within nature, with humans obviously perched at the top.
+Note that hierarchies among humans will not exist  
+without also perceiving a hierarchy within nature,  
+with humans obviously perched at the top.
 </details>
 
 <details><summary>es</summary>
 
-Tenga en cuenta que las jerarquías entre los humanos no existirán sin percibir también una jerarquía dentro de la naturaleza, con los humanos obviamente posados en la parte superior.
+Tenga en cuenta que las jerarquías entre los humanos  
+no existirán sin percibir también una jerarquía dentro de la naturaleza,  
+con los humanos obviamente posados en la parte superior.
 </details>
 
 <details open><summary>en</summary>
 
-It is a small step from hierarchies to semi-permanent classes as status and privilege are locked in and inherited.
+It is a small step from hierarchies to semi-permanent classes  
+as status and privilege are locked in and inherited.
 </details>
 
 <details><summary>es</summary>
 
-Es un pequeño paso de jerarquías a clases semipermanentes, ya que el estado y el privilegio se bloquean y heredan.
+Es un pequeño paso de jerarquías a clases semipermanentes,  
+ya que el estado y el privilegio se bloquean y heredan.
 </details>
 
 ### The State
