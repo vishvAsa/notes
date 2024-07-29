@@ -7,6 +7,14 @@ New species of living organisms and the inherited traits which distinguish them 
 
 Traits are passed on across generations by the means of programs which are recorded when an offspring is created.
 
-### Natural selection
-Natural selection favors the survival of the fittest: a tautology, since 'fittest' is defined in terms of ability to survive and transmit the high-fitness characteristics.
+## Natural selection
+Natural selection favors the survival of the fittest:  
+a tautology, since 'fittest' is defined in terms of ability to survive and transmit the high-fitness characteristics.  
+Better phrasing - long term survival of the better integrated  
+(this sometimes implies an adaption that is suboptimal in the short term).
 
+## Adaptation
+Adaptation that's too effective is a net looser!+++(5)+++  
+If a parasite rapidly multiplies and spreads in a host population, reducing it's size -   
+that could lead to extinction.
+Another example - modern humans vs ecology.
