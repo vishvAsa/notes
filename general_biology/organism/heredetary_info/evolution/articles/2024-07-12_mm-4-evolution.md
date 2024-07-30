@@ -828,12 +828,17 @@ en el contexto de *ese paquete particular*
 
 <details open><summary>en</summary>
 
-In this analogy, cancer is associated with a rogue organ that is no longer working in cooperation with the rest of the system, but draining resources while inflicting harm on itself and other organs.
+In this analogy, cancer is associated with a rogue organ that is no longer working in cooperation with the rest of the system,  
+but draining resources  
+while inflicting harm on itself and other organs.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-En esta analogía, el cáncer se asocia con un órgano deshonesto que ya no trabaja en cooperación con el resto del sistema, sino que drena los recursos al tiempo que inflige daño en sí mismo y en otros órganos.
+En esta analogía, el cáncer se asocia con un órgano deshonesto  que ya no trabaja
+ en cooperación con el resto del sistema,  
+ sino que drena los recursos  
+ al tiempo que inflige daño en sí mismo y en otros órganos.
 </details>
 
 <details open><summary>en</summary>
@@ -843,7 +848,7 @@ It is effectively *at war* with the organism.
 
 <details><summary>es</summary>
 
-Es efectivamente * en la guerra * con el organismo.
+Es efectivamente * en la guerra * con el organismo.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
@@ -853,12 +858,13 @@ The cancer is not vetted by evolution to be part of a “working” arrangement.
 
 <details><summary>es</summary>
 
-El cáncer no es examinado por la evolución de ser parte de un acuerdo de "trabajo".
+El cáncer no es examinado por la evolución  
+de ser parte de un acuerdo de "trabajo".
 </details>
 
 <details open><summary>en</summary>
 
-It will not work long-term: it’s self-terminating.
+It will not work long-term: it’s self-terminating.+++(5)+++
 </details>
 
 <details><summary>es</summary>
@@ -873,7 +879,8 @@ We will return to this theme in the context of modernity later in the series.
 
 <details><summary>es</summary>
 
-Volveremos a este tema en el contexto de la modernidad más adelante en la serie.
+Volveremos a este tema en el contexto de la modernidad  
+más adelante en la serie.
 </details>
 
 ## Survival of the Fittest?  
@@ -891,7 +898,8 @@ Volveremos a este tema en el contexto de la modernidad más adelante en la serie
 
 <details open><summary>en</summary>
 
-Okay, it has a solid basis, but by itself misses the larger point.
+Okay, it has a solid basis,  
+but by itself misses the larger point.
 </details>
 
 <details><summary>es</summary>
@@ -911,52 +919,68 @@ What does “fittest” even mean?
 
 <details open><summary>en</summary>
 
-The construct belies our tendency to separate (divide and conquer) so that we conceive of the squirrel as an isolated entity that could “win” if it just had sharper teeth, better hearing, greater stamina, a larger brain for remembering food storage, etc.
+The construct belies our tendency to separate (divide and conquer)  
+so that we conceive of the squirrel as an isolated entity  
+that could “win” if it just had sharper teeth, better hearing, greater stamina, a larger brain for remembering food storage, etc.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-La construcción desmiente nuestra tendencia a separar (dividir y conquistar) para que concebamos la ardilla como una entidad aislada que podría "ganar" si simplemente tuviera dientes más agudos, mejor audición, mayor resistencia, un cerebro más grande para recordar el almacenamiento de alimentos, etc. .
+La construcción desmiente nuestra tendencia a separar (dividir y conquistar)  
+para que concebamos la ardilla como una entidad aislada  
+que podría "ganar"  
+si simplemente tuviera dientes más agudos, mejor audición, mayor resistencia, un cerebro más grande para recordar el almacenamiento de alimentos, etc. .
 </details>
 
 <details open><summary>en</summary>
 
-But in an ecological context, an adaptation that is *too successful* becomes counterproductive.
+But in an ecological context, an adaptation that is *too successful* becomes counterproductive.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Pero en un contexto ecológico, una adaptación que es * demasiado exitosa * se vuelve contraproducente.
+Pero en un contexto ecológico,  
+una adaptación que es *demasiado exitosa* se vuelve contraproducente.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
 
-A squirrel that remembered every stored nut would fail to inadvertently plant the next generation of trees, so that after a few decades of “crushing it” in their memory games, the forest would be gone and with it the squirrels.
+A squirrel that remembered every stored nut would fail to inadvertently plant the next generation of trees,  
+so that after a few decades of “crushing it” in their memory games,  
+the forest would be gone and with it the squirrels.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Una ardilla que recordaba a cada tuerca almacenada no plantaría inadvertidamente la próxima generación de árboles, de modo que después de unas pocas décadas de "aplastarla" en sus juegos de memoria, el bosque se habría ido y con él las ardillas.
+Una ardilla que recordaba a cada tuerca almacenada  
+no plantaría inadvertidamente la próxima generación de árboles,  
+de modo que después de unas pocas décadas de "aplastarla" en sus juegos de memoria,  
+el bosque se habría ido y con él las ardillas.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
 
-That particular squirrel adaptation would be ruled a failure, so we end up with squirrels that *work*.
+That particular squirrel adaptation would be ruled a failure,  
+so we end up with squirrels that *work*.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Esa adaptación en particular a la ardilla se gobernaría una falla, por lo que terminamos con ardillas que *funcionan *.
+Esa adaptación en particular a la ardilla se gobernó una falla,  
+por lo que terminamos con ardillas que *funcionan*.
 </details>
 
 <details open><summary>en</summary>
 
-Similarly, becoming too successful at hunting prey risks wiping out the prey and thus yourself.
+Similarly, becoming too successful at hunting prey  
+risks wiping out the prey and thus yourself.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Del mismo modo, tener demasiado éxito en la caza presa corre el riesgo de eliminar a la presa y, por lo tanto, usted mismo.
+Del mismo modo, tener demasiado éxito en la caza presa  
+corre el riesgo de eliminar a la presa  
+y, por lo tanto, usted mismo.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
