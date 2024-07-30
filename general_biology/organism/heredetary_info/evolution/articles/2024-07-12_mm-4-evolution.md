@@ -790,27 +790,40 @@ Ecological communities are similar: all play a role and all need each other in s
 
 <details><summary>es</summary>
 
-Las comunidades ecológicas son similares: todas juegan un papel y todos se necesitan de alguna manera porque así es como funciona todo.
+Las comunidades ecológicas son similares:  
+todas juegan un papel  
+y todos se necesitan de alguna manera  
+porque así es como funciona todo.
 </details>
 
 <details open><summary>en</summary>
 
-Whether organs or species: they all evolved together, in relationship, as part of a package, sharing a common goal of surviving.
+Whether organs or species: they all evolved together, in relationship, as part of a package,  
+sharing a common goal of surviving.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Ya sean órganos o especies: todos evolucionaron juntos, en relación, como parte de un paquete, compartiendo un objetivo común de sobrevivir.
+Ya sean órganos o especies:  
+todos evolucionaron juntos, en relación, como parte de un paquete,  
+compartiendo un objetivo común de sobrevivir.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
 
-Any collection of organs or organisms that can survive for millions of years at a time—slowly changing and always in relationship—is testament to the fact that the arrangement **works** in the context of *that particular package* (other variants are not guaranteed to work).
+Any collection of organs or organisms that can survive for millions of years at a time—  
+slowly changing and always in relationship—+++(5)+++  
+is testament to the fact that the arrangement **works** in the context of *that particular package* (other variants are not guaranteed to work).
 </details>
 
 <details><summary>es</summary>
 
-Cualquier colección de órganos u organismos que pueda sobrevivir durante millones de años a la vez, cambiando de relación y siempre en relación, es testimonio del hecho de que la disposición ** funciona ** en el contexto de*ese paquete particular*(otras variantes son no garantizado para trabajar).
+Cualquier colección de órganos u organismos  
+que pueda sobrevivir durante millones de años a la vez,  
+cambiando lentamente y siempre en relación,+++(5)+++  
+es testimonio del hecho de que la disposición **funciona**  
+en el contexto de *ese paquete particular*  
+(otras variantes son no garantizado para trabajar).
 </details>
 
 <details open><summary>en</summary>
