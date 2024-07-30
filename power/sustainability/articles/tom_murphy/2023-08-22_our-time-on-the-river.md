@@ -993,12 +993,16 @@ ya que el estado y el privilegio se bloquean y heredan.
 
 <details open><summary>en</summary>
 
-For some time now, we have been cruising through the realm called *Civilization*, guided by a culture of human supremacy.
+For some time now,  
+we have been cruising through the realm called *Civilization*,  
+guided by a culture of human supremacy.
 </details>
 
 <details><summary>es</summary>
 
-Desde hace algún tiempo, hemos estado navegando a través del reino llamado *civilización *, guiado por una cultura de supremacía humana.
+Desde hace algún tiempo,  
+hemos estado navegando a través del reino llamado *civilización *,  
+guiado por una cultura de supremacía humana.
 </details>
 
 <details open><summary>en</summary>
@@ -1008,7 +1012,8 @@ All of our recorded history is in this context.
 
 <details><summary>es</summary>
 
-Toda nuestra historia grabada está en este contexto.
+Toda nuestra historia grabada  
+está en este contexto.
 </details>
 
 <details open><summary>en</summary>
@@ -1018,7 +1023,8 @@ At every point along the journey to this point, new questions arose.
 
 <details><summary>es</summary>
 
-En cada punto en el viaje a este punto, surgieron nuevas preguntas.
+En cada punto en el viaje a este punto,  
+surgieron nuevas preguntas.
 </details>
 
 <details open><summary>en</summary>
@@ -1028,7 +1034,7 @@ Who is the boss of the security forces?
 
 <details><summary>es</summary>
 
-¿Quién es la jefa de las fuerzas de seguridad? ¿Quién es el jefe de las fuerzas de seguridad?
+¿Quién es la jefa de las fuerzas de seguridad?  
 </details>
 
 <details open><summary>en</summary>
@@ -1063,12 +1069,16 @@ Who adjudicates property rights?
 
 <details open><summary>en</summary>
 
-I had difficulty deciding where to bring in this tributary, since it evolved at every stage and scale from villages to kingdoms.
+I had difficulty deciding where to bring in this tributary,  
+since it evolved at every stage  
+and scale from villages to kingdoms.
 </details>
 
 <details><summary>es</summary>
 
-Tuve dificultades para decidir dónde traer este afluente, ya que evolucionó en cada etapa y escala desde pueblos hasta reinos.
+Tuve dificultades para decidir dónde traer este afluente,  
+ya que evolucionó en cada etapa  
+y escala desde pueblos hasta reinos.
 </details>
 
 <details open><summary>en</summary>
@@ -1078,7 +1088,8 @@ So we rename the river at this point: the river *State*.
 
 <details><summary>es</summary>
 
-Entonces cambiamos el nombre del río en este punto: el río *estado *.
+Entonces cambiamos el nombre del río en este punto:  
+el río *estado *.
 </details>
 
 <details open><summary>en</summary>
@@ -1098,17 +1109,21 @@ I could just as easily have called the realm *State* and the river *Civilization
 
 <details><summary>es</summary>
 
-Podría haber llamado fácilmente el reino *estado *y el río *civilización *, o incluso *supremacía humana *.
-</details>
+Podría haber llamado fácilmente  
+el reino *estado*  
+y el río *civilización*, o incluso *supremacía humana *.
+</details
 
 <details open><summary>en</summary>
 
-Don’t make the mistake of expecting the metaphor to be, you know, accurate.
+Don’t make the mistake of expecting  
+the metaphor to be, you know, accurate.
 </details>
 
 <details><summary>es</summary>
 
-No cometa el error de esperar que la metáfora sea, ya sabes, precisa.
+No cometa el error de esperar  
+que la metáfora sea, ya sabes, precisa.
 </details>
 
 <details open><summary>en</summary>
@@ -1137,32 +1152,47 @@ La vida agrícola es intensiva en el trabajo.
 
 <details open><summary>en</summary>
 
-It also means that individuals have little of the self-sufficient autonomy that most members of a hunter-gatherer tribe possess—where almost everyone shared an impressive suite of skills and could acquire food by their own lights.
+It also means that individuals have little of the self-sufficient autonomy  
+that most members of a hunter-gatherer tribe possess—where almost everyone shared an impressive suite of skills  
+and could acquire food by their own lights.
 </details>
 
 <details><summary>es</summary>
 
-También significa que las personas tienen poco de la autonomía autosuficiente que poseen la mayoría de los miembros de una tribu cazadora-recolectora, donde casi todos compartieron un conjunto impresionante de habilidades y podrían adquirir comida a sus propias luces.
+También significa que las personas tienen poco de la autonomía autosuficiente  
+que poseen la mayoría de los miembros de una tribu cazadora-recolectora,  
+donde casi todos compartieron  
+un conjunto impresionante de habilidades  
+y podrían adquirir comida a sus propias luces.
 </details>
 
 <details open><summary>en</summary>
 
-Once food was the result of a segmented, labor-intensive process placed under lock and key, humans were beholden to power structures, which often were not terribly compassionate.
+Once food was the result of a segmented, labor-intensive process  
+placed under lock and key,  
+humans were beholden to power structures,  
+which often were not terribly compassionate.
 </details>
 
 <details><summary>es</summary>
 
-Una vez que la comida fue el resultado de un proceso segmentado y intensivo en mano de obra colocado bajo cerradura y llave, los humanos estaban en deuda con las estructuras de energía, que a menudo no eran terriblemente compasivas.
+Una vez que la comida fue el resultado de un proceso segmentado y intensivo en mano de obra  
+colocado bajo cerradura y llave,  
+los humanos estaban en deuda con las estructuras de energía,  
+que a menudo no eran terriblemente compasivas.
 </details>
 
+### Slavery
 <details open><summary>en</summary>
 
-Slavery provided necessary labor and was another one of those tributaries that accelerated the flow.
+Slavery provided necessary labor  
+and was another one of those tributaries that accelerated the flow.
 </details>
 
 <details><summary>es</summary>
 
-La esclavitud proporcionó el trabajo necesario y fue otro de esos afluentes que aceleró el flujo.
+La esclavitud proporcionó el trabajo necesario  
+y fue otro de esos afluentes que aceleró el flujo.
 </details>
 
 <details open><summary>en</summary>
@@ -1172,17 +1202,21 @@ It is hard to see how it would *not* have emerged from the conditions unleashed 
 
 <details><summary>es</summary>
 
-Es difícil ver cómo habría surgido * no * de las condiciones desatadas al comprometerse con la corriente agrícola.
+Es difícil ver cómo habría surgido *no*  
+de las condiciones desatadas al comprometerse con la corriente agrícola.
 </details>
 
 <details open><summary>en</summary>
 
-Besides enslaving humans, we have a long and continuing history of enslaving animals to perform services for us (with their food under lock and key).
+Besides enslaving humans, we have a long and continuing history of enslaving animals to perform services for us (with their food under lock and key).+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Además de esclavizar a los humanos, tenemos una larga y continua historia de esclavización de animales para realizar servicios para nosotros (con su comida bajo cerradura y llave).
+Además de esclavizar a los humanos,  
+tenemos una larga y continua historia de esclavización de animales  
+para realizar servicios para nosotros  
+(con su comida bajo cerradura y llave).+++(5)+++
 </details>
 
 <details open><summary>en</summary>
@@ -1192,7 +1226,8 @@ Some may defend the practice as offering shelter, food, parasite control, protec
 
 <details><summary>es</summary>
 
-Algunos pueden defender la práctica como ofreciendo refugio, comida, control de parásitos, protección contra los depredadores y otras comodidades.
+Algunos pueden defender la práctica  
+como ofreciendo refugio, comida, control de parásitos, protección contra los depredadores y otras comodidades.
 </details>
 
 <details open><summary>en</summary>
@@ -1212,47 +1247,62 @@ My question is: if you remove the fences (prison bars; chains), do they still de
 
 <details><summary>es</summary>
 
-Mi pregunta es: si eliminas las cercas (barras de la prisión; cadenas), ¿todavía deciden quedarse?
+Mi pregunta es:  
+si eliminas las cercas (barras de la prisión; cadenas),  
+¿todavía deciden quedarse?
 </details>
 
 <details open><summary>en</summary>
 
-Granted, at this point the genetics of many domesticated species are so compromised as to render them non-viable in the wild—stripped of much of their initial (and considerable) bio-intelligence.
+Granted, at this point the genetics of many domesticated species  
+are so compromised as to render them non-viable in the wild—  
+stripped of much of their initial (and considerable) bio-intelligence.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-De acuerdo, en este punto, la genética de muchas especies domesticadas está tan comprometida que las hace no viables en la naturaleza, con gran parte de su biointeligencia inicial (y considerable).
+De acuerdo, en este punto,  
+la genética de muchas especies domesticadas  
+está tan comprometida  
+que las hace no viables en la naturaleza,  
+con gran parte de su biointeligencia inicial (y considerable).
 </details>
 
 <details open><summary>en</summary>
 
-But what would we think if human slavery had persisted long enough to produce similar genetic alterations and incapacities?
+But what would we think if human slavery had persisted long enough to produce similar genetic alterations and incapacities?+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Pero, ¿qué pensaríamos si la esclavitud humana hubiera persistido lo suficiente como para producir alteraciones e incapacidades genéticas similares?
+Pero, ¿qué pensaríamos si la esclavitud humana hubiera  
+persistido lo suficiente  
+como para producir alteraciones e incapacidades genéticas similares?
 </details>
 
 <details open><summary>en</summary>
 
-Would that then make it okay to retain institutionally-dulled humans as slaves?
+Would that then make it okay  
+to retain institutionally-dulled humans as slaves?
 </details>
 
 <details><summary>es</summary>
 
-¿Eso haría que sea bien retener a los humanos de emisión institucional como esclavos?
+¿Eso haría que sea bien  
+retener a los humanos de emisión institucional como esclavos?
 </details>
 
 <details open><summary>en</summary>
 
-Humans are animals, too, and applying different rules and considerations is a hallmark of human supremacy.
+Humans are animals, too,  
+and applying different rules and considerations is a hallmark of human supremacy.
 </details>
 
 <details><summary>es</summary>
 
-Los humanos también son animales, y la aplicación de diferentes reglas y consideraciones es un sello distintivo de la supremacía humana.
+Los humanos también son animales,  
+y la aplicación de diferentes reglas y consideraciones  
+es un sello distintivo de la supremacía humana.
 </details>
 
 ### Objectification and Exploitation
@@ -1261,12 +1311,14 @@ Los humanos también son animales, y la aplicación de diferentes reglas y consi
 
 <details open><summary>en</summary>
 
-This is not so much a tributary as a characterization of the rain that sourced *all* these tributaries.
+This is not so much a tributary as a characterization of the rain  
+that sourced *all* these tributaries.
 </details>
 
 <details><summary>es</summary>
 
-Esto no es tanto un afluente como una caracterización de la lluvia que obtuvo * todos * estos afluentes.
+Esto no es tanto un afluente  
+como una caracterización de la lluvia que obtuvo *todos* estos afluentes.
 </details>
 
 <details open><summary>en</summary>
@@ -1281,12 +1333,20 @@ Pero tiene más sentido hablar de ello ahora.
 
 <details open><summary>en</summary>
 
-As soon as we take control of who lives and dies (crops, weeds, pests, animals), decide that we can “own” land, accumulate a lot of “things,” commodify food, and transform living beings into property, we have stepped deep into dangerous territory.
+As soon as we take control of who lives and dies (crops, weeds, pests, animals),+++(5)+++  
+decide that we can “own” land,  
+accumulate a lot of “things,”  
+commodify food, and transform living beings into property,  
+we have stepped deep into dangerous territory.
 </details>
 
 <details><summary>es</summary>
 
-Tan pronto como tomamos el control de quién vive y muere (cultivos, malezas, plagas, animales), decidimos que podemos "poseer" tierras, acumular muchas "cosas", mercantilizar la comida y transformar los seres vivos en la propiedad, tenemos Pasó profundamente en territorio peligroso.
+Tan pronto como tomamos el control de quién vive y muere (cultivos, malezas, plagas, animales),  
+decidimos que podemos "poseer" tierras,  
+acumular muchas "cosas",  
+mercantilizar la comida y transformar los seres vivos en la propiedad,  
+tenemos Pasó profundamente en territorio peligroso.
 </details>
 
 <details open><summary>en</summary>
@@ -1296,7 +1356,9 @@ It is no surprise that such a culture would develop an ingrained sense of human 
 
 <details><summary>es</summary>
 
-No es sorprendente que tal cultura desarrolle un sentido arraigado de supremacía humana.
+No es sorprendente  
+que tal cultura desarrolle  
+un sentido arraigado de supremacía humana.
 </details>
 
 <details open><summary>en</summary>
@@ -1306,7 +1368,8 @@ Even our language reflects this transformation.
 
 <details><summary>es</summary>
 
-Incluso nuestro lenguaje refleja esta transformación.
+Incluso nuestro lenguaje  
+refleja esta transformación.
 </details>
 
 <details open><summary>en</summary>
@@ -1316,7 +1379,8 @@ Compared to many Indigenous languages, the languages of modernity are very noun-
 
 <details><summary>es</summary>
 
-En comparación con muchos idiomas indígenas, los idiomas de la modernidad son muy pesados.
+En comparación con muchos idiomas indígenas,  
+los idiomas de la modernidad son muy pesados en sustantivos.
 </details>
 
 <details open><summary>en</summary>
@@ -1326,17 +1390,24 @@ Lots of *things*.
 
 <details><summary>es</summary>
 
-Muchas cosas*.
+Muchas *cosas*.
 </details>
 
 <details open><summary>en</summary>
 
-Trees, rivers, and fish are all objectified things to us that are simply resources available for exploitation, whereas Indigenous languages are verb-heavy.
+Trees, rivers, and fish  
+are all objectified things to us  
+that are simply resources available for exploitation,  
+whereas Indigenous languages are verb-heavy.
 </details>
 
 <details><summary>es</summary>
 
-Los árboles, los ríos y los peces son cosas objetivadas para nosotros que son simplemente recursos disponibles para la explotación, mientras que los idiomas indígenas son pesados con verbo.
+Los árboles, los ríos y los peces  
+son cosas objetivadas para nosotros  
+que son simplemente recursos disponibles para la explotación,  
+mientras que los idiomas indígenas  
+son pesados con verbo.
 </details>
 
 <details open><summary>en</summary>
@@ -1356,7 +1427,11 @@ In this sense, such languages are animist: imbuing the entities around us with a
 
 <details><summary>es</summary>
 
-En este sentido, tales idiomas son animistas: imbuyendo a las entidades que nos rodean con una fuerza vital, dinámica y una bio-Inteligencia que se debió a la hazaña pura y no trivial de una larga supervivencia.
+En este sentido, tales idiomas son animistas:  
+imbuyendo a las entidades que nos rodean  
+con una fuerza vital, dinámica y una bio-Inteligencia  
+que se debió a la hazaña pura y no trivial  
+de una larga supervivencia.
 </details>
 
 <details open><summary>en</summary>
@@ -1366,7 +1441,11 @@ General-purpose money—exchangeable for practically anything of value—is an o
 
 <details><summary>es</summary>
 
-El dinero general de uso general, excitable para prácticamente cualquier cosa de valor, es una manifestación externa de esta objetivación, y llegó como un socio aparentemente inevitable a nuestras formas agrícolas objetivantes.
+El dinero general de uso general,  
+excitable para prácticamente cualquier cosa de valor,  
+es una manifestación externa de esta objetivación,  
+y llegó como un socio aparentemente inevitable  
+a nuestras formas agrícolas objetivantes.
 </details>
 
 <details open><summary>en</summary>
@@ -1376,7 +1455,8 @@ This construct facilitated and accelerated the pace of unfortunate, exploitative
 
 <details><summary>es</summary>
 
-Esta construcción facilitó y aceleró el ritmo de decisiones desafortunadas y explotadoras.
+Esta construcción facilitó y aceleró  
+el ritmo de decisiones desafortunadas y explotadoras.
 </details>
 
 ### Ecological Ills
@@ -1385,27 +1465,34 @@ Esta construcción facilitó y aceleró el ritmo de decisiones desafortunadas y 
 
 <details open><summary>en</summary>
 
-Having established the core character of the now swiftly-flowing river, it begins to exercise erosive power over the landscape.
+Having established the core character of the now swiftly-flowing river,  
+it begins to exercise erosive power over the landscape.
 </details>
 
 <details><summary>es</summary>
 
-Habiendo establecido el personaje central del río ahora fluido rápidamente, comienza a ejercer un poder erosivo sobre el paisaje.
+Habiendo establecido el personaje central  
+del río ahora fluido rápidamente,  
+comienza a ejercer un poder erosivo sobre el paisaje.
 </details>
 
 <details open><summary>en</summary>
 
-Early on, it became apparent that totalitarian agriculture was a form of soil mining.
+Early on, it became apparent that totalitarian agriculture  
+was a form of soil mining.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Al principio, se hizo evidente que la agricultura totalitaria era una forma de minería del suelo.
+Al principio,  
+se hizo evidente  
+que la agricultura totalitaria  
+era una forma de minería del suelo.
 </details>
 
 <details open><summary>en</summary>
 
-Nutrients were depleted.
+Nutrients were depleted.+++(4)+++
 </details>
 
 <details><summary>es</summary>
@@ -1415,7 +1502,7 @@ Los nutrientes se agotaron.
 
 <details open><summary>en</summary>
 
-Salt accumulated from irrigation.
+Salt accumulated from irrigation.+++(4)+++
 </details>
 
 <details><summary>es</summary>
@@ -1425,22 +1512,27 @@ La sal acumulada por el riego.
 
 <details open><summary>en</summary>
 
-Tilled soil lost its root structures and blew or washed away.
+Tilled soil lost its root structures and blew or washed away.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-El suelo labrado perdió sus estructuras de raíz y sopló o se lavó.
+El suelo labrado perdió sus estructuras de raíz  
+y sopló o se lavó.
 </details>
 
 <details open><summary>en</summary>
 
-What was once a forest, then a crop field, became a spent desert—a bad bargain for the community of life.
+What was once a forest, then a crop field,  
+became a spent desert—a bad bargain for the community of life.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Lo que una vez fue un bosque, luego un campo de cultivo, se convirtió en un desierto gastado, un mal trato para la comunidad de la vida.
+Lo que una vez fue un bosque,  
+luego un campo de cultivo,  
+se convirtió en un desierto gastado,  
+un mal trato para la comunidad de la vida.
 </details>
 
 <details open><summary>en</summary>
@@ -1450,7 +1542,8 @@ Habitats were ruined and lost forever.
 
 <details><summary>es</summary>
 
-Los hábitats fueron arruinados y perdidos para siempre.
+Los hábitats fueron arruinados  
+y perdidos para siempre.
 </details>
 
 <details open><summary>en</summary>
@@ -1460,7 +1553,8 @@ Species were unwittingly driven to extinction as collateral damage.
 
 <details><summary>es</summary>
 
-Las especies fueron conducidas involuntariamente a la extinción como daño colateral.
+Las especies fueron conducidas involuntariamente a la extinción  
+como daño colateral.
 </details>
 
 <details open><summary>en</summary>
@@ -1470,27 +1564,31 @@ This segment of the map is riddled with tributaries representing one or another 
 
 <details><summary>es</summary>
 
-Este segmento del mapa está plagado de afluentes que representan uno u otro tragedia ecológica.
+Este segmento del mapa está plagado de afluentes  
+que representan uno u otro tragedia ecológica.
 </details>
 
 <details open><summary>en</summary>
 
-Civilization built itself up at the expense of ecological health.
+Civilization built itself up at the expense of ecological health.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-La civilización se construyó a expensas de la salud ecológica.
+La civilización se construyó  
+a expensas de la salud ecológica.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
 
-We lack evidence that one is possible without the other.
+We lack evidence that one is possible without the other.  
++++(Amazon rain forst and charcoal black soil??)+++
 </details>
 
 <details><summary>es</summary>
 
-Nos falta evidencia de que uno sea posible sin el otro.
+Nos falta evidencia de que  
+uno sea posible sin el otro.
 </details>
 
 ### Science
@@ -1499,12 +1597,14 @@ Nos falta evidencia de que uno sea posible sin el otro.
 
 <details open><summary>en</summary>
 
-This isn’t just another tributary, but the confluence of a fully-formed (even larger) river.
+This isn’t just another tributary,  
+but the confluence of a fully-formed (even larger) river.
 </details>
 
 <details><summary>es</summary>
 
-Este no es solo otro afluente, sino la confluencia de un río completamente formado (incluso más grande).
+Este no es solo otro afluente,  
+sino la confluencia de un río completamente formado (incluso más grande).
 </details>
 
 <details open><summary>en</summary>
@@ -1514,7 +1614,7 @@ Up to this point, a key subtext has been **control**: over plants, animals/human
 
 <details><summary>es</summary>
 
-Hasta este punto, un subtexto clave ha sido ** Control **: sobre plantas, animales/humanos y el medio ambiente en general.
+Hasta este punto, un subtexto clave ha sido **Control**: sobre plantas, animales/humanos y el medio ambiente en general.
 </details>
 
 <details open><summary>en</summary>
@@ -1524,7 +1624,8 @@ Science (or perhaps more generally the Enlightenment) provided systematic tools 
 
 <details><summary>es</summary>
 
-La ciencia (o quizás en general la iluminación) proporcionó herramientas sistemáticas para un control más efectivo.
+La ciencia (o quizás en general la iluminación) proporcionó herramientas sistemáticas  
+para un control más efectivo.
 </details>
 
 <details open><summary>en</summary>
@@ -1534,17 +1635,24 @@ Experiments methodically improved our understanding and ability to predict and m
 
 <details><summary>es</summary>
 
-Los experimentos mejoraron metódicamente nuestra comprensión y capacidad para predecir y manipular el mundo en el que vivimos.
+Los experimentos mejoraron metódicamente nuestra comprensión y capacidad  
+para predecir y manipular el mundo en el que vivimos.
 </details>
 
 <details open><summary>en</summary>
 
-At almost every turn, this knowledge was used to increase profit, increase the human footprint, and drive technological development—all to provide goods and services to a single exploding species in the short term.
+At almost every turn, this knowledge was used to increase profit, increase the human footprint, and drive technological development—  
+all to provide goods and services to a single exploding species in the short term.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-En casi cada paso, este conocimiento se utilizó para aumentar las ganancias, aumentar la huella humana e impulsar el desarrollo tecnológico, todo para proporcionar bienes y servicios a una sola especie explosiva a corto plazo.
+En casi cada paso,  
+este conocimiento se utilizó para aumentar las ganancias,  
+aumentar la huella humana  
+e impulsar el desarrollo tecnológico,  
+todo para proporcionar bienes y servicios  
+a una sola especie explosiva a corto plazo.
 </details>
 
 <details open><summary>en</summary>
@@ -1554,7 +1662,8 @@ The primary application of this knowledge has *not* been to benefit the entire c
 
 <details><summary>es</summary>
 
-La aplicación principal de este conocimiento * no * ha sido beneficiar a toda la comunidad de la vida, y generalmente ha tenido un efecto bastante opuesto.
+La aplicación principal de este conocimiento *no* ha sido beneficiar a toda la comunidad de la vida,  
+y generalmente ha tenido un efecto bastante opuesto.
 </details>
 
 <details open><summary>en</summary>
@@ -1564,7 +1673,9 @@ The introduction of science marked the beginning of a rapid acceleration of the 
 
 <details><summary>es</summary>
 
-La introducción de la ciencia marcó el comienzo de una aceleración rápida de la empresa moderna.
+La introducción de la ciencia  
+marcó el comienzo de una aceleración rápida  
+de la empresa moderna.
 </details>
 
 <details open><summary>en</summary>
@@ -1574,7 +1685,8 @@ It deepened the sense of separateness and transcendence from nature.
 
 <details><summary>es</summary>
 
-Profundizó la sensación de separación y trascendencia de la naturaleza.
+Profundizó la sensación de separación y trascendencia  
+de la naturaleza.
 </details>
 
 <details open><summary>en</summary>
@@ -1584,7 +1696,9 @@ It planted the false notion that we could overcome any limit—ultimately perhap
 
 <details><summary>es</summary>
 
-Plantó la falsa noción de que podríamos superar cualquier límite, al mismo tiempo que quizás incluso la muerte misma.
+Plantó la falsa noción de  
+que podríamos superar cualquier límite,  
+al mismo tiempo que quizás incluso la muerte misma.
 </details>
 
 <details open><summary>en</summary>
@@ -1599,12 +1713,15 @@ Era el elixir de las ambiciones piadosas.
 
 <details open><summary>en</summary>
 
-I can hardly overstate how much of a game changer it was to merge our already-destructive stream with science.
+I can hardly overstate how much of a game changer it was  
+to merge our already-destructive stream with science.
 </details>
 
 <details><summary>es</summary>
 
-Apenas puedo exagerar cuánto cambia de juego fue fusionar nuestra transmisión ya destructiva con la ciencia.
+Apenas puedo exagerar  
+cuánto cambia de juego fue  
+fusionar nuestra transmisión ya destructiva con la ciencia.
 </details>
 
 <details open><summary>en</summary>
@@ -1614,8 +1731,16 @@ Incidentally, the science label here also covers technology, as an application o
 
 <details><summary>es</summary>
 
-Por cierto, la etiqueta científica aquí también cubre la tecnología, como una aplicación del enfoque científico.
+Por cierto, la etiqueta científica aquí también cubre la tecnología,  
+como una aplicación del enfoque científico.
 </details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+​@tommurphy2694  Thanks. I particularly seek elaboration on these physical limits.  
+E.g., why shifting cultivation can't handle salinity? Why not use permaculture to forego erosion even with ploughing? (Rain-fed farming has worked thus consistently for 2k+ years) What if most of earth is mostly turned into a big garden - why's that unsustainable? Why won't the mere subtraction of fossil fuels suffice?
+</details>
+
 
 ### Fossil Fuels
   
@@ -1623,22 +1748,29 @@ Por cierto, la etiqueta científica aquí también cubre la tecnología, como un
 
 <details open><summary>en</summary>
 
-As if the Enlightenment was not enough, in quick succession we joined another enormous river.
+As if the Enlightenment was not enough,  
+in quick succession we joined another enormous river.
 </details>
 
 <details><summary>es</summary>
 
-Como si la iluminación no fuera suficiente, en rápida sucesión nos unimos a otro enorme río.
+Como si la iluminación no fuera suficiente,  
+en rápida sucesión  
+nos unimos a otro enorme río.
 </details>
 
 <details open><summary>en</summary>
 
-One could say that the process of science opened the door to fossil fuels, but science and fossil fuels might be best described as a dynamic duo.
+One could say that the process of science opened the door to fossil fuels,  
+but science and fossil fuels might be best described as a dynamic duo.
 </details>
 
 <details><summary>es</summary>
 
-Se podría decir que el proceso de ciencia abrió la puerta a los combustibles fósiles, pero la ciencia y los combustibles fósiles podrían describirse mejor como un dúo dinámico.
+Se podría decir  
+que el proceso de ciencia abrió la puerta a los combustibles fósiles,  
+pero la ciencia y los combustibles fósiles  
+podrían describirse mejor como un dúo dinámico.
 </details>
 
 <details open><summary>en</summary>
@@ -1648,7 +1780,9 @@ Fossil fuels gave us the **power** to advance our science-amplified degree of co
 
 <details><summary>es</summary>
 
-Los combustibles fósiles nos dieron el poder ** ** para avanzar en nuestro grado de control amplificado de la ciencia a un nivel completamente nuevo.
+Los combustibles fósiles nos dieron el **poder**  
+para avanzar en nuestro grado de control amplificado de la ciencia  
+a un nivel completamente nuevo.
 </details>
 
 <details open><summary>en</summary>
@@ -1658,47 +1792,59 @@ Resources that had been previously inaccessible became available.
 
 <details><summary>es</summary>
 
-Los recursos que habían sido previamente inaccesibles estuvieron disponibles.
+Los recursos que habían sido previamente inaccesibles  
+estuvieron disponibles.
 </details>
 
 <details open><summary>en</summary>
 
-It became far easier to clear land for agriculture and other uses.
+It became far easier to clear land for agriculture and other uses.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Se hizo mucho más fácil limpiar la tierra para la agricultura y otros usos.
+Se hizo mucho más fácil  
+limpiar la tierra para la agricultura y otros usos.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
 
-We learned to make fertilizer from methane, unleashing unprecedented agricultural surpluses that inevitably resulted in a human population overshoot.
+We learned to make fertilizer from methane,  
+unleashing unprecedented agricultural surpluses that inevitably resulted in a human population overshoot.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Aprendimos a hacer fertilizantes a partir de metano, desatando excedentes agrícolas sin precedentes que inevitablemente dieron como resultado un sobrepeso de población humana.
+Aprendimos a hacer fertilizantes a partir de metano,  
+desatando excedentes agrícolas sin precedentes  
+que inevitablemente dieron como resultado  
+un sobrepeso de población humana.
 </details>
 
 <details open><summary>en</summary>
 
-Fossil-fueled furnaces led to steel, concrete, and other materials on a massive scale, paving the way to megacities and global trade.
+Fossil-fueled furnaces led to steel, concrete, and other materials on a massive scale,  
+paving the way to megacities and global trade.
 </details>
 
 <details><summary>es</summary>
 
-Los hornos alimentados con fósiles condujeron a acero, concreto y otros materiales a gran escala, allanando el camino hacia las megacidades y el comercio global.
+Los hornos alimentados con fósiles condujeron a acero, concreto y otros materiales a gran escala,  
+allanando el camino hacia las megacidades y el comercio global.
 </details>
 
 <details open><summary>en</summary>
 
-Science itself was amplified by having access to fossil fuels, via a flood of new devices and capabilities invented with—and powered by—cheap energy.
+Science itself was amplified by having access to fossil fuels,  
+via a flood of new devices and capabilities invented with—and powered by — cheap energy.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-La ciencia misma se amplificó al tener acceso a combustibles fósiles, a través de una avalancha de nuevos dispositivos y capacidades inventadas con energía y energía.
+La ciencia misma se amplificó  
+al tener acceso a combustibles fósiles,  
+a través de una avalancha de nuevos dispositivos y capacidades  
+inventadas con energía barata.
 </details>
 
 <details open><summary>en</summary>
@@ -1708,17 +1854,22 @@ Advances in science and technology in turn allowed greater access to buried foss
 
 <details><summary>es</summary>
 
-Los avances en ciencia y tecnología a su vez permitieron un mayor acceso a la energía fósil enterrada.
+Los avances en ciencia y tecnología  
+a su vez permitieron  
+un mayor acceso a la energía fósil enterrada.
 </details>
 
 <details open><summary>en</summary>
 
-This positive feedback arrangement facilitated runaway expansion of the enterprise, leading to a [battery of hockey stick curves](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/).
+This positive feedback arrangement facilitated runaway expansion of the enterprise,  
+leading to a [battery of hockey stick curves](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/).
 </details>
 
 <details><summary>es</summary>
 
-Esta disposición de retroalimentación positiva facilitó la expansión fugitiva de la empresa, lo que llevó a una [batería de curvas de palo de hockey] (https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/).
+Esta disposición de retroalimentación positiva  
+facilitó la expansión fugitiva de la empresa,  
+lo que llevó a una [batería de curvas de palo de hockey](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/).
 </details>
 
 <details open><summary>en</summary>
@@ -1733,32 +1884,43 @@ Now we find ourselves racing along in a raging torrent!
 
 <details open><summary>en</summary>
 
-It is both thrilling to think of the seemingly infinite possibilities, and scary to realize how precarious our position has become.
+It is both thrilling to think of the seemingly infinite possibilities,  
+and scary to realize how precarious our position has become.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Es emocionante pensar en las posibilidades aparentemente infinitas, y aterrador darse cuenta de cuán precaria se ha vuelto nuestra posición.
+Es emocionante pensar en las posibilidades aparentemente infinitas,  
+y aterrador darse cuenta de cuán precaria  
+se ha vuelto nuestra posición.
 </details>
 
 <details open><summary>en</summary>
 
-On the dramatic end, we have developed the power to annihilate most life on Earth in a matter of minutes.
+On the dramatic end,  
+we have developed the power to annihilate most life on Earth in a matter of minutes.
 </details>
 
 <details><summary>es</summary>
 
-En el fin dramático, hemos desarrollado el poder de aniquilar la mayor parte de la vida en la tierra en cuestión de minutos.
+En el fin dramático,  
+hemos desarrollado el poder de aniquilar  
+la mayor parte de la vida en la tierra  
+en cuestión de minutos.
 </details>
 
 <details open><summary>en</summary>
 
-But just in case nuclear war did not come to pass, we set about annihilating life on a more modest schedule of a century or so.
+But just in case nuclear war did not come to pass,  
+we set about annihilating life on a more modest schedule of a century or so.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Pero en caso de que la guerra nuclear no se haya aprobado, nos propusimos aniquilar la vida en un horario más modesto de un siglo más o menos.
+Pero en caso de que la guerra nuclear no se haya aprobado,  
+nos propusimos aniquilar la vida  
+en un horario más modesto  
+de un siglo más o menos.+++(5)+++
 </details>
 
 ### Ecocide and the Boat
@@ -1772,17 +1934,22 @@ I no longer seem to be able to write a post without calling attention to the tra
 
 <details><summary>es</summary>
 
-Ya no parece poder escribir una publicación sin llamar la atención sobre la trágica y rápida disminución de las poblaciones de animales salvajes (ver [Death by Hockey Sticks] (https://dothemath.ucsd.edu/2022/09/death-by -palos de hockey/)).
+Ya no parece poder escribir una publicación  
+sin llamar la atención  
+sobre la trágica y rápida disminución de las poblaciones de animales salvajes (ver [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/)).
 </details>
 
 <details open><summary>en</summary>
 
-Our raging river is rapidly eroding the foundations of biodiversity—drowning out most life and extinguishing the vitality of the planet.
+Our raging river is rapidly eroding the foundations of biodiversity—  
+drowning out most life and extinguishing the vitality of the planet.
 </details>
 
 <details><summary>es</summary>
 
-Nuestro río Raging está erosionando rápidamente los cimientos de la biodiversidad, eliminando la mayor parte de la vida y extinguiendo la vitalidad del planeta.
+Nuestro río furioso está erosionando rápidamente los cimientos de la biodiversidad,  
+eliminando la mayor parte de la vida  
+y extinguiendo la vitalidad del planeta.
 </details>
 
 <details open><summary>en</summary>
@@ -1802,7 +1969,8 @@ How are we, ourselves, surviving the turbulence and not drowning?
 
 <details><summary>es</summary>
 
-¿Cómo estamos nosotros mismos, sobreviviendo la turbulencia y no ahogando?
+¿Cómo estamos nosotros mismos,  
+sobreviviendo la turbulencia y no ahogando?
 </details>
 
 <details open><summary>en</summary>
@@ -1812,7 +1980,7 @@ Well, first let’s point out that billions of people *are* struggling to keep t
 
 <details><summary>es</summary>
 
-Bueno, primero señalemos que miles de millones de personas * están * luchando por mantener sus cabezas por encima del agua en el sistema actual.
+Bueno, primero señalemos que miles de millones de personas *están* luchando por mantener sus cabezas por encima del agua en el sistema actual.
 </details>
 
 <details open><summary>en</summary>

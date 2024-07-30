@@ -63,3 +63,24 @@ In case you thought I was kidding this is actually a quote from something approv
 > Such claims for athletic prowess are lazy biological essentialism, heavily doped with racism.
 > 
 > It appears that they want to use their offices to deny the obvious for things like athletic differences are the most obvious signal that the emperor's genitalia are indeed visible
+
+## Anti Verbal IQ bias
+Source: [TW](https://x.com/blog_supplement/status/1818106785460285717)  
+This claim about verbal IQ is a highly flawed take on this matter.  
+This seems to follow the boosterism of Hsu who favors shape rotators to "wordcels",  
+seeing the later as less intelligent (perhaps an ethnic bias creeping in).  
+Similarly, one could claim that due to our IA culture giving primacy to verbal IQ,  
+we would be biased to favor the "wordcels".  
+
+However, one may note that the early Internet IQ researcher La Griffe du Lion had pointed out to the IQ x GDP correlation  
+was specifically related to the verbal component.  
+While some have tried to counter that claim of his,  
+I remain unconvinced by these rebuttals. 
+
+I just suspect there is a serious bias on part of those hammering "wordcels"  
+in underappreciating the real world utility of verbal IQ  
+and its superiority over pure over a somewhat autistic population of rotators. 
+The success of chatGPT/Dall-E gives you some insight into this.
+
+### g correlation
+As per the theory of g both verbal and rotator iq stem from a common factor g. While IQ tests are designed to capture g as much as possible, they might not succeed in doing so. The so called "g loading" of tests differ be they testing math or verb IQ
