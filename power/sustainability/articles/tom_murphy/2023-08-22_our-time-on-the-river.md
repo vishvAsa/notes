@@ -1929,7 +1929,8 @@ de un siglo más o menos.+++(5)+++
 
 <details open><summary>en</summary>
 
-I no longer seem to be able to write a post without calling attention to the tragic and rapid decline in wild animal populations (see [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/)).
+I no longer seem to be able to write a post  
+without calling attention to the tragic and rapid decline in wild animal populations (see [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/)).
 </details>
 
 <details><summary>es</summary>
@@ -1959,7 +1960,8 @@ We have succeeded in [whittling down wild land mammals to 2.5 kg per person](htt
 
 <details><summary>es</summary>
 
-Hemos tenido éxito en [Whittling Down Wild Land Mammals a 2.5 kg por persona] (https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/), lo suficiente como para ahogarse en la bañera (o fregadero, en realidad).
+Hemos tenido éxito en [reductora Mamíferos de tierra salvaje a 2.5 kg por persona](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/),  
+lo suficiente como para ahogarse en la bañera (o fregadero, en realidad).
 </details>
 
 <details open><summary>en</summary>
@@ -1980,37 +1982,42 @@ Well, first let’s point out that billions of people *are* struggling to keep t
 
 <details><summary>es</summary>
 
-Bueno, primero señalemos que miles de millones de personas *están* luchando por mantener sus cabezas por encima del agua en el sistema actual.
+Bueno, primero señalemos que miles de millones de personas  
+*están* luchando por mantener sus cabezas por encima del agua en el sistema actual.
 </details>
 
 <details open><summary>en</summary>
 
-Not everyone enjoys the fruits of all this extraction, exploitation, and expansion into various habitats.
+Not everyone enjoys the fruits of all this extraction, exploitation, and expansion into various habitats.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-No todos disfrutan los frutos de toda esta extracción, explotación y expansión en varios hábitats.
+No todos disfrutan los frutos de toda esta extracción, explotación y expansión en varios hábitats.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
 
-In the river metaphor, I think of a boat built out of technology that keeps the luckier ones dry and safe.
+In the river metaphor, I think of a boat built out of technology that keeps the luckier ones dry and safe.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-En la metáfora del río, pienso en un bote construido con tecnología que mantiene a los más afortunados secos y seguros.
+En la metáfora del río,  
+pienso en un bote construido con tecnología  
+que mantiene a los más afortunados secos y seguros.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
 
-It started simply centuries ago, as a few crude logs bound together into a raft.
+It started simply centuries ago,  
+as a few crude logs bound together into a raft.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Comenzó simplemente hace siglos, como unos pocos registros crudos unidos en una balsa.
+Comenzó simplemente hace siglos,  
+como unos pocos registros crudos unidos en una balsa.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
@@ -2020,27 +2027,29 @@ Constant improvements resulted in today’s marvel, complete with LED-illuminate
 
 <details><summary>es</summary>
 
-Las mejoras constantes dieron como resultado el Marvel de hoy, completo con portavasos Bluetooth LED-iluminados.
+Las mejoras constantes dieron como resultado el Marvel de hoy,  
+completo con portavasos Bluetooth LED-iluminados.
 </details>
 
 <details open><summary>en</summary>
 
-The boat has a name: Modernity.
+The boat has a name: Modernity.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-El barco tiene un nombre: modernidad.
+El barco tiene un nombre: modernidad.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
 
-We also make room on the boat for *some* selected plants and animals.
+We also make room on the boat for *some* selected plants and animals.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-También hacemos espacio en el bote para * algunas * plantas y animales seleccionados.
+También hacemos espacio en el bote  
+para *algunas* plantas y animales seleccionados.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
@@ -2050,7 +2059,9 @@ It’s like Noah’s Ark, except that we dispatch most animals (and some people)
 
 <details><summary>es</summary>
 
-Es como el arca de Noé, excepto que enviamos a la mayoría de los animales (y algunas personas) que intentan subir a bordo.
+Es como el arca de Noé,  
+excepto que enviamos a la mayoría de los animales (y algunas personas)  
+que intentan subir a bordo.
 </details>
 
 <details open><summary>en</summary>
@@ -2084,7 +2095,9 @@ One feature of the river metaphor is a sense of inevitability, as was emphasized
 
 <details><summary>es</summary>
 
-Una característica de la metáfora del río es una sensación de inevitabilidad, como se enfatizó en [el viaje de nuestras vidas] (https://dothemath.ucsd.edu/2022/07/the-ride-of-our-lives/).
+Una característica de la metáfora del río  
+es una sensación de inevitabilidad,  
+como se enfatizó en [El viaje de nuestras vidas] (https://dothemath.ucsd.edu/2022/07/the-ride-of-our-lives/).
 </details>
 
 <details open><summary>en</summary>
@@ -2094,17 +2107,22 @@ Logical consequences (all those associated tributaries) teamed up with game theo
 
 <details><summary>es</summary>
 
-Consecuencias lógicas (todos esos afluentes asociados) se asociaron con la teoría de juegos para garantizar el dominio del monstruo agrícola, tecnológico, industrial, científico, impulsado por el mercado y alimentado por fósiles.
+Consecuencias lógicas (todos esos afluentes asociados) se asociaron con la teoría de juegos  
+para garantizar el dominio del monstruo agrícola, tecnológico, industrial, científico, impulsado por el mercado y alimentado por fósiles.
 </details>
 
 <details open><summary>en</summary>
 
-This system had the adolescent power to overwhelm older, wiser, gentler ways, and required little thought or deliberate design: just go with the flow, and stay in the center of the channel to maximize speed.
+This system had the adolescent power to overwhelm older, wiser, gentler ways, and required little thought or deliberate design: just go with the flow, and stay in the center of the channel to maximize speed.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Este sistema tenía el poder adolescente de abrumar, más antiguos, más sabios y más suaves, y requería poco pensamiento o diseño deliberado: simplemente vaya con el flujo y permanezca en el centro del canal para maximizar la velocidad.
+Este sistema tenía el poder adolescente de abrumar, más antiguos, más sabios y más suaves,  
+y requería poco pensamiento o diseño deliberado:  
+simplemente vaya con el flujo  
+y permanezca en el centro del canal  
+para maximizar la velocidad.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
@@ -2124,7 +2142,14 @@ A system dependent on growth, stacked to favor one species in the very short ter
 
 <details><summary>es</summary>
 
-Un sistema que depende del crecimiento, apilado para favorecer a una especie a muy corto plazo, que depende completamente de materiales no renovables y energía abundante temporalmente, que borra la salud ecológica, objetivan la naturaleza y deja decisiones importantes de dinero sin sentido. , moda eficiente y optimizada.
+Un sistema que depende del crecimiento,  
+apilado para favorecer a una especie a muy corto plazo,  
+que depende completamente de materiales no renovables y energía abundante temporalmente,  
+que borra la salud ecológica,  
+objetivan la naturaleza  
+y deja decisiones importantes de dinero sin sentido,  
+escribe su propia desaparición  
+de la manera más elegante, eficiente y optimizada.
 </details>
 
 <details open><summary>en</summary>
@@ -2134,7 +2159,8 @@ This churning, awesome mega-river leads itself over a [waterfall](https://dothem
 
 <details><summary>es</summary>
 
-Este mega-river agitante e impresionante se conduce sobre una [cascada] (https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/).
+Este mega-river agitante e impresionante  
+se conduce sobre una [cascada](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/).
 </details>
 
 <details open><summary>en</summary>
@@ -2149,42 +2175,53 @@ Eso es justo lo que hace.
 
 <details open><summary>en</summary>
 
-It was always so, but not at all obvious from upstream.
+It was always so, but not at all obvious from upstream.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Siempre fue así, pero no es obvio de aguas arriba.
+Siempre fue así, pero no es obvio de aguas arriba.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
 
-Even now, so close to the edge, our vantage point on the river is the least advantageous for seeing the waterfall clearly, so that most people are still unaware or unconvinced.
+Even now, so close to the edge,  
+our vantage point on the river is the least advantageous for seeing the waterfall clearly,  
+so that most people are still unaware or unconvinced.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Incluso ahora, tan cerca del borde, nuestro punto de vista en el río es el menos ventajoso para ver claramente la cascada, por lo que la mayoría de las personas aún no son conscientes o no están convencidas.
+Incluso ahora, tan cerca del borde,  
+nuestro punto de vista en el río  
+es el menos ventajoso  
+para ver claramente la cascada,  
+por lo que la mayoría de las personas  
+aún no son conscientes o no están convencidas.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
 
-But increasing numbers of people see the clouds of mist and hear a mounting sound of continuous thunder.
+But increasing numbers of people  
+see the clouds of mist and hear a mounting sound of continuous thunder.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Pero un número creciente de personas ven las nubes de la niebla y escucha un sonido creciente de truenos continuos.
+Pero un número creciente de personas  
+ven las nubes de la niebla  
+y escucha un sonido creciente de truenos continuos.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
 
-Others at least sense that something is not quite right.
+Others at least sense that something is not quite right.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Otros al menos sienten que algo no está del todo bien.
+Otros al menos sienten  
+que algo no está del todo bien.+++(4)+++
 </details>
 
 ## A Bigger Boat?
@@ -2193,22 +2230,37 @@ Otros al menos sienten que algo no está del todo bien.
 
 <details open><summary>en</summary>
 
-Probably the most common reaction among the subset of the billions of privileged humans in the boat who even *acknowledge* the danger is to focus on the *boat*, and how it might be modified to continue insulating us from limits and danger.
+Probably the most common reaction  
+among the subset of the billions of privileged humans in the boat  
+who even *acknowledge* the danger  
+is to focus on the *boat*,  
+and how it might be modified to continue insulating us from limits and danger.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Probablemente la reacción más común entre el subconjunto de los miles de millones de humanos privilegiados en el bote que incluso *reconocen *el peligro es centrarse en el *barco *, y cómo podría modificarse para continuar aislando de los límites y el peligro.
+Probablemente la reacción más común  
+entre el subconjunto de los miles de millones de humanos privilegiados en el bote  
+que incluso *reconocen* el peligro  
+es centrarse en el *barco *,  
+y cómo podría modificarse  
+para continuar aislando de los límites y el peligro.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
 
-Technology, innovation, ingenuity, science, and extraction/exploitation have done marvels in getting us to this state (overlooking the dominant role of the river itself, as we are prone to do), so let’s double down and do more of that!
+Technology, innovation, ingenuity, science, and extraction/exploitation have done marvels in getting us to this state  
+(overlooking the dominant role of the river itself, as we are prone to do),  
+so let’s double down and do more of that!
 </details>
 
 <details><summary>es</summary>
 
-La tecnología, la innovación, el ingenio, la ciencia y la extracción/explotación han hecho maravillas para llevarnos a este estado (pasando por alto el papel dominante del río en sí, como somos propensos a hacer), ¡así que duplemos y hagamos más de eso!
+La tecnología, la innovación, el ingenio, la ciencia y la extracción/explotación  
+han hecho maravillas para llevarnos a este estado  
+(pasando por alto el papel dominante del río en sí,  
+como somos propensos a hacer),  
+¡así que duplemos y hagamos más de eso!
 </details>
 
 <details open><summary>en</summary>
@@ -2218,7 +2270,10 @@ Such reactions tend to be piecemeal: dividing the predicament into identifiable 
 
 <details><summary>es</summary>
 
-Tales reacciones tienden a ser fragmentarias: dividir la situación en problemas identificables que individualmente podrían tener "soluciones" viables pero hacen poco para cambiar el estado general de las cosas.
+Tales reacciones tienden a ser fragmentarias:  
+dividir la situación en problemas identificables  
+que individualmente podrían tener "soluciones" viables  
+pero hacen poco para cambiar el estado general de las cosas.+++(4)+++
 </details>
 
 <details open><summary>en</summary>

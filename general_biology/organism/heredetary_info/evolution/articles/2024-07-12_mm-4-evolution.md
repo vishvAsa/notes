@@ -990,7 +990,9 @@ Why don’t we have an organism simultaneously boasting the best eyesight, best 
 
 <details><summary>es</summary>
 
-¿Por qué no tenemos un organismo que simultáneamente con la mejor vista, la mejor audición, el mejor sentido del olfato, la visión infrarroja, la ecolocalización, la detección del campo magnético y todo lo demás?
+¿Por qué no tenemos un organismo  
+que simultáneamente con la mejor vista, la mejor audición, el mejor sentido del olfato, la visión infrarroja, la ecolocalización, la detección del campo magnético  
+y todo lo demás?
 </details>
 
 <details open><summary>en</summary>
@@ -1000,7 +1002,8 @@ This “super-predator” would be so far out of balance as to be self-defeating
 
 <details><summary>es</summary>
 
-Este "superpredador" estaría tan fuera de balance como para ser autodestructivo.
+Este "superpredador" estaría tan fuera de balance  
+como para ser autodestructivo.
 </details>
 
 <details open><summary>en</summary>
@@ -1014,7 +1017,7 @@ There is **no such thing as “winning”** in a complex community of life.
 
 Demasiado para el "Fittest".
 
- ** No hay tal cosa como "ganar" ** en una comunidad compleja de la vida.
+**No hay tal cosa como "ganar"** en una comunidad compleja de la vida.
 </details>
 
 <details open><summary>en</summary>
@@ -1029,12 +1032,15 @@ No es una competencia.
 
 <details open><summary>en</summary>
 
-If you think you’re winning, it’s probably a sign that you’re engaged in the slower and larger process of losing.
+If you think you’re winning,  
+it’s probably a sign that you’re engaged in the slower and larger process of losing.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Si crees que estás ganando, probablemente sea una señal de que estás involucrado en el proceso más lento y más grande de perder.
+Si crees que estás ganando,  
+probablemente sea una señal de que estás involucrado  
+en el proceso más lento y más grande de perder.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
@@ -1044,7 +1050,10 @@ As an aside, I personally view the emphasis on “survival of the fittest” as 
 
 <details><summary>es</summary>
 
-Como aparte, yo personalmente veo el énfasis en la "supervivencia del más apto" como un reflejo del macho, capitalista, ganador-take-all, [supremacist] (https://dothemath.ucsd.edu/2022/02/human -Exceptionalismo/), cultura competitiva y competitiva del mercado que hemos construido.
+Como aparte, yo personalmente veo el énfasis en la "supervivencia del más apto"  
+como un reflejo del cultura  
+macho, capitalista, ganador-tomalo-todo, [partidaria](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/), y competitiva del mercado  
+que hemos construido.
 </details>
 
 <details open><summary>en</summary>
@@ -1054,7 +1063,8 @@ I could trace it back to early agriculture and its associated domination of the 
 
 <details><summary>es</summary>
 
-Podría rastrearlo a la agricultura temprana y su dominación asociada de la tierra, otros animales y otros humanos.
+Podría rastrearlo a la agricultura temprana  
+y su dominación asociada de la tierra, otros animales y otros humanos.
 </details>
 
 <details open><summary>en</summary>
@@ -1064,7 +1074,10 @@ This “mantra of evolution” is therefore heavily influenced by our distorted 
 
 <details><summary>es</summary>
 
-Por lo tanto, este "mantra de la evolución" está fuertemente influenciado por nuestros valores distorsionados dentro de la modernidad.
+Por lo tanto,  
+este "mantra de la evolución" está fuertemente influenciado  
+por nuestros valores distorsionados  
+dentro de la modernidad.
 </details>
 
 ## Survival of the Best-Fitting  
@@ -1072,12 +1085,13 @@ Por lo tanto, este "mantra de la evolución" está fuertemente influenciado por 
 
 <details open><summary>en</summary>
 
-Seen through an ecological lens, a better approach is “**survival of the well-integrated**,” or perhaps “**survival of the best-fitting**“—although the word “best” is still problematic.
+Seen through an ecological lens, a better approach is “**survival of the well-integrated**,” or perhaps “**survival of the best-fitting**“—although the word “best” is still problematic.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Visto a través de una lente ecológica, un mejor enfoque es "** La supervivencia de los ** bien integrados", o tal vez "** supervivencia del mejor ajuste **", aunque la palabra "mejor" sigue siendo problemática.
+Visto a través de una lente ecológica, un mejor enfoque es "**La supervivencia de los bien integrados"** , o tal vez "**supervivencia del mejor ajuste**",  
+aunque la palabra "mejor" sigue siendo problemática.
 </details>
 
 <details open><summary>en</summary>
@@ -1087,7 +1101,9 @@ A better choice might be “suitably-fitting.” The “fit” is then judged *i
 
 <details><summary>es</summary>
 
-Una mejor opción podría ser "adecuadamente ajustada". El "ajuste" se juzga * en relación con * la comunidad que abarca la vida, como debe ser.
+Una mejor opción podría ser "adecuadamente ajustada".  
+El "ajuste" se juzga *en relación con* la comunidad que abarca la vida,  
+como debe ser.
 </details>
 
 ## All in this Together  
@@ -1100,7 +1116,9 @@ The only valid way to appreciate the situation is to recognize that we are all i
 
 <details><summary>es</summary>
 
-La única forma válida de apreciar la situación es reconocer que todos estamos en esto juntos.
+La única forma válida  
+de apreciar la situación  
+es reconocer que todos estamos en esto juntos.
 </details>
 
 <details open><summary>en</summary>
@@ -1110,7 +1128,9 @@ No species got here on their own merits alone: that’s not a thing.
 
 <details><summary>es</summary>
 
-Ninguna especie llegó aquí solo por sus propios méritos: eso no es una cosa.
+Ninguna especie llegó aquí  
+solo por sus propios méritos:  
+eso no es una cosa.
 </details>
 
 <details open><summary>en</summary>
@@ -1120,7 +1140,8 @@ It was all **co-evolution in full ecological context**, fully reliant on the res
 
 <details><summary>es</summary>
 
-Fue todo ** CO-EVOLUCIÓN en un contexto ecológico completo **, que depende completamente del resto de la Web of Life*en cada paso*.
+Fue todo **CO-EVOLUCIÓN en un contexto ecológico completo**,  
+que depende completamente del resto de la telaraña de Vida *en cada paso*.
 </details>
 
 <details open><summary>en</summary>

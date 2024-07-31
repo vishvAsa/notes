@@ -4,14 +4,12 @@ unicode_script = "devanagari"
 +++
 
 ## Importance
-It might also help more rapid detection because these mycosis are super-destructive. Hence, it is important the molecular biologists develop & standardize the primers for detecting these.
+It might also help more rapid detection  
+because these mycosis are super-destructive.  
+Hence, it is important the molecular biologists develop & standardize the primers for detecting these.
 
-## Mucor
-Mucors are more basal fungi (i.e. outside of the "crown fungi" composed of ascomycetes, e.g. the alcohol yeast & basidiomycetes, e.g. mushrooms). They are commonly seen as molds on decaying food and their spores are abundant in any place with a little decay, especially in desh. We inhale their spores all the time but normal humans are quite resistant to it. 
 
 ### Epidemiology
-#### Warm bloodedness
-> It appears that cold blooded animals are way more susceptible to fungal infections. Warm blooded animals like mammals and dinosaurs are less so. One of the selective advantages that might have led to the fixation of warm bloodedness is probably a high degree of natural resistance to systemic mycosis.  My own investigations suggest that cold-blooded animals might have a special defense against such fungal pathogens that we have lost as endothermy takes care. Thus, we see frogs being decimated by systemic fungal infection but rare to see mammalian (except probably bats) or bird species being similar attacked. ... So there has to be a special condition for systemic mycosis & probably the diabetes prevalence in desh is the big factor in this.
 
 #### Comorbidities
 - Immune suppression (eg. with steroids)
