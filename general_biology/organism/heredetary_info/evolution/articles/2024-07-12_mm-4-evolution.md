@@ -1151,7 +1151,9 @@ Every species jointly benefited from countless inter-dependencies at multiple or
 
 <details><summary>es</summary>
 
-Cada especie se benefició conjuntamente de innumerables interdependencias en múltiples órdenes de eliminación, ya que no podría haber sido de otra manera.
+Cada especie se benefició conjuntamente de innumerables interdependencias  
+en múltiples órdenes de eliminación,  
+ya que no podría haber sido de otra manera.
 </details>
 
 <details open><summary>en</summary>
@@ -1161,7 +1163,15 @@ Modernity’s specialty of linear, serial thinking is not as powerful a tool in 
 
 <details><summary>es</summary>
 
-La especialidad de la modernidad del pensamiento lineal y en serie no es una herramienta tan poderosa en este contexto como podría ser en el diseño del protocolo de comunicación de una computadora o en la construcción de una prueba matemática elegante o los requisitos de material calculador para que un rascacielos se cuestione la carga del viento.
+La especialidad de la modernidad  
+del pensamiento lineal  
+y en serie  
+no es una herramienta tan poderosa  
+en este contexto  
+como podría ser en el diseño del protocolo de comunicación de una computadora  
+o en la construcción de una prueba matemática elegante 
+o los requisitos de material calculador  
+para que un rascacielos se cuestione la carga del viento.
 </details>
 
 <details open><summary>en</summary>
@@ -1171,7 +1181,7 @@ Rocket science is comparatively dumb.
 
 <details><summary>es</summary>
 
-La ciencia del cohete es relativamente tonto.
+La ciencia del cohete es relativamente tonto.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
@@ -1181,7 +1191,8 @@ Our superficial understanding of relationships is never going to be complete.
 
 <details><summary>es</summary>
 
-Nuestra comprensión superficial de las relaciones nunca será completa.
+Nuestra comprensión superficial de las relaciones  
+nunca será completa.
 </details>
 
 <details open><summary>en</summary>
@@ -1191,7 +1202,8 @@ Nor should this be the goal or be considered to be necessary.
 
 <details><summary>es</summary>
 
-Tampoco este debería ser este o considerarse necesario.
+Tampoco este debería ser este  
+o considerarse necesario.
 </details>
 
 <details open><summary>en</summary>
@@ -1201,7 +1213,8 @@ It is enough to appreciate that **it’s complicated**, and approach the matter 
 
 <details><summary>es</summary>
 
-Es suficiente apreciar que ** es complicado **, y abordar el asunto con [asombro y respeto] (https://dothemath.ucsd.edu/2024/01/a-religion-of-life/).
+Es suficiente apreciar que **es complicado**,  
+y abordar el asunto con [asombro y respeto] (https://dothemath.ucsd.edu/2024/01/a-religion-of-life/).
 </details>
 
 <details open><summary>en</summary>
@@ -1211,17 +1224,19 @@ Part of the reason we shouldn’t expect to master it all is that these relation
 
 <details><summary>es</summary>
 
-Parte de la razón por la que no debemos esperar dominarlo todo es que estas relaciones fueron [desarrolladas durante millones y miles de millones de años] (https://dothemath.ucsd.edu/2024/01/my-god-its-evolution/ ).
+Parte de la razón por la que no debemos esperar dominarlo todo  
+es que estas relaciones fueron [desarrolladas durante millones y miles de millones de años] (https://dothemath.ucsd.edu/2024/01/my-god-its-evolution/ ).
 </details>
 
 <details open><summary>en</summary>
 
-The selection pressures that led to our brains would not be expected to produce brains capable of penetrating every ecological relationship on Earth.
+The selection pressures that led to our brains would not be expected to produce brains capable of penetrating every ecological relationship on Earth.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-No se esperaría que las presiones de selección que llevaron a nuestros cerebros produzcan cerebros capaces de penetrar en todas las relaciones ecológicas en la Tierra.
+No se esperaría que las presiones de selección  
+que llevaron a nuestros cerebros produzcan cerebros capaces de penetrar en todas las relaciones ecológicas en la Tierra.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
@@ -1241,7 +1256,8 @@ Evolution has no choice but to simultaneously work on the **whole set** of speci
 
 <details><summary>es</summary>
 
-La evolución no tiene más remedio que trabajar simultáneamente en el conjunto completo ** de especies y sus interrelaciones.
+La evolución no tiene más remedio   
+que trabajar simultáneamente en el **conjunto completo** de especies y sus interrelaciones.
 </details>
 
 <details open><summary>en</summary>
@@ -1251,7 +1267,10 @@ Evolution does not work on the squirrel by itself or the insect by itself with n
 
 <details><summary>es</summary>
 
-La evolución no funciona en la ardilla por sí misma o en el insecto por sí misma sin interacción entre ellos: * no puede * funcionar así.
+La evolución no funciona en la ardilla por sí misma  
+o en el insecto por sí misma  
+sin interacción entre ellos:  
+*no puede* funcionar así.
 </details>
 
 <details open><summary>en</summary>
@@ -1294,15 +1313,7 @@ I make an appeal for folks to look at the companion write-ups on [Do the Math](h
 
 <details><summary>es</summary>
 
-Pido un llamamiento a la gente que mire los escritos complementarios en [Do the Math] (https://dothemath.ucsd.edu/), como digo en el video que "estoy mejor en la escritura". Es un caso en el punto: "Me veo mejor en el papel" sería la forma preferida de * escribir * ese sentimiento.
-</details>
-
-<details open><summary>en</summary>
-
-Views: 763
-</details>
-
-<details><summary>es</summary>
-
-Vistas: 763
+Pido un llamamiento a la gente que mire los escritos complementarios en [Do the Math] (https://dothemath.ucsd.edu/), como digo en el video que "estoy mejor en la escritura".  
+Es un caso en el punto: "Me veo mejor en el papel"  
+sería la forma preferida de *escribir* ese sentimiento.
 </details>

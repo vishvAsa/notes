@@ -2283,7 +2283,9 @@ Solar panels might address CO₂, for instance, but not the “meta” peril of 
 
 <details><summary>es</summary>
 
-Los paneles solares pueden abordar el CO₂, por ejemplo, pero no el peligro "meta" del sobreimpulso ecológico habilitado por una relación hubrística y supremacista con el mundo natural.
+Los paneles solares pueden abordar el CO₂, por ejemplo,  
+pero no el peligro "meta" del sobreimpulso ecológico  
+habilitado por una relación hubrística y supremacista con el mundo natural.
 </details>
 
 <details open><summary>en</summary>
@@ -2293,27 +2295,36 @@ Typical reactions also rely too much on past trends.
 
 <details><summary>es</summary>
 
-Las reacciones típicas también dependen demasiado de las tendencias pasadas.
+Las reacciones típicas  
+también dependen demasiado de las tendencias pasadas.
 </details>
 
 <details open><summary>en</summary>
 
-What worked on the river surface—even in the rapids to some extent—will not apply to a plunge over the towering waterfall.
+What worked on the river surface—  
+even in the rapids to some extent—  
+will not apply to a plunge over the towering waterfall.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Lo que funcionó en la superficie del río, incluso en los rápidos hasta cierto punto, no se aplicará a una caída sobre la imponente cascada.
+Lo que funcionó en la superficie del río,  
+incluso en los rápidos hasta cierto punto,  
+no se aplicará a una caída sobre la imponente cascada.
 </details>
 
 <details open><summary>en</summary>
 
-Yet, for solid evolutionary reasons, humans are predominantly backward-looking, devising strategies based on what has come before.
+Yet, for solid evolutionary reasons,  
+humans are predominantly backward-looking,  
+devising strategies based on what has come before.
 </details>
 
 <details><summary>es</summary>
 
-Sin embargo, por razones evolutivas sólidas, los humanos son predominantemente estrategias hacia atrás, ideando estrategias basadas en lo que ha llegado antes.
+Sin embargo, por razones evolutivas sólidas,  
+los humanos son predominantemente estrategas hacia atrás,  
+ideando estrategias basadas en lo que ha llegado antes.
 </details>
 
 <details open><summary>en</summary>
@@ -2323,17 +2334,19 @@ It works 999 times out of 1,000, or more.
 
 <details><summary>es</summary>
 
-Funciona 999 veces de 1,000, o más.
+Funciona 999 veces de 1,000, o más.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
 
-This is not one of those times, putting our species at a marked disadvantage.
+This is not one of those times,  
+putting our species at a marked disadvantage.
 </details>
 
 <details><summary>es</summary>
 
-Este no es uno de esos tiempos, poniendo nuestra especie en una marcada desventaja.
+Este no es uno de esos tiempos,  
+poniendo nuestra especie en una marcada desventaja.
 </details>
 
 <details open><summary>en</summary>
@@ -2343,7 +2356,8 @@ Unfortunately, the boat (modernity) seems like the only thing that keeps us safe
 
 <details><summary>es</summary>
 
-Desafortunadamente, el barco (modernidad) parece ser lo único que nos mantiene a salvo en este momento.
+Desafortunadamente, el barco (modernidad) parece ser lo único  
+que nos mantiene a salvo en este momento.
 </details>
 
 <details open><summary>en</summary>
@@ -2393,7 +2407,11 @@ It’s so massive and has so much inertia that it is committed to going over the
 
 <details><summary>es</summary>
 
-Es tan masivo y tiene tanta inercia que está comprometido a repasar la cascada, llevando una trampa de muerte para aquellos que se quedan con ella.
+Es tan masivo  
+y tiene tanta inercia  
+que está comprometido a repasar la cascada,  
+llevando una trampa de muerte  
+para aquellos que se quedan con ella.
 </details>
 
 <details open><summary>en</summary>
@@ -2403,7 +2421,9 @@ It may have been possible in the distant past to alter course from the middle of
 
 <details><summary>es</summary>
 
-Puede haber sido posible en el pasado lejano alterar el curso desde el medio del río, acercándonos a la seguridad de la costa.
+Puede haber sido posible en el pasado lejano  
+alterar el curso desde el medio del río,  
+acercándonos a la seguridad de la costa.
 </details>
 
 <details open><summary>en</summary>
@@ -2413,7 +2433,10 @@ But any suggestions to do so were ignored or ridiculed: the result would be slow
 
 <details><summary>es</summary>
 
-Pero cualquier sugerencia para hacerlo fue ignorada o ridiculizada: el resultado sería un progreso más lento, ineficiencia y no lo que dijo el mercado (actual) fue mejor.
+Pero cualquier sugerencia para hacerlo  
+fue ignorada o ridiculizada:  
+el resultado sería un progreso más lento, ineficiencia  
+y no lo que dijo el mercado (actual) fue mejor.
 </details>
 
 <details open><summary>en</summary>
@@ -2423,7 +2446,9 @@ It turns out that modernity was optimizing its own speediest destruction—as it
 
 <details><summary>es</summary>
 
-Resulta que la modernidad estaba optimizando su propia destrucción más rápida, como se requiere efectivamente su definición.
+Resulta que la modernidad estaba optimizando  
+su propia destrucción más rápida,  
+como se requiere efectivamente su definición.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
@@ -2433,31 +2458,32 @@ We might now wish to slow things down, but modernity was built on a lie; a fatal
 
 <details><summary>es</summary>
 
-Ahora podríamos desear frenar las cosas, pero la modernidad se construyó sobre una mentira; un defecto fatal.
+Ahora podríamos desear frenar las cosas,  
+pero la modernidad se construyó sobre una mentira;  
+un defecto fatal.
 </details>
 
 <details open><summary>en</summary>
 
-If we voiced the command: “Slow down, Hal,” we’d get the response: “I’m sorry, Dave.
+If we voiced the command: “Slow down, Hal,” we’d get the response: “I’m sorry, Dave. I’m afraid I can’t do that.”+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Si expresamos el comando: "Reduzca la velocidad, Hal", obtendríamos la respuesta: "Lo siento, Dave.
+Si expresamos el comando: "Reduzca la velocidad, Hal",  
+obtendríamos la respuesta: "Lo siento, Dave. Me temo que no puedo hacer eso +++(5)+++".
 </details>
 
 <details open><summary>en</summary>
-
-I’m afraid I can’t do that.”
 
 In the [next](https://dothemath.ucsd.edu/2023/08/learning-to-walk-again/), much shorter post, I will build on this metaphorical landscape to explore reactions that might make more sense.
 </details>
 
 <details><summary>es</summary>
 
-Me temo que no puedo hacer eso ".
-
- En el [Siguiente] (https://dothemath.ucsd.edu/2023/08/learning-to-walk-gain/), mucho más corto, construiré sobre este paisaje metafórico para explorar reacciones que podrían tener más sentido.
+ En el [Siguiente] (https://dothemath.ucsd.edu/2023/08/learning-to-walk-gain/), mucho más corto,  
+ construiré sobre este paisaje metafórico  
+ para explorar reacciones que podrían tener más sentido.
 </details>
 
 <details open><summary>en</summary>
@@ -2467,7 +2493,9 @@ To get you thinking, key questions are whether the boat and the passengers are t
 
 <details><summary>es</summary>
 
-Para que pienses, las preguntas clave son si el bote y los pasajeros son lo mismo, y si incluso tenemos que estar en el agua.
+Para que pienses, las preguntas clave  
+son si el bote y los pasajeros son lo mismo,  
+y si incluso tenemos que estar en el agua.
 </details>
 
 <details open><summary>en</summary>
@@ -2477,7 +2505,9 @@ The predicament is enormous, and requires stepping pretty far back to see a way 
 
 <details><summary>es</summary>
 
-La situación es enorme y requiere retroceder bastante para ver una forma de evitarlo.
+La situación es enorme  
+y requiere retroceder bastante  
+para ver una forma de evitarlo.
 </details>
 
 <details open><summary>en</summary>
@@ -2487,19 +2517,14 @@ I hope this high-altitude survey of the river system we’ve traversed helps in 
 
 <details><summary>es</summary>
 
-Espero que esta encuesta a gran altitud del sistema fluvial que hemos atravesado ayude a desarrollar una perspectiva más clara de dónde estamos, cómo llegamos aquí, cuánta agencia hemos tenido y * podemos * tener, y qué tipo de opciones podrían hacer el más sentido en el futuro.
+Espero que esta encuesta a gran altitud  
+del sistema fluvial que hemos atravesado  
+ayude a desarrollar una perspectiva más clara de  
+dónde estamos,  
+cómo llegamos aquí,  
+cuánta agencia hemos tenido  
+y *podemos* tener,  
+y qué tipo de opciones podrían hacer el más sentido  
+en el futuro.
 </details>
 
-<details open><summary>en</summary>
-
-Hits: 3028
-
-[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2023%2F08%2Four-time-on-the-river%2F&linkname=Our%20Time%20on%20the%20River "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2023%2F08%2Four-time-on-the-river%2F&linkname=Our%20Time%20on%20the%20River "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2023%2F08%2Four-time-on-the-river%2F&linkname=Our%20Time%20on%20the%20River "Email")[](https://www.addtoany.com/share)
-</details>
-
-<details><summary>es</summary>
-
-Hits: 3028
-
- [] (https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2023%2F08%2Four Time-on-the-river%2F&linkname=our%20Time %20on%20the%20river "Facebook") [] (https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2FDothemath.ucsd.edu%2F2023%2F08%2Four-time-on-on -the-river%2f & LinkName = nuestro%20Time%20on%20The%20river "Twitter") [] (https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdothemath.ucsd.edu %2F2023%2F08%2Four-Time-on-the-River%2F & LinkName = Nuestro%20Time%20on%20The%20River "Correo electrónico") [] (https://www.addtoany.com/share)
-</details>
