@@ -115,7 +115,6 @@ I do, however, provide an overview using the diagram below.
 Sin embargo,  
 proporciono una visión general  
 utilizando el diagrama a continuación.
-
 </details>
 
 ![](https://dothemath.ucsd.edu/wp-content/uploads/2024/07/evolution.png)  
