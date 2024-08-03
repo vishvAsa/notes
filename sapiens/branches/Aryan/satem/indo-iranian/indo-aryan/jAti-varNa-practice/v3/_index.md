@@ -6,6 +6,8 @@ title = "+vaishyas v3"
 - Arya-vaishya [inclusion](http://en.wikipedia.org/wiki/Arya_Vaishya#Inclusion_into_the_Vaishya_Varna) into the vaishya varNa.
 
 
+mArvAri baniya-s seem to comprise elite human capital.
+
 ## v3 conflicts
 > There were the famous anti-mArvArI riots in Maha in the late 1800s. The English might have tacitly let them run for a while to make sure no one gets too powerful though they stopped it eventually. It is possibly a widespread feature of conflict between "son of the soil" types & trans-regional groups with strong kinship networks, high intelligence, good economic sense and work ethic.
 > 
