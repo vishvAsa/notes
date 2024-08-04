@@ -80,11 +80,16 @@ The v2s were carnivores.
 All houses had a vitardi / platform outside the door;  
 where passers-by could rest irrespective of jAti.
 
+House foundations were either made of stone or powdered stone + special clay.  
+In the former case, walls could be built up at any later time;  
+but in the latter case, one needed to start building walls sooner 
+
 v4 houses were made with mud walls and roof covered with palm leaves and straw.  
 Such houses were cool.  
 Hence, even rich v4s preferred it.  
 Food used to be cooked in the yard outside, which had wooden roof. 
 
+### v1 houses
 v1 houses tended to have clay tile roofs -  
 since cooking and (theoretically daily) fire rituals happened inside,  
 and roof was usually not high enough.  
