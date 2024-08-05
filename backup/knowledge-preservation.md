@@ -39,34 +39,59 @@ Synthetic sapphire disc of 200mm diameter from ARNANO.
 #### Religious oral tradition
 Eg. Vedas.
 
-#### Metal plates
-Metal plates risk being stolen, melted and reused in a metal-scarce world.
+#### Nickel
+##### Durability
+- Pure 100% nickel; Nickel has no half-life; it's a stable element; it lasts forever
+- Nickel is used in ocean motors and in rockets because of its properties. Stainless steel only needs 7% of nickel to make it not rust
+- Hard metal that is difficult to damage physically. Withstands exposure to a wide range of chemicals. Does not oxidize
+- Biological organisms cannot consume or damage it.
+- Not affected by radiation, heat, cold, humidity, moisture or even immersion in freshwater; salt water can gradually affect it but even after many thousands of years of constant salt water exposure, the content is retrievable,
+- Still readable even after thousands of years exposed to oxygen or submerged in water
+- 2000 degree Fahrenheit sustained direct heat from a blowtorch will not damage it
+- Electric and magnetic fields have no effect on it. Strong radiation from nuclear blasts, high energy cosmic rays, or electromagnetic pulses will not damage the content. Designed to preserve information in case of nuclear war (Studied by Los Alamos National Laboratories; extensively tested)
 
-Metal engraving is relatively easy with a CNC machine. 
 
-Modern attempts:
-
+##### Nanofiche
 - Rosetta Nickel Disk (Long Now).
 
-
-##### Lunar library disks
-> The Library is housed within a 100 gram nanotechnology device that resembles a 120mm DVD. However it is actually composed of 25 nickel discs, each only 40 microns thick, that were made for the Arch Mission Foundation by NanoArchival. 
-> 
-> The first four layers contain more than 60,000 analog  images of pages of books, photographs, illustrations, and documents - etched as 150 to 200 dpi, at increasing levels of magnification, by optical nanolithography. The first analog layer is the Front Cover and is visible to the naked eye. ... 
-> 
+> The Library is housed within a 100 gram nanotechnology device that resembles a 120mm DVD. However it is actually composed of 25 nickel discs, each only 40 microns thick, that were made for the Arch Mission Foundation by NanoArchival.
+>
+> The first four layers contain more than 60,000 analog  images of pages of books, photographs, illustrations, and documents - etched as 150 to 200 dpi, at increasing levels of magnification, by optical nanolithography. The first analog layer is the Front Cover and is visible to the naked eye. ...
+>
 > Beneath the analog layers of the Library are 21 layers of 40 micron thick nickel foils, each containing a DVD master.  
 Source: [TW](https://www.archmission.org/spaceil), [arch](https://archive.org/details/OverviewOfTheLunarLibrary/page/n7/mode/1up)
 
 #### Metal grammaphone records
-Can even record sound for grammaphone.  
+Can even record sound for grammaphone.
 
 Voyager golden record - copper disk 12 inches (30 cm) in diameter plated first with nickel and then gold. The record's cover is aluminum and electroplated upon it is an ultra-pure sample of the isotope uranium-238. Expected to remain intelligible for more than a billion years in sterile space.
 
+#### Other Metal plates
+Metal plates risk being stolen, melted and reused in a metal-scarce world.
+
+Metal engraving is relatively easy with a CNC machine. 
+
+
+
 ### .5-1k yr
-#### Waferfiche
+#### Polymer Nanofiche
+- Nanofiche can be replicated from nickel to polymer any number of times, inexpensively. Polymer lasts for 400 to 700 years. Source: [TW](https://archive.org/details/OverviewOfTheLunarLibrary/page/n62/mode/1up)
+
+
+#### Silicon Waferfiche
 Source: [TW](https://taraprakashana.org/long-term-archival/)
 
-Needs only a magnifying glass to read.
+- temperature and water-resistant
+- Needs only a magnifying glass to read.
+- photolithographic inscription small copies
+
+##### Cost
+> it costs about ten times less to store documents on Waferfiche than on microfilm.
+
+202308 info - 
+
+> Like all semiconductor products,  it is very much a function of volume and labor costs.  
+In Bharat,  a one time investment of about $250 K, and approximately Rs 5K per waferfiche.
 
 #### Archival DVDs
 - 1000 Years Archival Hitachi/LG Digital Storage Blank M-Disc DVD+R | 4.7GB | 3 Pack Jewel Case
@@ -80,13 +105,31 @@ Made from plant leaves. No fold-endurance - Used as a scroll. Degrades due to ac
 Dead Sea Scrolls were preserved due to low-circulation arid atmosphere.
 
 #### Microfilms
-polyester based microfilm - .1-.5k yrs. Used for storing newspapers.
+polyester based microfilm - .1-.5k yrs. Used for storing newspapers.  
+
+Microfiche has a life expectancy of up to 800 years, under ideal HVAC (temperature and humidity ) controlled conditions.  
+However most State Archives only certify microfiche, for 25 to 50 years,  
+after which point a new copy of the media must be generated.  
+
+
 
 #### Parchment (Skin)
 Treated animal skin. If reused, called palimpest.  
 Parchments from 1600 years ago survive - many were in regular use for hundreds of years.
 
 Source: [TW](https://www.youtube.com/watch?v=6nJmyo45dqY)
+
+
+#### DNA
+
+##### Artifical amber
+> an option is to encode future Arch Libraries into synthetic DNA molecules and then to embed these into substances such as Artificial Amber for long-term preservation and discovery in the future. ... DNA is quite stable if adequately protected. Source: [TW](https://archive.org/details/OverviewOfTheLunarLibrary/page/n70/mode/1up)
+
+##### Junk DNA
+> One possible target for this type of synthetic biology approach that we have considered is to utilize the so-called "junk DNA" region of the human genome, or of other species, as the carrier region for a payload of genetically encoded knowledge. However, unless such information is somehow linked to a gene that has selective advantages to survival (such as reproduction, for instance), it would get weeded out by natural selection over time. Source: [TW](https://archive.org/details/OverviewOfTheLunarLibrary/page/n70/mode/1up)
+
+
+
 
 ### .1k-.3k yr
 #### Museium grade paper
@@ -132,9 +175,13 @@ Last 100 yrs under good conditions.
 ## Retrieval/ playback
 Grammaphone doesn't require electricity to play sound. It's relatively easy to construct.
 
-Technology risk - 
+### Magnifying lens
+> The first recorded evidence of a magnifying device is in a joke in Aristophanes' The Clouds, from 424 BC, although there are also artifacts that may be even earlier magnifiers. ... Compound microscopes began to become available in the 1674, when Anton van Leeuwenhoek first discerned cells and bacteria at 270X magnification, and by the late 1600s microscopy had advanced enough to see the analog images we encode into the Arch Libraries. Source: [TW](https://archive.org/details/OverviewOfTheLunarLibrary/page/n73/mode/1up)
+
+### Technology risk
 
 > If you rely on proprietary software to store your material (office, databases, cloud-subscriptions, etc.), everything will be gone in less than half a century (at least if you don’t have more resources than US government and NASA: Many of the recordings of the space explorations of the 60ies are now inaccessible: neither the machines nor the knowledge is available today to access it). - [digitaldharma](https://digitaltibetan.github.io/DigitalTibetan/docs/digital_dharma_is_fragile.html)
+
 
 ## Storage
 - Cold storage reduces chemical decay rate.
