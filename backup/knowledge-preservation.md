@@ -48,6 +48,15 @@ Modern attempts:
 
 - Rosetta Nickel Disk (Long Now).
 
+
+##### Lunar library disks
+> The Library is housed within a 100 gram nanotechnology device that resembles a 120mm DVD. However it is actually composed of 25 nickel discs, each only 40 microns thick, that were made for the Arch Mission Foundation by NanoArchival. 
+> 
+> The first four layers contain more than 60,000 analog  images of pages of books, photographs, illustrations, and documents - etched as 150 to 200 dpi, at increasing levels of magnification, by optical nanolithography. The first analog layer is the Front Cover and is visible to the naked eye. ... 
+> 
+> Beneath the analog layers of the Library are 21 layers of 40 micron thick nickel foils, each containing a DVD master.  
+Source: [TW](https://www.archmission.org/spaceil), [arch](https://archive.org/details/OverviewOfTheLunarLibrary/page/n7/mode/1up)
+
 #### Metal grammaphone records
 Can even record sound for grammaphone.  
 
@@ -122,6 +131,10 @@ Last 100 yrs under good conditions.
 
 ## Retrieval/ playback
 Grammaphone doesn't require electricity to play sound. It's relatively easy to construct.
+
+Technology risk - 
+
+> If you rely on proprietary software to store your material (office, databases, cloud-subscriptions, etc.), everything will be gone in less than half a century (at least if you don’t have more resources than US government and NASA: Many of the recordings of the space explorations of the 60ies are now inaccessible: neither the machines nor the knowledge is available today to access it). - [digitaldharma](https://digitaltibetan.github.io/DigitalTibetan/docs/digital_dharma_is_fragile.html)
 
 ## Storage
 - Cold storage reduces chemical decay rate.
