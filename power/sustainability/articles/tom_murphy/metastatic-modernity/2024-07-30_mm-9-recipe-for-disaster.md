@@ -230,7 +230,9 @@ The miracle of life is in the ability of a local ecology to set itself up around
 
 <details><summary>es</summary>
 
-El milagro de la vida es la capacidad de una ecología local para establecerse alrededor de los flujos de materiales disponibles en circulación dentro de cada región.
+El milagro de la vida es la capacidad de una ecología local  
+para establecerse alrededor de los flujos de materiales disponibles  
+en circulación dentro de cada región.
 </details>
 
 <details open><summary>en</summary>
@@ -240,17 +242,21 @@ Outside of flood plains, which refresh nutrients in a longstanding rhythm, it’
 
 <details><summary>es</summary>
 
-Fuera de las llanuras de inundación, que refrescan los nutrientes en un ritmo de larga data, no está claro que nuestra intromisión tenga un futuro duradero.
+Fuera de las llanuras de inundación,  
+que refrescan los nutrientes en un ritmo de larga data,  
+no está claro que nuestra intromisión tenga un futuro duradero.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
 
-This is part of why arable land is used up and lost over time (e.g., the formerly fertile crescent): salinization, desertification, nutrient depletion.
+This is part of why arable land is used up and lost over time (e.g., the formerly fertile crescent): salinization, desertification, nutrient depletion.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Esto es parte de por qué la tierra arable se usa y se pierde con el tiempo (por ejemplo, la media luna anteriormente fértil): salinización, desertificación, agotamiento de nutrientes.
+Esto es parte de por qué la tierra arable se usa  
+y se pierde con el tiempo (por ejemplo, la media luna anteriormente fértil):  
+salinización, desertificación, agotamiento de nutrientes.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
@@ -260,7 +266,8 @@ Bear in mind that even ten thousand years is *very* short in evolutionary/ecolog
 
 <details><summary>es</summary>
 
-Tenga en cuenta que incluso diez mil años es * muy * corto en términos evolutivos/ecológicos.
+Tenga en cuenta que incluso diez mil años  
+es * muy * corto en términos evolutivos/ecológicos.
 </details>
 
 <details open><summary>en</summary>
@@ -270,7 +277,8 @@ Just as importantly, the adoption of agriculture also went to our heads.
 
 <details><summary>es</summary>
 
-Igual de importante, la adopción de la agricultura también se dirigió a nuestras cabezas.
+Igual de importante,  
+la adopción de la agricultura también se dirigió a nuestras cabezas.
 </details>
 
 <details open><summary>en</summary>
@@ -280,27 +288,19 @@ We came to consider ourselves as masters of the land, controlling nature.
 
 <details><summary>es</summary>
 
-Llegamos a considerarnos como maestros de la tierra, controlando la naturaleza.
+Llegamos a considerarnos como maestros de la tierra,  
+controlando la naturaleza.
 </details>
 
 <details open><summary>en</summary>
 
-We asserted ourselves as owners of the land (property rights!
+We asserted ourselves as owners of the land (property rights!)—as owners of the Earth, in fact.
 </details>
 
 <details><summary>es</summary>
 
-Nos afirmamos como propietarios de la tierra (¡derechos de propiedad!
-</details>
-
-<details open><summary>en</summary>
-
-)—as owners of the Earth, in fact.
-</details>
-
-<details><summary>es</summary>
-
-) - Como dueñas de la Tierra, de hecho. ) - Como dueños de la Tierra, de hecho.
+Nos afirmamos como propietarios de la tierra (¡derechos de propiedad!) -  
+Como dueños de la Tierra, de hecho.
 </details>
 
 <details open><summary>en</summary>
@@ -310,7 +310,8 @@ No longer believing we belonged to the planet, we thought it belonged to us.
 
 <details><summary>es</summary>
 
-Ya no creemos que pertenecíamos al planeta, pensamos que nos pertenecía.
+Ya no creemos que pertenecíamos al planeta,  
+pensamos que nos pertenecía.
 </details>
 
 <details open><summary>en</summary>
@@ -320,17 +321,24 @@ Religions sprang up to reinforce this thinking—elevating humans over all life 
 
 <details><summary>es</summary>
 
-Las religiones surgieron para reforzar este pensamiento, lo que alevanta a los humanos sobre toda la vida en la tierra.
+Las religiones surgieron para reforzar este pensamiento,  
+lo que alevanta a los humanos  
+sobre toda la vida en la tierra.
 </details>
 
 <details open><summary>en</summary>
 
-I can’t overemphasize how crucial this development was in changing how we view ourselves in relation to the community of life, and thus justifying our actions.
+I can’t overemphasize how crucial this development was  
+in changing how we view ourselves in relation to the community of life,  
+and thus justifying our actions.
 </details>
 
 <details><summary>es</summary>
 
-No puedo enfatizar demasiado cuán crucial fue este desarrollo para cambiar la forma en que nos vemos a nosotros mismos en relación con la comunidad de la vida y, por lo tanto, justificando nuestras acciones.
+No puedo enfatizar demasiado  
+cuán crucial fue este desarrollo  
+para cambiar la forma en que nos vemos a nosotros mismos en relación con la comunidad de la vida  
+y, por lo tanto, justificando nuestras acciones.
 </details>
 
 <details open><summary>en</summary>
@@ -340,11 +348,13 @@ This is when the divorce started: our separation from nature and an acquired air
 
 <details><summary>es</summary>
 
-Esto es cuando comenzó el divorcio: nuestra separación de la naturaleza y un aire adquirido de [supremacía humana](https://dothemath.ucsd.edu/2022/02/human-exceptionalismo/).
+Esto es cuando comenzó el divorcio:  
+nuestra separación de la naturaleza  
+y un aire adquirido de [supremacía humana](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/).
 </details>
 
 ## Step 2—Science & Technology  
-  {## Paso 2 - Ciencia y tecnología}
+{## Paso 2 - Ciencia y tecnología}
 
 <details open><summary>en</summary>
 
@@ -353,7 +363,9 @@ The Enlightenment brought us a lot of sharp new tools that we could use to pick 
 
 <details><summary>es</summary>
 
-La Ilustración nos trajo muchas herramientas nuevas y agudas que podríamos usar para elegir las cerraduras de los secretos de la naturaleza.
+La Ilustración nos trajo muchas herramientas nuevas y agudas  
+que podríamos usar  
+para elegir las cerraduras de los secretos de la naturaleza.
 </details>
 
 <details open><summary>en</summary>
@@ -363,7 +375,8 @@ Indeed, we learned *tons* about the inner workings of the universe.
 
 <details><summary>es</summary>
 
-De hecho, aprendimos * toneladas * sobre el funcionamiento interno del universo.
+De hecho, aprendimos *toneladas*  
+sobre el funcionamiento interno del universo.
 </details>
 
 <details open><summary>en</summary>
@@ -378,22 +391,30 @@ What did we do with this new set of insights?
 
 <details open><summary>en</summary>
 
-We used it to **increase our mastery, control, and manipulation** of the natural world for short-term gains among humans alone (and not all humans, it should be noted).
+We used it to **increase our mastery, control, and manipulation** of the natural world for short-term gains among humans alone (and not all humans, it should be noted).+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Lo usamos para ** aumentar nuestro dominio, control y manipulación ** del mundo natural para las ganancias a corto plazo entre los humanos solo (y no todos los humanos, debe tenerse en cuenta).
+Lo usamos para **aumentar nuestro dominio, control y manipulación** del mundo natural  
+para las ganancias a corto plazo  
+entre los humanos solo  
+(y no todos los humanos, debe tenerse en cuenta).+++(5)+++
 </details>
 
 <details open><summary>en</summary>
 
-The focus became increasingly narrow, and increasingly distant from ecological concerns as our world became more disconnected, decontextualized, reduced, abstracted, linearized, objectified, and increasingly virtual in character.
+The focus became increasingly narrow,  
+and increasingly distant from ecological concerns  
+as our world became more disconnected, decontextualized, reduced, abstracted, linearized, objectified, and increasingly virtual in character.
 </details>
 
 <details><summary>es</summary>
 
-El enfoque se volvió cada vez más estrecho y cada vez más distante de las preocupaciones ecológicas a medida que nuestro mundo se desconectó, descontextualizado, reducido, abstracto, linealizado, objetivado y cada vez más virtual de carácter.
+El enfoque se volvió cada vez más estrecho  
+y cada vez más distante de las preocupaciones ecológicas  
+a medida que nuestro mundo se desconectó, descontextualizado, reducido, abstracto, linealizado, objetivado  
+y cada vez más virtual de carácter.
 </details>
 
 <details open><summary>en</summary>
@@ -403,7 +424,11 @@ The resultant world lacks basic ecological sense—a state of affairs that, like
 
 <details><summary>es</summary>
 
-El mundo resultante carece de sentido ecológico básico, un estado de cosas que, como una fiesta furiosa, no es posible mantener más allá del corto plazo.
+El mundo resultante  
+carece de sentido ecológico básico,  
+un estado de cosas que,  
+como una fiesta furiosa,  
+no es posible mantener más allá del corto plazo.
 </details>
 
 <details open><summary>en</summary>
@@ -413,17 +438,21 @@ In the meantime, we’re very impressed with our inventions.
 
 <details><summary>es</summary>
 
-Mientras tanto, estamos muy impresionados con nuestros inventos.
+Mientras tanto, estamos muy impresionados  
+con nuestros inventos.
 </details>
 
 <details open><summary>en</summary>
 
-It turns out that brains are impressed by brains—flattering themselves as having unlimited potential, in blatant disregard of plain facts.
+It turns out that brains are impressed by brains—flattering themselves as having unlimited potential, in blatant disregard of plain facts.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Resulta que los cerebros están impresionados por el cerebro, halagándose por sí mismos con un potencial ilimitado, sin tener en cuenta los hechos simples.
+Resulta que los cerebros están impresionados por el cerebro,  
+halagándose por sí mismos  
+con un potencial ilimitado,  
+sin tener en cuenta los hechos simples.
 </details>
 
 <details open><summary>en</summary>
@@ -433,7 +462,9 @@ I’m sure lots of people can rattle off their favorite impressive accomplishmen
 
 <details><summary>es</summary>
 
-Estoy seguro de que muchas personas pueden recortar sus impresionantes logros favoritos de la civilización.
+Estoy seguro de que  
+muchas personas pueden recortar  
+sus impresionantes logros favoritos de la civilización.
 </details>
 
 <details open><summary>en</summary>
@@ -443,7 +474,8 @@ No one asks, for each one, what as been the net benefit to the **entire** commun
 
 <details><summary>es</summary>
 
-Nadie pregunta, para cada uno, ¿cuál ha sido el beneficio neto para la comunidad ** ** de la vida **, en equilibrio?
+Nadie pregunta, para cada uno,  
+¿cuál ha sido el beneficio neto para la comunidad **completa** de la vida, en equilibrio?
 </details>
 
 <details open><summary>en</summary>
@@ -453,7 +485,8 @@ How is the world beyond the isolated (thus temporary and artificial) human domai
 
 <details><summary>es</summary>
 
-¿Cómo está mejor el mundo más allá del dominio humano aislado (así temporal y artificial)?
+¿Cómo está mejor el mundo más  
+allá del dominio humano aislado (así temporal y artificial)?+++(4)+++
 </details>
 
 <details open><summary>en</summary>
@@ -478,12 +511,16 @@ No esperes que la gente entienda la pregunta.
 
 <details open><summary>en</summary>
 
-As a consequence of this glaring oversight, the harms just pile up and will bite us in the butt when our [Club membership](https://dothemath.ucsd.edu/2024/07/mm-6-accidental-tourists/) is terminated by our destroying Club functionality.
+As a consequence of this glaring oversight, the harms just pile up and will bite us in the butt when our [Club membership](https://dothemath.ucsd.edu/2024/07/mm-6-accidental-tourists/) is terminated by our destroying Club functionality.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Como consecuencia de este descuido evidente, los daños simplemente se acumulan y nos morderán en el trasero cuando nuestra [membresía del club](https://dothemath.ucsd.edu/2024/07/mm-6-acidental-tourists/) está terminado por nuestra funcionalidad del club destruyente.
+Como consecuencia de este descuido evidente,  
+los daños simplemente se acumulan  
+y nos morderán en el trasero  
+cuando nuestra [membresía del club](https://dothemath.ucsd.edu/2024/07/mm-6-accidental-tourists/) está terminado  
+por nuestra funcionalidad del club destruyente.+++(4)+++
 </details>
 
 ## Step 3—Fossil Fuels  
@@ -496,7 +533,8 @@ Fossil fuels utterly transformed *how* we went about our business.
 
 <details><summary>es</summary>
 
-Combustibles fósiles completamente transformados * Cómo * hicimos nuestro negocio.
+Combustibles fósiles completamente transformados  
+*Cómo* hicimos nuestro negocio.
 </details>
 
 <details open><summary>en</summary>
@@ -506,22 +544,24 @@ They dramatically turbo-charged our ability to manipulate and control.
 
 <details><summary>es</summary>
 
-Turbo-cargaron dramáticamente nuestra capacidad de manipular y controlar.
+Turbo-cargaron dramáticamente  
+nuestra capacidad de manipular y controlar.
 </details>
 
 <details open><summary>en</summary>
 
-We now had the means to carry out almost any fool notion that popped into anyone’s head.
+We now had the means to carry out almost any fool notion that popped into anyone’s head.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Ahora teníamos los medios para llevar a cabo casi cualquier noción tonta que apareciera en la cabeza de cualquiera.
+Ahora teníamos los medios  
+para llevar a cabo casi cualquier noción tonta que apareciera en la cabeza de cualquiera.
 </details>
 
 <details open><summary>en</summary>
 
-It’s as if we gained super-powers.
+It’s as if we gained super-powers.+++(5)+++
 </details>
 
 <details><summary>es</summary>
