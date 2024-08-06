@@ -576,7 +576,10 @@ We could move mountains, divert rivers, hold back the sea, build submarines to d
 
 <details><summary>es</summary>
 
-Podríamos mover montañas, desviar los ríos, retener el mar, construir submarinos para bucear, los aviones para volar altos y cohetes para incluso alcanzar el espacio.
+Podríamos mover montañas, desviar los ríos, 
+retener el mar, construir submarinos para bucear,  
+los aviones para volar altos  
+y cohetes para incluso alcanzar el espacio.
 </details>
 
 <details open><summary>en</summary>
@@ -586,7 +589,9 @@ We did not swim or fly as *elegantly* as life, but achieved a sort of awkward im
 
 <details><summary>es</summary>
 
-No nadamos ni volamos tan * elegantemente * como la vida, sino que logramos una especie de impresión incómoda en nuestras formas de Kludgy.
+No nadamos ni volamos tan * elegantemente * como la vida,  
+sino que logramos una especie de impresión  
+incómoda en nuestras formas de Kludgy.
 </details>
 
 <details open><summary>en</summary>
@@ -596,7 +601,8 @@ It seemed a sort of transcendence: breaking free of the limiting shackles of nat
 
 <details><summary>es</summary>
 
-Parecía una especie de trascendencia: liberarse de los grilletes limitantes de la naturaleza.
+Parecía una especie de trascendencia:  
+liberarse de los grilletes limitantes de la naturaleza.
 </details>
 
 <details open><summary>en</summary>
@@ -606,7 +612,7 @@ Yet all of this, remember, is temporary—illusory.
 
 <details><summary>es</summary>
 
-Sin embargo, todo esto, recuerde, es temporal: ilusorio.
+Sin embargo, todo esto, recuerde, es temporal: ilusorio.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
@@ -626,7 +632,7 @@ Fertilizer came from natural gas.
 
 <details><summary>es</summary>
 
-La fertilizante vino del gas natural. El fertilizante vino del gas natural.
+La fertilizante vino del gas natural.  
 </details>
 
 <details open><summary>en</summary>
@@ -636,7 +642,8 @@ Diesel allowed large-scale mechanization of plowing, planting, harvesting, proce
 
 <details><summary>es</summary>
 
-El diesel permitió la mecanización a gran escala de arado, plantación, cosecha, procesamiento y transporte de grandes cantidades de alimentos.
+El diesel permitió la mecanización a gran escala  
+de arado, plantación, cosecha, procesamiento y transporte de grandes cantidades de alimentos.
 </details>
 
 <details open><summary>en</summary>
@@ -670,16 +677,18 @@ Se reduce a una dieta de combustibles fósiles: nuevamente, [temporal](https://d
 </details>
 
 ## Hockey Stick Gallery  
-  {## Galería de Stick de hockey}
+{## Galería de palo de hockey}
 
 <details open><summary>en</summary>
 
-Increasingly heavy use of fossil fuels translated into a world characterized by “hockey stick” curves.
+Increasingly heavy use of fossil fuels  
+translated into a world characterized by “hockey stick” curves.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Uso cada vez más pesado de combustibles fósiles traducidos a un mundo caracterizado por curvas de "palo de hockey".
+Uso cada vez más pesado de combustibles fósiles  
+traducidos a un mundo caracterizado por curvas de "palo de hockey".
 </details>
 
 <details open><summary>en</summary>
@@ -689,17 +698,20 @@ A hockey stick is straight for a long time, then suddenly sweeps up.
 
 <details><summary>es</summary>
 
-Un palo de hockey es recto durante mucho tiempo, y de repente barre.
+Un palo de hockey es recto durante mucho tiempo,  
+y de repente barre.
 </details>
 
 <details open><summary>en</summary>
 
-Almost any absolute measure one plots in the human sphere takes on this shape.
+Almost any absolute measure one plots in the human sphere  
+takes on this shape.
 </details>
 
 <details><summary>es</summary>
 
-Casi cualquier medida absoluta una traza en la esfera humana toma esta forma.
+Casi cualquier medida absoluta una traza en la esfera humana  
+toma esta forma.
 </details>
 
 <details open><summary>en</summary>
@@ -709,7 +721,10 @@ Not only has human population followed a hockey-stick curve, but even *per-capit
 
 <details><summary>es</summary>
 
-La población humana no solo ha seguido una curva de palo de hockey, sino que incluso las medidas de * per-capita * han hecho lo mismo para que la escala * absoluta * de las cosas como la energía, los materiales y el desperdicio se disparen como * más * exagerado palos de hockey.
+La población humana no solo ha seguido una curva de palo de hockey,  
+sino que incluso las *medidas de per-capita* han hecho lo mismo  
+para que la escala *absoluta* de las cosas como la energía, los materiales y el desperdicio  
+se disparen como *más* exagerado palos de hockey.
 </details>
 
 <details open><summary>en</summary>
@@ -721,9 +736,12 @@ In the presentation, I show a gallery of hockey stick curves that I won’t bela
 
 <details><summary>es</summary>
 
-CO₂, un producto necesario de la combustión de combustibles fósiles, se disparó de forma natural también, y es la razón principal por la que muchas personas conocen el término "curva de palo de hockey".
+CO₂, un producto necesario de la combustión de combustibles fósiles,  
+se disparó de forma natural también,  
+y es la razón principal por la que muchas personas conocen el término "curva de palo de hockey".
 
- En la presentación, muestro una galería de curvas de palo de hockey que no seré aquí, como una publicación llamada [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey -sticks/) ya ha hecho ese trabajo.
+ En la presentación, muestro una galería de curvas de palo de hockey que no seré aquí,  
+ como una publicación llamada [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey -sticks/) ya ha hecho ese trabajo.
 </details>
 
 <details open><summary>en</summary>
@@ -733,7 +751,8 @@ Suffice it to say that plots of human population, energy, CO₂, copper (as a pr
 
 <details><summary>es</summary>
 
-Baste decir que las parcelas de población humana, energía, Co₂, cobre (como un proxy de los materiales minados) y la eliminación de plástico (como un proxy de los desechos) se disparan hacia arriba de manera heroica.
+Baste decir que las parcelas de población humana, energía, Co₂, cobre (como un proxy de los materiales minados) y la eliminación de plástico (como un proxy de los desechos)  
+se disparan hacia arriba de manera heroica.
 </details>
 
 <details open><summary>en</summary>
@@ -743,12 +762,12 @@ Where are they going?
 
 <details><summary>es</summary>
 
-A donde van ellas A donde van ellos
+A donde van ellas
 </details>
 
 <details open><summary>en</summary>
 
-Back down, as they must.
+Back down, as they must.+++(5)+++
 </details>
 
 <details><summary>es</summary>
@@ -767,98 +786,72 @@ Más sobre esto más tarde.
 </details>
 
 ## Ecological Hockey Sticks  
-  {## palos ecológicos de hockey}
+{## palos ecológicos de hockey}
 
 <details open><summary>en</summary>
 
 I also show some ecological measures:
 
-1.
 </details>
 
 <details><summary>es</summary>
 
 También muestro algunas medidas ecológicas:
 
- 1.
 </details>
 
 <details open><summary>en</summary>
 
-Extinction rates for amphibians, mammals, and birds.
+1\. Extinction rates for amphibians, mammals, and birds.
 </details>
 
 <details><summary>es</summary>
 
-Tasas de extinción para anfibios, mamíferos y aves.
+1\. Tasas de extinción para anfibios, mamíferos y aves.
 </details>
 
 <details open><summary>en</summary>
 
-Is it to be
-    celebrated that these measures are also shooting up in hockey stick
-    style?
+Is it to be celebrated that these measures are also shooting up in hockey stick style?
 </details>
 
 <details><summary>es</summary>
 
-Es para ser
- Celebrado que estas medidas también se están disparando en un palo de hockey
- ¿estilo?
+Es para ser Celebrado  
+que estas medidas también  
+se están disparando en un palo de hockey ¿estilo?
+</details>
+
+
+<details open><summary>en</summary>
+
+2\. Forest cover, which is declining globally and projected to hit zero by 2200, if the current inverse hockey stick is maintained.
+</details>
+
+<details><summary>es</summary>
+
+2\. Cubierta forestal, que está disminuyendo a nivel mundial y  se proyecta llegar a cero Para 2200, si se mantiene el palo de hockey inverso actual.
+</details>
+
+
+<details open><summary>en</summary>
+
+3 Old-growth (primeval) forest cover, on track to zero-out by 2100 4.
+</details>
+
+<details><summary>es</summary>
+
+3 Vigerio (Primeval) cubierta forestal, en camino a cero en 2100 
 </details>
 
 <details open><summary>en</summary>
 
-2.
+4\. Wild land mammal mass, plummeting toward zero frighteningly fast—the curve hitting zero by 2050!
 </details>
 
 <details><summary>es</summary>
 
-2.
-</details>
-
-<details open><summary>en</summary>
-
-Forest cover, which is declining globally and projected to hit zero
-    by 2200, if the current inverse hockey stick is maintained.
-</details>
-
-<details><summary>es</summary>
-
-Cubierta forestal, que está disminuyendo a nivel mundial y se proyecta llegar a cero
- Para 2200, si se mantiene el palo de hockey inverso actual.
-</details>
-
-<details open><summary>en</summary>
-
-3.
-</details>
-
-<details><summary>es</summary>
-
-3.
-</details>
-
-<details open><summary>en</summary>
-
-Old-growth (primeval) forest cover, on track to zero-out by 2100 4.
-</details>
-
-<details><summary>es</summary>
-
-Vigerio (Primeval) Cover de bosques, en camino a cero en 2100 4.
-</details>
-
-<details open><summary>en</summary>
-
-Wild land mammal mass, plummeting toward zero frighteningly fast—the
-    curve hitting zero by 2050!
-</details>
-
-<details><summary>es</summary>
-
-Masa de mamíferos de tierra salvaje, picado hacia cero terriblemente rápido, el
- ¡Curva golpeando cero para 2050!
+4\. Masa de mamíferos de tierra salvaje, picado hacia cero terriblemente rápido, el ¡Curva golpeando cero para 2050!
 </details>
 
 <details open><summary>en</summary>
@@ -878,7 +871,7 @@ I mean, the mathematical curves *as such* keep going and become (impossibly) neg
 
 <details><summary>es</summary>
 
-Quiero decir, las curvas matemáticas * como tales * continúan y se vuelven (imposiblemente) negativas.
+Quiero decir, las curvas matemáticas *como tales* continúan y se vuelven (imposiblemente) negativas.
 </details>
 
 <details open><summary>en</summary>
@@ -903,12 +896,14 @@ Las tendencias no se pueden hacer girar para estar bien, normales o saludables d
 
 <details open><summary>en</summary>
 
-The history has been tragic for the more-than-human world, who receive none of the benefits and the lion’s share of the cost.
+The history has been tragic for the more-than-human world, who receive none of the benefits and the lion’s share of the cost.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-La historia ha sido trágica para el mundo más que humano, que no recibe ninguno de los beneficios y la participación del león en el costo.
+La historia ha sido trágica para el mundo más que humano,  
+que no recibe ninguno de los beneficios  
+y la participación del león en el costo.
 </details>
 
 <details open><summary>en</summary>
@@ -918,7 +913,7 @@ I show again the mammal mass per person, as featured in [Episode 7](https://doth
 
 <details><summary>es</summary>
 
-Muestro nuevamente la masa de mamíferos por persona, como se muestra en [Episodio 7](https://dothemath.ucsd.edu/2024/07/mm-7-ecological-dosedive/) y en [Ecological Cliff Edge Post]( https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/).
+Muestro nuevamente la masa de mamíferos por persona, como se muestra en [Episodio 7](https://dothemath.ucsd.edu/2024/07/mm-7-ecological-dosedive/) y en [Post de acantilado ecológico]( https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/).
 </details>
 
 <details open><summary>en</summary>
@@ -928,7 +923,7 @@ The rate of descent is **truly alarming** and clearly way out of whack.
 
 <details><summary>es</summary>
 
-La tasa de descenso es ** realmente alarmante ** y claramente está fuera de lugar.
+La tasa de descenso es **realmente alarmante** y claramente está fuera de lugar.
 </details>
 
 <details open><summary>en</summary>
@@ -938,7 +933,7 @@ What do these trends make you think about our trajectory, given the accompanying
 
 <details><summary>es</summary>
 
-¿Qué te hacen pensar estas tendencias sobre nuestra trayectoria, dadas las aguas desventajas que lo acompañan?
+¿Qué te hacen pensar estas tendencias sobre nuestra trayectoria, dadas las desventajas rígidas que lo acompañan?
 </details>
 
 <details open><summary>en</summary>
@@ -958,7 +953,7 @@ Are we excited?
 
 <details><summary>es</summary>
 
-Nosotras estamos emocionadas Nosotros estamos emocionados
+Nosotras estamos emocionadas
 </details>
 
 ## Fossil Fuel Spike  
@@ -971,11 +966,11 @@ I show the following [recurrent](https://escholarship.org/uc/item/9js5291m##sect
 
 <details><summary>es</summary>
 
-Muestro el siguiente [recurrente](https://escholarship.org/uc/item/9js5291m###section.8.1) dibujos animados de combustible fósil con el tiempo, que no puede estar lejos de ser precisa, dada la naturaleza de la naturaleza de la naturaleza de la naturaleza bestia.
+Muestro el siguiente [recurrente](https://escholarship.org/uc/item/9js5291m###section.8.1) dibujos animados de combustible fósil con el tiempo, que no puede estar lejos de ser precisa, dada la naturaleza bestia.
 </details>
 
 ![](https://dothemath.ucsd.edu/wp-content/uploads/2022/06/peak-ff-oil.png)  
-  {! [](https://dothemath.ucsd.edu/wp-content/uploads/2022/06/peak-ff-oil.png)}
+
 
 <details open><summary>en</summary>
 
