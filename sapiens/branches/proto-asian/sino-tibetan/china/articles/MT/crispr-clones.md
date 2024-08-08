@@ -44,3 +44,9 @@ We have have seen many fake chIna claims: could this be one? We will have to wai
 
 I posit that the chIna-s are pursuing the forbidden fruits of the CRISPR Wong and super-Han albeit in secret. My own stance is not colored by Abrahamistic hold ups but I do thinks that this form of eugenics needs more careful consideration: e.g. CCR5 is not there for nothing: do we know all about it before disrupting it. 
 
+## Dual use
+
+Source: [TW](https://x.com/blog_supplement/status/1821386565584609401)
+
+When the chIna-s edited CCR5 to make their "CRISPR" children, they claimed it was for HIV resistance. However, it was more likely concealed dual use in the least: probably to increase cognitive abilities as modulating CCR5 signaling improves learning and memory. It would have been a good way to use the cover of something benign as HIV resistance to test out cognitive boosterism along the general lines championed by chaps like Hsu -- he, of course, wants to make 100s of edits. 
+
