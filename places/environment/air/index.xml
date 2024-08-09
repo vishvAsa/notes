@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Air on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/places/environment/air/</link>
+    <description>Recent content in &#43;Air on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/places/environment/air/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chimney</title>
+      <link>https://vishvAsa.github.io/notes/places/environment/air/chimney/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/places/environment/air/chimney/</guid>
+      <description>Intro The addition of chimneys, in all cases, reduces smoke pollution. It also increases combustion efficiency due to the chimney effect - more effectively pulling fresh air. Chimney effect - height of the chimney is directly proportional to the pressure with which cold air gets sucked in. Parameters Suction power. Should suffice to change air 10 times per hour. This means 1000 m3/h for 353 sqft space (10ft high ceiling). 1186 m3/hr for 419 cuft space.</description>
+    </item>
+    
+    <item>
+      <title>Fan</title>
+      <link>https://vishvAsa.github.io/notes/places/environment/air/fan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/places/environment/air/fan/</guid>
+      <description>They don’t cool rooms, they just provide air circulation in the room to cool you. Metrics Air Delivery : example 225 CMM (Cubic Meters per Minute) Number of blades More blades - less speed, but also less noisy. Blade sweep. In ceiling fans: 600mm (2ft), 1200 mm (4 ft), 1400mm (5 ft) are common. Greater sweep is like adding more blades plus greater reach for air. Noise - double ball bearings mean less noise.</description>
+    </item>
+    
+    <item>
+      <title>Pollutants</title>
+      <link>https://vishvAsa.github.io/notes/places/environment/air/Pollutants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/places/environment/air/Pollutants/</guid>
+      <description>Allergens The period at the end of this sentence is approximately 400 microns in size. Pollen grains are 30 microns, dust mite waste particles are about 20 microns, and cat allergen particles vary from about 1 to 20 microns in size. Virus .1 micron. Bacteria .5 micron. Particulate matter Size Common measurements: PM2.5 (2.5 micrometers), PM10 (10 micrometers) &amp;ldquo;It is generally recognized that smaller particles are more harmful to human health.</description>
+    </item>
+    
+    <item>
+      <title>Purifier</title>
+      <link>https://vishvAsa.github.io/notes/places/environment/air/purifier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/places/environment/air/purifier/</guid>
+      <description>Parameters See allergen sizes in Pollutants page. Air flow rate Clean air delivery rate (CADR) - amount of clean air coming out of the air purifier on the highest fan speed. Definition: Volume/Time of air in a 1,008-cubic-foot (28.5 m3) room that has had all the particles of a given size distribution removed from the air, over and above the rate at which the particles are naturally falling out of the air.</description>
+    </item>
+    
+  </channel>
+</rss>
