@@ -1009,7 +1009,8 @@ I can say this with confidence, because the fossil fuel curve necessarily self-t
 
 <details><summary>es</summary>
 
-Puedo decir esto con confianza, porque la curva de combustible fósil necesariamente se auto termina.
+Puedo decir esto con confianza,  
+porque la curva de combustible fósil necesariamente se auto termina.
 </details>
 
 <details open><summary>en</summary>
@@ -1024,32 +1025,43 @@ Debe volver a cero.
 
 <details open><summary>en</summary>
 
-We don’t have the freedom to draw it any way we wish, because the *area under the curve* is set by the total resource amount, which pays no attention to anything our neurons decide they might wish it to do.
+We don’t have the freedom to draw it any way we wish, because the *area under the curve* is set by the total resource amount, which pays no attention to anything our neurons decide they might wish it to do.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-No tenemos la libertad de dibujarlo de ninguna manera que deseemos, porque el área * bajo la curva * está establecida por el monto total del recurso, que no presta atención a nada de nada que nuestras neuronas decidan que deseen que haga.
+No tenemos la libertad de dibujarlo de ninguna manera que deseemos,  
+porque el *área bajo la curva* está establecida  
+por el monto total del recurso,  
+que no presta atención a nada de nada  
+que nuestras neuronas decidan que deseen que haga.
 </details>
 
 <details open><summary>en</summary>
 
-I know from teaching students that this fact comes as a surprise to many, which says a lot about the narratives we use to condition our culture.
+I know from teaching students that this fact comes as a surprise to many,  
+which says a lot about the narratives we use to condition our culture.
 </details>
 
 <details><summary>es</summary>
 
-Sé al enseñar a los estudiantes que este hecho es una sorpresa para muchos, lo que dice mucho sobre las narrativas que usamos para condicionar nuestra cultura.
+Sé al enseñar a los estudiantes que este hecho es una sorpresa para muchos,  
+lo que dice mucho sobre las narrativas  
+que usamos para condicionar nuestra cultura.
 </details>
 
 <details open><summary>en</summary>
 
-Our individual lives are short enough that we have each ridden up the ascending top portion of this curve, and therefore perceive the state of affairs for the handful of decades we’ve been around as **normal** (and *fun*, for some).
+Our individual lives are short enough that we have each ridden up the ascending top portion of this curve, and therefore perceive the state of affairs for the handful of decades we’ve been around as **normal** (and *fun*, for some).+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Nuestras vidas individuales son lo suficientemente cortas como para que cada una haya montado la parte superior ascendente de esta curva y, por lo tanto, percibimos el estado de cosas por el puñado de décadas que hemos estado presentes como ** normal ** (y*divertido*, porque alguno).
+Nuestras vidas individuales son lo suficientemente cortas  
+como para que cada una haya montado la parte superior ascendente de esta curva  
+y, por lo tanto, percibimos el estado de cosas por el puñado de décadas  
+que hemos estado presentes  
+como **normal** (y *divertido*, porque alguno).
 </details>
 
 <details open><summary>en</summary>
@@ -1074,12 +1086,13 @@ Wow!
 
 <details open><summary>en</summary>
 
-Whatever we use our brains for, it’s not for appreciating the broader context, by-and-large.
+Whatever we use our brains for, it’s not for appreciating the broader context, by-and-large.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Independientemente de lo que usemos nuestros cerebros, no es para apreciar el contexto más amplio, por todo.
+Independientemente de lo que usemos nuestros cerebros,  
+no es para apreciar el contexto más amplio, por todo.
 </details>
 
 <details open><summary>en</summary>
@@ -1089,7 +1102,8 @@ In any case, the emerging narrative is both wrong and dangerous.
 
 <details><summary>es</summary>
 
-En cualquier caso, la narrativa emergente es incorrecta y peligrosa.
+En cualquier caso, la narrativa emergente  
+es incorrecta y peligrosa.
 </details>
 
 ## The River  
@@ -1112,7 +1126,9 @@ I don’t belabor it, but I mention a list of consequences of our stepping into 
 
 <details><summary>es</summary>
 
-No lo llamo, pero menciono una lista de consecuencias de nuestro paso a la corriente agrícola hace 10,000 años.
+No lo llamo,  
+pero menciono una lista de consecuencias de nuestro paso  
+a la corriente agrícola hace 10,000 años.
 </details>
 
 <details open><summary>en</summary>
@@ -1132,7 +1148,12 @@ Agriculture led to settlements, then possessions, surplus, armies to protect (an
 
 <details><summary>es</summary>
 
-La agricultura condujo a asentamientos, luego posesiones, excedentes, ejércitos para proteger (y atacar) excedentes, derechos de propiedad, patriarcado y monoteísmo, división del trabajo, jerarquía, clases y subyugación de animales y humanos.
+La agricultura condujo a asentamientos,  
+luego posesiones,  
+excedentes, ejércitos para proteger (y atacar) excedentes,  
+derechos de propiedad,  
+patriarcado y monoteísmo,  
+división del trabajo, jerarquía, clases y subyugación de animales y humanos.
 </details>
 
 <details open><summary>en</summary>
@@ -1142,7 +1163,10 @@ Many negative ecological impacts also accompanied agriculture such as deforestat
 
 <details><summary>es</summary>
 
-Muchos impactos ecológicos negativos también acompañaron a la agricultura, como la deforestación, la erosión del suelo, la acumulación de sal, la desertificación, entre otros.
+Muchos impactos ecológicos negativos  
+también acompañaron a la agricultura,  
+como la deforestación, la erosión del suelo,  
+la acumulación de sal, la desertificación, entre otros.
 </details>
 
 <details open><summary>en</summary>
@@ -1152,7 +1176,9 @@ Then, science joins the flow as a powerful tributary that serves to accelerate t
 
 <details><summary>es</summary>
 
-Luego, la ciencia se une al flujo como un poderoso afluente que sirve para acelerar estos patrones.
+Luego, la ciencia se une al flujo  
+como un poderoso afluente  
+que sirve para acelerar estos patrones.
 </details>
 
 <details open><summary>en</summary>
@@ -1162,21 +1188,25 @@ Shortly after, fossil fuels flooded the river to super-charge our degree of cont
 
 <details><summary>es</summary>
 
-Poco después, los combustibles fósiles inundaron el río para superar nuestro grado de control y velocidad.
+Poco después, los combustibles fósiles inundaron el río  
+para superar nuestro grado de control y velocidad.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
 
-The river then goes over a waterfall, self-terminating as it must—given its erosion of the ecological riverbed.
+The river then goes over a waterfall,  
+self-terminating as it must—given its erosion of the ecological riverbed.
 </details>
 
 <details><summary>es</summary>
 
-Luego, el río pasa por encima de una cascada, auto terminado como debe, entregando su erosión del lecho de río ecológico.
+Luego, el río pasa por encima de una cascada,  
+auto terminado como debe,  
+entregando su erosión del lecho de río ecológico.
 </details>
 
 ## How Should We Live?  
-  {## ¿Cómo debemos vivir?}
+{## ¿Cómo debemos vivir?}
 
 <details open><summary>en</summary>
 
@@ -1185,7 +1215,8 @@ All of this leaves us confused about how to live on this planet.
 
 <details><summary>es</summary>
 
-Todo esto nos deja confundidos sobre cómo vivir en este planeta.
+Todo esto nos deja confundidos sobre  
+cómo vivir en este planeta.
 </details>
 
 <details open><summary>en</summary>
@@ -1195,17 +1226,24 @@ We are now far removed from our ecological context and struggle to define the ri
 
 <details><summary>es</summary>
 
-Ahora estamos muy alejados de nuestro contexto ecológico y luchamos por definir la forma correcta de vivir en este "mundo" desordenado, artificial, temporal y construido humano. La forma en que vivimos ahora es inusual, [extremadamente nuevo](https://dothemath.ucsd.edu/2024/07/mm-8-timeline/), y nunca se siente bien.
+Ahora estamos muy alejados de nuestro contexto ecológico  
+y luchamos por definir la forma correcta de vivir en este "mundo" desordenado, artificial, temporal y construido humano.  
+La forma en que vivimos ahora es inusual, [extremadamente nuevo](https://dothemath.ucsd.edu/2024/07/mm-8-timeline/),  
+y nunca se siente bien.
 </details>
 
 <details open><summary>en</summary>
 
-Note that animals (aside from domesticated ones, perhaps) are not at all confused about how to live in this world, when immersed in their ecological context (they *can* become confused about how to function in our artificial, novel context—frozen in the headlights, as it were).
+Note that animals (aside from domesticated ones, perhaps) are not at all confused about how to live in this world, when immersed in their ecological context (they *can* become confused about how to function in our artificial, novel context— frozen in the headlights, as it were).
 </details>
 
 <details><summary>es</summary>
 
-Tenga en cuenta que los animales (aparte de los domesticados, tal vez) no están confundidos sobre cómo vivir en este mundo, cuando se sumergen en su contexto ecológico ( * pueden * confundirse sobre cómo funcionar en nuestro contexto artificial y novedoso: Frozen in in In los faros, por así decirlo).
+Tenga en cuenta que los animales (aparte de los domesticados, tal vez)  
+no están confundidos sobre cómo vivir en este mundo,  
+cuando se sumergen en su contexto ecológico  
+( *pueden* confundirse sobre cómo funcionar en nuestro contexto artificial y novedoso:  
+congelado en los faros, por así decirlo).
 </details>
 
 <details open><summary>en</summary>
@@ -1225,7 +1263,9 @@ One thing just led to another, as in the metaphor of the river with its tributar
 
 <details><summary>es</summary>
 
-Una cosa solo llevó a otra, como en la metáfora del río con sus afluentes.
+Una cosa solo llevó a otra,  
+como en la metáfora del río  
+con sus afluentes.
 </details>
 
 <details open><summary>en</summary>
@@ -1235,7 +1275,8 @@ No one sat around a table and plotted this course.
 
 <details><summary>es</summary>
 
-Nadie se sentó alrededor de una mesa y trazó este curso.
+Nadie se sentó alrededor de una mesa  
+y trazó este curso.
 </details>
 
 <details open><summary>en</summary>
@@ -1245,17 +1286,24 @@ It operates more like a trap: once you start going, this is where you end up, gi
 
 <details><summary>es</summary>
 
-Funciona más como una trampa: una vez que comienzas a ir, aquí es donde terminas, dados los recursos a mano.
+Funciona más como una trampa:  
+una vez que comienzas a ir,  
+aquí es donde terminas,  
+dados los recursos a mano.
 </details>
 
 <details open><summary>en</summary>
 
-We’re executing a sort of “look what we can do” behavior, like kids trying to impress each other doing stupid stunts on bikes, as I frequently did as a kid.
+We’re executing a sort of “look what we can do” behavior, like kids trying to impress each other doing stupid stunts on bikes, as I frequently did as a kid.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Estamos ejecutando una especie de comportamiento "Mira lo que podemos hacer", como los niños que intentan impresionarse haciendo acrobacias estúpidas en las bicicletas, como lo hacía con frecuencia cuando era niño.
+Estamos ejecutando una especie de comportamiento  
+"Mira lo que podemos hacer",  
+como los niños que intentan impresionarse una a la otra  
+haciendo acrobacias estúpidas en las bicicletas,  
+como lo hacía con frecuencia cuando era niño.
 </details>
 
 <details open><summary>en</summary>
@@ -1265,27 +1313,34 @@ It’s part of testing our limits—learning what we are—and *are not*—capab
 
 <details><summary>es</summary>
 
-Es parte de probar nuestros límites, aprendiendo lo que somos, y *no *, *, no se pueden hacer.
+Es parte de probar nuestros límites,  
+aprendiendo lo que pueden,  
+y no se puede hacer.
 </details>
 
 <details open><summary>en</summary>
 
-It’s time for us to abandon this adolescent phase and start asking bigger-picture questions about the consequences of our actions.
+It’s time for us to abandon this adolescent phase and start asking bigger-picture questions about the consequences of our actions.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Es hora de que abandonemos esta fase de adolescentes y comiencemos a hacer preguntas más grandes sobre las consecuencias de nuestras acciones.
+Es hora de que abandonemos esta fase de adolescentes  
+y comiencemos a hacer preguntas más grandes  
+sobre las consecuencias de nuestras acciones.
 </details>
 
 <details open><summary>en</summary>
 
-Right now, we are accumulating a lot of collateral damage on the ecological front—endangering the entire community including ourselves.
+Right now, we are accumulating a lot of collateral damage on the ecological front—  
+endangering the entire community including ourselves.
 </details>
 
 <details><summary>es</summary>
 
-En este momento, estamos acumulando mucho daño colateral en el frente ecológico, que sale a toda la comunidad, incluidos nosotros mismos.
+En este momento, estamos acumulando mucho daño colateral  
+en el frente ecológico,  
+que ponder a toda la comunidad, incluidos nosotros mismos.
 </details>
 
 <details open><summary>en</summary>
@@ -1315,7 +1370,9 @@ We are not, at present, prioritizing long term sustainability or overall ecologi
 
 <details><summary>es</summary>
 
-En la actualidad, no estamos priorizando la sostenibilidad a largo plazo o la aptitud ecológica general.
+En la actualidad, ahora, no estamos priorizando  
+la sostenibilidad a largo plazo  
+o la aptitud ecológica general.
 </details>
 
 ## Closing and Do the Math  

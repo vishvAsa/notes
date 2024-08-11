@@ -22,7 +22,7 @@ MM #10: Ditch the Bad?
 
 <details><summary>es</summary>
 
-MM # 10: Olvida la mala? MM # 10: Olvida lo malo?
+MM # 10: Olvida la mala?
 </details>
 
 <details open><summary>en</summary>
@@ -32,17 +32,23 @@ This is the tenth of 18 installments in the [Metastatic Modernity video series](
 
 <details><summary>es</summary>
 
-Esta es la décima de 18 entregas en la [serie de videos de modernidad metastásica](https://dothemath.ucsd.edu/metastatic-modernity-video-series/) (ver [anuncio de lanzamiento](https: //dothemath.ucsd. edu/2024/07/metastásica-modernidad-launch/)), poniendo la meta-crisis en perspectiva como una enfermedad cancerosa que afecta a la humanidad y a la gran comunidad de la vida en la tierra.
+Esta es la décima de 18 entregas en la [serie de videos de modernidad metastásica](https://dothemath.ucsd.edu/metastatic-modernity-video-series/) (ver [anuncio de lanzamiento](https: //dothemath.ucsd. edu/2024/07/mmetastatic-modernity-launch/)),  
+poniendo la meta-crisis en perspectiva  
+como una enfermedad cancerosa  
+que afecta a la humanidad y a la gran comunidad de la vida en la tierra.
 </details>
 
 <details open><summary>en</summary>
 
-This episode confronts the bargaining plea: can’t we keep all the stuff we like about modernity and just get rid of the stuff we don’t like?
+This episode confronts the bargaining plea: can’t we keep all the stuff we like about modernity  
+and just get rid of the stuff we don’t like?
 </details>
 
 <details><summary>es</summary>
 
-Este episodio confronta la súplica de negociación: ¿No podemos mantener todo lo que nos gustan de la modernidad y simplemente deshacernos de las cosas que no nos gustan?
+Este episodio confronta la súplica de negociación:  
+¿No podemos mantener todo lo que nos gustan de la modernidad  
+y simplemente deshacernos de las cosas que no nos gustan?
 </details>
 
 <div class="videoEmbed"  caption="Video" src="https://www.youtube.com/watch?v=oIcySDC_Lz0"></div>  
@@ -55,7 +61,11 @@ As is the custom for the series, I provide a stand-alone companion piece in writ
 
 <details><summary>es</summary>
 
-Como es la costumbre de la serie, proporciono una pieza complementaria independiente en forma escrita (no una transcripción) para que las ideas clave puedan ser absorbidas por un canal diferente.
+Como es la costumbre de la serie,  
+proporciono una pieza complementaria  
+independiente en forma escrita (no una transcripción)  
+para que las ideas clave puedan ser absorbidas  
+por un canal diferente.
 </details>
 
 <details open><summary>en</summary>
@@ -65,7 +75,10 @@ The write-up that follows is arranged according to “chapters” in the video, 
 
 <details><summary>es</summary>
 
-La redacción que sigue se organiza de acuerdo con los "capítulos" en el video, navegable a través de enlaces en el campo de descripción de YouTube.
+La redacción que sigue se organiza  
+de acuerdo con los "capítulos" en el video,  
+navegable a través de enlaces  
+en el campo de descripción de YouTube.
 </details>
 
 ## Introduction  
@@ -78,7 +91,8 @@ This is the usual short naming of the series, of myself, and the topic of this e
 
 <details><summary>es</summary>
 
-Este es el breve nombre habitual de la serie, de mí mismo, y el tema de este episodio (¿podemos mantener lo "bueno" y eliminar lo malo?)
+Este es el breve nombre habitual de la serie, de mí mismo, y el tema de este episodio  
+(¿podemos mantener lo "bueno" y eliminar lo malo?)
 </details>
 
 <details open><summary>en</summary>
@@ -88,7 +102,8 @@ as part of our effort to put modernity into context.
 
 <details><summary>es</summary>
 
-como parte de nuestro esfuerzo por poner la modernidad en contexto.
+como parte de nuestro esfuerzo  
+por poner la modernidad en contexto.
 </details>
 
 ## Trappings of Modernity  
@@ -101,7 +116,9 @@ We use this term, trappings, to indicate the outward signs of success: the bells
 
 <details><summary>es</summary>
 
-Usamos este término, adornos, para indicar los signos externos de éxito: las campanas, las silbatos, las comodidades y el consumo conspicuo de nuestra cultura.
+Usamos este término, adornos,  
+para indicar los signos externos de éxito: las campanas, las silbatos, las comodidades  
+y el consumo conspicuo de nuestra cultura.
 </details>
 
 <details open><summary>en</summary>
