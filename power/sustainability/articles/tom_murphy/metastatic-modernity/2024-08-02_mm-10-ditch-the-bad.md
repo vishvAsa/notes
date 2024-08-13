@@ -111,7 +111,8 @@ por poner la modernidad en contexto.
 
 <details open><summary>en</summary>
 
-We use this term, trappings, to indicate the outward signs of success: the bells, whistles, conveniences, and conspicuous consumption of our culture.
+We use this term, trappings, to indicate the outward signs of success:  
+the bells, whistles, conveniences, and conspicuous consumption of our culture.
 </details>
 
 <details><summary>es</summary>
@@ -128,12 +129,13 @@ But it’s a pyrrhic kind of success: superficial; itself leading to failure.
 
 <details><summary>es</summary>
 
-Pero es un tipo de éxito pírrico: superficial; en sí mismo conduciendo al fracaso.
+Pero es un tipo de éxito pírrico: superficial;  
+en sí mismo conduciendo al fracaso.
 </details>
 
 <details open><summary>en</summary>
 
-I like that the word also has “trap” built into it.
+I like that the word also has “trap” built into it.+++(4)+++
 </details>
 
 <details><summary>es</summary>
@@ -148,7 +150,11 @@ Modernity offers many alluring perks that act like monkey traps: we grab the ban
 
 <details><summary>es</summary>
 
-La modernidad ofrece muchas ventajas atractivas que actúan como trampas de mono: tomamos el plátano y no lo dejamos ir, incluso en detrimento.
+La modernidad ofrece muchas ventajas atractivas  
+que actúan como trampas de mona:  
+tomamos el plátano  
+y no lo dejamos ir,  
+Incluso en nuestro detrimento.
 </details>
 
 <details open><summary>en</summary>
@@ -166,12 +172,17 @@ Los costos ocultos se vuelven demasiado grandes para soportar, al final.
 
 <details open><summary>en</summary>
 
-My conclusion that modernity will turn out to be a failed experiment—ultimately unsupported by the forces of ecology and evolution—trips a circuit breaker for lots of people.
+My conclusion that modernity will turn out to be a failed experiment—  
+ultimately unsupported by the forces of ecology and evolution—  
+trips a circuit breaker for lots of people.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Mi conclusión de que la modernidad resultará ser un experimento fallido, al principio no respaldado por las fuerzas de la ecología y la evolución, acompaña un interruptor de circuito para muchas personas.
+Mi conclusión de que la modernidad resultará  
+ser un experimento fallido,  
+al principio no respaldado por las fuerzas de la ecología y la evolución,  
+acompaña un interruptor de circuito para muchas personas.
 </details>
 
 <details open><summary>en</summary>
@@ -181,7 +192,7 @@ Do I propose a return to the Stone Age?
 
 <details><summary>es</summary>
 
-¿Propongo un regreso a la Edad de Piedra?
+¿Propongo un regreso a la Edad de Piedina?
 </details>
 
 <details open><summary>en</summary>
@@ -191,7 +202,9 @@ Fury wells up at all the lost benefits such a reversion would entail.
 
 <details><summary>es</summary>
 
-Fury se acerca a todos los beneficios perdidos que implicaría tal reversión.
+Furia se acerca  
+a todos los beneficios perdidos  
+que implicaría tal reversión.
 </details>
 
 <details open><summary>en</summary>
@@ -206,56 +219,78 @@ What a monstrous proposal!
 
 <details open><summary>en</summary>
 
-Firstly, I am making no proposals: just pointing out that modernity can’t be the answer, and we don’t possess the power of choice to maintain something that is fundamentally unsustainable.
+Firstly, I am making no proposals: just pointing out that modernity can’t be the answer,  
+and we don’t possess the power of choice to maintain something that is fundamentally unsustainable.
 </details>
 
 <details><summary>es</summary>
 
-En primer lugar, no estoy haciendo propuestas: solo señalar que la modernidad no puede ser la respuesta, y no poseemos el poder de elección para mantener algo que es fundamentalmente insostenible.
+En primer lugar, no estoy haciendo propuestas:  
+solo señalar que la modernidad no puede ser la respuesta,  
+y no poseemos el poder de elección  
+para mantener algo que es fundamentalmente insostenible.
 </details>
 
 <details open><summary>en</summary>
 
-We similarly can’t decide to ignore gravity and float through the room.
+We similarly can’t decide to ignore gravity  
+and float through the room.
 </details>
 
 <details><summary>es</summary>
 
-Del mismo modo, no podemos decidir ignorar la gravedad y flotar por la habitación.
+Del mismo modo,  
+no podemos decidir ignorar la gravedad  
+y flotar por la habitación.
 </details>
 
 <details open><summary>en</summary>
 
-This anomalous period of rapid inheritance spending in a one-time draw-down of ecological health has given us the false impression that we can do anything we want—that it’s all a matter of choice.
+This anomalous period of rapid inheritance spending  
+in a one-time draw-down of ecological health has given us the false impression  
+that we can do anything we want—  
+that it’s all a matter of choice.
 </details>
 
 <details><summary>es</summary>
 
-Este período anómalo de gasto de herencia rápida en un desplazamiento único de la salud ecológica nos ha dado la falsa impresión de que podemos hacer lo que queramos, que todo es una cuestión de elección.
+Este período anómalo de gasto de herencia rápida  
+en un desplazamiento único de la salud ecológica  
+nos ha dado la falsa impresión  
+de que podemos hacer lo que queramos,  
+que todo es una cuestión de elección.
 </details>
 
 <details open><summary>en</summary>
 
-We therefore live in a fleeting fantasy world in which our mental models don’t match the broader reality.
+We therefore live in a fleeting fantasy world  
+in which our mental models  
+don’t match the broader reality.
 </details>
 
 <details><summary>es</summary>
 
-Por lo tanto, vivimos en un mundo de fantasía fugaz en el que nuestros modelos mentales no coinciden con la realidad más amplia.
+Por lo tanto,  
+vivimos en un mundo de fantasía fugaz  
+en el que nuestros modelos mentales  
+no coinciden con la realidad más amplia.
 </details>
 
 <details open><summary>en</summary>
 
-The temporary excess of this moment makes us poor judges of what’s possible in the long term.
+The temporary excess of this moment makes us poor judges  
+of what’s possible in the long term.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-El exceso temporal de este momento nos convierte en jueces pobres de lo que es posible a largo plazo.
+El exceso temporal de este momento  
+nos convierte en jueces pobres  
+de lo que es posible a largo plazo.
 </details>
 
 ## Our Likes and Dislikes  
-  {## Nuestras gustos y disgustos ## Nuestros gustos y disgustos}
+{## Nuestros gustos y disgustos}
 
 <details open><summary>en</summary>
 
@@ -264,7 +299,9 @@ Let’s start a table—admittedly incomplete—of the things we like, just to b
 
 <details><summary>es</summary>
 
-Comencemos una mesa, admitidamente incompleta, de las cosas que nos gustan, solo para construir un sabor.
+Comencemos una mesa, admitidamente incompleta,  
+de las cosas que nos gustan,  
+solo para construir un sabor.
 </details>
 
 <details open><summary>en</summary>
@@ -279,12 +316,14 @@ También agregaremos una columna de las desventajas: cosas que no nos gustan y p
 
 <details open><summary>en</summary>
 
-The columns are not matched, row-for-row, but constitute two independent lists.
+The columns are not matched, row-for-row,  
+but constitute two independent lists.
 </details>
 
 <details><summary>es</summary>
 
-Las columnas no coinciden, la fila por fila, sino que constituyen dos listas independientes.
+Las columnas no coinciden, la fila por fila,  
+sino que constituyen dos listas independientes.
 </details>
 
 <details open><summary>en</summary>
@@ -318,20 +357,29 @@ I’m sure you could add to both columns (science would be an appropriate Like, 
  | Entretenimiento de video | Dominación del mercado |
  | Computadoras/Internet | Tráfico/estacionamiento (hacinamiento) |
 
- Estoy seguro de que podrías agregar a ambas columnas (la ciencia sería apropiada, por ejemplo).
+Estoy seguro de que podrías agregar a ambas columnas  
+(la ciencia sería apropiada, por ejemplo).
 </details>
 
 #### The Big Perks  
-  {#### Las grandes ventajas}
+{#### Las grandes ventajas}
 
 <details open><summary>en</summary>
 
-An aside on the first two Likes… A common one is that “I and/or someone I know and love dearly would not be here without modern medical intervention.” I can say nothing other than I am glad to have you/them with us, still.
+An aside on the first two Likes…  
+A common one is that  
+“I and/or someone I know and love dearly would not be here without modern medical intervention.” I can say nothing other than I am glad to have you/them with us, still.
 </details>
 
 <details><summary>es</summary>
 
-Un aparte de los dos primeros me gusta ... uno común es que "yo y/o alguien que conozco y amo no estaría aquí sin una intervención médica moderna". No puedo decir nada más que me alegro de tenerte/ellos con nosotros, todavía.
+Un aparte de los dos primeros me gusta ...  
+uno común es que  
+"yo y/o alguien que conozco y amo  
+no estaría aquí  
+sin una intervención médica moderna".  
+No puedo decir nada más que  
+me alegro de tener te/ellos con nosotros, todavía.
 </details>
 
 <details open><summary>en</summary>
@@ -356,12 +404,12 @@ Ocho mil millones de personas, de hecho, son increíbles.
 
 <details open><summary>en</summary>
 
-Just not when all here at once.
+Just not when all here at once.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Simplemente no cuando todo aquí a la vez.
+Simplemente no cuando todo aquí a la vez.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
@@ -371,17 +419,24 @@ Spread it out, maybe, and then we can talk about more than 8 billion, distribute
 
 <details><summary>es</summary>
 
-Extiendalo, tal vez, y luego podemos hablar de más de 8 mil millones, distribuidos con el tiempo.
+Extiendalo, tal vez,  
+y luego podemos hablar de más de 8 mil millones,  
+distribuidos con el tiempo.
 </details>
 
 <details open><summary>en</summary>
 
-But we can’t change the facts, and I do not propose harming any human already here through no fault of their own.
+But we can’t change the facts,  
+and I do not propose harming any human already here  
+through no fault of their own.
 </details>
 
 <details><summary>es</summary>
 
-Pero no podemos cambiar los hechos, y no propongo dañar a ningún humano que ya esté aquí sin culpa propia.
+Pero no podemos cambiar los hechos,  
+y no propongo dañar a ningún humano  
+que ya esté aquí  
+sin culpa propia.
 </details>
 
 <details open><summary>en</summary>
@@ -391,7 +446,8 @@ We need to get through this crunch and learn from our mistakes.
 
 <details><summary>es</summary>
 
-Necesitamos superar este crujido y aprender de nuestros errores.
+Necesitamos superar este crujido  
+y aprender de nuestros errores.
 </details>
 
 <details open><summary>en</summary>
@@ -401,17 +457,23 @@ The next big perk is access to food.
 
 <details><summary>es</summary>
 
-La siguiente gran ventaja es el acceso a la comida.
+La siguiente gran ventaja  
+es el acceso a la comida.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
 
-About 5.5 billion people in the world enjoy food security, having enough money that food is not particularly problematic to obtain.
+About 5.5 billion people in the world enjoy food security,  
+having enough money that  
+food is not particularly problematic to obtain.
 </details>
 
 <details><summary>es</summary>
 
-Alrededor de 5.500 millones de personas en el mundo disfrutan de la seguridad alimentaria, tener suficiente dinero para que la comida no sea particularmente problemática de obtener.
+Alrededor de 5.500 millones de personas en el mundo  
+disfrutan de la seguridad alimentaria,  
+tener suficiente dinero para que  
+la comida no sea particularmente problemática de obtener.
 </details>
 
 <details open><summary>en</summary>
@@ -425,26 +487,34 @@ La gente alimentada naturalmente ve esto como algo bueno.
 </details>
 
 #### Political Leanings  
-  {#### Inclinación política}
+{#### Inclinación política}
 
 <details open><summary>en</summary>
 
-Political movements *sometimes* focus on both columns, but it seems more attention goes to “what do we want?” (more perks) than to eliminating negatives that are more conveniently pushed aside and ignored.
+Political movements *sometimes* focus on both columns,  
+but it seems more attention goes to “what do we want?” (more perks)  
+than to eliminating negatives  
+that are more conveniently pushed aside and ignored.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Movimientos políticos * a veces * Centrarse en ambas columnas, pero parece que va más atención a "¿Qué queremos?" (más ventajas) que eliminar negativos que sean más convenientemente empujados e ignorados.
+Movimientos políticos *a veces* Centrarse en ambas columnas,  
+pero parece que va más atención a "¿Qué queremos?" (más ventajas)  
+que eliminar negativos  
+que sean más convenientemente empujados e ignorados.
 </details>
 
 <details open><summary>en</summary>
 
-Campaigns tend to work better on positivity and promise than on the ills that need to be reduced or eliminated.
+Campaigns tend to work better on positivity and promise  
+than on the ills that need to be reduced or eliminated.
 </details>
 
 <details><summary>es</summary>
 
-Las campañas tienden a funcionar mejor en positividad y promesa que en los males que necesitan ser reducidos o eliminados.
+Las campañas tienden a funcionar mejor en positividad y promesa  
+que en los males que necesitan ser reducidos o eliminados.
 </details>
 
 <details open><summary>en</summary>
@@ -454,11 +524,12 @@ It’s worth being aware of this bias in the context of Likes and Dislikes.
 
 <details><summary>es</summary>
 
-Vale la pena ser consciente de este sesgo en el contexto de me gusta y disgusto.
+Vale la pena ser consciente de este sesgo  
+en el contexto de gustos y disgustos.
 </details>
 
 ## A Brilliant Plan!  
-  {## ¡Un plan brillante!}
+{## ¡Un plan brillante!}
 
 <details open><summary>en</summary>
 
@@ -471,43 +542,42 @@ Here’s how a lot of people work (myself included, at times):
 
 Así es como trabaja mucha gente (incluido yo mismo, a veces):
 
- > Oye, sé qué hacer.
+> Oye, sé qué hacer.
 </details>
 
 <details open><summary>en</summary>
 
-I’ve given it a whole two seconds of thought,
+> I’ve given it a whole two seconds of thought,
 > and it seems to me that we just need to dump all the bad stuff and
 > keep the good stuff!
 </details>
 
 <details><summary>es</summary>
 
-Le he dado dos segundos de pensamiento,
- > Y me parece que solo necesitamos tirar todas las cosas malas y
- > ¡Mantenga las cosas buenas!
+> Le he dado dos segundos de pensamiento,  
+> Y me parece que solo necesitamos  
+> tirar todas las cosas malas y
+> ¡Mantenga las cosas buenas!
 </details>
 
 <details open><summary>en</summary>
 
-Because nobody likes the bad stuff, right?
+> Because nobody likes the bad stuff, right?
 </details>
 
 <details><summary>es</summary>
 
-Porque a nadie le gustan las cosas malas, ¿verdad?
+> Porque a nadie le gustan las cosas malas, ¿verdad?
 </details>
 
 <details open><summary>en</summary>
 
-So why
-> keep it around?
+> So why keep it around?
 </details>
 
 <details><summary>es</summary>
 
-Entonces por qué
- > ¿Mantenerlo cerca?
+> Entonces por qué ¿Mantenerlo cerca?
 </details>
 
 <details open><summary>en</summary>
@@ -517,41 +587,51 @@ I’m sure nobody has ever considered this before, so thanks for that!
 
 <details><summary>es</summary>
 
-Estoy seguro de que nadie ha considerado esto antes, ¡así que gracias por eso!
+Estoy seguro de que nadie ha considerado esto antes,  
+¡así que gracias por eso!
 </details>
 
 <details open><summary>en</summary>
 
-As obvious as this is, there must be a **reason** we still have the bad stuff.
+As obvious as this is,  
+there must be a **reason** we still have the bad stuff.
 </details>
 
 <details><summary>es</summary>
 
-Tan obvio que sea, debe haber una razón ** ** Todavía tenemos las cosas malas.
+Tan obvio que sea,  
+debe haber una **razón**  
+Todavía tenemos las cosas malas.
 </details>
 
 <details open><summary>en</summary>
 
-If it were easy to jettison, it would have been done long ago.
+If it were easy to jettison,  
+it would have been done long ago.
 </details>
 
 <details><summary>es</summary>
 
-Si fuera fácil de destrozar, se habría hecho hace mucho tiempo.
+Si fuera fácil de destrozar,  
+se habría hecho hace mucho tiempo.
 </details>
 
 <details open><summary>en</summary>
 
-For something this important, it does not serve us to be glib, offering only “why can’t we just…” sorts of poorly-examined proposals.
+For something this important,  
+it does not serve us to be glib,  
+offering only “why can’t we just…” sorts of poorly-examined proposals.
 </details>
 
 <details><summary>es</summary>
 
-Para algo tan importante, no nos sirve para ser Glib, ofreciendo solo "¿Por qué no podemos simplemente ..." tipos de propuestas mal examinadas?
+Para algo tan importante,  
+no nos sirve para ser Glib,  
+ofreciendo solo "¿Por qué no podemos simplemente ..." tipos de propuestas mal examinadas?
 </details>
 
 ## Double Elimination  
-  {## Eliminación doble}
+{## Eliminación doble}
 
 <details open><summary>en</summary>
 
@@ -565,12 +645,18 @@ Pero, entretenamos esta simple propuesta por un momento.
 
 <details open><summary>en</summary>
 
-What if we became *truly disgusted* with the “Dislike” items on the list above and *fully committed* ourselves to complete elimination of those problems: a moratorium on the damaging activities.
+What if we became *truly disgusted* with the “Dislike” items on the list above  
+and *fully committed* ourselves to complete elimination of those problems:  
+a moratorium on the damaging activities.
 </details>
 
 <details><summary>es</summary>
 
-¿Qué pasaría si nos apagamos * verdaderamente * con los elementos de "disgusto" en la lista anterior y * totalmente comprometidos * nosotros mismos para completar la eliminación de esos problemas: una moratoria sobre las actividades dañinas?
+¿Qué pasaría si nos *apagamos verdaderamente*  
+con los elementos de "disgusto" en la lista anterior  
+y *totalmente comprometidos* nosotros mismos  
+para completar la eliminación de esos problemas:  
+una moratoria sobre las actividades dañinas?
 </details>
 
 <details open><summary>en</summary>
@@ -585,22 +671,23 @@ Cual es el resultado?
 
 <details open><summary>en</summary>
 
-*We eliminate all the things in the “Like” column in the same swoop.
+We eliminate all the things in the “Like” column in the same woop.
 </details>
 
 <details><summary>es</summary>
 
-*Eliminamos todas las cosas en la columna "Me gusta" en el mismo Swoop.
+Eliminamos todas las cosas en la columna "Me gusta" en el mismo Swoop.
 </details>
 
 <details open><summary>en</summary>
 
-* The bottom line is that we **simply don’t know how** to have one without the other—or we’d already be doing that!
+The bottom line is that we **simply don’t know how** to have one without the other—or we’d already be doing that!
 </details>
 
 <details><summary>es</summary>
 
-*La conclusión es que ** simplemente no sabemos cómo ** tener uno sin el otro, ¡o ya estaríamos haciendo eso!
+La conclusión es que **simplemente no sabemos cómo** tener uno sin el otro,  
+¡o ya estaríamos haciendo eso!
 </details>
 
 <details open><summary>en</summary>
@@ -610,7 +697,10 @@ Yet, here we are, not only suffering the same old thorns, but often seeing them 
 
 <details><summary>es</summary>
 
-Sin embargo, aquí estamos, no solo sufriendo las mismas espinas de siempre, sino que a menudo las ve más espinas y agregan otras nuevas.
+Sin embargo, aquí estamos,  
+no solo sufriendo las mismas espinas de siempre,  
+sino que a menudo las ve más espinas  
+y agregan otras nuevas.
 </details>
 
 <details open><summary>en</summary>
@@ -620,7 +710,9 @@ The Dislikes have stubbornly remained problematic, despite major concerns for de
 
 <details><summary>es</summary>
 
-Los disgustos se han mantenido obstinadamente problemáticos, a pesar de las importantes preocupaciones durante décadas o siglos.
+Los disgustos se han mantenido obstinadamente problemáticos,  
+a pesar de las importantes preocupaciones  
+durante décadas o siglos.
 </details>
 
 <details open><summary>en</summary>
@@ -630,17 +722,21 @@ Our culture has instilled a frightening degree of faith in technological capacit
 
 <details><summary>es</summary>
 
-Nuestra cultura ha inculcado un grado aterrador de fe en la capacidad tecnológica.
+Nuestra cultura ha inculcado un grado aterrador de fe  
+en la capacidad tecnológica.
 </details>
 
 <details open><summary>en</summary>
 
-We tell ourselves, with fevered conviction, that *we can do anything we set our unlimited minds to*.
+We tell ourselves, with fevered conviction, that *we can do anything we set our unlimited minds to*.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Nos decimos a nosotros mismos, con convicción febril, que *podemos hacer cualquier cosa a la que establezcamos nuestras mentes ilimitadas *.
+Nos decimos a nosotros mismos,  
+con convicción febril,  
+que *podemos hacer cualquier cosa  
+a la que establezcamos nuestras mentes ilimitadas*.
 </details>
 
 <details open><summary>en</summary>
@@ -650,7 +746,7 @@ Nos decimos a nosotros mismos, con convicción febril, que *podemos hacer cualqu
 
 <details><summary>es</summary>
 
-** ¡Qué basura absoluta **!
+**¡Qué basura absoluta**!
 </details>
 
 <details open><summary>en</summary>
@@ -660,7 +756,7 @@ Do these people even hear themselves?
 
 <details><summary>es</summary>
 
-¿Estas personas incluso se escuchan a sí mismas? ¿Estas personas incluso se escuchan a sí mismos?
+¿Estas personas incluso se escuchan a sí mismas?
 </details>
 
 <details open><summary>en</summary>
@@ -670,11 +766,11 @@ It’s delusional, yet ubiquitous in our culture.
 
 <details><summary>es</summary>
 
-Es delirante, pero ubicua en nuestra cultura. Es delirante, pero ubicuo en nuestra cultura.
+Es delirante, pero ubicua en nuestra cultura.
 </details>
 
 ## Two Sides of a Coin  
-  {## Dos lados de una moneda}
+{## Dos lados de una moneda}
 
 <details open><summary>en</summary>
 
@@ -698,22 +794,27 @@ Son un paquete; dos lados de la misma moneda.
 
 <details open><summary>en</summary>
 
-If you don’t like the fact that your coin has a back side, shaving it off still leaves a back side.
+If you don’t like the fact  
+that your coin has a back side,  
+shaving it off still leaves a back side.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Si no le gusta el hecho de que su moneda tiene una parte trasera, afeitarse todavía deja una parte trasera.
+Si no le gusta el hecho de que  
+su moneda tiene una parte trasera,  
+afeitarse todavía deja una parte trasera.
 </details>
 
 <details open><summary>en</summary>
 
-Want to live but without the inconveniences of eating, sleeping, pooping, or dying?
+Want to live but without the inconveniences of eating, sleeping, pooping, or dying?+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-¿Quieres vivir pero sin los inconvenientes de comer, dormir, caca o morir?
+¿Quieres vivir  
+pero sin los inconvenientes de comer, dormir, caca o morir?
 </details>
 
 <details open><summary>en</summary>
@@ -723,11 +824,12 @@ I’m sure if you just think really hard with that precious head of yours…
 
 <details><summary>es</summary>
 
-Estoy seguro de que si piensas muy duro con esa preciosa cabeza tuya ...
+Estoy seguro de que si piensas muy duro  
+con esa preciosa cabeza tuya ...
 </details>
 
 #### Pick a Team!  
-  {#### Elige un equipo!}
+{#### Elige un equipo!}
 
 <details open><summary>en</summary>
 
@@ -736,17 +838,21 @@ The crux of the matter is: **if** these pros and cons are **inseparable**, then 
 
 <details><summary>es</summary>
 
-El quid de la materia es: ** Si ** estos pros y contras son ** inseparables **, entonces ** Me gusta que los gustos se gusten los disgustos **.
+El quid de la materia es:  
+**Si** estos pros y contras son ** inseparables **,  
+entonces **gustar que los gustos se gusten los disgustos **.
 </details>
 
 <details open><summary>en</summary>
 
-Conversely, if you more strongly dislike the Dislikes, you effectively **dislike the Likes**.
+Conversely, if you more strongly dislike the Dislikes, you effectively **dislike the Likes**.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Por el contrario, si no le gustan más los disgustos, efectivamente ** no le gusta los gustos **.
+Por el contrario,  
+si no le gustan más los disgustos,  
+efectivamente **no le gusta los gustos**.
 </details>
 
 <details open><summary>en</summary>
