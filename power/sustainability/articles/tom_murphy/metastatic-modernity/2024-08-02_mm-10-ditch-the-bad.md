@@ -857,12 +857,22 @@ efectivamente **no le gusta los gustos**.
 
 <details open><summary>en</summary>
 
-Pick a team: accept/embrace the Dislikes as part of the Likes (along with its necessary self-termination), or be prepared to set aside the things you *thought* were good because **in *full consideration***, they are actually *bad on the whole*, when considering the **full context**.
+Pick a team: accept/embrace the Dislikes as part of the Likes  
+(along with its necessary self-termination),  
+or be prepared to set aside the things  
+you *thought* were good because **in *full consideration***, they are actually *bad on the whole*, when considering the **full context**.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Elija un equipo: acepte/abraza los disgustos como parte de los gustos (junto con su auto terminación necesario), o prepárate para dejar de lado las cosas que*pensaste*eran buenas porque ** en*consideración completa ***, ellos en realidad son*malos en general*, al considerar el contexto completo ** **.
+Elija un equipo:  
+acepte/abraza los disgustos como parte de los gustos  
+(junto con su auto terminación necesario),  
+o prepárate para dejar de lado las cosas  
+que *pensaste* eran buenas  
+porque **en *consideración completa***,  
+ellos en realidad son *malos en general*,  
+al considerar el **contexto completo**.
 </details>
 
 <details open><summary>en</summary>

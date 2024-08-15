@@ -23,7 +23,7 @@ sanskrit
 
 - rahasyatrayasAra translation
 
-> For NyAya-SiddhAn~janam, VaikuNThavAsi SrI NIlamEghAchArya has written an excellent Hindi anuvAdam - Again published by the chowkhamba group. He was a scholar of very high merit and was colleague of SrI UtthamUr SwAmi at SrI VE~nkatESwara Oriental University,Tirupathi, and later moved over to KAsi.He was an authority in VyAkaraNa and very well-versed in VEdAnta. His another celebrated contribution is +++(editing)+++ the full-length Sanskrit version of SrImad Rahasya-Traya-SAram by SrI UtthamUr SwAmi through Ubhaya-VEdAnta GranthamAlA, for the benifit of non-tamil speaking scholars.This book is out-of-print.
+> For NyAya-SiddhAn~janam, VaikuNThavAsi SrI NIlamEghAchArya has written an excellent Hindi anuvAdam - Again published by the chowkhamba group. He was a scholar of very high merit and was colleague of SrI UtthamUr SwAmi at SrI VE~nkatESwara Oriental University,Tirupathi, and later moved over to KAsi.He was an authority in VyAkaraNa and very well-versed in VEdAnta. His another celebrated contribution is the full-length Sanskrit version of SrImad Rahasya-Traya-SAram +++(published)+++ by SrI UtthamUr SwAmi through Ubhaya-VEdAnta GranthamAlA, for the benifit of non-tamil speaking scholars. This book is out-of-print.
 
 Travel with uttamUru-vIrarAghava.
 
