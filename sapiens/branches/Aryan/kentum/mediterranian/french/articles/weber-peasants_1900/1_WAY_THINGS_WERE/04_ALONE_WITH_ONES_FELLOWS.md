@@ -24,9 +24,9 @@ Material self-sufficiency has always been a model rather than a reality. And the
 
 many 
 
-Alone with One's Fellows 
 
-43 local cultures through which they passed their commercial life separate from their local culture. This applies to a fair number of local cultures, none in a position to overpower others. But the peasant can hold his own even against the strong culture of the city, as long as conditions force or enable his community to do so. Thus, we are told that, before the didactic campaigns of the Communist regime, Bulgarian peasants who bought and sold in cities carried few or no changes back into their villages. Tacit consent kept rural and city worlds apart. Even in town, peasants talked mostly to other peasants, not participants in urban life but spectators of it." 
+
+[[43]] local cultures through which they passed their commercial life separate from their local culture. This applies to a fair number of local cultures, none in a position to overpower others. But the peasant can hold his own even against the strong culture of the city, as long as conditions force or enable his community to do so. Thus, we are told that, before the didactic campaigns of the Communist regime, Bulgarian peasants who bought and sold in cities carried few or no changes back into their villages. Tacit consent kept rural and city worlds apart. Even in town, peasants talked mostly to other peasants, not participants in urban life but spectators of it." 
 
 pass- 
 
@@ -34,7 +34,16 @@ This sharp division is easier to conceive of if one remembers the immense cultur
 
 Isolation made for ignorance, indifference, for rumors that spread like wildfire in contrast to the stubbornly slow assimilation of current events.\* It also 
 
-• When, in August 1914, the people of Champeaux and the Millevaches plateau of Corrèze heard the church bells sounded to announce the declaration of war, they were wholly perplexed since no storm appeared to be brewing. The news of war was greeted with depression and talk of the possibility of hiding in the woods to avoid mobilization (René Bonnet, Enfance limousine, pp. 27-29). Similarly, at Malleval (Drôme) mobilization in 1914 came as a "profound surprise." Yet though no one seemed to have the time to read the papers (it was haymaking season), the order to have horses ready for requisition by July 31 had "begun to affect opinion" (J. J. Becker, "L'Appel de guerre en Dauphiné, Mouvement social, 1964, especially p. 34). The fact is, the peasant took his news selectively, paying attention solely to what affected him--and drawing his own conclusions. Thus in 1830 and 1848 the political news was quick enough to penetrate upland Ariège, but what the people seized on was the possibility this seemingly offered of reclaiming some of the grazing, hunting, and wood-gathering rights that local landowners had been steadily closing off. For them, political revolution meant an opportunity to return to traditional ways. The indifference to national events is nowhere more strikingly illustrated than in Maurice Barrès, Oeuvre, 6: 228. Observing how little impact the German occupation had on the Lorraine countryside in 1908, he wrote: "Dans ces communes placées en dehors du chemin de fer et qui n'ont pas de douaniers ni d'employés de gare, c'est absolument comme si l'annexion n'existait pas."44 
+• When, in August 1914, the people of Champeaux and the Millevaches plateau of Corrèze heard the church bells sounded to announce the declaration of war, they were wholly perplexed since no storm appeared to be brewing. The news of war was greeted with depression and talk of the possibility of hiding in the woods to avoid mobilization (René Bonnet, Enfance limousine, pp. 27-29). Similarly, at Malleval (Drôme) mobilization in 1914 came as a "profound surprise." Yet though no one seemed to have the time to read the papers (it was haymaking season), the order to have horses ready for requisition by July 31 had "begun to affect opinion" (J. J. Becker, "L'Appel de guerre en Dauphiné, Mouvement social, 1964, especially p. 34). 
+
+The fact is, the peasant took his news selectively, paying attention solely to what affected him--and drawing his own conclusions. Thus in 1830 and 1848 the political news was quick enough to penetrate upland Ariège, but what the people seized on was the possibility this seemingly offered of reclaiming some of the grazing, hunting, and wood-gathering rights  
+that local landowners had been steadily closing off.  
+For them, political revolution meant an opportunity to return to traditional ways.  
+The indifference to national events  
+is nowhere more strikingly illustrated than in Maurice Barrès, Oeuvre, 6: 228.  
+Observing how little impact the German occupation had on the Lorraine countryside in 1908, he wrote: 
+
+> "Dans ces communes placées en dehors du chemin de fer et qui n'ont pas de douaniers ni d'employés de gare, c'est absolument comme si l'annexion n'existait pas."44 
 
 THE WAY THINGS WERE 
 
@@ -50,13 +59,40 @@ But the clue comes very early, if one is willing to pick it up: the peasants of 
 
 Similarly, in a notorious court case in Ardèche in 1842 all witnesses swore, despite convincing evidence to the contrary, that they had seen nothing. Their testimony gave rise to the saying "Sous dé Lonas, ei rèn vis" (I'm from Lonas, and I've seen naught), later applied also to the village of Lussas, whose inhabitants reenacted the comedy some years later (Pierre Charrié, Folklore du Bas-Vivarais, p. 248). 
 
-Alone with One's Fellows 
+
 
 [[45]]
 
-on Lozère and Aveyron, that often you could not even get anything at an inn. In 1840 an officer described the inhabitants of the area around Clamecy as stupid, for they could never give him a straight answer when he asked where the roads led. In the Mézenc area near Saint-Agrève any stranger in city clothes could only be there to serve a writ or collect taxes. "The peasant is extremely suspicious, a stranger can expect no help from him even for money, and the most insignificant questions seldom receive an answer." The writer of this particular report was taken for a sorcerer when he drew a plan of Castelnau in Lot-et-Garonne, was arrested by a group of armed men, and was released only after a deal of tribulations. Did the hostile yokels really take him for a sorcerer? Half a century later an artist sketching near Sarlat would be asked by an anxious peasant why he should take an interest in his house: "Is it for the Revenue you are working?”13 
+on Lozère and Aveyron, that often you could not even get anything at an inn. 
 
-In Brittany the natives, as they were still described until the Third Republic, appeared amenable enough but unforthcoming. "They do not speak French, and do not want to speak French, and you cannot get any information out of them," reported one officer from Morbihan in 1873. Even in the Dinan countryside of Côtes-du-Nord, where only French was spoken, the natives "greet strangers with suspicion and nearly always refuse to give them whatever information they may need" (1877). As late as the 1890's an English traveler in the Tarn valley was repeatedly taken for some sort of spy and asked for his papers. He found people between Albi and Saint-Affrique and especially between Arthès and Millau exceedingly rude, treating all strangers with suspicion. Suspicious and closed with strangers, open and frank only with his peers, was the way a local scholar described his fellow Périgourdins, yet "only speak his language and acquaintance is made." But this was easier said than done. No wonder, since the difficulties of communication were so great, that all strangers French or English remained "foreigners." 
+In 1840 an officer described the inhabitants of the area around Clamecy as stupid, for they could never give him a straight answer when he asked where the roads led.  
+In the Mézenc area near Saint-Agrève any stranger in city clothes could only be there to serve a writ or collect taxes.  
+"The peasant is extremely suspicious, a stranger can expect no help from him even for money, and the most insignificant questions seldom receive an answer." 
+
+The writer of this particular report was taken for a sorcerer  
+when he drew a plan of Castelnau in Lot-et-Garonne,  
+was arrested by a group of armed men,  
+and was released only after a deal of tribulations.  
+Did the hostile yokels really take him for a sorcerer?  +++(5)+++
+
+
+Half a century later an artist sketching near Sarlat  
+would be asked by an anxious peasant why he should take an interest in his house:  
+"Is it for the Revenue you are working?”13 +++(4)+++
+
+In Brittany the natives, as they were still described until the Third Republic, appeared amenable enough but unforthcoming. 
+
+> "They do not speak French, and do not want to speak French, and you cannot get any information out of them," 
+
+reported one officer from Morbihan in 1873. Even in the Dinan countryside of Côtes-du-Nord, where only French was spoken, the natives "greet strangers with suspicion and nearly always refuse to give them whatever information they may need" (1877).  
+As late as the 1890's an English traveler in the Tarn valley was repeatedly taken for some sort of spy and asked for his papers.  
+He found people between Albi and Saint-Affrique and especially between Arthès and Millau exceedingly rude,  
+treating all strangers with suspicion.  
+
+Suspicious and closed with strangers, open and frank only with his peers,  
+was the way a local scholar described his fellow Périgourdins,  
+yet "only speak his language and acquaintance is made."  
+But this was easier said than done. No wonder, since the difficulties of communication were so great, that all strangers French or English remained "foreigners." 
 
 [[14]]
 
@@ -70,19 +106,11 @@ each other pays as well, was transferred from the local to the professional grou
 
 For a long time, that experience verified differences rather than similarities. "Each land its war; each pays its aspect; each village its tongue; each place its speech; each house its ways," runs a southwestern song." "Change village, change language," says a Limousin proverb.18 Two regions like Languedoc (Haute-Garonne, Ariège, Tarn, Tarn-et-Garonne) and Gascony (Gers, Lotet-Garonne, Gironde) were distinguished by rare human and commercial interchanges; by linguistic differences that made Gascon and Languedocean mutually unintelligible; by separate political tendencies, agricultural implements, even breeds of cattle. Gascony looked to Bordeaux, Languedoc to Toulouse. Distance made little difference. Auch is 77 kilometers from Toulouse, 186 from Bordeaux, but of 11 post roads radiating from Toulouse in the 1840's only one went to Gers and, even today, only one railway line runs west out of Toulouse. In Brittany the names of Léon, Cornouaille, and Trégorrois were as familiar as the departments incorporating them, and differed far more from each other than Côtes-du-Nord did from Finistère. Real hostility existed between Lower and Upper Brittany, a division based on the Celtic speech of the west and the French dialect of the east. Bretons and Gallos disliked and despised each other, insulted each other and each other's womenfolk, and stood together only in their hearty dislike of the French-notably the Normans, who returned the aversion with interest. In 1873 Breton pilgrims to Mont Saint-Michel were threatened and insulted by Normans, and fighting was only narrowly averted.19 
 
-At Chitry (Nièvre) in 1902 Jules Renard was struck by the dislike for strangers, the reluctance to accept them, the ease with which they could be "excluded." There were people, he noted, "who pale at the idea of sleeping in the cemetery beside someone from outside the pays." Most villages had regionally valid nicknames. Most villagers had them too. But whereas those of the villagers focused on particularities inside the community, reflecting a familiarity with the background and actions they described, the nicknames given to resident strangers 
-
-focused on the place of origin (e.g., Le Savoyard) and were usually in French, like the names of the new settlers themselves, whatever the local forms might be. A subtle but natural way of stressing strangeness. 
+At Chitry (Nièvre) in 1902 Jules Renard was struck by the dislike for strangers, the reluctance to accept them, the ease with which they could be "excluded." There were people, he noted, "who pale at the idea of sleeping in the cemetery beside someone from outside the pays." Most villages had regionally valid nicknames. Most villagers had them too. But whereas those of the villagers focused on particularities inside the community, reflecting a familiarity with the background and actions they described, the nicknames given to resident strangers focused on the place of origin (e.g., Le Savoyard) and were usually in French, like the names of the new settlers themselves, whatever the local forms might be. A subtle but natural way of stressing strangeness. 
 
 And it is true that pays can differ measurably from each other, sometimes over small distances (as mountain valleys very often do), in the quality of their water, the taste of their nuts, or the fineness of their sheep's-wool, as in the Campan valley of Bigorre. "When one passes from Maine-et-Loire into Loire-Inférieure," wrote a school inspector in 1880, "one finds everything changed, from the looks of the land to those of the people. Dwellings lack 
 
-Alone with One's Fellows 
-
-[[47]]
-
-the air of comfort and ease they have in Anjou; the country people dress differently and with less care, look dirtier; the general impression is altogether 
-
-poorer. 
+[[47]] the air of comfort and ease they have in Anjou; the country people dress differently and with less care, look dirtier; the general impression is altogether poorer. 
 
 "21 Differences such as these, or some of them, were the reflection of circumstances and changed with circumstances. The good lands of Loire-Inférieure would be developed as soon as road and rail made their exploitation profitable. The savage backwardness of inland Brittany would give way before fertilizers and prosperity. The prevalent beggary at Nîmes was considered a natural consequence of the city's southern clime, until Gard prohibited begging and eliminated it, just as Rhône had in Lyon. Elsewhere, we observe that the miners of Saint-Etienne were notoriously ill-kempt and lived in ill-kept homes, while those at Rive-de-Gier, not far away, were conspicuously clean and lived in neat, clean houses; in Saint-Etienne we hear the women worked, at Rive-de-Gier (in 1860) "never"-presumably because opportunities for employment were lacking.22 
 
@@ -102,7 +130,7 @@ At the end of the nineteenth century, Father Gorse still saw each Corrèze hamle
 
 \* Emile Guillaumin, Paysans par eux-mêmes, p. 32, quotes a farmworker writing in September 1909 about the plain of Limagne where "les gens sont à demi-sauvages. Si un ouvrier se risque aux abords d'une ferme, on lâche le chien et l'on crie de loin qu'il n'y a rien à faire. 'Quonet con donc qu'l'étrangé que s'prommeno para tché?" " 
 
-Alone with One's Fellows 
+
 
 [[49]]
 
@@ -110,4 +138,4 @@ administrative reform: "If our parish is joined to that of Salsein, we risk bein
 
 Anyone who came from beyond the familiar radius of ten or fifteen miles, said Guillaumin of the peasant as late as the 1930's, was still a "foreigner." It is a natural prejudice that proverbs reinforced: "Lying is easy when you are from far away." But they taught also that it was not safe to go too far from home: "Women and chickens get lost when they go too far." "In strange lands small cows can eat large beeves." It was unsafe above all to marry away from home. A Franc-Comtois asked his village priest to help him decide between two girls, one from his town, the other from another pays. "Ah," said the priest, "dung here, dung there, take it in your pays, you'll save on transport."+++(4)+++ More to the point, perhaps, as the Basque proverb has it, "Who goes far to marry is either fooling or fooled."+++(4)+++ The youth who married in a neighboring village married an étrangère he could not really know. So, it is said in Tarn-et-Garonne, "Prends la fille de ton voisin, Que tu vois passer chaque matin.”3° 
 
-"Mistrust," wrote a priest at the close of the century, "is the outstanding trait of the peasants' character. The peasant does not trust anyone, not even himself." This was both true and false. It was true that rural defenses remained high and the rural mentality a distinctly separate one. But the observation reflects, too, a natural vexation at being unable to penetrate the closed world of the village society, and the kind of judgment this inevitably evoked from those condemned to watch it from the outside. 
+"Mistrust," wrote a priest at the close of the century, "is the outstanding trait of the peasants' character. The peasant does not trust anyone, not even himself."+++(5)+++ This was both true and false. It was true that rural defenses remained high and the rural mentality a distinctly separate one. But the observation reflects, too, a natural vexation at being unable to penetrate the closed world of the village society, and the kind of judgment this inevitably evoked from those condemned to watch it from the outside. 
