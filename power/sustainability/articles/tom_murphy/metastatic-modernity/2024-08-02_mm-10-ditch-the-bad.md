@@ -877,22 +877,28 @@ al considerar el **contexto completo**.
 
 <details open><summary>en</summary>
 
-Unfortunately, we have been well trained to isolate, reduce, simplify and decontextualize into discrete problems that have tidy solutions.
+Unfortunately, we have been well trained to isolate, reduce, simplify and decontextualize into discrete problems  
+that have tidy solutions.
 </details>
 
 <details><summary>es</summary>
 
-Desafortunadamente, hemos sido bien entrenados para aislar, reducir, simplificar y descontextar en problemas discretos que tienen soluciones ordenadas.
+Desafortunadamente, hemos sido bien entrenados  
+para aislar, reducir, simplificar y descontextar en problemas discretos  
+que tienen soluciones ordenadas.
 </details>
 
 <details open><summary>en</summary>
 
-It’s easy to do when ignoring the complications from the wider—but ever-present—world, and these tendencies do not serve us well.
+It’s easy to do when ignoring the complications from the wider—but ever-present—world,  
+and these tendencies do not serve us well.
 </details>
 
 <details><summary>es</summary>
 
-Es fácil de hacer al ignorar las complicaciones del mundo más amplio, pero siempre presente, y estas tendencias no nos sirven bien.
+Es fácil de hacer  
+al ignorar las complicaciones del mundo más amplio, pero siempre presente,  
+y estas tendencias no nos sirven bien.
 </details>
 
 #### Inseparable?  
@@ -900,45 +906,60 @@ Es fácil de hacer al ignorar las complicaciones del mundo más amplio, pero sie
 
 <details open><summary>en</summary>
 
-The above framing contains what some may consider to be a “**big if**,” which may be less than obvious.
+The above framing contains what some may consider to be a “**big if**,”  
+which may be less than obvious.
 </details>
 
 <details><summary>es</summary>
 
-El encuadre anterior contiene lo que algunos pueden considerar como un "** grande if **", que puede ser menos que obvio.
+El encuadre anterior contiene  
+lo que algunos pueden considerar como un "**grande si**",  
+que puede ser menos que obvio.
 </details>
 
 <details open><summary>en</summary>
 
-Consider, however, that we have a world of evidence for how the Likes rely on the Dislikes, but lack *any* evidence of supporting one without the other.
+Consider, however, that we have a world of evidence for how the Likes rely on the Dislikes,  
+but lack *any* evidence of supporting one without the other.
 </details>
 
 <details><summary>es</summary>
 
-Sin embargo, considere que tenemos un mundo de evidencia de cómo los gustos dependen de los disgustos, pero carecen de * cualquier * evidencia de apoyar a uno sin el otro.
+Sin embargo, considere que tenemos un mundo de evidencia  
+de cómo los gustos dependen de los disgustos,  
+pero carecen de *cualquier* evidencia  
+de apoyar a uno sin el otro.
 </details>
 
 <details open><summary>en</summary>
 
-Also, wishing them to be separable has no effect on the reality of the situation.
+Also, wishing them to be separable  
+has no effect on the reality of the situation.
 </details>
 
 <details><summary>es</summary>
 
-Además, desear que sean separables no tiene ningún efecto en la realidad de la situación.
+Además, desear que sean separables  
+no tiene ningún efecto en la realidad de la situación.
 </details>
 
 #### Asymmetric Situation  
-  {#### Situación asimétrica}
+{#### Situación asimétrica}
 
 <details open><summary>en</summary>
 
-Acceptance of the bad stuff might be okay if it didn’t undermine life on Earth, ecological viability, and set up a sixth mass extinction.
+Acceptance of the bad stuff might be okay  
+if it didn’t undermine life on Earth,  
+ecological viability, and set up a sixth mass extinction.
 </details>
 
 <details><summary>es</summary>
 
-La aceptación de las cosas malas podría estar bien si no socava la vida en la Tierra, la viabilidad ecológica y estableciera una sexta extinción masiva.
+La aceptación de las cosas malas  
+podría estar bien  
+si no socava la vida en la Tierra,  
+la viabilidad ecológica  
+y estableciera una sexta extinción masiva.
 </details>
 
 <details open><summary>en</summary>
@@ -948,17 +969,24 @@ In a cost–benefit analysis, the relative magnitudes are important.
 
 <details><summary>es</summary>
 
-En un análisis de costo -beneficio, las magnitudes relativas son importantes.
+En un análisis de costo -beneficio,  
+las magnitudes relativas son importantes.
 </details>
 
 <details open><summary>en</summary>
 
-But more pointedly in this case, tolerating the Dislikes eventually leads to a collapse that destroys the Likes *anyway*.
+But more pointedly in this case,  
+tolerating the Dislikes  
+eventually leads to a collapse  
+that destroys the Likes *anyway*.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Pero más intencionalmente en este caso, tolerar los disgustos eventualmente conduce a un colapso que destruye a los gustos *de todos modos *.
+Pero más intencionalmente en este caso,  
+tolerar los disgustos  
+eventualmente conduce a un colapso  
+que destruye a los gustos *de todos modos*.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
@@ -968,7 +996,10 @@ When it comes to ecological health on one side and human material comforts on th
 
 <details><summary>es</summary>
 
-Cuando se trata de la salud ecológica en un lado y las comodidades del material humano por el otro, considere que uno * absolutamente necesita * el otro, mientras que lo contrario ciertamente no es cierto.
+Cuando se trata de la salud ecológica en un lado  
+y las comodidades del material humano por el otro,  
+considere que uno *absolutamente necesita* el otro,  
+mientras que lo contrario ciertamente no es cierto.
 </details>
 
 <details open><summary>en</summary>
@@ -978,7 +1009,7 @@ We don’t really get to choose.
 
 <details><summary>es</summary>
 
-Nosotras realmente no podemos elegir. Nosotros realmente no podemos elegir.
+Nosotras realmente no podemos elegir.
 </details>
 
 ## A Tangled Diagram  
@@ -986,22 +1017,34 @@ Nosotras realmente no podemos elegir. Nosotros realmente no podemos elegir.
 
 <details open><summary>en</summary>
 
-When I drafted this presentation, my first instinct was to make a table: what requirements (dependencies) do each of the Like items require of the world, and how do those trace to the Dislikes?
+When I drafted this presentation,  
+my first instinct was to make a table:  
+what requirements (dependencies) do each of the Like items require of the world,  
+and how do those trace to the Dislikes?
 </details>
 
 <details><summary>es</summary>
 
-Cuando redacté esta presentación, mi primer instinto fue hacer una tabla: ¿Qué requisitos (dependencias) requieren cada uno de los elementos similares del mundo y cómo se rastrean a los disgustos?
+Cuando redacté esta presentación,  
+mi primer instinto fue hacer una tabla:  
+¿Qué requisitos (dependencias) requieren  
+cada uno de los elementos gustos del mundo  
+y cómo se rastrean a los disgustos?
 </details>
 
 <details open><summary>en</summary>
 
-Other than hitting on a nearly universal theme of materials (thus mining), energy, waste, and pollution, I recognized that it’s a much more tangled story than a table can show.
+Other than hitting on a nearly universal theme of materials (thus mining), energy, waste, and pollution,  
+I recognized that it’s a much more tangled story  
+than a table can show.
 </details>
 
 <details><summary>es</summary>
 
-Además de golpear un tema casi universal de materiales (así minería), energía, desechos y contaminación, reconocí que es una historia mucho más enredada de lo que una mesa puede mostrar.
+Además de golpear un tema casi universal  
+de materiales (así minería), energía, desechos y contaminación,  
+reconocí que es una historia mucho más enredada  
+de lo que una mesa puede mostrar.
 </details>
 
 <details open><summary>en</summary>
@@ -1015,7 +1058,6 @@ Entonces, se me ocurrió este diagrama de crudo.
 </details>
 
 ![](https://dothemath.ucsd.edu/wp-content/uploads/2024/08/dependencies.png)  
-  {! [](https://dothemath.ucsd.edu/wp-content/uploads/2024/08/dependencies.png)}
 
 <details open><summary>en</summary>
 
@@ -1024,17 +1066,21 @@ Every Dislike—such as biodiversity loss and extinctions—is traceable to the 
 
 <details><summary>es</summary>
 
-Cada disgusto, como la pérdida y las extinciones de la biodiversidad, es rastreable para similares.
+Cada disgusto, como la pérdida de la biodiversidad  
+y las extinciones,  
+es rastreable para similares.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
 
-While the diagram is not perfect, every arrow has an explicit and reasonable rationale.
+While the diagram is not perfect,  
+every arrow has an explicit and reasonable rationale.
 </details>
 
 <details><summary>es</summary>
 
-Si bien el diagrama no es perfecto, cada flecha tiene una lógica explícita y razonable.
+Si bien el diagrama no es perfecto,  
+cada flecha tiene una lógica explícita y razonable.
 </details>
 
 <details open><summary>en</summary>
@@ -1044,7 +1090,9 @@ Blue arrows are dependencies/requirements (sometimes double-ended) and red arrow
 
 <details><summary>es</summary>
 
-Las flechas azules son dependencias/requisitos (a veces dos dos) y las flechas rojas son productos.
+Las flechas azules son dependencias/requisitos  
+(a veces de doble terminación)  
+y las flechas rojas son productos.
 </details>
 
 <details open><summary>en</summary>
@@ -1064,7 +1112,9 @@ For instance, many forms of energy contribute to climate change, but not all do�
 
 <details><summary>es</summary>
 
-Por ejemplo, muchas formas de energía contribuyen al cambio climático, pero no todas lo hacen, al menos no directamente.
+Por ejemplo, muchas formas de energía contribuyen al cambio climático,  
+pero no todas lo hacen,  
+al menos no directamente.
 </details>
 
 <details open><summary>en</summary>
@@ -1074,7 +1124,10 @@ For all its apparent complexity, this spaghetti diagram is vastly oversimplified
 
 <details><summary>es</summary>
 
-A pesar de toda su aparente complejidad, este diagrama de espagueti está muy simplificado: el mundo real está más enredado, todavía.
+A pesar de toda su aparente complejidad,  
+este diagrama de espagueti  
+está muy simplificado:  
+el mundo real está más enredado, todavía.
 </details>
 
 <details open><summary>en</summary>
@@ -1084,7 +1137,9 @@ For one thing, I left many possible arrows off whose presence I’m sure readers
 
 <details><summary>es</summary>
 
-Por un lado, dejé muchas flechas posibles de cuya presencia estoy seguro de que los lectores podrían justificar.
+Por un lado, dejé muchas flechas posibles  
+de cuya presencia  
+estoy seguro de que los lectores podrían justificar.
 </details>
 
 <details open><summary>en</summary>
@@ -1094,7 +1149,8 @@ Yet, it need not be perfect to make the overall point.
 
 <details><summary>es</summary>
 
-Sin embargo, no necesita ser perfecta para hacer el punto general. Sin embargo, no necesita ser perfecto para hacer el punto general.
+Sin embargo, no necesita ser perfecta  
+para hacer el punto general.  
 </details>
 
 #### Process of Elimination  
@@ -1107,7 +1163,10 @@ If wanting to get rid of a Dislike, any arrowhead pointing to it has to go as we
 
 <details><summary>es</summary>
 
-Si querer deshacerse de un disgusto, cualquier punta de flecha que le indique también debe irse, y lo que sea que esa flecha se conecte es eliminada, reducida o impactada de otra manera.
+Si querer deshacerse de un disgusto,  
+cualquier punta de flecha que le indique también debe irse,  
+y lo que sea que esa flecha se conecte es eliminada,  
+reducida o impactada de otra manera.
 </details>
 
 <details open><summary>en</summary>
@@ -1117,17 +1176,22 @@ Then, any arrowheads connected to *that* entity will likewise be impacted.
 
 <details><summary>es</summary>
 
-Luego, cualquier punta de flecha conectada a * esa * entidad también se verá afectada.
+Luego, cualquier punta de flecha  
+conectada a * esa * entidad  
+también se verá afectada.
 </details>
 
 <details open><summary>en</summary>
 
-For example, if wishing to eliminate deforestation, then agricultural clearing of land is no longer possible.
+For example, if wishing to eliminate deforestation,  
+then agricultural clearing of land is no longer possible.
 </details>
 
 <details><summary>es</summary>
 
-Por ejemplo, si desea eliminar la deforestación, entonces la compensación agrícola de la tierra ya no es posible.
+Por ejemplo, si desea eliminar la deforestación,  
+entonces la compensación agrícola de la tierra  
+ya no es posible.
 </details>
 
 <details open><summary>en</summary>
@@ -1137,7 +1201,9 @@ Materials collection—whether forest products or mining—involves land use and
 
 <details><summary>es</summary>
 
-La recolección de materiales, ya sea productos forestales o minería, involuciona el uso de la tierra y la deforestación.
+La recolección de materiales,  
+ya sea productos forestales o minería,  
+involuciona el uso de la tierra y la deforestación.
 </details>
 
 <details open><summary>en</summary>
@@ -1147,27 +1213,34 @@ Some energy resources must clear land to operate.
 
 <details><summary>es</summary>
 
-Algunos recursos energéticos deben despejar tierras para operar.
+Algunos recursos energéticos  
+deben despejar tierras para operar.
 </details>
 
 <details open><summary>en</summary>
 
-If prohibiting deforestation from mining, the resulting eliminations ripple into impacts on energy, manufacturing, transport, and agriculture.
+If prohibiting deforestation from mining,  
+the resulting eliminations ripple into impacts on energy, manufacturing, transport, and agriculture.
 </details>
 
 <details><summary>es</summary>
 
-Si prohíbe la deforestación de la minería, las eliminaciones resultantes se esfuerzan en los impactos en la energía, la fabricación, el transporte y la agricultura.
+Si prohíbe la deforestación de la minería,  
+las eliminaciones resultantes  
+se esfuerzan en los impactos en la energía, la fabricación, el transporte y la agricultura.
 </details>
 
 <details open><summary>en</summary>
 
-From here, *every* Like is impacted—which is to say that every Like has a route to deforestation (most frequently through materials and energy).
+From here, *every* Like is impacted—which is to say that every Like has a route to deforestation  
+(most frequently through materials and energy).
 </details>
 
 <details><summary>es</summary>
 
-A partir de aquí, * cada * se impactó, es decir, que cada similar tiene una ruta hacia la deforestación (con mayor frecuencia a través de materiales y energía).
+A partir de aquí, *cada* gusto se impactó,  
+es decir, que cada gusto tiene una ruta hacia la deforestación  
+(con mayor frecuencia a través de materiales y energía).
 </details>
 
 #### Key Notes  
@@ -1175,12 +1248,14 @@ A partir de aquí, * cada * se impactó, es decir, que cada similar tiene una ru
 
 <details open><summary>en</summary>
 
-Two things jumped out at me after completing this diagram.
+Two things jumped out at me  
+after completing this diagram.
 </details>
 
 <details><summary>es</summary>
 
-Dos cosas me saltaron después de completar este diagrama.
+Dos cosas me saltaron  
+después de completar este diagrama.
 </details>
 
 <details open><summary>en</summary>
@@ -1190,17 +1265,20 @@ One is that climate change is perhaps the easiest to eliminate.
 
 <details><summary>es</summary>
 
-Una es que el cambio climático es quizás el más fácil de eliminar.
+Una es que el cambio climático  
+es quizás el más fácil de eliminar.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
 
-Only one arrow points to it, from energy, and its a dashed one, at that.
+Only one arrow points to it, from energy,  
+and its a dashed one, at that.
 </details>
 
 <details><summary>es</summary>
 
-Solo una flecha apunta a ella, desde la energía, y es discontinua, en eso.
+Solo una flecha apunta a ella, desde la energía,  
+y es discontinua, en eso.
 </details>
 
 <details open><summary>en</summary>
@@ -1210,7 +1288,8 @@ Eliminate fossil fuels from the energy mix and the primary driver of climate cha
 
 <details><summary>es</summary>
 
-Elimine los combustibles fósiles de la mezcla de energía y el principal impulsor del cambio climático desaparece.
+Elimine los combustibles fósiles de la mezcla de energía  
+y el principal impulsor del cambio climático desaparece.
 </details>
 
 <details open><summary>en</summary>
@@ -1220,17 +1299,22 @@ We know this already, and this simple observation has led to the dream of replac
 
 <details><summary>es</summary>
 
-Ya lo sabemos, y esta simple observación ha llevado al sueño de reemplazar los combustibles fósiles con energía "renovable".
+Ya lo sabemos,  
+y esta simple observación ha llevado  
+al sueño de reemplazar los combustibles fósiles  
+con energía "renovable".
 </details>
 
 <details open><summary>en</summary>
 
-The fact that climate change is the easiest of the Dislikes to eliminate might have some bearing on how much attention it gets.
+The fact that climate change is the easiest of the Dislikes to eliminate might have some bearing on how much attention it gets.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-El hecho de que el cambio climático sea el más fácil de eliminar podría tener algo de influencia de cuánta atención recibe.
+El hecho de que el cambio climático  
+sea el más fácil de eliminar  
+podría tener algo de influencia de cuánta atención recibe.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
@@ -1240,7 +1324,9 @@ As intractable as it seems, it’s the simplest of the lot—which should give u
 
 <details><summary>es</summary>
 
-Tan intratable como parece, es el lote más simple, lo que debería darnos una pausa.
+Tan intratable como parece,  
+es el lote más simple,  
+lo que debería darnos una pausa.
 </details>
 
 <details open><summary>en</summary>
@@ -1250,27 +1336,31 @@ The other alarming outcome is how many roads lead to biodiversity loss and extin
 
 <details><summary>es</summary>
 
-El otro resultado alarmante es cuántas carreteras conducen a la pérdida y extinción de la biodiversidad.
+El otro resultado alarmante  
+es cuántas carreteras conducen a la pérdida de la biodiversidad y extinción .
 </details>
 
 <details open><summary>en</summary>
 
-Eliminating this Dislike quickly tears down the infrastructure of modernity and kills the Likes.
+Eliminating this Dislike quickly tears down the infrastructure of modernity and kills the Likes.+++(4 How??)+++
 </details>
 
 <details><summary>es</summary>
 
-Eliminar este disgusto desglose rápidamente la infraestructura de la modernidad y mata a similares.
+Eliminar este disgusto  
+desglose rápidamente la infraestructura de la modernidad  
+y mata a gustos.+++(4 Como??)+++
 </details>
 
 <details open><summary>en</summary>
 
-This is, to me, seems to spell game over for either modernity or ecological health (and thus modernity).
+This is, to me, seems to spell game over for either modernity or ecological health (and thus modernity).+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Esto es, para mí, deletrean el juego para la modernidad o la salud ecológica (y, por lo tanto, la modernidad).
+Esto es, para mí, deletrean el juego para la modernidad  
+o la salud ecológica (y, por lo tanto, la modernidad).+++(5)+++
 </details>
 
 #### Material Reflections  
@@ -1278,12 +1368,14 @@ Esto es, para mí, deletrean el juego para la modernidad o la salud ecológica (
 
 <details open><summary>en</summary>
 
-This section was part of the original slide set, but was eliminated before recording for time reasons.
+This section was part of the original slide set,  
+but was eliminated before recording for time reasons.
 </details>
 
 <details><summary>es</summary>
 
-Esta sección era parte del conjunto de diapositivas original, pero fue eliminada antes de grabar por razones de tiempo.
+Esta sección era parte del conjunto de diapositivas original,  
+pero fue eliminada antes de grabar por razones de tiempo.
 </details>
 
 <details open><summary>en</summary>
@@ -1293,47 +1385,61 @@ I leave it here, and will touch on this again in future episodes.
 
 <details><summary>es</summary>
 
-Lo dejo aquí y volveré a tocar esto en futuros episodios.
+Lo dejo aquí  
+y volveré a tocar esto en futuros episodios.
 </details>
 
 <details open><summary>en</summary>
 
-Modernity requires material elements that are, in an ecological sense, “not of this world,” in that the materials are not woven into the web of life, integrated into the various nutrients in circulation.
+Modernity requires material elements that are, in an ecological sense, “not of this world,”  
+in that the materials are not woven into the web of life,  
+integrated into the various nutrients in circulation.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-La modernidad requiere elementos materiales que, en un sentido ecológico, no sean "no de este mundo", ya que los materiales no están entretejidos en la red de la vida, integrados en los diversos nutrientes en circulación.
+La modernidad requiere elementos materiales  
+que, en un sentido ecológico, no sean "no de este mundo",  
+ya que los materiales no están entretejidos en la red de la vida,  
+integrados en los diversos nutrientes en circulación.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
 
-The community of life has no business with these sometimes harmful agents.
+The community of life has no business with these sometimes harmful agents.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-La comunidad de la vida no tiene negocios con estos agentes a veces dañinos.
+La comunidad de la vida  
+no tiene negocios con estos agentes  
+a veces dañinos.
 </details>
 
 <details open><summary>en</summary>
 
-Meanwhile, the requirements of modernity rip up habitat and deliberately eliminate “pests” who are “not of” our artificial and temporary world.
+Meanwhile, the requirements of modernity rip up habitat and deliberately eliminate “pests” who are “not of” our artificial and temporary world.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Mientras tanto, los requisitos de la modernidad destrozan el hábitat y eliminan deliberadamente las "plagas" que "no son" de nuestro mundo artificial y temporal.
+Mientras tanto, los requisitos de la modernidad  
+destrozan el hábitat  
+y eliminan deliberadamente las "plagas"  
+que "no son" de nuestro mundo artificial y temporal.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
 
-As you look around and walk through life, ask if the various materials and practices you encounter tuck into the web of life.
+As you look around and walk through life,  
+ask if the various materials and practices you encounter tuck into the web of life.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Mientras mira a su alrededor y camina por la vida, pregunte si los diversos materiales y prácticas que encuentre se meten en la red de la vida.
+Mientras mira a su alrededor y camina por la vida,  
+pregunte si los diversos materiales y prácticas que encuentre  
+se meten en la red de la vida.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
@@ -1343,17 +1449,23 @@ Does the community of life embrace these things and know how to incorporate them
 
 <details><summary>es</summary>
 
-¿La comunidad de la vida abraza estas cosas y sabe cómo incorporarlas en sus prácticas?
+¿La comunidad de la vida abraza estas cosas  
+y sabe cómo incorporarlas en sus prácticas?
 </details>
 
 <details open><summary>en</summary>
 
-Or, are they “alien” elements that are “not of the ecological world?” Has evolution built built a community around these presences, or are they temporary intruders with no place?
+Or, are they “alien” elements that are “not of the ecological world?” +++(4)+++  
+Has evolution built built a community around these presences, or are they temporary intruders with no place?
 </details>
 
 <details><summary>es</summary>
 
-¿O son elementos "alienígenas" que "no son del mundo ecológico"? ¿La evolución ha construido una comunidad en torno a estas presencias, o son intrusos temporales sin lugar?
+¿O son elementos "alienígenas"  
+que "no son del mundo ecológico"?+++(4)+++  
+¿La evolución ha construido una comunidad  
+en torno a estas presencias,  
+o son intrusos temporales sin lugar?
 </details>
 
 #### But Renewables and Recycling?  
@@ -1361,12 +1473,14 @@ Or, are they “alien” elements that are “not of the ecological world?” Ha
 
 <details open><summary>en</summary>
 
-This section was also eliminated from the video, but is left here as a bonus.
+This section was also eliminated from the video,  
+but is left here as a bonus.
 </details>
 
 <details><summary>es</summary>
 
-Esta sección también fue eliminada del video, pero se deja aquí como una ventaja.
+Esta sección también fue eliminada del video,  
+pero se deja aquí como una ventaja.
 </details>
 
 <details open><summary>en</summary>
@@ -1376,7 +1490,8 @@ The next installment will be devoted to this topic.
 
 <details><summary>es</summary>
 
-La próxima entrega se dedicará a este tema.
+La próxima entrega  
+se dedicará a este tema.
 </details>
 
 <details open><summary>en</summary>
@@ -1396,7 +1511,9 @@ First, “renewables” and “recycling” are just words that are far short of
 
 <details><summary>es</summary>
 
-Primero, las "energías renovables" y el "reciclaje" son solo palabras que están muy por debajo de ser varitas mágicas capaces de hacer que los problemas desaparezcan.
+Primero, las "energías renovables" y el "reciclaje"  
+son solo palabras que están muy por debajo de ser varitas mágicas  
+capaces de hacer que los problemas desaparezcan.
 </details>
 
 <details open><summary>en</summary>
@@ -1411,12 +1528,14 @@ Surgen limitaciones y nuevas complicaciones, por supuesto.
 
 <details open><summary>en</summary>
 
-Renewable energy flows tend to be diffuse and require a bunch of material to capture.
+Renewable energy flows tend to be diffuse and require a bunch of material to capture.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Los flujos de energía renovable tienden a ser difusas y requieren un montón de material para capturar.
+Los flujos de energía renovable  
+tienden a ser difusas  
+y requieren un montón de material para capturar.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
@@ -1426,7 +1545,8 @@ This means mining, manufacturing, pollution, and all the usual, inseparable, neg
 
 <details><summary>es</summary>
 
-Esto significa minería, fabricación, contaminación y todas las consecuencias negativas habituales, inseparables.
+Esto significa minería, fabricación, contaminación  
+y todas las consecuencias negativas habituales, inseparables.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
@@ -1436,17 +1556,21 @@ Panels and turbines don’t last and need to be replaced—indefinitely.
 
 <details><summary>es</summary>
 
-Los paneles y las turbinas no duran y necesitan ser reemplazados, independientemente.
+Los paneles y las turbinas no duran  
+y necesitan ser reemplazados, independientemente.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
 
-Copper mining would have to increase over today’s levels and stay up indefinitely, somehow (which it can’t do).
+Copper mining would have to increase over today’s levels and stay up indefinitely, somehow (which it can’t do).+++(4)+++s
 </details>
 
 <details><summary>es</summary>
 
-La minería de cobre tendría que aumentar en los niveles de hoy y mantenerse despierto indefinidamente, de alguna manera (lo que no puede hacer).
+La minería de cobre  
+tendría que aumentar en los niveles de hoy  
+y mantenerse despierto indefinidamente,  
+de alguna manera (lo que no puede hacer).
 </details>
 
 <details open><summary>en</summary>
@@ -1456,47 +1580,60 @@ Besides perpetrating the widespread deployment of materials that are alien to th
 
 <details><summary>es</summary>
 
-Además de perpetrar el despliegue generalizado de materiales que son ajenos a la comunidad de la vida, reciclar solo * retraso * lo inevitable, ya que está muy por debajo del 100% de recuperación (también debe recuperar el equipo distribuido, que nunca será perfecto).
+Además de perpetrar el despliegue generalizado de materiales  
+que son ajenos a la comunidad de la vida,  
+reciclar solo *retraso* lo inevitable,  
+ya que está muy por debajo del 100% de recuperación  
+(también debe recuperar el equipo distribuido,  
+que nunca será perfecto).
 </details>
 
 <details open><summary>en</summary>
 
-Even 90% end-to-end recovery—well beyond present practices—allows only 7 cycles before dropping below half the original resource, or 22 cycles before diving below 10%.
+Even 90% end-to-end recovery—well beyond present practices—  
+allows only 7 cycles before dropping below half the original resource, or 22 cycles before diving below 10%.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Incluso el 90% de recuperación de extremo a extremo, bueno, más allá de las prácticas actuales, permite solo 7 ciclos antes de caer por debajo de la mitad del recurso original, o 22 ciclos antes de sumergirse por debajo del 10%.
+Incluso el 90% de recuperación de extremo a extremo, bueno,  
+más allá de las prácticas actuales,  
+permite solo 7 ciclos antes de caer  
+por debajo de la mitad del recurso original,  
+o 22 ciclos antes de sumergirse por debajo del 10%.
 </details>
 
 <details open><summary>en</summary>
 
-We’re talking decades or centuries, not millennia.
+We’re talking decades or centuries, not millennia.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Estamos hablando de décadas o siglos, no milenios.
+Estamos hablando de décadas o siglos, no milenios.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
 
-That’s an absolute flash in ecological and evolutionary terms.
+That’s an absolute flash in ecological and evolutionary terms.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Ese es un destello absoluto en términos ecológicos y evolutivos.
+Ese es un destello absoluto  
+en términos ecológicos y evolutivos.
 </details>
 
 <details open><summary>en</summary>
 
-Modernity will therefore starve itself of its requirements—requirements that themselves erode the foundation of life.
+Modernity will therefore starve itself of its requirements—  
+requirements that themselves erode the foundation of life.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Por lo tanto, la modernidad se morirá de sus requisitos, requisitos que se erosionan los cimientos de la vida.
+Por lo tanto, la modernidad se morirá de sus requisitos,  
+requisitos que se erosionan los cimientos de la vida.
 </details>
 
 <details open><summary>en</summary>
@@ -1506,7 +1643,7 @@ Where’s the win?
 
 <details><summary>es</summary>
 
-¿Dónde está la victoria?
+¿Dónde está la victoria?+++(4)+++
 </details>
 
 <details open><summary>en</summary>
@@ -1520,7 +1657,7 @@ Más por venir en este tema ...
 </details>
 
 ## Club of Life Board  
-  {## Club of Life Board}
+  {## Tablero de clubes de vida}
 
 <details open><summary>en</summary>
 
@@ -1529,37 +1666,44 @@ Recall from the [sixth installment](https://dothemath.ucsd.edu/2024/07/mm-6-acci
 
 <details><summary>es</summary>
 
-Recuerde de la [sexta entrega](https://dothemath.ucsd.edu/2024/07/mm-6-accidental-tourists/) el concepto de un club de vida, en el que tenemos la suerte ** miembros.
+Recuerde de la [sexta entrega](https://dothemath.ucsd.edu/2024/07/mm-6-accidental-tourists/) el concepto de un club de vida,  
+En la que tenemos **suerte** de ser miembros.
 </details>
 
 <details open><summary>en</summary>
 
-Imagine that a review board is assembled from the biodiverse community of life (the Committee of Life?
+Imagine that a review board is assembled from the biodiverse community of life (the Committee of Life?): 
 </details>
 
 <details><summary>es</summary>
 
-Imagine que una junta de revisión se ensambla de la Comunidad de Vida Biodiversa (¿el Comité de la Vida?
+Imaginar que una junta de revisión  
+se ensambla de la Comunidad de Vida Biodiversa  
+(¿el Comité de la Vida?): 
 </details>
 
 <details open><summary>en</summary>
 
-): plants, mammals, birds, amphibians, insects, etc.
+plants, mammals, birds, amphibians, insects, etc.
 </details>
 
 <details><summary>es</summary>
 
-): plantas, mamíferos, pájaros, anfibios, insectos, etc.
+plantas, mamíferos, pájaros, anfibios, insectos, etc.
 </details>
 
 <details open><summary>en</summary>
 
-You approach the board with a proposal for one of your “Like” items, and have to make the case.
+You approach the board with a proposal for one of your “Like” items,  
+and have to make the case.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Te acercas a la junta con una propuesta para uno de tus elementos "similares", y tienes que presentar el caso.
+Te acercas a la junta  
+con una propuesta  
+para uno de tus elementos "similares",  
+y tienes que presentar el caso.
 </details>
 
 <details open><summary>en</summary>
@@ -1576,34 +1720,31 @@ Digamos que desea atención médica avanzada.
 
 The pros are:
 
-1.
 </details>
 
 <details><summary>es</summary>
 
-Los profesionales son:
-
- 1.
+Los beneficios son:
 </details>
 
 <details open><summary>en</summary>
 
-Longer lives for humans (at least for those who can afford it); 2.
+1. Longer lives for humans (at least for those who can afford it);
 </details>
 
 <details><summary>es</summary>
 
-Vidas más largas para los humanos (al menos para aquellos que pueden pagarlo); 2.
+Vidas más largas para los humanos (al menos para aquellos que pueden pagarlo);
 </details>
 
 <details open><summary>en</summary>
 
-A larger, healthier human population (due to lowered mortality); 3.
+A larger, healthier human population (due to lowered mortality); 
 </details>
 
 <details><summary>es</summary>
 
-Una población humana más grande y saludable (debido a la menor mortalidad); 3.
+Una población humana más grande y saludable (debido a la menor mortalidad);
 </details>
 
 <details open><summary>en</summary>
@@ -1638,26 +1779,17 @@ Okay, what will it cost?
 Bien, ¿a qué costará?
 </details>
 
+
 <details open><summary>en</summary>
 
-1.
+Mining, and its associated deforestation, land use, mine tailings, introduction of “alien” materials;
 </details>
 
 <details><summary>es</summary>
 
-1.
-</details>
-
-<details open><summary>en</summary>
-
-Mining, and its associated deforestation, land use, mine tailings,
-    introduction of “alien” materials; 2.
-</details>
-
-<details><summary>es</summary>
-
-Minería y su deforestación asociada, uso de la tierra, relaves de minas,
- introducción de materiales "alienígenas"; 2.
+Minería y su deforestación asociada,  
+uso de la tierra, relaves de minas,
+introducción de materiales "alienígenas";
 </details>
 
 <details open><summary>en</summary>
@@ -1669,23 +1801,22 @@ Energy, which is either fossil fuels (thus CO₂ and climate change)
 
 <details><summary>es</summary>
 
-Energía, que son combustibles fósiles (por lo tanto, co₂ y cambio climático)
- o energías renovables que significa uso de la tierra, minería, fabricación,
- contaminación, desperdicio; 3.
+Energía, que son combustibles fósiles (por lo tanto, co₂ y cambio climático)  
+o energías renovables que significa uso de la tierra, minería, fabricación,
+ contaminación, desperdicio;
 </details>
 
 <details open><summary>en</summary>
 
 Waste, in the form of a mountain of disposable,
-    individually-packaged, hermetic implements—plus the stream of
-    “normal” waste from hospitals, for instance; 4.
+individually-packaged, hermetic implements—plus the stream of “normal” waste from hospitals, for instance; 4.
 </details>
 
 <details><summary>es</summary>
 
 Desperdicio, en forma de una montaña de desechables,
- Implementos herméticos empaquetados individualmente: además de la corriente de
- Residuos "normales" de los hospitales, por ejemplo; 4.
+Implementos herméticos empaquetados individualmente:  
+además de la corriente de Residuos "normales" de los hospitales, por ejemplo; 4.
 </details>
 
 <details open><summary>en</summary>
@@ -1697,9 +1828,10 @@ Chemicals: the pharmaceuticals get into the environment, not to
 
 <details><summary>es</summary>
 
-Químicos: los productos farmacéuticos entran en el medio ambiente, no para
- mencionar los desechos químicos de su creación y la fabricación
- de toda la parafernalia médica; 5.
+Químicos:  
+los productos farmacéuticos entran en el medio ambiente,  
+no para mencionar los desechos químicos de su creación  
+y la fabricación de toda la parafernalia médica; 5.
 </details>
 
 <details open><summary>en</summary>
@@ -1721,7 +1853,9 @@ Oh, and we may be forgetting some of the costs because we’re simply unaware of
 
 <details><summary>es</summary>
 
-Ah, y podemos estar olvidando algunos de los costos porque simplemente desconocemos los impactos de lo que hacemos, si puede imaginar que podríamos ser tan ignorantes y descuidados.
+Ah, y podemos estar olvidando algunos de los costos   
+porque simplemente desconocemos los impactos de lo que hacemos,  
+si puede imaginar que podríamos ser tan ignorantes y descuidados.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
@@ -1741,7 +1875,9 @@ Aren’t we adorable!
 
 <details><summary>es</summary>
 
-** La Junta **: Y cuéntanos de nuevo cómo esta propuesta beneficia a la comunidad de la vida, ¿a quién representamos?
+**La Junta**: Y cuéntanos de nuevo  
+cómo esta propuesta beneficia a la comunidad de la vida,  
+¿a quién representamos?
 </details>
 
 <details open><summary>en</summary>
@@ -1751,7 +1887,9 @@ Well, we’re *members* of the community of life and the benefits we enumerated 
 
 <details><summary>es</summary>
 
-Bueno, somos * miembros * de la comunidad de la vida y los beneficios que enumeramos a continuación se aplicamos a nosotros, así que eso es bueno, ¿verdad?
+Bueno, somos *miembros* de la comunidad de la vida  
+y los beneficios que enumeramos a continuación se aplicamos a nosotros,  
+así que eso es bueno, ¿verdad?
 </details>
 
 <details open><summary>en</summary>
@@ -1761,7 +1899,8 @@ Bueno, somos * miembros * de la comunidad de la vida y los beneficios que enumer
 
 <details><summary>es</summary>
 
-** Junta **: Claro, tiene sentido en eso, y todos podemos celebrar vidas bien vividas.
+**Junta**: Claro, tiene sentido en eso,  
+y todos podemos celebrar vidas bien vividas.
 </details>
 
 <details open><summary>en</summary>
@@ -1771,7 +1910,8 @@ But given your track record and portfolio of activities, it looks like a net neg
 
 <details><summary>es</summary>
 
-Pero dado su historial y su cartera de actividades, parece una red neta para toda la comunidad.
+Pero dado su historial y su cartera de actividades,  
+parece una red neta para toda la comunidad.
 </details>
 
 <details open><summary>en</summary>
@@ -1781,7 +1921,10 @@ More healthy humans engaging in your market economy seems to be the last thing w
 
 <details><summary>es</summary>
 
-Los humanos más saludables que participan en su economía de mercado parecen ser lo último que, en su conjunto, necesitamos en aras del acceso distribuido a la vida.
+Los humanos más saludables  
+que participan en su economía de mercado  
+parecen ser lo último que, en su conjunto, necesitamos  
+en aras del acceso distribuido a la vida.
 </details>
 
 <details open><summary>en</summary>
@@ -1806,12 +1949,14 @@ Los humanos no están de alguna manera separados de la comunidad de la vida.
 
 <details open><summary>en</summary>
 
-If humans always “win” in the short term at the expense of the rest, then we actually **all** lose—humans as well.
+If humans always “win” in the short term at the expense of the rest, then we actually **all** lose—humans as well.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Si los humanos siempre "ganan" a corto plazo a expensas del resto, entonces en realidad ** todos ** perdemos: humanos también.
+Si los humanos siempre "ganan" a corto plazo  
+a expensas del resto,  
+entonces en realidad **todos** perdemos: humanos también.+++(5)+++
 </details>
 
 <details open><summary>en</summary>
@@ -1821,7 +1966,12 @@ Unless you can demonstrate how this helps the entire community, and not just you
 
 <details><summary>es</summary>
 
-A menos que pueda demostrar cómo esto ayuda a toda la comunidad, y no solo a ustedes mismos a expensas del resto de nosotros, entonces tenemos miedo de que la propuesta deba ser negada.
+A menos que pueda demostrar  
+cómo esto ayuda a toda la comunidad,  
+y no solo a ustedes mismos  
+a expensas del resto de nosotros,  
+entonces tenemos miedo de  
+que la propuesta deba ser negada.
 </details>
 
 ## Viable Substitutes  
@@ -1829,12 +1979,21 @@ A menos que pueda demostrar cómo esto ayuda a toda la comunidad, y no solo a us
 
 <details open><summary>en</summary>
 
-If we had to admit that the Likes on the list are incompatible with long-term success of humans as part of an ecological community, it may seem overwhelmingly devastating: a huge loss of all that we’ve worked to achieve.
+If we had to admit that the Likes on the list  
+are incompatible with long-term success of humans  
+as part of an ecological community,  
+it may seem overwhelmingly devastating:  
+a huge loss of all that we’ve worked to achieve.
 </details>
 
 <details><summary>es</summary>
 
-Si tuviéramos que admitir que los gustos en la lista son incompatibles con el éxito a largo plazo de los humanos como parte de una comunidad ecológica, puede parecer abrumadoramente devastador: una gran pérdida de todo lo que hemos trabajado para lograr.
+Si tuviéramos que admitir  
+que los gustos en la lista  
+son incompatibles con el éxito a largo plazo de los humanos  
+como parte de una comunidad ecológica,  
+puede parecer abrumadoramente devastador:  
+una gran pérdida de todo lo que hemos trabajado para lograr.
 </details>
 
 <details open><summary>en</summary>
@@ -1854,7 +2013,9 @@ I’m a product of modernity, too, and am accustomed to various expectations tha
 
 <details><summary>es</summary>
 
-También soy un producto de la modernidad, y estoy acostumbrado a varias expectativas que parecen ser injustificadas e insostenibles, ecológicamente.
+También soy un producto de la modernidad,  
+y estoy acostumbrado a varias expectativas  
+que parecen ser injustificadas e insostenibles, ecológicamente.
 </details>
 
 <details open><summary>en</summary>
@@ -1869,12 +2030,13 @@ Sé muy poco de otras formas.
 
 <details open><summary>en</summary>
 
-But if our goals have been utterly ecologically unsustainable, then they have no future anyway.
+But if our goals have been utterly ecologically unsustainable, then they have no future anyway.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Pero si nuestros objetivos han sido completamente insostenibles ecológicamente, entonces no tienen futuro de todos modos.
+Pero si nuestros objetivos han sido completamente insostenibles ecológicamente,  
+entonces no tienen futuro de todos modos.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
@@ -1884,7 +2046,8 @@ It’s not necessarily the case that humans are fundamentally rotten.
 
 <details><summary>es</summary>
 
-No es necesariamente el caso que los humanos estén fundamentalmente podridos.
+No es necesariamente el caso  
+que los humanos estén fundamentalmente podridos.
 </details>
 
 <details open><summary>en</summary>
@@ -1894,47 +2057,64 @@ We have just been conditioned by our culture to crave inappropriate things—thi
 
 <details><summary>es</summary>
 
-Hemos sido condicionados por nuestra cultura para anhelar cosas inapropiadas, cosas que no tienen un lugar permanente en este mundo; Cosas que no están respaldadas por la ecología más amplia.
+Hemos sido condicionados por nuestra cultura  
+para anhelar cosas inapropiadas,  
+cosas que no tienen un lugar permanente en este mundo;  
+Cosas que no están respaldadas por la ecología más amplia.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
 
-Maybe any lamentation should be over the fact that we went down this dead-end path in the first place, rather than over the unavoidable fact that we must abandon the destructive path and pick a new one.
+Maybe any lamentation should be over the fact that we went down this dead-end path in the first place, rather than over the unavoidable fact that we must abandon the destructive path and pick a new one.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Tal vez cualquier lamento debería ser sobre el hecho de que bajamos por este camino sin salida en primer lugar, en lugar de sobre el hecho inevitable de que debemos abandonar el camino destructivo y elegir uno nuevo.
+Tal vez cualquier lamento debería ser sobre el hecho  
+de que bajamos por este camino sin salida en primer lugar,  
+en lugar de sobre el hecho inevitable  
+de que debemos abandonar el camino destructivo y elegir uno nuevo.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
 
-Reportedly, people approaching death tend not to regret the material things they didn’t acquire, but the more deeply meaningful relationships that they might have tended to more thoughtfully.
+Reportedly, people approaching death tend not to regret the material things they didn’t acquire,  
+but the more deeply meaningful relationships that they might have tended to more thoughtfully.
 </details>
 
 <details><summary>es</summary>
 
-Según se informa, las personas que se acercan a la muerte tienden a no arrepentirse de las cosas materiales que no adquirieron, sino las relaciones más significativas que podrían haber atendido de manera más cuidadosa.
+Según se informa,  
+las personas que se acercan a la muerte  
+tienden a no arrepentirse de las cosas materiales  
+que no adquirieron,  
+sino las relaciones más significativas  
+que podrían haber atendido de manera más cuidadosa.
 </details>
 
 <details open><summary>en</summary>
 
-Our fondest memories are of connections we make with other living beings, and may involve laughter, singing, dancing, loving.
+Our fondest memories are of connections we make with other living beings,  
+and may involve laughter, singing, dancing, loving.
 </details>
 
 <details><summary>es</summary>
 
-Nuestros mejores recuerdos son de conexiones que hacemos con otros seres vivos, y pueden involucrar risas, cantar, bailar, amar.
+Nuestros mejores recuerdos son de conexiones que hacemos con otros seres vivos,  
+y pueden involucrar risas, cantar, bailar, amar.
 </details>
 
 <details open><summary>en</summary>
 
-A fulfilling life involves unconditional support for and by the community: sharing in all directions for the fitness of both the individual and the whole.
+A fulfilling life involves unconditional support for and by the community: sharing in all directions for the fitness of both the individual and the whole.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Una vida satisfactoria implica un apoyo incondicional para y por parte de la comunidad: compartir todas las direcciones para la aptitud tanto del individuo como del todo.
+Una vida satisfactoria implica  
+un apoyo incondicional para y por parte de la comunidad:  
+compartir todas las direcciones  
+para la aptitud tanto del individuo como del todo.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
