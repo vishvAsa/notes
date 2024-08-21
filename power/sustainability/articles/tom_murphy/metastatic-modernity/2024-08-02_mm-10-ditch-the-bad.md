@@ -2119,12 +2119,14 @@ para la aptitud tanto del individuo como del todo.+++(4)+++
 
 <details open><summary>en</summary>
 
-A sense of awe, respect, and gratitude are powerful and appropriate.
+A sense of awe, respect, and gratitude  
+are powerful and appropriate.
 </details>
 
 <details><summary>es</summary>
 
-Una sensación de asombro, respeto y gratitud son poderosos y apropiados.
+Una sensación de asombro, respeto y gratitud  
+son poderosos y apropiados.
 </details>
 
 <details open><summary>en</summary>
@@ -2134,37 +2136,50 @@ None of these things necessitate the list of Dislikes caused by materials, energ
 
 <details><summary>es</summary>
 
-Ninguna de estas cosas requiere la lista de disgustos causados por materiales, energía, desechos y contaminación en el camino de la modernidad.
+Ninguna de estas cosas requiere  
+la lista de disgustos causados por materiales, energía, desechos y contaminación  
+en el camino de la modernidad.
 </details>
 
 <details open><summary>en</summary>
 
-As in the monkey trap, **we simply closed our hand around the wrong set of Likes**, and are best-advised to let go.
+As in the monkey trap, **we simply closed our hand around the wrong set of Likes**, and are best-advised to let go.+++(5)+++
 </details>
 
 <details><summary>es</summary>
 
-Como en la trampa de mono, ** simplemente cerramos nuestra mano en el conjunto equivocado de me gusta **, y estamos mejor aconsejados para dejarlo ir.
+Como en la trampa de mono,  
+**simplemente cerramos nuestra mano  
+en el conjunto equivocado de me gusta**,  
+y estamos mejor aconsejados para dejarlo ir.+++(4)+++
 </details>
 
 <details open><summary>en</summary>
 
-Importantly, we’ve managed to live without the problematic Likes/Dislikes package before—in fact for most of our time on this planet.
+Importantly, we’ve managed to live without the problematic Likes/Dislikes package before—  
+in fact for most of our time on this planet.+++(4)+++
 </details>
 
 <details><summary>es</summary>
 
-Es importante destacar que hemos logrado vivir sin el paquete problemático de me gusta/disgusto antes, en el hecho de que la mayor parte de nuestro tiempo en este planeta.
+Es importante destacar que hemos logrado vivir  
+sin el paquete problemático de me gusta/disgusto antes,  
+en el hecho  
+de que la mayor parte de nuestro tiempo en este planeta.
 </details>
 
 <details open><summary>en</summary>
 
-I don’t want to come off as believing some delusional tale that we can live on love and laughter in biophysical detachment from the ecological foundation.
+I don’t want to come off as believing some delusional tale  
+that we can live on love and laughter  
+in biophysical detachment from the ecological foundation.
 </details>
 
 <details><summary>es</summary>
 
-No quiero salir como una historia de delirante que podemos vivir en el amor y la risa en el desapego biofísico de la Fundación Ecológica.
+No quiero salir como una historia de delirante  
+que podemos vivir en el amor y la risa  
+en el desapego biofísico de la Fundación Ecológica.
 </details>
 
 <details open><summary>en</summary>
@@ -2179,16 +2194,21 @@ Por supuesto que no.
 
 <details open><summary>en</summary>
 
-I’m simply suggesting that we might pursue more ecologically “normal” needs that have long-standing built-in support from the community of life.
+I’m simply suggesting that we might pursue more ecologically “normal” needs  
+that have long-standing built-in support  
+from the community of life.
 </details>
 
 <details><summary>es</summary>
 
-Simplemente estoy sugiriendo que podríamos seguir con más necesidades ecológicamente "normales" que tengan un apoyo incorporado de larga data de la comunidad de la vida.
+Simplemente estoy sugiriendo  
+que podríamos seguir con más necesidades ecológicamente "normales"  
+que tengan un apoyo incorporado de larga data  
+de la comunidad de la vida.
 </details>
 
 ## Closing, and Do the Math  
-  {## cierre y haz las matemáticas}
+{## cierre y haz las matemáticas}
 
 <details open><summary>en</summary>
 
@@ -2197,7 +2217,10 @@ Next time, we will tackle a bit of a digression as to why renewables and recycli
 
 <details><summary>es</summary>
 
-La próxima vez, abordaremos un poco de digresión sobre por qué las energías renovables y el reciclaje no nos sacarán de este desastre.
+La próxima vez,  
+abordaremos un poco de digresión  
+sobre por qué las energías renovables y el reciclaje  
+no nos sacarán de este desastre.
 </details>
 
 <details open><summary>en</summary>
@@ -2207,6 +2230,8 @@ I also include the customary encouragement to check out this written version of 
 
 <details><summary>es</summary>
 
-También incluyo el aliento habitual para ver esta versión escrita del episodio para una toma paralela (con bonos).
+También incluyo el aliento habitual  
+para ver esta versión escrita del episodio  
+para una toma paralela (con bonos).
 </details>
 

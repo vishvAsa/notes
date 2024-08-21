@@ -4,7 +4,7 @@ title = "+Cleaning"
 
 ## Teeth
 - Clean/ gargle after every meal.
-- Chewing functional chewing gums after every meal.
+- Chewing functional chewing gums after every meal - but wait 30 minutes as enamel is temporarily softened.
 - Massage gums daily: pull the gums up with 2 fingers. Gums may bleed if there is inflammation, but massaging is good. Can use electric toothbrush.
 
 ### Cleaning paste

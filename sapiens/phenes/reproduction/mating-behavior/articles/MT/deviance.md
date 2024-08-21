@@ -18,7 +18,7 @@ Unfortunately, the use of it as a political weapon in the mlechCha-controlled wo
 
 2, 3 can in principle elicit their effects via epigenetic changes. Currently the evidence in favor of the genetic hypothesis (1) is weak & generally contrary to foundational biological principles unless rampant bisexuality was/is the norm. 2, 3 remains possible but have certain problems that need to be resolved before these hypothesis can be seen with certainty. 
 
-Where there is some "leftover" tendency due to the signaling use in P.paniscus that is easily triggered in Homo needs to be explored further. Moreover, it is clear that all homosexuality is not the same.
+Where there is some "leftover" tendency due to the signaling use in P.paniscus +++(=bonobo)+++ that is easily triggered in Homo needs to be explored further. Moreover, it is clear that all homosexuality is not the same.
 
 ...
 I think that the presence of the behavior apparently playing a signaling role in our cousin P.paniscus suggests that there might be some 'weak link' in the inherited legacy code that could tip things in that direction due to relative minor lesions. What those lesions might be remains unclear. (Regarding analogous situations with other abnormalities -) One may cite appendicitis; allergies from the IgE system dysfunction as possible analogies in very different organ systems.
