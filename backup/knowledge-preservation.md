@@ -78,6 +78,12 @@ Metal engraving is relatively easy with a CNC machine.
 - Nanofiche can be replicated from nickel to polymer any number of times, inexpensively. Polymer lasts for 400 to 700 years. Source: [TW](https://archive.org/details/OverviewOfTheLunarLibrary/page/n62/mode/1up)
 
 
+#### Piql film
+[arctic world archive](https://arcticworldarchive.org/service/) uses piqlFilm, which claims -
+
+- Longevity tested to survive for over 500 years. 
+- Future-proof WORM medium Offline and secure
+
 #### Silicon Waferfiche
 Source: [TW](https://taraprakashana.org/long-term-archival/)
 
@@ -171,6 +177,10 @@ Quite brittle.
 
 #### Vinyl records
 Last 100 yrs under good conditions.
+
+### CDs, Hard disk
+CDs are vulnerable to wear   
+hard drives limited by lifespan of only 4-5 years
 
 ## Retrieval/ playback
 Grammaphone doesn't require electricity to play sound. It's relatively easy to construct.
