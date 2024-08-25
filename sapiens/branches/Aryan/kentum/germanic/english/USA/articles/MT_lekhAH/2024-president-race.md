@@ -75,3 +75,8 @@ At least some in both the elite and the working class are afraid of voting accor
 
 The above is all commonplace stuff  
 but there is a hidden, more tangled aspect of the oligarchy that is too dangerous to mention in public.
+
+## anUpa
+If anUpa+++(=vance)+++ had been gardabha, the mahAmlechCha MSM would singing his paens as though he was a second coming of ShiDga.  
+Now they ignore his bold engagements with them while spreading a childish slander.  
+But perhaps by putting himself out there anUpa is delivering a message on behalf of vijaya-nAma-vyApArin to the propagandized.
