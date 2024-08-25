@@ -30,3 +30,48 @@ The structure of the mahAmlechChAnAm navyonmatta-gUDha-chakra has a complex stru
 Of course he is a useful frontend, for he is a veritable bodhisattva for the lay masses of left-liberals -- he is the rAma-rAja for them. But the power & handling behind the scenes is handled by the true gUDhachara-s. They have allies with grandiose ambitions like the sora-kula but they are not as visible as him. 
 
 The answers can be found by asking why paTTinI, if made to run for the ma~ncha would win with a bigger margin than nAri~Nga, but in his own pakSha paTTinI cannot challenge nAri~Nga. The answer lies in connection of yuddhonmAda & the particular interest in dAnu-apara. That leads us to a confederation that in the broad sense includes: kR^iShNAdri-phuka, the pR^iShTaka-kula (ardhakR^iShNa-s biggest backers), agrabhaTa, TamTama steya, svAdupuruSha, madhubhR^i~Nga, dAvaka, bejha, guggulu, mukhagiri, dvAra: a truly formidable array 
+
+
+## Internal struggle
+
+Source: [TW](https://x.com/blog_supplement/status/1827378132430524716)
+
+The internal struggle among the mahAmlechCha has come down to one between loyalty to a popular personality and the oligarchic face of the deep state.  
+We believe that the natural human tendency is to gravitate towards the popular personality,  
+but if we were to believe the surveys so far, it is almost exactly half and half.  
+So, is the assumption that people gravitate towards the popular personality incorrect  
+or is there something else at play?  
+We believe it is not flawed  
+but a result of the deep state deploying something it has mastered over almost a century  
+with roots in the machinery deployed by the earlier leader of the Anglosphere.  
+
+While the German and Japanese challenges during WW2 caused a leadership change in the Anglosphere,+++(5)+++  
+it did not mean the death of the old methods.  
+We believe that they were intensified with the transition of power within the Anglosphere,  
+as the model of dominance moved away from direct "colonial" operation to manipulation "at a distance".+++(5)+++  
+The Anglosphere had also picked up several effective propaganda tools from the defeated Third Reich.
+
+When the deep state found a popular challenge to its ways (outside spending),  
+it turned these tools inward to place a puppet leadership.  
+The old propaganda tools have been successfully updated  
+in terms of delivery for the younger generation with a low attention span:  
+
+1. It is unlikely to invest in reading long articles/books;  
+2. It prefers the visual and auditory medium. 
+3. It prefers, information delivered in short bursts that produce visceral reactions. 
+
+For the older and middle-aged folks MSM still remains a potent source of propaganda transmission.  
+Thus, through the capture of MSM and big-tech the deep state is able to deliver a strong dose of propaganda  
+that has worked effectively in keeping enthusiasm for the oligarchic rule high,  
+while concealing its disastrous performance in the last 4 years.+++(4)+++
+
+Thus, as of today the deep state could pull off an internal victory among the mahAmlechCha  
+with almost 0.5 probability.  
+If coin flipped the other way,  
+given its vindictive nature,  
+the oligarchy would cause mayhem via its bha~njaka-s, kAlAmukha-s, marUnmattapriya-s and ShaNDasainya  
+to paralyze the ruler elected on popular personality.  
+At least some in both the elite and the working class are afraid of voting according to their real preference due to the fear of the bha~njaka-s disrupting life.
+
+The above is all commonplace stuff  
+but there is a hidden, more tangled aspect of the oligarchy that is too dangerous to mention in public.
