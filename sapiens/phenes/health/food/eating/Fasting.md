@@ -27,16 +27,32 @@ Pregnant women beware:
 ### Activity
 - "It goes w/out saying that when you fast you should be active - HIIT, RT, etc. This is HUNTER MODE, 'Destruction & Reconstruction', Autophagy - the primal processes for health which modern life suppresses."
 
-### Sustenance during long fasts
+### Sustenance 
+- In case of tiredness, just lie down for a few minutes, or sit upright.
+- Respond to stomach signals or headache indications by drinking water.
+
+#### During long fasts
+- Vijay uses rasam to keep up electrolytes; buttery coffee to avoid gall stones.
 - "Fasts of up to 24hrs can be done free of food - some people may prefer not to eat any food as "it is easier to fast than to diet", but longer fasts should include some calories."
 - "Some studies suggest that 500 calories can be consumed every 24hrs whilst keeping fasting benefits, fasters may mistakenly interpret this as a target, not an upper limit - 500 calories a day translated means, 'some food'." 
 - "Since calorie-counting is predicated on the naïve view of the human body as a car engine we should take into account not just calories but also the type of food, in that x calories from sugar has a different effect on the body than x calories from fish. Have savoury rather than sweet; vegetable soup, a broth of some sort or bouillon give some salts and satisfies hunger pangs or the psychological desire to eat."
 
+
 ### Breaking fast
-- Don't drink too much water before breaking fast just to excrete - may cause diarrhoea.
 - Excercise (esp strength training) shortly before breaking fast.
-- Quantity after long fast - "it doesn’t make ecological sense to break a fast with only a small amount (given food availability), no animal would “leave the table with room to spare” after starvation." 
+- Ingredients
+  - Go low on sugars and fats to prevent diarrhoea
+- Quantity after long fast
+  - eating too much or too quickly may upset your stomach, leading to diarrhea. This is the case even more so after extended fast periods.
+  - "it doesn’t make ecological sense to break a fast with only a small amount (given food availability), no animal would “leave the table with room to spare” after starvation."
 - After breaking fast - sleeping on dvAdashI is traditionally deprecated.
+
+#### Diarrhea after breaking fast 
+- it's common to experience diarrhea after breaking a fast because your bowel's ability to function properly decreases when it's not used. When you start eating again, the sudden influx of food can overstimulate the gastrocolic reflex, which can lead to diarrhea.
+- This can be made worse by eating certain foods, such as those that are high in sugar (oft sucrose or frutctose) or fat. These foods can cause "dumping syndrome," where food is pushed into the small intestine before it's properly broken down, which can lead to diarrhea.
+- Symptoms of dumping syndrome usually occur within minutes after eating.
+
+
 
 ### Timing
 - "Most people start the timing of their fast directly after their last meal, i.e. the post-prandial state, when the stomach and intestines are absorbing nutrients from food. However, it's only after complete digestion and absorption of a meal (Post prandial state), 4-6hrs late that a fast actually begins."
@@ -63,7 +79,7 @@ Pregnant women beware:
 - Post prandial state: After eating, when the stomach and intestines are absorbing nutrients from food. 4-6hrs.
   - glycolysis, the body normally derives energy from glucose in the blood stream which comes from carbohydrate in food.
   - Glucose which isn't used straightaway is converted into glycogen and stored in the liver and muscles.
-- post-absorptive' state: body has to create energy from the breakdown of its own reserves. 
+- post-absorptive state: body has to create energy from the breakdown of its own reserves. 
   - hepatic glycogen is converted back into glucose for energy. 
   - Once the glycogen stores are near depletion, 12-24hrs later depending on activity levels, the body creates glucose/energy from non-carbohydrate sources such as fat and amino acids (gluconeogenesis). 
   - After 2-3 days of fasting the body switches' to the muscle sparing process of lipolysis/ketosis.
@@ -80,6 +96,11 @@ Pregnant women beware:
 - white adipose tissue (body fat) makes and releases leptin. Leptin helps inhibit (prevent) hunger and regulate energy balance so that your body doesn’t trigger a hunger response when it doesn’t need energy (calories). Leptin doesn’t affect your hunger levels and food intake from meal to meal but rather acts to alter food intake and control energy expenditure over a longer period of time to help maintain your normal weight.
 - As your body fat (adipose tissue) decreases, your leptin levels decrease, which signals your body to think that it’s starving. This stimulates intense hunger and appetite and can lead to increased food consumption.
 
+## Gall stones
+While short fasting periods (around 10 hours) may be safe, longer fasting durations (up to 20 hours) might be beneficial in reducing gallstone risk after an initial increase of risk at 15 hours.
+
+About 10g of fat a day is supposed to cause enough gallbladder contractions to empty the bile
+
 ## Initiation
 It is actually pretty easy to start off fasting habit early in life. For example, for over a year, 6yo son has been happily doing daily (4:30PM-8:30AM) intermittent fasting and ~24 hour fast on ekAdashi-s (albeit cheating with milk and fruits), while staying fully active (eg 1 hr swimming + 1 hr dance).
 
@@ -87,9 +108,10 @@ It is actually pretty easy to start off fasting habit early in life. For example
 - Quotes from Mark Baker/ GuruAnaerobic.
 
 ## As treatment
-- "ज्वरदण्डस् तु लङ्घनम्"
+> "ज्वरदण्डस् तु लङ्घनम्"
 
-> अतीव बलहीनं हि
-  लङ्घनं नैव कारयेत् ।
-  ये गुणा लङ्घने प्रोक्तास्
-  ते गुणा लघुभोजने।। 
+> अतीव बलहीनं हि  
+लङ्घनं नैव कारयेत् ।  
+ये गुणा लङ्घने प्रोक्तास्  
+ते गुणा लघु-भोजने॥ 
+
