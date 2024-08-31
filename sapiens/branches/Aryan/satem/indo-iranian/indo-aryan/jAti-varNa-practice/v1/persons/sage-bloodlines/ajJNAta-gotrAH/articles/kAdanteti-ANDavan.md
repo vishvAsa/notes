@@ -7,7 +7,7 @@ Birth star: Avani Mulam
 
 Thaniyan
 
-śrīmach-chrīvāsa-yogī pravara sakaruṇāpāñga sangāta-bhañgāt  
+śrīmach-chrīvāsa-yogi-pravara sakaruṇāpāñga sangāta-bhañgāt  
 vedānta-dvandva-vidyā-madhura-salaharī-chancharīkayamāṇaḥ  
 tenāchāryeṇa ranga-prabhu-caraṇa-yuge datta-rakshā-bhara-śrīḥ  
 śrīmach-chrīvāsa-rāmāvaraja-muni-maṇis santataṁ śreyase syāt
