@@ -49,11 +49,20 @@ title: Fight against Christianity
     - "Our way of virtue and their deceitful techniques are as incompatible as fire and ice. The universe is not enough to contain us both."
 
 ## Post-Meiji Japan, Pre-WW2
-- Many remarkably accurate anti-christian pamphlets surfaced in the wake of renewed missionary incursion. 
+An early step of Meiji leadership was a conference on measures to stop spread of Christianity.  
+Also see Professor Inoue Tetsujiro's pamphlet on Christianity.
+
+### Anti-Missionary activity 
+- Many remarkably accurate anti-christian pamphlets surfaced in the wake of renewed missionary incursion.
   - Sources: History of Christianity in Japan ([arch](https://archive.org/stream/ahistorychristi00carygoog#page/n91/mode/2up))
-  - "the French built a ranch, and five or six priests took up ttieir residence there. They gave waives of a hundred or two hundred rios annually to about twenty Japanese readers and sent them out in the disguise of traders or travelling students to Hirado, Shimabara in Hizen, to Fttkabori and to Amakusa. To the poor they gave money, and to the superstitious they exhibited prodigies in order to proselytise them, or worked upon their feelings by conventicles. (A conventicle is a meeting of both sexes at night in a secret diamber for pleasure.) In a short time, therefore, one or two hundred fellows sprang up who disregarded the most stringent injunctions of the lords of the districts, and neglected the social relations and the five virtues— a most fearful state of things, indeed."
-  - "The Jesus of Protestant Doctrine" - "These priests of the Jesus doctrine live mostly in private houses, and under pretence of teaching astronomy, geography, and the use of fire-arms, and medicine desire in actual fact to spread about the abominable poison of Jesus. Compared with the Roman Catholic religion this is a very cunning doctrine indeed. Although they try to make out that there is nothing abominable in it, they are really foxes of the same hole, and it is really more injurious than the Roman Catholic doctrine. ... But in the matter of abolishing Shinto and Buddhism and of treating prince and father with contempt it does not differ from the Roman Catholics, for which reason it is very hurtful to the state. "
-- "There is another poorly known aspect of the war which is the role of the Christian missionaries. They were key in spreading anti Japanese propaganda back home in mleccha lands. In the 1930's Inazo Nitobe gave some speeches here in North America and in one of them he warned the missionaries to stay out of the war between Japan and China." \[[T1](https://twitter.com/Rjrasva/status/603679432386191360), [T2](https://twitter.com/Rjrasva/status/611913981121417216)\]
+
+> "the French built a ranch, and five or six priests took up their residence there. They gave waives of a hundred or two hundred rios annually to about twenty Japanese readers and sent them out in the disguise of traders or travelling students to Hirado, Shimabara in Hizen, to Fttkabori and to Amakusa. To the poor they gave money, and to the superstitious they exhibited prodigies in order to proselytise them, or worked upon their feelings by conventicles. (A conventicle is a meeting of both sexes at night in a secret diamber for pleasure.) In a short time, therefore, one or two hundred fellows sprang up who disregarded the most stringent injunctions of the lords of the districts, and neglected the social relations and the five virtues— a most fearful state of things, indeed."
+
+> "The Jesus of Protestant Doctrine" - 
+> 
+> "These priests of the Jesus doctrine live mostly in private houses, and under pretence of teaching astronomy, geography, and the use of fire-arms, and medicine desire in actual fact to spread about the abominable poison of Jesus. Compared with the Roman Catholic religion this is a very cunning doctrine indeed. Although they try to make out that there is nothing abominable in it, they are really foxes of the same hole, and it is really more injurious than the Roman Catholic doctrine. ... But in the matter of abolishing Shinto and Buddhism and of treating prince and father with contempt it does not differ from the Roman Catholics, for which reason it is very hurtful to the state. "
+
+> "There is another poorly known aspect of the war which is the role of the Christian missionaries. They were key in spreading anti Japanese propaganda back home in mleccha lands. In the 1930's Inazo Nitobe gave some speeches here in North America and in one of them he warned the missionaries to stay out of the war between Japan and China." \[[T1](https://twitter.com/Rjrasva/status/603679432386191360), [T2](https://twitter.com/Rjrasva/status/611913981121417216)\]
 
 ### Geopolitical disadvantage
 - As a ganging-up tactic in international policy and cooperation

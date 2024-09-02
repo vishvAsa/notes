@@ -42,3 +42,17 @@ because the Occident is perhaps even greater than the marUnmatta-s in its vindic
 they simply cannot let go.  
 Hence, they (or their allies like the daNDaka-s) could simply decide to put their boots on the ground in the guise of dAnu-aparin.  
 The rUs reaction to this would make things take a deadly turn in the future.
+
+
+## 202409 Kursk
+Source: [TW](https://x.com/blog_supplement/status/1829762807191031884)
+
+It has been very difficult to evaluate the Kursk conflict between the rotten soybeans and the rUs. Probably, it has so far not gone as per the expectation of either side; hence, both are on letting out partial accounts favorable to themselves. Broadly, one can easily discern the following:
+
+1. The dAnu-aparin-s are only the glove while the fist behind them are the phira~Nga-s  with weapons support from mahAmlechCha & probably laNDapura (Crimean war redux). Some daNDa-s, who have deep dislike for the rUs, are also likely involved on the ground. 
+2. The dAnu-aparin-s backed by rotten soybean intelligence likely chose Kursk as a relative easy spot for a toehold in the rUs territory. They made an advance with hardly any rUs defenses. 
+3. The rUs response was slow due to internal conflicts in their defense ministry& general ineptitude of their military. However, once it got going it inflicted heavy losses on the dAnu-aparin canon fodder. 
+4. The phira~Nga-s, along with probably mahAmlechCha, daNDa, laNDa, u1 (may be?) auxiliaries joined the fray along with their superior tactical intelligence. They were able blunt the initial rUs fightback and take some critical territory. 
+   
+
+The idea is to use this toehold for strikes deep into rUs on civilian infrastructure with their superior weapons. It seems their idea is to draw the rUs to directly attack the rotten soybeans. This will give them the long sought excuse to directly pummel the rUs with their superior arsenal. However, that could be a big risk if rUs is pushed into an existential crisis to trigger the use of nukes.
