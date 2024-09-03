@@ -13,3 +13,19 @@ title = "Aging"
 ## Energy crisis
 "Aging is partly the result of a 'cellular energy crisis' from a reduction in the number of mitochondria in the cells. The consequence is that the cells start to function less well as a result of the energy shortage. "
 
+## 100m decrements
+100m personal best age decrements.
+
+40yrs <0.5secs  
+50yrs <1.0secs  
+60yrs <2.0secs  
+70yrs <3.0secs  
+
+The time drop-off with age is less than most people think.
+
+How to achieve?
+
+- stay lean and same(ish) bodyweight
+- keep sprint/speed training
+- keep strong (resistance train)
+- avoid chronic injuries (don't overtrain)
