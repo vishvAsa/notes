@@ -80,3 +80,20 @@ but there is a hidden, more tangled aspect of the oligarchy that is too dangerou
 If anUpa+++(=vance)+++ had been gardabha, the mahAmlechCha MSM would singing his paens as though he was a second coming of ShiDga.  
 Now they ignore his bold engagements with them while spreading a childish slander.  
 But perhaps by putting himself out there anUpa is delivering a message on behalf of vijaya-nAma-vyApArin to the propagandized.
+
+## Pulled rug
+Get the feeling that the nAri~NgapuruSha has come to the realization that deepstate-neocon machine will not let him become rAjan irrespective of the election outcome.  
+A certain resignation is seen in him despite continuing the fight.  
+It is interesting that  
+he never properly articulates how they pulled the rug under him the last time --  
+he simply says it was a fraud.  
+He could be more convincing if articulated that case --  
+it can be made quite strongly -- as how the rug was pulled.
+
+I personally think pichChilaka is the only tolerable candidate now  
+precisely because he is not too conservative in the American sense of the word.  
+A hyperconservative type is essentially a mahApretAnuchArin likely combined with neoconism.  
+Such types are bad for H as they will support pretabhAnaka-s in the desh.  
+They will also foment wars that are detrimental to the H.  
+Conversely, liberals are bad as they are naturally inimical to H and will support marUnmatta-s and socialist terrorists in addition also being neocons. 
+pichChilaka is actually the middle ground and that is the problem he faces from both sides. But when one weighs things the left-liberal is the worst.
