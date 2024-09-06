@@ -80,6 +80,7 @@ The v2s were carnivores.
 v1 women were often quite learned -  
 especially in shrIvaiShNava rahasya text-s and the divya-prabandha-s. They used to teach these (barring the chapters which described the praNava - barred for women).  
 A woman called rAdhA in a nearby village - wrote down shruti-pramANa-s (since speaking it was forbidden by shAstra-s) on a piece of paper from memory during a scholastic disputation during a temple utsava which bAlAjI visited at around age 10.  
+Another woman used to quiz him in kAvya-s and vyAkaraNa as he passed by.  
 Some were even able to correct vedic students practicing at home (though they abstained from recitation).
 
 ## Houses
