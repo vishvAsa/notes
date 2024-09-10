@@ -99,6 +99,12 @@ Frazaft pad drōd šādīh
 
 
 
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+Source: [TW](https://x.com/blog_supplement/status/1833370931739451699)
+
+By some coincidence, wanted to make a post on this recently. There is an interesting symmetry between us our & Iranic cousins: The restoration from the mlechChAdi will involve on their side a descendant of kauui ushan, while on our side it will involve the collateral bhArgava line: rAma jAmadagnya -- both waiting with immortality to spring out when the time comes. rAma bhArgava will train kalkin in arms for the overthrow of the mlechChAdi.
+</details>
 
 
 

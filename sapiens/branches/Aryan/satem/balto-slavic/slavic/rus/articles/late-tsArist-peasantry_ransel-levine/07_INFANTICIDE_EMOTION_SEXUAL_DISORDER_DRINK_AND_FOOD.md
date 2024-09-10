@@ -8,33 +8,43 @@ title = "07 INFANTICIDE, EMOTION, SEXUAL DISORDER, DRINK AND FOOD"
 
 *Among a new wife’s most important tasks was to reproduce a new generation. Not until she had a surviving child was she regarded as a full-fledged member of her new household. Since Semyonova has already dealt with the issue of childbirth and with child rearing, such as it was in Russian peasant life, she writes little about it in her subsequent notes. But here I wanted to include a few comments she makes on the length of confinement for birthing mothers, sexual contacts between husband and wife, illegitimacy, lullabies, and related topics*.
 
-*Among these, the topic of infanticide returns. Semyonova’s observations are disturbing to modern readers, but there is no reason to doubt their accuracy. My own recent researches on this question suggest that in many parts of Russia, children, unwanted because of illegitimacy, physical malformation, or apparent weakness, met their deaths either quickly through infanticide of the kinds described by Semyonova or more slowly by a reduced level of care and feeding*.1 *Her laconic remark on the low rate of illegitimate births compared to the number of sexually active unmarried women may be taken as one of her measures of the “infanticide gap.” She notes as well the illegitimate children of married women, a common enough occurrence in Russian villages, from which many of the men were absent for long periods as migrant laborers or soldiers. We need to keep in mind that these women were not moral monsters. They were charged with maintaining a delicate social and demographic balance; their first duty was to ensure the economic and patriarchal control that ultimately protected their healthy children and the family unit as a whole. Their behavior has to be understood within the context of the precarious subsistence economy in which they lived*.2
+*Among these, the topic of infanticide returns. Semyonova’s observations are disturbing to modern readers, but there is no reason to doubt their accuracy. My own recent researches on this question suggest that in many parts of Russia, children, unwanted because of illegitimacy, physical malformation, or apparent weakness, met their deaths either quickly through infanticide of the kinds described by Semyonova or more slowly by a reduced level of care and feeding*.1 
+
+*Her laconic remark on the low rate of illegitimate births compared to the number of sexually active unmarried women may be taken as one of her measures of the “infanticide gap.”+++(5)+++ She notes as well the illegitimate children of married women, a common enough occurrence in Russian villages, from which many of the men were absent for long periods as migrant laborers or soldiers. We need to keep in mind that these women were not moral monsters. They were charged with maintaining a delicate social and demographic balance; their first duty was to ensure the economic and patriarchal control that ultimately protected their healthy children and the family unit as a whole. Their behavior has to be understood within the context of the precarious subsistence economy in which they lived*.2
 
 
 
 
 
-After getting married, Ivan enjoys a period of grace at home. For the first three days a new husband is a “young prince.” The family is indulgent with him and considerate, “if not for his sake, then for his wife’s,” as they say. The newlyweds receive extra servings of food and are allowed to sleep in during the first three days of celebration, but after that, they work, like everyone else. The groom is told something like: “You were young, but now you are a veteran, got yourself a wife, so get to work.” The bride is treated more leniently, for she is new in the family. She enjoys certain benefits, for instance in food. Thus, pampering consists of fattening up a prospective worker, three days of the easy life, and the privilege of sleeping outside in a barn or storeroom while the weather is warm \[affording the newlyweds some privacy\].
+After getting married, Ivan enjoys a period of grace at home. For the first three days a new husband is a “young prince.”+++(4)+++ The family is indulgent with him and considerate, “if not for his sake, then for his wife’s,” as they say. The newlyweds receive extra servings of food and are allowed to sleep in during the first three days of celebration, but after that, they work, like everyone else. 
+
+The groom is told something like: “You were young, but now you are a veteran, got yourself a wife, so get to work.” The bride is treated more leniently, for she is new in the family.+++(4)+++ She enjoys certain benefits, for instance in food. Thus, pampering consists of fattening up a prospective worker, three days of the easy life, and the privilege of sleeping outside in a barn or storeroom while the weather is warm \[affording the newlyweds some privacy\].
 
 In the first few days after the wedding, the young wife talks with her husband in an effort to find out whatever she can about each member of his family, and occasionally she expresses her concern for the future. She also discusses the customs in her husband’s household. If the young husband likes her, he naturally tries to reassure her and to explain the way things are and how she can best get along with her mother-in-law and father-in-law.
 
-\[When a baby is born,\] according to tradition, husband and wife should resume sexual relations six weeks after the woman’s confinement, a time marked by her churching and ritual purification. But this rule is rarely observed. After delivery of the first baby, a husband might be considerate to his wife, but after the second or third baby, he does not wait the customary six weeks. If he is drunk, he will resume relations after a week. Even if he stays sober, he will ordinarily begin sexual relations after only two or three weeks. In general, Ivan’s sexual demands on his wife are closely related to his diet and to intoxication. Having eaten his fill in the fall, and especially after a drink, Ivan is almost insatiable. On the other hand, when he is hungry or engaged in the heavy summer field work, Ivan rarely goes near his wife. The wife, of course, is not asked her wishes. He simply yells, “Aksinia, come over here\!” and that is it. She knows from his tone of voice what he is looking for.
+\[When a baby is born,\] according to tradition, husband and wife should resume sexual relations six weeks after the woman’s confinement, a time marked by her churching and ritual purification. But this rule is rarely observed. After delivery of the first baby, a husband might be considerate to his wife, but after the second or third baby, he does not wait the customary six weeks.+++(4)+++ If he is drunk, he will resume relations after a week. Even if he stays sober, he will ordinarily begin sexual relations after only two or three weeks. 
 
-Women age fast so far as their looks are concerned. Yet despite unfavorable conditions for their health, despite even diseases and malnutrition, they sometimes bear children at the age of fifty, and babies are very often born to women in their mid-forties. I know of a woman who gave birth when she was sixty-three years old. Her husband was the same age. She died at the age of sixty-seven, but her husband is still alive and has as his “heir” this twelve-year-old son.
+In general, Ivan’s sexual demands on his wife are closely related to his diet and to intoxication. Having eaten his fill in the fall, and especially after a drink, Ivan is almost insatiable. On the other hand, when he is hungry or engaged in the heavy summer field work, Ivan rarely goes near his wife. The wife, of course, is not asked her wishes. He simply yells, “Aksinia, come over here\!” and that is it. She knows from his tone of voice what he is looking for.+++(4)+++
 
-There are also many instances of older men who are still full of energy while their wives are failing badly. This situation sometimes results in what is known as *snokhachestvo*, that is, sexual relations between a man and his daughter-in-law \(this also happens occasionally in cases of widowers with married sons\).3
+Women age fast so far as their looks are concerned. Yet despite unfavorable conditions for their health, despite even diseases and malnutrition, they sometimes bear children at the age of fifty, and babies are very often born to women in their mid-forties. I know of a woman who gave birth when she was fifty-three years old. Her husband was the same age. She died at the age of sixty-seven, but her husband is still alive and has as his “heir” this twelve-year-old son.
 
-The rate of illegitimate births for unmarried women is, in fact, very low compared with the number of “loose” girls.
+There are also many instances of older men who are still full of energy while their wives are failing badly. This situation sometimes results in what is known as *snokhachestvo*, that is, sexual relations between a man and his daughter-in-law \(this also happens occasionally in cases of widowers with married sons\).+++(5)+++[^3]
 
-In the big village of B \(population 1,200\), one, two, or even three times a year a scandal breaks out about an illegitimate pregnancy. Babies in these cases are sent to \[the imperial foundling home in\] Moscow, but killings of the newborn also occur. In the past four years, there have been two notorious cases of infanticide in the village and in its surrounding parish, cases in which the mothers were tried. The sentence in each case was a few months of imprisonment.
+The rate of illegitimate births for unmarried women is, in fact, very low compared with the number of “loose” girls.+++(5)+++
+
+In the big village of B \(population 1,200\), one, two, or even three times a year a scandal breaks out about an illegitimate pregnancy. Babies in these cases are sent to \[the imperial foundling home in\] Moscow, but killings of the newborn also occur.+++(4)+++ In the past four years, there have been two notorious cases of infanticide in the village and in its surrounding parish, cases in which the mothers were tried. The sentence in each case was a few months of imprisonment.
 
 In practice, the number of these killings is higher, if the illegitimate infants of soldiers’ wives and other married women are taken into account. Frequently the illegitimacy of these babies is known only to the family, and a killing committed within the family is impossible to prove. I have always been suspicious of cases of reported accidental smothering of babies, since it is very easy to roll over on a baby and intentionally smother it while pretending that it happened by accident in sleep.
 
-Not all babies are subject to killing, but illegitimate ones are very likely to be. A weak baby that is a burden to its mother is not killed, although its parents will grumble at its existence and constantly express a desire for its death.4 Among the reasons for infanticide are shame, fear, and finances. An unmarried woman is most likely to kill her baby out of shame. A married woman or a soldier’s wife will do so fearing the wrath of her husband or his family, while a widow burdened with children will kill a baby because of economic need \(see the accounts \[given earlier\] of a young married woman who under the pressure of her mother-in-law poisoned her illegitimate baby with matches and of a poor homeless widow who drowned her illegitimate baby in the pond\). Older women are very ruthless and cold-blooded about the killing of an illegitimate “whelp,” whom they view as a nuisance and a burden. Young women anguish over such a decision and force themselves to kill their babies only when shame or fear causes them to lose their senses, or when they can no longer bear their own and their babies’ suffering. Men, from what I could observe, often simply do not know about such killings, even when they occur in their own families, or, if they figure out what is going on, they look the other way. “Damn women are cooking up something, the hell with them, it’s no concern of mine” is probably how a man reasons, pushing away any thoughts of what the women are up to.
+Not all babies are subject to killing, but illegitimate ones are very likely to be. A weak baby that is a burden to its mother is not killed, although its parents will grumble at its existence and constantly express a desire for its death.[^4] 
+
+Among the reasons for infanticide are shame, fear, and finances.+++(4)+++ An unmarried woman is most likely to kill her baby out of shame. A married woman or a soldier’s wife will do so fearing the wrath of her husband or his family, while a widow burdened with children will kill a baby because of economic need \(see the accounts \[given earlier\] of a young married woman who under the pressure of her mother-in-law poisoned her illegitimate baby with matches and of a poor homeless widow who drowned her illegitimate baby in the pond\). 
+
+Older women are very ruthless and cold-blooded about the killing of an illegitimate “whelp,” whom they view as a nuisance and a burden.+++(4)+++ Young women anguish over such a decision and force themselves to kill their babies only when shame or fear causes them to lose their senses, or when they can no longer bear their own and their babies’ suffering.+++(4)+++ Men, from what I could observe, often simply do not know about such killings, even when they occur in their own families, or, if they figure out what is going on, they look the other way. “Damn women are cooking up something, the hell with them, it’s no concern of mine” is probably how a man reasons, pushing away any thoughts of what the women are up to.
 
 Leo Tolstoy captured peasant character traits marvelously in a similar situation. Watch the peasants, observe their life closely, and you will see just how accurate Tolstoy’s depiction was: the cruelty of old Matryona, the frenzy of Anisia … all these are true pictures of peasant life, the way it really is.5
 
-The rate of child deaths is highest in the summer during the fast of St. Peter \[in June\], and especially during the field-work season, when unattended children eat anything they come across: cucumbers, sour apples, and any other vegetation. Diarrhea is the chief cause of child death. As for the death rate, in a majority of homes more than half of all children die. Most women bear from eight to ten or twelve children, of which only three or four survive.6 \[The death of an infant in a poor family that could not support another child was evidently regarded as a blessing, as Semyonova recorded in one of her unpublished field notes.\] When a poor family’s child dies, people say: “Thank goodness, the Lord thought better of it\!”7
+The rate of child deaths is highest in the summer during the fast of St. Peter \[in June\], and especially during the field-work season, when unattended children eat anything they come across: cucumbers, sour apples, and any other vegetation. Diarrhea is the chief cause of child death.+++(4)+++ As for the death rate, in a majority of homes more than half of all children die. Most women bear from eight to ten or twelve children, of which only three or four survive.[^6] \[The death of an infant in a poor family that could not support another child was evidently regarded as a blessing, as Semyonova recorded in one of her unpublished field notes.\] When a poor family’s child dies, people say: “Thank goodness, the Lord thought better of it\!”[^7]
 
 \[The peasant cradle and the lullabies that accompany its rocking played a central role in family life. The cradle was usually made of wood \(or a wooden frame with a canvas bottom\) and suspended from a small spring attached to a rafter. A rope or thong with a loop fell from the cradle to the floor, enabling the cradle to be rocked by anyone available to sit near it; and Russian cradles were in motion much of the day, by all accounts.\]
 
@@ -43,56 +53,40 @@ A woman slips the loop around her foot to rock the baby, while her hands are occ
 Lullabies commonly sung today:
 
 
-Hush, hush, hushaby my baby,
-
-Don’t lie near the edge of the bed.
-
-The gray wolf will come
-
+> Hush, hush, hushaby my baby,  
+Don’t lie near the edge of the bed.  
+The gray wolf will come  
 And carry you off to the woods.
 
 
 Or:
 
 
-Hush, hush, hushaby my baby,
-
-I’ll give you spankings,
-
-Twenty-five of them,
-
+> Hush, hush, hushaby my baby,  
+I’ll give you spankings,  
+Twenty-five of them,  
 To make you sleep better and deeper.
 
 
 Or:
 
 
-Hush, hush, hushaby my baby.
-
-A man lives at the end of the village.
-
-He’s neither poor, nor rich,
-
-He has many children,
-
-They sit on a bench
-
-And eat straw.
-
-I’ll make you suffer even more.
-
-I won’t give you anything to eat.
-
+> Hush, hush, hushaby my baby.  
+A man lives at the end of the village.  
+He’s neither poor, nor rich,  
+He has many children,  
+They sit on a bench  
+And eat straw.  
+I’ll make you suffer even more.  
+I won’t give you anything to eat.  
 I won’t make a bed for you.
 
 
 Or:
 
 
-Hush, hush, hushaby my baby.
-
-Sleep, sleep, fall asleep
-
+> Hush, hush, hushaby my baby.  
+Sleep, sleep, fall asleep  
 Let peace overtake you.
 
 
@@ -102,7 +96,13 @@ The last-quoted lullaby is the most common. The women say: “I have no time to 
 
 The question of how a peasant husband might show affection for his wife has long interested me. At one time, I believed that peasants simply do not express their emotions, since there are absolutely no external signs of a husband’s feelings toward his wife, even in young couples. But the following story recently caused me to reconsider this issue. “Take Petrukha\!” say the local women. “Look how he cares for his wife\! I wonder if there is another woman as lucky as she in the village\!”
 
-Petrukha, an ordinary peasant, is our coachman, but a coachman “on temporary leave from the plow,” as it were. I have long known him as a plain, quiet man, while his wife is a shrewd and clever, if selfish, woman. I also know that Petrukha gave up drinking after he got drunk at a wedding and nearly drowned in a pond, and that he does not beat his wife. He is not much of a manager, but his wife is first-rate and “thinks through” everything carefully, such as how to do the sowing, the mowing of hay, the purchasing of a cow, and the like. At his wife’s slightest call, Petrukha, who is not capable even of providing for the morrow, rushes to the village to do whatever she asks of him. If his friends prevent him from going during the day, he will sneak out at night. And in case of discovery, he has anticipated the accusation and eagerly provides an explanation: “My missus had an idea to get a head start on binding the millet into sheaves. Well, you could see it was going to rain, so I went out at night and mowed the lot for her.” If his wife tells him that the house is not properly caulked for the winter, he will not rest until he finds the time to patch up the place and put her mind at ease. Before he married eight or nine years ago following his military service, Petrukha was the most slovenly fellow in the village. Unfortunately, men like Petrukha and the type of relationship he has with his wife are rare indeed. To tell the truth, this is the only case I know of.
+Petrukha, an ordinary peasant, is our coachman, but a coachman “on temporary leave from the plow,” as it were. I have long known him as a plain, quiet man, while his wife is a shrewd and clever, if selfish, woman. I also know that Petrukha gave up drinking after he got drunk at a wedding and nearly drowned in a pond, and that he does not beat his wife. He is not much of a manager, but his wife is first-rate and “thinks through” everything carefully, such as how to do the sowing, the mowing of hay, the purchasing of a cow, and the like. At his wife’s slightest call, Petrukha, who is not capable even of providing for the morrow, rushes to the village to do whatever she asks of him. 
+
+If his friends prevent him from going during the day, he will sneak out at night. And in case of discovery, he has anticipated the accusation and eagerly provides an explanation: 
+
+> “My missus had an idea to get a head start on binding the millet into sheaves. Well, you could see it was going to rain, so I went out at night and mowed the lot for her.” 
+
+If his wife tells him that the house is not properly caulked for the winter, he will not rest until he finds the time to patch up the place and put her mind at ease. Before he married eight or nine years ago following his military service, Petrukha was the most slovenly fellow in the village. Unfortunately, men like Petrukha and the type of relationship he has with his wife are rare indeed. To tell the truth, this is the only case I know of.
 
 \[Then Semyonova tells of a sight that she assumes a German would interpret through a romantic metaphor, whereas the Russian applied a competitive one.\]
 
