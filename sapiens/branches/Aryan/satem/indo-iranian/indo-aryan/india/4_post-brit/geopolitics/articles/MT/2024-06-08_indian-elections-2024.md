@@ -25,4 +25,35 @@ Rather than delving any further into the above, we wish to conclude by exploring
 
 What this means is a quicker slide towards the nirṇaya. The demographic reality from differential fertility, urbanization and consolidation of the ekarākṣasonmatta-s has implied that at some point in the next 50 years, the H will face a decisive event that will seriously impact their survival. It could take many forms: 1. Destabilization of the Indian state with huge loss of life to H; 2. Further partitions/breakup of the country with the creation of Abrahamistic enclaves where H will be removed; 3. Civil war or major civil disruptions to the disadvantage of the H. These wars could be augmented by attacks from the Islamo-Christian flanks, Navyonmāda, Paṭṭaroga, Nīladrāpeya-s, and the Cīna-s. 4. Death by whimper where H lose power in many key urban centers. The H will be engaged in delicate and nuanced debates on governance, the hypocrisy of those in power, mullāvāda and its street veto, comparisons of the Lāteśvara’s long reign to the new dispensations and the like when this nirṇaya will come on them like a pre-monsoon storm. H will not want any of this and will be willing to compromise with the enemy to avoid such disruptions. However, given the nature of Ekarākṣasonmāda, this decision will not be with the H but will be forced upon them (hence nirṇaya). Whichever the scenario, it will result in considerable weakening or damage to the Indian state and threaten the very existence of H civilization unless, by some extraordinary luck, they emerge victorious over their enemies. These could also synergize with non-conflict troubles such as aging elites, serious environmental degradation with high summer temperatures, and water and energy shortages.
 
-We believe that the wobble of the Lāṭapuruṣa has unfortunately made this nirṇaya even more proximate than otherwise and has reduced to wiggle-room to attenuate its effects or configure things more favorably for an H victory. We predict that it would start with: 1. the sora-śaṇḍa reviving the assault on the H state via Paṭṭa-roga and the Nīladrāpeya (this prediction is already playing out within 24 hours of making it). 2. The Laṭapati might not be able to firmly deal with them due to the need to hold on to the Āndhra and the Māgadha to stay afloat. 3. He might expend his “capital” on useless things that would not benefit the H, like an attempt to implement something like the UCC! 4. Without a good successor, the famed Indian democracy will run its course in the next round paving the way for those who will open the way for the nirṇaya. All it would take is one electoral victory for the Soraśaṇḍa-backed alliance. Whereas the BJP would drag its foot out of fear of the mleccha and marūnmatta, supported by those two, the alliance could nearly permanently undo everything the NDA achieved in its three terms. With the H thus softened, the nirṇaya will strike them like a hammer blow to the head. Of course, we hope we are wrong, but barring a scenario we do not want to dilate on in public, we have to be prepared for the big blowup.
+We believe that the wobble of the Lāṭapuruṣa has unfortunately made this nirṇaya even more proximate than otherwise and has reduced to wiggle-room to attenuate its effects or configure things more favorably for an H victory. We predict that it would start with: 
+
+1. the sora-śaṇḍa reviving the assault on the H state via Paṭṭa-roga and the Nīladrāpeya (this prediction is already playing out within 24 hours of making it). 
+2. The Laṭapati might not be able to firmly deal with them due to the need to hold on to the Āndhra and the Māgadha to stay afloat. 
+3. He might expend his “capital” on useless things that would not benefit the H, like an attempt to implement something like the UCC! 
+4. Without a good successor, the famed Indian democracy will run its course in the next round paving the way for those who will open the way for the nirṇaya. 
+   
+
+All it would take is one electoral victory for the Soraśaṇḍa-backed alliance. Whereas the BJP would drag its foot out of fear of the mleccha and marūnmatta, supported by those two, the alliance could nearly permanently undo everything the NDA achieved in its three terms. With the H thus softened, the nirṇaya will strike them like a hammer blow to the head. Of course, we hope we are wrong, but barring a scenario we do not want to dilate on in public, we have to be prepared for the big blowup.
+
+## Further comments
+Source: [TW](https://x.com/blog_supplement/status/1833379192668369373)
+
+Many think that the mahAmlechCha would like to use India as a pawn in their 0-sum game against the chIna-s. However, there is a strong constituency in
++++(USA's)+++ DoS, military & dominant uni-party that has a mono-maniacal obsession with the rUs.  
+[How that obsession was developed and nurtured is a story in itself, parts of which are too dangerous to articulate in public:  
+there are certain historical facts that third rails for the Anglo-Abrahamosphere.  
+But the vivekAnvita can glean those by reading works by some good historians.]  
+This anti-rUs constituency is keen to hit India for helping the rUs.  
+It is likely they are more interested in harming India than propping up India against the chIna-s.  
+Their footprints are all over the place: 
+
+1. Opposition to CAA; 
+2. genocide of H in TSB; 
+3. building up u3 terror within & without. 
+4. building up the avya~Nga-dhArin jAtivAdin "revolutionary" LOLGa. 
+5. building up u2 terrorists in the NE. 
+6. paTTaroga. 
+7.  Exploiting the lATesha's dependencies & apparent weakening in the election.
+
+Thus, as so far things are unfortunately playing out as per the prognostications in the last 2 para-s here.
+
