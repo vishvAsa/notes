@@ -104,7 +104,7 @@ No scientific study has yet been carried out regarding the devices and technolog
 
 [^20]: Bhattacharya, A., Gunpowder and its applications in Ancient India, In B. J. Buchanan (ed.), Gunpowder, Explosive and the State: A Technological History, Ashgate Publishing Limited, England, 2006.92
 
-[^21]: History Today, No.17, 2016 Khan, I. A., The Indian response to firearms, response to firearms, 1300-1750, In B. J. Buchanan (ed.), Gunpowder, Explosive and the State: A Technological History, Ashgate Publishing Limited, England, 2006, pp. 51-66; Khan, I. A., The Indian response to firearms, 1300-1750, Proceedings of the Indian History Congress, [59]: th session, Bangalore, 1998.
+[^21]: History Today, No.17, 2016 Khan, I. A., The Indian response to firearms, response to firearms, 1300-1750, In B. J. Buchanan (ed.), Gunpowder, Explosive and the State: A Technological History, Ashgate Publishing Limited, England, 2006, pp. 51-66; Khan, I. A., The Indian response to firearms, 1300-1750, Proceedings of the Indian History Congress, 59 th session, Bangalore, 1998.
 
 [^35]: Handique, B. C., op.cit., p. 286.
 
@@ -112,29 +112,55 @@ No scientific study has yet been carried out regarding the devices and technolog
 
 [^37]: Bhuyan, S. K., Studies in the History of Assam, Laksheswari Bhuyan, Guwahati, 1965, p. 143.
 
-[^22]: Dutta S. and B. Tripathy (eds.), Martial Traditions of North-East India, Concept Publishers, New Delhi, 2006.38Barbarua, H., Ahomar Din, Assam Publication Board, Guwahati,1997
+[^22]: Dutta S. and B. Tripathy (eds.), Martial Traditions of North-East India, Concept Publishers, New Delhi, 2006.
 
-[^23]: Gogoi, P., War Weapons in Medieval Assam, In Dutta and B. Tripathy (eds.), Martial Traditions of North-East India, Concept Publishers, New Delhi, 2006, pp. 97-103.39Sharma, B., op.cit., p. 277. 
+[^38]: Barbarua, H., Ahomar Din, Assam Publication Board, Guwahati,1997
 
-[^40]: Gogoi, L., Tai-Sanskritik Ruprekha, Kolkata, 1985, p. 264. Bhuyan, S. K., The Military System in Mediaeval Assam, eds. J.N. Phukan and R. Buragohain. Guwahati: Kamarupa Anusandhana Samiti. 2010.41Barbarua, H., op.cit., p. 553. 
+[^23]: Gogoi, P., War Weapons in Medieval Assam, In Dutta and B. Tripathy (eds.), Martial Traditions of North-East India, Concept Publishers, New Delhi, 2006, pp. 97-103.
+
+[^39]: Sharma, B., op.cit., p. 277. 
+
+[^40]: Gogoi, L., Tai-Sanskritik Ruprekha, Kolkata, 1985, p. 264. Bhuyan, S. K., The Military System in Mediaeval Assam, eds. J.N. Phukan and R. Buragohain. Guwahati: Kamarupa Anusandhana Samiti. 2010.
+
+[^41]: Barbarua, H., op.cit., p. 553. 
 
 [^42]: Gogoi, L., op.cit., p. 285.
 
-[^25]: Barua, G. C., Ahom Buranji: from the earliest time to the end of Ahom rule, Spectrum Publications, Guwahati, 1985, p. 66.43Bhuyan, S. K., op.cit., 2010, p. 8. 4426Ibid, p. 75.Phukan, S. K., Tai Samarkalar Oitijyo aru Chao-lung Sui-ka-phar Myung-dun-sun-kham (in Assamese), Assam Bani (an Assamese Weekly), Tribune Press, Guwahati, 2010, p. 7.
+[^25]: Barua, G. C., Ahom Buranji: from the earliest time to the end of Ahom rule, Spectrum Publications, Guwahati, 1985, p. 66.
 
-[^27]: Nath, D., History of the Koch Kingdom 1515-1615, Mittal Publications, Delhi, 1989, p. 149.45Gogoi, L., op.cit., p. 264.
+[^43]: Bhuyan, S. K., op.cit., 2010, p. 8. 
 
-[^28]: Tavernier, J. B., Travels in India ,Vol. II, V. Ball (tr.), Macmillan & Co, London, 1925, p. 217.46Gurdon, P. R. T., The Khasis, Low Price Publications, Delhi, 2010 (original 1906), pp. 24-25.
+[^44]: ??
 
-[^29]: Wade, J. P., An account of Assam, in Benudhar Sarma (ed.), Assam Jyoti, Guwahati, 1927, p. 36.47Nath, D., op.cit., Publications, p. 120. [48]: Handique, B. C., op.cit., p. 287.
+[^26]: Ibid, p. 75.Phukan, S. K., Tai Samarkalar Oitijyo aru Chao-lung Sui-ka-phar Myung-dun-sun-kham (in Assamese), Assam Bani (an Assamese Weekly), Tribune Press, Guwahati, 2010, p. 7.
 
-[^30]: Gait, E. A., A History of Assam, EBH Publishers (India), Guwahati, 2008 (original 1906), pp. 151-152.49Barbarua, H., op.cit., p. 473.
+[^27]: Nath, D., History of the Koch Kingdom 1515-1615, Mittal Publications, Delhi, 1989, p. 149.
 
-[^31]: Ibid, p.147.50Das, B. K., Ancient gunpowder cum medicine: Only in Assam, 2008. http://www.ryze.com.
+[^45]: Gogoi, L., op.cit., p. 264.
 
-[^32]: Sharma, B., Maniram Dewan, Guwahati, 1950, p. 278.51
+[^28]: Tavernier, J. B., Travels in India ,Vol. II, V. Ball (tr.), Macmillan & Co, London, 1925, p. 217.
 
-[^^33]: Handique, B. C., Puroni Asomot Top-Gola-Barud, Benudhar Sharma Commemorative Volume, Assam Research Society, Guwahati , 1987, pp. 285-286.Gogoi, N. In Biswakosh ,vol. vi, Assam Sahitya Sabha, Guwahati, 2002.
+[^46]: Gurdon, P. R. T., The Khasis, Low Price Publications, Delhi, 2010 (original 1906), pp. 24-25.
+
+[^29]: Wade, J. P., An account of Assam, in Benudhar Sarma (ed.), Assam Jyoti, Guwahati, 1927, p. 36.
+
+[^47]: Nath, D., op.cit., Publications, p. 120. 
+
+[^48]: Handique, B. C., op.cit., p. 287.
+
+[^30]: Gait, E. A., A History of Assam, EBH Publishers (India), Guwahati, 2008 (original 1906), pp. 151-152.
+
+[^49]: Barbarua, H., op.cit., p. 473.
+
+[^31]: Ibid, p.147.
+
+[^50]: Das, B. K., Ancient gunpowder cum medicine: Only in Assam, 2008. http://www.ryze.com.
+
+[^32]: Sharma, B., Maniram Dewan, Guwahati, 1950, p. 278.
+
+[^51]: ??-
+
+[^33]: Handique, B. C., Puroni Asomot Top-Gola-Barud, Benudhar Sharma Commemorative Volume, Assam Research Society, Guwahati , 1987, pp. 285-286.Gogoi, N. In Biswakosh ,vol. vi, Assam Sahitya Sabha, Guwahati, 2002.
 
 [^52]: Biringuccio, V., The Pirotechnica, Dover Publications, New York, 1990.
 
