@@ -17,3 +17,13 @@ https://nature.com/articles/s41586-024-07881-4
 The ignoring of Heyerdahl, whatever, one might think of him is interesting.
 
 Interestingly, it is also the island where the rapamycin producing Streptomyces was discovered
+
+## Statue spree
+It is interesting that the moai statue-building spree on the remote Easter Island overlaps with the period when they were in contact with South America. We also suspect that the apparently undeciphered Rongorongo script came into being around the same time. 
+
+The other Austronesians have the shrines known as the Marae -- while they might have played some role in the conception of the moai statues, there is no strong and direct connection. Hence, we feel it is valid to assume that the South American contacts might have played some role in the emergence of the moai. 
+
+There are the Bolivian Tiwanaku statues and the chemamüll wooden men of Mapuche of Chile. These could present South American parallels though there is no evidence currently that the Austronesia contact zone had extended to any of these regions. 
+
+More mysterious is the Rongorongo. There is no clear evidence for a true south American writing system unlike meso-America. Hence, direct case of inspiration for Rongorongo cannot be currently made.
+
