@@ -97,3 +97,6 @@ Such types are bad for H as they will support pretabhAnaka-s in the desh.
 They will also foment wars that are detrimental to the H.  
 Conversely, liberals are bad as they are naturally inimical to H and will support marUnmatta-s and socialist terrorists in addition also being neocons. 
 pichChilaka is actually the middle ground and that is the problem he faces from both sides. But when one weighs things the left-liberal is the worst.
+
+## Debate
+The way the gUDharAshTra/gUDha-chArin-s are plying their puttalikA sphuNTakI is quite sophisticated -- drawing the pichChilalu~Nga into an ambush in a tilted playing field & prepping her up to make her appear like something she is not. Still, the pichChilala is still holding on to a draw. These operations are not limited to the mahAmlechCha domestic system but are used the world over.
