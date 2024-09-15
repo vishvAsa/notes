@@ -19,6 +19,5 @@ Finally, there is that random multitude of cohorts who ushered me through multip
 
 But my chief companion in the study of Yunnan and the Panthay Rebellion has been Yang Yurong, whom I first met while exploring Yunnan. She has never lost patience or confidence through all of the twists and turns that this journey has taken (even when it has taken me far from her). Without her love, laughter, and support this book would have been a far less enjoyable endeavor and, indeed, a far inferior product. It is fitting, then, that this book is being finished where it all began. . . south of the clouds in Yunnan.
 
-D.G.A.
-
+D.G.A.  
 Kunming, China (Summer 2006)

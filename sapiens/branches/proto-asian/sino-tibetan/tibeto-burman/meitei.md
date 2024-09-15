@@ -7,6 +7,7 @@ title: Meitei
 
 ## Early hindu influence
 - Atombapu Sharma, 20th century sanskritist, argues that through the pu+++(=ancestor)+++ya+++(=agreement)+++-s tells us the religio-cultural rudiments of Hinduism in Manipur from the first century B.C. and more particularly during the reign of king Apanba. He notes that royal family was influenced by Vishnu swami sect of vaisnavism from an early date.
+- 6th century copper plate inscriptions are of a local Kamashastra in the Meitei language called the Yumbanlol.
 - By 8th century AD, archaeological evidences firmly support entry of Hinduism
 
 ## Social structure
