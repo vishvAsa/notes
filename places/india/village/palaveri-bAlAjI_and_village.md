@@ -14,6 +14,8 @@ The farmers would work in the fields all morning; and their wives would bring fo
 Farmers used to operate a picotah/ eta to draw water for irrigation. To reduce the effort they felt, they used to say viShNu-stotra-s.
 
 ### tilaka
+Everytime I travelled in a bus to visit my sister, I would find at least one v4 with a tirumaN tilaka. Such people would be essentially indistinguishable from brAhmaNa-s but for the lack of yajnopavIta - no shirt (uttarIya instead), shikhA.
+
 A shUdra would scold my father thus: "I used to watch your father with his thick tirumaN tilaka. Now you sit in the same place with your thin tilaka. Fie!"
 
 Farmers used to wear tirumaN - so that it would be hard to distinguish Arya from shUdra without the yaJNopavIta. 
