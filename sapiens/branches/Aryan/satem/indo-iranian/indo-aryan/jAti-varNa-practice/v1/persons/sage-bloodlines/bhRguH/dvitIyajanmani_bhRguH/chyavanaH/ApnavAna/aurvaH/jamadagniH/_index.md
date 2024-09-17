@@ -11,4 +11,3 @@ title = "+जमदग्निः"
 - भार्गवो रामः
 - अन्ये \- Ṛumaṇvān, Suhotra, Vasu  and Viśvāvasu
     - >alekhana→sharkarakSha→sanka→pila→vihInara→barha→R^itabhAga→etaSha→aitaSha→somashuShman→jana→savarNa→jihItaya→maNDavit→suviShTa→vikarNa→... अत्र **श्रीवत्सगोत्रम्**!
-
