@@ -40,7 +40,7 @@ Reed, Elizabeth. 1914. "Hinduism in Europe and America." G. P. Putnam's Sons.
 
 
 
-SAYS WOMAN WAS VICTIM OF QUEER PSYCHIC SPELL
+## SAYS WOMAN WAS VICTIM OF QUEER PSYCHIC SPELL
 
 Attorney is Trying To Break Will of Late Mrs. Bull—Cult Was Run by Former Detroiter.
 
@@ -60,7 +60,7 @@ Mr. Whipple asserted that a Miss Farmer lost her reason psychic because of over-
 
 The sun,  May 27, 1911
 
-MRS. BULL HAD MANY VISIONS
+## MRS. BULL HAD MANY VISIONS
 
 SAW SPIRITS UNDER BLOOMING APPLE TREE IN BROOKLYN.
 
@@ -134,10 +134,11 @@ Miss Swanander then said that Mrs. Bull at the sanitarium in Brooklyn, months la
 
 Attorney Whipple read a letter from Mrs. Bull to the witness. It was dated Thursday. It read:
 
-"Little friend, my dear:
-
-So let me fit in and sleep in your back parlor. I will be so much happier to be your room occupant as long as you keep with me and we will save every penny for an emergency fund for the mother that we can. I am so happy to think of coming, if no one is disturbed, and I need food and love. No extras, only sweet, welcome delicious meals, which the good doctor added."
-"In haste, with love,     MRS. BULL."
+> "Little friend, my dear:
+>
+> So let me fit in and sleep in your back parlor. I will be so much happier to be your room occupant as long as you keep with me and we will save every penny for an emergency fund for the mother that we can. I am so happy to think of coming, if no one is disturbed, and I need food and love. No extras, only sweet, welcome delicious meals, which the good doctor added."
+>
+> "In haste, with love,     MRS. BULL."
 
 Miss Swanander said that Mrs. Bull had paid two visits to their house, from October 1 to November 5, 1910, and from December 15, 1910, to January 10, 1911. Mrs. Bull died in Cambridge on January 15 last. The witness testified that Miss Noble had been with Mrs. Bull in Cambridge just before she visited Brooklyn for the last time.
 
