@@ -165,8 +165,8 @@ Brezhnev era saw Russian language promoted more across USSR. Ideas were floated 
 Gorbachyov’s openness campaign in 1980s allowed a revival of Ukrainian culture & history. In 1989 Ukrainian was declared the state language of Ukraine.
 
 ## Post Soviet Ukraine
-Ukraine’s post-Soviet constitution made it unitary rather than federal state, with president wielding extensive powers. Crimea voted to be autonomous republic in 1991 & called for rejoining Russia in 1994. Ukraine abolished Crimea’s parliament & placed parts under direct control.
+Ukraine’s post-Soviet constitution made it unitary rather than federal state, with president wielding extensive powers. Crimea voted to be autonomous republic in 1991 & called for rejoining Russia in 1994. Ukraine abolished Crimea’s parliament & placed parts under direct control. 
 
-The Rusyns in Transcarpathia voted for autonomy within Ukraine in 1991. More ominously, some groups in the Donbass called for autonomy as well, though at the time of this books’s publication they were considered irrelevant.
+The Russians in Transcarpathia voted for autonomy within Ukraine in 1991. More ominously, some groups in the Donbass called for autonomy as well, though at the time of this books’s publication they were considered irrelevant.
 
 Russian language media became even more dominant in Ukraine in the 1990s, while education system became mostly Ukrainian.

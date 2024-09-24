@@ -71,6 +71,14 @@ Metal plates risk being stolen, melted and reused in a metal-scarce world.
 
 Metal engraving is relatively easy with a CNC machine. 
 
+#### Fused quartz Crystals
+can store up to 360 terabytes of information (in the largest size) without loss for billions of years.  
+It can withstand the high and low extremes of freezing, fire and temperatures of up to 1000°C. The crystal can also withstand direct impact force of up to 10 ton per cm2 and is unchanged by long exposure to cosmic radiation.
+
+> The team at Southampton, led by Professor Peter Kazansky , use ultra-fast lasers to precisely inscribe data into nanostructured voids orientated within silica - with feature sizes as small as 20 nanometres.
+>
+> Unlike marking only on the surface of a 2D piece of paper or magnetic tape, this method of encoding uses two optical dimensions and three spatial co-ordinates to write throughout the material - hence the ‘5D’ in its name.  
+> Source: [TW](https://www.southampton.ac.uk/news/2024/09/human-genome-stored-on-everlasting-memory-crystal-.page?ref=upstract.com)
 
 
 ### .5-1k yr

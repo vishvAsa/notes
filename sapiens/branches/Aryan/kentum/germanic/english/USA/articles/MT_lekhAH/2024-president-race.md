@@ -100,3 +100,22 @@ pichChilaka is actually the middle ground and that is the problem he faces from 
 
 ## Debate
 The way the gUDharAshTra/gUDha-chArin-s are plying their puttalikA sphuNTakI is quite sophisticated -- drawing the pichChilalu~Nga into an ambush in a tilted playing field & prepping her up to make her appear like something she is not. Still, the pichChilala is still holding on to a draw. These operations are not limited to the mahAmlechCha domestic system but are used the world over.
+
+## Assination attempts
+
+Source: [TW](https://x.com/blog_supplement/status/1837013011984449659)
+
+The first would-be nAri~NgapuruSha killer was puzzling but inscrutable.  
+
+The second one, however, is puzzling in a very different way.  
+Just a short excavation down the rabbit hole throws up so many knots that one cannot  
+but compare his situation with that of the former mlechCharAT karNATi.  
+
+mahAmlechChadesha is not at all a cheap place to live,  
+and it is very difficult to get by without money.  
+So how did this chap get by is the first question that comes up.  
+The dAnu-apara connection is just too obvious.  
+If he had been an ordinary kR^iShNa,  
+someone like aTTahAsakI in her former avatara might have tossed him into jail.  
+Yet he seems to have mostly roamed around scot free -- how?  
+Was he an agent of the gardabhin-s or the praNidhi-s?
