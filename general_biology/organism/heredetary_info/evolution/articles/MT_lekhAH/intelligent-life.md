@@ -35,7 +35,7 @@ There have probably been 100s of trillions of planets with current human or high
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-1B years for the planet to be uninhabitable/
+1B years for the planet to be uninhabitable.
 
 If we say monkey level is stable, then 30 Mya for human like emergence - quite a few cycles left...
 </details>
