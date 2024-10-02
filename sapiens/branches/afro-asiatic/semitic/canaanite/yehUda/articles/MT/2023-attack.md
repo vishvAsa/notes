@@ -72,3 +72,42 @@ The mUlavAtUla-marUnmatta-yuddha has shades of "Gujarat" in it. Soon after the m
 On one hand, this kolAhala among piNDaka's backers is good for the H but on the other it also give a preview of how the marU-navyonmatta alliance will act against them when the time of the nirNaya comes. As we have said before none of the trayonmAda-s (barring marUnmAda) can act decisively on each other as a fundamental attack one will also be a self-goal. The same holds for navyonmAda. 
 
 The mlechCha world is also seeing the paradoxes pertaining to FOE being exposed in rather raw way. They are falling back to the basic dictum FOE is fine when it is for me but not for you. To be clear we are for maximal FOE as long all parties are willing to play fair 
+
+## 2024 09 strike
+Source: [TW](https://x.com/blog_supplement/status/1840955511778488330)
+
+It seems the ISR bided its time to launch its recent big strike.  
+
+(i) It realized that the US (wisely from the standpoint of the American interests) did not want a new big war in West Asia.  
+(ii) It knew that its own lobby in the US has to a degree been fragmented between the two parties and in the current ruling party there is a bit of an Islamic counterbalance.  
+(iii) It needed some time to work on the Sauds & the Amirs, who had failed against the Houthis after a US-supported long war.  
+(iv) It needed to give a false image of relative weakness to the Islamic state in Iran and its proxies. 
+
+A solution to all this seems to have come together in this window. 
+
+- US is busy with its elections. They are too caught up with their own issues and the war against the rUs to expend too much energy on West Asia.  
+- This has also given its American lobby a chance to apply some pressure on the gardabhin-s like sphuNTikA -- thus neutralizing the leaking counter-lobby to a degree.  
+- The rUs have been bottled up by the full brunt of the spoiled soybeans effort -- the failure to retake Kursk: Hence, ISIR is isolated.  
+- The Sauds, Amirs, Al Qaeda and ISIS have come over to their side. 
+- ISIR and proxies feel a false sense of strength. 
+
+Then they struck with a bang. However, we think this war is not over yet and it is not fully clear how exactly it would unfold.
+
+## Natanyahoo & Iranian people
+Source: [TW](https://x.com/blog_supplement/status/1840948027780948342)
+
+Wonder if there is more to Natanyahoo directly addressing the Iranian people: are they assisting an anti-Islamic rebellion? 
+
+The problem is Iran does not have a strong survival of Zoroastrianism for this: atheism and Marxism will not help. 
+
+Probably NY thinks they might instead coalesce around an ethnic identity like his own people but doesn't seem to have a strong enough pull among Iranians to challenge marUnmAda.
+
+> The most obvious explanation is  
+> 1) There is a significant faction in the Iranian military-political-bureaucracy which wants to move the country into something like Egypt, Turkey or Jordan instead of a theocracy where State is directly ruled by clerics.
+> 2) They want a rapprochement with the West and Israel. Maybe not officially recognize Israel, but not have the destruction of the Jewish State as an aim either.
+> 3) Netanyahu is addressing himself to this faction and telling them that it is time for an Operation Valkyrie
+> 
+> I refuse to believe Israel is pulling off these attacks without the help of a organized resistance within the Iranian State. The Ayatollah is just like any other absolute ruler. He is ruling with the support of maybe 30% of the pop that has some kind of fiduciary dependence upon the state and the moral support of another 10-20% for ideological reasons. If only 30% of the population does not subscribe to the idea of an Islamic theocracy and another 10% is tired of war, you have the elements for a popular resistance already.
+
+As I alluded (cryptically) a couple of days ago, I don't disagree that ISR has big human assets inside Iran and has deeply penetrated them. The mullocrats have accepted this themselves. What I'm not sure of it whether ISR can assist these assets to pull off a coup.
+
