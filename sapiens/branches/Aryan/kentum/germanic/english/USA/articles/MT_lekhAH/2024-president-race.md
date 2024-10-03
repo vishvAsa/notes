@@ -119,3 +119,9 @@ If he had been an ordinary kR^iShNa,
 someone like aTTahAsakI in her former avatara might have tossed him into jail.  
 Yet he seems to have mostly roamed around scot free -- how?  
 Was he an agent of the gardabhin-s or the praNidhi-s?
+
+## FoE assault
+The global, simultaneous assault on FoE by the liberals (euphemism is their hallmark) is remarkable even if unexpected. They just have one wall to breach, and are expertly preparing aTTahAsakI and vartaka as the battering ram for that. They are employing the same trick used to place piNDaka on the Asandi. 
+
+It is unclear if vijaya-nAma-vyApArin backed by muShkavAn can survive the global force -- key phrase: the pa~nchanetra-s look inward.
+
