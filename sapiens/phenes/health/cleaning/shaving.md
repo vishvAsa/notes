@@ -27,6 +27,10 @@ With Indian or Japanese straight razor - slide close to the skin, so that it is 
 
 Keep the razor sharp. Indian straight razors allow replacable standard safety blades.
 
+The safest way to use the straight razor is to move it completely parallel to the skin. But this does not yield a close shave. In this mode, the least painful technique is to move it in a quasi-circular motion.
+
+For a close shave, the blade should be held at a small acute angle to the skin; and moved gently over the skin.
+
 ## Electric trimmer
 Press and move close to the skin.  
 Farther off, higher the likelihood of pain due to "hair pulling" effect.  
