@@ -1,0 +1,148 @@
+\documentclass{article}
+% \usepackage[left=3cm,top=1.5cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{caption, subfigure}
+\input{../../../../packages}
+\input{../../../../macros}
+
+%opening
+\title{Block coordinate descent algorithm for L1/L2 Regularized Logistic Regression}
+% \author{vishvAs vAsuki}
+\date{}
+\begin{document}
+\maketitle
+
+\abstract
+The strucutre learning algorithm proposed for discrete graphical models described in \citet{ravikumarIsing09} involves solving an L1/L2 Regularized Logistic Regression problem. In this note, we describe the Block coordinate descent algorithm being used for solving this problem. This algorithm was proposed in \citet{meierRS2008}.
+
+\section{Notation}
+Let us recall the notation used in \citet{ravikumarIsing09} and the dropbox note\cite{pradeepDropbox}. Consider a discrete pairwise graphical model describing a probability distribution over $p$ variables, each of which can take one of $m$ discrete values. Let $D = \{1, \ldots, m-1 \}$ denote the set of the first $m-1$ values.
+
+\begin{eqnarray}
+\label{EqnGenMRF}
+Pr(x) & \propto & \exp (\sum_{s \in V}
+\phi_s(x_s) + \sum_{(s,t) \in E} \phi_{st}(x_s,x_t)).
+\end{eqnarray}
+
+Using indicator variables, any set of potential functions can then be written as
+\begin{eqnarray*}
+\phi_{s}(x_s) & = & \sum_{j \in D}
+	\gth^*_{s;j} \; I[x_s = j] \quad \mbox{for $s \in
+	V$, and } \\
+%
+\phi_{st}(x_s,x_t) & = & \sum_{(j,k) \in D^2} \gth^*_{st;jk} \; I[x_s = j,\,x_t = k] \quad
+	\mbox{for $(s,t) \in E$.}
+\end{eqnarray*}
+
+Thus, the Markov random field can be parameterized in terms of the
+vector $\gth^*_s \in \bR^{m-1}$ for each $s \in V$,
+and the vector $\gth^*_{st} \in \bR^{(m-1)^2}$ associated
+with each edge.
+
+The conditional probability distribution of values taken by node $r$ is given by:
+\begin{equation}
+\mathbb{P}_\gTh \big[X_r = m \, \mid X_{\setdiff r} =
+x_{\setdiff r}\big] = \frac{1}{1+\sum_{\ell}\exp(\gth_{r;\ell}^* +
+\sum_{t \in V\setdiff \{r\}} \sum_{k} \gth^*_{r t;\ell
+k} I[x_t = k])}
+\end{equation}
+and, for $j\in \set{1, .. m-1}$:
+\begin{equation}
+\mathbb{P}_\gTh \big[X_r = j \, \mid X_{\setdiff r} =
+x_{\setdiff r}\big] = \frac{\exp(\gth_{r;j}^* +
+\sum_{t \in V\setdiff \{r\}} \sum_{k} \gth^*_{r t;jk}
+I[x_t = k])} {1+\sum_{\ell}\exp(\gth_{r;\ell}^* +
+\sum_{t \in V\setdiff \{r\}} \sum_{k} \gth^*_{r t;\ell
+k} I[x_t = k])}.\\
+\label{EqnMultiClassLogistic}
+\end{equation}
+
+In the above expression, it is assumed that $\forall t \notin \nbd(r),\ \gth_{rt}$ are zero vectors. Let $\gTh$ be the set of all parameters involved in Equation \ref{EqnMultiClassLogistic}. Given a set $S = \set{x^{(1)} .. x^{(n)}}$ of $n$ sample-points, we can deduce the neighborhood $N(r)$ of $r$ by estimating the parameter vectors $\forall t \in V \setdiff \set{r}: \gth^*_{r t}$. In particular, we solve the problem:
+$$\min_{\gTh} -n^{-1} \sum_{i=1}^{n}\log P_\gTh(x_r^{(i)}|x_{\setdiff r}^{(i)}) + \gl \sum_{v \in V \setdiff \set{r}} \norm{\gth_{rv}}_2.$$
+
+\section{Solving the logistic regression problem}
+The algorithm we use for solving $l1/l2$ regularized logistic regression works best when the design matrix is group-orthogonalized. So, we find it convenient to describe this algorithm in general terms, rather than in terms of parameters $\gTh$ introduced earlier.
+
+\subsection{Problem setting}
+We now introduce the $l1/l2$ regularized logistic regression in general terms. Let $Y$ be the response variable, and $X$ be the predictor variables whose relationship is being modelled using a multi-class logistic model. Further, suppose that any predictor vector $x \in R^{p' + 1}$ includes the intercept; that is $x_1 = 1$ always. Suppose that the $Y$ takes values in the set $\set{1 .. m}$, and that each predictor $X_i$ takes values in the set $\set{1 .. m}$. Then, the logistic model we deal with is described below:
+\begin{equation*}
+\mathbb{P}_\gb^{*} \big[Y = m \, \mid X =
+x] = \frac{1}{1+\sum_{\ell \in \set{1 .. m-1}}\exp(\gb^{*T}_\ell x)}
+\end{equation*}
+and, for $j\in \set{1, .. m-1}$:
+\begin{equation}
+\mathbb{P}_\gb^{*} \big[Y = j \, \mid X =
+x] = \frac{\gb^{*T}_jx}{1+\sum_{\ell \in \set{1 .. m-1}}\exp(\gb^{*T}_\ell x)}.
+\label{EqnMultiClassLogisticGeneral}
+\end{equation}
+
+Let $\set{\gb^{*}_0, \gb^{*}_1, .. \gb^{*}_G}$ be a partition of the parameters $\gb^{*}$, which need not coincide with the partitioning $\set{\gb^{*}_\ell|\ell \in \set{1 .. m-1}}$ used in Equation \ref{EqnMultiClassLogisticGeneral}. We work with the prior belief that $\gb^{*}$ is group-sparse: that is, we assume that most of the vectors in $\set{\gb^{*}_1, .. \gb^{*}_G}$ are actually zero vectors. So, given $n$ observations $\set{(x^{(i)}, y^{(i)})}$, to estimate $\gb^{*}$, we will solve the problem:
+$$\min_{\gb} n^{-1} \sum_{i=1}^{n} -\log P_\gb(y^{(i)}|x^{(i)}) + \gl \sum_{g \in \set{1.. G}} \norm{\gb_{g}}_2.$$
+
+\subsection{Details of some computations}
+The algorithm to solve this problem will involve computation of the negative log likelihood function $nll(\gb|(x^{(i)}, y^{(i)})) = -\log P_\gb(y^{(i)}|x^{(i)})$, its gradient, and the diagonal of its Hessian. The negative log likelihood given the observation $(x, y)$ and its gradient are computed by evaluating the following expressions \footnote{Here we return to the partitioning $\set{\gb^{*}_\ell|\ell \in \set{1 .. m-1}}$ used in Equation \ref{EqnMultiClassLogisticGeneral}.}:
+\begin{equation*}
+\begin{split}
+nll(\gb|(x, y=m)) = \log(1+\sum_{\ell\in \set{1 .. m-1}}\exp(\gb_\ell^Tx))\\ 
+\frac{\partial nll(\gb|(x, y=m))}{\partial \gb_{i, j}} = (1+\sum_{\ell\in \set{1 .. m-1}}\exp(\gb_\ell^Tx))^{-1}\exp(\gb_i^Tx)x_j.\\
+\end{split}
+\end{equation*}
+and for $q\in \set{1, .. m'-1}$:
+\begin{equation*}
+\begin{split}
+nll(\gb|(x, y = q)) = -\gb_q^Tx + \log(1+\sum_{\ell\in \set{1 .. m-1}}\exp(\gb_\ell^Tx))\\
+\frac{\partial nll(\gb|(x, y=m))}{\partial \gb_{i=q, j}} = -x_j + (1+\sum_{\ell\in \set{1 .. m-1}}\exp(\gb_\ell^Tx))^{-1}\exp(\gb_q^Tx)\\
+\frac{\partial nll(\gb|(x, y=m))}{\partial \gb_{i\neq q, j}} = (1+\sum_{\ell\in \set{1 .. m-1}}\exp(\gb_\ell^Tx))^{-1}\exp(\gb_i^Tx)x_j.\\
+\end{split}
+\end{equation*}
+
+The diagonal of the Hessian is computed by evaluating the following expression:
+\begin{equation*}
+\begin{split}
+\frac{\partial^{2} nll(\gb|(x, y=m))}{\partial \gb_{i, j}^{2}} = (1+\sum_{\ell\in \set{1 .. m-1}}\exp(\gb_\ell^Tx))^{-1}\exp(\gb_i^Tx)x_j^{2} \\
+- (1+\sum_{\ell\in \set{1 .. m-1}}\exp(\gb_\ell^Tx))^{-2}\exp(2\gb_i^Tx)x_j^{2}.\\
+\end{split}
+\end{equation*}
+
+Given $n$ observations $S = \set{(x^{(i)}, y^{(i)})}$, we define $$nll(\gb|S) = n^{-1}\sum_{i = 1:n}nll(\gb|(x^{(i)}, y^{(i)})).$$
+
+\subsection{The block coordinate descent algorithm}
+The algorithm is specified as Algorithm \ref{alg:coordinateDescent}.
+
+\begin{algorithm}[ht]
+Input: $\gb^{(0)}$, Sample set $S = \set{(x^{(i)}, y^{(i)})}$ of $n$ points, $\gl$, $tol$.\\
+Output: $\gb$.\\
+\begin{algorithmic}
+\STATE $\gb \gets \gb^{(0)}$
+\LOOP
+\FORALL{$g \in \set{0, .. G}$}
+\STATE Compute $nll(\gb|S), \gradient nll(\gb|S)_g, diag(\gradient^{2} nll(\gb|S)_{gg})$, where the subscripts indicate that we refer to the portions of the gradient and hessian corresponding to the vairables $\gb_g$.
+\STATE $h_g \gets -\max \set{diag(\gradient^{2} nll(\gb|S)_{gg}), 10^{-5}}$.
+\STATE $d \gets 0$.
+\IF{$g = 0$}
+  \STATE $d_g \gets \gradient nll(\gb|S)/h_g$.
+\ELSE
+  \STATE $z \gets -\gradient nll(\gb|S)_g - h_g \gb_g$.
+  \IF{$\norm{z}_2 \leq \gl$}
+    \STATE $d_g \gets - \gb$.
+  \ELSE
+    \STATE $d_g \gets - h_g^{-1}[-\gradient nll(\gb|S)_g - \gl \frac{z}{\norm{z}_2}]$.
+  \ENDIF
+  
+\ENDIF
+\IF{$\max \abs{d} \geq tol$}
+  \STATE Get $\ga$ from line search along $d$ with $\ga_0 = 2, \gd = 0.75, \gs = .01$.
+  \STATE $\gb_{g} \gets \gb_g + \ga d_g$.
+\ENDIF
+
+\ENDFOR
+\STATE Return if decrease in objective value is less than $tol$.
+\ENDLOOP
+\end{algorithmic}
+\caption{Block coordinate descent algorithm}
+\label{alg:coordinateDescent}
+\end{algorithm}
+
+\bibliographystyle{plainnat}
+\bibliography{../../../probabilisticModels}
+
+\end{document}

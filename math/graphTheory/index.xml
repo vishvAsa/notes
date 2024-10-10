@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Graph Theory on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/graphTheory/</link>
+    <description>Recent content in &#43;Graph Theory on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/math/graphTheory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embed graph in euclidean space</title>
+      <link>https://vishvAsa.github.io/notes/math/graphTheory/embed_graph_in_euclidean_space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/math/graphTheory/embed_graph_in_euclidean_space/</guid>
+      <description>Want the minimum dimensional embedding.
+Formulation as matrix factorization (Shconberg). Take weighted adj matrix W. \(W_{i,j} = \norm{x_{i}-x_{j}}^{2} = x_{i}^{T}x_{i} + x_{j}^{T}x_{j} - 2x_{i}^{T}x_{j}\). Take \(X = (x_{i})\); Gram matrix \(G = X^{T}X\) normalized to have \(g_{i,i} = 1\); then \(W = 2.11^{T}-2G\). Then solve for G; then solve \(G = X^{T}X\) for X with min number of columns.
+Energy minimization techniques See section on incomplete graphs with similarity measures for intro to notation.</description>
+    </item>
+    
+    <item>
+      <title>Rubik-cube</title>
+      <link>https://vishvAsa.github.io/notes/math/graphTheory/rubik-cube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/math/graphTheory/rubik-cube/</guid>
+      <description>Easy solve Moves: C clockwise, K counter-clockwise, F for flip.
+Sides: R right, U for up/top, F for front, B for back.
+Finish white side. Finish two rows near white as follows. Look at the yellow side plus, find a piece with no yellow, determine its destination, based on the direction to the destination do the following: A - yellow side AWAY from destination B - BOTTOM towards destination C - Columns on destination side come down.</description>
+    </item>
+    
+  </channel>
+</rss>

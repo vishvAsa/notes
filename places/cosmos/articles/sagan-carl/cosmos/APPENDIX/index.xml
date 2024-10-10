@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;APPENDIX on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/places/cosmos/articles/sagan-carl/cosmos/APPENDIX/</link>
+    <description>Recent content in &#43;APPENDIX on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/places/cosmos/articles/sagan-carl/cosmos/APPENDIX/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Reductio ad Absurdum and the Square Root of Two</title>
+      <link>https://vishvAsa.github.io/notes/places/cosmos/articles/sagan-carl/cosmos/APPENDIX/01_Reductio_ad_Absurdum_and_the_Square_Root_of_Two/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/places/cosmos/articles/sagan-carl/cosmos/APPENDIX/01_Reductio_ad_Absurdum_and_the_Square_Root_of_Two/</guid>
+      <description>The original Pythagorean argument on the irrationality of the square root of 2 depended on a kind of argument called reductio ad absurdum, a reduction to absurdity: we assume the truth of a statement, follow its consequences and come upon a contradiction, thereby establishing its falsity. To take a modern example, consider the aphorism by the great twentieth-century physicist, Niels Bohr: “The opposite of every great idea is another great idea.</description>
+    </item>
+    
+    <item>
+      <title>02 The Five Pythagorean Solids</title>
+      <link>https://vishvAsa.github.io/notes/places/cosmos/articles/sagan-carl/cosmos/APPENDIX/02_The_Five_Pythagorean_Solids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/places/cosmos/articles/sagan-carl/cosmos/APPENDIX/02_The_Five_Pythagorean_Solids/</guid>
+      <description>A regular polygon (Greek for “many-angled”) is a two-dimensional figure with some number, n, of equal sides. So n = 3 is an equilateral triangle, n = 4 is a square, n = 5 is a pentagon, and so on. A polyhedron (Greek for “many-sided”) is a three-dimensional figure, all of whose faces are polygons: a cube, for example, with 6 squares for faces. A simple polyhedron, or regular solid, is one with no holes in it.</description>
+    </item>
+    
+  </channel>
+</rss>
