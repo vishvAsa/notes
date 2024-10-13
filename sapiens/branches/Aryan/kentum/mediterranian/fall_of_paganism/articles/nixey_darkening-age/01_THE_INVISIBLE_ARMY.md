@@ -1,0 +1,65 @@
++++
+title = "01 THE INVISIBLE ARMY"
+
++++
+
+
+> ‘Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy,’
+>
+> Luke 10:19
+
+
+
+
+
+Satan knew how to tempt St Antony. One day, in a far corner of the Roman Empire, in Egypt, this prosperous young man caught the attention of the Evil One when he did something that was at the time very unusual. Aged about twenty, Antony walked out of his house, sold his possessions, gave all his land away and went to live in a pigsty.1
+
+The Roman world of AD 270 was not one that usually celebrated the simple life. Indeed, if he had looked out across this realm at this time then Satan might have allowed himself a satisfied glow that his work had been well done. The sins of lust, gluttony and avarice stalked the land. Where once the aristocrats of Rome had prided themselves on wearing simple home-woven tunics, now the wealthy strode about sweating under scarlet fabrics that gleamed with embroidered gold. Women were even worse, wearing jewel-encrusted sandals and expensive silk dresses so diaphanous that every curve of their bodies could be seen even when fully dressed. Where once upon a time Roman noblemen had boasted of enjoying fortifyingly cold swims in the swirling Tiber, this generation preferred to go to the baroquely decorated bathhouses, taking with them countless rattling silver bottles of ointment.
+
+The behaviour inside those steamy rooms was said to be wanton. Women stripped naked and allowed slaves, their fingers gleaming with oil, to rub every inch of their bodies. Men and women bathed together, each one ‘divesting themselves of their modesty’, as one observer put it, ‘along with their tunic’.2 That writer, in his embarrassment, only managed to chunter in abstract nouns about the ‘lust’ and ‘licentious indulgence’ that might brew in those humid rooms. The frescoes in Pompeian bathhouses were rather more precise. In one changing room, above a shelf where bathers left their clothes, was a small painting of a man performing oral sex on a woman. Indeed, above each of the shelves in that room was a different image: a threesome above one, lesbian sex above another, and so on. A rather more memorable method, it has been speculated, of marking where you left your clothes than a locker number.
+
+Had Satan looked at the empire’s dining tables then he might have concluded with satisfaction that the behaviour here was little better. Centuries before, the emperor Augustus had \(somewhat ostentatiously\) relished a simple diet of coarse bread and handmade cheese. Such parsimoniousness didn’t last: soon, gourmands were supping one-hundred-year-old wines cooled with snow water out of jewelled goblets and sourcing their oysters from Abydos. All this, while many starved. Though not even those at the best tables could be sure of the best food and drink: in this showy, hierarchical world, hosts stratified the wine they served their guests, giving the worst wine to the least important diners; the mediocre wine to mediocre men and the best wine to the best men.
+
+The young Antony, before he set out to that pigsty, had been the sort of man who could, in time, have earned the finer wines at dinner. He was a provincial, true, but he was also youthful, handsome, fit and healthy; he had been offered a reasonable education \(even if, in the time-honoured way of privileged young men, he had declined to make the most of it\), and he was wealthy: he had recently inherited hundreds of acres of enviably good farmland. He was at just the age when a man ought to start making his mark on the world.
+
+Instead, Antony abandoned it all. Not long after his parents’ deaths, he had been in church when he heard a chapter from the Gospel of Matthew being read. ‘If thou wilt be perfect,’ it said, ‘go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven.’3 And he had promptly done so. Fifteen years later, Antony – soon he would become so famous that he could be known by this name alone – decided to go even farther, setting out to live in a deserted Roman fort on the edge of the Egyptian desert where he stayed for twenty years. Later, he would go farther still, making his home on a mountain by the Red Sea. He would stay there until he died in AD 356.
+
+Antony was not one of the empire’s gourmands. No Sicilian lampreys for him; instead he ate only bread, salt and water – and precious little of that, eating only once a day, after sunset. It can’t have been a meal to look forward to: while he was in the fort, bread was brought to him only twice a year. Little about his life would have whetted the appetite of an aesthete. Antony slept on a simple rush mat, covering himself with a goats-hair blanket. Often he didn’t sleep at all, preferring to spend the whole night awake in prayer. While other young men daubed themselves with expensive perfumes and ointments, and plucked their hair so assiduously that \(the moralists muttered\) it was impossible to tell the jawlines of young men from those of women, Antony scorned his body. He assaulted it on a daily basis, refusing to use oils to anoint and clean it, and instead wore a hair shirt and never washed. He only cleaned the mud from his feet when he happened to cross a stream. It was said that no one saw his body naked until he died.
+
+His was a life devoted to isolation, humility \(or, to give it a less Christian gloss, humiliation\) and self-abnegation. Yet just a few decades after his death, Antony became a celebrity. The story of his life, written down by a bishop named Athanasius, was a literary sensation, devoured by readers from Egypt to Italy, and remained a bestseller for centuries. Young men read this account of punishing self-denial and, inspired, headed out into the desert in imitation. So many men went, it was said, that the desert was made a city by monks. Centuries later, Antony would be revered as the founding father of monasticism; one of the most influential men in the history of Christianity. A few years after his death, people had already started to recognize his importance. When St Augustine heard the story of Antony’s austere life he was apparently so moved by its power that he rushed out of the house into the garden, tore his hair and beat his head with his hands. Such simple men, he said, were rising up and taking ‘heaven by force’.4
+
+
+
+Not everyone was so delighted. According to Antony’s biographer, Athanasius, Satan looked on the hair shirt-wearing, sleepless saint and was revolted. This was intolerable virtue in one so young and so the Prince of Darkness had to act. He was in no doubt what form his attack should take: Antony was a man who scorned the pleasures of the flesh and so it was with the pleasures of the flesh that he would be tempted. Unclean thoughts were, Athanasius explains, Satan’s standard weapon for tempting youths, and so he began sending seductive dreams to disturb the young innocent by night. Alas, the holy Antony was a match for this: he pushed them away with the power of constant prayer.
+
+The Devil was forced to move to a second-tier temptation. One night the thwarted Satan turned himself into the form of a beautiful young woman omitting, adds Athanasius – a master of the intriguing aside – ‘no detail that might provoke lascivious thoughts’. Antony struggled but stood firm by calling to mind ‘the fiery punishment of hell and the torment inflicted by worms’.5 Satan gnashed his teeth with fury; but he wasn’t done yet. He decided to send his trump card: an apparition in the form of a young black boy who prostrated himself at Antony’s feet. As he lay there the demon announced that he was the ‘friend of fornication’ and bragged about how many chaste souls he had led astray. Antony responded by singing a psalm, an act that was, even then, so anaphrodisiac that the boy instantly vanished.6
+
+Antony might have won these early battles but his war with evil was far from over. Over the following decades, as he moved about the emptiness of the desert, he faced repeated demonic onslaught. He was beaten so severely by demons that he was unable to speak. He saw the rules of nature flouted: thin air turned into silver that then disappeared like smoke; walls turned into air and scorpions, lions and vipers streamed through and mauled him. He even saw Satan himself: he appeared to Antony just as he had appeared to Job. His eyes were like the morning star, his mouth poured forth incense, his hair was sprinkled with flames, his nostrils fumed with smoke and his breath was like a glowing coal. Antony, his biographer recorded, found it ‘terrifying’.7
+
+
+
+Today, the story of how Christianity came to conquer Rome is told in reassuringly secular terms. It is a tale of weakened emperors and invading barbarian armies; of punitive taxation, gruesome plagues and a tired and weary populace. Where religion is mentioned in these narratives, it is often given a psychological role. This, runs the argument, was an age of anxiety. Disease, war, famine and death, not to mention the equally unavoidable horror of the tax collector, prowled the empire. During one fifty-year period in the third century, no fewer than twenty-six emperors and perhaps as many, if not more, usurpers claimed power. The barbarians, though not yet quite at the gate, were certainly massing nearby, launching raids on Britain, Gaul, Spain, Morocco and even Italy itself. Just when things seemed as though they couldn’t get any worse, a terrible plague descended in which victims’ intestines were ‘shaken with a continual vomiting’, their eyes were ‘on fire with the injected blood’; the feet and parts of the limbs were ‘taken off by the contagion of diseased putrefaction’, not to mention other, even less savoury afflictions.8
+
+Who, argue traditional narratives of Christianity, would not search for reassurance at such a time? Who would not be drawn to a religion that reassured its followers that, if not in this life then perhaps in the next, things would be a little more pleasant? Who would not long to be told that someone, somewhere, had a plan – and that this was all part of it? As one twentieth-century historian put it: ‘in an age of anxiety any “totalist” creed exerts a powerful attraction: one has only to think of the appeal of communism to many bewildered minds in our own day’.9
+
+But, continues this line of argument, the old religions of Rome did not offer such comfort. Far from it. The Greco-Roman underworld was a place where Tantalus was tortured by thirst and where Sisyphus spent his days rolling a stone uphill only to have it roll back down again. Hardly the sort of place one might wish to retire to. Nor did the Greco-Roman religious system offer much guidance to the living. These cults did not provide a moral handbook for everyday life. They issued no commandments or catechisms or creeds to guide the souls of the uncertain between birth and death. There were broad rules and demands for sacrifice. Admittedly, where the ambit of religion petered out then philosophy might step in to provide some solace – but given that the grin-and-bear-it philosophy of Stoicism was one of the most popular of the age, this was a cold comfort at best. ‘The world’s a stage and life’s a toy,’ as one Greek poet later wrote, bleakly:
+
+
+Dress up and play your part;
+
+Put every serious thought away
+
+Or risk a broken heart.10
+
+
+Then, into this chilly, nihilistic world burst Christianity. Not only did the new religion offer comfort, companionship and purpose in this life, it also offered the promise of eternal bliss in the next. And as if all that wasn’t tempting enough, it wasn’t long before Christianity had even more to offer its converts. In AD 312 the emperor, Constantine himself, proclaimed himself a follower of Christ. Under his auspices, the Church was soon exempted from taxes and its hierarchy started to be richly rewarded. Bishops were paid five times as much as professors, six times as much as doctors – as much even as a local governor. Eternal delight in the next life, bureaucratic preferment in this. What more could one wish for?
+
+So runs the traditional argument. And indeed there is a great deal of truth in it. No doubt the lure of money, wealth, status, as well as the thought of eternal life \(quite apart from the sheer good sense and kindness of many of Jesus’s teachings\) must have had an effect on the numbers wishing to join this relatively young religion.
+
+But that was not how Christianity was sold in the fourth century. The Church was not marketed as a way to improve a tax bill, or as a balm for anxiety. Christianity was not offered to the Roman Empire as ecclesiastical comfort blanket against the ills of the world. This was not a lifestyle choice. This was not even about life and death. It was far more important than that.
+
+This was a war. The struggle to convert the empire was nothing less than a battle between good and evil, between the forces of darkness and those of light. It was a battle between God and Satan himself.
+
+
+
+

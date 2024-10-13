@@ -3,6 +3,7 @@ title = "Besant lament"
 +++
 
 So low, under the influence of Christianity, had sunk the literature of Greece-  
+
 Greece Pagan, which once brought forth Pythagoras, Socrates, Plato, Euclid, Zenophon, and many another mighty one, whose fame rolls down the ages—  
 that Greece had become Greece Christian, and the vitality of her motherhood had been drained from her, and left her without strength to conceive men. 
 
