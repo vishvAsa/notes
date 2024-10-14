@@ -54,3 +54,17 @@ The western branch of this Rouran horde founded the Avar potentate in Europe.
 In this work the clear admixture over time of the Mongolic people with Iranic & Germanic peoples can be seen.
 
 Finally -- we have evidence that even a brAhmaNa was incorporated & his family married into the Rouran Khaghanate.+++(5)+++ I wonder if someday in central Asia we might find evidence for such admixtures. 
+
+## Location
+
+Source: [TW](https://x.com/blog_supplement/status/1845317844864565332)
+
+The Hou Han Shu states that the old domain of the Avar Khaghanate was southwest of the Ding-ling. Based on archaeology, the Ding-ling can be associated with the Tagar culture centered in the Minusinsk region in Siberia, associated with massive bronze production facilities. Based on archaeogenetics, it now known that these peoples had a dominant Sintashta-derived ancestry admixed with smaller the Baikal bronze age and BMAC components (the latter was swept up during the Sintashta-derived eastward expansion via central Asia). 
+
+The same chIna text states that the Avars were to the northeast of the Wu-sun (=ashvin as per Beckwith). We have previously argued that these were steppe Indo-Aryans rather than Iranians (contrast with arimAspa). Thus, the Avars were in what is Mongolia today, sandwiched between two I-Ir groups. Hence, the ethnogenesis of the early Serbi-Mongolic people was closely associated with the Indo-Iranians, as supported by the genetic evidence. 
+
+At that time, the Serbi (the ancestors of the later Serbi (Xianbei) and Khitan Khaghanates) were geographically east of the Avar in the direction of Manchuria. The I-Ir groups in the region were in part wiped out first with the Hun (Xiongnu) expansion under Bagatur. In this conflict, the ashvin seemed to have joined forces with the Huns against the proto-kuShANa-s. 
+
+Further, the above suggests that prior to 250 BCE, apart from the Para-Mongolic (Serbi) split, the Mongolic groups had already diversified into the precursor of the later Avar Khaghanate and the Xiongnu. 
+
+It is rather exciting that we live in an age where archaeogenetics has come together with linguistics and Chinese philology to offer a picture of the early Serbi-Mongol history that we only dreamed of as a kid.
