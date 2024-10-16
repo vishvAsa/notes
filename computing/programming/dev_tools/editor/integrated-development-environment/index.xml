@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;IDE Dev environment on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/dev_tools/editor/integrated-development-environment/</link>
+    <description>Recent content in &#43;IDE Dev environment on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/computing/programming/dev_tools/editor/integrated-development-environment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intellij Idea</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/dev_tools/editor/integrated-development-environment/intellij-idea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/computing/programming/dev_tools/editor/integrated-development-environment/intellij-idea/</guid>
+      <description>Setup JDK and JRE changes can lead to frequent crashes. Totally removing jdk and jre (and relying on the intellij jdk and jre versions) solved this problem. Version control: Git Settings -&amp;gt; version control -&amp;gt; git -&amp;gt; use native client If you are repeatedly asked for github login tokens, ensure that gnome-keyring-daemon is running. Build tools sbt import module Just use Intellij, and add module with existing sources by pointing to the build.</description>
+    </item>
+    
+  </channel>
+</rss>

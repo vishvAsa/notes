@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Analysis on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/power/motion/analysis/</link>
+    <description>Recent content in &#43;Analysis on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/power/motion/analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Kinematics</title>
+      <link>https://vishvAsa.github.io/notes/power/motion/analysis/01_kinematics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/motion/analysis/01_kinematics/</guid>
+      <description>General metrics Displacement s: a vector measuring change in position. Time t. Velocity vector \(v = \frac{ds}{dt}\). Speed is it&amp;rsquo;s magnitude (a scalar value - without direction arrow). Acceleration vector: \(a = \frac{dv}{dt}\) Average velocity = \(\dfrac{\int_{t_1}^{t_2} v dt}{ (t_2-t_1)}\). Linear motion, constant acceleration Consider time ranging from 0 to \(t_1\). \(v = u + at_1\) \(s = \int_{t=0}^{t=t_1} (u + at) dt = ut_1 + \dfrac{at_1^2}{2} = \int_{t=0}^{t=t_1} (u + at) dt = ut_1 + \dfrac{(v-u)t_1^2}{2t_1} \) Alternately, eliminating \(t_1\): \(2as = 2u(v-u) + \dfrac{(v-u)^2} = v^2 - u^2\).</description>
+    </item>
+    
+    <item>
+      <title>02 Dynamics</title>
+      <link>https://vishvAsa.github.io/notes/power/motion/analysis/02_dynamics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/motion/analysis/02_dynamics/</guid>
+      <description>Force and mass The great genius Issac Newton postulated the existence of something called &amp;ldquo;Force&amp;rdquo; (a vector) and &amp;ldquo;mass&amp;rdquo; (a scalar) - to describe the differing effects of the same effort on different objects. He said: let us say that all objects have &amp;ldquo;mass&amp;rdquo; - with lighter objects having lower mass. Then, F/m = a. Or F = ma. Aka Newton&amp;rsquo;s second law of motion. A corollary: In the absence of a force, there is no acceleration and no change in velocity.</description>
+    </item>
+    
+    <item>
+      <title>Gravity</title>
+      <link>https://vishvAsa.github.io/notes/power/motion/analysis/gravity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/motion/analysis/gravity/</guid>
+      <description>Newtonian model The law of gravity: \(F = k \frac{m_{1}m_{2}}{r^{2}}\). Usually accurate enough in daily life.
+Drawbacks There is instantaneous action at a distance. But, according to special theory of relativity, no information can be transmitted faster than the speed of light; but if newton&amp;rsquo;s law was an accurate model, you would have a gravitational telegraph which can transmit information instantaneously.
+Modeling spherical objects An important special case. If sphere is symmetric in density, it turns out that using point mass located at the center of the sphere is an equally accurate model.</description>
+    </item>
+    
+    <item>
+      <title>कणादः</title>
+      <link>https://vishvAsa.github.io/notes/power/motion/analysis/kaNAdaH/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/motion/analysis/kaNAdaH/</guid>
+      <description>मडत्तिल्-कार्त्तिकेय-लेखा परिचयः Did ṛṣi kaṇāda discover the laws of motion attributed to Newton? A popular WhatsApp forward claims he did. Here&amp;rsquo;s a look at the original work to see if that makes any sense.
+ṛṣi kaṇāda composed the vaiśeṣika sutra, the core of the vaiśeṣika philosophy, which was based on a realist ontology, focusing on things seen in the here and now. This later merged with the nyāya school, which was based around a rational epistemology to form the nyāya-vaiśeṣika school, consolidating the realist-rationalist aspect of Indian thought.</description>
+    </item>
+    
+  </channel>
+</rss>
