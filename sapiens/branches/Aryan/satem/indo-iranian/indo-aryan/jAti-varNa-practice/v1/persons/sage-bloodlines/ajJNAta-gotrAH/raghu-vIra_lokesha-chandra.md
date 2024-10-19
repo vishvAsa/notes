@@ -8,6 +8,7 @@ Raghu vIra was a great wide-ranging scholar.
 His grandfather and father were in the British service - both taught English grammar, but were led to sanskrit grammar.
 
 Edited jaiminIya brAhmaNa, was an expert in gAndhAran statues, Indo European linguistics, Japanese, Tibetan.  
+Created a tibetan printing press. Later collaborated with Tibetan refugees regarding their education system.  
 He admired perfection of European editions, systematic collation of variant readings, attention to details, comparitive study etc..  
 
 Founded the International Academy of Indian Culture (Saraswati Vihar) where many foreign students studied. SarasvatI vihAr was shifted to nAgpur in 1946, then to delhi in 1956.
@@ -43,6 +44,6 @@ Sullas came to his neighborhood. But didn’t expect he was prepared. Before aba
 
 
 ## Lokesh chandra
-It is no wonder that the great scholar Lokesh Chandra is his son. The son was made to memorize pANini sUtras, tarka-sangraha, kAvya-dIpikA etc.. Was taught English by an Irish convert to Hinduism. By himself he studied Tibetan, Javanese etc.. He travelled to Indonesia, Netherlands, Japan etc..
+It is no wonder that the great scholar Lokesh Chandra is his son. The son was made to memorize pANini sUtras, tarka-sangraha, kAvya-dIpikA etc.. Was taught English by an Irish convert to Hinduism. By himself he studied Tibetan, Javanese etc.. He travelled to Indonesia, Netherlands, Japan, Soviet Union etc..
 
 
