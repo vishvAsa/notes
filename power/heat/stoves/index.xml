@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Stoves on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/power/heat/stoves/</link>
+    <description>Recent content in &#43;Stoves on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/power/heat/stoves/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Induction</title>
+      <link>https://vishvAsa.github.io/notes/power/heat/stoves/induction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/heat/stoves/induction/</guid>
+      <description> Induction heating - an induction coil inside the cook-top heats the iron base of cookware by magnetic induction. safety, efficiency (the induction cook-top is not heated itself) and speed. </description>
+    </item>
+    
+    <item>
+      <title>Wood Stove</title>
+      <link>https://vishvAsa.github.io/notes/power/heat/stoves/wood-stove/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/heat/stoves/wood-stove/</guid>
+      <description>Desiderata Protection from wind Fuel supply Continuous supply mechanism is better. Air supply Bottom, top, sides in case of gasification. Chimney effect support Portability Pot support Life Small gauge Iron wires degrade with use Repairability Gasification Aka wood gas. Gasifiers can separate gas generation from gas combustion in space and time. In a reactor (gas generator) that is optimized for heat-dependent drying and pyrolysis, solid biomass is first converted into gases and vapors.</description>
+    </item>
+    
+  </channel>
+</rss>

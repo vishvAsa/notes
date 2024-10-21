@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Articles on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/history/hindu/articles/</link>
+    <description>Recent content in &#43;Articles on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Mar 2006 00:00:00 +0000</lastBuildDate><atom:link href="https://vishvAsa.github.io/notes/math/history/hindu/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rudraṭa knights tour - GSS Murthy</title>
+      <link>https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/math/history/hindu/articles/rudraTa-knights-tour_gss-murthy/</guid>
+      <description>The Knight’s Tour Problem and Rudraṭa’s Verse:
+A View of the Indian Facet of the Knight’s Tour
+By
+G S S Murthy
+[Affiliation: FIETE; Corresponding author: G S S Murthy Email:murthygss gmail]
+Abstract If a chess-knight is moved on a vacant chess-board [8x8 square] such that it visits each one of the 64 squares once and once only, the knight is said to execute a Knight’s Tour. Solution to the knight’s tour problem was known in India as early as the 9th century AD as a demonstration of wizardry in composing 32-syllable verses in Sanskrit.</description>
+    </item>
+    
+  </channel>
+</rss>
