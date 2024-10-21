@@ -125,3 +125,7 @@ The global, simultaneous assault on FoE by the liberals (euphemism is their hall
 
 It is unclear if vijaya-nAma-vyApArin backed by muShkavAn can survive the global force -- key phrase: the pa~nchanetra-s look inward.
 
+## Hindu-phobia
+Source: [TW](https://x.com/blog_supplement/status/1847751863783084495)
+
+The left-liberals and the ekarAkShasavAdin-s converge in their svabhAva-vairam towards H. On many points even their expression is the same because (to borrow from Al Beerooni) at their pith both are essentially the same: the former is merely a 0-grade ekarAkShasatvam. What many people don't get is that of the hastin-s pichChilu~Nga is best option because he is not too religious. This is good for H but doesn't please his pakSha entirely. However, his supporters are clear on their position, e.g., someone just pointed out how duShTa jarilaputra calls the H goddess a demon: Source: [TW](https://x.com/TuckerCarlson/status/1847700712894902499) duShTa-jarilaputra then goes on to say that the H goddess inspired aTTahAsakI to kill kids.
