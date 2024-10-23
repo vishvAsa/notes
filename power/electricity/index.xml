@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Electricity on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/power/electricity/</link>
+    <description>Recent content in &#43;Electricity on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/power/electricity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Battery</title>
+      <link>https://vishvAsa.github.io/notes/power/electricity/battery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/electricity/battery/</guid>
+      <description>Sizes Ref - wiki AA -1.2V rechargeable, 1.5V alkaline Non china brand - panasonic AAA CR2016 3V 90 mAh CR 2032 - Used in motherboards. 3V 240 mAh LR44 11.6 mm x 5.4 mm. Shelf Life: 6-8 Years. SR69 371 1.5V Height: 0.08&amp;quot; (2.05mm) Diameter: 0.37&amp;quot; (9.5mm) Non china brand - Seizaiken LR41 Button cell for thermometers etc.. 7.9 x 3.6 mm 1.5V Aka SR41, SR41SW, 392, 392A, 192, 384, 92A, G3, GP192, V36, V36A, V3GA, LR736 and CX42 Desiderata zero percent Hg battery-sizes Lead acid batteries Flat plate Tubular Sealed Maintenance Refill with distilled water periodically.</description>
+    </item>
+    
+    <item>
+      <title>Earthing</title>
+      <link>https://vishvAsa.github.io/notes/power/electricity/earthing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/electricity/earthing/</guid>
+      <description>Intro Fault current is best sent to ground. This includes surge current and lightening current. Structure An electrode is stuck in a pit in the ground and fault current is directed to it. The ground should have low resistivity at all times. But ground resistivity varies with space and season. So, electroloytes are added. With regular earthing, salt and coal is added around the electrode. Salt dissipates gradually and increases conductivity in the surrounding ground.</description>
+    </item>
+    
+    <item>
+      <title>House needs</title>
+      <link>https://vishvAsa.github.io/notes/power/electricity/household_needs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/electricity/household_needs/</guid>
+      <description>Bengaluru &amp;lt; 200 kWh (=units) per month in basaveshvaranagara bengaLUru as of 2019 (with solar heater). 352 units in v-nilaya (no solar heater). 400 heating 200 motor in 1k electricity bill (2020) </description>
+    </item>
+    
+    <item>
+      <title>Lightening</title>
+      <link>https://vishvAsa.github.io/notes/power/electricity/lightening/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/electricity/lightening/</guid>
+      <description>&amp;ldquo;The total electric current reaching the earth’s surface at any time is very nearly constant at 1800 amperes. This current, of course, is &amp;lsquo;positive&amp;rsquo; — it carries plus charges to the earth. So we have a voltage supply of 400,000 volts with a current of 1800 amperes—a power of 700 megawatts!&amp;rdquo; A single bolt may transfer 30 Coulombs of charge!</description>
+    </item>
+    
+    <item>
+      <title>Measurement</title>
+      <link>https://vishvAsa.github.io/notes/power/electricity/measurement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/electricity/measurement/</guid>
+      <description>Current Current I - Rate of charge flow. V = Support for current Potential difference V. Units: Volts V = IR Utility supply India 220V RMS AC, at 50Hz. Single phase. USA 120 volts RMS ± 6% at 60Hz.
+Opposition to current Components Impedence: Overall opposition to current. \(Z = \sqrt{X^2 + R^2}\) as reactance X comes with a phase shift. Resistence R. Independent of frequency. It is usually reasonable to assume that an input impedance is just resistance if the input signal has a low frequency (less than 1kHz).</description>
+    </item>
+    
+    <item>
+      <title>Switches</title>
+      <link>https://vishvAsa.github.io/notes/power/electricity/switches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/electricity/switches/</guid>
+      <description>Intro Switches are put on top of switch boxes (often embedded within walls) covered by a panel and perhaps a frame. Switch box sizes are: 2M/ model/ module (accommodates 2 switches), 6M, 8M, 12M, 18M. Wifi switch Connects to Google Home or Alexa. Good for scheduled powering. Tinxy installation video here. Loads less than 1kW ok. Wiring: AC input is provided to the switch. Then, phase wires are sent from the switch to the loads (which will have neutral wiring separately).</description>
+    </item>
+    
+    <item>
+      <title>Wires</title>
+      <link>https://vishvAsa.github.io/notes/power/electricity/wires/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/electricity/wires/</guid>
+      <description>Desiderata Weather resistance - high temperatures, high UV radiation. Wire gauge Higher gauge implies lower diameter.
+SWG - standard wire gauge.
+AWG - American wire gauge.
+Heating circuit wire cross section - 4mm². Smaller cross section implies higher resistance, higher heat and consequent damage (melting insulation, plugs etc..).
+Solar power DC cables - use bigger cross sections (4mm²) to minimize losses. Inverter to meter cables - at least 6mm². Increase with length.</description>
+    </item>
+    
+    <item>
+      <title>Wiring</title>
+      <link>https://vishvAsa.github.io/notes/power/electricity/wiring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/electricity/wiring/</guid>
+      <description>Intro Common desiderata Separate circuit for high power vs low power appliances. The latter may be powered by UPS systems (inverters backed by DC battery) - by putting them downstream from UPS output. Fuses or trip switches at switch boards and even at the plug point. 2 way switches for staircase lights, bedroom lights and fans. Good placement anticipating appliances like AC, fan, lights. Power generated in the household (solar, wind&amp;hellip;) may need to be consumed preferentially - or dumped to the grid.</description>
+    </item>
+    
+  </channel>
+</rss>
