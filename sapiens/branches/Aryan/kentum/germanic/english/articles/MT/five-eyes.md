@@ -12,3 +12,6 @@ There is an entente of entities that are distinct but aligned on some issues in 
 4. Finally, there is the most dangerous X who cannot be mentioned in public. 
 
 nAri~nga will likely run into them -- the signals have already been sent.
+
+## Mutual usage
+One of the operational features of the pa~nchanetraka alliance is to use the intelligence apparatus of one of the members of the confederation to do what you can't do in your own country with your own apparatus. That is exactly what mahAhAsA's backers want to do to muShkvan via their English allies. They seem rather desperate with the American election day around the corner
