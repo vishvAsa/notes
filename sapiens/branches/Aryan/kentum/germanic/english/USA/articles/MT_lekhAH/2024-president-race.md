@@ -81,6 +81,9 @@ If anUpa+++(=vance)+++ had been gardabha, the mahAmlechCha MSM would singing his
 Now they ignore his bold engagements with them while spreading a childish slander.  
 But perhaps by putting himself out there anUpa is delivering a message on behalf of vijaya-nAma-vyApArin to the propagandized.
 
+### Protection
+anUpa is on a roll regarding the rotten soybean confederation across the pond: the warning to punish them if they harm muShkavAn now starts to explain several things.
+
 ## Pulled rug
 Get the feeling that the nAri~NgapuruSha has come to the realization that deepstate-neocon machine will not let him become rAjan irrespective of the election outcome.  
 A certain resignation is seen in him despite continuing the fight.  
@@ -125,7 +128,12 @@ The global, simultaneous assault on FoE by the liberals (euphemism is their hall
 
 It is unclear if vijaya-nAma-vyApArin backed by muShkavAn can survive the global force -- key phrase: the pa~nchanetra-s look inward.
 
-## Hindu-phobia
-Source: [TW](https://x.com/blog_supplement/status/1847751863783084495)
+Hopefully that disgusting trifecta of neologisms: mis-, dis- and mal-information meets an end with the reign of vR^iddha-piNDaka. But the left-liberals will likely keeping it going as it becomes a central element of their victimhood theology.
 
-The left-liberals and the ekarAkShasavAdin-s converge in their svabhAva-vairam towards H. On many points even their expression is the same because (to borrow from Al Beerooni) at their pith both are essentially the same: the former is merely a 0-grade ekarAkShasatvam. What many people don't get is that of the hastin-s pichChilu~Nga is best option because he is not too religious. This is good for H but doesn't please his pakSha entirely. However, his supporters are clear on their position, e.g., someone just pointed out how duShTa jarilaputra calls the H goddess a demon: Source: [TW](https://x.com/TuckerCarlson/status/1847700712894902499) duShTa-jarilaputra then goes on to say that the H goddess inspired aTTahAsakI to kill kids.
+## gardabhin-backup
+One gets the feeling that the gardabhin-s have multiple backup plans. As muShkavAn states, if aTTahAsakI wins a decisive victory, then he will be immediately targeted with the objective of punar-vi-grahaNa and bleeding his other immense assets. To give it a cover of neutrality, the Brits, continental Euros, and even Brazilians would be deployed. 
+
+I saw that one otherwise sane and v.knowledgeable Brazilian has a muShkavAn derangement syndrome. 
+
+Even in the unlikely event that nAri~Nga wins decisively, the gardabhin-s will move rapidly in the remaining time they have left to attack muShkavAn's assets aided by their own dhUrta-dhanin-s, i.e., the sora-navyA~NkAdi. A more likely outcome is a narrow or indecisive win for one of the two pakSha-s followed by prolonged haggling, which will give time for the gardabhin-s to deploy their multilayered forces to take the day. In all this,  mahAhAsA will be carried along like a puttalikA by the powerful forces fronting her.
+

@@ -47,3 +47,15 @@ Here we examine problems of democracy and briefly consider alternative systems o
 ## Rigged democracies
 - Singapore has a strong de-ghettoisation policy: every electoral constituency is chinese majority; so less voice for malay islamists. The legacy of Lee Kuan Yew stays strong.
 - Share-based system: Every citizen living as of today (for example) gets a share in the nation. The total number of shares remains constant over time (just as in a company). Every time he has a child, he/ she forfeits a portion of his share to the child. Once he dies, his shares are divided among his children. So, if the muslim community grows from 10% to 50% in a hundred years, the problem is not as severe: they will continue to have only 10% share in the national political power.
+
+## Vote buying
+- George Washington was getting voters drunk to vote for him all the way back in 1758
+
+## Sick rhetoric
+> Adams frequently called Hamilton a “bastard brat” & made fun of him for being poor.  
+Hamilton called Adams fat and small.  
+Pro Jefferson papers called Adams “hermaphrodital”.  
+The Adams campaign responded that Jefferson was born of a “half-breed Indian squaw” & labeled Jefferson the pro-incest candidate.   
+Charles Lee publicly accused Washington of trying to assassinate him.  
+Newspapers called Andrew Jackson’s mom a prostitute.  
+Jackson openly regretted not having shot Henry Clay or hanged John Calhoun. 

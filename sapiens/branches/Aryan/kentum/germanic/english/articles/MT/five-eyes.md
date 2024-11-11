@@ -15,3 +15,6 @@ nAri~nga will likely run into them -- the signals have already been sent.
 
 ## Mutual usage
 One of the operational features of the pa~nchanetraka alliance is to use the intelligence apparatus of one of the members of the confederation to do what you can't do in your own country with your own apparatus. That is exactly what mahAhAsA's backers want to do to muShkvan via their English allies. They seem rather desperate with the American election day around the corner
+
+## Higher than others
+No nation other than the pa~nchanetraka-s, not even Israel, forms a true alliance with USA. As the sole world power by a stretch it is too dangerous -- any nation will be used as a pawn and discarded unless it carefully safeguards its own interests. This takes a lot of effort because of the extremely vengeful nature of the Anglo-abrahamo-sphere, which doesn't let even a small act of defiance pass. 
