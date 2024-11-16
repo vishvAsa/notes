@@ -16,3 +16,8 @@ A closer study reveals that the collapse of the Tantric state simply follows the
 The vitality and survival of the Tantric state depends a lot on what other secular material it brings to the table. In this the shaiva-s of the Urdhvasrotas offered a complete package; thus they were more effective at state building and fostering than other Tantric states. But they faced the difficulty of centralization and dependency on hub-maTha. Such network structures collapse from attacks on the hub-nodes -- a well-known graph-theoretic outcome. The more distributed nodes of the kaula system could keep it alive as a pan-Indospheric system (being immune to the above type of attack) but lack the large resources for providing a complete secular package.
 
 To conclude, the Tantric state brought the Hindu experience to a wider swath of the population across Eurasia and that could be seen as its major success.
+
+
+> Could it be that the deeply individualist inward focus encouraged by the Tantric state ultimately couldn't match the organization, goal-orientedness and military technology that came with extroverted Abrahamic society
+
+Your above criticism seems to be echoed by others. What I was trying to say is that it might not be the sole or even major factor in the success of the Abrahamistic ravages
