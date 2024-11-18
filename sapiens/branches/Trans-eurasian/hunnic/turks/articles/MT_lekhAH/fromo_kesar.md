@@ -18,4 +18,6 @@ He is said to have collected a reverse of jizIya to punish the Ms. His father se
 > shrI hiDibira kharalacha parameshvara  
 > shrI ShAhi tigina-deva-kAritam" 
 
-It is not clear to me what the words hiDibira and kharalacha mean or what language they are.
+It is not clear to me what the word hiDibira mean or what language they are. 
+kharalacha is khalaj (Turk).
+
