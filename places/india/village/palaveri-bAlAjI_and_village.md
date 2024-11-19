@@ -192,6 +192,15 @@ All births happened at home - and quite quickly too, with the assistance neighbo
 Rarely, women died during birth.  
 Infant mortality was rare.
 
+### Doctor
+vishvanAtha gurukkal, the archaka of the local shiva temple, inherited traditional Ayurveda knowledge. His wife too was familiar with the system. They grew herbs in their yard. They had no agricultural land. Income from temple was practically 0. Yet, he raised 10 children.
+
+He was highly regarded for his medical knowledge. He used to successfully treat even jaundice with herbs. He used to correctly estimate the time taken to recover - day, week or month.  
+Daily about 15 people waited at his home for treatment. He did not charge the poor or farmers - still, the employe (eg. school teachers) paid beyond what he asked, out of regard for him.  
+He would forbid shrotriya-s from visiting him, preferring to cycle to their place to serve them.  
+
+Yet, many villagers took to allopathic medicine since it often yielded quicker results with fewer rules (albeit with side-effects). Eventually, the medical knowledge died with him. The kids moved to the cities to work in industries.
+
 ## Economy
 Farming practice is described [separately](/notes/skills/plant-growing/farms/palaveri-farms/).
 

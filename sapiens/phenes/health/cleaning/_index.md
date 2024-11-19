@@ -8,7 +8,7 @@ title = "+Cleaning"
 - Massage gums daily: pull the gums up with 2 fingers. Gums may bleed if there is inflammation, but massaging is good. Can use electric toothbrush.
 
 ### Cleaning paste
-- Baking soda + water is good. [TW](https://www.healthline.com/health/baking-soda-toothpaste)
+- Baking soda + water is good. [TW](https://www.healthline.com/health/baking-soda-toothpaste) . Long term use can damage enamel.
 - salt occassionally - can permanently damage your tooth enamel.
 - neem stick chewed in the end to make a brush.
 

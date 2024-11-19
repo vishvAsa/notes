@@ -1,6 +1,5 @@
 +++
 title = "Toothbrush"
-unicode_script = "devanagari"
 +++
 
 ## History
