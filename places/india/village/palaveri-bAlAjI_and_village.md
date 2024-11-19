@@ -193,7 +193,7 @@ Rarely, women died during birth.
 Infant mortality was rare.
 
 ### Doctor
-vishvanAtha gurukkal, the archaka of the local shiva temple, inherited traditional Ayurveda knowledge. His wife too was familiar with the system. They grew herbs in their yard. They had no agricultural land. Income from temple was practically 0. Yet, he raised 10 children.
+vishvanAtha gurukkal, the archaka of the local shiva temple, inherited traditional Ayurveda knowledge. A very short man - about 5 feet. His wife too was familiar with the system. They grew herbs in their yard. They had no agricultural land. Income from temple was practically 0. Yet, he raised 10 children.
 
 He was highly regarded for his medical knowledge. He used to successfully treat even severe jaundice with herbs. He used to correctly estimate the time taken to recover - day, week or month.  
 Daily about 15 people waited at his home for treatment. He did not charge the poor or farmers - still, the employees (eg. school teachers) paid beyond what he asked, out of regard for him.  
