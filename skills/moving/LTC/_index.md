@@ -58,7 +58,7 @@ Air tickets should be purchased from ([F. No. 31011/12/2022-Estt.A-IV](https://d
 ## Fresh recruit entitlement
 - Fresh recruits are allowed to travel to their home town along with their families on three occasions in a block of four years and to any place in India on the fourth occasion. This facility is available for the first two blocks of four years after joining the Government for the first time.
 - The first two blocks of four years will apply with reference to the initial date of joining. The first two blocks of four years will be personal to them. On completion of eight years they will be treated at par with other regular employees. 
-- No carry-over of LTC is allowed for a fresh recruit. A fresh recruit whose home town and headquarters are same cannot avail LTC to home town. - GID (4), Rule 8. 4.
+- No carry-over of LTC is allowed for a fresh recruit. A fresh recruit whose home town and headquarters are same cannot avail LTC to hometown. - GID (4), Rule 8. 4.
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -70,9 +70,7 @@ Air tickets should be purchased from ([F. No. 31011/12/2022-Estt.A-IV](https://d
 2022-2025 (3 Delhi, 1 anywhere)
 
 - 2022 - KRV, V, Vaj, Su, Sh - Delhi
-- 2023 - 
-  - KRV - Assam
-  - V, Sh, Su, Vaj - ?
-- 2024 - ?
+- 2023 - KRV, V, Sh, Su, Vaj - Assam etc.
+- 2024 - V, Sh, Su, Vaj - Delhi
 - 2025 - ?
 </details>
