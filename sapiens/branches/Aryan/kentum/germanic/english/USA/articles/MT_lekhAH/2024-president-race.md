@@ -139,3 +139,9 @@ Even in the unlikely event that nAri~Nga wins decisively, the gardabhin-s will m
 
 ## Rus escalation
 It seems the controllers of piNDaka and the Deep State are resorting to their ultimate ploy to end the nAri~Nga's honeymoon. They have crossed the line of what the rUs consider a direct attack against them. The worst-case scenario (they may actually be rooting for it) is to draw the Western Europeans & their satellites to directly enter the war. We don't think the daNDa-s, shUlapuruSha-s, and probably even the phira~Nga-s are really prepared for this. A corollary to that is that the mahAmlechCha & kR^ishadeshaka-s would be drawn into it. Their hope is that it would sabotage the nAri~Nga's promises of ending the war soon and thus ruin his second reign. People like nimeShaka and his backers are more than happy to play with fire.
+
+Many think that piNDaka himself has ordered the strikes on the rUs. However, anyone with some buddhi knows that piNDaka has undergone buddhichyuti and is not in a state to meaningfully pull it off. 
+
+The reality is that piNDaka is controlled ultimately by the likes of sora, nayva~Nka, pR^iShTaka etc, with their neocon allies in the policy circles and their agents like sullaka+++(=??)+++ and nimeShaka in the government. So, the plans hatched by the higher level are put into action by these duShTa-s and that's exactly what has happened. 
+
+They fear that the nAri~NgapuruSha would pour water on their entire venture going back to ShiDga's regime of pulling down the rUs. Hence, as a desperate parting move nimeShaka and sullaka have decided to exercise the option made famous by the hero of their tradition shamshonaka.
