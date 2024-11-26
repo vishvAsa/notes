@@ -60,6 +60,14 @@ title = "Wiring"
 - inverse time characteristic, which means if the fault current is high then rupture time is less, and if the fault current is not so high, then rupture-time is long.
 - Quite reliable - mostly ensures that there will be no arc
 
+### Fuse wires
+
+Tinned copper fuse wire
+
+- 10 amps for a nominal diameter of 0.35 mm,  
+- 16 amps for a nominal diameter of 0.50 mm, 
+- 20 amps for a nominal diameter of 0.63 mm
+- sqrt(0.35^2/10*x) for diameter x mm.
 
 
 ### Other fuse types
