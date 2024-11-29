@@ -56,3 +56,10 @@ It has been very difficult to evaluate the Kursk conflict between the rotten soy
    
 
 The idea is to use this toehold for strikes deep into rUs on civilian infrastructure with their superior weapons. It seems their idea is to draw the rUs to directly attack the rotten soybeans. This will give them the long sought excuse to directly pummel the rUs with their superior arsenal. However, that could be a big risk if rUs is pushed into an existential crisis to trigger the use of nukes.
+
+## 202411
+Apparently the mahAmlechCha dream of conquering Syria for their terrorist allies from the rUsrAT is nearing fructification.
+
+We suspect the true mettle of the rUs to withstand the mahAmlechCha onslaught will be seriously tested right now. The mahAmlechCha Deep State fears the nAri~NgapuruSha returning to power and draining the swamp.  
+Now we can see their plan (likely aided by uparimarakata planners) to open a multifront assault on rUs positions and mess things up so that nAri~Nga will be forced to continue the war.
+
