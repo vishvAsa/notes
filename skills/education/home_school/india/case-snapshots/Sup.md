@@ -2,9 +2,23 @@
 title = "Supr"
 +++
 
+## 2024-12
+- भरत-नृत्यम् - nRtyoma **राधिका**. 1k monthly.
+
+## 2024-11
+- Started Portuguese on **Duolingo**
+- गणिताभ्यासे साहाय्यम् - **वासुकिः पितामहः**
+- वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**रमेशः**)
+
+## 2024-06
+- Started Spanish on **Duolingo**
+
+## 2024-08
+- भरत-नृत्यम् - switched to kidz **सरोजिनी**. 800 monthly
 
 ## 2023-10
-Switched to new vocal karNATaka-sangIta teacher - neighbour **राजलक्ष्मी**. 1k monthly.
+Switched to new vocal karNATaka-sangIta teacher - neighbour **राजलक्ष्मी**. 1k monthly.  
+Violin - **राजलक्ष्मी**. 1k monthly.
 
 From tiruppAvai, he had memorized 1, 29, 30 since they're required for shAtr-murai. Set to start तिरुवाय्मुऴि। 
 
@@ -15,16 +29,18 @@ Previous karNATaka-sangIta teacher was slow (to accommodate newcomers), repeatit
 
 
 ## 2023-06
-I follow standard board texts + chandamama/ ambulimama for tamil, telugu, math. Have engaged native-speaking neighbors for the former two. Math - he works out problems by himself by following the textbook.
+He followed standard board texts + chandamama/ ambulimama for tamil, telugu, math. Have engaged native-speaking neighbors for the former two. 
 
-Also, I get him to read "namma Ura rasikaru" for kannaDa; "sanxepa-rAmAyaNam" (vempaTi kuTUmba shAstri) for sanskrit.
+**Math** - he works out problems by himself by following the textbook (DAV school, later CBSE and cambridge etc..).
+
+Also, he read "namma Ura rasikaru" for kannaDa; "sanxepa-rAmAyaNam" (vempaTi kuTUmba shAstri) for sanskrit.
 
 Once certain reading material is finished, I replace it with something else.
 
 Teachers
 
-- Ta - neighbor बालकृष्णः . He started teaching him divyaprabandha-s as well. 
-- भरतनाट्यम् - अनुपमा (भूदेवीनृत्यशाला)
+- Ta - neighbor **बालकृष्णः** . He started teaching him divyaprabandha-s as well. 
+- भरत-नृत्यम् - **अनुपमा** (भूदेवीनृत्यशाला)
 
 ## 2022-12
 Switched out of agastya gurukulam; started home-schooling with neighbor support.
@@ -43,15 +59,18 @@ Teachers
 ## 2022-07
 AG Languages - sanskrit (**गोपिः**), Engish (**लक्ष्मीः**), kannaDa, hindI (cheerful **निधिः**), tamiL (**मीनाक्षी**), telugu (added, **महेश्वर-मचर्ल-रावः**).  
 
-अगस्त्यगुरुकुले विषयान्तरम् - इतिहासभूगोले, गणितम् (_पर्णिका_), धातुपाठामरकोश-कण्ठस्थीकरणम् (सिद्धार्थः).
+अगस्त्य-गुरुकुले विषयान्तरम् - इतिहास-भूगोले, गणितम् (_पर्णिका_), धातुपाठामरकोश-कण्ठस्थीकरणम् (सिद्धार्थः).
 
 Young age is the ripe time for learning lots of languages. Besides, he did not have sufficient math proficiency for scientific breath.  
 
 Started swimming lessons in summer (**राहुलः**).  
 
-Taekwondo weekly (**Iban**).
+Taekwondo weekly (**Iban-Jhop**). 1.2k
 
 bharatanATyam - **दृष्टि-संस्था** (main teacher **Rhea**) run by **विक्रान्तपत्नी +अनुराधा** .
+
+## 2022-06
+- सामवेदः - परवस्तु-परम्परा (**विश्वासः**)
 
 ## 2022-04
 Started sangItA - neighbor **तुषारपत्नी मीरा**. Fee started around 450, but rose to 650 by 2023-10.

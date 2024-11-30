@@ -2,6 +2,38 @@
 title = "vajr"
 +++
 
+## 2024-12
+- भरत-नृत्यम् - nRtyoma **राधिका**. 1k monthly.
+
+## 2024-11
+- वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**रमेशः**)
+- कन्नड-पठनम् - **नागरत्ना पितामही**
+- By this time was comfortable reading devanAgarI, english, kannaDa, tamiL slowly; didn't like to write.
+- Started tagging along to brother's telugu classes.
+- Switched out of Agastya gurukulam.
+
+<details><summary>Reasons for switching out</summary>
+
+- AG was not responsive to emails. Complaints and suggestions went unheeded.
+- Vaj was not improving on communication skills (main motivation for joining); did not like the required writing yet.
+</details>
+
+## 2024-08
+- भरत-नृत्यम् - switched to kidz **सरोजिनी**. 800 monthly
+
+## 2024-06
+- भरत-नृत्यम् - **अनुपमा** (भूदेवीनृत्यशाला). 1k monthly.
+- कर्णाटक-सङ्गीतम् - **राजलक्ष्मी**
+- **अगस्त्य**-गुरुकुले विषयान्तरम् - अमरकोश-कण्ठस्थीकरणम्, इतिहास-भूगोले, गणितम् (पूङ्गोडि), hindI (cheerful **निधिः**), English (**अनुपमा**), कन्नडम् (**निवेदिता**).
+
+## 2024-03
+- सामवेदः - परवस्तु-परम्परा (**विश्वासः**)
+- Ta - neighbor **बालकृष्णः** . Reluctant to write.
+
+## 2023-12
+- Taekwondo weekly (**Iban-Jhop**).
+
+
 ## 2023-10
 - Started wearing uttarIya-veShTI as a regular practice during the day, like brother.
 - Writing 
@@ -12,7 +44,8 @@ Daily devanagarI letter practice. Initially tracing 1 letter 10 times per day.
 
 Switched to tracing one letter with svaras (eg. क-कः) once daily.
 
-Learning some swimming.  
+Learning some swimming. (**राहुलः**).
+
 Very mild progress with cycling.
 
 ## 2022-09
