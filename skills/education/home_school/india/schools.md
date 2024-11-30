@@ -68,9 +68,14 @@ title: Un-schools
 - purna pramati mAdhva-shAlA - गिरिनगरपरिसरे।
   - [अत्र](https://purnapramati.in/programs/)। 
   - Students seated on floor study shAstra-s.
-- वेदविज्ञानगुरुकुलम्
+- वेद-विज्ञान-गुरुकुलम्
 - "शुभं करोति" [web](https://shubhamkarotigurukula.com/)
 - Om Shanti Dhaama, Kanakapura, Bengaluru, 90 kms from Bangalore on the banks of Cauvery.
+
+### वेद-पाठशालाः
+- मत्तूरु-ग्रामः
+- दक्षिण-नैमिषारण्ये ऽहोबिल-मठ-सम्बद्धा
+
 
 ## जाल-शिक्षणम्
 - Arise gurukulam - [Here](https://academy.arisegurukulam.com/).
@@ -99,3 +104,21 @@ title: Un-schools
 - [dharma gurukulam, anAdi](https://sites.google.com/anaadi.org/dharmagurukulam/homeschool), Palani.
 - [agastya Academy](https://www.youtube.com/watch?v=tRwnyOzOXus), Waldorf inspired day cum residential  CBSE School located in Arachalur, in the outskirts of Erode, TamilNadu. The school was started in the year 2018. It is a 30 acre green campus. Morning farming, yoga, music, sports, non-competitive till age 10, dorms.
 - Sampradaya Pathashala of Kanchi Matham - a traditionalist female gurukula [SG](https://sampradaya.org)
+
+## आन्ध्र-प्रदेशे
+- Rishi vATikA chittUr [TW](https://rishivatika.in/rishi-vatika-gurukulam/)
+
+
+### वेद-पाठशालाः
+- विद्यारण्यम् ।  
+
+> Vidyaranyam aims to provide a comprehensive education to students free of charge, focusing primarily on the study of Rigveda, Krishna Yajurveda, Sanskrit, Sangeetham (including Mridangam and Flute), Go seva and Go care for a duration of 12 years, beginning at the primary school level and continuing through university education. This education will be the main focus of the NIOS Board Curriculum, enabling students to take the Secondary (Grade 10) and Senior Secondary (Grade 12) exams. Additionally, students will have the opportunity to pursue a Bachelor’s or Master’s degree in Vedic Studies. The program will also offer specialised training in English communication and computer skills.  
+> Source: [TW](https://vidyaranyam.in/)।
+
+
+
+## उत्तर-भारते
+### वेद-पाठशालाः
+- वैदिक-भारतम्‌ / सुपर्णा
+  - मोहित-गुरुकुलं सुवर्णप्रस्थे
+  - जनक-चालितं व्याघ्रप्रस्थे
