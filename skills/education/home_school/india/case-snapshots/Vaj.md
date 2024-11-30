@@ -29,10 +29,11 @@ title = "vajr"
 - भरत-नृत्यम् - **अनुपमा** (भूदेवीनृत्यशाला). 1k monthly.
 - कर्णाटक-सङ्गीतम् - **राजलक्ष्मी**
 - **अगस्त्य**-गुरुकुले विषयान्तरम् - अमरकोश-कण्ठस्थीकरणम्, इतिहास-भूगोले, गणितम् (पूङ्गोडि), hindI (cheerful **निधिः**), English (**अनुपमा**), कन्नडम् (**निवेदिता**).
+- knew devanAgarI, english, kannaDa letters.
+- Ta - neighbor **बालकृष्णः** . Reluctant to write.
 
 ## 2024-03
 - सामवेदः - परवस्तु-परम्परा (**विश्वासः**)
-- Ta - neighbor **बालकृष्णः** . Reluctant to write.
 
 ## 2023-12
 - Taekwondo weekly (**Iban-Jhop**).
