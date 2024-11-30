@@ -7,7 +7,7 @@ title = "vajr"
 
 ## 2024-11
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**रमेशः**)
-- कन्नड-पठनम् - **नागरत्ना पितामही**
+- कन्नड-पठनम् 5:1 पङ्क्ति-क्रमेण - **नागरत्ना पितामही** इत्यनया साकम्। 
 - English, clock इत्यादि - **श्रुतिः**
 - By this time was comfortable reading devanAgarI, english, kannaDa, tamiL slowly; didn't like to write.
 - Started tagging along to brother's telugu classes.
