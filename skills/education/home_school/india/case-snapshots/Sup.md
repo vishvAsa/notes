@@ -10,6 +10,9 @@ title = "Supr"
 - गणिताभ्यासे साहाय्यम् - **वासुकिः पितामहः**
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**रमेशः**)
 
+## 2024-10
+- महाभारत-वीक्षणम् - YT
+
 ## 2024-06
 - Started Spanish on **Duolingo**
 
@@ -18,7 +21,8 @@ title = "Supr"
 
 ## 2023-10
 Switched to new vocal karNATaka-sangIta teacher - neighbour **राजलक्ष्मी**. 1k monthly.  
-Violin - **राजलक्ष्मी**. 1k monthly.
+Violin - **राजलक्ष्मी**. 1k monthly.  
+Science ("EVS") nights (**श्रुतिः**)
 
 From tiruppAvai, he had memorized 1, 29, 30 since they're required for shAtr-murai. Set to start तिरुवाय्मुऴि। 
 
@@ -33,7 +37,9 @@ He followed standard board texts + chandamama/ ambulimama for tamil, telugu, mat
 
 **Math** - he works out problems by himself by following the textbook (DAV school, later CBSE and cambridge etc..).
 
-Also, he read "namma Ura rasikaru" for kannaDa; "sanxepa-rAmAyaNam" (vempaTi kuTUmba shAstri) for sanskrit.
+Also, he read "namma Ura rasikaru" for kannaDa - alternating paragraphs (with **श्रुतिः माता**). Took a couple of months 
+
+"sanxepa-rAmAyaNam" (vempaTi kuTUmba shAstri) for sanskrit. (**विश्वासः** guidance only) 
 
 Once certain reading material is finished, I replace it with something else.
 

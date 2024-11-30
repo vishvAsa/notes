@@ -8,6 +8,7 @@ title = "vajr"
 ## 2024-11
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**रमेशः**)
 - कन्नड-पठनम् - **नागरत्ना पितामही**
+- English, clock इत्यादि - **श्रुतिः**
 - By this time was comfortable reading devanAgarI, english, kannaDa, tamiL slowly; didn't like to write.
 - Started tagging along to brother's telugu classes.
 - Switched out of Agastya gurukulam.
@@ -17,6 +18,9 @@ title = "vajr"
 - AG was not responsive to emails. Complaints and suggestions went unheeded.
 - Vaj was not improving on communication skills (main motivation for joining); did not like the required writing yet.
 </details>
+
+## 2024-10
+- महाभारत-वीक्षणम् - YT
 
 ## 2024-08
 - भरत-नृत्यम् - switched to kidz **सरोजिनी**. 800 monthly
