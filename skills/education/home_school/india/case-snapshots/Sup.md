@@ -65,7 +65,9 @@ Teachers
 - Ta, Eng (Cambridge text), Math - **neighbor उमा**
 - Telugu - **श्रीदेवी वेङ्कटेशपत्नी**। 
 
-<details><summary>Reasons for switching out</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Reasons for switching out
 
 - AG was not responsive to emails (response rate degradation was noted). Complaints and suggestions went unheeded.
 - Supratyaya needed more focus in tamiL, telugu and math since he already had good sanskrit background and support thanks to his family upbringing.

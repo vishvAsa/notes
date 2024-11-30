@@ -13,10 +13,12 @@ title = "vajr"
 - Started tagging along to brother's telugu classes.
 - Switched out of Agastya gurukulam.
 
-<details><summary>Reasons for switching out</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-- AG was not responsive to emails. Complaints and suggestions went unheeded.
+Reasons for switching out
+
 - Vaj was not improving on communication skills (main motivation for joining); did not like the required writing yet.
+- AG was not responsive to emails. Complaints and suggestions went unheeded.
 </details>
 
 ## 2024-10

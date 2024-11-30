@@ -72,8 +72,11 @@ Air tickets should be purchased from ([F. No. 31011/12/2022-Estt.A-IV](https://d
 - 2022 - KRV, V, Vaj, Su, Sh - Delhi
 - 2023 - KRV, V, Sh, Su, Vaj - Assam etc.
 - 2024 - V, Sh, Su, Vaj - Delhi
+
+Confirm eligibility.
+
 - 2025 - Ladhak ? ("hometown trip: one of these can be converted to a trip to UT of J&K and Ladakh")
-- 2026 vasante - (hometown trip) Delhi ? Confirm eligibility.
+- 2026 vasante - (hometown trip) Delhi ? 
 - 2027 - Andamans?
 
 > My LTC trips can be as follows for first 8 years:  
