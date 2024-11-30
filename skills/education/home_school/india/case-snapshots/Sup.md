@@ -9,16 +9,24 @@ title = "Supr"
 - Started Portuguese on **Duolingo**
 - गणिताभ्यासे साहाय्यम् - **वासुकिः पितामहः**
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**रमेशः**)
+- ४/५ पञ्चतन्त्र-श्लोकान् एव पठित्वा जामिता भवति।  
+- युगावताराख्य आधुनिक-संस्कृत-ग्रन्थं सतोषम् पठति स्म। 
 
 ## 2024-10
 - महाभारत-वीक्षणम् - YT
+- मोहित-गुरुकुल-राजस्थानादि-पर्यटनम्। 
 
 ## 2024-06
 - Started Spanish on **Duolingo**
 - Switched to pullela's rAmAyaNa in telugu class. Let text and chandamama.
+- Finished some fairly thick English story books.
+- मत्तूरु-ग्रामय् इष्टि-वीक्षणम्। 
 
 ## 2024-08
 - भरत-नृत्यम् - switched to kidz **सरोजिनी**. 800 monthly
+
+## 2023-12
+- ब्रह्म-पुत्रादि-पर्यटनम्।
 
 ## 2023-10
 Switched to new vocal karNATaka-sangIta teacher - neighbour **राजलक्ष्मी**. 1k monthly.  
@@ -63,12 +71,18 @@ Teachers
 - Supratyaya needed more focus in tamiL, telugu and math since he already had good sanskrit background and support thanks to his family upbringing.
 </details>
 
+परिसरे पर्यटन-काले विश्वासः सुभाषितानि कण्ठस्थी-कारयति स्म, म्लेच्छ-भारत-मरूमादादि-इतिहासादि पञ्चतन्त्राद्य् अपि पाठयति स्म।  
+(बालः पठित्वा, ऽऽकाङ्क्षाक्रमेण श्लोकार्थान् विजानाति।)
+
+## 2022-10
+- मोहित-गुरुकुले सप्ताहः।
+
 ## 2022-07
 AG Languages - sanskrit (**गोपिः**), Engish (**लक्ष्मीः**), kannaDa, hindI (cheerful **निधिः**), tamiL (**मीनाक्षी**), telugu (added, **महेश्वर-मचर्ल-रावः**).  
 
 अगस्त्य-गुरुकुले विषयान्तरम् - इतिहास-भूगोले, गणितम् (_पर्णिका_), धातुपाठामरकोश-कण्ठस्थीकरणम् (सिद्धार्थः).
 
-Young age is the ripe time for learning lots of languages. Besides, he did not have sufficient math proficiency for scientific breath.  
+(Language focus cause - Young age is the ripe time for learning lots of languages. Besides, he did not have sufficient math proficiency for scientific breath.)
 
 Started swimming lessons in summer (**राहुलः**).  
 
@@ -85,7 +99,7 @@ Started sangItA - neighbor **तुषारपत्नी मीरा**. Fee 
 
 ## 2021-07
 Started **Agastya gurukulam** classes.  
-Languages - sanskrit, Engish, kannaDa (various), hindI (निधि), tamiL.  
+Languages - sanskrit, Engish, kannaDa (various), hindI (**निधि**), tamiL.  
 itihAsa/ bhUgola (मृणालिनी?), math (**अपराजित** इति उत्तमः शिक्षकः).
 
 kaNThasthIkaraNam - aShTAdhyAyi (stopped after a short while in favor of alternatives), amarakosha (good portion of the first 3 varga-s, eventually), some dhAtupATha. (बालकृष्णः)
