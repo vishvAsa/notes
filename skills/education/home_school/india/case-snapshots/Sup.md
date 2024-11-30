@@ -15,6 +15,7 @@ title = "Supr"
 
 ## 2024-06
 - Started Spanish on **Duolingo**
+- Switched to pullela's rAmAyaNa in telugu class. Let text and chandamama.
 
 ## 2024-08
 - भरत-नृत्यम् - switched to kidz **सरोजिनी**. 800 monthly
