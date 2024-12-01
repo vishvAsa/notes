@@ -19,7 +19,8 @@ title = "Supr"
 ## 2024-06
 - Started Spanish on **Duolingo**
 - Switched to pullela's rAmAyaNa in telugu class. Let text and chandamama.
-- Finished some fairly thick English story books.
+- Finished some fairly thick English story books -
+  - 8 Roald Dahl books. 
 - मत्तूरु-ग्रामय् इष्टि-वीक्षणम्। 
 
 ## 2024-08
