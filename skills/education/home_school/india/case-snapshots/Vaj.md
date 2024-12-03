@@ -2,6 +2,15 @@
 title = "vajr"
 +++
 
+## Current classes
+- Math tables (सुप्रत्ययः, विश्वसः)
+- Science in english (shruti)
+- tamiL (बालकृष्ण-पत्नी)
+- Taekwondo (**Iban-Jhop**)
+- कर्णाटक-कण्ठ-सङ्गीतम् (स्नेशश्री, **राजलक्ष्मी**)
+- भरत-नृत्तम् - राधिका (पन्दनल्लूर्-शैली)
+- Telugu rAmAyaNa - secondary (shrIdevI)
+
 ## 2024-12
 - भरत-नृत्यम् - nRtyoma **राधिका**. 1k monthly.
 

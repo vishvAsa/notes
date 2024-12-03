@@ -2,8 +2,24 @@
 title = "Supr"
 +++
 
+## Current classes
+- Math, history, misc topics (विश्वसः)
+- Science (shruti)
+- tamiL - shrIvaiShNava texts and mags (बालकृष्णः)
+- Telugu rAmAyaNa (shrIdevI)
+- Taekwondo (**Iban-Jhop**)
+- कर्णाटक-कण्ठ-सङ्गीतम् (स्नेशश्री, **राजलक्ष्मी**)
+- कर्णाटक-सङ्गीतम् - Violin (**राजलक्ष्मी**)
+- भरत-नृत्तम् - राधिका (पन्दनल्लूर्-शैली)
+- पञ्चतन्त्रम् (विश्वसः)
+- रहस्यत्रयसारादि - पलवेरि-लक्ष्मीनरसिंहः (अर्धावधानेन)
+
+## Past
+- swimming (rAhul)
+- kannaDa, english reading
+
 ## 2024-12
-- भरत-नृत्यम् - nRtyoma **राधिका**. 1k monthly.
+- भरत-नृत्यम् - nRtyoma **राधिका** (पन्द-नल्लूरु-शैली). 1k monthly.
 
 ## 2024-11
 - Started Portuguese on **Duolingo**
@@ -30,7 +46,7 @@ title = "Supr"
 - ब्रह्म-पुत्रादि-पर्यटनम्।
 
 ## 2023-10
-Switched to new vocal karNATaka-sangIta teacher - neighbour **राजलक्ष्मी**. 1k monthly.  
+Switched to new vocal karNATaka-sangIta teacher - neighbour स्नेशश्री → **राजलक्ष्मी**. 1k monthly.  
 Violin - **राजलक्ष्मी**. 1k monthly.  
 Science ("EVS") nights (**श्रुतिः**)
 
@@ -55,8 +71,8 @@ Once certain reading material is finished, I replace it with something else.
 
 Teachers
 
-- Ta - neighbor **बालकृष्णः** . He started teaching him divyaprabandha-s as well. 
-- भरत-नृत्यम् - **अनुपमा** (भूदेवीनृत्यशाला)
+- tamiL - neighbor **बालकृष्णः** . He started teaching him divyaprabandha-s as well. 
+- भरत-नृत्यम् - **अनुपमा** (भूदेवी-नृत्य-शाला वऴवूर्-शैली)
 
 ## 2022-12
 Switched out of agastya gurukulam; started home-schooling with neighbor support.
@@ -91,13 +107,13 @@ Started swimming lessons in summer (**राहुलः**).
 
 Taekwondo weekly (**Iban-Jhop**). 1.2k
 
-bharatanATyam - **दृष्टि-संस्था** (main teacher **Rhea**) run by **विक्रान्तपत्नी +अनुराधा** .
+bharatanATyam - **दृष्टि-संस्था** (main teacher **Rhea**) run by **विक्रान्तपत्नी +अनुराधा** (**कलाक्षेत्र-शैली**) .
 
 ## 2022-06
 - सामवेदः - परवस्तु-परम्परा (**विश्वासः**)
 
 ## 2022-04
-Started sangItA - neighbor **तुषारपत्नी मीरा**. Fee started around 450, but rose to 650 by 2023-10.
+Started sangItamiL - neighbor **तुषारपत्नी मीरा**. Fee started around 450, but rose to 650 by 2023-10.
 
 
 ## 2021-07
