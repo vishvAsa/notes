@@ -6,20 +6,24 @@ title = "Supr"
 - Math, history, misc topics (विश्वसः)
 - Science (shruti)
 - tamiL - shrIvaiShNava texts and mags (बालकृष्णः)
-- Telugu rAmAyaNa (shrIdevI)
+- Telugu rAmAyaNa (श्रीदेवी)
 - Taekwondo (**Iban-Jhop**)
-- कर्णाटक-कण्ठ-सङ्गीतम् (स्नेशश्री, **राजलक्ष्मी**)
+- कर्णाटक-कण्ठ-सङ्गीतम् (स्नेहश्री, **राजलक्ष्मी**)
 - कर्णाटक-सङ्गीतम् - Violin (**राजलक्ष्मी**)
 - भरत-नृत्तम् - राधिका (पन्दनल्लूर्-शैली)
+- Spanish - daily 5 min (duolingo)
+- Portuguese - daily 5 min (duolingo)
+- रहस्य-त्रय-सारादि - पलवेरि-लक्ष्मीनरसिंहः (अर्धावधानेन)
+- वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**रमेशः**)
+- परवस्तु-सामानि (विश्वसः)
 - पञ्चतन्त्रम् (विश्वसः)
-- रहस्यत्रयसारादि - पलवेरि-लक्ष्मीनरसिंहः (अर्धावधानेन)
 
 ## Past
 - swimming (rAhul)
 - kannaDa, english reading
 
 ## 2024-12
-- भरत-नृत्यम् - nRtyoma **राधिका** (पन्द-नल्लूरु-शैली). 1k monthly.
+- भरत-नृत्यम् - nRtyoma **राधिका** (पन्द-नल्लूरु-शैली). 1k monthly, 2k admission.
 
 ## 2024-11
 - Started Portuguese on **Duolingo**
@@ -40,7 +44,7 @@ title = "Supr"
 - मत्तूरु-ग्रामय् इष्टि-वीक्षणम्। 
 
 ## 2024-08
-- भरत-नृत्यम् - switched to kidz **सरोजिनी**. 800 monthly
+- भरत-नृत्यम् - switched to kidz **सरोजिनी** (ताञ्जावूरु-शैली). 800 monthly
 
 ## 2023-12
 - ब्रह्म-पुत्रादि-पर्यटनम्।
