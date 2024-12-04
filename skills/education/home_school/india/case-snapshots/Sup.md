@@ -21,6 +21,12 @@ title = "Supr"
 ## Past
 - swimming (rAhul)
 - kannaDa, english reading
+- Goodreads [here](https://www.goodreads.com/review/list/184092601?shelf=read)
+
+## Routine
+Class and ritual timings give structure.
+
+Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, samidAdhAna
 
 ## 2024-12
 - भरत-नृत्यम् - nRtyoma **राधिका** (पन्द-नल्लूरु-शैली). 1k monthly, 2k admission.

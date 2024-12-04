@@ -13,6 +13,11 @@ title = "vajr"
 - परवस्तु-सामानि (विश्वसः)
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**रमेशः**)
 
+## Routine
+Class and ritual timings give structure.
+
+Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, samidAdhAna
+
 ## 2024-12
 - भरत-नृत्यम् - nRtyoma **राधिका**. 1k monthly, 2k admission.
 
