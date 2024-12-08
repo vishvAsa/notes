@@ -3,6 +3,16 @@ title = "Reckoning forecasts"
 +++
 
 ## 2024
+
+Source: [TW](https://x.com/blog_supplement/status/1865445754514342043)
+
+Few days back, we had remarked that Romania seemed to be comfortably in the hands of the mahAmlechCha deep state. That seems to have fructified along the lines one would imagine. It seems to have proceeded via the subversion of the judiciary. Same tactic in Brazil. They even did the same internally to attempt to make nAri~NgapuruSha kAragR^ihastha. 
+
+The same ploy is being used extensively in the desh -- the mahAmlechCha know that they have to capture institutions that can operate outside the elected govt but can exert enormous power on it or even overthrow it. The Indian judiciary has already been subverted to a degree, and younger judges have the natural tendency to float away from the moorings of mImAMsA into navyonmAda. 
+
+The other subvertible collective is the civil servants. Like the piNDAri purchase by their A~nglaka cousins, the mahAmlechCha could purchase various rioters to add further pressure points outside of their traditional marUnmatta assets. This could serve as the hammer that is worked against the subverted judiciary and civil service.
+
+
 Source: [TW](https://x.com/blog_supplement/status/1798200422521602472)
 
 While H might engage in deep psephological dissections or tamAshA, without an iota of civilizational consideration the landscape leading to the nirNaya is going to get tighter for them to maneuver: 

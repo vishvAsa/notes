@@ -145,3 +145,18 @@ Many think that piNDaka himself has ordered the strikes on the rUs. However, any
 The reality is that piNDaka is controlled ultimately by the likes of sora, nayva~Nka, pR^iShTaka etc, with their neocon allies in the policy circles and their agents like sullaka+++(=??)+++ and nimeShaka in the government. So, the plans hatched by the higher level are put into action by these duShTa-s and that's exactly what has happened. 
 
 They fear that the nAri~NgapuruSha would pour water on their entire venture going back to ShiDga's regime of pulling down the rUs. Hence, as a desperate parting move nimeShaka and sullaka have decided to exercise the option made famous by the hero of their tradition shamshonaka.
+
+## Pardon
+Wonder why people are so excited about piNDaka letting vyAdha-piNDaka go. That's in every way the most unsurprising thing and also keeping with what every other mahAmlechCharAT has done
+
+## Corporate truce
+It is amply clear that the mahAduShTa-s mukhagiri and khalvATa bejha are now intending to reach a truce with the pichChilaka so that they get some favors in return. Hopefully the nAri~Nga does not make big concessions for them
+
+## Syria and Georgia
+vijaya-vyApArin has made a largely correct statement regarding Syria but the neocons and their proxies will have other plans. Big win for the mahAmlechCha-bha~njaka-s and their marUnmatta allies before pichChilu~nga takes the throne.
+
+After Syria, the mAhAmlechCha Deep State's latest move is to light a new fire in Georgia. To repeat ourselves, the rUs will be severely tested. The open question is how far their plants to scuttle pichChilaka will bear fruit. As you can see Georgia is very strategic: the Caucasian underbelly of Russia, fossil fuels, the two seas, communication with Islamic state in Iran,
+
+## Kash Patel
+nari~Nga unleashing the turtle has undoubtedly sent shockwaves. There will be a frenetic reaction: the question is whether the public would ever see it. pichChilaka's turtle is one of the few who has openly spoken truth about duShTa-mukhagiri: like a zairimyangura daeva for the ahurian. Thus, the old allies Big tech and the daNDaka-s would do all they can to prevent the turtle from reaching shore.
+
