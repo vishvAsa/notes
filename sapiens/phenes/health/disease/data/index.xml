@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Data on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/data/</link>
+    <description>Recent content in &#43;Data on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blood</title>
+      <link>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/data/blood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/sapiens/phenes/health/disease/data/blood/</guid>
+      <description>Indian list @Mindmusclepro suggests
+Fasting glucose Fasting Insulin Helps diagnose insulin resistance Post-prandial (PP) glucose HBa1C / a1c (average blood sugar levels over the past 3 months. [pre]diabetes risk assessment.) Lipid Profile (cholesterol + triglycerides - atherosclerosis risk) Vitamin D Often low in case of inadequate sun exposure. Vitamin B12 Often low in vegetarians. Homocysteine (Stroke risk measurement, B12 correlation) Hs-CRP (atherosclerosis risk) Liver function test (LFT) Kidney function test (KFT) </description>
+    </item>
+    
+  </channel>
+</rss>
