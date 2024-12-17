@@ -47,3 +47,6 @@ If Sravasti is taken to be श्रय-वस्ति, then the derivation of 
 ## vAsu
 We shall also briefly mention that in his book "Kayasther Varna Nirnaya" Bengali scholar named Nagendra Nath Basu argued that the Kulin Kayastha surname "Vasu" is perhaps connected to the northern Kayastha surname "Śrī-vāstavya." As we have seen above, one derivation of Srivastava comes from Vastu, and also the Vasus of Bengal (var. Basu, Bose) traditionally claim to have come from Kannauj, a connection between two groups is plausible. However, nothing can be said with certainty in absence of more evidence. Nevertheless, we have plenty of evidence to suggest bi-directional movement of Kayasthas between northern and eastern India historically. We previously also discussed migration of Gauda Kayasthas in northern India.
 
+## Harivansh Rai
+His father was a shrIvastava, who married out and gave his son the unique surname bachchan.  
+His family originally hailed from a village named Amorha, near Ayodhya, currently in the Basti district. An excerpt from his biography giving an account of the origin of his sub-clan.
