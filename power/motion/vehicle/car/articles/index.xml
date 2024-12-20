@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Articles on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/power/motion/vehicle/car/articles/</link>
+    <description>Recent content in &#43;Articles on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/power/motion/vehicle/car/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electric vehicles</title>
+      <link>https://vishvAsa.github.io/notes/power/motion/vehicle/car/articles/electric-vehicles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/power/motion/vehicle/car/articles/electric-vehicles/</guid>
+      <description>Battery and range stagnation The status quo of electric cars: better batteries, same range.
+If today&amp;rsquo;s supporters of EV&amp;rsquo;s would dig into the specifications and the sales brochures of early 20th century electric &amp;ldquo;horseless carriages&amp;rdquo;, their enthusiasm would quickly disappear. Fast-charged batteries (to 80% capacity in 10 minutes), automated battery swapping stations, public charging poles, load balancing, the entire business plan of Better Place, in-wheel motors, regenerative braking it was all there in the late 1800s or the early 1900s.</description>
+    </item>
+    
+  </channel>
+</rss>
