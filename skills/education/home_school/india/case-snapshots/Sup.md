@@ -4,7 +4,7 @@ title = "Supr"
 
 ## Current classes
 - Math, history, misc topics (विश्वसः)
-- Science (shruti)
+- Science, programming (श्रुतिः)
 - tamiL - shrIvaiShNava texts and mags (बालकृष्णः)
 - Telugu rAmAyaNa (श्रीदेवी)
 - Taekwondo (**Iban-Jhop**)
@@ -20,7 +20,7 @@ title = "Supr"
 
 ## Past
 - swimming (rAhul)
-- kannaDa, english reading
+- kannaDa, english reading (श्रुतिः)
 - Goodreads [here](https://www.goodreads.com/review/list/184092601?shelf=read)
 
 ## Routine

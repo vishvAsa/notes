@@ -15,7 +15,7 @@ title: India ties
     - bauddha-s carried several hindu memes and deva-s to japan.
     - video of several prominent deities - [YT](https://www.youtube.com/watch?v=8WaenzbSJwk).
     - Prominent sAmurai swearing by Indra and vaishravaNa \[[RJ15](https://twitter.com/Rjrasva/status/630344370999459840)\].
-        - Example: Homa to vaishravaNa, in front of an image of marIchi, by kAgeTora/ Uesugi Kenshin a daimyo of the Sengoku [YT](https://www.youtube.com/watch?v=n4AV_Gv_59k&feature=youtu.be), [YT2](https://www.youtube.com/watch?v=QrriW9gFXsk) (identification by [MT](https://twitter.com/yenkak/status/630249442613051392)), also a devotee of vaishravaNa.
+        - Example: Homa to vaishravaNa, in front of an image of marIchi, by kAgeTora/ Uesugi Kenshin a daimyo of the Sengoku [YT2](https://www.youtube.com/watch?v=QrriW9gFXsk) (identification by [MT](https://twitter.com/yenkak/status/630249442613051392)), also a devotee of vaishravaNa.
 - Sanskrit influence on japanese alphabet arrangement [pdf](http://files.eric.ed.gov/fulltext/ED043872.pdf).
 
 ## Help towards Indian liberation

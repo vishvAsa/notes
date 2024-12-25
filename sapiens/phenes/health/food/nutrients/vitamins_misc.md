@@ -54,6 +54,13 @@ Malabsorption
 
 > Fermented products such as tempeh and miso (obtained from fermented soya beans), shiitake mushrooms and algae (spirulina and nori) contain substances which are similar chemically to vitamin B12. However, they do not work in the body in the same way as the active vitamin so these foods cannot be relied upon as sources of vitamin B12.
 
+On cobalt shortfall -
+
+> The bacteria Lactobacillus and Bifidobacterium are among those that are capable of producing vitamin B12. Propionibacterium shermanii in cheese and some species of Streptomyces are found in soil and fermented foods as well. My experience of growing organic stuff for the last 50 yr shows that Streptomyces in soil with organic carbon above 5% produce B12 which has been tested in bottle gaurd too.
+> 
+> These days the fodder that cow eats and the food we eat doesn't contain enough Cobalt as a mineral in available form hence the curd and the gut bacteria can't produce much of B12. 
+> 
+> - Rajesh Gupta
 
 #### Supplements
 - Vegan/ vegetarian 120-250 mg/day. Double in case of high demand (eg. pregnancy)
