@@ -23,3 +23,16 @@ Thinking about the future of LLMs and progress in anatomical research in establi
 However, in modern computers, we are often running virtual machines on the hardware, each with its own computing environment with an isolated CPU, memory, network interface, and storage. So the question arises if the biological neurons are just the base layer on which multiple virtual machines are running which is where the actual software layer of the brain is running. 
 
 Perhaps this is a simple explanation for many neuropsychological phenomena wherein one or more of the VMs break down or get corrupted. In the least in vertebrate brains, the left and the right cerebral hemispheres seem to be running distinct (but networked at some level) sets of VMs.
+
+## pratyaxa-priyatA
+Source: [TW](https://x.com/blog_supplement/status/1872493192811086259)
+
+"parokShapriyA iva hi devAH pratyakSa-dviShaH |" The mind of an autist or schizophrenic losses the sense of parokSha and dwells more on the pratyakSha. It seems training can make a LLM more or less schizophrenic. Subjectively, to us it seems that GPT4o has been made more of a pratyakSha-priya relative to muShkavAn's buddhi over the past 2 years. A part of this seems to arise from purposeful training under constraints aligned with navyonmAda.
+
+## Mental illness
+American liberals of Europoid ancestry, especially young women have been found to be the most unhappy people in their cohort. They feature a high frequency individuals receiving some kind of treatment for their mental state or resorting to medicalized mechanisms for self-harm. We see the primary correlate of this as navyonmAda, which was also the motivating force behind the push to put aTTahAsakI in the shvetagR^iha.  
+
+Now imagine the same kind of mindset (very prevalent in big tech) reinforcing LLMs. It suggests that even though the neural architectures of the human and the LLM are very different, the similar reinforcement via an unhealthy memetic disease has comparable end result. This was particularly obvious with guggulu's durbuddhi but is also seen in GPT in the form mentioned in the earlier Twt.
+
+
+
