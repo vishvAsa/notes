@@ -27,6 +27,9 @@ Springing from काश्यपगोत्र from वङ्गदेश, he 
 ### गङ्गेशोपाध्यायः
 one of the greatest thinkers of भारत from वङ्गदेश; established the नव्यन्याय school, reformulating a brand of logic in a much more complex, sophisticated and rigorous manner; for the old न्याय school was successfully undermined by श्रीहर्श, an आचार्य of अद्वैत.
 
+### रायचौधरी-कुलम्
+> Daksha was the first person in the clan of the Roychoudhurys of the Kashyap Gotra. Dakshinanath, born after 12th generation of Daksha, had three sons. Sukdev, Kamdev and Joydev. Amongst them Kamdev and Joydev were forcibly converted to Islam by a Mahammadan. Sukdev, though he did not convert, maintained his relationship with Kamdev and Joydev, later known as Kamaluddin and Jamaluddin, and became known as Pir-Ali Brahmin, meaning boycotted Brahmin. Any Brahmin with any kind of relation with Sukdev would come to be termed a Pir-Ali Brahmin.
+
 ### मुत्तुस्वामि-दीक्षितः
 A true स्मार्त, he composed on शिव/विष्णु/गणेश/स्कन्द/देवी & who not?! But at the depths of his heart, he was a श्रीविद्योपासक. How fitting that he attained mukti while remembering मीनाक्षी?
 

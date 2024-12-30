@@ -38,7 +38,7 @@ Contemprory of Appayya Dikshit and paramaguru of Sri Raghavendra thirta.Authorit
 - He belonged to Bharadwaja gotra and a Samavedi. (6/n)
 - championed the defense of शैवमत against the churlish, authored many a beautiful स्तोत्र; an ocean of वेद & वेदान्त & a genius of the field of poetics.
 
-- Defeat by bhaTTatiri - See [heliocentricism page](/jyotiSham/history/heliocentrism/).
+- Defeat by bhaTTatiri - See [heliocentricism page](/jyotiSham/astrophysics/history/heliocentrism_spherical_flat_earth/).
 
 
 
