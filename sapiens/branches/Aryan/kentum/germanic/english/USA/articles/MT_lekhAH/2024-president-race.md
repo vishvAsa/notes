@@ -160,3 +160,16 @@ After Syria, the mAhAmlechCha Deep State's latest move is to light a new fire in
 ## Kash Patel
 nari~Nga unleashing the turtle has undoubtedly sent shockwaves. There will be a frenetic reaction: the question is whether the public would ever see it. pichChilaka's turtle is one of the few who has openly spoken truth about duShTa-mukhagiri: like a zairimyangura daeva for the ahurian. Thus, the old allies Big tech and the daNDaka-s would do all they can to prevent the turtle from reaching shore.
 
+##  MAGA infighting
+We had a sneaking feeling right from the beginning that at some point MAGA's "broad tent" will be rent by infighting. It seems that is already underway even before pichChilaka takes the Asandi. Essentially what that branch of MAGA wants is quotas for their perceived racial identity group -- in a sense like the gardabhin-s snagging it pervasively for their chosen identity groups.
+
+While nAri~nga's supporters are saying the quite part out aloud, it should seen that the green card queue for H has been clogged since the reign of the gardabhAnAM bodhisattva, obarAja into that of piNDaka. One will see that this actually negatively affects even the complaining identity group if one works its consequences through.
+
+### Preferential hiring
+While the bitching members of the shvetatvak identity group claim that the H are engaging in preferential hiring of co-ethnics, they would not ask the question of what they would do. Who would they offer to work for given the choice between a H and shvetatvak supervisor? There is no point acting as though they are ethnicity blind. Whom are they more comfortable with given their own attitudes... So, essentially, this is just a simple case of allomisia: nothing surprising in that -- anyone who has been observant will know it exists at some level.
+
+> Everyone prefers American bosses and Hindu subordinates.
+
+Everyone prefers American bosses and Hindu subordinates.
+
+> That's Hindu owned businesses which generally hire other Indians
