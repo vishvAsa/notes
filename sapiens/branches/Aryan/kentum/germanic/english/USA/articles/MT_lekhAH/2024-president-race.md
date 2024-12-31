@@ -168,8 +168,5 @@ While nAri~nga's supporters are saying the quite part out aloud, it should seen 
 ### Preferential hiring
 While the bitching members of the shvetatvak identity group claim that the H are engaging in preferential hiring of co-ethnics, they would not ask the question of what they would do. Who would they offer to work for given the choice between a H and shvetatvak supervisor? There is no point acting as though they are ethnicity blind. Whom are they more comfortable with given their own attitudes... So, essentially, this is just a simple case of allomisia: nothing surprising in that -- anyone who has been observant will know it exists at some level.
 
-> Everyone prefers American bosses and Hindu subordinates.
+> Everyone prefers American bosses and Hindu subordinates... This preference is only in the entry level. Higher level clustering tends to be more visible.
 
-Everyone prefers American bosses and Hindu subordinates.
-
-> That's Hindu owned businesses which generally hire other Indians
