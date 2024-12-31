@@ -19,10 +19,17 @@ It is interesting to note that 𑆯𑇀𑆫𑆵𑆮𑆫 {śrīvara} in his 15th 
 > 
 > - AryAMsha
 
-## Royal identifications
-Various hindu kings styled themselves and their kingdoms as Hindu. Eg. shivAjI's hindavI svarAjya. 
 
-Emperors of vijayanagara called themselves 'hindu-rāya-suratrāṇa'.
+## Royal identifications
+Various hindu kings styled themselves and their kingdoms as Hindu. Eg. shivAjI's hindavI svarAjya. Emperors of vijayanagara called themselves 'hindu-rāya-suratrāṇa'.
+
+Pre-british Hindus understood what Hinduism meant in a religious sense (kRShNadevarAya, shrIvara, sAmbhAjI and rAm singh did not belong to the same sect, yet they understood what "hindu" and "hinduism" meant.) 
+
+The term is always contrasted against non-hindu-s. No muslim or christian is ever referred to as a hindu by them. They are always referred to by other terms (तुरुष्क, म्लेच्छ …).
+
+As an example, consider the famous letter by sambhAjI to mahArAjA rAm singh (presented [here](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v2/persons/marATha/shiva-age/letters/sambhAjI-amber/) with sanskrit original and abridged translation).
+
+Especially striking is "वयं हिन्दूकाः।"
 
 ## Language based
 भविष्य पुराणम् - प्रतिसर्गपर्व - चतुर्थखण्डम् - २८ अध्याय 
