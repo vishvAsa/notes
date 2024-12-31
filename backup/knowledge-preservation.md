@@ -162,6 +162,11 @@ Still, atmospheric pollutants cause acidity and degradation.
 
 - [YT](https://www.youtube.com/watch?v=fAsr4-MT4zc)
 
+Files can be stored on paper - **PaperBack** - 
+
+> If you have a good laser printer with the 600 dpi resolution, you can save up to 500,000 bytes of uncompressed data on the single A4/Letter sheet. Integrated packer allows for much better data density - up to 3,000,000+ (three megabytes) of C code per page. Source: [TW](https://www.ollydbg.de/Paperbak/)
+
+
 #### Pigment Ink
 \~ 50 yrs before beginning to fade.
 
