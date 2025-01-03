@@ -63,6 +63,7 @@ title: Un-schools
 ### अन्ये
 - Otter nature school. sarjapur road.
 - Teach for life, nelamangaLa.
+- [hub](https://hubschooling.com/) - muslim-heavy microschool
 
 ### साम्प्रदायिकतर-गुरुकुलानि
 - purna pramati mAdhva-shAlA - गिरिनगरपरिसरे।
@@ -95,6 +96,9 @@ title: Un-schools
 - बालिकाभ्यः
   - कावेरी-कन्या-गुरुकुलम्, श्रीरङ्गपट्टने
   - मैत्रेयी-गुरुकुलम्
+
+- प्रबोधिनी-गुरुकुलम्, हरिहरपुरम् - राष्ट्रिय-स्वयंसेवक-सङ्घस्य। Source: [TW](https://prabodhinigurukula.org/)
+  - Veda, Vijnana, Yoga, Fine Arts and Agriculture - पञ्चमुखि शिक्षणम्। 
 - Arundhati Gurukulam of Uttaradi Matha -- founded in the lines of Purnapramati -- initially desired only to have girls but did not work out for them, as I come to learn.
 
 ## द्रविडदेशे
