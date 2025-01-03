@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Risk &amp; eval on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/risk_and_evaluation/</link>
+    <description>Recent content in &#43;Risk &amp; eval on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/risk_and_evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Loss functions: labeling multiple data points</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/risk_and_evaluation/Loss_functions_labeling_multiple_data_points/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/risk_and_evaluation/Loss_functions_labeling_multiple_data_points/</guid>
+      <description>Confusion matrix Let For qualitative evaluation, make k*k confusion matrix \(C\) with \(C_{i,j}\) as number of points belonging to class i predicted as belonging to class j.
+A 2x2 example:
+Predicted T Predicted F Actual T 12 3 Actual F 31 13 positive-negative-predictive-value Notation \(U \dfn \) set of all points. \(y(c) \dfn\) points belonging to class c. \(\hat{y}(c) \dfn\) set of points predicted to belong to class c.
+True and false positives True positives: \(tp(c, \hat{y}) \dfn |y(c) \inters \hat{y}(c)|\).</description>
+    </item>
+    
+    <item>
+      <title>Loss functions: labeling single data points</title>
+      <link>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/risk_and_evaluation/Loss_functions_labeling_single_data_points/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/math/probability/statistics/label_prediction/risk_and_evaluation/Loss_functions_labeling_single_data_points/</guid>
+      <description>Different measures of goodness/ error functions are appropriate for different scenarios.
+Loss functions: vector labels Loss functions in this case are often defined to penalize deviation from the actual label symmetrically.
+See loss functions in regression section.
+Loss functions for classification Below we mainly consider the loss functions \(l(\hat{y}, y)\) (where \(\hat{y}\) estimates label y) which are without regularization to account for prior belief. Loss functions used in regression can directly be applied to this case: Eg: like squared difference.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Population model on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/general_biology/society/population-model/</link>
+    <description>Recent content in &#43;Population model on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/general_biology/society/population-model/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discrete Time</title>
+      <link>https://vishvAsa.github.io/notes/general_biology/society/population-model/discrete-time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/general_biology/society/population-model/discrete-time/</guid>
+      <description>General framework Let \(N_t\) be reproducing individuals at time \(t\). Let \(b\) be offspring per individual per generation, who survive to become reproducing adults. Let d = death probability per individual per generation. Then, number of individuals one generation hence is \(N_{t+1} = N_t + Births - Deaths = N_t +b N_t - d N_t = N_t (1 + b - d) = R N_t \). So, \(R ∈ [0, b_{max} + 1]\).</description>
+    </item>
+    
+    <item>
+      <title>Predator Prey cycles</title>
+      <link>https://vishvAsa.github.io/notes/general_biology/society/population-model/predator-prey-cycles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/general_biology/society/population-model/predator-prey-cycles/</guid>
+      <description>Hare lynx cycle lynx-hare-cycle hare–lynx cycle described by Lotka–Volterra equations \(\dfrac{dV}{dt} = rV - aVP \) and \(\dfrac{dP}{dt} = -qP + baVP\). Here V is hare density; P is lynx density; t marks time such that dV/dt gives the rate of change in the hare density and dP/dt similarly for lynx; r, a, b and q are parameters thatdetermine how quickly hares reproduce (r), how many hares are eaten (a) for a given density of lynx and hare, how efficiently eaten hares are converted into lynx offspring (b) and how quickly lynx die when food is in short supply (q).</description>
+    </item>
+    
+  </channel>
+</rss>
