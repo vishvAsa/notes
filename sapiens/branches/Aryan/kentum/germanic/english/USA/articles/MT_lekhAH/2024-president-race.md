@@ -170,3 +170,12 @@ While the bitching members of the shvetatvak identity group claim that the H are
 
 > Everyone prefers American bosses and Hindu subordinates... This preference is only in the entry level. Higher level clustering tends to be more visible.
 
+## Undermining
+
+Source: [TW](https://x.com/blog_supplement/status/1875411048041156882)
+
+It is unlikely piNDaka's puppet masters quietly step back when nAri~NgarAja seizes the Asandi from their puttalika. In particular, the wicked ones like nimeShaka, sullaka and khalvATa have probably already laid the foundations to undermine the pichChilaka. 
+
+We posit that this would mean poisoning foreign relations like those with bhArata. Their agents will also continue to keep causing trouble even as they place roadblocks to nari~Nga's people like the H surasA. 
+
+Even when outside the govt, they would have the backing from sora and soraputra at the like. Their agents will act to break the nAri~Nga-lATeshvara synergy from last time.
