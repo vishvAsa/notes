@@ -4,6 +4,11 @@ title = "+Identity"
 
 For Hindu ID theory, see [separate](/kalpAntaram/dharmaH/vishvAsaH/meta-dharma/social-cultivation/hindu-id/) page.
 
+## Resistance to conversion
+
+The Hindu identity provides some resistance from pressure to convert to Abrahamisms.
+
+- Relatively more successful resistance to Christianity in Manipur (which is 46% Hindu, compared with a small minority in Nagaland \[[History](https://agnimaan.wordpress.com/2015/07/03/shifting-from-manupur-to-nagaland-christian-missionaries-resisted-by-vaishnavism/)\].
 
 
 ## Problematic stereotyping and omissions
