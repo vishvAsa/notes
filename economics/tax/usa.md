@@ -101,20 +101,20 @@ Not paid by the recipient of the estate (the inheritor), but by the estate.
 ### Residency and citizenship
 Residency/ citizenship matters - this is slightly different from the income-tax case.
 
-#### Citizen or US resident
+#### Citizen or US resident estate
 U.S. citizens are subject to U.S. estate taxation with respect to their worldwide assets, even if they are not residents of the U.S.
 
 There is a "lifetime exemption" - Estates of up to $11.4 million are free of tax, and from that point on, anything additional above that mark gets taxed at 40%. - from [MF19](https://www.fool.com/taxes/2019/01/10/2019-estate-tax-rates.aspx)
 
-#### Payment
+##### Payment
 An estate tax return, Form 706, is required for a deceased U.S. citizen if the fair market value at death of the decedent's worldwide assets plus the value of the decedent's adjusted taxable gifts exceeds the basic exclusion amount in effect on the date of death.
 
-#### Non resident aliens
+#### Non resident aliens' estate
 Certain deceased nonresidents who were not citizens of the United States are subject to U.S. estate taxation with respect to their U.S.-situated assets.
 
 Non-resident aliens have a $60,000 exclusion in the absence of an estate tax treaty. Applies to Indians.
 
-#### Payment
+##### Payment
 - An executor for a nonresident, not a citizen of the U.S. must file an estate tax return Form 706-NA if the fair market value at death of the decedent's U.S.-situated assets exceeds $60,000.
 
 
