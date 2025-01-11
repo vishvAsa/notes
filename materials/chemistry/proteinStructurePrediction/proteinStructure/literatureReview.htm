@@ -1,0 +1,317 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN">
+<html>
+<head>
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+
+
+
+
+
+  
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>Protein Structure prediction literature review</title>
+  <link rel="stylesheet" href="../contentStylesheet.css" type="text/css">
+</head>
+
+
+<body>
+
+
+
+
+
+
+<h1>Protein structure prediction: Literature review</h1>
+
+
+
+
+<small>Disclaimer: In the reviews below, portions of the original
+articles are presented verbatim - The authors have worked hard on it,
+after all.</small><br>
+<h3>Sections:</h3>
+
+
+
+
+<h3>Protein Structure prediction:</h3>
+
+
+<h4>
+		Brunette, TJ and Oliver Brock.
+		Improving Protein Structure Prediction 
+		with Model-Based Search.
+		<i>Bioinformatics</i> 21(Suppl. 1):66-74, June 2005.<br>
+
+
+
+		Special Issue for the <i>International Conference on
+		Intelligent Systems for Molecular Biology</i> (ISMB), 
+		Detroit, USA</h4>
+
+
+<p><a href="http://robotics.cs.umass.edu/%7Eoli/publications/src/2005-ismb.pdf">URL</a></p>
+
+
+<p>This extract from&nbsp;the abstract says it all: "De
+novo protein structure prediction can be formulated as search in a
+high-dimensional space. One of the most frequently used computational
+tools to solve such search problems is the Monte Carlo method. We
+present a novel search technique, called model-based search. This
+method samples the high-dimensional search space to build an
+approximate model of the underlying function. This model is
+incrementally refined in areas of interest, whereas areas that are not
+of interest are excluded from further exploration." "The proposed method can be viewed as an active learning technique."</p>
+
+
+<h5>Related work:</h5>
+<ul>
+  <li>"Computational approaches to protein structure prediction use
+search to determine the minimum of an energy function, with the notable
+exception of comparative modeling. Owing to the tremendous size of the
+search space (Levinthal, 1968), most methods search by following the
+gradient of the energy landscape. The most commonly applied
+computational paradigm to perform such gradient descent is the Monte
+Carlo method. It performs a random walk of the energy landscape,
+accepting only new states that are lower in energy than the current
+one. To escape the numerous local minima encountered during this
+gradient descent, the Metropolis criterion (Metropolis and Ulam, 1949)
+is employed, accepting increases in energy with a probability inversely
+proportional to the increase in energy. The Metropolis Monte Carlo
+algorithm is based on the Boltzmann equation: increasing the
+temperature variable in the Boltzmann equation increases the
+probability of accepting neighboring states with higher energy."</li>
+  <li>Simulated annealing slowly lowers the temperature. &nbsp;Jump walking jumps between high and low temperatures.</li>
+  <li>Parallel tempering performs multiple Monte Carlo runs in parallel in various temperatures.</li>
+  <li>"The insight that amino acid sequences with a high degree of
+homology often fold into similar 3D structures has been used very
+successfully to reduce the overall search space and consequently to
+increase the ef&#64257;ciency of search." Rosetta does this. "The search for
+the global minimum in the Rosetta&rsquo;s approximate energy function
+begins with an arbitrarily initialized protein structure, called the
+decoy. This structure is incrementally re&#64257;ned using a Monte Carlo
+fragment insertion strategy to replace the conformations of short
+protein fragments from the decoy with those retrieved from a fragment
+library."</li>
+  <li>"Tabu search&nbsp;in its simplest form designates undesirable
+regions of conformation space &lsquo;tabu&rsquo;, thereby biasing
+computation toward more relevant regions."</li>
+</ul>
+<h5>Procedure notes:</h5>
+<p>The implementaion is built upon the Rosetta fragment replacement strategy, using the Rosetta energy function.
+"Initially, the decoys are generated randomly. Additional samples are
+generated from existing samples by applying Rosetta&rsquo;s fragment
+replacement strategy. At each stage of the search, samples are
+generated and their energy is determined using Rosetta&rsquo;s energy
+function. The adjacency relationship among samples is analyzed to
+compute and re&#64257;ne the model." (<small>So, they calculate distance
+between decoy and the generated models. But, they do not calculate the
+value of the energy function for all these models.&nbsp;Here is where
+they cleverly apply "model based search".</small>)</p>
+<p>"Samples with locally minimal energy relative to their neighbors are
+considered to be the bottom of a well. The distance to the nearest
+neighbors captures the size of this well. This representation of a
+local region of search space can be used to guide future exploration of
+the search space." "The scoring function used for the experiments
+weighs the well size more heavily to bias exploration toward regions
+underrepresented in the model."</p>
+<h5>Result:</h5>
+<p>"This search procedure is experimentally shown to &#64257;nd lower-energy
+conformations than the Monte Carlo-based search method employed by
+Rosetta."</p>
+<p>"The results also indicate that the performance of model based
+search degrades in higher-dimensional search spaces. This degradation
+occurs much more slowly than with other search methods."</p>
+<p>The results also show that Rosetta&rsquo;s energy function becomes
+increasingly inaccurate for larger proteins, and also for very short
+proteins. "For larger proteins, however, the discrepancy between the
+energy of decoys obtained using model-based search and the native
+structure cannot be explained solely by the energy function." "We
+attribute this to the fact that the amount of information obtained
+during the search process is not suf&#64257;cient to focus the search on
+relevant regions. We will therefore explore the inclusion of domain
+information, as represented in protein structure databases, for
+example, to initialize the model." "Possible improvements to
+model-based search may be concerned with the underlying model used to
+represent the information obtained during search." (<small>I did not understand this part.</small>)</p>
+
+<p>I think that this excellent technique should find its way into AI textbooks.</p>
+
+
+<h4>
+		Brock, Oliver and TJ Brunette. 
+		Predicting Protein Structure with Guided Conformation
+		Space Search.
+		Technical Report 05-63.
+		Computer Science Department,
+		University of Massachusetts Amherst,
+		November 2005.</h4>
+
+
+<p><a href="http://robotics.cs.umass.edu/%7Eoli/publications/src/tr05-63.pdf">URL</a></p>
+
+
+<p>The abstract states: "We propose a novel computational framework for protein structure prediction."
+... "We propose a framework for protein structure prediction that
+achieves biological accuracy and computational efficiency by guiding
+conformation space search using target-specific information. The
+proposed framework exploits information about the characteristics of
+the target&rsquo;s energy landscape acquired continuously during search."</p>
+
+
+<p>The
+content of this report is a proper subset of the NIH grant proposal
+with award number NIGMS 1R01GM076706. It incorporates the results of the article "Brunette, TJ and Oliver Brock.
+		Improving Protein Structure Prediction 
+		with Model-Based Search".</p>
+
+
+<h4>NIH
+in the NIGMS division: Predicting Protein Structure with Guided
+Conformation Space Search, award number NIGMS 1R01GM076706 : Oliver
+Brock</h4>
+
+
+
+
+<p><a href="http://www.researchgrantdatabase.com/1R01GM076706.html">URL</a></p>
+
+
+<p>The proposal abstract says it all: "We propose to develop a framework for protein structure prediction that
+achieves biological accuracy and computational efficiency by guiding
+conformation space search using target-specific information. The
+proposed framework exploits two sources of target-specific information:
+1) information about the characteristics of the target&acute;s energy
+landscape acquired continuously during search, and 2) spatial
+restraints about the target&acute;s structure obtained from NMR experiments."</p>
+
+
+<h4><span style="font-weight: bold;"></span> 
+                
+                  M Moll, D Schwarz, LE Kavraki. Roadmap Methods for Protein Folding</h4>
+
+
+<a href="http://www.isi.edu/%7Emoll/publications/moll2007roadmap-methods-for-protein-folding.pdf">URL</a>
+<h4> Park, S.-J.&nbsp;A Study of Fragment-Based Protein Structure
+Prediction: Biased Fragment Replacement for Searching Low-Energy
+Conformation</h4>
+
+
+<p><a href="http://www.jsbi.org/journal/GIW05/GIW05F027.pdf">URL</a></p>
+
+
+<h3>Structure learning in bayesian networks:</h3>
+
+
+<h4>Herscovici, Avi and Oliver Brock.
+		Improving High-Dimensional Bayesian Network Structure
+		Learning by Exploiting Search Space Information.
+		Technical Report 06-49.
+		Computer Science Department,
+		University of Massachusetts Amherst,
+		October 2006.</h4>
+
+
+<p><a href="http://www-robotics.cs.umass.edu/%7Eoli/publications/src/tr06-49.pdf">URL</a></p>
+
+
+The abstract says this: "We present Model-Based Search (MBS) applied to
+Bayesian network structure learning." ... "We show that MBS performs
+better than hill climbing in the Max-Min Parents and Children (MMPC)
+[30] search space and can find better high-dimensional network
+structures than other leading structure learning algorithms."
+<h5>Things not understood:</h5>
+
+
+<p>"Bayesian network structure learning". As of 17th July 2007, I lack
+knowledge about that topic. This deficiency must be corrected by
+reading a text book.</p>
+
+
+<h4>
+		Avi Herscovici and Oliver Brock.
+		Improved Search for Structure Learning of Large 
+		Bayesian Networks.
+		Technical Report 07-38.
+		Computer Science Department,
+		University of Massachusetts Amherst,
+		July 2007.</h4>
+
+
+<p><a href="http://www-robotics.cs.umass.edu/%7Eoli/publications/src/07-38.pdf">URL</a></p>
+
+
+<p>This work seems to be similar in theme to the UMass Technical Report 06-49.</p>
+
+
+<h3>Protein conformation space search:</h3>
+
+
+<h4>
+		Lee, Audrey, Oliver Brock, and Ileana Streinu.
+		A Methodology for Efficiently Sampling the
+		Conformation Space of Molecular Structures.
+		Technical Report 05-40.
+		Computer Science Department,
+		University of Massachusetts Amherst,
+		July 2005.</h4>
+
+
+<p><a href="http://robotics.cs.umass.edu/%7Eoli/publications/src/tr05-40.pdf">URL<span style="font-weight: bold;"></span></a></p>
+
+
+<p><a href="http://robotics.cs.umass.edu/%7Eoli/publications/src/tr05-40.pdf"><span style="font-weight: bold;"></span></a></p>
+
+
+<h4>
+		Lee, Audrey, Ileana Streinu, and Oliver Brock.
+		A Methodology for Efficiently Sampling the
+		Conformation Space of Molecular Structures.
+		<i>Physical Biology</i> 2:S108-S115, November 2005.</h4>
+
+
+<p><a href="http://robotics.cs.umass.edu/%7Eoli/publications/src/2005-physicalbiology.pdf">URL</a></p>
+
+
+<p>The abstract says: "By modeling a molecular structure as a <i>branching robot</i>, we use
+an intuitive method in which the robot holds onto itself for
+maintaining loop constraints. New conformations are generated by
+applying random <i>external forces</i>, while <i>internal</i>, <i>attractive forces</i> pull the loops closed."</p>
+
+
+<p>A Shehu, C Clementi, LE Kavraki - Proteins Struct. Funct. Bioinf,
+2006. Modeling Protein Conformational Ensembles: From Missing Loops to
+Equilibrium Fluctuations</p>
+
+
+<p><a href="http://leonardo.rice.edu/%7Ececilia/publications/files/ShehuClementiKavraki_Proteins2006.pdf">URL</a></p>
+
+
+<p><small>--Compiled
+by <a target="_top" href="../index.html">Vishvas
+Vasuki</a></small></p>
+
+
+</body>
+</html>
