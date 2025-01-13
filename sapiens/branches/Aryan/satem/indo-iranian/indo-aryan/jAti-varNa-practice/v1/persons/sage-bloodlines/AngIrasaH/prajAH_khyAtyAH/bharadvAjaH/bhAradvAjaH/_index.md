@@ -20,6 +20,7 @@ One of the earliest, classical commentators for sangam-era tamiL classics includ
 great scholar from kashmIra. He lived in the 800-900s of CE and was associated with
 the dictatorial king shankaravarman.
 
+
 ### विजयनगरमन्त्रिणः
 - माधवो विद्यारण्यः, तद्भ्राता सायणः, अपरो मन्त्री माधवः शैवः, गोपणार्यः - [विजयनगरपृष्ठेषु](/notes/history/paganology/Aryan/indo-iranian/indo-aryan/persons/xatra/vijayanagara/1_Founder_age/) वर्णिताः।
 
@@ -29,8 +30,11 @@ another luminary of the भारद्वाज गोत्र in the vijayana
 ### वल्लभाचार्यः
 great debator, fine poet.  
 
+### जीव-गोस्वामी
+यजुर्वेदी सर्वज्ञः कर्णाटराजः ९०३ शके। → अनिरुद्धः → हरिहरः, रूपेश्वरः → पद्मनाभः → मुकुन्ददेवः → कुमारदेवः → … रूपः, सनातनः, अनुपमः, वल्लभः → जीवः १४३३ शकाब्दे। 
+
 ### विजयेन्द्रतीर्थः
-Contemprory of Appayya Dikshit and paramaguru of Sri Raghavendra thirta.Authoritative in Vedanta and 64 arts. He is the founder of Kumbakkona  mutt
+Contemprory of Appayya Dikshit and paramaguru of Sri Raghavendra thirta. Authoritative in Vedanta and 64 arts. He is the founder of Kumbakkona  mutt
 
 ### अप्पय्य-दीक्षितः
 - his ancestors were from the banks of Narmada and slowly moved to North Arcot due to disturbances in North.
