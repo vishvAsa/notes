@@ -114,6 +114,10 @@ title: Un-schools
 - shrI-gurukulam [SG](https://shrigurukulam.org/), Chengalpet  
 - [agastya Academy](https://www.youtube.com/watch?v=tRwnyOzOXus), Waldorf inspired day cum residential  CBSE School located in Arachalur, in the outskirts of Erode, TamilNadu. The school was started in the year 2018. It is a 30 acre green campus. Morning farming, yoga, music, sports, non-competitive till age 10, dorms.
 
+कला-गुरुकुलानि
+
+- [कलाक्षेत्रम्]() । 
+
 ## आन्ध्र-प्रदेशे
 - Rishi vATikA chittUr [TW](https://rishivatika.in/rishi-vatika-gurukulam/)
 
