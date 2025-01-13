@@ -61,6 +61,10 @@ title: Un-schools
 
 
 ### अन्ये
+- Vishwa Vidyapeeth Vikramashila, Singanayakanahalli
+  - [TW](https://vishwavidyapeeth.edu.in/)
+  - ICSE pre-noon; physical activity post.
+  - Said to be trying few weeks residential gurukula mode
 - Otter nature school. sarjapur road.
 - Teach for life, nelamangaLa.
 - [hub](https://hubschooling.com/) - muslim-heavy microschool
@@ -106,8 +110,9 @@ title: Un-schools
   - Future - Brahmadesam village, near Kanchipuram in Tamilnadu
 - ubhaya-bhAratI kanyA gurukulam, senkoTTai [YT](https://youtu.be/kNrTgveETUc?si=m2Xhc-B3-Osc9o5I)
 - [dharma gurukulam, anAdi](https://sites.google.com/anaadi.org/dharmagurukulam/homeschool), Palani.
-- [agastya Academy](https://www.youtube.com/watch?v=tRwnyOzOXus), Waldorf inspired day cum residential  CBSE School located in Arachalur, in the outskirts of Erode, TamilNadu. The school was started in the year 2018. It is a 30 acre green campus. Morning farming, yoga, music, sports, non-competitive till age 10, dorms.
 - Sampradaya Pathashala of Kanchi Matham - a traditionalist female gurukula [SG](https://sampradaya.org)
+- shrI-gurukulam [SG](https://shrigurukulam.org/), Chengalpet  
+- [agastya Academy](https://www.youtube.com/watch?v=tRwnyOzOXus), Waldorf inspired day cum residential  CBSE School located in Arachalur, in the outskirts of Erode, TamilNadu. The school was started in the year 2018. It is a 30 acre green campus. Morning farming, yoga, music, sports, non-competitive till age 10, dorms.
 
 ## आन्ध्र-प्रदेशे
 - Rishi vATikA chittUr [TW](https://rishivatika.in/rishi-vatika-gurukulam/)
