@@ -17,3 +17,21 @@ tireless in his pursuit of वेदरक्षण, he shaped the आचार 
 - With a crusader's zeal, he spared no efforts to purge the doctrines foreign to and opposed to the Shankara school, which were attributed to Shankara by the later subcommentators. 
 - His life was an incessant battle with antagonistic forces with affilictions, social obligations, philistine opposition, weak health and what is most inexhorable, finance. However his perseverance against all odds saw to the establishment of Adhyatma Prakasha Karyalaya.
 - He was a prolific writer having authored over two hundred books on Vedanta in Kannada, Sanskrit and English.
+
+### श्रीधर-दुष्यन्तः
+- With his fluency in English, Hindi and Tamil, 
+- he is a much sought-after speaker on Hindu spiritual topics, including the Ramayana, Mahabharata, Bhagavata Mahapurana, Vishnu Purana, Divya Prabandham, and the lives and works of Hindu saints.
+  -  a wide spectrum of audience following on YouTube with 100 million views and 2500 videos
+- Has collaborated with eminent musicians to deliver discourses in the harikathā style
+- often interviewed on television channels for his views on sanātana dharma.
+- Dushyanth Sridhar has organized heritage tours to 200 temples with over 3,500 yātrīs.
+- Movies - 'Vedānta Deśika' (actor), Śākuntalaṃ (director)
+- conceptualized, scripted and directed large dance productions such as Agre Pashyāmi, Rāmāyana Sudhā, Srinivāsam Prapadye, Aranganin Pādaiyil, Rāmānuja Darshanam, Bhāvayāmi Raghurāmamand Vedānta Desika Charitram with leading choreographers
+- Books
+  - Rāmāyaṇam (Volume 1) (has several deficiencies regarding hirstorification attempts) for HarperCollins India Publishers in 2024 
+  - a coffee-table book in English titled "Vedānta Desika – the peerless poet-preceptor"
+- Runs Desika Dayā charity.
+
+He is said to have learnt (parts of) Śrī Bhāṣyam, Gītā Bhāṣyam, Rahasya Traya Sāram, Bhagavad Viṣayam, Śatadūṣaṇī and Tirunetuntāṇṭakam from ācāryas like Villivalam Śrī Nārāyaṇa Mahādeśika, Nāvalpākkam Śrī Rāmānuja Tātācār, Cetlur Śrī Śrīvatsānkācār, Nelvoy Śrī Soumyanārāyaṇācār, Villur Śrī Karuṇākarācār and Devanārvilāgam Śrī Sāranāthācār.
+
+
