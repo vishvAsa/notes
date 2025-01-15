@@ -1,0 +1,34 @@
++++
+title = "+Lowell 35"
+
++++
+
+Biography of Percival Lowell, by A. Lawrence Lowell
+
+START OF THE PROJECT GUTENBERG EBOOK 51900
+
+
+
+THE MACMILLAN COMPANY  
+NEW YORK · BOSTON · CHICAGO · DALLAS · ATLANTA · SAN FRANCISCO
+
+MACMILLAN & CO., Limited  
+LONDON · BOMBAY · CALCUTTA · MELBOURNE
+
+THE MACMILLAN COMPANY OF CANADA, Limited  
+TORONTO
+
+PERCIVAL LOWELL AGE 61  
+From a silver point portrait begun before his death and finished afterwards by Eccolo Cartollo
+
+BIOGRAPHY OF PERCIVAL LOWELL
+
+_By_  
+A. LAWRENCE LOWELL
+
+NEW YORK  
+THE MACMILLAN COMPANY  
+1935
+
+_Copyright, 1935, by_  
+THE MACMILLAN COMPANY.
