@@ -73,48 +73,39 @@ title: Un-schools
 - purna pramati mAdhva-shAlA - गिरिनगरपरिसरे।
   - [अत्र](https://purnapramati.in/programs/)। 
   - Students seated on floor study shAstra-s.
+- Arundhati Gurukulam of Uttaradi Matha -- founded in the lines of Purnapramati -- initially desired only to have girls but did not work out for them, as I come to learn. Source: [TW](http://arundhatigurukulam.com/)
 - वेद-विज्ञान-गुरुकुलम्
 - "शुभं करोति" [web](https://shubhamkarotigurukula.com/)
 - Om Shanti Dhaama, Kanakapura, Bengaluru, 90 kms from Bangalore on the banks of Cauvery.
+
+
+
+## कर्णाटके
+- बालिकाभ्यः
+  - कावेरी-कन्या-गुरुकुलम्, श्रीरङ्गपट्टने  [TW](http://cauverygurukulam.com/)
+  - मैत्रेयी-गुरुकुलम् [TW](https://www.maitreyeegurukulam.org/)
+- shankara-gurukulam near maddUr. [TW](https://www.shankaragurukulam.org/).
+- प्रबोधिनी-गुरुकुलम्, हरिहरपुरम् - राष्ट्रिय-स्वयंसेवक-सङ्घस्य। Source: [TW](https://prabodhinigurukula.org/)
+  - Veda, Vijnana, Yoga, Fine Arts and Agriculture - पञ्चमुखि शिक्षणम्। 
 
 ### वेद-पाठशालाः
 - मत्तूरु-ग्रामः
 - दक्षिण-नैमिषारण्ये ऽहोबिल-मठ-सम्बद्धा
 
 
-## जाल-शिक्षणम्
-- Arise gurukulam - [Here](https://academy.arisegurukulam.com/).
-  - Offline campus - RR Nagar
-
-### अगस्त्य-गुरुकुलम् 
-- [जालक्षेत्रम्](https://www.agastyagurukulam.org/) ।
-- Levels - Ak 1,2, padam1, Vaakyam1,2, kaaNDam1,2
-- अक्षरस्तरे
-  - विषयाः 
-    - नित्याः - योगः , कण्ठस्थीकरणम्, assembly, संस्कृतम्, इतिहासभूगोले, 
-    - सप्ताहे त्रयो ऽवधयः - गणितम्, आङ्ग्लं, हिन्दी, कन्नडम्, तॆलुगु, द्राविडम्
-    - प्रतिसप्ताहं सकृत् - सम्भाषणम्, कला। 
-  - २०२१-२२ - ६००० मासाय। (मत्पुत्रो ऽधिका भाषा अध्येति - तेन प्रतिविषयं 1,250 इत्य् अधिकम्। )
-
-## कर्णाटके
-- बालिकाभ्यः
-  - कावेरी-कन्या-गुरुकुलम्, श्रीरङ्गपट्टने
-  - मैत्रेयी-गुरुकुलम्
-
-- प्रबोधिनी-गुरुकुलम्, हरिहरपुरम् - राष्ट्रिय-स्वयंसेवक-सङ्घस्य। Source: [TW](https://prabodhinigurukula.org/)
-  - Veda, Vijnana, Yoga, Fine Arts and Agriculture - पञ्चमुखि शिक्षणम्। 
-- Arundhati Gurukulam of Uttaradi Matha -- founded in the lines of Purnapramati -- initially desired only to have girls but did not work out for them, as I come to learn.
-
 ## द्रविडदेशे
 - [मेधा शास्त्र-गुरुकुलम्](https://sites.google.com/view/sastrapatashala) [alt](https://www.medhagurukulam.org/gurukulam), Nanganallur, Chennai - Admits girls with own accommodation too.
   - Future - Brahmadesam village, near Kanchipuram in Tamilnadu
-- ubhaya-bhAratI kanyA gurukulam, senkoTTai [YT](https://youtu.be/kNrTgveETUc?si=m2Xhc-B3-Osc9o5I)
 - [dharma gurukulam, anAdi](https://sites.google.com/anaadi.org/dharmagurukulam/homeschool), Palani.
-- Sampradaya Pathashala of Kanchi Matham - a traditionalist female gurukula [SG](https://sampradaya.org)
 - shrI-gurukulam [SG](https://shrigurukulam.org/), Chengalpet  
 - [agastya Academy](https://www.youtube.com/watch?v=tRwnyOzOXus), Waldorf inspired day cum residential  CBSE School located in Arachalur, in the outskirts of Erode, TamilNadu. The school was started in the year 2018. It is a 30 acre green campus. Morning farming, yoga, music, sports, non-competitive till age 10, dorms.
 
-कला-गुरुकुलानि
+### कन्याः
+- ubhaya-bhAratI kanyA gurukulam, senkoTTai [YT](https://youtu.be/kNrTgveETUc?si=m2Xhc-B3-Osc9o5I)
+- Sampradaya Pathashala of Kanchi Matham - a traditionalist female gurukula [SG](https://sampradaya.org)
+
+
+### कला-गुरुकुलानि
 
 - [कलाक्षेत्रम्]() । 
 
@@ -135,3 +126,17 @@ title: Un-schools
 - वैदिक-भारतम्‌ / सुपर्णा
   - मोहित-गुरुकुलं सुवर्णप्रस्थे
   - जनक-चालितं व्याघ्रप्रस्थे
+
+## जाल-शिक्षणम्
+- Arise gurukulam - [Here](https://academy.arisegurukulam.com/).
+  - Offline campus - RR Nagar
+
+### अगस्त्य-गुरुकुलम्
+- [जालक्षेत्रम्](https://www.agastyagurukulam.org/) ।
+- Levels - Ak 1,2, padam1, Vaakyam1,2, kaaNDam1,2
+- अक्षरस्तरे
+  - विषयाः
+    - नित्याः - योगः , कण्ठस्थीकरणम्, assembly, संस्कृतम्, इतिहासभूगोले,
+    - सप्ताहे त्रयो ऽवधयः - गणितम्, आङ्ग्लं, हिन्दी, कन्नडम्, तॆलुगु, द्राविडम्
+    - प्रतिसप्ताहं सकृत् - सम्भाषणम्, कला।
+  - २०२१-२२ - ६००० मासाय। (मत्पुत्रो ऽधिका भाषा अध्येति - तेन प्रतिविषयं 1,250 इत्य् अधिकम्। )

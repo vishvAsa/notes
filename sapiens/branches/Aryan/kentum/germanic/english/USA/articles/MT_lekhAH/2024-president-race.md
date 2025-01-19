@@ -179,3 +179,13 @@ It is unlikely piNDaka's puppet masters quietly step back when nAri~NgarAja seiz
 We posit that this would mean poisoning foreign relations like those with bhArata. Their agents will also continue to keep causing trouble even as they place roadblocks to nari~Nga's people like the H surasA. 
 
 Even when outside the govt, they would have the backing from sora and soraputra at the like. Their agents will act to break the nAri~Nga-lATeshvara synergy from last time.
+
+The Parthian shot that duShTa-piNDaka just fired sounds ominous. It should be taken seriously by the H. The ati-duShTa-s like nimeShaka and sullaka have probably laid the ground work for these "flowers to bloom" even after nAri~Nga deposes them in 4 days.
+
+## Israel vs Hamas
+Now that it has become clear that it was pichChilaka's agents rather than duShTa nimeShaka who was involved in the Israel-Pal ceasefire, one of the more outre theories that can be trotted out is a possible card of the ghost of the deceased Apastiya.
+
+
+## Parting message
+mlechCharAT vR^iddha-piNDaka's parting message copying his predecessor Eisenhower +++("military industrial complex")+++ is either a strange true flashback about his own regime or projection. But in America, they only do prAtaHsaMdhyA and a subset of his backers like duShTa mukhagiri and to a degree, even duShTa sundarbhikShu and khalvATa have moved on to do arghya to the sunrise.
+
