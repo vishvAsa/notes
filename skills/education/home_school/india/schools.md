@@ -90,12 +90,14 @@ title: Un-schools
 
 ### वेद-पाठशालाः
 - मत्तूरु-ग्रामः
-- दक्षिण-नैमिषारण्ये ऽहोबिल-मठ-सम्बद्धा
+- दक्षिण-नैमिषारण्ये ऽहोबिल-मठ-सम्बद्धा [Temple](https://lakshmi-narasimha.org/contact/).
+- kuDali shankaramaTha gurukula - [TW](https://youtu.be/560L2lqwwS4?t=697)
 
+The female teacher there is a graduate of https://www.tmv.edu.in/ - I have the impression that there is some such "finishing school" for girls in puNe too.
 
 ## द्रविडदेशे
-- [मेधा शास्त्र-गुरुकुलम्](https://sites.google.com/view/sastrapatashala) [alt](https://www.medhagurukulam.org/gurukulam), Nanganallur, Chennai - Admits girls with own accommodation too.
-  - Future - Brahmadesam village, near Kanchipuram in Tamilnadu
+- [मेधा शास्त्र-गुरुकुलम्](https://sites.google.com/view/sastrapatashala) [alt](https://www.medhagurukulam.org/gurukulam), Nanganallur, Chennai - Future - Brahmadesam village, near Kanchipuram in Tamilnadu
+  - As of 2025, it is residential only for boys, girls can study as day scholars. There are plans to build a campus which will be residential for girls also.
 - [dharma gurukulam, anAdi](https://sites.google.com/anaadi.org/dharmagurukulam/homeschool), Palani.
 - shrI-gurukulam [SG](https://shrigurukulam.org/), Chengalpet  
 - [agastya Academy](https://www.youtube.com/watch?v=tRwnyOzOXus), Waldorf inspired day cum residential  CBSE School located in Arachalur, in the outskirts of Erode, TamilNadu. The school was started in the year 2018. It is a 30 acre green campus. Morning farming, yoga, music, sports, non-competitive till age 10, dorms.
@@ -119,7 +121,10 @@ title: Un-schools
 > Vidyaranyam aims to provide a comprehensive education to students free of charge, focusing primarily on the study of Rigveda, Krishna Yajurveda, Sanskrit, Sangeetham (including Mridangam and Flute), Go seva and Go care for a duration of 12 years, beginning at the primary school level and continuing through university education. This education will be the main focus of the NIOS Board Curriculum, enabling students to take the Secondary (Grade 10) and Senior Secondary (Grade 12) exams. Additionally, students will have the opportunity to pursue a Bachelor’s or Master’s degree in Vedic Studies. The program will also offer specialised training in English communication and computer skills.  
 > Source: [TW](https://vidyaranyam.in/)।
 
-
+## महाराष्ट्र-कोङ्कणयोः
+- श्रीविद्या-पाठशाला, Devdutt Patilji's Gurukulam in Rivona, Goa.
+- पुण्य-पट्टने - I have the impression that there is some such "finishing school" for girls in puNe too.
+  -  https://www.tmv.edu.in/ इत्यपि।
 
 ## उत्तर-भारते
 ### वेद-पाठशालाः

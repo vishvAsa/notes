@@ -189,3 +189,5 @@ Now that it has become clear that it was pichChilaka's agents rather than duShTa
 ## Parting message
 mlechCharAT vR^iddha-piNDaka's parting message copying his predecessor Eisenhower +++("military industrial complex")+++ is either a strange true flashback about his own regime or projection. But in America, they only do prAtaHsaMdhyA and a subset of his backers like duShTa mukhagiri and to a degree, even duShTa sundarbhikShu and khalvATa have moved on to do arghya to the sunrise.
 
+## CA fire
+It seems the kapilAraNya-dahana has consumed the elegant art of vyAdha-piNDaka as poignant closure to the regimes of the atiduShTasora-backed vR^iddha. With that piNDakAyanI's mithyA-dhana has also probably become shUNya.
