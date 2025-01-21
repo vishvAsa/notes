@@ -191,3 +191,17 @@ mlechCharAT vR^iddha-piNDaka's parting message copying his predecessor Eisenhowe
 
 ## CA fire
 It seems the kapilAraNya-dahana has consumed the elegant art of vyAdha-piNDaka as poignant closure to the regimes of the atiduShTasora-backed vR^iddha. With that piNDakAyanI's mithyA-dhana has also probably become shUNya.
+
+## viveka fired
+Wonder what happened to viveka: There seem to be 3 broad explanations: 
+
+1. He was fired by nAri~Nga/his court. 
+2. He clashed with muShkavAn and his men like the varShapuruSha. 
+3. He organically left to pursue lower political ambitions. 
+
+We have a suspicion that nAri~Nga/muShkavAn's inner circle has advised the mlechCharAT to cut him loose. They probably sense him as a self-promoter with too high ambitions for their taste. 
+
+One possible trajectory is that he tries his hand with lower political offices, crashes and burns out and eventually fades away.
+
+## Comical
+The nAri~NgapuruSha has svAbhAvika comedic element. Perhaps he means to be serious but still comes across as funny

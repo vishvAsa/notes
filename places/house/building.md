@@ -2,6 +2,12 @@
 title = "Building"
 +++
 
+## Longevity of elements
+- Ceramic Tiles and stone - lasts millennia
+- Logs - last 1k years in japan, with wood joints.
+- Mud/ brick walls protected by long roof extensions - hundreds of years
+- RCC - avg 100 years.
+
 ## Frames
 ### Supporting wall
 - Lower steel use compared to other options.
