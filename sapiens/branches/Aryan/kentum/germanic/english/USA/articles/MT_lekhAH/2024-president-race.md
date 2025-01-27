@@ -193,6 +193,9 @@ mlechCharAT vR^iddha-piNDaka's parting message copying his predecessor Eisenhowe
 It seems the kapilAraNya-dahana has consumed the elegant art of vyAdha-piNDaka as poignant closure to the regimes of the atiduShTasora-backed vR^iddha. With that piNDakAyanI's mithyA-dhana has also probably become shUNya.
 
 ## viveka fired
+
+One wonders if viveka has become so sincere a believer in the American system (as idealized by him) that he has become blind to its real contours. He's a very sharp guy; so, I cannot rule that out, but I'd have thought he'd show some self-awareness if that were the case. However, I agree, that as it often happens in the mlechCha system the H is left with little wiggle room.
+
 Wonder what happened to viveka: There seem to be 3 broad explanations: 
 
 1. He was fired by nAri~Nga/his court. 
@@ -203,5 +206,9 @@ We have a suspicion that nAri~Nga/muShkavAn's inner circle has advised the mlech
 
 One possible trajectory is that he tries his hand with lower political offices, crashes and burns out and eventually fades away.
 
+
 ## Comical
 The nAri~NgapuruSha has svAbhAvika comedic element. Perhaps he means to be serious but still comes across as funny
+
+## Peace agenda
+One of the big open questions is whether the nAri~NgapuruSha can achieve his peace agenda. We believe that there is a powerful force that counters this agenda which has not been evicted by the departure of piNDaka. We get the whiff that it is already trying to entangle the pichChilaka in an even greater war in dAnu-apara and potentially push for one against the Islamic state in Iran. If pichChilaka survives their action on him and does secure peace, it will be a rather unparalleled achievement.

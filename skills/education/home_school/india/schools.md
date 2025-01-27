@@ -90,7 +90,9 @@ title: Un-schools
 
 ### वेद-पाठशालाः
 - मत्तूरु-ग्रामः
-- दक्षिण-नैमिषारण्ये ऽहोबिल-मठ-सम्बद्धा [Temple](https://lakshmi-narasimha.org/contact/).
+- दक्षिण-नैमिषारण्ये ऽहोबिल-मठ-सम्बद्धा
+  - [TW](https://vishvakshema.org/)
+  - [Temple](https://lakshmi-narasimha.org/contact/).
 - kuDali shankaramaTha gurukula - [TW](https://youtu.be/560L2lqwwS4?t=697)
 
 The female teacher there is a graduate of https://www.tmv.edu.in/ - I have the impression that there is some such "finishing school" for girls in puNe too.
@@ -116,15 +118,28 @@ The female teacher there is a graduate of https://www.tmv.edu.in/ - I have the i
 
 
 ### वेद-पाठशालाः
+- [YT](https://youtu.be/IbG5oU7oNeE?t=1228) mentions a kAnchImaTha cbse gurukula near shrIshaila too
 - विद्यारण्यम् ।  
+
+<details><summary>विद्यारण्यम्</summary>
 
 > Vidyaranyam aims to provide a comprehensive education to students free of charge, focusing primarily on the study of Rigveda, Krishna Yajurveda, Sanskrit, Sangeetham (including Mridangam and Flute), Go seva and Go care for a duration of 12 years, beginning at the primary school level and continuing through university education. This education will be the main focus of the NIOS Board Curriculum, enabling students to take the Secondary (Grade 10) and Senior Secondary (Grade 12) exams. Additionally, students will have the opportunity to pursue a Bachelor’s or Master’s degree in Vedic Studies. The program will also offer specialised training in English communication and computer skills.  
 > Source: [TW](https://vidyaranyam.in/)।
+</details>
+
+
+
+### कन्याः
+- [YT](https://youtu.be/IbG5oU7oNeE?t=1360) says kAnchI maTha sampradAya pAThashAlas in AP, MH, TE, TN!
 
 ## महाराष्ट्र-कोङ्कणयोः
 - श्रीविद्या-पाठशाला, Devdutt Patilji's Gurukulam in Rivona, Goa.
 - पुण्य-पट्टने - I have the impression that there is some such "finishing school" for girls in puNe too.
   -  https://www.tmv.edu.in/ इत्यपि।
+
+### कन्याः
+- [YT](https://youtu.be/IbG5oU7oNeE?t=1360) says kAnchI maTha sampradAya pAThashAlas in AP, MH, TE, TN!
+
 
 ## उत्तर-भारते
 ### वेद-पाठशालाः

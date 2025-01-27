@@ -34,5 +34,53 @@ American liberals of Europoid ancestry, especially young women have been found t
 
 Now imagine the same kind of mindset (very prevalent in big tech) reinforcing LLMs. It suggests that even though the neural architectures of the human and the LLM are very different, the similar reinforcement via an unhealthy memetic disease has comparable end result. This was particularly obvious with guggulu's durbuddhi but is also seen in GPT in the form mentioned in the earlier Twt.
 
+## Tinkering
+One thing seems to be common to true mastery of technology irrespective of the type, be it construction or AI: a long history of repeated trials and tinkering; absent that, at least, a deep study of the foundations. Absent those, sudden arrivals seem mostly doomed to fail.
+
+Yes the training cost is more: his assumption was 50-100 days like GPT-4. Which for that period uses 62000 MWh. But the super-AI is assumed to take over a large number of jobs so will have much more usage and energy needs than the current 2 Wh for a GPT4 query
+
+## Energy
+At my spurring, an engineer did some calculations for how much energy his vision of a super-intelligent AI that he foresaw as coming out in 2027-28 will need (basically as per his conception killing jobs ~125-130 IQ range): All of the Niagara Falls hydroelectric plant
+
+## Meat chauvinism
+Comp.scientist AI advocate said: "I understand why biologists are meat chauvinists, but we may not be far from transcending meat." "meat chauvinist" -- interesting usage: derogation was his intention.
+
+## Comparison
+From my recent experiments, it seems machine translation of Skt via LLMs still leaves much to be desired, indicating it is clearly not an easily solved problem. Given this caveat, GPT emerges as the current winner; dharmamitra probably next; google translate/duShTa-guggulu's navyonmatta model the next.
 
 
+Spent some time today playing with deepseek: it is rather close to GPT/copilot. Wonder how they are so close in their responses: Did the model really converge due to identical or very close training sets or was the central aspect of the training deliberately mimicking GPT (the vibe it give is of the latter). It shows that all the current LLMs I've tried in the public domain are quite similar to each other. Yes, there are subtle differences, and on a particular question, one might outperform another, but give or take, they are in the same ballpark.
+
+In general, I found deepseek to be more prone to logorrhea than the rest; however, in some cases, this yields the information that might have needed more than one query in the others tested like GPT, Perplexity and copilot and mukhagiri. E.g., was a question asking for how to care for Tillandsia plants.
+
+Deepseek went into an interminable logorrhea when queried about an integral $\sin(x)\sqrt{x} dx$ which can only be solved with special functions of the complex variable. It spewed such a volume of pseudo-mathematical garbage that it might have made a crank blush.
+
+In terms of TikZ code for d Latex drawing it seems to perform below GPT but gives full explanations for its logic. However, with prompt engineering you might be able to get it to do better. For example, here is its first attempt at generating a TikZ sun:
+
+I don't know if this is a chIna thing but when asked about Koxinga's history it completely ignored his Japanese heritage and made him a purely Chinese hero.
+
+In conclusion, all these LLMs are in some kind of a "local minimum" in the performance landscape and to reach a whole new level would probably need a new approach to training.
+
+
+### Translation
+Sanskrit translation😀 by 
+DeepSeek:
+"saumyeśānakayor madhye viṣvaksenaṃ prakalpayet |
+bhagavatpramukhaṃ paścāt garutmantaṃ niyojayet ||"
+Translation:
+"Between the gentle (or auspicious) Īśāna (northeast) and the Agni (southeast) directions, one should place Viṣvaksena (an epithet of Vishnu or his attendant).
+After placing the Bhagavān (Lord Vishnu) in front, one should position Garuḍa (the eagle mount of Vishnu)."
+
+Dharmamitra for comparison:
+In the middle of Saumyeśa and Nakaya, one should place Viṣvaksena.
+After the Blessed One, one should place Garuḍa.
+
+GPT  for comparison:
+"Between Saumyeśa and Īśāna, one should establish Viṣvaksena.
+Behind the divine Lord, one should position Garuḍa."
+
+Google for comparison:
+Vishwaksena should be conceived between the Soumyeshanakas.
+The Lord should be the chief and then the Garuda should be employed
+
+You can attempt the correct one. A part of the problem is the Sanskrit language itself.
