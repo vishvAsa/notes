@@ -4,6 +4,7 @@ title: Un-schools
 
 - Microschools - [LM15](http://www.livemint.com/Sundayapp/r8ESEnsr0UOnU0KiXDJT6M/Micro-schools-Going-beyond-textbooks.html)
 - Alternative schools [here](https://buzzingbubs.com/bangalore/alternative-schools-in-bangalore).
+- Lists elsewhere - [here](https://vediconcepts.org/gurukul-list/).
 
 ## NIOS
 - Register on the website www.nios.ac.in. and start preparing. They have secondary directly and not grade 9. At age 14 u can join. If you wish to join a school and if you are in bangalore you can consider www.aurinkoacademy.com If you wish to enrol in an online school do consider Fabskool.
