@@ -11,6 +11,7 @@ If you have been to Srirangam you would have noticed only one of the tower gates
 Vellayi Gopuram or the white tower (gate) is at the eastern entrance of Srirangam Temple. Srirangam is dedicated to Lord Vishnu, named as Sri Ranganathaswamy in this temple. Do make it a point to visit this gate even if you enter the Sri Ranganathasway Temple through any other gate.
 
 Legend of Vellayi Gopuram Srirangam
+
 The word Vellayi means white, but it also represents the name of a Devdasi who sacrificed her life to protect the idol of the temple. The story is real and not just legend locals say and interesting too.
 
 In the year 1323, Sultanate forces from north of India invaded Sri Ranganathaswamy Temple. They looted it of its precious jewels and gold ornaments. It is said that they carried away precious jewels and gems in 20 bullock carts. However due to quick presence of mind the main idol studded with precious gems was hidden. The Sultan desperately tried to search it out. Approximately 12,000 people of Srirangam laid down their lives fighting against those Muslim forces.

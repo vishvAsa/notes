@@ -141,6 +141,11 @@ The female teacher there is a graduate of https://www.tmv.edu.in/ - I have the i
 ### कन्याः
 - [YT](https://youtu.be/IbG5oU7oNeE?t=1360) says kAnchI maTha sampradAya pAThashAlas in AP, MH, TE, TN!
 
+#### University entry
+
+- For any lady self learner who is 18 years and above SNDT university offers a direct UET ie University Entrance Exam. It's recognised by all universities for further studies. 
+- She will need birth certificate, School leaving certificate And aadhar card. And a self declaration stating she can read and write. 
+  - If she doesn't have documents for formal schooling she can also submit an affidavit 
 
 ## उत्तर-भारते
 ### वेद-पाठशालाः

@@ -27,6 +27,8 @@ Even undesirable particles are absorbed - supposedly increases cancer risk.
 Essential vitamins like Vitamin A and D are broken down.
 
 #### Pasteurization
+Prevents transmission of bovine TB.
+
 ##### 30m technique
 Heating the milk to between 63˚C and 64˚C and maintaining that temperature for 30 minutes.
 

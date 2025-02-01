@@ -631,7 +631,17 @@ This is the world situation facing us today. We must adjust to it and remain fle
 
 For close to three hundred years now the Western barbarians have rampaged on the high seas. Why are they able to enlarge their territories and fulfill their every desire? Does their wisdom and courage exceed that of ordinary men? Is their government so benevolent that they win popular support? Are their rites, music, laws, and political institutions superb in all respects? Do they possess some superhuman, divine powers? Hardly. Christianity is the sole key to their success. It is a truly evil and base religion, barely worth discussing. But its main doctrines are simple to grasp and well-contrived; they can easily deceive stupid commoners with it. Using clever words and subtle phrases, they would have commoners believe that to deceive Heaven is to revere it, and that to destroy the Way is needed for ethical understanding. 
 
-They win a reputation for benevolence by performing small acts of kindness temporarily to peoples they seek to conquer. After they capture a people's hearts and minds, they propagate their doctrines. Their gross falsehoods and misrepresentations deceive many, particularly those who yearn for things foreign. Such dupes, with their smattering of secondhand Western knowledge, write books with an air of scholarly authority; so even daimyo or high-ranking officials at times cannot escape infection from barbarian ways. Once beguiled by Christianity, they cannot be brought back to their senses. Herein lies the secret of the barbarians' success. 
+They win a reputation for benevolence  
+by performing small acts of kindness temporarily to peoples they seek to conquer.  
+After they capture a people's hearts and minds,  
+they propagate their doctrines.  
+Their gross falsehoods and misrepresentations deceive many,  
+particularly those who yearn for things foreign.  
+Such dupes, with their smattering of secondhand Western knowledge,  
+write books with an air of scholarly authority;  
+so even daimyo or high-ranking officials at times cannot escape infection from barbarian ways.  
+Once beguiled by Christianity, they cannot be brought back to their senses.  
+Herein lies the secret of the barbarians' success. 
 
 Whenever they seek to take over a country, they employ the same method. By trading with that nation, they learn about its geography and defenses. If these be weak, they dispatch troops to invade the nation; if strong, they propagate Christianity to 
 
