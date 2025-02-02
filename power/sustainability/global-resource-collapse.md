@@ -34,10 +34,19 @@ There will be widespread famines, social unrest and depopulation.
 ### Energy
 Some tech (nuclear breeder reactors, PV energy) may provide energy while they last.
 
+#### Planned use
+If one thought long-term, about the coming mostly-stone-age a few kilo-years later, one would use the current energy wealth to -
+
+- make and store lots of copies of texts ( http://rebrand.ly/dg-archive  )
+- make billions of stone tools (tools + weapons - axe-heads, knifes, plough-heads ...), magnifying glasses
+
+Other ideas - please contact me.
+
 ## Post collapse
 There might be islands of civilization which can manage advanced thought and material comfort.
 
 It will be the time of adventurers and technomages.
+
 
 ### Energy
 #### Long term
