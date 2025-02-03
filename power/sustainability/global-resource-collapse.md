@@ -47,7 +47,6 @@ There might be islands of civilization which can manage advanced thought and mat
 
 It will be the time of adventurers and technomages.
 
-
 ### Energy
 #### Long term
 Solar thermal, and hydroelectric power plants would be fairly cheap and low-tech. 

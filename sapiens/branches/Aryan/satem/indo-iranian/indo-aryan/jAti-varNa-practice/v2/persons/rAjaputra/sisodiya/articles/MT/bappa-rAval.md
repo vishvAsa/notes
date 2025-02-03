@@ -34,3 +34,19 @@ They also seem to have developed an association with the predatory tribal bhilla
 
 ## Meta-lore
 The genealogical telescoping and incomplete preservation seen in this famed dynasty from the common era are comparable with what is seen in the paurANika genealogies and the account of the Kashmirian rulers by kalhaNa. In the former case, we do not have the luxury of time-calibrated inscriptions but have some temporal markers from older Vedic texts. Hence, inferring history from the paurANika genealogies should be done with even greater caution.
+
+## kumbha's inscription
+A sragdhara verse from mAhArANA kumbha's inscription mentioning their connection to the pAshupata yogin hArIta rAshi. Here the dynasty is referred to as that of bappa. In fragmentary part of the inscription he is described as "purANa-puruSha"
+
+> श्रीवाटे मेदपाटे **परिहित**-कपटे प्रोञ्च-कूटे त्रि-कूटे  
+हारी हारीत राशेर् **अ-गणित**-तपसा शम्भुर् **आविर् बभूव** ।  
+यस्याद्यापि **प्रसादाद् अधिगत**-यशसो बप्प-वंशे नरेशाः    
+निर्वैरं भूमि-भारं भुज--भुज-ग--फणा-मण्डलैर् **उद्वहन्ति** ॥
+
+> In shrIvATa, in medapATa (Mewar), covered with hidden passages  
+in the midst of the elevated peaks of trikUTa,  
+Through the immeasurable austerities of hArIta rAshi,
+the captivating shambhu appeared.  
+By whose grace verily the kings of the bappa dynasty attained fame,  
+bearing the burden of the earth without enmity,  
+as if supported by the hoods of their serpent-like arms.
