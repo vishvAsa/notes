@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Network on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/computer_architecture/network/</link>
+    <description>Recent content in &#43;Network on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/computing/computer_architecture/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cables</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/network/cables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/network/cables/</guid>
+      <description>Types Cat 6 - 10 Gbps. 2x Performance of Cat 5 &amp;amp; 5e - frequency up to 250 MHz Cat 5e - 1Gbps Cat 5 - 100MBPs Conductor Shielding Indoor cables must overcome interference from other wires. So shielding is needed. Unshielded cables are generally ok for outdoor use. Types U/UTP (Unshielded Twisted Pair) means the cable consists of 4 unshielded twisted pairs and no outer shielding. CAT6A F/UTP (Foiled Unshielded Twisted Pair) means the cable consists of 4 unshielded twisted pairs however it contains an outer foil shield.</description>
+    </item>
+    
+    <item>
+      <title>Wifi Router</title>
+      <link>https://vishvAsa.github.io/notes/computing/computer_architecture/network/wifi-router/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/computing/computer_architecture/network/wifi-router/</guid>
+      <description>Desiderata Have sufficient wireless speed. Be dual band Support new wifi protocols (eth ac &amp;gt; n) Protocols 802.11ax &amp;gt; 802.11ac (5GHz faster) &amp;gt; 802.11n (100Mbps) &amp;gt; 802.11g &amp;gt; 802.11b &amp;gt; 802.11a &amp;gt; 802.11 Bands 5GHz is faster but lower range. 2.4GHz is slower, but longer range. Older devices need it. wifi-router-history </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Command prompt on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/command_prompt/</link>
+    <description>Recent content in &#43;Command prompt on Vishvas&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vishvAsa.github.io/notes/computing/programming/programming_languages/command_prompt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BASH</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/command_prompt/bash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/command_prompt/bash/</guid>
+      <description>Characteristic features All environmental variables are imported into the context.
+Command construction, execution Very simple syntax for execution of commands: simply use a line which says: commandName. Construction of command-strings using variable names is also simple: someText $varName otherText
+Logic limitations Not suitable for logic more involved than an if else statement.
+Writing and executing code Bash commands and programs can either be run by providing/ typing the program in STDIN, or it can be run from a file.</description>
+    </item>
+    
+    <item>
+      <title>Xonsh</title>
+      <link>https://vishvAsa.github.io/notes/computing/programming/programming_languages/command_prompt/xonsh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishvAsa.github.io/notes/computing/programming/programming_languages/command_prompt/xonsh/</guid>
+      <description>File wild cards &amp;gt;&amp;gt;&amp;gt; p`.*` [Path(&amp;#39;foo&amp;#39;), Path(&amp;#39;bar&amp;#39;)] `re`, r`re` &amp;gt;&amp;gt;&amp;gt; ls `a(a+|b+)a` aaa aba abba Iterate over files find . -type f -name &amp;quot;*.ttf&amp;quot; -exec echo &#39;{}&#39; &#39;+&#39;
+Find text import regex for fpath in pg`**/*.md`: if not fpath.is_file(): continue try: matches = regex.findall(&amp;#34;म्([चछजझञ])&amp;#34;, fpath.read_text()) if len(matches) &amp;gt; 0: print(&amp;#34;%s - %s&amp;#34; % (fpath, len(matches))) except: print(&amp;#34;Error with %s&amp;#34;, fpath) Replace text import regex for fpath in pg`**/*.md`: if not fpath.</description>
+    </item>
+    
+  </channel>
+</rss>
