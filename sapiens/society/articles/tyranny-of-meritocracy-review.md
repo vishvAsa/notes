@@ -2,6 +2,14 @@
 title = "Tyranny-of-meritocracy-review"
 +++
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Anti-meritocracy is worse. DEI and quota-lands are super dystopias - so viveks of India have fled.
+
+Biggest criticism - meritocracy over long time scales is natural. Nothing can stop a Temujin or NaMo or Ramanujan. If one state or company doesn't adopt it, another will + win.
+</details>
+
+
 <div class="videoEmbed"  caption="Video" src="https://www.youtube.com/watch?v=0E2TqMOIu2M"></div>
 
 

@@ -99,6 +99,7 @@ title: Un-schools
 The female teacher there is a graduate of https://www.tmv.edu.in/ - I have the impression that there is some such "finishing school" for girls in puNe too.
 
 ## द्रविडदेशे
+- Ramaratnam Bharatiya Bala Vidyalayam  [TW](https://sites.google.com/anaadi.org/rbbv/home),  Ages 6-10 yrs, NIOS, Chennai (near madras sanskrit college)
 - [मेधा शास्त्र-गुरुकुलम्](https://sites.google.com/view/sastrapatashala) [alt](https://www.medhagurukulam.org/gurukulam), Nanganallur, Chennai - Future - Brahmadesam village, near Kanchipuram in Tamilnadu
   - As of 2025, it is residential only for boys, girls can study as day scholars. There are plans to build a campus which will be residential for girls also.
 - [dharma gurukulam, anAdi](https://sites.google.com/anaadi.org/dharmagurukulam/homeschool), Palani.
