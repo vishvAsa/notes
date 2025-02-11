@@ -78,7 +78,11 @@ but they existed in nearby villages;
 some of whom were disciples of shrI rAjagopAla of the village.  
 The v2s were carnivores.
 
-## Women
+## v1s
+bAlAji's father and others would clearly list out how many days Ashaucha this and that person's death would cause.  
+There were learned experts and book-owners in nearby villages, so that bAlAjI would be sent there to borrow / refer to - say amarakosha commentary for the derivation of a verse.
+
+### Women
 v1 women were often quite learned -  
 especially in shrIvaiShNava rahasya text-s and the divya-prabandha-s. They used to teach these (barring the chapters which described the praNava - barred for women).  
 The women would have memorized vedAnta-deshika's stotras.  
