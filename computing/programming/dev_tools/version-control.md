@@ -19,6 +19,12 @@ git rm -rf subdir_path
 git submodule add -b some_branch -f https://github.com/XYZ/UVW subdir_path
 ```
 
+### Large pushes
+
+```
+git config --global http.version HTTP/1.1
+```
+
 ## Sonatype
 - They provide infrastructure to publish open source libraries to Maven
 - staging repositories
