@@ -84,6 +84,7 @@ title: Un-schools
 ## कर्णाटके
 - बालिकाभ्यः
   - कावेरी-कन्या-गुरुकुलम्, श्रीरङ्गपट्टने  [TW](http://cauverygurukulam.com/)
+    - They are based on Arsha Vidya Gurukulam - Swami Dayananda Saraswati.
   - मैत्रेयी-गुरुकुलम् [TW](https://www.maitreyeegurukulam.org/)
 - shankara-gurukulam near maddUr. [TW](https://www.shankaragurukulam.org/).
 - प्रबोधिनी-गुरुकुलम्, हरिहरपुरम् - राष्ट्रिय-स्वयंसेवक-सङ्घस्य। Source: [TW](https://prabodhinigurukula.org/)
