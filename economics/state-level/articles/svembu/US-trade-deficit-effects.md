@@ -19,3 +19,14 @@ Demographic bust in China means they have no option but to increase wages and he
 
 ## Summary
 the global economic system is shaky at its core, characterized by a lack of resilience. It is best to prepare for turbulent times ahead. Meanwhile it is a good idea to build real capabilities in basics: food, manufacturing, health care, technology.
+
+## 2025 Trump Modi meet
+Source: [TW](https://x.com/svembu/status/1890613306895085890)
+
+As a slightly oversimplified mental model, India exports software services to America and imports consumer goods from China. The surplus with America is more than matched by the deficit with China.
+
+Now India will (have to) import more iPhones, GPUs, LPG, nuclear plants, fighter jets, whiskey and so on from America to balance the bilateral trade. 
+
+In order not to blow up the current account deficit, India has to find ways to reduce consumer goods imports from China, and that means increasing domestic production. Since this cannot happen overnight, in the short run imported consumer goods prices could go up - that shows up as inflation.
+
+Indian manufacturers have to step up and set up capacity and acquire the know how when needed.
