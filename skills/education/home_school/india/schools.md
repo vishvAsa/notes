@@ -96,6 +96,9 @@ title: Un-schools
   - [TW](https://vishvakshema.org/)
   - [Temple](https://lakshmi-narasimha.org/contact/).
 - kuDali shankaramaTha gurukula - [TW](https://youtu.be/560L2lqwwS4?t=697)
+- रामचन्द्र-पुर-शङ्कर-मठस्य - [TW](https://vishnuguptavv.org/)
+  - शिव-गुरुकुलम् वेदकेन्द्रितम्
+  - परम्परा-गुरुकुलम् - आधुनिकतरम्
 
 The female teacher there is a graduate of https://www.tmv.edu.in/ - I have the impression that there is some such "finishing school" for girls in puNe too.
 
