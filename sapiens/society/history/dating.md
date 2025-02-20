@@ -18,3 +18,6 @@ date from few million to a few billions of years old
 ## Dendrochronology
 Tree ring dating
 
+
+## Genetic dating
+Graham Hancock's theory about lost ancient Pleistocene civilizations which seeded future civilizations - Razib points out that as a geneticist, we would see a record of this in the genomes of domesticated plants or animals. But we don't see it (except in dog), ruling out "lost civilizations."

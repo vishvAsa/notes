@@ -141,8 +141,10 @@ The female teacher there is a graduate of https://www.tmv.edu.in/ - I have the i
 
 ## महाराष्ट्र-कोङ्कणयोः
 - श्रीविद्या-पाठशाला, Devdutt Patilji's Gurukulam in Rivona, Goa.
-- पुण्य-पट्टने - I have the impression that there is some such "finishing school" for girls in puNe too.
+- पुण्य-पट्टने - 
+  - I have the impression that there is some such "finishing school" for girls in puNe too.
   -  https://www.tmv.edu.in/ इत्यपि।
+  - Acharya Tejas Kulkarni's gaNita gurukulam
 
 ### कन्याः
 - [YT](https://youtu.be/IbG5oU7oNeE?t=1360) says kAnchI maTha sampradAya pAThashAlas in AP, MH, TE, TN!
