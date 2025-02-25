@@ -9,6 +9,8 @@ title: Khitan
 
 ## Qara Khitai
 - Yelü Dashi's Qara (western/ black) khiTai uncharacteristically resisted conversion to Islam even while ruling over muslim subjects, in contrast with several other turkish and mongol branches.
-- "Yelü Dashi the Khan of the Khitan founded a smaller empire empire the Qara Khitai which occupied whole of Mongolia and Uighuristan after Uighurs accepted them as overlords to form an alliance against the Islamic onslaught. They routed the Ghazis led by Qarakhanids in the great battle of Balasagun in Khirgizstan. Then the combined army of Islam under the Qarakhanids and Saljuqs launched Jihad against the Qara Khitai but it was smashed in the battle of Qatwan after which Transoxiana was added to Mongolian domains. "  {[MT](https://manasataramgini.wordpress.com/2013/12/09/some-reflections-on-the-khans-qaidu-and-dua-and-the-great-khans-lost-legacy/)}
+
+> "Yelü Dashi the Khan of the Khitan founded a smaller empire empire the Qara Khitai which occupied whole of Mongolia and Uighuristan after Uighurs accepted them as overlords to form an alliance against the Islamic onslaught. They routed the Ghazis led by Qarakhanids in the great battle of Balasagun in Khirgizstan. Then the combined army of Islam under the Qarakhanids and Saljuqs launched Jihad against the Qara Khitai but it was smashed in the battle of Qatwan after which Transoxiana was added to Mongolian domains. "  {[MT](https://manasataramgini.wordpress.com/2013/12/09/some-reflections-on-the-khans-qaidu-and-dua-and-the-great-khans-lost-legacy/)}
+
 - Mullas conducting Dāyi activity in their realm promptly rounded up and executed. \[[SP16](https://twitter.com/Rjrasva/status/725049903102197761)\] \[[MT17](https://manasataramgini.wordpress.com/2017/07/30/mongolica-chingiz-khan-and-the-rest/)\]
 - "The Qara Khitai continued to sinicize and were subverted by the Naiman Turks. "

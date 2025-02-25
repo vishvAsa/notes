@@ -144,7 +144,7 @@ The female teacher there is a graduate of https://www.tmv.edu.in/ - I have the i
 - पुण्य-पट्टने - 
   - I have the impression that there is some such "finishing school" for girls in puNe too.
   -  https://www.tmv.edu.in/ इत्यपि।
-  - Acharya Tejas Kulkarni's gaNita gurukulam
+  - Acharya Tejas Kulkarni's gaNita gurukulam [TW](https://bhaskarprabha.org/#)
 
 ### कन्याः
 - [YT](https://youtu.be/IbG5oU7oNeE?t=1360) says kAnchI maTha sampradAya pAThashAlas in AP, MH, TE, TN!

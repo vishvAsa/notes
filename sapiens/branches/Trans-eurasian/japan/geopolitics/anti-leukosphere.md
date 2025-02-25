@@ -14,10 +14,10 @@ title: Anti-Leukosphere conflict
     - This went remarkably smoothly, with some daimyo explicitly requesting it, and others complying. \[[T1](https://twitter.com/Rjrasva/status/640489349344325632), [T2](https://twitter.com/Rjrasva/status/640490060413030400), [T3](https://twitter.com/Rjrasva/status/640490671590240256)\] The daimyo bade their sAmurai to transfer the loyalty to national patriotism and the emperor.
     - 2 million samurai lost income.
 - A mission visited USA and Europe to try renegotiate trade humiliations (blocked by the British). They decided that the prussian model was the best. This was adapted.
-- In ~1895, the emperor issued an edict to correct for the western fad, and reemphasize core Japanese values.
+- In \~1895, the emperor issued an edict to correct for the western fad, and reemphasize core Japanese values.
 
 ## First Chinese war
-Causes:
+### Causes of defeat
 
 - Not taking Japan seriously.
   - "In the Chinese mind, this neighbor was so insignificant that there was little point in conducting a thorough assessment of its military strength and capabilities"
@@ -65,7 +65,7 @@ Triggers:
 ## Occupation of Vietnam (1941)
 - Japanese invaded Vichy French Indochina. The occupation of the northern part was necessary to cut off allied supplies to China. The movement south was opposed by the navy, since it would provoke the west (this part was probably another mistake).
 
-## US fight over China and Vietnam:
+## US fight over China and Vietnam
 - Oil embargo came into effect after full occupation of Vietnam / Cambodia (jul 1941). This crippled Chinese operations, and led to war to secure those resources.
 - In mid-1941, the United States government financed the creation of the American Volunteer Group (AVG) in China.
 - Diplomatic efforts
