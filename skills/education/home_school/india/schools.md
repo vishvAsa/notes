@@ -110,6 +110,7 @@ The female teacher there is a graduate of https://www.tmv.edu.in/ - I have the i
 - shrI-gurukulam [SG](https://shrigurukulam.org/), Chengalpet  
 - [agastya Academy](https://www.youtube.com/watch?v=tRwnyOzOXus), Waldorf inspired day cum residential  CBSE School located in Arachalur, in the outskirts of Erode, TamilNadu. The school was started in the year 2018. It is a 30 acre green campus. Morning farming, yoga, music, sports, non-competitive till age 10, dorms.
 - Velukkudi Krishnan's pAThashAlA + regular school, shrIperumbudur/ shrIrangam 7-10 yrs www.tiny.cc/kktveda  . (Venkatesh - 9980072748, Sri Sunder - 9900106012)
+- Isha Samskriti Gurukulam. They learn classical music, dance, kalaripayattu, Sanskrit and Yoga right from 7 years of age, until 18 years in a traditional Gurukulam set up. Source: [TW](https://x.com/tskrishnan/status/1895010950870376696)
 
 ### कन्याः
 - ubhaya-bhAratI kanyA gurukulam, senkoTTai [YT](https://youtu.be/kNrTgveETUc?si=m2Xhc-B3-Osc9o5I)
