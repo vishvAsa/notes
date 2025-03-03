@@ -20,10 +20,15 @@ A shUdra would scold my father thus: "I used to watch your father with his thick
 
 Farmers used to wear tirumaN - so that it would be hard to distinguish Arya from shUdra without the yaJNopavIta. 
 
+### School
 In the village school, kids were taught well by the brAhmaNa and brAhmaNa-educated teachers.  
 If a girl lost her forehead dot due to sweat,  
 she would be expected to go and fix it using the kunkuma from the nAga-pratiShThA nearby.  
 If a v1 boy went without tilaka, he would be sent back.
+
+The government would provide midday meals to kids. Of course, v1 kids wouldn't eat or even drink water there. They would go home for noon refreshments. If found loitering near the meal serving area, they would be scolded and sent away. The kids, never observing any deviance, furthermore buttressed by the entire community, never even conceived defying the norms.
+
+Once, in a place 10 km away for 10th exams, bAlAjI became very thirsty. He had not carried water from home. Swollowing saliva did not work. Returning home would cause him to miss the exam. In desperation, accepting Apat-niyama, he went to a random hut and requested water. They saw him, confrmed that he is v1, and gave him buttermilk instead (water being forbidden).
 
 ### Temples
 There was a viShNu temple in the agrahAra,  
