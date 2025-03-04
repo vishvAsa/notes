@@ -20,9 +20,19 @@ This is a community of shrI-vaiShNava-s in Southern Karnataka. Divided into two 
 - Setlurs of biLigiri-ranga Hills and surroundings.
   - Regarding early "Setlur-s" - seem to be from TN (one of rAmAnuja's direct disciples) - https://ramanuja.org/sri/BhaktiListArchives/Article?p=nov2000%2F0044.html
 
+
+
+
 ### Myths
-- Ramanuja came and settled in the Hoysala Kingdom. When he was in Tondanur (Tonnur) near Melukote, a group of elderly Kannada Brahmins from Ramanathapura, Saligrama came to Tondanur and heard Sri Ramanujacharyas discourses on Srivaishnava Philosophy. Impressed by the preaching of Ramanuja they offered to convert to Srivaishnava Religion and they became followers of Ramanuja. Sri Ramanuja affectionately called this group of Elderly Brahmins who became his disciples as Hebbar.
+
+[YT](https://www.youtube.com/watch?t=320&v=jfBDTsGrBak&feature=youtu.be)
+
+- Ramanuja came and settled in the Hoysala Kingdom. When he was in Tondanur (Tonnur) near Melukote, a group of elderly Brahmins from Ramanathapura, Saligrama came to Tondanur and heard Sri Ramanujacharyas discourses on Srivaishnava Philosophy. Impressed by the preaching of Ramanuja they offered to convert to Srivaishnava Religion and they became followers of Ramanuja. Sri Ramanuja affectionately called this group of Elderly Brahmins who became his disciples as Hebbar.
 - Initial settlement supposedly in AShTa Gramas or eight villages in Southern Karnataka /Hale Mysooru .
+
+NOT JAIN CONVERTS.  
+Orthodox v1s did not accept converts into brAhmaNa jAti-  
+you have to be born into it.
 
 ## Language
 - A Kannadised version of Tamil. Hebbar language is highly influenced by Kannada and uses many loan words from Kannada, Sanskrit and old Tamil Vocabulary.

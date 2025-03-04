@@ -30,29 +30,3 @@ For sattu, Bengal gram is first soaked in water and dried under the sun; it’s 
 
 #### Consumption
 - can be mixed and drunk with water + salt or sugar.
-
-
-## v1 travel food kit
-### General
-- Eating surface
-  - Leaves for eating
-  - steel bowls which fit into each other. 
-  - steel box with lid for fussy / slow eaters
-- Portable Water filter
-- water bottle, thermos flask for carrying yogurt
-
-### Long lasting processed items
-- Good measures of oats, sattu powder, ghee jaggery etc.. - preferably powdered.
-  - See items listed above.
-- chaTni-puDi, spices, jaggery powder, salt, nuts for mixing.
-
-### Medium term (cooked) items
-- Oily chapati-s or pUri-s or obbaTTu-s, which won't grow brittle or crumble.
-  - Dry roTi-s grow hard.
-  - cut cilantro etc. mixed with dough stick between teeth. 
-
-
-### Cooking
-- Camping stove
-- Vessels
-- Ingredients like eggs, grains and spices.
