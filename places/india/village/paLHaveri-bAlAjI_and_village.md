@@ -1,5 +1,5 @@
 +++
-title = "palaveri-bAlAjI and village"
+title = "paLHaveri-bAlAjI and village"
 +++
 
 palaveri village in pallava-desha near kAnchIpuram hosted an agrahAra, where rAjagopAla, a reknowned shrIvaiShNava scholar resided. His son, popularly known as bAlAjI, also a scholar, was raised there till early 1990s (age 20). These are some recollections pertaining to village life.

@@ -2,6 +2,8 @@
 title = "Skin"
 +++
 
+[Disease pics](https://www.healthline.com/health/scaling-skin)
+
 ## Itch
 ### Prevention
 - Keep junctions clean and dry. 
