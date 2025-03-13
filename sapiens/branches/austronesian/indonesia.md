@@ -5,6 +5,9 @@ title: Indonesia
 ## Chinese role
 - Anti chinese riots in may 1998, involving looting, burning, temple desecration, gang rapes, murders - [WI](https://en.wikipedia.org/wiki/May_1998_riots_of_Indonesia), [YT](https://www.youtube.com/watch?time_continue=414&v=soB7rosSWWU); resulting in many Chinese fleeing the country, and some converting to Islam.
 
+## kAro hindus
+> A Karo Hindu from Sumatra worshipping Shiva. What's interesting about Karo Hindus is that they claim to be descended of ancient Tamil migrants (specifically the Kongu region), so their rituals are closer to Tamils than Javanese or Balinese (who are closer to Odias).
+
 ## Current Anti-hindu situation 
 - Indonesian Hindus faced "increasing discrimination" from a rapidly Islamizing Indonesian Muslim society, including from members of "so-called moderate groups Muhammadiyah and Nahdlatul Ulama," as well as from the government.\[[WL](https://wikileaks.org/plusd/cables/07JAKARTA268_a.html)\]
 - In some local districts such as Banten near Jakarta, strident Muslims had gone a step further and forced the rewriting of the local curriculum to de-emphasize Indonesia's "great Hindu past."
