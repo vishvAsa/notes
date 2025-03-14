@@ -1,0 +1,69 @@
++++
+title = "+4 EPILOGUE The Secrets of History"
+
++++
+
+
+
+
+
+IN THE SUMMER OF 1492, CHRISTOPHER COLUMBUS SAILED out of Europe across the Atlantic Ocean carrying a letter from the Spanish monarchs Isabella and Ferdinand intended for the khan of the Mongols, but not knowing the name of the Asian ruler, the Spanish clerk left a blank space to be filled in upon arrival. Columbus never reached Asia to deliver the letter, and history never filled in the missing name.
+
+In four epic voyages, Columbus searched for the Mongol khan in Cuba, Puerto Rico, Venezuela, Honduras, and small islands across the Caribbean. None of the natives could tell him the name of the Great Khan, and when Columbus died in 1506, he still had come no closer to finding the court of the Mongols or even the names of the rulers. Throughout all the years of Columbus’s search, it was Manduhai Khatun and Dayan Khan for whom he was searching.
+
+Columbus showed how seriously he and others of his time took the history of the Mongols, whom they recognized as one of the great forces of history, but one about which they knew very little. He was not the first to go in search of the Mongols. A hundred years earlier, in the fourteenth century, as Geoffrey Chaucer wrote *The Canterbury Tales*, the first book in the English language, he also launched a literary search for the elusive Genghis Khan and his daughter. Chaucer had traveled widely on diplomatic missions through Europe and had learned of Genghis Khan, whom he called Cambuyskan. In “The Squire’s Tale,” Genghis Khan’s daughter, the fictional Canace, acquired magical power over humans and animals; she communicated with birds and knew the use of every plant. Chaucer never finished “The Squire’s Tale.” The story, as much as was written, seemed much more of a European romance than anything to do with the Mongols; yet we will never know where it was going to end.
+
+The Tatar tale was the only story Chaucer left unfinished in his book, and other writers through the centuries have occasionally sought to complete it. English poet John Milton described Chaucer’s fragmentary tale as a “sage and solemn” story “where more is meant than meets the ear.” In his poem “Il Penseroso,” Milton called upon Orpheus, the Greek hero of music and poetry, to help him complete Chaucer’s tale of contests, trophies, and enchantments in the life of bold Genghis Khan and his gifted daughter who communed with animals.
+
+Even when learned poets such as Chaucer and Milton could not complete the accounts of these unique Mongol women, their poems constantly remind us of what is missing in our history. The poets preserved what the censors destroyed.
+
+The memory of the Mongol queens lived on in marble as well as in literature. In 1631, after Mumtaz Mahal died during the birth of her fourteenth child, her husband, the Moghul emperor Shah Jahan, began the building of a magnificent tomb for her. The most gifted Muslim and Hindu artisans of the era brought a variety of cultural styles and motifs, and yet beneath it all the building took the simple domed shape of a Mongol *ger*. The emperor was a distant heir of Genghis Khan and Borte. His ancestors had been *guregen*, married to the women of the Borijin clan, and he was descended from those women though the line of Chaghatai. As though guided by an ancient Mongol memory, he placed the entrance to the Taj Mahal facing south like every Mongol *ger*, toward the sun. Built to honor one Moghul queen, the Taj Mahal, the most beautiful building ever erected, embodies the spirit of all the Mongol women.
+
+In 1710, while writing the first biography of Genghis Khan, the French scholar François Pétis de La Croix published a book of tales and fables combining Persian, Turkish, Mongol, and Arabic themes. One of his longest and best stories derived from the history of Khutulun, who rode into battle with her father and refused to marry any man who could not defeat her in wrestling. In his version, she became Turandot, meaning “Turkish Daughter,” the nineteen-year-old daughter of Altoun Khan, emperor of China, but the story mostly focused on Calaf, son of Timurtasch \(Timur Taishi\), who was also nineteen and determined to woo her. Instead of challenging her suitors in wrestling, Pétis de La Croix had her confront them with three riddles. Instead of wagering mere horses, the suitor had to forfeit his life if he failed to answer correctly.
+
+Pétis de La Croix wrote of Turandot: “She united with her ravishing beauty such a cultivated mind that she not only knows everything which it is customary to teach persons of her rank, but even the sciences which are only learned by men, she knows how to write the different characters of several languages, she knows arithmetic, geography, philosophy, mathematics, and above all, theology.”
+
+Fifty years later, the popular Italian playwright Carlo Gozzi saw the dramatic potential of the story for the stage, and in 1761 he premiered his play *Turandotte* in Venice, the hometown of Marco Polo. It offered the tale of a “tigerish woman” whose “greatest sin is her unrelenting pride.” In a combined effort by two of the greatest literary talents of the era, Friedrich von Schiller translated the play into German as *Turandot, Prinzessin von China*, and Johann Wolfgang von Goethe directed it on the stage in Weimar in 1802.
+
+The Italian composer Giacomo Puccini was working on his opera *Turandot when* he died in 1924, and a colleague completed it. “It’s useless shouting in Sanskrit, in Chinese, or Mongolian\!” Puccini wrote of his heroine who refused to marry. She challenged men because of the wrongs done to one of her female ancestors “who ruled in silence and pure joy, defying the abhorred tyranny of man with constancy and firmness.” The earlier queen’s reign had ended abruptly “when the King of the Tartars unfurled his seven standards,” and “in that cruel night when her young voice was stifled\!” The opera of the Mongol ice queen never attained the popularity of Puccini’s other Asian heroine, Madame Butterfly, who lives and then must die for the love of a man.
+
+The public memories of unusual people live on in sometimes unexpected but significant ways. Today, when Mongolian men wrestle, they wear a particular vest with long sleeves, a small back, but no shoulder covering and a completely open front. According to lore, they wear this in honor and in fear of Khutulun. To prevent being defeated by another woman, the open vest allows each wrestler to inspect his opponent’s chest before wrestling and make sure that he is genuinely male.
+
+At the end of each match, the winner stretches out his arms to display his chest again to his opponent and to the spectators, and he slowly waves his arms in the air like a bird, turning for all to see. For the winner it is a victory dance, but it is still a lingering tribute to the time when Mongolia had one princess wrestler whom no man ever defeated.
+
+Such folk stories may or may not be accurate, but they carry a cultural truth that transcends the torn, lost, and censored documents of the past. History may have turned its back on the queens of the Mongols, but the people have never forgotten their heroines.
+
+
+
+I first heard the name of Manduhai in 1998 while staying on the Mongolian steppe at Avarga, the place where Genghis Khan created the Mongol nation, where he installed his daughter Alaqai over the Onggud and Al-Altun over the Uighur, where the *Secret History* was written, where Borte maintained her court, and where Manduhai and Dayan Khan returned after their conquests of the south. I was there researching the Mongol Empire when, as so often happened in my work, a group gathered to give me advice, ask questions, or just enjoy their new freedom of being able to speak openly about history, religion, sex, or any other topic.
+
+“I am only a herder,” an older woman said, as though apologizing for not being a scholar. Her worn and creased face contrasted starkly with the smooth, bright blue *deel* she wore for the visit. “You should know that Genghis Khan was reincarnated as a woman….” She hesitated as though unsure how her listeners might respond, then proceeded firmly in saying what she believed: “It was our Queen Manduhai.”
+
+Somewhat embarrassed, other people assured me that Genghis Khan had not been reincarnated, and it certainly would not be right for him to be a woman. The subject was closed, and we all returned to our respective *gers*.
+
+Later that night, amid enthusiastic singing and prolonged drinking from a large porcelain bowl of fermented horse milk, people regaled me with several versions of the story of Manduhai. Much of what they said seemed too romantic or too trivial to have any use in my research. I quickly tired of the drinking, singing, and stories.
+
+In my rush to judgment, Manduhai seemed little more than another of those mystical figures that populate the nationalist lore of every country and exercise a magical hold on the imagination of locals, but offer little attraction for foreigners. When the celebrants began singing emotional songs about Manduhai’s service to the nation and her sacrifice for them, I was moved by the intensity of their feelings, but I still dismissed her. She obviously meant much to them, but little to me. I was now on the hunt for more important historical prey; I was searching for the life of Genghis Khan, not his fanciful reincarnation.
+
+Through the years I continued to trip over Manduhai in my Mongolian travels and research, and I persisted in finding my way around her by ignoring her as a lesser character in the majestic tales of Asian history. My opinion of Manduhai did not change until I began struggling with the censored sections of the *Secret History* regarding Genghis Khan’s daughters. Gradually I saw the link emerging between the omitted names of the *Secret History* and the missing name in the letter carried by Columbus. I realized that her story grew out of theirs; yet they remain unknown. Thinking that these accounts might be interesting footnotes in Mongolian history, I wanted to fill in some small pieces of these stories, but the more I discovered, the more I found missing. The holes kept growing.
+
+As soon as I felt close, I found another cut document, garbled name, sliced page, mutilated text, changed date, or missing title. Religious clerics, political ideologues, and government bureaucrats do not have the right to change history. The truth may be hard to find, but it is out there—somewhere. If we do not continue the work, the truth remains hidden. If we stop the search, then the censor has defeated us.
+
+Had I, at that early moment in my work, found a book that explained the role of these Mongol queens, or even had I found this book that I have now written, I doubt that I would have believed much of it. Only grudgingly and piecemeal did the story of the daughters of Genghis Khan and of Queen Manduhai the Wise arise from the dust around me, and only hesitantly and somewhat unwillingly did I acknowledge that individuals whom I had never studied in school or read about in any book could, in fact, be figures of tremendous historic importance.
+
+What does it matter that one barbarian khan, whether male or female, replaced another as leader of the horde on some forsaken spot with an unpronounceable name in the bowels of Asia? They helped shape our world in ways that we do not see. Their influence continues on the modern map of national boundaries, in the Buddhism of the modern day, and in the legacy of the Silk Route that became the prototype for the modern world system. The story of these Mongol queens forms a secret history of the origins of the modern world; it is an unrecognized, but important part of our own story. Ultimately, the goal of rediscovering their story is to assess the unacknowledged influence they have had on our lives and the relevance they still have today.
+
+The great queens of Mongolia protected their families throughout their lifetimes. Genghis Khan created the nation and inspired it, but the queens gave it life. Like their father, these dedicated queens did not waste time, effort, and emotion building monuments; they built a nation. Like the lingering footprints and fossils of past ages, the evidence of their lives remain, if only we are willing to search for it, willing to see it when we find it.
+
+The censors who sliced the pages did not destroy the history; they only hampered our ability to see it. In some ways the evidence is still all around us, scarcely even hidden, merely unrecognized. There are architectural tributes to the lives and importance of these women in enduring structures as varied as the Taj Mahal of India and the Great Wall of China. The music of Puccini, the plays of Schiller, the poetry of Chaucer, and even the dances of Mongolian wrestlers keep the stories alive.
+
+It is quite understandable that Columbus did not know the name of the Mongol monarch for whom he was searching when he sailed to America; he lived in an era of limited knowledge of an unknown world. Today we have the opportunity to know what he did not, to fill in the story that eluded Chaucer.
+
+Amid the carefully censored documents, the conveniently lost manuscripts, and the frustratingly unfinished poems, the answers to a gripping mystery still wait to be slowly dug out again. Like the archaeologist collecting fragments from an ancient, broken mosaic, we may recover only a portion of the original portrait, but even in the faded colors of the chipped pieces we ascertain a glorious image of our history that tells us more about who we are today by seeing who they were then. We may never find the undelivered letter that Columbus carried on his momentous voyage, but it is never too late in history to fill in a missing name.
+
+Ulaanbaatar, Mongolia   
+Year of the Ox, 2009
+
+
+
+
