@@ -1,0 +1,127 @@
+\documentclass[twoside]{article}
+\usepackage[accepted]{aistats2e}
+
+\usepackage[numbers]{natbib}
+
+\usepackage{color}
+\usepackage{latexsym}
+\usepackage{amsmath,amssymb,amsthm,amsfonts}
+\usepackage{algorithm,algorithmic}
+\usepackage{graphicx,subfigure}
+
+%\usepackage[accepted]{aistats2e}
+
+% If your paper is accepted, change the options for the package
+% aistats2e as follows:
+%
+%\usepackage[accepted]{aistats2e}
+%
+% This option will print headings for the title of your paper and
+% headings for the authors names, plus a copyright note at the end of
+% the first column of the first page.
+
+
+\begin{document}
+
+% If your paper is accepted and the title of your paper is very long,
+% the style will print as headings an error message. Use the following
+% command to supply a shorter title of your paper so that it can be
+% used as headings.
+%
+%\runningtitle{I use this title instead because the last one was very long}
+
+% If your paper is accepted and the number of authors is large, the
+% style will print as headings an error message. Use the following
+% command to supply a shorter version of the authors names so that
+% they can be used as headings (for example, use only the surnames)
+%
+%\runningauthor{Surname 1, Surname 2, Surname 3, ...., Surname n}
+
+\twocolumn[
+
+\aistatstitle{On Learning Discrete Graphical Models using Group-Sparse Regularization}
+
+\aistatsauthor{Ali Jalali \And Pradeep Ravikumar \And Vishvas Vasuki \And Sujay Sanghavi}
+
+\aistatsaddress{ECE, UT Austin \\ \texttt{alij@mail.utexas.edu} \And CS, UT Austin\\ \texttt{pradeepr@cs.utexas.edu} \And CS, UT Austin\\ \texttt{vvasuki@cs.utexas.edu} \And ECE, UT Austin\\\texttt{sanghavi@mail.utexas.edu}}]
+
+
+\bibliographystyle{plainnat}
+
+%%%%% MACROS %%%%%
+
+
+\newtheorem{lemma}{Lemma}
+\newtheorem{definition}{Definition}
+\newtheorem{proposition}{Proposition}
+\newtheorem{theorem}{Theorem}
+
+\newenvironment{carlist}
+{\begin{list}{$\bullet$}
+{\setlength{\topsep}{0in} \setlength{\partopsep}{0in}
+ \setlength{\parsep}{0in} \setlength{\itemsep}{\parskip}
+ \setlength{\leftmargin}{0.07in} \setlength{\rightmargin}{0.08in}
+ \setlength{\listparindent}{0in} \setlength{\labelwidth}{0.08in}
+ \setlength{\labelsep}{0.1in} \setlength{\itemindent}{0in}}}
+{\end{list}}
+
+\newcommand\inner[1]{\left\langle #1 \right\rangle}
+\newcommand\myparagraph[1]{\noindent {\it #1.}}
+%\newcommand{\myparagraph}[1]{\noindent \paragraph{#1}}
+\newcommand{\comment}[1]{}
+\newcommand{\tr}[2]{\left<#1,#2\right>}
+\newcommand{\matnorm}[2]{|\!|\!|#1|\!|\!|_{#2}}
+\newcommand{\norm}[2]{\left\|#1\right\|_{#2}}
+\newcommand{\flaten}[1]{\mathbf{v}\left(#1\right)}
+
+\def\Data{\mathcal{D}}
+\def\M{\mathcal{M}}
+\def\N{\mathcal{N}}
+\def\A{\mathcal{A}}
+\def\X{\mathcal{X}}
+\def\I{\mathcal{I}}
+\def\J{\mathcal{J}}
+\def\real{\mathbb{R}}
+\def\reals{\mathbb{R}}
+\def\pdim{p}
+\def\mdim{m}
+\def\kdim{k}
+\def\numobs{n}
+\def\Data{D}
+\def\regpar{\lambda}
+\def\vertex{V}
+\def\edge{E}
+\def\statenum{m}
+\def\svert{\ensuremath{r}}
+\def\defn{:=}
+\def\fisher{Q}
+\def\support{S}
+\def\dual{Z}
+\def\graph{G}
+\def\degmax{d}
+\def\order{\mathcal{O}}
+\def\mprob{\mathbb{P}}
+\def\defn{:=}
+\def\maxcliquesize{c}
+
+\begin{abstract}
+\input{abstract}
+\end{abstract}
+
+\input{intro}
+
+\input{prelims}
+
+\input{pairwise}
+
+\input{general}
+
+\input{experiments}
+
+\newpage
+\bibliography{dgm}
+
+\newpage\phantom{.}\newpage
+\input{appendix}
+
+\end{document}
