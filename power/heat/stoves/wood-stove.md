@@ -25,6 +25,8 @@ title: Wood Stove
 ### Design patterns
 - Provide holes below 
 
+### Material
+
 ## Cubes with top side open
 - If the combustion area is large enough and not cramped, equivalent to burning wood out in the open. Or in principle equivalent to a "Cube with 2 sides open" type stove with pot on top.  
 - Example: traditional homa-kUNDa-s (Idealized).  
@@ -105,7 +107,9 @@ This seems to achieve characteristics similar to "Cube with 2 sides open + holes
 - With just bricks - basic - [HS19](https://youtu.be/tbBilWdfPgM)
 
 ## Chimneys
-See [chimney page](../../../motion/chimney).
+See [chimney page](/notes/places/environment/air/chimney).
+
+- It'll make the smoke exit point higher, at least - which will make standing around comfortable.
 
 ## Elevation
 - कुण्डानाम् उच्चतया धूमप्रभावेणायुर्हरणं न स्यात् तावत्।

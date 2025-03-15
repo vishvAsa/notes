@@ -5,6 +5,7 @@ title = "Chimney"
 ## Intro
 - The addition of chimneys, in all cases, reduces smoke pollution. It also increases combustion efficiency due to the chimney effect - more effectively pulling fresh air.
 - Chimney effect - height of the chimney is directly proportional to the pressure with which cold air gets sucked in.
+- It'll make the smoke exit point higher, at least - which will make standing around comfortable.
 
 ## Parameters
 - Suction power. Should suffice to change air 10 times per hour. This means 1000 m3/h for 353 sqft space (10ft high ceiling). 1186 m3/hr for 419 cuft space. 50 m3/hr for 1780 cuft.
