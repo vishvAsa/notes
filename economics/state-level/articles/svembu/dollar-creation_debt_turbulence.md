@@ -10,6 +10,15 @@ The US Fed unleashed a massive round of dollar creation post pandemic. That has 
 
 When we understand money as debt, it becomes clear: when we take on debt, we have a deluge and when the debt comes due, there is a shortage and both are happening at different places.+++(4)+++ So huge is the dollar-denominated debt that new dollar debt creation struggles to keep up with past debt coming due. Added to that sheer problem of quantity, there is also the issue that new debt doesn't necessarily go to those who face repayment of past debt.+++(4)+++ We witness the phenomenon of boom and bust going on simultaneously. 
 
+## Never ending china + money production
+
+
+China is addicted to investment, at the cost of consumption. They are constrained to "export at all costs" and that effectively forces other nations to import in excess.
+
+The only way this system has "balanced" itself is by endlessly increasing debt (and therefore money, because money itself is someone else's debt in our money-backed-with-nothing pure fiat system). In a saner monetary system, importing nations would have literally "run out of money(gold)" so they could not keep importing.
+
+Can this fundamentally flawed system go on another 25 years? I am very doubtful but then again I thought the global financial crisis already signaled the end of the system.
+
 ## Turbulence
 The magnitude as well as the frequency of booms and busts increase. The system becomes increasingly unstable. The system is evolving towards the point of complete loss of control by the Fed. As long as the booms and busts were reasonably "contained" in asset markets, equity/bonds/housing, as opposed to the labor market and consumer prices, the Fed could maintain the illusion of control. That illusion is now shattered. 
 
