@@ -25,6 +25,11 @@ git submodule add -b some_branch -f https://github.com/XYZ/UVW subdir_path
 git config --global http.version HTTP/1.1
 ```
 
+### Drop history
+Just do a shallow clone (`git clone --depth 10`) and force push `git push -f`.
+
+Rebasing can go haywire - requiring merge conflict fixes.
+
 ## Sonatype
 - They provide infrastructure to publish open source libraries to Maven
 - staging repositories
