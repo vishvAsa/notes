@@ -2,6 +2,11 @@
 title = "शास्त्र-रक्षा"
 +++
 
+## Pyramid layers
+There is a pyramid structure here. At the base, people get mass-propaganda. Of those, some are interested in serious dedication (at the level of practice). Of those go for rigorous studies. Of those, some get to shAstrArtha / authorship capacity.
+
+VRI-type initiatives address the top layers- but the bottom portion/ foundation, which feeds the higher layers, is shaky.
+
 ## वैदुष्य-रक्षा
 यत्र विदुषाम् अधिकं गमनागमनं भवति,  
 यत्र च ग्रन्थास् सुलभास् ("कोशवान् पण्डितः"),  
@@ -34,3 +39,15 @@ title = "शास्त्र-रक्षा"
   बहूनां ग्रन्थानाम् अध्ययनपरम्परा नष्टा। वादिनो नोपलभ्यन्त इत्य् उपहसन्ति परे। 
 - अहोबिल-मठेन मालोल-विद्वत्-सभा प्रतिवर्षम् आयोज्यते, २०२४ वर्षात् प्रतिमासम् अपि चॆन्नै-समीपे सॆळयूर्-नगरे आयोजितम्। किञ्च, मठाधिपतिभिश् शिक्षणे परीक्षायां चान्यतुल्य-प्रयासो न कृतः। 
 
+## Mass propaganda
+### 2025 shAnkara surge
+There's been a recent big upsurge in shAnkara consolidation / education outreach (especially exacerbated by inter-maTha competition among them, involving young yatis). This is worthy of emulation by other mata-s.
+
+Some examples -
+
+- 22nd & 23rd March at Sringeri: An opportunity to learn the concise yet profound text Shatashloki, which covers the fundamental principles of Vedanta from some of the most learned scholars. Registration Link: https://tinyurl.com/sringeri
+- 5th & 6th April at Sringeri: Parallel programs for adults and kids. "Give your children a foundation in Dharma and nurture their spiritual growth through Samskara Sudha. Registration Link: https://tinyurl.com/SringeriVS"
+- [TW](https://sringeri.net/hariharanamamrita) इत्य् आधुनिक-शाङ्कराणां कश्चन प्रयासः। नित्यं १०० राम-शिवयोर् नामनी लिखित्वा समर्पणीयानीति। (मायावादो न तावज्जनमनोग्राहक इति हरिहराभेदं तस्मिन्न् आरोप्य प्रचरन्त्य् अर्वाचीनास् तेषु।) 
+- बालेभ्यः, बालिकाभ्यश् च विशिष्य शाङ्कर-श्लोकाभ्यास "दीक्षा"। 
+- बालिकाभ्य उपनयनवन् मन्त्रोपदेश-दीक्षा-प्रस्तावः। 
+- Dress up children as Shankaracharya on Shankara Jayanthi, make them recite stotras attributed to shankara and participate in the celebrations at Sringeri for shankara-jayantI.
