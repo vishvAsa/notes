@@ -20,7 +20,7 @@ VRI-type initiatives address the top layers- but the bottom portion/ foundation,
 
 ज्ञान-नाशय् आचार-नाशो मा चिरम् अनुसरति।
 
-## माध्वेषु
+### माध्वेषु
 उत्तरादिमठे पेजावरमठे राघवेन्द्रस्वामिमठे च न्यायसुधा-परीक्षां यय् उत्तरन्ति, तेभ्यः \~४ लक्षान् ददति (२०२५)।  (तथापि प्रायेण न विप्रा दरिद्रा इति कारणेन, कीर्तिः प्रेरयतितराम्। )  
 एषु परस्पर-स्मर्धा भवति - "अस्माभिर् अधिकास् सुधापण्डितास् सृज्यन्त" इति, येन पोषकास् स्वपुत्रान् एकत्रान्यत्र वा प्रेषयितुं प्रभाविताः।
 किञ्चानया स्पर्धया कदाचित् परीक्षायां शैथिल्यम् भवति‌ ‌। छात्रेष्व् अपि छलम् भवति - साधरणतो ये भागास् सर्वत्र पृच्छ्यन्ते, तान् एवाधीत्योत्तरन्तीति।
@@ -29,17 +29,27 @@ VRI-type initiatives address the top layers- but the bottom portion/ foundation,
 
 एवं न्यायामृतस्यापि (न्यायसुधापेक्ष्या लघुतरस्य) परीक्षा भवति। 
 
-## शाङ्करेषु
+### शाङ्करेषु
 तॆनाली-परीक्षायां १४ शास्त्र-ग्रन्थाः शिक्ष्यन्ते परीक्ष्यन्ते च।  
 तत्-पृष्ठतः शृङ्गेरी-शारदा-मठो वर्तते, तद्-धनिक-भक्ताश् च।  
 परीक्षा-पारङ्गतेभ्यः प्रतिमासम् इयद् इति वेतनम् अपि ददति कानिचिद् वर्षाणि यावत्। 
 
-## श्रीवैष्णवेषु
-- २०२५-वर्षे स्थितिः - श्रीवैष्णवेषु ५-७ वैव पण्डितास् सन्ति । 
+### श्रीवैष्णवेषु
+#### प्राचीना स्थितिः
+ग्रन्थ-चतुष्टयाभ्यासस् सद्-विप्रेषु साधु प्रोत्साहितः।  
+बालाभ्यः, अन्यत्र च द्विय-प्रबन्ध--देशिक-स्तोत्राद्य्-अभ्यासः। 
+
+#### २०२५-वर्षे स्थितिः 
+- श्रीवैष्णवेषु ५-७ वैव पण्डितास् सन्ति । 
   बहूनां ग्रन्थानाम् अध्ययनपरम्परा नष्टा। वादिनो नोपलभ्यन्त इत्य् उपहसन्ति परे। 
 - अहोबिल-मठेन मालोल-विद्वत्-सभा प्रतिवर्षम् आयोज्यते, २०२४ वर्षात् प्रतिमासम् अपि चॆन्नै-समीपे सॆळयूर्-नगरे आयोजितम्। किञ्च, मठाधिपतिभिश् शिक्षणे परीक्षायां चान्यतुल्य-प्रयासो न कृतः। 
 
 ## Mass propaganda
+### shrIvaiShNavas
+- https://pracharam.in/ - An admirable tenkalai campaign.
+
+(Properly, this should be the job of pravachana-kAra-s and maTha-consolidation events.)
+
 ### 2025 shAnkara surge
 There's been a recent big upsurge in shAnkara consolidation / education outreach (especially exacerbated by inter-maTha competition among them, involving young yatis). This is worthy of emulation by other mata-s.
 
@@ -51,3 +61,9 @@ Some examples -
 - बालेभ्यः, बालिकाभ्यश् च विशिष्य शाङ्कर-श्लोकाभ्यास "दीक्षा"। 
 - बालिकाभ्य उपनयनवन् मन्त्रोपदेश-दीक्षा-प्रस्तावः। 
 - Dress up children as Shankaracharya on Shankara Jayanthi, make them recite stotras attributed to shankara and participate in the celebrations at Sringeri for shankara-jayantI.
+
+## Updation
+### माध्वेषु
+Around 2023, the mAdhva-s conducted [a seminar](https://www.youtube.com/live/ZfA-b9wlEbc) - speakers being Physics & CS professors (some also educated in shAstra - including advaita vedAnta) - to dismiss the notion that "Quantum theory implies advaita" which was going around at that time [eg YT](https://www.youtube.com/watch?v=bQBh3d5Kvk0). Quite good too (in content, Q&A, attendence)! Can't even imagine SV-s doing that (and that too at short notice.) 
+
+That said, some mAdhva-s (even IISc prof types) are flat-earthers/ finding it very hard to accept basic astronomical facts in the face of "shAstra". (Of course, this gets a relatively simple solution "अप्राप्ते तु शास्त्रम् अर्थवत्" per rAmAnuja and even generic mImAMsa - still because of their extreme deification of vyAsa they get bigger cognitive dissonance)

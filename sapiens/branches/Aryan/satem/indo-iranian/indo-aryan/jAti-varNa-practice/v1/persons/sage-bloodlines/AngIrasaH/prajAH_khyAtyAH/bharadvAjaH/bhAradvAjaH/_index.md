@@ -3,6 +3,9 @@ title: +भारद्वाजाः
 unicode_script: devanagari
 ---
 
+> Kevala in K-Bhāradvāja: There are many upagaņas of the Bhāradvājas; some are Gārgyas, some are Raukșāyaņas, these have Ańgiras, Brhaspati, Bharadvāja + yet later Rșīs. The vast majority of Bhāradvājas have **only** up to Bharadvāja; hence K-Bhāradvāja. - GA
+
+
 ## अर्वाचीनाः
 ### श्रीहर्षः
 - one of the greatest अद्वैती writers, author of the नैषधीयचरितम् & खण्डनखण्डखाद्यम्, the latter renowned for its aggressive tour de force against classical न्याय as we knew it
