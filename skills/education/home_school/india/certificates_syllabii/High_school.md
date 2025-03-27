@@ -1,7 +1,7 @@
 +++
-title = "Syllabii"
-+++
+title = "High school"
 
++++
 ## NIOS
 - Quite flexible.  
 - If you go through NIOS, but have excellent SAT scores, you can still enter good international universities. 
@@ -12,7 +12,8 @@ title = "Syllabii"
     - Indian knowledge tradition
   - For base certificate - 5 subjects. Must have 1-2 languages (group A). 
   - Additional mention - 2 extra subjects (can have 3rd language)
-- Anyone with a secondary certificate can enter **senior secondary course** (12th); and the thence university.
+- Anyone with a secondary certificate can enter **senior secondary course** (12th); and the thence university. 
+  - The student will not be able to give exam before one year. Practically takes Min 2 years from time of registration to get certificate.
   - subject groups
     - group A languages
     - math and others (group B)
@@ -28,6 +29,7 @@ title = "Syllabii"
 ## Cambridge Advanced AICE
 - Ref 
   - [TW](https://www.cambridgeinternational.org/usa/higher-ed/guide-to-cambridge)
+- Can be taken without IGCSE.
 - Courses & certs:
   - Advanced Subsidiary (AS) Level: 1-year courses (=1 semester university course), 180 teaching hours, 3-4 college credits
     - Grades - A\* A B C D E (US equivalent - A+ A, B+ B, C+ C)
@@ -68,12 +70,3 @@ title = "Syllabii"
 
 ## Practical science
 - [Weareteachers](https://www.weareteachers.com/easy-science-experiments/)
-
-## Language
-### English
-- Cambridge resources
-
-### Chandamama collections
-- [Tamil](https://archive.org/details/ambulimama_tamil-chandamama_all)
-- [Hindi](https://archive.org/details/chandamama-hindi-all)
-
