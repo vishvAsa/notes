@@ -9,6 +9,8 @@ title: Implementation
 - करव्याप्तौ स्थितासु लेखासु वर्षे वर्षे। कराधिक्यम् वारयितुम्।
 
 ### अमेरिकेषु
+TODO: What about Ch Schwab? 
+
 - TD Ameritrade इत्यत्र my account → portfolio planner प्रयोगः पूर्वतटव्यवहारसमये। Use total money to be invested.
 
 #### Reg T, Good faith violation
@@ -22,6 +24,9 @@ title: Implementation
 - Wednesday afternoon, Janet sells FAHN for $11,000, making a $500 profit. However, FAHN's original purchase wasn't fully paid for because XYZ's sale hadn't yet settled.
 
 ##### TD Ameritrade
+
+TODO: What about Ch Schwab?
+
 - If this happens three times in a 12-month period, a client will be restricted to trading with settled cash for 90 days (TdAmeritrade).
 - Avoid by looking at [My Account > History and Statements > Transactions](https://invest.ameritrade.com/grid/p/site#r=jPage/cgi-bin/apps/u/History) , looking at dividend dates, and possibly temporarily freezing [dividend reinvestment](https://invest.ameritrade.com/grid/p/site#r=drip). 
 
@@ -49,6 +54,19 @@ Joint accounts only possible with majors, not minors.
 
 ##### Dormancy
 > As per Exchange guidelines, if no trades/investments/transactions have been made from your Upstox Trading and Demat or MCX account in the last 12 months we make it inactive/dormant.
+
+Consequence - 
+
+- You can’t place any new trades in Equity, F&O, Commodity or Currency segment
+- You can’t sell any existing holdings
+- You can't add or withdraw funds
+- You can invest in IPOs but will not be able to sell the IPO allocated shares
+- Can get dividents etc..
+
+Reactivation 
+
+- Post 12 months - can do it on app.
+- Post 24 months - must redo KYC
 
 ##### Transfers
 - Deposit via NEFT - no fees.
