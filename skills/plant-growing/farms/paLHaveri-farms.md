@@ -1,5 +1,5 @@
 +++
-title = "Palaveri farms"
+title = "paLHaveri farms"
 +++
 
 (Palaveri village till 1991.)
