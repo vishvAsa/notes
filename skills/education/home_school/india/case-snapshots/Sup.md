@@ -10,16 +10,17 @@ title = "Supr"
 - Taekwondo (**Iban-Jhop**)
 - कर्णाटक-कण्ठ-सङ्गीतम् (स्नेहश्री, **राजलक्ष्मी**)
 - कर्णाटक-सङ्गीतम् - Violin (**राजलक्ष्मी**)
-- भरत-नृत्तम् - राधिका (पन्दनल्लूर्-शैली)
+- भरत-नृत्तम् - कविता (पन्दनल्लूर्-शैली)
 - Spanish - daily 5 min (duolingo)
 - Portuguese - daily 5 min (duolingo)
-- रहस्य-त्रय-सारादि - पलवेरि-लक्ष्मीनरसिंहः (अर्धावधानेन)
-- वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**रमेशः**)
+- रहस्य-त्रय-सारादि - पऴवेरि-लक्ष्मीनरसिंहः (अर्धावधानेन)
+- वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
 - परवस्तु-सामानि (विश्वसः)
 - पञ्चतन्त्रम् (विश्वसः)
 
 ## Past
 - swimming (rAhul)
+- नृत्यम् - राधिका
 - kannaDa, english reading (श्रुतिः)
 - Goodreads [here](https://www.goodreads.com/review/list/184092601?shelf=read)
 
@@ -28,8 +29,12 @@ Class and ritual timings give structure.
 
 Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, samidAdhAna
 
+## 2025-04
+- भरत-नृत्यम् - कविता (पन्द-नल्लूरु-शैली). 1k monthly, 800 admission.
+- वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
+
 ## 2024-12
-- भरत-नृत्यम् - nRtyoma **राधिका** (पन्द-नल्लूरु-शैली). 1k monthly, 2k admission.
+- भरत-नृत्यम् - nRtyoma **राधिका** (पन्द-नल्लूरु-शैली). 1k monthly, 2k admission. Later asked 6k for compulsory "annual day".
 
 ## 2024-11
 - Started Portuguese on **Duolingo**

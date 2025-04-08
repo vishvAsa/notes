@@ -11,15 +11,19 @@ title = "vajr"
 - भरत-नृत्तम् - राधिका (पन्दनल्लूर्-शैली)
 - Telugu rAmAyaNa - secondary (श्रीदेवी)
 - परवस्तु-सामानि (विश्वसः)
-- वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**रमेशः**)
+- वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
 
 ## Routine
 Class and ritual timings give structure.
 
 Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, samidAdhAna
 
+## 2025-04
+- भरत-नृत्यम् - कविता (पन्द-नल्लूरु-शैली). 1k monthly, 800 admission.
+- वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
+
 ## 2024-12
-- भरत-नृत्यम् - nRtyoma **राधिका**. 1k monthly, 2k admission.
+- भरत-नृत्यम् - nRtyoma **राधिका**. 1k monthly, 2k admission. Later asked 6k for compulsory "annual day".
 
 ## 2024-11
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**रमेशः**)
