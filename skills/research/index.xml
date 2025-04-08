@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Research on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/skills/research/</link>
+    <description>Recent content in &#43;Research on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vishvAsa.github.io/notes/skills/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Problem picking</title>
+      <link>https://vishvAsa.github.io/notes/skills/research/Problem_picking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/skills/research/Problem_picking/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;It is very important to critique a paper or a talk, understand its&#xA;shortcomings, suggest future improvements. Thence, incremental research&#xA;occurs.&lt;/p&gt;&#xA;&lt;p&gt;General loop: Find area. Find problem in a given area. Find solution&#xA;strategy for a given problem. Implement solution, evaluate, communicate.&lt;/p&gt;&#xA;&lt;p&gt;Popular research mode: Knowing and heavily using old techniques: take a&#xA;few hammers, hit everything with it. Finding new techniques is rare and&#xA;hard.&lt;/p&gt;&#xA;&lt;p&gt;OFTEN, perturb the problem and extrapolate a solution. This is a very&#xA;important skill.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
