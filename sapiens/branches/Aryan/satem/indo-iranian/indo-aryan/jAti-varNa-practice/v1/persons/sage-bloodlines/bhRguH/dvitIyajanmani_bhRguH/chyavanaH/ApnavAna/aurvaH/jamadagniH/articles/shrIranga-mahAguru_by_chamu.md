@@ -9,7 +9,7 @@ Sriranga Mahaguru's mother Smt Rukminiyamma- Sriranga Mahaguru's mother
 
 Smt Rukminiyamma
 
-"Obeisance to the Teacher of teachers  
+> "Obeisance to the Teacher of teachers  
 who is of the form of Sat, Chit and Ananda,  
 who is the inner-self of bindu Nada and  
 who has no beginning, no middle and no end".

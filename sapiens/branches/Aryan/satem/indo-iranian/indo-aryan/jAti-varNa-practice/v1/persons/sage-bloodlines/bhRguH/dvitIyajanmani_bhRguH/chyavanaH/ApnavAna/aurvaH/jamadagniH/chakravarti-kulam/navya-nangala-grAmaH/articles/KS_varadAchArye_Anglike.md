@@ -1,9 +1,8 @@
 +++
-title = "KS वरदाचार्य आङ्ग्लिके"
+title = "KS वरदाचार्य आङ्ग्लिके - वरदराजसूनुर् मणिः"
 +++
 
 
-## वरदराजसूनुर् मणिः
 I would like to share the principles behind Sri Varadacharya's approach to philosophy. For years he was a research scholar at the Oriental Research Institute in Mysore, doing fundamental work in Nyaya and Vedanta. He has published the canonical work on Jayanta Bhatta's Nyaya Manjari, for example.
 
 Born in 1922, he trained with the legendary adhipati of the Parakala Matha in Mysore, Sri Sri Abhinava Ranganatha Parakala Swami, who insisted on an impartial, contextually sensitive study of the great Indian philosophical systems. Sri Varadacharya also received complementary guidance from some advanced yogis. His work and thinking reflects the intellectual rigor of Parakala Swami and the outcome of deep spiritual practice.
