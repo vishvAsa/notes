@@ -1,0 +1,213 @@
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'client'
+Subfeature = 'setup'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import pymongo
+from pymongo import MongoClient
+client = MongoClient()
+client = MongoClient('localhost', 27017)
+client = MongoClient('mongodb://localhost:27017/')'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'database'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+db = client.test_database
+db = client['test-database']'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'database'
+Subfeature = 'list collections'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'db.collection_names(include_system_collections=False)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'database'
+Subfeature = 'delete'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'drop_database(name_or_database)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'collection'
+Subfeature = 'get'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'db[collection_name] || db.collection_name'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'collection'
+Subfeature = 'delete'
+Importance = ''
+"Implementation Type" = ''
+Syntax = 'drop_collection(name_or_collection)'
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'document'
+Subfeature = 'insert'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+post = {"author": "Mike",
+"tags": ["mongodb", "python", "pymongo"]}
+post_id = posts.insert_one(post).inserted_id # some ObjectId'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'document'
+Subfeature = 'insert many'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+result = posts.insert_many(post_list)
+>>> result.inserted_ids
+[ObjectId('...'), ObjectId('...')]'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'document'
+Subfeature = 'update'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+result_dict = mycollection.update({'_id':mongo_id}, {"$set": someDict}, upsert=True)
+result_dict = self.books.update({"path" : book["path"]}, book, upsert=True)'''
+Description = '''
+upsert  = update or else insert.
+Returns a document containing:
+{'updatedExisting': False, u'nModified': 0, u'ok': 1, u'upserted': ObjectId('58f92e1c68049d8fb432d08f'), u'n': 1} 
+{'updatedExisting': True, u'nModified': 1, u'ok': 1, u'n': 1} 
+A boolean acknowledged as true if the operation ran with write concern or false if write concern was disabled
+matchedCount containing the number of matched documents
+modifiedCount containing the number of modified documents
+upsertedId containing the _id for the upserted document'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'document'
+Subfeature = 'update'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+new_doc = db.scores.find_one_and_update(
+   { "name" : "A.B. Abracus" },
+   { $set: { "name" : "A.B. Abracus", "assignment" : 5}, $inc : { "points" : 5 } },
+upsert = True, return_document=ReturnDocument.AFTER
+);'''
+Description = '''
+$set sets values. $inc increments.
+update only works with $ operators'''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'document'
+Subfeature = 'delete many'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+result = db.restaurants.delete_many({"borough": "Manhattan"})
+result.deleted_count
+'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'document'
+Subfeature = 'delete one'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+result = db.test.delete_one({'x': 1})
+result.deleted_count'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'document'
+Subfeature = 'get one'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+import pprint
+doc = posts.find_one()
+doc = posts.find_one({"author": "Mike"})
+
+from bson.objectid import ObjectId
+document = posts.find_one({'_id': ObjectId(post_id)})'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'document'
+Subfeature = 'get many'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+for post in posts.find(filter={"author": "Mike"}, projection={'_id': False, 'pages': False}):
+for post in posts.find():
+  pass
+
+d = datetime.datetime(2009, 11, 12, 12)
+for post in posts.find(filter={"date": {"$lt": d}}).sort("author"):
+  pass'''
+Description = 'syntax same as in mongo shell. see there.'
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'documents'
+Subfeature = 'count'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+posts.count()
+posts.find({"author": "Mike"}).count()'''
+Description = ''
+
+[[data]]
+Language = 'Python'
+"Operand Type" = 'pymongo'
+Feature = 'index'
+Subfeature = 'create'
+Importance = ''
+"Implementation Type" = ''
+Syntax = '''
+result = db.profiles.create_index([('user_id', pymongo.ASCENDING)],
+...                                   unique=True)
+>>> sorted(list(db.profiles.index_information()))
+[u'_id_', u'user_id_1']'''
+Description = ''
