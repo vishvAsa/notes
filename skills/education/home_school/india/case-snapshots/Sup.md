@@ -8,7 +8,7 @@ title = "Supr"
 - tamiL - shrIvaiShNava texts and mags (बालकृष्णः)
 - Telugu rAmAyaNa (श्रीदेवी)
 - Taekwondo (**Iban-Jhop**)
-- कर्णाटक-कण्ठ-सङ्गीतम् (स्नेहश्री, **राजलक्ष्मी**)
+- कर्णाटक-कण्ठ-सङ्गीतम् (**स्नेहश्री**, **राजलक्ष्मी**)
 - कर्णाटक-सङ्गीतम् - Violin (**राजलक्ष्मी**)
 - भरत-नृत्तम् - कविता (पन्दनल्लूर्-शैली)
 - Spanish - daily 5 min (duolingo)
@@ -20,7 +20,7 @@ title = "Supr"
 
 ## Past
 - swimming (rAhul)
-- नृत्यम् - राधिका
+- नृत्यम् - अनूषा, राधिका
 - kannaDa, english reading (श्रुतिः)
 - Goodreads [here](https://www.goodreads.com/review/list/184092601?shelf=read)
 

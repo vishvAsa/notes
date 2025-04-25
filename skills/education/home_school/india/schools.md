@@ -115,7 +115,8 @@ The female teacher there is a graduate of https://www.tmv.edu.in/ - I have the i
 
 ### कन्याः
 - ubhaya-bhAratI kanyA gurukulam, senkoTTai [YT](https://youtu.be/kNrTgveETUc?si=m2Xhc-B3-Osc9o5I)
-- Sampradaya Pathashala of Kanchi Matham - a traditionalist female gurukula [SG](https://sampradaya.org)
+- Sampradaya Pathashalas of kAnchI maTha - a traditionalist female gurukula [SG](https://sampradaya.org). In multiple locations in TN, AP, TE.
+- shAstra-saraNI by kAnchI maTha - higher education  [TW](https://www.shastrasarani.org/curriculum)
 
 
 ### कला-गुरुकुलानि

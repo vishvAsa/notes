@@ -10,7 +10,10 @@ title = "+Cleaning"
 ### Cleaning paste
 - Baking soda + water is good. [TW](https://www.healthline.com/health/baking-soda-toothpaste) . Long term use can damage enamel.
 - salt occassionally - can permanently damage your tooth enamel.
+
 - neem stick chewed in the end to make a brush.
+- "Pong and Blue berry sticks too work."
+- sopa nut powder?
 
 
 ## Cleaning agents
