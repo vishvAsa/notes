@@ -1,0 +1,491 @@
+ \documentclass[handout]{beamer}
+%\documentclass[handout]{beamer}
+\usepackage{graphicx, color}
+\usepackage{tikz}
+\usepackage{subfigure}
+
+\input{macros}
+\input{presentationMacros}
+
+\usetheme{Copenhagen}
+\pgfdeclarelayer{background}
+\pgfsetlayers{background,main}
+
+\title{Affiliation Recommendation using Auxiliary Networks}
+ \author{\gray{Vishvas Vasuki}, Nagarajan Natarajan, Zhengdong Lu, Inderjit Dhillon}
+ \institute{\emph{Dept. of Computer Science, The University of Texas at Austin}}
+ \date{\orange{RecSys}, 2010}
+
+\definecolor{BurntOrange}{RGB}{221,85,00}
+\setbeamercolor*{palette primary}{fg=black,bg=BurntOrange}
+\setbeamersize{text margin left=1.5ex}
+\setbeamersize{text margin right=1.5ex}
+
+\begin{document}
+
+\frame{\titlepage}
+\begin{frame}
+\frametitle{Outline}
+\begin{itemize}
+\pitem The problem
+\begin{itemize}
+\pitem Introduce terminology, area.
+\pitem What is the task?
+\end{itemize}
+\pitem Modeling user-affiliation affinity.
+\begin{itemize}
+\pitem Latent Factors Model
+\pitem Graph Proximity Model
+\end{itemize}
+\pitem Addressing scalability.
+\pitem Evaluation of the algorithms.
+\pitem Conclusions.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Part 1/5}
+  \hspace{1.1in}
+  \centerline{\huge{Social and Affiliation networks}}
+\end{frame}
+
+\begin{frame}
+\frametitle{Social network $\mathcal{S}$: An undirected graph.}
+
+\tikzstyle{vertex}=[circle, fill=magenta!25,minimum size=15pt,inner sep=0pt]
+\tikzstyle{edge} = [draw,thick,-]
+
+\begin{center}
+\begin{tikzpicture}[scale=2]
+    % Social network
+    \foreach \pos/\name/\user/\anchor in {{(0,1)/4/Dave/left}, {(0,2)/3/Carol/left}, {(1,1)/2/Bob/right},{(1,2)/1/Alice/right},{(1,3)/5/Eve/above}}
+        \node[vertex] (u\name) [label=\anchor:\user] at \pos {$\name$};
+    \foreach \source/ \dest in {u1/u2, u1/u3, u1/u4, u2/u4, u1/u5}
+        \path[edge] (\source) -- (\dest);
+
+    \draw (0.5,3.5) node[above]{$\mathcal{S}$};
+\end{tikzpicture}
+\end{center}
+\begin{itemize}
+ \pitem $S$: users $\times$ users . 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Affiliation network $\mathcal{A}$: A bipartite graph.}
+\tikzstyle{user}=[circle, fill=magenta!25,minimum size=15pt,inner sep=0pt]
+\tikzstyle{community}=[circle, fill=cyan!25,minimum size=15pt,inner sep=0pt]
+\tikzstyle{edge} = [draw,thick,-]
+\begin{center}
+\begin{tikzpicture}[scale=1]
+    % First we draw the vertices
+    \foreach \pos/\name/\user in {{(0,0)/5/Eve}, {(0,1)/4/Dave}, {(0,2)/3/Carol}, {(0,3)/2/Bob},{(0,4)/1/Alice}}
+        \node[user] (u\name) [label=left:\user] at \pos {$\name$};
+    \foreach \pos/\name/\group in {{(2,0)/6/Tennis}, {(2,1)/5/Math}, {(2,2)/4/Football},{(2,3)/3/Science}, {(2,4)/2/Jazz},{(2,5)/1/Salsa},{(2,-1)/7/Cryptography}}
+        \node[community] (c\name)  [label=right:\group] at \pos {$\name$};
+    
+    % Connect vertices with edges
+    \foreach \source/ \dest in {u1/c1,u1/c4,u2/c1,u3/c5,u3/c6,u4/c2,u1/c7,u2/c7,u3/c7,u4/c7,u5/c3}
+        \path[edge] (\source) -- (\dest);
+        
+    \draw (1,5) node[above]{$\mathcal{A}$}; 
+\end{tikzpicture}
+\end{center}
+\begin{itemize}
+ \pitem $A$: users $\times$ groups/affiliations . 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Affiliation networks}
+\begin{itemize}
+\pitem Communities in social networks. 
+\pitem Explicit / Implicit.
+\pitem Not necessarily among people --- gene-disease network.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Social network analysis.}
+\tikzstyle{vertex}=[circle, fill=magenta!25,minimum size=15pt,inner sep=0pt]
+\tikzstyle{edge} = [draw,thick,-]
+
+\begin{center}
+\begin{tikzpicture}[scale=2]
+    % Social network
+    \foreach \pos/\name/\user/\anchor in {{(0,1)/4/Dave/left}, {(0,2)/3/Carol/left}, {(1,1)/2/Bob/right},{(1,2)/1/Alice/right},{(1,3)/5/Eve/above}}
+        \node[vertex] (u\name) [label=\anchor:\user] at \pos {$\name$};
+    \foreach \source/ \dest in {u1/u2, u1/u3, u1/u4, u2/u4, u1/u5}
+        \path[edge] (\source) -- (\dest);
+
+    \draw (0.5,3.5) node[above]{$\mathcal{S}$};
+\end{tikzpicture}
+\end{center}
+\begin{itemize}
+\pitem Modelling network evolution.
+\pitem Link prediction.
+\pitem Community identification.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Our focus: Affiliation Recommendation.}
+\begin{itemize}
+\pitem Suggest communities to the users of a social network.
+\pitem Generalizable to the item recommendation problem.
+\begin{figure}
+\includegraphics[scale=0.25]{../talk/figures/amazonRecommendations.eps}
+\end{figure}
+\pitem Can be thought of as link prediction in the affiliation network.
+\pitem Can we exploit auxiliary networks (like the friendship network)?
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Part 2/5}
+  \hspace{1.1in}
+  \centerline{\huge{Modeling user-affiliation affinity}}
+\end{frame}
+
+\begin{frame}
+\frametitle{The combined network $\mathcal{C}$}
+\tikzstyle{user}=[circle, fill=magenta!25,minimum size=15pt,inner sep=0pt]
+\tikzstyle{community}=[circle, fill=cyan!25,minimum size=15pt,inner sep=0pt]
+\tikzstyle{userUserEdge} = [draw,thick,-, color=red]
+\tikzstyle{userGroupEdge} = [draw,thick,-, color=blue]
+\pause
+\begin{tikzpicture}[scale=0.8]	
+    % Combined network
+    \foreach \pos/\name/\user in {{(5,0)/5/Eve}, {(5,1)/4/Dave}, {(5,2)/3/Carol}, {(5,3)/2/Bob},{(5,4)/1/Alice}}
+        \node[user] (u\name) [label=left:\user] at \pos {$\name$};
+    \foreach \pos/\name/\group in {{(7,0)/6/Tennis}, {(7,1)/5/Math}, {(7,2)/4/Football},{(7,3)/3/Science}, {(7,4)/2/Jazz},{(7,5)/1/Salsa},{(7,-1)/7/Cryptography}}
+        \node[community] (c\name)  [label=right:\group] at \pos {$\name$};
+    \foreach \source/ \dest in {u1/u2, u1/u3, u1/u4, u2/u4,u1/u5}
+       \path (\source) edge [color=red, bend right] (\dest);
+    \foreach \source/ \dest in {u1/c1,u1/c4,u2/c1,u3/c5,u3/c6,u4/c2,u1/c7,u2/c7,u3/c7,u4/c7,u5/c3}
+        \path[userGroupEdge] (\source) -- (\dest);
+    \draw (5,5) node[above]{\large{$\mathcal{C}$}};
+   \pause
+    % Write the combined adjacency matrix
+    \draw (0,2) node[above] {\large{$\bC(\gl, \bD) = \begin{bmatrix} \gl \red{S}& \blue{A}\\ \blue{A^{T}}& \bD\end{bmatrix}$}};
+\end{tikzpicture}
+\begin{itemize}
+ \pitem $\red{S}$: User-User adjacency.
+ \pitem $\blue{A}$: User-Affiliation adjacency.
+ \pitem $\gl$: relative weight associated with information in $S$.
+ \pitem $\bD$: unobserved (choices: $A^{T}A$, \dots).
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Sub-part 1/2}
+  \hspace{1.1in}
+  \centerline{\huge{Latent factors model}}
+\end{frame}
+
+\begin{frame}
+\frametitle{Modeling $\mathcal{A}$ alone}
+\begin{itemize}
+\pitem User-group affinity as product of low dimensional vectors: $\blue{A}_{i, j} \approx \dprod{\bU(i, :), \bG(i, :)}$.
+\pause
+\[ \blue{A} \approx \bU \bG^{T} \] 
+\[ \text{rank}(\bU) \leq k, \text{rank}(\bG) \leq k \]
+$\bU$ - User preferences; $\bG$ - Affiliation characteristics.
+\pitem For user $u$, recommend affiliations with high affinity.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Modeling $\mathcal{C}$}
+\begin{itemize}
+\pitem A \textbf{good model} will account for edges in $\red{S}$ too. 
+\pause
+\[\bC(\gl, \bD) = \begin{bmatrix} \gl \red{S}& \blue{A} \\ \blue{A^{T}}& \bD\end{bmatrix} \approx \begin{bmatrix} \bV_1 \\ \bV_2 \end{bmatrix} \Lambda \begin{bmatrix} \bV_1^{T} & \bV_2^{T} \end{bmatrix}\]
+\[\text{rank}(\bV_i) \leq k, \text{rank}(\Lambda) \leq k \]
+\pitem So $\blue{A} \approx \bV_1 \Lambda \bV_2^T$.
+\pitem $\bV_1 \Lambda \bV_2^T$ is a similarity score matrix for ranking potential affiliations.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{}
+ \frametitle{Sub-part 2/2}
+  \hspace{1.1in}
+  \centerline{\huge{Graph proximity model}}
+\end{frame}
+
+\begin{frame}
+\frametitle{Proximity between users in a social network}
+\tikzstyle{vertex}=[circle, fill=magenta!25,minimum size=15pt,inner sep=0pt]
+\tikzstyle{selected vertex}=[vertex, fill=red]
+\tikzstyle{unselect vertex}=[vertex, fill=magenta!25]
+\tikzstyle{edge} = [draw,thick,-]
+\tikzstyle{selected edge} = [edge,line width=3pt,red!25]
+\tikzstyle{unselect edge} = [selected edge, red]
+
+\begin{center}
+\begin{tikzpicture}[scale=2]
+    % Social network
+    \node[vertex] (u4) at (0,1) {};
+    \node[vertex] (u3) at (0,2) {$i$};
+    \node[vertex] (u2) at (1,1) {$j$};
+    \node[vertex] (u1) at (1,2) {};
+    \node[vertex] (u5) at (1,3) {};
+    
+    \foreach \source/ \dest in {u1/u2, u1/u3, u1/u4, u2/u4, u1/u5}
+        \path[edge] (\source) -- (\dest);
+    \begin{pgfonlayer}{background}
+        \pause
+        \foreach \source / \dest in {3/1, 1/2}
+            \path<+->[selected edge] (u\source) -- (u\dest);
+        \foreach \source / \dest / \fr in {3/1/4,1/2/4}
+            \path<\fr->[unselect edge] (u\source) -- (u\dest);
+    \end{pgfonlayer}
+\end{tikzpicture}
+\end{center}
+\pause
+$(\bC^{2})_{i,j}$ : Number of paths of length 2 between $i$ and $j$.
+\end{frame}
+
+\begin{frame}
+\frametitle{Proximity between users in a social network}
+\tikzstyle{vertex}=[circle, fill=magenta!25,minimum size=15pt,inner sep=0pt]
+\tikzstyle{selected vertex}=[vertex, fill=red]
+\tikzstyle{unselect vertex}=[vertex, fill=magenta!25]
+\tikzstyle{edge} = [draw,thick,-]
+\tikzstyle{selected edge} = [edge,line width=3pt,red!25]
+\tikzstyle{unselect edge} = [selected edge, red]
+
+\begin{center}
+\begin{tikzpicture}[scale=2]
+    % Social network
+    \node[vertex] (u4) at (0,1) {};
+    \node[vertex] (u3) at (0,2) {$i$};
+    \node[vertex] (u2) at (1,1) {$j$};
+    \node[vertex] (u1) at (1,2) {};
+    \node[vertex] (u5) at (1,3) {};
+    \foreach \source/ \dest in {u1/u2, u1/u3, u1/u4, u2/u4, u1/u5}
+        \path[edge] (\source) -- (\dest);
+
+    \begin{pgfonlayer}{background}
+        \pause
+        \foreach \source / \dest in {3/1,1/4, 4/2}
+            \path<+->[selected edge] (u\source) -- (u\dest);
+        \foreach \source / \dest / \fr in {3/1/5,1/4/5,4/2/5}
+            \path<\fr->[unselect edge] (u\source) -- (u\dest);
+    \end{pgfonlayer}
+\end{tikzpicture}
+\end{center}
+\pause
+$(\bC^{3})_{i,j}$ : Number of paths of length 3 between $i$ and $j$.
+\end{frame}
+
+\begin{frame}
+\frametitle{Graph Proximity Model}
+\begin{itemize}
+\pitem $\text{Proximity}(i, j) = \gb^{2} (\bC^{2})_{i,j} + \gb^{3}(\bC^3)_{i,j} + \dots$
+\pitem Known as Katz measure, when the series is convergent, i.e. $\|\gb \bC \|_{2} < 1$.
+\pitem A practical and good approximation: Truncated Katz,
+\[ \textsf{tKatz}(\bC, \gb, k) = \sum_{i=1}^{k} \gb^i \bC^i. \]
+\pitem Recommend affiliations based on proximity in $\bC$.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Types of paths considered}
+\tikzstyle{user}=[circle, fill=magenta!25,minimum size=15pt,inner sep=0pt]
+\tikzstyle{community}=[circle, fill=cyan!25,minimum size=15pt,inner sep=0pt]
+\tikzstyle{userUserEdge} = [draw,thick,-, color=red]
+\tikzstyle{userGroupEdge} = [draw,thick,-, color=blue]
+\pause
+\begin{tikzpicture}[scale=0.8]	
+    % Combined network
+    \foreach \pos/\name/\user in {{(5,0)/5/Eve}, {(5,1)/4/Dave}, {(5,2)/3/Carol}, {(5,3)/2/Bob},{(5,4)/1/Alice}}
+        \node[user] (u\name) [label=left:\user] at \pos {$\name$};
+    \foreach \pos/\name/\group in {{(7,0)/6/Tennis}, {(7,1)/5/Math}, {(7,2)/4/Football},{(7,3)/3/Science}, {(7,4)/2/Jazz},{(7,5)/1/Salsa},{(7,-1)/7/Cryptography}}
+        \node[community] (c\name)  [label=right:\group] at \pos {$\name$};
+    \foreach \source/ \dest in {u1/u2, u1/u3, u1/u4, u2/u4,u1/u5}
+       \path (\source) edge [color=red, bend right] (\dest);
+    \foreach \source/ \dest in {u1/c1,u1/c4,u2/c1,u3/c5,u3/c6,u4/c2,u1/c7,u2/c7,u3/c7,u4/c7,u5/c3}
+        \path[userGroupEdge] (\source) -- (\dest);
+        \pause
+         \draw (5,-3) node[above]{$\text{Eve } \, \red{\xrightarrow{S}}\, \text{Alice } \,\blue{\xrightarrow{A}} \, \text{ Cryptography}$ (in $\bC^2$)};
+         \pause
+         \draw (5,-4) node[above]{$\text{Eve } \, \red{\xrightarrow{S}} \, \text{Alice } \, \xrightarrow{AA^T} \, \text{Bob }\, \blue{\xrightarrow{A}}\, \text{ Cryptography}$ (in $\bC^4$)};
+\end{tikzpicture}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Part 3/5}
+  \hspace{1.1in}
+  \centerline{\huge{Scalability}}
+\end{frame}
+
+\begin{frame}
+\frametitle{Real world networks are huge!}
+\begin{itemize}
+\pitem \emph{Orkut} (sub)network [Mislove,2007] is about 3 million users and 8 million groups.
+\pitem Recall $\textsf{tKatz}(\bC, \gb, k) = \sum_{i=1}^{k} \gb^i \bC^i $.
+\pitem $\bC^i$ gets denser --- prohibitively expensive computations and memory usage. 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{So how does the model scale?}
+\begin{itemize}
+\pitem A plausible solution...
+\pitem Use low rank approximations --- $\bC \approx \bV\Lambda \bV^{T}$. 
+\pitem Then, $\bC^i \approx \bV\Lambda^{i}\bV^{T}$. [Submitted] % \cite{vasukiScalableAffiliationRec}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Smarter solutions...}
+\begin{itemize}
+\pitem $\textsf{tKatz}(\bC;\gb,3)_{12} = \gb \blue{A} + \gb^2 \lambda \red{S} \blue{A} +  \gb^3(\lambda^2 \red{S}^2 \blue{A} + \blue{A} \blue{A^T} \blue{A})$.
+\pitem $(\blue{A}\blue{A^{T}})^i, \red{S}^{i}, (\blue{A}\blue{A^{T}})^{j}\red{S}^{i}$ get denser.
+\pause
+\begin{align*}
+\blue{A} = U_{A} \Sigma_{A} V_{A}^{T}\\
+\red{S} = U_{S} \Sigma_{S} U_{S}^{T}
+\end{align*}
+\pitem Approximate $\blue{A}$ and $\red{S}$ using common subspace of $U_{A}$ and $U_{S}$.
+\pause
+\begin{align*}
+\blue{A} \approx \green{Q} \blue{D_{A}}V^{T} \\
+\red{S} \approx \green{Q} \red{D_{S}} \green{Q^{T}}\\
+\green{Q} = f(U_{A}, U_{S}), \green{Q^{T}}\green{Q} = I, V^{T}V = I
+\end{align*}
+\pitem Efficiently compute the terms now! e.g. $(\blue{A}\blue{A^{T}})^j\red{S}^{i} \approx \green{Q}(\blue{D_A}\blue{D_A^{T}})^{j}\red{D_{S}}^{i} \green{Q^T}$.
+\pitem Clustered low-rank approximations [Submitted].
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Part 4/5}
+  \hspace{1.1in}
+  \centerline{\huge{Evaluation of the algorithms}}
+\end{frame}
+
+\begin{frame}
+\frametitle{Data sets}
+Extracted social and affiliation networks: \emph{Orkut} and \emph{Youtube} data sets [Mislove,2007]; Orkut: \blue{$N_{u} = 9123, N_{g} = 75546$}. Youtube: \blue{$N_{u} =16575, N_{g} = 21326$}.
+\includegraphics[scale=0.5]{../talk/figures/stats.eps}
+\end{frame}
+
+\begin{frame}
+\frametitle{Evaluation methods}
+\begin{itemize}
+\pitem Choosing appropriate evaluation method --- Depends on the end user of the recommendation system.
+\pitem ``Global'' sensitivity vs ``Per-user'' sensitivity.
+\pitem Using Global sensitivity...
+\pause
+\begin{figure}[h]
+  \begin{center}
+    \subfigure[Orkut dataset]{\includegraphics[scale=0.25]{../paper/OrkutLinkPredictionEvaluation.eps}}
+    \subfigure[Youtube dataset]{\includegraphics[scale=0.25]{../paper/YoutubeLinkPredictionEvaluation.eps}}
+  \end{center}
+\end{figure}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Results: ``Per-user'' sensitivity}
+Consider the top $k$ recommendations made for a user for $k = 5, 10, \dots, 50$.
+\begin{figure}[h]
+  \begin{center}
+    \subfigure[Orkut dataset]{\includegraphics[scale=0.3]{../paper/summaryOrkut.eps}}
+    \subfigure[Youtube dataset]{\includegraphics[scale=0.3]{../paper/summaryYoutube.eps}}
+  \end{center}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{Similarity between affiliations in the combined network?}
+\pause
+\center{Recall $\bC = \begin{bmatrix} \gl \red{S}& \blue{A} \\ \blue{A^{T}}& \bD\end{bmatrix}$}
+\center{\includegraphics[scale=0.4]{../paper/summarySVDOrkut.eps}}
+\pause
+$\bD = 0, \bD_{2} = \bA^{T}\bA, \bD_{3} = \lambda \bA^{T}\bA$. \\
+\pause
+Information from $\bD$ may be redundant!
+\end{frame}
+
+\begin{frame}
+\frametitle{Scalable approximations: Youtube}
+\begin{center}
+\includegraphics[scale=0.4]{../journalPaper/summarySVDKatzYoutube.eps}
+\end{center}
+\pause
+\textsf{tKatzLFM}: \textsf{tKatz} on low-rank approximation.\\
+\pause
+\textsf{tKatzCS}: \textsf{tKatz} on low-rank approximation using common subspace.\\
+\pause
+and other clustered approximation variants...
+\end{frame}
+
+%\begin{frame}
+%\frametitle{Results}
+%\begin{figure}
+%  \begin{center}
+%    \subfigure[Orkut-1c data set]{\includegraphics[scale=0.25]{../journalPaper/summaryScalabilityOrkut.eps}}
+%    \subfigure[Youtube-1c data set]{\includegraphics[scale=0.25]{../journalPaper/summaryScalabilityYoutube.eps}}
+%  \end{center}
+%  \caption{Scalable approximations: Clustering}
+%\end{figure}
+%\end{frame}
+
+\begin{frame}
+\frametitle{Quality of approximations}
+\begin{center}
+\includegraphics[scale=0.4]{../journalPaper/summaryRankDependencyYoutube.eps}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Part 5/5}
+  \hspace{1.1in}
+  \centerline{\huge{Conclusions}}
+\end{frame}
+
+\begin{frame}
+\frametitle{Summary}
+\begin{itemize}
+\pitem Friendship network is indeed useful in recommending affiliations!
+\pitem Community recommendation -- link prediction perspective.
+\pitem Two ways of modeling the information from auxiliary networks --- Latent Factor and Graph Proximity models.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Future work}
+\begin{itemize}
+\pitem Using affiliation networks for link prediction in friendship networks -- Seems harder.
+\pitem More sources of information -- How do you use them all?
+\pitem More scalable models.
+\end{itemize}
+\end{frame}
+
+%\begin{frame}
+%\frametitle{The take home message}
+%\centerline{\huge{Friendship networks can be fruitfully exploited in recommending affiliations.}}
+%\end{frame}
+\begin{frame}
+\frametitle{References}
+\begin{itemize}
+\item Vishvas Vasuki, Nagarajan Natarajan, Zhengdong Lu, Inderjit Dhillon. \blue{Affiliation recommendations using auxiliary networks}. RECSYS, 2010.
+\item Vishvas Vasuki, Nagarajan Natarajan, Zhengdong Lu, Berkant Savas, Inderjit Dhillon. \blue{Scalable affiliation recommendations using auxiliary networks}. Submitted to Transactions on Intelligent Systems and Technology, 2010.
+\item Alan Mislove etal. \blue{Measurement and analysis of online social networks}, \emph{In IMC '07: Proceedings of the 7th ACM SIGCOMM Conference on Internet Measurement}, pages 29-42, NY, USA, 2007. ACM.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{}
+  \hspace{1.1in}
+  \centerline{\huge{Thank you!}}
+\end{frame}
+
+%\bibliographystyle{plain}
+%\bibliography{../paper/references}
+
+%
+\end{document}
