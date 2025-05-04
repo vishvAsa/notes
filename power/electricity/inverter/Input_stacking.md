@@ -7,6 +7,7 @@ title = "Input stacking"
 ## Series connection
 - String inverters are also known as ‘central inverters’. For example, they treat the solar array as one single solar panel.
 - Disadvantage is that failure of one power source (solar panel shading) would cause a relatively big drop in voltage (possibly below the minimum starting voltage of the inverter) - MPPT may compensate to some extant. Shading of 9% of the solar array results in about 54% decrease in its power output (MPPT use unknown)!
+  - Can be overcome with per panel DC optimizers. [YT](https://www.youtube.com/watch?v=oiBw6USlm8U)
 
 
 ## Microinverters
@@ -16,7 +17,9 @@ title = "Input stacking"
 - Allow mounting PV modules on different surfaces and facing different directions.
 - Can optimize performance and monitor better.
 - Safer, both to install and maintain, since avoiding wiring lots of panels in series (60V max DC voltage vs .6-1kW) eliminates the need of high voltage DC wiring. Lower probability of lightening strikes?
-- much longer durability than central inverters due to the fact that they are not exposed to such a high power and heat like central inverters. micro inverters come with a more extended warranty – 20-25 years – compared to the typical 10 years guarantee of their string counterparts.
+- Durability and replacement
+  - Longer durability than central inverters due to the fact that they are not exposed to such a high power and heat like central inverters. Enphase india warranty - 10 yrs vs string inverter 5-10 yrs.
+  - Replacement load higher - If you have 8 panels, in a couple of decades all will need to be replaced.
 - High rated microinverter manufacturers include: 
   - Enphase
     - (american company, albeit manufactured in China).
