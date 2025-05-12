@@ -14,5 +14,5 @@ title = "+Foreign policy"
 
 ### NaMo government
 - 2019. Misstep. India should have tied its compliance with US's Iran sanctions to rival China's compliance. While India's import bill shot up by billions of dollars, China has lapped up heavily discounted Iranian oil without facing US reprisals. US's Russia sanctions are a fresh test for India.
-- 2021. Misstep. After Galwang fight in 2021, India vacated the strategic Kailash heights - China did not reciprocate or withdraw, even as negotiations dragged on.
+- 2021. Misstep. After Galwan fight in 2021, India vacated the strategic Kailash heights - China did not reciprocate or withdraw, even as negotiations dragged on.
 - 2022. Success. By maintaining cordial relations with almost all sides in the conflict, India was able to evacuate its citizens safely, purchase discounted Russian crude, & continue development of Rupee-Ruble, all while not bearing any significant blowback from the West
