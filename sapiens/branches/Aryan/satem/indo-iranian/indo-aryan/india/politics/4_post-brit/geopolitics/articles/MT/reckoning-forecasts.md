@@ -2,6 +2,25 @@
 title = "Reckoning forecasts"
 +++
 
+## 2025
+### H Danger
+Source: [TW](https://x.com/blog_supplement/status/1922087206975336725)
+
+H have to get used to a dangerous world where they walk by themselves like the evil Kipling's proverbial cat. 
+
+- The mAhamlechCha and their array of vassals will fear any demonstration of power, much like they fear and loathe the same from rUs and chIna. 
+- The chIna-s with ambitions of not just Asian but world hegemony, will try their best to demolish the H. 
+- The marUnmatta-s will tend to go with their coreligionist.
+- Sundry pretasAdhaka powers will have a natural hostility towards H and, despite intra-Abrahamistic rivalry, be more comfortable with u3s. 
+- The Indic counter-religions have a natural counterreligious antipathy towards their parent.
+
+We saw how in the west, despite the marUnmatta-s being the clear and brutal aggressors, a large section of public opinion turned against the u1s. This is despite the u2 deriving their identity from u1s and their desha. H should be prepared for the same. 
+
+A part of the mlechCha-s think they alone are entitled to serious violence aka "playing cop."  Another perhaps overlapping part of them see TSPians as the "underdog" and tend to support them.  
+Another part sees TSPians as the true victims.
+
+Yet in each of these quarters, we have pockets of allies. It is the job of the H outreach mechanism to identified these pockets of allies and cultivate them.
+
 ## 2024
 
 Source: [TW](https://x.com/blog_supplement/status/1865445754514342043)

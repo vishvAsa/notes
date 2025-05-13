@@ -7,6 +7,9 @@ Source: [TW](https://x.com/blog_supplement/status/1921403195235893721)
 ## Long term
 I'm not inclined to say too much because I think my predictive abilities in this regard are limited. There are huge challenges which I think are going to be difficult for the current rulers to surmount. The main issues I have concerns human capital and whether a good place can be reached without huge bloodshed. H have generally tried to avoid to later in exchange for a slow place of things.
 
+## Drones
+It seems TSP has decided to adopt a passive-aggressive stance for now: flying cheap, potentially unarmed drones into Indian airspace. The idea is to waste ADS ammunition and make it dangerous for civil aviation, thereby tying it down. If the H strongly retaliate, they will then go crying to their mlechCha friends, complaining that H first broke the ceasefire. Hopefully, our pakSha has/is figuring out a solution for that.
+
 ## Briefing
 The generals are rather open about the intended military objectives here, which is in line with what we gleaned of the unfolding events. This will definitely cause a big burn to the enemies in all three directions. The mahAmlechCha South Asianists are probably getting some of that too.
 
