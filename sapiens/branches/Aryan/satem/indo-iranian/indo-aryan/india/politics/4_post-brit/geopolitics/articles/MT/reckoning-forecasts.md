@@ -21,6 +21,9 @@ Another part sees TSPians as the true victims.
 
 Yet in each of these quarters, we have pockets of allies. It is the job of the H outreach mechanism to identified these pockets of allies and cultivate them.
 
+### Traitors
+A few months back, an Israeli and I were sharing a cab when he was complaining that many of his coreligionists/coethnics were turning out to be traitorous or injurious to their self-interests. I told him he might feel good if he knew how much H have to over-engineer for traitors. Unfortunately, that trajectory has not changed in the latest samarya.
+
 ## 2024
 
 Source: [TW](https://x.com/blog_supplement/status/1865445754514342043)
