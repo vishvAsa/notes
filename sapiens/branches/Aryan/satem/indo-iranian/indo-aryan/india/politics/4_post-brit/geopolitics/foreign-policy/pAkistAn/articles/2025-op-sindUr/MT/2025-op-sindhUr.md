@@ -49,10 +49,6 @@ It did not matter much early on as residual India, weakened by a millennium of s
 
 It is not clear if this ceasefire would hold as the marUnmatta-s could be just buying time to regroup as they have been doing all along. Perhaps, to wait for the mlechCha-s via the turuShka-s to resupply them or chIna-s. H need to be wary -- perhaps the reports of violations suggest it is just a pause to lick their wounds
 
-## Internal foes
-One can increasingly see why the Occident wanted forces like the Kangress and the Broom lording over India: it would have devolved into a country incapable of fighting even in times of a crisis.
-
-Sometimes, one wonders who activates the internal first responders on behalf of the marUnmatta-s: Are they responding to their marUnmatta friends, or are they preemptively self-activating? On issues that matter most to the mlechCha-s, they clearly act on their signal, but with marUnmatta-s, they probably self-activate.
 
 
 ## Misinformation
@@ -99,7 +95,15 @@ If the reports are true, that they are helping TSP with some nuclear safety test
 
 > There was an interview with a Danish intelligence officer who said the Americans explicitly intervened and asked them NOT to track Xerox Khan after they alerted them about his pilferage. That video has now been scrubbed off the web.
 
-## Turkey
+### Internal foes
+One can increasingly see why the Occident wanted forces like the Kangress and the Broom lording over India: it would have devolved into a country incapable of fighting even in times of a crisis.
+
+Sometimes, one wonders who activates the internal first responders on behalf of the marUnmatta-s: Are they responding to their marUnmatta friends, or are they preemptively self-activating? On issues that matter most to the mlechCha-s, they clearly act on their signal, but with marUnmatta-s, they probably self-activate.
+
+One of the questions is who activated the communists within India (urban Naxals to use that bollywood guy's term) to bat for TSP& TSB. We infer that the marUnmatta-s don't have deep ties with them, though they play on the same side. The urban naxals are mostly forces operated by sora & his shaNDasainya, and in other cases the chIna-s. We believe that the sorAdi have seen this as an opportunity to activate their first responders here. However, we also suspect that chIna-s might be fishing in these troubled waters to keep them going.
+
+
+### Turkey
 The Turkish military assistance to the Mogol rump state TSP, is the continuation of a long tradition of assistance from the days of the Osman Khalifate. A brief historical detour:
 
 While the Osmans initially aided the Ozbek Khan Obaidallah against the Mogols, they later became allied with Baboor.  In the 1st battle of Panipat (1526), Baboor was guided by the Osman artillery master Ustad Ali Quli, who deployed his cannons in the famous "Anatolian formation" behind a screening array of carts. Quli was known for casting big guns. This tactic was critical in demolishing Ibrahim Lodi. More generally, Baboor's entire deployment of firearms and heavy artillery was advised by Osman models (following their tactics used in smashing the Safavids of Iran a few years earlier).
