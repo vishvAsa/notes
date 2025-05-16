@@ -7,6 +7,8 @@ Source: [TW](https://x.com/blog_supplement/status/1921403195235893721)
 ## Long term
 I'm not inclined to say too much because I think my predictive abilities in this regard are limited. There are huge challenges which I think are going to be difficult for the current rulers to surmount. The main issues I have concerns human capital and whether a good place can be reached without huge bloodshed. H have generally tried to avoid to later in exchange for a slow place of things.
 
+Some people are complaining that the world (= the Occident in particular) should not ignore India and its military prowess. We'd say it is better to be ignored as long as the H really have a big stick. It is a good thing if they don't know you have a big stick. Let those who need to learn about it do so the hard way.
+
 ## Counter-diplomacy
 It is good to see the H come together for the boycott of the Turkish. Hopefully, it is comprehensive and unrelenting: No Khilafat-2. We bring our coethnic gopaNArya to mind, who cut down the marUnmatta Turks with upraised bows.
 
