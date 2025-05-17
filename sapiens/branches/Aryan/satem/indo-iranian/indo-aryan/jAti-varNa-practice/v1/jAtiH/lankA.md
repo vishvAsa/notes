@@ -27,7 +27,7 @@ Their reign ended in 1619 when the Portuguese defeated Cankili II, the last rule
 
 
 ## Civil war
-V1s were about 3% (< 30000 people. Most came away to India in 80s itself, since they had family relations here.  
+V1s were about 3% (< 30000 people) - mostly iyers, some shivAchArya-s, very few Iyengars. Those with family connections escaped earlier in the 80s. 
 
 > Brahmins were specifcially subject to torture and rape by sinhalese specifically because of hinduness.  
 > Lots of v1s fought in ltte. Their top leadership had lots of brahmins like brigadier vidusha.

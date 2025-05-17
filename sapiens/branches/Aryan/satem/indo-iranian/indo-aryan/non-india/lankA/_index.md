@@ -1,5 +1,5 @@
 +++
-title = "LankA"
+title = "+LankA"
 +++
 
 Impact and influence of v1s considered [elsewhere](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/jAtiH/lankA/).
@@ -13,6 +13,14 @@ Major events were -
 - Various anti-tamil progroms (rape, murder, looting, torture ... ) involving army, police, monks and general mobs
 
 Anecdotally, every H seems to have a cousin or sibling who was killed or raped. This was one of the reasons tamils carried cyanide/exploded themselves to prevent capture.
+
+### Rebellion
+Indian help 
+
+- India did train a bunch of groups after 1983 riots - but this was basic training and was sometimes focused on intel/recon on Trinco harbor. After IG death and Rajiv's sidelining of Parthasarathy for Bhandari, relationship frailed.
+- The weapons given were standard and not for offensive purposes but was still welcome in the aftermath of 83. However, tigers diversified supply lines and got better weapons/comms equipment elsewhere. It was their foresight on not depending too much on the Indian state that saved them while other groups disintegrated
+
+
 
 ## Population impact
 | yr   | H%     |
