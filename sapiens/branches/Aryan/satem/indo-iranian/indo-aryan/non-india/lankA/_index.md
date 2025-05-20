@@ -26,7 +26,7 @@ India tried to stop genocide of tamiLs by Lankan army. In 1987, the forced Lanka
 
 
 #### Defeat
-LTTE didn't get a good peace deal done when they had good bargaining position. They did not appreciate the superior state resources, support and tenacity of the sinhalas. They lost sympathy by resorting to terrorism (like the lankan army - albeit more prominent).
+LTTE didn't get a good peace deal done when they had good bargaining position. They did not appreciate the superior state resources, support and tenacity of the sinhalas. They lost sympathy by resorting to terrorism (like the lankan army - albeit more prominently).
 
 ## Population impact
 | yr   | H%     |
