@@ -4,8 +4,23 @@ title = "+LankA"
 
 Impact and influence of v1s considered [elsewhere](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/jAtiH/lankA/).
 
+## Military exclusion/ neglect
+Tamils hadn't adequately participated in Army (even when it expanded) and Police.
+
+> Tamils were usually more educated and taller than sinhalese, so were well represented in mikitary and civil service.  First sl army commamder was tamil. Lots of tamils were in brit military.
+>
+>  Military after 56 was purged and politicized. And those in top posts like brigadier were relegated to ceremonial posts.  
+> By 70s army was 99 percent sinhalese.
+
+Still, there were some remnants - 
+
+> Lttes political head nadesan was a senior police officer in colkmbo who witneaaed his neighbors being hacked to death in 83 riots and joined the ltte.
+
+
 ## Genocide 
-Sinhalese were jealous of colonial era yapana (jaffna) Tamil success and dominance. So, they brought in the Sinhala Only Act 1956. By 1972, with the "policy of standardization", they restricted tamil entry to universities. There were riots and counter-riots; leading to tamil rebel groups; who were ultimately defeated at great cost. To check: Tamils hadn't adequately participated in Army (even when it expanded) and Police. 
+Sinhalese were jealous of colonial era yapana (jaffna) Tamil success and dominance. So, they brought in the Sinhala Only Act 1956. By 1972, with the "policy of standardization", they restricted tamil entry to universities. There were riots and counter-riots; leading to tamil rebel groups; who were ultimately defeated at great cost. 
+
+
 
 Major events were - 
 
@@ -27,6 +42,8 @@ India tried to stop genocide of tamiLs by Lankan army. In 1987, the forced Lanka
 
 #### Defeat
 LTTE didn't get a good peace deal done when they had good bargaining position. They did not appreciate the superior state resources, support and tenacity of the sinhalas. They lost sympathy by resorting to terrorism (like the lankan army - albeit more prominently).
+
+Ltte achieved military parity in 2001 which led to government talking about peace. SL dragged it out to rearm with world support. Sinhalese oppose any powersharing to tamils. A monk assasinated bandaranayake against the banda chelva pact decades before ltte. Sinhala solduer tried killing rajiv gandhi over indian pressure in 80s, sinhalese rioted in 95 and after 2002 against any devolution.
 
 ## Population impact
 | yr   | H%     |
