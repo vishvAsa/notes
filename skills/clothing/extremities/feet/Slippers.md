@@ -41,3 +41,6 @@ more comfortable and less smelly in summer.
 ### Beach socks
 
 Like shoes, with nylon mesh top. Require socks. Available in walmart.
+
+## Hard soled
+Eg. Wooden slippers. Similar to clog overshoes.

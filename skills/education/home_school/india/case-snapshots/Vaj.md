@@ -18,9 +18,14 @@ Class and ritual timings give structure.
 
 Rituals - tarpaNa, brahmayajna, sandhyAvandana, ijyA, japa, sandhyAvandana, samidAdhAna
 
+## 2025-05
+- Math table memorization started.
+- Multi-digit addition.
+
 ## 2025-04
 - भरत-नृत्यम् - **कविता** (पन्द-नल्लूरु-शैली). 1k monthly, 800 admission.
 - वेदाध्ययनम् - तैत्तिरीय-प्राजापत्य-काण्डम् (**प्रदीप-सिंहः**)
+- Telugu letters - writing.
 
 ## 2024-12
 - भरत-नृत्यम् - nRtyoma **राधिका**. 1k monthly, 2k admission. Later asked 6k for compulsory "annual day".

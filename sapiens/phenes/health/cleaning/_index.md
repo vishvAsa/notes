@@ -11,10 +11,15 @@ title = "+Cleaning"
 - Baking soda + water is good. [TW](https://www.healthline.com/health/baking-soda-toothpaste) . Long term use can damage enamel.
 - salt occassionally - can permanently damage your tooth enamel.
 
+- sopa nut powder generates lather.
 - neem stick chewed in the end to make a brush.
 - "Pong and Blue berry sticks too work."
-- sopa nut powder?
 
+## Body
+- Fine river sand + besan powder (mAlolan)
+- Fine ash, mixed with water to form a soft paste works well.
+- Salt also works well
+- alum stone - natural deodorant.
 
 ## Cleaning agents
 - See [hand-sanitization](hand-sanitization) page.

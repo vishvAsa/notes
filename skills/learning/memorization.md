@@ -8,7 +8,11 @@ title = "Memorization"
 - Memorization enhances creativity because having committed content to memory frees up brain circuitry for creative thinking. 
 - memorization demands the focus of attention and thus enhances the ability to concentrate in general.
 
-## Brain chances
+## Techniques
+- Just repeat aloud many times.
+- Spaced repetition, testing. Eg. [vedAdhyayana](//vedAH/content/meta/adhyayana-kaNThasthI-karaNAdi/)
+
+## Brain changes
 Memorization practice causes long term changes in some brain regions:
 
 - increased grey matter (GM) and white matter (WM) in the midbrain, pons, thalamus, parahippocampus, and orbitofrontal regions
