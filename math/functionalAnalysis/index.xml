@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Functional analysis on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/functionalAnalysis/</link>
+    <description>Recent content in &#43;Functional analysis on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/functionalAnalysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Function space</title>
+      <link>https://vishvAsa.github.io/notes/math/functionalAnalysis/01_Function_space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/functionalAnalysis/01_Function_space/</guid>
+      <description>&lt;h2 id=&#34;notation&#34;&gt;Notation&lt;/h2&gt;&#xA;&lt;p&gt;Consider a function class \(C\) defined on the input space \(X\). Let \(p\) be a probability measure on \(X\).&lt;/p&gt;&#xA;&lt;h2 id=&#34;euclidean-vector-spaces&#34;&gt;Euclidean Vector spaces&lt;/h2&gt;&#xA;&lt;p&gt;The definition of standard inner product and \(l_p\) norms can be extended to work with function spaces, when they are regarded as vector spaces with dimensionality equal to \(|X|\); while also considering the \(p\). These are described in the vector spaces survey.&lt;/p&gt;&#xA;&lt;h2 id=&#34;metric-space-using-disagreement-probability&#34;&gt;Metric space using Disagreement probability&lt;/h2&gt;&#xA;&lt;p&gt;One can define a metric space using the norm \(d(f, g) = Pr_p(f(x) \neq g(x))\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>02 Operators</title>
+      <link>https://vishvAsa.github.io/notes/math/functionalAnalysis/02_Operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/functionalAnalysis/02_Operators/</guid>
+      <description>&lt;h2 id=&#34;operator&#34;&gt;Operator&lt;/h2&gt;&#xA;&lt;p&gt;A function: functions \(\to\) functions. All functions are operators. Transform: an operator which simplifies some operations. Adjoint of operator T: \(T^{&lt;em&gt;} : \dprod{Tu,v} = \dprod{u, T^{&lt;/em&gt;}v}\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;eigenfunctions&#34;&gt;Eigenfunctions&lt;/h3&gt;&#xA;&lt;p&gt;ev of D is \(e^{x}\).&lt;/p&gt;&#xA;&lt;h2 id=&#34;differential-operator&#34;&gt;Differential operator&lt;/h2&gt;&#xA;&lt;p&gt;D or \(D_{x} = \frac{d}{dx}\). A Linear operator.&lt;/p&gt;&#xA;&lt;p&gt;Operators \(T = \sum_{k} c_{k}D^{k}\). Any polynomial in D with function coefficients also a diff operator.&lt;/p&gt;&#xA;&lt;h3 id=&#34;vector-and-matrix-calculus-operators&#34;&gt;Vector and matrix calculus operators&lt;/h3&gt;&#xA;&lt;p&gt;See linear algebra ref.&lt;/p&gt;&#xA;&lt;h3 id=&#34;divergence-operator&#34;&gt;Divergence operator&lt;/h3&gt;&#xA;&lt;p&gt;\(div f := \gradient . f:= \sum_{i} \partder{f}{x_{i}}\).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>03 Analysis of functions</title>
+      <link>https://vishvAsa.github.io/notes/math/functionalAnalysis/03_Analysis_of_functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/functionalAnalysis/03_Analysis_of_functions/</guid>
+      <description>&lt;h2 id=&#34;polynomial-fitting-for-continuous-fx&#34;&gt;Polynomial fitting for continuous f(x)&lt;/h2&gt;&#xA;&lt;p&gt;\(L^{2}[-1,1]\): Find closest n degree polynomial to f(t) in interval [u,v]: Project f(t) on that function sub-space: Let \(A=[1 x \dots x^{n}]\) (Continuous version of Vandermonde matrix), a [-1,1]&lt;em&gt;n matrix; \(\perp\) in [-1,1]. Solve \(A^{&lt;/em&gt;}A\hat{y}=A^{&lt;em&gt;}f(t)\); \(A^{&lt;/em&gt;}A\) a n&lt;em&gt;n (Hilbert) matrix with elements \(\dprod{x^{r}, x^{s}}\). Orthonormalize A to get \(\hat{Q}\); Q is scalar multiple of Legendre polynomials: \(1, x .. \)); use \(P = \hat{Q}\hat{Q}^{&lt;/em&gt;}\), a \([-1, 1] \times [-1,1]\) matrix.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
