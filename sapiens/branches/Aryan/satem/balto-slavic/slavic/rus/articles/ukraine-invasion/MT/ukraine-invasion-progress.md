@@ -63,3 +63,5 @@ Apparently the mahAmlechCha dream of conquering Syria for their terrorist allies
 We suspect the true mettle of the rUs to withstand the mahAmlechCha onslaught will be seriously tested right now. The mahAmlechCha Deep State fears the nAri~NgapuruSha returning to power and draining the swamp.  
 Now we can see their plan (likely aided by uparimarakata planners) to open a multifront assault on rUs positions and mess things up so that nAri~Nga will be forced to continue the war.
 
+## 2025
+It is likely that the anti-Rus thread of A~NglamlechCha-ekarAkShasonmAda has succeeded in getting the nAri~Nga on board with their program of continuing the war.

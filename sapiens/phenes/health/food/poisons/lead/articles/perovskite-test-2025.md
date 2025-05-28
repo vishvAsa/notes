@@ -47,6 +47,12 @@ The test’s signature glow is due to a compound called methylammonium bromide i
 
 According to Noorduin, these **methylammonium bromide** tests are 10 times more sensitive than the D-Lead two-part solution tests recognized by the EPA (though D-Lead tests can reliably detect regulated lead-based paint on wood, iron alloy, drywall, and plaster surfaces).
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> Luminescence- i would suspect you wouldnt need more than a 1% dilution - color & light effects are easy to observe even at parts per 1000 or million.  So may 10x - 10mg/ 10g water.
+</details>
+
+
 ### But the method still has limitations
 Simple as they may seem, **methylammonium bromide** tests represent one of the biggest strides in lead detection in years.
 
