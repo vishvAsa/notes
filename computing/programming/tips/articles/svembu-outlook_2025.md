@@ -25,6 +25,17 @@ Result? A large number of IT jobs in India came to depend on those original inef
 
 It is those multiplied inefficiencies in IT, built up over decades, that is facing a reckoning now.
 
+## Patterns
+Software development, at its deepest level, is the discovery and appropriate use of patterns. Patterns grow larger and more complex and there is no logical end to the size or complexity of patterns.
+
+Good programmers learn various patterns and put them to appropriate use. That is not trivial.
+
+Great programmers discover beautiful new patterns. That is absolutely not trivial at all. 
+
+Smart AI is about ingesting a lot of already discovered patterns and suggesting their use. We still require judgment on the part of the programmer to know the appropriate use of a pattern. If used indiscriminately, we will end up with impossible to maintain AI slop.
+
+I have not yet seen AI that can _discover_ beautiful new patterns but I suspect it is a matter of time. I base that on how AI has come up with interesting new moves in Chess or Go.
+
 ## AI
 Now enter AI. A large amount of code is boilerplate code in many projects and AI can eat such code for breakfast. Depending on the nature of a project AI can offer 10-20% productivity gains. Significant but not the 10x or 100x leap yet to destroy jobs on a vast scale.
 
@@ -38,3 +49,4 @@ The pandemic unleashed another flood of money into enterprise IT.
 Those floods are now history and we have a serious drought. 
 
 That is why I am pessimistic about the software job market, even before accounting for AI.
+

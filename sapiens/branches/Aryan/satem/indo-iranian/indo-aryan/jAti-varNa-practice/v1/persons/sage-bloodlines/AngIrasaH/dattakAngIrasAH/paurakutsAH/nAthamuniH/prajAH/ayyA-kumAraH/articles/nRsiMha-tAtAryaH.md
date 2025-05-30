@@ -219,3 +219,10 @@ Veda Dharma Samrakshana Sabha
 श्रीकाञ्च्यां वरदोत्तमोत्सवसवे कैङ्कर्यलक्ष्मीं वहन्   
 सद्भिः साकमतन्द्रितोऽनवरतं मोक्षाभिलाषद्रुहम्।  आसीच्छ्रीनरसिंहतातगुरुराट् वैराग्यकाष्ठां भजन्  
 उञ्छेनैव कुटुम्बपोषणकरः पश्येम कुत्रेदृशान्॥
+
+## आराध्यः
+Navalpakkam Srimat Narasimha Tatayarya Mahadesikan, revered as Perumal Kovil Swamy — a Bhakti, Jñāna, Vairāgya Sampanna Mahān — was an ardent devotee of Sri Varadaraja Perumal.
+
+(Pic: Perumal Kovil Swamy Ārādhita Sri Varadaraja Perumal)
+
+Now, Perumal is present at the Mysore Sri Brahmatantra Swatantra Parakala Swamy Mutt, continuing to bless devotees.

@@ -43,7 +43,6 @@ Aka Srisailanatha, shrIshailapUrNa. Not to be confused with periya-nambi / mahAp
 
 
 ## Later royal perceptors
-- A scion of the agnates of Lakshmikumara Tatacharya, known as "ayya-"Kumara Tatadesikan became the preceptor of the Naiks of Thanjavur; he was made the Vaidika-vicharini karta for all the temples in Cholamandala. (Enshrined in Tirukkudanthai and Mannargudi. )
 - Sri Venkata Varada Tatarya, the second son of Lakshmikumara Tatadesika went there as the royal guru of the Mysore Maharaja in the latter half of the 17th century. ... R.Kumara Tatacharya was a royal priest in maisUru too. His son was Sri Sudarsana Tatacharya. He was also continuing to visit the Mysore palace in his capacity as the royal guru. ... With him, the connection between the Tatacharyas and Mysore Maharajas also ended. (On a particular year he was late by a few minutes and the God had by then moved forward from the Gopuravasal a few feet. Just then the Maharaja arrived. He requested the Trustee (evidently Sri Krishnaswamy Tatachariar. the brother of Sri Sudarsana' Tatacharya) to take the vehicle back to the Gopuravasal, in order to have the Gopuravasal darsan. The trustee could not oblige him, since it was not desirable to move the God back.)
 - Another group of Tatacharyas settled at Srirangam. Known as the ‘ Mudhal Tirimaligai ’ Tatacharyas, they did not lag behind the other branches in propagating Srivaishnavism and increasing its votaries. Their scions have performed * PANCHASAMSKARA ’ to families of royal descent in Gujarat and Rajasthan including the princes of Jodhpur.
 
