@@ -49,6 +49,8 @@ Then moving to non-dinosaurian reptiles
 
 There were also a few other fossils collected by the early American president Thomas Jefferson, including the ground sloth Megalonyx that he described on his own in a paper. But the complete understanding of the sloths had to wait till Darwin’s discovery of Mylodon and his remarkable evolutionary work by comparing it Megatherium.  
 ….  
+
+## Ben Franklin
 Near by there was another museum with material of the early American scientist Ben Franklin who studied electricity. Many of his devices can be experimented with in the Museum.
 
 Of course all this has to be done in the unpleasant company of one who utterly lacks any interest in such matters and the consequences of it need no further elaboration.+++(5)+++ I was reminded of the great German Alexander von Humboldt, who described who on occasion he had make do with the company of brutish Spanish padres who could hardly understand his scientific explorations.
