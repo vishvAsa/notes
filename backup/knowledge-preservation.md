@@ -21,6 +21,12 @@ Further compression - Holds 1-5 million characters of text that could be read wi
 #### Ceramic colors
 Special ceramic colors or stains are used by MOM project to print photographs and illustrations with 300 dpi resolution.
 
+In kiln-fired digital inkjet ceramic tile printing ( CPP or ceramic pigment printing), the ceramic pigments are fused into the tile surface at very high temperatures (around 1400°C). This process vitrifies the pigments, making the image an integral part of the tile body, highly resistant to scratching, fading, chemicals, and weathering
+
+Parshwa home decor Jakkur - 650 INR/sqft (2025).
+
+
+
 #### Clay tablets
 Babylonian clay tablets have survived from 4000 BCE (=7k years). But they are fragile - and need to be preserved.
 
@@ -182,6 +188,11 @@ All resin-coated papers fall short of archival-grade for two reasons. First, the
 Paper, having acid, degrades over time.  
 Wood pulp is oft used. Has lignin, which breaks down to acid over time.  
 you can put stable ink on non-archival paper and still achieve 70 years of on-display life.
+
+#### UV ink on ceramic tiles
+UV flatbed printing uses UV-cured inks that sit on top of the tile surface. While these inks are durable, water-resistant, and fade-resistant under normal conditions, they can degrade over long periods, especially with prolonged UV exposure, abrasion, or harsh environmental conditions. The inks are not fused into the tile body but rather bonded to the surface, making them less durable than kiln-fired ceramics
+
+UV flatbed printers - While UV-cured inks are designed to withstand sunlight, excessive exposure to UV rays can cause fading and discoloration over time. To minimize this risk, consider applying a UV-protective coating or installing shading devices, such as awnings or pergolas, in outdoor areas.
 
 ### .01k yr
 
