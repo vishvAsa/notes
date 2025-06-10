@@ -77,7 +77,7 @@ they used to remove their footwear.
 > Similarly, panchama-s used to, on their own accord, seat themselves elsewhere, rather than next to me.
 
 ### Haters
-In a nearby town, tellAr, where he went to a polytechnic college, once a roughly 50 year old soda-shop owner called him over from a bus-stand, and asked him to read something (year approx. 1989). As he bent over, he took a water from the soda-bucket, splashed it on his forehead and wiped off his tilaka. Then he told him - "you look better without it, don't wear it henceforth." His father told him to not react, and just wear the puNDra upon returning home.
+In a nearby town, tellAr, where he went to a polytechnic college, once a roughly 50 year old soda-shop owner called him over from a bus-stand, and asked him to read something (year approx. 1989). As he bent over, the man took a handful of water from the soda-bucket, splashed it on his forehead and wiped off his tilaka. Then he told him - "you look better without it, don't wear it henceforth." When told about it, his father told him to not react, and just wear the puNDra upon returning home.
 
 Some students there used to deliberately touch his lunch (eg. iDli) to see if he would eat. He would then simply subsist on water.
 

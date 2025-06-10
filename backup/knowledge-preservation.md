@@ -6,24 +6,47 @@ title = "Knowledge preservation"
 
 See - https://rebrand.ly/dg-archive
 
-## Media
+## Media and pigments
 
 Lists of oldest surviving documents - [wiki](https://en.wikipedia.org/wiki/List_of_oldest_documents)
 
+Generally, the amount of energy expended in bonding the pigment to the medium is equal to the energy required in dissociating them. Eg. 1300 degrees Celsius for ceramic microfilms, UV light for UV bonded pigments etc..
+
 ### 6k+ yr
-#### Ceramic microfilms
-Ceramic microfilm [MOM project](https://en.wikipedia.org/wiki/Memory_of_Mankind), which is a 1 mm thick rock-hard sheet 8 x 8 inches (20 × 20 cm). The tablets can withstand alkali and acid environments, but also temperatures up to 1300 degrees Celsius.  A laser is then used to etch character, full-colour graphics.
+#### Ceramics
+##### Ceramic microfilms
+The specially-developed Ceramic microfilm [MOM project](https://en.wikipedia.org/wiki/Memory_of_Mankind), which is a 1 mm thick rock-hard sheet 8 x 8 inches (20 × 20 cm). The tablets can withstand alkali and acid environments, but also temperatures up to 1300 degrees Celsius.  A laser is then used to etch character, full-colour graphics.
 
-The smallest text size is 4 pt in Arial style. It is the still readable with the naked eye. The capacity  (of latin letters) is about 40 000 characters on the 20x20 cm surface of a MOM tablet.
+##### MOM Print standards
+MOM Prints -
 
-Further compression - Holds 1-5 million characters of text that could be read with a 10x magnifying lens. (Half way during the development of the Cerabyte technology and patented this as a kind of ceramic microfilm) 
+- Uses b/w contrast for texts and mono-coloured graphics.
+- A print with special ceramic colour-stains (in a 300 dpi resolution) for photographs and illustrations
 
-#### Ceramic colors
-Special ceramic colors or stains are used by MOM project to print photographs and illustrations with 300 dpi resolution.
+Per Martin Kunze - It is made with a picosecond engraving-laser.
 
-In kiln-fired digital inkjet ceramic tile printing ( CPP or ceramic pigment printing), the ceramic pigments are fused into the tile surface at very high temperatures (around 1400°C). This process vitrifies the pigments, making the image an integral part of the tile body, highly resistant to scratching, fading, chemicals, and weathering
+The smallest text size is 4 pt in Arial style (1.41 mm). It is the still readable with the naked eye. The capacity  (of latin letters) is about 40 000 characters on the 20x20 cm surface of a MOM tablet.
 
-Parshwa home decor Jakkur - 650 INR/sqft (2025).
+Further compression : Here text is downsized (five lines per mm), but easily readable with a 10x magnifier. A tablet of Ceramic Microfilm (20×20 cm) can carry up to 5 million characters, this equals 5×400-pages books.  (Half way during the development of the Cerabyte technology and patented this as a kind of ceramic microfilm)
+
+##### Pigments and colors
+Ceramic toner is made of inorganic pigments and materials that are stable at high temperatures (typically fired between 580°C and 1250°C).
+
+Inkjet ceramic inks - Liquid ceramic pigment suspensions.
+
+In kiln-fired ceramic tile printing ( CPP or ceramic pigment printing), the ceramic pigments are fused into the tile surface at very high temperatures (around 1400°C). This process vitrifies the pigments, making the image an integral part of the tile body, highly resistant to scratching, fading, chemicals, and weathering
+
+
+Technology - 
+
+- digital inkjet - ~300–360 DPI native. 
+  - Non-contact - Good for tiles with textures too.
+  - After printing, tiles go through glazing and high-temperature firing (1200–1400°C) to permanently fuse the ink.
+  - commonly 300–360 DPI native, effective resolutions can exceed 1000 DPI with multi-pass or greyscale
+- laser or electrophotographic printers. 
+  - Resolution tends to be lower and image quality less smooth compared to inkjet.
+  - Fired at lower temperatures (~1100°C) to integrate pigment into glaze.
+  - Parshwa home decor Jakkur - 650 INR/sqft (2025). Low res. Other providers - min order 200.
 
 
 
@@ -35,7 +58,7 @@ David Zaitlyn used morse in [2013](https://users.ox.ac.uk/~wolf2728/Clay/index.h
 #### Stone
 Stone tablets survive from 3500 BCE.
 
-Is there an automated rock engraver - to engrave given text into a rock slab?? (analogous to CNC on metal https://youtube.com/watch?v=SdSVMygb450 ) Want to preserve important knowledge.
+Is there an automated rock engraver - to engrave given text into a rock slab?? 
 
 #### Synthetic sapphire disks
 Synthetic sapphire disc of 200mm diameter from ARNANO.
@@ -75,7 +98,7 @@ Voyager golden record - copper disk 12 inches (30 cm) in diameter plated first w
 #### Other Metal plates
 Metal plates risk being stolen, melted and reused in a metal-scarce world.
 
-Metal engraving is relatively easy with a CNC machine. 
+Metal engraving is relatively easy with a CNC machine. [YT](https://youtube.com/watch?v=SdSVMygb450)
 
 #### Fused quartz Crystals
 can store up to 360 terabytes of information (in the largest size) without loss for billions of years.  
