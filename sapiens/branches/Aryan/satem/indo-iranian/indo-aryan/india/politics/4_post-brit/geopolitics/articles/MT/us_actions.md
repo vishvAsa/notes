@@ -3,6 +3,18 @@ title = "US actions"
 +++
 
 ## 2025
+> After Sindoor, something in Indo-US relations seems to have broken, permanently. The "let's pretend" game is over.
+
+Probabaly Sindoor exposed what was already in place due to the deep state machinations. The interesting thing is that the general expectation was that things would improve with nAri~Nga because he would not push the indrAyudhadhvaja politics on India. However, what was missed was that in his ranks were at least 4 antagonistic types: 
+
+1. the old pro-TSP faction (also found in gajalaNDapura); 
+2. the trade warriors with a natural dislike for rising manufacture in India; 
+3. The shvetonnata-s who have a natural dislike for the Indian race as dark-skinned people (part of MAGA base: see reactions to viveka); 
+4. The pretasAdhaka-s who are svabhAvavairin-s of H.
+
+What we are seeing a coalescence of these factors. The H have already faced a humiliating defeat once at the hands of this dala of the mlechCha world (the English conquest) and hopefully their leadership can prevent that from happening again with the mahAmlechcha. This time they would act most through their marUnmatta, preta and nIladrApeya proxies with a Galtonian edge to top it off.
+
+
 That vyApArAmAtya +++(=Commerce secretary)+++ of the pichChilaka has essentially spelled out that the mahAmlechCha want to reduce India to vassalage: pa~nchanetraka-s as svabhAvavairin-s Hopefully, the lATapati and his court are prepared to deal with harm coming their way. Expectations: 
 
 1. Support for TSP & TSB. 
