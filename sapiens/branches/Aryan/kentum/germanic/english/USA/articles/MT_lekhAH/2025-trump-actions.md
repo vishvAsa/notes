@@ -2,6 +2,11 @@
 title = "2025 trump actions"
 +++
 
+## War in guise of Peace 
+The use of the cover of peace talks to launch a preemptive strike is a strategy that goes back to the mists of early human history. In light of the recent events in West Asia, one could interpret the rotten-soy backed dAnu-apara attack on rUs as another such. The corollary is nAri~Nga's delusions of being a peacemaker have likely been torpedoed with it.
+
+The primary lesson from the ongoing conflict in West Asia is how much it points to the complicity of the Occident in making TSP a nuclear power. Then one must ask why they let it happen. The answer to that illuminates the situation of H.
+
 ## USAID
 The attack on USAID by the nAri~NgapuruSha is revealing stuff to the general public that the attentive students of mlechCha subversionist tactics knew long back. It was a purveyor of the shaNDamata in the desh and elsewhere under duShTa-piNDaka as many are just learning. Under mANikya+++(=Rubio)+++ it will swing in the direction of becoming a front for pretacharya.
 
