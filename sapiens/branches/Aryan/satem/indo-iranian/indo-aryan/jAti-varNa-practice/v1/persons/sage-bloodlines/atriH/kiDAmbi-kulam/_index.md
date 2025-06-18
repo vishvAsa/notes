@@ -3,6 +3,16 @@ title = "+किडाम्बि-कुलम्"
 unicode_script = "devanagari"
 +++
 
+किडाम्बि इति परिवर्तितरूपं घटाम्बु  इति वास्तविकं रूपं।  घटाम्बु इत्यस्य  मूलं  तीर्थसमर्पणकैङ्कर्यपरा:।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> Kidambi Actually refers to the old name of the Village Kīl̥ambi currently near Kanchi.
+
+- some guess. but the dIrgha conflicts with that theory.
+</details>
+
+
 ## किडाम्बि-आचान्
 रामानुजपाचकः - तस्य ३६-तमाब्दात्!  
 उत्तरदेशे परविजयात् परं रामानुजेन "वेदान्त+उदयन" इति कीर्तितः। 

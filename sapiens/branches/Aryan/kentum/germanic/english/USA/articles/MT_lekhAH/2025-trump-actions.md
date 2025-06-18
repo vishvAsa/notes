@@ -2,10 +2,30 @@
 title = "2025 trump actions"
 +++
 
+
+
+
+## Iran
+Having looked at the West Asian conflict over the past few days, it is becoming increasingly clear that the prathamonmatta objective is to do a Libya/Qaddafi on the Islamic state in Iran/Ayatollah. If they, by themselves or more likely with mahAmlechCha assistance, succeed in breaking the Ayatollah like Qaddafi then their objectives will be more or less met. 
+
+But we suspect that will just be the beginning. The Turks, the Arabs of different hues, Russians, chIna-s will all prop up their proxies with arms and there could be chaotic civil war situation. Unlike Syria, there is no Al Qaeda ally of the 1&2 in the waiting. However, with the vestiges of an older civilization and foundations for national identity, Iran might not go the way a Libya or an Eye-Rack. Rather, it would survive as a nation and pull together under a new regime. This will be a much weaker state but it is unlikely to be favorable to the unmatta-s. The best case scenario down such a track is the revival of the asura cult. 
+
+On the other hand if Iran proves a harder nut to crack than the mUshAnuyAyin-s then it is more likely to draw the mahAmlechCha into a full blown conflict and another prolonged mess in the making: could Shi terrorists step in like in Eye-Rack?
+
+
 ## War in guise of Peace 
 The use of the cover of peace talks to launch a preemptive strike is a strategy that goes back to the mists of early human history. In light of the recent events in West Asia, one could interpret the rotten-soy backed dAnu-apara attack on rUs as another such. The corollary is nAri~Nga's delusions of being a peacemaker have likely been torpedoed with it.
 
 The primary lesson from the ongoing conflict in West Asia is how much it points to the complicity of the Occident in making TSP a nuclear power. Then one must ask why they let it happen. The answer to that illuminates the situation of H.
+
+In light of the conflict in West Asia, one can better understand the mysterious death of the Iranian Indian Homi Bhabha.
+
+
+### Trump support
+Will nAri~Nga's sheep-like base go with him or with jarilasUnu, who did a lot to get him the gaddi in the first place: America's Judaeo-Christian identity
+
+As the implications of America's Judaeo-Christian identity play out, the nAri~NgapuruSha's base is clearly divided. If the conflict drags on without a clear endpoint, it will likely fracture, and the nAri~NgapuruSha's coalition will come apart. Wonder if someone like surasA will resign. His pakSha will face a midterm defeat and his rAj will be mostly a failure. Yet why is he pursuing what he is doing? While people will point to his big money neocon donors and the like, we believe this relates fundamentally to American identity, which is inextricably tied to the West Asian Mediterranean coast.
+
 
 ## USAID
 The attack on USAID by the nAri~NgapuruSha is revealing stuff to the general public that the attentive students of mlechCha subversionist tactics knew long back. It was a purveyor of the shaNDamata in the desh and elsewhere under duShTa-piNDaka as many are just learning. Under mANikya+++(=Rubio)+++ it will swing in the direction of becoming a front for pretacharya.

@@ -35,3 +35,6 @@ tireless in his pursuit of वेदरक्षण, he shaped the आचार 
 He is said to have learnt (parts of) Śrī Bhāṣyam, Gītā Bhāṣyam, Rahasya Traya Sāram, Bhagavad Viṣayam, Śatadūṣaṇī and Tirunetuntāṇṭakam from ācāryas like Villivalam Śrī Nārāyaṇa Mahādeśika, Nāvalpākkam Śrī Rāmānuja Tātācār, Cetlur Śrī Śrīvatsānkācār, Nelvoy Śrī Soumyanārāyaṇācār, Villur Śrī Karuṇākarācār and Devanārvilāgam Śrī Sāranāthācār.
 
 
+### hārīta veṅkaṭanātha
+kiḍāmbi tozhappar = hārīta veṅkaṭanātha, the śrīvaiṣṇava nibandhanakāra, author of smṛti ratnākara and iirc śiṣya of ādivaṇśaṭhakopa jīyar, founder of ahobila maṭha.
+
