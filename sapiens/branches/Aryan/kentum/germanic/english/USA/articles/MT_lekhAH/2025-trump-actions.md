@@ -3,7 +3,8 @@ title = "2025 trump actions"
 +++
 
 
-
+## Help to Israel
+It is very clear that the mUlavAtUla-s are suppressing reports of their losses. Apparently, at least some of their military installations have suffered heavy damage, with many more deaths than they are admitting. This is part of the reason they are desperate for the mahAmlechCha to fight on their behalf. mahAmlechCha are already shoring up their astra-s and intelligence but still seem reluctant to join despite all the gorilla-thumping by the mlechCharAT.
 
 ## Iran
 Having looked at the West Asian conflict over the past few days, it is becoming increasingly clear that the prathamonmatta objective is to do a Libya/Qaddafi on the Islamic state in Iran/Ayatollah. If they, by themselves or more likely with mahAmlechCha assistance, succeed in breaking the Ayatollah like Qaddafi then their objectives will be more or less met. 
