@@ -24,6 +24,8 @@ If in a few years that really comes about then the Islamic state in Iran will jo
 
 when the biggest bully on the block is many fold larger than you, you settle for the most favorable extortion regime. But the bully knowing he bash the hell out of you will do so when he pleases.
 
+Once predatory states have tasted blood and see world dominance within reach, they will exercise their power with much violence against the rest of the world. Not many understand a true picture of world history because they uncritically or emotionally follow the A~NglamlechCha narrative of it starting from their vishvavijaya down through the two world wars.
+
 ## War in guise of Peace 
 The use of the cover of peace talks to launch a preemptive strike is a strategy that goes back to the mists of early human history. In light of the recent events in West Asia, one could interpret the rotten-soy backed dAnu-apara attack on rUs as another such. The corollary is nAri~Nga's delusions of being a peacemaker have likely been torpedoed with it.
 
