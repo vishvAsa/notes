@@ -4,6 +4,8 @@ title = "Maturation to navyonmAda"
 
 Source: [TW](https://threadreaderapp.com/thread/1551304824188182528.html)
 
+In the late 1990s and early 2000s, one of my mistaken geopolitical inferences was that the political system in USA had developed genuine resistance to socialism. My understanding of pathogenic meme complexes has since vastly improved, and the mistake seems foolish in hindsight.
+
 ## Rise
 When ShiDga +++(Bill)+++ became mlechCharAT a band of ideologues penetrated the mlechCha deep state apparatus. They started off aligned with the gardabhins +++(Dem)+++ & were aligned with tech & deeply committed to projects related to the marusthala & destruction of the Rus. It seems they let ShiDga keep keep busy with his maithuna even as they tested out their agenda in bhagadattapura, against the Serbs & with Yeltsin. We all know who was the man who put a stop to the last of these projects. 
 

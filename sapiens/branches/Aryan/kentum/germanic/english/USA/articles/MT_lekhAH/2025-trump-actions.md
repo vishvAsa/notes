@@ -50,6 +50,8 @@ This will depend on the West Asian conflict and how it plays out. If that confli
 
 duShTa-paTTinI is probably feeling rather left out and sore today that the unmatta pichChilaka lied his way to being the mlechCharAT only to do what she was promising to her controllers all along.
 
+nAri~Nga caught in the grasp of the jarilaputra camp and the navyadhUrta-s decided either to please or anger both and also show some rearguard spine vis-a-vis the uparimarkata-s. The hard question to answer is whether this is the end or there is more to come, and when. We believe the ball is in the mUlamohita court and given their record they will be thinking up some new mischief.
+
 ## USAID
 The attack on USAID by the nAri~NgapuruSha is revealing stuff to the general public that the attentive students of mlechCha subversionist tactics knew long back. It was a purveyor of the shaNDamata in the desh and elsewhere under duShTa-piNDaka as many are just learning. Under mANikya+++(=Rubio)+++ it will swing in the direction of becoming a front for pretacharya.
 
