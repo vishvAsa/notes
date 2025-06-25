@@ -1,0 +1,215 @@
+[[data]]
+" संज्ञा" = "रक्ततण्डुल+ओदनम्"
+"यन्त्रम्" = "Instant pot"
+"द्रव्यम्" = "प्रक्षालितधान्यम्, ३गुणं जलम्"
+"स्थितिः" = "High Pressure"
+"पाक-कालः" = 35
+"प्रतीक्षा-कालः" = 17
+
+[[data]]
+" संज्ञा" = "श्वेततण्डुल+ओदनम्"
+"यन्त्रम्" = "Instant pot"
+"द्रव्यम्" = "प्रक्षालितधान्यम्, २.५गुणं जलम्"
+"स्थितिः" = "High Pressure"
+"पाक-कालः" = 4
+
+[[data]]
+" संज्ञा" = """
+श्वेतजोल+ओदनम्
+jowar, sorghum millet"""
+"यन्त्रम्" = "Instant pot"
+"द्रव्यम्" = "प्रक्षालितधान्यम्, २.५गुणं जलम्"
+"स्थितिः" = "High Pressure"
+"पाक-कालः" = 20
+
+[[data]]
+" संज्ञा" = """
+कम्बु+ओदनम् बाज्रा
+pearl millet"""
+"यन्त्रम्" = "Instant pot"
+"द्रव्यम्" = "प्रक्षालितधान्यम् १ होरं निमज्जितम्, ३गुणं जलम्"
+"स्थितिः" = "High Pressure"
+"पाक-कालः" = 20
+
+[[data]]
+" संज्ञा" = "Varagu arisi (Kodo millet)+ओदनम्"
+"यन्त्रम्" = "Instant pot"
+"द्रव्यम्" = "प्रक्षालितधान्यम्, ३गुणं जलम्"
+"स्थितिः" = "High Pressure"
+"पाक-कालः" = 20
+
+[[data]]
+" संज्ञा" = "Samai arisi (Little millet)+ओदनम्"
+"यन्त्रम्" = "Instant pot"
+"द्रव्यम्" = "प्रक्षालितधान्यम्, ३गुणं जलम्"
+"स्थितिः" = "High Pressure"
+"पाक-कालः" = 20
+
+[[data]]
+" संज्ञा" = "Kuthiraivali ( Barnyard millet) +ओदनम्"
+"यन्त्रम्" = "Instant pot"
+"द्रव्यम्" = "प्रक्षालितधान्यम्, ३गुणं जलम्"
+"स्थितिः" = "High Pressure"
+"पाक-कालः" = 20
+
+[[data]]
+" संज्ञा" = "नवणे तिनै foxtail millet"
+"यन्त्रम्" = "Instant pot"
+"द्रव्यम्" = "?"
+"स्थितिः" = "High Pressure"
+
+[[data]]
+" संज्ञा" = "रागि finger millet"
+"यन्त्रम्" = "Instant pot"
+"द्रव्यम्" = "?"
+"स्थितिः" = "High Pressure"
+
+[[data]]
+" संज्ञा" = "किन्वा"
+"यन्त्रम्" = "Instant pot"
+"द्रव्यम्" = "किन्वा, २गुणं कम्।"
+"स्थितिः" = "High Pressure"
+"पाक-कालः" = 4
+
+[[data]]
+" संज्ञा" = "किन्वा+ओदनम्"
+"यन्त्रम्" = "stove"
+"द्रव्यम्" = "boiled in 1:3 ratio till it changes appearance to a softer larger sprouted-like form."
+
+[[data]]
+" संज्ञा" = "श्वेतोदनम्"
+"यन्त्रम्" = "Pressure cooker"
+"द्रव्यम्" = "Clean rice thrice. Cook rice in pressure cooker with a suitable ratio (1:1.5 in USA and 1:3 in India) of water with 2 whistles. Eat."
+
+[[data]]
+" संज्ञा" = """पर्युषितान्नम् fermented rice + gruel"""
+"यन्त्रम्" = "*"
+"द्रव्यम्" = "wash grains. wash again - save liquid. cook grain. leave in closed pot with (washed) water for 1-3 days. eat by mixing with salt etc.."
+"पाक-कालः" = "24*3"
+
+[[data]]
+" संज्ञा" = "तड्का"
+"यन्त्रम्" = "stove"
+"द्रव्यम्" = "This is essentially about preparing spices before cooking. Take a vessel. Put 3 spoons of oil. Add 1/2 spoon cumin seeds (which are small, brownish and elongated). Add some tamarind powder. Add 0.5 palmfuls of mustard. Add a pinch of asafoetida. Wait for the cumin seeds to sputter. Now, the tadka is ready."
+
+[[data]]
+" संज्ञा" = "तूर-दालिः"
+"यन्त्रम्" = "Instant pot"
+"द्रव्यम्" = "प्रक्षाल्य, २.५गुणं कम्। लवणं न स्यात्। + carminatives/ masaala व्याघरणम्."
+"स्थितिः" = "High Pressure"
+"पाक-कालः" = 10
+"प्रतीक्षा-कालः" = 10
+
+[[data]]
+" संज्ञा" = "मूङ्ग-दालिः"
+"यन्त्रम्" = "Instant pot"
+"द्रव्यम्" = "प्रक्षाल्य, २.५गुणं कम्"
+"स्थितिः" = "High Pressure"
+"पाक-कालः" = 4
+
+[[data]]
+" संज्ञा" = "शाकानि"
+"यन्त्रम्" = "Instant pot"
+"स्थितिः" = "Steam"
+"पाक-कालः" = 4
+
+[[data]]
+" संज्ञा" = "शाकानि"
+"यन्त्रम्" = "Microwave"
+"द्रव्यम्" = "If using frozen vegetables, use knife to good effect to ensure that it fits fully within the vessel; No additional water required.  If using fresh vegetables, add quarter cup of water. Add an assortment of spices and olive oil, mix. Microwave for a suitable period of time. (10 minutes in India for most vegetables. 5 minutes for onion and capsicum in India.) Big pieces require more time. Err on the side of overcooking, in the beginning."
+
+[[data]]
+" संज्ञा" = "पक्व-छिन्न-गोधूमः"
+"यन्त्रम्" = "Instant pot"
+"द्रव्यम्" = "२-गुणं कम्।"
+"स्थितिः" = "High Pressure"
+"पाक-कालः" = 4
+
+[[data]]
+" संज्ञा" = "शोधिका"
+"यन्त्रम्" = "Instant pot"
+"द्रव्यम्" = "२-गुणं कम्।"
+"स्थितिः" = "High Pressure"
+"पाक-कालः" = "4??"
+
+[[data]]
+" संज्ञा" = "egg"
+"यन्त्रम्" = "Microwave"
+"द्रव्यम्" = """
+Pour contents of two eggs in a microwave; add available vegetables; cover tightly with plastic sheet; microwave for 1 or 2 minutes, depending on power of microwave.
+
+Remember to ensure that the egg is solid, and fully cooked."""
+
+[[data]]
+" संज्ञा" = "oats and breakfast cereals"
+"यन्त्रम्" = "-"
+"द्रव्यम्" = "Can be eaten with yogurt or milk, with or without heating."
+
+[[data]]
+" संज्ञा" = "Buckwheat"
+"यन्त्रम्" = "stove"
+"द्रव्यम्" = "boiled in 1:3 ratio till it changes appearance to a softer larger form."
+
+[[data]]
+" संज्ञा" = "तूर-दालिः"
+"यन्त्रम्" = "Cooker"
+"द्रव्यम्" = "Wash Dal once. (In USA, washing Dal is usually not necessary.) Cook Dal in pressure cooker with a suitable ratio (1:3 in USA) of water with 3 whistles. Eat."
+
+[[data]]
+" संज्ञा" = "दाल-रसः"
+"यन्त्रम्" = "Stove"
+"द्रव्यम्" = "Prepare Dal (2.25 cups for 4 people) in a cooker. Prepare the tadka or other carminatives. Add 4.5 spoons of tomato puree. Add .5 spoons of chilly powder. Add enough water to cover the contents of the vessel. You now have a paste. Add the cooked dal. Boil. Eat."
+
+[[data]]
+" संज्ञा" = "द्राविड-रसः"
+"यन्त्रम्" = "Stove"
+"द्रव्यम्" = "Prepare Dal. Put it in vessel. Pour 4 or 5 tumblers of water. Add 3 spoons of salt. Add 4.5 spoons of rasam powder (which is composed of chilly powder, tamarind powder, dal powder, coriander seeds, pepper, jeera, mustard, asafoetida, bengal gram). Add tomato if it is available. Boil."
+
+[[data]]
+" संज्ञा" = "सिद्धरसः"
+"यन्त्रम्" = "Stove"
+"द्रव्यम्" = "If quick use powder is available:  Pour 1 tumbler of water. Add a spoon of soup powder and some salt. Boil."
+
+[[data]]
+" संज्ञा" = "नळग्रि-रसः, शाक-रसः"
+"यन्त्रम्" = "Stove"
+"द्रव्यम्" = "Bake vegetables. Follow the same procedure as that for the preparation of Rasam, but add extra salt."
+
+[[data]]
+" संज्ञा" = "कोको-रसः"
+"यन्त्रम्" = "Stove"
+"द्रव्यम्" = "Heat water, add some honey and some chocolate powder; possibly also some lime juice, stir."
+"प्रयोजनम्" = "Very comforting in cold weather."
+
+[[data]]
+" संज्ञा" = "शाक-व्यञ्जनम् ईषदार्द्रम्"
+"यन्त्रम्" = "Stove"
+"द्रव्यम्" = "Bake vegetables. Take a vessel. If vegetables are too dry, add quarter tumbler of water. Add equal proportions of salt and rasam powder based on quantity. (Less for spinachs.) Boil. Eat."
+
+[[data]]
+" संज्ञा" = "शाक-व्यञ्जनम् सतैलम्"
+"यन्त्रम्" = "Stove"
+"द्रव्यम्" = "Bake vegetables. Prepare the tadka in a vessel. Add a palmful of urad dal in that vessel. Watch it change color. Add the cooked vegetables. Spread around salt (1 spoon for 1.2 packets of frozen vegetables) and mix very well. Spread around chilly powder (.5 spoon for 1.2 packets of frozen vegetables). Eat."
+
+[[data]]
+" संज्ञा" = "पिष्ट-पिण्डम्"
+"यन्त्रम्" = "Stove"
+"द्रव्यम्" = """
+Flours of these grains have been tried so far: Ragi (Millet flour), wheat, soya, red rice.
+
+1 tumbler water. 1 pinch salt. 2 spoons oil. boil. rapidly add enough flour to produce a non viscous paste. stir vigorously to ensure that all parts of the flour have had contact with the boiled water. Wash preparation vessel at once. Eat.
+
+Err on the side of adding less flour/ more viscous paste: raw flour is unedible."""
+
+[[data]]
+" संज्ञा" = "पिष्टम्"
+"यन्त्रम्" = "-"
+"द्रव्यम्" = """
+Mix flour (possibly of various kinds, maybe whole-grain) with water, some salt, a spoon of oil, then add powdered pulses/ dAl or egg for protein and connectivity. Batter should be very viscous - add water gradually while stirring to ensure that too much is not added.
+
+If egg is not used, optionally leave it out and let yeast ferment it: It will become porous and increase in volume. Possibly add vegetables and goji berry to it."""
+
+[[data]]
+" संज्ञा" = "दधि"
+"यन्त्रम्" = "*"
+"द्रव्यम्" = "Heat milk well, until it is slightly more than luke-warm. Mix a few spoons of old yogurt to supply necessary bacteria. Ferment. Refrigerate for preservation."
