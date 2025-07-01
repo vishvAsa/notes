@@ -12,20 +12,9 @@ Portugal
 Costa Oliveira e, João Paulo  
 Tokugawa Ieyasu and the Christian Daimyó during the Crisis Of 1600
 
-The process of the political reunification of the Japanese Empire [^2]
-underwent its last great crisis in the period between the death of Toyotomi
-Hideyoshi 豊臣秀吉 (1536-1598),[^3] in September 1598, and the Battle of Sekigahara, in October 1600. The entire process was at risk of being aborted,
-which could have resulted in the country lapsing back into the state of civil
-war and anarchy in which it had lived for more than a century.4 However, an
-individual by the name of Tokugawa Ieyasu 徳川家康 (1543-1616) 5 shrewdly
-took advantage of the hesitation shown by many of his rivals and the military
-weakness or lack of strategic vision on the part of others to take control of
-the Japanese Empire, which would remain in the hands of his family for
-more than 250 years.
+The process of the political reunification of the Japanese Empire [^2] underwent its last great crisis in the period between the death of Toyotomi Hideyoshi 豊臣秀吉 (1536-1598),[^3] in September 1598, and the Battle of Sekigahara, in October 1600. The entire process was at risk of being aborted, which could have resulted in the country lapsing back into the state of civil war and anarchy in which it had lived for more than a century.4 However, an individual by the name of Tokugawa Ieyasu 徳川家康 (1543-1616) 5 shrewdly took advantage of the hesitation shown by many of his rivals and the military weakness or lack of strategic vision on the part of others to take control of the Japanese Empire, which would remain in the hands of his family for more than 250 years.
 
-This decisive victory affected Luso-Japanese relations in general
-and the Christian Church in particular, as the nanbanjin were deprived,
-once and for all, of any possibility of utilising the internal divisions of the
+This decisive victory affected Luso-Japanese relations in general and the Christian Church in particular, as the nanbanjin were deprived, once and for all, of any possibility of utilising the internal divisions of the
 
 [^1]: This article is based upon Chapter 8 of my work entitled O Cristianismo no Japão e o episcopado de D. Luís Cerqueira, Lisbon 1998 (Ph.D. dissertation presented at the Faculty of Social and Human Sciences, New University of Lisbon, photocopied text) which has not yet been published. I am grateful to Prof. José Miguel Pinto dos Santos, for his support in the preparation of this article.
 [^2]: For general questions pertaining to Japanese history I have basically followed Francine Hérail, Histoire du Japon des origines à la fin de Meiji, Paris, 1986; George Sansom, Histoire du Japon, Paris, 1986 (translation of the 3rd edition, from 1974); The Cambridge History of Japan, 6 vols., Cambridge, vol. 3, Medieval Japan (co-ord. Kozo Yamamura), 1990; vol. 4, Early Modern Japan (co-ord. John W. Hall), 1991.
@@ -40,13 +29,9 @@ same time that the political centralization of the Empire was being consolidated
 Japanese and were no longer able to hide the reality of the fragmented
 nature of European Christianity.8
 
-These were, thus, two particularly intense and dramatic years. The fact
-that Christianity in Japan registered an extraordinary rate of growth, with
-the baptism of about 70,000 individuals,9 is an indication of this situation of
-vast uncertainties and rapid transformations.
+These were, thus, two particularly intense and dramatic years. The fact that Christianity in Japan registered an extraordinary rate of growth, with the baptism of about 70,000 individuals,9 is an indication of this situation of vast uncertainties and rapid transformations.
 
-Thus, it is precisely this short – but very intense and decisive – period
-that I shall be studying in this article, keeping in mind the Jesuits’ expectations in the light of the developments that unfolded and the political dimension of Japanese Christendom.
+Thus, it is precisely this short – but very intense and decisive – period that I shall be studying in this article, keeping in mind the Jesuits’ expectations in the light of the developments that unfolded and the political dimension of Japanese Christendom.
 
 
 6 There is a very large bibliography about Christianity in Japan in the 16th and 17th centuries. I especially use the following: C.R. Boxer, The Christian Century in Japan, Manchester, 1993 (3rd edition); Johannes Laures S.J., Takayama Ukon und die anfänge der Kirche in Japan, Münster Westfallen, 1954; Michael Cooper S.J., Rodrigues, O Intérprete. Um Jesuíta no Japão e na China, Lisbon, Quetzal Editores, 1994 (original: Rodrigues, The Interpreter, New York, 1974); George Elison, Deus Destroyed, The Image of Christianity in Early Modern Japan, Cambridge (Mass.)-London, 1988 (original, 1973); Neil Fujita, Japan’s Encounter with Christianity. The Catholic Mission in Pre-Modern Japan, New York, 1991; J.F. Moran, The Japanese and the Jesuits. Alessandro Valignano in Sixteenth-Century Japan, London and New York, 1993. Also see my studies O Cristianismo no Japão e o episcopado de D. Luís Cerqueira… (cited above) and O Japão e o Cristianismo no século XVI. Ensaios de História Luso-Nipónica, Lisbon, 1999. For the early years of the Japanese mission Léon Bourdon’s book entitled La Compagnie de Jésus et le Japon. 1547-1570, Paris, 1993, is also very important.
