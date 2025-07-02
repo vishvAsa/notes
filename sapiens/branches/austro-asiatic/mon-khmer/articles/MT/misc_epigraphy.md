@@ -41,3 +41,25 @@ Above his āśrama, where acts of honor were constantly performed at the conclus
 
 ## shaiva initiation
 The image of a procession of shaiva (=pAshupata?) ascetics carrying their guru from Angkor Wat. It is believed by some to be a portrait of none other than the rAjaguru divAkara-paNDita, also called the hotR^i of kingdom. He performed the rAjyAbhiSheka of three Khmer monarchs, none of whom were shaiva-s. Two were bauddha-s following their yoginI-tantra-s, and the builder of Angkor was a vaiShNava. It illustrates the general sarvAdhikArin principle in H tradition.
+
+
+
+## Fire transport
+The early Aryan-s carried their fire in pots while on the move and installed it in fire houses or fire sheds when stationary. In the case of the Iranians, it evolved into fire temples. In the case of the Indians, it was the fire-house -- the agnyAgara. Such are depicted in some of the earliest iconic art, post the second urbanization in India. 
+
+It continued into the shaiva tradition and is mentioned in the early pAshupata text in AV-parishiShTha. Versions of it further continued to be seen in the mantra-mArga tradition -- as the shivAgni, which was locally installed or carried on the move. Below is a Khmer inscription on the installation of one such fire.
+
+The Prasat Srange Khmer indravarman' s hotR^i-s inscription in modern orthography:
+
+> rājā rājadhirājo yaḥ Śrīndravarmeti viśrutaḥ |  
+ācāryo nandikācāryaḥ taddhotā sumahātapāḥ ||    
+śara-khāṣṭāṅkite śāke devāgniḥ nandikeśvaraḥ |  
+sthāpito vidhinā tena hutvāgniñ ca sadārcayet ||  
+pañca-tanmātram asyedaṃ pañcakāman dadāti yaiḥ |  
+patreṇa kampitaṃ tebhyaḥ suvarṇa-vyajanāni ca ||  
+
+> The king, the king of kings, who is renowned as Śrī Indravarman, the ācārya Nandikācārya is his hotṛ of great austerity.  
+> In Śaka marked by the arrow, space and 8 (805 ~883 CE), the divine fire of Nandikeśvara was installed as per ritual procedure by him, and having offered oblations, may he always worship it.  
+> This set of five subtle elements (pañca-tanmātra-s) of it bestows the pleasures to the five senses (pañcakāma) to those who fan it with a leaf, and to them are also given golden fans.
+
+A frieze from Bayon showing the transportation of ritual fire by Khmer officiants
