@@ -63,3 +63,17 @@ patreṇa kampitaṃ tebhyaḥ suvarṇa-vyajanāni ca ||
 > This set of five subtle elements (pañca-tanmātra-s) of it bestows the pleasures to the five senses (pañcakāma) to those who fan it with a leaf, and to them are also given golden fans.
 
 A frieze from Bayon showing the transportation of ritual fire by Khmer officiants
+
+## chitrasena-mahendravarman
+The famous inscription of chitrasena mahendravarman from early 600s, king of the Chenla kingdom that later expanded into the Khmer empire (in modern orthography):
+
+> bhaktyā bhagavataś śambhor  
+mātā-pitror anujñayā |  
+sthāpitañ citrasenena  
+liṅgañ jayati śāmbhavam ||
+
+> With devotion to Lord Śambhu,  
+> with the permission of [his] mother and father,  
+> Citra-sena installed the liṅga of Śambhu [, which] is victorious
+
+While there is no image of his performing the sthApana, we have a much later image of a Khmer monarch performing li~Nga sthApana with his two shivAcharya-s.
