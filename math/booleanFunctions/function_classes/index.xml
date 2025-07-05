@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;Function classes on Vishvas&#39;s notes</title>
+    <link>https://vishvAsa.github.io/notes/math/booleanFunctions/function_classes/</link>
+    <description>Recent content in &#43;Function classes on Vishvas&#39;s notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/notes/math/booleanFunctions/function_classes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automata</title>
+      <link>https://vishvAsa.github.io/notes/math/booleanFunctions/function_classes/automata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/booleanFunctions/function_classes/automata/</guid>
+      <description>&lt;h2 id=&#34;grammar&#34;&gt;Grammar&lt;/h2&gt;&#xA;&lt;h3 id=&#34;definition&#34;&gt;Definition&lt;/h3&gt;&#xA;&lt;p&gt;A grammar specifies a language by describing structural rules which can be used to accept or reject a sentence. So, each grammar is associated with a language.&lt;/p&gt;&#xA;&lt;p&gt;It is fully described by (Variables, Terminal chars/ alphabet, Start symbol, Production rules).&lt;/p&gt;&#xA;&lt;p&gt;Production rules are of the form:&#xA;string including variable V \(\to\) string with variables and terminal symbols, formed by replacing \(V\) with somwething else.&lt;/p&gt;&#xA;&lt;p&gt;A given string is accepted if, starting with the start symbol, using a finite number of production rules, one can arrive at the string.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Decision trees</title>
+      <link>https://vishvAsa.github.io/notes/math/booleanFunctions/function_classes/decision_trees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/booleanFunctions/function_classes/decision_trees/</guid>
+      <description>&lt;h2 id=&#34;decision-lists&#34;&gt;Decision lists&lt;/h2&gt;&#xA;&lt;p&gt;Decision list is fully specified by a sequence of \(k\) variables \((x_{i})\) and outputs \(r(x_{i}), r&amp;rsquo;(x_k)\). It is like an &amp;lsquo;if .. elseif .. elseif .. else&amp;rsquo; statement. It can be visualised as a chain of variables, each with one outgoing edges representing an output.&lt;/p&gt;&#xA;&lt;p&gt;In a d-decision list, \(d-CNF\)&amp;rsquo;s are used in place of \(\set{x_i}\).&lt;/p&gt;&#xA;&lt;h3 id=&#34;generality&#34;&gt;Generality&lt;/h3&gt;&#xA;&lt;p&gt;This can be writ as halfspace: \(sign(\sum 2^{k-i}x_{i}o(x_{i}))\).&lt;/p&gt;&#xA;&lt;p&gt;We can write conjunctions, disjunctions as decision lists.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Misc Function classes</title>
+      <link>https://vishvAsa.github.io/notes/math/booleanFunctions/function_classes/misc_function_classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/notes/math/booleanFunctions/function_classes/misc_function_classes/</guid>
+      <description>&lt;h2 id=&#34;conjunctions-and-disjunctions&#34;&gt;Conjunctions and disjunctions&lt;/h2&gt;&#xA;&lt;p&gt;View as a set.&lt;/p&gt;&#xA;&lt;h2 id=&#34;boolean-functions-from-real-valued-functions&#34;&gt;Boolean functions from real valued functions&lt;/h2&gt;&#xA;&lt;p&gt;Take epigraph or subgraph. See complex analysis ref.&lt;/p&gt;&#xA;&lt;h2 id=&#34;halfspace&#34;&gt;Halfspace&lt;/h2&gt;&#xA;&lt;p&gt;Aka Linear Threshold fn (LTF). \(f=sign(\sum a_{i}x_{i} + c) = sgn(a^{T}x + c)\), \(a_{i}, c \in Z\). x called the weight vector, c called the bias.&lt;/p&gt;&#xA;&lt;p&gt;\(a^{T}x + c = 0\) is a Hyperplane: take pts x and x&amp;rsquo; on the hyperplane, use \(a^{T}(x-x&amp;rsquo;) = 0\); so a specifies orientation. Distance from origin : \(\frac{a^{T}x}{\norm{a}} = \frac{-c}{\norm{a}}\). Distance of any pt x from hyperplane: \(\frac{a^{T}x - (-c)}{\norm{a}} = \frac{f(x)}{\norm{a}}\) by geometry.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
