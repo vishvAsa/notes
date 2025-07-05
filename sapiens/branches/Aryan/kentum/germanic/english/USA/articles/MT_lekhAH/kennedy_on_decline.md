@@ -1,9 +1,0 @@
-+++
-title = "kennedy on decline"
-+++
-Finally, we come to Kennedy addressing the decline of mahAmlechCha empire: He, as a historian, correctly accepts that fact like all other empires, this one would also fall. However, he hopes for a soft-landing. In our opinion, there were structural fractures but they were not fatal when he was writing. However, he correctly realized that if the politicians did not properly manage them, things could go worse. The breakout of navyonmAda from the walls of the American left-liberal academia into the real world -- Marxism with American characteristics -- has changed things in away he would not have expected. The jinni is out of the bottle & is not going inside because a good part of the kids of the American elite has contracted navyonmAda. The duShTa-s who have put piNDaka & paDbIshapuruSha in their Asandi-s are now the rulers.
-
-Essentially, it looks as though nAri~NgapuruSha might have been the last democractically elected American president (there could be a little julian effect here and there) but the direction looks set. Lysenko-istic delusions, a cultural revolution against the meritorious, & lack of
-introspection regarding AI, energy & health is going to stir up this pot for the mahAmlechCha, who still remain a frontier society. Hence, we are increasingly inclined to think that the landing is not going to be soft. As with the Soviet rUs, the hard part is the when. 
-
-Kennedy in 1988 as a career historian studying the rise and fall of empires knew they Soviets were wobbly but probably did not realize the collapse would be that soon & swift. That certainly can happen even with the mahAmlechCha; though, the differential between the Judaeo-Anglo-Saxon center & the Judaeo-rUs one being a real & large could mean a slower burn of the fuse, whether it ends in a fizz or a bang. At least that's our current intuition. 
