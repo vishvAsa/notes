@@ -253,8 +253,10 @@ Grammaphone doesn't require electricity to play sound. It's relatively easy to c
   - Canadian council of Archives recommendations [2003](https://archivescanada.ca/wp-content/uploads/2022/08/RBch6_en.pdf)
 
 ### Location
-- Temples
-  - one should have an effort to engrave important texts on to temple walls.
+Temples
+
+- one should have an effort to engrave important texts on to temple walls.
+- One dream is for deities to have necklaces of metal disks (like cd-s) on which would be engraved important texts.
 
 Other efforts
 
