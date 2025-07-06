@@ -77,3 +77,12 @@ liṅgañ jayati śāmbhavam ||
 > Citra-sena installed the liṅga of Śambhu [, which] is victorious
 
 While there is no image of his performing the sthApana, we have a much later image of a Khmer monarch performing li~Nga sthApana with his two shivAcharya-s.
+
+## Da Noi
+A fragmentary stone slab from Da Noi, 400-500 CE, contains an ornate inscription that appears to have been a verse describing tripura-dahana. It was likely a śārdūlavikrīḍita:
+
+> d(ai)tyānān tr[i]purā(r)danāya sa śaraṁ puṣpyan nabhaḫ pal(l)ava[m]
+yas(y)ān (ta)s(ya) ca [-] rma [--] hariṇā nā sā [.]i[…]
+
+> To crush the triple-planets of the daitya-s, he (=Rudra) [...] an arrow, which was a blossoming shoot in the sky,[…] by Hari […]
+
