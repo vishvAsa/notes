@@ -263,6 +263,18 @@ Other efforts
 - Memory of Mankind [archive](https://www.memory-of-mankind.com/?ref=longnow.org) - Hallstatt/Austria
   - The geological structure of the surrounding rock must not destroy the archive.
 
+## Area calculation
+Page capacities
+
+- A4 ( 21.0 cm x 29.7 cm) = 623.7 sqcm . (42.8% zoom) 
+  - Fits about closely packed 6800 devanAgarI akShara-s with minimal margines and common sandhi/ saMhitA.
+  - Luxurient verse spacing
+
+Example requirements
+
+- shrIbhAShyam 32.5k akShara-s. 
+  - 47-50 A4s
+
 ## Content
 - Global village construction kit [here](https://wiki.opensourceecology.org/wiki/Main_Page)
 
