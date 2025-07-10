@@ -217,7 +217,9 @@ vishvanAtha gurukkal, the archaka of the local shiva temple, inherited tradition
 
 He was highly regarded for his medical knowledge. He used to successfully treat even severe jaundice with herbs. He used to correctly estimate the time taken to recover - day, week or month.  
 Daily about 15 people waited at his home for treatment. He did not charge the poor or farmers - still, the employees (eg. school teachers) paid beyond what he asked, out of regard for him.  
+
 He would forbid shrotriya-s from visiting him, preferring to cycle to their place to serve them.  
+For the convenience of vaiShNava-s who needed to consult him nevertheless, he created an extra gate in the compound of his house so that they would not need to enter the shiva temple on the way in.
 
 Yet, many villagers took to allopathic medicine since it often yielded quicker results with fewer rules (albeit with side-effects). Eventually, the medical knowledge died with him. The kids moved to the cities to work in industries.
 
