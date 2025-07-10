@@ -76,6 +76,12 @@ they used to remove their footwear.
 > "A brAhmaNa is sleeping here; and I have just consumed meat. Please exchange".  
 > Similarly, panchama-s used to, on their own accord, seat themselves elsewhere, rather than next to me.
 
+#### vaiShNava-s
+Some 10 houses in a nearby village belonged to vaiShNava shUdras who wouldn't bow to non-vaiShNava brAhmaNa-s; but only to vaiShNava-s.  
+Other vaiShNava-s were similar. 
+
+Their antya-karmans involved nArAyaNa bali, unlike drumming and such of their non-vaiShNava fellows.
+
 ### Haters
 In a nearby town, tellAr, where he went to a polytechnic college, once a roughly 50 year old soda-shop owner called him over from a bus-stand, and asked him to read something (year approx. 1989). As he bent over, the man took a handful of water from the soda-bucket, splashed it on his forehead and wiped off his tilaka. Then he told him - "you look better without it, don't wear it henceforth." When told about it, his father told him to not react, and just wear the puNDra upon returning home.
 

@@ -23,6 +23,11 @@ Can use 'Newman projection' diagrams.
 ## Metrics
 Concentration - (1% dilution =) 1 wt% would mean 10 mg in 1000mg solvent.
 
+## Oxidation, reduction
+Oxidation: Involves the loss of electrons by a reactant.  
+Reduction: Involves the gain of electrons by a reactant.  
+Both processes occur together in redox reactions.
+
 ## Dynamics of chemical reactions
 ### Low level view
 Chemical reacion involves making and breaking of bonds; which requires atoms to collide. The former usually has to happen first: this requires an activation energy. This can be supplied with heat, light etc..
