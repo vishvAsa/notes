@@ -2,6 +2,12 @@
 title = "+Version Control"
 +++
 
+## jj
+> jj is the best DVCS I have used in the last 20 years. This includes subversion, mercurial, fossil and git  -- kArtik
+
+
+`jj git init --colocate` in your git repo.
+
 ## git
 <div class="spreadsheet" src="../git.toml" fullHeightWithRowsPerScreen=8> </div>  
 

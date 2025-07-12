@@ -47,7 +47,9 @@ Place a link in the site-packages directory.
 
 Or run python setup.py build, python setup.py install.
 
-Or do: sudo pip install pkgName or easy\_install pkgName.
+Or do: `uv pip install pkgName` (much faster than just pip) or `easy\_install pkgName`.
+
+
 
 ### Setting up a project-specific development environment
 Different projects can have conflicting package version requirements. So, install and activate a virtual environment.

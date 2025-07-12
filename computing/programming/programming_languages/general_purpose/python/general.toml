@@ -45,7 +45,7 @@ Feature = 'installation'
 Subfeature = 'local code'
 Importance = ''
 "Implementation Type" = ''
-Syntax = 'pip install -e .'
+Syntax = 'uv pip install -e .'
 Description = '-e = editable mode - uncompiled, raw python code is used straight from the working directory.'
 
 [[data]]
