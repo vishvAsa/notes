@@ -1,0 +1,304 @@
+\documentclass[10pt]{article}
+\usepackage{graphicx}
+\usepackage{amsmath}
+
+%opening
+\title{CS388R: Answer to Homework 1}
+\author{vishvAs vAsuki}
+
+\begin{document}
+
+\maketitle
+
+\section{Question}
+
+Exercise 1.12: The following problem is known as the Monty Hall problem, after the host of the game show 'Lets Make a Deal'. There are three curtains. Behind one curtain is a new car, and behind the other two are goats. The game is played as follows. The contestant chooses the curtain that she thinks the car is behind. Monty then opens one of the other curtains to show a goat. (Monty may have more than one goat to choose from; in this case, assume he chooses which goat to show uniformly at random.) The contestant can then stay with the curtain she originally chose or switch to the other unopened curtain. After that, the location of the car is revealed, and the contestant wins the car or the remaining goat. Should the contestant switch curtains or not, or does it make no difference?
+
+\subsection{Solution}
+
+The contestant should switch curtains. The reasoning follows. The prior probability of the contestant choosing the right curtain, P(car) = 1/3. Similarly, the probability of the contestant selecting the curtain with goats A and B are also 1/3 each. That is, P(goatA)=P(goatB)=1/3.
+
+So, with 2/3 probability, the contestant has chosen the wrong curtain. (Let us call this Case A.) In this case, the host will select the only other curtain with a goat behind it. Thus, in this case, the host's action will inform the contestant of the location of the curtain with the car. In this case, it would make sense for the contestant to switch his choice of curtains. 
+
+But, with 1/3 probability, the contestant has chosen the right curtain. (Let us call this Case B.) In this case, the host will open any of the other two curtains to reveal a goat. In this case, it does not make sense for the contestant to switch his choice of curtains.
+
+Hence, as Case A is more likely than Case B, the contestant must execute the action which would have been considered appropriate if Case A were known to be true for sure. Hence, the contestant should switch curtains.
+
+\section{Question}
+
+Exercise 1.14: I am playing in a racquetball tournament, and I am up against a player I have watched but never played before. I consider three possibilities for my prior model: we are equally talented, and each of us is equally likely to win each game; I am slightly better, and therefore I win each game independently with probability 0.6; or he is slightly better, and thus he wins each game independently with probability 0.6. Before we play, I think that each of these three possibilities is equally likely.
+
+In our match we play until one player wins three games. I win the second game, but he wins the first, third, and fourth. After this match, in my posterior model, with what probability should I believe that my opponent is slightly better than I am?
+
+\subsection{Solution}
+
+We should apply the Bayes rule.
+
+Let us label the cases as follows: CaseA: "we are equally talented, and each of us is equally likely to win each game." CaseB: "I am slightly better, and therefore I win each game independently with probability 0.6." CaseC: "he is slightly better, and thus he wins each game independently with probability 0.6.."
+
+The prior model assumes that all the 3 cases are equally likely. So, the prior probabilities are: $P(CaseA)=P(CaseB)=P(CaseC)=1/3$.
+
+After the every match where the opponent wins, this model should be updated as follows:
+
+\begin{eqnarray}
+P(CaseA|heWins) & = & \frac{P(heWins|CaseA)P(CaseA)}{P(heWins)}\\
+P(heWins) &= &P(heWins|CaseA)P(CaseA)+\\
+&&P(heWins|CaseB)P(CaseB)+\\
+&&P(heWins|CaseC)P(CaseC)\\
+\end{eqnarray}
+
+The refined prior model will be updated to $P(CaseA) = P(CaseA|heWins)$.
+
+Similarly, P(CaseB) is updated to $P(CaseB)=P(CaseB|heWins)$.
+
+And, P(CaseC) will be updated to $P(CaseC)=P(CaseC|heWins)$.
+
+After the every match where the I win, this model should be updated as follows:
+
+\begin{eqnarray}
+P(CaseA|iWin)&=&\frac{P(iWin|CaseA)P(CaseA)}{P(iWin)}\\
+P(iWin)&=&P(iWin|CaseA)P(CaseA)+\\
+&&P(iWin|CaseB)P(CaseB)+\\
+&&P(iWin|CaseC)P(CaseC)\\
+\end{eqnarray}
+
+The refined prior model will be updated to $P(CaseA)=P(CaseA|iWin)$.
+
+Similarly, P(CaseB) is updated to $P(CaseB)=P(CaseB|iWin)$.
+
+And, P(CaseC) will be updated to $P(CaseC)=P(CaseC|iWin)$.
+
+Calculations:
+
+Before the first match, 
+\begin{eqnarray}
+P(heWins) &=& P(heWins|CaseA)P(CaseA)+\\
+&&P(heWins|CaseB)P(CaseB)+\\
+&&P(heWins|CaseC)P(CaseC)\\
+&&=(.5+.4+.6)/3 = 1/2\\
+\end{eqnarray}
+
+So, $P(CaseA|heWins) = (.5/3)/(1/2) = 1/3$.
+
+Also, $P(CaseB|heWins) = (.4/3)/(1/2)= .8/3$.
+
+Also, $P(CaseC|heWins) = (.6/3)/(1/2)= 1.2/3=.4$.
+
+So, after the first match, the updated model will be: 
+\begin{eqnarray}
+P(CaseA) <= 1/3\\
+P(CaseB) <= .8/3\\
+P(CaseC) >= 1.2/3\\
+\end{eqnarray}
+
+For further calculations, we will transform the above to equalities.
+
+Now,
+\begin{eqnarray}
+P(heWins) &=& P(heWins|CaseA)P(CaseA)+\\
+&&P(heWins|CaseB)P(CaseB)+\\
+&&P(heWins|CaseC)P(CaseC)\\
+&=&(.5+.4*.8+.6*1.2)/3\\
+&=&.5133\\
+P(iWin)&=&1-.5133..\\
+&=&.4866..\\
+\end{eqnarray}
+
+In the second match, I win.
+
+\begin{eqnarray}
+P(CaseA|iWin) &=& P(iWin|CaseA)P(CaseA)/P(iWin)\\
+&=& .5/(3*.487)\\
+&=& .342\\
+\end{eqnarray}
+
+\begin{eqnarray}
+P(CaseB|iWin) &=& P(iWin|CaseB)P(CaseB)/P(iWin)\\
+&=& (.6*.8/3)/.487\\
+&=& 0.329\\
+\end{eqnarray}
+
+\begin{eqnarray}
+P(CaseC|iWin) &=& P(iWin|CaseC)P(CaseC)/P(iWin)\\
+&=& (.4*.4)/.487\\
+&=& 0.329\\
+\end{eqnarray}
+
+So, after the second match, the updated model will be: 
+\begin{eqnarray}
+P(CaseA) >= 0.342\\
+P(CaseB) <= 0.329\\
+P(CaseC) <= 0.329\\
+\end{eqnarray}
+
+For further calculations, we will transform the above to equalities.
+
+Now,
+\begin{eqnarray}
+P(heWins) &=& P(heWins|CaseA)P(CaseA)+\\
+&&P(heWins|CaseB)P(CaseB)+\\
+&&P(heWins|CaseC)P(CaseC)\\
+&=&(.5*0.342+.4*0.329+.6*0.329)\\
+&=&.5\\
+\end{eqnarray}
+
+In the third match, he wins.
+
+\begin{eqnarray}
+P(CaseA|heWins) &=& P(heWins|CaseA)P(CaseA)/P(heWins)\\
+&=& .5*.342/.5 = .342\\
+\end{eqnarray}
+
+\begin{eqnarray}
+P(CaseB|heWins) &=& P(heWins|CaseB)P(CaseB)/P(heWins)\\
+&=& .4*0.329/.5 = .263\\
+\end{eqnarray}
+
+\begin{eqnarray}
+P(CaseC|heWins) &=& P(heWins|CaseC)P(CaseC)/P(heWins)\\
+&=& .6*0.329/.5 = .395\\
+\end{eqnarray}
+
+So, after the third match, the updated model will be: 
+\begin{eqnarray}
+P(CaseA) <= 0.342\\
+P(CaseB) <= 0.263\\
+P(CaseC) >= 0.395\\
+\end{eqnarray}
+
+For further calculations, we will transform the above to equalities.
+
+Now,
+\begin{eqnarray}
+P(heWins) &=& P(heWins|CaseA)P(CaseA)+\\
+&&P(heWins|CaseB)P(CaseB)+\\
+&&P(heWins|CaseC)P(CaseC)\\
+&=&(.5*0.342+.4*0.263+.6*0.395)\\
+&=&.513\\
+\end{eqnarray}
+
+In the fourth match, he wins.
+
+\begin{eqnarray}
+P(CaseA|heWins) &=& P(heWins|CaseA)P(CaseA)/P(heWins)\\
+&=& .5*.342/.513 = .333\\
+\end{eqnarray}
+
+\begin{eqnarray}
+P(CaseB|heWins) &=& P(heWins|CaseB)P(CaseB)/P(heWins)\\
+&=& .4*0.263/.513 = .205\\
+\end{eqnarray}
+
+\begin{eqnarray}
+P(CaseC|heWins) &=& P(heWins|CaseC)P(CaseC)/P(heWins)\\
+&=& .6*0.395/.513 = .462\\
+\end{eqnarray}
+
+So, after the fourth match, the updated model will be: 
+\begin{eqnarray}
+P(CaseA) <= .333\\
+P(CaseB) <= .205\\
+P(CaseC) >= .462\\
+\end{eqnarray}
+
+Hence, with probability .462, I must believe that my opponent is slightly better than me.
+
+\section{Question}
+
+Exercise 1.21: Give an example of three random events X, Y, Z for which any pair are independent but all three are not mutually independent.
+
+\subsection{Solution}
+
+Let A, B and C be independent random events. Let P(A)=P(B)=P(C)=1/2.
+
+We define the operation $U \oplus V$ as being "true" when either U or V, but not both, are true.
+
+Let:
+\begin{eqnarray}
+X = A \oplus B\\
+Y = B \oplus C\\
+Z = C \oplus A\\
+\end{eqnarray}
+
+Now, X holds in the cases where (A,B) is either (true, false) or (false, true). So, P(X)=1/2. Similarly, P(Y)=P(Z)=1/2.
+
+Both X and Y are true only when B is true and A and C are false, or when B is false and A and C are true. So, P(X,Y)=1/8+1/8=1/4. Similarly, P(Y,Z)=P(Z,X)=1/4. But note that 1/4=P(X)P(Y)=P(Z)P(Y)=P(X)P(Z). Hence, X, Y, Z are pairwise independent.
+
+But, X, Y and Z can never be true together. So, they are not mutually independent as P(X,Y,Z) disagrees with P(X)P(Y)P(Z).
+
+\textbf{Acknowledgement}: I referred to the wikipedia article on pairwise independence \cite{wikiPairwiseIndependence} in coming up with the solution.
+
+\section{Question}
+
+Exercise 1.23: There may be several different min-cut sets in a graph. Using the analysis of the randomized min-cut algorithm, argue that there can be at most n(n-1)/2 distinct min-cut sets.
+
+\subsection{Solution}
+
+Consider the randomized min-cut algorithm: During each iteration, a randomly chosen pair of verteces are collapsed. The algorithm runs for n-2 such iterations of collapsing verteces. At the end of the algorithm's execution, we are left with a graph with two nodes which are connected by some edges. These edges constitute the min-cut of the graph with a probability of atleast 2/n(n-1) (as proved in Theorem 1.8).
+
+Let $F_{mincut1,x}$ be the event where edges belonging to a certain min-cut (mincut1) are not collapsed in the xth iteration of the algorithm. The theorem states that $P(F_{mincut1,n-2})=2/n(n-1)$. Suppose that there are y distinct min cuts. Each distinct min-cut has an edge which is not present in any other min-cut.
+
+Now, the outcomes of the algorithm are various distinct cutsets. So, the sum of the probabilities of the algorithm producing these distinct cutsets is 1. As the set of minimum cutsets is a subset of the set of all cutsets:
+
+\begin{eqnarray}
+\sum_{u} P(algorithm's result = mincutU) &\leq& 1\\
+\sum_{u} P(F_{mincutU,n-2}) &\leq& 1\\
+y(2/n(n-1)) &\leq& 1\\
+y &\leq& n(n-1)/2\\
+\end{eqnarray}
+
+Voila! We have proved that the maximum number of min-cuts in a graph is n(n-1)/2.
+
+\section{Question}
+
+Exercise 1.24: Generalizing on the notion of a cut-set, we define an r-way cut-set in a graph as a set of edges whose removal breaks the graph into r or more connected components. Explain how the randomized min-cut algorithm can be used to find minimum r-way cut-sets, and bound the probability that it succeeds in one iteration.
+
+\subsection{Solution}
+
+First, we explain how the randomized min-cut algorithm can be used to find minimum r-way cut-sets:
+
+Consider the following randomized min-cut algorithm: During each iteration, a randomly chosen pair of verteces are collapsed. The algorithm runs for n-r such iterations. At the end of the algorithm's execution, we are left with a graph with r nodes which are connected by some edges. These edges constitute the r-way cut-set for the graph. It is possible that this r-way cut set is a minimum r-way cut-set.
+
+Now we try to bound the probability that it succeeds in one iteration of the algorithm (Note that each iteration of the algorithm further consists of n-r 'sub-iterations' of collapsing randomly chosen pairs of verteces.) The derivation of lower bound we attempt is an extension of the proof of Theorem 1.8 provided in the book. \cite{mitzenmacherUpfal}:
+
+Let the number of edges which constitute a certain minimum r-way cut-set (cutsetA) of the graph be k. The algorithm outputs cutsetA if it collapses only those edges which are not part of cutsetA during any sub-iteration. Let $E_{i}$ be the event that the edge contracted in sub-iteration i is not in cutsetA, and let $F_{i}$ be the event that no edge of cutsetA was contracted in the first i sub-iterations. We need to compute $P(F_{n-r})$.
+
+The sum of degrees of any r-1 nodes in the graph is at least k. (Otherwise, we would have a r-way cut-set with fewer than k edges.) Now, let us arrange the nodes in the order of their degrees. We notice that the sum of the degrees of the first r-1 nodes is k. Due to the peigon hole principle, the degree of the (r-1)th node is k/(r-1). So, the degree of each node which comes later in the ordering is at least k/(r-1). So, the total number of degrees for the entire graph is atleast kn/(r-1). 
+
+So the total number of edges in a n-node graph is at least nk/(2r-2). The probability that we do choose an edge in cutsetA is $\leq k(nk/(2r-2))^{-1}= (2r-2)/n$. The probability that we do not choose an edge in cutsetA is $P(E_{1})=P(F_{1})\geq 1-2(r-1)/n$.
+
+We notice a \textbf{limitation} of this attempted derivation above: (2r-2)/n, the upper bound of the probability that we choose an edge in cutsetA, can be a number greater than 1 for any $r > 1+n/2$. This bound, though valid, is uninteresting as we already know that by definition, the probability of any event cannot exceed 1. So, the bounds we provide is only valid for $r < 1+n/2$.
+
+After the first sub-iteration, we are left with a n-1 node graph. By reasons similar to the above, the probability that we do not choose an edge in cutsetA is $P(E_{2}|F_{1})\geq 1-2(r-1)/(n-1)$.
+
+Similarly, $P(E_{i}|F_{i-1})\geq 1-2(r-1)/(n-i+1)$.
+
+\begin{eqnarray}
+P(F_{n-r}) &=& P(E_{n-r}|F_{n-r-1})...P(E_{2}|F_{1})P(E_{1})\\
+&\geq& \prod_{i:1->n-r} 1-2(r-1)/(n-i+1)\\
+&=& \prod_{i:1->n-r} (n-i+3-2r)/(n-i+1)\\
+&=& \frac{(n-2r+2)}{(n)} \frac{(n-2r+1)}{(n-1)}...\frac{(3-r)}{(r+1)}\\
+\end{eqnarray}
+
+One of the terms of the above series evaluates to 0. This happens when n-i+3-2r = 0. That is, when i=n-2r+3. That would make our lower bound uninteresting. But there is a way out! Consider the first n+2-2r sub-iterations. (Let us call this stage1 of the algorithm.) They still correctly represent the lower bound of the probability of the min-cut edges surviving the contraction process for n+2-2r iterations. Let us call this stage1 of the algorithm.
+
+\begin{eqnarray}
+\prod_{i:1->n+2-2r} (n-i+3-2r)/(n-i+1) && \\
+= \frac{n-2r+2}{n} \frac{(n-2r+1)}{(n-1)}... \frac{2}{2r} \frac{1}{2r-1}&& \\
+= \frac{(n-2r+2)!(2r-2)!}{n!}
+= \frac{(2r-2)}{n} \frac{(2r-3)}{(n-1)}... \frac{1}{n-2r+3}&& \\
+\geq \frac{1}{(n-2r+3)^{2r-2}}&& \\
+Pr(cutsetAsurvivesStage1) \geq \frac{1}{(n)^{2r-2}}&& \\
+\end{eqnarray}
+
+Now, consider the remaining r-2 sub-iterations of the algorithm. (Let us call this stage2 of the algorithm.) During each such sub-iteration, there exist atleast k+1 edges. So, the probability of the algorithm not selecting one of the k edges from cutsetA is 1/(k+1). So, the probability of cutsetA surviving stage 2 is atleast $1/(k+1)^{r+2}$.
+
+So, the \textbf{probability of the algorithm succeeding} is at least Pr(cutsetA survives Stage1)*Pr(cutsetA survives Stage2) $\geq \frac{1}{(n)^{2r-2}}\frac{1}{(k+1)^{r+2}}$. Note that this lower bound, perhaps unlike the Karger/Stein bound of $Omega(n^{-2r})$, while being only applicable where $r < 1+n/2$, is still useful and interesting as it is greater than 0.
+
+We now try to remove the k-term from the above lower bound. But, this requires a minor \textbf{alteration to the stage 2 of the algorithm}: During each sub-iteration, instead of choosing an edge to contract at random, choose a vertex pair from among the set of all vertex pairs with edge(s) between them. So, in this case, if during a certain sub-iteration, we are left with m verteces, the probability of choosing a certain vertex pair whose contraction does not result in a r-way min-cut edge being contracted is at least $1/\binom{m}{2}$. During each of the r-2 sub-iterations in stage2, there are atleast r+1 verteces. So, during any of the r-2 sub-iterations, the probability of cutsetA surviving that subiteration is at least $1/\binom{r+1}{2} \geq 1/n^{2}$. So, Pr(cutsetA survives Stage2) is atleast $\frac{1}{(n)^{2r+4}}$. Hence, for this slightly modified randomized algorithm, \textbf{probability of the algorithm succeeding} is at least Pr(cutsetA survives Stage1)*Pr(cutsetA survives Stage2) $\geq \frac{1}{(n)^{2r-2}}\frac{1}{(n)^{2r+4}} = \frac{1}{(n)^{4r+2}}$.
+
+\bibliographystyle{plain}
+\bibliography{randomizedAlgorithms}
+
+
+\end{document}
