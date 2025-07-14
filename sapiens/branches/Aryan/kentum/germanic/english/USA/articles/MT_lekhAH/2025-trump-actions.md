@@ -2,6 +2,24 @@
 title = "2025 trump actions"
 +++
 
+## Epstein factor
+I'm not deep into the Apastiya issue, but it does seem that, like war with Iran, it could fracture the younger base of the nAri~Nga. That said, it raises a few issues even to the casual observer: 
+
+It was said that Apastiya was part of the intelligence (one can infer that the Judaeo-Christian apparatus was implied by that). Nobody to date has denied that. He had obvious connections to a shady uparimarakata intelligence agent who was involved in the very reconquest of that land. That guy was a conduit to the deepest connections among the mUlavAtula network.
+
+Nobody has denied that he was very rich for a single-person investor with a small or absent staff, with little evidence for an expected career progression in that field. Where did he get all that money from? His close associates went to jail for clearly shady activities, and at least one died mysteriously in jail.
+
+Many powerful Judaeo-Christian elites were his friends, and nobody questions that they hung out with him socially.
+
+Let's give it to the turtle et al that he killed himself: he could have gotten a message from the uparimarkata-s that they were "burning" him and realized he had reached the end of his rope. 
+
+Still, it is clear that the nAri~Nga is sweeping something under the rug is the biggest question what were his intelligence activities? They clearly don't want to reveal that thus make it go away. 
+
+We see a certain kind of parallel to the Jonathan Pollard case. Why did they keep in jail for so long -- it was not as if his transmissions seriously crippled the mahAmlechCha based on what is publicly stated regarding this case. It is clear that something deeper that what is let out was leaked by him to his people. One possibility item among the hidden things could the US complicity in nuclear-arming TSP. But clearly there was more stuff more consequential to them that lost relevance only in the past decade, when they let him flee.
+
+All that said, we believe that the Apastiya and Iran-bombing incidents indicate that nAri~Nga has been finally coopted by the Deep State. Probably, in return they will let him do deportations and satisfy the more MAWA faction of his base.
+
+I do think it is not looking good for the nAri~Nga, but there is still time before the decisive elections and other things could happen which cause a change of course.
 
 ## Help to Israel
 It is very clear that the mUlavAtUla-s are suppressing reports of their losses. Apparently, at least some of their military installations have suffered heavy damage, with many more deaths than they are admitting. This is part of the reason they are desperate for the mahAmlechCha to fight on their behalf. mahAmlechCha are already shoring up their astra-s and intelligence but still seem reluctant to join despite all the gorilla-thumping by the mlechCharAT.
