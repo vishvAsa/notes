@@ -1,6 +1,8 @@
 +++
 title = "+लक्ष्मी-कुमार-तातार्यः"
 +++
+Etur is on kRShNa north bank: [TW](https://maps.app.goo.gl/3722w7pW9T9rGhyM6?g_st=aw)
+
 ## Misc vijayanagara perceptors
 - In Saka 1387 (1465 A.D.), according to an inscription* during the reign of the Vijayanagar King, Virapratapa Devaraya Maharaja of the Sangama dynasty, one Kumara Tata Aiyangar of Satamarshana gotra, is said to have contributed 400 panams for offerings to Perarulalapperumal, “who was pleased to take his stand at Tiruvattiyur” 8 .
 - Ettur Singaracharaya and his brother Rangacharaya enjoyed royal patronage under Virupaksha 2. They were very proficient in the exposition of the Ramayana.
@@ -35,3 +37,15 @@ ettUr lakshmIkumAra tAtAchArya, son of paramatabhanjana-tAta-deshika by adoption
 - very ably managed temple funds.
 
 > Thus we find the major constructions and improvements that took place during the sixteenth century viz., the gopuras, prakaras, mantapas, likff'Abhisheka mantapa, Hundred pillard Mantapa containing beautiful pieces of architecture, Vimanas, etc. were all started, managed and completed by the Tata- charyas who had the full support, backing and patronage of the Vijayanagar Kings from Krisnadevaraya down to Venkatapati Deva Maharaya (Venkata I) and Venkata II.
+
+
+### vijayanagara guidance
+> Aravidu dynasty itself has a legend that both PMB and Vijayindra had advised Ramaraya not to trust the sullas in the army;  
+> That they left Vijayanagara city after the srijayanti of 1564. It was as though they could see the future and could not change it. Must have been a great tragedy for them.
+
+## Late perceptors
+- Sri Venkata Varada Tatarya, the second son of Lakshmikumara Tatadesika went there as the royal guru of the Mysore Maharaja in the latter half of the 17th century. ... 
+  
+R.Kumara Tatacharya was a royal priest in maisUru too. His son was Sri Sudarsana Tatacharya. He was also continuing to visit the Mysore palace in his capacity as the royal guru. ... With him, the connection between the Tatacharyas and Mysore Maharajas also ended.
+
+(On a particular year he was late by a few minutes and the God had by then moved forward from the Gopuravasal a few feet. Just then the Maharaja arrived. He requested the Trustee (evidently Sri Krishnaswamy Tatachariar, the brother of Sri Sudarsana' Tatacharya) to take the vehicle back to the Gopuravasal, in order to have the Gopuravasal darsan. The trustee could not oblige him, since it was not desirable to move the God back.)
