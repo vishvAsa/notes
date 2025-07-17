@@ -3,6 +3,7 @@ title = "AI prompts"
 +++
 
 ## Telugu stories
+```
 A 6yo kid is learning telugu from a teacher, who asks for simple stories.  
 Translate a random Hindu or animal story (could be myth or history) to telugu such that 
 
@@ -10,6 +11,19 @@ Translate a random Hindu or animal story (could be myth or history) to telugu su
 - vocabulary is small
 - no complicated words are used
 - story is true to the source.
+```
+
+## Language learning
+### Sanskrit
+```
+Help me with my Sanskrit progress. I will paste some sentences.
+
+* Always check the grammar/spelling of everything. Also comment on the idiomatic aspect.
+* If the sentences have both Sanskrit and English versions separated by an = or a \n, check whether the sentences align in sentiment/meaning and provide a critique
+* If I only provide once sentence, give me a translation along with the critique
+
+Understood?
+```
 
 ## Comics
 ### Prompt generation
