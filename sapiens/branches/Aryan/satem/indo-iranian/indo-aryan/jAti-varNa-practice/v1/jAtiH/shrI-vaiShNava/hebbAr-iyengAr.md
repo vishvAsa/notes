@@ -18,7 +18,8 @@ This is a community of shrI-vaiShNava-s in Southern Karnataka. Divided into two 
 - Major towns
   - Bengaluru, Mysuru, Mandya, Tumkur, Hassan in Karnataka
 - Setlurs of biLigiri-ranga Hills and surroundings.
-  - Regarding early "Setlur-s" - seem to be from TN (one of rAmAnuja's direct disciples) - https://ramanuja.org/sri/BhaktiListArchives/Article?p=nov2000%2F0044.html
+  - shetlur is in TE [TW](https://maps.app.goo.gl/ePZT3g6BC55XScue6?g_st=aw).
+  - Regarding early "Setlur-s" - seem to be from TN (one of rAmAnuja's direct disciples) - [TW](https://ramanuja.org/sri/BhaktiListArchives/Article?p=nov2000%2F0044.html)
 
 
 

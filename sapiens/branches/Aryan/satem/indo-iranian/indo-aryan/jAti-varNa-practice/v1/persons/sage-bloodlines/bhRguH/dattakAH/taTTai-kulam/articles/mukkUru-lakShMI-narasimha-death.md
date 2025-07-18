@@ -2,6 +2,8 @@
 title = "mukkUru-lakShMI-narasimha-death"
 +++
 
+Source: [TW](https://mukurnarasimha.blogspot.com/2008/03/sri-mukkur-lakshmi-narasimhachariar.html)
+
 Sri Mukkur Lakshmi Narasimhachariar
 
 EVEN IN this age of very advanced technology, there are certain superhuman instances in the field of spiritualism. How else can one explain this? An extremely obese person had performed the feat of standing waist-deep in the rapidly flowing waters of a river for nearly 60 hours, meditating on God, even without sipping a glass of water, as part of his commitment to carry out a penance. This happened about a year ago in Mattapalli, a village about 150 km from Vijayawada, where the on the banks of the Krishna (in a crevice) the idol of Narasimha is installed. And the incredible act was performed by a well-known Vedic scholar, Sri Mukkur Lakshmi Narasimhachariar, whom God took away to his abode, at the age of 56, just a fortnight ago.

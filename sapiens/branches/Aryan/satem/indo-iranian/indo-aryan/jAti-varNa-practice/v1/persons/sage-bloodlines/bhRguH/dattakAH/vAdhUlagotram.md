@@ -24,7 +24,8 @@ title = "वाधूलगोत्रम्"
 - कन्दाडै-आण्डन् इति तदात्मजश् श्रीवैष्णवपीठाधिपतिष्व् अन्यतमः। 
 - तदात्मजः - कन्दाडै-तोळप्पार्।  
 
-> Hagiography gives some folk etymology using gandham+ADai.. but in reality kandadai clan has existed even from the 9th century as seen from a copper plate grant of Nandivarman Pallava III  
+> Kandadai were from karamchedu in AP.  
+> Hagiography gives some folk etymology using gandham+ADai.. but in reality kandadai clan has existed even from the 9th century as seen from a copper plate grant of Nandivarman Pallava III.  
 > - रविलोचनः
 
 ## गङ्गाधरः
