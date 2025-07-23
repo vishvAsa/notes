@@ -244,3 +244,11 @@ Similarly, the purohita was paid in kind, not cash.
 Salt trader used to visit monthly. He traded 1 measure of rice for 5 measures of salt.
 
 Hence, people could live a happy life without any money.
+
+## Social cooperation
+If one died, or was bitten by a snake - the entire village gathered and helped - across jAti-s. 
+
+If there was a marriage in a V1 home,  
+even the farmers would not go farming -  
+food would be arranged for them too.  
+They would tie the doorway thatch themselves.

@@ -1,5 +1,5 @@
 ---
-title: Meitei
+title: +Meitei
 ---
 
 ## Elsewhere
@@ -20,15 +20,7 @@ title: Meitei
 - "Charairongha ( 1697 -1709) got baptized to the vaisnavite faith by a Brahman priest named Krishnacharya or Rai Vanamali from Sweth Ganga19, Puri, Orissa who arrived in Manipur in October 1703 and became the ancestor of the Brahman lineage, Guru Aribam. The king along with some of his nobles were initiated to the Nimbarka sect of Vaisnavism hat professed Radha-Krishna cult on the 6th (Thursday) of Sajibu (March-April), 1704. For this, the priest was rewarded Dakshina of a village, one hundred areas of paddy fields and a storied house. As a devotee to the new faith, Charairongha constructed a brick temple of Lord Krishna at Brahmapur, Imphal on the prototype of the Krishna temple at Vishnupur, Bengal. Still, the king continued to patronize the Meitei cult. He constructed the temple of Panthoibi (traditional Meitei goddess) and also made various idols of the traditional gods and goddesses."
 
 ### Coercive Hinduization of the masses
-- "A dramatic religious change took place during the reign of Charairongba's son, Pamheiba or Garibnawaj ( 1709-48). After following the Nimbarka sect of Radha-Krishna cult for about two decades30, he got baptized to the Ramandi sect of Ram-Sita cult by a Brahman priest from Narasimhatilla of Sylhet, Bengal named Shantidas Gossain in 1737."
-- "Vaisnavism was declared as the official state religion and it  grew up as an aggressive religious force during the reign of Garibnawaj."
-- "all kinds of puyas collected from nook and comer of the state under the strict order of the king were consigned to flames in front of the Kangla Uttara in 1789 which is recorded in the annals of the state as Puya Meithaba.... Puyas and works in Meitei scripts were banned. "
-- "Various altars were brought to the ground and many konmais (masks of gods and goddesses) of Umanglai (traditional deities) were buried."
-- "The archaic Meitei scripts were replaced by the Bengali scripts. Bengali and Sanskrit languages were patronized. Translation of Hindu epics and religious texts into Manipur was encouraged."
-- "The traditional deities were interpreted with reference to the Vedic gods. Idols of the venerated traditional deities were buried at Mahabali jungle. Pre-vaisnavite Meitei festivals were either assigned Hindu names or adjusted with the Hindu festivals."
-- "Ritual performances of the traditional Meitei deities were taken away from the traditional priests by the Brahmans priests."
-- "Hindu calendar with ritual dates was introduced. Kirtans were sung in Bengali."
-- "The antiquity of history of Manipur was linked up with the Adi and Aswamedha Parvas of the Mahabharata."
+
 
 ### Soft propagation
 - "The glory of vaisnavisation reached its peak during the reign of Bhagyachandra or Jai Singh (1759-61; 1763-98). His reign was not only characterized by the flourishing of Gauiriya dharma of Radha-Krishna cult but he has also earned the fame of introducing Ras Leela, the highest spiritual expression of worshipping Krishna in dance form ... and Rasheswari Pala (women group singing Sankritan)."
@@ -36,6 +28,7 @@ title: Meitei
 
 ## Traditional meitei resistence
 - "There. is a contemporary work entitled Ningthourol Shingkak and the readers will certainly find how this· anonymous author retaliated the anti-traditional attitude of the Maharaja Garibniwaj. The author has tried either to tarnish the image or lower the status of Garibniwaj by connecting him with Naga origin or at least brought up in a  Naga village."
+
 
 ## brAhmaNa acceptance
 - "'Rajputization' as a  Hindu ruling model at the top where the kings adopted the name and other paraphernalia of khatriya caste." occured.
