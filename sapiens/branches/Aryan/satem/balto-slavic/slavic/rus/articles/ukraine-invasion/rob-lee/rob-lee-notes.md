@@ -4,6 +4,18 @@ title = "Rob Lee notes"
 
 Source: Rob Lee on TW
 
+## 2024 and drones
+Without the development and integration of commercial UAVs into a strike role (e.g. FPVs, Mavics, night bomber, etc.) in the Ukrainian military, I think Ukraine could have lost the war in 2024. Russia's recent improvements in its strike drone capabilities is currently one of the most significant and concerning factors on the battlefield. Unclear if they will prove to be a determinant of victory, but drones have played a key role in avoiding defeat so far.
+
+Ekonomichna pravda reports that the interceptor UAV made by former Google CEO Eric Schmidt's Swift Beat company is responsible for approximately 90% of Shahed OWA that are downed by UAVs.
+
+## N Korea supply
+> "North Korea is now supplying as much as 40% of Russia’s ammunition for the war in Ukraine as the partnership between Pyongyang and Moscow deepens, according to the head of Ukrainian military intelligence.
+>
+> Kim Jong Un’s regime is also sending other weapons to Russia, including ballistic missiles and artillery systems, Kyrylo Budanov said in an interview with Bloomberg News. Russia is providing money and technology to North Korea in return, helping to ease Pyongyang’s international isolation, he said.
+>
+> 'Those are good weapons,' Budanov, who attributed 60% of losses in military-intelligence units in the past three months to strikes by North Korean-made artillery, said in his office in Kyiv. 'North Korea has huge stockpiles and production goes on around the clock.'”
+
 
 ## Shifting aims
 It seems Russia's goals in Ukraine have gone through three phases:
