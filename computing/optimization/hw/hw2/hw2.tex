@@ -1,0 +1,150 @@
+\documentclass{article}
+\input{../../../packagesMemoir}
+\input{../../../macros}
+\input{../../../amsartMacros}
+\lstset{language=matlab}
+
+
+%opening
+\title{Non Linear Programming: Homework 2}
+\author{vishvAs vAsuki}
+
+\begin{document}
+
+\maketitle
+
+\section{2.12 Identification of convex sets}
+\subsection{Hint}
+For problem 2.12, give a brief justification for each of your answers. With the possible exception of part (g), you shouldn't need more than a sentence or two.
+
+\subsection{a}
+A slab, $\set{x: \ga \leq a^{T}x \leq \gb}$, is convex. This is because it is the intersection of two half-spaces, which are convex sets.
+
+\subsection{b}
+A rectangle, $\set{x:\ga_i \leq x_i \leq \gb_i}$, is convex. It is the intersection of convex sets. This is because it is the intersection of halfspaces formed by vertical and horizontal hyperplanes, which are convex sets.
+
+\subsection{c}
+A wedge, which is in the interesection of two halfspaces, is convex as it is the intersection of two convex sets.
+
+\subsection{d}
+Consider the set S of points which are closer to a given point p than to a given set Y. It is the intersection of halfspaces, or in degenerate cases, even the entire space. So, it is convex.
+
+\subsection{e}
+Take sets S and T. Consider the set X of points closer to S than to T. Note that $S \subseteq X$. This is not convex. Consider S and T to be 2 concentric rings in $R^{2}$.
+
+\begin{ack}
+Got this example from discussion with nAgarAjan naTarAjan. 
+\end{ack}
+
+\subsection{f}
+Take the set $X = \set{x : x + S_2 \subseteq S_1}$, with $S_1$ convex. This set is convex. If $S_2$ is larger than $S_1$, $X = \emptyset$. Else, we can use the definition of convexity to show that X is convex.
+
+\subsection{g}
+Take the set $X = \set{x: \norm{x - a} \leq \gt \norm{x - b}}$, with $a\neq b$ and $\gt \in [0, 1]$. Consider the boundary cases: at $\gt = 1$, X is a halfspace, and at $\gt = 0$, it is a line. For intermediate values, it seems to be a hyperbola-like. By geometric intuition, I conjecture that this is a convex set.
+
+\section{2.17 (parts b and c only). Image of polyhedral sets under perspectve function}
+\subsection{Hint}
+Be careful on problem 2.17! Each has three different possibilities depending upon specific values of f, g, or h.
+
+$P(C) = \set{v/t:(v, t) \in C, t>0}$.
+
+\subsection{b Hyperplane}
+$C = \set{(v, t): f^{T}v + gt  = h}; f, g \neq 0$.
+
+$P(C) = \set{v: tf^{T}v = h - gt, \forall t>0}$. If $g>0$: $P(C) = \set{v: tf^{T}v \leq h}$. This is a halfspace below the hyperplane $f^{T}v = h$. If $g<0$: $P(C) = \set{v: tf^{T}v \geq h}$. This is a halfspace above the hyperplane $f^{T}v = h$.
+
+\subsection{c Halfspace}
+$C = \set{(v, t): f^{T}v + gt \leq h}; f, g \neq 0$.
+
+$P(C) = \set{v: tf^{T}v \leq h - gt, \forall t>0}$. Depending on whether g is +ve or -ve, P(C) becomes the same halfspaces described in part (b).
+
+\section{2.19: Preimages of convex sets under linear fractional functions.}
+\subsection{The problem setup}
+$f(x) = \frac{(Ax + b)}{c^{T}x + d}$, $dom(f) = \set{x: c^{T}x +d > 0}$.
+
+\subsection{a Halfspace}
+$C = \set{y: g^{T}y \leq h}, g\neq 0$.
+
+\begin{eqnarray*}
+g^{T}f(x) &\leq& h\\
+g^{T}\frac{(Ax + b)}{c^{T}x + d} &\leq& h\\
+(g^{T}Ax + g^{T}b) &\leq& h(c^{T}x + d)\\
+g^{T}A x&\leq& h(c^{T}x + d) - g^{T}b\\
+\end{eqnarray*}
+
+So, $f^{-1}(C) = \set{x: g^{T}A x \leq h(c^{T}x + d) - g^{T}b}$, a halfspace.
+
+\subsection{b Polyhedron}
+$C = \set{y: Gy \leq h}$. Look at C as an intersection of halfspaces \\
+$C_i = \set{y: g_{i,:}^{T}y \leq h_i}, g_{i, :}\neq 0$. Using the previous result, we have:
+\begin{equation}
+f^{-1}(C_i) =  \set{x: g_{i,:}^{T}A x \leq h_i(c^{T}x + d) - g^{T}b}\\
+f^{-1}(C) = \inters_i f^{-1}(C_i).
+\end{equation}
+The inverse image is also a polyhedron.
+
+\subsection{c Ellipsoid}
+$C = \set{y: y^{T}P^{-1}y \leq 1}, P \in S_{++}^{n}$.
+\begin{eqnarray*}
+f(x)^{T}P^{-1}f(x) &\leq& h\\
+(Ax + b)^{T}P^{-1}(Ax + b) &\leq& h(c^{T}x + d)^{2}\\
+\end{eqnarray*}
+So, $f^{-1}(C) = \set{x: (Ax + b)^{T}P^{-1}(Ax + b) \leq h(c^{T}x + d)^{2}}$, some ellipsoid in $R^{m}$. Note that this ellipsoid is displaced from 0.
+
+\subsection{d Solution set of linear matrix inequality}
+$C = \set{y: \sum y_i A_i \leq B}; A_i, B \in S^{p}$.
+
+Let $1_i$ be an $n \times p^{2}$ matrix with ith row being 1's and all other elements being 0. Let $h(A_i)$ be the vector derived by stacking up the elements of $A_i$ in any some way. Let $A = [h(A_1)  .. h(A_n)]$. So, $C = \set{y: Ay \leq h(B)}$.
+
+This is a polyhedron. As described in answer to a previous question, $f^{-1}(C)$ is also a polyhedron.
+
+\section{2.20 or 2.22: +ve solutions of linear equations}
+\begin{lem}
+$\forall x: Ax = b \implies c^{T}x = d$ iff $\exists l: c = A^{T}l, d = b^{T}l$.
+\end{lem}
+\begin{proof}
+If $\exists l: c = A^{T}l, d = b^{T}l$, we have that, $\forall x: Ax = b$, $ c^{T}x = l^{T}Ax = l^{T}b = d$.
+
+The proving the implication in the reverse direction is more interesting. Suppose that $\forall x: Ax = b \implies c^{T}x = d$. Take any $x_n$ in the null space of A; ie: $Ax_n = 0$. If Ax = b, we have that $A(x + x_n) = b$. So, we also have that $c^{T}(x + x_n) = d$. So, c is orthogonal to the null space of A. But, the component of $R^{m}$ orthogonal to this is just the row space of A, which is $R(A^{T})$. So, c can be expressed as a linear combination of A's rows: $\exists l: c = A^{T}l$. Thence, we also derive $l^{T}b = l^{T}Ax = c^{T}x = d$.
+\end{proof}
+
+\begin{notation}
+When we use inequalities with vectors, we mean to use elementwise inequalities.
+\end{notation}
+
+
+\begin{thm}
+pa: There exists x satisfying $x > 0, Ax = b$.
+
+pb: $\nexists l: A^{T}l \geq 0, A^{T}l \neq 0, b^{T}l \leq 0$.
+
+Then $pa \equiv pb$.
+\end{thm}
+\begin{proof}
+Consider $\lnot pa$. Suppose that $\exists l: A^{T}l = c \geq 0, b^{T}l = d \leq 0$. Then, using the lemma proved earlier, we see that this is equivalent to saying $\forall x: Ax = b \implies c^{T}x = d \leq 0 \implies \lnot( x > 0)$. So, $\lnot pa \equiv \lnot pb$.
+\end{proof}
+
+
+
+\section{2.23 Strict separability}
+The following are disjoint closed non-strictly separable convex sets.
+
+$A = \set{x :x\in R^{2}, x_2 \leq 1}$.
+
+$B = \set{x :x\in R^{2}, x_2 \geq 1/x_1}$.
+
+\begin{ack}
+Heard this example from nAgarAjan naTarAjan. 
+\end{ack}
+
+\section{2.24 Supporting hyperplanes}
+\subsection{a}
+$S = \set{x \in R_+^2: x_1 x_2 \geq 1}$. Boundary of S, $bnd(S) = \set{x \in R_+^2: x_1 x_2 = 1}$. Take halfspaces defined by supporting hyperplanes at $x \in bnd(S)$: $H(x) = \set{y \in R_+^2: \frac{(y_2 - x_2)}{y_1 - x_1} \geq -x_1^{-2}}$. $Then, S = \inters_{x \in bnd(S)} H(x)$.
+
+\subsection{b}
+$C = \set{x \in R^{n}: \norm{x}_\infty \leq 1}$. Boundary $bnd(C) = \set{x : \max(x) = 1}$. Take $x \in bnd(C)$. Then, $\forall i: x_i = 1$, define $H_i = \set{y \in R^{n}: y_i = 1}$. These are the supporting hyperplanes of C at x.
+
+% \bibliographystyle{plain}
+% \bibliography{../linAlg}
+
+\end{document}
