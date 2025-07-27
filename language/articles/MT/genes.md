@@ -37,3 +37,12 @@ GRIN2A
 Encodes a glutamate receptor subunit. Variants linked to epilepsy-related language regression (Landau–Kleffner syndrome).  
 
 Barring the cases noted above, TMK all the other genes listed above lack variants that might distinguish functionality is sapiens from Neanderthals or Denisovans. Hence, the basic genetic apparatus for language was pretty much there before divergence of these three Homo lineages: ~800 K years  +++(5)+++
+
+## Defects
+In some cases when the gene is defective, in other cases when there are variants affecting its expression rather than a defect in the coding sequence of the gene.
+
+> Couldn’t it just be that their effects of their malfunction happen to be felt more severely in language regions of the brain?
+
+Regarding the 2nd question, I think the general answer is yes. Deleterious mutations in them do tend to result  multiple neural defects some of which have a language effect. 
+
+The knock ins might not have language generating effects as there is more to the apparatus of language like the voice box and tongue. However, current evidence does suggest that some genes like FoxP1 and FoxP2 have a role in vocalizations of various vertebrates other than humans, e.g., bird calls and mouse calls etc
