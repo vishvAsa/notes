@@ -6,6 +6,8 @@ unicode_script = "devanagari"
 ## Danger
 Dog packs instinctually attack and kill humans - within seconds. Hunger is NOT the cause, neither is provocation (evident from videos and live observation).
 
+- 2025-07-02 bengaLUru "koDigehaLLi telecom layout" 68 yo healthy farmer killed. [TW](https://timesofindia.indiatimes.com/city/bengaluru/dog-attack-case-in-bengaluru-morning-walk-turns-tragic-neighbours-help-goes-in-vain-in/articleshow/122982655.cms)
+- 2023-08-20 (Roughly) BengaLUru jAlahaLLi Air force camp, 7tyo Rajdulari Sinha, a retired schoolteacher, was killed by 10 dogs.
 - 2023-06-20 (Roughly) 9yo Kannur - rescued in time [TW](https://twitter.com/NewsFirstKan/status/1671100040126033920) [IN](https://www.indiatvnews.com/news/india/kerala-9-year-old-mauled-by-stray-dogs-undergoes-treatment-in-kannur-2023-06-20-876986). Also 11 yo handicapped killed.
 - 2023-04-20 0yo in cradle, Ahmedabad - serious injury [TW](https://twitter.com/DeshGujarat/status/1649394164692312064).
 - 2023-04-21 9yo, Kolar serious injury.[OP](https://www.opindia.com/2023/04/9-year-old-boy-attacked-by-stray-dogs-in-karnatakas-kolar-rescued-by-a-cop/), [TW](https://twitter.com/MirrorNow/status/1649385372277940224)
