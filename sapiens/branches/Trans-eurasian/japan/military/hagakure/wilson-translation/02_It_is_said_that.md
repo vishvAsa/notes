@@ -60,10 +60,12 @@ Uesugi Kenshin said, “I never knew about winning from beginning to end, but on
 
 One should be wary of talking on end about such subjects as learning, morality or folklore in front of elders or people of rank. It is disagreeable to listen to.
 
+## End
 In the Kamigata area they have a sort of tiered lunch box they use for a single day when flower viewing. Upon returning, they throw them away, trampling them underfoot.+++(5)+++ As might be expected, this is one of my recollections of the capital [Kyoto].
 
 The end is important in all things.
 
+## Puppets
 While walking along the road together, Tsunetomo said, “Is not man like a well-operated puppet? It is a piece of dexterous workmanship that he can run, jump, leap, and even talk though there are no strings attached. Will we not be guests at next year’s Ben Festival? This world is vanity indeed. People always forget this.”
 
 It was once said to one of the young lords that “right now” is ”at that time, ” and ”at that time” is ”right now.” One will miss the occasion if he thinks that these two are different. For example, if one were called before the master to explain something right away, he would most likely be perplexed. This is proof that he understands the two to be different. If, however, a person makes “right now” and “at that time” one, though he will never be an advisor to the master, still he is a retainer, and in order to be able to say something clearly, whether it be in front of the master, the elders or even the shogun at Edo Castle, it should be practiced beforehand in the corner of one’s bedroom.

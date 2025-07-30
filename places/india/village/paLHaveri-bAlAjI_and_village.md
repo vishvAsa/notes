@@ -68,7 +68,7 @@ When a v1 passed by, the v4s would show respect.
 In case of a learned v1 like shrI rAjagopAla, they would stand up as he passed.
 
 When shUdra-s entered the agrahAra, on their own accord,  
-they used to remove their footwear.
+they used to remove their footwear. They would hesitate to buy an agrahAra home as they feared defiling it with meat consumption.
 
 > Once I was travelling to kAnchi from bengaLUru on a sleeper bus.  
 > A co-passenger turned to me and realized by seeing my tilaka that I was a brAhmaNa.  
@@ -76,7 +76,12 @@ they used to remove their footwear.
 > "A brAhmaNa is sleeping here; and I have just consumed meat. Please exchange".  
 > Similarly, panchama-s used to, on their own accord, seat themselves elsewhere, rather than next to me.
 
-#### vaiShNava-s
+### Expectation from v1s
+A v4 would occassionally scold a v1 - "Are _you_ a brAhmaNa?". 
+
+Once an approximately 4 year old bAlAjI was urinating while standing. A v4 hit him behind the head and told him to sit down while doing so, as expected from v1s. Such were standards.
+
+### vaiShNava-s
 Some 10 houses in a nearby village belonged to vaiShNava shUdras who wouldn't bow to non-vaiShNava brAhmaNa-s; but only to vaiShNava-s.  
 Other vaiShNava-s were similar. 
 
