@@ -18,7 +18,7 @@ title = "KOLHĀTI"
 
 
 
-## 1. Introductory notice.
+## 01. Introductory notice.
 
 
 
@@ -28,7 +28,7 @@ title = "KOLHĀTI"
 
 
 
-## 2. Internal structure.
+## 02. Internal structure.
 
 
 
@@ -38,7 +38,7 @@ The caste has two main divisions in Berār, the Dukar Kolhātis and the Khām or
 
 
 
-## 3. Marriage.
+## 03. Marriage.
 
 
 
@@ -48,7 +48,7 @@ The marriage ceremony in Berār4 consists simply in a feast at which the bride a
 
 
 
-## 4. Funeral rites.
+## 04. Funeral rites.
 
 
 
@@ -58,7 +58,7 @@ The bodies of children are buried, and those of the adult dead may be either bur
 
 
 
-## 5. Other customs.
+## 05. Other customs.
 
 
 
@@ -68,7 +68,7 @@ Although of low caste the Kolhātis refrain from eating the flesh of the cow and
 
 
 
-## 6. Occupation.
+## 06. Occupation.
 
 
 

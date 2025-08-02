@@ -26,7 +26,7 @@ title = "JOGI"
 
 
 
-## 1. The Yoga philosophy.
+## 01. The Yoga philosophy.
 
 
 
@@ -39,7 +39,7 @@ Jogi mendicants of the Kanphata sect
 
 
 
-## 2. Abstraction of the senses or autohypnotism.
+## 02. Abstraction of the senses or autohypnotism.
 
 
 
@@ -93,7 +93,7 @@ Another account of a similar procedure is given by Buchanan:8 “Those who prete
 
 
 
-## 3. Breathing through either nostril.
+## 03. Breathing through either nostril.
 
 
 
@@ -103,7 +103,7 @@ It is clear that the effect of some of the above practices is designed to produc
 
 
 
-## 4. Self-torture of the Jogis.
+## 04. Self-torture of the Jogis.
 
 
 
@@ -117,7 +117,7 @@ The following account of the austerities of the Jogis during the Mughal period i
 
 
 
-## 5. Resort to them for oracles.
+## 05. Resort to them for oracles.
 
 
 
@@ -130,7 +130,7 @@ Jogi musicians with *sārangi* or fiddle
 
 
 
-## 6. Divisions of the order.
+## 06. Divisions of the order.
 
 
 
@@ -140,7 +140,7 @@ About 15,000 Jogis were returned from the Central Provinces in 1911. They are sa
 
 
 
-## 7. Hair and clothes.
+## 07. Hair and clothes.
 
 
 
@@ -150,7 +150,7 @@ When a novice is initiated all the hair of his head is shaved, including the sca
 
 
 
-## 8. Burial.
+## 08. Burial.
 
 
 
@@ -160,7 +160,7 @@ The Jogis are buried sitting cross-legged with the face to the north in a tomb w
 
 
 
-## 9. Festivals.
+## 09. Festivals.
 
 
 

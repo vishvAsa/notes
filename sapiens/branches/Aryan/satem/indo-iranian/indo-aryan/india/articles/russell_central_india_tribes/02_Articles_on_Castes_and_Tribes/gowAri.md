@@ -5,7 +5,7 @@ title = "Gowāri"
 
 
 
-## 1. Origin of the caste.
+## 01. Origin of the caste.
 
 
 
@@ -15,7 +15,7 @@ title = "Gowāri"
 
 
 
-## 2. Subcastes.
+## 02. Subcastes.
 
 
 
@@ -25,7 +25,7 @@ The Gowāris have three divisions, the Gai Gowāri, Inga, and Māria or Gond Gow
 
 
 
-## 3. Totemism and exogamy.
+## 03. Totemism and exogamy.
 
 
 
@@ -37,7 +37,7 @@ Marriage is prohibited within the same section or *kur*, and between sections re
 
 
 
-## 4. Marriage customs.
+## 04. Marriage customs.
 
 
 
@@ -47,7 +47,7 @@ Girls are usually married after attaining maturity, and a bride-price is paid wh
 
 
 
-## 5. Funeral rites.
+## 05. Funeral rites.
 
 
 
@@ -57,7 +57,7 @@ The dead are either buried or burnt, burial being more common. The corpse is lai
 
 
 
-## 6. Religion.
+## 06. Religion.
 
 
 
@@ -67,7 +67,7 @@ The principal deities of the Gowāris are the Kode Kodwan or deified ancestors. 
 
 
 
-## 7. Caste rules and the *panchāyat*.
+## 07. Caste rules and the *panchāyat*.
 
 
 
@@ -77,7 +77,7 @@ The head of the caste committee is known as Shendia, from *shendi*, a scalp-lock
 
 
 
-## 8. Social customs.
+## 08. Social customs.
 
 
 

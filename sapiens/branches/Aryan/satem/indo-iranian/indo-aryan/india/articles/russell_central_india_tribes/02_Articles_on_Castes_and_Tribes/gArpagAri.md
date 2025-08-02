@@ -5,7 +5,7 @@ title = "Gārpagāri"
 
 
 
-## 1. Origin of the caste.
+## 01. Origin of the caste.
 
 
 
@@ -15,7 +15,7 @@ title = "Gārpagāri"
 
 
 
-## 2. Marriage.
+## 02. Marriage.
 
 
 
@@ -25,7 +25,7 @@ Marriage is regulated by exogamous groups, two of which, Watāri from the Otāri
 
 
 
-## 3. Religion.
+## 03. Religion.
 
 
 
@@ -35,7 +35,7 @@ The caste worship Mahādeo or Siva and Mahābīr or Hanumān, and do not usually
 
 
 
-## 4. Occupation.
+## 04. Occupation.
 
 
 
@@ -53,7 +53,7 @@ Of late years an unavoidable scepticism as to the Gārpagāri’s efficiency has
 
 
 
-## 5. Social status.
+## 05. Social status.
 
 
 

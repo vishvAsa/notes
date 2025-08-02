@@ -14,7 +14,7 @@ title = "KĀCHHI"
 
 
 
-## 1. General notice.
+## 01. General notice.
 
 
 
@@ -24,7 +24,7 @@ title = "KĀCHHI"
 
 
 
-## 2. Subdivisions.
+## 02. Subdivisions.
 
 
 
@@ -34,7 +34,7 @@ The caste is divided into a number of subcastes, most of which take their names 
 
 
 
-## 3. Marriage customs.
+## 03. Marriage customs.
 
 
 
@@ -46,7 +46,7 @@ After the wedding the bridegroom’s marriage-crown is hung to the roof in a bas
 
 
 
-## 4. Childbirth.
+## 04. Childbirth.
 
 
 
@@ -56,7 +56,7 @@ After a birth neither the mother nor child are given anything to eat the first d
 
 
 
-## 5. Ear-piercing
+## 05. Ear-piercing
 
 
 
@@ -66,7 +66,7 @@ The ears of boys and girls are pierced when they are four or five years old; unt
 
 
 
-## 6. Disposal of the dead.
+## 06. Disposal of the dead.
 
 
 

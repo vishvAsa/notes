@@ -5,7 +5,7 @@ title = "Kori"
 
 
 
-## 1. Description of the caste.
+## 01. Description of the caste.
 
 
 
@@ -15,7 +15,7 @@ title = "Kori"
 
 
 
-## 2. Marriages
+## 02. Marriages
 
 
 
@@ -25,7 +25,7 @@ The marriage of persons belonging to the same sept and also that of first cousin
 
 
 
-## 3. Customs at birth and death.
+## 03. Customs at birth and death.
 
 
 
@@ -35,7 +35,7 @@ A child is named on the day after its birth by some woman of the caste; a Brāhm
 
 
 
-## 4. Religion.
+## 04. Religion.
 
 
 
@@ -45,7 +45,7 @@ The Koris worship the ordinary Hindu deities and especially Devi. They become in
 
 
 
-## 5. Occupation and social status.
+## 05. Occupation and social status.
 
 
 

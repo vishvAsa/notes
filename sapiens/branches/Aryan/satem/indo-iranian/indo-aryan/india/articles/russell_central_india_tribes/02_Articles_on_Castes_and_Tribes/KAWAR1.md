@@ -20,7 +20,7 @@ title = "KAWAR1"
 
 
 
-## 1. Tribal legend.
+## 01. Tribal legend.
 
 
 
@@ -30,7 +30,7 @@ title = "KAWAR1"
 
 
 
-## 2. Tribal subdivisions.
+## 02. Tribal subdivisions.
 
 
 
@@ -40,7 +40,7 @@ The Kawars have the following eight endogamous divisions: Tanwar, Kamalbansi, Pa
 
 
 
-## 3. Exogamous groups.
+## 03. Exogamous groups.
 
 
 
@@ -54,7 +54,7 @@ Generally it may be said that every common animal or bird and even articles of f
 
 
 
-## 4. Betrothal and marriage.
+## 04. Betrothal and marriage.
 
 
 
@@ -64,7 +64,7 @@ Marriage within the same sept is prohibited and also between the children of bro
 
 
 
-## 5. Other customs connected with marriage.
+## 05. Other customs connected with marriage.
 
 
 
@@ -76,7 +76,7 @@ Dalton2 records that the Kawars of Sargūja had adopted the practice of *sati*: 
 
 
 
-## 6. Childbirth.
+## 06. Childbirth.
 
 
 
@@ -86,7 +86,7 @@ During childbirth the mother sits on the ground with her legs apart, and her bac
 
 
 
-## 7. Disposal of the dead.
+## 07. Disposal of the dead.
 
 
 
@@ -96,7 +96,7 @@ The dead are usually buried, though well-to-do families have adopted cremation. 
 
 
 
-## 8. Laying spirits.
+## 08. Laying spirits.
 
 
 
@@ -106,7 +106,7 @@ When a man has been killed by a tiger they have a ceremony called ‘Breaking th
 
 
 
-## 9. Religion.
+## 09. Religion.
 
 
 

@@ -14,7 +14,7 @@ title = "Sikh Religion"
 + 7. The Sikh Council or Guru-Māta. Their communal meal. 
 
 
-## 1. Foundation of Sikhism—Bāba Nānak.
+## 01. Foundation of Sikhism—Bāba Nānak.
 
 **Sikh, Akāli**.—The Sikh religion and the history of the Sikhs have been fully described by several writers, and all that is intended in this article is a brief outline of the main tenets of the sect for the benefit of those to whom the more important works of reference may not be available. The Central Provinces contained only 2337 Sikhs in 1911, of whom the majority were soldiers and the remainder probably timber or other merchants or members of the subordinate engineering service in which Punjabis are largely employed. The following account is taken from Sir Denzil Ibbetson’s *Census Report of the Punjab* for 1881: 
 
@@ -28,7 +28,7 @@ title = "Sikh Religion"
 
 
 
-## 2. The earlier Gurus.
+## 02. The earlier Gurus.
 
 “Under the second Guru Angad an intolerant and ascetic spirit began to spring up among the followers of the new tenets; and had it not been for the good sense and firmness displayed by his successor, Amar Dās, who excommunicated the Udāsis and recalled his followers to the mildness and tolerance of Nānak, Sikhism would probably have merely added one more to the countless orders of ascetics or devotees which are wholly unrepresented in the life of the people. The fourth *guru*, Rām Dās, founded Amritsar; but it was his successor, Arjun, that first organised his following. He gave them a written rule of faith in the Granth or Sikh scripture which he compiled, he provided a common rallying-point in the city of Amritsar which he made their religious centre, and he reduced their voluntary contributions to a systematic levy which accustomed them to discipline and paved the way for further organisation. He was a great trader, he utilised the services and money of his disciples in mercantile transactions which extended far beyond the confines of India, and he thus accumulated wealth for his Church. 
 
@@ -36,7 +36,7 @@ title = "Sikh Religion"
 
 
 
-## 3. Guru Govind Singh.
+## 03. Guru Govind Singh.
 
 “Teg Bahādur was succeeded by the last and greatest *guru*, his son Govind Singh; and it was under him that what had sprung into existence as a quietist sect of a purely religious nature, and had become a military society of by no means high character, developed into the political organisation which was to rule the whole of north-western India, and to furnish the British arms their stoutest and most worthy opponents. For some years after his father’s execution Govind Singh lived in retirement, and brooded over his personal wrongs and over the persecutions of the Musalmān fanatic which bathed the country in blood. His soul was filled with the longing for revenge; but he felt the necessity for a larger following and a stronger organisation, and, following the example of his Muhammadan enemies, he used his religion as the basis of political power. Emerging from his retirement he preached the Khālsa, the pure, the elect, the liberated. He openly attacked all distinctions of caste, and taught the equality of all men who would join him; and instituting a ceremony of initiation, he proclaimed it as the *pāhul* or ‘gate’ by which all might enter the society, while he gave to its members the *prasād* or communion as a sacrament of union in which the four castes should eat of one dish. The higher castes murmured and many of them left him, for he taught that the Brāhman’s thread must be broken; but the lower orders rejoiced and flocked in numbers to his standard. These he inspired with military ardour, with the hope of social freedom and of national independence, and with abhorrence of the hated Muhammadan. He gave them outward signs of their faith in the unshorn hair, the short drawers, and the blue dress; he marked the military nature of their calling by the title of Singh or ‘lion,’ by the wearing of steel, and by the initiation by sprinkling of water with a two-edged dagger; and he gave them a feeling of personal superiority in their abstinence from the unclean tobacco. 
 
@@ -44,19 +44,19 @@ title = "Sikh Religion"
 
 
 
-## 4. Sikh initiation and rules.
+## 04. Sikh initiation and rules.
 
 “The word Sikh is said to be derived from the common Hindu term Sewak and to mean simply a disciple; it may be applied therefore to the followers of Nānak who held aloof from Govind Singh, but in practice it is perhaps understood to mean only the latter, while the Nānakpanthis are considered as Hindus. A true Sikh always takes the termination Singh to his name on initiation, and hence they are sometimes known as Singhs in distinction to the Nānakpanthis. A man is also not born a Sikh, but must always be initiated, and the *pāhul* or rite of baptism cannot take place until he is old enough to understand it, the earliest age being seven, while it is often postponed till manhood. Five Sikhs must be present at the ceremony, when the novice repeats the articles of the faith and drinks sugar and water stirred up with a two-edged dagger. At the initiation of women a one-edged dagger is used, but this is seldom done. Thus most of the wives of Sikhs have never been initiated, nor is it necessary that their children should become Sikhs when they grow up. The faith is unattractive to women owing to the simplicity of its ritual and the absence of the feasts and ceremonies so abundant in Hinduism; formerly the Sikhs were accustomed to capture their wives in forays, and hence perhaps it was considered of no consequence that the husband and wife should be of different faith. The distinguishing marks of a true Sikh are the five *Kakkas* or *K’s* which he is bound to carry about his person: the *Kes* or uncut hair and unshaven beard; the *Kachh* or short drawers ending above the knee; the *Kasa* or iron bangle; the *Khanda* or steel knife; and the *Kanga* or comb. The other rules of conduct laid down by Guru Govind Singh for his followers were to dress in blue clothes and especially eschew red or saffron-coloured garments and caps of all sorts, to observe personal cleanliness, especially in the hair, and practise ablutions, to eat the flesh of such animals only as had been killed by *jatka* or decapitation, to abstain from tobacco in all its forms, never to blow out flame nor extinguish it with drinking-water, to eat with the head covered, pray and recite passages of the Granth morning and evening and before all meals, reverence the cow, abstain from the worship of saints and idols and avoid mosques and temples, and worship the one God only, neglecting Brāhmans and Mullas, and their scriptures, teaching, rites and religious symbols. Caste distinctions he positively condemned and instituted the *prasād* or communion, in which cakes of flour, butter and sugar are made and consecrated with certain ceremonies while the communicants sit round in prayer, and then distributed equally to all the faithful present, to whatever caste they may belong. The above rules, so far as they enjoin ceremonial observances, are still very generally obeyed. But the daily reading and recital of the Granth is discontinued, for the Sikhs are the most uneducated class in the Punjab, and an occasional visit to the Sikh temple where the Granth is read aloud is all that the villager thinks necessary. Blue clothes have been discontinued save by the fanatical Akāli sect, as have been very generally the short drawers or Kachh. The prohibition of tobacco has had the unfortunate effect of inducing the Sikhs to take to hemp and opium, both of which are far more injurious than tobacco. The precepts which forbid the Sikh to venerate Brāhmans or to associate himself with Hindu worship are entirely neglected; and in the matter of the worship of local saints and deities, and of the employment of and reverence for Brāhmans, there is little, while in current superstitions and superstitious practices there is no difference between the Sikh villager and his Hindu brother.”2 
 
 
 
-## 5. Character of the Nānakpanthis and Sikh sects.
+## 05. Character of the Nānakpanthis and Sikh sects.
 
 It seems thus clear that if it had not been for the political and military development of the Sikh movement, it would in time have lost most of its distinctive features and have come to be considered as a Hindu sect of the same character, if somewhat more distinctive than those of the Nānakpanthis and Kabīrpanthis. But this development and the founding of the Sikh State of Lahore created a breach between the Sikhs and ordinary Hindus wider than that caused by their religious differences, as was sufficiently demonstrated during the Mutiny. In their origin both the Sikh and Nānakpanthi sects appear to have been mainly a revolt against the caste system, the supremacy of Brāhmans and the degrading mass of superstitions and reverence of idols and spirit-worship which the Brāhmans encouraged for their own profit. But while Nānak, influenced by the observation of Islamic monotheism, attempted to introduce a pure religion only, the aim of Govind was perhaps political, and he saw in the caste system an obstacle to the national movement which he desired to excite against the Muhammadans. So far as the abolition of caste was concerned, both reformers have, as has been seen, largely failed, the two sects now recognising caste, while their members revere Brāhmans like ordinary Hindus. 
 
 
 
-## 6. The Akālis.
+## 06. The Akālis.
 
 The Akālis or Nihangs are a fanatical order of Sikh ascetics. The following extract is taken from Sir E. Maclagan’s account of them:3 
 
@@ -80,7 +80,7 @@ or, ‘Those that wear black \(the Akālis\), white \(the Nirmalas\), red \(the 
 
 
 
-## 7. The Sikh Council or Guru-Māta. Their communal meal.
+## 07. The Sikh Council or Guru-Māta. Their communal meal.
 
 The following account was given by Sir J. Malcolm of the Guru-Māta or great Council of the Sikhs and their religious meal:4 “When a Guru-Māta or great national Council is called on the occasion of any danger to the country, all the Sikh chiefs assemble at Amritsar. The assembly is convened by the Akālis; and when the chiefs meet upon this solemn occasion it is concluded that all private animosities cease, and that every man sacrifices his personal feelings at the shrine of the general good. 
 

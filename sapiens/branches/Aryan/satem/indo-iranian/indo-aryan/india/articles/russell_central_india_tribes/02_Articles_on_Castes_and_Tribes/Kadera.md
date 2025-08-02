@@ -5,7 +5,7 @@ title = "Kadera"
 
 
 
-## 1. Historical notice.
+## 01. Historical notice.
 
 
 
@@ -15,7 +15,7 @@ title = "Kadera"
 
 
 
-## 2. Subdivisions.
+## 02. Subdivisions.
 
 
 
@@ -25,7 +25,7 @@ In Narsinghpur the Kaderas have three subcastes, Rājpūt or Dāngiwāra, Dhunka
 
 
 
-## 3. Social customs.
+## 03. Social customs.
 
 
 
@@ -35,7 +35,7 @@ They celebrate their marriages by walking round the sacred post. Divorce and the
 
 
 
-## 4. Religion and occupation.
+## 04. Religion and occupation.
 
 
 

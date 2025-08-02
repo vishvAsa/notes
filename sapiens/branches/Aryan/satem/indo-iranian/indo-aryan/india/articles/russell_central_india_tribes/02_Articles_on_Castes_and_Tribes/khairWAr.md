@@ -21,7 +21,7 @@ title = "KHAIRWĀR"
 
 
 
-## 1. Historical notice of the tribe.
+## 01. Historical notice of the tribe.
 
 
 
@@ -31,7 +31,7 @@ title = "KHAIRWĀR"
 
 
 
-## 2. Its origin.
+## 02. Its origin.
 
 
 
@@ -41,7 +41,7 @@ On the information available as to the past history of the tribe it seems probab
 
 
 
-## 3. Tribal subdivisions.
+## 03. Tribal subdivisions.
 
 
 
@@ -55,7 +55,7 @@ In the Central Provinces there is a group known as Sūrajvansi or Descendants of
 
 
 
-## 4. Exogamous septs.
+## 04. Exogamous septs.
 
 
 
@@ -65,7 +65,7 @@ The tribe have a large number of exogamous groups named after plants and animals
 
 
 
-## 5. Marriage.
+## 05. Marriage.
 
 
 
@@ -75,7 +75,7 @@ Marriage is either infant or adult, and in the latter case a girl is not dispose
 
 
 
-## 6. Disposal of the dead.
+## 06. Disposal of the dead.
 
 
 
@@ -85,7 +85,7 @@ As a rule, the tribe bury the dead, though the Hindu custom of cremation is comi
 
 
 
-## 7. Religion.
+## 07. Religion.
 
 
 
@@ -95,7 +95,7 @@ The religion of the tribe is of the usual animistic type. Colonel Dalton notes t
 
 
 
-## 8. Inheritance.
+## 08. Inheritance.
 
 
 
@@ -105,7 +105,7 @@ The Khairwārs have now also adopted the Hindu rule of inheritance, and have aba
 
 
 
-## 9. The Khairwas of Damoh.
+## 09. The Khairwas of Damoh.
 
 
 

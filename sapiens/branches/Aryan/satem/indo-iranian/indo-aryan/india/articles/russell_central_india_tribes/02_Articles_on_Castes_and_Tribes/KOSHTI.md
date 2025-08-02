@@ -17,7 +17,7 @@ title = "KOSHTI"
 
 
 
-## 1. General notice.
+## 01. General notice.
 
 
 
@@ -30,7 +30,7 @@ Koshti men dancing a figure, holding strings and beating sticks
 
 
 
-## 2. Subdivisions.
+## 02. Subdivisions.
 
 
 
@@ -40,7 +40,7 @@ The caste have several subdivisions of different types. The Halbis appear to be 
 
 
 
-## 3. Marriage.
+## 03. Marriage.
 
 
 
@@ -52,7 +52,7 @@ The remarriage of widows is freely permitted. In Chānda if the widow is living 
 
 
 
-## 4. Funeral customs.
+## 04. Funeral customs.
 
 
 
@@ -62,7 +62,7 @@ Members of the Lingāyat and Kabīrpanthi sects bury their dead and the others c
 
 
 
-## 5. Religion.
+## 05. Religion.
 
 
 
@@ -72,7 +72,7 @@ The principal deity of the Koshtis is Gajānand or Ganpati, whom they revere on 
 
 
 
-## 6. Superstitions.
+## 06. Superstitions.
 
 
 
@@ -82,7 +82,7 @@ Before beginning work for the day the Sālewār makes obeisance to his loom and 
 
 
 
-## 7. Clothes, etc.
+## 07. Clothes, etc.
 
 
 
@@ -92,7 +92,7 @@ The Sālewārs of the Godāvari tract wrap a short rectangular piece of cloth ro
 
 
 
-## 8. Social rules and status.
+## 08. Social rules and status.
 
 
 
@@ -102,7 +102,7 @@ The caste eat flesh and fish and drink liquor, and in the Marātha Districts the
 
 
 
-## 9. Occupation.
+## 09. Occupation.
 
 
 

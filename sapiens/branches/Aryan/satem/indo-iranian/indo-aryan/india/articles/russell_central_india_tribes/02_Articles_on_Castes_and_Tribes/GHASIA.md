@@ -16,7 +16,7 @@ title = "GHASIA"
 
 
 
-## 1. Description of the caste.
+## 01. Description of the caste.
 
 
 
@@ -26,7 +26,7 @@ title = "GHASIA"
 
 
 
-## 2. Subcastes.
+## 02. Subcastes.
 
 
 
@@ -36,7 +36,7 @@ The Ghasias generally, however, appear now to be a harmless caste of labourers w
 
 
 
-## 3. Exogamous sections.
+## 03. Exogamous sections.
 
 
 
@@ -46,7 +46,7 @@ Their septs are of the usual low-caste type, being named after animals, inanimat
 
 
 
-## 4. Marriage.
+## 04. Marriage.
 
 
 
@@ -56,7 +56,7 @@ Marriage is forbidden within the sept, but is permitted between the children of 
 
 
 
-## 5. Religion and superstitions.
+## 05. Religion and superstitions.
 
 
 
@@ -66,7 +66,7 @@ Children are named on the sixth day after birth, special names being given to av
 
 
 
-## 6. Occupation.
+## 06. Occupation.
 
 
 
@@ -76,7 +76,7 @@ The Ghasias usually work as grass-cutters and grooms to horses, and some of them
 
 
 
-## 7. Social customs.
+## 07. Social customs.
 
 
 
@@ -86,7 +86,7 @@ The caste admit outsiders by a disgusting ceremony in which the candidate is sha
 
 
 
-## 8. Ghasias and Kāyasths.
+## 08. Ghasias and Kāyasths.
 
 
 

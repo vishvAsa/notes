@@ -14,7 +14,7 @@ title = "KOLĀM"
 
 
 
-## 1. General notice of the tribe.
+## 01. General notice of the tribe.
 
 
 
@@ -30,7 +30,7 @@ The family names of the tribe also are not Gondi, but resemble those of Marātha
 
 
 
-## 2. Marriage.
+## 02. Marriage.
 
 
 
@@ -40,7 +40,7 @@ The Kolāms have no subtribes, but are divided for purposes of marriage into a n
 
 
 
-## 3. Disposal of the dead.
+## 03. Disposal of the dead.
 
 
 
@@ -50,7 +50,7 @@ The tribe bury their dead, and observe mourning for one to five days in differen
 
 
 
-## 4. Religion and superstitions.
+## 04. Religion and superstitions.
 
 
 
@@ -60,7 +60,7 @@ The Kolāms, Colonel Mackenzie states, recognise no god as a principle of benefi
 
 
 
-## 5. Social position.
+## 05. Social position.
 
 
 
@@ -70,7 +70,7 @@ Though the Kolāms retain some very primitive customs, those of Yeotmāl, as alr
 
 
 
-## 6. Miscellaneous customs.
+## 06. Miscellaneous customs.
 
 
 

@@ -5,7 +5,7 @@ title = "Gadba"
 
 
 
-## 1. Description and structure of the tribe.
+## 01. Description and structure of the tribe.
 
 
 
@@ -15,7 +15,7 @@ title = "Gadba"
 
 
 
-## 2. Marriage.
+## 02. Marriage.
 
 
 
@@ -25,7 +25,7 @@ Marriage is adult, but the rule existing in Madras that a girl is not permitted 
 
 
 
-## 3. Religious beliefs and festivals.
+## 03. Religious beliefs and festivals.
 
 
 
@@ -35,7 +35,7 @@ The Gadbas worship Burhi Māta or Thākurāni Māta, who is the goddess of small
 
 
 
-## 4. Disposal of the dead.
+## 04. Disposal of the dead.
 
 
 
@@ -45,7 +45,7 @@ The dead are buried with their feet to the west, ready to start for the region o
 
 
 
-## 5. Occupation and mode of living.
+## 05. Occupation and mode of living.
 
 
 

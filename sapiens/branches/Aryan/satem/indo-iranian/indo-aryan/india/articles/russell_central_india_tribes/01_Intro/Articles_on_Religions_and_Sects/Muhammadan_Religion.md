@@ -45,7 +45,7 @@ title = "Muhammadan Religion"
 + 36. Muhammadan education. 
 
 
-## 1. Statistics and distribution.
+## 01. Statistics and distribution.
 
 **Muhammadan Religion.**—The Muhammadans numbered nearly 600,000 persons in the Central Provinces in 1911, or about 3 per cent of the population. Of these about two-fifths belong to Berār, the Amraoti and Akola Districts containing more than 70,000 each; while of the 350,000 returned from the Central Provinces proper, about 40,000 reside in each of the Jubbulpore, Nāgpur and Nimār Districts. Berār was for a long period governed by the Muhammadan Bahmani dynasty, and afterwards formed part of the Mughal empire, passing to the Mughal Viceroy, the Nizām of Hyderābād, when he became an independent ruler. Though under British administration, it is still legally a part of Hyderābād territory, and a large proportion of the official classes as well as many descendants of retired soldiers are Muhammadans. Similarly Nimār was held by the Muhammadan Farūki dynasty of Khāndesh for 200 years, and was then included in the Mughal empire, Burhānpur being the seat of a viceroy. At this period a good deal of forcible conversion probably took place, and a considerable section of the Bhīls nominally became Muhammadans. 
 
@@ -61,25 +61,25 @@ When the Gond Rāja of Deogarh embraced Islām after his visit to Delhi, members
 
 
 
-## 2. Occupations.
+## 02. Occupations.
 
 No less than 37 per cent of the total number of Muhammadans live in towns, though the general proportion of urban population in the Provinces is only 7½ per cent. The number of Muhammadans in Government service excluding the police and army, is quite disproportionate to their small numerical strength in the Provinces, being 20 per cent of all persons employed. In the garrison they actually outnumber Hindus, while in the police they form 37 per cent of the whole force. In the medical and teaching professions also the number of Muhammadans is comparatively large, while of persons of independent means a proportion of 29 per cent are of this religion. Of persons employed in domestic services nearly 14 per cent of the total are Muhammadans, and of beggars, vagrants and prostitutes 23 per cent. Muhammadans are largely engaged in making and selling clothes, outnumbering the Hindus in this trade; they consist of two entirely different classes, the Muhammadan tailors who work for hire, and the Bohra and Khoja shopkeepers who sell all kinds of cloth; but both live in towns. Of dealers in timber and furniture 36 per cent are Muhammadans, and they also engage in all branches of the retail trade in provisions. The occupations of the lower-class Muhammadans are the manufacture of glass bangles and slippers and the dyeing of cloth.1 
 
 
 
-## 3. Muhammadan castes.
+## 03. Muhammadan castes.
 
 About 14 per cent of the Muhammadans returned caste names. The principal castes are the Bohra and Khoja merchants, who are of the Shiah sect, and the Cutchis or Memans from Gujarāt, who are also traders; these classes are foreigners in the Province, and many of them do not bring their wives, though they have now begun to settle here. The resident castes of Muhammadans are the Bahnas or cotton-cleaners; Julāhas, weavers; Kacheras, glass bangle-makers; Kunjras, greengrocers; Kasais, butchers; and the Rangrez caste of dyers who dye with safflower. As already stated, a section of the Bhīls are at least nominally Muhammadans, and the Fakīrs or Muhammadan beggars are also considered a separate caste. But no caste of good standing such as the Rājpūt and Jāt includes any considerable number of Muhammadans in the Central Provinces, though in northern India large numbers of them belong to this religion, while retaining substantially their caste usages. The Muhammadan castes in the Central Provinces probably consist to a large extent of the descendants of Hindu converts. Their religious observances present a curious mixture of Hindu and Muhammadan rites, as shown in the separate articles on these castes. Proper Muhammadans look down on them and decline to take food or intermarry with them. 
 
 
 
-## 4. The four tribal divisions.
+## 04. The four tribal divisions.
 
 The Muhammadans proper are usually divided into four classes, Shaikh, Saiyad, Mughal and Pathān. Of these the Shaikhs number nearly 300,000, the Pathāns nearly 150,000, the Saiyads under 50,000, and the Pathāns about 9000 in the Central Provinces. The term Saiyad properly means a descendant of Ali, the son-in-law, and the lady Fātimah, the daughter of the Prophet. They use the title Saiyad or Mir2 before, and sometimes Shāh after, their name, while women employ that of Begum. Many Saiyads act as Pīrs or spiritual guides to other Muhammadan families. The external mark of a Saiyad is the right to wear a green turban, but this is of course no longer legally secured to them. The title Shaikh properly belongs only to three branches of the Quraish tribe or that of Muhammad: the Siddīkis, who claim descent from Abu Bakr Siddīk,3 the father-in-law of the Prophet and the second Caliph; the Fārūkis claiming it from Umar ul Fārūk, the third Caliph, and also the father-in-law of the Prophet; and the Abbāsis, descended from Abbas, one of the Prophet’s nine uncles. The Fārūkis are divided into two families, the Chistis and Fāridīs. Both these titles, however, and especially Shaikh, are now arrogated by large numbers of persons who cannot have any pretence to the above descent. Sir D. Ibbetson quotes a proverb, ‘Last year I was a butcher; this year I am a Shaikh; next year if prices rise I shall become a Saiyad.’ And Sir H. M. Elliot relates that much amusement was caused in 1860 at Gujarāt by the Sherishtadār or principal officer of the judicial department describing himself in an official return as Saiyad Hashimi Quraishi, that is, of the family and lineage of the Prophet. His father, who was living in obscurity in his native town, was discovered to be a Lohār or blacksmith.4 The term Shaikh means properly an elder, and is freely taken by persons of respectable position. Shaikhs commonly use either Shaikh or Muhammad as their first names. The Pathans were originally the descendants of Afghān immigrants. The name is probably the Indian form of the word Pushtūn \(plural Pushtānah\), now given to themselves by speakers of the Pushtu language.5 The men add Khān to their names and the women Khātun or Khātū. It is not at all likely either that the bulk of the Muhammadans who returned themselves as Pathāns in the Central Provinces are really of Afghān descent. The Mughals proper are of two classes, Irāni or Persian, who belong to the Shiah sect, and Turāni, Turkish or Tartar, who are Sunnis. Mughals use the title Mīrza \(short for Amīrzāda, son of a prince\) before their names, and add Beg after them. It is said that the Prophet addressed a Mughal by the title of Beg after winning a victory, and since then it has always been used. Mughal women have the designation Khānum after their names.6 Formerly the Saiyads and Mughals constituted the superior class of Muhammadan gentry, and never touched a plough themselves, like the Hindu Brāhmans and Rājpūts. These four divisions are not proper subcastes as they are not endogamous. A man of one group can marry a woman of any other and she becomes a member of her husband’s group; but the daughters of Saiyads do not usually marry others than Saiyads. Nor is there any real distinction of occupation between them, the men following any occupation indifferently. In fact, the divisions are now little more than titular, a certain distinction attaching to the titles Saiyad and Shaikh when borne by families who have a hereditary or prescriptive right to use them. 
 
 
 
-## 5. Marriage.
+## 05. Marriage.
 
 The census returns of 1911 show that three-fourths of Muhammadan boys now remain unmarried till the age of 20; while of girls 31 per cent are unmarried between 15 and 20, but only 13 per cent above that age. The age of marriage of boys may therefore be taken at 18 to 25 or later, and that of girls at 10 to 20. The age of marriage both of girls and boys is probably getting later, especially among the better classes. 
 
@@ -94,25 +94,25 @@ Carrying the horse-shoe at the Muharram festival
 
 
 
-## 6. Polygamy, divorce and widow-remarriage.
+## 06. Polygamy, divorce and widow-remarriage.
 
 A husband can divorce his wife at pleasure by merely repeating the prescribed sentences. A wife can obtain divorce from her husband for impotence, madness, leprosy or non-payment of the dowry. A woman who is divorced can claim her dowry if it has not been paid. Polygamy is permitted among Muhammadans to the number of four wives, but it is very rare in the Central Provinces. Owing to the fact that members of the immigrant trading castes leave their wives at home in Gujarāt, the number of married women returned at the census was substantially less than that of married men. A feeling in favour of the legal prohibition of polygamy is growing up among educated Muhammadans, and many of them sign a contract at marriage not to take a second wife during the lifetime of the first. There is no prohibition on the remarriage of widows in Muhammadan law, but the Hindu rule on the subject has had considerable influence, and some Muhammadans of good position object to the marriage of widows in their family. The custom of the seclusion of women also, as Mr. Marten points out, operates as a bar to a widow finding a husband for herself. 
 
 
 
-## 7. Devices for procuring children, and beliefs about them.
+## 07. Devices for procuring children, and beliefs about them.
 
 Women who desire children resort to the shrines of saints, who are supposed to be able to induce fertility. “Blochmann notes that the tomb of Saint Salīm-i-Chishti at Fatehpur-Sikri, in whose house the Emperor Jahāngīr was born, is up to the present day visited by childless Hindu and Musalmān women. A tree in the compound of the saint Shāih Alam of Ahmedābād yields a peculiar acorn-like fruit, which is sought after far and wide by those desiring children; the woman is believed to conceive from the moment of eating the fruit. If the birth of a child follows the eating of the acorn, the man and woman who took it from the tree should for a certain number of years come at every anniversary of the saint and nourish the tree with a supply of milk. In addition to this, jasmine and rose-bushes at the shrines of certain saints are supposed to possess issue-giving properties. To draw virtue from the saint’s jasmine the woman who yearns for a child bathes and purifies herself and goes to the shrine, and seats herself under or near the jasmine bush with her skirt spread out. As many flowers as fall into her lap, so many children will she have. In some localities if after the birth of one child no other son is born, or being born does not live, it is supposed that the first-born child is possessed by a malignant spirit who destroys the young lives of the new-born brothers and sisters. So at the mother’s next confinement sugar and sesame-seed are passed seven or nine times over the new-born infant from head to foot, and the elder boy or girl is given them to eat. The sugar represents the life of the young one given to the spirit who possesses the first-born. A child born with teeth already visible is believed to exercise a very malignant influence over its parents, and to render the early death of one of them almost certain.”10  
 
 
 
-## 8. Pregnancy rites.
+## 08. Pregnancy rites.
 
 In the seventh or ninth month of pregnancy a fertility rite is performed as among the Hindus. The woman is dressed in new clothes, and her lap is filled with fruit and vegetables by her friends. In some localities a large number of pots are obtained, and a little water is placed in each of them by a fertile married woman who has never lost a child. Prayers are repeated over the pots in the names of the male and female ancestors of the family, and especially of the women who have died in childbirth. This appears to be a propitiation of the spirits of ancestors.11 
 
 
 
-## 9. Childbirth and naming children.
+## 09. Childbirth and naming children.
 
 A woman goes to her parents’ home after the last pregnancy rite and stays there till her confinement is over. The rites performed by the midwife at birth resemble those of the Hindus. When the child is born the *azān* or summons to prayer is uttered aloud in his right ear, and the *takbīr* or Muhammadan creed in his left. The child is named on the sixth or seventh day. Sometimes the name of an ancestor is given, or the initial letter is selected from the Korān at a venture and a name beginning with that letter is chosen. Some common names are those of the hundred titles of God combined with the prefix *abd* or servant. Such are Abdul Azīz, servant of the all-honoured; Ghani, the everlasting; Karīm, the gracious; Rahīm, the pitiful; Rahmān, the merciful; Razzāk, the bread-giver; Sattār, the concealer; and so on, with the prefix Abdul, or servant of, in each case. Similarly Abdullah, or servant of God, was the name of Muhammad’s father, and is a very favourite one. Other names end with Baksh or ‘given by,’ as Haidar Baksh, given by the lion \(Ali\); these are similar to the Hindu names ending in Prasād. The prefix Ghulām, or slave of, is also used, as Ghulām Hussain, slave of Hussain; and names of Hebrew patriarchs mentioned in the Korān are not uncommon, as Ayūb Job, Hārūn Aaron, Ishāq Isaac, Mūsa Moses, Yakūb Jacob, Yūsaf Joseph, and so on.12 
 

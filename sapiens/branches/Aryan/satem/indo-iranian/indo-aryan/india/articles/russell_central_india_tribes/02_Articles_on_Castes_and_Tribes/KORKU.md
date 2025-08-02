@@ -26,7 +26,7 @@ title = "KORKU"
 
 
 
-## 1. Distribution and origin.
+## 01. Distribution and origin.
 
 
 
@@ -39,7 +39,7 @@ Korkus of the Melghāt hills
 
 
 
-## 2. Tribal legends.
+## 02. Tribal legends.
 
 
 
@@ -49,7 +49,7 @@ According to their own traditions the Korkus like so many other early people wer
 
 
 
-## 3. Tribal subdivisions.
+## 03. Tribal subdivisions.
 
 
 
@@ -62,7 +62,7 @@ Korku women in full dress
 
 
 
-## 4. Marriage Betrothal.
+## 04. Marriage Betrothal.
 
 
 
@@ -72,7 +72,7 @@ Marriage between members of the same sept is prohibited and also the union of fi
 
 
 
-## 5. The marriage ceremony.
+## 05. The marriage ceremony.
 
 
 
@@ -82,7 +82,7 @@ The marriage ceremony resembles that of the Hindus but has one or two special fe
 
 
 
-## 6. Religion.
+## 06. Religion.
 
 
 
@@ -92,7 +92,7 @@ The Korkus consider themselves as Hindus, and are held to have a better claim to
 
 
 
-## 7. The Bhumka.
+## 07. The Bhumka.
 
 
 
@@ -102,7 +102,7 @@ The priests of the Korkus are of two kinds—Parihārs and Bhumkas. The Parihār
 
 
 
-## 8. Magical practices.
+## 08. Magical practices.
 
 
 
@@ -112,7 +112,7 @@ The Korkus have the same belief in the efficacy of imitative and sympathetic mag
 
 
 
-## 9. Funeral rites.
+## 09. Funeral rites.
 
 
 

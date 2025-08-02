@@ -14,7 +14,7 @@ title = "KHANGĀR"
 
 
 
-## 1. Origin and traditions.
+## 01. Origin and traditions.
 
 
 
@@ -24,7 +24,7 @@ title = "KHANGĀR"
 
 
 
-## 2. Caste subdivisions.
+## 02. Caste subdivisions.
 
 
 
@@ -34,7 +34,7 @@ The caste has four subdivisions, named Rai, Mirdha or Nakīb, Karbal and Dahāt.
 
 
 
-## 3. Marriage.
+## 03. Marriage.
 
 
 
@@ -44,7 +44,7 @@ The marriage of members of the same sept is prohibited and also that of first co
 
 
 
-## 4. Religion.
+## 04. Religion.
 
 
 
@@ -54,7 +54,7 @@ The Khangārs worship the usual Hindu deities and especially venerate Dūlha Deo
 
 
 
-## 5. Social status.
+## 05. Social status.
 
 
 
@@ -64,7 +64,7 @@ The Khangārs do not admit outsiders into the caste, except children born of a K
 
 
 
-## 6. Occupation.
+## 06. Occupation.
 
 
 

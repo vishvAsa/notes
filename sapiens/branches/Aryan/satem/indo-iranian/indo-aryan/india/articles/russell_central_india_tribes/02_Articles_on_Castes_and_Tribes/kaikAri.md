@@ -5,7 +5,7 @@ title = "Kaikāri"
 
 
 
-## 1. Origin and traditions.
+## 01. Origin and traditions.
 
 
 
@@ -18,7 +18,7 @@ Kaikaris making baskets
 
 
 
-## 2. Marriage.
+## 02. Marriage.
 
 
 
@@ -28,7 +28,7 @@ Marriage within the same *gotra* or section is prohibited, but with one or two e
 
 
 
-## 3. Religion.
+## 03. Religion.
 
 
 
@@ -38,7 +38,7 @@ The tutelary god of the Kaikāris is the *Nāg* or cobra, who is worshipped at m
 
 
 
-## 4. Social customs and position.
+## 04. Social customs and position.
 
 
 
@@ -48,7 +48,7 @@ The Kaikāris eat flesh, including pork and fowls, but not beef. In Nimār the a
 
 
 
-## 5. Occupation.
+## 05. Occupation.
 
 
 

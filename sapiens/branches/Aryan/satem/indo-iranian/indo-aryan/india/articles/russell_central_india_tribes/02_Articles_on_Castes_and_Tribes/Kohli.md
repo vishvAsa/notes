@@ -5,7 +5,7 @@ title = "Kohli"
 
 
 
-## 1. General notice.
+## 01. General notice.
 
 
 
@@ -18,7 +18,7 @@ Old type of sugarcane mill
 
 
 
-## 2. Marriage and other customs.
+## 02. Marriage and other customs.
 
 
 
@@ -28,7 +28,7 @@ The Kohlis have no subcastes. They are divided into the usual exogamous groups o
 
 
 
-## 3. The Kohlis as tank-builders.
+## 03. The Kohlis as tank-builders.
 
 
 
@@ -38,7 +38,7 @@ The Kohlis were the builders of the great tanks of the Bhandāra District. The m
 
 
 
-## 4. Agricultural customs.
+## 04. Agricultural customs.
 
 
 
@@ -48,7 +48,7 @@ The Kohli villages are managed on a somewhat patriarchal system, and the dealing
 
 
 
-## 5. General characteristics.
+## 05. General characteristics.
 
 
 

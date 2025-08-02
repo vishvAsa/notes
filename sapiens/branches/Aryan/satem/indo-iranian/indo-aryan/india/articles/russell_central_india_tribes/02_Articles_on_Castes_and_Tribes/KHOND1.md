@@ -27,7 +27,7 @@ title = "KHOND1"
 
 
 
-## 1. Traditions of the tribe.
+## 01. Traditions of the tribe.
 
 
 
@@ -37,7 +37,7 @@ title = "KHOND1"
 
 
 
-## 2. Tribal divisions.
+## 02. Tribal divisions.
 
 
 
@@ -47,7 +47,7 @@ There is no strict endogamy within the Khond tribe. It has two main divisions: t
 
 
 
-## 3. Exogamous septs.
+## 03. Exogamous septs.
 
 
 
@@ -57,7 +57,7 @@ Traditionally the Khonds have thirty-two exogamous septs, but the number has now
 
 
 
-## 4. Marriage.
+## 04. Marriage.
 
 
 
@@ -67,7 +67,7 @@ Marriage is adult and a large price, varying from 12 to 20 head of cattle, was f
 
 
 
-## 5. Customs at birth.
+## 05. Customs at birth.
 
 
 
@@ -77,7 +77,7 @@ For one day after a child has been born the mother is allowed no food. On the si
 
 
 
-## 6. Disposal of the dead.
+## 06. Disposal of the dead.
 
 
 
@@ -87,7 +87,7 @@ The dead are buried as a rule, but the practice of cremating the bodies of adult
 
 
 
-## 7. Occupation.
+## 07. Occupation.
 
 
 
@@ -99,7 +99,7 @@ Macpherson6 described the Khonds as faithful to friends, devoted to their chiefs
 
 
 
-## 8. A Khond combat.
+## 08. A Khond combat.
 
 
 
@@ -109,7 +109,7 @@ Macpherson6 described the Khonds as faithful to friends, devoted to their chiefs
 
 
 
-## 9. Social customs.
+## 09. Social customs.
 
 
 

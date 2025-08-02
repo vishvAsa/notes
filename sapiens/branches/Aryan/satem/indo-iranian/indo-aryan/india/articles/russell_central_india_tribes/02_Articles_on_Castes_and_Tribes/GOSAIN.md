@@ -21,7 +21,7 @@ title = "GOSAIN"
 
 
 
-## 1. Names for the Gosains.
+## 01. Names for the Gosains.
 
 
 
@@ -34,7 +34,7 @@ Gosain mendicant
 
 
 
-## 2. The ten orders.
+## 02. The ten orders.
 
 
 
@@ -65,7 +65,7 @@ The commonest orders in the Central Provinces are Giri, Puri and Bhārthi, and t
 
 
 
-## 3. Initiation.
+## 03. Initiation.
 
 
 
@@ -77,7 +77,7 @@ At initiation the body of a neophyte is cleaned with the five products of the sa
 
 
 
-## 4. Dress.
+## 04. Dress.
 
 
 
@@ -90,7 +90,7 @@ Gosain mendicants with long hair
 
 
 
-## 5. Methods of begging and greetings.
+## 05. Methods of begging and greetings.
 
 
 
@@ -102,7 +102,7 @@ When an ordinary Hindu meets a Gosain he says ‘Nāmu Nārāyan’ or ‘I go t
 
 
 
-## 6. The Dandis.
+## 06. The Dandis.
 
 
 
@@ -112,7 +112,7 @@ The Dandis are a special group of ascetics belonging to several of the ten order
 
 
 
-## 7. The Rāwanvansis.
+## 07. The Rāwanvansis.
 
 
 
@@ -125,7 +125,7 @@ Famous Gosain Mahant. Photograph taken after death
 
 
 
-## 8. Monasteries.
+## 08. Monasteries.
 
 
 
@@ -135,7 +135,7 @@ Unmarried Sanniāsis often reside in Maths or monasteries. The superior is calle
 
 
 
-## 9. The fighting Gosains.
+## 09. The fighting Gosains.
 
 
 

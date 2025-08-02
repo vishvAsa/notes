@@ -5,7 +5,7 @@ title = "Kalanga"
 
 
 
-## 1. Origin.
+## 01. Origin.
 
 
 
@@ -15,7 +15,7 @@ title = "Kalanga"
 
 
 
-## 2. Subdivisions.
+## 02. Subdivisions.
 
 
 
@@ -25,7 +25,7 @@ The Kalangas have no real endogamous divisions but a large number of exogamous g
 
 
 
-## 3. Marriage.
+## 03. Marriage.
 
 
 
@@ -35,7 +35,7 @@ Marriage within the same *barga* or group is prohibited and also the union of fi
 
 
 
-## 4. Social position.
+## 04. Social position.
 
 
 

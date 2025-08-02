@@ -116,7 +116,7 @@ title = "GOND"
 
 
 
-### 1. Numbers and distribution.
+### 01. Numbers and distribution.
 
 
 
@@ -126,7 +126,7 @@ title = "GOND"
 
 
 
-### 2. Gondwāna.
+### 02. Gondwāna.
 
 
 
@@ -139,7 +139,7 @@ Gond women grinding corn
 
 
 
-### 3. Derivation of name and origin of the Gonds.
+### 03. Derivation of name and origin of the Gonds.
 
 
 
@@ -149,7 +149,7 @@ The derivation of the word Gond is uncertain. It is the name given to the tribe 
 
 
 
-### 4. History of the Gonds.
+### 04. History of the Gonds.
 
 
 
@@ -162,7 +162,7 @@ Palace of the Gond kings of Garha-Mandla at Rāmnagar
 
 
 
-### 5. Mythica traditions. Story of Lingo.
+### 05. Mythica traditions. Story of Lingo.
 
 
 
@@ -172,7 +172,7 @@ Mr. Hislop took down from a Pardhān priest a Gond myth of the creation of the w
 
 
 
-### 6. Legend of the creation.
+### 06. Legend of the creation.
 
 
 
@@ -182,7 +182,7 @@ In the beginning there was water everywhere, and God was born in a lotus-leaf an
 
 
 
-### 7. Creation of the Gonds and their imprisonment by Mahādeo.
+### 07. Creation of the Gonds and their imprisonment by Mahādeo.
 
 
 
@@ -230,7 +230,7 @@ Mahādeo then determined to get rid of the Gonds. With this view he invited them
 
 
 
-### 8. The birth and history of Lingo.
+### 08. The birth and history of Lingo.
 
 
 
@@ -419,7 +419,7 @@ Having made the fold of her dress loose, she quickly began to dance near the hed
 
 
 
-### 9. Death and resurrection of Lingo.
+### 09. Death and resurrection of Lingo.
 
 
 

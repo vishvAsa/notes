@@ -15,7 +15,7 @@ title = "KOLI"
 
 
 
-## 1. General notice of the caste.
+## 01. General notice of the caste.
 
 
 
@@ -33,7 +33,7 @@ or ‘The Koli was born from Siva’s wallet.’
 
 
 
-## 2. Subdivisions.
+## 02. Subdivisions.
 
 
 
@@ -45,7 +45,7 @@ In Berār the principal group is that of the Mahādeo Kolis, whose name may be d
 
 
 
-## 3. Exogamous divisions.
+## 03. Exogamous divisions.
 
 
 
@@ -55,7 +55,7 @@ The tribe have exogamous septs of the usual nature, but they have forgotten the 
 
 
 
-## 4. Widow-marriage or divorce.
+## 04. Widow-marriage or divorce.
 
 
 
@@ -65,7 +65,7 @@ The remarriage of widows is permitted, and the ceremony consists simply in tying
 
 
 
-## 5. Religion.
+## 05. Religion.
 
 
 
@@ -75,7 +75,7 @@ The Kolis of Nimār chiefly revere the goddess Bhawāni, and almost every family
 
 
 
-## 6. Disposal of the dead.
+## 06. Disposal of the dead.
 
 
 
@@ -85,7 +85,7 @@ The Kolis both bury and burn the dead, but the former practice is more common. T
 
 
 
-## 7. Social rules.
+## 07. Social rules.
 
 
 

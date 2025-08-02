@@ -31,7 +31,7 @@ title = "KASAI"
 
 
 
-## 1. General notice of the caste.
+## 01. General notice of the caste.
 
 
 
@@ -49,7 +49,7 @@ or, ‘If you have not seen a tiger, look at a cat; and if you have not seen a T
 
 
 
-## 2. The cattle-slaughtering industry.
+## 02. The cattle-slaughtering industry.
 
 
 
@@ -59,7 +59,7 @@ In recent years an extensive industry in the slaughter of cattle has sprung up a
 
 
 
-## 3. Muhammadan rite of *zibah* or *halāl*.
+## 03. Muhammadan rite of *zibah* or *halāl*.
 
 
 
@@ -77,7 +77,7 @@ This method of killing an animal is known as *zibah*. The Muhammadan belief that
 
 
 
-## 4. Animism.
+## 04. Animism.
 
 
 
@@ -87,7 +87,7 @@ Primitive man did not recognise any difference of intelligence and self-consciou
 
 
 
-## 5. Animal-gods. The domestic animals.
+## 05. Animal-gods. The domestic animals.
 
 
 
@@ -97,7 +97,7 @@ It is easy to see how these domestic animals would overshadow all others in impo
 
 
 
-## 6. Other animals.
+## 06. Other animals.
 
 
 
@@ -109,7 +109,7 @@ In early Rome “The wolf was the animal most venerated. Its association with Ma
 
 
 
-## 7. Animals worshipped in India.
+## 07. Animals worshipped in India.
 
 
 
@@ -119,7 +119,7 @@ Finally, in India we have Hanumān, originally the deified ape, about whose iden
 
 
 
-## 8. The sacrificial meal.
+## 08. The sacrificial meal.
 
 
 
@@ -129,7 +129,7 @@ The original sacrifice was that in which the community of kinsmen ate together t
 
 
 
-## 9. Primitive basis of kinship.
+## 09. Primitive basis of kinship.
 
 
 

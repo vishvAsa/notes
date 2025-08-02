@@ -5,7 +5,7 @@ title = "Hatkar"
 
 
 
-## 1. Derivation and historical notice.
+## 01. Derivation and historical notice.
 
 
 
@@ -15,7 +15,7 @@ title = "Hatkar"
 
 
 
-## 2. The Gauli Hatkar’s reverence for cattle.
+## 02. The Gauli Hatkar’s reverence for cattle.
 
 
 
@@ -25,7 +25,7 @@ The Hatkars are also called Bangi Dhangars, and in Berār rank above other Dhang
 
 
 
-## 3. Funeral rites.
+## 03. Funeral rites.
 
 
 
@@ -35,7 +35,7 @@ Formerly the Hatkars burned the corpses only of men who died in battle or the ch
 
 
 
-## 4. Exogamous groups.
+## 04. Exogamous groups.
 
 
 

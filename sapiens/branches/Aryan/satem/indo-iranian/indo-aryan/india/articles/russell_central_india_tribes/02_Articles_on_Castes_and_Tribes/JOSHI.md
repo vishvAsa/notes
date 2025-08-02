@@ -29,7 +29,7 @@ title = "JOSHI"
 
 
 
-## 1. The village priest and astrologer.
+## 01. The village priest and astrologer.
 
 
 
@@ -41,7 +41,7 @@ The Bhadris are a class of Joshis who wander about and live by begging, telling 
 
 
 
-## 2. The apparent path of the sun. The ecliptic or zodiac.
+## 02. The apparent path of the sun. The ecliptic or zodiac.
 
 
 
@@ -59,7 +59,7 @@ Thus when the earth is at A in its orbit the sun will appear to be at M, and as 
 
 
 
-## 3. Inclination of the ecliptic to the equator.
+## 03. Inclination of the ecliptic to the equator.
 
 
 
@@ -71,7 +71,7 @@ If the earth’s axis were set vertically to the plane of its orbit round the su
 
 
 
-## 4. The orbits of the moon and planets.
+## 04. The orbits of the moon and planets.
 
 
 
@@ -81,7 +81,7 @@ All the planets move round the sun in orbits whose planes are slightly inclined 
 
 
 
-## 5. The signs of the zodiac.
+## 05. The signs of the zodiac.
 
 
 
@@ -97,7 +97,7 @@ The signs of the zodiac were nearly the same among the Greeks, Egyptians, Persia
 
 
 
-## 6. The Sankrānts.
+## 06. The Sankrānts.
 
 
 
@@ -107,7 +107,7 @@ The solar year begins with the entrance of the sun into Mesha or Aries.4 The day
 
 
 
-## 7. The *nakshatras* or constellations of the moon’s path.
+## 07. The *nakshatras* or constellations of the moon’s path.
 
 
 
@@ -119,7 +119,7 @@ The Sankrānts do not mark the commencement of the Hindu months, which are still
 
 
 
-## 8. The revolution of the moon.
+## 08. The revolution of the moon.
 
 
 
@@ -132,7 +132,7 @@ Fig. 2.—Revolution of the Moon round the Earth.
 
 
 
-## 9. The days of the week.
+## 09. The days of the week.
 
 
 

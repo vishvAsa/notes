@@ -5,7 +5,7 @@ title = "Injhwār"
 
 
 
-## 1. Origin of the caste.
+## 01. Origin of the caste.
 
 
 
@@ -15,7 +15,7 @@ title = "Injhwār"
 
 
 
-## 2. Subdivisions.
+## 02. Subdivisions.
 
 
 
@@ -25,7 +25,7 @@ The Injhwārs have four subcastes, three of the territorial and one of the occup
 
 
 
-## 3. Marriage and other customs.
+## 03. Marriage and other customs.
 
 
 
@@ -35,7 +35,7 @@ The social customs of the Injhwārs resemble those of the lower Marātha castes.
 
 
 
-## 4. Occupation and social status.
+## 04. Occupation and social status.
 
 
 

@@ -4,7 +4,7 @@ title = "Prabhu"
 +++
 
 
-## 1. Historical notice
+## 01. Historical notice
 
 **Prabhu, Parbhu.**—The Marātha caste of clerks, accountants and patwāris corresponding to the Kāyasths. They numbered about 1400 persons in the southern Districts of the Central Provinces and Berār in 1911. The Prabhus, like the Kāyasths, claim to be descendants of a child of Chandra Sena, a Kshatriya king and himself a son of Arjun, one of the five Pāndava brothers. Chandra Sena was slain by Parasurāma, the Brāhman destroyer of the Kshatriyas, but the child was saved by a Rishi, who promised that he should be brought up as a clerk. The boy was named Somrāj and was married to the daughter of Chitra Gupta, the recorder of the dead. The caste thus claim Kshatriya origin. The name Prabhu signifies ‘lord,’ but the Brāhmans pretend that the real name of the caste was Parbhu, meaning one of irregular birth. The Prabhus say that Parbhu is a colloquial corruption used by the uneducated. The *gotras* of the Prabhus are eponymous, the names being the same as those of Brāhmans. In the Central Provinces many of them have the surname of Chitnavīs or Secretary. Child-marriage is in vogue and widow-remarriage is forbidden. The wedding ceremony resembles that of the Brāhmans. 
 
@@ -29,7 +29,7 @@ Gujarati girls doing figures with strings and sticks
 
 
 
-## 2. General Customs
+## 02. General Customs
 
 The Prabhus wear the sacred thread. In Bombay boys receive it a short time before their marriage without the ceremonies which form part of the regular Brāhman investiture. On the fifth day after the birth of a child, the sword and also pens, paper and ink are worshipped, the sword being the symbol of their Kshatriya origin and the pens, paper and ink of their present occupation of clerks.4 The funeral ceremonies, Mr. Enthoven writes, are performed during the first thirteen days after death. Oblations of rice are offered every day, in consequence of which the soul of the dead attains a spiritual body, limb by limb, till on the thirteenth day it is enabled to start on its journey. In twelve months the journey ends, and a *shrāddh* ceremony is performed on an extensive scale on the anniversary of the death. Most of the Prabhus are in Government service and others are landowners. In the Bombay Presidency5 they had at first almost a monopoly of Government service as English writers, and the term Prabhu was commonly employed to denote a clerk of any caste who could write English. Both men and women of the caste are generally of a fair complexion, resembling the Marātha Brāhmans. The taste of the women in dress is proverbial, and when a Sunār, Sutār or Kasār woman has dressed herself in her best for some family festival, she will ask her friends, ‘*Prabhuin disto*,’ or ‘Do I look like a Prabhu?’ 
 

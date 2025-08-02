@@ -16,7 +16,7 @@ title = "Gadaria"
 
 
 
-## 1. General notice.
+## 01. General notice.
 
 
 
@@ -26,7 +26,7 @@ title = "Gadaria"
 
 
 
-## 2. Subdivisions.
+## 02. Subdivisions.
 
 
 
@@ -38,7 +38,7 @@ Another more ambitious legend derives their origin from the Bania caste. They sa
 
 
 
-## 3. Marriage customs.
+## 03. Marriage customs.
 
 
 
@@ -48,7 +48,7 @@ Marriage within the clan is forbidden and also the union of first cousins. Girls
 
 
 
-## 4. Religion and funeral rites.
+## 04. Religion and funeral rites.
 
 
 
@@ -58,7 +58,7 @@ The Gadarias worship the ordinary Hindu deities and also Dishai Devi, the goddes
 
 
 
-## 5. Social customs.
+## 05. Social customs.
 
 
 
@@ -68,7 +68,7 @@ Well-to-do members of the caste employ Brāhmans for ceremonial purposes, but ot
 
 
 
-## 6. Goats and sheep.
+## 06. Goats and sheep.
 
 
 
@@ -94,7 +94,7 @@ or ‘The Ahīr, the Gadaria and the Gūjar want waste land,’ that is for graz
 
 
 
-## 7. Blanket-weaving.
+## 07. Blanket-weaving.
 
 
 
@@ -106,7 +106,7 @@ While ordinary cultivators have now taken to keeping goats, sheep are still as a
 
 
 
-## 8. Sanctity of wool.
+## 08. Sanctity of wool.
 
 
 

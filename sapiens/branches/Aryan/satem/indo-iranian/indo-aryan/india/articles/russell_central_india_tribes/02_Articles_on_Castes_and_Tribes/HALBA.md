@@ -29,7 +29,7 @@ title = "HALBA"
 
 
 
-## 1. Traditions of the caste.
+## 01. Traditions of the caste.
 
 
 
@@ -46,7 +46,7 @@ Ploughing with cows and buffaloes in Chhattīsgarh
 
 
 
-## 2. Halba landowners in Bastar and Bhandāra.
+## 02. Halba landowners in Bastar and Bhandāra.
 
 
 
@@ -56,7 +56,7 @@ Thus the Halbas occupy a comparatively honourable position in Bastar. They are t
 
 
 
-## 3. Internal structure: subcastes.
+## 03. Internal structure: subcastes.
 
 
 
@@ -66,7 +66,7 @@ The caste have local divisions known as Bastarha, Chhattīsgarhia and Marethia, 
 
 
 
-## 4. Exogamous sections.
+## 04. Exogamous sections.
 
 
 
@@ -76,7 +76,7 @@ The exogamous sections of the caste afford further evidence of their mixed origi
 
 
 
-## 5. Theory of the origin of the caste.
+## 05. Theory of the origin of the caste.
 
 
 
@@ -86,7 +86,7 @@ In view of the information available the most probable theory of the origin of t
 
 
 
-## 6. Marriage.
+## 06. Marriage.
 
 
 
@@ -96,7 +96,7 @@ Girls are not usually married until they are above ten years old, or nearly adul
 
 
 
-## 7. Importance of the sister’s son.
+## 07. Importance of the sister’s son.
 
 
 
@@ -106,7 +106,7 @@ A match which is commonly arranged where practicable is that of a brother’s da
 
 
 
-## 8. The wedding ceremony.
+## 08. The wedding ceremony.
 
 
 
@@ -118,7 +118,7 @@ The Halbas, like the other lower castes of Chhattīsgarh, have two forms of wedd
 
 
 
-## 9. Going-away ceremony.
+## 09. Going-away ceremony.
 
 
 

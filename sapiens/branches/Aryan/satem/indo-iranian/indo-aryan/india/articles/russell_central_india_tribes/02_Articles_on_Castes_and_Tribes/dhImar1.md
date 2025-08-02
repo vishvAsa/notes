@@ -20,7 +20,7 @@ title = "Dhīmar**1**"
 + 13. Legend of the caste. 
 
 
-## 1. General notice.
+## 01. General notice.
 
 **Dhīmar, Kahār, Bhoi, Pālewār, Baraua, Machhandar.**—The caste of fishermen and palanquin-bearers. In 1911 the Dhīmars numbered 284,000 persons in the Central Provinces and Berār, being most numerous in the Marātha Districts. In the north of the Province we find in place of the Dhīmars the Kahārs and Mullāhs, and in the east or Chhattīsgarh country the Kewats. But the distinction between these castes is no more than nominal, for in some localities both Kahār and Kewat are returned as subcastes of Dhīmar. In some parts of India the Bhois and Dhīmars are considered as separate castes, but in the Central Provinces they are not to be distinguished, both names being applied indiscriminately to the same persons. The name of Bhoi perhaps belongs more particularly to those who carry litters or palanquins, and that of Dhīmar to the fishermen. The word Dhīmar is a corruption of the Sanskrit Dhīvara, a fisherman. Bhoi is a South Indian word \(Telugu and Malayalam *boyi*, Tamil *bovi*\), and in the Konkan people of this class are known as Kahār Bhui. Among the Gonds Bhoi is considered as an honorific name or title; and this indicates that a large number of Gonds have become enrolled in the Dhīmar or Kahār caste, and consider it a rise in status. Pālewār is the name of the Telugu fishermen of Chānda. Machhandar signifies one who catches fish. 
 
@@ -31,25 +31,25 @@ Dhīmar or fisherman’s hut.
 
 
 
-## 2. Subcastes.
+## 02. Subcastes.
 
 The caste has a large number of subdivisions of a local or occupational nature; among occupational names may be mentioned the Singaria or those who cultivate the *singāra* nut, the Nadha or those who live on the banks of streams, the Tānkiwālas or sharpeners of grindstones, the Jhīngas or prawn-catchers, the Bansias and Saraias or anglers \(from *bansi* or *sarai*, a bamboo fishing-rod\), the Bandhaiyas or those who make ropes and sacking of hemp and fibre, and the Dhurias who sell parched rice. These last say that their original ancestors were created by Mahādeo out of a handful of dust \(*dhūr*\) for carrying the palanquin of Pārvati when she was tired. They are probably the same people as the Dhuris who also parch grain, and in Chhattīsgarh are considered as a separate caste. Similarly the Sonjhara Dhīmars wash for gold, the calling of the separate Sonjhara caste. The Kasdhonia Dhīmars wash the sands of the sacred rivers to find the coins which pious pilgrims frequently drop or throw into the river as an offering when they bathe in it. The Gondia subcaste is clearly an offshoot from the Gond tribe, but a large proportion of the whole caste in the Central Provinces is probably derived from the Gonds or Kols, members of this latter tribe being especially proficient as palanquin-bearers. The Suvarha subcaste is named after the *suar* or pig, because members of this subcaste breed and eat the unclean animal; they are looked down on by the others. Similarly the Gadhewāle Dhīmars keep donkeys, and are despised by the other subcastes who will not take food from them. They use donkeys for carrying loads of wood, and the bridegroom rides to his wedding on this animal; and among them a donkey is the only animal the corpse of which can be touched without conveying pollution. The Bhanāre Dhīmars appear to be named after the town of Bhandāra. 
 
 
 
-## 3. Exogamous groups.
+## 03. Exogamous groups.
 
 A large number of exogamous groups are also returned, either of a titular or totemistic nature: such are Bāghmār, a tiger-slayer; Ojhwa, from Ojha, or sorcerer; Guru pahchān, one who knows his teacher; Midoia, a guardian of boundaries, from *med*, a boundary or border; Gidhwe, a vulture; Kolhe, or jackal; Gadhekhāya, a donkey-eater; and Kastūre, musk; a few names are from towns or villages, as Tumsare from Tumsar, Nāgpurkar from Nāgpur; and a few from other castes as Mādgi, Bhoyar, Pindāria from Pindāri, a freebooter; Gondia \(Gond\) and Gondhali; and Kachhwāha, a sept of Rājpūts. 
 
 
 
-## 4. Marriage.
+## 04. Marriage.
 
 Marriage is prohibited between members of the same sept and also between first cousins. In many localities families do not intermarry so long as they remember any relationship to have existed between them. In Mandla, Mr. Govind Moreshwar states, the Nadha and Kehera subcastes do not intermarry; but if a man desires a girl of the other subcaste he can be admitted into it on giving a feast to the caste-fellows according to his means, and thus marry her. Two families may exchange daughters in marriage. A maiden who goes wrong with a man of the caste or of any higher caste may be readmitted to the community under penalty of a feast to the caste and of having a lock of her hair cut off. In the Hindustāni Districts women do not accompany the marriage procession, but in the Marātha Districts they do. Among the Bhanāra Dhīmars of Chānda the wedding may be held either at the bride’s or the bridegroom’s house. In the former case a bride-price of Rs. 16 is paid, and in the latter one of Rs. 20, because the expenses of the bride’s family are increased if the wedding is held at her house. A custom exists among the poorer Dhīmars in Chānda of postponing the marriage ceremony to avoid expense; a man will thus simply take a girl for his wife, making a payment of Rs. 1–4 or twenty pence to her father and giving a feast to the community. She will then live in his house as his wife, and at some subsequent date, perhaps in old age, the religious ceremony will be held so that the couple may have been properly married before they die. In this fashion the weddings of grandparents, parents and children have all been celebrated simultaneously. The Singaria Dhīmars of Chhindwāra grow *singāra* or water-nut in tanks, and at their weddings a crocodile must be killed and eaten. The Sonjharas or gold-washers must also have a crocodile, but they keep it alive and worship it, and when the ceremony is concluded let it go back again to the river. It is natural that castes whose avocations are connected with rivers and tanks should in a manner deify the most prominent or most ferocious animal contained in their waters. And the ceremonial eating of a sacred animal has been recorded among divers peoples all over the world. At a Dhīmar marriage in Bhandāra a net is given to the bridegroom, and *sidori* or cooked food, tied in a piece of cloth, to the bride, and they walk out together as if going to a river to fish, but the bride’s brother comes up and stops them. After a wedding in Mandla they kill a pig and bury it before the door of the bridegroom’s house, covering it with earth, and the bride and bridegroom step over its body into the house. Widow-marriage is freely permitted; in Mandla the marriage of a widow may be held on the night of any day except Sunday, Tuesday and Saturday. Divorce is allowed, but is of rare occurrence. Adultery on the part of a wife will be frequently overlooked, and the extreme step of divorcing her is only taken if she creates a public scandal. In such a case the parties appear before a meeting of the caste, and the headman asks them whether they have determined to separate. He then breaks a straw in token of the disruption of the union, and the husband and wife must pronounce each other’s names in an audible voice.2 A fee of Rs. 1–4 is paid to the headman, and the divorce is completed.3 In some localities the woman’s bangles are also broken. In Jhānsi the fine for keeping a widow is ten rupees and for living with the wife of another man sixty rupees. 
 
 
 
-## 5. Childbirth
+## 05. Childbirth
 
 Children are named either on the day of birth or the twelfth day afterwards. The women place the child in a cradle, spreading boiled wheat and gram over its body, and after swinging it to and fro the name is given. Sweets or boiled wheat and gram are distributed to those present. In Berār on the third day after a birth cakes of juāri flour and buttermilk are distributed to other children; on the fifth day the slab and roller used for grinding the household corn are washed, anointed and worshipped; on the twelfth day the child is named and shortly after this its head is shaved.4 
 
@@ -60,19 +60,19 @@ Fishermen in dug-outs or hollowed tree trunks.
 
 
 
-## 6. Disposal of the dead.
+## 06. Disposal of the dead.
 
 The bodies of the dead are usually buried, cremation being beyond the means of Dhīmars. Children whose ears have not been pierced are mourned only for one day, and others for ten days. When a body has been burnt the ashes are consigned to a tank or river on the third day, or if the third day be a Sunday or a Wednesday, then on the fifth day. In Berār, Mr. Kitts remarks,5 the funeral ceremony of the Dhīmars resembles that of the Gonds. After a burial the mourners repair to the deceased’s house to drink; and subsequently each fetches his own dinner and dines with the chief mourner. At this time he and his family are impure and the others cannot take food prepared by him; but ten days afterwards when the mourning is over and the chief mourner has bathed and shaved they again dine with him, and on the next day the caste is feasted. During the period of mourning a lighted lamp is daily placed outside the house. When the period of mourning expires all the clothes of the family are washed and their house is newly whitewashed. There is no subsequent annual performance of funeral rites as among the higher Hindus; but at the Akshayatritiya or commencement of the agricultural year the head of the household throws at each meal a little food into the fire, in honour of his dead ancestors. 
 
 
 
-## 7. Religion.
+## 07. Religion.
 
 One of the principal deities of the Dhīmars6 as of other low castes is Dulha Deo, the deified bridegroom. They fashion his image of *kadamb*7 wood and besmear it with red lead. In Berār they also pray to Anna Pūrna, the Corn-giving goddess of Madras corresponding to Durga or Devi, whose form with that of her horse is engraved on a brass plate and anointed with yellow and red turmeric. When about to enter a river or tank for fishing or other purposes they pray to the water-god to save them from being drowned or molested by its denizens. They address a river as Ganga Mai or ‘Mother Ganges’ in order to propitiate it by this flattery. Those who are employed on ferry-boats especially venerate Ghatoia8 Deo, the god of ferries and river-crossings. His shrine is near the place where the boats are tied up, and ferry contractors keep a live chicken in their boat to be offered to Ghatoia on the first occasion when the river is sufficiently in flood to be crossed by ferry after the breaking of the rains. Other local godlings are the Bare Purakh or Great men, a collective term for their deceased ancestors, of whom they make silver images; Parihār, the soul of the village priest; Baram Deo, the spirit of the banyan tree; and Gosain Deo, a deified ascetic. To the goddess Devi they offer a black she-goat which is eaten ceremonially, and when they have finished, the bones, skin and all the other remains of the animal are placed in a pit inside the house. If anything should fall into this pit it must be buried with the remains of the offering and not taken out. And they relate that on one occasion a child fell into the pit, and the parents, setting obedience to the law of the goddess above the life of their child, buried it alive. But next year when the sacrifice was again made and the pit was opened, the child was found in it alive and playing. So they say that the goddess will save the life of any one who is buried in the pit with her offering. When a widower marries a second time his wife sometimes wears a *tāwiz* or amulet in the shape of a silver box containing charms round her neck in order to ward off the evil machinations of her predecessor’s spirit. 
 
 
 
-## 8. Occupation: fisherman.
+## 08. Occupation: fisherman.
 
 The occupations of the Dhīmar are many and various. He is primarily a fisherman and boatman, and has various kinds of nets for taking fish. One of these is of triangular shape about 150 feet wide at the base and 80 feet in height to the apex. The meshes vary from an inch wide at the top to three inches at the bottom. The ends of the base are weighted with stones and the net is then sunk into a river so that the base rests on its bed and the top is held by men in boats at the surface. Then other Dhīmars beat the surface of the water for some distance with long bamboos on both sides of the net, driving the fish towards it. They call this a *kheda*, the term used for a beat of the forest for game. 
 
@@ -80,7 +80,7 @@ Another method is to stretch a long rope or cord across the river, secured on ei
 
 
 
-## 9. Water-carrier.
+## 09. Water-carrier.
 
 The Dhīmar’s connection with water has led to his becoming the water-carrier for Hindus, or that section of the community which can afford to employ one. This is more especially the case in the Hindustāni Districts where women are frequently secluded and therefore cannot draw water for the household, while in the Marātha Districts where the women go to the well no water-bearer is required. In this capacity the Dhīmar is usually the personal servant of the village proprietor, but in large villages every house has a *ghinochi*, either an earthen platform or wooden stand just outside the house, on which four or five earthen water-pots are kept. These the Dhīmar fills up morning and evening and receives two or three annas or pence a month for doing so. He also brings water for Government servants when they come to the village, and cleans their cooking-vessels and prepares the hearth with fresh cowdung and water in order to cleanse it. 
 

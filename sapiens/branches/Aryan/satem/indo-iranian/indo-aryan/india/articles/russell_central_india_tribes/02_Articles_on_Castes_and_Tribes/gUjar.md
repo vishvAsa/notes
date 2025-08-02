@@ -16,7 +16,7 @@ title = "GŪJAR"
 
 
 
-## 1. Historical notice of the caste.
+## 01. Historical notice of the caste.
 
 
 
@@ -29,7 +29,7 @@ Gūjar village proprietress and her land agent
 
 
 
-## 2. The Gūjars and the Khazars.
+## 02. The Gūjars and the Khazars.
 
 
 
@@ -41,7 +41,7 @@ Sir J. Campbell identified the Gūjars with the Khazar tribe of Central Asia:3 �
 
 
 
-## 3. Predatory character of the Gūjars in northern India.
+## 03. Predatory character of the Gūjars in northern India.
 
 
 
@@ -59,7 +59,7 @@ or, ‘The Ahīr, Gadaria and Gūjar want waste land’; that is for grazing the
 
 
 
-## 4. Subdivisions.
+## 04. Subdivisions.
 
 
 
@@ -69,7 +69,7 @@ The Gūjars of the Central Provinces have, however, entirely given up the predat
 
 
 
-## 5. Marriage.
+## 05. Marriage.
 
 
 
@@ -79,7 +79,7 @@ At a Gūjar wedding four plough-yokes are laid out to form a square under the ma
 
 
 
-## 6. Disposal of the dead.
+## 06. Disposal of the dead.
 
 
 
@@ -89,7 +89,7 @@ The bodies of unmarried persons are buried, and also of those who die of any epi
 
 
 
-## 7. Religion.
+## 07. Religion.
 
 
 
@@ -99,7 +99,7 @@ The household goddess of the caste is known as Kul Devi, the word *kul* meaning 
 
 
 
-## 8. Character.
+## 08. Character.
 
 
 

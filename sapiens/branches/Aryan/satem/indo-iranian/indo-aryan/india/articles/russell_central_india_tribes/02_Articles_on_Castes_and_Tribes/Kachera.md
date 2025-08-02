@@ -5,7 +5,7 @@ title = "Kachera"
 
 
 
-## 1. Origin of the caste.
+## 01. Origin of the caste.
 
 
 
@@ -15,7 +15,7 @@ title = "Kachera"
 
 
 
-## 2. Exogamous groups.
+## 02. Exogamous groups.
 
 
 
@@ -25,7 +25,7 @@ The exogamous sections of the Kacheras show that the caste is of very mixed orig
 
 
 
-## 3. Social customs.
+## 03. Social customs.
 
 
 
@@ -35,7 +35,7 @@ The exogamous sections are known as *baink*. The marriage of persons belonging t
 
 
 
-## 4. Occupation.
+## 04. Occupation.
 
 
 

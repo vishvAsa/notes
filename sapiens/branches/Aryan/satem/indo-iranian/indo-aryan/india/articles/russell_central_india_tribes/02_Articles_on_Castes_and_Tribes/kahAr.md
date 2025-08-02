@@ -5,7 +5,7 @@ title = "Kahār"
 
 
 
-## 1. Origin and statistics.
+## 01. Origin and statistics.
 
 
 
@@ -15,7 +15,7 @@ title = "Kahār"
 
 
 
-## 2. The *doli* or palanquin.
+## 02. The *doli* or palanquin.
 
 
 
@@ -27,7 +27,7 @@ As a means of conveyance the litter would be held sacred by primitive people, an
 
 
 
-## 3. Female bearers.
+## 03. Female bearers.
 
 
 
@@ -37,7 +37,7 @@ At royal courts women were employed to carry the litters of the king and the roy
 
 
 
-## 4. Indoor servants.
+## 04. Indoor servants.
 
 
 

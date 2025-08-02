@@ -22,7 +22,7 @@ title = "KHARIA"
 
 
 
-## 1. General notice.
+## 01. General notice.
 
 
 
@@ -32,7 +32,7 @@ title = "KHARIA"
 
 
 
-## 2. Legend of origin.
+## 02. Legend of origin.
 
 
 
@@ -42,7 +42,7 @@ The Kharia legend of origin resembles that of the Mundas, and tends to show that
 
 
 
-## 3. Subcastes.
+## 03. Subcastes.
 
 
 
@@ -52,7 +52,7 @@ In Raigarh the Kharias have only two subtribes, the Dūdh, or milk Kharias, and 
 
 
 
-## 4. Exogamy and totemism.
+## 04. Exogamy and totemism.
 
 
 
@@ -62,7 +62,7 @@ The tribe is divided, like others, into totemistic exogamous septs, which pay re
 
 
 
-## 5. Marriage.
+## 05. Marriage.
 
 
 
@@ -72,7 +72,7 @@ Marriage between members of the same sept is forbidden, but the rule is not alwa
 
 
 
-## 6. Taboos as to food.
+## 06. Taboos as to food.
 
 
 
@@ -82,7 +82,7 @@ After a girl is married her own mother will not eat food cooked by her, as no tw
 
 
 
-## 7. Widow-marriage and divorce.
+## 07. Widow-marriage and divorce.
 
 
 
@@ -92,7 +92,7 @@ Widow-marriage is permitted at the price of a feast to the caste, and the paymen
 
 
 
-## 8. Religion.
+## 08. Religion.
 
 
 
@@ -102,7 +102,7 @@ The principal deity of the Kharias is a hero called Banda. They say that an Orao
 
 
 
-## 9. Funeral rites.
+## 09. Funeral rites.
 
 
 

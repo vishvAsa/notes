@@ -16,7 +16,7 @@ title = "GURAO"
 
 
 
-## 1. Origin of the caste.
+## 01. Origin of the caste.
 
 
 
@@ -32,7 +32,7 @@ It is related that a certain Brāhman, who was a votary of Siva, had to go on a 
 
 
 
-## 2. Internal structure.
+## 02. Internal structure.
 
 
 
@@ -42,7 +42,7 @@ The caste has several subdivisions which are principally of a territorial nature
 
 
 
-## 3. Marriage and ceremonies of adolescence.
+## 03. Marriage and ceremonies of adolescence.
 
 
 
@@ -52,7 +52,7 @@ Marriage is avoided between persons having the same surname and those within six
 
 
 
-## 4. Birth customs.
+## 04. Birth customs.
 
 
 
@@ -62,7 +62,7 @@ If a child is born at an unlucky season, they take two winnowing-fans and tie th
 
 
 
-## 5. The sacred thread.
+## 05. The sacred thread.
 
 
 
@@ -75,7 +75,7 @@ Group of Gurao musicians with their instruments
 
 
 
-## 6. Funeral customs.
+## 06. Funeral customs.
 
 
 
@@ -85,7 +85,7 @@ The dead are burnt and the ashes thrown into water or carried to the Ganges. A s
 
 
 
-## 7. Social position.
+## 07. Social position.
 
 
 
@@ -95,7 +95,7 @@ The caste has now a fairly high social status and ranks above the Kunbis. They a
 
 
 
-## 8. The Jain Guraos.
+## 08. The Jain Guraos.
 
 
 

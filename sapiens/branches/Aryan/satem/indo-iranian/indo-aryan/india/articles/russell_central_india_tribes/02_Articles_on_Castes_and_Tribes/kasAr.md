@@ -5,7 +5,7 @@ title = "Kasār"
 
 
 
-## 1. Distribution and origin of the caste.
+## 01. Distribution and origin of the caste.
 
 
 
@@ -23,7 +23,7 @@ According to a legend given by Mr. Sadāsheo Jairām they trace their origin fro
 
 
 
-## 2. Internal structure.
+## 02. Internal structure.
 
 
 
@@ -33,7 +33,7 @@ The caste have a number of subdivisions, mainly of a territorial nature. Among t
 
 
 
-## 3. Social customs.
+## 03. Social customs.
 
 
 
@@ -43,7 +43,7 @@ The marriages of first cousins are generally forbidden, as well as of members of
 
 
 
-## 4. Occupation.
+## 04. Occupation.
 
 
 

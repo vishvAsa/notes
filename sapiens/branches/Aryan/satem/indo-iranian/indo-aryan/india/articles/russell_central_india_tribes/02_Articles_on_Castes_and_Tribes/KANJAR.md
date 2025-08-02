@@ -21,7 +21,7 @@ title = "KANJAR"
 
 
 
-## 1. Derivation of the Kanjars from the Doms.
+## 01. Derivation of the Kanjars from the Doms.
 
 
 
@@ -34,7 +34,7 @@ Kanjars making ropes
 
 
 
-## 2. The Kanjars and the Gipsies.
+## 02. The Kanjars and the Gipsies.
 
 
 
@@ -68,7 +68,7 @@ The above argument renders it probable that the gipsies are derived from the Dom
 
 
 
-## 3. The Thugs derived from the Kanjars.
+## 03. The Thugs derived from the Kanjars.
 
 
 
@@ -78,7 +78,7 @@ In the article on Thug it is suggested that a large, if not the principal, secti
 
 
 
-## 4. The Doms.
+## 04. The Doms.
 
 
 
@@ -88,7 +88,7 @@ The Doms appear to be one of the chief aboriginal tribes of northern India, who 
 
 
 
-## 5. The criminal Kanjars.
+## 05. The criminal Kanjars.
 
 
 
@@ -98,7 +98,7 @@ In Berār two main divisions of the Kanjars may be recognised, the Kūnchbandhia
 
 
 
-## 6. The Kūnchband Kanjars.
+## 06. The Kūnchband Kanjars.
 
 
 
@@ -108,7 +108,7 @@ We come, finally, to the Kūnchband Kanjars, the most representative section of 
 
 
 
-## 7. Marriage and religion.
+## 07. Marriage and religion.
 
 
 
@@ -118,7 +118,7 @@ In the Central Provinces there are other divisions, as the Jāt and Multāni Kan
 
 
 
-## 8. Social customs.
+## 08. Social customs.
 
 
 
@@ -128,7 +128,7 @@ The dead are usually buried, both male and female corpses being laid on their fa
 
 
 
-## 9. Industrial arts.
+## 09. Industrial arts.
 
 
 

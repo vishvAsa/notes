@@ -4,13 +4,13 @@ title = "Fakīr"
 +++
 
 
-## 1. General notice.
+## 01. General notice.
 
 **Fakīr.**1—The class of Muhammadan beggars. In the Central Provinces the name is practically confined to Muhammadans, but in Upper India Hindus also use it. Nearly 9000 Fakīrs were returned in 1911, being residents mainly of Districts with large towns, as Jubbulpore, Nāgpur and Amraoti. Nearly two-fifths of the Muhammadans of the Central Provinces live in towns, and Muhammadan beggars would naturally congregate there also. The name is derived from the Arabic *fakr*, poverty. The Fakīrs are often known as Shāh, Lord, or Sain, a corruption of the Sanskrit Swāmi, master. Muhammad did not recognise religious ascetism, and expressly discouraged it. But even during his lifetime his companions Abu Bakr and Ali established religious orders with Zikrs or special exercises, and all Muhammadan Fakīrs trace their origin to Abu Bakr or Ali subsequently the first and fourth Caliphs.2 The Fakīrs are divided into two classes, the Ba Shara or those who live according to the rules of Islam and marry; and the Be Shara or those without the law. These latter have no wives or homes; they drink intoxicating liquor, and neither fast, pray nor rule their passions. But several of the orders contain both married and celibate groups. 
 
 
 
-## 2. Principal orders.
+## 02. Principal orders.
 
 The principal classes of Fakīrs in the Central Provinces are the Madari, Gurujwāle or Rafai, Jalāli, Mewāti, Sada Sohāgal and Nakshbandia. All of these except the Nakshbandia are nominally at least Be Shara, or without the law, and celibate. 
 
@@ -38,7 +38,7 @@ The different orders of Fakīrs are not strictly endogamous, and marriages can t
 
 
 
-## 3. Rules and customs.
+## 03. Rules and customs.
 
 Every Fakīr must have a Murshid or preceptor, and be initiated by him. This applies also to boys born in the order, and a father cannot initiate his son. The rite is usually simple, the novice having to drink sherbet from the same cup as his preceptor and make him a present of Rs. 1–4; but some orders insist that the whole body of a novice should be shaved clean of hair before he is initiated. The principal religious exercise of Fakīrs is known as Zikr, and consists in the continual repetition of the names of God by various methods, it being supposed that they can draw the name from different parts of the body. The exercise is so exhausting that they frequently faint under it, and is varied by repetition of certain chapters of the Korān. The Fakīr has a *tasbīh* or rosary, often consisting of ninety-nine beads, on which he repeats the ninety-nine names of God. The Fakīrs beg both from Hindus and Muhammadans, and are sometimes troublesome and importunate, inflicting wounds on themselves as a means of extorting alms. One beggar in Saugor said that he would give every one who gave him alms five strokes with his whip, and attracted considerable custom by this novel expedient. Some of them are in charge of Muhammadan cemeteries and receive fees for a burial, while others live at the tombs of saints. They keep the tomb in good repair, cover it with a green cloth and keep a lighted lamp on it, and appropriate the offerings made by visitors. Owing to their solitude and continuous repetition of prayers many Fakīrs fall into a distraught condition, when they are known as *mast*, and are believed to be possessed of a spirit. At such a time the people attach the greatest importance to any utterances which fall from the Fakīr’s lips, believing that he has the gift of prophecy, and follow him about with presents to induce him to make some utterance. 
 

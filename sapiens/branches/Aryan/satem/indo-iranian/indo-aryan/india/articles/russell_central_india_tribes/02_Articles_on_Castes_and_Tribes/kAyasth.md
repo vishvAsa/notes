@@ -23,7 +23,7 @@ title = "KĀYASTH"
 
 
 
-## 1. General notice and legend of origin.
+## 01. General notice and legend of origin.
 
 
 
@@ -33,7 +33,7 @@ title = "KĀYASTH"
 
 
 
-## 2. The origin of the caste.
+## 02. The origin of the caste.
 
 
 
@@ -43,7 +43,7 @@ There has been much discussion on the origin of the Kāyasth caste, which now oc
 
 
 
-## 3. The rise of the Kāyasths under foreign rulers.
+## 03. The rise of the Kāyasths under foreign rulers.
 
 
 
@@ -55,7 +55,7 @@ Finally in the English administration the Kāyasths at first monopolised the min
 
 
 
-## 4. The original profession of the Kāyasths.
+## 04. The original profession of the Kāyasths.
 
 
 
@@ -67,7 +67,7 @@ Similarly Mr. Crooke states that while the higher members of the caste stand wel
 
 
 
-## 5. The caste an offshoot from Brāhmans.
+## 05. The caste an offshoot from Brāhmans.
 
 
 
@@ -79,7 +79,7 @@ Further, the Dakshina Rārhi Kāyasths affect the greatest veneration for the Br
 
 
 
-## 6. The success of the Kāyasths and their present position.
+## 06. The success of the Kāyasths and their present position.
 
 
 
@@ -89,7 +89,7 @@ It may be hoped that the leading members of the Kāyasth caste will not take off
 
 
 
-## 7. Subcastes.
+## 07. Subcastes.
 
 
 
@@ -136,7 +136,7 @@ The northern India Kāyasths are divided into the following twelve subcastes, wh
 
 
 
-## 8. Exogamy.
+## 08. Exogamy.
 
 
 
@@ -146,7 +146,7 @@ Educated Kāyasths now follow the standard rule of exogamy, which prohibits marr
 
 
 
-## 9. Marriage customs.
+## 09. Marriage customs.
 
 
 

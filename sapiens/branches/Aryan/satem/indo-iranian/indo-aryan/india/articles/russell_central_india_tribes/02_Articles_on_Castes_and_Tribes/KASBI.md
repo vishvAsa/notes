@@ -16,7 +16,7 @@ title = "KASBI"
 
 
 
-## 1. General notice.
+## 01. General notice.
 
 
 
@@ -29,7 +29,7 @@ Dancing girls and musicians
 
 
 
-## 2. Girls dedicated to temples.
+## 02. Girls dedicated to temples.
 
 
 
@@ -41,7 +41,7 @@ The dedication of girls to temples and religious prostitution was by no means co
 
 
 
-## 3. Music and dancing.
+## 03. Music and dancing.
 
 
 
@@ -51,7 +51,7 @@ Both music and dancing, like others of the arts, probably originated as part of 
 
 
 
-## 4. Education of courtesans.
+## 04. Education of courtesans.
 
 
 
@@ -67,7 +67,7 @@ The association of all feminine charms and intellectual attainments with public 
 
 
 
-## 5. Caste customs.
+## 05. Caste customs.
 
 
 
@@ -77,7 +77,7 @@ Among the better class of Kasbis a certain caste feeling and organisation exists
 
 
 
-## 6. First pregnancy.
+## 06. First pregnancy.
 
 
 
@@ -87,7 +87,7 @@ In the fifth or seventh month of the first pregnancy of a Kasbi woman 108 fried 
 
 
 
-## 7. Different classes of women.
+## 07. Different classes of women.
 
 
 
@@ -101,7 +101,7 @@ In large towns prostitutes belong to all castes. An old list obtained by Rai Bah
 
 
 
-## 8. Dancing and singing.
+## 08. Dancing and singing.
 
 
 

@@ -19,7 +19,7 @@ title = "KORWA"
 
 
 
-## 1. General notice.
+## 01. General notice.
 
 
 
@@ -31,7 +31,7 @@ title = "KORWA"
 
 
 
-## 2. Physical appearance.
+## 02. Physical appearance.
 
 
 
@@ -49,7 +49,7 @@ It is noticeable that the Korwas have a subtribe called Korāku, and like the Ko
 
 
 
-## 3. Subdivisions.
+## 03. Subdivisions.
 
 
 
@@ -59,7 +59,7 @@ The principal subdivisions of the tribe are the Diharia or Kisān Korwas, those 
 
 
 
-## 4. Marriage customs.
+## 04. Marriage customs.
 
 
 
@@ -69,7 +69,7 @@ Marriage within the sept is forbidden, but this appears to be the only restricti
 
 
 
-## 5. Funeral rites.
+## 05. Funeral rites.
 
 
 
@@ -79,7 +79,7 @@ The tribe bury the dead, placing the corpse in the grave with the head to the so
 
 
 
-## 6. Religion.
+## 06. Religion.
 
 
 
@@ -89,7 +89,7 @@ The Korwas worship Dūlha Deo, the bridegroom god of the Gonds, and in Sargūja 
 
 
 
-## 7. Social customs.
+## 07. Social customs.
 
 
 
@@ -99,7 +99,7 @@ The Korwas do not admit outsiders into the tribe. They will take food from a Gon
 
 
 
-## 8. Dancing.
+## 08. Dancing.
 
 
 
@@ -111,7 +111,7 @@ They dance the *karma* dance in the autumn, thinking that it will procure them g
 
 
 
-## 9. Occupation.
+## 09. Occupation.
 
 
 

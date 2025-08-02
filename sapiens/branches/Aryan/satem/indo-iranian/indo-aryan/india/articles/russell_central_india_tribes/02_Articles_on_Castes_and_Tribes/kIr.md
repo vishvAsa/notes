@@ -5,7 +5,7 @@ title = "Kīr"
 
 
 
-## 1. Origin and Traditions.
+## 01. Origin and Traditions.
 
 
 
@@ -15,7 +15,7 @@ title = "Kīr"
 
 
 
-## 2. Marriage.
+## 02. Marriage.
 
 
 
@@ -25,7 +25,7 @@ The Kīrs have no endogamous divisions. For the purpose of marriage the caste is
 
 
 
-## 3. Religion.
+## 03. Religion.
 
 
 
@@ -35,7 +35,7 @@ The caste worships especially Bhairon and Devi, and each section of it reveres a
 
 
 
-## 4. Birth and death ceremonies.
+## 04. Birth and death ceremonies.
 
 
 
@@ -45,7 +45,7 @@ The Kīrs usually burn their dead, but children under twelve are buried. The ash
 
 
 
-## 5. Food, dress and occupation.
+## 05. Food, dress and occupation.
 
 
 

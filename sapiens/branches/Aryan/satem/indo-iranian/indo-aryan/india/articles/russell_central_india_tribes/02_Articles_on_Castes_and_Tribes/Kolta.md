@@ -5,7 +5,7 @@ title = "Kolta"
 
 
 
-## 1. Origin and traditions.
+## 01. Origin and traditions.
 
 
 
@@ -15,7 +15,7 @@ title = "Kolta"
 
 
 
-## 2. Exogamous groups.
+## 02. Exogamous groups.
 
 
 
@@ -25,7 +25,7 @@ The Koltas have both family names or *gotras* and exogamous sections or *bargas*
 
 
 
-## 3. Marriage
+## 03. Marriage
 
 
 
@@ -35,7 +35,7 @@ Girls should be wedded before maturity, as among most of the Uriya castes, and i
 
 
 
-## 4. Religion.
+## 04. Religion.
 
 
 
@@ -45,7 +45,7 @@ The caste worship the goddess Rāmchandi, whose principal shrine is at Sarsara i
 
 
 
-## 5. Occupation.
+## 05. Occupation.
 
 
 

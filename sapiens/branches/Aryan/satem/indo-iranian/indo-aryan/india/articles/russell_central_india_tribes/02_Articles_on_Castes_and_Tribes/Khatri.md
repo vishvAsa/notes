@@ -5,7 +5,7 @@ title = "Khatri"
 
 
 
-## 1. Rājpūt origin.
+## 01. Rājpūt origin.
 
 
 
@@ -17,7 +17,7 @@ The classical account of the Khatris is that given in Sir George Campbell’s *E
 
 
 
-## 2. Sir George Campbell’s account of the Khatris.
+## 02. Sir George Campbell’s account of the Khatris.
 
 
 
@@ -35,7 +35,7 @@ The classical account of the Khatris is that given in Sir George Campbell’s *E
 
 
 
-## 3. Higher and lower groups.
+## 03. Higher and lower groups.
 
 
 
@@ -45,7 +45,7 @@ The Khatris have a very complicated system of subdivisions, which it is not nece
 
 
 
-## 4. Marriage and funeral customs.
+## 04. Marriage and funeral customs.
 
 
 

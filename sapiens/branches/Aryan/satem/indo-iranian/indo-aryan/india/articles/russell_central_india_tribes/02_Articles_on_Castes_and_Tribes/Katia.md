@@ -5,7 +5,7 @@ title = "Katia"
 
 
 
-## 1. General notice.
+## 01. General notice.
 
 
 
@@ -15,7 +15,7 @@ title = "Katia"
 
 
 
-## 2. Subcastes and exogamous groups.
+## 02. Subcastes and exogamous groups.
 
 
 
@@ -25,7 +25,7 @@ The Katias have several subcastes, with names generally derived from places in t
 
 
 
-## 3. Marriage customs.
+## 03. Marriage customs.
 
 
 
@@ -35,7 +35,7 @@ A man must not take a wife from his own sept nor from that of his mother or gran
 
 
 
-## 4. Funeral rites.
+## 04. Funeral rites.
 
 
 
@@ -45,7 +45,7 @@ The dead may be either buried or burnt, as convenient, and mourning is always ob
 
 
 
-## 5. Social rules.
+## 05. Social rules.
 
 
 

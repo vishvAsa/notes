@@ -21,7 +21,7 @@ title = "KAMĀR1"
 
 
 
-## 1. Origin and traditions.
+## 01. Origin and traditions.
 
 
 
@@ -31,7 +31,7 @@ title = "KAMĀR1"
 
 
 
-## 2. Subdivisions and marriage.
+## 02. Subdivisions and marriage.
 
 
 
@@ -41,7 +41,7 @@ They have two subdivisions, the Bundhrajia and Mākadia. The latter are so calle
 
 
 
-## 3. The sister’s son.
+## 03. The sister’s son.
 
 
 
@@ -51,7 +51,7 @@ As among some of the other primitive tribes, a man stands in a special relation 
 
 
 
-## 4. Menstruation.
+## 04. Menstruation.
 
 
 
@@ -61,7 +61,7 @@ During the period of her monthly impurity a woman is secluded for eight days. Sh
 
 
 
-## 5. Birth customs.
+## 05. Birth customs.
 
 
 
@@ -71,7 +71,7 @@ A woman is impure for six days after a birth until the performance of the Chathi
 
 
 
-## 6. Death and inheritance.
+## 06. Death and inheritance.
 
 
 
@@ -81,7 +81,7 @@ The dead are buried with the head to the north, and mourning is nominally observ
 
 
 
-## 7. Religious beliefs.
+## 07. Religious beliefs.
 
 
 
@@ -91,7 +91,7 @@ They worship Dūlha Deo and Devi, and have a firm belief in magic. They tell a c
 
 
 
-## 8. Veneration of iron and liquor.
+## 08. Veneration of iron and liquor.
 
 
 
@@ -101,7 +101,7 @@ The tribe have a special veneration for iron, which they now say is the emblem o
 
 
 
-## 9. Social customs and caste penalties.
+## 09. Social customs and caste penalties.
 
 
 

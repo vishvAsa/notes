@@ -5,7 +5,7 @@ title = "Gānda"
 
 
 
-## 1. Distribution and origin.
+## 01. Distribution and origin.
 
 
 
@@ -15,7 +15,7 @@ title = "Gānda"
 
 
 
-## 2. Caste subdivisions.
+## 02. Caste subdivisions.
 
 
 
@@ -25,7 +25,7 @@ The subcastes reported differ entirely from those recorded in Orissa. In the Cen
 
 
 
-## 3. Marriage.
+## 03. Marriage.
 
 
 
@@ -35,7 +35,7 @@ The Gāndas have exogamous groups or septs of the usual low-caste type, named af
 
 
 
-## 4. Religion.
+## 04. Religion.
 
 
 
@@ -45,7 +45,7 @@ The Gāndas principally worship Dūlha Deo, the young bridegroom who was carried
 
 
 
-## 5. Occupation and social status.
+## 05. Occupation and social status.
 
 
 

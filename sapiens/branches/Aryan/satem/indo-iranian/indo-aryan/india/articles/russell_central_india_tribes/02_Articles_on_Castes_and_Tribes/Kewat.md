@@ -5,7 +5,7 @@ title = "Kewat"
 
 
 
-## 1. General notice.
+## 01. General notice.
 
 
 
@@ -15,7 +15,7 @@ title = "Kewat"
 
 
 
-## 2. Exogamous divisions and marriage.
+## 02. Exogamous divisions and marriage.
 
 
 
@@ -25,7 +25,7 @@ The caste have also a number of exogamous groups, generally named after plants o
 
 
 
-## 3. Social customs.
+## 03. Social customs.
 
 
 

@@ -34,7 +34,7 @@ title = "KOL"
 
 
 
-## 1. General notice. Strength of the Kols in India.
+## 01. General notice. Strength of the Kols in India.
 
 
 
@@ -44,7 +44,7 @@ title = "KOL"
 
 
 
-## 2. Names of the tribe.
+## 02. Names of the tribe.
 
 
 
@@ -56,7 +56,7 @@ It is this branch of the tribe whose members have come several times into contac
 
 
 
-## 3. Origin of the Kolarian tribes.
+## 03. Origin of the Kolarian tribes.
 
 
 
@@ -68,7 +68,7 @@ Sir E. Gait states: “Geologists tell us that the Indian Peninsula was formerly
 
 
 
-## 4. The Kolarians and Dravidians.
+## 04. The Kolarians and Dravidians.
 
 
 
@@ -78,7 +78,7 @@ Though the physical characteristics of the two sets of tribes display no marked 
 
 
 
-## 5. Date of the Dravidian immigration.
+## 05. Date of the Dravidian immigration.
 
 
 
@@ -90,7 +90,7 @@ The Dravidian languages occupy a large area in Madras, Mysore and Hyderābād, a
 
 
 
-## 6. Strength of the Kols in the Central Provinces.
+## 06. Strength of the Kols in the Central Provinces.
 
 
 
@@ -100,7 +100,7 @@ In the Central Provinces the Kols and Mundas numbered 85,000 persons in 1911. Th
 
 
 
-## 7. Legend of origin.
+## 07. Legend of origin.
 
 
 
@@ -110,7 +110,7 @@ The Kol legend of origin is that Sing-Bonga or the Sun created a boy and a girl 
 
 
 
-## 8. Tribal subdivisions.
+## 08. Tribal subdivisions.
 
 
 
@@ -120,7 +120,7 @@ The subcastes of the Kols in the Central Provinces differ entirely from those in
 
 
 
-## 9. Totemism.
+## 09. Totemism.
 
 
 

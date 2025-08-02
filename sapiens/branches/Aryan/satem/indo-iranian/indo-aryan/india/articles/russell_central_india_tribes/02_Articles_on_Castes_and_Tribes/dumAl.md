@@ -4,13 +4,13 @@ title = "Dumāl"
 +++
 
 
-## 1. Origin and traditions.
+## 01. Origin and traditions.
 
 **Dumāl.**1—An agricultural caste found in the Uriya country and principally in the Sonpur State, recently transferred to Bihār and Orissa. In 1901, 41,000 Dumāls were enumerated in the Central Provinces, but only a few persons now remain. The caste originally came from Orissa. They themselves say that they were formerly a branch of the Gaurs, with whom they now have no special connection. They derive their name from a village called Dumba Hadap in the Athmālik State, where they say that they lived. Another story is that Dumāl is derived from Duma, the name of a gateway in Baud town, near which they dwelt. Sir H. Risley says: “The Dumāls or Jādupuria Gaura seem to be a group of local formation. They cherish the tradition that their ancestors came to Orissa from Jādupur, but this appears to be nothing more than the name of the Jādavas or Yādavas, the mythical progenitors of the Goala caste transformed into the name of an imaginary town.” 
 
 
 
-## 2. Subdivisions.
+## 02. Subdivisions.
 
 The Dumāls have no subcastes, but they have a complicated system of exogamy. This includes three kinds of divisions or sections, the *got* or sept, the *barga* or family title and the *mitti* or earth from which they sprang, that is, the name of the original village of the clan. Marriage is prohibited only between persons who have the same *got*, *barga* and *mitti*; if any one of these is different it is allowed. Thus a man of the Nāg *got*, Padhān *barga* and Hindolsai *mitti* may marry a girl of the Nāg *got*, Padhān *barga* and Kandhpadā *mitti*; or one of the Nāg *got*, Karmi *barga* and Hindolsai *mitti*; or one of the Bud *got*, Padhān *barga* and Hindolsai *mitti*. The *bargas* are very numerous, but the *gots* and *mittis* are few and common to many *bargas*; and many people have forgotten the name of their *mitti* altogether. Marriage therefore usually depends on the *bargas* being different. The following table shows the *got*, *barga* and *mitti* of a few families: 
 
@@ -22,7 +22,7 @@ The only other *gots* besides those given above are Kachhap \(tortoise\), Ulūk 
 
 
 
-## 3. Marriage.
+## 03. Marriage.
 
 Girls must be married before adolescence, and in the event of the parents failing to accomplish this, the following heavy penalty is imposed on the girl herself. She is taken to the forest and tied to a tree with thread, this proceeding signifying her permanent exclusion from the caste. Any one belonging to another caste can then take her away and marry her if he chooses to do so. In practice, however, this penalty is very rarely imposed, as the parents can get out of it by marrying her to an old man, whether he is already married or not, the parents bearing all the expenses, while the husband gives two to four annas as a nominal contribution. After the marriage the old man can either keep the girl as his wife or divorce her for a further nominal payment of eight annas to a rupee. She then becomes a widow and can marry again, while her parents will get ten or twenty rupees for her. 
 
@@ -30,7 +30,7 @@ The boy’s father makes the proposal for the marriage according to the followin
 
 
 
-## 4. Religious and social customs.
+## 04. Religious and social customs.
 
 The caste worship the goddess Parmeshwari, the wife of Vishnu, and Jagannāth, the Uriya incarnation of Vishnu. Parmeshwari is worshipped by Brāhmans, who offer bread and *khīr* or rice and milk to her; goats are also offered by the Dehri or Mahākul, the caste priest, who receives the heads of the goats as his remuneration. They believe in witches, who they think drink the blood of children, and employ sorcerers to exorcise them. They worship a stick on Dasahra day in remembrance of their old profession of herding cattle, and they worship cows and buffaloes at the full moon of Shrāwan \(July-August\). During Kunwār, on the eighth day of each fortnight, two festivals are held. At the first each girl in the family wears a thread containing eighteen knots twisted three times round her neck. All the girls fast and receive presents of cloths and grain from their brothers. This is called Bhaijiuntia, or the ceremony for the welfare of the brothers. On the second day the mother of the family does the same, and receives presents from her sons, this being Puājiuntia, or the ceremony for the welfare of sons. The Dumāls believe that in the beginning water covered the earth. They think that the sun and moon are the eyes of God, and that the stars are the souls of virtuous men, who enjoy felicity in heaven for the period measured by the sum of their virtuous actions, and when this has expired have to descend again to earth to suffer the agonies of human life. When a shooting star is seen they think it is the soul of one of these descending to be born again on earth. They both burn and bury their dead according to their means. After a body is buried they make a fire over the grave and place an empty pot on it. Mourning is observed for twelve days in the case of a married and for seven in the case of an unmarried person. Children dying when less than six days old are not mourned at all. During mourning the persons of the household do not cook for themselves. On the third day after the death three leaf-plates, each containing a little rice, sugar and butter, are offered to the spirit of the deceased. On the fourth day four such plates are offered, and on the fifth day five, and so on up to the ninth day when the Pindas or sacrificial cakes are offered, and nine persons belonging to the caste are invited, food and a new piece of cloth being given to each. Should only one attend, nine plates of food would be served to him, and he would be given nine pieces of cloth. If two or more persons in a family are killed by a tiger, a Sulia or magician is called in, and he pretends to be the tiger and to bite some one in the family, who is then carried as a corpse to the burial-place, buried for a short time and taken out again. All the ceremonies of mourning are observed for him for one day. This proceeding is believed to secure immunity for the family from further attacks. In return for his services the Sulia gets a share of everything in the house corresponding to what he would receive, supposing he were a member of the family, on a partition. Thus if the family consisted of only two persons he would get a third part of the whole property. 
 

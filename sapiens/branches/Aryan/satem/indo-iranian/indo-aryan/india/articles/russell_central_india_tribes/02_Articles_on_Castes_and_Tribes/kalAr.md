@@ -21,7 +21,7 @@ title = "KALĀR"
 
 
 
-## 1. Strength of the caste.
+## 01. Strength of the caste.
 
 
 
@@ -31,7 +31,7 @@ title = "KALĀR"
 
 
 
-## 2. Internal structure.
+## 02. Internal structure.
 
 
 
@@ -41,7 +41,7 @@ The caste has a number of subdivisions, of which the bulk are of the territorial
 
 
 
-## 3. Dandsena Kalārs in Chhattīsgarh.
+## 03. Dandsena Kalārs in Chhattīsgarh.
 
 
 
@@ -51,7 +51,7 @@ In Chhattīsgarh the principal division of the Kalārs is that of the Dandsenas 
 
 
 
-## 4. Social customs.
+## 04. Social customs.
 
 
 
@@ -65,7 +65,7 @@ In the Central Provinces the liquor drunk is nearly all distilled from the flowe
 
 
 
-## 5. Liquor held divine in Vedic times.
+## 05. Liquor held divine in Vedic times.
 
 
 
@@ -79,7 +79,7 @@ The *soma* plant has been thought to be the *Asclepias acida*,11 a plant growing
 
 
 
-## 6. Subsequent prohibition of alcohol.
+## 06. Subsequent prohibition of alcohol.
 
 
 
@@ -89,7 +89,7 @@ Though in the cold regions of Central Asia the cheering and warming liquor had b
 
 
 
-## 7. Spirits habitually drunk in ancient times.
+## 07. Spirits habitually drunk in ancient times.
 
 
 
@@ -99,7 +99,7 @@ Nevertheless the consumption of alcohol was common in classical times. Bhāradw�
 
 
 
-## 8. Drunkenness and divine inspiration.
+## 08. Drunkenness and divine inspiration.
 
 
 
@@ -111,7 +111,7 @@ Similarly the Bacchantes in their drunken frenzy were considered to be possessed
 
 
 
-## 9. Sanctity of liquor among the Gonds and other castes.
+## 09. Sanctity of liquor among the Gonds and other castes.
 
 
 

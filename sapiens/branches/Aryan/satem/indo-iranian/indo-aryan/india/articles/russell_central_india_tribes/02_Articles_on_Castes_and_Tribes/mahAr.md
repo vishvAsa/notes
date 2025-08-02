@@ -22,7 +22,7 @@ title = "Mahār"
 + 15. Occupation 
 
 
-## 1. General Notice. 
+## 01. General Notice. 
 
 **Mahār, Mehra, Dhed.**—The impure caste of menials, labourers and village watchmen of the Marātha country, corresponding to the Chamārs and Koris of northern India. They numbered nearly 1,200,000 persons in the combined Province in 1911, and are most numerous in the Nāgpur, Bhandāra, Chānda and Wardha Districts of the Central Provinces, while considerable colonies are also found in Bālāghāt, Chhindwāra and Betūl. Their distribution thus follows largely that of the Marāthi language and the castes speaking it. Berār contained 400,000, distributed over the four Districts. In the whole Province this caste is third in point of numerical strength. In India the Mahārs number about three million persons, of whom a half belong to Bombay. I am not aware of any accepted derivation for the word Mahār, but the balance of opinion seems to be that the native name of Bombay, Mahārāshtra, is derived from that of the caste, as suggested by Wilson. Another derivation which holds it to be a corruption of Maha Rāstrakūta, and to be so called after the Rāshtrakūta Rājpūt dynasty of the eighth and ninth centuries, seems less probable because countries are very seldom named after ruling dynasties.1 Whereas in support of Mahārāshtra as ‘The country of the Mahārs,’ we have Gujarāshtra or Gujarāt, ‘the country of the Gūjars,’ and Saurāshtra or Surat, ‘the country of the Sauras.’ According to Platts’ Dictionary, however, Mahārāshtra means ‘the great country,’ and this is what the Marātha Brāhmans themselves say. Mehra appears to be a variant of the name current in the Hindustāni Districts, while Dheda, or Dhada, is said to be a corruption of Dharadas or billmen.2 In the Punjab it is said to be a general term of contempt meaning ‘Any low fellow.’3 
 
@@ -30,25 +30,25 @@ Wilson considers the Mahārs to be an aboriginal or pre-Aryan tribe, and all tha
 
 
 
-## 2. Length of residence in the Central Provinces
+## 02. Length of residence in the Central Provinces
 
 Several circumstances indicate that the Mahār is recognised as the oldest resident of the plain country of Berār and Nāgpur. In Berār he is a village servant and is the referee on village boundaries and customs, a position implying that his knowledge of them is the most ancient. At the Holi festival the fire of the Mahārs is kindled first and that of the Kunbis is set alight from it. The Kāmdār Mahār, who acts as village watchman, also has the right of bringing the *toran* or rope of leaves which is placed on the marriage-shed of the Kunbis; and for this he receives a present of three annas. In Bhandrā the Telis, Lohārs, Dhimārs and several other castes employ a Mahār *Mohturia* or wise man to fix the date of their weddings. And most curious of all, when the Panwār Rājpūts of this tract celebrate the festival of Nārāyan Deo, they call a Mahār to their house and make him the first partaker of the feast before beginning to eat themselves. Again in Berār5 the Mahār officiates at the killing of the buffalo on Dasahra. On the day before the festival the chief Mahār of the village and his wife with their garments knotted together bring some earth from the jungle and fashioning two images set one on a clay elephant and the other on a clay bullock. The images are placed on a small platform outside the village site and worshipped; a young he-buffalo is bathed and brought before the images as though for the same object. The Patel wounds the buffalo in the nose with a sword and it is then marched through the village. In the evening it is killed by the head Mahār, buried in the customary spot, and any evil that might happen during the coming year is thus deprecated and, it is hoped, averted. The claim to take the leading part in this ceremony is the occasion of many a quarrel and an occasional affray or riot Such customs tend to show that the Mahārs were the earliest immigrants from Bombay into the Berār and Nāgpur plain, excluding of course the Gonds and other tribes, who have practically been ousted from this tract. And if it is supposed that the Panwārs came here in the tenth century, as seems not improbable,6 the Mahārs, whom the Panwārs recognise as older residents than themselves, must have been earlier still, and were probably numbered among the subjects of the old Hindu kingdoms of Bhāndak and Nagardhan. 
 
 
 
-## 3. Legend of origin
+## 03. Legend of origin
 
 The Mahārs say they are descended from Mahāmuni, who was a foundling picked up by the goddess Pārvati on the banks of the Ganges. At this time beef had not become a forbidden food; and when the divine cow, Tripād Gayatri, died, the gods determined to cook and eat her body and Mahāmuni was set to watch the pot boiling. He was as inattentive as King Alfred, and a piece of flesh fell out of the pot. Not wishing to return the dirty piece to the pot Mahāmuni ate it; but the gods discovered the delinquency, and doomed him and his descendants to live on the flesh of dead cows.7 
 
 
 
-## 4. Sub-castes
+## 04. Sub-castes
 
 The caste have a number of subdivisions, generally of a local or territorial type, as Daharia, the residents of Dāhar or the Jubbulpore country, Baonia \(52\) of Berār, Nemādya or from Nimar, Khāndeshi from Khāndesh, and so on; the Katia group are probably derived from that caste, Katīa meaning a spinner; the Bārkias are another group whose name is supposed to mean spinners of fine thread; while the Lonārias are salt-makers. The highest division are the Somvansis or children of the moon; these claim to have taken part with the Pāndavas against the Kauravas in the war of the Mahābhārata, and subsequently to have settled in Mahārāshtra.8 But the Somvansi Mahārs consent to groom horses, which the Baone and Kosaria subcastes will not do. Baone and Somvansi Mahārs will take food together, but will not intermarry. The Ladwān subcaste are supposed to be the offspring of kept women of the Somvansi Mahārs; and in Wardha the Dhārmik group are also the descendants of illicit unions and their name is satirical, meaning ‘virtuous.’ As has been seen, the caste have a subdivision named Katia, which is the name of a separate Hindustāni caste; and other subcastes have names belonging to northern India, as the Mahobia, from Mahoba in the United Provinces, the Kosaria or those from Chhattīsgarh, and the Kanaujia from Kanauj. This may perhaps be taken to indicate that bodies of the Kori and Katia weaving castes of northern India have been amalgamated with the Mahārs in Districts where they have come together along the Satpūra Hills and Nerbudda Valley. 
 
 
 
-## 5. Exogamous groups and marriage customs
+## 05. Exogamous groups and marriage customs
 
 The caste have also a large number of exogamous groups, the names of which are usually derived from plants, animals, and natural objects. A few may be given as examples out of fifty-seven recorded in the Central Provinces, though this is far from representing the real total; all the common animals have septs named after them, as the tiger, cobra, tortoise, peacock, jackal, lizard, elephant, lark, scorpion, calf, and so on; while more curious names are—Darpan, a mirror; Khānda Phari, sword and shield; Undrimāria, a rat-killer; Aglāvi, an incendiary; Andhāre, a blind man; Kutramāria, a dog-killer; Kodu Dūdh, sour milk; Khobragāde, cocoanut-kernel; Bhājikhai, a vegetable eater, and so on. 
 
@@ -58,25 +58,25 @@ In Mandla at a wedding the barber comes and cuts the bride’s nails, and the cu
 
 
 
-## 6. Funeral rites
+## 06. Funeral rites
 
 The caste either burn or bury the dead and observe mourning for three days,12 having their houses whitewashed and their faces shaved. On the tenth day they give a feast to the caste-fellows. On the Akshaya Tritia 13 and the 30th day of Kunwār \(September\) they offer rice and cakes to the crows in the names of their ancestors. In Berār Mr. Kitts writes:14 “If a Mahār’s child has died, he will on the third day place bread on the grave; if an infant, milk; if an adult, on the tenth day, with five pice in one hand and five betel-leaves in the other, he goes into the river, dips himself five times and throws these things away; he then places five lighted lamps on the tomb, and after these simple ceremonies gets himself shaved as though he were an orthodox Hindu.” 
 
 
 
-## 7. Childbirth
+## 07. Childbirth
 
 In Mandla the mother is secluded at childbirth in a separate house if one is available, and if not they fence in a part of the veranda for her use with bamboo screens. After the birth the mother must remain impure until the barber comes and colours her toe-nails and draws a line round her feet with red *mahur* powder. This is indispensable, and if the barber is not immediately available she must wait until his services can be obtained. When the navel-string drops it is buried in the place on which the mother sat while giving birth, and when this has been done the purification may be effected. The Dhobi is then called to wash the clothes of the household, and their earthen pots are thrown away. The head of the newborn child is shaved clean, as the birth-hair is considered to be impure, and the hair is wrapped up in dough and thrown into a river. 
 
 
 
-## 8. Names
+## 08. Names
 
 A child is named on the seventh or twelfth day after its birth, the name being chosen by the Mohtūria or caste headman. The ordinary Hindu names of deities for men and sacred rivers or pious and faithful wives for women are employed; instances of the latter being Ganga, Godāvari, Jamuna, Sīta, Laxmi and Rādha. Opprobrious names are sometimes given to avert ill-luck, as Damdya \(purchased for eight cowries\), Kauria \(a cowrie\), Bhikāria \(a beggar\), Ghusia \(from *ghus*, a mallet for stamping earth\), Harchatt \(refuse\), Akāli \(born in famine-time\), Langra \(lame\), Lula \(having an arm useless\); or the name of another low caste is given, as Bhangi \(sweeper\), Domari \(Dom sweeper\), Chamra \(tanner\), Basori \(basket-maker\). Not infrequently children are named after the month or day when they were born, as Pusau, born in Pus \(December\), Chaitu, born in Chait \(March\), Manglu \(born on Tuesday\), Buddhi \(born on Wednesday\), Sukka \(born on Friday\), Sanīchra \(born on Saturday\). One boy was called Mulua or ‘Sold’ \(*mol-dena*\). His mother had no other children, so sold him for one pice \(farthing\) to a Gond woman. After five or six months, as he did not get fat, his name was changed to Jhuma or ‘lean,’ probably as an additional means of averting ill-luck. Another boy was named Ghurka, from the noise he made when being suckled. A child born in the absence of its father is called Sonwa, or one born in an empty house. 
 
 
 
-## 9. Religion
+## 09. Religion
 
 The great body of the caste worship the ordinary deities Devi, Hanumān, Dūlha Deo, and others, though of course they are not allowed to enter Hindu temples. They principally observe the Holi and Dasahra festivals and the days of the new and full moon. On the festival of Nāg-Panchmi they make an image of a snake with flour and sugar and eat it. At the sacred Ambāla tank at Rāmtek the Mahārs have a special bathing-ghāt set apart for them, and they may enter the citadel and go as far as the lowest step leading up to the temples; here they worship the god and think that he accepts their offerings. They are thus permitted to traverse the outer enclosures of the citadel, which are also sacred. In Wardha the Mahārs may not touch the shrines of Mahādeo, but must stand before them with their hands joined. They may sometimes deposit offerings with their own hands on those of Bhīmsen, originally a Gond god, and Māta Devi, the goddess of smallpox. 
 

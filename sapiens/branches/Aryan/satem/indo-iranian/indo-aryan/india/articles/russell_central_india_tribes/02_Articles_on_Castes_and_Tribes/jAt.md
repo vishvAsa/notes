@@ -22,7 +22,7 @@ title = "JĀT"
 
 
 
-## 1. Theories of the origin of the caste.
+## 01. Theories of the origin of the caste.
 
 
 
@@ -38,7 +38,7 @@ In the above account the country referred to is clearly the Punjab, from the men
 
 
 
-## 2. Sir D. Ibbetson’s description of the caste.
+## 02. Sir D. Ibbetson’s description of the caste.
 
 
 
@@ -50,7 +50,7 @@ Sir D. Ibbetson held that the Jāts and Rājpūts must be, to some extent at lea
 
 
 
-## 3. Are the Jāts and Rājpūts distinct?
+## 03. Are the Jāts and Rājpūts distinct?
 
 
 
@@ -60,7 +60,7 @@ Sir D. Ibbetson held that the Jāts and Rājpūts must be, to some extent at lea
 
 
 
-## 4. The position of the Jāt in the Punjab.
+## 04. The position of the Jāt in the Punjab.
 
 
 
@@ -70,7 +70,7 @@ Sir D. Ibbetson held that the Jāts and Rājpūts must be, to some extent at lea
 
 
 
-## 5. Social status of the Jāts.
+## 05. Social status of the Jāts.
 
 
 
@@ -80,7 +80,7 @@ The above account clearly indicates the social position of the Jāt. His is the 
 
 
 
-## 6. Brāhmanical legend of origin.
+## 06. Brāhmanical legend of origin.
 
 
 
@@ -90,7 +90,7 @@ The Jāts themselves relate the following Brāhmanical legend of their origin. O
 
 
 
-## 7. The Jāts in the Central Provinces.
+## 07. The Jāts in the Central Provinces.
 
 
 
@@ -100,7 +100,7 @@ No detailed description of the Jāts need be attempted here, but some informatio
 
 
 
-## 8. Marriage customs.
+## 08. Marriage customs.
 
 
 
@@ -110,7 +110,7 @@ A man may not take a wife either from his own section or that of his mother or h
 
 
 
-## 9. Funeral rites.
+## 09. Funeral rites.
 
 
 

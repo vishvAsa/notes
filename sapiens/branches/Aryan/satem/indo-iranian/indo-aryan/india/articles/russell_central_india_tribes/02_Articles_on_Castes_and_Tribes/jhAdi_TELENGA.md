@@ -16,7 +16,7 @@ title = "JHĀDI TELENGA"
 
 
 
-## 1. General notice.
+## 01. General notice.
 
 
 
@@ -26,7 +26,7 @@ title = "JHĀDI TELENGA"
 
 
 
-## 2. Exogamous divisions.
+## 02. Exogamous divisions.
 
 
 
@@ -36,7 +36,7 @@ For the purposes of marriage the caste is divided into the usual exogamous septs
 
 
 
-## 3. Admission of outsiders.
+## 03. Admission of outsiders.
 
 
 
@@ -46,7 +46,7 @@ They will admit Brāhmans, Rājpūts and Halbas into the community. If a man of 
 
 
 
-## 4. Marriage.
+## 04. Marriage.
 
 
 
@@ -56,7 +56,7 @@ A girl cannot be properly married unless the ceremony is performed before she ar
 
 
 
-## 5. Religion.
+## 05. Religion.
 
 
 
@@ -66,7 +66,7 @@ Each sept has a deity of its own who is usually some local god symbolised by a w
 
 
 
-## 6. Names.
+## 06. Names.
 
 
 
@@ -76,7 +76,7 @@ A child is named on the seventh or eighth day after birth by the old women. If i
 
 
 
-## 7. Magical devices
+## 07. Magical devices
 
 
 
@@ -86,7 +86,7 @@ When a man wishes to destroy an enemy he makes an image of him with earth and of
 
 
 
-## 8. Occupation.
+## 08. Occupation.
 
 
 

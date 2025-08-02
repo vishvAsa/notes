@@ -4,7 +4,7 @@ title = "Vaishnava, Vishnuite Sect"
 +++
 
 
-## 1. Vishnu as representing the sun.
+## 01. Vishnu as representing the sun.
 
 **Vaishnava, Vishnuite Sect**.—The name given to Hindus whose special deity is the god Vishnu, and to a number of sects which have adopted various special doctrines based on the worship of Vishnu or of one of his two great incarnations, Rāma and Krishna. Vishnu was a personification of the sun, though in ancient literature the sun is more often referred to under another name, as Savitri, Surya and Aditya. It may perhaps be the case that when the original sun-god develops into a supreme deity with the whole heavens as his sphere, the sun itself comes to be regarded as a separate and minor deity. His weapon of the *chakra* or discus, which was probably meant to resemble the sun, supports the view of Vishnu as a sun-god, and also his *vāhan*, the bird Garūda, on which he rides. This is the Brāhminy kite, a fine bird with chestnut plumage and white head and breast, which has been considered a sea-eagle. Mr. Dewar states that it remains almost motionless at a great height in the air for long periods; and it is easy to understand how in these circumstances primitive people mistook it for the spirit of the sky, or the vehicle of the sun-god. It is propitious for a Hindu to see a Brāhminy kite, especially on Sunday, the sun’s day, for it is believed that the bird is then returning from Vishnu, whom it has gone to see on the previous evening.1 A similar belief has probably led to the veneration of the eagle in other countries and its association with the god of the sky or heavens, as in the case of Zeus. Similarly the Gayatri, the most sacred Hindu prayer, is addressed to the sun, and it could hardly have been considered so important unless the luminary was identified with one of the greatest Hindu gods. Every Brāhman prays to the sun daily when he bathes in the morning. Vishnu’s character as the preserver and fosterer of life is probably derived from the sun’s generative power, so conspicuous in India. 
 
@@ -12,7 +12,7 @@ As the sun is seen to sink every night into the earth, so it was thought that he
 
 
 
-## 2. His incarnations.
+## 02. His incarnations.
 
 He is generally considered to have had ten incarnations, of which nine are past and one is still to come. The incarnations were as follows: 
 
@@ -45,7 +45,7 @@ Image of Lakshmi, the Goddess of Wealth, the consort of Vishnu, with attendant
 
 
 
-## 3. Worship of Vishnu and Vaishnava doctrines.
+## 03. Worship of Vishnu and Vaishnava doctrines.
 
 In the Central Provinces Vishnu is worshipped as Nārāyan Deo, who is identified with the sun, or as Parmeshwar, the supreme beneficent god. He is also much worshipped in his incarnations as Rāma and Krishna, and their images, with those of their consorts, Sīta and Rādha, are often to be found in his temples as well as in their own. These images are supposed to be subject to all the conditions and necessities incident to living humanity. Hence in the daily ritual they are washed, dressed, adorned and even fed like human beings, food being daily placed before them, and its aroma, according to popular belief, nourishing the god present in the image. 
 
